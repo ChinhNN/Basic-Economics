@@ -1,11 +1,14 @@
 # Quyển I, Chương III — Phân công lao động bị giới hạn bởi quy mô thị trường (That the Division of Labour is Limited by the Extent of the Market)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương III. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 43–46.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển I, Chương I chứng minh phân công là nguồn tăng năng suất lớn nhất; Chương II chứng minh phân công sinh ra từ thiên hướng trao đổi. Chương này rút hệ quả logic: nếu phân công sinh từ trao đổi, thì mức độ phân công bị giới hạn bởi mức độ trao đổi, tức là bởi quy mô thị trường; và quy mô thị trường do chi phí vận tải quyết định. Đây là cầu nối giữa lý thuyết năng suất và mọi lập luận sau này của Smith về thương mại: mọi thứ mở rộng thị trường (đường thuỷ, đường sá, tiền tệ ở Chương IV, tự do thương mại ở Quyển IV, thuộc địa) đều làm sâu phân công; mọi thứ thu hẹp thị trường (thuế quan, độc quyền, cấm vận) đều làm nông nó.
-**Ý chính:** Smith muốn chứng minh rằng **mức độ phân công lao động luôn bị giới hạn bởi quy mô thị trường**: khi thị trường nhỏ, không ai dám chuyên hẳn vào một việc vì không đổi được phần dư. Ông chứng minh bằng ví dụ vi mô (người khuân vác chỉ sống được ở thành phố; người thợ ở cao nguyên Scotland phải làm mọi việc; người thợ đinh làm 300.000 chiếc mỗi năm không thể sống ở nơi chỉ tiêu thụ không nổi 1.000 chiếc), bằng phép tính chi phí vận tải (một tàu 6–8 thuỷ thủ chở 200 tấn từ London tới Leith, bằng 50 xe ngựa, 100 người, 400 con ngựa), và bằng lịch sử văn minh (Địa Trung Hải, Ai Cập, Bengal, miền đông Trung Hoa phát triển sớm nhờ đường thuỷ; nội địa châu Phi và Siberia lạc hậu vì thiếu đường thuỷ).
+## Ý chính
 
-> **Lưu ý:** (1) Câu "Lúc đó, không có một phương tiện giao thông nào khác giữa hai nơi này ngoài đường bộ... cho nên hai thành phố này chỉ duy trì quan hệ thương mại hạn chế" bị dịch thành một sự kiện quá khứ; nguyên văn là một **giả định phản thực**: *nếu* giữa London và Edinburgh chỉ có đường bộ, thì vì chỉ những hàng có giá rất cao so với trọng lượng mới chở được, hai nơi chỉ duy trì được một phần nhỏ khối thương mại hiện có giữa chúng. Đọc theo bản dịch sẽ thấy mâu thuẫn với câu ngay sau ("hai thành phố này hiện nay có sự giao lưu buôn bán khá sầm uất"). (2) Chú thích của người dịch "Biển Tartary (giữa Viễn Đông Nga và quần đảo Sakhalin)" là sai: "biển Tartar" của Smith là **Bắc Băng Dương** đóng băng ở phía bắc Siberia, đúng như câu ngay sau mô tả ("một đại dương luôn luôn đóng băng không có khả năng phục vụ hàng hải"); eo biển Tartary giữa lục địa và Sakhalin không phải là cái Smith nói. (3) "Phoenix và Carthagene" là người Phoenicia và Carthage.
+Smith muốn chứng minh rằng **mức độ phân công lao động luôn bị giới hạn bởi quy mô thị trường**: khi thị trường nhỏ, không ai dám chuyên hẳn vào một việc vì không đổi được phần dư.
+
+Ông chứng minh:
+
+- bằng ví dụ vi mô (người khuân vác chỉ sống được ở thành phố; người thợ ở cao nguyên Scotland phải làm mọi việc; người thợ đinh làm 300.000 chiếc mỗi năm không thể sống ở nơi chỉ tiêu thụ không nổi 1.000 chiếc),
+- bằng phép tính chi phí vận tải (một tàu 6–8 thuỷ thủ chở 200 tấn từ London tới Leith, bằng 50 xe ngựa, 100 người, 400 con ngựa),
+- và bằng lịch sử văn minh (Địa Trung Hải, Ai Cập, Bengal, miền đông Trung Hoa phát triển sớm nhờ đường thuỷ; nội địa châu Phi và Siberia lạc hậu vì thiếu đường thuỷ).
 
 ## Sơ đồ
 
@@ -377,8 +380,156 @@ Ngày nay, vấn đề còn mở rộng sang các điểm nghẽn hàng hải to
 
 ### Với Việt Nam: quy mô thị trường đến từ FTA, nhưng chi phí logistics trong nước vẫn là cao nguyên Scotland
 
-Đọc theo Smith, cải cách của Việt Nam là một chuỗi mở rộng quy mô thị trường. Bước đầu tiên là thống nhất thị trường nội địa: bãi bỏ "ngăn sông cấm chợ" cuối thập niên 1980, chấm dứt tình trạng mỗi tỉnh là một thị trường riêng, đúng như cao nguyên Scotland của Smith. Bước thứ hai là hội nhập: gia nhập ASEAN (1995), hiệp định thương mại song phương với Hoa Kỳ (2001), WTO (2007), rồi các FTA thế hệ mới như CPTPP và EVFTA. Với dân số khoảng 100 triệu người, thị trường nội địa Việt Nam đã khá lớn; nhưng chính việc mở ra thị trường thế giới mới cho phép các khâu sản xuất như lắp ráp điện tử hay may mặc chuyên môn hoá ở quy mô hàng trăm nghìn lao động. Đúng như Smith nói về London và Calcutta: hai nơi xa nhau trở thành thị trường của nhau khi chi phí vận chuyển và rào cản giảm đủ.
+Đọc theo Smith, cải cách của Việt Nam là một chuỗi mở rộng quy mô thị trường. Bước đầu tiên là thống nhất thị trường nội địa: bãi bỏ "ngăn sông cấm chợ" cuối thập niên 1980, chấm dứt tình trạng mỗi tỉnh là một thị trường riêng, đúng như cao nguyên Scotland của Smith.
 
-Phần còn lại của bức tranh là chi phí vận tải trong nước. Phép tính London–Leith của Smith có một phiên bản Việt Nam: đồng bằng sông Cửu Long có mạng sông kênh dày đặc giống Hạ Ai Cập trong mô tả của Smith, và một phần lớn lúa gạo, vật liệu xây dựng vẫn đi bằng đường thuỷ nội địa vì nó rẻ hơn đường bộ rất nhiều. Nhưng phần lớn hàng hoá xuất khẩu công nghiệp lại đi đường bộ tới cảng, và chi phí logistics so với GDP của Việt Nam thường được đánh giá là cao hơn nhiều nước trong khu vực (các ước tính khác nhau tuỳ phương pháp). Theo logic của Smith, một khoản đầu tư hạ tầng làm giảm chi phí đưa hàng từ vùng nội địa ra cảng (đường cao tốc Bắc–Nam, kết nối cảng nước sâu, nâng cấp đường thuỷ nội địa) không chỉ tiết kiệm chi phí vận tải; nó mở rộng thị trường của các vùng xa cảng, cho phép phân công lao động lan vào nội địa, đúng như quá trình Smith mô tả từ ven biển vào trong đất liền. Chênh lệch phát triển giữa các tỉnh ven biển và các tỉnh miền núi phía Bắc, Tây Nguyên chính là chênh lệch về quy mô thị trường tiếp cận được.
+Bước thứ hai là hội nhập: gia nhập ASEAN (1995), hiệp định thương mại song phương với Hoa Kỳ (2001), WTO (2007), rồi các FTA thế hệ mới như CPTPP và EVFTA.
+
+Với dân số khoảng 100 triệu người, thị trường nội địa Việt Nam đã khá lớn; nhưng chính việc mở ra thị trường thế giới mới cho phép các khâu sản xuất như lắp ráp điện tử hay may mặc chuyên môn hoá ở quy mô hàng trăm nghìn lao động. Đúng như Smith nói về London và Calcutta: hai nơi xa nhau trở thành thị trường của nhau khi chi phí vận chuyển và rào cản giảm đủ.
+
+Phần còn lại của bức tranh là chi phí vận tải trong nước. Phép tính London–Leith của Smith có một phiên bản Việt Nam: đồng bằng sông Cửu Long có mạng sông kênh dày đặc giống Hạ Ai Cập trong mô tả của Smith, và một phần lớn lúa gạo, vật liệu xây dựng vẫn đi bằng đường thuỷ nội địa vì nó rẻ hơn đường bộ rất nhiều. Nhưng phần lớn hàng hoá xuất khẩu công nghiệp lại đi đường bộ tới cảng, và chi phí logistics so với GDP của Việt Nam thường được đánh giá là cao hơn nhiều nước trong khu vực (các ước tính khác nhau tuỳ phương pháp).
+
+Theo logic của Smith, một khoản đầu tư hạ tầng làm giảm chi phí đưa hàng từ vùng nội địa ra cảng (đường cao tốc Bắc–Nam, kết nối cảng nước sâu, nâng cấp đường thuỷ nội địa) không chỉ tiết kiệm chi phí vận tải; nó mở rộng thị trường của các vùng xa cảng, cho phép phân công lao động lan vào nội địa, đúng như quá trình Smith mô tả từ ven biển vào trong đất liền. Chênh lệch phát triển giữa các tỉnh ven biển và các tỉnh miền núi phía Bắc, Tây Nguyên chính là chênh lệch về quy mô thị trường tiếp cận được.
 
 Đoạn về sông Danube có một phiên bản đảo ngược với Việt Nam. Việt Nam là nước hạ nguồn của sông Mê Kông, nên không chịu rủi ro bị chặn đường ra biển như Bavaria hay Áo. Nhưng rủi ro chuyển sang một dạng khác mà Smith không thể hình dung: các đập thuỷ điện ở thượng nguồn kiểm soát không phải đường đi của tàu thuyền mà là lượng nước và phù sa, thứ đã tạo ra chính đồng bằng màu mỡ và mạng đường thuỷ của nó. Nguyên lý của Smith vẫn đúng: một dòng sông chảy qua nhiều nước thì giá trị của nó với mỗi nước phụ thuộc vào ai kiểm soát phần nào, và lời giải chỉ có thể là thể chế hợp tác xuyên quốc gia.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển I, Chương III trên một trang: năm nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết và phần Đánh giá (thị trường nhỏ giới hạn chuyên môn hoá qua các ví dụ vi mô, chi phí vận tải đường thuỷ so với đường bộ, ven nước phát triển trước qua lịch sử văn minh, phản chứng và sông xuyên quốc gia, hệ quả và giới hạn của lập luận), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương III: vì phân công sinh từ trao đổi, mức độ phân công luôn bị giới hạn bởi quy mô thị trường`"]
+  n1["`Mục 1–2 — Thị trường nhỏ thì không ai dám chuyên hẳn vào một việc`"]
+  n0 --- n1
+  n2["`Hệ quả logic từ Chương II: phân công bị giới hạn bởi mức độ của khả năng trao đổi`"]
+  n1 --- n2
+  n3["`Người chuyên môn hoá sống bằng đổi phần dư, không đổi được thì quay về tự làm mọi thứ`"]
+  n1 --- n3
+  n4["`Người khuân vác chỉ sống được ở thành phố lớn, ngay cả thị trấn chợ hiếm khi đủ việc`"]
+  n1 --- n4
+  n5["`Cao nguyên Scotland: mỗi nông dân tự làm người mổ thịt, làm bánh, nấu bia cho nhà mình`"]
+  n1 --- n5
+  n6["`Khó tìm thợ rèn, thợ mộc, thợ nề thứ hai trong vòng 20 dặm, gia đình cách nhau 8–10 dặm`"]
+  n5 --- n6
+  n7["`Thợ nông thôn kiêm mọi việc cùng nguyên liệu: thợ mộc đóng đồ gỗ, chạm khắc, đóng xe, làm cày`"]
+  n1 --- n7
+  n8["`Thợ đinh: 1.000 chiếc/ngày × 300 ngày = 300.000 chiếc/năm`"]
+  n1 --- n8
+  n9["`Vùng cao Scotland không tiêu thụ nổi 1.000 đinh, tức sản lượng một ngày, nên nghề thợ đinh không tồn tại`"]
+  n8 --- n9
+  n10["`Mục 3 — Chi phí vận tải quyết định quy mô thị trường`"]
+  n0 --- n10
+  n11["`Đường thuỷ mở thị trường rộng hơn nhiều, phân công bắt đầu ở ven biển và ven sông có tàu thuyền`"]
+  n10 --- n11
+  n12["`London–Edinburgh đường bộ: 1 xe bánh rộng, 2 người, 8 ngựa chở khoảng 4 tấn, 6 tuần đi về`"]
+  n10 --- n12
+  n13["`Đường biển: 1 tàu với 6–8 thuỷ thủ chở khoảng 200 tấn trong cùng thời gian`"]
+  n10 --- n13
+  n14["`Chở 200 tấn bằng đường bộ cần 50 xe lớn, 100 người, 400 con ngựa`"]
+  n13 --- n14
+  n15["`Chi phí đường bộ: nuôi 100 người trong 3 tuần, nuôi và hao mòn 400 ngựa, hao mòn 50 xe`"]
+  n10 --- n15
+  n16["`Chi phí đường biển: nuôi 6–8 người, hao mòn tàu 200 tấn, cộng chênh lệch phí bảo hiểm`"]
+  n10 --- n16
+  n17["`Giả định phản thực: nếu chỉ có đường bộ, chỉ hàng giá rất cao so với trọng lượng mới chở nổi`"]
+  n10 --- n17
+  n18["`Hai nơi chỉ giữ một phần nhỏ khối thương mại hiện có, khích lệ công nghiệp của nhau ít hơn nhiều`"]
+  n17 --- n18
+  n19["`London–Calcutta chỉ buôn bán được bằng đường biển, đường bộ vừa quá đắt vừa không an toàn`"]
+  n10 --- n19
+  n20["`Mục 4–5 — Ven nước phát triển trước, nội địa đi sau`"]
+  n0 --- n20
+  n21["`Nội địa chỉ bán được cho vùng xung quanh, thị trường tương xứng với của cải và dân số vùng đó`"]
+  n20 --- n21
+  n22["`Đồn điền thuộc địa Bắc Mỹ luôn bám bờ biển hoặc bờ sông thuyền đi được`"]
+  n20 --- n22
+  n23["`Văn minh đầu tiên quanh Địa Trung Hải, vịnh lớn nhất thế giới đã biết`"]
+  n20 --- n23
+  n24["`Không thuỷ triều, sóng chỉ do gió, nhiều đảo, bờ gần nhau: lý tưởng khi chưa có la bàn`"]
+  n23 --- n24
+  n25["`Phoenicia và Carthage lâu dài là dân duy nhất dám vượt eo Gibraltar (cột trụ Hercules)`"]
+  n23 --- n25
+  n26["`Ai Cập phát triển sớm nhất ven Địa Trung Hải nhờ sông Nile chia nhiều kênh ở Hạ Ai Cập`"]
+  n20 --- n26
+  n27["`Mạng kênh nối thành phố, làng, trang trại như sông Rhine và Maas ở Hà Lan`"]
+  n26 --- n27
+  n28["`Bengal nhờ sông Hằng, miền đông Trung Hoa nhờ mạng kênh lạch có lẽ rộng hơn Nile và Hằng cộng lại`"]
+  n20 --- n28
+  n29["`Ai Cập, Ấn Độ, Trung Hoa cổ không khuyến khích ngoại thương mà vẫn giàu nhờ đường thuỷ nội địa`"]
+  n20 --- n29
+  n30["`Điều quan trọng là quy mô thị trường, không nhất thiết là thị trường nước ngoài`"]
+  n29 --- n30
+  n31["`Mục 6–7 — Thiếu đường thuỷ hay sông bị chia cắt thì thị trường hẹp`"]
+  n0 --- n31
+  n32["`Nội địa châu Phi, Scythia, Tartary, Siberia ở mọi thời đại đều hoang dã và thiếu văn minh`"]
+  n31 --- n32
+  n33["`Bắc Á: biển Tartar là Bắc Băng Dương đóng băng, các sông lớn nằm quá xa nhau`"]
+  n31 --- n33
+  n34["`Châu Phi không có biển nội địa như Baltic, Adriatic, Địa Trung Hải, biển Đen hay các vịnh châu Á`"]
+  n31 --- n34
+  n35["`Sông không chia nhánh chảy qua nước khác: nước hạ lưu luôn có thể chặn đường ra biển`"]
+  n31 --- n35
+  n36["`Danube ít ích cho Bavaria, Áo, Hungary so với khi một nước nắm toàn bộ dòng sông tới biển Đen`"]
+  n35 --- n36
+  n37["`Biên giới chính trị cũng thu hẹp thị trường như địa lý`"]
+  n31 --- n37
+  n38["`Đánh giá — Chương ngắn biến lý thuyết năng suất thành lý thuyết tăng trưởng`"]
+  n0 --- n38
+  n39["`Vòng tự củng cố: thị trường lớn → năng suất cao → thu nhập cao → thị trường lớn hơn`"]
+  n38 --- n39
+  n40["`Stigler (1951) gọi là định lý Smith, Allyn Young (1928) phát triển thành lợi suất tăng toàn nền kinh tế`"]
+  n38 --- n40
+  n41["`Bị bỏ quên gần hai thế kỷ vì lợi suất tăng không tương thích với cạnh tranh hoàn hảo`"]
+  n38 --- n41
+  n42["`Kinh tế học địa lý mới (Krugman, 1991) và mô hình lực hấp dẫn đưa chi phí vận tải trở lại trung tâm`"]
+  n41 --- n42
+  n43["`Bằng chứng lịch sử một chiều: lưu vực Amazon, Congo có đường thuỷ mà không phát triển sớm`"]
+  n38 --- n43
+  n44["`Bỏ qua đất phù sa: sông có thể làm giàu qua nông nghiệp và dân số đông, không chỉ qua vận tải`"]
+  n38 --- n44
+  n45["`Thị trường nội địa lớn có thể làm giàu nhưng có giới hạn mà chỉ thị trường thế giới vượt qua được`"]
+  n38 --- n45
+  n46["`Giá trị tuyến thương mại phụ thuộc ai kiểm soát điểm nghẽn: eo Malacca, kênh Suez, Panama, Biển Đông`"]
+  n38 --- n46
+  n47["`Việt Nam mở rộng thị trường: bãi bỏ ngăn sông cấm chợ, ASEAN 1995, WTO 2007, CPTPP, EVFTA`"]
+  n38 --- n47
+  n48["`Chi phí logistics ra cảng còn cao: hạ tầng giúp phân công lan từ ven biển vào nội địa`"]
+  n47 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Mọi thứ làm rẻ vận tải (kênh, đường sá, cảng) và gỡ rào cản thương mại đều làm sâu phân công`"]
+  n49 --- n50
+  n51["`Thuế quan, độc quyền, cấm vận thu hẹp thị trường nên làm nông phân công`"]
+  n49 --- n51
+  n52["`Cơ sở cho tự do thương mại ở Quyển IV và công trình công phục vụ thương mại ở Quyển V`"]
+  n49 --- n52
+  n53["`Chương nối lý thuyết năng suất của Chương I với mọi lập luận sau về thương mại, tiền tệ, thuộc địa`"]
+  n49 --- n53
+  class n0 root
+  class n1,n10,n20,n31,n38,n49 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương III. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 43–46.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển I, Chương I chứng minh phân công là nguồn tăng năng suất lớn nhất; Chương II chứng minh phân công sinh ra từ thiên hướng trao đổi. Chương này rút hệ quả logic: nếu phân công sinh từ trao đổi, thì mức độ phân công bị giới hạn bởi mức độ trao đổi, tức là bởi quy mô thị trường; và quy mô thị trường do chi phí vận tải quyết định.
+
+Đây là cầu nối giữa lý thuyết năng suất và mọi lập luận sau này của Smith về thương mại: mọi thứ mở rộng thị trường (đường thuỷ, đường sá, tiền tệ ở Chương IV, tự do thương mại ở Quyển IV, thuộc địa) đều làm sâu phân công; mọi thứ thu hẹp thị trường (thuế quan, độc quyền, cấm vận) đều làm nông nó.
+
+## Lưu ý
+
+- Câu "Lúc đó, không có một phương tiện giao thông nào khác giữa hai nơi này ngoài đường bộ... cho nên hai thành phố này chỉ duy trì quan hệ thương mại hạn chế" bị dịch thành một sự kiện quá khứ; nguyên văn là một **giả định phản thực**: *nếu* giữa London và Edinburgh chỉ có đường bộ, thì vì chỉ những hàng có giá rất cao so với trọng lượng mới chở được, hai nơi chỉ duy trì được một phần nhỏ khối thương mại hiện có giữa chúng. Đọc theo bản dịch sẽ thấy mâu thuẫn với câu ngay sau ("hai thành phố này hiện nay có sự giao lưu buôn bán khá sầm uất").
+- Chú thích của người dịch "Biển Tartary (giữa Viễn Đông Nga và quần đảo Sakhalin)" là sai: "biển Tartar" của Smith là **Bắc Băng Dương** đóng băng ở phía bắc Siberia, đúng như câu ngay sau mô tả ("một đại dương luôn luôn đóng băng không có khả năng phục vụ hàng hải"); eo biển Tartary giữa lục địa và Sakhalin không phải là cái Smith nói.
+- "Phoenix và Carthagene" là người Phoenicia và Carthage.

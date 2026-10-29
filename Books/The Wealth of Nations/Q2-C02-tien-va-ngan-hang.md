@@ -1,13 +1,20 @@
 # Quyển II, Chương II — Tiền như một bộ phận đặc biệt của tổng vốn xã hội, hay chi phí duy trì vốn quốc gia (Of Money considered as a particular Branch of the general Stock of the Society, or of the Expence of maintaining the National Capital)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Chương II. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 273–315.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển II, Chương I vừa chia vốn xã hội thành vốn tiêu dùng, vốn cố định (máy móc, nhà xưởng, đất đã cải tạo, tài năng) và vốn luân chuyển (tiền, lương thực, nguyên liệu, thành phẩm). Chương này lấy riêng khoản tiền ra và chứng minh rằng nó là khoản duy nhất của vốn luân chuyển mà việc duy trì làm giảm thu nhập ròng của xã hội, tức nó hành xử như một cỗ máy cố định. Từ đó Smith rút ra lý lẽ kinh tế cho tiền giấy và ngân hàng, rồi đặt ra các giới hạn cho chúng. Chương này là nền cho cuộc tấn công phái trọng thương ở Quyển IV: nếu tiền chỉ là "bánh xe lưu thông" chứ không phải thu nhập, thì tích trữ vàng bạc không làm quốc gia giàu thêm.
-**Ý chính:** Smith chứng minh ba mệnh đề nối tiếp. (1) Thu nhập thực của xã hội là lượng hàng hoá tiêu dùng được sau khi trừ chi phí duy trì vốn; tiền là "bánh xe lưu thông vĩ đại", rất đắt để duy trì, nhưng tự nó không phải thu nhập. (2) Vì vậy thay vàng bạc bằng tiền giấy ngân hàng, thứ rẻ hơn nhiều, giải phóng vàng bạc để đổi lấy nguyên liệu, công cụ và lương thực ở nước ngoài, làm tăng vốn hoạt động của đất nước; Scotland là bằng chứng. (3) Nhưng lợi ích đó có giới hạn chặt: tổng tiền giấy không thể vượt lượng vàng bạc mà nó thay thế, nếu không phần dư sẽ quay về ngân hàng đòi đổi vàng; ngân hàng chỉ nên chiết khấu hối phiếu thật và cho vay phần vốn mà nhà buôn lẽ ra phải giữ sẵn bằng tiền mặt, không được tài trợ vốn cố định hay dự án dài hạn. Smith minh hoạ cái giá của việc vi phạm giới hạn bằng thủ đoạn "rút và phát lại" hối phiếu, sự sụp đổ của một ngân hàng mới ở Scotland (Ngân hàng Ayr), kế hoạch Mississippi của John Law và tiền giấy thuộc địa Mỹ. Ông kết luận rằng ngân hàng có thể hoàn toàn tự do và cạnh tranh, với hai điều kiện: cấm tiền giấy mệnh giá nhỏ và buộc đổi ra vàng bạc ngay, vô điều kiện.
+## Ý chính
 
-> **Lưu ý:** bản dịch chương này có nhiều lỗi làm sai nghĩa kinh tế. (1) Đoạn về "cash account": bản dịch nói hai ngân hàng đầu tiên "chỉ hạn chế hoạt động kinh doanh của mình trong việc thanh toán trước thời hạn các hối phiếu. Cho nên họ phát hành… tài khoản tiền mặt", ý gốc ngược lại: vì thương mại Scotland quá nhỏ, nếu **chỉ** chiết khấu hối phiếu thì họ sẽ có rất ít việc, **nên** họ nghĩ ra cash account; hạn mức là "hai, ba nghìn bảng" chứ không phải "đồng". (2) "Ngân hàng nước Anh cũng ổn định chẳng khác gì chính phủ Anh. Những người cho ngân hàng vay tiền không phải chịu một sự thiệt hại nào mặc dù số tiền mà ngân hàng cho dân chúng vay có thể bị mất": ý gốc là **toàn bộ** khoản Ngân hàng đã cho nhà nước vay phải mất hết thì chủ nợ của Ngân hàng mới bắt đầu chịu thiệt. (3) "The public" (nhà nước, ngân khố) bị dịch là "dân chúng" xuyên suốt phần Ngân hàng Anh; các khoản "cho dân chúng vay" thực ra là cho chính phủ vay. (4) Đoạn về tiền giấy và giá cả bỏ mất cụm "người ta nói rằng": câu "Khi tăng số lượng tiền giấy… thì tất nhiên giá… tăng lên" là quan điểm Smith **trích để bác bỏ**, không phải quan điểm của ông. (5) Về John Law: bản dịch viết như thể nghị viện Scotland sau đó đã thông qua kế hoạch; thực ra nghị viện Scotland bác bỏ, và kế hoạch về sau được Công tước Orléans, nhiếp chính Pháp, áp dụng ở Pháp. (6) Phí chuyển tiền của các ngân hàng Scotland là "ít khi dưới 1,5 hay 2%", bản dịch in thành "1/5 hay 2%"; tiền được chở về bằng xe ngựa chở hàng, bản dịch viết "toa xe lửa" (năm 1776 chưa có đường sắt). (7) Đoạn về "quân vương" (prince) bảo vệ lãnh thổ bị dịch thành "một vị tướng". (8) Câu "việc thanh toán này của ngân hàng Amsterdam… chỉ là ảo tưởng" đúng ra là: **cách giải thích** này về khoản chênh giá (agio) của ngân hàng Amsterdam phần lớn là ảo tưởng. (9) Bản dịch bỏ mất câu so sánh nổi tiếng: nghĩa vụ xây tường ngăn cháy giữa các nhà để lửa không lan sang nhau cũng vi phạm tự do tự nhiên giống hệt các quy định ngân hàng được đề xuất. (10) Câu về ngân hàng Ayr "mặc dù công việc điều hành như thế này là phù hợp với thực tiễn và có lãi" là câu giả định trong nguyên bản: **dù cho** cách làm đó có khả thi và có lãi đến đâu với ngân hàng, đất nước cũng không được lợi. Ngoài ra có lỗi chính tả số liệu ("800.00 bảng" là 800.000 bảng; vốn tăng năm 1697 "1.001.171 bảng 1 shilling" mâu thuẫn với tổng "2.201.171 bảng 10 shilling", con số đúng là 1.001.171 bảng 10 shilling), một câu bị lặp ("Cần phải giảm số lợi nhuận…"), "hai ngân hàng quốc doanh" (đúng là hai ngân hàng "công", lập theo đạo luật hay hiến chương, nhưng là công ty cổ phần tư nhân), và "các kết quả của nhà băng" (đúng là "các két"); số phiếu ngân khố bị huỷ năm 1708 thiếu phần lẻ: đúng là 1.775.027 bảng 17 shilling 10,5 penny (1.600.000 + 1.775.027 bảng 17s 10½d = 3.375.027 bảng 17s 10½d).
+Smith chứng minh ba mệnh đề nối tiếp.
 
-**Đơn vị tiền:** 1 bảng (pound sterling) = 20 shilling; 1 shilling = 12 penny. 1 guinea là đồng vàng trị giá 21 shilling.
+(1) Thu nhập thực của xã hội là lượng hàng hoá tiêu dùng được sau khi trừ chi phí duy trì vốn; tiền là "bánh xe lưu thông vĩ đại", rất đắt để duy trì, nhưng tự nó không phải thu nhập.
+
+(2) Vì vậy thay vàng bạc bằng tiền giấy ngân hàng, thứ rẻ hơn nhiều, giải phóng vàng bạc để đổi lấy nguyên liệu, công cụ và lương thực ở nước ngoài, làm tăng vốn hoạt động của đất nước; Scotland là bằng chứng.
+
+(3) Nhưng lợi ích đó có giới hạn chặt: tổng tiền giấy không thể vượt lượng vàng bạc mà nó thay thế, nếu không phần dư sẽ quay về ngân hàng đòi đổi vàng.
+
+Ngân hàng chỉ nên chiết khấu hối phiếu thật và cho vay phần vốn mà nhà buôn lẽ ra phải giữ sẵn bằng tiền mặt, không được tài trợ vốn cố định hay dự án dài hạn.
+
+Smith minh hoạ cái giá của việc vi phạm giới hạn bằng thủ đoạn "rút và phát lại" hối phiếu, sự sụp đổ của một ngân hàng mới ở Scotland (Ngân hàng Ayr), kế hoạch Mississippi của John Law và tiền giấy thuộc địa Mỹ.
+
+Ông kết luận rằng ngân hàng có thể hoàn toàn tự do và cạnh tranh, với hai điều kiện: cấm tiền giấy mệnh giá nhỏ và buộc đổi ra vàng bạc ngay, vô điều kiện.
 
 ## Sơ đồ
 
@@ -332,7 +339,9 @@
 
 ## Khái niệm cần biết
 
-**Thu nhập gộp và thu nhập ròng (gross revenue / neat revenue).** Thu nhập gộp là toàn bộ những gì làm ra trong một năm; thu nhập ròng là phần còn lại sau khi trừ đi những gì phải bỏ ra để giữ cho "cỗ máy sản xuất" không bị hao mòn. Smith dùng ví dụ địa tô của một điền chủ: người thuê đất trả ông toàn bộ tiền thuê (địa tô gộp), nhưng ông phải bỏ một phần ra sửa nhà, sửa rào, trả người quản lý; phần còn lại mà ông tiêu được mà không làm điền sản xuống cấp mới là địa tô ròng. Ví dụ minh hoạ: một điền sản thu 1.000 bảng tiền thuê mỗi năm, tốn 200 bảng sửa chữa và quản lý, thì địa tô ròng là 800 bảng; nếu sắp xếp khéo hơn để chỉ tốn 150 bảng mà sản lượng không giảm, địa tô ròng lên 850 bảng dù địa tô gộp không đổi. Khái niệm này là nền của cả chương: Smith sẽ chứng minh rằng tiền là một khoản "chi phí duy trì" như vậy, nên tiết kiệm được nó thì thu nhập ròng của cả nước tăng.
+**Thu nhập gộp và thu nhập ròng (gross revenue / neat revenue).** Thu nhập gộp là toàn bộ những gì làm ra trong một năm; thu nhập ròng là phần còn lại sau khi trừ đi những gì phải bỏ ra để giữ cho "cỗ máy sản xuất" không bị hao mòn. Smith dùng ví dụ địa tô của một điền chủ: người thuê đất trả ông toàn bộ tiền thuê (địa tô gộp), nhưng ông phải bỏ một phần ra sửa nhà, sửa rào, trả người quản lý; phần còn lại mà ông tiêu được mà không làm điền sản xuống cấp mới là địa tô ròng.
+
+Ví dụ minh hoạ: một điền sản thu 1.000 bảng tiền thuê mỗi năm, tốn 200 bảng sửa chữa và quản lý, thì địa tô ròng là 800 bảng; nếu sắp xếp khéo hơn để chỉ tốn 150 bảng mà sản lượng không giảm, địa tô ròng lên 850 bảng dù địa tô gộp không đổi. Khái niệm này là nền của cả chương: Smith sẽ chứng minh rằng tiền là một khoản "chi phí duy trì" như vậy, nên tiết kiệm được nó thì thu nhập ròng của cả nước tăng.
 
 **Vốn cố định và vốn luân chuyển (fixed capital / circulating capital).** Đây là cách Smith chia vốn ở chương trước. Vốn cố định là thứ sinh lợi mà không đổi chủ: máy móc, nhà xưởng, đất đã cải tạo, tay nghề của người lao động. Vốn luân chuyển là thứ sinh lợi bằng cách đi ra rồi quay về: tiền, lương thực, nguyên liệu, thành phẩm chờ bán. Ví dụ minh hoạ: với một xưởng dệt, khung cửi là vốn cố định; sợi, tiền trả công thợ và vải trong kho là vốn luân chuyển. Khái niệm này quan trọng vì luận điểm trung tâm của chương là: trong bốn khoản của vốn luân chuyển, tiền là khoản duy nhất hành xử giống vốn cố định, tức tốn chi phí duy trì mà tự nó không được tiêu dùng.
 
@@ -392,7 +401,9 @@ Với một cá nhân, số tiền nhận mỗi năm thường bằng đúng thu
 
 Từ ba điểm trên, Smith rút ra hệ quả thực tế: thay tiền vàng bạc bằng tiền giấy là thay một công cụ thương mại rất đắt bằng một công cụ rẻ hơn nhiều, mà đôi khi tiện dụng như nhau. Lưu thông vẫn chạy, nhưng bằng một "bánh xe" mới tốn ít hơn nhiều để làm ra và để duy trì. Có nhiều loại tiền giấy, nhưng giấy bạc lưu hành của ngân hàng và chủ ngân hàng là loại quen thuộc nhất và thích hợp nhất cho mục đích này.
 
-**Cơ chế ở một ngân hàng.** Khi dân một nước tin vào sự giàu có, liêm chính và thận trọng của một chủ ngân hàng, tin rằng ông luôn sẵn sàng trả theo yêu cầu những lệnh phiếu của mình, thì các lệnh phiếu đó có giá như vàng bạc, vì có thể đổi ra vàng bạc bất cứ lúc nào. Giả sử chủ ngân hàng cho khách vay bằng lệnh phiếu của mình tới **100.000 bảng**. Vì lệnh phiếu dùng được như tiền, người vay trả lãi như thể vay vàng; lãi ấy là nguồn thu của chủ ngân hàng. Một phần lệnh phiếu sẽ quay về đòi đổi, nhưng phần lớn lưu hành nhiều tháng, nhiều năm. Kinh nghiệm cho thấy chủ ngân hàng chỉ cần giữ khoảng **20.000 bảng** vàng bạc để đáp ứng các yêu cầu đổi. Như vậy 20.000 bảng vàng bạc làm chức năng của 100.000 bảng, và **80.000 bảng** vàng bạc trở nên thừa trong lưu thông. Nếu mọi ngân hàng trong nước cùng làm như vậy, lưu thông chỉ cần **1/5** số vàng bạc trước kia.
+**Cơ chế ở một ngân hàng.** Khi dân một nước tin vào sự giàu có, liêm chính và thận trọng của một chủ ngân hàng, tin rằng ông luôn sẵn sàng trả theo yêu cầu những lệnh phiếu của mình, thì các lệnh phiếu đó có giá như vàng bạc, vì có thể đổi ra vàng bạc bất cứ lúc nào. Giả sử chủ ngân hàng cho khách vay bằng lệnh phiếu của mình tới **100.000 bảng**. Vì lệnh phiếu dùng được như tiền, người vay trả lãi như thể vay vàng; lãi ấy là nguồn thu của chủ ngân hàng.
+
+Một phần lệnh phiếu sẽ quay về đòi đổi, nhưng phần lớn lưu hành nhiều tháng, nhiều năm. Kinh nghiệm cho thấy chủ ngân hàng chỉ cần giữ khoảng **20.000 bảng** vàng bạc để đáp ứng các yêu cầu đổi. Như vậy 20.000 bảng vàng bạc làm chức năng của 100.000 bảng, và **80.000 bảng** vàng bạc trở nên thừa trong lưu thông. Nếu mọi ngân hàng trong nước cùng làm như vậy, lưu thông chỉ cần **1/5** số vàng bạc trước kia.
 
 **Cơ chế ở cả nước.** Smith mở rộng phép tính:
 
@@ -418,7 +429,9 @@ Từ ba điểm trên, Smith rút ra hệ quả thực tế: thay tiền vàng b
 
 Smith khẳng định phần lớn vàng bạc chắc chắn đi theo cách (c). Lập luận của ông dựa vào hành vi chi tiêu: có những cá nhân tăng chi tiêu dù thu nhập không tăng, nhưng không có cả một giai cấp nào làm như thế, vì nguyên tắc thận trọng buộc phần lớn người ta chi theo thu nhập. Thu nhập của những người ăn không ngồi rồi không tăng nhờ nghiệp vụ ngân hàng, nên tổng chi tiêu của họ cũng không tăng; cầu của họ về hàng ngoại xa xỉ gần như không đổi, và chỉ cần một phần nhỏ của số vàng bạc được giải phóng để đáp ứng nó. Phần còn lại, tức phần lớn, đi vào sản xuất.
 
-**Vì sao vốn hàng hoá tăng đúng bằng số vàng giải phóng.** Smith nhắc lại rằng khi tính lượng lao động mà vốn luân chuyển của một nước thuê được, chỉ tính ba khoản lương thực, nguyên liệu và thành phẩm; phải trừ đi phần tiền chỉ dùng để lưu thông ba khoản đó. Để sản xuất cần ba thứ: nguyên liệu để làm, công cụ để làm, và tiền công (hay đúng hơn là lương thực nuôi thợ). Tiền không phải nguyên liệu, không phải công cụ, và dù tiền công trả bằng tiền, thu nhập thực của người thợ là thứ tiền mua được, không phải đồng tiền. Lượng lao động mà một vốn thuê được bằng số thợ mà vốn ấy cung cấp được nguyên liệu, công cụ và lương thực. Tiền có thể cần để mua những thứ đó, nhưng tổng vốn kinh doanh không bằng cả tiền lẫn hàng, mà chỉ bằng một trong hai, và đúng hơn là bằng hàng.
+**Vì sao vốn hàng hoá tăng đúng bằng số vàng giải phóng.** Smith nhắc lại rằng khi tính lượng lao động mà vốn luân chuyển của một nước thuê được, chỉ tính ba khoản lương thực, nguyên liệu và thành phẩm; phải trừ đi phần tiền chỉ dùng để lưu thông ba khoản đó. Để sản xuất cần ba thứ: nguyên liệu để làm, công cụ để làm, và tiền công (hay đúng hơn là lương thực nuôi thợ). Tiền không phải nguyên liệu, không phải công cụ, và dù tiền công trả bằng tiền, thu nhập thực của người thợ là thứ tiền mua được, không phải đồng tiền.
+
+Lượng lao động mà một vốn thuê được bằng số thợ mà vốn ấy cung cấp được nguyên liệu, công cụ và lương thực. Tiền có thể cần để mua những thứ đó, nhưng tổng vốn kinh doanh không bằng cả tiền lẫn hàng, mà chỉ bằng một trong hai, và đúng hơn là bằng hàng.
 
 Vì vậy khi giấy thay cho vàng bạc, lượng nguyên liệu, công cụ, lương thực mà vốn luân chuyển cung cấp có thể tăng thêm bằng toàn bộ giá trị vàng bạc trước kia dùng để mua chúng. Toàn bộ giá trị của "bánh xe lưu thông" được cộng vào khối hàng hoá mà nó lưu thông.
 
@@ -515,7 +528,9 @@ Nếu mọi ngân hàng đều hiểu và để ý lợi ích riêng của mình
 
 **Bằng chứng: các ngân hàng Scotland.** Cũng vì phát hành quá, các ngân hàng Scotland phải thuê đại lý ở London gom tiền cho mình, với phí ít khi dưới **1,5 hay 2%**. Tiền gom được chở về Scotland bằng xe ngựa chở hàng và phải bảo hiểm thêm **0,75%**, tức **15 shilling cho mỗi 100 bảng**. Khi đại lý không gom kịp, ngân hàng phải ký hối phiếu đòi đại lý ở London trả; khi hối phiếu đến hạn, vài ngân hàng lâm vào thế khó đã phải ký hối phiếu mới cho cùng đại lý hay đại lý khác để trả hối phiếu cũ, khiến lãi và hoa hồng chồng chất. Ngay cả những ngân hàng Scotland chưa từng khinh suất cũng đôi khi phải dùng cách tai hại này.
 
-**Vì sao vàng mãi khan.** Vàng mà Ngân hàng Anh hay các ngân hàng Scotland trả ra để thu hồi giấy dư đi theo ba ngả: ra nước ngoài dưới dạng tiền đúc; bị nấu thành thỏi để xuất khẩu; hoặc bị nấu thành thỏi rồi bán lại cho chính Ngân hàng Anh với giá cao 4 bảng một ounce. Đồng tiền mới, nặng nhất bị chọn ra để làm việc đó, vì trong nước nó chỉ tiêu được ngang đồng cũ đã mòn, còn mang ra nước ngoài hay nấu chảy thì đáng giá hơn (vì chứa nhiều vàng hơn). Ngân hàng Anh ngạc nhiên thấy vàng mãi khan dù năm nào cũng đúc nhiều, và tình trạng tiền vàng mãi xấu đi. Số đúc hằng năm vẫn vậy, và giá vàng thỏi cao do tiền bị mòn và cắt xén lại làm cho việc đúc ngày càng tốn kém. Đây là một vòng luẩn quẩn: đúc đồng tốt chỉ để đồng tốt bị nấu chảy.
+**Vì sao vàng mãi khan.** Vàng mà Ngân hàng Anh hay các ngân hàng Scotland trả ra để thu hồi giấy dư đi theo ba ngả: ra nước ngoài dưới dạng tiền đúc; bị nấu thành thỏi để xuất khẩu; hoặc bị nấu thành thỏi rồi bán lại cho chính Ngân hàng Anh với giá cao 4 bảng một ounce. Đồng tiền mới, nặng nhất bị chọn ra để làm việc đó, vì trong nước nó chỉ tiêu được ngang đồng cũ đã mòn, còn mang ra nước ngoài hay nấu chảy thì đáng giá hơn (vì chứa nhiều vàng hơn).
+
+Ngân hàng Anh ngạc nhiên thấy vàng mãi khan dù năm nào cũng đúc nhiều, và tình trạng tiền vàng mãi xấu đi. Số đúc hằng năm vẫn vậy, và giá vàng thỏi cao do tiền bị mòn và cắt xén lại làm cho việc đúc ngày càng tốn kém. Đây là một vòng luẩn quẩn: đúc đồng tốt chỉ để đồng tốt bị nấu chảy.
 
 Ngân hàng Anh, khi bổ sung két của mình, thực chất gián tiếp cấp vàng cho cả vương quốc và lấp chỗ trống do giấy dư của cả Scotland lẫn Anh gây ra. Các ngân hàng Scotland trả giá đắt cho sự khinh suất của họ, nhưng Ngân hàng Anh trả giá còn đắt hơn: không chỉ cho sự khinh suất của chính mình mà cả cho sự khinh suất của các ngân hàng Scotland.
 
@@ -529,7 +544,9 @@ Smith chỉ ra hai hình thức cho vay đáp ứng quy tắc này.
 
 **Hình thức thứ nhất: chiết khấu hối phiếu thật.** Khi ngân hàng chiết khấu cho nhà buôn một hối phiếu thật, do một chủ nợ thật ký đòi một con nợ thật, và hối phiếu được con nợ trả khi đến hạn, thì ngân hàng chỉ ứng trước một phần giá trị mà nhà buôn lẽ ra phải giữ bằng tiền mặt. Khi đến hạn, hối phiếu được trả và hoàn lại khoản ứng trước cùng lãi. Smith so sánh két của ngân hàng với **một bể nước** có một dòng chảy ra và một dòng chảy vào bằng nhau: tiền ra để chiết khấu hối phiếu mới, tiền vào khi hối phiếu cũ đến hạn. Vì hai dòng cân bằng, bể luôn đầy hoặc gần đầy, gần như không tốn chi phí bổ sung.
 
-**Hình thức thứ hai: cash account có kiểm soát.** Một nhà buôn không buôn quá sức vẫn có lúc cần tiền mặt mà không có hối phiếu nào để chiết khấu. Ngân hàng có thể ứng trước cho ông bằng cash account theo kiểu Scotland và nhận trả dần khi ông bán được hàng, giúp ông khỏi phải giữ tiền nhàn rỗi. Nhưng ngân hàng phải theo dõi xem trong một thời gian ngắn, **4–8 tháng** (bốn, năm, sáu hay tám tháng), tổng tiền khách trả về có thường đủ bằng tổng tiền ngân hàng ứng ra không. Nếu đủ, có thể tiếp tục an toàn: dòng chảy ra lớn thì dòng chảy vào cũng lớn, két tự bổ sung. Nếu không đủ, không thể tiếp tục an toàn, vì dòng ra lớn hơn dòng vào, và két sẽ sớm cạn nếu không được bổ sung bằng những cách tốn kém.
+**Hình thức thứ hai: cash account có kiểm soát.** Một nhà buôn không buôn quá sức vẫn có lúc cần tiền mặt mà không có hối phiếu nào để chiết khấu. Ngân hàng có thể ứng trước cho ông bằng cash account theo kiểu Scotland và nhận trả dần khi ông bán được hàng, giúp ông khỏi phải giữ tiền nhàn rỗi.
+
+Nhưng ngân hàng phải theo dõi xem trong một thời gian ngắn, **4–8 tháng** (bốn, năm, sáu hay tám tháng), tổng tiền khách trả về có thường đủ bằng tổng tiền ngân hàng ứng ra không. Nếu đủ, có thể tiếp tục an toàn: dòng chảy ra lớn thì dòng chảy vào cũng lớn, két tự bổ sung. Nếu không đủ, không thể tiếp tục an toàn, vì dòng ra lớn hơn dòng vào, và két sẽ sớm cạn nếu không được bổ sung bằng những cách tốn kém.
 
 **Đòi trả dần đều đặn và hai lợi thế.** Vì vậy các ngân hàng Scotland lâu nay rất chú ý đòi khách trả dần đều đặn, và không giao dịch với khách nào, dù giàu và uy tín đến đâu, nếu khách ấy không trả đều. Nhờ đó, ngoài việc gần như không tốn chi phí bổ sung két, họ có hai lợi thế:
 
@@ -546,9 +563,13 @@ Smith chỉ ra hai hình thức cho vay đáp ứng quy tắc này.
 
 Ví dụ về vốn cố định mà Smith kể: vốn của chủ xưởng sắt để dựng lò luyện, xưởng, nhà kho, nhà ở cho thợ; vốn của chủ mỏ để đào hầm, lắp máy bơm hút nước, làm đường sá và đường goòng; vốn của người cải tạo đất để phát quang, tiêu nước, rào, bón phân, cày đất hoang, xây trang trại cùng chuồng trại và vựa thóc. Tất cả những khoản này chỉ hoàn vốn sau nhiều năm, không phù hợp với một ngân hàng mà giấy bạc có thể bị đòi đổi bất cứ lúc nào.
 
-**Những khoản dài hạn nên vay ở đâu.** Smith không phản đối việc nhà buôn và nhà sản xuất làm phần lớn dự án bằng tiền vay. Nhưng để công bằng với chủ nợ, vốn riêng của họ phải đủ lớn để bảo đảm cho vốn của chủ nợ, sao cho chủ nợ khó bị thiệt ngay cả khi dự án kém xa kỳ vọng. Và ngay cả như vậy, tiền vay chỉ trả được sau nhiều năm. Những khoản đó nên vay của **tư nhân sống bằng lãi**, có thế chấp và khế ước, tức những người không muốn tự kinh doanh mà sẵn lòng cho người đáng tin vay trong nhiều năm. Smith tóm lại bằng một câu sắc: ngân hàng cho vay mà không đòi giấy tờ thế chấp tốn kém và nhận trả dần thì là một **chủ nợ** rất tiện cho nhà buôn, nhưng nhà buôn như thế lại là một **con nợ** rất bất tiện cho ngân hàng.
+**Những khoản dài hạn nên vay ở đâu.** Smith không phản đối việc nhà buôn và nhà sản xuất làm phần lớn dự án bằng tiền vay. Nhưng để công bằng với chủ nợ, vốn riêng của họ phải đủ lớn để bảo đảm cho vốn của chủ nợ, sao cho chủ nợ khó bị thiệt ngay cả khi dự án kém xa kỳ vọng. Và ngay cả như vậy, tiền vay chỉ trả được sau nhiều năm.
 
-**Than phiền của nhà buôn.** Smith nhận xét rằng hơn 25 năm nay, các ngân hàng Scotland đã phát hành giấy ngang hoặc hơi quá mức lưu thông chứa được. Tức là họ đã giúp nhà buôn hết mức có thể mà không trái lợi ích của mình, thậm chí đã làm quá và chịu thiệt hoặc giảm lãi. Nhưng nhà buôn vẫn đòi hơn nữa. Họ nghĩ ngân hàng có thể cho vay bao nhiêu cũng được mà chẳng tốn gì ngoài **vài ram giấy**, và than phiền giám đốc ngân hàng hẹp hòi, dè dặt, không mở rộng tín dụng theo yêu cầu phát triển của đất nước. Smith chỉ ra ý thật của họ: ngân hàng không cho họ vay đủ để làm những dự án lớn vượt quá vốn của chính họ và cả số vốn họ vay được từ tư nhân có thế chấp. Nói thẳng ra, họ muốn ngân hàng cấp cho họ toàn bộ vốn kinh doanh.
+Những khoản đó nên vay của **tư nhân sống bằng lãi**, có thế chấp và khế ước, tức những người không muốn tự kinh doanh mà sẵn lòng cho người đáng tin vay trong nhiều năm. Smith tóm lại bằng một câu sắc: ngân hàng cho vay mà không đòi giấy tờ thế chấp tốn kém và nhận trả dần thì là một **chủ nợ** rất tiện cho nhà buôn, nhưng nhà buôn như thế lại là một **con nợ** rất bất tiện cho ngân hàng.
+
+**Than phiền của nhà buôn.** Smith nhận xét rằng hơn 25 năm nay, các ngân hàng Scotland đã phát hành giấy ngang hoặc hơi quá mức lưu thông chứa được. Tức là họ đã giúp nhà buôn hết mức có thể mà không trái lợi ích của mình, thậm chí đã làm quá và chịu thiệt hoặc giảm lãi. Nhưng nhà buôn vẫn đòi hơn nữa. Họ nghĩ ngân hàng có thể cho vay bao nhiêu cũng được mà chẳng tốn gì ngoài **vài ram giấy**, và than phiền giám đốc ngân hàng hẹp hòi, dè dặt, không mở rộng tín dụng theo yêu cầu phát triển của đất nước.
+
+Smith chỉ ra ý thật của họ: ngân hàng không cho họ vay đủ để làm những dự án lớn vượt quá vốn của chính họ và cả số vốn họ vay được từ tư nhân có thế chấp. Nói thẳng ra, họ muốn ngân hàng cấp cho họ toàn bộ vốn kinh doanh.
 
 ### 8. Thủ đoạn rút và phát lại hối phiếu
 
@@ -605,7 +626,9 @@ Giữa tiếng kêu ca của các nhà dự án, một ngân hàng mới đượ
 
 Vì dễ dãi, nó phát hành rất nhiều giấy bạc, phần lớn vượt sức chứa của lưu thông, nên giấy quay về đòi vàng bạc gần như ngay khi được phát ra. Két của nó không bao giờ đủ.
 
-**Vốn ảo.** Vốn của ngân hàng được góp theo nhiều đợt, tổng khoảng **160.000 bảng**, và mới góp được **80%**. Nhiều cổ đông góp đợt đầu xong thì mở cash account tại chính ngân hàng; ban giám đốc, nghĩ rằng phải đối xử với cổ đông như mọi khách hàng khác, cho họ vay qua cash account để góp các đợt sau. Như vậy chỉ là bỏ vào két này số tiền vừa lấy ra từ két kia: vốn trên giấy tăng nhưng không có đồng tiền mới nào vào ngân hàng. Smith nhận xét rằng kể cả nếu két từng đầy, việc phát hành quá sẽ rút cạn nó nhanh hơn mọi cách bổ sung, trừ cách tai hại là ký hối phiếu lên London, và khi đến hạn lại ký hối phiếu mới cũng lên London, cộng lãi và hoa hồng. Người ta nói chỉ vài tháng sau khi mở cửa, ngân hàng đã phải dùng cách này.
+**Vốn ảo.** Vốn của ngân hàng được góp theo nhiều đợt, tổng khoảng **160.000 bảng**, và mới góp được **80%**. Nhiều cổ đông góp đợt đầu xong thì mở cash account tại chính ngân hàng; ban giám đốc, nghĩ rằng phải đối xử với cổ đông như mọi khách hàng khác, cho họ vay qua cash account để góp các đợt sau. Như vậy chỉ là bỏ vào két này số tiền vừa lấy ra từ két kia: vốn trên giấy tăng nhưng không có đồng tiền mới nào vào ngân hàng.
+
+Smith nhận xét rằng kể cả nếu két từng đầy, việc phát hành quá sẽ rút cạn nó nhanh hơn mọi cách bổ sung, trừ cách tai hại là ký hối phiếu lên London, và khi đến hạn lại ký hối phiếu mới cũng lên London, cộng lãi và hoa hồng. Người ta nói chỉ vài tháng sau khi mở cửa, ngân hàng đã phải dùng cách này.
 
 **Vì sao nó sống được hơn hai năm.** Tài sản của các cổ đông, trị giá nhiều triệu bảng, theo văn bản thành lập được cam kết bảo đảm mọi nghĩa vụ của ngân hàng. Nhờ uy tín của sự bảo đảm lớn đó, dù hành xử quá dễ dãi, ngân hàng vẫn hoạt động được hơn hai năm.
 
@@ -626,9 +649,15 @@ Vì dễ dãi, nó phát hành rất nhiều giấy bạc, phần lớn vượt 
 
 **Vô tình cứu đối thủ.** Sự cứu trợ tạm thời cho nhà dự án lại trở thành sự cứu trợ lâu dài cho các ngân hàng Scotland khác. Mọi người buôn bán bằng hối phiếu luân chuyển, những người mà các ngân hàng cũ đang ngần ngại chiết khấu, đều chạy sang ngân hàng mới và được đón tiếp nồng nhiệt. Nhờ đó các ngân hàng cũ thoát ra khỏi vòng nguy hiểm mà nếu tự rút ra thì phải chịu thiệt và mất uy tín. Về lâu dài, ngân hàng mới làm tăng cái khốn thật của đất nước và cứu chính các đối thủ mà nó muốn hất cẳng.
 
-**Ảo tưởng về cách bổ sung két.** Khi ngân hàng mới mở cửa, có người cho rằng dù két cạn nhanh, nó vẫn bổ sung dễ dàng bằng tiền thu được từ chứng khoán (bất động sản cầm cố) của những người được vay. Smith tin rằng kinh nghiệm đã sớm cho họ thấy cách đó quá chậm; két cạn nhanh chỉ có thể được bổ sung bằng cách tai hại là ký hối phiếu lên London. Và dù họ huy động được nhanh như ý, họ vẫn lỗ trên mỗi lần huy động, nên về lâu dài cũng phải phá sản như một công ty thương mại bất kỳ. Không có lợi gì khi phát hành giấy quá sức chứa của lưu thông, vì phần dư phải quay về đổi vàng, ngân hàng phải đi vay để trả, và gánh toàn bộ chi phí vay, thuê đại lý tìm người có tiền cho vay, đàm phán với họ. Smith dùng lại hình ảnh bể nước: bổ sung két kiểu này giống người có một bể nước với dòng chảy ra liên tục mà không có dòng vào, phải thuê một đám người gánh nước từ một cái giếng cách đó vài dặm đổ vào để giữ bể luôn đầy.
+**Ảo tưởng về cách bổ sung két.** Khi ngân hàng mới mở cửa, có người cho rằng dù két cạn nhanh, nó vẫn bổ sung dễ dàng bằng tiền thu được từ chứng khoán (bất động sản cầm cố) của những người được vay. Smith tin rằng kinh nghiệm đã sớm cho họ thấy cách đó quá chậm; két cạn nhanh chỉ có thể được bổ sung bằng cách tai hại là ký hối phiếu lên London. Và dù họ huy động được nhanh như ý, họ vẫn lỗ trên mỗi lần huy động, nên về lâu dài cũng phải phá sản như một công ty thương mại bất kỳ.
 
-**Đất nước cũng không được lợi.** Smith đi xa hơn: **dù cho** cách làm đó có khả thi và có lãi đến đâu với ngân hàng, đất nước vẫn không được lợi mà còn thiệt. Nó không làm tăng chút nào tổng lượng vốn cho vay trong nước; nó chỉ biến ngân hàng thành người cho vay chung của cả nước. Người cần vay phải đến ngân hàng thay vì đến những tư nhân đã cho ngân hàng vay. Nhưng một ngân hàng cho 500 người vay, phần lớn giám đốc chỉ biết sơ, sẽ kém sáng suốt trong việc chọn con nợ hơn một tư nhân cho vài người quen mà ông tin là tỉnh táo, tằn tiện vay. Con nợ của một ngân hàng như thế phần lớn sẽ là **nhà dự án viển vông**, những người ký đi ký lại hối phiếu luân chuyển, dùng tiền vay vào những việc ngông cuồng mà dù được giúp đến mấy cũng không làm xong, và nếu làm xong cũng không bao giờ hoàn lại chi phí, không bao giờ tạo ra một quỹ nuôi được lượng lao động như đã dùng. Ngược lại, người vay tư nhân tỉnh táo dùng tiền vay vào những việc vừa với vốn mình, có thể kém hoành tráng nhưng chắc chắn hơn, hoàn lại vốn cùng lợi nhuận lớn, và tạo ra một quỹ nuôi lao động lớn hơn nhiều. Vấn đề không nằm ở lượng vốn, mà ở chất lượng của việc chọn ai được dùng vốn.
+Không có lợi gì khi phát hành giấy quá sức chứa của lưu thông, vì phần dư phải quay về đổi vàng, ngân hàng phải đi vay để trả, và gánh toàn bộ chi phí vay, thuê đại lý tìm người có tiền cho vay, đàm phán với họ. Smith dùng lại hình ảnh bể nước: bổ sung két kiểu này giống người có một bể nước với dòng chảy ra liên tục mà không có dòng vào, phải thuê một đám người gánh nước từ một cái giếng cách đó vài dặm đổ vào để giữ bể luôn đầy.
+
+**Đất nước cũng không được lợi.** Smith đi xa hơn: **dù cho** cách làm đó có khả thi và có lãi đến đâu với ngân hàng, đất nước vẫn không được lợi mà còn thiệt. Nó không làm tăng chút nào tổng lượng vốn cho vay trong nước; nó chỉ biến ngân hàng thành người cho vay chung của cả nước. Người cần vay phải đến ngân hàng thay vì đến những tư nhân đã cho ngân hàng vay.
+
+Nhưng một ngân hàng cho 500 người vay, phần lớn giám đốc chỉ biết sơ, sẽ kém sáng suốt trong việc chọn con nợ hơn một tư nhân cho vài người quen mà ông tin là tỉnh táo, tằn tiện vay. Con nợ của một ngân hàng như thế phần lớn sẽ là **nhà dự án viển vông**, những người ký đi ký lại hối phiếu luân chuyển, dùng tiền vay vào những việc ngông cuồng mà dù được giúp đến mấy cũng không làm xong, và nếu làm xong cũng không bao giờ hoàn lại chi phí, không bao giờ tạo ra một quỹ nuôi được lượng lao động như đã dùng.
+
+Ngược lại, người vay tư nhân tỉnh táo dùng tiền vay vào những việc vừa với vốn mình, có thể kém hoành tráng nhưng chắc chắn hơn, hoàn lại vốn cùng lợi nhuận lớn, và tạo ra một quỹ nuôi lao động lớn hơn nhiều. Vấn đề không nằm ở lượng vốn, mà ở chất lượng của việc chọn ai được dùng vốn.
 
 ### 10. John Law và kế hoạch Mississippi
 
@@ -636,7 +665,9 @@ Smith đặt Ngân hàng Ayr bên cạnh một ví dụ lớn hơn nhiều về 
 
 Ý tưởng rằng có thể nhân giấy bạc lên gần như vô hạn chính là nền thật sự của cái gọi là **kế hoạch Mississippi**, dự án ngân hàng và đầu cơ chứng khoán ngông cuồng nhất mà thế giới có lẽ từng thấy. Smith không kể chi tiết, vì Du Verney đã giải thích đầy đủ trong bản khảo cứu của ông về tác phẩm "Các suy ngẫm chính trị về thương mại và tài chính" của Du Tot.
 
-Law đã tự giải thích nguyên lý của kế hoạch trong một luận văn về tiền và thương mại, công bố ở Scotland khi ông đề xuất lần đầu. Smith nhận xét rằng những ý tưởng hoa mỹ nhưng hão huyền trong luận văn ấy, và trong các tác phẩm khác theo cùng nguyên lý, vẫn còn gây ấn tượng với nhiều người, và có lẽ đã góp phần vào nạn phát hành quá mức ở Scotland và ở những nơi khác mà người ta đang than phiền. Mối liên hệ với lý thuyết của chương là rõ: Law coi tiền là của cải và coi lượng tiền là giới hạn của sản xuất; Smith coi tiền chỉ là bánh xe, và lượng tiền có ích bị giới hạn bởi lượng hàng cần lưu thông. Giấy bạc dựa trên đất đai không thể đổi ngay ra vàng, nên không có cơ chế nào kéo phần dư về.
+Law đã tự giải thích nguyên lý của kế hoạch trong một luận văn về tiền và thương mại, công bố ở Scotland khi ông đề xuất lần đầu. Smith nhận xét rằng những ý tưởng hoa mỹ nhưng hão huyền trong luận văn ấy, và trong các tác phẩm khác theo cùng nguyên lý, vẫn còn gây ấn tượng với nhiều người, và có lẽ đã góp phần vào nạn phát hành quá mức ở Scotland và ở những nơi khác mà người ta đang than phiền.
+
+Mối liên hệ với lý thuyết của chương là rõ: Law coi tiền là của cải và coi lượng tiền là giới hạn của sản xuất; Smith coi tiền chỉ là bánh xe, và lượng tiền có ích bị giới hạn bởi lượng hàng cần lưu thông. Giấy bạc dựa trên đất đai không thể đổi ngay ra vàng, nên không có cơ chế nào kéo phần dư về.
 
 ### 11. Ngân hàng Anh
 
@@ -675,7 +706,9 @@ Sau các câu chuyện thất bại, Smith quay lại tổng kết vai trò đú
 
 **Nhưng con đường trên không thì mong manh.** Smith lập tức thêm một lời cảnh báo. Thương mại và công nghiệp của một nước, dù được tăng lên nhờ ngân hàng, không thể vững chắc khi treo trên **"đôi cánh Daedalus của tiền giấy"** như khi đi trên **"mặt đất vững chắc của vàng bạc"**. (Daedalus là nhân vật thần thoại Hy Lạp làm đôi cánh bằng sáp và lông chim để bay; con trai ông bay quá gần mặt trời, sáp chảy và rơi xuống biển.) Ngoài những tai nạn do người điều hành tiền giấy thiếu khéo léo, như các ví dụ ở mục 6 đến mục 10, còn những rủi ro mà không sự thận trọng hay khéo léo nào ngăn được.
 
-Ví dụ của Smith là **chiến tranh**. Giả sử kẻ thù chiếm được thủ đô, và cùng với nó là kho báu đang bảo chứng cho giấy bạc. Ở một nước mà lưu thông dựa hoàn toàn vào giấy, sự rối loạn sẽ lớn hơn nhiều so với một nước mà lưu thông dựa phần lớn vào vàng bạc. Khi công cụ thương mại thông thường mất giá, người ta chỉ còn cách đổi chác hàng lấy hàng hoặc mua bán chịu. Mọi khoản thuế đã thu bằng giấy bạc thì trở thành vô giá trị, nên **quân vương** không có gì để trả lương quân đội hay nạp đầy kho vũ khí, và ngân khố khó phục hồi hơn nhiều so với một nước dùng vàng bạc. Vì vậy một quân vương muốn luôn giữ lãnh thổ của mình ở thế dễ phòng thủ nhất phải đề phòng không chỉ việc phát hành quá mức làm sụp chính ngân hàng phát hành, mà cả việc để giấy chiếm **phần lớn** lưu thông của đất nước.
+Ví dụ của Smith là **chiến tranh**. Giả sử kẻ thù chiếm được thủ đô, và cùng với nó là kho báu đang bảo chứng cho giấy bạc. Ở một nước mà lưu thông dựa hoàn toàn vào giấy, sự rối loạn sẽ lớn hơn nhiều so với một nước mà lưu thông dựa phần lớn vào vàng bạc. Khi công cụ thương mại thông thường mất giá, người ta chỉ còn cách đổi chác hàng lấy hàng hoặc mua bán chịu.
+
+Mọi khoản thuế đã thu bằng giấy bạc thì trở thành vô giá trị, nên **quân vương** không có gì để trả lương quân đội hay nạp đầy kho vũ khí, và ngân khố khó phục hồi hơn nhiều so với một nước dùng vàng bạc. Vì vậy một quân vương muốn luôn giữ lãnh thổ của mình ở thế dễ phòng thủ nhất phải đề phòng không chỉ việc phát hành quá mức làm sụp chính ngân hàng phát hành, mà cả việc để giấy chiếm **phần lớn** lưu thông của đất nước.
 
 ### 13. Hai nhánh lưu thông và tiền giấy mệnh giá nhỏ
 
@@ -704,7 +737,11 @@ Giá trị hàng lưu thông giữa các nhà buôn không thể vượt giá tr
 
 **Ngân hàng vẫn giúp được nhà buôn.** Có thể lo rằng giới hạn giấy ở nhánh sỉ sẽ làm mất lợi ích của ngân hàng. Smith trả lời là không: dù giới hạn như vậy, ngân hàng vẫn giúp được công thương nghiệp gần như trước. Lý do: tiền mặt dự phòng mà nhà buôn phải giữ là để trả cho các nhà buôn khác, những người ông mua hàng; ông không cần giữ tiền cho giao dịch với người tiêu dùng, vì người tiêu dùng **mang tiền đến** cho ông chứ không lấy tiền đi. Vì vậy dù giấy chỉ được phát hành đủ cho nhánh sỉ, ngân hàng vẫn có thể, bằng chiết khấu hối phiếu thật và cash account, giải phóng phần lớn nhà buôn khỏi việc giữ tiền dự phòng nhàn rỗi, và giúp hết mức hợp lý mọi loại nhà buôn.
 
-**Tự do tự nhiên và an ninh xã hội.** Smith tự đặt ra một phản bác. Có thể nói rằng cấm người dân nhận lệnh phiếu của một ngân hàng, lớn hay nhỏ, khi chính họ sẵn lòng nhận, hay cấm một ngân hàng phát hành lệnh phiếu khi hàng xóm sẵn lòng nhận, là vi phạm **tự do tự nhiên**, thứ mà luật đáng lẽ phải bảo vệ chứ không xâm phạm. Smith thừa nhận những quy định như vậy chắc chắn là một sự vi phạm tự do tự nhiên ở một mức nào đó. Nhưng ông trả lời: việc thực hành tự do tự nhiên của một số ít cá nhân, nếu có thể đe doạ an ninh của cả xã hội, thì phải bị luật pháp của mọi chính thể hạn chế, tự do nhất cũng như chuyên chế nhất. Trong nguyên bản, Smith thêm một so sánh mà bản dịch bỏ mất: nghĩa vụ xây **tường ngăn cháy** giữa các nhà, để lửa không lan từ nhà này sang nhà khác, cũng vi phạm tự do tự nhiên đúng theo kiểu ấy, nhưng không ai cho là sai. Một ngân hàng đổ vỡ cũng như một ngôi nhà cháy: thiệt hại lan sang những người không có lỗi gì.
+**Tự do tự nhiên và an ninh xã hội.** Smith tự đặt ra một phản bác. Có thể nói rằng cấm người dân nhận lệnh phiếu của một ngân hàng, lớn hay nhỏ, khi chính họ sẵn lòng nhận, hay cấm một ngân hàng phát hành lệnh phiếu khi hàng xóm sẵn lòng nhận, là vi phạm **tự do tự nhiên**, thứ mà luật đáng lẽ phải bảo vệ chứ không xâm phạm. Smith thừa nhận những quy định như vậy chắc chắn là một sự vi phạm tự do tự nhiên ở một mức nào đó.
+
+Nhưng ông trả lời: việc thực hành tự do tự nhiên của một số ít cá nhân, nếu có thể đe doạ an ninh của cả xã hội, thì phải bị luật pháp của mọi chính thể hạn chế, tự do nhất cũng như chuyên chế nhất.
+
+Trong nguyên bản, Smith thêm một so sánh mà bản dịch bỏ mất: nghĩa vụ xây **tường ngăn cháy** giữa các nhà, để lửa không lan từ nhà này sang nhà khác, cũng vi phạm tự do tự nhiên đúng theo kiểu ấy, nhưng không ai cho là sai. Một ngân hàng đổ vỡ cũng như một ngôi nhà cháy: thiệt hại lan sang những người không có lỗi gì.
 
 ### 14. Tiền giấy, giá cả và các loại giấy không đổi được ngay
 
@@ -737,13 +774,21 @@ Hai thị trấn gần nhau như vậy thì chi phí chuyển tiền không th�
 
 Ví dụ rõ nhất về giấy không đổi được ngay là tiền giấy của các thuộc địa Bắc Mỹ. Đó không phải giấy bạc ngân hàng trả theo yêu cầu, mà là phiếu của chính quyền thuộc địa, chỉ trả được **nhiều năm** sau khi phát hành. Dù không trả lãi, chính quyền tuyên bố nó là **đồng tiền pháp định** theo đúng mệnh giá: chủ nợ buộc phải nhận nó để trả nợ.
 
-**Phép tính hiện giá của Smith.** Giả sử an ninh của thuộc địa là hoàn hảo, tức chắc chắn sẽ trả. Một tờ phiếu **100 bảng** trả sau **15 năm**, ở một nước mà lãi suất là **6%**, chỉ đáng hơn **40 bảng** tiền mặt hôm nay một chút. Kiểm tra: 100 chia cho 1,06 luỹ thừa 15 (1,06^15) cho khoảng **41,7** bảng. Lý do: một người có 41,7 bảng hôm nay, cho vay ở 6% một năm, sau 15 năm có 100 bảng; nên quyền nhận 100 bảng sau 15 năm chỉ đáng 41,7 bảng hôm nay. Buộc chủ nợ nhận tờ phiếu ấy như trả đủ một món nợ 100 bảng là một sự bất công ghê gớm, mà hiếm chính phủ nào tự xưng tự do dám làm. Đây rõ ràng, như **Tiến sĩ Douglass** trung thực và thẳng thắn đã khẳng định, là một mưu đồ của những con nợ gian lận để lừa chủ nợ.
+**Phép tính hiện giá của Smith.** Giả sử an ninh của thuộc địa là hoàn hảo, tức chắc chắn sẽ trả. Một tờ phiếu **100 bảng** trả sau **15 năm**, ở một nước mà lãi suất là **6%**, chỉ đáng hơn **40 bảng** tiền mặt hôm nay một chút. Kiểm tra: 100 chia cho 1,06 luỹ thừa 15 (1,06^15) cho khoảng **41,7** bảng. Lý do: một người có 41,7 bảng hôm nay, cho vay ở 6% một năm, sau 15 năm có 100 bảng; nên quyền nhận 100 bảng sau 15 năm chỉ đáng 41,7 bảng hôm nay.
 
-**Luật không ép được giá.** Chính quyền Pennsylvania, khi phát hành tiền giấy lần đầu năm **1722**, đã muốn đặt giấy ngang giá vàng bạc bằng cách phạt bất kỳ ai bán hàng với giá khác nhau khi được trả bằng giấy và khi được trả bằng vàng bạc. Smith gọi đó là một quy định chuyên chế mà lại kém hiệu quả. Ông phân biệt hai việc. Một đạo luật có thể làm cho **1 shilling** thành đồng tiền pháp định để trả một món nợ **1 guinea**, vì nó có thể chỉ thị toà án tha cho con nợ đã trả như vậy. Nhưng không đạo luật nào buộc được một người bán hàng, vốn tự do bán hay không bán, phải nhận một shilling thay cho một guinea làm giá hàng của mình. Luật điều khiển được quan hệ nợ cũ, nhưng không điều khiển được giá trong giao dịch mới.
+Buộc chủ nợ nhận tờ phiếu ấy như trả đủ một món nợ 100 bảng là một sự bất công ghê gớm, mà hiếm chính phủ nào tự xưng tự do dám làm. Đây rõ ràng, như **Tiến sĩ Douglass** trung thực và thẳng thắn đã khẳng định, là một mưu đồ của những con nợ gian lận để lừa chủ nợ.
+
+**Luật không ép được giá.** Chính quyền Pennsylvania, khi phát hành tiền giấy lần đầu năm **1722**, đã muốn đặt giấy ngang giá vàng bạc bằng cách phạt bất kỳ ai bán hàng với giá khác nhau khi được trả bằng giấy và khi được trả bằng vàng bạc. Smith gọi đó là một quy định chuyên chế mà lại kém hiệu quả.
+
+Ông phân biệt hai việc. Một đạo luật có thể làm cho **1 shilling** thành đồng tiền pháp định để trả một món nợ **1 guinea**, vì nó có thể chỉ thị toà án tha cho con nợ đã trả như vậy. Nhưng không đạo luật nào buộc được một người bán hàng, vốn tự do bán hay không bán, phải nhận một shilling thay cho một guinea làm giá hàng của mình. Luật điều khiển được quan hệ nợ cũ, nhưng không điều khiển được giá trong giao dịch mới.
 
 **Bằng chứng mất giá.** Bất chấp các quy định ấy, theo tỷ giá hối đoái với Anh, **100 bảng sterling** có lúc được coi là bằng **130 bảng** tiền thuộc địa ở vài thuộc địa, và tới **1.100 bảng** ở thuộc địa khác. Sự khác biệt lớn như vậy là do lượng giấy phát hành và thời hạn hoàn trả ở mỗi thuộc địa khác nhau: thuộc địa nào in nhiều hơn và hẹn trả xa hơn thì giấy mất giá nhiều hơn. Vì vậy Smith cho rằng không luật nào công bằng hơn đạo luật của Nghị viện Anh, bị dân thuộc địa kêu ca một cách vô lý, tuyên bố rằng tiền giấy thuộc địa phát hành về sau không còn là tiền pháp định.
 
-**Pennsylvania và việc nâng mệnh giá kim loại.** Pennsylvania luôn thận trọng hơn mọi thuộc địa khác trong phát hành, nên giấy của nó không bao giờ mất giá dưới giá trị của tiền kim loại thuộc địa trước lần phát hành đầu tiên. Nhưng trước đó, thuộc địa đã nâng mệnh giá tiền kim loại: một đạo luật tuyên bố rằng **5 shilling** sterling ở thuộc địa có giá **6 shilling 3 penny**, và sau đó là **6 shilling 8 penny**. Vì vậy một bảng tiền thuộc địa, kể cả khi bằng kim loại, thấp hơn một bảng sterling hơn 30%, và khi bằng giấy thì hiếm khi thấp hơn thế. (Kiểm tra: 5 shilling sterling là 60 penny, được tính bằng 6 shilling 8 penny, tức 80 penny tiền thuộc địa; như vậy một bảng sterling đổi được khoảng 1,33 bảng thuộc địa, hay nói cách khác bảng sterling cao hơn bảng thuộc địa hơn 30%.) Mục đích của việc nâng mệnh giá là ngăn xuất khẩu vàng bạc, bằng cách làm cho cùng một lượng kim loại có mệnh giá cao hơn ở thuộc địa so với ở mẫu quốc. Nhưng giá hàng nhập từ mẫu quốc tăng đúng theo tỷ lệ đó, nên vàng bạc vẫn chảy đi nhanh như cũ. Đổi tên đơn vị không thay đổi giá trị thật của kim loại.
+**Pennsylvania và việc nâng mệnh giá kim loại.** Pennsylvania luôn thận trọng hơn mọi thuộc địa khác trong phát hành, nên giấy của nó không bao giờ mất giá dưới giá trị của tiền kim loại thuộc địa trước lần phát hành đầu tiên. Nhưng trước đó, thuộc địa đã nâng mệnh giá tiền kim loại: một đạo luật tuyên bố rằng **5 shilling** sterling ở thuộc địa có giá **6 shilling 3 penny**, và sau đó là **6 shilling 8 penny**.
+
+Vì vậy một bảng tiền thuộc địa, kể cả khi bằng kim loại, thấp hơn một bảng sterling hơn 30%, và khi bằng giấy thì hiếm khi thấp hơn thế. (Kiểm tra: 5 shilling sterling là 60 penny, được tính bằng 6 shilling 8 penny, tức 80 penny tiền thuộc địa; như vậy một bảng sterling đổi được khoảng 1,33 bảng thuộc địa, hay nói cách khác bảng sterling cao hơn bảng thuộc địa hơn 30%.)
+
+Mục đích của việc nâng mệnh giá là ngăn xuất khẩu vàng bạc, bằng cách làm cho cùng một lượng kim loại có mệnh giá cao hơn ở thuộc địa so với ở mẫu quốc. Nhưng giá hàng nhập từ mẫu quốc tăng đúng theo tỷ lệ đó, nên vàng bạc vẫn chảy đi nhanh như cũ. Đổi tên đơn vị không thay đổi giá trị thật của kim loại.
 
 **Giấy được nhận nộp thuế.** Vì giấy của mỗi thuộc địa được nhận để nộp thuế của tỉnh theo đủ mệnh giá, nó có thêm một phần giá trị, nhiều hay ít tuỳ theo lượng phát hành vượt quá nhu cầu nộp thuế bao nhiêu. Ở mọi thuộc địa, lượng phát hành đều vượt xa nhu cầu đó, nên phần giá trị thêm này không cứu được giấy.
 
@@ -924,14 +969,199 @@ Nhưng lịch sử thế kỷ 19–20 nghiêng về phía ngược lại: hầu 
 
 ### Với Việt Nam: SCB, Ngân hàng Ayr và thủ đoạn rút và phát lại hối phiếu là cùng một câu chuyện
 
-Vụ Ngân hàng TMCP Sài Gòn (SCB) và tập đoàn Vạn Thịnh Phát gần như tái hiện từng chi tiết của Ngân hàng Ayr và thủ đoạn rút và phát lại hối phiếu. Một nhóm cổ đông kiểm soát ngân hàng thông qua nhiều người đứng tên, tương ứng với cổ đông Ayr vay chính ngân hàng để góp vốn. Các khoản vay được giải ngân cho các công ty vỏ bọc, tức con nợ thật duy nhất là nhà dự án và chủ nợ thật duy nhất là ngân hàng, đúng như Smith mô tả hối phiếu luân chuyển. Khoản nợ cũ được trả bằng khoản vay mới lớn hơn nên nợ xấu không lộ ra trên sổ sách trong nhiều năm, giống "giá trị ứng trên hối phiếu đầu tiên không bao giờ thật sự trở về ngân hàng". Khi lãnh đạo tập đoàn bị bắt vào tháng 10/2022 và vòng đảo nợ đứt, khách hàng đổ xô rút tiền và Ngân hàng Nhà nước đặt SCB vào diện kiểm soát đặc biệt ngay trong tháng đó. Thiệt hại được tính bằng hàng trăm nghìn tỷ đồng. Bài học "tốt hơn là dừng lại hai năm trước" áp dụng trọn vẹn: quá trình kéo dài càng lâu thì tổn thất cuối cùng càng lớn.
+Vụ Ngân hàng TMCP Sài Gòn (SCB) và tập đoàn Vạn Thịnh Phát gần như tái hiện từng chi tiết của Ngân hàng Ayr và thủ đoạn rút và phát lại hối phiếu. Một nhóm cổ đông kiểm soát ngân hàng thông qua nhiều người đứng tên, tương ứng với cổ đông Ayr vay chính ngân hàng để góp vốn. Các khoản vay được giải ngân cho các công ty vỏ bọc, tức con nợ thật duy nhất là nhà dự án và chủ nợ thật duy nhất là ngân hàng, đúng như Smith mô tả hối phiếu luân chuyển. Khoản nợ cũ được trả bằng khoản vay mới lớn hơn nên nợ xấu không lộ ra trên sổ sách trong nhiều năm, giống "giá trị ứng trên hối phiếu đầu tiên không bao giờ thật sự trở về ngân hàng".
+
+Khi lãnh đạo tập đoàn bị bắt vào tháng 10/2022 và vòng đảo nợ đứt, khách hàng đổ xô rút tiền và Ngân hàng Nhà nước đặt SCB vào diện kiểm soát đặc biệt ngay trong tháng đó. Thiệt hại được tính bằng hàng trăm nghìn tỷ đồng. Bài học "tốt hơn là dừng lại hai năm trước" áp dụng trọn vẹn: quá trình kéo dài càng lâu thì tổn thất cuối cùng càng lớn.
 
 Trường hợp các "ngân hàng 0 đồng" năm 2015 (OceanBank, CBBank, GPBank được Nhà nước mua lại với giá 0 đồng) và quyết định chuyển giao bắt buộc chúng cùng DongA Bank cho các ngân hàng lớn trong giai đoạn 2024–2025 là phiên bản khác của nhận xét Smith rằng một ngân hàng "cứu" lại có thể cứu các đối thủ: tổn thất được dồn vào bảng cân đối của bên nhận, và cái giá được chia cho toàn hệ thống.
 
-**Tín dụng bất động sản và quy tắc không tài trợ vốn cố định.** Quy tắc khó nghe nhất của Smith với nền kinh tế Việt Nam là ngân hàng không nên tài trợ bất kỳ phần đáng kể nào của vốn cố định bằng nguồn trả theo yêu cầu. Hệ thống ngân hàng Việt Nam làm điều ngược lại ở quy mô lớn: huy động tiền gửi kỳ hạn ngắn và cho vay trung, dài hạn cho bất động sản, hạ tầng, nhà máy. Ngân hàng Nhà nước đã phải đặt trần tỷ lệ vốn ngắn hạn dùng cho vay trung, dài hạn và hạ dần trần này qua nhiều năm, đúng là cách xử lý mà quy tắc của Smith gợi ý. Đợt căng thẳng thị trường trái phiếu doanh nghiệp năm 2022 cho thấy phần vốn dài hạn chuyển từ ngân hàng sang trái phiếu bán cho nhà đầu tư cá nhân cũng không thoát được rủi ro kỳ hạn; nó chỉ chuyển rủi ro sang người ít khả năng chịu đựng nhất. Smith gọi đúng nguồn vốn phù hợp cho các dự án ấy: người tiết kiệm muốn cho vay dài hạn có thế chấp, tức một thị trường vốn dài hạn mà Việt Nam vẫn còn mỏng.
+**Tín dụng bất động sản và quy tắc không tài trợ vốn cố định.** Quy tắc khó nghe nhất của Smith với nền kinh tế Việt Nam là ngân hàng không nên tài trợ bất kỳ phần đáng kể nào của vốn cố định bằng nguồn trả theo yêu cầu. Hệ thống ngân hàng Việt Nam làm điều ngược lại ở quy mô lớn: huy động tiền gửi kỳ hạn ngắn và cho vay trung, dài hạn cho bất động sản, hạ tầng, nhà máy. Ngân hàng Nhà nước đã phải đặt trần tỷ lệ vốn ngắn hạn dùng cho vay trung, dài hạn và hạ dần trần này qua nhiều năm, đúng là cách xử lý mà quy tắc của Smith gợi ý.
 
-**Hạn mức tăng trưởng tín dụng và "vài ram giấy".** Câu than phiền của nhà buôn thời Smith rằng ngân hàng "hẹp hòi" vì không cho vay đủ để "phát triển đất nước" được nghe lại mỗi năm ở Việt Nam khi bàn về "room tín dụng". Nhưng cơ chế của Smith không còn tự vận hành: dưới bản vị vàng, tín dụng dư tự quay về đòi vàng và phạt ngân hàng; dưới tiền pháp định, không có dòng chảy ngược tự động đó, nên Ngân hàng Nhà nước thay thế nó bằng hạn mức hành chính. Cách làm này thô hơn cơ chế thị trường nhưng có cùng mục đích: chặn lượng tín dụng vượt sức chứa của nền kinh tế. Với tỷ lệ tín dụng trên GDP đã vượt xa 100%, cao hơn nhiều nước có cùng mức thu nhập, cảnh báo của Smith về "nhà dự án" và nạn buôn bán quá sức có nhiều ý nghĩa hơn lời phàn nàn về hạn mức.
+Đợt căng thẳng thị trường trái phiếu doanh nghiệp năm 2022 cho thấy phần vốn dài hạn chuyển từ ngân hàng sang trái phiếu bán cho nhà đầu tư cá nhân cũng không thoát được rủi ro kỳ hạn; nó chỉ chuyển rủi ro sang người ít khả năng chịu đựng nhất. Smith gọi đúng nguồn vốn phù hợp cho các dự án ấy: người tiết kiệm muốn cho vay dài hạn có thế chấp, tức một thị trường vốn dài hạn mà Việt Nam vẫn còn mỏng.
 
-**Vàng là vốn chết theo đúng nghĩa của Smith.** Khối lượng vàng mà người Việt nắm giữ, được ước tính ở mức hàng trăm tấn, chính là "xa lộ không mọc cỏ": một phần rất lớn của cải tích luỹ nhưng không sản xuất gì. Nghị định 24/2012 với cơ chế Nhà nước độc quyền sản xuất vàng miếng đã ngăn vàng ảnh hưởng tới tỷ giá nhưng tạo ra chênh lệch giá vàng miếng trong nước so với thế giới có lúc lên tới mười mấy triệu đồng mỗi lượng trong năm 2023–2024, buộc Ngân hàng Nhà nước phải đấu thầu và bán trực tiếp vàng để kéo chênh lệch xuống; năm 2025 Chính phủ sửa Nghị định 24, bỏ độc quyền sản xuất vàng miếng. Smith gợi ý một cách nhìn khác: vấn đề không phải giá vàng mà là làm sao biến vốn chết thành vốn sống. Ông không đề xuất tịch thu hay cấm, mà tạo ra một công cụ thay thế đáng tin cậy, như giấy bạc ngân hàng đổi được ngay đã thay vàng ở Scotland. Với Việt Nam, công cụ đó là một đồng tiền và một hệ thống ngân hàng mà người dân tin rằng giữ giá trị tốt như vàng.
+**Hạn mức tăng trưởng tín dụng và "vài ram giấy".** Câu than phiền của nhà buôn thời Smith rằng ngân hàng "hẹp hòi" vì không cho vay đủ để "phát triển đất nước" được nghe lại mỗi năm ở Việt Nam khi bàn về "room tín dụng". Nhưng cơ chế của Smith không còn tự vận hành: dưới bản vị vàng, tín dụng dư tự quay về đòi vàng và phạt ngân hàng; dưới tiền pháp định, không có dòng chảy ngược tự động đó, nên Ngân hàng Nhà nước thay thế nó bằng hạn mức hành chính.
 
-**Tiền giấy thuộc địa, đổi tiền 1985 và hợp tác xã tín dụng.** Lập luận của Smith về tiền giấy thuộc địa Mỹ, rằng luật có thể buộc chủ nợ nhận một shilling thay một guinea nhưng không buộc được người bán, là mô tả chính xác điều đã xảy ra sau cuộc cải cách giá–lương–tiền năm 1985: Nhà nước đổi tiền và ấn định giá, nhưng người bán tự do vẫn định giá theo giá trị thật của đồng tiền, và lạm phát năm 1986 lên tới mức ba chữ số, khoảng 774%. Cảnh báo của Smith về những chủ ngân hàng vốn nhỏ mà đổ vỡ sẽ gây "tai hoạ cho những người nghèo" cũng có phiên bản Việt Nam: làn sóng đổ vỡ của các hợp tác xã tín dụng cuối những năm 1980 và đầu 1990, khi những tổ chức huy động tiền của dân với lãi suất cao rồi mất khả năng chi trả, và người thiệt chính là những hộ gửi tiền nhỏ.
+Cách làm này thô hơn cơ chế thị trường nhưng có cùng mục đích: chặn lượng tín dụng vượt sức chứa của nền kinh tế. Với tỷ lệ tín dụng trên GDP đã vượt xa 100%, cao hơn nhiều nước có cùng mức thu nhập, cảnh báo của Smith về "nhà dự án" và nạn buôn bán quá sức có nhiều ý nghĩa hơn lời phàn nàn về hạn mức.
+
+**Vàng là vốn chết theo đúng nghĩa của Smith.** Khối lượng vàng mà người Việt nắm giữ, được ước tính ở mức hàng trăm tấn, chính là "xa lộ không mọc cỏ": một phần rất lớn của cải tích luỹ nhưng không sản xuất gì. Nghị định 24/2012 với cơ chế Nhà nước độc quyền sản xuất vàng miếng đã ngăn vàng ảnh hưởng tới tỷ giá nhưng tạo ra chênh lệch giá vàng miếng trong nước so với thế giới có lúc lên tới mười mấy triệu đồng mỗi lượng trong năm 2023–2024, buộc Ngân hàng Nhà nước phải đấu thầu và bán trực tiếp vàng để kéo chênh lệch xuống; năm 2025 Chính phủ sửa Nghị định 24, bỏ độc quyền sản xuất vàng miếng.
+
+Smith gợi ý một cách nhìn khác: vấn đề không phải giá vàng mà là làm sao biến vốn chết thành vốn sống. Ông không đề xuất tịch thu hay cấm, mà tạo ra một công cụ thay thế đáng tin cậy, như giấy bạc ngân hàng đổi được ngay đã thay vàng ở Scotland. Với Việt Nam, công cụ đó là một đồng tiền và một hệ thống ngân hàng mà người dân tin rằng giữ giá trị tốt như vàng.
+
+**Tiền giấy thuộc địa, đổi tiền 1985 và hợp tác xã tín dụng.** Lập luận của Smith về tiền giấy thuộc địa Mỹ, rằng luật có thể buộc chủ nợ nhận một shilling thay một guinea nhưng không buộc được người bán, là mô tả chính xác điều đã xảy ra sau cuộc cải cách giá–lương–tiền năm 1985: Nhà nước đổi tiền và ấn định giá, nhưng người bán tự do vẫn định giá theo giá trị thật của đồng tiền, và lạm phát năm 1986 lên tới mức ba chữ số, khoảng 774%.
+
+Cảnh báo của Smith về những chủ ngân hàng vốn nhỏ mà đổ vỡ sẽ gây "tai hoạ cho những người nghèo" cũng có phiên bản Việt Nam: làn sóng đổ vỡ của các hợp tác xã tín dụng cuối những năm 1980 và đầu 1990, khi những tổ chức huy động tiền của dân với lãi suất cao rồi mất khả năng chi trả, và người thiệt chính là những hộ gửi tiền nhỏ.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương trên một trang: sáu nhánh lớn đi theo các mục 1–16 của phần Nội dung chi tiết, gồm tiền là chi phí chứ không phải thu nhập (mục 1–2), tiền giấy giải phóng vàng bạc và bằng chứng Scotland (mục 3–5), giới hạn phát hành và quy tắc cho vay (mục 6–7), cái giá của vượt giới hạn qua rút và phát lại hối phiếu, Ngân hàng Ayr và John Law (mục 8–10), Ngân hàng Anh, rủi ro của tiền giấy và giấy bạc mệnh giá nhỏ (mục 11–13), giá cả, giấy không đổi được và kết luận về tự do ngân hàng (mục 14–16); nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển II, Chương II: tiền là bánh xe lưu thông đắt đỏ, không phải thu nhập → tiền giấy giải phóng vàng bạc, nhưng chỉ trong giới hạn chặt`"]
+  n1["`Mục 1–2 — Tiền là chi phí duy trì vốn, không phải thu nhập`"]
+  n0 --- n1
+  n2["`Thu nhập ròng = sản phẩm hằng năm trừ chi phí duy trì vốn cố định và vốn luân chuyển`"]
+  n1 --- n2
+  n3["`Như địa tô ròng của điền chủ: giảm chi phí tu bổ mà sản lượng không giảm thì phần ròng tăng`"]
+  n1 --- n3
+  n4["`Lương thực, nguyên liệu, thành phẩm cuối cùng đi vào tiêu dùng → tiền là khoản DUY NHẤT của vốn luân chuyển làm giảm thu nhập ròng`"]
+  n1 --- n4
+  n5["`Ba điểm giống vốn cố định: tốn chi phí đúc và duy trì, không phải thu nhập, tiết kiệm nó thì thu nhập ròng tăng`"]
+  n1 --- n5
+  n6["`Đồng guinea trợ cấp tuần: thu nhập là thứ nó mua, một đồng chuyền nhiều tay nên tổng tiền #lt; tổng thu nhập`"]
+  n1 --- n6
+  n7["`#quot;18 triệu bảng lưu hành ở Anh#quot; là số đồng kim loại, #quot;thu nhập 100 bảng#quot; là sức mua`"]
+  n1 --- n7
+  n8["`Mục 3–5 — Tiền giấy giải phóng vàng bạc thành vốn hoạt động`"]
+  n0 --- n8
+  n9["`Cho vay 100.000 bảng giấy, chỉ giữ ~20.000 bảng dự trữ → 80.000 bảng vàng bạc thừa`"]
+  n8 --- n9
+  n10["`Kênh lưu thông chứa 1 triệu: 1 triệu giấy + 800.000 vàng → 800.000 vàng bạc tràn ra nước ngoài`"]
+  n8 --- n10
+  n11["`Vàng ra đổi lấy hàng: buôn chuyển, xa xỉ, hoặc nguyên liệu, công cụ, lương thực → phần lớn đi vào loại cuối`"]
+  n8 --- n11
+  n12["`Thu nhập người ăn không ngồi rồi không tăng nhờ ngân hàng → cầu hàng xa xỉ gần như không đổi`"]
+  n8 --- n12
+  n13["`Tiền chỉ 1/5–1/30 sản lượng nhưng lớn so với phần nuôi sản xuất → bổ sung đáng kể cho vốn`"]
+  n8 --- n13
+  n14["`Scotland: vàng bạc từ ≥ 1 triệu bảng trước Liên hiệp 1707 còn #lt; 0,5 triệu, tổng lưu thông ≥ 2 triệu`"]
+  n8 --- n14
+  n15["`Thương mại Glasgow gấp đôi trong 15 năm, thương mại Scotland hơn gấp bốn từ 1695 và 1727`"]
+  n8 --- n15
+  n16["`Cash account: hạn mức 2.000–3.000 bảng, hai người bảo lãnh có đất, trả dần 20–30 bảng, lãi trên dư nợ`"]
+  n8 --- n16
+  n17["`Nhà buôn London giữ 500 bảng nhàn rỗi, nhà buôn Edinburgh dùng cash account → kho lớn hơn, thuê nhiều người hơn`"]
+  n8 --- n17
+  n18["`Mục 6–7 — Giới hạn phát hành và quy tắc cho vay đúng đắn`"]
+  n0 --- n18
+  n19["`Giấy lưu hành dễ dàng không thể vượt lượng vàng bạc nó thay thế → phần dư quay về đòi vàng`"]
+  n18 --- n19
+  n20["`Lưu thông nhận 40.000, phát hành 44.000 → dự trữ phải 14.000 chứ không phải 11.000, không lời gì`"]
+  n18 --- n20
+  n21["`Ngân hàng Anh đúc 800.000–1.000.000 bảng vàng/năm, mua 4 bảng/ounce, đúc 3 bảng 17s 10½d → lỗ 2,5–3%`"]
+  n18 --- n21
+  n22["`Ngân hàng Scotland trả đại lý London 1,5–2% cộng bảo hiểm 0,75%, đồng vàng mới bị nấu chảy, xuất khẩu`"]
+  n18 --- n22
+  n23["`Quy tắc: chỉ ứng trước phần vốn nhà buôn lẽ ra phải giữ sẵn bằng tiền mặt`"]
+  n18 --- n23
+  n24["`Hối phiếu thật: két như bể nước có dòng vào bằng dòng ra, cash account được nếu 4–8 tháng tiền về đủ`"]
+  n18 --- n24
+  n25["`Đòi trả dần đều đặn: đọc khách thịnh hay suy từ sổ sách, và tự biết mình không phát hành quá`"]
+  n18 --- n25
+  n26["`Không tài trợ vốn cố định như lò luyện, hầm mỏ, cải tạo đất → nên vay tư nhân sống bằng lãi, có thế chấp`"]
+  n18 --- n26
+  n27["`Nhà buôn nghĩ ngân hàng cho vay vô hạn mà #quot;chỉ tốn vài ram giấy#quot;, chê giám đốc hẹp hòi`"]
+  n18 --- n27
+  n28["`Mục 8–10 — Cái giá của vượt giới hạn: rút và phát lại hối phiếu, Ngân hàng Ayr, John Law`"]
+  n0 --- n28
+  n29["`A ở Edinburgh và B ở London ký đòi nhau dù B không nợ A, mỗi hối phiếu trả bằng hối phiếu mới lớn hơn`"]
+  n28 --- n29
+  n30["`Lãi 5% + hoa hồng ≥ 0,5% mỗi lần, hơn 6 lần/năm → hơn 8%/năm, trong khi lợi nhuận dự án 6–10%`"]
+  n28 --- n30
+  n31["`Thứ được tài trợ là toàn bộ vốn dự án: chủ nợ thật duy nhất là ngân hàng, con nợ thật duy nhất là nhà dự án`"]
+  n28 --- n31
+  n32["`Ngân hàng phải rút từ từ, nhà dự án gọi cái khốn của mình là #quot;khốn cùng của đất nước#quot;`"]
+  n28 --- n32
+  n33["`Ngân hàng Ayr (Douglas, Heron #amp; Co., 1769): chiết khấu mọi hối phiếu, cho vay toàn bộ vốn cải tạo đất`"]
+  n28 --- n33
+  n34["`Vốn ~160.000 bảng mới góp 80%, cổ đông vay chính ngân hàng qua cash account để góp đợt sau`"]
+  n28 --- n34
+  n35["`Khi đóng cửa: cho vay hơn 800.000 lãi 5%, vay London hơn 600.000 trả hơn 8% → lỗ hơn 3% trên hơn 3/4 nghiệp vụ`"]
+  n28 --- n35
+  n36["`#quot;Tốt hơn dừng lại hai năm trước#quot;, ngân hàng mới hút hết khách xấu và cứu chính các đối thủ`"]
+  n28 --- n36
+  n37["`Đất nước không lợi: ngân hàng cho 500 người vay chọn con nợ kém hơn tư nhân → nhà dự án viển vông`"]
+  n28 --- n37
+  n38["`John Law: giấy bạc tới giá trị toàn bộ đất đai, nghị viện Scotland bác, nhiếp chính Orléans áp dụng → kế hoạch Mississippi`"]
+  n28 --- n38
+  n39["`Mục 11–13 — Ngân hàng Anh, rủi ro của tiền giấy và giấy bạc mệnh giá nhỏ`"]
+  n0 --- n39
+  n40["`Ngân hàng Anh 1694 cho chính phủ vay 1.200.000 bảng lãi 8%, về sau lãi giảm còn 3%`"]
+  n39 --- n40
+  n41["`Ổn định ngang chính phủ: mọi khoản cho nhà nước vay phải mất hết thì chủ nợ ngân hàng mới thiệt`"]
+  n39 --- n41
+  n42["`#quot;Cỗ máy lớn của nhà nước#quot;: năm 1763 ứng trước ~1.600.000 bảng trong một tuần`"]
+  n39 --- n42
+  n43["`Ngân hàng không tăng vốn, mà biến vốn chết trong két và trong lưu thông thành vốn sống`"]
+  n39 --- n43
+  n44["`Vàng bạc như xa lộ không mọc bó cỏ nào, ngân hàng như con đường trên không biến xa lộ thành đồng cỏ, ruộng lúa`"]
+  n39 --- n44
+  n45["`#quot;Đôi cánh Daedalus của tiền giấy#quot; kém vững: địch chiếm thủ đô và kho bảo chứng thì nước dùng toàn giấy rối loạn hơn`"]
+  n39 --- n45
+  n46["`Tờ nhỏ nhất: London 10 bảng, Scotland 20 shilling, Bắc Mỹ 1 shilling, Yorkshire 6 penny`"]
+  n39 --- n46
+  n47["`Mệnh giá nhỏ cho người vốn nhỏ làm chủ ngân hàng → đổ vỡ là tai hoạ cho người nghèo`"]
+  n39 --- n47
+  n48["`Đề xuất không tờ nào dưới 5 bảng: vi phạm tự do tự nhiên như nghĩa vụ xây tường ngăn cháy, nhưng cần`"]
+  n39 --- n48
+  n49["`Mục 14–16 — Giá cả, giấy không đổi được ngay và tự do ngân hàng có điều kiện`"]
+  n0 --- n49
+  n50["`Smith bác #quot;người ta nói#quot; thêm giấy làm tăng giá: vàng rút ra bằng đúng giấy thêm vào`"]
+  n49 --- n50
+  n51["`Bằng chứng: lương thực Scotland rẻ nhất năm 1759, giá tăng 1751–1752 do mùa xấu chứ không do giấy`"]
+  n49 --- n51
+  n52["`Điều khoản lựa chọn hoãn 6 tháng: London–Dumfries chênh 4%, London–Carlisle ngang giá, cách nhau #lt; 30 dặm`"]
+  n49 --- n52
+  n53["`Phiếu thuộc địa 100 bảng trả sau 15 năm, lãi 6% chỉ đáng hơn 40 bảng → ép nhận như 100 là bất công`"]
+  n49 --- n53
+  n54["`Luật làm được 1 shilling trả nợ 1 guinea nhưng không buộc được người bán → 100 sterling = 130 đến 1.100 bảng thuộc địa`"]
+  n49 --- n54
+  n55["`Giấy mất giá không làm vàng mất giá: giá trị vàng do các mỏ, tức lao động khai thác`"]
+  n49 --- n55
+  n56["`Hai điều kiện: cấm giấy dưới mệnh giá tối thiểu, buộc trả ngay vô điều kiện → còn lại hoàn toàn tự do`"]
+  n49 --- n56
+  n57["`Nhiều ngân hàng an toàn hơn: buộc thận trọng, chia nhỏ rủi ro, cạnh tranh có lợi cho khách`"]
+  n49 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Tích luỹ vàng bạc là tăng một khoản chi phí, không tăng của cải → vũ khí chống phái trọng thương`"]
+  n58 --- n59
+  n60["`Ngân hàng không tạo ra vốn, chỉ cho phép một phần lớn hơn của vốn hoạt động`"]
+  n58 --- n60
+  n61["`Tự do rộng rãi cho ngân hàng trong hai giới hạn cứng: mệnh giá tối thiểu và nghĩa vụ đổi ngay ra vàng bạc`"]
+  n58 --- n61
+  class n0 root
+  class n1,n8,n18,n28,n39,n49,n58 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Chương II. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 273–315.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Đơn vị tiền Anh
+
+1 bảng (pound sterling) = 20 shilling; 1 shilling = 12 penny. 1 guinea là đồng vàng trị giá 21 shilling.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển II, Chương I vừa chia vốn xã hội thành vốn tiêu dùng, vốn cố định (máy móc, nhà xưởng, đất đã cải tạo, tài năng) và vốn luân chuyển (tiền, lương thực, nguyên liệu, thành phẩm).
+
+Chương này lấy riêng khoản tiền ra và chứng minh rằng nó là khoản duy nhất của vốn luân chuyển mà việc duy trì làm giảm thu nhập ròng của xã hội, tức nó hành xử như một cỗ máy cố định. Từ đó Smith rút ra lý lẽ kinh tế cho tiền giấy và ngân hàng, rồi đặt ra các giới hạn cho chúng.
+
+Chương này là nền cho cuộc tấn công phái trọng thương ở Quyển IV: nếu tiền chỉ là "bánh xe lưu thông" chứ không phải thu nhập, thì tích trữ vàng bạc không làm quốc gia giàu thêm.
+
+## Lưu ý
+
+Bản dịch chương này có nhiều lỗi làm sai nghĩa kinh tế.
+
+- Đoạn về "cash account": bản dịch nói hai ngân hàng đầu tiên "chỉ hạn chế hoạt động kinh doanh của mình trong việc thanh toán trước thời hạn các hối phiếu. Cho nên họ phát hành… tài khoản tiền mặt", ý gốc ngược lại: vì thương mại Scotland quá nhỏ, nếu **chỉ** chiết khấu hối phiếu thì họ sẽ có rất ít việc, **nên** họ nghĩ ra cash account; hạn mức là "hai, ba nghìn bảng" chứ không phải "đồng".
+- "Ngân hàng nước Anh cũng ổn định chẳng khác gì chính phủ Anh. Những người cho ngân hàng vay tiền không phải chịu một sự thiệt hại nào mặc dù số tiền mà ngân hàng cho dân chúng vay có thể bị mất": ý gốc là **toàn bộ** khoản Ngân hàng đã cho nhà nước vay phải mất hết thì chủ nợ của Ngân hàng mới bắt đầu chịu thiệt.
+- "The public" (nhà nước, ngân khố) bị dịch là "dân chúng" xuyên suốt phần Ngân hàng Anh; các khoản "cho dân chúng vay" thực ra là cho chính phủ vay.
+- Đoạn về tiền giấy và giá cả bỏ mất cụm "người ta nói rằng": câu "Khi tăng số lượng tiền giấy… thì tất nhiên giá… tăng lên" là quan điểm Smith **trích để bác bỏ**, không phải quan điểm của ông.
+- Về John Law: bản dịch viết như thể nghị viện Scotland sau đó đã thông qua kế hoạch; thực ra nghị viện Scotland bác bỏ, và kế hoạch về sau được Công tước Orléans, nhiếp chính Pháp, áp dụng ở Pháp.
+- Phí chuyển tiền của các ngân hàng Scotland là "ít khi dưới 1,5 hay 2%", bản dịch in thành "1/5 hay 2%"; tiền được chở về bằng xe ngựa chở hàng, bản dịch viết "toa xe lửa" (năm 1776 chưa có đường sắt).
+- Đoạn về "quân vương" (prince) bảo vệ lãnh thổ bị dịch thành "một vị tướng".
+- Câu "việc thanh toán này của ngân hàng Amsterdam… chỉ là ảo tưởng" đúng ra là: **cách giải thích** này về khoản chênh giá (agio) của ngân hàng Amsterdam phần lớn là ảo tưởng.
+- Bản dịch bỏ mất câu so sánh nổi tiếng: nghĩa vụ xây tường ngăn cháy giữa các nhà để lửa không lan sang nhau cũng vi phạm tự do tự nhiên giống hệt các quy định ngân hàng được đề xuất.
+- Câu về ngân hàng Ayr "mặc dù công việc điều hành như thế này là phù hợp với thực tiễn và có lãi" là câu giả định trong nguyên bản: **dù cho** cách làm đó có khả thi và có lãi đến đâu với ngân hàng, đất nước cũng không được lợi.
+- Ngoài ra có lỗi chính tả số liệu ("800.00 bảng" là 800.000 bảng; vốn tăng năm 1697 "1.001.171 bảng 1 shilling" mâu thuẫn với tổng "2.201.171 bảng 10 shilling", con số đúng là 1.001.171 bảng 10 shilling), một câu bị lặp ("Cần phải giảm số lợi nhuận…"), "hai ngân hàng quốc doanh" (đúng là hai ngân hàng "công", lập theo đạo luật hay hiến chương, nhưng là công ty cổ phần tư nhân), và "các kết quả của nhà băng" (đúng là "các két").
+- Số phiếu ngân khố bị huỷ năm 1708 thiếu phần lẻ: đúng là 1.775.027 bảng 17 shilling 10,5 penny (1.600.000 + 1.775.027 bảng 17s 10½d = 3.375.027 bảng 17s 10½d).

@@ -1,11 +1,18 @@
 # Quyển III, Chương II — Nông nghiệp bị trì trệ ở châu Âu sau khi Đế quốc La Mã sụp đổ (Of the Discouragement of Agriculture in the ancient State of Europe after the Fall of the Roman Empire)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển III, Chương II. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 365–376.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển III, Chương I đã dựng "trật tự tự nhiên": vốn tự chảy vào đất trước, rồi chế tạo, rồi ngoại thương, nếu thể chế không cản. Chương này là nửa đầu của lời giải thích vì sao châu Âu không đi theo trật tự đó: nó chỉ ra các thể chế đã chặn vốn và công sức đi vào đất, gồm chế độ đại điền sản, quyền con trưởng, chế độ thừa kế cố định, nông nô, tá điền chia đôi, hợp đồng thuê không an toàn, lao dịch, thuế đánh vào vốn của tá điền và lệnh cấm buôn bán ngũ cốc. Chương III sẽ kể nửa kia (thành thị tự do vươn lên trước), Chương IV kể cách thành thị cuối cùng kéo nông thôn theo. Phân tích động cơ của người lao động ở đây dựa vào Quyển I, Chương VIII (tiền công cao khuyến khích sự cần cù) và chuẩn bị cho Quyển IV, Chương V (chính sách ngũ cốc).
-**Ý chính:** Smith muốn chứng minh rằng nông nghiệp châu Âu trì trệ suốt nhiều thế kỷ không phải vì đất xấu hay con người lười, mà vì **thể chế phân phối sai quyền lợi và động cơ**: người có đất thì không có động cơ hoặc năng lực cải tạo, người có động cơ (người canh tác) thì không được giữ phần thành quả của việc cải tạo. Ông chứng minh bằng cách đi lần lượt qua từng tầng người: đại điền chủ (đất bị khoá trong tay ít gia đình bởi quyền con trưởng và chế độ thừa kế cố định, và điền chủ lớn hiếm khi là người cải tạo giỏi), nông nô (không có tài sản nên chỉ muốn ăn nhiều làm ít, là lao động đắt nhất), tá điền chia đôi (có động cơ dùng vốn của chủ, không có động cơ bỏ vốn riêng vì chủ lấy nửa phần tăng thêm), nông dân thuê đất (thiếu bảo đảm thời hạn, bị lao dịch, bị thuế đánh vào vốn), và cuối cùng là chính sách nhà nước cấm xuất khẩu và hạn chế buôn bán ngũ cốc. Nước Anh là ngoại lệ một phần, và ở chỗ nào Anh khác, Smith cho thấy nông nghiệp ở đó khá hơn.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có nhiều chỗ sai làm lệch nghĩa kinh tế. (1) "Tenants at will" (người thuê đất tuỳ ý chủ, có thể bị đuổi bất cứ lúc nào) bị dịch là "tá điền tự nguyện". (2) Smith viết điền chủ lớn "nếu là người biết tính toán" (economist, nghĩa thế kỷ 18 là người quản lý gia sản tằn tiện) thấy có lợi hơn khi dùng tiền tiết kiệm để *mua thêm đất mới* (new purchases); bản dịch viết "mua các thứ đồ dùng mới". (3) Đoạn giải thích vì sao chế độ nông nô (villanage) tàn lụi bị dịch thành "làm mai một loại canh tác theo kiểu chia sản phẩm"; ý gốc là sự lấn quyền của nông nô mà nhà vua khuyến khích đã làm cho *chế độ nông nô* trở nên bất tiện. (4) Giáo hoàng Alexander III ra sắc lệnh giải phóng nô lệ "ngay từ thế kỷ 12" (ông ở ngôi 1159–1181, tức nửa sau thế kỷ), không phải "đầu thế kỷ 12". (5) "Steel-bow tenants" ở Scotland (tá điền mượn vốn, gia súc của chủ) bị dịch là "tá điền cứng cổ"; "Chief Baron Gilbert" bị dịch vỡ thành "Nam trước Gilbert". (6) Đoạn về tá điền Anh dám xây nhà trên đất không có hợp đồng, tin rằng chủ đất vì danh dự sẽ *không lợi dụng* một cải tạo quan trọng như vậy, bị dịch ngược nghĩa. (7) Thuế "taille" ở Pháp bị dịch là "thuế thân" (poll tax), trong khi đó là thuế đánh theo vốn và tài sản canh tác của tá điền; người chịu thuế bị coi thấp hơn không chỉ quý ông mà cả *thị dân* (burgher), không phải "người dân tỉnh lẻ". (8) Thuế "tenths and fifteenths" ở Anh xưa là thuế 1/10 và **1/15**, không phải "1/10 và 1/5". (9) Nghiêm trọng nhất: Smith viết "ngay trong tình hình hiện nay của châu Âu, *ít* vốn có khả năng chảy từ các nghề khác sang cải tạo đất bằng con đường làm tá điền"; bản dịch viết thành "vốn được rút ra từ các ngành nghề khác để sử dụng vào việc cải tạo đất", tức ngược hẳn kết luận. (10) Sau đại điền chủ, Smith nói *tiểu chủ* (small proprietors) là người cải tạo đất giỏi nhất, rồi mới đến các chủ trại lớn giàu có; bản dịch viết "sau những chủ sở hữu ruộng đất". (11) Câu về Quakers: việc họ quyết định trả tự do cho toàn bộ nô lệ da đen "đủ cho ta thấy chắc chắn" số nô lệ của họ không nhiều; bản dịch viết "có thể làm thoả mãn mọi người chúng ta". Bản tổng hợp dưới đây đi theo nghĩa gốc.
+Smith muốn chứng minh rằng nông nghiệp châu Âu trì trệ suốt nhiều thế kỷ không phải vì đất xấu hay con người lười, mà vì **thể chế phân phối sai quyền lợi và động cơ**: người có đất thì không có động cơ hoặc năng lực cải tạo, người có động cơ (người canh tác) thì không được giữ phần thành quả của việc cải tạo.
+
+Ông chứng minh bằng cách đi lần lượt qua từng tầng người:
+
+- đại điền chủ (đất bị khoá trong tay ít gia đình bởi quyền con trưởng và chế độ thừa kế cố định, và điền chủ lớn hiếm khi là người cải tạo giỏi)
+- nông nô (không có tài sản nên chỉ muốn ăn nhiều làm ít, là lao động đắt nhất)
+- tá điền chia đôi (có động cơ dùng vốn của chủ, không có động cơ bỏ vốn riêng vì chủ lấy nửa phần tăng thêm)
+- nông dân thuê đất (thiếu bảo đảm thời hạn, bị lao dịch, bị thuế đánh vào vốn)
+- và cuối cùng là chính sách nhà nước cấm xuất khẩu và hạn chế buôn bán ngũ cốc.
+
+Nước Anh là ngoại lệ một phần, và ở chỗ nào Anh khác, Smith cho thấy nông nghiệp ở đó khá hơn.
 
 ## Sơ đồ
 
@@ -355,7 +362,9 @@ Nhưng quyền thuê của họ lâu nay rất bấp bênh, và ở nhiều nơi
 - Nếu bị chủ đuổi trái phép bằng bạo lực, vụ kiện để đòi quyền lợi chỉ cho họ tiền bồi thường, không bao giờ cho họ lấy lại đất.
 - Tiền bồi thường ấy không bao giờ bằng thiệt hại thật, nhất là thiệt hại của khoản vốn đã bỏ vào đất.
 
-Nước Anh là nơi thay đổi điều này sớm nhất, dù cũng muộn. Ngay ở Anh, nước mà tầng lớp tiểu nông được tôn trọng nhất, phải đến khoảng năm thứ 14 triều vua Henry VII mới xuất hiện tố quyền đòi lại đất (action of ejectment). Với tố quyền này, tá điền bị đuổi trái phép được nhận lại cả đất lẫn tiền bồi thường, và yêu cầu của họ không nhất thiết bị phán quyết dứt điểm chỉ bởi một phiên toà. Tố quyền này hiệu quả đến mức thời Smith, khi chủ đất muốn kiện đòi đất, ông ít khi dùng các tố quyền vốn dành cho chủ đất (writ of right, writ of entry), mà mượn danh nghĩa tá điền của mình để kiện bằng tố quyền đòi lại đất. Vì vậy, ở Anh, an toàn của người thuê đất ngang với an toàn của chủ đất.
+Nước Anh là nơi thay đổi điều này sớm nhất, dù cũng muộn. Ngay ở Anh, nước mà tầng lớp tiểu nông được tôn trọng nhất, phải đến khoảng năm thứ 14 triều vua Henry VII mới xuất hiện tố quyền đòi lại đất (action of ejectment). Với tố quyền này, tá điền bị đuổi trái phép được nhận lại cả đất lẫn tiền bồi thường, và yêu cầu của họ không nhất thiết bị phán quyết dứt điểm chỉ bởi một phiên toà.
+
+Tố quyền này hiệu quả đến mức thời Smith, khi chủ đất muốn kiện đòi đất, ông ít khi dùng các tố quyền vốn dành cho chủ đất (writ of right, writ of entry), mà mượn danh nghĩa tá điền của mình để kiện bằng tố quyền đòi lại đất. Vì vậy, ở Anh, an toàn của người thuê đất ngang với an toàn của chủ đất.
 
 Hơn nữa, ở Anh, một hợp đồng thuê suốt đời có giá trị 40 shilling mỗi năm được coi là đất tự do (freehold), và cho người thuê quyền bầu nghị sĩ (1 bảng Anh = 20 shilling, nên 40 shilling tương đương 2 bảng). Vì phần lớn tiểu nông có loại quyền thuê này, cả tầng lớp của họ trở nên đáng nể đối với chủ đất, nhờ ảnh hưởng chính trị mà lá phiếu đem lại. Ở đây quyền chính trị và quyền kinh tế củng cố nhau: chủ đất phải đối xử tử tế với người có phiếu bầu.
 
@@ -541,7 +550,9 @@ Tương tự, sự ưu ái của Smith dành cho tiểu chủ đúng về độn
 
 Gần như mọi mắt xích trong chương đều có một phiên bản Việt Nam.
 
-**Ruộng công và chia lại định kỳ.** Dưới các triều đại phong kiến, một phần lớn ruộng đất là ruộng công của làng xã, được chia cho dân đinh theo chế độ quân điền và chia lại định kỳ (dưới thời Lê sơ quy định vài năm một lần). Theo logic của Smith, đây là trường hợp "hợp đồng thuê ngắn và không an toàn": người được chia không có động cơ đầu tư lâu dài vào mảnh ruộng mà sau vài năm có thể thuộc về người khác. Ruộng tư của địa chủ, đến lượt mình, phần lớn được phát canh thu tô theo lối nộp một tỷ lệ hoa lợi, cấu trúc chia phần mà Smith phân tích ở metayer. Dưới thời Pháp thuộc, các đồn điền cao su và cà phê dùng lao động khế ước gần như cưỡng bức, đúng mô hình của Smith: lao động không tự do chỉ "gánh nổi" ở cây trồng xuất khẩu có lợi nhuận cao.
+**Ruộng công và chia lại định kỳ.** Dưới các triều đại phong kiến, một phần lớn ruộng đất là ruộng công của làng xã, được chia cho dân đinh theo chế độ quân điền và chia lại định kỳ (dưới thời Lê sơ quy định vài năm một lần). Theo logic của Smith, đây là trường hợp "hợp đồng thuê ngắn và không an toàn": người được chia không có động cơ đầu tư lâu dài vào mảnh ruộng mà sau vài năm có thể thuộc về người khác. Ruộng tư của địa chủ, đến lượt mình, phần lớn được phát canh thu tô theo lối nộp một tỷ lệ hoa lợi, cấu trúc chia phần mà Smith phân tích ở metayer.
+
+Dưới thời Pháp thuộc, các đồn điền cao su và cà phê dùng lao động khế ước gần như cưỡng bức, đúng mô hình của Smith: lao động không tự do chỉ "gánh nổi" ở cây trồng xuất khẩu có lợi nhuận cao.
 
 **Hợp tác xã nông nghiệp kiểu cũ.** Hợp tác xã giai đoạn trước Đổi Mới, nơi xã viên làm theo chấm công điểm và phân phối theo công điểm, là trường hợp mà người làm không giữ được thành quả biên của công sức mình. Lập luận của Smith về nô lệ ("ăn nhiều nhất, làm ít nhất") ở dạng nhẹ hơn và không có bạo lực chính là cơ chế được mô tả trong mọi nghiên cứu về sự trì trệ năng suất của hợp tác xã thời đó. Hiện tượng "khoán chui" ở Vĩnh Phúc cuối thập niên 1960 và việc xã viên chăm sóc mảnh đất 5% tốt hơn hẳn ruộng tập thể là bằng chứng tự nhiên rất gần với phép so sánh của Smith giữa đất tiểu chủ và đất đại điền sản.
 
@@ -549,10 +560,190 @@ Gần như mọi mắt xích trong chương đều có một phiên bản Việt
 
 **Thời hạn và an toàn quyền sử dụng.** Luật Đất đai 1993 giao đất cho hộ với thời hạn (20 năm với cây hàng năm, 50 năm với cây lâu năm) và các quyền chuyển đổi, chuyển nhượng, cho thuê, thừa kế, thế chấp. Đây chính là cuộc cải cách mà Smith ca ngợi ở Anh: biến quyền canh tác tuỳ ý thành quyền dài hạn, có thể bảo vệ, có thể chuyển nhượng. Lập luận của Smith về Pháp (9 năm, rồi 27 năm, "vẫn quá ngắn") giải thích vì sao tranh luận về việc kéo dài thời hạn sử dụng đất nông nghiệp ở Việt Nam quan trọng: một hộ dân không trồng cây lâu năm hay xây hệ thống tưới nếu không chắc sẽ còn giữ đất khi đầu tư được thu hồi.
 
-**Thị trường đất bị đóng và hạn điền.** Lập luận trung tâm của Smith về quyền con trưởng là: thể chế nào giữ đất không đến được tay người dùng giỏi nhất đều làm nông nghiệp trì trệ. Ở Việt Nam, nguyên nhân không phải quyền con trưởng mà ngược lại: chia đều khi giao đất năm 1993 và chia tiếp qua thừa kế tạo ra ruộng đất manh mún, mỗi hộ nhiều thửa nhỏ, cộng với hạn mức nhận chuyển nhượng đất nông nghiệp trong thời gian dài. Hệ quả kinh tế giống nhau: đất không tập trung được về những người muốn và có khả năng đầu tư quy mô. Luật Đất đai 2024 nới hạn mức nhận chuyển quyền sử dụng đất nông nghiệp (lên đến 15 lần hạn mức giao đất) là một bước theo đúng hướng Smith chỉ ra: mở thị trường đất để đất chảy đến người cải tạo.
+**Thị trường đất bị đóng và hạn điền.** Lập luận trung tâm của Smith về quyền con trưởng là: thể chế nào giữ đất không đến được tay người dùng giỏi nhất đều làm nông nghiệp trì trệ. Ở Việt Nam, nguyên nhân không phải quyền con trưởng mà ngược lại: chia đều khi giao đất năm 1993 và chia tiếp qua thừa kế tạo ra ruộng đất manh mún, mỗi hộ nhiều thửa nhỏ, cộng với hạn mức nhận chuyển nhượng đất nông nghiệp trong thời gian dài. Hệ quả kinh tế giống nhau: đất không tập trung được về những người muốn và có khả năng đầu tư quy mô.
+
+Luật Đất đai 2024 nới hạn mức nhận chuyển quyền sử dụng đất nông nghiệp (lên đến 15 lần hạn mức giao đất) là một bước theo đúng hướng Smith chỉ ra: mở thị trường đất để đất chảy đến người cải tạo.
 
 **Thuế và các khoản đóng góp.** Phân tích của Smith về taille (thuế đánh vào vốn nhìn thấy làm người ta giấu vốn) và lao dịch tuỳ tiện tương ứng với các khoản đóng góp, phí, lệ phí và lao động công ích mà nông dân Việt Nam từng phải chịu trước khi Nhà nước miễn thuế sử dụng đất nông nghiệp từ năm 2003 (và gia hạn nhiều lần sau đó). Quy tắc của Smith vẫn là thước đo tốt: một khoản thu đánh vào nông dân theo cách gắn với mức đầu tư của họ sẽ làm họ đầu tư ít đi.
 
 **Chính sách lúa gạo.** Lập luận cuối chương về lệnh cấm xuất khẩu ngũ cốc áp dụng trực tiếp cho các đợt Việt Nam tạm dừng hoặc hạn chế xuất khẩu gạo để bảo đảm an ninh lương thực (năm 2008 và đầu năm 2020). Theo Smith, các biện pháp như vậy có thể hợp lý trong khủng hoảng ngắn hạn, nhưng nếu trở thành thông lệ, chúng hạ giá lúa nội địa so với giá thế giới, tức là chuyển thu nhập từ người trồng lúa sang người tiêu dùng đô thị và làm giảm động cơ đầu tư vào chính ngành mà biện pháp muốn bảo vệ.
 
 Bài học tổng hợp từ chương này cho Việt Nam là: những bước nhảy năng suất nông nghiệp lớn nhất của Việt Nam đều đến từ việc trả lại cho người canh tác phần thành quả biên và sự an toàn về thời hạn. Những gì còn lại để làm, tức một thị trường quyền sử dụng đất thông suốt, thời hạn đủ dài và không có các khoản thu méo mó, vẫn nằm đúng trong danh mục mà Smith đã liệt kê năm 1776.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển III, Chương II trên một trang: sáu nhánh lớn đi theo các mục 1–13 của phần Nội dung chi tiết (đất bị khoá bởi quyền con trưởng và thừa kế cố định cùng đại điền chủ không cải tạo, nô lệ và nông nô, tá điền chia đôi, nông dân thuê đất với quyền thuê, gánh nặng ngoài tô và dòng vốn, chính sách ngũ cốc), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển III, Chương II: nông nghiệp châu Âu trì trệ hàng thế kỷ vì thể chế tách người có quyền với đất khỏi người có động cơ cải tạo`"]
+  n1["`Mục 1–4 — Đất bị khoá trong tay ít gia đình, và đại điền chủ không cải tạo`"]
+  n0 --- n1
+  n2["`Sau La Mã, thủ lĩnh German và Scythe chiếm đất: mọi đất đều có chủ, phần lớn trong tay rất ít người`"]
+  n1 --- n2
+  n3["`Quyền con trưởng chặn chia đất khi thừa kế, thừa kế cố định chặn bán, cho, nhượng ra khỏi dòng họ`"]
+  n1 --- n3
+  n4["`Thời loạn đại điền chủ là một ông hoàng nhỏ: chia đất là làm nó yếu, nên để trọn cho một người`"]
+  n1 --- n4
+  n5["`Chọn theo giới tính và tuổi vì là khác biệt không ai cãi được → con trai trưởng, cùng lý do với ngôi vua`"]
+  n4 --- n5
+  n6["`Người La Mã chia đều cho các con, coi đất như động sản, và hoàn toàn không có thừa kế cố định`"]
+  n1 --- n6
+  n7["`Luật sống lâu hơn lý do: nay chủ 1 mẫu Anh được bảo vệ như chủ 100.000 mẫu, quyền con trưởng vẫn còn vì kiêu hãnh dòng họ`"]
+  n1 --- n7
+  n8["`Thừa kế cố định để ý muốn người chết từ 500 năm trước điều tiết tài sản người sống`"]
+  n1 --- n8
+  n9["`Scotland: hơn 1/5, có lẽ tới 1/3 đất đai bị ràng buộc bởi thừa kế cố định`"]
+  n8 --- n9
+  n10["`Đại điền chủ hiếm khi cải tạo: thiếu thì giờ và khả năng, chi tiêu ngang hoặc vượt thu nhập nên không có vốn`"]
+  n1 --- n10
+  n11["`Nếu biết tính toán, ông thấy dùng tiền tiết kiệm mua thêm đất mới lợi hơn cải tạo đất cũ`"]
+  n10 --- n11
+  n12["`Cải tạo có lãi đòi chú ý khoản tiết kiệm nhỏ và lời nhỏ, ông lại chi để đất đẹp hơn chứ không sinh lời hơn`"]
+  n10 --- n12
+  n13["`Bằng chứng: so đại điền sản từ thời phong kiến ở Anh với đất tiểu chủ ngay bên cạnh`"]
+  n10 --- n13
+  n14["`Mục 5–6 — Nô lệ, nông nô: lao động đắt nhất, chỉ cây lợi nhuận cao mới gánh nổi`"]
+  n0 --- n14
+  n15["`Nông nô gắn với đất, bán kèm đất, nhưng không được có tài sản: chủ ứng vốn và hưởng toàn bộ sản phẩm`"]
+  n14 --- n15
+  n16["`Thời Smith còn ở Nga, Ba Lan, Hungary, Bohemia, Moravia và nhiều vùng Đức`"]
+  n15 --- n16
+  n17["`Người không được có tài sản chỉ muốn ăn càng nhiều, làm càng ít càng tốt, phần làm thêm phải ép bằng bạo lực`"]
+  n14 --- n17
+  n18["`Nên lao động nô lệ tưởng chỉ tốn tiền nuôi, tính cho cùng lại là lao động đắt nhất`"]
+  n17 --- n18
+  n19["`Pliny, Columella: nông nghiệp Ý cổ suy đồi khi giao hết cho nô lệ`"]
+  n17 --- n19
+  n20["`Aristotle: nuôi 5.000 chiến binh của nhà nước Plato bằng nô lệ cần đất mênh mông như đồng bằng Babylon`"]
+  n17 --- n20
+  n21["`Vẫn dùng nô lệ vì lòng kiêu hãnh thích thống trị, ghét hạ mình thuyết phục người dưới`"]
+  n14 --- n21
+  n22["`Lợi nhuận cây trồng mía #gt; thuốc lá #gt; ngũ cốc khớp với tỷ lệ nô lệ ở thuộc địa Anh`"]
+  n14 --- n22
+  n23["`Thuộc địa mía toàn nô lệ, thuốc lá phần rất lớn, ngũ cốc phần lớn là người tự do`"]
+  n22 --- n23
+  n24["`Quakers ở Pennsylvania trả tự do cho toàn bộ nô lệ da đen, chứng tỏ số nô lệ của họ không thể nhiều`"]
+  n22 --- n24
+  n25["`Mục 7–8 — Tá điền chia đôi (metayer): tự do nhưng không bỏ vốn riêng`"]
+  n0 --- n25
+  n26["`Chủ cấp toàn bộ hạt giống, gia súc, công cụ, sản phẩm sau khi trừ phần giữ vốn thì chia đôi`"]
+  n25 --- n26
+  n27["`Hơn nô lệ vì là người tự do, có tài sản, có phần sản phẩm nên muốn sản lượng tăng`"]
+  n25 --- n27
+  n28["`Nông nô tàn lụi vì lợi thế này của chủ và vì nhà vua ghen lãnh chúa khuyến khích nông nô lấn quyền`"]
+  n25 --- n28
+  n29["`Alexander III ra sắc lệnh giải phóng nô lệ từ thế kỷ 12, nhưng là lời khuyên hơn là luật`"]
+  n28 --- n29
+  n30["`Nông nô được giải phóng không có vốn nên tự nhiên thành metayer`"]
+  n28 --- n30
+  n31["`Chủ không bỏ gì vẫn lấy 1/2 phần tăng thêm, như một khoản thuế 50% trên mọi cải tạo`"]
+  n25 --- n31
+  n32["`Thuế thập phân chỉ lấy 1/10 đã là trở ngại lớn, khoản lấy 1/2 chặn đứng việc cải tạo`"]
+  n31 --- n32
+  n33["`Ví dụ: bỏ 40 đồng đào mương thu thêm 60, chủ tự canh tác lời 20, metayer chỉ giữ 30 nên lỗ 10`"]
+  n31 --- n33
+  n34["`Pháp: 5/6 đất do metayer canh tác, họ dùng gia súc của chủ chở hàng thuê để giữ trọn tiền công thay vì cày`"]
+  n25 --- n34
+  n35["`Ở Scotland loại này gọi là tá điền steel-bow`"]
+  n34 --- n35
+  n36["`Mục 9–12 — Nông dân thuê đất: quyền thuê bấp bênh, gánh nặng ngoài tô, vốn không chảy vào`"]
+  n0 --- n36
+  n37["`Canh tác bằng vốn riêng, trả tô cố định: hợp đồng dài thì có lợi khi bỏ vốn cải tạo`"]
+  n36 --- n37
+  n38["`Bất an: mất đất khi đất bán cho chủ mới, bị đuổi trái phép chỉ được bồi thường, không được trả đất`"]
+  n36 --- n38
+  n39["`Anh: tố quyền đòi lại đất (năm thứ 14 triều Henry VII) trả cả đất lẫn bồi thường, an toàn tá điền ngang chủ đất`"]
+  n36 --- n39
+  n40["`Thuê suốt đời 40 shilling/năm là freehold, cho quyền bầu nghị sĩ, nên chủ đất phải nể tiểu nông`"]
+  n39 --- n40
+  n41["`Luật và tập quán có lợi cho tiểu nông góp vào sự vĩ đại của Anh nhiều hơn mọi quy định thương mại`"]
+  n39 --- n41
+  n42["`Scotland: luật 1449 bảo vệ hợp đồng dài, nhưng người giữ đất thừa kế cố định nhiều khi không được cho thuê quá 1 năm`"]
+  n36 --- n42
+  n43["`Pháp: thời hạn bảo vệ 9 năm rồi 27 năm, vẫn quá ngắn cho các cải tạo quan trọng`"]
+  n36 --- n43
+  n44["`Chủ đất là người làm luật, nhưng tham lam và bất công luôn thiển cận, hại chính lợi ích lâu dài của họ`"]
+  n36 --- n44
+  n45["`Gánh nặng ngoài tô: lao dịch tuỳ ý chủ, trưng mua ngựa, xe, lương thực theo giá người thu mua đặt`"]
+  n36 --- n45
+  n46["`Anh là nước quân chủ duy nhất đã bãi bỏ hẳn trưng mua, Pháp và Đức vẫn còn`"]
+  n45 --- n46
+  n47["`Taille ở Pháp đánh theo vốn: tá điền tỏ ra nghèo, dùng ít vốn, người có vốn tránh nghề nông`"]
+  n45 --- n47
+  n48["`Tá điền so với chủ tự canh tác như nhà buôn bằng vốn vay so với vốn mình: tô đóng vai tiền lãi`"]
+  n36 --- n48
+  n49["`Tá điền bị coi thấp hơn cả thợ thủ công và người buôn khá giả, nên ít vốn từ nghề khác chảy vào`"]
+  n48 --- n49
+  n50["`Vốn lớn trong nông nghiệp tự tích luỹ từ nông nghiệp, ngành tích luỹ chậm nhất`"]
+  n48 --- n50
+  n51["`Cải tạo giỏi nhất là tiểu chủ, sau đó là chủ trại lớn giàu có, Anh có nhiều hơn mọi nước quân chủ`"]
+  n48 --- n51
+  n52["`Mục 13 — Chính sách ngũ cốc thu hẹp thị trường nông sản`"]
+  n0 --- n52
+  n53["`Cấm xuất khẩu ngũ cốc nếu không có giấy phép đặc biệt, gần như khắp nơi`"]
+  n52 --- n53
+  n54["`Luật chống người mua tích trữ, mua chặn (engrossers, forestallers) và đặc quyền chợ phiên hạn chế buôn bán nội địa`"]
+  n52 --- n54
+  n55["`Thị trường hẹp làm phần làm ra thêm khó bán giá tốt, hạ lợi nhuận của cải tạo đất`"]
+  n52 --- n55
+  n56["`Ý cổ cấm xuất, khuyến khích nhập ngũ cốc đã kìm nông nghiệp vùng màu mỡ nhất, nước đất kém còn bị hại hơn`"]
+  n52 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Ở mọi tầng, người có thể cải tạo đất không giữ được phần thành quả của việc cải tạo`"]
+  n57 --- n58
+  n59["`Đầu tư vào đất phụ thuộc vào ai nắm quyền quyết định và ai hưởng phần lợi tăng thêm`"]
+  n57 --- n59
+  n60["`Smith đổ cho cấu trúc, không đổ cho con người: chia phần thưởng cho việc metayer chở hàng thuê`"]
+  n57 --- n60
+  n61["`Thể chế tốt ở Anh được giải thích bằng quyền chính trị: tiểu nông có lá phiếu`"]
+  n57 --- n61
+  n62["`Hàm ý: xoá quyền con trưởng, thừa kế cố định, bảo đảm quyền thuê dài, bỏ lao dịch, taille, cấm xuất ngũ cốc`"]
+  n57 --- n62
+  n63["`Giới hạn: Smith bỏ qua chức năng chia sẻ rủi ro của chia phần và vai trò quy mô khi có cơ giới hoá`"]
+  n57 --- n63
+  n64["`Việt Nam: khoán 10 và Luật Đất đai 1993 trả lại cho người canh tác phần thành quả biên và an toàn thời hạn`"]
+  n57 --- n64
+  class n0 root
+  class n1,n14,n25,n36,n52,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển III, Chương II. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 365–376.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển III, Chương I đã dựng "trật tự tự nhiên": vốn tự chảy vào đất trước, rồi chế tạo, rồi ngoại thương, nếu thể chế không cản.
+
+Chương này là nửa đầu của lời giải thích vì sao châu Âu không đi theo trật tự đó: nó chỉ ra các thể chế đã chặn vốn và công sức đi vào đất, gồm chế độ đại điền sản, quyền con trưởng, chế độ thừa kế cố định, nông nô, tá điền chia đôi, hợp đồng thuê không an toàn, lao dịch, thuế đánh vào vốn của tá điền và lệnh cấm buôn bán ngũ cốc.
+
+Chương III sẽ kể nửa kia (thành thị tự do vươn lên trước), Chương IV kể cách thành thị cuối cùng kéo nông thôn theo. Phân tích động cơ của người lao động ở đây dựa vào Quyển I, Chương VIII (tiền công cao khuyến khích sự cần cù) và chuẩn bị cho Quyển IV, Chương V (chính sách ngũ cốc).
+
+## Lưu ý
+
+Bản dịch có nhiều chỗ sai làm lệch nghĩa kinh tế.
+
+- "Tenants at will" (người thuê đất tuỳ ý chủ, có thể bị đuổi bất cứ lúc nào) bị dịch là "tá điền tự nguyện".
+- Smith viết điền chủ lớn "nếu là người biết tính toán" (economist, nghĩa thế kỷ 18 là người quản lý gia sản tằn tiện) thấy có lợi hơn khi dùng tiền tiết kiệm để *mua thêm đất mới* (new purchases); bản dịch viết "mua các thứ đồ dùng mới".
+- Đoạn giải thích vì sao chế độ nông nô (villanage) tàn lụi bị dịch thành "làm mai một loại canh tác theo kiểu chia sản phẩm"; ý gốc là sự lấn quyền của nông nô mà nhà vua khuyến khích đã làm cho *chế độ nông nô* trở nên bất tiện.
+- Giáo hoàng Alexander III ra sắc lệnh giải phóng nô lệ "ngay từ thế kỷ 12" (ông ở ngôi 1159–1181, tức nửa sau thế kỷ), không phải "đầu thế kỷ 12".
+- "Steel-bow tenants" ở Scotland (tá điền mượn vốn, gia súc của chủ) bị dịch là "tá điền cứng cổ"; "Chief Baron Gilbert" bị dịch vỡ thành "Nam trước Gilbert".
+- Đoạn về tá điền Anh dám xây nhà trên đất không có hợp đồng, tin rằng chủ đất vì danh dự sẽ *không lợi dụng* một cải tạo quan trọng như vậy, bị dịch ngược nghĩa.
+- Thuế "taille" ở Pháp bị dịch là "thuế thân" (poll tax), trong khi đó là thuế đánh theo vốn và tài sản canh tác của tá điền; người chịu thuế bị coi thấp hơn không chỉ quý ông mà cả *thị dân* (burgher), không phải "người dân tỉnh lẻ".
+- Thuế "tenths and fifteenths" ở Anh xưa là thuế 1/10 và **1/15**, không phải "1/10 và 1/5".
+- Nghiêm trọng nhất: Smith viết "ngay trong tình hình hiện nay của châu Âu, *ít* vốn có khả năng chảy từ các nghề khác sang cải tạo đất bằng con đường làm tá điền"; bản dịch viết thành "vốn được rút ra từ các ngành nghề khác để sử dụng vào việc cải tạo đất", tức ngược hẳn kết luận.
+- Sau đại điền chủ, Smith nói *tiểu chủ* (small proprietors) là người cải tạo đất giỏi nhất, rồi mới đến các chủ trại lớn giàu có; bản dịch viết "sau những chủ sở hữu ruộng đất".
+- Câu về Quakers: việc họ quyết định trả tự do cho toàn bộ nô lệ da đen "đủ cho ta thấy chắc chắn" số nô lệ của họ không nhiều; bản dịch viết "có thể làm thoả mãn mọi người chúng ta".
+
+Bản tổng hợp dưới đây đi theo nghĩa gốc.

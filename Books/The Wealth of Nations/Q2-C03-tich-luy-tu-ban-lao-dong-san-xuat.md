@@ -1,13 +1,16 @@
 # Quyển II, Chương III — Tích luỹ tư bản, hay lao động sản xuất và lao động phi sản xuất (Of the Accumulation of Capital, or of productive and unproductive Labour)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Chương III. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 316–334.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển I giải thích sản lượng mỗi lao động tăng nhờ phân công lao động, và phân công bị giới hạn bởi quy mô vốn tích luỹ từ trước. Quyển II, Chương I chia "kho" (stock) của xã hội thành phần để tiêu dùng ngay, vốn cố định và vốn lưu động; Chương II bàn về tiền như một bộ phận của vốn lưu động. Chương III này là trục của cả Quyển II: nó trả lời *vốn từ đâu mà tăng* và *vốn tăng thì làm tăng sản lượng bằng cơ chế nào*. Các Chương IV (vốn cho vay) và V (các cách sử dụng vốn) đi tiếp từ đây, còn Quyển III và Quyển IV dùng kết luận "tiết kiệm của tư nhân là động lực, chi tiêu của nhà nước là lực cản" để đánh giá chính sách châu Âu.
-**Ý chính:** Smith muốn chứng minh rằng của cải của một nước, tức giá trị sản phẩm hàng năm của đất đai và lao động, chỉ tăng khi số lao động sản xuất tăng hoặc năng suất của họ tăng, và cả hai đều đòi hỏi thêm vốn; vốn lại chỉ tăng bằng tiết kiệm. Ông chứng minh bằng cách phân biệt lao động sản xuất (lao động "cố định" giá trị vào một hàng hoá bán được, hoàn lại vốn kèm lợi nhuận) với lao động phi sản xuất (dịch vụ biến mất ngay khi làm xong), chỉ ra rằng vốn chỉ nuôi lao động sản xuất còn thu nhập (địa tô, lợi nhuận) thì nuôi cả hai, nên tỷ lệ giữa vốn và thu nhập quyết định tỷ lệ giữa cần cù và ăn không ngồi rồi. Từ đó: người tiết kiệm là ân nhân, kẻ hoang phí là kẻ thù của xã hội; tư nhân hiếm khi làm nghèo một nước lớn, nhưng chi tiêu hoang phí của nhà nước (triều đình, nhà thờ, quân đội, chiến tranh) thì có thể; và lịch sử nước Anh cho thấy tiết kiệm âm thầm của tư nhân đã thắng được sự hoang phí của chính phủ.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có bốn chỗ làm lệch nghĩa. (1) Câu then chốt "Parsimony, and not industry, is the immediate cause of the increase of capital" được dịch là "Tiết kiệm là nguyên nhân trực tiếp để tăng vốn", bỏ mất vế "chứ không phải sự cần cù", tức bỏ mất chính điểm đối lập mà Smith muốn nhấn. (2) Đoạn về cách tăng sản lượng bị gộp sai: nguyên văn nói số lao động sản xuất chỉ tăng khi vốn tăng, còn *năng suất* của họ chỉ tăng nhờ máy móc tốt hơn hoặc phân công hợp lý hơn; bản dịch viết "số lượng người lao động sản xuất chỉ có thể tăng khi sử dụng máy móc...". (3) "A numerous and splendid court" (một triều đình đông đảo, lộng lẫy) bị dịch thành "viên chức của các toà án làm việc trong những toà nhà nguy nga". (4) Năm của bốn cuộc chiến tranh với Pháp là 1688, 1702, **1742** và 1756; bản dịch in nhầm 1742 thành 1724. Ngoài ra "an innocent man" (người lương thiện, vô tội) bị dịch thành "người thiếu kinh nghiệm" ở đoạn nói về phá sản, và câu Smith gọi việc vua chúa, bộ trưởng muốn kiểm soát chi tiêu của dân là "sự hỗn xược và tự phụ tột bậc" bị dịch nhạt thành một câu tường thuật.
+Smith muốn chứng minh rằng của cải của một nước, tức giá trị sản phẩm hàng năm của đất đai và lao động, chỉ tăng khi số lao động sản xuất tăng hoặc năng suất của họ tăng, và cả hai đều đòi hỏi thêm vốn. Vốn lại chỉ tăng bằng tiết kiệm.
 
-Đơn vị tiền dùng trong chương: 1 bảng (pound) = 20 shilling, 1 shilling = 12 penny.
+Ông chứng minh bằng cách phân biệt lao động sản xuất (lao động "cố định" giá trị vào một hàng hoá bán được, hoàn lại vốn kèm lợi nhuận) với lao động phi sản xuất (dịch vụ biến mất ngay khi làm xong), chỉ ra rằng vốn chỉ nuôi lao động sản xuất còn thu nhập (địa tô, lợi nhuận) thì nuôi cả hai, nên tỷ lệ giữa vốn và thu nhập quyết định tỷ lệ giữa cần cù và ăn không ngồi rồi.
+
+Từ đó: người tiết kiệm là ân nhân, kẻ hoang phí là kẻ thù của xã hội.
+
+Tư nhân hiếm khi làm nghèo một nước lớn, nhưng chi tiêu hoang phí của nhà nước (triều đình, nhà thờ, quân đội, chiến tranh) thì có thể.
+
+Lịch sử nước Anh cho thấy tiết kiệm âm thầm của tư nhân đã thắng được sự hoang phí của chính phủ.
 
 ## Sơ đồ
 
@@ -250,7 +253,9 @@
 
 ## Khái niệm cần biết
 
-**Lao động sản xuất và lao động phi sản xuất (productive / unproductive labour).** Theo Smith, lao động sản xuất là lao động làm tăng giá trị của một vật và để lại một hàng hoá còn tồn tại, bán được; lao động phi sản xuất là lao động mà kết quả biến mất ngay lúc làm xong. Ví dụ trong chương: người thợ trong xưởng biến nguyên liệu thành sản phẩm, và giá bán sản phẩm hoàn lại tiền công của anh ta cùng lợi nhuận cho chủ; còn người đầy tớ phục vụ bữa ăn thì sau bữa ăn không còn gì để bán. Ví dụ minh hoạ: chủ xưởng ứng 10 bảng tiền công, sản phẩm bán được 12 bảng, ông lấy lại 10 bảng và lời 2 bảng; tiền trả cho đầy tớ thì mất hẳn. Cần nhớ "phi sản xuất" trong chương này không có nghĩa là vô ích: vua, quân đội, bác sĩ, nhạc sĩ đều thuộc nhóm này. Khái niệm này quan trọng vì cả chương xoay quanh câu hỏi phần sản phẩm của một nước được dùng nuôi nhóm nào.
+**Lao động sản xuất và lao động phi sản xuất (productive / unproductive labour).** Theo Smith, lao động sản xuất là lao động làm tăng giá trị của một vật và để lại một hàng hoá còn tồn tại, bán được; lao động phi sản xuất là lao động mà kết quả biến mất ngay lúc làm xong. Ví dụ trong chương: người thợ trong xưởng biến nguyên liệu thành sản phẩm, và giá bán sản phẩm hoàn lại tiền công của anh ta cùng lợi nhuận cho chủ; còn người đầy tớ phục vụ bữa ăn thì sau bữa ăn không còn gì để bán.
+
+Ví dụ minh hoạ: chủ xưởng ứng 10 bảng tiền công, sản phẩm bán được 12 bảng, ông lấy lại 10 bảng và lời 2 bảng; tiền trả cho đầy tớ thì mất hẳn. Cần nhớ "phi sản xuất" trong chương này không có nghĩa là vô ích: vua, quân đội, bác sĩ, nhạc sĩ đều thuộc nhóm này. Khái niệm này quan trọng vì cả chương xoay quanh câu hỏi phần sản phẩm của một nước được dùng nuôi nhóm nào.
 
 **Vốn (capital) như một quỹ nuôi lao động.** Với Smith, vốn trước hết không phải là tiền mà là lương thực, vải vóc, nguyên liệu, công cụ được ứng trước để nuôi và trang bị người lao động trong thời gian họ làm ra sản phẩm. Tiền chỉ là phương tiện chuyển quỹ ấy. Ví dụ minh hoạ: một chủ trại có số lương thực đủ nuôi 10 người làm thuê trong một mùa thì "vốn" của ông là khả năng nuôi 10 người ấy cho đến khi thu hoạch. Khái niệm này giải thích vì sao Smith nói số lao động sản xuất chỉ tăng khi vốn tăng.
 
@@ -590,18 +595,198 @@ Có một điểm tinh tế nữa: Smith dùng chính lập luận này để ph
 
 Phép tính của Smith về chiến tranh, nợ 145 triệu bảng, tổn thất ít nhất 200 triệu, và những nhà cửa, ruộng đất, xưởng máy lẽ ra đã có, là một ứng dụng sớm và rất rõ của khái niệm chi phí cơ hội ở cấp quốc gia. Nó cũng đi trước lập luận lấn át: nợ công tài trợ cho chi tiêu không sinh lợi rút tiết kiệm ra khỏi đầu tư tư nhân.
 
-Điều ông thường bị trích sai là câu "các nước lớn không bao giờ bị tư nhân làm cho nghèo". Câu này không phải lời tin rằng thị trường không bao giờ sai; nó dựa trên một lập luận thống kê: hoang phí cá nhân là ngẫu nhiên và triệt tiêu nhau, còn hoang phí công là có hệ thống và cùng chiều. Lập luận đó vẫn đúng với chi tiêu cá nhân, nhưng không đúng khi sai lầm tư nhân trở nên *tương quan*: bong bóng tín dụng, đầu cơ bất động sản, nơi hàng triệu người cùng mắc một sai lầm vì cùng một tín hiệu giá sai. Các cuộc khủng hoảng tài chính hiện đại chủ yếu thuộc loại này, và Smith, sống trước chúng, không có phạm trù nào để nói về chúng; dù chính ông, ở Quyển II, Chương II, đã kể về các ngân hàng Scotland cho vay quá tay.
+Điều ông thường bị trích sai là câu "các nước lớn không bao giờ bị tư nhân làm cho nghèo". Câu này không phải lời tin rằng thị trường không bao giờ sai; nó dựa trên một lập luận thống kê: hoang phí cá nhân là ngẫu nhiên và triệt tiêu nhau, còn hoang phí công là có hệ thống và cùng chiều. Lập luận đó vẫn đúng với chi tiêu cá nhân, nhưng không đúng khi sai lầm tư nhân trở nên *tương quan*: bong bóng tín dụng, đầu cơ bất động sản, nơi hàng triệu người cùng mắc một sai lầm vì cùng một tín hiệu giá sai.
+
+Các cuộc khủng hoảng tài chính hiện đại chủ yếu thuộc loại này, và Smith, sống trước chúng, không có phạm trù nào để nói về chúng; dù chính ông, ở Quyển II, Chương II, đã kể về các ngân hàng Scotland cho vay quá tay.
 
 Câu "hãy để dân tự lo chi tiêu của dân" cũng cần đọc đúng ngữ cảnh: đối tượng là luật chống xa xỉ và lệnh cấm nhập hàng xa xỉ, tức nhà nước quyết định dân được mặc gì, ăn gì. Đó không phải lập luận chống mọi khoản thuế hay chi tiêu công.
 
 ### Giả định ngầm: ai tiết kiệm, và vì sao Smith đánh giá cao địa chủ ít nhất
 
-Smith lặp đi lặp lại rằng người nhận địa tô và lợi nhuận "thích" nuôi lao động phi sản xuất. Nhưng ông lại cần chính họ tiết kiệm, vì người làm công hiếm khi có dư. Lời giải nằm ở phân biệt giữa thu nhập và vốn của thương gia: thương gia dùng *vốn* nuôi người sản xuất, và vì sống bằng lợi nhuận phải tái đầu tư, họ có kỷ luật tích luỹ mà lãnh chúa sống bằng địa tô không có. Cả phần so sánh Glasgow với Edinburgh, các thành phố Hà Lan với Versailles, thực chất là một lập luận về **giai cấp nào kiểm soát thặng dư**. Quyển III sẽ phát triển đầy đủ ý này: sự trỗi dậy của thương nhân thành thị phá vỡ quyền lực lãnh chúa và mở đường cho tích luỹ. Đây là một phân tích kinh tế chính trị, không chỉ là đạo đức về cần cù.
+Smith lặp đi lặp lại rằng người nhận địa tô và lợi nhuận "thích" nuôi lao động phi sản xuất. Nhưng ông lại cần chính họ tiết kiệm, vì người làm công hiếm khi có dư. Lời giải nằm ở phân biệt giữa thu nhập và vốn của thương gia: thương gia dùng *vốn* nuôi người sản xuất, và vì sống bằng lợi nhuận phải tái đầu tư, họ có kỷ luật tích luỹ mà lãnh chúa sống bằng địa tô không có.
+
+Cả phần so sánh Glasgow với Edinburgh, các thành phố Hà Lan với Versailles, thực chất là một lập luận về **giai cấp nào kiểm soát thặng dư**. Quyển III sẽ phát triển đầy đủ ý này: sự trỗi dậy của thương nhân thành thị phá vỡ quyền lực lãnh chúa và mở đường cho tích luỹ. Đây là một phân tích kinh tế chính trị, không chỉ là đạo đức về cần cù.
 
 ### Với Việt Nam: tỷ lệ đầu tư cao chưa đủ, câu hỏi của Smith là đầu tư nuôi cái gì
 
-Việt Nam nhiều năm có tỷ lệ tổng đầu tư trên GDP vào khoảng 30–33%, thuộc nhóm cao trong khu vực, và tỷ lệ tiết kiệm trong nước ở mức tương đương. Nếu chỉ đọc nửa đầu chương này, có thể kết luận Việt Nam đã làm đúng điều Smith khuyên. Nhưng chương này thực chất hỏi một câu khó hơn: khoản chi ấy có tái tạo được giá trị đã tiêu kèm lợi nhuận hay không. Đó chính là điều mà hệ số ICOR đo, và các ước tính phổ biến cho thấy ICOR của Việt Nam cao hơn so với các nền kinh tế Đông Á ở giai đoạn phát triển tương đương, đặc biệt ở khu vực đầu tư công và doanh nghiệp nhà nước. Theo ngôn ngữ của Smith, một phần vốn đã rơi vào "dự án thiếu suy xét": các dự án thua lỗ kéo dài của tập đoàn nhà nước, các nhà máy không hoạt động được công suất, là "quản lý kém" theo đúng định nghĩa của chương, tức vốn được chi ra mà không tái tạo đủ giá trị.
+Việt Nam nhiều năm có tỷ lệ tổng đầu tư trên GDP vào khoảng 30–33%, thuộc nhóm cao trong khu vực, và tỷ lệ tiết kiệm trong nước ở mức tương đương. Nếu chỉ đọc nửa đầu chương này, có thể kết luận Việt Nam đã làm đúng điều Smith khuyên. Nhưng chương này thực chất hỏi một câu khó hơn: khoản chi ấy có tái tạo được giá trị đã tiêu kèm lợi nhuận hay không. Đó chính là điều mà hệ số ICOR đo, và các ước tính phổ biến cho thấy ICOR của Việt Nam cao hơn so với các nền kinh tế Đông Á ở giai đoạn phát triển tương đương, đặc biệt ở khu vực đầu tư công và doanh nghiệp nhà nước.
 
-Phân biệt hoang phí công và tư của Smith cũng áp thẳng vào cơ cấu ngân sách. Ngân sách Việt Nam tách chi đầu tư phát triển và chi thường xuyên, và chi thường xuyên, phần lớn là lương và vận hành bộ máy, nhiều năm chiếm phần lớn tổng chi. Cuộc sắp xếp, tinh gọn bộ máy và hợp nhất đơn vị hành chính năm 2025 có thể đọc theo khung của Smith: giảm phần thu nhập công nuôi lao động "phi sản xuất" theo nghĩa của ông để dành chỗ cho đầu tư. Nhưng chính phê phán hiện đại đối với Smith nhắc một điều: chi cho giáo viên, bác sĩ là đầu tư vào vốn con người, không nên cắt theo cùng logic với chi hành chính. Tiêu chí đúng là chi đó có làm tăng năng lực sản xuất về sau hay không, chứ không phải nó có nằm ở khối hành chính hay không.
+Theo ngôn ngữ của Smith, một phần vốn đã rơi vào "dự án thiếu suy xét": các dự án thua lỗ kéo dài của tập đoàn nhà nước, các nhà máy không hoạt động được công suất, là "quản lý kém" theo đúng định nghĩa của chương, tức vốn được chi ra mà không tái tạo đủ giá trị.
 
-Phần về hàng lâu bền cũng có hình bóng Việt Nam rõ rệt. Hộ gia đình Việt Nam dồn tiết kiệm vào nhà đất và vàng, những "kho đồ lâu bền" theo nghĩa của Smith, vốn giữ giá trị nhưng không nuôi thêm lao động sản xuất nào sau khi đã xây xong hoặc đã mua. Theo Smith, nhà ở giữ được của cải cho hộ gia đình; nhưng khi một tỷ lệ lớn tiết kiệm quốc gia đọng trong đất đai để đầu cơ, căn hộ bỏ trống hay vàng cất tủ, nó không còn là vốn nuôi lao động sản xuất. Đây là chỗ giả định "tiết kiệm được đầu tư ngay" của Smith gãy trong thực tế Việt Nam, và là lý do các chính sách huy động vàng và tiền nhàn rỗi trong dân luôn được nhắc lại. Cuối cùng, nhận xét của Smith về Edinburgh và Glasgow, thành phố sống bằng chi tiêu của bộ máy so với thành phố sống bằng vốn kinh doanh, là một câu hỏi đáng đặt cho các đô thị Việt Nam: tăng trưởng của một tỉnh dựa vào doanh nghiệp tư nhân và FDI hay dựa vào chi tiêu ngân sách và chuyển giao từ trung ương sẽ tạo ra hai kiểu năng động kinh tế rất khác nhau.
+Phân biệt hoang phí công và tư của Smith cũng áp thẳng vào cơ cấu ngân sách. Ngân sách Việt Nam tách chi đầu tư phát triển và chi thường xuyên, và chi thường xuyên, phần lớn là lương và vận hành bộ máy, nhiều năm chiếm phần lớn tổng chi.
+
+Cuộc sắp xếp, tinh gọn bộ máy và hợp nhất đơn vị hành chính năm 2025 có thể đọc theo khung của Smith: giảm phần thu nhập công nuôi lao động "phi sản xuất" theo nghĩa của ông để dành chỗ cho đầu tư. Nhưng chính phê phán hiện đại đối với Smith nhắc một điều: chi cho giáo viên, bác sĩ là đầu tư vào vốn con người, không nên cắt theo cùng logic với chi hành chính. Tiêu chí đúng là chi đó có làm tăng năng lực sản xuất về sau hay không, chứ không phải nó có nằm ở khối hành chính hay không.
+
+Phần về hàng lâu bền cũng có hình bóng Việt Nam rõ rệt. Hộ gia đình Việt Nam dồn tiết kiệm vào nhà đất và vàng, những "kho đồ lâu bền" theo nghĩa của Smith, vốn giữ giá trị nhưng không nuôi thêm lao động sản xuất nào sau khi đã xây xong hoặc đã mua. Theo Smith, nhà ở giữ được của cải cho hộ gia đình; nhưng khi một tỷ lệ lớn tiết kiệm quốc gia đọng trong đất đai để đầu cơ, căn hộ bỏ trống hay vàng cất tủ, nó không còn là vốn nuôi lao động sản xuất.
+
+Đây là chỗ giả định "tiết kiệm được đầu tư ngay" của Smith gãy trong thực tế Việt Nam, và là lý do các chính sách huy động vàng và tiền nhàn rỗi trong dân luôn được nhắc lại.
+
+Cuối cùng, nhận xét của Smith về Edinburgh và Glasgow, thành phố sống bằng chi tiêu của bộ máy so với thành phố sống bằng vốn kinh doanh, là một câu hỏi đáng đặt cho các đô thị Việt Nam: tăng trưởng của một tỉnh dựa vào doanh nghiệp tư nhân và FDI hay dựa vào chi tiêu ngân sách và chuyển giao từ trung ương sẽ tạo ra hai kiểu năng động kinh tế rất khác nhau.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển II, Chương III trên một trang: bảy nhánh đi theo các mục 1–10 của phần Nội dung chi tiết (định nghĩa lao động sản xuất và phi sản xuất, phần hoàn vốn và phần thu nhập cùng so sánh phong kiến với châu Âu giàu và các thành phố, tiết kiệm và hoang phí, quản lý kém và hoang phí công, bằng chứng lịch sử Anh, cách chi tiêu nào làm giàu), mỗi nhánh ghi luận điểm, cơ chế, ví dụ và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển II, Chương 3: của cải chỉ tăng khi vốn tăng, và vốn chỉ tăng bằng tiết kiệm`"]
+  n1["`Mục 1 — Lao động sản xuất để lại hàng hoá bán được, lao động phi sản xuất thì không`"]
+  n0 --- n1
+  n2["`Người thợ làm tăng giá trị nguyên liệu bằng tiền công của mình cộng lợi nhuận của chủ`"]
+  n1 --- n2
+  n3["`Tiền công được chủ ứng trước nhưng hoàn lại kèm lợi nhuận trong giá bán sản phẩm`"]
+  n1 --- n3
+  n4["`Hàng hoá là một lượng lao động được cất giữ, sau này đổi lấy lượng lao động tương đương`"]
+  n1 --- n4
+  n5["`Làm giàu bằng cách thuê nhiều thợ, trở nên nghèo nếu nuôi nhiều đầy tớ`"]
+  n1 --- n5
+  n6["`Vua, quan lại, lục quân, hải quân, thầy tu, luật sư, bác sĩ, ca sĩ đều là lao động phi sản xuất`"]
+  n1 --- n6
+  n7["`An ninh năm nay không để dành cho năm sau được, năm sau lại phải nuôi quân đội thêm một năm`"]
+  n1 --- n7
+  n8["`Phi sản xuất không có nghĩa vô ích, chỉ là không hoàn lại được quỹ đã nuôi nó`"]
+  n1 --- n8
+  n9["`Mục 2–4 — Tỷ lệ vốn / thu nhập quyết định cần cù hay lười nhác`"]
+  n0 --- n9
+  n10["`Sản phẩm hàng năm có hạn nuôi lao động sản xuất, lao động phi sản xuất và người không làm gì`"]
+  n9 --- n10
+  n11["`Sản phẩm tách làm phần hoàn vốn (thường lớn nhất) và phần thu nhập gồm địa tô và lợi nhuận`"]
+  n9 --- n11
+  n12["`Phần hoàn vốn chỉ nuôi lao động sản xuất, phần thu nhập nuôi bất kỳ ai`"]
+  n9 --- n12
+  n13["`Thương gia dùng vốn nuôi thợ, dùng thu nhập nuôi đầy tớ và khách khứa như lãnh chúa`"]
+  n9 --- n13
+  n14["`Thời phong kiến: vốn nông nghiệp là vài con gia súc, lãnh chúa lấy gần toàn bộ, lãi suất không dưới 10%`"]
+  n9 --- n14
+  n15["`Châu Âu giàu: địa chủ ít khi quá 1/3 sản phẩm, có khi chưa đến 1/4, nhưng địa tô đã tăng gấp 3–4 lần`"]
+  n9 --- n15
+  n16["`Lãi suất ≤ 6%, nơi sầm uất nhất 4, 3, 2%: lợi nhuận tuyệt đối lớn hơn, tỷ suất thấp hơn`"]
+  n9 --- n16
+  n17["`Tổ tiên lười vì thiếu khuyến khích: chơi không công còn hơn làm không công`"]
+  n9 --- n17
+  n18["`Thành phố sống bằng vốn cần cù (Glasgow, Hà Lan), sống bằng thu nhập triều đình thì lười và nghèo (Rome, Versailles)`"]
+  n9 --- n18
+  n19["`Rouen, Bordeaux là ngoại lệ do địa thế, London, Lisbon, Copenhagen vừa có triều đình vừa buôn bán`"]
+  n9 --- n19
+  n20["`Edinburgh vẫn thua Glasgow vì còn toà án lớn và thuế quan tiêu thu nhập tại chỗ`"]
+  n9 --- n20
+  n21["`Mục 5–6 — Tiết kiệm tạo vốn, hoang phí ăn vào vốn`"]
+  n0 --- n21
+  n22["`Tiết kiệm, chứ không phải cần cù, là nguyên nhân trực tiếp của tăng vốn`"]
+  n21 --- n22
+  n23["`Vốn xã hội là tổng vốn cá nhân nên cũng chỉ tăng bằng tiết kiệm`"]
+  n21 --- n23
+  n24["`Phần tiết kiệm vẫn được tiêu gần như ngay, nhưng bởi thợ thay vì đầy tớ: tiêu dùng vẫn thế, người tiêu dùng khác`"]
+  n21 --- n24
+  n25["`Người tiết kiệm như người lập quỹ trại tế bần, lợi ích riêng giữ quỹ nuôi lao động sản xuất`"]
+  n21 --- n25
+  n26["`Kẻ hoang phí nuôi kẻ lười bằng bánh mì của người cần cù`"]
+  n21 --- n26
+  n27["`Bác trọng thương: dù chỉ mua hàng nội, hàng lẽ ra nuôi người sản xuất vẫn đi nuôi người phi sản xuất`"]
+  n21 --- n27
+  n28["`Dùng cho lao động sản xuất thì nước có hai giá trị, tiền và hàng tái sản xuất, thay vì một`"]
+  n27 --- n28
+  n29["`Sản phẩm giảm thì tiền thừa ra nước ngoài bất chấp luật cấm: xuất khẩu vàng bạc là hậu quả của suy sụp`"]
+  n27 --- n29
+  n30["`Vàng bạc tăng là hậu quả, không phải nguyên nhân của thịnh vượng`"]
+  n27 --- n30
+  n31["`Mỗi kẻ hoang phí là kẻ thù của công chúng, mỗi người tiết kiệm là ân nhân`"]
+  n21 --- n31
+  n32["`Mục 7–8 — Tư nhân hiếm khi làm nghèo một nước lớn, hoang phí công thì có thể`"]
+  n0 --- n32
+  n33["`Quản lý kém: dự án thiếu suy xét không tái sản xuất đủ giá trị đã tiêu`"]
+  n32 --- n33
+  n34["`Đam mê hưởng thụ mãnh liệt nhưng nhất thời, ý muốn cải thiện hoàn cảnh có từ lọt lòng đến lúc chết`"]
+  n32 --- n34
+  n35["`Đa số người, trong phần lớn cuộc đời, là người tiết kiệm`"]
+  n32 --- n35
+  n36["`Phá sản có lẽ không hơn 1 trên 1.000 người kinh doanh`"]
+  n32 --- n36
+  n37["`Thu nhập công nuôi triều đình, giáo hội, hạm đội, quân đội, toàn người phi sản xuất`"]
+  n32 --- n37
+  n38["`Nuôi họ quá mức thì ăn vào quỹ năm sau, sản phẩm năm sau ít hơn năm trước, và cứ thế`"]
+  n32 --- n38
+  n39["`Thường tư nhân vẫn thắng, như cơ thể hồi phục bất chấp đơn thuốc vô lý của thầy thuốc`"]
+  n32 --- n39
+  n40["`Mục 9 — Lịch sử Anh: sản lượng tăng chứng tỏ vốn đã tăng`"]
+  n0 --- n40
+  n41["`Sản lượng chỉ tăng bằng thêm số lao động sản xuất hoặc thêm năng suất, cả hai đều cần thêm vốn`"]
+  n40 --- n41
+  n42["`Tiến bộ chậm, suy thoái cục bộ dễ thấy: hiếm khi 5 năm trôi qua không có sách than nước Anh suy tàn`"]
+  n40 --- n42
+  n43["`Mỗi thời giàu hơn thời trước: Julius Caesar, Saxon, Norman, Elizabeth, Phục hồi, đến thời Smith`"]
+  n40 --- n43
+  n44["`Bốn cuộc chiến với Pháp 1688, 1702, 1742, 1756: nợ hơn 145 triệu bảng, tổn thất không dưới 200 triệu`"]
+  n40 --- n44
+  n45["`Không có chiến tranh, số đó đã nuôi lao động sản xuất: thêm nhà cửa, ruộng cải tạo, xưởng mới`"]
+  n40 --- n45
+  n46["`Vốn tích luỹ âm thầm và dần dần nhờ tư nhân, được pháp luật bảo vệ và tự do hành động`"]
+  n40 --- n46
+  n47["`Vua và bộ trưởng ra luật chống xa xỉ là hỗn xược và tự phụ tột bậc, chính họ hoang phí nhất`"]
+  n40 --- n47
+  n48["`Mục 10 — Chi cho hàng lâu bền làm nước giàu hơn chi cho thứ tiêu ngay`"]
+  n0 --- n48
+  n49["`Người chi đúng bằng thu nhập không tăng, không giảm vốn, nhưng cách chi vẫn quan trọng`"]
+  n48 --- n49
+  n50["`Tiệc tùng, đầy tớ, chó ngựa: sau 10 hay 20 năm không còn dấu vết gì`"]
+  n48 --- n50
+  n51["`Nhà, đồ đạc, sách, tranh: chi hôm qua nâng hiệu quả chi hôm nay, để lại kho đồ còn giá trị`"]
+  n48 --- n51
+  n52["`Dừng mua đồ lâu bền được hiểu là đã đủ, còn cắt đầy tớ, tiệc tùng bị coi như thú nhận sai lầm`"]
+  n48 --- n52
+  n53["`Tiệc 2–3 tạ thức ăn bỏ quá nửa, cùng số tiền thuê thợ xây, thợ mộc nuôi nhiều người hơn`"]
+  n48 --- n53
+  n54["`Dinh thự nhà Seymour thành quán trọ trên đường Bath, giường cưới vua James I ở quán bia Dunfermline`"]
+  n48 --- n54
+  n55["`Smith không nói cách chi lâu bền cao thượng hơn, chỉ nói nó làm tăng của cải`"]
+  n48 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Tiết kiệm không giảm tổng chi tiêu, chỉ chuyển nó từ nuôi lao động phi sản xuất sang nuôi lao động sản xuất`"]
+  n56 --- n57
+  n58["`Giả định tiết kiệm được đầu tư ngay là chỗ Keynes bác: Smith đúng ở dài hạn, sai ở ngắn hạn`"]
+  n56 --- n58
+  n59["`Câu hỏi vẫn đúng: khoản chi có tăng năng lực sản xuất năm sau không, kể cả vốn con người`"]
+  n56 --- n59
+  n60["`Mối đe doạ thật là chi tiêu công, nhất là chiến tranh: tiền thân của chi phí cơ hội và hiệu ứng lấn át`"]
+  n56 --- n60
+  n61["`Phê phán trọng thương: câu hỏi không phải tiền đi đâu mà hàng thật nuôi ai`"]
+  n56 --- n61
+  class n0 root
+  class n1,n9,n21,n32,n40,n48,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Chương III. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 316–334.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Đơn vị tiền Anh
+
+Đơn vị tiền dùng trong chương: 1 bảng (pound) = 20 shilling, 1 shilling = 12 penny.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển I giải thích sản lượng mỗi lao động tăng nhờ phân công lao động, và phân công bị giới hạn bởi quy mô vốn tích luỹ từ trước. Quyển II, Chương I chia "kho" (stock) của xã hội thành phần để tiêu dùng ngay, vốn cố định và vốn lưu động; Chương II bàn về tiền như một bộ phận của vốn lưu động.
+
+Chương III này là trục của cả Quyển II: nó trả lời *vốn từ đâu mà tăng* và *vốn tăng thì làm tăng sản lượng bằng cơ chế nào*.
+
+Các Chương IV (vốn cho vay) và V (các cách sử dụng vốn) đi tiếp từ đây, còn Quyển III và Quyển IV dùng kết luận "tiết kiệm của tư nhân là động lực, chi tiêu của nhà nước là lực cản" để đánh giá chính sách châu Âu.
+
+## Lưu ý
+
+Bản dịch có bốn chỗ làm lệch nghĩa.
+
+- Câu then chốt "Parsimony, and not industry, is the immediate cause of the increase of capital" được dịch là "Tiết kiệm là nguyên nhân trực tiếp để tăng vốn", bỏ mất vế "chứ không phải sự cần cù", tức bỏ mất chính điểm đối lập mà Smith muốn nhấn.
+- Đoạn về cách tăng sản lượng bị gộp sai: nguyên văn nói số lao động sản xuất chỉ tăng khi vốn tăng, còn *năng suất* của họ chỉ tăng nhờ máy móc tốt hơn hoặc phân công hợp lý hơn; bản dịch viết "số lượng người lao động sản xuất chỉ có thể tăng khi sử dụng máy móc...".
+- "A numerous and splendid court" (một triều đình đông đảo, lộng lẫy) bị dịch thành "viên chức của các toà án làm việc trong những toà nhà nguy nga".
+- Năm của bốn cuộc chiến tranh với Pháp là 1688, 1702, **1742** và 1756; bản dịch in nhầm 1742 thành 1724.
+- Ngoài ra "an innocent man" (người lương thiện, vô tội) bị dịch thành "người thiếu kinh nghiệm" ở đoạn nói về phá sản, và câu Smith gọi việc vua chúa, bộ trưởng muốn kiểm soát chi tiêu của dân là "sự hỗn xược và tự phụ tột bậc" bị dịch nhạt thành một câu tường thuật.

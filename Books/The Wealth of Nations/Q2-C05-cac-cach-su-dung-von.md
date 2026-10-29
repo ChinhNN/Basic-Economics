@@ -1,11 +1,17 @@
 # Quyển II, Chương V — Các cách sử dụng vốn (Of the different Employment of Capitals)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Chương V. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 343–358.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển II, Chương III chứng minh rằng vốn tăng nhờ tiết kiệm và mọi vốn đều nuôi lao động sản xuất; Chương IV cho thấy vốn được chuyển từ người tiết kiệm sang người sử dụng qua cho vay. Chương V, chương cuối của Quyển II, hỏi tiếp: cùng một lượng vốn đặt vào ngành nào thì nuôi được nhiều lao động sản xuất nhất và thêm được nhiều giá trị nhất vào sản phẩm hàng năm. Thứ tự ưu tiên mà chương này lập ra (nông nghiệp, chế tạo, bán buôn, bán lẻ; trong bán buôn: buôn bán trong nước, buôn bán tiêu dùng với nước ngoài, buôn bán trung chuyển) trở thành "trật tự tự nhiên" của Quyển III, nơi Smith cho thấy chính sách châu Âu đã đảo ngược trật tự đó, và là nền cho lập luận "bàn tay vô hình" ở Quyển IV, Chương II, nơi chủ vốn tự nguyện ưu tiên buôn bán trong nước.
-**Ý chính:** Smith muốn chứng minh rằng các cách dùng vốn khác nhau rất xa về lượng lao động sản xuất chúng nuôi được trong nước và lượng giá trị chúng thêm vào sản phẩm hàng năm, nên một nước thiếu vốn sẽ giàu nhanh nhất nếu vốn đi theo trật tự: nông nghiệp trước, rồi chế tạo, rồi xuất khẩu. Ông chứng minh bằng hai thước đo: (1) vốn ở ngành nào nuôi trực tiếp nhiều lao động hơn và có "thiên nhiên cùng lao động" (nông nghiệp tạo ra địa tô ngoài tiền công và lợi nhuận); (2) trong thương mại, mỗi vòng quay của vốn hoàn lại bao nhiêu vốn *trong nước* và vốn quay nhanh đến đâu (buôn bán trong nước hoàn lại hai vốn trong nước, buôn bán với nước ngoài một, buôn bán trung chuyển không vốn nào). Bằng chứng là các thuộc địa Anh ở Bắc Mỹ giàu nhanh nhờ dồn vốn vào nông nghiệp. Kết luận chính sách: nhà nước không nên ưu đãi ngoại thương hay buôn bán trung chuyển hơn mức vốn tự nhiên chảy vào đó; buôn bán trung chuyển là triệu chứng của giàu có, không phải nguyên nhân.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có ba chỗ sai nghĩa và một chỗ lạ. (1) Câu kết luận về vốn của chủ xưởng bị mất vế so sánh: nguyên văn nói vốn ấy huy động trực tiếp *nhiều hơn nhiều* lao động sản xuất và thêm *nhiều hơn nhiều* giá trị so với cùng lượng vốn trong tay người bán buôn; bản dịch chỉ còn "được dùng để huy động một số lượng lao động sản xuất... so với số tiền vốn tương đương trong tay của một người buôn sỉ". (2) Đoạn về nhà buôn xuất khẩu là người nước ngoài bị dịch thành "những người lao động mà ông ta thuê mướn để làm việc toàn là những người bản xứ trừ ông ta ra mà thôi"; nguyên văn nói nếu nhà buôn là người nước ngoài thì số lao động sản xuất của nước đó chỉ ít đi đúng *một người* (chính ông ta) và sản phẩm hàng năm chỉ ít đi đúng *lợi nhuận của một người đó*, nên quốc tịch của nhà buôn xuất khẩu "không quan trọng mấy". (3) Ví dụ cuối về vận tải: "ngành vận tải than từ Newcastle tới London sử dụng nhiều tàu hơn là ngành vận tải toàn quốc Anh" nên hiểu là "nhiều tàu hơn *toàn bộ ngành buôn bán trung chuyển* của Anh" (all the carrying trade of England). (4) Dấu "(!)" sau cụm "một nửa sự khuyến khích" không có trong nguyên văn, có lẽ do người dịch hoặc lỗi trích xuất. Ngoài ra, "barin" trong ví dụ thuốc lá là "hogshead", một loại thùng; con số "238 lít" người dịch chú thích là dung tích của thùng rượu, còn thùng thuốc lá thời đó thường được tính theo trọng lượng (khoảng nửa tấn), nên chỉ nên coi đó là một đơn vị đếm.
+Smith muốn chứng minh rằng các cách dùng vốn khác nhau rất xa về lượng lao động sản xuất chúng nuôi được trong nước và lượng giá trị chúng thêm vào sản phẩm hàng năm, nên một nước thiếu vốn sẽ giàu nhanh nhất nếu vốn đi theo trật tự: nông nghiệp trước, rồi chế tạo, rồi xuất khẩu.
+
+Ông chứng minh bằng hai thước đo:
+
+- Vốn ở ngành nào nuôi trực tiếp nhiều lao động hơn và có "thiên nhiên cùng lao động" (nông nghiệp tạo ra địa tô ngoài tiền công và lợi nhuận).
+- Trong thương mại, mỗi vòng quay của vốn hoàn lại bao nhiêu vốn *trong nước* và vốn quay nhanh đến đâu (buôn bán trong nước hoàn lại hai vốn trong nước, buôn bán với nước ngoài một, buôn bán trung chuyển không vốn nào).
+
+Bằng chứng là các thuộc địa Anh ở Bắc Mỹ giàu nhanh nhờ dồn vốn vào nông nghiệp.
+
+Kết luận chính sách: nhà nước không nên ưu đãi ngoại thương hay buôn bán trung chuyển hơn mức vốn tự nhiên chảy vào đó. Buôn bán trung chuyển là triệu chứng của giàu có, không phải nguyên nhân.
 
 ## Sơ đồ
 
@@ -334,7 +340,9 @@ Smith phân tích kỹ trường hợp cuối. Một người thợ nghèo nếu
 
 **Ví dụ hôm nay** (minh hoạ chung). Một người bán hàng ăn sáng mua thịt, rau mỗi sáng ở chợ gần nhà thay vì mua cả tháng một lần. Nhờ có người bán lẻ, gần hết tiền của chị nằm trong nồi niêu, quầy hàng và nguyên liệu đang chế biến, chứ không bị đọng trong một kho thực phẩm lớn.
 
-**Bảo vệ người bán lẻ.** Smith cho rằng thành kiến của một số nhà chính trị đối với chủ hiệu và người buôn bán là vô căn cứ. Lượng hàng tạp phẩm bán được ở một thành phố bị giới hạn bởi nhu cầu của thành phố đó và vùng lân cận, nên vốn dùng vào bán lẻ không thể vượt quá lượng cần để mua số hàng ấy. Nếu số vốn đó chia cho 2 người bán, cạnh tranh buộc cả hai bán rẻ hơn so với khi một người độc quyền. Nếu chia cho 20 người, cạnh tranh càng gắt và việc họ thông đồng để nâng giá càng khó. Cạnh tranh có thể làm vài người phá sản, nhưng đó là việc riêng của họ, không đụng đến người tiêu dùng hay người sản xuất; nó chỉ khiến người bán lẻ bán rẻ hơn và mua đắt hơn so với khi cả ngành nằm trong tay một hai người.
+**Bảo vệ người bán lẻ.** Smith cho rằng thành kiến của một số nhà chính trị đối với chủ hiệu và người buôn bán là vô căn cứ. Lượng hàng tạp phẩm bán được ở một thành phố bị giới hạn bởi nhu cầu của thành phố đó và vùng lân cận, nên vốn dùng vào bán lẻ không thể vượt quá lượng cần để mua số hàng ấy. Nếu số vốn đó chia cho 2 người bán, cạnh tranh buộc cả hai bán rẻ hơn so với khi một người độc quyền. Nếu chia cho 20 người, cạnh tranh càng gắt và việc họ thông đồng để nâng giá càng khó.
+
+Cạnh tranh có thể làm vài người phá sản, nhưng đó là việc riêng của họ, không đụng đến người tiêu dùng hay người sản xuất; nó chỉ khiến người bán lẻ bán rẻ hơn và mua đắt hơn so với khi cả ngành nằm trong tay một hai người.
 
 Smith thừa nhận đôi khi người bán lẻ dụ người mua nhẹ dạ mua thứ không cần. Nhưng tác hại ấy nhỏ, không đáng để luật hạn chế số người bán lẻ. Ông đưa ra một nhận xét về chiều nhân quả: không phải có nhiều quán rượu mới sinh ra thói nghiện rượu; chính thói nghiện rượu, do những nguyên nhân khác, sinh ra nhiều quán rượu.
 
@@ -429,7 +437,9 @@ Phép tính của Smith: nếu vốn trong nước quay 12 vòng, mỗi vòng ho
 
 Nếu ba vòng do ba nhà buôn khác nhau đảm nhận, mỗi người thu vốn về nhanh hơn, nhưng toàn bộ vốn của cả chuỗi vẫn về chậm như thế; với đất nước, một nhà buôn hay ba nhà buôn không khác gì nhau. Trong cả hai trường hợp, cần một lượng vốn gấp ba để đổi một lượng hàng Anh lấy một lượng lanh và gai, so với khi đổi trực tiếp. Vì vậy buôn bán vòng vo khuyến khích lao động trong nước ít hơn buôn bán trực tiếp.
 
-**Trả bằng vàng bạc.** Dùng loại hàng ngoại nào để mua hàng ngoại cho tiêu dùng không làm thay đổi bản chất. Nếu hàng ngoại được mua bằng vàng Brazil hay bạc Peru, số vàng bạc ấy, cũng như thuốc lá Virginia, phải được mua bằng hàng trong nước, hoặc bằng thứ đã mua bằng hàng trong nước. Buôn bán bằng vàng bạc có những thuận lợi và bất lợi như mọi buôn bán vòng vo, và thậm chí có lợi hơn các cách vòng vo khác: vàng bạc có thể tích nhỏ mà giá trị lớn, nên cước chở rẻ hơn, phí bảo hiểm không cao hơn, và ít bị hư hại khi vận chuyển. Nhờ đó có thể mua cùng lượng hàng ngoại bằng ít hàng nội hơn, tức nhu cầu trong nước được đáp ứng đầy đủ hơn với chi phí thấp hơn. Còn việc xuất vàng bạc liên tục như thế có làm nghèo đất nước hay không, Smith hẹn xem xét kỹ ở sau (Quyển IV).
+**Trả bằng vàng bạc.** Dùng loại hàng ngoại nào để mua hàng ngoại cho tiêu dùng không làm thay đổi bản chất. Nếu hàng ngoại được mua bằng vàng Brazil hay bạc Peru, số vàng bạc ấy, cũng như thuốc lá Virginia, phải được mua bằng hàng trong nước, hoặc bằng thứ đã mua bằng hàng trong nước.
+
+Buôn bán bằng vàng bạc có những thuận lợi và bất lợi như mọi buôn bán vòng vo, và thậm chí có lợi hơn các cách vòng vo khác: vàng bạc có thể tích nhỏ mà giá trị lớn, nên cước chở rẻ hơn, phí bảo hiểm không cao hơn, và ít bị hư hại khi vận chuyển. Nhờ đó có thể mua cùng lượng hàng ngoại bằng ít hàng nội hơn, tức nhu cầu trong nước được đáp ứng đầy đủ hơn với chi phí thấp hơn. Còn việc xuất vàng bạc liên tục như thế có làm nghèo đất nước hay không, Smith hẹn xem xét kỹ ở sau (Quyển IV).
 
 ### 6. Buôn bán trung chuyển
 
@@ -437,7 +447,9 @@ Phần vốn dùng cho buôn bán trung chuyển hoàn toàn rút khỏi việc 
 
 Có một ngoại lệ một phần. Khi buôn bán trung chuyển dùng tàu và thuỷ thủ của chính nước mình, phần vốn trả cước được trả cho lao động sản xuất của nước đó. Hầu hết các nước có tỷ phần đáng kể trong buôn bán trung chuyển đều làm vậy, nên mới có tên gọi "người chở hàng cho các nước khác". Nhưng điều đó không thuộc bản chất của ngành: nhà buôn Hà Lan hoàn toàn có thể thuê tàu Anh.
 
-**Lập luận quốc phòng.** Buôn bán trung chuyển được coi là đặc biệt có lợi cho một nước như Anh, nơi quốc phòng dựa vào số thuỷ thủ và tàu. Smith phản bác: cùng một lượng vốn có thể thuê bằng ấy thuỷ thủ và tàu trong buôn bán tiêu dùng với nước ngoài, hay cả trong buôn bán ven biển trong nước. Số thuỷ thủ và tàu mà một vốn thuê được không phụ thuộc vào loại buôn bán, mà phụ thuộc một phần vào thể tích của hàng so với giá trị của nó, một phần vào khoảng cách giữa các cảng, và chủ yếu là yếu tố đầu. Bằng chứng: buôn bán than từ Newcastle đến London dùng nhiều tàu hơn toàn bộ buôn bán trung chuyển của Anh, dù hai cảng này không xa nhau. Than nặng, cồng kềnh mà rẻ, nên cùng một giá trị hàng cần rất nhiều tàu.
+**Lập luận quốc phòng.** Buôn bán trung chuyển được coi là đặc biệt có lợi cho một nước như Anh, nơi quốc phòng dựa vào số thuỷ thủ và tàu. Smith phản bác: cùng một lượng vốn có thể thuê bằng ấy thuỷ thủ và tàu trong buôn bán tiêu dùng với nước ngoài, hay cả trong buôn bán ven biển trong nước. Số thuỷ thủ và tàu mà một vốn thuê được không phụ thuộc vào loại buôn bán, mà phụ thuộc một phần vào thể tích của hàng so với giá trị của nó, một phần vào khoảng cách giữa các cảng, và chủ yếu là yếu tố đầu.
+
+Bằng chứng: buôn bán than từ Newcastle đến London dùng nhiều tàu hơn toàn bộ buôn bán trung chuyển của Anh, dù hai cảng này không xa nhau. Than nặng, cồng kềnh mà rẻ, nên cùng một giá trị hàng cần rất nhiều tàu.
 
 ### 7. Kết luận chính sách: không ưu đãi, để vốn tự chảy
 
@@ -467,7 +479,9 @@ Bằng chứng là Hà Lan và Anh. Hà Lan, tính theo diện tích và dân s�
 
 Phần cuối chương nối phân tích về lợi ích xã hội với động cơ của từng người. Cân nhắc lợi nhuận riêng là động cơ duy nhất quyết định chủ vốn đặt vốn vào nông nghiệp, chế tạo, bán buôn hay bán lẻ. Họ hiếm khi nghĩ xem vốn của mình nuôi bao nhiêu lao động sản xuất hay thêm bao nhiêu giá trị vào sản phẩm hàng năm.
 
-Ở nước nào nông nghiệp là ngành lời nhất và là con đường trực tiếp nhất đến giàu có, vốn tư nhân sẽ tự nhiên được dùng theo cách có lợi nhất cho xã hội. Nhưng ở châu Âu, lợi nhuận nông nghiệp có vẻ chưa bao giờ cao hơn các ngành khác. Những người lập dự án ở nhiều nước gần đây đã làm công chúng hào hứng với những câu chuyện về lợi nhuận lớn từ cải tạo đất; Smith cho rằng không cần đi vào tính toán cũng thấy kết quả đó là không thật. Hằng ngày người ta thấy những gia sản lớn được lập trong một đời người nhờ buôn bán và chế tạo, thường bắt đầu từ vốn rất nhỏ, đôi khi không có vốn. Còn làm giàu nhanh như thế, từ vốn nhỏ như thế, bằng nông nghiệp thì không có một trường hợp nào ở châu Âu trong thế kỷ này.
+Ở nước nào nông nghiệp là ngành lời nhất và là con đường trực tiếp nhất đến giàu có, vốn tư nhân sẽ tự nhiên được dùng theo cách có lợi nhất cho xã hội. Nhưng ở châu Âu, lợi nhuận nông nghiệp có vẻ chưa bao giờ cao hơn các ngành khác. Những người lập dự án ở nhiều nước gần đây đã làm công chúng hào hứng với những câu chuyện về lợi nhuận lớn từ cải tạo đất; Smith cho rằng không cần đi vào tính toán cũng thấy kết quả đó là không thật.
+
+Hằng ngày người ta thấy những gia sản lớn được lập trong một đời người nhờ buôn bán và chế tạo, thường bắt đầu từ vốn rất nhỏ, đôi khi không có vốn. Còn làm giàu nhanh như thế, từ vốn nhỏ như thế, bằng nông nghiệp thì không có một trường hợp nào ở châu Âu trong thế kỷ này.
 
 Trong khi đó, ở nhiều nước châu Âu vẫn còn nhiều đất tốt chưa được canh tác, và đất đã canh tác cũng chưa đạt mức năng suất có thể. Nông nghiệp hầu như ở đâu cũng còn hút được nhiều vốn hơn nhiều so với hiện tại.
 
@@ -492,7 +506,24 @@ Vì sao vốn không chảy vào đó? Smith trả lời: các chính sách ở 
 5. Khi vốn đã đủ cho các tầng đầu, phần thừa tự tràn sang ngoại thương rồi trung chuyển; vì thế trung chuyển là triệu chứng của giàu có.
 6. Chủ vốn chỉ theo lợi nhuận; nếu chính sách không làm lệch lợi nhuận, vốn tư nhân tự đi theo trật tự có lợi cho xã hội. Ở châu Âu chính sách ưu ái thành thị đã làm lệch nó.
 
-**Bằng chứng và ví dụ Smith đưa ra.** Người bán thịt và người thợ nghèo phải mua cả con bò; quán rượu và thói nghiện rượu; địa tô từ 1/4 đến hơn 1/3 sản lượng; cánh đồng thạch nam và mâm xôi; Lyons, lụa ở Sicily, len Tây Ban Nha dệt ở Anh; lanh, gai vùng Baltic; len nam Scotland chở sang Yorkshire; các thuộc địa Bắc Mỹ, cửa hàng ở Virginia và Maryland; Trung Hoa, Ai Cập, Ấn Độ; vận chuyển Scotland – London và Anh – Bồ Đào Nha; vòng quay 12 lần so với 1 lần, khuyến khích gấp 24 lần; chuỗi Riga – Virginia – Jamaica; vàng Brazil, bạc Peru; nhà buôn Hà Lan giữa Ba Lan và Bồ Đào Nha; than Newcastle – London; 96.000 thùng thuốc lá, 14.000 tiêu dùng, 82.000 tái xuất; Hà Lan và Anh là hai nước giàu nhất châu Âu và có tỷ phần trung chuyển lớn nhất.
+**Bằng chứng và ví dụ Smith đưa ra.**
+- Người bán thịt và người thợ nghèo phải mua cả con bò.
+- Quán rượu và thói nghiện rượu.
+- Địa tô từ 1/4 đến hơn 1/3 sản lượng.
+- Cánh đồng thạch nam và mâm xôi.
+- Lyons, lụa ở Sicily, len Tây Ban Nha dệt ở Anh.
+- Lanh, gai vùng Baltic.
+- Len nam Scotland chở sang Yorkshire.
+- Các thuộc địa Bắc Mỹ, cửa hàng ở Virginia và Maryland.
+- Trung Hoa, Ai Cập, Ấn Độ.
+- Vận chuyển Scotland – London và Anh – Bồ Đào Nha.
+- Vòng quay 12 lần so với 1 lần, khuyến khích gấp 24 lần.
+- Chuỗi Riga – Virginia – Jamaica.
+- Vàng Brazil, bạc Peru.
+- Nhà buôn Hà Lan giữa Ba Lan và Bồ Đào Nha.
+- Than Newcastle – London.
+- 96.000 thùng thuốc lá, 14.000 tiêu dùng, 82.000 tái xuất.
+- Hà Lan và Anh là hai nước giàu nhất châu Âu và có tỷ phần trung chuyển lớn nhất.
 
 **Kết luận và hàm ý chính sách.**
 - Không ưu đãi ngoại thương hơn nội thương, không ưu đãi trung chuyển (kể cả với lý do quốc phòng hàng hải); để vốn tự chảy theo lợi nhuận.
@@ -558,7 +589,9 @@ Toàn bộ thứ tự ưu tiên của chương dựa trên câu hỏi "vốn nà
 
 ### "Thiên nhiên cùng lao động" là dấu vết phái trọng nông mà Ricardo đã xoá
 
-Lập luận rằng nông nghiệp tạo thêm địa tô vì thiên nhiên làm việc không công là phần yếu nhất của chương và là chỗ Smith gần phái trọng nông nhất, dù ông phê phán họ ở Quyển IV, Chương IX. Ricardo chỉ ra rằng nếu đất phong phú và đồng nhất thì sẽ không có địa tô nào cả, dù thiên nhiên vẫn "làm việc" như thế. Địa tô xuất hiện vì đất tốt khan hiếm và người ta phải canh tác cả đất kém; nó là phần chênh lệch giữa đất tốt và đất cận biên. Theo cách nhìn này, địa tô cao không cho thấy nông nghiệp năng suất hơn mà cho thấy đất khan hiếm, và nó là một khoản chuyển giao cho địa chủ chứ không phải phần giá trị "thêm" cho xã hội. Lịch sử cũng không ủng hộ Smith: năng suất lao động trong nông nghiệp ở hầu hết các nước tăng chậm hơn trong chế tạo cho đến thế kỷ 20, và con đường giàu lên của mọi nước đều đi qua việc chuyển lao động *ra khỏi* nông nghiệp.
+Lập luận rằng nông nghiệp tạo thêm địa tô vì thiên nhiên làm việc không công là phần yếu nhất của chương và là chỗ Smith gần phái trọng nông nhất, dù ông phê phán họ ở Quyển IV, Chương IX. Ricardo chỉ ra rằng nếu đất phong phú và đồng nhất thì sẽ không có địa tô nào cả, dù thiên nhiên vẫn "làm việc" như thế. Địa tô xuất hiện vì đất tốt khan hiếm và người ta phải canh tác cả đất kém; nó là phần chênh lệch giữa đất tốt và đất cận biên.
+
+Theo cách nhìn này, địa tô cao không cho thấy nông nghiệp năng suất hơn mà cho thấy đất khan hiếm, và nó là một khoản chuyển giao cho địa chủ chứ không phải phần giá trị "thêm" cho xã hội. Lịch sử cũng không ủng hộ Smith: năng suất lao động trong nông nghiệp ở hầu hết các nước tăng chậm hơn trong chế tạo cho đến thế kỷ 20, và con đường giàu lên của mọi nước đều đi qua việc chuyển lao động *ra khỏi* nông nghiệp.
 
 ### Phép tính "gấp 24 lần" là chỗ chương này bị lạm dụng nhiều nhất
 
@@ -578,6 +611,167 @@ Thứ ba, nhận định cuối chương rằng chính sách châu Âu ưu ái t
 
 Đổi Mới là ví dụ hiếm có về việc thứ tự Smith đề xuất thực sự diễn ra. Khoán 10 (1988) trả lại cho hộ nông dân quyền quyết định và hưởng phần sản lượng vượt khoán, tức sửa đúng chỗ Smith nói: chính sách đã làm lệch lợi nhuận nông nghiệp. Chỉ trong một năm, Việt Nam chuyển từ thiếu lương thực sang xuất khẩu gạo (1989), và thặng dư nông nghiệp trở thành nguồn tích luỹ và ngoại tệ đầu tiên. Sau đó mới đến chế tạo xuất khẩu. Phần về người nông dân không đủ vốn cũng vẫn đúng: tín dụng nông nghiệp, kho bảo quản và chế biến sau thu hoạch vẫn là điểm nghẽn, giống trường hợp len nam Scotland phải chở sang Yorkshire mới dệt được.
 
-Nhưng chương này cũng cho thấy giới hạn của Smith khi nhìn vào cấu trúc kinh tế Việt Nam hiện nay. Khu vực có vốn đầu tư nước ngoài chiếm phần lớn kim ngạch xuất khẩu, và theo đúng lập luận của Smith về nhà buôn nước ngoài, nước sở tại chỉ "mất" phần lợi nhuận chuyển về nước. Phần lợi nhuận này không nhỏ: chênh lệch giữa GDP và GNI của Việt Nam nhiều năm ở mức vài phần trăm GDP, chủ yếu do lợi nhuận chuyển ra của khu vực FDI. Câu hỏi của Smith, vốn này nuôi bao nhiêu lao động trong nước và hoàn lại bao nhiêu vốn trong nước, đo chính xác vấn đề của mô hình lắp ráp: khi linh kiện nhập khẩu và lợi nhuận chuyển ra, mỗi vòng quay chỉ "hoàn lại" tiền công lắp ráp trong nước. Tỷ lệ nội địa hoá và liên kết với doanh nghiệp trong nước, theo ngôn ngữ của Smith, là câu hỏi về việc bao nhiêu vốn trong nước được hoàn lại trong mỗi vòng.
+Nhưng chương này cũng cho thấy giới hạn của Smith khi nhìn vào cấu trúc kinh tế Việt Nam hiện nay. Khu vực có vốn đầu tư nước ngoài chiếm phần lớn kim ngạch xuất khẩu, và theo đúng lập luận của Smith về nhà buôn nước ngoài, nước sở tại chỉ "mất" phần lợi nhuận chuyển về nước. Phần lợi nhuận này không nhỏ: chênh lệch giữa GDP và GNI của Việt Nam nhiều năm ở mức vài phần trăm GDP, chủ yếu do lợi nhuận chuyển ra của khu vực FDI.
 
-Buôn bán trung chuyển cũng không còn là chuyện lý thuyết. Khi Hoa Kỳ áp thuế đối ứng năm 2025, với mức cao hơn hẳn cho hàng bị coi là trung chuyển qua Việt Nam, câu hỏi thế nào là "sản phẩm của đất đai và lao động trong nước" trở thành câu hỏi thương mại trực tiếp. Phân biệt của Smith hữu ích ở đây: hàng chỉ đi qua Việt Nam, hoàn vốn cho nhà sản xuất nước ngoài và chỉ để lại lợi nhuận hay phí dịch vụ, là trung chuyển; hàng có giá trị gia tăng thật trong nước là xuất khẩu. Chính sách đúng theo tinh thần Smith là để lợi nhuận tự quyết định nhưng gỡ bỏ những ưu đãi làm cho việc "đi qua" có lời hơn việc "làm ra", chứ không phải trợ cấp xuất khẩu theo kim ngạch. Cuối cùng, nhận xét của Smith về bán lẻ vẫn có giá trị: cạnh tranh giữa chợ truyền thống, cửa hàng tiện lợi, chuỗi bán lẻ và thương mại điện tử đã làm giảm chi phí phân phối, và các rào cản như thủ tục kiểm tra nhu cầu kinh tế khi mở thêm điểm bán lẻ có vốn nước ngoài, theo lập luận của Smith, là hạn chế số người bán lẻ, một biện pháp ông coi là không cần thiết.
+Câu hỏi của Smith, vốn này nuôi bao nhiêu lao động trong nước và hoàn lại bao nhiêu vốn trong nước, đo chính xác vấn đề của mô hình lắp ráp: khi linh kiện nhập khẩu và lợi nhuận chuyển ra, mỗi vòng quay chỉ "hoàn lại" tiền công lắp ráp trong nước. Tỷ lệ nội địa hoá và liên kết với doanh nghiệp trong nước, theo ngôn ngữ của Smith, là câu hỏi về việc bao nhiêu vốn trong nước được hoàn lại trong mỗi vòng.
+
+Buôn bán trung chuyển cũng không còn là chuyện lý thuyết. Khi Hoa Kỳ áp thuế đối ứng năm 2025, với mức cao hơn hẳn cho hàng bị coi là trung chuyển qua Việt Nam, câu hỏi thế nào là "sản phẩm của đất đai và lao động trong nước" trở thành câu hỏi thương mại trực tiếp.
+
+Phân biệt của Smith hữu ích ở đây: hàng chỉ đi qua Việt Nam, hoàn vốn cho nhà sản xuất nước ngoài và chỉ để lại lợi nhuận hay phí dịch vụ, là trung chuyển; hàng có giá trị gia tăng thật trong nước là xuất khẩu. Chính sách đúng theo tinh thần Smith là để lợi nhuận tự quyết định nhưng gỡ bỏ những ưu đãi làm cho việc "đi qua" có lời hơn việc "làm ra", chứ không phải trợ cấp xuất khẩu theo kim ngạch.
+
+Cuối cùng, nhận xét của Smith về bán lẻ vẫn có giá trị: cạnh tranh giữa chợ truyền thống, cửa hàng tiện lợi, chuỗi bán lẻ và thương mại điện tử đã làm giảm chi phí phân phối, và các rào cản như thủ tục kiểm tra nhu cầu kinh tế khi mở thêm điểm bán lẻ có vốn nước ngoài, theo lập luận của Smith, là hạn chế số người bán lẻ, một biện pháp ông coi là không cần thiết.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển II, Chương V trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (bốn cách dùng vốn và bảo vệ người bán lẻ, thứ hạng hiệu quả từ bán lẻ lên nông nghiệp, nơi vốn cư trú và thứ tự ưu tiên khi thiếu vốn, ba loại bán buôn và vòng quay vốn, kết luận chính sách và động cơ lợi nhuận), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt cùng các phê phán ở phần Đánh giá.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển II, Chương V: cùng một lượng vốn nuôi lượng lao động sản xuất và thêm giá trị rất khác nhau tuỳ cách dùng, nên nước thiếu vốn giàu nhanh nhất theo trật tự nông nghiệp, chế tạo, xuất khẩu`"]
+  n1["`Mục 1 — Bốn cách dùng vốn đều cần cho nhau`"]
+  n0 --- n1
+  n2["`Bốn cách: khai thác sản phẩm thô, chế tạo, bán buôn, bán lẻ#59; khó có vốn nào nằm ngoài`"]
+  n1 --- n2
+  n3["`Không có bán buôn thì không ai sản xuất vượt nhu cầu vùng lân cận`"]
+  n1 --- n3
+  n4["`Không có người bán thịt, mỗi nhà phải mua cả con bò hay con cừu một lần`"]
+  n1 --- n4
+  n5["`Thợ nghèo mua được từng ngày thì dùng gần hết vốn làm ăn, lợi nhuận thừa bù phần giá người bán lẻ cộng vào`"]
+  n4 --- n5
+  n6["`Thành kiến với chủ hiệu là vô căn cứ: chia vốn bán lẻ cho 20 người thì càng cạnh tranh, càng khó thông đồng`"]
+  n1 --- n6
+  n7["`Không phải nhiều quán rượu sinh ra thói nghiện rượu, mà thói nghiện rượu sinh ra nhiều quán rượu`"]
+  n6 --- n7
+  n8["`Người dùng vốn theo cả bốn cách đều là lao động sản xuất`"]
+  n1 --- n8
+  n9["`Mục 2 — Thứ hạng hiệu quả: bán lẻ #lt; bán buôn #lt; chế tạo #lt; nông nghiệp`"]
+  n0 --- n9
+  n10["`Bán lẻ hoàn vốn cho người bán buôn, trực tiếp nuôi chỉ chính người bán lẻ`"]
+  n9 --- n10
+  n11["`Bán buôn hoàn vốn cho chủ trại, chủ xưởng và trực tiếp thuê thuỷ thủ, người chở hàng, tàu, xe`"]
+  n9 --- n11
+  n12["`Chế tạo: phần lớn nhất vốn lưu động trả công thợ, giá trị thêm = tiền công + lợi nhuận trên toàn bộ vốn`"]
+  n9 --- n12
+  n13["`Nông nghiệp nuôi nhiều lao động nhất, cả gia súc kéo cũng là lao động sản xuất`"]
+  n9 --- n13
+  n14["`#quot;Thiên nhiên cùng lao động với con người#quot;: lao động của thiên nhiên không tốn gì mà sản phẩm có giá trị`"]
+  n13 --- n14
+  n15["`Canh tác chủ yếu điều tiết chứ không làm sinh sôi: cánh đồng thạch nam và mâm xôi không kém ruộng nho`"]
+  n13 --- n15
+  n16["`Nông nghiệp tái tạo tiền công + lợi nhuận + địa tô, địa tô hiếm khi dưới 1/4, thường trên 1/3 tổng sản lượng`"]
+  n13 --- n16
+  n17["`#quot;Trong mọi cách dùng vốn, nông nghiệp có lợi nhất cho xã hội#quot;`"]
+  n9 --- n17
+  n18["`Mục 3–4 — Vốn cư trú ở đâu và nước thiếu vốn ưu tiên gì`"]
+  n0 --- n18
+  n19["`Vốn nông nghiệp và bán lẻ buộc ở trong nước, vốn bán buôn không có chỗ cố định`"]
+  n18 --- n19
+  n20["`Chế tạo không cần gần nguyên liệu hay người mua: Lyons, lụa ở Sicily, len Tây Ban Nha dệt ở Anh`"]
+  n18 --- n20
+  n21["`Nhà buôn xuất khẩu là người nước ngoài thì nước đó chỉ mất một lao động và lợi nhuận của một người`"]
+  n18 --- n21
+  n22["`Vốn chế tạo nên ở trong nước, nhưng thợ Anh dệt lanh, gai Baltic vẫn hoàn vốn cho nước trồng lanh`"]
+  n18 --- n22
+  n23["`Thiếu vốn: len nam Scotland chở đường xấu sang Yorkshire dệt`"]
+  n18 --- n23
+  n24["`Thứ tự ưu tiên: nông nghiệp trước, chế tạo sau, xuất khẩu cuối cùng`"]
+  n18 --- n24
+  n25["`Vốn quốc gia tăng nhanh nhất khi tạo thu nhập lớn nhất cho toàn dân, vì khi đó họ tiết kiệm được nhiều nhất`"]
+  n24 --- n25
+  n26["`Thuộc địa Anh ở Bắc Mỹ giàu nhanh vì dồn gần hết vốn vào nông nghiệp, xuất khẩu do nhà buôn Anh làm`"]
+  n24 --- n26
+  n27["`Nếu người Mỹ chặn hàng chế tạo châu Âu để độc quyền cho thợ trong nước thì sẽ chậm lại, không nhanh lên`"]
+  n26 --- n27
+  n28["`Trung Hoa, Ai Cập, Ấn Độ xưa giàu nhờ nông nghiệp và chế tạo, kém ngoại thương`"]
+  n24 --- n28
+  n29["`Mục 5–6 — Ba loại bán buôn và vòng quay vốn`"]
+  n0 --- n29
+  n30["`Buôn bán trong nước: mỗi vòng hoàn lại hai vốn, cả hai trong nước (Scotland – London, Anh – Edinburgh)`"]
+  n29 --- n30
+  n31["`Buôn bán tiêu dùng với nước ngoài: hai vốn nhưng chỉ một trong nước (Anh – Bồ Đào Nha), khuyến khích một nửa`"]
+  n29 --- n31
+  n32["`Vốn trong nước quay 3–4, có khi 12 lần một năm, vốn ngoại thương có khi 2–3 năm mới về`"]
+  n29 --- n32
+  n33["`12 vòng × 2 vốn so với 1 vòng × 1 vốn: buôn bán trong nước khuyến khích lao động trong nước gấp 24 lần`"]
+  n32 --- n33
+  n34["`Buôn bán vòng vo: lanh, gai Riga mua bằng thuốc lá Virginia, chờ hai, ba vòng, cần vốn gấp ba`"]
+  n29 --- n34
+  n35["`Trả bằng vàng Brazil, bạc Peru cũng là vòng vo nhưng lợi hơn: thể tích nhỏ giá trị lớn, cước rẻ, ít hư hại`"]
+  n34 --- n35
+  n36["`Trung chuyển: nhà buôn Hà Lan chở lúa Ba Lan sang Bồ Đào Nha, không hoàn vốn nào trong nước, chỉ lợi nhuận về Hà Lan`"]
+  n29 --- n36
+  n37["`Lý do quốc phòng bị bác: số tàu thuê được tuỳ thể tích so với giá trị hàng, không tuỳ loại buôn bán`"]
+  n36 --- n37
+  n38["`Than Newcastle – London dùng nhiều tàu hơn toàn bộ buôn bán trung chuyển của Anh`"]
+  n37 --- n38
+  n39["`Mục 7–8 — Không ưu đãi, để vốn tự chảy theo lợi nhuận`"]
+  n0 --- n39
+  n40["`Thứ tự: trong nước, rồi tiêu dùng với nước ngoài, rồi trung chuyển`"]
+  n39 --- n40
+  n41["`Sức mạnh của nước tỷ lệ với sản phẩm hàng năm, nguồn của mọi khoản thuế`"]
+  n39 --- n41
+  n42["`Không khuyến khích đặc biệt ngoại thương hay trung chuyển, không ép vốn vào quá mức tự nhiên chảy vào`"]
+  n41 --- n42
+  n43["`Thặng dư ngũ cốc, hàng len, đồ ngũ kim phải xuất khẩu, nếu không một phần lao động ngừng lại`"]
+  n39 --- n43
+  n44["`Anh mua ~96.000 thùng thuốc lá, dùng ~14.000, phải tái xuất 82.000#59; vòng vo đôi khi cũng cần`"]
+  n43 --- n44
+  n45["`Trung chuyển là hệ quả và triệu chứng của giàu có, không phải nguyên nhân: Hà Lan giàu nhất, tỷ phần lớn nhất`"]
+  n39 --- n45
+  n46["`Trung chuyển bị giới hạn bởi thặng dư của mọi nước nên gần như vô hạn, hút được vốn lớn nhất`"]
+  n45 --- n46
+  n47["`Chủ vốn chỉ nhìn lợi nhuận riêng, ít ai nghĩ vốn mình nuôi bao nhiêu lao động`"]
+  n39 --- n47
+  n48["`Ở châu Âu không gia sản nào lập nhanh từ vốn nhỏ nhờ nông nghiệp trong thế kỷ này, dù đất hoang còn nhiều`"]
+  n47 --- n48
+  n49["`Nguyên nhân: chính sách châu Âu ưu ái thành thị, vốn chạy sang trung chuyển ở châu Á, châu Mỹ`"]
+  n47 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Tiêu chí xã hội là lao động trong nước được nuôi và giá trị thêm vào, không phải lợi nhuận chủ vốn`"]
+  n50 --- n51
+  n52["`Smith đòi gỡ bỏ ưu đãi trọng thương cho ngoại thương và trung chuyển, không đòi tạo ưu đãi mới cho nông nghiệp`"]
+  n50 --- n52
+  n53["`Thước đo #quot;nuôi nhiều lao động#quot; không phải thước đo hiệu quả#59; chính Smith dựa vào tín hiệu lợi nhuận`"]
+  n50 --- n53
+  n54["`Ricardo: địa tô do đất tốt khan hiếm, không do thiên nhiên làm việc không công`"]
+  n53 --- n54
+  n55["`Phép tính gấp 24 lần nhầm lao động được tài trợ với lợi ích từ trao đổi, bị lợi thế so sánh bác bỏ`"]
+  n53 --- n55
+  n56["`Phần đứng vững: bảo vệ bán lẻ, trung chuyển là triệu chứng, thiên lệch thành thị (Lipton)`"]
+  n50 --- n56
+  n57["`Thứ tự này là nền cho #quot;trật tự tự nhiên#quot; ở Quyển III và #quot;bàn tay vô hình#quot; ở Quyển IV, Chương II`"]
+  n50 --- n57
+  class n0 root
+  class n1,n9,n18,n29,n39,n50 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Chương V. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 343–358.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển II, Chương III chứng minh rằng vốn tăng nhờ tiết kiệm và mọi vốn đều nuôi lao động sản xuất; Chương IV cho thấy vốn được chuyển từ người tiết kiệm sang người sử dụng qua cho vay.
+
+Chương V, chương cuối của Quyển II, hỏi tiếp: cùng một lượng vốn đặt vào ngành nào thì nuôi được nhiều lao động sản xuất nhất và thêm được nhiều giá trị nhất vào sản phẩm hàng năm.
+
+Thứ tự ưu tiên mà chương này lập ra (nông nghiệp, chế tạo, bán buôn, bán lẻ; trong bán buôn: buôn bán trong nước, buôn bán tiêu dùng với nước ngoài, buôn bán trung chuyển) trở thành "trật tự tự nhiên" của Quyển III, nơi Smith cho thấy chính sách châu Âu đã đảo ngược trật tự đó, và là nền cho lập luận "bàn tay vô hình" ở Quyển IV, Chương II, nơi chủ vốn tự nguyện ưu tiên buôn bán trong nước.
+
+## Lưu ý
+
+- Bản dịch có ba chỗ sai nghĩa và một chỗ lạ.
+- Câu kết luận về vốn của chủ xưởng bị mất vế so sánh: nguyên văn nói vốn ấy huy động trực tiếp *nhiều hơn nhiều* lao động sản xuất và thêm *nhiều hơn nhiều* giá trị so với cùng lượng vốn trong tay người bán buôn. Bản dịch chỉ còn "được dùng để huy động một số lượng lao động sản xuất... so với số tiền vốn tương đương trong tay của một người buôn sỉ".
+- Đoạn về nhà buôn xuất khẩu là người nước ngoài bị dịch thành "những người lao động mà ông ta thuê mướn để làm việc toàn là những người bản xứ trừ ông ta ra mà thôi". Nguyên văn nói nếu nhà buôn là người nước ngoài thì số lao động sản xuất của nước đó chỉ ít đi đúng *một người* (chính ông ta) và sản phẩm hàng năm chỉ ít đi đúng *lợi nhuận của một người đó*, nên quốc tịch của nhà buôn xuất khẩu "không quan trọng mấy".
+- Ví dụ cuối về vận tải: "ngành vận tải than từ Newcastle tới London sử dụng nhiều tàu hơn là ngành vận tải toàn quốc Anh" nên hiểu là "nhiều tàu hơn *toàn bộ ngành buôn bán trung chuyển* của Anh" (all the carrying trade of England).
+- Dấu "(!)" sau cụm "một nửa sự khuyến khích" không có trong nguyên văn, có lẽ do người dịch hoặc lỗi trích xuất.
+- Ngoài ra, "barin" trong ví dụ thuốc lá là "hogshead", một loại thùng; con số "238 lít" người dịch chú thích là dung tích của thùng rượu, còn thùng thuốc lá thời đó thường được tính theo trọng lượng (khoảng nửa tấn), nên chỉ nên coi đó là một đơn vị đếm.

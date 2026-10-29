@@ -1,11 +1,14 @@
 # Quyển I, Chương V — Giá thực tế và giá danh nghĩa của hàng hoá, hay giá tính bằng lao động và giá tính bằng tiền (Of the Real and Nominal Price of Commodities, or of their Price in Labour, and their Price in Money)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương V. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 53–68.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển I, Chương IV kết thúc bằng việc Smith hứa sẽ tìm ra ba điều: thước đo thật của giá trị trao đổi, các bộ phận cấu thành giá, và nguyên nhân khiến giá thị trường lệch khỏi giá "tự nhiên". Chương V giải quyết điều thứ nhất: nó dựng lên một cái thước (lao động) để từ đây về sau Smith có thể so sánh của cải giữa các thời kỳ và các nước mà không bị đánh lừa bởi biến động của vàng bạc. Chương VI (các cấu phần của giá) và Chương VII (giá tự nhiên và giá thị trường) giải quyết hai điều còn lại; còn phần lạc đề về giá trị bạc trong Chương XI chính là nơi Smith dùng cái thước "ngũ cốc thay cho lao động" mà chương này chuẩn bị.
-**Ý chính:** Smith muốn chứng minh rằng giàu hay nghèo là ở lượng lao động của người khác mà ta có thể mua hoặc chi phối, nên **lao động là thước đo thực của giá trị trao đổi**, còn tiền chỉ là giá danh nghĩa. Ông lập luận: vàng bạc tự chúng thay đổi giá trị (mỏ châu Mỹ làm bạc mất khoảng hai phần ba giá trị), nhà vua liên tục làm giảm hàm lượng kim loại trong tiền, nên một khoản tiền cố định qua nhiều thế kỷ mất giá; còn "các lượng lao động bằng nhau" thì luôn có giá trị như nhau với người lao động. Vì lao động khó quan sát, ông đề xuất thước đo thay thế: **ngũ cốc tốt hơn bạc khi so sánh giữa các thế kỷ, bạc tốt hơn ngũ cốc khi so sánh giữa các năm**. Nửa sau chương chuyển sang chuyện kỹ thuật tiền tệ Anh: kim loại nào là bản vị, tỷ lệ vàng bạc định bằng luật, giá đúc tiền so với giá thỏi, và cuộc cải cách tiền vàng gần đây.
+## Ý chính
 
-> **Lưu ý:** bản dịch có nhiều chỗ sai nghĩa trong chương này. (1) Câu về mỏ châu Mỹ bị dịch thành "số mỏ vàng, bạc được tìm thấy rất nhiều ở Châu Âu"; nguyên văn là các mỏ dồi dào ở **châu Mỹ** đã làm giá trị vàng bạc **ở châu Âu** giảm **còn** khoảng một phần ba giá trị trước đó, trong thế kỷ XVI. (2) Câu "theo giả thiết của mọi người và chính tôi cũng thấy rõ mà chẳng cần bằng chứng nào" đảo ngược ý Smith: ông viết rằng người ta *thường cho là* bạc vẫn đang tiếp tục mất giá, *dù tôi e rằng không có bằng chứng chắc chắn nào*; đây là điều Smith sẽ bác bỏ trong phần lạc đề về bạc ở Chương XI. (3) Khi giá ngũ cốc nhảy từ 25 lên 50 shilling, bản dịch nói giá lao động tính bằng tiền "tiếp tục tăng như vậy"; nguyên văn là giá lao động tính bằng tiền **vẫn giữ nguyên** suốt các biến động ấy, đó chính là lý do bạc là thước đo năm-qua-năm tốt hơn ngũ cốc. (4) "Một phần tư tạ Anh" là dịch sai đơn vị *quarter*, một đơn vị dung tích ngũ cốc bằng 8 giạ (bushel), khoảng 290 lít, không phải một phần tư tạ. (5) "Toil and trouble which it can save to himself" (công sức mà vật đó *tiết kiệm* cho người có nó) bị dịch thành "tích luỹ cho người ấy"; tương tự "tiền hay hàng tích luỹ sức lao động của chúng ta" phải hiểu là tiền hay hàng *tiết kiệm cho ta* công sức ấy. (6) Câu "sự phân biệt này trở nên ... một cái gì đó có tính danh nghĩa hơn" đảo nghĩa: nguyên văn là khi tỷ lệ vàng/bạc bị luật thay đổi thì sự phân biệt kim loại bản vị **trở nên hơn là danh nghĩa**. (7) Giá đúc vàng bị in sai một chỗ thành "3 bảng 14 shilling 10 penny rưỡi"; đúng là 3 bảng 17 shilling 10,5 penny như dòng ngay trước. (8) "Cấp xuất đồng tiền đúc bằng bạc" là lỗi gõ của "cấm xuất". (9) Một đồng guinea, nếu tiền bạc trở về đủ trọng lượng, sẽ đổi được nhiều **tiền bạc đúc** hơn lượng bạc thỏi nó mua được, chứ không phải "nhiều tiền đồng hơn". (10) Đoạn về các chủ ngân hàng bị đảo nghĩa: luật Smith đề xuất sẽ **ngăn** họ dùng mánh trả bằng đồng sáu penny để câu giờ khi bị rút tiền ồ ạt, chứ không phải giúp họ tránh thiệt hại. (11) "Tiền thuế đất" ở vài chỗ là lỗi gõ của "tiền thuê đất" (rent). (12) Câu về lao động có giá trị bằng nhau bị dịch thành người lao động "làm việc với cường độ lao động và mức độ sảng khoái như nhau"; nguyên văn là anh ta luôn phải **từ bỏ cùng một phần thoải mái, tự do và hạnh phúc** của mình, tức một lập luận về chi phí chủ quan của lao động. (13) Câu "Ở Rome, một người có nhiều tiền được coi là nắm được nhiều đồng của người khác" dịch ngược nghĩa: nguyên văn (*one who owed a great deal of money, was said to have a great deal of other people's copper*) nói về người **mắc nợ** nhiều, theo thành ngữ Latin *aes alienum* ("đồng của người khác" nghĩa là nợ), không phải người giàu.
+Smith muốn chứng minh rằng giàu hay nghèo là ở lượng lao động của người khác mà ta có thể mua hoặc chi phối, nên **lao động là thước đo thực của giá trị trao đổi**, còn tiền chỉ là giá danh nghĩa.
+
+Ông lập luận: vàng bạc tự chúng thay đổi giá trị (mỏ châu Mỹ làm bạc mất khoảng hai phần ba giá trị), nhà vua liên tục làm giảm hàm lượng kim loại trong tiền, nên một khoản tiền cố định qua nhiều thế kỷ mất giá; còn "các lượng lao động bằng nhau" thì luôn có giá trị như nhau với người lao động.
+
+Vì lao động khó quan sát, ông đề xuất thước đo thay thế: **ngũ cốc tốt hơn bạc khi so sánh giữa các thế kỷ, bạc tốt hơn ngũ cốc khi so sánh giữa các năm**.
+
+Nửa sau chương chuyển sang chuyện kỹ thuật tiền tệ Anh: kim loại nào là bản vị, tỷ lệ vàng bạc định bằng luật, giá đúc tiền so với giá thỏi, và cuộc cải cách tiền vàng gần đây.
 
 ## Sơ đồ
 
@@ -581,7 +584,9 @@ Chỗ Smith khác hiện đại là ở giải thích. Ông quy toàn bộ sự 
 
 ### Nửa sau chương là một chương lý thuyết tiền tệ bị bỏ quên, và nó chứa một đề xuất đã thành hiện thực
 
-Phần lớn người đọc lướt qua các con số về guinea và giá đúc. Nhưng trong đó có ba ý có sức sống lâu dài. Thứ nhất, khi hai kim loại cùng là tiền với tỷ lệ cố định, **kim loại bị định giá thấp sẽ rời khỏi lưu thông**, và giá trị của cả hệ thống do kim loại được định giá cao hơn quyết định (định luật Gresham). Thứ hai, đề xuất chỉ cho bạc làm tiền pháp định ở mức tiền lẻ chính là cấu trúc mà Anh áp dụng khi chính thức chuyển sang bản vị vàng sau chiến tranh Napoléon: vàng là bản vị, bạc là tiền phụ được định giá cao hơn kim loại nó chứa. Thứ ba, đoạn về chủ ngân hàng trả từng đồng sáu penny để câu giờ khi bị rút tiền là một trong những mô tả sớm về **rút tiền ồ ạt** và về việc thiết kế phương tiện thanh toán ảnh hưởng tới độ an toàn của tiền gửi.
+Phần lớn người đọc lướt qua các con số về guinea và giá đúc. Nhưng trong đó có ba ý có sức sống lâu dài. Thứ nhất, khi hai kim loại cùng là tiền với tỷ lệ cố định, **kim loại bị định giá thấp sẽ rời khỏi lưu thông**, và giá trị của cả hệ thống do kim loại được định giá cao hơn quyết định (định luật Gresham).
+
+Thứ hai, đề xuất chỉ cho bạc làm tiền pháp định ở mức tiền lẻ chính là cấu trúc mà Anh áp dụng khi chính thức chuyển sang bản vị vàng sau chiến tranh Napoléon: vàng là bản vị, bạc là tiền phụ được định giá cao hơn kim loại nó chứa. Thứ ba, đoạn về chủ ngân hàng trả từng đồng sáu penny để câu giờ khi bị rút tiền là một trong những mô tả sớm về **rút tiền ồ ạt** và về việc thiết kế phương tiện thanh toán ảnh hưởng tới độ an toàn của tiền gửi.
 
 Chi tiết sự chờ đợi ở sở đúc tiền "như một thứ thuế nhỏ" cũng đáng chú ý: Smith thấy rằng tiền có một **giá trị tiện dụng** vượt trên giá trị kim loại, và chính khoản chênh này là nguồn gốc của thu phát hành tiền. Từ đó tới tiền giấy, nơi giá trị tiện dụng là toàn bộ giá trị, chỉ còn một bước.
 
@@ -594,3 +599,187 @@ Phản ứng của người dân là tìm một thước đo ổn định hơn, 
 Phân tích giá đúc và giá thỏi cũng có bản sao. Khi nhà nước giữ độc quyền sản xuất vàng miếng thương hiệu quốc gia, vàng miếng trở thành một dạng "tiền đúc" có giá trị tiện dụng và giá trị pháp lý vượt trên vàng nguyên liệu cùng hàm lượng, và chênh lệch giữa giá vàng miếng trong nước với giá vàng thế giới có thời điểm lên tới hàng chục phần trăm. Smith đã giải thích cơ chế ấy: chừng nào việc "đúc" bị giới hạn và chậm, phần chênh giữa tiền đúc và kim loại thỏi sẽ tồn tại như một thứ thuế ngầm, và người hưởng là bên nắm quyền đúc.
 
 Bài học chính sách còn dùng được là ví dụ Quảng Châu và London. Thu nhập bình quân của Việt Nam tính theo ngang giá sức mua cao hơn nhiều lần so với tính theo tỷ giá thị trường (khoảng ba đến bốn lần; năm 2024 gần 3,5 lần), vì lao động và dịch vụ trong nước rẻ. Người lái buôn của Smith, tức doanh nghiệp xuất khẩu, chỉ quan tâm đến giá danh nghĩa, và chênh lệch ấy chính là lợi thế giá thành của hàng Việt Nam. Nhưng khi so sánh mức sống, cũng như khi Smith so sánh của cải qua các thời đại, thì phải dùng giá thực. Nhầm hai thước đo này dẫn tới cả bi quan thái quá về mức sống lẫn lạc quan thái quá về sức cạnh tranh.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển I, Chương V trên một trang: sáu nhánh lớn đi theo các mục 1–12 của phần Nội dung chi tiết (của cải là quyền chi phối lao động và vì sao giá vẫn tính bằng tiền, vàng bạc là cái thước tự đổi độ dài, tiền thuê dài hạn với ngũ cốc và bạc, cùng nơi và khác nơi, kim loại bản vị, giá đúc và giá thỏi cùng đề xuất cải cách), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và số liệu then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương V: lao động là giá thực của mọi hàng hoá, tiền chỉ là giá danh nghĩa`"]
+  n1["`Mục 1–2 — Của cải là quyền chi phối lao động, nhưng giá thường tính bằng tiền`"]
+  n0 --- n1
+  n2["`Sau phân công lao động, phần lớn thứ ta dùng do lao động của người khác cung cấp`"]
+  n1 --- n2
+  n3["`Giàu hay nghèo là lượng lao động của người khác mà mình mua hoặc chi phối được`"]
+  n1 --- n3
+  n4["`Giá thực của mọi vật là công sức cực nhọc và phiền muộn (toil and trouble) để có nó`"]
+  n1 --- n4
+  n5["`Lao động là #quot;cái giá đầu tiên#quot;: của cải lúc đầu được mua bằng lao động, không bằng vàng bạc`"]
+  n1 --- n5
+  n6["`Sửa Hobbes: quyền lực trực tiếp duy nhất của của cải là quyền mua lao động và sản phẩm lao động`"]
+  n1 --- n6
+  n7["`Lý do 1: khó so lao động, 1 giờ việc nặng có thể hơn 2 giờ việc nhẹ`"]
+  n1 --- n7
+  n8["`Quy đổi bằng mặc cả và thương lượng ở thị trường, một thứ #quot;công bằng thô thiển#quot;`"]
+  n7 --- n8
+  n9["`Lý do 2: hàng hay đổi lấy hàng, lượng hàng cụ thể còn lượng lao động trừu tượng`"]
+  n1 --- n9
+  n10["`Lý do 3: có tiền rồi, nói thịt giá 3–4 penny một pound tự nhiên hơn 3–4 pound bánh mì`"]
+  n1 --- n10
+  n11["`Mục 3–4 — Vàng bạc là cái thước tự thay đổi độ dài, lao động thì không`"]
+  n0 --- n11
+  n12["`Giá trị vàng bạc tuỳ độ dồi dào của các mỏ đang khai thác`"]
+  n11 --- n12
+  n13["`Thế kỷ XVI, mỏ châu Mỹ làm giá trị vàng bạc ở châu Âu giảm còn khoảng 1/3`"]
+  n11 --- n13
+  n14["`Như bộ chân, sải tay, nắm tay: thước tự đổi kích thước không đo chính xác được vật khác`"]
+  n11 --- n14
+  n15["`Lượng lao động bằng nhau luôn bắt người lao động bỏ cùng phần thoải mái, tự do và hạnh phúc`"]
+  n11 --- n15
+  n16["`Lao động mua được nhiều hay ít hàng là giá trị của hàng thay đổi, không phải của lao động`"]
+  n11 --- n16
+  n17["`Giá thực của lao động là lượng hàng thiết yếu và tiện nghi, giá danh nghĩa là lượng tiền`"]
+  n11 --- n17
+  n18["`Người lao động giàu hay nghèo theo giá thực, không theo giá danh nghĩa`"]
+  n17 --- n18
+  n19["`Mục 5–6 — Tiền thuê dài hạn: ngũ cốc tốt hơn qua các thế kỷ, bạc tốt hơn qua các năm`"]
+  n0 --- n19
+  n20["`Tiền thuê vĩnh viễn ghi bằng một số tiền cố định bị hai lực bào mòn`"]
+  n19 --- n20
+  n21["`Vua chúa hầu như luôn giảm hàm lượng kim loại trong tiền, hiếm khi tăng`"]
+  n20 --- n21
+  n22["`Bạc mất giá từ khi có mỏ châu Mỹ, nhưng Smith nghi ngờ nó vẫn đang tiếp tục`"]
+  n20 --- n22
+  n23["`Luật năm thứ 18 triều Elizabeth: 1/3 tiền thuê đất của các college phải ghi bằng ngũ cốc`"]
+  n19 --- n23
+  n24["`Theo Blackstone, phần ngũ cốc nay đem lại gần gấp đôi 2/3 phần ghi bằng tiền`"]
+  n23 --- n24
+  n25["`Tỷ lệ ngũ cốc so với tiền từ 1/2 lên 2: phần ghi bằng tiền còn khoảng 1/4 giá trị`"]
+  n23 --- n25
+  n26["`Hàm lượng bạc gần như không đổi từ thời Philip và Mary, nên sụt giảm là do bạc mất giá`"]
+  n23 --- n26
+  n27["`Scotland và Pháp đổi hàm lượng tiền nhiều hơn: tiền thuê cổ #quot;hầu như chẳng còn chút giá trị nào#quot;`"]
+  n19 --- n27
+  n28["`Ngũ cốc nuôi người lao động nên qua các thế kỷ mua được lượng lao động gần như nhau`"]
+  n19 --- n28
+  n29["`Không hoàn toàn: mức sống người lao động khác nhau khi xã hội tiến, đứng yên hay lùi`"]
+  n28 --- n29
+  n30["`Giá ngũ cốc có thể từ 25 lên 50 shilling một quarter (8 giạ) chỉ trong một năm`"]
+  n19 --- n30
+  n31["`Tiền công danh nghĩa theo giá trung bình hàng thiết yếu, do giá trị bạc quyết định, ít đổi qua các năm`"]
+  n30 --- n31
+  n32["`Mục 7 — Cùng nơi cùng lúc tiền là thước đo đủ, khác nơi thì không`"]
+  n0 --- n32
+  n33["`Cùng thời gian và địa điểm, giá thực và giá tiền tỷ lệ thuận hoàn toàn`"]
+  n32 --- n33
+  n34["`Nửa ounce bạc ở Quảng Châu mua nhiều lao động và hàng thiết yếu hơn một ounce ở London`"]
+  n32 --- n34
+  n35["`Lái buôn mua 1/2 ounce ở Quảng Châu, bán 1 ounce ở London: lãi 100%, vì anh ta tiêu tiền ở London`"]
+  n34 --- n35
+  n36["`Giá danh nghĩa quyết định vụ mua bán khôn hay dại, nên người ta chú trọng nó là đương nhiên`"]
+  n32 --- n36
+  n37["`So giá trị thực ở thời xa nơi xa, Smith dùng giá ngũ cốc làm xấp xỉ cho giá lao động`"]
+  n32 --- n37
+  n38["`Mục 8–9 — Kim loại bản vị, và kim loại quý nhất quyết định giá trị toàn bộ tiền đúc`"]
+  n0 --- n38
+  n39["`Vàng cho khoản lớn, bạc khoản vừa, đồng khoản nhỏ, nhưng chỉ một kim loại làm thước đo`"]
+  n38 --- n39
+  n40["`La Mã lấy đồng làm thước đo: người mắc nợ giữ #quot;đồng của người khác#quot; (aes alienum)`"]
+  n39 --- n40
+  n41["`Anh: bạc từ thời Saxon, vàng từ Edward III, đồng từ James I, nên giá trị tính bằng bạc`"]
+  n39 --- n41
+  n42["`Chưa có tỷ lệ luật định: chỉ bạc là tiền pháp định, khác biệt bản vị là thật`"]
+  n38 --- n42
+  n43["`Luật định một guinea bằng 21 shilling: khác biệt gần như chỉ còn danh nghĩa`"]
+  n38 --- n43
+  n44["`Luật đổi tỷ lệ (guinea 20 hay 22 shilling): khác biệt lại trở nên hơn là danh nghĩa`"]
+  n38 --- n44
+  n45["`Kim loại dùng để ghi sổ sách và ghi nợ trông như có giá trị ổn định`"]
+  n44 --- n45
+  n46["`12 penny đồng chứa 1/2 pound đồng chưa đáng 7 penny bạc vẫn đổi được 1 shilling`"]
+  n38 --- n46
+  n47["`21 shilling bạc mòn vẹt vẫn ngang guinea đủ cân: cải cách tiền vàng nâng giá trị tiền bạc`"]
+  n38 --- n47
+  n48["`Mục 10–12 — Giá đúc, giá thỏi và đề xuất cải cách tiền`"]
+  n0 --- n48
+  n49["`1 pound vàng chuẩn đúc 44,5 guinea: giá đúc 3 bảng 17 shilling 10,5 penny một ounce`"]
+  n48 --- n49
+  n50["`1 pound bạc chuẩn đúc 62 shilling: giá đúc 5 shilling 2 penny một ounce`"]
+  n48 --- n50
+  n51["`Vàng thỏi trước cải cách thường 4 bảng, sau hiếm khi quá 3 bảng 17 shilling 7 penny`"]
+  n48 --- n51
+  n52["`Bạc thỏi sau cải cách 5 shilling 3 penny đến 5 shilling 5 penny, vẫn trên giá đúc`"]
+  n48 --- n52
+  n53["`Tiền Anh định giá bạc thấp: 1 ounce vàng ròng ≈ 15 ounce bạc, ở châu Âu ≈ 14`"]
+  n52 --- n53
+  n54["`Smith bác Locke: vàng thỏi cũng được xuất mà giá lại dưới giá đúc`"]
+  n52 --- n54
+  n55["`Đúc lại bạc mà giữ tỷ lệ cũ thì có lãi khi nấu chảy tiền bạc đổi lấy vàng`"]
+  n48 --- n55
+  n56["`Đề xuất: định giá bạc cao, chỉ là tiền pháp định cho phần tiền lẻ của một guinea`"]
+  n48 --- n56
+  n57["`Chỉ chủ ngân hàng thiệt: hết câu giờ trả từng đồng sáu penny khi bị rút tiền ồ ạt`"]
+  n56 --- n57
+  n58["`Chờ sở đúc vài tuần, nay vài tháng, như một thuế nhỏ làm tiền vàng đáng hơn vàng thỏi`"]
+  n48 --- n58
+  n59["`Phí đúc tiền nhỏ chặn nấu chảy và xuất khẩu tiền: Pháp thu khoảng 8%, tiền xuất đi tự quay về`"]
+  n48 --- n59
+  n60["`Giá tiền của hàng là lượng vàng bạc ròng nhận được, theo lượng tiền mòn thực sự còn chứa`"]
+  n48 --- n60
+  n61["`6 shilling 8 penny thời Edward I bằng 1 bảng nay: hàm lượng bạc đồng bảng còn 1/3`"]
+  n60 --- n61
+  n62["`Thông điệp xuyên suốt`"]
+  n0 --- n62
+  n63["`Đừng để con số danh nghĩa đánh lừa khi so sánh của cải qua thời gian và giữa các nơi`"]
+  n62 --- n63
+  n64["`Hợp đồng dài hạn nên ghi bằng hàng thiết yếu: người giữ trái quyền danh nghĩa chịu thiệt khi tiền mất giá`"]
+  n62 --- n64
+  n65["`Giảm hàm lượng kim loại trong tiền là cách vua chúa lấy của người hưởng thu nhập cố định`"]
+  n62 --- n65
+  n66["`Smith trượt giữa lao động chi phối được và lao động hao phí, Ricardo và Marx chọn nghĩa thứ hai`"]
+  n62 --- n66
+  n67["`Smith cần thước đo sức mua: tiền thân của chỉ số giá và ngang giá sức mua (PPP)`"]
+  n62 --- n67
+  n68["`Kim loại bị định giá thấp rời lưu thông (định luật Gresham), bạc làm tiền lẻ được Anh áp dụng năm 1816`"]
+  n62 --- n68
+  class n0 root
+  class n1,n11,n19,n32,n38,n48,n62 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n63,n64,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương V. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 53–68.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển I, Chương IV kết thúc bằng việc Smith hứa sẽ tìm ra ba điều: thước đo thật của giá trị trao đổi, các bộ phận cấu thành giá, và nguyên nhân khiến giá thị trường lệch khỏi giá "tự nhiên". Chương V giải quyết điều thứ nhất: nó dựng lên một cái thước (lao động) để từ đây về sau Smith có thể so sánh của cải giữa các thời kỳ và các nước mà không bị đánh lừa bởi biến động của vàng bạc.
+
+Chương VI (các cấu phần của giá) và Chương VII (giá tự nhiên và giá thị trường) giải quyết hai điều còn lại; còn phần lạc đề về giá trị bạc trong Chương XI chính là nơi Smith dùng cái thước "ngũ cốc thay cho lao động" mà chương này chuẩn bị.
+
+## Lưu ý
+
+Bản dịch có nhiều chỗ sai nghĩa trong chương này.
+
+- Câu về mỏ châu Mỹ bị dịch thành "số mỏ vàng, bạc được tìm thấy rất nhiều ở Châu Âu"; nguyên văn là các mỏ dồi dào ở **châu Mỹ** đã làm giá trị vàng bạc **ở châu Âu** giảm **còn** khoảng một phần ba giá trị trước đó, trong thế kỷ XVI.
+- Câu "theo giả thiết của mọi người và chính tôi cũng thấy rõ mà chẳng cần bằng chứng nào" đảo ngược ý Smith: ông viết rằng người ta *thường cho là* bạc vẫn đang tiếp tục mất giá, *dù tôi e rằng không có bằng chứng chắc chắn nào*; đây là điều Smith sẽ bác bỏ trong phần lạc đề về bạc ở Chương XI.
+- Khi giá ngũ cốc nhảy từ 25 lên 50 shilling, bản dịch nói giá lao động tính bằng tiền "tiếp tục tăng như vậy"; nguyên văn là giá lao động tính bằng tiền **vẫn giữ nguyên** suốt các biến động ấy, đó chính là lý do bạc là thước đo năm-qua-năm tốt hơn ngũ cốc.
+- "Một phần tư tạ Anh" là dịch sai đơn vị *quarter*, một đơn vị dung tích ngũ cốc bằng 8 giạ (bushel), khoảng 290 lít, không phải một phần tư tạ.
+- "Toil and trouble which it can save to himself" (công sức mà vật đó *tiết kiệm* cho người có nó) bị dịch thành "tích luỹ cho người ấy"; tương tự "tiền hay hàng tích luỹ sức lao động của chúng ta" phải hiểu là tiền hay hàng *tiết kiệm cho ta* công sức ấy.
+- Câu "sự phân biệt này trở nên ... một cái gì đó có tính danh nghĩa hơn" đảo nghĩa: nguyên văn là khi tỷ lệ vàng/bạc bị luật thay đổi thì sự phân biệt kim loại bản vị **trở nên hơn là danh nghĩa**.
+- Giá đúc vàng bị in sai một chỗ thành "3 bảng 14 shilling 10 penny rưỡi"; đúng là 3 bảng 17 shilling 10,5 penny như dòng ngay trước.
+- "Cấp xuất đồng tiền đúc bằng bạc" là lỗi gõ của "cấm xuất".
+- Một đồng guinea, nếu tiền bạc trở về đủ trọng lượng, sẽ đổi được nhiều **tiền bạc đúc** hơn lượng bạc thỏi nó mua được, chứ không phải "nhiều tiền đồng hơn".
+- Đoạn về các chủ ngân hàng bị đảo nghĩa: luật Smith đề xuất sẽ **ngăn** họ dùng mánh trả bằng đồng sáu penny để câu giờ khi bị rút tiền ồ ạt, chứ không phải giúp họ tránh thiệt hại.
+- "Tiền thuế đất" ở vài chỗ là lỗi gõ của "tiền thuê đất" (rent).
+- Câu về lao động có giá trị bằng nhau bị dịch thành người lao động "làm việc với cường độ lao động và mức độ sảng khoái như nhau"; nguyên văn là anh ta luôn phải **từ bỏ cùng một phần thoải mái, tự do và hạnh phúc** của mình, tức một lập luận về chi phí chủ quan của lao động.
+- Câu "Ở Rome, một người có nhiều tiền được coi là nắm được nhiều đồng của người khác" dịch ngược nghĩa: nguyên văn (*one who owed a great deal of money, was said to have a great deal of other people's copper*) nói về người **mắc nợ** nhiều, theo thành ngữ Latin *aes alienum* ("đồng của người khác" nghĩa là nợ), không phải người giàu.

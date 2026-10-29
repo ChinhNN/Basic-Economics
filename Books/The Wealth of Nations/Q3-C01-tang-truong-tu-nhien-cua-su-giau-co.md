@@ -1,11 +1,16 @@
 # Quyển III, Chương I — Tăng trưởng tự nhiên của sự giàu có (Of the Natural Progress of Opulence)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển III, Chương I. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 360–364.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Đây là chương mở đầu Quyển III, quyển "lịch sử" duy nhất của bộ sách. Nó lấy kết quả của Quyển II, Chương V (nơi Smith xếp hạng các cách dùng vốn theo lượng lao động sản xuất mà chúng nuôi: vốn đặt vào nông nghiệp nuôi nhiều lao động nhất, rồi chế tạo, bán buôn, bán lẻ; trong bán buôn thì buôn bán trong nước hơn buôn bán tiêu dùng với nước ngoài, và buôn bán trung chuyển kém nhất) và biến nó thành một "trật tự tự nhiên" của phát triển: nông nghiệp trước, công nghiệp sau, ngoại thương sau cùng. Ba chương tiếp theo của Quyển III sẽ cho thấy châu Âu đã đi ngược trật tự đó vì thể chế, và Quyển IV sẽ quy trách nhiệm cho hệ thống trọng thương đã hợp thức hoá con đường ngược ấy.
-**Ý chính:** Smith muốn chứng minh rằng nếu không bị thể chế con người cản trở, vốn của một xã hội đang lớn lên sẽ tự chảy theo thứ tự nông nghiệp → công nghiệp chế tạo → ngoại thương, và thành thị chỉ có thể lớn tương ứng với thặng dư của nông thôn xung quanh. Ông chứng minh bằng ba bước: (1) thương mại thành thị – nông thôn là trao đổi cùng có lợi dựa trên phân công lao động, chứ không phải thành thị bóc lột nông thôn; (2) vì sinh kế đi trước tiện nghi, và vì nhà đầu tư thích đồng vốn mình giám sát được, ở gần và an toàn, nên với lợi nhuận ngang nhau vốn ưu tiên đất đai, rồi đến chế tạo, rồi mới đến buôn xa; (3) bằng chứng đối chiếu: Bắc Mỹ thuộc địa, nơi đất rẻ, thợ thủ công có vốn thì đi mua đất chứ không mở xưởng làm hàng bán xa. Chương kết thúc bằng một nghịch lý mở ra cả Quyển III: các nước châu Âu hiện đại lại đi theo trật tự ngược, ngoại thương sinh ra công nghiệp tinh xảo, và cả hai mới kéo nông nghiệp đi lên, do tập quán và thể chế từ thời các chính quyền đầu tiên để lại.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có vài chỗ lệch nghĩa nhỏ. (1) Câu kết chương, Smith viết rằng ngoại thương của một số thành phố châu Âu đã *du nhập* (introduced) toàn bộ các ngành chế tạo tinh xảo, tức các ngành làm hàng bán đi xa, rồi chế tạo và ngoại thương cùng nhau sinh ra những cải tiến chính của nông nghiệp; bản dịch viết thành ngoại thương "mang các mặt hàng tốt đẹp của họ để bán ở các nước khác", làm mất ý then chốt là ngoại thương *đi trước và sinh ra* công nghiệp. (2) Câu về Ai Cập, Trung Hoa, Ấn Độ có lỗi đánh máy "do ngoài nước ngoài thực hiện"; ý gốc là phần lớn hoạt động xuất khẩu của các nước đó do người nước ngoài tiến hành. (3) Đoạn về thợ thủ công Bắc Mỹ bị dịch lủng củng; ý gốc là tiền công cao và đời sống dễ dàng mà xứ đó dành cho thợ thủ công không mua chuộc được người đã thành chủ đồn điền quay lại làm thuê cho người khác thay vì làm cho chính mình.
+Smith muốn chứng minh rằng nếu không bị thể chế con người cản trở, vốn của một xã hội đang lớn lên sẽ tự chảy theo thứ tự nông nghiệp → công nghiệp chế tạo → ngoại thương, và thành thị chỉ có thể lớn tương ứng với thặng dư của nông thôn xung quanh.
+
+Ông chứng minh bằng ba bước:
+
+- Thương mại thành thị – nông thôn là trao đổi cùng có lợi dựa trên phân công lao động, chứ không phải thành thị bóc lột nông thôn.
+- Vì sinh kế đi trước tiện nghi, và vì nhà đầu tư thích đồng vốn mình giám sát được, ở gần và an toàn, nên với lợi nhuận ngang nhau vốn ưu tiên đất đai, rồi đến chế tạo, rồi mới đến buôn xa.
+- Bằng chứng đối chiếu: Bắc Mỹ thuộc địa, nơi đất rẻ, thợ thủ công có vốn thì đi mua đất chứ không mở xưởng làm hàng bán xa.
+
+Chương kết thúc bằng một nghịch lý mở ra cả Quyển III: các nước châu Âu hiện đại lại đi theo trật tự ngược, ngoại thương sinh ra công nghiệp tinh xảo, và cả hai mới kéo nông nghiệp đi lên, do tập quán và thể chế từ thời các chính quyền đầu tiên để lại.
 
 ## Sơ đồ
 
@@ -315,11 +320,15 @@ Nhưng khẳng định logic bên dưới thì vẫn đúng và quan trọng: **
 
 ### Giả định ẩn: lợi nhuận "ngang nhau" chính là chỗ thể chế can thiệp
 
-Toàn bộ lập luận về khuynh hướng của vốn bắt đầu bằng điều kiện "nếu lợi nhuận bằng hoặc gần bằng nhau". Smith không nói ra, nhưng đây là chỗ then chốt nhất: thể chế không cần cấm vốn đi vào đất, nó chỉ cần làm lợi nhuận của vốn đặt vào đất *thấp hơn* là đủ. Chế độ con trưởng thừa kế làm đất hiếm khi được bán, đẩy giá đất lên mức độc quyền, khiến tô không đủ trả lãi tiền mua đất; thuế đánh vào vốn của tá điền làm lợi nhuận của việc cải tạo đất bị đánh thuế; hợp đồng thuê ngắn làm lợi nhuận của cải tạo bị chủ đất chiếm. Tất cả các cơ chế ở Chương II và IV đều vận hành qua kênh này. Đọc Chương I với ý thức đó, ta thấy nó không phải lời ca ngợi nông nghiệp mà là một mô hình về *giá tương đối của các cách dùng vốn*, và thể chế là thứ quyết định giá đó.
+Toàn bộ lập luận về khuynh hướng của vốn bắt đầu bằng điều kiện "nếu lợi nhuận bằng hoặc gần bằng nhau". Smith không nói ra, nhưng đây là chỗ then chốt nhất: thể chế không cần cấm vốn đi vào đất, nó chỉ cần làm lợi nhuận của vốn đặt vào đất *thấp hơn* là đủ.
+
+Chế độ con trưởng thừa kế làm đất hiếm khi được bán, đẩy giá đất lên mức độc quyền, khiến tô không đủ trả lãi tiền mua đất; thuế đánh vào vốn của tá điền làm lợi nhuận của việc cải tạo đất bị đánh thuế; hợp đồng thuê ngắn làm lợi nhuận của cải tạo bị chủ đất chiếm. Tất cả các cơ chế ở Chương II và IV đều vận hành qua kênh này. Đọc Chương I với ý thức đó, ta thấy nó không phải lời ca ngợi nông nghiệp mà là một mô hình về *giá tương đối của các cách dùng vốn*, và thể chế là thứ quyết định giá đó.
 
 ### Ưu ái nông nghiệp của Smith có một phần là cảm tính và một phần là di sản trọng nông
 
-Lý do thứ ba Smith đưa ra cho việc vốn ưa đất (vẻ đẹp đồng quê, đầu óc thảnh thơi, "chức phận nguyên thuỷ") không phải lập luận kinh tế mà là tâm lý học của một quý ông thế kỷ 18. Nó cũng phản ánh ảnh hưởng của phái trọng nông Pháp (Quesnay), những người Smith quen biết và tôn trọng, dù ông sẽ phê phán họ ở Quyển IV, Chương IX vì coi chỉ nông nghiệp là sản xuất. Ở đây Smith dừng lại ở mức mềm hơn: nông nghiệp không phải ngành *duy nhất* sinh ra giá trị, nhưng là ngành *đầu tiên* và nuôi nhiều lao động nhất. Kinh tế học hiện đại không giữ thứ bậc này: lợi suất xã hội của vốn không gắn cố định với ngành, mà phụ thuộc vào năng suất biên trong từng bối cảnh. Ở nhiều nước đang phát triển ngày nay, năng suất lao động trong nông nghiệp thấp hơn nhiều so với công nghiệp, và chính việc *rút* lao động khỏi nông nghiệp mới là nguồn tăng trưởng lớn.
+Lý do thứ ba Smith đưa ra cho việc vốn ưa đất (vẻ đẹp đồng quê, đầu óc thảnh thơi, "chức phận nguyên thuỷ") không phải lập luận kinh tế mà là tâm lý học của một quý ông thế kỷ 18. Nó cũng phản ánh ảnh hưởng của phái trọng nông Pháp (Quesnay), những người Smith quen biết và tôn trọng, dù ông sẽ phê phán họ ở Quyển IV, Chương IX vì coi chỉ nông nghiệp là sản xuất. Ở đây Smith dừng lại ở mức mềm hơn: nông nghiệp không phải ngành *duy nhất* sinh ra giá trị, nhưng là ngành *đầu tiên* và nuôi nhiều lao động nhất.
+
+Kinh tế học hiện đại không giữ thứ bậc này: lợi suất xã hội của vốn không gắn cố định với ngành, mà phụ thuộc vào năng suất biên trong từng bối cảnh. Ở nhiều nước đang phát triển ngày nay, năng suất lao động trong nông nghiệp thấp hơn nhiều so với công nghiệp, và chính việc *rút* lao động khỏi nông nghiệp mới là nguồn tăng trưởng lớn.
 
 ### "Không quan trọng ai làm ngoại thương" đúng về hiệu quả, nhưng bỏ qua câu hỏi về năng lực
 
@@ -329,8 +338,174 @@ Câu nói rằng vốn ngoại hay nội làm xuất khẩu không quan trọng 
 
 Lịch sử Việt Nam sau năm 1986 cho thấy cả hai phần của chương này cùng lúc.
 
-Phần thứ nhất, trật tự "tự nhiên", là điều đã xảy ra trong giai đoạn đầu Đổi Mới. Bước đột phá đầu tiên không ở công nghiệp hay ngoại thương mà ở nông nghiệp: Chỉ thị 100 (1981) về khoán sản phẩm và đặc biệt Nghị quyết 10 của Bộ Chính trị (4/1988, thường gọi là "khoán 10") trả quyền tự chủ sản xuất về hộ nông dân. Chỉ trong vài năm Việt Nam chuyển từ thiếu lương thực sang xuất khẩu gạo (từ năm 1989). Thặng dư lương thực đó đúng là điều kiện cần cho mọi bước sau: nó giữ giá lương thực ở thành thị ổn định, giải phóng lao động khỏi đồng ruộng, và tạo ra cầu nội địa cho hàng tiêu dùng ở nông thôn. Đây là mệnh đề "thành thị chỉ lớn theo thặng dư nông thôn" của Smith, được kiểm chứng bằng chính kinh nghiệm Việt Nam.
+Phần thứ nhất, trật tự "tự nhiên", là điều đã xảy ra trong giai đoạn đầu Đổi Mới. Bước đột phá đầu tiên không ở công nghiệp hay ngoại thương mà ở nông nghiệp: Chỉ thị 100 (1981) về khoán sản phẩm và đặc biệt Nghị quyết 10 của Bộ Chính trị (4/1988, thường gọi là "khoán 10") trả quyền tự chủ sản xuất về hộ nông dân. Chỉ trong vài năm Việt Nam chuyển từ thiếu lương thực sang xuất khẩu gạo (từ năm 1989).
+
+Thặng dư lương thực đó đúng là điều kiện cần cho mọi bước sau: nó giữ giá lương thực ở thành thị ổn định, giải phóng lao động khỏi đồng ruộng, và tạo ra cầu nội địa cho hàng tiêu dùng ở nông thôn. Đây là mệnh đề "thành thị chỉ lớn theo thặng dư nông thôn" của Smith, được kiểm chứng bằng chính kinh nghiệm Việt Nam.
 
 Phần thứ hai, trật tự "đảo ngược", là điều xảy ra từ khoảng giữa thập niên 1990 và nhất là sau khi gia nhập WTO (2007). Tăng trưởng của Việt Nam được kéo bởi chế tạo xuất khẩu, phần lớn do khu vực có vốn đầu tư nước ngoài thực hiện, chứ không phải bởi sự lớn lên tự nhiên của cầu từ nông thôn. Lập luận của Smith rằng "vốn nước ngoài hay vốn trong nước làm xuất khẩu không quan trọng lắm", và rằng khi vốn trong nước khan hiếm thì để vốn ngoại làm còn có lợi, chính là lý lẽ kinh tế đứng sau chính sách thu hút FDI. Và nó đúng ở mức tổng: FDI đã đưa hàng triệu lao động từ nông nghiệp năng suất thấp sang công nghiệp, điều mà vốn trong nước không đủ sức làm.
 
 Nhưng chương này cũng cảnh báo cái giá của con đường ngược, và Smith sẽ nói rõ ở cuối Chương IV: trật tự ngược thì "chậm chạp và thiếu chắc chắn", và vốn thương mại là vốn có thể rời đi. Với Việt Nam, câu hỏi là liệu thặng dư từ khu vực chế tạo xuất khẩu có quay ngược lại thành cải tạo nông nghiệp và thành năng lực của doanh nghiệp trong nước hay không. Khoảng cách năng suất lớn giữa khu vực FDI và khu vực trong nước, cùng với một nền nông nghiệp vẫn chủ yếu là hộ nhỏ, manh mún, cho thấy câu trả lời đến nay mới chỉ là "một phần". Đó là chủ đề mà ba chương tiếp theo, đặc biệt là phần nói về thể chế đất đai, soi rọi trực tiếp hơn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển III, Chương I trên một trang: sáu nhánh lớn, bốn nhánh đầu đi theo các mục 1–7 của phần Nội dung chi tiết (trao đổi thành thị – nông thôn cùng có lợi, sinh kế đi trước tiện nghi và khuynh hướng vốn chọn đất, thị trấn và đối chứng Bắc Mỹ, ngoại thương đến sau và trật tự đảo ngược), nhánh thứ năm theo phần Đánh giá (phê phán chủ nghĩa trọng thương, giới hạn của trật tự tự nhiên, Việt Nam), mỗi nhánh ghi luận điểm, cơ chế, ví dụ và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển III, Chương 1: không bị thể chế cản trở, vốn tự chảy nông nghiệp → chế tạo → ngoại thương, thành thị lớn theo thặng dư nông thôn`"]
+  n1["`Mục 1 — Thương mại thành thị – nông thôn là trao đổi cùng có lợi, không phải thành thị bóc lột nông thôn`"]
+  n0 --- n1
+  n2["`Thương mại lớn nhất của mọi xã hội văn minh: sản phẩm thô đổi lấy hàng chế tạo, trực tiếp hoặc qua tiền`"]
+  n1 --- n2
+  n3["`Thành thị không tự làm ra lương thực, nên toàn bộ của cải và sinh kế của nó nhờ nông thôn`"]
+  n1 --- n3
+  n4["`Smith bác suy luận thành thị lấy của nông thôn: phân công lao động có lợi cho mọi bên`"]
+  n1 --- n4
+  n5["`Dân quê mua hàng chế tạo bằng sản phẩm chứa ít lao động hơn số lao động phải bỏ ra nếu tự làm`"]
+  n4 --- n5
+  n6["`Thành thị là thị trường cho thặng dư nông thôn, càng đông và giàu thì thị trường càng rộng`"]
+  n1 --- n6
+  n7["`Ngũ cốc trồng trong vòng 1 dặm bán cùng giá với ngũ cốc chở từ 20 dặm tới`"]
+  n1 --- n7
+  n8["`Giá đó phải bù chi phí trồng, chi phí chở và lợi nhuận thông thường của người trồng ở xa`"]
+  n7 --- n8
+  n9["`Người trồng gần hưởng thêm khoản tiết kiệm tiền chở: mầm của địa tô theo vị trí (von Thünen 1826)`"]
+  n7 --- n9
+  n10["`Mục 2–3 — Sinh kế đi trước tiện nghi, và với lợi nhuận ngang nhau vốn chọn đất trước`"]
+  n0 --- n10
+  n11["`Phương tiện sinh sống quan trọng hơn tiện nghi và xa xỉ, nên nông nghiệp tất yếu có trước chế tạo`"]
+  n10 --- n11
+  n12["`Thành thị chỉ lớn được khi thặng dư nông thôn tăng: không thêm lương thực dư thì không thêm thợ, người buôn`"]
+  n10 --- n12
+  n13["`Ngoại lệ bề ngoài: thành thị nhập lương thực từ nước xa, gây chênh lệch giàu có giữa thời đại và dân tộc`"]
+  n10 --- n13
+  n14["`Nhu cầu áp đặt trật tự nói chung, còn khuynh hướng tự nhiên của con người thúc đẩy nó ở từng nước`"]
+  n10 --- n14
+  n15["`Giả định then chốt: với lợi nhuận bằng hoặc gần bằng nhau, đa số người có vốn chọn khai phá và cải tạo đất`"]
+  n10 --- n15
+  n16["`Giám sát được: vốn của người cải tạo đất nằm ngay trước mắt`"]
+  n15 --- n16
+  n17["`Ít rủi ro: vốn nhà buôn đối mặt gió to sóng cả và sự ngông cuồng, bất công của người nước lạ`"]
+  n15 --- n17
+  n18["`Lợi ích không tính bằng tiền: vẻ đẹp đồng quê, sự độc lập, cày cấy là chức phận nguyên thuỷ`"]
+  n15 --- n18
+  n19["`Ví dụ: có 1.000 bảng, đất và buôn xa cùng lãi khoảng 10% một năm thì đa số chọn đất`"]
+  n10 --- n19
+  n20["`Mục 4–5 — Nông nghiệp sinh ra thị trấn, và vốn dư đổ vào đất chừng nào đất còn rẻ`"]
+  n0 --- n20
+  n21["`Nông dân cần thợ rèn, thợ mộc, thợ sửa xe bò, thợ xây, thợ thuộc da, thợ đóng giày, thợ may`"]
+  n20 --- n21
+  n22["`Thợ không gắn với đất nhưng ở gần nhau vì cần nhau, thành làng nhỏ hay thị trấn`"]
+  n20 --- n22
+  n23["`Thị trấn là một hội chợ hay thị trường không bao giờ đóng cửa để dân quê đổi sản phẩm thô lấy hàng chế tạo`"]
+  n20 --- n23
+  n24["`Lượng hàng thợ bán cho nông thôn quyết định lượng nguyên liệu và lương thực thợ mua được`"]
+  n20 --- n24
+  n25["`Cầu nông thôn chỉ tăng theo mức khai phá đất, nên thành thị lớn tỷ lệ với mức canh tác vùng quanh`"]
+  n24 --- n25
+  n26["`Bắc Mỹ thuộc địa, đất còn rẻ: thợ có vốn dư mua và khai phá đất, thành chủ đồn điền`"]
+  n20 --- n26
+  n27["`Các thành phố chưa có ngành chế tạo nào làm hàng bán đi xa`"]
+  n26 --- n27
+  n28["`Tiền công cao và đời sống dễ không kéo được chủ đồn điền quay lại làm thuê`"]
+  n26 --- n28
+  n29["`Thợ là đầy tớ của khách hàng, chủ đất độc lập, nuôi gia đình bằng sức mình trên đất mình`"]
+  n26 --- n29
+  n30["`Nước hết đất rẻ: thợ có vốn mở rộng xưởng, bán đi xa, hàng ngày càng tinh xảo`"]
+  n20 --- n30
+  n31["`Thợ rèn lập xưởng rèn đúc sắt, thợ dệt mở rộng sang vải lanh, vải len`"]
+  n30 --- n31
+  n32["`Mục 6–7 — Ngoại thương đến sau cùng, và châu Âu hiện đại đi theo trật tự đảo ngược`"]
+  n0 --- n32
+  n33["`Ngoại thương xuất hiện sau cùng như lối thoát cho thặng dư thô và chế tạo không tiêu thụ hết trong nước`"]
+  n32 --- n33
+  n34["`Xuất khẩu bằng vốn nước ngoài hay vốn trong nước không quan trọng gì lắm`"]
+  n32 --- n34
+  n35["`Khi vốn trong nước chưa đủ khai phá hết đất và chế biến hết sản phẩm thô, để vốn ngoài làm xuất khẩu còn có lợi`"]
+  n34 --- n35
+  n36["`Ai Cập cổ, Trung Hoa, Ấn Độ rất giàu dù phần lớn xuất khẩu do người nước ngoài làm`"]
+  n34 --- n36
+  n37["`Thuộc địa Bắc Mỹ và Tây Ấn sẽ tiến chậm hơn nhiều nếu không có vốn nhà buôn mẫu quốc`"]
+  n34 --- n37
+  n38["`Trật tự tự nhiên: nông nghiệp → chế tạo từ hàng thô đến hàng tinh → ngoại thương`"]
+  n32 --- n38
+  n39["`Trật tự này được tôn trọng ở một chừng mực nhất định ở mọi nước có đất đai`"]
+  n38 --- n39
+  n40["`Nghịch lý: ngoại thương của vài thành phố châu Âu du nhập chế tạo tinh xảo, rồi cả hai sinh cải tiến nông nghiệp`"]
+  n32 --- n40
+  n41["`Nguyên nhân: tập quán và thể chế của các chính quyền đầu tiên sau khi La Mã sụp đổ vẫn tồn tại`"]
+  n40 --- n41
+  n42["`Smith gọi đó là trật tự không tự nhiên và ngược, ba chương sau của Quyển III giải thích`"]
+  n40 --- n42
+  n43["`Đánh giá — Đòn đánh vào chủ nghĩa trọng thương, và giới hạn của trật tự tự nhiên`"]
+  n0 --- n43
+  n44["`Mỗi mệnh đề của chương đảo ngược một tín điều trọng thương`"]
+  n43 --- n44
+  n45["`Ngoại thương bị xếp xuống cuối như van xả thặng dư, không phải nguồn của cải`"]
+  n44 --- n45
+  n46["`Thương nhân và đội tàu quốc gia không phải sức mạnh: ai làm xuất khẩu không quan trọng`"]
+  n44 --- n46
+  n47["`Thành thị sống nhờ nông thôn: ưu ái thành thị bằng cách đè nông thôn là tự huỷ`"]
+  n44 --- n47
+  n48["`Quyển III là thí nghiệm tư duy: Chương I là kịch bản đối chứng, Chương II–IV là lịch sử thật`"]
+  n43 --- n48
+  n49["`Thực nghiệm yếu: Hà Lan thế kỷ 17, Hồng Kông, Singapore, Đông Á đi ngược mà vẫn thành công`"]
+  n43 --- n49
+  n50["`Logic mạnh: trong nền kinh tế đóng, công nghiệp hoá bị ràng buộc bởi thặng dư nông nghiệp (Lewis 1954, Fei–Ranis)`"]
+  n43 --- n50
+  n51["`Thể chế chỉ cần làm lợi nhuận vốn đặt vào đất thấp hơn: con trưởng thừa kế, thuế vốn tá điền, hợp đồng thuê ngắn`"]
+  n43 --- n51
+  n52["`Lý do vẻ đẹp đồng quê là tâm lý quý ông thế kỷ 18 và di sản trọng nông của Quesnay`"]
+  n43 --- n52
+  n53["`Bỏ qua ngoại ứng động của việc tự làm ngoại thương: tranh luận với List (1841) về công nghiệp non trẻ`"]
+  n43 --- n53
+  n54["`Việt Nam đi cả hai nửa của chương`"]
+  n43 --- n54
+  n55["`Khoán 10 (4/1988) trả quyền tự chủ cho hộ nông dân, xuất khẩu gạo từ 1989: trật tự tự nhiên`"]
+  n54 --- n55
+  n56["`Sau WTO 2007, chế tạo xuất khẩu do khu vực FDI kéo tăng trưởng: trật tự đảo ngược`"]
+  n54 --- n56
+  n57["`Khoảng cách năng suất FDI và trong nước, nông nghiệp hộ nhỏ manh mún: thặng dư mới quay lại một phần`"]
+  n54 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Chương là mô hình về giá tương đối của các cách dùng vốn, và thể chế quyết định giá đó`"]
+  n58 --- n59
+  n60["`Thành thị và nông thôn không đối lập: thặng dư nông nghiệp là quỹ lương nuôi dân phi nông nghiệp`"]
+  n58 --- n60
+  n61["`Trật tự ngược ở châu Âu là sản phẩm của thể chế, không phải của tự nhiên`"]
+  n58 --- n61
+  n62["`Phụ thuộc lộ trình: thể chế sống lâu hơn chính quyền đặt ra nó (North, Acemoglu–Johnson–Robinson)`"]
+  n58 --- n62
+  n63["`Mở cửa cho phép nhảy cóc, nhưng cái giá là sự phụ thuộc và tính bấp bênh`"]
+  n58 --- n63
+  class n0 root
+  class n1,n10,n20,n32,n43,n58 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển III, Chương I. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 360–364.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Đây là chương mở đầu Quyển III, quyển "lịch sử" duy nhất của bộ sách. Nó lấy kết quả của Quyển II, Chương V (nơi Smith xếp hạng các cách dùng vốn theo lượng lao động sản xuất mà chúng nuôi: vốn đặt vào nông nghiệp nuôi nhiều lao động nhất, rồi chế tạo, bán buôn, bán lẻ; trong bán buôn thì buôn bán trong nước hơn buôn bán tiêu dùng với nước ngoài, và buôn bán trung chuyển kém nhất) và biến nó thành một "trật tự tự nhiên" của phát triển: nông nghiệp trước, công nghiệp sau, ngoại thương sau cùng.
+
+Ba chương tiếp theo của Quyển III sẽ cho thấy châu Âu đã đi ngược trật tự đó vì thể chế, và Quyển IV sẽ quy trách nhiệm cho hệ thống trọng thương đã hợp thức hoá con đường ngược ấy.
+
+## Lưu ý
+
+Bản dịch có vài chỗ lệch nghĩa nhỏ.
+
+- Câu kết chương, Smith viết rằng ngoại thương của một số thành phố châu Âu đã *du nhập* (introduced) toàn bộ các ngành chế tạo tinh xảo, tức các ngành làm hàng bán đi xa, rồi chế tạo và ngoại thương cùng nhau sinh ra những cải tiến chính của nông nghiệp; bản dịch viết thành ngoại thương "mang các mặt hàng tốt đẹp của họ để bán ở các nước khác", làm mất ý then chốt là ngoại thương *đi trước và sinh ra* công nghiệp.
+- Câu về Ai Cập, Trung Hoa, Ấn Độ có lỗi đánh máy "do ngoài nước ngoài thực hiện"; ý gốc là phần lớn hoạt động xuất khẩu của các nước đó do người nước ngoài tiến hành.
+- Đoạn về thợ thủ công Bắc Mỹ bị dịch lủng củng; ý gốc là tiền công cao và đời sống dễ dàng mà xứ đó dành cho thợ thủ công không mua chuộc được người đã thành chủ đồn điền quay lại làm thuê cho người khác thay vì làm cho chính mình.

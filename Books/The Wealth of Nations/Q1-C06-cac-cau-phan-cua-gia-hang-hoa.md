@@ -1,12 +1,16 @@
 # Quyển I, Chương VI — Các cấu phần của giá hàng hoá (Of the Component Parts of the Price of Commodities)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương VI. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 69–75.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển I, Chương V đã chọn lao động làm thước đo giá trị thực. Chương VI hỏi tiếp: khi đã có tư bản và ruộng đất tư hữu, giá của một hàng hoá chia cho ai? Câu trả lời (tiền lương, lợi nhuận, địa tô) là bộ khung cho toàn bộ phần còn lại của Quyển I: Chương VII định nghĩa giá tự nhiên là tổng ba phần này theo "tỷ suất tự nhiên", rồi Chương VIII, IX, X, XI lần lượt phân tích tiền lương, lợi nhuận, chênh lệch giữa các nghề, và địa tô. Chương này cũng đặt nền cho cách Smith nhìn thu nhập quốc dân: tổng sản phẩm hằng năm chia thành lương, lợi nhuận và địa tô của ba giai cấp.
-**Ý chính:** Smith muốn chứng minh rằng **giá của mọi hàng hoá, và vì vậy tổng sản phẩm hằng năm của một nước, cuối cùng phân giải hết thành ba phần: tiền lương của lao động, lợi nhuận của vốn, và địa tô của đất**. Ông chứng minh theo lối lịch sử: trong xã hội thô sơ chỉ có lao động, nên hàng đổi theo tỷ lệ lao động (một con hải ly tốn công gấp đôi con nai thì đổi được hai con nai). Khi vốn tích luỹ trong tay một số người, phải có thêm phần lợi nhuận, mà lợi nhuận **không phải tiền công giám sát** vì nó tỷ lệ với số vốn chứ không với công sức. Khi đất thành tư hữu, phải có thêm địa tô. Phần "thứ tư" để bù hao mòn công cụ, khi truy ngược, cũng lại phân giải thành ba phần ấy. Từ đó Smith rút ra rằng mọi thu nhập khác (lãi vay, thuế, lương hưu) đều phát sinh từ ba nguồn gốc này, và rằng khi một người giữ nhiều vai, các khoản thu nhập bị gọi lẫn tên nhau.
+## Ý chính
 
-> **Lưu ý:** (1) Đoạn then chốt về lợi nhuận bị dịch ngược nghĩa. Bản dịch viết: "toàn bộ sản phẩm lao động không phải luôn luôn thuộc về người lao động mà lượng lao động làm ra một mặt hàng nào đó là yếu tố duy nhất có thể điều tiết lượng lao động khác mà mặt hàng đó có thể mua". Nguyên văn nói hai điều: toàn bộ sản phẩm lao động không còn luôn thuộc về người lao động, *anh ta phải chia với người chủ vốn thuê mình*; và lượng lao động bỏ ra để làm một hàng hoá *không còn là yếu tố duy nhất* quyết định lượng lao động mà hàng đó mua được, vì phải cộng thêm một lượng cho lợi nhuận. Bản dịch giữ vế "không phải luôn luôn thuộc về người lao động" nhưng bỏ mất vế *anh ta phải chia với người chủ vốn*, và đảo nghĩa mệnh đề thứ hai. (2) "Một cấu phần thứ tư cũng rất cần thiết" phải hiểu là "có thể có người nghĩ rằng cần một phần thứ tư"; Smith nêu ý này ra để bác. (3) Lỗi gõ: "Lao động do giá trị" là "lao động đo giá trị"; "nghề đánh cá song" là "đánh cá sông"; "thu nhập cần một chủ trại" là "thu nhập của một chủ trại"; "tiền thuế đất đai" ở cuối đoạn về thuế là "tiền thuê đất đai". (4) Bản dịch dùng lẫn "tiền lời", "tiền lãi" và "lợi nhuận" cho *profit*, trong khi chính chương này phân biệt *profit* (lợi nhuận của người dùng vốn) với *interest* (tiền lãi của người cho vay). Khi đọc bản dịch, "tiền lãi cho người có vốn bỏ ra" ở đoạn tổng kết phải hiểu là lợi nhuận.
+Smith muốn chứng minh rằng **giá của mọi hàng hoá, và vì vậy tổng sản phẩm hằng năm của một nước, cuối cùng phân giải hết thành ba phần: tiền lương của lao động, lợi nhuận của vốn, và địa tô của đất**.
 
+Ông chứng minh theo lối lịch sử: trong xã hội thô sơ chỉ có lao động, nên hàng đổi theo tỷ lệ lao động (một con hải ly tốn công gấp đôi con nai thì đổi được hai con nai).
+
+Khi vốn tích luỹ trong tay một số người, phải có thêm phần lợi nhuận, mà lợi nhuận **không phải tiền công giám sát** vì nó tỷ lệ với số vốn chứ không với công sức.
+
+Khi đất thành tư hữu, phải có thêm địa tô. Phần "thứ tư" để bù hao mòn công cụ, khi truy ngược, cũng lại phân giải thành ba phần ấy.
+
+Từ đó Smith rút ra rằng mọi thu nhập khác (lãi vay, thuế, lương hưu) đều phát sinh từ ba nguồn gốc này, và rằng khi một người giữ nhiều vai, các khoản thu nhập bị gọi lẫn tên nhau.
 ## Sơ đồ
 
 ### Từ một cấu phần lên ba cấu phần
@@ -381,13 +385,17 @@ Ricardo về sau cho rằng Smith đã bỏ cuộc quá sớm và cố giữ thu
 
 ### Lý thuyết "cộng dồn" bỏ sót một câu hỏi: ai quyết định cái gì?
 
-Cách Smith xây dựng giá là cộng ba phần lại. Nếu lương, lợi nhuận và địa tô đều có "tỷ suất tự nhiên" cho trước thì giá là tổng của chúng. Nhưng lập luận này coi các tỷ suất là nguyên nhân và giá là kết quả, trong khi với địa tô thì quan hệ có thể ngược lại. Ricardo lập luận rằng địa tô là **kết quả** của giá ngũ cốc cao chứ không phải nguyên nhân: giá do chi phí trên mảnh đất kém nhất (không có địa tô) quyết định, và địa tô trên đất tốt chỉ là phần chênh lệch. Chính Smith, ở Chương XI, cũng thừa nhận rằng địa tô đi vào giá theo cách khác với lương và lợi nhuận: lương và lợi nhuận cao hay thấp là nguyên nhân của giá cao hay thấp, còn địa tô cao hay thấp là kết quả của giá. Chương VI, viết trước, chưa phân biệt điều đó, và việc đặt ba phần ngang hàng nhau là một chỗ Smith chưa nhất quán với chính mình.
+Cách Smith xây dựng giá là cộng ba phần lại. Nếu lương, lợi nhuận và địa tô đều có "tỷ suất tự nhiên" cho trước thì giá là tổng của chúng. Nhưng lập luận này coi các tỷ suất là nguyên nhân và giá là kết quả, trong khi với địa tô thì quan hệ có thể ngược lại.
+
+Ricardo lập luận rằng địa tô là **kết quả** của giá ngũ cốc cao chứ không phải nguyên nhân: giá do chi phí trên mảnh đất kém nhất (không có địa tô) quyết định, và địa tô trên đất tốt chỉ là phần chênh lệch. Chính Smith, ở Chương XI, cũng thừa nhận rằng địa tô đi vào giá theo cách khác với lương và lợi nhuận: lương và lợi nhuận cao hay thấp là nguyên nhân của giá cao hay thấp, còn địa tô cao hay thấp là kết quả của giá. Chương VI, viết trước, chưa phân biệt điều đó, và việc đặt ba phần ngang hàng nhau là một chỗ Smith chưa nhất quán với chính mình.
 
 Vấn đề thứ hai là lợi nhuận được giả định tỷ lệ với vốn ở một tỷ suất thông thường, nhưng chương không giải thích tỷ suất ấy từ đâu ra. Câu trả lời nằm ở Chương IX, và cũng không hoàn toàn thoả đáng: Smith quy nó cho mức độ cạnh tranh của vốn, mà không có một lý thuyết về năng suất của vốn.
 
 ### Phép truy ngược "phần thứ tư" đúng với từng hàng hoá nhưng sai khi cộng cho cả nền kinh tế
 
-Smith bác bỏ phần thứ tư (bù hao mòn công cụ) bằng cách truy ngược: giá con ngựa lại là lương, lợi nhuận, địa tô. Với một hàng hoá riêng lẻ và với khung thời gian đủ dài, điều này có lý. Nhưng khi chuyển sang tổng sản phẩm của cả nước trong một năm, nó dẫn tới kết luận rằng toàn bộ giá trị sản lượng là thu nhập của ba giai cấp, tức là bỏ qua phần phải dành ra để **thay thế máy móc, công cụ, súc vật đã hao mòn trong năm**. Marx gọi đây là "giáo điều của Smith" và dành nhiều trang phê phán. Tài khoản quốc gia ngày nay sửa chỗ này bằng cách phân biệt tổng sản phẩm (GDP) với sản phẩm ròng sau khi trừ khấu hao, và phân biệt giá trị sản xuất với giá trị gia tăng. Bản thân Smith ở Quyển II, Chương II, cũng phân biệt thu nhập "gộp" và "ròng" của xã hội, tức là ông tự sửa lại phần nào.
+Smith bác bỏ phần thứ tư (bù hao mòn công cụ) bằng cách truy ngược: giá con ngựa lại là lương, lợi nhuận, địa tô. Với một hàng hoá riêng lẻ và với khung thời gian đủ dài, điều này có lý. Nhưng khi chuyển sang tổng sản phẩm của cả nước trong một năm, nó dẫn tới kết luận rằng toàn bộ giá trị sản lượng là thu nhập của ba giai cấp, tức là bỏ qua phần phải dành ra để **thay thế máy móc, công cụ, súc vật đã hao mòn trong năm**.
+
+Marx gọi đây là "giáo điều của Smith" và dành nhiều trang phê phán. Tài khoản quốc gia ngày nay sửa chỗ này bằng cách phân biệt tổng sản phẩm (GDP) với sản phẩm ròng sau khi trừ khấu hao, và phân biệt giá trị sản xuất với giá trị gia tăng. Bản thân Smith ở Quyển II, Chương II, cũng phân biệt thu nhập "gộp" và "ròng" của xã hội, tức là ông tự sửa lại phần nào.
 
 ### Ví dụ hai xưởng là định nghĩa lợi nhuận tốt nhất trong cả cuốn sách
 
@@ -405,6 +413,175 @@ Bốn trường hợp "gọi lẫn tên" của Smith mô tả gần đúng cấu
 
 Hệ quả chính sách là việc gọi lẫn tên làm sai lệch nhận thức về thu nhập. Khi nói "lợi nhuận trồng lúa chỉ vài triệu đồng một héc-ta một vụ", con số ấy thường đã bao gồm cả công lao động của chính gia đình lẫn phần lợi ích từ quyền sử dụng đất. Nếu tách ra như Smith, tính công gia đình theo giá thuê lao động thị trường và tính địa tô theo giá cho thuê ruộng, phần lợi nhuận thực của vốn có thể rất thấp hoặc âm. Đây là lý do nhiều hộ cho thuê ruộng hoặc bỏ ruộng để đi làm công nhân: họ đang so sánh tiền công ngầm trong nông nghiệp với tiền lương trong nhà máy, đúng phép tính Smith gợi ý.
 
-Phần địa tô có ý nghĩa còn lớn hơn. Ở Việt Nam đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu, nên câu hỏi "ai nhận địa tô" có một câu trả lời đặc biệt. Khi đất nông nghiệp được chuyển sang đất đô thị hay khu công nghiệp, giá trị đất có thể tăng nhiều lần mà không ai "gieo" gì thêm: phần tăng ấy chính là địa tô tạo ra từ sự phát triển chung. Cách phần chênh lệch này được chia giữa người dân bị thu hồi đất, nhà đầu tư dự án và ngân sách là nguồn gốc của phần lớn khiếu kiện đất đai, và cũng là lý do giá nhà ở các đô thị lớn, nơi phần đất chiếm tỷ trọng rất lớn trong giá căn hộ, khó giảm. Đọc theo Smith, tranh luận về khung giá đất và về cơ chế định giá đất sát thị trường chính là tranh luận về việc **ai được gặt phần mà không ai gieo**.
+Phần địa tô có ý nghĩa còn lớn hơn. Ở Việt Nam đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu, nên câu hỏi "ai nhận địa tô" có một câu trả lời đặc biệt. Khi đất nông nghiệp được chuyển sang đất đô thị hay khu công nghiệp, giá trị đất có thể tăng nhiều lần mà không ai "gieo" gì thêm: phần tăng ấy chính là địa tô tạo ra từ sự phát triển chung.
+
+Cách phần chênh lệch này được chia giữa người dân bị thu hồi đất, nhà đầu tư dự án và ngân sách là nguồn gốc của phần lớn khiếu kiện đất đai, và cũng là lý do giá nhà ở các đô thị lớn, nơi phần đất chiếm tỷ trọng rất lớn trong giá căn hộ, khó giảm. Đọc theo Smith, tranh luận về khung giá đất và về cơ chế định giá đất sát thị trường chính là tranh luận về việc **ai được gặt phần mà không ai gieo**.
 
 Cuối cùng, ý vĩ mô cuối chương, tỷ lệ chia thặng dư giữa người lao động sản xuất và người nhàn rỗi quyết định tăng trưởng, gợi một câu hỏi cho mô hình tăng trưởng Việt Nam: phần lớn thặng dư từ đất (tiền sử dụng đất, chênh lệch giá bất động sản) được dùng để đầu tư vào năng lực sản xuất, hay để tiêu dùng và đầu cơ? Smith sẽ trả lời câu hỏi này kỹ hơn ở Quyển II, nhưng khung phân tích đã có ngay trong chương này.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển I, Chương VI trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết và phần Đánh giá (xã hội thô sơ chỉ có lao động, vốn sinh ra lợi nhuận và ví dụ hai xưởng, đất tư hữu sinh ra địa tô, ba cấu phần qua chuỗi sản xuất và các hàng ngoại lệ, từ giá một hàng đến thu nhập cả nước, đánh giá so với Ricardo, Marx và Việt Nam), mỗi nhánh ghi luận điểm, cơ chế, ví dụ và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương VI: giá mọi hàng hoá và tổng sản phẩm hằng năm phân giải hết thành tiền lương, lợi nhuận và địa tô`"]
+  n1["`Mục 1 — Xã hội thô sơ chỉ có lao động`"]
+  n0 --- n1
+  n2["`Trước tích luỹ vốn và chiếm hữu đất, tỷ lệ lao động là quy tắc duy nhất để đổi hàng`"]
+  n1 --- n2
+  n3["`Giết hải ly tốn công gấp đôi giết con nai thì 1 hải ly đổi được 2 con nai`"]
+  n1 --- n3
+  n4["`Lao động nặng nhọc hơn: sản phẩm 1 giờ của nó đổi được sản phẩm 2 giờ lao động khác`"]
+  n1 --- n4
+  n5["`Lao động cần tài khéo học lâu năm có giá cao hơn để đền bù thời gian và công sức học`"]
+  n1 --- n5
+  n6["`Toàn bộ sản phẩm lao động thuộc về người lao động`"]
+  n1 --- n6
+  n7["`Mục 2–3 — Vốn tích luỹ sinh ra lợi nhuận, không phải tiền công giám sát`"]
+  n0 --- n7
+  n8["`Chủ vốn thuê người cần cù, ứng trước vật liệu và đồ sinh sống để kiếm lời khi bán sản phẩm`"]
+  n7 --- n8
+  n9["`Giá trị thợ thêm vào vật liệu chia hai: tiền lương cho thợ, lợi nhuận cho người ứng vốn`"]
+  n7 --- n9
+  n10["`Chủ chỉ thuê người nếu thu về nhiều hơn vốn, chỉ dùng vốn lớn nếu lợi nhuận tỷ lệ với vốn`"]
+  n7 --- n10
+  n11["`Lợi nhuận tỷ lệ với giá trị vốn, không với công sức, độ khó hay tài khéo của việc giám sát`"]
+  n7 --- n11
+  n12["`Ví dụ hai xưởng ở nơi lợi nhuận thông thường 10%/năm`"]
+  n7 --- n12
+  n13["`Mỗi xưởng 20 thợ × 15 bảng/năm = 300 bảng tiền lương`"]
+  n12 --- n13
+  n14["`Xưởng thô: vật liệu 700 bảng, vốn 1.000 bảng, lợi nhuận khoảng 100 bảng`"]
+  n12 --- n14
+  n15["`Xưởng tinh: vật liệu 7.000 bảng, vốn 7.300 bảng, lợi nhuận khoảng 730 bảng`"]
+  n12 --- n15
+  n16["`Công giám sát gần như nhau mà lợi nhuận chênh 7,3 lần, đúng tỷ lệ chênh về vốn`"]
+  n12 --- n16
+  n17["`Đốc công chính được trả theo công việc và lòng tin, không bao giờ tỷ lệ với vốn`"]
+  n7 --- n17
+  n18["`Người chủ gần như được miễn mọi công việc vẫn trông đợi lợi nhuận tỷ lệ với vốn`"]
+  n7 --- n18
+  n19["`Người lao động phải chia sản phẩm với chủ vốn, lao động bỏ ra không còn là yếu tố duy nhất quyết định giá trị trao đổi`"]
+  n7 --- n19
+  n20["`Mục 4 — Đất thành tư hữu sinh ra địa tô`"]
+  n0 --- n20
+  n21["`Địa chủ, cũng như mọi người, #quot;muốn gặt hái những gì mà họ chưa từng gieo trồng#quot;`"]
+  n20 --- n21
+  n22["`Địa chủ đòi địa tô ngay cả với sản vật tự nhiên của đất`"]
+  n20 --- n22
+  n23["`Gỗ trong rừng, cỏ ngoài đồng, quả mọc tự nhiên: trước chỉ tốn công hái, nay phải trả tiền cho chủ đất`"]
+  n20 --- n23
+  n24["`Địa tô là cấu phần thứ ba trong giá của phần lớn hàng hoá`"]
+  n20 --- n24
+  n25["`Giá trị thực của cả ba phần vẫn đo bằng lượng lao động mỗi phần mua được, nối với Chương V`"]
+  n20 --- n25
+  n26["`Mục 5–6 — Ba cấu phần qua chuỗi sản xuất`"]
+  n0 --- n26
+  n27["`Giá ngũ cốc = địa tô + lương (và đồ nuôi súc vật kéo) + lợi nhuận chủ trại`"]
+  n26 --- n27
+  n28["`Không cần #quot;phần thứ tư#quot; bù hao mòn: giá con ngựa kéo cày = địa tô đồng cỏ + công chăn ngựa + lợi nhuận`"]
+  n26 --- n28
+  n29["`Bột mì = giá ngũ cốc + lợi nhuận chủ cối xay + lương thợ xay, bánh mì thêm chủ lò và thợ lò`"]
+  n26 --- n29
+  n30["`Vải lanh thêm lương thợ xe sợi, thợ dệt, thợ chuội vải và lợi nhuận các chủ xưởng`"]
+  n26 --- n30
+  n31["`Càng qua nhiều khâu chế tạo, phần lương và lợi nhuận càng lớn so với phần địa tô`"]
+  n26 --- n31
+  n32["`Vốn khâu dệt gồm vốn và lợi nhuận khâu sợi + lương thợ dệt, nên lợi nhuận khâu sau lớn hơn`"]
+  n26 --- n32
+  n33["`Hàng chỉ có hai hay một cấu phần`"]
+  n26 --- n33
+  n34["`Cá biển: lương ngư dân + lợi nhuận vốn đánh cá, địa tô rất ít khi có`"]
+  n33 --- n34
+  n35["`Cá hồi sông: ở phần lớn châu Âu nghề này phải trả tiền thuê, ngang với lương và lợi nhuận`"]
+  n33 --- n35
+  n36["`Đá cuội Scotland người nghèo nhặt ở bãi biển: giá thợ khắc đá trả toàn là tiền công`"]
+  n33 --- n36
+  n37["`Phần còn lại sau địa tô và giá lao động ắt là lợi nhuận của một người nào đó`"]
+  n33 --- n37
+  n38["`Mục 7–9 — Từ giá một hàng hoá đến thu nhập cả nước`"]
+  n0 --- n38
+  n39["`Tổng giá sản phẩm hằng năm của một nước cũng chia thành lương, lợi nhuận, địa tô cho dân chúng`"]
+  n38 --- n39
+  n40["`#quot;Tiền lương, lợi nhuận và tiền thuê đất là ba nguồn ban đầu của mọi khoản thu cũng như mọi giá trị trao đổi#quot;`"]
+  n38 --- n40
+  n41["`Tiền lãi là phần chia của lợi nhuận: người vay giữ phần đền bù rủi ro và công sức, người cho vay nhận phần tạo cơ hội`"]
+  n38 --- n41
+  n42["`Ngoại lệ duy nhất: kẻ hoang phí vay món nợ thứ hai để trả lãi món nợ thứ nhất`"]
+  n38 --- n42
+  n43["`Thuế, lương, lương hưu, niên kim cuối cùng đều lấy từ một trong ba nguồn ban đầu`"]
+  n38 --- n43
+  n44["`Một người giữ nhiều vai thì các khoản thu bị gọi lẫn tên`"]
+  n38 --- n44
+  n45["`Quý ông tự canh tác, như chủ đồn điền Bắc Mỹ và Tây Ấn, gọi địa tô + lợi nhuận là #quot;lợi nhuận#quot;`"]
+  n44 --- n45
+  n46["`Chủ trại tự cày bừa và thợ thủ công độc lập có đủ vốn gọi cả tiền công là #quot;lợi nhuận#quot;`"]
+  n44 --- n46
+  n47["`Người làm vườn trên đất mình đóng ba vai nhưng gọi tất cả là #quot;tiền công#quot;`"]
+  n44 --- n47
+  n48["`Vì giá chứa lợi nhuận và địa tô, sản phẩm hằng năm mua được nhiều lao động hơn lượng đã làm ra nó`"]
+  n38 --- n48
+  n49["`Không nước nào dùng toàn bộ sản phẩm để thuê lao động, người nhàn rỗi tiêu một phần lớn`"]
+  n38 --- n49
+  n50["`Tỷ lệ chia giữa người lao động và người nhàn rỗi quyết định sản phẩm tăng, giảm hay giữ nguyên, mầm của Quyển II`"]
+  n38 --- n50
+  n51["`Đánh giá — Smith so với Ricardo, Marx và Việt Nam ngày nay`"]
+  n0 --- n51
+  n52["`Hải ly và nai: Smith giới hạn thuyết giá trị lao động vào xã hội chưa có vốn và đất tư hữu`"]
+  n51 --- n52
+  n53["`Bản dịch đảo nghĩa câu #quot;không còn là yếu tố duy nhất#quot;, đẩy người đọc hiểu sai theo chiều phổ biến`"]
+  n51 --- n53
+  n54["`Smith coi giá là tổng khoản trả cho ba yếu tố, gần tân cổ điển hơn Ricardo và Marx`"]
+  n51 --- n54
+  n55["`Ricardo: địa tô là kết quả của giá ngũ cốc cao, không phải nguyên nhân, Smith tự thừa nhận ở Chương XI`"]
+  n51 --- n55
+  n56["`Bỏ #quot;phần thứ tư#quot; khi cộng cả nước là quên khấu hao, Marx gọi là #quot;giáo điều của Smith#quot;`"]
+  n51 --- n56
+  n57["`Ví dụ hai xưởng tách phần thưởng quản lý khỏi phần thưởng sở hữu vốn, gốc của vấn đề người đại diện`"]
+  n51 --- n57
+  n58["`#quot;Gặt nơi chưa từng gieo#quot; là gốc truyền thống Ricardo, Mill, Henry George về tô kinh tế và thuế giá trị đất`"]
+  n51 --- n58
+  n59["`Hộ nông dân sau khoán 10 đóng cả ba vai như người làm vườn của Smith, nên #quot;lợi nhuận trồng lúa#quot; gộp cả công và địa tô`"]
+  n51 --- n59
+  n60["`Giá đất tăng khi chuyển sang đất đô thị là địa tô không ai gieo, nguồn gốc phần lớn khiếu kiện đất đai`"]
+  n51 --- n60
+  n61["`Thông điệp xuyên suốt`"]
+  n0 --- n61
+  n62["`Mọi giá và mọi thu nhập phân giải thành lương, lợi nhuận, địa tô, mỗi phần theo quy luật riêng`"]
+  n61 --- n62
+  n63["`Bộ khung này dẫn tới Chương VII về giá tự nhiên và Chương VIII–XI về từng tỷ suất`"]
+  n61 --- n63
+  class n0 root
+  class n1,n7,n20,n26,n38,n51,n61 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n59,n60,n62,n63 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương VI. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 69–75.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển I, Chương V đã chọn lao động làm thước đo giá trị thực. Chương VI hỏi tiếp: khi đã có tư bản và ruộng đất tư hữu, giá của một hàng hoá chia cho ai?
+
+Câu trả lời (tiền lương, lợi nhuận, địa tô) là bộ khung cho toàn bộ phần còn lại của Quyển I: Chương VII định nghĩa giá tự nhiên là tổng ba phần này theo "tỷ suất tự nhiên", rồi Chương VIII, IX, X, XI lần lượt phân tích tiền lương, lợi nhuận, chênh lệch giữa các nghề, và địa tô.
+
+Chương này cũng đặt nền cho cách Smith nhìn thu nhập quốc dân: tổng sản phẩm hằng năm chia thành lương, lợi nhuận và địa tô của ba giai cấp.
+
+## Lưu ý
+
+- Đoạn then chốt về lợi nhuận bị dịch ngược nghĩa. Bản dịch viết: "toàn bộ sản phẩm lao động không phải luôn luôn thuộc về người lao động mà lượng lao động làm ra một mặt hàng nào đó là yếu tố duy nhất có thể điều tiết lượng lao động khác mà mặt hàng đó có thể mua". Nguyên văn nói hai điều: toàn bộ sản phẩm lao động không còn luôn thuộc về người lao động, *anh ta phải chia với người chủ vốn thuê mình*; và lượng lao động bỏ ra để làm một hàng hoá *không còn là yếu tố duy nhất* quyết định lượng lao động mà hàng đó mua được, vì phải cộng thêm một lượng cho lợi nhuận.
+
+  Bản dịch giữ vế "không phải luôn luôn thuộc về người lao động" nhưng bỏ mất vế *anh ta phải chia với người chủ vốn*, và đảo nghĩa mệnh đề thứ hai.
+- "Một cấu phần thứ tư cũng rất cần thiết" phải hiểu là "có thể có người nghĩ rằng cần một phần thứ tư"; Smith nêu ý này ra để bác.
+- Lỗi gõ: "Lao động do giá trị" là "lao động đo giá trị"; "nghề đánh cá song" là "đánh cá sông"; "thu nhập cần một chủ trại" là "thu nhập của một chủ trại"; "tiền thuế đất đai" ở cuối đoạn về thuế là "tiền thuê đất đai".
+- Bản dịch dùng lẫn "tiền lời", "tiền lãi" và "lợi nhuận" cho *profit*, trong khi chính chương này phân biệt *profit* (lợi nhuận của người dùng vốn) với *interest* (tiền lãi của người cho vay). Khi đọc bản dịch, "tiền lãi cho người có vốn bỏ ra" ở đoạn tổng kết phải hiểu là lợi nhuận.

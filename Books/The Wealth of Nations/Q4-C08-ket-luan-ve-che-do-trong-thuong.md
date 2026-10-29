@@ -1,11 +1,20 @@
 # Quyển IV, Chương VIII — Kết luận về chế độ trọng thương (Conclusion of the Mercantile System)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương VIII. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 587–592.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Đây là chương khép lại bảy chương phê phán hệ thống trọng thương của Quyển IV. Các chương trước đã xét từng công cụ "hai động cơ lớn" của hệ thống: hạn chế nhập khẩu (Chương II, nơi có "bàn tay vô hình" và luận điểm rằng mỗi người tự tìm chỗ dùng vốn có lợi nhất), hoàn thuế và trợ cấp xuất khẩu (Chương IV và V), hiệp ước thương mại như hiệp ước Methuen với Bồ Đào Nha (Chương VI) và hệ thống thuộc địa (Chương VII). Chương VIII bổ sung mảnh còn thiếu, tức các biện pháp **làm ngược** hai động cơ đó đối với nguyên liệu và công cụ sản xuất, rồi rút ra tiên đề quy chuẩn của toàn bộ phê phán: tiêu dùng là mục đích duy nhất của sản xuất. Từ tiên đề này, Chương IX sẽ quay sang phê phán phe đối lập, phái trọng nông, rồi kết thúc bằng "hệ thống tự do tự nhiên".
-**Ý chính:** Smith muốn chứng minh rằng hệ thống trọng thương, kể cả khi nó có vẻ "nghịch" chính nó (cấm xuất khẩu nguyên liệu, trợ cấp nhập khẩu nguyên liệu), vẫn chỉ có một logic: dùng luật pháp để tạo độc quyền cho nhà sản xuất công nghiệp trong nước, và cái giá luôn do người tiêu dùng cùng các nhóm sản xuất khác (người nuôi cừu, thợ thủ công muốn ra nước ngoài) gánh. Ông chứng minh bằng cách liệt kê các đạo luật cụ thể của Anh (trợ cấp nhập khẩu gỗ đóng tàu, chàm, sợi gai, tơ từ thuộc địa; cấm xuất khẩu cừu với hình phạt chặt tay; thuế xuất khẩu than hơn 5 shilling một tấn; phạt 200 bảng vì xuất khẩu công cụ dệt; phạt đến 1.000 bảng và 2 năm tù vì dụ thợ ra nước ngoài), chỉ ra chúng vô hiệu (buôn lậu) và bất công (hy sinh một tầng lớp cho tầng lớp khác), đề xuất phương án thay thế (thuế xuất khẩu lông cừu thay cho lệnh cấm), rồi kết luận bằng tiên đề "tiêu dùng là mục đích duy nhất của sản xuất" và câu hỏi ai là "kiến trúc sư" của hệ thống: giới công thương nghiệp.
+## Ý chính
 
-> **Lưu ý:** (1) Bản dịch ghi thuế "5 đến 10 shilling đánh vào **một tấn** lông cừu xuất khẩu". Trong nguyên bản, Smith viết thuế đánh trên mỗi *tod* lông cừu (một đơn vị cân lông cừu cũ của Anh, khoảng 28 pound, tức chừng 12,7 kg), không phải một tấn. Với đơn vị "tấn", mức thuế trở nên quá nhỏ để có ý nghĩa; với đơn vị *tod*, nó là một mức thuế rất nặng. (2) Câu "Việc xuất khẩu hợp pháp **không đóng thuế**, vì đem lại cho nhà vua một khoản thu..." tự mâu thuẫn. Ý của Smith là việc xuất khẩu hợp pháp **chịu thuế** sẽ đem lại nguồn thu cho nhà vua, nhờ đó tránh được những thứ thuế khác có lẽ nặng nề hơn, và có lợi cho mọi thần dân. (3) "các thuộc địa của chúng ta ở Châu Mỹ và **Tây Âu**" là lỗi dịch "West Indies", phải là **Tây Ấn** (quần đảo Caribe). (4) Chương trong bản dịch này được rút gọn mạnh so với nguyên bản. Phần bị lược quan trọng nhất là đoạn cuối, nơi Smith tính rằng để duy trì độc quyền thương mại thuộc địa, nước Anh đã chi hơn 200 triệu bảng cho hai cuộc chiến gần nhất (chiến tranh Bảy năm và chiến tranh với các thuộc địa Mỹ), toàn bộ do người tiêu dùng trong nước gánh. Bản dịch chỉ giữ một câu khái quát về hệ thống luật thuộc địa. (5) "đồng thau chưa chế biến, tức là hợp kim đúc súng, đúc chuông và **đúc tiền**" là dịch sai *shroff-metal*: đó là đồng thau vụn, phế liệu, không phải kim loại đúc tiền. (6) Câu "hoàn toàn không phải là nhất thiết phải có lông cừu Anh mới làm được hàng len tinh xảo" làm nhẹ ý của Smith. Nguyên bản nói lông cừu Anh không những không cần thiết mà còn **hoàn toàn không thích hợp** (*altogether unfit*) để dệt vải tinh, vốn làm hoàn toàn bằng lông cừu Tây Ban Nha.
+Smith muốn chứng minh rằng hệ thống trọng thương, kể cả khi nó có vẻ "nghịch" chính nó (cấm xuất khẩu nguyên liệu, trợ cấp nhập khẩu nguyên liệu), vẫn chỉ có một logic: dùng luật pháp để tạo độc quyền cho nhà sản xuất công nghiệp trong nước, và cái giá luôn do người tiêu dùng cùng các nhóm sản xuất khác (người nuôi cừu, thợ thủ công muốn ra nước ngoài) gánh.
+
+Ông chứng minh bằng cách liệt kê các đạo luật cụ thể của Anh:
+
+- trợ cấp nhập khẩu gỗ đóng tàu, chàm, sợi gai, tơ từ thuộc địa
+- cấm xuất khẩu cừu với hình phạt chặt tay
+- thuế xuất khẩu than hơn 5 shilling một tấn
+- phạt 200 bảng vì xuất khẩu công cụ dệt
+- phạt đến 1.000 bảng và 2 năm tù vì dụ thợ ra nước ngoài
+
+Ông chỉ ra chúng vô hiệu (buôn lậu) và bất công (hy sinh một tầng lớp cho tầng lớp khác), đề xuất phương án thay thế (thuế xuất khẩu lông cừu thay cho lệnh cấm).
+
+Rồi ông kết luận bằng tiên đề "tiêu dùng là mục đích duy nhất của sản xuất" và câu hỏi ai là "kiến trúc sư" của hệ thống: giới công thương nghiệp.
 
 ## Sơ đồ
 
@@ -158,7 +167,9 @@
 
 **Trợ cấp và miễn thuế (bounty, exemption from duties).** Trợ cấp là khoản tiền nhà nước trả thêm cho người làm một việc mà nhà nước muốn khuyến khích, ở đây là nhập khẩu hoặc xuất khẩu một mặt hàng. Miễn thuế là không thu khoản thuế lẽ ra phải nộp. Ví dụ minh hoạ: nếu nhà nước trả 1 bảng cho mỗi tấn gỗ đóng tàu nhập từ thuộc địa, nhà buôn có thể bán gỗ đó rẻ hơn tối đa 1 bảng một tấn mà vẫn giữ được lãi như cũ. Khái niệm này quan trọng vì Smith chỉ ra rằng tiền trợ cấp lấy từ thuế, tức là do người tiêu dùng trả.
 
-**Lệnh cấm và thuế xuất khẩu.** Hai cách hạn chế một mặt hàng đi ra nước ngoài. Lệnh cấm chặn hẳn việc bán ra ngoài, nên giá trong nước có thể rơi rất sâu so với giá nước ngoài. Thuế xuất khẩu vẫn cho bán, nhưng mỗi đơn vị phải nộp một khoản cho nhà nước, nên giá trong nước chỉ thấp hơn giá nước ngoài khoảng bằng mức thuế cộng chi phí chở hàng. Ví dụ minh hoạ (con số tự đặt): lông cừu bán ở lục địa giá 40 shilling một *tod*, chi phí chở và bảo hiểm 2 shilling. Với thuế 8 shilling, người nuôi cừu bán cho nhà xuất khẩu được khoảng 30 shilling, nên chủ xưởng trong nước chỉ cần trả quanh mức đó, rẻ hơn người mua nước ngoài 10 shilling. Với lệnh cấm, giá trong nước có thể xuống 22 shilling, người nuôi cừu mất thêm 8 shilling mỗi *tod* và nhà nước không thu được đồng nào. Đây là trục của đề xuất chính sách duy nhất trong chương.
+**Lệnh cấm và thuế xuất khẩu.** Hai cách hạn chế một mặt hàng đi ra nước ngoài. Lệnh cấm chặn hẳn việc bán ra ngoài, nên giá trong nước có thể rơi rất sâu so với giá nước ngoài. Thuế xuất khẩu vẫn cho bán, nhưng mỗi đơn vị phải nộp một khoản cho nhà nước, nên giá trong nước chỉ thấp hơn giá nước ngoài khoảng bằng mức thuế cộng chi phí chở hàng.
+
+Ví dụ minh hoạ (con số tự đặt): lông cừu bán ở lục địa giá 40 shilling một *tod*, chi phí chở và bảo hiểm 2 shilling. Với thuế 8 shilling, người nuôi cừu bán cho nhà xuất khẩu được khoảng 30 shilling, nên chủ xưởng trong nước chỉ cần trả quanh mức đó, rẻ hơn người mua nước ngoài 10 shilling. Với lệnh cấm, giá trong nước có thể xuống 22 shilling, người nuôi cừu mất thêm 8 shilling mỗi *tod* và nhà nước không thu được đồng nào. Đây là trục của đề xuất chính sách duy nhất trong chương.
 
 **Buôn lậu như hệ quả của chênh lệch giá.** Khi cùng một món hàng có giá trong nước và giá nước ngoài chênh nhau nhiều, người ta có động cơ chở lén hàng qua biên giới để ăn phần chênh. Chênh lệch càng lớn, lợi nhuận buôn lậu càng cao và hình phạt càng khó răn đe. Ví dụ tiếp theo ví dụ trên: dưới lệnh cấm, mỗi *tod* chở lậu sang lục địa lãi khoảng 16 shilling (40 trừ 22 trừ 2); dưới mức thuế 8 shilling, trốn thuế chỉ lãi 8 shilling, nên ít người liều. Khái niệm này giải thích vì sao Smith nói lệnh cấm vừa bất công vừa vô hiệu.
 
@@ -414,8 +425,167 @@ Nguyên bản kết thúc chương bằng phép tính chi phí của đế chế
 
 Chương này cho ba công cụ phân tích dùng được ngay cho Việt Nam.
 
-**Thứ nhất, hạn chế xuất khẩu nguyên liệu.** Việt Nam đã và đang dùng thuế xuất khẩu cao với khoáng sản thô và một số tài nguyên, và hạn chế xuất khẩu gỗ tròn từ rừng tự nhiên, với lý lẽ giống hệt lý lẽ Smith thuật lại: giữ nguyên liệu để phát triển chế biến trong nước. Smith không bác mục tiêu, nhưng phân tích của ông chỉ ra ba câu hỏi phải trả lời: ai trả chi phí (người khai thác, người trồng, người nuôi bán với giá thấp hơn giá thế giới); chênh lệch giá có lớn đến mức sinh buôn lậu qua biên giới không; và có công cụ nào minh bạch hơn không. Thuế xuất khẩu ở mức vừa phải, như Smith đề nghị, tốt hơn lệnh cấm vì nó có thu và giới hạn động cơ lách. Lệnh cấm xuất khẩu gạo tạm thời, như những lần Việt Nam dừng ký hợp đồng xuất khẩu khi giá lương thực thế giới biến động mạnh, là đúng loại chính sách mà Smith phân tích: ổn định giá cho người tiêu dùng thành thị bằng thu nhập của nông dân.
+**Thứ nhất, hạn chế xuất khẩu nguyên liệu.** Việt Nam đã và đang dùng thuế xuất khẩu cao với khoáng sản thô và một số tài nguyên, và hạn chế xuất khẩu gỗ tròn từ rừng tự nhiên, với lý lẽ giống hệt lý lẽ Smith thuật lại: giữ nguyên liệu để phát triển chế biến trong nước.
+
+Smith không bác mục tiêu, nhưng phân tích của ông chỉ ra ba câu hỏi phải trả lời: ai trả chi phí (người khai thác, người trồng, người nuôi bán với giá thấp hơn giá thế giới); chênh lệch giá có lớn đến mức sinh buôn lậu qua biên giới không; và có công cụ nào minh bạch hơn không. Thuế xuất khẩu ở mức vừa phải, như Smith đề nghị, tốt hơn lệnh cấm vì nó có thu và giới hạn động cơ lách. Lệnh cấm xuất khẩu gạo tạm thời, như những lần Việt Nam dừng ký hợp đồng xuất khẩu khi giá lương thực thế giới biến động mạnh, là đúng loại chính sách mà Smith phân tích: ổn định giá cho người tiêu dùng thành thị bằng thu nhập của nông dân.
 
 **Thứ hai, hiệu ứng ngược trong chuỗi giá trị.** Ngành điều của Việt Nam nhập một khối lượng lớn hạt điều thô từ châu Phi để chế biến xuất khẩu. Đây là chính sách "khuyến khích nhập nguyên liệu" mà Smith mô tả, nhưng thực hiện bằng thị trường thay vì bằng trợ cấp, và nó cho thấy mặt ngược: khi các nước châu Phi muốn giữ hạt điều thô để tự chế biến, họ dùng đúng công cụ thuế và cấm xuất khẩu mà nước Anh dùng với lông cừu. Một nước vừa ở vị trí người mua nguyên liệu vừa ở vị trí người bán nguyên liệu nên đánh giá các chính sách này bằng cùng một thước đo, không phải chỉ khi có lợi cho mình.
 
-**Thứ ba, ai viết đề xuất.** Các biện pháp phòng vệ thương mại (chống bán phá giá, tự vệ) với đường, thép, và các ngành khác thường do hiệp hội ngành đề nghị, với người tiêu dùng và các ngành hạ nguồn dùng sản phẩm đó làm đầu vào là bên chịu chi phí nhưng không có mặt khi đề xuất được soạn. Câu hỏi của Smith, "ai là kiến trúc sư", gợi ý một quy tắc thủ tục đơn giản: mỗi đề xuất bảo hộ nên kèm ước tính phần giá tăng mà người tiêu dùng và các ngành hạ nguồn phải trả, và các nhóm này nên có tiếng nói chính thức trong quá trình xem xét. Với di chuyển lao động, Việt Nam ở phía ngược lại của nước Anh thế kỷ 18: là nước gửi lao động ra nước ngoài, và lập luận của Smith về quyền bán sức lao động ở nơi trả cao nhất ủng hộ việc giảm chi phí và rủi ro cho người lao động đi làm việc ở nước ngoài, thay vì coi họ là nguồn lực cần giữ lại.
+**Thứ ba, ai viết đề xuất.** Các biện pháp phòng vệ thương mại (chống bán phá giá, tự vệ) với đường, thép, và các ngành khác thường do hiệp hội ngành đề nghị, với người tiêu dùng và các ngành hạ nguồn dùng sản phẩm đó làm đầu vào là bên chịu chi phí nhưng không có mặt khi đề xuất được soạn. Câu hỏi của Smith, "ai là kiến trúc sư", gợi ý một quy tắc thủ tục đơn giản: mỗi đề xuất bảo hộ nên kèm ước tính phần giá tăng mà người tiêu dùng và các ngành hạ nguồn phải trả, và các nhóm này nên có tiếng nói chính thức trong quá trình xem xét.
+
+Với di chuyển lao động, Việt Nam ở phía ngược lại của nước Anh thế kỷ 18: là nước gửi lao động ra nước ngoài, và lập luận của Smith về quyền bán sức lao động ở nơi trả cao nhất ủng hộ việc giảm chi phí và rủi ro cho người lao động đi làm việc ở nước ngoài, thay vì coi họ là nguồn lực cần giữ lại.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương VIII trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (đầu vào sản xuất và trợ cấp nhập khẩu nguyên liệu thuộc địa, lông cừu với lệnh cấm và phương án thuế, kim loại, than, công cụ và người thợ, tiên đề tiêu dùng và kiến trúc sư của hệ thống) cùng phần Luận điểm và Đánh giá, mỗi nhánh ghi luận điểm, đạo luật và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển IV, Chương 8: mọi đạo luật trọng thương, kể cả khi đảo ngược, đều tạo độc quyền cho nhà sản xuất và do người tiêu dùng trả`"]
+  n1["`Mục 1–2 — Với nguyên liệu và công cụ, hệ thống làm ngược hai động cơ của chính nó`"]
+  n0 --- n1
+  n2["`Hai động cơ lớn: khuyến khích xuất khẩu, hạn chế nhập khẩu, mục đích cuối là cán cân thương mại thuận lợi`"]
+  n1 --- n2
+  n3["`Với nguyên liệu và công cụ lao động thì làm ngược: hạn chế xuất khẩu, khuyến khích nhập khẩu`"]
+  n1 --- n3
+  n4["`Cấm xuất đầu vào để thợ trong nước làm hàng rẻ hơn: hy sinh ít hàng giá rẻ để xuất nhiều hàng giá trị cao`"]
+  n1 --- n4
+  n5["`Ngoại lệ: không khuyến khích nhập công cụ vì làm công cụ đã thành ngành quan trọng`"]
+  n1 --- n5
+  n6["`Từ thời Edward IV, nước Anh đã cấm nhập bàn chải chải len`"]
+  n5 --- n6
+  n7["`Miễn giảm thuế nhập lông cừu, bông xơ, lanh thô, thuốc nhuộm, da sống, da hải cẩu`"]
+  n1 --- n7
+  n8["`Bảy khoản trợ cấp nhập khẩu gần như chỉ cho hàng thuộc địa: gỗ đóng tàu, chàm, sợi gai, lông cừu, tơ sống, ván thùng`"]
+  n1 --- n8
+  n9["`Cùng nguyên liệu đó nhập từ nước khác bị đánh thuế nặng: ưu đãi thuộc địa, không phải chính sách nguyên liệu rẻ`"]
+  n8 --- n9
+  n10["`Lý lẽ nước Anh không mất một đồng xu nào là sai, vì độc quyền thuộc địa làm méo phân bổ vốn`"]
+  n8 --- n10
+  n11["`Hệ thống không nhất quán về hàng hoá, chỉ nhất quán về ai được lợi: nhà sản xuất công nghiệp trong nước`"]
+  n1 --- n11
+  n12["`Mục 3–4 — Lông cừu: lệnh cấm sai và vô hiệu, thuế xuất khẩu tốt hơn`"]
+  n0 --- n12
+  n13["`Luật năm thứ 8 đời Elizabeth: xuất khẩu cừu sống bị tịch thu tài sản, tù một năm, chặt tay trái giữa phiên chợ`"]
+  n12 --- n13
+  n14["`Lý thuyết cấm: lông cừu Anh tốt nhất, cấm xuất thì Anh độc quyền hàng len thế giới và bán giá cao`"]
+  n12 --- n14
+  n15["`Sai về thực tế: lông cừu Anh hoàn toàn không thích hợp dệt vải tinh, vải tinh làm bằng lông cừu Tây Ban Nha`"]
+  n14 --- n15
+  n16["`Sai về nguyên tắc: hy sinh người nuôi cừu cho nhà sản xuất len là trái công lý và đối xử bình đẳng của nhà vua`"]
+  n14 --- n16
+  n17["`Phương án của Smith: thuế xuất khẩu 5–10 shilling mỗi tod (khoảng 28 pound, chừng 12,7 kg) lông cừu`"]
+  n12 --- n17
+  n18["`Người nuôi cừu thiệt ít hơn: giá lông chỉ thấp hơn giá nước ngoài khoảng bằng mức thuế`"]
+  n17 --- n18
+  n19["`Chủ xưởng len vẫn mua rẻ hơn người nước ngoài ít nhất 5–10 shilling, cộng cước vận chuyển và bảo hiểm`"]
+  n17 --- n19
+  n20["`Nhà vua có khoản thu lớn, tránh được những thứ thuế khác có lẽ nặng nề hơn`"]
+  n17 --- n20
+  n21["`Lệnh cấm vô hiệu: chênh lệch giá trong và ngoài nước quá lớn sinh buôn lậu bất chấp hình phạt`"]
+  n12 --- n21
+  n22["`Xuất khẩu trái phép chỉ lợi cho kẻ buôn lậu, xuất khẩu hợp pháp chịu thuế lợi cho mọi thần dân`"]
+  n21 --- n22
+  n23["`Ví dụ tự đặt: dưới lệnh cấm mỗi tod chở lậu lãi khoảng 16 shilling, dưới thuế 8 shilling trốn thuế chỉ lãi 8`"]
+  n21 --- n23
+  n24["`Mục 5–6 — Kim loại, than, công cụ và người thợ: càng gần công cụ càng hà khắc`"]
+  n0 --- n24
+  n25["`Chì, thiếc được xuất vì Anh có nhiều, sau cho xuất sắt, đồng để khuyến khích khai mỏ`"]
+  n24 --- n25
+  n26["`Hợp kim đúc súng, đúc chuông và đồng thau vụn (shroff-metal) vẫn bị cấm xuất`"]
+  n24 --- n26
+  n27["`Than vừa là nguyên liệu vừa là công cụ: thuế xuất khẩu hơn 5 shilling một tấn (1783), thường vượt giá gốc tại mỏ`"]
+  n24 --- n27
+  n28["`Xuất máy dệt găng và tất: tịch thu, phạt 40 bảng, một nửa cho người tố giác`"]
+  n24 --- n28
+  n29["`Xuất công cụ ngành len, lanh, lụa: tịch thu và phạt 200 bảng`"]
+  n24 --- n29
+  n30["`Người thợ là công cụ sống: dụ thợ ra nước ngoài bị phạt tù`"]
+  n24 --- n30
+  n31["`Thời George I: lần đầu phạt tối đa 100 bảng và 3 tháng tù, lần hai 12 tháng tù`"]
+  n30 --- n31
+  n32["`Thời George II: lần đầu 500 bảng và 12 tháng tù, lần hai 1.000 bảng và 2 năm tù`"]
+  n30 --- n32
+  n33["`Thợ đã ra nước ngoài, được cảnh báo mà không về trong 6 tháng: bị tịch thu tài sản, mất quốc tịch`"]
+  n30 --- n33
+  n34["`Smith: các luật này đi ngược quyền tự do từng được ngợi ca của thần dân, vì quyền lợi phù phiếm của giới công thương`"]
+  n24 --- n34
+  n35["`Động cơ thật: chèn ép xí nghiệp nước ngoài, độc quyền sáng chế và kiến thức, hạn chế số người học nghề`"]
+  n24 --- n35
+  n36["`Mục 7–8 — Tiêu dùng là mục đích duy nhất của sản xuất, và ai là kiến trúc sư`"]
+  n0 --- n36
+  n37["`Lợi ích người sản xuất chỉ đáng quan tâm trong chừng mực cần cho lợi ích người tiêu dùng, hiển nhiên không cần chứng minh`"]
+  n36 --- n37
+  n38["`Hệ thống trọng thương làm ngược: coi sản xuất, không phải tiêu dùng, là mục tiêu cuối cùng`"]
+  n36 --- n38
+  n39["`Bốn bằng chứng người tiêu dùng bị hy sinh`"]
+  n36 --- n39
+  n40["`Hạn chế nhập khẩu: người tiêu dùng trả phần tăng giá do độc quyền`"]
+  n39 --- n40
+  n41["`Trợ cấp xuất khẩu: trả hai lần, nộp thuế để chi trợ cấp rồi trả giá cao hơn trong nước`"]
+  n39 --- n41
+  n42["`Hiệp ước với Bồ Đào Nha: phải mua rượu vang của nước xa, kém hơn hàng của Pháp láng giềng`"]
+  n39 --- n42
+  n43["`Nặng nhất là luật thuộc địa ở Mỹ và Tây Ấn: nguyên bản tính hơn 200 triệu bảng cho hai cuộc chiến`"]
+  n39 --- n43
+  n44["`Kiến trúc sư không phải người tiêu dùng mà là người sản xuất, chủ yếu là giới công thương nghiệp`"]
+  n36 --- n44
+  n45["`Bị hy sinh còn có người nuôi cừu và người thợ thủ công bị cấm ra nước ngoài hành nghề`"]
+  n36 --- n45
+  n46["`Luận điểm cốt lõi và cách đọc hiện đại`"]
+  n0 --- n46
+  n47["`Hệ thống chuyển thu nhập từ người tiêu dùng và nhóm sản xuất yếu sang chủ xưởng, ngụy trang bằng cán cân thương mại`"]
+  n46 --- n47
+  n48["`Tiêu dùng là mục đích duy nhất là tiêu chuẩn giá trị, nền của kinh tế học phúc lợi và phép đo tổn thất do thuế quan`"]
+  n46 --- n48
+  n49["`Thuế thay lệnh cấm có thu, minh bạch, giới hạn buôn lậu: lý do WTO đòi thuế hoá (tariffication)`"]
+  n46 --- n49
+  n50["`Smith chấp nhận một khoản thuế xuất khẩu vừa phải: thực dụng, không phải tự do thương mại tuyệt đối`"]
+  n46 --- n50
+  n51["`Tự do lao động là một quyền, và luật cấm thợ di cư không chặn được công nghệ dệt máy lan sang Mỹ`"]
+  n46 --- n51
+  n52["`Nhóm sản xuất tập trung thắng người tiêu dùng phân tán: hạt giống lý thuyết lựa chọn công cộng`"]
+  n46 --- n52
+  n53["`Với Việt Nam: mỗi đề xuất bảo hộ nên kèm ước tính phần giá tăng người tiêu dùng và ngành hạ nguồn phải trả`"]
+  n46 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Thước đo của chính sách thương mại là phúc lợi người tiêu dùng`"]
+  n54 --- n55
+  n56["`Nếu buộc phải can thiệp, thuế tốt hơn lệnh cấm`"]
+  n54 --- n56
+  n57["`Phải hỏi ai viết luật: nhóm hưởng lợi tập trung, chi phí rải mỏng lên số đông`"]
+  n54 --- n57
+  class n0 root
+  class n1,n12,n24,n36,n46,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương VIII. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 587–592.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Đây là chương khép lại bảy chương phê phán hệ thống trọng thương của Quyển IV. Các chương trước đã xét từng công cụ "hai động cơ lớn" của hệ thống: hạn chế nhập khẩu (Chương II, nơi có "bàn tay vô hình" và luận điểm rằng mỗi người tự tìm chỗ dùng vốn có lợi nhất), hoàn thuế và trợ cấp xuất khẩu (Chương IV và V), hiệp ước thương mại như hiệp ước Methuen với Bồ Đào Nha (Chương VI) và hệ thống thuộc địa (Chương VII).
+
+Chương VIII bổ sung mảnh còn thiếu, tức các biện pháp **làm ngược** hai động cơ đó đối với nguyên liệu và công cụ sản xuất, rồi rút ra tiên đề quy chuẩn của toàn bộ phê phán: tiêu dùng là mục đích duy nhất của sản xuất.
+
+Từ tiên đề này, Chương IX sẽ quay sang phê phán phe đối lập, phái trọng nông, rồi kết thúc bằng "hệ thống tự do tự nhiên".
+
+## Lưu ý
+
+- Bản dịch ghi thuế "5 đến 10 shilling đánh vào **một tấn** lông cừu xuất khẩu". Trong nguyên bản, Smith viết thuế đánh trên mỗi *tod* lông cừu (một đơn vị cân lông cừu cũ của Anh, khoảng 28 pound, tức chừng 12,7 kg), không phải một tấn. Với đơn vị "tấn", mức thuế trở nên quá nhỏ để có ý nghĩa; với đơn vị *tod*, nó là một mức thuế rất nặng.
+- Câu "Việc xuất khẩu hợp pháp **không đóng thuế**, vì đem lại cho nhà vua một khoản thu..." tự mâu thuẫn. Ý của Smith là việc xuất khẩu hợp pháp **chịu thuế** sẽ đem lại nguồn thu cho nhà vua, nhờ đó tránh được những thứ thuế khác có lẽ nặng nề hơn, và có lợi cho mọi thần dân.
+- "các thuộc địa của chúng ta ở Châu Mỹ và **Tây Âu**" là lỗi dịch "West Indies", phải là **Tây Ấn** (quần đảo Caribe).
+- Chương trong bản dịch này được rút gọn mạnh so với nguyên bản. Phần bị lược quan trọng nhất là đoạn cuối, nơi Smith tính rằng để duy trì độc quyền thương mại thuộc địa, nước Anh đã chi hơn 200 triệu bảng cho hai cuộc chiến gần nhất (chiến tranh Bảy năm và chiến tranh với các thuộc địa Mỹ), toàn bộ do người tiêu dùng trong nước gánh. Bản dịch chỉ giữ một câu khái quát về hệ thống luật thuộc địa.
+- "đồng thau chưa chế biến, tức là hợp kim đúc súng, đúc chuông và **đúc tiền**" là dịch sai *shroff-metal*: đó là đồng thau vụn, phế liệu, không phải kim loại đúc tiền.
+- Câu "hoàn toàn không phải là nhất thiết phải có lông cừu Anh mới làm được hàng len tinh xảo" làm nhẹ ý của Smith. Nguyên bản nói lông cừu Anh không những không cần thiết mà còn **hoàn toàn không thích hợp** (*altogether unfit*) để dệt vải tinh, vốn làm hoàn toàn bằng lông cừu Tây Ban Nha.

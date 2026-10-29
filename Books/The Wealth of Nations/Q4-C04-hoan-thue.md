@@ -1,11 +1,20 @@
 # Quyển IV, Chương IV — Hoàn thuế (Of Drawbacks)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương IV. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 473–478.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển IV là cuộc phê phán có hệ thống "hệ thống trọng thương" (mercantile system): sau khi ở Chương I bác bỏ quan niệm của cải là vàng bạc, Smith lần lượt xét từng công cụ mà hệ thống này dùng để "kéo cán cân thương mại về phía mình". Chương II và III xét hai công cụ hạn chế nhập khẩu (thuế cao hoặc cấm nhập hàng có thể sản xuất trong nước; hạn chế đặc biệt với hàng của các nước bị coi là có cán cân bất lợi). Chương IV mở nhóm bốn công cụ khuyến khích xuất khẩu (hoàn thuế, trợ cấp xuất khẩu, hiệp ước thương mại, thuộc địa), và hoàn thuế là công cụ đầu tiên, cũng là công cụ duy nhất Smith gần như tán thành. Nó là mốc so sánh cho Chương V về trợ cấp xuất khẩu: hoàn thuế trả lại cái nhà nước đã lấy, còn trợ cấp cho thêm cái thị trường không trả.
-**Ý chính:** Smith chứng minh rằng hoàn thuế (trả lại cho nhà xuất khẩu toàn bộ hay một phần thuế tiêu thụ nội địa hoặc thuế nhập khẩu đã nộp) là hợp lý vì nó không đẩy thêm vốn vào ngành xuất khẩu mà chỉ ngăn thuế đẩy vốn ra khỏi ngành ấy: nó khôi phục "sự cân bằng tự nhiên" giữa các ngành mà thuế đã làm lệch. Ông kiểm chứng bằng chế độ hoàn thuế của Anh (một nửa "Old Subsidy" với hàng thường, hoàn toàn với thuốc lá, ngoại lệ thù địch với hàng Pháp, chế độ riêng cho rượu vang), rồi đặt ra hai giới hạn: hoàn thuế vô ích khi hàng đi tới một thị trường độc quyền (thuộc địa) vì đằng nào hàng cũng được gửi đi, và chỉ có ích khi hàng thực sự ra nước ngoài chứ không bị lén nhập trở lại, như vụ gian lận hoàn thuế thuốc lá.
+## Ý chính
 
-> **Lưu ý:** Bản dịch đặt tên chương là "Số tiền thuế được giảm" và trong thân chương dùng lẫn lộn "giảm thuế", "miễn giảm thuế", "giảm thuế xuất khẩu". Cả ba đều sai nghĩa kinh tế: *drawback* là **hoàn thuế**, tức trả lại một khoản thuế (thuế tiêu thụ nội địa hoặc thuế nhập khẩu) đã thực nộp khi hàng được xuất đi, không phải giảm thuế xuất khẩu. Bản dịch cũng gọi "Old Subsidy" là "tiền trợ cấp cũ", nhưng *subsidy* ở đây theo nghĩa thế kỷ XVII là một khoản **thuế** Nghị viện cấp cho nhà vua (thuế quan 5% theo bảng giá hải quan), không phải trợ cấp. Ngoài ra: (1) "tiền trợ cấp 1/2 và 2/3" phải là "một phần ba và hai phần ba"; (2) câu về thuốc lá bị cụt ("Để tạo mọi sự dễ dàng cho việc tái xuất thực hiện trong vòng 3 năm kể từ khi nhập."), nghĩa đúng là: để tái xuất phần lớn số thuốc lá, việc cần thiết để giải phóng phần còn thừa, toàn bộ thuế được hoàn nếu tái xuất trong ba năm; (3) "nếu số đường được **sản xuất** trong vòng một năm" phải là "được **tái xuất** trong vòng một năm"; (4) "sản phẩm của nền **nông nghiệp** trong nước" phải là "sản phẩm trong nước" nói chung; (5) "thuế gián thu và **trực thu**" phải là "thuế tiêu thụ nội địa (excise) và thuế quan (customs)"; (6) "tơ lụa đã thêu ren" phải là "hàng lụa đã gia công" (wrought silks); (7) "barin" (238 lít) dùng cho *hogshead*, một loại thùng lớn chứ không phải barrel.
+Smith chứng minh rằng hoàn thuế (trả lại cho nhà xuất khẩu toàn bộ hay một phần thuế tiêu thụ nội địa hoặc thuế nhập khẩu đã nộp) là hợp lý vì nó không đẩy thêm vốn vào ngành xuất khẩu mà chỉ ngăn thuế đẩy vốn ra khỏi ngành ấy: nó khôi phục "sự cân bằng tự nhiên" giữa các ngành mà thuế đã làm lệch.
+
+Ông kiểm chứng bằng chế độ hoàn thuế của Anh:
+
+- một nửa "Old Subsidy" với hàng thường;
+- hoàn toàn với thuốc lá;
+- ngoại lệ thù địch với hàng Pháp;
+- chế độ riêng cho rượu vang.
+
+Rồi đặt ra hai giới hạn:
+
+- hoàn thuế vô ích khi hàng đi tới một thị trường độc quyền (thuộc địa) vì đằng nào hàng cũng được gửi đi;
+- và chỉ có ích khi hàng thực sự ra nước ngoài chứ không bị lén nhập trở lại, như vụ gian lận hoàn thuế thuốc lá.
 
 ## Sơ đồ
 
@@ -337,7 +346,9 @@ Smith chấp nhận ngân sách hụt thu để đổi lấy phân bổ đúng.
 
 Lập luận ủng hộ hoàn thuế có hai giới hạn, và Smith nêu cả hai ở cuối chương.
 
-**Giới hạn thứ nhất: thị trường độc quyền.** Lý lẽ trên chỉ biện minh cho hoàn thuế khi hàng được xuất sang những nước thực sự là nước ngoài và độc lập, không phải sang nơi mà nhà buôn và nhà sản xuất Anh có độc quyền. Lấy ví dụ hoàn thuế cho hàng Châu Âu xuất sang các thuộc địa Bắc Mỹ: khoản hoàn ấy không phải lúc nào cũng làm tăng xuất khẩu. Nhờ độc quyền, nhà buôn Anh đằng nào cũng gửi sang đủ lượng hàng cần thiết, dù không được hoàn đồng nào, vì dân thuộc địa không có nguồn cung nào khác hợp pháp. Khi đó hoàn thuế chỉ là khoản mất thu thuế tiêu thụ và thuế quan, mà không làm thay đổi hay mở rộng thương mại. Smith để lại câu hỏi "khoản hoàn thuế này có phải là một khuyến khích chính đáng cho ngành nghề ở thuộc địa hay không" và hẹn bàn tiếp ở chương về thuộc địa.
+**Giới hạn thứ nhất: thị trường độc quyền.** Lý lẽ trên chỉ biện minh cho hoàn thuế khi hàng được xuất sang những nước thực sự là nước ngoài và độc lập, không phải sang nơi mà nhà buôn và nhà sản xuất Anh có độc quyền. Lấy ví dụ hoàn thuế cho hàng Châu Âu xuất sang các thuộc địa Bắc Mỹ: khoản hoàn ấy không phải lúc nào cũng làm tăng xuất khẩu. Nhờ độc quyền, nhà buôn Anh đằng nào cũng gửi sang đủ lượng hàng cần thiết, dù không được hoàn đồng nào, vì dân thuộc địa không có nguồn cung nào khác hợp pháp.
+
+Khi đó hoàn thuế chỉ là khoản mất thu thuế tiêu thụ và thuế quan, mà không làm thay đổi hay mở rộng thương mại. Smith để lại câu hỏi "khoản hoàn thuế này có phải là một khuyến khích chính đáng cho ngành nghề ở thuộc địa hay không" và hẹn bàn tiếp ở chương về thuộc địa.
 
 **Giới hạn thứ hai: gian lận.** Hoàn thuế chỉ có ích khi hàng thực sự đi ra một nước ngoài và không bị bí mật nhập trở lại vào trong nước. Nếu hàng được khai là xuất đi, nhận tiền hoàn, rồi lén đưa trở về bán trong nước, thì nhà buôn gian lận vừa không nộp thuế vừa được bán hàng cạnh tranh với người ngay thẳng. Smith nói hoàn thuế thuốc lá thường xuyên bị lạm dụng đúng theo cách này, gây ra nhiều gian lận làm hại cả thu thuế quan lẫn những người buôn bán ngay thẳng.
 
@@ -452,8 +463,159 @@ Theo logic của Smith, cả ba công cụ đều đúng về nguyên tắc: ch�
 
 Nhưng hai giới hạn của Smith là hai vấn đề thực tế lớn nhất.
 
-**Giới hạn gian lận.** Câu cuối chương về thuốc lá bị lén nhập trở lại có các bản sao gần như nguyên vẹn ở Việt Nam. Hàng tạm nhập tái xuất bị tuồn vào thị trường trong nước, như thực phẩm đông lạnh trong giai đoạn trước khi quy định được siết lại, là đúng hiện tượng Smith mô tả. Các vụ lập doanh nghiệp để mua bán hoá đơn và chiếm đoạt tiền hoàn thuế VAT là phiên bản hiện đại của "gian lận hoàn thuế làm hại ngân sách và người buôn bán ngay thẳng". Và gần đây, việc hàng nước thứ ba đi qua Việt Nam để đổi xuất xứ nhằm né thuế của một thị trường nhập khẩu lớn là dạng gian lận mà Smith chưa thấy nhưng cùng cấu trúc: lợi dụng một quy tắc biên giới để hưởng một ưu đãi không dành cho mình.
+**Giới hạn gian lận.** Câu cuối chương về thuốc lá bị lén nhập trở lại có các bản sao gần như nguyên vẹn ở Việt Nam. Hàng tạm nhập tái xuất bị tuồn vào thị trường trong nước, như thực phẩm đông lạnh trong giai đoạn trước khi quy định được siết lại, là đúng hiện tượng Smith mô tả.
 
-**Giới hạn chi phí chờ hoàn.** Nhận xét của Smith rằng tiền lãi trên khoản thuế nộp trước đủ để triệt tiêu lợi nhuận buôn chuyển tải rượu vang áp dụng thẳng vào chuyện hoàn thuế VAT chậm, một phàn nàn lặp lại của doanh nghiệp xuất khẩu Việt Nam, đặc biệt với các ngành biên lợi nhuận mỏng như nông sản, gỗ, dệt may. Khi tiền hoàn bị giữ nhiều tháng, hoàn thuế chỉ còn trung tính trên giấy. Trên thực tế nó thành một khoản vay không lãi doanh nghiệp buộc phải cho nhà nước vay, tức một thứ thuế ẩn đánh vào đúng các ngành xuất khẩu. Cách khắc phục theo tinh thần Smith không phải là tăng ưu đãi cho xuất khẩu mà là làm cho hoàn thuế nhanh và tự động hơn, và chuyển trọng tâm kiểm tra sang hậu kiểm dựa trên rủi ro, để cả hai giới hạn được xử lý cùng lúc.
+Các vụ lập doanh nghiệp để mua bán hoá đơn và chiếm đoạt tiền hoàn thuế VAT là phiên bản hiện đại của "gian lận hoàn thuế làm hại ngân sách và người buôn bán ngay thẳng". Và gần đây, việc hàng nước thứ ba đi qua Việt Nam để đổi xuất xứ nhằm né thuế của một thị trường nhập khẩu lớn là dạng gian lận mà Smith chưa thấy nhưng cùng cấu trúc: lợi dụng một quy tắc biên giới để hưởng một ưu đãi không dành cho mình.
+
+**Giới hạn chi phí chờ hoàn.** Nhận xét của Smith rằng tiền lãi trên khoản thuế nộp trước đủ để triệt tiêu lợi nhuận buôn chuyển tải rượu vang áp dụng thẳng vào chuyện hoàn thuế VAT chậm, một phàn nàn lặp lại của doanh nghiệp xuất khẩu Việt Nam, đặc biệt với các ngành biên lợi nhuận mỏng như nông sản, gỗ, dệt may.
+
+Khi tiền hoàn bị giữ nhiều tháng, hoàn thuế chỉ còn trung tính trên giấy. Trên thực tế nó thành một khoản vay không lãi doanh nghiệp buộc phải cho nhà nước vay, tức một thứ thuế ẩn đánh vào đúng các ngành xuất khẩu. Cách khắc phục theo tinh thần Smith không phải là tăng ưu đãi cho xuất khẩu mà là làm cho hoàn thuế nhanh và tự động hơn, và chuyển trọng tâm kiểm tra sang hậu kiểm dựa trên rủi ro, để cả hai giới hạn được xử lý cùng lúc.
 
 Cuối cùng, giới hạn về thị trường độc quyền có một bản sao đáng suy nghĩ: các ưu đãi thuế cho doanh nghiệp đầu tư nước ngoài lớn vốn đằng nào cũng sẽ đến. Việc Việt Nam áp dụng thuế tối thiểu toàn cầu từ năm 2024 thực chất buộc phải trả lời câu hỏi Smith đặt ra: nếu ưu đãi không thay đổi quyết định đầu tư thì nó chỉ chuyển nguồn thu từ ngân sách Việt Nam sang nơi khác. Chuyển ưu đãi từ miễn giảm thuế sang hỗ trợ chi phí thực (đào tạo, hạ tầng, nghiên cứu) là cách đưa chính sách trở lại phép thử tính bổ sung của Smith.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển IV, Chương IV trên một trang: năm nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (lập luận trung tâm về cân bằng tự nhiên, chế độ hoàn thuế của Anh và các ngoại lệ, rượu vang và thuộc địa, lý do đúng và hai giới hạn) cùng phần Đánh giá, mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển IV, Chương IV: hoàn thuế hợp lý vì chỉ trả lại thuế đã thu, không kéo thêm vốn mà khôi phục cân bằng tự nhiên`"]
+  n1["`Mục 1–2 — Hoàn thuế là khuyến khích xuất khẩu hợp lý nhất`"]
+  n0 --- n1
+  n2["`Nhà nước không có quyền ở nước ngoài nên nhà buôn quay sang thỉnh cầu khuyến khích xuất khẩu`"]
+  n1 --- n2
+  n3["`Bốn công cụ khuyến khích xuất khẩu: hoàn thuế (IV), trợ cấp (V), hiệp ước thương mại (VI), thuộc địa (VII)`"]
+  n2 --- n3
+  n4["`Hoàn thuế không bao giờ làm xuất khẩu nhiều hơn mức lẽ ra đã xuất nếu không có thuế`"]
+  n1 --- n4
+  n5["`Thuế đẩy vốn ra khỏi ngành xuất khẩu, hoàn thuế chỉ triệt tiêu lực đẩy đó, không tạo lực kéo`"]
+  n1 --- n5
+  n6["`Hoàn thuế duy trì phân công và phân phối lao động tự nhiên, thứ #quot;trong đa số trường hợp có lợi cần phải duy trì#quot;`"]
+  n1 --- n6
+  n7["`Giả định ngầm: phân bổ vốn của thị trường tự do là chuẩn đúng (bàn tay vô hình, Quyển IV, Chương II)`"]
+  n6 --- n7
+  n8["`Vốn xuất khẩu: có thuế không hoàn thì ít hơn, hoàn đúng bằng thuế thì bằng, trợ cấp vượt thuế thì nhiều hơn`"]
+  n1 --- n8
+  n9["`Ví dụ minh hoạ: thùng bia chịu thuế tiêu thụ 10, hoàn 10 khi rời cảng thì xuất khẩu đúng như khi không thuế`"]
+  n8 --- n9
+  n10["`Mục 3–4 — Chế độ hoàn thuế của Anh và các ngoại lệ`"]
+  n0 --- n10
+  n11["`Old Subsidy là thuế quan khoảng 5% theo bảng giá hải quan, không phải trợ cấp`"]
+  n10 --- n11
+  n12["`Quy tắc chung: mọi nhà buôn được hoàn nửa Old Subsidy khi tái xuất, các thuế đặt sau hoàn toàn bộ`"]
+  n10 --- n12
+  n13["`Thời hạn: người Anh 12 tháng, người nước ngoài 9 tháng, về sau kéo dài tới 3 năm`"]
+  n12 --- n13
+  n14["`Thuốc lá Maryland, Virginia: nhập khoảng 96.000 thùng lớn, tiêu dùng ≤ 14.000, hoàn toàn bộ nếu tái xuất trong 3 năm`"]
+  n10 --- n14
+  n15["`Đường Tây Ấn: tái xuất trong 1 năm hoàn toàn bộ, trong 3 năm hoàn toàn bộ trừ nửa Old Subsidy`"]
+  n10 --- n15
+  n16["`Lụa gia công, vải lanh mịn và batit Pháp, calico in: chỉ gửi kho để tái xuất, không hoàn gì`"]
+  n10 --- n16
+  n17["`Nhà sản xuất Anh sợ hàng bị lấy trộm khỏi kho tuồn ra thị trường trong nước, nên ở đây lợi ích của họ chi phối`"]
+  n16 --- n17
+  n18["`Hàng Pháp bị giữ nửa Old Subsidy cộng thêm 25%: thà mất lời còn hơn làm người chuyên chở cho kẻ thù`"]
+  n10 --- n18
+  n19["`Mục 5–6 — Rượu vang, thuộc địa và rượu Madeira`"]
+  n0 --- n19
+  n20["`Rượu vang được hoàn hơn một nửa thuế nhập vì nhà lập pháp muốn khuyến khích buôn chuyển tải rượu`"]
+  n19 --- n20
+  n21["`Thuế phụ thu, New Subsidy, thuế 1/3 và 2/3, thuế 1692, thuế đúc tiền về rượu: hoàn toàn bộ`"]
+  n20 --- n21
+  n22["`Không hoàn £25 mỗi tấn rượu Pháp và các thuế 1745, 1763, 1778, hoàn toàn bộ phụ thu 5% năm 1779, 1782 và thuế 1780`"]
+  n20 --- n22
+  n23["`Thuế phải nộp tiền mặt ngay khi nhập, tiền lãi trên khoản lớn ấy làm buôn chuyển tải rượu không có lãi`"]
+  n19 --- n23
+  n24["`Ví dụ minh hoạ: nộp trước 1.000, hoàn sau 1 năm, lãi 6% mất 60, lãi chuyến buôn 50 thì lỗ`"]
+  n23 --- n24
+  n25["`Đạo luật 1663 (năm 15 đời Charles II) cho Anh độc quyền cung cấp mọi hàng Châu Âu cho thuộc địa`"]
+  n19 --- n25
+  n26["`Bờ biển dài, quyền lực Anh mỏng, tàu thuộc địa chở hàng không liệt kê tới nam mũi Finisterre: độc quyền khó giữ`"]
+  n25 --- n26
+  n27["`Rượu Châu Âu qua Anh thuế nặng, hoàn không đủ, Madeira không bị coi là hàng Châu Âu nên nhập thẳng được`"]
+  n19 --- n27
+  n28["`Sĩ quan Anh quen rượu Madeira trong chiến tranh bắt đầu năm 1755 rồi mang khẩu vị về mẫu quốc`"]
+  n27 --- n28
+  n29["`1763: hoàn mọi thuế rượu trừ £3 10s mỗi tấn khi tái xuất sang thuộc địa, trừ rượu Pháp, quá muộn để đổi tập quán`"]
+  n27 --- n29
+  n30["`Hàng Châu Âu và Đông Ấn khác tái xuất sang thuộc địa không được hoàn gì, trừ vải trúc bâu trắng và muslin`"]
+  n19 --- n30
+  n31["`Mục 7–8 — Lý do sai, lý do đúng và hai giới hạn`"]
+  n0 --- n31
+  n32["`Lý do ban đầu: cước buôn chuyển tải do người ngoại trả bằng tiền nên được giả định mang vàng bạc về, không có cơ sở`"]
+  n31 --- n32
+  n33["`Buôn chuyển tải không đáng ưu đãi nhưng không nên bị thuế loại trừ, là lối thoát cho vốn không tìm được chỗ dùng`"]
+  n31 --- n33
+  n34["`Thứ bậc dùng vốn: nông nghiệp → chế tạo → nội thương → ngoại thương tiêu dùng → buôn chuyển tải`"]
+  n33 --- n34
+  n35["`Giữ toàn bộ thuế thì hàng ngoại hiếm được tái xuất, hiếm được nhập, phần thuế giữ lại không bao giờ được nộp`"]
+  n31 --- n35
+  n36["`Hoàn toàn bộ mọi thuế cũng biện minh được: thuế tiêu thụ hụt ít, thuế quan hụt nhiều hơn, cân bằng tự nhiên gần hơn`"]
+  n31 --- n36
+  n37["`Giới hạn 1: sang thị trường độc quyền như thuộc địa, nhà buôn đằng nào cũng gửi đủ hàng, hoàn thuế chỉ là mất thu`"]
+  n31 --- n37
+  n38["`Giới hạn 2: hoàn thuế chỉ có ích khi hàng thực sự ra nước ngoài, hoàn thuế thuốc lá bị lạm dụng hại ngân sách và người buôn ngay thẳng`"]
+  n31 --- n38
+  n39["`Hàng đằng nào cũng đi hoặc thực ra không đi thì hoàn thuế chỉ là tiền ngân sách mất đi`"]
+  n31 --- n39
+  n40["`Đánh giá — Smith trong ngôn ngữ hiện đại và với Việt Nam`"]
+  n0 --- n40
+  n41["`Hoàn đúng số thuế đã thu thì trung tính, phần vượt là trợ cấp xuất khẩu bị cấm theo Hiệp định SCM của WTO`"]
+  n40 --- n41
+  n42["`Nguyên tắc nơi đến của VAT: hàng xuất khẩu thuế suất 0% và hoàn thuế đầu vào`"]
+  n40 --- n42
+  n43["`Giới hạn thị trường độc quyền là phép thử tính bổ sung: ưu đãi không đổi hành vi chỉ là chuyển giao`"]
+  n40 --- n43
+  n44["`Madeira là chuyển hướng thương mại và phụ thuộc lộ trình: sửa thuế không kéo khẩu vị quay lại`"]
+  n40 --- n44
+  n45["`Smith bỏ qua chi phí hành chính: hệ thống thu rồi hoàn luôn tốn kém hơn hệ thống không thu`"]
+  n40 --- n45
+  n46["`Việt Nam: miễn thuế nhập nguyên liệu sản xuất hàng xuất khẩu, VAT 0%, kho ngoại quan là hậu duệ của hoàn thuế`"]
+  n40 --- n46
+  n47["`Hoàn VAT chậm thành khoản vay không lãi doanh nghiệp buộc cho nhà nước vay, một thứ thuế ẩn với xuất khẩu`"]
+  n46 --- n47
+  n48["`Hàng tạm nhập tái xuất tuồn vào nội địa, chiếm đoạt hoàn VAT, đổi xuất xứ: bản sao của giới hạn gian lận`"]
+  n46 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Hoàn thuế không khuyến khích xuất khẩu mà xoá sự phân biệt đối xử mà thuế tạo ra chống lại xuất khẩu`"]
+  n49 --- n50
+  n51["`Thuế tiêu thụ nhắm vào tiêu dùng trong nước, giữ thuế với hàng xuất khẩu là đánh thuế nhầm đối tượng`"]
+  n49 --- n51
+  n52["`Smith chống trọng thương nhưng không chống thuế, chấp nhận ngân sách hụt thu để đổi lấy phân bổ đúng`"]
+  n49 --- n52
+  class n0 root
+  class n1,n10,n19,n31,n40,n49 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương IV. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 473–478.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển IV là cuộc phê phán có hệ thống "hệ thống trọng thương" (mercantile system): sau khi ở Chương I bác bỏ quan niệm của cải là vàng bạc, Smith lần lượt xét từng công cụ mà hệ thống này dùng để "kéo cán cân thương mại về phía mình". Chương II và III xét hai công cụ hạn chế nhập khẩu (thuế cao hoặc cấm nhập hàng có thể sản xuất trong nước; hạn chế đặc biệt với hàng của các nước bị coi là có cán cân bất lợi).
+
+Chương IV mở nhóm bốn công cụ khuyến khích xuất khẩu (hoàn thuế, trợ cấp xuất khẩu, hiệp ước thương mại, thuộc địa), và hoàn thuế là công cụ đầu tiên, cũng là công cụ duy nhất Smith gần như tán thành. Nó là mốc so sánh cho Chương V về trợ cấp xuất khẩu: hoàn thuế trả lại cái nhà nước đã lấy, còn trợ cấp cho thêm cái thị trường không trả.
+
+## Lưu ý
+
+- Bản dịch đặt tên chương là "Số tiền thuế được giảm" và trong thân chương dùng lẫn lộn "giảm thuế", "miễn giảm thuế", "giảm thuế xuất khẩu". Cả ba đều sai nghĩa kinh tế: *drawback* là **hoàn thuế**, tức trả lại một khoản thuế (thuế tiêu thụ nội địa hoặc thuế nhập khẩu) đã thực nộp khi hàng được xuất đi, không phải giảm thuế xuất khẩu.
+- Bản dịch cũng gọi "Old Subsidy" là "tiền trợ cấp cũ", nhưng *subsidy* ở đây theo nghĩa thế kỷ XVII là một khoản **thuế** Nghị viện cấp cho nhà vua (thuế quan 5% theo bảng giá hải quan), không phải trợ cấp.
+- Ngoài ra:
+  - "tiền trợ cấp 1/2 và 2/3" phải là "một phần ba và hai phần ba"
+  - câu về thuốc lá bị cụt ("Để tạo mọi sự dễ dàng cho việc tái xuất thực hiện trong vòng 3 năm kể từ khi nhập."), nghĩa đúng là: để tái xuất phần lớn số thuốc lá, việc cần thiết để giải phóng phần còn thừa, toàn bộ thuế được hoàn nếu tái xuất trong ba năm
+  - "nếu số đường được **sản xuất** trong vòng một năm" phải là "được **tái xuất** trong vòng một năm"
+  - "sản phẩm của nền **nông nghiệp** trong nước" phải là "sản phẩm trong nước" nói chung
+  - "thuế gián thu và **trực thu**" phải là "thuế tiêu thụ nội địa (excise) và thuế quan (customs)"
+  - "tơ lụa đã thêu ren" phải là "hàng lụa đã gia công" (wrought silks)
+  - "barin" (238 lít) dùng cho *hogshead*, một loại thùng lớn chứ không phải barrel.

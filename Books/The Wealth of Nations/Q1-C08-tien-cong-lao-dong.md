@@ -1,13 +1,18 @@
 # Quyển I, Chương VIII — Tiền công lao động (Of the Wages of Labour)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương VIII. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 85–105.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Ở Quyển I, Chương VI, Smith đã tách giá cả hàng hoá thành ba phần: tiền công, lợi nhuận và địa tô. Ở Chương VII, ông nói mỗi phần có một "tỷ suất tự nhiên" (natural rate) và giá thị trường luôn bị kéo về giá tự nhiên. Chương VIII là chương đầu tiên trong bộ ba (VIII tiền công, IX lợi nhuận, X–XI chênh lệch giữa các nghề và địa tô) giải thích các tỷ suất tự nhiên đó do đâu mà có và vì sao chúng thay đổi. Chương này cũng nối lại với Chương I: tiến bộ của phân công lao động, nhờ vốn tích luỹ, là thứ cuối cùng bù đắp cho tiền công cao; và nó chuẩn bị cho Quyển II, nơi tích luỹ vốn được phân tích như động cơ của tăng trưởng.
-**Ý chính:** Smith muốn chứng minh rằng tiền công không do lòng tốt của chủ hay do luật pháp quyết định, mà do **cầu về lao động**, và cầu này chỉ tăng khi **quỹ dùng để trả công** (thu nhập và vốn dư thừa của xã hội) tăng. Hệ quả then chốt: tiền công cao không phải là dấu hiệu của một nước *giàu*, mà của một nước *đang giàu lên*. Ông chứng minh bằng so sánh ba trạng thái: Bắc Mỹ đang tiến (tiền công cao dù nghèo hơn Anh), Trung Hoa đứng yên (giàu nhưng tiền công ở mức tối thiểu), Bengal đang suy (người chết đói hàng loạt). Rồi ông dùng bốn "triệu chứng" thực nghiệm để chứng minh tiền công ở Anh đã vượt mức tối thiểu, bác bỏ quan điểm phổ biến rằng tiền công cao làm người lao động lười biếng, và kết luận rằng trả công hậu vừa là kết quả vừa là động lực của thịnh vượng.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có một số lỗi làm sai nghĩa hoặc vỡ câu. (1) Đoạn mở đầu về hàng hoá rẻ đi bị lặp câu ("và vì những hàng hoá được làm ra với lượng lao động ít hơn" xuất hiện hai lần), ý gốc là: hàng làm ra bằng lượng lao động bằng nhau sẽ đổi cho nhau, nên mọi thứ đều mua được bằng sản phẩm của ít lao động hơn. (2) Thợ mộc đóng tàu ở New York được thêm "số chrome trị giá 6 penny": gốc là "một panh rượu rum" (*a pint of rum*), đây là lỗi trích xuất hoặc dịch. (3) "Tiền Mỹ" là tiền thuộc địa New York (*currency*), khác đồng bảng Anh (*sterling*). (4) Bengal: bản dịch viết "hàng năm ba tới bốn trăm nghìn người phải chịu chết đói", gốc là ba–bốn trăm nghìn người chết đói *trong một năm* (nạn đói Bengal 1770), không phải mỗi năm. (5) Câu "điều đó không thể không làm giảm sút lương của họ" (về năm đói kém), gốc là làm giảm *sản phẩm lao động* của họ, không phải lương. (6) "Chủ trại mong kiếm được nhiều lợi nhuận ... bằng cách thuê thêm ít nhân công hơn": gốc là thuê thêm *một ít* nhân công (dùng lúa nuôi thêm người làm thay vì bán rẻ). (7) "Mỹ bãi bỏ đạo luật về in dấu hiệu đặc biệt trên nhãn hàng" là Đạo luật Tem thuế (*Stamp Act*) áp lên các thuộc địa Mỹ, được Quốc hội Anh bãi bỏ năm 1766. (8) Câu về thợ độc lập ("dù học làm việc nhiều hay ít") bị vỡ: gốc nói thợ độc lập còn hơn hẳn những người làm thuê theo tháng, theo năm, vốn nhận tiền công và tiền ăn như nhau dù họ làm nhiều hay ít. (9) Tên riêng bị sai chính tả: Cantilion (Cantillon), Mareo Polo (Marco Polo), Bengai (Bengal), Giasgow (Glasgow), Eleuf (Elbeuf), Ramuzzini (Ramazzini), "ngành sản xuất lạnh" (lanh). (10) "Người hưởng trợ cấp hàng năm" là người sống bằng niên kim (*annuitant*), không phải người nhận trợ cấp xã hội. (11) Câu về Trung Hoa "sinh con ... để cho chúng tự do chết dần chết mòn" làm mờ ý gốc: hôn nhân được khuyến khích không phải vì con cái sinh lợi mà vì người ta được tự do bỏ con (tục bỏ trẻ sơ sinh ở các thành phố lớn). (12) "Các thứ đồ dùng có men" trong danh sách hàng đắt lên vì thuế là rượu bia lên men (*fermented liquors*), không phải đồ gốm tráng men. (13) Về tử vong trẻ em ở Cao nguyên Scotland, bản dịch viết một nửa số trẻ "chết trước khi chúng lên 3"; gốc là trước 4 tuổi (*before they are four years of age*).
+Smith muốn chứng minh rằng tiền công không do lòng tốt của chủ hay do luật pháp quyết định, mà do **cầu về lao động**, và cầu này chỉ tăng khi **quỹ dùng để trả công** (thu nhập và vốn dư thừa của xã hội) tăng.
 
-Đơn vị tiền Anh dùng trong file: 1 bảng (pound) = 20 shilling; 1 shilling = 12 penny. Vậy 1 bảng = 240 penny.
+Hệ quả then chốt: tiền công cao không phải là dấu hiệu của một nước *giàu*, mà của một nước *đang giàu lên*.
+
+Ông chứng minh bằng so sánh ba trạng thái:
+
+- Bắc Mỹ đang tiến (tiền công cao dù nghèo hơn Anh)
+- Trung Hoa đứng yên (giàu nhưng tiền công ở mức tối thiểu)
+- Bengal đang suy (người chết đói hàng loạt)
+
+Rồi ông dùng bốn "triệu chứng" thực nghiệm để chứng minh tiền công ở Anh đã vượt mức tối thiểu, bác bỏ quan điểm phổ biến rằng tiền công cao làm người lao động lười biếng, và kết luận rằng trả công hậu vừa là kết quả vừa là động lực của thịnh vượng.
 
 ## Sơ đồ
 
@@ -401,7 +406,9 @@ Từ đó Smith kết luận: cầu lao động tăng theo thu nhập và vốn 
 
 Tất cả các mức này đều cao hơn London (nơi lao động thường được khoảng 18 penny, tức 1 shilling 6 penny một ngày), và các thuộc địa khác được cho là tương tự New York. Hơn nữa, giá lương thực ở Bắc Mỹ thấp hơn ở Anh và ở đó chưa bao giờ biết đến nạn đói. Vì vậy tiền công **thực** ở Bắc Mỹ còn cao hơn tiền công danh nghĩa nhiều.
 
-Dấu hiệu quyết định của thịnh vượng ở một nước là dân số tăng. Ở Anh và phần lớn các nước châu Âu, dân số được cho là gấp đôi sau khoảng 500 năm. Ở các thuộc địa Anh tại Bắc Mỹ, dân số gấp đôi trong 20–25 năm, và chủ yếu do sinh sản tự nhiên chứ không do người nhập cư. Người cao tuổi ở đó thường có 50–100 con cháu, đôi khi nhiều hơn. Lao động được trả hậu đến mức con đông là nguồn của cải chứ không phải gánh nặng: lao động của mỗi đứa con trước khi rời nhà cha mẹ được tính là đem lại cho cha mẹ một khoản **lãi ròng 100 bảng**. Một goá phụ trẻ có 4–5 con nhỏ, ở tầng lớp trung lưu hay hạ lưu châu Âu sẽ khó tái giá, thì ở Bắc Mỹ lại được nhiều người tranh nhau hỏi cưới như một gia tài. Người Bắc Mỹ lấy vợ lấy chồng rất sớm, vậy mà vẫn than thiếu nhân công. Lý do: cầu lao động và quỹ trả công tăng còn nhanh hơn khả năng tìm được người để thuê.
+Dấu hiệu quyết định của thịnh vượng ở một nước là dân số tăng. Ở Anh và phần lớn các nước châu Âu, dân số được cho là gấp đôi sau khoảng 500 năm. Ở các thuộc địa Anh tại Bắc Mỹ, dân số gấp đôi trong 20–25 năm, và chủ yếu do sinh sản tự nhiên chứ không do người nhập cư. Người cao tuổi ở đó thường có 50–100 con cháu, đôi khi nhiều hơn.
+
+Lao động được trả hậu đến mức con đông là nguồn của cải chứ không phải gánh nặng: lao động của mỗi đứa con trước khi rời nhà cha mẹ được tính là đem lại cho cha mẹ một khoản **lãi ròng 100 bảng**. Một goá phụ trẻ có 4–5 con nhỏ, ở tầng lớp trung lưu hay hạ lưu châu Âu sẽ khó tái giá, thì ở Bắc Mỹ lại được nhiều người tranh nhau hỏi cưới như một gia tài. Người Bắc Mỹ lấy vợ lấy chồng rất sớm, vậy mà vẫn than thiếu nhân công. Lý do: cầu lao động và quỹ trả công tăng còn nhanh hơn khả năng tìm được người để thuê.
 
 **Trung Hoa: trạng thái đứng yên.** Một nước dù rất giàu, nếu đứng yên lâu ngày, thì không thể có tiền công cao. Lập luận như sau: nếu quỹ trả công giữ nguyên qua nhiều thế kỷ, số lao động cần thuê mỗi năm dễ dàng có đủ, thậm chí dư. Người cần việc nhiều hơn việc cần người, họ phải cạnh tranh nhau để có việc, và tiền công nhanh chóng tụt xuống mức thấp nhất phù hợp với nhân tính thông thường.
 
@@ -440,7 +447,9 @@ Tóm tắt ba trạng thái:
 
 Smith nói không cần tính chính xác mức tối thiểu là bao nhiêu. Chỉ cần chỉ ra rằng có nhiều triệu chứng cho thấy tiền công ở Anh, ở mọi nơi, đều cao hơn mức đó, tức là không do mức sống tối thiểu quyết định. Ông nêu bốn triệu chứng.
 
-**Thứ nhất: công mùa hè cao hơn công mùa đông.** Khắp nước Anh, kể cả với loại lao động thấp nhất, tiền công mùa hè cao hơn mùa đông. Thế nhưng mùa đông nuôi một gia đình lại tốn hơn, vì phải mua củi, than để sưởi. Tiền công cao nhất đúng vào lúc chi tiêu thấp nhất, nên nó không được điều tiết bởi nhu cầu chi tiêu, mà bởi lượng và giá trị của công việc. Người ta có thể nói người lao động nên để dành một phần công mùa hè để chi cho mùa đông, và tính cả năm thì tiền công không vượt mức cần thiết. Nhưng Smith đáp: một nô lệ, hay một người phải sống phụ thuộc từng ngày, không được đối xử như vậy; việc người lao động tự để dành được đã cho thấy tiền công của họ vượt mức tối thiểu.
+**Thứ nhất: công mùa hè cao hơn công mùa đông.** Khắp nước Anh, kể cả với loại lao động thấp nhất, tiền công mùa hè cao hơn mùa đông. Thế nhưng mùa đông nuôi một gia đình lại tốn hơn, vì phải mua củi, than để sưởi. Tiền công cao nhất đúng vào lúc chi tiêu thấp nhất, nên nó không được điều tiết bởi nhu cầu chi tiêu, mà bởi lượng và giá trị của công việc.
+
+Người ta có thể nói người lao động nên để dành một phần công mùa hè để chi cho mùa đông, và tính cả năm thì tiền công không vượt mức cần thiết. Nhưng Smith đáp: một nô lệ, hay một người phải sống phụ thuộc từng ngày, không được đối xử như vậy; việc người lao động tự để dành được đã cho thấy tiền công của họ vượt mức tối thiểu.
 
 **Thứ hai: tiền công không dao động theo giá lương thực.** Giá lương thực thay đổi từng năm, thậm chí từng tháng, nhưng ở nhiều nơi tiền công bằng tiền giữ nguyên suốt nửa thế kỷ. Nếu ở những nơi ấy người nghèo vẫn nuôi được gia đình trong năm đắt đỏ, thì họ hẳn phải sống khá dư dả trong năm rẻ, và đã để dành được. Giá lương thực cao trong 10 năm qua không làm tiền công tăng đáng kể ở nhiều nơi; nơi nào tiền công có tăng thì là do cầu lao động tăng, không phải do giá lương thực.
 
@@ -517,7 +526,9 @@ Trả công hậu giúp người lao động nuôi con tốt hơn, nên nới r�
 
 Vì vậy, "cầu về con người, như cầu về mọi hàng hoá khác, điều tiết việc sản xuất ra con người": thúc nhanh khi nó quá chậm, hãm lại khi nó quá nhanh. Chính cầu này quyết định trạng thái dân số ở mọi nước, khiến dân số Bắc Mỹ tăng nhanh, châu Âu tăng chậm và đều, còn Trung Hoa đứng yên.
 
-**Lao động tự do rẻ hơn lao động nô lệ.** Người ta thường nói hao mòn sức lực của nô lệ do chủ nô chịu, còn hao mòn của người làm thuê tự do thì do chính anh ta chịu. Smith cho rằng thực ra hao mòn của người tự do cũng do chủ chịu, thông qua tiền công: tiền công phải đủ để duy trì dòng giống thợ theo đúng cầu của xã hội. Khác biệt là hao mòn của người tự do tốn ít hơn nhiều. Quỹ bù hao mòn cho nô lệ do một chủ nô cẩu thả hoặc một quản lý lơ là điều hành; quỹ bù hao mòn cho người tự do do chính người nghèo, vốn tằn tiện và chắt bóp, tự quản lý. Kinh nghiệm mọi thời đại và mọi dân tộc cho thấy công việc của người tự do rốt cuộc rẻ hơn công việc của nô lệ, kể cả ở Boston, New York và Philadelphia, nơi tiền công thông thường rất cao.
+**Lao động tự do rẻ hơn lao động nô lệ.** Người ta thường nói hao mòn sức lực của nô lệ do chủ nô chịu, còn hao mòn của người làm thuê tự do thì do chính anh ta chịu. Smith cho rằng thực ra hao mòn của người tự do cũng do chủ chịu, thông qua tiền công: tiền công phải đủ để duy trì dòng giống thợ theo đúng cầu của xã hội.
+
+Khác biệt là hao mòn của người tự do tốn ít hơn nhiều. Quỹ bù hao mòn cho nô lệ do một chủ nô cẩu thả hoặc một quản lý lơ là điều hành; quỹ bù hao mòn cho người tự do do chính người nghèo, vốn tằn tiện và chắt bóp, tự quản lý. Kinh nghiệm mọi thời đại và mọi dân tộc cho thấy công việc của người tự do rốt cuộc rẻ hơn công việc của nô lệ, kể cả ở Boston, New York và Philadelphia, nơi tiền công thông thường rất cao.
 
 Kết luận: trả công hậu vừa là **hệ quả** của của cải tăng, vừa là **nguyên nhân** của dân số tăng. Than phiền về tiền công cao là than phiền về hệ quả và nguyên nhân tất yếu của sự phồn vinh lớn nhất.
 
@@ -718,7 +729,9 @@ Tiền công thực của người lao động phổ thông không do mức số
 
 Phần lớn người đọc nhớ chương này qua đoạn về liên kết của giới chủ. Nhưng luận điểm có sức sống lâu nhất là câu ở giữa chương: tiền công cao đi với nước đang giàu lên, không phải nước giàu. Smith không có số liệu GDP, nhưng ông tìm ra phép thử khéo léo: so một nước nghèo hơn mà tăng nhanh (Bắc Mỹ) với một nước giàu hơn mà đứng yên (Trung Hoa), và lấy tốc độ tăng dân số làm thước đo tăng trưởng.
 
-Kinh tế học thế kỷ XX xác nhận phần lớn trực giác này dưới dạng khác: thị trường lao động căng (cầu tăng nhanh hơn cung) là điều kiện để tiền công thực tăng nhanh, và những nền kinh tế tăng trưởng nhanh nhất cũng là những nơi tiền công thực tăng nhanh nhất. Có một điểm Smith bỏ sót: tiền công cao ở Bắc Mỹ không chỉ do tốc độ tích luỹ vốn mà còn do **đất đai dồi dào so với lao động**, tức năng suất biên của lao động cao vì có đất miễn phí để rút lui về. Đó là lý do chủ không thể giữ thợ với công thấp: thợ có lựa chọn ngoài là tự làm chủ một mảnh đất. Ở Quyển I, Chương IX, Smith có nhắc ý đất rẻ ở thuộc địa mới, nhưng trong chương này ông quy toàn bộ về "quỹ trả công tăng". Kinh tế học về thị trường lao động coi "lựa chọn ngoài" của người lao động là yếu tố trung tâm của sức mặc cả.
+Kinh tế học thế kỷ XX xác nhận phần lớn trực giác này dưới dạng khác: thị trường lao động căng (cầu tăng nhanh hơn cung) là điều kiện để tiền công thực tăng nhanh, và những nền kinh tế tăng trưởng nhanh nhất cũng là những nơi tiền công thực tăng nhanh nhất.
+
+Có một điểm Smith bỏ sót: tiền công cao ở Bắc Mỹ không chỉ do tốc độ tích luỹ vốn mà còn do **đất đai dồi dào so với lao động**, tức năng suất biên của lao động cao vì có đất miễn phí để rút lui về. Đó là lý do chủ không thể giữ thợ với công thấp: thợ có lựa chọn ngoài là tự làm chủ một mảnh đất. Ở Quyển I, Chương IX, Smith có nhắc ý đất rẻ ở thuộc địa mới, nhưng trong chương này ông quy toàn bộ về "quỹ trả công tăng". Kinh tế học về thị trường lao động coi "lựa chọn ngoài" của người lao động là yếu tố trung tâm của sức mặc cả.
 
 ### Học thuyết quỹ tiền lương bắt đầu từ đây, và nó sai theo một cách có hậu quả
 
@@ -754,6 +767,194 @@ Ba ý của chương có ứng dụng cụ thể.
 
 **Thứ hai, sức mặc cả bất cân xứng.** Ở Việt Nam, tổ chức đại diện người lao động trong nhiều năm chỉ có công đoàn thuộc Tổng Liên đoàn, và các cuộc ngừng việc ở khu công nghiệp phần lớn là tự phát, không qua thủ tục đình công hợp pháp. Bộ luật Lao động 2019 lần đầu cho phép tổ chức đại diện người lao động tại doanh nghiệp ngoài hệ thống công đoàn. Cơ chế lương tối thiểu vùng do Hội đồng Tiền lương Quốc gia ba bên khuyến nghị là một dạng mặc cả tập trung thay cho mặc cả phân tán. Smith sẽ nói: các thể chế này quan trọng nhất khi cầu lao động yếu đi, vì khi cầu tăng nhanh thì chính thị trường đã đẩy tiền công lên.
 
-**Thứ ba, và quan trọng nhất cho tương lai: điều gì xảy ra khi quỹ trả công ngừng tăng nhanh.** Mệnh đề trung tâm của Smith cảnh báo rằng tiền công phụ thuộc vào tốc độ tích luỹ chứ không vào mức thu nhập đã đạt. Nếu dòng FDI vào lắp ráp chậm lại hoặc chuyển sang nước công rẻ hơn, và vốn trong nước không thay thế được, Việt Nam có thể chuyển từ "trạng thái tiến" sang "trạng thái đứng" trước khi giàu, đúng nỗi lo "bẫy thu nhập trung bình". Đồng thời, cơ chế dân số của Smith đã đảo ngược ở Việt Nam: mức sinh đã xuống dưới mức thay thế (khoảng 1,9 con mỗi phụ nữ theo số liệu thống kê gần đây), nên cung lao động trẻ sẽ không tự tăng để đáp ứng cầu. Kết hợp hai điều, đoạn cuối chương trở thành đoạn quan trọng nhất: cách duy nhất để tiền công tiếp tục tăng mà không mất sức cạnh tranh là tăng năng suất qua vốn, máy móc và phân công tinh hơn, tức chuyển từ cạnh tranh bằng công rẻ sang cạnh tranh bằng chi phí lao động trên mỗi đơn vị sản phẩm thấp.
+**Thứ ba, và quan trọng nhất cho tương lai: điều gì xảy ra khi quỹ trả công ngừng tăng nhanh.** Mệnh đề trung tâm của Smith cảnh báo rằng tiền công phụ thuộc vào tốc độ tích luỹ chứ không vào mức thu nhập đã đạt. Nếu dòng FDI vào lắp ráp chậm lại hoặc chuyển sang nước công rẻ hơn, và vốn trong nước không thay thế được, Việt Nam có thể chuyển từ "trạng thái tiến" sang "trạng thái đứng" trước khi giàu, đúng nỗi lo "bẫy thu nhập trung bình".
+
+Đồng thời, cơ chế dân số của Smith đã đảo ngược ở Việt Nam: mức sinh đã xuống dưới mức thay thế (khoảng 1,9 con mỗi phụ nữ theo số liệu thống kê gần đây), nên cung lao động trẻ sẽ không tự tăng để đáp ứng cầu. Kết hợp hai điều, đoạn cuối chương trở thành đoạn quan trọng nhất: cách duy nhất để tiền công tiếp tục tăng mà không mất sức cạnh tranh là tăng năng suất qua vốn, máy móc và phân công tinh hơn, tức chuyển từ cạnh tranh bằng công rẻ sang cạnh tranh bằng chi phí lao động trên mỗi đơn vị sản phẩm thấp.
 
 Còn một bài học nữa từ đoạn phản bác Messance: khu vực phi chính thức ở Việt Nam vẫn chiếm phần lớn việc làm, và số liệu tiền công chính thức chủ yếu phản ánh khu vực có hợp đồng. Giống như sổ sách nhà nước Pháp mà Smith phê phán, các con số về tiền công trung bình có thể nói nhiều về doanh nghiệp đăng ký và ít về đời sống của phần lớn người lao động.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển I, Chương VIII trên một trang: sáu nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết (ai chia sản phẩm lao động, mặc cả và mức sàn; cầu lao động, quỹ trả công và ba trạng thái Bắc Mỹ, Trung Hoa, Bengal; bốn triệu chứng tiền công ở Anh vượt mức tối thiểu; tiền công cao với dân số và tính cần cù; năm rẻ, năm đắt, phản bác Messance và năng suất), mỗi nhánh ghi luận điểm, cơ chế, ví dụ và số liệu then chốt của Smith; nhánh cuối là thông điệp xuyên suốt và các điểm đánh giá.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương 8: tiền công do cầu lao động quyết định, và cầu chỉ tăng khi quỹ trả công tăng liên tục`"]
+  n1["`Mục 1–3 — Ai chia sản phẩm lao động và chủ thắng mặc cả đến đâu`"]
+  n0 --- n1
+  n2["`Trạng thái ban đầu: chưa chiếm hữu đất, chưa tích luỹ vốn, toàn bộ sản phẩm thuộc người lao động`"]
+  n1 --- n2
+  n3["`Năng suất phần lớn ngành tăng 10 lần, một ngành tăng 2 lần: hàng ngành đó trông đắt gấp 5 nhưng thực ra rẻ gấp 2`"]
+  n2 --- n3
+  n4["`Hai phần khấu trừ: địa tô khi đất thành tư hữu, lợi nhuận cho người ứng trước vốn`"]
+  n1 --- n4
+  n5["`Ở lục địa châu Âu cứ 20 thợ làm thuê mới có 1 thợ độc lập hưởng cả lợi nhuận lẫn tiền công`"]
+  n4 --- n5
+  n6["`Tiền công là hợp đồng giữa hai bên lợi ích đối lập: thợ liên kết để tăng, chủ liên kết để hạ`"]
+  n1 --- n6
+  n7["`Chủ thắng vì ít người, luật cấm thợ liên kết mà không cấm chủ, và chịu được lâu hơn`"]
+  n1 --- n7
+  n8["`Chủ sống được 1–2 năm bằng vốn sẵn có, nhiều thợ không sống nổi 1 tuần nếu mất việc`"]
+  n7 --- n8
+  n9["`Chủ luôn liên kết ngầm để không tăng công, ta ít nghe vì đó là trạng thái bình thường`"]
+  n7 --- n9
+  n10["`Liên kết của thợ ồn ào, đôi khi bạo lực, thường kết thúc bằng trừng phạt người cầm đầu`"]
+  n7 --- n10
+  n11["`Mức sàn: tiền công phải đủ nuôi người lao động và gia đình, nếu không dòng giống thợ không quá một thế hệ`"]
+  n1 --- n11
+  n12["`Cantillon: một nửa trẻ chết trước tuổi trưởng thành, nuôi 4 con để 2 sống, nên phải kiếm gấp đôi mức tự nuôi`"]
+  n11 --- n12
+  n13["`Smith gọi đó là mức thấp nhất phù hợp với nhân tính thông thường, không dám ấn định tỷ lệ chính xác`"]
+  n11 --- n13
+  n14["`Mục 4–5 — Cầu lao động, quỹ trả công và ba trạng thái quốc gia`"]
+  n0 --- n14
+  n15["`Cầu lao động tăng liên tục thì chủ cạnh tranh trả giá và tự phá vỡ liên kết ngầm của giới chủ`"]
+  n14 --- n15
+  n16["`Quỹ trả công gồm thu nhập dư (thuê đầy tớ) và vốn dư của thợ độc lập (thuê thợ phụ)`"]
+  n14 --- n16
+  n17["`Mệnh đề trung tâm: không phải độ lớn mà là sự gia tăng liên tục của của cải quốc dân làm tiền công tăng`"]
+  n14 --- n17
+  n18["`Bắc Mỹ đang tiến: nghèo hơn Anh mà tiền công cao hơn mọi nơi ở Anh`"]
+  n14 --- n18
+  n19["`New York: lao động thường 2 shilling sterling một ngày, London khoảng 18 penny`"]
+  n18 --- n19
+  n20["`Dân số gấp đôi trong 20–25 năm, châu Âu khoảng 500 năm, chủ yếu do sinh đẻ`"]
+  n18 --- n20
+  n21["`Mỗi đứa con đem lại lãi ròng 100 bảng, goá phụ 4–5 con được tranh nhau hỏi cưới`"]
+  n18 --- n21
+  n22["`Trung Hoa đứng yên: giàu nhưng tiền công ở mức tối thiểu, mô tả của Marco Polo 500 năm trước vẫn đúng`"]
+  n14 --- n22
+  n23["`Không thụt lùi: quỹ nuôi lao động không giảm, dân số giữ mức cũ`"]
+  n22 --- n23
+  n24["`Bengal suy thoái dưới Công ty Đông Ấn: 300–400 nghìn người chết đói trong một năm`"]
+  n14 --- n24
+  n25["`Người có nghề tụt xuống nghề thấp, tiền công dưới mức sàn, dân số giảm tới mức vốn còn nuôi nổi`"]
+  n24 --- n25
+  n26["`Trả công hậu là triệu chứng của của cải tăng, công đói khổ là triệu chứng đình trệ hay suy thoái`"]
+  n14 --- n26
+  n27["`Mục 6 — Bốn triệu chứng: tiền công ở Anh đã vượt mức tối thiểu`"]
+  n0 --- n27
+  n28["`Công mùa hè cao hơn mùa đông dù mùa đông tốn củi sưởi: công theo giá trị công việc, không theo chi tiêu`"]
+  n27 --- n28
+  n29["`Giá lương thực đổi từng năm, tiền công nhiều nơi giữ nguyên nửa thế kỷ`"]
+  n27 --- n29
+  n30["`Thành phố lớn trả cao hơn vùng cách vài dặm 20–25% dù bánh mì, thịt giá gần như nhau`"]
+  n27 --- n30
+  n31["`London 18 penny so với 14–15, Edinburgh 10 so với 8: con người là thứ hàng khó di chuyển nhất`"]
+  n30 --- n31
+  n32["`Lúa đắt hơn ở Scotland mà công rẻ hơn Anh: ăn bột yến mạch là hậu quả, không phải nguyên nhân của công thấp`"]
+  n27 --- n32
+  n33["`Giàu nên đi xe ngựa, không phải vì đi xe ngựa mà giàu`"]
+  n32 --- n33
+  n34["`Scotland thế kỷ trước 5–6 penny một ngày, nay 8 penny, Glasgow, Ayrshire 10 penny đến 1 shilling`"]
+  n32 --- n34
+  n35["`Bằng chứng lịch sử: lính bộ binh 8 penny một ngày từ 1614, Hale và King cùng ra khoảng 20 penny một người một tuần`"]
+  n27 --- n35
+  n36["`Tiền công thực tăng nhanh hơn danh nghĩa: lúa rẻ hơn, khoai tây rẻ một nửa, vải và đồ kim khí rẻ hơn`"]
+  n27 --- n36
+  n37["`Chỉ xà phòng, nến, da, rượu bia đắt hơn, chủ yếu do thuế`"]
+  n36 --- n37
+  n38["`Lời than xa xỉ lan xuống tầng lớp thấp chính là bằng chứng tiền công thực đã tăng`"]
+  n36 --- n38
+  n39["`Mục 7–8 — Tiền công cao có lợi: dân số, lao động tự do và cần cù`"]
+  n0 --- n39
+  n40["`Người làm thuê là phần lớn dân số, không xã hội nào phồn vinh khi phần lớn thành viên nghèo khổ`"]
+  n39 --- n40
+  n41["`Nghèo không ngăn sinh đẻ mà ngăn nuôi con: phụ nữ Cao nguyên đẻ 20 con không nuôi nổi 2`"]
+  n39 --- n41
+  n42["`Giới hạn dân số nằm ở nuôi được con, không ở đẻ ra con`"]
+  n41 --- n42
+  n43["`Cầu về con người điều tiết việc sản xuất ra con người: công thấp thì thiếu người đẩy lên, công cao thì dân số tăng kéo xuống`"]
+  n39 --- n43
+  n44["`Lao động tự do rẻ hơn nô lệ vì người nghèo tằn tiện tự quản lý quỹ bù hao mòn, kể cả ở Boston, New York, Philadelphia`"]
+  n39 --- n44
+  n45["`Trạng thái tiến thì vui, đứng yên thì buồn tẻ, suy thoái thì sầu não`"]
+  n39 --- n45
+  n46["`Trả công hậu khuyến khích cần cù: khoẻ hơn, có hy vọng đời khá hơn, thấy rõ ở Anh hơn Scotland`"]
+  n39 --- n46
+  n47["`Vài người làm 4 ngày đủ ăn rồi nghỉ 3 ngày, nhưng không phải số đông`"]
+  n46 --- n47
+  n48["`Làm khoán hậu dễ làm quá sức: thợ mộc London giữ sức tối đa không quá 8 năm`"]
+  n46 --- n48
+  n49["`Chủ có lý trí nên điều độ công việc: làm điều độ thì bền và tính cả năm ra nhiều sản phẩm nhất`"]
+  n46 --- n49
+  n50["`Mục 9–11 — Năm rẻ, năm đắt và hai yếu tố quyết định tiền công bằng tiền`"]
+  n0 --- n50
+  n51["`Năm rẻ: đầy tớ ra làm độc lập, chủ trại dùng lúa rẻ thuê thêm người, công tăng`"]
+  n50 --- n51
+  n52["`Năm đắt: chủ cắt người, thợ độc lập tiêu hết vốn phải đi làm thuê, công giảm, chủ thích vì thợ khúm núm hơn`"]
+  n50 --- n52
+  n53["`Phản bác Messance: ba ngành ở Elbeuf và Rouen là ngành đứng yên, chọn mẫu sai`"]
+  n50 --- n53
+  n54["`Vải lanh Scotland, len Yorkshire không gắn với giá lúa: 1756 lanh tiến, len giảm tới 1766`"]
+  n53 --- n54
+  n55["`Năm rẻ nhiều việc làm cho gia đình, láng giềng không vào sổ sách nên số liệu chính thức đánh giá thấp`"]
+  n53 --- n55
+  n56["`Tiền công bằng tiền do cầu lao động (lượng nhu yếu phẩm) và giá nhu yếu phẩm (số tiền) quyết định`"]
+  n50 --- n56
+  n57["`Năm đói cầu giảm nhưng giá cao, hai lực triệt tiêu nên tiền công ổn định hơn giá lương thực`"]
+  n56 --- n57
+  n58["`Tiền công cao làm giá tăng, nhưng tăng vốn làm phân công tỉ mỉ hơn, máy móc tốt hơn, bù đắp dư thừa`"]
+  n50 --- n58
+  n59["`Ví dụ: công 10 lên 12 penny, sản phẩm 20 lên 40, chi phí tiền công mỗi sản phẩm từ 0,5 xuống 0,3 penny`"]
+  n58 --- n59
+  n60["`Thông điệp xuyên suốt và đánh giá`"]
+  n0 --- n60
+  n61["`Tiền công đi theo tốc độ tích luỹ, không theo mức giàu: muốn công cao phải làm của cải tăng liên tục`"]
+  n60 --- n61
+  n62["`Luật pháp không bao giờ ấn định đúng tiền công, và luật đương thời thiên vị chủ`"]
+  n60 --- n62
+  n63["`Ý quỹ trả công bị biến thành học thuyết quỹ tiền lương cứng, Mill rút lại năm 1869`"]
+  n60 --- n63
+  n64["`Smith bỏ sót đất đai dồi dào ở Bắc Mỹ như lựa chọn ngoài của người lao động`"]
+  n60 --- n64
+  n65["`Cơ chế dân số bị lịch sử đảo ngược: thu nhập cao thì ít con, điều chỉnh nay qua di cư`"]
+  n60 --- n65
+  n66["`Sức cạnh tranh phụ thuộc chi phí lao động trên mỗi đơn vị sản phẩm, không phải tiền công`"]
+  n60 --- n66
+  class n0 root
+  class n1,n14,n27,n39,n50,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương VIII. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 85–105.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Đơn vị tiền Anh
+
+Đơn vị tiền Anh dùng trong file: 1 bảng (pound) = 20 shilling; 1 shilling = 12 penny. Vậy 1 bảng = 240 penny.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Ở Quyển I, Chương VI, Smith đã tách giá cả hàng hoá thành ba phần: tiền công, lợi nhuận và địa tô. Ở Chương VII, ông nói mỗi phần có một "tỷ suất tự nhiên" (natural rate) và giá thị trường luôn bị kéo về giá tự nhiên.
+
+Chương VIII là chương đầu tiên trong bộ ba (VIII tiền công, IX lợi nhuận, X–XI chênh lệch giữa các nghề và địa tô) giải thích các tỷ suất tự nhiên đó do đâu mà có và vì sao chúng thay đổi.
+
+Chương này cũng nối lại với Chương I: tiến bộ của phân công lao động, nhờ vốn tích luỹ, là thứ cuối cùng bù đắp cho tiền công cao; và nó chuẩn bị cho Quyển II, nơi tích luỹ vốn được phân tích như động cơ của tăng trưởng.
+
+## Lưu ý
+
+Bản dịch có một số lỗi làm sai nghĩa hoặc vỡ câu.
+
+- Đoạn mở đầu về hàng hoá rẻ đi bị lặp câu ("và vì những hàng hoá được làm ra với lượng lao động ít hơn" xuất hiện hai lần), ý gốc là: hàng làm ra bằng lượng lao động bằng nhau sẽ đổi cho nhau, nên mọi thứ đều mua được bằng sản phẩm của ít lao động hơn.
+- Thợ mộc đóng tàu ở New York được thêm "số chrome trị giá 6 penny": gốc là "một panh rượu rum" (*a pint of rum*), đây là lỗi trích xuất hoặc dịch.
+- "Tiền Mỹ" là tiền thuộc địa New York (*currency*), khác đồng bảng Anh (*sterling*).
+- Bengal: bản dịch viết "hàng năm ba tới bốn trăm nghìn người phải chịu chết đói", gốc là ba–bốn trăm nghìn người chết đói *trong một năm* (nạn đói Bengal 1770), không phải mỗi năm.
+- Câu "điều đó không thể không làm giảm sút lương của họ" (về năm đói kém), gốc là làm giảm *sản phẩm lao động* của họ, không phải lương.
+- "Chủ trại mong kiếm được nhiều lợi nhuận ... bằng cách thuê thêm ít nhân công hơn": gốc là thuê thêm *một ít* nhân công (dùng lúa nuôi thêm người làm thay vì bán rẻ).
+- "Mỹ bãi bỏ đạo luật về in dấu hiệu đặc biệt trên nhãn hàng" là Đạo luật Tem thuế (*Stamp Act*) áp lên các thuộc địa Mỹ, được Quốc hội Anh bãi bỏ năm 1766.
+- Câu về thợ độc lập ("dù học làm việc nhiều hay ít") bị vỡ: gốc nói thợ độc lập còn hơn hẳn những người làm thuê theo tháng, theo năm, vốn nhận tiền công và tiền ăn như nhau dù họ làm nhiều hay ít.
+- Tên riêng bị sai chính tả: Cantilion (Cantillon), Mareo Polo (Marco Polo), Bengai (Bengal), Giasgow (Glasgow), Eleuf (Elbeuf), Ramuzzini (Ramazzini), "ngành sản xuất lạnh" (lanh).
+- "Người hưởng trợ cấp hàng năm" là người sống bằng niên kim (*annuitant*), không phải người nhận trợ cấp xã hội.
+- Câu về Trung Hoa "sinh con ... để cho chúng tự do chết dần chết mòn" làm mờ ý gốc: hôn nhân được khuyến khích không phải vì con cái sinh lợi mà vì người ta được tự do bỏ con (tục bỏ trẻ sơ sinh ở các thành phố lớn).
+- "Các thứ đồ dùng có men" trong danh sách hàng đắt lên vì thuế là rượu bia lên men (*fermented liquors*), không phải đồ gốm tráng men.
+- Về tử vong trẻ em ở Cao nguyên Scotland, bản dịch viết một nửa số trẻ "chết trước khi chúng lên 3"; gốc là trước 4 tuổi (*before they are four years of age*).

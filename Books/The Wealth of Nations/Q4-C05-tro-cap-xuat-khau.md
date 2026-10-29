@@ -1,11 +1,19 @@
 # Quyển IV, Chương V — Trợ cấp xuất khẩu (Of Bounties), kèm phần lạc đề về buôn bán ngũ cốc và luật ngũ cốc
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương V. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 479–517.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Đây là công cụ thứ tư trong sáu công cụ của hệ thống trọng thương mà Smith liệt kê ở Quyển IV, Chương I, và là công cụ khuyến khích xuất khẩu thứ hai sau hoàn thuế. Chương IV đã cho thấy hoàn thuế hợp lý vì nó chỉ trả lại cái thuế đã lấy. Chương V cho thấy trợ cấp xuất khẩu thì ngược lại: nó trả thêm cái thị trường không trả, nên đẩy vốn vào những ngành thua lỗ. Chương dựa vào ba kết quả trước đó: lý thuyết giá tự nhiên ở Quyển I, Chương VII (giá phải đủ bù tiền công, lợi nhuận, địa tô theo mức thông thường); phần lạc đề về giá trị bạc ở Quyển I, Chương XI (giá ngũ cốc thế kỷ XVIII giảm vì giá trị thực của bạc tăng, và ngũ cốc là thước đo giá trị thực ổn định nhất); và lý thuyết phân bổ vốn ở Quyển IV, Chương II. Phần lạc đề về buôn bán ngũ cốc là phân tích thị trường dài nhất của cả Quyển IV và chuẩn bị cho Chương VI–VIII về hiệp ước thương mại, thuộc địa và kết luận về hệ thống trọng thương.
-**Ý chính:** Smith chứng minh ba mệnh đề. Thứ nhất, trợ cấp xuất khẩu chỉ cần cho những ngành mà giá bán không bù được vốn cộng lợi nhuận thông thường, nên nó chỉ có thể đẩy vốn vào những ngành kém lợi hơn ngành vốn tự chọn. Thứ hai, trợ cấp xuất khẩu ngũ cốc còn tệ hơn mọi trợ cấp khác: nó đánh hai thứ thuế lên dân (thuế để trả trợ cấp và thuế ẩn qua giá ngũ cốc trong nước cao hơn; với lượng xuất bằng 1/31 lượng tiêu dùng, cứ 5 shilling trợ cấp kéo theo £6 4s thuế ẩn), nhưng không làm tăng giá thực của ngũ cốc, vì giá ngũ cốc điều tiết tiền công và giá mọi hàng khác, nên trợ cấp chỉ làm giảm giá trị thực của bạc trong nước, giống chính sách cấm xuất vàng bạc của Tây Ban Nha và Bồ Đào Nha. Thứ ba, trong phần lạc đề, Smith phân tích bốn nhánh của ngành buôn ngũ cốc và chứng minh rằng lợi ích của nhà buôn ngũ cốc nội địa trùng với lợi ích của dân chúng ngay cả trong năm đói kém; rằng nạn khan hiếm do mất mùa còn nạn đói thì chỉ do chính phủ can thiệp sai; rằng nỗi sợ đầu cơ tích trữ của dân cũng vô căn cứ như nỗi sợ phù thuỷ, và bỏ truy tố sẽ xoá được nó như đã xoá nỗi sợ phù thuỷ; và rằng tự do buôn bán ngũ cốc trong nước, cùng với nhập khẩu tự do và hạn chế xuất khẩu chỉ ở mức giá rất cao, là cách tốt nhất để ngăn nạn đói.
+## Ý chính
 
-> **Lưu ý:** Bản dịch đặt tên chương là "Tiền thưởng" và dùng lẫn lộn "tiền thưởng khuyến khích", "tiền trợ cấp xuất khẩu" cho *bounty*. Nghĩa kinh tế đúng là **trợ cấp** (xuất khẩu hoặc sản xuất), một khoản nhà nước trả cho mỗi đơn vị hàng xuất. "Corn" được dịch lúc là "ngũ cốc", lúc là "thóc lúa"; trong tiếng Anh thời Smith *corn* là ngũ cốc nói chung, chủ yếu lúa mì, không phải lúa gạo. Một số lỗi làm sai nghĩa: (1) đoạn so sánh với hàng len, vải lanh bị dịch **ngược**: nguyên văn nói độc quyền thị trường trong nước cho phép nhà sản xuất len và vải lanh bán hàng **với giá cao hơn** mức lẽ ra bán được, bản dịch viết "bán với giá rẻ hơn". (2) *Quarter* được dịch là "góc tạ Anh (bằng 12,7 kg)"; một quarter là 8 bushel, tức khoảng 290 lít, với lúa mì khoảng 218 kg. (3) Số muối "936.974 giá với giá 84 bảng Anh 1 giá" và "56 bảng Anh một giá" sai: đó là 84 và 56 **pound khối lượng** (lb) mỗi bushel, không phải tiền; và 936.974 bushel là lượng **muối ngoại nhập vào Scotland**. (4) "Tiền thuế đóng cho nhà vua phải tính theo trọng lượng pound (450 gam)" sai: *poundage* là một khoản thuế tính theo **giá trị** (bao nhiêu penny trên mỗi bảng Anh giá trị), không theo khối lượng. (5) Câu về luật nhập khẩu năm 22 Charles II bị đảo: nghĩa đúng là cho tới khi giá lúa mì vượt £4, nhập khẩu chịu thuế rất cao, và cho tới khi vượt 53s 4d thì chịu thuế cao tới mức cấm. (6) "Cái giá phải trả cho việc ngăn cấm xuất khẩu... là một cái giá rất cao phải trả" sai nghĩa: nguyên văn là **mức giá ngũ cốc tại đó xuất khẩu bị cấm, nếu có cấm, phải luôn là một mức giá rất cao**. (7) Câu cuối về luật 1773 "đạo luật này hãy còn kém khắc khe hơn" phải là "**về điểm này, luật mới kém hơn hệ thống cũ**". (8) Đoạn "Các khoản tiền thưởng... tùy thuộc trước hết vào sự phản đối các loại mưu ma chước quỷ" là dịch hỏng câu "trợ cấp xuất khẩu trước hết chịu **lời phản bác chung** áp dụng cho mọi **biện pháp** của hệ thống trọng thương". (9) "Với dụng ý là không muốn cho mọi người biết được tại sao lại rẻ như vậy" phải là "**có lẽ không hiểu rõ làm thế nào** để đạt được điều đó". (10) "Cả hai đạo luật đều phi chính trị" phải là "**thiếu khôn ngoan về chính sách** (impolitic) cũng như bất công". (11) Câu về Tây Ban Nha và Bồ Đào Nha "mặc dù các luật lệ về thương mại ở hai nước này còn có nhiều điều tinh khôn" phải là "**dù các quy định thương mại của họ có khôn ngoan** đến đâu (trong khi phần lớn chúng vô lý)". (12) Câu phân biệt hoàn thuế và trợ cấp trong ngôn ngữ hải quan bị dịch rối; nghĩa đúng: hàng xuất ở **cùng dạng** như khi nhập thì khoản trả lại gọi là hoàn thuế; khi đã được chế biến tới mức mang **tên mới** thì gọi là trợ cấp. (13) Câu "Tiền thưởng khuyến khích xuất khẩu đôi khi được coi như loại tiền thưởng cho các nghệ sĩ..." phải là "**trợ cấp đôi khi được gọi là giải thưởng, cũng như hoàn thuế đôi khi được gọi là trợ cấp**". Lỗi trích xuất: một chú thích của Smith về nguồn gốc các thuế nhập ngũ cốc ("Các loại thuế khác nhau này được áp đặt một phần bởi... năm 22 Charles II, thay cho Bảng thuế cũ...") bị chèn vào giữa thân văn ở phần xuất khẩu; một câu bị lặp ("Ta phải thấy rằng hậu quả của một nạn khan hiếm thóc lúa"); và "trọng tài" là lỗi gõ của "trọng tải".
+Smith chứng minh ba mệnh đề.
+
+Thứ nhất, trợ cấp xuất khẩu chỉ cần cho những ngành mà giá bán không bù được vốn cộng lợi nhuận thông thường, nên nó chỉ có thể đẩy vốn vào những ngành kém lợi hơn ngành vốn tự chọn.
+
+Thứ hai, trợ cấp xuất khẩu ngũ cốc còn tệ hơn mọi trợ cấp khác: nó đánh hai thứ thuế lên dân (thuế để trả trợ cấp và thuế ẩn qua giá ngũ cốc trong nước cao hơn; với lượng xuất bằng 1/31 lượng tiêu dùng, cứ 5 shilling trợ cấp kéo theo £6 4s thuế ẩn), nhưng không làm tăng giá thực của ngũ cốc, vì giá ngũ cốc điều tiết tiền công và giá mọi hàng khác, nên trợ cấp chỉ làm giảm giá trị thực của bạc trong nước, giống chính sách cấm xuất vàng bạc của Tây Ban Nha và Bồ Đào Nha.
+
+Thứ ba, trong phần lạc đề, Smith phân tích bốn nhánh của ngành buôn ngũ cốc và chứng minh:
+
+- rằng lợi ích của nhà buôn ngũ cốc nội địa trùng với lợi ích của dân chúng ngay cả trong năm đói kém;
+- rằng nạn khan hiếm do mất mùa còn nạn đói thì chỉ do chính phủ can thiệp sai;
+- rằng nỗi sợ đầu cơ tích trữ của dân cũng vô căn cứ như nỗi sợ phù thuỷ, và bỏ truy tố sẽ xoá được nó như đã xoá nỗi sợ phù thuỷ;
+- và rằng tự do buôn bán ngũ cốc trong nước, cùng với nhập khẩu tự do và hạn chế xuất khẩu chỉ ở mức giá rất cao, là cách tốt nhất để ngăn nạn đói.
 
 ## Sơ đồ
 
@@ -416,7 +424,9 @@ Còn nếu mở cửa đập thì sao? Lượng nước phía trên đập sẽ 
 
 Smith nhấn mạnh rằng thiệt hại của Iberia khi để vàng bạc chảy ra như vậy chỉ là danh nghĩa và tưởng tượng. Giá trị danh nghĩa của hàng hoá và của sản phẩm hằng năm sẽ giảm, tức được biểu thị bằng ít bạc hơn, nhưng giá trị thực không đổi: nó vẫn đủ để thuê, chỉ huy và nuôi cùng một lượng lao động. Vì giá danh nghĩa giảm, giá trị của số vàng bạc còn lại tăng, và một lượng nhỏ hơn đủ cho thương mại và lưu thông như trước.
 
-Hơn nữa, vàng bạc ra đi không ra đi vô ích, mà đổi lấy hàng hoá cùng giá trị. Những hàng đó không thể chỉ là đồ xa xỉ cho kẻ ăn không ngồi rồi, vì thu nhập thực của những người này không tăng nhờ việc xuất vàng bạc. Phần lớn, hoặc ít nhất một phần, sẽ là vật liệu, công cụ, lương thực để nuôi và thuê người lao động, những người tái sản xuất toàn bộ giá trị họ tiêu dùng cộng thêm lãi. Như vậy một phần vốn chết của xã hội được biến thành vốn hoạt động. Sản phẩm hằng năm tăng chút ít ngay, và tăng đáng kể sau vài năm. Công nghiệp của hai nước được giải thoát khỏi một trong những gánh nặng ngột ngạt nhất đang đè lên nó. Đây là áp dụng lý thuyết ở Quyển II, Chương II: vàng bạc dùng làm tiền lưu thông là vốn chết, không sinh ra gì; đổi nó lấy vật liệu, công cụ và lương thực, tức vốn lưu động thật, sẽ làm tăng sản phẩm.
+Hơn nữa, vàng bạc ra đi không ra đi vô ích, mà đổi lấy hàng hoá cùng giá trị. Những hàng đó không thể chỉ là đồ xa xỉ cho kẻ ăn không ngồi rồi, vì thu nhập thực của những người này không tăng nhờ việc xuất vàng bạc. Phần lớn, hoặc ít nhất một phần, sẽ là vật liệu, công cụ, lương thực để nuôi và thuê người lao động, những người tái sản xuất toàn bộ giá trị họ tiêu dùng cộng thêm lãi.
+
+Như vậy một phần vốn chết của xã hội được biến thành vốn hoạt động. Sản phẩm hằng năm tăng chút ít ngay, và tăng đáng kể sau vài năm. Công nghiệp của hai nước được giải thoát khỏi một trong những gánh nặng ngột ngạt nhất đang đè lên nó. Đây là áp dụng lý thuyết ở Quyển II, Chương II: vàng bạc dùng làm tiền lưu thông là vốn chết, không sinh ra gì; đổi nó lấy vật liệu, công cụ và lương thực, tức vốn lưu động thật, sẽ làm tăng sản phẩm.
 
 | Hình ảnh con đập | Ý nghĩa kinh tế |
 |---|---|
@@ -665,7 +675,9 @@ Smith giải thích bằng cách xét hai kiểu sai lầm mà nhà buôn có th
 
 Cả hai sai lầm đều làm nhà buôn thiệt. Vậy lợi ích của ông là định giá đúng. Lợi ích của dân là tiêu dùng hằng ngày, hằng tuần, hằng tháng khớp càng sát càng tốt với nguồn cung của vụ. Lợi ích của nhà buôn nội địa cũng đúng như vậy: bằng cách cung cấp cho thị trường gần đúng tỷ lệ ấy, ông bán được toàn bộ số ngũ cốc của mình với giá cao nhất và lãi nhiều nhất. Hiểu biết của ông về tình hình mùa màng và về lượng bán ra hằng ngày, hằng tuần, hằng tháng giúp ông phán đoán khá chính xác mức cung phù hợp.
 
-Smith minh hoạ bằng hình ảnh người thuyền trưởng. Không cần quan tâm gì tới lợi ích của dân, chính lợi ích riêng thúc đẩy nhà buôn đối xử với dân trong năm khan hiếm gần giống như một thuyền trưởng khôn ngoan đôi khi buộc phải đối xử với thuỷ thủ của mình. Khi thấy lương thực trên tàu sắp cạn, ông giảm khẩu phần. Đôi khi vì quá thận trọng, ông giảm khẩu phần khi chưa thật cần, nhưng mọi bất tiện mà thuỷ thủ phải chịu vì thế là nhỏ so với nguy hiểm và khốn khổ mà họ có thể gặp nếu ông thiếu lo xa. Tương tự, nhà buôn ngũ cốc đôi khi vì tham lam quá mức mà nâng giá cao hơn mức khan hiếm đòi hỏi. Nhưng phiền phức mà dân phải chịu vì thế, giúp họ tránh được nạn đói cuối vụ, là không đáng kể so với nguy cơ họ gặp nếu ông bán rẻ ngay đầu vụ. Và người thiệt nhiều nhất vì sự tham lam quá mức ấy lại chính là nhà buôn: ông phải chịu sự phẫn nộ của dân, và nếu cuối vụ ông còn thừa hàng mà vụ sau lại được mùa, ông phải bán số thừa với giá thấp hơn nhiều so với mức lẽ ra bán được.
+Smith minh hoạ bằng hình ảnh người thuyền trưởng. Không cần quan tâm gì tới lợi ích của dân, chính lợi ích riêng thúc đẩy nhà buôn đối xử với dân trong năm khan hiếm gần giống như một thuyền trưởng khôn ngoan đôi khi buộc phải đối xử với thuỷ thủ của mình. Khi thấy lương thực trên tàu sắp cạn, ông giảm khẩu phần. Đôi khi vì quá thận trọng, ông giảm khẩu phần khi chưa thật cần, nhưng mọi bất tiện mà thuỷ thủ phải chịu vì thế là nhỏ so với nguy hiểm và khốn khổ mà họ có thể gặp nếu ông thiếu lo xa.
+
+Tương tự, nhà buôn ngũ cốc đôi khi vì tham lam quá mức mà nâng giá cao hơn mức khan hiếm đòi hỏi. Nhưng phiền phức mà dân phải chịu vì thế, giúp họ tránh được nạn đói cuối vụ, là không đáng kể so với nguy cơ họ gặp nếu ông bán rẻ ngay đầu vụ. Và người thiệt nhiều nhất vì sự tham lam quá mức ấy lại chính là nhà buôn: ông phải chịu sự phẫn nộ của dân, và nếu cuối vụ ông còn thừa hàng mà vụ sau lại được mùa, ông phải bán số thừa với giá thấp hơn nhiều so với mức lẽ ra bán được.
 
 **Ví dụ minh hoạ** (số giả định). Một vùng có 12 tháng lương thực bình thường, nhưng năm nay mất mùa chỉ thu được 10 tháng. Nếu giá giữ nguyên, người ta ăn như mọi năm và hết lương thực vào tháng thứ 10; hai tháng cuối là đói thật. Nếu giá tăng đủ để mỗi người ăn dè khoảng 1/6, lượng lương thực ấy kéo đủ 12 tháng. Ai cũng chịu thiếu một chút trong cả năm, thay vì một số người đói hẳn trong hai tháng. Đó là chức năng mà Smith gán cho giá cao trong năm mất mùa.
 
@@ -754,7 +766,9 @@ Khi chuyển hàng từ xưởng sang cửa hàng, ông phải định giá món
 
 Smith nêu nguyên tắc chung: lợi ích của mọi xã hội là không bao giờ ép buộc hay cản trở những việc như vậy. Người dùng lao động hay vốn của mình vào nhiều việc hơn tình thế đòi hỏi không thể hại láng giềng bằng cách bán rẻ hơn họ; ông chỉ hại chính mình. Câu tục ngữ nói người làm đủ nghề sẽ không bao giờ giàu. Luật pháp nên luôn tin rằng người dân tự lo được lợi ích của mình, và trong hoàn cảnh cụ thể của họ, họ phán đoán tốt hơn nhà lập pháp.
 
-**Luật nào tai hại hơn.** Trong hai luật, luật buộc chủ trại làm nhà buôn tai hại hơn nhiều. Nó không chỉ cản sự phân chia trong việc dùng vốn, vốn có lợi cho mọi xã hội, mà còn cản sự cải thiện và canh tác đất đai. Buộc chủ trại làm hai nghề thay vì một, nó buộc ông chia vốn làm hai, và chỉ một phần được dùng để canh tác. Nếu được tự do bán toàn bộ thu hoạch cho nhà buôn ngay khi đập lúa xong, toàn bộ vốn của ông sẽ quay về đất ngay, để mua thêm gia súc và thuê thêm người, tức để canh tác tốt hơn. Bị buộc phải tự bán lẻ, ông phải giữ một phần lớn vốn dưới dạng ngũ cốc nằm trong kho suốt cả năm, nên không thể canh tác tốt như với cùng số vốn mà không bị buộc như vậy. Vì vậy luật này không chỉ cản sự cải thiện đất đai, mà thay vì làm ngũ cốc rẻ hơn, nó làm ngũ cốc khan hơn và đắt hơn.
+**Luật nào tai hại hơn.** Trong hai luật, luật buộc chủ trại làm nhà buôn tai hại hơn nhiều. Nó không chỉ cản sự phân chia trong việc dùng vốn, vốn có lợi cho mọi xã hội, mà còn cản sự cải thiện và canh tác đất đai. Buộc chủ trại làm hai nghề thay vì một, nó buộc ông chia vốn làm hai, và chỉ một phần được dùng để canh tác.
+
+Nếu được tự do bán toàn bộ thu hoạch cho nhà buôn ngay khi đập lúa xong, toàn bộ vốn của ông sẽ quay về đất ngay, để mua thêm gia súc và thuê thêm người, tức để canh tác tốt hơn. Bị buộc phải tự bán lẻ, ông phải giữ một phần lớn vốn dưới dạng ngũ cốc nằm trong kho suốt cả năm, nên không thể canh tác tốt như với cùng số vốn mà không bị buộc như vậy. Vì vậy luật này không chỉ cản sự cải thiện đất đai, mà thay vì làm ngũ cốc rẻ hơn, nó làm ngũ cốc khan hơn và đắt hơn.
 
 #### 31. Nhà buôn ngũ cốc là người hỗ trợ chủ trại
 
@@ -773,7 +787,9 @@ Luật Edward VI, bằng cách cấm mọi người trung gian giữa người t
 
 #### 32. Luật Charles II và hai định kiến còn lại
 
-Sự khắc nghiệt của luật Edward VI về sau được nới dần, qua một loạt luật cho phép mua vét ngũ cốc khi giá lúa mì không vượt một ngưỡng: lần lượt 20, 24, 32 và 40 shilling một quarter. Cuối cùng, theo luật năm 15 Charles II, việc mua ngũ cốc để bán lại được coi là hợp pháp với mọi người không phải là kẻ mua chặn (forestaller), tức người không bán lại ở cùng chợ trong vòng ba tháng, miễn là giá lúa mì không vượt 48 shilling một quarter, và các ngũ cốc khác theo tỷ lệ. Mọi tự do mà nhà buôn nội địa từng có đều bắt nguồn từ luật này. Luật của triều vua hiện nay đã bãi bỏ hầu hết các luật cũ chống mua vét và mua chặn, nhưng không bãi bỏ hạn chế của luật 15 Charles II, nên hạn chế ấy vẫn còn hiệu lực.
+Sự khắc nghiệt của luật Edward VI về sau được nới dần, qua một loạt luật cho phép mua vét ngũ cốc khi giá lúa mì không vượt một ngưỡng: lần lượt 20, 24, 32 và 40 shilling một quarter. Cuối cùng, theo luật năm 15 Charles II, việc mua ngũ cốc để bán lại được coi là hợp pháp với mọi người không phải là kẻ mua chặn (forestaller), tức người không bán lại ở cùng chợ trong vòng ba tháng, miễn là giá lúa mì không vượt 48 shilling một quarter, và các ngũ cốc khác theo tỷ lệ.
+
+Mọi tự do mà nhà buôn nội địa từng có đều bắt nguồn từ luật này. Luật của triều vua hiện nay đã bãi bỏ hầu hết các luật cũ chống mua vét và mua chặn, nhưng không bãi bỏ hạn chế của luật 15 Charles II, nên hạn chế ấy vẫn còn hiệu lực.
 
 | Giai đoạn | Mua ngũ cốc để bán lại được phép khi |
 |---|---|
@@ -848,11 +864,15 @@ Smith chỉ ra mức giá thứ nhất, trong hơn một thế kỷ qua, chỉ x
 
 Trong năm khan hiếm, nếu thi hành nghiêm các luật này thì hẳn đã gây khổ cực lớn cho dân. Nhưng vào những lúc ấy, chúng thường bị đình chỉ bằng các luật tạm thời, cho phép nhập ngũ cốc nước ngoài trong một thời gian. Smith nhận xét: chính sự cần thiết phải có các luật tạm thời này đủ chứng minh rằng luật chung là sai. Một luật tốt không cần bị gác lại đúng vào lúc nó quan trọng nhất.
 
-**Vì sao trợ cấp làm hạn chế nhập trở nên cần thiết.** Các hạn chế nhập khẩu này có trước khi lập trợ cấp, nhưng được thúc đẩy bởi cùng tinh thần, cùng nguyên tắc với các quy định về trợ cấp sau đó. Dù tự thân chúng có hại, chúng lại trở nên cần thiết một khi có trợ cấp. Lý do: nếu khi lúa mì dưới 48 shilling, hoặc không cao hơn nhiều, mà ngũ cốc ngoại được nhập miễn thuế hay thuế nhẹ, thì người ta có thể nhập ngũ cốc ngoại vào rồi tái xuất nó để lấy trợ cấp. Điều đó sẽ gây thiệt lớn cho ngân sách, và làm hỏng hoàn toàn mục đích của thể chế trợ cấp, vốn là mở rộng thị trường cho sản phẩm trong nước chứ không cho sản phẩm nước ngoài. Một biện pháp sai đòi hỏi thêm một biện pháp sai khác để giữ nó đứng được.
+**Vì sao trợ cấp làm hạn chế nhập trở nên cần thiết.** Các hạn chế nhập khẩu này có trước khi lập trợ cấp, nhưng được thúc đẩy bởi cùng tinh thần, cùng nguyên tắc với các quy định về trợ cấp sau đó. Dù tự thân chúng có hại, chúng lại trở nên cần thiết một khi có trợ cấp.
+
+Lý do: nếu khi lúa mì dưới 48 shilling, hoặc không cao hơn nhiều, mà ngũ cốc ngoại được nhập miễn thuế hay thuế nhẹ, thì người ta có thể nhập ngũ cốc ngoại vào rồi tái xuất nó để lấy trợ cấp. Điều đó sẽ gây thiệt lớn cho ngân sách, và làm hỏng hoàn toàn mục đích của thể chế trợ cấp, vốn là mở rộng thị trường cho sản phẩm trong nước chứ không cho sản phẩm nước ngoài. Một biện pháp sai đòi hỏi thêm một biện pháp sai khác để giữ nó đứng được.
 
 #### 36. Nhánh III: nhà xuất khẩu
 
-Nhánh thứ ba là nhà xuất khẩu ngũ cốc để tiêu dùng ở nước ngoài. Ông không góp trực tiếp vào việc cung ứng dồi dào cho thị trường trong nước, nhưng có góp gián tiếp. Lập luận của Smith như sau. Dù nguồn cung đến từ đâu, từ sản xuất trong nước hay từ nhập khẩu, trừ khi người ta thường xuyên trồng hoặc nhập nhiều hơn lượng thường tiêu dùng trong nước, thị trường trong nước không bao giờ được cung dồi dào. Nhưng trừ khi phần thừa có thể được xuất khẩu trong mọi trường hợp thông thường, người trồng sẽ cẩn thận không trồng thêm, người nhập sẽ không nhập thêm, ngoài mức mà thị trường trong nước cần. Thị trường đó vì vậy hiếm khi bị đầy, mà thường thiếu, vì những người có nghề cung cấp nó thường lo hàng của mình còn ế trong tay.
+Nhánh thứ ba là nhà xuất khẩu ngũ cốc để tiêu dùng ở nước ngoài. Ông không góp trực tiếp vào việc cung ứng dồi dào cho thị trường trong nước, nhưng có góp gián tiếp. Lập luận của Smith như sau. Dù nguồn cung đến từ đâu, từ sản xuất trong nước hay từ nhập khẩu, trừ khi người ta thường xuyên trồng hoặc nhập nhiều hơn lượng thường tiêu dùng trong nước, thị trường trong nước không bao giờ được cung dồi dào.
+
+Nhưng trừ khi phần thừa có thể được xuất khẩu trong mọi trường hợp thông thường, người trồng sẽ cẩn thận không trồng thêm, người nhập sẽ không nhập thêm, ngoài mức mà thị trường trong nước cần. Thị trường đó vì vậy hiếm khi bị đầy, mà thường thiếu, vì những người có nghề cung cấp nó thường lo hàng của mình còn ế trong tay.
 
 Vì vậy, cấm xuất khẩu giới hạn sự cải thiện và canh tác của đất nước ở mức vừa đủ cung cho dân trong nước. Tự do xuất khẩu cho phép mở rộng canh tác để cung cho cả nước ngoài, và chính phần dư đó là tấm đệm cho thị trường trong nước trong năm kém.
 
@@ -909,7 +929,9 @@ Smith trả lời lời biện hộ cuối cùng: rằng nước Anh thịnh vư
 
 Nguyên nhân thật là sự bảo đảm mà luật pháp Anh dành cho mọi người rằng họ được hưởng thành quả lao động của chính mình. Riêng sự bảo đảm ấy đủ để làm bất kỳ nước nào thịnh vượng, bất chấp các quy định thương mại vô lý kia. Và sự bảo đảm ấy được hoàn thiện bởi cuộc Cách mạng năm 1688, gần cùng thời điểm với việc lập trợ cấp.
 
-Smith phát biểu một trong những câu nổi tiếng nhất của sách: nỗ lực tự nhiên của mỗi cá nhân nhằm cải thiện điều kiện của chính mình, khi được thực hiện trong tự do và an toàn, là một nguyên lý mạnh tới mức một mình nó, không cần bất kỳ trợ giúp nào, không chỉ đưa được xã hội tới giàu có và thịnh vượng, mà còn vượt qua được hàng trăm trở ngại vô lý mà sự điên rồ của luật pháp con người thường đặt lên hoạt động của nó. Dù vậy, tác động của các trở ngại ấy luôn ít nhiều xâm phạm tự do của nó hoặc làm giảm sự an toàn của nó. Ở Anh, công nghiệp được bảo đảm hoàn toàn; dù không hoàn toàn tự do, nó vẫn tự do như, hoặc hơn, ở bất kỳ nơi nào khác ở châu Âu.
+Smith phát biểu một trong những câu nổi tiếng nhất của sách: nỗ lực tự nhiên của mỗi cá nhân nhằm cải thiện điều kiện của chính mình, khi được thực hiện trong tự do và an toàn, là một nguyên lý mạnh tới mức một mình nó, không cần bất kỳ trợ giúp nào, không chỉ đưa được xã hội tới giàu có và thịnh vượng, mà còn vượt qua được hàng trăm trở ngại vô lý mà sự điên rồ của luật pháp con người thường đặt lên hoạt động của nó.
+
+Dù vậy, tác động của các trở ngại ấy luôn ít nhiều xâm phạm tự do của nó hoặc làm giảm sự an toàn của nó. Ở Anh, công nghiệp được bảo đảm hoàn toàn; dù không hoàn toàn tự do, nó vẫn tự do như, hoặc hơn, ở bất kỳ nơi nào khác ở châu Âu.
 
 Smith thêm một nhận xét về lập luận nhân quả. Thời kỳ thịnh vượng lớn nhất của Anh đến sau hệ thống luật về trợ cấp, nhưng không thể vì thế mà gán nó cho các luật ấy. Nó cũng đến sau nợ công, nhưng nợ công chắc chắn không phải nguyên nhân của thịnh vượng. Xảy ra sau không có nghĩa là do cái trước gây ra.
 
@@ -1145,16 +1167,231 @@ Phần lạc đề về ngũ cốc của Smith có lẽ là văn bản kinh tế
 
 **Nạn đói 1945 là trường hợp Smith mô tả.** Nạn đói Ất Dậu, với khoảng một tới hai triệu người chết ở miền Bắc, xảy ra trong một nước mà đồng bằng sông Cửu Long vẫn sản xuất dư gạo. Nguyên nhân chính không phải chỉ mất mùa mà là chính sách: trưng thu lúa gạo bắt buộc của chính quyền Pháp và Nhật, buộc nhổ lúa trồng đay, và việc vận chuyển gạo từ Nam ra Bắc bị gián đoạn. Đúng câu của Smith về Bengal: những quy định sai và hạn chế không phù hợp đã biến một sự khan hiếm thành nạn đói. Thêm vào đó, cơ chế của Sen cũng có mặt: người nghèo ở nông thôn mất sức mua khi giá gạo tăng vọt.
 
-**Thời bao cấp là thí nghiệm về luật Edward VI.** Việc ngăn sông cấm chợ, cấm tư thương buôn lúa gạo giữa các tỉnh, thu mua theo giá chỉ đạo thấp hơn giá thị trường, là bản sao gần như nguyên vẹn của chính sách cũ mà Smith phê phán: xoá bỏ người trung gian, buộc người sản xuất bán cho một kênh duy nhất, ép giá. Kết quả cũng đúng như Smith dự báo: thiếu lương thực và phải nhập khẩu lương thực từ cuối thập niên 1970 tới năm 1988. Đổi Mới, với khoán 10 (giao đất cho hộ, cho hộ bán phần dư) và bỏ ngăn sông cấm chợ, chính là khôi phục "tự do buôn ngũ cốc nội địa" của Smith, và Việt Nam chuyển từ nhập khẩu sang xuất khẩu gạo chỉ trong vài năm từ cuối thập niên 1980. Hiếm có thí nghiệm tự nhiên nào xác nhận phần lạc đề này rõ như vậy.
+**Thời bao cấp là thí nghiệm về luật Edward VI.** Việc ngăn sông cấm chợ, cấm tư thương buôn lúa gạo giữa các tỉnh, thu mua theo giá chỉ đạo thấp hơn giá thị trường, là bản sao gần như nguyên vẹn của chính sách cũ mà Smith phê phán: xoá bỏ người trung gian, buộc người sản xuất bán cho một kênh duy nhất, ép giá.
 
-**Hạn chế xuất khẩu gạo: lập luận "nước lớn" của Smith.** Năm 2008, khi giá lương thực thế giới tăng vọt, Việt Nam tạm hạn chế xuất khẩu gạo. Đầu năm 2020, trước lo ngại về dịch bệnh, Việt Nam tạm dừng rồi áp hạn ngạch xuất khẩu gạo trong một thời gian ngắn. Smith sẽ nói gì? Ông thừa nhận hạn chế xuất có thể cần cho một nước nhỏ, nhưng với một nước lớn có sản lượng vượt xa tiêu dùng, nó không cần thiết; và mức giá kích hoạt cấm xuất phải rất cao. Gạo xuất khẩu chiếm khoảng 1/3 sản lượng gạo quy đổi, cao hơn nhiều tỷ lệ 1/31 của nước Anh thời Smith. Nhưng sản lượng vẫn vượt xa nhu cầu trong nước, nên Việt Nam vẫn thuộc nhóm "nước lớn" theo nghĩa của Smith: phần dư đủ lớn để xuất khẩu không đe doạ nguồn cung trong nước. Hai lần hạn chế đều gây thiệt cho nông dân và doanh nghiệp đúng lúc giá thế giới cao nhất, tức lúc họ lẽ ra được lợi nhiều nhất, và gửi tín hiệu xấu cho người mua về độ tin cậy của nguồn cung. Lập luận của Smith còn có một tầng thứ hai rất thời sự: chính sách hạn chế của một nước làm hệ thống tốt ở nước khác trở nên nguy hiểm. Khi Ấn Độ, nước xuất khẩu gạo lớn nhất, cấm xuất gạo trắng thường từ năm 2023 tới 2024, giá thế giới tăng mạnh và các nước nhập khẩu bị đẩy vào hoảng loạn, đúng cơ chế Smith mô tả.
+Kết quả cũng đúng như Smith dự báo: thiếu lương thực và phải nhập khẩu lương thực từ cuối thập niên 1970 tới năm 1988. Đổi Mới, với khoán 10 (giao đất cho hộ, cho hộ bán phần dư) và bỏ ngăn sông cấm chợ, chính là khôi phục "tự do buôn ngũ cốc nội địa" của Smith, và Việt Nam chuyển từ nhập khẩu sang xuất khẩu gạo chỉ trong vài năm từ cuối thập niên 1980. Hiếm có thí nghiệm tự nhiên nào xác nhận phần lạc đề này rõ như vậy.
 
-**Tạm trữ lúa gạo và dự trữ lưu thông: Smith vừa đồng tình vừa cảnh báo.** Chương trình thu mua tạm trữ lúa gạo, trong đó nhà nước hỗ trợ lãi suất để doanh nghiệp mua và giữ gạo khi giá xuống thấp vào chính vụ, có cùng chức năng với "nhà buôn nội địa" của Smith: giãn cung qua thời gian. Smith sẽ đồng ý với chức năng ấy, nhưng sẽ hỏi hai câu. Thứ nhất, nếu việc giữ hàng có lãi thì vì sao cần nhà nước trả lãi suất; nếu nó không có lãi thì có thể đó là một trợ cấp giữ giá, với đúng gánh nặng ẩn lên người tiêu dùng mà phép tính 5 shilling chỉ ra. Thứ hai, lợi ích chảy về đâu: nhiều đánh giá về các đợt tạm trữ cho thấy doanh nghiệp xuất khẩu được hưởng phần lớn hỗ trợ trong khi giá lúa tại ruộng không tăng tương xứng, đúng nhận xét của Smith rằng người được lợi thật từ chính sách giá ngũ cốc là nhà buôn ngũ cốc chứ không phải người trồng. Tương tự, yêu cầu doanh nghiệp xuất khẩu gạo phải có kho, cơ sở xay xát và duy trì một tỷ lệ dự trữ lưu thông tối thiểu là một dạng bắt buộc người buôn giữ hàng thay nhà nước; nó có lý khi thị trường thiếu cạnh tranh, nhưng nó cũng là rào cản gia nhập bảo vệ các doanh nghiệp lớn hiện có.
+**Hạn chế xuất khẩu gạo: lập luận "nước lớn" của Smith.** Năm 2008, khi giá lương thực thế giới tăng vọt, Việt Nam tạm hạn chế xuất khẩu gạo. Đầu năm 2020, trước lo ngại về dịch bệnh, Việt Nam tạm dừng rồi áp hạn ngạch xuất khẩu gạo trong một thời gian ngắn.
+
+Smith sẽ nói gì? Ông thừa nhận hạn chế xuất có thể cần cho một nước nhỏ, nhưng với một nước lớn có sản lượng vượt xa tiêu dùng, nó không cần thiết; và mức giá kích hoạt cấm xuất phải rất cao. Gạo xuất khẩu chiếm khoảng 1/3 sản lượng gạo quy đổi, cao hơn nhiều tỷ lệ 1/31 của nước Anh thời Smith. Nhưng sản lượng vẫn vượt xa nhu cầu trong nước, nên Việt Nam vẫn thuộc nhóm "nước lớn" theo nghĩa của Smith: phần dư đủ lớn để xuất khẩu không đe doạ nguồn cung trong nước.
+
+Hai lần hạn chế đều gây thiệt cho nông dân và doanh nghiệp đúng lúc giá thế giới cao nhất, tức lúc họ lẽ ra được lợi nhiều nhất, và gửi tín hiệu xấu cho người mua về độ tin cậy của nguồn cung. Lập luận của Smith còn có một tầng thứ hai rất thời sự: chính sách hạn chế của một nước làm hệ thống tốt ở nước khác trở nên nguy hiểm. Khi Ấn Độ, nước xuất khẩu gạo lớn nhất, cấm xuất gạo trắng thường từ năm 2023 tới 2024, giá thế giới tăng mạnh và các nước nhập khẩu bị đẩy vào hoảng loạn, đúng cơ chế Smith mô tả.
+
+**Tạm trữ lúa gạo và dự trữ lưu thông: Smith vừa đồng tình vừa cảnh báo.** Chương trình thu mua tạm trữ lúa gạo, trong đó nhà nước hỗ trợ lãi suất để doanh nghiệp mua và giữ gạo khi giá xuống thấp vào chính vụ, có cùng chức năng với "nhà buôn nội địa" của Smith: giãn cung qua thời gian.
+
+Smith sẽ đồng ý với chức năng ấy, nhưng sẽ hỏi hai câu. Thứ nhất, nếu việc giữ hàng có lãi thì vì sao cần nhà nước trả lãi suất; nếu nó không có lãi thì có thể đó là một trợ cấp giữ giá, với đúng gánh nặng ẩn lên người tiêu dùng mà phép tính 5 shilling chỉ ra. Thứ hai, lợi ích chảy về đâu: nhiều đánh giá về các đợt tạm trữ cho thấy doanh nghiệp xuất khẩu được hưởng phần lớn hỗ trợ trong khi giá lúa tại ruộng không tăng tương xứng, đúng nhận xét của Smith rằng người được lợi thật từ chính sách giá ngũ cốc là nhà buôn ngũ cốc chứ không phải người trồng.
+
+Tương tự, yêu cầu doanh nghiệp xuất khẩu gạo phải có kho, cơ sở xay xát và duy trì một tỷ lệ dự trữ lưu thông tối thiểu là một dạng bắt buộc người buôn giữ hàng thay nhà nước; nó có lý khi thị trường thiếu cạnh tranh, nhưng nó cũng là rào cản gia nhập bảo vệ các doanh nghiệp lớn hiện có.
 
 **Trợ cấp xuất khẩu và hoàn thuế VAT.** Trước khi gia nhập WTO năm 2007, Việt Nam có các hình thức thưởng xuất khẩu theo kim ngạch và hỗ trợ lãi suất cho xuất khẩu, đúng loại trợ cấp xuất khẩu Smith phê phán, và đã bỏ chúng theo cam kết gia nhập. Điều đáng nói là theo logic của Smith, việc bỏ này là vì lợi ích của chính Việt Nam chứ không chỉ là nhượng bộ. Ranh giới mà Smith vẽ giữa hoàn thuế (được phép) và trợ cấp (không nên) chính là ranh giới giữa hoàn thuế VAT xuất khẩu và thưởng xuất khẩu: cái thứ nhất trả lại đúng cái đã thu, cái thứ hai trả thêm.
 
-**Tàu vỏ thép: nghề cá trích Scotland ở thế kỷ XXI.** Chương trình tín dụng ưu đãi đóng tàu cá vỏ thép công suất lớn theo Nghị định 67/2014 có cấu trúc gần như trùng khớp với trợ cấp nghề cá trích mà Smith phân tích. Lý lẽ kép giống hệt: phát triển nghề cá xa bờ và tăng hiện diện trên biển, tức đúng lý lẽ "hạm đội thường trực" mà Smith nêu ra rồi bác bỏ trong trường hợp cá trích (ông chỉ chấp nhận ngoại lệ quốc phòng cho vải buồm và thuốc súng). Thiết kế hỗ trợ theo đầu vào (đóng tàu lớn) chứ không theo kết quả. Và kết cục cũng có nhiều điểm giống: nhiều tàu gặp vấn đề chất lượng, nhiều chủ tàu không trả được nợ, một số tàu nằm bờ vì không đánh bắt có lãi. Bốn câu hỏi của Smith với nghề cá trích là bộ câu hỏi đánh giá đúng cho chương trình này: chi phí ngân sách trên mỗi tấn cá thực tế bắt được là bao nhiêu; hỗ trợ có gắn với sản lượng hay chỉ với trọng tải và công suất; công nghệ có phù hợp ngư trường và tay nghề ngư dân không; và người nhận có thực sự hiểu nghề mình được hỗ trợ để làm hay không. Thêm vào đó là câu hỏi Smith chỉ thoáng chạm tới khi nói cá trích có thể đã ít đi: tăng năng lực đánh bắt bằng trợ cấp trên một nguồn lợi có hạn làm cạn kiệt nguồn lợi, đúng lý do WTO có hiệp định riêng hạn chế trợ cấp nghề cá.
+**Tàu vỏ thép: nghề cá trích Scotland ở thế kỷ XXI.** Chương trình tín dụng ưu đãi đóng tàu cá vỏ thép công suất lớn theo Nghị định 67/2014 có cấu trúc gần như trùng khớp với trợ cấp nghề cá trích mà Smith phân tích. Lý lẽ kép giống hệt: phát triển nghề cá xa bờ và tăng hiện diện trên biển, tức đúng lý lẽ "hạm đội thường trực" mà Smith nêu ra rồi bác bỏ trong trường hợp cá trích (ông chỉ chấp nhận ngoại lệ quốc phòng cho vải buồm và thuốc súng).
 
-**Con đập vàng.** Cuối cùng, hình ảnh con đập áp dụng trực tiếp vào thị trường vàng Việt Nam, theo chiều ngược với Tây Ban Nha. Cơ chế nhà nước độc quyền sản xuất vàng miếng theo Nghị định 24/2012 và việc hạn chế nhập khẩu vàng nguyên liệu đã dựng lên một con đập chặn dòng vào. Kết quả đúng như mô hình: giá vàng miếng trong nước có những giai đoạn cao hơn giá thế giới quy đổi trên 20%, và một phần dòng chảy đi qua kênh lậu. Khi ngân hàng trung ương tăng cung vàng miếng ra thị trường năm 2024, khoảng chênh thu hẹp nhanh, đúng như mở cửa đập làm hai mực nước tiến về nhau. Nghị định 232/2025 (hiệu lực 10/10/2025) sửa Nghị định 24/2012, bỏ độc quyền và cho doanh nghiệp, ngân hàng đủ điều kiện sản xuất vàng miếng và nhập khẩu vàng nguyên liệu, tức là hạ thấp chính mặt đập. Bài học của Smith là chiều cao của đập quyết định độ lệch, còn dòng chảy dài hạn không do đập quyết định mà do nhu cầu.
+Thiết kế hỗ trợ theo đầu vào (đóng tàu lớn) chứ không theo kết quả. Và kết cục cũng có nhiều điểm giống: nhiều tàu gặp vấn đề chất lượng, nhiều chủ tàu không trả được nợ, một số tàu nằm bờ vì không đánh bắt có lãi.
+
+Bốn câu hỏi của Smith với nghề cá trích là bộ câu hỏi đánh giá đúng cho chương trình này: chi phí ngân sách trên mỗi tấn cá thực tế bắt được là bao nhiêu; hỗ trợ có gắn với sản lượng hay chỉ với trọng tải và công suất; công nghệ có phù hợp ngư trường và tay nghề ngư dân không; và người nhận có thực sự hiểu nghề mình được hỗ trợ để làm hay không. Thêm vào đó là câu hỏi Smith chỉ thoáng chạm tới khi nói cá trích có thể đã ít đi: tăng năng lực đánh bắt bằng trợ cấp trên một nguồn lợi có hạn làm cạn kiệt nguồn lợi, đúng lý do WTO có hiệp định riêng hạn chế trợ cấp nghề cá.
+
+**Con đập vàng.** Cuối cùng, hình ảnh con đập áp dụng trực tiếp vào thị trường vàng Việt Nam, theo chiều ngược với Tây Ban Nha. Cơ chế nhà nước độc quyền sản xuất vàng miếng theo Nghị định 24/2012 và việc hạn chế nhập khẩu vàng nguyên liệu đã dựng lên một con đập chặn dòng vào. Kết quả đúng như mô hình: giá vàng miếng trong nước có những giai đoạn cao hơn giá thế giới quy đổi trên 20%, và một phần dòng chảy đi qua kênh lậu.
+
+Khi ngân hàng trung ương tăng cung vàng miếng ra thị trường năm 2024, khoảng chênh thu hẹp nhanh, đúng như mở cửa đập làm hai mực nước tiến về nhau. Nghị định 232/2025 (hiệu lực 10/10/2025) sửa Nghị định 24/2012, bỏ độc quyền và cho doanh nghiệp, ngân hàng đủ điều kiện sản xuất vàng miếng và nhập khẩu vàng nguyên liệu, tức là hạ thấp chính mặt đập. Bài học của Smith là chiều cao của đập quyết định độ lệch, còn dòng chảy dài hạn không do đập quyết định mà do nhu cầu.
 
 **Tổng hợp.** Bài học lớn nhất của chương này cho Việt Nam là thứ tự ưu tiên mà Smith xác lập bằng hai con số 1/570 và 1/31: thị trường nội địa quan trọng hơn xuất khẩu nhiều lần đối với cả an ninh lương thực lẫn thu nhập người trồng. Với gạo, điều đó có nghĩa là đầu tư vào hạ tầng kho bãi, giao thông và thông tin giá giữa các vùng, giảm chi phí trung gian bằng cạnh tranh thay vì bằng xoá bỏ trung gian, và để giá truyền tín hiệu, sẽ làm nhiều hơn cho cả nông dân lẫn người tiêu dùng so với mọi khoản hỗ trợ xuất khẩu hay hạn chế xuất khẩu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển IV, Chương V trên một trang: bảy nhánh lớn đi theo các mục 1–40 của phần Nội dung chi tiết (lý thuyết chung về trợ cấp xuất khẩu, hai thứ thuế và con đập vàng bạc, ai được lợi cùng trợ cấp sản xuất và các ngoại lệ, nghề cá trích, nhánh I của phần lạc đề về buôn ngũ cốc, các nhánh II–IV và luật 1773), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và số liệu then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển IV, Chương V: trợ cấp xuất khẩu đẩy vốn vào kênh thua lỗ, còn tự do buôn ngũ cốc là cách tốt nhất ngăn đói`"]
+  n1["`Mục 1–5 — Phép thử lợi nhuận thông thường: ngành cần trợ cấp là ngành bán lỗ`"]
+  n0 --- n1
+  n2["`Lý lẽ trọng thương: không ép được người nước ngoài mua như ép đồng bào, nên trả tiền để họ mua`"]
+  n1 --- n2
+  n3["`Ngành bán được giá bù vốn cộng lợi nhuận thông thường thì không cần trợ cấp`"]
+  n1 --- n3
+  n4["`Trợ cấp chỉ ép thương mại vào kênh kém lợi hơn kênh nó tự chọn, mỗi vòng ăn mòn một phần vốn`"]
+  n1 --- n4
+  n5["`Ví dụ giả định: tấm vải tốn 100s, cần bán 110s, nước ngoài trả 100s, phần thiệt 10s chuyển sang người nộp thuế`"]
+  n1 --- n5
+  n6["`Ngụy biện của tác giả các tiểu luận về ngũ cốc: xuất vượt nhập nhiều hơn tổng trợ cấp`"]
+  n1 --- n6
+  n7["`Smith: trợ cấp là phần nhỏ nhất chi phí, phải tính cả vốn trồng trọt cộng lợi nhuận thông thường`"]
+  n6 --- n7
+  n8["`Giá ngũ cốc cũng giảm ở Pháp, nơi cấm xuất tới 1764: nguyên nhân là giá trị thực của bạc tăng`"]
+  n1 --- n8
+  n9["`Năm được mùa trợ cấp nâng giá trong nước, năm mất mùa thiếu dự trữ vì dư thừa đã bị xuất mất`"]
+  n1 --- n9
+  n10["`Mở rộng thị trường nước ngoài nhờ trợ cấp phải trả bằng thị trường trong nước`"]
+  n1 --- n10
+  n11["`Mục 6–10 — Trợ cấp ngũ cốc đánh hai thứ thuế nhưng chỉ làm bạc mất giá trong nước`"]
+  n0 --- n11
+  n12["`Hai thứ thuế: thuế để trả trợ cấp và thuế ẩn qua giá ngũ cốc trong nước cao hơn`"]
+  n11 --- n12
+  n13["`Trợ cấp 5s mỗi quarter xuất, giả định nâng giá trong nước 6d mỗi bushel, tức 4s mỗi quarter`"]
+  n11 --- n13
+  n14["`Xuất bằng 1/31 tiêu dùng: cứ 5s thuế thứ nhất, dân trả 31 × 4s = £6 4s thuế thứ hai, gấp gần 25 lần`"]
+  n13 --- n14
+  n15["`Người nghèo ăn kém đi (hạn chế dân số) hoặc tiền công phải tăng (hạn chế ngành nghề)`"]
+  n11 --- n15
+  n16["`Ngũ cốc là hàng điều tiết: giá ngũ cốc quyết định tiền công, giá sản phẩm thô, rồi giá hàng chế tạo`"]
+  n11 --- n16
+  n17["`Nông dân bán 4s thay 3s 6d một bushel, nhưng 4s chỉ mua được hàng bằng 3s 6d trước: không ai khá hơn`"]
+  n11 --- n17
+  n18["`Bạc mất giá chung do mỏ thì không ai thiệt, mất giá riêng một nước do thể chế thì dân nghèo đi thật`"]
+  n11 --- n18
+  n19["`Con đập: Tây Ban Nha đánh thuế, Bồ Đào Nha cấm xuất vàng bạc, nhưng xuất hằng năm ≈ nhập hằng năm`"]
+  n11 --- n19
+  n20["`Nước sau đập sâu hơn: tồn kho vàng bạc lớn hơn, hàng hoá đắt, nông nghiệp và chế tạo nản`"]
+  n19 --- n20
+  n21["`Mở đập: thiệt hại chỉ danh nghĩa, vàng bạc đổi lấy vật liệu, công cụ, lương thực, sản phẩm tăng`"]
+  n19 --- n21
+  n22["`Trợ cấp ngũ cốc Anh là cùng chính sách: người Hà Lan ăn ngũ cốc Anh rẻ hơn người Anh, lợi thế kép`"]
+  n11 --- n22
+  n23["`Mục 11–14 và 21–23 — Ai được lợi, trợ cấp sản xuất và các ngoại lệ`"]
+  n0 --- n23
+  n24["`Nông dân, địa chủ được thêm tiền nhưng tiền mất giá: lợi ích chỉ danh nghĩa và tưởng tượng`"]
+  n23 --- n24
+  n25["`Người được lợi thật là nhà buôn xuất nhập khẩu ngũ cốc, nhóm nhiệt tình nhất đòi trợ cấp`"]
+  n23 --- n25
+  n26["`Địa chủ bắt chước nhà sản xuất: len, vải lanh được độc quyền thì bán giá cao hơn, ngũ cốc chỉ tăng giá danh nghĩa`"]
+  n23 --- n26
+  n27["`Lời phản bác chung: ép công nghiệp vào kênh thua lỗ. Lời phản bác riêng: không thúc đẩy được chính sản xuất ngũ cốc`"]
+  n23 --- n27
+  n28["`Trợ cấp sản xuất ít tệ hơn: chỉ một thuế, hạ giá trong nước, nhưng hiếm vì nhà buôn không muốn hàng ùn ứ`"]
+  n23 --- n28
+  n29["`Có nhà buôn ngầm tự góp tiền trợ cấp xuất, giá trong nước tăng hơn gấp đôi`"]
+  n23 --- n29
+  n30["`Quốc phòng: trợ cấp xuất vải buồm, thuốc súng có thể biện minh`"]
+  n23 --- n30
+  n31["`Đường tinh, lụa, thuốc súng gọi là trợ cấp nhưng thực là hoàn thuế đường thô, tơ sống, lưu huỳnh và diêm tiêu`"]
+  n23 --- n31
+  n32["`Giải thưởng cho người xuất sắc rất nhỏ, còn trợ cấp ngũ cốc có năm tốn hơn £300.000`"]
+  n23 --- n32
+  n33["`Phải xét bản chất sự vật, không xét tên gọi`"]
+  n23 --- n33
+  n34["`Mục 15–20 — Trợ cấp nghề cá trích: nhà lập pháp bị lừa vì bốn lý do`"]
+  n0 --- n34
+  n35["`Lý lẽ: trợ cấp theo trọng tải tăng thuỷ thủ, rẻ hơn nuôi một hạm đội thường trực`"]
+  n34 --- n35
+  n36["`Quá lớn: 1771–1781, 30s mỗi tấn, 378.347 thùng ướp thành 252.231 thùng bán được`"]
+  n34 --- n36
+  n37["`Cộng muối miễn thuế và trợ cấp xuất 2s 8d: ngân sách chi £1 3s 9¾d tới £1 7s 5¾d mỗi thùng muối ngoại`"]
+  n36 --- n37
+  n38["`Giá một thùng chỉ khoảng 1 guinea (21s): nhà nước mua cá rồi cho không còn tốn ít hơn`"]
+  n36 --- n38
+  n39["`Theo trọng tải chứ không sản lượng: năm 1759 trợ cấp 50s mỗi tấn, cả nghề mang về 4 thùng, £113 15s mỗi thùng ướp`"]
+  n34 --- n39
+  n40["`Sai công nghệ: tàu boong 20–80 tấn kiểu Hà Lan, trong khi cá trích Scotland tụ trong hồ biển sát bờ`"]
+  n34 --- n40
+  n41["`Sai mục tiêu: phá sản nghề thuyền nhỏ, đẩy hơn 2/3 cá ra nước ngoài, giá thùng từ 15s lên khoảng 25s`"]
+  n34 --- n41
+  n42["`Công ty cổ phần 1750 vốn £500.000, cổ đông được 3% mỗi năm trong 14 năm, hầu hết mất vốn`"]
+  n34 --- n42
+  n43["`Mục 24–34 — Lạc đề, nhánh I: lợi ích nhà buôn ngũ cốc nội địa trùng lợi ích dân`"]
+  n0 --- n43
+  n44["`Nâng giá quá cao thì thừa cuối vụ, nâng không đủ thì dân đói trước cuối vụ: nhà buôn lợi khi định giá đúng`"]
+  n43 --- n44
+  n45["`Như thuyền trưởng khôn ngoan giảm khẩu phần khi lương thực sắp cạn`"]
+  n43 --- n45
+  n46["`Độc quyền ngũ cốc gần như không thể: quá lớn để mua vét, quá phân tán, quá nhiều người bán`"]
+  n43 --- n46
+  n47["`Khan hiếm do mất mùa, chiến tranh, nạn đói chỉ do chính phủ dùng biện pháp sai, như ở Bengal`"]
+  n43 --- n47
+  n48["`Ép giá: hàng không ra chợ (đói đầu mùa) hoặc dân tiêu dùng quá nhanh (đói trước cuối mùa)`"]
+  n43 --- n48
+  n49["`Luật Edward VI: mua để bán lại là engrosser, lần thứ ba bị gông và tịch thu toàn bộ`"]
+  n43 --- n49
+  n50["`Buộc chủ trại kiêm buôn ngũ cốc chia vốn, ít vốn canh tác, ngũ cốc khan và đắt hơn`"]
+  n43 --- n50
+  n51["`Nhà sản xuất kiêm bán lẻ phải lãi 10% + 10% = 20% trên món hàng của hai khoản vốn, không bán rẻ hơn được`"]
+  n50 --- n51
+  n52["`Nhà buôn ngũ cốc hỗ trợ chủ trại như nhà buôn sỉ hỗ trợ nhà sản xuất: mua ngay, ứng tiền, cứu khi gặp nạn`"]
+  n43 --- n52
+  n53["`Luật 15 Charles II còn hai định kiến: ngưỡng 48s và cấm bán lại ở cùng chợ trong ba tháng`"]
+  n43 --- n53
+  n54["`Sợ mua vét, mua chặn như sợ phù thuỷ: bỏ truy tố là xoá được nỗi sợ`"]
+  n43 --- n54
+  n55["`Nhập không vượt 1/570 tiêu dùng, xuất không vượt 1/31 sản lượng: nội thương quan trọng hơn nhiều`"]
+  n43 --- n55
+  n56["`Mục 35–40 — Nhánh II–IV, vì sao Anh vẫn giàu, và luật 1773`"]
+  n0 --- n56
+  n57["`Nhập khẩu hạ giá tiền, không hạ giá thực, làm bạc lên giá và mở rộng thị trường trong nước cho ngũ cốc`"]
+  n56 --- n57
+  n58["`Luật 22 Charles II: thuế 16s khi lúa mì ≤ 53s 4d, gần như cấm, phải đình chỉ bằng luật tạm thời năm đói`"]
+  n56 --- n58
+  n59["`Có trợ cấp thì hạn chế nhập thành cần, để chặn nhập miễn thuế rồi tái xuất lấy trợ cấp`"]
+  n56 --- n59
+  n60["`Xuất khẩu góp gián tiếp: cho phép trồng dư, còn cấm xuất giới hạn canh tác ở mức vừa đủ`"]
+  n56 --- n60
+  n61["`Lợi ích nhà xuất khẩu có thể ngược dân khi chở ngũ cốc sang láng giềng đang đói`"]
+  n56 --- n61
+  n62["`Nước lớn như Anh, Pháp hiếm khi cần hạn chế xuất, mức giá cấm xuất nếu có phải rất cao`"]
+  n56 --- n62
+  n63["`Luật ngũ cốc như luật tôn giáo: chính phủ phải chiều định kiến của dân`"]
+  n56 --- n63
+  n64["`Chuyển tải biến đất nước thành kho chứa ngũ cốc, nhưng ở Anh bị cấm trong mọi trường hợp`"]
+  n56 --- n64
+  n65["`Anh giàu nhờ bảo đảm hưởng thành quả lao động (Cách mạng 1688), không nhờ luật trợ cấp`"]
+  n56 --- n65
+  n66["`Iberia nghèo vì con đập mạnh hơn trên dòng hơn £6 triệu mỗi năm, và thiếu tự do, an toàn`"]
+  n56 --- n66
+  n67["`Luật 1773: bỏ thuế nhập cao khi lúa mì ≥ 48s, trợ cấp ngừng ở 44s, cho chuyển tải qua 25 cảng`"]
+  n56 --- n67
+  n68["`Điểm xấu: trợ cấp mới 2s cho yến mạch, cấm xuất ở mức quá thấp (lúa mì 44s)`"]
+  n67 --- n68
+  n69["`Như luật của Solon: không tốt nhất, nhưng tốt nhất mà thời đại cho phép`"]
+  n67 --- n69
+  n70["`Thông điệp xuyên suốt`"]
+  n0 --- n70
+  n71["`Chi phí xã hội của trợ cấp là toàn bộ chi phí trừ giá bán ở nước ngoài, không chỉ khoản ngân sách`"]
+  n70 --- n71
+  n72["`Trợ cấp, nếu có, phải gắn với kết quả chứ không với đầu vào`"]
+  n70 --- n72
+  n73["`Tự do buôn ngũ cốc trong nước, nhập tự do, chỉ cấm xuất ở giá rất cao là cách tốt nhất chống đói`"]
+  n70 --- n73
+  n74["`Nỗ lực tự nhiên cải thiện điều kiện của mình, trong tự do và an toàn, vượt qua trăm trở ngại của luật pháp`"]
+  n70 --- n74
+  class n0 root
+  class n1,n11,n23,n34,n43,n56,n70 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n69,n71,n72,n73,n74 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương V. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 479–517.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Đây là công cụ thứ tư trong sáu công cụ của hệ thống trọng thương mà Smith liệt kê ở Quyển IV, Chương I, và là công cụ khuyến khích xuất khẩu thứ hai sau hoàn thuế. Chương IV đã cho thấy hoàn thuế hợp lý vì nó chỉ trả lại cái thuế đã lấy. Chương V cho thấy trợ cấp xuất khẩu thì ngược lại: nó trả thêm cái thị trường không trả, nên đẩy vốn vào những ngành thua lỗ.
+
+Chương dựa vào ba kết quả trước đó: lý thuyết giá tự nhiên ở Quyển I, Chương VII (giá phải đủ bù tiền công, lợi nhuận, địa tô theo mức thông thường); phần lạc đề về giá trị bạc ở Quyển I, Chương XI (giá ngũ cốc thế kỷ XVIII giảm vì giá trị thực của bạc tăng, và ngũ cốc là thước đo giá trị thực ổn định nhất); và lý thuyết phân bổ vốn ở Quyển IV, Chương II.
+
+Phần lạc đề về buôn bán ngũ cốc là phân tích thị trường dài nhất của cả Quyển IV và chuẩn bị cho Chương VI–VIII về hiệp ước thương mại, thuộc địa và kết luận về hệ thống trọng thương.
+
+## Lưu ý
+
+- Bản dịch đặt tên chương là "Tiền thưởng" và dùng lẫn lộn "tiền thưởng khuyến khích", "tiền trợ cấp xuất khẩu" cho *bounty*. Nghĩa kinh tế đúng là **trợ cấp** (xuất khẩu hoặc sản xuất), một khoản nhà nước trả cho mỗi đơn vị hàng xuất. "Corn" được dịch lúc là "ngũ cốc", lúc là "thóc lúa"; trong tiếng Anh thời Smith *corn* là ngũ cốc nói chung, chủ yếu lúa mì, không phải lúa gạo.
+- Một số lỗi làm sai nghĩa:
+  - Đoạn so sánh với hàng len, vải lanh bị dịch **ngược**: nguyên văn nói độc quyền thị trường trong nước cho phép nhà sản xuất len và vải lanh bán hàng **với giá cao hơn** mức lẽ ra bán được, bản dịch viết "bán với giá rẻ hơn".
+  - *Quarter* được dịch là "góc tạ Anh (bằng 12,7 kg)"; một quarter là 8 bushel, tức khoảng 290 lít, với lúa mì khoảng 218 kg.
+  - Số muối "936.974 giá với giá 84 bảng Anh 1 giá" và "56 bảng Anh một giá" sai: đó là 84 và 56 **pound khối lượng** (lb) mỗi bushel, không phải tiền; và 936.974 bushel là lượng **muối ngoại nhập vào Scotland**.
+  - "Tiền thuế đóng cho nhà vua phải tính theo trọng lượng pound (450 gam)" sai: *poundage* là một khoản thuế tính theo **giá trị** (bao nhiêu penny trên mỗi bảng Anh giá trị), không theo khối lượng.
+  - Câu về luật nhập khẩu năm 22 Charles II bị đảo: nghĩa đúng là cho tới khi giá lúa mì vượt £4, nhập khẩu chịu thuế rất cao, và cho tới khi vượt 53s 4d thì chịu thuế cao tới mức cấm.
+  - "Cái giá phải trả cho việc ngăn cấm xuất khẩu... là một cái giá rất cao phải trả" sai nghĩa: nguyên văn là **mức giá ngũ cốc tại đó xuất khẩu bị cấm, nếu có cấm, phải luôn là một mức giá rất cao**.
+  - Câu cuối về luật 1773 "đạo luật này hãy còn kém khắc khe hơn" phải là "**về điểm này, luật mới kém hơn hệ thống cũ**".
+  - Đoạn "Các khoản tiền thưởng... tùy thuộc trước hết vào sự phản đối các loại mưu ma chước quỷ" là dịch hỏng câu "trợ cấp xuất khẩu trước hết chịu **lời phản bác chung** áp dụng cho mọi **biện pháp** của hệ thống trọng thương".
+  - "Với dụng ý là không muốn cho mọi người biết được tại sao lại rẻ như vậy" phải là "**có lẽ không hiểu rõ làm thế nào** để đạt được điều đó".
+  - "Cả hai đạo luật đều phi chính trị" phải là "**thiếu khôn ngoan về chính sách** (impolitic) cũng như bất công".
+  - Câu về Tây Ban Nha và Bồ Đào Nha "mặc dù các luật lệ về thương mại ở hai nước này còn có nhiều điều tinh khôn" phải là "**dù các quy định thương mại của họ có khôn ngoan** đến đâu (trong khi phần lớn chúng vô lý)".
+  - Câu phân biệt hoàn thuế và trợ cấp trong ngôn ngữ hải quan bị dịch rối; nghĩa đúng: hàng xuất ở **cùng dạng** như khi nhập thì khoản trả lại gọi là hoàn thuế; khi đã được chế biến tới mức mang **tên mới** thì gọi là trợ cấp.
+  - Câu "Tiền thưởng khuyến khích xuất khẩu đôi khi được coi như loại tiền thưởng cho các nghệ sĩ..." phải là "**trợ cấp đôi khi được gọi là giải thưởng, cũng như hoàn thuế đôi khi được gọi là trợ cấp**".
+- Lỗi trích xuất: một chú thích của Smith về nguồn gốc các thuế nhập ngũ cốc ("Các loại thuế khác nhau này được áp đặt một phần bởi... năm 22 Charles II, thay cho Bảng thuế cũ...") bị chèn vào giữa thân văn ở phần xuất khẩu; một câu bị lặp ("Ta phải thấy rằng hậu quả của một nạn khan hiếm thóc lúa"); và "trọng tài" là lỗi gõ của "trọng tải".

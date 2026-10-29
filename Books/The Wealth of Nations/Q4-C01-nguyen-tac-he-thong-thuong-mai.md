@@ -1,11 +1,20 @@
 # Quyển IV, Chương I — Nguyên tắc chi phối hệ thống thương mại (Of the Principle of the commercial, or mercantile System)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV (Of Systems of Political Oeconomy), Lời giới thiệu và Chương I. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 402 (Lời giới thiệu Quyển IV) và tr. 403–425 (Chương I).
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Ba quyển đầu dựng lên lý thuyết tích cực: của cải là sản phẩm hàng năm của đất đai và lao động (Quyển I), tăng lên nhờ phân công lao động và tích luỹ vốn (Quyển II, nơi Smith đã chứng minh tiền chỉ là "bánh xe lưu thông", một phần nhỏ và không sinh lợi của vốn xã hội), và đi theo một "trật tự tự nhiên" nông nghiệp → công nghiệp → ngoại thương mà chính sách châu Âu đã đảo ngược (Quyển III). Quyển IV chuyển sang phê phán các học thuyết đối lập. Chương này là cửa vào: nó bóc ra tiền đề gốc của phái trọng thương (của cải = vàng bạc), bác bỏ nó bằng chính lý thuyết tiền tệ của Quyển I và II, rồi liệt kê sáu công cụ chính sách sinh ra từ tiền đề ấy. Sáu chương tiếp theo (II–VII) lần lượt xử từng công cụ.
-**Ý chính:** Smith muốn chứng minh rằng tiền đề "của cải là tiền, tức vàng bạc" là một sự lẫn lộn ngôn từ giữa phương tiện và mục đích. Vàng bạc là một hàng hoá như rượu vang: một nước có phương tiện để mua thì không bao giờ thiếu, và lượng của chúng tự điều chỉnh theo "nhu cầu thực tế" (effectual demand) nhanh hơn bất kỳ hàng hoá nào vì chúng nhỏ gọn mà giá trị cao. Ông chứng minh bằng ba hướng: lý thuyết (tiền chạy theo hàng, không phải ngược lại; tích trữ vàng bạc thừa cũng vô lý như tích trữ nồi niêu thừa), thực nghiệm (luật cấm xuất kim loại của Tây Ban Nha, Bồ Đào Nha thất bại; chiến tranh Bảy năm tốn hơn 90 triệu bảng được trả bằng hàng xuất khẩu chứ không bằng vàng), và chẩn đoán (lời than "khan hiếm tiền" thực ra là triệu chứng của việc buôn bán vượt quá vốn). Lợi ích thật của ngoại thương là tiêu thụ phần dư thừa và mở rộng thị trường cho phân công lao động, không phải đem vàng về. Từ đó, toàn bộ chính sách trọng thương phải được đánh giá lại theo một tiêu chí duy nhất: nó làm tăng hay giảm giá trị sản phẩm hàng năm.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có một số chỗ làm sai hoặc mờ nghĩa. (1) Ở đoạn cuối, "drawbacks" (hoàn thuế: trả lại thuế đã nộp khi hàng xuất khẩu hoặc tái xuất) bị dịch thành "giảm thuế"/"tiền thuế quan được giảm", và "bounties" (tiền thưởng/trợ cấp xuất khẩu) dịch là "tiền thưởng", "tiền khuyến khích". (2) "Trên đây là những tỷ lệ đã thuyết phục..." là lỗi; gốc là "những lý lẽ" (arguments). (3) Câu về nước thiếu vàng bạc bị dịch rối; nghĩa gốc là: nếu vàng bạc ở một nước thiếu so với nhu cầu thực tế đến mức giá của chúng cao hơn các nước láng giềng thì chính phủ không cần nhọc công nhập, và dù có muốn ngăn nhập cũng không ngăn được. (4) Đoạn về Đông Ấn bị vỡ logic: gốc nói không cần lý do nào khác để giải thích vì sao thương mại Đông Ấn kém lợi hơn thương mại châu Mỹ ngoài việc nó bị độc quyền, trong khi thương mại giữa mỗi nước với thuộc địa châu Mỹ của mình mở cho mọi thần dân; các đặc quyền và sự che chở của chính phủ dành cho các công ty Đông Ấn gây ra nhiều **ghen tị** với các công ty này; câu mở đầu của bản dịch biến ý đó thành "Điều làm cho mọi người ham muốn các vùng đất ở Đông Ấn", đến câu sau mới dùng đúng "người ghen tị". (5) Smith viết "Plano Carpino" và nói ông là sứ giả của vua Pháp đến gặp một con trai Thành Cát Tư Hãn; bản dịch chép đúng như vậy. Thực ra Giovanni da Pian del Carpine do Giáo hoàng Innocent IV phái đi (1245–1247), đến triều Quý Do (Güyük), cháu Thành Cát Tư Hãn. (6) "Exchange" (tỷ giá hối đoái, giá hối phiếu) được dịch là "giá trao đổi"; "giá trao đổi cao" nghĩa là tỷ giá bất lợi cho nước phải trả tiền ra nước ngoài. (7) Câu "Tuy nhiên, chính phủ phải lưu ý theo dõi việc duy trì hay tăng số lượng tiền phát hành tại mỗi nước" bị dịch ngược nghĩa. Gốc nói: xét về mọi mặt, sự chú ý của chính phủ chưa bao giờ được dùng một cách thừa thãi bằng khi nhằm canh giữ việc duy trì hay tăng lượng tiền trong nước.
+Smith muốn chứng minh rằng tiền đề "của cải là tiền, tức vàng bạc" là một sự lẫn lộn ngôn từ giữa phương tiện và mục đích.
+
+Vàng bạc là một hàng hoá như rượu vang: một nước có phương tiện để mua thì không bao giờ thiếu, và lượng của chúng tự điều chỉnh theo "nhu cầu thực tế" (effectual demand) nhanh hơn bất kỳ hàng hoá nào vì chúng nhỏ gọn mà giá trị cao.
+
+Ông chứng minh bằng ba hướng:
+
+- lý thuyết (tiền chạy theo hàng, không phải ngược lại; tích trữ vàng bạc thừa cũng vô lý như tích trữ nồi niêu thừa),
+- thực nghiệm (luật cấm xuất kim loại của Tây Ban Nha, Bồ Đào Nha thất bại; chiến tranh Bảy năm tốn hơn 90 triệu bảng được trả bằng hàng xuất khẩu chứ không bằng vàng),
+- và chẩn đoán (lời than "khan hiếm tiền" thực ra là triệu chứng của việc buôn bán vượt quá vốn).
+
+Lợi ích thật của ngoại thương là tiêu thụ phần dư thừa và mở rộng thị trường cho phân công lao động, không phải đem vàng về.
+
+Từ đó, toàn bộ chính sách trọng thương phải được đánh giá lại theo một tiêu chí duy nhất: nó làm tăng hay giảm giá trị sản phẩm hàng năm.
 
 ---
 
@@ -397,7 +406,11 @@ Smith bắt đầu bằng việc giải thích vì sao một quan niệm sai l�
 
 Hai chức năng này in vào ngôn ngữ thường ngày. Người giàu được gọi là người nhiều tiền; người tiết kiệm được gọi là người "thích tiền"; người nghèo là người ít tiền. Trong lời ăn tiếng nói, "của cải" và "tiền tài" trở thành hai từ đồng nghĩa.
 
-Bước tiếp theo là suy rộng từ cá nhân sang quốc gia: một nước giàu là nước có nhiều vàng bạc, và tích luỹ vàng bạc là cách làm giàu vững chắc nhất. Smith đưa ra hai ví dụ đối lập. Người Tây Ban Nha khi đặt chân đến một vùng đất mới ở châu Mỹ, câu hỏi đầu tiên là ở đó có vàng bạc không, và họ dựa vào câu trả lời để quyết định có nên chinh phục hay không. Còn theo lời kể của nhà sư Plano Carpino (Giovanni da Pian del Carpine), người mà Smith cho là sứ giả của vua Pháp đến gặp một con trai Thành Cát Tư Hãn (thực ra ông do Giáo hoàng Innocent IV phái đi, đến triều Quý Do, cháu Thành Cát Tư Hãn), người Tartar hỏi ông rằng nước Pháp có nhiều bò, cừu không. Với một dân tộc du mục không biết dùng tiền, gia súc vừa là công cụ trao đổi vừa là thước đo giá trị, nên với họ của cải là gia súc. Smith nhận xét rằng trong hai quan niệm ấy, quan niệm của người Tartar có lẽ gần sự thật hơn: ít nhất của cải của họ là thứ ăn được, dùng được.
+Bước tiếp theo là suy rộng từ cá nhân sang quốc gia: một nước giàu là nước có nhiều vàng bạc, và tích luỹ vàng bạc là cách làm giàu vững chắc nhất.
+
+Smith đưa ra hai ví dụ đối lập. Người Tây Ban Nha khi đặt chân đến một vùng đất mới ở châu Mỹ, câu hỏi đầu tiên là ở đó có vàng bạc không, và họ dựa vào câu trả lời để quyết định có nên chinh phục hay không.
+
+Còn theo lời kể của nhà sư Plano Carpino (Giovanni da Pian del Carpine), người mà Smith cho là sứ giả của vua Pháp đến gặp một con trai Thành Cát Tư Hãn (thực ra ông do Giáo hoàng Innocent IV phái đi, đến triều Quý Do, cháu Thành Cát Tư Hãn), người Tartar hỏi ông rằng nước Pháp có nhiều bò, cừu không. Với một dân tộc du mục không biết dùng tiền, gia súc vừa là công cụ trao đổi vừa là thước đo giá trị, nên với họ của cải là gia súc. Smith nhận xét rằng trong hai quan niệm ấy, quan niệm của người Tartar có lẽ gần sự thật hơn: ít nhất của cải của họ là thứ ăn được, dùng được.
 
 Quan niệm phổ thông này còn được hai lập luận có vẻ "trí thức" chống đỡ:
 
@@ -599,7 +612,9 @@ Thay đổi quan trọng nhất là việc tìm ra châu Mỹ mở ra một th�
 - Sau đó Hà Lan giao toàn bộ thương mại này cho một công ty độc quyền, và Anh, Pháp, Thuỵ Điển, Đan Mạch lần lượt bắt chước.
 - Không nước lớn nào ở châu Âu từng được tự do buôn bán với Đông Ấn, trong khi thương mại giữa mỗi nước và thuộc địa châu Mỹ của mình thì mở cho mọi thần dân nước đó.
 
-Các đặc quyền và sự che chở của chính phủ dành cho các công ty Đông Ấn gây ra nhiều ghen tị. Người ghen tị nói thương mại này có hại vì mỗi năm nó xuất đi một khối lượng bạc lớn. Bên được hưởng đáp lại rằng nó có thể làm nghèo châu Âu nói chung nhưng không làm nghèo nước buôn, vì nhờ tái xuất hàng sang các nước châu Âu khác, nó đem về nhiều bạc hơn số mang đi. Smith nói cả hai bên đều dựa trên cùng một tiền đề sai, là đo thương mại bằng lượng bạc. Thực ra, xuất bạc sang Đông Ấn chỉ làm bát đĩa bạc ở châu Âu đắt hơn đôi chút và làm bạc đúc mua được nhiều lao động, hàng hoá hơn đôi chút; thiệt hại ấy nhỏ. Còn thương mại Đông Ấn mở thị trường cho hàng châu Âu (hoặc cho vàng bạc được mua bằng hàng châu Âu), nên nó làm tăng sản phẩm hàng năm và của cải của châu Âu, dù đến nay mới ở mức rất ít vì bị quá nhiều hạn chế.
+Các đặc quyền và sự che chở của chính phủ dành cho các công ty Đông Ấn gây ra nhiều ghen tị. Người ghen tị nói thương mại này có hại vì mỗi năm nó xuất đi một khối lượng bạc lớn. Bên được hưởng đáp lại rằng nó có thể làm nghèo châu Âu nói chung nhưng không làm nghèo nước buôn, vì nhờ tái xuất hàng sang các nước châu Âu khác, nó đem về nhiều bạc hơn số mang đi.
+
+Smith nói cả hai bên đều dựa trên cùng một tiền đề sai, là đo thương mại bằng lượng bạc. Thực ra, xuất bạc sang Đông Ấn chỉ làm bát đĩa bạc ở châu Âu đắt hơn đôi chút và làm bạc đúc mua được nhiều lao động, hàng hoá hơn đôi chút; thiệt hại ấy nhỏ. Còn thương mại Đông Ấn mở thị trường cho hàng châu Âu (hoặc cho vàng bạc được mua bằng hàng châu Âu), nên nó làm tăng sản phẩm hàng năm và của cải của châu Âu, dù đến nay mới ở mức rất ít vì bị quá nhiều hạn chế.
 
 ### 8. Hai nguyên tắc và sáu công cụ của hệ thống thương mại
 
@@ -721,7 +736,9 @@ Smith gạt lập luận này bằng câu "thiếu tiền thì có tín dụng v
 
 Trong khi phần lớn chương là suy luận và ví dụ minh hoạ, đoạn về chiến tranh Bảy năm là một kiểm định thực sự. Smith đặt cạnh nhau phần chi ở nước ngoài (hơn 2/3 của hơn 90 triệu, tức trên 60 triệu bảng) và lượng vàng bạc lưu thông tối đa 30 triệu. Nếu thuyết trọng thương đúng, nước Anh phải cạn tiền nhiều lần; thực tế lưu thông không hề khan hiếm hơn thường. Từ đó ông suy ra khoản chi phải được trả bằng hàng hoá, và chỉ ra cơ chế vi mô: nhà buôn có lợi khi gửi hàng hơn gửi vàng, và dùng thương mại tam giác khi cần.
 
-Đây là cách lập luận hiện đại: dùng một ràng buộc kế toán (chi tiêu ở nước ngoài phải được tài trợ bằng thứ gì đó) cộng với một quan sát (tiền không cạn) để loại trừ một giả thuyết. Phần hệ quả, rằng công nghiệp có thể phồn thịnh khi đất nước suy kiệt vì chiến tranh và sa sút khi hoà bình, là nhận xét sắc về thành phần cầu, gần với điều mà kinh tế học ngày nay gọi là cú sốc cầu theo ngành. Smith cũng thiếu một mảnh: ông bỏ qua việc 75 triệu nợ mới phần lớn được tài trợ trong nước, nên điều thực sự phải "xuất khẩu" chỉ là phần chi ở nước ngoài trừ đi khoản vay từ người nước ngoài (Hà Lan nắm một phần đáng kể nợ công Anh thế kỷ 18). Bức tranh của ông vẫn đúng về hướng, nhưng gọn hơn thực tế.
+Đây là cách lập luận hiện đại: dùng một ràng buộc kế toán (chi tiêu ở nước ngoài phải được tài trợ bằng thứ gì đó) cộng với một quan sát (tiền không cạn) để loại trừ một giả thuyết. Phần hệ quả, rằng công nghiệp có thể phồn thịnh khi đất nước suy kiệt vì chiến tranh và sa sút khi hoà bình, là nhận xét sắc về thành phần cầu, gần với điều mà kinh tế học ngày nay gọi là cú sốc cầu theo ngành.
+
+Smith cũng thiếu một mảnh: ông bỏ qua việc 75 triệu nợ mới phần lớn được tài trợ trong nước, nên điều thực sự phải "xuất khẩu" chỉ là phần chi ở nước ngoài trừ đi khoản vay từ người nước ngoài (Hà Lan nắm một phần đáng kể nợ công Anh thế kỷ 18). Bức tranh của ông vẫn đúng về hướng, nhưng gọn hơn thực tế.
 
 ### Smith gộp tiền giấy vào lập luận "không cần canh giữ"
 
@@ -745,6 +762,194 @@ Vì Smith phản đối việc coi ngoại thương là nguồn vàng, và trong
 
 Thặng dư thương mại hàng hoá của Việt Nam những năm gần đây ở quy mô hàng chục tỷ đô la mỗi năm (khoảng 25 tỷ năm 2024 theo số liệu thống kê chính thức), và con số này thường được trình bày như một thành tích. Khung của Smith buộc đặt câu hỏi khác: thặng dư ấy làm tăng sản phẩm hàng năm của lao động Việt Nam bao nhiêu?
 
-Có ba lý do để thận trọng. Thứ nhất, khu vực có vốn đầu tư nước ngoài chiếm gần ba phần tư kim ngạch xuất khẩu, và phần lớn nguyên liệu đầu vào được nhập. Thặng dư hàng hoá gộp đi kèm thâm hụt lớn ở tài khoản thu nhập sơ cấp, khi lợi nhuận của doanh nghiệp FDI được chuyển về nước. Thứ đáng đo là giá trị gia tăng nội địa trong xuất khẩu và tiền công trả cho lao động trong nước, không phải chênh lệch xuất nhập. Thứ hai, thặng dư ấy được tích lại một phần dưới dạng dự trữ ngoại hối, tức là "vàng bạc" thời nay. Một lượng dự trữ nhất định là cần thiết để phòng vệ, đúng như nhóm tác giả mà Smith trích thừa nhận cho chi tiêu chiến tranh; nhưng phần vượt nhu cầu phòng vệ là nguồn lực đem cho nước ngoài vay với lãi suất thấp, trong khi trong nước còn thiếu hạ tầng. Câu hỏi "dự trữ bao nhiêu là đủ" chính là phép so sánh nồi niêu của Smith. Thứ ba, thặng dư song phương rất lớn với Hoa Kỳ (trên 100 tỷ đô la mỗi năm theo số liệu phía Mỹ) đã trở thành rủi ro chính sách, khi phía Mỹ áp thuế đối ứng năm 2025 với lập luận trọng thương ngược chiều: coi thâm hụt song phương là bằng chứng bị thiệt. Cả hai phía đang dùng cùng một bảng điểm mà Smith đã bác bỏ.
+Có ba lý do để thận trọng. Thứ nhất, khu vực có vốn đầu tư nước ngoài chiếm gần ba phần tư kim ngạch xuất khẩu, và phần lớn nguyên liệu đầu vào được nhập. Thặng dư hàng hoá gộp đi kèm thâm hụt lớn ở tài khoản thu nhập sơ cấp, khi lợi nhuận của doanh nghiệp FDI được chuyển về nước. Thứ đáng đo là giá trị gia tăng nội địa trong xuất khẩu và tiền công trả cho lao động trong nước, không phải chênh lệch xuất nhập.
 
-Chương này cũng soi được hai hiện tượng khác. Một là vàng. Người Việt có thói quen tích trữ vàng như phương tiện giữ giá trị, và trong nhiều năm chính sách quản lý vàng miếng (độc quyền nhà nước về sản xuất vàng miếng và hạn chế nhập khẩu vàng nguyên liệu theo Nghị định 24/2012) đã tạo ra một hiện tượng đúng như Smith mô tả về chè: khi giá vàng trong nước cao hơn giá thế giới một khoảng lớn, vàng chảy vào qua đường không chính thức, bất kể lệnh cấm. Smith sẽ nói rằng chênh lệch giá là triệu chứng của rào cản, và cách bịt kênh lậu là gỡ rào cản chứ không phải siết thêm. Việc sửa đổi khuôn khổ quản lý vàng năm 2025 bằng Nghị định 232/2025/NĐ-CP, theo hướng bỏ độc quyền nhà nước về sản xuất vàng miếng và xuất nhập khẩu vàng nguyên liệu, đi đúng logic đó. Hai là lời than "thiếu vốn, thiếu tiền". Các đợt doanh nghiệp, nhất là bất động sản, kêu thiếu thanh khoản (năm 2011–2012, và đợt đóng băng trái phiếu doanh nghiệp năm 2022) thường được trình bày như thiếu tiền trong hệ thống. Chẩn đoán của Smith sắc hơn: đó là buôn bán vượt vốn, tức các dự án dài hạn được tài trợ bằng nợ ngắn hạn với giả định tiền sẽ quay về trước khi nợ đến hạn. Khi giả định sai, người đi vay không có gì để đổi lấy tiền, và lời than ấy chứng minh vấn đề khả năng thanh toán của người vay, không phải sự thiếu hụt của tiền.
+Thứ hai, thặng dư ấy được tích lại một phần dưới dạng dự trữ ngoại hối, tức là "vàng bạc" thời nay. Một lượng dự trữ nhất định là cần thiết để phòng vệ, đúng như nhóm tác giả mà Smith trích thừa nhận cho chi tiêu chiến tranh; nhưng phần vượt nhu cầu phòng vệ là nguồn lực đem cho nước ngoài vay với lãi suất thấp, trong khi trong nước còn thiếu hạ tầng. Câu hỏi "dự trữ bao nhiêu là đủ" chính là phép so sánh nồi niêu của Smith.
+
+Thứ ba, thặng dư song phương rất lớn với Hoa Kỳ (trên 100 tỷ đô la mỗi năm theo số liệu phía Mỹ) đã trở thành rủi ro chính sách, khi phía Mỹ áp thuế đối ứng năm 2025 với lập luận trọng thương ngược chiều: coi thâm hụt song phương là bằng chứng bị thiệt. Cả hai phía đang dùng cùng một bảng điểm mà Smith đã bác bỏ.
+
+Chương này cũng soi được hai hiện tượng khác. Một là vàng. Người Việt có thói quen tích trữ vàng như phương tiện giữ giá trị, và trong nhiều năm chính sách quản lý vàng miếng (độc quyền nhà nước về sản xuất vàng miếng và hạn chế nhập khẩu vàng nguyên liệu theo Nghị định 24/2012) đã tạo ra một hiện tượng đúng như Smith mô tả về chè: khi giá vàng trong nước cao hơn giá thế giới một khoảng lớn, vàng chảy vào qua đường không chính thức, bất kể lệnh cấm.
+
+Smith sẽ nói rằng chênh lệch giá là triệu chứng của rào cản, và cách bịt kênh lậu là gỡ rào cản chứ không phải siết thêm. Việc sửa đổi khuôn khổ quản lý vàng năm 2025 bằng Nghị định 232/2025/NĐ-CP, theo hướng bỏ độc quyền nhà nước về sản xuất vàng miếng và xuất nhập khẩu vàng nguyên liệu, đi đúng logic đó.
+
+Hai là lời than "thiếu vốn, thiếu tiền". Các đợt doanh nghiệp, nhất là bất động sản, kêu thiếu thanh khoản (năm 2011–2012, và đợt đóng băng trái phiếu doanh nghiệp năm 2022) thường được trình bày như thiếu tiền trong hệ thống. Chẩn đoán của Smith sắc hơn: đó là buôn bán vượt vốn, tức các dự án dài hạn được tài trợ bằng nợ ngắn hạn với giả định tiền sẽ quay về trước khi nợ đến hạn. Khi giả định sai, người đi vay không có gì để đổi lấy tiền, và lời than ấy chứng minh vấn đề khả năng thanh toán của người vay, không phải sự thiếu hụt của tiền.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương trên một trang: sáu nhánh lớn đi theo các mục 0–8 của Nội dung chi tiết (gốc của quan niệm "của cải là tiền", lý lẽ cán cân thương mại của nhà buôn, vàng bạc như rượu vang và chẩn đoán "khan hiếm tiền", tiền chạy theo hàng, chiến tranh Bảy năm, lợi ích thật của ngoại thương cùng sáu công cụ trọng thương), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số của Smith; nhánh cuối là thông điệp xuyên suốt cùng các đánh giá chính.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển IV, Chương I: của cải là sản phẩm hàng năm của đất đai và lao động, không phải vàng bạc — hệ thống thương mại đặt sai mục tiêu`"]
+
+  n1["`Mục 0–1 — Kinh tế chính trị và gốc của quan niệm #quot;của cải là tiền#quot;`"]
+  n0 --- n1
+  n2["`Kinh tế chính trị là khoa học của nhà lập pháp, nhằm làm giàu cho cả nhân dân lẫn nhà vua`"]
+  n1 --- n2
+  n3["`Smith tự sửa: không cung cấp thu nhập cho dân mà tạo điều kiện để dân tự kiếm được`"]
+  n1 --- n3
+  n4["`Hai hệ thống: thương mại (trọng thương, Chương I–VIII) và nông nghiệp (trọng nông, Chương IX)`"]
+  n1 --- n4
+  n5["`Tiền có chức năng kép, công cụ thương mại và thước đo giá trị, nên #quot;của cải#quot; thành đồng nghĩa với #quot;tiền tài#quot;`"]
+  n1 --- n5
+  n6["`Người Tây Ban Nha hỏi có vàng bạc không, người Tartar hỏi có bò cừu không: người Tartar gần sự thật hơn`"]
+  n1 --- n6
+  n7["`Locke: tiền là #quot;người bạn vững chắc#quot;, chỉ mất khi bị đưa ra nước ngoài`"]
+  n1 --- n7
+  n8["`Nhóm khác: nước phải đánh trận ở xa cần tích vàng thời bình để chi thời chiến`"]
+  n1 --- n8
+  n9["`Hệ quả: Tây Ban Nha, Bồ Đào Nha cấm xuất kim loại quý#59; Scotland, Pháp, Anh từng cấm`"]
+  n1 --- n9
+
+  n10["`Mục 2 — Nhà buôn chuyển từ cấm xuất vàng sang canh cán cân thương mại`"]
+  n0 --- n10
+  n11["`Lý lẽ 1 (Mun): xuất vàng mua hàng rồi tái xuất thu về nhiều vàng hơn, như người nông dân vãi thóc giống`"]
+  n10 --- n11
+  n12["`Lý lẽ 2: vàng bạc nhỏ gọn, giá trị cao, dễ buôn lậu nên lệnh cấm không thực thi được`"]
+  n10 --- n12
+  n13["`Lý lẽ 3: nhập siêu làm tiền Anh mất giá 5%, 105 ounce bạc ở Anh chỉ đáng 100 ounce ở Hà Lan`"]
+  n10 --- n13
+  n14["`Smith: nửa đúng (xuất vàng thường có lợi, không cấm được), nửa ngụy biện`"]
+  n10 --- n14
+  n15["`Ngụy biện: vàng bạc không cần chính phủ chú ý hơn mọi hàng hoá hữu ích khác`"]
+  n10 --- n15
+  n16["`Ngụy biện: tỷ giá cao tác động như một thứ thuế lên hàng ngoại, làm giảm nhập và giảm xuất vàng`"]
+  n10 --- n16
+  n17["`Nhà buôn hiểu thương mại làm giàu cho họ, không cần biết nó làm giàu cho đất nước thế nào`"]
+  n10 --- n17
+  n18["`Chính phủ chuyển từ việc vô ích sang việc rắc rối hơn mà cũng vô ích#59; sách của Mun thành châm ngôn`"]
+  n10 --- n18
+  n19["`Nội thương bị hạ thành phụ trợ vì #quot;không đem tiền vào cũng không đưa tiền ra#quot;`"]
+  n10 --- n19
+
+  n20["`Mục 3–4 — Vàng bạc là hàng hoá như rượu vang#59; #quot;khan hiếm tiền#quot; là buôn bán vượt vốn`"]
+  n0 --- n20
+  n21["`Nước không có mỏ mua vàng bạc như nước không có vườn nho mua rượu vang: có phương tiện mua thì không thiếu`"]
+  n20 --- n21
+  n22["`Lượng hàng tự điều chỉnh theo nhu cầu thực tế#59; vàng bạc nhanh nhất vì nhỏ gọn, giá trị lớn`"]
+  n20 --- n22
+  n23["`50 tấn vàng = 5 triệu guinea, một chuyến tàu từ Lisbon#59; thóc cùng giá trị cần 1.000 tàu 1.000 tấn`"]
+  n20 --- n23
+  n24["`Luật #quot;dã man#quot; của Tây Ban Nha, Bồ Đào Nha không giữ nổi vàng bạc Peru, Brazil#59; giá ở đó thấp hơn láng giềng`"]
+  n20 --- n24
+  n25["`Chè lậu vẫn tràn vào dù thể tích gấp 100 lần bạc, hơn 2.000 lần vàng cùng giá`"]
+  n20 --- n25
+  n26["`Thiếu nguyên liệu thì xưởng ngừng, thiếu lương thực thì đói#59; thiếu tiền có đổi chác, mua chịu, tiền giấy`"]
+  n20 --- n26
+  n27["`Sự chú ý của chính phủ chưa bao giờ thừa thãi bằng khi canh giữ lượng tiền trong nước`"]
+  n20 --- n27
+  n28["`Lợi nhuận cao → mua chịu, gửi hàng đi xa#59; nợ đến hạn trước khi tiền về, không ai cho vay`"]
+  n20 --- n28
+  n29["`Lời than chứng minh có người muốn tiền mà không có gì để đổi, không phải thiếu vàng bạc lưu thông`"]
+  n20 --- n29
+
+  n30["`Mục 5 — Tiền chạy theo hàng, không phải hàng chạy theo tiền`"]
+  n0 --- n30
+  n31["`#quot;Lố bịch#quot; khi phải chứng minh của cải là những gì tiền mua được`"]
+  n30 --- n31
+  n32["`Tiền là phần nhỏ và không sinh lợi nhất của vốn quốc gia, #quot;bánh xe lưu thông#quot; của Quyển II`"]
+  n30 --- n32
+  n33["`Nhà buôn chuộng tiền vì tiền được công nhận, hàng dễ hỏng, lợi nhuận đến từ bán`"]
+  n30 --- n33
+  n34["`Nhà buôn phá sản vì ôm hàng không làm quốc gia thiệt: sản phẩm hàng năm vẫn như cũ`"]
+  n30 --- n34
+  n35["`Hàng có nhiều công dụng, tiền chỉ để mua hàng → tiền nhất thiết chạy theo hàng`"]
+  n30 --- n35
+  n36["`Nồi niêu cũng bền: theo lối lập luận ấy, nước Anh sẽ #quot;tràn ngập nồi niêu xoong chảo#quot;`"]
+  n30 --- n36
+  n37["`Lượng vàng bạc giới hạn bởi tiền đúc (giá trị hàng lưu thông) và bát đĩa (số gia đình giàu)`"]
+  n30 --- n37
+  n38["`Chi tiền mua vàng bạc thừa làm giảm của cải dùng cho ăn, mặc, ở`"]
+  n30 --- n38
+
+  n39["`Mục 6 — Chiến tranh ở xa được trả bằng hàng xuất khẩu, không bằng vàng`"]
+  n0 --- n39
+  n40["`Quân đội được nuôi bằng thứ ăn được, dùng được#59; ba cách trả: vàng tích trữ, hàng công nghiệp, sản phẩm thô`"]
+  n39 --- n40
+  n41["`Vàng tích trữ đều nhỏ: tiền lưu thông hiếm dư, bát đĩa nấu chảy mất tiền công, chỉ vua Phổ còn kho báu`"]
+  n39 --- n41
+  n42["`Chiến tranh Bảy năm tốn hơn 90 triệu bảng, hơn 2/3 chi ở nước ngoài#59; riêng 1761 hơn 19 triệu`"]
+  n39 --- n42
+  n43["`Vàng bạc lưu thông ở Anh chưa quá 18 triệu bảng, ước phóng đại nhất 30 triệu`"]
+  n39 --- n43
+  n44["`Tiền phải ra đi, quay về ít nhất hai lần trong 6–7 năm mà lưu thông không lúc nào khan hiếm`"]
+  n39 --- n44
+  n45["`Vàng bạc vào Tây Ban Nha, Bồ Đào Nha khoảng 6 triệu/năm, chỉ đủ khoảng 4 tháng chiến tranh`"]
+  n39 --- n45
+  n46["`Nhà buôn trả bằng hàng vì gửi hàng có lãi#59; cần thì bán ở nước thứ ba lấy hối phiếu`"]
+  n39 --- n46
+  n47["`Hàng công nghiệp tinh xảo hợp nhất#59; công nghiệp phồn thịnh trong chiến tranh, sa sút khi hoà bình`"]
+  n39 --- n47
+  n48["`Hume: vua Anh xưa không đánh trận dài vì thiếu hàng công nghiệp tinh xảo, không phải thiếu tiền`"]
+  n39 --- n48
+  n49["`Kho báu chỉ hợp nước nghèo thương mại#59; nước công thương phát đạt thì vua vay và đánh thuế`"]
+  n39 --- n49
+
+  n50["`Mục 7–8 — Lợi ích thật của ngoại thương và sáu công cụ trọng thương`"]
+  n0 --- n50
+  n51["`Tiêu thụ phần dư thừa: đổi thứ trong nước không có cầu lấy thứ có cầu, cho phần thừa một giá trị`"]
+  n50 --- n51
+  n52["`Mở rộng thị trường để phân công lao động đi sâu, tăng thu nhập thực#59; nước nơi nhà buôn cư trú lợi nhất`"]
+  n50 --- n52
+  n53["`Mỏ châu Mỹ: bát đĩa bạc chỉ tốn khoảng 1/3 so với thế kỷ 15, có thể gấp 20–30 lần — lợi thật nhưng vụn vặt`"]
+  n50 --- n53
+  n54["`Thay đổi quan trọng nhất là thị trường mới vô tận#59; bất công tàn bạo biến nó thành tai hoạ cho thổ dân`"]
+  n50 --- n54
+  n55["`Đông Ấn giàu hơn Mexico, Peru mà châu Âu được lợi ít hơn, vì thương mại Đông Ấn bị độc quyền`"]
+  n50 --- n55
+  n56["`Hai nguyên tắc: của cải là vàng bạc#59; nước không có mỏ chỉ có vàng nhờ thặng dư thương mại`"]
+  n50 --- n56
+  n57["`Hạn chế nhập: hàng trong nước làm được (Chương II), hàng từ nước cán cân bất lợi (Chương III)`"]
+  n50 --- n57
+  n58["`Khuyến khích xuất: hoàn thuế (IV), tiền thưởng xuất khẩu (V), hiệp định thương mại (VI), thuộc địa (VII)`"]
+  n50 --- n58
+  n59["`Tiêu chí duy nhất cho các chương sau: công cụ làm tăng hay giảm giá trị sản phẩm hàng năm`"]
+  n50 --- n59
+
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Lượng vàng bạc là biến nội sinh của nền kinh tế thực, không phải đòn bẩy chính sách`"]
+  n60 --- n61
+  n62["`Smith không chống ngoại thương#59; ông chống việc đo ngoại thương bằng vàng`"]
+  n60 --- n62
+  n63["`Lời khuyên thương mại của giới buôn bán phải được đọc với nghi ngờ`"]
+  n60 --- n63
+  n64["`Đánh giá: Smith bỏ qua lập luận lượng tiền quyết định lãi suất, phần Keynes (1936) phục hồi`"]
+  n60 --- n64
+  n65["`Đánh giá: #quot;không cần canh giữ#quot; đúng với kim loại quý, không chuyển sang tiền pháp định`"]
+  n60 --- n65
+
+  class n0 root
+  class n1,n10,n20,n30,n39,n50,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64,n65 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV (Of Systems of Political Oeconomy), Lời giới thiệu và Chương I. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 402 (Lời giới thiệu Quyển IV) và tr. 403–425 (Chương I).
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Ba quyển đầu dựng lên lý thuyết tích cực: của cải là sản phẩm hàng năm của đất đai và lao động (Quyển I), tăng lên nhờ phân công lao động và tích luỹ vốn (Quyển II, nơi Smith đã chứng minh tiền chỉ là "bánh xe lưu thông", một phần nhỏ và không sinh lợi của vốn xã hội), và đi theo một "trật tự tự nhiên" nông nghiệp → công nghiệp → ngoại thương mà chính sách châu Âu đã đảo ngược (Quyển III).
+
+Quyển IV chuyển sang phê phán các học thuyết đối lập. Chương này là cửa vào: nó bóc ra tiền đề gốc của phái trọng thương (của cải = vàng bạc), bác bỏ nó bằng chính lý thuyết tiền tệ của Quyển I và II, rồi liệt kê sáu công cụ chính sách sinh ra từ tiền đề ấy. Sáu chương tiếp theo (II–VII) lần lượt xử từng công cụ.
+
+## Lưu ý
+
+Bản dịch có một số chỗ làm sai hoặc mờ nghĩa.
+
+- Ở đoạn cuối, "drawbacks" (hoàn thuế: trả lại thuế đã nộp khi hàng xuất khẩu hoặc tái xuất) bị dịch thành "giảm thuế"/"tiền thuế quan được giảm", và "bounties" (tiền thưởng/trợ cấp xuất khẩu) dịch là "tiền thưởng", "tiền khuyến khích".
+- "Trên đây là những tỷ lệ đã thuyết phục..." là lỗi; gốc là "những lý lẽ" (arguments).
+- Câu về nước thiếu vàng bạc bị dịch rối; nghĩa gốc là: nếu vàng bạc ở một nước thiếu so với nhu cầu thực tế đến mức giá của chúng cao hơn các nước láng giềng thì chính phủ không cần nhọc công nhập, và dù có muốn ngăn nhập cũng không ngăn được.
+- Đoạn về Đông Ấn bị vỡ logic: gốc nói không cần lý do nào khác để giải thích vì sao thương mại Đông Ấn kém lợi hơn thương mại châu Mỹ ngoài việc nó bị độc quyền, trong khi thương mại giữa mỗi nước với thuộc địa châu Mỹ của mình mở cho mọi thần dân; các đặc quyền và sự che chở của chính phủ dành cho các công ty Đông Ấn gây ra nhiều **ghen tị** với các công ty này; câu mở đầu của bản dịch biến ý đó thành "Điều làm cho mọi người ham muốn các vùng đất ở Đông Ấn", đến câu sau mới dùng đúng "người ghen tị".
+- Smith viết "Plano Carpino" và nói ông là sứ giả của vua Pháp đến gặp một con trai Thành Cát Tư Hãn; bản dịch chép đúng như vậy. Thực ra Giovanni da Pian del Carpine do Giáo hoàng Innocent IV phái đi (1245–1247), đến triều Quý Do (Güyük), cháu Thành Cát Tư Hãn.
+- "Exchange" (tỷ giá hối đoái, giá hối phiếu) được dịch là "giá trao đổi"; "giá trao đổi cao" nghĩa là tỷ giá bất lợi cho nước phải trả tiền ra nước ngoài.
+- Câu "Tuy nhiên, chính phủ phải lưu ý theo dõi việc duy trì hay tăng số lượng tiền phát hành tại mỗi nước" bị dịch ngược nghĩa. Gốc nói: xét về mọi mặt, sự chú ý của chính phủ chưa bao giờ được dùng một cách thừa thãi bằng khi nhằm canh giữ việc duy trì hay tăng lượng tiền trong nước.

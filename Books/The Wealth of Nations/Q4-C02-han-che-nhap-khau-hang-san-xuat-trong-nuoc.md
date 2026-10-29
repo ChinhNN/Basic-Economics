@@ -1,13 +1,16 @@
 # Quyển IV, Chương II — Hạn chế nhập những hàng ngoại có thể sản xuất ở trong nước (Of Restraints upon the Importation from foreign Countries of such Goods as can be produced at Home)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương II. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 426–445.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Chương I của Quyển IV đã liệt kê sáu công cụ của hệ thống trọng thương và đặt tiêu chí đánh giá: mỗi công cụ làm tăng hay giảm giá trị sản phẩm hàng năm. Chương này xét công cụ đầu tiên và quan trọng nhất: dành độc quyền thị trường trong nước cho hàng nội bằng thuế cao hay lệnh cấm. Lập luận dựa vào hai kết quả của Quyển II: tổng lượng công việc của một xã hội bị giới hạn bởi tổng vốn (Chương III, nơi vốn chỉ tăng nhờ tiết kiệm từ thu nhập), và vốn đặt ở nội thương huy động nhiều lao động trong nước hơn vốn đặt ở ngoại thương tiêu dùng, càng hơn vốn đặt ở vận tải trung chuyển (Chương V). Đây là chương chứa "bàn tay vô hình" và là nền cho toàn bộ phần còn lại của Quyển IV, cho đến "hệ thống tự do tự nhiên" ở Chương IX.
-**Ý chính:** Smith muốn chứng minh rằng bảo hộ thị trường trong nước không thể làm tăng tổng lượng công việc của xã hội mà chỉ có thể dời vốn khỏi hướng mà người chủ vốn tự chọn; và vì người chủ vốn, theo đuổi lợi ích riêng, vốn đã chọn hướng vừa an toàn nhất (gần nhà) vừa cho giá trị sản phẩm lớn nhất, nên việc dời đi ấy hoặc vô ích (nếu hàng nội rẻ bằng hàng ngoại) hoặc có hại (nếu không). Ông chứng minh bằng một chuỗi suy luận về vốn, bằng phép loại suy gia đình (người thợ may không tự đóng giày), bằng ví dụ rượu vang Scotland đắt gấp 30 lần, và bằng bằng chứng rằng nông dân Anh gần như không bị đe doạ bởi nhập khẩu tự do vì hàng nông sản cồng kềnh. Ông thừa nhận hai trường hợp nên đánh thuế hàng ngoại (quốc phòng, với Đạo luật Hàng hải; và thuế tương đương thuế nội địa) và hai trường hợp cần cân nhắc (trả đũa, và lộ trình khôi phục tự do thương mại). Cuối cùng, ông chỉ ra vì sao tự do thương mại sẽ không bao giờ được khôi phục hoàn toàn: sức mạnh chính trị của những người hưởng độc quyền.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có một số chỗ làm sai hoặc mất nghĩa kinh tế. (1) Câu then chốt "What is prudence in the conduct of every private family, can scarce be folly in that of a great kingdom" (điều là khôn ngoan với mỗi gia đình khó có thể là dại dột với cả một vương quốc lớn) bị dịch thành "Các gia đình tư nhân thường rất thận trọng, khôn ngoan trong lĩnh vực đó", mất hẳn phép loại suy. (2) Đoạn về công nghiệp non trẻ: gốc nói nhờ các quy định ấy một ngành "có thể **có được** sớm hơn" (may be acquired sooner) so với không có quy định; bản dịch viết "được hoàn thành sớm hơn là dự kiến", làm mất nghĩa. (3) Ví dụ rượu vang Scotland: bản dịch ghi "đắt gấp 30 lần", rồi câu sau ghi "gấp 39 lần"; đúng là 30 (lỗi đánh máy). (4) Về nhà chính khách, gốc nói quyền lực ấy "không thể giao an toàn cho bất kỳ một người, một hội đồng hay thượng viện nào, và **không ở đâu nguy hiểm bằng** trong tay một người đủ dại dột và tự phụ để tưởng mình đủ sức nắm nó"; bản dịch viết "không gây ra nguy hiểm ở bất kỳ nơi nào, trừ khi...", gần như đảo nghĩa. (5) Đoạn bò Ai Len: gốc là câu điều kiện ngược, nếu việc xuất bò có lợi lớn thì người xuất khẩu, có luật đứng về phía mình, đã dễ dàng thắng sự chống đối của đám đông (hàm ý: nó không lợi lớn, nên nhập khẩu không đe doạ ai); bản dịch viết như một sự thật khẳng định. (6) "Whale-fins, whale-bone" (phiến sừng hàm cá voi, xương cá voi) bị dịch là "vẩy, lược"; "double aliens duty" (thuế người nước ngoài gấp đôi) dịch là "hai loại thuế về hàng ngoại". (7) Câu về Đạo luật Hàng hải không đánh gánh nặng lên tàu nước ngoài đến chở hàng Anh đi, và thuế người nước ngoài cũ đánh vào hàng xuất đã được bãi bỏ cho phần lớn mặt hàng, bị dịch vỡ thành một câu cụt. (8) Về Hà Lan, gốc nói nước này tiếp tục thịnh vượng "không nhờ các thứ thuế ấy, như người ta vô lý cho là vậy, mà bất chấp chúng"; bản dịch viết "không phải vì hoàn cảnh phải như vậy". (9) Smith gọi nhà chính trị là "con vật xảo quyệt, thâm hiểm mà người ta thường gọi là chính khách", bản dịch làm mềm thành "sự tài ba khéo léo của nhà chính khách". (10) Câu Latin của Cato bị in sai ("cogitanies", "iri eo") và không được dịch. (11) Smith hai lần hẹn bàn tiếp "khi tôi bàn đến vấn đề thuế"; đó là Quyển V, không có trong ấn bản này. Vì những chỗ dịch sai hay mất nghĩa như trên, các câu trích của Smith trong ngoặc kép ở phần Sơ đồ và ở các đoạn trích lẻ trong Dàn ý chi tiết (ví dụ "điều khôn ngoan với mỗi gia đình khó có thể là dại dột với cả một vương quốc lớn", "con vật xảo quyệt, thâm hiểm mà người ta thường gọi là chính khách") được dịch lại từ nguyên bản tiếng Anh, không chép từ bản dịch; riêng mục Câu nói đáng nhớ chép nguyên văn bản dịch kèm câu gốc tiếng Anh.
+Smith muốn chứng minh rằng bảo hộ thị trường trong nước không thể làm tăng tổng lượng công việc của xã hội mà chỉ có thể dời vốn khỏi hướng mà người chủ vốn tự chọn.
 
----
+Và vì người chủ vốn, theo đuổi lợi ích riêng, vốn đã chọn hướng vừa an toàn nhất (gần nhà) vừa cho giá trị sản phẩm lớn nhất, nên việc dời đi ấy hoặc vô ích (nếu hàng nội rẻ bằng hàng ngoại) hoặc có hại (nếu không).
+
+Ông chứng minh bằng một chuỗi suy luận về vốn, bằng phép loại suy gia đình (người thợ may không tự đóng giày), bằng ví dụ rượu vang Scotland đắt gấp 30 lần, và bằng bằng chứng rằng nông dân Anh gần như không bị đe doạ bởi nhập khẩu tự do vì hàng nông sản cồng kềnh.
+
+Ông thừa nhận hai trường hợp nên đánh thuế hàng ngoại (quốc phòng, với Đạo luật Hàng hải; và thuế tương đương thuế nội địa) và hai trường hợp cần cân nhắc (trả đũa, và lộ trình khôi phục tự do thương mại).
+
+Cuối cùng, ông chỉ ra vì sao tự do thương mại sẽ không bao giờ được khôi phục hoàn toàn: sức mạnh chính trị của những người hưởng độc quyền.
 
 ## Sơ đồ
 
@@ -437,7 +440,9 @@ Lập luận này nối với Quyển II, Chương V. Ở đó Smith đã chứn
 
 **Kênh thứ hai: vì lợi nhuận, vốn tìm giá trị cao nhất.** Người dùng vốn để duy trì hoạt động sản xuất tất yếu cố làm cho sản phẩm có giá trị lớn nhất. Sản phẩm của hoạt động sản xuất là phần mà lao động thêm vào nguyên liệu, và lợi nhuận của chủ vốn lớn hay nhỏ tuỳ thuộc vào giá trị ấy. Nhưng thu nhập hàng năm của một xã hội luôn đúng bằng giá trị trao đổi của toàn bộ sản phẩm hàng năm của xã hội đó. Vậy khi mỗi người cố làm sản phẩm của mình có giá trị cao nhất, mỗi người tất yếu góp phần làm thu nhập hàng năm của xã hội lớn nhất có thể.
 
-**Bàn tay vô hình.** Hai kênh trên dẫn tới đoạn văn nổi tiếng nhất của bộ sách. Người chủ vốn không định thúc đẩy lợi ích công cộng, và cũng không biết mình đang thúc đẩy nó đến đâu. Khi ưa hoạt động sản xuất trong nước hơn nước ngoài, anh ta chỉ nghĩ đến sự an toàn của mình. Khi hướng sản xuất vào chỗ có giá trị cao nhất, anh ta chỉ nghĩ đến lợi nhuận của mình. Trong trường hợp này, cũng như nhiều trường hợp khác, anh ta "được một bàn tay vô hình dẫn dắt để thực hiện một mục đích không hề nằm trong ý định của mình". Smith thêm rằng việc mục đích ấy không nằm trong ý định cũng không phải lúc nào cũng tệ cho xã hội: theo đuổi lợi ích riêng, anh ta **thường** thúc đẩy lợi ích xã hội hiệu quả hơn so với khi cố ý làm vậy. Chữ "thường" cho thấy đây là một nhận định có giới hạn, không phải một quy luật tuyệt đối.
+**Bàn tay vô hình.** Hai kênh trên dẫn tới đoạn văn nổi tiếng nhất của bộ sách. Người chủ vốn không định thúc đẩy lợi ích công cộng, và cũng không biết mình đang thúc đẩy nó đến đâu. Khi ưa hoạt động sản xuất trong nước hơn nước ngoài, anh ta chỉ nghĩ đến sự an toàn của mình. Khi hướng sản xuất vào chỗ có giá trị cao nhất, anh ta chỉ nghĩ đến lợi nhuận của mình. Trong trường hợp này, cũng như nhiều trường hợp khác, anh ta "được một bàn tay vô hình dẫn dắt để thực hiện một mục đích không hề nằm trong ý định của mình".
+
+Smith thêm rằng việc mục đích ấy không nằm trong ý định cũng không phải lúc nào cũng tệ cho xã hội: theo đuổi lợi ích riêng, anh ta **thường** thúc đẩy lợi ích xã hội hiệu quả hơn so với khi cố ý làm vậy. Chữ "thường" cho thấy đây là một nhận định có giới hạn, không phải một quy luật tuyệt đối.
 
 Smith kèm một câu châm biếm: ông chưa thấy mấy điều tốt được làm ra bởi những người làm ra vẻ buôn bán vì lợi ích công cộng. May là kiểu làm ra vẻ ấy không phổ biến ở giới nhà buôn, và chỉ cần vài lời là đủ khuyên họ thôi.
 
@@ -491,7 +496,9 @@ Smith thừa nhận hệ quả ngược lại: không có những quy định �
 
 ### 6. Ai được lợi từ độc quyền thị trường trong nước
 
-**Nhà buôn và chủ xưởng được lợi nhiều nhất.** Cấm nhập gia súc sống, thịt muối và thuế cao lên ngũ cốc không có lợi cho người chăn nuôi và nông dân nhiều bằng các quy định cùng loại có lợi cho nhà buôn và chủ xưởng. Lý do nằm ở chi phí vận chuyển. Hàng công nghiệp, nhất là loại tinh xảo, nhẹ và dễ chở hơn ngũ cốc hay gia súc nhiều, nên là đối tượng chính của ngoại thương. Người nước ngoài có thể bán rẻ hơn thợ của ta ngay trên thị trường của ta, dù chỉ lãi rất mỏng. Nếu cho nhập tự do, một số xưởng sẽ phá sản, và một phần vốn và lao động đang dùng ở đó phải chuyển sang nghề khác. Còn sản phẩm thô của đất đai, nhập tự do đến mấy cũng không gây tác động như vậy cho nông nghiệp. Smith chứng minh điều này bằng ba mặt hàng.
+**Nhà buôn và chủ xưởng được lợi nhiều nhất.** Cấm nhập gia súc sống, thịt muối và thuế cao lên ngũ cốc không có lợi cho người chăn nuôi và nông dân nhiều bằng các quy định cùng loại có lợi cho nhà buôn và chủ xưởng.
+
+Lý do nằm ở chi phí vận chuyển. Hàng công nghiệp, nhất là loại tinh xảo, nhẹ và dễ chở hơn ngũ cốc hay gia súc nhiều, nên là đối tượng chính của ngoại thương. Người nước ngoài có thể bán rẻ hơn thợ của ta ngay trên thị trường của ta, dù chỉ lãi rất mỏng. Nếu cho nhập tự do, một số xưởng sẽ phá sản, và một phần vốn và lao động đang dùng ở đó phải chuyển sang nghề khác. Còn sản phẩm thô của đất đai, nhập tự do đến mấy cũng không gây tác động như vậy cho nông nghiệp. Smith chứng minh điều này bằng ba mặt hàng.
 
 **Gia súc sống.** Chở gia súc bằng đường biển rất tốn kém và phiền phức, vì phải mang theo cỏ khô và nước cho chúng ăn uống suốt hành trình; trong khi đi đường bộ thì con vật tự đi ra chợ. Chỉ có Ai Len, cách Anh một quãng biển ngắn, chở bò sang Anh được. Việc nhập bò Ai Len, thoạt đầu được cho phép có thời hạn, rồi được cho phép vĩnh viễn, đã không ảnh hưởng đáng kể đến người chăn nuôi Anh. Vùng đất Anh giáp biển Ai Len đều là vùng chăn nuôi, nên bò Ai Len phải đi bộ một quãng xa qua các vùng ấy mới tới được chợ tiêu thụ lớn, rất tốn kém.
 
@@ -616,7 +623,9 @@ Tuy vậy, Smith cho rằng xáo trộn có lẽ nhỏ hơn nhiều so với đi
 | Tơ lụa | Có lẽ chịu thiệt nhiều nhất |
 | Vải lanh | Chịu thiệt, nhưng ít hơn tơ lụa nhiều |
 
-**Lý do thứ hai: người mất việc tìm được việc khác.** Dù nhiều thợ có thể mất việc ngay khi tự do thương mại được khôi phục, không vì thế mà họ mất mọi kế sinh nhai. Smith đưa bằng chứng: cuối cuộc chiến tranh vừa qua (Chiến tranh Bảy năm), hơn 100.000 lính và thuỷ thủ được giải ngũ cùng lúc, ngang với số thợ của các ngành công nghiệp lớn nhất. Họ chịu khó khăn ban đầu, nhưng không mất mọi kế sinh nhai; phần lớn dần tìm được việc và được hấp thụ vào nhiều nghề sản xuất và dịch vụ trong nước. Không có chấn động lớn, thậm chí không có xáo trộn đáng kể nào, từ một thay đổi lớn đến thế đối với hơn 100.000 người vốn quen cầm vũ khí, nhiều người còn quen cướp bóc. Số kẻ lang thang không tăng rõ rệt. Theo những gì Smith biết, tiền công không giảm ở nghề nào, trừ thuỷ thủ tàu buôn.
+**Lý do thứ hai: người mất việc tìm được việc khác.** Dù nhiều thợ có thể mất việc ngay khi tự do thương mại được khôi phục, không vì thế mà họ mất mọi kế sinh nhai. Smith đưa bằng chứng: cuối cuộc chiến tranh vừa qua (Chiến tranh Bảy năm), hơn 100.000 lính và thuỷ thủ được giải ngũ cùng lúc, ngang với số thợ của các ngành công nghiệp lớn nhất. Họ chịu khó khăn ban đầu, nhưng không mất mọi kế sinh nhai; phần lớn dần tìm được việc và được hấp thụ vào nhiều nghề sản xuất và dịch vụ trong nước.
+
+Không có chấn động lớn, thậm chí không có xáo trộn đáng kể nào, từ một thay đổi lớn đến thế đối với hơn 100.000 người vốn quen cầm vũ khí, nhiều người còn quen cướp bóc. Số kẻ lang thang không tăng rõ rệt. Theo những gì Smith biết, tiền công không giảm ở nghề nào, trừ thuỷ thủ tàu buôn.
 
 Smith còn lập luận rằng người thợ chuyển nghề dễ hơn người lính:
 
@@ -767,19 +776,25 @@ Hệ quả trong nghị viện là một bất đối xứng rõ ràng:
 
 Câu nổi tiếng nhất của Smith thường được trích như thể ông tuyên bố rằng thị trường tự do luôn cho kết quả tốt nhất. Đọc trong ngữ cảnh, nó hẹp hơn nhiều và cụ thể hơn nhiều. Bàn tay vô hình xuất hiện để giải thích vì sao **không cần bảo hộ để khuyến khích đầu tư trong nước**: chủ vốn, vì muốn an toàn, tự nhiên đã ưa đặt vốn gần nhà; vì muốn lợi nhuận, tự nhiên đã tìm chỗ cho giá trị cao nhất. Cả hai động cơ ích kỷ ấy cùng dẫn đến điều mà người trọng thương muốn đạt bằng luật. Vậy luật là thừa.
 
-Đọc như vậy có hai hệ quả. Thứ nhất, nửa đầu của lập luận dựa vào **thiên lệch về nhà** của nhà đầu tư, một giả định thực nghiệm chứ không phải logic. Nó đúng ở thế kỷ 18, khi vốn ở nước ngoài là vốn khó giám sát và khó đòi. Trong thế giới dòng vốn tự do ngày nay, nó yếu hơn nhiều, và chính sự yếu đi ấy là lý do một phần lao động trong các nước giàu cảm thấy toàn cầu hoá phản bội lời hứa của Smith: vốn không còn "tự nhiên" ở lại nhà. Thứ hai, chữ "thường" (frequently) và câu "không phải lúc nào cũng tệ cho xã hội" cho thấy Smith dè dặt hơn hình ảnh người ta gán cho ông. Ông không nói mọi hành vi ích kỷ đều có lợi cho xã hội; ngay chương này ông dành nhiều trang mô tả cách nhà buôn và chủ xưởng theo đuổi lợi ích riêng để **làm hại** xã hội qua vận động độc quyền. Bàn tay vô hình chỉ vận hành trong thị trường cạnh tranh; trong hành lang nghị viện, nó không có mặt.
+Đọc như vậy có hai hệ quả. Thứ nhất, nửa đầu của lập luận dựa vào **thiên lệch về nhà** của nhà đầu tư, một giả định thực nghiệm chứ không phải logic. Nó đúng ở thế kỷ 18, khi vốn ở nước ngoài là vốn khó giám sát và khó đòi. Trong thế giới dòng vốn tự do ngày nay, nó yếu hơn nhiều, và chính sự yếu đi ấy là lý do một phần lao động trong các nước giàu cảm thấy toàn cầu hoá phản bội lời hứa của Smith: vốn không còn "tự nhiên" ở lại nhà.
+
+Thứ hai, chữ "thường" (frequently) và câu "không phải lúc nào cũng tệ cho xã hội" cho thấy Smith dè dặt hơn hình ảnh người ta gán cho ông. Ông không nói mọi hành vi ích kỷ đều có lợi cho xã hội; ngay chương này ông dành nhiều trang mô tả cách nhà buôn và chủ xưởng theo đuổi lợi ích riêng để **làm hại** xã hội qua vận động độc quyền. Bàn tay vô hình chỉ vận hành trong thị trường cạnh tranh; trong hành lang nghị viện, nó không có mặt.
 
 ### Lập luận "vốn giới hạn công việc" là chỗ yếu nhất của chương, và Smith không cần nó
 
 Toàn bộ bằng chứng rằng bảo hộ không thể tăng tổng việc làm dựa vào giả định rằng số người được thuê tỷ lệ với vốn, tức là lý thuyết quỹ tiền lương. Giả định này sai khi nền kinh tế có tài nguyên nhàn rỗi: khi có thất nghiệp do thiếu cầu, thuế quan **có thể** làm tăng việc làm trong nước trong ngắn hạn bằng cách dịch cầu từ hàng ngoại sang hàng nội. Đó là lý do Keynes, trong những năm 1930, ủng hộ thuế quan cho Anh, và là lý do các chính khách luôn có thể chỉ ra những nhà máy cụ thể được cứu nhờ bảo hộ.
 
-Nhưng chỗ đáng chú ý là kết luận của Smith vẫn đứng vững mà không cần giả định đó. Lập luận chi phí cơ hội (phí 1/300 cũng phi lý), lập luận thu nhập thấp hơn thì tích luỹ chậm hơn, và lập luận kinh tế chính trị về độc quyền tự duy trì vẫn đúng trong một nền kinh tế có thất nghiệp. Thêm vào đó, việc làm tạo ra bằng thuế quan trong ngành được bảo hộ đi kèm việc làm bị mất ở ngành dùng hàng ấy làm đầu vào, ở ngành xuất khẩu bị trả đũa, và ở ngành phục vụ người tiêu dùng có thu nhập thực thấp hơn. Bằng chứng hiện đại về thuế quan thép Mỹ năm 2002 và 2018 cho thấy số việc làm mất ở các ngành dùng thép lớn hơn số việc làm giữ được ở ngành sản xuất thép. Phiên bản hiện đại của luận điểm Smith không phải "bảo hộ không thể tạo việc làm" mà "bảo hộ tạo ra những việc làm nhìn thấy được bằng cách phá huỷ những việc làm không nhìn thấy được".
+Nhưng chỗ đáng chú ý là kết luận của Smith vẫn đứng vững mà không cần giả định đó. Lập luận chi phí cơ hội (phí 1/300 cũng phi lý), lập luận thu nhập thấp hơn thì tích luỹ chậm hơn, và lập luận kinh tế chính trị về độc quyền tự duy trì vẫn đúng trong một nền kinh tế có thất nghiệp.
+
+Thêm vào đó, việc làm tạo ra bằng thuế quan trong ngành được bảo hộ đi kèm việc làm bị mất ở ngành dùng hàng ấy làm đầu vào, ở ngành xuất khẩu bị trả đũa, và ở ngành phục vụ người tiêu dùng có thu nhập thực thấp hơn. Bằng chứng hiện đại về thuế quan thép Mỹ năm 2002 và 2018 cho thấy số việc làm mất ở các ngành dùng thép lớn hơn số việc làm giữ được ở ngành sản xuất thép. Phiên bản hiện đại của luận điểm Smith không phải "bảo hộ không thể tạo việc làm" mà "bảo hộ tạo ra những việc làm nhìn thấy được bằng cách phá huỷ những việc làm không nhìn thấy được".
 
 ### Smith không chống bảo hộ công nghiệp non trẻ bằng lý thuyết mà bằng sự hoài nghi về nhà nước
 
 Đoạn về công nghiệp non trẻ ngắn, và thường bị đọc như một sự bác bỏ. Thực ra nó là một sự thừa nhận: Smith công nhận bảo hộ có thể giúp một ngành ra đời sớm hơn và trở nên cạnh tranh. Ông chỉ phản đối rằng trong thời gian chờ, thu nhập thấp hơn làm tích luỹ vốn chậm hơn, nên tổng thể không được gì. Đây là một lập luận định lượng trá hình: nó đúng nếu chi phí trong giai đoạn bảo hộ lớn hơn giá trị hiện tại của lợi ích sau khi ngành trưởng thành, và sai nếu ngược lại. Smith không làm phép tính đó.
 
-Lý do ông không cần làm phép tính nằm ở chỗ khác trong chương: câu về nhà chính khách tự phụ và đoạn về đạo quân độc quyền. Bảo hộ non trẻ chỉ có lợi nếu nhà nước chọn đúng ngành, đặt thời hạn đúng, và **rút được** bảo hộ khi ngành đã trưởng thành hoặc khi rõ là nó sẽ không bao giờ trưởng thành. Smith nghi ngờ cả ba, nhất là điều thứ ba, vì ông thấy rằng bảo hộ tạo ra chính lực lượng chính trị chống lại việc rút nó. Kinh nghiệm thế kỷ 20 xác nhận cả hai phía: Hàn Quốc và Đài Loan thành công với bảo hộ có điều kiện gắn với kỷ luật xuất khẩu; Mỹ Latinh và Ấn Độ thời thay thế nhập khẩu thất bại với bảo hộ không điều kiện kéo dài hàng chục năm. Điểm phân biệt không phải lý thuyết kinh tế mà là năng lực và tính độc lập của nhà nước trước nhóm được bảo hộ, đúng chỗ Smith đặt nghi ngờ.
+Lý do ông không cần làm phép tính nằm ở chỗ khác trong chương: câu về nhà chính khách tự phụ và đoạn về đạo quân độc quyền. Bảo hộ non trẻ chỉ có lợi nếu nhà nước chọn đúng ngành, đặt thời hạn đúng, và **rút được** bảo hộ khi ngành đã trưởng thành hoặc khi rõ là nó sẽ không bao giờ trưởng thành. Smith nghi ngờ cả ba, nhất là điều thứ ba, vì ông thấy rằng bảo hộ tạo ra chính lực lượng chính trị chống lại việc rút nó.
+
+Kinh nghiệm thế kỷ 20 xác nhận cả hai phía: Hàn Quốc và Đài Loan thành công với bảo hộ có điều kiện gắn với kỷ luật xuất khẩu; Mỹ Latinh và Ấn Độ thời thay thế nhập khẩu thất bại với bảo hộ không điều kiện kéo dài hàng chục năm. Điểm phân biệt không phải lý thuyết kinh tế mà là năng lực và tính độc lập của nhà nước trước nhóm được bảo hộ, đúng chỗ Smith đặt nghi ngờ.
 
 ### Đạo luật Hàng hải: Smith chấp nhận đánh đổi hiệu quả lấy an ninh, nhưng đặt tiêu chuẩn rất cao
 
@@ -795,10 +810,193 @@ Smith thường được nhớ như người cổ vũ tự do thương mại vô
 
 ### Với Việt Nam: ô tô, thép, và thuế đối ứng năm 2025 là ba bài kiểm tra cho ba phần của chương này
 
-**Ô tô: bài kiểm tra công nghiệp non trẻ.** Ngành ô tô Việt Nam được bảo hộ bằng thuế nhập khẩu xe nguyên chiếc rất cao trong hơn hai thập kỷ trước khi thuế trong ASEAN về 0% năm 2018 theo Hiệp định ATIGA, với mục tiêu tỷ lệ nội địa hoá mà các chiến lược ngành nhiều lần đặt ra và không đạt. Sau khi thuế ASEAN về 0%, các điều kiện kinh doanh và kiểm định đối với xe nhập (Nghị định 116/2017) cùng các đợt giảm 50% lệ phí trước bạ chỉ cho xe lắp ráp trong nước tiếp tục vai trò bảo hộ dưới hình thức khác. Đây đúng là kịch bản Smith mô tả: ngành không đạt giá thành cạnh tranh, người tiêu dùng trả giá cao trong nhiều năm (phần chênh lệch này làm giảm thu nhập thực, do đó giảm tiết kiệm), và nhóm được bảo hộ đủ mạnh để mỗi lần thuế giảm thì một rào cản khác xuất hiện. So sánh với điện tử là thí nghiệm tự nhiên tốt nhất: ngành điện tử, với hầu như không có bảo hộ thị trường trong nước mà dựa vào đầu tư nước ngoài hướng xuất khẩu, đã trở thành ngành xuất khẩu lớn nhất. Ngành chạy theo hướng tự nhiên của vốn đã lớn hơn ngành được lái bằng bảo hộ.
+**Ô tô: bài kiểm tra công nghiệp non trẻ.** Ngành ô tô Việt Nam được bảo hộ bằng thuế nhập khẩu xe nguyên chiếc rất cao trong hơn hai thập kỷ trước khi thuế trong ASEAN về 0% năm 2018 theo Hiệp định ATIGA, với mục tiêu tỷ lệ nội địa hoá mà các chiến lược ngành nhiều lần đặt ra và không đạt. Sau khi thuế ASEAN về 0%, các điều kiện kinh doanh và kiểm định đối với xe nhập (Nghị định 116/2017) cùng các đợt giảm 50% lệ phí trước bạ chỉ cho xe lắp ráp trong nước tiếp tục vai trò bảo hộ dưới hình thức khác.
 
-**Thép: bài kiểm tra trả đũa và phòng vệ thương mại.** Các biện pháp tự vệ và chống bán phá giá đối với thép nhập khẩu (từ phôi thép, thép dài năm 2016 đến các vụ thép cán nóng từ Trung Quốc và Ấn Độ năm 2024–2025) có cơ sở pháp lý trong WTO khi có bán phá giá thật. Khung của Smith thêm hai câu hỏi. Ai trả? Thép là đầu vào của xây dựng, cơ khí, đóng tàu, đồ gia dụng; mỗi điểm phần trăm thuế là một thứ thuế đánh lên các ngành dùng thép, đông lao động hơn ngành sản xuất thép nhiều lần. Và ai hưởng? Thị trường thép cán nóng trong nước tập trung vào rất ít nhà sản xuất, nên thuế phòng vệ có nguy cơ chuyển từ "chống cạnh tranh không lành mạnh" thành "độc quyền thị trường trong nước" theo đúng nghĩa của Smith. Thước đo nên dùng là tác động lên giá trị gia tăng của toàn chuỗi dùng thép, không chỉ sản lượng của nhà máy thép.
+Đây đúng là kịch bản Smith mô tả: ngành không đạt giá thành cạnh tranh, người tiêu dùng trả giá cao trong nhiều năm (phần chênh lệch này làm giảm thu nhập thực, do đó giảm tiết kiệm), và nhóm được bảo hộ đủ mạnh để mỗi lần thuế giảm thì một rào cản khác xuất hiện. So sánh với điện tử là thí nghiệm tự nhiên tốt nhất: ngành điện tử, với hầu như không có bảo hộ thị trường trong nước mà dựa vào đầu tư nước ngoài hướng xuất khẩu, đã trở thành ngành xuất khẩu lớn nhất. Ngành chạy theo hướng tự nhiên của vốn đã lớn hơn ngành được lái bằng bảo hộ.
 
-**Thuế đối ứng của Mỹ năm 2025: bài kiểm tra cho đoạn về trả đũa.** Khi Mỹ công bố mức thuế đối ứng 46% với hàng Việt Nam vào tháng 4/2025, sau đó đàm phán xuống 20% (và 40% với hàng bị coi là trung chuyển) theo thoả thuận công bố tháng 7/2025, Việt Nam đã không trả đũa mà chọn giảm thuế đối với hàng Mỹ và cam kết mua thêm hàng Mỹ. Theo tiêu chuẩn của Smith, đó là lựa chọn đúng vì hai lý do. Thứ nhất, trả đũa chỉ đáng làm khi có triển vọng buộc bên kia gỡ thuế; với một nước nhỏ có thặng dư song phương rất lớn, đe doạ trả đũa không đáng tin. Thứ hai, việc giảm thuế đối với hàng Mỹ, dù được trình bày như một nhượng bộ, lại làm lợi cho người tiêu dùng và doanh nghiệp Việt Nam dùng đầu vào từ Mỹ: theo lập luận của Smith, hạ thuế nhập khẩu là có lợi cho chính nước hạ, bất kể bên kia làm gì. Phần rủi ro thực sự nằm ở mức thuế 40% với hàng "trung chuyển", vì nó đánh vào đúng mô hình lắp ráp dùng đầu vào Trung Quốc mà Việt Nam đã hưởng lợi trong những năm căng thẳng Mỹ – Trung. Chương này không đưa ra câu trả lời cho rủi ro đó, nhưng chỉ đúng hướng: lợi thế bền vững là lợi thế tự tạo (kỹ năng, hạ tầng, giá trị gia tăng nội địa), không phải lợi thế do vị trí trong một cuộc chiến thuế của nước khác.
+**Thép: bài kiểm tra trả đũa và phòng vệ thương mại.** Các biện pháp tự vệ và chống bán phá giá đối với thép nhập khẩu (từ phôi thép, thép dài năm 2016 đến các vụ thép cán nóng từ Trung Quốc và Ấn Độ năm 2024–2025) có cơ sở pháp lý trong WTO khi có bán phá giá thật.
 
-**FTA và lộ trình: Việt Nam đã làm đúng phần thứ tư, và phần còn lại là lao động.** Các hiệp định CPTPP (có hiệu lực với Việt Nam từ 2019), EVFTA (2020) và RCEP (2022) đều có lộ trình cắt giảm thuế dài, với nhiều dòng thuế nhạy cảm kéo dài tới khoảng mười năm. Đây đúng là lời khuyên của Smith: gỡ bảo hộ từ từ, báo trước, để vốn cố định có thời gian khấu hao. Điều kiện còn lại mà Smith gắn vào gói, tự do di chuyển lao động, là chỗ Việt Nam tiến chậm hơn nhưng đã có bước quan trọng: việc bỏ sổ hộ khẩu giấy từ năm 2023 theo Luật Cư trú 2020 làm giảm một rào cản gần với "luật định cư" của Anh thế kỷ 18. Nhưng quyền tiếp cận trường công, bảo hiểm y tế và nhà ở cho lao động di cư ở các khu công nghiệp vẫn chưa đi theo người lao động một cách trọn vẹn. Khi các nhà máy dệt may, da giày phải dời đi hay thu hẹp vì thuế Mỹ hay vì chi phí tăng, khả năng người thợ chuyển sang nghề khác, nơi khác mà không mất quyền lợi xã hội sẽ quyết định chi phí điều chỉnh lớn hay nhỏ, đúng như Smith đã viết về hơn 100.000 lính giải ngũ.
+Khung của Smith thêm hai câu hỏi. Ai trả? Thép là đầu vào của xây dựng, cơ khí, đóng tàu, đồ gia dụng; mỗi điểm phần trăm thuế là một thứ thuế đánh lên các ngành dùng thép, đông lao động hơn ngành sản xuất thép nhiều lần. Và ai hưởng? Thị trường thép cán nóng trong nước tập trung vào rất ít nhà sản xuất, nên thuế phòng vệ có nguy cơ chuyển từ "chống cạnh tranh không lành mạnh" thành "độc quyền thị trường trong nước" theo đúng nghĩa của Smith. Thước đo nên dùng là tác động lên giá trị gia tăng của toàn chuỗi dùng thép, không chỉ sản lượng của nhà máy thép.
+
+**Thuế đối ứng của Mỹ năm 2025: bài kiểm tra cho đoạn về trả đũa.** Khi Mỹ công bố mức thuế đối ứng 46% với hàng Việt Nam vào tháng 4/2025, sau đó đàm phán xuống 20% (và 40% với hàng bị coi là trung chuyển) theo thoả thuận công bố tháng 7/2025, Việt Nam đã không trả đũa mà chọn giảm thuế đối với hàng Mỹ và cam kết mua thêm hàng Mỹ.
+
+Theo tiêu chuẩn của Smith, đó là lựa chọn đúng vì hai lý do. Thứ nhất, trả đũa chỉ đáng làm khi có triển vọng buộc bên kia gỡ thuế; với một nước nhỏ có thặng dư song phương rất lớn, đe doạ trả đũa không đáng tin. Thứ hai, việc giảm thuế đối với hàng Mỹ, dù được trình bày như một nhượng bộ, lại làm lợi cho người tiêu dùng và doanh nghiệp Việt Nam dùng đầu vào từ Mỹ: theo lập luận của Smith, hạ thuế nhập khẩu là có lợi cho chính nước hạ, bất kể bên kia làm gì.
+
+Phần rủi ro thực sự nằm ở mức thuế 40% với hàng "trung chuyển", vì nó đánh vào đúng mô hình lắp ráp dùng đầu vào Trung Quốc mà Việt Nam đã hưởng lợi trong những năm căng thẳng Mỹ – Trung. Chương này không đưa ra câu trả lời cho rủi ro đó, nhưng chỉ đúng hướng: lợi thế bền vững là lợi thế tự tạo (kỹ năng, hạ tầng, giá trị gia tăng nội địa), không phải lợi thế do vị trí trong một cuộc chiến thuế của nước khác.
+
+**FTA và lộ trình: Việt Nam đã làm đúng phần thứ tư, và phần còn lại là lao động.** Các hiệp định CPTPP (có hiệu lực với Việt Nam từ 2019), EVFTA (2020) và RCEP (2022) đều có lộ trình cắt giảm thuế dài, với nhiều dòng thuế nhạy cảm kéo dài tới khoảng mười năm. Đây đúng là lời khuyên của Smith: gỡ bảo hộ từ từ, báo trước, để vốn cố định có thời gian khấu hao.
+
+Điều kiện còn lại mà Smith gắn vào gói, tự do di chuyển lao động, là chỗ Việt Nam tiến chậm hơn nhưng đã có bước quan trọng: việc bỏ sổ hộ khẩu giấy từ năm 2023 theo Luật Cư trú 2020 làm giảm một rào cản gần với "luật định cư" của Anh thế kỷ 18. Nhưng quyền tiếp cận trường công, bảo hiểm y tế và nhà ở cho lao động di cư ở các khu công nghiệp vẫn chưa đi theo người lao động một cách trọn vẹn.
+
+Khi các nhà máy dệt may, da giày phải dời đi hay thu hẹp vì thuế Mỹ hay vì chi phí tăng, khả năng người thợ chuyển sang nghề khác, nơi khác mà không mất quyền lợi xã hội sẽ quyết định chi phí điều chỉnh lớn hay nhỏ, đúng như Smith đã viết về hơn 100.000 lính giải ngũ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển IV, Chương II trên một trang: bảy nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết (vốn giới hạn công việc và bàn tay vô hình, bảo hộ vô ích hoặc có hại cùng công nghiệp non trẻ, ai được lợi từ độc quyền, hai trường hợp nên đánh thuế hàng ngoại, hai trường hợp cần cân nhắc, vì sao tự do thương mại không trở lại hoàn toàn), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển IV, Chương 2: bảo hộ thị trường trong nước không tăng tổng công việc, chỉ dời vốn khỏi chỗ chủ vốn tự chọn, nên vô ích hoặc có hại`"]
+  n1["`Mục 1–3 — Vốn giới hạn công việc, chủ vốn tự chọn đúng`"]
+  n0 --- n1
+  n2["`Anh cấm nhập gia súc sống, thịt muối, len dạ, đánh thuế cao ngũ cốc, bảo hộ cả tơ lụa và vải lanh`"]
+  n1 --- n2
+  n3["`Độc quyền chắc chắn kéo vốn và lao động vào ngành được bảo hộ, câu hỏi là có tăng tổng sản xuất không`"]
+  n1 --- n3
+  n4["`Tổng công việc không vượt quá những gì tổng vốn xã hội nuôi được, quy định chỉ lái vốn sang hướng khác`"]
+  n1 --- n4
+  n5["`Kênh an toàn: lợi nhuận ngang nhau thì nội thương #gt; ngoại thương tiêu dùng #gt; vận tải trung chuyển`"]
+  n1 --- n5
+  n6["`Nhà buôn Amsterdam chở ngũ cốc Königsberg – Lisbon vẫn đưa hàng về Amsterdam, biến nó thành chợ tổng hợp`"]
+  n1 --- n6
+  n7["`Kênh lợi nhuận: thu nhập hàng năm của xã hội = giá trị trao đổi của toàn bộ sản phẩm hàng năm`"]
+  n1 --- n7
+  n8["`Bàn tay vô hình: chỉ nghĩ đến an toàn và lợi nhuận riêng, chủ vốn thường thúc đẩy lợi ích xã hội hiệu quả hơn`"]
+  n1 --- n8
+  n9["`Người tại chỗ biết dùng vốn rõ hơn chính khách, quyền chỉ đạo vốn nguy hiểm nhất trong tay kẻ tự phụ`"]
+  n1 --- n9
+  n10["`Mục 4–5 — Bảo hộ vô ích hoặc có hại, kể cả với công nghiệp non trẻ`"]
+  n0 --- n10
+  n11["`Hàng nội rẻ bằng hàng ngoại thì luật vô ích, không rẻ bằng thì luật có hại`"]
+  n10 --- n11
+  n12["`Thợ may không tự đóng giày: điều khôn ngoan với mỗi gia đình khó có thể là dại dột với cả vương quốc`"]
+  n10 --- n12
+  n13["`Buộc tự làm thứ mua được rẻ hơn là dùng toàn bộ vốn cho thứ chỉ cần một phần, sản phẩm hàng năm giảm`"]
+  n10 --- n13
+  n14["`Rượu vang Scotland trồng bằng nhà kính, tường sưởi tốn gấp khoảng 30 lần rượu nhập cùng chất lượng`"]
+  n10 --- n14
+  n15["`Phí gấp 30 lần là phi lý rõ ràng, phí thêm 1/30 hay 1/300 cũng phi lý, chỉ khó thấy hơn`"]
+  n10 --- n15
+  n16["`Lợi thế tự nhiên hay tự tạo đều như nhau: nước khác có lợi thế thì mua vẫn hơn tự làm`"]
+  n10 --- n16
+  n17["`Bảo hộ có thể giúp một ngành có được sớm hơn và sau một thời gian rẻ bằng nước ngoài`"]
+  n10 --- n17
+  n18["`Nhưng vốn chỉ tăng nhờ tiết kiệm từ thu nhập, bảo hộ làm giảm thu nhập nên không làm vốn tăng nhanh hơn`"]
+  n10 --- n18
+  n19["`Không bảo hộ có thể không bao giờ có ngành ấy, nhưng xã hội không nghèo hơn ở giai đoạn nào`"]
+  n10 --- n19
+  n20["`Mục 6 — Ai được lợi: nhà buôn và chủ xưởng, không phải nông dân`"]
+  n0 --- n20
+  n21["`Hàng công nghiệp tinh xảo dễ chở nên nhập tự do làm một số xưởng phá sản, sản phẩm thô thì không`"]
+  n20 --- n21
+  n22["`Chỉ bò gầy Ai Len nhập được: lợi cho vùng vỗ béo, đụng nhẹ vùng nuôi giống, giá bò gầy vẫn tốt`"]
+  n20 --- n22
+  n23["`Thịt muối nhập tự do từ Ai Len chỉ lượng nhỏ, giá thịt ở Anh không giảm`"]
+  n20 --- n23
+  n24["`Chở 1 pound lúa mì giá 1 penny tốn ngang chở 1 pound thịt giá 4 penny`"]
+  n20 --- n24
+  n25["`Ngũ cốc nhập trung bình 23.728 quarter/năm, không vượt quá 1/571 lượng tiêu dùng của Anh`"]
+  n20 --- n25
+  n26["`Tiền thưởng xuất khẩu làm Anh xuất nhiều năm được mùa, nên phải nhập nhiều năm mất mùa`"]
+  n20 --- n26
+  n27["`Chủ xưởng hoảng khi có xưởng cùng loại trong vòng 20 dặm, chủ xưởng ở Abbeville đòi 30 league`"]
+  n20 --- n27
+  n28["`Nông dân sống rải rác, chia sẻ cách làm, thợ thành thị sống tập trung có tinh thần phường hội nên nghĩ ra hạn chế nhập`"]
+  n20 --- n28
+  n29["`Cấm vĩnh viễn nhập ngũ cốc, gia súc = dân số không được vượt quá những gì đất trong nước nuôi nổi`"]
+  n20 --- n29
+  n30["`Mục 7–8 — Hai trường hợp nên đánh thuế hàng ngoại`"]
+  n0 --- n30
+  n31["`Quốc phòng: thuỷ thủ và tàu buôn là hải quân dự bị, Đạo luật Hàng hải (1651, 1660) dành vận tải cho tàu Anh`"]
+  n30 --- n31
+  n32["`Tàu mà chủ, thuyền trưởng và 3/4 thuỷ thủ không phải người Anh bị cấm buôn với thuộc địa và chở ven biển`"]
+  n30 --- n32
+  n33["`Hàng cồng kềnh chở bằng tàu nước thứ ba bị tịch thu, cá và dầu cá voi nước ngoài chịu thuế gấp đôi, nhắm vào Hà Lan`"]
+  n30 --- n33
+  n34["`Có thể sinh từ hận thù với Hà Lan nhưng khôn ngoan: làm yếu hải quân duy nhất đe doạ nước Anh`"]
+  n30 --- n34
+  n35["`Giá phải trả: ít người nước ngoài đến bán thì ít người đến mua, Anh mua đắt bán rẻ`"]
+  n30 --- n35
+  n36["`Quốc phòng quan trọng hơn giàu có nên Đạo luật Hàng hải có lẽ khôn ngoan nhất trong mọi quy định thương mại`"]
+  n30 --- n36
+  n37["`Hàng nội đã chịu thuế thì đánh thuế ngang bằng lên hàng ngoại cùng loại để giữ cạnh tranh cùng mặt bằng`"]
+  n30 --- n37
+  n38["`Bác mở rộng sang mọi hàng ngoại với lý do thuế nhu yếu phẩm: tác động qua tiền công không đo được`"]
+  n30 --- n38
+  n39["`Thuế nhu yếu phẩm như đất xấu, khí hậu khắc nghiệt, Hà Lan thịnh vượng bất chấp chúng chứ không nhờ chúng`"]
+  n30 --- n39
+  n40["`Mục 9–10 — Hai trường hợp cần cân nhắc: trả đũa và khôi phục tự do nhập khẩu`"]
+  n0 --- n40
+  n41["`Biểu thuế Colbert 1667 → Hà Lan cấm hàng Pháp 1671 → chiến tranh 1672 → Hoà ước Nimeguen 1678`"]
+  n40 --- n41
+  n42["`Anh cấm ren xương Flanders 1697, Flanders cấm len Anh, năm 1700 Anh bỏ lệnh cấm đổi lấy len Anh được nhập lại`"]
+  n40 --- n42
+  n43["`Trả đũa có thể tốt nếu có triển vọng buộc bên kia gỡ thuế, phán đoán ấy thuộc về #quot;con vật xảo quyệt#quot; gọi là chính khách`"]
+  n40 --- n43
+  n44["`Không có triển vọng thì mỗi luật trả đũa là một thứ thuế thực lên cả nước, lợi cho nhóm không bị thiệt`"]
+  n40 --- n44
+  n45["`Ngành đã dùng nhiều thợ thì gỡ bảo hộ từ từ, thận trọng để hàng nghìn người không mất kế sinh nhai cùng lúc`"]
+  n40 --- n45
+  n46["`Len, da thuộc, ngũ kim xuất khẩu không cần tiền thưởng nên gần như không bị ảnh hưởng, tơ lụa thiệt nhất`"]
+  n40 --- n46
+  n47["`Hơn 100.000 lính và thuỷ thủ giải ngũ được hấp thụ, tiền công không giảm trừ thuỷ thủ tàu buôn`"]
+  n40 --- n47
+  n48["`Vốn trước kia thuê thợ vẫn ở trong nước nên cầu lao động gần như không đổi`"]
+  n40 --- n48
+  n49["`Điều kiện: phá đặc quyền phường hội, bãi luật học nghề và luật định cư để thợ đi tìm việc nơi khác`"]
+  n40 --- n49
+  n50["`Mục 11 — Vì sao tự do thương mại không bao giờ trở lại hoàn toàn`"]
+  n0 --- n50
+  n51["`Mong tự do thương mại hoàn toàn ở Anh phi lý như mong lập một Oceana hay Utopia`"]
+  n50 --- n51
+  n52["`Độc quyền như đạo quân thường trực quá lớn, đáng sợ với chính phủ, nhiều lần đe doạ cơ quan lập pháp`"]
+  n50 --- n52
+  n53["`Nghị sĩ ủng hộ độc quyền được tiếng hiểu thương mại, nghị sĩ chống bị lăng mạ, có khi nguy hiểm tính mạng`"]
+  n50 --- n53
+  n54["`Vốn lưu động chuyển nghề được, vốn cố định khó bán, nên thay đổi phải chậm và báo trước lâu`"]
+  n50 --- n54
+  n55["`Nhà lập pháp không nên lập độc quyền mới, không mở rộng độc quyền cũ`"]
+  n50 --- n55
+  n56["`Thuế để chặn nhập phá hoại cả thu hải quan lẫn tự do thương mại`"]
+  n50 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Bảo hộ không tăng tổng việc làm mà chỉ dời vốn khỏi hướng chủ vốn tự chọn`"]
+  n57 --- n58
+  n59["`Bàn tay vô hình ở đây là lập luận hẹp: không cần luật bảo hộ để khuyến khích đầu tư trong nước`"]
+  n57 --- n59
+  n60["`Vốn giới hạn công việc sai khi có thất nghiệp, nhưng lập luận chi phí cơ hội vẫn đứng vững`"]
+  n57 --- n60
+  n61["`Lợi ích tập trung, chi phí phân tán nên bảo hộ tự duy trì, cách rẻ nhất là đừng tạo ra độc quyền`"]
+  n57 --- n61
+  class n0 root
+  class n1,n10,n20,n30,n40,n50,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương II. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 426–445.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Chương I của Quyển IV đã liệt kê sáu công cụ của hệ thống trọng thương và đặt tiêu chí đánh giá: mỗi công cụ làm tăng hay giảm giá trị sản phẩm hàng năm. Chương này xét công cụ đầu tiên và quan trọng nhất: dành độc quyền thị trường trong nước cho hàng nội bằng thuế cao hay lệnh cấm.
+
+Lập luận dựa vào hai kết quả của Quyển II: tổng lượng công việc của một xã hội bị giới hạn bởi tổng vốn (Chương III, nơi vốn chỉ tăng nhờ tiết kiệm từ thu nhập), và vốn đặt ở nội thương huy động nhiều lao động trong nước hơn vốn đặt ở ngoại thương tiêu dùng, càng hơn vốn đặt ở vận tải trung chuyển (Chương V).
+
+Đây là chương chứa "bàn tay vô hình" và là nền cho toàn bộ phần còn lại của Quyển IV, cho đến "hệ thống tự do tự nhiên" ở Chương IX.
+
+## Lưu ý
+
+Bản dịch có một số chỗ làm sai hoặc mất nghĩa kinh tế.
+
+- Câu then chốt "What is prudence in the conduct of every private family, can scarce be folly in that of a great kingdom" (điều là khôn ngoan với mỗi gia đình khó có thể là dại dột với cả một vương quốc lớn) bị dịch thành "Các gia đình tư nhân thường rất thận trọng, khôn ngoan trong lĩnh vực đó", mất hẳn phép loại suy.
+- Đoạn về công nghiệp non trẻ: gốc nói nhờ các quy định ấy một ngành "có thể **có được** sớm hơn" (may be acquired sooner) so với không có quy định; bản dịch viết "được hoàn thành sớm hơn là dự kiến", làm mất nghĩa.
+- Ví dụ rượu vang Scotland: bản dịch ghi "đắt gấp 30 lần", rồi câu sau ghi "gấp 39 lần"; đúng là 30 (lỗi đánh máy).
+- Về nhà chính khách, gốc nói quyền lực ấy "không thể giao an toàn cho bất kỳ một người, một hội đồng hay thượng viện nào, và **không ở đâu nguy hiểm bằng** trong tay một người đủ dại dột và tự phụ để tưởng mình đủ sức nắm nó"; bản dịch viết "không gây ra nguy hiểm ở bất kỳ nơi nào, trừ khi...", gần như đảo nghĩa.
+- Đoạn bò Ai Len: gốc là câu điều kiện ngược, nếu việc xuất bò có lợi lớn thì người xuất khẩu, có luật đứng về phía mình, đã dễ dàng thắng sự chống đối của đám đông (hàm ý: nó không lợi lớn, nên nhập khẩu không đe doạ ai); bản dịch viết như một sự thật khẳng định.
+- "Whale-fins, whale-bone" (phiến sừng hàm cá voi, xương cá voi) bị dịch là "vẩy, lược"; "double aliens duty" (thuế người nước ngoài gấp đôi) dịch là "hai loại thuế về hàng ngoại".
+- Câu về Đạo luật Hàng hải không đánh gánh nặng lên tàu nước ngoài đến chở hàng Anh đi, và thuế người nước ngoài cũ đánh vào hàng xuất đã được bãi bỏ cho phần lớn mặt hàng, bị dịch vỡ thành một câu cụt.
+- Về Hà Lan, gốc nói nước này tiếp tục thịnh vượng "không nhờ các thứ thuế ấy, như người ta vô lý cho là vậy, mà bất chấp chúng"; bản dịch viết "không phải vì hoàn cảnh phải như vậy".
+- Smith gọi nhà chính trị là "con vật xảo quyệt, thâm hiểm mà người ta thường gọi là chính khách", bản dịch làm mềm thành "sự tài ba khéo léo của nhà chính khách".
+- Câu Latin của Cato bị in sai ("cogitanies", "iri eo") và không được dịch.
+- Smith hai lần hẹn bàn tiếp "khi tôi bàn đến vấn đề thuế"; đó là Quyển V, không có trong ấn bản này.
+- Vì những chỗ dịch sai hay mất nghĩa như trên, các câu trích của Smith trong ngoặc kép ở phần Sơ đồ và ở các đoạn trích lẻ trong Dàn ý chi tiết (ví dụ "điều khôn ngoan với mỗi gia đình khó có thể là dại dột với cả một vương quốc lớn", "con vật xảo quyệt, thâm hiểm mà người ta thường gọi là chính khách") được dịch lại từ nguyên bản tiếng Anh, không chép từ bản dịch; riêng mục Câu nói đáng nhớ chép nguyên văn bản dịch kèm câu gốc tiếng Anh.

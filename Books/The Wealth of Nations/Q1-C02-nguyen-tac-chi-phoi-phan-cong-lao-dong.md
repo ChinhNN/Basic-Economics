@@ -1,11 +1,16 @@
 # Quyển I, Chương II — Nguyên tắc chi phối việc phân công lao động (Of the Principle which gives Occasion to the Division of Labour)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương II. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 39–42.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển I, Chương I đã chứng minh phân công lao động là nguồn tăng năng suất lớn nhất (xưởng ghim 10 người làm 48.000 chiếc mỗi ngày). Chương này hỏi phân công từ đâu ra, và trả lời rằng không ai thiết kế nó: nó là hệ quả của thiên hướng trao đổi trong bản chất con người. Câu trả lời này là nền cho hai chương sau: vì phân công sinh từ trao đổi, nó bị giới hạn bởi quy mô thị trường (Chương III) và cần tiền để trao đổi trôi chảy (Chương IV). Ở tầm toàn bộ sách, đây là lần đầu Smith nêu nguyên lý rằng lợi ích riêng, qua trao đổi, tạo ra lợi ích chung mà không ai chủ định, nguyên lý mà Quyển IV sẽ gọi là "bàn tay vô hình".
-**Ý chính:** Smith muốn chứng minh ba điều. Thứ nhất, phân công **không phải sản phẩm của trí khôn con người** nhìn thấy trước lợi ích của nó, mà là hệ quả chậm và dần dần của một **thiên hướng đổi chác, trao đổi vật này lấy vật khác** vốn chỉ có ở con người. Thứ hai, con người có được sự hợp tác của hàng nghìn người không phải nhờ lòng nhân từ của họ mà nhờ **đánh vào lợi ích riêng** của họ qua trao đổi (người bán thịt, người nấu bia, người làm bánh). Thứ ba, khác biệt tài năng giữa người với người phần lớn là **kết quả** chứ không phải **nguyên nhân** của phân công; và chính trao đổi biến những khác biệt ấy thành "một kho chung" mà mọi người đều dùng được, điều mà các giống chó khác nhau không làm được.
+## Ý chính
 
-> **Lưu ý:** (1) Câu "Chưa ai thấy một con chó lại muốn chia sẻ một mẩu xương với một con chó khác" là dịch sai ý: nguyên văn là chưa ai thấy một con chó **trao đổi một cách sòng phẳng và có chủ ý** khúc xương của nó lấy khúc xương của con chó khác (*a fair and deliberate exchange of one bone for another*). Smith nói về trao đổi, không phải về chia sẻ hay lòng tốt; dịch thành "chia sẻ" làm lập luận ngược hẳn. (2) Đoạn về người ăn mày bị dịch lẫn lộn. Nguyên văn: không ai trừ người ăn mày chọn **dựa chủ yếu** vào lòng nhân từ của đồng bào; ngay cả người ăn mày cũng không dựa hoàn toàn vào nó; của bố thí cho họ toàn bộ phương tiện sống, nhưng không cung cấp từng thứ đúng lúc họ cần; phần lớn nhu cầu hàng ngày của chính người ăn mày cũng được thoả mãn qua thoả thuận, đổi chác và mua bán như mọi người: tiền được cho thì dùng mua thức ăn, quần áo cũ được cho thì đổi lấy quần áo cũ khác vừa hơn, hoặc lấy chỗ ở, thức ăn, tiền. Bản dịch chuyển chủ ngữ từ "người ăn mày" sang "con người" nói chung, bỏ chữ "chủ yếu", và thêm "nhà cửa, đất đai", làm mất điểm then chốt: ngay cả người sống nhờ từ thiện cũng phải dùng thị trường. (3) "Spainel" là lỗi chính tả của *spaniel*.
+Smith muốn chứng minh ba điều.
+
+Thứ nhất, phân công **không phải sản phẩm của trí khôn con người** nhìn thấy trước lợi ích của nó, mà là hệ quả chậm và dần dần của một **thiên hướng đổi chác, trao đổi vật này lấy vật khác** vốn chỉ có ở con người.
+
+Thứ hai, con người có được sự hợp tác của hàng nghìn người không phải nhờ lòng nhân từ của họ mà nhờ **đánh vào lợi ích riêng** của họ qua trao đổi (người bán thịt, người nấu bia, người làm bánh).
+
+Thứ ba, khác biệt tài năng giữa người với người phần lớn là **kết quả** chứ không phải **nguyên nhân** của phân công.
+
+Và chính trao đổi biến những khác biệt ấy thành "một kho chung" mà mọi người đều dùng được, điều mà các giống chó khác nhau không làm được.
 
 ## Sơ đồ
 
@@ -337,7 +342,9 @@ Kinh tế học lao động hiện đại phần lớn đứng về phía Smith:
 
 Smith nói phân công nảy sinh khi người làm cung tên "chắc chắn" đổi được phần dư. Nhưng ông không giải thích sự chắc chắn ấy từ đâu. Trong bộ lạc của Smith, người làm cung tên chuyên nghiệp đặt cược sinh mạng vào việc những người đi săn sẽ tiếp tục đưa thịt cho mình. Điều gì bảo đảm điều đó? Quyền tài sản, lòng tin, sự trừng phạt kẻ gian, tức là các thể chế.
 
-Lịch sử và nhân học cho thấy câu chuyện có lẽ đi theo hướng ngược lại: ở các cộng đồng nhỏ, trao đổi giữa người quen thường không phải là đổi chác tức thời mà là quan hệ có đi có lại kéo dài, quà tặng và nghĩa vụ, tức là dựa **chính vào** quan hệ cá nhân mà Smith nói là không đủ. Đổi chác vô danh, sòng phẳng tức thời là đặc trưng của quan hệ với người lạ. Như vậy, lập luận của Smith đúng cho xã hội lớn (nơi ông đặt vấn đề) nhưng câu chuyện bộ lạc của ông là một "lịch sử phỏng đoán" (conjectural history), một phương pháp phổ biến của Khai sáng Scotland, không phải lịch sử thật. Kinh tế học thể chế hiện đại lấp lỗ hổng này: thị trường chỉ mở rộng được tới người lạ khi có thể chế đủ mạnh để thay thế quan hệ cá nhân.
+Lịch sử và nhân học cho thấy câu chuyện có lẽ đi theo hướng ngược lại: ở các cộng đồng nhỏ, trao đổi giữa người quen thường không phải là đổi chác tức thời mà là quan hệ có đi có lại kéo dài, quà tặng và nghĩa vụ, tức là dựa **chính vào** quan hệ cá nhân mà Smith nói là không đủ. Đổi chác vô danh, sòng phẳng tức thời là đặc trưng của quan hệ với người lạ.
+
+Như vậy, lập luận của Smith đúng cho xã hội lớn (nơi ông đặt vấn đề) nhưng câu chuyện bộ lạc của ông là một "lịch sử phỏng đoán" (conjectural history), một phương pháp phổ biến của Khai sáng Scotland, không phải lịch sử thật. Kinh tế học thể chế hiện đại lấp lỗ hổng này: thị trường chỉ mở rộng được tới người lạ khi có thể chế đủ mạnh để thay thế quan hệ cá nhân.
 
 ### Ví dụ về các giống chó cho thấy giá trị thật của đa dạng nằm ở khả năng kết hợp
 
@@ -351,4 +358,150 @@ Kết quả đúng như Smith dự đoán: khi động cơ lợi ích riêng b�
 
 Cải cách đi theo đúng trình tự của chương này. Khoán 100 (Chỉ thị 100, năm 1981) và đặc biệt khoán 10 (Nghị quyết 10 của Bộ Chính trị, năm 1988) giao ruộng cho hộ gia đình và cho hộ giữ phần sản lượng vượt khoán, tức là nối lại sợi dây giữa lợi ích riêng và sản lượng. Việc xoá bỏ cấm chợ khôi phục "sự chắc chắn đổi được phần dư". Chỉ trong vài năm sau khoán 10, Việt Nam chuyển từ thiếu gạo sang xuất khẩu gạo (từ năm 1989). Không có thay đổi lớn nào về đất, giống hay máy móc trong thời gian ngắn như vậy; thứ thay đổi là động cơ và quyền trao đổi.
 
-Bài học còn hiệu lực cho các cuộc tranh luận hiện nay. Ở những lĩnh vực mà quyền trao đổi còn bị giới hạn (quyền sử dụng đất nông nghiệp với hạn điền và hạn chế chuyển nhượng, các ngành có giấy phép con, các thị trường mà doanh nghiệp nhà nước giữ vị trí áp đảo), câu hỏi của Smith vẫn là câu hỏi đúng: người có năng lực ở đây có chắc chắn đổi được phần dư của mình không, và lợi ích riêng của họ có gắn với kết quả tốt cho người khác không? Còn ở chiều ngược lại, phần cảnh báo của Smith cũng đáng nhớ: lợi ích riêng chỉ tạo ra lợi ích chung qua cạnh tranh; khi nó đi qua quan hệ với cơ quan cấp phép thay vì qua thị trường, nó trở thành tìm kiếm đặc lợi.
+Bài học còn hiệu lực cho các cuộc tranh luận hiện nay. Ở những lĩnh vực mà quyền trao đổi còn bị giới hạn (quyền sử dụng đất nông nghiệp với hạn điền và hạn chế chuyển nhượng, các ngành có giấy phép con, các thị trường mà doanh nghiệp nhà nước giữ vị trí áp đảo), câu hỏi của Smith vẫn là câu hỏi đúng: người có năng lực ở đây có chắc chắn đổi được phần dư của mình không, và lợi ích riêng của họ có gắn với kết quả tốt cho người khác không?
+
+Còn ở chiều ngược lại, phần cảnh báo của Smith cũng đáng nhớ: lợi ích riêng chỉ tạo ra lợi ích chung qua cạnh tranh; khi nó đi qua quan hệ với cơ quan cấp phép thay vì qua thị trường, nó trở thành tìm kiếm đặc lợi.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển I, Chương II trên một trang: sáu nhánh lớn, bốn nhánh đầu đi theo các mục 1–6 của phần Nội dung chi tiết (phân công không do trí khôn thiết kế và loài vật không trao đổi, lợi ích riêng thay lòng nhân từ, bộ lạc săn bắt và điều kiện chắc chắn đổi được phần dư, tài năng là kết quả của phân công và kho chung), nhánh thứ năm tóm phần Đánh giá, mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương 2: phân công không do ai thiết kế mà sinh từ thiên hướng trao đổi chỉ con người có`"]
+  n1["`Mục 1–2 — Phân công là hệ quả chậm của thiên hướng trao đổi, thứ loài vật không có`"]
+  n0 --- n1
+  n2["`Phân công không xuất phát từ trí khôn con người nhìn trước và cố ý tạo ra sự giàu có chung`"]
+  n1 --- n2
+  n3["`Nó là hệ quả tất yếu, rất chậm, của thiên hướng đổi chác, trao đổi vật này lấy vật khác`"]
+  n1 --- n3
+  n4["`Thiên hướng ấy nguyên thuỷ hay do lý trí và ngôn ngữ? Smith nghiêng về vế sau nhưng gác lại`"]
+  n1 --- n4
+  n5["`Phương pháp: tách nguyên nhân của một thể chế khỏi chức năng tạo ra của cải của nó`"]
+  n1 --- n5
+  n6["`Hai con chó săn đuổi một con thỏ trông như phối hợp, thật ra chỉ trùng hợp ham muốn, không có giao kèo`"]
+  n1 --- n6
+  n7["`Chưa ai thấy một con chó trao đổi sòng phẳng, có chủ ý khúc xương của nó lấy khúc xương con khác`"]
+  n1 --- n7
+  n8["`Loài vật chỉ có một cách là xin ơn: chó con quấn mẹ, chó spaniel ve vãn chủ lúc ăn`"]
+  n1 --- n8
+  n9["`Xin ơn không mở rộng được: cả đời không đủ giành tình bạn của vài người`"]
+  n1 --- n9
+  n10["`Mục 3 — Hợp tác của hàng nghìn người dựa vào lợi ích riêng, không dựa vào lòng nhân từ`"]
+  n0 --- n10
+  n11["`Con vật trưởng thành thì tự lập, con người luôn cần đồng loại nhưng chỉ trông vào lòng từ tâm là vô ích`"]
+  n10 --- n11
+  n12["`Ý nghĩa của mọi giao kèo: #quot;Anh cho tôi thứ tôi cần, anh sẽ có thứ anh muốn#quot;`"]
+  n10 --- n12
+  n13["`Ta có bữa ăn nhờ người bán thịt, người nấu bia, người làm bánh quan tâm tới lợi ích riêng của họ`"]
+  n10 --- n13
+  n14["`Ta kêu gọi lòng vị kỷ chứ không kêu gọi lòng nhân đạo, nói về lợi ích của họ chứ không về nhu cầu của ta`"]
+  n10 --- n14
+  n15["`Lòng vị kỷ (self-love) là quan tâm tới lợi ích bản thân, không đồng nghĩa với tham lam hay lừa đảo`"]
+  n10 --- n15
+  n16["`Không ai trừ người ăn mày dựa chủ yếu vào lòng nhân từ, và người ăn mày cũng không dựa hoàn toàn`"]
+  n10 --- n16
+  n17["`Tiền được cho thì mua thức ăn, quần áo cũ được cho thì đổi lấy quần áo vừa hơn, chỗ ở, thức ăn hay tiền`"]
+  n16 --- n17
+  n18["`Ví dụ hôm nay: chuyến xe công nghệ lúc 11 giờ đêm xảy ra vì tài xế muốn thu nhập, khách muốn về nhà`"]
+  n10 --- n18
+  n19["`Mục 4 — Bộ lạc săn bắt: trao đổi biến một tay nghề thành một nghề chuyên`"]
+  n0 --- n19
+  n20["`Người làm cung tên khéo hơn đổi cung tên lấy gia súc, thịt nai, được nhiều hơn tự đi săn`"]
+  n19 --- n20
+  n21["`Vì lợi ích riêng, anh ta làm cung tên thành nghề chính và trở thành người làm vũ khí chuyên nghiệp`"]
+  n19 --- n21
+  n22["`Người làm khung lều thành thợ mộc, người thứ ba thành thợ rèn hay thợ đồng`"]
+  n19 --- n22
+  n23["`Người thứ tư thành thợ thuộc da, may đồ da, thứ quần áo chính của người hoang dã`"]
+  n19 --- n23
+  n24["`Điều kiện cốt yếu: chắc chắn đổi được toàn bộ phần dư còn lại sau khi mình và gia đình đã tiêu dùng đủ`"]
+  n19 --- n24
+  n25["`Không chắc đổi được thì người làm cung tên không dám bỏ đi săn, vì bỏ là có thể đói`"]
+  n24 --- n25
+  n26["`Minh hoạ phần dư: làm 20 bộ cung mỗi mùa, chỉ cần 1, đổi 19 bộ còn lại lấy thịt và gia súc`"]
+  n24 --- n26
+  n27["`Mục 5–6 — Khác biệt tài năng là kết quả của phân công, và trao đổi biến nó thành kho chung`"]
+  n0 --- n27
+  n28["`Khác biệt tài năng tự nhiên giữa người với người nhỏ hơn nhiều so với ta tưởng`"]
+  n27 --- n28
+  n29["`Nhà triết học và người khuân vác khác nhau phần lớn do thói quen, tập quán và giáo dục, không do thiên tư`"]
+  n27 --- n29
+  n30["`Trong 6–8 năm đầu đời họ giống nhau đến mức cha mẹ và bạn chơi không thấy khác biệt`"]
+  n29 --- n30
+  n31["`Được đưa vào những công việc khác nhau thì khác biệt mới hiện ra và lớn dần`"]
+  n29 --- n31
+  n32["`Không có trao đổi thì ai cũng tự làm mọi thứ, cùng một việc, nên không có khác biệt lớn về tài năng`"]
+  n27 --- n32
+  n33["`Các giống chó khác nhau hơn người với người: chó giữ nhà mạnh, chó săn thỏ nhanh, spaniel khôn, chó chăn cừu dễ bảo`"]
+  n27 --- n33
+  n34["`Chó không trao đổi được nên sức mạnh của chó giữ nhà không giúp gì chó săn thỏ, mỗi con tự lo một mình`"]
+  n33 --- n34
+  n35["`Ở con người, sản phẩm của mỗi tài năng được góp vào một kho chung, ai cũng mua được phần mình cần`"]
+  n27 --- n35
+  n36["`Hai vai trò của trao đổi: tạo ra khác biệt tài năng và biến khác biệt ấy thành của chung`"]
+  n27 --- n36
+  n37["`Đánh giá — đọc đúng câu người bán thịt, luận điểm bình đẳng, lỗ hổng về sự chắc chắn`"]
+  n0 --- n37
+  n38["`Câu người bán thịt trả lời một vấn đề quy mô: lòng nhân từ không mở rộng được tới hàng nghìn người lạ`"]
+  n37 --- n38
+  n39["`Lợi ích riêng có ích qua cạnh tranh và trao đổi tự nguyện, ngoài khuôn khổ đó thành âm mưu nâng giá, độc quyền`"]
+  n37 --- n39
+  n40["`Nhà triết học và người khuân vác là tuyên bố bình đẳng năm 1776, ngược truyền thống Platon về thiên bẩm`"]
+  n37 --- n40
+  n41["`Nếu năng lực do giáo dục tạo ra thì phân phối cơ hội giáo dục quyết định phần lớn phân phối thu nhập`"]
+  n40 --- n41
+  n42["`Lỗ hổng: Smith không giải thích sự chắc chắn đổi được từ đâu, thứ cần quyền tài sản, lòng tin, thể chế`"]
+  n37 --- n42
+  n43["`Chuyện bộ lạc là lịch sử phỏng đoán: cộng đồng nhỏ dựa vào quà tặng và nghĩa vụ, không đổi chác tức thời`"]
+  n42 --- n43
+  n44["`Giá trị của đa dạng nằm ở khả năng kết hợp, rào cản trao đổi làm các năng lực mất khả năng bổ sung nhau`"]
+  n37 --- n44
+  n45["`Việt Nam trước Đổi Mới: công điểm và ngăn sông cấm chợ cắt lợi ích riêng khỏi sản lượng, thiếu lương thực`"]
+  n37 --- n45
+  n46["`Khoán 100 (1981), khoán 10 (1988) và bỏ cấm chợ: Việt Nam xuất khẩu gạo từ năm 1989`"]
+  n45 --- n46
+  n47["`Kinh tế học hiện đại: trật tự tự phát (Ferguson, Hayek), lợi thế so sánh của Ricardo, vốn con người (Becker)`"]
+  n37 --- n47
+  n48["`Thông điệp xuyên suốt`"]
+  n0 --- n48
+  n49["`Lợi ích riêng, qua trao đổi, tạo ra lợi ích chung không ai chủ định, nguyên lý Quyển IV gọi là bàn tay vô hình`"]
+  n48 --- n49
+  n50["`Không cần ai tổ chức phân công, chỉ cần để con người tự do trao đổi và bảo đảm sự chắc chắn của trao đổi`"]
+  n48 --- n50
+  n51["`Chính sách không nên dựa vào lòng tốt mà dựa vào lợi ích, và khác biệt giai cấp không phải là tự nhiên`"]
+  n48 --- n51
+  n52["`Phân công sinh từ trao đổi nên bị giới hạn bởi quy mô thị trường (Chương III) và cần tiền (Chương IV)`"]
+  n48 --- n52
+  class n0 root
+  class n1,n10,n19,n27,n37,n48 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương II. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 39–42.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển I, Chương I đã chứng minh phân công lao động là nguồn tăng năng suất lớn nhất (xưởng ghim 10 người làm 48.000 chiếc mỗi ngày).
+
+Chương này hỏi phân công từ đâu ra, và trả lời rằng không ai thiết kế nó: nó là hệ quả của thiên hướng trao đổi trong bản chất con người. Câu trả lời này là nền cho hai chương sau: vì phân công sinh từ trao đổi, nó bị giới hạn bởi quy mô thị trường (Chương III) và cần tiền để trao đổi trôi chảy (Chương IV).
+
+Ở tầm toàn bộ sách, đây là lần đầu Smith nêu nguyên lý rằng lợi ích riêng, qua trao đổi, tạo ra lợi ích chung mà không ai chủ định, nguyên lý mà Quyển IV sẽ gọi là "bàn tay vô hình".
+
+## Lưu ý
+
+- Câu "Chưa ai thấy một con chó lại muốn chia sẻ một mẩu xương với một con chó khác" là dịch sai ý: nguyên văn là chưa ai thấy một con chó **trao đổi một cách sòng phẳng và có chủ ý** khúc xương của nó lấy khúc xương của con chó khác (*a fair and deliberate exchange of one bone for another*). Smith nói về trao đổi, không phải về chia sẻ hay lòng tốt; dịch thành "chia sẻ" làm lập luận ngược hẳn.
+- Đoạn về người ăn mày bị dịch lẫn lộn. Nguyên văn: không ai trừ người ăn mày chọn **dựa chủ yếu** vào lòng nhân từ của đồng bào; ngay cả người ăn mày cũng không dựa hoàn toàn vào nó; của bố thí cho họ toàn bộ phương tiện sống, nhưng không cung cấp từng thứ đúng lúc họ cần; phần lớn nhu cầu hàng ngày của chính người ăn mày cũng được thoả mãn qua thoả thuận, đổi chác và mua bán như mọi người: tiền được cho thì dùng mua thức ăn, quần áo cũ được cho thì đổi lấy quần áo cũ khác vừa hơn, hoặc lấy chỗ ở, thức ăn, tiền.
+
+  Bản dịch chuyển chủ ngữ từ "người ăn mày" sang "con người" nói chung, bỏ chữ "chủ yếu", và thêm "nhà cửa, đất đai", làm mất điểm then chốt: ngay cả người sống nhờ từ thiện cũng phải dùng thị trường.
+- "Spainel" là lỗi chính tả của *spaniel*.

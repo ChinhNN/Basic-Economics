@@ -1,13 +1,16 @@
 # Quyển I, Chương XI — Tiền thuê đất (Of the Rent of Land)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương XI. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 155–261.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Đây là chương khép lại Quyển I. Ở Chương VI, Smith đã nói giá mọi hàng hoá cuối cùng chia thành ba phần: tiền công, lợi nhuận và tiền thuê đất. Chương VIII bàn tiền công, Chương IX bàn lợi nhuận, Chương X bàn chênh lệch tiền công và lợi nhuận giữa các nghề. Chương XI bàn nốt phần thứ ba là địa tô, và qua đó trả lời câu hỏi lớn của Quyển I: sản phẩm hằng năm được phân phối thế nào giữa ba giai cấp, và quá trình tiến bộ tác động đến từng giai cấp ra sao. Phần lạc đề về giá trị của bạc là cuộc tấn công đầu tiên vào học thuyết trọng thương, chuẩn bị cho Quyển IV. Đoạn bàn về tiền thưởng xuất khẩu ngũ cốc ở đây cũng là phần mở cho chương về tiền thưởng (Quyển IV, Chương V).
-**Ý chính:** Smith muốn chứng minh rằng địa tô là một **giá độc quyền**, là phần còn dư sau khi giá sản phẩm đã trả đủ tiền công và lợi nhuận thông thường. Vì vậy địa tô là **hệ quả** của giá cao, không phải nguyên nhân. Lương thực luôn sinh địa tô vì đất luôn nuôi được nhiều người hơn số người cần để canh tác nó. Các sản phẩm khác (vật liệu may mặc, xây dựng, khoáng sản, kim loại quý) chỉ sinh địa tô khi lương thực đã dư thừa đủ để tạo ra cầu đối với chúng. Từ đó suy ra quy luật phát triển: khi xã hội tiến bộ, giá thực tế của sản phẩm thô (trừ ngũ cốc) tăng, giá thực tế của hàng chế tạo giảm, và địa tô thực tế tăng. Để chứng minh rằng giá sản phẩm thô tăng là do giá trị thực tế của chúng tăng chứ không phải do bạc mất giá, Smith viết một phần lạc đề dài về giá trị của bạc trong bốn thế kỷ. Ông dùng ngũ cốc làm thước đo, bác bỏ quan niệm phổ biến rằng của cải tăng thì bạc phải mất giá. Chương kết bằng phân tích ba giai cấp: lợi ích của địa chủ và người làm công gắn với lợi ích chung, còn lợi ích của giới thương nhân và chủ xưởng thì thường trái ngược với lợi ích chung.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có nhiều lỗi về đơn vị đo lường và số liệu. (1) "Quarter" (đơn vị đo ngũ cốc bằng 8 bushel, khoảng 290 lít) bị dịch thành "góc tạ" và chú thích sai là "khoảng 12,70 kg". Ở đoạn giá lúa mì Windsor đầu thế kỷ XVIII, "quarter of nine bushels" bị dịch thành "hai giạ (72 lít)". (2) "Ounce" bị chú thích là "0,28 gam", trong khi đúng là khoảng 31 gam (ounce troy). (3) Bảng giá lúa mì của Fleetwood (1202–1601) và bảng giá Windsor (1595–1764) mà Smith đặt cuối chương **không có trong văn bản**, chỉ còn dòng tiêu đề cuối cùng. Vì vậy file này chỉ dùng các con số trung bình Smith dẫn trong bài. (4) "Bounty" được dịch lẫn lộn giữa "tiền thưởng", "khuyến khích xuất khẩu" và "cho phép xuất khẩu". Thực ra luật năm 1688 không chỉ *cho phép* mà còn *trả tiền thưởng* cho mỗi quarter ngũ cốc xuất khẩu. (5) Tên vua và năm bị sai: "năm 1487, năm thứ tư triều đại vua Henry III" phải là Henry VII; "năm 1643, năm thứ ba vua Edward IV" phải là 1463; "khoảng năm 1939" phải là 1339; "Nghiệp đoàn" là Hiệp ước Liên hiệp (Union) Anh–Scotland năm 1707; "vị vua nước Peru" là vua Tây Ban Nha. (6) Ở đoạn về Nam Kỳ, giá đường "không bằng một phần tư **giá thường trả**" cho đường nâu thuộc địa bị dịch thành "số tiền thưởng". (7) Đoạn Pliny bị vỡ: Asinius Celer bị nhắc hai lần. Theo nguyên tác, sau khi quy đổi 6.000 sestertius ra khoảng 50 bảng và 8.000 sestertius ra khoảng 66 bảng 13 shilling 4 penny, Smith nói rằng xét theo sức mua thật thì hai giá đó tương đương khoảng 66 bảng 13 shilling 4 penny và 88 bảng 17 shilling 9⅓ penny ngày nay. (8) Văn bản PDF có hai chỗ lặp dòng do trích xuất (đoạn giá bạc thỏi năm 1695 và đoạn định nghĩa ba loại sản phẩm thô). Ở đoạn giá Windsor, con số "1 bảng 16 shilling 20 penny 2/3" vô nghĩa, đúng là 10 penny ⅔. (9) Câu kết về giới thương nhân bị dịch nặng hơn nguyên văn: Smith không nói "mục đích chính" của họ là lừa dối, mà nói họ "thường có lợi ích trong việc lừa dối, thậm chí áp bức công chúng". (10) Smith dẫn Ulloa về giá bò ở Buenos Aires hai lần với quy mô đàn khác nhau: đoạn đầu chương ghi "một đàn bò hai, ba trăm con", đoạn bàn về giá bạc ghi "một đàn từ một trăm đến bốn trăm con". Đây là khác biệt giữa hai đoạn của văn bản, không phải hai con số mâu thuẫn trong bản tổng hợp.
+Smith muốn chứng minh rằng địa tô là một **giá độc quyền**, là phần còn dư sau khi giá sản phẩm đã trả đủ tiền công và lợi nhuận thông thường. Vì vậy địa tô là **hệ quả** của giá cao, không phải nguyên nhân.
 
-Đơn vị tiền: 1 bảng (pound) = 20 shilling, 1 shilling = 12 penny. Smith thường quy giá cũ ra "tiền hiện nay" theo **lượng bạc** chứa trong đồng tiền, vì đồng shilling bị giảm hàm lượng bạc qua các triều đại. Ví dụ 6 shilling 8 penny dưới thời Edward III chứa 4 ounce bạc, tương đương khoảng 20 shilling năm 1776. "Trọng lượng Tower" là hệ cân cũ của Sở đúc tiền. 1 bushel ("giạ") khoảng 36 lít, 1 quarter = 8 bushel.
+Lương thực luôn sinh địa tô vì đất luôn nuôi được nhiều người hơn số người cần để canh tác nó. Các sản phẩm khác (vật liệu may mặc, xây dựng, khoáng sản, kim loại quý) chỉ sinh địa tô khi lương thực đã dư thừa đủ để tạo ra cầu đối với chúng.
+
+Từ đó suy ra quy luật phát triển: khi xã hội tiến bộ, giá thực tế của sản phẩm thô (trừ ngũ cốc) tăng, giá thực tế của hàng chế tạo giảm, và địa tô thực tế tăng.
+
+Để chứng minh rằng giá sản phẩm thô tăng là do giá trị thực tế của chúng tăng chứ không phải do bạc mất giá, Smith viết một phần lạc đề dài về giá trị của bạc trong bốn thế kỷ. Ông dùng ngũ cốc làm thước đo, bác bỏ quan niệm phổ biến rằng của cải tăng thì bạc phải mất giá.
+
+Chương kết bằng phân tích ba giai cấp: lợi ích của địa chủ và người làm công gắn với lợi ích chung, còn lợi ích của giới thương nhân và chủ xưởng thì thường trái ngược với lợi ích chung.
 
 ## Sơ đồ
 
@@ -532,13 +535,17 @@
 
 ## Khái niệm cần biết
 
-**Địa tô, hay tiền thuê đất (rent of land).** Khoản tiền (hoặc phần sản phẩm) người thuê đất trả cho chủ đất để được dùng mảnh đất đó. Smith định nghĩa nó theo cách trừ lùi: lấy giá bán toàn bộ sản phẩm của đất, trừ đi phần đủ để người thuê thay lại số vốn đã ứng ra (hạt giống, tiền công, gia súc, nông cụ) và trừ đi lợi nhuận thông thường của nghề nông trong vùng; phần còn lại là địa tô. Ví dụ minh hoạ (số tự đặt): một trang trại bán sản phẩm được 100 bảng mỗi năm; người thuê phải bỏ ra 60 bảng tiền công, giống, hao mòn nông cụ, và cần thêm 15 bảng lợi nhuận mới chịu ở lại nghề; chủ đất sẽ đòi được khoảng 25 bảng. Khái niệm này là trục của cả chương: mọi lập luận về giá ngũ cốc, giá thịt, giá than, giá bạc đều quay về câu hỏi phần dư ấy lớn hay nhỏ và vì sao.
+**Địa tô, hay tiền thuê đất (rent of land).** Khoản tiền (hoặc phần sản phẩm) người thuê đất trả cho chủ đất để được dùng mảnh đất đó. Smith định nghĩa nó theo cách trừ lùi: lấy giá bán toàn bộ sản phẩm của đất, trừ đi phần đủ để người thuê thay lại số vốn đã ứng ra (hạt giống, tiền công, gia súc, nông cụ) và trừ đi lợi nhuận thông thường của nghề nông trong vùng; phần còn lại là địa tô.
+
+Ví dụ minh hoạ (số tự đặt): một trang trại bán sản phẩm được 100 bảng mỗi năm; người thuê phải bỏ ra 60 bảng tiền công, giống, hao mòn nông cụ, và cần thêm 15 bảng lợi nhuận mới chịu ở lại nghề; chủ đất sẽ đòi được khoảng 25 bảng. Khái niệm này là trục của cả chương: mọi lập luận về giá ngũ cốc, giá thịt, giá than, giá bạc đều quay về câu hỏi phần dư ấy lớn hay nhỏ và vì sao.
 
 **Lợi nhuận thông thường (ordinary profit).** Mức lời trung bình mà vốn kiếm được ở các nghề trong một vùng, đủ để người có vốn không bỏ nghề này sang nghề khác. Ví dụ minh hoạ: nếu ở mọi nghề quanh đó vốn 100 bảng thường lời 10 bảng một năm, thì người thuê đất cũng phải giữ lại được khoảng 10 bảng trên mỗi 100 bảng vốn, nếu không họ sẽ đem vốn đi buôn bán. Khái niệm này quan trọng vì nó là "phần chi phí" mà địa chủ không thể lấy đi; chỉ phần vượt lên trên nó mới thành địa tô.
 
 **Giá độc quyền (monopoly price).** Giá được quyết định bởi khả năng trả của người mua chứ không bởi chi phí của người bán. Smith gọi địa tô là giá độc quyền vì đất có hạn và có chủ, nên chủ đất đòi theo mức người thuê trả được, không theo số vốn mình đã bỏ ra. Ví dụ trong chương: bãi tảo bẹ trên đá ven biển Scotland, thứ không ai bỏ công cải tạo, vẫn chịu tô ngang ruộng lúa mì. Hiểu khái niệm này mới hiểu câu then chốt của chương: tiền công và lợi nhuận là nguyên nhân của giá, còn địa tô là hệ quả của giá.
 
-**Giá danh nghĩa và giá thực tế (nominal price, real price).** Giá danh nghĩa là giá tính bằng tiền (bằng bạc); giá thực tế là lượng lao động, hay lượng hàng thiết yếu, mà một món hàng đổi được. Smith dùng ngũ cốc làm thước đo giá thực vì ở mọi thời, làm ra cùng một lượng ngũ cốc cần lượng lao động gần như nhau. Ví dụ trong chương: một tod len thời Edward III giá 10 shilling, nay 21 shilling, nên giá danh nghĩa tính theo bạc giảm theo tỷ lệ 10 : 7; nhưng 10 shilling khi ấy mua được 12 bushel lúa mì, còn 21 shilling nay chỉ mua được 6 bushel, nên giá thực giảm một nửa. Phân biệt này là công cụ chính của phần lạc đề về bạc: muốn biết hàng hoá đắt lên thật hay chỉ là bạc rẻ đi, phải tách hai loại giá.
+**Giá danh nghĩa và giá thực tế (nominal price, real price).** Giá danh nghĩa là giá tính bằng tiền (bằng bạc); giá thực tế là lượng lao động, hay lượng hàng thiết yếu, mà một món hàng đổi được. Smith dùng ngũ cốc làm thước đo giá thực vì ở mọi thời, làm ra cùng một lượng ngũ cốc cần lượng lao động gần như nhau.
+
+Ví dụ trong chương: một tod len thời Edward III giá 10 shilling, nay 21 shilling, nên giá danh nghĩa tính theo bạc giảm theo tỷ lệ 10 : 7; nhưng 10 shilling khi ấy mua được 12 bushel lúa mì, còn 21 shilling nay chỉ mua được 6 bushel, nên giá thực giảm một nửa. Phân biệt này là công cụ chính của phần lạc đề về bạc: muốn biết hàng hoá đắt lên thật hay chỉ là bạc rẻ đi, phải tách hai loại giá.
 
 **Chi phí cơ hội của đất và "đất ngũ cốc điều tiết tô của đất khác".** Chi phí cơ hội là cái phải bỏ qua khi dùng một nguồn lực vào việc này thay vì việc khác. Một mảnh đất trồng được ngũ cốc thì khi đem chăn bò, người chủ bò phải trả được ít nhất mức tô và lợi nhuận mà ngũ cốc lẽ ra mang lại. Ví dụ trong chương: khi trồng trọt lan rộng ở Anh, gia súc phải nuôi trên đất canh tác, nên giá gia súc tăng lên đến mức trả đủ tô của đất ngũ cốc; ở cao nguyên Scotland sau Liên hiệp, giá gia súc tăng khoảng ba lần. Khái niệm này giải thích vì sao Smith nói tô của đất trồng lương thực chính quyết định tô của hầu hết các loại đất khác.
 
@@ -601,7 +608,9 @@ Phần III sẽ kéo theo một đoạn lạc đề rất dài về giá trị c
 
 Smith minh hoạ bằng loại đất kém nhất. Những đồng cỏ hoang hoá ở Na Uy và Scotland nuôi được một đàn gia súc. Sữa và số con sinh ra mỗi năm của đàn ấy đủ để nuôi người chăn, đủ trả lợi nhuận thông thường cho người chủ đàn, và **vẫn còn** trả được một khoản tô nhỏ cho chủ đất. Tô tăng theo độ tốt của đồng cỏ. Cỏ tốt hơn giúp chủ đất lợi theo **hai** đường cùng lúc: cùng một diện tích nuôi được nhiều gia súc hơn, tức sản phẩm nhiều hơn; và đàn gia súc tập trung trên diện tích nhỏ hơn nên cần ít người chăn hơn, tức chi phí thấp hơn. Phần dư tăng từ cả hai phía.
 
-**Tô thay đổi theo độ màu mỡ và theo vị trí.** Địa tô không chỉ thay đổi theo độ màu mỡ của đất, bất kể sản phẩm là gì, mà còn theo vị trí. Đất gần thành thị chịu tô cao hơn đất có cùng độ màu mỡ ở vùng xa. Lý do: làm hai mảnh đất tốn cùng một lượng lao động, nhưng chở sản phẩm từ mảnh đất xa ra chợ tốn thêm lao động **vận chuyển**. Phần chi phí thêm đó phải lấy từ phần dư, nên phần dư chung để chia cho lợi nhuận của người thuê và tô của địa chủ ở đất xa nhỏ hơn. Smith nhắc thêm một điểm: ở vùng xa, tỷ suất lợi nhuận thường cao hơn vùng gần thành thị (như ông đã nói ở các chương trước). Vậy ở vùng xa, phần dư vốn đã nhỏ hơn lại phải chia một phần lớn hơn cho lợi nhuận, và phần còn lại cho địa chủ càng nhỏ.
+**Tô thay đổi theo độ màu mỡ và theo vị trí.** Địa tô không chỉ thay đổi theo độ màu mỡ của đất, bất kể sản phẩm là gì, mà còn theo vị trí. Đất gần thành thị chịu tô cao hơn đất có cùng độ màu mỡ ở vùng xa. Lý do: làm hai mảnh đất tốn cùng một lượng lao động, nhưng chở sản phẩm từ mảnh đất xa ra chợ tốn thêm lao động **vận chuyển**. Phần chi phí thêm đó phải lấy từ phần dư, nên phần dư chung để chia cho lợi nhuận của người thuê và tô của địa chủ ở đất xa nhỏ hơn.
+
+Smith nhắc thêm một điểm: ở vùng xa, tỷ suất lợi nhuận thường cao hơn vùng gần thành thị (như ông đã nói ở các chương trước). Vậy ở vùng xa, phần dư vốn đã nhỏ hơn lại phải chia một phần lớn hơn cho lợi nhuận, và phần còn lại cho địa chủ càng nhỏ.
 
 **Đường sá và kênh đào phá độc quyền vị trí.** Đường sá tốt, kênh đào, sông ngòi đi lại được làm giảm chi phí vận chuyển, đưa các vùng xa gần ngang hàng với vùng ven đô. Smith gọi đó là **"thành quả cải thiện lớn nhất"**. Ông lập luận rằng chúng có lợi cho cả hai bên:
 
@@ -628,7 +637,9 @@ Smith đưa số liệu về cao nguyên Scotland. Chưa đến 100 năm trướ
 
 **Trật tự điều tiết.** Từ đó Smith rút ra trật tự: trong quá trình cải tạo đất, tô và lợi nhuận của đồng cỏ **chưa cải tạo** được điều tiết bởi tô và lợi nhuận của đồng cỏ **đã cải tạo**, và những thứ này lại được điều tiết bởi tô và lợi nhuận của **đất ngũ cốc**. Nói cách khác, ngũ cốc là chuẩn mà mọi cách dùng đất khác phải so với.
 
-Có ngoại lệ ở những nước mà ngũ cốc chủ yếu là hàng **nhập khẩu**. Ở đó ngũ cốc rẻ do được chở từ nơi khác đến, nên chăn nuôi lời hơn trồng ngũ cốc. Hà Lan hiện nay là một ví dụ; một phần Italia cổ đại thời La Mã thịnh vượng là ví dụ khác. Cato, theo lời Cicero kể, xếp việc chăn nuôi tốt là việc có lợi nhất trong quản lý một điền trang, chăn nuôi khá là việc thứ hai, chăn nuôi kém là việc thứ ba, còn cày cấy chỉ đứng thứ tư. Nông nghiệp vùng Latium quanh thành Rome bị suy sụp vì ngũ cốc được phân phát cho dân La Mã miễn phí hoặc với giá rất thấp. Số ngũ cốc này lấy từ các tỉnh bị chinh phục, trong đó một số tỉnh phải nộp 1/10 sản lượng thay cho thuế, và Cộng hoà mua với giá quy định 6 penny một peck. Nông dân Latium không thể cạnh tranh với ngũ cốc gần như cho không ấy, nên phải chuyển sang chăn nuôi.
+Có ngoại lệ ở những nước mà ngũ cốc chủ yếu là hàng **nhập khẩu**. Ở đó ngũ cốc rẻ do được chở từ nơi khác đến, nên chăn nuôi lời hơn trồng ngũ cốc. Hà Lan hiện nay là một ví dụ; một phần Italia cổ đại thời La Mã thịnh vượng là ví dụ khác. Cato, theo lời Cicero kể, xếp việc chăn nuôi tốt là việc có lợi nhất trong quản lý một điền trang, chăn nuôi khá là việc thứ hai, chăn nuôi kém là việc thứ ba, còn cày cấy chỉ đứng thứ tư.
+
+Nông nghiệp vùng Latium quanh thành Rome bị suy sụp vì ngũ cốc được phân phát cho dân La Mã miễn phí hoặc với giá rất thấp. Số ngũ cốc này lấy từ các tỉnh bị chinh phục, trong đó một số tỉnh phải nộp 1/10 sản lượng thay cho thuế, và Cộng hoà mua với giá quy định 6 penny một peck. Nông dân Latium không thể cạnh tranh với ngũ cốc gần như cho không ấy, nên phải chuyển sang chăn nuôi.
 
 Có một ngoại lệ khác mang tính cục bộ. Ở một vùng chủ yếu trồng ngũ cốc, một đồng cỏ **có rào** thường chịu tô cao hơn ruộng ngũ cốc bên cạnh, vì người ta cần nơi nuôi súc vật kéo cày, và cỏ cho chúng ăn đắt. Nhưng đó chỉ là lợi thế cục bộ, sẽ mất khi mọi đất quanh đó đều được rào. Ở Scotland hiện nay, đất có rào chịu tô cao vì rào còn hiếm, nhưng mức tô cao ấy sẽ không kéo dài hơn sự khan hiếm đó. Ở nơi không có lợi thế cục bộ như vậy, tô và lợi nhuận của ngũ cốc điều tiết tô và lợi nhuận của đồng cỏ.
 
@@ -650,11 +661,15 @@ Vậy so với hiện nay, đầu thế kỷ trước lúa mì rẻ hơn nhiều
 
 **Các cây trồng khác bị ngũ cốc và đồng cỏ điều tiết.** Ở mọi nước lớn, phần lớn đất canh tác được dùng để sản xuất lương thực cho người hoặc thức ăn cho gia súc. Tô và lợi nhuận của các đất này điều tiết tô và lợi nhuận của mọi đất canh tác khác. Cơ chế rất đơn giản: nếu một cây trồng nào đó cho tô và lợi nhuận **ít hơn**, đất trồng nó sẽ sớm được chuyển sang trồng ngũ cốc hoặc làm đồng cỏ; nếu cây nào cho **nhiều hơn**, một phần đất ngũ cốc hoặc đồng cỏ sẽ sớm được chuyển sang trồng cây đó. Sự chuyển đổi qua lại này kéo tô và lợi nhuận của mọi cây trồng về gần nhau.
 
-Những sản phẩm cần chi phí cải tạo **ban đầu** lớn hơn (để làm đất phù hợp) thường cho tô cao hơn; những sản phẩm cần chi phí canh tác **hằng năm** lớn hơn thường cho lợi nhuận cao hơn. Nhưng phần cao hơn đó hiếm khi vượt quá mức chỉ đủ đền bù cho chi phí lớn hơn. Vườn hoa bia (hop), vườn quả, vườn rau cho tô và lợi nhuận cao hơn ruộng ngũ cốc, nhưng chúng cần nhiều vốn hơn để làm đất, cần kỹ năng quản lý, và mùa vụ bấp bênh hơn, nên giá sản phẩm phải chứa một khoản giống như phí bảo hiểm cho rủi ro. Tình cảnh nghèo khó của người làm vườn cho thấy tài khéo của họ không hề được trả công quá mức. Nghề làm vườn lại có nhiều người giàu làm để giải trí, nên người làm vườn chuyên nghiệp càng ít lợi: những người có khả năng là khách hàng tốt nhất của họ lại tự trồng lấy.
+Những sản phẩm cần chi phí cải tạo **ban đầu** lớn hơn (để làm đất phù hợp) thường cho tô cao hơn; những sản phẩm cần chi phí canh tác **hằng năm** lớn hơn thường cho lợi nhuận cao hơn. Nhưng phần cao hơn đó hiếm khi vượt quá mức chỉ đủ đền bù cho chi phí lớn hơn. Vườn hoa bia (hop), vườn quả, vườn rau cho tô và lợi nhuận cao hơn ruộng ngũ cốc, nhưng chúng cần nhiều vốn hơn để làm đất, cần kỹ năng quản lý, và mùa vụ bấp bênh hơn, nên giá sản phẩm phải chứa một khoản giống như phí bảo hiểm cho rủi ro.
+
+Tình cảnh nghèo khó của người làm vườn cho thấy tài khéo của họ không hề được trả công quá mức. Nghề làm vườn lại có nhiều người giàu làm để giải trí, nên người làm vườn chuyên nghiệp càng ít lợi: những người có khả năng là khách hàng tốt nhất của họ lại tự trồng lấy.
 
 Người xưa cũng đã thấy như vậy. Democritus, người viết về nông nghiệp thời Hy Lạp cổ, cho rằng rào vườn rau bằng tường gạch phơi nắng là không khôn ngoan, vì tiền lời không bù được chi phí tường, mà tường gạch phơi nắng thì bị mưa bão làm hỏng và phải sửa liên tục. Columella, dẫn Varro và được Palladius ủng hộ, đề nghị rào bằng cây gai và tầm xuân trồng dày. Ở Anh và các nước Bắc Âu, quả ngon cần có tường che chắn mới chín được, nên giá quả ngon phải đủ trả chi phí xây và giữ tường.
 
-**Vườn nho và lệnh cấm của Pháp năm 1731.** Một vườn nho được trồng và chăm tốt là phần có giá trị nhất của trang trại, cả với người Hy Lạp, La Mã cổ đại lẫn với các nước trồng nho hiện nay. Các nhà nông Italia cổ đại đã tranh luận việc trồng vườn nho **mới** có lợi hay không, và Columella ủng hộ việc trồng. Ở Pháp, chủ các vườn nho cũ luôn muốn ngăn người khác trồng vườn mới. Năm 1731 họ thuyết phục được hội đồng nhà nước ra lệnh cấm trồng vườn nho mới, và cấm phục hồi những vườn nho cũ đã bỏ hoang quá hai năm, trừ khi có giấy phép của nhà vua, mà giấy phép chỉ được cấp dựa trên chứng nhận của quan tỉnh rằng mảnh đất ấy không trồng được gì khác. Lý do chính thức là ngũ cốc và cỏ đang khan hiếm, còn nho bị trồng quá nhiều.
+**Vườn nho và lệnh cấm của Pháp năm 1731.** Một vườn nho được trồng và chăm tốt là phần có giá trị nhất của trang trại, cả với người Hy Lạp, La Mã cổ đại lẫn với các nước trồng nho hiện nay. Các nhà nông Italia cổ đại đã tranh luận việc trồng vườn nho **mới** có lợi hay không, và Columella ủng hộ việc trồng.
+
+Ở Pháp, chủ các vườn nho cũ luôn muốn ngăn người khác trồng vườn mới. Năm 1731 họ thuyết phục được hội đồng nhà nước ra lệnh cấm trồng vườn nho mới, và cấm phục hồi những vườn nho cũ đã bỏ hoang quá hai năm, trừ khi có giấy phép của nhà vua, mà giấy phép chỉ được cấp dựa trên chứng nhận của quan tỉnh rằng mảnh đất ấy không trồng được gì khác. Lý do chính thức là ngũ cốc và cỏ đang khan hiếm, còn nho bị trồng quá nhiều.
 
 Smith bác lệnh cấm này bằng hai lập luận:
 
@@ -667,25 +682,37 @@ Vậy tô và lợi nhuận của những sản phẩm cần chi phí lớn hơn
 
 **Ngoại lệ thật sự: đất quá ít so với cầu thực tế.** Chỉ có một trường hợp tô của một cây trồng thoát khỏi sự điều tiết của ngũ cốc: khi lượng đất phù hợp với một sản phẩm nào đó **quá ít** so với cầu thực tế (cầu của những người sẵn lòng và có khả năng trả đủ giá). Khi đó toàn bộ sản phẩm có thể bán cho những người sẵn sàng trả cao hơn mức đủ trả tô, công và lợi nhuận theo mức tự nhiên của chúng. Chỉ trong trường hợp này, phần dư của giá mới không theo một tỷ lệ cố định nào so với tô của ngũ cốc, mà có thể vượt **bất kỳ mức nào**, và phần lớn phần dư đó thành tô cho chủ đất.
 
-Rượu vang là ví dụ rõ nhất. Tỷ lệ thông thường giữa tô của đất nho và tô của đất ngũ cốc chỉ đúng với các vườn nho làm rượu loại trung bình, thứ rượu mà đất nho thông thường nào cũng làm được. Những vườn nho cho rượu có hương vị đặc biệt (dù sự đặc biệt ấy là thật hay chỉ do người ta tưởng tượng), giới hạn ở vài vườn, một vùng nhỏ hay một tỉnh, có lượng rượu không đủ cho cầu thực tế. Rượu ấy bán được cho người trả giá cao hơn, và phần lớn giá cao ấy thuộc về địa chủ. Smith thêm một nhận xét tinh tế: người ta hay nói những vườn nho này được chăm sóc rất kỹ, như thể sự chăm sóc là lý do giá cao. Thực ra việc chăm sóc kỹ là **hệ quả** chứ không phải nguyên nhân của giá cao: sản phẩm quý đến mức chỉ một chút cẩu thả cũng gây tổn thất lớn, nên người ta buộc phải cẩn thận.
+Rượu vang là ví dụ rõ nhất. Tỷ lệ thông thường giữa tô của đất nho và tô của đất ngũ cốc chỉ đúng với các vườn nho làm rượu loại trung bình, thứ rượu mà đất nho thông thường nào cũng làm được. Những vườn nho cho rượu có hương vị đặc biệt (dù sự đặc biệt ấy là thật hay chỉ do người ta tưởng tượng), giới hạn ở vài vườn, một vùng nhỏ hay một tỉnh, có lượng rượu không đủ cho cầu thực tế. Rượu ấy bán được cho người trả giá cao hơn, và phần lớn giá cao ấy thuộc về địa chủ.
+
+Smith thêm một nhận xét tinh tế: người ta hay nói những vườn nho này được chăm sóc rất kỹ, như thể sự chăm sóc là lý do giá cao. Thực ra việc chăm sóc kỹ là **hệ quả** chứ không phải nguyên nhân của giá cao: sản phẩm quý đến mức chỉ một chút cẩu thả cũng gây tổn thất lớn, nên người ta buộc phải cẩn thận.
 
 **Đồn điền mía Tây Ấn và giá đường ở Nam Kỳ.** Đồn điền mía của người Châu Âu ở Tây Ấn cũng thuộc trường hợp ngoại lệ này: toàn bộ sản lượng của chúng không đủ cho cầu thực tế ở Châu Âu, nên bán được với giá vượt xa mức tự nhiên. Để chứng minh, Smith dùng một nhóm đối chứng ở Việt Nam. Ở Nam Kỳ (Cochinchina), theo Poivre trong *Những chuyến đi của một nhà triết học*, đường trắng tinh thường bán 3 piastre một quintal, khoảng 13 shilling 6 penny tiền Anh. Quintal ở đó nặng 150–200 pound Paris, trung bình 175 pound Paris, nên giá vào khoảng 8 shilling một tạ Anh (hundredweight). Mức đó chưa bằng 1/4 giá thường trả cho đường nâu (muscovado) từ thuộc địa Anh, và chưa bằng 1/6 giá đường trắng tinh từ đó.
 
 Vì sao chênh lệch lớn như vậy? Ở Nam Kỳ, phần lớn đất trồng ngũ cốc và lúa gạo, lương thực của số đông; mía chỉ là một cây cạnh tranh tự do với lúa trên cùng loại đất. Vì vậy giá lúa và giá đường ở đó giữ đúng tỷ lệ tự nhiên giữa các cây trồng trên phần lớn đất canh tác, và chủ đất trồng mía chỉ nhận được tô ngang đất lúa. Ở đồn điền mía của Anh thì không như vậy: giá đường vượt xa tỷ lệ đó.
 
-Người ta hay nói chủ đồn điền mía mong rượu rum và mật mía trả hết chi phí canh tác, còn đường là **lợi nhuận thuần**. Smith châm biếm: nói vậy chẳng khác gì chủ trại ngũ cốc mong trả hết chi phí bằng rơm trấu, còn hạt là lợi nhuận thuần. Câu nói chỉ cho thấy lợi nhuận của đường cao đến mức nào. Bằng chứng khác: các hội nhà buôn ở London và các thành phố thương mại khác mua đất hoang ở các thuộc địa mía, để khai phá và trồng trọt qua người quản lý và đại lý, dù khoảng cách rất xa và luật pháp ở đó lỏng lẻo, khó bảo vệ quyền lợi. Trong khi đó không ai làm như vậy ở những vùng đất màu mỡ nhất của Scotland, Ireland hay các tỉnh trồng ngũ cốc ở Bắc Mỹ, dù ở đó luật pháp chặt chẽ hơn. Chỉ có lợi nhuận rất cao mới khiến người ta chấp nhận những rủi ro ấy.
+Người ta hay nói chủ đồn điền mía mong rượu rum và mật mía trả hết chi phí canh tác, còn đường là **lợi nhuận thuần**. Smith châm biếm: nói vậy chẳng khác gì chủ trại ngũ cốc mong trả hết chi phí bằng rơm trấu, còn hạt là lợi nhuận thuần. Câu nói chỉ cho thấy lợi nhuận của đường cao đến mức nào.
+
+Bằng chứng khác: các hội nhà buôn ở London và các thành phố thương mại khác mua đất hoang ở các thuộc địa mía, để khai phá và trồng trọt qua người quản lý và đại lý, dù khoảng cách rất xa và luật pháp ở đó lỏng lẻo, khó bảo vệ quyền lợi. Trong khi đó không ai làm như vậy ở những vùng đất màu mỡ nhất của Scotland, Ireland hay các tỉnh trồng ngũ cốc ở Bắc Mỹ, dù ở đó luật pháp chặt chẽ hơn. Chỉ có lợi nhuận rất cao mới khiến người ta chấp nhận những rủi ro ấy.
 
 **Thuốc lá: độc quyền do luật thuế tạo ra.** Ở Virginia và Maryland, người ta ưa trồng thuốc lá hơn ngũ cốc vì lời hơn. Thuốc lá có thể trồng có lợi ở phần lớn Châu Âu, nhưng hầu như ở đâu nó cũng là đối tượng đánh thuế chính. Thu thuế ở từng trang trại trong nước khó hơn thu ở hải quan khi hàng nhập vào, nên việc trồng thuốc lá bị **cấm** một cách phi lý ở phần lớn Châu Âu. Lệnh cấm đó tạo ra một thứ độc quyền vô hình cho những nơi được phép trồng, và Virginia, Maryland là những nơi sản xuất nhiều nhất nên hưởng phần lớn.
 
-Tuy vậy, lợi của thuốc lá không bằng mía. Smith chưa từng nghe có đồn điền thuốc lá nào được vốn của thương nhân Anh sống ở Anh khai phá, và các chủ đồn điền thuốc lá trở về Anh không giàu bằng chủ đồn điền mía. Chủ đồn điền thuốc lá còn **sợ thừa**. Họ đã thoả thuận với nhau giới hạn 6.000 cây, ước tính cho khoảng 1.000 pound thuốc, cho mỗi người nô lệ từ 16 đến 60 tuổi; ngoài số cây đó, người nô lệ ấy còn trồng thêm được 4 acre ngô. Tiến sĩ Douglas kể rằng trong năm được mùa, họ còn **đốt** bớt một lượng thuốc lá nhất định cho mỗi người nô lệ, như người Hà Lan đốt bớt gia vị để giữ giá. Smith nhận xét: nếu phải dùng những biện pháp quyết liệt như vậy để giữ giá thì lợi thế của thuốc lá so với ngũ cốc sẽ không kéo dài.
+Tuy vậy, lợi của thuốc lá không bằng mía. Smith chưa từng nghe có đồn điền thuốc lá nào được vốn của thương nhân Anh sống ở Anh khai phá, và các chủ đồn điền thuốc lá trở về Anh không giàu bằng chủ đồn điền mía.
 
-**Kết luận của Phần I về điều tiết địa tô.** Tô của đất trồng lương thực cho người điều tiết tô của phần lớn các loại đất canh tác khác. Không sản phẩm nào có thể cho tô ít hơn tô đó trong thời gian dài, vì đất sẽ chuyển sang trồng lương thực. Nếu sản phẩm nào cho tô nhiều hơn, đó là vì lượng đất phù hợp với nó quá ít so với cầu thực tế. Ở Châu Âu, ngũ cốc là lương thực chính của người dân, nên trừ những vị trí đặc biệt, tô của đất ngũ cốc điều tiết tô của mọi đất canh tác khác. Smith kết luận rằng nước Anh không cần ghen tị với vườn nho của Pháp hay đồn điền ô liu của Italia: trừ những vị trí đặc biệt, giá trị của chúng cũng bị điều tiết bởi giá trị của ngũ cốc, mà về ngũ cốc thì Anh không kém hai nước ấy.
+Chủ đồn điền thuốc lá còn **sợ thừa**. Họ đã thoả thuận với nhau giới hạn 6.000 cây, ước tính cho khoảng 1.000 pound thuốc, cho mỗi người nô lệ từ 16 đến 60 tuổi; ngoài số cây đó, người nô lệ ấy còn trồng thêm được 4 acre ngô. Tiến sĩ Douglas kể rằng trong năm được mùa, họ còn **đốt** bớt một lượng thuốc lá nhất định cho mỗi người nô lệ, như người Hà Lan đốt bớt gia vị để giữ giá. Smith nhận xét: nếu phải dùng những biện pháp quyết liệt như vậy để giữ giá thì lợi thế của thuốc lá so với ngũ cốc sẽ không kéo dài.
+
+**Kết luận của Phần I về điều tiết địa tô.** Tô của đất trồng lương thực cho người điều tiết tô của phần lớn các loại đất canh tác khác. Không sản phẩm nào có thể cho tô ít hơn tô đó trong thời gian dài, vì đất sẽ chuyển sang trồng lương thực. Nếu sản phẩm nào cho tô nhiều hơn, đó là vì lượng đất phù hợp với nó quá ít so với cầu thực tế.
+
+Ở Châu Âu, ngũ cốc là lương thực chính của người dân, nên trừ những vị trí đặc biệt, tô của đất ngũ cốc điều tiết tô của mọi đất canh tác khác. Smith kết luận rằng nước Anh không cần ghen tị với vườn nho của Pháp hay đồn điền ô liu của Italia: trừ những vị trí đặc biệt, giá trị của chúng cũng bị điều tiết bởi giá trị của ngũ cốc, mà về ngũ cốc thì Anh không kém hai nước ấy.
 
 **Giả định ngược: nếu lương thực chính sinh nhiều hơn ngũ cốc.** Smith đặt một giả thuyết: nếu ở một nước nào đó, lương thực chính của dân chúng đến từ một cây trồng mà đất thường trồng nó, với cùng lượng lao động, sinh ra **nhiều hơn** đất màu mỡ nhất trồng ngũ cốc, thì tô của địa chủ, tức phần lương thực còn dư sau khi trả công và lợi nhuận, sẽ lớn hơn nhiều. Phần dư đó nuôi được nhiều lao động hơn, nên giá trị thực của địa tô, cùng với quyền lực, uy thế và khả năng chi phối lao động của người khác mà địa chủ có, sẽ lớn hơn.
 
-*Lúa gạo.* Một ruộng lúa sinh ra lượng lương thực nhiều hơn ruộng ngũ cốc màu mỡ nhất. Mỗi acre thường cho hai vụ mỗi năm, mỗi vụ 30–60 bushel. Trồng lúa cần nhiều lao động hơn, nhưng phần dư còn lại sau khi nuôi đủ số lao động đó vẫn rất lớn. Ở các nước mà gạo là lương thực chính được ưa chuộng, và người trồng lúa chủ yếu sống bằng gạo, phần lớn phần dư đó thuộc về địa chủ. Ở Carolina (Bắc Mỹ), nơi chủ đồn điền thường vừa là chủ trại vừa là địa chủ, trồng lúa lời hơn trồng ngũ cốc, dù ở đó chỉ được một vụ mỗi năm và gạo không phải lương thực chính theo tập tục Châu Âu. Nhưng ruộng lúa tốt là đất lầy lội quanh năm, có một mùa ngập nước; không trồng được ngũ cốc, cỏ hay nho, hay bất kỳ sản phẩm nào có ích cho người. Ngược lại, đất hợp với các cây ấy thì không trồng lúa được. Vì đất lúa và đất khác không chuyển đổi qua lại được, ngay ở các nước trồng lúa, tô của ruộng lúa **không** điều tiết được tô của các loại đất khác.
+*Lúa gạo.* Một ruộng lúa sinh ra lượng lương thực nhiều hơn ruộng ngũ cốc màu mỡ nhất. Mỗi acre thường cho hai vụ mỗi năm, mỗi vụ 30–60 bushel. Trồng lúa cần nhiều lao động hơn, nhưng phần dư còn lại sau khi nuôi đủ số lao động đó vẫn rất lớn. Ở các nước mà gạo là lương thực chính được ưa chuộng, và người trồng lúa chủ yếu sống bằng gạo, phần lớn phần dư đó thuộc về địa chủ.
 
-*Khoai tây.* Đất trồng khoai tây cho lượng lương thực không kém ruộng lúa và hơn hẳn ruộng lúa mì. Một acre cho khoảng 12.000 pound khoai, một sản lượng không có gì đặc biệt, cũng thường gặp như 2.000 pound lúa mì của một acre lúa mì. Khoai chứa nhiều nước nên không thể so trọng lượng trực tiếp; nhưng kể cả trừ đi một nửa trọng lượng khoai là nước, vẫn còn 6.000 pound chất đặc, tức **gấp ba** lúa mì, với chi phí canh tác lại thấp hơn (công trồng khoai nhiều hơn, nhưng đất trồng ngũ cốc phải bỏ hoang luân phiên, nên tổng chi phí khoai vẫn thấp hơn). Nếu khoai tây trở thành lương thực chính của dân chúng ở một vùng nào đó, như gạo ở các nước trồng lúa, thì cùng diện tích đất sẽ nuôi được nhiều người hơn hẳn. Người lao động khi đó chủ yếu sống bằng khoai, phần dư sau khi thay vốn và nuôi người lao động sẽ lớn hơn, dân số sẽ tăng, và tô sẽ cao hơn hiện nay. Đất trồng khoai tây lại phù hợp với hầu hết các loại rau màu có ích khác, nên khác với ruộng lúa, tô của đất khoai tây khi đó sẽ điều tiết được tô của phần lớn đất canh tác.
+Ở Carolina (Bắc Mỹ), nơi chủ đồn điền thường vừa là chủ trại vừa là địa chủ, trồng lúa lời hơn trồng ngũ cốc, dù ở đó chỉ được một vụ mỗi năm và gạo không phải lương thực chính theo tập tục Châu Âu. Nhưng ruộng lúa tốt là đất lầy lội quanh năm, có một mùa ngập nước; không trồng được ngũ cốc, cỏ hay nho, hay bất kỳ sản phẩm nào có ích cho người. Ngược lại, đất hợp với các cây ấy thì không trồng lúa được. Vì đất lúa và đất khác không chuyển đổi qua lại được, ngay ở các nước trồng lúa, tô của ruộng lúa **không** điều tiết được tô của các loại đất khác.
+
+*Khoai tây.* Đất trồng khoai tây cho lượng lương thực không kém ruộng lúa và hơn hẳn ruộng lúa mì. Một acre cho khoảng 12.000 pound khoai, một sản lượng không có gì đặc biệt, cũng thường gặp như 2.000 pound lúa mì của một acre lúa mì. Khoai chứa nhiều nước nên không thể so trọng lượng trực tiếp; nhưng kể cả trừ đi một nửa trọng lượng khoai là nước, vẫn còn 6.000 pound chất đặc, tức **gấp ba** lúa mì, với chi phí canh tác lại thấp hơn (công trồng khoai nhiều hơn, nhưng đất trồng ngũ cốc phải bỏ hoang luân phiên, nên tổng chi phí khoai vẫn thấp hơn).
+
+Nếu khoai tây trở thành lương thực chính của dân chúng ở một vùng nào đó, như gạo ở các nước trồng lúa, thì cùng diện tích đất sẽ nuôi được nhiều người hơn hẳn. Người lao động khi đó chủ yếu sống bằng khoai, phần dư sau khi thay vốn và nuôi người lao động sẽ lớn hơn, dân số sẽ tăng, và tô sẽ cao hơn hiện nay. Đất trồng khoai tây lại phù hợp với hầu hết các loại rau màu có ích khác, nên khác với ruộng lúa, tô của đất khoai tây khi đó sẽ điều tiết được tô của phần lớn đất canh tác.
 
 | Cây trồng | Sản lượng mỗi acre (theo Smith) | Có điều tiết tô đất khác không? |
 |---|---|---|
@@ -693,7 +720,9 @@ Tuy vậy, lợi của thuốc lá không bằng mía. Smith chưa từng nghe c
 | Lúa gạo | 2 vụ mỗi năm, mỗi vụ 30–60 bushel | Không, vì ruộng lúa không trồng được gì khác |
 | Khoai tây | khoảng 12.000 pound (còn 6.000 pound chất đặc sau khi trừ nước), gấp 3 lúa mì | Có thể, vì đất khoai trồng được nhiều cây khác |
 
-Smith tỏ ra nghi ngờ chuyện người lao động ở Lancashire và Scotland được cho là thích bánh yến mạch hơn bánh mì lúa mì. Ông nhận xét dân thường Scotland ăn yến mạch nói chung không khoẻ và không đẹp bằng dân thường Anh ăn bánh mì, trong khi giới thượng lưu hai nước, vốn ăn uống giống nhau, thì không khác nhau. Khoai tây thì khác hẳn. Phu khiêng kiệu, phu khuân vác ở London, và những phụ nữ hành nghề mại dâm ở đó, những người đàn ông khoẻ nhất và những phụ nữ đẹp nhất trong các vương quốc Anh, phần lớn là dân nghèo gốc Ireland, những người sống chủ yếu bằng khoai tây. Smith dùng chi tiết này để nói khoai tây là lương thực bổ dưỡng. Trở ngại chính để khoai tây thành lương thực chính là nó khó giữ qua một năm và hoàn toàn không thể trữ hai ba năm như ngũ cốc. Người trồng sợ không bán kịp trước khi khoai thối, nên không dám trồng nhiều.
+Smith tỏ ra nghi ngờ chuyện người lao động ở Lancashire và Scotland được cho là thích bánh yến mạch hơn bánh mì lúa mì. Ông nhận xét dân thường Scotland ăn yến mạch nói chung không khoẻ và không đẹp bằng dân thường Anh ăn bánh mì, trong khi giới thượng lưu hai nước, vốn ăn uống giống nhau, thì không khác nhau.
+
+Khoai tây thì khác hẳn. Phu khiêng kiệu, phu khuân vác ở London, và những phụ nữ hành nghề mại dâm ở đó, những người đàn ông khoẻ nhất và những phụ nữ đẹp nhất trong các vương quốc Anh, phần lớn là dân nghèo gốc Ireland, những người sống chủ yếu bằng khoai tây. Smith dùng chi tiết này để nói khoai tây là lương thực bổ dưỡng. Trở ngại chính để khoai tây thành lương thực chính là nó khó giữ qua một năm và hoàn toàn không thể trữ hai ba năm như ngũ cốc. Người trồng sợ không bán kịp trước khi khoai thối, nên không dám trồng nhiều.
 
 ### 3. Phần II: Sản phẩm lúc có lúc không sinh địa tô
 
@@ -708,9 +737,13 @@ Smith tỏ ra nghi ngờ chuyện người lao động ở Lancashire và Scotla
 
 Ở thời đầu, chủ đất không thể đòi gì cho thứ mà người ta vứt đi. Ở thời sau, khi vật liệu đã khan, chủ đất đòi được một phần giá.
 
-**Vật liệu may mặc đi xa được, nên ngoại thương tạo ra tô.** Da thú là vật liệu may mặc đầu tiên của con người. Ở các dân tộc săn bắn và chăn nuôi, sống chủ yếu bằng thịt, mỗi người khi kiếm đủ thịt cho mình thì đồng thời có thừa da, nhiều hơn mức mình mặc được. Nếu không có ngoại thương, phần lớn số da đó bị vứt bỏ như đồ vô giá trị. Đó là trường hợp của các dân tộc săn bắn ở Bắc Mỹ trước khi người Châu Âu đến; khi người Châu Âu tìm ra Châu Mỹ, họ mang chăn, súng, rượu đến đổi lấy da thú, và từ đó da mới có giá. Ngày nay ở Châu Âu, gia súc trên cao nguyên Scotland, do có đường sá, được dắt xuống chợ, và khi được mổ thịt tại chỗ, da trở thành một mặt hàng xuất khẩu đáng kể, mang thêm tô cho chủ đất cao nguyên. Len của nước Anh thời xưa cũng vậy: Anh khi ấy chưa đủ kỹ năng để tự chế biến len, nên phải bán phần lớn sang vùng Flanders, giàu có và nhiều công nghiệp hơn; một phần số tiền thu được dùng để trả tô cho đồng cỏ nuôi cừu. Vật liệu may mặc gọn nhẹ, dễ chở xa, nên một vùng có thể nhận tô từ cầu của những nước ở xa.
+**Vật liệu may mặc đi xa được, nên ngoại thương tạo ra tô.** Da thú là vật liệu may mặc đầu tiên của con người. Ở các dân tộc săn bắn và chăn nuôi, sống chủ yếu bằng thịt, mỗi người khi kiếm đủ thịt cho mình thì đồng thời có thừa da, nhiều hơn mức mình mặc được. Nếu không có ngoại thương, phần lớn số da đó bị vứt bỏ như đồ vô giá trị. Đó là trường hợp của các dân tộc săn bắn ở Bắc Mỹ trước khi người Châu Âu đến; khi người Châu Âu tìm ra Châu Mỹ, họ mang chăn, súng, rượu đến đổi lấy da thú, và từ đó da mới có giá.
 
-**Vật liệu xây dựng cồng kềnh, nên phụ thuộc thị trường gần.** Đá, gạch, gỗ nặng và cồng kềnh, khó chở xa, nên ít khi là hàng ngoại thương. Khi chúng thừa thãi ở nơi sản xuất, chúng không có giá trị gì với chủ đất. Một mỏ đá tốt ở vùng lân cận London cho một khoản tô lớn; ở nhiều nơi tại Scotland và xứ Wales, mỏ đá như thế không cho tô gì cả. Gỗ làm nhà có giá ở nơi đông dân và canh tác tốt, và đất trồng rừng ở đó cho tô. Ở nhiều nơi tại Bắc Mỹ, chủ đất còn biết ơn ai chịu chặt bớt những cây lớn trên đất của mình để dọn chỗ canh tác. Ở một số vùng cao nguyên Scotland, chỉ có vỏ cây là chở ra chợ bán được; thân cây bị bỏ mục ngay tại chỗ vì không có đường để chở đi.
+Ngày nay ở Châu Âu, gia súc trên cao nguyên Scotland, do có đường sá, được dắt xuống chợ, và khi được mổ thịt tại chỗ, da trở thành một mặt hàng xuất khẩu đáng kể, mang thêm tô cho chủ đất cao nguyên. Len của nước Anh thời xưa cũng vậy: Anh khi ấy chưa đủ kỹ năng để tự chế biến len, nên phải bán phần lớn sang vùng Flanders, giàu có và nhiều công nghiệp hơn; một phần số tiền thu được dùng để trả tô cho đồng cỏ nuôi cừu. Vật liệu may mặc gọn nhẹ, dễ chở xa, nên một vùng có thể nhận tô từ cầu của những nước ở xa.
+
+**Vật liệu xây dựng cồng kềnh, nên phụ thuộc thị trường gần.** Đá, gạch, gỗ nặng và cồng kềnh, khó chở xa, nên ít khi là hàng ngoại thương. Khi chúng thừa thãi ở nơi sản xuất, chúng không có giá trị gì với chủ đất. Một mỏ đá tốt ở vùng lân cận London cho một khoản tô lớn; ở nhiều nơi tại Scotland và xứ Wales, mỏ đá như thế không cho tô gì cả.
+
+Gỗ làm nhà có giá ở nơi đông dân và canh tác tốt, và đất trồng rừng ở đó cho tô. Ở nhiều nơi tại Bắc Mỹ, chủ đất còn biết ơn ai chịu chặt bớt những cây lớn trên đất của mình để dọn chỗ canh tác. Ở một số vùng cao nguyên Scotland, chỉ có vỏ cây là chở ra chợ bán được; thân cây bị bỏ mục ngay tại chỗ vì không có đường để chở đi.
 
 Nhưng cầu của một nước giàu ở gần đôi khi tạo ra tô cho vật liệu xây dựng. Khi đường phố London được lát đá, chủ những mỏ đá trên vùng bờ biển cằn cỗi của Scotland nhận được một khoản thu nhập từ thứ mà trước đó họ chưa bao giờ nghĩ là có giá. Gỗ ở Na Uy và các nước ven biển Baltic tìm được thị trường ở nhiều nơi tại Anh, nơi không có đủ gỗ, và nhờ vậy mang lại tô cho chủ rừng ở những nước đó.
 
@@ -777,7 +810,9 @@ Kết quả là tô chiếm phần lớn hơn trong giá thiếc ở mỏ thiế
 
 **Khai mỏ ở Peru như chơi xổ số.** Lợi nhuận của người khai mỏ bạc Peru cũng không cao. Theo các tác giả đã dẫn, ai nhận khai thác một mỏ mới ở Peru đều bị coi là người sắp phá sản, bị người khác xa lánh. Khai mỏ ở đó cũng như ở Anh được coi như một trò xổ số: tổng giải thưởng không bù được tổng số vé thua, nhưng giải lớn vẫn cám dỗ nhiều người ưa phiêu lưu bỏ của cải vào.
 
-**Luật khuyến khích tìm mỏ hy sinh quyền của chủ đất.** Vua Tây Ban Nha có nguồn thu lớn từ mỏ bạc, nên luật ở Peru khuyến khích tối đa việc tìm mỏ mới. Ai tìm được một mỏ mới được đo cho 246 foot theo hướng của vỉa quặng và 123 foot theo chiều ngang. Người đó trở thành chủ phần mỏ đó và được khai thác mà không phải đền bù gì cho chủ đất. Công tước Cornwall cũng có luật tương tự gọi là quyền khoanh mỏ (bounding): người tìm thấy một mỏ thiếc trên đất hoang không rào được khoanh một khu giới hạn, khai thác hoặc cho người khác thuê mà không cần chủ đất đồng ý, chỉ phải trả cho chủ đất một phần nhỏ khi khai thác. Smith nhận xét: theo cả hai luật này, "quyền tư hữu thiêng liêng" đã bị hy sinh cho lợi ích của nguồn thu công quỹ.
+**Luật khuyến khích tìm mỏ hy sinh quyền của chủ đất.** Vua Tây Ban Nha có nguồn thu lớn từ mỏ bạc, nên luật ở Peru khuyến khích tối đa việc tìm mỏ mới. Ai tìm được một mỏ mới được đo cho 246 foot theo hướng của vỉa quặng và 123 foot theo chiều ngang. Người đó trở thành chủ phần mỏ đó và được khai thác mà không phải đền bù gì cho chủ đất.
+
+Công tước Cornwall cũng có luật tương tự gọi là quyền khoanh mỏ (bounding): người tìm thấy một mỏ thiếc trên đất hoang không rào được khoanh một khu giới hạn, khai thác hoặc cho người khác thuê mà không cần chủ đất đồng ý, chỉ phải trả cho chủ đất một phần nhỏ khi khai thác. Smith nhận xét: theo cả hai luật này, "quyền tư hữu thiêng liêng" đã bị hy sinh cho lợi ích của nguồn thu công quỹ.
 
 **Mỏ vàng.** Ở Peru, việc tìm mỏ vàng cũng được khuyến khích như vậy, và thuế vàng chỉ 1/20 vàng chuẩn. Trước đó thuế vàng từng là 1/5, rồi 1/10, như bạc, nhưng mức đó quá nặng với sản lượng vàng nên phải giảm. Theo Frezier và Ulloa, hiếm ai giàu lên nhờ mỏ bạc, và càng hiếm hơn nhờ mỏ vàng. 1/20 đó có lẽ là toàn bộ tô mà hầu hết mỏ vàng ở Chile và Peru trả được.
 
@@ -798,7 +833,9 @@ Tính hữu ích, vẻ đẹp và sự khan hiếm là nền tảng ban đầu c
 
 Cầu về **đá quý** chỉ đến từ vẻ đẹp, cộng với sự khan hiếm và khó khăn, tốn kém khi khai thác. Đá quý không dùng vào việc gì khác ngoài trang sức. Vì vậy tiền công và lợi nhuận chiếm gần hết giá đá quý; tô rất nhỏ hoặc không có, chỉ mỏ giàu nhất mới cho tô đáng kể. Thợ kim hoàn Tavernier đến thăm các mỏ kim cương Golconda và Visapour (Ấn Độ), được biết vua chúa sở tại đã cho đóng cửa mọi mỏ trừ vài mỏ cho viên đá lớn và đẹp nhất; các mỏ khác không đáng để chủ khai thác.
 
-**Tô mỏ theo độ giàu tương đối, tô đất theo độ màu mỡ tuyệt đối.** Vì giá kim loại và đá quý trên toàn thế giới do mỏ giàu nhất điều tiết, tô mà một mỏ trả được cho chủ của nó tỷ lệ với độ giàu **tương đối** của nó, tức ưu thế của nó so với các mỏ cùng loại, chứ không tỷ lệ với độ giàu tuyệt đối. Nếu người ta tìm ra những mỏ mới giàu hơn Potosi nhiều như Potosi giàu hơn các mỏ Châu Âu, bạc sẽ mất giá đến mức ngay mỏ Potosi cũng không đáng khai thác nữa. Ngược lại, trước khi tìm ra vùng Tây Ấn thuộc Tây Ban Nha, những mỏ giàu nhất Châu Âu có thể đã cho tô lớn ngang mỏ giàu nhất Peru hiện nay: lượng bạc ít hơn nhiều, nhưng mỗi lượng bạc đổi được nhiều hàng hơn, nên tổng lượng hàng hoá mà tô đó mua được có thể ngang nhau.
+**Tô mỏ theo độ giàu tương đối, tô đất theo độ màu mỡ tuyệt đối.** Vì giá kim loại và đá quý trên toàn thế giới do mỏ giàu nhất điều tiết, tô mà một mỏ trả được cho chủ của nó tỷ lệ với độ giàu **tương đối** của nó, tức ưu thế của nó so với các mỏ cùng loại, chứ không tỷ lệ với độ giàu tuyệt đối.
+
+Nếu người ta tìm ra những mỏ mới giàu hơn Potosi nhiều như Potosi giàu hơn các mỏ Châu Âu, bạc sẽ mất giá đến mức ngay mỏ Potosi cũng không đáng khai thác nữa. Ngược lại, trước khi tìm ra vùng Tây Ấn thuộc Tây Ban Nha, những mỏ giàu nhất Châu Âu có thể đã cho tô lớn ngang mỏ giàu nhất Peru hiện nay: lượng bạc ít hơn nhiều, nhưng mỗi lượng bạc đổi được nhiều hàng hơn, nên tổng lượng hàng hoá mà tô đó mua được có thể ngang nhau.
 
 Mỏ kim loại hay đá quý phong phú nhất chỉ thêm được **rất ít** cho của cải của thế giới. Sản phẩm có giá trị chủ yếu do khan hiếm sẽ mất giá khi trở nên dồi dào. Lợi ích duy nhất là đồ dùng, đồ trang sức phù phiếm mua được bằng ít lao động và ít hàng hoá hơn.
 
@@ -852,7 +889,9 @@ Smith đưa ra ba bằng chứng cho mức giá năm 1350 và trước đó.
 
 **Bằng chứng 1: Đạo luật về người lao động năm 1350** (năm thứ 25 triều Edward III). Phần mở đầu đạo luật than phiền về sự hỗn láo của đầy tớ đòi tăng công từ chủ. Luật buộc mọi đầy tớ và người lao động từ nay phải nhận tiền công và đồ cấp phát (livery, gồm quần áo và lương thực) như họ đã quen nhận vào năm thứ 20 của triều đại và bốn năm trước đó. Lúa mì cấp phát cho họ không được tính cao hơn 10 penny một bushel, và chủ được quyền chọn trả bằng lúa hay bằng tiền.
 
-Smith suy ra: 10 penny một bushel phải là giá vừa phải vào năm thứ 25, vì cần có luật bắt người làm công nhận số tiền đó thay cho lúa thường được cấp; và nó cũng đã là giá phải chăng mười năm trước, tức năm thứ 16 triều đại, thời điểm mà đạo luật dẫn chiếu. Năm thứ 16 Edward III, 10 penny chứa khoảng nửa ounce bạc Tower, gần bằng nửa crown (2 shilling 6 penny) tiền hiện nay. Một quarter có 8 bushel, nên 4 ounce bạc, tương đương 6 shilling 8 penny tiền khi ấy và gần 20 shilling tiền nay, là giá vừa phải của một quarter. Smith coi luật này là bằng chứng tốt hơn so với giá của những năm cá biệt mà sử gia và các tác giả khác ghi lại, vì những giá ấy thường được ghi chỉ vì chúng đặc biệt đắt hay đặc biệt rẻ, nên khó dùng để suy ra giá thông thường.
+Smith suy ra: 10 penny một bushel phải là giá vừa phải vào năm thứ 25, vì cần có luật bắt người làm công nhận số tiền đó thay cho lúa thường được cấp; và nó cũng đã là giá phải chăng mười năm trước, tức năm thứ 16 triều đại, thời điểm mà đạo luật dẫn chiếu. Năm thứ 16 Edward III, 10 penny chứa khoảng nửa ounce bạc Tower, gần bằng nửa crown (2 shilling 6 penny) tiền hiện nay. Một quarter có 8 bushel, nên 4 ounce bạc, tương đương 6 shilling 8 penny tiền khi ấy và gần 20 shilling tiền nay, là giá vừa phải của một quarter.
+
+Smith coi luật này là bằng chứng tốt hơn so với giá của những năm cá biệt mà sử gia và các tác giả khác ghi lại, vì những giá ấy thường được ghi chỉ vì chúng đặc biệt đắt hay đặc biệt rẻ, nên khó dùng để suy ra giá thông thường.
 
 **Bằng chứng 2: Tiệc nhậm chức năm 1309.** William Thorn ghi lại bữa tiệc nhậm chức của Ralph de Born, tu viện trưởng tu viện St. Augustine ở Canterbury, cùng bảng giá các thứ đã mua:
 
@@ -864,7 +903,9 @@ Smith suy ra: 10 penny một bushel phải là giá vừa phải vào năm thứ
 
 Giá mạch nha và yến mạch ở đây có vẻ cao hơn tỷ lệ thông thường so với giá lúa mì. Điểm quan trọng là những giá này không được ghi lại vì chúng đắt hay rẻ bất thường; chúng được ghi ngẫu nhiên, như giá thực tế đã trả cho lượng ngũ cốc lớn tiêu dùng trong một bữa tiệc nổi tiếng. Vì vậy chúng gần với giá thông thường.
 
-**Bằng chứng 3: Quy định giá bánh và bia (Assize of Bread and Ale).** Quy định này được khôi phục năm 1262, năm thứ 51 triều Henry III. Trong văn bản, nhà vua nói nó đã có từ thời tổ tiên, ít nhất là từ thời ông nội của ông, Henry II. Quy định điều chỉnh giá bánh mì theo giá lúa mì, với các mức giá lúa mì từ 1 đến 20 shilling một quarter tiền khi ấy. Smith lập luận rằng những bảng điều chỉnh như vậy thường được soạn để tính đủ mọi sai lệch trên và dưới mức trung bình. Nếu vậy, 10 shilling, chứa 6 ounce bạc trọng lượng Tower, khoảng 30 shilling tiền nay, có thể là giá trung bình của lúa mì khi luật được ban hành. Để thận trọng, Smith chỉ giả định rằng giá trung bình không thấp hơn 1/3 giá cao nhất trong bảng, tức 6 shilling 8 penny, chứa 4 ounce bạc; ông cho rằng giả định như vậy không thể sai nhiều.
+**Bằng chứng 3: Quy định giá bánh và bia (Assize of Bread and Ale).** Quy định này được khôi phục năm 1262, năm thứ 51 triều Henry III. Trong văn bản, nhà vua nói nó đã có từ thời tổ tiên, ít nhất là từ thời ông nội của ông, Henry II. Quy định điều chỉnh giá bánh mì theo giá lúa mì, với các mức giá lúa mì từ 1 đến 20 shilling một quarter tiền khi ấy.
+
+Smith lập luận rằng những bảng điều chỉnh như vậy thường được soạn để tính đủ mọi sai lệch trên và dưới mức trung bình. Nếu vậy, 10 shilling, chứa 6 ounce bạc trọng lượng Tower, khoảng 30 shilling tiền nay, có thể là giá trung bình của lúa mì khi luật được ban hành. Để thận trọng, Smith chỉ giả định rằng giá trung bình không thấp hơn 1/3 giá cao nhất trong bảng, tức 6 shilling 8 penny, chứa 4 ounce bạc; ông cho rằng giả định như vậy không thể sai nhiều.
 
 **Giá hợp lý giảm còn một nửa.** Từ giữa thế kỷ XIV đến đầu thế kỷ XVI, giá được coi là hợp lý hay vừa phải của lúa mì, tức giá trung bình hay giá thông thường, dường như giảm dần còn khoảng một nửa, tức khoảng 2 ounce bạc trọng lượng Tower, bằng khoảng 10 shilling tiền nay, và giữ ở mức đó đến khoảng năm 1570. Bằng chứng: trong sổ gia vụ của Henry, Bá tước thứ năm xứ Northumberland, lập năm 1512, lúa mì được tính theo hai mức, 6 shilling 8 penny một quarter ở một chỗ và 5 shilling 8 penny ở chỗ khác. Năm 1512, 6 shilling 8 penny chỉ chứa 2 ounce bạc, khoảng 10 shilling tiền nay.
 
@@ -888,7 +929,11 @@ Giá mạch nha và yến mạch ở đây có vẻ cao hơn tỷ lệ thông th
 
 **Ba sai lầm của các tác giả tin bạc mất giá liên tục.** Phần lớn các tác giả từng sưu tầm giá cả thời xưa tin rằng từ thời Chinh phục (năm 1066), có lẽ từ thời Julius Caesar, cho đến khi tìm ra mỏ Châu Mỹ, giá trị của bạc giảm liên tục. Quan niệm này dựa một phần vào quan sát giá ngũ cốc và các sản phẩm thô khác, một phần vào ý kiến phổ biến rằng khi của cải của một nước tăng thì lượng bạc tăng, và bạc nhiều lên thì phải mất giá. Smith chỉ ra ba nguồn gây nhầm lẫn trong việc quan sát giá ngũ cốc.
 
-*Sai lầm (1): nhầm giá chuyển đổi với giá thị trường.* Thời xưa tô hầu như được trả bằng hiện vật: một lượng ngũ cốc, gia súc, gia cầm nhất định. Nhưng đôi khi địa chủ quy định rằng mình được quyền chọn đòi người thuê trả bằng hiện vật hoặc trả một số tiền thay thế nhất định. Giá quy đổi đó, ở Scotland gọi là **giá chuyển đổi** (conversion price). Vì quyền chọn nằm trong tay địa chủ, người thuê, để được an toàn, đòi giá chuyển đổi thấp hơn giá chợ; ở nhiều nơi nó chỉ hơn một nửa giá chợ một chút. Tập quán này còn tồn tại ở phần lớn Scotland đối với gia cầm, và ở vài nơi đối với gia súc. Lẽ ra nó cũng còn áp dụng cho ngũ cốc, nếu không có thể chế định giá công khai hằng năm (Smith gọi là "fiars"): mỗi năm ở mỗi hạt, một hội đồng định giá các loại ngũ cốc theo giá chợ thực tế. Nhờ thể chế này, người thuê có thể trả tô bằng tiền theo giá fiars của năm đó, an toàn hơn cho người thuê và thuận tiện hơn nhiều cho địa chủ. Nhiều tác giả sưu tầm giá thời xưa đã nhầm giá chuyển đổi với giá chợ thật, nên tưởng giá thời xưa rất thấp. Fleetwood thừa nhận đã có lúc mắc nhầm lẫn này, nhưng chỉ sau khi đã ghi giá chuyển đổi ấy vào danh sách của mình tới 15 lần: 8 shilling một quarter lúa mì. Năm 1423, khi ông bắt đầu ghi, số tiền này chứa lượng bạc bằng 16 shilling tiền nay; năm 1562, khi ông thôi ghi, nó không chứa nhiều bạc hơn cùng số tiền danh nghĩa hiện nay.
+*Sai lầm (1): nhầm giá chuyển đổi với giá thị trường.* Thời xưa tô hầu như được trả bằng hiện vật: một lượng ngũ cốc, gia súc, gia cầm nhất định. Nhưng đôi khi địa chủ quy định rằng mình được quyền chọn đòi người thuê trả bằng hiện vật hoặc trả một số tiền thay thế nhất định. Giá quy đổi đó, ở Scotland gọi là **giá chuyển đổi** (conversion price). Vì quyền chọn nằm trong tay địa chủ, người thuê, để được an toàn, đòi giá chuyển đổi thấp hơn giá chợ; ở nhiều nơi nó chỉ hơn một nửa giá chợ một chút. Tập quán này còn tồn tại ở phần lớn Scotland đối với gia cầm, và ở vài nơi đối với gia súc.
+
+Lẽ ra nó cũng còn áp dụng cho ngũ cốc, nếu không có thể chế định giá công khai hằng năm (Smith gọi là "fiars"): mỗi năm ở mỗi hạt, một hội đồng định giá các loại ngũ cốc theo giá chợ thực tế. Nhờ thể chế này, người thuê có thể trả tô bằng tiền theo giá fiars của năm đó, an toàn hơn cho người thuê và thuận tiện hơn nhiều cho địa chủ.
+
+Nhiều tác giả sưu tầm giá thời xưa đã nhầm giá chuyển đổi với giá chợ thật, nên tưởng giá thời xưa rất thấp. Fleetwood thừa nhận đã có lúc mắc nhầm lẫn này, nhưng chỉ sau khi đã ghi giá chuyển đổi ấy vào danh sách của mình tới 15 lần: 8 shilling một quarter lúa mì. Năm 1423, khi ông bắt đầu ghi, số tiền này chứa lượng bạc bằng 16 shilling tiền nay; năm 1562, khi ông thôi ghi, nó không chứa nhiều bạc hơn cùng số tiền danh nghĩa hiện nay.
 
 *Sai lầm (2): người chép luật cẩu thả.* Những người chép các đạo luật cổ đôi khi cẩu thả, và đôi khi chính cơ quan lập pháp soạn luật cũng cẩu thả. Các luật xưa về giá bánh và bia thường ghi giá bánh và bia khi lúa mì, lúa mạch ở mức thấp nhất, rồi tăng dần theo các bậc giá của ngũ cốc. Người chép thường chỉ chép ba bốn bậc giá thấp nhất, cho rằng như vậy đủ để người đọc suy ra tỷ lệ cho các bậc cao hơn. Hậu quả:
 
@@ -898,7 +943,9 @@ Giá mạch nha và yến mạch ở đây có vẻ cao hơn tỷ lệ thông th
 
 *Sai lầm (3): chỉ nhìn giá cực thấp, quên giá cực cao.* Các tác giả này thấy giá lúa mì rất thấp ở vài năm thời xưa, và từ đó cho rằng giá thông thường thời đó cũng thấp hơn nhiều so với về sau. Nhưng họ cũng có thể thấy rằng giá cao nhất thời xưa còn cao hơn mọi giá cao được biết về sau. Năm 1270, Fleetwood ghi hai giá một quarter lúa mì, một là 4 bảng 16 shilling tiền khi ấy, bằng 14 bảng 8 shilling tiền nay (giá thứ hai bị mất trong bản dịch). Không có giá nào cuối thế kỷ XV hay đầu thế kỷ XVI gần với những mức như vậy.
 
-Lý do của những biến động dữ dội ấy: giá ngũ cốc, dù luôn thay đổi, biến động mạnh nhất trong một xã hội hỗn loạn, nơi buôn bán và giao thông bị gián đoạn, nên vùng thừa không thể chở lúa đến vùng thiếu. Dưới nhà Plantagenet, cai trị nước Anh từ khoảng giữa thế kỷ XII đến cuối thế kỷ XV, đất nước rối ren: một vùng có thể sung túc trong khi vùng lân cận cách đó không xa đang chịu nạn đói vì mất mùa, hoặc vì bị một nam tước lân cận đem quân cướp phá. Nếu giữa hai vùng là đất của một lãnh chúa thù địch, vùng này không thể giúp vùng kia. Dưới nhà Tudor, cai trị nửa sau thế kỷ XV và suốt thế kỷ XVI, không còn nam tước nào đủ quyền lực để làm rối an ninh chung, nên giá ít biến động cực đoan hơn.
+Lý do của những biến động dữ dội ấy: giá ngũ cốc, dù luôn thay đổi, biến động mạnh nhất trong một xã hội hỗn loạn, nơi buôn bán và giao thông bị gián đoạn, nên vùng thừa không thể chở lúa đến vùng thiếu.
+
+Dưới nhà Plantagenet, cai trị nước Anh từ khoảng giữa thế kỷ XII đến cuối thế kỷ XV, đất nước rối ren: một vùng có thể sung túc trong khi vùng lân cận cách đó không xa đang chịu nạn đói vì mất mùa, hoặc vì bị một nam tước lân cận đem quân cướp phá. Nếu giữa hai vùng là đất của một lãnh chúa thù địch, vùng này không thể giúp vùng kia. Dưới nhà Tudor, cai trị nửa sau thế kỷ XV và suốt thế kỷ XVI, không còn nam tước nào đủ quyền lực để làm rối an ninh chung, nên giá ít biến động cực đoan hơn.
 
 | Sai lầm | Nội dung | Vì sao dẫn tới tưởng giá xưa thấp |
 |---|---|---|
@@ -906,7 +953,11 @@ Lý do của những biến động dữ dội ấy: giá ngũ cốc, dù luôn 
 | (2) | Dựa vào bản chép luật chỉ có vài bậc giá thấp nhất | Tưởng 6 shilling hay 10 penny–2 shilling là giá thông thường |
 | (3) | Chỉ để ý giá cực thấp của vài năm | Quên những giá cực cao (năm 1270: 4 bảng 16 shilling, bằng 14 bảng 8 shilling tiền nay) |
 
-**Bảng Fleetwood.** Smith đặt ở cuối chương một bảng giá lúa mì do Fleetwood thu thập, từ 1202 đến 1597, quy ra tiền hiện nay, xếp theo thời gian, chia thành bảy giai đoạn, mỗi giai đoạn 12 năm, mỗi giai đoạn có giá trung bình riêng. Fleetwood chỉ thu thập được giá của 80 năm, thiếu 4 năm để đủ giai đoạn 12 năm cuối, nên Smith thêm giá các năm 1598, 1599, 1600 và 1601 lấy từ sổ sách của Đại học Eton. Xu hướng của bảng: giá trung bình mỗi giai đoạn giảm dần từ đầu thế kỷ XIII đến giữa thế kỷ XVI, và bắt đầu tăng vào cuối thế kỷ XVI. Smith thừa nhận đây chủ yếu là những giá được ghi lại vì đặc biệt đắt hay đặc biệt rẻ, nên không đủ để kết luận chắc chắn; nhưng nếu chúng chứng minh được điều gì, thì điều đó ủng hộ lập luận của ông. Ông còn chỉ ra một điều trớ trêu: Fleetwood, như hầu hết các tác giả khác, tin rằng bạc liên tục mất giá, nhưng chính số giá ông thu thập lại phù hợp với ý kiến ngược lại của Dupré de St. Maur. Bảng này không có trong văn bản PDF của bản dịch, nên ở đây chỉ nêu được xu hướng và các con số mốc Smith dẫn trong bài.
+**Bảng Fleetwood.** Smith đặt ở cuối chương một bảng giá lúa mì do Fleetwood thu thập, từ 1202 đến 1597, quy ra tiền hiện nay, xếp theo thời gian, chia thành bảy giai đoạn, mỗi giai đoạn 12 năm, mỗi giai đoạn có giá trung bình riêng. Fleetwood chỉ thu thập được giá của 80 năm, thiếu 4 năm để đủ giai đoạn 12 năm cuối, nên Smith thêm giá các năm 1598, 1599, 1600 và 1601 lấy từ sổ sách của Đại học Eton.
+
+Xu hướng của bảng: giá trung bình mỗi giai đoạn giảm dần từ đầu thế kỷ XIII đến giữa thế kỷ XVI, và bắt đầu tăng vào cuối thế kỷ XVI. Smith thừa nhận đây chủ yếu là những giá được ghi lại vì đặc biệt đắt hay đặc biệt rẻ, nên không đủ để kết luận chắc chắn; nhưng nếu chúng chứng minh được điều gì, thì điều đó ủng hộ lập luận của ông.
+
+Ông còn chỉ ra một điều trớ trêu: Fleetwood, như hầu hết các tác giả khác, tin rằng bạc liên tục mất giá, nhưng chính số giá ông thu thập lại phù hợp với ý kiến ngược lại của Dupré de St. Maur. Bảng này không có trong văn bản PDF của bản dịch, nên ở đây chỉ nêu được xu hướng và các con số mốc Smith dẫn trong bài.
 
 **Nguyên lý đo lường: vì sao không dùng giá thịt.** Các tác giả thận trọng nhất, khi muốn chứng minh bạc có giá trị rất cao thời xưa (trước khi đế quốc La Mã sụp đổ và trong nhiều thế kỷ sau), không dựa chủ yếu vào giá ngũ cốc rẻ, mà vào giá rẻ của các sản phẩm thô khác như gia súc, gia cầm, thú săn. Smith cho rằng đó là lý luận sai. Ngũ cốc là sản phẩm của lao động con người, nên thời xưa nó đắt hơn so với những thứ gần như do thiên nhiên tự sinh ra như thịt và thú săn. Giá rẻ của gia súc, gia cầm thời xưa là hệ quả của giá trị thấp của **chính chúng**, không phải của giá trị cao của bạc.
 
@@ -976,7 +1027,9 @@ Vậy giá lúa mì trung bình đã lên tới khoảng 6⅓ ounce bạc một 
 
 *Cú sốc ① Nội chiến.* Cuộc nội chiến ở Anh làm nông nghiệp đình trệ và buôn bán gián đoạn, đẩy giá ngũ cốc lên ở mọi chợ, nhất là các chợ quanh London, nơi phải lấy lương thực từ xa. Năm 1648, giá lúa mì tốt nhất ở chợ Windsor là 4 bảng 5 shilling, năm 1649 là 4 bảng một quarter 9 bushel. Hai năm này vượt mức 2 bảng 10 shilling (giá trung bình 16 năm trước 1637) tổng cộng 3 bảng 5 shilling. Chia số vượt đó cho 64 năm đã đủ để giải thích gần hết phần tăng nhỏ của giá trung bình. Và đó không phải những giá cao duy nhất do nội chiến gây ra.
 
-*Cú sốc ② Tiền thưởng xuất khẩu ngũ cốc năm 1688.* Từ năm 1688, nhà nước trả tiền thưởng cho mỗi quarter ngũ cốc xuất khẩu. Nhiều người nghĩ tiền thưởng khuyến khích canh tác, nên về lâu dài làm tăng sản lượng và khiến ngũ cốc trong nước rẻ hơn. Smith hẹn sẽ xét kỹ điều đó ở chỗ khác; ở đây ông chỉ nhận xét rằng từ 1688 đến 1700, tiền thưởng chưa có thời gian tạo ra tác dụng ấy. Trong giai đoạn ngắn này, tác dụng duy nhất của nó là khuyến khích xuất khẩu phần dư của mỗi năm, nhờ đó ngăn năm được mùa bù cho năm mất mùa, và đẩy giá trong nước lên. Sự khan hiếm kéo dài từ 1693 đến 1699, chủ yếu do mất mùa ở khắp Châu Âu, đã trầm trọng thêm phần nào vì tiền thưởng. Năm 1699, việc xuất khẩu ngũ cốc phải bị cấm trong 9 tháng.
+*Cú sốc ② Tiền thưởng xuất khẩu ngũ cốc năm 1688.* Từ năm 1688, nhà nước trả tiền thưởng cho mỗi quarter ngũ cốc xuất khẩu. Nhiều người nghĩ tiền thưởng khuyến khích canh tác, nên về lâu dài làm tăng sản lượng và khiến ngũ cốc trong nước rẻ hơn.
+
+Smith hẹn sẽ xét kỹ điều đó ở chỗ khác; ở đây ông chỉ nhận xét rằng từ 1688 đến 1700, tiền thưởng chưa có thời gian tạo ra tác dụng ấy. Trong giai đoạn ngắn này, tác dụng duy nhất của nó là khuyến khích xuất khẩu phần dư của mỗi năm, nhờ đó ngăn năm được mùa bù cho năm mất mùa, và đẩy giá trong nước lên. Sự khan hiếm kéo dài từ 1693 đến 1699, chủ yếu do mất mùa ở khắp Châu Âu, đã trầm trọng thêm phần nào vì tiền thưởng. Năm 1699, việc xuất khẩu ngũ cốc phải bị cấm trong 9 tháng.
 
 *Sự kiện ③ Cắt xén tiền bạc (chỉ làm tăng giá danh nghĩa).* Sự kiện thứ ba không gây khan hiếm ngũ cốc, không làm tăng lượng bạc **thật** trả cho mỗi quarter, nhưng làm tăng số tiền **danh nghĩa**. Đó là việc cắt xén, mài mòn tiền bạc, bắt đầu dưới thời Charles II và kéo dài đến năm 1695. Theo Lowndes, tiền bạc lưu hành khi ấy trung bình thiếu gần 25% so với trọng lượng chuẩn. Giá danh nghĩa của mọi hàng hoá phải điều chỉnh theo lượng bạc thật trong đồng tiền, nên khi tiền bị mòn thì giá danh nghĩa cao hơn. Smith so sánh với thời ông:
 
@@ -1001,9 +1054,15 @@ Quy về lúa mì trung bình, giá trong 64 năm này vào khoảng 32 shilling
 - Năm 1687, giá một quarter 9 bushel lúa mì tốt nhất ở Windsor là 1 bảng 5 shilling 2 penny, mức thấp nhất kể từ 1595.
 - Năm 1688, Gregory King, một người rất am hiểu những vấn đề này, ước tính giá trung bình người trồng nhận được trong một năm bình thường là 3 shilling 6 penny một bushel, tức 28 shilling một quarter. Giá của người trồng (grower's price) thường là giá theo hợp đồng bán cho thương nhân trong một thời hạn, thấp hơn giá chợ vì người trồng khỏi phải lo việc mang ra chợ bán.
 
-**Tiền thưởng năm 1688: một cuộc đổi chác chính trị.** Năm 1688, nghị viện lập tiền thưởng xuất khẩu ngũ cốc. Giới quý tộc nông thôn, khi đó chiếm phần lớn cơ quan lập pháp hơn bây giờ, đã nhận thấy giá tiền của ngũ cốc đang giảm. Tiền thưởng là cách nhân tạo để nâng giá lên mức mà ngũ cốc thường được bán vào thời Charles I và Charles II. Nó được áp dụng cho đến khi giá lúa mì lên tới 48 shilling một quarter, tức cao hơn 20 shilling so với ước tính của King cho một năm bình thường. Nếu King đáng với danh tiếng của ông, thì 48 shilling là mức giá mà nếu không có tiền thưởng chỉ có thể đạt được trong những năm cực kỳ khan hiếm. Vì sao chính phủ đồng ý? Chính phủ của vua William khi ấy chưa vững về tài chính, không ở vị thế từ chối bất cứ điều gì của giới quý tộc nông thôn, vì đang cần họ thông qua thuế đất hằng năm. Đây là một trường hợp chính sách được "mua" bằng đổi chác chính trị: giới địa chủ được luật nâng giá sản phẩm của mình, chính phủ được nguồn thu thuế.
+**Tiền thưởng năm 1688: một cuộc đổi chác chính trị.** Năm 1688, nghị viện lập tiền thưởng xuất khẩu ngũ cốc. Giới quý tộc nông thôn, khi đó chiếm phần lớn cơ quan lập pháp hơn bây giờ, đã nhận thấy giá tiền của ngũ cốc đang giảm. Tiền thưởng là cách nhân tạo để nâng giá lên mức mà ngũ cốc thường được bán vào thời Charles I và Charles II.
 
-**Tiền thưởng đẩy giá lên trong cả năm thừa lẫn năm thiếu.** Trong năm được mùa, tiền thưởng, bằng cách khuyến khích xuất khẩu phần dư, giữ giá ngũ cốc trong nước cao hơn mức lẽ ra có. Đó chính là mục đích được thừa nhận của thể chế: khuyến khích canh tác bằng cách giữ giá ngũ cốc cao ngay cả trong năm dồi dào nhất. Trong năm cực kỳ khan hiếm, tiền thưởng thường bị đình chỉ; nhưng lượng xuất khẩu quá lớn của những năm trước đó vẫn khiến năm được mùa không bù được cho năm mất mùa, vì phần dư đã bị đưa ra nước ngoài. Vậy cả trong năm thừa lẫn năm thiếu, tiền thưởng đều đẩy giá cao hơn mức mà tình trạng canh tác cho phép. Nếu không có nó, giá trung bình của 64 năm đầu thế kỷ còn thấp hơn mức thực tế, với cùng trình độ canh tác. Smith hẹn bàn tác động của tiền thưởng lên bản thân việc canh tác ở phần riêng về tiền thưởng (Quyển IV).
+Nó được áp dụng cho đến khi giá lúa mì lên tới 48 shilling một quarter, tức cao hơn 20 shilling so với ước tính của King cho một năm bình thường. Nếu King đáng với danh tiếng của ông, thì 48 shilling là mức giá mà nếu không có tiền thưởng chỉ có thể đạt được trong những năm cực kỳ khan hiếm.
+
+Vì sao chính phủ đồng ý? Chính phủ của vua William khi ấy chưa vững về tài chính, không ở vị thế từ chối bất cứ điều gì của giới quý tộc nông thôn, vì đang cần họ thông qua thuế đất hằng năm. Đây là một trường hợp chính sách được "mua" bằng đổi chác chính trị: giới địa chủ được luật nâng giá sản phẩm của mình, chính phủ được nguồn thu thuế.
+
+**Tiền thưởng đẩy giá lên trong cả năm thừa lẫn năm thiếu.** Trong năm được mùa, tiền thưởng, bằng cách khuyến khích xuất khẩu phần dư, giữ giá ngũ cốc trong nước cao hơn mức lẽ ra có. Đó chính là mục đích được thừa nhận của thể chế: khuyến khích canh tác bằng cách giữ giá ngũ cốc cao ngay cả trong năm dồi dào nhất.
+
+Trong năm cực kỳ khan hiếm, tiền thưởng thường bị đình chỉ; nhưng lượng xuất khẩu quá lớn của những năm trước đó vẫn khiến năm được mùa không bù được cho năm mất mùa, vì phần dư đã bị đưa ra nước ngoài. Vậy cả trong năm thừa lẫn năm thiếu, tiền thưởng đều đẩy giá cao hơn mức mà tình trạng canh tác cho phép. Nếu không có nó, giá trung bình của 64 năm đầu thế kỷ còn thấp hơn mức thực tế, với cùng trình độ canh tác. Smith hẹn bàn tác động của tiền thưởng lên bản thân việc canh tác ở phần riêng về tiền thưởng (Quyển IV).
 
 **Bằng chứng then chốt: Pháp cấm xuất khẩu mà giá cũng giảm.** Có người có thể nói giá ngũ cốc ở Anh giảm trong thế kỷ này là nhờ tiền thưởng khuyến khích canh tác. Smith đưa ra một phép so sánh có tính kiểm chứng. Việc bạc lên giá so với ngũ cốc không riêng ở Anh. Theo ba người sưu tầm giá cần mẫn và đáng tin là Dupré de St. Maur, Messance và tác giả bài tiểu luận về chính sách ngũ cốc, ở Pháp hiện tượng này cũng xảy ra trong cùng thời kỳ và gần cùng tỷ lệ. Nhưng ở Pháp, cho đến năm 1764, luật **cấm** xuất khẩu ngũ cốc. Khó mà cho rằng cùng một mức giảm giá ở nước này là do cấm xuất khẩu còn ở nước kia là do thưởng xuất khẩu, hai chính sách trái ngược nhau.
 
@@ -1032,19 +1091,25 @@ Năm 1749, Thủ tướng Pelham báo cáo với Hạ viện rằng ba năm trư
 
 **Tiền công ở Anh tăng vì cầu lao động, không vì bạc mất giá.** Tiền công danh nghĩa ở Anh đã tăng trong thế kỷ này. Nhưng theo Smith, điều đó chủ yếu không do bạc mất giá trên thị trường Châu Âu, mà do cầu lao động ở Anh tăng nhờ sự thịnh vượng chung của nước này. Ở Pháp, kém thịnh vượng hơn, tiền công danh nghĩa từ giữa thế kỷ trước được xác nhận là giảm dần cùng với giá trung bình của ngũ cốc. Cả thế kỷ trước lẫn thế kỷ này, công nhật của người lao động thường ở Pháp luôn vào khoảng 1/20 giá trung bình một septier lúa mì (khoảng 4 bushel Winchester). Ở Anh, tiền công thực, tức lượng đồ dùng thiết yếu người lao động nhận được, đã tăng đáng kể, nhờ hoàn cảnh may mắn riêng của nước này.
 
-**Vì sao bạc không tiếp tục mất giá: giá tự nhiên và thuế của vua Tây Ban Nha.** Một thời gian sau khi tìm ra Châu Mỹ, bạc vẫn bán được gần giá cũ, nên lợi nhuận khai mỏ rất cao, vượt xa mức tự nhiên. Nhưng những người nhập bạc vào Châu Âu sớm thấy rằng lượng nhập hằng năm không bán hết được ở giá cao đó. Bạc dần dần đổi được ngày càng ít hàng hoá, cho đến khi về tới giá tự nhiên, tức mức vừa đủ trả tiền công, lợi nhuận, tô mỏ và chi phí vận chuyển từ mỏ đến thị trường. Ở hầu hết các mỏ bạc Peru, thuế của vua Tây Ban Nha bằng 1/10 sản lượng ăn hết tô. Thuế này ban đầu là 1/2, rồi giảm xuống 1/3, rồi 1/5, và cuối cùng 1/10, mức giữ đến nay. Người khai mỏ hiện nay chỉ còn đủ lợi nhuận thông thường, trong khi xưa kia lợi nhuận của họ rất cao.
+**Vì sao bạc không tiếp tục mất giá: giá tự nhiên và thuế của vua Tây Ban Nha.** Một thời gian sau khi tìm ra Châu Mỹ, bạc vẫn bán được gần giá cũ, nên lợi nhuận khai mỏ rất cao, vượt xa mức tự nhiên. Nhưng những người nhập bạc vào Châu Âu sớm thấy rằng lượng nhập hằng năm không bán hết được ở giá cao đó. Bạc dần dần đổi được ngày càng ít hàng hoá, cho đến khi về tới giá tự nhiên, tức mức vừa đủ trả tiền công, lợi nhuận, tô mỏ và chi phí vận chuyển từ mỏ đến thị trường.
+
+Ở hầu hết các mỏ bạc Peru, thuế của vua Tây Ban Nha bằng 1/10 sản lượng ăn hết tô. Thuế này ban đầu là 1/2, rồi giảm xuống 1/3, rồi 1/5, và cuối cùng 1/10, mức giữ đến nay. Người khai mỏ hiện nay chỉ còn đủ lợi nhuận thông thường, trong khi xưa kia lợi nhuận của họ rất cao.
 
 **90 năm để bạc về giá tự nhiên.** Thuế bạc đã giảm xuống 1/5 vào năm 1504 (bản dịch ghi 1505), 41 năm trước khi tìm ra Potosi năm 1545. Trong 90 năm từ 1545 đến 1636, các mỏ này, giàu nhất Châu Mỹ, đã có đủ thời gian để phát huy hết tác dụng, hạ giá trị của bạc trên thị trường Châu Âu xuống mức thấp nhất có thể trong khi vẫn trả được khoản thuế đó cho vua Tây Ban Nha. Smith cho rằng 90 năm là đủ để hạ giá bất kỳ hàng hoá nào không được độc quyền che chở xuống giá tự nhiên của nó, tức mức thấp nhất mà nó có thể tiếp tục được bán lâu dài trong khi vẫn trả một khoản thuế nhất định.
 
 **Thị trường bạc mở rộng theo ba hướng.** Giá bạc trên thị trường Châu Âu lẽ ra có thể còn giảm nữa, đến mức phải giảm thuế bạc không chỉ xuống 1/10 như năm 1736 mà xuống 1/20 như thuế vàng, hoặc phải bỏ phần lớn các mỏ Châu Mỹ đang khai thác. Điều đó không xảy ra vì cầu về bạc tăng dần, tức thị trường cho sản phẩm của các mỏ bạc Châu Mỹ mở rộng dần. Nhờ đó giá trị của bạc trên thị trường Châu Âu không chỉ được giữ mà còn hơi tăng so với giữa thế kỷ trước. Thị trường mở rộng theo ba hướng.
 
-*Hướng ① Châu Âu giàu lên.* Từ khi tìm ra Châu Mỹ, phần lớn Châu Âu đã tiến bộ nhiều: Anh, Hà Lan, Pháp, Đức, và cả Thuỵ Điển, Đan Mạch, Nga đều tiến xa về nông nghiệp và công nghiệp. Italia, vốn đã suy sụp từ trước khi Peru bị chinh phục, đã dần hồi phục từ đó. Tây Ban Nha và Bồ Đào Nha có thụt lùi, nhưng Bồ Đào Nha chỉ là phần rất nhỏ của Châu Âu, và sự sa sút của Tây Ban Nha có lẽ không lớn như người ta tưởng. Đầu thế kỷ XVI, Tây Ban Nha đã là một nước rất nghèo, ngay cả so với Pháp, nước đã tiến bộ nhiều từ đó. Hoàng đế Charles V nhận xét rằng ở Pháp cái gì cũng thừa còn ở Tây Ban Nha cái gì cũng thiếu. Sản phẩm nông nghiệp và chế tạo tăng thì cần lượng tiền bạc tăng để lưu thông, và người giàu lên cần nhiều đồ bạc hơn.
+*Hướng ① Châu Âu giàu lên.* Từ khi tìm ra Châu Mỹ, phần lớn Châu Âu đã tiến bộ nhiều: Anh, Hà Lan, Pháp, Đức, và cả Thuỵ Điển, Đan Mạch, Nga đều tiến xa về nông nghiệp và công nghiệp. Italia, vốn đã suy sụp từ trước khi Peru bị chinh phục, đã dần hồi phục từ đó.
+
+Tây Ban Nha và Bồ Đào Nha có thụt lùi, nhưng Bồ Đào Nha chỉ là phần rất nhỏ của Châu Âu, và sự sa sút của Tây Ban Nha có lẽ không lớn như người ta tưởng. Đầu thế kỷ XVI, Tây Ban Nha đã là một nước rất nghèo, ngay cả so với Pháp, nước đã tiến bộ nhiều từ đó. Hoàng đế Charles V nhận xét rằng ở Pháp cái gì cũng thừa còn ở Tây Ban Nha cái gì cũng thiếu. Sản phẩm nông nghiệp và chế tạo tăng thì cần lượng tiền bạc tăng để lưu thông, và người giàu lên cần nhiều đồ bạc hơn.
 
 *Hướng ② Châu Mỹ tự thành thị trường mới.* Châu Mỹ tự nó là một thị trường mới cho sản phẩm của các mỏ bạc của chính nó, và tiến bộ về nông nghiệp, công nghiệp, dân số nhanh hơn nhiều so với các nước thịnh vượng nhất Châu Âu.
 
 - Các thuộc địa Anh là một thị trường hoàn toàn mới, một phần cho tiền đúc, một phần cho đồ bạc.
 - Phần lớn thuộc địa Tây Ban Nha và Bồ Đào Nha cũng là thị trường hoàn toàn mới. New Granada, Yucatan, Paraguay, Brazil, trước khi người Châu Âu đến, chỉ có các dân tộc hoang dã không có mỹ nghệ và nông nghiệp.
-- Ngay Mexico và Peru, dù không hoàn toàn là thị trường mới, cũng trở thành thị trường rộng hơn nhiều so với trước. Bất kể những chuyện kể huy hoàng về sự giàu có của các đế quốc ấy, ai đọc lịch sử phát hiện và chinh phục với một phán xét tỉnh táo đều thấy rằng về mỹ nghệ, nông nghiệp và thương mại, cư dân ở đó kém xa người Tartar ở Ukraina ngày nay. Người Peru, văn minh hơn người Mexico, dùng vàng bạc làm đồ trang sức nhưng không có tiền đúc; họ chỉ trao đổi hàng lấy hàng, nên gần như không có phân công lao động. Những người thợ giỏi bị vua chúa, quý tộc và tu sĩ giữ làm đầy tớ hoặc nô lệ. Quân Tây Ban Nha, hiếm khi quá 500 người và thường chưa đến một nửa số đó, gặp khó khăn lớn về lương thực ở gần như mọi nơi họ đi qua, và bị cho là đã gây nạn đói ở những vùng được mô tả là đông dân và canh tác tốt. Điều đó cho thấy mức sản xuất lương thực ở đó thấp hơn nhiều so với lời kể.
+- Ngay Mexico và Peru, dù không hoàn toàn là thị trường mới, cũng trở thành thị trường rộng hơn nhiều so với trước. Bất kể những chuyện kể huy hoàng về sự giàu có của các đế quốc ấy, ai đọc lịch sử phát hiện và chinh phục với một phán xét tỉnh táo đều thấy rằng về mỹ nghệ, nông nghiệp và thương mại, cư dân ở đó kém xa người Tartar ở Ukraina ngày nay.
+
+  Người Peru, văn minh hơn người Mexico, dùng vàng bạc làm đồ trang sức nhưng không có tiền đúc; họ chỉ trao đổi hàng lấy hàng, nên gần như không có phân công lao động. Những người thợ giỏi bị vua chúa, quý tộc và tu sĩ giữ làm đầy tớ hoặc nô lệ. Quân Tây Ban Nha, hiếm khi quá 500 người và thường chưa đến một nửa số đó, gặp khó khăn lớn về lương thực ở gần như mọi nơi họ đi qua, và bị cho là đã gây nạn đói ở những vùng được mô tả là đông dân và canh tác tốt. Điều đó cho thấy mức sản xuất lương thực ở đó thấp hơn nhiều so với lời kể.
 - Thuộc địa Tây Ban Nha có chính quyền kém thuận lợi cho nông nghiệp và dân số hơn thuộc địa Anh, nhưng vẫn tiến nhanh hơn mọi nước Châu Âu, nhờ đất màu mỡ, khí hậu tốt, đất rẻ và dồi dào. Frezier năm 1713 tả thành phố Lima có 25–28 nghìn dân; Ulloa, sống ở đó từ 1740 đến 1746 (1740–46), nói Lima có hơn 50 nghìn dân. Dân số tăng gần gấp đôi trong khoảng 30 năm.
 
 Châu Mỹ vì vậy là một thị trường mới cho bạc của chính nó, và cầu ở đó tăng nhanh hơn nhiều so với cầu ở các nước thịnh vượng nhất Châu Âu.
@@ -1109,11 +1174,15 @@ Vì tất cả những lẽ đó, kim loại quý là hàng có lợi nhất đ�
 
 Các ước tính viết tay khác mà Smith được biết cũng cho tổng trung bình khoảng 6 triệu bảng, có khi hơn, có khi kém.
 
-**Tiêu thụ có thể gần bằng sản lượng.** Lượng nhập vào Cadiz và Lisbon chưa phải toàn bộ sản lượng mỏ Châu Mỹ: một phần được chở sang Manila bằng tàu Acapulco, một phần được buôn lậu thẳng sang các nước khác, một phần ở lại Châu Mỹ. Mỏ Châu Mỹ cũng không phải là mỏ vàng bạc duy nhất trên thế giới, nhưng là giàu nhất, và phần lớn sản phẩm của chúng về Cadiz và Lisbon. Smith ước lượng: riêng 50.000 bảng tiêu thụ ở Birmingham đã bằng 1/120 lượng nhập 6 triệu bảng mỗi năm. Cộng tất cả các nguồn tiêu thụ trên khắp thế giới, tổng tiêu thụ hằng năm có thể gần bằng toàn bộ sản lượng. Phần còn lại có lẽ không đủ cho cầu tăng của các nước đang thịnh vượng, và đó có thể là lý do giá kim loại quý đã hơi tăng ở Châu Âu.
+**Tiêu thụ có thể gần bằng sản lượng.** Lượng nhập vào Cadiz và Lisbon chưa phải toàn bộ sản lượng mỏ Châu Mỹ: một phần được chở sang Manila bằng tàu Acapulco, một phần được buôn lậu thẳng sang các nước khác, một phần ở lại Châu Mỹ. Mỏ Châu Mỹ cũng không phải là mỏ vàng bạc duy nhất trên thế giới, nhưng là giàu nhất, và phần lớn sản phẩm của chúng về Cadiz và Lisbon.
+
+Smith ước lượng: riêng 50.000 bảng tiêu thụ ở Birmingham đã bằng 1/120 lượng nhập 6 triệu bảng mỗi năm. Cộng tất cả các nguồn tiêu thụ trên khắp thế giới, tổng tiêu thụ hằng năm có thể gần bằng toàn bộ sản lượng. Phần còn lại có lẽ không đủ cho cầu tăng của các nước đang thịnh vượng, và đó có thể là lý do giá kim loại quý đã hơi tăng ở Châu Âu.
 
 **So sánh với đồng và sắt.** Lượng đồng và sắt khai thác hằng năm lớn hơn vàng bạc rất nhiều, nhưng không ai nghĩ rằng chúng sẽ thừa ra và rẻ dần mãi. Kim loại thường tuy cứng hơn nhưng được dùng trong những điều kiện khắc nghiệt hơn và ít được giữ gìn vì rẻ, nên hao mòn nhanh. Kim loại quý không nhất thiết bền hơn; chúng cũng hao mòn, thất lạc và bị tiêu dùng bằng nhiều cách. Vậy không có lý do gì để tin rằng vàng bạc sẽ tích tụ vô hạn và mất giá mãi.
 
-**Giá kim loại ổn định hơn giá ngũ cốc.** Giá mọi kim loại, dù có thể biến động dần dần qua thời gian dài, biến động từ năm này sang năm khác ít hơn giá của hầu hết sản phẩm thô khác; và giá kim loại quý ít biến động đột ngột hơn giá kim loại thường. Độ bền là cơ sở của sự ổn định đó. Ngũ cốc mang ra chợ năm ngoái có thể đã được tiêu dùng hết từ trước khi kết thúc năm nay; nhưng một phần sắt khai thác từ hai ba trăm năm trước vẫn đang được dùng, và có lẽ một phần vàng khai thác từ hai ba nghìn năm trước cũng vậy. Một vụ mùa xấu có thể làm giá ngũ cốc tăng vọt, nhưng sản lượng mỏ một năm chỉ là phần nhỏ của tổng lượng kim loại đang tồn tại, nên không thể làm giá kim loại thay đổi nhiều.
+**Giá kim loại ổn định hơn giá ngũ cốc.** Giá mọi kim loại, dù có thể biến động dần dần qua thời gian dài, biến động từ năm này sang năm khác ít hơn giá của hầu hết sản phẩm thô khác; và giá kim loại quý ít biến động đột ngột hơn giá kim loại thường.
+
+Độ bền là cơ sở của sự ổn định đó. Ngũ cốc mang ra chợ năm ngoái có thể đã được tiêu dùng hết từ trước khi kết thúc năm nay; nhưng một phần sắt khai thác từ hai ba trăm năm trước vẫn đang được dùng, và có lẽ một phần vàng khai thác từ hai ba nghìn năm trước cũng vậy. Một vụ mùa xấu có thể làm giá ngũ cốc tăng vọt, nhưng sản lượng mỏ một năm chỉ là phần nhỏ của tổng lượng kim loại đang tồn tại, nên không thể làm giá kim loại thay đổi nhiều.
 
 ### 8. Biến động tỷ lệ giá trị giữa vàng và bạc
 
@@ -1139,7 +1208,9 @@ Thực ra, theo Smith, tỷ lệ số lượng bạc so với vàng trên thị 
 - Tổng thịt lớn hơn tổng gia cầm, tổng gia cầm lớn hơn tổng thú săn.
 - Người mua hàng rẻ đông hơn nhiều so với người mua hàng đắt, nên hàng rẻ bán được nhiều hơn cả về lượng lẫn giá trị.
 
-Giữa hai kim loại quý, bạc là hàng rẻ, vàng là hàng đắt. Vậy trên thị trường phải có nhiều bạc hơn vàng, cả về lượng lẫn giá trị. Người giàu nào cũng có nhiều đồ bạc hơn đồ vàng. Nhiều người có đồ bạc mà không có đồ vàng nào, và đồ vàng thường chỉ là vỏ đồng hồ, hộp thuốc lá và vài đồ lặt vặt, tổng giá trị ít khi lớn. Về tiền đúc thì khác nhau giữa các nước: trong tiền đúc của Anh, vàng chiếm ưu thế hơn nhiều; ở một vài nước hai kim loại gần ngang nhau; trong tiền đúc của Scotland trước Liên hiệp, theo sổ sách Sở đúc tiền, vàng hơi trội; ở nhiều nước bạc trội hơn; ở Pháp các khoản thanh toán lớn thường trả bằng bạc, và khó mang đủ vàng trong túi. Nhưng ưu thế của đồ bạc so với đồ vàng ở mọi nước đủ bù cho ưu thế của tiền vàng ở một số nước. Vì vậy, tính tổng, giá trị bạc trên thị trường lớn hơn giá trị vàng.
+Giữa hai kim loại quý, bạc là hàng rẻ, vàng là hàng đắt. Vậy trên thị trường phải có nhiều bạc hơn vàng, cả về lượng lẫn giá trị. Người giàu nào cũng có nhiều đồ bạc hơn đồ vàng. Nhiều người có đồ bạc mà không có đồ vàng nào, và đồ vàng thường chỉ là vỏ đồng hồ, hộp thuốc lá và vài đồ lặt vặt, tổng giá trị ít khi lớn.
+
+Về tiền đúc thì khác nhau giữa các nước: trong tiền đúc của Anh, vàng chiếm ưu thế hơn nhiều; ở một vài nước hai kim loại gần ngang nhau; trong tiền đúc của Scotland trước Liên hiệp, theo sổ sách Sở đúc tiền, vàng hơi trội; ở nhiều nước bạc trội hơn; ở Pháp các khoản thanh toán lớn thường trả bằng bạc, và khó mang đủ vàng trong túi. Nhưng ưu thế của đồ bạc so với đồ vàng ở mọi nước đủ bù cho ưu thế của tiền vàng ở một số nước. Vì vậy, tính tổng, giá trị bạc trên thị trường lớn hơn giá trị vàng.
 
 **"Rẻ" hay "đắt" theo nghĩa nào.** Theo một nghĩa, bạc luôn rẻ hơn vàng rất nhiều (một ounce bạc đổi được ít hàng hơn một ounce vàng). Nhưng theo một nghĩa khác, trên thị trường Tây Ban Nha hiện nay vàng có thể "rẻ" hơn bạc một chút. Smith giải thích: một hàng hoá được coi là rẻ hay đắt không theo giá tuyệt đối của nó, mà theo việc giá đó cao hơn bao nhiêu so với **giá thấp nhất** có thể đưa nó ra thị trường lâu dài, tức giá vừa đủ thay vốn và trả lợi nhuận vừa phải, không trả tô cho chủ đất, chỉ gồm tiền công và lợi nhuận.
 
@@ -1200,7 +1271,9 @@ Cách kiểm tra: nếu bạc mất giá, mọi hàng hoá phải đắt lên c�
 | 2 | Tăng được theo cầu | Tăng nhiều nhưng có một mức trần không vượt qua được lâu dài | Gia súc, gia cầm, lợn, bơ sữa, thịt hươu |
 | 3 | Hiệu quả của lao động bị hạn chế hoặc bấp bênh | Có xu hướng tăng, nhưng có khi giảm, có khi đứng, có khi tăng ít hay nhiều tuỳ biến cố ngẫu nhiên | Len, da, cá, kim loại quý |
 
-**Loại thứ nhất.** Gồm những thứ mà thiên nhiên chỉ sinh ra một lượng nhất định, và rất dễ hỏng, không thể tích trữ qua nhiều mùa: phần lớn các loài chim và cá quý hiếm, nhiều loại thú hoang, gần như mọi loài chim di trú. Khi của cải và sự xa xỉ đi kèm tăng lên, cầu về chúng tăng theo, nhưng sức lao động con người không thể tăng lượng cung vượt quá mức đã có trước khi cầu tăng. Lượng hàng giữ nguyên hay gần nguyên trong khi số người mua và sự cạnh tranh giữa họ tăng liên tục, nên giá có thể tăng đến bất kỳ mức quá đáng nào. Ví dụ của Smith: nếu chim dẽ gà trở thành món ăn thời thượng và bán được 20 guinea một con, không có nỗ lực nào của con người tăng được số chim dẽ gà mang ra chợ nhiều hơn hiện nay.
+**Loại thứ nhất.** Gồm những thứ mà thiên nhiên chỉ sinh ra một lượng nhất định, và rất dễ hỏng, không thể tích trữ qua nhiều mùa: phần lớn các loài chim và cá quý hiếm, nhiều loại thú hoang, gần như mọi loài chim di trú. Khi của cải và sự xa xỉ đi kèm tăng lên, cầu về chúng tăng theo, nhưng sức lao động con người không thể tăng lượng cung vượt quá mức đã có trước khi cầu tăng.
+
+Lượng hàng giữ nguyên hay gần nguyên trong khi số người mua và sự cạnh tranh giữa họ tăng liên tục, nên giá có thể tăng đến bất kỳ mức quá đáng nào. Ví dụ của Smith: nếu chim dẽ gà trở thành món ăn thời thượng và bán được 20 guinea một con, không có nỗ lực nào của con người tăng được số chim dẽ gà mang ra chợ nhiều hơn hiện nay.
 
 Theo cách đó có thể giải thích dễ dàng giá rất cao mà người La Mã thời thịnh nhất đã trả cho chim và cá quý hiếm. Những giá ấy không phải do bạc ở Rome rẻ, mà do giá trị của những thứ hiếm ấy, thứ mà lao động con người không làm tăng được theo ý muốn.
 
@@ -1220,7 +1293,9 @@ Theo cách đó có thể giải thích dễ dàng giá rất cao mà người L
 
 Giá quá đáng ấy không phải do bạc thừa, mà do người La Mã giàu có thừa lao động và lương thực để đổi, trong khi lượng bạc họ có còn ít hơn so với lượng bạc ngày nay đổi được cùng lượng lao động và lương thực đó. Nói cách khác, người La Mã trả rất nhiều sức lao động thật cho một con chim, vì con chim ấy hiếm.
 
-**Loại thứ hai.** Gồm những cây và vật hữu ích mà ở một nước chưa canh tác, thiên nhiên sinh ra thừa thãi, đến mức gần như không có giá trị, và khi canh tác mở rộng thì chúng phải nhường chỗ cho những sản phẩm có lợi hơn. Trong một thời gian dài của quá trình tiến bộ, lượng của chúng giảm dần trong khi cầu về chúng tăng liên tục. Giá trị thực của chúng, tức lượng lao động thật mà chúng mua được, vì thế tăng dần, cho đến khi chúng trở thành sản phẩm có lợi ngang những gì lao động con người làm ra trên đất màu mỡ nhất và canh tác tốt nhất. Đến mức đó thì giá không thể tăng thêm, vì nếu tăng, sẽ có thêm đất và lao động được dùng để làm tăng lượng của chúng. Đó là **mức trần** của loại thứ hai.
+**Loại thứ hai.** Gồm những cây và vật hữu ích mà ở một nước chưa canh tác, thiên nhiên sinh ra thừa thãi, đến mức gần như không có giá trị, và khi canh tác mở rộng thì chúng phải nhường chỗ cho những sản phẩm có lợi hơn. Trong một thời gian dài của quá trình tiến bộ, lượng của chúng giảm dần trong khi cầu về chúng tăng liên tục.
+
+Giá trị thực của chúng, tức lượng lao động thật mà chúng mua được, vì thế tăng dần, cho đến khi chúng trở thành sản phẩm có lợi ngang những gì lao động con người làm ra trên đất màu mỡ nhất và canh tác tốt nhất. Đến mức đó thì giá không thể tăng thêm, vì nếu tăng, sẽ có thêm đất và lao động được dùng để làm tăng lượng của chúng. Đó là **mức trần** của loại thứ hai.
 
 *Gia súc.* Khi giá gia súc đủ cao để việc trồng thức ăn gia súc có lợi ngang việc trồng lương thực cho người, giá không thể tăng thêm, vì khi đó đất ngũ cốc sẽ sớm được chuyển thành đồng cỏ. Ngược lại, việc mở rộng canh tác làm thu hẹp đồng cỏ hoang, giảm lượng thịt mà thiên nhiên tự cung cấp không cần lao động, trong khi số người cần thịt tăng lên. Giá thịt vì vậy tăng dần đến mức ngang lợi với ngũ cốc. Nhưng đó thường là một giai đoạn muộn của quá trình tiến bộ:
 
@@ -1230,7 +1305,9 @@ Giá quá đáng ấy không phải do bạc thừa, mà do người La Mã già
 
 Trong loại thứ hai, gia súc có lẽ là sản phẩm **đầu tiên** đạt mức giá trần này.
 
-**Gia súc là điều kiện của cải tạo đất.** Smith giải thích vì sao giá gia súc quan trọng với toàn bộ nông nghiệp. Trước khi giá gia súc đạt mức trần, phần lớn đất của một nước, kể cả đất tốt nhất, không thể được canh tác hoàn toàn. Ở mọi trang trại xa thành phố, nơi khó chở phân từ thành phố về, lượng đất được bón phân tỷ lệ với lượng phân trang trại tự có, và lượng phân tỷ lệ với số gia súc nuôi trên trang trại. Đất được bón bằng hai cách: chăn thả gia súc trên đó, hoặc nuôi gia súc trong chuồng rồi chở phân ra ruộng. Nếu giá gia súc không đủ trả tô và lợi nhuận của đất canh tác, chủ trại không thể chăn thả gia súc trên đất canh tác, càng không thể nuôi chúng trong chuồng (vì phải trả thêm công cắt cỏ và chở thức ăn). Khi đó, nuôi gia súc nhiều hơn mức cần để kéo cày là lỗ; thiếu gia súc thì thiếu phân; thiếu phân thì một phần đất phải bỏ hoang hoặc canh tác rất kém.
+**Gia súc là điều kiện của cải tạo đất.** Smith giải thích vì sao giá gia súc quan trọng với toàn bộ nông nghiệp. Trước khi giá gia súc đạt mức trần, phần lớn đất của một nước, kể cả đất tốt nhất, không thể được canh tác hoàn toàn. Ở mọi trang trại xa thành phố, nơi khó chở phân từ thành phố về, lượng đất được bón phân tỷ lệ với lượng phân trang trại tự có, và lượng phân tỷ lệ với số gia súc nuôi trên trang trại. Đất được bón bằng hai cách: chăn thả gia súc trên đó, hoặc nuôi gia súc trong chuồng rồi chở phân ra ruộng.
+
+Nếu giá gia súc không đủ trả tô và lợi nhuận của đất canh tác, chủ trại không thể chăn thả gia súc trên đất canh tác, càng không thể nuôi chúng trong chuồng (vì phải trả thêm công cắt cỏ và chở thức ăn). Khi đó, nuôi gia súc nhiều hơn mức cần để kéo cày là lỗ; thiếu gia súc thì thiếu phân; thiếu phân thì một phần đất phải bỏ hoang hoặc canh tác rất kém.
 
 | Bước | Điều kiện |
 |---|---|
@@ -1244,17 +1321,27 @@ Trong loại thứ hai, gia súc có lẽ là sản phẩm **đầu tiên** đ�
 
 Có hai trở ngại cho việc chuyển sang phương pháp mới: thứ nhất, người thuê đất nghèo, không đủ vốn để mua thêm gia súc; thứ hai, chưa có thời gian để cải tạo đất đủ tốt để nuôi số gia súc đó. Tăng đàn gia súc và cải tạo đất phải đi cùng nhau; không có cái này thì không có cái kia. Smith dự đoán phải nửa thế kỷ đến một thế kỷ nữa phương pháp cũ mới biến mất hoàn toàn ở Scotland. Ông kết luận: trong mọi lợi ích thương mại mà Scotland nhận được từ Liên hiệp với Anh, lợi ích lớn nhất là **giá gia súc tăng**. Nó không chỉ nâng giá trị đất đai cao nguyên mà có lẽ còn là nguyên nhân chính của việc cải tạo đất ở vùng thấp.
 
-**Thuộc địa Mỹ.** Ở các thuộc địa mới, nhiều đất hoang chỉ dùng được để chăn thả trong nhiều năm, nên gia súc nhân lên rất nhanh và gần như vô giá trị; ngựa chạy rông trong rừng mà không có chủ nào buồn đòi. Phải rất lâu sau khi lập thuộc địa, việc nuôi gia súc bằng sản phẩm của đất canh tác mới có lợi. Kalm, nhà du hành người Thuỵ Điển, ngạc nhiên vì người Anh ở Bắc Mỹ, vốn giỏi nông nghiệp ở chính quốc, lại rất ít bón phân cho ruộng ngũ cốc. Khi một mảnh đất kiệt, họ khai phá mảnh đất mới, rồi mảnh thứ ba. Gia súc của họ thả rông trong rừng và trên đất hoang, thường bị đói. Kalm kể rằng khi người Châu Âu mới đến, cỏ hằng niên mọc dày và cao 3–4 foot; một mảnh đất khi đó nuôi được 4 con bò, mỗi con cho lượng sữa gấp 4 lần bò hiện nay, nay không nuôi nổi một con. Theo ông, do đồng cỏ kiệt, gia súc thoái hoá qua từng thế hệ, giống như giống bò còi cọc ở Scotland 30–40 năm trước. Nay ở vùng thấp Scotland người ta cải thiện giống bò chủ yếu bằng cách cho ăn đầy đủ hơn, chứ không phải bằng lai giống.
+**Thuộc địa Mỹ.** Ở các thuộc địa mới, nhiều đất hoang chỉ dùng được để chăn thả trong nhiều năm, nên gia súc nhân lên rất nhanh và gần như vô giá trị; ngựa chạy rông trong rừng mà không có chủ nào buồn đòi. Phải rất lâu sau khi lập thuộc địa, việc nuôi gia súc bằng sản phẩm của đất canh tác mới có lợi.
+
+Kalm, nhà du hành người Thuỵ Điển, ngạc nhiên vì người Anh ở Bắc Mỹ, vốn giỏi nông nghiệp ở chính quốc, lại rất ít bón phân cho ruộng ngũ cốc. Khi một mảnh đất kiệt, họ khai phá mảnh đất mới, rồi mảnh thứ ba. Gia súc của họ thả rông trong rừng và trên đất hoang, thường bị đói.
+
+Kalm kể rằng khi người Châu Âu mới đến, cỏ hằng niên mọc dày và cao 3–4 foot; một mảnh đất khi đó nuôi được 4 con bò, mỗi con cho lượng sữa gấp 4 lần bò hiện nay, nay không nuôi nổi một con. Theo ông, do đồng cỏ kiệt, gia súc thoái hoá qua từng thế hệ, giống như giống bò còi cọc ở Scotland 30–40 năm trước. Nay ở vùng thấp Scotland người ta cải thiện giống bò chủ yếu bằng cách cho ăn đầy đủ hơn, chứ không phải bằng lai giống.
 
 **Thịt hươu: sản phẩm cuối cùng đạt trần.** Gia súc là sản phẩm đầu tiên của loại thứ hai đạt giá trần, vì chỉ khi chăn nuôi trở thành một ngành có lời thì mới đạt được những tiến bộ nông nghiệp mà nhiều nước Châu Âu hiện có. Thịt hươu có lẽ là một trong những sản phẩm cuối cùng. Giá thịt hươu ở Anh, dù có vẻ cao, theo những người có kinh nghiệm nuôi hươu vẫn chưa bù được chi phí xây dựng và giữ vườn hươu. Nếu bù được, nuôi hươu sẽ trở thành một ngành bình thường, như người La Mã xưa nuôi những con chim nhỏ gọi là turdi, mà theo Varro và Columella là một nghề rất lời. Nếu sở thích và sự giàu có tiếp tục tăng, giá thịt hươu ở Anh có thể còn cao hơn nhiều.
 
-**Gia cầm.** Giữa hai mốc gia súc (đạt trần sớm nhất) và thịt hươu (muộn nhất), nhiều sản phẩm khác lần lượt đạt giá cao nhất của chúng, sớm hay muộn tuỳ hoàn cảnh. Gia cầm trong trang trại ban đầu được nuôi bằng cám bã, thóc rơi vãi và đồ bỏ đi ở kho và chuồng, nên gần như không tốn gì và bán rất rẻ. Ở một nước canh tác kém, thưa dân, lượng gia cầm nuôi không tốn kém như vậy có thể đủ cho toàn bộ cầu, nên gia cầm rẻ như thịt hay mọi thứ thực phẩm động vật khác. Nhưng tổng lượng gia cầm nuôi không tốn luôn nhỏ hơn nhiều so với lượng thịt của trang trại. Khi giàu có tăng, giá gia cầm tăng so với giá thịt đến mức có lợi khi trồng thức ăn riêng cho chúng, và dừng ở đó. Ở một số tỉnh của Pháp, nuôi gia cầm là một ngành quan trọng, đủ lời để chủ trại trồng ngô và kiều mạch cho gà; một chủ trại trung bình có khi nuôi 400 con. Ở Anh, nghề nuôi gia cầm chưa được coi trọng như vậy, nên gia cầm ở Anh đắt hơn ở Pháp, và Anh nhập nhiều gia cầm từ Pháp.
+**Gia cầm.** Giữa hai mốc gia súc (đạt trần sớm nhất) và thịt hươu (muộn nhất), nhiều sản phẩm khác lần lượt đạt giá cao nhất của chúng, sớm hay muộn tuỳ hoàn cảnh. Gia cầm trong trang trại ban đầu được nuôi bằng cám bã, thóc rơi vãi và đồ bỏ đi ở kho và chuồng, nên gần như không tốn gì và bán rất rẻ. Ở một nước canh tác kém, thưa dân, lượng gia cầm nuôi không tốn kém như vậy có thể đủ cho toàn bộ cầu, nên gia cầm rẻ như thịt hay mọi thứ thực phẩm động vật khác.
+
+Nhưng tổng lượng gia cầm nuôi không tốn luôn nhỏ hơn nhiều so với lượng thịt của trang trại. Khi giàu có tăng, giá gia cầm tăng so với giá thịt đến mức có lợi khi trồng thức ăn riêng cho chúng, và dừng ở đó.
+
+Ở một số tỉnh của Pháp, nuôi gia cầm là một ngành quan trọng, đủ lời để chủ trại trồng ngô và kiều mạch cho gà; một chủ trại trung bình có khi nuôi 400 con. Ở Anh, nghề nuôi gia cầm chưa được coi trọng như vậy, nên gia cầm ở Anh đắt hơn ở Pháp, và Anh nhập nhiều gia cầm từ Pháp.
 
 **Giá thịt đắt nhất ngay trước khi trồng thức ăn chăn nuôi phổ biến.** Trong quá trình tiến bộ, giá của mọi loại thực phẩm động vật thường đắt nhất ngay trước khi việc trồng thức ăn chăn nuôi trở nên phổ biến, vì lúc đó gia súc khan hiếm mà chưa có cách nuôi chúng hiệu quả. Sau đó người ta tìm ra cách trồng thức ăn tốt hơn, cùng diện tích nuôi được nhiều hơn, và giá giảm phần nào. Cỏ ba lá, củ cải, cà rốt, cải bắp đã góp phần làm thịt ở London rẻ hơn so với đầu thế kỷ trước, như đã thấy qua giá Hoàng tử Henry trả.
 
 **Lợn.** Lợn, cũng như gia cầm, ban đầu được nuôi bằng đồ thừa: những thứ người ăn còn lại, những thứ con vật khác chê. Khi cầu về thịt lợn vượt mức nuôi được bằng đồ thừa, phải trồng thức ăn riêng cho lợn, và giá tăng. Giá thịt lợn sau đó cao hay thấp so với thịt khác tuỳ điều kiện tự nhiên và trình độ nông nghiệp của mỗi nước. Theo Buffon, ở Pháp thịt lợn gần ngang giá thịt bò; ở hầu hết nước Anh hiện nay, thịt lợn đắt hơn.
 
-**Tiểu nông giảm làm giá lợn và gia cầm tăng sớm hơn.** Giá lợn và gia cầm tăng ở Anh thường được quy cho việc giảm số tiểu nông và người thuê nhỏ ở nông thôn (cottagers). Smith đồng ý rằng sự kiện này, vốn là dấu hiệu báo trước của cải tạo đất và canh tác tốt hơn, đã làm giá tăng sớm và nhanh hơn lẽ ra. Người nghèo nhất có thể nuôi một con mèo, một con chó mà không tốn gì, thì cũng có thể nuôi vài con gà, một con lợn nái với vài con lợn con, bằng thức ăn thừa, sữa và váng sữa, và những gì mót được ngoài đồng mà không hại ai. Khi số hộ như vậy giảm, lượng vật nuôi được nuôi gần như không tốn kém cũng giảm, và giá của chúng tăng sớm hơn. Nhưng sớm hay muộn, giá chúng cũng sẽ đạt mức đủ trả công và chi phí trồng thức ăn như trên phần lớn đất canh tác.
+**Tiểu nông giảm làm giá lợn và gia cầm tăng sớm hơn.** Giá lợn và gia cầm tăng ở Anh thường được quy cho việc giảm số tiểu nông và người thuê nhỏ ở nông thôn (cottagers). Smith đồng ý rằng sự kiện này, vốn là dấu hiệu báo trước của cải tạo đất và canh tác tốt hơn, đã làm giá tăng sớm và nhanh hơn lẽ ra.
+
+Người nghèo nhất có thể nuôi một con mèo, một con chó mà không tốn gì, thì cũng có thể nuôi vài con gà, một con lợn nái với vài con lợn con, bằng thức ăn thừa, sữa và váng sữa, và những gì mót được ngoài đồng mà không hại ai. Khi số hộ như vậy giảm, lượng vật nuôi được nuôi gần như không tốn kém cũng giảm, và giá của chúng tăng sớm hơn. Nhưng sớm hay muộn, giá chúng cũng sẽ đạt mức đủ trả công và chi phí trồng thức ăn như trên phần lớn đất canh tác.
 
 **Bơ sữa.** Việc làm bơ sữa ban đầu cũng là một việc tận dụng. Bò trong trang trại tự nhiên cho nhiều sữa hơn mức cần để nuôi bê và cho gia đình chủ trại dùng, nhất là trong một mùa nhất định. Sữa rất dễ hỏng; mùa nóng nó không giữ được quá 24 giờ. Chủ trại vì vậy làm bơ tươi để dùng trong tuần, bơ mặn để dự trữ cả năm, pho mát để giữ được vài năm, rồi mang phần dư ra chợ bán.
 
@@ -1283,9 +1370,13 @@ Giá danh nghĩa của các sản phẩm thô này tăng không phải do bạc 
 - Thị trường thịt hầu như ở đâu cũng giới hạn trong nước sản xuất. Ireland và một phần Châu Mỹ thuộc Anh buôn khá nhiều thịt muối, nhưng có lẽ là những nơi duy nhất trong thế giới thương mại xuất khẩu một phần đáng kể thịt của mình.
 - Thị trường len và da thì từ đầu đã hiếm khi giới hạn trong nước. Len chưa chế biến và da chỉ sơ chế dễ chở đi xa, và là nguyên liệu cho công nghiệp của nhiều nước.
 
-Ở một nước canh tác kém, thưa dân, giá len và da chiếm phần lớn trong giá toàn bộ con vật; ở nước tiến bộ hơn, nơi thịt có cầu, chúng chiếm phần nhỏ hơn nhiều. Hume nhận xét rằng thời Saxon, bộ lông cừu được tính bằng 2/5 giá trị cả con cừu, cao hơn nhiều so với tỷ lệ hiện nay. Ở vài tỉnh của Tây Ban Nha, người ta thường giết cừu chỉ để lấy lông và mỡ, bỏ xác thối trên mặt đất hoặc để thú dữ và chim ăn. Điều đó xảy ra thường xuyên ở Chile, Buenos Aires và nhiều nơi khác ở Châu Mỹ thuộc Tây Ban Nha, nơi gia súc có sừng bị giết chỉ để lấy da và mỡ. Trước kia điều đó cũng thường thấy ở đảo Hispaniola khi đảo bị bọn cướp biển Buccaneer quấy phá, trước khi các đồn điền của Pháp được lập (nay trải dọc gần hết bờ biển, chiếm nửa phía tây của đảo) và nâng giá gia súc lên.
+Ở một nước canh tác kém, thưa dân, giá len và da chiếm phần lớn trong giá toàn bộ con vật; ở nước tiến bộ hơn, nơi thịt có cầu, chúng chiếm phần nhỏ hơn nhiều. Hume nhận xét rằng thời Saxon, bộ lông cừu được tính bằng 2/5 giá trị cả con cừu, cao hơn nhiều so với tỷ lệ hiện nay.
 
-**Vì sao giá len, da tăng chậm hơn giá thịt.** Khi xã hội tiến bộ và dân số tăng, giá toàn bộ con vật tăng, nhưng phần tăng chủ yếu ở thịt hơn ở len và da. Thị trường thịt mở rộng theo dân số và trình độ phát triển của chính nước đó. Còn thị trường len và da, ngay khi nước còn man rợ, đã là cả thế giới thương mại, và hiếm khi mở rộng theo cùng tỷ lệ với một nước riêng lẻ. Sự phát triển của một nước ít tác động đến cả thế giới thương mại, nên thị trường len và da gần như giữ nguyên. Nếu nước đó phát triển công nghiệp chế biến len và da của chính mình, giá len và da ít nhất được tăng thêm một khoản bằng cước chở chúng đến các nước xa (vì không còn phải trừ cước chở đi). Vậy giá len và da không tăng theo cùng tỷ lệ với thịt, nhưng tự nhiên vẫn phải tăng phần nào chứ không giảm.
+Ở vài tỉnh của Tây Ban Nha, người ta thường giết cừu chỉ để lấy lông và mỡ, bỏ xác thối trên mặt đất hoặc để thú dữ và chim ăn. Điều đó xảy ra thường xuyên ở Chile, Buenos Aires và nhiều nơi khác ở Châu Mỹ thuộc Tây Ban Nha, nơi gia súc có sừng bị giết chỉ để lấy da và mỡ. Trước kia điều đó cũng thường thấy ở đảo Hispaniola khi đảo bị bọn cướp biển Buccaneer quấy phá, trước khi các đồn điền của Pháp được lập (nay trải dọc gần hết bờ biển, chiếm nửa phía tây của đảo) và nâng giá gia súc lên.
+
+**Vì sao giá len, da tăng chậm hơn giá thịt.** Khi xã hội tiến bộ và dân số tăng, giá toàn bộ con vật tăng, nhưng phần tăng chủ yếu ở thịt hơn ở len và da. Thị trường thịt mở rộng theo dân số và trình độ phát triển của chính nước đó. Còn thị trường len và da, ngay khi nước còn man rợ, đã là cả thế giới thương mại, và hiếm khi mở rộng theo cùng tỷ lệ với một nước riêng lẻ. Sự phát triển của một nước ít tác động đến cả thế giới thương mại, nên thị trường len và da gần như giữ nguyên.
+
+Nếu nước đó phát triển công nghiệp chế biến len và da của chính mình, giá len và da ít nhất được tăng thêm một khoản bằng cước chở chúng đến các nước xa (vì không còn phải trừ cước chở đi). Vậy giá len và da không tăng theo cùng tỷ lệ với thịt, nhưng tự nhiên vẫn phải tăng phần nào chứ không giảm.
 
 **Giá len Anh lại giảm: do "mưu đồ và quyền lực".** Thế nhưng ở Anh, bất chấp ngành len thịnh vượng, giá len đã giảm đáng kể từ thời Edward III. Nhiều sổ sách đáng tin chứng minh rằng dưới triều vua này (khoảng năm 1339; bản dịch ghi nhầm "1939"), giá vừa phải của một tod (28 pound) len Anh tốt không dưới 10 shilling tiền khi ấy, chứa 6 ounce bạc Tower, khoảng 30 shilling tiền nay. Hiện nay 21 shilling một tod có thể coi là giá tốt cho len Anh tốt. Smith so sánh:
 
@@ -1322,7 +1413,9 @@ Năm 1425, 12 shilling chứa lượng bạc bằng khoảng 24 shilling tiền 
 - Với giá 3 shilling 6 penny một bushel hiện nay, lượng lúa mì đó trị giá 51 shilling 4 penny.
 - Chia cho 5 tấm, một tấm da bò đực thời đó mua được lượng lúa mì nay trị giá 10 shilling 3 penny.
 
-Thời đó gia súc phải chịu đói gần như suốt mùa đông, nên chắc không to lắm. Một tấm da bò đực nặng 4 stone, loại stone 16 pound avoirdupois (tổng khoảng 64 pound), hiện nay không bị coi là xấu, và thời đó có lẽ được coi là rất tốt. Với giá nửa crown (2 shilling 6 penny) một stone, giá thông thường vào tháng 2/1773, tấm da như vậy nay chỉ đáng 10 shilling. Vậy dù giá danh nghĩa hiện nay cao hơn, giá thực tính theo lương thực có phần thấp hơn một chút. Da bò cái thời đó có giá gần tương xứng với da bò đực; da cừu đắt hơn nhiều so với tỷ lệ đó, có lẽ vì bán kèm cả lông; da bê thì rẻ hơn nhiều. Ở nước gia súc rẻ, bê không được nuôi lớn mà thường bị giết khi còn rất nhỏ, như ở Scotland 20–30 năm trước, nên da bê không có giá.
+Thời đó gia súc phải chịu đói gần như suốt mùa đông, nên chắc không to lắm. Một tấm da bò đực nặng 4 stone, loại stone 16 pound avoirdupois (tổng khoảng 64 pound), hiện nay không bị coi là xấu, và thời đó có lẽ được coi là rất tốt. Với giá nửa crown (2 shilling 6 penny) một stone, giá thông thường vào tháng 2/1773, tấm da như vậy nay chỉ đáng 10 shilling. Vậy dù giá danh nghĩa hiện nay cao hơn, giá thực tính theo lương thực có phần thấp hơn một chút.
+
+Da bò cái thời đó có giá gần tương xứng với da bò đực; da cừu đắt hơn nhiều so với tỷ lệ đó, có lẽ vì bán kèm cả lông; da bê thì rẻ hơn nhiều. Ở nước gia súc rẻ, bê không được nuôi lớn mà thường bị giết khi còn rất nhỏ, như ở Scotland 20–30 năm trước, nên da bê không có giá.
 
 **Giá da gần đây và chính sách.** Giá da hiện nay thấp hơn vài năm trước. Smith cho rằng có lẽ do bỏ thuế đối với da hải cẩu, và do từ năm 1769 cho nhập da sống miễn thuế từ Ireland và các thuộc địa, trong một thời hạn có giới hạn. Lấy trung bình cả thế kỷ, giá thực của da có lẽ hơi cao hơn thời xưa. Tính chất của da làm nó khó chở xa như len: nó hỏng nếu để lâu, và da ướp muối bán rẻ hơn da tươi. Vì vậy da có xu hướng rẻ ở nước chưa phát triển, nơi phải xuất khẩu da vì không có xưởng chế biến, và đắt ở nước tiến bộ có nhiều xưởng thuộc da.
 
@@ -1347,7 +1440,9 @@ Da gia súc mới được đưa vào danh mục hàng hoá mà thuộc địa c
 
 Scotland, do Liên hiệp, cũng bị buộc theo luật cấm xuất khẩu len, nên giá len Scotland giảm đáng kể vì bị loại khỏi thị trường lớn của Châu Âu và chỉ còn thị trường hẹp của Anh. Giá trị đất ở các hạt phía nam Scotland, chủ yếu chăn cừu, lẽ ra đã bị ảnh hưởng rất nặng nếu không có việc giá thịt tăng sau Liên hiệp bù lại hoàn toàn.
 
-**Cá: phụ thuộc vị trí hơn trình độ phát triển.** Lượng cá mang ra chợ cũng bị hạn chế và bấp bênh, do vị trí địa lý của mỗi nước: gần biển hay xa biển, có nhiều sông hồ hay không, sông biển ở đó nhiều hay ít cá. Khi dân số tăng và sản phẩm của đất đai, lao động tăng, số người mua cá nhiều hơn, và họ có nhiều thứ hơn để đổi lấy cá. Nhưng không thể cung cấp cho một thị trường lớn hơn mà không dùng lượng lao động tăng **hơn tỷ lệ**. Ví dụ của Smith: một thị trường trước chỉ cần 1.000 tấn cá mỗi năm, nay cần 10.000 tấn, thì hiếm khi được cung cấp mà không cần hơn 10 lần lượng lao động trước kia (bản dịch ghi lộn số). Lý do: phải đánh bắt ở những vùng biển xa hơn, dùng tàu lớn hơn, dụng cụ đắt hơn. Vì vậy giá thực của cá tự nhiên tăng theo tiến bộ, và Smith tin điều đó đã xảy ra ở mọi nước.
+**Cá: phụ thuộc vị trí hơn trình độ phát triển.** Lượng cá mang ra chợ cũng bị hạn chế và bấp bênh, do vị trí địa lý của mỗi nước: gần biển hay xa biển, có nhiều sông hồ hay không, sông biển ở đó nhiều hay ít cá. Khi dân số tăng và sản phẩm của đất đai, lao động tăng, số người mua cá nhiều hơn, và họ có nhiều thứ hơn để đổi lấy cá. Nhưng không thể cung cấp cho một thị trường lớn hơn mà không dùng lượng lao động tăng **hơn tỷ lệ**.
+
+Ví dụ của Smith: một thị trường trước chỉ cần 1.000 tấn cá mỗi năm, nay cần 10.000 tấn, thì hiếm khi được cung cấp mà không cần hơn 10 lần lượng lao động trước kia (bản dịch ghi lộn số). Lý do: phải đánh bắt ở những vùng biển xa hơn, dùng tàu lớn hơn, dụng cụ đắt hơn. Vì vậy giá thực của cá tự nhiên tăng theo tiến bộ, và Smith tin điều đó đã xảy ra ở mọi nước.
 
 Nhưng dù sản lượng của một ngày đánh bắt rất bấp bênh, với một vị trí địa lý đã biết thì sản lượng cả năm hay vài năm là khá chắc chắn. Nó phụ thuộc vào vị trí địa lý hơn là vào của cải và mức độ công nghiệp của nước đó. Vì vậy nó có thể như nhau ở các nước có trình độ phát triển khác nhau, và rất khác nhau ở các nước có cùng trình độ. Quan hệ giữa sản lượng cá và tiến bộ của xã hội vì thế không chắc chắn.
 
@@ -1358,7 +1453,11 @@ Nhưng dù sản lượng của một ngày đánh bắt rất bấp bênh, vớ
 
 Độ giàu nghèo của mỏ không có quan hệ gì với trình độ công nghiệp của một nước riêng lẻ, và cũng không có quan hệ tất yếu với trình độ của cả thế giới. Khi mỹ nghệ và thương mại lan rộng khắp thế giới, việc tìm mỏ mới được tiến hành trên diện rộng hơn nên có thêm cơ hội thành công. Nhưng việc tìm mỏ mới để thay những mỏ cũ cạn kiệt là việc bấp bênh nhất trong mọi việc, mà tài khéo và cần cù của con người không bảo đảm được. Trong một hai thế kỷ tới, người ta có thể tìm ra mỏ giàu hơn mọi mỏ từng biết; hoặc mỏ giàu nhất tìm được có thể nghèo hơn mọi mỏ Châu Mỹ trước đây.
 
-**Một shilling không thể hiện nhiều lao động hơn một penny.** Dù trường hợp nào xảy ra, điều đó chỉ quan trọng rất ít đối với của cải thật và sự thịnh vượng của thế giới, tức đối với giá trị thực của sản phẩm hằng năm của đất đai và lao động. Giá trị **danh nghĩa** của sản phẩm đó, tức lượng vàng bạc dùng để biểu thị nó, sẽ rất khác nhau; nhưng giá trị **thực**, tức lượng lao động thật mà nó mua được hay chi phối được, sẽ hoàn toàn như nhau. Smith viết: trong một trường hợp (mỏ rất giàu), một shilling có thể không biểu thị nhiều lao động hơn một penny hiện nay; trong trường hợp kia (mỏ rất nghèo), một penny có thể biểu thị lượng lao động bằng một shilling hiện nay. Người có một shilling trong túi trong trường hợp thứ nhất không giàu hơn người có một penny hiện nay; người có một penny trong trường hợp thứ hai giàu ngang người có một shilling hiện nay. Lợi ích duy nhất thế giới thu được từ mỏ giàu là đồ dùng bằng vàng bạc rẻ và dồi dào hơn; bất lợi duy nhất từ mỏ nghèo là những đồ vặt vãnh, không cần thiết đó đắt và khan hiếm hơn.
+**Một shilling không thể hiện nhiều lao động hơn một penny.** Dù trường hợp nào xảy ra, điều đó chỉ quan trọng rất ít đối với của cải thật và sự thịnh vượng của thế giới, tức đối với giá trị thực của sản phẩm hằng năm của đất đai và lao động. Giá trị **danh nghĩa** của sản phẩm đó, tức lượng vàng bạc dùng để biểu thị nó, sẽ rất khác nhau; nhưng giá trị **thực**, tức lượng lao động thật mà nó mua được hay chi phối được, sẽ hoàn toàn như nhau.
+
+Smith viết: trong một trường hợp (mỏ rất giàu), một shilling có thể không biểu thị nhiều lao động hơn một penny hiện nay; trong trường hợp kia (mỏ rất nghèo), một penny có thể biểu thị lượng lao động bằng một shilling hiện nay. Người có một shilling trong túi trong trường hợp thứ nhất không giàu hơn người có một penny hiện nay; người có một penny trong trường hợp thứ hai giàu ngang người có một shilling hiện nay.
+
+Lợi ích duy nhất thế giới thu được từ mỏ giàu là đồ dùng bằng vàng bạc rẻ và dồi dào hơn; bất lợi duy nhất từ mỏ nghèo là những đồ vặt vãnh, không cần thiết đó đắt và khan hiếm hơn.
 
 **Ví dụ hôm nay** (minh hoạ chung). Nếu mọi tờ tiền trong một nước bỗng được in thêm một số 0 và mọi giá cả, tiền lương cũng thêm một số 0, không ai giàu lên hay nghèo đi: chỉ có đơn vị đo thay đổi. Smith nói điều tương tự về bạc: sự dồi dào hay khan hiếm của kim loại làm tiền chỉ đổi "đơn vị đo" của của cải, không đổi lượng của cải.
 
@@ -1380,7 +1479,9 @@ Hai sự kiện xảy ra gần cùng lúc nhưng có nguyên nhân khác nhau v�
 **Bằng chứng: Ba Lan, Tây Ban Nha và Bồ Đào Nha.** Smith đưa ba nước làm phép thử:
 
 - **Ba Lan**, nơi chế độ phong kiến vẫn còn tồn tại, vẫn nghèo khổ như trước khi tìm ra Châu Mỹ. Ở đó giá tiền của ngũ cốc cũng tăng, giá trị thực của kim loại quý cũng giảm như ở phần còn lại của Châu Âu. Lượng kim loại quý ở Ba Lan chắc cũng tăng gần cùng tỷ lệ so với sản phẩm hằng năm của đất đai và lao động như ở các nước khác. Nhưng việc tăng lượng kim loại đó không làm tăng sản phẩm hằng năm, không cải thiện công nghiệp, nông nghiệp hay đời sống của dân chúng.
-- **Tây Ban Nha và Bồ Đào Nha**, hai nước sở hữu các mỏ, cũng như Ba Lan, vẫn thuộc loại nghèo khổ nhất Châu Âu. Giá trị của kim loại quý ở hai nước này phải thấp hơn ở bất kỳ nước nào khác ở Châu Âu, vì vàng bạc khi ra khỏi hai nước để đến nước khác phải chịu cước vận chuyển, phí bảo hiểm, và cả chi phí buôn lậu (vì xuất khẩu vàng bạc bị cấm hoặc bị đánh thuế). So với sản phẩm hằng năm của đất đai và lao động, lượng kim loại quý ở hai nước này phải nhiều hơn ở mọi nước Châu Âu khác. Vậy mà hai nước vẫn nghèo hơn phần lớn Châu Âu. Chế độ phong kiến ở đó đã bị thủ tiêu, nhưng nó không được thay bằng một chế độ tốt hơn nhiều, nên dân chúng không vì thế mà sống tốt hơn.
+- **Tây Ban Nha và Bồ Đào Nha**, hai nước sở hữu các mỏ, cũng như Ba Lan, vẫn thuộc loại nghèo khổ nhất Châu Âu. Giá trị của kim loại quý ở hai nước này phải thấp hơn ở bất kỳ nước nào khác ở Châu Âu, vì vàng bạc khi ra khỏi hai nước để đến nước khác phải chịu cước vận chuyển, phí bảo hiểm, và cả chi phí buôn lậu (vì xuất khẩu vàng bạc bị cấm hoặc bị đánh thuế). So với sản phẩm hằng năm của đất đai và lao động, lượng kim loại quý ở hai nước này phải nhiều hơn ở mọi nước Châu Âu khác.
+
+  Vậy mà hai nước vẫn nghèo hơn phần lớn Châu Âu. Chế độ phong kiến ở đó đã bị thủ tiêu, nhưng nó không được thay bằng một chế độ tốt hơn nhiều, nên dân chúng không vì thế mà sống tốt hơn.
 
 Bài học: nhiều bạc không làm nước giàu; nước giàu là nhờ thể chế bảo đảm cho người lao động hưởng thành quả của mình.
 
@@ -1398,9 +1499,13 @@ Nó cho thấy dân số và gia súc so với diện tích lãnh thổ chưa �
 
 **Ví dụ hôm nay** (minh hoạ chung). Ở những vùng còn nhiều rừng và đất hoang, thịt rừng hay cá sông thường rẻ so với gạo; ở các đô thị lớn, thịt và cá đắt gấp nhiều lần gạo tính theo cân. Theo Smith, chính tỷ lệ giá giữa thịt và lương thực chính, chứ không phải mức giá chung, mới là chỉ báo về trình độ phát triển của một vùng.
 
-**Bạc mất giá thì mọi giá tăng như nhau.** Khi giá danh nghĩa tăng do bạc mất giá, mọi hàng hoá đều tăng giá như nhau: tăng 1/3, 1/4 hay 1/5 tuỳ bạc mất 1/3, 1/4 hay 1/5 giá trị của nó. Nhưng việc giá lương thực tăng, đề tài của rất nhiều tranh luận thời Smith, không tác động như nhau lên mọi loại lương thực. Lấy trung bình thế kỷ hiện tại, ngay cả những người quy việc tăng giá cho bạc mất giá cũng thừa nhận rằng giá ngũ cốc tăng ít hơn nhiều so với giá các loại lương thực khác. Vậy giá các lương thực khác tăng không thể hoàn toàn do bạc mất giá. Phải tính đến những nguyên nhân khác, và những nguyên nhân đã nêu ở mục trên (giá thực tăng do cải tạo đất) có lẽ đủ để giải thích, không cần viện đến bạc mất giá.
+**Bạc mất giá thì mọi giá tăng như nhau.** Khi giá danh nghĩa tăng do bạc mất giá, mọi hàng hoá đều tăng giá như nhau: tăng 1/3, 1/4 hay 1/5 tuỳ bạc mất 1/3, 1/4 hay 1/5 giá trị của nó.
 
-**Giá ngũ cốc 64 năm đầu thế kỷ.** Trong 64 năm đầu thế kỷ hiện tại, trước các năm mất mùa gần đây, giá ngũ cốc hơi thấp hơn 64 năm cuối thế kỷ trước. Điều này được xác nhận không chỉ bằng sổ chợ Windsor, mà bằng các bảng định giá công khai hằng năm (fiars) ở mọi hạt của Scotland, và bằng sổ sách của nhiều chợ ở Pháp do Messance và Dupré de St. Maur thu thập với sự cẩn thận và chính xác lớn. Smith nhận xét bằng chứng ở đây đầy đủ hơn mức thường có được cho một vấn đề khó xác định như vậy. Giá cao 10–12 năm gần đây là do mất mùa, không do bạc mất giá. Ý kiến cho rằng bạc tiếp tục mất giá dường như không dựa trên quan sát xác đáng nào, dù về giá ngũ cốc hay về giá các lương thực khác.
+Nhưng việc giá lương thực tăng, đề tài của rất nhiều tranh luận thời Smith, không tác động như nhau lên mọi loại lương thực. Lấy trung bình thế kỷ hiện tại, ngay cả những người quy việc tăng giá cho bạc mất giá cũng thừa nhận rằng giá ngũ cốc tăng ít hơn nhiều so với giá các loại lương thực khác. Vậy giá các lương thực khác tăng không thể hoàn toàn do bạc mất giá. Phải tính đến những nguyên nhân khác, và những nguyên nhân đã nêu ở mục trên (giá thực tăng do cải tạo đất) có lẽ đủ để giải thích, không cần viện đến bạc mất giá.
+
+**Giá ngũ cốc 64 năm đầu thế kỷ.** Trong 64 năm đầu thế kỷ hiện tại, trước các năm mất mùa gần đây, giá ngũ cốc hơi thấp hơn 64 năm cuối thế kỷ trước. Điều này được xác nhận không chỉ bằng sổ chợ Windsor, mà bằng các bảng định giá công khai hằng năm (fiars) ở mọi hạt của Scotland, và bằng sổ sách của nhiều chợ ở Pháp do Messance và Dupré de St. Maur thu thập với sự cẩn thận và chính xác lớn.
+
+Smith nhận xét bằng chứng ở đây đầy đủ hơn mức thường có được cho một vấn đề khó xác định như vậy. Giá cao 10–12 năm gần đây là do mất mùa, không do bạc mất giá. Ý kiến cho rằng bạc tiếp tục mất giá dường như không dựa trên quan sát xác đáng nào, dù về giá ngũ cốc hay về giá các lương thực khác.
 
 **Phân biệt "hàng lên giá" với "bạc mất giá" có ích gì?** Có thể có người nói: cùng một lượng bạc hiện nay mua được ít lương thực hơn nhiều so với thế kỷ trước; việc xác định đó là do hàng lên giá hay bạc mất giá chỉ là một phân biệt vô ích, không giúp gì cho người chỉ có một ít bạc mang ra chợ, hay người có thu nhập cố định bằng tiền. Smith không cho rằng biết sự phân biệt này giúp ai mua được rẻ hơn. Nhưng ông cho rằng nó không hoàn toàn vô ích, vì hai lẽ.
 
@@ -1530,7 +1635,9 @@ Nhưng họ thường thiếu hiểu biết ấy. Địa chủ là giai cấp du
 | Đứng yên | Sớm giảm xuống mức vừa đủ nuôi một gia đình và duy trì nòi giống người lao động |
 | Suy thoái | Xuống thấp hơn cả mức đó |
 
-Địa chủ có thể được lợi nhiều hơn người làm công khi xã hội thịnh vượng, nhưng không giai cấp nào chịu khổ tàn khốc như người làm công khi xã hội suy thoái. Dù lợi ích của người làm công gắn chặt với lợi ích xã hội, họ không có khả năng hiểu lợi ích đó hay mối liên hệ của nó với lợi ích của chính mình. Họ không có thời gian để tìm hiểu những thông tin cần thiết, và ngay cả khi có thông tin đầy đủ, giáo dục và thói quen cũng thường khiến họ không đủ khả năng phán đoán. Vì vậy trong các cuộc bàn luận công cộng, tiếng nói của họ ít được nghe và ít được coi trọng, trừ một vài trường hợp đặc biệt khi những lời kêu ca của họ được giới chủ khích lệ, đẩy lên. Khi đó họ được dùng không phải vì lợi ích của chính người làm công, mà vì mục đích riêng của giới chủ.
+Địa chủ có thể được lợi nhiều hơn người làm công khi xã hội thịnh vượng, nhưng không giai cấp nào chịu khổ tàn khốc như người làm công khi xã hội suy thoái. Dù lợi ích của người làm công gắn chặt với lợi ích xã hội, họ không có khả năng hiểu lợi ích đó hay mối liên hệ của nó với lợi ích của chính mình. Họ không có thời gian để tìm hiểu những thông tin cần thiết, và ngay cả khi có thông tin đầy đủ, giáo dục và thói quen cũng thường khiến họ không đủ khả năng phán đoán.
+
+Vì vậy trong các cuộc bàn luận công cộng, tiếng nói của họ ít được nghe và ít được coi trọng, trừ một vài trường hợp đặc biệt khi những lời kêu ca của họ được giới chủ khích lệ, đẩy lên. Khi đó họ được dùng không phải vì lợi ích của chính người làm công, mà vì mục đích riêng của giới chủ.
 
 **③ Chủ vốn.** Giới chủ, những người sống bằng lợi nhuận, là giai cấp thứ ba. Chính vốn được đầu tư vì lợi nhuận làm chuyển động phần lớn lao động hữu ích của mọi xã hội. Kế hoạch và dự án của những người dùng vốn điều chỉnh và chỉ đạo mọi hoạt động quan trọng nhất của lao động, và lợi nhuận là mục tiêu của mọi kế hoạch và dự án ấy. Smith không hề coi thường vai trò của họ.
 
@@ -1542,7 +1649,9 @@ Nhưng tỷ suất lợi nhuận không vận động như địa tô và tiền
 | Người làm công | Tiền công | Tăng | Có | Không, vì thiếu thời gian, thông tin, giáo dục |
 | Chủ vốn | Lợi nhuận | Tỷ suất giảm | Không | Có, rất rõ về lợi ích riêng |
 
-**Thương nhân và chủ xưởng.** Trong giai cấp thứ ba, thương nhân và chủ xưởng là hai hạng người thường dùng vốn lớn nhất, và nhờ giàu có mà được xã hội trọng vọng nhiều nhất. Vì cả đời họ bận tâm với kế hoạch và dự án, họ thường có hiểu biết sắc bén hơn phần lớn quý tộc nông thôn. Nhưng vì suy nghĩ của họ thường hướng về lợi ích của ngành mình hơn là lợi ích của xã hội, phán đoán của họ, kể cả khi được đưa ra một cách công tâm nhất (điều không phải lúc nào cũng xảy ra), vẫn phụ thuộc vào lợi ích riêng hơn là lợi ích chung. Ưu thế của họ so với quý tộc nông thôn không nằm ở hiểu biết về lợi ích công, mà ở hiểu biết về lợi ích riêng của chính họ. Nhờ ưu thế ấy, họ thường thuyết phục được quý tộc nông thôn từ bỏ lợi ích của chính mình và của công chúng, với niềm tin ngây thơ rằng lợi ích của giới buôn bán chính là lợi ích công.
+**Thương nhân và chủ xưởng.** Trong giai cấp thứ ba, thương nhân và chủ xưởng là hai hạng người thường dùng vốn lớn nhất, và nhờ giàu có mà được xã hội trọng vọng nhiều nhất. Vì cả đời họ bận tâm với kế hoạch và dự án, họ thường có hiểu biết sắc bén hơn phần lớn quý tộc nông thôn.
+
+Nhưng vì suy nghĩ của họ thường hướng về lợi ích của ngành mình hơn là lợi ích của xã hội, phán đoán của họ, kể cả khi được đưa ra một cách công tâm nhất (điều không phải lúc nào cũng xảy ra), vẫn phụ thuộc vào lợi ích riêng hơn là lợi ích chung. Ưu thế của họ so với quý tộc nông thôn không nằm ở hiểu biết về lợi ích công, mà ở hiểu biết về lợi ích riêng của chính họ. Nhờ ưu thế ấy, họ thường thuyết phục được quý tộc nông thôn từ bỏ lợi ích của chính mình và của công chúng, với niềm tin ngây thơ rằng lợi ích của giới buôn bán chính là lợi ích công.
 
 **Mở rộng thị trường và thu hẹp cạnh tranh.** Lợi ích của người buôn bán trong bất kỳ ngành thương mại hay công nghiệp nào luôn có mặt khác, thậm chí trái ngược, với lợi ích công chúng. Smith viết: "Mở rộng thị trường và thu hẹp sự cạnh tranh là những mặt hoạt động phục vụ cho lợi ích của người buôn bán." Hai mặt này có tác động ngược nhau đối với công chúng:
 
@@ -1700,18 +1809,237 @@ Phân tích về người làm công cũng sâu hơn vẻ ngoài: lợi ích c�
 
 ### Chương này là chỗ Smith dùng chính số liệu Việt Nam, và bản dịch đã thêm vào một lớp nghĩa mới
 
-Ít người đọc để ý rằng Smith dẫn giá đường ở Nam Kỳ (Cochinchina) theo ghi chép của Pierre Poivre: 3 piastre một quintal, chưa bằng 1/4 giá đường nâu thuộc địa Anh. Ông dùng nó để chứng minh rằng đường ở Tây Ấn bán với giá độc quyền, còn ở một nước mà mía cạnh tranh tự do với lúa gạo trên cùng loại đất thì giá đường về đúng tỷ lệ tự nhiên với giá lúa. Đó là một lập luận về lợi ích của cạnh tranh trong sử dụng đất, dùng Việt Nam thế kỷ XVIII làm nhóm đối chứng. Người dịch chú thích "piastre" là "tiền Đông Dương cũ", một đồng tiền chỉ xuất hiện hơn một thế kỷ sau; piastre ở đây là đồng peso bạc Tây Ban Nha lưu hành khắp Châu Á thời đó. Điều đó lại liên kết với phần lạc đề: chính đồng bạc Châu Mỹ chảy qua Manila là thứ nối Nam Kỳ với thương mại thế giới.
+Ít người đọc để ý rằng Smith dẫn giá đường ở Nam Kỳ (Cochinchina) theo ghi chép của Pierre Poivre: 3 piastre một quintal, chưa bằng 1/4 giá đường nâu thuộc địa Anh. Ông dùng nó để chứng minh rằng đường ở Tây Ấn bán với giá độc quyền, còn ở một nước mà mía cạnh tranh tự do với lúa gạo trên cùng loại đất thì giá đường về đúng tỷ lệ tự nhiên với giá lúa. Đó là một lập luận về lợi ích của cạnh tranh trong sử dụng đất, dùng Việt Nam thế kỷ XVIII làm nhóm đối chứng.
+
+Người dịch chú thích "piastre" là "tiền Đông Dương cũ", một đồng tiền chỉ xuất hiện hơn một thế kỷ sau; piastre ở đây là đồng peso bạc Tây Ban Nha lưu hành khắp Châu Á thời đó. Điều đó lại liên kết với phần lạc đề: chính đồng bạc Châu Mỹ chảy qua Manila là thứ nối Nam Kỳ với thương mại thế giới.
 
 ### Với Việt Nam: chênh lệch địa tô do quy hoạch tạo ra là "giá độc quyền" theo đúng nghĩa của Smith, và ai viết luật sẽ quyết định ai hưởng nó
 
-**Đất đai và địa tô.** Ở Việt Nam đất thuộc sở hữu toàn dân, nhưng logic của Smith vẫn áp dụng nguyên vẹn, vì địa tô không phụ thuộc ai sở hữu mà phụ thuộc giá sản phẩm và vị trí. Khi một khu đất nông nghiệp được chuyển thành đất ở hay đất đô thị, giá trị của nó có thể tăng hàng chục lần mà không cần ai bỏ thêm lao động hay vốn tương xứng vào chính mảnh đất đó: đó là địa tô thuần theo định nghĩa của Smith, và nó là "giá độc quyền" vì quyền chuyển mục đích sử dụng đất là một quyền hành chính có hạn. Câu hỏi then chốt của chương, phần dư rơi vào tay ai, chính là câu hỏi của mọi tranh chấp đền bù, thu hồi đất. Khi bồi thường tính theo giá đất nông nghiệp còn giá bán sau chuyển đổi theo giá thị trường đất ở, phần chênh lệch là một địa tô lớn được phân phối bằng quyết định hành chính. Luật Đất đai 2024 bỏ khung giá đất và yêu cầu bảng giá đất tiệm cận thị trường là một nỗ lực thu hẹp khoảng chênh lệch đó; về logic của Smith, đó là hướng đúng vì nó làm giảm phần địa tô có thể bị giành lấy bằng quan hệ thay vì bằng sản xuất.
+**Đất đai và địa tô.** Ở Việt Nam đất thuộc sở hữu toàn dân, nhưng logic của Smith vẫn áp dụng nguyên vẹn, vì địa tô không phụ thuộc ai sở hữu mà phụ thuộc giá sản phẩm và vị trí. Khi một khu đất nông nghiệp được chuyển thành đất ở hay đất đô thị, giá trị của nó có thể tăng hàng chục lần mà không cần ai bỏ thêm lao động hay vốn tương xứng vào chính mảnh đất đó: đó là địa tô thuần theo định nghĩa của Smith, và nó là "giá độc quyền" vì quyền chuyển mục đích sử dụng đất là một quyền hành chính có hạn.
 
-**Đường sá phá độc quyền vị trí.** Lập luận của Smith về các hạt quanh London chống mở đường đáng đọc lại khi bàn về hạ tầng giao thông. Đường cao tốc, đường vành đai và đường sắt tốc độ cao làm giảm chi phí đi lại, đưa vùng xa gần ngang vùng ven đô, và do đó làm phẳng gradient giá đất. Ở Việt Nam hiện tượng thường thấy lại ngược: thông tin về tuyến đường mới tạo ra cơn sốt đất ở hai bên tuyến trước cả khi đường được xây. Theo khung của Smith, đó không phải thị trường thất bại mà là địa tô vị trí được vốn hoá sớm. Hàm ý chính sách là thu hồi một phần giá trị tăng thêm đó (thuế giá trị đất, đấu giá đất quanh nhà ga, phát triển đô thị theo định hướng giao thông công cộng) để tài trợ chính hạ tầng đã tạo ra nó, thay vì để nó rơi vào tay những người biết tin trước.
+Câu hỏi then chốt của chương, phần dư rơi vào tay ai, chính là câu hỏi của mọi tranh chấp đền bù, thu hồi đất. Khi bồi thường tính theo giá đất nông nghiệp còn giá bán sau chuyển đổi theo giá thị trường đất ở, phần chênh lệch là một địa tô lớn được phân phối bằng quyết định hành chính. Luật Đất đai 2024 bỏ khung giá đất và yêu cầu bảng giá đất tiệm cận thị trường là một nỗ lực thu hẹp khoảng chênh lệch đó; về logic của Smith, đó là hướng đúng vì nó làm giảm phần địa tô có thể bị giành lấy bằng quan hệ thay vì bằng sản xuất.
 
-**Bảo vệ đất lúa và lệnh cấm trồng nho năm 1731.** Phản biện của Smith đối với lệnh cấm trồng nho mới ở Pháp áp dụng trực tiếp vào chính sách giữ đất lúa. Việt Nam duy trì mục tiêu giữ khoảng 3,5 triệu ha đất trồng lúa vì an ninh lương thực, và trong nhiều năm hạn chế việc chuyển ruộng lúa sang cây trồng hay thuỷ sản có giá trị cao hơn. Lập luận của Smith là: nếu cây khác lời hơn lúa thì việc cấm chuyển đổi chỉ làm nông dân nghèo đi; nếu lúa thật sự khan hiếm thì giá lúa sẽ tự tăng và đất sẽ tự quay lại. Ông còn chỉ ra rằng vùng trồng nho của Pháp lại có ngũ cốc tốt nhất, vì có thị trường. Đồng bằng sông Cửu Long, nơi nông dân đã tự chuyển nhiều diện tích lúa kém hiệu quả sang lúa – tôm, cây ăn trái khi chính sách cho phép linh hoạt hơn, là một thử nghiệm tự nhiên cho lập luận đó. Nghị định 112/2024 về đất trồng lúa cho phép chuyển đổi cơ cấu cây trồng linh hoạt hơn trên đất lúa đi theo hướng của Smith. Smith không trả lời câu hỏi rủi ro an ninh lương thực trong khủng hoảng, nhưng ông cung cấp câu hỏi phải đặt ra: chi phí của việc giữ đất bằng mệnh lệnh do ai gánh.
+**Đường sá phá độc quyền vị trí.** Lập luận của Smith về các hạt quanh London chống mở đường đáng đọc lại khi bàn về hạ tầng giao thông. Đường cao tốc, đường vành đai và đường sắt tốc độ cao làm giảm chi phí đi lại, đưa vùng xa gần ngang vùng ven đô, và do đó làm phẳng gradient giá đất.
+
+Ở Việt Nam hiện tượng thường thấy lại ngược: thông tin về tuyến đường mới tạo ra cơn sốt đất ở hai bên tuyến trước cả khi đường được xây. Theo khung của Smith, đó không phải thị trường thất bại mà là địa tô vị trí được vốn hoá sớm. Hàm ý chính sách là thu hồi một phần giá trị tăng thêm đó (thuế giá trị đất, đấu giá đất quanh nhà ga, phát triển đô thị theo định hướng giao thông công cộng) để tài trợ chính hạ tầng đã tạo ra nó, thay vì để nó rơi vào tay những người biết tin trước.
+
+**Bảo vệ đất lúa và lệnh cấm trồng nho năm 1731.** Phản biện của Smith đối với lệnh cấm trồng nho mới ở Pháp áp dụng trực tiếp vào chính sách giữ đất lúa. Việt Nam duy trì mục tiêu giữ khoảng 3,5 triệu ha đất trồng lúa vì an ninh lương thực, và trong nhiều năm hạn chế việc chuyển ruộng lúa sang cây trồng hay thuỷ sản có giá trị cao hơn.
+
+Lập luận của Smith là: nếu cây khác lời hơn lúa thì việc cấm chuyển đổi chỉ làm nông dân nghèo đi; nếu lúa thật sự khan hiếm thì giá lúa sẽ tự tăng và đất sẽ tự quay lại. Ông còn chỉ ra rằng vùng trồng nho của Pháp lại có ngũ cốc tốt nhất, vì có thị trường.
+
+Đồng bằng sông Cửu Long, nơi nông dân đã tự chuyển nhiều diện tích lúa kém hiệu quả sang lúa – tôm, cây ăn trái khi chính sách cho phép linh hoạt hơn, là một thử nghiệm tự nhiên cho lập luận đó. Nghị định 112/2024 về đất trồng lúa cho phép chuyển đổi cơ cấu cây trồng linh hoạt hơn trên đất lúa đi theo hướng của Smith. Smith không trả lời câu hỏi rủi ro an ninh lương thực trong khủng hoảng, nhưng ông cung cấp câu hỏi phải đặt ra: chi phí của việc giữ đất bằng mệnh lệnh do ai gánh.
 
 **Lúa gạo và địa tô.** Smith nhận xét rằng ở nước sống bằng gạo, ruộng lúa cho phần dư rất lớn nên địa tô và quyền lực của địa chủ rất lớn; và ruộng lúa ngập nước không chuyển đổi được nên tô ruộng lúa không điều tiết tô đất khác. Cả hai nhận xét đều có ý nghĩa với lịch sử Việt Nam: thặng dư lớn của lúa nước giải thích quy mô của tầng lớp địa chủ Nam Kỳ thời thuộc địa, và tính khó chuyển đổi của ruộng lúa giải thích vì sao chính sách đất lúa có hệ quả khác hẳn chính sách đất màu.
 
-**Vàng, chênh lệch giá và độc quyền nhập khẩu.** Phần lạc đề về bạc giải thích rất rõ hiện tượng chênh lệch giá vàng trong nước với giá thế giới. Smith cho thấy tỷ lệ vàng/bạc ở Trung Hoa và Châu Âu chênh nhau được vì chi phí vận chuyển và hạn chế xuất khẩu; khi một nước hạn chế luồng kim loại quý vào, giá trong nước tách khỏi giá thế giới, và phần chênh lệch đi vào tay người được phép nhập hay người buôn lậu, giống bạc Peru bị đánh thuế 1/5 đã nuôi cả một ngành buôn lậu. Ở Việt Nam, cơ chế Nhà nước độc quyền nhập khẩu vàng nguyên liệu và độc quyền thương hiệu vàng miếng (Nghị định 24/2012) đã đi kèm những giai đoạn giá vàng miếng trong nước cao hơn giá thế giới quy đổi rất nhiều, có lúc đến khoảng 15–20 triệu đồng một lượng vào năm 2024 (số liệu này ở mức ước lượng). Theo Smith, khoản chênh lệch đó là một địa tô độc quyền; nó không làm người nắm vàng giàu thêm theo nghĩa thực, nó chỉ phân phối lại. Và lập luận trung tâm của ông, rằng nắm giữ nhiều kim loại quý không làm một quốc gia giàu (Tây Ban Nha, Bồ Đào Nha giàu bạc mà nghèo), là lời nhắc thẳng với thói quen tích trữ vàng của hộ gia đình: lượng vàng nằm im trong két là nguồn vốn không được đưa vào sản xuất.
+**Vàng, chênh lệch giá và độc quyền nhập khẩu.** Phần lạc đề về bạc giải thích rất rõ hiện tượng chênh lệch giá vàng trong nước với giá thế giới. Smith cho thấy tỷ lệ vàng/bạc ở Trung Hoa và Châu Âu chênh nhau được vì chi phí vận chuyển và hạn chế xuất khẩu; khi một nước hạn chế luồng kim loại quý vào, giá trong nước tách khỏi giá thế giới, và phần chênh lệch đi vào tay người được phép nhập hay người buôn lậu, giống bạc Peru bị đánh thuế 1/5 đã nuôi cả một ngành buôn lậu.
 
-**Ba giai cấp và việc soạn luật.** Câu kết của Smith là một nguyên tắc thiết kế thể chế. Khi một hiệp hội ngành đề xuất chính sách hạn chế cạnh tranh (điều kiện kinh doanh khắt khe, hạn ngạch, bảo hộ, độc quyền phân phối), theo Smith phải mặc định nghi ngờ, vì "thu hẹp cạnh tranh là chống lại người tiêu dùng". Việt Nam từng trải nghiệm điều này với điều kiện kinh doanh xuất khẩu gạo theo Nghị định 109/2010, đòi doanh nghiệp xuất khẩu phải sở hữu kho chứa và cơ sở xay xát quy mô lớn; quy định đó được nới lỏng đáng kể năm 2018 theo Nghị định 107/2018 sau nhiều phê phán rằng nó hạn chế số người mua lúa của nông dân. Phân tích của Smith về luật cấm xuất khẩu len, làm hại người chăn cừu ở vùng chỉ chăn thả được để nâng đỡ thợ dệt, giúp nhận ra ai được lợi và ai chịu thiệt từ những chính sách hạn chế xuất khẩu nông sản thô để "khuyến khích chế biến trong nước". Còn nhận xét của ông rằng người làm công có chung lợi ích với xã hội nhưng không có tiếng nói là một luận cứ cho việc thể chế hoá kênh tham vấn của người lao động và nông dân trong quá trình làm luật, thay vì để các hiệp hội doanh nghiệp là nguồn góp ý chính.
+Ở Việt Nam, cơ chế Nhà nước độc quyền nhập khẩu vàng nguyên liệu và độc quyền thương hiệu vàng miếng (Nghị định 24/2012) đã đi kèm những giai đoạn giá vàng miếng trong nước cao hơn giá thế giới quy đổi rất nhiều, có lúc đến khoảng 15–20 triệu đồng một lượng vào năm 2024 (số liệu này ở mức ước lượng).
+
+Theo Smith, khoản chênh lệch đó là một địa tô độc quyền; nó không làm người nắm vàng giàu thêm theo nghĩa thực, nó chỉ phân phối lại. Và lập luận trung tâm của ông, rằng nắm giữ nhiều kim loại quý không làm một quốc gia giàu (Tây Ban Nha, Bồ Đào Nha giàu bạc mà nghèo), là lời nhắc thẳng với thói quen tích trữ vàng của hộ gia đình: lượng vàng nằm im trong két là nguồn vốn không được đưa vào sản xuất.
+
+**Ba giai cấp và việc soạn luật.** Câu kết của Smith là một nguyên tắc thiết kế thể chế. Khi một hiệp hội ngành đề xuất chính sách hạn chế cạnh tranh (điều kiện kinh doanh khắt khe, hạn ngạch, bảo hộ, độc quyền phân phối), theo Smith phải mặc định nghi ngờ, vì "thu hẹp cạnh tranh là chống lại người tiêu dùng".
+
+Việt Nam từng trải nghiệm điều này với điều kiện kinh doanh xuất khẩu gạo theo Nghị định 109/2010, đòi doanh nghiệp xuất khẩu phải sở hữu kho chứa và cơ sở xay xát quy mô lớn; quy định đó được nới lỏng đáng kể năm 2018 theo Nghị định 107/2018 sau nhiều phê phán rằng nó hạn chế số người mua lúa của nông dân.
+
+Phân tích của Smith về luật cấm xuất khẩu len, làm hại người chăn cừu ở vùng chỉ chăn thả được để nâng đỡ thợ dệt, giúp nhận ra ai được lợi và ai chịu thiệt từ những chính sách hạn chế xuất khẩu nông sản thô để "khuyến khích chế biến trong nước". Còn nhận xét của ông rằng người làm công có chung lợi ích với xã hội nhưng không có tiếng nói là một luận cứ cho việc thể chế hoá kênh tham vấn của người lao động và nông dân trong quá trình làm luật, thay vì để các hiệp hội doanh nghiệp là nguồn góp ý chính.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương XI trên một trang: sáu nhánh lớn đi theo các mục 1–13 trong phần Nội dung chi tiết (bản chất địa tô, Phần I về lương thực, Phần II về các sản phẩm lúc có lúc không sinh tô, Phần III cùng phần lạc đề về giá trị của bạc, tác động của tiến bộ đến ba loại sản phẩm thô và hàng chế tạo, ba giai cấp), mỗi nhánh ghi luận điểm kinh tế, cơ chế, ví dụ lịch sử và số liệu then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương XI: địa tô là giá độc quyền, phần dư sau tiền công và lợi nhuận thông thường, nên là hệ quả chứ không phải nguyên nhân của giá`"]
+  n1["`Mục 1 — Địa tô là phần dư do giá quyết định`"]
+  n0 --- n1
+  n2["`Tô tự nhiên = giá bán sản phẩm trừ phần thay vốn và lợi nhuận thông thường: 100 − 60 − 15 = 25 bảng`"]
+  n1 --- n2
+  n3["`Không phải lãi trên vốn cải tạo: đất chưa cải tạo vẫn chịu tô, người thuê bỏ vốn thì địa chủ vẫn tăng tô`"]
+  n1 --- n3
+  n4["`Bãi tảo bẹ ven biển Scotland chịu tô ngang ruộng lúa mì, đất dựng nhà ở Shetland tính tô theo lượng cá`"]
+  n1 --- n4
+  n5["`Tiền công, lợi nhuận là nguyên nhân của giá, địa tô là hệ quả: giá chỉ vừa đủ chi phí thì tô bằng không`"]
+  n1 --- n5
+  n6["`Mục 2 (Phần I) — Lương thực luôn sinh tô`"]
+  n0 --- n6
+  n7["`Tô theo độ màu mỡ và vị trí`"]
+  n6 --- n7
+  n8["`Đất sinh nhiều lương thực hơn mức nuôi người làm, thay vốn và trả lợi nhuận, kể cả đồng cỏ hoang Na Uy`"]
+  n7 --- n8
+  n9["`Đất xa thành thị tốn thêm công vận chuyển nên tô thấp hơn đất ven đô cùng độ màu mỡ`"]
+  n7 --- n9
+  n10["`Đường sá, kênh đào là #quot;thành quả cải thiện lớn nhất#quot;, phá độc quyền của đất ven đô`"]
+  n7 --- n10
+  n11["`Các hạt quanh London xin chặn mở đường đến hạt xa, mở đường xong tô của chính họ lại tăng`"]
+  n7 --- n11
+  n12["`Đất ngũ cốc điều tiết tô đất khác`"]
+  n6 --- n12
+  n13["`Thời hoang sơ thịt rẻ hơn bánh mì: ở Buenos Aires con bò chọn trong đàn 200–300 con giá 21½ penny`"]
+  n12 --- n13
+  n14["`Sau Liên hiệp 1707, giá gia súc cao nguyên Scotland tăng khoảng 3 lần, tô tăng 3–4 lần`"]
+  n12 --- n14
+  n15["`Tô đồng cỏ hoang do đồng cỏ cải tạo điều tiết, đồng cỏ cải tạo do đất ngũ cốc điều tiết`"]
+  n12 --- n15
+  n16["`Lệnh cấm trồng nho mới của Pháp 1731 là thừa: thừa nho thì lợi nhuận tự giảm, vùng nho có ngũ cốc tốt nhất`"]
+  n12 --- n16
+  n17["`Ngoại lệ và giả định ngược`"]
+  n6 --- n17
+  n18["`Chỉ khi đất phù hợp quá ít so với cầu thực tế (rượu vang đặc biệt, mía Tây Ấn) tô mới vượt mọi mức`"]
+  n17 --- n18
+  n19["`Lúa gạo 2 vụ, mỗi vụ 30–60 bushel, nhưng ruộng ngập không chuyển đổi được nên không điều tiết tô đất khác`"]
+  n17 --- n19
+  n20["`Khoai tây 12.000 pound mỗi acre, trừ nước vẫn gấp 3 lúa mì: nếu thành lương thực chính thì dân số và tô tăng`"]
+  n17 --- n20
+  n21["`Mục 3 (Phần II) — Sản phẩm khác chỉ sinh tô khi lương thực dư tạo ra cầu`"]
+  n0 --- n21
+  n22["`Vật liệu và nguồn gốc của cầu`"]
+  n21 --- n22
+  n23["`Thời hoang sơ vật liệu may mặc, nhà ở thừa nên không có tô, thời phát triển khan hiếm nên có tô`"]
+  n22 --- n23
+  n24["`Da, len đi xa được nên ngoại thương tạo tô, đá, gỗ cồng kềnh chỉ có tô nhờ thị trường gần như London`"]
+  n22 --- n24
+  n25["`Cầu về thức ăn bị giới hạn bởi dạ dày, cầu về tiện nghi và trang trí thì không giới hạn`"]
+  n22 --- n25
+  n26["`Mỏ than và mỏ kim loại`"]
+  n21 --- n26
+  n27["`Mỏ sinh tô tuỳ độ giàu và vị trí, mỏ chỉ đủ trả công và lời thì chỉ chủ đất tự khai thác`"]
+  n26 --- n27
+  n28["`Mỏ than giàu nhất định giá cho vùng, giá than cao nhất chỉ ngang chi phí đốt củi`"]
+  n26 --- n28
+  n29["`Tô ruộng khoảng 1/3 sản lượng, đất bán giá 30 năm tô, tô mỏ than thường 1/10, mỏ bán 10 năm tô`"]
+  n26 --- n29
+  n30["`Kim loại có thị trường thế giới: sau Potosi các mỏ bạc Châu Âu, Cuba, St. Domingo đều bị bỏ`"]
+  n26 --- n30
+  n31["`Tô mỏ thiếc Cornwall khoảng 1/6, thuế bạc Peru 1/5 rồi 1/10 (1736), thuế vàng 1/20`"]
+  n26 --- n31
+  n32["`Kim loại quý và đá quý`"]
+  n21 --- n32
+  n33["`Cầu về kim loại quý đến từ tính hữu ích, vẻ đẹp và sự khan hiếm, có trước công dụng làm tiền`"]
+  n32 --- n33
+  n34["`Tô mỏ theo độ giàu tương đối so với mỏ khác, tô đất theo độ màu mỡ tuyệt đối`"]
+  n32 --- n34
+  n35["`Mỏ phong phú nhất thêm rất ít của cải, đất màu mỡ nâng giá trị cả đất bạc màu quanh nó`"]
+  n32 --- n35
+  n36["`Mục 4–9 — Phần III và lạc đề về giá trị của bạc`"]
+  n0 --- n36
+  n37["`Quy luật và thời kỳ thứ nhất (1350–1570)`"]
+  n36 --- n37
+  n38["`Ba trường hợp: cầu bạc vượt cung thì ngũ cốc rẻ dần, cung vượt cầu thì ngũ cốc đắt lên, ngang nhau thì đứng yên`"]
+  n37 --- n38
+  n39["`1350–1570 bạc lên giá: lúa mì từ khoảng 4 ounce bạc (20 shilling) xuống 2 ounce (10 shilling) một quarter`"]
+  n37 --- n39
+  n40["`Ba sai lầm: nhầm giá chuyển đổi với giá chợ, tin bản chép luật thiếu bậc giá, quên giá cực cao năm 1270`"]
+  n37 --- n40
+  n41["`Sức lao động là thước đo thực sự, ngũ cốc gắn với lao động nhất nên là thước đo tốt nhất`"]
+  n37 --- n41
+  n42["`Bạc nhiều lên vì mỏ mới thì mất giá, vì của cải tăng thì không: vàng bạc đắt nhất ở nước giàu như Trung Hoa`"]
+  n37 --- n42
+  n43["`Thời kỳ thứ hai, thứ ba và thị trường bạc`"]
+  n36 --- n43
+  n44["`1570–1640 bạc mất giá vì mỏ Châu Mỹ: lúa mì lên 6–8 ounce bạc (30–40 shilling) một quarter`"]
+  n43 --- n44
+  n45["`1637–1700 giá gần đứng yên dù có nội chiến, tiền thưởng xuất khẩu 1688 và tiền bạc thiếu gần 25% trọng lượng`"]
+  n43 --- n45
+  n46["`Pháp cấm xuất khẩu đến 1764 mà giá cũng giảm như Anh: nguyên nhân chung là bạc lên giá`"]
+  n43 --- n46
+  n47["`Tiền thưởng 1688 là đổi chác: quý tộc nông thôn được giá ngũ cốc cao, chính phủ William được thuế đất`"]
+  n43 --- n47
+  n48["`Bạc không mất giá tiếp vì thị trường mở rộng: Châu Âu giàu lên, Châu Mỹ và Đông Ấn`"]
+  n43 --- n48
+  n49["`Vàng : bạc ở Trung Hoa 1:10–12, ở Châu Âu 1:14–15, nên bạc là hàng có lợi nhất chở sang Đông Ấn`"]
+  n43 --- n49
+  n50["`Mục 10–12 — Tiến bộ làm sản phẩm thô đắt lên, hàng chế tạo rẻ đi`"]
+  n0 --- n50
+  n51["`Ba loại sản phẩm thô`"]
+  n50 --- n51
+  n52["`Loại 1, cung không tăng được: giá tăng không giới hạn, chim họa mi trắng ở La Mã giá 6.000 sestertius`"]
+  n51 --- n52
+  n53["`Loại 2, cung tăng được: giá tăng đến trần khi nuôi lời ngang trồng ngũ cốc, gia súc đạt trần đầu tiên`"]
+  n51 --- n53
+  n54["`Gia súc là điều kiện của phân bón: vùng thấp Scotland trước Liên hiệp chỉ bón 1/3 đến 1/6 đất`"]
+  n51 --- n54
+  n55["`Loại 3, bấp bênh: len, da có thị trường thế giới nên tăng giá chậm hơn thịt`"]
+  n51 --- n55
+  n56["`Giá thực len Anh nay chỉ bằng một nửa thời Edward III, do #quot;mưu đồ và quyền lực#quot; như cấm xuất khẩu len`"]
+  n51 --- n56
+  n57["`Kết luận phần lạc đề`"]
+  n50 --- n57
+  n58["`Giá sản phẩm thô tăng là điềm báo của cải tạo đất, không phải tai hoạ`"]
+  n57 --- n58
+  n59["`Mỏ giàu hay nghèo chỉ đổi giá danh nghĩa: một shilling có thể không thể hiện nhiều lao động hơn một penny`"]
+  n57 --- n59
+  n60["`Châu Âu giàu lên nhờ chế độ phong kiến sụp đổ, Tây Ban Nha, Bồ Đào Nha nhiều bạc mà vẫn nghèo`"]
+  n57 --- n60
+  n61["`Chỉ giá gia súc, gia cầm so với ngũ cốc mới cho biết nước giàu hay nghèo`"]
+  n57 --- n61
+  n62["`Hàng chế tạo`"]
+  n50 --- n62
+  n63["`Máy móc, tay nghề, phân công làm giá thực giảm dù tiền công thực tăng, trừ khi nguyên liệu như gỗ đắt nhanh hơn`"]
+  n62 --- n63
+  n64["`Đồng hồ tốt giữa thế kỷ XVII giá 20 bảng, nay 20 shilling`"]
+  n62 --- n64
+  n65["`Vải mịn năm 1487 có giá thực ít nhất 3 bảng 6 shilling 6 penny tiền nay, gấp hơn 3 lần vải tốt nhất hiện nay`"]
+  n62 --- n65
+  n66["`Mục 13 — Ba giai cấp và lợi ích của họ`"]
+  n0 --- n66
+  n67["`Mọi tiến bộ nâng địa tô thực tế qua bốn con đường, mạnh nhất là giá thực sản phẩm thô tăng làm tỷ phần địa chủ tăng`"]
+  n66 --- n67
+  n68["`Địa chủ: lợi ích gắn với lợi ích chung, nhưng thu nhập tự đến nên lười, không hiểu hậu quả của luật`"]
+  n66 --- n68
+  n69["`Người làm công: công cao nhất khi xã hội tiến lên, dưới mức tối thiểu khi suy thoái, nhưng không có tiếng nói`"]
+  n66 --- n69
+  n70["`Chủ vốn: tỷ suất lợi nhuận thấp ở nước giàu, cao nhất ở nước đang suy vong, nên lợi ích không trùng lợi ích chung`"]
+  n66 --- n70
+  n71["`Mở rộng thị trường có lợi cho công chúng, thu hẹp cạnh tranh là thuế vô lý đánh lên đồng bào`"]
+  n66 --- n71
+  n72["`Mọi luật do thương nhân, chủ xưởng đề xuất phải được xem xét kỹ lưỡng và với sự nghi ngờ`"]
+  n66 --- n72
+  n73["`Thông điệp xuyên suốt`"]
+  n0 --- n73
+  n74["`Của cải nằm ở lương thực và lao động, không ở lượng vàng bạc: cuộc tấn công đầu tiên vào học thuyết trọng thương`"]
+  n73 --- n74
+  n75["`Nhóm lợi ích đòi luật hạn chế cạnh tranh (đường quanh London, nho Pháp, len Anh) làm hại người khác, có khi cả chính họ`"]
+  n73 --- n75
+  class n0 root
+  class n1,n6,n21,n36,n50,n66,n73 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n67,n68,n69,n70,n71,n72,n74,n75 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương XI. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 155–261.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Đơn vị tiền Anh
+
+1 bảng (pound) = 20 shilling, 1 shilling = 12 penny. Smith thường quy giá cũ ra "tiền hiện nay" theo **lượng bạc** chứa trong đồng tiền, vì đồng shilling bị giảm hàm lượng bạc qua các triều đại. Ví dụ 6 shilling 8 penny dưới thời Edward III chứa 4 ounce bạc, tương đương khoảng 20 shilling năm 1776. "Trọng lượng Tower" là hệ cân cũ của Sở đúc tiền. 1 bushel ("giạ") khoảng 36 lít, 1 quarter = 8 bushel.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Đây là chương khép lại Quyển I. Ở Chương VI, Smith đã nói giá mọi hàng hoá cuối cùng chia thành ba phần: tiền công, lợi nhuận và tiền thuê đất. Chương VIII bàn tiền công, Chương IX bàn lợi nhuận, Chương X bàn chênh lệch tiền công và lợi nhuận giữa các nghề.
+
+Chương XI bàn nốt phần thứ ba là địa tô, và qua đó trả lời câu hỏi lớn của Quyển I: sản phẩm hằng năm được phân phối thế nào giữa ba giai cấp, và quá trình tiến bộ tác động đến từng giai cấp ra sao.
+
+Phần lạc đề về giá trị của bạc là cuộc tấn công đầu tiên vào học thuyết trọng thương, chuẩn bị cho Quyển IV. Đoạn bàn về tiền thưởng xuất khẩu ngũ cốc ở đây cũng là phần mở cho chương về tiền thưởng (Quyển IV, Chương V).
+
+## Lưu ý
+
+Bản dịch có nhiều lỗi về đơn vị đo lường và số liệu.
+
+- "Quarter" (đơn vị đo ngũ cốc bằng 8 bushel, khoảng 290 lít) bị dịch thành "góc tạ" và chú thích sai là "khoảng 12,70 kg". Ở đoạn giá lúa mì Windsor đầu thế kỷ XVIII, "quarter of nine bushels" bị dịch thành "hai giạ (72 lít)".
+- "Ounce" bị chú thích là "0,28 gam", trong khi đúng là khoảng 31 gam (ounce troy).
+- Bảng giá lúa mì của Fleetwood (1202–1601) và bảng giá Windsor (1595–1764) mà Smith đặt cuối chương **không có trong văn bản**, chỉ còn dòng tiêu đề cuối cùng. Vì vậy file này chỉ dùng các con số trung bình Smith dẫn trong bài.
+- "Bounty" được dịch lẫn lộn giữa "tiền thưởng", "khuyến khích xuất khẩu" và "cho phép xuất khẩu". Thực ra luật năm 1688 không chỉ *cho phép* mà còn *trả tiền thưởng* cho mỗi quarter ngũ cốc xuất khẩu.
+- Tên vua và năm bị sai: "năm 1487, năm thứ tư triều đại vua Henry III" phải là Henry VII; "năm 1643, năm thứ ba vua Edward IV" phải là 1463; "khoảng năm 1939" phải là 1339; "Nghiệp đoàn" là Hiệp ước Liên hiệp (Union) Anh–Scotland năm 1707; "vị vua nước Peru" là vua Tây Ban Nha.
+- Ở đoạn về Nam Kỳ, giá đường "không bằng một phần tư **giá thường trả**" cho đường nâu thuộc địa bị dịch thành "số tiền thưởng".
+- Đoạn Pliny bị vỡ: Asinius Celer bị nhắc hai lần. Theo nguyên tác, sau khi quy đổi 6.000 sestertius ra khoảng 50 bảng và 8.000 sestertius ra khoảng 66 bảng 13 shilling 4 penny, Smith nói rằng xét theo sức mua thật thì hai giá đó tương đương khoảng 66 bảng 13 shilling 4 penny và 88 bảng 17 shilling 9⅓ penny ngày nay.
+- Văn bản PDF có hai chỗ lặp dòng do trích xuất (đoạn giá bạc thỏi năm 1695 và đoạn định nghĩa ba loại sản phẩm thô). Ở đoạn giá Windsor, con số "1 bảng 16 shilling 20 penny 2/3" vô nghĩa, đúng là 10 penny ⅔.
+- Câu kết về giới thương nhân bị dịch nặng hơn nguyên văn: Smith không nói "mục đích chính" của họ là lừa dối, mà nói họ "thường có lợi ích trong việc lừa dối, thậm chí áp bức công chúng".
+- Smith dẫn Ulloa về giá bò ở Buenos Aires hai lần với quy mô đàn khác nhau: đoạn đầu chương ghi "một đàn bò hai, ba trăm con", đoạn bàn về giá bạc ghi "một đàn từ một trăm đến bốn trăm con". Đây là khác biệt giữa hai đoạn của văn bản, không phải hai con số mâu thuẫn trong bản tổng hợp.

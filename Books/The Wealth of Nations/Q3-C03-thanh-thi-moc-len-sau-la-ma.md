@@ -1,11 +1,19 @@
 # Quyển III, Chương III — Các thành thị mọc lên và phát triển sau khi Đế quốc La Mã sụp đổ (Of the Rise and Progress of Cities and Towns, after the Fall of the Roman Empire)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển III, Chương III. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 377–387.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển III, Chương I nói rằng theo trật tự tự nhiên, thành thị chỉ lớn theo thặng dư nông thôn; Chương II cho thấy thể chế phong kiến đã bóp nghẹt nông thôn châu Âu. Chương này giải thích nửa còn lại của "trật tự đảo ngược": vì sao thành thị, dù xuất phát từ những người buôn bán nghèo hèn gần như nô lệ, lại có được tự do, an ninh và chính quyền tự quản *trước* nông thôn, và vì sao các thành phố ven biển có thể giàu lên nhờ buôn xa mà không cần nông thôn xung quanh. Nó cũng phân biệt hai con đường hình thành công nghiệp chế tạo (do ngoại thương du nhập và do nông nghiệp địa phương tự sinh ra), chuẩn bị cho Chương IV, nơi thương mại thành thị cuối cùng cải tạo nông thôn.
-**Ý chính:** Smith muốn chứng minh rằng tự do và an ninh tài sản, điều kiện tiên quyết cho sự cần cù và tích luỹ, xuất hiện ở thành thị trước nông thôn vì một **liên minh chính trị**: nhà vua và thị dân có chung kẻ thù là các lãnh chúa, nên vua bán cho thị dân quyền thầu thuế vĩnh viễn với mức cố định, kèm quyền tự quản, toà án, tường thành và dân quân. Khi đã được bảo đảm hưởng thành quả, thị dân tích luỹ; vốn và người từ nông thôn chạy vào thành thị. Các thành phố ven biển và ven sông (đầu tiên là Venice, Genoa, Pisa) giàu lên nhờ buôn xa, mang hàng tinh xảo đến cho các đại điền chủ đổi lấy nông sản thô. Công nghiệp chế tạo tinh xảo vào châu Âu theo hai đường: đường thứ nhất do thương nhân bắt chước hàng ngoại, dùng nguyên liệu ngoại (tơ lụa Lucca, Venice, Lyons, Spitalfields); đường thứ hai mọc lên tự nhiên ở vùng nội địa màu mỡ, nơi lương thực rẻ thu hút thợ và hàng chế tạo trở thành cách "nén" nông sản thừa để chở đi xa (Leeds, Halifax, Sheffield, Birmingham, Wolverhampton). Đường thứ nhất là con đẻ của ngoại thương và đến trước; đường thứ hai là con đẻ của nông nghiệp và đến sau.
+## Ý chính
 
-> **Lưu ý:** Bản dịch chương này có nhiều lỗi nặng. (1) Smith dùng "farm" theo nghĩa **thầu thuế** (cho người khác nhận thu một khoản thu của nhà vua với một số tiền cố định); bản dịch hiểu thành "trang trại", "đầu tư vào nông trại", "canh tác ruộng đất", làm toàn bộ cơ chế tài chính của chương trở nên khó hiểu. Ý gốc: phần thu của vua từ thuế thân ở mỗi thị trấn thường được *cho thầu* với một mức tô cố định trong một số năm, khi cho viên quận trưởng, khi cho người khác; thị dân thường đủ uy tín để tự nhận thầu khoản thu của thị trấn mình, liên đới và riêng rẽ chịu trách nhiệm cả khoản; sau đó vua cho thầu **vĩnh viễn** (in fee) với mức không bao giờ được tăng (fee-farm), không phải "đóng hàng tháng". (2) Khi vua cho dân một thái ấp nhận thầu toàn bộ tô, họ nộp vào ngân khố *qua viên quản lý do chính họ chọn* (their own bailiff), nhờ đó thoát khỏi sự hỗn xược của quan lại nhà vua; bản dịch viết ngược thành "qua các quan khâm sai đặc trách phụng mệnh nhà vua". (3) Smith nói ông cho rằng "không phải là không có khả năng" (not improbable) các đặc quyền dân sự đã được ban kèm quyền tự do buôn bán cho từng thị dân; bản dịch viết "không chắc có thực", ngược nghĩa. (4) Câu về việc các vua chúa đổi một nguồn thu có khả năng tăng tự nhiên nhất lấy một mức tô cố định "không bao giờ được tăng thêm" bị dịch thành "trở nên chắc chắn mà cần phải tăng thêm". (5) Về thập tự chinh, câu gốc "các nước cộng hoà ấy, có thể nói, là người cung cấp hậu cần cho những đạo quân đó" bị vỡ thành mảnh vô nghĩa "Có thể nói là khổng lồ đó". (6) Bản dịch bỏ chi tiết các xưởng tơ lụa Lucca bị đuổi đi bởi sự bạo ngược của Castruccio Castracani, một trong các "anh hùng" của Machiavelli. (7) Ví dụ hàng chế tạo "nén" giá trị: Smith viết một tấm vải mịn nặng **80 pound** chứa giá không chỉ của 80 pound len mà đôi khi của **vài nghìn pound** ngũ cốc nuôi thợ và chủ của họ; bản dịch ghi "8 pound" và "hàng nghìn lần trọng lượng". (8) Câu kết: Anh nổi tiếng về vải mịn làm từ len Tây Ban Nha hơn một thế kỷ *trước khi bất kỳ ngành nào ở Leeds, Halifax... đủ tốt để bán ra nước ngoài*; bản dịch viết thành "trước khi những mặt hàng này được bán ra nước ngoài". (9) Chú thích của người dịch về sổ địa chính Domesday ghi năm 1088; sổ được lập năm 1086. Chú thích "Saracens (một nước nằm giữa Syria và bán đảo Ả Rập)" không chính xác: Smith chỉ đế quốc Hồi giáo Ả Rập dưới triều Abbasid. (10) "Mechanics" (thợ thủ công) bị dịch là "thợ máy".
+Smith muốn chứng minh rằng tự do và an ninh tài sản, điều kiện tiên quyết cho sự cần cù và tích luỹ, xuất hiện ở thành thị trước nông thôn vì một **liên minh chính trị**: nhà vua và thị dân có chung kẻ thù là các lãnh chúa, nên vua bán cho thị dân quyền thầu thuế vĩnh viễn với mức cố định, kèm quyền tự quản, toà án, tường thành và dân quân.
+
+Khi đã được bảo đảm hưởng thành quả, thị dân tích luỹ; vốn và người từ nông thôn chạy vào thành thị.
+
+Các thành phố ven biển và ven sông (đầu tiên là Venice, Genoa, Pisa) giàu lên nhờ buôn xa, mang hàng tinh xảo đến cho các đại điền chủ đổi lấy nông sản thô.
+
+Công nghiệp chế tạo tinh xảo vào châu Âu theo hai đường:
+
+- đường thứ nhất do thương nhân bắt chước hàng ngoại, dùng nguyên liệu ngoại (tơ lụa Lucca, Venice, Lyons, Spitalfields);
+- đường thứ hai mọc lên tự nhiên ở vùng nội địa màu mỡ, nơi lương thực rẻ thu hút thợ và hàng chế tạo trở thành cách "nén" nông sản thừa để chở đi xa (Leeds, Halifax, Sheffield, Birmingham, Wolverhampton).
+
+Đường thứ nhất là con đẻ của ngoại thương và đến trước; đường thứ hai là con đẻ của nông nghiệp và đến sau.
 
 ## Sơ đồ
 
@@ -532,26 +540,207 @@ Smith giải thích lý do: sự mở rộng và cải tiến của các ngành 
 
 ### Cơ chế thầu thuế cố định là phần sâu nhất của chương, và bị bản dịch làm mất gần hết
 
-Vì bản dịch hiểu "farm" là trang trại, người đọc tiếng Việt khó thấy rằng toàn bộ sự tự do của thành thị châu Âu có một gốc rễ tài chính rất cụ thể: việc chuyển từ thuế thu theo cá nhân, có thể tăng tuỳ ý, sang một khoản nộp tập thể, cố định, vĩnh viễn. Ba hệ quả kinh tế nằm trong một động tác đó. Thứ nhất, nó là cam kết đáng tin của nhà vua rằng phần của cải tăng thêm thuộc về thị dân, nên tích luỹ trở nên đáng làm. Thứ hai, trách nhiệm liên đới biến một tập hợp cá nhân thành một chủ thể tập thể, có động cơ tự tổ chức để thu đủ, và từ đó cần và được trao quyền tự quản. Thứ ba, khi lạm phát và tăng trưởng làm giá trị thực của khoản cố định giảm dần qua các thế kỷ, gánh nặng của thành thị nhẹ dần đi một cách tự động. Smith nêu ý thứ nhất và thứ hai rõ ràng; ý thứ ba ẩn trong câu "nguồn thu có khả năng tăng nhất theo diễn tiến tự nhiên".
+Vì bản dịch hiểu "farm" là trang trại, người đọc tiếng Việt khó thấy rằng toàn bộ sự tự do của thành thị châu Âu có một gốc rễ tài chính rất cụ thể: việc chuyển từ thuế thu theo cá nhân, có thể tăng tuỳ ý, sang một khoản nộp tập thể, cố định, vĩnh viễn.
+
+Ba hệ quả kinh tế nằm trong một động tác đó. Thứ nhất, nó là cam kết đáng tin của nhà vua rằng phần của cải tăng thêm thuộc về thị dân, nên tích luỹ trở nên đáng làm. Thứ hai, trách nhiệm liên đới biến một tập hợp cá nhân thành một chủ thể tập thể, có động cơ tự tổ chức để thu đủ, và từ đó cần và được trao quyền tự quản. Thứ ba, khi lạm phát và tăng trưởng làm giá trị thực của khoản cố định giảm dần qua các thế kỷ, gánh nặng của thành thị nhẹ dần đi một cách tự động. Smith nêu ý thứ nhất và thứ hai rõ ràng; ý thứ ba ẩn trong câu "nguồn thu có khả năng tăng nhất theo diễn tiến tự nhiên".
 
 ### Lời giải "kẻ thù của kẻ thù" đúng ở Anh và Pháp, nhưng đơn giản hoá ở chỗ khác
 
-Các sử gia sau Smith (Pirenne, rồi các nghiên cứu về đô thị trung cổ) đồng ý rằng sự hồi sinh của thành thị gắn với thương mại và với quyền tự quản được ban hoặc giành được. Nhưng mô hình liên minh vua – thị dân của Smith phù hợp nhất với Pháp và Anh. Ở Ý và Flanders, nhiều thành phố giành tự trị bằng xung đột với chính giám mục hoặc bá tước, không nhờ vua; ở Đức, quan hệ giữa các thành tự do với hoàng đế phức tạp hơn và Liên minh Hanse là một liên minh giữa các thành phố với nhau. Smith cũng ít nhắc đến vai trò của Giáo hội và của các phường hội, vốn sẽ trở thành chính những tổ chức độc quyền mà ông chỉ trích gay gắt ở Quyển I, Chương X. Đây là một nghịch lý mà chương không nói: những đoàn thể tự quản giải phóng thị dân khỏi lãnh chúa cũng là mầm của các đặc quyền phường hội hạn chế cạnh tranh sau này.
+Các sử gia sau Smith (Pirenne, rồi các nghiên cứu về đô thị trung cổ) đồng ý rằng sự hồi sinh của thành thị gắn với thương mại và với quyền tự quản được ban hoặc giành được. Nhưng mô hình liên minh vua – thị dân của Smith phù hợp nhất với Pháp và Anh. Ở Ý và Flanders, nhiều thành phố giành tự trị bằng xung đột với chính giám mục hoặc bá tước, không nhờ vua; ở Đức, quan hệ giữa các thành tự do với hoàng đế phức tạp hơn và Liên minh Hanse là một liên minh giữa các thành phố với nhau.
+
+Smith cũng ít nhắc đến vai trò của Giáo hội và của các phường hội, vốn sẽ trở thành chính những tổ chức độc quyền mà ông chỉ trích gay gắt ở Quyển I, Chương X. Đây là một nghịch lý mà chương không nói: những đoàn thể tự quản giải phóng thị dân khỏi lãnh chúa cũng là mầm của các đặc quyền phường hội hạn chế cạnh tranh sau này.
 
 ### Hai con đường chế tạo là một phân biệt mà các nước đi sau vẫn đang tranh cãi
 
-Phân biệt giữa chế tạo "con đẻ của ngoại thương" (dùng nguyên liệu ngoại, đặt chỗ nào tuỳ toan tính vài cá nhân) và chế tạo "con đẻ của nông nghiệp" (dùng nguyên liệu tại chỗ, mọc lên từ lợi thế lương thực rẻ) là một trong những quan sát sắc nhất của Quyển III. Nó dự báo một vấn đề trung tâm của công nghiệp hoá hiện đại: các ngành gia công lắp ráp dựa trên nguyên liệu nhập khẩu có thể đến nhanh và lớn, nhưng chúng cắm rễ nông vào nền kinh tế địa phương; các ngành mọc lên từ lợi thế địa phương thì đến chậm nhưng tạo ra liên kết ngược với nông nghiệp và với nhà cung cấp trong nước. Smith không coi đường thứ nhất là xấu (nó đến trước, nó gieo thị hiếu và tay nghề), nhưng ông rõ ràng coi đường thứ hai là thứ bền vững hơn, và là thứ duy nhất kéo nông nghiệp đi lên.
+Phân biệt giữa chế tạo "con đẻ của ngoại thương" (dùng nguyên liệu ngoại, đặt chỗ nào tuỳ toan tính vài cá nhân) và chế tạo "con đẻ của nông nghiệp" (dùng nguyên liệu tại chỗ, mọc lên từ lợi thế lương thực rẻ) là một trong những quan sát sắc nhất của Quyển III. Nó dự báo một vấn đề trung tâm của công nghiệp hoá hiện đại: các ngành gia công lắp ráp dựa trên nguyên liệu nhập khẩu có thể đến nhanh và lớn, nhưng chúng cắm rễ nông vào nền kinh tế địa phương; các ngành mọc lên từ lợi thế địa phương thì đến chậm nhưng tạo ra liên kết ngược với nông nghiệp và với nhà cung cấp trong nước.
+
+Smith không coi đường thứ nhất là xấu (nó đến trước, nó gieo thị hiếu và tay nghề), nhưng ông rõ ràng coi đường thứ hai là thứ bền vững hơn, và là thứ duy nhất kéo nông nghiệp đi lên.
 
 Một chỗ Smith có thể bị chất vấn: ông cho rằng các xưởng ở Leeds, Halifax, Sheffield, Birmingham là con đẻ thuần tuý của nông nghiệp địa phương. Thực tế, các vùng này cũng hưởng lợi từ than đá và sắt, từ mạng lưới thương nhân và từ tay nghề du nhập. Ranh giới giữa hai con đường mờ hơn trong lịch sử thật, nhưng như một khung phân tích, nó vẫn hữu ích.
 
 ### Với Việt Nam: đô thị Việt Nam lớn lên theo đường "con đẻ của ngoại thương", và câu hỏi là khi nào đường thứ hai đuổi kịp
 
-**Thành thị truyền thống không có "tự do thị dân".** Lịch sử Việt Nam là một đối chứng thú vị cho chương này. Đô thị Việt Nam truyền thống chủ yếu mang tính hành chính – quân sự: kinh đô, trị sở, nơi đặt quan lại, với phần "thị" (chợ, phố nghề) phụ thuộc vào phần "đô". Các thương cảng như Vân Đồn, Phố Hiến, Hội An phát triển nhờ ngoại thương, nhiều khi với thương nhân nước ngoài (người Hoa, người Nhật) làm chủ thể, nhưng không có một cơ chế như fee-farm để biến thị dân thành một chủ thể tập thể tự quản với quyền tài sản được bảo đảm trước nhà nước. Sự tự quản ở Việt Nam nằm ở *làng*, không ở *thành* ("phép vua thua lệ làng"). Theo khung của Smith, điều đó giúp giải thích vì sao một tầng lớp thị dân tích luỹ vốn độc lập, đủ sức làm đối trọng chính trị, đã không hình thành sớm như ở tây Âu.
+**Thành thị truyền thống không có "tự do thị dân".** Lịch sử Việt Nam là một đối chứng thú vị cho chương này. Đô thị Việt Nam truyền thống chủ yếu mang tính hành chính – quân sự: kinh đô, trị sở, nơi đặt quan lại, với phần "thị" (chợ, phố nghề) phụ thuộc vào phần "đô".
+
+Các thương cảng như Vân Đồn, Phố Hiến, Hội An phát triển nhờ ngoại thương, nhiều khi với thương nhân nước ngoài (người Hoa, người Nhật) làm chủ thể, nhưng không có một cơ chế như fee-farm để biến thị dân thành một chủ thể tập thể tự quản với quyền tài sản được bảo đảm trước nhà nước. Sự tự quản ở Việt Nam nằm ở *làng*, không ở *thành* ("phép vua thua lệ làng"). Theo khung của Smith, điều đó giúp giải thích vì sao một tầng lớp thị dân tích luỹ vốn độc lập, đủ sức làm đối trọng chính trị, đã không hình thành sớm như ở tây Âu.
 
 **Đường thứ nhất: khu công nghiệp và FDI.** Công nghiệp hoá Việt Nam từ thập niên 1990 đi chủ yếu theo con đường mà Smith gọi là "con đẻ của ngoại thương": các nhà đầu tư nước ngoài lập xưởng làm hàng bán xa (điện tử, dệt may, giày dép), dùng phần lớn nguyên liệu và linh kiện nhập khẩu, đặt ở nơi có cảng và khu công nghiệp tuỳ theo toan tính của họ. Mô tả của Smith về xưởng lụa Spitalfields "không có nguyên liệu nào là sản phẩm của Anh" gần như là mô tả về tỷ lệ nội địa hoá thấp của nhiều ngành lắp ráp xuất khẩu ở Việt Nam. Và như Smith, ta không nên coi đó là thất bại: đường thứ nhất đã đến trước, tạo ra việc làm, tay nghề và thị hiếu, đúng vai trò lịch sử của nó.
 
 **Đường thứ hai: chế biến nông sản và làng nghề.** Đường "con đẻ của nông nghiệp" ở Việt Nam là các ngành chế biến gắn với vùng nguyên liệu: chế biến thuỷ sản ở Đồng bằng sông Cửu Long, cà phê ở Tây Nguyên, gỗ và đồ gỗ, cùng các làng nghề truyền thống mọc lên từ nguyên liệu tại chỗ. Lập luận của Smith về tấm vải 80 pound "nén" giá trị nông sản áp dụng trực tiếp: một vùng nông nghiệp xa cảng chỉ giữ được giá trị gia tăng khi nông sản được chế biến tại chỗ, thay vì xuất thô. Việc xuất khẩu nông sản dưới dạng thô, rồi nhập lại hàng chế biến, là dấu hiệu đường thứ hai chưa đuổi kịp đường thứ nhất.
 
-**Vốn và người chạy vào thành.** Quy tắc "trốn được một năm thì tự do" mà Smith nêu (luật thời đó thường ghi là một năm và một ngày), cho người nông thôn một lối thoát và buộc điều kiện nông thôn phải tốt lên. Ở Việt Nam, dòng di cư lao động từ nông thôn ra các đô thị và khu công nghiệp từ thập niên 1990 là hiện tượng cùng bản chất. Nhưng trong thời gian dài, chế độ hộ khẩu đã khiến người di cư ra thành thị không có đầy đủ quyền như người có hộ khẩu tại chỗ trong tiếp cận giáo dục, y tế và nhà ở, tức là "tự do thị dân" chỉ được trao một phần. Việc bỏ sổ hộ khẩu giấy và chuyển sang quản lý cư trú bằng cơ sở dữ liệu (theo Luật Cư trú 2020, sổ hộ khẩu giấy hết giá trị từ năm 2023) là một bước theo đúng logic của chương: thành phố chỉ hút được vốn và tay nghề lâu dài nếu người đến được hưởng an ninh và quyền đầy đủ như người đã ở.
+**Vốn và người chạy vào thành.** Quy tắc "trốn được một năm thì tự do" mà Smith nêu (luật thời đó thường ghi là một năm và một ngày), cho người nông thôn một lối thoát và buộc điều kiện nông thôn phải tốt lên.
+
+Ở Việt Nam, dòng di cư lao động từ nông thôn ra các đô thị và khu công nghiệp từ thập niên 1990 là hiện tượng cùng bản chất. Nhưng trong thời gian dài, chế độ hộ khẩu đã khiến người di cư ra thành thị không có đầy đủ quyền như người có hộ khẩu tại chỗ trong tiếp cận giáo dục, y tế và nhà ở, tức là "tự do thị dân" chỉ được trao một phần. Việc bỏ sổ hộ khẩu giấy và chuyển sang quản lý cư trú bằng cơ sở dữ liệu (theo Luật Cư trú 2020, sổ hộ khẩu giấy hết giá trị từ năm 2023) là một bước theo đúng logic của chương: thành phố chỉ hút được vốn và tay nghề lâu dài nếu người đến được hưởng an ninh và quyền đầy đủ như người đã ở.
 
 **Cam kết đáng tin của nhà nước.** Bài học sâu nhất của chương cho Việt Nam không nằm ở đô thị mà ở cơ chế fee-farm: thị dân chỉ tích luỹ khi tin rằng nhà cầm quyền sẽ không chiếm phần tăng thêm. Với khu vực kinh tế tư nhân trong nước, các yếu tố như sự ổn định của chính sách thuế, quy định về thu hồi đất, và việc thực thi hợp đồng là "fee-farm" hiện đại: chúng quyết định doanh nghiệp tư nhân có dám mở rộng quy mô hay không. Nghị quyết 68-NQ/TW năm 2025 về phát triển kinh tế tư nhân, với cam kết bảo vệ quyền tài sản và không hình sự hoá quan hệ kinh tế, có thể đọc như một nỗ lực tạo ra loại cam kết đáng tin mà Smith mô tả.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển III, Chương III trên một trang: bảy nhánh lớn, sáu nhánh đầu đi theo các mục 1–14 của phần Nội dung chi tiết (thân phận thị dân sau La Mã, thầu thuế vĩnh viễn và quyền tự quản, câu đố và lời giải kẻ thù của kẻ thù cùng bằng chứng lịch sử, an ninh và thành phố ven biển, hàng tinh đổi nông sản thô, hai con đường của công nghiệp chế tạo), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và số liệu then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển III, Chương 3: thành thị có tự do và an ninh trước nông thôn nhờ liên minh chính trị giữa vua và thị dân chống lãnh chúa`"]
+  n1["`Mục 1–2 — Sau La Mã, thị dân là nhà buôn và thợ hèn hạ, gần như nô lệ`"]
+  n0 --- n1
+  n2["`Khác cộng hoà Hy Lạp, Ý cổ nơi dân thành là chủ đất, nay lãnh chúa sống trong lâu đài trên đất mình`"]
+  n1 --- n2
+  n3["`Hiến chương cổ ban quyền gả con gái, để của cho con, lập di chúc, chứng tỏ trước đó thị dân không có`"]
+  n1 --- n3
+  n4["`Người buôn rong bị thuế qua đất, qua cầu, chở hàng trong chợ, dựng lều`"]
+  n1 --- n4
+  n5["`Người được miễn các thuế đó gọi là người buôn tự do, đổi lại nộp thuế thân hằng năm cho người bảo trợ`"]
+  n1 --- n5
+  n6["`Ban đầu miễn trừ mang tính cá nhân, suốt đời hoặc tuỳ ý người ban, sổ Domesday 1086 ghi các khoản nộp`"]
+  n1 --- n6
+  n7["`Mục 3–4 — Thầu thuế vĩnh viễn (fee-farm) biến ân huệ cá nhân thành quyền của thành phố`"]
+  n0 --- n7
+  n8["`Bước một: thuế thân của thị trấn được cho thầu vài năm với mức tô cố định, cho quận trưởng hay người khác`"]
+  n7 --- n8
+  n9["`Bước hai: thị dân tự nhận thầu, liên đới và riêng rẽ chịu trách nhiệm toàn khoản`"]
+  n7 --- n9
+  n10["`Như tá điền một thái ấp nhận thầu tô, nộp qua người quản lý do chính họ chọn, thoát quan lại hỗn xược`"]
+  n9 --- n10
+  n11["`Bước ba: cho thầu vĩnh viễn với mức tô không bao giờ được tăng`"]
+  n7 --- n11
+  n12["`Bước bốn: miễn trừ gắn với mọi dân của thị trấn, thành thị trấn tự do và thị dân tự do`"]
+  n7 --- n12
+  n13["`Kèm quyền gả con, thừa kế, di chúc, nên thị dân thực sự tự do theo nghĩa ngày nay`"]
+  n7 --- n13
+  n14["`Lập đoàn thể (corporation): quan toà, hội đồng thành phố, quy chế, tường thành, dân quân canh gác ngày đêm`"]
+  n7 --- n14
+  n15["`Lý do: thành phố nhận thầu cần quyền cưỡng chế để thu đủ tiền nộp vua`"]
+  n14 --- n15
+  n16["`Ở Anh được miễn ra toà hạt và toà quận, trừ việc liên quan đến nhà vua`"]
+  n14 --- n16
+  n17["`Mục 5–6 — Lời giải kẻ thù của kẻ thù và bằng chứng lịch sử`"]
+  n0 --- n17
+  n18["`Câu đố: vua đổi nguồn thu có khả năng tăng nhất lấy mức cố định không bao giờ tăng, lại lập cộng hoà độc lập trong lãnh thổ mình`"]
+  n17 --- n18
+  n19["`Không vua nào bảo vệ nổi người yếu trước lãnh chúa, người yếu phải làm chư hầu hoặc lập liên minh tự vệ`"]
+  n18 --- n19
+  n20["`Lãnh chúa khinh thị dân, ghen với của cải của họ và cướp bóc không thương xót`"]
+  n18 --- n20
+  n21["`Thị dân và vua cùng ghét và sợ lãnh chúa, vua có thể khinh thị dân nhưng không có lý do sợ họ`"]
+  n18 --- n21
+  n22["`Tiền thầu cố định xoá nỗi lo vua sẽ áp bức bằng tăng tiền thầu hay giao cho người khác`"]
+  n18 --- n22
+  n23["`Anh: vua John xung đột gay gắt với nam tước và ban ơn hào phóng nhất cho các thị trấn`"]
+  n17 --- n23
+  n24["`Pháp: Louis Béo theo lời các giám mục lập quan toà, hội đồng và dân quân thị trấn giúp vua`"]
+  n17 --- n24
+  n25["`Đức: dưới các hoàng đế dòng Swabia suy yếu, thành tự do nhận đặc quyền, Liên minh Hanse thành lực lượng đáng gờm`"]
+  n17 --- n25
+  n26["`Ý, Thuỵ Sĩ: vua mất hết quyền, thành thị thành cộng hoà độc lập như Berne và các cộng hoà Ý thế kỷ 12–16`"]
+  n17 --- n26
+  n27["`Pháp, Anh: vua không đánh thuế được ngoài tiền thầu nếu thành thị không đồng ý, nên họ cử đại biểu vào hội nghị các đẳng cấp`"]
+  n17 --- n27
+  n28["`Mục 7–9 — An ninh sinh tích luỹ, thành phố ven biển giàu không cần nông thôn`"]
+  n0 --- n28
+  n29["`Người không tự vệ được bằng lòng với sinh kế tối thiểu, người được bảo đảm hưởng thành quả thì gắng cải thiện`"]
+  n28 --- n29
+  n30["`Nên sự cần cù vượt sinh kế tối thiểu xuất hiện ở thành thị sớm hơn nhiều so với nông thôn`"]
+  n29 --- n30
+  n31["`Nông nô giấu vốn khỏi chủ rồi trốn ra thành, trốn được một năm không bị bắt lại thì tự do vĩnh viễn`"]
+  n28 --- n31
+  n32["`Thành ven biển, ven sông mua lương thực, nguyên liệu từ nơi xa nhất, trả bằng hàng chế tạo hay dịch vụ chở thuê`"]
+  n28 --- n32
+  n33["`Mỗi nước chỉ cung một phần nhỏ nhưng gộp lại rất lớn, nên thành phố giàu dù các nước quanh nó nghèo`"]
+  n32 --- n33
+  n34["`Bạn hàng giàu thời đó: Byzantium, đế quốc Ả Rập dưới triều Abbasid, Ai Cập, bờ Barbary, Tây Ban Nha của người Moor`"]
+  n32 --- n34
+  n35["`Thành phố Ý giàu trước tiên vì ở trung tâm thế giới văn minh lúc bấy giờ`"]
+  n28 --- n35
+  n36["`Thập tự chinh: Venice, Genoa, Pisa chở quân và lương thực, sự điên rồ tàn hại nhất của châu Âu thành nguồn giàu của họ`"]
+  n35 --- n36
+  n37["`Mục 10–11 — Hàng tinh đổi nông sản thô, rồi thay thế nhập khẩu`"]
+  n0 --- n37
+  n38["`Thị dân nhập hàng tinh, đồ xa xỉ từ nước giàu, bán cho sự phù phiếm của đại điền chủ, lấy sản phẩm thô từ đất`"]
+  n37 --- n38
+  n39["`Len Anh đổi rượu vang Pháp, vải mịn Flanders, ngũ cốc Ba Lan đổi rượu, lụa, nhung Pháp và Ý`"]
+  n37 --- n39
+  n40["`Ngoại thương gieo thị hiếu, cầu đủ lớn thì nhà buôn lập xưởng trong nước để tiết kiệm chi phí chở`"]
+  n37 --- n40
+  n41["`Nước lớn nào cũng có chế tạo thô cho tiêu dùng nội địa, không có chế tạo nghĩa là không có chế tạo tinh để bán xa`"]
+  n37 --- n41
+  n42["`Nước nghèo tự làm gần hết đồ mặc và dùng, nước giàu dùng nhiều hàng nhập hơn kể cả tầng lớp thấp nhất`"]
+  n41 --- n42
+  n43["`Mục 12–14 — Hai con đường của công nghiệp chế tạo`"]
+  n0 --- n43
+  n44["`Đường 1, con đẻ của ngoại thương: nhà buôn dùng vốn thương mại bắt chước xưởng nước ngoài, dùng nguyên liệu ngoại`"]
+  n43 --- n44
+  n45["`Năm 1310, 900 gia đình bị Castruccio Castracani đuổi khỏi Lucca, 31 gia đình về Venice lập nghề lụa với 300 thợ`"]
+  n44 --- n45
+  n46["`Lụa Lyons hơn 1/2 là tơ ngoại, lụa Spitalfields không có nguyên liệu nào của Anh, vải Flanders vào Anh đầu triều Elizabeth`"]
+  n44 --- n46
+  n47["`Vị trí xưởng tuỳ lợi ích và toan tính của vài cá nhân, ở thành phố biển hay nội địa`"]
+  n44 --- n47
+  n48["`Đường 2, con đẻ của nông nghiệp: chế tạo thô làm trong nhà tinh dần, dùng nguyên liệu tại chỗ`"]
+  n43 --- n48
+  n49["`Vùng nội địa màu mỡ khó chở thặng dư đi xa, lương thực rẻ hút thợ đến định cư`"]
+  n48 --- n49
+  n50["`Nông dân bán thặng dư giá cao hơn, mua tiện nghi rẻ hơn, nên cải tạo đất để có thêm thặng dư`"]
+  n48 --- n50
+  n51["`Tấm vải mịn 80 pound chứa giá 80 pound len và có khi vài nghìn pound ngũ cốc nuôi thợ và chủ`"]
+  n48 --- n51
+  n52["`Leeds, Halifax, Sheffield, Birmingham, Wolverhampton mọc lên như con đẻ của nông nghiệp`"]
+  n48 --- n52
+  n53["`Đường 1 đến trước: Anh nổi tiếng về vải mịn từ len Tây Ban Nha hơn một thế kỷ trước khi hàng Leeds, Halifax đủ tốt để bán ra nước ngoài`"]
+  n43 --- n53
+  n54["`Đường 2 chỉ lớn nhờ cải tạo nông nghiệp, hiệu quả cuối cùng và lớn nhất của ngoại thương, giải thích ở Chương IV`"]
+  n43 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Tự do và an ninh tài sản là nguyên nhân, không phải kết quả, của thương mại và chế tạo`"]
+  n55 --- n56
+  n57["`Thể chế tốt có thể ra đời từ toan tính quyền lực, không cần từ lý tưởng`"]
+  n55 --- n57
+  n58["`Mức thu cố định vĩnh viễn là cam kết đáng tin của vua, điều kiện để thị dân dám tích luỹ`"]
+  n55 --- n58
+  n59["`Thành thị giàu tách khỏi nông thôn là con đường khác trật tự tự nhiên, muốn bền phải chuyển thành cải tạo nông nghiệp`"]
+  n55 --- n59
+  n60["`Mô hình liên minh vua – thị dân hợp nhất với Anh, Pháp, ở Ý và Flanders thành phố giành tự trị từ giám mục, bá tước`"]
+  n55 --- n60
+  n61["`Nghịch lý: đoàn thể tự quản giải phóng thị dân cũng là mầm của đặc quyền phường hội hạn chế cạnh tranh`"]
+  n55 --- n61
+  class n0 root
+  class n1,n7,n17,n28,n37,n43,n55 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển III, Chương III. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 377–387.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển III, Chương I nói rằng theo trật tự tự nhiên, thành thị chỉ lớn theo thặng dư nông thôn; Chương II cho thấy thể chế phong kiến đã bóp nghẹt nông thôn châu Âu.
+
+Chương này giải thích nửa còn lại của "trật tự đảo ngược": vì sao thành thị, dù xuất phát từ những người buôn bán nghèo hèn gần như nô lệ, lại có được tự do, an ninh và chính quyền tự quản *trước* nông thôn, và vì sao các thành phố ven biển có thể giàu lên nhờ buôn xa mà không cần nông thôn xung quanh.
+
+Nó cũng phân biệt hai con đường hình thành công nghiệp chế tạo (do ngoại thương du nhập và do nông nghiệp địa phương tự sinh ra), chuẩn bị cho Chương IV, nơi thương mại thành thị cuối cùng cải tạo nông thôn.
+
+## Lưu ý
+
+Bản dịch chương này có nhiều lỗi nặng.
+
+- Smith dùng "farm" theo nghĩa **thầu thuế** (cho người khác nhận thu một khoản thu của nhà vua với một số tiền cố định); bản dịch hiểu thành "trang trại", "đầu tư vào nông trại", "canh tác ruộng đất", làm toàn bộ cơ chế tài chính của chương trở nên khó hiểu.
+
+  Ý gốc: phần thu của vua từ thuế thân ở mỗi thị trấn thường được *cho thầu* với một mức tô cố định trong một số năm, khi cho viên quận trưởng, khi cho người khác; thị dân thường đủ uy tín để tự nhận thầu khoản thu của thị trấn mình, liên đới và riêng rẽ chịu trách nhiệm cả khoản; sau đó vua cho thầu **vĩnh viễn** (in fee) với mức không bao giờ được tăng (fee-farm), không phải "đóng hàng tháng".
+- Khi vua cho dân một thái ấp nhận thầu toàn bộ tô, họ nộp vào ngân khố *qua viên quản lý do chính họ chọn* (their own bailiff), nhờ đó thoát khỏi sự hỗn xược của quan lại nhà vua; bản dịch viết ngược thành "qua các quan khâm sai đặc trách phụng mệnh nhà vua".
+- Smith nói ông cho rằng "không phải là không có khả năng" (not improbable) các đặc quyền dân sự đã được ban kèm quyền tự do buôn bán cho từng thị dân; bản dịch viết "không chắc có thực", ngược nghĩa.
+- Câu về việc các vua chúa đổi một nguồn thu có khả năng tăng tự nhiên nhất lấy một mức tô cố định "không bao giờ được tăng thêm" bị dịch thành "trở nên chắc chắn mà cần phải tăng thêm".
+- Về thập tự chinh, câu gốc "các nước cộng hoà ấy, có thể nói, là người cung cấp hậu cần cho những đạo quân đó" bị vỡ thành mảnh vô nghĩa "Có thể nói là khổng lồ đó".
+- Bản dịch bỏ chi tiết các xưởng tơ lụa Lucca bị đuổi đi bởi sự bạo ngược của Castruccio Castracani, một trong các "anh hùng" của Machiavelli.
+- Ví dụ hàng chế tạo "nén" giá trị: Smith viết một tấm vải mịn nặng **80 pound** chứa giá không chỉ của 80 pound len mà đôi khi của **vài nghìn pound** ngũ cốc nuôi thợ và chủ của họ; bản dịch ghi "8 pound" và "hàng nghìn lần trọng lượng".
+- Câu kết: Anh nổi tiếng về vải mịn làm từ len Tây Ban Nha hơn một thế kỷ *trước khi bất kỳ ngành nào ở Leeds, Halifax... đủ tốt để bán ra nước ngoài*; bản dịch viết thành "trước khi những mặt hàng này được bán ra nước ngoài".
+- Chú thích của người dịch về sổ địa chính Domesday ghi năm 1088; sổ được lập năm 1086. Chú thích "Saracens (một nước nằm giữa Syria và bán đảo Ả Rập)" không chính xác: Smith chỉ đế quốc Hồi giáo Ả Rập dưới triều Abbasid.
+- "Mechanics" (thợ thủ công) bị dịch là "thợ máy".

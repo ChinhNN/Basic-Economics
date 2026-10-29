@@ -1,11 +1,22 @@
 # Quyển IV, Chương IX — Các hệ thống trọng nông (Of the Agricultural Systems, or of those Systems of Political Oeconomy which represent the Produce of Land as either the sole or the principal Source of the Revenue and Wealth of every Country)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương IX. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 593–617.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển IV xét các "hệ thống kinh tế chính trị", tức các học thuyết về nguồn gốc của cải đã chi phối chính sách châu Âu. Tám chương đầu phá hệ thống trọng thương, hệ thống coi của cải là vàng bạc và ưu ái công thương nghiệp thành thị. Chương IX xét đối thủ ngược chiều của nó: phái trọng nông Pháp (Quesnay và các môn đồ), coi đất đai là nguồn duy nhất tạo ra giá trị ròng. Smith dùng chính các công cụ của Quyển I và II để bác cả hai: phân công lao động bị giới hạn bởi quy mô thị trường (Quyển I, Chương III), phân biệt lao động sản xuất và phi sản xuất (Quyển II, Chương III), và trật tự tự nhiên của sự giàu có, trong đó trao đổi giữa thành thị và nông thôn là thương mại lớn nhất (Quyển III). Sau khi gạt bỏ mọi hệ thống ưu tiên lẫn hạn chế, chương kết thúc bằng "hệ thống tự do tự nhiên" và ba nhiệm vụ của nhà nước, vốn là đề cương của Quyển V. Ấn bản này không có Quyển V, nên đây là chương kết của sách.
-**Ý chính:** Smith muốn chứng minh hai điều. Thứ nhất, phái trọng nông sai ở điểm cốt lõi khi gọi thợ thủ công, nhà chế tạo và thương nhân là "phi sản xuất": ông bác bằng năm lập luận (tái sản xuất giá trị tự nó đã là sản xuất; họ khác đầy tớ; giá trị họ tạo ra cộng thêm vào sản phẩm xã hội; tăng trưởng chỉ đến từ năng suất và tích luỹ vốn, và công nghiệp có lợi thế ở cả hai; nước công thương nghiệp nuôi được nhiều người hơn đất của nó). Thứ hai, mọi hệ thống, dù ưu ái công nghiệp như Colbert hay ưu ái nông nghiệp như Trung Hoa, Ai Cập cổ và Hindustan, đều tự phá mục tiêu của chính mình, vì kéo vốn khỏi chỗ nó tự nhiên chảy tới. Kết luận: khi gỡ bỏ mọi ưu đãi và hạn chế, "hệ thống tự do tự nhiên" tự thiết lập; nhà nước chỉ còn ba nhiệm vụ: quốc phòng, tư pháp, và các công trình, thiết chế công cộng mà tư nhân không có lợi để làm. Dù vậy, Smith vẫn đối xử với phái trọng nông ân cần hơn hẳn trọng thương: ông khen hệ thống của họ là "hào phóng", tán thành kết luận tự do thương mại của họ, và chỉ bác cái nền lý thuyết.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có nhiều lỗi làm đảo nghĩa kinh tế. (1) "Còn các chi phí khác gọi là **chi phí sản xuất**" và "Số vốn dùng trong thương mại cũng là **phí sản xuất**" phải là **phi sản xuất** (*unproductive*); lỗi này đảo ngược luận điểm trung tâm của phái trọng nông. (2) Thuế cao vào hàng của nước thương mại "làm giảm giá trị thực tế của sản phẩm dư thừa **của nước công nghiệp**" phải là của **chính nước nông nghiệp**. (3) Lý do thứ nhất khiến nước nông nghiệp tự hại: "khi **nâng** giá trị thực tế của sản phẩm dư thừa" phải là **hạ** (*degrade*) giá trị trao đổi của sản phẩm dư thừa nước mình. (4) "Hà Lan và **Đức**" là lỗi dịch "Holland and Hamburg": Smith nói đến các thành bang thương mại, không phải cả nước Đức. (5) "Hà Lan mua ngũ cốc của hầu hết các nước **Châu Phi**" phải là **Châu Âu**. (6) Câu kết lập luận thứ năm, "dân các nước công thương nghiệp luôn được hưởng thụ nhiều hơn dân một **nước công nghiệp**", phải là "một nước **không có** thương nghiệp và công nghiệp". (7) "các nước khác làm theo một kế hoạch khác thuận lợi hơn đối với nền **công nghiệp**" phải là thuận lợi hơn cho **nông nghiệp** (đó là câu dẫn vào Trung Hoa, Ai Cập, Hindustan). (8) Ai Cập cổ "nổi tiếng nhờ việc xuất khẩu **gạo**" phải là **ngũ cốc** (lúa mì); gạo là hàng của Bengal. (9) Quesnay cho rằng "**một thực tế chính trị**" chỉ phồn thịnh theo một chế độ chuẩn xác; phải là "**cơ thể chính trị**" (*political body*), vì Smith đang so sánh với thuyết của các thầy thuốc về cơ thể người. (10) Việc nuôi đầy tớ là "do **người chủ trang trại**" phải là do **chủ nhân** của họ. (11) "chương nói về lao động sản xuất và **chi phí sản xuất**" phải là chương về lao động sản xuất và **phi sản xuất** (Quyển II, Chương III). (12) Lỗi chính tả làm khó hiểu: "ghi tiền" (chi tiền), "dùng bằng giá trị" (đúng bằng), "chúa đất" (chủ đất). Tên Quesnay được phiên là "Quesnai" theo cách Smith viết. Ngoài ra, bản dịch là bản **rút gọn**. Bị lược: phần Smith mô tả phái trọng nông như một "giáo phái" đông đảo và câu ông khen rằng hệ thống này, với mọi khiếm khuyết, "có lẽ là gần chân lý nhất trong những gì đã được công bố về kinh tế chính trị"; các chi tiết về thuế đất ở Hindustan; câu then chốt rằng trong hệ thống tự do tự nhiên nhà vua được **giải phóng khỏi nhiệm vụ giám sát và điều khiển công nghiệp tư nhân**, nhiệm vụ mà không trí tuệ con người nào đủ để làm đúng; và câu cuối nguyên bản báo trước rằng Quyển V sẽ bàn về chi tiêu và nguồn thu cần cho ba nhiệm vụ ấy. Phần lược về hệ thống tự do được bù trong file này ở mục Câu nói đáng nhớ. Cuối file nguồn là chú thích của cả bộ sách, không thuộc chương này; ký hiệu "[15]" trong chương không có chú thích tương ứng.
+Smith muốn chứng minh hai điều.
+
+Thứ nhất, phái trọng nông sai ở điểm cốt lõi khi gọi thợ thủ công, nhà chế tạo và thương nhân là "phi sản xuất": ông bác bằng năm lập luận:
+
+- tái sản xuất giá trị tự nó đã là sản xuất;
+- họ khác đầy tớ;
+- giá trị họ tạo ra cộng thêm vào sản phẩm xã hội;
+- tăng trưởng chỉ đến từ năng suất và tích luỹ vốn, và công nghiệp có lợi thế ở cả hai;
+- nước công thương nghiệp nuôi được nhiều người hơn đất của nó.
+
+Thứ hai, mọi hệ thống, dù ưu ái công nghiệp như Colbert hay ưu ái nông nghiệp như Trung Hoa, Ai Cập cổ và Hindustan, đều tự phá mục tiêu của chính mình, vì kéo vốn khỏi chỗ nó tự nhiên chảy tới.
+
+Kết luận: khi gỡ bỏ mọi ưu đãi và hạn chế, "hệ thống tự do tự nhiên" tự thiết lập; nhà nước chỉ còn ba nhiệm vụ: quốc phòng, tư pháp, và các công trình, thiết chế công cộng mà tư nhân không có lợi để làm.
+
+Dù vậy, Smith vẫn đối xử với phái trọng nông ân cần hơn hẳn trọng thương: ông khen hệ thống của họ là "hào phóng", tán thành kết luận tự do thương mại của họ, và chỉ bác cái nền lý thuyết.
 
 ## Sơ đồ
 
@@ -452,7 +463,9 @@ Công thức đầu tiên và quan trọng nhất là **Biểu bảng kinh tế*
 
 Smith phê phán cách nghĩ này bằng một phép so sánh với y học. Có những thầy thuốc cho rằng sức khoẻ con người chỉ giữ được nhờ một chế độ ăn uống và tập luyện chính xác, và mọi sai lệch khỏi chế độ đó, dù nhỏ, đều gây ra bệnh với mức độ tỷ lệ với mức sai lệch. Nhưng kinh nghiệm thực tế cho thấy cơ thể con người giữ được sức khoẻ tốt dưới rất nhiều chế độ khác nhau, kể cả những chế độ bị coi là không lành mạnh.
 
-Quesnay, bản thân là một thầy thuốc, đã nghĩ về **cơ thể chính trị** (tức xã hội, nhà nước) theo đúng cách đó: nó chỉ phồn thịnh dưới một chế độ chuẩn xác, chế độ của tự do hoàn hảo và công lý hoàn hảo. (Bản dịch ghi nhầm "một thực tế chính trị"; nguyên bản là *political body*, khớp với phép so sánh cơ thể người.) Điều Quesnay dường như không thấy là: nỗ lực tự nhiên của mỗi người để cải thiện hoàn cảnh của mình là một **nguyên tắc bảo toàn**. Giống như sức đề kháng của cơ thể, nó có thể ngăn chặn và sửa chữa về nhiều mặt các tác hại của một chính sách kinh tế thiên vị và chèn ép. Chính sách xấu có thể làm chậm tiến trình tự nhiên của một dân tộc tới giàu có, nhưng không phải lúc nào cũng chặn đứng được, và càng không đảo ngược được nó.
+Quesnay, bản thân là một thầy thuốc, đã nghĩ về **cơ thể chính trị** (tức xã hội, nhà nước) theo đúng cách đó: nó chỉ phồn thịnh dưới một chế độ chuẩn xác, chế độ của tự do hoàn hảo và công lý hoàn hảo. (Bản dịch ghi nhầm "một thực tế chính trị"; nguyên bản là *political body*, khớp với phép so sánh cơ thể người.)
+
+Điều Quesnay dường như không thấy là: nỗ lực tự nhiên của mỗi người để cải thiện hoàn cảnh của mình là một **nguyên tắc bảo toàn**. Giống như sức đề kháng của cơ thể, nó có thể ngăn chặn và sửa chữa về nhiều mặt các tác hại của một chính sách kinh tế thiên vị và chèn ép. Chính sách xấu có thể làm chậm tiến trình tự nhiên của một dân tộc tới giàu có, nhưng không phải lúc nào cũng chặn đứng được, và càng không đảo ngược được nó.
 
 Smith kết luận bằng một câu sắc: nếu một nước chỉ có thể phồn vinh khi được hưởng tự do hoàn hảo và công lý hoàn hảo, thì trên thế giới chưa có quốc gia nào từng phồn vinh, vì chưa nước nào có hai điều đó ở mức hoàn hảo.
 
@@ -460,7 +473,9 @@ Smith kết luận bằng một câu sắc: nếu một nước chỉ có thể 
 
 Sai lầm chính của hệ thống trọng nông, theo Smith, là coi thợ thủ công, nhà chế tạo và thương nhân là **hoàn toàn vô sinh và phi sản xuất**. Ông bác điều này bằng năm lập luận.
 
-**Thứ nhất: tái sản xuất giá trị tự nó đã là sản xuất.** Chính trọng nông thừa nhận tầng lớp này tái sản xuất được giá trị tiêu dùng hàng năm của họ, và ít nhất duy trì được số vốn đã dùng để thuê và nuôi họ. Chỉ riêng điều đó đã làm cái tên "phi sản xuất" trở nên vô lý. Smith so sánh với hôn nhân: ta không gọi một cuộc hôn nhân là vô sinh chỉ vì nó sinh ra một trai một gái để thay thế bố mẹ, dù nhờ nó dân số không tăng thêm. Chủ trại và dân cày, ngoài việc hoàn lại vốn, còn tái tạo thêm một sản phẩm ròng là địa tô. Cũng như hôn nhân sinh ba con "hữu sinh" hơn hôn nhân sinh hai con, lao động của họ năng suất hơn. Nhưng việc một tầng lớp làm ra nhiều hơn không biến tầng lớp kia thành vô sinh.
+**Thứ nhất: tái sản xuất giá trị tự nó đã là sản xuất.** Chính trọng nông thừa nhận tầng lớp này tái sản xuất được giá trị tiêu dùng hàng năm của họ, và ít nhất duy trì được số vốn đã dùng để thuê và nuôi họ. Chỉ riêng điều đó đã làm cái tên "phi sản xuất" trở nên vô lý. Smith so sánh với hôn nhân: ta không gọi một cuộc hôn nhân là vô sinh chỉ vì nó sinh ra một trai một gái để thay thế bố mẹ, dù nhờ nó dân số không tăng thêm.
+
+Chủ trại và dân cày, ngoài việc hoàn lại vốn, còn tái tạo thêm một sản phẩm ròng là địa tô. Cũng như hôn nhân sinh ba con "hữu sinh" hơn hôn nhân sinh hai con, lao động của họ năng suất hơn. Nhưng việc một tầng lớp làm ra nhiều hơn không biến tầng lớp kia thành vô sinh.
 
 **Thứ hai: thợ không phải đầy tớ.** Vì cùng lẽ đó, không thể xếp thợ thủ công, công nhân và thương nhân chung một loại với đầy tớ. Hai nhóm khác nhau ở chỗ:
 
@@ -491,7 +506,9 @@ Lập luận này dùng chính tiền đề của trọng nông (thợ tằn ti�
 
 **Thứ năm và cuối cùng: nước công thương nuôi được nhiều người hơn đất của nó.** Kể cả chấp nhận đúng giả thiết của trọng nông rằng thu nhập của một nước chỉ gồm lượng lương thực mà lao động của dân nước đó kiếm được, thì với các điều kiện khác như nhau, thu nhập của nước có công thương nghiệp vẫn luôn lớn hơn nước không có. Nhờ công thương, một nước có thể nhập mỗi năm một lượng lương thực lớn hơn lượng đất của nó sinh ra.
 
-Smith dẫn từ quan hệ trong nước ra quan hệ giữa các nước. Dân thành thị không có ruộng đất, nhưng bằng lao động của mình họ vẫn kiếm được sản phẩm thô của nông dân, cả nguyên liệu lẫn lương thực. Một thành phố đứng trong quan hệ với vùng quê quanh nó thế nào, thì một nước độc lập cũng đứng trong quan hệ với các nước khác như thế. Hà Lan là ví dụ: nước này lấy phần lớn lương thực từ nước khác, gia súc từ Holstein và Jutland, ngũ cốc từ hầu hết các nước châu Âu. (Bản dịch ghi nhầm "Châu Phi".) Một lượng nhỏ hàng công nghiệp đổi được một lượng lớn sản phẩm thô. Vì vậy dân của nước có công thương nghiệp luôn được hưởng nhiều hơn dân của một nước không có công thương nghiệp. (Bản dịch ghi nhầm vế sau thành "một nước công nghiệp".)
+Smith dẫn từ quan hệ trong nước ra quan hệ giữa các nước. Dân thành thị không có ruộng đất, nhưng bằng lao động của mình họ vẫn kiếm được sản phẩm thô của nông dân, cả nguyên liệu lẫn lương thực. Một thành phố đứng trong quan hệ với vùng quê quanh nó thế nào, thì một nước độc lập cũng đứng trong quan hệ với các nước khác như thế.
+
+Hà Lan là ví dụ: nước này lấy phần lớn lương thực từ nước khác, gia súc từ Holstein và Jutland, ngũ cốc từ hầu hết các nước châu Âu. (Bản dịch ghi nhầm "Châu Phi".) Một lượng nhỏ hàng công nghiệp đổi được một lượng lớn sản phẩm thô. Vì vậy dân của nước có công thương nghiệp luôn được hưởng nhiều hơn dân của một nước không có công thương nghiệp. (Bản dịch ghi nhầm vế sau thành "một nước công nghiệp".)
 
 ### 9. Các nước ưu ái nông nghiệp trong thực tế
 
@@ -680,9 +697,13 @@ Lý do có tính tiểu sử: Smith ở Pháp năm 1764–1766, gặp Quesnay v�
 
 ### Năm lập luận không mạnh ngang nhau, và lập luận mạnh nhất là lập luận về tăng trưởng
 
-Lập luận thứ nhất (hôn nhân sinh hai con) là một lập luận về định nghĩa: nó chỉ ra rằng "phi sản xuất" là một từ sai cho hoạt động tái tạo đúng giá trị nó tiêu. Hay, nhưng trọng nông có thể đáp: chúng tôi chỉ quan tâm đến **thặng dư**, và về thặng dư thì anh đã thừa nhận nông nghiệp hơn. Lập luận thứ hai dựa vào chính sự phân biệt lao động sản xuất và phi sản xuất của Smith, một phân biệt mà kinh tế học sau này đã bỏ: dịch vụ của một bác sĩ hay giáo viên "mất đi ngay lúc thực hiện" vẫn được tính là giá trị gia tăng trong GDP hiện đại. Như vậy Smith đang bác một phân loại sai (đất vs phần còn lại) bằng một phân loại khác cũng đã bị vượt qua (hàng hoá vật chất vs dịch vụ). Hai bên chung một sai lầm: tìm nguồn giá trị trong **tính chất vật chất** của hoạt động thay vì trong việc thị trường có sẵn lòng trả cho nó hay không.
+Lập luận thứ nhất (hôn nhân sinh hai con) là một lập luận về định nghĩa: nó chỉ ra rằng "phi sản xuất" là một từ sai cho hoạt động tái tạo đúng giá trị nó tiêu. Hay, nhưng trọng nông có thể đáp: chúng tôi chỉ quan tâm đến **thặng dư**, và về thặng dư thì anh đã thừa nhận nông nghiệp hơn.
 
-Lập luận thứ tư thì khác hẳn và vẫn đứng vững: nó không hỏi ngành nào "tạo ra" giá trị, mà hỏi ngành nào có thể **tăng** giá trị nhanh hơn. Câu trả lời của Smith, công nghiệp vì phân công lao động sâu hơn và vì thợ thủ công tích luỹ vốn nhanh hơn, được lịch sử hai thế kỷ sau xác nhận: năng suất công nghiệp chế tạo tăng nhanh hơn nông nghiệp trong giai đoạn đầu công nghiệp hoá của phần lớn các nước. Điều đáng chú ý là thế kỷ 20 cũng cho thấy giới hạn của nó: cách mạng xanh và cơ giới hoá cho thấy năng suất nông nghiệp có thể tăng rất nhanh khi có giống mới, phân bón và vốn, tức là cái hạn chế Smith thấy ở nông nghiệp là hạn chế của công nghệ thế kỷ 18, không phải của bản chất ngành.
+Lập luận thứ hai dựa vào chính sự phân biệt lao động sản xuất và phi sản xuất của Smith, một phân biệt mà kinh tế học sau này đã bỏ: dịch vụ của một bác sĩ hay giáo viên "mất đi ngay lúc thực hiện" vẫn được tính là giá trị gia tăng trong GDP hiện đại. Như vậy Smith đang bác một phân loại sai (đất vs phần còn lại) bằng một phân loại khác cũng đã bị vượt qua (hàng hoá vật chất vs dịch vụ). Hai bên chung một sai lầm: tìm nguồn giá trị trong **tính chất vật chất** của hoạt động thay vì trong việc thị trường có sẵn lòng trả cho nó hay không.
+
+Lập luận thứ tư thì khác hẳn và vẫn đứng vững: nó không hỏi ngành nào "tạo ra" giá trị, mà hỏi ngành nào có thể **tăng** giá trị nhanh hơn. Câu trả lời của Smith, công nghiệp vì phân công lao động sâu hơn và vì thợ thủ công tích luỹ vốn nhanh hơn, được lịch sử hai thế kỷ sau xác nhận: năng suất công nghiệp chế tạo tăng nhanh hơn nông nghiệp trong giai đoạn đầu công nghiệp hoá của phần lớn các nước.
+
+Điều đáng chú ý là thế kỷ 20 cũng cho thấy giới hạn của nó: cách mạng xanh và cơ giới hoá cho thấy năng suất nông nghiệp có thể tăng rất nhanh khi có giống mới, phân bón và vốn, tức là cái hạn chế Smith thấy ở nông nghiệp là hạn chế của công nghệ thế kỷ 18, không phải của bản chất ngành.
 
 ### Lý thuyết địa tô của trọng nông sai ở nguyên nhân nhưng đúng ở một quan sát mà Ricardo sẽ khai thác
 
@@ -692,13 +713,17 @@ Một hệ quả chính sách của trọng nông mà Smith bàn ở Quyển V, 
 
 ### Trung Hoa là trường hợp kiểm chứng thú vị nhất, và phán đoán của Smith khá chính xác
 
-Smith viết về Trung Hoa như một nền kinh tế giàu nhưng đứng yên: thị trường nội địa khổng lồ đủ nuôi công nghiệp, nhưng việc đóng ngoại thương giới hạn mức phân công lao động có thể đạt. Đây là một nhận định ông chỉ có thể dựa vào lời kể của thương nhân và giáo sĩ, nhưng lập luận cơ bản, rằng quy mô thị trường nội địa không thay thế được thị trường thế giới, đã được kiểm chứng ba lần: Nhật Bản sau Minh Trị, các nền kinh tế Đông Á sau 1960, và chính Trung Quốc sau 1978, khi tăng trưởng bứt phá đi cùng việc mở cửa cho xuất khẩu công nghiệp. Chi tiết "nhất là khi hàng được chở bằng tàu Trung Hoa" cũng tinh tế: Smith thấy rằng thu lợi từ ngoại thương lớn hơn khi nước đó tham gia cả dịch vụ vận tải, không chỉ sản xuất.
+Smith viết về Trung Hoa như một nền kinh tế giàu nhưng đứng yên: thị trường nội địa khổng lồ đủ nuôi công nghiệp, nhưng việc đóng ngoại thương giới hạn mức phân công lao động có thể đạt. Đây là một nhận định ông chỉ có thể dựa vào lời kể của thương nhân và giáo sĩ, nhưng lập luận cơ bản, rằng quy mô thị trường nội địa không thay thế được thị trường thế giới, đã được kiểm chứng ba lần: Nhật Bản sau Minh Trị, các nền kinh tế Đông Á sau 1960, và chính Trung Quốc sau 1978, khi tăng trưởng bứt phá đi cùng việc mở cửa cho xuất khẩu công nghiệp.
+
+Chi tiết "nhất là khi hàng được chở bằng tàu Trung Hoa" cũng tinh tế: Smith thấy rằng thu lợi từ ngoại thương lớn hơn khi nước đó tham gia cả dịch vụ vận tải, không chỉ sản xuất.
 
 Phần về Ai Cập và Hindustan cho một bài học tinh hơn: hai nước cùng ưu ái nông nghiệp, cùng đóng ngoại thương, nhưng kết quả khác nhau vì **quy mô thị trường nội địa**. Bengal đủ lớn để có công nghiệp xuất khẩu; Ai Cập thì không. Đây là một phép so sánh có kiểm soát sớm trong kinh tế học. Chính sách giống nhau, điều kiện khác nhau, kết quả khác nhau, và Smith tìm ra biến quyết định.
 
 ### Ba nhiệm vụ của nhà nước thường bị đọc như một danh sách tối thiểu, nhưng nhiệm vụ thứ ba là một nguyên tắc mở
 
-Câu kết của chương thường được trích để chứng minh Smith chủ trương một "nhà nước tối thiểu". Cách đọc này bỏ qua hai điều. Thứ nhất, nhiệm vụ thứ ba không phải một danh sách mà là một **tiêu chí**: bất cứ công trình hay thiết chế nào mà lợi ích xã hội vượt chi phí nhưng không cá nhân nào thu đủ lợi ích để tự làm. Đó chính là định nghĩa của hàng hoá công cộng và ngoại ứng tích cực, và phạm vi của nó phụ thuộc vào công nghệ và hoàn cảnh, không cố định. Trong Quyển V, Smith dùng chính tiêu chí này để biện minh cho giáo dục phổ thông do nhà nước hỗ trợ, với lý lẽ rằng phân công lao động làm người công nhân chỉ làm vài thao tác đơn giản suốt đời sẽ trở nên "ngu dốt và đần độn", và nhà nước phải chống lại tác hại đó.
+Câu kết của chương thường được trích để chứng minh Smith chủ trương một "nhà nước tối thiểu". Cách đọc này bỏ qua hai điều.
+
+Thứ nhất, nhiệm vụ thứ ba không phải một danh sách mà là một **tiêu chí**: bất cứ công trình hay thiết chế nào mà lợi ích xã hội vượt chi phí nhưng không cá nhân nào thu đủ lợi ích để tự làm. Đó chính là định nghĩa của hàng hoá công cộng và ngoại ứng tích cực, và phạm vi của nó phụ thuộc vào công nghệ và hoàn cảnh, không cố định. Trong Quyển V, Smith dùng chính tiêu chí này để biện minh cho giáo dục phổ thông do nhà nước hỗ trợ, với lý lẽ rằng phân công lao động làm người công nhân chỉ làm vài thao tác đơn giản suốt đời sẽ trở nên "ngu dốt và đần độn", và nhà nước phải chống lại tác hại đó.
 
 Thứ hai, nhiệm vụ thứ hai, tư pháp nghiêm minh, không phải chuyện nhỏ. Nó bao gồm bảo vệ tài sản, thực thi hợp đồng và bảo vệ người yếu khỏi "áp bức" của người mạnh. Kết hợp với chương VIII (giới công thương là kiến trúc sư của luật bảo hộ), nhiệm vụ này còn có nghĩa là bảo vệ người tiêu dùng và các nhóm yếu khỏi những luật do nhóm mạnh viết. Nhà nước của Smith **nhỏ về phạm vi can thiệp vào phân bổ vốn**, nhưng **mạnh về năng lực pháp quyền và độc lập khỏi nhóm lợi ích**. Đây là đòi hỏi khó hơn nhiều so với cách đọc "càng ít nhà nước càng tốt".
 
@@ -712,12 +737,215 @@ Hệ quả cho cách đọc Smith là: ông không phải một nhà lý luận 
 
 ### Với Việt Nam: một nước từng sống dưới cả hai hệ thống Smith bác bỏ, và bài học nằm ở chỗ chúng nối với nhau
 
-**Từ "trọng công" sang khoán và Đổi Mới.** Trước Đổi Mới, kinh tế kế hoạch hoá của Việt Nam vận hành giống hệ thống Colbert ở dạng cực đoan: ưu tiên công nghiệp nặng, thu mua nông sản theo giá chỉ định thấp để giữ lương thực thành thị rẻ, và thực hiện "ngăn sông cấm chợ", chặn lưu thông nông sản giữa các tỉnh. Cơ chế mà Smith mô tả xảy ra đúng như ông nói: khi giá trị trao đổi của nông sản bị ép xuống, động cơ thâm canh biến mất, và một nước nông nghiệp phải nhập khẩu lương thực. Khoán 100 (1981) và khoán 10 (1988) trả lại cho hộ nông dân quyền giữ phần dư thừa và bán theo giá thị trường; trong vòng một năm sau khoán 10, Việt Nam từ thiếu lương thực chuyển sang xuất khẩu gạo. Đây là một thực nghiệm tự nhiên khớp với phân tích của Smith: không cần trợ cấp nông nghiệp, chỉ cần ngừng đánh thuế ngầm vào nó.
+**Từ "trọng công" sang khoán và Đổi Mới.** Trước Đổi Mới, kinh tế kế hoạch hoá của Việt Nam vận hành giống hệ thống Colbert ở dạng cực đoan: ưu tiên công nghiệp nặng, thu mua nông sản theo giá chỉ định thấp để giữ lương thực thành thị rẻ, và thực hiện "ngăn sông cấm chợ", chặn lưu thông nông sản giữa các tỉnh. Cơ chế mà Smith mô tả xảy ra đúng như ông nói: khi giá trị trao đổi của nông sản bị ép xuống, động cơ thâm canh biến mất, và một nước nông nghiệp phải nhập khẩu lương thực.
 
-**Tam nông và cái bẫy "ưu ái nông nghiệp bằng cách giữ người ở lại nông nghiệp".** Các nghị quyết về nông nghiệp, nông dân, nông thôn (Nghị quyết 26-NQ/TW năm 2008 và Nghị quyết 19-NQ/TW năm 2022) đặt nông nghiệp vào vị trí trụ đỡ. Phân tích của Smith ở chương này đưa ra một cảnh báo cụ thể: cách tốt nhất để nâng thu nhập nông dân không phải là bảo vệ nông nghiệp khỏi công nghiệp, mà là làm cho **thị trường thành thị và công nghiệp** cạnh đó lớn lên. Mỗi lao động rời nông thôn vào khu công nghiệp vừa bớt một người chia ruộng vừa thêm một người mua nông sản. Các chính sách giữ cứng cơ cấu đất lúa, hạn chế tích tụ ruộng đất, hay hạn chế chuyển đổi cây trồng có thể rơi vào đúng cái bẫy mà Smith gán cho trọng nông: nhân danh nông nghiệp nhưng làm giảm giá trị và năng suất của nó. Luật Đất đai 2024 nới rộng hạn mức nhận chuyển quyền đất nông nghiệp đi đúng hướng mà lập luận này gợi ý. Việc giữ diện tích đất lúa khoảng 3,5 triệu ha vì an ninh lương thực có thể có lý do riêng, nhưng theo khung của Smith, chi phí của nó là thu nhập mà nông dân lẽ ra có được từ cây trồng có giá trị cao hơn, và chi phí đó nên được tính công khai.
+Khoán 100 (1981) và khoán 10 (1988) trả lại cho hộ nông dân quyền giữ phần dư thừa và bán theo giá thị trường; trong vòng một năm sau khoán 10, Việt Nam từ thiếu lương thực chuyển sang xuất khẩu gạo. Đây là một thực nghiệm tự nhiên khớp với phân tích của Smith: không cần trợ cấp nông nghiệp, chỉ cần ngừng đánh thuế ngầm vào nó.
 
-**Thuế và đất đai: Việt Nam làm ngược trọng nông, và Smith giúp thấy vì sao điều đó quan trọng.** Phái trọng nông muốn đánh thuế duy nhất vào địa tô. Việt Nam miễn thuế sử dụng đất nông nghiệp từ đầu những năm 2000 và đã gia hạn nhiều lần, nhưng thu ngân sách lại phụ thuộc nặng vào tiền sử dụng đất khi chuyển mục đích sang đất ở, đất công nghiệp. Như vậy phần địa tô tăng thêm do đô thị hoá không bị đánh thuế đều đặn mà bị "thu một lần" qua cơ chế hành chính, với khoảng chênh giữa giá đền bù nông nghiệp và giá đất sau chuyển đổi trở thành đối tượng tranh giành. Lập luận của trọng nông, rằng thuế vào giá trị đất ít méo mó nhất, gợi ý rằng một thứ thuế tài sản đều đặn trên giá trị đất phi nông nghiệp có thể vừa ổn định ngân sách vừa giảm động cơ đầu cơ, tốt hơn việc dựa vào tiền sử dụng đất.
+**Tam nông và cái bẫy "ưu ái nông nghiệp bằng cách giữ người ở lại nông nghiệp".** Các nghị quyết về nông nghiệp, nông dân, nông thôn (Nghị quyết 26-NQ/TW năm 2008 và Nghị quyết 19-NQ/TW năm 2022) đặt nông nghiệp vào vị trí trụ đỡ.
 
-**"Kinh tế thị trường định hướng xã hội chủ nghĩa" đọc bằng ba nhiệm vụ của Smith.** Hiến pháp 2013 quy định kinh tế nhà nước giữ vai trò chủ đạo; Nghị quyết 68-NQ/TW năm 2025 xác định kinh tế tư nhân là một động lực quan trọng nhất của nền kinh tế. Khung của Smith không trả lời câu hỏi nhà nước nên lớn hay nhỏ, nhưng nó tách được hai câu hỏi thường bị gộp làm một. Câu thứ nhất: nhà nước có làm tốt ba nhiệm vụ không? Với nhiệm vụ thứ ba, câu trả lời của Việt Nam khá tốt và chính là nơi nhà nước tạo giá trị lớn nhất: hạ tầng giao thông, điện, cảng, và phổ cập giáo dục, đúng loại công trình mà Smith nói lợi ích xã hội vượt chi phí nhưng tư nhân không tự làm. Với nhiệm vụ thứ hai, tư pháp nghiêm minh, bảo vệ quyền tài sản và thực thi hợp đồng, đây vẫn là chỗ yếu được chính các văn kiện cải cách thừa nhận, và theo Smith đây là nhiệm vụ nền móng mà không có nó thì tự do kinh tế không vận hành được. Câu thứ hai: nhà nước có nên chọn ngành để dồn vốn vào không, qua doanh nghiệp nhà nước, tín dụng chỉ định, ưu đãi "ngành mũi nhọn"? Ở đây Smith hoài nghi rõ ràng, với hai lý do mà kinh nghiệm Việt Nam xác nhận: các tập đoàn nhà nước được dồn vốn trong thập niên 2000 để làm "quả đấm thép" đã thua lỗ lớn ở chính các ngành được chọn (đóng tàu là ví dụ nổi tiếng nhất), và việc chọn ngành mở ra không gian cho nhóm lợi ích vận động. Bài học của chương không phải "nhà nước không nên làm gì", mà là **nhà nước nên dồn năng lực vào những việc chỉ nó làm được**, và rút khỏi những việc thị trường tự làm tốt hơn.
+Phân tích của Smith ở chương này đưa ra một cảnh báo cụ thể: cách tốt nhất để nâng thu nhập nông dân không phải là bảo vệ nông nghiệp khỏi công nghiệp, mà là làm cho **thị trường thành thị và công nghiệp** cạnh đó lớn lên. Mỗi lao động rời nông thôn vào khu công nghiệp vừa bớt một người chia ruộng vừa thêm một người mua nông sản.
 
-**Công nghiệp hoá qua mở cửa: Việt Nam là trường hợp minh hoạ cho lập luận "hào phóng" của trọng nông.** Smith thuật lại rằng một nước nông nghiệp có công nghiệp riêng nhanh nhất bằng cách cho thương nhân và thợ nước ngoài tự do hoàn toàn: dư thừa tăng, vốn tích luỹ, tay nghề trong nước tiến bộ, rồi hàng trong nước đẩy lùi hàng nhập và vươn ra nước ngoài. Con đường của Việt Nam từ cuối thập niên 1980, mở cửa cho FDI, ký hàng loạt FTA, và từ một nước xuất khẩu gạo, cà phê, dầu thô trở thành một trung tâm lắp ráp điện tử và dệt may, khớp với trình tự này đến mức đáng kinh ngạc. Phần chưa khớp cũng đáng nói: trong mô hình của trọng nông, giai đoạn cuối là thợ **trong nước** làm chủ kỹ năng và đẩy lùi thợ nước ngoài; ở Việt Nam, khu vực FDI vẫn chiếm phần lớn kim ngạch xuất khẩu công nghiệp, và mối liên kết với doanh nghiệp trong nước còn mỏng. Theo logic của Smith, câu trả lời không nằm ở việc hạn chế FDI, mà ở hai thứ ông coi là nguồn tăng trưởng: tích luỹ vốn của doanh nghiệp trong nước (tức tín dụng và thị trường vốn công bằng cho khu vực tư nhân) và nâng kỹ năng người lao động (tức đúng nhiệm vụ giáo dục mà Smith giao cho nhà nước ở Quyển V).
+Các chính sách giữ cứng cơ cấu đất lúa, hạn chế tích tụ ruộng đất, hay hạn chế chuyển đổi cây trồng có thể rơi vào đúng cái bẫy mà Smith gán cho trọng nông: nhân danh nông nghiệp nhưng làm giảm giá trị và năng suất của nó. Luật Đất đai 2024 nới rộng hạn mức nhận chuyển quyền đất nông nghiệp đi đúng hướng mà lập luận này gợi ý.
+
+Việc giữ diện tích đất lúa khoảng 3,5 triệu ha vì an ninh lương thực có thể có lý do riêng, nhưng theo khung của Smith, chi phí của nó là thu nhập mà nông dân lẽ ra có được từ cây trồng có giá trị cao hơn, và chi phí đó nên được tính công khai.
+
+**Thuế và đất đai: Việt Nam làm ngược trọng nông, và Smith giúp thấy vì sao điều đó quan trọng.** Phái trọng nông muốn đánh thuế duy nhất vào địa tô. Việt Nam miễn thuế sử dụng đất nông nghiệp từ đầu những năm 2000 và đã gia hạn nhiều lần, nhưng thu ngân sách lại phụ thuộc nặng vào tiền sử dụng đất khi chuyển mục đích sang đất ở, đất công nghiệp.
+
+Như vậy phần địa tô tăng thêm do đô thị hoá không bị đánh thuế đều đặn mà bị "thu một lần" qua cơ chế hành chính, với khoảng chênh giữa giá đền bù nông nghiệp và giá đất sau chuyển đổi trở thành đối tượng tranh giành. Lập luận của trọng nông, rằng thuế vào giá trị đất ít méo mó nhất, gợi ý rằng một thứ thuế tài sản đều đặn trên giá trị đất phi nông nghiệp có thể vừa ổn định ngân sách vừa giảm động cơ đầu cơ, tốt hơn việc dựa vào tiền sử dụng đất.
+
+**"Kinh tế thị trường định hướng xã hội chủ nghĩa" đọc bằng ba nhiệm vụ của Smith.** Hiến pháp 2013 quy định kinh tế nhà nước giữ vai trò chủ đạo; Nghị quyết 68-NQ/TW năm 2025 xác định kinh tế tư nhân là một động lực quan trọng nhất của nền kinh tế.
+
+Khung của Smith không trả lời câu hỏi nhà nước nên lớn hay nhỏ, nhưng nó tách được hai câu hỏi thường bị gộp làm một. Câu thứ nhất: nhà nước có làm tốt ba nhiệm vụ không? Với nhiệm vụ thứ ba, câu trả lời của Việt Nam khá tốt và chính là nơi nhà nước tạo giá trị lớn nhất: hạ tầng giao thông, điện, cảng, và phổ cập giáo dục, đúng loại công trình mà Smith nói lợi ích xã hội vượt chi phí nhưng tư nhân không tự làm.
+
+Với nhiệm vụ thứ hai, tư pháp nghiêm minh, bảo vệ quyền tài sản và thực thi hợp đồng, đây vẫn là chỗ yếu được chính các văn kiện cải cách thừa nhận, và theo Smith đây là nhiệm vụ nền móng mà không có nó thì tự do kinh tế không vận hành được.
+
+Câu thứ hai: nhà nước có nên chọn ngành để dồn vốn vào không, qua doanh nghiệp nhà nước, tín dụng chỉ định, ưu đãi "ngành mũi nhọn"? Ở đây Smith hoài nghi rõ ràng, với hai lý do mà kinh nghiệm Việt Nam xác nhận: các tập đoàn nhà nước được dồn vốn trong thập niên 2000 để làm "quả đấm thép" đã thua lỗ lớn ở chính các ngành được chọn (đóng tàu là ví dụ nổi tiếng nhất), và việc chọn ngành mở ra không gian cho nhóm lợi ích vận động.
+
+Bài học của chương không phải "nhà nước không nên làm gì", mà là **nhà nước nên dồn năng lực vào những việc chỉ nó làm được**, và rút khỏi những việc thị trường tự làm tốt hơn.
+
+**Công nghiệp hoá qua mở cửa: Việt Nam là trường hợp minh hoạ cho lập luận "hào phóng" của trọng nông.** Smith thuật lại rằng một nước nông nghiệp có công nghiệp riêng nhanh nhất bằng cách cho thương nhân và thợ nước ngoài tự do hoàn toàn: dư thừa tăng, vốn tích luỹ, tay nghề trong nước tiến bộ, rồi hàng trong nước đẩy lùi hàng nhập và vươn ra nước ngoài.
+
+Con đường của Việt Nam từ cuối thập niên 1980, mở cửa cho FDI, ký hàng loạt FTA, và từ một nước xuất khẩu gạo, cà phê, dầu thô trở thành một trung tâm lắp ráp điện tử và dệt may, khớp với trình tự này đến mức đáng kinh ngạc.
+
+Phần chưa khớp cũng đáng nói: trong mô hình của trọng nông, giai đoạn cuối là thợ **trong nước** làm chủ kỹ năng và đẩy lùi thợ nước ngoài; ở Việt Nam, khu vực FDI vẫn chiếm phần lớn kim ngạch xuất khẩu công nghiệp, và mối liên kết với doanh nghiệp trong nước còn mỏng.
+
+Theo logic của Smith, câu trả lời không nằm ở việc hạn chế FDI, mà ở hai thứ ông coi là nguồn tăng trưởng: tích luỹ vốn của doanh nghiệp trong nước (tức tín dụng và thị trường vốn công bằng cho khu vực tư nhân) và nâng kỹ năng người lao động (tức đúng nhiệm vụ giáo dục mà Smith giao cho nhà nước ở Quyển V).
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển IV, Chương IX trên một trang: bảy nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết và phần Đánh giá (Colbert và phản ứng trọng nông, học thuyết trọng nông với ba tầng lớp, sản phẩm ròng và kết luận tự do thương mại, Quesnay và nguyên tắc bảo toàn, năm lập luận bác bỏ, Trung Hoa, Ai Cập và Hindustan, phán quyết và hệ thống tự do tự nhiên, đánh giá), mỗi nhánh ghi luận điểm, cơ chế, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển IV, Chương IX: trọng nông sai khi gọi công thương là phi sản xuất, và mọi hệ thống ưu tiên ngành đều tự phá mục tiêu`"]
+  n1["`Mục 1 — Hai thái cực ở Pháp: Colbert và phái trọng nông`"]
+  n0 --- n1
+  n2["`Hệ thống trọng nông chưa nước nào áp dụng, chỉ có trong suy tưởng của ít người uyên bác ở Pháp`"]
+  n1 --- n2
+  n3["`Colbert, bộ trưởng của Louis XIV: trung thực, giỏi hạch toán ngân quỹ nhưng mang định kiến trọng thương`"]
+  n1 --- n3
+  n4["`Colbert điều tiết công thương cả nước như điều tiết các bộ phận của một cơ quan`"]
+  n1 --- n4
+  n5["`Cấm hẳn xuất khẩu ngũ cốc để lương thực thành thị rẻ, nông dân Pháp mất thị trường nước ngoài`"]
+  n1 --- n5
+  n6["`Trọng nông phản ứng: coi nông nghiệp là nguồn duy nhất của thu nhập, như bẻ cong cây gậy sang phía bên kia`"]
+  n1 --- n6
+  n7["`Mục 2–6 — Học thuyết trọng nông và kết luận tự do`"]
+  n0 --- n7
+  n8["`Ba tầng lớp: chủ đất, tầng lớp sản xuất (dân cày, chủ trại), tầng lớp vô sinh (thợ, nhà chế tạo, thương nhân)`"]
+  n7 --- n8
+  n9["`Chi phí đất đai, ban đầu, hàng năm là chi phí sản xuất vì hoàn lại chính mình và sinh sản phẩm ròng là địa tô`"]
+  n7 --- n9
+  n10["`Thợ và thương nhân chỉ hoàn lại vốn thuê họ cộng lợi nhuận thông thường, mà lợi nhuận cũng chỉ là tiền nuôi chủ`"]
+  n7 --- n10
+  n11["`Ví dụ đăng ten: sợi lanh 1 penny thành cổ tay áo 30 bảng (7.200 penny), nhưng thợ tiêu hết 30 bảng trong 2 năm làm`"]
+  n7 --- n11
+  n12["`Hệ quả: thợ và thương nhân chỉ làm giàu xã hội bằng tiết kiệm, thắt lưng buộc bụng`"]
+  n7 --- n12
+  n13["`Pháp, Anh giàu bằng lao động và hưởng thụ nên hào phóng, Hà Lan, Hamburg giàu bằng tằn tiện nên hẹp hòi (theo trọng nông)`"]
+  n7 --- n13
+  n14["`Tầng lớp phi sản xuất vẫn có ích: giúp người canh tác chuyên tâm, gián tiếp tăng sản phẩm của đất`"]
+  n7 --- n14
+  n15["`Công lý hoàn hảo, tự do hoàn hảo và bình đẳng hoàn hảo là bí quyết thịnh vượng cho cả ba tầng lớp`"]
+  n7 --- n15
+  n16["`Thuế cao vào hàng nước thương mại hạ giá trị thực của sản phẩm dư thừa của chính nước nông nghiệp`"]
+  n7 --- n16
+  n17["`Tự do thương mại: dư thừa tăng, vốn tăng, thuê thợ trong nước, rồi đẩy lùi hàng nước thương mại`"]
+  n7 --- n17
+  n18["`Bảo hộ tạo độc quyền cho công thương trong nước, nâng lợi nhuận và rút vốn khỏi nông nghiệp`"]
+  n7 --- n18
+  n19["`Mục 7 — Quesnay, Biểu bảng kinh tế và nguyên tắc bảo toàn`"]
+  n0 --- n19
+  n20["`Quesnay dùng công thức số học tả phân phối tổng sản phẩm cho ba tầng lớp`"]
+  n19 --- n20
+  n21["`Biểu bảng kinh tế: trong tự do hoàn hảo sản phẩm ròng lớn nhất, mỗi mức hạn chế là một mức lệch`"]
+  n19 --- n21
+  n22["`Như thầy thuốc tin chỉ một chế độ ăn chính xác giữ được sức khoẻ, Quesnay nghĩ cơ thể chính trị cũng vậy`"]
+  n19 --- n22
+  n23["`Nỗ lực tự nhiên của mỗi người để cải thiện hoàn cảnh là nguyên tắc bảo toàn, sửa được tác hại của chính sách xấu`"]
+  n19 --- n23
+  n24["`Chính sách xấu làm chậm nhưng không phải lúc nào cũng chặn đứng, càng không đảo ngược tiến trình tới giàu có`"]
+  n19 --- n24
+  n25["`Nếu chỉ phồn vinh khi có tự do và công lý hoàn hảo thì chưa nước nào từng phồn vinh`"]
+  n19 --- n25
+  n26["`Mục 8 — Năm lập luận bác bỏ #quot;phi sản xuất#quot;`"]
+  n0 --- n26
+  n27["`Tái sản xuất giá trị đã là sản xuất: hôn nhân sinh một trai một gái thay bố mẹ không phải vô sinh`"]
+  n26 --- n27
+  n28["`Nông nghiệp năng suất hơn như hôn nhân sinh ba con, nhưng không biến công nghiệp thành vô sinh`"]
+  n26 --- n28
+  n29["`Thợ không phải đầy tớ: lao động thợ vật chất hoá trong hàng hoá, dịch vụ đầy tớ mất đi ngay lúc làm`"]
+  n26 --- n29
+  n30["`Thợ làm 6 tháng ra 10 bảng và tiêu 10 bảng ngũ cốc: giá trị đã tiêu và đã làm ra là 20 bảng, không phải 10`"]
+  n26 --- n30
+  n31["`Nếu lính hay đầy tớ ăn 10 bảng ngũ cốc đó, cuối 6 tháng xã hội có ít hơn 10 bảng`"]
+  n26 --- n31
+  n32["`Phần thợ tiết kiệm từ thu nhập làm tăng của cải, nên trọng nông phải nói mập mờ`"]
+  n26 --- n32
+  n33["`Sản phẩm chỉ tăng bằng nâng năng suất hoặc tăng số lao động hữu ích, công nghiệp có lợi thế ở cả hai`"]
+  n26 --- n33
+  n34["`Lao động thợ chia nhỏ được nhiều khâu hơn, và theo chính trọng nông thợ tằn tiện hơn nên tích luỹ vốn nhanh hơn`"]
+  n26 --- n34
+  n35["`Nước công thương nhập được lương thực nhiều hơn đất mình sinh ra: Hà Lan lấy gia súc Holstein, Jutland, ngũ cốc châu Âu`"]
+  n26 --- n35
+  n36["`Mục 9 — Các nước ưu ái nông nghiệp: Trung Hoa, Ai Cập, Hindustan`"]
+  n0 --- n36
+  n37["`Trung Hoa: nông dân địa vị cao hơn thợ, hợp đồng lĩnh canh bảo đảm, ngoại thương gần như chỉ với Nhật Bản`"]
+  n36 --- n37
+  n38["`Hàng công nghiệp nhỏ gọn giá trị cao, phân công lao động bị giới hạn bởi quy mô thị trường`"]
+  n36 --- n38
+  n39["`Thị trường nội địa Trung Hoa có lẽ không kém cả châu Âu, nhưng thêm thị trường thế giới thì công nghiệp tăng đáng kể`"]
+  n36 --- n39
+  n40["`Ai Cập cổ và Hindustan: đẳng cấp cha truyền con nối, nông dân ưu đãi hơn thương nhân, thuỷ lợi trên sông Nile, sông Hằng`"]
+  n36 --- n40
+  n41["`Hindustan rộng: Bengal xuất nhiều gạo nhưng nổi tiếng hơn về hàng công nghiệp`"]
+  n36 --- n41
+  n42["`Ai Cập nhỏ hơn nước Anh, thị trường hẹp nên chỉ nổi tiếng xuất khẩu ngũ cốc, kho thóc của La Mã`"]
+  n36 --- n42
+  n43["`Mục 10–11 — Phán quyết và hệ thống tự do tự nhiên`"]
+  n0 --- n43
+  n44["`Thương mại lớn nhất là trao đổi thành thị và nông thôn: hàng công nghiệp càng đắt, sản phẩm thô càng rẻ`"]
+  n43 --- n44
+  n45["`Giảm số thợ thu hẹp thị trường trong nước, thị trường quan trọng nhất của nông sản`"]
+  n43 --- n45
+  n46["`Ưu ái nông nghiệp bằng hạn chế công nghiệp còn mâu thuẫn hơn trọng thương: rốt cuộc hại chính nông nghiệp`"]
+  n43 --- n46
+  n47["`Mọi hệ thống kéo vốn vào một ngành nhiều hơn mức tự nhiên đều giảm giá trị thực của sản phẩm hàng năm`"]
+  n43 --- n47
+  n48["`Gỡ mọi ưu tiên và hạn chế, hệ thống tự do tự nhiên tự thiết lập, mỗi người tự do trong khuôn khổ luật công lý`"]
+  n43 --- n48
+  n49["`Nhà vua được giải phóng khỏi nhiệm vụ điều khiển công nghiệp tư nhân, việc không trí tuệ nào đủ làm đúng`"]
+  n43 --- n49
+  n50["`Ba nhiệm vụ của nhà nước: quốc phòng, tư pháp nghiêm minh, công trình và thiết chế công cộng`"]
+  n43 --- n50
+  n51["`Nhiệm vụ thứ ba là tiêu chí: lợi ích xã hội vượt chi phí nhưng không cá nhân nào thu đủ để tự làm`"]
+  n43 --- n51
+  n52["`Đánh giá — Smith thừa hưởng và vượt qua trọng nông`"]
+  n0 --- n52
+  n53["`Smith gọi hệ thống trọng nông là #quot;hào phóng#quot;, tán thành kết luận tự do, chỉ bác nền lý thuyết`"]
+  n52 --- n53
+  n54["`Trọng nông đầu tiên mô tả kinh tế như hệ thống tái sản xuất, Smith giữ khung vốn ứng trước và sản phẩm hàng năm`"]
+  n52 --- n54
+  n55["`Lập luận về tăng trưởng mạnh nhất, lập luận thợ khác đầy tớ dựa vào phân biệt hàng hoá và dịch vụ đã bị vượt qua`"]
+  n52 --- n55
+  n56["`Biểu bảng kinh tế là tổ tiên của bảng input–output của Leontief và dòng chu chuyển`"]
+  n52 --- n56
+  n57["`Nhà nước của Smith nhỏ về can thiệp vào phân bổ vốn nhưng mạnh về pháp quyền`"]
+  n52 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Của cải là hàng tiêu dùng tái sản xuất hằng năm, công thương nghiệp cũng là lao động sản xuất`"]
+  n58 --- n59
+  n60["`Ưu ái công nghiệp như Colbert hay ưu ái nông nghiệp như Trung Hoa đều kéo vốn khỏi chỗ nó tự nhiên chảy tới`"]
+  n58 --- n60
+  n61["`Tự do không cần hoàn hảo mới có hiệu lực, nhà nước dồn sức vào ba nhiệm vụ chỉ nó làm được`"]
+  n58 --- n61
+  class n0 root
+  class n1,n7,n19,n26,n36,n43,n52,n58 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương IX. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 593–617.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển IV xét các "hệ thống kinh tế chính trị", tức các học thuyết về nguồn gốc của cải đã chi phối chính sách châu Âu. Tám chương đầu phá hệ thống trọng thương, hệ thống coi của cải là vàng bạc và ưu ái công thương nghiệp thành thị. Chương IX xét đối thủ ngược chiều của nó: phái trọng nông Pháp (Quesnay và các môn đồ), coi đất đai là nguồn duy nhất tạo ra giá trị ròng.
+
+Smith dùng chính các công cụ của Quyển I và II để bác cả hai: phân công lao động bị giới hạn bởi quy mô thị trường (Quyển I, Chương III), phân biệt lao động sản xuất và phi sản xuất (Quyển II, Chương III), và trật tự tự nhiên của sự giàu có, trong đó trao đổi giữa thành thị và nông thôn là thương mại lớn nhất (Quyển III).
+
+Sau khi gạt bỏ mọi hệ thống ưu tiên lẫn hạn chế, chương kết thúc bằng "hệ thống tự do tự nhiên" và ba nhiệm vụ của nhà nước, vốn là đề cương của Quyển V. Ấn bản này không có Quyển V, nên đây là chương kết của sách.
+
+## Lưu ý
+
+- Bản dịch có nhiều lỗi làm đảo nghĩa kinh tế.
+  - "Còn các chi phí khác gọi là **chi phí sản xuất**" và "Số vốn dùng trong thương mại cũng là **phí sản xuất**" phải là **phi sản xuất** (*unproductive*); lỗi này đảo ngược luận điểm trung tâm của phái trọng nông.
+  - Thuế cao vào hàng của nước thương mại "làm giảm giá trị thực tế của sản phẩm dư thừa **của nước công nghiệp**" phải là của **chính nước nông nghiệp**.
+  - Lý do thứ nhất khiến nước nông nghiệp tự hại: "khi **nâng** giá trị thực tế của sản phẩm dư thừa" phải là **hạ** (*degrade*) giá trị trao đổi của sản phẩm dư thừa nước mình.
+  - "Hà Lan và **Đức**" là lỗi dịch "Holland and Hamburg": Smith nói đến các thành bang thương mại, không phải cả nước Đức.
+  - "Hà Lan mua ngũ cốc của hầu hết các nước **Châu Phi**" phải là **Châu Âu**.
+  - Câu kết lập luận thứ năm, "dân các nước công thương nghiệp luôn được hưởng thụ nhiều hơn dân một **nước công nghiệp**", phải là "một nước **không có** thương nghiệp và công nghiệp".
+  - "các nước khác làm theo một kế hoạch khác thuận lợi hơn đối với nền **công nghiệp**" phải là thuận lợi hơn cho **nông nghiệp** (đó là câu dẫn vào Trung Hoa, Ai Cập, Hindustan).
+  - Ai Cập cổ "nổi tiếng nhờ việc xuất khẩu **gạo**" phải là **ngũ cốc** (lúa mì); gạo là hàng của Bengal.
+  - Quesnay cho rằng "**một thực tế chính trị**" chỉ phồn thịnh theo một chế độ chuẩn xác; phải là "**cơ thể chính trị**" (*political body*), vì Smith đang so sánh với thuyết của các thầy thuốc về cơ thể người.
+  - Việc nuôi đầy tớ là "do **người chủ trang trại**" phải là do **chủ nhân** của họ.
+  - "chương nói về lao động sản xuất và **chi phí sản xuất**" phải là chương về lao động sản xuất và **phi sản xuất** (Quyển II, Chương III).
+  - Lỗi chính tả làm khó hiểu: "ghi tiền" (chi tiền), "dùng bằng giá trị" (đúng bằng), "chúa đất" (chủ đất).
+- Tên Quesnay được phiên là "Quesnai" theo cách Smith viết.
+- Ngoài ra, bản dịch là bản **rút gọn**. Bị lược:
+  - phần Smith mô tả phái trọng nông như một "giáo phái" đông đảo và câu ông khen rằng hệ thống này, với mọi khiếm khuyết, "có lẽ là gần chân lý nhất trong những gì đã được công bố về kinh tế chính trị"
+  - các chi tiết về thuế đất ở Hindustan
+  - câu then chốt rằng trong hệ thống tự do tự nhiên nhà vua được **giải phóng khỏi nhiệm vụ giám sát và điều khiển công nghiệp tư nhân**, nhiệm vụ mà không trí tuệ con người nào đủ để làm đúng
+  - và câu cuối nguyên bản báo trước rằng Quyển V sẽ bàn về chi tiêu và nguồn thu cần cho ba nhiệm vụ ấy.
+
+  Phần lược về hệ thống tự do được bù trong file này ở mục Câu nói đáng nhớ.
+- Cuối file nguồn là chú thích của cả bộ sách, không thuộc chương này; ký hiệu "[15]" trong chương không có chú thích tương ứng.

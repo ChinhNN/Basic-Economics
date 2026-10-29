@@ -1,11 +1,12 @@
 # Quyển I, Chương I — Phân công lao động (Of the Division of Labour)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương I. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 32–38.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Trong đề cương, Smith nói của cải trên đầu người do hai yếu tố quyết định, và yếu tố quan trọng hơn là kỹ năng, sự khéo léo và óc phán đoán của người lao động. Chương này trả lời câu hỏi yếu tố đó đến từ đâu: chủ yếu từ phân công lao động. Ba chương tiếp theo hỏi tiếp: phân công sinh ra từ đâu (Chương II: từ thiên hướng trao đổi), cái gì giới hạn nó (Chương III: quy mô thị trường), và trao đổi cần công cụ gì (Chương IV: tiền).
-**Ý chính:** Smith muốn chứng minh rằng **năng suất lao động tăng chủ yếu nhờ phân công lao động**, và chính phân công khiến sự giàu có lan tới cả người nghèo nhất trong một xã hội được cai trị tốt. Ông chứng minh bằng một ví dụ có số: xưởng ghim 10 người làm 48.000 chiếc mỗi ngày, tức 4.800 chiếc mỗi người, trong khi một người làm một mình không nổi 20 chiếc. Sau đó ông chỉ ra ba cơ chế (tăng kỹ năng, kỹ xảo; tiết kiệm thời gian chuyển việc; phát minh máy móc), giải thích vì sao nông nghiệp khó phân công hơn công nghiệp, và kết bằng hình ảnh chiếc áo len thô của người lao động là thành quả hợp tác của hàng nghìn người.
+## Ý chính
 
-> **Lưu ý về bản dịch:** (1) Bản dịch bỏ mất câu "Tôi đã thấy một xưởng nhỏ loại này" (*I have seen a small manufactory of this kind*) ở đầu đoạn về 10 công nhân; trong nguyên bản, Smith kể ông tận mắt thấy một xưởng như vậy, nơi vì chỉ có 10 người nên có người phải làm hai, ba thao tác. (2) "Những chiếc xe chữa cháy đầu tiên" là dịch sai chữ *fire-engines*: thời Smith chữ này chỉ **máy hơi nước** dùng để bơm nước (kiểu máy Newcomen), không phải xe cứu hoả; các chi tiết nồi hơi, xi lanh, piston, van chỉ có nghĩa với máy hơi nước. (3) Câu so sánh cuối chương bị dịch lệch: nguyên văn là tiện nghi của một ông hoàng châu Âu không hơn tiện nghi của người nông dân cần mẫn **nhiều bằng** tiện nghi của người nông dân ấy hơn tiện nghi của một ông vua châu Phi làm chủ sinh mạng mười nghìn người; bản dịch đổi "vua châu Phi" thành "người cầm đầu một bộ lạc trước đây". (4) "Ba Lan bán ngũ cốc cùng hạn rẻ" đúng ra là "cùng **hạng**", tức cùng chất lượng. "Pound" ở xưởng ghim là đơn vị **trọng lượng** (khoảng 0,45 kg), không phải đồng bảng.
+Smith muốn chứng minh rằng **năng suất lao động tăng chủ yếu nhờ phân công lao động**, và chính phân công khiến sự giàu có lan tới cả người nghèo nhất trong một xã hội được cai trị tốt.
+
+Ông chứng minh bằng một ví dụ có số: xưởng ghim 10 người làm 48.000 chiếc mỗi ngày, tức 4.800 chiếc mỗi người, trong khi một người làm một mình không nổi 20 chiếc.
+
+Sau đó ông chỉ ra ba cơ chế (tăng kỹ năng, kỹ xảo; tiết kiệm thời gian chuyển việc; phát minh máy móc), giải thích vì sao nông nghiệp khó phân công hơn công nghiệp, và kết bằng hình ảnh chiếc áo len thô của người lao động là thành quả hợp tác của hàng nghìn người.
 
 ## Sơ đồ
 
@@ -283,7 +284,9 @@ Không phải mọi cải tiến đều do người dùng máy. Nhiều cải ti
 
 Vì sản phẩm của mọi ngành được nhân lên nhờ phân công, trong một xã hội được tổ chức và cai trị tốt, sự giàu có lan tới cả tầng lớp thấp nhất. Cơ chế: mỗi người làm ra nhiều hơn mình cần, mọi người đều như vậy, nên ai cũng đổi được phần dư của mình lấy phần dư của người khác.
 
-Smith minh hoạ bằng **chiếc áo len thô** của một người lao động. Để có nó cần: người chăn cừu, người phân loại len, người chải len, thợ nhuộm, thợ xe sợi, thợ dệt, thợ chuội, thợ may. Cần thêm lái buôn và người vận chuyển, cùng thợ đóng tàu, thuỷ thủ, thợ dệt buồm, thợ xe thừng để chở thuốc nhuộm từ những nơi xa nhất thế giới. Cần thêm người làm công cụ: chỉ riêng chiếc kéo xén lông cừu đã cần thợ mỏ, thợ xây lò luyện quặng, người đốn gỗ, người đốt than củi, thợ làm gạch, thợ nề, thợ luyện kim, thợ rèn. Rồi còn áo sơ mi, giày, giường, bếp, than, dao dĩa, bát đĩa, bánh mì, bia, cửa sổ kính. Không có sự hợp tác của hàng nghìn người, người nghèo nhất ở một nước văn minh không có được những thứ ta coi là đơn giản.
+Smith minh hoạ bằng **chiếc áo len thô** của một người lao động. Để có nó cần: người chăn cừu, người phân loại len, người chải len, thợ nhuộm, thợ xe sợi, thợ dệt, thợ chuội, thợ may. Cần thêm lái buôn và người vận chuyển, cùng thợ đóng tàu, thuỷ thủ, thợ dệt buồm, thợ xe thừng để chở thuốc nhuộm từ những nơi xa nhất thế giới.
+
+Cần thêm người làm công cụ: chỉ riêng chiếc kéo xén lông cừu đã cần thợ mỏ, thợ xây lò luyện quặng, người đốn gỗ, người đốt than củi, thợ làm gạch, thợ nề, thợ luyện kim, thợ rèn. Rồi còn áo sơ mi, giày, giường, bếp, than, dao dĩa, bát đĩa, bánh mì, bia, cửa sổ kính. Không có sự hợp tác của hàng nghìn người, người nghèo nhất ở một nước văn minh không có được những thứ ta coi là đơn giản.
 
 Câu so sánh cuối chương: so với người quyền thế, đồ dùng của người lao động rất đơn sơ. Nhưng một ông hoàng châu Âu không hơn người nông dân cần mẫn nhiều bằng người nông dân ấy hơn một ông vua ở xã hội không có phân công, dù ông vua làm chủ sinh mạng mười nghìn người.
 
@@ -382,7 +385,9 @@ Người đọc chỉ có Chương I dễ bỏ qua căng thẳng này. Nó quan 
 
 Ai cũng nhớ xưởng ghim, ít ai nhớ đoạn về ngũ cốc Ba Lan. Nhưng đoạn này chứa một lý thuyết hoàn chỉnh: năng suất ngành phụ thuộc vào khả năng phân công của ngành, khả năng đó phụ thuộc vào tính chất kỹ thuật (mùa vụ), nên lợi thế của nước giàu tập trung ở công nghiệp, và nước nghèo chỉ cạnh tranh được bằng hàng nông sản. Smith dùng **giá** làm bằng chứng cho năng suất tương đối, một phương pháp rất hiện đại.
 
-Kinh tế học về sau xác nhận phần lớn ý này cho thời của Smith và cho các nước đang phát triển ngày nay: chênh lệch năng suất nông nghiệp giữa nước giàu và nghèo rất lớn trên mỗi lao động, và chuyển dịch lao động ra khỏi nông nghiệp là một nguồn tăng trưởng chính. Nhưng nó bị lịch sử vượt qua ở một điểm: cơ giới hoá và hoá học hoá thế kỷ 20 đã khiến năng suất lao động nông nghiệp ở các nước giàu tăng nhanh ngang hoặc hơn công nghiệp. Lý do nông nghiệp chậm không phải là "bản chất" của nó, mà là chưa có công nghệ phù hợp; khi máy kéo và máy gặt đến, tính mùa vụ không còn ngăn được chuyên môn hoá (hộ nông dân thuê dịch vụ làm đất, gieo, gặt theo mùa). Đó chính là phân công, chỉ là giữa các doanh nghiệp chứ không trong một trang trại.
+Kinh tế học về sau xác nhận phần lớn ý này cho thời của Smith và cho các nước đang phát triển ngày nay: chênh lệch năng suất nông nghiệp giữa nước giàu và nghèo rất lớn trên mỗi lao động, và chuyển dịch lao động ra khỏi nông nghiệp là một nguồn tăng trưởng chính. Nhưng nó bị lịch sử vượt qua ở một điểm: cơ giới hoá và hoá học hoá thế kỷ 20 đã khiến năng suất lao động nông nghiệp ở các nước giàu tăng nhanh ngang hoặc hơn công nghiệp.
+
+Lý do nông nghiệp chậm không phải là "bản chất" của nó, mà là chưa có công nghệ phù hợp; khi máy kéo và máy gặt đến, tính mùa vụ không còn ngăn được chuyên môn hoá (hộ nông dân thuê dịch vụ làm đất, gieo, gặt theo mùa). Đó chính là phân công, chỉ là giữa các doanh nghiệp chứ không trong một trang trại.
 
 ### Chiếc áo len là lập luận về phân phối, không chỉ về sản xuất
 
@@ -392,8 +397,161 @@ Cấu trúc so sánh cuối chương (bị bản dịch làm lệch) rất chín
 
 ### Với Việt Nam: tăng trưởng của Việt Nam là bài học xưởng ghim ở quy mô toàn cầu, và chỗ yếu nằm ở cơ chế thứ ba
 
-Khung của Smith giải thích tốt hai thập kỷ tăng trưởng dựa vào FDI của Việt Nam. Một chiếc điện thoại thông minh lắp ráp ở Bắc Ninh hay Thái Nguyên là chiếc áo len của thế kỷ 21: linh kiện từ nhiều nước, thiết kế ở nơi khác, và khâu Việt Nam đảm nhận là một số "thao tác" trong chuỗi, chủ yếu là lắp ráp và kiểm tra. Việt Nam tham gia phân công lao động quốc tế bằng cách nhận một khâu, và vì thị trường của khâu đó là toàn thế giới chứ không phải thị trường nội địa, quy mô cho phép chuyên môn hoá rất sâu. Chương này cũng cho thấy vì sao một nước nghèo làm được điều Smith cho là không thể (cạnh tranh với nước giàu về hàng công nghiệp): vì doanh nghiệp FDI mang theo toàn bộ hệ thống tổ chức, máy móc và quy trình, tức là mang theo "xưởng ghim", chứ không chờ nước sở tại tự xây dựng. Quy mô của khâu này rất lớn: năm 2024, sáu nhà máy của Samsung tại Việt Nam xuất khẩu 54,4 tỷ USD, khoảng 13,4% tổng kim ngạch xuất khẩu hàng hoá 405,53 tỷ USD của cả nước, và khu vực FDI nói chung chiếm 71,7% kim ngạch đó.
+Khung của Smith giải thích tốt hai thập kỷ tăng trưởng dựa vào FDI của Việt Nam. Một chiếc điện thoại thông minh lắp ráp ở Bắc Ninh hay Thái Nguyên là chiếc áo len của thế kỷ 21: linh kiện từ nhiều nước, thiết kế ở nơi khác, và khâu Việt Nam đảm nhận là một số "thao tác" trong chuỗi, chủ yếu là lắp ráp và kiểm tra. Việt Nam tham gia phân công lao động quốc tế bằng cách nhận một khâu, và vì thị trường của khâu đó là toàn thế giới chứ không phải thị trường nội địa, quy mô cho phép chuyên môn hoá rất sâu.
 
-Đoạn về nông nghiệp cũng soi đúng Việt Nam. Năm 2024, khu vực nông, lâm nghiệp và thuỷ sản có 13,67 triệu lao động, khoảng 26% trong 51,9 triệu người có việc làm, nhưng chỉ đóng góp 11,86% GDP; chia hai con số cho thấy năng suất một lao động nông nghiệp chỉ bằng khoảng 45% bình quân chung. Đúng như Smith dự đoán, mỗi lao động chuyển từ ruộng vào nhà máy làm năng suất bình quân tăng ngay, dù không ai làm việc giỏi hơn. Cách tăng năng suất đúng theo Smith là chuyên môn hoá, và ở đồng bằng sông Cửu Long điều đó đã diễn ra theo đúng cơ chế ông mô tả: dịch vụ làm đất, sạ, phun thuốc, gặt đập liên hợp thuê theo mùa đã tách khỏi hộ trồng lúa, biến những việc từng do một người làm thành những nghề riêng. Trở ngại lớn là quy mô ruộng đất nhỏ và manh mún (bình quân mỗi hộ nông nghiệp chỉ dùng khoảng 0,6 ha đất sản xuất, và ở miền Bắc, miền Trung nhiều hộ có 4–7 mảnh ruộng rời nhau), khiến chuyên môn hoá bị giới hạn bởi kích thước từng thửa; đó là câu chuyện của Chương III.
+Chương này cũng cho thấy vì sao một nước nghèo làm được điều Smith cho là không thể (cạnh tranh với nước giàu về hàng công nghiệp): vì doanh nghiệp FDI mang theo toàn bộ hệ thống tổ chức, máy móc và quy trình, tức là mang theo "xưởng ghim", chứ không chờ nước sở tại tự xây dựng. Quy mô của khâu này rất lớn: năm 2024, sáu nhà máy của Samsung tại Việt Nam xuất khẩu 54,4 tỷ USD, khoảng 13,4% tổng kim ngạch xuất khẩu hàng hoá 405,53 tỷ USD của cả nước, và khu vực FDI nói chung chiếm 71,7% kim ngạch đó.
 
-Chỗ yếu nằm ở cơ chế thứ ba của Smith: máy móc và cải tiến sinh ra từ chính người làm khâu đó. Trong một chuỗi mà Việt Nam chỉ giữ khâu lắp ráp, cải tiến kỹ thuật phần lớn diễn ra ở công ty mẹ, không phải ở xưởng. Nước tham gia chuỗi hưởng được cơ chế thứ nhất (khéo léo) và thứ hai (không chuyển việc), nhưng không tự động hưởng cơ chế thứ ba, vốn là cơ chế duy nhất tạo tăng trưởng lâu dài. Câu hỏi chính sách thực sự không phải là thu hút thêm FDI, mà là làm sao để người làm khâu đó, cả công nhân, kỹ sư lẫn doanh nghiệp cung ứng trong nước, có vị trí để tự cải tiến khâu của mình, đúng như cậu bé buộc dây vào van máy hơi nước. Tỷ lệ nội địa hoá thấp trong các ngành điện tử là dấu hiệu cho thấy cơ chế thứ ba chưa vận hành. Số doanh nghiệp Việt Nam là nhà cung cấp cấp một của Samsung đã tăng từ 25 (năm 2014) lên 306 (năm 2023), một tiến bộ thật, nhưng vẫn nhỏ so với quy mô xuất khẩu hơn 50 tỷ USD mỗi năm, và phần lớn làm bao bì, linh kiện đơn giản.
+Đoạn về nông nghiệp cũng soi đúng Việt Nam. Năm 2024, khu vực nông, lâm nghiệp và thuỷ sản có 13,67 triệu lao động, khoảng 26% trong 51,9 triệu người có việc làm, nhưng chỉ đóng góp 11,86% GDP; chia hai con số cho thấy năng suất một lao động nông nghiệp chỉ bằng khoảng 45% bình quân chung. Đúng như Smith dự đoán, mỗi lao động chuyển từ ruộng vào nhà máy làm năng suất bình quân tăng ngay, dù không ai làm việc giỏi hơn.
+
+Cách tăng năng suất đúng theo Smith là chuyên môn hoá, và ở đồng bằng sông Cửu Long điều đó đã diễn ra theo đúng cơ chế ông mô tả: dịch vụ làm đất, sạ, phun thuốc, gặt đập liên hợp thuê theo mùa đã tách khỏi hộ trồng lúa, biến những việc từng do một người làm thành những nghề riêng. Trở ngại lớn là quy mô ruộng đất nhỏ và manh mún (bình quân mỗi hộ nông nghiệp chỉ dùng khoảng 0,6 ha đất sản xuất, và ở miền Bắc, miền Trung nhiều hộ có 4–7 mảnh ruộng rời nhau), khiến chuyên môn hoá bị giới hạn bởi kích thước từng thửa; đó là câu chuyện của Chương III.
+
+Chỗ yếu nằm ở cơ chế thứ ba của Smith: máy móc và cải tiến sinh ra từ chính người làm khâu đó. Trong một chuỗi mà Việt Nam chỉ giữ khâu lắp ráp, cải tiến kỹ thuật phần lớn diễn ra ở công ty mẹ, không phải ở xưởng. Nước tham gia chuỗi hưởng được cơ chế thứ nhất (khéo léo) và thứ hai (không chuyển việc), nhưng không tự động hưởng cơ chế thứ ba, vốn là cơ chế duy nhất tạo tăng trưởng lâu dài.
+
+Câu hỏi chính sách thực sự không phải là thu hút thêm FDI, mà là làm sao để người làm khâu đó, cả công nhân, kỹ sư lẫn doanh nghiệp cung ứng trong nước, có vị trí để tự cải tiến khâu của mình, đúng như cậu bé buộc dây vào van máy hơi nước. Tỷ lệ nội địa hoá thấp trong các ngành điện tử là dấu hiệu cho thấy cơ chế thứ ba chưa vận hành. Số doanh nghiệp Việt Nam là nhà cung cấp cấp một của Samsung đã tăng từ 25 (năm 2014) lên 306 (năm 2023), một tiến bộ thật, nhưng vẫn nhỏ so với quy mô xuất khẩu hơn 50 tỷ USD mỗi năm, và phần lớn làm bao bì, linh kiện đơn giản.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương I trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết và phần Đánh giá (mệnh đề và xưởng ghim, giới hạn của phân công trong nông nghiệp, ba cơ chế tăng năng suất, sự giàu có lan tới tầng lớp thấp nhất, giới hạn và hệ quả của lập luận), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương 1: năng suất lao động tăng chủ yếu nhờ phân công, và phân công đem giàu có tới cả người nghèo nhất`"]
+  n1["`Mục 1–3 — Mệnh đề, xưởng ghim và khái quát sang các ngành, các nước`"]
+  n0 --- n1
+  n2["`Mệnh đề: cải tiến lớn nhất về năng suất và phần lớn kỹ năng, khéo léo, óc phán đoán là nhờ phân công`"]
+  n1 --- n2
+  n3["`Chọn ngành nhỏ vì mọi khâu nằm trong một xưởng nên nhìn thấy được, không phải vì phân công tốt hơn`"]
+  n1 --- n3
+  n4["`Người chưa học nghề, không biết dùng máy: may ra 1 ghim mỗi ngày, chắc chắn không nổi 20`"]
+  n1 --- n4
+  n5["`Làm một cái ghim chia thành khoảng 18 thao tác, phần lớn là nghề riêng`"]
+  n1 --- n5
+  n6["`10 người làm khoảng 12 pound ghim mỗi ngày, mỗi pound hơn 4.000 ghim cỡ vừa`"]
+  n1 --- n6
+  n7["`Tổng khoảng 48.000 ghim mỗi ngày, tức 4.800 ghim mỗi người`"]
+  n6 --- n7
+  n8["`Năng suất gấp ít nhất 240 lần (4.800 chia 20), có thể gấp 4.800 lần`"]
+  n6 --- n8
+  n9["`Việc xã hội tách thành nhiều nghề khác nhau cũng bắt nguồn từ lợi thế của phân công`"]
+  n1 --- n9
+  n10["`Việc của một người ở nước yếu kém là việc của nhiều người ở nước tiên tiến`"]
+  n1 --- n10
+  n11["`Tấm vải lanh, vải len qua tay người trồng lanh, chăn cừu, thợ chuội, thợ nhuộm, thợ may`"]
+  n1 --- n11
+  n12["`Mục 4 — Nông nghiệp không phân công sâu được như công nghiệp`"]
+  n0 --- n12
+  n13["`Người cày, bừa, gieo, gặt thường là một, trong khi xe sợi và dệt vải là hai người`"]
+  n12 --- n13
+  n14["`Lý do: việc đồng áng theo mùa, không ai cày quanh năm nên không ai chuyên cày được`"]
+  n12 --- n14
+  n15["`Smith dùng giá làm bằng chứng cho năng suất tương đối`"]
+  n12 --- n15
+  n16["`Ngũ cốc Ba Lan rẻ ngang Pháp, ngũ cốc Pháp ngang giá Anh, dù nước giàu chăm đất tốt hơn`"]
+  n15 --- n16
+  n17["`Đồ ngũ kim và len thô Anh tốt hơn hẳn và rẻ hơn nhiều so với Pháp`"]
+  n15 --- n17
+  n18["`Ngoại lệ: lụa Pháp tốt và rẻ hơn Anh vì khí hậu Anh không hợp và thuế nhập tơ sống cao`"]
+  n15 --- n18
+  n19["`Nước giàu vượt nước nghèo ở cả hai ngành, nhưng vượt nhiều hơn ở công nghiệp`"]
+  n12 --- n19
+  n20["`Ba Lan hầu như không có công nghiệp, và không nước nào chỉ có nông nghiệp mà có mức sống tốt`"]
+  n12 --- n20
+  n21["`Mục 5–7 — Ba cơ chế làm tăng năng suất`"]
+  n0 --- n21
+  n22["`Cơ chế 1: làm một thao tác đơn giản suốt đời nên kỹ năng, kỹ xảo tăng mạnh`"]
+  n21 --- n22
+  n23["`Thợ rèn thường làm đinh: vài trăm chiếc mỗi ngày, chất lượng rất kém`"]
+  n22 --- n23
+  n24["`Thợ rèn từng làm đinh nhưng không chuyên: 800–1.000 chiếc mỗi ngày`"]
+  n22 --- n24
+  n25["`Thanh niên dưới 20 tuổi chỉ làm đinh: hơn 2.300 chiếc mỗi ngày`"]
+  n22 --- n25
+  n26["`Cơ chế 2: tiết kiệm thời gian chuyển việc, lợi thế lớn hơn người ta tưởng`"]
+  n21 --- n26
+  n27["`Thời gian vật lý: thợ dệt nông thôn vừa làm ruộng mất công đi giữa khung cửi và cánh đồng`"]
+  n26 --- n27
+  n28["`Thời gian tâm lý: người lao động nông thôn đổi việc nửa giờ một lần nên uể oải, lơ là`"]
+  n26 --- n28
+  n29["`Cơ chế 3: phát minh máy móc, và chính phát minh cũng nhờ phân công`"]
+  n21 --- n29
+  n30["`Người dồn chú ý vào một việc dễ tìm ra cách làm việc đó dễ hơn`"]
+  n29 --- n30
+  n31["`Máy hơi nước đời đầu: cậu bé buộc dây từ cán van vào bộ phận chuyển động để van tự đóng mở`"]
+  n29 --- n31
+  n32["`Người chế tạo máy và nhà triết học, người quan sát mọi thứ, cũng đóng góp cải tiến`"]
+  n29 --- n32
+  n33["`Khoa học thành nghề của một tầng lớp riêng và tự chia thành nhiều ngành, kiến thức tăng nhanh`"]
+  n29 --- n33
+  n34["`Mục 8 — Sự giàu có lan tới tầng lớp thấp nhất`"]
+  n0 --- n34
+  n35["`Trong xã hội được tổ chức và cai trị tốt, mỗi người làm ra nhiều hơn mình cần và đổi phần dư`"]
+  n34 --- n35
+  n36["`Chiếc áo len thô cần người chăn cừu, chải len, nhuộm, xe sợi, dệt, chuội, may`"]
+  n34 --- n36
+  n37["`Thêm lái buôn, thuỷ thủ, thợ đóng tàu chở thuốc nhuộm từ nơi xa nhất thế giới`"]
+  n36 --- n37
+  n38["`Riêng chiếc kéo xén lông cừu đã cần thợ mỏ, thợ xây lò luyện, người đốt than củi, thợ rèn`"]
+  n36 --- n38
+  n39["`Không có hợp tác của hàng nghìn người, người nghèo nhất nước văn minh không có nổi đồ dùng đơn giản`"]
+  n34 --- n39
+  n40["`Ông hoàng châu Âu hơn người nông dân cần mẫn ít hơn người nông dân ấy hơn một ông vua châu Phi làm chủ mười nghìn người`"]
+  n34 --- n40
+  n41["`Đánh giá — Giới hạn và hệ quả của lập luận`"]
+  n0 --- n41
+  n42["`So sánh 4.800 với dưới 20 gộp cả máy móc và tay nghề, nên 240 lần là trần trên`"]
+  n41 --- n42
+  n43["`Xưởng ghim là khẳng định về cả hệ thống: chuyên môn hoá, công cụ, đào tạo, thị trường đủ lớn`"]
+  n41 --- n43
+  n44["`Mặt trái để ở Quyển V: làm vài thao tác suốt đời khiến người lao động ngu đần, cần giáo dục tiểu học công`"]
+  n41 --- n44
+  n45["`Cơ chế 3 (công nhân nghĩ ra máy) và hậu quả ở Quyển V kéo hai hướng ngược nhau, Smith không giải quyết`"]
+  n44 --- n45
+  n46["`Cơ giới hoá thế kỷ 20 làm năng suất nông nghiệp nước giàu tăng ngang hoặc hơn công nghiệp`"]
+  n41 --- n46
+  n47["`Khác biệt mức sống giữa các xã hội lớn hơn khác biệt trong một xã hội`"]
+  n41 --- n47
+  n48["`Việt Nam: năm 2024 Samsung xuất khẩu 54,4 tỷ USD, khoảng 13,4% xuất khẩu, FDI chiếm 71,7%`"]
+  n41 --- n48
+  n49["`Nông, lâm, thuỷ sản: 26% lao động, 11,86% GDP, năng suất bằng khoảng 45% bình quân chung`"]
+  n48 --- n49
+  n50["`Chỗ yếu là cơ chế 3: cải tiến diễn ra ở công ty mẹ, nhà cung cấp cấp một Việt Nam mới 306 năm 2023`"]
+  n48 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Của cải trên đầu người tăng chủ yếu nhờ tăng năng suất, và năng suất tăng chủ yếu nhờ phân công`"]
+  n51 --- n52
+  n53["`Phân công sinh ra cả kỹ năng, máy móc và tri thức, nên là động cơ tăng trưởng tự thân`"]
+  n51 --- n53
+  n54["`Phân công cần thị trường đủ rộng (Chương III) và một xã hội được cai trị tốt`"]
+  n51 --- n54
+  n55["`Nước muốn giàu không thể chỉ dựa vào nông nghiệp, mầm bất đồng giữa Smith và phái trọng nông`"]
+  n51 --- n55
+  class n0 root
+  class n1,n12,n21,n34,n41,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương I. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 32–38.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Trong đề cương, Smith nói của cải trên đầu người do hai yếu tố quyết định, và yếu tố quan trọng hơn là kỹ năng, sự khéo léo và óc phán đoán của người lao động. Chương này trả lời câu hỏi yếu tố đó đến từ đâu: chủ yếu từ phân công lao động.
+
+Ba chương tiếp theo hỏi tiếp: phân công sinh ra từ đâu (Chương II: từ thiên hướng trao đổi), cái gì giới hạn nó (Chương III: quy mô thị trường), và trao đổi cần công cụ gì (Chương IV: tiền).
+
+## Lưu ý về bản dịch
+
+- Bản dịch bỏ mất câu "Tôi đã thấy một xưởng nhỏ loại này" (*I have seen a small manufactory of this kind*) ở đầu đoạn về 10 công nhân; trong nguyên bản, Smith kể ông tận mắt thấy một xưởng như vậy, nơi vì chỉ có 10 người nên có người phải làm hai, ba thao tác.
+- "Những chiếc xe chữa cháy đầu tiên" là dịch sai chữ *fire-engines*: thời Smith chữ này chỉ **máy hơi nước** dùng để bơm nước (kiểu máy Newcomen), không phải xe cứu hoả; các chi tiết nồi hơi, xi lanh, piston, van chỉ có nghĩa với máy hơi nước.
+- Câu so sánh cuối chương bị dịch lệch: nguyên văn là tiện nghi của một ông hoàng châu Âu không hơn tiện nghi của người nông dân cần mẫn **nhiều bằng** tiện nghi của người nông dân ấy hơn tiện nghi của một ông vua châu Phi làm chủ sinh mạng mười nghìn người; bản dịch đổi "vua châu Phi" thành "người cầm đầu một bộ lạc trước đây".
+- "Ba Lan bán ngũ cốc cùng hạn rẻ" đúng ra là "cùng **hạng**", tức cùng chất lượng. "Pound" ở xưởng ghim là đơn vị **trọng lượng** (khoảng 0,45 kg), không phải đồng bảng.

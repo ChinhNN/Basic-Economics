@@ -1,11 +1,16 @@
 # Quyển II, Chương I — Phân chia vốn (Of the Division of Stock)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Chương I. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 265–272.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Lời giới thiệu Quyển II vừa khẳng định vốn tích luỹ phải đi trước phân công lao động. Chương này trả lời câu hỏi kế tiếp: vốn gồm những gì. Smith dựng một bảng phân loại ba phần (vốn tiêu dùng trước mắt, vốn cố định, vốn luân chuyển) và chứng minh mối quan hệ giữa chúng. Bảng phân loại này là công cụ cho Chương II, nơi ông xếp tiền vào vốn luân chuyển nhưng chứng minh nó hành xử giống vốn cố định, và cho Chương III, nơi ông phân biệt phần sản phẩm dùng để thay thế vốn và phần dùng làm thu nhập.
-**Ý chính:** Smith muốn chứng minh rằng mọi khối vốn, của cá nhân hay của cả quốc gia, tự nhiên chia ra một phần để tiêu dùng trước mắt (không sinh lợi) và một phần làm **tư bản** sinh lợi; tư bản lại chia thành **vốn cố định** (sinh lợi mà không đổi chủ: máy móc, nhà xưởng, đất đã cải tạo, tài năng của con người) và **vốn luân chuyển** (sinh lợi chỉ khi được bán đi rồi mua lại: tiền, lương thực, nguyên liệu, thành phẩm). Ông chứng minh rằng vốn cố định sinh ra từ vốn luân chuyển, chỉ sinh lợi nhờ vốn luân chuyển, và cả hai chỉ có một mục đích là nuôi phần vốn tiêu dùng; còn vốn luân chuyển được bổ sung liên tục từ sản phẩm của đất đai, mỏ và nghề cá. Kết thúc chương, ông chỉ ra rằng ở đâu có an ninh thì người ta dùng hết vốn vào ba cách đó; ở đâu bạo lực đe doạ thì người ta chôn giấu của cải.
+## Ý chính
 
-> **Lưu ý:** bản dịch dùng lẫn "tiền vốn", "vốn", "tư bản" cho "stock", và đôi khi dịch "stock" thành "tiền vốn" dù Smith đang nói về hàng hoá; đọc "tiền vốn" trong chương này là vốn nói chung, không phải tiền mặt. Định nghĩa vốn luân chuyển bị cắt cụt thành "thay đổi chút", đúng ra là "thay đổi chủ". "Master artificer" (thợ cả, chủ xưởng thủ công) bị dịch thành "chủ cửa hàng thủ công mỹ nghệ", làm mất nghĩa: Smith nói về mọi thợ thủ công, không riêng đồ mỹ nghệ. Câu "Còn chủ hiệu sản xuất các đồ thủ công mỹ nghệ thì cần nhiều tiền vốn luân chuyển hơn" thực ra ý gốc là: dù vậy, phần lớn vốn của mọi chủ xưởng như thế vẫn là vốn luân chuyển, nằm trong tiền công thợ và giá nguyên liệu. Câu kết đoạn nhà ở bị dịch phủ định ("chúng vẫn thực sự chưa được xem như vốn dành cho tiêu dùng trước mắt"); nguyên văn nói nhà ở, dù hao mòn chậm, vẫn là vốn tiêu dùng trước mắt. Ở đoạn cuối, bản dịch viết các mỏ chì, đồng, thiếc, than "cũng vậy" (tức thuộc nhà vua), ngược nguyên văn: các mỏ này, vì ít quan trọng hơn, được coi là thuộc chủ đất.
+Smith muốn chứng minh rằng mọi khối vốn, của cá nhân hay của cả quốc gia, tự nhiên chia ra một phần để tiêu dùng trước mắt (không sinh lợi) và một phần làm **tư bản** sinh lợi.
+
+Tư bản lại chia thành **vốn cố định** (sinh lợi mà không đổi chủ: máy móc, nhà xưởng, đất đã cải tạo, tài năng của con người) và **vốn luân chuyển** (sinh lợi chỉ khi được bán đi rồi mua lại: tiền, lương thực, nguyên liệu, thành phẩm).
+
+Ông chứng minh rằng vốn cố định sinh ra từ vốn luân chuyển, chỉ sinh lợi nhờ vốn luân chuyển, và cả hai chỉ có một mục đích là nuôi phần vốn tiêu dùng.
+
+Còn vốn luân chuyển được bổ sung liên tục từ sản phẩm của đất đai, mỏ và nghề cá.
+
+Kết thúc chương, ông chỉ ra rằng ở đâu có an ninh thì người ta dùng hết vốn vào ba cách đó. Ở đâu bạo lực đe doạ thì người ta chôn giấu của cải.
 
 ## Sơ đồ
 
@@ -402,3 +407,165 @@ Chỉ trong hai đoạn cuối, Smith đưa ra một lý thuyết hoàn chỉnh 
 **Đất và nhà.** Theo Smith, nhà để ở là vốn tiêu dùng, và nhà cho thuê chỉ chuyển thu nhập từ người thuê sang chủ nhà. Hiện tượng những khu đô thị và căn hộ mua để chờ tăng giá rồi bỏ trống nhiều năm là trường hợp cực đoan hơn mức Smith hình dung: một khoản vốn lớn đã rút khỏi vốn luân chuyển (xi măng, thép, tiền công thợ xây) để tạo ra một tài sản không cho ai ở và không làm ra gì. Đó là của cải bị "chôn" dưới dạng bê tông.
 
 **Vốn con người.** Ngược lại, khoản thứ tư của vốn cố định là chỗ Việt Nam đầu tư mạnh từ cấp hộ gia đình: chi tiêu cho giáo dục, học thêm, du học chiếm tỷ trọng lớn trong ngân sách hộ. Smith nhắc rằng khoản đầu tư này chỉ có ý nghĩa khi có vốn luân chuyển và vốn cố định đi kèm để tay nghề được sử dụng: một kỹ sư không có máy để vận hành cũng giống "máy tốt nhất không có nguyên liệu". Điều này giải thích một phần hiện tượng lao động có bằng cấp làm trái ngành hoặc di cư ra nước ngoài: vốn con người được tích luỹ nhanh hơn vốn hiện vật để sử dụng nó trong nước.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển II, Chương I trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết và phần Đánh giá (vốn cá nhân và hai cách dùng tư bản, vốn tiêu dùng trước mắt, bốn khoản vốn cố định và bốn khoản vốn luân chuyển của quốc gia, vòng quan hệ giữa ba phần vốn, an ninh và chôn giấu của cải, sức sống và giới hạn của bảng phân loại), mỗi nhánh ghi luận điểm, cơ chế và ví dụ của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển II, Chương I: vốn chia thành phần tiêu dùng, vốn cố định và vốn luân chuyển, và mọi tư bản chỉ để nuôi tiêu dùng`"]
+  n1["`Mục 1–2 — Vốn cá nhân: khi nào thành tư bản, và hai cách dùng tư bản`"]
+  n0 --- n1
+  n2["`Vốn chỉ đủ sống vài ngày, một tuần: thu nhập hoàn toàn do lao động, tình trạng của đại đa số người lao động nghèo`"]
+  n1 --- n2
+  n3["`Vốn đủ sống nhiều tháng, nhiều năm: phần lớn dùng thu lợi tức, chỉ giữ phần đủ tiêu dùng tới khi lợi tức về`"]
+  n1 --- n3
+  n4["`Tư bản là phần vốn dùng để đem lại lợi tức, phần còn lại dành cho tiêu dùng trước mắt`"]
+  n1 --- n4
+  n5["`Vốn luân chuyển sinh lợi chỉ khi rời chủ rồi quay lại dưới dạng khác, qua chuỗi trao đổi liên tiếp`"]
+  n1 --- n5
+  n6["`Vốn cố định sinh lợi mà không đổi chủ: cải tạo đất, máy móc, công cụ có ích`"]
+  n1 --- n6
+  n7["`Tỷ lệ vốn cố định theo nghề: nhà buôn gần như không có, thợ may chỉ một bọc kim, thợ giày, thợ dệt đắt dần`"]
+  n1 --- n7
+  n8["`Xưởng luyện sắt cần lò nấu quặng, lò rèn, máy cắt rất đắt, mỏ than cần máy bơm nước còn đắt hơn`"]
+  n7 --- n8
+  n9["`Thợ thủ công vẫn để phần lớn vốn ở tiền công thợ và giá nguyên liệu, tức vốn luân chuyển`"]
+  n7 --- n9
+  n10["`Tiêu chí là cách sinh lợi, không phải bản thân vật: bò vỗ béo để bán là luân chuyển, bò vắt sữa là cố định`"]
+  n1 --- n10
+  n11["`Nông cụ và giá mua súc vật kéo là cố định, tiền công và chi phí nuôi súc vật kéo là luân chuyển`"]
+  n10 --- n11
+  n12["`Hạt giống là vốn cố định: ra đồng rồi về kho, không đổi chủ, lợi nhuận đến từ việc nảy nở`"]
+  n10 --- n12
+  n13["`Mục 3 — Vốn tiêu dùng trước mắt: không đem lại lợi tức`"]
+  n0 --- n13
+  n14["`Gồm lương thực, quần áo, đồ đạc đã mua chưa dùng hết, và nhà ở`"]
+  n13 --- n14
+  n15["`Nhà để ở không còn là vốn với chủ nhà: là khoản chi tiêu, không phải nguồn thu nhập`"]
+  n13 --- n15
+  n16["`Nhà cho thuê sinh lợi cho chủ nhà, nhưng người thuê trả bằng thu nhập từ lao động, vốn hay đất ở nơi khác`"]
+  n13 --- n16
+  n17["`Nên không thêm gì vào thu nhập cả xã hội: thợ làm ra 100 đồng, trả 10 đồng tiền thuê, xã hội vẫn 100`"]
+  n16 --- n17
+  n18["`Cho thuê quần áo hoá trang, đồ đạc, kiệu và cờ phướn tang lễ cũng lấy lợi tức từ thu nhập khác của người thuê`"]
+  n13 --- n18
+  n19["`Nhà hao mòn chậm nhất: quần áo vài năm, đồ đạc nửa thế kỷ đến một thế kỷ, nhà nhiều thế kỷ, vẫn là vốn tiêu dùng`"]
+  n13 --- n19
+  n20["`Mục 4–5 — Vốn của quốc gia: vốn cố định và vốn luân chuyển, mỗi loại bốn khoản`"]
+  n0 --- n20
+  n21["`Tổng vốn một nước bằng tổng vốn mọi cư dân, nên cũng chia ba phần, mỗi phần một chức năng`"]
+  n20 --- n21
+  n22["`Vốn cố định: sinh lợi mà không luân chuyển, không đổi chủ`"]
+  n20 --- n22
+  n23["`Máy móc và công cụ hữu ích làm nhẹ và rút ngắn lao động`"]
+  n22 --- n23
+  n24["`Nhà cửa sinh lợi: cửa hàng, kho, xưởng, chuồng gia súc, vựa thóc, cũng là một loại công cụ`"]
+  n22 --- n24
+  n25["`Đất đã cải tạo (phát quang, tiêu nước, rào, bón phân) như một cỗ máy, có lợi và bền hơn máy`"]
+  n22 --- n25
+  n26["`Tài năng hữu ích đã học được: tốn chi phí học, hoàn lại chi phí cộng lợi nhuận, tức vốn con người`"]
+  n22 --- n26
+  n27["`Tài năng là tài sản riêng của người đó và cũng là tài sản chung của xã hội`"]
+  n22 --- n27
+  n28["`Vốn luân chuyển: sinh lợi chỉ qua luân chuyển hay đổi chủ`"]
+  n20 --- n28
+  n29["`Tiền: nhờ nó ba khoản kia được lưu thông và phân phối tới người tiêu dùng`"]
+  n28 --- n29
+  n30["`Lương thực trong tay người bán thịt, người chăn nuôi, chủ trại, người buôn ngũ cốc, người nấu bia`"]
+  n28 --- n30
+  n31["`Nguyên liệu thô hay chế biến một phần, trong tay người trồng, nhà sản xuất, người buôn vải, buôn gỗ`"]
+  n28 --- n31
+  n32["`Thành phẩm chưa tới người tiêu dùng, trong cửa hàng thợ rèn, thợ kim hoàn, người buôn đồ sứ`"]
+  n28 --- n32
+  n33["`Cả bốn khoản đang trên đường tới người tiêu dùng: bao gạo vào bếp thì sang vốn tiêu dùng`"]
+  n28 --- n33
+  n34["`Mục 6 — Ba phần vốn nối với nhau thành một vòng`"]
+  n0 --- n34
+  n35["`Lương thực, nguyên liệu, thành phẩm liên tục được rút khỏi vốn luân chuyển vào vốn cố định hoặc vốn tiêu dùng`"]
+  n34 --- n35
+  n36["`Mọi vốn cố định ban đầu sinh ra từ vốn luân chuyển và phải được nó liên tục bảo dưỡng`"]
+  n34 --- n36
+  n37["`Vốn cố định chỉ sinh lợi nhờ vốn luân chuyển: máy tốt nhất cần nguyên liệu và thợ, đất màu mỡ cần tiền công người cày`"]
+  n34 --- n37
+  n38["`Mục đích duy nhất của cả hai là duy trì và tăng vốn tiêu dùng, dân giàu hay nghèo tuỳ mức cung cấp dư dật hay dè sẻn`"]
+  n34 --- n38
+  n39["`Vốn luân chuyển bị rút liên tục nên được bổ sung liên tục bằng sản phẩm của đất đai, mỏ và nghề cá`"]
+  n34 --- n39
+  n40["`Mỏ cung cấp kim loại cho phần tiền, vốn cũng hao mòn, mất mát, đưa ra nước ngoài, nên cần bổ sung dù ít`"]
+  n39 --- n40
+  n41["`Đất đai còn thay thế một phần vốn của mỏ và nghề cá`"]
+  n39 --- n41
+  n42["`Nông thôn thay lương thực và nguyên liệu cho thành thị, thành thị thay thành phẩm, tiền chỉ làm trung gian`"]
+  n34 --- n42
+  n43["`Sản lượng tỷ lệ với vốn khi độ màu mỡ ngang nhau, tỷ lệ với độ màu mỡ khi vốn ngang nhau`"]
+  n34 --- n43
+  n44["`Mục 7 — An ninh quyết định vốn được dùng hay bị chôn giấu`"]
+  n0 --- n44
+  n45["`Nơi có an ninh, người bình thường dùng mọi vốn, của mình hay đi vay, vào một trong ba cách, không làm vậy là điên dại`"]
+  n44 --- n45
+  n46["`Nơi bạo lực của bề trên đe doạ, người ta chôn giấu của cải hoặc giữ ở dạng mang đi được ngay`"]
+  n44 --- n46
+  n47["`Thói quen ở Thổ Nhĩ Kỳ, Ấn Độ, châu Á và cả tổ tiên người Anh thời phong kiến: phản ứng hợp lý, không phải bản tính`"]
+  n44 --- n47
+  n48["`Kho báu vô chủ thuộc nhà vua, từng là nguồn thu không nhỏ của các vua lớn nhất châu Âu`"]
+  n44 --- n48
+  n49["`Mỏ vàng, mỏ bạc được đối xử như kho báu, còn mỏ chì, đồng, thiếc, than thuộc quyền chủ đất`"]
+  n44 --- n49
+  n50["`Đánh giá — Sức sống và giới hạn của bảng phân loại`"]
+  n0 --- n50
+  n51["`Tiêu chí đổi chủ là gốc của fixed capital và working capital, nhưng xếp hạt giống tiêu hao trong một vụ vào vốn cố định`"]
+  n50 --- n51
+  n52["`Từ Ricardo, kinh tế học dùng tiêu chí độ bền, theo đó hạt giống là vốn lưu động`"]
+  n51 --- n52
+  n53["`Xếp tài năng vào vốn cố định đi trước hai thế kỷ, Becker và Schultz chính thức hoá vào những năm 1960`"]
+  n50 --- n53
+  n54["`Mâu thuẫn ngầm với Chương III: bác sĩ, luật sư, giáo viên dùng tài năng nhưng bị xếp vào lao động phi sản xuất`"]
+  n50 --- n54
+  n55["`Coi tiền thuê nhà là chuyển giao chứng minh quá nhiều, tài khoản quốc gia nay tính tiền thuê nhà quy đổi vào GDP`"]
+  n50 --- n55
+  n56["`Đoạn chôn của cải giải thích theo thể chế, không theo văn hoá, tiền thân của North và Acemoglu–Robinson`"]
+  n50 --- n56
+  n57["`Với Việt Nam: vàng, đất và nhà bỏ trống là của cải được giữ mà không làm việc`"]
+  n50 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Vốn phân loại theo cách sinh lợi: giữ lại để dùng là cố định, bán đi rồi quay lại là luân chuyển`"]
+  n58 --- n59
+  n60["`Mọi tư bản tồn tại để nuôi tiêu dùng, sự giàu có đo bằng lượng hàng tiêu dùng mà tư bản cung cấp`"]
+  n58 --- n60
+  n61["`An ninh tài sản là điều kiện thể chế để tích luỹ trở thành đầu tư`"]
+  n58 --- n61
+  n62["`Mở đường cho Chương II về tiền như cỗ máy lưu thông và Chương III về lao động sản xuất`"]
+  n58 --- n62
+  class n0 root
+  class n1,n13,n20,n34,n44,n50,n58 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Chương I. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 265–272.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Lời giới thiệu Quyển II vừa khẳng định vốn tích luỹ phải đi trước phân công lao động. Chương này trả lời câu hỏi kế tiếp: vốn gồm những gì. Smith dựng một bảng phân loại ba phần (vốn tiêu dùng trước mắt, vốn cố định, vốn luân chuyển) và chứng minh mối quan hệ giữa chúng.
+
+Bảng phân loại này là công cụ cho Chương II, nơi ông xếp tiền vào vốn luân chuyển nhưng chứng minh nó hành xử giống vốn cố định, và cho Chương III, nơi ông phân biệt phần sản phẩm dùng để thay thế vốn và phần dùng làm thu nhập.
+
+## Lưu ý
+
+- Bản dịch dùng lẫn "tiền vốn", "vốn", "tư bản" cho "stock", và đôi khi dịch "stock" thành "tiền vốn" dù Smith đang nói về hàng hoá. Đọc "tiền vốn" trong chương này là vốn nói chung, không phải tiền mặt.
+- Định nghĩa vốn luân chuyển bị cắt cụt thành "thay đổi chút", đúng ra là "thay đổi chủ".
+- "Master artificer" (thợ cả, chủ xưởng thủ công) bị dịch thành "chủ cửa hàng thủ công mỹ nghệ", làm mất nghĩa: Smith nói về mọi thợ thủ công, không riêng đồ mỹ nghệ. Câu "Còn chủ hiệu sản xuất các đồ thủ công mỹ nghệ thì cần nhiều tiền vốn luân chuyển hơn" thực ra ý gốc là: dù vậy, phần lớn vốn của mọi chủ xưởng như thế vẫn là vốn luân chuyển, nằm trong tiền công thợ và giá nguyên liệu.
+- Câu kết đoạn nhà ở bị dịch phủ định ("chúng vẫn thực sự chưa được xem như vốn dành cho tiêu dùng trước mắt"). Nguyên văn nói nhà ở, dù hao mòn chậm, vẫn là vốn tiêu dùng trước mắt.
+- Ở đoạn cuối, bản dịch viết các mỏ chì, đồng, thiếc, than "cũng vậy" (tức thuộc nhà vua), ngược nguyên văn: các mỏ này, vì ít quan trọng hơn, được coi là thuộc chủ đất.

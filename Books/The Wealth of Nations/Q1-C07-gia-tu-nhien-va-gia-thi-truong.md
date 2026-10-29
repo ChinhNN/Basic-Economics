@@ -1,11 +1,14 @@
 # Quyển I, Chương VII — Giá tự nhiên và giá thị trường của hàng hoá (Of the Natural and Market Price of Commodities)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương VII. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 76–84.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển I, Chương VI đã chia giá thành ba phần (tiền lương, lợi nhuận, địa tô). Chương VII ghép ba phần ấy với khái niệm "tỷ suất tự nhiên" để định nghĩa **giá tự nhiên**, rồi giải thích vì sao giá thị trường dao động quanh nó và vì sao đôi khi bị giữ trên nó rất lâu. Đây là chương lý thuyết giá trung tâm của cả bộ sách: mọi phê phán của Smith về độc quyền, đặc quyền phường hội và chính sách trọng thương ở Quyển IV đều dựa vào lập luận rằng các quy định ấy giữ giá thị trường trên giá tự nhiên. Cuối chương, Smith vạch kế hoạch cho bốn chương sau: tiền lương (VIII), lợi nhuận (IX), chênh lệch lương và lợi nhuận giữa các nghề (X), và địa tô (XI).
-**Ý chính:** Smith muốn chứng minh rằng **trong điều kiện tự do hoàn toàn, giá thị trường của mọi hàng hoá luôn bị kéo về giá tự nhiên**, tức mức giá vừa đủ trả lương, lợi nhuận và địa tô theo tỷ suất thông thường. Cơ chế là sự di chuyển của đất, lao động và vốn: khi giá thị trường dưới giá tự nhiên, một cấu phần nào đó bị trả dưới mức thông thường, chủ của nó rút ra, lượng cung giảm, giá lên; khi giá trên giá tự nhiên thì ngược lại. Giá tự nhiên vì thế là "giá trung tâm". Giá thị trường có thể bị giữ **trên** giá tự nhiên rất lâu vì ba loại nguyên nhân: bí mật thương mại hay sản xuất, điều kiện tự nhiên khan hiếm (đất trồng nho đặc biệt), và quy định của nhà nước (độc quyền, đặc quyền phường hội, luật học nghề). Nhưng nó hiếm khi bị giữ **dưới** giá tự nhiên lâu, trừ khi có sự cưỡng chế cực đoan như chế độ đẳng cấp ở Ấn Độ hay Ai Cập cổ đại.
+## Ý chính
 
-> **Lưu ý:** (1) Câu "đó là giá thấp nhất mà anh ta có thể bán hàng bất cứ lúc nào" dịch sai: nguyên văn là giá có lợi nhuận thông thường không phải luôn là giá thấp nhất người buôn đôi khi bán, nhưng là giá thấp nhất anh ta có thể bán *trong một thời gian đáng kể*, ít nhất ở nơi có tự do hoàn toàn để đổi nghề. Bản dịch còn bỏ mất điều kiện "tự do hoàn toàn". (2) "Giá thực mà một loại hàng thường được bán gọi là giá thị trường": chữ "giá thực" ở đây là *actual price* (giá thực tế giao dịch), không phải "giá thực" (*real price*, giá tính bằng lao động) của Chương V. (3) Đoạn về lượng cung bị dịch sai chủ thể: nguyên văn nói rằng **người dùng đất, lao động, vốn** để đưa hàng ra chợ có lợi ích ở chỗ lượng hàng không bao giờ vượt cầu hữu hiệu, còn **mọi người khác** (người mua) có lợi ích ở chỗ nó không bao giờ thiếu. Bản dịch gán cả hai lợi ích cho người sản xuất, làm mất ý hai phía có lợi ích đối nghịch. (4) Đoạn về việc che giấu giá cao bị dịch sai chữ *stock*: nguyên văn là "những người dùng **vốn** của mình để cung cấp cho thị trường ấy" thường cẩn thận che giấu sự thay đổi, vì nếu lộ ra, lợi nhuận cao sẽ lôi kéo đối thủ mới đưa vốn vào. Bản dịch hiểu *stock* là hàng tồn kho ("dùng số hàng dự trữ trong kho của họ tung ra bán"). (5) Cụm "không đáp ứng quy luật cung và cầu" ở cuối đoạn về nông sản là thêm vào; Smith không dùng cụm "quy luật cung và cầu" ở đây. (6) Đoạn về người thợ nhuộm bị vỡ nghĩa: nguyên văn là khoản lời đặc biệt của ông thực chất là *tiền công cao* cho lao động riêng của ông, nhưng vì nó lặp lại trên mọi phần vốn và tổng của nó tỷ lệ đều với vốn, nên thường được coi là *lợi nhuận đặc biệt của vốn*. (7) Đoạn về luật học nghề bỏ mất ý bất đối xứng: nguyên văn nói tác dụng của các luật ấy trong việc **hạ** lương dưới tỷ suất tự nhiên kém bền hơn nhiều so với việc **nâng** lương lên trên. (8) Lỗi gõ: "tiền thuế đất đai" là "tiền thuê đất đai"; "số thực chỉ" là "số thực chi"; "của học" là "của họ"; "vải lên" là "vải len". (9) Bản dịch dùng "tiền lãi" cho *profit* trong đoạn định nghĩa giá tự nhiên; đó là lợi nhuận, không phải lãi vay.
+Smith muốn chứng minh rằng **trong điều kiện tự do hoàn toàn, giá thị trường của mọi hàng hoá luôn bị kéo về giá tự nhiên**, tức mức giá vừa đủ trả lương, lợi nhuận và địa tô theo tỷ suất thông thường.
+
+Cơ chế là sự di chuyển của đất, lao động và vốn: khi giá thị trường dưới giá tự nhiên, một cấu phần nào đó bị trả dưới mức thông thường, chủ của nó rút ra, lượng cung giảm, giá lên; khi giá trên giá tự nhiên thì ngược lại. Giá tự nhiên vì thế là "giá trung tâm".
+
+Giá thị trường có thể bị giữ **trên** giá tự nhiên rất lâu vì ba loại nguyên nhân: bí mật thương mại hay sản xuất, điều kiện tự nhiên khan hiếm (đất trồng nho đặc biệt), và quy định của nhà nước (độc quyền, đặc quyền phường hội, luật học nghề).
+
+Nhưng nó hiếm khi bị giữ **dưới** giá tự nhiên lâu, trừ khi có sự cưỡng chế cực đoan như chế độ đẳng cấp ở Ấn Độ hay Ai Cập cổ đại.
 
 ## Sơ đồ
 
@@ -329,7 +332,9 @@ Dù giá thị trường luôn hướng về giá tự nhiên, Smith thừa nh�
 
 **Bí mật sản xuất** giữ được lâu hơn bí mật thương mại. Ví dụ của Smith: một thợ nhuộm tìm ra cách làm một màu nhuộm với nguyên liệu chỉ tốn một nửa giá nguyên liệu thường dùng. Nếu khéo giữ bí mật, ông có thể hưởng lợi suốt đời và để lại cho con cháu. Smith phân tích bản chất của khoản lời này: nó đến từ giá cao trả cho lao động riêng của ông (cái biết cách làm), nên thực chất là **tiền công cao**. Nhưng vì nó lặp lại trên mọi phần vốn của ông, và tổng của nó tỷ lệ đều với vốn, nên nó thường được coi là lợi nhuận đặc biệt của vốn. Những đợt tăng giá thị trường như vậy rõ ràng là kết quả của sự cố đặc biệt, dù tác động có thể kéo dài nhiều năm.
 
-**Nguyên nhân tự nhiên.** Một số sản vật tự nhiên đòi hỏi loại đất và vị trí đặc biệt đến mức toàn bộ đất phù hợp trong một nước lớn cũng không đủ để đáp ứng cầu hữu hiệu. Khi đó toàn bộ lượng đưa ra chợ có thể bán cho những người sẵn sàng trả cao hơn mức đủ trả địa tô, lương và lợi nhuận theo tỷ suất tự nhiên. Phần trả trên tỷ suất tự nhiên ở đây thường là **địa tô**. Ví dụ: tiền thuê của một số vườn nho ở Pháp có đất và vị trí đặc biệt thuận lợi không theo tỷ lệ nào với tiền thuê của những mảnh đất màu mỡ và được chăm bón tốt như thế ngay bên cạnh. Ngược lại, lương và lợi nhuận của lao động và vốn dùng để đưa loại rượu ấy ra chợ hiếm khi lệch khỏi mức thông thường ở vùng lân cận. Những đợt tăng giá do nguyên nhân tự nhiên có thể kéo dài mãi mãi, vì không ai tạo thêm được đất như thế.
+**Nguyên nhân tự nhiên.** Một số sản vật tự nhiên đòi hỏi loại đất và vị trí đặc biệt đến mức toàn bộ đất phù hợp trong một nước lớn cũng không đủ để đáp ứng cầu hữu hiệu. Khi đó toàn bộ lượng đưa ra chợ có thể bán cho những người sẵn sàng trả cao hơn mức đủ trả địa tô, lương và lợi nhuận theo tỷ suất tự nhiên. Phần trả trên tỷ suất tự nhiên ở đây thường là **địa tô**.
+
+Ví dụ: tiền thuê của một số vườn nho ở Pháp có đất và vị trí đặc biệt thuận lợi không theo tỷ lệ nào với tiền thuê của những mảnh đất màu mỡ và được chăm bón tốt như thế ngay bên cạnh. Ngược lại, lương và lợi nhuận của lao động và vốn dùng để đưa loại rượu ấy ra chợ hiếm khi lệch khỏi mức thông thường ở vùng lân cận. Những đợt tăng giá do nguyên nhân tự nhiên có thể kéo dài mãi mãi, vì không ai tạo thêm được đất như thế.
 
 **Quy định của nhà nước: độc quyền.** Một độc quyền trao cho một cá nhân hay một công ty thương mại có tác dụng giống như một bí mật thương mại hay sản xuất. Người độc quyền giữ thị trường **luôn thiếu hàng**, không bao giờ đáp ứng đầy đủ cầu hữu hiệu. Nhờ đó họ bán hàng cao hơn nhiều so với giá tự nhiên, và nâng thu nhập của mình, dù là lương hay lợi nhuận, cao hơn nhiều so với tỷ suất tự nhiên.
 
@@ -467,6 +472,160 @@ Ví dụ cam và sắt vụn của Smith có một bản sao gần như hoàn h�
 
 Phân biệt ngành bấp bênh và ngành ổn định cũng giải thích chu kỳ giá nông sản quen thuộc, như chu kỳ giá lợn hơi. Khi dịch tả lợn châu Phi làm giảm mạnh đàn lợn, giá vọt lên trên giá tự nhiên; người chăn nuôi đổ vốn tái đàn; khi nguồn cung phục hồi, giá lại rơi xuống dưới chi phí. Cơ chế kéo về giá tự nhiên của Smith vận hành, nhưng với độ trễ của chu kỳ sinh học, nên nó thể hiện thành những vòng dao động chứ không phải một sự trở về êm ả.
 
-Phần về độc quyền và phường hội thì áp dụng cho hai nhóm. Nhóm thứ nhất là các độc quyền nhà nước như điện, nơi giá không do cạnh tranh quyết định nên câu hỏi Smith đặt ra trở thành câu hỏi điều tiết: giá có phản ánh đúng chi phí theo tỷ suất thông thường không, và nếu thấp hơn, ai bù phần thiếu. Nhóm thứ hai, có lẽ quan trọng hơn, là hệ thống "điều kiện kinh doanh" và "giấy phép con". Đó là phiên bản hiện đại của luật học nghề và đặc quyền phường hội: mỗi điều kiện tự nó có vẻ hợp lý, nhưng tác dụng chung là giới hạn số người được vào một ngành, giữ giá và lợi nhuận của những người đã ở trong ngành cao hơn mức cạnh tranh. Logic bất đối xứng của Smith dự báo rằng những điều kiện này sẽ khó gỡ bỏ hơn nhiều so với việc đặt ra chúng, vì những người hưởng lợi có động cơ tập trung để bảo vệ chúng. Các đợt cắt giảm điều kiện kinh doanh từ cuối thập niên 2010 cho thấy đúng điều đó: cắt được trên giấy thì dễ, nhưng các điều kiện mới vẫn tiếp tục xuất hiện.
+Phần về độc quyền và phường hội thì áp dụng cho hai nhóm. Nhóm thứ nhất là các độc quyền nhà nước như điện, nơi giá không do cạnh tranh quyết định nên câu hỏi Smith đặt ra trở thành câu hỏi điều tiết: giá có phản ánh đúng chi phí theo tỷ suất thông thường không, và nếu thấp hơn, ai bù phần thiếu.
 
-Cuối cùng, ví dụ vườn nho Pháp có một bản tương ứng đầy hứa hẹn ở Việt Nam: chỉ dẫn địa lý cho cà phê Buôn Ma Thuột, nước mắm Phú Quốc, vải thiều Lục Ngạn, gạo Tám xoan Hải Hậu. Theo Smith, khi một sản phẩm gắn với đất và vị trí đặc biệt được thị trường nhận ra là khác biệt, phần giá vượt giá tự nhiên sẽ chảy về **địa tô**, tức về người nắm đất, chứ không về người lao động hay người bỏ vốn chế biến. Hệ quả chính sách cụ thể là: nếu muốn phần giá trị cao hơn ấy đến được tay nông dân, thì quyền sử dụng đất trong vùng chỉ dẫn địa lý phải nằm ở họ, và việc kiểm soát ai được dùng tên vùng phải chặt. Nếu không, giá trị của thương hiệu vùng sẽ được hấp thụ vào giá đất và giá thuê đất, đúng như Smith dự đoán.
+Nhóm thứ hai, có lẽ quan trọng hơn, là hệ thống "điều kiện kinh doanh" và "giấy phép con". Đó là phiên bản hiện đại của luật học nghề và đặc quyền phường hội: mỗi điều kiện tự nó có vẻ hợp lý, nhưng tác dụng chung là giới hạn số người được vào một ngành, giữ giá và lợi nhuận của những người đã ở trong ngành cao hơn mức cạnh tranh.
+
+Logic bất đối xứng của Smith dự báo rằng những điều kiện này sẽ khó gỡ bỏ hơn nhiều so với việc đặt ra chúng, vì những người hưởng lợi có động cơ tập trung để bảo vệ chúng. Các đợt cắt giảm điều kiện kinh doanh từ cuối thập niên 2010 cho thấy đúng điều đó: cắt được trên giấy thì dễ, nhưng các điều kiện mới vẫn tiếp tục xuất hiện.
+
+Cuối cùng, ví dụ vườn nho Pháp có một bản tương ứng đầy hứa hẹn ở Việt Nam: chỉ dẫn địa lý cho cà phê Buôn Ma Thuột, nước mắm Phú Quốc, vải thiều Lục Ngạn, gạo Tám xoan Hải Hậu. Theo Smith, khi một sản phẩm gắn với đất và vị trí đặc biệt được thị trường nhận ra là khác biệt, phần giá vượt giá tự nhiên sẽ chảy về **địa tô**, tức về người nắm đất, chứ không về người lao động hay người bỏ vốn chế biến.
+
+Hệ quả chính sách cụ thể là: nếu muốn phần giá trị cao hơn ấy đến được tay nông dân, thì quyền sử dụng đất trong vùng chỉ dẫn địa lý phải nằm ở họ, và việc kiểm soát ai được dùng tên vùng phải chặt. Nếu không, giá trị của thương hiệu vùng sẽ được hấp thụ vào giá đất và giá thuê đất, đúng như Smith dự đoán.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương VII trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (giá tự nhiên và tỷ suất tự nhiên, giá thị trường và cầu hữu hiệu với ba trường hợp, cung tự điều chỉnh và biến động tạm thời, ba nguyên nhân giữ giá trên giá tự nhiên, bất đối xứng và kế hoạch bốn chương tiếp), mỗi nhánh ghi định nghĩa, cơ chế và ví dụ then chốt của Smith; nhánh cuối là thông điệp xuyên suốt, gồm hàm ý chính sách và phê phán chủ nghĩa trọng thương.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương VII: trong tự do hoàn toàn, giá thị trường luôn bị kéo về giá tự nhiên`"]
+  n1["`Mục 1 — Giá tự nhiên là giá vừa đủ trả địa tô, lương, lợi nhuận theo tỷ suất tự nhiên`"]
+  n0 --- n1
+  n2["`Mỗi xã hội có tỷ suất thông thường của lương, lợi nhuận, địa tô, gọi là tỷ suất tự nhiên`"]
+  n1 --- n2
+  n3["`Lương và lợi nhuận tuỳ xã hội giàu hay nghèo, tiến, đứng yên hay lùi, và tính chất từng nghề`"]
+  n2 --- n3
+  n4["`Địa tô tuỳ hoàn cảnh chung và độ màu mỡ tự nhiên hay nhân tạo của đất`"]
+  n2 --- n4
+  n5["`Bán ở giá tự nhiên là bán #quot;đúng giá trị#quot;, đúng cái hàng thực sự tốn`"]
+  n1 --- n5
+  n6["`Lợi nhuận thông thường là chi phí: dùng vốn vào việc khác thì đã có nó (chi phí cơ hội)`"]
+  n1 --- n6
+  n7["`Lợi nhuận là nguồn sống người bán, người ứng trước lương thợ và đồ sinh sống cho mình`"]
+  n1 --- n7
+  n8["`Giá tự nhiên là giá thấp nhất người bán nhận được trong một thời gian đáng kể, nơi có tự do hoàn toàn`"]
+  n1 --- n8
+  n9["`Mục 2–3 — Giá thị trường do tỷ lệ lượng đưa ra chợ so với cầu hữu hiệu`"]
+  n0 --- n9
+  n10["`Giá thị trường là giá thực tế (actual price) hàng thường được bán, có thể trên, dưới hay bằng giá tự nhiên`"]
+  n9 --- n10
+  n11["`Cầu hữu hiệu là cầu của người sẵn sàng trả giá tự nhiên, đủ để đưa hàng ra chợ`"]
+  n9 --- n11
+  n12["`Người rất nghèo muốn cỗ xe sáu ngựa chỉ có cầu tuyệt đối, xe không bao giờ được đưa ra chợ cho anh ta`"]
+  n11 --- n12
+  n13["`Thiếu hàng: người mua cạnh tranh, giá trên giá tự nhiên`"]
+  n9 --- n13
+  n14["`Thành phố bị vây hay nạn đói đẩy giá đồ thiết yếu lên cực cao`"]
+  n13 --- n14
+  n15["`Thừa hàng: người bán cạnh tranh, giá dưới giá tự nhiên, tuỳ độ cần bán ngay`"]
+  n9 --- n15
+  n16["`Thừa cam dễ hỏng gây cạnh tranh mạnh hơn nhiều so với thừa sắt vụn bền`"]
+  n15 --- n16
+  n17["`Vừa đủ: giá bằng hoặc gần giá tự nhiên, cạnh tranh không buộc người bán nhận thấp hơn`"]
+  n9 --- n17
+  n18["`Mục 4–6 — Cung tự điều chỉnh, giá tự nhiên là giá trung tâm`"]
+  n0 --- n18
+  n19["`Người sản xuất muốn lượng hàng không vượt cầu hữu hiệu, mọi người khác muốn nó không thiếu`"]
+  n18 --- n19
+  n20["`Giá dưới giá tự nhiên: địa chủ rút đất, người lao động rút lao động, chủ rút vốn, cung giảm, giá lên`"]
+  n18 --- n20
+  n21["`Giá trên giá tự nhiên: chủ khác đưa thêm đất, lao động, vốn vào, cung tăng, giá xuống`"]
+  n18 --- n21
+  n22["`#quot;Giá tự nhiên là giá trung tâm mà tất cả các giá hàng hóa luôn luôn hướng về đó#quot;`"]
+  n18 --- n22
+  n23["`Giá thị trường dao động quanh giá tự nhiên, không luôn bằng nó`"]
+  n22 --- n23
+  n24["`Ngành bấp bênh như ngũ cốc, rượu vang, dầu, hoa bia dao động giá cả khi cầu không đổi`"]
+  n18 --- n24
+  n25["`Ngành dệt vải lanh, vải len cho sản lượng gần như như nhau, giá chỉ đổi theo cầu`"]
+  n24 --- n25
+  n26["`Biến động tạm thời rơi chủ yếu lên lương và lợi nhuận, ít lên địa tô`"]
+  n18 --- n26
+  n27["`Địa tô bằng tiền không đổi, địa tô bằng nông sản đặt theo giá trung bình nên tỷ suất hiếm đổi`"]
+  n26 --- n27
+  n28["`Quốc tang: giá vải đen và lợi nhuận người có vải đen tăng, lương thợ dệt không đổi`"]
+  n18 --- n28
+  n29["`Lương thợ may công nhật tăng vì thiếu lao động`"]
+  n28 --- n29
+  n30["`Giá lụa, vải màu giảm, lương thợ làm hàng màu giảm vì cầu ngừng 6 tháng, có khi 1 năm`"]
+  n28 --- n30
+  n31["`Mục 7 — Ba loại nguyên nhân giữ giá thị trường trên giá tự nhiên lâu dài`"]
+  n0 --- n31
+  n32["`Bí mật thương mại: người dùng vốn che giấu cầu tăng, giữ được vài năm nếu thị trường ở xa`"]
+  n31 --- n32
+  n33["`Bí mật sản xuất giữ lâu hơn: thợ nhuộm dùng nguyên liệu chỉ tốn một nửa giá, hưởng suốt đời`"]
+  n31 --- n33
+  n34["`Khoản lời thực chất là tiền công cao, nhưng gọi là lợi nhuận vì tỷ lệ đều với vốn`"]
+  n33 --- n34
+  n35["`Nguyên nhân tự nhiên: đất và vị trí đặc biệt không đủ cho cầu, phần trội là địa tô, có thể mãi mãi`"]
+  n31 --- n35
+  n36["`Tiền thuê một số vườn nho ở Pháp không theo tỷ lệ nào với đất tốt ngay bên cạnh`"]
+  n35 --- n36
+  n37["`Độc quyền giữ thị trường luôn thiếu hàng, nâng giá và thu nhập cao hơn nhiều so với tự nhiên`"]
+  n31 --- n37
+  n38["`Giá độc quyền là giá cao nhất lấy được, giá tự nhiên là giá thấp nhất nhận được trong thời gian dài`"]
+  n31 --- n38
+  n39["`Đặc quyền phường hội, luật học nghề là #quot;độc quyền mở rộng#quot;, kéo dài chừng nào quy định còn`"]
+  n31 --- n39
+  n40["`Mục 8–9 — Bất đối xứng và giá tự nhiên tự nó thay đổi`"]
+  n0 --- n40
+  n41["`Giá có thể ở trên giá tự nhiên lâu, nhưng hiếm khi ở dưới lâu vì người bị thiệt rút ra ngay`"]
+  n40 --- n41
+  n42["`Luật học nghề lúc ngành thịnh giữ lương trên tự nhiên có thể nhiều thế kỷ`"]
+  n40 --- n42
+  n43["`Lúc ngành suy, lương dưới tự nhiên chỉ kéo dài bằng đời những người thợ đã được đào tạo`"]
+  n42 --- n43
+  n44["`Chỉ cưỡng chế như Ấn Độ, Ai Cập cổ đại, bắt con theo nghề cha, mới giữ lương dưới tự nhiên nhiều thế hệ`"]
+  n40 --- n44
+  n45["`Giá tự nhiên đổi theo tỷ suất lương, lợi nhuận, địa tô, tuỳ xã hội giàu, nghèo, tiến, lùi`"]
+  n40 --- n45
+  n46["`Kế hoạch: lương (Chương VIII), lợi nhuận (IX), chênh lệch giữa các nghề (X), địa tô (XI)`"]
+  n45 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Không cần nhà nước điều chỉnh giá, nó tự về giá tự nhiên nếu tự do gia nhập và rút lui`"]
+  n47 --- n48
+  n49["`Độc quyền, phường hội, luật học nghề giữ giá cao nhân tạo, có hại cho người mua, cần bãi bỏ`"]
+  n47 --- n49
+  n50["`Là nền móng cho toàn bộ phê phán chủ nghĩa trọng thương ở Quyển IV`"]
+  n47 --- n50
+  n51["`Lợi nhuận bất thường tạo động cơ tự bảo vệ, thua lỗ bất thường thì tự giải quyết`"]
+  n47 --- n51
+  n52["`Giả định ngầm: chi phí không đổi theo quy mô, đường cung dài hạn nằm ngang`"]
+  n47 --- n52
+  class n0 root
+  class n1,n9,n18,n31,n40,n47 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương VII. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 76–84.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển I, Chương VI đã chia giá thành ba phần (tiền lương, lợi nhuận, địa tô). Chương VII ghép ba phần ấy với khái niệm "tỷ suất tự nhiên" để định nghĩa **giá tự nhiên**, rồi giải thích vì sao giá thị trường dao động quanh nó và vì sao đôi khi bị giữ trên nó rất lâu.
+
+Đây là chương lý thuyết giá trung tâm của cả bộ sách: mọi phê phán của Smith về độc quyền, đặc quyền phường hội và chính sách trọng thương ở Quyển IV đều dựa vào lập luận rằng các quy định ấy giữ giá thị trường trên giá tự nhiên.
+
+Cuối chương, Smith vạch kế hoạch cho bốn chương sau: tiền lương (VIII), lợi nhuận (IX), chênh lệch lương và lợi nhuận giữa các nghề (X), và địa tô (XI).
+
+## Lưu ý
+
+- Câu "đó là giá thấp nhất mà anh ta có thể bán hàng bất cứ lúc nào" dịch sai: nguyên văn là giá có lợi nhuận thông thường không phải luôn là giá thấp nhất người buôn đôi khi bán, nhưng là giá thấp nhất anh ta có thể bán *trong một thời gian đáng kể*, ít nhất ở nơi có tự do hoàn toàn để đổi nghề. Bản dịch còn bỏ mất điều kiện "tự do hoàn toàn".
+- "Giá thực mà một loại hàng thường được bán gọi là giá thị trường": chữ "giá thực" ở đây là *actual price* (giá thực tế giao dịch), không phải "giá thực" (*real price*, giá tính bằng lao động) của Chương V.
+- Đoạn về lượng cung bị dịch sai chủ thể: nguyên văn nói rằng **người dùng đất, lao động, vốn** để đưa hàng ra chợ có lợi ích ở chỗ lượng hàng không bao giờ vượt cầu hữu hiệu, còn **mọi người khác** (người mua) có lợi ích ở chỗ nó không bao giờ thiếu. Bản dịch gán cả hai lợi ích cho người sản xuất, làm mất ý hai phía có lợi ích đối nghịch.
+- Đoạn về việc che giấu giá cao bị dịch sai chữ *stock*: nguyên văn là "những người dùng **vốn** của mình để cung cấp cho thị trường ấy" thường cẩn thận che giấu sự thay đổi, vì nếu lộ ra, lợi nhuận cao sẽ lôi kéo đối thủ mới đưa vốn vào. Bản dịch hiểu *stock* là hàng tồn kho ("dùng số hàng dự trữ trong kho của họ tung ra bán").
+- Cụm "không đáp ứng quy luật cung và cầu" ở cuối đoạn về nông sản là thêm vào; Smith không dùng cụm "quy luật cung và cầu" ở đây.
+- Đoạn về người thợ nhuộm bị vỡ nghĩa: nguyên văn là khoản lời đặc biệt của ông thực chất là *tiền công cao* cho lao động riêng của ông, nhưng vì nó lặp lại trên mọi phần vốn và tổng của nó tỷ lệ đều với vốn, nên thường được coi là *lợi nhuận đặc biệt của vốn*.
+- Đoạn về luật học nghề bỏ mất ý bất đối xứng: nguyên văn nói tác dụng của các luật ấy trong việc **hạ** lương dưới tỷ suất tự nhiên kém bền hơn nhiều so với việc **nâng** lương lên trên.
+- Lỗi gõ: "tiền thuế đất đai" là "tiền thuê đất đai"; "số thực chỉ" là "số thực chi"; "của học" là "của họ"; "vải lên" là "vải len".
+- Bản dịch dùng "tiền lãi" cho *profit* trong đoạn định nghĩa giá tự nhiên; đó là lợi nhuận, không phải lãi vay.

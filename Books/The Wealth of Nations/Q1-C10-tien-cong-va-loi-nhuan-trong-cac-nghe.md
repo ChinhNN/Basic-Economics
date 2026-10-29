@@ -1,23 +1,18 @@
 # Quyển I, Chương X — Tiền công và lợi nhuận trong các cách sử dụng lao động và vốn (Of Wages and Profit in the different Employments of Labour and Stock)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương X. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 116–154.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển I, Chương VII định nghĩa giá tự nhiên của một hàng hoá là mức giá vừa đủ trả tiền công, lợi nhuận và địa tô theo "tỷ suất thông thường" của nơi đó. Chương VIII và IX giải thích *mức chung* của tiền công (phụ thuộc vào việc quỹ trả lương đang tăng, đứng yên hay giảm) và của lợi nhuận (giảm dần khi vốn tích luỹ). Chương X trả lời câu hỏi còn lại: vì sao, quanh hai mức chung ấy, tiền công và lợi nhuận lại chênh nhau rất xa giữa các nghề, và chênh lệch nào là tự nhiên, chênh lệch nào do chính sách tạo ra. Phần II của chương mở đầu cho bản cáo trạng chống các đặc quyền và hạn chế mà Smith sẽ triển khai trong Quyển III (vì sao thành thị châu Âu được ưu đãi hơn nông thôn, trái với "trình tự tự nhiên của sự giàu có") và Quyển IV (hệ thống trọng thương).
-**Ý chính:** Smith muốn chứng minh rằng ở nơi có "tự do hoàn toàn", **tổng các lợi thế và bất lợi** (không phải tiền công bằng tiền) của mọi nghề trong cùng một vùng phải bằng nhau hoặc luôn hướng tới bằng nhau, vì người ta sẽ rời nghề kém lợi và đổ vào nghề có lợi. Vì vậy chênh lệch tiền công bằng tiền giữa các nghề phần lớn chỉ là **khoản bù** cho năm hoàn cảnh: nghề nặng nhọc hay dễ chịu, học nghề rẻ hay đắt, việc làm ổn định hay bấp bênh, người làm được giao phó ít hay nhiều lòng tin, và khả năng thành công cao hay thấp. Lợi nhuận chịu tác động của chỉ hai trong năm hoàn cảnh nên đều hơn tiền công nhiều, và phần lớn "lợi nhuận" cao bề ngoài thực chất là tiền công trá hình. Sự cân bằng này chỉ đạt được khi nghề đã lâu đời, ở trạng thái bình thường và là nghề chính của người làm. Phần còn lại của chênh lệch đến từ chính sách châu Âu, vốn làm ba việc: hạn chế cạnh tranh (phường hội, luật học nghề bảy năm), đẩy cạnh tranh lên quá mức tự nhiên (học bổng đào tạo giáo sĩ làm rẻ lao động trí thức), và chặn sự lưu chuyển của lao động và vốn (luật học nghề, đặc quyền phường hội, Luật định cư trong Luật Người nghèo ở Anh). Kết quả là thành thị chiếm phần lớn hơn của sản phẩm xã hội so với nông thôn, và người nghèo bị tước "tài sản thiêng liêng nhất" là quyền tự do dùng sức lao động của mình.
+## Ý chính
 
-> **Lưu ý về bản dịch và văn bản:**
-> - **"Socrates" phải là Isocrates.** Đoạn về thù lao nhà giáo ở Hy Lạp, Smith dẫn Isocrates (nhà hùng biện, tác giả bài *Chống các nhà nguỵ biện*), chính Isocrates thu 10 mina mỗi học trò và có một trăm học trò. Bản dịch viết "Socrates" ở cả ba chỗ. Socrates nổi tiếng là không nhận tiền dạy học, nên lỗi này đảo ngược hẳn ví dụ.
-> - **"Plutarch dạy học ở một nơi khác"** là dịch sai "Plutarch, ở một chỗ khác [trong tác phẩm], nói rằng…". Plutarch không dạy học ở đây mà là nguồn tư liệu.
-> - **Carneades và Diogenes.** Bản dịch chú thích Diogenes là người "coi khinh mọi của cải và các tục lệ xã hội", tức nhầm sang Diogenes thành Sinope (phái khuyển nho). Người trong sứ đoàn Athens sang La Mã là Diogenes thành Babylon, nhà triết học khắc kỷ, như chính văn bản gọi. Câu "không có dân tộc nào lại muốn nhận người ngoại quốc vào làm việc ở các công sở hơn là người Athens" bị dịch **ngược nghĩa**: Smith nói không dân tộc nào *đố kỵ hơn* người Athens trong việc để người nước ngoài giữ chức vụ công, nên việc họ cử một người sinh ở nước ngoài đi sứ cho thấy họ trọng ông ta đến mức nào.
-> - **"Country" bị dịch thành "nhà nước", "đất nước".** Ở đoạn về trao đổi giữa thành thị và nông thôn, Smith dùng "the country" theo nghĩa *nông thôn*. Bản dịch viết thành phố "trả lại cho nhà nước", "trên phương diện toàn đất nước", "các nơi khác trên đất nước", làm mất hẳn lập luận rằng phường hội giúp thị dân lợi hơn **nông thôn**. File này đọc lại theo nghĩa đúng.
-> - **Đoạn thợ chải lông cừu bị dịch ngược.** Smith viết nửa tá thợ chải lông cừu, bằng cách thoả thuận không nhận người học nghề, không những *độc chiếm* được việc làm mà còn biến cả ngành dệt thành "một kiểu nô lệ" phục vụ họ. Bản dịch viết họ "không mở mang được công ăn việc làm" và "tự biến mình thành nô lệ của chính họ".
-> - **Đoạn thanh niên đi lính và đi biển bị đảo.** Smith viết con trai người thợ thường đi biển *với* sự đồng ý của cha, còn nếu đi lính thì *luôn* là không có sự đồng ý của cha. Bản dịch gộp hai vế thành câu khó hiểu.
-> - **Đoạn kết về luật điều tiết tiền công bị dịch rối.** Smith nói luật buộc giới chủ trả lương bằng tiền chứ không bằng hàng là luật có lợi cho thợ, còn đạo luật năm thứ 8 triều George III (trần tiền công thợ may London 2 shilling 7½ penny/ngày) là luật có lợi cho chủ, vì nó **dùng pháp luật để cưỡng chế đúng điều mà giới chủ vẫn cố đạt bằng thông đồng**. Smith cũng nói lời than của thợ rằng luật này đặt người giỏi nhất ngang người thường "có vẻ hoàn toàn có cơ sở"; bản dịch viết thành "người ta cũng chẳng chú trọng đến những lời than vãn". Câu "sự cần thiết phải quy định giá bắt buộc cũng chẳng gây ra sự phiền toái nào" phải hiểu là *việc thiếu* giá bánh mì quy định ở Scotland chẳng gây phiền toái nào.
-> - **Câu cuối chương.** "Những cuộc cách mạng như đòi đảm bảo phúc lợi công cộng" là dịch sai "revolutions in the public welfare", nghĩa là *những biến động trong tình trạng thịnh vượng chung* (xã hội tiến lên, đứng yên hay đi xuống), không phải cách mạng chính trị.
-> - **Phần II bị lược.** So với nguyên bản tiếng Anh, bản dịch rút gọn đáng kể đoạn về giáo sĩ phó xứ (Smith dẫn đạo luật triều Nữ hoàng Anne ấn định lương phó xứ trong khoảng 20 đến 50 bảng/năm), đoạn về giấy chứng nhận xứ đạo, và câu kết luận của Smith rằng giá lao động chênh nhau rất lớn giữa những nơi gần nhau ở Anh (điều không thấy ở Scotland) có lẽ là do Luật định cư. Câu nổi tiếng về những người cùng nghề gặp nhau cũng bị rút còn "thỉnh thoảng gặp nhau để bày mưu tăng giá", mất vế "ngay cả để vui chơi giải trí" và "âm mưu chống lại công chúng".
-> - Các lỗi nhỏ: "Các vị chủ tịch các hội ở London đôi khi cũng làm thợ nề" là dịch sai "chairmen", tức **phu khiêng kiệu**, không phải chủ tịch hội; lương lao động thường ở London được Smith ghi là 40 đến 45 shilling/tháng (bản dịch: 40 đến 50); "300 hoặc 400 bản" phải là 300 hoặc 400 **bảng**; "giấy mình" là "giấu mình"; "trường dạy nghề" là cách dịch chữ Latin *universitas* (Smith nói các phường hội xưa gọi là *universitas*, đúng tên Latin của mọi đoàn thể; "đại học" về sau mượn chính chữ ấy).
+Smith muốn chứng minh rằng ở nơi có "tự do hoàn toàn", **tổng các lợi thế và bất lợi** (không phải tiền công bằng tiền) của mọi nghề trong cùng một vùng phải bằng nhau hoặc luôn hướng tới bằng nhau, vì người ta sẽ rời nghề kém lợi và đổ vào nghề có lợi.
 
-Đơn vị tiền Anh dùng trong file: 1 bảng (pound) = 20 shilling; 1 shilling = 12 penny; 1 guinea = 21 shilling; 1 crown = 5 shilling, nên "nửa crown" = 2 shilling 6 penny. Smith quy đổi 1 mina Hy Lạp = 3 bảng 6 shilling 8 penny.
+Vì vậy chênh lệch tiền công bằng tiền giữa các nghề phần lớn chỉ là **khoản bù** cho năm hoàn cảnh: nghề nặng nhọc hay dễ chịu, học nghề rẻ hay đắt, việc làm ổn định hay bấp bênh, người làm được giao phó ít hay nhiều lòng tin, và khả năng thành công cao hay thấp.
+
+Lợi nhuận chịu tác động của chỉ hai trong năm hoàn cảnh nên đều hơn tiền công nhiều, và phần lớn "lợi nhuận" cao bề ngoài thực chất là tiền công trá hình.
+
+Sự cân bằng này chỉ đạt được khi nghề đã lâu đời, ở trạng thái bình thường và là nghề chính của người làm.
+
+Phần còn lại của chênh lệch đến từ chính sách châu Âu, vốn làm ba việc: hạn chế cạnh tranh (phường hội, luật học nghề bảy năm), đẩy cạnh tranh lên quá mức tự nhiên (học bổng đào tạo giáo sĩ làm rẻ lao động trí thức), và chặn sự lưu chuyển của lao động và vốn (luật học nghề, đặc quyền phường hội, Luật định cư trong Luật Người nghèo ở Anh).
+
+Kết quả là thành thị chiếm phần lớn hơn của sản phẩm xã hội so với nông thôn, và người nghèo bị tước "tài sản thiêng liêng nhất" là quyền tự do dùng sức lao động của mình.
 
 ## Sơ đồ
 
@@ -441,7 +436,9 @@
 
 **Chênh lệch bù trừ (compensating differentials).** Khoản tiền công cao hơn (hoặc thấp hơn) mà một nghề phải trả để bù cho những mặt dễ chịu hay khó chịu không tính bằng tiền của chính công việc đó: bẩn hay sạch, nguy hiểm hay an toàn, có việc đều hay thất thường. Ví dụ trong chương: ở nơi lao động thường được 4–5 shilling mỗi tuần thì thợ nề được 7–8 shilling, dù nghề nề rất dễ học; khoản chênh ấy là tiền bù cho những tuần băng giá không có việc. Đây là khái niệm xương sống của Phần I: nó cho phép Smith nói rằng tiền công bằng tiền chênh nhau rất xa nhưng tổng lợi thế của các nghề vẫn ngang nhau.
 
-**Tổng lợi thế và bất lợi, và cơ chế cân bằng.** Smith không so tiền công mà so *tổng* những gì một nghề đem lại cho người làm, cả bằng tiền lẫn không bằng tiền (vinh dự, sự sạch sẽ, sự yên ổn). Khi người ta được tự do chọn và đổi nghề, nghề nào có tổng lợi thế cao hơn sẽ hút thêm người, người đông lên thì tiền công giảm, cho tới khi tổng lợi thế ngang các nghề khác. Ví dụ minh hoạ (không phải số của Smith): nếu hai nghề có điều kiện làm việc như nhau mà nghề A trả 10 đồng còn nghề B trả 6 đồng, người làm nghề B sẽ chuyển sang A cho tới khi tiền công hai nghề xích lại. Khái niệm này quan trọng vì toàn bộ Phần II dựa vào nó: chính sách nào chặn sự di chuyển ấy thì tạo ra bất bình đẳng thật.
+**Tổng lợi thế và bất lợi, và cơ chế cân bằng.** Smith không so tiền công mà so *tổng* những gì một nghề đem lại cho người làm, cả bằng tiền lẫn không bằng tiền (vinh dự, sự sạch sẽ, sự yên ổn). Khi người ta được tự do chọn và đổi nghề, nghề nào có tổng lợi thế cao hơn sẽ hút thêm người, người đông lên thì tiền công giảm, cho tới khi tổng lợi thế ngang các nghề khác.
+
+Ví dụ minh hoạ (không phải số của Smith): nếu hai nghề có điều kiện làm việc như nhau mà nghề A trả 10 đồng còn nghề B trả 6 đồng, người làm nghề B sẽ chuyển sang A cho tới khi tiền công hai nghề xích lại. Khái niệm này quan trọng vì toàn bộ Phần II dựa vào nó: chính sách nào chặn sự di chuyển ấy thì tạo ra bất bình đẳng thật.
 
 **Chi phí học nghề như một khoản đầu tư (vốn con người, human capital).** Thời gian và tiền bạc bỏ ra để học nghề giống như tiền mua một cỗ máy đắt tiền: người học phải thu lại được khoản đó, cộng với lợi nhuận thông thường của một khoản vốn ngang như vậy, qua tiền công trong suốt đời làm việc. Ví dụ trong chương: người học nghề ở châu Âu làm không công cho chủ nhiều năm, cha mẹ phải nuôi, nhiều khi còn nộp tiền cho chủ; vì thế thợ thủ công phải được trả cao hơn lao động thường một chút, còn hoạ sĩ, luật sư, thầy thuốc, học lâu và tốn hơn nhiều, phải được trả cao hơn nhiều. Khái niệm này giải thích phần lớn chênh lệch giữa lao động có kỹ năng và lao động thường.
 
@@ -496,7 +493,9 @@ Ví dụ cuối là chủ quán rượu. Đây là nghề không dễ chịu: ô
 
 **2.2. Chi phí học nghề**
 
-Smith dùng một phép so sánh đã trở thành nền tảng của kinh tế học lao động. Khi một người bỏ tiền mua một cỗ máy đắt tiền, người đó kỳ vọng cỗ máy sẽ làm ra đủ để hoàn lại số vốn bỏ ra, cộng với ít nhất lợi nhuận thông thường, trước khi nó hỏng. Một người được đào tạo tốn kém nhiều công sức và thời gian giống hệt như một cỗ máy đắt tiền như vậy. Công việc mà anh ta học được phải đem lại, ngoài tiền công thông thường của lao động thường, một khoản đủ để hoàn lại toàn bộ chi phí học, cộng ít nhất lợi nhuận thông thường của một khoản vốn ngang như thế. Nguyên bản còn nhấn mạnh rằng việc hoàn vốn ấy phải xong trong một thời gian hợp lý, vì đời người ngắn ngủi và bất định, không như cỗ máy có tuổi thọ dự tính được; bản dịch không giữ ý này.
+Smith dùng một phép so sánh đã trở thành nền tảng của kinh tế học lao động. Khi một người bỏ tiền mua một cỗ máy đắt tiền, người đó kỳ vọng cỗ máy sẽ làm ra đủ để hoàn lại số vốn bỏ ra, cộng với ít nhất lợi nhuận thông thường, trước khi nó hỏng.
+
+Một người được đào tạo tốn kém nhiều công sức và thời gian giống hệt như một cỗ máy đắt tiền như vậy. Công việc mà anh ta học được phải đem lại, ngoài tiền công thông thường của lao động thường, một khoản đủ để hoàn lại toàn bộ chi phí học, cộng ít nhất lợi nhuận thông thường của một khoản vốn ngang như thế. Nguyên bản còn nhấn mạnh rằng việc hoàn vốn ấy phải xong trong một thời gian hợp lý, vì đời người ngắn ngủi và bất định, không như cỗ máy có tuổi thọ dự tính được; bản dịch không giữ ý này.
 
 Đây là cơ sở của chênh lệch giữa lao động có kỹ năng và lao động thường. Chính sách châu Âu xếp thợ cơ khí, thợ thủ công và thợ chế tạo vào loại lao động có kỹ năng, còn lao động nông thôn vào loại lao động thường. Smith báo trước rằng giả định "lao động của thợ tinh tế hơn lao động nông" phần lớn là sai, và ông sẽ chứng minh điều đó ở Phần II (mục 5.5 dưới đây).
 
@@ -603,7 +602,9 @@ Sau tiền công, Smith áp lần lượt năm hoàn cảnh vào lợi nhuận c
 
 **Rủi ro.** Tỷ suất lợi nhuận thông thường thay đổi ít nhiều theo mức chắc chắn hay bất định của thu nhập. Nội thương nói chung chắc chắn hơn ngoại thương; trong ngoại thương, buôn với Bắc Mỹ chắc chắn hơn buôn với Jamaica. Lợi nhuận luôn tăng ít nhiều theo rủi ro, nhưng không tăng theo tỷ lệ với rủi ro, tức không đủ để bù hoàn toàn.
 
-Smith lập luận như sau. Để bù đủ rủi ro, lợi nhuận thông thường của một nghề rủi ro phải đủ để bù mọi tổn thất thỉnh thoảng xảy ra, và còn dư thêm một khoản giống như lãi của công ty bảo hiểm. Nếu lợi nhuận thật sự đủ như vậy, thì người làm nghề rủi ro, tính trung bình, không thua thiệt gì so với người làm nghề an toàn, và phá sản ở các nghề rủi ro không thể nhiều hơn ở các nghề khác. Nhưng thực tế ngược lại: phá sản xảy ra nhiều nhất chính ở những nghề nhiều rủi ro nhất. Buôn lậu là ví dụ cực đoan: đó là nghề lãi to nhất khi thành công, nhưng cũng là "con đường tất yếu dẫn đến phá sản". Nguyên nhân là cùng sự tự tin thái quá đã thấy ở mục 2.5: hy vọng thành công lôi kéo rất nhiều kẻ phiêu lưu vào các nghề rủi ro, và cạnh tranh giữa họ kéo lợi nhuận xuống *dưới* mức đủ bù rủi ro.
+Smith lập luận như sau. Để bù đủ rủi ro, lợi nhuận thông thường của một nghề rủi ro phải đủ để bù mọi tổn thất thỉnh thoảng xảy ra, và còn dư thêm một khoản giống như lãi của công ty bảo hiểm. Nếu lợi nhuận thật sự đủ như vậy, thì người làm nghề rủi ro, tính trung bình, không thua thiệt gì so với người làm nghề an toàn, và phá sản ở các nghề rủi ro không thể nhiều hơn ở các nghề khác.
+
+Nhưng thực tế ngược lại: phá sản xảy ra nhiều nhất chính ở những nghề nhiều rủi ro nhất. Buôn lậu là ví dụ cực đoan: đó là nghề lãi to nhất khi thành công, nhưng cũng là "con đường tất yếu dẫn đến phá sản". Nguyên nhân là cùng sự tự tin thái quá đã thấy ở mục 2.5: hy vọng thành công lôi kéo rất nhiều kẻ phiêu lưu vào các nghề rủi ro, và cạnh tranh giữa họ kéo lợi nhuận xuống *dưới* mức đủ bù rủi ro.
 
 **Hệ quả: lợi nhuận đều hơn tiền công nhiều.** Trong năm hoàn cảnh, chỉ có hai tác động lên lợi nhuận: sự dễ chịu hay khó chịu của nghề (mà giữa các cách dùng vốn chênh nhau rất ít) và rủi ro (mà lợi nhuận không tăng tương xứng). Vì vậy, trong cùng một xã hội hay cùng một vùng, tỷ suất lợi nhuận trung bình và thông thường giữa các cách dùng vốn phải đều hơn nhiều so với tiền công bằng tiền giữa các loại lao động. Smith minh hoạ bằng một so sánh: chênh lệch giữa thu nhập của một người lao động thường và của một luật sư hay thầy thuốc đông khách lớn hơn nhiều so với chênh lệch lợi nhuận thông thường giữa hai ngành buôn bán bất kỳ.
 
@@ -729,13 +730,17 @@ Theo cách giải nghĩa chặt chẽ của toà án, luật này chỉ áp dụ
 
 Chi tiết cuối rất đáng chú ý: những trung tâm công nghiệp năng động nhất nước Anh thời Smith lại chính là những nơi đứng ngoài luật học nghề. Smith để cho người đọc tự rút ra kết luận.
 
-Ở các nước khác, quy định cũng khác nhau. Ở Pháp, thời hạn học nghề khác nhau giữa các thành phố và các nghề; ở Paris, phần lớn các nghề đòi 5 năm học nghề, và sau đó thêm 5 năm làm thợ bạn (compagnon) mới được thành thợ cả. Ở Scotland không có luật chung nào quy định thời hạn học nghề. Thời hạn thường là 3 năm, và có thể rút ngắn bằng cách nộp tiền; ở hầu hết các thị trấn, một khoản tiền nhỏ đủ để mua quyền tự do vào bất kỳ phường hội nào. Thợ dệt vải lanh và vải gai, những ngành chính của Scotland, cùng mọi thợ phụ trợ cho họ (thợ làm bánh xe và guồng xe sợi) được hành nghề ở bất kỳ thị trấn nào mà không phải nộp gì. Ở mọi thị trấn, ai cũng được bán thịt vào mọi ngày hợp lệ trong tuần. Smith nói ông chưa thấy nước nào ở châu Âu có luật phường hội ít khắt khe như Scotland.
+Ở các nước khác, quy định cũng khác nhau. Ở Pháp, thời hạn học nghề khác nhau giữa các thành phố và các nghề; ở Paris, phần lớn các nghề đòi 5 năm học nghề, và sau đó thêm 5 năm làm thợ bạn (compagnon) mới được thành thợ cả.
+
+Ở Scotland không có luật chung nào quy định thời hạn học nghề. Thời hạn thường là 3 năm, và có thể rút ngắn bằng cách nộp tiền; ở hầu hết các thị trấn, một khoản tiền nhỏ đủ để mua quyền tự do vào bất kỳ phường hội nào. Thợ dệt vải lanh và vải gai, những ngành chính của Scotland, cùng mọi thợ phụ trợ cho họ (thợ làm bánh xe và guồng xe sợi) được hành nghề ở bất kỳ thị trấn nào mà không phải nộp gì. Ở mọi thị trấn, ai cũng được bán thịt vào mọi ngày hợp lệ trong tuần. Smith nói ông chưa thấy nước nào ở châu Âu có luật phường hội ít khắt khe như Scotland.
 
 **5.3. Phản bác luật học nghề**
 
 Smith phản bác luật học nghề bằng năm lập luận nối tiếp nhau, mỗi lập luận đánh vào một lý do mà người ta thường đưa ra để bảo vệ nó.
 
-*Lập luận về quyền.* Tài sản mà mỗi người có trong sức lao động của chính mình là nền tảng gốc của mọi tài sản khác, nên nó thiêng liêng và bất khả xâm phạm nhất. Gia sản của một người nghèo nằm trong sức lực và sự khéo léo của đôi tay anh ta. Cấm anh ta dùng sức lực và sự khéo léo ấy theo cách anh ta cho là đúng, trong khi anh ta không làm hại ai, là xâm phạm trắng trợn tài sản thiêng liêng nhất đó. Đó cũng là xâm phạm tự do chính đáng của cả người thợ lẫn người muốn thuê anh ta: luật ngăn người này làm việc mà anh ta cho là thích hợp, và ngăn người kia thuê người mà họ cho là thích hợp. Người thuê thợ có lợi ích trực tiếp trong chuyện thuê ai, nên có thể tự phán đoán người đó có đáng thuê hay không. Sự "lo lắng" của nhà làm luật, rằng người thuê có thể thuê nhầm người không đủ khả năng, vì vậy vừa không đúng chỗ vừa độc đoán.
+*Lập luận về quyền.* Tài sản mà mỗi người có trong sức lao động của chính mình là nền tảng gốc của mọi tài sản khác, nên nó thiêng liêng và bất khả xâm phạm nhất. Gia sản của một người nghèo nằm trong sức lực và sự khéo léo của đôi tay anh ta. Cấm anh ta dùng sức lực và sự khéo léo ấy theo cách anh ta cho là đúng, trong khi anh ta không làm hại ai, là xâm phạm trắng trợn tài sản thiêng liêng nhất đó.
+
+Đó cũng là xâm phạm tự do chính đáng của cả người thợ lẫn người muốn thuê anh ta: luật ngăn người này làm việc mà anh ta cho là thích hợp, và ngăn người kia thuê người mà họ cho là thích hợp. Người thuê thợ có lợi ích trực tiếp trong chuyện thuê ai, nên có thể tự phán đoán người đó có đáng thuê hay không. Sự "lo lắng" của nhà làm luật, rằng người thuê có thể thuê nhầm người không đủ khả năng, vì vậy vừa không đúng chỗ vừa độc đoán.
 
 *Lập luận về chất lượng.* Học nghề lâu không bảo đảm rằng hàng hoá bán ra cho công chúng sẽ không bị làm ẩu. Khi hàng bị làm ẩu, đó thường là do gian lận chứ không do thiếu tay nghề; và học nghề lâu đến mấy cũng không chống được gian lận. Những thứ thật sự bảo vệ người mua là các dấu hiệu kiểm định: dấu sterling trên đồ bạc, dấu đóng trên vải lanh và vải len. Chúng làm người mua yên tâm hơn nhiều so với mọi điều lệ về học nghề. Người mua nhìn vào dấu, chứ không ai nghĩ tới việc hỏi người thợ đã học đủ bảy năm hay chưa.
 
@@ -743,7 +748,9 @@ Smith phản bác luật học nghề bằng năm lập luận nối tiếp nhau
 
 *Lập luận lịch sử.* Người xưa hoàn toàn không biết đến chế độ học nghề. Luật La Mã không nói gì về các nghĩa vụ qua lại giữa thợ cả và người học nghề, vốn chiếm một phần đáng kể trong các bộ luật hiện đại; tiếng Hy Lạp và tiếng Latin không có chữ nào tương ứng với ý niệm "người học nghề" như ta hiểu ngày nay. Vậy các nghề thủ công thời cổ vẫn tồn tại và phát triển mà không cần đến nó.
 
-*Lập luận kỹ thuật.* Học nghề lâu là không cần thiết. Những nghề cao hơn hẳn các nghề thủ công thông thường, như làm đồng hồ, có những bí quyết mà việc phát minh ra chắc chắn đòi hỏi suy nghĩ rất lâu. Nhưng khi máy móc và dụng cụ đã được phát minh và được hiểu rõ, chỉ cần vài tuần, có khi vài ngày giảng giải là đủ để dạy một thanh niên cách dùng chúng. Sự khéo tay thì đúng là cần luyện tập nhiều. Nhưng một thanh niên sẽ luyện tập chăm chỉ và chú ý hơn nhiều nếu ngay từ đầu được làm như một thợ công nhật: được trả theo phần việc nhỏ mà mình làm được, và phải đền những vật liệu làm hỏng vì vụng về hay thiếu kinh nghiệm. Học theo cách đó thường hiệu quả hơn, ít tẻ nhạt hơn và ít tốn kém hơn.
+*Lập luận kỹ thuật.* Học nghề lâu là không cần thiết. Những nghề cao hơn hẳn các nghề thủ công thông thường, như làm đồng hồ, có những bí quyết mà việc phát minh ra chắc chắn đòi hỏi suy nghĩ rất lâu. Nhưng khi máy móc và dụng cụ đã được phát minh và được hiểu rõ, chỉ cần vài tuần, có khi vài ngày giảng giải là đủ để dạy một thanh niên cách dùng chúng.
+
+Sự khéo tay thì đúng là cần luyện tập nhiều. Nhưng một thanh niên sẽ luyện tập chăm chỉ và chú ý hơn nhiều nếu ngay từ đầu được làm như một thợ công nhật: được trả theo phần việc nhỏ mà mình làm được, và phải đền những vật liệu làm hỏng vì vụng về hay thiếu kinh nghiệm. Học theo cách đó thường hiệu quả hơn, ít tẻ nhạt hơn và ít tốn kém hơn.
 
 *Hậu quả thật của việc bỏ luật học nghề.* Smith thừa nhận ai sẽ thiệt nếu luật bị bỏ. Khi nghề dễ học, số người cạnh tranh trong nghề sẽ đông lên, nên cả tiền công lẫn lợi nhuận trong nghề sẽ giảm: người thợ thành nghề, người học nghề và thợ cả đều thiệt. Nhưng công chúng được lợi, vì hàng hoá của mọi người thợ sẽ đến tay người mua rẻ hơn. Và chính để ngăn sự giảm giá đó, sự giảm tiền công và lợi nhuận đó, mà các phường hội và phần lớn quy chế của chúng được lập ra.
 
@@ -774,14 +781,24 @@ Smith đưa ra một bằng chứng không cần tính toán phức tạp. Ở m
 
 Vì sao thị dân làm được điều đó mà nông dân không làm được? Câu trả lời của Smith là khả năng tập hợp:
 
-- **Thị dân sống tập trung** ở một chỗ nên dễ kết hợp với nhau. Ngay cả những nghề nhỏ nhất ở thành thị cũng đã thành lập phường hội ở nơi này hay nơi khác. Và ở nơi chưa bao giờ lập phường, tinh thần phường hội (sự ghen ghét người lạ, sự ngại nhận người học nghề, sự ngại truyền bí quyết nghề) vẫn thường dạy họ dùng các hội tự nguyện và thoả thuận ngầm để ngăn sự cạnh tranh tự do mà họ không thể cấm bằng quy chế. Những nghề dùng ít thợ dễ kết hợp nhất. Ví dụ của Smith: nửa tá thợ chải lông cừu có lẽ là cần thiết để giữ cho một nghìn thợ kéo sợi và thợ dệt có việc làm. Chỉ bằng cách thoả thuận với nhau không nhận người học nghề, họ không những độc chiếm được việc làm của nghề mình mà còn biến cả ngành dệt thành "một kiểu nô lệ" phục vụ họ, và đẩy giá lao động của mình lên cao hơn nhiều so với mức mà bản chất công việc đòi hỏi. (Bản dịch dịch ngược đoạn này, xem lưu ý ở đầu file.)
+- **Thị dân sống tập trung** ở một chỗ nên dễ kết hợp với nhau. Ngay cả những nghề nhỏ nhất ở thành thị cũng đã thành lập phường hội ở nơi này hay nơi khác. Và ở nơi chưa bao giờ lập phường, tinh thần phường hội (sự ghen ghét người lạ, sự ngại nhận người học nghề, sự ngại truyền bí quyết nghề) vẫn thường dạy họ dùng các hội tự nguyện và thoả thuận ngầm để ngăn sự cạnh tranh tự do mà họ không thể cấm bằng quy chế.
+
+  Những nghề dùng ít thợ dễ kết hợp nhất. Ví dụ của Smith: nửa tá thợ chải lông cừu có lẽ là cần thiết để giữ cho một nghìn thợ kéo sợi và thợ dệt có việc làm. Chỉ bằng cách thoả thuận với nhau không nhận người học nghề, họ không những độc chiếm được việc làm của nghề mình mà còn biến cả ngành dệt thành "một kiểu nô lệ" phục vụ họ, và đẩy giá lao động của mình lên cao hơn nhiều so với mức mà bản chất công việc đòi hỏi. (Bản dịch dịch ngược đoạn này, xem mục Lưu ý cuối chương.)
 - **Nông dân sống phân tán** ở những nơi xa nhau nên không thể dễ dàng kết hợp. Họ chưa bao giờ hợp thành phường hội, và tinh thần phường hội cũng chưa bao giờ thịnh hành trong họ.
 
-Smith dùng dịp này để bác bỏ giả định mà ông đã nêu ở mục 2.2, rằng lao động của thợ tinh tế hơn lao động nông. Chưa bao giờ có ai nghĩ rằng cần phải học nghề mới làm được nông, dù sau các nghề mỹ thuật và các nghề tự do, có lẽ không nghề nào đòi hỏi nhiều hiểu biết và kinh nghiệm như nghề nông. Vô số sách viết về nông nghiệp bằng đủ mọi thứ tiếng cho thấy ngay những người khôn ngoan và hiểu biết nhất cũng không coi đó là việc dễ. Không thể học từ những cuốn sách ấy cách làm những thao tác đa dạng và phức tạp mà một người nông dân bình thường vẫn làm hằng ngày, dù một số tác giả đáng khinh đôi khi nói về nông dân với giọng khinh miệt. Ngược lại, hầu như mọi nghề cơ khí thông thường có thể được mô tả đầy đủ trong vài trang sách có hình minh hoạ, như bộ lịch sử các nghề mà Viện Hàn lâm Khoa học Pháp đang xuất bản. Lý do là việc điều khiển nông nghiệp phải thay đổi theo mỗi lần thời tiết đổi và theo nhiều biến cố khác, nên đòi hỏi phán đoán và sự khôn ngoan hơn nhiều so với những thao tác luôn giống hệt nhau.
+Smith dùng dịp này để bác bỏ giả định mà ông đã nêu ở mục 2.2, rằng lao động của thợ tinh tế hơn lao động nông. Chưa bao giờ có ai nghĩ rằng cần phải học nghề mới làm được nông, dù sau các nghề mỹ thuật và các nghề tự do, có lẽ không nghề nào đòi hỏi nhiều hiểu biết và kinh nghiệm như nghề nông.
 
-Không chỉ người điều hành trang trại mà cả nhiều loại lao động nông thôn hạ cấp cũng cần tay nghề và kinh nghiệm hơn phần lớn các nghề cơ khí. Người thợ làm đồng hay sắt làm việc với dụng cụ và vật liệu có tính chất luôn gần như không đổi. Người cày ruộng thì làm việc với sức kéo của ngựa và bò, mà sức khoẻ, sức lực và tính khí của chúng thay đổi theo hoàn cảnh; vật liệu anh ta làm việc (đất đai) cũng thay đổi không kém. Người cày ruộng thường bị coi là ngu đần và dốt nát, nhưng hiếm khi sai trong phán đoán. Anh ta kém lịch lãm, ăn nói vụng về hơn người thợ thành thị, nhưng vì quen xem xét nhiều đối tượng khác nhau, anh ta thường hiểu biết hơn người thợ suốt ngày chỉ làm một hai thao tác đơn giản. Ở Trung Hoa và Ấn Độ, theo các tường thuật mà Smith biết, lao động nông thôn có địa vị và tiền công cao hơn phần lớn thợ thủ công. Ông cho rằng ở đâu cũng sẽ như vậy nếu luật phường hội và tinh thần phường hội không ngăn cản.
+Vô số sách viết về nông nghiệp bằng đủ mọi thứ tiếng cho thấy ngay những người khôn ngoan và hiểu biết nhất cũng không coi đó là việc dễ. Không thể học từ những cuốn sách ấy cách làm những thao tác đa dạng và phức tạp mà một người nông dân bình thường vẫn làm hằng ngày, dù một số tác giả đáng khinh đôi khi nói về nông dân với giọng khinh miệt.
 
-Ưu thế của công nghiệp thành thị không chỉ do phường hội và quy chế của chúng. Nó còn được củng cố bởi nhiều quy định khác. Thuế cao đánh vào mọi hàng chế tạo của nước ngoài và vào mọi hàng hoá do thương nhân nước ngoài nhập vào đều nhằm cùng mục đích. Luật phường hội cho phép thị dân tăng giá mà không sợ bị chính đồng bào nông thôn của mình bán rẻ hơn; các quy định về thuế bảo vệ họ trước sự cạnh tranh của người nước ngoài. Phần giá tăng do cả hai loại quy định gây ra cuối cùng rơi vào địa chủ, chủ trại và lao động nông thôn. Những người này hiếm khi phản đối các độc quyền ấy: họ thường không có xu hướng kết hợp và cũng không có khả năng kết hợp; và "tiếng ồn ào và phép nguỵ biện" của thương nhân và chủ xưởng dễ dàng thuyết phục họ rằng lợi ích riêng của một bộ phận, mà lại là bộ phận thứ yếu, của xã hội chính là lợi ích chung của toàn xã hội.
+Ngược lại, hầu như mọi nghề cơ khí thông thường có thể được mô tả đầy đủ trong vài trang sách có hình minh hoạ, như bộ lịch sử các nghề mà Viện Hàn lâm Khoa học Pháp đang xuất bản. Lý do là việc điều khiển nông nghiệp phải thay đổi theo mỗi lần thời tiết đổi và theo nhiều biến cố khác, nên đòi hỏi phán đoán và sự khôn ngoan hơn nhiều so với những thao tác luôn giống hệt nhau.
+
+Không chỉ người điều hành trang trại mà cả nhiều loại lao động nông thôn hạ cấp cũng cần tay nghề và kinh nghiệm hơn phần lớn các nghề cơ khí. Người thợ làm đồng hay sắt làm việc với dụng cụ và vật liệu có tính chất luôn gần như không đổi. Người cày ruộng thì làm việc với sức kéo của ngựa và bò, mà sức khoẻ, sức lực và tính khí của chúng thay đổi theo hoàn cảnh; vật liệu anh ta làm việc (đất đai) cũng thay đổi không kém.
+
+Người cày ruộng thường bị coi là ngu đần và dốt nát, nhưng hiếm khi sai trong phán đoán. Anh ta kém lịch lãm, ăn nói vụng về hơn người thợ thành thị, nhưng vì quen xem xét nhiều đối tượng khác nhau, anh ta thường hiểu biết hơn người thợ suốt ngày chỉ làm một hai thao tác đơn giản. Ở Trung Hoa và Ấn Độ, theo các tường thuật mà Smith biết, lao động nông thôn có địa vị và tiền công cao hơn phần lớn thợ thủ công. Ông cho rằng ở đâu cũng sẽ như vậy nếu luật phường hội và tinh thần phường hội không ngăn cản.
+
+Ưu thế của công nghiệp thành thị không chỉ do phường hội và quy chế của chúng. Nó còn được củng cố bởi nhiều quy định khác. Thuế cao đánh vào mọi hàng chế tạo của nước ngoài và vào mọi hàng hoá do thương nhân nước ngoài nhập vào đều nhằm cùng mục đích. Luật phường hội cho phép thị dân tăng giá mà không sợ bị chính đồng bào nông thôn của mình bán rẻ hơn; các quy định về thuế bảo vệ họ trước sự cạnh tranh của người nước ngoài.
+
+Phần giá tăng do cả hai loại quy định gây ra cuối cùng rơi vào địa chủ, chủ trại và lao động nông thôn. Những người này hiếm khi phản đối các độc quyền ấy: họ thường không có xu hướng kết hợp và cũng không có khả năng kết hợp; và "tiếng ồn ào và phép nguỵ biện" của thương nhân và chủ xưởng dễ dàng thuyết phục họ rằng lợi ích riêng của một bộ phận, mà lại là bộ phận thứ yếu, của xã hội chính là lợi ích chung của toàn xã hội.
 
 Smith ghi nhận rằng ở Anh, ưu thế của thành thị trước nông thôn trước đây lớn hơn hiện nay. Tiền công lao động nông thôn nay đã gần với tiền công thợ chế tạo hơn, và lợi nhuận của vốn dùng trong nông nghiệp đã gần với lợi nhuận trong thương mại và chế tạo hơn so với thế kỷ trước hay đầu thế kỷ này. Smith giải thích sự thay đổi này như một hệ quả tất yếu, dù đến rất muộn, của chính sự khuyến khích quá mức dành cho công nghiệp thành thị, theo một chuỗi bước:
 
@@ -806,7 +823,9 @@ Smith không đề nghị cấm những cuộc gặp ấy. Theo ông, không th�
 
 Loại thứ ba là nguy hiểm nhất, và Smith giải thích vì sao. Trong một nghề tự do, một liên kết để hạn chế cạnh tranh chỉ có thể lập được khi từng người trong nghề đều đồng ý, và chỉ kéo dài chừng nào từng người còn giữ ý ấy; chỉ cần một người rút ra, liên kết sẽ tan. Trong một phường hội, đa số có thể ra quy chế kèm theo hình phạt thích đáng, và quy chế ấy hạn chế cạnh tranh hiệu quả và lâu bền hơn nhiều so với bất kỳ liên kết tự nguyện nào.
 
-Những người bênh vực phường hội nói rằng phường hội cần thiết để quản lý nghề cho tốt hơn. Smith bác bỏ: lý lẽ này không có chút cơ sở nào. Kỷ luật thật sự và hiệu quả đối với người thợ không phải là kỷ luật của phường hội, mà là kỷ luật của khách hàng. Chính nỗi sợ mất việc kiềm chế sự gian lận và sửa sự cẩu thả của người thợ. Một phường hội độc quyền tất yếu làm yếu đi sức mạnh của kỷ luật ấy, vì khi đó một nhóm thợ nhất định phải được thuê, dù họ làm tốt hay làm xấu. Vì vậy ở nhiều thành phố có phường hội, rất khó tìm được thợ khá, kể cả trong những nghề cần thiết nhất. Muốn có hàng làm tốt, người ta phải đặt làm ở các vùng ngoại ô, nơi thợ không có đặc quyền và chỉ có thể dựa vào uy tín của mình, rồi đưa lậu hàng ấy vào thành phố.
+Những người bênh vực phường hội nói rằng phường hội cần thiết để quản lý nghề cho tốt hơn. Smith bác bỏ: lý lẽ này không có chút cơ sở nào. Kỷ luật thật sự và hiệu quả đối với người thợ không phải là kỷ luật của phường hội, mà là kỷ luật của khách hàng. Chính nỗi sợ mất việc kiềm chế sự gian lận và sửa sự cẩu thả của người thợ.
+
+Một phường hội độc quyền tất yếu làm yếu đi sức mạnh của kỷ luật ấy, vì khi đó một nhóm thợ nhất định phải được thuê, dù họ làm tốt hay làm xấu. Vì vậy ở nhiều thành phố có phường hội, rất khó tìm được thợ khá, kể cả trong những nghề cần thiết nhất. Muốn có hàng làm tốt, người ta phải đặt làm ở các vùng ngoại ô, nơi thợ không có đặc quyền và chỉ có thể dựa vào uy tín của mình, rồi đưa lậu hàng ấy vào thành phố.
 
 **Ví dụ hôm nay** (minh hoạ chung). Logic của Smith vẫn được dùng trong luật cạnh tranh hiện đại: các cơ quan quản lý cạnh tranh thường cảnh giác với việc các hiệp hội ngành trao đổi thông tin chi tiết về giá bán và kế hoạch sản xuất giữa các thành viên, vì những kênh ấy giúp các doanh nghiệp phối hợp tăng giá dễ hơn, đúng như sổ đăng ký và quỹ chung của phường hội thời Smith.
 
@@ -814,13 +833,17 @@ Những người bênh vực phường hội nói rằng phường hội cần t
 
 Chính sách thứ hai đi theo hướng ngược với chính sách thứ nhất: thay vì giữ người ở ngoài một nghề, nó kéo vào một nghề nhiều người hơn số mà nghề ấy tự nó thu hút được.
 
-Từ lâu người ta đã coi việc đào tạo đủ người cho một số nghề nhất định là việc quan trọng. Vì vậy, đôi khi công chúng, đôi khi các nhà hảo tâm mộ đạo, đã lập ra nhiều khoản trợ cấp, học bổng, suất học, quỹ nuôi học sinh cho mục đích này. Các khoản ấy kéo vào những nghề đó nhiều người hơn mức mà các nghề ấy lẽ ra có. Ở mọi nước Kitô giáo, giáo sĩ phần lớn được đào tạo theo cách đó: rất ít người trong số họ được học hoàn toàn bằng tiền của gia đình. Vì vậy cung người được đào tạo cho giáo hội luôn thừa, và giáo sĩ phó xứ (curate) thường chỉ nhận được một mức lương rất thấp so với thời gian và chi phí học mà nghề đòi hỏi. Nguyên bản phân tích phần này kỹ hơn nhiều, nhưng bản dịch lược mạnh.
+Từ lâu người ta đã coi việc đào tạo đủ người cho một số nghề nhất định là việc quan trọng. Vì vậy, đôi khi công chúng, đôi khi các nhà hảo tâm mộ đạo, đã lập ra nhiều khoản trợ cấp, học bổng, suất học, quỹ nuôi học sinh cho mục đích này. Các khoản ấy kéo vào những nghề đó nhiều người hơn mức mà các nghề ấy lẽ ra có.
+
+Ở mọi nước Kitô giáo, giáo sĩ phần lớn được đào tạo theo cách đó: rất ít người trong số họ được học hoàn toàn bằng tiền của gia đình. Vì vậy cung người được đào tạo cho giáo hội luôn thừa, và giáo sĩ phó xứ (curate) thường chỉ nhận được một mức lương rất thấp so với thời gian và chi phí học mà nghề đòi hỏi. Nguyên bản phân tích phần này kỹ hơn nhiều, nhưng bản dịch lược mạnh.
 
 Hệ quả lan sang cả những người không làm giáo sĩ. Phần lớn những người mà ở châu Âu gọi là "những người có học" (men of letters) đã được đào tạo cho giáo hội, nhưng vì nhiều lý do khác nhau không vào được hàng giáo phẩm. Họ cũng thường được học bằng tiền công quỹ hay tiền từ thiện. Vì ở đâu số người như vậy cũng quá đông, cung vượt xa cầu, nên giá lao động của họ thường rất thấp, gần như không đáng kể.
 
 **Nhà giáo.** Trước khi có nghề in, việc duy nhất mà một người có học có thể làm để kiếm tiền bằng tài năng của mình là dạy học, ở trường công hay làm thầy dạy tư, tức là truyền lại cho người khác những hiểu biết kỳ thú và hữu ích mà chính mình đã học được. Ngay cả sau khi có nghề in, dạy học vẫn là việc đáng trọng hơn, hữu ích hơn và nói chung có lợi hơn so với việc viết thuê cho các nhà sách, một nghề mà chính nghề in sinh ra.
 
-Để thành một thầy giáo giỏi về khoa học, cần thời gian học, tài năng, hiểu biết và công sức ít nhất ngang với những gì cần để thành một luật sư hay thầy thuốc lớn. Theo lý thuyết ở Phần I (hoàn cảnh thứ hai), lẽ ra thầy giáo giỏi phải được trả ngang luật sư và thầy thuốc. Nhưng thực tế thù lao thông thường của một thầy giỏi không thể so được với họ. Lý do nằm ở phía cung: nghề dạy học đầy những người nghèo được nuôi học bằng công quỹ, còn nghề luật và nghề y chỉ có rất ít người như vậy, phần lớn được học bằng tiền nhà. Thêm vào đó, lương thầy giáo đã thấp lại còn thấp hơn nữa nếu không có sự cạnh tranh của những người viết thuê cho nhà sách, những người còn nghèo hơn; nghề in vì vậy thêm đối thủ cho nhà giáo và kéo thù lao của họ xuống thêm.
+Để thành một thầy giáo giỏi về khoa học, cần thời gian học, tài năng, hiểu biết và công sức ít nhất ngang với những gì cần để thành một luật sư hay thầy thuốc lớn. Theo lý thuyết ở Phần I (hoàn cảnh thứ hai), lẽ ra thầy giáo giỏi phải được trả ngang luật sư và thầy thuốc. Nhưng thực tế thù lao thông thường của một thầy giỏi không thể so được với họ.
+
+Lý do nằm ở phía cung: nghề dạy học đầy những người nghèo được nuôi học bằng công quỹ, còn nghề luật và nghề y chỉ có rất ít người như vậy, phần lớn được học bằng tiền nhà. Thêm vào đó, lương thầy giáo đã thấp lại còn thấp hơn nữa nếu không có sự cạnh tranh của những người viết thuê cho nhà sách, những người còn nghèo hơn; nghề in vì vậy thêm đối thủ cho nhà giáo và kéo thù lao của họ xuống thêm.
 
 Smith nhắc lại một sự thật lịch sử để thấy hậu quả cực đoan nhất: trước khi có nghề in, "học giả" và "người ăn xin" gần như là hai chữ đồng nghĩa. Hiệu trưởng các đại học thời đó thường cấp giấy phép cho sinh viên của mình đi xin ăn.
 
@@ -868,7 +891,9 @@ Hệ quả là một cảnh thường thấy: trong một ngành chế tạo, ng
 - Dệt vải lanh trơn và dệt lụa trơn có thao tác gần như giống hệt nhau.
 - Dệt vải len trơn khác một chút, nhưng sự khác nhau nhỏ đến mức một thợ dệt vải lanh hay thợ dệt lụa có thể trở thành thợ dệt len khá trong vòng vài ngày.
 
-Vì vậy, nếu một trong ba ngành dệt ấy suy thoái, thợ có thể chuyển sang hai ngành kia, những ngành đang ở trạng thái thịnh hơn. Khi đó tiền công sẽ không quá cao ở ngành đang thịnh, cũng không quá thấp ở ngành đang suy: đúng là cơ chế cân bằng của mục 1. Ở Anh, ngành vải lanh nhờ một đạo luật riêng được mở cho mọi người. Nhưng vì ngành này không phổ biến khắp nước, nó không đủ lớn để hút số thợ thừa từ các ngành khác đang suy. Những người thợ thất nghiệp ở các ngành bị luật học nghề bao vây chỉ còn hai lựa chọn: hoặc nhận cứu tế của xứ đạo, hoặc làm lao động thường, việc mà thói quen tay nghề của họ khiến họ kém thích hợp hơn người lao động thường. Phần lớn họ chọn nhận cứu tế.
+Vì vậy, nếu một trong ba ngành dệt ấy suy thoái, thợ có thể chuyển sang hai ngành kia, những ngành đang ở trạng thái thịnh hơn. Khi đó tiền công sẽ không quá cao ở ngành đang thịnh, cũng không quá thấp ở ngành đang suy: đúng là cơ chế cân bằng của mục 1.
+
+Ở Anh, ngành vải lanh nhờ một đạo luật riêng được mở cho mọi người. Nhưng vì ngành này không phổ biến khắp nước, nó không đủ lớn để hút số thợ thừa từ các ngành khác đang suy. Những người thợ thất nghiệp ở các ngành bị luật học nghề bao vây chỉ còn hai lựa chọn: hoặc nhận cứu tế của xứ đạo, hoặc làm lao động thường, việc mà thói quen tay nghề của họ khiến họ kém thích hợp hơn người lao động thường. Phần lớn họ chọn nhận cứu tế.
 
 Cái gì cản lao động di chuyển thì cũng cản vốn di chuyển, vì lượng vốn có thể dùng được trong một ngành phụ thuộc rất nhiều vào lượng lao động có thể dùng được trong ngành ấy: không thể mở xưởng nếu không thuê được thợ. Nhưng luật phường hội cản vốn chuyển từ nơi này sang nơi khác ít hơn cản lao động. Một thương nhân giàu được nhận vào buôn bán ở một thành phố có phường hội dễ hơn nhiều so với một người thợ thủ công nghèo muốn vào làm việc ở đó. Rào cản di chuyển, như vậy, đè nặng nhất lên người nghèo.
 
@@ -899,11 +924,15 @@ Tiến sĩ Burn, tác giả một bộ lịch sử Luật Người nghèo, nhậ
 
 Cách thứ tư còn có một tác dụng phụ đáng chú ý. Việc cho định cư qua làm thuê trọn năm đã làm mất phần lớn tập quán thuê người làm theo năm, vốn trước đây rất phổ biến ở Anh (đến mức luật đến nay vẫn coi mọi người làm thuê là được thuê theo năm nếu không có thoả thuận khác). Người chủ không muốn thuê ai trọn năm, để khỏi phải cho người đó quyền định cư ở xứ mình. Người làm thuê cũng không muốn được thuê như vậy, vì mỗi quyền định cư mới xoá mọi quyền định cư trước, kể cả quyền định cư ở nơi mình sinh ra, nơi cha mẹ và họ hàng mình đang sống.
 
-Kết quả là không người lao động độc lập nào, dù là thợ thủ công hay lao động thường, có thể có quyền định cư mới bằng học nghề hay bằng làm thuê. Khi một người như vậy đến một xứ đạo mới để làm việc bằng sức mình, dù anh ta khoẻ mạnh và chăm chỉ đến đâu, anh ta vẫn có thể bị đuổi đi bất cứ lúc nào theo ý của người quản lý tài sản giáo hội hay giám thị người nghèo. Cách duy nhất để tránh là thuê một căn nhà 10 bảng mỗi năm, điều không thể với một người chỉ có sức lao động; hoặc nộp một khoản bảo đảm mà hai thẩm phán trị an cho là đủ. Mức bảo đảm do các thẩm phán định, nhưng không thể dưới 30 bảng, vì luật quy định rằng việc mua một mảnh đất tự do (freehold) trị giá dưới 30 bảng không cho người mua quyền định cư, tức là luật coi 30 bảng chưa đủ để bảo đảm cho xứ đạo. Rất ít người sống bằng lao động có thể nộp chừng ấy tiền, và thực tế người ta thường bị đòi nhiều hơn.
+Kết quả là không người lao động độc lập nào, dù là thợ thủ công hay lao động thường, có thể có quyền định cư mới bằng học nghề hay bằng làm thuê. Khi một người như vậy đến một xứ đạo mới để làm việc bằng sức mình, dù anh ta khoẻ mạnh và chăm chỉ đến đâu, anh ta vẫn có thể bị đuổi đi bất cứ lúc nào theo ý của người quản lý tài sản giáo hội hay giám thị người nghèo.
+
+Cách duy nhất để tránh là thuê một căn nhà 10 bảng mỗi năm, điều không thể với một người chỉ có sức lao động; hoặc nộp một khoản bảo đảm mà hai thẩm phán trị an cho là đủ. Mức bảo đảm do các thẩm phán định, nhưng không thể dưới 30 bảng, vì luật quy định rằng việc mua một mảnh đất tự do (freehold) trị giá dưới 30 bảng không cho người mua quyền định cư, tức là luật coi 30 bảng chưa đủ để bảo đảm cho xứ đạo. Rất ít người sống bằng lao động có thể nộp chừng ấy tiền, và thực tế người ta thường bị đòi nhiều hơn.
 
 Để khôi phục phần nào sự lưu chuyển của lao động mà các đạo luật trên gần như đã huỷ bỏ hoàn toàn, người ta nghĩ ra giấy chứng nhận (certificates). Đạo luật năm 8 và 9 triều William III quy định: nếu một người có giấy chứng nhận của xứ đạo nơi anh ta có quyền định cư hợp pháp gần nhất, có chữ ký của người quản lý tài sản giáo hội và giám thị người nghèo, thì mọi xứ đạo khác buộc phải nhận anh ta. Nhưng nguyên bản phân tích tiếp rằng xứ gốc thường ít khi chịu cấp giấy này; bản dịch lược phần này.
 
-**Kết án của Smith.** Đuổi một người không phạm tội gì khỏi xứ đạo nơi anh ta đã chọn để sống là một vi phạm rõ ràng đối với tự do tự nhiên và công lý. Smith nhận xét rằng những người biết suy nghĩ đôi khi than phiền Luật định cư là một mối hại chung, nhưng nó chưa bao giờ trở thành đối tượng của sự phản đối rộng rãi trong dân chúng. Thế mà, theo ông, hầu như không có người nghèo nào ở Anh sống đến 40 tuổi mà chưa có lúc nào trong đời cảm thấy mình bị đạo luật định cư được thiết kế tồi tệ này áp bức một cách tàn tệ. Nguyên bản còn kết luận rằng sự chênh lệch rất lớn về giá lao động mà ta thường thấy ở Anh giữa những nơi cách nhau không xa, điều không thấy ở Scotland, có lẽ là do chính Luật định cư; bản dịch lược câu này.
+**Kết án của Smith.** Đuổi một người không phạm tội gì khỏi xứ đạo nơi anh ta đã chọn để sống là một vi phạm rõ ràng đối với tự do tự nhiên và công lý.
+
+Smith nhận xét rằng những người biết suy nghĩ đôi khi than phiền Luật định cư là một mối hại chung, nhưng nó chưa bao giờ trở thành đối tượng của sự phản đối rộng rãi trong dân chúng. Thế mà, theo ông, hầu như không có người nghèo nào ở Anh sống đến 40 tuổi mà chưa có lúc nào trong đời cảm thấy mình bị đạo luật định cư được thiết kế tồi tệ này áp bức một cách tàn tệ. Nguyên bản còn kết luận rằng sự chênh lệch rất lớn về giá lao động mà ta thường thấy ở Anh giữa những nơi cách nhau không xa, điều không thấy ở Scotland, có lẽ là do chính Luật định cư; bản dịch lược câu này.
 
 **Ví dụ hôm nay** (minh hoạ chung). Ở nhiều nước ngày nay, khi quyền được hưởng các dịch vụ công như học hành, y tế hay trợ cấp gắn với nơi đăng ký thường trú, người lao động di cư sang vùng khác làm việc có thể gặp khó khăn tương tự như người nghèo Anh thời Smith: họ có việc ở nơi mới nhưng quyền lợi vẫn ở nơi cũ. Cơ chế mà Smith chỉ ra vẫn đúng: khi mỗi địa phương phải tự gánh chi phí cho cư dân của mình, địa phương có động cơ hạn chế người mới đến, và lao động khó chảy về nơi trả cao hơn.
 
@@ -920,7 +949,9 @@ Tuy vậy, Nghị viện thỉnh thoảng vẫn ra những đạo luật riêng 
 | Luật có lợi cho thợ | Luôn công bằng và hợp lý | Luật buộc chủ ở một số nghề trả lương cho thợ bằng tiền chứ không bằng hàng hoá. Luật này chẳng áp đặt gánh nặng thật nào lên chủ; nó chỉ buộc họ trả bằng tiền cái giá trị mà họ vẫn nói là mình trả nhưng thực ra không phải lúc nào cũng trả |
 | Luật có lợi cho chủ | Đôi khi không công bằng | Luật trần tiền công thợ may London năm 8 triều George III |
 
-Smith giải thích vì sao luật thợ may là bất công. Khi giới chủ thông đồng với nhau để hạ tiền công, họ thường ký một thoả thuận ngầm không ai trả quá một mức nào đó, kèm hình phạt cho người vi phạm. Nếu thợ thông đồng theo kiểu ngược lại, thoả thuận không ai nhận dưới một mức tiền công nào đó, thì luật trừng trị họ rất nặng. Công bằng thì phải đối xử với chủ như với thợ. Nhưng đạo luật năm 8 triều George III lại làm ngược: nó dùng sức mạnh của pháp luật để cưỡng chế đúng cái quy định mà giới chủ vẫn cố đạt được bằng thông đồng. Smith nói lời than phiền của thợ rằng luật này đặt người thợ giỏi nhất và chăm chỉ nhất ngang hàng với thợ bình thường "có vẻ hoàn toàn có cơ sở". (Bản dịch hiểu sai đoạn này, xem lưu ý ở đầu file.)
+Smith giải thích vì sao luật thợ may là bất công. Khi giới chủ thông đồng với nhau để hạ tiền công, họ thường ký một thoả thuận ngầm không ai trả quá một mức nào đó, kèm hình phạt cho người vi phạm. Nếu thợ thông đồng theo kiểu ngược lại, thoả thuận không ai nhận dưới một mức tiền công nào đó, thì luật trừng trị họ rất nặng. Công bằng thì phải đối xử với chủ như với thợ.
+
+Nhưng đạo luật năm 8 triều George III lại làm ngược: nó dùng sức mạnh của pháp luật để cưỡng chế đúng cái quy định mà giới chủ vẫn cố đạt được bằng thông đồng. Smith nói lời than phiền của thợ rằng luật này đặt người thợ giỏi nhất và chăm chỉ nhất ngang hàng với thợ bình thường "có vẻ hoàn toàn có cơ sở". (Bản dịch hiểu sai đoạn này, xem mục Lưu ý cuối chương.)
 
 **Định giá bánh mì.** Xưa kia người ta cũng cố điều tiết lợi nhuận của thương nhân và người buôn bán bằng cách định giá lương thực và các hàng hoá khác. Định giá bánh mì (assize of bread) là dấu vết duy nhất của tập quán cũ ấy còn lại, theo Smith biết. Lập luận của ông như sau:
 
@@ -929,7 +960,9 @@ Smith giải thích vì sao luật thợ may là bất công. Khi giới chủ t
 
 Smith đưa ra bằng chứng từ Scotland. Cách định giá bánh mì theo đạo luật năm 31 triều George II không thể áp dụng ở Scotland, vì việc thực thi dựa vào chức thư ký chợ (clerk of the market), một chức vụ mà Scotland không có. Khiếm khuyết này mãi đến năm 3 triều George III mới được sửa. Việc Scotland không có giá bánh mì quy định suốt thời gian đó chẳng gây ra bất tiện đáng kể nào, và việc áp dụng nó ở vài nơi sau đó cũng chẳng đem lại lợi ích đáng kể nào. Smith thêm rằng ở phần lớn các thị trấn Scotland có phường hội thợ làm bánh đòi đặc quyền độc quyền, nhưng đặc quyền ấy không được giữ chặt; tức là cạnh tranh trên thực tế vẫn đủ để giữ giá.
 
-**Kết luận cuối: tỷ lệ bất biến.** Chương kết thúc bằng một nhận định nối Chương X với các chương VIII và IX. Tỷ lệ giữa các mức tiền công và lợi nhuận ở các nghề khác nhau dường như không chịu tác động nhiều bởi sự giàu hay nghèo của xã hội, hay bởi trạng thái tiến lên, đứng yên hay đi xuống của nó. Những biến động trong tình trạng thịnh vượng chung ấy (bản dịch dịch sai thành "những cuộc cách mạng như đòi đảm bảo phúc lợi công cộng") có tác động đến *mức chung* của tiền công và lợi nhuận, như Chương VIII và IX đã chỉ ra. Nhưng cuối cùng chúng phải tác động đều lên mọi nghề, nên tỷ lệ giữa các nghề vẫn giữ nguyên. Nói cách khác, Chương VIII và IX giải thích vì sao toàn bộ bậc thang tiền công và lợi nhuận đi lên hay đi xuống; Chương X giải thích vì sao các bậc trên thang ấy cách nhau như vậy, và khoảng cách ấy tương đối ổn định bất kể cả thang đang ở độ cao nào.
+**Kết luận cuối: tỷ lệ bất biến.** Chương kết thúc bằng một nhận định nối Chương X với các chương VIII và IX. Tỷ lệ giữa các mức tiền công và lợi nhuận ở các nghề khác nhau dường như không chịu tác động nhiều bởi sự giàu hay nghèo của xã hội, hay bởi trạng thái tiến lên, đứng yên hay đi xuống của nó. Những biến động trong tình trạng thịnh vượng chung ấy (bản dịch dịch sai thành "những cuộc cách mạng như đòi đảm bảo phúc lợi công cộng") có tác động đến *mức chung* của tiền công và lợi nhuận, như Chương VIII và IX đã chỉ ra. Nhưng cuối cùng chúng phải tác động đều lên mọi nghề, nên tỷ lệ giữa các nghề vẫn giữ nguyên.
+
+Nói cách khác, Chương VIII và IX giải thích vì sao toàn bộ bậc thang tiền công và lợi nhuận đi lên hay đi xuống; Chương X giải thích vì sao các bậc trên thang ấy cách nhau như vậy, và khoảng cách ấy tương đối ổn định bất kể cả thang đang ở độ cao nào.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1071,7 +1104,9 @@ Smith đưa ra bằng chứng từ Scotland. Cách định giá bánh mì theo �
 
 Lý thuyết chênh lệch bù trừ là một trong số ít ý tưởng của *Của cải của các dân tộc* được dùng nguyên vẹn trong giáo trình kinh tế học lao động hiện nay. Logic của nó gần như không thể bác bỏ: nếu người ta tự do chọn nghề và quan tâm đến cả những gì ngoài tiền, thì nghề khó chịu phải trả nhiều tiền hơn, nếu không sẽ không ai làm. Các ước lượng phần lương thêm cho rủi ro tử vong trong công việc, nền tảng của khái niệm giá trị thống kê của một mạng người, chính là phần ❶ và ❸ của Smith được đưa vào hồi quy.
 
-Nhưng khi các nhà kinh tế đem lý thuyết này đối chiếu với dữ liệu, kết quả thường yếu hơn dự đoán: nhiều nghề vừa bẩn, vừa nguy hiểm, vừa bấp bênh lại vừa trả *thấp*. Lý do nằm ở giả định ngầm thứ tư mà Smith không nói ra: ông coi người lao động như đồng nhất về năng lực và lựa chọn. Thực tế, người có năng lực, học vấn và quan hệ cao hơn vừa được trả nhiều hơn vừa "mua" được công việc dễ chịu hơn, vì với họ sự dễ chịu là một thứ hàng xa xỉ. So sánh thô giữa các nghề vì thế trộn hai hiệu ứng ngược chiều. Smith đã gần tới chỗ này khi nói người học nghề nghèo phải trả bằng nhiều năm làm không công, tức là cơ hội vào nghề phụ thuộc vào của cải gia đình, nhưng ông không rút ra rằng điều đó phá vỡ cơ chế cân bằng của chính ông. Chênh lệch bù trừ chỉ là chênh lệch cân bằng khi ai cũng có thể vào nghề; khi chi phí học phải tự trả và không vay được, chênh lệch tay nghề có thể chứa một phần đặc lợi do thị trường tín dụng không hoàn hảo, không chỉ bù chi phí.
+Nhưng khi các nhà kinh tế đem lý thuyết này đối chiếu với dữ liệu, kết quả thường yếu hơn dự đoán: nhiều nghề vừa bẩn, vừa nguy hiểm, vừa bấp bênh lại vừa trả *thấp*. Lý do nằm ở giả định ngầm thứ tư mà Smith không nói ra: ông coi người lao động như đồng nhất về năng lực và lựa chọn. Thực tế, người có năng lực, học vấn và quan hệ cao hơn vừa được trả nhiều hơn vừa "mua" được công việc dễ chịu hơn, vì với họ sự dễ chịu là một thứ hàng xa xỉ. So sánh thô giữa các nghề vì thế trộn hai hiệu ứng ngược chiều.
+
+Smith đã gần tới chỗ này khi nói người học nghề nghèo phải trả bằng nhiều năm làm không công, tức là cơ hội vào nghề phụ thuộc vào của cải gia đình, nhưng ông không rút ra rằng điều đó phá vỡ cơ chế cân bằng của chính ông. Chênh lệch bù trừ chỉ là chênh lệch cân bằng khi ai cũng có thể vào nghề; khi chi phí học phải tự trả và không vay được, chênh lệch tay nghề có thể chứa một phần đặc lợi do thị trường tín dụng không hoàn hảo, không chỉ bù chi phí.
 
 ### Năm hoàn cảnh không cùng một loại, và hoàn cảnh thứ năm đi trước kinh tế học hai thế kỷ
 
@@ -1095,28 +1130,233 @@ Phân tích này tinh tế hơn nhiều so với cách nó được trích. Smit
 
 ### Luật học nghề có một bằng chứng mà Smith nêu nhưng không khai thác: công nghiệp mới mọc lên đúng ở nơi luật không chạm tới
 
-Smith ghi chú như một chi tiết phi lý rằng các ngành ở Manchester, Birmingham và Wolverhampton nằm ngoài Luật Học nghề vì chưa có trước năm thứ 5 triều Elizabeth, và ở chỗ khác nói muốn có hàng tốt phải làm ở ngoại ô, ngoài tầm phường hội. Đặt hai chi tiết cạnh nhau, có một bằng chứng tự nhiên mạnh hơn mọi lập luận đạo đức của ông: các trung tâm công nghiệp năng động nhất của nước Anh đầu cuộc Cách mạng Công nghiệp lớn lên chính ở những nơi và những nghề không bị luật học nghề và phường hội ràng buộc. Lịch sử kinh tế sau này xác nhận mô thức ấy ở nhiều nơi: sản xuất mới chuyển ra vùng nông thôn hay thị trấn không có phường hội để tránh các quy chế thành thị. Smith có dữ liệu cho một luận cứ thực nghiệm nhưng chọn trình bày nó như một ví dụ về sự lố bịch.
+Smith ghi chú như một chi tiết phi lý rằng các ngành ở Manchester, Birmingham và Wolverhampton nằm ngoài Luật Học nghề vì chưa có trước năm thứ 5 triều Elizabeth, và ở chỗ khác nói muốn có hàng tốt phải làm ở ngoại ô, ngoài tầm phường hội. Đặt hai chi tiết cạnh nhau, có một bằng chứng tự nhiên mạnh hơn mọi lập luận đạo đức của ông: các trung tâm công nghiệp năng động nhất của nước Anh đầu cuộc Cách mạng Công nghiệp lớn lên chính ở những nơi và những nghề không bị luật học nghề và phường hội ràng buộc.
+
+Lịch sử kinh tế sau này xác nhận mô thức ấy ở nhiều nơi: sản xuất mới chuyển ra vùng nông thôn hay thị trấn không có phường hội để tránh các quy chế thành thị. Smith có dữ liệu cho một luận cứ thực nghiệm nhưng chọn trình bày nó như một ví dụ về sự lố bịch.
 
 ### Smith đánh giá cao trí tuệ của người nông dân, và điều này nên đọc cùng với cái giá của phân công lao động
 
-Đoạn khen người cày ruộng hiểu biết hơn thợ thành thị vì phải xem xét nhiều đối tượng thay đổi, trong khi người thợ suốt ngày chỉ làm một hai thao tác đơn giản, là một trong những đoạn bất ngờ nhất của chương. Nó có hai chức năng. Trong chương này, nó bác bỏ lý do chính thức của chính sách châu Âu khi xếp thợ là lao động có kỹ năng và nông dân là lao động thường: nếu kỹ năng thật nằm ở nông dân, thì tiền công cao hơn của thợ không phải bù cho kỹ năng mà là đặc lợi do phường hội. Trong cả bộ sách, nó là mặt trái của Quyển I, Chương I: chính sự chuyên môn hoá làm tăng năng suất cũng thu hẹp tầm hiểu biết của người lao động. Ấn bản tiếng Việt này không có Quyển V, nơi Smith phát triển ý ấy thành lập luận cho giáo dục công, nên đoạn này là chỗ duy nhất trong bản dịch mà người đọc thấy được mối lo đó.
+Đoạn khen người cày ruộng hiểu biết hơn thợ thành thị vì phải xem xét nhiều đối tượng thay đổi, trong khi người thợ suốt ngày chỉ làm một hai thao tác đơn giản, là một trong những đoạn bất ngờ nhất của chương. Nó có hai chức năng. Trong chương này, nó bác bỏ lý do chính thức của chính sách châu Âu khi xếp thợ là lao động có kỹ năng và nông dân là lao động thường: nếu kỹ năng thật nằm ở nông dân, thì tiền công cao hơn của thợ không phải bù cho kỹ năng mà là đặc lợi do phường hội.
+
+Trong cả bộ sách, nó là mặt trái của Quyển I, Chương I: chính sự chuyên môn hoá làm tăng năng suất cũng thu hẹp tầm hiểu biết của người lao động. Ấn bản tiếng Việt này không có Quyển V, nơi Smith phát triển ý ấy thành lập luận cho giáo dục công, nên đoạn này là chỗ duy nhất trong bản dịch mà người đọc thấy được mối lo đó.
 
 ### Câu kết của chương là chỗ yếu nhất về thực nghiệm
 
-Smith kết luận rằng tỷ lệ giữa tiền công các nghề không bị ảnh hưởng nhiều bởi việc xã hội tiến lên, đứng yên hay đi xuống. Điều này nhất quán với lý thuyết bù trừ (nếu chênh lệch là bù cho đặc tính công việc, mà đặc tính không đổi, thì tỷ lệ không đổi), nhưng sai với dữ liệu hiện đại. Phần chênh tiền công giữa lao động có kỹ năng và không có kỹ năng dao động mạnh qua các thời kỳ, theo một cuộc chạy đua giữa công nghệ (làm tăng cầu kỹ năng) và mở rộng giáo dục (làm tăng cung kỹ năng). Smith thiếu khái niệm cầu lao động thay đổi *theo loại kỹ năng*; trong ông, tăng trưởng chỉ nâng "quỹ trả lương" chung. Ông đã chạm tới cơ chế này khi nói học bổng kéo lương nhà giáo xuống và khi nói nghề mới trả cao, nhưng không khái quát lên thành ý rằng cung và cầu từng loại kỹ năng quyết định phần chênh lệch.
+Smith kết luận rằng tỷ lệ giữa tiền công các nghề không bị ảnh hưởng nhiều bởi việc xã hội tiến lên, đứng yên hay đi xuống. Điều này nhất quán với lý thuyết bù trừ (nếu chênh lệch là bù cho đặc tính công việc, mà đặc tính không đổi, thì tỷ lệ không đổi), nhưng sai với dữ liệu hiện đại.
+
+Phần chênh tiền công giữa lao động có kỹ năng và không có kỹ năng dao động mạnh qua các thời kỳ, theo một cuộc chạy đua giữa công nghệ (làm tăng cầu kỹ năng) và mở rộng giáo dục (làm tăng cung kỹ năng). Smith thiếu khái niệm cầu lao động thay đổi *theo loại kỹ năng*; trong ông, tăng trưởng chỉ nâng "quỹ trả lương" chung. Ông đã chạm tới cơ chế này khi nói học bổng kéo lương nhà giáo xuống và khi nói nghề mới trả cao, nhưng không khái quát lên thành ý rằng cung và cầu từng loại kỹ năng quyết định phần chênh lệch.
 
 ### Với Việt Nam: phần lớn những gì Smith gọi là "chính sách châu Âu" đều có dạng tương đương, và phần quan trọng nhất là hộ khẩu
 
 Chương này có lẽ là chương áp dụng trực tiếp nhất cho thị trường lao động Việt Nam trong cả Quyển I.
 
-**Luật định cư và hộ khẩu.** Cấu trúc mà Smith mô tả, mỗi đơn vị hành chính phải chịu trách nhiệm cho cư dân đăng ký của mình nên có động cơ hạn chế người mới đến, chính là cơ chế logic của chế độ hộ khẩu. Trong nhiều thập kỷ, quyền vào trường công, quyền mua nhà đất, quyền tiếp cận một số dịch vụ công gắn với nơi đăng ký thường trú, và người di cư từ nông thôn ra thành phố làm việc mà không có các quyền đó, đúng như người lao động Anh không có "settlement". Luật Cư trú 2020 đã bỏ sổ hộ khẩu giấy (từ đầu năm 2023) và chuyển sang quản lý bằng cơ sở dữ liệu dân cư, nhưng câu hỏi Smith đặt ra vẫn còn nguyên: quyền lợi nào vẫn gắn với nơi cư trú, và địa phương có động cơ hạn chế cung cấp dịch vụ công cho người không thường trú hay không. Bài học của Smith là ở chỗ ông nhìn thấy chi phí của luật định cư không trong cứu tế mà trong *phân mảnh thị trường lao động*: tiền công chênh lớn giữa những nơi gần nhau, thợ thừa ở nơi này không chuyển sang nơi thiếu. Phần chênh lệch tiền công lớn và dai dẳng giữa vùng công nghiệp và vùng nông nghiệp, dù có cả lý do bù trừ (chi phí sống, xa gia đình), cần được hỏi xem bao nhiêu là bù trừ và bao nhiêu là rào cản thể chế.
+**Luật định cư và hộ khẩu.** Cấu trúc mà Smith mô tả, mỗi đơn vị hành chính phải chịu trách nhiệm cho cư dân đăng ký của mình nên có động cơ hạn chế người mới đến, chính là cơ chế logic của chế độ hộ khẩu. Trong nhiều thập kỷ, quyền vào trường công, quyền mua nhà đất, quyền tiếp cận một số dịch vụ công gắn với nơi đăng ký thường trú, và người di cư từ nông thôn ra thành phố làm việc mà không có các quyền đó, đúng như người lao động Anh không có "settlement".
 
-**Phường hội và "giấy phép con".** Phần II tương ứng với hệ thống điều kiện kinh doanh và chứng chỉ hành nghề. Có những điều kiện thật sự bảo vệ an toàn và có những điều kiện mà tác dụng chính là giới hạn số người vào nghề. Phép thử của Smith rất thực dụng: một điều kiện bảo vệ người mua tốt hơn hay kém hơn một nhãn hiệu, một chế độ trách nhiệm sau bán hàng? Nếu điều kiện chỉ đòi thời gian, bằng cấp hay số vốn tối thiểu mà không liên quan rõ tới chất lượng sản phẩm, thì đó là dạng hiện đại của luật học nghề bảy năm. Các đợt cắt giảm điều kiện kinh doanh trong những năm gần đây đi đúng hướng mà Smith chỉ ra, và câu hỏi còn lại là ai được hỏi ý kiến khi các điều kiện ấy được soạn: nếu người soạn là hiệp hội của những người đã ở trong nghề, Smith sẽ nói kết quả là đoán trước được.
+Luật Cư trú 2020 đã bỏ sổ hộ khẩu giấy (từ đầu năm 2023) và chuyển sang quản lý bằng cơ sở dữ liệu dân cư, nhưng câu hỏi Smith đặt ra vẫn còn nguyên: quyền lợi nào vẫn gắn với nơi cư trú, và địa phương có động cơ hạn chế cung cấp dịch vụ công cho người không thường trú hay không.
 
-**Nghề phụ, làng nghề và "ly nông bất ly hương".** Người thôn dã Scotland và người đan bít tất Shetland là hình ảnh của hộ nông dân Việt Nam làm nghề phụ lúc nông nhàn, của làng nghề, và của lao động gia công tại nhà. Lập luận của Smith giải thích vì sao sản phẩm của họ rẻ hơn giá tự nhiên: lao động làm thêm lúc rảnh được trả thấp hơn lao động toàn thời gian, vì phần lớn thu nhập đến từ nơi khác. Hệ quả có hai mặt. Mặt tốt: đây là cách tận dụng thời gian rảnh và là một lợi thế cạnh tranh thật. Mặt cần lưu ý: so sánh tiền công khu vực này với khu vực chính thức sẽ cho kết luận sai về mức sống, giống sai lầm của các tác giả mà Smith phê phán khi coi khoản trả bằng tiền là toàn bộ tiền công thời xưa. Thu nhập thực của hộ nông thôn phải tính cả nhà, đất, phần tự cung tự cấp.
+Bài học của Smith là ở chỗ ông nhìn thấy chi phí của luật định cư không trong cứu tế mà trong *phân mảnh thị trường lao động*: tiền công chênh lớn giữa những nơi gần nhau, thợ thừa ở nơi này không chuyển sang nơi thiếu. Phần chênh lệch tiền công lớn và dai dẳng giữa vùng công nghiệp và vùng nông nghiệp, dù có cả lý do bù trừ (chi phí sống, xa gia đình), cần được hỏi xem bao nhiêu là bù trừ và bao nhiêu là rào cản thể chế.
 
-**Lương khu vực công và "lợi nhuận biểu kiến".** Lập luận rằng nhà bào chế hay người bán tạp hoá có "lãi" cao thực ra là tiền công áp dụng ngược lại cho khu vực công. Khi lương chính thức của bác sĩ, giáo viên, công chức thấp hơn rõ rệt mức bù trừ cho chi phí học và trách nhiệm, thì theo Smith cơ chế cân bằng sẽ tìm đường khác: hoặc thu nhập ngoài lương xuất hiện để bù vào, hoặc người giỏi rời sang khu vực tư. Cả hai hiện tượng đều được quan sát ở Việt Nam. Bài học không phải là đạo đức nghề nghiệp mà là cơ chế: tổng lợi ích của nghề sẽ tự cân bằng với các nghề khác, và chỉ có chọn lựa giữa phần bù ấy được trả minh bạch hay không minh bạch. Phần về nhà giáo còn thêm một lớp: Smith nói học bổng và trợ cấp đào tạo làm tăng cung và kéo lương nghề xuống, nhưng đổi lại học vấn rẻ là lợi ích lớn cho xã hội. Chính sách miễn học phí cho sinh viên sư phạm là một ví dụ trực tiếp của đúng sự đánh đổi ấy.
+**Phường hội và "giấy phép con".** Phần II tương ứng với hệ thống điều kiện kinh doanh và chứng chỉ hành nghề. Có những điều kiện thật sự bảo vệ an toàn và có những điều kiện mà tác dụng chính là giới hạn số người vào nghề. Phép thử của Smith rất thực dụng: một điều kiện bảo vệ người mua tốt hơn hay kém hơn một nhãn hiệu, một chế độ trách nhiệm sau bán hàng?
 
-**Đi lao động nước ngoài và "cuộc xổ số" nghề nghiệp.** Smith quan sát rằng thanh niên đánh giá thấp rủi ro và đánh giá cao vận may đúng ở tuổi chọn nghề. Đây là một lăng kính hữu ích cho quyết định đi lao động nước ngoài với chi phí môi giới cao: thu nhập kỳ vọng tính trên những người thành công trông rất hấp dẫn, nhưng phép cộng thu chi của *cả nhóm*, kể cả những người bị lừa, về sớm, mất cọc, có thể cho một bức tranh rất khác. Phép kiểm tra mà Smith dùng cho nghề luật (cộng toàn bộ thu nhập và chi phí của tất cả những người đã vào nghề) là đúng loại dữ liệu mà chính sách bảo vệ người lao động di cư cần thu thập. Đây là lập luận định tính; quy mô cụ thể của hiện tượng cần số liệu điều tra riêng.
+Nếu điều kiện chỉ đòi thời gian, bằng cấp hay số vốn tối thiểu mà không liên quan rõ tới chất lượng sản phẩm, thì đó là dạng hiện đại của luật học nghề bảy năm. Các đợt cắt giảm điều kiện kinh doanh trong những năm gần đây đi đúng hướng mà Smith chỉ ra, và câu hỏi còn lại là ai được hỏi ý kiến khi các điều kiện ấy được soạn: nếu người soạn là hiệp hội của những người đã ở trong nghề, Smith sẽ nói kết quả là đoán trước được.
+
+**Nghề phụ, làng nghề và "ly nông bất ly hương".** Người thôn dã Scotland và người đan bít tất Shetland là hình ảnh của hộ nông dân Việt Nam làm nghề phụ lúc nông nhàn, của làng nghề, và của lao động gia công tại nhà. Lập luận của Smith giải thích vì sao sản phẩm của họ rẻ hơn giá tự nhiên: lao động làm thêm lúc rảnh được trả thấp hơn lao động toàn thời gian, vì phần lớn thu nhập đến từ nơi khác.
+
+Hệ quả có hai mặt. Mặt tốt: đây là cách tận dụng thời gian rảnh và là một lợi thế cạnh tranh thật. Mặt cần lưu ý: so sánh tiền công khu vực này với khu vực chính thức sẽ cho kết luận sai về mức sống, giống sai lầm của các tác giả mà Smith phê phán khi coi khoản trả bằng tiền là toàn bộ tiền công thời xưa. Thu nhập thực của hộ nông thôn phải tính cả nhà, đất, phần tự cung tự cấp.
+
+**Lương khu vực công và "lợi nhuận biểu kiến".** Lập luận rằng nhà bào chế hay người bán tạp hoá có "lãi" cao thực ra là tiền công áp dụng ngược lại cho khu vực công. Khi lương chính thức của bác sĩ, giáo viên, công chức thấp hơn rõ rệt mức bù trừ cho chi phí học và trách nhiệm, thì theo Smith cơ chế cân bằng sẽ tìm đường khác: hoặc thu nhập ngoài lương xuất hiện để bù vào, hoặc người giỏi rời sang khu vực tư. Cả hai hiện tượng đều được quan sát ở Việt Nam.
+
+Bài học không phải là đạo đức nghề nghiệp mà là cơ chế: tổng lợi ích của nghề sẽ tự cân bằng với các nghề khác, và chỉ có chọn lựa giữa phần bù ấy được trả minh bạch hay không minh bạch.
+
+Phần về nhà giáo còn thêm một lớp: Smith nói học bổng và trợ cấp đào tạo làm tăng cung và kéo lương nghề xuống, nhưng đổi lại học vấn rẻ là lợi ích lớn cho xã hội. Chính sách miễn học phí cho sinh viên sư phạm là một ví dụ trực tiếp của đúng sự đánh đổi ấy.
+
+**Đi lao động nước ngoài và "cuộc xổ số" nghề nghiệp.** Smith quan sát rằng thanh niên đánh giá thấp rủi ro và đánh giá cao vận may đúng ở tuổi chọn nghề. Đây là một lăng kính hữu ích cho quyết định đi lao động nước ngoài với chi phí môi giới cao: thu nhập kỳ vọng tính trên những người thành công trông rất hấp dẫn, nhưng phép cộng thu chi của *cả nhóm*, kể cả những người bị lừa, về sớm, mất cọc, có thể cho một bức tranh rất khác.
+
+Phép kiểm tra mà Smith dùng cho nghề luật (cộng toàn bộ thu nhập và chi phí của tất cả những người đã vào nghề) là đúng loại dữ liệu mà chính sách bảo vệ người lao động di cư cần thu thập. Đây là lập luận định tính; quy mô cụ thể của hiện tượng cần số liệu điều tra riêng.
 
 **Định giá và điều tiết tiền công.** Nhận xét của Smith về giá bánh mì quy định, rằng định giá chỉ hợp lý khi có độc quyền, còn khi có cạnh tranh thì cạnh tranh điều chỉnh tốt hơn, là tiêu chí rõ ràng cho các mặt hàng còn được bình ổn giá. Và nguyên tắc "khi lập pháp điều tiết quan hệ chủ–thợ, người cố vấn luôn là giới chủ" là lý do để cơ chế xác định lương tối thiểu có đại diện thật sự của người lao động, chứ không chỉ để thu thập ý kiến của giới sử dụng lao động và cơ quan nhà nước.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển I, Chương X trên một trang: bảy nhánh lớn, sáu nhánh đầu đi theo các mục 1–8 của phần Nội dung chi tiết (nguyên lý cân bằng, năm hoàn cảnh bù trừ trong tiền công, lợi nhuận và ba điều kiện cân bằng, phường hội và thành thị với nông thôn, học bổng và Luật định cư, điều tiết tiền công và tỷ lệ bất biến), mỗi nhánh ghi luận điểm, cơ chế, ví dụ và số liệu then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương X: dưới tự do hoàn toàn, tổng lợi thế các nghề cân bằng, còn chênh lệch thật do chính sách châu Âu gây ra`"]
+  n1["`Mục 1 — Nguyên lý cân bằng và hai nguồn chênh lệch`"]
+  n0 --- n1
+  n2["`Nghề nào lợi hơn thì người kéo đến, người bỏ nghề kém lợi, chẳng bao lâu nghề ấy về mức bình thường`"]
+  n1 --- n2
+  n3["`Điều kiện: tự do hoàn toàn, mỗi người tự do chọn và đổi nghề theo lợi ích riêng`"]
+  n1 --- n3
+  n4["`Cái được cân bằng là tổng lợi thế và bất lợi, không phải tiền công bằng tiền`"]
+  n1 --- n4
+  n5["`Phần I: chênh lệch do bản chất công việc chỉ bù trừ, không phá cân bằng tổng lợi thế`"]
+  n1 --- n5
+  n6["`Phần II: chênh lệch do chính sách châu Âu thực sự phá vỡ cân bằng`"]
+  n1 --- n6
+  n7["`Mục 2 — Năm hoàn cảnh bù trừ trong tiền công`"]
+  n0 --- n7
+  n8["`Việc nặng nhọc, bẩn, nhục nhã trả cao: thợ rèn làm 12 giờ ít khi bằng thợ mỏ làm 8 giờ`"]
+  n7 --- n8
+  n9["`Đao phủ được trả hậu nhất so với lượng việc, hàng thịt lời hơn phần lớn nghề thường`"]
+  n8 --- n9
+  n10["`Săn bắn, đánh cá là tiêu khiển của người giàu nên người sống bằng nghề này nghèo`"]
+  n8 --- n10
+  n11["`Người được đào tạo tốn kém như cỗ máy đắt tiền: tiền công phải hoàn chi phí học cộng lợi nhuận thông thường`"]
+  n7 --- n11
+  n12["`Thợ thủ công chỉ hơn lao động thường một chút, hoạ sĩ, luật sư, thầy thuốc hơn nhiều`"]
+  n11 --- n12
+  n13["`Việc bấp bênh: thợ nề 7–8 shilling/tuần khi lao động thường 4–5, ở London 15–18 so với 9–10`"]
+  n7 --- n13
+  n14["`Không nghề nào dễ học hơn nghề nề, thợ mộc khéo hơn mà lương thấp hơn vì ít phụ thuộc thời tiết`"]
+  n13 --- n14
+  n15["`Phu bốc than London 6–10 shilling/ngày, gấp 4–5 lao động thường, vì tàu than đến không đều`"]
+  n13 --- n15
+  n16["`Độ tin cậy: thợ kim hoàn cầm vật liệu quý, thầy thuốc giữ sức khoẻ, luật sư giữ tài sản và danh dự`"]
+  n7 --- n16
+  n17["`Khả năng thành công: học luật chỉ 1/20 sống được bằng nghề, xổ số công bằng thì người thắng phải được bù cho cả 20`"]
+  n7 --- n17
+  n18["`Cộng thu chi cả nghề: thợ giày thu vượt chi, luật sư cộng sinh viên luật thu chỉ bằng phần rất nhỏ của chi`"]
+  n17 --- n18
+  n19["`Nghề danh giá bị trả thấp hơn mức bù vì ham danh tiếng và tự tin thái quá vào vận may`"]
+  n17 --- n19
+  n20["`Vé xổ số bán vượt giá 20–40%, 19/20 nhà không bảo hiểm hoả hoạn, lương lính thấp mà thanh niên vẫn đầu quân`"]
+  n17 --- n20
+  n21["`Diễn viên, ca sĩ, vũ nữ opera được trả cao vì tài hiếm và phải bù sự mang tiếng`"]
+  n17 --- n21
+  n22["`Mục 3–4 — Lợi nhuận và ba điều kiện để cân bằng thật sự xảy ra`"]
+  n0 --- n22
+  n23["`Lợi nhuận chỉ chịu hai hoàn cảnh, sự dễ chịu và rủi ro, nên đều hơn tiền công nhiều`"]
+  n22 --- n23
+  n24["`Lợi nhuận tăng theo rủi ro nhưng không tương xứng, buôn lậu là con đường tất yếu dẫn đến phá sản`"]
+  n22 --- n24
+  n25["`Lợi nhuận biểu kiến phần lớn là tiền công trá hình`"]
+  n22 --- n25
+  n26["`Nhà bào chế mua thuốc 30–40 bảng, bán 300–400 bảng: lãi 1.000% thực chất là tiền công hợp lý`"]
+  n25 --- n26
+  n27["`Tạp hoá thị trấn lãi 40–50% trên 100 bảng, trong đó 30–40 bảng là tiền công, buôn sỉ lãi 8–10% trên 10.000 bảng`"]
+  n25 --- n27
+  n28["`Thương nhân thủ đô lãi suất thấp mà giàu nhanh hơn nhờ thị trường lớn cho mở rộng quy mô và tín dụng`"]
+  n25 --- n28
+  n29["`Điều kiện 1, nghề lâu đời: nghề mới trả lương cao, Birmingham làm hàng thời trang lương cao hơn Sheffield`"]
+  n22 --- n29
+  n30["`Điều kiện 2, trạng thái bình thường: thời chiến lương thuỷ thủ tàu buôn từ 21–27 lên 40–60 shilling/tháng`"]
+  n22 --- n30
+  n31["`Điều kiện 3, là nghề chính: bít tất Shetland 5–7 penny/đôi trong khi công nhật ở Lerwick 10 penny`"]
+  n22 --- n31
+  n32["`Người thôn dã Scotland được trả chủ yếu bằng lều và vườn, khoản tiền không phải toàn bộ tiền công`"]
+  n31 --- n32
+  n33["`Phòng cho thuê ở London rẻ nhất châu Âu vì cho thuê lại hai tầng giữa chỉ là nghề phụ của thương nhân`"]
+  n31 --- n33
+  n34["`Mục 5 — Chính sách thứ nhất: phường hội hạn chế cạnh tranh`"]
+  n0 --- n34
+  n35["`Hai công cụ: giới hạn số người học nghề mỗi thợ cả, kéo dài thời gian học để tăng chi phí`"]
+  n34 --- n35
+  n36["`Thợ làm mũ khắp nước Anh không nhận quá 2 người học, phạt 5 bảng/tháng, thợ dao kéo Sheffield chỉ 1`"]
+  n35 --- n36
+  n37["`Luật Học nghề năm thứ 5 triều Elizabeth: cấm hành nghề nếu chưa học đủ 7 năm`"]
+  n35 --- n37
+  n38["`Manchester, Birmingham, Wolverhampton đứng ngoài luật vì các ngành ở đó ra đời sau luật`"]
+  n35 --- n38
+  n39["`Tài sản mỗi người có trong sức lao động của mình là thiêng liêng và bất khả xâm phạm nhất`"]
+  n34 --- n39
+  n40["`Học lâu không bảo đảm chất lượng: dấu sterling trên bạc trấn an người mua hơn mọi điều lệ học nghề`"]
+  n34 --- n40
+  n41["`Thợ làm khoán chăm vì được hưởng thành quả, người học nghề lười vì không được gì`"]
+  n34 --- n41
+  n42["`Thành thị bán hàng chế tạo đắt nên mua nông sản rẻ, thị dân được phần lớn hơn của sản phẩm hằng năm`"]
+  n34 --- n42
+  n43["`Cứ 1 người giàu nhờ canh tác thì ít nhất 100 người giàu nhờ buôn bán và chế tạo`"]
+  n42 --- n43
+  n44["`Thị dân sống tập trung nên dễ kết hợp, nông dân phân tán thì không, dù nghề nông cần phán đoán hơn`"]
+  n42 --- n44
+  n45["`Nửa tá thợ chải lông cừu không nhận người học, độc chiếm việc làm mà 1.000 thợ kéo sợi và dệt cần tới`"]
+  n42 --- n45
+  n46["`Người cùng nghề gặp nhau là bàn mưu tăng giá: luật không cấm được, nhưng không được tạo điều kiện`"]
+  n34 --- n46
+  n47["`Sổ đăng ký, quỹ tương tế và quyết định đa số của phường hội làm cartel bền hơn thoả thuận tự nguyện`"]
+  n46 --- n47
+  n48["`Kỷ luật thật của người thợ là khách hàng và nỗi sợ mất việc, không phải phường hội`"]
+  n46 --- n48
+  n49["`Mục 6–7 — Tăng cạnh tranh quá mức và chặn lưu chuyển lao động`"]
+  n0 --- n49
+  n50["`Học bổng đào tạo giáo sĩ làm người có học quá thừa, lương nhà giáo không so được với luật sư, thầy thuốc`"]
+  n49 --- n50
+  n51["`Thời chưa có quỹ ấy, Isocrates thu 10 mina mỗi học trò, 100 học trò thành 1.000 mina mỗi khoá`"]
+  n50 --- n51
+  n52["`Smith chấp nhận chính sách này: học vấn rẻ là lợi ích lớn hơn nhiều so với việc hạ thấp nghề dạy học`"]
+  n50 --- n52
+  n53["`Luật học nghề chặn lao động giữa các nghề, đặc quyền phường hội chặn lao động giữa các nơi`"]
+  n49 --- n53
+  n54["`Thợ dệt lanh hay lụa thành thợ dệt len khá trong vài ngày, nhưng luật cấm nên thợ thừa phải nhận cứu tế`"]
+  n53 --- n54
+  n55["`Luật định cư riêng của Anh: mỗi xứ đạo nuôi người nghèo của mình nên có động cơ đuổi người mới đến`"]
+  n49 --- n55
+  n56["`Người lao động bị đuổi được bất cứ lúc nào, trừ khi thuê nhà 10 bảng/năm hoặc bảo đảm ít nhất 30 bảng`"]
+  n55 --- n56
+  n57["`Đuổi người không phạm tội là vi phạm tự do và công lý, hầu như mọi người nghèo 40 tuổi ở Anh từng bị áp bức`"]
+  n55 --- n57
+  n58["`Mục 8 — Điều tiết tiền công, giá bánh mì và tỷ lệ bất biến`"]
+  n0 --- n58
+  n59["`Khi lập pháp điều tiết quan hệ chủ–thợ, người cố vấn luôn là giới chủ`"]
+  n58 --- n59
+  n60["`Luật trần lương thợ may London 2 shilling 7½ penny/ngày cưỡng chế đúng điều giới chủ vẫn đạt bằng thông đồng`"]
+  n59 --- n60
+  n61["`Luật buộc trả lương bằng tiền chứ không bằng hàng có lợi cho thợ nên luôn công bằng`"]
+  n59 --- n61
+  n62["`Định giá bánh mì chỉ hợp lý khi có phường hội độc quyền, Scotland thiếu giá quy định mà không gây phiền toái`"]
+  n58 --- n62
+  n63["`Tỷ lệ tiền công và lợi nhuận giữa các nghề gần như không đổi khi xã hội tiến, đứng hay lùi, chỉ mức chung thay đổi`"]
+  n58 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Chênh lệch tiền công phần lớn là giá cân bằng cho bất lợi thật, không phải bất công cần sửa bằng luật`"]
+  n64 --- n65
+  n66["`Bất bình đẳng thật đến từ chính sách: hạn chế gia nhập, trợ cấp gia nhập, chặn di chuyển`"]
+  n64 --- n66
+  n67["`Nhóm tập trung, có tổ chức dùng nhà nước chống nhóm phân tán: thị dân chống nông dân, giới chủ chống thợ`"]
+  n64 --- n67
+  class n0 root
+  class n1,n7,n22,n34,n49,n58,n64 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n65,n66,n67 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương X. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 116–154.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Đơn vị tiền Anh
+
+Đơn vị tiền Anh dùng trong file: 1 bảng (pound) = 20 shilling; 1 shilling = 12 penny; 1 guinea = 21 shilling; 1 crown = 5 shilling, nên "nửa crown" = 2 shilling 6 penny. Smith quy đổi 1 mina Hy Lạp = 3 bảng 6 shilling 8 penny.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển I, Chương VII định nghĩa giá tự nhiên của một hàng hoá là mức giá vừa đủ trả tiền công, lợi nhuận và địa tô theo "tỷ suất thông thường" của nơi đó. Chương VIII và IX giải thích *mức chung* của tiền công (phụ thuộc vào việc quỹ trả lương đang tăng, đứng yên hay giảm) và của lợi nhuận (giảm dần khi vốn tích luỹ).
+
+Chương X trả lời câu hỏi còn lại: vì sao, quanh hai mức chung ấy, tiền công và lợi nhuận lại chênh nhau rất xa giữa các nghề, và chênh lệch nào là tự nhiên, chênh lệch nào do chính sách tạo ra.
+
+Phần II của chương mở đầu cho bản cáo trạng chống các đặc quyền và hạn chế mà Smith sẽ triển khai trong Quyển III (vì sao thành thị châu Âu được ưu đãi hơn nông thôn, trái với "trình tự tự nhiên của sự giàu có") và Quyển IV (hệ thống trọng thương).
+
+## Lưu ý về bản dịch và văn bản
+
+- **"Socrates" phải là Isocrates.** Đoạn về thù lao nhà giáo ở Hy Lạp, Smith dẫn Isocrates (nhà hùng biện, tác giả bài *Chống các nhà nguỵ biện*), chính Isocrates thu 10 mina mỗi học trò và có một trăm học trò. Bản dịch viết "Socrates" ở cả ba chỗ. Socrates nổi tiếng là không nhận tiền dạy học, nên lỗi này đảo ngược hẳn ví dụ.
+- **"Plutarch dạy học ở một nơi khác"** là dịch sai "Plutarch, ở một chỗ khác [trong tác phẩm], nói rằng…". Plutarch không dạy học ở đây mà là nguồn tư liệu.
+- **Carneades và Diogenes.** Bản dịch chú thích Diogenes là người "coi khinh mọi của cải và các tục lệ xã hội", tức nhầm sang Diogenes thành Sinope (phái khuyển nho). Người trong sứ đoàn Athens sang La Mã là Diogenes thành Babylon, nhà triết học khắc kỷ, như chính văn bản gọi. Câu "không có dân tộc nào lại muốn nhận người ngoại quốc vào làm việc ở các công sở hơn là người Athens" bị dịch **ngược nghĩa**: Smith nói không dân tộc nào *đố kỵ hơn* người Athens trong việc để người nước ngoài giữ chức vụ công, nên việc họ cử một người sinh ở nước ngoài đi sứ cho thấy họ trọng ông ta đến mức nào.
+- **"Country" bị dịch thành "nhà nước", "đất nước".** Ở đoạn về trao đổi giữa thành thị và nông thôn, Smith dùng "the country" theo nghĩa *nông thôn*. Bản dịch viết thành phố "trả lại cho nhà nước", "trên phương diện toàn đất nước", "các nơi khác trên đất nước", làm mất hẳn lập luận rằng phường hội giúp thị dân lợi hơn **nông thôn**. File này đọc lại theo nghĩa đúng.
+- **Đoạn thợ chải lông cừu bị dịch ngược.** Smith viết nửa tá thợ chải lông cừu, bằng cách thoả thuận không nhận người học nghề, không những *độc chiếm* được việc làm mà còn biến cả ngành dệt thành "một kiểu nô lệ" phục vụ họ. Bản dịch viết họ "không mở mang được công ăn việc làm" và "tự biến mình thành nô lệ của chính họ".
+- **Đoạn thanh niên đi lính và đi biển bị đảo.** Smith viết con trai người thợ thường đi biển *với* sự đồng ý của cha, còn nếu đi lính thì *luôn* là không có sự đồng ý của cha. Bản dịch gộp hai vế thành câu khó hiểu.
+- **Đoạn kết về luật điều tiết tiền công bị dịch rối.** Smith nói luật buộc giới chủ trả lương bằng tiền chứ không bằng hàng là luật có lợi cho thợ, còn đạo luật năm thứ 8 triều George III (trần tiền công thợ may London 2 shilling 7½ penny/ngày) là luật có lợi cho chủ, vì nó **dùng pháp luật để cưỡng chế đúng điều mà giới chủ vẫn cố đạt bằng thông đồng**. Smith cũng nói lời than của thợ rằng luật này đặt người giỏi nhất ngang người thường "có vẻ hoàn toàn có cơ sở"; bản dịch viết thành "người ta cũng chẳng chú trọng đến những lời than vãn".
+
+  Câu "sự cần thiết phải quy định giá bắt buộc cũng chẳng gây ra sự phiền toái nào" phải hiểu là *việc thiếu* giá bánh mì quy định ở Scotland chẳng gây phiền toái nào.
+- **Câu cuối chương.** "Những cuộc cách mạng như đòi đảm bảo phúc lợi công cộng" là dịch sai "revolutions in the public welfare", nghĩa là *những biến động trong tình trạng thịnh vượng chung* (xã hội tiến lên, đứng yên hay đi xuống), không phải cách mạng chính trị.
+- **Phần II bị lược.** So với nguyên bản tiếng Anh, bản dịch rút gọn đáng kể đoạn về giáo sĩ phó xứ (Smith dẫn đạo luật triều Nữ hoàng Anne ấn định lương phó xứ trong khoảng 20 đến 50 bảng/năm), đoạn về giấy chứng nhận xứ đạo, và câu kết luận của Smith rằng giá lao động chênh nhau rất lớn giữa những nơi gần nhau ở Anh (điều không thấy ở Scotland) có lẽ là do Luật định cư. Câu nổi tiếng về những người cùng nghề gặp nhau cũng bị rút còn "thỉnh thoảng gặp nhau để bày mưu tăng giá", mất vế "ngay cả để vui chơi giải trí" và "âm mưu chống lại công chúng".
+- Các lỗi nhỏ: "Các vị chủ tịch các hội ở London đôi khi cũng làm thợ nề" là dịch sai "chairmen", tức **phu khiêng kiệu**, không phải chủ tịch hội; lương lao động thường ở London được Smith ghi là 40 đến 45 shilling/tháng (bản dịch: 40 đến 50); "300 hoặc 400 bản" phải là 300 hoặc 400 **bảng**; "giấy mình" là "giấu mình"; "trường dạy nghề" là cách dịch chữ Latin *universitas* (Smith nói các phường hội xưa gọi là *universitas*, đúng tên Latin của mọi đoàn thể; "đại học" về sau mượn chính chữ ấy).

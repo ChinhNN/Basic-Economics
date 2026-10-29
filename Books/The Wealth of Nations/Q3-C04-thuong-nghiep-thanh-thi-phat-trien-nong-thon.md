@@ -1,11 +1,20 @@
 # Quyển III, Chương IV — Thương nghiệp ở thành thị đã góp phần phát triển nông thôn như thế nào (How the Commerce of the Towns contributed to the Improvement of the Country)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển III, Chương IV. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 388–400.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Chương khép lại Quyển III. Chương I dựng trật tự tự nhiên (nông nghiệp → chế tạo → ngoại thương); Chương II chỉ ra thể chế phong kiến đã bóp nghẹt nông thôn; Chương III giải thích vì sao thành thị có tự do và giàu lên trước. Chương này trả lời câu hỏi còn lại: bằng cách nào thành thị giàu có cuối cùng kéo nông thôn đi lên, tức là cơ chế của "trật tự đảo ngược". Câu trả lời nổi tiếng nhất là cơ chế chính trị: hàng xa xỉ đã làm các đại điền chủ tự tay phá quyền lực phong kiến của mình. Chương kết thúc bằng lời phán quyết rằng trật tự ngược thì chậm và bấp bênh, và bằng nhận định rằng vốn thương mại chỉ thực sự thuộc về một nước khi đã hoá thành đất đai được cải tạo. Từ đây Quyển IV sẽ chuyển sang phê phán hệ thống trọng thương, vốn hợp thức hoá trật tự ngược ấy, và hệ thống trọng nông, vốn lệch theo chiều ngược lại.
-**Ý chính:** Smith muốn chứng minh rằng thương mại và công nghiệp thành thị cải tạo nông thôn theo ba cách: (1) tạo thị trường cho nông sản; (2) nhà buôn mua đất và cải tạo nó với tinh thần kinh doanh mà quý tộc không có; và (3), quan trọng nhất và ít được nhận ra nhất (chỉ Hume đã nói tới), đưa vào trật tự, chính quyền tốt, tự do và an ninh cho dân quê. Cơ chế thứ ba vận hành như sau: khi không có gì để mua, đại điền chủ chỉ có thể tiêu thặng dư bằng cách nuôi hàng trăm, hàng nghìn người phụ thuộc, và chính số người đó là nền quyền lực phong kiến. Khi thương mại mang đến hàng xa xỉ, họ đổi phần nuôi một nghìn người lấy "một đôi khoá kim cương", sa thải người hầu, gộp trang trại, tăng tô và đổi lại cho tá điền hợp đồng dài hạn. Tá điền thành độc lập, quyền tài phán của lãnh chúa sụp đổ, và chính quyền thường trực được lập ở nông thôn. "Cuộc cách mạng" này do hai tầng lớp gây ra mà không ai có ý định: điền chủ vì hư danh, nhà buôn vì lợi riêng. Nhưng vì đây là trật tự ngược, nó chậm (dân số châu Âu 500 năm chưa gấp đôi, Bắc Mỹ 20–25 năm đã gấp đôi) và bấp bênh (của cải thương mại dễ mất, như các thành Hanse, Lombardy, Flanders cho thấy), trừ phần đã chuyển thành đất được cải tạo.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có nhiều lỗi ảnh hưởng đến nội dung. (1) Smith viết rằng ngay cả những người thuê *không* phải nông nô cũng là người thuê tuỳ ý chủ (tenants at will), trả một khoản tô không hề tương xứng với phần sinh kế mà đất cho họ; bản dịch thêm sai chi tiết "làm rẽ ăn chia đôi hoa lợi". (2) Bản dịch bỏ con số then chốt: Smith so sánh "một người có thu nhập 10.000 bảng mỗi năm" thời phong kiến (phải nuôi có lẽ một nghìn gia đình) với một người cùng thu nhập ở châu Âu hiện nay (tiêu hết thu nhập mà không trực tiếp nuôi đến 20 người, hay sai khiến được quá 10 người hầu "không đáng để sai khiến"). (3) Đoạn về các dân tộc chăn nuôi bị dịch ngược: ý gốc là ở các nước thương mại, của cải hiếm khi ở lâu trong một gia đình *dù có luật nghiêm ngặt nhất* ngăn phung phí; còn ở các dân tộc giản dị, của cải thường ở lại trong gia đình *mà không cần luật*, vì ở các dân tộc chăn nuôi như Tartar và Ả Rập, tính chất *dễ tiêu hao* của tài sản (gia súc) làm mọi luật như vậy không thể có. (4) "Nguyên tắc người bán rong" của nhà buôn là "kiếm một xu ở bất cứ nơi nào có một xu để kiếm", không phải "chỉ tiêu một xu khi chắc chắn thu được một xu khác". (5) Người thanh niên đầu tư vào một mảnh đất nhỏ có vốn **2 hoặc 3 nghìn bảng**, không phải "2 hoặc 3 trăm bảng" như bản dịch (đối chiếu với 50–60 bảng đủ lập đồn điền ở Bắc Mỹ, con số "trăm" làm mất sự tương phản). (6) Gia súc sống bị cấm nhập *mọi lúc, trừ từ Ireland*, và *ngay cả từ Ireland* cũng mới được phép gần đây; bản dịch viết thành gia súc "mới chỉ gần đây được phép nhập từ các nơi khác". (7) Câu tổng kết về Anh: không nước nào có quyền con trưởng, phải nộp thuế thập phân và chấp nhận các quyền vĩnh viễn lại có thể khuyến khích **nông nghiệp** hơn Anh; bản dịch viết "khuyến khích công nghiệp". (8) Ngoại thương của Bồ Đào Nha lâu đời hơn mọi nước lớn ở châu Âu *trừ Ý*; bản dịch viết "trước nước Ý". (9) "Hans towns" (các thành phố Liên minh Hanse) bị dịch là "các thành phố của người Hán", sai hoàn toàn. (10) "Esau bán quyền trưởng nam vì một bát cháo đậu" bị dịch thành "vì bã vật chất". (11) "Đất đá" là lỗi đánh máy của "đất đai". (12) Bản dịch lược hai chi tiết của nguyên bản: người giàu chỉ góp cho mỗi người thợ "với rất ít người là một phần mười, với nhiều người không đến một phần trăm, với một số không đến một phần nghìn hay một phần vạn" sinh kế hằng năm; và việc gộp trang trại diễn ra "bất chấp những lời than phiền về giảm dân cư".
+Smith muốn chứng minh rằng thương mại và công nghiệp thành thị cải tạo nông thôn theo ba cách:
+
+- tạo thị trường cho nông sản;
+- nhà buôn mua đất và cải tạo nó với tinh thần kinh doanh mà quý tộc không có; và
+- quan trọng nhất và ít được nhận ra nhất (chỉ Hume đã nói tới), đưa vào trật tự, chính quyền tốt, tự do và an ninh cho dân quê.
+
+Cơ chế thứ ba vận hành như sau: khi không có gì để mua, đại điền chủ chỉ có thể tiêu thặng dư bằng cách nuôi hàng trăm, hàng nghìn người phụ thuộc, và chính số người đó là nền quyền lực phong kiến.
+
+Khi thương mại mang đến hàng xa xỉ, họ đổi phần nuôi một nghìn người lấy "một đôi khoá kim cương", sa thải người hầu, gộp trang trại, tăng tô và đổi lại cho tá điền hợp đồng dài hạn. Tá điền thành độc lập, quyền tài phán của lãnh chúa sụp đổ, và chính quyền thường trực được lập ở nông thôn.
+
+"Cuộc cách mạng" này do hai tầng lớp gây ra mà không ai có ý định: điền chủ vì hư danh, nhà buôn vì lợi riêng.
+
+Nhưng vì đây là trật tự ngược, nó chậm (dân số châu Âu 500 năm chưa gấp đôi, Bắc Mỹ 20–25 năm đã gấp đôi) và bấp bênh (của cải thương mại dễ mất, như các thành Hanse, Lombardy, Flanders cho thấy), trừ phần đã chuyển thành đất được cải tạo.
 
 ## Sơ đồ
 
@@ -328,7 +337,9 @@ Smith bác bỏ quan niệm phổ biến rằng quyền tài phán của lãnh c
 
 Kết luận của Smith: những quyền đó tất yếu xuất phát từ **tình trạng sở hữu và tập quán**, không phải từ văn bản luật.
 
-Bằng chứng gần với thời Smith nhất là ông Cameron xứ Lochaber ở Scotland. Chưa đến 30 năm trước khi Smith viết, ông này không có giấy uỷ quyền pháp lý nào, không phải quý tộc có ghế trong nghị viện, thậm chí không phải người nhận đất trực tiếp từ vua mà chỉ là chư hầu của Công tước Argyle, cũng không phải thẩm phán hoà giải, vậy mà vẫn thực thi quyền tài phán hình sự cao nhất đối với dân của mình. Người ta nói ông xử rất công bằng, dù không theo thủ tục nào, và có lẽ hoàn cảnh vùng đó buộc ông phải làm vậy để giữ trật tự. Với khoản tô chưa bao giờ vượt quá 500 bảng một năm, năm 1745 ông đã đưa 800 người của mình theo ông vào cuộc nổi dậy. Con số này cho thấy rõ: quyền lực đến từ số người phụ thuộc, không đến từ thu nhập bằng tiền hay từ tước vị.
+Bằng chứng gần với thời Smith nhất là ông Cameron xứ Lochaber ở Scotland. Chưa đến 30 năm trước khi Smith viết, ông này không có giấy uỷ quyền pháp lý nào, không phải quý tộc có ghế trong nghị viện, thậm chí không phải người nhận đất trực tiếp từ vua mà chỉ là chư hầu của Công tước Argyle, cũng không phải thẩm phán hoà giải, vậy mà vẫn thực thi quyền tài phán hình sự cao nhất đối với dân của mình. Người ta nói ông xử rất công bằng, dù không theo thủ tục nào, và có lẽ hoàn cảnh vùng đó buộc ông phải làm vậy để giữ trật tự.
+
+Với khoản tô chưa bao giờ vượt quá 500 bảng một năm, năm 1745 ông đã đưa 800 người của mình theo ông vào cuộc nổi dậy. Con số này cho thấy rõ: quyền lực đến từ số người phụ thuộc, không đến từ thu nhập bằng tiền hay từ tước vị.
 
 ### 7. Luật phong kiến là mưu toan kiềm chế, và nó thất bại
 
@@ -460,7 +471,9 @@ Luật Anh còn ưu ái nông nghiệp trực tiếp:
 
 Nhờ đó người canh tác có độc quyền, so với đồng bào mình, đối với hai sản phẩm lớn nhất và quan trọng nhất của đất là bánh mì và thịt. Smith báo trước rằng ở Quyển IV ông sẽ chứng minh những khuyến khích này phần lớn là ảo, nhưng ít nhất chúng cho thấy pháp luật có ý tốt với nông nghiệp.
 
-Quan trọng hơn tất cả những khuyến khích đó: tầng lớp tiểu nông ở Anh được làm cho an toàn, độc lập và được kính trọng nhất mà luật pháp có thể làm. Smith kết luận rằng không nước nào có quyền con trưởng, phải nộp thuế thập phân cho nhà thờ, và chấp nhận các quyền vĩnh viễn trong một số trường hợp (dù trái tinh thần luật), lại có thể khuyến khích nông nghiệp hơn Anh. Thế mà tình trạng canh tác của Anh vẫn chỉ như vậy. Ông hỏi: sẽ ra sao nếu luật không khuyến khích trực tiếp nông nghiệp ngoài những gì gián tiếp đến từ thương mại, và để tiểu nông ở tình trạng như ở phần lớn các nước khác ở châu Âu? Đã hơn 200 năm kể từ đầu triều Elizabeth, một khoảng thời gian dài bằng quãng mà sự thịnh vượng của con người thường kéo dài, mà công việc cải tạo vẫn chưa xong.
+Quan trọng hơn tất cả những khuyến khích đó: tầng lớp tiểu nông ở Anh được làm cho an toàn, độc lập và được kính trọng nhất mà luật pháp có thể làm. Smith kết luận rằng không nước nào có quyền con trưởng, phải nộp thuế thập phân cho nhà thờ, và chấp nhận các quyền vĩnh viễn trong một số trường hợp (dù trái tinh thần luật), lại có thể khuyến khích nông nghiệp hơn Anh.
+
+Thế mà tình trạng canh tác của Anh vẫn chỉ như vậy. Ông hỏi: sẽ ra sao nếu luật không khuyến khích trực tiếp nông nghiệp ngoài những gì gián tiếp đến từ thương mại, và để tiểu nông ở tình trạng như ở phần lớn các nước khác ở châu Âu? Đã hơn 200 năm kể từ đầu triều Elizabeth, một khoảng thời gian dài bằng quãng mà sự thịnh vượng của con người thường kéo dài, mà công việc cải tạo vẫn chưa xong.
 
 **Pháp.** Pháp dường như đã có phần đáng kể trong ngoại thương gần một thế kỷ trước khi Anh nổi tiếng là nước thương mại. Đội tàu của Pháp đã đáng kể, theo quan niệm thời đó, trước cuộc viễn chinh của vua Charles VIII đến Naples. Nhưng canh tác và cải tạo của Pháp nói chung kém Anh, vì luật Pháp chưa bao giờ khuyến khích nông nghiệp trực tiếp như luật Anh.
 
@@ -581,21 +594,29 @@ Kết luận: những biến động thông thường của chiến tranh và ch
 
 ### Chương này chứa lý thuyết sắc sảo nhất của Smith về quan hệ giữa thị trường và quyền lực
 
-Phần lớn người đọc nhớ Smith qua bàn tay vô hình và người bán thịt, người nấu bia. Nhưng chương này có lẽ chứa lập luận độc đáo hơn: **thị trường làm giảm quyền lực của người giàu đối với người nghèo, không phải bằng cách làm người giàu nghèo đi mà bằng cách thay đổi hình thức chi tiêu của họ**. Người có 10.000 bảng thời phong kiến nuôi trọn một nghìn gia đình và chỉ huy họ như quân đội; người có 10.000 bảng thời thương mại có thể nuôi gián tiếp nhiều người hơn, nhưng không chỉ huy được ai, vì mỗi người thợ sống nhờ hàng trăm khách hàng. Cùng một khoản thu nhập, cùng mức bất bình đẳng, nhưng cấu trúc phụ thuộc khác hẳn. Đây là một hiểu biết mà các cuộc tranh luận hiện đại về bất bình đẳng thường bỏ qua: câu hỏi không chỉ là người giàu có bao nhiêu, mà là thu nhập của họ có biến thành quyền chỉ huy trực tiếp lên người khác hay không.
+Phần lớn người đọc nhớ Smith qua bàn tay vô hình và người bán thịt, người nấu bia. Nhưng chương này có lẽ chứa lập luận độc đáo hơn: **thị trường làm giảm quyền lực của người giàu đối với người nghèo, không phải bằng cách làm người giàu nghèo đi mà bằng cách thay đổi hình thức chi tiêu của họ**. Người có 10.000 bảng thời phong kiến nuôi trọn một nghìn gia đình và chỉ huy họ như quân đội; người có 10.000 bảng thời thương mại có thể nuôi gián tiếp nhiều người hơn, nhưng không chỉ huy được ai, vì mỗi người thợ sống nhờ hàng trăm khách hàng.
+
+Cùng một khoản thu nhập, cùng mức bất bình đẳng, nhưng cấu trúc phụ thuộc khác hẳn. Đây là một hiểu biết mà các cuộc tranh luận hiện đại về bất bình đẳng thường bỏ qua: câu hỏi không chỉ là người giàu có bao nhiêu, mà là thu nhập của họ có biến thành quyền chỉ huy trực tiếp lên người khác hay không.
 
 Điều đáng chú ý là Smith tự gán ghi công cho Hume, và đó là trung thực: Hume trong các tiểu luận "Bàn về thương mại" và "Bàn về sự tinh tế trong nghệ thuật" (1752) đã lập luận rằng xa xỉ và thương mại thúc đẩy tự do. Nhưng Smith đưa ra cơ chế vi mô cụ thể (số khách hàng của mỗi người làm thuê) mà Hume không có.
 
 ### Lập luận về quyền lực đúng, nhưng có mặt tối mà Smith thừa nhận chỉ trong một câu
 
-Smith viết gọn rằng các trang trại được gộp lớn "bất chấp những lời than phiền về giảm dân cư". Câu đó che đi một quá trình mà các sử gia sau này mô tả rất nặng nề: việc rào đất (enclosure) ở Anh và việc "giải toả" vùng cao Scotland (Highland Clearances), ngay trong đời Smith và sau đó, đã đuổi hàng loạt tá điền và người phụ thuộc khỏi đất. Họ "độc lập" theo nghĩa không còn phụ thuộc lãnh chúa, nhưng cũng mất đất, phải ra thành thị làm thuê hay di cư. Smith đánh giá đúng hướng dài hạn (năng suất nông nghiệp tăng, an ninh tăng, quyền lực phong kiến tan), nhưng cách ông trình bày khiến quá trình có vẻ êm ả hơn thực tế. Marx, trong phần "tích luỹ nguyên thuỷ" của *Tư bản*, đọc cùng các sự kiện đó với kết luận ngược hẳn: không phải thị trường giải phóng tá điền, mà là bạo lực tước đoạt họ để tạo ra lao động làm thuê. Sự thật lịch sử có lẽ nằm ở giữa, và người đọc cần biết cả hai cách đọc.
+Smith viết gọn rằng các trang trại được gộp lớn "bất chấp những lời than phiền về giảm dân cư". Câu đó che đi một quá trình mà các sử gia sau này mô tả rất nặng nề: việc rào đất (enclosure) ở Anh và việc "giải toả" vùng cao Scotland (Highland Clearances), ngay trong đời Smith và sau đó, đã đuổi hàng loạt tá điền và người phụ thuộc khỏi đất. Họ "độc lập" theo nghĩa không còn phụ thuộc lãnh chúa, nhưng cũng mất đất, phải ra thành thị làm thuê hay di cư.
+
+Smith đánh giá đúng hướng dài hạn (năng suất nông nghiệp tăng, an ninh tăng, quyền lực phong kiến tan), nhưng cách ông trình bày khiến quá trình có vẻ êm ả hơn thực tế. Marx, trong phần "tích luỹ nguyên thuỷ" của *Tư bản*, đọc cùng các sự kiện đó với kết luận ngược hẳn: không phải thị trường giải phóng tá điền, mà là bạo lực tước đoạt họ để tạo ra lao động làm thuê. Sự thật lịch sử có lẽ nằm ở giữa, và người đọc cần biết cả hai cách đọc.
 
 ### "Trật tự ngược thì chậm" là một khẳng định dựa trên phép so sánh có vấn đề
 
-Phép so sánh dân số châu Âu (gấp đôi trong 500 năm) với Bắc Mỹ (gấp đôi trong 20–25 năm) là bằng chứng ấn tượng nhưng không sạch. Bắc Mỹ có đất gần như vô hạn và gần như cho không (sau khi dân bản địa bị đẩy đi, điều Smith không nhắc), nhận dòng di dân lớn, và được hưởng toàn bộ tri thức, kỹ thuật và thị trường của châu Âu. Tăng trưởng dân số của nó không chứng minh rằng trật tự "nông nghiệp trước" là tốt hơn, mà chủ yếu chứng minh rằng tỷ lệ đất trên người cao làm tiền công thực và tỷ lệ sinh cao, đúng điều Smith đã nói ở Quyển I, Chương VIII. Ngoài ra, Bắc Mỹ thuộc địa không phải một nền kinh tế "thuần nông" tách khỏi ngoại thương: nó xuất khẩu thuốc lá, lúa gạo, gỗ, cá sang châu Âu. Vậy lời phán quyết của Smith đúng ở phần cơ chế (thị trường đất bị đóng làm chậm cải tạo), nhưng bằng chứng định lượng ông dùng phóng đại khác biệt giữa hai trật tự.
+Phép so sánh dân số châu Âu (gấp đôi trong 500 năm) với Bắc Mỹ (gấp đôi trong 20–25 năm) là bằng chứng ấn tượng nhưng không sạch. Bắc Mỹ có đất gần như vô hạn và gần như cho không (sau khi dân bản địa bị đẩy đi, điều Smith không nhắc), nhận dòng di dân lớn, và được hưởng toàn bộ tri thức, kỹ thuật và thị trường của châu Âu. Tăng trưởng dân số của nó không chứng minh rằng trật tự "nông nghiệp trước" là tốt hơn, mà chủ yếu chứng minh rằng tỷ lệ đất trên người cao làm tiền công thực và tỷ lệ sinh cao, đúng điều Smith đã nói ở Quyển I, Chương VIII.
+
+Ngoài ra, Bắc Mỹ thuộc địa không phải một nền kinh tế "thuần nông" tách khỏi ngoại thương: nó xuất khẩu thuốc lá, lúa gạo, gỗ, cá sang châu Âu. Vậy lời phán quyết của Smith đúng ở phần cơ chế (thị trường đất bị đóng làm chậm cải tạo), nhưng bằng chứng định lượng ông dùng phóng đại khác biệt giữa hai trật tự.
 
 ### Câu "nhà buôn không là công dân của nước nào" là cảnh báo sớm nhất về vốn di động
 
-Đoạn cuối của chương là một trong những đoạn có tính tiên tri nhất của bộ sách. Smith phân biệt hai loại của cải: của cải thương mại, có thể rời đi vì một chuyện khó chịu nhỏ hay bị chiến tranh và chính quyền xấu phá trong một thế hệ; và của cải đã "rải trên mặt đất" dưới dạng nhà cửa và đất được cải tạo, chỉ mất khi bị tàn phá hàng thế kỷ. Các thành Hanse mất cả tên, Lombardy và Flanders mất thương mại nhưng vẫn giàu nhờ đất. Hàm ý cho các nền kinh tế mở hiện nay rất rõ: tăng trưởng dựa vào vốn di động là tăng trưởng mượn; nó chỉ thành của cải quốc gia khi một phần được chuyển hoá thành tài sản cố định, năng lực và tay nghề gắn với lãnh thổ. Smith dùng "đất được cải tạo" làm hình ảnh cho loại tài sản đó; ngày nay ta sẽ thêm cơ sở hạ tầng, vốn con người và năng lực của doanh nghiệp trong nước.
+Đoạn cuối của chương là một trong những đoạn có tính tiên tri nhất của bộ sách. Smith phân biệt hai loại của cải: của cải thương mại, có thể rời đi vì một chuyện khó chịu nhỏ hay bị chiến tranh và chính quyền xấu phá trong một thế hệ; và của cải đã "rải trên mặt đất" dưới dạng nhà cửa và đất được cải tạo, chỉ mất khi bị tàn phá hàng thế kỷ. Các thành Hanse mất cả tên, Lombardy và Flanders mất thương mại nhưng vẫn giàu nhờ đất.
+
+Hàm ý cho các nền kinh tế mở hiện nay rất rõ: tăng trưởng dựa vào vốn di động là tăng trưởng mượn; nó chỉ thành của cải quốc gia khi một phần được chuyển hoá thành tài sản cố định, năng lực và tay nghề gắn với lãnh thổ. Smith dùng "đất được cải tạo" làm hình ảnh cho loại tài sản đó; ngày nay ta sẽ thêm cơ sở hạ tầng, vốn con người và năng lực của doanh nghiệp trong nước.
 
 ### Lạc đề về dòng họ cổ là một nhận định sắc về tính di động xã hội
 
@@ -607,8 +628,173 @@ Phép so sánh dân số châu Âu (gấp đôi trong 500 năm) với Bắc Mỹ
 
 **Kênh thứ ba ở Việt Nam: lối thoát khu công nghiệp.** Lập luận "ai sống nhờ một người thì phụ thuộc, ai sống nhờ nghìn khách hàng thì độc lập" có phiên bản Việt Nam rất cụ thể. Khi hàng triệu lao động nông thôn có thể vào làm ở các khu công nghiệp với lương bằng tiền và hợp đồng, quyền lực đàm phán của người nông dân trước những người nắm đất, tín dụng và đầu ra ở địa phương tăng lên. Tiền lương tối thiểu vùng và sự cạnh tranh giữa các doanh nghiệp FDI để thu hút lao động làm tiền công nông thôn tăng theo. Đây là cơ chế Smith mô tả: thị trường làm giảm sự phụ thuộc không phải vì ai đó muốn giải phóng nông dân, mà vì có thêm "khách hàng" cho sức lao động của họ.
 
-**Giá đất độc quyền và tô thấp hơn lãi.** Phân tích của Smith về đất ở châu Âu (đất ít ra chợ, nhiều tiền đuổi ít đất, giá đất vượt xa giá trị của tô, nên vốn nhỏ không thể vào nông nghiệp có lãi) áp dụng khá sát cho Việt Nam, dù vì lý do khác. Đất ở Việt Nam là kênh trú ẩn giá trị và đầu cơ ưa thích của người có tiền; giá đất, cả ở đô thị lẫn ven đô, thường cao đến mức lợi suất cho thuê hay lợi nhuận canh tác không thể trả nổi lãi của tiền mua. Hệ quả giống hệt mô tả của Smith: người muốn làm nông nghiệp quy mô khó mua được đất với giá bằng giá trị sản xuất của nó, và đất nông nghiệp nhiều khi được giữ chờ chuyển đổi mục đích hơn là được cải tạo. Lời giải của Smith (cho nhiều đất ra thị trường hơn để phá giá độc quyền) tương ứng với việc làm cho thị trường quyền sử dụng đất nông nghiệp thông suốt và minh bạch hơn, và với việc dùng thuế (thuế đất, thuế bất động sản thứ hai trở lên) để giảm lợi ích của việc giữ đất trống.
+**Giá đất độc quyền và tô thấp hơn lãi.** Phân tích của Smith về đất ở châu Âu (đất ít ra chợ, nhiều tiền đuổi ít đất, giá đất vượt xa giá trị của tô, nên vốn nhỏ không thể vào nông nghiệp có lãi) áp dụng khá sát cho Việt Nam, dù vì lý do khác. Đất ở Việt Nam là kênh trú ẩn giá trị và đầu cơ ưa thích của người có tiền; giá đất, cả ở đô thị lẫn ven đô, thường cao đến mức lợi suất cho thuê hay lợi nhuận canh tác không thể trả nổi lãi của tiền mua.
 
-**Vốn FDI là vốn của "nhà buôn không là công dân của nước nào".** Đoạn cuối chương là cảnh báo trực tiếp nhất cho mô hình tăng trưởng của Việt Nam. Khu vực FDI đóng góp phần lớn kim ngạch xuất khẩu, nhưng vốn đó, theo đúng lời Smith, có thể chuyển sang nước khác khi chi phí lao động tăng, khi ưu đãi thuế bị thu hẹp (chẳng hạn do thuế tối thiểu toàn cầu, mà Việt Nam đã áp dụng từ năm 2024), hay khi chuỗi cung ứng toàn cầu dịch chuyển. Theo Smith, nó chỉ thành của cải quốc gia khi một phần được "rải trên mặt đất" Việt Nam: thành cơ sở hạ tầng, thành tay nghề của lao động, thành năng lực của các nhà cung cấp trong nước có thể tồn tại nếu nhà đầu tư nước ngoài rời đi. Câu hỏi chính sách mà chương này đặt ra cho Việt Nam không phải là thu hút thêm bao nhiêu FDI, mà là bao nhiêu phần của dòng vốn đó đã được chuyển hoá thành tài sản không chạy được.
+Hệ quả giống hệt mô tả của Smith: người muốn làm nông nghiệp quy mô khó mua được đất với giá bằng giá trị sản xuất của nó, và đất nông nghiệp nhiều khi được giữ chờ chuyển đổi mục đích hơn là được cải tạo. Lời giải của Smith (cho nhiều đất ra thị trường hơn để phá giá độc quyền) tương ứng với việc làm cho thị trường quyền sử dụng đất nông nghiệp thông suốt và minh bạch hơn, và với việc dùng thuế (thuế đất, thuế bất động sản thứ hai trở lên) để giảm lợi ích của việc giữ đất trống.
+
+**Vốn FDI là vốn của "nhà buôn không là công dân của nước nào".** Đoạn cuối chương là cảnh báo trực tiếp nhất cho mô hình tăng trưởng của Việt Nam. Khu vực FDI đóng góp phần lớn kim ngạch xuất khẩu, nhưng vốn đó, theo đúng lời Smith, có thể chuyển sang nước khác khi chi phí lao động tăng, khi ưu đãi thuế bị thu hẹp (chẳng hạn do thuế tối thiểu toàn cầu, mà Việt Nam đã áp dụng từ năm 2024), hay khi chuỗi cung ứng toàn cầu dịch chuyển.
+
+Theo Smith, nó chỉ thành của cải quốc gia khi một phần được "rải trên mặt đất" Việt Nam: thành cơ sở hạ tầng, thành tay nghề của lao động, thành năng lực của các nhà cung cấp trong nước có thể tồn tại nếu nhà đầu tư nước ngoài rời đi. Câu hỏi chính sách mà chương này đặt ra cho Việt Nam không phải là thu hút thêm bao nhiêu FDI, mà là bao nhiêu phần của dòng vốn đó đã được chuyển hoá thành tài sản không chạy được.
 
 **Các thành Hanse và bài học về tính bền vững.** Ví dụ Lombardy và Flanders (mất thương mại nhưng vẫn giàu nhờ đất đã được cải tạo) gợi ý rằng nền tảng nông nghiệp vững là "bảo hiểm" cho một nền kinh tế mở. Với Việt Nam, đó là lập luận cho việc tiếp tục đầu tư vào thuỷ lợi, giống, chế biến và hạ tầng nông thôn, không như một chính sách đối nghịch với công nghiệp hoá, mà như phần "được neo" của của cải quốc gia, vẫn còn đó khi các chu kỳ thương mại và đầu tư thay đổi.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển III, Chương IV trên một trang: sáu nhánh lớn đi theo các mục 1–16 của phần Nội dung chi tiết (ba kênh thành thị cải tạo nông thôn, thặng dư nuôi người là nền quyền lực phong kiến, khoá kim cương và chuỗi hệ quả ở nông thôn, cuộc cách mạng không ai chủ đích, trật tự ngược thì chậm và đối chiếu các nước, vốn thương mại bấp bênh), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt và các điểm phê bình.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển III, Chương 4: ở châu Âu thương mại thành thị, lẽ ra là kết quả, lại thành nguyên nhân cải tạo nông thôn`"]
+  n1["`Mục 1–3 — Ba kênh thành thị cải tạo nông thôn`"]
+  n0 --- n1
+  n2["`Thành phố là thị trường lớn, luôn sẵn cho nông sản thô, kích thích canh tác và cải tạo đất`"]
+  n1 --- n2
+  n3["`Vùng ngay quanh thành phố lợi nhất vì đỡ chi phí chở, nông dân ven đô được giá cao hơn`"]
+  n1 --- n3
+  n4["`Nhà buôn mua đất quen tiêu vào dự án sinh lời, bạo dạn bỏ một lần vốn lớn để cải tạo`"]
+  n1 --- n4
+  n5["`Quý ông nông thôn quen tiêu pha, rụt rè, chỉ cải tạo bằng phần tiết kiệm từ thu nhập`"]
+  n1 --- n5
+  n6["`Kênh thứ ba, ít được nhận ra nhất nhưng quan trọng nhất: trật tự, chính quyền tốt, tự do, an ninh cho dân quê`"]
+  n1 --- n6
+  n7["`Theo Smith, David Hume là tác giả duy nhất từng nhận xét về kênh thứ ba`"]
+  n1 --- n7
+  n8["`Mục 4–7 — Thặng dư nuôi người là nền quyền lực phong kiến`"]
+  n0 --- n8
+  n9["`Không có ngoại thương và chế tạo tinh, thặng dư nuôi được 1.000 người thì chỉ có thể nuôi 1.000 người`"]
+  n8 --- n9
+  n10["`Người được nuôi không có gì đền đáp nên phải vâng lệnh như lính vâng lệnh ông hoàng trả lương`"]
+  n8 --- n10
+  n11["`Bằng chứng hiếu khách: đại sảnh Westminster của William Rufus, bá tước Warwick tiếp 30.000 người mỗi ngày`"]
+  n8 --- n11
+  n12["`Tá điền là người thuê tuỳ ý chủ, vùng cao Scotland trả tô một crown (5 shilling) cho đất nuôi cả gia đình`"]
+  n8 --- n12
+  n13["`Vua chỉ là đại điền chủ lớn nhất, đòi một món nợ nhỏ trên đất lãnh chúa tốn như dập nội chiến`"]
+  n8 --- n13
+  n14["`Quyền tài phán, mộ quân, đúc tiền có trước luật phong kiến hàng thế kỷ, đến từ tình trạng sở hữu và tập quán`"]
+  n8 --- n14
+  n15["`Cameron xứ Lochaber: tô chưa đến 500 bảng một năm mà đưa 800 người vào cuộc nổi dậy 1745`"]
+  n8 --- n15
+  n16["`Luật phong kiến là mưu toan kiềm chế lãnh chúa tự chủ bằng thứ bậc và quyền giám hộ, nhưng thất bại`"]
+  n8 --- n16
+  n17["`Chính quyền vẫn yếu ở đầu, mạnh ở các chi, nông thôn vẫn bạo lực, cướp bóc`"]
+  n8 --- n17
+  n18["`Mục 8–11 — Khoá kim cương phá quyền lực phong kiến`"]
+  n0 --- n18
+  n19["`#quot;Tất cả cho mình, không gì cho người khác#quot;: châm ngôn đê tiện của những kẻ làm chủ nhân loại`"]
+  n18 --- n19
+  n20["`Đại điền chủ đổi phần nuôi 1.000 người trong một năm lấy một đôi khoá kim cương của riêng mình`"]
+  n18 --- n20
+  n21["`Cùng 10.000 bảng một năm: xưa nuôi có lẽ 1.000 gia đình, nay nuôi trực tiếp không đến 20 người`"]
+  n18 --- n21
+  n22["`Gián tiếp vẫn nuôi bằng hoặc hơn, nhưng mỗi thợ chỉ nhận từ ông 1/10, 1/100, có khi 1/10.000 sinh kế`"]
+  n18 --- n22
+  n23["`Thợ và nhà buôn sống nhờ 100 hay 1.000 khách hàng nên không tuyệt đối phụ thuộc ai`"]
+  n18 --- n23
+  n24["`Chuỗi hệ quả: giảm người hầu → bỏ tá điền thừa, gộp trang trại → tăng tô → hợp đồng thuê dài hạn`"]
+  n18 --- n24
+  n25["`Tá điền chỉ chịu tăng tô nếu được giữ đất đủ lâu để thu hồi vốn cải tạo kèm lợi nhuận`"]
+  n18 --- n25
+  n26["`Tá điền trả đủ tô, có hợp đồng dài hạn thì độc lập, chủ không đòi được gì ngoài hợp đồng và luật`"]
+  n18 --- n26
+  n27["`Lãnh chúa bán quyền trưởng nam như Esau, nhưng trong dư thừa, và chính quyền thường trực lập ở nông thôn`"]
+  n18 --- n27
+  n28["`Mục 12–13 — Cuộc cách mạng không ai chủ đích`"]
+  n0 --- n28
+  n29["`Đại điền chủ hành động vì hư danh trẻ con nhất, nhà buôn và thợ chỉ vì lợi riêng`"]
+  n28 --- n29
+  n30["`Nguyên tắc người bán rong: kiếm một xu ở bất cứ nơi nào có một xu để kiếm`"]
+  n28 --- n30
+  n31["`Không bên nào thấy trước cuộc cách mạng mà sự điên rồ của bên này và sự cần cù của bên kia mang lại`"]
+  n28 --- n31
+  n32["`Lạc đề: nước thương mại hiếm dòng họ cổ vì hư danh không giới hạn làm người giàu tiêu vượt thu nhập`"]
+  n28 --- n32
+  n33["`Dân tộc giản dị giữ của cải không cần luật, dân chăn nuôi Tartar, Ả Rập có tài sản gia súc dễ tiêu hao`"]
+  n28 --- n33
+  n34["`Mục 14–15 — Trật tự ngược thì chậm`"]
+  n0 --- n34
+  n35["`Dân số phần lớn châu Âu gấp đôi trong không ít hơn 500 năm, nhiều thuộc địa Bắc Mỹ trong 20 hay 25 năm`"]
+  n34 --- n35
+  n36["`Quyền con trưởng và quyền vĩnh viễn ngăn chia đất nên ít tiểu chủ, người cải tạo giỏi nhất`"]
+  n34 --- n36
+  n37["`Ít đất ra chợ nên đất bán giá độc quyền, tô không trả nổi lãi của số tiền mua`"]
+  n34 --- n37
+  n38["`Ở châu Âu, thanh niên bỏ 2–3 nghìn bảng mua đất sống độc lập nhưng bỏ mọi hy vọng giàu lớn`"]
+  n34 --- n38
+  n39["`Ở Bắc Mỹ, 50–60 bảng lập được đồn điền, khai phá đất là con đường sinh lời nhất`"]
+  n34 --- n39
+  n40["`Cách sửa: chia đều điền sản cho các con thì đất hay được bán, hết giá độc quyền`"]
+  n34 --- n40
+  n41["`Anh: luật ưu ái thương mại nhất châu Âu từ triều Elizabeth, nông nghiệp chưa xong sau hơn 200 năm`"]
+  n34 --- n41
+  n42["`Trợ cấp xuất khẩu ngũ cốc, cấm nhập gia súc phần lớn là ảo, quan trọng là tiểu nông an toàn, độc lập`"]
+  n34 --- n42
+  n43["`Pháp ngoại thương sớm hơn Anh gần một thế kỷ nhưng nông nghiệp kém Anh vì luật không khuyến khích`"]
+  n34 --- n43
+  n44["`Tây Ban Nha, Bồ Đào Nha ngoại thương lớn nhưng không sinh chế tạo bán xa, phần lớn đất còn hoang`"]
+  n34 --- n44
+  n45["`Ý duy nhất canh tác khắp nơi nhờ ngoại thương (theo Guicciardini), nhưng có thể không hơn Anh hiện nay`"]
+  n34 --- n45
+  n46["`Mục 16 — Vốn thương mại bấp bênh, đất được cải tạo thì bền`"]
+  n0 --- n46
+  n47["`Nhà buôn không nhất thiết là công dân của nước nào, một chuyện khó chịu nhỏ là chuyển vốn đi`"]
+  n46 --- n47
+  n48["`Vốn chỉ thuộc về một nước khi đã rải trên mặt đất thành nhà cửa, cải tạo đất lâu bền`"]
+  n46 --- n48
+  n49["`Các thành Hanse giàu có thế kỷ 13–14 nay không còn dấu vết, có thành không rõ ở đâu`"]
+  n46 --- n49
+  n50["`Lombardy, Tuscany và Flanders mất thương mại nhưng vẫn đông dân, canh tác tốt nhất châu Âu`"]
+  n46 --- n50
+  n51["`Giàu từ cải tạo đất chỉ mất khi bị tàn phá một hai thế kỷ, như khi Đế quốc La Mã sụp đổ`"]
+  n46 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Thị trường giảm quyền của người giàu với người nghèo bằng cách đổi hình thức chi tiêu, không làm họ nghèo đi`"]
+  n52 --- n53
+  n54["`Mặt tối: gộp trang trại #quot;bất chấp lời than phiền về giảm dân cư#quot; ứng với rào đất và giải toả vùng cao Scotland`"]
+  n52 --- n54
+  n55["`So sánh dân số với Bắc Mỹ phóng đại khác biệt: đất gần như cho không, nhiều di dân, vẫn xuất khẩu`"]
+  n52 --- n55
+  n56["`Của cải thương mại chỉ bền khi đã hoá thành đất được cải tạo, cầu nối sang phê phán trọng thương ở Quyển IV`"]
+  n52 --- n56
+  class n0 root
+  class n1,n8,n18,n28,n34,n46,n52 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n53,n54,n55,n56 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển III, Chương IV. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 388–400.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Chương khép lại Quyển III. Chương I dựng trật tự tự nhiên (nông nghiệp → chế tạo → ngoại thương); Chương II chỉ ra thể chế phong kiến đã bóp nghẹt nông thôn; Chương III giải thích vì sao thành thị có tự do và giàu lên trước.
+
+Chương này trả lời câu hỏi còn lại: bằng cách nào thành thị giàu có cuối cùng kéo nông thôn đi lên, tức là cơ chế của "trật tự đảo ngược". Câu trả lời nổi tiếng nhất là cơ chế chính trị: hàng xa xỉ đã làm các đại điền chủ tự tay phá quyền lực phong kiến của mình.
+
+Chương kết thúc bằng lời phán quyết rằng trật tự ngược thì chậm và bấp bênh, và bằng nhận định rằng vốn thương mại chỉ thực sự thuộc về một nước khi đã hoá thành đất đai được cải tạo. Từ đây Quyển IV sẽ chuyển sang phê phán hệ thống trọng thương, vốn hợp thức hoá trật tự ngược ấy, và hệ thống trọng nông, vốn lệch theo chiều ngược lại.
+
+## Lưu ý
+
+Bản dịch có nhiều lỗi ảnh hưởng đến nội dung.
+
+- Smith viết rằng ngay cả những người thuê *không* phải nông nô cũng là người thuê tuỳ ý chủ (tenants at will), trả một khoản tô không hề tương xứng với phần sinh kế mà đất cho họ; bản dịch thêm sai chi tiết "làm rẽ ăn chia đôi hoa lợi".
+- Bản dịch bỏ con số then chốt: Smith so sánh "một người có thu nhập 10.000 bảng mỗi năm" thời phong kiến (phải nuôi có lẽ một nghìn gia đình) với một người cùng thu nhập ở châu Âu hiện nay (tiêu hết thu nhập mà không trực tiếp nuôi đến 20 người, hay sai khiến được quá 10 người hầu "không đáng để sai khiến").
+- Đoạn về các dân tộc chăn nuôi bị dịch ngược: ý gốc là ở các nước thương mại, của cải hiếm khi ở lâu trong một gia đình *dù có luật nghiêm ngặt nhất* ngăn phung phí; còn ở các dân tộc giản dị, của cải thường ở lại trong gia đình *mà không cần luật*, vì ở các dân tộc chăn nuôi như Tartar và Ả Rập, tính chất *dễ tiêu hao* của tài sản (gia súc) làm mọi luật như vậy không thể có.
+- "Nguyên tắc người bán rong" của nhà buôn là "kiếm một xu ở bất cứ nơi nào có một xu để kiếm", không phải "chỉ tiêu một xu khi chắc chắn thu được một xu khác".
+- Người thanh niên đầu tư vào một mảnh đất nhỏ có vốn **2 hoặc 3 nghìn bảng**, không phải "2 hoặc 3 trăm bảng" như bản dịch (đối chiếu với 50–60 bảng đủ lập đồn điền ở Bắc Mỹ, con số "trăm" làm mất sự tương phản).
+- Gia súc sống bị cấm nhập *mọi lúc, trừ từ Ireland*, và *ngay cả từ Ireland* cũng mới được phép gần đây; bản dịch viết thành gia súc "mới chỉ gần đây được phép nhập từ các nơi khác".
+- Câu tổng kết về Anh: không nước nào có quyền con trưởng, phải nộp thuế thập phân và chấp nhận các quyền vĩnh viễn lại có thể khuyến khích **nông nghiệp** hơn Anh; bản dịch viết "khuyến khích công nghiệp".
+- Ngoại thương của Bồ Đào Nha lâu đời hơn mọi nước lớn ở châu Âu *trừ Ý*; bản dịch viết "trước nước Ý".
+- "Hans towns" (các thành phố Liên minh Hanse) bị dịch là "các thành phố của người Hán", sai hoàn toàn.
+- "Esau bán quyền trưởng nam vì một bát cháo đậu" bị dịch thành "vì bã vật chất".
+- "Đất đá" là lỗi đánh máy của "đất đai".
+- Bản dịch lược hai chi tiết của nguyên bản: người giàu chỉ góp cho mỗi người thợ "với rất ít người là một phần mười, với nhiều người không đến một phần trăm, với một số không đến một phần nghìn hay một phần vạn" sinh kế hằng năm; và việc gộp trang trại diễn ra "bất chấp những lời than phiền về giảm dân cư".

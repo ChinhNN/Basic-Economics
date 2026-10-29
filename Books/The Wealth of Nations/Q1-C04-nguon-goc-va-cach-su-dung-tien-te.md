@@ -1,13 +1,16 @@
 # Quyển I, Chương IV — Nguồn gốc và cách sử dụng tiền tệ (Of the Origin and Use of Money)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương IV. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 47–52.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Ba chương trước đã chứng minh rằng năng suất đến từ phân công (Chương I), phân công đến từ trao đổi (Chương II), và bị giới hạn bởi quy mô trao đổi (Chương III). Chương này giải quyết trở ngại kỹ thuật của trao đổi: đổi chác trực tiếp thường bất khả, nên xã hội phải có tiền. Đồng thời nó là bản lề của Quyển I: sau khi giải thích tiền, Smith mở ra câu hỏi về **giá trị trao đổi** (vì sao một thứ đổi được bao nhiêu thứ khác), phân biệt giá trị sử dụng và giá trị trao đổi, và báo trước ba chương tiếp theo: thước đo thật của giá trị (Chương V), các bộ phận của giá cả (Chương VI), giá tự nhiên và giá thị trường (Chương VII). Nó cũng là lần đầu xuất hiện chủ đề về tiền mà Quyển II (tiền và ngân hàng) và Quyển IV (phê phán quan niệm của cải là tiền) sẽ phát triển.
-**Ý chính:** Smith muốn chứng minh rằng **tiền là một sản phẩm tự phát của phân công lao động**: khi mỗi người sống bằng trao đổi, đổi chác vấp phải trở ngại là người mình cần lại không cần thứ mình có (người bán thịt đã đủ bánh mì và bia), nên người khôn ngoan ở mọi thời đại tự giữ sẵn một hàng hoá mà ai cũng nhận. Qua lịch sử (gia súc, muối, vỏ sò, cá tuyết khô, thuốc lá, đường, da, cả đinh sắt ở một làng Scotland), loài người hội tụ về **kim loại** vì nó bền và chia nhỏ được; rồi về **tiền đúc có dấu nhà nước** vì cân và thử kim loại phiền phức và dễ bị lừa. Nhưng chính con dấu nhà nước mở đường cho một sự lạm dụng phổ biến: vua chúa ở mọi nước đã **giảm dần hàm lượng kim loại** trong tiền (đồng As La Mã còn 1/24, bảng Anh còn khoảng 1/3, bảng Scotland khoảng 1/36, livre Pháp khoảng 1/66), lừa chủ nợ để có lợi cho con nợ. Cuối chương, Smith phân biệt **giá trị sử dụng** và **giá trị trao đổi** qua nghịch lý nước và kim cương, và nêu ba câu hỏi về giá trị trao đổi cho ba chương sau.
+## Ý chính
 
-> **Lưu ý:** (1) "Đồng bảng Troyes chỉ bắt đầu được đúc ở Anh vào **thế kỷ 18** thời vua Henry VIII" là dịch sai: nguyên văn là pound Troy chỉ được đưa vào xưởng đúc tiền Anh từ **năm thứ 18 triều Henry VIII** (khoảng năm 1526–1527), tức thế kỷ 16. Pound Troy, pound Tower, pound La Mã là **đơn vị trọng lượng** dùng ở xưởng đúc, không phải đồng tiền. (2) Chú thích "một phần tư tạ Anh (bằng 12,70 kg)" là sai: *quarter* trong giá lúa mì là đơn vị **thể tích** (8 bushel, khoảng 290 lít, tức vài trăm ký lúa mì), không phải một phần tư tạ. (3) "Độ tuổi" và "độ tuổi cao" của vàng, bạc là thuật ngữ "tuổi vàng" trong tiếng Việt, tức **độ tinh khiết** (*fineness*), không liên quan đến tuổi tác. (4) Cuối chương bản dịch viết "giá thị trường, tức là giá **có thực** của hàng hoá", trong khi trước đó dùng "giá **thực tế**" cho *real price*. Hai khái niệm hoàn toàn khác nhau: *real price* là giá đo bằng lao động (chủ đề Chương V), còn *actual price* (giá có thực, giá thực tế trả trên thị trường) là giá thị trường (Chương VII). Người đọc cần giữ phân biệt này cho cả ba chương sau. (5) "Hội chợ hệ trọng lượng Troyes họp ở Champaign" là hội chợ ở thành phố Troyes, vùng Champagne; "đồng bằng" ở câu về tỷ lệ penny là lỗi chính tả của "đồng bảng".
+Smith muốn chứng minh rằng **tiền là một sản phẩm tự phát của phân công lao động**.
 
-**Đơn vị tiền Anh:** 1 bảng (pound sterling) = 20 shilling; 1 shilling = 12 penny; vậy 1 bảng = 240 penny. 1 farthing = 1/4 penny. Theo Smith, ban đầu đồng penny chứa một pennyweight bạc, tức 1/20 ounce hay 1/240 pound trọng lượng, nên một "bảng" tiền đúng bằng một pound bạc.
+Khi mỗi người sống bằng trao đổi, đổi chác vấp phải trở ngại là người mình cần lại không cần thứ mình có (người bán thịt đã đủ bánh mì và bia), nên người khôn ngoan ở mọi thời đại tự giữ sẵn một hàng hoá mà ai cũng nhận.
+
+Qua lịch sử (gia súc, muối, vỏ sò, cá tuyết khô, thuốc lá, đường, da, cả đinh sắt ở một làng Scotland), loài người hội tụ về **kim loại** vì nó bền và chia nhỏ được; rồi về **tiền đúc có dấu nhà nước** vì cân và thử kim loại phiền phức và dễ bị lừa.
+
+Nhưng chính con dấu nhà nước mở đường cho một sự lạm dụng phổ biến: vua chúa ở mọi nước đã **giảm dần hàm lượng kim loại** trong tiền (đồng As La Mã còn 1/24, bảng Anh còn khoảng 1/3, bảng Scotland khoảng 1/36, livre Pháp khoảng 1/66), lừa chủ nợ để có lợi cho con nợ.
+
+Cuối chương, Smith phân biệt **giá trị sử dụng** và **giá trị trao đổi** qua nghịch lý nước và kim cương, và nêu ba câu hỏi về giá trị trao đổi cho ba chương sau.
 
 ## Sơ đồ
 
@@ -429,7 +432,9 @@ Tiền là một **thể chế tự phát** sinh ra để vượt qua trở ng�
 
 Câu chuyện "đổi chác → hàng hoá làm tiền → kim loại → tiền đúc" là câu chuyện chuẩn trong hầu hết giáo trình kinh tế, và gốc của nó là chương này. Nhưng nó là một "lịch sử phỏng đoán", phương pháp phổ biến của Khai sáng Scotland: suy ra quá khứ hợp lý từ nguyên lý, không dựa vào tư liệu. Nhân học thế kỷ 20 không tìm thấy xã hội nào mà trao đổi giữa người quen chủ yếu dựa vào đổi chác trực tiếp. Trong các cộng đồng nhỏ, người ta dùng **tín dụng không chính thức**: nhận thịt hôm nay, nợ một ân huệ, trả sau. Đổi chác thường xuất hiện giữa người lạ, hoặc khi hệ thống tiền tệ sụp đổ.
 
-Điều này không làm sai lập luận cốt lõi của Smith, rằng xã hội phân công **rộng** cần một phương tiện thanh toán chung. Nhưng nó đổi trọng tâm: tiền có lẽ bắt đầu như một **đơn vị ghi nợ** hơn là một hàng hoá đổi trao tay, và nhà nước (thu thuế, phạt, cống nạp) có vai trò sớm hơn Smith thừa nhận. Chính chương này có chi tiết ủng hộ cách hiểu đó: luật bánh mì thời Henry III dùng shilling như đơn vị đo, và tỷ lệ 1 : 20 : 240 tồn tại lâu dài dù hàm lượng kim loại đổi, cho thấy đơn vị tính toán có đời sống riêng tách khỏi kim loại. Và chi tiết người thợ mang đinh đến quán bia ở Scotland thời Smith, theo cách đọc của một số tác giả về sau, có thể là một hình thức trả bằng hàng cho những khoản đã ghi sổ nợ, chứ không phải đổi chác thuần tuý.
+Điều này không làm sai lập luận cốt lõi của Smith, rằng xã hội phân công **rộng** cần một phương tiện thanh toán chung. Nhưng nó đổi trọng tâm: tiền có lẽ bắt đầu như một **đơn vị ghi nợ** hơn là một hàng hoá đổi trao tay, và nhà nước (thu thuế, phạt, cống nạp) có vai trò sớm hơn Smith thừa nhận.
+
+Chính chương này có chi tiết ủng hộ cách hiểu đó: luật bánh mì thời Henry III dùng shilling như đơn vị đo, và tỷ lệ 1 : 20 : 240 tồn tại lâu dài dù hàm lượng kim loại đổi, cho thấy đơn vị tính toán có đời sống riêng tách khỏi kim loại. Và chi tiết người thợ mang đinh đến quán bia ở Scotland thời Smith, theo cách đọc của một số tác giả về sau, có thể là một hình thức trả bằng hàng cho những khoản đã ghi sổ nợ, chứ không phải đổi chác thuần tuý.
 
 ### Phần về phá giá tiền là phân tích sắc bén nhất trong chương, và nó là lý thuyết lạm phát của Smith
 
@@ -457,6 +462,160 @@ Hiếm có nền kinh tế nào minh hoạ chương này rõ như Việt Nam, �
 
 **Con dấu nhà nước và phần bù của nó.** Từ năm 2012 (Nghị định 24/2012/NĐ-CP), Ngân hàng Nhà nước độc quyền sản xuất vàng miếng, và vàng miếng SJC trở thành loại vàng miếng mang "con dấu nhà nước". Hệ quả đúng như logic của Smith về giá trị của con dấu, nhưng theo hướng ông không lường: vì nguồn cung vàng miếng mang dấu bị giới hạn, nó có những giai đoạn được giao dịch với mức chênh rất lớn so với giá vàng thế giới quy đổi, tức người mua trả một khoản phí đáng kể chỉ cho con dấu. Con dấu không chỉ xác thực giá trị mà, khi gắn với độc quyền cung, còn **tạo ra** một phần giá trị. Đây là địa tô của độc quyền, không phải phần thưởng của việc xác thực.
 
-**Phá giá và chủ nợ.** Phần về vua chúa giảm hàm lượng tiền là lịch sử Việt Nam thập niên 1980. Cuộc đổi tiền năm 1985 (một đồng mới đổi mười đồng cũ) kèm điều chỉnh giá, lương, tiền thất bại, và lạm phát tăng lên mức ba chữ số trong các năm 1986–1988. Đúng như Smith viết, đó là một cuộc đảo lộn tài sản tư nhân lớn hơn cả nhiều thảm hoạ: ai giữ tiết kiệm bằng tiền đồng mất gần hết, ai nợ bằng tiền đồng (trước hết là khu vực nhà nước) được xoá nợ trên thực tế. Hệ quả lâu dài là một thế hệ người Việt học cách giữ của cải bằng vàng và đô la thay vì tiền đồng, tức là quay trở lại hàng hoá làm tiền và đồng tiền của nước khác, đúng phản ứng mà người ta có khi mất lòng tin vào con dấu. Mức đô la hoá và vàng hoá đã giảm nhiều từ đó nhờ lạm phát được kiểm soát, nhưng mỗi khi tỷ giá hay giá vàng biến động mạnh, phản xạ ấy quay lại.
+**Phá giá và chủ nợ.** Phần về vua chúa giảm hàm lượng tiền là lịch sử Việt Nam thập niên 1980. Cuộc đổi tiền năm 1985 (một đồng mới đổi mười đồng cũ) kèm điều chỉnh giá, lương, tiền thất bại, và lạm phát tăng lên mức ba chữ số trong các năm 1986–1988. Đúng như Smith viết, đó là một cuộc đảo lộn tài sản tư nhân lớn hơn cả nhiều thảm hoạ: ai giữ tiết kiệm bằng tiền đồng mất gần hết, ai nợ bằng tiền đồng (trước hết là khu vực nhà nước) được xoá nợ trên thực tế.
+
+Hệ quả lâu dài là một thế hệ người Việt học cách giữ của cải bằng vàng và đô la thay vì tiền đồng, tức là quay trở lại hàng hoá làm tiền và đồng tiền của nước khác, đúng phản ứng mà người ta có khi mất lòng tin vào con dấu. Mức đô la hoá và vàng hoá đã giảm nhiều từ đó nhờ lạm phát được kiểm soát, nhưng mỗi khi tỷ giá hay giá vàng biến động mạnh, phản xạ ấy quay lại.
 
 Bài học Smith rút ra cho vua chúa áp dụng thẳng vào chính sách tiền tệ hiện nay: giá trị của đồng tiền là giá trị của lòng tin vào người phát hành, và lòng tin ấy mất nhanh hơn rất nhiều so với tốc độ lấy lại. Ổn định giá trị đồng tiền không phải mục tiêu kỹ thuật mà là điều kiện để người dân dám giữ tiết kiệm bằng nội tệ, và do đó để tín dụng trong nước có nguồn vốn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển I, Chương 4 trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết và phần Đánh giá (đổi chác bế tắc và hàng hoá làm tiền, kim loại và ba giai đoạn thành tiền đúc, tên tiền là tên trọng lượng và sự phá giá, giá trị sử dụng với giá trị trao đổi và ba câu hỏi cho Chương V–VII, đánh giá dưới góc kinh tế học hiện đại và Việt Nam), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển I, Chương 4: tiền là sản phẩm tự phát của phân công, nhưng con dấu nhà nước mở đường cho phá giá`"]
+  n1["`Mục 1–2 — Đổi chác bế tắc nên hàng hoá thành tiền`"]
+  n0 --- n1
+  n2["`Phân công định hình: mỗi người sống bằng trao đổi, xã hội thành xã hội thương mại`"]
+  n1 --- n2
+  n3["`Đổi chác cần hai bên cùng muốn thứ bên kia có, thường không trùng khớp`"]
+  n1 --- n3
+  n4["`Người bán thịt đã đủ bia và bánh, nên người nấu bia và người làm bánh không mua được thịt`"]
+  n3 --- n4
+  n5["`Lời giải tự phát: người khôn ngoan giữ sẵn một hàng hoá ít ai từ chối nhận`"]
+  n1 --- n5
+  n6["`Gia súc thời sơ khai: theo Homer, áo giáp Diomede đáng 9 con bò, áo giáp Glaucus đáng 100 con bò`"]
+  n1 --- n6
+  n7["`Muối (Abyssinia), vỏ sò (ven biển Ấn Độ), cá tuyết khô (Newfoundland), thuốc lá (Virginia), đường (Tây Ấn), da`"]
+  n1 --- n7
+  n8["`Ngay thời Smith, thợ ở một làng Scotland mang đinh thay tiền đến tiệm bánh, quán bia`"]
+  n1 --- n8
+  n9["`Mục 3–4 — Kim loại thắng, rồi thành tiền đúc`"]
+  n0 --- n9
+  n10["`Kim loại bền, ít hao hụt hơn hầu hết mọi thứ`"]
+  n9 --- n10
+  n11["`Kim loại chia nhỏ được không mất giá và đúc lại được`"]
+  n9 --- n11
+  n12["`Người có bò mua muối phải mua cả giá trị một con bò, vì nửa con bò sống không tồn tại`"]
+  n11 --- n12
+  n13["`Sắt ở Sparta cổ, đồng ở La Mã cổ, vàng bạc ở các dân tộc giàu và buôn bán nhiều`"]
+  n9 --- n13
+  n14["`Giai đoạn 1: thanh thô không dấu, như thanh đồng La Mã tới thời Servius Tullius`"]
+  n9 --- n14
+  n15["`Phải cân chính xác, vì chênh lệch nhỏ về lượng kim loại quý là chênh lệch lớn về giá trị`"]
+  n14 --- n15
+  n16["`Phải thử độ tinh khiết bằng chén nung, nếu không dễ nhận hợp kim rẻ bọc ngoài`"]
+  n14 --- n16
+  n17["`Giai đoạn 2: con dấu nhà nước một mặt chỉ xác nhận độ tinh khiết, vẫn phải cân`"]
+  n9 --- n17
+  n18["`Cùng logic với dấu kiểm định vải lanh, vải len: xác nhận lượng và chất của hàng`"]
+  n17 --- n18
+  n19["`Giai đoạn 3: tiền đúc dấu hai mặt, có khi cả cạnh, xác nhận cả trọng lượng nên nhận theo đếm`"]
+  n9 --- n19
+  n20["`William kẻ chinh phục đổi thu nhập của vua từ nộp hiện vật sang nộp bằng tiền`"]
+  n9 --- n20
+  n21["`Mục 5–6 — Tên tiền là tên trọng lượng, và vua chúa phá giá`"]
+  n0 --- n21
+  n22["`As La Mã ban đầu chứa 1 pound đồng, bảng Anh thời Edward I chứa 1 pound bạc trọng lượng Tower`"]
+  n21 --- n22
+  n23["`Livre Pháp thời Charlemagne chứa 1 pound bạc trọng lượng Troy#59; penny = 1 pennyweight = 1/240 pound`"]
+  n21 --- n23
+  n24["`Luật Henry III: lúa mì 12 shilling một quarter thì ổ bánh một farthing nặng 11 shilling 4 penny`"]
+  n21 --- n24
+  n25["`Từ Charlemagne và William kẻ chinh phục, pound : shilling : penny giữ nguyên 1 : 20 : 240`"]
+  n21 --- n25
+  n26["`Ở mọi nước, vua chúa lợi dụng lòng tin vào con dấu để giảm dần kim loại trong tiền`"]
+  n21 --- n26
+  n27["`As La Mã cuối thời Cộng hoà còn 1/24: lẽ ra 12 ounce, chỉ còn nửa ounce`"]
+  n26 --- n27
+  n28["`Bảng Anh còn khoảng 1/3, bảng Scotland khoảng 1/36, livre Pháp khoảng 1/66`"]
+  n26 --- n28
+  n29["`Hợp đồng ghi bằng tên tiền nên vua trả nợ bằng ít bạc hơn, chủ nợ bị lừa`"]
+  n21 --- n29
+  n30["`Mọi con nợ trong nước hưởng cùng đặc ân, trả bằng cùng số danh nghĩa tiền mất giá`"]
+  n29 --- n30
+  n31["`Vay 30 bảng mỗi bảng 1 pound bạc, hàm lượng giảm nửa thì chỉ trả 15 pound bạc`"]
+  n29 --- n31
+  n32["`Lợi con nợ, hại chủ nợ, có khi đảo lộn tài sản tư nhân hơn cả một thảm hoạ chung`"]
+  n21 --- n32
+  n33["`Mục 7–8 — Giá trị sử dụng, giá trị trao đổi và ba câu hỏi`"]
+  n0 --- n33
+  n34["`Tiền thành công cụ thương mại chung, nên câu hỏi mới là quy luật của giá trị trao đổi`"]
+  n33 --- n34
+  n35["`Giá trị sử dụng là sự có ích#59; giá trị trao đổi là khả năng mua hàng khác`"]
+  n33 --- n35
+  n36["`Nước có ích nhất mà hầu như không mua được gì#59; kim cương ít có ích mà đổi được rất nhiều`"]
+  n33 --- n36
+  n37["`Smith nêu nghịch lý nhưng không giải, gác giá trị sử dụng sang một bên`"]
+  n36 --- n37
+  n38["`Chương V: thước đo thật của giá trị trao đổi, tức giá thực (real price)`"]
+  n33 --- n38
+  n39["`Chương VI: giá thực gồm những bộ phận nào`"]
+  n33 --- n39
+  n40["`Chương VII: vì sao giá thị trường (actual price) lệch khỏi giá tự nhiên`"]
+  n33 --- n40
+  n41["`Giá thực đo bằng lao động khác giá thực trả trên thị trường, không được nhầm`"]
+  n33 --- n41
+  n42["`Đánh giá — Smith qua kinh tế học hiện đại`"]
+  n0 --- n42
+  n43["`Câu chuyện đổi chác là lịch sử phỏng đoán#59; nhân học thấy cộng đồng nhỏ dùng tín dụng không chính thức`"]
+  n42 --- n43
+  n44["`Tiền có lẽ bắt đầu như đơn vị ghi nợ, nhà nước có vai trò sớm hơn Smith thừa nhận`"]
+  n43 --- n44
+  n45["`Phá giá là lý thuyết lạm phát của Smith: lạm phát bất ngờ chuyển của cải từ chủ nợ sang con nợ`"]
+  n42 --- n45
+  n46["`Lý do cho ngân hàng trung ương độc lập: tách quyền tạo tiền khỏi con nợ lớn nhất`"]
+  n45 --- n46
+  n47["`Con dấu là hàng hoá công thông tin giảm chi phí giao dịch, nhưng bên đáng tin cũng có cơ hội lừa lớn nhất`"]
+  n42 --- n47
+  n48["`Nghịch lý nước và kim cương được giải bằng lợi ích cận biên thập niên 1870, không bằng lao động`"]
+  n42 --- n48
+  n49["`Việt Nam: vàng hỏi tuổi và cân theo chỉ, lượng#59; vàng miếng SJC có chênh lệch do độc quyền cung`"]
+  n42 --- n49
+  n50["`Việt Nam: đổi tiền 1985, lạm phát ba chữ số 1986–1988 xoá tiết kiệm, đẩy dân sang vàng và đô la`"]
+  n42 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Tiền là công cụ thương mại, không phải bản thân của cải: mầm của phê phán trọng thương ở Quyển IV`"]
+  n51 --- n52
+  n53["`Nhà nước chính đáng khi xác thực tiền, nhưng phá giá là thuế ngầm đánh vào chủ nợ`"]
+  n51 --- n53
+  n54["`Giá trị đồng tiền là giá trị của lòng tin vào người phát hành`"]
+  n51 --- n54
+  class n0 root
+  class n1,n9,n21,n33,n42,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển I, Chương IV. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 47–52.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Đơn vị tiền Anh
+
+1 bảng (pound sterling) = 20 shilling; 1 shilling = 12 penny; vậy 1 bảng = 240 penny. 1 farthing = 1/4 penny. Theo Smith, ban đầu đồng penny chứa một pennyweight bạc, tức 1/20 ounce hay 1/240 pound trọng lượng, nên một "bảng" tiền đúng bằng một pound bạc.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Ba chương trước đã chứng minh rằng năng suất đến từ phân công (Chương I), phân công đến từ trao đổi (Chương II), và bị giới hạn bởi quy mô trao đổi (Chương III). Chương này giải quyết trở ngại kỹ thuật của trao đổi: đổi chác trực tiếp thường bất khả, nên xã hội phải có tiền.
+
+Đồng thời nó là bản lề của Quyển I: sau khi giải thích tiền, Smith mở ra câu hỏi về **giá trị trao đổi** (vì sao một thứ đổi được bao nhiêu thứ khác), phân biệt giá trị sử dụng và giá trị trao đổi, và báo trước ba chương tiếp theo: thước đo thật của giá trị (Chương V), các bộ phận của giá cả (Chương VI), giá tự nhiên và giá thị trường (Chương VII).
+
+Nó cũng là lần đầu xuất hiện chủ đề về tiền mà Quyển II (tiền và ngân hàng) và Quyển IV (phê phán quan niệm của cải là tiền) sẽ phát triển.
+
+## Lưu ý
+
+- "Đồng bảng Troyes chỉ bắt đầu được đúc ở Anh vào **thế kỷ 18** thời vua Henry VIII" là dịch sai: nguyên văn là pound Troy chỉ được đưa vào xưởng đúc tiền Anh từ **năm thứ 18 triều Henry VIII** (khoảng năm 1526–1527), tức thế kỷ 16. Pound Troy, pound Tower, pound La Mã là **đơn vị trọng lượng** dùng ở xưởng đúc, không phải đồng tiền.
+- Chú thích "một phần tư tạ Anh (bằng 12,70 kg)" là sai: *quarter* trong giá lúa mì là đơn vị **thể tích** (8 bushel, khoảng 290 lít, tức vài trăm ký lúa mì), không phải một phần tư tạ.
+- "Độ tuổi" và "độ tuổi cao" của vàng, bạc là thuật ngữ "tuổi vàng" trong tiếng Việt, tức **độ tinh khiết** (*fineness*), không liên quan đến tuổi tác.
+- Cuối chương bản dịch viết "giá thị trường, tức là giá **có thực** của hàng hoá", trong khi trước đó dùng "giá **thực tế**" cho *real price*. Hai khái niệm hoàn toàn khác nhau: *real price* là giá đo bằng lao động (chủ đề Chương V), còn *actual price* (giá có thực, giá thực tế trả trên thị trường) là giá thị trường (Chương VII). Người đọc cần giữ phân biệt này cho cả ba chương sau.
+- "Hội chợ hệ trọng lượng Troyes họp ở Champaign" là hội chợ ở thành phố Troyes, vùng Champagne; "đồng bằng" ở câu về tỷ lệ penny là lỗi chính tả của "đồng bảng".

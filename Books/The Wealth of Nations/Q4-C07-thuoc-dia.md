@@ -1,11 +1,18 @@
 # Quyển IV, Chương VII — Thuộc địa (Of Colonies)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương VII. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 530–586.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Đây là chương dài nhất và là đỉnh điểm của cuộc tấn công vào hệ thống trọng thương ở Quyển IV. Các chương trước đã xét từng biện pháp riêng lẻ: hạn chế nhập khẩu (Chương II–III), hoàn thuế (Chương IV), trợ cấp xuất khẩu (Chương V), hiệp ước ưu đãi (Chương VI, nơi Smith chứng minh rằng ưu đãi riêng cho một nước là trao độc quyền cho thương nhân nước đó). Chương VII xét biện pháp lớn nhất mà hệ thống ấy từng dựng lên: một đế chế thuộc địa được duy trì để giữ **độc quyền thương mại**. Chương dùng gần như mọi công cụ đã xây dựng trước đó: quy luật tiền công cao ở nước đang tiến lên (Quyển I, Chương VIII), lợi nhuận giảm khi vốn tăng và lợi nhuận cao bất thường kéo vốn từ ngành khác sang (Quyển I, Chương IX–X), và thứ bậc dùng vốn theo tốc độ quay vòng (Quyển II, Chương V: vốn trong nông nghiệp và thương mại trực tiếp gần nhà nuôi nhiều lao động trong nước hơn thương mại vòng vo và vận tải quốc tế). Sau chương này, Chương VIII tổng kết hệ thống trọng thương, Chương IX chuyển sang phái trọng nông.
-**Ý chính:** Smith muốn chứng minh rằng **thương mại với thuộc địa có lợi lớn cho châu Âu, nhưng độc quyền thương mại thuộc địa thì có hại cho tất cả, kể cả nước giữ độc quyền**. Phần I cho thấy thuộc địa châu Âu ở châu Mỹ không sinh ra từ nhu cầu chính đáng như thuộc địa Hy Lạp hay La Mã mà từ "sự điên rồ" đi tìm mỏ vàng và "sự bất công" chiếm đất người khác. Phần II cho thấy thuộc địa mới giàu nhanh nhờ hai điều: **đất tốt dồi dào** và **tự do lo liệu việc của mình**. Thuộc địa Anh ở Bắc Mỹ tiến nhanh nhất vì được tự do nhiều nhất, không phải nhờ chính sách khôn ngoan của mẫu quốc. Phần III chứng minh rằng độc quyền chỉ cho nước Anh một **lợi thế tương đối** (chèn ép nước khác) trong khi làm nước Anh chịu **thiệt hại tuyệt đối**: nó kéo vốn khỏi các ngành gần và quay vòng nhanh sang ngành xa và chậm, đẩy lợi nhuận lên, làm cơ cấu kinh tế mất cân đối và dễ đổ vỡ, và buộc nhà nước chi khoản tiền khổng lồ để giữ thuộc địa. Smith đề xuất nới dần độc quyền, và (trong nguyên bản) hoặc để thuộc địa ra đi trong hoà bình, hoặc hợp nhất với đại diện trong nghị viện tương xứng với phần thuế họ đóng. Chương kết bằng phê phán các công ty độc quyền như Công ty Đông Ấn: thứ chính quyền tệ nhất cho bất cứ xứ nào.
+## Ý chính
 
-> **Lưu ý:** Bản dịch có nhiều lỗi và **bị lược bỏ đáng kể ở Phần III**. (1) **Bị lược bỏ:** văn bản tiếng Việt không có đoạn nổi tiếng về "quốc gia chủ tiệm" (*nation of shopkeepers*), không có đề xuất đầy đủ của Smith về hợp nhất thuộc địa với đại diện trong nghị viện và về khả năng "trung tâm của đế chế" dời sang châu Mỹ, không có ước tính chi phí của cuộc chiến tranh vừa qua, và chỉ giữ một phần nhỏ phân tích về Công ty Đông Ấn với tư cách vừa là nhà buôn vừa là nhà cầm quyền. Các nội dung này được tóm tắt trong file ở các mục ghi rõ "theo nguyên bản, bản dịch lược". (2) **"Đông Âu" thay cho "Đông Ấn"** (East Indies) lặp lại 16 lần trong Phần III, và có 2 chỗ "Tây Âu" thay cho "Tây Ấn". Lỗi nặng nhất: câu đúng là "đối với **thổ dân** Đông Ấn và Tây Ấn, mọi lợi ích thương mại đã chìm mất trong những bất hạnh khủng khiếp" mà hai sự kiện gây ra, bị dịch thành "đối với người dân ở Tây Âu và Đông Âu", đảo ngược hẳn ai là người chịu khổ. (3) **Ba câu bị dịch ngược nghĩa:** Smith viết rằng nhà lập pháp thận trọng muốn tăng vốn quốc gia sẽ **ít muốn nhất** khuyến khích các dự án mỏ vàng bạc, bản dịch thành "ít nhất phải lựa chọn để có một sự khuyến khích đặc biệt"; Smith viết rằng tấm gương Tây Ban Nha, Bồ Đào Nha cho thấy độc quyền thương mại thuộc địa **không đủ** để lập ra, thậm chí không đủ để giữ được công nghiệp, bản dịch thành "không những đủ để thiết lập, mà còn duy trì"; Smith viết rằng chính thuộc địa đường **của Anh** có chính quyền tự do giống Bắc Mỹ (vậy mà thuộc địa đường Pháp vẫn tiến nhanh hơn), bản dịch gán chính quyền tự do cho thuộc địa Pháp. (4) Ở đoạn Hy Lạp, người Ionia và người Aeolia là hai nhánh lớn khác của dân Hy Lạp có thuộc địa ở Tiểu Á và các đảo Aegea, không phải "bộ lạc mọi rợ" như bản dịch. (5) Đoạn về thuộc địa Đan Mạch bị vỡ: ý gốc là vua Đan Mạch quá cố giải tán công ty độc quyền và từ đó các đảo này thịnh vượng rất nhanh, bản dịch nối nhầm sang câu về Hà Lan bằng chữ "cho nên". (6) Đoạn về nô lệ: ở nước tự do nơi chủ nô là thành viên hay cử tri của hội đồng thuộc địa, chính **quan toà** mới không dám can thiệp, trừ khi hết sức thận trọng, chứ không phải chủ nô không dám làm điều bạo ngược. Bản dịch còn viết luật bảo vệ nô lệ "chỉ được thi hành triệt để" nơi chính quyền chuộng tự do, ngược với ý Smith là nó được thi hành tốt hơn dưới chính quyền chuyên chế. (7) Anh dùng **hai** cách khuyến khích hàng thuộc địa: đánh thuế cao hơn hàng cùng loại từ nước khác (đường, thuốc lá, sắt) và trả tiền thưởng khi nhập từ thuộc địa (tơ sống, gai, lanh, chàm, đồ hàng hải, gỗ xây dựng). Bản dịch thành ba cách và xếp lẫn. (8) Batavia nằm trên đường chính từ **Ấn Độ** (Indostan) sang Trung Hoa và Nhật Bản, không phải "từ Indonesia". (9) "Enumerated commodities" bị dịch là "hàng cấm xuất tự do". Thực ra đây là hàng **phải liệt kê**, chỉ được chở về Anh, không phải bị cấm xuất. "Drawbacks" (hoàn thuế khi tái xuất) bị dịch là "số tiền thuế được giảm". (10) Một số dòng bị lặp do trích xuất PDF, và chú thích số [14] về chế định *majorazzo* không có trong phần chú thích cuối sách.
+Smith muốn chứng minh rằng **thương mại với thuộc địa có lợi lớn cho châu Âu, nhưng độc quyền thương mại thuộc địa thì có hại cho tất cả, kể cả nước giữ độc quyền**.
+
+Phần I cho thấy thuộc địa châu Âu ở châu Mỹ không sinh ra từ nhu cầu chính đáng như thuộc địa Hy Lạp hay La Mã mà từ "sự điên rồ" đi tìm mỏ vàng và "sự bất công" chiếm đất người khác.
+
+Phần II cho thấy thuộc địa mới giàu nhanh nhờ hai điều: **đất tốt dồi dào** và **tự do lo liệu việc của mình**. Thuộc địa Anh ở Bắc Mỹ tiến nhanh nhất vì được tự do nhiều nhất, không phải nhờ chính sách khôn ngoan của mẫu quốc.
+
+Phần III chứng minh rằng độc quyền chỉ cho nước Anh một **lợi thế tương đối** (chèn ép nước khác) trong khi làm nước Anh chịu **thiệt hại tuyệt đối**: nó kéo vốn khỏi các ngành gần và quay vòng nhanh sang ngành xa và chậm, đẩy lợi nhuận lên, làm cơ cấu kinh tế mất cân đối và dễ đổ vỡ, và buộc nhà nước chi khoản tiền khổng lồ để giữ thuộc địa.
+
+Smith đề xuất nới dần độc quyền, và (trong nguyên bản) hoặc để thuộc địa ra đi trong hoà bình, hoặc hợp nhất với đại diện trong nghị viện tương xứng với phần thuế họ đóng.
+
+Chương kết bằng phê phán các công ty độc quyền như Công ty Đông Ấn: thứ chính quyền tệ nhất cho bất cứ xứ nào.
 
 ## Sơ đồ
 
@@ -557,7 +564,9 @@
 
 ## Khái niệm cần biết
 
-**Thuộc địa và mẫu quốc (colony, mother country).** Thuộc địa là vùng đất ở xa do người từ một nước khác đến định cư hoặc cai trị; nước gốc gọi là mẫu quốc (bản dịch dùng lẫn "mẫu quốc", "nước mẹ", "chính quốc"). Smith phân biệt ba kiểu: thuộc địa Hy Lạp là một nhà nước độc lập do dân di cư lập ra; thuộc địa La Mã là một đồn trú luôn dưới quyền La Mã; thuộc địa châu Âu ở châu Mỹ phụ thuộc mẫu quốc về luật và thương mại nhưng ở quá xa để bị quản chặt. Ví dụ: vào thời Smith viết, các thuộc địa Anh ở Bắc Mỹ có khoảng 3 triệu dân, tự trả chi phí bộ máy dân sự không quá 64.700 bảng mỗi năm, còn quốc phòng do nước Anh gánh. Cả chương xoay quanh câu hỏi quan hệ giữa hai bên có lợi cho ai.
+**Thuộc địa và mẫu quốc (colony, mother country).** Thuộc địa là vùng đất ở xa do người từ một nước khác đến định cư hoặc cai trị; nước gốc gọi là mẫu quốc (bản dịch dùng lẫn "mẫu quốc", "nước mẹ", "chính quốc"). Smith phân biệt ba kiểu: thuộc địa Hy Lạp là một nhà nước độc lập do dân di cư lập ra; thuộc địa La Mã là một đồn trú luôn dưới quyền La Mã; thuộc địa châu Âu ở châu Mỹ phụ thuộc mẫu quốc về luật và thương mại nhưng ở quá xa để bị quản chặt.
+
+Ví dụ: vào thời Smith viết, các thuộc địa Anh ở Bắc Mỹ có khoảng 3 triệu dân, tự trả chi phí bộ máy dân sự không quá 64.700 bảng mỗi năm, còn quốc phòng do nước Anh gánh. Cả chương xoay quanh câu hỏi quan hệ giữa hai bên có lợi cho ai.
 
 **Địa tô, tiền công, lợi nhuận.** Đây là ba nguồn thu nhập mà Smith dùng suốt bộ sách. Địa tô là khoản người dùng đất trả cho chủ đất; tiền công là khoản trả cho người lao động; lợi nhuận là phần người bỏ vốn giữ lại sau khi trả hai khoản kia. Ví dụ minh hoạ: một trang trại bán nông sản được 100 bảng một năm, trả 30 bảng địa tô, 50 bảng tiền công, còn 20 bảng là lợi nhuận. Ở thuộc địa mới, đất gần như không mất tiền nên gần như không có địa tô, phần đó dồn vào tiền công. Ở cuối chương, Smith chứng minh độc quyền làm giảm cả ba nguồn này.
 
@@ -567,7 +576,9 @@
 
 **Lợi thế tương đối và lợi thế tuyệt đối (relative / absolute advantage) theo nghĩa của chương này.** Lợi thế tuyệt đối là mức sống thật của một nước: với cùng một lượng công sức, dân nước đó đổi được bao nhiêu hàng. Lợi thế tương đối là vị trí của nước đó **so với nước khác**: hơn người ta bao nhiêu. Ví dụ minh hoạ (số tự đặt): có độc quyền, 1 tấm vải Anh đổi được 2 pound thuốc lá ở Anh, còn ở Pháp chỉ đổi được 1,5 pound. Nếu thương mại tự do, cả hai nơi đều đổi được 2,5 pound. Anh mất phần hơn Pháp (lợi thế tương đối) nhưng được thêm 0,5 pound mỗi tấm (lợi thế tuyệt đối). Lưu ý: đây không phải "lợi thế so sánh" của Ricardo. Đây là phân biệt sắc nhất của chương.
 
-**Vòng quay vốn và thứ bậc dùng vốn.** Vòng quay vốn là số lần một khoản vốn bỏ ra rồi thu về trong một năm. Smith lập luận (Quyển II, Chương V) rằng vốn quay về càng nhanh thì mỗi năm càng nuôi được nhiều lao động trong nước. Ví dụ của chương: vốn 1.000 bảng quay về một lần mỗi năm nuôi được lượng lao động mà 1.000 bảng nuôi được; quay về ba lần thì nuôi lượng mà 3.000 bảng nuôi được. Từ đó có "thứ bậc": buôn với nước gần tốt hơn nước xa; buôn **trực tiếp** (đổi hàng mình làm lấy hàng mình dùng) tốt hơn buôn **vòng vo** (mua hàng nước này để bán lại cho nước khác rồi mới mua được thứ mình cần); và cả hai tốt hơn **vận tải quốc tế** (chở hàng giữa các nước khác). Smith dùng thứ bậc này để chứng minh độc quyền đẩy vốn Anh đi sai hướng.
+**Vòng quay vốn và thứ bậc dùng vốn.** Vòng quay vốn là số lần một khoản vốn bỏ ra rồi thu về trong một năm. Smith lập luận (Quyển II, Chương V) rằng vốn quay về càng nhanh thì mỗi năm càng nuôi được nhiều lao động trong nước.
+
+Ví dụ của chương: vốn 1.000 bảng quay về một lần mỗi năm nuôi được lượng lao động mà 1.000 bảng nuôi được; quay về ba lần thì nuôi lượng mà 3.000 bảng nuôi được. Từ đó có "thứ bậc": buôn với nước gần tốt hơn nước xa; buôn **trực tiếp** (đổi hàng mình làm lấy hàng mình dùng) tốt hơn buôn **vòng vo** (mua hàng nước này để bán lại cho nước khác rồi mới mua được thứ mình cần); và cả hai tốt hơn **vận tải quốc tế** (chở hàng giữa các nước khác). Smith dùng thứ bậc này để chứng minh độc quyền đẩy vốn Anh đi sai hướng.
 
 **Tỷ suất lợi nhuận và sự dịch chuyển vốn.** Tỷ suất lợi nhuận là lợi nhuận tính trên mỗi đồng vốn, ví dụ 10 bảng lãi trên 100 bảng vốn là 10%. Khi một ngành có tỷ suất cao hơn các ngành khác, vốn rút khỏi ngành khác để chạy sang, cho đến khi tỷ suất các ngành gần bằng nhau trở lại. Ví dụ minh hoạ: nếu thương mại thuộc địa lãi 15% trong khi các ngành khác lãi 10%, vốn sẽ chảy vào thương mại thuộc địa; ngành này bớt lãi, các ngành bị rút vốn ít cạnh tranh hơn nên lãi tăng, và mọi ngành dừng ở mức mới, chẳng hạn 11%. Đây là cơ chế trung tâm của Phần III.
 
@@ -585,7 +596,9 @@ Smith mở đầu bằng nhận xét rằng lợi ích mà châu Âu thu đượ
 
 **Thuộc địa Hy Lạp sinh ra từ sự cần thiết.** Mỗi thành bang Hy Lạp có lãnh thổ rất nhỏ. Khi dân đông quá mức đất nuôi được, một phần dân được gửi đi lập nghiệp ở vùng xa, thường là nơi dân bản xứ còn lạc hậu. Người Dorian lập thuộc địa ở Ý và Sicily; người Ionia và người Aeolia (hai nhánh lớn khác của dân Hy Lạp, không phải "bộ lạc mọi rợ" như bản dịch ghi) lập thuộc địa ở Tiểu Á và các đảo biển Aegea. Thành phố mẹ coi thuộc địa như con: giúp đỡ, được thuộc địa biết ơn và kính yêu, nhưng không đòi quyền cai trị. Thuộc địa tự lập chính phủ, tự làm luật, tự cử thẩm phán, tự tuyên chiến hay giảng hoà với láng giềng như một nhà nước độc lập.
 
-**Thuộc địa La Mã sinh ra từ một lợi ích rõ ràng.** Ban đầu La Mã có luật ruộng đất chia đất công cho công dân. Qua hôn nhân, thừa kế và chiếm đoạt, đất dần dồn về tay số ít. Luật giới hạn mỗi người không được giữ quá 500 jugera (khoảng 350 mẫu Anh) bị lờ đi. Hoàn cảnh của người nghèo ở La Mã khác với ở nước Anh thời Smith. Ở Anh, người không có đất vẫn có thể thuê đất, buôn bán nhỏ hay làm thuê. Ở La Mã, ruộng đất của người giàu và các nghề thủ công đều do nô lệ làm, nên người tự do không có đất gần như không có kế sinh nhai, ngoài khoản tiền các ứng cử viên phát ra trong các kỳ bầu cử. Họ đòi chia lại đất. Người giàu không chịu nhả đất, nên đề nghị đưa dân nghèo đi lập thuộc địa trong các tỉnh ở Ý mà La Mã đã chinh phục.
+**Thuộc địa La Mã sinh ra từ một lợi ích rõ ràng.** Ban đầu La Mã có luật ruộng đất chia đất công cho công dân. Qua hôn nhân, thừa kế và chiếm đoạt, đất dần dồn về tay số ít. Luật giới hạn mỗi người không được giữ quá 500 jugera (khoảng 350 mẫu Anh) bị lờ đi.
+
+Hoàn cảnh của người nghèo ở La Mã khác với ở nước Anh thời Smith. Ở Anh, người không có đất vẫn có thể thuê đất, buôn bán nhỏ hay làm thuê. Ở La Mã, ruộng đất của người giàu và các nghề thủ công đều do nô lệ làm, nên người tự do không có đất gần như không có kế sinh nhai, ngoài khoản tiền các ứng cử viên phát ra trong các kỳ bầu cử. Họ đòi chia lại đất. Người giàu không chịu nhả đất, nên đề nghị đưa dân nghèo đi lập thuộc địa trong các tỉnh ở Ý mà La Mã đã chinh phục.
 
 Thuộc địa La Mã vì vậy luôn dưới quyền thành phố mẹ. Nó giải quyết cùng lúc hai việc: thoả mãn đòi hỏi về đất của dân nghèo, và đặt một đồn trú giữ vùng mới chiếm. Tên gọi phản ánh khác biệt này: chữ Latin *colonia* chỉ có nghĩa là đồn điền, còn chữ Hy Lạp *apoikia* nghĩa là rời nhà đi xa. Hai loại khác nhau, nhưng đều xuất phát từ một nhu cầu không tránh được hoặc một lợi ích rõ ràng.
 
@@ -806,7 +819,9 @@ Anh rộng lượng với sản phẩm **thô** của thuộc địa. Với sả
 
 **Mũ và hàng len.** Anh cấm chở mũ, len và hàng len do châu Mỹ làm ra từ tỉnh này sang tỉnh khác, bằng đường thuỷ, thậm chí bằng ngựa hay xe trên đường bộ. Mục đích là không cho ai lập xưởng lớn bán hàng đi xa, giữ công nghiệp thuộc địa ở mức đồ gia đình tự làm.
 
-**Phán xét của Smith.** "Ngăn cấm mọi người không được chế biến các hàng hóa từ các sản phẩm thô mà chính họ làm ra và không cho họ sử dụng vốn và công nghệ theo cách mà họ cho là có lợi nhất cho bản thân, là một sự vi phạm trắng trợn quyền thiêng liêng nhất của con người." Nhưng ông thừa nhận rằng hiện nay các lệnh cấm này chưa gây hại thật: đất rẻ, lương cao, nên dân thuộc địa tự thấy nhập hàng tinh từ mẫu quốc rẻ hơn tự làm; họ không muốn làm những thứ bị cấm. Các lệnh cấm vì vậy chỉ là "dấu ấn nô lệ" vô cớ, do sự ghen tị vô căn cứ của nhà buôn và nhà sản xuất mẫu quốc áp lên thuộc địa. Khi thuộc địa phát triển cao hơn, chúng sẽ trở thành áp bức thật.
+**Phán xét của Smith.** "Ngăn cấm mọi người không được chế biến các hàng hóa từ các sản phẩm thô mà chính họ làm ra và không cho họ sử dụng vốn và công nghệ theo cách mà họ cho là có lợi nhất cho bản thân, là một sự vi phạm trắng trợn quyền thiêng liêng nhất của con người."
+
+Nhưng ông thừa nhận rằng hiện nay các lệnh cấm này chưa gây hại thật: đất rẻ, lương cao, nên dân thuộc địa tự thấy nhập hàng tinh từ mẫu quốc rẻ hơn tự làm; họ không muốn làm những thứ bị cấm. Các lệnh cấm vì vậy chỉ là "dấu ấn nô lệ" vô cớ, do sự ghen tị vô căn cứ của nhà buôn và nhà sản xuất mẫu quốc áp lên thuộc địa. Khi thuộc địa phát triển cao hơn, chúng sẽ trở thành áp bức thật.
 
 **Hai cách bù đắp cho thuộc địa.** Anh giữ một số hàng thuộc địa trong thị trường của mình, nhưng bù lại bằng hai cách:
 
@@ -815,13 +830,17 @@ Anh rộng lượng với sản phẩm **thô** của thuộc địa. Với sả
 
 (Bản dịch biến hai cách này thành ba và xếp lẫn mặt hàng.) Theo Smith biết, cách thứ hai là riêng của Anh. Cách thứ nhất thì nước khác cũng làm: Bồ Đào Nha còn cấm hẳn thuốc lá nước ngoài với hình phạt nặng nhất.
 
-**Hoàn thuế khi tái xuất (drawback).** Với hàng châu Âu nhập vào rồi chở sang thuộc địa, Anh rộng rãi hơn các nước khác. Khi hàng ngoại được tái xuất, Anh hoàn lại một phần thuế nhập khẩu, thường là một nửa, có khi phần lớn hoặc toàn bộ. Đến năm 1763, hàng ngoại tái xuất sang thuộc địa cũng được hoàn thuế như khi tái xuất sang một nước độc lập, dù thuộc địa không có lựa chọn nào khác ngoài mua qua Anh. Năm 1763 (luật năm thứ 4 triều George III), đặc ân này bị cắt nhiều: không còn hoàn phần thuế gọi là "trợ cấp cũ" cho hàng châu Âu và Đông Ấn xuất sang thuộc địa, trừ rượu vang, vải calico trắng và vải muslin. Trước khi bị cắt, nhiều hàng ngoại rẻ hơn ở thuộc địa so với ở chính nước Anh; ví dụ vải lanh Đức.
+**Hoàn thuế khi tái xuất (drawback).** Với hàng châu Âu nhập vào rồi chở sang thuộc địa, Anh rộng rãi hơn các nước khác. Khi hàng ngoại được tái xuất, Anh hoàn lại một phần thuế nhập khẩu, thường là một nửa, có khi phần lớn hoặc toàn bộ. Đến năm 1763, hàng ngoại tái xuất sang thuộc địa cũng được hoàn thuế như khi tái xuất sang một nước độc lập, dù thuộc địa không có lựa chọn nào khác ngoài mua qua Anh.
+
+Năm 1763 (luật năm thứ 4 triều George III), đặc ân này bị cắt nhiều: không còn hoàn phần thuế gọi là "trợ cấp cũ" cho hàng châu Âu và Đông Ấn xuất sang thuộc địa, trừ rượu vang, vải calico trắng và vải muslin. Trước khi bị cắt, nhiều hàng ngoại rẻ hơn ở thuộc địa so với ở chính nước Anh; ví dụ vải lanh Đức.
 
 Smith lưu ý ai đứng sau các luật này: chính các nhà buôn buôn với thuộc địa là cố vấn chính khi soạn luật, và họ đặt lợi ích riêng lên trên lợi ích của cả thuộc địa lẫn nước Anh. Hoàn thuế khi tái xuất làm ngân sách Anh mất thu, và làm hàng Anh bị hàng ngoại cạnh tranh ngay trong thuộc địa của mình. Người ta cho rằng ngành vải lanh Anh bị chèn ép vì Anh hoàn thuế cho vải lanh Đức tái xuất sang Mỹ.
 
 #### 12. Tự do chính trị, nô lệ, và tại sao thuộc địa đường Pháp tiến nhanh
 
-**Tự do chính trị ở thuộc địa Anh.** Ngoài ngoại thương, thuộc địa Anh tự quyết mọi việc. Người định cư có mọi quyền như dân mẫu quốc. Họ có hội đồng dân cử nắm quyền đặt thuế để nuôi chính quyền thuộc địa, đủ mạnh để cơ quan hành pháp phải nể. Không ai phải sợ thống đốc nếu tuân luật. Hội đồng tương đương Thượng viện không gồm quý tộc cha truyền con nối; ở ba chính quyền New England, hội đồng đó do đại diện dân bầu. Không nơi nào có quý tộc cha truyền con nối; con cháu các dòng họ lâu đời được kính trọng hơn nhưng không có đặc quyền gì. Ở Connecticut và Rhode Island, hội đồng còn bầu cả thống đốc; ở nơi khác, hội đồng cử người thu thuế, và người đó chịu trách nhiệm trước hội đồng. Tinh thần ở đó mang tính cộng hoà, nhất là ở New England.
+**Tự do chính trị ở thuộc địa Anh.** Ngoài ngoại thương, thuộc địa Anh tự quyết mọi việc. Người định cư có mọi quyền như dân mẫu quốc. Họ có hội đồng dân cử nắm quyền đặt thuế để nuôi chính quyền thuộc địa, đủ mạnh để cơ quan hành pháp phải nể. Không ai phải sợ thống đốc nếu tuân luật.
+
+Hội đồng tương đương Thượng viện không gồm quý tộc cha truyền con nối; ở ba chính quyền New England, hội đồng đó do đại diện dân bầu. Không nơi nào có quý tộc cha truyền con nối; con cháu các dòng họ lâu đời được kính trọng hơn nhưng không có đặc quyền gì. Ở Connecticut và Rhode Island, hội đồng còn bầu cả thống đốc; ở nơi khác, hội đồng cử người thu thuế, và người đó chịu trách nhiệm trước hội đồng. Tinh thần ở đó mang tính cộng hoà, nhất là ở New England.
 
 **Chính quyền chuyên chế ở thuộc địa các nước khác.** Tây Ban Nha, Bồ Đào Nha và Pháp cai trị thuộc địa theo lối chuyên chế. Dưới chính quyền chuyên chế, dân ở thủ đô tự do hơn dân ở tỉnh xa, vì quan chức ở tỉnh biết rằng lời kêu ca của dân khó tới tai nhà vua, nên dễ lạm quyền. Thuộc địa châu Mỹ còn xa hơn cả tỉnh xa nhất của các đế chế cổ. Smith nói chính quyền thuộc địa Anh "có thể là chính quyền duy nhất kể từ khi hình thành thế giới đã đảm bảo một sự an ninh hoàn toàn cho các cư dân sinh sống trên các vùng đất xa xôi". Trong ba nước chuyên chế, Pháp nhẹ tay hơn Tây Ban Nha và Bồ Đào Nha.
 
@@ -880,7 +899,9 @@ Tác dụng thúc đẩy công nghiệp lan tới ba nhóm nước:
 | Buôn qua trung gian | Flanders thuộc Áo, một số tỉnh Đức (gửi nhiều vải lanh) | Gửi hàng qua các nước có thuộc địa |
 | Không buôn gì với châu Mỹ | Hungary, Ba Lan | Gián tiếp, qua thị trường châu Âu |
 
-Cơ chế ở nhóm thứ ba là chỗ tinh tế nhất. Hungary và Ba Lan có lẽ chưa từng gửi một món hàng nào sang châu Mỹ. Nhưng dân ở đó vẫn tiêu đường, sô-cô-la, thuốc lá của châu Mỹ. Muốn có những thứ đó, họ phải làm ra hàng của mình (hoặc mua bằng thứ họ làm ra) để đổi với các nước có buôn với châu Mỹ. Sản phẩm châu Mỹ vì vậy là "các vật ngang giá mới": những thứ mới để đổi lấy thặng dư của Hungary và Ba Lan. Chúng mở rộng thị trường cho thặng dư ấy, nâng giá trị của nó, và khuyến khích làm ra nhiều hơn. Lợi ích lan cả tới những nước không gửi gì và không nhận gì trực tiếp từ châu Mỹ, vì họ nhận được nhiều hàng hơn từ những nước có buôn với châu Mỹ.
+Cơ chế ở nhóm thứ ba là chỗ tinh tế nhất. Hungary và Ba Lan có lẽ chưa từng gửi một món hàng nào sang châu Mỹ. Nhưng dân ở đó vẫn tiêu đường, sô-cô-la, thuốc lá của châu Mỹ. Muốn có những thứ đó, họ phải làm ra hàng của mình (hoặc mua bằng thứ họ làm ra) để đổi với các nước có buôn với châu Mỹ.
+
+Sản phẩm châu Mỹ vì vậy là "các vật ngang giá mới": những thứ mới để đổi lấy thặng dư của Hungary và Ba Lan. Chúng mở rộng thị trường cho thặng dư ấy, nâng giá trị của nó, và khuyến khích làm ra nhiều hơn. Lợi ích lan cả tới những nước không gửi gì và không nhận gì trực tiếp từ châu Mỹ, vì họ nhận được nhiều hàng hơn từ những nước có buôn với châu Mỹ.
 
 **Ví dụ minh hoạ** (số tự đặt). Trước khi có đường châu Mỹ, một nông dân Ba Lan dư 10 bao lúa mì mà không có gì đáng mua, nên trồng ít đi. Khi đường xuất hiện ở chợ Danzig, anh ta có lý do trồng thêm 10 bao để đổi lấy đường. Sản lượng Ba Lan tăng, dù không người Ba Lan nào sang châu Mỹ.
 
@@ -936,7 +957,9 @@ Smith kết luận: với thương mại tự do, "nước Anh sẽ có thể gi
 
 Smith rút ra hai hệ quả.
 
-**Hệ quả thứ nhất: vốn Anh bị chuyển hướng sang thương mại thuộc địa.** Của cải nước Anh đã tăng nhiều từ khi có Luật Hàng hải (luật buộc hàng hoá phải chở bằng tàu Anh), nhưng không tăng theo tỷ lệ tăng của thuộc địa. Khi thâu tóm gần hết ngoại thương của thuộc địa mà vốn không tăng tương xứng, Anh buộc phải rút vốn từ các ngành khác. Vì vậy, từ khi có Luật Hàng hải, thương mại thuộc địa tăng mãi trong khi buôn bán với châu Âu và vùng Địa Trung Hải giảm. Nhà sản xuất hàng xuất khẩu Anh thích nghi với thị trường xa, nơi họ có độc quyền, thay vì thị trường gần, nơi có cạnh tranh. Ngài Matthew Decker và các tác giả khác đổ sự suy giảm của thương mại với châu Âu cho thuế cao, lương cao và thói xa xỉ. Smith cho rằng nguyên nhân thật là thương mại thuộc địa tăng quá nhanh, hút vốn khỏi các ngành đó.
+**Hệ quả thứ nhất: vốn Anh bị chuyển hướng sang thương mại thuộc địa.** Của cải nước Anh đã tăng nhiều từ khi có Luật Hàng hải (luật buộc hàng hoá phải chở bằng tàu Anh), nhưng không tăng theo tỷ lệ tăng của thuộc địa. Khi thâu tóm gần hết ngoại thương của thuộc địa mà vốn không tăng tương xứng, Anh buộc phải rút vốn từ các ngành khác.
+
+Vì vậy, từ khi có Luật Hàng hải, thương mại thuộc địa tăng mãi trong khi buôn bán với châu Âu và vùng Địa Trung Hải giảm. Nhà sản xuất hàng xuất khẩu Anh thích nghi với thị trường xa, nơi họ có độc quyền, thay vì thị trường gần, nơi có cạnh tranh. Ngài Matthew Decker và các tác giả khác đổ sự suy giảm của thương mại với châu Âu cho thuế cao, lương cao và thói xa xỉ. Smith cho rằng nguyên nhân thật là thương mại thuộc địa tăng quá nhanh, hút vốn khỏi các ngành đó.
 
 **Hệ quả thứ hai: lợi nhuận mọi ngành ở Anh bị giữ cao hơn mức tự nhiên.** Loại trừ vốn nước ngoài làm tổng vốn trong thương mại thuộc địa thấp hơn mức khi tự do, nên lợi nhuận ở đó cao. Rút vốn Anh khỏi các ngành khác làm cạnh tranh ở các ngành đó giảm, nên lợi nhuận ở đó cũng cao. Nếu từ khi có Luật Hàng hải tỷ suất lợi nhuận ở Anh đã giảm đáng kể, thì không có độc quyền nó còn giảm nhiều hơn.
 
@@ -1038,7 +1061,9 @@ Kết luận của Smith: độc quyền làm giảm cả tiền công, địa t
 
 So hai con số trong chương để thấy tầm cỡ: toàn bộ chính quyền dân sự Bắc Mỹ tốn không quá 64.700 bảng mỗi năm (mục 9), còn một cuộc chiến vì thuộc địa tốn hơn 90 triệu bảng, gấp gần 1.400 lần. Smith kết luận: "Với chế độ quản lý hiện nay, nước Anh chẳng được gì ngoài thua lỗ do việc thống trị các thuộc địa của mình."
 
-**"Quốc gia chủ tiệm"** (*theo nguyên bản, bản dịch lược*). Đây là đoạn nổi tiếng nhất của chương. Dựng một đế chế lớn chỉ để nuôi một dân tộc khách hàng, thoạt nhìn, có vẻ là dự án chỉ hợp với một quốc gia chủ tiệm (*nation of shopkeepers*). Thực ra nó hoàn toàn không hợp với một quốc gia chủ tiệm, vì không chủ tiệm nào lại bỏ tiền mua cho khách một điền trang chỉ để khách phải mua quần áo ở tiệm mình. Nhưng nó rất hợp với một quốc gia mà **chính phủ bị chủ tiệm chi phối**: chủ tiệm sẽ rất biết ơn nếu **người khác** (ở đây là người đóng thuế) bỏ tiền mua điền trang cho khách với điều kiện ấy. Nước Anh đã mua cho một số thần dân bất mãn ở nhà một điền trang lớn ở xứ xa, với giá ban đầu rất rẻ, rồi đặt điều kiện họ chỉ được mua hàng ở tiệm của nhà buôn Anh.
+**"Quốc gia chủ tiệm"** (*theo nguyên bản, bản dịch lược*). Đây là đoạn nổi tiếng nhất của chương. Dựng một đế chế lớn chỉ để nuôi một dân tộc khách hàng, thoạt nhìn, có vẻ là dự án chỉ hợp với một quốc gia chủ tiệm (*nation of shopkeepers*). Thực ra nó hoàn toàn không hợp với một quốc gia chủ tiệm, vì không chủ tiệm nào lại bỏ tiền mua cho khách một điền trang chỉ để khách phải mua quần áo ở tiệm mình. Nhưng nó rất hợp với một quốc gia mà **chính phủ bị chủ tiệm chi phối**: chủ tiệm sẽ rất biết ơn nếu **người khác** (ở đây là người đóng thuế) bỏ tiền mua điền trang cho khách với điều kiện ấy.
+
+Nước Anh đã mua cho một số thần dân bất mãn ở nhà một điền trang lớn ở xứ xa, với giá ban đầu rất rẻ, rồi đặt điều kiện họ chỉ được mua hàng ở tiệm của nhà buôn Anh.
 
 Ý nghĩa của đoạn này: độc quyền thuộc địa là chính sách của một nhóm lợi ích (nhà buôn) chi phối nhà nước, và cái giá được trả bằng tiền của người tiêu dùng và người đóng thuế. Câu này thường bị trích như lời chế nhạo người Anh, nhưng ý của Smith là phê phán một chính phủ bị nhà buôn chi phối, không phải phê phán nghề buôn.
 
@@ -1056,7 +1081,9 @@ Smith xét ba cách giải quyết vấn đề thuộc địa.
 
 Smith giải thích vì sao thuộc địa chống lại. Nếu nghị viện Anh có toàn quyền đánh thuế thuộc địa mà không cần hội đồng thuộc địa đồng ý, thì hội đồng thuộc địa, và những người đứng đầu ở Mỹ, mất tầm quan trọng. Họ coi hội đồng của mình ngang hàng nghị viện Anh. Vì vậy họ đã bác đề nghị đánh thuế theo yêu cầu, và, như mọi người nhiều tham vọng, "sẵn sàng tuốt gươm ra để bảo vệ địa vị và tầm quan trọng của họ". Đây là cách Smith giải thích cuộc nổi dậy đang diễn ra: một cuộc tranh giành địa vị của tầng lớp lãnh đạo thuộc địa.
 
-**Phương án 3: hợp nhất có đại diện** (*theo nguyên bản, bản dịch lược*). Smith đề nghị cho mỗi thuộc địa có đại diện trong nghị viện chung, tương xứng với phần thuế họ đóng vào ngân sách chung. Phương án này giải quyết đúng chỗ mà phương án 2 vấp: những người đứng đầu thuộc địa sẽ có một đích tham vọng lớn hơn để theo đuổi (ghế trong nghị viện của cả đế chế), thay vì tranh giành những giải thưởng nhỏ trong phe phái nhỏ bé của thuộc địa. Smith còn dự đoán: với tốc độ tăng trưởng của châu Mỹ, chỉ hơn một thế kỷ nữa phần thuế của Mỹ có thể vượt phần thuế của Anh. Khi đó, trung tâm của đế chế sẽ tự nhiên dời sang phần đóng góp nhiều nhất cho việc phòng thủ và duy trì toàn thể, tức là sang châu Mỹ.
+**Phương án 3: hợp nhất có đại diện** (*theo nguyên bản, bản dịch lược*). Smith đề nghị cho mỗi thuộc địa có đại diện trong nghị viện chung, tương xứng với phần thuế họ đóng vào ngân sách chung. Phương án này giải quyết đúng chỗ mà phương án 2 vấp: những người đứng đầu thuộc địa sẽ có một đích tham vọng lớn hơn để theo đuổi (ghế trong nghị viện của cả đế chế), thay vì tranh giành những giải thưởng nhỏ trong phe phái nhỏ bé của thuộc địa.
+
+Smith còn dự đoán: với tốc độ tăng trưởng của châu Mỹ, chỉ hơn một thế kỷ nữa phần thuế của Mỹ có thể vượt phần thuế của Anh. Khi đó, trung tâm của đế chế sẽ tự nhiên dời sang phần đóng góp nhiều nhất cho việc phòng thủ và duy trì toàn thể, tức là sang châu Mỹ.
 
 | Phương án | Nội dung | Đánh giá của Smith |
 |---|---|---|
@@ -1145,7 +1172,24 @@ Smith không quy lỗi cho cá nhân: "Đây là chế độ quản lý mà tôi
 6. Cơ cấu dồn vào một thị trường → một cú sốc ở thị trường đó làm rung cả nền kinh tế.
 7. Để giữ độc quyền, nhà nước nuôi quân đội, hạm đội, và đánh các cuộc chiến tốn kém → người đóng thuế trả cho lợi nhuận độc quyền của nhà buôn.
 
-**Bằng chứng Smith đưa ra.** Hy Lạp so với La Mã; Brazil bị bỏ mặc mà lớn; các đảo Đan Mạch thịnh vượng sau khi giải tán công ty; Canada và St. Domingo nhanh lên sau khi công ty Pháp tan; Curaçao, St. Eustatius thịnh vượng nhờ cảng tự do; chi phí chính quyền Bắc Mỹ chỉ 64.700 bảng/năm cho 3 triệu dân; giá sắt thép ở Quito; thuế đường thô và tinh; Grenada sau khi về tay Anh; 96.000 thùng thuốc lá so với 14.000 thùng tiêu thụ; nợ thuộc địa trả trong 3–5 năm; sự suy giảm thương mại châu Âu của Anh sau Luật Hàng hải; nền kinh tế Anh không sụp khi Bắc Mỹ tẩy chay năm 1774–1775; Tây Ban Nha và Bồ Đào Nha mất công nghiệp dù có thuộc địa lớn; nhà buôn Hamburg và London; Bồ Đào Nha buôn với Đông Ấn hơn một thế kỷ không cần công ty.
+**Bằng chứng Smith đưa ra.**
+
+- Hy Lạp so với La Mã
+- Brazil bị bỏ mặc mà lớn
+- Các đảo Đan Mạch thịnh vượng sau khi giải tán công ty
+- Canada và St. Domingo nhanh lên sau khi công ty Pháp tan
+- Curaçao, St. Eustatius thịnh vượng nhờ cảng tự do
+- Chi phí chính quyền Bắc Mỹ chỉ 64.700 bảng/năm cho 3 triệu dân
+- Giá sắt thép ở Quito
+- Thuế đường thô và tinh
+- Grenada sau khi về tay Anh
+- 96.000 thùng thuốc lá so với 14.000 thùng tiêu thụ
+- Nợ thuộc địa trả trong 3–5 năm
+- Sự suy giảm thương mại châu Âu của Anh sau Luật Hàng hải
+- Nền kinh tế Anh không sụp khi Bắc Mỹ tẩy chay năm 1774–1775
+- Tây Ban Nha và Bồ Đào Nha mất công nghiệp dù có thuộc địa lớn
+- Nhà buôn Hamburg và London
+- Bồ Đào Nha buôn với Đông Ấn hơn một thế kỷ không cần công ty
 
 **Kết luận và hàm ý chính sách.** Nới dần, không đột ngột, độc quyền thương mại thuộc địa. Thuộc địa không đóng góp thì nên để ra đi hoặc hợp nhất với quyền đại diện tương xứng. Bãi bỏ các công ty độc quyền thương mại xa. Luôn nghi ngờ những luật thương mại do chính người hưởng lợi soạn.
 
@@ -1226,7 +1270,11 @@ Smith không quy lỗi cho cá nhân: "Đây là chế độ quản lý mà tôi
 
 ### Câu "quốc gia chủ tiệm" thường bị trích như lời chế nhạo nước Anh, nhưng Smith nói điều ngược lại
 
-Cụm "a nation of shopkeepers" thường được nhớ như lời Napoléon chế giễu người Anh, và khi gắn với Smith thì hay bị hiểu là Smith chê nước Anh hám lợi. Đọc đúng thì Smith nói rằng một quốc gia chủ tiệm thật sự, biết tính toán, **sẽ không bao giờ** dựng đế chế để có khách hàng, vì chủ tiệm nào cũng biết không ai bỏ tiền mua điền trang cho khách chỉ để khách mua hàng ở tiệm mình. Dự án đế chế chỉ hợp với một quốc gia mà **chính phủ bị chủ tiệm chi phối**: nhóm nhà buôn được hưởng lãi độc quyền, còn người đóng thuế trả tiền mua "điền trang" và chi phí giữ nó. Câu này không phải lời chê thương mại mà là lời chê sự thông đồng giữa thương nhân và nhà nước. Đây là một trong những phát biểu rõ nhất của Smith về điều kinh tế học ngày nay gọi là tìm kiếm đặc lợi: chính sách có lợi cho một nhóm nhỏ biết tổ chức, chi phí rải mỏng lên đa số không biết mình đang trả. Việc bản dịch tiếng Việt lược đúng đoạn này làm người đọc mất mắt xích chính trị của cả chương: tại sao một chính sách thiệt cho quốc gia lại tồn tại.
+Cụm "a nation of shopkeepers" thường được nhớ như lời Napoléon chế giễu người Anh, và khi gắn với Smith thì hay bị hiểu là Smith chê nước Anh hám lợi. Đọc đúng thì Smith nói rằng một quốc gia chủ tiệm thật sự, biết tính toán, **sẽ không bao giờ** dựng đế chế để có khách hàng, vì chủ tiệm nào cũng biết không ai bỏ tiền mua điền trang cho khách chỉ để khách mua hàng ở tiệm mình.
+
+Dự án đế chế chỉ hợp với một quốc gia mà **chính phủ bị chủ tiệm chi phối**: nhóm nhà buôn được hưởng lãi độc quyền, còn người đóng thuế trả tiền mua "điền trang" và chi phí giữ nó. Câu này không phải lời chê thương mại mà là lời chê sự thông đồng giữa thương nhân và nhà nước.
+
+Đây là một trong những phát biểu rõ nhất của Smith về điều kinh tế học ngày nay gọi là tìm kiếm đặc lợi: chính sách có lợi cho một nhóm nhỏ biết tổ chức, chi phí rải mỏng lên đa số không biết mình đang trả. Việc bản dịch tiếng Việt lược đúng đoạn này làm người đọc mất mắt xích chính trị của cả chương: tại sao một chính sách thiệt cho quốc gia lại tồn tại.
 
 ### Smith đúng về nước Anh và châu Mỹ, và lịch sử sau 1783 là thí nghiệm kiểm chứng
 
@@ -1236,13 +1284,17 @@ Smith lại tỏ ra quá bi quan ở chỗ cho rằng không nước nào tự n
 
 ### Phần II là một lý thuyết thể chế, nhưng Smith tránh mặt tối của chính "đất rẻ"
 
-Phần II nói rằng đất rẻ làm lương cao, người làm thuê nhanh chóng thành chủ đất. Đúng với Bắc Mỹ phía bắc. Nhưng cùng tỷ lệ đất/lao động ấy cũng giải thích vì sao ở thuộc địa đường và đồn điền thuốc lá, chủ đất dùng **nô lệ**: khi người lao động tự do có thể bỏ đi tự canh tác, cách duy nhất để có lao động rẻ cho đồn điền lớn là cưỡng bức. Smith nhắc đến nô lệ như một yếu tố quản lý (người Pháp đối xử tốt hơn nên năng suất cao hơn) mà không rút ra kết luận cấu trúc này. Thậm chí lập luận của ông rằng chính quyền chuyên chế bảo vệ nô lệ tốt hơn chính quyền tự do của chủ nô là một quan sát sắc sảo và khó chịu: tự do chính trị của người định cư không tự động lan sang người bị họ sở hữu.
+Phần II nói rằng đất rẻ làm lương cao, người làm thuê nhanh chóng thành chủ đất. Đúng với Bắc Mỹ phía bắc. Nhưng cùng tỷ lệ đất/lao động ấy cũng giải thích vì sao ở thuộc địa đường và đồn điền thuốc lá, chủ đất dùng **nô lệ**: khi người lao động tự do có thể bỏ đi tự canh tác, cách duy nhất để có lao động rẻ cho đồn điền lớn là cưỡng bức. Smith nhắc đến nô lệ như một yếu tố quản lý (người Pháp đối xử tốt hơn nên năng suất cao hơn) mà không rút ra kết luận cấu trúc này.
+
+Thậm chí lập luận của ông rằng chính quyền chuyên chế bảo vệ nô lệ tốt hơn chính quyền tự do của chủ nô là một quan sát sắc sảo và khó chịu: tự do chính trị của người định cư không tự động lan sang người bị họ sở hữu.
 
 Một giả định ngầm khác là "đất trống". Smith biết thổ dân bị chiếm đất (ông gọi đó là "bất công"), nhưng phân tích kinh tế của Phần II coi đất là dồi dào như thể không ai sở hữu. Đất rẻ ở châu Mỹ một phần là kết quả của việc dân bản xứ bị giết hoặc đẩy đi. Đây không phải lỗi logic mà là một chi phí bị đặt ra ngoài sổ sách, và Smith, đáng ghi nhận, đã ghi nó vào phần phán xét đạo đức ở cuối Phần II và ở câu về "những bất hạnh khủng khiếp" của thổ dân Đông Ấn và Tây Ấn, câu mà bản dịch đã dịch sai đối tượng.
 
 ### Lập luận về thứ bậc dùng vốn là chỗ yếu nhất của chương
 
-Lập luận rằng độc quyền làm thiệt nước Anh dựa nặng vào luận điểm của Quyển II, Chương V: vốn quay vòng nhanh trong thương mại gần nuôi nhiều lao động trong nước hơn vốn quay vòng chậm trong thương mại xa. Kinh tế học hiện đại không giữ luận điểm này. Tiêu chí đúng là tỷ suất lợi nhuận đã điều chỉnh rủi ro, không phải số lao động nuôi được mỗi năm. Một ngành quay vòng chậm nhưng lợi nhuận cao có thể tạo ra nhiều của cải hơn. Smith tự nhận ra điều này một phần (nhà buôn London lãi hơn nhưng "không lợi hơn cho nước Anh"), nhưng vẫn khẳng định lợi ích quốc gia khác lợi ích nhà buôn chỉ vì vòng quay. Phần này cũng mang dấu vết của tư duy coi "nuôi lao động trong nước" là mục tiêu, gần với chính lập luận trọng thương mà ông đang phê phán.
+Lập luận rằng độc quyền làm thiệt nước Anh dựa nặng vào luận điểm của Quyển II, Chương V: vốn quay vòng nhanh trong thương mại gần nuôi nhiều lao động trong nước hơn vốn quay vòng chậm trong thương mại xa. Kinh tế học hiện đại không giữ luận điểm này. Tiêu chí đúng là tỷ suất lợi nhuận đã điều chỉnh rủi ro, không phải số lao động nuôi được mỗi năm. Một ngành quay vòng chậm nhưng lợi nhuận cao có thể tạo ra nhiều của cải hơn.
+
+Smith tự nhận ra điều này một phần (nhà buôn London lãi hơn nhưng "không lợi hơn cho nước Anh"), nhưng vẫn khẳng định lợi ích quốc gia khác lợi ích nhà buôn chỉ vì vòng quay. Phần này cũng mang dấu vết của tư duy coi "nuôi lao động trong nước" là mục tiêu, gần với chính lập luận trọng thương mà ông đang phê phán.
 
 May mắn là kết luận của chương không phụ thuộc vào luận điểm yếu đó. Phần mạnh, cơ chế lợi nhuận độc quyền kéo vốn và nâng giá thành của mọi ngành, sự khác biệt giữa lợi thế tương đối và tuyệt đối, chi phí quân sự, và rủi ro tập trung, đều đứng vững bằng lý thuyết giá cả hiện đại.
 
@@ -1256,10 +1308,227 @@ Smith không có lý thuyết danh mục đầu tư, nhưng ông thấy rằng m
 
 ### Với Việt Nam: ba tầng của "độc quyền thương mại thuộc địa"
 
-**Tầng lịch sử: Đông Dương thuộc Pháp là một ví dụ sách giáo khoa của hệ thống Smith phê phán.** Trong chương này Smith nhắc tới Việt Nam đúng một lần: tàu Bắc Kỳ và Nam Kỳ cập bến Batavia (ở Quyển I, Chương XI ông còn dẫn giá đường ở Nam Kỳ theo ghi chép của Pierre Poivre), khi vùng đất này còn là bên buôn bán độc lập với người châu Âu (Công ty Đông Ấn Hà Lan từng có thương điếm ở Đàng Ngoài thế kỷ 17). Một thế kỷ sau, Việt Nam trở thành đối tượng của chính hệ thống ông mô tả. Từ cuối thập niên 1880, và nhất là với luật thuế quan năm 1892, Đông Dương bị gộp vào biểu thuế của Pháp: hàng Pháp vào gần như miễn thuế, hàng các nước khác chịu thuế cao. Đây là chế độ độc quyền thương mại thuộc địa loại thứ nhất của Smith, và hệ quả đúng như ông dự báo: người tiêu dùng thuộc địa mua hàng Pháp đắt hơn hàng Anh, Nhật hay Trung Hoa cùng loại. Ngân hàng Đông Dương (lập năm 1875) có đặc quyền phát hành đồng bạc, vừa là ngân hàng thương mại vừa là cơ quan phát hành, một cấu trúc "vừa buôn vừa cai trị" về tiền tệ. Dưới thời Toàn quyền Paul Doumer (1897–1902), ngân sách thuộc địa được nuôi bằng các độc quyền nhà nước về thuốc phiện, muối và rượu, trong đó độc quyền rượu buộc làng xã tiêu thụ rượu của hãng được nhượng quyền. Đó chính là thứ thuế nặng và thủ đoạn mua rẻ bán đắt mà Smith gán cho thuộc địa Tây Ban Nha và cho các công ty độc quyền. Còn các đồn điền cao su dùng phu mộ từ Bắc vào Nam là phiên bản muộn của "đất dồi dào thì cần lao động cưỡng bức" mà Phần II bỏ ngỏ. Đọc lịch sử kinh tế thời Pháp thuộc bằng khung của Smith cho một bài học quan trọng: cái hại lớn nhất không phải chỉ là của cải bị chuyển về mẫu quốc, mà là cơ cấu kinh tế bị nắn theo nhu cầu độc quyền (xuất gạo, cao su, than; nhập hàng chế tạo Pháp), đúng như ông mô tả việc Anh cấm thuộc địa tinh luyện đường và dựng lò thép.
+**Tầng lịch sử: Đông Dương thuộc Pháp là một ví dụ sách giáo khoa của hệ thống Smith phê phán.** Trong chương này Smith nhắc tới Việt Nam đúng một lần: tàu Bắc Kỳ và Nam Kỳ cập bến Batavia (ở Quyển I, Chương XI ông còn dẫn giá đường ở Nam Kỳ theo ghi chép của Pierre Poivre), khi vùng đất này còn là bên buôn bán độc lập với người châu Âu (Công ty Đông Ấn Hà Lan từng có thương điếm ở Đàng Ngoài thế kỷ 17). Một thế kỷ sau, Việt Nam trở thành đối tượng của chính hệ thống ông mô tả. Từ cuối thập niên 1880, và nhất là với luật thuế quan năm 1892, Đông Dương bị gộp vào biểu thuế của Pháp: hàng Pháp vào gần như miễn thuế, hàng các nước khác chịu thuế cao.
 
-**Tầng thể chế: doanh nghiệp được nhà nước trao độc quyền là "công ty độc quyền loại hai" của Smith.** Smith phân biệt độc quyền loại trừ người nước ngoài và công ty độc quyền loại trừ chính dân mình, và nói loại thứ hai phi lý hơn, vì dân phải mua đắt và gánh thêm cả lãng phí của một tổ chức lớn không bị cạnh tranh. Ở Việt Nam, nhiều lĩnh vực có cấu trúc này dưới hình thức khác nhau: mua bán và truyền tải điện tập trung qua một tập đoàn nhà nước, nhập khẩu xăng dầu chỉ dành cho một số "thương nhân đầu mối" được cấp phép, và trong một thời gian dài, quyền xuất khẩu gạo bị giới hạn cho doanh nghiệp đáp ứng điều kiện về kho và nhà máy (Nghị định 109/2010, sau được nới năm 2018). Khung của Smith không nói mọi độc quyền đều sai: ông thừa nhận ở nước nghèo, nơi vốn tư nhân chưa đủ dám mạo hiểm, công ty độc quyền có thể kéo vốn vào một ngành mà không ai dám đi (như Thuỵ Điển, Đan Mạch với Đông Ấn). Nhưng ông cũng chỉ ra rằng khi nền kinh tế đã giàu lên và vốn tư nhân dư thừa, chính công ty độc quyền lại đẩy vốn ra (như Hà Lan). Câu hỏi cho Việt Nam vì thế là câu hỏi về giai đoạn: những đặc quyền hợp lý khi tư nhân còn yếu có còn hợp lý khi tư nhân đã đủ vốn và năng lực không. Chẩn đoán "vừa buôn vừa cai trị" cũng áp dụng trực tiếp: khi một doanh nghiệp vừa kinh doanh vừa tham gia định ra luật chơi, hay khi cơ quan quản lý ngành đồng thời là chủ sở hữu doanh nghiệp trong ngành, thì thói của nhà buôn thắng lợi ích của nhà cầm quyền. Việc tách chức năng chủ sở hữu vốn nhà nước khỏi các bộ quản lý ngành là đi đúng hướng Smith gợi ý (Uỷ ban Quản lý vốn nhà nước tại doanh nghiệp, lập năm 2018 cho mục đích này, đã giải thể năm 2025 và chức năng đại diện chủ sở hữu chuyển về Bộ Tài chính, vẫn là một cơ quan không quản lý ngành), và như ông nói, vấn đề nằm ở chế độ chứ không ở phẩm chất của người thừa hành.
+Đây là chế độ độc quyền thương mại thuộc địa loại thứ nhất của Smith, và hệ quả đúng như ông dự báo: người tiêu dùng thuộc địa mua hàng Pháp đắt hơn hàng Anh, Nhật hay Trung Hoa cùng loại. Ngân hàng Đông Dương (lập năm 1875) có đặc quyền phát hành đồng bạc, vừa là ngân hàng thương mại vừa là cơ quan phát hành, một cấu trúc "vừa buôn vừa cai trị" về tiền tệ.
 
-**Tầng chuỗi cung ứng: quan hệ "mẫu quốc–thuộc địa" kiểu mới không do luật áp đặt mà do cấu trúc sở hữu.** Smith mô tả nước Anh cho thuộc địa tự do làm nguyên liệu thô và sơ chế, nhưng giữ cho mình khâu tinh chế (đường tinh, thép), khâu thương mại (hàng liệt kê phải qua Anh) và khâu vận tải. Phần lớn xuất khẩu của Việt Nam hiện nay do doanh nghiệp có vốn nước ngoài thực hiện, nhập linh kiện và nguyên liệu từ công ty mẹ hay mạng lưới cung ứng ở Hàn Quốc, Trung Quốc, Nhật Bản, lắp ráp tại Việt Nam, rồi xuất đi theo kênh phân phối và thương hiệu của công ty mẹ. Về hình thức, đây giống "hàng liệt kê": khâu có giá trị cao (thiết kế, linh kiện lõi, thương hiệu) ở mẫu quốc, khâu lắp ráp ở nước tiếp nhận. Nhưng chính Smith cho hai cảnh báo giúp tránh kết luận vội. Thứ nhất, ông thừa nhận các lệnh cấm chế biến tinh **chưa gây hại thật** cho thuộc địa Mỹ, vì với đất rẻ và lương cao, thuộc địa tự thấy nhập hàng tinh rẻ hơn tự làm. Tương tự, việc Việt Nam ở khâu lắp ráp phần lớn phản ánh lợi thế hiện tại (lao động dồi dào, chi phí thấp), không phải bị luật cấm leo lên. Thứ hai, ông nói khi thuộc địa phát triển hơn, những ràng buộc ấy sẽ thành áp bức thật. Trong chuỗi cung ứng ngày nay, ràng buộc đó không nằm ở luật mà ở **giá chuyển nhượng nội bộ** (công ty con mua đầu vào của công ty mẹ và bán sản phẩm cho công ty mẹ với giá do tập đoàn định, đẩy lợi nhuận ra nơi thuế thấp), ở quy tắc xuất xứ trong các FTA, và ở việc doanh nghiệp trong nước khó chen vào chuỗi cung ứng của tập đoàn. Lời khuyên của Smith ở đây không phải đóng cửa với FDI, vì thương mại luôn tốt, mà là giảm mọi **đặc quyền** biến thương mại thành độc quyền: ưu đãi thuế riêng cho một vài dự án lớn, cơ chế đặc thù cho từng nhà đầu tư, và giá chuyển nhượng không được kiểm soát.
+Dưới thời Toàn quyền Paul Doumer (1897–1902), ngân sách thuộc địa được nuôi bằng các độc quyền nhà nước về thuốc phiện, muối và rượu, trong đó độc quyền rượu buộc làng xã tiêu thụ rượu của hãng được nhượng quyền. Đó chính là thứ thuế nặng và thủ đoạn mua rẻ bán đắt mà Smith gán cho thuộc địa Tây Ban Nha và cho các công ty độc quyền. Còn các đồn điền cao su dùng phu mộ từ Bắc vào Nam là phiên bản muộn của "đất dồi dào thì cần lao động cưỡng bức" mà Phần II bỏ ngỏ.
+
+Đọc lịch sử kinh tế thời Pháp thuộc bằng khung của Smith cho một bài học quan trọng: cái hại lớn nhất không phải chỉ là của cải bị chuyển về mẫu quốc, mà là cơ cấu kinh tế bị nắn theo nhu cầu độc quyền (xuất gạo, cao su, than; nhập hàng chế tạo Pháp), đúng như ông mô tả việc Anh cấm thuộc địa tinh luyện đường và dựng lò thép.
+
+**Tầng thể chế: doanh nghiệp được nhà nước trao độc quyền là "công ty độc quyền loại hai" của Smith.** Smith phân biệt độc quyền loại trừ người nước ngoài và công ty độc quyền loại trừ chính dân mình, và nói loại thứ hai phi lý hơn, vì dân phải mua đắt và gánh thêm cả lãng phí của một tổ chức lớn không bị cạnh tranh.
+
+Ở Việt Nam, nhiều lĩnh vực có cấu trúc này dưới hình thức khác nhau: mua bán và truyền tải điện tập trung qua một tập đoàn nhà nước, nhập khẩu xăng dầu chỉ dành cho một số "thương nhân đầu mối" được cấp phép, và trong một thời gian dài, quyền xuất khẩu gạo bị giới hạn cho doanh nghiệp đáp ứng điều kiện về kho và nhà máy (Nghị định 109/2010, sau được nới năm 2018).
+
+Khung của Smith không nói mọi độc quyền đều sai: ông thừa nhận ở nước nghèo, nơi vốn tư nhân chưa đủ dám mạo hiểm, công ty độc quyền có thể kéo vốn vào một ngành mà không ai dám đi (như Thuỵ Điển, Đan Mạch với Đông Ấn). Nhưng ông cũng chỉ ra rằng khi nền kinh tế đã giàu lên và vốn tư nhân dư thừa, chính công ty độc quyền lại đẩy vốn ra (như Hà Lan).
+
+Câu hỏi cho Việt Nam vì thế là câu hỏi về giai đoạn: những đặc quyền hợp lý khi tư nhân còn yếu có còn hợp lý khi tư nhân đã đủ vốn và năng lực không.
+
+Chẩn đoán "vừa buôn vừa cai trị" cũng áp dụng trực tiếp: khi một doanh nghiệp vừa kinh doanh vừa tham gia định ra luật chơi, hay khi cơ quan quản lý ngành đồng thời là chủ sở hữu doanh nghiệp trong ngành, thì thói của nhà buôn thắng lợi ích của nhà cầm quyền. Việc tách chức năng chủ sở hữu vốn nhà nước khỏi các bộ quản lý ngành là đi đúng hướng Smith gợi ý (Uỷ ban Quản lý vốn nhà nước tại doanh nghiệp, lập năm 2018 cho mục đích này, đã giải thể năm 2025 và chức năng đại diện chủ sở hữu chuyển về Bộ Tài chính, vẫn là một cơ quan không quản lý ngành), và như ông nói, vấn đề nằm ở chế độ chứ không ở phẩm chất của người thừa hành.
+
+**Tầng chuỗi cung ứng: quan hệ "mẫu quốc–thuộc địa" kiểu mới không do luật áp đặt mà do cấu trúc sở hữu.** Smith mô tả nước Anh cho thuộc địa tự do làm nguyên liệu thô và sơ chế, nhưng giữ cho mình khâu tinh chế (đường tinh, thép), khâu thương mại (hàng liệt kê phải qua Anh) và khâu vận tải.
+
+Phần lớn xuất khẩu của Việt Nam hiện nay do doanh nghiệp có vốn nước ngoài thực hiện, nhập linh kiện và nguyên liệu từ công ty mẹ hay mạng lưới cung ứng ở Hàn Quốc, Trung Quốc, Nhật Bản, lắp ráp tại Việt Nam, rồi xuất đi theo kênh phân phối và thương hiệu của công ty mẹ. Về hình thức, đây giống "hàng liệt kê": khâu có giá trị cao (thiết kế, linh kiện lõi, thương hiệu) ở mẫu quốc, khâu lắp ráp ở nước tiếp nhận.
+
+Nhưng chính Smith cho hai cảnh báo giúp tránh kết luận vội. Thứ nhất, ông thừa nhận các lệnh cấm chế biến tinh **chưa gây hại thật** cho thuộc địa Mỹ, vì với đất rẻ và lương cao, thuộc địa tự thấy nhập hàng tinh rẻ hơn tự làm. Tương tự, việc Việt Nam ở khâu lắp ráp phần lớn phản ánh lợi thế hiện tại (lao động dồi dào, chi phí thấp), không phải bị luật cấm leo lên.
+
+Thứ hai, ông nói khi thuộc địa phát triển hơn, những ràng buộc ấy sẽ thành áp bức thật. Trong chuỗi cung ứng ngày nay, ràng buộc đó không nằm ở luật mà ở **giá chuyển nhượng nội bộ** (công ty con mua đầu vào của công ty mẹ và bán sản phẩm cho công ty mẹ với giá do tập đoàn định, đẩy lợi nhuận ra nơi thuế thấp), ở quy tắc xuất xứ trong các FTA, và ở việc doanh nghiệp trong nước khó chen vào chuỗi cung ứng của tập đoàn.
+
+Lời khuyên của Smith ở đây không phải đóng cửa với FDI, vì thương mại luôn tốt, mà là giảm mọi **đặc quyền** biến thương mại thành độc quyền: ưu đãi thuế riêng cho một vài dự án lớn, cơ chế đặc thù cho từng nhà đầu tư, và giá chuyển nhượng không được kiểm soát.
 
 Cuối cùng, ẩn dụ "cơ thể có bộ phận quá cỡ" là cảnh báo trực tiếp cho cơ cấu xuất khẩu Việt Nam: một tỷ trọng lớn kim ngạch dồn vào một vài nhóm hàng điện tử của một số ít tập đoàn nước ngoài, và một thị trường (Mỹ) chiếm gần ba mươi phần trăm xuất khẩu. Đợt thuế quan đối ứng của Mỹ năm 2025 là phiên bản hiện đại của cuộc tẩy chay năm 1774: một cú sốc ở một kênh lớn. Bài học Smith rút ra từ năm 1774 vẫn đứng vững: không phải tìm cách giữ kênh lớn bằng mọi giá, mà mở rộng nhiều kênh nhỏ (đa dạng thị trường qua các FTA, tăng giá trị nội địa, phát triển doanh nghiệp trong nước cung ứng cho nhiều khách hàng) để không một cú sốc nào làm cả cơ thể ngã bệnh.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển IV, Chương VII trên một trang: sáu nhánh lớn đi theo các mục 1–27 của phần Nội dung chi tiết (động cơ lập thuộc địa và cơn sốt vàng, hai nguyên nhân thịnh vượng và so sánh các đế chế, ưu thế thể chế của thuộc địa Anh và phán quyết về chính sách châu Âu, độc quyền với lợi thế tương đối và thiệt hại tuyệt đối, mất cân đối và chi phí đế chế cùng ba phương án, Đông Ấn và công ty độc quyền), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển IV, Chương VII: thương mại với thuộc địa có lợi lớn cho châu Âu, nhưng độc quyền thương mại thuộc địa có hại cho tất cả, kể cả nước giữ độc quyền`"]
+  n1["`Mục 1–4 — Thuộc địa châu Mỹ sinh ra từ cơn sốt vàng, không từ nhu cầu chính đáng như Hy Lạp, La Mã`"]
+  n0 --- n1
+  n2["`Hy Lạp: thành bang nhỏ, dân quá đông, thuộc địa là nhà nước độc lập (apoikia: rời nhà đi xa)`"]
+  n1 --- n2
+  n3["`La Mã: đất dồn về số ít, luật hạn điền 500 jugera bị lờ đi, dân nghèo được đưa đi lập đồn trú (colonia: đồn điền)`"]
+  n1 --- n3
+  n5["`Columbus đi về phía tây tìm Đông Ấn (1492), chỉ thấy rừng, đất hoang, con cori, nên vùng mới thành Tây Ấn`"]
+  n1 --- n5
+  n6["`Cớ là truyền đạo, thực chất là tìm vàng: thuế vua 1/2 số vàng, giảm dần 1/3, 1/5, 1/10, 1/20`"]
+  n1 --- n6
+  n7["`Khai mỏ vàng bạc là xổ số thua: giải ít, người chơi nhiều, giá một vé là cả gia sản`"]
+  n1 --- n7
+  n8["`Nhà lập pháp thận trọng muốn tăng vốn quốc gia sẽ ít muốn nhất khuyến khích dự án mỏ`"]
+  n7 --- n8
+  n9["`Mexico, Peru cho đúng kim loại cần tìm, còn thuộc địa Anh, Pháp, Hà Lan, Đan Mạch không có mỏ nào đáng khai`"]
+  n1 --- n9
+  n10["`Mục 5–7 — Thuộc địa mới giàu nhanh nhờ đất tốt dồi dào và tự do lo liệu việc của mình`"]
+  n0 --- n10
+  n11["`Người định cư mang theo kiến thức nông nghiệp, kỹ nghệ và thói quen tuân thủ luật pháp`"]
+  n10 --- n11
+  n12["`Đất nhiều hơn sức canh tác, không địa tô, thuế ít: mọi sản phẩm làm thêm đều là của họ`"]
+  n10 --- n12
+  n13["`Đất hiếm khi làm ra 1/10 khả năng, thiếu người làm nên tiền công rất cao`"]
+  n10 --- n13
+  n14["`Người làm thuê sớm mua đất tự canh tác, lại thuê người mới, người mới lại ra đi`"]
+  n13 --- n14
+  n15["`Tiền công cao khuyến khích hôn nhân, con cái được nuôi tốt, dân số tăng nhanh`"]
+  n13 --- n15
+  n16["`#quot;Trong số tiền công đó có cả hầu như toàn bộ giá của đất#quot;`"]
+  n13 --- n16
+  n17["`Thuộc địa Hy Lạp có cả hai nên trong một thế kỷ ngang hoặc vượt thành phố mẹ, thuộc địa La Mã thiếu cả hai`"]
+  n10 --- n17
+  n18["`Thuộc địa châu Mỹ phụ thuộc trên giấy, nhưng ở xa nên tự do trên thực tế`"]
+  n10 --- n18
+  n19["`Tây Ban Nha vẫn tiến nhanh: Lima khoảng 50.000 dân, Mexico khoảng 100.000, gấp hơn 5 lần thời Montezuma`"]
+  n10 --- n19
+  n20["`Brazil bị bỏ mặc nên lớn mạnh, người định cư tự cầm vũ khí đuổi Hà Lan`"]
+  n10 --- n20
+  n21["`Công ty độc quyền làm thuộc địa chậm: đảo Đan Mạch, Canada, St. Domingo thịnh vượng sau khi công ty giải tán`"]
+  n10 --- n21
+  n22["`#quot;Không có gì tồi tệ hơn là sự cai quản của một công ty các con buôn#quot;`"]
+  n21 --- n22
+  n23["`Curaçao, St. Eustatius đất cằn vẫn thịnh vượng nhờ là cảng tự do`"]
+  n21 --- n23
+  n24["`Mục 8–13 — Thuộc địa Anh ở Bắc Mỹ tiến nhanh nhất nhờ thể chế, không nhờ đất tốt hơn`"]
+  n0 --- n24
+  n25["`Ưu thế 1–2: hạn chế gom đất hoang, đất chia đều ở Pennsylvania, free socage dễ chuyển nhượng, khác majorazzo`"]
+  n24 --- n25
+  n26["`Ưu thế 3: bộ máy dân sự Bắc Mỹ không quá 64.700 bảng/năm cho 3 triệu dân`"]
+  n24 --- n26
+  n27["`Ưu thế 4: tự do buôn từ mọi cảng mẫu quốc, khác công ty độc quyền (Hà Lan, Đan Mạch) và một cảng duy nhất (Tây Ban Nha)`"]
+  n24 --- n27
+  n28["`Quito: 1 pound sắt 4 shilling 6 penny, 1 pound thép 6 shilling 9 penny`"]
+  n27 --- n28
+  n29["`Hàng liệt kê (thuốc lá, bông, chàm) chỉ được chở về Anh, ngũ cốc, gỗ, cá, rum bán đi đâu cũng được`"]
+  n27 --- n29
+  n30["`Chặn chế biến tinh: thuế đường bánh tinh luyện gấp khoảng 13 lần đường thô, cấm lò thép và máy cán xẻ sắt`"]
+  n24 --- n30
+  n31["`#quot;Vi phạm trắng trợn quyền thiêng liêng nhất của con người#quot;, nay chưa hại thật, chỉ là dấu ấn nô lệ`"]
+  n30 --- n31
+  n32["`Hội đồng dân cử nắm quyền đặt thuế, Connecticut và Rhode Island bầu cả thống đốc`"]
+  n24 --- n32
+  n33["`Thuộc địa đường Pháp tiến nhanh hơn: không bị cấm tinh luyện, chính quyền chuyên chế quản lý nô lệ tốt hơn`"]
+  n24 --- n33
+  n34["`Ở nước tự do, chủ nô là cử tri hội đồng nên quan toà không dám can thiệp bảo vệ nô lệ`"]
+  n33 --- n34
+  n35["`#quot;Sự điên rồ và bất công#quot;: điên rồ tìm mỏ vàng, bất công chiếm đất của dân tộc đã đón tiếp tử tế`"]
+  n24 --- n35
+  n36["`Khi thuộc địa đã giàu, luật đầu tiên mẫu quốc ban là độc quyền: kìm chứ không thúc`"]
+  n35 --- n36
+  n37["`Châu Âu góp đúng một điều, #quot;Magna virûm Mater!#quot;: đào tạo những người sáng lập dám nghĩ dám làm`"]
+  n35 --- n37
+  n38["`Mục 14–19 — Độc quyền cho Anh lợi thế tương đối nhưng gây thiệt hại tuyệt đối`"]
+  n0 --- n38
+  n39["`Lợi ích chung: hàng mới (đường, sô-cô-la, thuốc lá) và thêm công nghiệp, lan tới cả Hungary, Ba Lan`"]
+  n38 --- n39
+  n40["`Độc quyền làm hàng thuộc địa đắt ở nước khác, hàng nước khác đắt ở thuộc địa, thuộc địa thiệt nhất`"]
+  n38 --- n40
+  n41["`Bị loại khỏi một thị trường khác xa bị giam trong một thị trường khi mọi thị trường khác đóng`"]
+  n40 --- n41
+  n42["`Thuộc địa Mỹ không góp quân, không góp tiền: là nguồn chi chứ không phải nguồn thu, lợi ích riêng chỉ còn độc quyền`"]
+  n38 --- n42
+  n43["`Thuốc lá Maryland, Virginia: tự do thì thuốc lá rẻ hơn ở mọi nơi, kể cả ở Anh`"]
+  n38 --- n43
+  n44["`#quot;Nước Anh sẽ có thể giành được lợi thế tuyệt đối, nhưng tất nhiên sẽ mất lợi thế tương đối#quot;`"]
+  n43 --- n44
+  n45["`Loại vốn nước ngoài → lợi nhuận thuộc địa cao bất thường → vốn kéo khỏi ngành khác → lợi nhuận mọi ngành cao hơn`"]
+  n38 --- n45
+  n46["`Lợi nhuận cao gây bất lợi tuyệt đối (bán ít, mua ít) và tương đối (nước khác bán rẻ hơn ở thị trường thứ ba)`"]
+  n45 --- n46
+  n48["`Vốn 1.000 bảng quay về 3 lần mỗi năm nuôi lượng lao động mà 3.000 bảng nuôi được`"]
+  n38 --- n48
+  n49["`Độc quyền đẩy vốn từ gần ra xa (nợ thuộc địa về sau 3, có khi 4–5 năm), từ trực tiếp sang vòng vo, từ tiêu dùng sang vận tải`"]
+  n48 --- n49
+  n50["`Hơn 96.000 thùng thuốc lá về Anh, Anh tiêu không quá 14.000, hơn 82.000 thùng phải tái xuất`"]
+  n49 --- n50
+  n51["`Mục 20–24 — Độc quyền làm kinh tế mất cân đối, giảm ba nguồn thu nhập và tốn kém đế chế`"]
+  n0 --- n51
+  n52["`#quot;Nước Anh giống một cơ thể không lành mạnh trong đó một vài bộ phận lớn quá cỡ#quot;`"]
+  n51 --- n52
+  n53["`Lối thoát: nới dần độc quyền, vì mở toàn bộ ngay lập tức gây thiệt hại lâu dài cho người đã đầu tư`"]
+  n52 --- n53
+  n54["`Tẩy chay từ 1/12/1774 không gây khủng hoảng nhờ 5 sự may, chỉ cầu Bắc Âu tăng đều là lâu dài`"]
+  n52 --- n54
+  n55["`Thương mại thuộc địa có lợi #quot;không phải là nhờ độc quyền, mà bất chấp độc quyền#quot;`"]
+  n51 --- n55
+  n56["`Tây Ban Nha, Bồ Đào Nha có độc quyền vẫn mất công nghiệp, Anh thắng nhờ tự do xuất khẩu và tư pháp công bằng`"]
+  n55 --- n56
+  n57["`Độc quyền kìm cải tạo đất và địa tô, nâng lãi suất làm giá đất giảm, kìm tổng lợi nhuận và tiền công`"]
+  n51 --- n57
+  n58["`Chi phí giữ độc quyền: 20 trung đoàn bộ binh, hạm đội chống buôn lậu, cuộc chiến vừa qua hơn 90 triệu bảng`"]
+  n51 --- n58
+  n59["`Quốc gia chủ tiệm: đế chế để nuôi khách hàng chỉ hợp với quốc gia mà chính phủ bị chủ tiệm chi phối`"]
+  n58 --- n59
+  n60["`Phương án 1: tự nguyện từ bỏ, ký hiệp ước thương mại tự do, có lợi nhất nhưng không nước nào chịu làm`"]
+  n51 --- n60
+  n61["`Phương án 2: bắt thuộc địa đóng góp, người đứng đầu thuộc địa mất địa vị nên #quot;sẵn sàng tuốt gươm#quot;`"]
+  n60 --- n61
+  n62["`Phương án 3: hợp nhất, đại diện tương xứng phần thuế, hơn một thế kỷ nữa trung tâm đế chế dời sang châu Mỹ`"]
+  n60 --- n62
+  n63["`Mục 25–27 — Đông Ấn và công ty độc quyền: bất lợi cho nước lập ra, tàn phá xứ bị cai trị`"]
+  n0 --- n63
+  n64["`Tìm ra châu Mỹ và đường qua Mũi Hảo Vọng là 2 sự kiện vĩ đại nhất lịch sử loài người`"]
+  n63 --- n64
+  n65["`Với thổ dân Đông Ấn và Tây Ấn, mọi lợi ích chìm trong những bất hạnh khủng khiếp`"]
+  n64 --- n65
+  n66["`Hai sự kiện đưa hệ thống trọng thương lên đỉnh huy hoàng, nước có thuộc địa hưởng hào nhoáng, nước khác hưởng lời thật`"]
+  n64 --- n66
+  n67["`Nhà buôn Hamburg lãi ít hơn nhà buôn London nhưng vốn quay nhanh nên nuôi nhiều lao động Đức hơn`"]
+  n66 --- n67
+  n68["`Độc quyền loại 1 loại trừ người nước ngoài, loại 2 (công ty độc quyền) loại trừ chính dân mình nên phi lý hơn`"]
+  n63 --- n68
+  n69["`Nước nghèo (Thuỵ Điển, Đan Mạch) công ty kéo vốn vào, nước giàu (Hà Lan) công ty đẩy vốn ra`"]
+  n68 --- n69
+  n71["`Hà Lan đốt hương liệu vượt mức bán được để giữ giá, công ty Anh ở Bengal có cùng xu hướng`"]
+  n63 --- n71
+  n72["`Vừa buôn vừa cai trị: thích lãi nhỏ nhất thời của kẻ độc quyền hơn nguồn thu lớn lâu dài, lỗi ở chế độ chứ không ở người`"]
+  n71 --- n72
+  n73["`Thông điệp xuyên suốt`"]
+  n0 --- n73
+  n74["`Thương mại thuộc địa luôn tốt, độc quyền thương mại thuộc địa luôn xấu`"]
+  n73 --- n74
+  n75["`Độc quyền nâng lợi ích một tầng lớp ít người, làm tổn hại mọi tầng lớp khác trong và ngoài nước`"]
+  n73 --- n75
+  n76["`Thắng đối thủ không phải là giàu hơn: điều cần là lợi thế tuyệt đối, không phải lợi thế tương đối`"]
+  n73 --- n76
+  n77["`Nới dần độc quyền để vốn trở về tỷ lệ tự nhiên, cân đối và lành mạnh mà chỉ tự do hoàn toàn mới giữ được`"]
+  n73 --- n77
+  class n0 root
+  class n1,n10,n24,n38,n51,n63,n73 branch
+  class n2,n3,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67,n68,n69,n71,n72,n74,n75,n76,n77 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương VII. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 530–586.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Đây là chương dài nhất và là đỉnh điểm của cuộc tấn công vào hệ thống trọng thương ở Quyển IV. Các chương trước đã xét từng biện pháp riêng lẻ: hạn chế nhập khẩu (Chương II–III), hoàn thuế (Chương IV), trợ cấp xuất khẩu (Chương V), hiệp ước ưu đãi (Chương VI, nơi Smith chứng minh rằng ưu đãi riêng cho một nước là trao độc quyền cho thương nhân nước đó).
+
+Chương VII xét biện pháp lớn nhất mà hệ thống ấy từng dựng lên: một đế chế thuộc địa được duy trì để giữ **độc quyền thương mại**. Chương dùng gần như mọi công cụ đã xây dựng trước đó: quy luật tiền công cao ở nước đang tiến lên (Quyển I, Chương VIII), lợi nhuận giảm khi vốn tăng và lợi nhuận cao bất thường kéo vốn từ ngành khác sang (Quyển I, Chương IX–X), và thứ bậc dùng vốn theo tốc độ quay vòng (Quyển II, Chương V: vốn trong nông nghiệp và thương mại trực tiếp gần nhà nuôi nhiều lao động trong nước hơn thương mại vòng vo và vận tải quốc tế). Sau chương này, Chương VIII tổng kết hệ thống trọng thương, Chương IX chuyển sang phái trọng nông.
+
+## Lưu ý
+
+- Bản dịch có nhiều lỗi và **bị lược bỏ đáng kể ở Phần III**.
+- **Bị lược bỏ:** văn bản tiếng Việt không có đoạn nổi tiếng về "quốc gia chủ tiệm" (*nation of shopkeepers*), không có đề xuất đầy đủ của Smith về hợp nhất thuộc địa với đại diện trong nghị viện và về khả năng "trung tâm của đế chế" dời sang châu Mỹ, không có ước tính chi phí của cuộc chiến tranh vừa qua, và chỉ giữ một phần nhỏ phân tích về Công ty Đông Ấn với tư cách vừa là nhà buôn vừa là nhà cầm quyền. Các nội dung này được tóm tắt trong file ở các mục ghi rõ "theo nguyên bản, bản dịch lược".
+- **"Đông Âu" thay cho "Đông Ấn"** (East Indies) lặp lại 16 lần trong Phần III, và có 2 chỗ "Tây Âu" thay cho "Tây Ấn". Lỗi nặng nhất: câu đúng là "đối với **thổ dân** Đông Ấn và Tây Ấn, mọi lợi ích thương mại đã chìm mất trong những bất hạnh khủng khiếp" mà hai sự kiện gây ra, bị dịch thành "đối với người dân ở Tây Âu và Đông Âu", đảo ngược hẳn ai là người chịu khổ.
+- **Ba câu bị dịch ngược nghĩa:**
+  - Smith viết rằng nhà lập pháp thận trọng muốn tăng vốn quốc gia sẽ **ít muốn nhất** khuyến khích các dự án mỏ vàng bạc, bản dịch thành "ít nhất phải lựa chọn để có một sự khuyến khích đặc biệt".
+  - Smith viết rằng tấm gương Tây Ban Nha, Bồ Đào Nha cho thấy độc quyền thương mại thuộc địa **không đủ** để lập ra, thậm chí không đủ để giữ được công nghiệp, bản dịch thành "không những đủ để thiết lập, mà còn duy trì".
+  - Smith viết rằng chính thuộc địa đường **của Anh** có chính quyền tự do giống Bắc Mỹ (vậy mà thuộc địa đường Pháp vẫn tiến nhanh hơn), bản dịch gán chính quyền tự do cho thuộc địa Pháp.
+- Ở đoạn Hy Lạp, người Ionia và người Aeolia là hai nhánh lớn khác của dân Hy Lạp có thuộc địa ở Tiểu Á và các đảo Aegea, không phải "bộ lạc mọi rợ" như bản dịch.
+- Đoạn về thuộc địa Đan Mạch bị vỡ: ý gốc là vua Đan Mạch quá cố giải tán công ty độc quyền và từ đó các đảo này thịnh vượng rất nhanh, bản dịch nối nhầm sang câu về Hà Lan bằng chữ "cho nên".
+- Đoạn về nô lệ: ở nước tự do nơi chủ nô là thành viên hay cử tri của hội đồng thuộc địa, chính **quan toà** mới không dám can thiệp, trừ khi hết sức thận trọng, chứ không phải chủ nô không dám làm điều bạo ngược. Bản dịch còn viết luật bảo vệ nô lệ "chỉ được thi hành triệt để" nơi chính quyền chuộng tự do, ngược với ý Smith là nó được thi hành tốt hơn dưới chính quyền chuyên chế.
+- Anh dùng **hai** cách khuyến khích hàng thuộc địa: đánh thuế cao hơn hàng cùng loại từ nước khác (đường, thuốc lá, sắt) và trả tiền thưởng khi nhập từ thuộc địa (tơ sống, gai, lanh, chàm, đồ hàng hải, gỗ xây dựng). Bản dịch thành ba cách và xếp lẫn.
+- Batavia nằm trên đường chính từ **Ấn Độ** (Indostan) sang Trung Hoa và Nhật Bản, không phải "từ Indonesia".
+- "Enumerated commodities" bị dịch là "hàng cấm xuất tự do". Thực ra đây là hàng **phải liệt kê**, chỉ được chở về Anh, không phải bị cấm xuất. "Drawbacks" (hoàn thuế khi tái xuất) bị dịch là "số tiền thuế được giảm".
+- Một số dòng bị lặp do trích xuất PDF, và chú thích số [14] về chế định *majorazzo* không có trong phần chú thích cuối sách.

@@ -1,11 +1,14 @@
 # Quyển IV, Chương VI — Hiệp ước thương mại (Of Treaties of Commerce)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương VI. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 518–529.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển IV mổ xẻ lần lượt từng "biện pháp" mà hệ thống trọng thương dùng để kéo cán cân thương mại về phía có lợi và hút vàng bạc vào nước: hạn chế nhập khẩu (Chương II, nơi Smith nêu hình ảnh "bàn tay vô hình", và Chương III), hoàn thuế khi tái xuất (Chương IV), trợ cấp xuất khẩu (Chương V). Chương VI xét biện pháp thứ năm: hiệp ước thương mại ưu đãi riêng cho một nước. Nó dựa trên kết luận của Quyển I, Chương V (giá thực tế của hàng hoá là lượng lao động, tiền chỉ là giá danh nghĩa) và Quyển II, Chương V (vốn quay vòng nhanh trong thương mại trực tiếp nuôi nhiều lao động trong nước hơn thương mại vòng vo), và chuẩn bị cho Chương VII, nơi độc quyền thương mại được xét ở quy mô lớn nhất: độc quyền với thuộc địa.
-**Ý chính:** Smith muốn chứng minh hai mệnh đề. Thứ nhất, một hiệp ước dành ưu đãi riêng cho hàng của một nước là trao độc quyền cho thương nhân nước đó, nên **có lợi cho nước được ưu đãi và thiệt cho nước ban ưu đãi**. Hiệp ước Methuen 1703 giữa Anh và Bồ Đào Nha, vốn được ca ngợi là "kiệt tác" vì nó đưa vàng Brazil vào Anh, thực ra thiệt cho Anh: Anh phải giảm một phần ba thuế cho rượu vang Bồ Đào Nha so với rượu Pháp, còn Bồ Đào Nha chỉ cho len Anh vào lại như cũ, không ưu đãi gì hơn len Pháp hay Hà Lan. Vàng không cần hiệp ước mới mua được, vì vàng cũng như mọi hàng hoá, ai trả đúng giá là có. Thứ hai, ở phần bàn về đúc tiền, Smith chứng minh rằng việc nhà nước **đúc tiền miễn phí** (cũng xuất phát từ định kiến trọng thương rằng tiền là của cải) chỉ khiến tiền mới đúc bị nấu chảy và xuất khẩu. Một khoản **phí đúc tiền vừa phải** (seignorage) sẽ chặn được việc đó mà rốt cuộc không ai phải gánh, vì với tiền thì ai cũng là người buôn, không ai là người tiêu dùng cuối cùng.
+## Ý chính
 
-> **Lưu ý:** (1) Bản dịch gọi seignorage là "thuế đúc tiền". Thuật ngữ quen dùng hơn hiện nay là "phí đúc tiền" hay "lợi tức phát hành"; file này dùng cả hai. (2) Đoạn Smith viết rằng chính vì "quan niệm ngớ ngẩn" (*silly notion*) cho rằng nước Anh không sống nổi nếu thiếu thương mại với Bồ Đào Nha mà Pháp và Tây Ban Nha mới đòi Bồ Đào Nha đóng cảng với tàu Anh, thì bản dịch chuyển thành "chính trên cơ sở cái quan điểm đơn giản này mà nước Anh đã không thể không buôn bán với Bồ Đào Nha", làm đảo logic của đoạn văn. (3) Chú thích của người dịch ghi một pound vàng là "khoảng 450 gam". Đó là pound thường. Sở đúc tiền dùng pound troy, khoảng 373 gam. (4) Chú thích "Cara là đơn vị trọng lượng bằng 200 miligam" sai trong ngữ cảnh này: "24 carat", "21¾ carat" ở đây là **độ tuổi vàng**, tức số phần vàng ròng trên 24 phần. (5) Câu cuối chương bị dịch sai chủ ngữ. Bản dịch viết "Tiền là một trong nhiều diệu kế để làm giàu cho đất nước". Ý của Smith là chính **tiền thưởng cho việc làm ra tiền** (đúc tiền miễn phí) là "một trong nhiều diệu kế" của hệ thống trọng thương, và đó là một câu mỉa mai. (6) Câu "không có đồng tiền nào ra tới thị trường lại kém giá trị hơn cái giá đúng phải trả" là dịch tối nghĩa. Ý gốc: vì nhà nước độc quyền đúc tiền nên không đồng tiền nào ra thị trường rẻ hơn mức nhà nước muốn bán, nhờ vậy phí đúc tiền "dính" được vào giá trị đồng tiền. (7) Con số 2.600.000 bảng mỗi năm không phải "người ta ước tính". Smith lấy con số 50.000 bảng mỗi tuần mà Baretti được kể, nhân với 52 tuần, rồi chỉ ra rằng tổng đó còn lớn hơn toàn bộ sản lượng vàng Brazil, tức là con số đã bị thổi phồng.
+Smith muốn chứng minh hai mệnh đề. Thứ nhất, một hiệp ước dành ưu đãi riêng cho hàng của một nước là trao độc quyền cho thương nhân nước đó, nên **có lợi cho nước được ưu đãi và thiệt cho nước ban ưu đãi**.
+
+Hiệp ước Methuen 1703 giữa Anh và Bồ Đào Nha, vốn được ca ngợi là "kiệt tác" vì nó đưa vàng Brazil vào Anh, thực ra thiệt cho Anh: Anh phải giảm một phần ba thuế cho rượu vang Bồ Đào Nha so với rượu Pháp, còn Bồ Đào Nha chỉ cho len Anh vào lại như cũ, không ưu đãi gì hơn len Pháp hay Hà Lan. Vàng không cần hiệp ước mới mua được, vì vàng cũng như mọi hàng hoá, ai trả đúng giá là có.
+
+Thứ hai, ở phần bàn về đúc tiền, Smith chứng minh rằng việc nhà nước **đúc tiền miễn phí** (cũng xuất phát từ định kiến trọng thương rằng tiền là của cải) chỉ khiến tiền mới đúc bị nấu chảy và xuất khẩu.
+
+Một khoản **phí đúc tiền vừa phải** (seignorage) sẽ chặn được việc đó mà rốt cuộc không ai phải gánh, vì với tiền thì ai cũng là người buôn, không ai là người tiêu dùng cuối cùng.
 
 ## Sơ đồ
 
@@ -255,7 +258,9 @@ Smith không cần bác con số. Ông giả sử điều có lợi nhất cho p
 
 **Lý lẽ thứ nhất (1): không lợi hơn ngành buôn nào khác.** Mọi cuộc trao đổi đều là đem đi một giá trị và nhận về một giá trị tương đương. Nhận về vàng hay nhận về vải, gỗ, rượu thì cũng chỉ là nhận về một giá trị bằng cái mình đem đi. Không có lý do gì để coi ngành buôn đổi lấy vàng là có lợi hơn.
 
-**Lý lẽ thứ hai (2): vàng phần lớn lại phải đi.** Chỉ một phần rất nhỏ vàng nhập về được dùng để tăng lượng vàng thỏi, đồ vàng và tiền vàng trong nước. Phần lớn phải xuất ra lần nữa để đổi lấy hàng tiêu dùng. Như vậy chuỗi trao đổi thực tế là: hàng Anh đổi lấy vàng Bồ Đào Nha, rồi vàng đổi lấy hàng tiêu dùng của nước khác. Đó là buôn bán vòng vo. Nếu đổi thẳng hàng công nghiệp Anh lấy hàng tiêu dùng thì lợi hơn. Lý do nằm ở Quyển II, Chương V: thương mại trực tiếp phục vụ tiêu dùng bao giờ cũng tốt hơn thương mại vòng vo, vì cần ít vốn hơn để đưa về cùng một lượng hàng nước ngoài. Vốn dư ra có thể dùng vào việc khác, nuôi thêm lao động và tăng sản phẩm hằng năm của đất nước.
+**Lý lẽ thứ hai (2): vàng phần lớn lại phải đi.** Chỉ một phần rất nhỏ vàng nhập về được dùng để tăng lượng vàng thỏi, đồ vàng và tiền vàng trong nước. Phần lớn phải xuất ra lần nữa để đổi lấy hàng tiêu dùng. Như vậy chuỗi trao đổi thực tế là: hàng Anh đổi lấy vàng Bồ Đào Nha, rồi vàng đổi lấy hàng tiêu dùng của nước khác. Đó là buôn bán vòng vo.
+
+Nếu đổi thẳng hàng công nghiệp Anh lấy hàng tiêu dùng thì lợi hơn. Lý do nằm ở Quyển II, Chương V: thương mại trực tiếp phục vụ tiêu dùng bao giờ cũng tốt hơn thương mại vòng vo, vì cần ít vốn hơn để đưa về cùng một lượng hàng nước ngoài. Vốn dư ra có thể dùng vào việc khác, nuôi thêm lao động và tăng sản phẩm hằng năm của đất nước.
 
 **Lý lẽ thứ ba (3): vàng mua được ở đâu cũng được.** Nếu Anh bị cắt hẳn khỏi thương mại với Bồ Đào Nha, Anh vẫn không khó kiếm vàng cho tiền đúc, cho đồ dùng và cho ngoại thương. Vàng, như mọi hàng hoá khác, mua được ở bất cứ đâu theo đúng giá trị của nó, miễn là có giá trị tương đương để trả. Vàng thừa của Bồ Đào Nha vẫn phải chảy ra ngoài; nếu không sang Anh thì sẽ sang một nước thứ ba, và nước đó sẽ vui lòng bán lại cho Anh với giá có lãi. Mua qua trung gian thì đắt hơn một chút, nhưng theo Smith, chênh lệch ấy "chẳng có ý nghĩa gì lớn".
 
@@ -470,7 +475,11 @@ Có một điểm Smith bỏ qua. Ông kết luận hiệp ước "có lợi cho
 
 ### Phân tích phí đúc tiền đúng với tiền kim loại, nhưng câu "không ai gánh" không còn đúng với tiền giấy
 
-Lập luận rằng phí đúc vừa phải không ai gánh dựa trên hai điều kiện ngầm: phí nhỏ, và tiền được đúc theo nhu cầu tức là khi có người mang vàng đến. Khi đó phí đúc chỉ là một khoản cộng cố định vào giá trị đồng tiền, được người nhận đầu tiên trả và được người cuối cùng nhận lại. Với tiền giấy và tiền ngân hàng trung ương ngày nay, chi phí sản xuất gần bằng không và lượng phát hành do nhà nước quyết định, nên toàn bộ mệnh giá gần như là lợi tức phát hành. Khi phát hành vượt nhu cầu, phần lợi tức ấy được thu bằng cách làm mất giá tiền, và người nắm giữ tiền, nhất là người nghèo giữ tiền mặt, gánh qua lạm phát. Smith có cảnh báo một phần chuyện này ("phí đúc quá cao" kéo tiền giả vào), nhưng kênh ông thấy là tiền giả chứ không phải lạm phát. Bài học vẫn giữ nguyên: độc quyền phát hành cho phép nhà nước định giá đồng tiền cao hơn chi phí, và giới hạn của khoản chênh đó là chỗ mà người dân bắt đầu tìm cách né, tức đúc giả, nấu chảy, xuất khẩu, hay ngày nay là đô la hoá.
+Lập luận rằng phí đúc vừa phải không ai gánh dựa trên hai điều kiện ngầm: phí nhỏ, và tiền được đúc theo nhu cầu tức là khi có người mang vàng đến. Khi đó phí đúc chỉ là một khoản cộng cố định vào giá trị đồng tiền, được người nhận đầu tiên trả và được người cuối cùng nhận lại.
+
+Với tiền giấy và tiền ngân hàng trung ương ngày nay, chi phí sản xuất gần bằng không và lượng phát hành do nhà nước quyết định, nên toàn bộ mệnh giá gần như là lợi tức phát hành. Khi phát hành vượt nhu cầu, phần lợi tức ấy được thu bằng cách làm mất giá tiền, và người nắm giữ tiền, nhất là người nghèo giữ tiền mặt, gánh qua lạm phát.
+
+Smith có cảnh báo một phần chuyện này ("phí đúc quá cao" kéo tiền giả vào), nhưng kênh ông thấy là tiền giả chứ không phải lạm phát. Bài học vẫn giữ nguyên: độc quyền phát hành cho phép nhà nước định giá đồng tiền cao hơn chi phí, và giới hạn của khoản chênh đó là chỗ mà người dân bắt đầu tìm cách né, tức đúc giả, nấu chảy, xuất khẩu, hay ngày nay là đô la hoá.
 
 ### Smith chứng minh tính phi lý của cán cân song phương bằng một lập luận rất ngắn, và nó vẫn thường bị quên
 
@@ -482,6 +491,170 @@ Phân tích ở cuối chương là một mẫu mực về phương pháp. Thay 
 
 ### Với Việt Nam: độc quyền vàng miếng và FTA là hai bài học trực tiếp của chương này
 
-**Vàng miếng là bài học phí đúc tiền gần như nguyên vẹn.** Từ Nghị định 24/2012, Ngân hàng Nhà nước giữ độc quyền sản xuất vàng miếng, và thương hiệu SJC trở thành "đồng tiền đúc" duy nhất. Theo đúng cơ chế Smith mô tả, độc quyền đúc cho phép giá vàng miếng SJC cao hơn giá vàng nguyên liệu quy đổi theo giá thế giới. Khoản chênh này chính là một dạng phí đúc tiền. Nhưng khác với khuyến nghị của Smith, nó không "vừa phải": chênh lệch có lúc lên gần 20 triệu đồng mỗi lượng. Hệ quả cũng đúng như ông dự báo cho phí đúc quá cao. Không phải tiền giả mà là buôn lậu vàng qua biên giới và hàng giả mạo thương hiệu, những kênh né độc quyền khi chênh lệch đủ bù rủi ro. Logic của Smith về Pháp (phí 8% mà không có tiền giả, vì lãi 6–7% không bõ rủi ro) cho một quy tắc thực dụng: chênh lệch có thể duy trì được bằng đúng chi phí và rủi ro của việc né nó. Vượt ngưỡng đó, độc quyền tự sinh ra thị trường ngầm. Việc sửa Nghị định 24 bằng Nghị định 232/2025/NĐ-CP (ngày 26/8/2025, hiệu lực 10/10/2025) theo hướng bỏ độc quyền sản xuất vàng miếng là đi theo hướng mà chương này gợi ý.
+**Vàng miếng là bài học phí đúc tiền gần như nguyên vẹn.** Từ Nghị định 24/2012, Ngân hàng Nhà nước giữ độc quyền sản xuất vàng miếng, và thương hiệu SJC trở thành "đồng tiền đúc" duy nhất. Theo đúng cơ chế Smith mô tả, độc quyền đúc cho phép giá vàng miếng SJC cao hơn giá vàng nguyên liệu quy đổi theo giá thế giới. Khoản chênh này chính là một dạng phí đúc tiền.
 
-**FTA và cán cân song phương.** Việt Nam là một trong những nền kinh tế tham gia nhiều hiệp định thương mại tự do nhất (CPTPP, EVFTA, RCEP và các FTA ASEAN). Theo Smith, mỗi FTA là một hiệp ước ưu đãi phân biệt, nên câu hỏi đúng không phải "ta được mở bao nhiêu thị trường" mà "ta có đang chuyển nguồn nhập từ nhà cung cấp rẻ nhất sang nhà cung cấp được ưu đãi không". Quy tắc xuất xứ trong các FTA thế hệ mới (như "từ sợi trở đi" với dệt may trong CPTPP) chính là cơ chế buộc nhà sản xuất Việt Nam mua nguyên liệu từ nội khối thay vì từ nguồn rẻ nhất, tức chuyển hướng thương mại kiểu Methuen. Đồng thời, cơ cấu thương mại của Việt Nam, thặng dư lớn với Mỹ và thâm hụt lớn với Trung Quốc, Hàn Quốc, là minh hoạ kinh điển cho đoạn 9/10 và 1/10: nhập linh kiện từ một nơi, lắp ráp, xuất sang nơi khác. Khi đối tác dùng thặng dư song phương làm lý do áp thuế, như trong các cuộc đàm phán thuế quan với Mỹ năm 2025, lập luận của Smith cho Việt Nam một phản biện có cơ sở: thặng dư đó phản ánh vị trí trong chuỗi giá trị chứ không phải thiệt hại của đối tác, và thu hẹp nó bằng cách mua thêm hàng Mỹ thay hàng rẻ hơn từ nơi khác chính là một "hiệp ước Methuen" ngược chiều mà người trả giá là doanh nghiệp và người tiêu dùng Việt Nam.
+Nhưng khác với khuyến nghị của Smith, nó không "vừa phải": chênh lệch có lúc lên gần 20 triệu đồng mỗi lượng. Hệ quả cũng đúng như ông dự báo cho phí đúc quá cao. Không phải tiền giả mà là buôn lậu vàng qua biên giới và hàng giả mạo thương hiệu, những kênh né độc quyền khi chênh lệch đủ bù rủi ro. Logic của Smith về Pháp (phí 8% mà không có tiền giả, vì lãi 6–7% không bõ rủi ro) cho một quy tắc thực dụng: chênh lệch có thể duy trì được bằng đúng chi phí và rủi ro của việc né nó. Vượt ngưỡng đó, độc quyền tự sinh ra thị trường ngầm.
+
+Việc sửa Nghị định 24 bằng Nghị định 232/2025/NĐ-CP (ngày 26/8/2025, hiệu lực 10/10/2025) theo hướng bỏ độc quyền sản xuất vàng miếng là đi theo hướng mà chương này gợi ý.
+
+**FTA và cán cân song phương.** Việt Nam là một trong những nền kinh tế tham gia nhiều hiệp định thương mại tự do nhất (CPTPP, EVFTA, RCEP và các FTA ASEAN). Theo Smith, mỗi FTA là một hiệp ước ưu đãi phân biệt, nên câu hỏi đúng không phải "ta được mở bao nhiêu thị trường" mà "ta có đang chuyển nguồn nhập từ nhà cung cấp rẻ nhất sang nhà cung cấp được ưu đãi không". Quy tắc xuất xứ trong các FTA thế hệ mới (như "từ sợi trở đi" với dệt may trong CPTPP) chính là cơ chế buộc nhà sản xuất Việt Nam mua nguyên liệu từ nội khối thay vì từ nguồn rẻ nhất, tức chuyển hướng thương mại kiểu Methuen.
+
+Đồng thời, cơ cấu thương mại của Việt Nam, thặng dư lớn với Mỹ và thâm hụt lớn với Trung Quốc, Hàn Quốc, là minh hoạ kinh điển cho đoạn 9/10 và 1/10: nhập linh kiện từ một nơi, lắp ráp, xuất sang nơi khác.
+
+Khi đối tác dùng thặng dư song phương làm lý do áp thuế, như trong các cuộc đàm phán thuế quan với Mỹ năm 2025, lập luận của Smith cho Việt Nam một phản biện có cơ sở: thặng dư đó phản ánh vị trí trong chuỗi giá trị chứ không phải thiệt hại của đối tác, và thu hẹp nó bằng cách mua thêm hàng Mỹ thay hàng rẻ hơn từ nơi khác chính là một "hiệp ước Methuen" ngược chiều mà người trả giá là doanh nghiệp và người tiêu dùng Việt Nam.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển IV, Chương VI trên một trang: năm nhánh lớn đi theo các mục 1–12 của phần Nội dung chi tiết (hiệp ước ưu đãi và văn bản Hiệp ước Methuen, vàng Brazil và bốn lý lẽ bác bỏ, cái giá chính trị và lợi ích thật của vàng nhập, cơ chế nấu chảy tiền và phí đúc tiền, Ngân hàng Anh và câu hỏi ai gánh phí đúc), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và số liệu then chốt của Smith; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển IV, Chương VI: hiệp ước ưu đãi riêng thiệt cho nước ban ưu đãi, đúc tiền miễn phí chỉ khiến tiền mới bị nấu chảy`"]
+  n1["`Mục 1–2 — Hiệp ước ưu đãi là trao độc quyền, Hiệp ước Methuen 1703 bất lợi cho Anh`"]
+  n0 --- n1
+  n2["`Ưu đãi riêng: cho nhập hàng đang cấm với nước khác, hoặc miễn, giảm thuế riêng cho hàng một nước`"]
+  n1 --- n2
+  n3["`Thương nhân nước được ưu đãi có thị trường rộng hơn và bán giá cao hơn giá cạnh tranh tự do`"]
+  n1 --- n3
+  n4["`Nước ban ưu đãi mua đắt, hàng mình đem đổi bị định giá rẻ: sự rẻ của vật này là hậu quả sự đắt của vật kia`"]
+  n1 --- n4
+  n5["`Không phải lỗ tuyệt đối mà là lãi ít hơn, bán dưới giá thành thì ngành buôn đã không tồn tại`"]
+  n1 --- n5
+  n6["`Lý lẽ biện hộ: chịu thiệt trên một mặt hàng để tổng cán cân thuận, số dư được trả bằng vàng bạc`"]
+  n1 --- n6
+  n7["`Hiệp ước Methuen 1703 giữa Anh và Bồ Đào Nha được ca ngợi chính trên lý lẽ cán cân đó`"]
+  n1 --- n7
+  n8["`Điều I: vua Bồ Đào Nha cho vải len Anh nhập lại như trước khi bị luật cấm`"]
+  n7 --- n8
+  n9["`Điều II: thuế rượu vang Bồ Đào Nha không quá 2/3 thuế rượu vang Pháp, mãi mãi, dù hoà hay chiến với Pháp`"]
+  n7 --- n9
+  n10["`Bồ Đào Nha chỉ trả lại quyền cũ, Anh ưu đãi thật 1/3 thuế so với đối thủ chính là rượu Pháp`"]
+  n7 --- n10
+  n11["`Kết luận của Smith: hiệp ước có lợi cho Bồ Đào Nha và bất lợi cho Anh`"]
+  n7 --- n11
+  n12["`Mục 3–4 — Vàng Brazil: vì sao hiệp ước được gọi là kiệt tác và bốn lý lẽ bác bỏ`"]
+  n0 --- n12
+  n13["`Bồ Đào Nha nhận từ Brazil nhiều vàng hơn mức cần lưu thông, vàng thừa phải xuất bất chấp lệnh cấm, phần lớn sang Anh`"]
+  n12 --- n13
+  n14["`Baretti được kể mỗi chuyến tàu thư tuần Lisbon–Anh chở hơn 50.000 bảng vàng`"]
+  n12 --- n14
+  n15["`× 52 tuần = hơn 2.600.000 bảng mỗi năm, lớn hơn cả sản lượng vàng Brazil, nên con số bị thổi phồng`"]
+  n14 --- n15
+  n16["`Khi đặc ân bị rút, chính dư luận Anh nói phần lớn vàng được bán tiếp sang châu Âu`"]
+  n12 --- n16
+  n17["`Giả sử toàn bộ vàng ở lại Anh, thương mại với Bồ Đào Nha vẫn không có giá trị đặc biệt`"]
+  n12 --- n17
+  n18["`Lý lẽ thứ nhất: mọi trao đổi đều nhận về giá trị tương đương, đổi lấy vàng không lợi hơn`"]
+  n17 --- n18
+  n19["`Lý lẽ thứ hai: phần lớn vàng lại xuất đi mua hàng tiêu dùng, là buôn vòng vo tốn vốn hơn buôn trực tiếp`"]
+  n17 --- n19
+  n20["`Lý lẽ thứ ba: vàng mua được ở bất cứ đâu theo đúng giá trị, qua nước thứ ba chỉ đắt hơn chút ít`"]
+  n17 --- n20
+  n21["`Lý lẽ thứ tư: cầu thực tế về vàng có hạn, mua 9/10 từ một nước thì chỉ còn 1/10 cho mọi nước khác`"]
+  n17 --- n21
+  n22["`Mục 5–6 — Cái giá chính trị của định kiến và lợi ích thật của vàng nhập`"]
+  n0 --- n22
+  n23["`Smith gọi niềm tin Anh không sống nổi nếu thiếu Bồ Đào Nha là quan niệm ngớ ngẩn (silly notion)`"]
+  n22 --- n23
+  n24["`Cuối Chiến tranh Bảy năm, Pháp và Tây Ban Nha đòi Bồ Đào Nha đuổi tàu Anh khỏi cảng và cho quân mình đồn trú`"]
+  n22 --- n24
+  n25["`Nếu Bồ Đào Nha chịu, Anh được giải thoát khỏi gánh nặng lớn hơn: bảo vệ một đồng minh quá yếu`"]
+  n22 --- n25
+  n26["`Mất bạn hàng chỉ làm khó thương nhân một hai năm, cho tới khi họ tìm được chỗ dùng vốn khác`"]
+  n22 --- n26
+  n27["`Vàng bạc tiện nhất cho buôn vòng vo: ai cũng nhận, thể tích nhỏ giá trị lớn, vận chuyển rẻ, ít hao hụt`"]
+  n22 --- n27
+  n28["`Lợi ích thật là giúp các ngành ngoại thương vòng vo khác dễ hơn: nếu không phải cơ bản thì cũng khá quan trọng`"]
+  n22 --- n28
+  n29["`Mục 7–9 — Đúc tiền miễn phí làm tiền mới bị nấu chảy, phí đúc tiền chặn được việc đó`"]
+  n0 --- n29
+  n30["`Nhu cầu vàng cho đồ dùng và tiền đúc rất nhỏ, thợ bạc chủ yếu làm đồ mới từ đồ cũ`"]
+  n29 --- n30
+  n31["`10 năm trước cải cách tiền vàng, Sở đúc đúc hơn 800.000 bảng mỗi năm mà không thêm vào lượng tiền lưu hành`"]
+  n29 --- n31
+  n32["`Đúc miễn phí nên đồng đủ cân không đáng hơn vàng thỏi, mà tiền lưu hành đã mòn: vàng thiếu hơn 2%, bạc hơn 8%`"]
+  n29 --- n32
+  n33["`44½ đồng guinea = 1 pound troy vàng chuẩn: giá Sở đúc 46 bảng 14 shilling 6 penny, giá thị trường 47 bảng 14 shilling đến 48 bảng`"]
+  n32 --- n33
+  n34["`Đồng mới lẫn vào két chỉ mua như đồng mòn, nấu chảy ra bán được giá vàng thỏi cao hơn → bị nấu chảy hoặc xuất khẩu`"]
+  n32 --- n34
+  n35["`Sở đúc làm công dã tràng, chỉ thay những đồng tốt nhất bị nấu chảy hằng ngày, một dạng quy luật Gresham`"]
+  n32 --- n35
+  n36["`Phí đúc cộng vào giá trị kim loại như công làm đồ bạc, nhà nước độc quyền đúc nên phí dính vào giá trị đồng tiền`"]
+  n29 --- n36
+  n37["`Lãi nấu chảy = mức mòn trừ phí đúc: tiền mòn 2%, phí 1% lãi 1%, phí 2% hoà, phí 5% lỗ 3%`"]
+  n29 --- n37
+  n38["`Phí quá cao sinh tiền giả, nhưng Pháp thu 8% mà không có nạn tiền giả vì lãi 6–7% không bõ rủi ro bị bắt`"]
+  n29 --- n38
+  n39["`Chỉ dụ 1/1726: 1 mác vàng chuẩn 21¾ carat ≈ 671 livre, đúc thành 30 louis × 24 livre = 720 livre, tăng khoảng 7%`"]
+  n38 --- n39
+  n40["`Mục 10–12 — Ngân hàng Anh, ai gánh phí đúc tiền và lời kết mỉa mai`"]
+  n0 --- n40
+  n41["`Luật đúc tiền miễn phí có từ thời Charles II, gia hạn nhiều lần, thành vĩnh viễn năm 1769`"]
+  n40 --- n41
+  n42["`Ngân hàng Anh mang vàng đi đúc nhiều nhất và tưởng mình lợi vì nhà nước chịu phí đúc`"]
+  n40 --- n42
+  n43["`Tiền mòn 2%: không phí, phí 1%, 2% hay 5% thì Ngân hàng đều mất đúng 2%`"]
+  n42 --- n43
+  n44["`Tiền đủ cân và phí hợp lý thì Ngân hàng hoà: thứ gây thiệt là tiền mòn, không phải phí đúc`"]
+  n42 --- n44
+  n45["`Thuế hàng hoá vừa phải do người tiêu dùng cuối cùng gánh`"]
+  n40 --- n45
+  n46["`Với tiền mọi người đều là nhà buôn: ai cũng ứng phí đúc rồi lấy lại trong giá trị đồng tiền, nên không ai gánh`"]
+  n40 --- n46
+  n47["`Nhà nước gánh phí đúc là bỏ mất một nguồn thu, còn Ngân hàng và tư nhân không được lợi gì`"]
+  n40 --- n47
+  n48["`Đúc bù hao mòn chỉ 50.000–100.000 bảng mỗi năm, thực tế hơn 850.000 bảng: phần chênh lấp chỗ tiền bị nấu chảy`"]
+  n40 --- n48
+  n49["`Ngân hàng mất khoảng 2,5% × 850.000 = 21.250 bảng mỗi năm, phí đúc 4–5% giảm còn chừng 1/10`"]
+  n48 --- n49
+  n50["`Nghị viện cấp khoảng 14.000 bảng cho Sở đúc, chi thực không quá 1/2, nhưng 18.000–20.000 bảng rất đáng với Ngân hàng`"]
+  n48 --- n50
+  n51["`Thưởng cho việc làm ra tiền là một trong nhiều diệu kế làm giàu của hệ thống trọng thương, câu mỉa mai`"]
+  n40 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Không ký hiệp ước ưu đãi phân biệt, không coi hút vàng là mục tiêu, đánh phí đúc tiền vừa phải thay vì đúc miễn phí`"]
+  n52 --- n53
+  n54["`Vàng là một hàng hoá có cầu hữu hạn, cán cân song phương là sản phẩm phụ của phân công quốc tế`"]
+  n52 --- n54
+  n55["`Smith mô tả trước chuyển hướng thương mại của Viner (1950), nguyên tắc MFN ở Điều I GATT 1947 thể chế hoá lập luận này`"]
+  n52 --- n55
+  n56["`Smith không phản đối mua rượu Bồ Đào Nha mà phản đối ép mua thay rượu Pháp bằng thuế phân biệt`"]
+  n52 --- n56
+  n57["`Với tiền giấy, phí phát hành quá cao được thu qua lạm phát, người nắm giữ tiền gánh`"]
+  n52 --- n57
+  n58["`Smith luôn hỏi ai hưởng, ai chịu trước khi hỏi chính sách có lợi cho nước không`"]
+  n52 --- n58
+  class n0 root
+  class n1,n12,n22,n29,n40,n52 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển IV, Chương VI. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 518–529.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển IV mổ xẻ lần lượt từng "biện pháp" mà hệ thống trọng thương dùng để kéo cán cân thương mại về phía có lợi và hút vàng bạc vào nước: hạn chế nhập khẩu (Chương II, nơi Smith nêu hình ảnh "bàn tay vô hình", và Chương III), hoàn thuế khi tái xuất (Chương IV), trợ cấp xuất khẩu (Chương V).
+
+Chương VI xét biện pháp thứ năm: hiệp ước thương mại ưu đãi riêng cho một nước. Nó dựa trên kết luận của Quyển I, Chương V (giá thực tế của hàng hoá là lượng lao động, tiền chỉ là giá danh nghĩa) và Quyển II, Chương V (vốn quay vòng nhanh trong thương mại trực tiếp nuôi nhiều lao động trong nước hơn thương mại vòng vo), và chuẩn bị cho Chương VII, nơi độc quyền thương mại được xét ở quy mô lớn nhất: độc quyền với thuộc địa.
+
+## Lưu ý
+
+- Bản dịch gọi seignorage là "thuế đúc tiền". Thuật ngữ quen dùng hơn hiện nay là "phí đúc tiền" hay "lợi tức phát hành"; file này dùng cả hai.
+- Đoạn Smith viết rằng chính vì "quan niệm ngớ ngẩn" (*silly notion*) cho rằng nước Anh không sống nổi nếu thiếu thương mại với Bồ Đào Nha mà Pháp và Tây Ban Nha mới đòi Bồ Đào Nha đóng cảng với tàu Anh, thì bản dịch chuyển thành "chính trên cơ sở cái quan điểm đơn giản này mà nước Anh đã không thể không buôn bán với Bồ Đào Nha", làm đảo logic của đoạn văn.
+- Chú thích của người dịch ghi một pound vàng là "khoảng 450 gam". Đó là pound thường. Sở đúc tiền dùng pound troy, khoảng 373 gam.
+- Chú thích "Cara là đơn vị trọng lượng bằng 200 miligam" sai trong ngữ cảnh này: "24 carat", "21¾ carat" ở đây là **độ tuổi vàng**, tức số phần vàng ròng trên 24 phần.
+- Câu cuối chương bị dịch sai chủ ngữ. Bản dịch viết "Tiền là một trong nhiều diệu kế để làm giàu cho đất nước". Ý của Smith là chính **tiền thưởng cho việc làm ra tiền** (đúc tiền miễn phí) là "một trong nhiều diệu kế" của hệ thống trọng thương, và đó là một câu mỉa mai.
+- Câu "không có đồng tiền nào ra tới thị trường lại kém giá trị hơn cái giá đúng phải trả" là dịch tối nghĩa. Ý gốc: vì nhà nước độc quyền đúc tiền nên không đồng tiền nào ra thị trường rẻ hơn mức nhà nước muốn bán, nhờ vậy phí đúc tiền "dính" được vào giá trị đồng tiền.
+- Con số 2.600.000 bảng mỗi năm không phải "người ta ước tính". Smith lấy con số 50.000 bảng mỗi tuần mà Baretti được kể, nhân với 52 tuần, rồi chỉ ra rằng tổng đó còn lớn hơn toàn bộ sản lượng vàng Brazil, tức là con số đã bị thổi phồng.

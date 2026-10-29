@@ -1,11 +1,14 @@
 # Quyển II, Lời giới thiệu — Bản chất, tích luỹ và sử dụng vốn (Introduction to Book II)
 
-**Nguồn:** Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Lời giới thiệu. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 263–264.
-**Tác giả:** Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
-**Vị trí trong lập luận của cả bộ sách:** Quyển I giải thích vì sao năng suất lao động tăng (phân công lao động, Chương I–III) và sản phẩm được chia thành tiền công, lợi nhuận, địa tô ra sao. Nhưng Quyển I ngầm giả định rằng đã có sẵn một khối "vốn" (stock) để nuôi người thợ trong lúc chờ sản phẩm làm xong. Lời giới thiệu ngắn này đưa giả định đó ra ánh sáng: phân công lao động chỉ đi xa được đến đâu mà vốn tích luỹ cho phép. Từ đây Quyển II chuyển trọng tâm từ năng suất sang tích luỹ, và chuẩn bị cho năm chương về phân loại vốn, tiền và ngân hàng, lao động sản xuất và tiết kiệm, cho vay lấy lãi, và thứ tự sử dụng vốn.
-**Ý chính:** Mệnh đề trung tâm là: **tích luỹ vốn, theo bản chất sự việc, phải đi trước phân công lao động**, và mức độ phân công tăng theo tỷ lệ với lượng vốn tích luỹ trước. Smith chứng minh bằng một chuỗi ngắn: trong xã hội tự cung tự cấp không cần vốn; khi đã chuyên môn hoá, người thợ chỉ làm ra một phần rất nhỏ thứ mình cần và phải chờ bán được sản phẩm mới mua được phần còn lại, nên phải có sẵn một kho lương thực, nguyên liệu và dụng cụ để sống qua thời gian chờ đó. Phân công càng sâu thì mỗi người thợ chế biến càng nhiều nguyên liệu và càng cần nhiều máy móc, nên vốn ứng trước phải càng lớn. Ngược lại, người nắm vốn có động cơ tự nhiên là dùng vốn sao cho làm ra nhiều sản phẩm nhất, nên tích luỹ tự nó dẫn đến phân công và máy móc tốt hơn. Kết luận: vốn tăng thì không chỉ số lao động được thuê tăng, mà cùng một số lao động cũng làm ra nhiều sản phẩm hơn.
+## Ý chính
 
-> **Lưu ý:** bản dịch có một chỗ làm sai nội dung khi Smith giới thiệu bố cục Quyển II. Bản dịch viết Chương I trình bày "những bộ phận hay ngành kinh doanh nào thu hút nhiều tiền vốn của tư nhân hay một hội buôn lớn". Thực ra Chương I bàn về **các bộ phận mà vốn của một cá nhân hay của một xã hội lớn tự nhiên chia ra** (vốn tiêu dùng, vốn cố định, vốn luân chuyển), chứ không bàn ngành nào hút nhiều vốn; "a great society" (một xã hội lớn) bị dịch thành "một hội buôn lớn". Ngoài ra có lỗi chính tả "số lương thợ" (đúng là "số lượng thợ"). Bản dịch cũng dùng lẫn "vốn", "tiền vốn", "tư bản" cho cùng chữ "stock"; nên đọc "tiền vốn" ở đây là vốn hiện vật, không phải tiền mặt.
+Mệnh đề trung tâm là: **tích luỹ vốn, theo bản chất sự việc, phải đi trước phân công lao động**, và mức độ phân công tăng theo tỷ lệ với lượng vốn tích luỹ trước.
+
+Smith chứng minh bằng một chuỗi ngắn: trong xã hội tự cung tự cấp không cần vốn. Khi đã chuyên môn hoá, người thợ chỉ làm ra một phần rất nhỏ thứ mình cần và phải chờ bán được sản phẩm mới mua được phần còn lại, nên phải có sẵn một kho lương thực, nguyên liệu và dụng cụ để sống qua thời gian chờ đó.
+
+Phân công càng sâu thì mỗi người thợ chế biến càng nhiều nguyên liệu và càng cần nhiều máy móc, nên vốn ứng trước phải càng lớn. Ngược lại, người nắm vốn có động cơ tự nhiên là dùng vốn sao cho làm ra nhiều sản phẩm nhất, nên tích luỹ tự nó dẫn đến phân công và máy móc tốt hơn.
+
+Kết luận: vốn tăng thì không chỉ số lao động được thuê tăng, mà cùng một số lao động cũng làm ra nhiều sản phẩm hơn.
 
 ## Sơ đồ
 
@@ -262,4 +265,146 @@ Thời kỳ trước Đổi Mới là một minh hoạ ngược của mệnh đ�
 
 Giai đoạn công nghiệp hoá dựa vào xuất khẩu từ những năm 2000 cũng đúng mô hình: phân công sâu (lắp ráp điện tử, may mặc theo chuỗi giá trị toàn cầu) chỉ khả thi khi có người ứng trước nhà xưởng, máy móc và nguyên liệu nhập khẩu. Phần lớn vốn đó đến từ FDI, tức "vay mượn của một người nào khác" theo cách nói của Smith. Tỷ lệ đầu tư toàn xã hội của Việt Nam nhiều năm ở mức khoảng 30% GDP hoặc hơn, thuộc nhóm cao trong khu vực.
 
-Hai điểm Smith giúp nhìn rõ. Thứ nhất, nếu phần lớn vốn ứng trước cho khu vực chế biến chế tạo là vốn nước ngoài thì phần lớn lợi ích từ "người dùng vốn tổ chức phân công và chọn máy móc" cũng nằm ở nước ngoài: quyết định chia công đoạn nào cho Việt Nam do doanh nghiệp FDI đưa ra, và họ giữ những công đoạn cần nhiều vốn và tri thức nhất. Thứ hai, mệnh đề "vốn tăng thì cùng số lao động làm ra nhiều hơn" chỉ đúng khi vốn được dùng để trang bị cho lao động. Khi một phần lớn tiết kiệm trong nước chảy vào đất đai và vàng, hai tài sản không trang bị thêm gì cho người lao động, thì tỷ lệ đầu tư cao vẫn có thể đi kèm năng suất tăng chậm. Các chương sau của Quyển II sẽ cung cấp công cụ để phân tích điều này kỹ hơn.
+Hai điểm Smith giúp nhìn rõ. Thứ nhất, nếu phần lớn vốn ứng trước cho khu vực chế biến chế tạo là vốn nước ngoài thì phần lớn lợi ích từ "người dùng vốn tổ chức phân công và chọn máy móc" cũng nằm ở nước ngoài: quyết định chia công đoạn nào cho Việt Nam do doanh nghiệp FDI đưa ra, và họ giữ những công đoạn cần nhiều vốn và tri thức nhất.
+
+Thứ hai, mệnh đề "vốn tăng thì cùng số lao động làm ra nhiều hơn" chỉ đúng khi vốn được dùng để trang bị cho lao động. Khi một phần lớn tiết kiệm trong nước chảy vào đất đai và vàng, hai tài sản không trang bị thêm gì cho người lao động, thì tỷ lệ đầu tư cao vẫn có thể đi kèm năng suất tăng chậm. Các chương sau của Quyển II sẽ cung cấp công cụ để phân tích điều này kỹ hơn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời giới thiệu Quyển II trên một trang: sáu nhánh lớn đi theo Mục 1–4 của phần Nội dung chi tiết (xã hội không cần vốn và xã hội cần vốn, vốn đi trước và quy định độ sâu của phân công, tích luỹ tự dẫn đến cải tiến, bố cục Quyển II), phần Luận điểm kinh tế cốt lõi kèm cách đọc theo kinh tế học hiện đại, và phần Đánh giá, mỗi nhánh ghi luận điểm, cơ chế, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển II, Lời giới thiệu: tích luỹ vốn phải đi trước phân công lao động, và vốn tăng thì năng suất lao động tăng`"]
+  n1["`Mục 1 — Xã hội không cần vốn và xã hội cần vốn`"]
+  n0 --- n1
+  n2["`Xã hội hoang sơ tự cung tự cấp, trao đổi thỉnh thoảng: không ai cần tích luỹ vốn trước`"]
+  n1 --- n2
+  n3["`Khi có phân công, sản phẩm của một người chỉ đáp ứng một phần rất nhỏ nhu cầu của chính người đó`"]
+  n1 --- n3
+  n4["`Phần còn lại phải mua bằng giá sản phẩm của mình, chỉ mua được khi đã làm xong và bán xong`"]
+  n1 --- n4
+  n5["`Khoảng chờ đó phải được nuôi bằng kho dự trữ có sẵn: lương thực, nguyên liệu, dụng cụ`"]
+  n1 --- n5
+  n6["`Người thợ dệt cần khối vốn của mình hoặc đi vay, đủ nuôi mình và cấp sợi, khung cửi tới khi bán xong tấm vải`"]
+  n1 --- n6
+  n7["`Tích luỹ phải làm trước khi hành nghề và lặp lại chừng nào còn sản xuất`"]
+  n1 --- n7
+  n8["`Ví dụ hôm nay: vốn lưu động của xưởng may chính là kho dự trữ của Smith, chỉ khác là giữ dưới dạng tiền`"]
+  n1 --- n8
+  n9["`Mục 2 — Vốn đi trước và quy định độ sâu của phân công`"]
+  n0 --- n9
+  n10["`Lao động chỉ chia nhỏ hơn được theo tỷ lệ vốn tích luỹ trước ngày càng lớn`"]
+  n9 --- n10
+  n11["`Nguyên liệu tăng: xưởng ghim 10 người làm khoảng 48.000 ghim mỗi ngày, cần dây kim loại lớn hơn hàng trăm lần`"]
+  n9 --- n11
+  n12["`Máy móc tăng: thao tác đơn giản khuyến khích phát minh máy, máy phải mua trước nên là vốn ứng trước`"]
+  n9 --- n12
+  n13["`Cho cùng số thợ: lương thực ứng trước như cũ, nguyên liệu và dụng cụ lớn hơn nhiều`"]
+  n9 --- n13
+  n14["`Chính số thợ tăng mới cho phép chia nhỏ việc: xưởng 2 người không chia được 18 thao tác`"]
+  n9 --- n14
+  n15["`Thêm nguyên liệu, máy móc cho mỗi người và thêm người trong một ngành đều quy về điều kiện vốn`"]
+  n9 --- n15
+  n16["`Mục 3 — Tích luỹ tự nó dẫn đến cải tiến`"]
+  n0 --- n16
+  n17["`Người dùng vốn muốn vốn làm ra nhiều sản phẩm nhất, vì sản phẩm nhiều hơn là lợi nhuận nhiều hơn`"]
+  n16 --- n17
+  n18["`Nên anh ta phân công việc thích hợp nhất giữa các thợ và cấp máy móc tốt nhất tự nghĩ ra hoặc mua được`"]
+  n16 --- n18
+  n19["`Khả năng đó tỷ lệ với quy mô vốn: vốn nuôi 100 thợ chia việc chi tiết và mua máy mà vốn nuôi 2 thợ không mua nổi`"]
+  n16 --- n19
+  n20["`Vốn tăng: (a) số lao động được thuê tăng, (b) cùng số lao động làm ra sản phẩm lớn hơn nhiều`"]
+  n16 --- n20
+  n21["`Tác động (b) quan trọng nhất: cầu nối Quyển I (năng suất từ phân công) và Quyển II (phân công từ vốn)`"]
+  n16 --- n21
+  n22["`Ví dụ giả định: hai cơ sở bánh 5 thợ, không máy làm 200 chiếc mỗi ngày, có máy và chia khâu làm 1.000 chiếc`"]
+  n16 --- n22
+  n23["`Mục 4 — Bố cục Quyển II`"]
+  n0 --- n23
+  n24["`Chương I: vốn cá nhân và xã hội tự nhiên chia thành vốn tiêu dùng, vốn cố định, vốn luân chuyển`"]
+  n23 --- n24
+  n25["`Chương II: tiền là bộ phận đặc biệt của tổng vốn xã hội, kèm ngân hàng và tiền giấy`"]
+  n23 --- n25
+  n26["`Chương III và IV: vốn tích luỹ thành tư bản do chủ tự dùng hoặc cho vay lấy lãi`"]
+  n23 --- n26
+  n27["`Chương V: cách dùng vốn khác nhau tác động khác nhau đến lao động và sản phẩm hằng năm`"]
+  n23 --- n27
+  n28["`Thứ tự: vốn là gì, rồi tiền vì hay bị nhầm với vốn, rồi tự dùng hay cho vay, cuối cùng dùng vào đâu`"]
+  n23 --- n28
+  n29["`Luận điểm cốt lõi và kinh tế học hiện đại`"]
+  n0 --- n29
+  n30["`Giả định: sản xuất mất thời gian, vốn là kho hàng thực chứ không phải tiền, người nắm vốn hành động vì lợi nhuận`"]
+  n29 --- n30
+  n31["`Giới hạn của phân công là giới hạn của vốn tích luỹ`"]
+  n29 --- n31
+  n32["`Câu hỏi trung tâm của Quyển II: cái gì làm vốn tăng hay giảm, Chương III đáp là tiết kiệm và lao động sản xuất`"]
+  n29 --- n32
+  n33["`Gốc của thuyết quỹ tiền lương (Ricardo, Mill) và sản xuất vòng vèo của Böhm-Bawerk`"]
+  n29 --- n33
+  n34["`Cùng số lao động làm ra nhiều hơn khi vốn tăng: chiều sâu vốn, trung tâm mô hình tăng trưởng Solow`"]
+  n29 --- n34
+  n35["`Smith: tiết kiệm đi trước đầu tư. Sau Keynes: có tín dụng ngân hàng thì đầu tư có thể đi trước và tạo ra tiết kiệm`"]
+  n29 --- n35
+  n36["`Phân công bị hai giới hạn: quy mô thị trường (Quyển I) và vốn (Quyển II)`"]
+  n29 --- n36
+  n37["`Đánh giá và phát hiện đáng chú ý`"]
+  n0 --- n37
+  n38["`Lời giới thiệu vá lỗ hổng Quyển I: thị trường lớn đến mấy cũng không phân công sâu được nếu không có vốn`"]
+  n37 --- n38
+  n39["`Logic là vốn → phân công → năng suất nhưng trình bày ngược, nên người chỉ đọc Quyển I nhớ phân công mà quên vốn`"]
+  n37 --- n39
+  n40["`Ở cấp toàn xã hội và về hiện vật, vốn đi trước không thể sai: không ai ăn được bánh mì chưa nướng`"]
+  n37 --- n40
+  n41["`Tín dụng ngân hàng có tạo vốn mới không là đề tài Chương II: tiền giấy giải phóng vàng bạc, không tạo vốn từ hư không`"]
+  n37 --- n41
+  n42["`Người dùng vốn là người tổ chức sản xuất, gần chức năng doanh nhân, nhưng Smith gộp lợi nhuận góp vốn và tổ chức`"]
+  n37 --- n42
+  n43["`Marx coi lợi nhuận là thặng dư lấy từ người lao động, Say và trường phái Áo tách phần thưởng tổ chức và chịu rủi ro`"]
+  n37 --- n43
+  n44["`Việt Nam: Khoán 10 năm 1988 cho hộ giữ sản lượng dư, thành vốn ứng trước để lao động chuyển sang thương mại, dịch vụ, thủ công`"]
+  n37 --- n44
+  n45["`Công nghiệp hoá xuất khẩu: FDI ứng trước nhà xưởng, máy móc, nguyên liệu, đầu tư toàn xã hội khoảng 30% GDP hoặc hơn`"]
+  n37 --- n45
+  n46["`Vốn nước ngoài thì quyết định chia công đoạn và phần lớn lợi ích nằm ở doanh nghiệp FDI`"]
+  n37 --- n46
+  n47["`Tiết kiệm chảy vào đất đai và vàng không trang bị gì cho lao động, nên đầu tư cao vẫn có thể đi kèm năng suất tăng chậm`"]
+  n37 --- n47
+  n48["`Thông điệp xuyên suốt`"]
+  n0 --- n48
+  n49["`Muốn tăng của cải phải tăng tích luỹ vốn, chứ không phải tăng tiền hay vàng bạc`"]
+  n48 --- n49
+  n50["`Vốn tăng không chỉ là thêm người mà là nâng cao năng suất lao động`"]
+  n48 --- n50
+  n51["`Vốn là kho hàng hoá thật gồm lương thực, nguyên liệu, dụng cụ, tiền chỉ là phương tiện chuyển giao kho hàng ấy`"]
+  n48 --- n51
+  class n0 root
+  class n1,n9,n16,n23,n29,n37,n48 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+Adam Smith, *Của cải của các dân tộc* (*An Inquiry into the Nature and Causes of the Wealth of Nations*, 1776), Quyển II, Lời giới thiệu. Bản dịch tiếng Việt của NXB Giáo dục và ĐH Kinh tế quốc dân, dựa trên ấn bản Everyman's Library, tr. 263–264.
+
+## Tác giả
+
+Adam Smith (1723–1790), triết gia đạo đức người Scotland, giáo sư Đại học Glasgow.
+
+## Vị trí trong lập luận của cả bộ sách
+
+Quyển I giải thích vì sao năng suất lao động tăng (phân công lao động, Chương I–III) và sản phẩm được chia thành tiền công, lợi nhuận, địa tô ra sao.
+
+Nhưng Quyển I ngầm giả định rằng đã có sẵn một khối "vốn" (stock) để nuôi người thợ trong lúc chờ sản phẩm làm xong. Lời giới thiệu ngắn này đưa giả định đó ra ánh sáng: phân công lao động chỉ đi xa được đến đâu mà vốn tích luỹ cho phép.
+
+Từ đây Quyển II chuyển trọng tâm từ năng suất sang tích luỹ, và chuẩn bị cho năm chương về phân loại vốn, tiền và ngân hàng, lao động sản xuất và tiết kiệm, cho vay lấy lãi, và thứ tự sử dụng vốn.
+
+## Lưu ý
+
+- Bản dịch có một chỗ làm sai nội dung khi Smith giới thiệu bố cục Quyển II. Bản dịch viết Chương I trình bày "những bộ phận hay ngành kinh doanh nào thu hút nhiều tiền vốn của tư nhân hay một hội buôn lớn". Thực ra Chương I bàn về **các bộ phận mà vốn của một cá nhân hay của một xã hội lớn tự nhiên chia ra** (vốn tiêu dùng, vốn cố định, vốn luân chuyển), chứ không bàn ngành nào hút nhiều vốn; "a great society" (một xã hội lớn) bị dịch thành "một hội buôn lớn".
+- Ngoài ra có lỗi chính tả "số lương thợ" (đúng là "số lượng thợ").
+- Bản dịch cũng dùng lẫn "vốn", "tiền vốn", "tư bản" cho cùng chữ "stock"; nên đọc "tiền vốn" ở đây là vốn hiện vật, không phải tiền mặt.
