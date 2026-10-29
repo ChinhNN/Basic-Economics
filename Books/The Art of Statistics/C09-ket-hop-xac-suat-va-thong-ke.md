@@ -1,19 +1,18 @@
 # Chương 9 — Kết hợp xác suất và thống kê (Putting Probability and Statistics Together)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 9 "Putting Probability and Statistics Together", trang PDF 159–173 (ebook không có số trang in; chú thích cuối chương và chú thích dấu sao nằm ở phần cuối sách; các công thức chương dẫn chiếu nằm ở bảng thuật ngữ cuối sách, trang PDF 247–259).
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) đo độ bất định của ước lượng bằng bootstrap, một cách mô phỏng không cần lý thuyết xác suất. Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) đưa vào các quy tắc xác suất, biến ngẫu nhiên, phân phối Poisson, và lập luận rằng có thể hành xử như thể dữ liệu được sinh ngẫu nhiên từ một tổng thể ẩn dụ. Chương 9 — theo tác giả, "có lẽ là chương khó nhất cuốn sách" — ghép hai mạch đó: coi chính các thống kê (trung bình, tỷ lệ, hệ số hồi quy) là biến ngẫu nhiên có phân phối riêng, dùng phân phối nhị thức, luật số lớn và định lý giới hạn trung tâm để suy ra phân phối đó, rồi "đảo chiều" để từ một mẫu suy ra khoảng tin cậy cho tham số tổng thể. Đây là nền móng hình thức của suy luận thống kê mà Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) dùng cho kiểm định giả thuyết và giá trị P; Chương 11 ([C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) đưa ra cách tiếp cận Bayes thay thế; Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) mở rộng lời cảnh báo của chương này rằng biên sai số không chứa sai số hệ thống.
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **một thống kê tóm tắt từ mẫu cũng là một biến ngẫu nhiên có phân phối xác suất riêng (phân phối mẫu); lý thuyết xác suất — đặc biệt định lý giới hạn trung tâm — cho biết phân phối này gần chuẩn với độ rộng (sai số chuẩn) thu hẹp khi mẫu lớn lên; đảo ngược lập luận ta có khoảng tin cậy 95%, tức tập các giá trị tham số mà với chúng thống kê quan sát được là một hệ quả hợp lý; nhưng khoảng này chỉ đúng khi giả định đúng, không chứa sai số hệ thống, và vẫn tính được cả khi ta đã có toàn bộ dữ liệu.** Phần mở đầu dùng tỷ lệ người thuận tay trái (20% trong tổng thể) để minh hoạ phân phối nhị thức của tỷ lệ quan sát trong mẫu 1, 2, 5, 10, 100 và 1.000 người: trung bình luôn là 0,2, phân phối ngày càng hẹp và ngày càng giống hình chuông. Ví dụ ung thư ruột cho thấy "chênh lệch gấp ba lần" giữa các quận ở Anh (9 so với 31 ca tử vong trên 100.000 dân) hoàn toàn do may rủi: trên biểu đồ phễu, mọi quận trừ Glasgow City nằm trong giới hạn kiểm soát. Mục "The Central Limit Theorem" trình bày luật số lớn (Bernoulli), ngụy biện của con bạc, và định lý giới hạn trung tâm (de Moivre, 1733), kèm lời ca ngợi của Galton. Mục "How Does This Theory Help…" phân biệt bất định ngẫu nhiên (trước khi tung đồng xu) và bất định nhận thức (sau khi tung nhưng chưa xem), rồi nêu quy trình dựng khoảng tin cậy. Mục "Calculating Confidence Intervals" so khoảng "chính xác" với khoảng bootstrap cho hệ số hồi quy chiều cao mẹ – con gái (0,23–0,42 so với 0,22–0,44). Mục "Margins of Error from Surveys" đưa quy tắc biên sai số tối đa ±100/√n phần trăm (±3% với 1.000 người). Mục "Should We Believe Margins of Error?" cho thấy các thăm dò bầu cử Anh 2017 dao động vượt xa ±3%, tác giả khuyên nhân đôi biên sai số, và giới đo lường học tách sai số loại A (thống kê) và loại B (hệ thống). Mục cuối dựng khoảng tin cậy Poisson cho số vụ giết người ở Anh và xứ Wales: 497 ± 43,7 cho 2014–2015, và khoảng cho mức tăng 60 vụ là −4 đến +124, vừa đủ chứa số 0.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lỗi trong hình phân phối nhị thức với mẫu 2 người (Figure 9.1(b)):** lời văn và chú thích của tác giả đều ghi xác suất là 0,64 (cả hai thuận tay phải), 0,32 (một người mỗi loại) và 0,04 (cả hai thuận tay trái), nhưng trên hình cột ở giá trị 1,0 cao bằng cột ở 0,5 (khoảng 0,32), khiến tổng xác suất thành 1,28. Cột đúng phải cao 0,04. Bản tổng hợp dùng số đúng. Ngoài ra, ở hai ô mẫu 100 và 1.000 người, đỉnh phân phối trên hình trông hơi lệch về bên trái vạch 0,2 (khoảng 0,15 nếu đọc theo vạch chia); về lý thuyết đỉnh phải nằm đúng 0,2 — người tổng hợp không chắc đây là lỗi vẽ hay do cách đặt vạch chia của đồ thị.
-> - **"Ba giai đoạn" nhưng liệt kê bốn bước:** sách viết quy trình dựng khoảng bất định "có ba giai đoạn" rồi liệt kê bốn mục; mục thứ tư thực ra không phải một bước mà là lời giải thích vì sao gọi là "95%". Bản tổng hợp giữ bốn mục và ghi rõ điều này.
-> - **Dẫn chiếu sai chương trong chú thích:** chú thích dấu sao về tham số viết "chúng ta sẽ thấy ở Chương 12 rằng những người theo thống kê Bayes sẵn lòng dùng xác suất cho bất định nhận thức về tham số", nhưng suy luận Bayes được trình bày ở Chương 11 ("Learning from Experience the Bayesian Way"); Chương 12 bàn những điều có thể sai. Nhiều khả năng là lỗi đánh số.
-> - **Nhận xét lịch sử (theo hiểu biết của người tổng hợp, không tra cứu):** sách nói nguyên lý khoảng tin cậy được Jerzy Neyman và Egon Pearson hình thức hoá ở UCL thập niên 1930. Thường người ta ghi công lý thuyết khoảng tin cậy cho riêng Neyman (bài báo năm 1937), còn cặp Neyman–Pearson nổi tiếng với lý thuyết kiểm định giả thuyết; cách viết của sách hơi gộp hai việc.
-> - **Các công thức bị mất trong lớp chữ:** công thức sai số chuẩn trong chú thích (σ/√n), công thức biên sai số ở chú thích cuối chương số 2 (lớp chữ hiện "∑" thay cho dấu căn), biên sai số cho 1.000 người (100/√1.000), và √m, √497 ở mục số vụ giết người đều bị mất hoặc hỏng; người tổng hợp khôi phục theo ngữ cảnh và bảng thuật ngữ cuối sách. Bảng 9.1 (Table 9.1) chỉ có ở dạng ảnh; số được chép từ ảnh. Dưới bảng có một dấu sao không khớp với chú thích nào trong danh sách chú thích của sách (chín dấu sao trong chương nhưng chỉ tám chú thích); người tổng hợp không xác định được nội dung của nó.
-> - **Danh sách chú thích dấu sao trong file chương bị lệch:** danh sách đi kèm chương trong bộ chữ trích ra thực chất thuộc Chương 11. Tám chú thích đúng của Chương 9 đã được lấy từ danh sách footnote toàn sách và đưa vào đúng chỗ.
-> - **Các phép tính đã tự kiểm tra (đều đúng):** 0,8 × 0,8 = 0,64; 0,2 × 0,2 = 0,04; 1 − 0,64 − 0,04 = 0,32; 31/9 = 3,4 lần; rủi ro trung bình 0,000176 tương ứng 17,6 ca tử vong trên 100.000 dân; √497 = 22,3; 1,96 × 22,3 = 43,7; 497 ± 43,7 = 453,3 đến 540,7; √557 = 23,6, 557 ± 46,3 = 511 đến 603; sai số chuẩn của hiệu √(497 + 557) = 32,5, khoảng 60 ± 63,6 = −4 đến +124; 100/√1.000 = 3,2; 2 × √(0,4 × 0,6 / 1.000) = 3,1 điểm phần trăm, nên 40 ± 3% cho 37%–43%; 0,33 ± 1,96 × 0,05 khớp khoảng 0,23–0,42 (với số chưa làm tròn).
-> - **Đồ thị không ghi số:** Figure 9.1 (phân phối nhị thức), Figure 9.2 (biểu đồ phễu ung thư ruột), Figure 9.3 (thăm dò bầu cử Anh 2017) và Figure 9.4 (số vụ giết người theo năm, 1997–2016) đều không ghi số trên điểm hay cột. Mọi số đọc từ trục trong bản tổng hợp là **ước lượng**; riêng các giá trị của phân phối nhị thức và giới hạn của biểu đồ phễu, người tổng hợp tính lại bằng công thức. Trên biểu đồ phễu còn có một chấm nằm đúng gốc toạ độ (dân số 0, tỷ lệ 0), nhiều khả năng là chấm thừa khi vẽ.
+Spiegelhalter muốn người đọc hiểu rằng **một thống kê tóm tắt từ mẫu cũng là một biến ngẫu nhiên có phân phối xác suất riêng (phân phối mẫu); lý thuyết xác suất — đặc biệt định lý giới hạn trung tâm — cho biết phân phối này gần chuẩn với độ rộng (sai số chuẩn) thu hẹp khi mẫu lớn lên; đảo ngược lập luận ta có khoảng tin cậy 95%, tức tập các giá trị tham số mà với chúng thống kê quan sát được là một hệ quả hợp lý; nhưng khoảng này chỉ đúng khi giả định đúng, không chứa sai số hệ thống, và vẫn tính được cả khi ta đã có toàn bộ dữ liệu.**
+
+Phần mở đầu dùng tỷ lệ người thuận tay trái (20% trong tổng thể) để minh hoạ phân phối nhị thức của tỷ lệ quan sát trong mẫu 1, 2, 5, 10, 100 và 1.000 người: trung bình luôn là 0,2, phân phối ngày càng hẹp và ngày càng giống hình chuông. Ví dụ ung thư ruột cho thấy "chênh lệch gấp ba lần" giữa các quận ở Anh (9 so với 31 ca tử vong trên 100.000 dân) hoàn toàn do may rủi: trên biểu đồ phễu, mọi quận trừ Glasgow City nằm trong giới hạn kiểm soát.
+
+Mục "The Central Limit Theorem" trình bày luật số lớn (Bernoulli), ngụy biện của con bạc, và định lý giới hạn trung tâm (de Moivre, 1733), kèm lời ca ngợi của Galton. Mục "How Does This Theory Help…" phân biệt bất định ngẫu nhiên (trước khi tung đồng xu) và bất định nhận thức (sau khi tung nhưng chưa xem), rồi nêu quy trình dựng khoảng tin cậy.
+
+Mục "Calculating Confidence Intervals" so khoảng "chính xác" với khoảng bootstrap cho hệ số hồi quy chiều cao mẹ – con gái (0,23–0,42 so với 0,22–0,44). Mục "Margins of Error from Surveys" đưa quy tắc biên sai số tối đa ±100/√n phần trăm (±3% với 1.000 người).
+
+Mục "Should We Believe Margins of Error?" cho thấy các thăm dò bầu cử Anh 2017 dao động vượt xa ±3%, tác giả khuyên nhân đôi biên sai số, và giới đo lường học tách sai số loại A (thống kê) và loại B (hệ thống).
+
+Mục cuối dựng khoảng tin cậy Poisson cho số vụ giết người ở Anh và xứ Wales: 497 ± 43,7 cho 2014–2015, và khoảng cho mức tăng 60 vụ là −4 đến +124, vừa đủ chứa số 0.
 
 ## Sơ đồ
 
@@ -292,7 +291,9 @@ Câu hỏi mở đầu: trong một mẫu ngẫu nhiên 100 người, có 20 ng�
 
 Chương 8 đã bàn về biến ngẫu nhiên — một điểm dữ liệu đơn lẻ rút từ một phân phối xác suất được mô tả bằng các tham số. Nhưng ta hiếm khi chỉ quan tâm một điểm dữ liệu: thường ta có cả một khối dữ liệu và tóm tắt nó bằng trung bình, trung vị và các thống kê khác. Bước căn bản của chương này là **coi chính các thống kê đó là biến ngẫu nhiên, rút từ phân phối của riêng chúng**. Đây là một bước tiến lớn, đã làm khó nhiều thế hệ sinh viên thống kê, và cả nhiều thế hệ nhà thống kê đã cố tìm xem nên giả định các thống kê này được rút từ phân phối nào.
 
-Sau phần bootstrap ở Chương 7, có thể hỏi: cần gì cả đống toán này, khi ta tính được khoảng bất định bằng bootstrap mô phỏng? Chẳng hạn, câu hỏi mở đầu có thể trả lời bằng cách lấy dữ liệu quan sát (20 người thuận tay trái, 80 người thuận tay phải), lặp đi lặp lại việc lấy lại 100 quan sát từ tập này có hoàn lại, và xem phân phối của tỷ lệ thuận tay trái quan sát được. Nhưng mô phỏng như vậy vụng về và tốn thời gian, nhất là với tập dữ liệu lớn, và trong những tình huống phức tạp hơn thì không dễ biết phải mô phỏng cái gì. Ngược lại, công thức suy ra từ lý thuyết xác suất vừa cho hiểu biết vừa tiện lợi, và luôn cho cùng một đáp án vì không phụ thuộc vào một lần mô phỏng cụ thể. Mặt trái là lý thuyết này dựa trên giả định, và ta phải cẩn thận để không bị đại số ấn tượng dẫn tới những kết luận thiếu căn cứ. Sau phân phối chuẩn và phân phối Poisson, cần giới thiệu thêm một phân phối xác suất quan trọng.
+Sau phần bootstrap ở Chương 7, có thể hỏi: cần gì cả đống toán này, khi ta tính được khoảng bất định bằng bootstrap mô phỏng? Chẳng hạn, câu hỏi mở đầu có thể trả lời bằng cách lấy dữ liệu quan sát (20 người thuận tay trái, 80 người thuận tay phải), lặp đi lặp lại việc lấy lại 100 quan sát từ tập này có hoàn lại, và xem phân phối của tỷ lệ thuận tay trái quan sát được. Nhưng mô phỏng như vậy vụng về và tốn thời gian, nhất là với tập dữ liệu lớn, và trong những tình huống phức tạp hơn thì không dễ biết phải mô phỏng cái gì.
+
+Ngược lại, công thức suy ra từ lý thuyết xác suất vừa cho hiểu biết vừa tiện lợi, và luôn cho cùng một đáp án vì không phụ thuộc vào một lần mô phỏng cụ thể. Mặt trái là lý thuyết này dựa trên giả định, và ta phải cẩn thận để không bị đại số ấn tượng dẫn tới những kết luận thiếu căn cứ. Sau phân phối chuẩn và phân phối Poisson, cần giới thiệu thêm một phân phối xác suất quan trọng.
 
 **Đi theo chiều "ngược".** Giả sử rút các mẫu có cỡ khác nhau từ một tổng thể có đúng 20% người thuận tay trái và 80% người thuận tay phải, và tính xác suất quan sát được các tỷ lệ thuận tay trái khác nhau. Tất nhiên đây là chiều ngược với điều ta muốn — ta muốn dùng mẫu đã biết để tìm hiểu tổng thể chưa biết — nhưng chỉ có thể tới được kết luận đó bằng cách trước hết tìm hiểu một tổng thể đã biết sinh ra các mẫu khác nhau thế nào.
 
@@ -302,7 +303,7 @@ Sau phần bootstrap ở Chương 7, có thể hỏi: cần gì cả đống to�
 
 Công thức (theo bảng thuật ngữ cuối sách): với n phép thử Bernoulli độc lập, mỗi phép thử có xác suất thành công p, tổng số thành công R có phân phối nhị thức với trung bình np và phương sai np(1 − p); tỷ lệ quan sát R/n có trung bình p và phương sai p(1 − p)/n, nên là một ước lượng của p với sai số chuẩn √(p(1 − p)/n).
 
-**Hình: Phân phối xác suất của tỷ lệ thuận tay trái quan sát được trong mẫu ngẫu nhiên 1, 2, 5, 10, 100 và 1.000 người, khi tỷ lệ thật là 0,2 (Figure 9.1 trong sách).** Hình gồm sáu đồ thị cột, trục hoành là tỷ lệ thuận tay trái (0 đến 1), trục tung là xác suất. Hình không ghi số trên cột; bảng dưới do người tổng hợp tính lại bằng công thức nhị thức, và khớp với chiều cao cột đọc được trên hình (trừ lỗi ở ô mẫu 2 người, xem khối Lưu ý).
+**Hình: Phân phối xác suất của tỷ lệ thuận tay trái quan sát được trong mẫu ngẫu nhiên 1, 2, 5, 10, 100 và 1.000 người, khi tỷ lệ thật là 0,2 (Figure 9.1 trong sách).** Hình gồm sáu đồ thị cột, trục hoành là tỷ lệ thuận tay trái (0 đến 1), trục tung là xác suất. Hình không ghi số trên cột; bảng dưới do người tổng hợp tính lại bằng công thức nhị thức, và khớp với chiều cao cột đọc được trên hình (trừ lỗi ở ô mẫu 2 người, xem mục Lưu ý cuối chương).
 
 | Cỡ mẫu | Các giá trị tỷ lệ và xác suất | Sai số chuẩn √(0,16/n) | Xác suất có ít nhất 30% thuận tay trái |
 |---:|---|---:|---:|
@@ -329,7 +330,9 @@ Tháng 9/2011, trang tin BBC uy tín đưa tiêu đề đáng báo động: "Ch�
 
 Chênh lệch gấp ba nghe rất kịch tính. Khi đọc bài báo, blogger Paul Barden tự hỏi: "Người dân ở các vùng khác nhau có thật sự đối mặt với chênh lệch lớn và quan trọng như vậy về rủi ro chết vì ung thư ruột? Điều gì có thể gây ra sự khác biệt đó?" Thấy điều này khó tin, ông quyết định tìm hiểu. Đáng khen là dữ liệu được công khai trên mạng, và ông thấy nó đúng là xác nhận điều BBC viết: năm 2008, tỷ lệ tử vong hằng năm chênh nhau hơn ba lần, từ 9 trên 100.000 dân ở Rossendale (Lancashire) tới 31 trên 100.000 dân ở Glasgow City (31/9 = 3,4 lần). (Chú thích cuối chương dẫn blog gốc của Paul Barden năm 2011 và trang tải dữ liệu.)
 
-Nhưng ông chưa dừng lại. Ông vẽ tỷ lệ tử vong theo dân số của từng quận, và thấy các điểm (trừ trường hợp cực đoan Glasgow City) tạo thành một dạng phễu: dân số càng nhỏ, chênh lệch giữa các quận càng lớn. Sau đó ông thêm các **giới hạn kiểm soát**, cho biết các điểm dự kiến rơi vào đâu nếu khác biệt giữa các tỷ lệ quan sát chỉ do biến thiên tự nhiên, không tránh được trong số người chết vì ung thư ruột mỗi năm, chứ không do khác biệt có hệ thống về rủi ro nền giữa các quận. Giới hạn kiểm soát có được bằng cách giả định số ca tử vong do ung thư ruột ở mỗi vùng là một quan sát từ phân phối nhị thức, với cỡ mẫu bằng dân số trưởng thành của vùng và xác suất 0,000176 để một người bất kỳ chết vì ung thư ruột mỗi năm — rủi ro cá nhân trung bình của cả nước (tức 17,6 ca trên 100.000 người). Hai cặp giới hạn được đặt để chứa 95% và 99,8% phân phối xác suất. Loại đồ thị này gọi là **biểu đồ phễu**; nó được dùng rộng rãi khi xem xét nhiều cơ quan y tế hay tổ chức, vì cho phép nhận diện đơn vị bất thường mà không tạo ra những bảng xếp hạng giả tạo. (Theo bảng thuật ngữ cuối sách: khi phân phối xấp xỉ chuẩn, giới hạn 95% và 99,8% về bản chất là trung bình ± 2 và ± 3 sai số chuẩn.)
+Nhưng ông chưa dừng lại. Ông vẽ tỷ lệ tử vong theo dân số của từng quận, và thấy các điểm (trừ trường hợp cực đoan Glasgow City) tạo thành một dạng phễu: dân số càng nhỏ, chênh lệch giữa các quận càng lớn. Sau đó ông thêm các **giới hạn kiểm soát**, cho biết các điểm dự kiến rơi vào đâu nếu khác biệt giữa các tỷ lệ quan sát chỉ do biến thiên tự nhiên, không tránh được trong số người chết vì ung thư ruột mỗi năm, chứ không do khác biệt có hệ thống về rủi ro nền giữa các quận.
+
+Giới hạn kiểm soát có được bằng cách giả định số ca tử vong do ung thư ruột ở mỗi vùng là một quan sát từ phân phối nhị thức, với cỡ mẫu bằng dân số trưởng thành của vùng và xác suất 0,000176 để một người bất kỳ chết vì ung thư ruột mỗi năm — rủi ro cá nhân trung bình của cả nước (tức 17,6 ca trên 100.000 người). Hai cặp giới hạn được đặt để chứa 95% và 99,8% phân phối xác suất. Loại đồ thị này gọi là **biểu đồ phễu**; nó được dùng rộng rãi khi xem xét nhiều cơ quan y tế hay tổ chức, vì cho phép nhận diện đơn vị bất thường mà không tạo ra những bảng xếp hạng giả tạo. (Theo bảng thuật ngữ cuối sách: khi phân phối xấp xỉ chuẩn, giới hạn 95% và 99,8% về bản chất là trung bình ± 2 và ± 3 sai số chuẩn.)
 
 **Hình: Tỷ lệ tử vong do ung thư ruột hằng năm trên 100.000 dân ở 380 quận của Anh, theo dân số quận (Figure 9.2 trong sách).** Trục hoành là dân số tính bằng trăm nghìn người (0 đến 12), trục tung là tỷ lệ tử vong trên 100.000 dân (0 đến khoảng 32). Hình không ghi số; mô tả dưới đây là ước lượng đọc từ trục, còn giới hạn kiểm soát do người tổng hợp tính lại bằng xấp xỉ chuẩn và khớp với các đường trên hình.
 
@@ -359,9 +362,15 @@ Biểu đồ cho thấy quan sát đáng chú ý duy nhất là điểm ngoại 
 
 Các điểm dữ liệu riêng lẻ có thể rút từ đủ loại phân phối tổng thể, một số rất lệch, với đuôi dài như phân phối thu nhập hay số bạn tình. Nhưng ta đã chuyển hẳn sang xét phân phối của các thống kê thay vì của các điểm dữ liệu riêng lẻ, và các thống kê này thường là một kiểu trung bình nào đó. Chương 7 đã cho thấy phân phối của trung bình mẫu qua các mẫu bootstrap có xu hướng tiến tới một hình dạng đối xứng, đều đặn, bất kể phân phối gốc của dữ liệu có hình dạng gì. Giờ ta có thể đi xa hơn, tới một ý tưởng sâu sắc và khá đáng chú ý được xác lập khoảng 300 năm trước.
 
-**Luật số lớn.** Ví dụ thuận tay trái cho thấy biến thiên của tỷ lệ quan sát nhỏ dần khi cỡ mẫu tăng — đó là lý do phễu ung thư ruột hẹp dần quanh trung bình. Đây là **luật số lớn** kinh điển, được nhà toán học Thuỵ Sĩ Jacob Bernoulli xác lập đầu thế kỷ 18. Một lần tung đồng xu, nhận giá trị 1 nếu ra ngửa và 0 nếu ra sấp, được gọi là một phép thử Bernoulli với một phân phối Bernoulli. Nếu cứ tung một đồng xu cân, làm ngày càng nhiều phép thử Bernoulli, tỷ lệ mỗi kết quả sẽ ngày càng gần 50% ngửa và 50% sấp — ta nói tỷ lệ quan sát **hội tụ** về cơ hội thật ra mặt ngửa. Tất nhiên, ở đầu chuỗi, tỷ lệ có thể còn xa 50:50, chẳng hạn sau một loạt mặt ngửa, và người ta dễ tin rằng giờ thì mặt sấp "đến lượt" để tỷ lệ cân bằng lại — đó là **ngụy biện của con bạc**, một thiên lệch tâm lý mà (theo kinh nghiệm cá nhân của tác giả) khá khó vượt qua. Nhưng đồng xu không có trí nhớ; ý then chốt là đồng xu không thể *bù* cho sự mất cân bằng trong quá khứ, mà chỉ *nhấn chìm* nó bằng ngày càng nhiều lần tung mới, độc lập.
+**Luật số lớn.** Ví dụ thuận tay trái cho thấy biến thiên của tỷ lệ quan sát nhỏ dần khi cỡ mẫu tăng — đó là lý do phễu ung thư ruột hẹp dần quanh trung bình. Đây là **luật số lớn** kinh điển, được nhà toán học Thuỵ Sĩ Jacob Bernoulli xác lập đầu thế kỷ 18. Một lần tung đồng xu, nhận giá trị 1 nếu ra ngửa và 0 nếu ra sấp, được gọi là một phép thử Bernoulli với một phân phối Bernoulli. Nếu cứ tung một đồng xu cân, làm ngày càng nhiều phép thử Bernoulli, tỷ lệ mỗi kết quả sẽ ngày càng gần 50% ngửa và 50% sấp — ta nói tỷ lệ quan sát **hội tụ** về cơ hội thật ra mặt ngửa.
 
-**Định lý giới hạn trung tâm.** Chương 3 đã giới thiệu "đường cong hình chuông" kinh điển, còn gọi là phân phối chuẩn hay phân phối Gauss, và cho thấy nó mô tả tốt phân phối cân nặng sơ sinh ở Mỹ, với lập luận rằng cân nặng sơ sinh phụ thuộc vào vô số yếu tố, mỗi yếu tố có ảnh hưởng nhỏ — cộng tất cả các tác động nhỏ đó lại ta được một phân phối chuẩn. Đó là lập luận nằm sau cái gọi là **định lý giới hạn trung tâm**, được nhà toán học Pháp Abraham de Moivre chứng minh lần đầu năm 1733 cho trường hợp riêng của phân phối nhị thức. Nhưng không chỉ phân phối nhị thức tiến tới đường cong chuẩn khi cỡ mẫu tăng: một sự thật đáng chú ý là gần như *bất kể* hình dạng phân phối tổng thể mà các phép đo ban đầu được rút từ đó, với cỡ mẫu lớn, trung bình của chúng có thể coi như rút từ một đường cong chuẩn. (Chú thích của tác giả: có những ngoại lệ quan trọng — một số phân phối có đuôi dài, "nặng" đến mức kỳ vọng và độ lệch chuẩn của chúng không tồn tại, nên trung bình chẳng có gì để hội tụ tới. Theo hiểu biết của người tổng hợp, ví dụ kinh điển là phân phối Cauchy.) Phân phối chuẩn này có trung bình bằng trung bình của phân phối gốc, và độ lệch chuẩn có quan hệ đơn giản với độ lệch chuẩn của phân phối tổng thể gốc, thường được gọi là sai số chuẩn. (Chú thích của tác giả: nếu có thể giả định mọi quan sát độc lập và đến từ cùng một phân phối tổng thể, sai số chuẩn của trung bình chúng đúng bằng độ lệch chuẩn của phân phối tổng thể chia cho căn bậc hai của cỡ mẫu. Theo bảng thuật ngữ: n quan sát độc lập, mỗi quan sát có trung bình μ và phương sai σ², thì trung bình mẫu có phân phối xấp xỉ chuẩn với trung bình μ, phương sai σ²/n và độ lệch chuẩn σ/√n.)
+Tất nhiên, ở đầu chuỗi, tỷ lệ có thể còn xa 50:50, chẳng hạn sau một loạt mặt ngửa, và người ta dễ tin rằng giờ thì mặt sấp "đến lượt" để tỷ lệ cân bằng lại — đó là **ngụy biện của con bạc**, một thiên lệch tâm lý mà (theo kinh nghiệm cá nhân của tác giả) khá khó vượt qua. Nhưng đồng xu không có trí nhớ; ý then chốt là đồng xu không thể *bù* cho sự mất cân bằng trong quá khứ, mà chỉ *nhấn chìm* nó bằng ngày càng nhiều lần tung mới, độc lập.
+
+**Định lý giới hạn trung tâm.** Chương 3 đã giới thiệu "đường cong hình chuông" kinh điển, còn gọi là phân phối chuẩn hay phân phối Gauss, và cho thấy nó mô tả tốt phân phối cân nặng sơ sinh ở Mỹ, với lập luận rằng cân nặng sơ sinh phụ thuộc vào vô số yếu tố, mỗi yếu tố có ảnh hưởng nhỏ — cộng tất cả các tác động nhỏ đó lại ta được một phân phối chuẩn. Đó là lập luận nằm sau cái gọi là **định lý giới hạn trung tâm**, được nhà toán học Pháp Abraham de Moivre chứng minh lần đầu năm 1733 cho trường hợp riêng của phân phối nhị thức.
+
+Nhưng không chỉ phân phối nhị thức tiến tới đường cong chuẩn khi cỡ mẫu tăng: một sự thật đáng chú ý là gần như *bất kể* hình dạng phân phối tổng thể mà các phép đo ban đầu được rút từ đó, với cỡ mẫu lớn, trung bình của chúng có thể coi như rút từ một đường cong chuẩn. (Chú thích của tác giả: có những ngoại lệ quan trọng — một số phân phối có đuôi dài, "nặng" đến mức kỳ vọng và độ lệch chuẩn của chúng không tồn tại, nên trung bình chẳng có gì để hội tụ tới. Theo hiểu biết của người tổng hợp, ví dụ kinh điển là phân phối Cauchy.) Phân phối chuẩn này có trung bình bằng trung bình của phân phối gốc, và độ lệch chuẩn có quan hệ đơn giản với độ lệch chuẩn của phân phối tổng thể gốc, thường được gọi là sai số chuẩn.
+
+(Chú thích của tác giả: nếu có thể giả định mọi quan sát độc lập và đến từ cùng một phân phối tổng thể, sai số chuẩn của trung bình chúng đúng bằng độ lệch chuẩn của phân phối tổng thể chia cho căn bậc hai của cỡ mẫu. Theo bảng thuật ngữ: n quan sát độc lập, mỗi quan sát có trung bình μ và phương sai σ², thì trung bình mẫu có phân phối xấp xỉ chuẩn với trung bình μ, phương sai σ²/n và độ lệch chuẩn σ/√n.)
 
 Ngoài công trình về trí tuệ đám đông, tương quan, hồi quy và gần như mọi thứ khác, Francis Galton còn coi việc phân phối chuẩn — khi đó gọi là **Luật Tần suất Sai số** (Law of Frequency of Error) — xuất hiện một cách trật tự từ sự hỗn loạn bề ngoài là một điều kỳ diệu thực sự. Ông viết (dịch):
 
@@ -377,7 +386,9 @@ Toàn bộ lý thuyết trên dùng tốt để chứng minh các điều về p
 
 Bài tập đơn giản này cho thấy một phân biệt lớn giữa hai loại bất định: **bất định ngẫu nhiên** (aleatory uncertainty) *trước khi* tung đồng xu — "cơ hội" của một biến cố không đoán trước được — và **bất định nhận thức** (epistemic uncertainty) *sau khi* tung — sự diễn đạt cho việc ta không biết về một biến cố đã cố định nhưng chưa biết. Cũng như khác biệt giữa vé số (kết quả phụ thuộc may rủi) và thẻ cào (kết quả đã định sẵn, chỉ là bạn chưa biết).
 
-Thống kê được dùng khi ta có bất định nhận thức về một đại lượng nào đó của thế giới. Ví dụ, ta làm điều tra khi không biết tỷ lệ thật những người trong tổng thể tự coi mình theo đạo, hay làm thử nghiệm dược phẩm khi không biết tác dụng trung bình thật của một loại thuốc. Những đại lượng cố định nhưng chưa biết này gọi là **tham số** và thường được ký hiệu bằng chữ cái Hy Lạp. (Chú thích của tác giả: những người theo thống kê Bayes sẵn lòng dùng xác suất cho bất định nhận thức về tham số — chú thích ghi sẽ bàn ở Chương 12, nhưng thực ra là Chương 11.) Giống như trò đồng xu, *trước khi* làm các thí nghiệm này, ta có bất định ngẫu nhiên về kết quả, do việc chọn mẫu ngẫu nhiên các cá nhân hay phân bổ ngẫu nhiên bệnh nhân vào nhóm dùng thuốc hoặc viên giả dược. Rồi *sau khi* làm nghiên cứu và có dữ liệu, ta dùng chính mô hình xác suất đó để nắm bắt bất định nhận thức hiện tại, giống như cuối cùng bạn sẵn lòng nói "50:50" về đồng xu bị che. Vậy lý thuyết xác suất, vốn cho biết điều gì dự kiến xảy ra trong tương lai, được dùng để cho biết ta học được gì từ những điều đã quan sát trong quá khứ. Đây là nền tảng (khá đáng chú ý) của suy luận thống kê.
+Thống kê được dùng khi ta có bất định nhận thức về một đại lượng nào đó của thế giới. Ví dụ, ta làm điều tra khi không biết tỷ lệ thật những người trong tổng thể tự coi mình theo đạo, hay làm thử nghiệm dược phẩm khi không biết tác dụng trung bình thật của một loại thuốc. Những đại lượng cố định nhưng chưa biết này gọi là **tham số** và thường được ký hiệu bằng chữ cái Hy Lạp. (Chú thích của tác giả: những người theo thống kê Bayes sẵn lòng dùng xác suất cho bất định nhận thức về tham số — chú thích ghi sẽ bàn ở Chương 12, nhưng thực ra là Chương 11.) Giống như trò đồng xu, *trước khi* làm các thí nghiệm này, ta có bất định ngẫu nhiên về kết quả, do việc chọn mẫu ngẫu nhiên các cá nhân hay phân bổ ngẫu nhiên bệnh nhân vào nhóm dùng thuốc hoặc viên giả dược.
+
+Rồi *sau khi* làm nghiên cứu và có dữ liệu, ta dùng chính mô hình xác suất đó để nắm bắt bất định nhận thức hiện tại, giống như cuối cùng bạn sẵn lòng nói "50:50" về đồng xu bị che. Vậy lý thuyết xác suất, vốn cho biết điều gì dự kiến xảy ra trong tương lai, được dùng để cho biết ta học được gì từ những điều đã quan sát trong quá khứ. Đây là nền tảng (khá đáng chú ý) của suy luận thống kê.
 
 **Quy trình dựng khoảng bất định.** Cách tìm một khoảng bất định quanh ước lượng, hay tương đương là một biên sai số, dựa trên ý tưởng nền tảng này. Sách nói có "ba giai đoạn" nhưng liệt kê bốn mục (mục 4 là lời giải thích tên gọi):
 
@@ -390,7 +401,9 @@ Tác giả hỏi: "Rõ chưa?" Nếu chưa, xin yên tâm rằng bạn đã gia 
 
 ### 5. Tính khoảng tin cậy (Calculating Confidence Intervals, trang PDF 166–167)
 
-Theo sách, nguyên lý khoảng tin cậy được hình thức hoá trong thập niên 1930 tại University College London bởi Jerzy Neyman, nhà toán học và thống kê xuất sắc người Ba Lan, và Egon Pearson, con trai của Karl Pearson. (Chú thích của tác giả: ông có vinh hạnh quen biết cả hai khi họ đã cao tuổi.) Công việc suy ra các phân phối xác suất cần thiết cho hệ số tương quan và hệ số hồi quy ước lượng đã diễn ra hàng chục năm trước đó, và trong các khóa thống kê học thuật chuẩn, chi tiết toán học của các phân phối này được trình bày, thậm chí được suy ra từ các nguyên lý đầu tiên. May là kết quả của mọi công sức đó nay đã được gói trong phần mềm thống kê, nên người làm nghề có thể tập trung vào những vấn đề cốt lõi mà không bị các công thức phức tạp làm phân tâm.
+Theo sách, nguyên lý khoảng tin cậy được hình thức hoá trong thập niên 1930 tại University College London bởi Jerzy Neyman, nhà toán học và thống kê xuất sắc người Ba Lan, và Egon Pearson, con trai của Karl Pearson. (Chú thích của tác giả: ông có vinh hạnh quen biết cả hai khi họ đã cao tuổi.) Công việc suy ra các phân phối xác suất cần thiết cho hệ số tương quan và hệ số hồi quy ước lượng đã diễn ra hàng chục năm trước đó, và trong các khóa thống kê học thuật chuẩn, chi tiết toán học của các phân phối này được trình bày, thậm chí được suy ra từ các nguyên lý đầu tiên.
+
+May là kết quả của mọi công sức đó nay đã được gói trong phần mềm thống kê, nên người làm nghề có thể tập trung vào những vấn đề cốt lõi mà không bị các công thức phức tạp làm phân tâm.
 
 Chương 7 đã dùng bootstrap để có khoảng 95% cho độ dốc của hồi quy chiều cao con gái theo chiều cao mẹ của Galton. Lấy khoảng "chính xác" dựa trên lý thuyết xác suất, có sẵn trong phần mềm thông dụng, dễ hơn nhiều, và hai cách cho kết quả rất gần nhau:
 
@@ -554,7 +567,9 @@ Một thống kê tóm tắt tính từ mẫu là một biến ngẫu nhiên có
 
 ### Trong ngôn ngữ thống kê
 
-Chương trình bày nền tảng của suy luận theo trường phái tần suất (frequentist): phân phối mẫu của ước lượng; phân phối Bernoulli và nhị thức (E(R/n) = p, SE = √(p(1 − p)/n)); luật số lớn (hội tụ của trung bình mẫu về μ); định lý giới hạn trung tâm (X̄ xấp xỉ N(μ, σ²/n)); khoảng tin cậy Neyman với tính chất bao phủ (coverage) 95% trong lặp lại; khoảng xấp xỉ Wald: ước lượng ± 1,96 SE, với SE được thay bằng giá trị ước tính (plug-in) như √497 cho Poisson; khoảng cho hiệu hai ước lượng độc lập với SE = √(SE₁² + SE₂²); biên sai số tối đa cho tỷ lệ 1/√n; biểu đồ phễu như một biểu đồ kiểm soát thống kê với giới hạn ± 2 và ± 3 SE (95% và 99,8%). Chương cũng đặt ra phân biệt giữa bất định ngẫu nhiên và bất định nhận thức, và phân biệt sai số ngẫu nhiên (loại A) với sai số hệ thống (loại B) theo chuẩn đo lường học.
+Chương trình bày nền tảng của suy luận theo trường phái tần suất (frequentist): phân phối mẫu của ước lượng; phân phối Bernoulli và nhị thức (E(R/n) = p, SE = √(p(1 − p)/n)); luật số lớn (hội tụ của trung bình mẫu về μ); định lý giới hạn trung tâm (X̄ xấp xỉ N(μ, σ²/n)); khoảng tin cậy Neyman với tính chất bao phủ (coverage) 95% trong lặp lại; khoảng xấp xỉ Wald: ước lượng ± 1,96 SE, với SE được thay bằng giá trị ước tính (plug-in) như √497 cho Poisson; khoảng cho hiệu hai ước lượng độc lập với SE = √(SE₁² + SE₂²); biên sai số tối đa cho tỷ lệ 1/√n; biểu đồ phễu như một biểu đồ kiểm soát thống kê với giới hạn ± 2 và ± 3 SE (95% và 99,8%).
+
+Chương cũng đặt ra phân biệt giữa bất định ngẫu nhiên và bất định nhận thức, và phân biệt sai số ngẫu nhiên (loại A) với sai số hệ thống (loại B) theo chuẩn đo lường học.
 
 ## Thuật ngữ
 
@@ -630,11 +645,13 @@ Chương không dừng ở công thức mà đi thẳng vào những chỗ kho�
 - Chương thừa nhận là khó, và bước "đảo chiều" (giai đoạn 3) vẫn được trình bày chủ yếu bằng lời; không có ví dụ số minh hoạ việc tìm tập tham số mà khoảng dự báo chứa thống kê quan sát. Ngay cả câu hỏi mở đầu (20 người thuận tay trái trong 100) cũng không được trả lời bằng một khoảng cụ thể (nhận xét của người tổng hợp; khoảng xấp xỉ là 12%–28%).
 - Khoảng Poisson 497 ± 1,96√497 là xấp xỉ chuẩn với sai số chuẩn ước tính từ chính dữ liệu; với số đếm lớn cỡ vài trăm thì chấp nhận được, nhưng chương không lưu ý rằng với số đếm nhỏ (vài ca) cách này kém chính xác.
 - Giả định Poisson cho số vụ giết người cả năm bỏ qua khả năng biến động lớn hơn Poisson (quá phân tán) do các yếu tố hệ thống; nếu có, khoảng thật sẽ rộng hơn.
-- Một số lỗi biên tập: hình phân phối nhị thức với mẫu 2 người vẽ sai cột, "ba giai đoạn" liệt kê bốn, chú thích dẫn chiếu Chương 12 thay vì Chương 11 (xem khối Lưu ý).
+- Một số lỗi biên tập: hình phân phối nhị thức với mẫu 2 người vẽ sai cột, "ba giai đoạn" liệt kê bốn, chú thích dẫn chiếu Chương 12 thay vì Chương 11 (xem mục Lưu ý cuối chương).
 
 ### Những gì đã thay đổi từ 2019 (theo hiểu biết của người tổng hợp)
 
-Các vấn đề của thăm dò mà chương nêu tiếp tục nổi bật: nhiều công ty thăm dò chuyển hẳn sang bảng hỏi trực tuyến với mẫu lấy từ các nhóm người tham gia sẵn (panel) và trọng số hoá phức tạp, nên "biên sai số" theo nghĩa mẫu ngẫu nhiên càng khó áp dụng; một số hãng chuyển sang báo cáo "khoảng tin cậy" dựa trên mô hình. Cuộc tranh luận về cách hiểu và báo cáo khoảng tin cậy, giá trị P (tuyên bố của Hiệp hội Thống kê Mỹ năm 2016 và các đề xuất bỏ khái niệm "có ý nghĩa thống kê" năm 2019) tiếp tục, làm tăng giá trị cảnh báo của chương. Số liệu giết người ở Anh và xứ Wales sau 2015–2016 tiếp tục biến động; chính tác giả và ONS vẫn dùng cách tiếp cận khoảng tin cậy để bàn về xu hướng.
+Các vấn đề của thăm dò mà chương nêu tiếp tục nổi bật: nhiều công ty thăm dò chuyển hẳn sang bảng hỏi trực tuyến với mẫu lấy từ các nhóm người tham gia sẵn (panel) và trọng số hoá phức tạp, nên "biên sai số" theo nghĩa mẫu ngẫu nhiên càng khó áp dụng; một số hãng chuyển sang báo cáo "khoảng tin cậy" dựa trên mô hình.
+
+Cuộc tranh luận về cách hiểu và báo cáo khoảng tin cậy, giá trị P (tuyên bố của Hiệp hội Thống kê Mỹ năm 2016 và các đề xuất bỏ khái niệm "có ý nghĩa thống kê" năm 2019) tiếp tục, làm tăng giá trị cảnh báo của chương. Số liệu giết người ở Anh và xứ Wales sau 2015–2016 tiếp tục biến động; chính tác giả và ONS vẫn dùng cách tiếp cận khoảng tin cậy để bàn về xu hướng.
 
 ### Liên hệ các chương khác
 
@@ -651,3 +668,160 @@ Các vấn đề của thăm dò mà chương nêu tiếp tục nổi bật: nhi
 - **Cho người đọc báo:** khi thấy "vùng A có tỷ lệ gấp ba vùng B", hãy hỏi dân số (hoặc số ca) của từng vùng; khi thấy kết quả thăm dò chênh nhau 2–3 điểm, nhớ rằng biên sai số tối thiểu đã là ±3% và thực tế có thể ±6%; khi thấy "số vụ X tăng 12% so với năm trước", hỏi xem khoảng tin cậy cho mức tăng có chứa 0 không.
 - **Cho nhà phân tích:** luôn báo cáo ước lượng kèm sai số chuẩn hoặc khoảng tin cậy và ghi rõ mức (90%, 95%); dùng biểu đồ phễu thay cho bảng xếp hạng khi so sánh nhiều đơn vị khác cỡ; khi so sánh hai giá trị, tính khoảng cho hiệu thay vì chỉ nhìn hai khoảng chồng lấn; tách và nói rõ các nguồn sai số hệ thống (loại B) mà khoảng thống kê không phản ánh; với số đếm, kiểm tra xem dữ liệu có biến động lớn hơn Poisson không.
 - **Cho người làm chính sách:** đừng phân bổ nguồn lực hay "phạt" các đơn vị nhỏ chỉ vì kết quả cực đoan trong một năm; dùng giới hạn kiểm soát 99,8% để quyết định khi nào cần điều tra. Trước khi tuyên bố một chính sách làm giảm (hay tăng) tội phạm, tai nạn, tử vong, hãy yêu cầu khoảng tin cậy cho thay đổi và cân nhắc biến thiên tự nhiên giữa các năm.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: sáu nhánh đi theo thứ tự các mục của bản gốc (phần mở đầu về phân phối nhị thức, ví dụ biểu đồ phễu ung thư ruột, định lý giới hạn trung tâm, dựng khoảng tin cậy, biên sai số của điều tra, khoảng tin cậy khi đã có toàn bộ dữ liệu), mỗi nhánh ghi luận điểm, công thức và số liệu then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: thống kê từ mẫu là biến ngẫu nhiên — xác suất cho phân phối của nó, đảo chiều ra khoảng tin cậy`"]
+  n1["`Phần mở đầu chương — thống kê cũng là biến ngẫu nhiên, phân phối nhị thức`"]
+  n0 --- n1
+  n2["`Bước tiến căn bản: coi trung bình, tỷ lệ, hệ số hồi quy là biến ngẫu nhiên có phân phối mẫu riêng`"]
+  n1 --- n2
+  n3["`Vì sao không chỉ dùng bootstrap`"]
+  n1 --- n3
+  n4["`Mô phỏng vụng về, chậm với dữ liệu lớn, khó biết mô phỏng gì khi phức tạp`"]
+  n3 --- n4
+  n5["`Công thức xác suất cho hiểu biết, luôn cùng đáp án — nhưng dựa trên giả định`"]
+  n3 --- n5
+  n6["`Tổng thể 20% thuận tay trái, mẫu 1, 2, 5, 10, 100, 1000 người`"]
+  n1 --- n6
+  n7["`Mẫu 2 người: tỷ lệ 0, 0,5, 1 với xác suất 0,64, 0,32, 0,04`"]
+  n6 --- n7
+  n8["`Tỷ lệ quan sát có phân phối nhị thức, kỳ vọng luôn 0,2`"]
+  n6 --- n8
+  n9["`Sai số chuẩn √(0,2 × 0,8 / n) giảm từ 0,40 (n = 1) xuống 0,013 (n = 1000)`"]
+  n6 --- n9
+  n10["`Mẫu lớn dần: phân phối hẹp lại và thành hình chuông`"]
+  n6 --- n10
+  n11["`Sai số chuẩn là độ lệch chuẩn của một thống kê, khác độ lệch chuẩn của tổng thể`"]
+  n1 --- n11
+  n12["`Phần mở đầu chương, tiếp — chênh lệch gấp ba tử vong do ung thư ruột`"]
+  n0 --- n12
+  n13["`BBC 2011: Rossendale 9, Glasgow City 31 ca trên 100 000 dân mỗi năm`"]
+  n12 --- n13
+  n14["`Blogger Paul Barden vẽ 380 quận theo dân số và thấy hình phễu`"]
+  n12 --- n14
+  n15["`Biểu đồ phễu: giới hạn kiểm soát 95% và 99,8% từ phân phối nhị thức, rủi ro 0,000176 mỗi năm`"]
+  n12 --- n15
+  n16["`Mọi quận trừ Glasgow City nằm trong giới hạn — chênh lệch gấp ba đúng như may rủi tạo ra`"]
+  n12 --- n16
+  n17["`Rossendale chỉ có 7 ca tử vong, vài ca thêm là đổi hẳn tỷ lệ`"]
+  n12 --- n17
+  n18["`Bài học: quận nhỏ cho kết quả cực đoan, cần nguyên lý thống kê cả trong thời dữ liệu mở`"]
+  n12 --- n18
+  n19["`Mục The Central Limit Theorem — luật số lớn và định lý giới hạn trung tâm`"]
+  n0 --- n19
+  n20["`Luật số lớn (Jacob Bernoulli, đầu thế kỷ 18): tỷ lệ ngửa hội tụ về 50%`"]
+  n19 --- n20
+  n21["`Ngụy biện của con bạc: đồng xu không bù mất cân bằng cũ mà nhấn chìm nó bằng lần tung mới`"]
+  n19 --- n21
+  n22["`Định lý giới hạn trung tâm (de Moivre, 1733)`"]
+  n19 --- n22
+  n23["`Gần như bất kể phân phối gốc, trung bình mẫu lớn xấp xỉ phân phối chuẩn`"]
+  n22 --- n23
+  n24["`Trung bình bằng trung bình tổng thể, sai số chuẩn bằng σ/√n`"]
+  n22 --- n24
+  n25["`Ngoại lệ: phân phối đuôi quá nặng, không có kỳ vọng và độ lệch chuẩn`"]
+  n22 --- n25
+  n26["`Galton gọi phân phối chuẩn là “luật tối cao của Phi lý trí”`"]
+  n19 --- n26
+  n27["`Mục How Does This Theory Help và Calculating Confidence Intervals — khoảng tin cậy`"]
+  n0 --- n27
+  n28["`Phải đảo chiều: từ một mẫu suy về tổng thể có thể (suy luận quy nạp)`"]
+  n27 --- n28
+  n29["`Trò đồng xu bị che`"]
+  n27 --- n29
+  n30["`Trước khi tung: bất định ngẫu nhiên, như vé số chưa quay`"]
+  n29 --- n30
+  n31["`Sau khi tung chưa xem: bất định nhận thức, như thẻ cào đã in sẵn`"]
+  n29 --- n31
+  n32["`Thống kê dùng mô hình xác suất để diễn đạt bất định nhận thức về tham số`"]
+  n29 --- n32
+  n33["`Quy trình dựng khoảng tin cậy 95%`"]
+  n27 --- n33
+  n34["`Với mỗi giá trị tham số, tính khoảng dự báo 95% của thống kê`"]
+  n33 --- n34
+  n35["`Khoảng tin cậy là mọi giá trị tham số có khoảng dự báo chứa thống kê quan sát`"]
+  n33 --- n35
+  n36["`Gọi là 95% vì lặp lại quy trình thì 95% các khoảng chứa giá trị thật — không phải xác suất của một khoảng cụ thể`"]
+  n33 --- n36
+  n37["`Neyman và Egon Pearson hình thức hoá ở UCL thập niên 1930`"]
+  n27 --- n37
+  n38["`Hồi quy chiều cao mẹ – con gái: khoảng chính xác 0,23–0,42, bootstrap 0,22–0,44`"]
+  n27 --- n38
+  n39["`Quy ước: ước lượng ± 2 (chính xác 1,96) sai số chuẩn — Mỹ dùng 90% cho thất nghiệp, Anh 95%`"]
+  n27 --- n39
+  n40["`Mục Margins of Error from Surveys và Should We Believe Margins of Error — biên sai số`"]
+  n0 --- n40
+  n41["`Quy tắc nhanh: biên sai số tối đa ± 100/√n điểm phần trăm`"]
+  n40 --- n41
+  n42["`1000 người cho ± 3% — 400 trên 1000 thích cà phê thành 37% đến 43%`"]
+  n41 --- n42
+  n43["`Chỉ đúng nếu mẫu ngẫu nhiên, ai cũng trả lời, có ý kiến và nói thật`"]
+  n41 --- n43
+  n44["`Thăm dò bầu cử Anh 2017 dao động 6–10 điểm quanh xu hướng, vượt xa ± 3%`"]
+  n40 --- n44
+  n45["`Nguyên nhân: thăm dò điện thoại bàn, tỷ lệ trả lời chỉ 10–20%`"]
+  n40 --- n45
+  n46["`Quy tắc của tác giả: nhân đôi mọi biên sai số công bố của thăm dò`"]
+  n40 --- n46
+  n47["`Khoảng bất định của tốc độ ánh sáng nửa đầu thế kỷ 20 không chứa giá trị ngày nay`"]
+  n40 --- n47
+  n48["`Đo lường học: sai số loại A (thống kê, giảm khi thêm dữ liệu) và loại B (hệ thống, không giảm)`"]
+  n40 --- n48
+  n49["`Mục What Happens When We Have All the Data There Is — khoảng tin cậy cho số đếm đủ`"]
+  n0 --- n49
+  n50["`Đếm đủ vụ giết người là thống kê mô tả, nhưng hỏi xu hướng là suy luận về tỷ lệ nền`"]
+  n49 --- n50
+  n51["`Mô hình Poisson: tổng cả năm là một quan sát với sai số chuẩn √m`"]
+  n49 --- n51
+  n52["`2014–2015: 497 vụ, khoảng 95% từ 453 đến 541 — 2015–2016: 557 vụ, từ 511 đến 603`"]
+  n49 --- n52
+  n53["`Mức tăng 60 vụ có khoảng −4 đến +124, vừa đủ chứa 0 — chưa kết luận chắc có thay đổi`"]
+  n49 --- n53
+  n54["`Khoảng thất nghiệp nói về số thật chưa biết — khoảng giết người nói về rủi ro nền của xã hội`"]
+  n49 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Chương đặt toàn bộ nền tảng hình thức cho suy luận thống kê dựa trên mô hình xác suất`"]
+  n55 --- n56
+  n57["`Khoảng tin cậy chỉ đúng khi giả định đúng và không chứa sai số hệ thống`"]
+  n55 --- n57
+  n58["`Khoảng tin cậy vẫn có nghĩa khi đã có toàn bộ dữ liệu — về tham số của tổng thể ẩn dụ`"]
+  n55 --- n58
+  class n0 root
+  class n1,n12,n19,n27,n40,n49,n55 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 9 "Putting Probability and Statistics Together", trang PDF 159–173 (ebook không có số trang in; chú thích cuối chương và chú thích dấu sao nằm ở phần cuối sách; các công thức chương dẫn chiếu nằm ở bảng thuật ngữ cuối sách, trang PDF 247–259).
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) đo độ bất định của ước lượng bằng bootstrap, một cách mô phỏng không cần lý thuyết xác suất. Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) đưa vào các quy tắc xác suất, biến ngẫu nhiên, phân phối Poisson, và lập luận rằng có thể hành xử như thể dữ liệu được sinh ngẫu nhiên từ một tổng thể ẩn dụ.
+
+Chương 9 — theo tác giả, "có lẽ là chương khó nhất cuốn sách" — ghép hai mạch đó: coi chính các thống kê (trung bình, tỷ lệ, hệ số hồi quy) là biến ngẫu nhiên có phân phối riêng, dùng phân phối nhị thức, luật số lớn và định lý giới hạn trung tâm để suy ra phân phối đó, rồi "đảo chiều" để từ một mẫu suy ra khoảng tin cậy cho tham số tổng thể. Đây là nền móng hình thức của suy luận thống kê mà Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) dùng cho kiểm định giả thuyết và giá trị P; Chương 11 ([C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) đưa ra cách tiếp cận Bayes thay thế; Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) mở rộng lời cảnh báo của chương này rằng biên sai số không chứa sai số hệ thống.
+
+## Lưu ý
+
+- **Lỗi trong hình phân phối nhị thức với mẫu 2 người (Figure 9.1(b)):** lời văn và chú thích của tác giả đều ghi xác suất là 0,64 (cả hai thuận tay phải), 0,32 (một người mỗi loại) và 0,04 (cả hai thuận tay trái), nhưng trên hình cột ở giá trị 1,0 cao bằng cột ở 0,5 (khoảng 0,32), khiến tổng xác suất thành 1,28. Cột đúng phải cao 0,04. Bản tổng hợp dùng số đúng. Ngoài ra, ở hai ô mẫu 100 và 1.000 người, đỉnh phân phối trên hình trông hơi lệch về bên trái vạch 0,2 (khoảng 0,15 nếu đọc theo vạch chia); về lý thuyết đỉnh phải nằm đúng 0,2 — người tổng hợp không chắc đây là lỗi vẽ hay do cách đặt vạch chia của đồ thị.
+- **"Ba giai đoạn" nhưng liệt kê bốn bước:** sách viết quy trình dựng khoảng bất định "có ba giai đoạn" rồi liệt kê bốn mục; mục thứ tư thực ra không phải một bước mà là lời giải thích vì sao gọi là "95%". Bản tổng hợp giữ bốn mục và ghi rõ điều này.
+- **Dẫn chiếu sai chương trong chú thích:** chú thích dấu sao về tham số viết "chúng ta sẽ thấy ở Chương 12 rằng những người theo thống kê Bayes sẵn lòng dùng xác suất cho bất định nhận thức về tham số", nhưng suy luận Bayes được trình bày ở Chương 11 ("Learning from Experience the Bayesian Way"); Chương 12 bàn những điều có thể sai. Nhiều khả năng là lỗi đánh số.
+- **Nhận xét lịch sử (theo hiểu biết của người tổng hợp, không tra cứu):** sách nói nguyên lý khoảng tin cậy được Jerzy Neyman và Egon Pearson hình thức hoá ở UCL thập niên 1930. Thường người ta ghi công lý thuyết khoảng tin cậy cho riêng Neyman (bài báo năm 1937), còn cặp Neyman–Pearson nổi tiếng với lý thuyết kiểm định giả thuyết; cách viết của sách hơi gộp hai việc.
+- **Các công thức bị mất trong lớp chữ:** công thức sai số chuẩn trong chú thích (σ/√n), công thức biên sai số ở chú thích cuối chương số 2 (lớp chữ hiện "∑" thay cho dấu căn), biên sai số cho 1.000 người (100/√1.000), và √m, √497 ở mục số vụ giết người đều bị mất hoặc hỏng; người tổng hợp khôi phục theo ngữ cảnh và bảng thuật ngữ cuối sách. Bảng 9.1 (Table 9.1) chỉ có ở dạng ảnh; số được chép từ ảnh. Dưới bảng có một dấu sao không khớp với chú thích nào trong danh sách chú thích của sách (chín dấu sao trong chương nhưng chỉ tám chú thích); người tổng hợp không xác định được nội dung của nó.
+- **Danh sách chú thích dấu sao trong file chương bị lệch:** danh sách đi kèm chương trong bộ chữ trích ra thực chất thuộc Chương 11. Tám chú thích đúng của Chương 9 đã được lấy từ danh sách footnote toàn sách và đưa vào đúng chỗ.
+- **Các phép tính đã tự kiểm tra (đều đúng):** 0,8 × 0,8 = 0,64; 0,2 × 0,2 = 0,04; 1 − 0,64 − 0,04 = 0,32; 31/9 = 3,4 lần; rủi ro trung bình 0,000176 tương ứng 17,6 ca tử vong trên 100.000 dân; √497 = 22,3; 1,96 × 22,3 = 43,7; 497 ± 43,7 = 453,3 đến 540,7; √557 = 23,6, 557 ± 46,3 = 511 đến 603; sai số chuẩn của hiệu √(497 + 557) = 32,5, khoảng 60 ± 63,6 = −4 đến +124; 100/√1.000 = 3,2; 2 × √(0,4 × 0,6 / 1.000) = 3,1 điểm phần trăm, nên 40 ± 3% cho 37%–43%; 0,33 ± 1,96 × 0,05 khớp khoảng 0,23–0,42 (với số chưa làm tròn).
+- **Đồ thị không ghi số:** Figure 9.1 (phân phối nhị thức), Figure 9.2 (biểu đồ phễu ung thư ruột), Figure 9.3 (thăm dò bầu cử Anh 2017) và Figure 9.4 (số vụ giết người theo năm, 1997–2016) đều không ghi số trên điểm hay cột. Mọi số đọc từ trục trong bản tổng hợp là **ước lượng**; riêng các giá trị của phân phối nhị thức và giới hạn của biểu đồ phễu, người tổng hợp tính lại bằng công thức. Trên biểu đồ phễu còn có một chấm nằm đúng gốc toạ độ (dân số 0, tỷ lệ 0), nhiều khả năng là chấm thừa khi vẽ.

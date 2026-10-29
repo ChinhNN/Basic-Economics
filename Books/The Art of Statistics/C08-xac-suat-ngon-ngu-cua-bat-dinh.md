@@ -1,18 +1,20 @@
 # Chương 8 — Xác suất: ngôn ngữ của bất định và biến thiên (Probability—the Language of Uncertainty and Variability)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 8 "Probability—the Language of Uncertainty and Variability", trang PDF 144–158 (ebook không có số trang in; chú thích cuối chương và chú thích dấu sao nằm ở phần cuối sách).
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Bảy chương đầu cố ý đi xa nhất có thể mà không cần lý thuyết xác suất chính thức: Chương 1 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md)) và Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) bàn cách tóm tắt và truyền đạt số liệu; Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) đưa ra ý tưởng "rút ngẫu nhiên" từ một tổng thể, phân phối chuẩn, và khái niệm tổng thể ẩn dụ (metaphorical population) khi ta đã có toàn bộ dữ liệu; Chương 4–6 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md), [C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md), [C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)) bàn nhân quả, hồi quy và thuật toán; Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) dùng bootstrap (lấy mẫu lặp lại từ chính dữ liệu bằng máy tính) để đo độ bất định của ước lượng. Chương 8 là nơi lý thuyết xác suất chính thức lần đầu bước vào: nó đưa ra các quy tắc xác suất, xác suất có điều kiện, các cách hiểu khác nhau về "xác suất", và lập luận rằng xác suất áp dụng được cả khi dữ liệu không sinh ra từ một cơ chế ngẫu nhiên nào. Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) dùng nền móng này để suy ra phân phối của các thống kê, định lý giới hạn trung tâm và khoảng tin cậy; Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) dùng nó cho kiểm định giả thuyết (kể cả kiểm định xem phân phối Poisson trong chương này có hợp lý không); Chương 11 ([C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) phát triển cách hiểu xác suất chủ quan mà tác giả ưa chuộng thành suy luận Bayes.
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **xác suất là ngôn ngữ toán học chung cho hai thứ: tính ngẫu nhiên "thuần tuý" (đồng xu, xúc xắc, máy sinh số ngẫu nhiên) và biến thiên tự nhiên không tránh được của thế giới (cân nặng sơ sinh, số vụ giết người mỗi ngày, kết quả phẫu thuật); xác suất khó và phản trực giác thật, nhưng nghĩ theo "tần số kỳ vọng" — điều gì sẽ xảy ra với 4 lần tung, với 1.000 phụ nữ — giúp lập luận đúng; và ta có thể, thậm chí nên, hành xử "như thể" dữ liệu được sinh ngẫu nhiên kể cả khi biết rõ là không, vì cách làm này mô tả dữ liệu tốt đến kinh ngạc.** Mở đầu chương là bài toán cờ bạc của Chevalier de Méré ở Pháp thập niên 1650: thắng nếu tung một xúc xắc tối đa 4 lần ra mặt sáu (xác suất thắng khoảng 52%), hay tung hai xúc xắc tối đa 24 lần ra đôi sáu (khoảng 49%); câu hỏi của ông đưa Pascal và Fermat đến những bước đầu của lý thuyết xác suất. Mục "The Rules of Probability Made, Possibly, a Bit Simpler" dùng câu hỏi tung hai đồng xu (60 trong 97 nghị sĩ Anh năm 2012 trả lời sai) để giới thiệu cây tần số kỳ vọng, cây xác suất và bốn quy tắc: xác suất nằm giữa 0 và 1, quy tắc phần bù, quy tắc cộng (HOẶC) cho biến cố xung khắc, quy tắc nhân (VÀ) cho biến cố độc lập; mọi xác suất đều là có điều kiện. Mục "Conditional Probability" dùng ví dụ chụp X-quang tuyến vú chính xác 90% với tỷ lệ mắc 1%: trong 1.000 phụ nữ có 108 người dương tính, nhưng chỉ 9 người thật sự mắc ung thư (8%); nhầm "xác suất dương tính khi có ung thư" với "xác suất có ung thư khi dương tính" là ngụy biện của công tố viên. Mục "What Is 'Probability' Anyway?" điểm năm cách hiểu xác suất (cổ điển, liệt kê, tần suất dài hạn, khuynh hướng, chủ quan), tác giả chọn cách hiểu chủ quan, rồi phân biệt ba tình huống dữ liệu: sinh ra bởi thiết bị ngẫu nhiên, được chọn bởi thiết bị ngẫu nhiên, và không có ngẫu nhiên nào nhưng ta hành xử như thể có. Mục "If We Observe Everything, Where Does Probability Come In?" cho thấy số vụ giết người mỗi ngày ở Anh và xứ Wales (trung bình 1,41) khớp gần như hoàn hảo với phân phối Poisson: dự kiến 12,4 ngày có đúng 5 vụ, thực tế 13 ngày; xác suất một ngày có từ 7 vụ trở lên là 0,07%, tức khoảng bốn năm một lần. Chương kết bằng Quetelet và "vật lý xã hội": từng sự kiện riêng lẻ không đoán được, nhưng tổng thể lại đều đặn đến kinh ngạc.
+## Ý chính
 
-> **Lưu ý:**
-> - **Mâu thuẫn về khoảng thời gian của số liệu giết người (nhận xét của người tổng hợp):** sách viết "ba năm (1.095 ngày) giữa tháng 4/2014 và tháng 3/2016", nhưng từ tháng 4/2014 đến tháng 3/2016 chỉ là hai năm (khoảng 731 ngày). Con số 1.545 vụ trong 1.095 ngày (khoảng 515 vụ/năm) và 1.095 ngày đúng là ba năm, nên khả năng cao giai đoạn thật là tháng 4/2013 – tháng 3/2016. Chú thích hình (Figure 8.5) ghi "2014 to 2016" cũng theo cách viết này. Chương 9 dùng số liệu giết người theo năm của chính hai năm 2014–2015 (497) và 2015–2016 (557), tổng 1.054 — không thể chứa 1.545 vụ, càng cho thấy giai đoạn ba năm phải bắt đầu từ 2013. (Lưu ý thêm: "vụ giết người" (homicide incident) ở Chương 8 khác "số nạn nhân" (homicides) ở Chương 9, vì một vụ có thể có nhiều nạn nhân.)
-> - **Lỗi nhãn trên cây xác suất (Figure 8.3):** ở nhánh dưới của lần tung thứ nhất, hình ghi "Head" (ngửa), đúng ra phải là "Tail" (sấp), vì hai kết cục cuối của nhánh này là "Tail and head" và "Two tails". Bản tổng hợp chép lại với nhãn đúng.
-> - **Các công thức bị mất trong lớp chữ:** chú thích cuối chương số 1 (lời giải bài toán Chevalier de Méré) bị mất các phân số và lũy thừa. Người tổng hợp khôi phục: xác suất không ra mặt sáu trong một lần tung là 5/6; bốn lần liền không ra sáu là (5/6)⁴ = 625/1.296 = 0,482; xác suất thắng Trò 1 là 1 − 0,482 = 0,518 (sách làm tròn 0,52). Với Trò 2: (35/36)²⁴ = 0,509; xác suất thắng 1 − 0,509 = 0,491 (sách: 0,49). Cả hai đều khớp với số trong sách.
-> - **Các phép tính đã tự kiểm tra:** ½ × ½ = ¼; 1 − ¼ = ¾; 9 + 99 = 108; 108/1.000 = 10,8% ("khoảng 11%"); 9/108 = 8,3% ("8%"); 1.545/1.095 = 1,411 vụ/ngày; xác suất Poisson của đúng 5 vụ với trung bình 1,41 là e^(−1,41) × 1,41⁵ / 120 = 0,01134, nhân 1.095 ngày ra 12,4 ngày; xác suất từ 7 vụ trở lên là 0,00065 (0,065%, sách làm tròn 0,07%), nghịch đảo khoảng 1.540 ngày (sách: 1.535, tức khoảng 4,2 năm — khớp nếu dùng trung bình chưa làm tròn 1,411). Mọi con số của sách đều đúng.
-> - **Đồ thị không ghi số:** Figure 8.1 (mô phỏng 10.000 ván) và Figure 8.5 (số ngày có 0, 1, 2… vụ giết người) là đồ thị không ghi số trên cột hoặc đường. Các số đọc từ trục trong bản tổng hợp là **ước lượng** của người tổng hợp. Riêng số "dự kiến" của Figure 8.5, người tổng hợp tính lại từ công thức Poisson; số "quan sát" (trừ con số 13 ngày có 5 vụ do sách nêu) chỉ là đọc từ hình, sai số khoảng ±5 ngày. Trục tung của Figure 8.5 có lỗi chính tả "occurences" (đúng là "occurrences").
-> - **Danh sách chú thích dấu sao trong file chương bị lệch:** danh sách footnote đi kèm chương trong bộ chữ trích ra thực chất thuộc Chương 10. Bảy footnote đúng của Chương 8 (lỗi tính của Chevalier, đáp án ¼, "luật đảo điều kiện", Philip Dawid, máy sinh số giả ngẫu nhiên, cơ học lượng tử, định nghĩa "vụ giết người") đã được lấy từ danh sách footnote toàn sách và đưa vào đúng chỗ.
-> - **Lời văn chưa chặt (nhận xét của người tổng hợp):** sách nói Chevalier de Méré phải tới khoảng 400 ván mới thấy Trò 1 tốt hơn, nhưng chênh lệch thật chỉ là 51,8% so với 49,1%, tức 2,7 điểm phần trăm. Với 400 ván mỗi trò, sai số chuẩn của tỷ lệ thắng là khoảng √(0,25/400) = 2,5 điểm phần trăm, nên ở mốc này chênh lệch vẫn dễ bị may rủi che lấp; trên đồ thị mô phỏng, hai đường chỉ tách hẳn sau khoảng 1.000–2.000 ván. Câu "it becomes clear" vì vậy hơi lạc quan.
+Spiegelhalter muốn người đọc hiểu rằng **xác suất là ngôn ngữ toán học chung cho hai thứ: tính ngẫu nhiên "thuần tuý" (đồng xu, xúc xắc, máy sinh số ngẫu nhiên) và biến thiên tự nhiên không tránh được của thế giới (cân nặng sơ sinh, số vụ giết người mỗi ngày, kết quả phẫu thuật); xác suất khó và phản trực giác thật, nhưng nghĩ theo "tần số kỳ vọng" — điều gì sẽ xảy ra với 4 lần tung, với 1.000 phụ nữ — giúp lập luận đúng; và ta có thể, thậm chí nên, hành xử "như thể" dữ liệu được sinh ngẫu nhiên kể cả khi biết rõ là không, vì cách làm này mô tả dữ liệu tốt đến kinh ngạc.**
+
+Mở đầu chương là bài toán cờ bạc của Chevalier de Méré ở Pháp thập niên 1650: thắng nếu tung một xúc xắc tối đa 4 lần ra mặt sáu (xác suất thắng khoảng 52%), hay tung hai xúc xắc tối đa 24 lần ra đôi sáu (khoảng 49%); câu hỏi của ông đưa Pascal và Fermat đến những bước đầu của lý thuyết xác suất.
+
+Mục "The Rules of Probability Made, Possibly, a Bit Simpler" dùng câu hỏi tung hai đồng xu (60 trong 97 nghị sĩ Anh năm 2012 trả lời sai) để giới thiệu cây tần số kỳ vọng, cây xác suất và bốn quy tắc: xác suất nằm giữa 0 và 1, quy tắc phần bù, quy tắc cộng (HOẶC) cho biến cố xung khắc, quy tắc nhân (VÀ) cho biến cố độc lập; mọi xác suất đều là có điều kiện.
+
+Mục "Conditional Probability" dùng ví dụ chụp X-quang tuyến vú chính xác 90% với tỷ lệ mắc 1%: trong 1.000 phụ nữ có 108 người dương tính, nhưng chỉ 9 người thật sự mắc ung thư (8%); nhầm "xác suất dương tính khi có ung thư" với "xác suất có ung thư khi dương tính" là ngụy biện của công tố viên.
+
+Mục "What Is 'Probability' Anyway?" điểm năm cách hiểu xác suất (cổ điển, liệt kê, tần suất dài hạn, khuynh hướng, chủ quan), tác giả chọn cách hiểu chủ quan, rồi phân biệt ba tình huống dữ liệu: sinh ra bởi thiết bị ngẫu nhiên, được chọn bởi thiết bị ngẫu nhiên, và không có ngẫu nhiên nào nhưng ta hành xử như thể có.
+
+Mục "If We Observe Everything, Where Does Probability Come In?" cho thấy số vụ giết người mỗi ngày ở Anh và xứ Wales (trung bình 1,41) khớp gần như hoàn hảo với phân phối Poisson: dự kiến 12,4 ngày có đúng 5 vụ, thực tế 13 ngày; xác suất một ngày có từ 7 vụ trở lên là 0,07%, tức khoảng bốn năm một lần.
+
+Chương kết bằng Quetelet và "vật lý xã hội": từng sự kiện riêng lẻ không đoán được, nhưng tổng thể lại đều đặn đến kinh ngạc.
 
 ## Sơ đồ
 
@@ -266,7 +268,9 @@ Theo đúng nguyên tắc thống kê thực nghiệm, ông quyết định chơ
 
 Theo lời văn, tuy Trò 2 trông tốt hơn một thời gian, sau khoảng 400 ván mỗi trò thì Trò 1 tỏ ra tốt hơn, và về rất dài hạn Chevalier có thể kỳ vọng thắng khoảng 52% số ván Trò 1 và chỉ khoảng 49% số ván Trò 2.
 
-Điều đáng nể là Chevalier đã chơi nhiều đến mức tự đi tới cùng kết luận: Trò 1 nhỉnh hơn một chút. Kết luận này trái với phép tính (sai) của ông. Theo chú thích của tác giả, ông nghĩ rằng bốn lần tung, mỗi lần có 1/6 cơ hội, cho cơ hội thắng 4 × 1/6 = 2/3; tương tự, 24 lần tung, mỗi lần 1/36 cơ hội, cho 24/36 = 2/3 — tức hai trò như nhau. Tác giả lưu ý đây vẫn là lỗi phổ biến của sinh viên; để thấy nó không thể đúng, chỉ cần hỏi: nếu tung 12 lần trong Trò 1 thì "cơ hội thắng" là 12 × 1/6 = 2 sao? Bối rối, ông tìm đến Salon Mersenne, một nhóm trí thức thời thượng ở Paris. May thay, triết gia Blaise Pascal cũng là thành viên; Pascal viết thư cho bạn mình là Pierre de Fermat (người của "Định lý cuối cùng" nổi tiếng) về các bài toán của Chevalier. Cùng nhau, hai ông đặt những bước đầu tiên của lý thuyết xác suất.
+Điều đáng nể là Chevalier đã chơi nhiều đến mức tự đi tới cùng kết luận: Trò 1 nhỉnh hơn một chút. Kết luận này trái với phép tính (sai) của ông. Theo chú thích của tác giả, ông nghĩ rằng bốn lần tung, mỗi lần có 1/6 cơ hội, cho cơ hội thắng 4 × 1/6 = 2/3; tương tự, 24 lần tung, mỗi lần 1/36 cơ hội, cho 24/36 = 2/3 — tức hai trò như nhau.
+
+Tác giả lưu ý đây vẫn là lỗi phổ biến của sinh viên; để thấy nó không thể đúng, chỉ cần hỏi: nếu tung 12 lần trong Trò 1 thì "cơ hội thắng" là 12 × 1/6 = 2 sao? Bối rối, ông tìm đến Salon Mersenne, một nhóm trí thức thời thượng ở Paris. May thay, triết gia Blaise Pascal cũng là thành viên; Pascal viết thư cho bạn mình là Pierre de Fermat (người của "Định lý cuối cùng" nổi tiếng) về các bài toán của Chevalier. Cùng nhau, hai ông đặt những bước đầu tiên của lý thuyết xác suất.
 
 Con người đã đánh cược vào cách những mẩu xương hay con xúc xắc rơi xuống trong hàng nghìn năm, nhưng lý thuyết xác suất chính thức là ý tưởng khá mới. Sau công trình của Pascal và Fermat thập niên 1650, các nền tảng toán học được hoàn thiện trong khoảng năm mươi năm tiếp theo, và ngày nay xác suất được dùng trong vật lý, bảo hiểm, hưu trí, giao dịch tài chính, dự báo và tất nhiên là cờ bạc.
 
@@ -276,7 +280,9 @@ Vậy tại sao làm thống kê lại cần lý thuyết xác suất? Tác gi�
 - Khi muốn suy luận thống kê về những khía cạnh chưa biết của thế giới, kể cả dự đoán hay dự báo, kết luận luôn kèm một mức bất định.
 - Ở Chương 7, bootstrap cho biết thống kê tóm tắt sẽ biến thiên bao nhiêu nếu lặp lại quá trình lấy mẫu nhiều lần, và dùng biến thiên đó để diễn đạt độ bất định về đặc điểm thật nhưng chưa biết của tổng thể. Cách này cũng chỉ cần ý tưởng "chọn ngẫu nhiên", điều mà trẻ nhỏ cũng hiểu là một cách chọn công bằng.
 
-Theo truyền thống, một khóa thống kê bắt đầu bằng xác suất — Spiegelhalter cho biết ông vẫn luôn dạy như vậy ở Cambridge — nhưng phần nhập môn nặng toán này có thể cản trở việc nắm những ý tưởng quan trọng không cần tới lý thuyết xác suất. Cuốn sách thuộc một "làn sóng mới" trong dạy thống kê, trong đó lý thuyết xác suất chính thức làm nền cho suy luận thống kê được đưa vào muộn hơn nhiều. (Chú thích cuối chương dẫn hai nguồn về phương pháp dạy dựa trên mô phỏng: bài của M. Pfannkuch và cộng sự, "Bootstrapping Students' Understanding of Statistical Inference", TLRI, 2013; và bài của K. Lock Morgan và cộng sự về bộ công cụ trực tuyến STATKEY cho khoảng bootstrap và kiểm định ngẫu nhiên hoá, ICOTS 9, 2014.) Mô phỏng trên máy tính là công cụ rất mạnh để khám phá các sự kiện tương lai có thể xảy ra và để bootstrap dữ liệu quá khứ, nhưng là cách phân tích thống kê khá vụng về và "dùng sức trâu". Vì vậy, dù đã đi được một quãng xa mà không cần lý thuyết xác suất chính thức, đã đến lúc đối diện với vai trò sống còn của nó trong việc cung cấp "ngôn ngữ của bất định".
+Theo truyền thống, một khóa thống kê bắt đầu bằng xác suất — Spiegelhalter cho biết ông vẫn luôn dạy như vậy ở Cambridge — nhưng phần nhập môn nặng toán này có thể cản trở việc nắm những ý tưởng quan trọng không cần tới lý thuyết xác suất. Cuốn sách thuộc một "làn sóng mới" trong dạy thống kê, trong đó lý thuyết xác suất chính thức làm nền cho suy luận thống kê được đưa vào muộn hơn nhiều.
+
+(Chú thích cuối chương dẫn hai nguồn về phương pháp dạy dựa trên mô phỏng: bài của M. Pfannkuch và cộng sự, "Bootstrapping Students' Understanding of Statistical Inference", TLRI, 2013; và bài của K. Lock Morgan và cộng sự về bộ công cụ trực tuyến STATKEY cho khoảng bootstrap và kiểm định ngẫu nhiên hoá, ICOTS 9, 2014.) Mô phỏng trên máy tính là công cụ rất mạnh để khám phá các sự kiện tương lai có thể xảy ra và để bootstrap dữ liệu quá khứ, nhưng là cách phân tích thống kê khá vụng về và "dùng sức trâu". Vì vậy, dù đã đi được một quãng xa mà không cần lý thuyết xác suất chính thức, đã đến lúc đối diện với vai trò sống còn của nó trong việc cung cấp "ngôn ngữ của bất định".
 
 Tại sao lại ngại dùng một lý thuyết xuất sắc đã phát triển suốt 350 năm? Tác giả thường được hỏi vì sao người ta thấy xác suất khó và phản trực giác, và câu trả lời của ông, sau bốn mươi năm nghiên cứu và giảng dạy, là: vì xác suất *thật sự* khó và phản trực giác. Ông thông cảm với bất kỳ ai thấy xác suất rắc rối; chính ông, sau nhiều thập kỷ làm thống kê, khi được hỏi một câu xác suất cấp phổ thông vẫn phải đi ra chỗ khác, ngồi im với giấy bút, thử vài cách, rồi mới công bố điều ông hy vọng là đáp án đúng.
 
@@ -358,7 +364,9 @@ Từng bước:
 
 Bài tập về xác suất có điều kiện này giúp hiểu một kết quả rất phản trực giác: dù phép chụp "chính xác 90%", **phần lớn phụ nữ có kết quả dương tính không mắc ung thư vú**. Rất dễ nhầm xác suất dương tính *khi biết có ung thư* với xác suất có ung thư *khi biết dương tính*.
 
-Kiểu nhầm lẫn này thường được gọi là **ngụy biện của công tố viên**, vì nó rất phổ biến trong các vụ án có bằng chứng ADN. Một chuyên gia pháp y có thể nói: "nếu bị cáo vô tội, chỉ có 1 phần tỷ khả năng người đó khớp với ADN tìm thấy tại hiện trường". Câu này bị hiểu sai thành: "với bằng chứng ADN, chỉ có 1 phần tỷ khả năng bị cáo vô tội". Theo chú thích của tác giả, lỗi này còn có tên là "luật đảo điều kiện" (law of the transposed conditional) — nghe tối nghĩa một cách thú vị, nhưng chỉ có nghĩa là *xác suất của A khi biết B* bị nhầm với *xác suất của B khi biết A*. Lỗi này dễ mắc, nhưng logic của nó sai y như đi từ câu "nếu bạn là Giáo hoàng thì bạn là người Công giáo" sang câu "nếu bạn là người Công giáo thì bạn là Giáo hoàng" — ở đây cái sai dễ thấy hơn nhiều.
+Kiểu nhầm lẫn này thường được gọi là **ngụy biện của công tố viên**, vì nó rất phổ biến trong các vụ án có bằng chứng ADN. Một chuyên gia pháp y có thể nói: "nếu bị cáo vô tội, chỉ có 1 phần tỷ khả năng người đó khớp với ADN tìm thấy tại hiện trường". Câu này bị hiểu sai thành: "với bằng chứng ADN, chỉ có 1 phần tỷ khả năng bị cáo vô tội".
+
+Theo chú thích của tác giả, lỗi này còn có tên là "luật đảo điều kiện" (law of the transposed conditional) — nghe tối nghĩa một cách thú vị, nhưng chỉ có nghĩa là *xác suất của A khi biết B* bị nhầm với *xác suất của B khi biết A*. Lỗi này dễ mắc, nhưng logic của nó sai y như đi từ câu "nếu bạn là Giáo hoàng thì bạn là người Công giáo" sang câu "nếu bạn là người Công giáo thì bạn là Giáo hoàng" — ở đây cái sai dễ thấy hơn nhiều.
 
 ### 4. Rốt cuộc "xác suất" là gì? (What Is 'Probability' Anyway?, trang PDF 152–154)
 
@@ -374,7 +382,9 @@ Kiểu nhầm lẫn này thường được gọi là **ngụy biện của côn
 
 Mỗi "chuyên gia" có lựa chọn riêng trong các cách hiểu này; cá nhân Spiegelhalter thích cách cuối cùng — xác suất chủ quan. Nghĩa là ông cho rằng mọi xác suất bằng số về bản chất đều được *kiến tạo* theo những gì đã biết trong tình huống hiện tại — thực ra xác suất không thực sự "tồn tại" (trừ có thể ở cấp hạ nguyên tử). Cách tiếp cận này là nền tảng của trường phái suy luận thống kê **Bayes**, được bàn chi tiết ở Chương 11.
 
-May là người đọc không cần đồng ý với lập trường (khá gây tranh cãi) của tác giả rằng xác suất bằng số không tồn tại khách quan. Hoàn toàn ổn khi giả định đồng xu và các thiết bị ngẫu nhiên hoá khác là ngẫu nhiên khách quan, theo nghĩa chúng tạo ra dữ liệu khó đoán đến mức không phân biệt được với dữ liệu sinh ra từ xác suất "khách quan". Vì vậy ta thường hành xử *như thể* các quan sát là ngẫu nhiên, ngay cả khi biết điều đó không hoàn toàn đúng. Ví dụ cực đoan nhất là **máy sinh số giả ngẫu nhiên**: chúng dựa trên những phép tính logic, hoàn toàn đoán trước được, không chứa chút ngẫu nhiên nào, nhưng cơ chế phức tạp đến mức trên thực tế không phân biệt được với các dãy thực sự ngẫu nhiên — chẳng hạn dãy lấy từ một nguồn hạt hạ nguyên tử. (Chú thích của tác giả: điều này giả định máy sinh số được thiết kế tốt và các số được dùng cho mô hình thống kê hay việc tương tự; chúng không đủ tốt cho ứng dụng mật mã, nơi tính đoán trước được có thể bị khai thác để phá mã.) Khả năng khá kỳ quặc này — hành xử như thể một điều là thật trong khi biết nó không thật — thường bị coi là phi lý nguy hiểm, nhưng nó sẽ rất hữu ích khi dùng xác suất làm nền cho phân tích thống kê.
+May là người đọc không cần đồng ý với lập trường (khá gây tranh cãi) của tác giả rằng xác suất bằng số không tồn tại khách quan. Hoàn toàn ổn khi giả định đồng xu và các thiết bị ngẫu nhiên hoá khác là ngẫu nhiên khách quan, theo nghĩa chúng tạo ra dữ liệu khó đoán đến mức không phân biệt được với dữ liệu sinh ra từ xác suất "khách quan". Vì vậy ta thường hành xử *như thể* các quan sát là ngẫu nhiên, ngay cả khi biết điều đó không hoàn toàn đúng.
+
+Ví dụ cực đoan nhất là **máy sinh số giả ngẫu nhiên**: chúng dựa trên những phép tính logic, hoàn toàn đoán trước được, không chứa chút ngẫu nhiên nào, nhưng cơ chế phức tạp đến mức trên thực tế không phân biệt được với các dãy thực sự ngẫu nhiên — chẳng hạn dãy lấy từ một nguồn hạt hạ nguyên tử. (Chú thích của tác giả: điều này giả định máy sinh số được thiết kế tốt và các số được dùng cho mô hình thống kê hay việc tương tự; chúng không đủ tốt cho ứng dụng mật mã, nơi tính đoán trước được có thể bị khai thác để phá mã.) Khả năng khá kỳ quặc này — hành xử như thể một điều là thật trong khi biết nó không thật — thường bị coi là phi lý nguy hiểm, nhưng nó sẽ rất hữu ích khi dùng xác suất làm nền cho phân tích thống kê.
 
 Tiếp theo là bước then chốt nhưng khó: nêu mối liên hệ chung giữa lý thuyết xác suất, dữ liệu và việc tìm hiểu tổng thể mục tiêu. Tác giả phân biệt ba tình huống:
 
@@ -384,9 +394,13 @@ Tiếp theo là bước then chốt nhưng khó: nêu mối liên hệ chung gi�
 
 Hầu hết sách vở không nói rõ những phân biệt này: xác suất thường được dạy qua thiết bị ngẫu nhiên hoá (tình huống 1) và thống kê được dạy qua ý tưởng "lấy mẫu ngẫu nhiên" (tình huống 2), trong khi thực tế phần lớn ứng dụng của thống kê không có thiết bị ngẫu nhiên hay lấy mẫu ngẫu nhiên nào (tình huống 3).
 
-Xét trước tình huống 1 và 2. Ngay trước khi vận hành thiết bị ngẫu nhiên hoá, ta giả định có một tập các kết quả có thể quan sát được, cùng xác suất của từng kết quả — ví dụ đồng xu có thể ra ngửa hoặc sấp, mỗi mặt với xác suất ½. Nếu gán cho mỗi kết quả có thể một con số, ở đây 0 cho sấp và 1 cho ngửa, ta nói có một **biến ngẫu nhiên** với một **phân phối xác suất**. Trong tình huống 1, thiết bị ngẫu nhiên hoá bảo đảm quan sát được sinh ngẫu nhiên từ phân phối này; khi đã quan sát, tính ngẫu nhiên biến mất và mọi tương lai tiềm năng "sụp" về quan sát thực tế. (Chú thích của tác giả: có thể coi điều này tương tự cơ học lượng tử, nơi trạng thái hiện tại của, chẳng hạn, một electron được mô tả bằng một hàm sóng, và hàm sóng sụp về một trạng thái duy nhất khi electron thực sự được quan sát.) Tương tự, trong tình huống 2, nếu rút ngẫu nhiên một người và đo thu nhập của họ, về bản chất ta đã rút ngẫu nhiên một quan sát từ phân phối thu nhập của tổng thể.
+Xét trước tình huống 1 và 2. Ngay trước khi vận hành thiết bị ngẫu nhiên hoá, ta giả định có một tập các kết quả có thể quan sát được, cùng xác suất của từng kết quả — ví dụ đồng xu có thể ra ngửa hoặc sấp, mỗi mặt với xác suất ½. Nếu gán cho mỗi kết quả có thể một con số, ở đây 0 cho sấp và 1 cho ngửa, ta nói có một **biến ngẫu nhiên** với một **phân phối xác suất**.
 
-Vậy xác suất rõ ràng liên quan khi có thiết bị ngẫu nhiên hoá. Nhưng phần lớn thời gian ta chỉ xét mọi số đo có trong tay, có thể được thu thập không chính thức, hoặc — như Chương 3 đã nói — thậm chí là mọi quan sát có thể có: tỷ lệ sống sót sau phẫu thuật tim cho trẻ em ở các bệnh viện, hay toàn bộ kết quả thi của học sinh Anh. Cả hai đều là toàn bộ dữ liệu, không hề có lấy mẫu ngẫu nhiên. Chương 3 đã nêu ý tưởng **tổng thể ẩn dụ**, gồm những khả năng lẽ ra có thể xảy ra nhưng phần lớn đã không xảy ra. Giờ ta phải chuẩn bị cho một bước có vẻ phi lý: hành xử *như thể* dữ liệu được sinh ra bởi một cơ chế ngẫu nhiên từ tổng thể đó, dù biết rõ là không.
+Trong tình huống 1, thiết bị ngẫu nhiên hoá bảo đảm quan sát được sinh ngẫu nhiên từ phân phối này; khi đã quan sát, tính ngẫu nhiên biến mất và mọi tương lai tiềm năng "sụp" về quan sát thực tế. (Chú thích của tác giả: có thể coi điều này tương tự cơ học lượng tử, nơi trạng thái hiện tại của, chẳng hạn, một electron được mô tả bằng một hàm sóng, và hàm sóng sụp về một trạng thái duy nhất khi electron thực sự được quan sát.) Tương tự, trong tình huống 2, nếu rút ngẫu nhiên một người và đo thu nhập của họ, về bản chất ta đã rút ngẫu nhiên một quan sát từ phân phối thu nhập của tổng thể.
+
+Vậy xác suất rõ ràng liên quan khi có thiết bị ngẫu nhiên hoá. Nhưng phần lớn thời gian ta chỉ xét mọi số đo có trong tay, có thể được thu thập không chính thức, hoặc — như Chương 3 đã nói — thậm chí là mọi quan sát có thể có: tỷ lệ sống sót sau phẫu thuật tim cho trẻ em ở các bệnh viện, hay toàn bộ kết quả thi của học sinh Anh.
+
+Cả hai đều là toàn bộ dữ liệu, không hề có lấy mẫu ngẫu nhiên. Chương 3 đã nêu ý tưởng **tổng thể ẩn dụ**, gồm những khả năng lẽ ra có thể xảy ra nhưng phần lớn đã không xảy ra. Giờ ta phải chuẩn bị cho một bước có vẻ phi lý: hành xử *như thể* dữ liệu được sinh ra bởi một cơ chế ngẫu nhiên từ tổng thể đó, dù biết rõ là không.
 
 ### 5. Nếu quan sát được mọi thứ, xác suất xuất hiện ở đâu? (If We Observe Everything, Where Does Probability Come In?, trang PDF 154–157)
 
@@ -394,9 +408,13 @@ Câu hỏi mở đầu mục: bao lâu thì ta dự kiến thấy một ngày c�
 
 Khi những sự kiện cực đoan xảy ra sát nhau, như nhiều vụ rơi máy bay hay thiên tai liên tiếp, người ta có xu hướng tự nhiên cảm thấy chúng liên quan với nhau theo cách nào đó. Khi ấy cần tính xem những sự kiện như vậy bất thường đến đâu, và ví dụ sau cho thấy cách làm.
 
-**Dữ liệu.** Để đánh giá một "cụm" từ bảy vụ giết người trở lên trong một ngày hiếm đến mức nào, tác giả xét dữ liệu ba năm (1.095 ngày) "giữa tháng 4/2014 và tháng 3/2016" (khoảng thời gian ghi trong sách mâu thuẫn với độ dài ba năm; xem khối Lưu ý): có 1.545 vụ giết người ở Anh và xứ Wales, trung bình 1.545/1.095 = 1,41 vụ mỗi ngày. (Chú thích của tác giả: một "vụ giết người" (homicide incident) là khi cùng một người hoặc nhóm người bị nghi là gây ra một hoặc nhiều vụ giết người liên quan với nhau; vì vậy một vụ xả súng hàng loạt hay một vụ tấn công khủng bố được tính là một vụ.) Trong giai đoạn này không có ngày nào có từ bảy vụ trở lên, nhưng sẽ rất ngây thơ nếu kết luận điều đó là không thể. Nếu xây dựng được một phân phối xác suất hợp lý cho số vụ giết người mỗi ngày, ta trả lời được câu hỏi.
+**Dữ liệu.** Để đánh giá một "cụm" từ bảy vụ giết người trở lên trong một ngày hiếm đến mức nào, tác giả xét dữ liệu ba năm (1.095 ngày) "giữa tháng 4/2014 và tháng 3/2016" (khoảng thời gian ghi trong sách mâu thuẫn với độ dài ba năm; xem mục Lưu ý cuối chương): có 1.545 vụ giết người ở Anh và xứ Wales, trung bình 1.545/1.095 = 1,41 vụ mỗi ngày.
 
-**Lý do để dùng một phân phối xác suất.** Số vụ giết người ghi nhận mỗi ngày ở một nước đơn giản là sự thật: không có lấy mẫu, không có yếu tố ngẫu nhiên tường minh nào tạo ra từng sự kiện đau lòng — chỉ có một thế giới vô cùng phức tạp và khó đoán. Nhưng dù triết lý cá nhân về may rủi của ta là gì, hoá ra hành xử *như thể* các sự kiện này được tạo ra bởi một quá trình ngẫu nhiên vận hành theo xác suất là hữu ích. Có thể hình dung đầu mỗi ngày có một tổng thể rất lớn gồm nhiều người, mỗi người có một khả năng rất nhỏ trở thành nạn nhân. Dữ liệu kiểu này có thể được biểu diễn như các quan sát từ một **phân phối Poisson**, do Siméon Denis Poisson xây dựng ở Pháp thập niên 1830 để mô tả số vụ kết án oan mỗi năm. Từ đó, phân phối này được dùng để mô hình hoá đủ thứ: số bàn thắng một đội bóng ghi trong một trận, số vé số trúng thưởng mỗi tuần, cho tới số sĩ quan Phổ bị ngựa đá chết mỗi năm. Trong mỗi tình huống đó đều có rất nhiều cơ hội để sự kiện xảy ra, nhưng mỗi cơ hội có xác suất rất thấp, và điều này sinh ra phân phối Poisson vô cùng linh hoạt.
+(Chú thích của tác giả: một "vụ giết người" (homicide incident) là khi cùng một người hoặc nhóm người bị nghi là gây ra một hoặc nhiều vụ giết người liên quan với nhau; vì vậy một vụ xả súng hàng loạt hay một vụ tấn công khủng bố được tính là một vụ.) Trong giai đoạn này không có ngày nào có từ bảy vụ trở lên, nhưng sẽ rất ngây thơ nếu kết luận điều đó là không thể. Nếu xây dựng được một phân phối xác suất hợp lý cho số vụ giết người mỗi ngày, ta trả lời được câu hỏi.
+
+**Lý do để dùng một phân phối xác suất.** Số vụ giết người ghi nhận mỗi ngày ở một nước đơn giản là sự thật: không có lấy mẫu, không có yếu tố ngẫu nhiên tường minh nào tạo ra từng sự kiện đau lòng — chỉ có một thế giới vô cùng phức tạp và khó đoán. Nhưng dù triết lý cá nhân về may rủi của ta là gì, hoá ra hành xử *như thể* các sự kiện này được tạo ra bởi một quá trình ngẫu nhiên vận hành theo xác suất là hữu ích. Có thể hình dung đầu mỗi ngày có một tổng thể rất lớn gồm nhiều người, mỗi người có một khả năng rất nhỏ trở thành nạn nhân.
+
+Dữ liệu kiểu này có thể được biểu diễn như các quan sát từ một **phân phối Poisson**, do Siméon Denis Poisson xây dựng ở Pháp thập niên 1830 để mô tả số vụ kết án oan mỗi năm. Từ đó, phân phối này được dùng để mô hình hoá đủ thứ: số bàn thắng một đội bóng ghi trong một trận, số vé số trúng thưởng mỗi tuần, cho tới số sĩ quan Phổ bị ngựa đá chết mỗi năm. Trong mỗi tình huống đó đều có rất nhiều cơ hội để sự kiện xảy ra, nhưng mỗi cơ hội có xác suất rất thấp, và điều này sinh ra phân phối Poisson vô cùng linh hoạt.
 
 Phân phối chuẩn (Gauss) ở Chương 3 cần hai tham số — trung bình tổng thể và độ lệch chuẩn — còn phân phối Poisson chỉ phụ thuộc vào trung bình. Ở đây trung bình là số vụ giết người kỳ vọng mỗi ngày, giả định bằng 1,41, mức trung bình của giai đoạn ba năm. Tuy nhiên cần kiểm tra cẩn thận xem giả định Poisson có hợp lý không, tức có hợp lý không khi hành xử như thể số vụ giết người mỗi ngày là một quan sát ngẫu nhiên rút từ phân phối Poisson với trung bình 1,41.
 
@@ -422,9 +440,13 @@ Hai bộ cột gần như trùng nhau: chênh lệch lớn nhất chỉ khoảng
 
 Độ khớp của phân phối xác suất toán học này với dữ liệu thực nghiệm tốt "gần như đến mức đáng lo". Dù đằng sau mỗi sự kiện bi thảm là một câu chuyện riêng, và phần lớn không đoán trước được, dữ liệu lại hành xử như thể được sinh ra bởi một cơ chế ngẫu nhiên đã biết. Một cách nhìn là: những người khác lẽ ra có thể đã bị giết nhưng đã không — ta quan sát *một* trong nhiều thế giới có thể đã xảy ra, giống như khi tung đồng xu ta quan sát một trong nhiều dãy kết quả có thể.
 
-**Quetelet và "vật lý xã hội".** Adolphe Quetelet, nhà thiên văn, nhà thống kê và nhà xã hội học người Bỉ giữa thế kỷ 19, là một trong những người đầu tiên chỉ ra tính dự đoán được đáng kinh ngạc của những mô hình tổng thể tạo nên từ các sự kiện riêng lẻ không đoán được. Ông bị cuốn hút bởi sự xuất hiện của phân phối chuẩn trong các hiện tượng tự nhiên, như phân phối cân nặng sơ sinh ở Chương 3, và đặt ra ý tưởng "l'homme moyen" (con người trung bình), người mang giá trị trung bình của mọi đặc điểm này. Ông phát triển ý tưởng "vật lý xã hội", vì tính đều đặn của các thống kê xã hội dường như phản ánh một quá trình bên dưới gần như cơ học. Giống như các phân tử chuyển động ngẫu nhiên của chất khí hợp lại thành những tính chất vật lý đoán trước được, hoạt động không đoán trước được của hàng triệu cuộc đời riêng lẻ hợp lại tạo nên, chẳng hạn, tỷ lệ tự tử quốc gia hầu như không đổi từ năm này sang năm khác.
+**Quetelet và "vật lý xã hội".** Adolphe Quetelet, nhà thiên văn, nhà thống kê và nhà xã hội học người Bỉ giữa thế kỷ 19, là một trong những người đầu tiên chỉ ra tính dự đoán được đáng kinh ngạc của những mô hình tổng thể tạo nên từ các sự kiện riêng lẻ không đoán được. Ông bị cuốn hút bởi sự xuất hiện của phân phối chuẩn trong các hiện tượng tự nhiên, như phân phối cân nặng sơ sinh ở Chương 3, và đặt ra ý tưởng "l'homme moyen" (con người trung bình), người mang giá trị trung bình của mọi đặc điểm này.
 
-May là ta không cần tin rằng các sự kiện thực sự do một sự ngẫu nhiên thuần tuý (dù đó là gì) điều khiển. Đơn giản là giả định "may rủi" gói gọn mọi sự khó đoán không tránh được của thế giới, đôi khi gọi là **biến thiên tự nhiên**. Vậy chương đã xác lập rằng xác suất là nền móng toán học phù hợp cho *cả* tính ngẫu nhiên "thuần tuý" — ở hạt hạ nguyên tử, đồng xu, xúc xắc… — *lẫn* biến thiên "tự nhiên" không tránh được, như ở cân nặng sơ sinh, khả năng sống sau phẫu thuật, kết quả thi, các vụ giết người, và mọi hiện tượng khác không hoàn toàn đoán trước được. Chương tiếp theo sẽ trình bày điều tác giả gọi là một bước phát triển thực sự đáng chú ý trong lịch sử hiểu biết của loài người: cách hai khía cạnh này của xác suất được kết hợp để tạo nền móng chặt chẽ cho suy luận thống kê chính thức.
+Ông phát triển ý tưởng "vật lý xã hội", vì tính đều đặn của các thống kê xã hội dường như phản ánh một quá trình bên dưới gần như cơ học. Giống như các phân tử chuyển động ngẫu nhiên của chất khí hợp lại thành những tính chất vật lý đoán trước được, hoạt động không đoán trước được của hàng triệu cuộc đời riêng lẻ hợp lại tạo nên, chẳng hạn, tỷ lệ tự tử quốc gia hầu như không đổi từ năm này sang năm khác.
+
+May là ta không cần tin rằng các sự kiện thực sự do một sự ngẫu nhiên thuần tuý (dù đó là gì) điều khiển. Đơn giản là giả định "may rủi" gói gọn mọi sự khó đoán không tránh được của thế giới, đôi khi gọi là **biến thiên tự nhiên**. Vậy chương đã xác lập rằng xác suất là nền móng toán học phù hợp cho *cả* tính ngẫu nhiên "thuần tuý" — ở hạt hạ nguyên tử, đồng xu, xúc xắc… — *lẫn* biến thiên "tự nhiên" không tránh được, như ở cân nặng sơ sinh, khả năng sống sau phẫu thuật, kết quả thi, các vụ giết người, và mọi hiện tượng khác không hoàn toàn đoán trước được.
+
+Chương tiếp theo sẽ trình bày điều tác giả gọi là một bước phát triển thực sự đáng chú ý trong lịch sử hiểu biết của loài người: cách hai khía cạnh này của xác suất được kết hợp để tạo nền móng chặt chẽ cho suy luận thống kê chính thức.
 
 ### 6. Tóm tắt (Summary, trang PDF 158)
 
@@ -476,7 +498,9 @@ Xác suất là ngôn ngữ toán học phù hợp để diễn đạt cả tín
 
 ### Trong ngôn ngữ thống kê
 
-Chương trình bày các tiên đề cơ bản của xác suất (0 ≤ P(A) ≤ 1; P(không A) = 1 − P(A); P(A hoặc B) = P(A) + P(B) khi A, B xung khắc; P(A và B) = P(A) × P(B) khi A, B độc lập), xác suất có điều kiện và — ngầm định, không nêu tên — định lý Bayes qua ví dụ giá trị dự báo dương tính: P(ung thư | dương tính) = P(dương tính | ung thư) × P(ung thư) / P(dương tính) = 0,9 × 0,01 / 0,108 = 0,083. Về triết học, chương so sánh các cách diễn giải xác suất (cổ điển, tần suất, khuynh hướng, chủ quan/Bayes). Về mô hình hoá, chương giới thiệu biến ngẫu nhiên, phân phối xác suất và phân phối Poisson P(X = x) = e^(−μ) μ^x / x! với E(X) = Var(X) = μ, như xấp xỉ của phân phối nhị thức khi số cơ hội n rất lớn và xác suất mỗi cơ hội p rất nhỏ (μ = np), kèm một phép so sánh tần số quan sát với tần số kỳ vọng — tiền đề của kiểm định khi-bình phương về độ phù hợp ở Chương 10.
+Chương trình bày các tiên đề cơ bản của xác suất (0 ≤ P(A) ≤ 1; P(không A) = 1 − P(A); P(A hoặc B) = P(A) + P(B) khi A, B xung khắc; P(A và B) = P(A) × P(B) khi A, B độc lập), xác suất có điều kiện và — ngầm định, không nêu tên — định lý Bayes qua ví dụ giá trị dự báo dương tính: P(ung thư | dương tính) = P(dương tính | ung thư) × P(ung thư) / P(dương tính) = 0,9 × 0,01 / 0,108 = 0,083.
+
+Về triết học, chương so sánh các cách diễn giải xác suất (cổ điển, tần suất, khuynh hướng, chủ quan/Bayes). Về mô hình hoá, chương giới thiệu biến ngẫu nhiên, phân phối xác suất và phân phối Poisson P(X = x) = e^(−μ) μ^x / x! với E(X) = Var(X) = μ, như xấp xỉ của phân phối nhị thức khi số cơ hội n rất lớn và xác suất mỗi cơ hội p rất nhỏ (μ = np), kèm một phép so sánh tần số quan sát với tần số kỳ vọng — tiền đề của kiểm định khi-bình phương về độ phù hợp ở Chương 10.
 
 ## Thuật ngữ
 
@@ -554,7 +578,7 @@ Việc nói thẳng rằng phần lớn ứng dụng thống kê thuộc "tình 
 - Lập trường "xác suất không tồn tại" được nêu như sở thích cá nhân, nhưng chương không giải thích vì sao một người theo cách hiểu chủ quan vẫn có thể yên tâm kiểm tra mô hình Poisson bằng tần số quan sát — tức đang dùng ngầm cách hiểu tần suất. Sự căng thẳng giữa hai cách hiểu được để dành cho Chương 11 (nhận xét của người tổng hợp).
 - Ví dụ sàng lọc ung thư vú dùng con số đơn giản hoá (90% cho cả độ nhạy và độ đặc hiệu, tỷ lệ mắc 1%). Theo hiểu biết của người tổng hợp, độ đặc hiệu thực tế của chụp X-quang tuyến vú thường cao hơn 90%, nên tỷ lệ dương tính giả trong thực tế thấp hơn ví dụ; nhưng thông điệp định tính — phần lớn người dương tính trong sàng lọc dân số rộng không mắc bệnh — vẫn đúng.
 - Việc kiểm tra giả định Poisson chỉ dựa trên so sánh bằng mắt; chương không bàn những lý do Poisson có thể sai (mức trung bình thay đổi theo mùa, theo ngày trong tuần, hay các vụ giết người không độc lập với nhau). Định nghĩa "vụ giết người" gộp các vụ xả súng hàng loạt thành một vụ chính là một cách xử lý vấn đề không độc lập này.
-- Khoảng thời gian dữ liệu giết người bị ghi sai (xem khối Lưu ý), và nhãn cây xác suất hai đồng xu có lỗi — những lỗi nhỏ nhưng đáng tiếc trong một chương dạy sự chính xác.
+- Khoảng thời gian dữ liệu giết người bị ghi sai (xem mục Lưu ý cuối chương), và nhãn cây xác suất hai đồng xu có lỗi — những lỗi nhỏ nhưng đáng tiếc trong một chương dạy sự chính xác.
 
 ### Những gì đã thay đổi từ 2019 (theo hiểu biết của người tổng hợp)
 
@@ -573,3 +597,157 @@ Nội dung xác suất cơ bản của chương không lỗi thời. Hai điểm
 - **Cho người đọc báo:** khi đọc "xét nghiệm chính xác 99%" hay "chỉ 1 phần triệu khả năng trùng hợp", hãy hỏi ngay tỷ lệ nền và chiều của điều kiện. Khi thấy tin "nhiều tai nạn liên tiếp", hãy nhớ rằng những cụm sự kiện hiếm vẫn xảy ra theo may rủi đơn thuần, ví dụ một ngày có từ 7 vụ giết người trở lên ở Anh và xứ Wales được dự kiến khoảng bốn năm một lần.
 - **Cho nhà phân tích:** trình bày rủi ro cho người không chuyên bằng tần số tự nhiên ("9 trong 108") thay vì phần trăm có điều kiện. Với dữ liệu đếm (số khiếu nại, số sự cố, số ca bệnh mỗi ngày), thử so với phân phối Poisson trước khi kết luận có "bất thường"; nếu dữ liệu biến động nhiều hơn Poisson, đó là dấu hiệu có yếu tố hệ thống. Ghi rõ dữ liệu của mình thuộc tình huống nào trong ba tình huống, và nói rõ khi đang dùng một mô hình xác suất cho dữ liệu toàn bộ.
 - **Cho người làm chính sách:** chương trình sàng lọc dân số rộng cho bệnh hiếm sẽ sinh ra nhiều dương tính giả hơn dương tính thật; cần tính trước bằng cây tần số và chuẩn bị cách truyền đạt kết quả. Trước khi phản ứng với một "cụm" sự kiện xấu, hãy hỏi chuyên gia thống kê xem cụm đó có vượt khỏi biến thiên tự nhiên không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: năm nhánh theo phần mở đầu và bốn mục của bản gốc (bài toán Chevalier de Méré, quy tắc xác suất, xác suất có điều kiện, các cách hiểu xác suất, Poisson và số vụ giết người), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: xác suất là ngôn ngữ chung cho cả ngẫu nhiên thuần tuý lẫn biến thiên tự nhiên của thế giới`"]
+  n1["`Phần mở đầu chương — bài toán Chevalier de Méré và vì sao cần xác suất`"]
+  n0 --- n1
+  n2["`Pháp thập niên 1650: Trò 1 tung một xúc xắc tối đa 4 lần ra mặt sáu, Trò 2 tung hai xúc xắc 24 lần ra đôi sáu`"]
+  n1 --- n2
+  n3["`Chevalier tính sai 4 × 1/6 = 24 × 1/36 = 2/3, coi hai trò như nhau`"]
+  n1 --- n3
+  n4["`Mô phỏng 10.000 ván: Trò 1 thắng khoảng 52%, Trò 2 khoảng 49%, 100 ván đầu lại cho thấy ngược lại`"]
+  n1 --- n4
+  n5["`Pascal viết thư cho Fermat về bài toán này – bước đầu của lý thuyết xác suất`"]
+  n1 --- n5
+  n6["`Thống kê cần xác suất vì dữ liệu được coi như rút ngẫu nhiên và mọi suy luận đều kèm bất định`"]
+  n1 --- n6
+  n7["`Bootstrap ở Chương 7 mạnh nhưng vụng về, dùng sức trâu, cần lý thuyết chính thức`"]
+  n1 --- n7
+  n8["`Tác giả: xác suất thật sự khó và phản trực giác, sau 40 năm ông vẫn phải ngồi với giấy bút`"]
+  n1 --- n8
+  n9["`Mục The Rules of Probability — tần số kỳ vọng và bốn quy tắc`"]
+  n0 --- n9
+  n10["`Năm 2012, 60 trong 97 nghị sĩ Anh trả lời sai xác suất ra hai mặt ngửa (đáp án 1/4)`"]
+  n9 --- n10
+  n11["`Tần số kỳ vọng: hỏi trong 4 lần thử dự kiến bao nhiêu lần ra hai ngửa`"]
+  n9 --- n11
+  n12["`Cây xác suất: nhân các tỷ lệ dọc một nhánh, ½ × ½ = ¼`"]
+  n9 --- n12
+  n13["`Bốn quy tắc`"]
+  n9 --- n13
+  n14["`Xác suất nằm giữa 0 (không thể) và 1 (chắc chắn)`"]
+  n13 --- n14
+  n15["`Quy tắc phần bù: P(ít nhất một sấp) = 1 − ¼ = ¾`"]
+  n13 --- n15
+  n16["`Quy tắc cộng (HOẶC) chỉ cho biến cố xung khắc`"]
+  n13 --- n16
+  n17["`Quy tắc nhân (VÀ) cho biến cố độc lập`"]
+  n13 --- n17
+  n18["`Lời giải Chevalier: 1 − (5/6)⁴ = 0,52 và 1 − (35/36)²⁴ = 0,49`"]
+  n9 --- n18
+  n19["`Lỗi của Chevalier là cộng xác suất của biến cố không xung khắc, tung 12 lần sẽ ra xác suất 2`"]
+  n9 --- n19
+  n20["`Mọi xác suất đều có điều kiện: luôn kèm giả định như đồng xu cân, tung đúng cách`"]
+  n9 --- n20
+  n21["`Mục Conditional Probability — xét nghiệm và ngụy biện của công tố viên`"]
+  n0 --- n21
+  n22["`Chụp X-quang tuyến vú chính xác 90%, tỷ lệ mắc ung thư 1%`"]
+  n21 --- n22
+  n23["`Cây cho 1.000 phụ nữ: 10 mắc, 9 dương tính thật, 99 dương tính giả`"]
+  n21 --- n23
+  n24["`Tổng 108 người dương tính, khoảng 11% số người được sàng lọc`"]
+  n21 --- n24
+  n25["`Chỉ 9 trong 108 người dương tính thật sự mắc ung thư, khoảng 8%`"]
+  n21 --- n25
+  n26["`Phần lớn người dương tính không mắc bệnh vì bệnh hiếm`"]
+  n21 --- n26
+  n27["`Ngụy biện của công tố viên: nhầm P(bằng chứng khi vô tội) với P(vô tội khi có bằng chứng)`"]
+  n21 --- n27
+  n28["`Ví dụ ADN 1 phần tỷ, sai như suy từ là Giáo hoàng thì Công giáo sang là Công giáo thì là Giáo hoàng`"]
+  n21 --- n28
+  n29["`Mục What Is Probability Anyway — năm cách hiểu và ba tình huống dữ liệu`"]
+  n0 --- n29
+  n30["`Không có máy đo xác suất, chuyên gia đồng ý về toán nhưng tranh cãi về ý nghĩa`"]
+  n29 --- n30
+  n31["`Năm cách hiểu`"]
+  n29 --- n31
+  n32["`Cổ điển: xúc xắc ra mặt một là 1/6, nhưng định nghĩa vòng vo vì cần “đồng khả năng”`"]
+  n31 --- n32
+  n33["`Liệt kê: 3 tất trắng trong 7 tất cho xác suất 3/7`"]
+  n31 --- n33
+  n34["`Tần suất dài hạn: không dùng được cho sự kiện duy nhất như đua ngựa`"]
+  n31 --- n34
+  n35["`Khuynh hướng: xu hướng khách quan nhưng không ước tính được`"]
+  n31 --- n35
+  n36["`Chủ quan: đặt 60 xu để được 1 bảng nghĩa là xác suất 0,6`"]
+  n31 --- n36
+  n37["`Tác giả chọn cách hiểu chủ quan: xác suất được kiến tạo, nền của suy luận Bayes ở Chương 11`"]
+  n29 --- n37
+  n38["`Vẫn có thể hành xử như thể đồng xu và máy sinh số giả ngẫu nhiên là ngẫu nhiên khách quan`"]
+  n29 --- n38
+  n39["`Ba tình huống dữ liệu`"]
+  n29 --- n39
+  n40["`Dữ liệu sinh ra bởi thiết bị ngẫu nhiên, như phân bổ ngẫu nhiên bệnh nhân`"]
+  n39 --- n40
+  n41["`Dữ liệu có sẵn được chọn bởi thiết bị ngẫu nhiên, như điều tra chọn mẫu`"]
+  n39 --- n41
+  n42["`Không có ngẫu nhiên nào nhưng hành xử như thể có – phần lớn ứng dụng thống kê`"]
+  n39 --- n42
+  n43["`Gán số cho kết cục ta có biến ngẫu nhiên với phân phối xác suất`"]
+  n29 --- n43
+  n44["`Mục If We Observe Everything — Poisson và số vụ giết người`"]
+  n0 --- n44
+  n45["`Câu hỏi: bao lâu một lần có ngày từ 7 vụ giết người trở lên ở Anh và xứ Wales`"]
+  n44 --- n45
+  n46["`1.545 vụ trong 1.095 ngày, trung bình 1,41 vụ mỗi ngày, chưa ngày nào từ 7 vụ`"]
+  n44 --- n46
+  n47["`Hành xử như thể có rất nhiều người, mỗi người một xác suất rất nhỏ → phân phối Poisson`"]
+  n44 --- n47
+  n48["`Poisson chỉ cần một tham số là trung bình, khác phân phối chuẩn cần hai`"]
+  n44 --- n48
+  n49["`Dự kiến 12,4 ngày có đúng 5 vụ, thực tế 13 ngày, cả phân phối khớp rất sát`"]
+  n44 --- n49
+  n50["`P(từ 7 vụ trở lên) = 0,07%, khoảng 4 năm một lần: hiếm nhưng không phải không thể`"]
+  n44 --- n50
+  n51["`Ta quan sát một trong nhiều thế giới có thể đã xảy ra`"]
+  n44 --- n51
+  n52["`Quetelet: con người trung bình, vật lý xã hội, tỷ lệ tự tử quốc gia gần như không đổi`"]
+  n44 --- n52
+  n53["`Thông điệp xuyên suốt`"]
+  n0 --- n53
+  n54["`Nghĩ theo tần số kỳ vọng thay vì phần trăm để lập luận xác suất đúng`"]
+  n53 --- n54
+  n55["`Luôn hỏi xác suất của cái gì, với điều kiện gì, tỷ lệ nền quyết định nhiều`"]
+  n53 --- n55
+  n56["`Xác suất hữu ích cả khi không có cơ chế ngẫu nhiên tường minh`"]
+  n53 --- n56
+  n57["`Từng sự kiện không đoán được, nhưng tổng thể đều đặn đến kinh ngạc`"]
+  n53 --- n57
+  class n0 root
+  class n1,n9,n21,n29,n44,n53 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 8 "Probability—the Language of Uncertainty and Variability", trang PDF 144–158 (ebook không có số trang in; chú thích cuối chương và chú thích dấu sao nằm ở phần cuối sách).
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Bảy chương đầu cố ý đi xa nhất có thể mà không cần lý thuyết xác suất chính thức: Chương 1 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md)) và Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) bàn cách tóm tắt và truyền đạt số liệu; Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) đưa ra ý tưởng "rút ngẫu nhiên" từ một tổng thể, phân phối chuẩn, và khái niệm tổng thể ẩn dụ (metaphorical population) khi ta đã có toàn bộ dữ liệu; Chương 4–6 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md), [C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md), [C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)) bàn nhân quả, hồi quy và thuật toán; Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) dùng bootstrap (lấy mẫu lặp lại từ chính dữ liệu bằng máy tính) để đo độ bất định của ước lượng.
+
+Chương 8 là nơi lý thuyết xác suất chính thức lần đầu bước vào: nó đưa ra các quy tắc xác suất, xác suất có điều kiện, các cách hiểu khác nhau về "xác suất", và lập luận rằng xác suất áp dụng được cả khi dữ liệu không sinh ra từ một cơ chế ngẫu nhiên nào. Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) dùng nền móng này để suy ra phân phối của các thống kê, định lý giới hạn trung tâm và khoảng tin cậy; Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) dùng nó cho kiểm định giả thuyết (kể cả kiểm định xem phân phối Poisson trong chương này có hợp lý không); Chương 11 ([C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) phát triển cách hiểu xác suất chủ quan mà tác giả ưa chuộng thành suy luận Bayes.
+
+## Lưu ý
+
+- **Mâu thuẫn về khoảng thời gian của số liệu giết người (nhận xét của người tổng hợp):** sách viết "ba năm (1.095 ngày) giữa tháng 4/2014 và tháng 3/2016", nhưng từ tháng 4/2014 đến tháng 3/2016 chỉ là hai năm (khoảng 731 ngày). Con số 1.545 vụ trong 1.095 ngày (khoảng 515 vụ/năm) và 1.095 ngày đúng là ba năm, nên khả năng cao giai đoạn thật là tháng 4/2013 – tháng 3/2016. Chú thích hình (Figure 8.5) ghi "2014 to 2016" cũng theo cách viết này. Chương 9 dùng số liệu giết người theo năm của chính hai năm 2014–2015 (497) và 2015–2016 (557), tổng 1.054 — không thể chứa 1.545 vụ, càng cho thấy giai đoạn ba năm phải bắt đầu từ 2013. (Lưu ý thêm: "vụ giết người" (homicide incident) ở Chương 8 khác "số nạn nhân" (homicides) ở Chương 9, vì một vụ có thể có nhiều nạn nhân.)
+- **Lỗi nhãn trên cây xác suất (Figure 8.3):** ở nhánh dưới của lần tung thứ nhất, hình ghi "Head" (ngửa), đúng ra phải là "Tail" (sấp), vì hai kết cục cuối của nhánh này là "Tail and head" và "Two tails". Bản tổng hợp chép lại với nhãn đúng.
+- **Các công thức bị mất trong lớp chữ:** chú thích cuối chương số 1 (lời giải bài toán Chevalier de Méré) bị mất các phân số và lũy thừa. Người tổng hợp khôi phục: xác suất không ra mặt sáu trong một lần tung là 5/6; bốn lần liền không ra sáu là (5/6)⁴ = 625/1.296 = 0,482; xác suất thắng Trò 1 là 1 − 0,482 = 0,518 (sách làm tròn 0,52). Với Trò 2: (35/36)²⁴ = 0,509; xác suất thắng 1 − 0,509 = 0,491 (sách: 0,49). Cả hai đều khớp với số trong sách.
+- **Các phép tính đã tự kiểm tra:** ½ × ½ = ¼; 1 − ¼ = ¾; 9 + 99 = 108; 108/1.000 = 10,8% ("khoảng 11%"); 9/108 = 8,3% ("8%"); 1.545/1.095 = 1,411 vụ/ngày; xác suất Poisson của đúng 5 vụ với trung bình 1,41 là e^(−1,41) × 1,41⁵ / 120 = 0,01134, nhân 1.095 ngày ra 12,4 ngày; xác suất từ 7 vụ trở lên là 0,00065 (0,065%, sách làm tròn 0,07%), nghịch đảo khoảng 1.540 ngày (sách: 1.535, tức khoảng 4,2 năm — khớp nếu dùng trung bình chưa làm tròn 1,411). Mọi con số của sách đều đúng.
+- **Đồ thị không ghi số:** Figure 8.1 (mô phỏng 10.000 ván) và Figure 8.5 (số ngày có 0, 1, 2… vụ giết người) là đồ thị không ghi số trên cột hoặc đường. Các số đọc từ trục trong bản tổng hợp là **ước lượng** của người tổng hợp. Riêng số "dự kiến" của Figure 8.5, người tổng hợp tính lại từ công thức Poisson; số "quan sát" (trừ con số 13 ngày có 5 vụ do sách nêu) chỉ là đọc từ hình, sai số khoảng ±5 ngày. Trục tung của Figure 8.5 có lỗi chính tả "occurences" (đúng là "occurrences").
+- **Danh sách chú thích dấu sao trong file chương bị lệch:** danh sách footnote đi kèm chương trong bộ chữ trích ra thực chất thuộc Chương 10. Bảy footnote đúng của Chương 8 (lỗi tính của Chevalier, đáp án ¼, "luật đảo điều kiện", Philip Dawid, máy sinh số giả ngẫu nhiên, cơ học lượng tử, định nghĩa "vụ giết người") đã được lấy từ danh sách footnote toàn sách và đưa vào đúng chỗ.
+- **Lời văn chưa chặt (nhận xét của người tổng hợp):** sách nói Chevalier de Méré phải tới khoảng 400 ván mới thấy Trò 1 tốt hơn, nhưng chênh lệch thật chỉ là 51,8% so với 49,1%, tức 2,7 điểm phần trăm. Với 400 ván mỗi trò, sai số chuẩn của tỷ lệ thắng là khoảng √(0,25/400) = 2,5 điểm phần trăm, nên ở mốc này chênh lệch vẫn dễ bị may rủi che lấp; trên đồ thị mô phỏng, hai đường chỉ tách hẳn sau khoảng 1.000–2.000 ván. Câu "it becomes clear" vì vậy hơi lạc quan.

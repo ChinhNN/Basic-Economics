@@ -1,24 +1,24 @@
 # Chương 10 — Trả lời câu hỏi và tuyên bố phát hiện (Answering Questions and Claiming Discoveries)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), bản Mỹ đầu tiên tháng 9/2019 (bản gốc Pelican/Penguin, Anh, tháng 3/2019), Chương 10 "Answering Questions and Claiming Discoveries", trang PDF 174–202 (ebook không có số trang in; vị trí ghi theo chỉ số trang PDF và tên tiểu mục).
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Phần mở đầu ([00-gioi-thieu.md](00-gioi-thieu.md)) giới thiệu chu trình giải quyết vấn đề PPDAC (Vấn đề, Kế hoạch, Dữ liệu, Phân tích, Kết luận) và vụ bác sĩ Harold Shipman. Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) dạy cách ước lượng một con số và gắn cho nó khoảng tin cậy bằng phương pháp bootstrap; Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) đưa ra ngôn ngữ xác suất, phân phối Poisson, cách nghĩ theo "1.000 người được xét nghiệm" và ngộ nhận của bên công tố; Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) dùng lý thuyết xác suất để tính khoảng tin cậy mà không cần mô phỏng. Chương 10 chuyển từ câu hỏi "con số này là bao nhiêu và chắc đến đâu" sang câu hỏi "dữ liệu có đủ bằng chứng để bác bỏ một giả định mặc định hay không": kiểm định giả thuyết, giá trị P, ý nghĩa thống kê, lý thuyết Neyman–Pearson về sai lầm loại I và loại II, kiểm định tuần tự, và những cách giá trị P bị dùng sai. Đây là phần "Phân tích" mang tính khẳng định của chu trình PPDAC. Chương 11 ([C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) trình bày cách tiếp cận Bayes, vốn bác bỏ toàn bộ ý tưởng kiểm định giả thuyết không; Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) quay lại câu "phần lớn kết quả nghiên cứu được công bố là sai" và các hậu quả của việc săn ý nghĩa thống kê; Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) bàn cách làm và đọc thống kê tốt hơn.
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **kiểm định giả thuyết là một cơ chế để tự bảo vệ trước những "phát hiện" giả: ta giữ một giả thuyết không (null hypothesis) — giả định mặc định rằng không có gì xảy ra — cho tới khi dữ liệu đủ bất ngờ dưới giả định đó; giá trị P đo mức bất ngờ ấy, tức xác suất có được kết quả cực đoan ít nhất như đã quan sát nếu giả thuyết không (và mọi giả định khác của mô hình) đúng. Giá trị P không phải xác suất giả thuyết không đúng, không đo độ lớn hay tầm quan trọng của hiệu ứng, và "không có ý nghĩa thống kê" không có nghĩa là "không có hiệu ứng"; khi làm nhiều kiểm định, cắt dữ liệu thành nhiều nhóm hay kiểm định lặp lại trên dữ liệu tích luỹ, ngưỡng phải được điều chỉnh, nếu không phát hiện giả là điều chắc chắn xảy ra.** Chương mở đầu bằng John Arbuthnot (1710): 82 năm liền ở London số bé trai được rửa tội đều nhiều hơn bé gái, xác suất điều đó xảy ra nếu bé trai và bé gái là "năm ăn năm thua" là 1/2^82 — kiểm định ý nghĩa thống kê đầu tiên trong lịch sử. Mục "What Is a 'Hypothesis'?" định nghĩa giả thuyết là một giả định tạm thời về một thành phần của mô hình thống kê. Mục "Why Do We Need Formal Testing of Null Hypotheses?" giải thích rằng con người có xu hướng thấy quy luật ở nơi không có, nên cần một thủ tục chính thức; giả thuyết không giống bị cáo được coi là vô tội cho tới khi bị chứng minh có tội; ví dụ khoanh tay của 54 nghiên cứu sinh (nữ 64% tay phải ở trên, nam 57%) cho thấy bằng phép kiểm định hoán vị rằng chênh lệch 7% nằm ngay giữa phân phối kỳ vọng, giá trị P một phía 0,45, hai phía 0,89. Mục "Statistical Significance" nêu định nghĩa ý nghĩa thống kê, chân dung Ronald Fisher, thí nghiệm nếm trà (xác suất đoán đúng cả 4 cốc là 1/70) và sáu bước của kiểm định ý nghĩa giả thuyết không (NHST). Mục "Using Probability Theory" dùng các phép kiểm định có sẵn công thức — khi bình phương, t — để trả lời lại năm câu hỏi của sách: số vụ giết người theo ngày khớp phân phối Poisson (P = 0,96); thay đổi thất nghiệp 3.000 người không có ý nghĩa vì khoảng tin cậy 95% chứa 0; statin giảm nhồi máu cơ tim 27% với P cực nhỏ; chiều cao mẹ vẫn liên quan tới chiều cao con trai khi đã tính chiều cao bố (t = 7,25); và cây phân loại "thắng" cuộc thi Titanic chỉ nhờ may mắn (P = 0,59). Mục "The Danger of Carrying Out Many Significance Tests" chỉ ra rằng làm 10 kiểm định với thuốc vô dụng thì 40% khả năng có ít nhất một kết quả "có ý nghĩa"; con cá hồi chết có 16 vùng não "phản ứng" với ảnh; cách chữa là hiệu chỉnh Bonferroni, kiểm soát tỷ lệ phát hiện sai và đòi hỏi lặp lại nghiên cứu; hạt Higgs được công bố ở mức "năm sigma". Mục "Neyman—Pearson Theory" thêm giả thuyết đối, sai lầm loại I (mức α) và loại II (β), lực kiểm định 1 − β, và giải thích vì sao Nghiên cứu Bảo vệ Tim (HPS) cần hơn 20.000 người. Khung câu hỏi về Harold Shipman cho thấy kiểm định lặp lại hằng năm chắc chắn sẽ báo động sai, và kiểm định tỷ số xác suất tuần tự (SPRT) sẽ phát hiện Shipman năm 1984, cứu khoảng 175 người. Phần "What could go wrong with P-values?" dùng cây tần số 1.000 nghiên cứu (36% "phát hiện" là sai) và sáu nguyên tắc của Hiệp hội Thống kê Mỹ (ASA) năm 2016 để chỉ ra các cách hiểu sai giá trị P, kèm ví dụ rượu và ví dụ học đại học với u não.
+## Ý chính
 
-> **Lưu ý:**
-> - **Mức ý nghĩa của hạt Higgs bị gọi nhầm là "hai phía" (mục "The Danger of Carrying Out Many Significance Tests", phần câu hỏi 5, trang PDF 188):** sách viết rằng một quan sát cho "giá trị P hai phía 1 trên 3,5 triệu" sẽ cách giả thuyết không năm sai số chuẩn. Theo tính toán của người tổng hợp với phân phối chuẩn, xác suất vượt quá 5 sai số chuẩn **về một phía** là khoảng 2,9 × 10⁻⁷, tức khoảng 1 trên 3,5 triệu; xác suất **hai phía** là khoảng 5,7 × 10⁻⁷, tức khoảng 1 trên 1,7 triệu. Vậy con số 1 trên 3,5 triệu là giá trị P một phía (theo hiểu biết của người tổng hợp, vật lý hạt quy ước dùng giá trị P một phía vì chỉ quan tâm tới tín hiệu vượt nền). Nhận xét của người tổng hợp.
-> - **Ký hiệu β dùng sai trong mục "Neyman—Pearson Theory" (trang PDF 190):** sách định nghĩa β là xác suất sai lầm loại II và lực kiểm định là 1 − β, nhưng ngay sau đó viết "often setting α = 0.05 and β = 0.80" và "the study has around β = 90% power". Đúng ra là 1 − β = 0,80 (tức β = 0,20) và 1 − β = 90% (tức β = 0,10). Cùng đoạn, "Health Protection Study" là lỗi đánh máy của "Heart Protection Study". Chú thích Hình 10.4 viết "Type 1" thay vì "Type I". Bản tổng hợp dùng ký hiệu đúng.
-> - **Chú thích dấu sao về Shipman năm 1979 mâu thuẫn với lời văn:** lời văn (trang PDF 193) so 40 ca tử vong quan sát với 25,3 ca kỳ vọng và cho giá trị P một phía 0,004; chú thích dấu sao lại nói "xác suất một biến Poisson có trung bình 22,5 đạt ít nhất 40". Người tổng hợp tính gần đúng (xấp xỉ Wilson–Hilferty cho đuôi Poisson): với trung bình 25,3, P(X ≥ 40) ≈ 0,004 — khớp lời văn; với trung bình 22,5, P(X ≥ 40) ≈ 0,0006. Vậy 22,5 trong chú thích nhiều khả năng là lỗi; bản tổng hợp dùng 25,3.
-> - **Thống kê khi bình phương 0,02 trong ví dụ khoanh tay là bản có hiệu chỉnh liên tục (Yates), sách không nói ra:** người tổng hợp tính lại từ bảng 2 × 2 (nữ 5 trái/9 phải, nam 17 trái/23 phải; kỳ vọng 5,70/8,30/16,30/23,70): công thức đơn giản nhất trong bảng thuật ngữ của sách, tổng (quan sát − kỳ vọng)²/kỳ vọng, cho 0,70² × (1/5,70 + 1/16,30 + 1/8,30 + 1/23,70) ≈ 0,20, ứng với P ≈ 0,66. Con số 0,02 và P = 0,90 của sách khớp với bản có hiệu chỉnh Yates: (0,70 − 0,5)² × 0,399 ≈ 0,017, P ≈ 0,90. Kết luận "không có bằng chứng" không đổi.
-> - **Giá trị P hai phía 0,89 trong ví dụ khoanh tay (chỗ chưa chắc):** người tổng hợp tính tay phân phối siêu bội (số nữ tay phải ở trên, từ 0 tới 14) và được: P(9 trở lên) ≈ 0,453 — khớp giá trị một phía 0,45 của sách; P(đúng 8) ≈ 0,242. Nếu hiểu đúng từng chữ "chênh lệch ít nhất 7% theo cả hai chiều" thì chỉ loại trường hợp 8 nữ (chênh lệch −2,9%), và P hai phía ≈ 1 − 0,242 = 0,76. Con số 0,89 gần với cách **nhân đôi giá trị một phía** (bảng thuật ngữ của sách nói đây là cách thường dùng): 2 × 0,447 (đọc từ 1.000 hoán vị) ≈ 0,89, hoặc 2 × 0,453 ≈ 0,91. Dù cách nào, kết luận không đổi.
-> - **Bảng 10.3 (số vụ giết người theo ngày):** cột "số ngày quan sát" cộng lại được 259 + 387 + 261 + 131 + 40 + 13 + 3 = **1.094**, không phải 1.095 như dòng tổng. Chú thích bảng ghi giai đoạn "April 2014 to March 2016" (2 năm, khoảng 730 ngày), nhưng 1.095 ngày là 3 năm và Chương 8 nói "ba năm"; giai đoạn hợp lý là tháng 4/2013 tới tháng 3/2016. Cột kỳ vọng thì người tổng hợp tính lại khớp (trung bình 1.545/1.095 = 1,411 vụ/ngày).
-> - **Dấu của thay đổi thất nghiệp:** sách viết "a quarterly change in unemployment of 3,000" rồi lại dùng "point estimate (−3,000)". Theo Chương 7, đó là mức **giảm** 3.000 người; khoảng tin cậy −80.000 tới +74.000 khớp với ước lượng −3.000 ± 77.000.
-> - **Bảng 10.4 (HPS):** lớp chữ của ebook ghi "P > 0.0001", ảnh trang ghi đúng là "P < 0.0001". Khoảng tin cậy chỉ "xấp xỉ" ước lượng ± 2 sai số chuẩn: với nhồi máu cơ tim, 27% ± 2 × 4% là 19%–35%, còn bảng ghi 21%–33% (sách giải thích do HPS làm tròn). Câu "giá trị P cho mức giảm 27% nhồi máu cơ tim vào khoảng 1 trên 3 triệu" khó khớp với chính số liệu của bảng: 27/4 ≈ 6,75 sai số chuẩn ứng với P cỡ 10⁻¹¹; tính từ số ca (8,7% của 10.269 người và 11,8% của 10.267 người) người tổng hợp được khoảng 7,5 sai số chuẩn. Một trên 3 triệu tương ứng khoảng 5 sai số chuẩn. Người tổng hợp không đối chiếu được nguồn gốc con số này; kết luận "P rất nhỏ" không đổi.
-> - **Chú thích Hình 10.1 viết sai loại đường:** chú thích nói "đường liền biểu diễn số bé trai và bé gái bằng nhau", nhưng trên hình, đường biểu diễn tỷ số 100 là **đường nét đứt** nằm ngang; đường liền trơn là đường cong làm khớp với dữ liệu, còn đường gấp khúc màu xám là số liệu từng năm.
-> - **Làm tròn nhỏ:** hiệu chỉnh Bonferroni cho con cá hồi dùng 8.000 thay vì 8.064 điểm (0,05/8.064 ≈ 1 trên 161.000, so với 1 trên 160.000 của sách); 25.000 bác sĩ đa khoa × 5% = 1.250, sách làm tròn thành "khoảng 1.300"; 3.715 ca u não trên 2.000.000 nam giới là 1 trên 538, sách ghi "khoảng 1 trên 600" vì số nam giới là "hơn 2 triệu".
-> - **Các phép tính đã tự kiểm tra và khớp:** 1/2⁸² ≈ 2,1 × 10⁻²⁵ (24 số 0 sau dấu phẩy); 1/2⁸¹ ≈ 4,1 × 10⁻²⁵; 21/20 = 105 bé trai trên 100 bé gái; 9/14 = 64%, 23/40 = 57%, 32/54 = 59%; kỳ vọng 14 × 22/54 = 5,70; 54! ≈ 2,3 × 10⁷¹ và thời gian duyệt hết với tốc độ một triệu hoán vị mỗi giây ≈ 7 × 10⁵⁷ năm; 52! ≈ 8 × 10⁶⁷ và với một nghìn tỷ ván mỗi giây ≈ 2,6 × 10⁴⁸ năm; nếm trà: C(8,4) = 70; t = 0,33355/0,04600 = 7,25; 0,41175/0,04668 = 8,82; 69,22882/0,10664 = 649,2; Titanic: 0,1028/√412 = 0,0050, t = −0,0027/0,0050 = −0,54, P hai phía ≈ 0,59; 1 − 0,95² = 0,0975; 1 − 0,95¹⁰ = 0,40; 8.064 × 0,001 ≈ 8; 0,05/1.000.000 = 1 trên 20 triệu; 0,05 × 0,05 = 1/400; 0,05/25.000 = 1 trên 500.000; 105 − 59,2 = 45,8 ≈ 46; ngưỡng SPRT ln(0,99/0,01) ≈ 4,6, ln(0,9999/0,0001) ≈ 9,2, ln(0,999999/0,000001) ≈ 13,8 (khớp các vạch trên Hình 10.4); 0,69 = ln 2; cây tần số: 45/125 = 36%, 4,5/84,5 = 5,3%; u não: 3.000/600 = 5, 5 × 1,19 = 5,95 ≈ 6; 10.267 + 10.269 = 20.536 người trong HPS.
-> - **Hình là đồ thị không ghi số:** Hình 10.1 (tỷ số giới tính theo năm), Hình 10.2 (hai biểu đồ cột phân phối hoán vị), Hình 10.3 (số tử vong vượt kỳ vọng cộng dồn của Shipman) và Hình 10.4 (thống kê SPRT) không ghi số; mọi con số đọc từ trục trong bản tổng hợp là **ước lượng** của người tổng hợp. Riêng Hình 10.2(b), người tổng hợp kiểm tra số đọc được với phân phối siêu bội tính tay và thấy khớp (ví dụ cột tại −3% khoảng 243 trên 1.000, tính ra 242). Hình 10.5 (cây tần số) có ghi số.
-> - **Lớp chữ và chú thích:** các công thức dạng ảnh bị mất trong lớp chữ (công thức sai số chuẩn trong chú thích về Titanic, công thức khi bình phương và công thức phân phối siêu bội trong bảng thuật ngữ); bản tổng hợp viết lại theo dạng chuẩn. Danh sách chú thích dấu sao đi kèm bundle của chương này bị lệch (là chú thích của các chương khác); người tổng hợp đã đối chiếu `footnotes-all.txt` và xác định 9 chú thích chữ (về thuận tay, tỷ số odds, chữ "chi", kiểm định t ghép cặp, 1 − 0,95², việc "chấp nhận" giả thuyết không, giá trị P của Shipman, Wald và Barnard, sáu nguyên tắc ASA) cùng 6 bảng (Bảng 10.1–10.6) là của chương này.
+Spiegelhalter muốn người đọc hiểu rằng **kiểm định giả thuyết là một cơ chế để tự bảo vệ trước những "phát hiện" giả: ta giữ một giả thuyết không (null hypothesis) — giả định mặc định rằng không có gì xảy ra — cho tới khi dữ liệu đủ bất ngờ dưới giả định đó; giá trị P đo mức bất ngờ ấy, tức xác suất có được kết quả cực đoan ít nhất như đã quan sát nếu giả thuyết không (và mọi giả định khác của mô hình) đúng. Giá trị P không phải xác suất giả thuyết không đúng, không đo độ lớn hay tầm quan trọng của hiệu ứng, và "không có ý nghĩa thống kê" không có nghĩa là "không có hiệu ứng"; khi làm nhiều kiểm định, cắt dữ liệu thành nhiều nhóm hay kiểm định lặp lại trên dữ liệu tích luỹ, ngưỡng phải được điều chỉnh, nếu không phát hiện giả là điều chắc chắn xảy ra.**
+
+Chương mở đầu bằng John Arbuthnot (1710): 82 năm liền ở London số bé trai được rửa tội đều nhiều hơn bé gái, xác suất điều đó xảy ra nếu bé trai và bé gái là "năm ăn năm thua" là 1/2^82 — kiểm định ý nghĩa thống kê đầu tiên trong lịch sử. Mục "What Is a 'Hypothesis'?" định nghĩa giả thuyết là một giả định tạm thời về một thành phần của mô hình thống kê.
+
+Mục "Why Do We Need Formal Testing of Null Hypotheses?" giải thích rằng con người có xu hướng thấy quy luật ở nơi không có, nên cần một thủ tục chính thức; giả thuyết không giống bị cáo được coi là vô tội cho tới khi bị chứng minh có tội; ví dụ khoanh tay của 54 nghiên cứu sinh (nữ 64% tay phải ở trên, nam 57%) cho thấy bằng phép kiểm định hoán vị rằng chênh lệch 7% nằm ngay giữa phân phối kỳ vọng, giá trị P một phía 0,45, hai phía 0,89.
+
+Mục "Statistical Significance" nêu định nghĩa ý nghĩa thống kê, chân dung Ronald Fisher, thí nghiệm nếm trà (xác suất đoán đúng cả 4 cốc là 1/70) và sáu bước của kiểm định ý nghĩa giả thuyết không (NHST).
+
+Mục "Using Probability Theory" dùng các phép kiểm định có sẵn công thức — khi bình phương, t — để trả lời lại năm câu hỏi của sách: số vụ giết người theo ngày khớp phân phối Poisson (P = 0,96); thay đổi thất nghiệp 3.000 người không có ý nghĩa vì khoảng tin cậy 95% chứa 0; statin giảm nhồi máu cơ tim 27% với P cực nhỏ; chiều cao mẹ vẫn liên quan tới chiều cao con trai khi đã tính chiều cao bố (t = 7,25); và cây phân loại "thắng" cuộc thi Titanic chỉ nhờ may mắn (P = 0,59).
+
+Mục "The Danger of Carrying Out Many Significance Tests" chỉ ra rằng làm 10 kiểm định với thuốc vô dụng thì 40% khả năng có ít nhất một kết quả "có ý nghĩa"; con cá hồi chết có 16 vùng não "phản ứng" với ảnh; cách chữa là hiệu chỉnh Bonferroni, kiểm soát tỷ lệ phát hiện sai và đòi hỏi lặp lại nghiên cứu; hạt Higgs được công bố ở mức "năm sigma".
+
+Mục "Neyman—Pearson Theory" thêm giả thuyết đối, sai lầm loại I (mức α) và loại II (β), lực kiểm định 1 − β, và giải thích vì sao Nghiên cứu Bảo vệ Tim (HPS) cần hơn 20.000 người.
+
+Khung câu hỏi về Harold Shipman cho thấy kiểm định lặp lại hằng năm chắc chắn sẽ báo động sai, và kiểm định tỷ số xác suất tuần tự (SPRT) sẽ phát hiện Shipman năm 1984, cứu khoảng 175 người.
+
+Phần "What could go wrong with P-values?" dùng cây tần số 1.000 nghiên cứu (36% "phát hiện" là sai) và sáu nguyên tắc của Hiệp hội Thống kê Mỹ (ASA) năm 2016 để chỉ ra các cách hiểu sai giá trị P, kèm ví dụ rượu và ví dụ học đại học với u não.
 
 ## Sơ đồ
 
@@ -410,7 +410,9 @@ John Arbuthnot, một bác sĩ trở thành ngự y của Nữ hoàng Anne năm 
 | Đường cong làm khớp | khoảng 107 năm 1629, nhích lên khoảng 108 quanh 1655–1660, giảm về khoảng 106 trong giai đoạn 1680–1700, khoảng 106,5 năm 1710 |
 | Số năm tỷ số dưới 100 | không năm nào |
 
-Arbuthnot thấy năm nào số bé trai được rửa tội cũng nhiều hơn bé gái. Nhưng ông muốn khẳng định một quy luật tổng quát hơn, nên lập luận: nếu thật ra tỷ lệ sinh bé trai và bé gái như nhau, thì mỗi năm có 50% khả năng trai nhiều hơn gái và 50% khả năng gái nhiều hơn trai, giống tung một đồng xu. Khi đó, việc năm nào trai cũng nhiều hơn giống như tung đồng xu cân đối 82 lần và lần nào cũng ra mặt ngửa. Xác suất của điều này là 1/2⁸², khoảng 2,1 × 10⁻²⁵, tức có 24 chữ số 0 sau dấu phẩy trước chữ số khác 0 đầu tiên. Nếu thấy chuyện như vậy trong một thí nghiệm thật, ta sẽ tự tin nói đồng xu không cân đối. Tương tự, Arbuthnot kết luận có một lực nào đó làm sinh nhiều bé trai hơn, và ông cho rằng đó là để bù cho tỷ lệ tử vong cao hơn của nam giới: "Để bù đắp mất mát ấy, Tự nhiên chu đáo, theo sự sắp đặt của Đấng Sáng tạo khôn ngoan, sinh ra nhiều nam hơn nữ, và gần như theo một tỷ lệ cố định."
+Arbuthnot thấy năm nào số bé trai được rửa tội cũng nhiều hơn bé gái. Nhưng ông muốn khẳng định một quy luật tổng quát hơn, nên lập luận: nếu thật ra tỷ lệ sinh bé trai và bé gái như nhau, thì mỗi năm có 50% khả năng trai nhiều hơn gái và 50% khả năng gái nhiều hơn trai, giống tung một đồng xu. Khi đó, việc năm nào trai cũng nhiều hơn giống như tung đồng xu cân đối 82 lần và lần nào cũng ra mặt ngửa. Xác suất của điều này là 1/2⁸², khoảng 2,1 × 10⁻²⁵, tức có 24 chữ số 0 sau dấu phẩy trước chữ số khác 0 đầu tiên. Nếu thấy chuyện như vậy trong một thí nghiệm thật, ta sẽ tự tin nói đồng xu không cân đối.
+
+Tương tự, Arbuthnot kết luận có một lực nào đó làm sinh nhiều bé trai hơn, và ông cho rằng đó là để bù cho tỷ lệ tử vong cao hơn của nam giới: "Để bù đắp mất mát ấy, Tự nhiên chu đáo, theo sự sắp đặt của Đấng Sáng tạo khôn ngoan, sinh ra nhiều nam hơn nữ, và gần như theo một tỷ lệ cố định."
 
 Số liệu của Arbuthnot đã được phân tích lại nhiều lần. Có thể có lỗi đếm, và chỉ các lễ rửa tội của Giáo hội Anh được tính, nhưng phát hiện cơ bản vẫn đúng: ngày nay tỷ số giới tính "tự nhiên" được coi là khoảng 105, nghĩa là cứ 20 bé gái thì có 21 bé trai. Tiêu đề bài báo của ông dùng dữ liệu làm bằng chứng thống kê trực tiếp cho sự can thiệp siêu nhiên: "Một luận cứ cho Ý trời, rút ra từ tính đều đặn bất biến quan sát được trong số sinh của hai giới". Dù kết luận đó có chính đáng hay không, và dù ông không biết, Arbuthnot đã đi vào lịch sử vì thực hiện **kiểm định ý nghĩa thống kê đầu tiên** trên thế giới.
 
@@ -436,7 +438,9 @@ Khi bàn về hồi quy ở Chương 5, sách đã nêu: *quan sát = mô hình 
 
 #### Xu hướng "thấy" phát hiện và vai trò của giả thuyết không
 
-Không chỉ nhà khoa học mới trân trọng phát hiện; niềm vui tìm ra điều mới là phổ quát. Nó đáng mơ ước tới mức con người có xu hướng bẩm sinh cảm thấy mình đã tìm ra điều gì đó khi thật ra không có. Sách đã dùng thuật ngữ **apophenia** cho khả năng thấy quy luật ở nơi không có quy luật, và có ý kiến cho rằng xu hướng này còn mang lại lợi thế tiến hoá: những tổ tiên bỏ chạy khi nghe bụi cây xào xạc, không chờ biết chắc đó có phải hổ hay không, có lẽ dễ sống sót hơn. Thái độ đó ổn với người săn bắt hái lượm, nhưng không thể dùng trong khoa học — toàn bộ quá trình khoa học sụp đổ nếu các tuyên bố chỉ là sản phẩm tưởng tượng. Phải có cách bảo vệ ta trước phát hiện giả, và kiểm định giả thuyết cố gắng đảm nhận vai trò đó.
+Không chỉ nhà khoa học mới trân trọng phát hiện; niềm vui tìm ra điều mới là phổ quát. Nó đáng mơ ước tới mức con người có xu hướng bẩm sinh cảm thấy mình đã tìm ra điều gì đó khi thật ra không có.
+
+Sách đã dùng thuật ngữ **apophenia** cho khả năng thấy quy luật ở nơi không có quy luật, và có ý kiến cho rằng xu hướng này còn mang lại lợi thế tiến hoá: những tổ tiên bỏ chạy khi nghe bụi cây xào xạc, không chờ biết chắc đó có phải hổ hay không, có lẽ dễ sống sót hơn. Thái độ đó ổn với người săn bắt hái lượm, nhưng không thể dùng trong khoa học — toàn bộ quá trình khoa học sụp đổ nếu các tuyên bố chỉ là sản phẩm tưởng tượng. Phải có cách bảo vệ ta trước phát hiện giả, và kiểm định giả thuyết cố gắng đảm nhận vai trò đó.
 
 Ý tưởng **giả thuyết không** trở thành trung tâm: đó là dạng đơn giản hoá của mô hình thống kê mà ta sẽ dùng cho tới khi có đủ bằng chứng chống lại nó. Với năm câu hỏi trên, giả thuyết không có thể là:
 
@@ -462,7 +466,9 @@ Hãy khoanh tay lại. Tay trái hay tay phải ở trên? Các nghiên cứu ch
 | Tay phải ở trên | 9 | 23 | 32 |
 | Tổng | 14 | 40 | 54 |
 
-Loại bảng này gọi là bảng chéo hay bảng tiếp liên. Nhìn chung, đa số đặt tay phải ở trên (32/54 = 59%). Tỷ lệ "tay phải" ở nữ (9/14 = 64%) cao hơn ở nam (23/40 = 57%): chênh lệch quan sát là 64% − 57% = 7% (chính xác hơn: 64,3% − 57,5% = 6,8%). Giả thuyết không ở đây là hoàn toàn không có liên hệ giữa kiểu khoanh tay và giới tính, khi đó chênh lệch kỳ vọng giữa hai giới là 0%. Nhưng tất nhiên, sự biến thiên ngẫu nhiên không tránh khỏi giữa người với người, kể cả khi giả thuyết không đúng, khiến chênh lệch quan sát không bao giờ đúng bằng 0%. Câu hỏi then chốt là: chênh lệch 7% có đủ lớn để làm bằng chứng chống lại giả thuyết không hay không? (Chú thích của tác giả: có thể chọn thống kê khác để tóm tắt liên hệ, như tỷ số odds, nhưng kết quả về cơ bản như nhau.)
+Loại bảng này gọi là bảng chéo hay bảng tiếp liên. Nhìn chung, đa số đặt tay phải ở trên (32/54 = 59%). Tỷ lệ "tay phải" ở nữ (9/14 = 64%) cao hơn ở nam (23/40 = 57%): chênh lệch quan sát là 64% − 57% = 7% (chính xác hơn: 64,3% − 57,5% = 6,8%). Giả thuyết không ở đây là hoàn toàn không có liên hệ giữa kiểu khoanh tay và giới tính, khi đó chênh lệch kỳ vọng giữa hai giới là 0%.
+
+Nhưng tất nhiên, sự biến thiên ngẫu nhiên không tránh khỏi giữa người với người, kể cả khi giả thuyết không đúng, khiến chênh lệch quan sát không bao giờ đúng bằng 0%. Câu hỏi then chốt là: chênh lệch 7% có đủ lớn để làm bằng chứng chống lại giả thuyết không hay không? (Chú thích của tác giả: có thể chọn thống kê khác để tóm tắt liên hệ, như tỷ số odds, nhưng kết quả về cơ bản như nhau.)
 
 Để trả lời, cần biết những chênh lệch nào sẽ xuất hiện chỉ do biến thiên ngẫu nhiên, nếu giả thuyết không thật sự đúng và khoanh tay hoàn toàn độc lập với giới tính. Nói chính thức hơn: chênh lệch 7% có **tương thích** với giả thuyết không không? Đây là ý tưởng khó nhưng then chốt. Với Arbuthnot, dễ thấy dữ liệu hoàn toàn không tương thích với giả thuyết không — khả năng trai nhiều hơn gái cả 82 năm, nếu chỉ có may rủi, là cực nhỏ. Trong tình huống phức tạp hơn, việc này không đơn giản, nhưng **kiểm định hoán vị** sau đây là một thủ tục mạnh mà không cần toán phức tạp.
 
@@ -501,7 +507,9 @@ Cần một con số tóm tắt giá trị quan sát gần tâm đến đâu. M�
 
 > **Giá trị P là xác suất có được một kết quả cực đoan ít nhất như kết quả ta đã có, nếu giả thuyết không (và mọi giả định khác của mô hình) thật sự đúng.**
 
-Vấn đề là "cực đoan" nghĩa là gì. Giá trị P 0,45 ở trên là **một đuôi (one-tailed)**, vì nó chỉ đo khả năng thấy một giá trị cực đoan như vậy theo chiều nghiêng về nữ nếu giả thuyết không đúng; nó tương ứng với **kiểm định một phía (one-sided test)**. Nhưng một chênh lệch nghiêng về nam cũng sẽ khiến ta nghi ngờ giả thuyết không. Vì vậy cũng nên tính khả năng có chênh lệch ít nhất 7% theo **bất kỳ** chiều nào — giá trị P **hai đuôi (two-tailed)**, tương ứng **kiểm định hai phía (two-sided test)**. Tổng diện tích hai đuôi theo sách là 0,89; vì gần 1, nó cho thấy giá trị quan sát ở gần tâm của phân phối dưới giả thuyết không. Tất nhiên điều này nhìn biểu đồ là thấy ngay, nhưng không phải lúc nào cũng có đồ thị, nên cần một con số để tóm tắt chính thức độ cực đoan của dữ liệu. (Người tổng hợp lưu ý: con số 0,89 gần với cách nhân đôi giá trị một phía; xem khối Lưu ý.)
+Vấn đề là "cực đoan" nghĩa là gì. Giá trị P 0,45 ở trên là **một đuôi (one-tailed)**, vì nó chỉ đo khả năng thấy một giá trị cực đoan như vậy theo chiều nghiêng về nữ nếu giả thuyết không đúng; nó tương ứng với **kiểm định một phía (one-sided test)**. Nhưng một chênh lệch nghiêng về nam cũng sẽ khiến ta nghi ngờ giả thuyết không. Vì vậy cũng nên tính khả năng có chênh lệch ít nhất 7% theo **bất kỳ** chiều nào — giá trị P **hai đuôi (two-tailed)**, tương ứng **kiểm định hai phía (two-sided test)**.
+
+Tổng diện tích hai đuôi theo sách là 0,89; vì gần 1, nó cho thấy giá trị quan sát ở gần tâm của phân phối dưới giả thuyết không. Tất nhiên điều này nhìn biểu đồ là thấy ngay, nhưng không phải lúc nào cũng có đồ thị, nên cần một con số để tóm tắt chính thức độ cực đoan của dữ liệu. (Người tổng hợp lưu ý: con số 0,89 gần với cách nhân đôi giá trị một phía; xem mục Lưu ý cuối chương.)
 
 Arbuthnot là ví dụ đầu tiên được ghi lại của quy trình này: dưới giả thuyết không rằng bé trai và bé gái có khả năng sinh ra như nhau, xác suất trai nhiều hơn gái cả 82 năm là 1/2⁸². Con số này chỉ định nghĩa "cực đoan" theo chiều trai nhiều hơn gái; nhưng nếu gái nhiều hơn trai cả 82 năm ta cũng nghi ngờ giả thuyết không, nên phải nhân đôi thành 1/2⁸¹ (khoảng 4,1 × 10⁻²⁵) để có xác suất của một kết quả cực đoan như vậy theo cả hai chiều. Vậy 1/2⁸¹ có thể coi là giá trị P hai phía đầu tiên được ghi nhận, dù thuật ngữ này chưa được dùng trong hai trăm năm mươi năm sau đó.
 
@@ -513,7 +521,9 @@ Nhân tiện, mẫu nhỏ của tác giả không cho thấy liên hệ giữa g
 
 Ronald Fisher là người phi thường nhưng khó tính. Phi thường vì ông được coi là người tiên phong ở hai lĩnh vực riêng biệt — di truyền học và thống kê. Nhưng ông nổi tiếng nóng tính, có thể chỉ trích gay gắt bất kỳ ai ông cảm thấy chất vấn ý tưởng của mình; việc ông ủng hộ thuyết ưu sinh và công khai chỉ trích bằng chứng về liên hệ giữa hút thuốc và ung thư phổi làm tổn hại vị thế của ông. Danh tiếng cá nhân của ông bị ảnh hưởng khi các mối quan hệ tài chính của ông với ngành thuốc lá bị phơi bày, nhưng danh tiếng khoa học không suy giảm, vì ý tưởng của ông liên tục tìm được ứng dụng mới trong phân tích các bộ dữ liệu lớn.
 
-Như đã nói ở Chương 4, Fisher phát triển ý tưởng ngẫu nhiên hoá trong thí nghiệm nông nghiệp khi làm việc ở Trạm Thí nghiệm Rothamsted. Ông minh hoạ thêm ý tưởng ngẫu nhiên hoá trong thiết kế thí nghiệm bằng **thí nghiệm nếm trà** nổi tiếng: một phụ nữ (được cho là Muriel Bristol) khẳng định có thể nếm một cốc trà mà biết sữa được cho vào trước hay sau khi rót trà. Người ta chuẩn bị bốn cốc cho sữa trước và bốn cốc rót trà trước, đưa tám cốc ra theo thứ tự ngẫu nhiên; bà được biết có bốn cốc mỗi loại và phải đoán bốn cốc nào cho sữa trước. Tương truyền bà đoán đúng cả bốn. Một ứng dụng khác của phân phối siêu bội cho thấy, dưới giả thuyết không rằng bà chỉ đoán bừa, xác suất này là 1 trên 70 (số cách chọn 4 cốc trong 8 là C(8,4) = 8 × 7 × 6 × 5 / (4 × 3 × 2 × 1) = 70, và chỉ một cách đúng hoàn toàn). Đây là một giá trị P, theo quy ước được coi là nhỏ (1/70 ≈ 0,014 < 0,05), nên kết quả có thể được tuyên bố là bằng chứng có ý nghĩa thống kê rằng bà thật sự phân biệt được.
+Như đã nói ở Chương 4, Fisher phát triển ý tưởng ngẫu nhiên hoá trong thí nghiệm nông nghiệp khi làm việc ở Trạm Thí nghiệm Rothamsted. Ông minh hoạ thêm ý tưởng ngẫu nhiên hoá trong thiết kế thí nghiệm bằng **thí nghiệm nếm trà** nổi tiếng: một phụ nữ (được cho là Muriel Bristol) khẳng định có thể nếm một cốc trà mà biết sữa được cho vào trước hay sau khi rót trà. Người ta chuẩn bị bốn cốc cho sữa trước và bốn cốc rót trà trước, đưa tám cốc ra theo thứ tự ngẫu nhiên; bà được biết có bốn cốc mỗi loại và phải đoán bốn cốc nào cho sữa trước. Tương truyền bà đoán đúng cả bốn.
+
+Một ứng dụng khác của phân phối siêu bội cho thấy, dưới giả thuyết không rằng bà chỉ đoán bừa, xác suất này là 1 trên 70 (số cách chọn 4 cốc trong 8 là C(8,4) = 8 × 7 × 6 × 5 / (4 × 3 × 2 × 1) = 70, và chỉ một cách đúng hoàn toàn). Đây là một giá trị P, theo quy ước được coi là nhỏ (1/70 ≈ 0,014 < 0,05), nên kết quả có thể được tuyên bố là bằng chứng có ý nghĩa thống kê rằng bà thật sự phân biệt được.
 
 Tóm lại, quy trình gồm các bước:
 
@@ -546,7 +556,9 @@ Khoảng năm 1900, Karl Pearson phát triển một loạt thống kê để ki
 
 Kiểm tra: 14 × 22/54 = 5,70; 40 × 22/54 = 16,30; 14 × 32/54 = 8,30; 40 × 32/54 = 23,70 — khớp.
 
-Rõ ràng số quan sát và số kỳ vọng khá giống nhau, phản ánh rằng dữ liệu gần đúng như điều ta kỳ vọng dưới giả thuyết không. Thống kê khi bình phương là thước đo tổng thể của sự khác biệt giữa số quan sát và số kỳ vọng; dạng đơn giản nhất theo bảng thuật ngữ của sách là X² = Σ (o − e)²/e, lấy tổng qua mọi ô, và dưới giả thuyết không X² có phân phối lấy mẫu xấp xỉ khi bình phương. Sách cho giá trị 0,02 và giá trị P tương ứng (lấy từ phần mềm thông dụng) là 0,90, tức không có bằng chứng chống lại giả thuyết không. Thật yên tâm khi giá trị P này về cơ bản bằng giá trị P của phép kiểm định "chính xác" dựa trên phân phối siêu bội. (Người tổng hợp lưu ý: 0,02 là giá trị có hiệu chỉnh liên tục Yates; công thức đơn giản nhất cho khoảng 0,20 và P ≈ 0,66 — xem khối Lưu ý.)
+Rõ ràng số quan sát và số kỳ vọng khá giống nhau, phản ánh rằng dữ liệu gần đúng như điều ta kỳ vọng dưới giả thuyết không. Thống kê khi bình phương là thước đo tổng thể của sự khác biệt giữa số quan sát và số kỳ vọng; dạng đơn giản nhất theo bảng thuật ngữ của sách là X² = Σ (o − e)²/e, lấy tổng qua mọi ô, và dưới giả thuyết không X² có phân phối lấy mẫu xấp xỉ khi bình phương.
+
+Sách cho giá trị 0,02 và giá trị P tương ứng (lấy từ phần mềm thông dụng) là 0,90, tức không có bằng chứng chống lại giả thuyết không. Thật yên tâm khi giá trị P này về cơ bản bằng giá trị P của phép kiểm định "chính xác" dựa trên phân phối siêu bội. (Người tổng hợp lưu ý: 0,02 là giá trị có hiệu chỉnh liên tục Yates; công thức đơn giản nhất cho khoảng 0,20 và P ≈ 0,66 — xem mục Lưu ý cuối chương.)
 
 Việc xây dựng và dùng thống kê kiểm định và giá trị P xưa nay chiếm phần lớn một khoá thống kê chuẩn, và không may khiến ngành này mang tiếng chủ yếu là chọn đúng công thức và tra đúng bảng. Cuốn sách cố gắng có góc nhìn rộng hơn, nhưng vẫn đáng xem lại các ví dụ xuyên suốt sách xét về ý nghĩa thống kê.
 
@@ -567,7 +579,7 @@ Việc xây dựng và dùng thống kê kiểm định và giá trị P xưa na
 | 6 trở lên | 3 | 3,6 |
 | Tổng | 1.095 | 1.095 |
 
-Người tổng hợp kiểm tra cột kỳ vọng với Poisson trung bình 1,411: P(0) = e⁻¹·⁴¹¹ ≈ 0,2439, nhân 1.095 được 267,1; P(1) = 0,3442, được 376,9; P(2) = 0,2428, được 265,9; P(3) = 0,1142, được 125,0; P(4) = 0,0403, được 44,1; P(5) = 0,0114, được 12,4; phần còn lại khoảng 3,6–3,7 — khớp. Cột quan sát cộng lại chỉ được 1.094 (xem khối Lưu ý).
+Người tổng hợp kiểm tra cột kỳ vọng với Poisson trung bình 1,411: P(0) = e⁻¹·⁴¹¹ ≈ 0,2439, nhân 1.095 được 267,1; P(1) = 0,3442, được 376,9; P(2) = 0,2428, được 265,9; P(3) = 0,1142, được 125,0; P(4) = 0,0403, được 44,1; P(5) = 0,0114, được 12,4; phần còn lại khoảng 3,6–3,7 — khớp. Cột quan sát cộng lại chỉ được 1.094 (xem mục Lưu ý cuối chương).
 
 Kiểm định khi bình phương về độ khớp cho giá trị P = 0,96, không có ý nghĩa, nên không có bằng chứng để bác bỏ giả thuyết không (thực ra độ khớp tốt tới mức gần như đáng ngờ). Tất nhiên không vì thế mà cho rằng giả thuyết không đúng chính xác, nhưng hợp lý khi dùng nó làm giả định, chẳng hạn khi đánh giá các thay đổi về tỷ lệ giết người ở Chương 9.
 
@@ -594,7 +606,7 @@ Sách nhắc lại kết quả của Nghiên cứu Bảo vệ Tim (Heart Protect
 | Đột quỵ | 4,3 | 5,7 | 25% | 5% | 15% tới 34% | P < 0,0001 |
 | Tử vong mọi nguyên nhân | 12,9 | 14,7 | 13% | 4% | 6% tới 19% | P = 0,0003 |
 
-Có mối liên hệ chặt giữa sai số chuẩn, khoảng tin cậy và giá trị P. Khoảng tin cậy cho mức giảm nguy cơ xấp xỉ ước lượng ± 2 sai số chuẩn (HPS làm tròn mức giảm tương đối thành số nguyên). Các khoảng tin cậy loại trừ rất xa giả thuyết không 0%, tức statin không có tác dụng, nên giá trị P rất nhỏ — sách nói giá trị P cho mức giảm 27% nhồi máu cơ tim là khoảng 1 trên 3 triệu. Đó là hệ quả của một nghiên cứu quy mô lớn như vậy. (Người tổng hợp: kiểm tra mức giảm tương đối từ tỷ lệ — 1 − 8,7/11,8 = 26%, 1 − 4,3/5,7 = 25%, 1 − 12,9/14,7 = 12% — gần khớp với số làm tròn của HPS; về con số 1 trên 3 triệu, xem khối Lưu ý.)
+Có mối liên hệ chặt giữa sai số chuẩn, khoảng tin cậy và giá trị P. Khoảng tin cậy cho mức giảm nguy cơ xấp xỉ ước lượng ± 2 sai số chuẩn (HPS làm tròn mức giảm tương đối thành số nguyên). Các khoảng tin cậy loại trừ rất xa giả thuyết không 0%, tức statin không có tác dụng, nên giá trị P rất nhỏ — sách nói giá trị P cho mức giảm 27% nhồi máu cơ tim là khoảng 1 trên 3 triệu. Đó là hệ quả của một nghiên cứu quy mô lớn như vậy. (Người tổng hợp: kiểm tra mức giảm tương đối từ tỷ lệ — 1 − 8,7/11,8 = 26%, 1 − 4,3/5,7 = 25%, 1 − 12,9/14,7 = 12% — gần khớp với số làm tròn của HPS; về con số 1 trên 3 triệu, xem mục Lưu ý cuối chương.)
 
 Có thể dùng thống kê tóm tắt khác, như hiệu số nguy cơ tuyệt đối, nhưng chúng đều nên cho giá trị P tương tự. Nhóm HPS tập trung vào mức giảm tương đối vì nó khá ổn định giữa các nhóm con, nên là một thước đo tóm tắt đơn lẻ tốt. Có nhiều cách tính khoảng tin cậy, nhưng chúng chỉ nên khác nhau chút ít.
 
@@ -614,13 +626,17 @@ Mã ý nghĩa: *** = 0,001; ** = 0,01; * = 0,05. Cột Pr(>|t|) là giá trị P
 
 Như ở Chương 5, hệ số chặn là chiều cao trung bình của con trai (khoảng 69,2 inch), còn các hệ số ("Estimate") là mức thay đổi kỳ vọng của chiều cao con trai ứng với mỗi inch chênh lệch của chiều cao mẹ và bố so với chiều cao trung bình của các bà mẹ và các ông bố. Sai số chuẩn tính theo một công thức đã biết và rõ ràng nhỏ so với độ lớn của các hệ số.
 
-**Giá trị t**, còn gọi là **thống kê t**, là trọng tâm chú ý vì nó cho biết liên hệ giữa một biến giải thích và biến đáp ứng có ý nghĩa thống kê hay không. Giá trị t là trường hợp riêng của thống kê t của Student. "Student" là bút danh của William Gosset, người phát triển phương pháp năm 1908 khi được hãng bia Guinness ở Dublin biệt phái sang University College London — hãng muốn giữ kín danh tính nhân viên của mình. Giá trị t đơn giản là ước lượng chia cho sai số chuẩn, nên có thể hiểu là ước lượng cách 0 bao nhiêu sai số chuẩn. Kiểm tra: 0,33355/0,04600 = 7,25; 0,41175/0,04668 = 8,82; 69,22882/0,10664 = 649,2 — khớp. Biết giá trị t và cỡ mẫu, phần mềm cho giá trị P chính xác; với mẫu lớn, giá trị t lớn hơn 2 hoặc nhỏ hơn −2 tương ứng P < 0,05, còn với mẫu nhỏ thì ngưỡng lớn hơn. R dùng hệ thống sao đơn giản cho giá trị P, từ một sao (P < 0,05) tới ba sao (P < 0,001). Ở đây giá trị t lớn tới mức giá trị P nhỏ không đáng kể: chiều cao mẹ vẫn liên quan rõ rệt tới chiều cao con trai khi đã tính chiều cao bố.
+**Giá trị t**, còn gọi là **thống kê t**, là trọng tâm chú ý vì nó cho biết liên hệ giữa một biến giải thích và biến đáp ứng có ý nghĩa thống kê hay không. Giá trị t là trường hợp riêng của thống kê t của Student. "Student" là bút danh của William Gosset, người phát triển phương pháp năm 1908 khi được hãng bia Guinness ở Dublin biệt phái sang University College London — hãng muốn giữ kín danh tính nhân viên của mình. Giá trị t đơn giản là ước lượng chia cho sai số chuẩn, nên có thể hiểu là ước lượng cách 0 bao nhiêu sai số chuẩn.
+
+Kiểm tra: 0,33355/0,04600 = 7,25; 0,41175/0,04668 = 8,82; 69,22882/0,10664 = 649,2 — khớp. Biết giá trị t và cỡ mẫu, phần mềm cho giá trị P chính xác; với mẫu lớn, giá trị t lớn hơn 2 hoặc nhỏ hơn −2 tương ứng P < 0,05, còn với mẫu nhỏ thì ngưỡng lớn hơn. R dùng hệ thống sao đơn giản cho giá trị P, từ một sao (P < 0,05) tới ba sao (P < 0,001). Ở đây giá trị t lớn tới mức giá trị P nhỏ không đáng kể: chiều cao mẹ vẫn liên quan rõ rệt tới chiều cao con trai khi đã tính chiều cao bố.
 
 #### Ví dụ thêm: thuật toán "thắng" cuộc thi Titanic có thật sự tốt nhất không?
 
 Ở Chương 6, một thuật toán có thể thắng cuộc thi dự báo với cách biệt rất nhỏ. Khi dự báo khả năng sống sót của tập kiểm tra *Titanic*, cây phân loại đơn giản đạt điểm Brier (sai số dự báo bình phương trung bình) tốt nhất là 0,139, chỉ thấp hơn chút ít so với 0,142 của mạng nơ-ron lấy trung bình. Hợp lý khi hỏi cách biệt −0,003 này có ý nghĩa thống kê không, tức có thể giải thích bằng biến thiên ngẫu nhiên không.
 
-Việc kiểm tra khá đơn giản (chú thích của tác giả): với mỗi người trong 412 người của tập kiểm tra, tính hiệu số giữa sai số dự báo bình phương của hai thuật toán; 412 hiệu số này có trung bình −0,0027 và độ lệch chuẩn 0,1028. Sai số chuẩn của ước lượng hiệu số "thật" là 0,1028/√412 = 0,1028/20,3 ≈ 0,0050, nên thống kê t = ước lượng/sai số chuẩn = −0,0027/0,0050 = −0,54. Đây gọi là **kiểm định t ghép cặp** vì dựa trên tập hiệu số giữa các cặp số. Giá trị P hai phía là 0,59. Vậy không có bằng chứng tốt rằng cây phân loại thật sự là thuật toán tốt nhất. Loại phân tích này không phổ biến trong các cuộc thi kiểu Kaggle, nhưng có vẻ quan trọng phải biết rằng vị trí thắng cuộc phụ thuộc vào việc chọn ngẫu nhiên các trường hợp vào tập kiểm tra.
+Việc kiểm tra khá đơn giản (chú thích của tác giả): với mỗi người trong 412 người của tập kiểm tra, tính hiệu số giữa sai số dự báo bình phương của hai thuật toán; 412 hiệu số này có trung bình −0,0027 và độ lệch chuẩn 0,1028. Sai số chuẩn của ước lượng hiệu số "thật" là 0,1028/√412 = 0,1028/20,3 ≈ 0,0050, nên thống kê t = ước lượng/sai số chuẩn = −0,0027/0,0050 = −0,54.
+
+Đây gọi là **kiểm định t ghép cặp** vì dựa trên tập hiệu số giữa các cặp số. Giá trị P hai phía là 0,59. Vậy không có bằng chứng tốt rằng cây phân loại thật sự là thuật toán tốt nhất. Loại phân tích này không phổ biến trong các cuộc thi kiểu Kaggle, nhưng có vẻ quan trọng phải biết rằng vị trí thắng cuộc phụ thuộc vào việc chọn ngẫu nhiên các trường hợp vào tập kiểm tra.
 
 Các nhà nghiên cứu dành cả đời soi những kết quả máy tính như bảng hồi quy ở trên, mong thấy những ngôi sao lấp lánh báo hiệu một kết quả có ý nghĩa để đưa vào bài báo khoa học tiếp theo. Nhưng, như sẽ thấy, việc săn ý nghĩa thống kê một cách ám ảnh như vậy dễ dẫn tới ảo tưởng phát hiện.
 
@@ -630,15 +646,21 @@ Các nhà nghiên cứu dành cả đời soi những kết quả máy tính nh�
 
 Các ngưỡng chuẩn để tuyên bố "có ý nghĩa", P < 0,05 và P < 0,01, là lựa chọn khá tuỳ tiện của Fisher cho các bảng tra của ông, vào thời chưa thể tính giá trị P chính xác bằng máy tính cơ và điện. Điều gì xảy ra khi làm nhiều kiểm định, mỗi lần xem giá trị P có nhỏ hơn 0,05 không?
 
-Giả sử một loại thuốc thật sự không có tác dụng, tức giả thuyết không đúng. Nếu làm một thử nghiệm lâm sàng, ta sẽ tuyên bố kết quả có ý nghĩa nếu P < 0,05, và vì thuốc vô dụng, khả năng này là 0,05 hay 5% — đó chính là định nghĩa của giá trị P. Kết quả như vậy là **dương tính giả**, vì ta tin sai rằng thuốc có hiệu quả. Nếu làm hai thử nghiệm và nhìn vào kết quả cực đoan nhất, khả năng có ít nhất một kết quả có ý nghĩa — tức dương tính giả — gần 0,10 hay 10%. (Chú thích của tác giả: chính xác là 1 − xác suất cả hai đều không có ý nghĩa = 1 − 0,95 × 0,95 = 0,0975, làm tròn thành 0,10.) Khả năng có ít nhất một dương tính giả tăng nhanh khi làm thêm thử nghiệm; với mười thử nghiệm thuốc vô dụng, khả năng có ít nhất một kết quả có ý nghĩa ở P < 0,05 lên tới 40% (1 − 0,95¹⁰ = 1 − 0,599 = 0,401). Đây là vấn đề **kiểm định nhiều lần**, xảy ra mỗi khi làm nhiều kiểm định ý nghĩa rồi báo cáo kết quả có ý nghĩa nhất.
+Giả sử một loại thuốc thật sự không có tác dụng, tức giả thuyết không đúng. Nếu làm một thử nghiệm lâm sàng, ta sẽ tuyên bố kết quả có ý nghĩa nếu P < 0,05, và vì thuốc vô dụng, khả năng này là 0,05 hay 5% — đó chính là định nghĩa của giá trị P. Kết quả như vậy là **dương tính giả**, vì ta tin sai rằng thuốc có hiệu quả. Nếu làm hai thử nghiệm và nhìn vào kết quả cực đoan nhất, khả năng có ít nhất một kết quả có ý nghĩa — tức dương tính giả — gần 0,10 hay 10%.
+
+(Chú thích của tác giả: chính xác là 1 − xác suất cả hai đều không có ý nghĩa = 1 − 0,95 × 0,95 = 0,0975, làm tròn thành 0,10.) Khả năng có ít nhất một dương tính giả tăng nhanh khi làm thêm thử nghiệm; với mười thử nghiệm thuốc vô dụng, khả năng có ít nhất một kết quả có ý nghĩa ở P < 0,05 lên tới 40% (1 − 0,95¹⁰ = 1 − 0,599 = 0,401). Đây là vấn đề **kiểm định nhiều lần**, xảy ra mỗi khi làm nhiều kiểm định ý nghĩa rồi báo cáo kết quả có ý nghĩa nhất.
 
 #### Con cá hồi chết
 
-Một vấn đề đặc biệt xảy ra khi nhà nghiên cứu chia dữ liệu thành nhiều tập con, làm kiểm định trong từng tập, rồi chọn kết quả có ý nghĩa nhất. Một minh hoạ kinh điển là thí nghiệm năm 2009 của các nhà nghiên cứu có uy tín: cho một "đối tượng" xem loạt ảnh người biểu lộ các cảm xúc khác nhau, đồng thời chụp cộng hưởng từ chức năng (fMRI) não để xem vùng nào phản ứng có ý nghĩa, với ngưỡng P < 0,001. Điểm bất ngờ là "đối tượng" là một con cá hồi Đại Tây Dương nặng 4 pound (khoảng 1,8 kg), "không còn sống vào thời điểm chụp". Trong tổng số 8.064 điểm trên não con cá chết khá to này, 16 điểm cho phản ứng có ý nghĩa thống kê với các bức ảnh. Thay vì kết luận con cá hồi chết có năng lực kỳ diệu, nhóm nghiên cứu chỉ ra đúng vấn đề kiểm định nhiều lần — hơn 8.000 kiểm định ý nghĩa chắc chắn sẽ cho dương tính giả. Ngay cả với ngưỡng chặt P < 0,001, chỉ do ngẫu nhiên ta đã kỳ vọng 8.064 × 0,001 ≈ 8 kết quả có ý nghĩa.
+Một vấn đề đặc biệt xảy ra khi nhà nghiên cứu chia dữ liệu thành nhiều tập con, làm kiểm định trong từng tập, rồi chọn kết quả có ý nghĩa nhất. Một minh hoạ kinh điển là thí nghiệm năm 2009 của các nhà nghiên cứu có uy tín: cho một "đối tượng" xem loạt ảnh người biểu lộ các cảm xúc khác nhau, đồng thời chụp cộng hưởng từ chức năng (fMRI) não để xem vùng nào phản ứng có ý nghĩa, với ngưỡng P < 0,001. Điểm bất ngờ là "đối tượng" là một con cá hồi Đại Tây Dương nặng 4 pound (khoảng 1,8 kg), "không còn sống vào thời điểm chụp".
+
+Trong tổng số 8.064 điểm trên não con cá chết khá to này, 16 điểm cho phản ứng có ý nghĩa thống kê với các bức ảnh. Thay vì kết luận con cá hồi chết có năng lực kỳ diệu, nhóm nghiên cứu chỉ ra đúng vấn đề kiểm định nhiều lần — hơn 8.000 kiểm định ý nghĩa chắc chắn sẽ cho dương tính giả. Ngay cả với ngưỡng chặt P < 0,001, chỉ do ngẫu nhiên ta đã kỳ vọng 8.064 × 0,001 ≈ 8 kết quả có ý nghĩa.
 
 #### Bonferroni, tỷ lệ phát hiện sai và lặp lại nghiên cứu
 
-Một cách khắc phục là đòi giá trị P rất thấp mới tuyên bố có ý nghĩa. Cách đơn giản nhất, gọi là **hiệu chỉnh Bonferroni**, dùng ngưỡng 0,05/n, với n là số kiểm định đã làm. Ví dụ, kiểm định ở mỗi điểm trên não cá hồi có thể đòi P < 0,05/8.000 = 0,00000625, tức 1 trên 160.000. Kỹ thuật này đã thành thông lệ khi dò tìm trong bộ gen người các vị trí liên quan tới bệnh: vì có khoảng 1.000.000 vị trí gen, người ta thường đòi P nhỏ hơn 0,05/1.000.000 = 1 trên 20 triệu trước khi công bố phát hiện. (Bảng thuật ngữ của sách diễn đạt tổng quát: để có mức tổng thể α khi kiểm định n giả thuyết, kiểm định mỗi giả thuyết ở mức α/n, hoặc tương đương dùng khoảng tin cậy 100(1 − α/n)% cho từng đại lượng; ví dụ 10 giả thuyết với α = 5% thì so giá trị P với 0,005 và dùng khoảng tin cậy 99,5%.)
+Một cách khắc phục là đòi giá trị P rất thấp mới tuyên bố có ý nghĩa. Cách đơn giản nhất, gọi là **hiệu chỉnh Bonferroni**, dùng ngưỡng 0,05/n, với n là số kiểm định đã làm. Ví dụ, kiểm định ở mỗi điểm trên não cá hồi có thể đòi P < 0,05/8.000 = 0,00000625, tức 1 trên 160.000. Kỹ thuật này đã thành thông lệ khi dò tìm trong bộ gen người các vị trí liên quan tới bệnh: vì có khoảng 1.000.000 vị trí gen, người ta thường đòi P nhỏ hơn 0,05/1.000.000 = 1 trên 20 triệu trước khi công bố phát hiện.
+
+(Bảng thuật ngữ của sách diễn đạt tổng quát: để có mức tổng thể α khi kiểm định n giả thuyết, kiểm định mỗi giả thuyết ở mức α/n, hoặc tương đương dùng khoảng tin cậy 100(1 − α/n)% cho từng đại lượng; ví dụ 10 giả thuyết với α = 5% thì so giá trị P với 0,005 và dùng khoảng tin cậy 99,5%.)
 
 Như vậy, khi kiểm định đồng thời rất nhiều giả thuyết như trong chụp ảnh não hay hệ gen học, có thể dùng Bonferroni để quyết định kết quả cực đoan nhất có ý nghĩa hay không. Cũng có những kỹ thuật đơn giản nới nhẹ tiêu chí Bonferroni cho kết quả cực đoan thứ hai, thứ ba, v.v., nhằm kiểm soát tỷ lệ tổng thể của các "phát hiện" hoá ra là sai — gọi là **tỷ lệ phát hiện sai**.
 
@@ -650,7 +672,7 @@ Suốt thế kỷ 20, các nhà vật lý xây dựng một "mô hình chuẩn" 
 
 Khi vẽ tần suất xảy ra các sự kiện cụ thể theo các mức năng lượng khác nhau, đường cong có một "cái bướu" rõ rệt đúng tại chỗ sẽ xuất hiện nếu hạt Higgs tồn tại. Điều then chốt là một dạng kiểm định khi bình phương về độ khớp cho giá trị P nhỏ hơn 1 trên 3,5 triệu, dưới giả thuyết không rằng hạt Higgs **không** tồn tại và "cái bướu" chỉ là kết quả của biến thiên ngẫu nhiên.
 
-Vì sao lại gọi là phát hiện "năm sigma"? Trong vật lý lý thuyết, thông lệ là báo cáo các tuyên bố phát hiện theo "sigma": một kết quả "hai sigma" là quan sát cách giả thuyết không hai sai số chuẩn (sigma, σ, là chữ cái Hy Lạp sách dùng cho độ lệch chuẩn của tổng thể). Các "sigma" trong vật lý tương ứng chính xác với giá trị t trong kết quả hồi quy ở trên. Vì một quan sát cho giá trị P cỡ 1 trên 3,5 triệu sẽ cách giả thuyết không năm sai số chuẩn, hạt Higgs được gọi là kết quả năm sigma. (Người tổng hợp lưu ý: 1 trên 3,5 triệu là giá trị P một phía của năm sigma, không phải hai phía như sách viết — xem khối Lưu ý.)
+Vì sao lại gọi là phát hiện "năm sigma"? Trong vật lý lý thuyết, thông lệ là báo cáo các tuyên bố phát hiện theo "sigma": một kết quả "hai sigma" là quan sát cách giả thuyết không hai sai số chuẩn (sigma, σ, là chữ cái Hy Lạp sách dùng cho độ lệch chuẩn của tổng thể). Các "sigma" trong vật lý tương ứng chính xác với giá trị t trong kết quả hồi quy ở trên. Vì một quan sát cho giá trị P cỡ 1 trên 3,5 triệu sẽ cách giả thuyết không năm sai số chuẩn, hạt Higgs được gọi là kết quả năm sigma. (Người tổng hợp lưu ý: 1 trên 3,5 triệu là giá trị P một phía của năm sigma, không phải hai phía như sách viết — xem mục Lưu ý cuối chương.)
 
 Nhóm CERN rõ ràng không muốn công bố "phát hiện" cho tới khi giá trị P cực kỳ nhỏ. Thứ nhất, họ phải tính tới việc các kiểm định ý nghĩa đã được làm ở mọi mức năng lượng, không chỉ ở mức trong phép kiểm định khi bình phương cuối cùng — việc hiệu chỉnh cho kiểm định nhiều lần này trong vật lý gọi là **"hiệu ứng nhìn chỗ khác" (look elsewhere effect)**. Nhưng chủ yếu họ muốn chắc chắn rằng mọi nỗ lực lặp lại sẽ đi tới cùng kết luận: đưa ra một tuyên bố sai về các định luật vật lý thì quá xấu hổ.
 
@@ -703,7 +725,9 @@ Như chương sau sẽ kể, Neyman và Pearson đã tranh cãi kịch liệt, t
 
 #### Số tử vong vượt kỳ vọng
 
-Như phần mở đầu cuốn sách đã kể, bác sĩ Harold Shipman đã sát hại hơn 200 bệnh nhân trong hai mươi năm trước khi bị bắt. Gia đình các nạn nhân đương nhiên đau đớn vì ông ta có thể gây tội lâu như vậy mà không bị nghi ngờ, và một cuộc điều tra công khai sau đó được giao xem liệu có thể phát hiện ông ta sớm hơn không. Trước cuộc điều tra, người ta đã cộng dồn số giấy chứng tử Shipman ký cho những người chết tại nhà hoặc tại phòng khám của ông ta từ năm 1977, và so với số kỳ vọng dựa trên cơ cấu tuổi của mọi bệnh nhân dưới sự "chăm sóc" của Shipman và tỷ lệ tử vong của các bác sĩ đa khoa khác trong vùng. So sánh kiểu này giúp kiểm soát các điều kiện địa phương như thời tiết thay đổi hay dịch cúm. Lấy số quan sát trừ số kỳ vọng, cộng dồn từ 1977 tới khi Shipman bị bắt năm 1998, được số tử vong "vượt" của ông ta.
+Như phần mở đầu cuốn sách đã kể, bác sĩ Harold Shipman đã sát hại hơn 200 bệnh nhân trong hai mươi năm trước khi bị bắt. Gia đình các nạn nhân đương nhiên đau đớn vì ông ta có thể gây tội lâu như vậy mà không bị nghi ngờ, và một cuộc điều tra công khai sau đó được giao xem liệu có thể phát hiện ông ta sớm hơn không.
+
+Trước cuộc điều tra, người ta đã cộng dồn số giấy chứng tử Shipman ký cho những người chết tại nhà hoặc tại phòng khám của ông ta từ năm 1977, và so với số kỳ vọng dựa trên cơ cấu tuổi của mọi bệnh nhân dưới sự "chăm sóc" của Shipman và tỷ lệ tử vong của các bác sĩ đa khoa khác trong vùng. So sánh kiểu này giúp kiểm soát các điều kiện địa phương như thời tiết thay đổi hay dịch cúm. Lấy số quan sát trừ số kỳ vọng, cộng dồn từ 1977 tới khi Shipman bị bắt năm 1998, được số tử vong "vượt" của ông ta.
 
 **Hình: Số giấy chứng tử Shipman ký cho bệnh nhân từ 65 tuổi chết tại nhà hoặc phòng khám, đã trừ số kỳ vọng theo danh sách bệnh nhân, cộng dồn (Figure 10.3 trong sách; đồ thị không ghi số, các giá trị là ước lượng của người tổng hợp đọc từ trục, trừ giá trị năm 1998 có trong lời văn)**
 
@@ -729,7 +753,7 @@ Như phần mở đầu cuốn sách đã kể, bác sĩ Harold Shipman đã sá
 
 Giả sử, trong một lịch sử hư cấu, có người theo dõi số tử vong của Shipman từng năm và làm các phép tính như hình trên. Khi nào họ có thể "thổi còi"? Chẳng hạn, họ có thể làm một kiểm định ý nghĩa vào cuối mỗi năm. Số tử vong, giống số vụ giết người, là kết quả của nhiều cá nhân mỗi người có xác suất nhỏ gặp sự kiện, nên có thể giả định theo phân phối Poisson. Giả thuyết không là: số tử vong quan sát cộng dồn là một quan sát từ phân phối Poisson có kỳ vọng bằng số kỳ vọng cộng dồn.
 
-Nếu làm như vậy với tổng số tử vong cả nam và nữ, thì năm 1979, chỉ sau ba năm theo dõi, giá trị P một phía là 0,004, khi so 40 ca tử vong quan sát với 25,3 ca kỳ vọng. (Chú thích của tác giả: giá trị P là một phía vì chỉ quan tâm phát hiện tử vong tăng, không phải giảm; nó là xác suất một biến Poisson với trung bình kỳ vọng đạt ít nhất 40. Người tổng hợp tính gần đúng với trung bình 25,3 được khoảng 0,004 — khớp; chú thích ghi trung bình "22,5", xem khối Lưu ý.) Kết quả có thể đã được tuyên bố là "có ý nghĩa thống kê", và Shipman bị điều tra và phát hiện.
+Nếu làm như vậy với tổng số tử vong cả nam và nữ, thì năm 1979, chỉ sau ba năm theo dõi, giá trị P một phía là 0,004, khi so 40 ca tử vong quan sát với 25,3 ca kỳ vọng. (Chú thích của tác giả: giá trị P là một phía vì chỉ quan tâm phát hiện tử vong tăng, không phải giảm; nó là xác suất một biến Poisson với trung bình kỳ vọng đạt ít nhất 40. Người tổng hợp tính gần đúng với trung bình 25,3 được khoảng 0,004 — khớp; chú thích ghi trung bình "22,5", xem mục Lưu ý cuối chương.) Kết quả có thể đã được tuyên bố là "có ý nghĩa thống kê", và Shipman bị điều tra và phát hiện.
 
 #### Hai lý do cách làm này không phù hợp
 
@@ -739,11 +763,17 @@ Nhưng có hai lý do khiến một thủ tục như vậy hoàn toàn không ph
 
 Một cách khác là áp dụng Bonferroni và đòi giá trị P 0,05/25.000, tức 1 trên 500.000, cho bác sĩ cực đoan nhất. Với Shipman, điều này xảy ra năm 1984, khi ông ta có 105 ca tử vong so với 59,2 ca kỳ vọng, vượt 46.
 
-**Thứ hai, kiểm định lặp lại.** Ngay cả vậy, đây vẫn không phải thủ tục đáng tin để áp dụng cho mọi bác sĩ trong nước, vì ta đang làm kiểm định ý nghĩa lặp lại: mỗi năm thêm dữ liệu mới và làm thêm một kiểm định. Có một lý thuyết đáng chú ý nhưng phức tạp, mang tên thú vị **"luật lôgarit lặp" (Law of the Iterated Logarithm)**, cho thấy nếu kiểm định lặp lại như vậy thì, dù giả thuyết không đúng, ta **chắc chắn** sớm muộn sẽ bác bỏ nó ở bất kỳ mức ý nghĩa nào ta chọn. Điều này rất đáng lo, vì nó có nghĩa nếu cứ kiểm định một bác sĩ đủ lâu, ta chắc chắn sẽ có lúc nghĩ đã tìm thấy bằng chứng tử vong vượt, dù thực tế bệnh nhân của bác sĩ đó không chịu nguy cơ vượt nào.
+**Thứ hai, kiểm định lặp lại.** Ngay cả vậy, đây vẫn không phải thủ tục đáng tin để áp dụng cho mọi bác sĩ trong nước, vì ta đang làm kiểm định ý nghĩa lặp lại: mỗi năm thêm dữ liệu mới và làm thêm một kiểm định. Có một lý thuyết đáng chú ý nhưng phức tạp, mang tên thú vị **"luật lôgarit lặp" (Law of the Iterated Logarithm)**, cho thấy nếu kiểm định lặp lại như vậy thì, dù giả thuyết không đúng, ta **chắc chắn** sớm muộn sẽ bác bỏ nó ở bất kỳ mức ý nghĩa nào ta chọn.
+
+Điều này rất đáng lo, vì nó có nghĩa nếu cứ kiểm định một bác sĩ đủ lâu, ta chắc chắn sẽ có lúc nghĩ đã tìm thấy bằng chứng tử vong vượt, dù thực tế bệnh nhân của bác sĩ đó không chịu nguy cơ vượt nào.
 
 #### Kiểm định tuần tự và SPRT
 
-May là có các phương pháp thống kê để xử lý vấn đề **kiểm định tuần tự** này, phát triển lần đầu trong Thế chiến II bởi các nhóm nhà thống kê chẳng liên quan gì tới y tế, mà làm kiểm soát chất lượng công nghiệp cho vũ khí và vật tư chiến tranh. Các sản phẩm ra khỏi dây chuyền được kiểm tra xem có đạt chuẩn không, và toàn bộ quy trình được giám sát bằng cách cộng dồn đều đặn tổng độ lệch so với chuẩn, giống như theo dõi tử vong vượt. Các nhà khoa học này nhận ra luật lôgarit lặp có nghĩa là kiểm định ý nghĩa lặp lại sớm muộn sẽ luôn báo động rằng quy trình công nghiệp đã mất kiểm soát, kể cả khi thật ra mọi thứ vẫn vận hành tốt. Các nhà thống kê ở Mỹ và Anh, làm việc độc lập, đã phát triển cái về sau được gọi là **Kiểm định tỷ số xác suất tuần tự (SPRT)**: một thống kê theo dõi bằng chứng tích luỹ về độ lệch và có thể so bất cứ lúc nào với các ngưỡng đơn giản — ngay khi một ngưỡng bị vượt, báo động được phát ra và dây chuyền được kiểm tra. (Chú thích của tác giả: nhóm ở Mỹ do Abraham Wald dẫn dắt, ở Anh do George Barnard. Barnard là một người dễ mến, trước chiến tranh là nhà toán học thuần tuý (và đảng viên cộng sản), như nhiều người khác đã chuyển kỹ năng sang công việc thống kê thời chiến; về sau ông xây dựng tiêu chuẩn chính thức của Anh cho bao cao su, BS 3704.) Các kỹ thuật này làm quy trình công nghiệp hiệu quả hơn, và về sau được điều chỉnh để dùng trong các thử nghiệm lâm sàng tuần tự, nơi kết quả tích luỹ được theo dõi lặp lại để xem đã vượt ngưỡng cho thấy phương pháp điều trị có lợi hay chưa.
+May là có các phương pháp thống kê để xử lý vấn đề **kiểm định tuần tự** này, phát triển lần đầu trong Thế chiến II bởi các nhóm nhà thống kê chẳng liên quan gì tới y tế, mà làm kiểm soát chất lượng công nghiệp cho vũ khí và vật tư chiến tranh. Các sản phẩm ra khỏi dây chuyền được kiểm tra xem có đạt chuẩn không, và toàn bộ quy trình được giám sát bằng cách cộng dồn đều đặn tổng độ lệch so với chuẩn, giống như theo dõi tử vong vượt.
+
+Các nhà khoa học này nhận ra luật lôgarit lặp có nghĩa là kiểm định ý nghĩa lặp lại sớm muộn sẽ luôn báo động rằng quy trình công nghiệp đã mất kiểm soát, kể cả khi thật ra mọi thứ vẫn vận hành tốt. Các nhà thống kê ở Mỹ và Anh, làm việc độc lập, đã phát triển cái về sau được gọi là **Kiểm định tỷ số xác suất tuần tự (SPRT)**: một thống kê theo dõi bằng chứng tích luỹ về độ lệch và có thể so bất cứ lúc nào với các ngưỡng đơn giản — ngay khi một ngưỡng bị vượt, báo động được phát ra và dây chuyền được kiểm tra.
+
+(Chú thích của tác giả: nhóm ở Mỹ do Abraham Wald dẫn dắt, ở Anh do George Barnard. Barnard là một người dễ mến, trước chiến tranh là nhà toán học thuần tuý (và đảng viên cộng sản), như nhiều người khác đã chuyển kỹ năng sang công việc thống kê thời chiến; về sau ông xây dựng tiêu chuẩn chính thức của Anh cho bao cao su, BS 3704.) Các kỹ thuật này làm quy trình công nghiệp hiệu quả hơn, và về sau được điều chỉnh để dùng trong các thử nghiệm lâm sàng tuần tự, nơi kết quả tích luỹ được theo dõi lặp lại để xem đã vượt ngưỡng cho thấy phương pháp điều trị có lợi hay chưa.
 
 Spiegelhalter là thành viên nhóm phát triển một phiên bản SPRT áp dụng được cho dữ liệu Shipman, với giả thuyết đối rằng Shipman có tỷ lệ tử vong gấp đôi đồng nghiệp. Theo chú thích cuối chương, thống kê kiểm định có dạng đơn giản:
 
@@ -808,7 +838,9 @@ Hãy xem điều gì sẽ xảy ra với, chẳng hạn, 1.000 nghiên cứu, m�
 | Giả thuyết không đúng (không có hiệu ứng) | 45 | 855 | 900 |
 | Tổng | 125 | 875 | 1.000 |
 
-Từng bước: 10% của 1.000 là 100 giả thuyết không sai; lực 80% phát hiện đúng 80 trong số đó. 900 giả thuyết không đúng; mức 5% bác bỏ nhầm 900 × 0,05 = 45. Tổng số "phát hiện" là 80 + 45 = 125, trong đó 45 là dương tính giả: 45/125 = 36%, tức hơn một phần ba số giả thuyết không bị bác bỏ (các "phát hiện") là tuyên bố sai. Bức tranh khá ảm đạm này còn tệ hơn khi xét những gì thực sự được đăng trên tài liệu khoa học, vì các tạp chí thiên về đăng kết quả dương tính. Một phân tích tương tự về các nghiên cứu khoa học đã dẫn giáo sư y khoa và thống kê John Ioannidis ở Đại học Stanford tới tuyên bố nổi tiếng năm 2005 rằng "phần lớn kết quả nghiên cứu được công bố là sai". Chương 12 sẽ quay lại các lý do cho kết luận u ám này.
+Từng bước: 10% của 1.000 là 100 giả thuyết không sai; lực 80% phát hiện đúng 80 trong số đó. 900 giả thuyết không đúng; mức 5% bác bỏ nhầm 900 × 0,05 = 45. Tổng số "phát hiện" là 80 + 45 = 125, trong đó 45 là dương tính giả: 45/125 = 36%, tức hơn một phần ba số giả thuyết không bị bác bỏ (các "phát hiện") là tuyên bố sai.
+
+Bức tranh khá ảm đạm này còn tệ hơn khi xét những gì thực sự được đăng trên tài liệu khoa học, vì các tạp chí thiên về đăng kết quả dương tính. Một phân tích tương tự về các nghiên cứu khoa học đã dẫn giáo sư y khoa và thống kê John Ioannidis ở Đại học Stanford tới tuyên bố nổi tiếng năm 2005 rằng "phần lớn kết quả nghiên cứu được công bố là sai". Chương 12 sẽ quay lại các lý do cho kết luận u ám này.
 
 #### Lệnh cấm NHST và sáu nguyên tắc của ASA
 
@@ -816,19 +848,29 @@ Vì mọi phát hiện sai này đều dựa trên một giá trị P cho thấy
 
 **Nguyên tắc 1 — giá trị P làm được gì:** *Giá trị P có thể cho biết dữ liệu không tương thích đến đâu với một mô hình thống kê cụ thể.* Như đã thấy nhiều lần, giá trị P làm điều này bằng cách đo về cơ bản dữ liệu bất ngờ đến đâu, khi cho trước một giả thuyết không rằng điều gì đó không tồn tại. Chẳng hạn, ta hỏi dữ liệu có không tương thích với việc thuốc không có tác dụng không. Logic có thể khó, nhưng hữu ích.
 
-**Nguyên tắc 2 — sửa lỗi diễn giải:** *Giá trị P không đo xác suất giả thuyết được nghiên cứu là đúng, cũng không đo xác suất dữ liệu được tạo ra chỉ bởi ngẫu nhiên.* Ở Chương 8, sách đã cẩn thận phân biệt câu xác suất có điều kiện đúng như "chỉ 10% phụ nữ không bị ung thư vú có kết quả chụp nhũ ảnh dương tính" với câu sai "chỉ 10% phụ nữ có kết quả dương tính không bị ung thư vú". Đó là lỗi gọi là **ngộ nhận của bên công tố**, và có cách gọn để sửa: nghĩ xem điều gì sẽ xảy ra với 1.000 phụ nữ được xét nghiệm. Vấn đề tương tự xảy ra với giá trị P: nó đo khả năng dữ liệu cực đoan như vậy xuất hiện **nếu giả thuyết không đúng**, chứ **không** đo khả năng giả thuyết không đúng **khi đã thấy** dữ liệu cực đoan như vậy. Đây là khác biệt tinh tế nhưng cốt yếu.
+**Nguyên tắc 2 — sửa lỗi diễn giải:** *Giá trị P không đo xác suất giả thuyết được nghiên cứu là đúng, cũng không đo xác suất dữ liệu được tạo ra chỉ bởi ngẫu nhiên.* Ở Chương 8, sách đã cẩn thận phân biệt câu xác suất có điều kiện đúng như "chỉ 10% phụ nữ không bị ung thư vú có kết quả chụp nhũ ảnh dương tính" với câu sai "chỉ 10% phụ nữ có kết quả dương tính không bị ung thư vú".
 
-Khi các nhóm ở CERN công bố kết quả "năm sigma" cho hạt Higgs, ứng với giá trị P khoảng 1 trên 3,5 triệu, BBC diễn đạt đúng: "khoảng một phần 3,5 triệu khả năng tín hiệu họ thấy sẽ xuất hiện nếu không có hạt Higgs". Nhưng gần như mọi cơ quan báo chí khác hiểu sai. Ví dụ, tạp chí *Forbes* viết "khả năng đó không phải hạt Higgs là dưới 1 phần triệu" — một ví dụ rõ ràng của ngộ nhận của bên công tố. Báo *The Independent* tiêu biểu khi viết "có ít hơn một phần triệu khả năng kết quả của họ là một sự tình cờ thống kê". Câu này có thể không sai trắng trợn như *Forbes*, nhưng vẫn gán xác suất nhỏ cho việc "kết quả của họ là sự tình cờ thống kê", mà về logic chính là nói đây là xác suất của giả thuyết không được kiểm định. Đó là lý do ASA nhấn mạnh rằng giá trị P **không** phải "xác suất dữ liệu được tạo ra chỉ bởi ngẫu nhiên".
+Đó là lỗi gọi là **ngộ nhận của bên công tố**, và có cách gọn để sửa: nghĩ xem điều gì sẽ xảy ra với 1.000 phụ nữ được xét nghiệm. Vấn đề tương tự xảy ra với giá trị P: nó đo khả năng dữ liệu cực đoan như vậy xuất hiện **nếu giả thuyết không đúng**, chứ **không** đo khả năng giả thuyết không đúng **khi đã thấy** dữ liệu cực đoan như vậy. Đây là khác biệt tinh tế nhưng cốt yếu.
+
+Khi các nhóm ở CERN công bố kết quả "năm sigma" cho hạt Higgs, ứng với giá trị P khoảng 1 trên 3,5 triệu, BBC diễn đạt đúng: "khoảng một phần 3,5 triệu khả năng tín hiệu họ thấy sẽ xuất hiện nếu không có hạt Higgs". Nhưng gần như mọi cơ quan báo chí khác hiểu sai. Ví dụ, tạp chí *Forbes* viết "khả năng đó không phải hạt Higgs là dưới 1 phần triệu" — một ví dụ rõ ràng của ngộ nhận của bên công tố.
+
+Báo *The Independent* tiêu biểu khi viết "có ít hơn một phần triệu khả năng kết quả của họ là một sự tình cờ thống kê". Câu này có thể không sai trắng trợn như *Forbes*, nhưng vẫn gán xác suất nhỏ cho việc "kết quả của họ là sự tình cờ thống kê", mà về logic chính là nói đây là xác suất của giả thuyết không được kiểm định. Đó là lý do ASA nhấn mạnh rằng giá trị P **không** phải "xác suất dữ liệu được tạo ra chỉ bởi ngẫu nhiên".
 
 **Nguyên tắc 3 — chống ám ảnh với ý nghĩa thống kê:** *Kết luận khoa học và quyết định kinh doanh hay chính sách không nên chỉ dựa vào việc giá trị P có vượt qua một ngưỡng cụ thể hay không.* Khi Fisher bắt đầu công bố các bảng giá trị thống kê vừa đủ để kết quả đạt "P < 0,05" hay "P < 0,01", có lẽ ông không ngờ các ngưỡng khá tuỳ tiện này sẽ chi phối các ấn phẩm khoa học, khiến mọi kết quả bị chia thành "có ý nghĩa" hoặc "không có ý nghĩa". Từ đó chỉ còn một bước ngắn để coi kết quả "có ý nghĩa" là phát hiện đã được chứng minh, tạo ra một tiền lệ quá đơn giản và nguy hiểm: đi thẳng từ dữ liệu tới kết luận mà không dừng lại suy nghĩ.
 
-Một hậu quả tệ hại của phép chia đôi đơn giản này là hiểu sai "không có ý nghĩa". Giá trị P không có ý nghĩa cho thấy dữ liệu tương thích với giả thuyết không, nhưng không có nghĩa giả thuyết không đúng chính xác. Xét cho cùng, không có bằng chứng trực tiếp rằng một tội phạm có mặt ở hiện trường không có nghĩa là hắn vô tội. Nhưng lỗi này phổ biến đáng ngạc nhiên. Hãy xét cuộc tranh luận khoa học lớn về việc một lượng nhỏ rượu, chẳng hạn một ly mỗi ngày, có tốt cho sức khoẻ không. Một nghiên cứu (Knott và cộng sự, British Medical Journal, tháng 2/2015, gộp số liệu tới 10 nhóm thuần tập) khẳng định chỉ phụ nữ lớn tuổi có thể được lợi từ uống rượu vừa phải; nhưng xem kỹ thì các nhóm khác cũng có lợi ích, chỉ là không có ý nghĩa thống kê, vì khoảng tin cậy quanh lợi ích ước lượng ở các nhóm này rất rộng. Dù các khoảng tin cậy chứa 0 nên hiệu ứng không có ý nghĩa thống kê, dữ liệu hoàn toàn tương thích với mức giảm nguy cơ tử vong 10% tới 20% từng được đề xuất trước đó. Thế nhưng báo *The Times* (11/2/2015) giật tít "Rượu rốt cuộc chẳng có lợi gì cho sức khoẻ". Tóm lại, diễn giải "không khác 0 một cách có ý nghĩa" thành "hiệu ứng thật bằng 0" là rất sai lệch, nhất là với nghiên cứu nhỏ, lực thấp và khoảng tin cậy rộng.
+Một hậu quả tệ hại của phép chia đôi đơn giản này là hiểu sai "không có ý nghĩa". Giá trị P không có ý nghĩa cho thấy dữ liệu tương thích với giả thuyết không, nhưng không có nghĩa giả thuyết không đúng chính xác. Xét cho cùng, không có bằng chứng trực tiếp rằng một tội phạm có mặt ở hiện trường không có nghĩa là hắn vô tội. Nhưng lỗi này phổ biến đáng ngạc nhiên. Hãy xét cuộc tranh luận khoa học lớn về việc một lượng nhỏ rượu, chẳng hạn một ly mỗi ngày, có tốt cho sức khoẻ không.
+
+Một nghiên cứu (Knott và cộng sự, British Medical Journal, tháng 2/2015, gộp số liệu tới 10 nhóm thuần tập) khẳng định chỉ phụ nữ lớn tuổi có thể được lợi từ uống rượu vừa phải; nhưng xem kỹ thì các nhóm khác cũng có lợi ích, chỉ là không có ý nghĩa thống kê, vì khoảng tin cậy quanh lợi ích ước lượng ở các nhóm này rất rộng. Dù các khoảng tin cậy chứa 0 nên hiệu ứng không có ý nghĩa thống kê, dữ liệu hoàn toàn tương thích với mức giảm nguy cơ tử vong 10% tới 20% từng được đề xuất trước đó.
+
+Thế nhưng báo *The Times* (11/2/2015) giật tít "Rượu rốt cuộc chẳng có lợi gì cho sức khoẻ". Tóm lại, diễn giải "không khác 0 một cách có ý nghĩa" thành "hiệu ứng thật bằng 0" là rất sai lệch, nhất là với nghiên cứu nhỏ, lực thấp và khoảng tin cậy rộng.
 
 **Nguyên tắc 4 — minh bạch:** *Suy luận đúng đắn đòi hỏi báo cáo đầy đủ và minh bạch.* Nhu cầu hiển nhiên nhất là báo cáo rõ đã thực sự làm bao nhiêu kiểm định, để nếu kết quả có ý nghĩa nhất được nhấn mạnh, ta có thể áp dụng một dạng hiệu chỉnh như Bonferroni. Nhưng vấn đề báo cáo chọn lọc có thể tinh vi hơn nhiều, như chương sau sẽ thấy. Chỉ khi biết kế hoạch nghiên cứu và những gì thực sự đã làm mới tránh được các vấn đề với giá trị P.
 
 **Nguyên tắc 5 — ý nghĩa thống kê không phải tầm quan trọng:** *Giá trị P, hay ý nghĩa thống kê, không đo độ lớn của hiệu ứng hay tầm quan trọng của kết quả.* Bạn đã lập kế hoạch nghiên cứu, thu dữ liệu, phân tích và có kết quả "có ý nghĩa". Chắc hẳn đây là một phát hiện quan trọng? Nguyên tắc thứ năm cảnh báo đừng quá tự mãn. Ví dụ sau cho thấy, nhất là với mẫu lớn, ta có thể khá chắc một liên hệ tồn tại mà vẫn chẳng mấy ấn tượng về tầm quan trọng của nó.
 
-*Khung ví dụ "Why Going to University Increases Risk of Getting a Brain Tumour" — "Vì sao học đại học làm tăng nguy cơ u não".* Tít báo này đã xuất hiện ở Chương 4. Sau khi điều chỉnh theo tình trạng hôn nhân và thu nhập trong một phân tích hồi quy, các nhà nghiên cứu Thuỵ Điển thấy nguy cơ tăng tương đối 19% giữa nhóm học vấn thấp nhất (chỉ tiểu học) và cao nhất (bằng đại học bậc cao), với khoảng tin cậy 95% từ 7% tới 33%. Thú vị là bài báo không báo cáo giá trị P nào, nhưng vì khoảng 95% của nguy cơ tương đối loại trừ 1 (tức loại trừ mức tăng 0%), ta có thể kết luận P < 0,05. Người đọc lúc này hẳn đã có sẵn danh sách lo ngại về kết luận, nhưng các tác giả đã nêu trước. Bên cạnh kết quả, họ thừa nhận: không thể diễn giải nhân quả; chưa điều chỉnh các yếu tố gây nhiễu thuộc lối sống như uống rượu; và người có địa vị kinh tế cao hơn có xu hướng đi khám nhiều hơn, nên có thể có thiên lệch báo cáo.
+*Khung ví dụ "Why Going to University Increases Risk of Getting a Brain Tumour" — "Vì sao học đại học làm tăng nguy cơ u não".* Tít báo này đã xuất hiện ở Chương 4. Sau khi điều chỉnh theo tình trạng hôn nhân và thu nhập trong một phân tích hồi quy, các nhà nghiên cứu Thuỵ Điển thấy nguy cơ tăng tương đối 19% giữa nhóm học vấn thấp nhất (chỉ tiểu học) và cao nhất (bằng đại học bậc cao), với khoảng tin cậy 95% từ 7% tới 33%.
+
+Thú vị là bài báo không báo cáo giá trị P nào, nhưng vì khoảng 95% của nguy cơ tương đối loại trừ 1 (tức loại trừ mức tăng 0%), ta có thể kết luận P < 0,05. Người đọc lúc này hẳn đã có sẵn danh sách lo ngại về kết luận, nhưng các tác giả đã nêu trước. Bên cạnh kết quả, họ thừa nhận: không thể diễn giải nhân quả; chưa điều chỉnh các yếu tố gây nhiễu thuộc lối sống như uống rượu; và người có địa vị kinh tế cao hơn có xu hướng đi khám nhiều hơn, nên có thể có thiên lệch báo cáo.
 
 Nhưng một đặc điểm quan trọng không được nhắc tới: liên hệ có vẻ tồn tại này rất nhỏ. Mức tăng 19% giữa nhóm học vấn thấp nhất và cao nhất thấp hơn nhiều so với nhiều loại ung thư khác. Bài báo cho biết 3.715 ca u não được chẩn đoán trong hơn 2.000.000 nam giới theo dõi 18 năm (khoảng 1 trên 600), nên theo cách ở Chương 1 để chuyển nguy cơ tương đối thành thay đổi nguy cơ tuyệt đối:
 
@@ -843,7 +885,9 @@ Tác động sẽ ra sao? Đổi tiêu chí "có ý nghĩa" từ 0,05 (1 trên 2
 
 #### Kết thúc chương: "giả kim thuật" biến bất định thành chắc chắn
 
-Ý tưởng kiểm định giả thuyết ban đầu của Fisher đã đem lại lợi ích lớn cho thực hành thống kê và cho việc ngăn các tuyên bố khoa học thiếu căn cứ. Nhưng các nhà thống kê thường phàn nàn rằng một số nhà nghiên cứu sẵn sàng nhảy tuỳ tiện từ giá trị P của những nghiên cứu thiết kế kém tới những suy luận khái quát đầy tự tin — một kiểu giả kim thuật biến bất định thành chắc chắn, áp dụng máy móc các kiểm định thống kê để chia mọi kết quả thành "có ý nghĩa" và "không có ý nghĩa". Chương 12 sẽ cho thấy một số hậu quả tệ của hành vi này; nhưng trước đó, Chương 11 chuyển sang một cách tiếp cận suy luận thống kê khác, bác bỏ hoàn toàn ý tưởng kiểm định ý nghĩa giả thuyết không. Vì vậy, như một đòi hỏi "căng não" nữa của khoa học thống kê, tác giả mong người đọc (tạm thời) quên hết những gì có thể đã học từ chương này và các chương trước.
+Ý tưởng kiểm định giả thuyết ban đầu của Fisher đã đem lại lợi ích lớn cho thực hành thống kê và cho việc ngăn các tuyên bố khoa học thiếu căn cứ. Nhưng các nhà thống kê thường phàn nàn rằng một số nhà nghiên cứu sẵn sàng nhảy tuỳ tiện từ giá trị P của những nghiên cứu thiết kế kém tới những suy luận khái quát đầy tự tin — một kiểu giả kim thuật biến bất định thành chắc chắn, áp dụng máy móc các kiểm định thống kê để chia mọi kết quả thành "có ý nghĩa" và "không có ý nghĩa".
+
+Chương 12 sẽ cho thấy một số hậu quả tệ của hành vi này; nhưng trước đó, Chương 11 chuyển sang một cách tiếp cận suy luận thống kê khác, bác bỏ hoàn toàn ý tưởng kiểm định ý nghĩa giả thuyết không. Vì vậy, như một đòi hỏi "căng não" nữa của khoa học thống kê, tác giả mong người đọc (tạm thời) quên hết những gì có thể đã học từ chương này và các chương trước.
 
 ### 10. Tóm tắt (Summary, trang PDF 202)
 
@@ -906,7 +950,11 @@ Kiểm định giả thuyết là một thủ tục để chống lại phát hi
 
 ### Trong ngôn ngữ thống kê
 
-Chương trình bày khung kiểm định giả thuyết tần suất: giá trị P = Pr(T ≥ t | H0) (một phía) hoặc tổng xác suất hai đuôi; ý nghĩa thống kê khi P < α. Các phân phối dưới H0: phân phối hoán vị (kiểm định chính xác Fisher qua phân phối siêu bội), xấp xỉ khi bình phương X² = Σ(o − e)²/e cho bảng tiếp liên và độ khớp, thống kê t = ước lượng/SE cho hệ số hồi quy và kiểm định ghép cặp. Tính đối ngẫu giữa kiểm định và khoảng tin cậy: khoảng tin cậy 100(1 − α)% là tập các giá trị tham số không bị bác bỏ ở mức α hai phía. Khung Neyman–Pearson: α = Pr(bác bỏ H0 | H0), β = Pr(không bác bỏ | H1), lực = 1 − β, cỡ mẫu xác định từ (α, β, hiệu ứng tối thiểu). Kiểm định nhiều lần: kiểm soát sai số theo họ (familywise error rate) bằng Bonferroni α/n, kiểm soát tỷ lệ phát hiện sai (theo hiểu biết của người tổng hợp, "kỹ thuật đơn giản" sách nhắc tới chính là thủ tục Benjamini–Hochberg). Kiểm định tuần tự: SPRT của Wald với log tỷ số khả năng tích luỹ so với ngưỡng ln((1 − β)/α). Giá trị dự báo dương của một "phát hiện" (1 − tỷ lệ phát hiện sai) phụ thuộc vào xác suất tiên nghiệm của giả thuyết đối: PPV = (1 − β)π / [(1 − β)π + α(1 − π)], với π = 0,1, α = 0,05, 1 − β = 0,8 cho 0,08/0,125 = 64%.
+Chương trình bày khung kiểm định giả thuyết tần suất: giá trị P = Pr(T ≥ t | H0) (một phía) hoặc tổng xác suất hai đuôi; ý nghĩa thống kê khi P < α. Các phân phối dưới H0: phân phối hoán vị (kiểm định chính xác Fisher qua phân phối siêu bội), xấp xỉ khi bình phương X² = Σ(o − e)²/e cho bảng tiếp liên và độ khớp, thống kê t = ước lượng/SE cho hệ số hồi quy và kiểm định ghép cặp. Tính đối ngẫu giữa kiểm định và khoảng tin cậy: khoảng tin cậy 100(1 − α)% là tập các giá trị tham số không bị bác bỏ ở mức α hai phía.
+
+Khung Neyman–Pearson: α = Pr(bác bỏ H0 | H0), β = Pr(không bác bỏ | H1), lực = 1 − β, cỡ mẫu xác định từ (α, β, hiệu ứng tối thiểu).
+
+Kiểm định nhiều lần: kiểm soát sai số theo họ (familywise error rate) bằng Bonferroni α/n, kiểm soát tỷ lệ phát hiện sai (theo hiểu biết của người tổng hợp, "kỹ thuật đơn giản" sách nhắc tới chính là thủ tục Benjamini–Hochberg). Kiểm định tuần tự: SPRT của Wald với log tỷ số khả năng tích luỹ so với ngưỡng ln((1 − β)/α). Giá trị dự báo dương của một "phát hiện" (1 − tỷ lệ phát hiện sai) phụ thuộc vào xác suất tiên nghiệm của giả thuyết đối: PPV = (1 − β)π / [(1 − β)π + α(1 − π)], với π = 0,1, α = 0,05, 1 − β = 0,8 cho 0,08/0,125 = 64%.
 
 ## Thuật ngữ
 
@@ -987,7 +1035,9 @@ Chương trình bày khung kiểm định giả thuyết tần suất: giá tr�
 
 ### Điểm mạnh: dạy kiểm định giả thuyết bằng hoán vị trước, công thức sau
 
-Thay vì mở đầu bằng công thức và bảng tra, Spiegelhalter dựng giá trị P từ một thí nghiệm tưởng tượng ai cũng hình dung được: trộn vé khoanh tay trong mũ rồi chia lại. Người đọc thấy tận mắt phân phối dưới giả thuyết không và thấy giá trị P là một diện tích đuôi, rồi mới biết rằng phân phối siêu bội, kiểm định khi bình phương và thống kê t chỉ là những cách tính tắt cho cùng câu hỏi. Đây cũng là cách tiếp cận mà theo hiểu biết của người tổng hợp nhiều giáo trình thống kê nhập môn hiện đại (dạy bằng mô phỏng) đã chọn. Việc chạy lại năm câu hỏi xuyên suốt sách dưới lăng kính kiểm định — từ Poisson, thất nghiệp, statin, Galton tới Higgs — giúp nối chương này với toàn bộ phần trước và cho thấy cùng một logic áp dụng cho mọi loại câu hỏi.
+Thay vì mở đầu bằng công thức và bảng tra, Spiegelhalter dựng giá trị P từ một thí nghiệm tưởng tượng ai cũng hình dung được: trộn vé khoanh tay trong mũ rồi chia lại. Người đọc thấy tận mắt phân phối dưới giả thuyết không và thấy giá trị P là một diện tích đuôi, rồi mới biết rằng phân phối siêu bội, kiểm định khi bình phương và thống kê t chỉ là những cách tính tắt cho cùng câu hỏi.
+
+Đây cũng là cách tiếp cận mà theo hiểu biết của người tổng hợp nhiều giáo trình thống kê nhập môn hiện đại (dạy bằng mô phỏng) đã chọn. Việc chạy lại năm câu hỏi xuyên suốt sách dưới lăng kính kiểm định — từ Poisson, thất nghiệp, statin, Galton tới Higgs — giúp nối chương này với toàn bộ phần trước và cho thấy cùng một logic áp dụng cho mọi loại câu hỏi.
 
 ### Điểm mạnh: thẳng thắn về giới hạn của chính công cụ mình dạy
 
@@ -995,7 +1045,7 @@ Gần một phần ba chương dành cho những cách giá trị P sai: kiểm 
 
 ### Điểm yếu và đơn giản hoá
 
-- **Một số lỗi kỹ thuật** (đã nêu ở khối Lưu ý): Higgs được gọi là "hai phía"; ký hiệu β bị dùng thay cho lực 1 − β; chú thích Shipman ghi 22,5 thay vì 25,3; thống kê khi bình phương 0,02 thực ra là bản hiệu chỉnh Yates mà sách không nêu; giá trị P hai phía 0,89 không khớp với định nghĩa "ít nhất 7% theo cả hai chiều" (≈ 0,76). Với một chương dạy người đọc cẩn thận với giá trị P, những chỗ này đáng tiếc, dù không chỗ nào làm đổi kết luận.
+- **Một số lỗi kỹ thuật** (đã nêu ở mục Lưu ý cuối chương): Higgs được gọi là "hai phía"; ký hiệu β bị dùng thay cho lực 1 − β; chú thích Shipman ghi 22,5 thay vì 25,3; thống kê khi bình phương 0,02 thực ra là bản hiệu chỉnh Yates mà sách không nêu; giá trị P hai phía 0,89 không khớp với định nghĩa "ít nhất 7% theo cả hai chiều" (≈ 0,76). Với một chương dạy người đọc cẩn thận với giá trị P, những chỗ này đáng tiếc, dù không chỗ nào làm đổi kết luận.
 - **Phép tính ngưỡng 0,005 giữ nguyên lực 80%.** Theo hiểu biết của người tổng hợp, với cùng cỡ mẫu, chuyển từ α = 0,05 sang 0,005 làm lực giảm (một nghiên cứu có lực 80% ở α = 0,05 hai phía chỉ còn khoảng 50% ở α = 0,005); muốn giữ lực 80% cần tăng cỡ mẫu khoảng 70%. Như vậy con số "5% phát hiện sai" đúng với điều kiện nghiên cứu lớn hơn; với cùng nguồn lực, số phát hiện đúng sẽ giảm. Đánh đổi này — chính là đánh đổi α và lực mà mục Neyman–Pearson vừa giải thích — không được nhắc tới.
 - **Quy tắc FDA "1 trên 400".** Theo hiểu biết của người tổng hợp, yêu cầu P < 0,05 hai phía thường được hiểu là phải có lợi ích theo đúng chiều, tức mức 0,025 mỗi thử nghiệm; khi đó xác suất hai thử nghiệm đều "có lợi" nhầm là 0,025² = 1 trên 1.600. Con số 1/400 của sách là cận trên đơn giản hoá.
 - **Cây tần số giả định lực 80% và 10% giả thuyết đúng.** Tác giả có nói thực tế lực thường thấp hơn; với lực thấp hơn, tỷ lệ phát hiện sai còn cao hơn (ví dụ lực 40%: 45/(40 + 45) = 53%, người tổng hợp tính).
@@ -1027,3 +1077,163 @@ Gần một phần ba chương dành cho những cách giá trị P sai: kiểm 
 - **Cho người đọc báo:** khi thấy "nghiên cứu cho thấy X liên quan tới Y", hãy tìm (1) khoảng tin cậy hoặc ít nhất là cỡ mẫu, (2) độ lớn theo số ca tuyệt đối thay vì phần trăm tương đối, (3) đây là một kết quả đơn lẻ hay đã được lặp lại. Câu "ít hơn một phần triệu khả năng là tình cờ" gần như chắc chắn là diễn giải sai một giá trị P. Câu "không tìm thấy lợi ích" có thể chỉ có nghĩa là nghiên cứu quá nhỏ để thấy.
 - **Cho nhà phân tích:** ghi lại trước những gì sẽ kiểm định; đếm và báo cáo tổng số kiểm định đã làm, kể cả các phân tích nhóm con; điều chỉnh ngưỡng (Bonferroni hay tỷ lệ phát hiện sai) khi quét nhiều biến, nhiều sản phẩm, nhiều khu vực; báo cáo giá trị P chính xác kèm khoảng tin cậy và độ lớn hiệu ứng; khi so sánh mô hình dự báo, kiểm định chênh lệch (như kiểm định t ghép cặp trên sai số) trước khi tuyên bố mô hình nào "tốt hơn"; khi theo dõi một chỉ số theo thời gian, đừng kiểm định lại mỗi kỳ với ngưỡng 0,05 mà dùng phương pháp tuần tự.
 - **Cho người làm chính sách:** một hệ thống giám sát hàng nghìn đơn vị (bệnh viện, trường học, chi nhánh, doanh nghiệp) với ngưỡng 5% sẽ đều đặn "phát hiện" khoảng 5% đơn vị vô tội mỗi kỳ; cần ngưỡng điều chỉnh theo số đơn vị, phương pháp tuần tự, và quy trình điều tra kín trước khi công bố tên. Không nên ra quyết định chỉ vì một kết quả qua hay không qua ngưỡng 0,05 (nguyên tắc 3 của ASA); khi đặt hàng nghiên cứu đánh giá chính sách, hãy đòi tính lực kiểm định trước để tránh tốn tiền cho một nghiên cứu quá nhỏ, rồi kết luận sai rằng chính sách "không có tác dụng".
+
+## Bản đồ tư duy
+
+Toàn bộ Chương 10 trên một trang: sáu nhánh theo trình tự các mục của bản gốc (mở đầu và giả thuyết không; giá trị P và ý nghĩa thống kê; dùng lý thuyết xác suất cho năm câu hỏi; kiểm định nhiều lần và Neyman–Pearson; vụ Shipman và kiểm định tuần tự; những cách giá trị P bị dùng sai), nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: kiểm định giả thuyết chống phát hiện giả, nhưng giá trị P chỉ đo mức bất ngờ của dữ liệu khi giả thuyết không đúng`"]
+  n1["`Mục 1–3 — Arbuthnot, giả thuyết và giả thuyết không`"]
+  n0 --- n1
+  n2["`Arbuthnot (1710): 82 năm liền ở London bé trai rửa tội nhiều hơn bé gái`"]
+  n1 --- n2
+  n3["`Nếu 50:50 thì xác suất là 1/2 mũ 82 ≈ 2 × 10 mũ −25 — kiểm định ý nghĩa đầu tiên`"]
+  n2 --- n3
+  n4["`Tỷ số giới tính tự nhiên ngày nay khoảng 105 bé trai trên 100 bé gái`"]
+  n2 --- n4
+  n5["`Giả thuyết là giả định tạm thời về một thành phần của mô hình thống kê`"]
+  n1 --- n5
+  n6["`Con người hay thấy quy luật ở nơi không có (apophenia), nên cần thủ tục chính thức`"]
+  n1 --- n6
+  n7["`Giả thuyết không H0: không có hiệu ứng, chỉ có thể bị bác bỏ, không bao giờ được chứng minh`"]
+  n1 --- n7
+  n8["`Như toà án: chỉ tuyên “chưa chứng minh được có tội”, không tuyên vô tội`"]
+  n7 --- n8
+  n9["`Mục 3–4 — Giá trị P và ý nghĩa thống kê`"]
+  n0 --- n9
+  n10["`Khoanh tay, 54 nghiên cứu sinh: nữ 64% tay phải ở trên, nam 57%, chênh lệch 7%`"]
+  n9 --- n10
+  n11["`Kiểm định hoán vị: trộn vé khoanh tay rồi chia lại 1.000 lần, 7% nằm gần giữa phân phối`"]
+  n10 --- n11
+  n12["`Phân phối siêu bội cho phân phối chính xác thay cho mô phỏng`"]
+  n10 --- n12
+  n13["`Giá trị P là xác suất có kết quả cực đoan ít nhất như đã thấy nếu H0 và mọi giả định khác đúng`"]
+  n9 --- n13
+  n14["`Khoanh tay: P một phía 0,45, hai phía 0,89 — không có bằng chứng chống H0`"]
+  n13 --- n14
+  n15["`Fisher và thí nghiệm nếm trà: đoán đúng cả 4 cốc có xác suất 1/70`"]
+  n9 --- n15
+  n16["`NHST sáu bước: đặt H0, chọn thống kê, dựng phân phối dưới H0, tính P, định nghĩa cực đoan, so ngưỡng`"]
+  n9 --- n16
+  n17["`Ngưỡng 0,05 và 0,01 thành quy ước nhờ bảng tra của Fisher — nên báo cáo P chính xác`"]
+  n9 --- n17
+  n18["`Mục 5 — Dùng lý thuyết xác suất cho năm câu hỏi`"]
+  n0 --- n18
+  n19["`Kiểm định khi bình phương của Karl Pearson so số quan sát với số kỳ vọng`"]
+  n18 --- n19
+  n20["`Giết người ở Anh và xứ Wales khớp phân phối Poisson, P = 0,96`"]
+  n18 --- n20
+  n21["`Thất nghiệp giảm 3.000 ± 77.000: khoảng tin cậy 95% chứa 0 nên không có ý nghĩa`"]
+  n18 --- n21
+  n22["`Khoảng tin cậy 95% không chứa 0 tương đương P hai phía nhỏ hơn 0,05`"]
+  n21 --- n22
+  n23["`Statin trong HPS giảm nhồi máu cơ tim 27% (21%–33%), P rất nhỏ`"]
+  n18 --- n23
+  n24["`Galton: chiều cao mẹ vẫn liên quan chiều cao con trai, t = 7,25`"]
+  n18 --- n24
+  n25["`Thống kê t = ước lượng chia sai số chuẩn — với mẫu lớn, t vượt 2 ứng với P dưới 0,05`"]
+  n24 --- n25
+  n26["`Titanic: cây phân loại thắng chỉ nhờ may, kiểm định t ghép cặp cho P = 0,59`"]
+  n18 --- n26
+  n27["`Mục 6–7 — Kiểm định nhiều lần và lý thuyết Neyman–Pearson`"]
+  n0 --- n27
+  n28["`10 kiểm định với thuốc vô dụng: 40% khả năng có ít nhất một kết quả có ý nghĩa`"]
+  n27 --- n28
+  n29["`Cá hồi chết: 16 trên 8.064 điểm não phản ứng có ý nghĩa với ảnh cảm xúc`"]
+  n27 --- n29
+  n30["`Cách chữa: Bonferroni 0,05/n, kiểm soát tỷ lệ phát hiện sai, đòi lặp lại (FDA: 1/400)`"]
+  n27 --- n30
+  n31["`Hạt Higgs (CERN 2012): năm sigma, P khoảng 1 trên 3,5 triệu, có tính hiệu ứng nhìn chỗ khác`"]
+  n27 --- n31
+  n32["`Neyman–Pearson thêm giả thuyết đối và hai loại sai lầm`"]
+  n27 --- n32
+  n33["`Sai lầm loại I: bác bỏ H0 đúng, xác suất α — loại II: bỏ sót hiệu ứng thật, xác suất β`"]
+  n32 --- n33
+  n34["`Lực kiểm định 1 − β quyết định cỡ mẫu: HPS cần hơn 20.000 người cho lực trên 90% ở α = 0,01`"]
+  n32 --- n34
+  n35["`Thực hành là hỗn hợp: thiết kế theo Neyman–Pearson, phân tích bằng khoảng tin cậy và P kiểu Fisher`"]
+  n27 --- n35
+  n36["`Mục 8 — Có thể bắt Harold Shipman sớm hơn không`"]
+  n0 --- n36
+  n37["`Tử vong vượt kỳ vọng cộng dồn đến 1998: 174 nữ, 49 nam — gần đúng số nạn nhân được xác nhận`"]
+  n36 --- n37
+  n38["`Kiểm định ngây thơ mỗi năm báo động từ 1979 (40 ca so với 25,3 kỳ vọng, P = 0,004)`"]
+  n36 --- n38
+  n39["`Áp cho 25.000 bác sĩ ở ngưỡng 5% sẽ báo động oan khoảng 1.300 người mỗi lần`"]
+  n36 --- n39
+  n40["`Luật lôgarit lặp: kiểm định lặp lại trên dữ liệu tích luỹ chắc chắn có lúc bác bỏ H0 đúng`"]
+  n36 --- n40
+  n41["`Kiểm định tỷ số xác suất tuần tự SPRT (Wald, Barnard, Thế chiến II) báo động năm 1984`"]
+  n36 --- n41
+  n42["`Điều tra năm 1984 có thể cứu khoảng 175 người`"]
+  n41 --- n42
+  n43["`Hệ thống thí điểm báo động một bác sĩ vô tội chăm người già ở thị trấn nhiều nhà dưỡng lão`"]
+  n36 --- n43
+  n44["`Mục 9 — Giá trị P có thể sai ở đâu`"]
+  n0 --- n44
+  n45["`Cây tần số 1.000 nghiên cứu (α 5%, lực 80%, 10% có hiệu ứng thật): 45 trên 125 phát hiện, tức 36%, là sai`"]
+  n44 --- n45
+  n46["`Ioannidis 2005: phần lớn kết quả nghiên cứu được công bố là sai`"]
+  n44 --- n46
+  n47["`Sáu nguyên tắc của ASA năm 2016 về giá trị P`"]
+  n44 --- n47
+  n48["`P không phải xác suất giả thuyết đúng — Forbes viết sai về Higgs, BBC viết đúng`"]
+  n47 --- n48
+  n49["`Không có ý nghĩa không có nghĩa không có hiệu ứng — The Times về rượu`"]
+  n47 --- n49
+  n50["`Có ý nghĩa không có nghĩa quan trọng — học đại học và u não: 5 so với 6 ca trên 3.000 nam giới`"]
+  n47 --- n50
+  n51["`P gần 0,05 chỉ là bằng chứng yếu — đổi ngưỡng thành 0,005 giảm phát hiện sai từ 36% còn 5%`"]
+  n47 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Hỏi đã làm bao nhiêu kiểm định và kết quả đã được lặp lại chưa`"]
+  n52 --- n53
+  n54["`Luôn kèm khoảng tin cậy và độ lớn hiệu ứng theo nguy cơ tuyệt đối`"]
+  n52 --- n54
+  n55["`Giám sát liên tục cần phương pháp tuần tự và ngưỡng điều chỉnh theo số đơn vị`"]
+  n52 --- n55
+  n56["`Báo động thống kê là tín hiệu để điều tra, không phải bằng chứng về nguyên nhân`"]
+  n52 --- n56
+  n57["`Chia máy móc thành có và không có ý nghĩa là giả kim thuật biến bất định thành chắc chắn`"]
+  n52 --- n57
+  class n0 root
+  class n1,n9,n18,n27,n36,n44,n52 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), bản Mỹ đầu tiên tháng 9/2019 (bản gốc Pelican/Penguin, Anh, tháng 3/2019), Chương 10 "Answering Questions and Claiming Discoveries", trang PDF 174–202 (ebook không có số trang in; vị trí ghi theo chỉ số trang PDF và tên tiểu mục).
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần mở đầu ([00-gioi-thieu.md](00-gioi-thieu.md)) giới thiệu chu trình giải quyết vấn đề PPDAC (Vấn đề, Kế hoạch, Dữ liệu, Phân tích, Kết luận) và vụ bác sĩ Harold Shipman. Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) dạy cách ước lượng một con số và gắn cho nó khoảng tin cậy bằng phương pháp bootstrap; Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) đưa ra ngôn ngữ xác suất, phân phối Poisson, cách nghĩ theo "1.000 người được xét nghiệm" và ngộ nhận của bên công tố; Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) dùng lý thuyết xác suất để tính khoảng tin cậy mà không cần mô phỏng.
+
+Chương 10 chuyển từ câu hỏi "con số này là bao nhiêu và chắc đến đâu" sang câu hỏi "dữ liệu có đủ bằng chứng để bác bỏ một giả định mặc định hay không": kiểm định giả thuyết, giá trị P, ý nghĩa thống kê, lý thuyết Neyman–Pearson về sai lầm loại I và loại II, kiểm định tuần tự, và những cách giá trị P bị dùng sai. Đây là phần "Phân tích" mang tính khẳng định của chu trình PPDAC. Chương 11 ([C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) trình bày cách tiếp cận Bayes, vốn bác bỏ toàn bộ ý tưởng kiểm định giả thuyết không; Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) quay lại câu "phần lớn kết quả nghiên cứu được công bố là sai" và các hậu quả của việc săn ý nghĩa thống kê; Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) bàn cách làm và đọc thống kê tốt hơn.
+
+## Lưu ý
+
+- **Mức ý nghĩa của hạt Higgs bị gọi nhầm là "hai phía" (mục "The Danger of Carrying Out Many Significance Tests", phần câu hỏi 5, trang PDF 188):** sách viết rằng một quan sát cho "giá trị P hai phía 1 trên 3,5 triệu" sẽ cách giả thuyết không năm sai số chuẩn. Theo tính toán của người tổng hợp với phân phối chuẩn, xác suất vượt quá 5 sai số chuẩn **về một phía** là khoảng 2,9 × 10⁻⁷, tức khoảng 1 trên 3,5 triệu; xác suất **hai phía** là khoảng 5,7 × 10⁻⁷, tức khoảng 1 trên 1,7 triệu. Vậy con số 1 trên 3,5 triệu là giá trị P một phía (theo hiểu biết của người tổng hợp, vật lý hạt quy ước dùng giá trị P một phía vì chỉ quan tâm tới tín hiệu vượt nền). Nhận xét của người tổng hợp.
+- **Ký hiệu β dùng sai trong mục "Neyman—Pearson Theory" (trang PDF 190):** sách định nghĩa β là xác suất sai lầm loại II và lực kiểm định là 1 − β, nhưng ngay sau đó viết "often setting α = 0.05 and β = 0.80" và "the study has around β = 90% power". Đúng ra là 1 − β = 0,80 (tức β = 0,20) và 1 − β = 90% (tức β = 0,10). Cùng đoạn, "Health Protection Study" là lỗi đánh máy của "Heart Protection Study". Chú thích Hình 10.4 viết "Type 1" thay vì "Type I". Bản tổng hợp dùng ký hiệu đúng.
+- **Chú thích dấu sao về Shipman năm 1979 mâu thuẫn với lời văn:** lời văn (trang PDF 193) so 40 ca tử vong quan sát với 25,3 ca kỳ vọng và cho giá trị P một phía 0,004; chú thích dấu sao lại nói "xác suất một biến Poisson có trung bình 22,5 đạt ít nhất 40". Người tổng hợp tính gần đúng (xấp xỉ Wilson–Hilferty cho đuôi Poisson): với trung bình 25,3, P(X ≥ 40) ≈ 0,004 — khớp lời văn; với trung bình 22,5, P(X ≥ 40) ≈ 0,0006. Vậy 22,5 trong chú thích nhiều khả năng là lỗi; bản tổng hợp dùng 25,3.
+- **Thống kê khi bình phương 0,02 trong ví dụ khoanh tay là bản có hiệu chỉnh liên tục (Yates), sách không nói ra:** người tổng hợp tính lại từ bảng 2 × 2 (nữ 5 trái/9 phải, nam 17 trái/23 phải; kỳ vọng 5,70/8,30/16,30/23,70): công thức đơn giản nhất trong bảng thuật ngữ của sách, tổng (quan sát − kỳ vọng)²/kỳ vọng, cho 0,70² × (1/5,70 + 1/16,30 + 1/8,30 + 1/23,70) ≈ 0,20, ứng với P ≈ 0,66. Con số 0,02 và P = 0,90 của sách khớp với bản có hiệu chỉnh Yates: (0,70 − 0,5)² × 0,399 ≈ 0,017, P ≈ 0,90. Kết luận "không có bằng chứng" không đổi.
+- **Giá trị P hai phía 0,89 trong ví dụ khoanh tay (chỗ chưa chắc):** người tổng hợp tính tay phân phối siêu bội (số nữ tay phải ở trên, từ 0 tới 14) và được: P(9 trở lên) ≈ 0,453 — khớp giá trị một phía 0,45 của sách; P(đúng 8) ≈ 0,242. Nếu hiểu đúng từng chữ "chênh lệch ít nhất 7% theo cả hai chiều" thì chỉ loại trường hợp 8 nữ (chênh lệch −2,9%), và P hai phía ≈ 1 − 0,242 = 0,76. Con số 0,89 gần với cách **nhân đôi giá trị một phía** (bảng thuật ngữ của sách nói đây là cách thường dùng): 2 × 0,447 (đọc từ 1.000 hoán vị) ≈ 0,89, hoặc 2 × 0,453 ≈ 0,91. Dù cách nào, kết luận không đổi.
+- **Bảng 10.3 (số vụ giết người theo ngày):** cột "số ngày quan sát" cộng lại được 259 + 387 + 261 + 131 + 40 + 13 + 3 = **1.094**, không phải 1.095 như dòng tổng. Chú thích bảng ghi giai đoạn "April 2014 to March 2016" (2 năm, khoảng 730 ngày), nhưng 1.095 ngày là 3 năm và Chương 8 nói "ba năm"; giai đoạn hợp lý là tháng 4/2013 tới tháng 3/2016. Cột kỳ vọng thì người tổng hợp tính lại khớp (trung bình 1.545/1.095 = 1,411 vụ/ngày).
+- **Dấu của thay đổi thất nghiệp:** sách viết "a quarterly change in unemployment of 3,000" rồi lại dùng "point estimate (−3,000)". Theo Chương 7, đó là mức **giảm** 3.000 người; khoảng tin cậy −80.000 tới +74.000 khớp với ước lượng −3.000 ± 77.000.
+- **Bảng 10.4 (HPS):** lớp chữ của ebook ghi "P > 0.0001", ảnh trang ghi đúng là "P < 0.0001". Khoảng tin cậy chỉ "xấp xỉ" ước lượng ± 2 sai số chuẩn: với nhồi máu cơ tim, 27% ± 2 × 4% là 19%–35%, còn bảng ghi 21%–33% (sách giải thích do HPS làm tròn). Câu "giá trị P cho mức giảm 27% nhồi máu cơ tim vào khoảng 1 trên 3 triệu" khó khớp với chính số liệu của bảng: 27/4 ≈ 6,75 sai số chuẩn ứng với P cỡ 10⁻¹¹; tính từ số ca (8,7% của 10.269 người và 11,8% của 10.267 người) người tổng hợp được khoảng 7,5 sai số chuẩn. Một trên 3 triệu tương ứng khoảng 5 sai số chuẩn. Người tổng hợp không đối chiếu được nguồn gốc con số này; kết luận "P rất nhỏ" không đổi.
+- **Chú thích Hình 10.1 viết sai loại đường:** chú thích nói "đường liền biểu diễn số bé trai và bé gái bằng nhau", nhưng trên hình, đường biểu diễn tỷ số 100 là **đường nét đứt** nằm ngang; đường liền trơn là đường cong làm khớp với dữ liệu, còn đường gấp khúc màu xám là số liệu từng năm.
+- **Làm tròn nhỏ:** hiệu chỉnh Bonferroni cho con cá hồi dùng 8.000 thay vì 8.064 điểm (0,05/8.064 ≈ 1 trên 161.000, so với 1 trên 160.000 của sách); 25.000 bác sĩ đa khoa × 5% = 1.250, sách làm tròn thành "khoảng 1.300"; 3.715 ca u não trên 2.000.000 nam giới là 1 trên 538, sách ghi "khoảng 1 trên 600" vì số nam giới là "hơn 2 triệu".
+- **Các phép tính đã tự kiểm tra và khớp:** 1/2⁸² ≈ 2,1 × 10⁻²⁵ (24 số 0 sau dấu phẩy); 1/2⁸¹ ≈ 4,1 × 10⁻²⁵; 21/20 = 105 bé trai trên 100 bé gái; 9/14 = 64%, 23/40 = 57%, 32/54 = 59%; kỳ vọng 14 × 22/54 = 5,70; 54! ≈ 2,3 × 10⁷¹ và thời gian duyệt hết với tốc độ một triệu hoán vị mỗi giây ≈ 7 × 10⁵⁷ năm; 52! ≈ 8 × 10⁶⁷ và với một nghìn tỷ ván mỗi giây ≈ 2,6 × 10⁴⁸ năm; nếm trà: C(8,4) = 70; t = 0,33355/0,04600 = 7,25; 0,41175/0,04668 = 8,82; 69,22882/0,10664 = 649,2; Titanic: 0,1028/√412 = 0,0050, t = −0,0027/0,0050 = −0,54, P hai phía ≈ 0,59; 1 − 0,95² = 0,0975; 1 − 0,95¹⁰ = 0,40; 8.064 × 0,001 ≈ 8; 0,05/1.000.000 = 1 trên 20 triệu; 0,05 × 0,05 = 1/400; 0,05/25.000 = 1 trên 500.000; 105 − 59,2 = 45,8 ≈ 46; ngưỡng SPRT ln(0,99/0,01) ≈ 4,6, ln(0,9999/0,0001) ≈ 9,2, ln(0,999999/0,000001) ≈ 13,8 (khớp các vạch trên Hình 10.4); 0,69 = ln 2; cây tần số: 45/125 = 36%, 4,5/84,5 = 5,3%; u não: 3.000/600 = 5, 5 × 1,19 = 5,95 ≈ 6; 10.267 + 10.269 = 20.536 người trong HPS.
+- **Hình là đồ thị không ghi số:** Hình 10.1 (tỷ số giới tính theo năm), Hình 10.2 (hai biểu đồ cột phân phối hoán vị), Hình 10.3 (số tử vong vượt kỳ vọng cộng dồn của Shipman) và Hình 10.4 (thống kê SPRT) không ghi số; mọi con số đọc từ trục trong bản tổng hợp là **ước lượng** của người tổng hợp. Riêng Hình 10.2(b), người tổng hợp kiểm tra số đọc được với phân phối siêu bội tính tay và thấy khớp (ví dụ cột tại −3% khoảng 243 trên 1.000, tính ra 242). Hình 10.5 (cây tần số) có ghi số.
+- **Lớp chữ và chú thích:** các công thức dạng ảnh bị mất trong lớp chữ (công thức sai số chuẩn trong chú thích về Titanic, công thức khi bình phương và công thức phân phối siêu bội trong bảng thuật ngữ); bản tổng hợp viết lại theo dạng chuẩn. Danh sách chú thích dấu sao đi kèm bundle của chương này bị lệch (là chú thích của các chương khác); người tổng hợp đã đối chiếu `footnotes-all.txt` và xác định 9 chú thích chữ (về thuận tay, tỷ số odds, chữ "chi", kiểm định t ghép cặp, 1 − 0,95², việc "chấp nhận" giả thuyết không, giá trị P của Shipman, Wald và Barnard, sáu nguyên tắc ASA) cùng 6 bảng (Bảng 10.1–10.6) là của chương này.

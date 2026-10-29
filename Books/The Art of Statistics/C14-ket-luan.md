@@ -1,18 +1,23 @@
 # Chương 14 — Kết luận (In Conclusion)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican, Anh, 3/2019), Chương 14 "In Conclusion", trang PDF 244–246 (gồm cả trang quảng cáo "Discover Your Next Great Read" của nhà xuất bản và trang "About the Author"). Ebook không có số trang in, nên vị trí được ghi bằng chỉ số trang PDF.
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương khép lại cuốn sách. Phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đặt khung: thống kê là học từ dữ liệu theo chu trình PPDAC (Vấn đề, Kế hoạch, Dữ liệu, Phân tích, Kết luận), không phải một túi công cụ. Chương 1–7 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md) đến [C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) làm việc với dữ liệu, tổng thể, nhân quả, hồi quy, thuật toán và khoảng bất định; Chương 8–11 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md) đến [C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) dựng nền xác suất, khoảng tin cậy, kiểm định và suy luận Bayes; Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) chỉ ra những gì có thể sai, và Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) bàn cách làm thống kê tốt hơn. Chương 14 không thêm kiến thức mới mà thu toàn bộ bài học về mười quy tắc thực hành, mượn từ một nhóm nhà thống kê hàng đầu, kèm lời bình ngắn của tác giả. Bảng thuật ngữ cuối sách được tổng hợp ở [PL-bang-thuat-ngu.md](PL-bang-thuat-ngu.md).
-**Ý chính:** Spiegelhalter thừa nhận thẳng rằng thống kê có thể khó, và thay vì tự rút gọn mười ba chương thành vài lời khuyên, ông mượn **"mười quy tắc đơn giản cho thực hành thống kê hiệu quả" của Kass và cộng sự (2016) — một bộ quy tắc gần như không có gì kỹ thuật, nhấn mạnh đúng những điều mà các khoá thống kê thường không dạy, và tóm gọn các vấn đề cuốn sách đã bàn.** Mười quy tắc là: (1) phương pháp thống kê phải giúp dữ liệu trả lời câu hỏi khoa học — hỏi "vì sao tôi làm việc này" thay vì chọn kỹ thuật nào; (2) tín hiệu luôn đi kèm nhiễu, biến thiên là tất yếu và mô hình xác suất là một sự trừu tượng hữu ích; (3) lập kế hoạch trước, thật sự trước — kể cả xác định trước phân tích trong thí nghiệm khẳng định để tránh "mức tự do của nhà nghiên cứu"; (4) lo về chất lượng dữ liệu, vì mọi thứ dựa trên dữ liệu; (5) phân tích thống kê không chỉ là tính toán — đừng nhét số vào công thức hay chạy phần mềm mà không biết vì sao; (6) giữ cho đơn giản — đừng phô diễn mô hình phức tạp khi không cần; (7) đánh giá sự biến thiên, với cảnh báo rằng khoảng sai số thường lớn hơn mức được tuyên bố; (8) kiểm tra giả định, và nói rõ khi không kiểm tra được; (9) khi có thể, hãy lặp lại nghiên cứu, hoặc khuyến khích người khác làm; (10) làm cho phân tích tái lập được — người khác phải truy cập được dữ liệu và mã. Chương kết bằng một nhận xét cá nhân: thống kê luôn thay đổi theo lượng và độ sâu của dữ liệu, ảnh hưởng tới cả xã hội lẫn từng cá nhân, và việc viết cuốn sách khiến tác giả nhận ra đời ông đã phong phú lên nhiều nhờ gắn bó với thống kê.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chương không có hình, bảng hay phép tính nào**, nên không có số liệu cần kiểm tra lại. Bảng mười quy tắc trong bản tổng hợp do người tổng hợp lập từ danh sách đánh số của sách; cột "chương liên quan" là đối chiếu của người tổng hợp, không có trong sách.
-> - **Nguồn của mười quy tắc:** R. E. Kass và cộng sự, "Ten Simple Rules for Effective Statistical Practice", *PLOS Computational Biology* 12:6 (9/6/2016), e1004961. Tên mười quy tắc trong sách khớp với tên quy tắc trong bài báo (theo hiểu biết của người tổng hợp); phần sau dấu hai chấm của mỗi quy tắc là lời bình của Spiegelhalter, không phải của bài báo, dù nhiều ý trùng với nội dung bài báo.
-> - **Lớp chữ ebook:** câu bình của quy tắc 3 bị thiếu dấu chấm cuối ("…avoiding researcher degrees of freedom"); ở quy tắc 8 dấu chấm bị tách thành một dòng riêng. Không ảnh hưởng nội dung.
-> - **Thuật ngữ "researcher degrees of freedom" (mức tự do của nhà nghiên cứu)** chỉ được nêu tên ở chương này mà không giải thích; khái niệm được định nghĩa ở Chương 12 (theo Simonsohn): những điều chỉnh nhỏ, có ý thức hoặc vô thức, mà nhà nghiên cứu đưa ra tuỳ theo dữ liệu trông thế nào — khi nào dừng thu thập, loại dữ liệu nào, hiệu chỉnh yếu tố nào, nhấn mạnh nhóm nào, chọn thước đo kết quả nào, chia biến liên tục thành nhóm ra sao, xử lý dữ liệu thiếu thế nào. Bản tổng hợp chép định nghĩa này vào để chương tự đứng được.
-> - **Trang PDF 245** là trang quảng cáo của nhà xuất bản ("Discover Your Next Great Read — Get sneak peeks, book recommendations, and news about your favorite authors"), không có nội dung chuyên môn. **Trang PDF 246** là tiểu sử tác giả kèm ảnh (ảnh do Hội Thống kê Hoàng gia cung cấp).
-> - **Quy tắc 9 và 10 dễ bị lẫn (nhận xét của người tổng hợp):** sách dùng "replicate" (lặp lại nghiên cứu, với dữ liệu mới, do người khác làm) ở quy tắc 9 và "reproducible" (tái lập phân tích, với cùng dữ liệu và mã) ở quy tắc 10, nhưng không giải thích sự khác nhau; trong khi ở phần Giới thiệu, "reproducibility crisis" và "replication crisis" được dùng như hai tên của cùng một cuộc khủng hoảng. Bản tổng hợp phân biệt rõ hai khái niệm.
-> - **Thông tin tiểu sử đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** tiểu sử ghi tác giả là chủ tịch Trung tâm Winton; theo hiểu biết của người tổng hợp (chưa chắc chắn về mốc thời gian), trung tâm này về sau ngừng hoạt động và tác giả nay là giáo sư danh dự của Đại học Cambridge. Năm 2024 ông xuất bản thêm cuốn *The Art of Uncertainty*.
+Spiegelhalter thừa nhận thẳng rằng thống kê có thể khó, và thay vì tự rút gọn mười ba chương thành vài lời khuyên, ông mượn **"mười quy tắc đơn giản cho thực hành thống kê hiệu quả" của Kass và cộng sự (2016) — một bộ quy tắc gần như không có gì kỹ thuật, nhấn mạnh đúng những điều mà các khoá thống kê thường không dạy, và tóm gọn các vấn đề cuốn sách đã bàn.**
+
+Mười quy tắc là:
+
+1. phương pháp thống kê phải giúp dữ liệu trả lời câu hỏi khoa học — hỏi "vì sao tôi làm việc này" thay vì chọn kỹ thuật nào;
+2. tín hiệu luôn đi kèm nhiễu, biến thiên là tất yếu và mô hình xác suất là một sự trừu tượng hữu ích;
+3. lập kế hoạch trước, thật sự trước — kể cả xác định trước phân tích trong thí nghiệm khẳng định để tránh "mức tự do của nhà nghiên cứu";
+4. lo về chất lượng dữ liệu, vì mọi thứ dựa trên dữ liệu;
+5. phân tích thống kê không chỉ là tính toán — đừng nhét số vào công thức hay chạy phần mềm mà không biết vì sao;
+6. giữ cho đơn giản — đừng phô diễn mô hình phức tạp khi không cần;
+7. đánh giá sự biến thiên, với cảnh báo rằng khoảng sai số thường lớn hơn mức được tuyên bố;
+8. kiểm tra giả định, và nói rõ khi không kiểm tra được;
+9. khi có thể, hãy lặp lại nghiên cứu, hoặc khuyến khích người khác làm;
+10. làm cho phân tích tái lập được — người khác phải truy cập được dữ liệu và mã.
+
+Chương kết bằng một nhận xét cá nhân: thống kê luôn thay đổi theo lượng và độ sâu của dữ liệu, ảnh hưởng tới cả xã hội lẫn từng cá nhân, và việc viết cuốn sách khiến tác giả nhận ra đời ông đã phong phú lên nhiều nhờ gắn bó với thống kê.
 
 ## Sơ đồ
 
@@ -167,7 +172,9 @@ Dưới đây người tổng hợp diễn giải từng quy tắc, nối với 
 
 **Quy tắc 2 — tín hiệu và nhiễu.** Đây là thách thức thứ hai trong hai giới hạn của dữ liệu mà phần Giới thiệu nêu: mọi thứ ta đo đều biến thiên, và việc của thống kê là rút hiểu biết từ sự biến thiên có vẻ ngẫu nhiên đó. Lời bình "mô hình xác suất hữu ích như một sự trừu tượng" nhắc lại ý của các chương về xác suất: ta có thể dùng xác suất ngay cả khi không có cơ chế ngẫu nhiên thật sự, coi dữ liệu như được rút ra từ một "tổng thể ẩn dụ" của những gì lẽ ra có thể xảy ra.
 
-**Quy tắc 3 — lập kế hoạch thật sớm.** Đây là khâu Kế hoạch, mà phần Giới thiệu than phiền là "thường bị lướt qua trong cơn vội lấy dữ liệu". Lời bình nối nó với mức tự do của nhà nghiên cứu: những điều chỉnh nhỏ, có ý thức hoặc vô thức, đưa ra tuỳ theo dữ liệu trông thế nào — thay đổi thiết kế thí nghiệm, khi nào dừng thu thập, loại dữ liệu nào, hiệu chỉnh yếu tố nào, nhấn mạnh nhóm nào, tập trung vào thước đo kết quả nào, chia biến liên tục thành nhóm ra sao, xử lý dữ liệu thiếu thế nào. Mỗi điều chỉnh như vậy làm tăng khả năng đạt "ý nghĩa thống kê". Cách phòng ngừa là phân biệt nghiên cứu khám phá (được phép linh hoạt, mục đích là gợi giả thuyết) với nghiên cứu khẳng định (phải làm theo một đề cương xác định trước, tốt nhất là công khai).
+**Quy tắc 3 — lập kế hoạch thật sớm.** Đây là khâu Kế hoạch, mà phần Giới thiệu than phiền là "thường bị lướt qua trong cơn vội lấy dữ liệu". Lời bình nối nó với mức tự do của nhà nghiên cứu: những điều chỉnh nhỏ, có ý thức hoặc vô thức, đưa ra tuỳ theo dữ liệu trông thế nào — thay đổi thiết kế thí nghiệm, khi nào dừng thu thập, loại dữ liệu nào, hiệu chỉnh yếu tố nào, nhấn mạnh nhóm nào, tập trung vào thước đo kết quả nào, chia biến liên tục thành nhóm ra sao, xử lý dữ liệu thiếu thế nào.
+
+Mỗi điều chỉnh như vậy làm tăng khả năng đạt "ý nghĩa thống kê". Cách phòng ngừa là phân biệt nghiên cứu khám phá (được phép linh hoạt, mục đích là gợi giả thuyết) với nghiên cứu khẳng định (phải làm theo một đề cương xác định trước, tốt nhất là công khai).
 
 **Quy tắc 4 — chất lượng dữ liệu.** "Mọi thứ đều dựa trên dữ liệu." Phần Giới thiệu đã cho thấy dữ liệu được dựng từ định nghĩa (cây, thất nghiệp, GDP, cái chết), rằng "dữ liệu nhặt được" từ nguồn thường nhật thường lộn xộn và cần làm sạch, và rằng nguồn dữ liệu có thể mang thiên lệch hệ thống. Không phương pháp phân tích nào sửa được dữ liệu sai từ gốc.
 
@@ -312,3 +319,131 @@ Quy tắc 9 (lặp lại nghiên cứu) và 10 (tái lập phân tích) nói v�
 - **Cho người đọc báo:** dùng ba quy tắc làm bộ lọc nhanh — kết quả có trả lời một câu hỏi rõ ràng không (quy tắc 1); có nêu độ bất định không, và nếu có, hãy hình dung nó còn rộng hơn (quy tắc 7); đã có ai lặp lại chưa (quy tắc 9).
 - **Cho nhà phân tích:** trước khi mở dữ liệu, viết ra câu hỏi, thước đo kết quả chính và kế hoạch phân tích; ghi lại mọi phân tích đã thử; viết rõ giả định nào đã kiểm tra và giả định nào chưa; lưu mã và dữ liệu sao cho đồng nghiệp chạy lại được; trình bày kết quả chính bằng hình hay câu đơn giản nhất có thể.
 - **Cho người làm chính sách:** khi đặt hàng hoặc dùng một phân tích làm căn cứ quyết định, yêu cầu đề cương định trước, nguồn và chất lượng dữ liệu, khoảng bất định, và khả năng tái lập; ưu tiên các kết quả đã được lặp lại độc lập trước khi ra quyết định có hệ quả lớn.
+
+## Bản đồ tư duy
+
+Toàn bộ Chương 14 trên một trang: năm nhánh theo trình tự của chương (phần mở đầu, mười quy tắc gom theo các khâu của chu trình PPDAC, phần kết chương, trang nhà xuất bản và tiểu sử), nhánh cuối là thông điệp xuyên suốt cả cuốn sách.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 14: thực hành thống kê hiệu quả dựa chủ yếu vào nguyên tắc không kỹ thuật, gói trong mười quy tắc của Kass và cộng sự (2016)`"]
+  n1["`Phần mở đầu chương (trang PDF 244) — vì sao kết bằng mười quy tắc`"]
+  n0 --- n1
+  n2["`Tác giả nói thẳng: thống kê có thể khó, dù sách đã tránh chi tiết kỹ thuật`"]
+  n1 --- n2
+  n3["`Thay vì tự rút gọn 13 chương, ông mượn bài Ten Simple Rules for Effective Statistical Practice (PLOS Computational Biology, 6/2016)`"]
+  n1 --- n3
+  n4["`Các quy tắc nhấn mạnh vấn đề không kỹ thuật, thứ các khoá thống kê thường không dạy`"]
+  n1 --- n4
+  n5["`Quy tắc khá hiển nhiên nhưng tóm gọn đúng những vấn đề cuốn sách đã xử lý`"]
+  n1 --- n5
+  n6["`Mười quy tắc, nhóm Vấn đề và Kế hoạch (cách gom theo PPDAC là của người tổng hợp)`"]
+  n0 --- n6
+  n7["`Quy tắc 1 — phương pháp phải giúp dữ liệu trả lời câu hỏi khoa học`"]
+  n6 --- n7
+  n8["`Hỏi “vì sao tôi làm việc này?” thay vì chọn kỹ thuật nào`"]
+  n7 --- n8
+  n9["`Quy tắc 3 — lập kế hoạch trước, thật sự trước`"]
+  n6 --- n9
+  n10["`Xác định trước phân tích trong thí nghiệm khẳng định`"]
+  n9 --- n10
+  n11["`Tránh mức tự do của nhà nghiên cứu: chọn lúc dừng, loại dữ liệu, thước đo sau khi thấy dữ liệu`"]
+  n9 --- n11
+  n12["`Nghiên cứu khám phá được linh hoạt, nghiên cứu khẳng định theo đề cương định trước`"]
+  n9 --- n12
+  n13["`Mười quy tắc, nhóm Dữ liệu và Phân tích`"]
+  n0 --- n13
+  n14["`Quy tắc 4 — lo về chất lượng dữ liệu: mọi thứ đều dựa trên dữ liệu`"]
+  n13 --- n14
+  n15["`Không phương pháp nào sửa được dữ liệu sai từ gốc`"]
+  n14 --- n15
+  n16["`Quy tắc 2 — tín hiệu luôn đi kèm nhiễu`"]
+  n13 --- n16
+  n17["`Biến thiên là tất yếu, mô hình xác suất là sự trừu tượng hữu ích`"]
+  n16 --- n17
+  n18["`Quy tắc 5 — phân tích không chỉ là chuỗi phép tính`"]
+  n13 --- n18
+  n19["`Đừng nhét số vào công thức hay chạy phần mềm mà không biết vì sao`"]
+  n18 --- n19
+  n20["`Ví dụ: giá trị P không phải xác suất giả thuyết không là đúng`"]
+  n18 --- n20
+  n21["`Quy tắc 8 — kiểm tra giả định, và nói rõ khi không kiểm tra được`"]
+  n13 --- n21
+  n22["`Tinh thần “mọi mô hình đều sai, nhưng một số có ích” (Chương 5)`"]
+  n21 --- n22
+  n23["`Mười quy tắc, nhóm Kết luận và Kiểm chứng`"]
+  n0 --- n23
+  n24["`Quy tắc 6 — giữ cho đơn giản`"]
+  n23 --- n24
+  n25["`Thông điệp chính phải cơ bản nhất có thể, không phô diễn mô hình phức tạp`"]
+  n24 --- n25
+  n26["`Đồ thị tốt hay tần suất kỳ vọng thường hữu ích hơn mô hình rắc rối`"]
+  n24 --- n26
+  n27["`Quy tắc 7 — đưa ra đánh giá về sự biến thiên`"]
+  n23 --- n27
+  n28["`Khoảng sai số nói chung lớn hơn mức được tuyên bố vì bỏ qua sai số hệ thống`"]
+  n27 --- n28
+  n29["`Ví dụ: 3,04 ± 0,1 nghìn tỷ cây mà chính tác giả thấy hơi quá chính xác`"]
+  n27 --- n29
+  n30["`Quy tắc 9 — khi có thể, hãy lặp lại nghiên cứu, hoặc khuyến khích người khác làm`"]
+  n23 --- n30
+  n31["`Lặp lại là làm lại nghiên cứu với dữ liệu mới, lý tưởng do nhóm độc lập`"]
+  n30 --- n31
+  n32["`Quy tắc 10 — làm cho phân tích tái lập được`"]
+  n23 --- n32
+  n33["`Tái lập là ra lại đúng kết quả với cùng dữ liệu và mã`"]
+  n32 --- n33
+  n34["`Tác giả công bố mã R và dữ liệu của sách trên GitHub`"]
+  n32 --- n34
+  n35["`Phần kết chương và trang cuối sách (trang PDF 244–246)`"]
+  n0 --- n35
+  n36["`Thống kê liên tục thay đổi theo lượng và độ sâu ngày càng tăng của dữ liệu`"]
+  n35 --- n36
+  n37["`Thống kê tác động tới từng cá nhân, không chỉ xã hội nói chung`"]
+  n35 --- n37
+  n38["`Tác giả: viết sách khiến ông thấy đời mình phong phú lên nhờ gắn bó với thống kê`"]
+  n35 --- n38
+  n39["`Trang 245 là quảng cáo nhà xuất bản, trang 246 là tiểu sử Sir David Spiegelhalter`"]
+  n35 --- n39
+  n40["`Thông điệp xuyên suốt`"]
+  n0 --- n40
+  n41["`Phần lớn rủi ro nằm ở câu hỏi, kế hoạch, dữ liệu và diễn giải, không ở phép tính`"]
+  n40 --- n41
+  n42["`Dùng mười quy tắc làm danh mục kiểm tra khi đọc hay tự làm một phân tích`"]
+  n40 --- n42
+  n43["`Coi khoảng sai số là cận dưới của độ bất định thật`"]
+  n40 --- n43
+  n44["`Kết quả chưa được ai lặp lại thì chỉ là tạm thời`"]
+  n40 --- n44
+  n45["`Thống kê là kỹ năng sống, không chỉ là kỹ năng nghề`"]
+  n40 --- n45
+  class n0 root
+  class n1,n6,n13,n23,n35,n40 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n41,n42,n43,n44,n45 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican, Anh, 3/2019), Chương 14 "In Conclusion", trang PDF 244–246 (gồm cả trang quảng cáo "Discover Your Next Great Read" của nhà xuất bản và trang "About the Author"). Ebook không có số trang in, nên vị trí được ghi bằng chỉ số trang PDF.
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương khép lại cuốn sách. Phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đặt khung: thống kê là học từ dữ liệu theo chu trình PPDAC (Vấn đề, Kế hoạch, Dữ liệu, Phân tích, Kết luận), không phải một túi công cụ. Chương 1–7 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md) đến [C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) làm việc với dữ liệu, tổng thể, nhân quả, hồi quy, thuật toán và khoảng bất định; Chương 8–11 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md) đến [C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) dựng nền xác suất, khoảng tin cậy, kiểm định và suy luận Bayes; Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) chỉ ra những gì có thể sai, và Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) bàn cách làm thống kê tốt hơn. Chương 14 không thêm kiến thức mới mà thu toàn bộ bài học về mười quy tắc thực hành, mượn từ một nhóm nhà thống kê hàng đầu, kèm lời bình ngắn của tác giả. Bảng thuật ngữ cuối sách được tổng hợp ở [PL-bang-thuat-ngu.md](PL-bang-thuat-ngu.md).
+
+## Lưu ý
+
+- **Chương không có hình, bảng hay phép tính nào**, nên không có số liệu cần kiểm tra lại. Bảng mười quy tắc trong bản tổng hợp do người tổng hợp lập từ danh sách đánh số của sách; cột "chương liên quan" là đối chiếu của người tổng hợp, không có trong sách.
+- **Nguồn của mười quy tắc:** R. E. Kass và cộng sự, "Ten Simple Rules for Effective Statistical Practice", *PLOS Computational Biology* 12:6 (9/6/2016), e1004961. Tên mười quy tắc trong sách khớp với tên quy tắc trong bài báo (theo hiểu biết của người tổng hợp); phần sau dấu hai chấm của mỗi quy tắc là lời bình của Spiegelhalter, không phải của bài báo, dù nhiều ý trùng với nội dung bài báo.
+- **Lớp chữ ebook:** câu bình của quy tắc 3 bị thiếu dấu chấm cuối ("…avoiding researcher degrees of freedom"); ở quy tắc 8 dấu chấm bị tách thành một dòng riêng. Không ảnh hưởng nội dung.
+- **Thuật ngữ "researcher degrees of freedom" (mức tự do của nhà nghiên cứu)** chỉ được nêu tên ở chương này mà không giải thích; khái niệm được định nghĩa ở Chương 12 (theo Simonsohn): những điều chỉnh nhỏ, có ý thức hoặc vô thức, mà nhà nghiên cứu đưa ra tuỳ theo dữ liệu trông thế nào — khi nào dừng thu thập, loại dữ liệu nào, hiệu chỉnh yếu tố nào, nhấn mạnh nhóm nào, chọn thước đo kết quả nào, chia biến liên tục thành nhóm ra sao, xử lý dữ liệu thiếu thế nào. Bản tổng hợp chép định nghĩa này vào để chương tự đứng được.
+- **Trang PDF 245** là trang quảng cáo của nhà xuất bản ("Discover Your Next Great Read — Get sneak peeks, book recommendations, and news about your favorite authors"), không có nội dung chuyên môn. **Trang PDF 246** là tiểu sử tác giả kèm ảnh (ảnh do Hội Thống kê Hoàng gia cung cấp).
+- **Quy tắc 9 và 10 dễ bị lẫn (nhận xét của người tổng hợp):** sách dùng "replicate" (lặp lại nghiên cứu, với dữ liệu mới, do người khác làm) ở quy tắc 9 và "reproducible" (tái lập phân tích, với cùng dữ liệu và mã) ở quy tắc 10, nhưng không giải thích sự khác nhau; trong khi ở phần Giới thiệu, "reproducibility crisis" và "replication crisis" được dùng như hai tên của cùng một cuộc khủng hoảng. Bản tổng hợp phân biệt rõ hai khái niệm.
+- **Thông tin tiểu sử đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** tiểu sử ghi tác giả là chủ tịch Trung tâm Winton; theo hiểu biết của người tổng hợp (chưa chắc chắn về mốc thời gian), trung tâm này về sau ngừng hoạt động và tác giả nay là giáo sư danh dự của Đại học Cambridge. Năm 2024 ông xuất bản thêm cuốn *The Art of Uncertainty*.

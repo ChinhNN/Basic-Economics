@@ -1,22 +1,24 @@
 # Chương 11 — Học từ kinh nghiệm theo cách Bayes (Learning from Experience the Bayesian Way)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), bản Mỹ đầu tiên tháng 9/2019 (bản gốc Pelican/Penguin, Anh, tháng 3/2019), Chương 11 "Learning from Experience the Bayesian Way", trang PDF 203–222 (ebook không có số trang in; vị trí ghi theo chỉ số trang PDF và tên tiểu mục).
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) đưa ra ngôn ngữ xác suất, phân biệt bất định ngẫu nhiên (aleatory) với bất định do thiếu hiểu biết (epistemic), dạy cách nghĩ bằng cây tần số kỳ vọng (ví dụ sàng lọc ung thư vú: trong 1.000 phụ nữ, 108 người dương tính nhưng chỉ 9 người thật sự mắc bệnh) và nêu ngộ nhận của bên công tố. Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) và Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) xây khoảng tin cậy; Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) xây kiểm định giả thuyết, giá trị P và lý thuyết Neyman–Pearson. Tất cả những công cụ đó thuộc trường phái "cổ điển" hay "tần suất". Chương 11 giới thiệu trường phái thứ ba, trường phái Bayes, vốn đòi người đọc gác lại gần như mọi thứ đã học về ước lượng, khoảng tin cậy, giá trị P và kiểm định: xác suất được dùng cho cả sự kiện đã xảy ra mà ta chưa biết, và định lý Bayes cho phép cập nhật xác suất đó khi có bằng chứng mới. Chương cũng giải thích lý do Chương 10 nói P = 0,05 chỉ là "bằng chứng yếu". Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) chuyển sang "mặt tối" của thống kê — thiết kế kém, dữ liệu thiên lệch, thực hành khoa học tồi — mà tác giả cho là quan trọng hơn mọi tranh cãi triết học; Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) quay lại thăm dò sau khi bỏ phiếu (exit poll), nơi mô hình Bayes theo từng khu vực bầu cử đã thành công lớn.
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **cách tiếp cận Bayes dùng xác suất để diễn đạt sự thiếu hiểu biết của chính ta về thế giới — kể cả về những điều đã xảy ra nhưng ta chưa biết — và định lý Bayes là cơ chế chính thức để học từ kinh nghiệm: tỷ lệ cược ban đầu (tiên nghiệm) nhân với tỷ số khả năng của bằng chứng cho ra tỷ lệ cược sau cùng (hậu nghiệm); dữ liệu không tự nói lên điều gì, hiểu biết bên ngoài và cả phán đoán của ta luôn đóng vai trò trung tâm, và cách tiếp cận Bayes đưa vai trò đó vào một cách minh bạch, có toán học.** Phần mở đầu thừa nhận nền tảng của suy luận thống kê "hơi lộn xộn": có ba trường phái (Fisher, Neyman–Pearson, Bayes) và chưa lý thuyết thống nhất nào được chấp nhận hoàn toàn. Mục "What Is the Bayesian Approach?" giải thích hai đóng góp của Thomas Bayes (xác suất cho bất định do thiếu hiểu biết, và định lý cập nhật xác suất), rồi minh hoạ bằng bài toán ba đồng xu (thấy mặt ngửa thì xác suất đồng xu hai mặt ngửa là 2/3, không phải ½) và bài toán xét nghiệm doping "chính xác 95%" với 1/50 vận động viên dùng doping (chỉ 19/68 = 28% người dương tính thật sự dùng doping); "cây đảo chiều" chính là việc định lý Bayes làm, nên trước thập niên 1950 cách nghĩ này được gọi là "xác suất ngược". Mục "Odds and Likelihood Ratios" định nghĩa tỷ lệ cược và tỷ số khả năng (doping: 0,95/0,05 = 19) và phát biểu định lý Bayes ở dạng tỷ lệ cược: 1/49 × 19 = 19/49, tức xác suất 28%. Mục "Likelihood Ratios and Forensic Science" áp dụng cho bộ xương tìm thấy dưới bãi đỗ xe ở Leicester năm 2012: với xác suất ban đầu thận trọng 1/400 và tỷ số khả năng kết hợp khoảng 6,5–6,7 triệu, tỷ lệ cược sau cùng khoảng 17.000 ăn 1 rằng đó là vua Richard III; giải thích xác suất trùng khớp ngẫu nhiên trong chứng cứ ADN và việc toà án Anh cho dùng tỷ số khả năng riêng lẻ nhưng cấm nhân chúng với nhau. Khung câu hỏi về Tổng giám mục Canterbury chơi bài poker (thí nghiệm tưởng tượng của Keynes) cho thấy bằng chứng "rất mạnh" (tỷ số khả năng 72.000) vẫn chỉ cho xác suất gian lận khoảng 7% khi tỷ lệ cược ban đầu là 1 ăn 1.000.000. Mục "Bayesian Statistical Inference" mở rộng sang đại lượng chưa biết nhận nhiều giá trị: bàn bi-a của Bayes (2 bi đỏ bên trái, 3 bên phải thì ước lượng vị trí vạch là 3/7, khoảng 95% từ 0,12 tới 0,78), quy tắc "cộng 1 trên, cộng 2 dưới", hiện tượng co về giữa (shrinkage), và tranh cãi chính về nguồn gốc phân phối tiên nghiệm. Khung câu hỏi về thăm dò trước bầu cử giới thiệu mô hình phân cấp và hồi quy đa mức kèm hậu phân tầng (MRP): đoán đúng 50 trong 51 đơn vị bầu cử ở Mỹ năm 2016 chỉ với 9.485 người, và đoán đúng quốc hội treo ở Anh năm 2017. Phần tiếp theo nói về làm mượt Bayes, "bộ não Bayes", xe tự lái, rồi hệ số Bayes cho giả thuyết khoa học: thang Kass–Raftery, P = 0,05 tương ứng hệ số Bayes chỉ 2,4–3,4, và giá trị P của hạt Higgs tương ứng hệ số Bayes tối đa khoảng 80.000. Mục "An Ideological Battle" kể cuộc chiến ba bên trong thập niên 1930 (Bowley gọi khoảng tin cậy là "trò lừa tin cậy"; Fisher đối đầu Neyman và Pearson), sự pha trộn thực dụng ngày nay, và kết luận của tác giả: các nhà thống kê hợp lý thường đi tới kết luận giống nhau; vấn đề thật nằm ở thiết kế kém, dữ liệu thiên lệch, giả định không phù hợp và thực hành khoa học tồi.
+## Ý chính
 
-> **Lưu ý:**
-> - **Tỷ số khả năng kết hợp cho bộ xương Richard III: lời văn ghi 6,7 triệu, bảng ghi 6,5 triệu (mục "Likelihood Ratios and Forensic Science", trang PDF 211–212).** Lời văn viết "an 'extremely strong' value of 6.7 million" và tính "6.7 million / 400 = 16,750", làm tròn thành "khoảng 17.000 ăn 1". Nhưng Table 11.1 và chú thích bảng ghi 6,5 triệu, và người tổng hợp nhân lại sáu tỷ số khả năng trong bảng: 1,8 × 5,3 × 212 × 42 × 478 × 0,16 = 6.496.529 ≈ **6,5 triệu**. Với 6,5 triệu, tỷ lệ cược sau cùng là 6.496.529/400 ≈ **16.240** (hoặc ≈ 16.280 nếu đổi xác suất 1/400 thành tỷ lệ cược chính xác 1/399), tức "khoảng 16.000 ăn 1" chứ không phải 17.000. Con số 167.000 ăn 1 của nhóm nghiên cứu (xác suất ban đầu 1/40) lại khớp với 6,5 triệu: tỷ lệ cược ban đầu 1/39 nhân 6.496.529 ≈ 166.600 ≈ 167.000, xác suất 0,999994. Ngoài ra lời văn gọi giá trị kết hợp là "extremely strong", trong khi bảng ghi "more than extremely strong" (vì thang lời của Table 11.2 dừng ở 1.000.000). Lời văn còn viết "Table 11–1" thay vì "Table 11.1". Kết luận không đổi.
-> - **Bài toán đinh ghim bị đảo chiều (mục "Bayesian Statistical Inference", trang PDF 214).** Sách hỏi xác suất đinh ghim rơi **mũi xuống (point-down)** lần tới, khi 20 lần tung có 15 lần mũi lên và 5 lần mũi xuống, rồi trả lời "15/20 = 75%" và theo cách của Bayes "16/22 = 73%". Hai con số này là xác suất **mũi lên**. Với câu hỏi mũi xuống, đáp án đúng là 5/20 = 25% và theo quy tắc của Bayes (5 + 1)/(20 + 2) = 6/22 ≈ 27%. Nhận xét của người tổng hợp; bản tổng hợp ghi cả hai.
-> - **Xác suất ra thùng phá sảnh lớn (royal flush) trong ví dụ Tổng giám mục (trang PDF 213) bị nhầm (nhận xét của người tổng hợp; đã đối chiếu nguyên văn: sách viết "royal flush").** Sách nói mẫu số "có thể tính được là 1/72.000". Theo tính toán của người tổng hợp, xác suất chia được một thùng phá sảnh lớn (10-J-Q-K-A cùng chất) trong 5 lá là 4/C(52,5) = 4/2.598.960 = 1/649.740; con số 1/72.000 khớp với xác suất ra **sảnh đồng chất không phải loại lớn nhất** (straight flush), 36/2.598.960 ≈ 1/72.193. Nếu dùng 1/649.740, tỷ số khả năng là khoảng 650.000 ("cực mạnh" theo Table 11.2), tỷ lệ cược sau cùng khoảng 0,65 và xác suất gian lận khoảng 39%, không phải 7%. Bài học của ví dụ (phải tính tới tỷ lệ cược ban đầu) không đổi, nhưng con số cụ thể nhạy với giả định này.
-> - **Câu chữ gây nhầm trong ví dụ doping (trang PDF 206):** sách viết "49 non-dopers also have positive tests (95% of 980 = 931)". Con số 49 là 5% của 980; con số 931 trong ngoặc là số người không dùng doping có kết quả âm tính đúng. Cây tần số (Figure 11.2) ghi đúng cả hai.
-> - **"50 of 51 states and the District of Columbia" (trang PDF 217):** nước Mỹ có 50 bang; cộng Đặc khu Columbia là 51 đơn vị bầu cử. Ý đúng là mô hình MRP đoán đúng người thắng ở 50 trong 51 đơn vị (50 bang và Đặc khu Columbia), chỉ sai ở Michigan.
-> - **Thang tỷ lệ cược kiểu Anh (trang PDF 209):** sách nói tỷ lệ cược 1/5 thường gọi là "1 to 5 on" hoặc "5 to 1 against". Cách nói "5 ăn 1 ngược" (5 to 1 against) là chuẩn; cách nói "1 to 5 on" về hình thức tương đương nhưng theo hiểu biết của người tổng hợp hiếm dùng, vì "on" (odds-on) thường dành cho biến cố có khả năng xảy ra hơn không.
-> - **Chú thích cuối chương bị lỗi trong ebook:** chú thích 4 (công thức của phân phối hậu nghiệm tổng quát) mất phần công thức trong lớp chữ; người tổng hợp viết lại theo dạng chuẩn, và kiểm tra hằng số 60 trong 60p²(1 − p)³: 6!/(2! × 3!) = 720/12 = 60, khớp. Chú thích 7 (sách *AIQ* của Polson và Scott) ghi "p. 000" — số trang chưa được điền khi in.
-> - **Các phép tính đã tự kiểm tra và khớp:** ba đồng xu 2/3; doping 1.000 × 1/50 = 20, 95% × 20 = 19, 5% × 980 = 49, 19/68 = 27,9% ≈ 28%, nhánh âm tính 1/932 ≈ 0,1%; tỷ lệ cược mặt ngửa ½ ÷ ½ = 1, mặt sáu 1/6 ÷ 5/6 = 1/5; tỷ số khả năng doping 0,95/0,05 = 19; 1/49 × 19 = 19/49, 19/(19 + 49) = 19/68; Richard III 1/2 × 1/2 × 1/100 = 1/400, 1485 + 527 = 2012; Tổng giám mục 72.000/1.000.000 = 0,072, xác suất 0,072/1,072 ≈ 6,7% (sách viết 7/107 ≈ 6,5%, làm tròn 7%); bàn bi-a (2 + 1)/(5 + 2) = 3/7 ≈ 0,43, (0 + 1)/(0 + 2) = ½, (0 + 1)/(5 + 2) = 1/7; khoảng 95% của phân phối Beta(3, 4) từ 0,12 tới 0,78 (người tổng hợp tính tay: xác suất dưới 0,12 khoảng 2,6%, trên 0,78 khoảng 2,4%, tổng khoảng 5%); Higgs: hệ số Bayes 80.000 với tỷ lệ cược ban đầu 1 cho xác suất 80.000/80.001 ≈ 0,99999. Theo hiểu biết của người tổng hợp, các con số "P = 0,05 tương ứng hệ số Bayes 2,4–3,4" và "P = 1/3.500.000 tương ứng hệ số Bayes tối đa khoảng 80.000" khớp với cận trên 1/(−e × P × ln P) thường dùng: với P = 0,05 được khoảng 2,46; với P = 1/3.500.000 được khoảng 85.000.
-> - **Hình và bảng:** Figure 11.1, 11.2, 11.3 là cây tần số có ghi số, được chép đủ. Figure 11.4 là sơ đồ và đường cong không ghi số; vị trí các viên bi và hình dạng đường cong trong bản tổng hợp là **ước lượng** của người tổng hợp đọc từ hình (vạch trắng ở khoảng 0,37 chiều dài bàn; đỉnh đường cong ở khoảng 0,4, khớp với đỉnh lý thuyết 2/5 của phân phối Beta(3, 4)). Table 11.1, 11.2, 11.3 là ảnh trong ebook; số liệu được chép từ ảnh trang và từ chú thích dấu sao, khớp nhau.
-> - **Chú thích dấu sao:** danh sách chú thích dấu sao đi kèm bundle của chương này bị lệch (là chú thích của Chương 5, 6, 7 và 9). Người tổng hợp đã đối chiếu `footnotes-all.txt` và xác định 7 chú thích chữ của chương (về cái chết của Bayes và bài báo công bố năm 1763; "có người còn nói tôi đã bị nhồi sọ"; tỷ lệ cược bằng 1 gọi là "evens"; nguyên văn câu hỏi của Bayes; "là mục sư Trưởng lão, ông chỉ gọi nó là cái bàn"; nghĩa đúng của khoảng tin cậy 95%; "nhưng tôi vẫn thích cách tiếp cận Bayes hơn") cùng 3 bảng (Table 11.1–11.3). Nội dung các chú thích được đưa vào đúng chỗ trong phần Nội dung chi tiết.
-> - **Một chi tiết nhỏ:** sách gọi Bayes là "Nonconformist minister" ở phần mở đầu và "Presbyterian minister" ở chú thích; hai cách gọi không mâu thuẫn (giáo hội Trưởng lão là một nhánh "không theo quốc giáo" ở Anh). Sách viết "War of the Roses"; tên thường dùng là "Wars of the Roses" (Chiến tranh Hoa Hồng).
+Spiegelhalter muốn người đọc hiểu rằng **cách tiếp cận Bayes dùng xác suất để diễn đạt sự thiếu hiểu biết của chính ta về thế giới — kể cả về những điều đã xảy ra nhưng ta chưa biết — và định lý Bayes là cơ chế chính thức để học từ kinh nghiệm: tỷ lệ cược ban đầu (tiên nghiệm) nhân với tỷ số khả năng của bằng chứng cho ra tỷ lệ cược sau cùng (hậu nghiệm); dữ liệu không tự nói lên điều gì, hiểu biết bên ngoài và cả phán đoán của ta luôn đóng vai trò trung tâm, và cách tiếp cận Bayes đưa vai trò đó vào một cách minh bạch, có toán học.**
+
+Phần mở đầu thừa nhận nền tảng của suy luận thống kê "hơi lộn xộn": có ba trường phái (Fisher, Neyman–Pearson, Bayes) và chưa lý thuyết thống nhất nào được chấp nhận hoàn toàn.
+
+Mục "What Is the Bayesian Approach?" giải thích hai đóng góp của Thomas Bayes (xác suất cho bất định do thiếu hiểu biết, và định lý cập nhật xác suất), rồi minh hoạ bằng bài toán ba đồng xu (thấy mặt ngửa thì xác suất đồng xu hai mặt ngửa là 2/3, không phải ½) và bài toán xét nghiệm doping "chính xác 95%" với 1/50 vận động viên dùng doping (chỉ 19/68 = 28% người dương tính thật sự dùng doping); "cây đảo chiều" chính là việc định lý Bayes làm, nên trước thập niên 1950 cách nghĩ này được gọi là "xác suất ngược".
+
+Mục "Odds and Likelihood Ratios" định nghĩa tỷ lệ cược và tỷ số khả năng (doping: 0,95/0,05 = 19) và phát biểu định lý Bayes ở dạng tỷ lệ cược: 1/49 × 19 = 19/49, tức xác suất 28%.
+
+Mục "Likelihood Ratios and Forensic Science" áp dụng cho bộ xương tìm thấy dưới bãi đỗ xe ở Leicester năm 2012: với xác suất ban đầu thận trọng 1/400 và tỷ số khả năng kết hợp khoảng 6,5–6,7 triệu, tỷ lệ cược sau cùng khoảng 17.000 ăn 1 rằng đó là vua Richard III; giải thích xác suất trùng khớp ngẫu nhiên trong chứng cứ ADN và việc toà án Anh cho dùng tỷ số khả năng riêng lẻ nhưng cấm nhân chúng với nhau.
+
+Khung câu hỏi về Tổng giám mục Canterbury chơi bài poker (thí nghiệm tưởng tượng của Keynes) cho thấy bằng chứng "rất mạnh" (tỷ số khả năng 72.000) vẫn chỉ cho xác suất gian lận khoảng 7% khi tỷ lệ cược ban đầu là 1 ăn 1.000.000.
+
+Mục "Bayesian Statistical Inference" mở rộng sang đại lượng chưa biết nhận nhiều giá trị: bàn bi-a của Bayes (2 bi đỏ bên trái, 3 bên phải thì ước lượng vị trí vạch là 3/7, khoảng 95% từ 0,12 tới 0,78), quy tắc "cộng 1 trên, cộng 2 dưới", hiện tượng co về giữa (shrinkage), và tranh cãi chính về nguồn gốc phân phối tiên nghiệm.
+
+Khung câu hỏi về thăm dò trước bầu cử giới thiệu mô hình phân cấp và hồi quy đa mức kèm hậu phân tầng (MRP): đoán đúng 50 trong 51 đơn vị bầu cử ở Mỹ năm 2016 chỉ với 9.485 người, và đoán đúng quốc hội treo ở Anh năm 2017. Phần tiếp theo nói về làm mượt Bayes, "bộ não Bayes", xe tự lái, rồi hệ số Bayes cho giả thuyết khoa học: thang Kass–Raftery, P = 0,05 tương ứng hệ số Bayes chỉ 2,4–3,4, và giá trị P của hạt Higgs tương ứng hệ số Bayes tối đa khoảng 80.000.
+
+Mục "An Ideological Battle" kể cuộc chiến ba bên trong thập niên 1930 (Bowley gọi khoảng tin cậy là "trò lừa tin cậy"; Fisher đối đầu Neyman và Pearson), sự pha trộn thực dụng ngày nay, và kết luận của tác giả: các nhà thống kê hợp lý thường đi tới kết luận giống nhau; vấn đề thật nằm ở thiết kế kém, dữ liệu thiên lệch, giả định không phù hợp và thực hành khoa học tồi.
 
 ## Sơ đồ
 
@@ -400,13 +402,17 @@ Tin tốt là cách tiếp cận Bayes mở ra những khả năng mới để k
 
 Đóng góp lớn đầu tiên của Thomas Bayes là dùng xác suất để diễn đạt sự thiếu hiểu biết của ta về thế giới, hay nói cách khác, sự không biết của ta về điều đang diễn ra. Ông chỉ ra rằng xác suất có thể dùng không chỉ cho các sự kiện tương lai chịu sự may rủi — **bất định ngẫu nhiên (aleatory uncertainty)**, theo thuật ngữ ở Chương 8 — mà cả cho các sự kiện đã là sự thật, thậm chí có người khác biết, nhưng ta không được biết — gọi là **bất định do thiếu hiểu biết (epistemic uncertainty)**.
 
-Nghĩ một chút sẽ thấy ta bị bao quanh bởi bất định do thiếu hiểu biết về những điều cố định nhưng chưa biết: người đánh bạc cược vào lá bài sắp được chia; ta mua vé số cào; ta bàn về giới tính có thể của em bé sắp sinh; ta đau đầu với truyện trinh thám "ai là hung thủ"; ta tranh luận về số hổ còn lại trong tự nhiên; ta được nghe các ước tính về số người di cư hay số người thất nghiệp. Tất cả là sự thật hay con số có ở ngoài kia, chỉ là ta không biết chúng là gì. Từ góc nhìn Bayes, hoàn toàn ổn khi dùng xác suất để biểu diễn sự không biết của cá nhân ta về những sự thật và con số này. Ta thậm chí có thể nghĩ tới việc gán xác suất cho các lý thuyết khoa học cạnh tranh, nhưng điều này gây tranh cãi hơn.
+Nghĩ một chút sẽ thấy ta bị bao quanh bởi bất định do thiếu hiểu biết về những điều cố định nhưng chưa biết: người đánh bạc cược vào lá bài sắp được chia; ta mua vé số cào; ta bàn về giới tính có thể của em bé sắp sinh; ta đau đầu với truyện trinh thám "ai là hung thủ"; ta tranh luận về số hổ còn lại trong tự nhiên; ta được nghe các ước tính về số người di cư hay số người thất nghiệp. Tất cả là sự thật hay con số có ở ngoài kia, chỉ là ta không biết chúng là gì.
+
+Từ góc nhìn Bayes, hoàn toàn ổn khi dùng xác suất để biểu diễn sự không biết của cá nhân ta về những sự thật và con số này. Ta thậm chí có thể nghĩ tới việc gán xác suất cho các lý thuyết khoa học cạnh tranh, nhưng điều này gây tranh cãi hơn.
 
 Các xác suất này dĩ nhiên phụ thuộc hiểu biết hiện tại của ta. Như Chương 8 đã nói, xác suất ta gán cho việc một đồng xu đã ra ngửa hay sấp phụ thuộc vào việc ta đã nhìn nó hay chưa. Vì vậy, xác suất Bayes nhất thiết là **chủ quan**: chúng phụ thuộc quan hệ của ta với thế giới bên ngoài, không phải thuộc tính của chính thế giới, và chúng phải thay đổi khi ta nhận được thông tin mới.
 
 #### Đóng góp thứ hai: định lý Bayes
 
-Điều đó dẫn tới đóng góp then chốt thứ hai: một kết quả trong lý thuyết xác suất cho phép liên tục sửa xác suất hiện tại dựa trên bằng chứng mới. Kết quả này được gọi là **định lý Bayes (Bayes' theorem)**, và về cơ bản nó cung cấp một cơ chế hình thức để học từ kinh nghiệm — một thành tựu phi thường của một giáo sĩ vô danh ở một thị trấn suối khoáng nhỏ của Anh. Di sản của Bayes là nhận thức nền tảng rằng **dữ liệu không tự nói lên điều gì — hiểu biết bên ngoài, và cả phán đoán của ta, có vai trò trung tâm**. Điều này có vẻ không hợp với quá trình khoa học, nhưng thật ra hiểu biết nền luôn là một yếu tố của việc học từ dữ liệu; điểm khác là trong cách tiếp cận Bayes nó được xử lý một cách hình thức, bằng toán học.
+Điều đó dẫn tới đóng góp then chốt thứ hai: một kết quả trong lý thuyết xác suất cho phép liên tục sửa xác suất hiện tại dựa trên bằng chứng mới. Kết quả này được gọi là **định lý Bayes (Bayes' theorem)**, và về cơ bản nó cung cấp một cơ chế hình thức để học từ kinh nghiệm — một thành tựu phi thường của một giáo sĩ vô danh ở một thị trấn suối khoáng nhỏ của Anh.
+
+Di sản của Bayes là nhận thức nền tảng rằng **dữ liệu không tự nói lên điều gì — hiểu biết bên ngoài, và cả phán đoán của ta, có vai trò trung tâm**. Điều này có vẻ không hợp với quá trình khoa học, nhưng thật ra hiểu biết nền luôn là một yếu tố của việc học từ dữ liệu; điểm khác là trong cách tiếp cận Bayes nó được xử lý một cách hình thức, bằng toán học.
 
 Hệ quả của công trình Bayes bị tranh cãi sâu sắc; nhiều nhà thống kê và triết gia phản đối ý tưởng rằng phán đoán chủ quan có bất kỳ vai trò nào trong khoa học thống kê. Vì vậy tác giả nói rõ lập trường cá nhân: ông được đưa vào trường phái lập luận thống kê Bayes "chủ quan" ngay đầu sự nghiệp (chú thích của tác giả: "Có người còn nói tôi đã bị nhồi sọ"), và với ông nó vẫn là cách tiếp cận thoả đáng nhất.
 
@@ -456,7 +462,9 @@ Loại bài toán có thể khó này một lần nữa được giải tốt nh
                                        └── Âm tính ─────► 931
 ```
 
-Cây bắt đầu với 1.000 vận động viên, trong đó 20 người dùng doping (1/50 của 1.000) và 980 người không dùng. Gần như tất cả người dùng doping bị phát hiện (95% của 20 là 19, chỉ 1 người lọt), nhưng 49 người không dùng doping cũng có kết quả dương tính (5% của 980 là 49; 931 người còn lại có kết quả âm tính đúng). Vậy tổng cộng dự kiến có 19 + 49 = 68 kết quả dương tính, trong đó chỉ 19 người thật sự dùng doping. Nếu một người có kết quả dương tính, khả năng người đó thật sự dùng doping chỉ là 19/68 = 28%; **72% kết quả dương tính còn lại là buộc tội oan**. Dù xét nghiệm có thể được quảng cáo là "chính xác 95%", đa số người có kết quả dương tính thật ra vô tội. Không cần nhiều trí tưởng tượng để thấy nghịch lý bề ngoài này có thể gây hậu quả gì trong đời thực, khi vận động viên bị kết án một cách hời hợt chỉ vì trượt một lần xét nghiệm.
+Cây bắt đầu với 1.000 vận động viên, trong đó 20 người dùng doping (1/50 của 1.000) và 980 người không dùng. Gần như tất cả người dùng doping bị phát hiện (95% của 20 là 19, chỉ 1 người lọt), nhưng 49 người không dùng doping cũng có kết quả dương tính (5% của 980 là 49; 931 người còn lại có kết quả âm tính đúng). Vậy tổng cộng dự kiến có 19 + 49 = 68 kết quả dương tính, trong đó chỉ 19 người thật sự dùng doping.
+
+Nếu một người có kết quả dương tính, khả năng người đó thật sự dùng doping chỉ là 19/68 = 28%; **72% kết quả dương tính còn lại là buộc tội oan**. Dù xét nghiệm có thể được quảng cáo là "chính xác 95%", đa số người có kết quả dương tính thật ra vô tội. Không cần nhiều trí tưởng tượng để thấy nghịch lý bề ngoài này có thể gây hậu quả gì trong đời thực, khi vận động viên bị kết án một cách hời hợt chỉ vì trượt một lần xét nghiệm.
 
 #### Cây đảo chiều
 
@@ -567,7 +575,9 @@ Giá trị chứng cứ của mỗi bằng chứng được tóm tắt bằng t�
 | Nhiễm sắc thể Y không khớp | 0,16 | Bằng chứng chống lại yếu |
 | Bằng chứng kết hợp | 6,5 triệu | Ủng hộ hơn cả cực mạnh |
 
-Bảng cho thấy không bằng chứng nào riêng lẻ thật sự thuyết phục, và các nhà nghiên cứu đã thận trọng, cố ý nghiêng về các tỷ số khả năng thấp hơn, không thiên vị giả thuyết bộ xương là Richard III. Với nhiễm sắc thể Y, tỷ số 0,16 nhỏ hơn 1 nghĩa là bằng chứng này nghiêng về giả thuyết "không phải Richard" (gấp khoảng 1/0,16 ≈ 6 lần), nhưng yếu. Nếu giả định các phát hiện pháp y độc lập với nhau, ta được phép nhân các tỷ số khả năng để có đánh giá tổng thể về sức nặng của bằng chứng kết hợp. Người tổng hợp nhân lại: 1,8 × 5,3 = 9,54; × 212 = 2.022; × 42 = 84.944; × 478 = 40.603.000; × 0,16 ≈ **6.496.000**, tức khoảng 6,5 triệu như bảng ghi. (Lời văn của sách ghi "6,7 triệu", xem khối Lưu ý.)
+Bảng cho thấy không bằng chứng nào riêng lẻ thật sự thuyết phục, và các nhà nghiên cứu đã thận trọng, cố ý nghiêng về các tỷ số khả năng thấp hơn, không thiên vị giả thuyết bộ xương là Richard III. Với nhiễm sắc thể Y, tỷ số 0,16 nhỏ hơn 1 nghĩa là bằng chứng này nghiêng về giả thuyết "không phải Richard" (gấp khoảng 1/0,16 ≈ 6 lần), nhưng yếu.
+
+Nếu giả định các phát hiện pháp y độc lập với nhau, ta được phép nhân các tỷ số khả năng để có đánh giá tổng thể về sức nặng của bằng chứng kết hợp. Người tổng hợp nhân lại: 1,8 × 5,3 = 9,54; × 212 = 2.022; × 42 = 84.944; × 478 = 40.603.000; × 0,16 ≈ **6.496.000**, tức khoảng 6,5 triệu như bảng ghi. (Lời văn của sách ghi "6,7 triệu", xem mục Lưu ý cuối chương.)
 
 Các thuật ngữ bằng lời trong bảng lấy từ thang được khuyến nghị dùng ở toà án (theo hướng dẫn của Mạng lưới các Viện Khoa học Pháp y châu Âu, ENFSI, năm 2016, nêu trong chú thích cuối chương):
 
@@ -604,7 +614,7 @@ Tỷ số khả năng cho sự kiện này là:
 
 > tỷ số khả năng = xác suất ra thùng phá sảnh nếu Tổng giám mục gian lận ÷ xác suất ra thùng phá sảnh nếu Tổng giám mục chỉ gặp may
 
-Ta có thể giả định tử số bằng 1 (gian lận thì chắc chắn chia được), còn mẫu số theo sách tính được là 1/72.000, nên tỷ số khả năng là 72.000. Theo thang ở bảng diễn giải tỷ số khả năng dùng ở toà (10.000–100.000 là "rất mạnh"), đây là bằng chứng **rất mạnh** rằng Tổng giám mục gian lận. (Người tổng hợp lưu ý: xác suất chia được thùng phá sảnh lớn trong 5 lá là 4/2.598.960 = 1/649.740; con số 1/72.000 khớp với xác suất sảnh đồng chất thường. Xem khối Lưu ý.)
+Ta có thể giả định tử số bằng 1 (gian lận thì chắc chắn chia được), còn mẫu số theo sách tính được là 1/72.000, nên tỷ số khả năng là 72.000. Theo thang ở bảng diễn giải tỷ số khả năng dùng ở toà (10.000–100.000 là "rất mạnh"), đây là bằng chứng **rất mạnh** rằng Tổng giám mục gian lận. (Người tổng hợp lưu ý: xác suất chia được thùng phá sảnh lớn trong 5 lá là 4/2.598.960 = 1/649.740; con số 1/72.000 khớp với xác suất sảnh đồng chất thường. Xem mục Lưu ý cuối chương.)
 
 Nhưng có nên kết luận ông thật sự gian lận? Định lý Bayes bảo tỷ lệ cược sau cùng phải dựa trên tích của tỷ số khả năng này với tỷ lệ cược ban đầu. Có vẻ hợp lý khi giả định rằng, ít nhất trước khi bắt đầu chơi, ta đặt tỷ lệ cược rất thấp cho việc Tổng giám mục gian lận, có lẽ 1 ăn 1.000.000, vì ông được cho là một người tu hành đáng kính. Khi đó:
 
@@ -652,7 +662,9 @@ Giá trị 3/7 có vẻ lạ, vì ước lượng trực giác có lẽ là 2/5 
 
 > (số bi đỏ nằm bên trái + 1) ÷ (tổng số bi đỏ + 2)
 
-Với ví dụ: (2 + 1)/(5 + 2) = 3/7. Điều này có nghĩa là trước khi ném bất kỳ bi đỏ nào, ta đã có thể ước lượng vị trí là (0 + 1)/(0 + 2) = ½, trong khi cách trực giác có lẽ cho rằng không thể trả lời vì chưa có dữ liệu. Về bản chất, Bayes dùng thông tin về cách vị trí vạch được quyết định ban đầu: ta biết nó được chọn ngẫu nhiên bằng cách ném bi trắng. Thông tin ban đầu này đóng vai trò giống như tỷ lệ mắc bệnh trong sàng lọc ung thư vú hay tỷ lệ dùng doping trong xét nghiệm doping — nó được gọi là **thông tin tiên nghiệm (prior information)** và ảnh hưởng tới kết luận cuối cùng. Thật ra, vì công thức của Bayes cộng 1 vào số bi bên trái và cộng 2 vào tổng số bi, ta có thể coi nó tương đương với việc đã ném trước hai viên bi đỏ "tưởng tượng", mỗi bên vạch một viên.
+Với ví dụ: (2 + 1)/(5 + 2) = 3/7. Điều này có nghĩa là trước khi ném bất kỳ bi đỏ nào, ta đã có thể ước lượng vị trí là (0 + 1)/(0 + 2) = ½, trong khi cách trực giác có lẽ cho rằng không thể trả lời vì chưa có dữ liệu. Về bản chất, Bayes dùng thông tin về cách vị trí vạch được quyết định ban đầu: ta biết nó được chọn ngẫu nhiên bằng cách ném bi trắng.
+
+Thông tin ban đầu này đóng vai trò giống như tỷ lệ mắc bệnh trong sàng lọc ung thư vú hay tỷ lệ dùng doping trong xét nghiệm doping — nó được gọi là **thông tin tiên nghiệm (prior information)** và ảnh hưởng tới kết luận cuối cùng. Thật ra, vì công thức của Bayes cộng 1 vào số bi bên trái và cộng 2 vào tổng số bi, ta có thể coi nó tương đương với việc đã ném trước hai viên bi đỏ "tưởng tượng", mỗi bên vạch một viên.
 
 #### Co về giữa
 
@@ -670,7 +682,9 @@ Nếu không viên nào trong năm viên rơi bên trái vạch, ta sẽ không 
 
 #### Tiên nghiệm, hàm khả năng, hậu nghiệm
 
-Phân tích Bayes dùng hiểu biết về cách vạch nét đứt được quyết định để lập một **phân phối tiên nghiệm (prior distribution)** cho vị trí của nó, kết hợp với bằng chứng từ dữ liệu, gọi là **hàm khả năng (likelihood)**, để cho kết luận cuối cùng gọi là **phân phối hậu nghiệm (posterior distribution)**, diễn đạt tất cả những gì ta hiện tin về đại lượng chưa biết. Ví dụ, phần mềm máy tính có thể tính được rằng khoảng từ **0,12 tới 0,78** chứa 95% xác suất của phân phối hậu nghiệm Beta(3, 4) nói trên, nên ta có thể khẳng định với 95% chắc chắn rằng vạch đánh dấu bi trắng nằm giữa hai giới hạn này. Khoảng này sẽ hẹp dần khi ngày càng nhiều bi đỏ được ném lên bàn và vị trí của chúng so với vạch được thông báo, cho tới khi cuối cùng ta hội tụ về đáp án đúng.
+Phân tích Bayes dùng hiểu biết về cách vạch nét đứt được quyết định để lập một **phân phối tiên nghiệm (prior distribution)** cho vị trí của nó, kết hợp với bằng chứng từ dữ liệu, gọi là **hàm khả năng (likelihood)**, để cho kết luận cuối cùng gọi là **phân phối hậu nghiệm (posterior distribution)**, diễn đạt tất cả những gì ta hiện tin về đại lượng chưa biết.
+
+Ví dụ, phần mềm máy tính có thể tính được rằng khoảng từ **0,12 tới 0,78** chứa 95% xác suất của phân phối hậu nghiệm Beta(3, 4) nói trên, nên ta có thể khẳng định với 95% chắc chắn rằng vạch đánh dấu bi trắng nằm giữa hai giới hạn này. Khoảng này sẽ hẹp dần khi ngày càng nhiều bi đỏ được ném lên bàn và vị trí của chúng so với vạch được thông báo, cho tới khi cuối cùng ta hội tụ về đáp án đúng.
 
 #### Tranh cãi chính: tiên nghiệm lấy từ đâu?
 
@@ -714,13 +728,17 @@ Các thăm dò theo phương pháp truyền thống thì thất bại thảm h�
 
 "Làm mượt" (smoothing) kiểu Bayes có thể đem lại độ chính xác cho dữ liệu rất thưa, và các kỹ thuật này ngày càng được dùng, chẳng hạn để mô hình hoá cách bệnh lan truyền theo không gian và thời gian.
 
-Học Bayes nay cũng được coi là một quá trình nền tảng của nhận thức con người về môi trường: ta có kỳ vọng ban đầu về điều sẽ thấy trong mỗi bối cảnh, và chỉ cần để ý những đặc điểm bất ngờ trong thị giác, rồi dùng chúng để cập nhật nhận thức hiện tại. Đây là ý tưởng đằng sau cái gọi là **bộ não Bayes (Bayesian Brain)** (chú thích cuối chương dẫn K. Friston, *Neuroimage*, 2012). Cùng các quy trình học đó đã được cài vào xe tự lái, vốn có một "bản đồ tinh thần" xác suất về môi trường xung quanh, liên tục được cập nhật khi nhận ra đèn giao thông, người đi bộ, xe khác, v.v. Sách trích Polson và Scott (*AIQ*, 2018): "Về bản chất, một chiếc xe robot 'nghĩ' về bản thân như một đốm xác suất, đang chạy trên một con đường Bayes."
+Học Bayes nay cũng được coi là một quá trình nền tảng của nhận thức con người về môi trường: ta có kỳ vọng ban đầu về điều sẽ thấy trong mỗi bối cảnh, và chỉ cần để ý những đặc điểm bất ngờ trong thị giác, rồi dùng chúng để cập nhật nhận thức hiện tại. Đây là ý tưởng đằng sau cái gọi là **bộ não Bayes (Bayesian Brain)** (chú thích cuối chương dẫn K. Friston, *Neuroimage*, 2012).
+
+Cùng các quy trình học đó đã được cài vào xe tự lái, vốn có một "bản đồ tinh thần" xác suất về môi trường xung quanh, liên tục được cập nhật khi nhận ra đèn giao thông, người đi bộ, xe khác, v.v. Sách trích Polson và Scott (*AIQ*, 2018): "Về bản chất, một chiếc xe robot 'nghĩ' về bản thân như một đốm xác suất, đang chạy trên một con đường Bayes."
 
 #### Hệ số Bayes cho giả thuyết khoa học
 
 Các bài toán trên là ước lượng những đại lượng mô tả thế giới; dùng phương pháp Bayes để đánh giá giả thuyết khoa học thì vẫn gây tranh cãi hơn. Giống kiểm định Neyman–Pearson, trước hết cần đặt hai giả thuyết cạnh tranh: giả thuyết không H0, thường là sự vắng mặt của một điều gì đó (không có hạt Higgs, một phương pháp điều trị không có tác dụng), và giả thuyết đối H1, nói rằng có một điều quan trọng tồn tại.
 
-Ý tưởng của kiểm định giả thuyết theo Bayes về cơ bản giống các vụ án: giả thuyết không thường là vô tội, giả thuyết đối là có tội, và mức ủng hộ tương đối mà một bằng chứng dành cho hai giả thuyết được diễn đạt bằng tỷ số khả năng. Với kiểm định giả thuyết khoa học, đại lượng tương đương chính xác của tỷ số khả năng là **hệ số Bayes (Bayes factor)**, với khác biệt là giả thuyết khoa học thường chứa tham số chưa biết, chẳng hạn hiệu ứng thật dưới giả thuyết đối. Hệ số Bayes chỉ có được bằng cách lấy trung bình theo phân phối tiên nghiệm của các tham số chưa biết, điều này khiến phân phối tiên nghiệm — phần gây tranh cãi nhất của phân tích Bayes — trở nên cực kỳ quan trọng. (Theo bảng thuật ngữ của sách, với giả thuyết H0, H1 và dữ liệu x, hệ số Bayes là p(x | H0)/p(x | H1), tức đặt H0 ở tử số; trong chương, hệ số Bayes được nói theo chiều ủng hộ giả thuyết đang xét.) Vì vậy các nỗ lực thay kiểm định ý nghĩa thông thường bằng hệ số Bayes, đặc biệt trong tâm lý học, là nguồn tranh cãi lớn; giới phê bình chỉ ra rằng sau mỗi hệ số Bayes luôn ẩn giấu các phân phối tiên nghiệm giả định cho mọi tham số chưa biết, ở cả giả thuyết không lẫn giả thuyết đối.
+Ý tưởng của kiểm định giả thuyết theo Bayes về cơ bản giống các vụ án: giả thuyết không thường là vô tội, giả thuyết đối là có tội, và mức ủng hộ tương đối mà một bằng chứng dành cho hai giả thuyết được diễn đạt bằng tỷ số khả năng. Với kiểm định giả thuyết khoa học, đại lượng tương đương chính xác của tỷ số khả năng là **hệ số Bayes (Bayes factor)**, với khác biệt là giả thuyết khoa học thường chứa tham số chưa biết, chẳng hạn hiệu ứng thật dưới giả thuyết đối. Hệ số Bayes chỉ có được bằng cách lấy trung bình theo phân phối tiên nghiệm của các tham số chưa biết, điều này khiến phân phối tiên nghiệm — phần gây tranh cãi nhất của phân tích Bayes — trở nên cực kỳ quan trọng. (Theo bảng thuật ngữ của sách, với giả thuyết H0, H1 và dữ liệu x, hệ số Bayes là p(x | H0)/p(x | H1), tức đặt H0 ở tử số; trong chương, hệ số Bayes được nói theo chiều ủng hộ giả thuyết đang xét.)
+
+Vì vậy các nỗ lực thay kiểm định ý nghĩa thông thường bằng hệ số Bayes, đặc biệt trong tâm lý học, là nguồn tranh cãi lớn; giới phê bình chỉ ra rằng sau mỗi hệ số Bayes luôn ẩn giấu các phân phối tiên nghiệm giả định cho mọi tham số chưa biết, ở cả giả thuyết không lẫn giả thuyết đối.
 
 Robert Kass và Adrian Raftery, hai nhà thống kê Bayes nổi tiếng, đề xuất một thang diễn giải hệ số Bayes được dùng rộng rãi (chú thích cuối chương dẫn Kass và Raftery, *Journal of the American Statistical Association*, 1995):
 
@@ -780,7 +798,9 @@ Fisher trước tiên buộc tội Neyman "rơi vào một loạt hiểu lầm m
 
 #### Sự pha trộn thực dụng
 
-Cuộc đấu tranh giành ưu thế ý thức hệ thống kê tiếp tục sau Thế chiến thứ hai, nhưng theo thời gian các trường phái tiêu chuẩn, không theo Bayes, đã hoà vào một hỗn hợp thực dụng: thí nghiệm thường được **thiết kế** theo cách tiếp cận Neyman–Pearson với sai lầm loại I và loại II, nhưng rồi được **phân tích** theo góc nhìn của Fisher, dùng giá trị P làm thước đo bằng chứng. Như đã thấy trong bối cảnh thử nghiệm lâm sàng, sự pha trộn kỳ lạ này có vẻ vận hành khá tốt, khiến nhà thống kê (theo trường phái Bayes) nổi tiếng Jerome Cornfield nhận xét: "nghịch lý là một cấu trúc vững chắc có giá trị lâu dài vẫn đã hình thành, chỉ thiếu mỗi nền móng logic vững chắc mà ban đầu người ta tưởng nó được xây trên đó." (Chú thích cuối chương dẫn Cornfield, *American Statistician*, 1966.)
+Cuộc đấu tranh giành ưu thế ý thức hệ thống kê tiếp tục sau Thế chiến thứ hai, nhưng theo thời gian các trường phái tiêu chuẩn, không theo Bayes, đã hoà vào một hỗn hợp thực dụng: thí nghiệm thường được **thiết kế** theo cách tiếp cận Neyman–Pearson với sai lầm loại I và loại II, nhưng rồi được **phân tích** theo góc nhìn của Fisher, dùng giá trị P làm thước đo bằng chứng.
+
+Như đã thấy trong bối cảnh thử nghiệm lâm sàng, sự pha trộn kỳ lạ này có vẻ vận hành khá tốt, khiến nhà thống kê (theo trường phái Bayes) nổi tiếng Jerome Cornfield nhận xét: "nghịch lý là một cấu trúc vững chắc có giá trị lâu dài vẫn đã hình thành, chỉ thiếu mỗi nền móng logic vững chắc mà ban đầu người ta tưởng nó được xây trên đó." (Chú thích cuối chương dẫn Cornfield, *American Statistician*, 1966.)
 
 #### Ưu thế được nêu của mỗi bên
 
@@ -857,7 +877,11 @@ Xác suất có thể và nên được dùng để diễn đạt sự thiếu h
 
 ### Trong ngôn ngữ thống kê
 
-Định lý Bayes cho hai giả thuyết A, B và bằng chứng E: P(A | E)/P(B | E) = [P(E | A)/P(E | B)] × [P(A)/P(B)], tức tỷ lệ cược hậu nghiệm bằng tỷ số khả năng nhân tỷ lệ cược tiên nghiệm; với các bằng chứng độc lập có điều kiện E1, …, Ek, tỷ số khả năng kết hợp là tích các tỷ số riêng. Cho tham số liên tục θ: p(θ | x) ∝ p(x | θ) × p(θ), tức hậu nghiệm tỷ lệ với hàm khả năng nhân tiên nghiệm. Bàn bi-a là mô hình nhị thức với tiên nghiệm đều Beta(1, 1): sau r thành công trong n lần thử, hậu nghiệm là Beta(r + 1, n − r + 1), trung bình (r + 1)/(n + 2) — theo hiểu biết của người tổng hợp, đây là "quy tắc kế tục" của Laplace — cũng là xác suất dự báo cho lần thử tiếp theo. Co về giữa: trung bình hậu nghiệm là bình quân có trọng số giữa tỷ lệ quan sát r/n (trọng số n/(n + 2)) và trung bình tiên nghiệm ½ (trọng số 2/(n + 2)). Mô hình phân cấp: θ_j ~ G(φ) cho các đơn vị j, ước lượng của từng đơn vị co về trung bình chung với mức co càng mạnh khi dữ liệu của đơn vị càng ít; MRP gộp các ô theo trọng số dân số thật (hậu phân tầng). Hệ số Bayes: B10 = p(x | H1)/p(x | H0), trong đó p(x | H) = ∫ p(x | θ, H) p(θ | H) dθ là khả năng biên (lấy trung bình theo tiên nghiệm), nên phụ thuộc vào tiên nghiệm của tham số. Theo hiểu biết của người tổng hợp, cận trên 1/(−e × P × ln P) (Sellke, Bayarri và Berger, 2001) cho hệ số Bayes ủng hộ H1 từ một giá trị P, giải thích các con số 2,4–3,4 và khoảng 80.000 trong chương. Khoảng bất định Bayes 95% (khoảng khả tín) là khoảng chứa 95% xác suất hậu nghiệm; khoảng tin cậy tần suất 95% có độ phủ 95% theo nghĩa lấy mẫu lặp lại.
+Định lý Bayes cho hai giả thuyết A, B và bằng chứng E: P(A | E)/P(B | E) = [P(E | A)/P(E | B)] × [P(A)/P(B)], tức tỷ lệ cược hậu nghiệm bằng tỷ số khả năng nhân tỷ lệ cược tiên nghiệm; với các bằng chứng độc lập có điều kiện E1, …, Ek, tỷ số khả năng kết hợp là tích các tỷ số riêng. Cho tham số liên tục θ: p(θ | x) ∝ p(x | θ) × p(θ), tức hậu nghiệm tỷ lệ với hàm khả năng nhân tiên nghiệm.
+
+Bàn bi-a là mô hình nhị thức với tiên nghiệm đều Beta(1, 1): sau r thành công trong n lần thử, hậu nghiệm là Beta(r + 1, n − r + 1), trung bình (r + 1)/(n + 2) — theo hiểu biết của người tổng hợp, đây là "quy tắc kế tục" của Laplace — cũng là xác suất dự báo cho lần thử tiếp theo. Co về giữa: trung bình hậu nghiệm là bình quân có trọng số giữa tỷ lệ quan sát r/n (trọng số n/(n + 2)) và trung bình tiên nghiệm ½ (trọng số 2/(n + 2)). Mô hình phân cấp: θ_j ~ G(φ) cho các đơn vị j, ước lượng của từng đơn vị co về trung bình chung với mức co càng mạnh khi dữ liệu của đơn vị càng ít; MRP gộp các ô theo trọng số dân số thật (hậu phân tầng).
+
+Hệ số Bayes: B10 = p(x | H1)/p(x | H0), trong đó p(x | H) = ∫ p(x | θ, H) p(θ | H) dθ là khả năng biên (lấy trung bình theo tiên nghiệm), nên phụ thuộc vào tiên nghiệm của tham số. Theo hiểu biết của người tổng hợp, cận trên 1/(−e × P × ln P) (Sellke, Bayarri và Berger, 2001) cho hệ số Bayes ủng hộ H1 từ một giá trị P, giải thích các con số 2,4–3,4 và khoảng 80.000 trong chương. Khoảng bất định Bayes 95% (khoảng khả tín) là khoảng chứa 95% xác suất hậu nghiệm; khoảng tin cậy tần suất 95% có độ phủ 95% theo nghĩa lấy mẫu lặp lại.
 
 ## Thuật ngữ
 
@@ -957,7 +981,7 @@ Tác giả nói rõ ông là người theo Bayes "chủ quan" (và tự giễu "
 
 ### Điểm yếu và đơn giản hoá
 
-- **Lỗi số liệu và câu chữ** (đã nêu ở khối Lưu ý): tỷ số khả năng 6,7 triệu trong lời văn so với 6,5 triệu trong bảng (dẫn tới "17.000 ăn 1" thay vì khoảng 16.000); bài toán đinh ghim hỏi mũi xuống nhưng trả lời cho mũi lên; xác suất thùng phá sảnh 1/72.000 có lẽ là của sảnh đồng chất thường; "50 of 51 states and the District of Columbia". Không lỗi nào làm đổi bài học, nhưng với một chương dạy tính toán xác suất cẩn thận, đây là những chỗ đáng tiếc.
+- **Lỗi số liệu và câu chữ** (đã nêu ở mục Lưu ý cuối chương): tỷ số khả năng 6,7 triệu trong lời văn so với 6,5 triệu trong bảng (dẫn tới "17.000 ăn 1" thay vì khoảng 16.000); bài toán đinh ghim hỏi mũi xuống nhưng trả lời cho mũi lên; xác suất thùng phá sảnh 1/72.000 có lẽ là của sảnh đồng chất thường; "50 of 51 states and the District of Columbia". Không lỗi nào làm đổi bài học, nhưng với một chương dạy tính toán xác suất cẩn thận, đây là những chỗ đáng tiếc.
 - **Giả định độc lập trong ví dụ Richard III được nêu nhưng không bàn.** Theo hiểu biết của người tổng hợp, một số bằng chứng có thể không độc lập hoàn toàn (chẳng hạn tuổi và giới tính của bộ xương với vết thương sau khi chết, vì người bị giết và bị cắt xẻo sau một trận đánh thường là nam giới trưởng thành); nhân các tỷ số khả năng phụ thuộc nhau sẽ thổi phồng bằng chứng kết hợp. Theo hiểu biết của người tổng hợp, chính lỗi nhân xác suất của các sự kiện không độc lập đã góp phần gây ra một án oan nổi tiếng ở Anh (vụ Sally Clark, khi xác suất hai trẻ trong một gia đình đột tử được tính bằng cách bình phương xác suất của một trẻ). Chương không nhắc tới rủi ro này, dù nó là một lý do chính đáng khiến toà án thận trọng với việc nhân tỷ số khả năng.
 - **Ví dụ thăm dò bầu cử thiên về câu chuyện thành công.** Tác giả có nêu giới hạn (thiên lệch hệ thống trong câu trả lời), nhưng chỉ đưa các lần MRP đúng; theo hiểu biết của người tổng hợp, các mô hình MRP cũng có lúc sai đáng kể, và kết quả 2016 "đúng 50/51 đơn vị" phụ thuộc vào việc chọn mô hình nào để kể.
 - **"Hệ số Bayes tối đa" chưa được giải thích.** Sách nói P = 0,05 "có thể chứng minh" tương ứng hệ số Bayes 2,4–3,4 và giá trị P của Higgs "có thể đổi" thành hệ số Bayes tối đa 80.000, mà không cho biết phép đổi là gì. Người đọc không biết đây là cận trên (trường hợp thuận lợi nhất cho H1), nên hệ số Bayes thật thường còn nhỏ hơn.
@@ -990,3 +1014,135 @@ Tác giả nói rõ ông là người theo Bayes "chủ quan" (và tự giễu "
 - **Cho người đọc báo:** khi nghe "xét nghiệm chính xác 99%", "ADN khớp", "camera nhận diện khuôn mặt chính xác 95%", hãy tự dựng cây 1.000 người: bao nhiêu người thật sự có điều đó (tỷ lệ nền), bao nhiêu kết quả dương tính giả trong số còn lại; với tỷ lệ nền thấp, phần lớn "trúng" có thể là oan. Câu "xác suất trùng khớp ngẫu nhiên 1 phần triệu" không có nghĩa "xác suất nghi phạm vô tội 1 phần triệu" — nếu quần thể có hàng triệu người, có thể có vài người khác cũng khớp.
 - **Cho nhà phân tích:** dùng dạng tỷ lệ cược để ghép nhiều tín hiệu độc lập (chẳng hạn trong phát hiện gian lận, chấm điểm rủi ro), nhưng kiểm tra tính độc lập trước khi nhân; với tỷ lệ tính trên mẫu nhỏ (tỷ lệ chuyển đổi của sản phẩm mới, tỷ lệ nợ xấu của chi nhánh ít khách), dùng ước lượng co về giữa (tối thiểu là (r + 1)/(n + 2), tốt hơn là mô hình phân cấp) thay vì xếp hạng theo tỷ lệ thô; khi báo cáo phân tích Bayes, nêu rõ tiên nghiệm và chạy phân tích độ nhạy; khi đọc giá trị P quanh 0,05, coi đó là tín hiệu yếu cần lặp lại.
 - **Cho người làm chính sách:** chương trình sàng lọc (doping, ma tuý, y tế, an ninh) phải được đánh giá theo tỷ lệ kết quả dương tính là thật, không chỉ theo "độ chính xác" của xét nghiệm, và cần xét nghiệm khẳng định trước khi xử phạt; với số liệu thống kê địa phương từ mẫu nhỏ (huyện, xã, trường học), mô hình phân cấp cho ước lượng ổn định hơn và tránh "bảng xếp hạng" bị chi phối bởi may rủi; khi dùng thăm dò từ nhóm trực tuyến, đòi công khai phương pháp điều chỉnh và nhớ rằng mô hình không sửa được câu trả lời sai lệch có hệ thống.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: năm nhánh theo các mục 1–9 của phần Nội dung chi tiết (xác suất cho sự thiếu hiểu biết, định lý Bayes dạng tỷ lệ cược, tỷ số khả năng trong pháp y, suy luận Bayes cho đại lượng chưa biết, hệ số Bayes và cuộc chiến ý thức hệ), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: định lý Bayes là cơ chế học từ kinh nghiệm — tiên nghiệm nhân bằng chứng ra hậu nghiệm, và dữ liệu không tự nói lên điều gì`"]
+  n1["`Mục 1–2 — Xác suất cho sự thiếu hiểu biết`"]
+  n0 --- n1
+  n2["`Nền tảng suy luận thống kê hơi lộn xộn: ba trường phái Fisher, Neyman–Pearson, Bayes`"]
+  n1 --- n2
+  n3["`Thomas Bayes, mục sư ở Tunbridge Wells, mất 1761 — bài báo công bố sau khi mất, năm 1763`"]
+  n1 --- n3
+  n4["`Bất định do thiếu hiểu biết (epistemic): điều đã có thật nhưng ta chưa biết, như lá bài sắp chia`"]
+  n1 --- n4
+  n5["`Xác suất Bayes là chủ quan: phụ thuộc hiểu biết của ta, đổi khi có thông tin mới`"]
+  n1 --- n5
+  n6["`Ba đồng xu: thấy mặt ngửa thì xác suất đồng hai mặt ngửa là 2/3, không phải ½`"]
+  n1 --- n6
+  n7["`Doping: xét nghiệm chính xác 95%, 1/50 dùng doping → chỉ 19/68 = 28% người dương tính thật sự dùng`"]
+  n1 --- n7
+  n8["`Cây đảo chiều xếp theo thứ tự ta biết sự việc — chính là việc định lý Bayes làm, xưa gọi là xác suất ngược`"]
+  n1 --- n8
+  n9["`Mục 3 — Định lý Bayes dạng tỷ lệ cược`"]
+  n0 --- n9
+  n10["`Tỷ lệ cược = xác suất xảy ra ÷ xác suất không xảy ra — mặt sáu của xúc xắc là 1/5`"]
+  n9 --- n10
+  n11["`Tỷ số khả năng = P(bằng chứng khi A đúng) ÷ P(bằng chứng khi B đúng) — doping 0,95/0,05 = 19`"]
+  n9 --- n11
+  n12["`Tỷ lệ cược ban đầu × tỷ số khả năng = tỷ lệ cược sau cùng: 1/49 × 19 = 19/49, tức 28%`"]
+  n9 --- n12
+  n13["`Bằng chứng độc lập mới: hậu nghiệm cũ thành tiên nghiệm mới, tương đương nhân các tỷ số khả năng`"]
+  n9 --- n13
+  n14["`Nhầm A khi biết B với B khi biết A: lỗi chung của giá trị P và ngộ nhận của bên công tố`"]
+  n9 --- n14
+  n15["`Mục 4–5 — Tỷ số khả năng trong pháp y`"]
+  n0 --- n15
+  n16["`Bộ xương dưới bãi đỗ xe Leicester 2012: xác suất ban đầu thận trọng 1/2 × 1/2 × 1/100 = 1/400`"]
+  n15 --- n16
+  n17["`Sáu bằng chứng: cong vẹo cột sống 212, ADN ti thể 478, nhiễm sắc thể Y 0,16 bằng chứng chống lại`"]
+  n15 --- n17
+  n18["`Nhân lại khoảng 6,5 triệu (lời văn ghi 6,7 triệu) → khoảng 17.000 ăn 1 là Richard III`"]
+  n15 --- n18
+  n19["`Nhóm nghiên cứu dùng 1/40 → 167.000 ăn 1, xác suất 0,999994, cải táng ở nhà thờ chính toà Leicester`"]
+  n15 --- n19
+  n20["`ADN ở toà: mẫu số là xác suất trùng khớp ngẫu nhiên, tỷ số khả năng tới hàng triệu, hàng tỷ`"]
+  n15 --- n20
+  n21["`Toà án Anh cho dùng từng tỷ số khả năng nhưng cấm nhân chúng — việc kết hợp để cho bồi thẩm đoàn`"]
+  n15 --- n21
+  n22["`Tổng giám mục Canterbury của Keynes: tỷ số khả năng 72.000 nhưng tiên nghiệm 1 ăn 1 triệu → chỉ khoảng 7% gian lận`"]
+  n15 --- n22
+  n23["`Mục 6–7 — Suy luận Bayes cho đại lượng chưa biết`"]
+  n0 --- n23
+  n24["`Bàn bi-a của Bayes: 2 bi đỏ trái, 3 phải → ước lượng vị trí vạch 3/7, khoảng 95% từ 0,12 tới 0,78`"]
+  n23 --- n24
+  n25["`Quy tắc cộng 1 trên, cộng 2 dưới: như đã ném trước hai bi tưởng tượng, mỗi bên một bi`"]
+  n23 --- n25
+  n26["`Co về giữa: 0/5 thành 1/7, ước lượng không bao giờ bằng 0 hay 1`"]
+  n23 --- n26
+  n27["`Tiên nghiệm + hàm khả năng → hậu nghiệm — thêm dữ liệu thì khoảng hẹp dần`"]
+  n23 --- n27
+  n28["`Không có tiên nghiệm đúng: luôn kèm phân tích độ nhạy với nhiều lựa chọn`"]
+  n23 --- n28
+  n29["`MRP: chia hàng nghìn ô, giả định hệ số các khu vực tương tự nhau, rồi gộp theo dân số thật`"]
+  n23 --- n29
+  n30["`Mỹ 2016: chỉ 9.485 người mà đoán đúng 50 trong 51 đơn vị — Anh 2017 đoán đúng quốc hội treo`"]
+  n23 --- n30
+  n31["`MRP không sửa được câu trả lời sai lệch có hệ thống`"]
+  n23 --- n31
+  n32["`Mục 8–9 — Hệ số Bayes và cuộc chiến ý thức hệ`"]
+  n0 --- n32
+  n33["`Bộ não Bayes và xe tự lái: kỳ vọng ban đầu, chỉ cập nhật theo điều bất ngờ`"]
+  n32 --- n33
+  n34["`Hệ số Bayes: tỷ số khả năng cho giả thuyết khoa học, phụ thuộc tiên nghiệm của tham số chưa biết`"]
+  n32 --- n34
+  n35["`Thang Kass–Raftery: trên 150 là rất mạnh, trong khi ở toà phải từ 10.000`"]
+  n32 --- n35
+  n36["`P = 0,05 chỉ ứng với hệ số Bayes 2,4–3,4 → bằng chứng yếu, đề xuất ngưỡng 0,005`"]
+  n32 --- n36
+  n37["`Hạt Higgs: hệ số Bayes tối đa khoảng 80.000, với tiên nghiệm 50:50 cho xác suất 0,99999`"]
+  n32 --- n37
+  n38["`Khoảng bất định Bayes 95% thật sự có nghĩa 95% xác suất chứa giá trị thật — khoảng tin cậy thì không`"]
+  n32 --- n38
+  n39["`Thập niên 1930: Bowley gọi khoảng tin cậy là trò lừa tin cậy — Fisher đối đầu Neyman và Pearson`"]
+  n32 --- n39
+  n40["`Ngày nay pha trộn thực dụng: thiết kế theo Neyman–Pearson, phân tích bằng giá trị P của Fisher`"]
+  n32 --- n40
+  n41["`Thông điệp xuyên suốt`"]
+  n0 --- n41
+  n42["`Hiểu biết nền luôn có vai trò — trường phái Bayes đưa nó vào minh bạch, bằng toán học`"]
+  n41 --- n42
+  n43["`Bằng chứng mạnh chưa đủ khi tiên nghiệm rất thấp — nhiều bằng chứng yếu độc lập có thể thành áp đảo`"]
+  n41 --- n43
+  n44["`Nhà thống kê hợp lý thường ra kết luận giống nhau — vấn đề thật là thiết kế kém, dữ liệu thiên lệch, thực hành tồi`"]
+  n41 --- n44
+  class n0 root
+  class n1,n9,n15,n23,n32,n41 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), bản Mỹ đầu tiên tháng 9/2019 (bản gốc Pelican/Penguin, Anh, tháng 3/2019), Chương 11 "Learning from Experience the Bayesian Way", trang PDF 203–222 (ebook không có số trang in; vị trí ghi theo chỉ số trang PDF và tên tiểu mục).
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) đưa ra ngôn ngữ xác suất, phân biệt bất định ngẫu nhiên (aleatory) với bất định do thiếu hiểu biết (epistemic), dạy cách nghĩ bằng cây tần số kỳ vọng (ví dụ sàng lọc ung thư vú: trong 1.000 phụ nữ, 108 người dương tính nhưng chỉ 9 người thật sự mắc bệnh) và nêu ngộ nhận của bên công tố. Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) và Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) xây khoảng tin cậy; Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) xây kiểm định giả thuyết, giá trị P và lý thuyết Neyman–Pearson. Tất cả những công cụ đó thuộc trường phái "cổ điển" hay "tần suất".
+
+Chương 11 giới thiệu trường phái thứ ba, trường phái Bayes, vốn đòi người đọc gác lại gần như mọi thứ đã học về ước lượng, khoảng tin cậy, giá trị P và kiểm định: xác suất được dùng cho cả sự kiện đã xảy ra mà ta chưa biết, và định lý Bayes cho phép cập nhật xác suất đó khi có bằng chứng mới. Chương cũng giải thích lý do Chương 10 nói P = 0,05 chỉ là "bằng chứng yếu". Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) chuyển sang "mặt tối" của thống kê — thiết kế kém, dữ liệu thiên lệch, thực hành khoa học tồi — mà tác giả cho là quan trọng hơn mọi tranh cãi triết học; Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) quay lại thăm dò sau khi bỏ phiếu (exit poll), nơi mô hình Bayes theo từng khu vực bầu cử đã thành công lớn.
+
+## Lưu ý
+
+- **Tỷ số khả năng kết hợp cho bộ xương Richard III: lời văn ghi 6,7 triệu, bảng ghi 6,5 triệu (mục "Likelihood Ratios and Forensic Science", trang PDF 211–212).** Lời văn viết "an 'extremely strong' value of 6.7 million" và tính "6.7 million / 400 = 16,750", làm tròn thành "khoảng 17.000 ăn 1". Nhưng Table 11.1 và chú thích bảng ghi 6,5 triệu, và người tổng hợp nhân lại sáu tỷ số khả năng trong bảng: 1,8 × 5,3 × 212 × 42 × 478 × 0,16 = 6.496.529 ≈ **6,5 triệu**. Với 6,5 triệu, tỷ lệ cược sau cùng là 6.496.529/400 ≈ **16.240** (hoặc ≈ 16.280 nếu đổi xác suất 1/400 thành tỷ lệ cược chính xác 1/399), tức "khoảng 16.000 ăn 1" chứ không phải 17.000. Con số 167.000 ăn 1 của nhóm nghiên cứu (xác suất ban đầu 1/40) lại khớp với 6,5 triệu: tỷ lệ cược ban đầu 1/39 nhân 6.496.529 ≈ 166.600 ≈ 167.000, xác suất 0,999994. Ngoài ra lời văn gọi giá trị kết hợp là "extremely strong", trong khi bảng ghi "more than extremely strong" (vì thang lời của Table 11.2 dừng ở 1.000.000). Lời văn còn viết "Table 11–1" thay vì "Table 11.1". Kết luận không đổi.
+- **Bài toán đinh ghim bị đảo chiều (mục "Bayesian Statistical Inference", trang PDF 214).** Sách hỏi xác suất đinh ghim rơi **mũi xuống (point-down)** lần tới, khi 20 lần tung có 15 lần mũi lên và 5 lần mũi xuống, rồi trả lời "15/20 = 75%" và theo cách của Bayes "16/22 = 73%". Hai con số này là xác suất **mũi lên**. Với câu hỏi mũi xuống, đáp án đúng là 5/20 = 25% và theo quy tắc của Bayes (5 + 1)/(20 + 2) = 6/22 ≈ 27%. Nhận xét của người tổng hợp; bản tổng hợp ghi cả hai.
+- **Xác suất ra thùng phá sảnh lớn (royal flush) trong ví dụ Tổng giám mục (trang PDF 213) bị nhầm (nhận xét của người tổng hợp; đã đối chiếu nguyên văn: sách viết "royal flush").** Sách nói mẫu số "có thể tính được là 1/72.000". Theo tính toán của người tổng hợp, xác suất chia được một thùng phá sảnh lớn (10-J-Q-K-A cùng chất) trong 5 lá là 4/C(52,5) = 4/2.598.960 = 1/649.740; con số 1/72.000 khớp với xác suất ra **sảnh đồng chất không phải loại lớn nhất** (straight flush), 36/2.598.960 ≈ 1/72.193. Nếu dùng 1/649.740, tỷ số khả năng là khoảng 650.000 ("cực mạnh" theo Table 11.2), tỷ lệ cược sau cùng khoảng 0,65 và xác suất gian lận khoảng 39%, không phải 7%. Bài học của ví dụ (phải tính tới tỷ lệ cược ban đầu) không đổi, nhưng con số cụ thể nhạy với giả định này.
+- **Câu chữ gây nhầm trong ví dụ doping (trang PDF 206):** sách viết "49 non-dopers also have positive tests (95% of 980 = 931)". Con số 49 là 5% của 980; con số 931 trong ngoặc là số người không dùng doping có kết quả âm tính đúng. Cây tần số (Figure 11.2) ghi đúng cả hai.
+- **"50 of 51 states and the District of Columbia" (trang PDF 217):** nước Mỹ có 50 bang; cộng Đặc khu Columbia là 51 đơn vị bầu cử. Ý đúng là mô hình MRP đoán đúng người thắng ở 50 trong 51 đơn vị (50 bang và Đặc khu Columbia), chỉ sai ở Michigan.
+- **Thang tỷ lệ cược kiểu Anh (trang PDF 209):** sách nói tỷ lệ cược 1/5 thường gọi là "1 to 5 on" hoặc "5 to 1 against". Cách nói "5 ăn 1 ngược" (5 to 1 against) là chuẩn; cách nói "1 to 5 on" về hình thức tương đương nhưng theo hiểu biết của người tổng hợp hiếm dùng, vì "on" (odds-on) thường dành cho biến cố có khả năng xảy ra hơn không.
+- **Chú thích cuối chương bị lỗi trong ebook:** chú thích 4 (công thức của phân phối hậu nghiệm tổng quát) mất phần công thức trong lớp chữ; người tổng hợp viết lại theo dạng chuẩn, và kiểm tra hằng số 60 trong 60p²(1 − p)³: 6!/(2! × 3!) = 720/12 = 60, khớp. Chú thích 7 (sách *AIQ* của Polson và Scott) ghi "p. 000" — số trang chưa được điền khi in.
+- **Các phép tính đã tự kiểm tra và khớp:** ba đồng xu 2/3; doping 1.000 × 1/50 = 20, 95% × 20 = 19, 5% × 980 = 49, 19/68 = 27,9% ≈ 28%, nhánh âm tính 1/932 ≈ 0,1%; tỷ lệ cược mặt ngửa ½ ÷ ½ = 1, mặt sáu 1/6 ÷ 5/6 = 1/5; tỷ số khả năng doping 0,95/0,05 = 19; 1/49 × 19 = 19/49, 19/(19 + 49) = 19/68; Richard III 1/2 × 1/2 × 1/100 = 1/400, 1485 + 527 = 2012; Tổng giám mục 72.000/1.000.000 = 0,072, xác suất 0,072/1,072 ≈ 6,7% (sách viết 7/107 ≈ 6,5%, làm tròn 7%); bàn bi-a (2 + 1)/(5 + 2) = 3/7 ≈ 0,43, (0 + 1)/(0 + 2) = ½, (0 + 1)/(5 + 2) = 1/7; khoảng 95% của phân phối Beta(3, 4) từ 0,12 tới 0,78 (người tổng hợp tính tay: xác suất dưới 0,12 khoảng 2,6%, trên 0,78 khoảng 2,4%, tổng khoảng 5%); Higgs: hệ số Bayes 80.000 với tỷ lệ cược ban đầu 1 cho xác suất 80.000/80.001 ≈ 0,99999. Theo hiểu biết của người tổng hợp, các con số "P = 0,05 tương ứng hệ số Bayes 2,4–3,4" và "P = 1/3.500.000 tương ứng hệ số Bayes tối đa khoảng 80.000" khớp với cận trên 1/(−e × P × ln P) thường dùng: với P = 0,05 được khoảng 2,46; với P = 1/3.500.000 được khoảng 85.000.
+- **Hình và bảng:** Figure 11.1, 11.2, 11.3 là cây tần số có ghi số, được chép đủ. Figure 11.4 là sơ đồ và đường cong không ghi số; vị trí các viên bi và hình dạng đường cong trong bản tổng hợp là **ước lượng** của người tổng hợp đọc từ hình (vạch trắng ở khoảng 0,37 chiều dài bàn; đỉnh đường cong ở khoảng 0,4, khớp với đỉnh lý thuyết 2/5 của phân phối Beta(3, 4)). Table 11.1, 11.2, 11.3 là ảnh trong ebook; số liệu được chép từ ảnh trang và từ chú thích dấu sao, khớp nhau.
+- **Chú thích dấu sao:** danh sách chú thích dấu sao đi kèm bundle của chương này bị lệch (là chú thích của Chương 5, 6, 7 và 9). Người tổng hợp đã đối chiếu `footnotes-all.txt` và xác định 7 chú thích chữ của chương (về cái chết của Bayes và bài báo công bố năm 1763; "có người còn nói tôi đã bị nhồi sọ"; tỷ lệ cược bằng 1 gọi là "evens"; nguyên văn câu hỏi của Bayes; "là mục sư Trưởng lão, ông chỉ gọi nó là cái bàn"; nghĩa đúng của khoảng tin cậy 95%; "nhưng tôi vẫn thích cách tiếp cận Bayes hơn") cùng 3 bảng (Table 11.1–11.3). Nội dung các chú thích được đưa vào đúng chỗ trong phần Nội dung chi tiết.
+- **Một chi tiết nhỏ:** sách gọi Bayes là "Nonconformist minister" ở phần mở đầu và "Presbyterian minister" ở chú thích; hai cách gọi không mâu thuẫn (giáo hội Trưởng lão là một nhánh "không theo quốc giáo" ở Anh). Sách viết "War of the Roses"; tên thường dùng là "Wars of the Roses" (Chiến tranh Hoa Hồng).

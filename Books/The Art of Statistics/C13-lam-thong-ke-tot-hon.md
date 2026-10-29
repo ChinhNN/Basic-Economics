@@ -1,20 +1,20 @@
 # Chương 13 — Làm thống kê tốt hơn (How We Can Do Statistics Better)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican, Anh, 3/2019), Chương 13 "How We Can Do Statistics Better", trang PDF 235–243. Ebook không có số trang in, nên vị trí được ghi bằng chỉ số trang PDF và tên tiểu mục của sách.
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) chỉ ra thống kê bị làm tồi dọc theo cả "đường ống" từ người tạo số liệu tới công chúng: lỗi phương pháp, gian lận, thực hành nghiên cứu đáng ngờ, và các thực hành diễn giải, truyền đạt đáng ngờ của văn phòng báo chí và truyền thông. Chương 13 là mặt tích cực của cùng bức tranh: ba nhóm trong đường ống — người tạo ra thống kê, người truyền đạt, và người nghe — mỗi nhóm có thể làm gì để thống kê được dùng tốt hơn. Chương dùng lại nhiều công cụ đã học: kiểm định giả thuyết và giá trị P (Chương 10, [C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)), các bước suy luận từ dữ liệu tới tổng thể mục tiêu (Chương 3, [C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)), hồi quy đa mức và hậu phân tầng MRP (Chương 11, [C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)), độ bất định nhận thức (Chương 7 và 8, [C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md), [C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)), tính công bằng và minh bạch của thuật toán (Chương 6, [C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)), và kết bằng một ví dụ "thống kê tốt" đi trọn chu trình PPDAC của phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)). Chương 14 ([C14-ket-luan.md](C14-ket-luan.md)) sau đó gói bài học thành mười quy tắc.
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **muốn thống kê được dùng tốt hơn trong xã hội thì cả người tạo ra, người truyền đạt và người nghe đều phải hành động: người tạo ra phải làm khoa học tái lập được và chứng tỏ sự đáng tin cậy bằng thông tin truy cập được, hiểu được, đánh giá được và dùng được; người truyền đạt phải cảnh giác với việc nhét câu chuyện thống kê vào khuôn kể chuyện quen thuộc; còn người nghe phải lên tiếng chỉ ra thực hành kém bằng cách hỏi về độ đáng tin của con số, của nguồn và của cách diễn giải — trước hết là tự cảm nhận xem tuyên bố có hợp lý không.** Chương mở bằng thử nghiệm sàng lọc ung thư buồng trứng lớn nhất nước Anh (UKCTOCS): hơn 200.000 phụ nữ, đề cương định trước chặt chẽ, phân tích chính sau trung bình 11 năm không có ý nghĩa thống kê, nhưng báo *Independent* giật tít "đột phá". Mục "Improving What Is Produced" giới thiệu "tuyên ngôn về khoa học tái lập" và Khung Khoa học Mở (Open Science Framework), bàn ưu nhược của đăng ký trước, rồi quay lại thử nghiệm ung thư buồng trứng: nếu bỏ các ca đã mắc trước khi thử nghiệm bắt đầu, sàng lọc đa phương thức giảm tử vong 20% (P = 0,02), và giảm 23% trong giai đoạn 7–14 năm sau phân nhóm — đề cương định trước đã không lường được tác dụng muộn của sàng lọc. Mục "Improving Communication" bàn hướng dẫn đưa tin, báo chí dữ liệu, rủi ro của việc biến con số thành câu chuyện, và ví dụ nhà báo Christie Aschwanden cùng bạn bà đi tới hai quyết định khác nhau về chụp nhũ ảnh với cùng bằng chứng. Mục "Helping to Call Out Poor Practice" nêu vai trò của người bình duyệt và "cái mũi" nghi ngờ của tác giả, với ví dụ "người đẹp sinh nhiều con gái hơn" (44% con đầu lòng là trai so với 52%) — hiệu ứng quá lớn để tin được. Mục "Publication Bias" giải thích "đường cong P" (P-curve): nếu không có hiệu ứng, giá trị P phân bố đều từ 0 tới 1, nên các giá trị P có ý nghĩa dồn sát 0,05 hoặc rải đều từ 0 tới 0,05 là dấu hiệu đáng ngờ. Mục "Assessing a Statistical Claim or Story" dựa trên Onora O'Neill: không nên đòi được tin mà phải chứng tỏ sự đáng tin cậy, qua "minh bạch thông minh", rồi đưa ra mười câu hỏi chia ba nhóm (con số, nguồn, cách diễn giải) khi gặp một tuyên bố thống kê. Mục "Data Ethics" bàn đạo đức dữ liệu. Mục cuối "An Example of Good Statistical Science" kể dự báo thăm dò sau bỏ phiếu (exit poll) ở bầu cử Anh 8/6/2017: chỉ vài phút sau khi đóng cửa, nhóm của David Firth, Jouni Kuha và John Curtice dự báo quốc hội treo, và số ghế dự báo lệch kết quả cuối cùng nhiều nhất 4 ghế.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lỗi chính tả trong sách:** trang PDF 237 viết "the total implausibily of this result"; đúng là "implausibility".
-> - **"600 or so constituencies" (trang PDF 241):** Hạ viện Anh có 650 khu vực bầu cử (chính các dòng của Bảng 13.1 cộng lại 649–650 ghế). "Khoảng 600" là cách nói rất tròn, hơi thấp; bản tổng hợp ghi cả hai.
-> - **Bảng 13.1 (trang PDF 241) đã đối chiếu ảnh trang:** năm 2010 không có cột riêng cho Đảng Quốc gia Scotland (SNP), số ghế của SNP nằm trong cột "Các đảng khác". Tổng mỗi dòng: 2010 dự báo 307 + 255 + 59 + 29 = 650, thực tế 307 + 258 + 57 + 28 = 650; 2015 dự báo 316 + 239 + 10 + 58 + 27 = 650, thực tế 331 + 232 + 8 + 56 + 23 = 650; 2017 dự báo 314 + 266 + 14 + 34 + 21 = 649, thực tế 318 + 262 + 12 + 35 + 22 = 649. Dòng 2017 thiếu 1 ghế ở cả hai hàng; theo hiểu biết của người tổng hợp, đó là ghế của Chủ tịch Hạ viện (Speaker), không thuộc đảng nào, nên không làm sai so sánh.
-> - **Tuyên bố "lệch nhiều nhất bốn ghế" cho năm 2017 đã kiểm tra:** Bảo thủ 318 − 314 = 4; Công đảng 266 − 262 = 4; Dân chủ Tự do 14 − 12 = 2; SNP 35 − 34 = 1; các đảng khác 22 − 21 = 1. Đúng. Với năm 2015, dự báo cho Đảng Bảo thủ lệch 331 − 316 = 15 ghế; sách gọi độ chính xác của cả ba lần là "đặc biệt", điều này vẫn hợp lý so với sai số khoảng 20 ghế mà sách nêu, nhưng năm 2015 không chính xác tới mức năm 2010 và 2017 (nhận xét của người tổng hợp).
-> - **Các phép tính khác đã tự kiểm tra:** 200 người × 144 điểm bỏ phiếu ≈ 28.800 cuộc phỏng vấn; 144 / 40.000 = 0,36% số điểm bỏ phiếu; Dân chủ Tự do được dự báo giảm từ 57 xuống 10 ghế năm 2015 và thực tế còn 8; tỷ lệ con trai 44% so với 52% là chênh 8 điểm phần trăm. Các phép tính minh hoạ về đường cong P và về ví dụ "người đẹp sinh con gái" là của người tổng hợp và được ghi rõ.
-> - **Con số 52% bé trai** được sách gọi là "chuẩn"; theo hiểu biết của người tổng hợp, tỷ lệ bé trai khi sinh thường khoảng 51–51,5%, nên 52% là con số làm tròn của nghiên cứu được dẫn. Không ảnh hưởng lập luận.
-> - **Chương không có hình (Figure).** Bảng duy nhất là Bảng 13.1; trong lớp chữ ebook, bảng này bị tách khỏi chương và dồn về cuối sách (trang PDF 394–395) dưới dạng chú thích dấu sao, nên đã được dựng lại theo ảnh trang PDF 241. Dòng "Others" trong lớp chữ bị gõ thành "0thers" (số 0 thay cho chữ O).
-> - **Chú thích dấu sao:** chương có một footnote thật (về lời hứa "ăn mũ" của Paddy Ashdown), lấy từ danh sách footnote của cả sách bằng cách khớp nội dung; danh sách footnote ghép sau chương trong bản trích bị lệch sang chương khác (bảng sai lầm loại I/II, bảng tỷ số khả năng của Richard III).
-> - **Ý cuối của phần Tóm tắt** ("trước hết hãy cảm nhận xem tuyên bố có hợp lý không") không được trình bày thành một tiểu mục trong chương; nó tương ứng với "cái mũi" nghi ngờ khi một kết quả "quá đẹp để là thật" trong mục "Helping to Call Out Poor Practice".
+Spiegelhalter muốn người đọc hiểu rằng **muốn thống kê được dùng tốt hơn trong xã hội thì cả người tạo ra, người truyền đạt và người nghe đều phải hành động: người tạo ra phải làm khoa học tái lập được và chứng tỏ sự đáng tin cậy bằng thông tin truy cập được, hiểu được, đánh giá được và dùng được; người truyền đạt phải cảnh giác với việc nhét câu chuyện thống kê vào khuôn kể chuyện quen thuộc; còn người nghe phải lên tiếng chỉ ra thực hành kém bằng cách hỏi về độ đáng tin của con số, của nguồn và của cách diễn giải — trước hết là tự cảm nhận xem tuyên bố có hợp lý không.**
+
+Chương mở bằng thử nghiệm sàng lọc ung thư buồng trứng lớn nhất nước Anh (UKCTOCS): hơn 200.000 phụ nữ, đề cương định trước chặt chẽ, phân tích chính sau trung bình 11 năm không có ý nghĩa thống kê, nhưng báo *Independent* giật tít "đột phá".
+
+Mục "Improving What Is Produced" giới thiệu "tuyên ngôn về khoa học tái lập" và Khung Khoa học Mở (Open Science Framework), bàn ưu nhược của đăng ký trước, rồi quay lại thử nghiệm ung thư buồng trứng: nếu bỏ các ca đã mắc trước khi thử nghiệm bắt đầu, sàng lọc đa phương thức giảm tử vong 20% (P = 0,02), và giảm 23% trong giai đoạn 7–14 năm sau phân nhóm — đề cương định trước đã không lường được tác dụng muộn của sàng lọc.
+
+Mục "Improving Communication" bàn hướng dẫn đưa tin, báo chí dữ liệu, rủi ro của việc biến con số thành câu chuyện, và ví dụ nhà báo Christie Aschwanden cùng bạn bà đi tới hai quyết định khác nhau về chụp nhũ ảnh với cùng bằng chứng.
+
+Mục "Helping to Call Out Poor Practice" nêu vai trò của người bình duyệt và "cái mũi" nghi ngờ của tác giả, với ví dụ "người đẹp sinh nhiều con gái hơn" (44% con đầu lòng là trai so với 52%) — hiệu ứng quá lớn để tin được. Mục "Publication Bias" giải thích "đường cong P" (P-curve): nếu không có hiệu ứng, giá trị P phân bố đều từ 0 tới 1, nên các giá trị P có ý nghĩa dồn sát 0,05 hoặc rải đều từ 0 tới 0,05 là dấu hiệu đáng ngờ.
+
+Mục "Assessing a Statistical Claim or Story" dựa trên Onora O'Neill: không nên đòi được tin mà phải chứng tỏ sự đáng tin cậy, qua "minh bạch thông minh", rồi đưa ra mười câu hỏi chia ba nhóm (con số, nguồn, cách diễn giải) khi gặp một tuyên bố thống kê. Mục "Data Ethics" bàn đạo đức dữ liệu.
+
+Mục cuối "An Example of Good Statistical Science" kể dự báo thăm dò sau bỏ phiếu (exit poll) ở bầu cử Anh 8/6/2017: chỉ vài phút sau khi đóng cửa, nhóm của David Firth, Jouni Kuha và John Curtice dự báo quốc hội treo, và số ghế dự báo lệch kết quả cuối cùng nhiều nhất 4 ghế.
 
 ## Sơ đồ
 
@@ -345,7 +345,9 @@ Làm sao để toàn bộ quá trình khoa học đáng tin cậy hơn? Một nh
 
 Nhiều ý tưởng trong số này được thể hiện trong Khung Khoa học Mở (Open Science Framework, osf.io), một nền tảng đặc biệt khuyến khích chia sẻ dữ liệu và đăng ký trước nghiên cứu.
 
-Sau các ví dụ ở chương trước, không có gì ngạc nhiên khi nhiều đề xuất của tuyên ngôn liên quan tới thực hành thống kê, và cụ thể là lời kêu gọi đăng ký trước nghiên cứu nhằm phòng ngừa đúng kiểu hành vi đã được minh hoạ sống động ở chương trước — khi thiết kế, giả thuyết và phân tích của một nghiên cứu được điều chỉnh theo dữ liệu khi dữ liệu tới. (Để chương tự đứng được: đó là những "mức tự do của nhà nghiên cứu" như quyết định khi nào dừng thu thập, loại dữ liệu nào, hiệu chỉnh yếu tố nào, nhấn mạnh nhóm nào, chọn thước đo kết quả nào — điển hình là thí nghiệm "tiên tri" của Daryl Bem và thí nghiệm "nghe bài When I'm Sixty-Four làm người ta trẻ ra".) Nhưng cũng có thể lập luận rằng định trước hoàn toàn là phi thực tế và phủ nhận trí tưởng tượng của nhà nghiên cứu, và rằng khả năng linh hoạt thích ứng với dữ liệu mới là một đặc điểm tích cực. Một lần nữa, lời giải có vẻ nằm ở sự phân biệt rõ giữa nghiên cứu khám phá và nghiên cứu khẳng định, luôn đi kèm báo cáo rõ ràng chuỗi lựa chọn mà nhà nghiên cứu đã đưa ra.
+Sau các ví dụ ở chương trước, không có gì ngạc nhiên khi nhiều đề xuất của tuyên ngôn liên quan tới thực hành thống kê, và cụ thể là lời kêu gọi đăng ký trước nghiên cứu nhằm phòng ngừa đúng kiểu hành vi đã được minh hoạ sống động ở chương trước — khi thiết kế, giả thuyết và phân tích của một nghiên cứu được điều chỉnh theo dữ liệu khi dữ liệu tới. (Để chương tự đứng được: đó là những "mức tự do của nhà nghiên cứu" như quyết định khi nào dừng thu thập, loại dữ liệu nào, hiệu chỉnh yếu tố nào, nhấn mạnh nhóm nào, chọn thước đo kết quả nào — điển hình là thí nghiệm "tiên tri" của Daryl Bem và thí nghiệm "nghe bài When I'm Sixty-Four làm người ta trẻ ra".)
+
+Nhưng cũng có thể lập luận rằng định trước hoàn toàn là phi thực tế và phủ nhận trí tưởng tượng của nhà nghiên cứu, và rằng khả năng linh hoạt thích ứng với dữ liệu mới là một đặc điểm tích cực. Một lần nữa, lời giải có vẻ nằm ở sự phân biệt rõ giữa nghiên cứu khám phá và nghiên cứu khẳng định, luôn đi kèm báo cáo rõ ràng chuỗi lựa chọn mà nhà nghiên cứu đã đưa ra.
 
 Định trước một phân tích không phải không có vấn đề, vì nó có thể trói nhà nghiên cứu vào một phân tích mà, khi dữ liệu tới, họ nhận ra là không phù hợp. Quay lại thử nghiệm sàng lọc ung thư buồng trứng:
 
@@ -365,9 +367,13 @@ Bài học kép ở đây là: đăng ký trước bảo vệ khỏi việc ch�
 
 ### 3. Cải thiện việc truyền đạt (Improving Communication, trang PDF 236–237)
 
-Cuốn sách đã kể nhiều trường hợp truyền thông đưa tin tồi tệ về các câu chuyện dựa trên thống kê. Không có cách đơn giản nào để tác động tới thực hành của báo chí và truyền thông, nhất là trong thời kỳ ngành này bị thách thức bởi cạnh tranh từ mạng xã hội và các ấn phẩm trực tuyến không bị quản lý, trong khi doanh thu quảng cáo sụt giảm. Dù vậy, các nhà thống kê đã hợp tác soạn hướng dẫn đưa tin cho các cơ quan truyền thông và chương trình đào tạo cho nhà báo và nhân viên văn phòng báo chí. Tin tốt là báo chí dữ liệu (data journalism) đang phát triển mạnh, và hợp tác với nhà báo có thể dẫn tới những câu chuyện phong phú dựa trên dữ liệu, với mạch kể và hình ảnh phù hợp, hấp dẫn.
+Cuốn sách đã kể nhiều trường hợp truyền thông đưa tin tồi tệ về các câu chuyện dựa trên thống kê. Không có cách đơn giản nào để tác động tới thực hành của báo chí và truyền thông, nhất là trong thời kỳ ngành này bị thách thức bởi cạnh tranh từ mạng xã hội và các ấn phẩm trực tuyến không bị quản lý, trong khi doanh thu quảng cáo sụt giảm.
 
-Tuy nhiên, biến con số thành câu chuyện có rủi ro. Câu chuyện truyền thống cần một cú đánh cảm xúc, một mạch kể mạnh và một kết thúc trọn vẹn; khoa học hiếm khi cung cấp đủ những thứ đó, nên dễ bị cám dỗ đơn giản hoá quá mức và nói quá. Câu chuyện phải trung thực với bằng chứng: điểm mạnh, điểm yếu và độ bất định của nó. Lý tưởng là câu chuyện có thể nói rằng một loại thuốc hay can thiệp y tế khác không tốt cũng không xấu: nó có lợi ích và tác dụng phụ, người khác nhau có thể cân nhắc chúng theo những cách khác nhau, và đi tới những kết luận khác nhau một cách hoàn toàn hợp lý. Nhà báo có vẻ né tránh những mạch kể nhiều sắc thái như vậy, nhưng (chẳng hạn bằng cách đưa lời kể của những người có quan điểm khác nhau) một người truyền đạt giỏi phải làm được cho những câu chuyện này hấp dẫn.
+Dù vậy, các nhà thống kê đã hợp tác soạn hướng dẫn đưa tin cho các cơ quan truyền thông và chương trình đào tạo cho nhà báo và nhân viên văn phòng báo chí. Tin tốt là báo chí dữ liệu (data journalism) đang phát triển mạnh, và hợp tác với nhà báo có thể dẫn tới những câu chuyện phong phú dựa trên dữ liệu, với mạch kể và hình ảnh phù hợp, hấp dẫn.
+
+Tuy nhiên, biến con số thành câu chuyện có rủi ro. Câu chuyện truyền thống cần một cú đánh cảm xúc, một mạch kể mạnh và một kết thúc trọn vẹn; khoa học hiếm khi cung cấp đủ những thứ đó, nên dễ bị cám dỗ đơn giản hoá quá mức và nói quá. Câu chuyện phải trung thực với bằng chứng: điểm mạnh, điểm yếu và độ bất định của nó.
+
+Lý tưởng là câu chuyện có thể nói rằng một loại thuốc hay can thiệp y tế khác không tốt cũng không xấu: nó có lợi ích và tác dụng phụ, người khác nhau có thể cân nhắc chúng theo những cách khác nhau, và đi tới những kết luận khác nhau một cách hoàn toàn hợp lý. Nhà báo có vẻ né tránh những mạch kể nhiều sắc thái như vậy, nhưng (chẳng hạn bằng cách đưa lời kể của những người có quan điểm khác nhau) một người truyền đạt giỏi phải làm được cho những câu chuyện này hấp dẫn.
 
 Ví dụ, Christie Aschwanden của trang *FiveThirtyEight* (bài "Science Won't Settle the Mammogram Debate", 20/10/2015) đã bàn các số liệu thống kê về sàng lọc ung thư vú bằng chụp nhũ ảnh, rồi nói rằng bà quyết định không làm thủ thuật này, trong khi một người bạn thông minh của bà, được cung cấp chính xác cùng bằng chứng đó, lại đưa ra quyết định ngược lại. Câu chuyện này khẳng định gọn gàng tầm quan trọng của giá trị và mối bận tâm cá nhân, trong khi vẫn tôn trọng bằng chứng thống kê.
 
@@ -381,9 +387,13 @@ Uri Simonsohn đặc biệt thẳng thắn khi lập luận rằng người bìn
 
 Nhưng, với tư cách người đã tự mình bình duyệt hàng trăm bài báo khoa học, tác giả nói không phải lúc nào cũng dễ nhận ra vấn đề. Bảng kiểm có thể hữu ích nhưng có thể bị tác giả bài báo "lách" để bài trông hợp lý. Ông thừa nhận đã phát triển một "cái mũi" đa nghi, bắt đầu đánh hơi những dấu hiệu, chẳng hạn, đã có rất nhiều phép so sánh được làm và chỉ những phép "thú vị" được báo cáo.
 
-Cái mũi đó chắc chắn phải bắt đầu phản ứng khi một kết quả có vẻ quá đẹp để là thật, chẳng hạn khi quan sát được một hiệu ứng lớn trong một mẫu nhỏ. Một ví dụ kinh điển là một nghiên cứu năm 2007 được quảng bá rộng rãi, tuyên bố cho thấy người hấp dẫn sinh nhiều con gái hơn. Trong một khảo sát thanh thiếu niên ở Mỹ, "độ hấp dẫn ngoại hình" của họ được chấm trên thang năm bậc; mười lăm năm sau, trong số những người từng được chấm "rất hấp dẫn" khi ở tuổi thiếu niên, chỉ 44% con đầu lòng là con trai, so với mức chuẩn 52% ở mọi người "bình thường hơn" (như John Arbuthnot đã chỉ ra từ năm 1710, trung bình số bé trai sinh ra hơi nhiều hơn bé gái). Phát hiện này có ý nghĩa thống kê, nhưng như Andrew Gelman đã chỉ ra (Gelman và Weakliem, *American Scientist*, 2009), hiệu ứng này quá lớn để có thể hợp lý, và lại chỉ xuất hiện ở nhóm "hấp dẫn nhất". Không có gì trong bài báo cho thấy kết quả này hoàn toàn phi lý — cần kiến thức bên ngoài.
+Cái mũi đó chắc chắn phải bắt đầu phản ứng khi một kết quả có vẻ quá đẹp để là thật, chẳng hạn khi quan sát được một hiệu ứng lớn trong một mẫu nhỏ. Một ví dụ kinh điển là một nghiên cứu năm 2007 được quảng bá rộng rãi, tuyên bố cho thấy người hấp dẫn sinh nhiều con gái hơn.
 
-*Minh hoạ của người tổng hợp (số liệu giả định, không có trong sách) vì sao "có ý nghĩa" ở đây vẫn gần như chắc chắn là nhiễu.* Giả sử nhóm "rất hấp dẫn" có 300 người. Sai số chuẩn của tỷ lệ con trai là √(0,52 × 0,48 / 300) = √0,000832 ≈ 0,029, tức 2,9 điểm phần trăm. Chênh lệch 8 điểm phần trăm bằng khoảng 2,8 sai số chuẩn, nên "có ý nghĩa" (P hai phía khoảng 0,006). Nhưng theo hiểu biết của người tổng hợp, các yếu tố được biết rõ là ảnh hưởng tới tỷ lệ giới tính khi sinh chỉ làm thay đổi nó cỡ dưới 1 điểm phần trăm. Nếu hiệu ứng thật là 0,5 điểm phần trăm, một nghiên cứu với sai số chuẩn 2,9 điểm chỉ có khoảng 5% cơ hội cho kết quả có ý nghĩa — gần như bằng mức may rủi — và bất kỳ kết quả nào đạt ý nghĩa cũng phải có chênh lệch ít nhất 1,96 × 2,9 ≈ 5,7 điểm, tức phóng đại hơn mười lần. Đó chính là ý "hiệu ứng lớn trong mẫu nhỏ là đáng ngờ".
+Trong một khảo sát thanh thiếu niên ở Mỹ, "độ hấp dẫn ngoại hình" của họ được chấm trên thang năm bậc; mười lăm năm sau, trong số những người từng được chấm "rất hấp dẫn" khi ở tuổi thiếu niên, chỉ 44% con đầu lòng là con trai, so với mức chuẩn 52% ở mọi người "bình thường hơn" (như John Arbuthnot đã chỉ ra từ năm 1710, trung bình số bé trai sinh ra hơi nhiều hơn bé gái). Phát hiện này có ý nghĩa thống kê, nhưng như Andrew Gelman đã chỉ ra (Gelman và Weakliem, *American Scientist*, 2009), hiệu ứng này quá lớn để có thể hợp lý, và lại chỉ xuất hiện ở nhóm "hấp dẫn nhất". Không có gì trong bài báo cho thấy kết quả này hoàn toàn phi lý — cần kiến thức bên ngoài.
+
+*Minh hoạ của người tổng hợp (số liệu giả định, không có trong sách) vì sao "có ý nghĩa" ở đây vẫn gần như chắc chắn là nhiễu.* Giả sử nhóm "rất hấp dẫn" có 300 người. Sai số chuẩn của tỷ lệ con trai là √(0,52 × 0,48 / 300) = √0,000832 ≈ 0,029, tức 2,9 điểm phần trăm. Chênh lệch 8 điểm phần trăm bằng khoảng 2,8 sai số chuẩn, nên "có ý nghĩa" (P hai phía khoảng 0,006).
+
+Nhưng theo hiểu biết của người tổng hợp, các yếu tố được biết rõ là ảnh hưởng tới tỷ lệ giới tính khi sinh chỉ làm thay đổi nó cỡ dưới 1 điểm phần trăm. Nếu hiệu ứng thật là 0,5 điểm phần trăm, một nghiên cứu với sai số chuẩn 2,9 điểm chỉ có khoảng 5% cơ hội cho kết quả có ý nghĩa — gần như bằng mức may rủi — và bất kỳ kết quả nào đạt ý nghĩa cũng phải có chênh lệch ít nhất 1,96 × 2,9 ≈ 5,7 điểm, tức phóng đại hơn mười lần. Đó chính là ý "hiệu ứng lớn trong mẫu nhỏ là đáng ngờ".
 
 ### 5. Thiên lệch công bố (Publication Bias, trang PDF 237–238)
 
@@ -412,7 +422,9 @@ Simonsohn và cộng sự (Simonsohn, Nelson và Simmons, *Perspectives on Psych
 
 Dù ta là nhà báo, người kiểm chứng thông tin, học giả, người làm nghề trong chính phủ, doanh nghiệp hay tổ chức phi chính phủ, hay đơn giản là thành viên của công chúng, ta thường xuyên được nghe những tuyên bố dựa trên bằng chứng thống kê. Đánh giá độ đáng tin của tuyên bố thống kê có vẻ là một kỹ năng sống còn trong thế giới hiện đại.
 
-Hãy đưa ra giả định táo bạo rằng mọi người tham gia thu thập, phân tích và sử dụng thống kê đều tuân theo một khung đạo đức trong đó lòng tin là tối thượng. Onora O'Neill, một triết gia lỗi lạc về Kant và là người có thẩm quyền về lòng tin, nhấn mạnh rằng người ta không nên tìm cách được tin, vì lòng tin là thứ người khác trao, mà nên chứng tỏ sự đáng tin cậy (trustworthiness) của công việc mình. O'Neill đưa ra một số bảng kiểm ngắn sắc sảo: chẳng hạn, sự đáng tin cậy đòi hỏi trung thực, năng lực và tính ổn định. Nhưng bà cũng chỉ ra rằng cần có bằng chứng của sự đáng tin cậy, và điều đó có nghĩa là phải minh bạch — không phải bằng cách chỉ đổ đống dữ liệu lên người nghe, mà là "minh bạch thông minh" (intelligent transparency). (Chú thích cuối chương dẫn báo cáo *Science as an Open Enterprise* của Hội Hoàng gia Anh năm 2012 về "sự cởi mở thông minh", và bài nói TEDx của O'Neill "What We Don't Understand About Trust", tháng 6/2013.) Điều này có nghĩa là các tuyên bố dựa trên dữ liệu cần:
+Hãy đưa ra giả định táo bạo rằng mọi người tham gia thu thập, phân tích và sử dụng thống kê đều tuân theo một khung đạo đức trong đó lòng tin là tối thượng. Onora O'Neill, một triết gia lỗi lạc về Kant và là người có thẩm quyền về lòng tin, nhấn mạnh rằng người ta không nên tìm cách được tin, vì lòng tin là thứ người khác trao, mà nên chứng tỏ sự đáng tin cậy (trustworthiness) của công việc mình. O'Neill đưa ra một số bảng kiểm ngắn sắc sảo: chẳng hạn, sự đáng tin cậy đòi hỏi trung thực, năng lực và tính ổn định.
+
+Nhưng bà cũng chỉ ra rằng cần có bằng chứng của sự đáng tin cậy, và điều đó có nghĩa là phải minh bạch — không phải bằng cách chỉ đổ đống dữ liệu lên người nghe, mà là "minh bạch thông minh" (intelligent transparency). (Chú thích cuối chương dẫn báo cáo *Science as an Open Enterprise* của Hội Hoàng gia Anh năm 2012 về "sự cởi mở thông minh", và bài nói TEDx của O'Neill "What We Don't Understand About Trust", tháng 6/2013.) Điều này có nghĩa là các tuyên bố dựa trên dữ liệu cần:
 
 | Tiêu chí | Nghĩa |
 |---|---|
@@ -510,7 +522,9 @@ Sai lệch giữa dự báo và thực tế (thực tế trừ dự báo, ngư�
 | 2015 | +15 | −7 | −2 | −2 | −4 | 15 |
 | 2017 | +4 | −4 | −2 | +1 | +1 | 4 |
 
-Như sách viết, ở cuộc bầu cử tháng 6/2017 số ghế dự báo gần một cách đáng kinh ngạc, lệch nhiều nhất bốn ghế so với kết quả cuối cùng ở mọi đảng. Bảng cho thấy trong ba cuộc bầu cử gần nhất ở Anh, phương pháp thống kê tinh vi này có độ chính xác đặc biệt. Năm 2015, họ dự báo Đảng Dân chủ Tự do mất ghế rất nặng, từ 57 ghế xuống 10, và một chính trị gia nổi bật của đảng này, Paddy Ashdown, nói trong một cuộc phỏng vấn truyền hình trực tiếp rằng ông sẽ "ăn mũ của mình" nếu họ đúng. Thực tế Đảng Dân chủ Tự do chỉ giành được 8 ghế. (Chú thích của tác giả: không có ghi chép nào cho thấy Paddy Ashdown đã thực hiện lời hứa, dù ông vẫn bị trêu về chuyện đó; và tác giả đang trong một cuộc phỏng vấn radio bàn về cuộc thăm dò này thì có người mang vào một chiếc mũ sô-cô-la lớn để mọi người cùng ăn.) Người tổng hợp lưu ý thêm: năm 2015, dự báo cho Đảng Bảo thủ lệch 15 ghế — vẫn trong phạm vi sai số khoảng 20 ghế mà sách nêu, và vẫn đúng chiều quan trọng (Bảo thủ dẫn đầu xa), nhưng kém chính xác hơn hẳn hai năm còn lại.
+Như sách viết, ở cuộc bầu cử tháng 6/2017 số ghế dự báo gần một cách đáng kinh ngạc, lệch nhiều nhất bốn ghế so với kết quả cuối cùng ở mọi đảng. Bảng cho thấy trong ba cuộc bầu cử gần nhất ở Anh, phương pháp thống kê tinh vi này có độ chính xác đặc biệt. Năm 2015, họ dự báo Đảng Dân chủ Tự do mất ghế rất nặng, từ 57 ghế xuống 10, và một chính trị gia nổi bật của đảng này, Paddy Ashdown, nói trong một cuộc phỏng vấn truyền hình trực tiếp rằng ông sẽ "ăn mũ của mình" nếu họ đúng.
+
+Thực tế Đảng Dân chủ Tự do chỉ giành được 8 ghế. (Chú thích của tác giả: không có ghi chép nào cho thấy Paddy Ashdown đã thực hiện lời hứa, dù ông vẫn bị trêu về chuyện đó; và tác giả đang trong một cuộc phỏng vấn radio bàn về cuộc thăm dò này thì có người mang vào một chiếc mũ sô-cô-la lớn để mọi người cùng ăn.) Người tổng hợp lưu ý thêm: năm 2015, dự báo cho Đảng Bảo thủ lệch 15 ghế — vẫn trong phạm vi sai số khoảng 20 ghế mà sách nêu, và vẫn đúng chiều quan trọng (Bảo thủ dẫn đầu xa), nhưng kém chính xác hơn hẳn hai năm còn lại.
 
 Truyền thông chỉ đưa ra một ước lượng cho số ghế dự báo, nhưng khoảng sai số cho tổng số ghế của đảng thắng được cho là khoảng 20 ghế. Độ chính xác trong quá khứ tốt hơn mức đó một chút, nên có lẽ các nhà thống kê đã khá may mắn. Nhưng họ xứng đáng với sự may mắn đó: họ đã minh hoạ tuyệt đẹp cách khoa học thống kê có thể dẫn tới những kết luận mạnh mẽ, gây ấn tượng với cả công chúng lẫn giới chuyên môn. Những người nghe này ít hình dung được độ phức tạp của các phương pháp bên dưới, và rằng thành tích phi thường này là nhờ sự chú ý tỉ mỉ tới từng chi tiết trong toàn bộ chu trình giải quyết vấn đề.
 
@@ -695,3 +709,159 @@ Mười câu hỏi chia ba nhóm là đóng góp hữu ích nhất của chươn
 - **Cho người đọc báo:** khi đọc tin về một nghiên cứu, chạy nhanh mười câu hỏi, ít nhất là ba câu: nguồn muốn tôi nghe điều này vì sao (câu 4), tôi không được kể điều gì (câu 6), hiệu ứng có quan trọng về mặt thực tế không (câu 10). Trước khi đọc kỹ, tự hỏi: kết quả này có hợp lý với những gì tôi biết không; nếu nghe "quá đẹp", hãy tìm cỡ mẫu. Với quyết định cá nhân như đi sàng lọc, chấp nhận rằng cùng bằng chứng có thể dẫn tới lựa chọn khác nhau tuỳ giá trị của mỗi người.
 - **Cho nhà phân tích:** đăng ký trước kế hoạch phân tích cho các nghiên cứu khẳng định, nhưng suy nghĩ kỹ về hình dạng hiệu ứng có thể có (tác dụng muộn, ca hiện mắc) trước khi khoá kế hoạch; báo cáo phân tích chính trung thực, trình bày phân tích phụ rõ ràng là phân tích phụ; chia sẻ dữ liệu và mã; khi bình duyệt hoặc rà soát, kiểm tra độ vững của kết quả với các lựa chọn phân tích và đối chiếu độ lớn hiệu ứng với hiểu biết bên ngoài; khi tổng hợp tài liệu, kiểm tra thiên lệch công bố (đường cong P, các kết quả dồn sát 0,05); trình bày theo bốn tiêu chí truy cập được, hiểu được, đánh giá được, dùng được.
 - **Cho người làm chính sách:** coi thăm dò sau bỏ phiếu như hình mẫu cho các hệ thống dự báo chính thức — thiết kế ổn định qua thời gian, mô hình theo đặc điểm dân cư, có độ bất định, và kiểm chứng công khai sau khi có kết quả; khi truyền đạt chính sách, tránh tình trạng tranh luận thống kê "thảm hại" như chiến dịch Brexit bằng cách nêu cả lợi, hại và độ bất định; với các quyết định sàng lọc hay can thiệp y tế, đừng dựa riêng vào phân tích phụ hấp dẫn khi phân tích chính định trước không có ý nghĩa — chờ xác nhận; xây dựng quy tắc đạo đức dữ liệu cho cơ quan mình, nhất là khi dùng dữ liệu cá nhân và thuật toán ra quyết định.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 13 trên một trang: sáu nhánh đi theo thứ tự các mục của bản gốc (phần mở đầu về thử nghiệm sàng lọc ung thư buồng trứng và ba nhóm trong đường ống, cải thiện điều được tạo ra, cải thiện truyền đạt, chỉ ra thực hành kém và thiên lệch công bố, đánh giá tuyên bố và đạo đức dữ liệu, ví dụ thăm dò sau bỏ phiếu), mỗi nhánh ghi luận điểm, công cụ và ví dụ có số liệu; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 13: người tạo ra, người truyền đạt và người nghe đều phải hành động để thống kê được dùng tốt hơn`"]
+  n1["`Phần mở đầu chương — thử nghiệm sàng lọc ung thư buồng trứng UKCTOCS`"]
+  n0 --- n1
+  n2["`Hơn 200 000 phụ nữ phân ngẫu nhiên, tính lực cẩn thận, đề cương định trước`"]
+  n1 --- n2
+  n3["`Sau trung bình 11 năm, phân tích chính không có ý nghĩa thống kê và được báo cáo trung thực`"]
+  n1 --- n3
+  n4["`Báo Independent vẫn giật tít “đột phá” xét nghiệm máu`"]
+  n1 --- n4
+  n5["`Ba nhóm cần hành động`"]
+  n1 --- n5
+  n6["`Người tạo ra (nhà khoa học, công ty khảo sát) làm thống kê tốt hơn`"]
+  n5 --- n6
+  n7["`Người truyền đạt (tạp chí, văn phòng báo chí, nhà báo) truyền đạt tốt hơn`"]
+  n5 --- n7
+  n8["`Người nghe (công chúng, nhà hoạch định chính sách) kiểm tra tốt hơn`"]
+  n5 --- n8
+  n9["`Mục Improving What Is Produced — cải thiện điều được tạo ra`"]
+  n0 --- n9
+  n10["`Tuyên ngôn về khoa học tái lập (Munafò và cộng sự, 2017) gồm sáu nhóm đề xuất`"]
+  n9 --- n10
+  n11["`Đăng ký trước thiết kế và phân tích, báo cáo rõ điều đã làm`"]
+  n10 --- n11
+  n12["`Khuyến khích lặp lại, đa dạng hoá bình duyệt, khen thưởng minh bạch`"]
+  n10 --- n12
+  n13["`Khung Khoa học Mở (OSF) khuyến khích chia sẻ dữ liệu và đăng ký trước`"]
+  n9 --- n13
+  n14["`Phản biện: định trước hoàn toàn phi thực tế — lời giải là tách khám phá với khẳng định và báo cáo chuỗi lựa chọn`"]
+  n9 --- n14
+  n15["`Định trước có thể trói vào phân tích không phù hợp`"]
+  n9 --- n15
+  n16["`Bỏ ca hiện mắc: sàng lọc đa phương thức giảm tử vong 20% (P = 0,02)`"]
+  n15 --- n16
+  n17["`Giai đoạn 7–14 năm sau phân nhóm: giảm 23% có ý nghĩa`"]
+  n15 --- n17
+  n18["`Nhóm tác giả: không lường trước tác dụng muộn của sàng lọc`"]
+  n15 --- n18
+  n19["`Không có ý nghĩa ở phân tích chính không có nghĩa là không có hiệu ứng`"]
+  n9 --- n19
+  n20["`Mục Improving Communication — cải thiện việc truyền đạt`"]
+  n0 --- n20
+  n21["`Nhà thống kê soạn hướng dẫn đưa tin và đào tạo nhà báo — báo chí dữ liệu phát triển mạnh`"]
+  n20 --- n21
+  n22["`Khuôn kể chuyện cần cú đánh cảm xúc và kết thúc trọn vẹn nên dễ đơn giản hoá, nói quá`"]
+  n20 --- n22
+  n23["`Câu chuyện phải trung thực với điểm mạnh, điểm yếu và độ bất định của bằng chứng`"]
+  n20 --- n23
+  n24["`Christie Aschwanden (FiveThirtyEight) không chụp nhũ ảnh, bạn bà chọn chụp — cùng bằng chứng, khác giá trị`"]
+  n20 --- n24
+  n25["`Cần nghiên cứu cách truyền đạt bất định mà không mất lòng tin, sau tranh luận Brexit thảm hại`"]
+  n20 --- n25
+  n26["`Mục Helping to Call Out Poor Practice và Publication Bias — chỉ ra thực hành kém`"]
+  n0 --- n26
+  n27["`Simonsohn: người bình duyệt chặt hơn về độ vững, khoan dung hơn với kết quả không hoàn hảo`"]
+  n26 --- n27
+  n28["`Cái mũi nghi ngờ của tác giả: kết quả quá đẹp để là thật, hiệu ứng lớn trong mẫu nhỏ`"]
+  n26 --- n28
+  n29["`Người hấp dẫn sinh nhiều con gái hơn (2007)`"]
+  n26 --- n29
+  n30["`Nhóm rất hấp dẫn có 44% con đầu lòng là trai so với 52%`"]
+  n29 --- n30
+  n31["`Gelman: hiệu ứng quá lớn để hợp lý — cần kiến thức bên ngoài bài báo`"]
+  n29 --- n31
+  n32["`Thiên lệch công bố làm hỏng tổng quan hệ thống`"]
+  n26 --- n32
+  n33["`Đường cong P`"]
+  n26 --- n33
+  n34["`Không có hiệu ứng thì giá trị P phân bố đều từ 0 tới 1`"]
+  n33 --- n34
+  n35["`Đáng ngờ: P dồn ngay dưới 0,05 hoặc rải đều từ 0 tới 0,05`"]
+  n33 --- n35
+  n36["`Tài liệu “quá nhiều lựa chọn gây hậu quả xấu” cho thấy thiên lệch công bố đáng kể`"]
+  n33 --- n36
+  n37["`Mục Assessing a Statistical Claim or Story và Data Ethics — đánh giá tuyên bố`"]
+  n0 --- n37
+  n38["`Onora O'Neill: đừng đòi được tin, hãy chứng tỏ sự đáng tin cậy`"]
+  n37 --- n38
+  n39["`Minh bạch thông minh: thông tin truy cập được, hiểu được, đánh giá được, dùng được`"]
+  n37 --- n39
+  n40["`Mười câu hỏi chia ba nhóm`"]
+  n37 --- n40
+  n41["`Con số đáng tin đến đâu — độ chặt chẽ, độ bất định, cách tóm tắt`"]
+  n40 --- n41
+  n42["`Nguồn đáng tin đến đâu — nguồn có thiên lệch, có bị xoay, tôi không được kể điều gì`"]
+  n40 --- n42
+  n43["`Cách diễn giải — khớp hiểu biết khác, lời giải thích, liên quan người nghe, tầm quan trọng`"]
+  n40 --- n43
+  n44["`Câu tôi không được kể điều gì là câu quan trọng nhất`"]
+  n37 --- n44
+  n45["`Đạo đức dữ liệu còn đang hình thành và sẽ thành phần bắt buộc trong đào tạo thống kê`"]
+  n37 --- n45
+  n46["`Mục An Example of Good Statistical Science — thăm dò sau bỏ phiếu bầu cử Anh 2017`"]
+  n0 --- n46
+  n47["`Vài phút sau 22 giờ dự báo quốc hội treo, trái với các thăm dò trước bầu cử`"]
+  n46 --- n47
+  n48["`Kết quả đã cố định nhưng chưa biết — bất định nhận thức`"]
+  n46 --- n48
+  n49["`Kế hoạch của Firth, Kuha và Curtice: khoảng 200 cử tri ở mỗi điểm trong cùng 144 điểm bỏ phiếu`"]
+  n46 --- n49
+  n50["`Hỏi cả phiếu lần này và lần trước để ước lượng dịch chuyển phiếu`"]
+  n46 --- n50
+  n51["`Hồi quy dịch chuyển phiếu theo đặc điểm dân cư rồi áp cho khoảng 650 khu vực (MRP)`"]
+  n46 --- n51
+  n52["`Năm 2017 lệch nhiều nhất 4 ghế mỗi đảng — năm 2015 dự báo Dân chủ Tự do 10 ghế, thực tế 8`"]
+  n46 --- n52
+  n53["`Sai số khoảng 20 ghế, có phần may mắn nhưng xứng đáng nhờ tỉ mỉ trọn chu trình PPDAC`"]
+  n46 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Đăng ký trước là công cụ, không thay được tư duy`"]
+  n54 --- n55
+  n56["`Trước hết hãy cảm nhận xem tuyên bố có hợp lý không`"]
+  n54 --- n56
+  n57["`Thống kê làm tốt có thể đúng ngoạn mục — hoài nghi không có nghĩa là bác bỏ mọi con số`"]
+  n54 --- n57
+  class n0 root
+  class n1,n9,n20,n26,n37,n46,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican, Anh, 3/2019), Chương 13 "How We Can Do Statistics Better", trang PDF 235–243. Ebook không có số trang in, nên vị trí được ghi bằng chỉ số trang PDF và tên tiểu mục của sách.
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) chỉ ra thống kê bị làm tồi dọc theo cả "đường ống" từ người tạo số liệu tới công chúng: lỗi phương pháp, gian lận, thực hành nghiên cứu đáng ngờ, và các thực hành diễn giải, truyền đạt đáng ngờ của văn phòng báo chí và truyền thông. Chương 13 là mặt tích cực của cùng bức tranh: ba nhóm trong đường ống — người tạo ra thống kê, người truyền đạt, và người nghe — mỗi nhóm có thể làm gì để thống kê được dùng tốt hơn.
+
+Chương dùng lại nhiều công cụ đã học: kiểm định giả thuyết và giá trị P (Chương 10, [C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)), các bước suy luận từ dữ liệu tới tổng thể mục tiêu (Chương 3, [C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)), hồi quy đa mức và hậu phân tầng MRP (Chương 11, [C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)), độ bất định nhận thức (Chương 7 và 8, [C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md), [C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)), tính công bằng và minh bạch của thuật toán (Chương 6, [C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)), và kết bằng một ví dụ "thống kê tốt" đi trọn chu trình PPDAC của phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)). Chương 14 ([C14-ket-luan.md](C14-ket-luan.md)) sau đó gói bài học thành mười quy tắc.
+
+## Lưu ý
+
+- **Lỗi chính tả trong sách:** trang PDF 237 viết "the total implausibily of this result"; đúng là "implausibility".
+- **"600 or so constituencies" (trang PDF 241):** Hạ viện Anh có 650 khu vực bầu cử (chính các dòng của Bảng 13.1 cộng lại 649–650 ghế). "Khoảng 600" là cách nói rất tròn, hơi thấp; bản tổng hợp ghi cả hai.
+- **Bảng 13.1 (trang PDF 241) đã đối chiếu ảnh trang:** năm 2010 không có cột riêng cho Đảng Quốc gia Scotland (SNP), số ghế của SNP nằm trong cột "Các đảng khác". Tổng mỗi dòng: 2010 dự báo 307 + 255 + 59 + 29 = 650, thực tế 307 + 258 + 57 + 28 = 650; 2015 dự báo 316 + 239 + 10 + 58 + 27 = 650, thực tế 331 + 232 + 8 + 56 + 23 = 650; 2017 dự báo 314 + 266 + 14 + 34 + 21 = 649, thực tế 318 + 262 + 12 + 35 + 22 = 649. Dòng 2017 thiếu 1 ghế ở cả hai hàng; theo hiểu biết của người tổng hợp, đó là ghế của Chủ tịch Hạ viện (Speaker), không thuộc đảng nào, nên không làm sai so sánh.
+- **Tuyên bố "lệch nhiều nhất bốn ghế" cho năm 2017 đã kiểm tra:** Bảo thủ 318 − 314 = 4; Công đảng 266 − 262 = 4; Dân chủ Tự do 14 − 12 = 2; SNP 35 − 34 = 1; các đảng khác 22 − 21 = 1. Đúng. Với năm 2015, dự báo cho Đảng Bảo thủ lệch 331 − 316 = 15 ghế; sách gọi độ chính xác của cả ba lần là "đặc biệt", điều này vẫn hợp lý so với sai số khoảng 20 ghế mà sách nêu, nhưng năm 2015 không chính xác tới mức năm 2010 và 2017 (nhận xét của người tổng hợp).
+- **Các phép tính khác đã tự kiểm tra:** 200 người × 144 điểm bỏ phiếu ≈ 28.800 cuộc phỏng vấn; 144 / 40.000 = 0,36% số điểm bỏ phiếu; Dân chủ Tự do được dự báo giảm từ 57 xuống 10 ghế năm 2015 và thực tế còn 8; tỷ lệ con trai 44% so với 52% là chênh 8 điểm phần trăm. Các phép tính minh hoạ về đường cong P và về ví dụ "người đẹp sinh con gái" là của người tổng hợp và được ghi rõ.
+- **Con số 52% bé trai** được sách gọi là "chuẩn"; theo hiểu biết của người tổng hợp, tỷ lệ bé trai khi sinh thường khoảng 51–51,5%, nên 52% là con số làm tròn của nghiên cứu được dẫn. Không ảnh hưởng lập luận.
+- **Chương không có hình (Figure).** Bảng duy nhất là Bảng 13.1; trong lớp chữ ebook, bảng này bị tách khỏi chương và dồn về cuối sách (trang PDF 394–395) dưới dạng chú thích dấu sao, nên đã được dựng lại theo ảnh trang PDF 241. Dòng "Others" trong lớp chữ bị gõ thành "0thers" (số 0 thay cho chữ O).
+- **Chú thích dấu sao:** chương có một footnote thật (về lời hứa "ăn mũ" của Paddy Ashdown), lấy từ danh sách footnote của cả sách bằng cách khớp nội dung; danh sách footnote ghép sau chương trong bản trích bị lệch sang chương khác (bảng sai lầm loại I/II, bảng tỷ số khả năng của Richard III).
+- **Ý cuối của phần Tóm tắt** ("trước hết hãy cảm nhận xem tuyên bố có hợp lý không") không được trình bày thành một tiểu mục trong chương; nó tương ứng với "cái mũi" nghi ngờ khi một kết quả "quá đẹp để là thật" trong mục "Helping to Call Out Poor Practice".

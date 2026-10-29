@@ -1,22 +1,22 @@
 # Chương 12 — Những điều có thể sai (How Things Go Wrong)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican, Anh, 3/2019), Chương 12 "How Things Go Wrong", trang PDF 223–234. Ebook không có số trang in, nên vị trí được ghi bằng chỉ số trang PDF và tên tiểu mục của sách.
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đặt khung chu trình PPDAC (Vấn đề, Kế hoạch, Dữ liệu, Phân tích, Kết luận). Chương 1–7 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md) đến [C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) dạy cách tóm tắt, truyền đạt, suy ra tổng thể, tìm nhân quả, lập mô hình và ước lượng; Chương 8–11 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md) đến [C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) dựng nền xác suất, khoảng tin cậy, kiểm định giả thuyết và suy luận Bayes. Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) đã cảnh báo về kiểm định nhiều lần và cho thấy, ngay cả khi thực hành hoàn hảo, khoảng 36% "phát hiện" có thể là sai. Chương 12 là chương "phản diện" của cuốn sách: sau mười một chương giới thiệu thống kê được làm tốt, nó chỉ ra thống kê bị làm tồi ở từng khâu của PPDAC, từ lỗi bảng tính, gian lận cố ý, "thực hành nghiên cứu đáng ngờ", tới các bộ lọc bóp méo trên đường bằng chứng đi từ phòng thí nghiệm tới công chúng. Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) trả lời câu hỏi ngược lại: làm sao để thống kê tốt hơn; Chương 14 ([C14-ket-luan.md](C14-ket-luan.md)) gói bài học thành mười quy tắc.
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **thực hành thống kê kém là một phần nguyên nhân của "khủng hoảng tái lập" trong khoa học; gian lận dữ liệu cố ý có vẻ khá hiếm, lỗi về phương pháp thống kê thì thường gặp, nhưng vấn đề lớn hơn cả là các "thực hành nghiên cứu đáng ngờ" — những điều chỉnh nhỏ, có ý thức hay vô thức, tuỳ theo dữ liệu trông thế nào — làm thổi phồng ý nghĩa thống kê; và trên đường bằng chứng tới công chúng, văn phòng báo chí, nhà báo và biên tập viên thêm vào dòng tuyên bố thống kê thiếu cơ sở qua các "thực hành diễn giải và truyền đạt đáng ngờ".** Chương mở bằng câu hỏi ngoại cảm có thật không: năm 2011, nhà tâm lý học Daryl Bem công bố rằng sinh viên đoán đúng vị trí ảnh khiêu dâm 53% số lần thay vì 50% (P = 0,01), và tám trên chín nghiên cứu của ông có ý nghĩa thống kê. Mục "The 'Reproducibility Crisis'" kể Dự án Tái lập (Reproducibility Project) làm lại 100 nghiên cứu tâm lý học: 97% nghiên cứu gốc có ý nghĩa nhưng chỉ 36% nghiên cứu lặp lại có ý nghĩa; tuy vậy chỉ 23% cặp gốc và lặp lại khác nhau có ý nghĩa, và hiệu ứng lặp lại bằng khoảng một nửa hiệu ứng gốc — "hồi quy về giá trị không". Phần tiếp theo đi lần lượt qua năm khâu PPDAC: câu hỏi không thể trả lời (vì sao tỷ lệ mang thai tuổi teen ở Anh giảm), kế hoạch hỏng (mẫu tiện lợi, câu hỏi dẫn dắt, so sánh không công bằng, cỡ mẫu nhỏ), dữ liệu thiếu, phân tích sai (lỗi bảng tính của Reinhart và Rogoff, lỗi lập trình làm AXA Rosenberg bị phạt 242 triệu USD, phân tích sai thử nghiệm ngẫu nhiên theo cụm, so sánh "có ý nghĩa" với "không có ý nghĩa") và kết luận chọn lọc (giám đốc Harkonen bị kết tội lừa đảo vì công bố một phân tích nhóm con; bài báo "sô-cô-la giúp giảm cân" của nhà báo John Bohannon). Mục "Deliberate Fraud" cho biết khoảng 2% nhà khoa học thừa nhận làm giả dữ liệu, và kể cách Uri Simonsohn dùng thống kê bắt gian lận (ba độ lệch chuẩn đều bằng 25,11) cùng nghi án Cyril Burt (hệ số tương quan IQ của cặp sinh đôi 0,770, 0,771, 0,771 qua ba thập kỷ). Mục "'Questionable Research Practices'" định nghĩa mức tự do của nhà nghiên cứu, phân biệt nghiên cứu khám phá và khẳng định, kể thí nghiệm nghe bài "When I'm Sixty-Four" làm người ta "trẻ ra" và khảo sát 2.155 nhà tâm lý học Mỹ (94% thừa nhận ít nhất một thực hành đáng ngờ). Mục "Communication Breakdown" mô tả đường ống thông tin từ nguồn số liệu tới công chúng với ba bộ lọc: tài liệu khoa học (thiên lệch "ngăn kéo hồ sơ"), văn phòng báo chí (trong 462 thông cáo của các đại học Anh, 40% có lời khuyên phóng đại, 33% có tuyên bố nhân quả phóng đại) và truyền thông (mười một thực hành đáng ngờ, nổi bật nhất là chỉ nêu rủi ro tương đối; tít "xem TV liền mạch có thể giết bạn" ứng với khoảng 12.000 năm xem TV hơn 5 giờ mỗi tối mới gặp một ca). Chương khép lại với Bem: ông điều chỉnh thiết kế theo dữ liệu và chọn nhóm để nhấn mạnh, một ví dụ kinh điển của lạm dụng mức tự do của nhà nghiên cứu, nhưng bài báo của ông đã thúc đẩy giới khoa học tự xét lại mình.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lỗi chính tả trong sách:** đoạn đầu trang PDF 224 viết "Ioannadis's original claim"; đúng là Ioannidis (John Ioannidis), như chính sách viết ở câu trước.
-> - **Con số "63% còn lại" chưa khớp (nhận xét của người tổng hợp):** sách nói 36% nghiên cứu lặp lại có ý nghĩa, rồi gọi "63% còn lại" là bị báo chí coi là sai. 100% − 36% = 64%. Theo hiểu biết của người tổng hợp, trong bài của Open Science Collaboration (2015), 35 trên 97 nghiên cứu gốc có ý nghĩa cho kết quả lặp lại có ý nghĩa (35 / 97 = 36,1%), phần còn lại là 62 / 97 = 63,9%, nên con số đúng hơn là khoảng 64%. Sai lệch nhỏ, không đổi lập luận.
-> - **"Chương cuối về làm thống kê tốt" (trang PDF 227):** sách viết "as we shall see in the final chapter on doing stats well", nhưng chương bàn cách làm thống kê tốt hơn là Chương 13; chương cuối cùng (Chương 14) là phần kết ngắn với mười quy tắc.
-> - **Ví dụ rượu và tử vong không khớp hẳn với Chương 10 (nhận xét của người tổng hợp):** Chương 10 kể nghiên cứu này (Knott và cộng sự, 2015) "khẳng định chỉ phụ nữ lớn tuổi có thể được lợi"; Chương 12 lại nói nam giới 50–64 tuổi uống 15–20 đơn vị rượu mỗi tuần có nguy cơ tử vong giảm có ý nghĩa. Theo hiểu biết của người tổng hợp, bài báo gốc báo cáo cả hai kết quả (nam 50–64 tuổi ở mức 15–20 đơn vị, và nữ từ 65 tuổi trở lên), nên hai chương không mâu thuẫn mà mỗi chương kể một nửa. Bản tổng hợp ghi rõ điều này.
-> - **Ai đặt ra thuật ngữ "researcher degrees of freedom":** sách viết "Simonsohn calls these decisions 'researcher degrees of freedom'". Thuật ngữ xuất hiện trong bài của Simmons, Nelson và Simonsohn (2011) — chính bài được dẫn ở chú thích 9 của chương — nên chính xác hơn là của nhóm ba tác giả.
-> - **Khoản phạt của AXA Rosenberg:** sách gọi tổng 242 triệu USD là "fine" (tiền phạt). Phép cộng đúng (217 + 25 = 242), nhưng theo hiểu biết của người tổng hợp, 217 triệu USD là tiền bồi hoàn thiệt hại cho khách hàng, chỉ 25 triệu USD là tiền phạt dân sự.
-> - **Mẫu số của ba tỷ lệ về thông cáo báo chí (chỗ chưa chắc):** sách viết như thể 40%, 33% và 36% đều tính trên 462 thông cáo. Theo hiểu biết của người tổng hợp (không chắc chắn), tỷ lệ 36% "suy từ nghiên cứu trên động vật sang người" được tính trên các thông cáo về nghiên cứu động vật hoặc tế bào, không phải trên cả 462 thông cáo. Bản tổng hợp giữ cách viết của sách và ghi chú điều này.
-> - **Các phép tính đã tự kiểm tra:** 217 + 25 = 242 triệu USD; 158.000 / 13 = 12.154 năm, sách làm tròn "12.000 năm", đúng; 13 / 158.000 = 8,2 ca trên 100.000 người-năm; tỷ lệ đoán đúng 53% của Bem cao hơn mức may rủi 50% đúng 3 điểm phần trăm; 2% của 2.155 nhà tâm lý học là khoảng 43 người; 45 / 125 = 36% (cây tần số của Chương 10 được chép lại để chương tự đứng được). Các phép tính minh hoạ thêm (xác suất có ít nhất một kết quả "có ý nghĩa" khi làm nhiều kiểm định; mức chênh tuyệt đối trong ví dụ xem TV) là của người tổng hợp và được ghi rõ.
-> - **Hình 12.1 là sơ đồ khối, không có số:** gồm sáu ô và mũi tên (hai nguồn bằng chứng hội tụ vào văn phòng báo chí, rồi đi qua nhà báo, biên tập viên tới công chúng). Chú thích hình nói "ở mỗi khâu có các bộ lọc", nhưng sơ đồ không vẽ bộ lọc; bản tổng hợp chép lại sơ đồ và ghi bộ lọc theo lời văn. Hình nằm riêng ở trang PDF 229 (chỉ có ảnh), chú thích nằm ở trang PDF 230.
-> - **Chú thích dấu sao:** trong bản trích, danh sách footnote ghép sau chương bị lệch sang các chương khác (bảng hồi quy Galton, bảng khoanh tay, bảng giết người, bảng statin). Sáu footnote thật của chương (về Facebook và tỷ lệ mang thai tuổi teen, về tranh cãi Reinhart–Rogoff, danh sách câu hỏi "không liên quan" trong thí nghiệm Beatles, "nguyên tắc Groucho", câu nói của Bem và lời nhận xét của Gelman) được lấy từ danh sách footnote của cả sách bằng cách khớp nội dung, và đã đưa vào đúng chỗ.
-> - **Chương không có bảng số liệu lớn**; mọi con số đều nằm trong lời văn và đã được chép đủ.
+Spiegelhalter muốn người đọc hiểu rằng **thực hành thống kê kém là một phần nguyên nhân của "khủng hoảng tái lập" trong khoa học; gian lận dữ liệu cố ý có vẻ khá hiếm, lỗi về phương pháp thống kê thì thường gặp, nhưng vấn đề lớn hơn cả là các "thực hành nghiên cứu đáng ngờ" — những điều chỉnh nhỏ, có ý thức hay vô thức, tuỳ theo dữ liệu trông thế nào — làm thổi phồng ý nghĩa thống kê; và trên đường bằng chứng tới công chúng, văn phòng báo chí, nhà báo và biên tập viên thêm vào dòng tuyên bố thống kê thiếu cơ sở qua các "thực hành diễn giải và truyền đạt đáng ngờ".**
+
+Chương mở bằng câu hỏi ngoại cảm có thật không: năm 2011, nhà tâm lý học Daryl Bem công bố rằng sinh viên đoán đúng vị trí ảnh khiêu dâm 53% số lần thay vì 50% (P = 0,01), và tám trên chín nghiên cứu của ông có ý nghĩa thống kê.
+
+Mục "The 'Reproducibility Crisis'" kể Dự án Tái lập (Reproducibility Project) làm lại 100 nghiên cứu tâm lý học: 97% nghiên cứu gốc có ý nghĩa nhưng chỉ 36% nghiên cứu lặp lại có ý nghĩa; tuy vậy chỉ 23% cặp gốc và lặp lại khác nhau có ý nghĩa, và hiệu ứng lặp lại bằng khoảng một nửa hiệu ứng gốc — "hồi quy về giá trị không".
+
+Phần tiếp theo đi lần lượt qua năm khâu PPDAC: câu hỏi không thể trả lời (vì sao tỷ lệ mang thai tuổi teen ở Anh giảm), kế hoạch hỏng (mẫu tiện lợi, câu hỏi dẫn dắt, so sánh không công bằng, cỡ mẫu nhỏ), dữ liệu thiếu, phân tích sai (lỗi bảng tính của Reinhart và Rogoff, lỗi lập trình làm AXA Rosenberg bị phạt 242 triệu USD, phân tích sai thử nghiệm ngẫu nhiên theo cụm, so sánh "có ý nghĩa" với "không có ý nghĩa") và kết luận chọn lọc (giám đốc Harkonen bị kết tội lừa đảo vì công bố một phân tích nhóm con; bài báo "sô-cô-la giúp giảm cân" của nhà báo John Bohannon).
+
+Mục "Deliberate Fraud" cho biết khoảng 2% nhà khoa học thừa nhận làm giả dữ liệu, và kể cách Uri Simonsohn dùng thống kê bắt gian lận (ba độ lệch chuẩn đều bằng 25,11) cùng nghi án Cyril Burt (hệ số tương quan IQ của cặp sinh đôi 0,770, 0,771, 0,771 qua ba thập kỷ).
+
+Mục "'Questionable Research Practices'" định nghĩa mức tự do của nhà nghiên cứu, phân biệt nghiên cứu khám phá và khẳng định, kể thí nghiệm nghe bài "When I'm Sixty-Four" làm người ta "trẻ ra" và khảo sát 2.155 nhà tâm lý học Mỹ (94% thừa nhận ít nhất một thực hành đáng ngờ).
+
+Mục "Communication Breakdown" mô tả đường ống thông tin từ nguồn số liệu tới công chúng với ba bộ lọc: tài liệu khoa học (thiên lệch "ngăn kéo hồ sơ"), văn phòng báo chí (trong 462 thông cáo của các đại học Anh, 40% có lời khuyên phóng đại, 33% có tuyên bố nhân quả phóng đại) và truyền thông (mười một thực hành đáng ngờ, nổi bật nhất là chỉ nêu rủi ro tương đối; tít "xem TV liền mạch có thể giết bạn" ứng với khoảng 12.000 năm xem TV hơn 5 giờ mỗi tối mới gặp một ca).
+
+Chương khép lại với Bem: ông điều chỉnh thiết kế theo dữ liệu và chọn nhóm để nhấn mạnh, một ví dụ kinh điển của lạm dụng mức tự do của nhà nghiên cứu, nhưng bài báo của ông đã thúc đẩy giới khoa học tự xét lại mình.
 
 ## Sơ đồ
 
@@ -369,7 +369,9 @@ Từng bước: 10% của 1.000 là 100 hiệu ứng thật; lực 80% phát hi�
 
 Tuyên bố gốc của Ioannidis dựa trên một mô hình lý thuyết như vậy. Một cách tiếp cận khác là lấy các nghiên cứu cũ và thử lặp lại chúng, theo nghĩa làm các thí nghiệm tương tự và xem có quan sát được kết quả tương tự không. Dự án Tái lập (Reproducibility Project) là một hợp tác lớn, trong đó 100 nghiên cứu tâm lý học được làm lại với cỡ mẫu lớn hơn, nên có lực cao hơn để phát hiện một hiệu ứng thật nếu nó tồn tại (Open Science Collaboration, *Science*, 28/8/2015). Dự án cho thấy: 97% nghiên cứu gốc có kết quả có ý nghĩa thống kê, nhưng chỉ 36% nghiên cứu lặp lại có.
 
-Đáng tiếc, kết quả này được đưa tin rộng rãi như thể 63% nghiên cứu "có ý nghĩa" còn lại là tuyên bố sai. (Người tổng hợp lưu ý: 100% − 36% = 64%; theo hiểu biết của người tổng hợp, con số gốc là 35 trên 97 nghiên cứu có ý nghĩa được lặp lại có ý nghĩa, phần còn lại khoảng 64%.) Cách đọc đó rơi vào cái bẫy chia cứng các nghiên cứu thành "có ý nghĩa" hoặc "không có ý nghĩa". Nhà thống kê và blogger nổi tiếng người Mỹ Andrew Gelman đã chỉ ra rằng "chênh lệch giữa 'có ý nghĩa' và 'không có ý nghĩa' tự nó không có ý nghĩa thống kê" (Gelman và Stern, *American Statistician*, 2006). Thực tế, chỉ 23% cặp nghiên cứu gốc và lặp lại có kết quả khác nhau một cách có ý nghĩa — đây có lẽ là ước lượng phù hợp hơn cho tỷ lệ nghiên cứu gốc có tuyên bố phóng đại hoặc sai.
+Đáng tiếc, kết quả này được đưa tin rộng rãi như thể 63% nghiên cứu "có ý nghĩa" còn lại là tuyên bố sai. (Người tổng hợp lưu ý: 100% − 36% = 64%; theo hiểu biết của người tổng hợp, con số gốc là 35 trên 97 nghiên cứu có ý nghĩa được lặp lại có ý nghĩa, phần còn lại khoảng 64%.) Cách đọc đó rơi vào cái bẫy chia cứng các nghiên cứu thành "có ý nghĩa" hoặc "không có ý nghĩa".
+
+Nhà thống kê và blogger nổi tiếng người Mỹ Andrew Gelman đã chỉ ra rằng "chênh lệch giữa 'có ý nghĩa' và 'không có ý nghĩa' tự nó không có ý nghĩa thống kê" (Gelman và Stern, *American Statistician*, 2006). Thực tế, chỉ 23% cặp nghiên cứu gốc và lặp lại có kết quả khác nhau một cách có ý nghĩa — đây có lẽ là ước lượng phù hợp hơn cho tỷ lệ nghiên cứu gốc có tuyên bố phóng đại hoặc sai.
 
 Thay vì coi "có ý nghĩa" hay "không có ý nghĩa" là thứ quyết định một "phát hiện", tốt hơn nên tập trung vào độ lớn của hiệu ứng ước lượng. Dự án Tái lập thấy rằng hiệu ứng trong các nghiên cứu lặp lại trung bình cùng chiều với nghiên cứu gốc, nhưng chỉ bằng khoảng một nửa. Điều này chỉ ra một thiên lệch quan trọng trong tài liệu khoa học: một nghiên cứu tìm thấy điều gì đó "lớn" — mà ít nhất một phần trong đó có lẽ do may mắn — dễ dẫn tới một bài đăng nổi bật. Tương tự hồi quy về giá trị trung bình, hiện tượng này có thể gọi là "hồi quy về giá trị không" (regression to the null): các ước lượng hiệu ứng ban đầu bị phóng đại sau đó giảm dần về phía giả thuyết không.
 
@@ -416,17 +418,23 @@ Phép tính có thể đúng về mặt tính toán nhưng dùng phương pháp 
 
 #### Kết luận (Conclusion): báo cáo chọn lọc
 
-Ở khâu rút kết luận, có lẽ dạng thực hành kém lộ liễu nhất là làm nhiều kiểm định thống kê rồi chỉ báo cáo những kiểm định có ý nghĩa nhất và diễn giải chúng theo bề ngoài. Như Chương 10 đã cho thấy, cách này làm tăng mạnh khả năng tìm được một giá trị P có ý nghĩa, thậm chí "làm sống lại một con cá chết": một con cá hồi Đại Tây Dương đã chết được chụp cộng hưởng từ chức năng khi "xem" ảnh người biểu lộ cảm xúc, và 16 trong 8.064 điểm trên não nó "phản ứng có ý nghĩa" ở ngưỡng P < 0,001 — đúng cỡ 8.064 × 0,001 ≈ 8 kết quả kỳ vọng chỉ do ngẫu nhiên. Báo cáo chọn lọc giống như chỉ chiếu trên TV các bàn thắng một đội ghi được mà không chiếu bàn họ thua: không thể có ấn tượng đúng khi việc báo cáo chọn lọc như vậy.
+Ở khâu rút kết luận, có lẽ dạng thực hành kém lộ liễu nhất là làm nhiều kiểm định thống kê rồi chỉ báo cáo những kiểm định có ý nghĩa nhất và diễn giải chúng theo bề ngoài.
+
+Như Chương 10 đã cho thấy, cách này làm tăng mạnh khả năng tìm được một giá trị P có ý nghĩa, thậm chí "làm sống lại một con cá chết": một con cá hồi Đại Tây Dương đã chết được chụp cộng hưởng từ chức năng khi "xem" ảnh người biểu lộ cảm xúc, và 16 trong 8.064 điểm trên não nó "phản ứng có ý nghĩa" ở ngưỡng P < 0,001 — đúng cỡ 8.064 × 0,001 ≈ 8 kết quả kỳ vọng chỉ do ngẫu nhiên. Báo cáo chọn lọc giống như chỉ chiếu trên TV các bàn thắng một đội ghi được mà không chiếu bàn họ thua: không thể có ấn tượng đúng khi việc báo cáo chọn lọc như vậy.
 
 *Minh hoạ của người tổng hợp:* với một can thiệp hoàn toàn vô dụng, nếu làm k kiểm định độc lập ở mức 5%, xác suất có ít nhất một kết quả "có ý nghĩa" là 1 − 0,95^k: k = 10 cho 1 − 0,599 = 40%; k = 18 cho 1 − 0,397 = 60%; k = 20 cho 1 − 0,358 = 64%.
 
 #### Từ kém cỏi tới sai phạm: vụ Harkonen
 
-Báo cáo chọn lọc bắt đầu vượt qua ranh giới giữa sự kém cỏi đơn thuần và sai phạm khoa học, và có bằng chứng đáng lo rằng điều này không hiếm. Ở Mỹ thậm chí đã có một bản án hình sự vì báo cáo chọn lọc kết quả có ý nghĩa trong một phân tích nhóm con. Scott Harkonen là giám đốc điều hành của InterMune, công ty đã làm một thử nghiệm lâm sàng thuốc mới của họ cho bệnh xơ phổi vô căn (idiopathic pulmonary fibrosis). Thử nghiệm không cho thấy lợi ích chung, nhưng tử vong giảm có ý nghĩa ở một nhóm con nhỏ gồm bệnh nhân bệnh nhẹ đến vừa. Harkonen ra thông cáo báo chí cho nhà đầu tư báo cáo kết quả này, cho thấy ông tin rằng nghiên cứu sẽ đem lại doanh số rất lớn. Dù ông không nói điều gì có thể chứng minh là sai, năm 2009 một bồi thẩm đoàn kết tội ông lừa đảo qua phương tiện điện tử (wire fraud), với ý định cụ thể lừa nhà đầu tư. Chính phủ đề nghị mức án 10 năm tù và phạt 20.000 USD, nhưng ông bị tuyên sáu tháng quản thúc tại gia và ba năm quản chế. Một thử nghiệm lâm sàng sau đó không tìm thấy lợi ích nào của thuốc ở nhóm bệnh nhân này.
+Báo cáo chọn lọc bắt đầu vượt qua ranh giới giữa sự kém cỏi đơn thuần và sai phạm khoa học, và có bằng chứng đáng lo rằng điều này không hiếm. Ở Mỹ thậm chí đã có một bản án hình sự vì báo cáo chọn lọc kết quả có ý nghĩa trong một phân tích nhóm con. Scott Harkonen là giám đốc điều hành của InterMune, công ty đã làm một thử nghiệm lâm sàng thuốc mới của họ cho bệnh xơ phổi vô căn (idiopathic pulmonary fibrosis). Thử nghiệm không cho thấy lợi ích chung, nhưng tử vong giảm có ý nghĩa ở một nhóm con nhỏ gồm bệnh nhân bệnh nhẹ đến vừa.
+
+Harkonen ra thông cáo báo chí cho nhà đầu tư báo cáo kết quả này, cho thấy ông tin rằng nghiên cứu sẽ đem lại doanh số rất lớn. Dù ông không nói điều gì có thể chứng minh là sai, năm 2009 một bồi thẩm đoàn kết tội ông lừa đảo qua phương tiện điện tử (wire fraud), với ý định cụ thể lừa nhà đầu tư. Chính phủ đề nghị mức án 10 năm tù và phạt 20.000 USD, nhưng ông bị tuyên sáu tháng quản thúc tại gia và ba năm quản chế. Một thử nghiệm lâm sàng sau đó không tìm thấy lợi ích nào của thuốc ở nhóm bệnh nhân này.
 
 #### Sai phạm có chủ ý để vạch yếu kém: "sô-cô-la giúp giảm cân"
 
-Sai phạm thống kê có thể là quyết định có ý thức hoặc không. Nó thậm chí từng được cố ý dùng để vạch ra những bất cập của quy trình bình duyệt và xuất bản khoa học. "Johannes Bohannon" của "Viện Dinh dưỡng và Sức khoẻ Đức" (German Institute of Diet and Health) tiến hành một nghiên cứu, trong đó người tham gia được phân ngẫu nhiên vào ba nhóm: chế độ ăn chuẩn, chế độ ít tinh bột, hoặc chế độ ít tinh bột có thêm sô-cô-la. Họ được đo hàng loạt chỉ số trong ba tuần, và nghiên cứu kết luận rằng mức giảm cân ở nhóm sô-cô-la vượt nhóm ít tinh bột 10% (P = 0,04). Kết quả "có ý nghĩa" này được gửi tới một tạp chí; tạp chí đánh giá đây là "bản thảo xuất sắc" và gợi ý rằng với 600 euro, bài "có thể được nhận đăng thẳng trên tạp chí hàng đầu của chúng tôi". Khi bài được đăng, thông cáo báo chí của "viện" dẫn tới tin bài trên rất nhiều cơ quan báo chí, với những tít như "Sô-cô-la đẩy nhanh giảm cân".
+Sai phạm thống kê có thể là quyết định có ý thức hoặc không. Nó thậm chí từng được cố ý dùng để vạch ra những bất cập của quy trình bình duyệt và xuất bản khoa học. "Johannes Bohannon" của "Viện Dinh dưỡng và Sức khoẻ Đức" (German Institute of Diet and Health) tiến hành một nghiên cứu, trong đó người tham gia được phân ngẫu nhiên vào ba nhóm: chế độ ăn chuẩn, chế độ ít tinh bột, hoặc chế độ ít tinh bột có thêm sô-cô-la.
+
+Họ được đo hàng loạt chỉ số trong ba tuần, và nghiên cứu kết luận rằng mức giảm cân ở nhóm sô-cô-la vượt nhóm ít tinh bột 10% (P = 0,04). Kết quả "có ý nghĩa" này được gửi tới một tạp chí; tạp chí đánh giá đây là "bản thảo xuất sắc" và gợi ý rằng với 600 euro, bài "có thể được nhận đăng thẳng trên tạp chí hàng đầu của chúng tôi". Khi bài được đăng, thông cáo báo chí của "viện" dẫn tới tin bài trên rất nhiều cơ quan báo chí, với những tít như "Sô-cô-la đẩy nhanh giảm cân".
 
 Nhưng sau đó mọi chuyện được tiết lộ là một trò lừa có chủ ý. "Johannes Bohannon" thực ra là John Bohannon, một nhà báo; "Viện Dinh dưỡng và Sức khoẻ" không tồn tại; và thứ duy nhất có thật là dữ liệu, vốn không bị bịa. Nhưng mỗi nhóm chỉ có năm người, rất nhiều kiểm định đã được làm, và chỉ những chênh lệch có ý nghĩa được báo cáo. Các tác giả của bài báo giả này lập tức thú nhận trò lừa; nhưng không phải mọi gian lận thống kê đều được làm để vạch yếu kém của bình duyệt.
 
@@ -469,7 +477,9 @@ Có lẽ bạn khá tự tin về câu trả lời đúng cho câu hỏi này. C
 
 Sinh viên đại học của Đại học Pennsylvania được phân ngẫu nhiên nghe một trong ba bài: "When I'm Sixty-Four" của Beatles, "Kalimba", hoặc "Hot Potato" của nhóm Wiggles. Sau đó họ được hỏi ngày sinh, họ cảm thấy mình bao nhiêu tuổi, và một loạt câu hỏi không liên quan một cách thú vị. (Chú thích của tác giả liệt kê các câu hỏi đó: họ sẽ thích ăn ở một quán ăn bình dân tới mức nào, căn bậc hai của 100, mức đồng ý với câu "máy tính là những cỗ máy phức tạp", tuổi của bố, tuổi của mẹ, họ có tận dụng ưu đãi "đến sớm" không, khuynh hướng chính trị, ai trong bốn tiền vệ người Canada họ tin đã đoạt một giải thưởng, họ có hay gọi quá khứ là "những ngày tươi đẹp" không, v.v.)
 
-Simonsohn và đồng nghiệp phân tích đi phân tích lại dữ liệu theo mọi cách họ nghĩ ra, và tiếp tục tuyển thêm người tham gia cho tới khi tìm được một liên hệ có ý nghĩa nào đó. Điều này xảy ra sau 34 người. Dù không có liên hệ có ý nghĩa giữa tuổi của người tham gia và bài hát họ nghe, nhưng bằng cách chỉ so sánh "When I'm Sixty-Four" với "Kalimba", họ đạt được P < 0,05 trong một mô hình hồi quy có hiệu chỉnh theo tuổi của bố. Tất nhiên, ban đầu họ chỉ báo cáo phân tích có ý nghĩa mà không nhắc tới vô số điều chỉnh, sửa đổi và báo cáo chọn lọc đã diễn ra; những thứ này được tiết lộ ở cuối bài báo, và bài báo đã trở thành một minh hoạ cố ý kinh điển cho thực hành mà nay gọi là HARKing — đặt ra giả thuyết sau khi đã biết kết quả (Hypothesizing After the Results are Known).
+Simonsohn và đồng nghiệp phân tích đi phân tích lại dữ liệu theo mọi cách họ nghĩ ra, và tiếp tục tuyển thêm người tham gia cho tới khi tìm được một liên hệ có ý nghĩa nào đó. Điều này xảy ra sau 34 người. Dù không có liên hệ có ý nghĩa giữa tuổi của người tham gia và bài hát họ nghe, nhưng bằng cách chỉ so sánh "When I'm Sixty-Four" với "Kalimba", họ đạt được P < 0,05 trong một mô hình hồi quy có hiệu chỉnh theo tuổi của bố.
+
+Tất nhiên, ban đầu họ chỉ báo cáo phân tích có ý nghĩa mà không nhắc tới vô số điều chỉnh, sửa đổi và báo cáo chọn lọc đã diễn ra; những thứ này được tiết lộ ở cuối bài báo, và bài báo đã trở thành một minh hoạ cố ý kinh điển cho thực hành mà nay gọi là HARKing — đặt ra giả thuyết sau khi đã biết kết quả (Hypothesizing After the Results are Known).
 
 Các mức tự do được dùng trong thí nghiệm này, theo đúng lời kể của sách:
 
@@ -536,7 +546,9 @@ Thiên lệch dương này còn tệ hơn vì: các "phát hiện" dễ được
 
 #### Văn phòng báo chí (The Press Office)
 
-Thêm vấn đề tiềm tàng nảy sinh ở khâu tiếp theo, khi câu chuyện khoa học được chuyển tới văn phòng báo chí để tìm cách được truyền thông đưa tin. Ta đã thấy (Chương 4 và 10) một thông cáo báo chí quá hăng hái cho một nghiên cứu Thuỵ Điển về địa vị kinh tế xã hội và nguy cơ u não đã dẫn tới cái tít kinh điển "Vì sao học đại học làm tăng nguy cơ u não" — trong khi mức tăng tương đối chỉ 19% giữa nhóm học vấn thấp nhất và cao nhất, và có thể chỉ do người có học vấn cao đi khám nhiều hơn. Văn phòng báo chí đó không đơn độc trong việc phóng đại: một nghiên cứu về 462 thông cáo báo chí của các trường đại học Anh năm 2011 (Sumner và cộng sự, *British Medical Journal*, 2014) cho thấy:
+Thêm vấn đề tiềm tàng nảy sinh ở khâu tiếp theo, khi câu chuyện khoa học được chuyển tới văn phòng báo chí để tìm cách được truyền thông đưa tin. Ta đã thấy (Chương 4 và 10) một thông cáo báo chí quá hăng hái cho một nghiên cứu Thuỵ Điển về địa vị kinh tế xã hội và nguy cơ u não đã dẫn tới cái tít kinh điển "Vì sao học đại học làm tăng nguy cơ u não" — trong khi mức tăng tương đối chỉ 19% giữa nhóm học vấn thấp nhất và cao nhất, và có thể chỉ do người có học vấn cao đi khám nhiều hơn.
+
+Văn phòng báo chí đó không đơn độc trong việc phóng đại: một nghiên cứu về 462 thông cáo báo chí của các trường đại học Anh năm 2011 (Sumner và cộng sự, *British Medical Journal*, 2014) cho thấy:
 
 | Loại phóng đại trong thông cáo báo chí | Tỷ lệ |
 |---|---:|
@@ -570,7 +582,9 @@ Vấn đề chính trong đưa tin không phải những điều sai trắng tr�
 | 10 | Dùng hình minh hoạ sống động nhưng không chứa thông tin |
 | 11 | Chỉ nêu rủi ro tương đối, không nêu rủi ro tuyệt đối |
 
-Thực hành cuối gần như phổ biến khắp nơi. Chương 1 đã cho thấy một tin về thịt xông khói làm tăng nguy cơ ung thư ruột có thể nghe ấn tượng thế nào khi nêu rủi ro tương đối thay vì rủi ro tuyệt đối: "tăng 18%" nghe đáng sợ, nhưng tính theo tần số kỳ vọng, đó là từ 6 lên khoảng 7 người trên 100 người (6 × 1,18 = 7,08), tức thêm 1 ca trên 100 người ăn thịt xông khói hằng ngày cả đời. Nhà báo biết rằng rủi ro tương đối — thường được truyền thông gọi đơn giản là "tăng nguy cơ" bất kể độ lớn — là cách hiệu quả để làm câu chuyện hấp dẫn hơn. Thêm vào đó, rủi ro tương đối dưới dạng tỷ số chênh (odds ratio), tỷ số tỷ suất (rate ratio) và tỷ số nguy cơ (hazard ratio) lại là đầu ra chuẩn của hầu hết các nghiên cứu y sinh.
+Thực hành cuối gần như phổ biến khắp nơi. Chương 1 đã cho thấy một tin về thịt xông khói làm tăng nguy cơ ung thư ruột có thể nghe ấn tượng thế nào khi nêu rủi ro tương đối thay vì rủi ro tuyệt đối: "tăng 18%" nghe đáng sợ, nhưng tính theo tần số kỳ vọng, đó là từ 6 lên khoảng 7 người trên 100 người (6 × 1,18 = 7,08), tức thêm 1 ca trên 100 người ăn thịt xông khói hằng ngày cả đời.
+
+Nhà báo biết rằng rủi ro tương đối — thường được truyền thông gọi đơn giản là "tăng nguy cơ" bất kể độ lớn — là cách hiệu quả để làm câu chuyện hấp dẫn hơn. Thêm vào đó, rủi ro tương đối dưới dạng tỷ số chênh (odds ratio), tỷ số tỷ suất (rate ratio) và tỷ số nguy cơ (hazard ratio) lại là đầu ra chuẩn của hầu hết các nghiên cứu y sinh.
 
 Tít báo gây sốc "Vì sao xem liền mạch các bộ phim truyền hình có thể giết bạn" (*Why Binge Watching Your TV Box-Sets Could Kill You*, *Daily Telegraph*, 25/7/2016) bắt nguồn từ một nghiên cứu dịch tễ học ước tính rủi ro tương đối đã hiệu chỉnh là 2,5 cho thuyên tắc phổi gây tử vong, gắn với việc xem TV hơn 5 giờ mỗi tối so với dưới 2,5 giờ. Nhưng xem kỹ tỷ lệ tuyệt đối ở nhóm nguy cơ cao — 13 ca trên 158.000 người-năm — có thể diễn đạt thành: bạn có thể kỳ vọng xem TV hơn 5 giờ mỗi tối trong 12.000 năm rồi mới gặp sự kiện này. Điều đó làm câu chuyện bớt ấn tượng đi phần nào.
 
@@ -580,13 +594,17 @@ Từng bước:
 2. Số năm kỳ vọng cho tới một ca: 158.000 / 13 = 12.154 năm, sách làm tròn "12.000 năm".
 3. *Minh hoạ thêm của người tổng hợp (gần đúng, vì 2,5 là rủi ro tương đối đã hiệu chỉnh):* nếu nhóm xem ít có tỷ lệ bằng 8,2 / 2,5 ≈ 3,3 trên 100.000 người-năm, thì chênh lệch tuyệt đối khoảng 8,2 − 3,3 = 4,9 ca trên 100.000 người mỗi năm, tức khoảng 1 ca tăng thêm trên mỗi 20.000 người-năm xem TV nhiều.
 
-Tít này được viết để thu hút sự chú ý và lượt nhấp, và đã thành công — chính tác giả thú nhận ông thấy nó không thể cưỡng lại. Khi tất cả chúng ta đều tìm kiếm sự mới lạ và kích thích tức thì, không ngạc nhiên khi truyền thông "thêm gia vị" cho tin về các nghiên cứu và ưu ái những tuyên bố khác thường (và có lẽ bị phóng đại) hơn là bằng chứng thống kê vững chắc. (Chú thích của tác giả: ông đôi khi theo cái có thể gọi là "nguyên tắc Groucho", theo câu nói nghịch lý của Groucho Marx rằng ông sẽ không bao giờ tham gia một câu lạc bộ chịu nhận ông làm thành viên. Vì các câu chuyện đã đi qua quá nhiều bộ lọc khuyến khích bóp méo và chọn lọc, chính việc ông đang nghe thấy một tuyên bố dựa trên thống kê đã là lý do để không tin nó.) Chương sau sẽ bàn cách cải thiện, nhưng trước hết tác giả quay lại tuyên bố đáng chú ý của Daryl Bem về khả năng tiên tri.
+Tít này được viết để thu hút sự chú ý và lượt nhấp, và đã thành công — chính tác giả thú nhận ông thấy nó không thể cưỡng lại. Khi tất cả chúng ta đều tìm kiếm sự mới lạ và kích thích tức thì, không ngạc nhiên khi truyền thông "thêm gia vị" cho tin về các nghiên cứu và ưu ái những tuyên bố khác thường (và có lẽ bị phóng đại) hơn là bằng chứng thống kê vững chắc.
+
+(Chú thích của tác giả: ông đôi khi theo cái có thể gọi là "nguyên tắc Groucho", theo câu nói nghịch lý của Groucho Marx rằng ông sẽ không bao giờ tham gia một câu lạc bộ chịu nhận ông làm thành viên. Vì các câu chuyện đã đi qua quá nhiều bộ lọc khuyến khích bóp méo và chọn lọc, chính việc ông đang nghe thấy một tuyên bố dựa trên thống kê đã là lý do để không tin nó.) Chương sau sẽ bàn cách cải thiện, nhưng trước hết tác giả quay lại tuyên bố đáng chú ý của Daryl Bem về khả năng tiên tri.
 
 ### 7. Bem đã đi tới kết quả bằng cách nào (phần kết khung câu hỏi về ngoại cảm, không có tiêu đề riêng, trang PDF 232–233)
 
 Daryl Bem biết ông đang công bố những tuyên bố phi thường, và — điều rất đáng ghi nhận — ông tích cực khuyến khích người khác lặp lại và cung cấp vật liệu để làm việc đó. Tuy nhiên, khi các nhà nghiên cứu khác nhận lời thách thức, thử lặp lại (và thất bại), tạp chí đã đăng nghiên cứu gốc của Bem lại từ chối đăng các nghiên cứu lặp lại thất bại — đúng bộ lọc "ngại đăng nghiên cứu lặp lại" của mục trước.
 
-Vậy Bem đi tới kết quả bằng cách nào? Có nhiều điểm ông điều chỉnh thiết kế theo dữ liệu và chọn nhấn mạnh những nhóm cụ thể — ví dụ báo cáo khả năng tiên tri dương khi cho xem ảnh khiêu dâm, mà không báo cáo kết quả âm với ảnh không khiêu dâm. Chính Bem thừa nhận: "Tôi bắt đầu một [thí nghiệm], và nếu nó chẳng đi tới đâu, tôi bỏ nó và bắt đầu lại với một vài thay đổi" (*Slate*, 17/5/2017). Một số thay đổi được báo cáo trong bài báo; số khác thì không. (Chú thích của tác giả dẫn một bài trực tuyến, trong đó Bem nói: "Tôi hoàn toàn ủng hộ sự chặt chẽ… nhưng tôi thích để người khác làm việc đó. Tôi thấy tầm quan trọng của nó — với một số người thì vui — nhưng tôi không đủ kiên nhẫn… Nếu bạn xem mọi thí nghiệm trước đây của tôi, chúng luôn là công cụ tu từ. Tôi thu dữ liệu để cho thấy luận điểm của mình sẽ được chứng minh thế nào. Tôi dùng dữ liệu như một phương tiện thuyết phục, và chưa bao giờ thật sự lo lắng 'Cái này có lặp lại được không?'")
+Vậy Bem đi tới kết quả bằng cách nào? Có nhiều điểm ông điều chỉnh thiết kế theo dữ liệu và chọn nhấn mạnh những nhóm cụ thể — ví dụ báo cáo khả năng tiên tri dương khi cho xem ảnh khiêu dâm, mà không báo cáo kết quả âm với ảnh không khiêu dâm. Chính Bem thừa nhận: "Tôi bắt đầu một [thí nghiệm], và nếu nó chẳng đi tới đâu, tôi bỏ nó và bắt đầu lại với một vài thay đổi" (*Slate*, 17/5/2017). Một số thay đổi được báo cáo trong bài báo; số khác thì không.
+
+(Chú thích của tác giả dẫn một bài trực tuyến, trong đó Bem nói: "Tôi hoàn toàn ủng hộ sự chặt chẽ… nhưng tôi thích để người khác làm việc đó. Tôi thấy tầm quan trọng của nó — với một số người thì vui — nhưng tôi không đủ kiên nhẫn… Nếu bạn xem mọi thí nghiệm trước đây của tôi, chúng luôn là công cụ tu từ. Tôi thu dữ liệu để cho thấy luận điểm của mình sẽ được chứng minh thế nào. Tôi dùng dữ liệu như một phương tiện thuyết phục, và chưa bao giờ thật sự lo lắng 'Cái này có lặp lại được không?'")
 
 Andrew Gelman nhận xét rằng kết luận của Bem dựa trên giá trị P, tức những phát biểu về việc các thống kê tóm tắt của dữ liệu sẽ trông thế nào *nếu dữ liệu ra khác đi*; nhưng Bem không đưa ra bằng chứng nào cho thấy, nếu dữ liệu ra khác đi, phân tích của ông vẫn sẽ như cũ. Thật vậy, chín nghiên cứu trong bài báo dùng đủ loại phân tích dữ liệu khác nhau. (Chú thích của tác giả: tóm tắt ngắn gọn của Gelman là "nghiên cứu của Bem là rác".)
 
@@ -762,3 +780,157 @@ Chương dùng lại gần như mọi khái niệm đã học: lực kiểm đ�
 - **Cho người đọc báo:** dùng danh sách mười một thực hành đáng ngờ như bảng kiểm khi đọc tin về nghiên cứu: tin có đi ngược đồng thuận không; có nêu độ bất định không; có xu hướng dài hạn không; có gợi ý nhân quả từ một mối liên hệ không; có nêu rủi ro tuyệt đối không. Khi chỉ thấy "tăng X% nguy cơ", hãy tự hỏi "từ bao nhiêu lên bao nhiêu trên 100 người" (hoặc "bao nhiêu năm mới gặp một ca", như ví dụ 12.000 năm xem TV). Áp dụng "nguyên tắc Groucho" ở mức vừa phải: một tuyên bố gây chú ý càng mạnh, càng nên chờ lặp lại.
 - **Cho nhà phân tích:** trước khi mở dữ liệu, viết ra câu hỏi, thước đo kết quả chính, cỡ mẫu, tiêu chí dừng và kế hoạch phân tích; tách rõ phần khám phá và phần khẳng định trong báo cáo; ghi lại mọi phân tích đã thử và báo cáo số lượng đó; khi so hai nhóm, kiểm định chênh lệch trực tiếp (tương tác); với dữ liệu theo cụm, dùng phương pháp tính tới tương quan trong cụm; kiểm tra chéo bảng tính và mã (một đồng nghiệp chạy lại, kiểm tra tổng, kiểm tra số dòng) — bài học Reinhart–Rogoff và AXA Rosenberg; khi viết thông cáo hay tóm tắt cho lãnh đạo, tự rà xem có phóng đại lời khuyên, nhân quả hay mức tổng quát hoá không.
 - **Cho người làm chính sách:** đừng dựa quyết định lớn vào một nghiên cứu đơn lẻ, nhất là nghiên cứu nhỏ có hiệu ứng lớn bất ngờ; ưu tiên tổng quan có hệ thống và kết quả đã được lặp lại độc lập; khi đặt hàng nghiên cứu, yêu cầu đề cương định trước, công bố kết quả bất kể chiều hướng, và chia sẻ dữ liệu, mã; nhớ rằng chính cơ quan mình cũng là một "nguồn" trong đường ống, và thông cáo của mình phải tránh các thực hành truyền đạt đáng ngờ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: sáu nhánh theo các phần của bản gốc (khung câu hỏi Bem về ngoại cảm, khủng hoảng tái lập, lỗi ở từng khâu PPDAC, gian lận cố ý, thực hành nghiên cứu đáng ngờ, đổ vỡ trong truyền đạt), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: thống kê bị làm tồi – lỗi phương pháp, thực hành nghiên cứu đáng ngờ và truyền đạt bóp méo – góp phần gây khủng hoảng tái lập`"]
+  n1["`Phần mở đầu và phần kết chương — Daryl Bem và ngoại cảm`"]
+  n0 --- n1
+  n2["`2011: sinh viên đoán đúng vị trí ảnh khiêu dâm 53% thay vì 50% (P = 0,01)`"]
+  n1 --- n2
+  n3["`Tám trên chín nghiên cứu của Bem có ý nghĩa thống kê ủng hộ tiên tri`"]
+  n1 --- n3
+  n4["`Người khác lặp lại và thất bại, nhưng tạp chí từ chối đăng các lần lặp lại`"]
+  n1 --- n4
+  n5["`Bem điều chỉnh thiết kế theo dữ liệu, chỉ báo cáo ảnh khiêu dâm, bỏ thí nghiệm không ra gì`"]
+  n1 --- n5
+  n6["`Gelman: giá trị P chỉ có nghĩa khi phân tích cố định trước, chín nghiên cứu dùng chín kiểu phân tích`"]
+  n1 --- n6
+  n7["`Ví dụ kinh điển của lạm dụng mức tự do của nhà nghiên cứu, nhưng đã thúc đẩy khoa học tự xét lại`"]
+  n1 --- n7
+  n8["`Mục The Reproducibility Crisis — khủng hoảng tái lập`"]
+  n0 --- n8
+  n9["`Ioannidis 2005: phần lớn kết quả nghiên cứu công bố là sai`"]
+  n8 --- n9
+  n10["`Thực hành hoàn hảo vẫn sai: 1.000 nghiên cứu, 10% hiệu ứng thật, lực 80% → 45 trong 125 phát hiện (36%) là sai`"]
+  n8 --- n10
+  n11["`Dự án Tái lập 100 nghiên cứu tâm lý học: 97% gốc có ý nghĩa, chỉ 36% lặp lại có ý nghĩa`"]
+  n8 --- n11
+  n12["`Gelman: chênh lệch giữa có ý nghĩa và không có ý nghĩa tự nó không có ý nghĩa thống kê`"]
+  n8 --- n12
+  n13["`Chỉ 23% cặp gốc và lặp lại khác nhau có ý nghĩa`"]
+  n8 --- n13
+  n14["`Hiệu ứng lặp lại chỉ bằng khoảng một nửa hiệu ứng gốc – hồi quy về giá trị không`"]
+  n8 --- n14
+  n15["`Gốc rễ: áp lực phải có phát hiện có ý nghĩa để đăng tạp chí danh tiếng, không ai chịu lỗi riêng`"]
+  n8 --- n15
+  n16["`Phần tiếp theo — lỗi ở từng khâu PPDAC`"]
+  n0 --- n16
+  n17["`Vấn đề: câu hỏi không trả lời được, như vì sao tỷ lệ mang thai tuổi teen ở Anh giảm`"]
+  n16 --- n17
+  n18["`Kế hoạch: mẫu tiện lợi, câu hỏi dẫn dắt, so sánh không công bằng, nghiên cứu quá nhỏ`"]
+  n16 --- n18
+  n19["`Fisher: hỏi nhà thống kê sau thí nghiệm là nhờ khám nghiệm tử thi`"]
+  n16 --- n19
+  n20["`Dữ liệu: thiếu trả lời, bỏ cuộc, tuyển chậm – lẽ ra phải chạy thử`"]
+  n16 --- n20
+  n21["`Phân tích – lỗi đơn giản`"]
+  n16 --- n21
+  n22["`Reinhart và Rogoff 2010: lỗi bảng tính bỏ sót năm nước`"]
+  n21 --- n22
+  n23["`AXA Rosenberg: lỗi lập trình làm rủi ro nhỏ đi 10.000 lần, trả 242 triệu USD`"]
+  n21 --- n23
+  n24["`Phân tích – tính đúng nhưng phương pháp sai`"]
+  n16 --- n24
+  n25["`Thử nghiệm ngẫu nhiên theo cụm bị phân tích như ngẫu nhiên từng người`"]
+  n24 --- n25
+  n26["`So hai nhóm bằng hai giá trị P thay vì kiểm định tương tác`"]
+  n24 --- n26
+  n27["`Đọc không có ý nghĩa thành không có hiệu ứng, như ví dụ rượu và tử vong`"]
+  n24 --- n27
+  n28["`Kết luận: báo cáo chọn lọc như chỉ chiếu bàn thắng, không chiếu bàn thua`"]
+  n16 --- n28
+  n29["`Vụ Harkonen: công bố phân tích nhóm con, bị kết tội lừa đảo năm 2009`"]
+  n16 --- n29
+  n30["`Trò lừa sô-cô-la giúp giảm cân của John Bohannon: 5 người mỗi nhóm, P = 0,04, báo chí khắp nơi đưa tin`"]
+  n16 --- n30
+  n31["`Mục Deliberate Fraud — gian lận cố ý`"]
+  n0 --- n31
+  n32["`Khoảng 2% nhà khoa học thừa nhận làm giả dữ liệu – hiếm nhưng có thật`"]
+  n31 --- n32
+  n33["`Simonsohn bắt gian lận: ba độ lệch chuẩn của ba nhóm 15 người đều bằng 25,11`"]
+  n31 --- n33
+  n34["`Cyril Burt: tương quan IQ cặp sinh đôi 0,770, 0,771, 0,771 qua ba thập kỷ`"]
+  n31 --- n34
+  n35["`Kém cỏi và gian dối chữa được bằng giáo dục, kiểm tra, lặp lại, mở dữ liệu`"]
+  n31 --- n35
+  n36["`Mục Questionable Research Practices — thực hành nghiên cứu đáng ngờ`"]
+  n0 --- n36
+  n37["`Mức tự do của nhà nghiên cứu hay khu vườn những lối rẽ: điều chỉnh nhỏ tuỳ dữ liệu trông thế nào`"]
+  n36 --- n37
+  n38["`Mỗi điều chỉnh – lúc dừng thu, loại dữ liệu, hiệu chỉnh, nhóm, thước đo – tăng khả năng có ý nghĩa`"]
+  n36 --- n38
+  n39["`Nghiên cứu khám phá được điều chỉnh tuỳ ý, nghiên cứu khẳng định phải theo đề cương định trước`"]
+  n36 --- n39
+  n40["`P-hacking: mọi hoạt động nhằm tạo ra kết quả có ý nghĩa thống kê`"]
+  n36 --- n40
+  n41["`Thí nghiệm When I'm Sixty-Four: dừng ở 34 người, chỉ so hai bài, hiệu chỉnh tuổi bố → P dưới 0,05`"]
+  n36 --- n41
+  n42["`HARKing: đặt giả thuyết sau khi đã biết kết quả`"]
+  n36 --- n42
+  n43["`Khảo sát 2.155 nhà tâm lý học Mỹ: 58% thu thêm dữ liệu, 67% không báo cáo hết, 94% có ít nhất một thực hành`"]
+  n36 --- n43
+  n44["`Mục Communication Breakdown — ba bộ lọc trên đường tới công chúng`"]
+  n0 --- n44
+  n45["`Đường ống: nguồn nghiên cứu → văn phòng báo chí → nhà báo → biên tập viên → công chúng`"]
+  n44 --- n45
+  n46["`Bộ lọc tài liệu khoa học: kết quả bất lợi nằm trong ngăn kéo hồ sơ, tạp chí ngại đăng lặp lại`"]
+  n44 --- n46
+  n47["`Bộ lọc văn phòng báo chí: 462 thông cáo đại học Anh, 40% lời khuyên phóng đại, 33% nhân quả phóng đại`"]
+  n44 --- n47
+  n48["`Đóng khung: 10% mang gen bảo vệ thành 9 trên 10 người mang gen tăng nguy cơ cao huyết áp`"]
+  n44 --- n48
+  n49["`Bộ lọc truyền thông: 11 thực hành diễn giải và truyền đạt đáng ngờ, phổ biến nhất là chỉ nêu rủi ro tương đối`"]
+  n44 --- n49
+  n50["`Tít xem TV có thể giết bạn: rủi ro tương đối 2,5 nhưng khoảng 12.000 năm xem TV mới gặp một ca`"]
+  n44 --- n50
+  n51["`Nguyên tắc Groucho: tuyên bố thống kê lọt tới tai mình đã là lý do để nghi ngờ`"]
+  n44 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Gian lận hiếm, lỗi phương pháp thường gặp, thực hành đáng ngờ là vấn đề lớn hơn cả`"]
+  n52 --- n53
+  n54["`Kết quả có ý nghĩa chưa lặp lại là tạm thời, độ lớn hiệu ứng có lẽ bị phóng đại`"]
+  n52 --- n54
+  n55["`Khi đọc tin hãy tìm rủi ro tuyệt đối, độ bất định và bối cảnh`"]
+  n52 --- n55
+  class n0 root
+  class n1,n8,n16,n31,n36,n44,n52 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican, Anh, 3/2019), Chương 12 "How Things Go Wrong", trang PDF 223–234. Ebook không có số trang in, nên vị trí được ghi bằng chỉ số trang PDF và tên tiểu mục của sách.
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đặt khung chu trình PPDAC (Vấn đề, Kế hoạch, Dữ liệu, Phân tích, Kết luận). Chương 1–7 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md) đến [C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) dạy cách tóm tắt, truyền đạt, suy ra tổng thể, tìm nhân quả, lập mô hình và ước lượng; Chương 8–11 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md) đến [C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) dựng nền xác suất, khoảng tin cậy, kiểm định giả thuyết và suy luận Bayes. Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) đã cảnh báo về kiểm định nhiều lần và cho thấy, ngay cả khi thực hành hoàn hảo, khoảng 36% "phát hiện" có thể là sai.
+
+Chương 12 là chương "phản diện" của cuốn sách: sau mười một chương giới thiệu thống kê được làm tốt, nó chỉ ra thống kê bị làm tồi ở từng khâu của PPDAC, từ lỗi bảng tính, gian lận cố ý, "thực hành nghiên cứu đáng ngờ", tới các bộ lọc bóp méo trên đường bằng chứng đi từ phòng thí nghiệm tới công chúng. Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) trả lời câu hỏi ngược lại: làm sao để thống kê tốt hơn; Chương 14 ([C14-ket-luan.md](C14-ket-luan.md)) gói bài học thành mười quy tắc.
+
+## Lưu ý
+
+- **Lỗi chính tả trong sách:** đoạn đầu trang PDF 224 viết "Ioannadis's original claim"; đúng là Ioannidis (John Ioannidis), như chính sách viết ở câu trước.
+- **Con số "63% còn lại" chưa khớp (nhận xét của người tổng hợp):** sách nói 36% nghiên cứu lặp lại có ý nghĩa, rồi gọi "63% còn lại" là bị báo chí coi là sai. 100% − 36% = 64%. Theo hiểu biết của người tổng hợp, trong bài của Open Science Collaboration (2015), 35 trên 97 nghiên cứu gốc có ý nghĩa cho kết quả lặp lại có ý nghĩa (35 / 97 = 36,1%), phần còn lại là 62 / 97 = 63,9%, nên con số đúng hơn là khoảng 64%. Sai lệch nhỏ, không đổi lập luận.
+- **"Chương cuối về làm thống kê tốt" (trang PDF 227):** sách viết "as we shall see in the final chapter on doing stats well", nhưng chương bàn cách làm thống kê tốt hơn là Chương 13; chương cuối cùng (Chương 14) là phần kết ngắn với mười quy tắc.
+- **Ví dụ rượu và tử vong không khớp hẳn với Chương 10 (nhận xét của người tổng hợp):** Chương 10 kể nghiên cứu này (Knott và cộng sự, 2015) "khẳng định chỉ phụ nữ lớn tuổi có thể được lợi"; Chương 12 lại nói nam giới 50–64 tuổi uống 15–20 đơn vị rượu mỗi tuần có nguy cơ tử vong giảm có ý nghĩa. Theo hiểu biết của người tổng hợp, bài báo gốc báo cáo cả hai kết quả (nam 50–64 tuổi ở mức 15–20 đơn vị, và nữ từ 65 tuổi trở lên), nên hai chương không mâu thuẫn mà mỗi chương kể một nửa. Bản tổng hợp ghi rõ điều này.
+- **Ai đặt ra thuật ngữ "researcher degrees of freedom":** sách viết "Simonsohn calls these decisions 'researcher degrees of freedom'". Thuật ngữ xuất hiện trong bài của Simmons, Nelson và Simonsohn (2011) — chính bài được dẫn ở chú thích 9 của chương — nên chính xác hơn là của nhóm ba tác giả.
+- **Khoản phạt của AXA Rosenberg:** sách gọi tổng 242 triệu USD là "fine" (tiền phạt). Phép cộng đúng (217 + 25 = 242), nhưng theo hiểu biết của người tổng hợp, 217 triệu USD là tiền bồi hoàn thiệt hại cho khách hàng, chỉ 25 triệu USD là tiền phạt dân sự.
+- **Mẫu số của ba tỷ lệ về thông cáo báo chí (chỗ chưa chắc):** sách viết như thể 40%, 33% và 36% đều tính trên 462 thông cáo. Theo hiểu biết của người tổng hợp (không chắc chắn), tỷ lệ 36% "suy từ nghiên cứu trên động vật sang người" được tính trên các thông cáo về nghiên cứu động vật hoặc tế bào, không phải trên cả 462 thông cáo. Bản tổng hợp giữ cách viết của sách và ghi chú điều này.
+- **Các phép tính đã tự kiểm tra:** 217 + 25 = 242 triệu USD; 158.000 / 13 = 12.154 năm, sách làm tròn "12.000 năm", đúng; 13 / 158.000 = 8,2 ca trên 100.000 người-năm; tỷ lệ đoán đúng 53% của Bem cao hơn mức may rủi 50% đúng 3 điểm phần trăm; 2% của 2.155 nhà tâm lý học là khoảng 43 người; 45 / 125 = 36% (cây tần số của Chương 10 được chép lại để chương tự đứng được). Các phép tính minh hoạ thêm (xác suất có ít nhất một kết quả "có ý nghĩa" khi làm nhiều kiểm định; mức chênh tuyệt đối trong ví dụ xem TV) là của người tổng hợp và được ghi rõ.
+- **Hình 12.1 là sơ đồ khối, không có số:** gồm sáu ô và mũi tên (hai nguồn bằng chứng hội tụ vào văn phòng báo chí, rồi đi qua nhà báo, biên tập viên tới công chúng). Chú thích hình nói "ở mỗi khâu có các bộ lọc", nhưng sơ đồ không vẽ bộ lọc; bản tổng hợp chép lại sơ đồ và ghi bộ lọc theo lời văn. Hình nằm riêng ở trang PDF 229 (chỉ có ảnh), chú thích nằm ở trang PDF 230.
+- **Chú thích dấu sao:** trong bản trích, danh sách footnote ghép sau chương bị lệch sang các chương khác (bảng hồi quy Galton, bảng khoanh tay, bảng giết người, bảng statin). Sáu footnote thật của chương (về Facebook và tỷ lệ mang thai tuổi teen, về tranh cãi Reinhart–Rogoff, danh sách câu hỏi "không liên quan" trong thí nghiệm Beatles, "nguyên tắc Groucho", câu nói của Bem và lời nhận xét của Gelman) được lấy từ danh sách footnote của cả sách bằng cách khớp nội dung, và đã đưa vào đúng chỗ.
+- **Chương không có bảng số liệu lớn**; mọi con số đều nằm trong lời văn và đã được chép đủ.

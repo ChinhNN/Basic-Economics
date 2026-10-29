@@ -1,26 +1,10 @@
 # Bảng thuật ngữ (Glossary)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books, 2019 (bản gốc Pelican/Penguin, Anh, 2019), phần "Glossary" cuối sách, trang PDF 247–259 của bản ebook (ebook không có số trang in).
+Ngay trong phần Giới thiệu, tác giả báo trước rằng mọi thuật ngữ in đậm trong sách đều có mặt ở bảng thuật ngữ cuối sách, và bảng này đưa ra **cả định nghĩa cơ bản lẫn định nghĩa kỹ thuật**. Trên thực tế, sách không tách hai loại định nghĩa thành hai mục riêng: mỗi mục mở đầu bằng một câu định nghĩa bằng lời thường, rồi với những khái niệm có nội dung toán học thì viết tiếp phần kỹ thuật (ký hiệu, công thức, ví dụ tính).
 
-Ngay trong phần Giới thiệu, tác giả báo trước rằng mọi thuật ngữ in đậm trong sách đều có mặt ở bảng thuật ngữ cuối sách, và bảng này đưa ra **cả định nghĩa cơ bản lẫn định nghĩa kỹ thuật**. Trên thực tế, sách không tách hai loại định nghĩa thành hai mục riêng: mỗi mục mở đầu bằng một câu định nghĩa bằng lời thường, rồi với những khái niệm có nội dung toán học thì viết tiếp phần kỹ thuật (ký hiệu, công thức, ví dụ tính). Bản dịch dưới đây tách hai phần đó ra cho dễ đọc: dòng **Định nghĩa cơ bản** là phần lời, dòng **Định nghĩa kỹ thuật** là phần ký hiệu và công thức. Mục nào sách chỉ có phần lời thì chỉ có dòng định nghĩa cơ bản; vài mục sách đi thẳng vào ký hiệu (ví dụ Bernoulli distribution, least-squares, normal distribution) thì chỉ có dòng định nghĩa kỹ thuật.
+Bản dịch dưới đây tách hai phần đó ra cho dễ đọc: dòng **Định nghĩa cơ bản** là phần lời, dòng **Định nghĩa kỹ thuật** là phần ký hiệu và công thức. Mục nào sách chỉ có phần lời thì chỉ có dòng định nghĩa cơ bản; vài mục sách đi thẳng vào ký hiệu (ví dụ Bernoulli distribution, least-squares, normal distribution) thì chỉ có dòng định nghĩa kỹ thuật.
 
 Bảng có 158 mục, giữ đúng thứ tự của sách (thứ tự chữ cái tiếng Anh; riêng mục "cox regression" sách đặt sau "cross-validation", bản dịch giữ nguyên chỗ đó). Công thức được viết bằng ký hiệu Unicode: x̄ là trung bình mẫu của các giá trị x, ŷ là giá trị dự báo của y, Σ là phép lấy tổng, √ là căn bậc hai, ∫ là tích phân, p(A | B) là xác suất của A khi biết B. Dòng **Xuất hiện ở** chỉ chương dùng thuật ngữ nhiều nhất (đếm số lần xuất hiện trong chữ của từng chương), sau đó là các chương khác có dùng đáng kể. Cuối file có bảng tra nhanh Anh–Việt.
-
-> **Lưu ý:**
-> - Mọi công thức đã được đọc lại từ ảnh trang, vì trong lớp chữ của ebook các công thức dạng ảnh bị mất hoàn toàn (ví dụ lớp chữ của mục Bayes' theorem chỉ còn "through the formula ." mà không có công thức).
-> - **Mục Pearson correlation coefficient — công thức in thiếu dấu căn** (nhận xét của người tổng hợp). Ảnh trang PDF 254 in r = Σ(xᵢ − x̄)(yᵢ − ȳ) / [Σ(xᵢ − x̄)² · Σ(yᵢ − ȳ)²]. Công thức đúng phải có căn bậc hai ở mẫu số: r = Σ(xᵢ − x̄)(yᵢ − ȳ) / √[Σ(xᵢ − x̄)² · Σ(yᵢ − ȳ)²]. Không có dấu căn thì r không nằm trong khoảng từ −1 đến 1 và phụ thuộc vào đơn vị đo.
-> - **Cùng mục đó, cách viết r bằng điểm Z thiếu hệ số chia** (nhận xét của người tổng hợp). Sách viết r = Σ uᵢvᵢ ("tích chéo" của các điểm Z). Nếu uᵢ = (xᵢ − x̄)/sₓ và vᵢ = (yᵢ − ȳ)/s_y với độ lệch chuẩn mẫu dùng mẫu số n − 1, thì Σ uᵢvᵢ = (n − 1)·r, nên đúng ra r = Σ uᵢvᵢ / (n − 1) (hoặc chia cho n nếu độ lệch chuẩn tính với mẫu số n).
-> - **Mục least-squares in "b₀ = y"** thay vì b₀ = ȳ (thiếu dấu gạch trên). Vì đường thẳng được viết dưới dạng ŷ = b₀ + b₁(x − x̄), tung độ gốc b₀ phải là trung bình mẫu ȳ; chính sách cũng viết đúng là b₀ = ȳ ở mục multiple linear regression.
-> - **Mục probability distribution in "−Г < x < Г"**: chữ Г (gamma hoa) là lỗi phông chữ, đúng ra là −∞ < x < ∞.
-> - Ở mục Central Limit Theorem và standard error, ký hiệu căn trong ảnh nhỏ trông giống "Σn"; theo ngữ cảnh đó là √n (σ/√n và s/√n). Lớp chữ của mục standard error ghi "variance σ 2/n", đúng là σ²/n.
-> - **Bayes factor và likelihood ratio** (nhận xét của người tổng hợp). Bảng thuật ngữ cho hai mục này cùng một công thức p(x | H₀) / p(x | H₁), tức là đặt giả thuyết không ở tử số (đo mức dữ liệu ủng hộ H₀ so với H₁). Trong Chương 11, tác giả lại dùng chiều ngược lại: tỷ số khả năng là "xác suất của bằng chứng nếu giả thuyết A đúng chia cho xác suất của bằng chứng nếu giả thuyết B đúng", với A là bị cáo có tội (ví dụ doping: 0,95/0,05 = 19), và nhân tố Bayes khoảng 80.000 được nói là "ủng hộ hạt Higgs", tức ủng hộ giả thuyết đối. Người đọc cần để ý chiều của tỷ số trước khi diễn giải. Ngoài ra, Chương 11 nói rõ nhân tố Bayes khác tỷ số khả năng ở chỗ các giả thuyết khoa học thường chứa tham số chưa biết, và nhân tố Bayes chỉ tính được bằng cách lấy trung bình theo phân phối tiên nghiệm của các tham số đó; bảng thuật ngữ bỏ qua khác biệt này.
-> - **Mục Central Limit Theorem dùng sai từ "sampling distribution"** (nhận xét của người tổng hợp). Sách viết định lý đúng "bất kể hình dạng của phân phối lấy mẫu nền (underlying sampling distribution) của biến ngẫu nhiên". Theo chính bảng thuật ngữ, phân phối lấy mẫu là phân phối của một thống kê; điều định lý nói là trung bình mẫu có phân phối gần chuẩn bất kể hình dạng phân phối của **từng quan sát** (phân phối tổng thể).
-> - **Mục case-control study** nói thiết kế này "chỉ ước lượng được rủi ro tương đối". Theo hiểu biết của người tổng hợp, nói chính xác thì nghiên cứu bệnh–chứng ước lượng tỷ số odds, và tỷ số này xấp xỉ rủi ro tương đối khi bệnh hiếm; nghiên cứu bệnh–chứng không ước lượng được rủi ro tuyệt đối.
-> - **Mục one-sided and two-sided tests** lấy ví dụ giả thuyết không "tác dụng của thuốc là âm". Nói chặt hơn, giả thuyết không của kiểm định một phía ở đây là "tác dụng nhỏ hơn hoặc bằng 0".
-> - **Mục hazard ratio** định nghĩa tỷ số nguy cơ là "rủi ro tương đối của việc gặp biến cố trong một khoảng thời gian cố định". Theo hiểu biết của người tổng hợp, tỷ số nguy cơ là tỷ số giữa hai mức nguy cơ tức thời (hazard), chỉ xấp xỉ rủi ro tương đối trong một khoảng thời gian khi biến cố hiếm.
-> - **Các số xấp xỉ "±2" và "±3"**: 95% phân phối chuẩn nằm trong trung bình ± 1,96 độ lệch chuẩn (± 2 độ lệch chuẩn chứa 95,4%); 99,8% nằm trong ± 3,09 độ lệch chuẩn (± 3 chứa 99,7%). Sách dùng chữ "essentially" (về cơ bản) nên đây là làm tròn có chủ ý, không phải lỗi. Tương tự, giá trị t vượt ±2 tương ứng P hai phía xấp xỉ 0,05.
-> - **Ký hiệu không thống nhất giữa các mục**: xác suất khi viết p(·) chữ thường, khi viết P(·) chữ hoa; biến cố đồng thời khi viết p(B, A), khi viết P(A AND B); mục expectation dùng p(x) cho cả hàm khối xác suất và hàm mật độ, trong khi mục continuous variable dùng f(x) cho hàm mật độ; mục multiple testing viết "Type 1 error" thay vì "Type I error". Bản dịch giữ ký hiệu của từng mục.
-> - Các phép tính ví dụ trong bảng thuật ngữ đã được kiểm tra lại và đều đúng: Bonferroni với 10 giả thuyết (0,05/10 = 0,005, khoảng tin cậy 99,5%); kỳ vọng của xúc xắc (21/6 = 3,5); trung bình mẫu (7/5 = 1,4); hạng của dãy (3, 2, 1, 0, 1) là (5, 4, 2,5, 1, 2,5); Φ(−1) = 0,1587 ≈ 0,16; z₀,₇₅ = 0,674 ≈ 0,67.
 
 ## Các thuật ngữ
 
@@ -1261,3 +1245,176 @@ Khi đó E(X) = μ và V(X) = μ.
 | 156 | variance | phương sai |
 | 157 | wisdom of crowds | trí tuệ đám đông |
 | 158 | Z-score | điểm Z |
+
+## Bản đồ tư duy
+
+Toàn cảnh bảng thuật ngữ trên một trang: 158 mục của phần Glossary cuối sách được gom thành sáu nhóm chủ đề (dữ liệu và tóm tắt, thiết kế nghiên cứu và nhân quả, xác suất và phân phối, ước lượng và kiểm định, Bayes, thuật toán và dự báo), mỗi lá là một thuật ngữ kèm nghĩa ngắn theo định nghĩa của sách; nhánh cuối là các lỗi đáng chú ý trong bảng gốc.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Bảng thuật ngữ: 158 thuật ngữ in đậm của sách, mỗi mục có định nghĩa bằng lời và, khi cần, định nghĩa kỹ thuật bằng công thức`"]
+  n1["`Dữ liệu, tóm tắt và truyền đạt con số`"]
+  n0 --- n1
+  n2["`Rủi ro tuyệt đối: tỷ lệ người trong một nhóm gặp biến cố trong một khoảng thời gian`"]
+  n1 --- n2
+  n3["`Rủi ro tương đối: rủi ro ở nhóm phơi nhiễm chia rủi ro ở nhóm không phơi nhiễm`"]
+  n1 --- n3
+  n4["`Odds và tỷ số odds: odds = p ÷ (1 − p), tỷ số odds so odds giữa hai nhóm`"]
+  n1 --- n4
+  n5["`Trung bình, trung vị, yếu vị: ba cách lấy một giá trị đại diện cho tập số`"]
+  n1 --- n5
+  n6["`Độ lệch chuẩn: căn bậc hai của phương sai, đo độ phân tán`"]
+  n1 --- n6
+  n7["`Khoảng tứ phân vị: khoảng cách giữa bách phân vị thứ 25 và 75`"]
+  n1 --- n7
+  n8["`Phân phối lệch: bất đối xứng, có đuôi dài về một phía`"]
+  n1 --- n8
+  n9["`Đóng khung: cách diễn đạt con số làm đổi ấn tượng của người nghe`"]
+  n1 --- n9
+  n10["`Mảng biểu tượng: hiển thị tần số bằng tập hình nhỏ như hình người`"]
+  n1 --- n10
+  n11["`Chu trình PPDAC: Vấn đề, Kế hoạch, Dữ liệu, Phân tích, Kết luận`"]
+  n1 --- n11
+  n12["`Thiết kế nghiên cứu và nhân quả`"]
+  n0 --- n12
+  n13["`Thử nghiệm ngẫu nhiên có đối chứng: phân bổ ngẫu nhiên để các nhóm cân bằng`"]
+  n12 --- n13
+  n14["`Làm mù: người tham gia hoặc người đánh giá không biết ai nhận điều trị nào`"]
+  n12 --- n14
+  n15["`Phân tích theo ý định điều trị: phân tích theo nhóm được phân bổ, bất kể có nhận can thiệp hay không`"]
+  n12 --- n15
+  n16["`Nghiên cứu bệnh–chứng: so sánh tiền sử phơi nhiễm của người bệnh với người không bệnh`"]
+  n12 --- n16
+  n17["`Nghiên cứu đoàn hệ: theo dõi một nhóm theo thời gian, tiến cứu hoặc hồi cứu`"]
+  n12 --- n17
+  n18["`Biến gây nhiễu: liên hệ với cả biến dự báo lẫn biến phản hồi, như tuổi với chiều cao và cân nặng của trẻ`"]
+  n12 --- n18
+  n19["`Nghịch lý Simpson: quan hệ bề ngoài đảo dấu khi tính tới biến gây nhiễu`"]
+  n12 --- n19
+  n20["`Nhân quả ngược: liên hệ tưởng là nhân quả nhưng đi theo chiều ngược lại`"]
+  n12 --- n20
+  n21["`Giá trị nội tại và giá trị bên ngoài: kết luận đúng cho chính nghiên cứu và khái quát được ra ngoài`"]
+  n12 --- n21
+  n22["`Xác suất và phân phối`"]
+  n0 --- n22
+  n23["`Xác suất: cách biểu đạt toán học chính thức của sự bất định`"]
+  n22 --- n23
+  n24["`Bất định ngẫu nhiên và bất định nhận thức: may rủi tương lai và sự thiếu hiểu biết`"]
+  n22 --- n24
+  n25["`Biến cố độc lập: A xảy ra không làm đổi xác suất của B`"]
+  n22 --- n25
+  n26["`Tần số kỳ vọng: số biến cố kỳ vọng theo một mô hình xác suất giả định`"]
+  n22 --- n26
+  n27["`Phân phối nhị thức: số thành công trong n phép thử độc lập, trung bình np`"]
+  n22 --- n27
+  n28["`Phân phối Poisson: phân phối cho biến đếm các biến cố hiếm`"]
+  n22 --- n28
+  n29["`Phân phối chuẩn: hình chuông, khoảng 95% nằm trong trung bình ± 2 độ lệch chuẩn`"]
+  n22 --- n29
+  n30["`Luật số lớn: trung bình mẫu tiến dần về trung bình tổng thể`"]
+  n22 --- n30
+  n31["`Định lý giới hạn trung tâm: trung bình mẫu có phân phối gần chuẩn, độ lệch chuẩn σ ÷ √n`"]
+  n22 --- n31
+  n32["`Hồi quy về giá trị trung bình: quan sát cực đoan thường được nối tiếp bởi quan sát ít cực đoan hơn`"]
+  n22 --- n32
+  n33["`Ước lượng, mô hình và kiểm định`"]
+  n0 --- n33
+  n34["`Mô hình thống kê: biểu diễn toán học có tham số chưa biết cho phân phối của dữ liệu`"]
+  n33 --- n34
+  n35["`Bình phương nhỏ nhất: chọn hệ số để tổng bình phương phần dư nhỏ nhất`"]
+  n33 --- n35
+  n36["`Sai số chuẩn: độ lệch chuẩn của trung bình mẫu`"]
+  n33 --- n36
+  n37["`Khoảng tin cậy 95%: xấp xỉ ước lượng ± 2 sai số chuẩn`"]
+  n33 --- n37
+  n38["`Bootstrap: lấy mẫu lại có hoàn lại từ chính dữ liệu để có khoảng tin cậy`"]
+  n33 --- n38
+  n39["`Giá trị P: thước đo mức chênh lệch giữa dữ liệu và giả thuyết không`"]
+  n33 --- n39
+  n40["`Sai lầm loại I và loại II: dương tính giả và âm tính giả của kiểm định`"]
+  n33 --- n40
+  n41["`Lực kiểm định: xác suất bác bỏ đúng giả thuyết không, bằng 1 trừ tỷ lệ sai lầm loại II`"]
+  n33 --- n41
+  n42["`Hiệu chỉnh Bonferroni: 10 giả thuyết thì so P với 0,05 ÷ 10 = 0,005`"]
+  n33 --- n42
+  n43["`Tỷ lệ phát hiện sai: tỷ lệ các tuyên bố phát hiện hoá ra là dương tính giả`"]
+  n33 --- n43
+  n44["`Ý nghĩa thực tế: nghiên cứu lớn có thể có ý nghĩa thống kê mà không quan trọng`"]
+  n33 --- n44
+  n45["`Bayes`"]
+  n0 --- n45
+  n46["`Định lý Bayes: p(B khi biết A) = p(A khi biết B) × p(B) ÷ p(A)`"]
+  n45 --- n46
+  n47["`Tỷ số khả năng: mức ủng hộ tương đối của dữ liệu cho hai giả thuyết cạnh tranh`"]
+  n45 --- n47
+  n48["`Nhân tố Bayes: tỷ số khả năng cho giả thuyết khoa học, sách viết p(x khi H₀) ÷ p(x khi H₁)`"]
+  n45 --- n48
+  n49["`Phân phối tiên nghiệm và hậu nghiệm: niềm tin trước và sau khi xét dữ liệu`"]
+  n45 --- n49
+  n50["`Co kéo về trung bình: ước lượng bị kéo về phía trung bình tiên nghiệm`"]
+  n45 --- n50
+  n51["`Mô hình phân cấp: tham số các đơn vị rút từ một phân phối chung`"]
+  n45 --- n51
+  n52["`MRP: ít người trả lời ở mỗi khu vực nhưng từ rất nhiều khu vực, rồi gộp theo dân số thật`"]
+  n45 --- n52
+  n53["`Ngụy biện của công tố viên: nhầm P(bằng chứng khi vô tội) với P(vô tội khi có bằng chứng)`"]
+  n45 --- n53
+  n54["`Thuật toán, học máy và dự báo`"]
+  n0 --- n54
+  n55["`Thuật toán: quy tắc nhận biến đầu vào, cho ra dự báo, phân loại hoặc xác suất`"]
+  n54 --- n55
+  n56["`Học có giám sát và không giám sát: có hay không có nhãn lớp đã biết`"]
+  n54 --- n56
+  n57["`Quá khớp: mô hình bám quá sát dữ liệu huấn luyện nên dự báo kém đi`"]
+  n54 --- n57
+  n58["`Đánh đổi độ chệch – phương sai: mô hình phức tạp hơn thì ít chệch nhưng phương sai lớn`"]
+  n54 --- n58
+  n59["`Kiểm định chéo: lần lượt tách bớt dữ liệu làm tập kiểm tra`"]
+  n54 --- n59
+  n60["`Độ nhạy và độ đặc hiệu: tỷ lệ nhận đúng ca dương tính và ca âm tính`"]
+  n54 --- n60
+  n61["`Đường cong ROC: độ nhạy theo 1 trừ độ đặc hiệu khi đổi ngưỡng điểm`"]
+  n54 --- n61
+  n62["`Điểm Brier: sai số bình phương trung bình của dự báo xác suất`"]
+  n54 --- n62
+  n63["`Hiệu chuẩn: biến cố được gán xác suất 0,7 phải xảy ra khoảng 70% số lần`"]
+  n54 --- n63
+  n64["`Lỗi đáng chú ý trong bảng gốc`"]
+  n0 --- n64
+  n65["`Công thức tương quan Pearson in thiếu dấu căn ở mẫu số`"]
+  n64 --- n65
+  n66["`Mục least-squares in b₀ = y thay vì b₀ = ȳ`"]
+  n64 --- n66
+  n67["`Nhân tố Bayes và tỷ số khả năng đặt H₀ ở tử số, ngược chiều với Chương 11`"]
+  n64 --- n67
+  n68["`Mục probability distribution in chữ Г thay cho ∞`"]
+  n64 --- n68
+  class n0 root
+  class n1,n12,n22,n33,n45,n54,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books, 2019 (bản gốc Pelican/Penguin, Anh, 2019), phần "Glossary" cuối sách, trang PDF 247–259 của bản ebook (ebook không có số trang in).
+
+## Lưu ý
+
+- Mọi công thức đã được đọc lại từ ảnh trang, vì trong lớp chữ của ebook các công thức dạng ảnh bị mất hoàn toàn (ví dụ lớp chữ của mục Bayes' theorem chỉ còn "through the formula ." mà không có công thức).
+- **Mục Pearson correlation coefficient — công thức in thiếu dấu căn** (nhận xét của người tổng hợp). Ảnh trang PDF 254 in r = Σ(xᵢ − x̄)(yᵢ − ȳ) / [Σ(xᵢ − x̄)² · Σ(yᵢ − ȳ)²]. Công thức đúng phải có căn bậc hai ở mẫu số: r = Σ(xᵢ − x̄)(yᵢ − ȳ) / √[Σ(xᵢ − x̄)² · Σ(yᵢ − ȳ)²]. Không có dấu căn thì r không nằm trong khoảng từ −1 đến 1 và phụ thuộc vào đơn vị đo.
+- **Cùng mục đó, cách viết r bằng điểm Z thiếu hệ số chia** (nhận xét của người tổng hợp). Sách viết r = Σ uᵢvᵢ ("tích chéo" của các điểm Z). Nếu uᵢ = (xᵢ − x̄)/sₓ và vᵢ = (yᵢ − ȳ)/s_y với độ lệch chuẩn mẫu dùng mẫu số n − 1, thì Σ uᵢvᵢ = (n − 1)·r, nên đúng ra r = Σ uᵢvᵢ / (n − 1) (hoặc chia cho n nếu độ lệch chuẩn tính với mẫu số n).
+- **Mục least-squares in "b₀ = y"** thay vì b₀ = ȳ (thiếu dấu gạch trên). Vì đường thẳng được viết dưới dạng ŷ = b₀ + b₁(x − x̄), tung độ gốc b₀ phải là trung bình mẫu ȳ; chính sách cũng viết đúng là b₀ = ȳ ở mục multiple linear regression.
+- **Mục probability distribution in "−Г < x < Г"**: chữ Г (gamma hoa) là lỗi phông chữ, đúng ra là −∞ < x < ∞.
+- Ở mục Central Limit Theorem và standard error, ký hiệu căn trong ảnh nhỏ trông giống "Σn"; theo ngữ cảnh đó là √n (σ/√n và s/√n). Lớp chữ của mục standard error ghi "variance σ 2/n", đúng là σ²/n.
+- **Bayes factor và likelihood ratio** (nhận xét của người tổng hợp). Bảng thuật ngữ cho hai mục này cùng một công thức p(x | H₀) / p(x | H₁), tức là đặt giả thuyết không ở tử số (đo mức dữ liệu ủng hộ H₀ so với H₁). Trong Chương 11, tác giả lại dùng chiều ngược lại: tỷ số khả năng là "xác suất của bằng chứng nếu giả thuyết A đúng chia cho xác suất của bằng chứng nếu giả thuyết B đúng", với A là bị cáo có tội (ví dụ doping: 0,95/0,05 = 19), và nhân tố Bayes khoảng 80.000 được nói là "ủng hộ hạt Higgs", tức ủng hộ giả thuyết đối. Người đọc cần để ý chiều của tỷ số trước khi diễn giải. Ngoài ra, Chương 11 nói rõ nhân tố Bayes khác tỷ số khả năng ở chỗ các giả thuyết khoa học thường chứa tham số chưa biết, và nhân tố Bayes chỉ tính được bằng cách lấy trung bình theo phân phối tiên nghiệm của các tham số đó; bảng thuật ngữ bỏ qua khác biệt này.
+- **Mục Central Limit Theorem dùng sai từ "sampling distribution"** (nhận xét của người tổng hợp). Sách viết định lý đúng "bất kể hình dạng của phân phối lấy mẫu nền (underlying sampling distribution) của biến ngẫu nhiên". Theo chính bảng thuật ngữ, phân phối lấy mẫu là phân phối của một thống kê; điều định lý nói là trung bình mẫu có phân phối gần chuẩn bất kể hình dạng phân phối của **từng quan sát** (phân phối tổng thể).
+- **Mục case-control study** nói thiết kế này "chỉ ước lượng được rủi ro tương đối". Theo hiểu biết của người tổng hợp, nói chính xác thì nghiên cứu bệnh–chứng ước lượng tỷ số odds, và tỷ số này xấp xỉ rủi ro tương đối khi bệnh hiếm; nghiên cứu bệnh–chứng không ước lượng được rủi ro tuyệt đối.
+- **Mục one-sided and two-sided tests** lấy ví dụ giả thuyết không "tác dụng của thuốc là âm". Nói chặt hơn, giả thuyết không của kiểm định một phía ở đây là "tác dụng nhỏ hơn hoặc bằng 0".
+- **Mục hazard ratio** định nghĩa tỷ số nguy cơ là "rủi ro tương đối của việc gặp biến cố trong một khoảng thời gian cố định". Theo hiểu biết của người tổng hợp, tỷ số nguy cơ là tỷ số giữa hai mức nguy cơ tức thời (hazard), chỉ xấp xỉ rủi ro tương đối trong một khoảng thời gian khi biến cố hiếm.
+- **Các số xấp xỉ "±2" và "±3"**: 95% phân phối chuẩn nằm trong trung bình ± 1,96 độ lệch chuẩn (± 2 độ lệch chuẩn chứa 95,4%); 99,8% nằm trong ± 3,09 độ lệch chuẩn (± 3 chứa 99,7%). Sách dùng chữ "essentially" (về cơ bản) nên đây là làm tròn có chủ ý, không phải lỗi. Tương tự, giá trị t vượt ±2 tương ứng P hai phía xấp xỉ 0,05.
+- **Ký hiệu không thống nhất giữa các mục**: xác suất khi viết p(·) chữ thường, khi viết P(·) chữ hoa; biến cố đồng thời khi viết p(B, A), khi viết P(A AND B); mục expectation dùng p(x) cho cả hàm khối xác suất và hàm mật độ, trong khi mục continuous variable dùng f(x) cho hàm mật độ; mục multiple testing viết "Type 1 error" thay vì "Type I error". Bản dịch giữ ký hiệu của từng mục.
+- Các phép tính ví dụ trong bảng thuật ngữ đã được kiểm tra lại và đều đúng: Bonferroni với 10 giả thuyết (0,05/10 = 0,005, khoảng tin cậy 99,5%); kỳ vọng của xúc xắc (21/6 = 3,5); trung bình mẫu (7/5 = 1,4); hạng của dãy (3, 2, 1, 0, 1) là (5, 4, 2,5, 1, 2,5); Φ(−1) = 0,1587 ≈ 0,16; z₀,₇₅ = 0,674 ≈ 0,67.
