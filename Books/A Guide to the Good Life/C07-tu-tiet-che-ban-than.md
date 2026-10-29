@@ -351,3 +351,87 @@ Marcus nhiều lần tự nhắc mình đừng để phần lý trí bị "giậ
 - **Đầu tư:** người chưa từng trải qua thua lỗ thường hoảng loạn trong đợt giảm giá đầu tiên. Ai đã "tập" với khoản nhỏ, hoặc đã sống với mức chi tiêu thấp, thường giữ được kế hoạch khi thị trường giảm mạnh. Tự chủ trước lạc thú ngắn hạn (lướt sóng theo tin, khoe lãi) cũng là điều kiện để giữ chiến lược dài hạn.
 - **Công việc:** chủ động nhận một nhiệm vụ khó chịu nhỏ mỗi tuần (thuyết trình, gọi khách hàng khó tính, viết báo cáo mình ngại) là cách mở rộng vùng thoải mái nghề nghiệp. Khi việc khó lớn đến, như một cuộc đàm phán căng thẳng, ta không còn bị tê liệt.
 - **Đời sống cá nhân:** một quy tắc nhỏ theo tinh thần chương: mỗi tuần chọn một lạc thú vô hại để bỏ qua một lần (một ly cà phê sữa đá, một buổi lướt mạng xã hội, một món tráng miệng), không phải vì nó xấu mà để giữ quyền nói "không". Ghi lại cảm giác sau đó; theo Epictetus, phần lớn sẽ thấy "hài lòng và tự hào về bản thân".
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (từ nghĩ sang làm, ba lợi ích của tự nguyện chịu khổ, mặt tối của lạc thú, Khắc kỷ không chống niềm vui, ý chí như cơ bắp và lạc thú của sự khước từ), mỗi nhánh ghi luận điểm, kỹ thuật và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: định kỳ tự nguyện chịu bất tiện nhỏ và từ chối lạc thú có sẵn để rèn tự chủ và trân trọng tiện nghi`"]
+  n1["`Đầu chương — Đưa tưởng tượng tiêu cực từ nghĩ sang làm`"]
+  n0 --- n1
+  n2["`Seneca: định kỳ thực hành sống kham khổ với khẩu phần rẻ và áo thô để trân trọng điều đang có`"]
+  n1 --- n2
+  n3["`Epicurus cũng sống kham khổ nhưng để kiểm tra mình thật sự cần gì`"]
+  n1 --- n3
+  n4["`Musonius: chủ động mặc phong phanh khi lạnh, đi chân đất, nhịn đói khát, ngủ giường cứng`"]
+  n1 --- n4
+  n5["`Không phải thói tự hành hạ: bất tiện nhỏ, tự nguyện, nhằm tận hưởng cuộc sống hơn`"]
+  n1 --- n5
+  n6["`Phần tiếp — Ba lợi ích của tự nguyện chịu khổ (Musonius)`"]
+  n0 --- n6
+  n7["`Như vắc-xin và bảo hiểm: tôi luyện trước tai họa, gặp vận rủi thì bớt khó chịu`"]
+  n6 --- n7
+  n8["`Bớt lo âu ngay bây giờ: tin mình chịu được khó chịu lớn hơn nên thêm can đảm`"]
+  n6 --- n8
+  n9["`Trân trọng tiện nghi: ra ngoài lạnh rồi vào nhà ấm mới thấy ấm`"]
+  n6 --- n9
+  n10["`Diogenes: đợi đói mới ăn, đợi khát mới uống thì bữa nào cũng ngon`"]
+  n9 --- n10
+  n11["`Người định kỳ chịu bất tiện có vùng thoải mái rộng hơn người né mọi bất tiện`"]
+  n6 --- n11
+  n12["`Giữa chương — Mặt tối của lạc thú`"]
+  n0 --- n12
+  n13["`Seneca: lạc thú như thú hoang bị bắt quay lại xé xác người bắt`"]
+  n12 --- n13
+  n14["`Seneca: càng nhiều lạc thú càng phải phục tùng nhiều chủ nhân`"]
+  n12 --- n14
+  n15["`Diogenes phái Khuyển nho: trận chiến quan trọng nhất là chống lạc thú`"]
+  n12 --- n15
+  n16["`Lạc thú lừa bằng thuốc độc qua giác quan, lùa người vào chuồng bẩn sống như lợn, sói`"]
+  n15 --- n16
+  n17["`Hai mức tiết chế`"]
+  n12 --- n17
+  n18["`Luôn tránh lạc thú chế ngự ta ngay lần đầu, như một số chất kích thích`"]
+  n17 --- n18
+  n19["`Thỉnh thoảng bỏ lạc thú vô hại như ly rượu, bát kem để học tự chủ`"]
+  n17 --- n19
+  n20["`Marcus: không cưỡng được lạc thú thì thành nô lệ, phải chống những tiếng thì thầm của nhục dục`"]
+  n12 --- n20
+  n21["`Giữa chương — Khắc kỷ không chống niềm vui`"]
+  n0 --- n21
+  n22["`Vẫn hưởng tình bạn, gia đình, bữa ăn, cả giàu sang nhưng thận trọng`"]
+  n21 --- n22
+  n23["`Ranh giới mỏng giữa thưởng thức bữa ăn và tham ăn; Epictetus khuyên luôn cảnh giác kẻo bám chặt`"]
+  n21 --- n23
+  n24["`Seneca: người thường làm mọi việc vì lạc thú, nhà hiền triết không làm gì vì lạc thú`"]
+  n21 --- n24
+  n25["`Cuối chương — Kỹ thuật khó nhất nhưng đáng làm`"]
+  n0 --- n25
+  n26["`Đi xe buýt khi có ô tô, ra bão tuyết với áo mỏng, từ chối kem mà không ăn kiêng`"]
+  n25 --- n26
+  n27["`Ý chí giống cơ bắp, càng rèn càng mạnh, dần kiểm soát hoàn toàn bản thân`"]
+  n25 --- n27
+  n28["`Không tự chủ cũng tốn sức: Musonius nhắc thời gian đổ vào các cuộc tình vụng trộm`"]
+  n25 --- n28
+  n29["`Seneca: sự trong sạch cho ta thời gian rỗi, sự phóng đãng không cho một giây ngơi nghỉ`"]
+  n28 --- n29
+  n30["`Từ chối lạc thú tự nó là lạc thú: Epictetus nói ta sẽ hài lòng và tự hào về bản thân`"]
+  n25 --- n30
+  n31["`Seneca: niềm lạc thú lớn nhất là tìm được lạc thú trong nước, bột lúa mạch, vỏ bánh mì`"]
+  n25 --- n31
+  n32["`Thông điệp xuyên suốt`"]
+  n0 --- n32
+  n33["`Tự chủ là năng lực nền của mọi triết lý sống, thiếu nó lạc thú kéo ta khỏi mục tiêu`"]
+  n32 --- n33
+  n34["`Chịu thiếu chút ít hôm nay để bớt sợ thiếu và hưởng trọn tiện nghi về sau`"]
+  n32 --- n34
+  class n0 root
+  class n1,n6,n12,n21,n25,n32 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n26,n27,n28,n29,n30,n31,n33,n34 leaf
+```

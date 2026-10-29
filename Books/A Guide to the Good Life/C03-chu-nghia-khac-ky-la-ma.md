@@ -568,3 +568,99 @@ Marcus không truyền bá học thuyết, và quần chúng không quan tâm. �
 - **Đầu tư và tài chính:** bài học của Seneca: được phép giàu, nhưng phải sẵn sàng mất. Kiểm tra cụ thể: nếu ngày mai mất một nửa tài sản (như Seneca bị tịch thu), mình có còn sống bình thản được không? Nếu không, mức phụ thuộc vào của cải đã quá cao, và danh mục có thể đang chịu rủi ro vượt mức chịu đựng tâm lý của mình. Hình ảnh thầy thể dục áp vào thị trường: một đợt sụt giảm là bài kiểm tra kỷ luật đầu tư, không phải bằng chứng rằng mình bị số phận chống lại.
 - **Đời sống cá nhân:** cách Musonius sống ở Gyara (tìm hiểu đảo, tìm ra suối nước, tiếp học trò) là mẫu ứng xử khi bị đẩy vào hoàn cảnh xấu ngoài ý muốn, như mất việc hay phải chuyển đến nơi xa: tìm hiểu hoàn cảnh mới, tìm nguồn lực sẵn có, giữ các mối quan hệ.
 - **Học tập và tự cải thiện:** lời dạy "ra về phải thấy khó chịu" áp vào việc chọn sách, khóa học, người góp ý: thứ làm mình dễ chịu chưa chắc làm mình tốt lên; lời phê bình làm mình xấu hổ thường là thứ đáng nghe nhất.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (Seneca, Musonius Rufus, Epictetus, thần Zeus trong lý lẽ của Epictetus, Marcus Aurelius), mỗi nhánh ghi tiểu sử then chốt, lời dạy và câu trích của từng người; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: bốn nhà Khắc kỷ La Mã sống tích cực giữa đời, coi trọng niềm vui, và kỹ thuật của họ dùng được không cần tin thần Zeus`"]
+  n1["`Đầu chương — Seneca: viết hay nhất, giàu có, cố vấn của Nero`"]
+  n0 --- n1
+  n2["`Nhà soạn kịch, nhà tài chính giàu có, nghị sĩ, gia sư rồi cố vấn của Nero`"]
+  n1 --- n2
+  n3["`Bị Claudius đày ra Corsica tám năm, vẫn đọc, viết, nghiên cứu hòn đảo`"]
+  n1 --- n3
+  n4["`Cùng Burrus kiềm tính tàn bạo của Nero, giữ cho đế chế năm năm yên ổn`"]
+  n1 --- n4
+  n5["`Bị chê đạo đức giả vì giàu; Irvine đáp: Khắc kỷ không đòi khổ hạnh, chỉ đòi sẵn sàng bỏ của cải`"]
+  n1 --- n5
+  n6["`Năm 65 bị Nero buộc chết, trách bạn khóc: triết lý Khắc kỷ của các anh đâu rồi`"]
+  n1 --- n6
+  n7["`Seneca: người Khắc kỷ phải “học cách cảm nhận niềm vui”, luôn hân hoan từ bên trong`"]
+  n1 --- n7
+  n8["`Nhà Khắc kỷ hoan hỉ không phải cụm từ tự mâu thuẫn`"]
+  n7 --- n8
+  n9["`Phần tiếp — Musonius Rufus: người thầy thực dụng`"]
+  n0 --- n9
+  n10["`Bỏ đường chính trị để mở trường, không viết sách, học trò Lucius ghi bài giảng`"]
+  n9 --- n10
+  n11["`Bị Nero đày ra đảo Gyara hoang, gần như không có nước`"]
+  n9 --- n11
+  n12["`Không tuyệt vọng: tìm ra suối nước, học trò vẫn đến thăm`"]
+  n11 --- n12
+  n13["`Bài giảng phải khiến người nghe xấu hổ và im lặng, không vỗ tay`"]
+  n9 --- n13
+  n14["`Người học triết phải tham gia xã hội và giữ bình thản trong đó, không rút lui như phái Epicurus`"]
+  n9 --- n14
+  n15["`Phụ nữ có lý trí như đàn ông nên cũng nên học triết`"]
+  n9 --- n15
+  n16["`Giữa chương — Epictetus: từ nô lệ thành người thầy hàng đầu`"]
+  n0 --- n16
+  n17["`Nô lệ của Epaphroditus, thư ký của Nero; được tự do khi Nero chết`"]
+  n16 --- n17
+  n18["`Bị Domitian trục xuất, chuyển trường về Nicopolis, học trò đến từ khắp đế quốc`"]
+  n16 --- n18
+  n19["`Chỉ nhận học trò muốn được lợi từ triết học và hiểu nhiệm vụ của nó`"]
+  n16 --- n19
+  n20["`Trường triết như phòng khám: ra về phải thấy khó chịu vì thuốc tốt thường khó chịu`"]
+  n16 --- n20
+  n21["`Nghệ thuật sống: đời bạn là chất liệu, như gỗ với thợ mộc`"]
+  n16 --- n21
+  n22["`Kỹ thuật cụ thể cho khi bị lăng mạ, anh trai nổi giận, mất người thân, bị lưu đày`"]
+  n21 --- n22
+  n23["`Giữa chương — Thần Zeus trong lý lẽ của Epictetus`"]
+  n0 --- n23
+  n24["`Zeus tạo ra ta có lý trí như thần, nên ta nửa thú nửa thần`"]
+  n23 --- n24
+  n25["`Zeus không toàn năng, không cho ta thoát thân xác và của cải nên cho ta khả năng lựa chọn`"]
+  n23 --- n25
+  n26["`Dùng đúng khả năng chọn và từ chối thì không bao giờ thất vọng hay bất mãn`"]
+  n25 --- n26
+  n27["`Zeus như thầy thể dục cho ta đấu với thanh niên vạm vỡ để rèn ta`"]
+  n23 --- n27
+  n28["`Seneca: thần không nuông người tốt như vật cưng, nghịch cảnh chỉ là rèn luyện`"]
+  n27 --- n28
+  n29["`Irvine: người hiện đại khó tin Zeus nhưng vẫn dùng được kỹ thuật Khắc kỷ để đạt bình thản`"]
+  n23 --- n29
+  n30["`Cuối chương — Marcus Aurelius: hoàng đế triết gia`"]
+  n0 --- n30
+  n31["`Tự dặn mỗi sáng: hôm nay sẽ gặp kẻ phiền nhiễu, vô ơn, vì họ không biết tốt xấu`"]
+  n30 --- n31
+  n32["`Thầy Apollonius, Rusticus; Epictetus qua Các bài giảng ảnh hưởng lớn nhất`"]
+  n30 --- n32
+  n33["`Hoàng đế khiêm tốn: kính trọng Viện Nguyên lão, bán đồ trong cung thay vì tăng thuế`"]
+  n30 --- n33
+  n34["`Gibbon: người cuối trong Năm bậc minh quân (96–180), thời con người thịnh vượng nhất`"]
+  n33 --- n34
+  n35["`Đời đầy khổ nạn: bệnh, 14 con chỉ 6 sống, chiến tranh, phản loạn, dịch bệnh`"]
+  n30 --- n35
+  n36["`Marcus: nghệ thuật sống giống đấu vật hơn khiêu vũ`"]
+  n35 --- n36
+  n37["`Không truyền bá Khắc kỷ; Suy tưởng là nhật ký riêng, chỉ công bố sau khi ông mất`"]
+  n30 --- n37
+  n38["`Thông điệp xuyên suốt`"]
+  n0 --- n38
+  n39["`Bốn người bổ sung nhau: Seneca viết hay, Musonius thực dụng, Epictetus phân tích, Marcus thực hành`"]
+  n38 --- n39
+  n40["`Khắc kỷ vắng bóng không vì sai mà vì người ta không tìm triết lý sống và hiểu sai nó`"]
+  n38 --- n40
+  class n0 root
+  class n1,n9,n16,n23,n30,n38 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n39,n40 leaf
+```

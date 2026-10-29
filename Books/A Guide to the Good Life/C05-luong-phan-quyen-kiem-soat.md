@@ -436,3 +436,93 @@ Lập luận chia trường hợp ở *Suy tưởng* 8.17 (sửa được ngư�
 - **Đầu tư:** giá cổ phiếu ngày mai thuộc mục "hoàn toàn không kiểm soát"; lợi nhuận năm nay thuộc mục "một phần"; còn quy trình (phân tích kỹ, đa dạng hóa, không vay quá sức, tuân thủ kế hoạch phân bổ tài sản) thuộc mục "hoàn toàn kiểm soát". Đánh giá bản thân theo việc có giữ được quy trình hay không, và dùng kết quả để sửa quy trình, chứ không để kết quả ngắn hạn quyết định cảm xúc.
 - **Gia đình:** "làm con cái nghe lời" là mục tiêu bên ngoài; "giải thích rõ ràng, giữ bình tĩnh, làm gương" là mục tiêu nội tại. Như Irvine với vợ ông: mục tiêu là cư xử yêu thương nhất có thể, không phải bắt người kia đáp lại.
 - **Một bài tập nhỏ:** khi lo lắng về một việc, viết ra ba cột theo phép tam phân. Những gì nằm ở cột "hoàn toàn không kiểm soát" (lãi suất, thời tiết, quyết định của người khác) thì gạch đi; với cột "một phần", viết lại mỗi dòng thành một mục tiêu nỗ lực.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (lựa chọn bên trong hay bên ngoài, câu mở đầu Cẩm nang, phép tam phân và mục hoàn toàn kiểm soát, bài toán người Khắc kỷ thụ động, nội tại hóa mục tiêu cùng phản bác và Cato), mỗi nhánh ghi luận điểm, ví dụ và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: chia mọi thứ thành ba mức kiểm soát, bỏ qua điều không kiểm soát được, và nội tại hóa mục tiêu`"]
+  n1["`Đầu chương — Epictetus: tìm lợi ích và tổn hại bên trong mình`"]
+  n0 --- n1
+  n2["`Số đông tìm lợi và hại bên ngoài; triết gia tìm chúng từ chính bản thân`"]
+  n1 --- n2
+  n3["`Không thể vừa hạnh phúc vừa khao khát thứ không có trong hiện tại`"]
+  n1 --- n3
+  n4["`Thay đổi ham muốn của mình dễ và tốt hơn thay đổi thế giới`"]
+  n1 --- n4
+  n5["`Bất khả chiến bại: không dự cuộc thi mình có thể thua thì không bao giờ thua`"]
+  n1 --- n5
+  n6["`Phần tiếp — Câu mở đầu Cẩm nang: một số thứ tùy thuộc vào ta, một số thì không`"]
+  n0 --- n6
+  n7["`Tùy thuộc vào ta: quan điểm, thôi thúc, khao khát, ác cảm`"]
+  n6 --- n7
+  n8["`Không tùy thuộc: của cải, danh tiếng, địa vị, người thân sống mãi hay không`"]
+  n6 --- n8
+  n9["`Muốn thứ ngoài quyền mình thì mất bình thản dù đạt hay không`"]
+  n6 --- n9
+  n10["`Không đạt thì bị ngăn trở, đau khổ, phiền muộn`"]
+  n9 --- n10
+  n11["`Đạt được thì đã lo âu suốt thời gian chờ`"]
+  n9 --- n11
+  n12["`Giữa chương — Irvine đổi lưỡng phân thành tam phân`"]
+  n0 --- n12
+  n13["`Thắng trận quần vợt chỉ kiểm soát được một phần, phép chia đôi bỏ sót loại này`"]
+  n12 --- n13
+  n14["`Hoàn toàn kiểm soát → nên quan tâm`"]
+  n12 --- n14
+  n15["`Mục tiêu tự đặt, giá trị của bản thân, quan điểm về chúng`"]
+  n14 --- n15
+  n16["`Marcus: tính cách như thành thật, điềm đạm, kiềm giận có thể bộc lộ ngay`"]
+  n14 --- n16
+  n17["`Hoàn toàn không kiểm soát, như mặt trời có mọc ngày mai → bỏ qua`"]
+  n12 --- n17
+  n18["`Marcus: đừng làm những hành động vô ích`"]
+  n17 --- n18
+  n19["`Kiểm soát một phần → quan tâm nhưng nội tại hóa mục tiêu`"]
+  n12 --- n19
+  n20["`Irvine bác Epictetus: thôi thúc, khao khát, ác cảm không hoàn toàn trong quyền ta`"]
+  n12 --- n20
+  n21["`Thôi thúc đặt cược số 17, thèm kem khi ăn kiêng, sợ nhện đều tự nổi lên`"]
+  n20 --- n21
+  n22["`Giữa chương — Bài toán người Khắc kỷ thụ động`"]
+  n0 --- n22
+  n23["`Nếu tránh mọi thứ có thể thất bại thì không chơi quần vợt, không cầu hôn, không nộp đơn xin việc`"]
+  n22 --- n23
+  n24["`Phần lớn đời sống thuộc loại kiểm soát một phần, nên người Khắc kỷ sẽ sống thu mình`"]
+  n22 --- n24
+  n25["`Thực tế họ dấn thân, nên Irvine kết luận lập luận đó đã hiểu sai họ`"]
+  n22 --- n25
+  n26["`Cuối chương — Nội tại hóa mục tiêu`"]
+  n0 --- n26
+  n27["`Quần vợt: mục tiêu là chơi hết sức, không phải thắng`"]
+  n26 --- n27
+  n28["`Chơi hết sức là cách tốt nhất để thắng; đặt mục tiêu thắng dễ rối khi bị dẫn trước`"]
+  n27 --- n28
+  n29["`Hôn nhân: cư xử yêu thương nhất có thể, thay vì làm vợ yêu mình`"]
+  n26 --- n29
+  n30["`Công việc: làm tốt nhất có thể, thay vì được sếp tăng lương`"]
+  n26 --- n30
+  n31["`Nhà văn: làm cật lực và gửi bản thảo đủ số lần định trước, thay vì được xuất bản`"]
+  n26 --- n31
+  n32["`Rút thời gian chán nản sau lời từ chối từ một năm xuống một ngày`"]
+  n31 --- n32
+  n33["`Phản bác “chiêu trò tâm lý”: tập lâu thì mục tiêu nội tại thành mục tiêu thật, và mẹo hữu ích vẫn đáng dùng`"]
+  n26 --- n33
+  n34["`Irvine thú nhận ít bằng chứng các nhà Khắc kỷ cổ dùng kỹ thuật này, chấp nhận bị coi là sửa đổi`"]
+  n26 --- n34
+  n35["`Thông điệp xuyên suốt`"]
+  n0 --- n35
+  n36["`Cato chống Caesar mà vẫn thanh thản vì mục tiêu là làm hết sức, không phải thay đổi được thế giới`"]
+  n35 --- n36
+  n37["`Mỗi ngày xếp mọi việc vào ba mục, gạt mục không kiểm soát, đặt mục tiêu nội tại cho mục một phần`"]
+  n35 --- n37
+  class n0 root
+  class n1,n6,n12,n22,n26,n35 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37 leaf
+```

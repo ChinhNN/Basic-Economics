@@ -344,3 +344,89 @@ Marcus nhiều lần nói ta chỉ có thể mất khoảnh khắc hiện tại,
 - **Đầu tư:** "giá mà mua cổ phiếu ấy từ năm ngoái" và "giá mà bán trước đợt giảm" là hai câu tốn kém nhất trong đầu tư. Giá mua là quá khứ (chi phí chìm); quyết định nắm giữ hay bán chỉ nên dựa trên triển vọng từ hôm nay trở đi. Câu hỏi đúng: nếu hôm nay mình đang cầm tiền mặt, mình có mua cổ phiếu này ở giá hiện tại không?
 - **Tài chính cá nhân:** khi so thu nhập hay tài sản của mình với bạn bè, đó là so sánh đi lên mà thuyết vận mệnh khuyên từ chối. Thay vào đó, tập trung vào điều kiểm soát được từ nay: tỷ lệ tiết kiệm, kỹ năng, kế hoạch.
 - **Đời sống cá nhân:** khi kẹt xe hay chuyến bay bị hoãn, khoảnh khắc ấy đã như thế; bực bội không làm xe chạy. Đón nhận nó (gọi một cuộc điện thoại đã định, nghe một bài giảng, đọc vài trang sách) là áp dụng thuyết vận mệnh về hiện tại, trong khi vẫn lên kế hoạch đi sớm hơn lần sau (không theo thuyết vận mệnh về tương lai).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (lời khuyên thuận theo vận mệnh, câu đố tin vận mệnh mà vẫn cố gắng, vận mệnh về quá khứ, vận mệnh về hiện tại và quan hệ với Chương 4–5, phản bác thiếu tham vọng), mỗi nhánh ghi luận điểm, ví dụ và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: chấp nhận quá khứ và khoảnh khắc hiện tại như vận mệnh, nhưng vẫn nỗ lực tác động tới tương lai`"]
+  n1["`Đầu chương — Seneca, Epictetus, Marcus khuyên thuận theo vận mệnh`"]
+  n0 --- n1
+  n2["`Seneca: là niềm an ủi lớn khi vận mệnh song hành với vũ trụ ta đang trôi trong đó`"]
+  n1 --- n2
+  n3["`Epictetus: ta là diễn viên trong vở kịch của Vận mệnh, không chọn vai nhưng phải diễn hết sức`"]
+  n1 --- n3
+  n4["`Hãy muốn mọi sự “xảy đến đúng như chúng cần phải xảy đến”`"]
+  n3 --- n4
+  n5["`Marcus: chống lại vận mệnh là chống tự nhiên, dẫn tới đau khổ, giận, sợ`"]
+  n1 --- n5
+  n6["`Yêu những người vận mệnh đặt bên cạnh, đón nhận mọi trải nghiệm khung cửi số phận dệt`"]
+  n5 --- n6
+  n7["`Phần tiếp — Câu đố: tin vận mệnh mà vẫn tranh đấu`"]
+  n0 --- n7
+  n8["`Người La Mã tin ba nữ thần Clotho quay sợi, Lachesis đo sợi, Atropos cắt chỉ`"]
+  n7 --- n8
+  n9["`Đời như cuộc đua ngựa đã dàn xếp, tưởng như không ai còn muốn tranh đấu`"]
+  n7 --- n9
+  n10["`Vậy mà các nhà Khắc kỷ vẫn tìm cách tác động tới kết quả tương lai`"]
+  n7 --- n10
+  n11["`Câu hỏi đặt ra: họ khuyên thuyết vận mệnh mà dường như không sống theo nó`"]
+  n7 --- n11
+  n12["`Giữa chương — Lời giải: vận mệnh về quá khứ, không phải về tương lai`"]
+  n0 --- n12
+  n13["`Khắc kỷ không khuyên tin hành động của mình vô ích với tương lai`"]
+  n12 --- n13
+  n14["`Người mẹ có con ốm phải tìm cách chữa cho con`"]
+  n12 --- n14
+  n15["`Nếu con đã chết thì đau buồn là tự nhiên, nhưng đắm chìm mãi là lãng phí`"]
+  n12 --- n15
+  n16["`Rút bài học: con chết vì quả dại có độc thì dạy các con khác tránh xa`"]
+  n15 --- n16
+  n17["`Rồi buông bỏ, không sống với những câu “giá mà đưa con đi thầy thuốc sớm hơn”`"]
+  n15 --- n17
+  n18["`Người hiện đại dễ chấp nhận vận mệnh về quá khứ hơn vận mệnh về tương lai`"]
+  n12 --- n18
+  n19["`Giữa chương — Vận mệnh về hiện tại, nối với Chương 4 và 5`"]
+  n0 --- n19
+  n20["`Không hành động nào đổi được khoảnh khắc này, vì làm xong thì nó đã thành quá khứ`"]
+  n19 --- n20
+  n21["`Marcus: không thể chào đón khách khi khách chưa đến; lời khuyên chỉ áp vào việc đã và đang xảy ra`"]
+  n19 --- n21
+  n22["`Phí khoảnh khắc hiện tại để ước nó khác đi thì sống bất mãn, đón nhận nó thì vui sống`"]
+  n19 --- n22
+  n23["`Marcus: ta chỉ sở hữu hiện tại; tương đồng với lời dạy sống trong hiện tại của Phật giáo`"]
+  n22 --- n23
+  n24["`Quá khứ và hiện tại thuộc mục hoàn toàn không kiểm soát của Chương 5`"]
+  n19 --- n24
+  n25["`Vì vậy lo về các sự kiện quá khứ hoặc hiện tại là phí thời gian`"]
+  n24 --- n25
+  n26["`Là mặt bên kia của tưởng tượng tiêu cực: từ chối nghĩ hoàn cảnh có thể tốt hơn`"]
+  n19 --- n26
+  n27["`Cuối chương — Phản bác: bằng lòng có làm thiếu tham vọng`"]
+  n0 --- n27
+  n28["`Các nhà Khắc kỷ rất năng động: Seneca soạn kịch, đầu tư, cố vấn; Marcus cai trị đế chế`"]
+  n27 --- n28
+  n29["`Musonius và Epictetus đứng đầu những trường triết học thành công`"]
+  n28 --- n29
+  n30["`Họ phấn đấu cho đức hạnh, cho thực hành Khắc kỷ và cho bổn phận xã hội`"]
+  n27 --- n30
+  n31["`Seneca khuyên chú ý mọi lợi thế tô điểm cuộc sống: kết hôn, sinh con, kết bạn`"]
+  n27 --- n31
+  n32["`Không theo đuổi tiền tài danh vọng vì chúng không có giá trị thực, nhưng lại thường có chúng`"]
+  n27 --- n32
+  n33["`Thông điệp xuyên suốt`"]
+  n0 --- n33
+  n34["`Với quá khứ hỏi “lần sau làm gì khác”, không hỏi “giá mà”`"]
+  n33 --- n34
+  n35["`Bằng lòng với điều đang có, dồn tham vọng vào đức hạnh và bổn phận`"]
+  n33 --- n35
+  class n0 root
+  class n1,n7,n12,n19,n27,n33 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35 leaf
+```

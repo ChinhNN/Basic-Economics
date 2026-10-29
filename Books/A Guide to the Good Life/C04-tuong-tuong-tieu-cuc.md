@@ -482,3 +482,101 @@ Irvine hỏi thẳng người chán đời rằng có gì đáng khao khát hơn
 - **Đầu tư và tài chính cá nhân:** thích nghi khoái lạc là cơ chế của "lạm phát lối sống": thu nhập tăng thì chi tiêu tăng theo, và mức tiết kiệm không tăng. Trước khi nâng cấp xe hay nhà, hỏi: sau ba tháng mình có còn thấy khác biệt không? Theo hướng ngược lại, tưởng tượng tiêu cực trong đầu tư là tự hỏi "nếu danh mục giảm 40% thì mình sống thế nào?" trước khi nó xảy ra; người đã nghĩ trước câu này thường không bán tháo ở đáy, đúng như lý do thứ hai của Seneca.
 - **Gia đình:** câu chuyện người cha đọc báo trong khi con vào phòng áp dụng nguyên vẹn cho người cha cầm điện thoại. Một quy tắc nhỏ rút từ chương: khi con chào buổi sáng, đặt điện thoại xuống và nhìn con, vì sẽ có một lần cuối cùng con chạy tới chào như vậy.
 - **Đời sống thường ngày:** khi đồ đạc của mình bị hỏng (người nhà làm vỡ cốc, đồng nghiệp làm hỏng file), hỏi như Epictetus: nếu chuyện này xảy ra ở nhà người khác, mình sẽ nói gì? Câu trả lời thường là "không sao, chuyện bình thường", và đó là phản ứng đúng cho cả trường hợp của mình.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (ba lý do nghĩ về điều xấu, kỹ thuật và lời khuyên của Seneca, Epictetus, Marcus, người Khắc kỷ lạc quan và tai họa, cách thực hành, hai phản bác và vô thường), mỗi nhánh ghi luận điểm, ví dụ và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: định kỳ tưởng tượng mất những gì đang có để muốn lại chính chúng, liều thuốc chống thích nghi với khoái lạc`"]
+  n1["`Đầu chương — Ba lý do để nghĩ về điều tồi tệ`"]
+  n0 --- n1
+  n2["`Lý do 1: phòng ngừa, như nghĩ cách kẻ gian vào nhà để khóa cửa`"]
+  n1 --- n2
+  n3["`Lý do 2 (Seneca, Epictetus): giảm cú sốc khi điều xấu vẫn xảy ra`"]
+  n1 --- n3
+  n4["`Seneca: tai họa đánh nặng nhất vào người chỉ biết mong cầu vận may`"]
+  n3 --- n4
+  n5["`Lý do 3 quan trọng nhất: chống lại sự không bao giờ thỏa mãn`"]
+  n1 --- n5
+  n6["`Thích nghi với khoái lạc: trúng xổ số, đồ mới mua, việc mơ ước, hôn nhân đều phai dần niềm vui`"]
+  n5 --- n6
+  n7["`Vòng quay thỏa mãn: muốn, có, quen, rồi lại bất mãn với ham muốn lớn hơn`"]
+  n5 --- n7
+  n8["`Bí quyết hạnh phúc là học cách muốn những gì mình đã có`"]
+  n1 --- n8
+  n9["`Phần tiếp — Kỹ thuật và lời khuyên của các nhà Khắc kỷ`"]
+  n0 --- n9
+  n10["`Tưởng tượng vợ bỏ đi, xe bị trộm, mất việc để trân trọng chúng hơn; dùng từ thời Chrysippus`"]
+  n9 --- n10
+  n11["`Seneca với Marcia: mọi thứ ta có đều vay mượn từ Vận mệnh, bị đòi lại không báo trước`"]
+  n9 --- n11
+  n12["`Epictetus: khi hôn con hãy nghĩ con có thể chết ngày mai; khi chào bạn nghĩ có thể là lần cuối`"]
+  n9 --- n12
+  n13["`Hai người cha: người nghĩ đến cái chết của con mừng mỗi sáng và chơi với con nhiều hơn`"]
+  n9 --- n13
+  n14["`Sống mỗi ngày như ngày cuối là đổi trạng thái tâm trí, không phải ăn chơi buông thả`"]
+  n9 --- n14
+  n15["`Marcus: dùng lúc rảnh nghĩ về thứ đang có thay vì thứ muốn mà chưa có`"]
+  n9 --- n15
+  n16["`Nghĩ đến việc mất tài sản, khả năng nghe, nói, thở, nuốt, và sự tự do`"]
+  n15 --- n16
+  n17["`Giữa chương — Người Khắc kỷ lạc quan, và tai họa như cách thức tỉnh`"]
+  n0 --- n17
+  n18["`Người chỉ có một cái khố vẫn có thể mất cái khố, nên ai cũng dùng được kỹ thuật này`"]
+  n17 --- n18
+  n19["`Khắc kỷ không khuyên khuất phục bất công: vừa cải thiện hoàn cảnh vừa bớt khổ`"]
+  n17 --- n19
+  n20["`Người Khắc kỷ vui vì ly còn nửa nước, vui vì có cái ly, rồi ngạc nhiên trước cái ly trong suốt`"]
+  n17 --- n20
+  n21["`Trẻ em vui vì không coi gì là đương nhiên; lớn lên chai lì dần`"]
+  n17 --- n21
+  n22["`Tai họa thật thức tỉnh người sống sót nhưng có ba hạn chế`"]
+  n17 --- n22
+  n23["`Không thể chờ tai họa, nó có thể giết luôn người được thức tỉnh, và niềm vui sau đó phai dần`"]
+  n22 --- n23
+  n24["`Tưởng tượng tiêu cực làm được ngay, không hại ai, lặp lại được nên tác dụng kéo dài`"]
+  n22 --- n24
+  n25["`Giữa chương — Cách thực hành`"]
+  n0 --- n25
+  n26["`Lời tạ ơn trước bữa ăn là một dạng tưởng tượng tiêu cực`"]
+  n25 --- n26
+  n27["`Thỏa mãn với điều nhỏ bé không phải nhược điểm mà là phúc phận`"]
+  n25 --- n27
+  n28["`Nhìn bất hạnh của người khác và nghĩ nó có thể đến với mình`"]
+  n25 --- n28
+  n29["`Đọc lịch sử: ta đang sống đời mơ ước của tổ tiên với kháng sinh, điều hòa, kính mắt`"]
+  n25 --- n29
+  n30["`Chiều ngược lại (Epictetus): người hầu nhà khác làm vỡ cốc ta nói “chỉ là cái cốc”, nhà mình cũng vậy`"]
+  n25 --- n30
+  n31["`Cuối chương — Hai phản bác và vô thường`"]
+  n0 --- n31
+  n32["`Phản bác 1: nghĩ về tai họa làm hỏng buổi dã ngoại`"]
+  n31 --- n32
+  n33["`Chỉ làm định kỳ; suy ngẫm khác lo lắng, như nhà khí tượng nghĩ về lốc xoáy mà không sợ`"]
+  n32 --- n33
+  n34["`Phản bác 2: càng trân trọng càng đau khi mất`"]
+  n31 --- n34
+  n35["`Người cha thờ ơ vẫn đau và còn thêm hối hận “giá như”`"]
+  n34 --- n35
+  n36["`Marcus: đừng quý quá mức; Seneca: làm người sử dụng, không làm nô lệ cho quà của Vận mệnh`"]
+  n34 --- n36
+  n37["`Seneca và Marcus như Phật giáo: suy ngẫm về vô thường, thứ ta quý như lá rụng khi gió thổi`"]
+  n31 --- n37
+  n38["`Mọi hoạt động đều có một lần cuối cùng, ý thức điều đó làm việc bình thường thành phi thường`"]
+  n31 --- n38
+  n39["`Thông điệp xuyên suốt`"]
+  n0 --- n39
+  n40["`Tận hưởng những gì đang có mà không bám chấp, để có niềm vui vô hạn, bền vững như Seneca hứa`"]
+  n39 --- n40
+  n41["`Irvine coi đây là kỹ thuật giá trị nhất trong bộ công cụ Khắc kỷ`"]
+  n39 --- n41
+  class n0 root
+  class n1,n9,n17,n25,n31,n39 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41 leaf
+```

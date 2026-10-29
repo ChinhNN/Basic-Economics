@@ -475,3 +475,101 @@ Zeno, Chrysippus, Epictetus tin rằng lý trí phổ quát chỉ ra một con �
 - **Công việc:** phân biệt "kỹ năng nhà ngụy biện" (thắng cuộc họp, thắng đàm phán bằng mọi giá) với "kỹ năng triết gia" (thuyết phục bằng lý lẽ, không thao túng). Về dài hạn, uy tín đến từ kiểu thứ hai.
 - **Đầu tư và tài chính:** "con đường giữa" của phái Khắc kỷ áp vào chi tiêu: không khổ hạnh, không chạy theo hàng tiêu dùng thịnh hành; hưởng những gì mình có nhưng định kỳ tự hỏi "nếu mất khoản này thì mình sống thế nào". Câu hỏi ấy cũng là bài kiểm tra mức chịu rủi ro thật của một danh mục đầu tư.
 - **Chọn triết lý theo tính cách:** người hay lo âu, dễ bị ý kiến người khác chi phối có lẽ hợp với chủ nghĩa Khắc kỷ; nhưng cần cảnh giác với việc chọn triết lý chỉ vì nó chiều theo thói quen sẵn có.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (nguồn gốc triết học và bước ngoặt Socrates, nhà ngụy biện và triết gia, khoảng trống triết lý sống ngày nay, chuyến dạo Athens năm 300 TCN, các trường phái và lập trường của Irvine), mỗi nhánh ghi luận điểm, nhân vật và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: triết học cổ đại là triết học để sống, ngày nay ta phải tự lập một ngôi trường triết học ảo`"]
+  n1["`Đầu chương — Socrates kéo triết học từ trời xuống đất`"]
+  n0 --- n1
+  n2["`Triết gia là người luôn hỏi tiếp: thần tạo ra thế giới thì ai tạo ra thần`"]
+  n1 --- n2
+  n3["`Thế kỷ 6 TCN tư duy triết học bùng lên ở Ý, Hy Lạp, Trung Quốc (Khổng Tử), Ấn Độ (Đức Phật)`"]
+  n1 --- n3
+  n4["`Diogenes Laertius chia hai nhánh: nhánh Ý dẫn tới Epicurus, nhánh Ionia dẫn tới Socrates`"]
+  n1 --- n4
+  n5["`Socrates đổi trọng tâm từ giải thích tự nhiên sang thân phận con người và cách sống`"]
+  n1 --- n5
+  n6["`Cicero: Socrates đưa triết học vào thành phố và gia đình`"]
+  n5 --- n6
+  n7["`Cornford: tiền Socrates khám phá Tự nhiên, Socrates khám phá Tâm hồn`"]
+  n5 --- n7
+  n8["`Navia: Socrates ấn tượng vì đưa lý thuyết vào sinh hoạt thường ngày`"]
+  n5 --- n8
+  n9["`Sau khi Socrates chết, học trò lập trường: Plato, Aristippus, Euclides, Phaedo, Antisthenes`"]
+  n1 --- n9
+  n10["`Plato giữ mặt lý thuyết, Antisthenes giữ mặt lối sống; về sau lý thuyết thịnh, thực tiễn lụi tàn`"]
+  n1 --- n10
+  n11["`Phần tiếp — Nhà ngụy biện và triết gia cùng dạy thuyết phục`"]
+  n0 --- n11
+  n12["`Ở Hy Lạp, La Mã dân chủ, ai thuyết phục giỏi thì thành công trong chính trị, luật pháp`"]
+  n11 --- n12
+  n13["`Nhà ngụy biện dạy thắng tranh luận, kể cả bằng thao túng cảm xúc`"]
+  n11 --- n13
+  n14["`Triết gia dạy thuyết phục bằng lý trí, tránh thao túng, và dạy thêm cách sống tốt`"]
+  n11 --- n14
+  n15["`Marrou: triết gia nhấn mạnh đạo đức, nhân cách và đời sống nội tâm`"]
+  n14 --- n15
+  n16["`Aristotle làm gia sư cho Alexander; nhà ít tiền gửi con vào trường triết, sau lan sang Rome`"]
+  n11 --- n16
+  n17["`Giữa chương — Ngày nay đại học và tôn giáo đều không dạy triết lý sống`"]
+  n0 --- n17
+  n18["`Sinh viên học triết vì bắt buộc, hiếm khóa học nào dạy triết lý sống`"]
+  n17 --- n18
+  n19["`Tôn giáo dạy làm người có đạo đức và lên thiên đàng, không dạy điều đáng theo đuổi đời này`"]
+  n17 --- n19
+  n20["`Làm giàu mua biệt thự hay bỏ về sống trong lều đều được, miễn hợp pháp`"]
+  n19 --- n20
+  n21["`Tín đồ Luther, Baptist, Do Thái giáo, Mormon, Công giáo ngoài đời sống giống hệt nhau`"]
+  n19 --- n21
+  n22["`Kết quả: mọi người cùng theo một chủ nghĩa khoái lạc khai ngộ tự phát`"]
+  n19 --- n22
+  n23["`Ngoại lệ Hutterite cấm sở hữu tài sản riêng để giữ ý thức cộng đồng, nên bị coi là kỳ lạ`"]
+  n17 --- n23
+  n24["`Lời khuyên: tự lập ngôi trường triết học ảo bằng cách đọc các triết gia cổ đại`"]
+  n17 --- n24
+  n25["`Giữa chương — Dạo Athens năm 300 TCN`"]
+  n0 --- n25
+  n26["`Stoa Poikile (Dãy Cột Sơn) phía bắc Agora: Zeno xứ Citium giảng, lập phái Khắc kỷ`"]
+  n25 --- n26
+  n27["`Các triết gia Yếm thế như Crates kéo người qua đường vào tranh luận; cha mẹ ngại vì đời cơ cực`"]
+  n25 --- n27
+  n28["`Khu vườn của Epicurus ngoài Cổng Dipylon, môn đồ tự trồng rau`"]
+  n25 --- n28
+  n29["`Học viện Academy của Plato do Polemo đứng đầu; Lyceum của phái Peripatetic do Theophrastus đứng đầu`"]
+  n25 --- n29
+  n30["`Người học gồm cả người lớn; Polemo buộc tội Zeno đến Academy để đánh cắp học thuyết`"]
+  n25 --- n30
+  n31["`Cuối chương — Trường phái khác nhau và lập trường của Irvine`"]
+  n0 --- n31
+  n32["`Phái Khắc kỷ dạy cả vật lý và lô-gic; phái Cyrenaic và Yếm thế chỉ dạy triết lý sống`"]
+  n31 --- n32
+  n33["`Phái Cyrenaic theo lạc thú, phái Yếm thế khổ hạnh, phái Khắc kỷ đứng giữa`"]
+  n31 --- n33
+  n34["`Khắc kỷ: hưởng tình bạn, giàu sang mà không bám chấp, định kỳ suy ngẫm về việc mất chúng`"]
+  n33 --- n34
+  n35["`Theo trường phái là bản sắc cả đời (Simon Price, Paul Veyne)`"]
+  n31 --- n35
+  n36["`Veyne: triết gia thực thụ chỉnh cả hành vi, trang phục theo học thuyết, sẵn sàng chết vì nó`"]
+  n35 --- n36
+  n37["`Irvine: không thể chứng minh Khắc kỷ đúng cho mọi người`"]
+  n31 --- n37
+  n38["`Nên chọn triết lý sống theo tính cách và hoàn cảnh; nhiều người hợp với Khắc kỷ`"]
+  n37 --- n38
+  n39["`Thông điệp xuyên suốt`"]
+  n0 --- n39
+  n40["`Mặt thực tiễn của triết học đã lụi tàn, cuốn sách muốn khôi phục nó`"]
+  n39 --- n40
+  n41["`Có một triết lý sống nhất quán nào cũng tốt hơn không có`"]
+  n39 --- n41
+  class n0 root
+  class n1,n11,n17,n25,n31,n39 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41 leaf
+```

@@ -516,3 +516,107 @@ Irvine kể ông chọn chủ nghĩa Khắc kỷ thay vì Thiền vì nó hợp 
 - **Đầu tư và tài chính:** một kế hoạch tài chính tốt bắt đầu bằng câu hỏi "tiền để làm gì", không phải "lãi bao nhiêu". Nếu mục tiêu lớn lao là sự bình thản, thì danh mục đầu tư khiến ta mất ngủ mỗi khi thị trường giảm 10% là danh mục sai, dù lợi nhuận kỳ vọng cao. Phương châm "muốn những gì mình đã có" giúp chống lại việc liên tục nâng mức chi tiêu khi thu nhập tăng, nguyên nhân chính khiến nhiều người thu nhập cao vẫn không tích lũy được.
 - **Công việc:** "chủ nghĩa khoái lạc khai ngộ" trong công việc là chạy theo lương, chức, danh hiệu theo kiểu có tính toán. Câu hỏi của Irvine buộc ta xem các thứ đó phục vụ mục tiêu nào; nếu không trả lời được, đó là dấu hiệu của việc "sống lầm lạc" trong sự nghiệp.
 - **Chi phí của việc không quyết định:** giống như không lập kế hoạch tài chính vẫn là một kế hoạch (thường là kế hoạch tồi), không chọn triết lý sống nghĩa là để văn hóa tiêu dùng và các xao lãng hằng ngày chọn thay. Dành mười phút trước khi ngủ, như Seneca khuyên, để xem lại một ngày theo mục tiêu đã chọn là cách bắt đầu rẻ nhất.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời cảm ơn và phần Giới thiệu trên một trang: năm nhánh lớn đi theo trình tự của phần Giới thiệu gốc (triết lý sống là gì, triết học cổ đại, con đường của tác giả, kế hoạch thực hành, chi phí và bố cục sách), mỗi nhánh ghi luận điểm, nhân vật và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Giới thiệu: ai cũng cần một triết lý sống, và chủ nghĩa Khắc kỷ hiểu đúng là một lựa chọn vui vẻ, thực dụng`"]
+  n1["`Đầu phần Giới thiệu — Triết lý sống gồm mục tiêu lớn lao và chiến lược`"]
+  n0 --- n1
+  n2["`Câu hỏi gốc: trong mọi thứ có thể theo đuổi, thứ gì có giá trị nhất`"]
+  n1 --- n2
+  n3["`Bạn đời, việc làm, ngôi nhà chỉ là thứ muốn có trong cuộc sống, chưa phải mục tiêu lớn lao`"]
+  n2 --- n3
+  n4["`Nhiều người không trả lời được vì văn hóa hiện đại liên tục tạo xao lãng`"]
+  n2 --- n4
+  n5["`Mục tiêu lớn lao đứng đầu thứ bậc, không được hy sinh cho mục tiêu khác`"]
+  n1 --- n5
+  n6["`Chiến lược cho biết mỗi ngày phải làm gì để đạt mục tiêu ấy`"]
+  n1 --- n6
+  n7["`Không có triết lý sống thì có nguy cơ sống lầm lạc`"]
+  n1 --- n7
+  n8["`Lúc lâm chung mới thấy mình đã phí đời vào những thứ phù phiếm`"]
+  n7 --- n8
+  n9["`Phần tiếp — Ngày nay thiếu triết gia về cuộc sống, thời cổ đại thì có`"]
+  n0 --- n9
+  n10["`Muốn khỏi phí tiền có chuyên gia tài chính; muốn khỏi phí đời thì không có ai tương tự`"]
+  n9 --- n10
+  n11["`Triết gia về cuộc sống giúp chọn, xếp hạng mục tiêu sống rồi lập chiến lược`"]
+  n10 --- n11
+  n12["`Khoa triết hiện đại có triết học lô-gic, chính trị, thể thao nhưng không có loại triết gia này`"]
+  n10 --- n12
+  n13["`Triết học Hy Lạp, La Mã tồn tại chủ yếu để xây dựng triết lý sống`"]
+  n9 --- n13
+  n14["`Trường phái nhận bất kỳ ai làm học trò`"]
+  n13 --- n14
+  n15["`Antisthenes lập phái Yếm thế sống khổ hạnh; Aristippus lập phái Cyrenaic hưởng lạc thú`"]
+  n13 --- n15
+  n16["`Ở giữa có phái Epicurus, phái Hoài nghi và phái Khắc kỷ của Zeno xứ Citium`"]
+  n13 --- n16
+  n17["`Epicurus: lời triết gia không chữa được nỗi đau của con người là lời rỗng tuếch`"]
+  n9 --- n17
+  n18["`Seneca: mỗi lần học với triết gia về, người học phải khôn ngoan hơn`"]
+  n9 --- n18
+  n19["`Giữa phần Giới thiệu — Con đường của Irvine và những định kiến sai`"]
+  n0 --- n19
+  n20["`Irvine từng sống theo chủ nghĩa khoái lạc khai ngộ: tiền tài, địa vị, lạc thú`"]
+  n19 --- n20
+  n21["`Ngoài 40 tuổi gặp Epictetus qua tiểu thuyết A Man in Full của Tom Wolfe`"]
+  n19 --- n21
+  n22["`Nghiên cứu về ham muốn: các truyền thống đều khuyên học cách muốn những gì mình đã có`"]
+  n19 --- n22
+  n23["`Định tu Thiền nhưng chọn Khắc kỷ vì hợp tính ưa phân tích hơn`"]
+  n19 --- n23
+  n24["`Định kiến sai: người Khắc kỷ lãnh đạm, kìm nén mọi cảm xúc`"]
+  n19 --- n24
+  n25["`Thực ra họ chỉ loại trừ cảm xúc tiêu cực và coi trọng niềm vui (Seneca, Musonius Rufus)`"]
+  n24 --- n25
+  n26["`Họ sống năng động: Cato Trẻ giữ nền Cộng hòa, Seneca cố vấn hoàng đế, Marcus Aurelius làm hoàng đế`"]
+  n24 --- n26
+  n27["`Hai lý do viết sách: đính chính định kiến và chia sẻ thành công của việc tự thực hành`"]
+  n19 --- n27
+  n28["`Phần sau — Kế hoạch thực hành Irvine tự dựng từ manh mối rải rác`"]
+  n0 --- n28
+  n29["`Không còn trường Khắc kỷ, tác phẩm còn lại không có giáo án cho người mới`"]
+  n28 --- n29
+  n30["`Xem lại mục tiêu: theo đuổi sự bình thản và đức hạnh thay cho danh vọng và của cải`"]
+  n28 --- n30
+  n31["`Bình thản là không có giận, buồn, lo, sợ mà có niềm vui, không phải trạng thái đờ đẫn do thuốc`"]
+  n30 --- n31
+  n32["`Dùng kỹ thuật tâm lý: phân biệt điều kiểm soát được với điều không kiểm soát được`"]
+  n28 --- n32
+  n33["`Nhận ra người khác dễ làm xáo trộn mình và dùng chiến lược Khắc kỷ để ngăn họ`"]
+  n28 --- n33
+  n34["`Tự quan sát việc hằng ngày, tìm nguồn gốc đau khổ và cách ngăn nó`"]
+  n28 --- n34
+  n35["`Cuối phần Giới thiệu — Chi phí, tôn giáo và bố cục sách`"]
+  n0 --- n35
+  n36["`Mức nỗ lực: khoái lạc khai ngộ ít hơn Khắc kỷ, Khắc kỷ ít hơn Thiền tông`"]
+  n35 --- n36
+  n37["`Không cần giờ tập riêng: suy ngẫm lúc kẹt xe hoặc trên giường trước khi ngủ như Seneca khuyên`"]
+  n36 --- n37
+  n38["`Không có triết lý sống cũng phải trả giá: có thể phí cả đời cho thứ vô giá trị`"]
+  n35 --- n38
+  n39["`Hợp với phần lớn tôn giáo, nhất là Cơ Đốc giáo, và cả người theo thuyết bất khả tri`"]
+  n35 --- n39
+  n40["`Ý của Epictetus về điều kiểm soát được gợi nhớ Lời cầu nguyện Bình an`"]
+  n39 --- n40
+  n41["`Bốn phần: lịch sử, kỹ thuật tâm lý, lời khuyên đời thường, bảo vệ và đánh giá lại`"]
+  n35 --- n41
+  n42["`Thông điệp xuyên suốt`"]
+  n0 --- n42
+  n43["`Không chọn triết lý sống thì văn hóa xao lãng sẽ chọn thay mình`"]
+  n42 --- n43
+  n44["`Câu hỏi dẫn đường: các nhà Khắc kỷ cổ đại sẽ viết cẩm nang sống tốt thế nào cho người thế kỷ 21`"]
+  n42 --- n44
+  class n0 root
+  class n1,n9,n19,n28,n35,n42 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n43,n44 leaf
+```

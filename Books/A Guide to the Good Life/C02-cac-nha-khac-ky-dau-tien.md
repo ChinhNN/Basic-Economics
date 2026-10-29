@@ -512,3 +512,103 @@ Marcus quả thật bỏ lô-gic và vật lý theo nghĩa nghiên cứu (*Suy t
 - **Ham muốn và chi tiêu:** câu của Diogenes về tượng 3.000 drachma và đấu bột 2 xu là lời nhắc so giá trị sử dụng với giá trị biểu tượng. Trước một khoản chi lớn cho thứ "để làm cảnh", hỏi: món này giữ cho đời sống mình điều gì?
 - **Phê bình và kẻ thù:** lời khuyên của Antisthenes (chú ý kẻ thù, cảnh giác kẻ xu nịnh) áp vào quản trị: lắng nghe đối thủ cạnh tranh và nhà phê bình khắt khe, và nghi ngờ khi xung quanh chỉ toàn lời khen.
 - **Đời sống cá nhân:** nhà hiền triết là hình mẫu không đạt được; dùng nó như la bàn chứ không như thước đo để tự trách. Mỗi tối có thể hỏi: hôm nay mình gần hình mẫu hơn ở điểm nào, chứ không phải: mình đã hoàn hảo chưa.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (Zeno và phái Yếm thế, Zeno lập trường phái, ba phần của triết học Khắc kỷ, đạo đức và nhà hiền triết, người La Mã thêm sự bình thản và lựa chọn của Irvine), mỗi nhánh ghi luận điểm, nhân vật và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: Zeno ghép lối sống Yếm thế với lý thuyết, lấy đức hạnh làm lõi; người La Mã và Irvine nhấn mạnh sự bình thản`"]
+  n1["`Đầu chương — Zeno đắm tàu và học phái Yếm thế`"]
+  n0 --- n1
+  n2["`Zeno xứ Citium đắm tàu ở Athens khoảng 300 TCN, theo Crates: “chuyến đi thành công khi bị đắm tàu”`"]
+  n1 --- n2
+  n3["`Phái Yếm thế sống như người vô gia cư: ngủ dưới đất, chỉ có áo choàng rách`"]
+  n1 --- n3
+  n4["`Epictetus: người Yếm thế phải bỏ ý muốn chiếm hữu, trơ như sắt đá trước lăng mạ`"]
+  n3 --- n4
+  n5["`Antisthenes: thà rơi vào tay quạ ăn xác chết hơn kẻ xu nịnh ăn người sống`"]
+  n1 --- n5
+  n6["`Antisthenes: hãy chú ý kẻ thù vì họ thấy lỗi ta trước tiên`"]
+  n1 --- n6
+  n7["`Diogenes thành Sinope: đói là món khai vị ngon nhất`"]
+  n1 --- n7
+  n8["`Tượng làm cảnh 3.000 drachma trong khi 2 xu mua được đấu bột giữ mạng sống`"]
+  n7 --- n8
+  n9["`Học triết để chuẩn bị cho mọi vận mệnh, mầm của các kỹ thuật Khắc kỷ`"]
+  n7 --- n9
+  n10["`Phần tiếp — Zeno lập trường phái Khắc kỷ`"]
+  n0 --- n10
+  n11["`Zeno thích lý thuyết hơn Crates nên học thêm Stilpo (Megarian) và Polemo (Academy)`"]
+  n10 --- n11
+  n12["`Trường ở Stoa Poikile ghép lối sống của Crates, lý thuyết của Polemo, lô-gic của Megarian`"]
+  n10 --- n12
+  n13["`Schopenhauer: phái Khắc kỷ nối tiếp Yếm thế bằng cách đổi thực hành thành lý thuyết`"]
+  n10 --- n13
+  n14["`Bỏ khổ hạnh: được ăn ngon mặc đẹp nhưng sẵn sàng từ bỏ`"]
+  n10 --- n14
+  n15["`Tránh xa điều tốt là ngầm thừa nhận chúng thật sự tốt và mình sẽ thèm`"]
+  n14 --- n15
+  n16["`Giữa chương — Ba phần của triết học: lô-gic, vật lý, đạo đức`"]
+  n0 --- n16
+  n17["`Lô-gic Khắc kỷ công phu chưa từng có, vì lý tính phân biệt người với vật`"]
+  n16 --- n17
+  n18["`Dạng lập luận nếu A thì B; A; do đó B vẫn được dùng đến nay`"]
+  n17 --- n18
+  n19["`Lô-gic giúp học trò phát hiện ngụy biện và thắng tranh luận`"]
+  n17 --- n19
+  n20["`Vật lý giải thích tự nhiên và gồm cả thần học: quan hệ đúng giữa người và thần`"]
+  n16 --- n20
+  n21["`Ẩn dụ cánh đồng: lô-gic là hàng rào, vật lý là đất, đạo đức là cây trồng`"]
+  n16 --- n21
+  n22["`Giữa chương — Đạo đức: sống tốt là sống đức hạnh`"]
+  n0 --- n22
+  n23["`Đạo đức hạnh phúc học hỏi làm sao sống tốt, không hỏi đúng sai`"]
+  n22 --- n23
+  n24["`Lương cao mà ghét việc hoặc phải làm điều sai vẫn là sống tồi`"]
+  n22 --- n24
+  n25["`Đức hạnh là làm tốt chức năng, như cây búa tốt là cây búa đóng đinh tốt`"]
+  n22 --- n25
+  n26["`Zeno: sống đức hạnh là sống thuận theo tự nhiên, tức sống theo lý trí`"]
+  n22 --- n26
+  n27["`Lý trí chỉ ra bổn phận với đồng loại; Cato dấn thân chính trường dù mất mạng`"]
+  n26 --- n27
+  n28["`Nhà hiền triết sống hoàn toàn thuận theo tự nhiên, gần như không ai đạt`"]
+  n22 --- n28
+  n29["`Dùng làm hình mẫu để hướng tới, như Đức Phật với Phật tử`"]
+  n28 --- n29
+  n30["`Cuối chương — Người La Mã thêm mục tiêu bình thản, Irvine chọn theo`"]
+  n0 --- n30
+  n31["`Cleanthes suýt mất trường, Chrysippus khôi phục, Panaetius đưa Khắc kỷ sang Rome khoảng 140 TCN`"]
+  n30 --- n31
+  n32["`Người La Mã bỏ dần lô-gic và vật lý; Marcus Aurelius tự hào không phí thời gian vào chúng`"]
+  n30 --- n32
+  n33["`Bình thản là không có đau buồn, tức giận, lo lắng mà có vui mừng, không phải như thây ma`"]
+  n30 --- n33
+  n34["`Vòng tuần hoàn tốt: theo đuổi đức hạnh đem lại bình thản, bình thản giúp lý trí theo đuổi đức hạnh`"]
+  n30 --- n34
+  n35["`Epictetus: đức hạnh hứa hẹn hạnh phúc, sự tĩnh tâm và sự thanh thản`"]
+  n30 --- n35
+  n36["`Giả thuyết của Irvine vì sao La Mã nhấn mạnh bình thản`"]
+  n30 --- n36
+  n37["`Người La Mã ít tin lý trí thuần túy thúc đẩy được hành động`"]
+  n36 --- n37
+  n38["`Cạnh tranh học trò với phái Epicurus, vốn cũng hứa sự bình thản`"]
+  n36 --- n38
+  n39["`Tiền lệ pha trộn: Potamo lập phái Chiết trung, Zeno ghép ba trường`"]
+  n36 --- n39
+  n40["`Thông điệp xuyên suốt`"]
+  n0 --- n40
+  n41["`Người hiện đại hứng thú với sự bình thản hơn đức hạnh, nên sách theo các nhà Khắc kỷ La Mã`"]
+  n40 --- n41
+  n42["`Irvine khẳng định ai làm theo lời khuyên đạt bình thản cũng sẽ đạt đức hạnh`"]
+  n40 --- n42
+  class n0 root
+  class n1,n10,n16,n22,n30,n40 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42 leaf
+```
