@@ -983,7 +983,7 @@ Nhận xét rằng trung bình cộng số bạn tình khác giới của nam v�
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn đi theo trình tự các mục của bản gốc (con bò của Galton và hũ kẹo trong “Can we trust the wisdom of crowds?”, độ phân tán, khác biệt giữa các nhóm, quan hệ giữa hai biến, xu hướng, truyền đạt và kể chuyện), mỗi nhánh ghi thước đo, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 2 trên một trang: bảy nhánh lớn đi theo trình tự các mục của bản gốc (con bò của Galton và hũ kẹo trong “Can we trust the wisdom of crowds?”, độ phân tán, khác biệt giữa các nhóm, quan hệ giữa hai biến, xu hướng, truyền đạt và kể chuyện, tóm tắt cuối chương), mỗi nhánh ghi thước đo, ví dụ và con số then chốt; nhánh cuối gộp mục Summary với thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -996,99 +996,131 @@ flowchart LR
   n0 --- n1
   n2["`Galton 1907: trung vị 787 phiếu đoán thịt bò là 1.207 pound, thật là 1.198 pound, ông gọi là Vox Populi`"]
   n1 --- n2
-  n3["`Thí nghiệm hũ kẹo: 915 lần đoán từ 219 tới 31.337, phân phối lệch phải rất mạnh`"]
+  n3["`Hũ kẹo: 915 lần đoán từ 219 tới 31.337, lệch phải rất mạnh, có một cụm ở đúng 10.000`"]
   n1 --- n3
-  n4["`Ba cách vẽ: biểu đồ dải điểm, biểu đồ hộp và râu, histogram`"]
+  n4["`Ba cách vẽ: biểu đồ dải điểm thấy từng điểm, hộp và râu tóm tắt nhanh, histogram cho thấy hình dạng`"]
   n1 --- n4
   n5["`Thang logarit làm phân phối số kẹo đoán gần đối xứng mà không phải bỏ điểm nào, hợp khi người đoán sai theo tỷ lệ`"]
   n1 --- n5
-  n6["`Biến đếm nhận số nguyên, biến liên tục đo với độ chính xác tùy ý`"]
+  n6["`Biến đếm nhận số nguyên 0, 1, 2…, biến liên tục về nguyên tắc đo với độ chính xác tùy ý`"]
   n1 --- n6
-  n7["`Trung bình cộng 2.408 kém, yếu vị 10.000 chỉ phản ánh thói quen chọn số tròn`"]
+  n7["`Ba thước đo vị trí: trung bình cộng là tổng chia số trường hợp, trung vị là giá trị giữa, yếu vị là giá trị hay gặp nhất`"]
   n1 --- n7
-  n8["`Trung vị 1.775 lệch số thật 1.616 khoảng 10%, gần đúng hơn 90% số người đoán`"]
-  n1 --- n8
-  n9["`Trung bình nhân sau khi bỏ 33 lần đoán từ 9.999 trở lên là 1.680, gần số thật nhất`"]
-  n8 --- n9
-  n10["`Thu nhập £400, £500, £600 thêm hai người £5.000: trung bình cộng lên £2.300, trung vị chỉ lên £600`"]
-  n1 --- n10
-  n11["`Chỉ số giá nhà dùng trung vị nhưng hay được gọi là giá nhà trung bình`"]
+  n8["`Thu nhập £400, £500, £600 thêm hai người £5.000: trung bình cộng lên £2.300, trung vị chỉ lên £600`"]
+  n7 --- n8
+  n9["`Gần như ai cũng có nhiều chân hơn trung bình cộng (khoảng 1,99999) vì phân phối lệch trái`"]
+  n7 --- n9
+  n10["`ONS gọi trung bình cộng là thu nhập tuần trung bình, còn chỉ số giá nhà dùng trung vị nhưng vẫn gọi là giá nhà trung bình`"]
+  n7 --- n10
+  n11["`Kết quả: trung bình cộng 2.408 là bản tóm tắt kém, yếu vị 10.000 chỉ phản ánh thói quen chọn số tròn`"]
   n1 --- n11
-  n12["`Mục “Describing the Spread of a Data Distribution” (trang PDF 46–47) — đo độ phân tán`"]
-  n0 --- n12
-  n13["`Khoảng biến thiên rất nhạy với lần đoán 31.337, có lẽ gõ nhầm 1.337 (tiếng lóng leet)`"]
+  n12["`Trung vị 1.775 lệch số thật 1.616 khoảng 10%, gần đúng hơn 90% số người đoán`"]
+  n1 --- n12
+  n13["`Số thật 1.616 ở phân vị thứ 45: 45% đoán thấp hơn, 55% đoán cao hơn, 1 người đoán trúng`"]
   n12 --- n13
-  n14["`Khoảng tứ phân vị 1.109 đến 2.599 chứa nửa giữa dữ liệu, không bị cực trị ảnh hưởng`"]
+  n14["`Trung bình nhân sau khi bỏ 33 lần đoán từ 9.999 trở lên là 1.680, gần số thật nhất`"]
   n12 --- n14
-  n15["`Độ lệch chuẩn 2.422 chỉ thật sự hợp với dữ liệu đối xứng, bình phương của nó là phương sai`"]
+  n15["`Trung bình nhân không đổi dù đo giá bằng pound mỗi quả cam hay số quả mỗi pound`"]
   n12 --- n15
-  n16["`Sách nói bỏ riêng 31.337 thì còn 1.398, người tổng hợp tính lại chỉ khoảng 2.226`"]
-  n15 --- n16
-  n17["`Thước đo vững như trung vị và khoảng tứ phân vị chịu được dữ liệu bẩn mà không cần loại điểm`"]
-  n12 --- n17
-  n18["`Mục “Describing Differences between Groups of Numbers” (trang PDF 47–49) — so sánh nhóm và kiểm tra tính hợp lý`"]
-  n0 --- n18
-  n19["`Khảo sát Natsal ra đời vì dịch AIDS và số liệu Kinsey không đại diện, Natsal-3 khoảng 2010 tốn £7 triệu`"]
-  n18 --- n19
-  n20["`Natsal-3, 806 nam và 1.215 nữ 35–44 tuổi: trung bình 14,3 và 8,5 bạn tình, trung vị 8 và 5, yếu vị 1`"]
-  n18 --- n20
-  n21["`Trong tổng thể khép kín, tổng số quan hệ của nam và nữ phải bằng nhau, nên khác biệt gợi ý khai báo sai lệch`"]
-  n18 --- n21
-  n22["`Biểu đồ dữ liệu thô lộ thói quen khai số tròn từ 10 trở lên, trừ một người đàn ông khai chính xác 47`"]
-  n18 --- n22
-  n23["`Thí nghiệm máy phát hiện nói dối giả: nữ khai nhiều bạn tình hơn khi tưởng bị kiểm tra`"]
-  n18 --- n23
-  n24["`Mục “Describing Relationships Between Variables” (trang PDF 50–55) — biểu đồ phân tán và hệ số tương quan`"]
+  n16["`Mục “Describing the Spread of a Data Distribution” (trang PDF 46–47) — đo độ phân tán`"]
+  n0 --- n16
+  n17["`Một con số vị trí không đủ: cỡ giày trung bình không cho hãng giày biết làm bao nhiêu đôi mỗi cỡ`"]
+  n16 --- n17
+  n18["`Khoảng biến thiên 219 tới 31.337 rất nhạy với cực trị, 31.337 có lẽ gõ nhầm 1.337 (tiếng lóng leet)`"]
+  n16 --- n18
+  n19["`Khoảng tứ phân vị (phân vị 25 tới 75) là 1.109 đến 2.599, chính là cái hộp, không bị cực trị ảnh hưởng`"]
+  n16 --- n19
+  n20["`Độ lệch chuẩn 2.422 chỉ thật sự hợp với dữ liệu đối xứng, bình phương của nó là phương sai`"]
+  n16 --- n20
+  n21["`Sách nói bỏ riêng 31.337 thì còn 1.398, người tổng hợp tính lại chỉ khoảng 2.226`"]
+  n20 --- n21
+  n22["`Chỉ số Gini đo phân tán cho dữ liệu rất lệch như thu nhập, nhưng khó hiểu theo trực giác`"]
+  n16 --- n22
+  n23["`Thước đo vững như trung vị và khoảng tứ phân vị chịu được dữ liệu bẩn mà không cần loại điểm`"]
+  n16 --- n23
+  n24["`Mục “Describing Differences between Groups of Numbers” (trang PDF 47–49) — so sánh nhóm và kiểm tra tính hợp lý`"]
   n0 --- n24
-  n25["`Pearson (Galton đề xuất, Karl Pearson công bố 1895) đo mức gần một đường thẳng, Spearman chỉ dùng thứ hạng`"]
+  n25["`Khảo sát Natsal ra đời vì dịch AIDS và số liệu Kinsey không đại diện, Natsal-3 khoảng 2010 tốn £7 triệu`"]
   n24 --- n25
-  n26["`Mổ tim trẻ dưới 1 tuổi 1991–1995: Pearson 0,59 (bỏ ngoại lai Bristol 71% thì 0,67), Spearman 0,85`"]
+  n26["`Natsal-3, 806 nam và 1.215 nữ 35–44 tuổi: trung bình cộng 14,3 và 8,5 bạn tình, trung vị 8 và 5, yếu vị 1`"]
   n24 --- n26
-  n27["`2012–2015: Pearson 0,17, Spearman −0,03, bỏ bệnh viện nhỏ nhất thì Pearson lên 0,42`"]
-  n24 --- n27
-  n28["`Datasaurus: hình khủng long và dải xiên đều có Pearson khoảng 0 dù có cấu trúc rõ`"]
-  n24 --- n28
-  n29["`Tương quan chỉ tóm tắt mức liên kết, không chứng minh nhân quả, có thể bệnh viện tốt thu hút nhiều bệnh nhân hơn`"]
+  n27["`Khoảng tứ phân vị nam 4–18, nữ 3–10, độ lệch chuẩn 24,2 và 19,7 không hợp với dữ liệu lệch`"]
+  n26 --- n27
+  n28["`Nam hơn nữ khoảng 6 theo trung bình cộng, 3 theo trung vị, tương đối là 68% và 60%`"]
+  n26 --- n28
+  n29["`Trong tổng thể khép kín, trung bình cộng số bạn tình khác giới của nam và nữ phải gần bằng nhau`"]
   n24 --- n29
-  n30["`Mục “Describing Trends” và tên David (trang PDF 55–60) — đồ thị đường và thang logarit`"]
-  n0 --- n30
-  n31["`Dân số thế giới 1951–2015 tăng khoảng 3 lần, lên gần 7,5 tỷ`"]
-  n30 --- n31
-  n32["`Thang logarit và chia theo châu lục làm lộ châu Phi tăng nhanh, châu Âu phẳng`"]
-  n30 --- n32
-  n33["`Rút mỗi nước thành một con số tăng tương đối: Ả Rập Xê Út gần 10 lần`"]
-  n30 --- n33
-  n34["`Alberto Cairo: hình tốt có thông tin tin cậy, làm nổi mẫu hình, hấp dẫn mà trung thực, cho người xem khám phá`"]
-  n30 --- n34
-  n35["`Đồ thị tương tác tên bé trai: David hạng 1 năm 1953, năm 2016 chỉ 1.461 bé, Oliver đi lên ngược chiều`"]
-  n30 --- n35
-  n36["`Mục “Communication” và “Storytelling with Statistics” (trang PDF 61–63) — truyền đạt có chủ đích`"]
-  n0 --- n36
-  n37["`Quy tắc thứ nhất: im lặng và lắng nghe để hiểu khán giả`"]
-  n36 --- n37
-  n38["`Quy tắc thứ hai: biết mình muốn đạt điều gì, cố không chen ý kiến cá nhân`"]
-  n36 --- n38
-  n39["`Hội Thống kê London 1834 tuyên bố loại bỏ ý kiến nhưng vi phạm ngay từ đầu`"]
-  n36 --- n39
-  n40["`Dataviz giúp hiểu và khám phá, đồ họa thông tin dùng khi đã biết thông điệp để kể chuyện`"]
-  n36 --- n40
-  n41["`Đồ họa Natsal-3: khoảng cách tuổi quan hệ lần đầu và sinh con đầu tăng từ khoảng 4 lên khoảng 12 năm`"]
-  n36 --- n41
-  n42["`Hans Rosling dùng đồ thị động bong bóng giàu có và sức khỏe các nước từ 1800`"]
-  n36 --- n42
-  n43["`Thông điệp xuyên suốt`"]
-  n0 --- n43
-  n44["`Gặp chữ trung bình, hỏi đó là trung bình cộng hay trung vị`"]
-  n43 --- n44
-  n45["`Đừng loại ngoại lai chỉ vì bất tiện, hãy dùng thước đo vững hoặc biến đổi dữ liệu`"]
-  n43 --- n45
-  n46["`Luôn đòi xem biểu đồ dữ liệu thô, vì số tóm tắt luôn che bớt chi tiết`"]
-  n43 --- n46
-  n47["`Con số không tự nói, cách trình bày luôn là một lựa chọn kể chuyện`"]
-  n43 --- n47
+  n30["`Giải thích một phần: nam có bạn tình trẻ hơn, phần còn lại là nam phóng đại, nữ khai bớt, hoặc cả hai`"]
+  n29 --- n30
+  n31["`Máy phát hiện nói dối giả: nữ khai nhiều bạn tình hơn khi tưởng bị kiểm tra, ở nam không thấy hiệu ứng`"]
+  n29 --- n31
+  n32["`Biểu đồ dữ liệu thô lộ thói quen khai số tròn từ 10 trở lên, trừ một người đàn ông khai chính xác 47`"]
+  n24 --- n32
+  n33["`Mục “Describing Relationships Between Variables” (trang PDF 50–55) — biểu đồ phân tán và hệ số tương quan`"]
+  n0 --- n33
+  n34["`Hiệu ứng khối lượng: giả thuyết bệnh viện mổ nhiều hơn có tỷ lệ sống 30 ngày cao hơn`"]
+  n33 --- n34
+  n35["`Pearson từ −1 tới 1 đo mức các điểm gần một đường thẳng, Galton đề xuất, Karl Pearson công bố 1895`"]
+  n33 --- n35
+  n36["`Spearman là Pearson tính trên thứ hạng, gần ±1 khi điểm tăng hoặc giảm đều, kể cả theo đường cong`"]
+  n33 --- n36
+  n37["`Mổ tim trẻ dưới 1 tuổi 1991–1995: Pearson 0,59 (bỏ ngoại lai Bristol 71% thì 0,67), Spearman 0,85`"]
+  n33 --- n37
+  n38["`Trẻ dưới 16 tuổi 2012–2015: Pearson 0,17, Spearman −0,03, chỉ 13 điểm nên bỏ bệnh viện nhỏ nhất thì Pearson lên 0,42`"]
+  n33 --- n38
+  n39["`Datasaurus: hình khủng long và năm dải xiên đều có Pearson khoảng 0 dù có cấu trúc rõ`"]
+  n33 --- n39
+  n40["`Tương quan chỉ tóm tắt mức liên kết, không chứng minh nhân quả, có thể bệnh viện tốt thu hút nhiều bệnh nhân hơn`"]
+  n33 --- n40
+  n41["`Gọi trục x là biến độc lập, trục y là biến phụ thuộc đã ngầm giả định chiều ảnh hưởng`"]
+  n40 --- n41
+  n42["`Mục “Describing Trends” và tên David (trang PDF 55–60) — đồ thị đường và thang logarit`"]
+  n0 --- n42
+  n43["`Dân số thế giới 1951–2015 tăng khoảng 3 lần, lên gần 7,5 tỷ, chủ yếu do châu Á`"]
+  n42 --- n43
+  n44["`Thang logarit tách các châu lục: châu Phi dốc nhất, châu Âu phẳng và gần đây giảm`"]
+  n42 --- n44
+  n45["`Mức tăng tương đối 1951–2015 mỗi nước: Ả Rập Xê Út gần 10 lần, Côte d'Ivoire khoảng 8,5, châu Âu khoảng 1–1,8`"]
+  n42 --- n45
+  n46["`Luôn nên chia dữ liệu theo một yếu tố, ở đây là châu lục, giải thích được một phần biến thiên chung`"]
+  n42 --- n46
+  n47["`Alberto Cairo: hình tốt có thông tin tin cậy, làm nổi mẫu hình, hấp dẫn mà trung thực, cho người xem khám phá`"]
+  n42 --- n47
+  n48["`Đồ thị tương tác tên bé trai: David hạng 1 năm 1953, năm 2016 chỉ 1.461 bé, Oliver đi lên ngược chiều`"]
+  n42 --- n48
+  n49["`Mục “Communication” và “Storytelling with Statistics” (trang PDF 61–63) — truyền đạt có chủ đích`"]
+  n0 --- n49
+  n50["`Mục tiêu là truyền đạt cởi mở, không thao túng, cố trung thực nhất có thể`"]
+  n49 --- n50
+  n51["`Hội Thống kê London 1834 tuyên bố loại bỏ ý kiến nhưng vi phạm ngay từ đầu`"]
+  n49 --- n51
+  n52["`Quy tắc thứ nhất: im lặng và lắng nghe để hiểu khán giả, tránh quá tinh vi hay quá chi tiết`"]
+  n49 --- n52
+  n53["`Quy tắc thứ hai: biết mình muốn đạt điều gì, mong là tranh luận cởi mở và quyết định có hiểu biết`"]
+  n49 --- n53
+  n54["`Con số không tự nói: bối cảnh, ngôn ngữ và thiết kế đồ họa quyết định thông điệp được tiếp nhận ra sao`"]
+  n49 --- n54
+  n55["`Dataviz giúp hiểu và khám phá, đồ họa thông tin dùng khi đã biết thông điệp để kể chuyện`"]
+  n49 --- n55
+  n56["`Đồ họa Natsal-3: khoảng cách tuổi quan hệ lần đầu và sinh con đầu của nữ tăng từ khoảng 4 lên khoảng 12 năm`"]
+  n55 --- n56
+  n57["`Hans Rosling dùng bong bóng động về giàu có và sức khỏe từ 1800, cho thấy gần như mọi nước đi chung một con đường`"]
+  n55 --- n57
+  n58["`Mục “Summary” (trang PDF 64) — tóm tắt cuối chương và thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Gặp chữ trung bình, hỏi đó là trung bình cộng hay trung vị`"]
+  n58 --- n59
+  n60["`Phân phối lệch rất phổ biến, đừng loại ngoại lai chỉ vì bất tiện, hãy dùng thước đo vững hoặc biến đổi dữ liệu`"]
+  n58 --- n60
+  n61["`Tóm tắt luôn che bớt chi tiết, nên luôn đòi xem biểu đồ dữ liệu thô`"]
+  n58 --- n61
+  n62["`Cặp số vẽ bằng biểu đồ phân tán, chuỗi thời gian vẽ bằng đồ thị đường`"]
+  n58 --- n62
+  n63["`Đồ họa thông tin dẫn người xem qua câu chuyện nhưng phải dùng với ý thức về mục đích và tác động`"]
+  n58 --- n63
   class n0 root
-  class n1,n12,n18,n24,n30,n36,n43 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47 leaf
+  class n1,n16,n24,n33,n42,n49,n58 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63 leaf
 ```
 
 ## Nguồn

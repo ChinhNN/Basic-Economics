@@ -696,7 +696,7 @@ Các ví dụ của chương đều có chung một đặc điểm: sai lệch h
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 3 trên một trang: năm nhánh lớn đi theo trình tự các mục của bản gốc (khảo sát Natsal ở phần mở đầu và “Learning from Data”, “When We Have All the Data”, “The Bell-Shaped Curve”, “What Is the Population?”), mỗi nhánh ghi khái niệm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 3 trên một trang: sáu nhánh lớn đi theo trình tự các mục của bản gốc (phần mở đầu về khảo sát Natsal, “Learning from Data”, “When We Have All the Data”, “The 'Bell-Shaped Curve'”, “What Is the Population?”, “Summary”), mỗi nhánh ghi khái niệm, ví dụ và con số then chốt; nhánh cuối gộp mục Summary với thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -705,95 +705,133 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 3: dữ liệu là phương tiện để học về một tổng thể lớn hơn, qua bốn bậc suy luận quy nạp mà bậc nào cũng có thể sai`"]
-  n1["`Phần mở đầu và mục “Learning from Data” (trang PDF 65–72) — bốn bậc từ dữ liệu tới tổng thể mục tiêu`"]
+  n1["`Phần mở đầu chương “How many sexual partners have people in Britain really had?” (trang PDF 65–66) — Natsal và chuỗi bốn bậc`"]
   n0 --- n1
-  n2["`Suy diễn chắc chắn về logic, quy nạp đi từ cái riêng tới cái chung nên luôn bất định`"]
+  n2["`Người trả lời Natsal được ẩn danh, câu trả lời chỉ là phương tiện để nói về hàng triệu người không được hỏi`"]
   n1 --- n2
   n3["`Bốn bậc (mượn của Wayne Oldford): dữ liệu thô → mẫu → tổng thể nghiên cứu → tổng thể mục tiêu`"]
   n1 --- n3
-  n4["`Khảo sát tình dục của báo chí chỉ tuyên bố người trả lời phản ánh cả nước, bỏ qua mọi bậc`"]
+  n4["`Khảo sát tình dục tự nguyện của báo chí bỏ qua mọi bậc, coi người trả lời phản ánh cả nước`"]
   n1 --- n4
-  n5["`Natsal: tỷ lệ trả lời khoảng 66%, không gồm người ở nhà tù, quân đội, tu viện`"]
+  n5["`Bậc 1 sang 2: nam khai thừa, nữ khai thiếu, làm tròn, trí nhớ kém, muốn được xã hội chấp nhận`"]
   n1 --- n5
-  n6["`Bậc 1 sang 2 là vấn đề đo lường: số đo phải tin cậy và hợp lệ`"]
-  n1 --- n6
-  n7["`Ryanair 2017 báo 92% hài lòng với thang đáp án thấp nhất là tạm được, không có lựa chọn tiêu cực`"]
-  n6 --- n7
-  n8["`Quyền bầu cử tuổi 16: 52% ủng hộ thành 37% ủng hộ chỉ vì đổi cách diễn đạt`"]
-  n6 --- n8
-  n9["`Hiệu ứng mồi: tỷ lệ thanh niên cô đơn khoảng 10% thành 42% trong bảng hỏi tự nguyện của BBC`"]
-  n6 --- n9
-  n10["`Bậc 2 sang 3 là giá trị nội tại: cách tốt nhất là lấy mẫu ngẫu nhiên được khuấy đều`"]
-  n1 --- n10
-  n11["`Bốc thăm đã dùng hàng nghìn năm để bảo đảm công bằng`"]
-  n10 --- n11
-  n12["`Nồi súp của George Gallup: khuấy đều thì một thìa đủ biết vị cả nồi`"]
-  n10 --- n12
-  n13["`Xổ số quân dịch 1969: 366 viên nang bỏ theo thứ tự tháng, không trộn, 26/31 ngày tháng Mười Hai bị gọi, tháng Giêng 14`"]
-  n10 --- n13
-  n14["`Thăm dò bầu cử Anh 2015 sai dù hỏi hàng nghìn người, vì dưới 10% trả lời`"]
-  n10 --- n14
-  n15["`Bậc 3 sang 4 là giá trị bên ngoài: thí nghiệm trên chuột, thử thuốc chỉ trên nam giới`"]
-  n1 --- n15
-  n16["`Mục “When We Have All the Data” (trang PDF 72–73) — dữ liệu hành chính đầy đủ vẫn có thể sai ở bậc cuối`"]
-  n0 --- n16
-  n17["`Khảo sát khoảng 38.000 người mỗi năm cho thấy tội phạm giảm 9% (2016–2017)`"]
-  n16 --- n17
-  n18["`Cùng giai đoạn, số tội phạm cảnh sát ghi nhận tăng 13%, nên số liệu cảnh sát mất danh hiệu thống kê quốc gia năm 2014`"]
-  n16 --- n18
-  n19["`Tội phạm tình dục ghi nhận từ 64.000 lên 121.000 (2014–2017) sau khi đổi cách ghi`"]
-  n16 --- n19
-  n20["`Một thay đổi quy trình ghi chép có thể tự tạo ra một xu hướng lớn, chất lượng dữ liệu là tối quan trọng`"]
-  n16 --- n20
-  n21["`Danh mục thiên lệch: thiên lệch phân bổ, thiên lệch tình nguyện, và nhiều loại khác`"]
-  n16 --- n21
-  n22["`Mục “The Bell-Shaped Curve” (trang PDF 73–77) — tổng thể như một phân phối xác suất`"]
-  n0 --- n22
-  n23["`Cân nặng sơ sinh đủ tháng ở Mỹ 2013: 1.096.277 bé, trung bình 3.480 g, độ lệch chuẩn 462 g`"]
-  n22 --- n23
-  n24["`Câu hỏi: bé đủ tháng 2.910 g (6 lb 7 oz) có nhẹ bất thường không`"]
-  n22 --- n24
-  n25["`Phân phối chuẩn Gauss: đại lượng do nhiều ảnh hưởng nhỏ cộng lại, trung bình và độ lệch chuẩn đủ mô tả`"]
-  n22 --- n25
-  n26["`Thống kê tóm tắt mẫu, tham số tóm tắt tổng thể`"]
-  n22 --- n26
-  n27["`Khoảng 95% nằm trong trung bình ± 2 độ lệch chuẩn, tức 2.556–4.404 g`"]
-  n22 --- n27
-  n28["`Bé 2.910 g có điểm Z = (2.910 − 3.480) / 462 ≈ −1,2, ở bách phân vị thứ 11`"]
-  n22 --- n28
-  n29["`Tứ phân vị 3.167 g và 3.791 g, khoảng tứ phân vị 624 g`"]
-  n22 --- n29
-  n30["`1,7% diện tích dưới 2.500 g vừa là tỷ lệ trẻ nhẹ cân vừa là xác suất một bé ngẫu nhiên nhẹ cân`"]
-  n22 --- n30
-  n31["`Dự đoán 1,7% so với thực tế 1,3% (14.170 bé), tính tương đối đường cong chuẩn dư khoảng 30% ở đuôi`"]
-  n22 --- n31
-  n32["`Tỷ lệ nhẹ cân toàn nước Mỹ 8%, ở phụ nữ da đen 13%`"]
-  n22 --- n32
-  n33["`Mục “What Is the Population?” (trang PDF 77–78) — ba loại tổng thể`"]
-  n0 --- n33
-  n34["`Tổng thể thực: một nhóm xác định được, như khi chọn ngẫu nhiên người để thăm dò`"]
-  n33 --- n34
-  n35["`Tổng thể ảo: mọi lần đo có thể có bằng thiết bị, như đo huyết áp`"]
-  n33 --- n35
-  n36["`Tổng thể ẩn dụ: hành động như thể dữ liệu được rút ngẫu nhiên từ không gian mọi điều có thể đã xảy ra`"]
-  n33 --- n36
-  n37["`Tin đó là may rủi hay ý thần linh là tùy mỗi người, toán học dùng được vẫn không đổi`"]
-  n33 --- n37
-  n38["`Mổ tim trẻ em ở Anh 2012–2015 có toàn bộ dữ liệu nhưng vẫn cần tổng thể ẩn dụ để suy luận`"]
-  n33 --- n38
-  n39["`Thông điệp xuyên suốt`"]
-  n0 --- n39
-  n40["`Trước mọi con số, hỏi nó về ai và được dùng để nói về ai`"]
-  n39 --- n40
-  n41["`Đọc kỹ câu hỏi gốc và các lựa chọn trả lời, vì cách hỏi có thể tự tạo ra kết quả`"]
-  n39 --- n41
-  n42["`Cỡ mẫu lớn không bù được mẫu không đại diện`"]
-  n39 --- n42
-  n43["`Một giá trị dưới trung bình chưa chắc bất thường, hãy xem bách phân vị hoặc điểm Z`"]
-  n39 --- n43
+  n6["`Máy phát hiện nói dối giả: nữ sinh viên khai nhiều bạn tình hơn nhóm được bảo đảm ẩn danh, nam không đổi`"]
+  n5 --- n6
+  n7["`Bậc 2 sang 3 khó nhất: tỷ lệ trả lời khoảng 66%, người ít hoạt động tình dục hơi ít tham gia`"]
+  n1 --- n7
+  n8["`Bậc 3 sang 4: mẫu ngẫu nhiên hộ gia đình bỏ sót người ở nhà tù, quân đội, tu viện`"]
+  n1 --- n8
+  n9["`Mục “Learning from Data—the Process of 'Inductive Inference'” (trang PDF 66–72) — đo lường, giá trị nội tại, giá trị bên ngoài`"]
+  n0 --- n9
+  n10["`Đếm và mô tả đôi khi là đủ, nhưng dự báo hay giải thích đòi hỏi khái quát hóa từ dữ liệu`"]
+  n9 --- n10
+  n11["`Suy diễn đi từ tiền đề chung nên chắc chắn về logic, quy nạp đi từ cái riêng tới cái chung nên bất định`"]
+  n9 --- n11
+  n12["`Giáo trình giả định mẫu rút ngẫu nhiên thẳng từ tổng thể cần biết, thực tế hiếm khi như vậy`"]
+  n9 --- n12
+  n13["`Bậc 1 sang 2 là đo lường: tin cậy là ít biến động giữa các lần đo, hợp lệ là đo đúng thứ cần đo, không thiên lệch`"]
+  n9 --- n13
+  n14["`Ryanair 2017 báo 92% hài lòng với thang đáp án thấp nhất là tạm được, không có lựa chọn tiêu cực`"]
+  n13 --- n14
+  n15["`Ipsos MORI 2015: trao quyền bầu cử cho người 16–17 tuổi được 52% ủng hộ, hạ tuổi bầu cử xuống 16 chỉ 37%`"]
+  n13 --- n15
+  n16["`Hiệu ứng mồi: tỷ lệ thanh niên cô đơn khoảng 10% thành 42% trong bảng hỏi tự nguyện của BBC`"]
+  n13 --- n16
+  n17["`Bậc 2 sang 3 là giá trị nội tại: cách tốt nhất để tránh thiên lệch là lấy mẫu ngẫu nhiên được khuấy đều`"]
+  n9 --- n17
+  n18["`Bốc thăm đã dùng hàng nghìn năm để bảo đảm công bằng: chia phần thưởng, chọn bồi thẩm, chọn người đi lính`"]
+  n17 --- n18
+  n19["`Nồi súp của George Gallup: khuấy đều thì một thìa đủ biết vị cả nồi`"]
+  n17 --- n19
+  n20["`Xổ số quân dịch 1969: 366 viên nang bỏ theo thứ tự tháng, không trộn, 26/31 ngày tháng Mười Hai bị gọi, tháng Giêng 14`"]
+  n17 --- n20
+  n21["`Thăm dò bầu cử Anh 2015 sai dù hỏi hàng nghìn người: chủ yếu gọi máy cố định, dưới 10% trả lời`"]
+  n17 --- n21
+  n22["`Nhiều dữ liệu không bảo đảm mẫu tốt, còn có thể tạo cảm giác yên tâm giả`"]
+  n17 --- n22
+  n23["`Bậc 3 sang 4 là giá trị bên ngoài: thí nghiệm trên chuột, thuốc chỉ thử trên nam giới rồi dùng cho phụ nữ, trẻ em`"]
+  n9 --- n23
+  n24["`Giá trị bên ngoài không giải được chỉ bằng phân tích thống kê, phải nêu giả định và hết sức thận trọng`"]
+  n23 --- n24
+  n25["`Mục “When We Have All the Data” (trang PDF 72–73) — dữ liệu hành chính đầy đủ vẫn có thể sai ở bậc cuối`"]
+  n0 --- n25
+  n26["`Có toàn bộ dữ liệu thì mẫu trùng tổng thể nghiên cứu, hết lo cỡ mẫu nhỏ nhưng các vấn đề khác vẫn còn`"]
+  n25 --- n26
+  n27["`Khảo sát Tội phạm Anh và xứ Wales hỏi khoảng 38.000 người mỗi năm, không hỏi người dưới 16 tuổi hay ở nơi tập thể`"]
+  n25 --- n27
+  n28["`Số liệu cảnh sát bỏ sót tội không được báo hay không được ghi, như dùng ma túy, trộm cắp không báo vì sợ mất giá nhà`"]
+  n25 --- n28
+  n29["`Tội phạm tình dục ghi nhận từ 64.000 (2014) lên 121.000 (2017) sau báo cáo 11/2014 chê cách ghi`"]
+  n28 --- n29
+  n30["`2016 sang 2017: khảo sát ước tính tội phạm giảm 9%, còn cảnh sát ghi nhận tăng 13%`"]
+  n25 --- n30
+  n31["`Nhà thống kê tin khảo sát hơn, số liệu cảnh sát đã mất danh hiệu thống kê quốc gia từ năm 2014`"]
+  n30 --- n31
+  n32["`Mô tả toàn bộ dữ liệu thì dễ, muốn kết luận rộng hơn thì chất lượng dữ liệu là tối quan trọng`"]
+  n25 --- n32
+  n33["`Danh mục thiên lệch: thiên lệch phân bổ giữa các nhóm điều trị, thiên lệch tình nguyện, Chương 12 bàn thêm`"]
+  n25 --- n33
+  n34["`Mục “The 'Bell-Shaped Curve'” (trang PDF 73–77) — tổng thể như một phân phối xác suất`"]
+  n0 --- n34
+  n35["`Câu hỏi: bé đủ tháng 2.910 g (6 lb 7 oz) bị bảo là dưới trung bình, có nhẹ bất thường không`"]
+  n34 --- n35
+  n36["`Coi bé là mẫu một người từ 1.096.277 ca sinh đủ tháng năm 2013 của mẹ da trắng không gốc Tây Ban Nha ở Mỹ`"]
+  n34 --- n36
+  n37["`Phân phối chuẩn (Gauss, 1809) xuất hiện khi rất nhiều ảnh hưởng nhỏ cộng lại, còn thu nhập lệch phải`"]
+  n34 --- n37
+  n38["`Đường chuẩn khớp nhất có trung bình 3.480 g, độ lệch chuẩn 462 g: hai con số tóm tắt hơn một triệu ca sinh`"]
+  n34 --- n38
+  n39["`Cùng một đại lượng gọi là thống kê khi tính trên dữ liệu, là tham số khi mô tả tổng thể`"]
+  n38 --- n39
+  n40["`Khoảng 95% nằm trong trung bình ± 2 độ lệch chuẩn (2.556–4.404 g), sách ghi 99,8% cho ± 3, đúng là 99,7%`"]
+  n38 --- n40
+  n41["`Bé 2.910 g có điểm Z = (2.910 − 3.480) / 462 ≈ −1,2, ở bách phân vị thứ 11`"]
+  n34 --- n41
+  n42["`Tứ phân vị 3.167 g và 3.791 g, trung vị 3.480 g, khoảng tứ phân vị 624 g`"]
+  n41 --- n42
+  n43["`Câu trả lời cho người bạn: dưới trung bình nhưng không bất thường, khoảng 1 trong 9 bé nhẹ hơn`"]
+  n41 --- n43
+  n44["`1,7% diện tích dưới 2.500 g vừa là tỷ lệ trẻ nhẹ cân vừa là xác suất một bé chọn ngẫu nhiên nhẹ cân`"]
+  n34 --- n44
+  n45["`Dự đoán 1,7% so với thực tế 1,3% (14.170 bé): người tổng hợp tính đường chuẩn dự đoán thừa khoảng 30% ở đuôi`"]
+  n44 --- n45
+  n46["`Tỷ lệ nhẹ cân của mọi ca sinh ở Mỹ 2013 là 8%, ở phụ nữ da đen là 13%`"]
+  n44 --- n46
+  n47["`Ở đây ta biết tổng thể, thường thì không và phải suy ngược từ dữ liệu tới tổng thể`"]
+  n34 --- n47
+  n48["`Mục “What Is the Population?” (trang PDF 77–78) — ba loại tổng thể`"]
+  n0 --- n48
+  n49["`Mổ tim trẻ em ở Anh 2012–2015 có toàn bộ dữ liệu, không có nhóm lớn hơn nào để lấy mẫu`"]
+  n48 --- n49
+  n50["`Tổng thể thực: nhóm xác định được, như thăm dò ngẫu nhiên, hay người đoán kẹo như mẫu của dân mê toán xem YouTube`"]
+  n48 --- n50
+  n51["`Tổng thể ảo: mọi lần đo có thể có bằng một thiết bị, như đo huyết áp hay ô nhiễm không khí`"]
+  n48 --- n51
+  n52["`Tổng thể ẩn dụ: làm như thể dữ liệu rút ngẫu nhiên từ không gian mọi điều có thể đã xảy ra`"]
+  n48 --- n52
+  n53["`Ví dụ ẩn dụ: số vụ giết người mỗi năm, điểm thi một lớp, dữ liệu mọi quốc gia, lịch sử phản thực tế của ca mổ tim`"]
+  n52 --- n53
+  n54["`Giữ ý tưởng tổng thể tưởng tượng để dùng được mọi công cụ toán học của lấy mẫu`"]
+  n48 --- n54
+  n55["`Tin đó là may rủi hay ý thần linh là tùy mỗi người, toán học vẫn không đổi`"]
+  n48 --- n55
+  n56["`Mục “Summary” (trang PDF 79) — tóm tắt cuối chương và thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Vấn đề và thiên lệch có thể nảy sinh ở mỗi bậc, cách tốt nhất đi từ mẫu tới tổng thể nghiên cứu là mẫu ngẫu nhiên`"]
+  n56 --- n57
+  n58["`Tổng thể vừa là nhóm cá thể vừa là phân phối xác suất, được tóm tắt bằng tham số`"]
+  n56 --- n58
+  n59["`Trước mọi con số, hỏi nó về ai và được dùng để nói về ai`"]
+  n56 --- n59
+  n60["`Đọc kỹ câu hỏi gốc và các lựa chọn trả lời, vì cách hỏi có thể tự tạo ra kết quả`"]
+  n56 --- n60
+  n61["`Cỡ mẫu lớn không bù được mẫu không đại diện`"]
+  n56 --- n61
+  n62["`Một giá trị dưới trung bình chưa chắc bất thường, hãy xem bách phân vị hoặc điểm Z`"]
+  n56 --- n62
   class n0 root
-  class n1,n16,n22,n33,n39 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n40,n41,n42,n43 leaf
+  class n1,n9,n25,n34,n48,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n62 leaf
 ```
 
 ## Nguồn
