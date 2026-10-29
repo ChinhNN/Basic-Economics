@@ -1,16 +1,16 @@
 # Chương 7 — Sắp xếp nhanh (Quicksort)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần II "Sorting and Order Statistics", Chương 7 "Quicksort", trang 170–190.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) giới thiệu sắp xếp chèn, khái niệm sắp xếp tại chỗ, bất biến vòng lặp và phương pháp chia để trị qua sắp xếp trộn. Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cho công cụ giải truy hồi: phương pháp thế, cây đệ quy và định lý thợ (master theorem). Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) cho biến ngẫu nhiên chỉ thị, tính tuyến tính của kỳ vọng và ý tưởng dùng ngẫu nhiên để không đầu vào cụ thể nào là "xấu". Chương 6 ([C06-heapsort.md](C06-heapsort.md)) mở Phần II bằng heapsort, thuật toán sắp xếp tại chỗ O(n lg n) trong trường hợp xấu nhất. Chương 7 trình bày quicksort: một thuật toán chia để trị tại chỗ, xấu nhất Θ(n²) nhưng kỳ vọng Θ(n lg n) với hằng số nhỏ, và dùng chính các công cụ trên để chứng minh điều đó. Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) chứng minh mọi thuật toán sắp xếp bằng so sánh (trong đó có quicksort) cần Ω(n lg n) phép so sánh trong trường hợp xấu nhất, rồi vượt rào này bằng sắp xếp không dựa trên so sánh. Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) dùng lại nguyên thủ tục RANDOMIZED-PARTITION của chương này để tìm phần tử nhỏ thứ i trong thời gian kỳ vọng tuyến tính (RANDOMIZED-SELECT).
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **quicksort chậm trong trường hợp xấu nhất (Θ(n²)) nhưng thường là lựa chọn thực tế tốt nhất, vì thời gian kỳ vọng Θ(n lg n) với hằng số ẩn nhỏ, nó sắp xếp tại chỗ và chạy tốt trong môi trường bộ nhớ ảo; mấu chốt là thủ tục phân hoạch (PARTITION) chạy Θ(n), và bất kỳ tỷ lệ chia cố định nào — kể cả 9:1 hay 99:1 — đều cho cây đệ quy sâu Θ(lg n) nên tổng thời gian O(n lg n).** Mục 7.1 trình bày QUICKSORT và PARTITION (phân hoạch Lomuto: chốt là phần tử cuối, bốn vùng của mảng, bất biến vòng lặp ba điều kiện). Mục 7.2 phân tích trực giác: chia lệch tối đa ở mọi tầng cho T(n) = T(n − 1) + Θ(n) = Θ(n²), xảy ra cả khi mảng đã sắp sẵn; chia đôi cho T(n) = 2T(n/2) + Θ(n) = Θ(n lg n); chia 9:1 vẫn O(n lg n); chia tốt và chia xấu xen kẽ vẫn O(n lg n) với hằng số lớn hơn chút. Mục 7.3 đưa vào lấy mẫu ngẫu nhiên: chọn chốt ngẫu nhiên đều trong mảng con (RANDOMIZED-PARTITION, RANDOMIZED-QUICKSORT) để không đầu vào nào luôn gây ra trường hợp xấu nhất. Mục 7.4 chứng minh chặt: xấu nhất Θ(n²) bằng phương pháp thế trên T(n) = max₀≤q≤n−1 (T(q) + T(n − q − 1)) + Θ(n); kỳ vọng O(n lg n) bằng cách đếm tổng số phép so sánh X: hai phần tử nhỏ thứ i và thứ j được so sánh khi và chỉ khi một trong hai là phần tử đầu tiên được chọn làm chốt trong tập {zᵢ, …, zⱼ}, xác suất 2/(j − i + 1), nên E[X] = Σᵢ Σⱼ 2/(j − i + 1) < Σᵢ Σₖ 2/k = O(n lg n).
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong mục lục chương này**; dấu sao chỉ xuất hiện ở hai bài tập khó: Exercise 7.2-6 và Exercise 7.4-6.
-> - **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương** (ví dụ `AŒj  x` là `A[j] ≤ x`, `qD PARTITION` là `q = PARTITION`, `‚.n2/` là `Θ(n²)`, các tổng kép trong (7.2)–(7.4) bị vỡ thành nhiều dòng; dấu ≤ ở dòng 4 của PARTITION và ở dòng 7, 10 của HOARE-PARTITION mất hẳn). Mọi pseudocode, công thức (7.1)–(7.7), Hình 7.1, 7.4, 7.5 trong bản tổng hợp này được đối chiếu với ảnh trang 171, 172, 176, 177, 180, 184, 185, 187.
-> - **Chỗ ký hiệu chưa chặt trong Problem 7-2(c) (nhận xét của người tổng hợp):** đề viết "QUICKSORT′(p, r)" thiếu tham số mảng A (các thủ tục khác đều có dạng (A, p, r)), và nhắc tới thủ tục "RANDOMIZED-PARTITION′" mà đề không định nghĩa riêng — ý hiểu hợp lý là RANDOMIZED-PARTITION gọi PARTITION′ thay cho PARTITION. Exercise 7.4-6 cho α trong khoảng 0 < α < 1, trong khi để "chia tệ nhất α-tới-(1 − α)" có nghĩa thì chỉ cần xét 0 < α ≤ 1/2 (hai cách chia α và 1 − α là một). Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
-> - **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng**: phân hoạch mảng ⟨2, 8, 7, 1, 3, 5, 6, 4⟩ cho ⟨2, 1, 3, 4, 7, 5, 6, 8⟩ và trả về q = 4; ví dụ các số 1..10 với chốt đầu tiên 7.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Quicksort vẫn là Chương 7 với cùng cấu trúc (mô tả, hiệu năng, bản ngẫu nhiên, phân tích); phân hoạch Lomuto vẫn được dùng trong phần chính và phân hoạch Hoare vẫn nằm ở bài toán cuối chương. Ấn bản 4 bỏ thuộc tính `A.length`, lời gọi ban đầu viết dạng QUICKSORT(A, 1, n). Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **quicksort chậm trong trường hợp xấu nhất (Θ(n²)) nhưng thường là lựa chọn thực tế tốt nhất, vì thời gian kỳ vọng Θ(n lg n) với hằng số ẩn nhỏ, nó sắp xếp tại chỗ và chạy tốt trong môi trường bộ nhớ ảo; mấu chốt là thủ tục phân hoạch (PARTITION) chạy Θ(n), và bất kỳ tỷ lệ chia cố định nào — kể cả 9:1 hay 99:1 — đều cho cây đệ quy sâu Θ(lg n) nên tổng thời gian O(n lg n).**
+
+Mục 7.1 trình bày QUICKSORT và PARTITION (phân hoạch Lomuto: chốt là phần tử cuối, bốn vùng của mảng, bất biến vòng lặp ba điều kiện).
+
+Mục 7.2 phân tích trực giác: chia lệch tối đa ở mọi tầng cho T(n) = T(n − 1) + Θ(n) = Θ(n²), xảy ra cả khi mảng đã sắp sẵn; chia đôi cho T(n) = 2T(n/2) + Θ(n) = Θ(n lg n); chia 9:1 vẫn O(n lg n); chia tốt và chia xấu xen kẽ vẫn O(n lg n) với hằng số lớn hơn chút.
+
+Mục 7.3 đưa vào lấy mẫu ngẫu nhiên: chọn chốt ngẫu nhiên đều trong mảng con (RANDOMIZED-PARTITION, RANDOMIZED-QUICKSORT) để không đầu vào nào luôn gây ra trường hợp xấu nhất.
+
+Mục 7.4 chứng minh chặt: xấu nhất Θ(n²) bằng phương pháp thế trên T(n) = max₀≤q≤n−1 (T(q) + T(n − q − 1)) + Θ(n); kỳ vọng O(n lg n) bằng cách đếm tổng số phép so sánh X: hai phần tử nhỏ thứ i và thứ j được so sánh khi và chỉ khi một trong hai là phần tử đầu tiên được chọn làm chốt trong tập {zᵢ, …, zⱼ}, xác suất 2/(j − i + 1), nên E[X] = Σᵢ Σⱼ 2/(j − i + 1) < Σᵢ Σₖ 2/k = O(n lg n).
 
 ## Sơ đồ
 
@@ -253,9 +253,13 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Quicksort hoạt động thế nào, và vì sao thủ tục phân hoạch đúng?** Quicksort chọn một chốt x, dùng PARTITION sắp xếp lại mảng con A[p..r] để mọi phần tử bên trái chốt ≤ x và mọi phần tử bên phải > x, đặt chốt vào vị trí q đúng của nó, rồi đệ quy trên A[p..q − 1] và A[q + 1..r]; không cần bước kết hợp. PARTITION (Lomuto) duy trì bất biến: đầu mỗi vòng lặp, A[p..i] ≤ x, A[i + 1..j − 1] > x, A[r] = x. Bất biến đúng lúc khởi tạo (hai vùng rỗng), được duy trì ở cả hai nhánh của phép so sánh, và khi j = r thì mọi phần tử đã được xếp vào một trong ba tập; hai dòng cuối đổi chốt vào giữa. PARTITION chạy Θ(n) với n = r − p + 1, đúng n − 1 phép so sánh. Ví dụ ⟨2, 8, 7, 1, 3, 5, 6, 4⟩ thành ⟨2, 1, 3, 4, 7, 5, 6, 8⟩, q = 4.
+1. **Quicksort hoạt động thế nào, và vì sao thủ tục phân hoạch đúng?** Quicksort chọn một chốt x, dùng PARTITION sắp xếp lại mảng con A[p..r] để mọi phần tử bên trái chốt ≤ x và mọi phần tử bên phải > x, đặt chốt vào vị trí q đúng của nó, rồi đệ quy trên A[p..q − 1] và A[q + 1..r]; không cần bước kết hợp.
+
+   PARTITION (Lomuto) duy trì bất biến: đầu mỗi vòng lặp, A[p..i] ≤ x, A[i + 1..j − 1] > x, A[r] = x. Bất biến đúng lúc khởi tạo (hai vùng rỗng), được duy trì ở cả hai nhánh của phép so sánh, và khi j = r thì mọi phần tử đã được xếp vào một trong ba tập; hai dòng cuối đổi chốt vào giữa. PARTITION chạy Θ(n) với n = r − p + 1, đúng n − 1 phép so sánh. Ví dụ ⟨2, 8, 7, 1, 3, 5, 6, 4⟩ thành ⟨2, 1, 3, 4, 7, 5, 6, 8⟩, q = 4.
 2. **Thời gian chạy của quicksort là bao nhiêu trong trường hợp xấu nhất và tốt nhất, và điều gì quyết định?** Sự cân bằng của phép chia. Chia lệch tối đa (0 và n − 1) ở mọi tầng: T(n) = T(n − 1) + Θ(n) = Θ(n²), xảy ra với mảng đã sắp xếp hay sắp xếp ngược; với n = 1.000 là khoảng 1.000 · 999/2 = 499.500 phép so sánh. Chứng minh chặt dùng truy hồi (7.1) và đoán T(n) ≤ cn², vì q² + (n − q − 1)² ≤ (n − 1)². Chia đều: T(n) = 2T(n/2) + Θ(n) = Θ(n lg n). Bất kỳ tỷ lệ cố định nào, kể cả 9:1 (cây sâu log₁₀/₉ n ≈ 65,6 tầng với n = 1.000) hay 99:1, đều cho O(n lg n).
-3. **Vì sao quicksort ngẫu nhiên có thời gian kỳ vọng O(n lg n)?** Chọn chốt ngẫu nhiên đều. Thời gian là O(n + X), X là tổng số phép so sánh. Phần tử nhỏ thứ i và thứ j được so sánh khi và chỉ khi một trong hai là phần tử đầu tiên của tập {zᵢ, …, zⱼ} được chọn làm chốt, xác suất 2/(j − i + 1). Do đó E[X] = Σᵢ₌₁ⁿ⁻¹ Σⱼ₌ᵢ₊₁ⁿ 2/(j − i + 1) < Σᵢ₌₁ⁿ⁻¹ Σₖ₌₁ⁿ 2/k = n · O(lg n) = O(n lg n). (Tính chính xác: E[X] = 2(n + 1)Hₙ − 4n ≈ 1,39 n lg n, theo người tổng hợp; với n = 3 ra 8/3.) Kết hợp cận dưới Ω(n lg n), kỳ vọng là Θ(n lg n), và kết quả đúng cho mọi đầu vào vì ngẫu nhiên nằm trong thuật toán chứ không phải trong dữ liệu.
+3. **Vì sao quicksort ngẫu nhiên có thời gian kỳ vọng O(n lg n)?** Chọn chốt ngẫu nhiên đều. Thời gian là O(n + X), X là tổng số phép so sánh. Phần tử nhỏ thứ i và thứ j được so sánh khi và chỉ khi một trong hai là phần tử đầu tiên của tập {zᵢ, …, zⱼ} được chọn làm chốt, xác suất 2/(j − i + 1).
+
+   Do đó E[X] = Σᵢ₌₁ⁿ⁻¹ Σⱼ₌ᵢ₊₁ⁿ 2/(j − i + 1) < Σᵢ₌₁ⁿ⁻¹ Σₖ₌₁ⁿ 2/k = n · O(lg n) = O(n lg n). (Tính chính xác: E[X] = 2(n + 1)Hₙ − 4n ≈ 1,39 n lg n, theo người tổng hợp; với n = 3 ra 8/3.) Kết hợp cận dưới Ω(n lg n), kỳ vọng là Θ(n lg n), và kết quả đúng cho mọi đầu vào vì ngẫu nhiên nằm trong thuật toán chứ không phải trong dữ liệu.
 
 ## Khái niệm cần biết
 
@@ -494,7 +498,11 @@ Trong trường hợp trung bình, PARTITION tạo hỗn hợp phép chia "tốt
   lớn hơn các bài toán con còn lại ở (b) — hai bài cỡ (n−1)/2.
 ```
 
-Ở gốc, chi phí phân hoạch là n, hai mảng con cỡ n − 1 và 0 (xấu nhất). Ở tầng kế, mảng cỡ n − 1 được chia tốt nhất thành (n − 1)/2 − 1 và (n − 1)/2. Giả sử chi phí điều kiện biên cho mảng cỡ 0 là 1. Tổ hợp chia xấu rồi chia tốt tạo ba mảng con cỡ 0, (n − 1)/2 − 1, (n − 1)/2 với tổng chi phí phân hoạch Θ(n) + Θ(n − 1) = Θ(n). Tình huống này không tệ hơn trường hợp (b): một tầng phân hoạch duy nhất tạo hai mảng con cỡ (n − 1)/2 với chi phí Θ(n) — mà (b) là chia cân! Trực giác: chi phí Θ(n − 1) của lần chia xấu được "hấp thụ" vào chi phí Θ(n) của lần chia tốt, và kết quả chung là một phép chia tốt. Vì vậy, khi các tầng xen kẽ tốt và xấu, thời gian chạy giống như chỉ có các phép chia tốt: vẫn O(n lg n), nhưng hằng số ẩn trong O lớn hơn một chút. Phân tích chặt cho bản ngẫu nhiên nằm ở Mục 7.4.2.
+Ở gốc, chi phí phân hoạch là n, hai mảng con cỡ n − 1 và 0 (xấu nhất). Ở tầng kế, mảng cỡ n − 1 được chia tốt nhất thành (n − 1)/2 − 1 và (n − 1)/2. Giả sử chi phí điều kiện biên cho mảng cỡ 0 là 1. Tổ hợp chia xấu rồi chia tốt tạo ba mảng con cỡ 0, (n − 1)/2 − 1, (n − 1)/2 với tổng chi phí phân hoạch Θ(n) + Θ(n − 1) = Θ(n).
+
+Tình huống này không tệ hơn trường hợp (b): một tầng phân hoạch duy nhất tạo hai mảng con cỡ (n − 1)/2 với chi phí Θ(n) — mà (b) là chia cân! Trực giác: chi phí Θ(n − 1) của lần chia xấu được "hấp thụ" vào chi phí Θ(n) của lần chia tốt, và kết quả chung là một phép chia tốt.
+
+Vì vậy, khi các tầng xen kẽ tốt và xấu, thời gian chạy giống như chỉ có các phép chia tốt: vẫn O(n lg n), nhưng hằng số ẩn trong O lớn hơn một chút. Phân tích chặt cho bản ngẫu nhiên nằm ở Mục 7.4.2.
 
 #### Ví dụ hôm nay
 
@@ -981,7 +989,9 @@ Ví dụ chia 9:1 và hình ảnh "chia xấu được hấp thụ vào chia t�
 
 ### So với cách làm thực tế
 
-Các thư viện chuẩn hầu như không dùng quicksort "thuần" của sách — theo hiểu biết của người tổng hợp: `std::sort` của C++ dùng introsort (quicksort với chốt trung vị của ba, chuyển sang heapsort khi độ sâu vượt khoảng 2 lg n, và sắp xếp chèn cho mảng con nhỏ — đúng ba ý của chương này, Chương 6 và Exercise 7.4-5 ghép lại); Java dùng quicksort hai chốt (dual-pivot) cho kiểu nguyên thuỷ và Timsort (ổn định) cho đối tượng; Python dùng Timsort; Rust và Go dùng pdqsort cho sắp xếp không ổn định. Mọi biến thể đều giữ lõi của chương — phân hoạch tại chỗ và đệ quy — nhưng thêm các biện pháp chống trường hợp xấu nhất mà chương chỉ nêu ở bài tập: chốt tốt hơn (Problem 7-5), ba ngả cho phần tử trùng (Problem 7-2), giới hạn ngăn xếp (Problem 7-4), cắt sang sắp xếp chèn (Exercise 7.4-5), lối thoát an toàn trước đối thủ (ghi chú về McIlroy).
+Các thư viện chuẩn hầu như không dùng quicksort "thuần" của sách — theo hiểu biết của người tổng hợp: `std::sort` của C++ dùng introsort (quicksort với chốt trung vị của ba, chuyển sang heapsort khi độ sâu vượt khoảng 2 lg n, và sắp xếp chèn cho mảng con nhỏ — đúng ba ý của chương này, Chương 6 và Exercise 7.4-5 ghép lại); Java dùng quicksort hai chốt (dual-pivot) cho kiểu nguyên thuỷ và Timsort (ổn định) cho đối tượng; Python dùng Timsort; Rust và Go dùng pdqsort cho sắp xếp không ổn định.
+
+Mọi biến thể đều giữ lõi của chương — phân hoạch tại chỗ và đệ quy — nhưng thêm các biện pháp chống trường hợp xấu nhất mà chương chỉ nêu ở bài tập: chốt tốt hơn (Problem 7-5), ba ngả cho phần tử trùng (Problem 7-2), giới hạn ngăn xếp (Problem 7-4), cắt sang sắp xếp chèn (Exercise 7.4-5), lối thoát an toàn trước đối thủ (ghi chú về McIlroy).
 
 ### Liên hệ các chương khác
 
@@ -998,3 +1008,141 @@ Các thư viện chuẩn hầu như không dùng quicksort "thuần" của sách
 - **Phỏng vấn:** viết PARTITION không lỗi (đặc biệt ranh giới i, j và dòng 7), giải thích vì sao xấu nhất Θ(n²) và khi nào xảy ra, quickselect cho "phần tử lớn thứ k", sắp xếp ba màu (Dutch national flag — chính là Problem 7-2(b)), và giới hạn ngăn xếp O(lg n).
 - **Lập trình thi đấu:** không tự viết quicksort với chốt cố định — dễ bị bộ test chống quicksort; dùng hàm thư viện. Khi phải tự viết (ví dụ nth_element thủ công), chọn chốt ngẫu nhiên và phân hoạch ba ngả.
 - **Kỹ thuật phần mềm:** chọn thuật toán theo yêu cầu: cần ổn định thì sắp xếp trộn/Timsort; cần bảo đảm thời gian thì introsort/heapsort; dữ liệu có nguồn không tin cậy (đầu vào người dùng) thì tránh chốt có thể đoán trước. Chi tiết cài đặt (Sedgewick, Bentley) quan trọng ngang với độ phức tạp tiệm cận.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: năm nhánh lớn theo Mục 7.1–7.4 và các bài toán cuối chương 7-1 đến 7-6, mỗi nhánh ghi thủ tục, truy hồi và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt cho người lập trình.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: quicksort xấu nhất Θ(n²) nhưng kỳ vọng Θ(n lg n) với hằng số nhỏ, sắp xếp tại chỗ`"]
+  n1["`Mục 7.1 — Mô tả quicksort và PARTITION`"]
+  n0 --- n1
+  n2["`Chia để trị với việc nặng nằm ở bước chia`"]
+  n1 --- n2
+  n3["`Chọn chốt x, phân hoạch A[p..r] thành phần ≤ x và phần lớn hơn x, chốt về đúng vị trí q`"]
+  n2 --- n3
+  n4["`Đệ quy hai phía, không cần bước kết hợp – ngược với sắp xếp trộn`"]
+  n2 --- n4
+  n5["`Phân hoạch Lomuto: chốt là phần tử cuối A[r]`"]
+  n1 --- n5
+  n6["`Bốn vùng: ≤ x, lớn hơn x, chưa xét, chốt`"]
+  n5 --- n6
+  n7["`Bất biến vòng lặp được chứng minh qua khởi tạo, duy trì, kết thúc`"]
+  n5 --- n7
+  n8["`PARTITION chạy Θ(n), đúng n − 1 phép so sánh`"]
+  n5 --- n8
+  n9["`Ví dụ chạy tay của sách`"]
+  n1 --- n9
+  n10["`⟨2, 8, 7, 1, 3, 5, 6, 4⟩ thành ⟨2, 1, 3, 4, 7, 5, 6, 8⟩, trả về q = 4`"]
+  n9 --- n10
+  n11["`Mục 7.2 — Hiệu năng phụ thuộc độ cân của phép chia`"]
+  n0 --- n11
+  n12["`Chia lệch tối đa 0 và n − 1 ở mọi tầng`"]
+  n11 --- n12
+  n13["`T(n) = T(n − 1) + Θ(n) = Θ(n²)`"]
+  n12 --- n13
+  n14["`Xảy ra cả khi mảng đã sắp xếp sẵn – n = 1.000 tốn khoảng 499.500 phép so sánh`"]
+  n12 --- n14
+  n15["`Chia đôi: T(n) = 2T(n/2) + Θ(n) = Θ(n lg n)`"]
+  n11 --- n15
+  n16["`Mọi tỷ lệ chia cố định đều cho O(n lg n)`"]
+  n11 --- n16
+  n17["`Chia 9:1 với n = 1.000: nhánh dài nhất sâu log₁₀/₉ n ≈ 65,6 tầng, mỗi tầng tốn ≤ cn`"]
+  n16 --- n17
+  n18["`Kể cả 99:1, cây đệ quy vẫn sâu Θ(lg n)`"]
+  n16 --- n18
+  n19["`Chia xấu xen chia tốt vẫn O(n lg n)`"]
+  n11 --- n19
+  n20["`Chi phí lần chia xấu được hấp thụ vào lần chia tốt, chỉ làm hằng số lớn hơn chút`"]
+  n19 --- n20
+  n21["`Khoảng 80% phép phân hoạch trên đầu vào ngẫu nhiên cân hơn 9:1`"]
+  n19 --- n21
+  n22["`Mục 7.3 — Phiên bản ngẫu nhiên`"]
+  n0 --- n22
+  n23["`RANDOMIZED-PARTITION đổi A[r] với A[RANDOM(p, r)] rồi mới phân hoạch`"]
+  n22 --- n23
+  n24["`Không đầu vào cụ thể nào luôn gây ra trường hợp xấu nhất`"]
+  n22 --- n24
+  n25["`Mảng đã sắp xếp ⟨1..8⟩: chốt 8 chỉ bị chọn với xác suất 1/8 ở lần đầu`"]
+  n24 --- n25
+  n26["`Ngẫu nhiên nằm trong thuật toán, không giả định gì về phân phối đầu vào`"]
+  n22 --- n26
+  n27["`Mục 7.4 — Phân tích chặt`"]
+  n0 --- n27
+  n28["`7.4.1 Xấu nhất Θ(n²) bằng phương pháp thế`"]
+  n27 --- n28
+  n29["`T(n) = max theo q của T(q) + T(n − q − 1) + Θ(n), đoán T(n) ≤ cn²`"]
+  n28 --- n29
+  n30["`Mấu chốt: q² + (n − q − 1)² ≤ (n − 1)²`"]
+  n28 --- n30
+  n31["`7.4.2 Kỳ vọng O(n lg n) bằng cách đếm phép so sánh X`"]
+  n27 --- n31
+  n32["`Thời gian chạy là O(n + X) – Bổ đề 7.1`"]
+  n31 --- n32
+  n33["`zᵢ gặp zⱼ khi và chỉ khi một trong hai là chốt đầu tiên trong Zᵢⱼ, xác suất 2/(j − i + 1)`"]
+  n31 --- n33
+  n34["`Ví dụ 1..10 với chốt đầu 7: 7 và 9 được so sánh, 2 và 9 không bao giờ`"]
+  n31 --- n34
+  n35["`E[X] = tổng các 2/(j − i + 1) ≤ n · O(lg n) nhờ chuỗi điều hoà`"]
+  n31 --- n35
+  n36["`Chính xác E[X] = 2(n + 1)Hₙ − 4n ≈ 1,39 n lg n`"]
+  n31 --- n36
+  n37["`Cùng cận dưới Ω(n lg n) của Chương 8, kỳ vọng là Θ(n lg n)`"]
+  n27 --- n37
+  n38["`Bài toán 7-1 đến 7-6 — Biến thể thực tế`"]
+  n0 --- n38
+  n39["`7-1 Phân hoạch Hoare gốc: chốt A[p], hai chỉ số đi từ hai đầu, ít đổi chỗ hơn`"]
+  n38 --- n39
+  n40["`7-2 Phần tử bằng nhau làm PARTITION suy biến Θ(n²) – sửa bằng phân hoạch ba vùng`"]
+  n38 --- n40
+  n41["`7-3 Phân tích thay thế qua truy hồi kỳ vọng E[T(n)] vẫn ra Θ(n lg n)`"]
+  n38 --- n41
+  n42["`7-4 Đệ quy đuôi sâu Θ(n) xấu nhất – đệ quy trên phần nhỏ thì ngăn xếp còn Θ(lg n)`"]
+  n38 --- n42
+  n43["`7-5 Chốt trung vị của ba chỉ cải thiện hằng số, không đổi bậc`"]
+  n38 --- n43
+  n44["`7-6 Sắp xếp mờ các khoảng: Θ(n) khi mọi khoảng cùng chứa một điểm`"]
+  n38 --- n44
+  n45["`Thông điệp xuyên suốt`"]
+  n0 --- n45
+  n46["`Phân tích kỳ vọng bằng biến chỉ thị và tuyến tính kỳ vọng thay cho truy hồi nặng`"]
+  n45 --- n46
+  n47["`Không dùng phần tử đầu hay cuối làm chốt cố định – dữ liệu gần sắp xếp rất phổ biến`"]
+  n45 --- n47
+  n48["`Thư viện chuẩn ghép các ý của chương: introsort chuyển sang heapsort khi đệ quy quá sâu`"]
+  n45 --- n48
+  n49["`Quicksort không ổn định – cần ổn định thì dùng sắp xếp trộn hoặc Timsort`"]
+  n45 --- n49
+  class n0 root
+  class n1,n11,n22,n27,n38,n45 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần II "Sorting and Order Statistics", Chương 7 "Quicksort", trang 170–190.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) giới thiệu sắp xếp chèn, khái niệm sắp xếp tại chỗ, bất biến vòng lặp và phương pháp chia để trị qua sắp xếp trộn. Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cho công cụ giải truy hồi: phương pháp thế, cây đệ quy và định lý thợ (master theorem). Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) cho biến ngẫu nhiên chỉ thị, tính tuyến tính của kỳ vọng và ý tưởng dùng ngẫu nhiên để không đầu vào cụ thể nào là "xấu". Chương 6 ([C06-heapsort.md](C06-heapsort.md)) mở Phần II bằng heapsort, thuật toán sắp xếp tại chỗ O(n lg n) trong trường hợp xấu nhất.
+
+Chương 7 trình bày quicksort: một thuật toán chia để trị tại chỗ, xấu nhất Θ(n²) nhưng kỳ vọng Θ(n lg n) với hằng số nhỏ, và dùng chính các công cụ trên để chứng minh điều đó.
+
+Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) chứng minh mọi thuật toán sắp xếp bằng so sánh (trong đó có quicksort) cần Ω(n lg n) phép so sánh trong trường hợp xấu nhất, rồi vượt rào này bằng sắp xếp không dựa trên so sánh. Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) dùng lại nguyên thủ tục RANDOMIZED-PARTITION của chương này để tìm phần tử nhỏ thứ i trong thời gian kỳ vọng tuyến tính (RANDOMIZED-SELECT).
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong mục lục chương này**; dấu sao chỉ xuất hiện ở hai bài tập khó: Exercise 7.2-6 và Exercise 7.4-6.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương** (ví dụ `AŒj  x` là `A[j] ≤ x`, `qD PARTITION` là `q = PARTITION`, `‚.n2/` là `Θ(n²)`, các tổng kép trong (7.2)–(7.4) bị vỡ thành nhiều dòng; dấu ≤ ở dòng 4 của PARTITION và ở dòng 7, 10 của HOARE-PARTITION mất hẳn). Mọi pseudocode, công thức (7.1)–(7.7), Hình 7.1, 7.4, 7.5 trong bản tổng hợp này được đối chiếu với ảnh trang 171, 172, 176, 177, 180, 184, 185, 187.
+- **Chỗ ký hiệu chưa chặt trong Problem 7-2(c) (nhận xét của người tổng hợp):** đề viết "QUICKSORT′(p, r)" thiếu tham số mảng A (các thủ tục khác đều có dạng (A, p, r)), và nhắc tới thủ tục "RANDOMIZED-PARTITION′" mà đề không định nghĩa riêng — ý hiểu hợp lý là RANDOMIZED-PARTITION gọi PARTITION′ thay cho PARTITION. Exercise 7.4-6 cho α trong khoảng 0 < α < 1, trong khi để "chia tệ nhất α-tới-(1 − α)" có nghĩa thì chỉ cần xét 0 < α ≤ 1/2 (hai cách chia α và 1 − α là một). Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng**: phân hoạch mảng ⟨2, 8, 7, 1, 3, 5, 6, 4⟩ cho ⟨2, 1, 3, 4, 7, 5, 6, 8⟩ và trả về q = 4; ví dụ các số 1..10 với chốt đầu tiên 7.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Quicksort vẫn là Chương 7 với cùng cấu trúc (mô tả, hiệu năng, bản ngẫu nhiên, phân tích); phân hoạch Lomuto vẫn được dùng trong phần chính và phân hoạch Hoare vẫn nằm ở bài toán cuối chương. Ấn bản 4 bỏ thuộc tính `A.length`, lời gọi ban đầu viết dạng QUICKSORT(A, 1, n). Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.

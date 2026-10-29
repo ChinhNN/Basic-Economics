@@ -1,17 +1,16 @@
 # Chương 9 — Trung vị và thống kê thứ tự (Medians and Order Statistics)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần II "Sorting and Order Statistics", Chương 9 "Medians and Order Statistics", trang 213–227 (bài toán cuối chương kết thúc ở trang 226, Ghi chú chương nằm ở trang 227).
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth), tác giả bộ giáo trình thuật toán được dùng rộng rãi nhất; Rivest là một trong năm người đề xuất thuật toán chọn tuyến tính trong trường hợp xấu nhất trình bày ở chương này.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 7 ([C07-quicksort.md](C07-quicksort.md)) đưa ra thủ tục PARTITION (chia mảng quanh một phần tử chốt trong thời gian tuyến tính) và bản ngẫu nhiên RANDOMIZED-PARTITION (chọn chốt ngẫu nhiên đều); Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) cung cấp công cụ biến ngẫu nhiên chỉ báo và tính tuyến tính của kỳ vọng; Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cung cấp phương pháp thế (substitution method) để giải truy hồi. Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) chứng minh mọi thuật toán sắp xếp chỉ dựa trên so sánh cần Ω(n lg n) phép so sánh, và chỉ vượt được giới hạn đó khi giả định thêm về dữ liệu (số nguyên trong khoảng nhỏ, phân phối đều). Chương 9 khép lại Phần II bằng một kết quả đối lập: bài toán **chọn** phần tử nhỏ thứ i — trong đó có trung vị — giải được trong thời gian **tuyến tính** chỉ bằng phép so sánh, không cần giả định gì về dữ liệu, vì không cần sắp xếp toàn bộ. Phần III mở đầu bằng Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)); Chương 14 ([C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)) sẽ giải phiên bản **động** của cùng bài toán (tập hợp thay đổi theo thời gian) bằng cây thống kê thứ tự với thời gian O(lg n) mỗi truy vấn, và nhiều chương sau (ví dụ dùng trung vị làm chốt để quicksort đạt O(n lg n) trong trường hợp xấu nhất) dùng SELECT như một thủ tục con.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **tìm phần tử nhỏ thứ i trong n phần tử dễ hơn hẳn sắp xếp: Θ(n) so với Θ(n lg n)**, và có hai cách đạt được điều đó. Trước hết, với trường hợp đặc biệt: tìm phần tử nhỏ nhất cần đúng n − 1 phép so sánh (thuật toán MINIMUM là tối ưu, chứng minh bằng lập luận "giải đấu": mọi phần tử trừ người thắng phải thua ít nhất một trận), còn tìm đồng thời nhỏ nhất và lớn nhất chỉ cần tối đa 3⌊n/2⌋ phép so sánh nhờ xử lý từng cặp. Với bài toán chọn tổng quát, RANDOMIZED-SELECT (Hoare) mượn ý quicksort nhưng chỉ đệ quy vào **một** phía của phép chia; thời gian kỳ vọng Θ(n), trường hợp xấu nhất Θ(n²). Thuật toán SELECT (Blum, Floyd, Pratt, Rivest, Tarjan) chia phần tử thành các nhóm 5, lấy trung vị của mỗi nhóm, đệ quy tìm "trung vị của các trung vị" làm chốt; chốt này bảo đảm mỗi phía có ít nhất 3n/10 − 6 phần tử, cho truy hồi T(n) ≤ T(⌈n/5⌉) + T(7n/10 + 6) + O(n) và do đó thời gian **tuyến tính trong trường hợp xấu nhất**. Vì hai thuật toán chỉ so sánh phần tử mà vẫn đạt O(n), chúng không bị giới hạn Ω(n lg n) của sắp xếp chi phối: cách "sắp xếp rồi lấy phần tử thứ i" là kém hiệu quả về tiệm cận.
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục khó có dấu sao (★) trong chương:** chương không có mục lớn nào đánh dấu sao; chỉ có hai bài tập đánh dấu sao là 9.1-2 (chứng minh cận dưới ⌈3n/2⌉ − 2 phép so sánh để tìm cả lớn nhất lẫn nhỏ nhất) và 9.3-4 (thuật toán so sánh tìm phần tử thứ i thì đồng thời biết luôn i − 1 phần tử nhỏ hơn và n − i phần tử lớn hơn).
-> - **Phạm vi trang:** bảng phân công ghi trang 213–226, nhưng Ghi chú chương (Chapter notes) nằm ở trang 227; bản tổng hợp này bao gồm cả trang 227.
-> - **Lớp chữ PDF hỏng, đã đọc lại từ ảnh trang:** toàn bộ pseudocode (MINIMUM, RANDOMIZED-SELECT), các truy hồi và chuỗi bất đẳng thức trong phân tích mục 9.2 (trang 217–219) và mục 9.3 (trang 221–222) — lớp chữ làm mất các dấu ≤, ≥, làm Ω thành ".", tách rời phân số và tổng Σ — cùng với Hình 9.1 (sơ đồ nhóm 5 phần tử) và công thức của Bài toán 9-2, 9-3, 9-4 đều được chép lại từ ảnh trang.
-> - **Lỗi đã biết của ấn bản 3:** theo hiểu biết của người tổng hợp, không tra cứu, người tổng hợp không nhớ chắc lỗi in nào được công bố cho chương này. Người tổng hợp đã tự kiểm tra lại các bước đại số trong hai phép chứng minh bằng phương pháp thế và thấy đúng. Có hai điểm nhỏ đáng ghi: (1) ở Bài toán 9-2, đề nói "n phần tử phân biệt" nhưng ví dụ minh hoạ có phần tử lặp (0,1 và 0,05 mỗi số xuất hiện hai lần) — kết luận của ví dụ vẫn đúng; (2) ở mục 9.2, bước thay (⌊n/2⌋ − 1)⌊n/2⌋ bằng (n/2 − 2)(n/2 − 1) là một chặn dưới đúng nhưng lỏng hơn cần thiết (chặn chặt hơn là ((n − 3)/2)((n − 1)/2)); điều này không làm sai kết luận.
-> - **Hình 9.1 minh hoạ n = 28** (năm nhóm đủ 5 phần tử và một nhóm 3 phần tử): công thức của sách cho chặn dưới 3(⌈½⌈28/5⌉⌉ − 2) = 3 phần tử lớn hơn x, trong khi hình thực tế tô bóng 10 phần tử chắc chắn lớn hơn x. Đây không phải lỗi, chỉ cho thấy chặn dưới 3n/10 − 6 rất lỏng với n nhỏ — đó là lý do phân tích giả định n ≥ 140.
-> - **Thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** ấn bản 4 (2022) giữ ba mục 9.1–9.3 nhưng viết lại phần phân tích: mục 9.2 dùng một lập luận khác (đếm số lần phép chia "có ích", tức là làm kích thước mảng giảm đủ nhiều) thay cho truy hồi và phương pháp thế; mục 9.3 có pseudocode SELECT tường minh, làm việc tại chỗ trên mảng, xử lý trường hợp n không chia hết cho 5 bằng cách loại dần phần tử nhỏ nhất, và truy hồi được viết gọn hơn. Ý tưởng thuật toán (nhóm 5, trung vị của các trung vị) không đổi.
+Tác giả muốn người đọc hiểu rằng **tìm phần tử nhỏ thứ i trong n phần tử dễ hơn hẳn sắp xếp: Θ(n) so với Θ(n lg n)**, và có hai cách đạt được điều đó.
+
+Trước hết, với trường hợp đặc biệt: tìm phần tử nhỏ nhất cần đúng n − 1 phép so sánh (thuật toán MINIMUM là tối ưu, chứng minh bằng lập luận "giải đấu": mọi phần tử trừ người thắng phải thua ít nhất một trận), còn tìm đồng thời nhỏ nhất và lớn nhất chỉ cần tối đa 3⌊n/2⌋ phép so sánh nhờ xử lý từng cặp.
+
+Với bài toán chọn tổng quát, RANDOMIZED-SELECT (Hoare) mượn ý quicksort nhưng chỉ đệ quy vào **một** phía của phép chia; thời gian kỳ vọng Θ(n), trường hợp xấu nhất Θ(n²).
+
+Thuật toán SELECT (Blum, Floyd, Pratt, Rivest, Tarjan) chia phần tử thành các nhóm 5, lấy trung vị của mỗi nhóm, đệ quy tìm "trung vị của các trung vị" làm chốt; chốt này bảo đảm mỗi phía có ít nhất 3n/10 − 6 phần tử, cho truy hồi T(n) ≤ T(⌈n/5⌉) + T(7n/10 + 6) + O(n) và do đó thời gian **tuyến tính trong trường hợp xấu nhất**.
+
+Vì hai thuật toán chỉ so sánh phần tử mà vẫn đạt O(n), chúng không bị giới hạn Ω(n lg n) của sắp xếp chi phối: cách "sắp xếp rồi lấy phần tử thứ i" là kém hiệu quả về tiệm cận.
 
 ## Sơ đồ
 
@@ -585,7 +584,9 @@ Thuật toán tìm trung vị tuyến tính trường hợp xấu nhất do Blum
 ### Bài tập mục 9.1 (trang 215)
 
 - **9.1-1:** Chứng minh có thể tìm phần tử nhỏ thứ hai trong n phần tử với n + ⌈lg n⌉ − 2 phép so sánh trong trường hợp xấu nhất (gợi ý: tìm luôn phần tử nhỏ nhất). *Ý tưởng (của người tổng hợp):* tổ chức giải đấu loại trực tiếp dạng cây nhị phân, tốn n − 1 phép để tìm nhỏ nhất; phần tử nhỏ thứ hai chỉ có thể là một trong các phần tử đã thua trực tiếp phần tử nhỏ nhất, có tối đa ⌈lg n⌉ phần tử như vậy; tìm nhỏ nhất trong số đó tốn ⌈lg n⌉ − 1 phép. Tổng n + ⌈lg n⌉ − 2.
-- **9.1-2 (★):** Chứng minh cận dưới ⌈3n/2⌉ − 2 phép so sánh trong trường hợp xấu nhất để tìm cả lớn nhất và nhỏ nhất (gợi ý: xét có bao nhiêu số còn khả năng là lớn nhất hoặc nhỏ nhất, và một phép so sánh ảnh hưởng tới các số đếm đó ra sao). *Ý tưởng (của người tổng hợp):* lập luận đối thủ; chia phần tử thành bốn loại (chưa so sánh; chỉ từng thắng; chỉ từng thua; cả thắng cả thua). Cần chuyển n − 2 phần tử sang loại "cả thắng cả thua" và mỗi phần tử ít nhất ra khỏi loại "chưa so sánh". Một phép so sánh giữa hai phần tử chưa so sánh tạo 2 "đơn vị thông tin", mọi phép khác tối đa 1 khi đối thủ trả lời khéo; tổng thông tin cần là 2n − 2, chỉ ⌊n/2⌋ phép có thể cho 2 đơn vị, từ đó ra ⌈3n/2⌉ − 2.
+- **9.1-2 (★):** Chứng minh cận dưới ⌈3n/2⌉ − 2 phép so sánh trong trường hợp xấu nhất để tìm cả lớn nhất và nhỏ nhất (gợi ý: xét có bao nhiêu số còn khả năng là lớn nhất hoặc nhỏ nhất, và một phép so sánh ảnh hưởng tới các số đếm đó ra sao).
+
+  *Ý tưởng (của người tổng hợp):* lập luận đối thủ; chia phần tử thành bốn loại (chưa so sánh; chỉ từng thắng; chỉ từng thua; cả thắng cả thua). Cần chuyển n − 2 phần tử sang loại "cả thắng cả thua" và mỗi phần tử ít nhất ra khỏi loại "chưa so sánh". Một phép so sánh giữa hai phần tử chưa so sánh tạo 2 "đơn vị thông tin", mọi phép khác tối đa 1 khi đối thủ trả lời khéo; tổng thông tin cần là 2n − 2, chỉ ⌊n/2⌋ phép có thể cho 2 đơn vị, từ đó ra ⌈3n/2⌉ − 2.
 
 ### Bài tập mục 9.2 (trang 219–220)
 
@@ -817,3 +818,118 @@ Sách thẳng thắn gọi SELECT là thuật toán "có ý nghĩa lý thuyết 
 - **Lập trình thi đấu:** dùng thao tác chọn của thư viện chuẩn thay vì sắp xếp; ý tưởng "tối ưu tổng khoảng cách tuyệt đối thì chọn trung vị" xuất hiện rất thường xuyên.
 - **Kỹ thuật phần mềm:** khi tính phân vị trên dữ liệu lớn hoặc dữ liệu luồng, các hệ thống thường dùng thuật toán xấp xỉ (phác thảo phân vị) vì không thể giữ toàn bộ dữ liệu; thuật toán chính xác của chương này phù hợp khi dữ liệu nằm gọn trong bộ nhớ. Nếu đầu vào có thể do đối thủ kiểm soát, cần chốt ngẫu nhiên (hoặc phương án dự phòng tất định) để tránh trường hợp Θ(n²).
 - **Lưu ý phần tử lặp:** phân tích của sách giả định phần tử phân biệt; với nhiều giá trị lặp, PARTITION hai vùng có thể làm quickselect suy biến, nên cài đặt thực tế dùng phép chia ba vùng (nhỏ hơn, bằng, lớn hơn chốt).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: năm nhánh lớn theo phần mở đầu và Mục 9.1–9.3 cùng các bài toán 9-1 đến 9-4 và ghi chú chương, mỗi nhánh ghi thuật toán, số phép so sánh hoặc truy hồi then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: chọn phần tử nhỏ thứ i chỉ tốn Θ(n), dễ hơn hẳn sắp xếp Θ(n lg n)`"]
+  n1["`Phần mở đầu — Bài toán chọn`"]
+  n0 --- n1
+  n2["`Thống kê thứ tự thứ i là phần tử nhỏ thứ i, trung vị là trường hợp đặc biệt`"]
+  n1 --- n2
+  n3["`Quy ước trung vị dưới khi n chẵn`"]
+  n1 --- n3
+  n4["`Sắp xếp rồi lấy phần tử thứ i tốn O(n lg n) – chương cho cách nhanh hơn`"]
+  n1 --- n4
+  n5["`Mục 9.1 — Nhỏ nhất và lớn nhất`"]
+  n0 --- n5
+  n6["`MINIMUM dùng đúng n − 1 phép so sánh và là tối ưu`"]
+  n5 --- n6
+  n7["`Lập luận giải đấu: mọi phần tử trừ người thắng phải thua ít nhất một lần`"]
+  n6 --- n7
+  n8["`Tìm đồng thời nhỏ nhất và lớn nhất theo từng cặp`"]
+  n5 --- n8
+  n9["`3 phép so sánh cho 2 phần tử, tổng tối đa 3⌊n/2⌋`"]
+  n8 --- n9
+  n10["`n = 100 chỉ cần 148 phép so sánh thay vì 198`"]
+  n8 --- n10
+  n11["`Cận dưới ⌈3n/2⌉ − 2 bằng lập luận đối thủ – Bài tập 9.1-2`"]
+  n8 --- n11
+  n12["`Mục 9.2 — RANDOMIZED-SELECT, tuyến tính kỳ vọng`"]
+  n0 --- n12
+  n13["`Mượn RANDOMIZED-PARTITION của quicksort nhưng chỉ đệ quy vào phía chứa đáp án`"]
+  n12 --- n13
+  n14["`Thời gian kỳ vọng Θ(n), xấu nhất vẫn Θ(n²)`"]
+  n12 --- n14
+  n15["`Phân tích bằng biến chỉ báo Xₖ và phương pháp thế`"]
+  n12 --- n15
+  n16["`E[T(n)] ≤ (2/n) nhân tổng E[T(k)] với k từ ⌊n/2⌋ tới n − 1, cộng O(n)`"]
+  n15 --- n16
+  n17["`Đoán E[T(n)] ≤ cn, đúng khi c lớn hơn 4a và n ≥ 2c/(c − 4a)`"]
+  n15 --- n17
+  n18["`Thuật toán do Hoare đưa ra`"]
+  n12 --- n18
+  n19["`Mục 9.3 — SELECT, tuyến tính trong trường hợp xấu nhất`"]
+  n0 --- n19
+  n20["`Năm bước`"]
+  n19 --- n20
+  n21["`Chia thành các nhóm 5 phần tử, lấy trung vị mỗi nhóm bằng sắp xếp chèn`"]
+  n20 --- n21
+  n22["`Đệ quy tìm trung vị của các trung vị làm chốt x, rồi phân hoạch quanh x`"]
+  n20 --- n22
+  n23["`Chốt x luôn lớn hơn và nhỏ hơn ít nhất 3n/10 − 6 phần tử`"]
+  n19 --- n23
+  n24["`Truy hồi T(n) ≤ T(⌈n/5⌉) + T(7n/10 + 6) + O(n)`"]
+  n19 --- n24
+  n25["`Tổng tỷ lệ 1/5 + 7/10 = 9/10 nhỏ hơn 1 nên T(n) = O(n)`"]
+  n24 --- n25
+  n26["`Chứng minh dùng c ≥ 20a với n ≥ 140`"]
+  n24 --- n26
+  n27["`Của Blum, Floyd, Pratt, Rivest, Tarjan – ý nghĩa lý thuyết hơn thực hành vì hằng số lớn`"]
+  n19 --- n27
+  n28["`Bài toán 9-1 đến 9-4 và Ghi chú chương`"]
+  n0 --- n28
+  n29["`9-1 Tìm i số lớn nhất theo thứ tự: SELECT rồi sắp i số tốn O(n + i lg i)`"]
+  n28 --- n29
+  n30["`9-2 Trung vị có trọng số tính trong Θ(n), là lời giải tối ưu cho bài toán đặt bưu điện`"]
+  n28 --- n30
+  n31["`9-3 Thống kê thứ tự nhỏ: i hằng số chỉ cần n + O(lg n) phép so sánh`"]
+  n28 --- n31
+  n32["`9-4 Phân tích khác của RANDOMIZED-SELECT cho E[Xₖ] ≤ 4n`"]
+  n28 --- n32
+  n33["`Câu hỏi mở: số phép so sánh tối ưu cho trung vị nằm giữa (2 + ε)n và khoảng 2,95n`"]
+  n28 --- n33
+  n34["`Thông điệp xuyên suốt`"]
+  n0 --- n34
+  n35["`Đừng sắp xếp cả mảng chỉ để lấy trung vị, phân vị hay k phần tử lớn nhất`"]
+  n34 --- n35
+  n36["`Thực tế dùng quickselect, giữ trung vị của các trung vị làm phương án dự phòng`"]
+  n34 --- n36
+  n37["`Chốt có bảo đảm giúp quicksort đạt O(n lg n) xấu nhất – Bài tập 9.3-3`"]
+  n34 --- n37
+  class n0 root
+  class n1,n5,n12,n19,n28,n34 branch
+  class n2,n3,n4,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần II "Sorting and Order Statistics", Chương 9 "Medians and Order Statistics", trang 213–227 (bài toán cuối chương kết thúc ở trang 226, Ghi chú chương nằm ở trang 227).
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth), tác giả bộ giáo trình thuật toán được dùng rộng rãi nhất; Rivest là một trong năm người đề xuất thuật toán chọn tuyến tính trong trường hợp xấu nhất trình bày ở chương này.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 7 ([C07-quicksort.md](C07-quicksort.md)) đưa ra thủ tục PARTITION (chia mảng quanh một phần tử chốt trong thời gian tuyến tính) và bản ngẫu nhiên RANDOMIZED-PARTITION (chọn chốt ngẫu nhiên đều); Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) cung cấp công cụ biến ngẫu nhiên chỉ báo và tính tuyến tính của kỳ vọng; Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cung cấp phương pháp thế (substitution method) để giải truy hồi. Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) chứng minh mọi thuật toán sắp xếp chỉ dựa trên so sánh cần Ω(n lg n) phép so sánh, và chỉ vượt được giới hạn đó khi giả định thêm về dữ liệu (số nguyên trong khoảng nhỏ, phân phối đều).
+
+Chương 9 khép lại Phần II bằng một kết quả đối lập: bài toán **chọn** phần tử nhỏ thứ i — trong đó có trung vị — giải được trong thời gian **tuyến tính** chỉ bằng phép so sánh, không cần giả định gì về dữ liệu, vì không cần sắp xếp toàn bộ.
+
+Phần III mở đầu bằng Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)); Chương 14 ([C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)) sẽ giải phiên bản **động** của cùng bài toán (tập hợp thay đổi theo thời gian) bằng cây thống kê thứ tự với thời gian O(lg n) mỗi truy vấn, và nhiều chương sau (ví dụ dùng trung vị làm chốt để quicksort đạt O(n lg n) trong trường hợp xấu nhất) dùng SELECT như một thủ tục con.
+
+## Lưu ý
+
+- **Mục khó có dấu sao (★) trong chương:** chương không có mục lớn nào đánh dấu sao; chỉ có hai bài tập đánh dấu sao là 9.1-2 (chứng minh cận dưới ⌈3n/2⌉ − 2 phép so sánh để tìm cả lớn nhất lẫn nhỏ nhất) và 9.3-4 (thuật toán so sánh tìm phần tử thứ i thì đồng thời biết luôn i − 1 phần tử nhỏ hơn và n − i phần tử lớn hơn).
+- **Phạm vi trang:** bảng phân công ghi trang 213–226, nhưng Ghi chú chương (Chapter notes) nằm ở trang 227; bản tổng hợp này bao gồm cả trang 227.
+- **Lớp chữ PDF hỏng, đã đọc lại từ ảnh trang:** toàn bộ pseudocode (MINIMUM, RANDOMIZED-SELECT), các truy hồi và chuỗi bất đẳng thức trong phân tích mục 9.2 (trang 217–219) và mục 9.3 (trang 221–222) — lớp chữ làm mất các dấu ≤, ≥, làm Ω thành ".", tách rời phân số và tổng Σ — cùng với Hình 9.1 (sơ đồ nhóm 5 phần tử) và công thức của Bài toán 9-2, 9-3, 9-4 đều được chép lại từ ảnh trang.
+- **Lỗi đã biết của ấn bản 3:** theo hiểu biết của người tổng hợp, không tra cứu, người tổng hợp không nhớ chắc lỗi in nào được công bố cho chương này. Người tổng hợp đã tự kiểm tra lại các bước đại số trong hai phép chứng minh bằng phương pháp thế và thấy đúng. Có hai điểm nhỏ đáng ghi: (1) ở Bài toán 9-2, đề nói "n phần tử phân biệt" nhưng ví dụ minh hoạ có phần tử lặp (0,1 và 0,05 mỗi số xuất hiện hai lần) — kết luận của ví dụ vẫn đúng; (2) ở mục 9.2, bước thay (⌊n/2⌋ − 1)⌊n/2⌋ bằng (n/2 − 2)(n/2 − 1) là một chặn dưới đúng nhưng lỏng hơn cần thiết (chặn chặt hơn là ((n − 3)/2)((n − 1)/2)); điều này không làm sai kết luận.
+- **Hình 9.1 minh hoạ n = 28** (năm nhóm đủ 5 phần tử và một nhóm 3 phần tử): công thức của sách cho chặn dưới 3(⌈½⌈28/5⌉⌉ − 2) = 3 phần tử lớn hơn x, trong khi hình thực tế tô bóng 10 phần tử chắc chắn lớn hơn x. Đây không phải lỗi, chỉ cho thấy chặn dưới 3n/10 − 6 rất lỏng với n nhỏ — đó là lý do phân tích giả định n ≥ 140.
+- **Thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** ấn bản 4 (2022) giữ ba mục 9.1–9.3 nhưng viết lại phần phân tích: mục 9.2 dùng một lập luận khác (đếm số lần phép chia "có ích", tức là làm kích thước mảng giảm đủ nhiều) thay cho truy hồi và phương pháp thế; mục 9.3 có pseudocode SELECT tường minh, làm việc tại chỗ trên mảng, xử lý trường hợp n không chia hết cho 5 bằng cách loại dần phần tử nhỏ nhất, và truy hồi được viết gọn hơn. Ý tưởng thuật toán (nhóm 5, trung vị của các trung vị) không đổi.

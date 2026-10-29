@@ -1,16 +1,16 @@
 # Chương 13 — Cây đỏ-đen (Red-Black Trees)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần III "Data Structures", Chương 13 "Red-Black Trees", trang 308–338.
-**Tác giả:** Cormen (Dartmouth), Leiserson và Rivest (MIT), Stein (Columbia) — bốn tác giả của giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) giới thiệu nút canh (sentinel) cho danh sách liên kết — một nút giả dùng thay cho NIL để bớt xử lý trường hợp biên. Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) xây dựng cây tìm kiếm nhị phân với các thao tác SEARCH, MINIMUM, MAXIMUM, SUCCESSOR, PREDECESSOR, INSERT, DELETE đều chạy trong O(h) với h là chiều cao cây, kèm thủ tục TREE-INSERT, TREE-DELETE và TRANSPLANT; nhưng h có thể lên tới n − 1 khi khoá được chèn theo thứ tự tăng dần. Chương 13 thêm vào mỗi nút một bit màu và năm ràng buộc màu để buộc chiều cao luôn ≤ 2 lg(n + 1), rồi chỉ ra cách chèn và xoá trong O(lg n) bằng phép quay và đổi màu. Chương 14 ([C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)) dùng cây đỏ-đen làm nền để "mở rộng" thêm thông tin (cây thống kê thứ tự, cây khoảng) mà vẫn giữ O(lg n), nhờ đúng tính chất "mỗi lần chèn/xoá chỉ quay hằng số lần" chứng minh ở đây. Chương 18 ([C18-cay-b.md](C18-cay-b.md)) trình bày cây B, dạng tổng quát của cây 2-3 mà cây đỏ-đen thực chất là một cách biểu diễn nhị phân của nó (cây 2-3-4). Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) cung cấp công cụ phân tích khấu hao mà Ghi chú chương nhắc tới cho cây splay.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **một cây tìm kiếm nhị phân có thể được giữ "gần cân bằng" một cách rẻ: chỉ cần một bit màu ở mỗi nút và năm tính chất đỏ-đen (mỗi nút đỏ hoặc đen; gốc đen; lá NIL đen; nút đỏ có hai con đen; mọi đường đi xuống từ một nút tới lá chứa cùng số nút đen) là đủ để đảm bảo đường đi dài nhất từ gốc không quá gấp đôi đường đi ngắn nhất, nên chiều cao h ≤ 2 lg(n + 1) (Bổ đề 13.1), và mọi thao tác tập động chạy trong O(lg n) trong trường hợp xấu nhất.** Công cụ để sửa cây sau khi chèn/xoá là phép quay (LEFT-ROTATE, RIGHT-ROTATE), đổi O(1) con trỏ và giữ nguyên thứ tự khoá. RB-INSERT chèn nút mới như cây nhị phân thường, tô đỏ, rồi RB-INSERT-FIXUP sửa vi phạm bằng ba trường hợp (chú bác đỏ: đổi màu và đẩy vấn đề lên hai tầng; chú bác đen: một hoặc hai phép quay rồi dừng) — tổng O(lg n), tối đa 2 phép quay. RB-DELETE dựa trên TREE-DELETE, theo dõi nút y bị gỡ hoặc dời chỗ và nút x thế chỗ y; nếu y đen thì x mang "một màu đen thừa", và RB-DELETE-FIXUP đẩy màu đen thừa này lên hoặc khử nó bằng bốn trường hợp — tổng O(lg n), tối đa 3 phép quay. Các bài toán cuối chương mở rộng sang tập động bền vững (persistent), phép nối hai cây đỏ-đen, cây AVL và treap (số phép quay kỳ vọng khi chèn nhỏ hơn 2).
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục khó (dấu ?):** chương có một bài tập đánh dấu sao: Exercise 13.2-5 (chuyển đổi cây chỉ bằng phép quay phải, cần O(n²) phép quay). Không có mục lý thuyết nào có dấu sao.
-> - **Hình vẽ gốc dùng màu xám thay cho đỏ:** sách in hai màu đen-trắng; trong hình, nút đen được tô đậm, nút đỏ tô xám nhạt (Hình 13.1–13.6) hoặc xám đậm (Hình 13.7, nơi xám nhạt dành cho màu "c" chưa biết). Trong bản tổng hợp này, mọi hình được vẽ lại bằng chữ với ký hiệu **B = đen (Black), R = đỏ (Red)** ghi ngay sau khoá, ví dụ `26B`, `17R`.
-> - **Chỗ lớp chữ PDF hỏng phải đọc từ ảnh trang:** toàn bộ pseudocode (ký hiệu `=` gán, `==` so sánh, `≠`), Bổ đề 13.1 (lớp chữ in "2bh.x//NUL 1" thay cho 2^bh(x) − 1, "n 2h=2/NUL 1" thay cho n ≥ 2^(h/2) − 1), mọi hình cây (lớp chữ chỉ còn dãy số rời), và các công thức xác suất của Problem 13-4 (g), (h), (i). Tất cả đã được chép lại từ ảnh trang.
-> - **Hình 13.2 và Exercise 13.2-3 không khớp nhau trong bản PDF này:** trong Hình 13.2 (trang 313), cây bên trái là cây có y ở gốc và x là con trái của y; cây bên phải có x ở gốc. Chú thích hình nói đúng điều đó (LEFT-ROTATE(T, x) biến cấu hình bên phải thành cấu hình bên trái). Nhưng Exercise 13.2-3 (trang 314) lại nói "trong cây bên trái của Hình 13.2 ... khi thực hiện quay trái trên nút x", tức là ngầm giả định cây bên trái là cây có x ở gốc. Người đọc nên hiểu bài tập theo nghĩa: thực hiện quay trái tại x trên cây có x ở gốc (α, y(β, γ)). (Quan sát trực tiếp từ ảnh trang, không tra errata.)
-> - **Ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu:** sách được in màu nên nút đỏ trong hình thực sự màu đỏ; pseudocode RB-INSERT-FIXUP và RB-DELETE-FIXUP được viết đầy đủ cả hai nhánh đối xứng thay vì câu "else (same as then clause with 'right' and 'left' exchanged)"; ký hiệu gán đổi từ `=` sang `=` kiểu mới nhưng nội dung các thủ tục không đổi về bản chất. Người tổng hợp không chắc chắn về các thay đổi khác trong phần bài toán cuối chương.
+Tác giả muốn người đọc hiểu rằng **một cây tìm kiếm nhị phân có thể được giữ "gần cân bằng" một cách rẻ: chỉ cần một bit màu ở mỗi nút và năm tính chất đỏ-đen (mỗi nút đỏ hoặc đen; gốc đen; lá NIL đen; nút đỏ có hai con đen; mọi đường đi xuống từ một nút tới lá chứa cùng số nút đen) là đủ để đảm bảo đường đi dài nhất từ gốc không quá gấp đôi đường đi ngắn nhất, nên chiều cao h ≤ 2 lg(n + 1) (Bổ đề 13.1), và mọi thao tác tập động chạy trong O(lg n) trong trường hợp xấu nhất.**
+
+Công cụ để sửa cây sau khi chèn/xoá là phép quay (LEFT-ROTATE, RIGHT-ROTATE), đổi O(1) con trỏ và giữ nguyên thứ tự khoá.
+
+RB-INSERT chèn nút mới như cây nhị phân thường, tô đỏ, rồi RB-INSERT-FIXUP sửa vi phạm bằng ba trường hợp (chú bác đỏ: đổi màu và đẩy vấn đề lên hai tầng; chú bác đen: một hoặc hai phép quay rồi dừng) — tổng O(lg n), tối đa 2 phép quay.
+
+RB-DELETE dựa trên TREE-DELETE, theo dõi nút y bị gỡ hoặc dời chỗ và nút x thế chỗ y; nếu y đen thì x mang "một màu đen thừa", và RB-DELETE-FIXUP đẩy màu đen thừa này lên hoặc khử nó bằng bốn trường hợp — tổng O(lg n), tối đa 3 phép quay.
+
+Các bài toán cuối chương mở rộng sang tập động bền vững (persistent), phép nối hai cây đỏ-đen, cây AVL và treap (số phép quay kỳ vọng khi chèn nhỏ hơn 2).
 
 ## Sơ đồ
 
@@ -258,9 +258,13 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao năm ràng buộc màu lại đủ để giữ cây có chiều cao O(lg n)?** Tính chất 5 nói mọi đường đi xuống từ một nút x chứa cùng số nút đen bh(x); quy nạp theo chiều cao cho thấy cây con gốc x có ít nhất 2^bh(x) − 1 nút trong (mỗi con có chiều cao đen ít nhất bh(x) − 1, nên có ít nhất 2·(2^(bh(x)−1) − 1) + 1 = 2^bh(x) − 1 nút). Tính chất 4 cấm hai nút đỏ liền nhau, nên trên đường từ gốc xuống lá có ít nhất một nửa số nút (không kể gốc) là đen: bh(gốc) ≥ h/2. Ghép lại: n ≥ 2^(h/2) − 1, tức h ≤ 2 lg(n + 1). Ví dụ: cây có 20 nút trong (Hình 13.1) có chiều cao không quá 2 lg 21 ≈ 8,78; cây thực tế cao 5. Với n = 10⁶, chiều cao ≤ 2 lg(10⁶ + 1) ≈ 39,9, so với tối đa 999.999 của cây tìm kiếm nhị phân không cân bằng.
+1. **Vì sao năm ràng buộc màu lại đủ để giữ cây có chiều cao O(lg n)?** Tính chất 5 nói mọi đường đi xuống từ một nút x chứa cùng số nút đen bh(x); quy nạp theo chiều cao cho thấy cây con gốc x có ít nhất 2^bh(x) − 1 nút trong (mỗi con có chiều cao đen ít nhất bh(x) − 1, nên có ít nhất 2·(2^(bh(x)−1) − 1) + 1 = 2^bh(x) − 1 nút). Tính chất 4 cấm hai nút đỏ liền nhau, nên trên đường từ gốc xuống lá có ít nhất một nửa số nút (không kể gốc) là đen: bh(gốc) ≥ h/2. Ghép lại: n ≥ 2^(h/2) − 1, tức h ≤ 2 lg(n + 1).
+
+   Ví dụ: cây có 20 nút trong (Hình 13.1) có chiều cao không quá 2 lg 21 ≈ 8,78; cây thực tế cao 5. Với n = 10⁶, chiều cao ≤ 2 lg(10⁶ + 1) ≈ 39,9, so với tối đa 999.999 của cây tìm kiếm nhị phân không cân bằng.
 2. **Làm sao chèn một khoá mà vẫn giữ năm tính chất, và tốn bao nhiêu?** Chèn như cây nhị phân thường và tô nút mới z màu đỏ, nên chỉ có thể vi phạm tính chất 2 (z là gốc) hoặc 4 (cha z đỏ). RB-INSERT-FIXUP xét chú bác y: nếu y đỏ (trường hợp 1), tô cha và chú bác đen, ông đỏ, rồi đẩy z lên ông (lên 2 tầng); nếu y đen, quay trái tại cha khi z là con phải (trường hợp 2) để đưa về trường hợp 3, rồi tô cha đen, ông đỏ, quay phải tại ông — xong. Cuối cùng tô gốc đen. Tổng thời gian O(lg n), tối đa 2 phép quay.
-3. **Xoá phức tạp hơn chèn ở chỗ nào, và tại sao vẫn O(lg n)?** Khi nút y bị gỡ (hoặc dời chỗ) có màu đen, mọi đường đi qua y mất một nút đen. Sách "dồn" màu đen đó sang nút x thế chỗ, khiến x thành "đen kép" hoặc "đỏ-và-đen". RB-DELETE-FIXUP xét anh em w của x qua bốn trường hợp: w đỏ (quay để w thành đen), w đen có hai con đen (tô w đỏ, đẩy màu đen thừa lên cha — trường hợp duy nhất lặp), w đen có con trái đỏ và con phải đen (quay phải tại w để đưa về trường hợp 4), w đen có con phải đỏ (đổi màu và quay trái tại cha, màu đen thừa biến mất). Vì chỉ trường hợp 2 lặp và mỗi lần x lên một tầng, tổng thời gian O(lg n), và tổng số phép quay không quá 3.
+3. **Xoá phức tạp hơn chèn ở chỗ nào, và tại sao vẫn O(lg n)?** Khi nút y bị gỡ (hoặc dời chỗ) có màu đen, mọi đường đi qua y mất một nút đen. Sách "dồn" màu đen đó sang nút x thế chỗ, khiến x thành "đen kép" hoặc "đỏ-và-đen".
+
+   RB-DELETE-FIXUP xét anh em w của x qua bốn trường hợp: w đỏ (quay để w thành đen), w đen có hai con đen (tô w đỏ, đẩy màu đen thừa lên cha — trường hợp duy nhất lặp), w đen có con trái đỏ và con phải đen (quay phải tại w để đưa về trường hợp 4), w đen có con phải đỏ (đổi màu và quay trái tại cha, màu đen thừa biến mất). Vì chỉ trường hợp 2 lặp và mỗi lần x lên một tầng, tổng thời gian O(lg n), và tổng số phép quay không quá 3.
 
 ## Khái niệm cần biết
 
@@ -684,7 +688,9 @@ Chỉ màu thay đổi, không quay; mọi đường đi xuống từ C tới l�
 
 #### Trường hợp 2: chú bác y của z đen và z là con phải; Trường hợp 3: chú bác y của z đen và z là con trái
 
-Trong trường hợp 2 và 3, chú bác y đen; hai trường hợp phân biệt theo z là con phải hay con trái của z.p. Dòng 10–11 là trường hợp 2: z là con phải; ta lập tức quay trái để biến thành trường hợp 3 (dòng 12–14), trong đó z là con trái. Vì cả z và z.p đều đỏ, phép quay không ảnh hưởng tới chiều cao đen của nút nào, cũng như tính chất 5. Dù vào trường hợp 3 trực tiếp hay qua trường hợp 2, chú bác y đen (nếu không ta đã làm trường hợp 1). Ông z.p.p vẫn tồn tại và không đổi: ở dòng 10 z lên một tầng, ở dòng 11 z xuống một tầng, nên danh tính của z.p.p không đổi. Trong trường hợp 3, ta đổi màu và quay phải — giữ tính chất 5 — và vì không còn hai nút đỏ liên tiếp, ta xong. Vòng while không lặp nữa vì z.p giờ đen.
+Trong trường hợp 2 và 3, chú bác y đen; hai trường hợp phân biệt theo z là con phải hay con trái của z.p. Dòng 10–11 là trường hợp 2: z là con phải; ta lập tức quay trái để biến thành trường hợp 3 (dòng 12–14), trong đó z là con trái. Vì cả z và z.p đều đỏ, phép quay không ảnh hưởng tới chiều cao đen của nút nào, cũng như tính chất 5.
+
+Dù vào trường hợp 3 trực tiếp hay qua trường hợp 2, chú bác y đen (nếu không ta đã làm trường hợp 1). Ông z.p.p vẫn tồn tại và không đổi: ở dòng 10 z lên một tầng, ở dòng 11 z xuống một tầng, nên danh tính của z.p.p không đổi. Trong trường hợp 3, ta đổi màu và quay phải — giữ tính chất 5 — và vì không còn hai nút đỏ liên tiếp, ta xong. Vòng while không lặp nữa vì z.p giờ đen.
 
 **Hình 13.6 (vẽ lại).** α, β, γ, δ có gốc đen (α, β, γ do tính chất 4; δ vì nếu không ta đã ở trường hợp 1) và cùng chiều cao đen. δ chính là cây con gốc tại chú bác y.
 
@@ -877,7 +883,9 @@ Chú thích chân trang của sách: như ở RB-INSERT-FIXUP, các trường h�
 
 #### Cách kiểm tra mỗi trường hợp giữ tính chất 5
 
-Ý then chốt: trong mỗi trường hợp, phép biến đổi giữ nguyên số nút đen (tính cả màu đen thừa của x) từ gốc của cây con được vẽ (tính cả gốc này) tới mỗi cây con α, β, …, ζ. Vậy nếu tính chất 5 đúng trước biến đổi thì đúng sau biến đổi. Ví dụ ở trường hợp 1, số nút đen từ gốc tới α hoặc β là 3 cả trước và sau (nhớ rằng x đóng góp thêm một màu đen); số nút đen tới γ, δ, ε, ζ là 2 cả trước và sau. Ở trường hợp 2, phép đếm phải dùng giá trị c của thuộc tính color của gốc cây con, có thể RED hoặc BLACK; định nghĩa count(RED) = 0 và count(BLACK) = 1 thì số nút đen từ gốc tới α là 2 + count(c) cả trước và sau. Sau biến đổi, x mới có color = c, nhưng thực chất nó là đỏ-và-đen (nếu c = RED) hoặc đen kép (nếu c = BLACK). Các trường hợp còn lại kiểm tra tương tự (Exercise 13.4-5).
+Ý then chốt: trong mỗi trường hợp, phép biến đổi giữ nguyên số nút đen (tính cả màu đen thừa của x) từ gốc của cây con được vẽ (tính cả gốc này) tới mỗi cây con α, β, …, ζ. Vậy nếu tính chất 5 đúng trước biến đổi thì đúng sau biến đổi. Ví dụ ở trường hợp 1, số nút đen từ gốc tới α hoặc β là 3 cả trước và sau (nhớ rằng x đóng góp thêm một màu đen); số nút đen tới γ, δ, ε, ζ là 2 cả trước và sau.
+
+Ở trường hợp 2, phép đếm phải dùng giá trị c của thuộc tính color của gốc cây con, có thể RED hoặc BLACK; định nghĩa count(RED) = 0 và count(BLACK) = 1 thì số nút đen từ gốc tới α là 2 + count(c) cả trước và sau. Sau biến đổi, x mới có color = c, nhưng thực chất nó là đỏ-và-đen (nếu c = RED) hoặc đen kép (nếu c = BLACK). Các trường hợp còn lại kiểm tra tương tự (Exercise 13.4-5).
 
 **Hình 13.7 (vẽ lại).** Ký hiệu: B = đen, R = đỏ, `c` và `c′` = màu chưa biết (đỏ hoặc đen). Nút có nhãn `x` mang màu đen thừa.
 
@@ -1169,7 +1177,7 @@ Lời giải và kết quả dưới đây là **của người tổng hợp**, 
 
 - **13.2-1** Viết pseudocode RIGHT-ROTATE. (Đã cho ở mục 3 của Nội dung chi tiết.)
 - **13.2-2** Chứng minh mọi cây tìm kiếm nhị phân n nút có đúng n − 1 phép quay có thể. *Ý:* mỗi cạnh cha-con cho đúng một phép quay (quay phải nếu con là con trái, quay trái nếu con là con phải); cây có n − 1 cạnh.
-- **13.2-3** Cho a, b, c là các nút bất kỳ trong α, β, γ (cây có x ở gốc). Độ sâu của a, b, c thay đổi thế nào khi quay trái tại x? *Lời giải:* a sâu thêm 1, b giữ nguyên, c nông đi 1. (Xem khối Lưu ý về chuyện "cây bên trái".)
+- **13.2-3** Cho a, b, c là các nút bất kỳ trong α, β, γ (cây có x ở gốc). Độ sâu của a, b, c thay đổi thế nào khi quay trái tại x? *Lời giải:* a sâu thêm 1, b giữ nguyên, c nông đi 1. (Xem mục Lưu ý cuối chương về chuyện "cây bên trái".)
 - **13.2-4** Chứng minh có thể biến mọi cây tìm kiếm nhị phân n nút thành bất kỳ cây n nút nào khác bằng O(n) phép quay. *Ý:* mỗi phép quay phải tại một nút trên xương sống phải có con trái làm xương sống phải dài thêm 1; tối đa n − 1 phép quay biến cây thành chuỗi lệch phải; làm ngược (quay trái) từ chuỗi tới cây đích; tổng ≤ 2(n − 1).
 - **13.2-5 ?** Cây T₁ "chuyển phải được" (right-converted) sang T₂ nếu thu được T₂ từ T₁ chỉ bằng RIGHT-ROTATE. Cho ví dụ T₁ không chuyển phải được sang T₂; chứng minh nếu chuyển được thì chỉ cần O(n²) phép quay phải. *Ý:* T₁ = 1(phải 2), T₂ = 2(trái 1): từ chuỗi lệch phải không thể dùng quay phải để quay về. Với phần thứ hai, dùng một hàm thế (ví dụ tổng độ sâu theo các khoá) tăng nghiêm ngặt và bị chặn bởi O(n²).
 
@@ -1194,10 +1202,20 @@ Lời giải và kết quả dưới đây là **của người tổng hợp**, 
 
 ### Bài toán cuối chương
 
-- **13-1 Tập động bền vững.** (a) Khi chèn k: chép mọi nút trên đường từ gốc tới cha của chỗ chèn (mọi tổ tiên của nút mới); khi xoá y: chép mọi tổ tiên của các nút có con trỏ bị đổi (tổ tiên của y, và nếu y có hai con thì cả đường tới nút kế tiếp). (b) PERSISTENT-TREE-INSERT: đi từ gốc xuống, mỗi bước tạo bản sao của nút hiện tại với một con trỏ con trỏ tới bản sao kế tiếp, con còn lại dùng chung; trả về bản sao của gốc. (c) O(h) thời gian và O(h) nút mới. (d) Nếu có con trỏ cha, nút mới khiến các con của nó (dùng chung) phải trỏ cha về nút mới → phải chép chúng, lan ra toàn cây: Ω(n). (e) Dùng cây đỏ-đen không con trỏ cha (giữ đường đi trên ngăn xếp); chèn/xoá chỉ đổi màu và quay trên đường đi và trong lân cận O(1) của nó, nên chỉ chép O(lg n) nút.
-- **13-2 Phép nối.** (a) bh của cây chỉ đổi khi gốc thay đổi màu theo cách làm tăng/giảm (tăng 1 khi trường hợp 1 đẩy đỏ lên tới gốc rồi dòng 16 tô đen; giảm 1 khi màu đen thừa lên tới gốc trong xoá) → cập nhật O(1); khi đi xuống, bh(con) = bh(cha) − 1 nếu con đen, = bh(cha) nếu con đỏ. (b) Từ gốc T₁ đi theo con phải, theo dõi bh, dừng ở nút đen đầu tiên có bh = T₂.bh: O(lg n). (c) Tạo x với x.left = T_y, x.right = T₂, đặt x vào chỗ y (x.p = y.p). (d) Tô x đỏ (giữ 1, 3, 5 vì T_y và T₂ cùng bh); vi phạm tính chất 4 nếu y.p đỏ, hoặc tính chất 2 nếu x là gốc — sửa bằng RB-INSERT-FIXUP(T, x), O(lg n). (e) Đối xứng: tìm trong T₂ nút đen có khoá nhỏ nhất với bh = T₁.bh, đi theo con trái. (f) Mỗi bước O(lg n).
-- **13-3 Cây AVL.** (a) Gọi N(h) là số nút ít nhất của cây AVL cao h: N(h) = 1 + N(h − 1) + N(h − 2) ≥ F_h, mà F_h ≥ φ^(h−2) với φ = (1 + √5)/2, nên h = O(lg n) (khoảng h ≤ 1,44 lg n). (b) BALANCE: nếu cây con trái cao hơn 2 — nếu cháu trái-trái cao hơn hoặc bằng cháu trái-phải thì một phép quay phải tại x, nếu không thì quay trái tại con trái rồi quay phải tại x (quay kép); đối xứng cho bên phải; cập nhật h. (c) AVL-INSERT: chèn đệ quy vào cây con phù hợp, cập nhật x.h, gọi BALANCE(x). (d) Đường đệ quy dài O(lg n); sau phép quay (đơn hoặc kép) đầu tiên, chiều cao cây con trở lại như trước khi chèn, nên các tổ tiên không cần quay nữa → O(1) phép quay.
-- **13-4 Treap.** (a) Nút có ưu tiên nhỏ nhất phải là gốc; khoá chia các nút còn lại thành cây con trái/phải; quy nạp → duy nhất. (b) Treap trùng với cây tìm kiếm nhị phân dựng ngẫu nhiên (chèn theo thứ tự ưu tiên ngẫu nhiên), chiều cao kỳ vọng O(lg n) theo mục 12.4. (c) TREAP-INSERT: chèn như cây thường làm lá; khi ưu tiên của nút nhỏ hơn của cha, quay nút lên (quay phải nếu nó là con trái, quay trái nếu con phải); lặp tới khi cha có ưu tiên nhỏ hơn hoặc nút là gốc. (d) Tìm kiếm Θ(lg n) kỳ vọng, số phép quay ≤ độ sâu → Θ(lg n). (e) Mỗi phép quay đưa đúng một nút vào xương sống phải của cây con trái hoặc xương sống trái của cây con phải của x. (f) y nằm trên xương sống phải của cây con trái x khi y nhỏ hơn x, có ưu tiên lớn hơn x, và mọi khoá nằm giữa y và x có ưu tiên lớn hơn y. (g) Trong k − i + 1 nút có khoá i, …, k, cần x có ưu tiên nhỏ nhất và y nhỏ nhì: (k − i − 1)!/(k − i + 1)! = 1/((k − i + 1)(k − i)). Kiểm tra số: k = 3, i = 1 → 1/(3·2) = 1/6. (h) E[C] = Σ_{i=1}^{k−1} 1/((k − i + 1)(k − i)); đặt j = k − i ta được Σ_{j=1}^{k−1} 1/(j(j + 1)) = Σ (1/j − 1/(j + 1)) = 1 − 1/k (tổng lồng). Ví dụ k = 3: 1/2 + 1/6 = 2/3 = 1 − 1/3. (i) Đối xứng: có n − k khoá lớn hơn k → E[D] = 1 − 1/(n − k + 1). (j) E[C + D] = 2 − 1/k − 1/(n − k + 1) < 2.
+- **13-1 Tập động bền vững.** (a) Khi chèn k: chép mọi nút trên đường từ gốc tới cha của chỗ chèn (mọi tổ tiên của nút mới); khi xoá y: chép mọi tổ tiên của các nút có con trỏ bị đổi (tổ tiên của y, và nếu y có hai con thì cả đường tới nút kế tiếp). (b) PERSISTENT-TREE-INSERT: đi từ gốc xuống, mỗi bước tạo bản sao của nút hiện tại với một con trỏ con trỏ tới bản sao kế tiếp, con còn lại dùng chung; trả về bản sao của gốc. (c) O(h) thời gian và O(h) nút mới.
+
+  (d) Nếu có con trỏ cha, nút mới khiến các con của nó (dùng chung) phải trỏ cha về nút mới → phải chép chúng, lan ra toàn cây: Ω(n). (e) Dùng cây đỏ-đen không con trỏ cha (giữ đường đi trên ngăn xếp); chèn/xoá chỉ đổi màu và quay trên đường đi và trong lân cận O(1) của nó, nên chỉ chép O(lg n) nút.
+- **13-2 Phép nối.** (a) bh của cây chỉ đổi khi gốc thay đổi màu theo cách làm tăng/giảm (tăng 1 khi trường hợp 1 đẩy đỏ lên tới gốc rồi dòng 16 tô đen; giảm 1 khi màu đen thừa lên tới gốc trong xoá) → cập nhật O(1); khi đi xuống, bh(con) = bh(cha) − 1 nếu con đen, = bh(cha) nếu con đỏ. (b) Từ gốc T₁ đi theo con phải, theo dõi bh, dừng ở nút đen đầu tiên có bh = T₂.bh: O(lg n). (c) Tạo x với x.left = T_y, x.right = T₂, đặt x vào chỗ y (x.p = y.p).
+
+  (d) Tô x đỏ (giữ 1, 3, 5 vì T_y và T₂ cùng bh); vi phạm tính chất 4 nếu y.p đỏ, hoặc tính chất 2 nếu x là gốc — sửa bằng RB-INSERT-FIXUP(T, x), O(lg n). (e) Đối xứng: tìm trong T₂ nút đen có khoá nhỏ nhất với bh = T₁.bh, đi theo con trái. (f) Mỗi bước O(lg n).
+- **13-3 Cây AVL.** (a) Gọi N(h) là số nút ít nhất của cây AVL cao h: N(h) = 1 + N(h − 1) + N(h − 2) ≥ F_h, mà F_h ≥ φ^(h−2) với φ = (1 + √5)/2, nên h = O(lg n) (khoảng h ≤ 1,44 lg n).
+
+  (b) BALANCE: nếu cây con trái cao hơn 2 — nếu cháu trái-trái cao hơn hoặc bằng cháu trái-phải thì một phép quay phải tại x, nếu không thì quay trái tại con trái rồi quay phải tại x (quay kép); đối xứng cho bên phải; cập nhật h. (c) AVL-INSERT: chèn đệ quy vào cây con phù hợp, cập nhật x.h, gọi BALANCE(x). (d) Đường đệ quy dài O(lg n); sau phép quay (đơn hoặc kép) đầu tiên, chiều cao cây con trở lại như trước khi chèn, nên các tổ tiên không cần quay nữa → O(1) phép quay.
+- **13-4 Treap.** (a) Nút có ưu tiên nhỏ nhất phải là gốc; khoá chia các nút còn lại thành cây con trái/phải; quy nạp → duy nhất. (b) Treap trùng với cây tìm kiếm nhị phân dựng ngẫu nhiên (chèn theo thứ tự ưu tiên ngẫu nhiên), chiều cao kỳ vọng O(lg n) theo mục 12.4. (c) TREAP-INSERT: chèn như cây thường làm lá; khi ưu tiên của nút nhỏ hơn của cha, quay nút lên (quay phải nếu nó là con trái, quay trái nếu con phải); lặp tới khi cha có ưu tiên nhỏ hơn hoặc nút là gốc. (d) Tìm kiếm Θ(lg n) kỳ vọng, số phép quay ≤ độ sâu → Θ(lg n).
+
+  (e) Mỗi phép quay đưa đúng một nút vào xương sống phải của cây con trái hoặc xương sống trái của cây con phải của x. (f) y nằm trên xương sống phải của cây con trái x khi y nhỏ hơn x, có ưu tiên lớn hơn x, và mọi khoá nằm giữa y và x có ưu tiên lớn hơn y. (g) Trong k − i + 1 nút có khoá i, …, k, cần x có ưu tiên nhỏ nhất và y nhỏ nhì: (k − i − 1)!/(k − i + 1)! = 1/((k − i + 1)(k − i)). Kiểm tra số: k = 3, i = 1 → 1/(3·2) = 1/6.
+
+  (h) E[C] = Σ_{i=1}^{k−1} 1/((k − i + 1)(k − i)); đặt j = k − i ta được Σ_{j=1}^{k−1} 1/(j(j + 1)) = Σ (1/j − 1/(j + 1)) = 1 − 1/k (tổng lồng). Ví dụ k = 3: 1/2 + 1/6 = 2/3 = 1 − 1/3. (i) Đối xứng: có n − k khoá lớn hơn k → E[D] = 1 − 1/(n − k + 1). (j) E[C + D] = 2 − 1/k − 1/(n − k + 1) < 2.
 
 ## Luận điểm cốt lõi
 
@@ -1334,7 +1352,11 @@ CLRS không chỉ đưa mã mà chứng minh tính đúng của RB-INSERT-FIXUP 
 
 ### Điểm yếu: trực giác bị che bởi các trường hợp
 
-Chương không nói (trừ Exercise 13.1-4 và một câu ở Ghi chú chương) rằng cây đỏ-đen là cách mã hoá nhị phân của cây 2-3-4. Với góc nhìn này, mọi trường hợp trở nên tự nhiên: trường hợp 1 khi chèn là "tách nút 4 khoá đầy và đẩy khoá giữa lên cha"; trường hợp 2/3 là "sắp xếp lại một nút 3 khoá thành nút 4 khoá"; trường hợp 2 khi xoá là "gộp hai nút anh em" còn trường hợp 3/4 là "mượn khoá từ anh em". Người học thấy khó nhớ sáu trường hợp chèn và tám trường hợp xoá thường sẽ dễ hơn khi đọc chương này song song với Chương 18 (cây B). Cũng đáng nói là sách viết tắt nhánh đối xứng bằng câu "same as then clause with right and left exchanged" — gọn nhưng là nguồn lỗi phổ biến khi cài đặt; nhiều cài đặt thực tế tránh lặp mã bằng cách dùng mảng `child[2]` và chỉ số hướng `dir`.
+Chương không nói (trừ Exercise 13.1-4 và một câu ở Ghi chú chương) rằng cây đỏ-đen là cách mã hoá nhị phân của cây 2-3-4. Với góc nhìn này, mọi trường hợp trở nên tự nhiên: trường hợp 1 khi chèn là "tách nút 4 khoá đầy và đẩy khoá giữa lên cha"; trường hợp 2/3 là "sắp xếp lại một nút 3 khoá thành nút 4 khoá"; trường hợp 2 khi xoá là "gộp hai nút anh em" còn trường hợp 3/4 là "mượn khoá từ anh em".
+
+Người học thấy khó nhớ sáu trường hợp chèn và tám trường hợp xoá thường sẽ dễ hơn khi đọc chương này song song với Chương 18 (cây B).
+
+Cũng đáng nói là sách viết tắt nhánh đối xứng bằng câu "same as then clause with right and left exchanged" — gọn nhưng là nguồn lỗi phổ biến khi cài đặt; nhiều cài đặt thực tế tránh lặp mã bằng cách dùng mảng `child[2]` và chỉ số hướng `dir`.
 
 ### Liên hệ thực tế: thư viện chuẩn, bộ nhớ đệm, và đối thủ
 
@@ -1345,7 +1367,7 @@ Chương không nói (trừ Exercise 13.1-4 và một câu ở Ghi chú chương
 
 ### Những chỗ trong sách cần lưu ý
 
-- Hình 13.2 và Exercise 13.2-3 không khớp về "cây bên trái" (đã nêu ở khối Lưu ý).
+- Hình 13.2 và Exercise 13.2-3 không khớp về "cây bên trái" (đã nêu ở mục Lưu ý cuối chương).
 - Câu "each of cases 1, 3, and 4 lead to termination" trong phần phân tích RB-DELETE-FIXUP hơi lỏng: trường hợp 1 tự nó không kết thúc vòng lặp mà chuyển sang 2, 3 hoặc 4 — nhưng nếu sang 2 thì vòng lặp dừng ngay vì x mới đỏ-và-đen; vì vậy kết luận "tối đa 3 phép quay" vẫn đúng.
 - Bản tổng hợp không phát hiện lỗi số học hay lỗi pseudocode nào khác khi đối chiếu ảnh trang; các ví dụ chạy tay (Hình 13.4, Exercise 13.3-2, 13.4-3) đều được kiểm tra lại tính chất 4 và 5 sau mỗi bước.
 
@@ -1354,3 +1376,125 @@ Chương không nói (trừ Exercise 13.1-4 và một câu ở Ghi chú chương
 - **Phỏng vấn:** câu hỏi hay gặp là "vì sao cây đỏ-đen cao O(lg n)" (trả lời bằng Bổ đề 13.1), "so sánh AVL và đỏ-đen", "TreeMap và HashMap khác nhau thế nào". Hiếm khi phải viết đủ thao tác xoá.
 - **Lập trình thi đấu:** thường dùng `std::set`/`std::map` hoặc cây có thứ tự của thư viện (policy-based data structures trong GNU C++) thay vì tự cài; khi cần tách/ghép hoặc truy vấn theo thứ hạng, treap (Problem 13-4) là lựa chọn phổ biến vì ngắn gọn.
 - **Kỹ thuật phần mềm:** tập bền vững (Problem 13-1) là nền tảng của cấu trúc dữ liệu bất biến trong lập trình hàm (ví dụ `Map` của Scala/Haskell dùng cây cân bằng với chép đường đi); phép nối (Problem 13-2) là cơ sở cho các thao tác hợp/giao tập song song dựa trên join.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 13 trên một trang: sáu nhánh lớn theo Mục 13.1–13.4 và các bài toán 13-1 đến 13-4, mỗi nhánh ghi tính chất, thủ tục, các trường hợp sửa cây và cận thời gian; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 13: một bit màu và năm tính chất đỏ-đen giữ chiều cao ≤ 2 lg(n + 1), mọi thao tác O(lg n) xấu nhất`"]
+  n1["`Mục 13.1 — Năm tính chất và chiều cao`"]
+  n0 --- n1
+  n2["`Năm tính chất đỏ-đen`"]
+  n1 --- n2
+  n3["`Mỗi nút đỏ hoặc đen, gốc đen, lá NIL đen`"]
+  n2 --- n3
+  n4["`Nút đỏ có hai con đen – không có hai nút đỏ liền nhau`"]
+  n2 --- n4
+  n5["`Mọi đường đi xuống từ một nút tới lá có cùng số nút đen bh(x)`"]
+  n2 --- n5
+  n6["`Một nút canh T.nil màu đen dùng chung thay mọi NIL`"]
+  n1 --- n6
+  n7["`Bổ đề 13.1: h ≤ 2 lg(n + 1)`"]
+  n1 --- n7
+  n8["`Cây con gốc x có ít nhất 2 mũ bh(x) − 1 nút trong, chứng minh bằng quy nạp`"]
+  n7 --- n8
+  n9["`Ít nhất nửa số nút trên đường từ gốc xuống là đen nên bh(gốc) ≥ h/2`"]
+  n7 --- n9
+  n10["`n = 10⁶ thì chiều cao ≤ 39,9, so với tối đa 999.999 của cây không cân bằng`"]
+  n7 --- n10
+  n11["`Mục 13.2 — Phép quay`"]
+  n0 --- n11
+  n12["`LEFT-ROTATE và RIGHT-ROTATE đổi O(1) con trỏ, giữ nguyên thứ tự khoá`"]
+  n11 --- n12
+  n13["`Ví dụ LEFT-ROTATE tại nút 11 trên cây 14 nút, thứ tự trung thứ tự không đổi`"]
+  n11 --- n13
+  n14["`Mục 13.3 — Chèn`"]
+  n0 --- n14
+  n15["`RB-INSERT chèn như cây thường và tô nút mới z đỏ`"]
+  n14 --- n15
+  n16["`Chỉ có thể vi phạm tính chất 2 khi z là gốc, hoặc tính chất 4 khi cha z đỏ`"]
+  n15 --- n16
+  n17["`RB-INSERT-FIXUP xét chú bác y của z`"]
+  n14 --- n17
+  n18["`Trường hợp 1, y đỏ: tô cha và y đen, ông đỏ, đẩy z lên hai tầng`"]
+  n17 --- n18
+  n19["`Trường hợp 2, y đen và z là con phải: quay trái tại cha để về trường hợp 3`"]
+  n17 --- n19
+  n20["`Trường hợp 3: tô cha đen, ông đỏ, quay phải tại ông rồi dừng`"]
+  n17 --- n20
+  n21["`Tính đúng chứng minh bằng bất biến vòng lặp ba phần`"]
+  n14 --- n21
+  n22["`Tổng O(lg n), tối đa 2 phép quay`"]
+  n14 --- n22
+  n23["`Mục 13.4 — Xoá`"]
+  n0 --- n23
+  n24["`RB-DELETE dựa trên TREE-DELETE, theo dõi nút y bị gỡ và nút x thế chỗ y`"]
+  n23 --- n24
+  n25["`Nếu y đen thì x mang một màu đen thừa, thành đen kép hoặc đỏ-và-đen`"]
+  n23 --- n25
+  n26["`RB-DELETE-FIXUP xét anh em w của x qua bốn trường hợp`"]
+  n23 --- n26
+  n27["`Trường hợp 1, w đỏ: quay để w thành đen`"]
+  n26 --- n27
+  n28["`Trường hợp 2, w đen có hai con đen: tô w đỏ, đẩy màu đen thừa lên cha – trường hợp duy nhất lặp`"]
+  n26 --- n28
+  n29["`Trường hợp 3 và 4: một hoặc hai phép quay rồi màu đen thừa biến mất`"]
+  n26 --- n29
+  n30["`Mỗi phép biến đổi giữ nguyên số nút đen tới từng cây con α…ζ`"]
+  n23 --- n30
+  n31["`Tổng O(lg n), tối đa 3 phép quay`"]
+  n23 --- n31
+  n32["`Bài toán 13-1 đến 13-4`"]
+  n0 --- n32
+  n33["`13-1 Tập động bền vững: chép đường đi, mỗi lần cập nhật chỉ chép O(lg n) nút nếu bỏ con trỏ cha`"]
+  n32 --- n33
+  n34["`13-2 Phép nối hai cây đỏ-đen trong O(lg n) nhờ theo dõi chiều cao đen`"]
+  n32 --- n34
+  n35["`13-3 Cây AVL cao O(lg n), khoảng 1,44 lg n, chèn chỉ cần O(1) phép quay`"]
+  n32 --- n35
+  n36["`13-4 Treap trùng với cây dựng ngẫu nhiên, số phép quay kỳ vọng khi chèn nhỏ hơn 2`"]
+  n32 --- n36
+  n37["`Thông điệp xuyên suốt`"]
+  n0 --- n37
+  n38["`Cây đỏ-đen là cách mã hoá nhị phân của cây 2-3-4 – nhìn vậy các trường hợp trở nên tự nhiên`"]
+  n37 --- n38
+  n39["`O(1) phép quay mỗi lần cập nhật cho phép mở rộng cấu trúc ở Chương 14`"]
+  n37 --- n39
+  n40["`Cần từ điển có thứ tự với cận xấu nhất thì dùng cây cân bằng của thư viện`"]
+  n37 --- n40
+  class n0 root
+  class n1,n11,n14,n23,n32,n37 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n38,n39,n40 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần III "Data Structures", Chương 13 "Red-Black Trees", trang 308–338.
+
+## Tác giả
+
+Cormen (Dartmouth), Leiserson và Rivest (MIT), Stein (Columbia) — bốn tác giả của giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) giới thiệu nút canh (sentinel) cho danh sách liên kết — một nút giả dùng thay cho NIL để bớt xử lý trường hợp biên.
+
+Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) xây dựng cây tìm kiếm nhị phân với các thao tác SEARCH, MINIMUM, MAXIMUM, SUCCESSOR, PREDECESSOR, INSERT, DELETE đều chạy trong O(h) với h là chiều cao cây, kèm thủ tục TREE-INSERT, TREE-DELETE và TRANSPLANT; nhưng h có thể lên tới n − 1 khi khoá được chèn theo thứ tự tăng dần.
+
+Chương 13 thêm vào mỗi nút một bit màu và năm ràng buộc màu để buộc chiều cao luôn ≤ 2 lg(n + 1), rồi chỉ ra cách chèn và xoá trong O(lg n) bằng phép quay và đổi màu.
+
+Chương 14 ([C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)) dùng cây đỏ-đen làm nền để "mở rộng" thêm thông tin (cây thống kê thứ tự, cây khoảng) mà vẫn giữ O(lg n), nhờ đúng tính chất "mỗi lần chèn/xoá chỉ quay hằng số lần" chứng minh ở đây. Chương 18 ([C18-cay-b.md](C18-cay-b.md)) trình bày cây B, dạng tổng quát của cây 2-3 mà cây đỏ-đen thực chất là một cách biểu diễn nhị phân của nó (cây 2-3-4). Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) cung cấp công cụ phân tích khấu hao mà Ghi chú chương nhắc tới cho cây splay.
+
+## Lưu ý
+
+- **Mục khó (dấu ?):** chương có một bài tập đánh dấu sao: Exercise 13.2-5 (chuyển đổi cây chỉ bằng phép quay phải, cần O(n²) phép quay). Không có mục lý thuyết nào có dấu sao.
+- **Hình vẽ gốc dùng màu xám thay cho đỏ:** sách in hai màu đen-trắng; trong hình, nút đen được tô đậm, nút đỏ tô xám nhạt (Hình 13.1–13.6) hoặc xám đậm (Hình 13.7, nơi xám nhạt dành cho màu "c" chưa biết). Trong bản tổng hợp này, mọi hình được vẽ lại bằng chữ với ký hiệu **B = đen (Black), R = đỏ (Red)** ghi ngay sau khoá, ví dụ `26B`, `17R`.
+- **Chỗ lớp chữ PDF hỏng phải đọc từ ảnh trang:** toàn bộ pseudocode (ký hiệu `=` gán, `==` so sánh, `≠`), Bổ đề 13.1 (lớp chữ in "2bh.x//NUL 1" thay cho 2^bh(x) − 1, "n 2h=2/NUL 1" thay cho n ≥ 2^(h/2) − 1), mọi hình cây (lớp chữ chỉ còn dãy số rời), và các công thức xác suất của Problem 13-4 (g), (h), (i). Tất cả đã được chép lại từ ảnh trang.
+- **Hình 13.2 và Exercise 13.2-3 không khớp nhau trong bản PDF này:** trong Hình 13.2 (trang 313), cây bên trái là cây có y ở gốc và x là con trái của y; cây bên phải có x ở gốc. Chú thích hình nói đúng điều đó (LEFT-ROTATE(T, x) biến cấu hình bên phải thành cấu hình bên trái). Nhưng Exercise 13.2-3 (trang 314) lại nói "trong cây bên trái của Hình 13.2 ... khi thực hiện quay trái trên nút x", tức là ngầm giả định cây bên trái là cây có x ở gốc. Người đọc nên hiểu bài tập theo nghĩa: thực hiện quay trái tại x trên cây có x ở gốc (α, y(β, γ)). (Quan sát trực tiếp từ ảnh trang, không tra errata.)
+- **Ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu:** sách được in màu nên nút đỏ trong hình thực sự màu đỏ; pseudocode RB-INSERT-FIXUP và RB-DELETE-FIXUP được viết đầy đủ cả hai nhánh đối xứng thay vì câu "else (same as then clause with 'right' and 'left' exchanged)"; ký hiệu gán đổi từ `=` sang `=` kiểu mới nhưng nội dung các thủ tục không đổi về bản chất. Người tổng hợp không chắc chắn về các thay đổi khác trong phần bài toán cuối chương.

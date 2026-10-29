@@ -1,18 +1,16 @@
 # Chương 12 — Cây tìm kiếm nhị phân (Binary Search Trees)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần III "Data Structures" (Cấu trúc dữ liệu), Chương 12 "Binary Search Trees", trang 286–307.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), bộ sách thường được gọi tắt là "CLRS", giáo trình thuật toán phổ biến nhất ở bậc đại học.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) đã dựng các cấu trúc liên kết cơ bản (danh sách liên kết, cách biểu diễn cây có gốc bằng các nút có con trỏ tới cha và con), còn Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) cho một từ điển (dictionary) với thời gian kỳ vọng O(1) cho tìm kiếm, chèn và xoá nhưng không giữ được thứ tự giữa các khoá. Chương 12 đưa ra cây tìm kiếm nhị phân: một cấu trúc liên kết giữ các khoá theo thứ tự, nên ngoài tìm kiếm, chèn, xoá còn hỗ trợ tìm phần tử nhỏ nhất, lớn nhất, phần tử liền trước, liền sau và in toàn bộ khoá theo thứ tự tăng dần; mọi thao tác chạy trong O(h) với h là chiều cao cây. Chương chứng minh rằng cây được dựng bằng cách chèn các khoá theo thứ tự ngẫu nhiên có chiều cao kỳ vọng O(lg n), nhưng trong trường hợp xấu nhất chiều cao có thể là n − 1. Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) giải quyết điểm yếu đó bằng cây đỏ-đen, luôn có chiều cao O(lg n); Chương 14 ([C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)) gắn thêm thông tin vào nút cây để trả lời thống kê thứ tự và truy vấn khoảng; Mục 15.5 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) dựng cây tìm kiếm nhị phân tối ưu khi biết trước tần suất tìm kiếm; Chương 18 ([C18-cay-b.md](C18-cay-b.md)) tổng quát hoá ý tưởng thành cây B cho dữ liệu trên đĩa. Phép phân tích ở Mục 12.4 dùng lại biến ngẫu nhiên chỉ báo của Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) và giống hệt cấu trúc phân tích quicksort ngẫu nhiên ở Chương 7 ([C07-quicksort.md](C07-quicksort.md)).
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **một cây nhị phân mà mọi nút đều thoả "khoá ở cây con trái ≤ khoá của nút ≤ khoá ở cây con phải" (tính chất cây tìm kiếm nhị phân) cho phép làm mọi thao tác của tập động bằng cách đi theo một đường đơn từ gốc xuống (hoặc từ một nút lên), nên chi phí của mọi thao tác tỉ lệ với chiều cao h của cây, không tỉ lệ với số nút n.** Duyệt trung thứ tự (INORDER-TREE-WALK) in mọi khoá theo thứ tự tăng dần trong Θ(n) (Định lý 12.1). Tìm kiếm (TREE-SEARCH, ITERATIVE-TREE-SEARCH), tìm nhỏ nhất/lớn nhất (TREE-MINIMUM, TREE-MAXIMUM), tìm phần tử kế tiếp/liền trước (TREE-SUCCESSOR, TREE-PREDECESSOR) đều chạy trong O(h) (Định lý 12.2). Chèn (TREE-INSERT) và xoá (TREE-DELETE, dùng thủ tục phụ TRANSPLANT để thay một cây con bằng cây con khác) cũng chạy trong O(h) (Định lý 12.3); xoá là phần khó vì khi nút có hai con, phải đưa nút kế tiếp của nó lên thay chỗ. Chiều cao h dao động từ ⌊lg n⌋ (cây cân bằng) tới n − 1 (cây thành một chuỗi khi chèn các khoá đã sắp xếp). Mục 12.4 (mục khó) chứng minh rằng cây dựng ngẫu nhiên trên n khoá phân biệt có chiều cao kỳ vọng O(lg n), bằng kỹ thuật "chiều cao mũ" Yₙ = 2^Xₙ: chứng minh E[Yₙ] ≤ (1/4)·C(n+3, 3) = (n³ + 6n² + 11n + 6)/24, rồi dùng bất đẳng thức Jensen để suy ra E[Xₙ] ≤ lg của đa thức bậc ba, tức E[Xₙ] ≈ 3 lg n = O(lg n).
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục có dấu sao:** Mục 12.4 "Randomly built binary search trees" có dấu ? (mục khó, có thể bỏ qua ở lần đọc đầu). Bài tập 12.4-5 cũng có dấu sao.
-> - **Lỗi đánh máy trong lời giải thích TREE-DELETE (trang 298):** sách viết "If y is not z's left child, lines 7–9 replace y as a child of its parent by y's right child…". Đúng ra phải là "**If y is not z's right child**" (nếu y không phải con phải của z), vì y là nút nhỏ nhất trong cây con phải của z nên không bao giờ là con trái của z; điều kiện ở dòng 6 của mã (`if y.p ≠ z`) cũng đúng là "y không phải con phải của z". Theo hiểu biết của người tổng hợp, đây là lỗi nằm trong danh sách errata chính thức của ấn bản 3 (không tra cứu lại).
-> - **Thiếu chữ trong chứng minh Định lý 12.4 (trang 300):** câu "We denote the height of a randomly built binary search on n keys by Xₙ" thiếu chữ "tree" (cây tìm kiếm nhị phân dựng ngẫu nhiên).
-> - **Một chi tiết cần đọc kỹ trong chứng minh Định lý 12.4:** công thức Yₙ = 2·max(Yᵢ₋₁, Yₙ₋ᵢ) và truy hồi (12.2) chỉ đúng với n ≥ 2. Với n = 1, công thức sẽ cho Y₁ = 2·max(Y₀, Y₀) = 0, mâu thuẫn với quy ước Y₁ = 1; vì vậy sách đặt Y₁ = 1 và Y₀ = 0 làm trường hợp cơ sở, và bước quy nạp phải bắt đầu từ n = 2. Sách không nói rõ điều này nhưng chứng minh vẫn đúng (người tổng hợp đã kiểm tra n = 2: E[Y₂] = 2 ≤ (4/2)(0 + 1) = 2 ≤ (1/4)·C(5,3) = 2,5).
-> - **Lớp chữ PDF hỏng:** mọi pseudocode, ký hiệu ´ (là z), ký hiệu  (là v trong TRANSPLANT), các dấu ≤, ≥, ≠, công thức tổ hợp C(n+3, 3), tổng Σ và bất đẳng thức Jensen trong Mục 12.4, công thức hàm sinh B(x) = (1 − √(1 − 4x))/(2x) và bₙ = 4ⁿ/(√π·n^{3/2})·(1 + O(1/n)) ở Bài toán 12-4 đều được đọc lại từ ảnh trang. Các hình 12.1–12.5 không có chữ dùng được trong lớp văn bản; cấu trúc cây được đọc từ ảnh.
-> - **Khác biệt với hai ấn bản đầu:** chính Ghi chú chương nói rằng ấn bản 1 và 2 xoá nút có hai con bằng cách chép khoá của nút kế tiếp y vào z rồi xoá y; ấn bản 3 đổi sang cách "đưa y lên thay chỗ z" bằng TRANSPLANT để lệnh xoá z thực sự xoá đúng nút z. Mã TREE-DELETE ở đây vì vậy khác các sách cũ và nhiều tài liệu trên mạng.
-> - **Ấn bản 4 (2022):** người tổng hợp không chắc chắn về các thay đổi cụ thể của chương này trong ấn bản 4 (có nhớ mơ hồ rằng mục cây dựng ngẫu nhiên đã bị lược bớt, nhưng không khẳng định), nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **một cây nhị phân mà mọi nút đều thoả "khoá ở cây con trái ≤ khoá của nút ≤ khoá ở cây con phải" (tính chất cây tìm kiếm nhị phân) cho phép làm mọi thao tác của tập động bằng cách đi theo một đường đơn từ gốc xuống (hoặc từ một nút lên), nên chi phí của mọi thao tác tỉ lệ với chiều cao h của cây, không tỉ lệ với số nút n.**
+
+Duyệt trung thứ tự (INORDER-TREE-WALK) in mọi khoá theo thứ tự tăng dần trong Θ(n) (Định lý 12.1). Tìm kiếm (TREE-SEARCH, ITERATIVE-TREE-SEARCH), tìm nhỏ nhất/lớn nhất (TREE-MINIMUM, TREE-MAXIMUM), tìm phần tử kế tiếp/liền trước (TREE-SUCCESSOR, TREE-PREDECESSOR) đều chạy trong O(h) (Định lý 12.2).
+
+Chèn (TREE-INSERT) và xoá (TREE-DELETE, dùng thủ tục phụ TRANSPLANT để thay một cây con bằng cây con khác) cũng chạy trong O(h) (Định lý 12.3); xoá là phần khó vì khi nút có hai con, phải đưa nút kế tiếp của nó lên thay chỗ.
+
+Chiều cao h dao động từ ⌊lg n⌋ (cây cân bằng) tới n − 1 (cây thành một chuỗi khi chèn các khoá đã sắp xếp).
+
+Mục 12.4 (mục khó) chứng minh rằng cây dựng ngẫu nhiên trên n khoá phân biệt có chiều cao kỳ vọng O(lg n), bằng kỹ thuật "chiều cao mũ" Yₙ = 2^Xₙ: chứng minh E[Yₙ] ≤ (1/4)·C(n+3, 3) = (n³ + 6n² + 11n + 6)/24, rồi dùng bất đẳng thức Jensen để suy ra E[Xₙ] ≤ lg của đa thức bậc ba, tức E[Xₙ] ≈ 3 lg n = O(lg n).
 
 ## Sơ đồ
 
@@ -679,7 +677,7 @@ TREE-DELETE thực hiện bốn trường hợp như sau:
 - Dòng 3–4: z có con trái nhưng không có con phải (trường hợp (b)) — thay z bằng z.left.
 - Dòng 5–12: z có hai con (trường hợp (c) và (d)). Dòng 5 tìm y, nút kế tiếp của z. Vì z có cây con phải khác rỗng, nút kế tiếp phải là nút có khoá nhỏ nhất trong cây con đó, nên gọi TREE-MINIMUM(z.right). Như đã nói, y không có con trái. Ta muốn tách y khỏi vị trí hiện tại và đưa nó thay z.
   - Nếu y là con phải của z (trường hợp (c), điều kiện dòng 6 sai), dòng 10–12 thay z (ở vị trí con của cha z) bằng y, và thay con trái của y (đang là NIL) bằng con trái của z.
-  - Nếu y không phải con phải của z (trường hợp (d)), dòng 7–9 thay y (ở vị trí con của cha y) bằng con phải của y, và biến con phải của z thành con phải của y; sau đó dòng 10–12 thay z bằng y và cho con trái của z làm con trái của y. (Sách in nhầm "If y is not z's left child" ở đoạn này; xem khối Lưu ý.)
+  - Nếu y không phải con phải của z (trường hợp (d)), dòng 7–9 thay y (ở vị trí con của cha y) bằng con phải của y, và biến con phải của z thành con phải của y; sau đó dòng 10–12 thay z bằng y và cho con trái của z làm con trái của y. (Sách in nhầm "If y is not z's left child" ở đoạn này; xem mục Lưu ý cuối chương.)
 
 Mọi dòng của TREE-DELETE, kể cả các lời gọi TRANSPLANT, tốn thời gian hằng số, trừ lời gọi TREE-MINIMUM ở dòng 5. Vì vậy TREE-DELETE chạy trong O(h).
 
@@ -723,7 +721,9 @@ Chứng minh là các phân tích ở trên: TREE-INSERT đi một đường đ�
 
 #### Ví dụ hôm nay
 
-Cách xoá "đưa nút kế tiếp lên thay chỗ" là cách chuẩn trong mọi cây tìm kiếm cân bằng; cây đỏ-đen ở Chương 13 dùng lại gần như nguyên TRANSPLANT và khung TREE-DELETE, chỉ thêm bước sửa màu. Việc ấn bản 3 bảo đảm "xoá z thì đúng nút z bị xoá" (thay vì chép khoá) quan trọng trong phần mềm thực tế: các thư viện thường bảo đảm rằng con trỏ/iterator tới các phần tử khác vẫn hợp lệ sau khi xoá một phần tử (theo hiểu biết của người tổng hợp, `std::map` của C++ có bảo đảm này), điều mà cách chép khoá sẽ phá vỡ. Cây tìm kiếm nhị phân *không cân bằng* như trong chương ít khi dùng trực tiếp trong sản phẩm vì rủi ro suy biến thành chuỗi khi dữ liệu đến theo thứ tự (ví dụ chèn mã tăng dần, dấu thời gian tăng dần).
+Cách xoá "đưa nút kế tiếp lên thay chỗ" là cách chuẩn trong mọi cây tìm kiếm cân bằng; cây đỏ-đen ở Chương 13 dùng lại gần như nguyên TRANSPLANT và khung TREE-DELETE, chỉ thêm bước sửa màu.
+
+Việc ấn bản 3 bảo đảm "xoá z thì đúng nút z bị xoá" (thay vì chép khoá) quan trọng trong phần mềm thực tế: các thư viện thường bảo đảm rằng con trỏ/iterator tới các phần tử khác vẫn hợp lệ sau khi xoá một phần tử (theo hiểu biết của người tổng hợp, `std::map` của C++ có bảo đảm này), điều mà cách chép khoá sẽ phá vỡ. Cây tìm kiếm nhị phân *không cân bằng* như trong chương ít khi dùng trực tiếp trong sản phẩm vì rủi ro suy biến thành chuỗi khi dữ liệu đến theo thứ tự (ví dụ chèn mã tăng dần, dấu thời gian tăng dần).
 
 ### 5. Cây tìm kiếm nhị phân dựng ngẫu nhiên (? 12.4 Randomly built binary search trees, trang 299–303)
 
@@ -737,7 +737,9 @@ Mọi thao tác cơ bản chạy trong O(h), nhưng chiều cao h thay đổi kh
 
 > **Định lý 12.4.** Chiều cao kỳ vọng của một cây tìm kiếm nhị phân dựng ngẫu nhiên trên n khoá phân biệt là O(lg n).
 
-**Bước 1 — ba biến ngẫu nhiên.** Ký hiệu Xₙ là chiều cao của cây dựng ngẫu nhiên trên n khoá, và định nghĩa **chiều cao mũ** Yₙ = 2^Xₙ. Khi dựng cây trên n khoá, một khoá được chọn làm gốc (khoá chèn đầu tiên); gọi Rₙ là biến ngẫu nhiên chứa *thứ hạng* của khoá này trong tập n khoá, tức vị trí của nó khi tập khoá được sắp xếp. Rₙ nhận mỗi giá trị trong {1, 2, …, n} với xác suất như nhau. Nếu Rₙ = i thì cây con trái của gốc là cây dựng ngẫu nhiên trên i − 1 khoá, cây con phải là cây dựng ngẫu nhiên trên n − i khoá. Vì chiều cao của cây nhị phân lớn hơn 1 so với chiều cao lớn hơn trong hai cây con của gốc, chiều cao mũ bằng hai lần chiều cao mũ lớn hơn của hai cây con. Biết Rₙ = i thì
+**Bước 1 — ba biến ngẫu nhiên.** Ký hiệu Xₙ là chiều cao của cây dựng ngẫu nhiên trên n khoá, và định nghĩa **chiều cao mũ** Yₙ = 2^Xₙ. Khi dựng cây trên n khoá, một khoá được chọn làm gốc (khoá chèn đầu tiên); gọi Rₙ là biến ngẫu nhiên chứa *thứ hạng* của khoá này trong tập n khoá, tức vị trí của nó khi tập khoá được sắp xếp. Rₙ nhận mỗi giá trị trong {1, 2, …, n} với xác suất như nhau.
+
+Nếu Rₙ = i thì cây con trái của gốc là cây dựng ngẫu nhiên trên i − 1 khoá, cây con phải là cây dựng ngẫu nhiên trên n − i khoá. Vì chiều cao của cây nhị phân lớn hơn 1 so với chiều cao lớn hơn trong hai cây con của gốc, chiều cao mũ bằng hai lần chiều cao mũ lớn hơn của hai cây con. Biết Rₙ = i thì
 
   Yₙ = 2·max(Yᵢ₋₁, Yₙ₋ᵢ).
 
@@ -753,7 +755,9 @@ với i = 1, 2, …, n. Vì đúng một Zₙ,ᵢ bằng 1 và các biến còn 
 
 Mục tiêu là chứng minh E[Yₙ] là một đa thức theo n, từ đó suy ra E[Xₙ] = O(lg n).
 
-**Bước 3 — tính độc lập.** Biến chỉ báo Zₙ,ᵢ = I{Rₙ = i} độc lập với Yᵢ₋₁ và Yₙ₋ᵢ. Khi đã chọn Rₙ = i, cây con trái (chiều cao mũ Yᵢ₋₁) được dựng ngẫu nhiên trên i − 1 khoá có thứ hạng nhỏ hơn i. Cây con này giống hệt mọi cây dựng ngẫu nhiên khác trên i − 1 khoá; ngoài số khoá, cấu trúc của nó hoàn toàn không bị ảnh hưởng bởi việc chọn Rₙ = i, nên Yᵢ₋₁ và Zₙ,ᵢ độc lập. Tương tự, cây con phải (chiều cao mũ Yₙ₋ᵢ) được dựng ngẫu nhiên trên n − i khoá có thứ hạng lớn hơn i, cấu trúc độc lập với Rₙ. (Lý do sâu xa: với hoán vị ngẫu nhiên đều, thứ tự tương đối của các khoá nhỏ hơn gốc là một hoán vị ngẫu nhiên đều của chúng, bất kể khoá nào đứng đầu.)
+**Bước 3 — tính độc lập.** Biến chỉ báo Zₙ,ᵢ = I{Rₙ = i} độc lập với Yᵢ₋₁ và Yₙ₋ᵢ. Khi đã chọn Rₙ = i, cây con trái (chiều cao mũ Yᵢ₋₁) được dựng ngẫu nhiên trên i − 1 khoá có thứ hạng nhỏ hơn i. Cây con này giống hệt mọi cây dựng ngẫu nhiên khác trên i − 1 khoá; ngoài số khoá, cấu trúc của nó hoàn toàn không bị ảnh hưởng bởi việc chọn Rₙ = i, nên Yᵢ₋₁ và Zₙ,ᵢ độc lập.
+
+Tương tự, cây con phải (chiều cao mũ Yₙ₋ᵢ) được dựng ngẫu nhiên trên n − i khoá có thứ hạng lớn hơn i, cấu trúc độc lập với Rₙ. (Lý do sâu xa: với hoán vị ngẫu nhiên đều, thứ tự tương đối của các khoá nhỏ hơn gốc là một hoán vị ngẫu nhiên đều của chúng, bất kể khoá nào đứng đầu.)
 
 **Bước 4 — lấy kỳ vọng.** (Đọc từ ảnh trang 301.)
 
@@ -794,7 +798,7 @@ E[Yₙ] ≤ (4/n) Σᵢ₌₀ⁿ⁻¹ E[Yᵢ]
       = (1/4) · C(n+3, 3) .
 ```
 
-(Kiểm tra dòng thứ sáu: (1/n)·(n+3)!/(4!·(n−1)!) = (n+3)!/(4·3!·n·(n−1)!) = (1/4)·(n+3)!/(3!·n!). ✓) Như đã nói ở khối Lưu ý, bước quy nạp áp dụng cho n ≥ 2.
+(Kiểm tra dòng thứ sáu: (1/n)·(n+3)!/(4!·(n−1)!) = (n+3)!/(4·3!·n·(n−1)!) = (1/4)·(n+3)!/(3!·n!). ✓) Như đã nói ở mục Lưu ý cuối chương, bước quy nạp áp dụng cho n ≥ 2.
 
 **Bước 6 — từ E[Yₙ] sang E[Xₙ].** Hàm f(x) = 2^x lồi (Bài tập 12.4-4). Vì vậy áp dụng được bất đẳng thức Jensen (C.26):
 
@@ -936,7 +940,9 @@ Bài toán chứng minh độ sâu trung bình của một nút trong cây dựn
 
 - **f.** Mô tả một cài đặt quicksort trong đó các phép so sánh để sắp xếp một tập phần tử giống hệt các phép so sánh để chèn các phần tử đó vào cây tìm kiếm nhị phân (thứ tự thực hiện có thể khác, nhưng cùng tập phép so sánh).
 
-*Hướng giải của người tổng hợp:* (b) mỗi nút trong T_L và T_R sâu hơn 1 so với độ sâu trong cây con của nó, có n − 1 nút như vậy, gốc có độ sâu 0. (c) gốc có thứ hạng i + 1 với xác suất 1/n, khi đó hai cây con là cây dựng ngẫu nhiên trên i và n − i − 1 khoá. (d) mỗi P(k) xuất hiện hai lần và P(0) = 0. (e) đây đúng là truy hồi của số phép so sánh kỳ vọng trong quicksort ngẫu nhiên, nghiệm O(n lg n). (f) quicksort luôn chọn chốt là phần tử *xuất hiện sớm nhất trong thứ tự chèn* của mảng con, và phân hoạch ổn định (giữ thứ tự tương đối); khi đó chốt so sánh với mọi phần tử của mảng con — đúng như gốc của cây con được so sánh với mọi khoá chèn sau rơi vào cây con đó.
+*Hướng giải của người tổng hợp:* (b) mỗi nút trong T_L và T_R sâu hơn 1 so với độ sâu trong cây con của nó, có n − 1 nút như vậy, gốc có độ sâu 0. (c) gốc có thứ hạng i + 1 với xác suất 1/n, khi đó hai cây con là cây dựng ngẫu nhiên trên i và n − i − 1 khoá. (d) mỗi P(k) xuất hiện hai lần và P(0) = 0.
+
+(e) đây đúng là truy hồi của số phép so sánh kỳ vọng trong quicksort ngẫu nhiên, nghiệm O(n lg n). (f) quicksort luôn chọn chốt là phần tử *xuất hiện sớm nhất trong thứ tự chèn* của mảng con, và phân hoạch ổn định (giữ thứ tự tương đối); khi đó chốt so sánh với mọi phần tử của mảng con — đúng như gốc của cây con được so sánh với mọi khoá chèn sau rơi vào cây con đó.
 
 ### Bài toán 12-4 Số cây nhị phân khác nhau (Number of different binary trees)
 
@@ -1122,3 +1128,121 @@ Kỹ thuật "chiều cao mũ" là điểm sáng: thay vì làm việc với max
 - **Phỏng vấn kỹ thuật:** các câu hỏi kinh điển gồm kiểm tra một cây có phải BST không (phải truyền khoảng [min, max] xuống, không chỉ so cha–con — lỗi phổ biến đã minh hoạ ở mục Khái niệm cần biết), tìm nút kế tiếp có/không có con trỏ cha, xoá nút, phần tử nhỏ thứ k (duyệt trung thứ tự dừng sớm), dựng BST cân bằng từ mảng đã sắp xếp, đếm số BST có n nút (số Catalan).
 - **Lập trình thi đấu:** hiếm khi tự cài BST không cân bằng (dễ bị dữ liệu thử có thứ tự làm suy biến thành Θ(n²)); dùng `std::set/std::map` hoặc tự cài treap khi cần tách/ghép cây hay thống kê thứ tự.
 - **Kỹ thuật phần mềm:** khi chọn cấu trúc, hỏi "có cần truy vấn có thứ tự không"; nếu có, dùng cây cân bằng của thư viện; nếu giữ con trỏ/iterator tới phần tử trong cây, kiểm tra bảo đảm của thư viện về tính hợp lệ sau khi xoá — chính là vấn đề mà Ghi chú chương nêu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: sáu nhánh lớn theo Mục 12.1–12.4 và các bài toán 12-1 đến 12-4, mỗi nhánh ghi thủ tục, định lý và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: cây tìm kiếm nhị phân làm mọi thao tác tập động trong O(h), h là chiều cao chứ không phải số nút`"]
+  n1["`Mục 12.1 — Cây tìm kiếm nhị phân là gì`"]
+  n0 --- n1
+  n2["`Nút có khoá và ba con trỏ left, right, p`"]
+  n1 --- n2
+  n3["`Tính chất: khoá cây con trái ≤ x.key ≤ khoá cây con phải`"]
+  n1 --- n3
+  n4["`Định lý 12.1: duyệt trung thứ tự in mọi khoá tăng dần trong Θ(n)`"]
+  n1 --- n4
+  n5["`Cùng tập khoá có thể dựng cây cao 2 hoặc cao 4`"]
+  n1 --- n5
+  n6["`Mục 12.2 — Truy vấn, Định lý 12.2: tất cả O(h)`"]
+  n0 --- n6
+  n7["`TREE-SEARCH mỗi lần so sánh loại hẳn một cây con`"]
+  n6 --- n7
+  n8["`Ví dụ tìm 13 chỉ thăm 15 → 6 → 7 → 13 trong cây 11 nút`"]
+  n7 --- n8
+  n9["`TREE-MINIMUM đi trái mãi, TREE-MAXIMUM đi phải mãi`"]
+  n6 --- n9
+  n10["`TREE-SUCCESSOR không cần so sánh khoá`"]
+  n6 --- n10
+  n11["`Có cây con phải thì lấy nút nhỏ nhất của nó`"]
+  n10 --- n11
+  n12["`Không thì đi lên tới tổ tiên đầu tiên mà ta tới từ con trái`"]
+  n10 --- n12
+  n13["`Mục 12.3 — Chèn và xoá, Định lý 12.3: O(h)`"]
+  n0 --- n13
+  n14["`TREE-INSERT đi xuống như tìm kiếm rồi gắn nút mới làm lá`"]
+  n13 --- n14
+  n15["`TREE-DELETE dùng TRANSPLANT thay một cây con bằng cây con khác`"]
+  n13 --- n15
+  n16["`z thiếu một con: đưa con còn lại lên thay z`"]
+  n15 --- n16
+  n17["`z có hai con: đưa nút kế tiếp y = TREE-MINIMUM(z.right) lên thay z`"]
+  n15 --- n17
+  n18["`Nếu y không phải con phải của z thì trước hết thay y bằng con phải của y`"]
+  n15 --- n18
+  n19["`Ấn bản 3 di chuyển nút thay vì chép khoá để con trỏ bên ngoài vẫn hợp lệ`"]
+  n13 --- n19
+  n20["`Mục 12.4 — Cây dựng ngẫu nhiên, có dấu sao`"]
+  n0 --- n20
+  n21["`Chiều cao từ ⌊lg n⌋ tới n − 1 – chèn khoá đã sắp xếp cho một chuỗi`"]
+  n20 --- n21
+  n22["`Định lý 12.4: chèn theo hoán vị ngẫu nhiên đều thì chiều cao kỳ vọng O(lg n)`"]
+  n20 --- n22
+  n23["`Kỹ thuật chiều cao mũ Yₙ = 2 mũ Xₙ để chặn max bằng tổng`"]
+  n20 --- n23
+  n24["`Truy hồi E[Yₙ] ≤ (4/n) nhân tổng E[Yᵢ]`"]
+  n23 --- n24
+  n25["`E[Yₙ] ≤ (1/4)C(n + 3, 3) = (n³ + 6n² + 11n + 6)/24`"]
+  n23 --- n25
+  n26["`Bất đẳng thức Jensen cho E[Xₙ] ≤ 3 lg n + O(1)`"]
+  n23 --- n26
+  n27["`Chỉ đúng khi dựng bằng phép chèn, không có kết quả khi xen kẽ xoá`"]
+  n20 --- n27
+  n28["`Bài toán 12-1 đến 12-4`"]
+  n0 --- n28
+  n29["`12-1 Khoá bằng nhau làm TREE-INSERT suy biến – sửa bằng cờ luân phiên, danh sách hoặc chọn ngẫu nhiên`"]
+  n28 --- n29
+  n30["`12-2 Cây cơ số sắp tập xâu bit theo thứ tự từ điển trong Θ(n), n là tổng độ dài các xâu`"]
+  n28 --- n30
+  n31["`12-3 Độ sâu trung bình của nút trong cây dựng ngẫu nhiên là O(lg n), cùng truy hồi với quicksort`"]
+  n28 --- n31
+  n32["`12-4 Số cây nhị phân n nút là số Catalan C(2n, n)/(n + 1)`"]
+  n28 --- n32
+  n33["`Thông điệp xuyên suốt`"]
+  n0 --- n33
+  n34["`Muốn bảo đảm hiệu năng phải kiểm soát chiều cao – lý do có cây đỏ-đen ở Chương 13`"]
+  n33 --- n34
+  n35["`Dữ liệu thực thường có thứ tự nên cây không cân bằng rủi ro trong sản phẩm`"]
+  n33 --- n35
+  n36["`Cần truy vấn có thứ tự thì cây tìm kiếm thắng bảng băm`"]
+  n33 --- n36
+  n37["`Chương 13 dùng lại nguyên TRANSPLANT và khung TREE-DELETE, chỉ thêm sửa màu`"]
+  n33 --- n37
+  class n0 root
+  class n1,n6,n13,n20,n28,n33 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n34,n35,n36,n37 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần III "Data Structures" (Cấu trúc dữ liệu), Chương 12 "Binary Search Trees", trang 286–307.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), bộ sách thường được gọi tắt là "CLRS", giáo trình thuật toán phổ biến nhất ở bậc đại học.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) đã dựng các cấu trúc liên kết cơ bản (danh sách liên kết, cách biểu diễn cây có gốc bằng các nút có con trỏ tới cha và con), còn Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) cho một từ điển (dictionary) với thời gian kỳ vọng O(1) cho tìm kiếm, chèn và xoá nhưng không giữ được thứ tự giữa các khoá.
+
+Chương 12 đưa ra cây tìm kiếm nhị phân: một cấu trúc liên kết giữ các khoá theo thứ tự, nên ngoài tìm kiếm, chèn, xoá còn hỗ trợ tìm phần tử nhỏ nhất, lớn nhất, phần tử liền trước, liền sau và in toàn bộ khoá theo thứ tự tăng dần; mọi thao tác chạy trong O(h) với h là chiều cao cây. Chương chứng minh rằng cây được dựng bằng cách chèn các khoá theo thứ tự ngẫu nhiên có chiều cao kỳ vọng O(lg n), nhưng trong trường hợp xấu nhất chiều cao có thể là n − 1.
+
+Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) giải quyết điểm yếu đó bằng cây đỏ-đen, luôn có chiều cao O(lg n); Chương 14 ([C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)) gắn thêm thông tin vào nút cây để trả lời thống kê thứ tự và truy vấn khoảng; Mục 15.5 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) dựng cây tìm kiếm nhị phân tối ưu khi biết trước tần suất tìm kiếm; Chương 18 ([C18-cay-b.md](C18-cay-b.md)) tổng quát hoá ý tưởng thành cây B cho dữ liệu trên đĩa.
+
+Phép phân tích ở Mục 12.4 dùng lại biến ngẫu nhiên chỉ báo của Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) và giống hệt cấu trúc phân tích quicksort ngẫu nhiên ở Chương 7 ([C07-quicksort.md](C07-quicksort.md)).
+
+## Lưu ý
+
+- **Mục có dấu sao:** Mục 12.4 "Randomly built binary search trees" có dấu ? (mục khó, có thể bỏ qua ở lần đọc đầu). Bài tập 12.4-5 cũng có dấu sao.
+- **Lỗi đánh máy trong lời giải thích TREE-DELETE (trang 298):** sách viết "If y is not z's left child, lines 7–9 replace y as a child of its parent by y's right child…". Đúng ra phải là "**If y is not z's right child**" (nếu y không phải con phải của z), vì y là nút nhỏ nhất trong cây con phải của z nên không bao giờ là con trái của z; điều kiện ở dòng 6 của mã (`if y.p ≠ z`) cũng đúng là "y không phải con phải của z". Theo hiểu biết của người tổng hợp, đây là lỗi nằm trong danh sách errata chính thức của ấn bản 3 (không tra cứu lại).
+- **Thiếu chữ trong chứng minh Định lý 12.4 (trang 300):** câu "We denote the height of a randomly built binary search on n keys by Xₙ" thiếu chữ "tree" (cây tìm kiếm nhị phân dựng ngẫu nhiên).
+- **Một chi tiết cần đọc kỹ trong chứng minh Định lý 12.4:** công thức Yₙ = 2·max(Yᵢ₋₁, Yₙ₋ᵢ) và truy hồi (12.2) chỉ đúng với n ≥ 2. Với n = 1, công thức sẽ cho Y₁ = 2·max(Y₀, Y₀) = 0, mâu thuẫn với quy ước Y₁ = 1; vì vậy sách đặt Y₁ = 1 và Y₀ = 0 làm trường hợp cơ sở, và bước quy nạp phải bắt đầu từ n = 2. Sách không nói rõ điều này nhưng chứng minh vẫn đúng (người tổng hợp đã kiểm tra n = 2: E[Y₂] = 2 ≤ (4/2)(0 + 1) = 2 ≤ (1/4)·C(5,3) = 2,5).
+- **Lớp chữ PDF hỏng:** mọi pseudocode, ký hiệu ´ (là z), ký hiệu  (là v trong TRANSPLANT), các dấu ≤, ≥, ≠, công thức tổ hợp C(n+3, 3), tổng Σ và bất đẳng thức Jensen trong Mục 12.4, công thức hàm sinh B(x) = (1 − √(1 − 4x))/(2x) và bₙ = 4ⁿ/(√π·n^{3/2})·(1 + O(1/n)) ở Bài toán 12-4 đều được đọc lại từ ảnh trang. Các hình 12.1–12.5 không có chữ dùng được trong lớp văn bản; cấu trúc cây được đọc từ ảnh.
+- **Khác biệt với hai ấn bản đầu:** chính Ghi chú chương nói rằng ấn bản 1 và 2 xoá nút có hai con bằng cách chép khoá của nút kế tiếp y vào z rồi xoá y; ấn bản 3 đổi sang cách "đưa y lên thay chỗ z" bằng TRANSPLANT để lệnh xoá z thực sự xoá đúng nút z. Mã TREE-DELETE ở đây vì vậy khác các sách cũ và nhiều tài liệu trên mạng.
+- **Ấn bản 4 (2022):** người tổng hợp không chắc chắn về các thay đổi cụ thể của chương này trong ấn bản 4 (có nhớ mơ hồ rằng mục cây dựng ngẫu nhiên đã bị lược bớt, nhưng không khẳng định), nên không liệt kê.

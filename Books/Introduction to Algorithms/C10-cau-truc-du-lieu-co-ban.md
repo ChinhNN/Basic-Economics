@@ -1,17 +1,18 @@
 # Chương 10 — Các cấu trúc dữ liệu cơ bản (Elementary Data Structures)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009). Gồm hai phần: Phần III "Data Structures" — trang tên phần (trang 228, không đánh số) và lời giới thiệu Phần III (Introduction, trang 229–231); Chương 10 "Elementary Data Structures", trang 232–252.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS" theo chữ cái đầu tên họ.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I ([C01-vai-tro-cua-thuat-toan.md](C01-vai-tro-cua-thuat-toan.md) tới [C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) xây công cụ phân tích: mô hình máy RAM, ký hiệu tiệm cận Θ, O, Ω, truy hồi và phân tích xác suất. Phần II ([C06-heapsort.md](C06-heapsort.md) tới [C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) dùng các công cụ đó cho bài toán sắp xếp và chọn phần tử, trong đó Chương 6 đã giới thiệu cấu trúc dữ liệu đầu tiên — đống (heap) lưu trong mảng — và hàng đợi ưu tiên. Lời giới thiệu Phần III đổi trọng tâm từ "thuật toán xử lý một mảng cố định" sang **tập động** (dynamic set): tập hợp lớn lên, thu nhỏ theo thời gian, và liệt kê các phép toán chuẩn (SEARCH, INSERT, DELETE, MINIMUM, MAXIMUM, SUCCESSOR, PREDECESSOR) mà năm chương 10–14 sẽ cài đặt với hiệu năng ngày càng tốt. Chương 10 là viên gạch nền: ngăn xếp, hàng đợi, danh sách liên kết, cách tự dựng con trỏ và đối tượng từ mảng, và cách biểu diễn cây có gốc. Các chương sau dùng trực tiếp những thứ này: Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) dùng danh sách liên kết đôi làm "chuỗi" trong bảng băm nối chuỗi; Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) và Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) dùng đúng cách biểu diễn cây nhị phân với ba con trỏ *p*, *left*, *right* và (ở Chương 13) một nút lính canh *T.nil*; Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) dùng cây chỉ có con trỏ cha; Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) dùng hàng đợi cho tìm kiếm theo chiều rộng và danh sách kề cho đồ thị.
-**Ý chính:** Tác giả muốn người đọc nắm chắc cách cài đặt tập động bằng những cấu trúc đơn giản nhất dùng con trỏ, và biết chính xác mỗi phép toán tốn bao nhiêu thời gian. **Ngăn xếp** (stack, vào sau ra trước — LIFO) cài bằng mảng *S*[1..*n*] với chỉ số đỉnh *S.top*: STACK-EMPTY, PUSH, POP đều O(1). **Hàng đợi** (queue, vào trước ra trước — FIFO) cài bằng mảng vòng *Q*[1..*n*] với hai chỉ số *Q.head*, *Q.tail*, chứa tối đa *n* − 1 phần tử: ENQUEUE, DEQUEUE đều O(1). **Danh sách liên kết đôi** (doubly linked list) không sắp xếp: LIST-SEARCH tốn Θ(*n*) trong trường hợp xấu nhất, LIST-INSERT (chèn vào đầu) và LIST-DELETE (khi đã có con trỏ tới phần tử) tốn O(1); thêm một **lính canh** (sentinel) *L.nil* biến danh sách thành vòng, xoá bỏ mọi trường hợp biên và rút LIST-DELETE còn hai dòng, nhưng chỉ giảm hằng số, không giảm bậc tiệm cận. Khi ngôn ngữ không có con trỏ, ta dựng **đối tượng và con trỏ từ mảng**: biểu diễn nhiều mảng (mỗi thuộc tính một mảng, con trỏ là chỉ số chung) hoặc một mảng (mỗi đối tượng chiếm một đoạn liên tiếp, thuộc tính là độ lệch); các ô chưa dùng được quản lý bằng một **danh sách tự do** (free list) hoạt động như ngăn xếp, nên ALLOCATE-OBJECT và FREE-OBJECT đều O(1). Cuối cùng, **cây có gốc** được biểu diễn bằng các nút có con trỏ: cây nhị phân dùng *p*, *left*, *right*; cây có số con không giới hạn dùng cách **con trái nhất – anh em bên phải** (left-child, right-sibling), chỉ cần O(*n*) bộ nhớ cho cây *n* nút. Bài toán cuối chương 10-3 cho thấy một danh sách liên kết đã sắp xếp và lưu "gọn" trong *n* ô đầu mảng có thể tìm kiếm trong thời gian kỳ vọng O(√*n*) nhờ nhảy ngẫu nhiên.
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục khó (`?`) trong chương.** Chỉ có ba bài tập được đánh dấu sao: 10.2-8 (danh sách liên kết đôi chỉ dùng một con trỏ XOR), 10.4-5 (duyệt cây nhị phân không đệ quy với bộ nhớ phụ hằng số, không sửa cây) và 10.4-6 (cây con trái – anh em phải chỉ dùng hai con trỏ và một giá trị boolean).
-> - **Điều kiện "hàng đợi đầy" chưa đủ (theo hiểu biết của người tổng hợp, không tra cứu; tôi tin đây là một mục trong danh sách errata của ấn bản 3):** sách viết hàng đợi đầy khi *Q.head* = *Q.tail* + 1. Còn một trường hợp nữa do tính vòng: *Q.head* = 1 và *Q.tail* = *Q.length* (ví dụ mảng 12 ô, đầu ở ô 1, ô trống kế tiếp là ô 12 — đã có 11 phần tử). Điều kiện đầy đủ là *Q.head* = (*Q.tail* mod *Q.length*) + 1. Bản tổng hợp dùng điều kiện đầy đủ.
-> - **Lẫn ký hiệu *n* và *m* ở mục 10.3 (nhận xét của người tổng hợp):** sách đặt độ dài các mảng là *m* và số phần tử của tập là *n* ≤ *m*, nhưng câu sau thủ tục FREE-OBJECT lại viết "danh sách tự do ban đầu chứa toàn bộ *n* đối tượng chưa cấp phát". Lúc đầu tập rỗng nên danh sách tự do chứa cả *m* đối tượng; chữ *n* ở đây nên hiểu là *m*.
-> - **Số trang Phần III:** bảng phân công ghi Phần III bắt đầu ở trang 227, nhưng trang 227 thực ra là Ghi chú chương của Chương 9. Trang tên "III Data Structures" là trang 228 (không in số), lời giới thiệu Phần III là trang 229–231. File này dùng các số trang sau khi đã kiểm tra.
-> - **Lớp chữ PDF hỏng, đã đọc lại từ ảnh trang:** thuộc tính *prev* bị trích thành "pre"; dấu phẩy trên (LIST-DELETE′, LIST-SEARCH′, LIST-INSERT′, COMPACT-LIST-SEARCH′) bị biến thành "0"; ký hiệu ≠, ≤, √ bị mất (ví dụ "O.pn/" là O(√*n*), "keyŒj  k" là *key*[*j*] ≤ *k*). Toàn bộ pseudocode, nội dung Hình 10.1–10.10 và bảng của Bài tập 10.4-1 trong file này được chép lại từ ảnh trang. Các hình mũi tên (10.3–10.10) không có trong lớp chữ; người tổng hợp đọc mũi tên trên ảnh và tái hiện thành bảng/chữ.
-> - **Điều đã thay đổi trong ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu:** Chương 10 được tổ chức lại thành ba mục — 10.1 "Simple array-based data structures: arrays, matrices, stacks, queues" (thêm phần cách lưu mảng và ma trận trong bộ nhớ), 10.2 "Linked lists", 10.3 "Representing rooted trees". Mục "Implementing pointers and objects" (biểu diễn nhiều mảng/một mảng, danh sách tự do) bị bỏ. Thủ tục chèn danh sách được tách thành LIST-PREPEND(*L*, *x*) (chèn vào đầu) và LIST-INSERT(*x*, *y*) (chèn *x* ngay sau *y*). Tôi không chắc Bài toán 10-3 còn giữ hay không.
+Tác giả muốn người đọc nắm chắc cách cài đặt tập động bằng những cấu trúc đơn giản nhất dùng con trỏ, và biết chính xác mỗi phép toán tốn bao nhiêu thời gian.
+
+**Ngăn xếp** (stack, vào sau ra trước — LIFO) cài bằng mảng *S*[1..*n*] với chỉ số đỉnh *S.top*: STACK-EMPTY, PUSH, POP đều O(1). **Hàng đợi** (queue, vào trước ra trước — FIFO) cài bằng mảng vòng *Q*[1..*n*] với hai chỉ số *Q.head*, *Q.tail*, chứa tối đa *n* − 1 phần tử: ENQUEUE, DEQUEUE đều O(1).
+
+**Danh sách liên kết đôi** (doubly linked list) không sắp xếp: LIST-SEARCH tốn Θ(*n*) trong trường hợp xấu nhất, LIST-INSERT (chèn vào đầu) và LIST-DELETE (khi đã có con trỏ tới phần tử) tốn O(1); thêm một **lính canh** (sentinel) *L.nil* biến danh sách thành vòng, xoá bỏ mọi trường hợp biên và rút LIST-DELETE còn hai dòng, nhưng chỉ giảm hằng số, không giảm bậc tiệm cận.
+
+Khi ngôn ngữ không có con trỏ, ta dựng **đối tượng và con trỏ từ mảng**: biểu diễn nhiều mảng (mỗi thuộc tính một mảng, con trỏ là chỉ số chung) hoặc một mảng (mỗi đối tượng chiếm một đoạn liên tiếp, thuộc tính là độ lệch); các ô chưa dùng được quản lý bằng một **danh sách tự do** (free list) hoạt động như ngăn xếp, nên ALLOCATE-OBJECT và FREE-OBJECT đều O(1).
+
+Cuối cùng, **cây có gốc** được biểu diễn bằng các nút có con trỏ: cây nhị phân dùng *p*, *left*, *right*; cây có số con không giới hạn dùng cách **con trái nhất – anh em bên phải** (left-child, right-sibling), chỉ cần O(*n*) bộ nhớ cho cây *n* nút.
+
+Bài toán cuối chương 10-3 cho thấy một danh sách liên kết đã sắp xếp và lưu "gọn" trong *n* ô đầu mảng có thể tìm kiếm trong thời gian kỳ vọng O(√*n*) nhờ nhảy ngẫu nhiên.
 
 ## Sơ đồ
 
@@ -392,7 +393,7 @@ Phép INSERT trên hàng đợi gọi là **ENQUEUE** (xếp vào hàng), phép 
 Cách cài đặt của sách dùng mảng *Q*[1..*n*] để chứa hàng đợi **tối đa *n* − 1 phần tử**. Thuộc tính *Q.head* là chỉ số (trỏ tới) phần tử đầu; *Q.tail* là chỉ số của **ô kế tiếp** sẽ nhận phần tử mới. Các phần tử nằm ở *Q.head*, *Q.head* + 1, …, *Q.tail* − 1, trong đó ta "quay vòng" (wrap around): ô 1 đứng ngay sau ô *n* theo thứ tự vòng.
 - *Q.head* = *Q.tail*: hàng đợi rỗng. Ban đầu *Q.head* = *Q.tail* = 1.
 - Lấy ra từ hàng đợi rỗng: tràn dưới.
-- Sách viết: *Q.head* = *Q.tail* + 1 thì hàng đợi đầy, chèn thêm là tràn trên. Do tính vòng, còn phải tính trường hợp *Q.head* = 1 và *Q.tail* = *n* (xem khối Lưu ý). Lý do chỉ chứa được *n* − 1 phần tử: nếu cho chứa đủ *n*, trạng thái đầy cũng có *Q.head* = *Q.tail* và không phân biệt được với trạng thái rỗng.
+- Sách viết: *Q.head* = *Q.tail* + 1 thì hàng đợi đầy, chèn thêm là tràn trên. Do tính vòng, còn phải tính trường hợp *Q.head* = 1 và *Q.tail* = *n* (xem mục Lưu ý cuối chương). Lý do chỉ chứa được *n* − 1 phần tử: nếu cho chứa đủ *n*, trạng thái đầy cũng có *Q.head* = *Q.tail* và không phân biệt được với trạng thái rỗng.
 
 Mã giả bỏ qua kiểm tra tràn (Bài tập 10.1-4 yêu cầu bổ sung) và giả định *n* = *Q.length*.
 
@@ -628,7 +629,7 @@ FREE-OBJECT(x)
 
 ALLOCATE-OBJECT, dòng 1–2: hết đối tượng tự do thì báo lỗi "hết chỗ"; dòng 3–5: lấy đối tượng đầu danh sách tự do, cho *free* trỏ sang đối tượng kế tiếp, trả về đối tượng vừa lấy. FREE-OBJECT, dòng 1: đối tượng *x* trỏ tới đầu cũ của danh sách tự do; dòng 2: *x* thành đầu mới.
 
-Danh sách tự do ban đầu chứa toàn bộ các đối tượng chưa cấp phát (lúc đầu là cả *m* đối tượng; sách viết "*n*", xem khối Lưu ý). Khi danh sách tự do cạn, ALLOCATE-OBJECT báo lỗi. Một danh sách tự do duy nhất có thể phục vụ nhiều danh sách liên kết. Hai thủ tục chạy trong O(1) nên rất thực dụng. Có thể sửa chúng cho bất kỳ tập đối tượng đồng loại nào, bằng cách cho một thuộc tính bất kỳ của đối tượng đóng vai *next* trong danh sách tự do.
+Danh sách tự do ban đầu chứa toàn bộ các đối tượng chưa cấp phát (lúc đầu là cả *m* đối tượng; sách viết "*n*", xem mục Lưu ý cuối chương). Khi danh sách tự do cạn, ALLOCATE-OBJECT báo lỗi. Một danh sách tự do duy nhất có thể phục vụ nhiều danh sách liên kết. Hai thủ tục chạy trong O(1) nên rất thực dụng. Có thể sửa chúng cho bất kỳ tập đối tượng đồng loại nào, bằng cách cho một thuộc tính bất kỳ của đối tượng đóng vai *next* trong danh sách tự do.
 
 **Ví dụ của sách — hiệu quả của ALLOCATE-OBJECT và FREE-OBJECT (mảng dài 8; `/` là NIL; `·` là ô không có giá trị cần quan tâm):**
 
@@ -1058,7 +1059,7 @@ Nút *T.nil* của cây đỏ-đen (Chương 13) chính là lính canh của m�
 
 ### Những điểm chưa chặt và hạn chế
 
-- Điều kiện hàng đợi đầy bỏ sót trường hợp *head* = 1, *tail* = *n* (xem khối Lưu ý); người cài đặt nên dùng (*tail* mod *n*) + 1 hoặc giữ thêm biến đếm.
+- Điều kiện hàng đợi đầy bỏ sót trường hợp *head* = 1, *tail* = *n* (xem mục Lưu ý cuối chương); người cài đặt nên dùng (*tail* mod *n*) + 1 hoặc giữ thêm biến đếm.
 - Câu "danh sách tự do ban đầu chứa toàn bộ *n* đối tượng" lẫn ký hiệu *n* với *m*.
 - Hình cây nhị phân và cây con trái nhất – anh em bên phải không ghi khoá, nên chỉ minh hoạ cấu trúc con trỏ; sách không có thủ tục duyệt cây nào trong mục 10.4 (để dành cho bài tập và Chương 12).
 - Mô hình RAM coi mọi truy cập bộ nhớ như nhau, nên danh sách liên kết và mảng trông "ngang nhau" ở các phép O(1). Trên phần cứng hiện đại, duyệt danh sách liên kết chậm hơn duyệt mảng nhiều lần do trượt bộ nhớ đệm; mục 10.3 (biểu diễn nhiều mảng, giữ danh sách gọn trong Bài tập 10.3-4) chạm tới vấn đề này qua bộ nhớ ảo phân trang nhưng không phân tích.
@@ -1082,3 +1083,126 @@ Kỹ thuật "phân tích một thuật toán phụ dễ hơn rồi so sánh v�
 - **Phỏng vấn:** các bài kinh điển đều nằm ở đây — đảo ngược danh sách liên kết đơn (10.2-7), hàng đợi từ hai ngăn xếp (10.1-6), ngăn xếp từ hai hàng đợi (10.1-7), hai ngăn xếp trong một mảng (10.1-2), duyệt cây không đệ quy (10.4-3, 10.4-5), bộ đệm LRU (bảng băm + danh sách đôi), danh sách XOR (10.2-8).
 - **Lập trình thi đấu:** cài danh sách liên kết và cây bằng biểu diễn nhiều mảng (mảng `nxt[]`, `prv[]`, `key[]` với chỉ số) là kỹ thuật chuẩn vì nhanh và tránh cấp phát động; danh sách kề của đồ thị thường được cài theo kiểu "forward star" chính là các danh sách liên kết đơn đan xen trong vài mảng như ví dụ hai danh sách *L*₁, *L*₂.
 - **Kỹ thuật phần mềm:** dùng lính canh để giảm lỗi biên; dùng pool đối tượng với danh sách tự do khi cần độ trễ ổn định (game, hệ thống thời gian thực); ưu tiên mảng liên tục khi hiệu năng bộ nhớ đệm quan trọng.
+
+## Bản đồ tư duy
+
+Toàn cảnh lời giới thiệu Phần III và Chương 10 trên một trang: sáu nhánh lớn theo lời giới thiệu Phần III, Mục 10.1–10.4 và các bài toán 10-1 đến 10-3, mỗi nhánh ghi cách cài đặt và thời gian của từng phép toán; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: cài tập động bằng cấu trúc con trỏ đơn giản nhất và biết chính xác giá của từng phép toán`"]
+  n1["`Giới thiệu Phần III — Tập động`"]
+  n0 --- n1
+  n2["`Tập động lớn lên và thu nhỏ theo thời gian, phần tử có khoá và dữ liệu vệ tinh`"]
+  n1 --- n2
+  n3["`Truy vấn SEARCH, MINIMUM, MAXIMUM, SUCCESSOR, PREDECESSOR – sửa đổi INSERT, DELETE`"]
+  n1 --- n3
+  n4["`DELETE nhận con trỏ tới phần tử, không nhận khoá – quy ước dùng cho cả Phần III`"]
+  n1 --- n4
+  n5["`Chương 10–14 cài cùng giao diện này với hiệu năng ngày càng tốt`"]
+  n1 --- n5
+  n6["`Mục 10.1 — Ngăn xếp và hàng đợi`"]
+  n0 --- n6
+  n7["`Ngăn xếp LIFO trên mảng S[1..n] với chỉ số S.top`"]
+  n6 --- n7
+  n8["`PUSH tăng top rồi ghi, POP giảm top rồi trả – đều O(1)`"]
+  n7 --- n8
+  n9["`Ví dụ ⟨15, 6, 2, 9⟩ qua PUSH 17, PUSH 3, POP trả về 3`"]
+  n7 --- n9
+  n10["`Hàng đợi FIFO trên mảng vòng Q[1..n] với Q.head và Q.tail`"]
+  n6 --- n10
+  n11["`ENQUEUE, DEQUEUE đều O(1), quay về ô 1 sau ô n`"]
+  n10 --- n11
+  n12["`Rỗng khi head = tail, đầy khi head = (tail mod n) + 1, nên chứa tối đa n − 1 phần tử`"]
+  n10 --- n12
+  n13["`Mục 10.2 — Danh sách liên kết đôi`"]
+  n0 --- n13
+  n14["`LIST-SEARCH duyệt tuyến tính, Θ(n) xấu nhất`"]
+  n13 --- n14
+  n15["`LIST-INSERT chèn vào đầu O(1), LIST-DELETE O(1) khi đã có con trỏ`"]
+  n13 --- n15
+  n16["`Xoá theo khoá vẫn Θ(n) vì phải tìm trước`"]
+  n13 --- n16
+  n17["`Lính canh L.nil biến danh sách thành vòng`"]
+  n13 --- n17
+  n18["`LIST-DELETE chỉ còn hai lệnh gán, không xét phần tử đầu hay cuối`"]
+  n17 --- n18
+  n19["`Chỉ giảm hằng số, không giảm bậc, tốn thêm một đối tượng mỗi danh sách`"]
+  n17 --- n19
+  n20["`Mục 10.3 — Tự dựng con trỏ và đối tượng từ mảng`"]
+  n0 --- n20
+  n21["`Biểu diễn nhiều mảng: mỗi thuộc tính một mảng key, next, prev, con trỏ là chỉ số chung`"]
+  n20 --- n21
+  n22["`Biểu diễn một mảng: mỗi đối tượng là một đoạn liên tiếp, thuộc tính là độ lệch`"]
+  n20 --- n22
+  n23["`Danh sách tự do quản lý ô trống như một ngăn xếp`"]
+  n20 --- n23
+  n24["`ALLOCATE-OBJECT là POP, FREE-OBJECT là PUSH – đều O(1)`"]
+  n23 --- n24
+  n25["`Nhiều danh sách và danh sách tự do có thể đan xen trong cùng các mảng`"]
+  n23 --- n25
+  n26["`Mục 10.4 — Biểu diễn cây có gốc`"]
+  n0 --- n26
+  n27["`Cây nhị phân: mỗi nút có ba con trỏ p, left, right`"]
+  n26 --- n27
+  n28["`Số con không giới hạn: con trái nhất – anh em bên phải`"]
+  n26 --- n28
+  n29["`Mỗi nút chỉ cần ba con trỏ, cả cây O(n) bộ nhớ`"]
+  n28 --- n29
+  n30["`Đến cha O(1), liệt kê con tốn thời gian tỷ lệ số con`"]
+  n28 --- n30
+  n31["`Đống của Chương 6 là cây lưu trong mảng không dùng con trỏ`"]
+  n26 --- n31
+  n32["`Bài toán 10-1 đến 10-3`"]
+  n0 --- n32
+  n33["`10-1 So sánh giá các phép toán trên bốn loại danh sách đơn, đôi, có và không sắp xếp`"]
+  n32 --- n33
+  n34["`10-2 Đống gộp được cài bằng danh sách liên kết`"]
+  n32 --- n34
+  n35["`10-3 Danh sách gọn đã sắp xếp: nhảy ngẫu nhiên cho tìm kiếm kỳ vọng O(√n)`"]
+  n32 --- n35
+  n36["`Thời gian O(t + n/t) với mọi t, cân bằng hai vế cho √n`"]
+  n35 --- n36
+  n37["`Thông điệp xuyên suốt`"]
+  n0 --- n37
+  n38["`Chọn cấu trúc theo nhóm phép toán cần hỗ trợ`"]
+  n37 --- n38
+  n39["`Cần tìm theo khoá nhanh thì danh sách không đủ – sang bảng băm hoặc cây tìm kiếm`"]
+  n37 --- n39
+  n40["`Con trỏ chỉ là chỉ số vào bộ nhớ`"]
+  n37 --- n40
+  n41["`Lính canh dùng lại ở nút T.nil của cây đỏ-đen`"]
+  n37 --- n41
+  class n0 root
+  class n1,n6,n13,n20,n26,n32,n37 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n36,n38,n39,n40,n41 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009). Gồm hai phần: Phần III "Data Structures" — trang tên phần (trang 228, không đánh số) và lời giới thiệu Phần III (Introduction, trang 229–231); Chương 10 "Elementary Data Structures", trang 232–252.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS" theo chữ cái đầu tên họ.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I ([C01-vai-tro-cua-thuat-toan.md](C01-vai-tro-cua-thuat-toan.md) tới [C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) xây công cụ phân tích: mô hình máy RAM, ký hiệu tiệm cận Θ, O, Ω, truy hồi và phân tích xác suất. Phần II ([C06-heapsort.md](C06-heapsort.md) tới [C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) dùng các công cụ đó cho bài toán sắp xếp và chọn phần tử, trong đó Chương 6 đã giới thiệu cấu trúc dữ liệu đầu tiên — đống (heap) lưu trong mảng — và hàng đợi ưu tiên.
+
+Lời giới thiệu Phần III đổi trọng tâm từ "thuật toán xử lý một mảng cố định" sang **tập động** (dynamic set): tập hợp lớn lên, thu nhỏ theo thời gian, và liệt kê các phép toán chuẩn (SEARCH, INSERT, DELETE, MINIMUM, MAXIMUM, SUCCESSOR, PREDECESSOR) mà năm chương 10–14 sẽ cài đặt với hiệu năng ngày càng tốt. Chương 10 là viên gạch nền: ngăn xếp, hàng đợi, danh sách liên kết, cách tự dựng con trỏ và đối tượng từ mảng, và cách biểu diễn cây có gốc.
+
+Các chương sau dùng trực tiếp những thứ này: Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) dùng danh sách liên kết đôi làm "chuỗi" trong bảng băm nối chuỗi; Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) và Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) dùng đúng cách biểu diễn cây nhị phân với ba con trỏ *p*, *left*, *right* và (ở Chương 13) một nút lính canh *T.nil*; Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) dùng cây chỉ có con trỏ cha; Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) dùng hàng đợi cho tìm kiếm theo chiều rộng và danh sách kề cho đồ thị.
+
+## Lưu ý
+
+- **Không có mục khó (`?`) trong chương.** Chỉ có ba bài tập được đánh dấu sao: 10.2-8 (danh sách liên kết đôi chỉ dùng một con trỏ XOR), 10.4-5 (duyệt cây nhị phân không đệ quy với bộ nhớ phụ hằng số, không sửa cây) và 10.4-6 (cây con trái – anh em phải chỉ dùng hai con trỏ và một giá trị boolean).
+- **Điều kiện "hàng đợi đầy" chưa đủ (theo hiểu biết của người tổng hợp, không tra cứu; tôi tin đây là một mục trong danh sách errata của ấn bản 3):** sách viết hàng đợi đầy khi *Q.head* = *Q.tail* + 1. Còn một trường hợp nữa do tính vòng: *Q.head* = 1 và *Q.tail* = *Q.length* (ví dụ mảng 12 ô, đầu ở ô 1, ô trống kế tiếp là ô 12 — đã có 11 phần tử). Điều kiện đầy đủ là *Q.head* = (*Q.tail* mod *Q.length*) + 1. Bản tổng hợp dùng điều kiện đầy đủ.
+- **Lẫn ký hiệu *n* và *m* ở mục 10.3 (nhận xét của người tổng hợp):** sách đặt độ dài các mảng là *m* và số phần tử của tập là *n* ≤ *m*, nhưng câu sau thủ tục FREE-OBJECT lại viết "danh sách tự do ban đầu chứa toàn bộ *n* đối tượng chưa cấp phát". Lúc đầu tập rỗng nên danh sách tự do chứa cả *m* đối tượng; chữ *n* ở đây nên hiểu là *m*.
+- **Số trang Phần III:** bảng phân công ghi Phần III bắt đầu ở trang 227, nhưng trang 227 thực ra là Ghi chú chương của Chương 9. Trang tên "III Data Structures" là trang 228 (không in số), lời giới thiệu Phần III là trang 229–231. File này dùng các số trang sau khi đã kiểm tra.
+- **Lớp chữ PDF hỏng, đã đọc lại từ ảnh trang:** thuộc tính *prev* bị trích thành "pre"; dấu phẩy trên (LIST-DELETE′, LIST-SEARCH′, LIST-INSERT′, COMPACT-LIST-SEARCH′) bị biến thành "0"; ký hiệu ≠, ≤, √ bị mất (ví dụ "O.pn/" là O(√*n*), "keyŒj  k" là *key*[*j*] ≤ *k*). Toàn bộ pseudocode, nội dung Hình 10.1–10.10 và bảng của Bài tập 10.4-1 trong file này được chép lại từ ảnh trang. Các hình mũi tên (10.3–10.10) không có trong lớp chữ; người tổng hợp đọc mũi tên trên ảnh và tái hiện thành bảng/chữ.
+- **Điều đã thay đổi trong ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu:** Chương 10 được tổ chức lại thành ba mục — 10.1 "Simple array-based data structures: arrays, matrices, stacks, queues" (thêm phần cách lưu mảng và ma trận trong bộ nhớ), 10.2 "Linked lists", 10.3 "Representing rooted trees". Mục "Implementing pointers and objects" (biểu diễn nhiều mảng/một mảng, danh sách tự do) bị bỏ. Thủ tục chèn danh sách được tách thành LIST-PREPEND(*L*, *x*) (chèn vào đầu) và LIST-INSERT(*x*, *y*) (chèn *x* ngay sau *y*). Tôi không chắc Bài toán 10-3 còn giữ hay không.

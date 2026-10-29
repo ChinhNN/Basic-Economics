@@ -1,17 +1,14 @@
 # Chương 8 — Sắp xếp trong thời gian tuyến tính (Sorting in Linear Time)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần II "Sorting and Order Statistics", Chương 8 "Sorting in Linear Time", trang 191–212.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), nhóm tác giả của giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là "CLRS".
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) giới thiệu sắp xếp chèn và sắp xếp trộn, Chương 6 ([C06-heapsort.md](C06-heapsort.md)) trình bày heapsort với thời gian xấu nhất O(n lg n), Chương 7 ([C07-quicksort.md](C07-quicksort.md)) trình bày quicksort với thời gian kỳ vọng O(n lg n). Cả bốn thuật toán đều chỉ biết thứ tự của dữ liệu qua phép so sánh hai phần tử. Chương 8 làm hai việc: (1) chứng minh rằng mọi thuật toán chỉ dùng so sánh đều phải tốn Ω(n lg n) phép so sánh trong trường hợp xấu nhất, nên sắp xếp trộn và heapsort đã tối ưu trong lớp của chúng; (2) trình bày ba thuật toán vượt qua giới hạn đó nhờ dùng thêm thông tin về giá trị — sắp xếp đếm, sắp xếp cơ số, sắp xếp theo thùng. Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) chuyển sang bài toán chọn phần tử thứ i và cho thấy bài toán này giải được trong O(n) mà không cần sắp xếp hết. Kỹ thuật biến ngẫu nhiên chỉ báo của Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) được dùng lại ở mục 8.4; danh sách liên kết dùng cho các thùng được trình bày ở Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)); ước lượng lg(n!) = Θ(n lg n) đến từ Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)).
-**Ý chính:** Các tác giả muốn người đọc hiểu rằng **"sắp xếp tốn n lg n" không phải là định luật tự nhiên mà là hệ quả của một mô hình tính toán cụ thể — mô hình so sánh**. Trong mô hình này, mỗi thuật toán ứng với một cây quyết định nhị phân phải có ít nhất n! lá (mỗi hoán vị của đầu vào là một lá), nên chiều cao — tức số phép so sánh xấu nhất — ít nhất là lg(n!) = Ω(n lg n) (Định lý 8.1); vì vậy heapsort và sắp xếp trộn là tối ưu tiệm cận (Hệ quả 8.2). Khi được phép dùng giá trị của khoá để đánh chỉ số mảng hoặc tính toán, ta có thể sắp xếp nhanh hơn: **sắp xếp đếm** (counting sort) sắp n số nguyên trong khoảng 0..k trong Θ(n + k), là thuật toán ổn định; **sắp xếp cơ số** (radix sort) sắp n số có d chữ số, mỗi chữ số k giá trị, trong Θ(d(n + k)) bằng cách sắp theo chữ số thấp nhất trước với một thuật toán sắp xếp ổn định, và với n số b bit thì chọn nhóm r ≈ lg n bit cho Θ(bn / lg n) (Bổ đề 8.3, 8.4); **sắp xếp theo thùng** (bucket sort) chia [0, 1) thành n thùng bằng nhau, cho thời gian trung bình Θ(n) khi đầu vào phân phối đều, vì kỳ vọng của bình phương kích thước mỗi thùng chỉ là 2 − 1/n. Cái giá của tốc độ là giả định về đầu vào (khoảng giá trị nhỏ, số chữ số cố định, phân phối đều) và thường là bộ nhớ phụ Θ(n); trên máy thật, hằng số ẩn và hiệu quả bộ nhớ đệm có thể khiến quicksort vẫn nhanh hơn.
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục khó (dấu sao):** Chương 8 không có mục nào đánh dấu sao. Các bài tập đánh dấu sao là 8.3-5, 8.4-4 và 8.4-5.
-> - **Lớp chữ PDF bị hỏng, đã đọc lại từ ảnh trang:** toàn bộ pseudocode (COUNTING-SORT, RADIX-SORT, BUCKET-SORT, COMPARE-EXCHANGE, INSERTION-SORT dạng so sánh–hoán đổi), cây quyết định của Hình 8.1, các mảng trong Hình 8.2, ba cột trong Hình 8.3, các danh sách thùng trong Hình 8.4, chín ma trận của Hình 8.5 (lớp chữ dính số, ví dụ "41 52" thực ra là "4 15 2"), chuỗi đẳng thức (8.1)–(8.3) và bất đẳng thức định nghĩa mảng k-sắp xếp trong Bài toán 8-5. Người tổng hợp đã chạy tay lại các Hình 8.1–8.5 và thấy chúng đúng.
-> - **Một điểm lỏng trong pseudocode BUCKET-SORT:** dòng 1 tạo mảng B[0 .. n − 1] trong khi n mới được gán ở dòng 2 (n = A.length). Đây là thứ tự dòng in trong bản PDF này; khi cài đặt cần gán n trước. Theo hiểu biết của người tổng hợp (không tra cứu), lỗi thứ tự này nằm trong danh sách errata của ấn bản 3 và được sửa ở các lần in sau.
-> - **Cách viết thời gian trong Bổ đề 8.4:** chứng minh chia khoá thành d = ⌈b/r⌉ chữ số nhưng ghi thời gian là Θ((b/r)(n + 2^r)), bỏ phép làm tròn lên. Điều này không sai về tiệm cận vì r ≤ b nên b/r ≤ ⌈b/r⌉ < 2b/r, nhưng với số cụ thể thì phải dùng ⌈b/r⌉ (ví dụ b = 32, r = 20 cho 2 lượt chứ không phải 1,6 lượt).
-> - **Ví dụ columnsort trong Hình 8.5 vi phạm điều kiện r ≥ 2s²** (r = 6, s = 3, mà 2s² = 18); chính sách nói rõ điều này và cho biết ví dụ tình cờ vẫn chạy đúng.
-> - **Thay đổi ở ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu:** ấn bản 4 vẫn giữ Chương 8 cùng tên và cùng ba thuật toán; pseudocode đổi sang truyền n làm tham số (ví dụ COUNTING-SORT(A, n, k), BUCKET-SORT(A, n)) thay vì dùng A.length, và ký hiệu mảng con đổi từ A[1 .. n] sang A[1 : n]. Người tổng hợp không chắc các bài toán cuối chương có giữ nguyên hay không.
+Các tác giả muốn người đọc hiểu rằng **"sắp xếp tốn n lg n" không phải là định luật tự nhiên mà là hệ quả của một mô hình tính toán cụ thể — mô hình so sánh**.
+
+Trong mô hình này, mỗi thuật toán ứng với một cây quyết định nhị phân phải có ít nhất n! lá (mỗi hoán vị của đầu vào là một lá), nên chiều cao — tức số phép so sánh xấu nhất — ít nhất là lg(n!) = Ω(n lg n) (Định lý 8.1); vì vậy heapsort và sắp xếp trộn là tối ưu tiệm cận (Hệ quả 8.2).
+
+Khi được phép dùng giá trị của khoá để đánh chỉ số mảng hoặc tính toán, ta có thể sắp xếp nhanh hơn: **sắp xếp đếm** (counting sort) sắp n số nguyên trong khoảng 0..k trong Θ(n + k), là thuật toán ổn định; **sắp xếp cơ số** (radix sort) sắp n số có d chữ số, mỗi chữ số k giá trị, trong Θ(d(n + k)) bằng cách sắp theo chữ số thấp nhất trước với một thuật toán sắp xếp ổn định, và với n số b bit thì chọn nhóm r ≈ lg n bit cho Θ(bn / lg n) (Bổ đề 8.3, 8.4); **sắp xếp theo thùng** (bucket sort) chia [0, 1) thành n thùng bằng nhau, cho thời gian trung bình Θ(n) khi đầu vào phân phối đều, vì kỳ vọng của bình phương kích thước mỗi thùng chỉ là 2 − 1/n.
+
+Cái giá của tốc độ là giả định về đầu vào (khoảng giá trị nhỏ, số chữ số cố định, phân phối đều) và thường là bộ nhớ phụ Θ(n); trên máy thật, hằng số ẩn và hiệu quả bộ nhớ đệm có thể khiến quicksort vẫn nhanh hơn.
 
 ## Sơ đồ
 
@@ -300,9 +297,13 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao không thuật toán sắp xếp nào chỉ dựa trên so sánh có thể nhanh hơn n lg n?** Vì mỗi thuật toán như vậy, khi chạy trên đầu vào cỡ n, tương ứng với một cây quyết định nhị phân mà mỗi nút trong là một phép so sánh aᵢ ≤ aⱼ và mỗi lá là một hoán vị kết luận. Để đúng với mọi đầu vào, cây phải có ít nhất n! lá đi tới được; một cây nhị phân cao h có nhiều nhất 2ʰ lá; vậy n! ≤ 2ʰ, tức h ≥ lg(n!) = Θ(n lg n). Chiều cao h chính là số phép so sánh trong trường hợp xấu nhất (Định lý 8.1). Ví dụ: với n = 3 cần ít nhất ⌈lg 6⌉ = 3 phép so sánh; với n = 10⁶ cần khoảng lg(10⁶!) ≈ 10⁶ × (19,93 − 1,44) ≈ 18,5 triệu phép so sánh. Hệ quả: heapsort và sắp xếp trộn (O(n lg n) xấu nhất) là tối ưu tiệm cận (Hệ quả 8.2). Bài toán 8-1 mở rộng kết quả này cho thời gian trung bình và cho thuật toán ngẫu nhiên hoá.
+1. **Vì sao không thuật toán sắp xếp nào chỉ dựa trên so sánh có thể nhanh hơn n lg n?** Vì mỗi thuật toán như vậy, khi chạy trên đầu vào cỡ n, tương ứng với một cây quyết định nhị phân mà mỗi nút trong là một phép so sánh aᵢ ≤ aⱼ và mỗi lá là một hoán vị kết luận. Để đúng với mọi đầu vào, cây phải có ít nhất n! lá đi tới được; một cây nhị phân cao h có nhiều nhất 2ʰ lá; vậy n! ≤ 2ʰ, tức h ≥ lg(n!) = Θ(n lg n). Chiều cao h chính là số phép so sánh trong trường hợp xấu nhất (Định lý 8.1).
+
+   Ví dụ: với n = 3 cần ít nhất ⌈lg 6⌉ = 3 phép so sánh; với n = 10⁶ cần khoảng lg(10⁶!) ≈ 10⁶ × (19,93 − 1,44) ≈ 18,5 triệu phép so sánh. Hệ quả: heapsort và sắp xếp trộn (O(n lg n) xấu nhất) là tối ưu tiệm cận (Hệ quả 8.2). Bài toán 8-1 mở rộng kết quả này cho thời gian trung bình và cho thuật toán ngẫu nhiên hoá.
 2. **Làm sao sắp xếp trong thời gian tuyến tính, và phải trả giá gì?** Bằng cách dùng giá trị khoá chứ không chỉ so sánh. Sắp xếp đếm (Θ(n + k)) đếm số phần tử ≤ mỗi giá trị rồi đặt từng phần tử vào đúng vị trí; cái giá là k phải nhỏ (k = O(n)) và cần thêm mảng B[1..n], C[0..k]. Sắp xếp cơ số (Θ(d(n + k))) gọi một thủ tục sắp ổn định lần lượt từ chữ số thấp nhất tới cao nhất; với n số b bit, chọn nhóm r = ⌊lg n⌋ bit cho Θ(bn / lg n), tuyến tính khi b = O(lg n). Sắp xếp theo thùng (Θ(n) trung bình) chỉ tuyến tính nếu đầu vào phân phối đều trên [0, 1), trường hợp xấu nhất vẫn là Θ(n²) khi mọi phần tử rơi vào một thùng.
-3. **Vì sao tính ổn định quan trọng, và vì sao sắp xếp cơ số đi từ chữ số thấp nhất?** Một thuật toán sắp xếp ổn định giữ nguyên thứ tự ban đầu của các phần tử có khoá bằng nhau. Sắp xếp cơ số dựa vào điều này: sau khi đã sắp theo chữ số 1..i−1, lượt sắp theo chữ số i đặt đúng các số có chữ số i khác nhau, còn các số có chữ số i bằng nhau thì giữ thứ tự cũ — chính là thứ tự đúng theo i−1 chữ số thấp hơn. Ví dụ 329 và 355 cùng hàng trăm 3; ở lượt cuối, chúng giữ thứ tự 329 trước 355 có từ lượt hàng chục. Đi từ chữ số thấp nhất cho phép mỗi lượt xử lý cả mảng một lần, chỉ cần d lượt; đi từ chữ số cao nhất phải chia nhỏ đệ quy và theo dõi rất nhiều nhóm con. Sắp xếp đếm ổn định nhờ vòng lặp cuối duyệt A từ cuối về đầu.
+3. **Vì sao tính ổn định quan trọng, và vì sao sắp xếp cơ số đi từ chữ số thấp nhất?** Một thuật toán sắp xếp ổn định giữ nguyên thứ tự ban đầu của các phần tử có khoá bằng nhau. Sắp xếp cơ số dựa vào điều này: sau khi đã sắp theo chữ số 1..i−1, lượt sắp theo chữ số i đặt đúng các số có chữ số i khác nhau, còn các số có chữ số i bằng nhau thì giữ thứ tự cũ — chính là thứ tự đúng theo i−1 chữ số thấp hơn.
+
+   Ví dụ 329 và 355 cùng hàng trăm 3; ở lượt cuối, chúng giữ thứ tự 329 trước 355 có từ lượt hàng chục. Đi từ chữ số thấp nhất cho phép mỗi lượt xử lý cả mảng một lần, chỉ cần d lượt; đi từ chữ số cao nhất phải chia nhỏ đệ quy và theo dõi rất nhiều nhóm con. Sắp xếp đếm ổn định nhờ vòng lặp cuối duyệt A từ cuối về đầu.
 
 ## Khái niệm cần biết
 
@@ -403,7 +404,9 @@ Lưu ý: cận dưới chỉ nói rằng *có* đầu vào cần chừng ấy ph
 
 #### Ví dụ hôm nay
 
-Cận dưới Ω(n lg n) là lý do các thư viện chuẩn (sort của C++, Java, Python, Rust) đều dùng thuật toán so sánh O(n lg n) — introsort, Timsort, pdqsort — và không cố "nhanh hơn" theo bậc khi chỉ có hàm so sánh do người dùng cung cấp. Lập luận cây quyết định cũng là công cụ chuẩn để chứng minh cận dưới cho các bài toán khác: tìm kiếm nhị phân cần ⌈lg(n+1)⌉ phép so sánh, trộn hai danh sách cần 2n − 1 phép so sánh (Bài toán 8-6), kiểm tra các phần tử có khác nhau đôi một không cần Ω(n lg n) trong mô hình cây quyết định đại số (hướng nghiên cứu của Ben-Or nêu ở Ghi chú chương). Trong phỏng vấn kỹ thuật, câu hỏi "có sắp xếp nhanh hơn n lg n được không?" luôn dẫn tới câu trả lời: không, nếu chỉ dùng so sánh; có, nếu biết thêm về khoá.
+Cận dưới Ω(n lg n) là lý do các thư viện chuẩn (sort của C++, Java, Python, Rust) đều dùng thuật toán so sánh O(n lg n) — introsort, Timsort, pdqsort — và không cố "nhanh hơn" theo bậc khi chỉ có hàm so sánh do người dùng cung cấp.
+
+Lập luận cây quyết định cũng là công cụ chuẩn để chứng minh cận dưới cho các bài toán khác: tìm kiếm nhị phân cần ⌈lg(n+1)⌉ phép so sánh, trộn hai danh sách cần 2n − 1 phép so sánh (Bài toán 8-6), kiểm tra các phần tử có khác nhau đôi một không cần Ω(n lg n) trong mô hình cây quyết định đại số (hướng nghiên cứu của Ben-Or nêu ở Ghi chú chương). Trong phỏng vấn kỹ thuật, câu hỏi "có sắp xếp nhanh hơn n lg n được không?" luôn dẫn tới câu trả lời: không, nếu chỉ dùng so sánh; có, nếu biết thêm về khoá.
 
 ### 3. Sắp xếp đếm (8.2 Counting sort, trang 194–197)
 
@@ -528,7 +531,9 @@ Dòng 1 lặp qua các vị trí chữ số từ thấp lên cao; dòng 2 gọi 
 
 **Bổ đề 8.3.** Cho n số d chữ số, mỗi chữ số nhận tối đa k giá trị. RADIX-SORT sắp đúng các số này trong thời gian Θ(d(n + k)) nếu thuật toán sắp ổn định mà nó dùng tốn Θ(n + k).
 
-*Chứng minh.* Tính đúng suy ra bằng quy nạp theo cột đang sắp (sách để chi tiết cho Bài tập 8.3-3). Ý của quy nạp (người tổng hợp viết ra): bất biến là "sau lượt i, mảng được sắp theo i chữ số thấp nhất". Ở lượt i + 1, xét hai số x, y. Nếu chữ số thứ i + 1 của chúng khác nhau, lượt sắp đặt chúng đúng thứ tự theo chữ số này, và chữ số này quyết định thứ tự theo i + 1 chữ số thấp. Nếu chữ số thứ i + 1 bằng nhau, thứ tự theo i + 1 chữ số thấp do i chữ số thấp quyết định; theo bất biến, x, y đã đúng thứ tự trước lượt i + 1, và **vì lượt sắp ổn định**, chúng giữ thứ tự đó. Đây đúng là chỗ cần giả định ổn định.
+*Chứng minh.* Tính đúng suy ra bằng quy nạp theo cột đang sắp (sách để chi tiết cho Bài tập 8.3-3). Ý của quy nạp (người tổng hợp viết ra): bất biến là "sau lượt i, mảng được sắp theo i chữ số thấp nhất".
+
+Ở lượt i + 1, xét hai số x, y. Nếu chữ số thứ i + 1 của chúng khác nhau, lượt sắp đặt chúng đúng thứ tự theo chữ số này, và chữ số này quyết định thứ tự theo i + 1 chữ số thấp. Nếu chữ số thứ i + 1 bằng nhau, thứ tự theo i + 1 chữ số thấp do i chữ số thấp quyết định; theo bất biến, x, y đã đúng thứ tự trước lượt i + 1, và **vì lượt sắp ổn định**, chúng giữ thứ tự đó. Đây đúng là chỗ cần giả định ổn định.
 
 Thời gian phụ thuộc thuật toán sắp ổn định dùng làm thủ tục trung gian. Khi mỗi chữ số trong khoảng 0 đến k − 1 (nên nhận k giá trị) và k không quá lớn, sắp xếp đếm là lựa chọn hiển nhiên. Mỗi lượt qua n số d chữ số khi đó tốn Θ(n + k). Có d lượt, nên tổng thời gian là Θ(d(n + k)). ∎
 
@@ -560,11 +565,15 @@ Bảng cho thấy r = ⌊lg n⌋ chỉ tốt "sai khác hằng số": với số
 
 #### Sắp xếp cơ số có tốt hơn quicksort không?
 
-Nếu b = O(lg n) — điều thường gặp — và chọn r ≈ lg n, sắp xếp cơ số chạy Θ(n), có vẻ tốt hơn thời gian kỳ vọng Θ(n lg n) của quicksort. Tuy nhiên hằng số ẩn trong ký hiệu Θ khác nhau. Sắp xếp cơ số có thể làm ít lượt qua n khoá hơn quicksort, nhưng mỗi lượt của nó có thể tốn hơn đáng kể. Chọn thuật toán nào phụ thuộc vào đặc điểm của bản cài đặt, của máy (ví dụ quicksort thường dùng bộ nhớ đệm phần cứng hiệu quả hơn sắp xếp cơ số) và của dữ liệu đầu vào. Thêm nữa, phiên bản sắp xếp cơ số dùng sắp xếp đếm làm thủ tục ổn định trung gian không sắp xếp tại chỗ, trong khi nhiều sắp xếp so sánh Θ(n lg n) thì có. Vì vậy, khi bộ nhớ chính khan hiếm, ta có thể ưu tiên một thuật toán tại chỗ như quicksort.
+Nếu b = O(lg n) — điều thường gặp — và chọn r ≈ lg n, sắp xếp cơ số chạy Θ(n), có vẻ tốt hơn thời gian kỳ vọng Θ(n lg n) của quicksort. Tuy nhiên hằng số ẩn trong ký hiệu Θ khác nhau. Sắp xếp cơ số có thể làm ít lượt qua n khoá hơn quicksort, nhưng mỗi lượt của nó có thể tốn hơn đáng kể.
+
+Chọn thuật toán nào phụ thuộc vào đặc điểm của bản cài đặt, của máy (ví dụ quicksort thường dùng bộ nhớ đệm phần cứng hiệu quả hơn sắp xếp cơ số) và của dữ liệu đầu vào. Thêm nữa, phiên bản sắp xếp cơ số dùng sắp xếp đếm làm thủ tục ổn định trung gian không sắp xếp tại chỗ, trong khi nhiều sắp xếp so sánh Θ(n lg n) thì có. Vì vậy, khi bộ nhớ chính khan hiếm, ta có thể ưu tiên một thuật toán tại chỗ như quicksort.
 
 #### Ví dụ hôm nay
 
-Sắp xếp cơ số theo chữ số thấp trước (LSD radix sort) với chữ số 8 hoặc 11 bit là thuật toán sắp xếp số nguyên và số thực dấu phẩy động nhanh nhất trên GPU (các thư viện sắp xếp song song dùng nó làm mặc định cho khoá nguyên thuỷ) và rất phổ biến trong cơ sở dữ liệu dạng cột, đồ hoạ máy tính (sắp các đối tượng theo độ sâu), và xây dựng mảng hậu tố. Biến thể theo chữ số cao trước (MSD radix sort, đúng là "cách trực giác" sách nhắc tới) dùng để sắp xâu ký tự, vì nó dừng sớm ở các nhánh ngắn. Sắp ngày theo "ngày, rồi tháng, rồi năm" bằng sắp ổn định là kỹ thuật thường dùng trong bảng tính: bấm sắp xếp theo cột phụ trước, cột chính sau. Phép sắp xếp đa khoá trong SQL (ORDER BY năm, tháng, ngày) thì thường được cài bằng so sánh nhiều trường thay vì nhiều lượt ổn định.
+Sắp xếp cơ số theo chữ số thấp trước (LSD radix sort) với chữ số 8 hoặc 11 bit là thuật toán sắp xếp số nguyên và số thực dấu phẩy động nhanh nhất trên GPU (các thư viện sắp xếp song song dùng nó làm mặc định cho khoá nguyên thuỷ) và rất phổ biến trong cơ sở dữ liệu dạng cột, đồ hoạ máy tính (sắp các đối tượng theo độ sâu), và xây dựng mảng hậu tố. Biến thể theo chữ số cao trước (MSD radix sort, đúng là "cách trực giác" sách nhắc tới) dùng để sắp xâu ký tự, vì nó dừng sớm ở các nhánh ngắn.
+
+Sắp ngày theo "ngày, rồi tháng, rồi năm" bằng sắp ổn định là kỹ thuật thường dùng trong bảng tính: bấm sắp xếp theo cột phụ trước, cột chính sau. Phép sắp xếp đa khoá trong SQL (ORDER BY năm, tháng, ngày) thì thường được cài bằng so sánh nhiều trường thay vì nhiều lượt ổn định.
 
 ### 5. Sắp xếp theo thùng (8.4 Bucket sort, trang 200–204)
 
@@ -589,7 +598,7 @@ BUCKET-SORT(A)
 
 Giải thích:
 
-- **Dòng 1–4:** tạo mảng B gồm n thùng rỗng. (Dòng 1 dùng n trước khi dòng 2 gán n; khi cài đặt cần gán n trước — xem khối Lưu ý.)
+- **Dòng 1–4:** tạo mảng B gồm n thùng rỗng. (Dòng 1 dùng n trước khi dòng 2 gán n; khi cài đặt cần gán n trước — xem mục Lưu ý cuối chương.)
 - **Dòng 5–6:** với mỗi phần tử, tính chỉ số thùng ⌊n·A[i]⌋. Thùng i chứa các giá trị trong nửa khoảng [i/n, (i + 1)/n).
 - **Dòng 7–8:** sắp từng thùng bằng sắp xếp chèn (thuật toán của mục 2.1, nhanh với danh sách ngắn).
 - **Dòng 9:** nối các danh sách theo thứ tự B[0], B[1], …, B[n − 1].
@@ -715,7 +724,9 @@ Bài toán chứng minh cận dưới Ω(n lg n) theo nghĩa xác suất cho th�
 - Mở rộng mô hình cho sắp xếp ngẫu nhiên hoá B: cây có hai loại nút — nút so sánh thường và nút "ngẫu nhiên hoá" mô tả lựa chọn RANDOM(1, r) của B; nút này có r con, mỗi con được chọn với khả năng như nhau.
 - **f.** Chứng minh với mọi sắp xếp so sánh ngẫu nhiên hoá B, tồn tại một sắp xếp so sánh tất định A có số phép so sánh kỳ vọng không nhiều hơn B.
 
-Lời giải của người tổng hợp (ý chính): (a) với thuật toán tất định, mỗi hoán vị đi tới đúng một lá và các hoán vị khác nhau phải tới các lá khác nhau. (b) mỗi lá có độ sâu trong T bằng độ sâu trong cây con cộng 1, có k lá. (c) hai cây con của một cây tối ưu phải tối ưu với số lá của chúng. (d) đạo hàm theo i là lg i − lg(k − i), bằng 0 tại i = k/2, và hàm lồi; quy nạp cho d(k) ≥ k lg k vì d(k) ≥ 2 · (k/2) lg(k/2) + k = k lg k. (e) bỏ các lá xác suất 0 thì cây còn n! lá, D ≥ d(n!) = Ω(n! lg(n!)); độ sâu trung bình D/n! = Ω(lg(n!)) = Ω(n lg n). (f) tại mỗi nút ngẫu nhiên hoá, giữ lại cây con có số so sánh kỳ vọng nhỏ nhất; kỳ vọng không tăng vì giá trị nhỏ nhất ≤ trung bình.
+Lời giải của người tổng hợp (ý chính): (a) với thuật toán tất định, mỗi hoán vị đi tới đúng một lá và các hoán vị khác nhau phải tới các lá khác nhau. (b) mỗi lá có độ sâu trong T bằng độ sâu trong cây con cộng 1, có k lá. (c) hai cây con của một cây tối ưu phải tối ưu với số lá của chúng.
+
+(d) đạo hàm theo i là lg i − lg(k − i), bằng 0 tại i = k/2, và hàm lồi; quy nạp cho d(k) ≥ k lg k vì d(k) ≥ 2 · (k/2) lg(k/2) + k = k lg k. (e) bỏ các lá xác suất 0 thì cây còn n! lá, D ≥ d(n!) = Ω(n! lg(n!)); độ sâu trung bình D/n! = Ω(lg(n!)) = Ω(n lg n). (f) tại mỗi nút ngẫu nhiên hoá, giữ lại cây con có số so sánh kỳ vọng nhỏ nhất; kỳ vọng không tăng vì giá trị nhỏ nhất ≤ trung bình.
 
 ### Bài toán 8-2 — Sắp xếp tại chỗ trong thời gian tuyến tính (Sorting in place in linear time, trang 206)
 
@@ -759,7 +770,9 @@ Thay vì sắp hẳn, chỉ yêu cầu các phần tử tăng "trung bình". M�
 - **e.** Sắp một mảng k-sắp xếp độ dài n trong O(n lg k). (Gợi ý: dùng lời giải Bài tập 6.5-9 — trộn k danh sách đã sắp bằng đống nhỏ nhất trong O(n lg k).)
 - **f.** Chứng minh khi k là hằng số, k-sắp xếp một mảng n phần tử cần Ω(n lg n). (Gợi ý: dùng phần (e) và cận dưới của sắp xếp so sánh.)
 
-Lời giải của người tổng hợp: (a) là mảng đã sắp. (b) ví dụ ⟨1, 6, 2, 7, 3, 8, 4, 9, 5, 10⟩: kiểm tra A[i] ≤ A[i + 2] với mọi i (1 ≤ 2, 6 ≤ 7, 2 ≤ 3, 7 ≤ 8, 3 ≤ 4, 8 ≤ 9, 4 ≤ 5, 9 ≤ 10). (c) hiệu hai vế là (A[i + k] − A[i]) / k vì k − 1 số hạng chung triệt tiêu. (d) theo (c), mảng k-sắp xếp khi và chỉ khi k dãy con A[i], A[i + k], A[i + 2k], … đều đã sắp; sắp riêng mỗi dãy con (n/k phần tử) tốn k · O((n/k) lg(n/k)) = O(n lg(n/k)). (e) trộn k dãy con đó bằng đống. (f) nếu k-sắp xếp tốn o(n lg n), cộng với O(n lg k) = O(n) của (e) sẽ sắp được trong o(n lg n), trái Định lý 8.1.
+Lời giải của người tổng hợp: (a) là mảng đã sắp. (b) ví dụ ⟨1, 6, 2, 7, 3, 8, 4, 9, 5, 10⟩: kiểm tra A[i] ≤ A[i + 2] với mọi i (1 ≤ 2, 6 ≤ 7, 2 ≤ 3, 7 ≤ 8, 3 ≤ 4, 8 ≤ 9, 4 ≤ 5, 9 ≤ 10). (c) hiệu hai vế là (A[i + k] − A[i]) / k vì k − 1 số hạng chung triệt tiêu.
+
+(d) theo (c), mảng k-sắp xếp khi và chỉ khi k dãy con A[i], A[i + k], A[i + 2k], … đều đã sắp; sắp riêng mỗi dãy con (n/k phần tử) tốn k · O((n/k) lg(n/k)) = O(n lg(n/k)). (e) trộn k dãy con đó bằng đống. (f) nếu k-sắp xếp tốn o(n lg n), cộng với O(n lg k) = O(n) của (e) sẽ sắp được trong o(n lg n), trái Định lý 8.1.
 
 ### Bài toán 8-6 — Cận dưới cho việc trộn danh sách đã sắp (Lower bound on merging sorted lists, trang 208)
 
@@ -871,14 +884,22 @@ Giải thích vài bước: ở (c), cột thứ nhất của (b) là 4, 8, 10, 
 - **g.** Giả sử s không chia hết r. Chứng minh sau bước 1–3 mảng gồm các hàng sạch toàn 0 ở trên, các hàng sạch toàn 1 ở dưới, và nhiều nhất 2s − 1 hàng bẩn ở giữa. r phải lớn cỡ nào so với s để columnsort đúng khi s không chia hết r?
 - **h.** Đề xuất một thay đổi đơn giản ở bước 1 để vẫn chỉ cần r ≥ 2s² khi s không chia hết r, và chứng minh columnsort đúng với thay đổi đó.
 
-Lời giải của người tổng hợp (ý chính, phần g–h không chắc chắn hoàn toàn): (a) nếu A[q] < A[p] thì A[q] là giá trị nhỏ hơn A[p] cũng bị đặt sai (nó nằm ở vị trí của A[p]), trái với tính nhỏ nhất của A[p]; các giá trị khác nhau nên A[q] > A[p]. (b) hàm f(x) = 0 nếu x ≤ A[p], 1 nếu ngược lại, đơn điệu không giảm, nên COMPARE-EXCHANGE "giao hoán" với f: chạy X trên B = f(A) cho đúng f của kết quả chạy X trên A. Vị trí lẽ ra của A[p] nhận A[q], tức nhận 1 trong B; nhưng B có đúng số số 0 bằng số giá trị ≤ A[p], đủ để lấp mọi vị trí tới vị trí đó, nên có một số 0 nằm sau một số 1 — B chưa được sắp. (c) mỗi bước sắp cột có thể thay bằng một mạng sắp xếp mù (ví dụ INSERTION-SORT dạng trên), còn các bước chẵn là hoán vị chỉ số cố định. (d) sau bước 1, mỗi cột là 0 rồi 1; bước 2 biến mỗi cột thành r/s hàng liền nhau, nên mỗi cột cũ góp nhiều nhất một hàng lẫn 0-1; sau bước 3, mỗi cột mới nhận cùng số lượng phần tử từ mỗi cột cũ, nên số 0 trong các cột chênh nhau không quá s, cho nhiều nhất s hàng bẩn. (e) bước 4 đọc s hàng bẩn mỗi hàng s phần tử theo thứ tự cột, được vùng bẩn liên tiếp ≤ s². (f) vì r ≥ 2s², vùng bẩn ≤ s² ≤ r/2 nằm gọn trong một cột hoặc trải qua chỗ nối của hai cột kề nhau; bước 5 sắp các cột; bước 6 dời nửa cột khiến vùng bẩn nằm trọn trong một cột; bước 7 sắp cột đó; bước 8 trả về vị trí. (g) cần vùng bẩn s(2s − 1) ≤ r/2, tức r ≥ 2s(2s − 1). (h) có thể thêm phần tử giả (−∞) để số hàng chia hết cho s, hoặc ở bước 1 sắp xen kẽ theo chiều để giảm hàng bẩn.
+Lời giải của người tổng hợp (ý chính, phần g–h không chắc chắn hoàn toàn): (a) nếu A[q] < A[p] thì A[q] là giá trị nhỏ hơn A[p] cũng bị đặt sai (nó nằm ở vị trí của A[p]), trái với tính nhỏ nhất của A[p]; các giá trị khác nhau nên A[q] > A[p]. (b) hàm f(x) = 0 nếu x ≤ A[p], 1 nếu ngược lại, đơn điệu không giảm, nên COMPARE-EXCHANGE "giao hoán" với f: chạy X trên B = f(A) cho đúng f của kết quả chạy X trên A. Vị trí lẽ ra của A[p] nhận A[q], tức nhận 1 trong B; nhưng B có đúng số số 0 bằng số giá trị ≤ A[p], đủ để lấp mọi vị trí tới vị trí đó, nên có một số 0 nằm sau một số 1 — B chưa được sắp. (c) mỗi bước sắp cột có thể thay bằng một mạng sắp xếp mù (ví dụ INSERTION-SORT dạng trên), còn các bước chẵn là hoán vị chỉ số cố định.
+
+(d) sau bước 1, mỗi cột là 0 rồi 1; bước 2 biến mỗi cột thành r/s hàng liền nhau, nên mỗi cột cũ góp nhiều nhất một hàng lẫn 0-1; sau bước 3, mỗi cột mới nhận cùng số lượng phần tử từ mỗi cột cũ, nên số 0 trong các cột chênh nhau không quá s, cho nhiều nhất s hàng bẩn. (e) bước 4 đọc s hàng bẩn mỗi hàng s phần tử theo thứ tự cột, được vùng bẩn liên tiếp ≤ s².
+
+(f) vì r ≥ 2s², vùng bẩn ≤ s² ≤ r/2 nằm gọn trong một cột hoặc trải qua chỗ nối của hai cột kề nhau; bước 5 sắp các cột; bước 6 dời nửa cột khiến vùng bẩn nằm trọn trong một cột; bước 7 sắp cột đó; bước 8 trả về vị trí. (g) cần vùng bẩn s(2s − 1) ≤ r/2, tức r ≥ 2s(2s − 1). (h) có thể thêm phần tử giả (−∞) để số hàng chia hết cho s, hoặc ở bước 1 sắp xen kẽ theo chiều để giảm hàng bẩn.
 
 ### Ghi chú chương (Chapter notes, trang 211–212)
 
 - Mô hình cây quyết định để nghiên cứu sắp xếp so sánh do **Ford và Johnson** đưa ra. Bộ sách của **Knuth** về sắp xếp (*The Art of Computer Programming*, tập 3) bao quát nhiều biến thể của bài toán, gồm cả cận dưới theo lý thuyết thông tin trình bày ở đây. **Ben-Or** nghiên cứu cận dưới cho sắp xếp bằng các mô hình tổng quát hoá cây quyết định.
 - Theo Knuth, **H. H. Seward** phát minh sắp xếp đếm năm **1954**, cùng ý tưởng ghép sắp xếp đếm với sắp xếp cơ số. Sắp xếp cơ số bắt đầu từ chữ số thấp nhất có vẻ là một thuật toán "dân gian" được người vận hành máy sắp phiếu cơ học dùng rộng rãi; tài liệu công bố đầu tiên về phương pháp là văn bản năm **1929** của **L. J. Comrie** mô tả thiết bị phiếu đục lỗ. Sắp xếp theo thùng được dùng từ năm **1956**, khi **E. J. Isaac và R. C. Singleton** đề xuất ý tưởng cơ bản.
 - **Munro và Raman** đưa ra một thuật toán sắp xếp ổn định làm O(n^(1+ε)) phép so sánh trong trường hợp xấu nhất, với 0 < ε ≤ 1 là một hằng số cố định bất kỳ. Dù mọi thuật toán O(n lg n) làm ít phép so sánh hơn, thuật toán của Munro và Raman chỉ di chuyển dữ liệu O(n) lần và chạy tại chỗ.
-- Bài toán sắp n số nguyên b bit trong thời gian o(n lg n) được nhiều nhà nghiên cứu xét, với các giả định hơi khác nhau về mô hình tính toán; tất cả đều giả định bộ nhớ chia thành các từ b bit đánh địa chỉ được. **Fredman và Willard** đưa ra cấu trúc **cây hợp nhất** (fusion tree) và sắp n số nguyên trong O(n lg n / lg lg n). **Andersson** cải tiến lên O(n √lg n). Hai thuật toán này cần phép nhân và vài hằng số tính trước. **Andersson, Hagerup, Nilsson và Raman** sắp trong O(n lg lg n) không dùng phép nhân, nhưng bộ nhớ có thể không bị chặn theo n; dùng băm nhân (multiplicative hashing) giảm bộ nhớ về O(n) nhưng cận O(n lg lg n) khi đó chỉ còn là cận kỳ vọng. Tổng quát hoá cây tìm kiếm mũ (exponential search trees) của Andersson, **Thorup** đưa ra thuật toán O(n (lg lg n)²) không dùng phép nhân, không ngẫu nhiên, bộ nhớ tuyến tính. Kết hợp các kỹ thuật này với ý tưởng mới, **Han** cải tiến xuống O(n lg lg n lg lg lg n). Các tác giả nhận xét đây là các đột phá lý thuyết quan trọng nhưng đều khá phức tạp và hiện chưa có vẻ cạnh tranh được với các thuật toán sắp xếp thực dụng.
+- Bài toán sắp n số nguyên b bit trong thời gian o(n lg n) được nhiều nhà nghiên cứu xét, với các giả định hơi khác nhau về mô hình tính toán; tất cả đều giả định bộ nhớ chia thành các từ b bit đánh địa chỉ được. **Fredman và Willard** đưa ra cấu trúc **cây hợp nhất** (fusion tree) và sắp n số nguyên trong O(n lg n / lg lg n). **Andersson** cải tiến lên O(n √lg n). Hai thuật toán này cần phép nhân và vài hằng số tính trước.
+
+  **Andersson, Hagerup, Nilsson và Raman** sắp trong O(n lg lg n) không dùng phép nhân, nhưng bộ nhớ có thể không bị chặn theo n; dùng băm nhân (multiplicative hashing) giảm bộ nhớ về O(n) nhưng cận O(n lg lg n) khi đó chỉ còn là cận kỳ vọng.
+
+  Tổng quát hoá cây tìm kiếm mũ (exponential search trees) của Andersson, **Thorup** đưa ra thuật toán O(n (lg lg n)²) không dùng phép nhân, không ngẫu nhiên, bộ nhớ tuyến tính. Kết hợp các kỹ thuật này với ý tưởng mới, **Han** cải tiến xuống O(n lg lg n lg lg lg n). Các tác giả nhận xét đây là các đột phá lý thuyết quan trọng nhưng đều khá phức tạp và hiện chưa có vẻ cạnh tranh được với các thuật toán sắp xếp thực dụng.
 - Thuật toán columnsort của Bài toán 8-7 là của **Leighton**.
 
 ## Luận điểm cốt lõi
@@ -1031,7 +1052,7 @@ Chương ngắn nhưng chứa một trong những bài học khái niệm quan t
 - **Mô hình cây quyết định không tính chi phí ngoài phép so sánh.** Điều này phù hợp cho cận dưới, nhưng chương không bàn rằng trên thực tế chi phí di chuyển dữ liệu và truy cập bộ nhớ thường quan trọng hơn số phép so sánh (Ghi chú chương có nhắc thoáng qua qua thuật toán của Munro–Raman).
 - **Phần "radix sort hay quicksort" chỉ định tính.** Không có số liệu, và lập luận chọn r = ⌊lg n⌋ bỏ qua kích thước bộ nhớ đệm — yếu tố quyết định trên máy thật (mảng đếm 2ʳ ô vượt bộ nhớ đệm cấp 1 khi r lớn). Bảng ví dụ ở mục 4 cho thấy ngay cả với mô hình đơn giản, r = 16 tốt hơn r = 20.
 - **Sắp xếp theo thùng dùng danh sách liên kết** — dễ phân tích nhưng chậm trên phần cứng hiện đại vì truy cập bộ nhớ rải rác; cài đặt thực tế thường đếm kích thước thùng trước (giống sắp xếp đếm) rồi đặt vào một mảng liên tục.
-- **Một điểm lỏng trong pseudocode BUCKET-SORT** (dùng n trước khi gán) — xem khối Lưu ý.
+- **Một điểm lỏng trong pseudocode BUCKET-SORT** (dùng n trước khi gán) — xem mục Lưu ý cuối chương.
 - **Sắp xếp số âm, số thực dấu phẩy động và xâu** không được bàn trong phần chính (xâu chỉ ở Bài toán 8-3). Trên thực tế, sắp xếp cơ số số thực cần mẹo đảo bit dấu, và số nguyên có dấu cần đảo bit cao nhất.
 
 ### So với thực tế: thư viện chuẩn và phần cứng hiện đại (theo hiểu biết của người tổng hợp)
@@ -1052,3 +1073,114 @@ Chương ngắn nhưng chứa một trong những bài học khái niệm quan t
 - **Phỏng vấn:** câu hỏi "sắp xếp nhanh hơn n lg n" → nêu cây quyết định và n! lá, rồi nêu ba thuật toán tuyến tính cùng giả định của chúng. Các bài toán quen thuộc như "sắp mảng 0/1/2" (Dutch national flag, giống Bài toán 8-2), "tìm khoảng cách lớn nhất giữa hai phần tử liên tiếp sau khi sắp trong O(n)" (dùng thùng), "sắp n số trong 0..n³ − 1" (Bài tập 8.3-4) đều xuất phát từ chương này.
 - **Lập trình thi đấu:** sắp xếp đếm khi giá trị nhỏ; sắp xếp cơ số 2 lượt × 16 bit (hoặc 4 lượt × 8 bit) cho mảng 10⁷ số nguyên 32 bit khi sort của thư viện quá chậm; tổng tiền tố để trả lời truy vấn đếm trong khoảng (Bài tập 8.2-4).
 - **Kỹ thuật phần mềm:** khi cần sắp theo nhiều trường, có thể sắp ổn định theo trường phụ trước rồi trường chính sau; khi cần phân phối dữ liệu lớn cho nhiều máy, lấy mẫu để chọn ranh giới thùng — đúng ý tưởng của Bài tập 8.4-5.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: năm nhánh lớn theo Mục 8.1–8.4 và các bài toán cuối chương 8-1 đến 8-7, mỗi nhánh ghi định lý, thuật toán, thời gian chạy và giả định đi kèm; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: cận n lg n chỉ đúng trong mô hình so sánh – dùng giá trị khoá thì sắp được trong thời gian tuyến tính`"]
+  n1["`Mục 8.1 — Cận dưới cho sắp xếp so sánh`"]
+  n0 --- n1
+  n2["`Mô hình cây quyết định`"]
+  n1 --- n2
+  n3["`Mỗi nút trong là một phép so sánh aᵢ ≤ aⱼ, mỗi lá là một hoán vị kết luận`"]
+  n2 --- n3
+  n4["`Cây của sắp xếp chèn trên 3 phần tử có 6 lá, cao 3`"]
+  n2 --- n4
+  n5["`Định lý 8.1: cần Ω(n lg n) phép so sánh trong trường hợp xấu nhất`"]
+  n1 --- n5
+  n6["`Thuật toán đúng phải có ≥ n! lá, cây cao h có ≤ 2ʰ lá, nên h ≥ lg(n!)`"]
+  n5 --- n6
+  n7["`n = 10⁶ cần khoảng 18,5 triệu phép so sánh`"]
+  n5 --- n7
+  n8["`Hệ quả 8.2: heapsort và sắp xếp trộn tối ưu tiệm cận`"]
+  n1 --- n8
+  n9["`Mục 8.2 — Sắp xếp đếm`"]
+  n0 --- n9
+  n10["`Khoá nguyên trong 0..k: đếm tần suất, cộng dồn ra vị trí cuối của mỗi giá trị`"]
+  n9 --- n10
+  n11["`Thời gian và bộ nhớ Θ(n + k), tuyến tính khi k = O(n)`"]
+  n9 --- n11
+  n12["`Ổn định nhờ duyệt A từ cuối về đầu ở vòng lặp cuối`"]
+  n9 --- n12
+  n13["`Ví dụ ⟨2, 5, 3, 0, 2, 3, 0, 3⟩ ra ⟨0, 0, 2, 2, 3, 3, 3, 5⟩`"]
+  n9 --- n13
+  n14["`Mục 8.3 — Sắp xếp cơ số`"]
+  n0 --- n14
+  n15["`Sắp theo chữ số thấp nhất trước bằng một thuật toán sắp ổn định`"]
+  n14 --- n15
+  n16["`Bổ đề 8.3: d chữ số, mỗi chữ số k giá trị → Θ(d(n + k))`"]
+  n15 --- n16
+  n17["`Tính ổn định giữ thứ tự đã đúng theo các chữ số thấp hơn`"]
+  n15 --- n17
+  n18["`Bổ đề 8.4: khoá b bit chia nhóm r bit → Θ((b/r)(n + 2ʳ))`"]
+  n14 --- n18
+  n19["`Chọn r ≈ lg n cho Θ(bn / lg n), tuyến tính khi b = O(lg n)`"]
+  n18 --- n19
+  n20["`Nguồn gốc là máy sắp phiếu đục lỗ 80 cột`"]
+  n14 --- n20
+  n21["`Hằng số, bộ nhớ đệm và việc không sắp tại chỗ có thể khiến quicksort vẫn thắng`"]
+  n14 --- n21
+  n22["`Mục 8.4 — Sắp xếp theo thùng`"]
+  n0 --- n22
+  n23["`Chia [0, 1) thành n thùng bằng nhau, sắp chèn từng thùng rồi nối lại`"]
+  n22 --- n23
+  n24["`Trung bình Θ(n) khi đầu vào phân phối đều, vì E[nᵢ²] = 2 − 1/n`"]
+  n22 --- n24
+  n25["`Xấu nhất Θ(n²) khi mọi phần tử rơi vào một thùng`"]
+  n22 --- n25
+  n26["`Bài toán 8-1 đến 8-7 — Mở rộng cận dưới và biến thể`"]
+  n0 --- n26
+  n27["`8-1 Cả trung bình và thuật toán ngẫu nhiên hoá vẫn cần Ω(n lg n)`"]
+  n26 --- n27
+  n28["`8-2 Khoá 0 và 1: chỉ đạt được hai trong ba tiêu chí O(n), ổn định, tại chỗ`"]
+  n26 --- n28
+  n29["`8-4 Bình nước đỏ–xanh: cận dưới Ω(n lg n), ngẫu nhiên kiểu quicksort O(n lg n) kỳ vọng`"]
+  n26 --- n29
+  n30["`8-6 Trộn hai danh sách n phần tử cần ít nhất 2n − 1 phép so sánh`"]
+  n26 --- n30
+  n31["`8-7 Bổ đề 0-1: thuật toán so sánh–hoán đổi mù sắp đúng mọi dãy 0/1 thì sắp đúng mọi đầu vào`"]
+  n26 --- n31
+  n32["`Thông điệp xuyên suốt`"]
+  n0 --- n32
+  n33["`Một cận dưới chỉ có nghĩa trong một mô hình tính toán`"]
+  n32 --- n33
+  n34["`Tốc độ tuyến tính trả bằng giả định về đầu vào và thường bộ nhớ phụ Θ(n)`"]
+  n32 --- n34
+  n35["`Tính ổn định là tính chất thiết kế, cho phép ghép nhiều lượt sắp theo các khoá khác nhau`"]
+  n32 --- n35
+  class n0 root
+  class n1,n9,n14,n22,n26,n32 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần II "Sorting and Order Statistics", Chương 8 "Sorting in Linear Time", trang 191–212.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), nhóm tác giả của giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là "CLRS".
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) giới thiệu sắp xếp chèn và sắp xếp trộn, Chương 6 ([C06-heapsort.md](C06-heapsort.md)) trình bày heapsort với thời gian xấu nhất O(n lg n), Chương 7 ([C07-quicksort.md](C07-quicksort.md)) trình bày quicksort với thời gian kỳ vọng O(n lg n). Cả bốn thuật toán đều chỉ biết thứ tự của dữ liệu qua phép so sánh hai phần tử.
+
+Chương 8 làm hai việc: (1) chứng minh rằng mọi thuật toán chỉ dùng so sánh đều phải tốn Ω(n lg n) phép so sánh trong trường hợp xấu nhất, nên sắp xếp trộn và heapsort đã tối ưu trong lớp của chúng; (2) trình bày ba thuật toán vượt qua giới hạn đó nhờ dùng thêm thông tin về giá trị — sắp xếp đếm, sắp xếp cơ số, sắp xếp theo thùng.
+
+Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) chuyển sang bài toán chọn phần tử thứ i và cho thấy bài toán này giải được trong O(n) mà không cần sắp xếp hết. Kỹ thuật biến ngẫu nhiên chỉ báo của Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) được dùng lại ở mục 8.4; danh sách liên kết dùng cho các thùng được trình bày ở Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)); ước lượng lg(n!) = Θ(n lg n) đến từ Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)).
+
+## Lưu ý
+
+- **Mục khó (dấu sao):** Chương 8 không có mục nào đánh dấu sao. Các bài tập đánh dấu sao là 8.3-5, 8.4-4 và 8.4-5.
+- **Lớp chữ PDF bị hỏng, đã đọc lại từ ảnh trang:** toàn bộ pseudocode (COUNTING-SORT, RADIX-SORT, BUCKET-SORT, COMPARE-EXCHANGE, INSERTION-SORT dạng so sánh–hoán đổi), cây quyết định của Hình 8.1, các mảng trong Hình 8.2, ba cột trong Hình 8.3, các danh sách thùng trong Hình 8.4, chín ma trận của Hình 8.5 (lớp chữ dính số, ví dụ "41 52" thực ra là "4 15 2"), chuỗi đẳng thức (8.1)–(8.3) và bất đẳng thức định nghĩa mảng k-sắp xếp trong Bài toán 8-5. Người tổng hợp đã chạy tay lại các Hình 8.1–8.5 và thấy chúng đúng.
+- **Một điểm lỏng trong pseudocode BUCKET-SORT:** dòng 1 tạo mảng B[0 .. n − 1] trong khi n mới được gán ở dòng 2 (n = A.length). Đây là thứ tự dòng in trong bản PDF này; khi cài đặt cần gán n trước. Theo hiểu biết của người tổng hợp (không tra cứu), lỗi thứ tự này nằm trong danh sách errata của ấn bản 3 và được sửa ở các lần in sau.
+- **Cách viết thời gian trong Bổ đề 8.4:** chứng minh chia khoá thành d = ⌈b/r⌉ chữ số nhưng ghi thời gian là Θ((b/r)(n + 2^r)), bỏ phép làm tròn lên. Điều này không sai về tiệm cận vì r ≤ b nên b/r ≤ ⌈b/r⌉ < 2b/r, nhưng với số cụ thể thì phải dùng ⌈b/r⌉ (ví dụ b = 32, r = 20 cho 2 lượt chứ không phải 1,6 lượt).
+- **Ví dụ columnsort trong Hình 8.5 vi phạm điều kiện r ≥ 2s²** (r = 6, s = 3, mà 2s² = 18); chính sách nói rõ điều này và cho biết ví dụ tình cờ vẫn chạy đúng.
+- **Thay đổi ở ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu:** ấn bản 4 vẫn giữ Chương 8 cùng tên và cùng ba thuật toán; pseudocode đổi sang truyền n làm tham số (ví dụ COUNTING-SORT(A, n, k), BUCKET-SORT(A, n)) thay vì dùng A.length, và ký hiệu mảng con đổi từ A[1 .. n] sang A[1 : n]. Người tổng hợp không chắc các bài toán cuối chương có giữ nguyên hay không.

@@ -1,17 +1,20 @@
 # Chương 11 — Bảng băm (Hash Tables)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần III "Data Structures", Chương 11 "Hash Tables", trang 253–285.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS" theo chữ cái đầu tên họ.
-**Vị trí trong lập luận của cả cuốn sách:** Lời giới thiệu Phần III và Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) đặt ra khái niệm **tập động** (dynamic set) và nhóm phép toán **từ điển** (dictionary) — INSERT, SEARCH, DELETE — rồi cài đặt chúng bằng danh sách liên kết, với SEARCH tốn Θ(n) trong trường hợp xấu nhất. Chương 11 giới thiệu cấu trúc dữ liệu làm từ điển nhanh nhất trong thực tế: bảng băm, đưa thời gian trung bình của cả ba phép toán xuống O(1). Chương này dùng trực tiếp danh sách liên kết đôi của Chương 10 làm "chuỗi" trong bảng băm nối chuỗi; dùng công cụ xác suất của Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) — biến ngẫu nhiên chỉ thị, Bổ đề 5.1, tính tuyến tính của kỳ vọng, phân tích nghịch lý ngày sinh ở Mục 5.4.1; và lặp lại ý tưởng của quicksort ngẫu nhiên ở Chương 7 ([C07-quicksort.md](C07-quicksort.md)): chọn ngẫu nhiên bên trong thuật toán để không đầu vào nào luôn là đầu vào xấu. Phần chứng minh lớp hàm băm phổ quát cần một chút số học modulo của Chương 31 ([C31-thuat-toan-so-hoc.md](C31-thuat-toan-so-hoc.md)); các bất đẳng thức xác suất (bất đẳng thức Markov (C.30), công thức (C.25)) lấy từ Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md)) và các cận tổng từ Phụ lục A ([PA-tong.md](PA-tong.md)). Hai chương kế tiếp, Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) và Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)), cài đặt từ điển bằng cây tìm kiếm: chậm hơn (O(lg n)) nhưng hỗ trợ thêm các phép toán dựa trên thứ tự (MINIMUM, SUCCESSOR...) mà bảng băm không làm được. Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) bổ sung kỹ thuật bảng động (dynamic table) — nhân đôi kích thước khi đầy — để giữ hệ số tải bị chặn; Chương 20 ([C20-cay-van-emde-boas.md](C20-cay-van-emde-boas.md)) quay lại ý tưởng "khoá là số nguyên trong một vũ trụ" của bảng địa chỉ trực tiếp; Chương 32 ([C32-so-khop-chuoi.md](C32-so-khop-chuoi.md)) dùng băm theo phép chia trên chuỗi trong thuật toán Rabin–Karp.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **bảng băm tệ ngang danh sách liên kết trong trường hợp xấu nhất (Θ(n) cho một lần tìm kiếm), nhưng dưới các giả định hợp lý thì INSERT, SEARCH, DELETE đều tốn O(1) trung bình; điều đó đạt được bằng cách *tính* chỉ số mảng từ khoá qua một hàm băm thay vì dùng thẳng khoá làm chỉ số, rồi giải quyết các va chạm không thể tránh khỏi bằng nối chuỗi hoặc địa chỉ mở; và khi chọn hàm băm ngẫu nhiên từ một lớp phổ quát, cận O(1) trung bình đúng với mọi dãy khoá, kể cả khoá do đối thủ chọn.** Mục 11.1 trình bày **bảng địa chỉ trực tiếp** (direct-address table): mảng T[0..m − 1] với mỗi ô ứng với một khoá của vũ trụ U = {0, 1, …, m − 1}; ba phép toán từ điển đều O(1) trong trường hợp xấu nhất, nhưng chỉ dùng được khi U nhỏ. Mục 11.2 giới thiệu **bảng băm** (hash table): phần tử khoá k được đặt ở ô h(k), với h : U → {0, 1, …, m − 1} và m nhỏ hơn nhiều so với |U|; vì |U| > m nên **va chạm** (collision) là không tránh khỏi; cách giải quyết đơn giản nhất là **nối chuỗi** (chaining) — mỗi ô trỏ tới một danh sách liên kết. Với **hệ số tải** (load factor) α = n/m và giả định **băm đều đơn giản** (simple uniform hashing), tìm kiếm thất bại và tìm kiếm thành công đều tốn thời gian trung bình Θ(1 + α) (Định lý 11.1, 11.2). Mục 11.3 bàn về hàm băm: một hàm tốt xấp xỉ giả định băm đều đơn giản; **phương pháp chia** h(k) = k mod m (nên chọn m là số nguyên tố không gần luỹ thừa của 2), **phương pháp nhân** h(k) = ⌊m (kA mod 1)⌋ (m có thể là luỹ thừa của 2, Knuth gợi ý A ≈ (√5 − 1)/2), và ★**băm phổ quát** (universal hashing): chọn ngẫu nhiên h từ một lớp ℋ mà với mọi cặp khoá khác nhau, xác suất va chạm ≤ 1/m; lớp ℋ_pm = {h_ab(k) = ((ak + b) mod p) mod m} là phổ quát (Định lý 11.5), và với nó mọi dãy n phép toán chứa O(m) lần INSERT tốn thời gian kỳ vọng Θ(n) (Hệ quả 11.4). Mục 11.4 trình bày **địa chỉ mở** (open addressing): mọi phần tử nằm ngay trong bảng, khi chèn ta **dò** (probe) lần lượt các ô theo một **dãy dò** phụ thuộc khoá; ba cách sinh dãy dò là **dò tuyến tính** (bị **tụ cụm sơ cấp**), **dò bậc hai** (bị **tụ cụm thứ cấp**) và **băm kép** (tốt nhất); dưới giả định **băm đều** (uniform hashing), tìm kiếm thất bại cần trung bình tối đa 1/(1 − α) lần dò (Định lý 11.6) và tìm kiếm thành công tối đa (1/α) ln(1/(1 − α)) lần dò (Định lý 11.8). Mục ★11.5 trình bày **băm hoàn hảo** (perfect hashing) cho tập khoá tĩnh: hai tầng băm phổ quát, tầng hai có bảng S_j kích thước m_j = n_j² nên không có va chạm, tìm kiếm tốn O(1) trong trường hợp xấu nhất, và tổng bộ nhớ kỳ vọng nhỏ hơn 2n ô cho các bảng tầng hai (Hệ quả 11.11).
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục có dấu sao (★) trong chương:** Mục 11.3.3 "Universal hashing" (băm phổ quát) và Mục 11.5 "Perfect hashing" (băm hoàn hảo). **Bài tập có dấu sao:** 11.1-4, 11.3-5, 11.3-6, 11.4-4, 11.4-5, 11.5-1. Không bài toán cuối chương (Problem) nào có dấu sao.
-> - **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương, đã đọc lại từ ảnh trang:** `‚` là Θ, `˛` là α, `TŒ k` là T[k], `/NUL` là dấu trừ, `hW U!f0; ...g` là h : U → {0, …}, các dấu ≤, ≈, ≠, ∉, ⌊ ⌋, √ bị mất (ví dụ `h.k/Dbkmc` là h(k) = ⌊km⌋, `A .p5/NUL 1/=2` là A ≈ (√5 − 1)/2, `PrfX ig` là Pr{X ≥ i}); chữ ℋ (lớp hàm băm) bị trích thành H; các tổng và tích trong chứng minh Định lý 11.2, 11.3, 11.6, 11.8, 11.10, 11.12 và Bài toán 11-2 bị vỡ thành nhiều dòng. Mọi pseudocode, công thức, chứng minh và nội dung Hình 11.1–11.6 trong bản tổng hợp này được đối chiếu với ảnh trang 254, 256–260, 264–268, 270–276, 278–284. Các hình mũi tên (11.1, 11.2, 11.3, 11.5) và hình hai tầng (11.6) không có trong lớp chữ hoặc bị trích lộn xộn; người tổng hợp đọc trên ảnh (phóng to riêng Hình 11.6 trang 278) và tái hiện thành bảng/sơ đồ text.
-> - **Lỗi trong Hình 11.6, trang 278 (nhận xét của người tổng hợp, đã tự tính lại):** bảng phụ S₇ có m₇ = 16, a₇ = 23, b₇ = 88 và p = 101. Hình đặt khoá 40 ở ô 7 của S₇. Tính lại: 23 · 40 + 88 = 1008; 1008 mod 101 = 1008 − 909 = 99; 99 mod 16 = 3. Vậy khoá 40 phải nằm ở **ô 3** của S₇, không phải ô 7. Ba khoá còn lại của S₇ khớp với hình: h₇(52) = ((1196 + 88) mod 101) mod 16 = 72 mod 16 = 8; h₇(22) = ((506 + 88) mod 101) mod 16 = 89 mod 16 = 9; h₇(37) = ((851 + 88) mod 101) mod 16 = 30 mod 16 = 14. Kết luận "không có va chạm trong bảng phụ nào" vẫn đúng (các ô 3, 8, 9, 14 khác nhau). Người tổng hợp không chắc lỗi này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
-> - **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):** (1) Chú thích cuối trang 279 nói khi n_j = m_j = 1 thì dùng a = b = 0; nhưng lớp ℋ_{p,m_j} đòi a ∈ ℤ*_p, tức a ≠ 0, nên hàm "a = b = 0" về hình thức không thuộc lớp — vô hại vì bảng một ô thì mọi hàm đều trả về 0. (2) Trang 271 viết "cả ba kỹ thuật (dò tuyến tính, dò bậc hai, băm kép) đều bảo đảm dãy dò là một hoán vị của ⟨0, 1, …, m − 1⟩", nhưng chính trang 272 nói dò bậc hai chỉ dùng hết bảng khi c₁, c₂, m bị ràng buộc, và trang 273 nói băm kép cần h₂(k) nguyên tố cùng nhau với m. Câu ở trang 271 cần hiểu là "với tham số được chọn đúng". (3) Trong Hệ quả 11.4, chữ n vừa là số phép toán trong dãy, vừa được dùng trong α = n/m như số khoá đang lưu; lập luận đúng vì số khoá đang lưu không vượt quá số lần INSERT, tức O(m). (4) Trong Bài toán 11-4(d), chữ m vừa là thông điệp (message) vừa là ký hiệu kích thước bảng ở đầu bài toán.
-> - **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đúng** (trừ vị trí khoá 40 trong Hình 11.6 nêu ở trên): chuỗi `pt` trong cơ số 128 là 112 · 128 + 116 = 14452; 100 mod 12 = 4; ví dụ phương pháp nhân k = 123456, s = 2654435769 cho k · s = 327706022297664 = 76300 · 2³² + 17612864 và 14 bit cao của r₀ là 67; h₃,₄(8) = ((24 + 4) mod 17) mod 6 = 11 mod 6 = 5; băm kép k = 123456, m = 701, m′ = 700 cho h₁(k) = 80, h₂(k) = 257; Hình 11.5 (khoá 14 dò ô 1, ô 5 rồi vào ô 9); các con số 1,387 và 2,559 của Định lý 11.8 (giá trị đúng là 2 ln 2 ≈ 1,3863 và (10/9) ln 10 ≈ 2,5584); trong Hình 11.6 các giá trị h(75) = 2, h₂(75) = 7 và cách chia chín khoá vào các ô 0, 2, 5, 7 của bảng T.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Bảng băm vẫn là Chương 11 nhưng được viết lại khá nhiều. Mục băm hoàn hảo (11.5 của ấn bản 3) bị bỏ. Phần hàm băm được tổ chức lại quanh ý "băm tĩnh" và "băm ngẫu nhiên", trình bày phương pháp nhân dưới dạng cài đặt nhân-dịch bit (multiply-shift) và có thêm phần về băm đầu vào dài (vector, chuỗi), có nhắc tới hàm băm mật mã. Có thêm một mục về các cân nhắc thực tế (bộ nhớ đệm, hệ thống bộ nhớ phân cấp), trong đó dò tuyến tính được đánh giá lại tích cực hơn và có thủ tục xoá cho dò tuyến tính không cần giá trị DELETED. Các chi tiết khác người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **bảng băm tệ ngang danh sách liên kết trong trường hợp xấu nhất (Θ(n) cho một lần tìm kiếm), nhưng dưới các giả định hợp lý thì INSERT, SEARCH, DELETE đều tốn O(1) trung bình; điều đó đạt được bằng cách *tính* chỉ số mảng từ khoá qua một hàm băm thay vì dùng thẳng khoá làm chỉ số, rồi giải quyết các va chạm không thể tránh khỏi bằng nối chuỗi hoặc địa chỉ mở; và khi chọn hàm băm ngẫu nhiên từ một lớp phổ quát, cận O(1) trung bình đúng với mọi dãy khoá, kể cả khoá do đối thủ chọn.**
+
+Mục 11.1 trình bày **bảng địa chỉ trực tiếp** (direct-address table): mảng T[0..m − 1] với mỗi ô ứng với một khoá của vũ trụ U = {0, 1, …, m − 1}; ba phép toán từ điển đều O(1) trong trường hợp xấu nhất, nhưng chỉ dùng được khi U nhỏ.
+
+Mục 11.2 giới thiệu **bảng băm** (hash table): phần tử khoá k được đặt ở ô h(k), với h : U → {0, 1, …, m − 1} và m nhỏ hơn nhiều so với |U|; vì |U| > m nên **va chạm** (collision) là không tránh khỏi; cách giải quyết đơn giản nhất là **nối chuỗi** (chaining) — mỗi ô trỏ tới một danh sách liên kết.
+
+Với **hệ số tải** (load factor) α = n/m và giả định **băm đều đơn giản** (simple uniform hashing), tìm kiếm thất bại và tìm kiếm thành công đều tốn thời gian trung bình Θ(1 + α) (Định lý 11.1, 11.2).
+
+Mục 11.3 bàn về hàm băm: một hàm tốt xấp xỉ giả định băm đều đơn giản; **phương pháp chia** h(k) = k mod m (nên chọn m là số nguyên tố không gần luỹ thừa của 2), **phương pháp nhân** h(k) = ⌊m (kA mod 1)⌋ (m có thể là luỹ thừa của 2, Knuth gợi ý A ≈ (√5 − 1)/2), và ★**băm phổ quát** (universal hashing): chọn ngẫu nhiên h từ một lớp ℋ mà với mọi cặp khoá khác nhau, xác suất va chạm ≤ 1/m; lớp ℋ_pm = {h_ab(k) = ((ak + b) mod p) mod m} là phổ quát (Định lý 11.5), và với nó mọi dãy n phép toán chứa O(m) lần INSERT tốn thời gian kỳ vọng Θ(n) (Hệ quả 11.4).
+
+Mục 11.4 trình bày **địa chỉ mở** (open addressing): mọi phần tử nằm ngay trong bảng, khi chèn ta **dò** (probe) lần lượt các ô theo một **dãy dò** phụ thuộc khoá; ba cách sinh dãy dò là **dò tuyến tính** (bị **tụ cụm sơ cấp**), **dò bậc hai** (bị **tụ cụm thứ cấp**) và **băm kép** (tốt nhất); dưới giả định **băm đều** (uniform hashing), tìm kiếm thất bại cần trung bình tối đa 1/(1 − α) lần dò (Định lý 11.6) và tìm kiếm thành công tối đa (1/α) ln(1/(1 − α)) lần dò (Định lý 11.8).
+
+Mục ★11.5 trình bày **băm hoàn hảo** (perfect hashing) cho tập khoá tĩnh: hai tầng băm phổ quát, tầng hai có bảng S_j kích thước m_j = n_j² nên không có va chạm, tìm kiếm tốn O(1) trong trường hợp xấu nhất, và tổng bộ nhớ kỳ vọng nhỏ hơn 2n ô cho các bảng tầng hai (Hệ quả 11.11).
 
 ## Sơ đồ
 
@@ -328,8 +331,12 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao cài đặt từ điển (INSERT, SEARCH, DELETE) trong thời gian O(1) khi vũ trụ khoá rất lớn?** Nếu vũ trụ U = {0, …, m − 1} nhỏ, dùng bảng địa chỉ trực tiếp: phần tử khoá k nằm ở ô T[k], cả ba phép toán O(1) trong trường hợp xấu nhất. Khi U lớn (ví dụ mọi chuỗi ký tự), dùng bảng băm m ô: phần tử khoá k nằm ở ô h(k). Hai khoá có thể va chạm (vì |U| > m), nên mỗi ô trỏ tới một danh sách liên kết đôi (nối chuỗi), hoặc khoá được đặt vào ô rỗng đầu tiên trên một dãy dò (địa chỉ mở). Với nối chuỗi và giả định băm đều đơn giản, tìm kiếm tốn Θ(1 + α), α = n/m; chọn m tỷ lệ với n thì α = O(1). Ví dụ: 2000 chuỗi trong bảng m = 701 ô, α ≈ 2,85, mỗi lần tìm thất bại xem trung bình khoảng 3 phần tử.
-2. **Chọn hàm băm thế nào, và có bảo đảm gì khi đối thủ chọn khoá?** Phương pháp chia h(k) = k mod m với m nguyên tố xa luỹ thừa của 2; phương pháp nhân h(k) = ⌊m (kA mod 1)⌋ với A ≈ 0,618 và m = 2^p, cài bằng một phép nhân số nguyên rồi lấy p bit cao của nửa thấp tích. Nhưng mọi hàm cố định đều có n khoá cùng rơi vào một ô. Băm phổ quát chọn ngẫu nhiên h từ một lớp mà mọi cặp khoá khác nhau va chạm với xác suất ≤ 1/m; lớp h_ab(k) = ((ak + b) mod p) mod m là phổ quát. Khi đó, với **mọi** tập khoá, độ dài kỳ vọng của chuỗi chứa khoá k là ≤ 1 + α, và một dãy n phép toán (O(m) lần chèn) tốn thời gian kỳ vọng Θ(n).
+1. **Làm sao cài đặt từ điển (INSERT, SEARCH, DELETE) trong thời gian O(1) khi vũ trụ khoá rất lớn?** Nếu vũ trụ U = {0, …, m − 1} nhỏ, dùng bảng địa chỉ trực tiếp: phần tử khoá k nằm ở ô T[k], cả ba phép toán O(1) trong trường hợp xấu nhất. Khi U lớn (ví dụ mọi chuỗi ký tự), dùng bảng băm m ô: phần tử khoá k nằm ở ô h(k). Hai khoá có thể va chạm (vì |U| > m), nên mỗi ô trỏ tới một danh sách liên kết đôi (nối chuỗi), hoặc khoá được đặt vào ô rỗng đầu tiên trên một dãy dò (địa chỉ mở).
+
+   Với nối chuỗi và giả định băm đều đơn giản, tìm kiếm tốn Θ(1 + α), α = n/m; chọn m tỷ lệ với n thì α = O(1). Ví dụ: 2000 chuỗi trong bảng m = 701 ô, α ≈ 2,85, mỗi lần tìm thất bại xem trung bình khoảng 3 phần tử.
+2. **Chọn hàm băm thế nào, và có bảo đảm gì khi đối thủ chọn khoá?** Phương pháp chia h(k) = k mod m với m nguyên tố xa luỹ thừa của 2; phương pháp nhân h(k) = ⌊m (kA mod 1)⌋ với A ≈ 0,618 và m = 2^p, cài bằng một phép nhân số nguyên rồi lấy p bit cao của nửa thấp tích. Nhưng mọi hàm cố định đều có n khoá cùng rơi vào một ô.
+
+   Băm phổ quát chọn ngẫu nhiên h từ một lớp mà mọi cặp khoá khác nhau va chạm với xác suất ≤ 1/m; lớp h_ab(k) = ((ak + b) mod p) mod m là phổ quát. Khi đó, với **mọi** tập khoá, độ dài kỳ vọng của chuỗi chứa khoá k là ≤ 1 + α, và một dãy n phép toán (O(m) lần chèn) tốn thời gian kỳ vọng Θ(n).
 3. **Địa chỉ mở và băm hoàn hảo cho cận nào?** Với địa chỉ mở dưới giả định băm đều, tìm kiếm thất bại (và chèn) tốn ≤ 1/(1 − α) lần dò kỳ vọng, tìm kiếm thành công ≤ (1/α) ln(1/(1 − α)): bảng đầy 50% thì ≤ 2 và < 1,387 lần dò; đầy 90% thì ≤ 10 và < 2,559 lần dò. Với tập khoá tĩnh, băm hoàn hảo hai tầng (bảng tầng một n ô, bảng tầng hai cỡ n_j²) tìm kiếm O(1) trong trường hợp xấu nhất, tổng bộ nhớ kỳ vọng cho các bảng phụ nhỏ hơn 2n, và với xác suất > 1/2 một hàm ngẫu nhiên dùng dưới 4n ô.
 
 ## Khái niệm cần biết
@@ -367,7 +374,9 @@ Nhiều ứng dụng cần một tập động chỉ hỗ trợ ba phép toán t
 
 Bảng băm tổng quát hoá khái niệm đơn giản hơn là mảng thông thường. Định địa chỉ trực tiếp vào mảng tận dụng khả năng xem một vị trí bất kỳ của mảng trong O(1) (Mục 11.1). Ta dùng được địa chỉ trực tiếp khi có thể cấp phát một mảng có một vị trí cho **mọi** khoá có thể có.
 
-Khi số khoá thực sự được lưu nhỏ so với tổng số khoá có thể có, bảng băm trở thành lựa chọn hiệu quả thay cho địa chỉ trực tiếp, vì bảng băm thường dùng một mảng có kích thước tỷ lệ với số khoá thực sự lưu. Thay vì dùng khoá làm chỉ số mảng trực tiếp, chỉ số mảng được **tính** từ khoá. Mục 11.2 trình bày ý chính, tập trung vào "nối chuỗi" để xử lý "va chạm" (nhiều khoá ứng với cùng một chỉ số mảng). Mục 11.3 mô tả cách tính chỉ số từ khoá bằng hàm băm, với vài biến thể và phân tích. Mục 11.4 xét "địa chỉ mở", một cách khác để xử lý va chạm. Kết luận chung: băm là kỹ thuật cực kỳ hiệu quả và thực dụng, các phép toán từ điển cơ bản chỉ tốn O(1) trung bình. Mục 11.5 giải thích "băm hoàn hảo" có thể hỗ trợ tìm kiếm trong O(1) **trong trường hợp xấu nhất** khi tập khoá là tĩnh (không bao giờ thay đổi sau khi lưu).
+Khi số khoá thực sự được lưu nhỏ so với tổng số khoá có thể có, bảng băm trở thành lựa chọn hiệu quả thay cho địa chỉ trực tiếp, vì bảng băm thường dùng một mảng có kích thước tỷ lệ với số khoá thực sự lưu. Thay vì dùng khoá làm chỉ số mảng trực tiếp, chỉ số mảng được **tính** từ khoá.
+
+Mục 11.2 trình bày ý chính, tập trung vào "nối chuỗi" để xử lý "va chạm" (nhiều khoá ứng với cùng một chỉ số mảng). Mục 11.3 mô tả cách tính chỉ số từ khoá bằng hàm băm, với vài biến thể và phân tích. Mục 11.4 xét "địa chỉ mở", một cách khác để xử lý va chạm. Kết luận chung: băm là kỹ thuật cực kỳ hiệu quả và thực dụng, các phép toán từ điển cơ bản chỉ tốn O(1) trung bình. Mục 11.5 giải thích "băm hoàn hảo" có thể hỗ trợ tìm kiếm trong O(1) **trong trường hợp xấu nhất** khi tập khoá là tĩnh (không bao giờ thay đổi sau khi lưu).
 
 ### 2. Bảng địa chỉ trực tiếp (11.1 Direct-address tables, trang 254–255)
 
@@ -448,7 +457,9 @@ Khoá k₂ và k₅ ánh xạ vào cùng một ô, nên chúng **va chạm**.
 
 **Va chạm.** Có một trở ngại: hai khoá có thể băm vào cùng một ô. Tình huống này gọi là **va chạm** (collision). May mắn là có những kỹ thuật hiệu quả để giải quyết xung đột do va chạm gây ra.
 
-Lý tưởng nhất là tránh va chạm hoàn toàn. Ta có thể thử đạt điều đó bằng cách chọn hàm băm h phù hợp. Một ý là làm cho h trông "ngẫu nhiên", nhờ đó tránh va chạm hoặc ít ra giảm số va chạm. Chính từ "to hash" (băm), gợi hình ảnh trộn và băm nhỏ ngẫu nhiên, thể hiện tinh thần cách làm này. (Dĩ nhiên hàm băm h phải tất định: một đầu vào k cho trước luôn phải cho cùng đầu ra h(k).) Tuy nhiên, vì |U| > m, chắc chắn có ít nhất hai khoá cùng giá trị băm; tránh va chạm hoàn toàn là không thể. Vì vậy, dù một hàm băm được thiết kế tốt, trông "ngẫu nhiên", có thể giảm số va chạm, ta vẫn cần một phương pháp giải quyết những va chạm xảy ra. Phần còn lại của mục này trình bày kỹ thuật đơn giản nhất, gọi là nối chuỗi; Mục 11.4 giới thiệu phương pháp thay thế, gọi là địa chỉ mở.
+Lý tưởng nhất là tránh va chạm hoàn toàn. Ta có thể thử đạt điều đó bằng cách chọn hàm băm h phù hợp. Một ý là làm cho h trông "ngẫu nhiên", nhờ đó tránh va chạm hoặc ít ra giảm số va chạm. Chính từ "to hash" (băm), gợi hình ảnh trộn và băm nhỏ ngẫu nhiên, thể hiện tinh thần cách làm này. (Dĩ nhiên hàm băm h phải tất định: một đầu vào k cho trước luôn phải cho cùng đầu ra h(k).)
+
+Tuy nhiên, vì |U| > m, chắc chắn có ít nhất hai khoá cùng giá trị băm; tránh va chạm hoàn toàn là không thể. Vì vậy, dù một hàm băm được thiết kế tốt, trông "ngẫu nhiên", có thể giảm số va chạm, ta vẫn cần một phương pháp giải quyết những va chạm xảy ra. Phần còn lại của mục này trình bày kỹ thuật đơn giản nhất, gọi là nối chuỗi; Mục 11.4 giới thiệu phương pháp thay thế, gọi là địa chỉ mở.
 
 #### Giải quyết va chạm bằng nối chuỗi (Collision resolution by chaining)
 
@@ -678,7 +689,9 @@ Ví dụ thêm (người tổng hợp, dữ liệu của Bài tập 11.3-4): m =
 
 Nếu một đối thủ ác ý chọn các khoá để băm bằng một hàm băm cố định nào đó, đối thủ có thể chọn n khoá cùng băm vào một ô, làm thời gian truy xuất trung bình là Θ(n). Mọi hàm băm cố định đều dễ bị trường hợp xấu nhất tệ hại này; cách hiệu quả duy nhất để cải thiện là chọn hàm băm **ngẫu nhiên** theo cách **độc lập** với các khoá thực sự sẽ được lưu. Cách làm này, gọi là **băm phổ quát** (universal hashing), cho hiệu năng trung bình tốt chứng minh được, bất kể đối thủ chọn khoá nào.
 
-Trong băm phổ quát, lúc bắt đầu chạy, ta chọn hàm băm ngẫu nhiên từ một lớp hàm được thiết kế cẩn thận. Như với quicksort, ngẫu nhiên bảo đảm không đầu vào nào luôn gây ra trường hợp xấu nhất. Vì hàm băm được chọn ngẫu nhiên, thuật toán có thể hành xử khác nhau ở mỗi lần chạy, kể cả với cùng đầu vào, và bảo đảm hiệu năng trung bình tốt với mọi đầu vào. Trở lại ví dụ bảng ký hiệu của trình biên dịch: lựa chọn tên định danh của lập trình viên không còn có thể gây hiệu năng băm tệ một cách nhất quán. Hiệu năng tệ chỉ xảy ra khi trình biên dịch chọn trúng một hàm băm ngẫu nhiên làm tập tên định danh băm tệ, nhưng xác suất đó nhỏ và như nhau với mọi tập tên định danh cùng kích thước.
+Trong băm phổ quát, lúc bắt đầu chạy, ta chọn hàm băm ngẫu nhiên từ một lớp hàm được thiết kế cẩn thận. Như với quicksort, ngẫu nhiên bảo đảm không đầu vào nào luôn gây ra trường hợp xấu nhất. Vì hàm băm được chọn ngẫu nhiên, thuật toán có thể hành xử khác nhau ở mỗi lần chạy, kể cả với cùng đầu vào, và bảo đảm hiệu năng trung bình tốt với mọi đầu vào.
+
+Trở lại ví dụ bảng ký hiệu của trình biên dịch: lựa chọn tên định danh của lập trình viên không còn có thể gây hiệu năng băm tệ một cách nhất quán. Hiệu năng tệ chỉ xảy ra khi trình biên dịch chọn trúng một hàm băm ngẫu nhiên làm tập tên định danh băm tệ, nhưng xác suất đó nhỏ và như nhau với mọi tập tên định danh cùng kích thước.
 
 **Định nghĩa.** Gọi ℋ là một tập hữu hạn các hàm băm ánh xạ vũ trụ khoá U vào miền {0, 1, …, m − 1}. Tập như vậy gọi là **phổ quát** (universal) nếu với mỗi cặp khoá khác nhau k, l ∈ U, số hàm băm h ∈ ℋ có h(k) = h(l) không quá |ℋ|/m. Nói cách khác, với hàm băm chọn ngẫu nhiên từ ℋ, xác suất va chạm giữa hai khoá khác nhau k và l không quá xác suất 1/m của va chạm nếu h(k) và h(l) được chọn ngẫu nhiên, độc lập từ tập {0, 1, …, m − 1}.
 
@@ -831,13 +844,15 @@ HASH-SEARCH(T, k)
 8  return NIL
 ```
 
-**Xoá.** Xoá khỏi bảng địa chỉ mở là khó. Khi xoá một khoá khỏi ô i, ta không thể đơn giản đánh dấu ô đó rỗng bằng cách ghi NIL. Nếu làm vậy, có thể không tìm lại được một khoá k nào đó mà trong lúc chèn k ta đã dò qua ô i và thấy nó bị chiếm. Có thể giải quyết bằng cách đánh dấu ô, ghi vào đó giá trị đặc biệt **DELETED** thay cho NIL. Khi đó sửa HASH-INSERT để coi ô như vậy là rỗng, nhờ đó chèn được khoá mới vào. Không cần sửa HASH-SEARCH, vì nó sẽ đi qua các giá trị DELETED khi tìm kiếm. Tuy nhiên khi dùng giá trị DELETED, thời gian tìm kiếm không còn phụ thuộc vào hệ số tải α, và vì lý do này nối chuỗi thường được chọn làm kỹ thuật giải quyết va chạm khi phải xoá khoá.
+**Xoá.** Xoá khỏi bảng địa chỉ mở là khó. Khi xoá một khoá khỏi ô i, ta không thể đơn giản đánh dấu ô đó rỗng bằng cách ghi NIL. Nếu làm vậy, có thể không tìm lại được một khoá k nào đó mà trong lúc chèn k ta đã dò qua ô i và thấy nó bị chiếm.
+
+Có thể giải quyết bằng cách đánh dấu ô, ghi vào đó giá trị đặc biệt **DELETED** thay cho NIL. Khi đó sửa HASH-INSERT để coi ô như vậy là rỗng, nhờ đó chèn được khoá mới vào. Không cần sửa HASH-SEARCH, vì nó sẽ đi qua các giá trị DELETED khi tìm kiếm. Tuy nhiên khi dùng giá trị DELETED, thời gian tìm kiếm không còn phụ thuộc vào hệ số tải α, và vì lý do này nối chuỗi thường được chọn làm kỹ thuật giải quyết va chạm khi phải xoá khoá.
 
 Ví dụ (người tổng hợp): m = 11, dò tuyến tính với h′(k) = k. Chèn 4 (ô 4), rồi 15 (ô 4 bị chiếm, vào ô 5). Nếu xoá 4 bằng cách ghi T[4] = NIL, thì HASH-SEARCH(T, 15) dò ô 4, thấy NIL và dừng, trả về NIL — sai. Nếu ghi T[4] = DELETED, tìm kiếm dò ô 4 (DELETED ≠ 15 và ≠ NIL), đi tiếp sang ô 5 và tìm thấy 15. Nhưng nếu chèn rồi xoá nhiều lần, bảng đầy dần các ô DELETED: số khoá thực n nhỏ (α nhỏ) mà tìm kiếm thất bại vẫn phải dò rất nhiều ô — đó là ý "thời gian tìm không còn phụ thuộc α".
 
 **Giả định băm đều.** Trong phân tích, ta giả định **băm đều** (uniform hashing): dãy dò của mỗi khoá có xác suất như nhau là bất kỳ hoán vị nào trong m! hoán vị của ⟨0, 1, …, m − 1⟩. Băm đều mở rộng khái niệm băm đều đơn giản ở trên cho hàm băm sinh ra không chỉ một số mà cả một dãy dò. Băm đều thực sự khó cài đặt, và trong thực tế người ta dùng các xấp xỉ phù hợp (như băm kép, định nghĩa dưới đây).
 
-Ta xét ba kỹ thuật thường dùng để tính dãy dò cho địa chỉ mở: dò tuyến tính, dò bậc hai và băm kép. Các kỹ thuật này đều bảo đảm ⟨h(k, 0), …, h(k, m − 1)⟩ là hoán vị của ⟨0, …, m − 1⟩ với mỗi khoá k (với tham số chọn đúng, xem khối Lưu ý). Tuy nhiên không kỹ thuật nào thoả giả định băm đều, vì không kỹ thuật nào sinh được quá m² dãy dò khác nhau (thay vì m! mà băm đều đòi hỏi). Băm kép có nhiều dãy dò nhất và, như có thể đoán, cho kết quả tốt nhất. (So sánh của người tổng hợp: m = 11 thì m! = 39.916.800 trong khi m² = 121.)
+Ta xét ba kỹ thuật thường dùng để tính dãy dò cho địa chỉ mở: dò tuyến tính, dò bậc hai và băm kép. Các kỹ thuật này đều bảo đảm ⟨h(k, 0), …, h(k, m − 1)⟩ là hoán vị của ⟨0, …, m − 1⟩ với mỗi khoá k (với tham số chọn đúng, xem mục Lưu ý cuối chương). Tuy nhiên không kỹ thuật nào thoả giả định băm đều, vì không kỹ thuật nào sinh được quá m² dãy dò khác nhau (thay vì m! mà băm đều đòi hỏi). Băm kép có nhiều dãy dò nhất và, như có thể đoán, cho kết quả tốt nhất. (So sánh của người tổng hợp: m = 11 thì m! = 39.916.800 trong khi m² = 121.)
 
 #### Dò tuyến tính (Linear probing)
 
@@ -859,7 +874,9 @@ Dò tuyến tính dễ cài đặt, nhưng mắc vấn đề gọi là **tụ c�
 h(k, i) = (h′(k) + c₁i + c₂i²) mod m                                   (11.5)
 ```
 
-trong đó h′ là hàm băm phụ, c₁ và c₂ là các hằng số phụ dương, và i = 0, 1, …, m − 1. Vị trí dò đầu tiên là T[h′(k)]; các vị trí sau được dịch đi những khoảng phụ thuộc bậc hai vào số thứ tự lần dò i. Phương pháp này tốt hơn nhiều so với dò tuyến tính, nhưng để dùng hết bảng, các giá trị c₁, c₂ và m bị ràng buộc; Bài toán 11-3 chỉ một cách chọn. Ngoài ra, nếu hai khoá có cùng vị trí dò đầu tiên thì dãy dò của chúng giống nhau, vì h(k₁, 0) = h(k₂, 0) kéo theo h(k₁, i) = h(k₂, i). Tính chất này dẫn tới một dạng tụ cụm nhẹ hơn, gọi là **tụ cụm thứ cấp** (secondary clustering). Như dò tuyến tính, lần dò đầu quyết định cả dãy, nên chỉ có m dãy dò khác nhau được dùng.
+trong đó h′ là hàm băm phụ, c₁ và c₂ là các hằng số phụ dương, và i = 0, 1, …, m − 1. Vị trí dò đầu tiên là T[h′(k)]; các vị trí sau được dịch đi những khoảng phụ thuộc bậc hai vào số thứ tự lần dò i. Phương pháp này tốt hơn nhiều so với dò tuyến tính, nhưng để dùng hết bảng, các giá trị c₁, c₂ và m bị ràng buộc; Bài toán 11-3 chỉ một cách chọn.
+
+Ngoài ra, nếu hai khoá có cùng vị trí dò đầu tiên thì dãy dò của chúng giống nhau, vì h(k₁, 0) = h(k₂, 0) kéo theo h(k₁, i) = h(k₂, i). Tính chất này dẫn tới một dạng tụ cụm nhẹ hơn, gọi là **tụ cụm thứ cấp** (secondary clustering). Như dò tuyến tính, lần dò đầu quyết định cả dãy, nên chỉ có m dãy dò khác nhau được dùng.
 
 Ví dụ ràng buộc (người tổng hợp, dữ liệu Bài tập 11.4-1): m = 11, c₁ = 1, c₂ = 3, h′(k) = k. Dãy dò của khoá có ô đầu 0 là 0, 4, 3, 8, 8, 3, 4, 0, 2, … — lặp lại các ô cũ, không phải hoán vị của 0..10 (chẳng hạn ô 1 không bao giờ được dò trong 11 lần dò). Đây là lý do phải chọn tham số cẩn thận.
 
@@ -999,7 +1016,9 @@ Băm thường là lựa chọn tốt vì hiệu năng trung bình xuất sắc,
 
 Ta dùng hàm băm chọn từ các lớp phổ quát của Mục 11.3.3. Hàm tầng một lấy từ lớp ℋ_pm, với p là số nguyên tố lớn hơn mọi giá trị khoá như ở Mục 11.3.3. Các khoá băm vào ô j được băm lại vào bảng phụ S_j cỡ m_j bằng hàm h_j chọn từ lớp ℋ_{p,m_j}. (Chú thích của sách: khi n_j = m_j = 1, thực ra không cần hàm băm cho ô j; khi chọn hàm h_ab(k) = ((ak + b) mod p) mod m_j cho ô như vậy, ta chỉ việc dùng a = b = 0.)
 
-**Ví dụ của sách (Hình 11.6):** lưu tập K = {10, 22, 37, 40, 52, 60, 70, 72, 75}. Hàm băm ngoài là h(k) = ((ak + b) mod p) mod m với a = 3, b = 42, p = 101, m = 9. Ví dụ h(75) = ((225 + 42) mod 101) mod 9 = (267 mod 101) mod 9 = 65 mod 9 = 2, nên khoá 75 băm vào ô 2 của bảng T. Bảng phụ S_j chứa mọi khoá băm vào ô j; kích thước S_j là m_j = n_j², và hàm băm đi kèm là h_j(k) = ((a_j k + b_j) mod p) mod m_j. Vì h₂(75) = ((750 + 18) mod 101) mod 9 = (768 mod 101) mod 9 = 61 mod 9 = 7, khoá 75 được lưu ở ô 7 của bảng phụ S₂. Không có va chạm trong bảng phụ nào, nên tìm kiếm tốn thời gian hằng số trong trường hợp xấu nhất.
+**Ví dụ của sách (Hình 11.6):** lưu tập K = {10, 22, 37, 40, 52, 60, 70, 72, 75}. Hàm băm ngoài là h(k) = ((ak + b) mod p) mod m với a = 3, b = 42, p = 101, m = 9. Ví dụ h(75) = ((225 + 42) mod 101) mod 9 = (267 mod 101) mod 9 = 65 mod 9 = 2, nên khoá 75 băm vào ô 2 của bảng T.
+
+Bảng phụ S_j chứa mọi khoá băm vào ô j; kích thước S_j là m_j = n_j², và hàm băm đi kèm là h_j(k) = ((a_j k + b_j) mod p) mod m_j. Vì h₂(75) = ((750 + 18) mod 101) mod 9 = (768 mod 101) mod 9 = 61 mod 9 = 7, khoá 75 được lưu ở ô 7 của bảng phụ S₂. Không có va chạm trong bảng phụ nào, nên tìm kiếm tốn thời gian hằng số trong trường hợp xấu nhất.
 
 Nội dung Hình 11.6 vẽ lại thành bảng (mỗi ô j không rỗng của T trỏ tới một bản ghi lưu m_j, a_j, b_j rồi tới bảng S_j):
 
@@ -1160,14 +1179,20 @@ Thời gian dựng kỳ vọng O(n); bộ nhớ O(n); tìm kiếm O(1) xấu nh�
 - **11.1-1:** Tập động S được biểu diễn bằng bảng địa chỉ trực tiếp T độ dài m. Mô tả thủ tục tìm phần tử lớn nhất của S. Hiệu năng xấu nhất? *Người tổng hợp:* quét k từ m − 1 xuống 0, trả về T[k] đầu tiên khác NIL (hoặc NIL nếu S rỗng). Xấu nhất Θ(m) — khi S rỗng hoặc chỉ chứa khoá nhỏ; thời gian phụ thuộc m chứ không phụ thuộc |S|.
 - **11.1-2:** Một **vector bit** (bit vector) là mảng các bit 0 và 1; vector bit độ dài m tốn ít bộ nhớ hơn nhiều so với mảng m con trỏ. Mô tả cách dùng vector bit để biểu diễn tập động các phần tử phân biệt không có dữ liệu vệ tinh, các phép toán từ điển chạy O(1). *Người tổng hợp:* bit b[k] = 1 khi và chỉ khi k thuộc tập. SEARCH(k) trả về b[k]; INSERT(k) gán b[k] = 1; DELETE(k) gán b[k] = 0. Mỗi phép toán là một thao tác bit O(1). Ví dụ m = 10, tập {2, 3, 5, 8}: vector 0011010010.
 - **11.1-3:** Cài bảng địa chỉ trực tiếp mà khoá các phần tử không nhất thiết phân biệt và phần tử có thể có dữ liệu vệ tinh; ba phép toán INSERT, DELETE, SEARCH đều O(1). (Nhớ rằng DELETE nhận con trỏ tới đối tượng cần xoá, không nhận khoá.) *Người tổng hợp:* ô T[k] trỏ tới một danh sách liên kết đôi chứa mọi phần tử khoá k. INSERT chèn vào đầu danh sách T[x.key]; DELETE gỡ x khỏi danh sách nhờ con trỏ *prev*, *next* (cập nhật T[x.key] nếu x là đầu); SEARCH(k) trả về phần tử đầu của T[k] (bất kỳ phần tử nào có khoá k).
-- **11.1-4 (★):** Cài từ điển bằng địa chỉ trực tiếp trên một mảng **khổng lồ**. Lúc đầu các ô có thể chứa rác, và khởi tạo toàn bộ mảng là không thực tế vì quá lớn. Mỗi đối tượng lưu dùng O(1) bộ nhớ; SEARCH, INSERT, DELETE mỗi phép O(1); khởi tạo cấu trúc O(1). (Gợi ý: dùng thêm một mảng hoạt động như ngăn xếp, kích thước bằng số khoá thực sự lưu, để xác định một ô của mảng khổng lồ có hợp lệ hay không.) *Lời giải của người tổng hợp:* mảng khổng lồ T, ngăn xếp S[1..] với chỉ số đỉnh top (khởi tạo top = 0 — O(1)). Ô T[k] được coi là **hợp lệ** khi và chỉ khi 1 ≤ T[k] ≤ top và S[T[k]] = k (rác trong T[k] không thể vượt qua cả hai kiểm tra vì S[1..top] chỉ chứa khoá thật, mỗi khoá trỏ đúng một vị trí). SEARCH(k): kiểm tra tính hợp lệ, nếu hợp lệ trả về đối tượng lưu kèm S[T[k]]. INSERT(x): top = top + 1; S[top] = x.key (kèm con trỏ tới x); T[x.key] = top. DELETE(x): đặt i = T[x.key]; chuyển phần tử đỉnh vào chỗ trống: S[i] = S[top], T[S[i]] = i; top = top − 1. Mọi phép đều O(1).
+- **11.1-4 (★):** Cài từ điển bằng địa chỉ trực tiếp trên một mảng **khổng lồ**. Lúc đầu các ô có thể chứa rác, và khởi tạo toàn bộ mảng là không thực tế vì quá lớn. Mỗi đối tượng lưu dùng O(1) bộ nhớ; SEARCH, INSERT, DELETE mỗi phép O(1); khởi tạo cấu trúc O(1). (Gợi ý: dùng thêm một mảng hoạt động như ngăn xếp, kích thước bằng số khoá thực sự lưu, để xác định một ô của mảng khổng lồ có hợp lệ hay không.)
+
+  *Lời giải của người tổng hợp:* mảng khổng lồ T, ngăn xếp S[1..] với chỉ số đỉnh top (khởi tạo top = 0 — O(1)). Ô T[k] được coi là **hợp lệ** khi và chỉ khi 1 ≤ T[k] ≤ top và S[T[k]] = k (rác trong T[k] không thể vượt qua cả hai kiểm tra vì S[1..top] chỉ chứa khoá thật, mỗi khoá trỏ đúng một vị trí). SEARCH(k): kiểm tra tính hợp lệ, nếu hợp lệ trả về đối tượng lưu kèm S[T[k]]. INSERT(x): top = top + 1; S[top] = x.key (kèm con trỏ tới x); T[x.key] = top. DELETE(x): đặt i = T[x.key]; chuyển phần tử đỉnh vào chỗ trống: S[i] = S[top], T[S[i]] = i; top = top − 1. Mọi phép đều O(1).
 
 ### Bài tập Mục 11.2 (trang 261)
 
 - **11.2-1:** Dùng hàm băm h băm n khoá phân biệt vào mảng T độ dài m. Giả định băm đều đơn giản, số va chạm kỳ vọng là bao nhiêu — chính xác hơn, kỳ vọng của lực lượng tập {{k, l} : k ≠ l và h(k) = h(l)}? *Người tổng hợp:* tổng của C(n, 2) biến chỉ thị, mỗi biến kỳ vọng 1/m: E = n(n − 1)/(2m). Ví dụ n = 9, m = 9: 36/9 = 4 cặp.
 - **11.2-2:** Minh hoạ việc chèn các khoá 5, 28, 19, 15, 20, 33, 12, 17, 10 vào bảng băm nối chuỗi 9 ô với h(k) = k mod 9. *Lời giải:* đã trình bày ở Nội dung chi tiết, Mục 3: ô 1 chứa 10 → 19 → 28; ô 2: 20; ô 3: 12; ô 5: 5; ô 6: 33 → 15; ô 8: 17; các ô 0, 4, 7 rỗng.
 - **11.2-3:** Giáo sư Marley giả thuyết rằng giữ mỗi danh sách ở thứ tự đã sắp xếp sẽ cải thiện hiệu năng đáng kể. Sửa đổi này ảnh hưởng thế nào tới thời gian tìm thành công, tìm thất bại, chèn và xoá? *Người tổng hợp:* tìm thất bại có thể dừng sớm khi gặp khoá lớn hơn k (khoảng một nửa chuỗi), nhưng vẫn Θ(1 + α); tìm thành công không đổi, Θ(1 + α); chèn từ O(1) thành Θ(1 + α) vì phải tìm vị trí; xoá vẫn O(1) với danh sách đôi. Không có cải thiện tiệm cận — giả thuyết sai.
-- **11.2-4:** Đề xuất cách cấp phát và giải phóng bộ nhớ cho các phần tử ngay trong bảng băm bằng cách nối mọi ô chưa dùng thành một danh sách tự do. Giả sử một ô lưu được một cờ và hoặc một phần tử cộng một con trỏ, hoặc hai con trỏ. Mọi phép toán từ điển và danh sách tự do phải chạy O(1) kỳ vọng. Danh sách tự do cần liên kết đôi hay liên kết đơn là đủ? *Người tổng hợp:* cờ báo ô đang "tự do" hay "đang dùng". Ô tự do dùng hai con trỏ để nằm trong danh sách tự do liên kết đôi; ô đang dùng chứa một phần tử và con trỏ *next* tới phần tử kế trong chuỗi của nó. Chèn khoá k: nếu ô h(k) tự do, gỡ nó khỏi danh sách tự do (cần liên kết **đôi** để gỡ một ô ở giữa trong O(1)) và đặt k vào, chuỗi dài 1. Nếu ô h(k) đang chứa phần tử của chính chuỗi h(k), lấy một ô tự do bất kỳ (đầu danh sách tự do) đặt k vào và nối vào chuỗi. Nếu ô h(k) đang bị một phần tử của **chuỗi khác** mượn, dời phần tử đó sang một ô tự do khác (cần tìm phần tử đứng trước nó trong chuỗi của nó — O(1) kỳ vọng vì chuỗi dài O(1 + α)), rồi đặt k vào ô h(k). Xoá: gỡ khỏi chuỗi, trả ô về danh sách tự do. Vậy danh sách tự do cần liên kết đôi.
+- **11.2-4:** Đề xuất cách cấp phát và giải phóng bộ nhớ cho các phần tử ngay trong bảng băm bằng cách nối mọi ô chưa dùng thành một danh sách tự do. Giả sử một ô lưu được một cờ và hoặc một phần tử cộng một con trỏ, hoặc hai con trỏ. Mọi phép toán từ điển và danh sách tự do phải chạy O(1) kỳ vọng. Danh sách tự do cần liên kết đôi hay liên kết đơn là đủ?
+
+  *Người tổng hợp:* cờ báo ô đang "tự do" hay "đang dùng". Ô tự do dùng hai con trỏ để nằm trong danh sách tự do liên kết đôi; ô đang dùng chứa một phần tử và con trỏ *next* tới phần tử kế trong chuỗi của nó. Chèn khoá k: nếu ô h(k) tự do, gỡ nó khỏi danh sách tự do (cần liên kết **đôi** để gỡ một ô ở giữa trong O(1)) và đặt k vào, chuỗi dài 1. Nếu ô h(k) đang chứa phần tử của chính chuỗi h(k), lấy một ô tự do bất kỳ (đầu danh sách tự do) đặt k vào và nối vào chuỗi.
+
+  Nếu ô h(k) đang bị một phần tử của **chuỗi khác** mượn, dời phần tử đó sang một ô tự do khác (cần tìm phần tử đứng trước nó trong chuỗi của nó — O(1) kỳ vọng vì chuỗi dài O(1 + α)), rồi đặt k vào ô h(k). Xoá: gỡ khỏi chuỗi, trả ô về danh sách tự do. Vậy danh sách tự do cần liên kết đôi.
 - **11.2-5:** Lưu tập n khoá vào bảng băm cỡ m. Chứng minh nếu khoá lấy từ vũ trụ U với |U| > nm, thì U có một tập con cỡ n gồm các khoá cùng băm vào một ô, nên thời gian tìm xấu nhất của nối chuỗi là Θ(n). *Người tổng hợp:* nguyên lý chuồng bồ câu — nếu mỗi ô có không quá n khoá của U băm vào thì |U| ≤ nm, mâu thuẫn; vậy có ô nhận ít nhất n + 1 khoá, chọn n khoá trong đó.
 - **11.2-6:** Đã lưu n khoá vào bảng băm cỡ m bằng nối chuỗi, biết độ dài mỗi chuỗi kể cả độ dài L của chuỗi dài nhất. Mô tả thủ tục chọn ngẫu nhiên đều một khoá trong bảng và trả về trong thời gian kỳ vọng O(L · (1 + 1/α)). *Người tổng hợp (phương pháp loại bỏ):* lặp: chọn ngẫu nhiên đều ô j ∈ {0..m − 1} và chỉ số t ∈ {1..L}; nếu t ≤ n_j thì trả về phần tử thứ t của chuỗi j (duyệt O(L)), ngược lại thử lại. Mỗi cặp (j, t) hợp lệ ứng với đúng một khoá, nên khoá trả về đều. Xác suất thành công mỗi lần thử là n/(mL) = α/L, số lần thử kỳ vọng L/α, mỗi lần O(1); cộng một lần duyệt O(L): tổng O(L/α + L) = O(L(1 + 1/α)).
 
@@ -1177,7 +1202,9 @@ Thời gian dựng kỳ vọng O(n); bộ nhớ O(n); tìm kiếm O(1) xấu nh�
 - **11.3-2:** Băm chuỗi r ký tự vào m ô bằng cách coi nó là số cơ số 128 rồi dùng phương pháp chia. Số m vừa một từ máy 32 bit, nhưng chuỗi coi như số cơ số 128 chiếm nhiều từ. Làm sao tính giá trị băm mà chỉ dùng hằng số từ bộ nhớ ngoài chính chuỗi? *Người tổng hợp:* quy tắc Horner với phép lấy dư ở mỗi bước: h = 0; với mỗi ký tự c từ trái sang phải: h = (h · 128 + c) mod m. Đúng vì (a · 128 + c) mod m = ((a mod m) · 128 + c) mod m; giá trị trung gian < 128m, vừa vài từ.
 - **11.3-3:** Xét biến thể phương pháp chia h(k) = k mod m với m = 2^p − 1 và k là chuỗi ký tự diễn giải trong cơ số 2^p. Chứng minh nếu chuỗi x có được từ chuỗi y bằng hoán vị các ký tự thì x và y cùng giá trị băm. Cho ví dụ ứng dụng mà tính chất này không mong muốn. *Người tổng hợp:* 2^p ≡ 1 (mod 2^p − 1), nên k = Σ cᵢ · 2^(pi) ≡ Σ cᵢ (mod m): giá trị băm chỉ phụ thuộc tổng mã ký tự, không phụ thuộc thứ tự. Ví dụ không mong muốn: từ điển chứa nhiều từ đảo chữ ("stop", "pots", "tops", "spot", "opts" va chạm hết), hay khoá là tổ hợp toạ độ/ngày tháng ("12-03" và "03-12").
 - **11.3-4:** Bảng cỡ m = 1000, h(k) = ⌊m (kA mod 1)⌋ với A = (√5 − 1)/2. Tính vị trí của các khoá 61, 62, 63, 64, 65. *Lời giải người tổng hợp (tính lại):* 700, 318, 936, 554, 172. (Ví dụ 63A ≈ 38,9361 → 936; 65A ≈ 40,1722 → 172.)
-- **11.3-5 (★):** Họ ℋ các hàm từ tập hữu hạn U vào tập hữu hạn B gọi là **ε-phổ quát** nếu với mọi cặp phần tử khác nhau k, l ∈ U, Pr{h(k) = h(l)} ≤ ε, xác suất lấy theo h chọn ngẫu nhiên từ ℋ. Chứng minh họ ε-phổ quát phải có ε ≥ 1/|B| − 1/|U|. *Hướng giải của người tổng hợp:* với một h cố định, gọi u_b = |h⁻¹(b)|; số cặp có thứ tự (k, l), k ≠ l, va chạm là Σ_b u_b(u_b − 1) = Σ u_b² − |U| ≥ |U|²/|B| − |U| (bất đẳng thức Cauchy–Schwarz, vì Σ u_b = |U|). Lấy trung bình theo h: tổng xác suất va chạm trên |U|(|U| − 1) cặp có thứ tự ≥ |U|²/|B| − |U|, nên có cặp với xác suất ≥ (|U|/|B| − 1)/(|U| − 1) = (|U| − |B|)/(|B|(|U| − 1)) ≥ (|U| − |B|)/(|B||U|) = 1/|B| − 1/|U|.
+- **11.3-5 (★):** Họ ℋ các hàm từ tập hữu hạn U vào tập hữu hạn B gọi là **ε-phổ quát** nếu với mọi cặp phần tử khác nhau k, l ∈ U, Pr{h(k) = h(l)} ≤ ε, xác suất lấy theo h chọn ngẫu nhiên từ ℋ. Chứng minh họ ε-phổ quát phải có ε ≥ 1/|B| − 1/|U|.
+
+  *Hướng giải của người tổng hợp:* với một h cố định, gọi u_b = |h⁻¹(b)|; số cặp có thứ tự (k, l), k ≠ l, va chạm là Σ_b u_b(u_b − 1) = Σ u_b² − |U| ≥ |U|²/|B| − |U| (bất đẳng thức Cauchy–Schwarz, vì Σ u_b = |U|). Lấy trung bình theo h: tổng xác suất va chạm trên |U|(|U| − 1) cặp có thứ tự ≥ |U|²/|B| − |U|, nên có cặp với xác suất ≥ (|U|/|B| − 1)/(|U| − 1) = (|U| − |B|)/(|B|(|U| − 1)) ≥ (|U| − |B|)/(|B||U|) = 1/|B| − 1/|U|.
 - **11.3-6 (★):** U là tập các bộ n giá trị thuộc ℤ_p, B = ℤ_p, p nguyên tố. Với b ∈ ℤ_p định nghĩa h_b(⟨a₀, a₁, …, a_{n−1}⟩) = (Σⱼ₌₀ⁿ⁻¹ a_j b^j) mod p, và ℋ = {h_b : b ∈ ℤ_p}. Lập luận ℋ là ((n − 1)/p)-phổ quát theo định nghĩa ở 11.3-5. (Gợi ý: Bài tập 31.4-4.) *Người tổng hợp:* với hai bộ khác nhau x, y, h_b(x) = h_b(y) khi và chỉ khi b là nghiệm của đa thức Σ (x_j − y_j) z^j modulo p — một đa thức khác 0 bậc ≤ n − 1, nên có không quá n − 1 nghiệm trong ℤ_p. Do đó Pr ≤ (n − 1)/p.
 
 ### Bài tập Mục 11.4 (trang 277)
@@ -1226,7 +1253,9 @@ Thời gian dựng kỳ vọng O(n); bộ nhớ O(n); tìm kiếm O(1) xấu nh�
   ```
   HASH-SEARCH giữ nguyên: DELETED khác k và khác NIL nên vòng lặp đi qua nó. (Lưu ý của người tổng hợp: nếu cho phép chèn khoá đã có, HASH-INSERT mới có thể đặt bản thứ hai vào một ô DELETED đứng trước bản cũ; muốn tránh thì tìm trước khi chèn.)
 - **11.4-3:** Bảng địa chỉ mở với băm đều. Cho cận trên số lần dò kỳ vọng của tìm thất bại và tìm thành công khi hệ số tải là 3/4 và 7/8. *Người tổng hợp:* α = 3/4: thất bại ≤ 4, thành công ≤ (4/3) ln 4 ≈ 1,848. α = 7/8: thất bại ≤ 8, thành công ≤ (8/7) ln 8 ≈ 2,377.
-- **11.4-4 (★):** Dùng băm kép h(k, i) = (h₁(k) + i·h₂(k)) mod m. Chứng minh nếu m và h₂(k) có ước chung lớn nhất d ≥ 1 với một khoá k nào đó, thì một lần tìm thất bại khoá k xét (1/d) bảng trước khi quay về ô h₁(k). Vậy khi d = 1 (m và h₂(k) nguyên tố cùng nhau), tìm kiếm có thể xét toàn bộ bảng. (Gợi ý: Chương 31.) *Người tổng hợp:* h(k, i) = h(k, i′) khi và chỉ khi (i − i′)·h₂(k) ≡ 0 (mod m), tức (i − i′)·(h₂(k)/d) ≡ 0 (mod m/d); vì h₂(k)/d nguyên tố cùng nhau với m/d, điều này tương đương i ≡ i′ (mod m/d). Vậy dãy dò lặp với chu kỳ đúng m/d: xét m/d ô phân biệt, tức 1/d bảng, rồi quay về h₁(k). Ví dụ m = 12, h₂(k) = 4, d = 4: chỉ xét 3 ô.
+- **11.4-4 (★):** Dùng băm kép h(k, i) = (h₁(k) + i·h₂(k)) mod m. Chứng minh nếu m và h₂(k) có ước chung lớn nhất d ≥ 1 với một khoá k nào đó, thì một lần tìm thất bại khoá k xét (1/d) bảng trước khi quay về ô h₁(k). Vậy khi d = 1 (m và h₂(k) nguyên tố cùng nhau), tìm kiếm có thể xét toàn bộ bảng. (Gợi ý: Chương 31.)
+
+  *Người tổng hợp:* h(k, i) = h(k, i′) khi và chỉ khi (i − i′)·h₂(k) ≡ 0 (mod m), tức (i − i′)·(h₂(k)/d) ≡ 0 (mod m/d); vì h₂(k)/d nguyên tố cùng nhau với m/d, điều này tương đương i ≡ i′ (mod m/d). Vậy dãy dò lặp với chu kỳ đúng m/d: xét m/d ô phân biệt, tức 1/d bảng, rồi quay về h₁(k). Ví dụ m = 12, h₂(k) = 4, d = 4: chỉ xét 3 ô.
 - **11.4-5 (★):** Bảng địa chỉ mở hệ số tải α. Tìm giá trị α khác 0 sao cho số lần dò kỳ vọng của tìm thất bại bằng hai lần số lần dò kỳ vọng của tìm thành công, dùng các cận trên của Định lý 11.6 và 11.8. *Người tổng hợp:* giải 1/(1 − α) = (2/α) ln(1/(1 − α)) bằng số: α ≈ 0,7153. (Kiểm tra: 1/(1 − 0,7153) ≈ 3,512; (2/0,7153) · ln 3,512 ≈ 2,796 · 1,256 ≈ 3,512.)
 
 ### Bài tập Mục 11.5 (trang 282)
@@ -1274,16 +1303,22 @@ Cần tìm khoá k trong bảng băm có các vị trí 0, 1, …, m − 1, vớ
 Giả sử m là luỹ thừa của 2.
 
 - **(a)** Chứng minh sơ đồ này là một trường hợp của dò bậc hai tổng quát bằng cách chỉ ra các hằng số c₁, c₂ phù hợp cho (11.5). *Người tổng hợp:* sau lần dò thứ i, j = h(k) + 1 + 2 + ⋯ + i = h(k) + i(i + 1)/2 = h(k) + i/2 + i²/2 (mod m). Vậy c₁ = c₂ = 1/2 (tổng luôn là số nguyên).
-- **(b)** Chứng minh thuật toán xét mọi vị trí của bảng trong trường hợp xấu nhất. *Người tổng hợp:* cần chứng minh i(i + 1)/2 mod m khác nhau với i = 0..m − 1. Giả sử 0 ≤ j < i < m và i(i + 1)/2 ≡ j(j + 1)/2 (mod m). Khi đó (i − j)(i + j + 1)/2 ≡ 0 (mod m), tức (i − j)(i + j + 1) chia hết cho 2m = 2^(p+1). Tổng hai thừa số là 2i + 1, lẻ, nên đúng một thừa số lẻ; thừa số lẻ không góp thừa số 2 nào, nên thừa số chẵn phải chia hết cho 2^(p+1) = 2m. Nhưng 0 < i − j < m và 0 < i + j + 1 ≤ 2m − 2 < 2m — mâu thuẫn. Ví dụ m = 8: các độ lệch 0, 1, 3, 6, 10, 15, 21, 28 mod 8 = 0, 1, 3, 6, 2, 7, 5, 4 — đủ 8 ô.
+- **(b)** Chứng minh thuật toán xét mọi vị trí của bảng trong trường hợp xấu nhất. *Người tổng hợp:* cần chứng minh i(i + 1)/2 mod m khác nhau với i = 0..m − 1. Giả sử 0 ≤ j < i < m và i(i + 1)/2 ≡ j(j + 1)/2 (mod m). Khi đó (i − j)(i + j + 1)/2 ≡ 0 (mod m), tức (i − j)(i + j + 1) chia hết cho 2m = 2^(p+1).
+
+  Tổng hai thừa số là 2i + 1, lẻ, nên đúng một thừa số lẻ; thừa số lẻ không góp thừa số 2 nào, nên thừa số chẵn phải chia hết cho 2^(p+1) = 2m. Nhưng 0 < i − j < m và 0 < i + j + 1 ≤ 2m − 2 < 2m — mâu thuẫn. Ví dụ m = 8: các độ lệch 0, 1, 3, 6, 10, 15, 21, 28 mod 8 = 0, 1, 3, 6, 2, 7, 5, 4 — đủ 8 ô.
 
 ### Problem 11-4: Băm và xác thực (Hashing and authentication)
 
 Gọi ℋ là một lớp hàm băm, mỗi h ∈ ℋ ánh xạ vũ trụ U vào {0, 1, …, m − 1}. Ta nói ℋ là **k-phổ quát** (k-universal) nếu với mọi dãy cố định k khoá phân biệt ⟨x⁽¹⁾, x⁽²⁾, …, x⁽ᵏ⁾⟩ và với h chọn ngẫu nhiên từ ℋ, dãy ⟨h(x⁽¹⁾), h(x⁽²⁾), …, h(x⁽ᵏ⁾)⟩ có xác suất như nhau là bất kỳ dãy nào trong m^k dãy độ dài k với phần tử lấy từ {0, 1, …, m − 1}.
 
 - **(a)** Chứng minh nếu ℋ là 2-phổ quát thì nó phổ quát. *Người tổng hợp:* với k ≠ l, cặp (h(k), h(l)) đều trên m² cặp; m cặp có hai thành phần bằng nhau, nên Pr{h(k) = h(l)} = m/m² = 1/m.
-- **(b)** U là tập các bộ n giá trị lấy từ ℤ_p = {0, 1, …, p − 1}, p nguyên tố. Với x = ⟨x₀, x₁, …, x_{n−1}⟩ ∈ U và mọi bộ a = ⟨a₀, a₁, …, a_{n−1}⟩ ∈ U, định nghĩa h_a(x) = (Σⱼ₌₀ⁿ⁻¹ a_j x_j) mod p, và ℋ = {h_a}. Chứng minh ℋ phổ quát nhưng không 2-phổ quát. (Gợi ý: tìm một khoá mà mọi hàm trong ℋ cho cùng giá trị.) *Người tổng hợp:* phổ quát — với x ≠ y khác nhau ở toạ độ i, h_a(x) = h_a(y) khi và chỉ khi a_i(x_i − y_i) ≡ −Σ_{j≠i} a_j(x_j − y_j) (mod p); cố định các a_j khác, đúng một giá trị a_i thoả, nên xác suất 1/p (ở đây m = p). Không 2-phổ quát — khoá x = ⟨0, …, 0⟩ có h_a(x) = 0 với mọi a, nên cặp (h(0), h(y)) không bao giờ có thành phần đầu khác 0, không thể đều trên p² cặp.
+- **(b)** U là tập các bộ n giá trị lấy từ ℤ_p = {0, 1, …, p − 1}, p nguyên tố. Với x = ⟨x₀, x₁, …, x_{n−1}⟩ ∈ U và mọi bộ a = ⟨a₀, a₁, …, a_{n−1}⟩ ∈ U, định nghĩa h_a(x) = (Σⱼ₌₀ⁿ⁻¹ a_j x_j) mod p, và ℋ = {h_a}. Chứng minh ℋ phổ quát nhưng không 2-phổ quát. (Gợi ý: tìm một khoá mà mọi hàm trong ℋ cho cùng giá trị.)
+
+  *Người tổng hợp:* phổ quát — với x ≠ y khác nhau ở toạ độ i, h_a(x) = h_a(y) khi và chỉ khi a_i(x_i − y_i) ≡ −Σ_{j≠i} a_j(x_j − y_j) (mod p); cố định các a_j khác, đúng một giá trị a_i thoả, nên xác suất 1/p (ở đây m = p). Không 2-phổ quát — khoá x = ⟨0, …, 0⟩ có h_a(x) = 0 với mọi a, nên cặp (h(0), h(y)) không bao giờ có thành phần đầu khác 0, không thể đều trên p² cặp.
 - **(c)** Sửa ℋ một chút: với mọi a ∈ U và b ∈ ℤ_p, định nghĩa h′_ab(x) = (Σⱼ₌₀ⁿ⁻¹ a_j x_j + b) mod p và ℋ′ = {h′_ab}. Lập luận ℋ′ là 2-phổ quát. (Gợi ý: xét x, y cố định với x_i ≠ y_i với một i nào đó; điều gì xảy ra với h′_ab(x), h′_ab(y) khi a_i và b chạy trên ℤ_p?) *Người tổng hợp:* cố định các a_j với j ≠ i. Ánh xạ (a_i, b) ↦ (h′(x), h′(y)) là hệ tuyến tính modulo p với định thức x_i − y_i ≠ 0, nên là song ánh từ ℤ_p² vào ℤ_p². Vậy (h′(x), h′(y)) đều trên p² cặp.
-- **(d)** Alice và Bob bí mật thống nhất một hàm băm h từ họ 2-phổ quát ℋ, mỗi h ánh xạ vũ trụ U vào ℤ_p, p nguyên tố. Sau đó Alice gửi thông điệp m ∈ U cho Bob qua Internet, kèm **thẻ xác thực** t = h(m); Bob kiểm tra cặp (m, t) nhận được có thoả t = h(m). Đối thủ chặn (m, t) trên đường đi và thay bằng cặp khác (m′, t′). Lập luận xác suất đối thủ lừa được Bob chấp nhận (m′, t′) không quá 1/p, dù đối thủ có sức tính toán bao nhiêu, và kể cả khi biết họ ℋ. *Người tổng hợp:* nếu m′ = m thì t′ ≠ t, Bob từ chối chắc chắn. Nếu m′ ≠ m: do 2-phổ quát, Pr{h(m) = t và h(m′) = t′} = 1/p², và Pr{h(m) = t} = 1/p, nên Pr{h(m′) = t′ | h(m) = t} = 1/p. Đối thủ chỉ thấy (m, t), tức chỉ biết h(m) = t; với mọi lựa chọn (m′, t′) (kể cả lựa chọn ngẫu nhiên phụ thuộc (m, t)), xác suất thành công ≤ 1/p. Sức tính toán không giúp được vì thông tin về h(m′) hoàn toàn không có — đây là an toàn theo lý thuyết thông tin. (Lưu ý ký hiệu: chữ m ở đây là thông điệp, khác với m là số ô ở đầu bài toán.)
+- **(d)** Alice và Bob bí mật thống nhất một hàm băm h từ họ 2-phổ quát ℋ, mỗi h ánh xạ vũ trụ U vào ℤ_p, p nguyên tố. Sau đó Alice gửi thông điệp m ∈ U cho Bob qua Internet, kèm **thẻ xác thực** t = h(m); Bob kiểm tra cặp (m, t) nhận được có thoả t = h(m). Đối thủ chặn (m, t) trên đường đi và thay bằng cặp khác (m′, t′). Lập luận xác suất đối thủ lừa được Bob chấp nhận (m′, t′) không quá 1/p, dù đối thủ có sức tính toán bao nhiêu, và kể cả khi biết họ ℋ.
+
+  *Người tổng hợp:* nếu m′ = m thì t′ ≠ t, Bob từ chối chắc chắn. Nếu m′ ≠ m: do 2-phổ quát, Pr{h(m) = t và h(m′) = t′} = 1/p², và Pr{h(m) = t} = 1/p, nên Pr{h(m′) = t′ | h(m) = t} = 1/p. Đối thủ chỉ thấy (m, t), tức chỉ biết h(m) = t; với mọi lựa chọn (m′, t′) (kể cả lựa chọn ngẫu nhiên phụ thuộc (m, t)), xác suất thành công ≤ 1/p. Sức tính toán không giúp được vì thông tin về h(m′) hoàn toàn không có — đây là an toàn theo lý thuyết thông tin. (Lưu ý ký hiệu: chữ m ở đây là thông điệp, khác với m là số ô ở đầu bài toán.)
 
 ### Ghi chú chương (Chapter notes, trang 285)
 
@@ -1335,7 +1370,13 @@ Bảng băm cài đặt từ điển (INSERT, SEARCH, DELETE) với thời gian 
 
 ### Trong ngôn ngữ khoa học máy tính
 
-Bảng địa chỉ trực tiếp: mọi phép toán O(1) xấu nhất, bộ nhớ Θ(|U|). Băm nối chuỗi với băm đều đơn giản: INSERT O(1) xấu nhất, DELETE O(1) xấu nhất (danh sách đôi), SEARCH Θ(1 + α) trung bình, Θ(n) xấu nhất; tìm thành công xem 1 + α/2 − α/(2n) phần tử. Băm phổ quát: Pr{h(k) = h(l)} ≤ 1/m; E[n_h(k)] ≤ α (k ∉ T), ≤ 1 + α (k ∈ T); dãy n phép toán với O(m) INSERT tốn Θ(n) kỳ vọng; ℋ_pm = {((ak + b) mod p) mod m} phổ quát, |ℋ_pm| = p(p − 1). Địa chỉ mở với băm đều, α < 1: tìm thất bại và chèn ≤ 1/(1 − α) lần dò; tìm thành công ≤ (1/α) ln(1/(1 − α)). Dò tuyến tính, dò bậc hai: m dãy dò; băm kép: Θ(m²) dãy dò. Băm hoàn hảo (FKS): m = n, m_j = n_j², E[Σ m_j] < 2n, Pr{Σ m_j ≥ 4n} < 1/2, bảng n² ô không va chạm với xác suất > 1/2; tìm kiếm O(1) xấu nhất, bộ nhớ O(n), dựng trong thời gian kỳ vọng O(n). Nối chuỗi n khoá vào n ô: chuỗi dài nhất kỳ vọng O(lg n / lg lg n) (Bài toán 11-2); địa chỉ mở với n ≤ m/2: dãy dò dài nhất kỳ vọng O(lg n) (Bài toán 11-1).
+Bảng địa chỉ trực tiếp: mọi phép toán O(1) xấu nhất, bộ nhớ Θ(|U|). Băm nối chuỗi với băm đều đơn giản: INSERT O(1) xấu nhất, DELETE O(1) xấu nhất (danh sách đôi), SEARCH Θ(1 + α) trung bình, Θ(n) xấu nhất; tìm thành công xem 1 + α/2 − α/(2n) phần tử.
+
+Băm phổ quát: Pr{h(k) = h(l)} ≤ 1/m; E[n_h(k)] ≤ α (k ∉ T), ≤ 1 + α (k ∈ T); dãy n phép toán với O(m) INSERT tốn Θ(n) kỳ vọng; ℋ_pm = {((ak + b) mod p) mod m} phổ quát, |ℋ_pm| = p(p − 1).
+
+Địa chỉ mở với băm đều, α < 1: tìm thất bại và chèn ≤ 1/(1 − α) lần dò; tìm thành công ≤ (1/α) ln(1/(1 − α)). Dò tuyến tính, dò bậc hai: m dãy dò; băm kép: Θ(m²) dãy dò.
+
+Băm hoàn hảo (FKS): m = n, m_j = n_j², E[Σ m_j] < 2n, Pr{Σ m_j ≥ 4n} < 1/2, bảng n² ô không va chạm với xác suất > 1/2; tìm kiếm O(1) xấu nhất, bộ nhớ O(n), dựng trong thời gian kỳ vọng O(n). Nối chuỗi n khoá vào n ô: chuỗi dài nhất kỳ vọng O(lg n / lg lg n) (Bài toán 11-2); địa chỉ mở với n ≤ m/2: dãy dò dài nhất kỳ vọng O(lg n) (Bài toán 11-1).
 
 ## Thuật ngữ
 
@@ -1434,11 +1475,15 @@ Mọi chứng minh của chương chỉ dùng biến chỉ thị, tính tuyến 
 - **Xoá trong địa chỉ mở chỉ được bàn sơ lược.** Sách nói dùng DELETED làm thời gian tìm "không còn phụ thuộc α" nhưng không nêu cách xử lý (dựng lại bảng định kỳ, hay xoá dịch lùi cho dò tuyến tính).
 - **Băm phổ quát cần số nguyên tố p lớn hơn mọi khoá và phép nhân mod p** — với khoá 64 bit, cần số học 128 bit; sách không bàn chi phí này hay các họ phổ quát nhanh hơn dùng phép dịch bit (multiply-shift của Dietzfelbinger và cộng sự — theo hiểu biết của người tổng hợp).
 - **Không bàn kích thước bảng thay đổi.** Mọi phân tích giả định m cố định; trong thực tế bảng phải lớn lên khi n tăng. Chương 17 (bảng động) mới bù phần này.
-- **Lỗi nhỏ trong Hình 11.6** (khoá 40 phải ở ô 3 của S₇) và vài chỗ ký hiệu chưa chặt (chú thích a = b = 0, chữ n trong Hệ quả 11.4, chữ m trong Bài toán 11-4) — đã nêu ở khối Lưu ý.
+- **Lỗi nhỏ trong Hình 11.6** (khoá 40 phải ở ô 3 của S₇) và vài chỗ ký hiệu chưa chặt (chú thích a = b = 0, chữ n trong Hệ quả 11.4, chữ m trong Bài toán 11-4) — đã nêu ở mục Lưu ý cuối chương.
 
 ### So với thực tế
 
-Theo hiểu biết của người tổng hợp: bảng băm là cấu trúc dữ liệu được dùng nhiều nhất trong phần mềm thực tế — đối tượng của JavaScript và Python, bảng ký hiệu của trình biên dịch, bộ đệm (cache) trong bộ nhớ như Memcached, phép nối băm (hash join) và chỉ mục băm trong cơ sở dữ liệu, bảng định tuyến. Các cài đặt hiện đại khác sách ở ba điểm: (1) hàm băm là các hàm trộn bit nhanh (MurmurHash, xxHash, wyhash) hoặc hàm có khoá chống tấn công (SipHash), không phải k mod m với m nguyên tố; (2) kích thước bảng thường là luỹ thừa của 2 để thay phép chia bằng phép AND, bù lại hàm băm phải trộn kỹ mọi bit; (3) địa chỉ mở với dò tuyến tính hoặc dò theo nhóm (SwissTable, Robin Hood hashing) được ưa chuộng hơn nối chuỗi vì tính cục bộ bộ nhớ. Ngoài ra còn các biến thể sách không nhắc như cuckoo hashing (tìm kiếm xấu nhất O(1) cho tập động, kỳ vọng khấu hao O(1) cho chèn), hàm băm nhất quán (consistent hashing) để chia dữ liệu cho nhiều máy, và bộ lọc Bloom (dùng nhiều hàm băm và một vector bit như Bài tập 11.1-2 để kiểm tra thuộc tập với xác suất dương tính giả nhỏ).
+Theo hiểu biết của người tổng hợp: bảng băm là cấu trúc dữ liệu được dùng nhiều nhất trong phần mềm thực tế — đối tượng của JavaScript và Python, bảng ký hiệu của trình biên dịch, bộ đệm (cache) trong bộ nhớ như Memcached, phép nối băm (hash join) và chỉ mục băm trong cơ sở dữ liệu, bảng định tuyến.
+
+Các cài đặt hiện đại khác sách ở ba điểm: (1) hàm băm là các hàm trộn bit nhanh (MurmurHash, xxHash, wyhash) hoặc hàm có khoá chống tấn công (SipHash), không phải k mod m với m nguyên tố; (2) kích thước bảng thường là luỹ thừa của 2 để thay phép chia bằng phép AND, bù lại hàm băm phải trộn kỹ mọi bit; (3) địa chỉ mở với dò tuyến tính hoặc dò theo nhóm (SwissTable, Robin Hood hashing) được ưa chuộng hơn nối chuỗi vì tính cục bộ bộ nhớ.
+
+Ngoài ra còn các biến thể sách không nhắc như cuckoo hashing (tìm kiếm xấu nhất O(1) cho tập động, kỳ vọng khấu hao O(1) cho chèn), hàm băm nhất quán (consistent hashing) để chia dữ liệu cho nhiều máy, và bộ lọc Bloom (dùng nhiều hàm băm và một vector bit như Bài tập 11.1-2 để kiểm tra thuộc tập với xác suất dương tính giả nhỏ).
 
 ### Liên hệ các chương khác
 
@@ -1457,3 +1502,134 @@ Theo hiểu biết của người tổng hợp: bảng băm là cấu trúc dữ
 - **Phỏng vấn:** hàng loạt bài kinh điển giải bằng bảng băm trong O(n): "hai số có tổng bằng k", đếm tần suất, phát hiện phần tử trùng, nhóm các từ đảo chữ (dùng khoá là chuỗi đã sắp xếp — ngược với Bài tập 11.3-3, ở đây ta *muốn* hoán vị cho cùng khoá), bộ đệm LRU (bảng băm kết hợp danh sách liên kết đôi). Câu hỏi lý thuyết thường gặp: vì sao bảng băm là O(1) "trung bình" chứ không phải xấu nhất, khi nào nên chọn cây thay vì bảng băm, nối chuỗi khác địa chỉ mở ra sao, vì sao xoá trong địa chỉ mở cần dấu DELETED.
 - **Lập trình thi đấu:** bảng băm của thư viện chuẩn (ví dụ `unordered_map` trong C++) có thể bị bộ test thiết kế sẵn ép va chạm (hàm băm số nguyên mặc định là hàm đồng nhất); cách phòng thủ là tự viết hàm băm có hằng số ngẫu nhiên lúc chạy (ví dụ splitmix64 cộng với thời gian khởi động) — đúng tinh thần băm phổ quát. Băm chuỗi đa thức modulo số nguyên tố (Bài tập 11.3-2, 11.3-6) dùng để so sánh xâu con trong O(1); xác suất va chạm ≤ (n − 1)/p theo Bài tập 11.3-6, nên chọn p lớn (cỡ 10⁹ hoặc dùng hai modulo).
 - **Kỹ thuật phần mềm:** chọn bảng băm khi chỉ cần tra cứu chính xác; định nghĩa `hashCode`/`__hash__` nhất quán với phép so sánh bằng (khoá bằng nhau phải cùng giá trị băm); không dùng đối tượng thay đổi được làm khoá; dùng hàm băm có khoá bí mật cho dữ liệu đến từ bên ngoài; theo dõi hệ số tải và chi phí bộ nhớ; với tập khoá cố định lớn (từ điển, bảng tra cứu nhúng), cân nhắc băm hoàn hảo.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: sáu nhánh lớn theo Mục 11.1–11.2, Mục 11.3, Mục 11.4, Mục 11.5 và các bài toán 11-1 đến 11-4, mỗi nhánh ghi cách làm, định lý và cận thời gian then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: bảng băm xấu nhất Θ(n) nhưng INSERT, SEARCH, DELETE trung bình O(1) nhờ tính chỉ số từ khoá`"]
+  n1["`Mục 11.1–11.2 — Từ địa chỉ trực tiếp đến băm nối chuỗi`"]
+  n0 --- n1
+  n2["`Bảng địa chỉ trực tiếp T[k]: mọi phép toán O(1) xấu nhất nhưng tốn bộ nhớ Θ(|U|)`"]
+  n1 --- n2
+  n3["`Bảng băm đặt khoá k ở ô h(k), với m ô nhỏ hơn nhiều so với |U|`"]
+  n1 --- n3
+  n4["`Vì |U| lớn hơn m nên va chạm là không tránh khỏi`"]
+  n3 --- n4
+  n5["`Nối chuỗi: mỗi ô trỏ tới một danh sách liên kết đôi, chèn và xoá O(1)`"]
+  n3 --- n5
+  n6["`Hệ số tải α = n/m và giả định băm đều đơn giản`"]
+  n1 --- n6
+  n7["`Định lý 11.1–11.2: tìm thất bại và tìm thành công đều Θ(1 + α) trung bình`"]
+  n6 --- n7
+  n8["`Ví dụ 2000 chuỗi trong m = 701 ô: α ≈ 2,85, tìm thất bại xem khoảng 3 phần tử`"]
+  n6 --- n8
+  n9["`Mục 11.3 — Hàm băm`"]
+  n0 --- n9
+  n10["`Hàm tốt xấp xỉ băm đều đơn giản, khoá được diễn giải thành số tự nhiên`"]
+  n9 --- n10
+  n11["`Phương pháp chia h(k) = k mod m`"]
+  n9 --- n11
+  n12["`Chọn m nguyên tố, không gần luỹ thừa của 2`"]
+  n11 --- n12
+  n13["`Phương pháp nhân h(k) = ⌊m(kA mod 1)⌋`"]
+  n9 --- n13
+  n14["`m được là luỹ thừa của 2, Knuth gợi ý A ≈ (√5 − 1)/2 ≈ 0,618`"]
+  n13 --- n14
+  n15["`Mục 11.3.3 — Băm phổ quát, có dấu sao`"]
+  n9 --- n15
+  n16["`Mọi hàm cố định đều có n khoá cùng rơi vào một ô`"]
+  n15 --- n16
+  n17["`Chọn h ngẫu nhiên từ lớp mà mọi cặp khoá va chạm với xác suất ≤ 1/m`"]
+  n15 --- n17
+  n18["`Lớp các hàm ((ak + b) mod p) mod m, p nguyên tố, là phổ quát – Định lý 11.5`"]
+  n15 --- n18
+  n19["`Hệ quả 11.4: n phép toán với O(m) lần chèn tốn Θ(n) kỳ vọng với mọi tập khoá`"]
+  n15 --- n19
+  n20["`Mục 11.4 — Địa chỉ mở`"]
+  n0 --- n20
+  n21["`Mọi phần tử nằm ngay trong bảng, chèn bằng cách dò theo dãy dò riêng của khoá`"]
+  n20 --- n21
+  n22["`Ba cách sinh dãy dò`"]
+  n20 --- n22
+  n23["`Dò tuyến tính bị tụ cụm sơ cấp`"]
+  n22 --- n23
+  n24["`Dò bậc hai bị tụ cụm thứ cấp – cả hai chỉ có m dãy dò`"]
+  n22 --- n24
+  n25["`Băm kép tốt nhất với Θ(m²) dãy dò`"]
+  n22 --- n25
+  n26["`Giả định băm đều cho cận số lần dò`"]
+  n20 --- n26
+  n27["`Định lý 11.6: tìm thất bại ≤ 1/(1 − α) lần dò`"]
+  n26 --- n27
+  n28["`Định lý 11.8: tìm thành công ≤ (1/α) ln(1/(1 − α))`"]
+  n26 --- n28
+  n29["`Đầy 50% cần ≤ 2 và dưới 1,387 lần dò – đầy 90% cần ≤ 10 và dưới 2,559`"]
+  n26 --- n29
+  n30["`Xoá phải ghi DELETED thay NIL, nên khi cần xoá thường dùng nối chuỗi`"]
+  n20 --- n30
+  n31["`Mục 11.5 — Băm hoàn hảo cho tập khoá tĩnh, có dấu sao`"]
+  n0 --- n31
+  n32["`Hai tầng băm phổ quát: tầng một n ô, ô j có bảng phụ cỡ nⱼ²`"]
+  n31 --- n32
+  n33["`Bảng n² ô cho n khoá không va chạm với xác suất lớn hơn 1/2 – nghịch lý ngày sinh`"]
+  n31 --- n33
+  n34["`Tìm kiếm O(1) xấu nhất, tổng bộ nhớ kỳ vọng các bảng phụ dưới 2n`"]
+  n31 --- n34
+  n35["`Ví dụ chín khoá với p = 101 – người tổng hợp phát hiện khoá 40 bị in sai vị trí`"]
+  n31 --- n35
+  n36["`Bài toán 11-1 đến 11-4`"]
+  n0 --- n36
+  n37["`11-1 Địa chỉ mở với n ≤ m/2: dãy dò dài nhất kỳ vọng O(lg n)`"]
+  n36 --- n37
+  n38["`11-2 Nối chuỗi n khoá vào n ô: chuỗi dài nhất kỳ vọng O(lg n / lg lg n)`"]
+  n36 --- n38
+  n39["`11-3 Dò bậc hai với m = 2ᵖ và c₁ = c₂ = 1/2 xét đủ mọi ô`"]
+  n36 --- n39
+  n40["`11-4 Họ 2-phổ quát cho thẻ xác thực mà đối thủ chỉ lừa được với xác suất ≤ 1/p`"]
+  n36 --- n40
+  n41["`Thông điệp xuyên suốt`"]
+  n0 --- n41
+  n42["`Chỉ cần tra theo khoá chính xác thì dùng bảng băm, cần thứ tự thì dùng cây tìm kiếm`"]
+  n41 --- n42
+  n43["`Giữ hệ số tải bị chặn bằng cách nhân đôi bảng – bảng động ở Chương 17`"]
+  n41 --- n43
+  n44["`Đầu vào không tin cậy cần hàm băm có khoá ngẫu nhiên bí mật để chống tấn công`"]
+  n41 --- n44
+  class n0 root
+  class n1,n9,n20,n31,n36,n41 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n37,n38,n39,n40,n42,n43,n44 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần III "Data Structures", Chương 11 "Hash Tables", trang 253–285.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS" theo chữ cái đầu tên họ.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Lời giới thiệu Phần III và Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) đặt ra khái niệm **tập động** (dynamic set) và nhóm phép toán **từ điển** (dictionary) — INSERT, SEARCH, DELETE — rồi cài đặt chúng bằng danh sách liên kết, với SEARCH tốn Θ(n) trong trường hợp xấu nhất.
+
+Chương 11 giới thiệu cấu trúc dữ liệu làm từ điển nhanh nhất trong thực tế: bảng băm, đưa thời gian trung bình của cả ba phép toán xuống O(1). Chương này dùng trực tiếp danh sách liên kết đôi của Chương 10 làm "chuỗi" trong bảng băm nối chuỗi; dùng công cụ xác suất của Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) — biến ngẫu nhiên chỉ thị, Bổ đề 5.1, tính tuyến tính của kỳ vọng, phân tích nghịch lý ngày sinh ở Mục 5.4.1; và lặp lại ý tưởng của quicksort ngẫu nhiên ở Chương 7 ([C07-quicksort.md](C07-quicksort.md)): chọn ngẫu nhiên bên trong thuật toán để không đầu vào nào luôn là đầu vào xấu.
+
+Phần chứng minh lớp hàm băm phổ quát cần một chút số học modulo của Chương 31 ([C31-thuat-toan-so-hoc.md](C31-thuat-toan-so-hoc.md)); các bất đẳng thức xác suất (bất đẳng thức Markov (C.30), công thức (C.25)) lấy từ Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md)) và các cận tổng từ Phụ lục A ([PA-tong.md](PA-tong.md)).
+
+Hai chương kế tiếp, Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) và Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)), cài đặt từ điển bằng cây tìm kiếm: chậm hơn (O(lg n)) nhưng hỗ trợ thêm các phép toán dựa trên thứ tự (MINIMUM, SUCCESSOR...) mà bảng băm không làm được. Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) bổ sung kỹ thuật bảng động (dynamic table) — nhân đôi kích thước khi đầy — để giữ hệ số tải bị chặn; Chương 20 ([C20-cay-van-emde-boas.md](C20-cay-van-emde-boas.md)) quay lại ý tưởng "khoá là số nguyên trong một vũ trụ" của bảng địa chỉ trực tiếp; Chương 32 ([C32-so-khop-chuoi.md](C32-so-khop-chuoi.md)) dùng băm theo phép chia trên chuỗi trong thuật toán Rabin–Karp.
+
+## Lưu ý
+
+- **Mục có dấu sao (★) trong chương:** Mục 11.3.3 "Universal hashing" (băm phổ quát) và Mục 11.5 "Perfect hashing" (băm hoàn hảo). **Bài tập có dấu sao:** 11.1-4, 11.3-5, 11.3-6, 11.4-4, 11.4-5, 11.5-1. Không bài toán cuối chương (Problem) nào có dấu sao.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương, đã đọc lại từ ảnh trang:** `‚` là Θ, `˛` là α, `TŒ k` là T[k], `/NUL` là dấu trừ, `hW U!f0; ...g` là h : U → {0, …}, các dấu ≤, ≈, ≠, ∉, ⌊ ⌋, √ bị mất (ví dụ `h.k/Dbkmc` là h(k) = ⌊km⌋, `A .p5/NUL 1/=2` là A ≈ (√5 − 1)/2, `PrfX ig` là Pr{X ≥ i}); chữ ℋ (lớp hàm băm) bị trích thành H; các tổng và tích trong chứng minh Định lý 11.2, 11.3, 11.6, 11.8, 11.10, 11.12 và Bài toán 11-2 bị vỡ thành nhiều dòng. Mọi pseudocode, công thức, chứng minh và nội dung Hình 11.1–11.6 trong bản tổng hợp này được đối chiếu với ảnh trang 254, 256–260, 264–268, 270–276, 278–284. Các hình mũi tên (11.1, 11.2, 11.3, 11.5) và hình hai tầng (11.6) không có trong lớp chữ hoặc bị trích lộn xộn; người tổng hợp đọc trên ảnh (phóng to riêng Hình 11.6 trang 278) và tái hiện thành bảng/sơ đồ text.
+- **Lỗi trong Hình 11.6, trang 278 (nhận xét của người tổng hợp, đã tự tính lại):** bảng phụ S₇ có m₇ = 16, a₇ = 23, b₇ = 88 và p = 101. Hình đặt khoá 40 ở ô 7 của S₇. Tính lại: 23 · 40 + 88 = 1008; 1008 mod 101 = 1008 − 909 = 99; 99 mod 16 = 3. Vậy khoá 40 phải nằm ở **ô 3** của S₇, không phải ô 7. Ba khoá còn lại của S₇ khớp với hình: h₇(52) = ((1196 + 88) mod 101) mod 16 = 72 mod 16 = 8; h₇(22) = ((506 + 88) mod 101) mod 16 = 89 mod 16 = 9; h₇(37) = ((851 + 88) mod 101) mod 16 = 30 mod 16 = 14. Kết luận "không có va chạm trong bảng phụ nào" vẫn đúng (các ô 3, 8, 9, 14 khác nhau). Người tổng hợp không chắc lỗi này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):** (1) Chú thích cuối trang 279 nói khi n_j = m_j = 1 thì dùng a = b = 0; nhưng lớp ℋ_{p,m_j} đòi a ∈ ℤ*_p, tức a ≠ 0, nên hàm "a = b = 0" về hình thức không thuộc lớp — vô hại vì bảng một ô thì mọi hàm đều trả về 0. (2) Trang 271 viết "cả ba kỹ thuật (dò tuyến tính, dò bậc hai, băm kép) đều bảo đảm dãy dò là một hoán vị của ⟨0, 1, …, m − 1⟩", nhưng chính trang 272 nói dò bậc hai chỉ dùng hết bảng khi c₁, c₂, m bị ràng buộc, và trang 273 nói băm kép cần h₂(k) nguyên tố cùng nhau với m. Câu ở trang 271 cần hiểu là "với tham số được chọn đúng". (3) Trong Hệ quả 11.4, chữ n vừa là số phép toán trong dãy, vừa được dùng trong α = n/m như số khoá đang lưu; lập luận đúng vì số khoá đang lưu không vượt quá số lần INSERT, tức O(m). (4) Trong Bài toán 11-4(d), chữ m vừa là thông điệp (message) vừa là ký hiệu kích thước bảng ở đầu bài toán.
+- **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đúng** (trừ vị trí khoá 40 trong Hình 11.6 nêu ở trên): chuỗi `pt` trong cơ số 128 là 112 · 128 + 116 = 14452; 100 mod 12 = 4; ví dụ phương pháp nhân k = 123456, s = 2654435769 cho k · s = 327706022297664 = 76300 · 2³² + 17612864 và 14 bit cao của r₀ là 67; h₃,₄(8) = ((24 + 4) mod 17) mod 6 = 11 mod 6 = 5; băm kép k = 123456, m = 701, m′ = 700 cho h₁(k) = 80, h₂(k) = 257; Hình 11.5 (khoá 14 dò ô 1, ô 5 rồi vào ô 9); các con số 1,387 và 2,559 của Định lý 11.8 (giá trị đúng là 2 ln 2 ≈ 1,3863 và (10/9) ln 10 ≈ 2,5584); trong Hình 11.6 các giá trị h(75) = 2, h₂(75) = 7 và cách chia chín khoá vào các ô 0, 2, 5, 7 của bảng T.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Bảng băm vẫn là Chương 11 nhưng được viết lại khá nhiều. Mục băm hoàn hảo (11.5 của ấn bản 3) bị bỏ. Phần hàm băm được tổ chức lại quanh ý "băm tĩnh" và "băm ngẫu nhiên", trình bày phương pháp nhân dưới dạng cài đặt nhân-dịch bit (multiply-shift) và có thêm phần về băm đầu vào dài (vector, chuỗi), có nhắc tới hàm băm mật mã. Có thêm một mục về các cân nhắc thực tế (bộ nhớ đệm, hệ thống bộ nhớ phân cấp), trong đó dò tuyến tính được đánh giá lại tích cực hơn và có thủ tục xoá cho dò tuyến tính không cần giá trị DELETED. Các chi tiết khác người tổng hợp không nhớ chắc nên không liệt kê.
