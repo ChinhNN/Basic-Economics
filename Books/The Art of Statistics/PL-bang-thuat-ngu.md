@@ -1248,7 +1248,7 @@ Khi đó E(X) = μ và V(X) = μ.
 
 ## Bản đồ tư duy
 
-Toàn cảnh bảng thuật ngữ trên một trang: 158 mục của phần Glossary cuối sách được gom thành sáu nhóm chủ đề (dữ liệu và tóm tắt, thiết kế nghiên cứu và nhân quả, xác suất và phân phối, ước lượng và kiểm định, Bayes, thuật toán và dự báo), mỗi lá là một thuật ngữ kèm nghĩa ngắn theo định nghĩa của sách; nhánh cuối là các lỗi đáng chú ý trong bảng gốc.
+Toàn cảnh bảng thuật ngữ trên một trang: 158 mục của phần Glossary cuối sách được gom thành sáu nhóm chủ đề (dữ liệu và tóm tắt, thiết kế nghiên cứu và nhân quả, xác suất và phân phối, mô hình – ước lượng – kiểm định, Bayes, thuật toán và dự báo), mỗi lá là một thuật ngữ kèm nghĩa ngắn hoặc công thức then chốt theo định nghĩa của sách; nhánh cuối là các lỗi đáng chú ý trong bảng gốc.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1259,143 +1259,147 @@ flowchart LR
   n0["`Bảng thuật ngữ: 158 thuật ngữ in đậm của sách, mỗi mục có định nghĩa bằng lời và, khi cần, định nghĩa kỹ thuật bằng công thức`"]
   n1["`Dữ liệu, tóm tắt và truyền đạt con số`"]
   n0 --- n1
-  n2["`Rủi ro tuyệt đối: tỷ lệ người trong một nhóm gặp biến cố trong một khoảng thời gian`"]
+  n2["`Rủi ro tương đối = p ÷ q, với p và q là rủi ro tuyệt đối ở nhóm phơi nhiễm và nhóm không phơi nhiễm`"]
   n1 --- n2
-  n3["`Rủi ro tương đối: rủi ro ở nhóm phơi nhiễm chia rủi ro ở nhóm không phơi nhiễm`"]
+  n3["`Odds = p ÷ (1 − p), tỷ số odds gần rủi ro tương đối khi rủi ro nhỏ, lệch xa khi rủi ro vượt 20%`"]
   n1 --- n3
-  n4["`Odds và tỷ số odds: odds = p ÷ (1 − p), tỷ số odds so odds giữa hai nhóm`"]
+  n4["`Trung bình, trung vị, yếu vị: số con 3, 2, 1, 0, 1 cho trung bình mẫu 7 ÷ 5 = 1,4`"]
   n1 --- n4
-  n5["`Trung bình, trung vị, yếu vị: ba cách lấy một giá trị đại diện cho tập số`"]
+  n5["`Phương sai s² = tổng (xᵢ − x̄)² chia n − 1, độ lệch chuẩn là căn bậc hai của phương sai`"]
   n1 --- n5
-  n6["`Độ lệch chuẩn: căn bậc hai của phương sai, đo độ phân tán`"]
+  n6["`Điểm Z = (x − trung bình) ÷ độ lệch chuẩn, điểm Z bằng 3 là ngoại lai khá cực đoan`"]
   n1 --- n6
-  n7["`Khoảng tứ phân vị: khoảng cách giữa bách phân vị thứ 25 và 75`"]
+  n7["`Tương quan Pearson r đo liên hệ tuyến tính, tương quan Spearman là Pearson tính trên hạng`"]
   n1 --- n7
-  n8["`Phân phối lệch: bất đối xứng, có đuôi dài về một phía`"]
+  n8["`Đóng khung: cách diễn đạt con số làm đổi ấn tượng của người nghe`"]
   n1 --- n8
-  n9["`Đóng khung: cách diễn đạt con số làm đổi ấn tượng của người nghe`"]
+  n9["`Chu trình PPDAC: Vấn đề, Kế hoạch, Dữ liệu, Phân tích, Kết luận`"]
   n1 --- n9
-  n10["`Mảng biểu tượng: hiển thị tần số bằng tập hình nhỏ như hình người`"]
-  n1 --- n10
-  n11["`Chu trình PPDAC: Vấn đề, Kế hoạch, Dữ liệu, Phân tích, Kết luận`"]
-  n1 --- n11
-  n12["`Thiết kế nghiên cứu và nhân quả`"]
-  n0 --- n12
-  n13["`Thử nghiệm ngẫu nhiên có đối chứng: phân bổ ngẫu nhiên để các nhóm cân bằng`"]
-  n12 --- n13
-  n14["`Làm mù: người tham gia hoặc người đánh giá không biết ai nhận điều trị nào`"]
-  n12 --- n14
-  n15["`Phân tích theo ý định điều trị: phân tích theo nhóm được phân bổ, bất kể có nhận can thiệp hay không`"]
-  n12 --- n15
-  n16["`Nghiên cứu bệnh–chứng: so sánh tiền sử phơi nhiễm của người bệnh với người không bệnh`"]
-  n12 --- n16
-  n17["`Nghiên cứu đoàn hệ: theo dõi một nhóm theo thời gian, tiến cứu hoặc hồi cứu`"]
-  n12 --- n17
-  n18["`Biến gây nhiễu: liên hệ với cả biến dự báo lẫn biến phản hồi, như tuổi với chiều cao và cân nặng của trẻ`"]
-  n12 --- n18
-  n19["`Nghịch lý Simpson: quan hệ bề ngoài đảo dấu khi tính tới biến gây nhiễu`"]
-  n12 --- n19
-  n20["`Nhân quả ngược: liên hệ tưởng là nhân quả nhưng đi theo chiều ngược lại`"]
-  n12 --- n20
-  n21["`Giá trị nội tại và giá trị bên ngoài: kết luận đúng cho chính nghiên cứu và khái quát được ra ngoài`"]
-  n12 --- n21
-  n22["`Xác suất và phân phối`"]
-  n0 --- n22
-  n23["`Xác suất: cách biểu đạt toán học chính thức của sự bất định`"]
-  n22 --- n23
-  n24["`Bất định ngẫu nhiên và bất định nhận thức: may rủi tương lai và sự thiếu hiểu biết`"]
-  n22 --- n24
-  n25["`Biến cố độc lập: A xảy ra không làm đổi xác suất của B`"]
-  n22 --- n25
-  n26["`Tần số kỳ vọng: số biến cố kỳ vọng theo một mô hình xác suất giả định`"]
-  n22 --- n26
-  n27["`Phân phối nhị thức: số thành công trong n phép thử độc lập, trung bình np`"]
-  n22 --- n27
-  n28["`Phân phối Poisson: phân phối cho biến đếm các biến cố hiếm`"]
-  n22 --- n28
-  n29["`Phân phối chuẩn: hình chuông, khoảng 95% nằm trong trung bình ± 2 độ lệch chuẩn`"]
-  n22 --- n29
-  n30["`Luật số lớn: trung bình mẫu tiến dần về trung bình tổng thể`"]
-  n22 --- n30
-  n31["`Định lý giới hạn trung tâm: trung bình mẫu có phân phối gần chuẩn, độ lệch chuẩn σ ÷ √n`"]
-  n22 --- n31
-  n32["`Hồi quy về giá trị trung bình: quan sát cực đoan thường được nối tiếp bởi quan sát ít cực đoan hơn`"]
-  n22 --- n32
-  n33["`Ước lượng, mô hình và kiểm định`"]
-  n0 --- n33
-  n34["`Mô hình thống kê: biểu diễn toán học có tham số chưa biết cho phân phối của dữ liệu`"]
-  n33 --- n34
-  n35["`Bình phương nhỏ nhất: chọn hệ số để tổng bình phương phần dư nhỏ nhất`"]
-  n33 --- n35
-  n36["`Sai số chuẩn: độ lệch chuẩn của trung bình mẫu`"]
-  n33 --- n36
-  n37["`Khoảng tin cậy 95%: xấp xỉ ước lượng ± 2 sai số chuẩn`"]
-  n33 --- n37
-  n38["`Bootstrap: lấy mẫu lại có hoàn lại từ chính dữ liệu để có khoảng tin cậy`"]
-  n33 --- n38
-  n39["`Giá trị P: thước đo mức chênh lệch giữa dữ liệu và giả thuyết không`"]
-  n33 --- n39
-  n40["`Sai lầm loại I và loại II: dương tính giả và âm tính giả của kiểm định`"]
-  n33 --- n40
-  n41["`Lực kiểm định: xác suất bác bỏ đúng giả thuyết không, bằng 1 trừ tỷ lệ sai lầm loại II`"]
-  n33 --- n41
-  n42["`Hiệu chỉnh Bonferroni: 10 giả thuyết thì so P với 0,05 ÷ 10 = 0,005`"]
-  n33 --- n42
-  n43["`Tỷ lệ phát hiện sai: tỷ lệ các tuyên bố phát hiện hoá ra là dương tính giả`"]
-  n33 --- n43
-  n44["`Ý nghĩa thực tế: nghiên cứu lớn có thể có ý nghĩa thống kê mà không quan trọng`"]
-  n33 --- n44
-  n45["`Bayes`"]
-  n0 --- n45
-  n46["`Định lý Bayes: p(B khi biết A) = p(A khi biết B) × p(B) ÷ p(A)`"]
-  n45 --- n46
-  n47["`Tỷ số khả năng: mức ủng hộ tương đối của dữ liệu cho hai giả thuyết cạnh tranh`"]
-  n45 --- n47
-  n48["`Nhân tố Bayes: tỷ số khả năng cho giả thuyết khoa học, sách viết p(x khi H₀) ÷ p(x khi H₁)`"]
-  n45 --- n48
-  n49["`Phân phối tiên nghiệm và hậu nghiệm: niềm tin trước và sau khi xét dữ liệu`"]
-  n45 --- n49
-  n50["`Co kéo về trung bình: ước lượng bị kéo về phía trung bình tiên nghiệm`"]
-  n45 --- n50
-  n51["`Mô hình phân cấp: tham số các đơn vị rút từ một phân phối chung`"]
-  n45 --- n51
-  n52["`MRP: ít người trả lời ở mỗi khu vực nhưng từ rất nhiều khu vực, rồi gộp theo dân số thật`"]
-  n45 --- n52
-  n53["`Ngụy biện của công tố viên: nhầm P(bằng chứng khi vô tội) với P(vô tội khi có bằng chứng)`"]
-  n45 --- n53
-  n54["`Thuật toán, học máy và dự báo`"]
-  n0 --- n54
-  n55["`Thuật toán: quy tắc nhận biến đầu vào, cho ra dự báo, phân loại hoặc xác suất`"]
-  n54 --- n55
-  n56["`Học có giám sát và không giám sát: có hay không có nhãn lớp đã biết`"]
-  n54 --- n56
-  n57["`Quá khớp: mô hình bám quá sát dữ liệu huấn luyện nên dự báo kém đi`"]
-  n54 --- n57
-  n58["`Đánh đổi độ chệch – phương sai: mô hình phức tạp hơn thì ít chệch nhưng phương sai lớn`"]
-  n54 --- n58
-  n59["`Kiểm định chéo: lần lượt tách bớt dữ liệu làm tập kiểm tra`"]
-  n54 --- n59
-  n60["`Độ nhạy và độ đặc hiệu: tỷ lệ nhận đúng ca dương tính và ca âm tính`"]
-  n54 --- n60
-  n61["`Đường cong ROC: độ nhạy theo 1 trừ độ đặc hiệu khi đổi ngưỡng điểm`"]
-  n54 --- n61
-  n62["`Điểm Brier: sai số bình phương trung bình của dự báo xác suất`"]
-  n54 --- n62
-  n63["`Hiệu chuẩn: biến cố được gán xác suất 0,7 phải xảy ra khoảng 70% số lần`"]
-  n54 --- n63
-  n64["`Lỗi đáng chú ý trong bảng gốc`"]
-  n0 --- n64
-  n65["`Công thức tương quan Pearson in thiếu dấu căn ở mẫu số`"]
-  n64 --- n65
-  n66["`Mục least-squares in b₀ = y thay vì b₀ = ȳ`"]
-  n64 --- n66
-  n67["`Nhân tố Bayes và tỷ số khả năng đặt H₀ ở tử số, ngược chiều với Chương 11`"]
-  n64 --- n67
-  n68["`Mục probability distribution in chữ Г thay cho ∞`"]
-  n64 --- n68
+  n10["`Thiết kế nghiên cứu và nhân quả`"]
+  n0 --- n10
+  n11["`Thử nghiệm ngẫu nhiên có đối chứng: phân bổ ngẫu nhiên để các nhóm cân bằng cả yếu tố đã biết lẫn chưa biết`"]
+  n10 --- n11
+  n12["`Làm mù: người tham gia hoặc người đánh giá không biết ai nhận điều trị nào`"]
+  n10 --- n12
+  n13["`Phân tích theo ý định điều trị: phân tích theo nhóm được phân bổ, bất kể có nhận can thiệp hay không`"]
+  n10 --- n13
+  n14["`Nghiên cứu bệnh–chứng: so sánh tiền sử phơi nhiễm của người bệnh với người không bệnh`"]
+  n10 --- n14
+  n15["`Nghiên cứu đoàn hệ: tiến cứu thì kéo dài và tốn kém, hồi cứu thì cần biến đã được đo trong quá khứ`"]
+  n10 --- n15
+  n16["`Biến gây nhiễu: liên hệ với cả biến dự báo lẫn biến phản hồi, như tuổi với chiều cao và cân nặng của trẻ`"]
+  n10 --- n16
+  n17["`Nghịch lý Simpson: quan hệ bề ngoài đảo dấu khi tính tới biến gây nhiễu`"]
+  n10 --- n17
+  n18["`Giá trị nội tại và giá trị bên ngoài: kết luận đúng cho chính nghiên cứu và khái quát được ra ngoài`"]
+  n10 --- n18
+  n19["`Xác suất và phân phối`"]
+  n0 --- n19
+  n20["`Xác suất: biểu đạt toán học của bất định, nằm giữa 0 (không thể) và 1 (chắc chắn)`"]
+  n19 --- n20
+  n21["`Quy tắc nhân: P(A và B) = P(A khi biết B) × P(B), A và B độc lập khi P(A khi biết B) = P(A)`"]
+  n19 --- n21
+  n22["`Bất định ngẫu nhiên và bất định nhận thức: may rủi tương lai và sự thiếu hiểu biết`"]
+  n19 --- n22
+  n23["`Kỳ vọng E(X) = tổng x × p(x), gieo một xúc xắc cân đối có E(X) = 21 ÷ 6 = 3,5`"]
+  n19 --- n23
+  n24["`Phân phối nhị thức: số thành công trong n phép thử độc lập, trung bình np`"]
+  n19 --- n24
+  n25["`Phân phối Poisson cho biến đếm: P(X = x) = e mũ −μ × μ mũ x ÷ x!, trung bình và phương sai đều bằng μ`"]
+  n19 --- n25
+  n26["`Phân phối chuẩn: hình chuông, khoảng 95% trong trung bình ± 2 độ lệch chuẩn, Φ(−1) = 0,16`"]
+  n19 --- n26
+  n27["`Luật số lớn và định lý giới hạn trung tâm: trung bình mẫu tiến về trung bình tổng thể, phân phối gần chuẩn với độ lệch chuẩn σ ÷ √n`"]
+  n19 --- n27
+  n28["`Hồi quy về giá trị trung bình: quan sát cực đoan thường được nối tiếp bởi quan sát ít cực đoan hơn`"]
+  n19 --- n28
+  n29["`Mô hình, ước lượng và kiểm định`"]
+  n0 --- n29
+  n30["`Mô hình và hồi quy`"]
+  n29 --- n30
+  n31["`Mô hình thống kê: biểu diễn toán học có tham số chưa biết cho phân phối của dữ liệu`"]
+  n30 --- n31
+  n32["`Bình phương nhỏ nhất: cực tiểu tổng bình phương phần dư, đường đi qua (x̄, ȳ), độ dốc b₁ = r × (độ lệch chuẩn của y ÷ độ lệch chuẩn của x)`"]
+  n30 --- n32
+  n33["`Hồi quy logistic, Poisson, Cox: hệ số là log của tỷ số odds, tỷ số tỷ suất, tỷ số nguy cơ`"]
+  n30 --- n33
+  n34["`Ước lượng và khoảng`"]
+  n29 --- n34
+  n35["`Sai số chuẩn = σ ÷ √n, ước lượng bằng s ÷ √n với s là độ lệch chuẩn mẫu`"]
+  n34 --- n35
+  n36["`Khoảng tin cậy 95% và biên sai số: xấp xỉ ước lượng ± 2 sai số chuẩn`"]
+  n34 --- n36
+  n37["`Bootstrap: lấy mẫu lại có hoàn lại từ chính dữ liệu để có khoảng tin cậy`"]
+  n34 --- n37
+  n38["`Biểu đồ phễu: giới hạn 95% và 99,8% là trung bình ± 2 và ± 3 sai số chuẩn`"]
+  n34 --- n38
+  n39["`Kiểm định giả thuyết`"]
+  n29 --- n39
+  n40["`Giá trị P một phía = P(T ≥ t khi H₀ đúng), giá trị P hai phía thường lấy gấp đôi`"]
+  n39 --- n40
+  n41["`Ý nghĩa thống kê: giá trị P nhỏ hơn mức định trước như 0,05 hay 0,001`"]
+  n39 --- n41
+  n42["`Thống kê t = ước lượng ÷ sai số chuẩn, với mẫu lớn vượt ± 2 ứng với P hai phía 0,05`"]
+  n39 --- n42
+  n43["`Kiểm định hoán vị: giá trị P là tỷ lệ các cách hoán vị nhãn cho thống kê cực đoan hơn giá trị quan sát`"]
+  n39 --- n43
+  n44["`Sai lầm loại I (mức α, dương tính giả) và loại II (β, âm tính giả), lực kiểm định = 1 − β`"]
+  n39 --- n44
+  n45["`Kiểm định nhiều lần và kiểm định tuần tự làm tăng dương tính giả, Bonferroni với 10 giả thuyết so P với 0,005`"]
+  n39 --- n45
+  n46["`Tỷ lệ phát hiện sai: tỷ lệ các tuyên bố phát hiện hoá ra là dương tính giả`"]
+  n39 --- n46
+  n47["`Ý nghĩa thực tế: nghiên cứu lớn có thể có ý nghĩa thống kê mà không quan trọng`"]
+  n39 --- n47
+  n48["`Bayes`"]
+  n0 --- n48
+  n49["`Định lý Bayes: p(B khi biết A) = p(A khi biết B) × p(B) ÷ p(A)`"]
+  n48 --- n49
+  n50["`Hàm khả năng tỷ lệ với p(x khi biết θ), tỷ số khả năng so mức ủng hộ của dữ liệu cho hai giả thuyết`"]
+  n48 --- n50
+  n51["`Nhân tố Bayes: tỷ số khả năng cho giả thuyết khoa học, sách viết p(x khi H₀) ÷ p(x khi H₁)`"]
+  n48 --- n51
+  n52["`Phân phối tiên nghiệm và hậu nghiệm: niềm tin trước và sau khi xét dữ liệu qua định lý Bayes`"]
+  n48 --- n52
+  n53["`Mô hình phân cấp: tham số các đơn vị rút từ một tiên nghiệm chung, ước lượng bị co kéo về trung bình chung`"]
+  n48 --- n53
+  n54["`MRP: ít người trả lời ở mỗi khu vực nhưng từ rất nhiều khu vực, rồi gộp theo cơ cấu dân số thật`"]
+  n48 --- n54
+  n55["`Ngụy biện của công tố viên: nhầm P(bằng chứng khi vô tội) với P(vô tội khi có bằng chứng)`"]
+  n48 --- n55
+  n56["`Thuật toán, học máy và dự báo`"]
+  n0 --- n56
+  n57["`Thuật toán: quy tắc nhận biến đầu vào, cho ra dự báo, phân loại hoặc xác suất`"]
+  n56 --- n57
+  n58["`Học có giám sát và không giám sát: có hay không có nhãn lớp đã biết`"]
+  n56 --- n58
+  n59["`Quá khớp: mô hình bám quá sát dữ liệu huấn luyện nên dự báo kém đi`"]
+  n56 --- n59
+  n60["`Đánh đổi độ chệch – phương sai: mô hình phức tạp hơn thì ít chệch nhưng phương sai lớn`"]
+  n56 --- n60
+  n61["`Kiểm định chéo: lần lượt tách bớt dữ liệu làm tập kiểm tra`"]
+  n56 --- n61
+  n62["`Độ nhạy và độ đặc hiệu: tỷ lệ nhận đúng ca dương tính và ca âm tính`"]
+  n56 --- n62
+  n63["`Đường cong ROC: độ nhạy theo 1 trừ độ đặc hiệu khi đổi ngưỡng điểm`"]
+  n56 --- n63
+  n64["`Sai số bình phương trung bình MSE = trung bình của (xᵢ − tᵢ)², điểm Brier là MSE của dự báo xác suất`"]
+  n56 --- n64
+  n65["`Hiệu chuẩn: biến cố được gán xác suất 0,7 phải xảy ra khoảng 70% số lần`"]
+  n56 --- n65
+  n66["`Lỗi đáng chú ý trong bảng gốc`"]
+  n0 --- n66
+  n67["`Công thức tương quan Pearson in thiếu dấu căn ở mẫu số`"]
+  n66 --- n67
+  n68["`Mục least-squares in b₀ = y thay vì b₀ = ȳ`"]
+  n66 --- n68
+  n69["`Nhân tố Bayes và tỷ số khả năng đặt H₀ ở tử số, ngược chiều với Chương 11`"]
+  n66 --- n69
+  n70["`Mục probability distribution in chữ Г thay cho ∞`"]
+  n66 --- n70
   class n0 root
-  class n1,n12,n22,n33,n45,n54,n64 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68 leaf
+  class n1,n10,n19,n29,n48,n56,n66 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n62,n63,n64,n65,n67,n68,n69,n70 leaf
 ```
 
 ## Nguồn
