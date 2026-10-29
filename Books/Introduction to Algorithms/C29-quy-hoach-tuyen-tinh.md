@@ -1904,7 +1904,7 @@ Tiền xử lý (presolve) loại biến, gộp ràng buộc trước khi giải
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 29 trên một trang: sáu nhánh lớn theo phần mở đầu, năm mục 29.1–29.5 và các bài toán cuối chương của bản gốc (gộp Mục 29.1 với 29.2), mỗi nhánh ghi định nghĩa, định lý, thủ tục và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 29 trên một trang: bảy nhánh lớn theo phần mở đầu, năm mục 29.1–29.5 và các bài toán cuối chương cùng ghi chú chương của bản gốc, mỗi nhánh ghi định nghĩa, định lý, thủ tục và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1913,101 +1913,153 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 29: nhiều bài toán tối ưu viết được thành quy hoạch tuyến tính, đơn hình giải bằng các phép xoay, đối ngẫu chứng minh tối ưu`"]
-  n1["`Phần mở đầu chương — Quy hoạch tuyến tính là gì`"]
+  n1["`Phần mở đầu chương (trước Mục 29.1) — Quy hoạch tuyến tính là gì`"]
   n0 --- n1
-  n2["`Bài toán chính trị gia: chi ít tiền quảng cáo nhất mà vẫn thắng một nửa phiếu ở ba khu vực, phương án thử tốn 33 nghìn đô la`"]
+  n2["`Bài toán chính trị gia: bốn chủ đề quảng cáo, cần 50, 100, 25 nghìn phiếu ở ba khu vực, phương án thử tốn 33 nghìn đô la`"]
   n1 --- n2
-  n3["`Quy hoạch tuyến tính: tối đa hoá hoặc tối thiểu hoá hàm tuyến tính dưới hữu hạn ràng buộc tuyến tính, không cho bất đẳng thức chặt`"]
+  n3["`Viết thành quy hoạch: minimize x₁ + x₂ + x₃ + x₄ với ba ràng buộc ≥ về số phiếu và mọi biến ≥ 0`"]
   n1 --- n3
-  n4["`Ví dụ hai biến: miền khả thi là ngũ giác lồi, giá trị lớn nhất 8 đạt tại đỉnh (2, 6)`"]
+  n4["`Quy hoạch tuyến tính: tối ưu hàm tuyến tính dưới hữu hạn ràng buộc ≤, ≥, =, không cho phép bất đẳng thức ngặt`"]
   n1 --- n4
-  n5["`Miền khả thi lồi và mặt mức là siêu phẳng nên luôn có nghiệm tối ưu ở một đỉnh, cực đại địa phương là toàn cục`"]
+  n5["`Ví dụ hai biến: miền khả thi là ngũ giác lồi đỉnh (0,0), (2,0), (3,4), (2,6), (0,1), tối ưu 8 tại (2, 6)`"]
   n1 --- n5
-  n6["`Ba thuật toán: đơn hình xấu nhất hàm mũ nhưng thực tế nhanh, ellipsoid đa thức nhưng chậm, điểm trong đa thức và nhanh`"]
+  n6["`Miền khả thi lồi và mặt mức của mục tiêu là siêu phẳng nên luôn có nghiệm tối ưu tại một đỉnh`"]
   n1 --- n6
-  n7["`Quy hoạch tuyến tính nguyên thì chỉ tìm nghiệm khả thi đã NP-khó`"]
+  n7["`Đơn hình đi dọc cạnh sang đỉnh kề không giảm mục tiêu, cực đại địa phương cũng là cực đại toàn cục`"]
   n1 --- n7
-  n8["`Mục 29.1 và 29.2 — Dạng chuẩn, dạng bù và cách viết bài toán`"]
-  n0 --- n8
-  n9["`Dạng chuẩn: maximize cᵀx với Ax ≤ b, x ≥ 0, viết gọn bằng bộ (A, b, c)`"]
-  n8 --- n9
-  n10["`Bốn bước đưa về dạng chuẩn: đổi min thành max, tách biến tự do thành hiệu hai biến không âm, đẳng thức thành hai bất đẳng thức, nhân −1 cho ràng buộc ≥`"]
-  n8 --- n10
-  n11["`Dạng bù: mỗi bất đẳng thức thành đẳng thức với một biến bù không âm, biến cơ sở ở vế trái, biến không cơ sở ở vế phải`"]
-  n8 --- n11
-  n12["`Đường đi ngắn nhất một cặp đỉnh viết thành quy hoạch maximize khoảng cách tới t, không phải minimize`"]
-  n8 --- n12
-  n13["`Luồng cực đại và luồng chi phí nhỏ nhất, ví dụ gửi 4 đơn vị từ s tới t với chi phí nhỏ nhất 27`"]
-  n8 --- n13
-  n14["`Luồng nhiều loại hàng: thuật toán đa thức duy nhất đã biết là đi qua quy hoạch tuyến tính`"]
-  n8 --- n14
-  n15["`Mục 29.3 — Thuật toán đơn hình`"]
-  n0 --- n15
-  n16["`Mỗi vòng viết lại dạng bù thành dạng bù tương đương, nghiệm cơ sở đặt mọi biến không cơ sở bằng 0`"]
-  n15 --- n16
-  n17["`Phép xoay: chọn biến vào có hệ số mục tiêu dương, tăng tới khi ràng buộc chặt nhất làm một biến cơ sở chạm 0, biến đó ra`"]
-  n15 --- n17
-  n18["`Ví dụ ba biến: ba phép xoay đưa giá trị 0 lên 27, 111/4, rồi 28 tại x₁ = 8, x₂ = 4, x₃ = 0`"]
-  n15 --- n18
-  n19["`PIVOT giải phương trình của biến ra theo biến vào rồi thế vào các phương trình khác và hàm mục tiêu`"]
-  n15 --- n19
-  n20["`Bổ đề 29.2: SIMPLEX trả về nghiệm khả thi, và báo không bị chặn là đúng`"]
-  n15 --- n20
-  n21["`Dừng`"]
-  n15 --- n21
-  n22["`Suy biến làm giá trị mục tiêu giữ nguyên và có thể gây vòng lặp`"]
-  n21 --- n22
-  n23["`Quy tắc Bland chọn chỉ số nhỏ nhất bảo đảm luôn dừng, tối đa C(n + m, m) vòng`"]
-  n21 --- n23
-  n24["`Mục 29.4 — Tính đối ngẫu`"]
-  n0 --- n24
-  n25["`Định lý luồng cực đại – lát cắt cực tiểu là một ví dụ đối ngẫu đã gặp ở Chương 26`"]
-  n24 --- n25
-  n26["`Bài toán đối ngẫu: max thành min, vế phải đổi chỗ với hệ số mục tiêu, mỗi ràng buộc gốc ứng một biến đối ngẫu`"]
-  n24 --- n26
-  n27["`Bổ đề 29.8 (đối ngẫu yếu): mọi giá trị khả thi của bài toán gốc ≤ mọi giá trị khả thi của bài toán đối ngẫu`"]
-  n24 --- n27
-  n28["`Hệ quả 29.9: hai giá trị khả thi bằng nhau thì cả hai đều tối ưu`"]
-  n24 --- n28
-  n29["`Đọc nghiệm đối ngẫu từ hệ số của biến bù trong hàm mục tiêu cuối, ví dụ ȳ = (0, 1/6, 2/3) cho cùng giá trị 28`"]
-  n24 --- n29
-  n30["`Định lý 29.10: nghiệm SIMPLEX trả về là tối ưu, và nghiệm đối ngẫu tối ưu có được miễn phí`"]
-  n24 --- n30
-  n31["`Mục 29.5 — Nghiệm cơ sở khả thi ban đầu`"]
-  n0 --- n31
-  n32["`Khi có vế phải âm, nghiệm cơ sở x = 0 không khả thi, ví dụ ràng buộc x₁ − 5x₂ ≤ −4`"]
-  n31 --- n32
-  n33["`Quy hoạch phụ thêm biến x₀ và maximize −x₀, quy hoạch gốc khả thi khi và chỉ khi giá trị tối ưu của nó bằng 0`"]
-  n31 --- n33
-  n34["`INITIALIZE-SIMPLEX: một phép xoay đưa x₀ vào làm nghiệm cơ sở khả thi, chạy đơn hình, rồi bỏ x₀ và khôi phục hàm mục tiêu gốc`"]
-  n31 --- n34
-  n35["`Định lý 29.13 (định lý cơ bản): mọi quy hoạch hoặc có nghiệm tối ưu hữu hạn, hoặc không khả thi, hoặc không bị chặn`"]
-  n31 --- n35
-  n36["`Bài toán cuối chương và ghi chú chương`"]
-  n0 --- n36
-  n37["`29-2 Bù trừ lỏng chặt: nghiệm tối ưu khi mỗi biến bằng 0 hoặc ràng buộc đối ngẫu tương ứng chặt`"]
-  n36 --- n37
-  n38["`29-3 Quy hoạch nguyên: đối ngẫu yếu vẫn đúng, đối ngẫu mạnh không còn`"]
-  n36 --- n38
-  n39["`29-4 Bổ đề Farkas: đúng một trong hai hệ tuyến tính có nghiệm`"]
-  n36 --- n39
-  n40["`29-5 Lưu thông chi phí nhỏ nhất biểu diễn được cả luồng cực đại và đường đi ngắn nhất`"]
-  n36 --- n40
-  n41["`Ghi chú: Dantzig đưa ra đơn hình năm 1947, Khachian ellipsoid năm 1979, Karmarkar điểm trong`"]
-  n36 --- n41
-  n42["`Ghi chú: Klee và Minty dựng ví dụ đơn hình chạy 2ⁿ − 1 vòng, Spielman và Teng đưa ra phân tích trơn`"]
-  n36 --- n42
-  n43["`Thông điệp xuyên suốt`"]
-  n0 --- n43
-  n44["`Sức mạnh thật của quy hoạch tuyến tính là giải bài toán mới hoặc biến thể chưa có thuật toán riêng`"]
-  n43 --- n44
-  n45["`Đơn hình là khử Gauss cho bất đẳng thức: viết lại hệ tương đương đến khi nghiệm tối ưu hiện ra`"]
-  n43 --- n45
-  n46["`Đối ngẫu vừa là chứng chỉ tối ưu vừa nối quy hoạch tuyến tính với các định lý đồ thị`"]
-  n43 --- n46
+  n8["`Ba thuật toán: đơn hình xấu nhất hàm mũ nhưng thực tế nhanh, ellipsoid đa thức nhưng chậm, điểm trong đa thức và nhanh`"]
+  n1 --- n8
+  n9["`Quy hoạch tuyến tính nguyên: chỉ tìm một nghiệm khả thi đã NP-khó`"]
+  n1 --- n9
+  n10["`Mục 29.1 — Dạng chuẩn và dạng bù`"]
+  n0 --- n10
+  n11["`Dạng chuẩn: maximize cᵀx với Ax ≤ b, x ≥ 0, viết gọn bằng bộ (A, b, c)`"]
+  n10 --- n11
+  n12["`Quy hoạch không khả thi khi không có nghiệm khả thi, không bị chặn khi giá trị mục tiêu lớn tuỳ ý`"]
+  n10 --- n12
+  n13["`Hai quy hoạch tương đương khi mỗi nghiệm khả thi bên này có nghiệm bên kia cùng giá trị mục tiêu`"]
+  n10 --- n13
+  n14["`Bốn bước về dạng chuẩn: đổi min thành max, biến tự do thành hiệu hai biến không âm, đẳng thức thành hai bất đẳng thức, nhân −1 cho ≥`"]
+  n10 --- n14
+  n15["`Ví dụ: min −2x₁ + 3x₂ với x₁ + x₂ = 7, x₁ − 2x₂ ≤ 4 thành dạng chuẩn ba biến, ba ràng buộc ≤`"]
+  n10 --- n15
+  n16["`Dạng bù: mỗi bất đẳng thức thành đẳng thức với một biến bù không âm, biến cơ sở ở vế trái, biến không cơ sở ở vế phải`"]
+  n10 --- n16
+  n17["`Dạng bù viết bằng bộ (N, B, A, b, c, ν), trong đó aᵢⱼ là số đối của hệ số nhìn thấy`"]
+  n10 --- n17
+  n18["`Mục 29.2 — Viết bài toán thành quy hoạch tuyến tính`"]
+  n0 --- n18
+  n19["`Đưa được về quy hoạch tuyến tính cỡ đa thức thì giải được trong thời gian đa thức hoặc bằng phần mềm có sẵn`"]
+  n18 --- n19
+  n20["`Đường đi ngắn nhất s tới t: maximize d#95;t với d#95;v ≤ d#95;u + w(u, v) cho mỗi cạnh và d#95;s = 0`"]
+  n18 --- n20
+  n21["`Phải maximize vì minimize không cho trọng số đường đi, quy hoạch có |V| biến và |E| + 1 ràng buộc`"]
+  n18 --- n21
+  n22["`Luồng cực đại: maximize luồng ròng ra khỏi s với ràng buộc dung lượng, bảo toàn luồng, không âm, có |V|² biến`"]
+  n18 --- n22
+  n23["`Luồng chi phí nhỏ nhất: minimize tổng a(u, v) nhân luồng, thêm ràng buộc giá trị luồng bằng d, ví dụ 4 đơn vị tốn 27`"]
+  n18 --- n23
+  n24["`Luồng nhiều loại hàng: k loại hàng chung dung lượng cạnh, mục tiêu minimize 0 vì chỉ hỏi luồng có tồn tại không`"]
+  n18 --- n24
+  n25["`Luồng nhiều loại hàng có thuật toán đa thức duy nhất đã biết là đi qua quy hoạch tuyến tính`"]
+  n18 --- n25
+  n26["`Thuật toán chuyên dụng như Dijkstra, đẩy – gán nhãn thường nhanh hơn, sức mạnh thật của quy hoạch tuyến tính là bài toán mới`"]
+  n18 --- n26
+  n27["`Mục 29.3 — Thuật toán đơn hình`"]
+  n0 --- n27
+  n28["`Đơn hình như khử Gauss cho bất đẳng thức: mỗi vòng viết lại dạng bù thành dạng bù tương đương`"]
+  n27 --- n28
+  n29["`Nghiệm cơ sở đặt biến không cơ sở bằng 0 và biến cơ sở xᵢ = bᵢ, khả thi khi mọi bᵢ ≥ 0`"]
+  n27 --- n29
+  n30["`Phép xoay: chọn biến vào có hệ số mục tiêu dương, tăng tới khi ràng buộc chặt nhất làm một biến cơ sở chạm 0, biến đó ra`"]
+  n27 --- n30
+  n31["`Ví dụ ba biến: ba phép xoay đưa giá trị 0 lên 27, 111/4, rồi 28 tại x₁ = 8, x₂ = 4, x₃ = 0`"]
+  n27 --- n31
+  n32["`PIVOT giải phương trình của biến ra theo biến vào, thế vào chỗ khác, giá trị mới ν̂ = ν + cₑ·b̂ₑ`"]
+  n27 --- n32
+  n33["`SIMPLEX chọn biến ra có tỉ số bᵢ/aᵢₑ nhỏ nhất với aᵢₑ #gt; 0, không có ứng viên thì báo không bị chặn`"]
+  n27 --- n33
+  n34["`Bổ đề 29.2: bất biến tương đương, mọi bᵢ ≥ 0, nghiệm cơ sở khả thi nên kết quả trả về đúng`"]
+  n27 --- n34
+  n35["`Dừng (Termination)`"]
+  n27 --- n35
+  n36["`Phép xoay không làm giảm giá trị mục tiêu, giữ nguyên đúng khi bₗ = 0, gọi là suy biến`"]
+  n35 --- n36
+  n37["`Ví dụ suy biến: giá trị 8 giữ nguyên qua một phép xoay rồi tăng lên 16`"]
+  n35 --- n37
+  n38["`Suy biến có thể gây vòng lặp, lý do duy nhất khiến SIMPLEX không dừng`"]
+  n35 --- n38
+  n39["`Bổ đề 29.4: tập biến cơ sở B xác định duy nhất dạng bù`"]
+  n35 --- n39
+  n40["`Bổ đề 29.5: chạy quá C(n + m, m) vòng thì chắc chắn đã lặp vòng`"]
+  n35 --- n40
+  n41["`Bổ đề 29.6 và 29.7: quy tắc Bland chọn chỉ số nhỏ nhất bảo đảm dừng trong tối đa C(n + m, m) vòng`"]
+  n35 --- n41
+  n42["`Mục 29.4 — Tính đối ngẫu`"]
+  n0 --- n42
+  n43["`Định lý luồng cực đại – lát cắt cực tiểu ở Chương 26 là một ví dụ đối ngẫu đã gặp`"]
+  n42 --- n43
+  n44["`Bài toán đối ngẫu của dạng chuẩn: minimize bᵀy với Aᵀy ≥ c, y ≥ 0`"]
+  n42 --- n44
+  n45["`Lập đối ngẫu: max thành min, vế phải đổi chỗ với hệ số mục tiêu, mỗi ràng buộc gốc ứng một biến đối ngẫu`"]
+  n42 --- n45
+  n46["`Ví dụ: đối ngẫu của ví dụ đơn hình là min 30y₁ + 24y₂ + 36y₃ với ba ràng buộc ≥ 3, ≥ 1, ≥ 2`"]
+  n42 --- n46
+  n47["`Bổ đề 29.8 (đối ngẫu yếu): mọi giá trị khả thi của bài toán gốc ≤ mọi giá trị khả thi của bài toán đối ngẫu`"]
+  n42 --- n47
+  n48["`Hệ quả 29.9: hai giá trị khả thi bằng nhau thì cả hai đều tối ưu`"]
+  n42 --- n48
+  n49["`ȳᵢ bằng số đối hệ số của biến bù thứ i trong hàm mục tiêu cuối, bằng 0 nếu biến bù đó là cơ sở`"]
+  n42 --- n49
+  n50["`Ví dụ: z = 28 − x₃/6 − x₅/6 − 2x₆/3 cho ȳ = (0, 1/6, 2/3) với cùng giá trị 28`"]
+  n42 --- n50
+  n51["`Định lý 29.10: nghiệm SIMPLEX trả về là tối ưu, nghiệm đối ngẫu tối ưu có được miễn phí`"]
+  n42 --- n51
+  n52["`Mục 29.5 — Nghiệm cơ sở khả thi ban đầu`"]
+  n0 --- n52
+  n53["`Khi có vế phải âm, nghiệm cơ sở x = 0 không khả thi, ví dụ ràng buộc x₁ − 5x₂ ≤ −4`"]
+  n52 --- n53
+  n54["`Bổ đề 29.11: quy hoạch phụ thêm biến x₀, maximize −x₀, quy hoạch gốc khả thi khi và chỉ khi tối ưu của nó bằng 0`"]
+  n52 --- n54
+  n55["`INITIALIZE-SIMPLEX trả ngay dạng bù ban đầu nếu mọi bᵢ ≥ 0`"]
+  n52 --- n55
+  n56["`Ngược lại, một phép xoay cho x₀ vào, biến có b âm nhất ra, khi đó mọi bᵢ − bₖ ≥ 0 nên nghiệm cơ sở khả thi`"]
+  n52 --- n56
+  n57["`Giải quy hoạch phụ: x̄₀ = 0 thì bỏ x₀ và khôi phục mục tiêu gốc, x̄₀ #gt; 0 thì báo không khả thi`"]
+  n52 --- n57
+  n58["`Ví dụ: hai phép xoay cho dạng bù khả thi z = −4/5 + 9x₁/5 − x₄/5 với x₂ = 4/5, x₃ = 14/5`"]
+  n52 --- n58
+  n59["`Bổ đề 29.12: INITIALIZE-SIMPLEX báo không khả thi đúng lúc, ngược lại trả dạng bù có nghiệm cơ sở khả thi`"]
+  n52 --- n59
+  n60["`Định lý 29.13 (định lý cơ bản): mọi quy hoạch hoặc có tối ưu hữu hạn, hoặc không khả thi, hoặc không bị chặn, SIMPLEX nhận ra đúng`"]
+  n52 --- n60
+  n61["`Bài toán 29-1 đến 29-5 và ghi chú chương`"]
+  n0 --- n61
+  n62["`29-1: bài toán khả thi của hệ bất đẳng thức tuyến tính và quy hoạch tuyến tính quy về nhau trong cỡ đa thức`"]
+  n61 --- n62
+  n63["`29-2 Bù trừ lỏng chặt: tối ưu khi mỗi biến dương ở phía này đi với ràng buộc chặt ở phía kia`"]
+  n61 --- n63
+  n64["`29-3 Quy hoạch nguyên: đối ngẫu yếu vẫn đúng, đối ngẫu mạnh không còn, IP ≤ P = D ≤ ID`"]
+  n61 --- n64
+  n65["`29-4 Bổ đề Farkas: đúng một trong hai hệ Ax ≤ 0, cᵀx #gt; 0 và Aᵀy = c, y ≥ 0 có nghiệm`"]
+  n61 --- n65
+  n66["`29-5 Lưu thông chi phí nhỏ nhất bảo toàn luồng ở mọi đỉnh, biểu diễn được luồng cực đại và đường đi ngắn nhất`"]
+  n61 --- n66
+  n67["`Ghi chú: Dantzig đưa ra đơn hình năm 1947, Khachian ellipsoid năm 1979, Karmarkar điểm trong`"]
+  n61 --- n67
+  n68["`Ghi chú: Klee và Minty dựng ví dụ đơn hình chạy 2ⁿ − 1 vòng, Borgwardt và Spielman – Teng giải thích vì sao thực tế nhanh`"]
+  n61 --- n68
+  n69["`Thông điệp xuyên suốt`"]
+  n0 --- n69
+  n70["`Sức mạnh thật của quy hoạch tuyến tính là giải bài toán mới hoặc biến thể chưa có thuật toán riêng`"]
+  n69 --- n70
+  n71["`Đơn hình chỉ viết lại hệ tương đương cho tới khi nghiệm tối ưu hiện ra hiển nhiên`"]
+  n69 --- n71
+  n72["`Đối ngẫu vừa là chứng chỉ tối ưu vừa nối quy hoạch tuyến tính với các định lý đồ thị`"]
+  n69 --- n72
   class n0 root
-  class n1,n8,n15,n24,n31,n36,n43 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n44,n45,n46 leaf
+  class n1,n10,n18,n27,n42,n52,n61,n69 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n62,n63,n64,n65,n66,n67,n68,n70,n71,n72 leaf
 ```
 
 ## Nguồn
