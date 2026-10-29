@@ -299,7 +299,13 @@ Mục 4.5 phát biểu định lý thợ (Định lý 4.1) với ba trường h�
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao thiết kế một thuật toán chia để trị và viết ra truy hồi cho thời gian chạy của nó?** Chia bài toán thành a bài toán con cỡ n/b, giải đệ quy, kết hợp; thời gian là T(n) = aT(n/b) + (chi phí chia + kết hợp). Với mảng con lớn nhất: chia đôi tại mid, mảng con tốt nhất hoặc nằm hẳn một nửa (đệ quy) hoặc vắt qua mid (tìm trong Θ(n) bằng hai lượt quét từ mid ra hai phía), nên T(n) = 2T(n/2) + Θ(n). Với nhân ma trận chia khối: 8 tích khối n/2 × n/2 cộng 4 phép cộng ma trận, T(n) = 8T(n/2) + Θ(n²); Strassen đổi 1 phép nhân lấy 14 phép cộng/trừ thêm (18 so với 4), T(n) = 7T(n/2) + Θ(n²). Bài học: hằng số nhân trong f(n) bị Θ nuốt, nhưng hệ số a trước T(n/b) thì không, vì a quyết định số nút của cây đệ quy.
+1. **Làm sao thiết kế một thuật toán chia để trị và viết ra truy hồi cho thời gian chạy của nó?** Chia bài toán thành a bài toán con cỡ n/b, giải đệ quy, kết hợp; thời gian là T(n) = aT(n/b) + (chi phí chia + kết hợp).
+
+   Với mảng con lớn nhất: chia đôi tại mid, mảng con tốt nhất hoặc nằm hẳn một nửa (đệ quy) hoặc vắt qua mid (tìm trong Θ(n) bằng hai lượt quét từ mid ra hai phía), nên T(n) = 2T(n/2) + Θ(n).
+
+   Với nhân ma trận chia khối: 8 tích khối n/2 × n/2 cộng 4 phép cộng ma trận, T(n) = 8T(n/2) + Θ(n²); Strassen đổi 1 phép nhân lấy 14 phép cộng/trừ thêm (18 so với 4), T(n) = 7T(n/2) + Θ(n²).
+
+   Bài học: hằng số nhân trong f(n) bị Θ nuốt, nhưng hệ số a trước T(n/b) thì không, vì a quyết định số nút của cây đệ quy.
 2. **Có những cách nào giải một truy hồi, và khi nào dùng cách nào?** Phương pháp thế (đoán rồi quy nạp, phải chứng minh đúng dạng chính xác như T(n) ≤ cn lg n, có thể phải trừ số hạng bậc thấp hoặc chọn lại cơ sở quy nạp) — mạnh nhưng cần đoán. Cây đệ quy (cộng chi phí từng tầng, thường ra chuỗi hình học hoặc chuỗi các số hạng bằng nhau) — để đoán, hoặc chứng minh nếu làm cẩn thận; dùng được cho truy hồi chia không đều như T(n/3) + T(2n/3) + cn. Phương pháp thợ — tra bảng cho dạng aT(n/b) + f(n): so f(n) với n^(log_b a); ví dụ với 7T(n/2) + Θ(n²) thì n^(lg 7) ≈ n^2,807 lớn hơn đa thức so với n², nghiệm Θ(n^(lg 7)).
 3. **Vì sao định lý thợ đúng?** Cây đệ quy của aT(n/b) + f(n) là cây a-phân cao log_b n với n^(log_b a) lá; tầng j tốn aʲ f(n/bʲ). Nếu f(n) nhỏ hơn đa thức so với n^(log_b a), các tầng tạo chuỗi hình học tăng và tổng bị lá chi phối: Θ(n^(log_b a)). Nếu bằng nhau, mỗi tầng tốn như nhau n^(log_b a), có log_b n tầng: Θ(n^(log_b a) lg n). Nếu f lớn hơn và thoả điều kiện chính quy, chuỗi giảm hình học và gốc chi phối: Θ(f(n)). Sàn và trần chỉ làm kích thước bài toán con lệch tối đa một hằng số b/(b − 1), không đổi kết quả.
 
@@ -852,7 +858,9 @@ bước cuối đúng khi c ≥ 1.
 
 Vượt qua trở ngại này chỉ tốn chút công. Ký hiệu tiệm cận chỉ yêu cầu chứng minh T(n) ≤ cn lg n với n ≥ n₀, trong đó n₀ là hằng số **ta được tự chọn**. Giữ điều kiện biên phiền phức T(1) = 1, nhưng bỏ nó ra khỏi phép quy nạp. Quan sát rằng với n > 3, truy hồi không phụ thuộc trực tiếp vào T(1) (vì ⌊n/2⌋ ≥ 2). Vậy thay T(1) bằng T(2) và T(3) làm các trường hợp cơ sở của quy nạp, đặt n₀ = 2.
 
-Cần phân biệt trường hợp cơ sở của **truy hồi** (n = 1) với trường hợp cơ sở của **chứng minh quy nạp** (n = 2 và n = 3). Với T(1) = 1, từ truy hồi có T(2) = 2 · 1 + 2 = 4 và T(3) = 2 · 1 + 3 = 5. Hoàn tất chứng minh T(n) ≤ cn lg n với c ≥ 1 bằng cách chọn c đủ lớn để T(2) ≤ c · 2 lg 2 và T(3) ≤ c · 3 lg 3. Thực ra mọi c ≥ 2 đều đủ: 4 ≤ 2 · 2 · 1 = 4 và 5 ≤ 2 · 3 · 1,585 ≈ 9,51. Với hầu hết truy hồi trong sách, mở rộng điều kiện biên để giả thiết quy nạp đúng với n nhỏ là thẳng thắn, nên tác giả không luôn viết chi tiết.
+Cần phân biệt trường hợp cơ sở của **truy hồi** (n = 1) với trường hợp cơ sở của **chứng minh quy nạp** (n = 2 và n = 3). Với T(1) = 1, từ truy hồi có T(2) = 2 · 1 + 2 = 4 và T(3) = 2 · 1 + 3 = 5. Hoàn tất chứng minh T(n) ≤ cn lg n với c ≥ 1 bằng cách chọn c đủ lớn để T(2) ≤ c · 2 lg 2 và T(3) ≤ c · 3 lg 3.
+
+Thực ra mọi c ≥ 2 đều đủ: 4 ≤ 2 · 2 · 1 = 4 và 5 ≤ 2 · 3 · 1,585 ≈ 9,51. Với hầu hết truy hồi trong sách, mở rộng điều kiện biên để giả thiết quy nạp đúng với n nhỏ là thẳng thắn, nên tác giả không luôn viết chi tiết.
 
 Kiểm tra số (người tổng hợp): T(4) = 2T(2) + 4 = 12 ≤ 2 · 4 · 2 = 16; T(5) = 2T(2) + 5 = 13 ≤ 2 · 5 · lg 5 ≈ 23,2; T(8) = 2T(4) + 8 = 32 ≤ 2 · 8 · 3 = 48.
 
@@ -1665,7 +1673,9 @@ Nói cách khác, mỗi khi chọn hai hàng và hai cột của mảng Monge v�
          ⎩ Σᵢ₌₁ᵏ aᵢT(bᵢx) + f(x)          nếu x > x₀ ,
   ```
 
-  trong đó: x ≥ 1 là số thực; x₀ là hằng số sao cho x₀ ≥ 1/bᵢ và x₀ ≥ 1/(1 − bᵢ) với i = 1, 2, …, k; aᵢ là hằng số dương với i = 1, 2, …, k; bᵢ là hằng số trong khoảng 0 < bᵢ < 1 với i = 1, 2, …, k; k ≥ 1 là hằng số nguyên; và f(x) là hàm không âm thoả **điều kiện tăng trưởng đa thức** (polynomial-growth condition): tồn tại hằng dương c₁, c₂ sao cho với mọi x ≥ 1, với i = 1, 2, …, k, và với mọi u thoả bᵢx ≤ u ≤ x, ta có c₁f(x) ≤ f(u) ≤ c₂f(x). (Nếu |f′(x)| bị chặn trên bởi một đa thức theo x thì f(x) thoả điều kiện tăng trưởng đa thức. Ví dụ, f(x) = x^α lg^β x thoả điều kiện này với mọi hằng số thực α, β.)
+  trong đó: x ≥ 1 là số thực; x₀ là hằng số sao cho x₀ ≥ 1/bᵢ và x₀ ≥ 1/(1 − bᵢ) với i = 1, 2, …, k; aᵢ là hằng số dương với i = 1, 2, …, k; bᵢ là hằng số trong khoảng 0 < bᵢ < 1 với i = 1, 2, …, k; k ≥ 1 là hằng số nguyên; và f(x) là hàm không âm thoả **điều kiện tăng trưởng đa thức** (polynomial-growth condition): tồn tại hằng dương c₁, c₂ sao cho với mọi x ≥ 1, với i = 1, 2, …, k, và với mọi u thoả bᵢx ≤ u ≤ x, ta có c₁f(x) ≤ f(u) ≤ c₂f(x).
+
+  (Nếu |f′(x)| bị chặn trên bởi một đa thức theo x thì f(x) thoả điều kiện tăng trưởng đa thức. Ví dụ, f(x) = x^α lg^β x thoả điều kiện này với mọi hằng số thực α, β.)
 - Tuy phương pháp thợ không áp dụng cho truy hồi như T(n) = T(⌊n/3⌋) + T(⌊2n/3⌋) + O(n), phương pháp Akra–Bazzi thì có. Để giải (4.30), trước hết tìm số thực duy nhất p sao cho Σᵢ₌₁ᵏ aᵢbᵢ^p = 1 (p như vậy luôn tồn tại). Nghiệm của truy hồi là
 
   ```text
@@ -1891,77 +1901,81 @@ flowchart LR
   n15 --- n18
   n19["`Ký hiệu tiệm cận nuốt hằng số nhân, nhưng hệ số 8 trước T(n/2) thì không vì nó quyết định số nút con`"]
   n15 --- n19
-  n20["`Strassen: lập 10 ma trận tổng hoặc hiệu S1 đến S10, chỉ 7 tích đệ quy P1 đến P7, ghép lại C bằng cộng trừ`"]
+  n20["`Strassen: lập 10 ma trận tổng hoặc hiệu S₁ đến S₁₀, chỉ 7 tích đệ quy P₁ đến P₇, ghép lại C bằng cộng trừ`"]
   n15 --- n20
   n21["`Strassen chạy T(n) = 7T(n/2) + Θ(n²) = Θ(n^(lg 7)) ≈ O(n^2,81)`"]
   n15 --- n21
-  n22["`Tác giả: phương pháp Strassen hoàn toàn không hiển nhiên, có lẽ là câu nói giảm nói tránh lớn nhất cuốn sách`"]
+  n22["`Exercise 4.2-7: nhân hai số phức chỉ bằng 3 phép nhân số thực thay vì 4`"]
   n15 --- n22
-  n23["`Mục 4.3–4.4 — Phương pháp thế và cây đệ quy`"]
-  n0 --- n23
-  n24["`Phương pháp thế: đoán dạng nghiệm rồi chứng minh bằng quy nạp, tìm hằng số`"]
-  n23 --- n24
-  n25["`Với T(n) = 2T(⌊n/2⌋) + n, đoán T(n) ≤ cn lg n đúng khi c ≥ 1, chọn cơ sở quy nạp n = 2, 3 vì T(1) = 1 làm hỏng cơ sở`"]
-  n23 --- n25
-  n26["`Khi quy nạp vướng, trừ một số hạng bậc thấp: đoán T(n) ≤ cn − d cho T(⌊n/2⌋) + T(⌈n/2⌉) + 1`"]
-  n23 --- n26
-  n27["`Cạm bẫy: viết T(n) ≤ cn + n = O(n) là sai, phải chứng minh đúng dạng chính xác T(n) ≤ cn`"]
-  n23 --- n27
-  n28["`Đổi biến m = lg n đưa T(n) = 2T(√n) + lg n về S(m) = 2S(m/2) + m, nghiệm O(lg n lg lg n)`"]
-  n23 --- n28
-  n29["`Cây đệ quy: cộng chi phí từng tầng rồi cộng các tầng, dùng tốt nhất để sinh dự đoán rồi kiểm bằng phép thế`"]
-  n23 --- n29
-  n30["`Cây của 3T(n/4) + cn²: tầng i tốn (3/16)ⁱ cn², chuỗi giảm, tổng tối đa (16/13)cn², nghiệm Θ(n²)`"]
-  n23 --- n30
-  n31["`Cây của T(n/3) + T(2n/3) + cn: mỗi tầng tốn tối đa cn, cao log₃/₂ n tầng, nghiệm O(n lg n)`"]
-  n23 --- n31
-  n32["`Mục 4.5–★4.6 — Định lý thợ cho T(n) = aT(n/b) + f(n)`"]
-  n0 --- n32
-  n33["`So f(n) với n^p, trong đó p = log cơ số b của a, chính là số lá của cây đệ quy`"]
-  n32 --- n33
-  n34["`Trường hợp 1: f nhỏ hơn n^p theo nghĩa đa thức thì nghiệm Θ(n^p), chi phí dồn ở lá`"]
-  n32 --- n34
-  n35["`Trường hợp 2: f cùng cỡ n^p thì nghiệm Θ(n^p lg n), chi phí chia đều các tầng`"]
-  n32 --- n35
-  n36["`Trường hợp 3: f lớn hơn n^p theo nghĩa đa thức và thoả điều kiện chính quy af(n/b) ≤ cf(n), c nhỏ hơn 1, thì nghiệm Θ(f(n)), gốc chi phối`"]
-  n32 --- n36
-  n37["`Có khoảng trống giữa các trường hợp: 2T(n/2) + n lg n không dùng được định lý, nghiệm thật là Θ(n lg² n)`"]
-  n32 --- n37
-  n38["`Ví dụ áp dụng: 9T(n/3) + n cho Θ(n²), T(2n/3) + 1 cho Θ(lg n), 3T(n/4) + n lg n cho Θ(n lg n)`"]
-  n32 --- n38
-  n39["`Chứng minh ★4.6: Bổ đề 4.2 viết T(n) thành chi phí lá cộng tổng aʲ f(n/bʲ), Bổ đề 4.3 chặn tổng bằng chuỗi tăng, hằng hoặc giảm`"]
-  n32 --- n39
-  n40["`Sàn và trần chỉ làm kích thước bài toán con lệch tối đa hằng số b/(b − 1), định lý đúng cho mọi số nguyên n`"]
-  n32 --- n40
-  n41["`Bài toán và ghi chú cuối chương (trang 107–113)`"]
-  n0 --- n41
-  n42["`Problem 4-2: chép cả mảng khi truyền tham số làm sắp xếp trộn thành Θ(N²)`"]
-  n41 --- n42
-  n43["`Problem 4-4: hàm sinh cho Fibonacci Fᵢ = φⁱ/√5 làm tròn tới số nguyên gần nhất`"]
-  n41 --- n43
-  n44["`Problem 4-5: nếu hơn nửa số chip tốt, tìm mọi chip tốt bằng Θ(n) lần thử từng cặp`"]
-  n41 --- n44
-  n45["`Problem 4-6: min trái nhất các hàng của mảng Monge có chỉ số cột không giảm, tìm được trong O(m + n lg m)`"]
-  n41 --- n45
-  n46["`Chia để trị có từ Karatsuba và Ofman 1962, có thể từ Gauss 1805, Strassen công bố 1969`"]
-  n41 --- n46
-  n47["`Coppersmith–Winograd đạt O(n^2,376), cận dưới chỉ là Ω(n²) hiển nhiên`"]
-  n41 --- n47
-  n48["`Thực tế Strassen ít được chọn: hằng số lớn, kém ổn định số, tốn bộ nhớ, nên chỉ dùng trên điểm giao rồi chuyển về cách thường`"]
-  n41 --- n48
-  n49["`Akra–Bazzi giải truy hồi có bài toán con khác cỡ, kể cả T(n/3) + T(2n/3) + O(n)`"]
-  n41 --- n49
-  n50["`Thông điệp xuyên suốt`"]
-  n0 --- n50
-  n51["`Muốn chia để trị nhanh hơn: giảm số lời gọi đệ quy a (Strassen, Karatsuba) hoặc giảm chi phí kết hợp khi nó đang chi phối`"]
-  n50 --- n51
-  n52["`Tầng nào của cây đệ quy tốn nhiều nhất thì quyết định nghiệm`"]
-  n50 --- n52
-  n53["`Tiệm cận tốt hơn chưa chắc nhanh hơn ở mọi kích thước, cần ngưỡng chuyển sang thuật toán đơn giản cho bài toán con nhỏ`"]
-  n50 --- n53
+  n23["`Tác giả: phương pháp Strassen hoàn toàn không hiển nhiên, có lẽ là câu nói giảm nói tránh lớn nhất cuốn sách`"]
+  n15 --- n23
+  n24["`Mục 4.3–4.4 — Phương pháp thế và cây đệ quy`"]
+  n0 --- n24
+  n25["`Phương pháp thế: đoán dạng nghiệm rồi chứng minh bằng quy nạp, tìm hằng số`"]
+  n24 --- n25
+  n26["`Với T(n) = 2T(⌊n/2⌋) + n, đoán T(n) ≤ cn lg n đúng khi c ≥ 1, chọn cơ sở quy nạp n = 2, 3 vì T(1) = 1 làm hỏng cơ sở`"]
+  n24 --- n26
+  n27["`Khi quy nạp vướng, trừ một số hạng bậc thấp: đoán T(n) ≤ cn − d cho T(⌊n/2⌋) + T(⌈n/2⌉) + 1`"]
+  n24 --- n27
+  n28["`Cạm bẫy: viết T(n) ≤ cn + n = O(n) là sai, phải chứng minh đúng dạng chính xác T(n) ≤ cn`"]
+  n24 --- n28
+  n29["`Exercise 4.3-8 ghi 4T(n/2) + n² có nghiệm Θ(n²) là sai, nghiệm đúng là Θ(n² lg n)`"]
+  n24 --- n29
+  n30["`Đổi biến m = lg n đưa T(n) = 2T(√n) + lg n về S(m) = 2S(m/2) + m, nghiệm O(lg n lg lg n)`"]
+  n24 --- n30
+  n31["`Cây đệ quy: cộng chi phí từng tầng rồi cộng các tầng, dùng tốt nhất để sinh dự đoán rồi kiểm bằng phép thế`"]
+  n24 --- n31
+  n32["`Cây của 3T(n/4) + cn²: tầng i tốn (3/16)ⁱ cn², chuỗi giảm, tổng tối đa (16/13)cn², nghiệm Θ(n²)`"]
+  n24 --- n32
+  n33["`Cây của T(n/3) + T(2n/3) + cn: mỗi tầng tốn tối đa cn, cao log₃/₂ n tầng, nghiệm O(n lg n)`"]
+  n24 --- n33
+  n34["`Mục 4.5–★4.6 — Định lý thợ cho T(n) = aT(n/b) + f(n)`"]
+  n0 --- n34
+  n35["`So f(n) với n^(log#95;b a), chính là số lá của cây đệ quy`"]
+  n34 --- n35
+  n36["`Trường hợp 1: f nhỏ hơn n^(log#95;b a) theo nghĩa đa thức thì nghiệm Θ(n^(log#95;b a)), chi phí dồn ở lá`"]
+  n34 --- n36
+  n37["`Trường hợp 2: f cùng cỡ n^(log#95;b a) thì nghiệm Θ(n^(log#95;b a) lg n), chi phí chia đều các tầng`"]
+  n34 --- n37
+  n38["`Trường hợp 3: f lớn hơn n^(log#95;b a) theo nghĩa đa thức và thoả điều kiện chính quy af(n/b) ≤ cf(n), c #lt; 1, thì nghiệm Θ(f(n)), gốc chi phối`"]
+  n34 --- n38
+  n39["`Có khoảng trống giữa các trường hợp: 2T(n/2) + n lg n không dùng được định lý, nghiệm thật là Θ(n lg² n)`"]
+  n34 --- n39
+  n40["`Ví dụ áp dụng: 9T(n/3) + n cho Θ(n²), T(2n/3) + 1 cho Θ(lg n), 3T(n/4) + n lg n cho Θ(n lg n)`"]
+  n34 --- n40
+  n41["`Chứng minh ★4.6: Bổ đề 4.2 viết T(n) thành chi phí lá cộng tổng aʲ f(n/bʲ), Bổ đề 4.3 chặn tổng bằng chuỗi tăng, hằng hoặc giảm`"]
+  n34 --- n41
+  n42["`Sàn và trần chỉ làm kích thước bài toán con lệch tối đa hằng số b/(b − 1), định lý đúng cho mọi số nguyên n`"]
+  n34 --- n42
+  n43["`Bài toán và ghi chú cuối chương (trang 107–113)`"]
+  n0 --- n43
+  n44["`Problem 4-2: chép cả mảng khi truyền tham số làm sắp xếp trộn thành Θ(N²)`"]
+  n43 --- n44
+  n45["`Problem 4-4: hàm sinh cho Fibonacci Fᵢ = φⁱ/√5 làm tròn tới số nguyên gần nhất`"]
+  n43 --- n45
+  n46["`Problem 4-5: nếu hơn nửa số chip tốt, tìm mọi chip tốt bằng Θ(n) lần thử từng cặp`"]
+  n43 --- n46
+  n47["`Problem 4-6: min trái nhất các hàng của mảng Monge có chỉ số cột không giảm, tìm được trong O(m + n lg m)`"]
+  n43 --- n47
+  n48["`Chia để trị có từ Karatsuba và Ofman 1962, có thể từ Gauss 1805, Strassen công bố 1969`"]
+  n43 --- n48
+  n49["`Coppersmith–Winograd đạt O(n^2,376), cận dưới chỉ là Ω(n²) hiển nhiên`"]
+  n43 --- n49
+  n50["`Thực tế Strassen ít được chọn: hằng số lớn, kém ổn định số, tốn bộ nhớ, nên chỉ dùng trên điểm giao rồi chuyển về cách thường`"]
+  n43 --- n50
+  n51["`Akra–Bazzi giải truy hồi có bài toán con khác cỡ, kể cả T(n/3) + T(2n/3) + O(n)`"]
+  n43 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Muốn chia để trị nhanh hơn: giảm số lời gọi đệ quy a (Strassen, Karatsuba) hoặc giảm chi phí kết hợp khi nó đang chi phối`"]
+  n52 --- n53
+  n54["`Tầng nào của cây đệ quy tốn nhiều nhất thì quyết định nghiệm`"]
+  n52 --- n54
+  n55["`Tiệm cận tốt hơn chưa chắc nhanh hơn ở mọi kích thước, cần ngưỡng chuyển sang thuật toán đơn giản cho bài toán con nhỏ`"]
+  n52 --- n55
   class n0 root
-  class n1,n6,n15,n23,n32,n41,n50 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53 leaf
+  class n1,n6,n15,n24,n34,n43,n52 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55 leaf
 ```
 
 ## Nguồn
@@ -1992,5 +2006,15 @@ Chương 7 ([C07-quicksort.md](C07-quicksort.md)) dùng phương pháp thế đ�
   - Trang 113, công thức nghiệm Akra–Bazzi: vế trái viết "T(n) = Θ(x^p(1 + ∫₁ˣ f(u)/u^(p+1) du))" trong khi biến là x; đúng ra là T(x).
   - Trang 94, phát biểu Định lý 4.1 chỉ nói "f(n) là một hàm", còn câu dẫn trước đó (trang 93) yêu cầu f(n) dương tiệm cận (asymptotically positive); điều kiện này cần cho cả ba trường hợp.
   - Mục 4.6.2 chỉ chứng minh chi tiết cận trên cho trường hợp 2 và 3 khi có trần; trường hợp 1 được nói là "gần như giống hệt, đại số phức tạp hơn", và cận dưới "chứng minh tương tự" — đây là chỗ sách để người đọc tự hoàn tất, không phải lỗi.
-- **Mọi phép tính và ví dụ trong sách đã được tự kiểm tra lại và đúng:** mảng con lớn nhất A[8..11] với tổng 43 trên mảng 16 giá trị thay đổi (kể cả lần chạy FIND-MAXIMUM-SUBARRAY: nửa trái cho A[4..4] tổng 20, nửa phải cho A[9..11] tổng 25, phần vắt qua giữa A[8..11] tổng 18 + 25 = 43); ví dụ phản chứng 5 ngày giá 10, 11, 7, 10, 6 (lãi tối đa 3); các khai triển C₁₁ = P₅ + P₄ − P₂ + P₆, C₁₂ = P₁ + P₂, C₂₁ = P₃ + P₄, C₂₂ = P₅ + P₁ − P₃ − P₇ của Strassen; T(2) = 4 và T(3) = 5 cho truy hồi (4.19) với T(1) = 1 và c ≥ 2 đủ cho hai trường hợp cơ sở; hệ số 16/13 của cây 3T(n/4) + cn²; hằng số d ≥ c/(lg 3 − 2/3) ≈ 1,089c của cây T(n/3) + T(2n/3) + cn; các giá trị ε ≈ 0,2 (vì log₄ 3 ≈ 0,793) và ε = 0,8 (vì lg 7 ≈ 2,807) trong các ví dụ của định lý thợ. Mảng Monge ví dụ ở Problem 4-6 đúng là Monge; mảng ở Problem 4-6(b) vi phạm đúng một chỗ (hàng 1–2, cột 2–3: 23 + 7 = 30 > 22 + 6 = 28).
-- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Chương 4 vẫn tên "Divide-and-Conquer" nhưng bài toán mảng con lớn nhất không còn là một mục riêng; chương mở đầu bằng nhân ma trận vuông (thủ tục cộng dồn C = C + A · B), rồi Strassen, phương pháp thế, cây đệ quy, phương pháp thợ. Định lý thợ ở ấn bản 4 mở rộng trường hợp 2 thành f(n) = Θ(n^(log_b a) lg^k n) với k ≥ 0, cho nghiệm Θ(n^(log_b a) lg^(k+1) n) — chính là nội dung Exercise 4.6-2 ở ấn bản này. Truy hồi được xét trên số thực ("algorithmic recurrences"), mục chứng minh định lý thợ (★) chứng minh "định lý thợ liên tục", và có thêm một mục ★ riêng về truy hồi Akra–Bazzi (ở ấn bản 3 chỉ nằm trong ghi chú chương). Các khác biệt nhỏ hơn, người tổng hợp không nhớ chắc nên không liệt kê.
+- **Mọi phép tính và ví dụ trong sách đã được tự kiểm tra lại và đúng:** mảng con lớn nhất A[8..11] với tổng 43 trên mảng 16 giá trị thay đổi (kể cả lần chạy FIND-MAXIMUM-SUBARRAY: nửa trái cho A[4..4] tổng 20, nửa phải cho A[9..11] tổng 25, phần vắt qua giữa A[8..11] tổng 18 + 25 = 43); ví dụ phản chứng 5 ngày giá 10, 11, 7, 10, 6 (lãi tối đa 3).
+
+  Các khai triển C₁₁ = P₅ + P₄ − P₂ + P₆, C₁₂ = P₁ + P₂, C₂₁ = P₃ + P₄, C₂₂ = P₅ + P₁ − P₃ − P₇ của Strassen; T(2) = 4 và T(3) = 5 cho truy hồi (4.19) với T(1) = 1 và c ≥ 2 đủ cho hai trường hợp cơ sở.
+
+  Hệ số 16/13 của cây 3T(n/4) + cn²; hằng số d ≥ c/(lg 3 − 2/3) ≈ 1,089c của cây T(n/3) + T(2n/3) + cn; các giá trị ε ≈ 0,2 (vì log₄ 3 ≈ 0,793) và ε = 0,8 (vì lg 7 ≈ 2,807) trong các ví dụ của định lý thợ.
+
+  Mảng Monge ví dụ ở Problem 4-6 đúng là Monge; mảng ở Problem 4-6(b) vi phạm đúng một chỗ (hàng 1–2, cột 2–3: 23 + 7 = 30 > 22 + 6 = 28).
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Chương 4 vẫn tên "Divide-and-Conquer" nhưng bài toán mảng con lớn nhất không còn là một mục riêng; chương mở đầu bằng nhân ma trận vuông (thủ tục cộng dồn C = C + A · B), rồi Strassen, phương pháp thế, cây đệ quy, phương pháp thợ.
+
+  Định lý thợ ở ấn bản 4 mở rộng trường hợp 2 thành f(n) = Θ(n^(log_b a) lg^k n) với k ≥ 0, cho nghiệm Θ(n^(log_b a) lg^(k+1) n) — chính là nội dung Exercise 4.6-2 ở ấn bản này.
+
+  Truy hồi được xét trên số thực ("algorithmic recurrences"), mục chứng minh định lý thợ (★) chứng minh "định lý thợ liên tục", và có thêm một mục ★ riêng về truy hồi Akra–Bazzi (ở ấn bản 3 chỉ nằm trong ghi chú chương). Các khác biệt nhỏ hơn, người tổng hợp không nhớ chắc nên không liệt kê.

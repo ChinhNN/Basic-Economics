@@ -256,9 +256,23 @@ Mục 3.2 đưa ra các sự kiện cần nhớ: mọi hàm mũ cơ số > 1 tă
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Nói "thuật toán chạy trong thời gian O(n²)" hay "Θ(n lg n)" chính xác nghĩa là gì?** Mỗi ký hiệu là một tập hàm. f(n) = Θ(g(n)) nghĩa là tồn tại hằng số dương c₁, c₂, n₀ để 0 ≤ c₁g(n) ≤ f(n) ≤ c₂g(n) với mọi n ≥ n₀ (cận chặt); f(n) = O(g(n)) chỉ đòi 0 ≤ f(n) ≤ cg(n) (cận trên, không cần chặt, nên n = O(n²) đúng); f(n) = Ω(g(n)) chỉ đòi 0 ≤ cg(n) ≤ f(n) (cận dưới). Ví dụ n²/2 − 3n = Θ(n²) với c₁ = 1/14, c₂ = 1/2, n₀ = 7. Định lý 3.1: Θ = O ∩ Ω. Khi nói "thời gian chạy là O(n²)" (không kèm "xấu nhất"), ta khẳng định với MỌI đầu vào cỡ n, thời gian chạy ≤ một hàm thuộc O(n²) — tương đương thời gian chạy xấu nhất là O(n²). Khi nói "thời gian chạy là Ω(g(n))", ta khẳng định mọi đầu vào đều chạy ít nhất cg(n) — tương đương thời gian tốt nhất là Ω(g(n)). Vì vậy sắp xếp chèn có thời gian chạy Ω(n) và O(n²), thời gian xấu nhất Θ(n²), nhưng thời gian chạy (mọi đầu vào) KHÔNG phải Θ(n²) vì mảng đã sắp chỉ tốn Θ(n).
-2. **Dùng ký hiệu tiệm cận trong công thức và so sánh hai hàm thế nào cho đúng?** Ký hiệu đứng riêng ở vế phải nghĩa là "thuộc"; nằm trong công thức thì đại diện một hàm vô danh (2n² + 3n + 1 = 2n² + Θ(n) với hàm vô danh 3n + 1); ở vế trái thì đọc là "với mọi cách chọn hàm vô danh bên trái, có cách chọn bên phải cho đẳng thức đúng" (2n² + Θ(n) = Θ(n²)). Thêm hai ký hiệu không chặt: f = o(g) khi với MỌI c > 0 có n₀ để 0 ≤ f(n) < cg(n), tương đương lim f/g = 0 (2n = o(n²)); f = ω(g) khi lim f/g = ∞ (n²/2 = ω(n)). Các ký hiệu bắc cầu, phản xạ, Θ đối xứng, O–Ω và o–ω đối xứng chuyển vị, và giống ≤, ≥, =, <, > của số thực; nhưng hai hàm có thể không so sánh được (n với n^(1+sin n)).
-3. **Những hàm nào hay gặp và chúng xếp hạng ra sao?** Từ chậm tới nhanh: hằng số Θ(1) ≺ lg* n (≤ 5 với mọi n thực tế) ≺ lg lg n ≺ đa-logarit lg^k n ≺ đa thức n^ε, n, n lg n, n², n³ ≺ hàm mũ 1,5ⁿ, 2ⁿ, eⁿ ≺ n! ≺ nⁿ ≺ 2^(2ⁿ). Ba sự kiện then chốt: nᵇ = o(aⁿ) với mọi a > 1 (mũ thắng đa thức); lg^b n = o(nᵃ) với mọi a > 0 (đa thức thắng đa-logarit); Stirling n! = √(2πn)(n/e)ⁿ(1 + Θ(1/n)), suy ra lg(n!) = Θ(n lg n), n! = o(nⁿ), n! = ω(2ⁿ). Đổi cơ số log chỉ nhân một hằng số (log_b a = log_c a / log_c b), nên trong O có thể viết lg n mà không cần cơ số. Số Fibonacci Fᵢ = ⌊φⁱ/√5 + 1/2⌋ với φ = (1 + √5)/2 ≈ 1,618, nên Fᵢ = Θ(φⁱ).
+1. **Nói "thuật toán chạy trong thời gian O(n²)" hay "Θ(n lg n)" chính xác nghĩa là gì?** Mỗi ký hiệu là một tập hàm. f(n) = Θ(g(n)) nghĩa là tồn tại hằng số dương c₁, c₂, n₀ để 0 ≤ c₁g(n) ≤ f(n) ≤ c₂g(n) với mọi n ≥ n₀ (cận chặt); f(n) = O(g(n)) chỉ đòi 0 ≤ f(n) ≤ cg(n) (cận trên, không cần chặt, nên n = O(n²) đúng); f(n) = Ω(g(n)) chỉ đòi 0 ≤ cg(n) ≤ f(n) (cận dưới).
+
+   Ví dụ n²/2 − 3n = Θ(n²) với c₁ = 1/14, c₂ = 1/2, n₀ = 7. Định lý 3.1: Θ = O ∩ Ω.
+
+   Khi nói "thời gian chạy là O(n²)" (không kèm "xấu nhất"), ta khẳng định với MỌI đầu vào cỡ n, thời gian chạy ≤ một hàm thuộc O(n²) — tương đương thời gian chạy xấu nhất là O(n²). Khi nói "thời gian chạy là Ω(g(n))", ta khẳng định mọi đầu vào đều chạy ít nhất cg(n) — tương đương thời gian tốt nhất là Ω(g(n)).
+
+   Vì vậy sắp xếp chèn có thời gian chạy Ω(n) và O(n²), thời gian xấu nhất Θ(n²), nhưng thời gian chạy (mọi đầu vào) KHÔNG phải Θ(n²) vì mảng đã sắp chỉ tốn Θ(n).
+2. **Dùng ký hiệu tiệm cận trong công thức và so sánh hai hàm thế nào cho đúng?** Ký hiệu đứng riêng ở vế phải nghĩa là "thuộc"; nằm trong công thức thì đại diện một hàm vô danh (2n² + 3n + 1 = 2n² + Θ(n) với hàm vô danh 3n + 1); ở vế trái thì đọc là "với mọi cách chọn hàm vô danh bên trái, có cách chọn bên phải cho đẳng thức đúng" (2n² + Θ(n) = Θ(n²)).
+
+   Thêm hai ký hiệu không chặt: f = o(g) khi với MỌI c > 0 có n₀ để 0 ≤ f(n) < cg(n), tương đương lim f/g = 0 (2n = o(n²)); f = ω(g) khi lim f/g = ∞ (n²/2 = ω(n)).
+
+   Các ký hiệu bắc cầu, phản xạ, Θ đối xứng, O–Ω và o–ω đối xứng chuyển vị, và giống ≤, ≥, =, <, > của số thực; nhưng hai hàm có thể không so sánh được (n với n^(1+sin n)).
+3. **Những hàm nào hay gặp và chúng xếp hạng ra sao?** Từ chậm tới nhanh: hằng số Θ(1) ≺ lg* n (≤ 5 với mọi n thực tế) ≺ lg lg n ≺ đa-logarit lg^k n ≺ đa thức n^ε, n, n lg n, n², n³ ≺ hàm mũ 1,5ⁿ, 2ⁿ, eⁿ ≺ n! ≺ nⁿ ≺ 2^(2ⁿ).
+
+   Ba sự kiện then chốt: nᵇ = o(aⁿ) với mọi a > 1 (mũ thắng đa thức); lg^b n = o(nᵃ) với mọi a > 0 (đa thức thắng đa-logarit); Stirling n! = √(2πn)(n/e)ⁿ(1 + Θ(1/n)), suy ra lg(n!) = Θ(n lg n), n! = o(nⁿ), n! = ω(2ⁿ).
+
+   Đổi cơ số log chỉ nhân một hằng số (log_b a = log_c a / log_c b), nên trong O có thể viết lg n mà không cần cơ số. Số Fibonacci Fᵢ = ⌊φⁱ/√5 + 1/2⌋ với φ = (1 + √5)/2 ≈ 1,618, nên Fᵢ = Θ(φⁱ).
 
 ## Khái niệm cần biết
 
@@ -1190,85 +1204,87 @@ flowchart LR
   n6 --- n11
   n12["`Định lý 3.1: f = Θ(g) khi và chỉ khi f = O(g) và f = Ω(g)`"]
   n6 --- n12
-  n13["`Sắp xếp chèn: thời gian chạy Ω(n) và O(n²), xấu nhất Θ(n²), nhưng không phải Θ(n²) cho mọi đầu vào`"]
+  n13["`Câu “thời gian chạy ít nhất là O(n²)” vô nghĩa vì O chỉ chặn trên (Bài tập 3.1-3)`"]
   n6 --- n13
-  n14["`Mục 3.1 phần 2 — ký hiệu trong phương trình, o, ω và so sánh hàm`"]
-  n0 --- n14
-  n15["`Đứng một mình ở vế phải, dấu = nghĩa là thuộc tập`"]
-  n14 --- n15
-  n16["`Trong công thức, ký hiệu là một hàm vô danh: 2n² + 3n + 1 = 2n² + Θ(n)`"]
-  n14 --- n16
-  n17["`Truy hồi sắp xếp trộn T(n) = 2T(n/2) + Θ(n) giấu số hạng bậc thấp vào Θ(n)`"]
-  n14 --- n17
-  n18["`Ở vế trái: mọi cách chọn bên trái đều có cách chọn bên phải, vế phải thô hơn vế trái`"]
-  n14 --- n18
-  n19["`o(g): f nhỏ hơn c·g(n) với mọi c dương, tương đương lim f/g = 0, ví dụ 2n = o(n²)`"]
-  n14 --- n19
-  n20["`ω(g): lim f/g = ∞, ví dụ n²/2 = ω(n) nhưng n²/2 ≠ ω(n²)`"]
-  n14 --- n20
-  n21["`Bắc cầu, phản xạ, đối xứng, đối xứng chuyển vị: O như ≤, Θ như =, o như nhỏ hơn hẳn`"]
-  n14 --- n21
-  n22["`Không có tính tam phân: n và n^(1+sin n) không so sánh được`"]
-  n14 --- n22
-  n23["`Mục 3.2 phần 1 — phần nguyên, đồng dư, đa thức, mũ, logarit`"]
-  n0 --- n23
-  n24["`Phần nguyên: ⌈n/2⌉ + ⌊n/2⌋ = n, chia hai lần bằng chia một lần cho tích`"]
-  n23 --- n24
-  n25["`a mod n = a − n⌊a/n⌋ luôn trong khoảng 0 đến n − 1, ví dụ −7 mod 3 = 2`"]
-  n23 --- n25
-  n26["`Bị chặn đa thức: f = O(n^k) với k nào đó`"]
-  n23 --- n26
-  n27["`Mọi hàm mũ cơ số lớn hơn 1 tăng nhanh hơn mọi đa thức: nᵇ = o(aⁿ)`"]
-  n23 --- n27
-  n28["`eˣ ≥ 1 + x, và lim (1 + x/n)ⁿ = eˣ`"]
-  n23 --- n28
-  n29["`Đổi cơ số logarit chỉ đổi hằng số nhân nên viết lg n trong O`"]
-  n23 --- n29
-  n30["`Mọi đa thức dương thắng mọi đa-logarit: lg^b n = o(nᵃ), nhưng lg³ n chỉ thua √n khi n ≈ 10⁹`"]
-  n23 --- n30
-  n31["`Mục 3.2 phần 2 — giai thừa, logarit lặp, số Fibonacci`"]
-  n0 --- n31
-  n32["`Stirling: n! = √(2πn)(n/e)ⁿ(1 + Θ(1/n)), với n = 10 sai lệch khoảng 0,83%`"]
-  n31 --- n32
-  n33["`Suy ra lg(n!) = Θ(n lg n), n! = o(nⁿ), n! = ω(2ⁿ)`"]
-  n31 --- n33
-  n34["`Logarit lặp lg∗ n: số lần lấy lg tới khi ≤ 1, lg∗ 65536 = 4`"]
-  n31 --- n34
-  n35["`Vũ trụ chỉ có khoảng 10⁸⁰ nguyên tử nên thực tế lg∗ n ≤ 5`"]
-  n31 --- n35
-  n36["`Fᵢ = (φⁱ − φ̂ⁱ)/√5 = φⁱ/√5 làm tròn, φ ≈ 1,618 là tỷ lệ vàng`"]
-  n31 --- n36
-  n37["`Số Fibonacci tăng theo hàm mũ, Fᵢ = Θ(φⁱ)`"]
-  n31 --- n37
-  n38["`Bài toán 3-1 đến 3-6 và Ghi chú chương`"]
-  n0 --- n38
-  n39["`3-1: đa thức bậc d so với n^k cho O, Ω, Θ, o, ω tùy k so với d`"]
-  n38 --- n39
-  n40["`3-3: xếp 30 hàm theo bậc tăng trưởng, từ 2^(2ⁿ⁺¹) xuống hằng số 1`"]
-  n38 --- n40
-  n41["`3-4: f = O(g) không kéo theo 2^f = O(2^g), ví dụ 4ⁿ ≠ O(2ⁿ)`"]
-  n38 --- n41
-  n42["`3-5: biến thể Ω vô cùng, O′ và soft-oh Õ bỏ qua thừa số logarit`"]
-  n38 --- n42
-  n43["`3-6: hàm lặp, ví dụ √n lặp xuống 2 cần Θ(lg lg n) lần`"]
-  n38 --- n43
-  n44["`O từ Bachmann 1892, o từ Landau 1909, Knuth cổ vũ dùng Ω và Θ`"]
-  n38 --- n44
-  n45["`Nhiều người vẫn dùng O ở chỗ Θ mới chính xác`"]
-  n38 --- n45
-  n46["`Thông điệp xuyên suốt`"]
-  n0 --- n46
-  n47["`Mỗi ký hiệu tiệm cận là một tập hàm, dấu = là cách viết lạm dụng của thuộc`"]
-  n46 --- n47
-  n48["`Luôn nói rõ cận gì (O, Ω, Θ) và cho trường hợp nào (xấu nhất, tốt nhất, mọi đầu vào)`"]
-  n46 --- n48
-  n49["`Thang tăng trưởng: 1 ≺ lg∗ n ≺ lg lg n ≺ đa-logarit ≺ đa thức ≺ mũ ≺ n! ≺ nⁿ`"]
-  n46 --- n49
-  n50["`Tiệm cận là phát biểu khi n → ∞, với n thực tế hằng số vẫn có thể quyết định`"]
-  n46 --- n50
+  n14["`Sắp xếp chèn: thời gian chạy Ω(n) và O(n²), xấu nhất Θ(n²), nhưng không phải Θ(n²) cho mọi đầu vào`"]
+  n6 --- n14
+  n15["`Mục 3.1 phần 2 — ký hiệu trong phương trình, o, ω và so sánh hàm`"]
+  n0 --- n15
+  n16["`Đứng một mình ở vế phải, dấu = nghĩa là thuộc tập`"]
+  n15 --- n16
+  n17["`Trong công thức, ký hiệu là một hàm vô danh: 2n² + 3n + 1 = 2n² + Θ(n)`"]
+  n15 --- n17
+  n18["`Truy hồi sắp xếp trộn T(n) = 2T(n/2) + Θ(n) giấu số hạng bậc thấp vào Θ(n)`"]
+  n15 --- n18
+  n19["`Ở vế trái: mọi cách chọn bên trái đều có cách chọn bên phải, vế phải thô hơn vế trái`"]
+  n15 --- n19
+  n20["`o(g): 0 ≤ f(n) #lt; c·g(n) với mọi c #gt; 0, tương đương lim f/g = 0, ví dụ 2n = o(n²)`"]
+  n15 --- n20
+  n21["`ω(g): lim f/g = ∞, ví dụ n²/2 = ω(n) nhưng n²/2 ≠ ω(n²)`"]
+  n15 --- n21
+  n22["`Bắc cầu, phản xạ, đối xứng, đối xứng chuyển vị: O như ≤, Ω như ≥, Θ như =, o như #lt;, ω như #gt;`"]
+  n15 --- n22
+  n23["`Không có tính tam phân: n và n^(1+sin n) không so sánh được`"]
+  n15 --- n23
+  n24["`Mục 3.2 phần 1 — phần nguyên, đồng dư, đa thức, mũ, logarit`"]
+  n0 --- n24
+  n25["`Phần nguyên: ⌈n/2⌉ + ⌊n/2⌋ = n, chia hai lần bằng chia một lần cho tích`"]
+  n24 --- n25
+  n26["`a mod n = a − n⌊a/n⌋ thoả 0 ≤ a mod n #lt; n, ví dụ −7 mod 3 = 2`"]
+  n24 --- n26
+  n27["`Bị chặn đa thức: f = O(n^k) với k nào đó`"]
+  n24 --- n27
+  n28["`Mọi hàm mũ cơ số lớn hơn 1 tăng nhanh hơn mọi đa thức: nᵇ = o(aⁿ)`"]
+  n24 --- n28
+  n29["`eˣ ≥ 1 + x, và lim (1 + x/n)ⁿ = eˣ`"]
+  n24 --- n29
+  n30["`Đổi cơ số logarit chỉ đổi hằng số nhân nên viết lg n trong O`"]
+  n24 --- n30
+  n31["`Mọi đa thức dương thắng mọi đa-logarit: lg^b n = o(nᵃ), nhưng lg³ n chỉ thua √n khi n ≈ 10⁹`"]
+  n24 --- n31
+  n32["`Mục 3.2 phần 2 — giai thừa, logarit lặp, số Fibonacci`"]
+  n0 --- n32
+  n33["`Stirling: n! = √(2πn)(n/e)ⁿ(1 + Θ(1/n)), với n = 10 sai lệch khoảng 0,83%`"]
+  n32 --- n33
+  n34["`Suy ra lg(n!) = Θ(n lg n), n! = o(nⁿ), n! = ω(2ⁿ)`"]
+  n32 --- n34
+  n35["`Logarit lặp lg#42; n: số lần lấy lg tới khi ≤ 1, lg#42; 65536 = 4`"]
+  n32 --- n35
+  n36["`Vũ trụ chỉ có khoảng 10⁸⁰ nguyên tử nên thực tế lg#42; n ≤ 5`"]
+  n32 --- n36
+  n37["`Fᵢ = (φⁱ − φ̂ⁱ)/√5 = φⁱ/√5 làm tròn, φ ≈ 1,618 là tỷ lệ vàng`"]
+  n32 --- n37
+  n38["`Số Fibonacci tăng theo hàm mũ, Fᵢ = Θ(φⁱ)`"]
+  n32 --- n38
+  n39["`Bài toán 3-1 đến 3-6 và Ghi chú chương`"]
+  n0 --- n39
+  n40["`3-1: đa thức bậc d so với n^k cho O, Ω, Θ, o, ω tùy k so với d`"]
+  n39 --- n40
+  n41["`3-3: xếp 30 hàm theo bậc tăng trưởng, từ 2^(2ⁿ⁺¹) xuống hằng số 1`"]
+  n39 --- n41
+  n42["`3-4: f = O(g) không kéo theo 2^f = O(2^g), ví dụ 4ⁿ ≠ O(2ⁿ)`"]
+  n39 --- n42
+  n43["`3-5: biến thể Ω vô cùng, O′ và soft-oh Õ bỏ qua thừa số logarit`"]
+  n39 --- n43
+  n44["`3-6: hàm lặp, ví dụ √n lặp xuống 2 cần Θ(lg lg n) lần`"]
+  n39 --- n44
+  n45["`O từ Bachmann 1892, o từ Landau 1909, Knuth cổ vũ dùng Ω và Θ`"]
+  n39 --- n45
+  n46["`Nhiều người vẫn dùng O ở chỗ Θ mới chính xác`"]
+  n39 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Mỗi ký hiệu tiệm cận là một tập hàm, dấu = là cách viết lạm dụng của thuộc`"]
+  n47 --- n48
+  n49["`Luôn nói rõ cận gì (O, Ω, Θ) và cho trường hợp nào (xấu nhất, tốt nhất, mọi đầu vào)`"]
+  n47 --- n49
+  n50["`Thang tăng trưởng: 1 ≺ lg#42; n ≺ lg lg n ≺ đa-logarit ≺ đa thức ≺ mũ ≺ n! ≺ nⁿ`"]
+  n47 --- n50
+  n51["`Tiệm cận là phát biểu khi n → ∞, với n thực tế hằng số vẫn có thể quyết định`"]
+  n47 --- n51
   class n0 root
-  class n1,n6,n14,n23,n31,n38,n46 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50 leaf
+  class n1,n6,n15,n24,n32,n39,n47 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
 ```
 
 ## Nguồn

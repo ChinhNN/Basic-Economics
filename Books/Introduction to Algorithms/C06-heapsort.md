@@ -1038,10 +1038,22 @@ Theo hiểu biết của người tổng hợp: hàng đợi ưu tiên bằng đ
   | 2 | 4 ↔ 2 | 2 │ 4 5 7 8 13 17 20 25 |
 
   Kết quả ⟨2, 4, 5, 7, 8, 13, 17, 20, 25⟩.
-- **6.4-2:** Lập luận tính đúng của HEAPSORT bằng bất biến: "Đầu mỗi lần lặp của vòng for dòng 2–5, mảng con A[1..i] là một đống max chứa i phần tử nhỏ nhất của A[1..n], và mảng con A[i + 1..n] chứa n − i phần tử lớn nhất của A[1..n], đã sắp xếp." *Người tổng hợp:* Khởi tạo: i = n, BUILD-MAX-HEAP vừa biến A[1..n] thành đống max; A[n + 1..n] rỗng. Duy trì: A[1] là lớn nhất trong A[1..i], tức là phần tử nhỏ thứ i của cả mảng, và không lớn hơn mọi phần tử trong A[i + 1..n]; đổi nó về ô i làm A[i..n] chứa n − i + 1 phần tử lớn nhất, đã sắp. Giảm heap-size; hai cây con của gốc vẫn là đống max nên MAX-HEAPIFY(A, 1) biến A[1..i − 1] thành đống max chứa i − 1 phần tử nhỏ nhất. Kết thúc: i = 1; A[2..n] chứa n − 1 phần tử lớn nhất đã sắp, A[1] là phần tử nhỏ nhất, nên cả mảng đã sắp.
+- **6.4-2:** Lập luận tính đúng của HEAPSORT bằng bất biến: "Đầu mỗi lần lặp của vòng for dòng 2–5, mảng con A[1..i] là một đống max chứa i phần tử nhỏ nhất của A[1..n], và mảng con A[i + 1..n] chứa n − i phần tử lớn nhất của A[1..n], đã sắp xếp."
+
+  *Người tổng hợp:* Khởi tạo: i = n, BUILD-MAX-HEAP vừa biến A[1..n] thành đống max; A[n + 1..n] rỗng.
+
+  Duy trì: A[1] là lớn nhất trong A[1..i], tức là phần tử nhỏ thứ i của cả mảng, và không lớn hơn mọi phần tử trong A[i + 1..n]; đổi nó về ô i làm A[i..n] chứa n − i + 1 phần tử lớn nhất, đã sắp. Giảm heap-size; hai cây con của gốc vẫn là đống max nên MAX-HEAPIFY(A, 1) biến A[1..i − 1] thành đống max chứa i − 1 phần tử nhỏ nhất.
+
+  Kết thúc: i = 1; A[2..n] chứa n − 1 phần tử lớn nhất đã sắp, A[1] là phần tử nhỏ nhất, nên cả mảng đã sắp.
 - **6.4-3:** Thời gian HEAPSORT trên mảng độ dài n đã sắp tăng dần? Giảm dần? *Người tổng hợp:* cả hai Θ(n lg n). Tăng dần: BUILD-MAX-HEAP tốn O(n) (phải đảo gần hết), sau đó n − 1 lần trích vẫn tốn Θ(n lg n). Giảm dần: mảng đã là đống max, BUILD-MAX-HEAP Θ(n) không đổi chỗ, nhưng mỗi lần đổi gốc với phần tử cuối (nhỏ) rồi cho chìm vẫn tốn Θ(lg n) phần lớn số lần, tổng Θ(n lg n).
 - **6.4-4:** Chứng minh thời gian xấu nhất của HEAPSORT là Ω(n lg n). *Người tổng hợp:* heapsort là sắp xếp bằng so sánh nên chịu cận dưới Ω(n lg n) của Chương 8; trực tiếp hơn, theo 6.4-5, ngay cả trường hợp tốt nhất với phần tử khác nhau đã là Ω(n lg n), nên trường hợp xấu nhất cũng vậy.
-- **6.4-5 ★:** Chứng minh khi mọi phần tử khác nhau, thời gian tốt nhất của HEAPSORT là Ω(n lg n). *Phác thảo của người tổng hợp* (lập luận thường được quy cho Schaffer và Sedgewick — theo hiểu biết của người tổng hợp): sau BUILD-MAX-HEAP, xét tập S gồm k = ⌈n/2⌉ phần tử lớn nhất. S đóng với phép lấy cha (cha của một phần tử lớn hơn nó, nên cũng thuộc S), tức S tạo thành một cây con chứa gốc. Trong k lần lặp đầu của HEAPSORT, đúng các phần tử của S được trích ra, mỗi phần tử phải đi tới gốc; mỗi lần đổi chỗ của MAX-HEAPIFY chỉ đưa một phần tử lên một tầng. Mỗi lá của đống thuộc S có cha thuộc S là nút trong, mỗi nút trong có tối đa 2 con, nên ít nhất khoảng k/3 phần tử của S nằm ở nút trong; trong số đó, số nút có độ sâu nhỏ hơn lg(k/6) chỉ khoảng k/6, nên ít nhất khoảng k/6 phần tử của S ở độ sâu ≥ lg(k/6) − O(1) và mỗi phần tử cần ngần ấy lần đi lên. Tổng số lần đổi chỗ ≥ (k/6)(lg(k/6) − O(1)) = Ω(n lg n).
+- **6.4-5 ★:** Chứng minh khi mọi phần tử khác nhau, thời gian tốt nhất của HEAPSORT là Ω(n lg n).
+
+  *Phác thảo của người tổng hợp* (lập luận thường được quy cho Schaffer và Sedgewick — theo hiểu biết của người tổng hợp): sau BUILD-MAX-HEAP, xét tập S gồm k = ⌈n/2⌉ phần tử lớn nhất. S đóng với phép lấy cha (cha của một phần tử lớn hơn nó, nên cũng thuộc S), tức S tạo thành một cây con chứa gốc.
+
+  Trong k lần lặp đầu của HEAPSORT, đúng các phần tử của S được trích ra, mỗi phần tử phải đi tới gốc; mỗi lần đổi chỗ của MAX-HEAPIFY chỉ đưa một phần tử lên một tầng.
+
+  Mỗi lá của đống thuộc S có cha thuộc S là nút trong, mỗi nút trong có tối đa 2 con, nên ít nhất khoảng k/3 phần tử của S nằm ở nút trong; trong số đó, số nút có độ sâu nhỏ hơn lg(k/6) chỉ khoảng k/6, nên ít nhất khoảng k/6 phần tử của S ở độ sâu ≥ lg(k/6) − O(1) và mỗi phần tử cần ngần ấy lần đi lên. Tổng số lần đổi chỗ ≥ (k/6)(lg(k/6) − O(1)) = Ω(n lg n).
 
 ### Bài tập Mục 6.5 (trang 164–166)
 
@@ -1076,7 +1088,13 @@ Theo hiểu biết của người tổng hợp: hàng đợi ưu tiên bằng đ
   3  HEAP-DECREASE-KEY(A, A.heap-size, key)
   ```
 - **6.5-4:** Vì sao phải đặt khoá của nút mới là −∞ ở dòng 2 của MAX-HEAP-INSERT khi ngay sau đó ta tăng nó lên giá trị mong muốn? *Người tổng hợp:* để thoả tiền điều kiện của HEAP-INCREASE-KEY: khoá mới không được nhỏ hơn khoá hiện tại (dòng 1 sẽ báo lỗi nếu ô đó đang chứa một số rác lớn hơn key), và để đống hợp lệ trước lời gọi (lá −∞ không vi phạm tính chất đống max), nên bất biến của HEAP-INCREASE-KEY (Exercise 6.5-5) đúng ngay từ đầu.
-- **6.5-5:** Lập luận tính đúng của HEAP-INCREASE-KEY bằng bất biến: "Đầu mỗi lần lặp của vòng while dòng 4–6, mảng con A[1..A.heap-size] thoả tính chất đống max, ngoại trừ có thể một vi phạm: A[i] có thể lớn hơn A[PARENT(i)]." Được giả định A[1..A.heap-size] thoả tính chất đống max khi HEAP-INCREASE-KEY được gọi. *Người tổng hợp:* Khởi tạo: trước dòng 3 đống hợp lệ; tăng A[i] chỉ có thể làm hỏng quan hệ giữa i và cha (với các con, A[i] lớn lên nên vẫn ≥ con). Duy trì: nếu A[PARENT(i)] < A[i], đổi chỗ sửa quan hệ i–cha; giá trị cũ của cha xuống ô i vẫn ≥ các con của i (vì trước đó nó ≥ giá trị cũ của A[i], mà giá trị cũ ≥ các con); vi phạm duy nhất có thể còn là giữa PARENT(i) mới và cha của nó; gán i = PARENT(i) giữ bất biến. Kết thúc: hoặc i = 1 (gốc không có cha), hoặc A[PARENT(i)] ≥ A[i]; cả hai trường hợp không còn vi phạm, đống hợp lệ.
+- **6.5-5:** Lập luận tính đúng của HEAP-INCREASE-KEY bằng bất biến: "Đầu mỗi lần lặp của vòng while dòng 4–6, mảng con A[1..A.heap-size] thoả tính chất đống max, ngoại trừ có thể một vi phạm: A[i] có thể lớn hơn A[PARENT(i)]." Được giả định A[1..A.heap-size] thoả tính chất đống max khi HEAP-INCREASE-KEY được gọi.
+
+  *Người tổng hợp:* Khởi tạo: trước dòng 3 đống hợp lệ; tăng A[i] chỉ có thể làm hỏng quan hệ giữa i và cha (với các con, A[i] lớn lên nên vẫn ≥ con).
+
+  Duy trì: nếu A[PARENT(i)] < A[i], đổi chỗ sửa quan hệ i–cha; giá trị cũ của cha xuống ô i vẫn ≥ các con của i (vì trước đó nó ≥ giá trị cũ của A[i], mà giá trị cũ ≥ các con); vi phạm duy nhất có thể còn là giữa PARENT(i) mới và cha của nó; gán i = PARENT(i) giữ bất biến.
+
+  Kết thúc: hoặc i = 1 (gốc không có cha), hoặc A[PARENT(i)] ≥ A[i]; cả hai trường hợp không còn vi phạm, đống hợp lệ.
 - **6.5-6:** Mỗi phép đổi chỗ ở dòng 5 của HEAP-INCREASE-KEY thường cần ba phép gán. Dùng ý tưởng vòng lặp trong của INSERTION-SORT để giảm ba phép gán xuống còn một. *Người tổng hợp:* dời cha xuống thay vì đổi chỗ, chỉ ghi key một lần ở cuối:
 
   ```text
@@ -1146,7 +1164,11 @@ Nhận xét của người tổng hợp: d lớn làm INSERT và INCREASE-KEY nh
   ```
   Hàng tăng dần; cột: 2 < 8 < 16, 3 < 9, 4 < 12, 5 < 14.
 - **(b)** Lập luận rằng bảng Young Y m × n rỗng nếu Y[1, 1] = ∞, và đầy (chứa mn phần tử) nếu Y[m, n] < ∞. *Người tổng hợp:* Y[1, 1] là nhỏ nhất (mọi ô đi được từ (1, 1) bằng các bước sang phải và xuống dưới, giá trị không giảm), nên Y[1, 1] = ∞ kéo theo mọi ô bằng ∞. Tương tự Y[m, n] lớn nhất, nên Y[m, n] < ∞ kéo theo mọi ô hữu hạn.
-- **(c)** Cho thuật toán EXTRACT-MIN trên bảng Young m × n khác rỗng chạy O(m + n), dùng thủ tục con đệ quy giải bài m × n bằng cách giải đệ quy bài (m − 1) × n hoặc m × (n − 1). (Gợi ý: nghĩ tới MAX-HEAPIFY.) Định nghĩa T(p), với p = m + n, là thời gian chạy tối đa của EXTRACT-MIN trên mọi bảng Young m × n; cho và giải truy hồi của T(p) ra cận O(m + n). *Người tổng hợp:* lấy min = Y[1, 1], đặt Y[1, 1] = ∞, rồi gọi YOUNGIFY(Y, 1, 1): so ô (i, j) với ô dưới (i + 1, j) và ô phải (i, j + 1); nếu ô nhỏ nhất trong ba ô không phải (i, j), đổi chỗ với nó và đệ quy tại ô đó — vùng còn phải sửa là bảng con bớt một hàng hoặc bớt một cột. T(p) = T(p − 1) + O(1), nên T(p) = O(p) = O(m + n).
+- **(c)** Cho thuật toán EXTRACT-MIN trên bảng Young m × n khác rỗng chạy O(m + n), dùng thủ tục con đệ quy giải bài m × n bằng cách giải đệ quy bài (m − 1) × n hoặc m × (n − 1). (Gợi ý: nghĩ tới MAX-HEAPIFY.)
+
+  Định nghĩa T(p), với p = m + n, là thời gian chạy tối đa của EXTRACT-MIN trên mọi bảng Young m × n; cho và giải truy hồi của T(p) ra cận O(m + n).
+
+  *Người tổng hợp:* lấy min = Y[1, 1], đặt Y[1, 1] = ∞, rồi gọi YOUNGIFY(Y, 1, 1): so ô (i, j) với ô dưới (i + 1, j) và ô phải (i, j + 1); nếu ô nhỏ nhất trong ba ô không phải (i, j), đổi chỗ với nó và đệ quy tại ô đó — vùng còn phải sửa là bảng con bớt một hàng hoặc bớt một cột. T(p) = T(p − 1) + O(1), nên T(p) = O(p) = O(m + n).
 - **(d)** Chèn một phần tử mới vào bảng Young m × n chưa đầy trong O(m + n). *Người tổng hợp:* đặt phần tử vào Y[m, n] (đang là ∞ vì bảng chưa đầy), rồi cho nó "nổi" ngược: so với ô trên và ô trái, đổi chỗ với ô lớn hơn trong hai ô nếu ô đó lớn hơn phần tử, lặp lại. Mỗi bước giảm i + j đi 1, nên O(m + n).
 - **(e)** Không dùng phương pháp sắp xếp nào khác làm thủ tục con, chỉ ra cách dùng bảng Young n × n để sắp xếp n² số trong O(n³). *Người tổng hợp:* chèn n² số, mỗi lần O(2n); rồi gọi EXTRACT-MIN n² lần, mỗi lần O(2n). Tổng O(n² · n) = O(n³). (Với N = n² số, đây là O(N^1,5) — kém n lg n, chỉ là bài tập.)
 - **(f)** Thuật toán O(m + n) kiểm tra một số cho trước có nằm trong bảng Young m × n hay không. *Người tổng hợp:* bắt đầu ở góc trên phải (1, n). Nếu ô bằng x thì tìm thấy; nếu ô lớn hơn x thì cả cột bên dưới đều lớn hơn x, sang trái; nếu ô nhỏ hơn x thì cả hàng bên trái đều nhỏ hơn x, đi xuống. Mỗi bước loại một hàng hoặc một cột: tối đa m + n bước.
@@ -1156,7 +1178,11 @@ Nhận xét của người tổng hợp: d lớn làm INSERT và INCREASE-KEY nh
 - Thuật toán heapsort do **Williams** phát minh; ông cũng mô tả cách cài hàng đợi ưu tiên bằng đống. Thủ tục BUILD-MAX-HEAP do **Floyd** đề xuất. (Theo hiểu biết của người tổng hợp: cả hai công bố năm 1964 trên *Communications of the ACM*, dưới dạng "Algorithm 232 — Heapsort" và "Algorithm 245 — Treesort 3".)
 - Sách dùng đống min để cài hàng đợi ưu tiên min ở Chương 16, 23 và 24. Sách cũng cho một cài đặt có cận thời gian tốt hơn cho một số phép toán ở Chương 19 (đống Fibonacci) và, khi khoá lấy từ một tập bị chặn các số nguyên không âm, ở Chương 20 (cây van Emde Boas).
 - Nếu dữ liệu là số nguyên b bit và bộ nhớ máy tính gồm các từ b bit định địa chỉ được, **Fredman và Willard** chỉ ra cách cài MINIMUM trong O(1) và INSERT, EXTRACT-MIN trong O(√lg n). **Thorup** cải thiện cận O(√lg n) thành O(lg lg n). Cận này dùng lượng bộ nhớ không bị chặn theo n, nhưng có thể cài trong bộ nhớ tuyến tính bằng băm ngẫu nhiên.
-- Một trường hợp đặc biệt quan trọng của hàng đợi ưu tiên xảy ra khi dãy các phép toán EXTRACT-MIN là **đơn điệu** (monotone), tức các giá trị trả về bởi các lần EXTRACT-MIN liên tiếp tăng đơn điệu theo thời gian. Trường hợp này xuất hiện trong nhiều ứng dụng quan trọng, như thuật toán đường đi ngắn nhất một nguồn của Dijkstra (Chương 24) và mô phỏng sự kiện rời rạc. Với thuật toán Dijkstra, việc cài DECREASE-KEY hiệu quả đặc biệt quan trọng. Trong trường hợp đơn điệu, nếu dữ liệu là số nguyên trong khoảng 1, 2, …, C, **Ahuja, Mehlhorn, Orlin và Tarjan** mô tả cách cài EXTRACT-MIN và INSERT trong thời gian khấu hao O(lg C) (Chương 17 về phân tích khấu hao) và DECREASE-KEY trong O(1), dùng cấu trúc gọi là **đống cơ số** (radix heap). Cận O(lg C) có thể cải thiện thành O(√lg C) bằng cách dùng đống Fibonacci (Chương 19) cùng với đống cơ số. **Cherkassky, Goldberg và Silverstein** cải thiện tiếp cận này thành O(lg^(1/3+ε) C) kỳ vọng bằng cách kết hợp cấu trúc phân cụm nhiều tầng của **Denardo và Fox** với đống của Thorup nói trên. **Raman** cải thiện tiếp các kết quả này để có cận O(min(lg^(1/4+ε) C, lg^(1/3+ε) n)), với mọi ε > 0 cố định.
+- Một trường hợp đặc biệt quan trọng của hàng đợi ưu tiên xảy ra khi dãy các phép toán EXTRACT-MIN là **đơn điệu** (monotone), tức các giá trị trả về bởi các lần EXTRACT-MIN liên tiếp tăng đơn điệu theo thời gian. Trường hợp này xuất hiện trong nhiều ứng dụng quan trọng, như thuật toán đường đi ngắn nhất một nguồn của Dijkstra (Chương 24) và mô phỏng sự kiện rời rạc. Với thuật toán Dijkstra, việc cài DECREASE-KEY hiệu quả đặc biệt quan trọng.
+
+  Trong trường hợp đơn điệu, nếu dữ liệu là số nguyên trong khoảng 1, 2, …, C, **Ahuja, Mehlhorn, Orlin và Tarjan** mô tả cách cài EXTRACT-MIN và INSERT trong thời gian khấu hao O(lg C) (Chương 17 về phân tích khấu hao) và DECREASE-KEY trong O(1), dùng cấu trúc gọi là **đống cơ số** (radix heap).
+
+  Cận O(lg C) có thể cải thiện thành O(√lg C) bằng cách dùng đống Fibonacci (Chương 19) cùng với đống cơ số. **Cherkassky, Goldberg và Silverstein** cải thiện tiếp cận này thành O(lg^(1/3+ε) C) kỳ vọng bằng cách kết hợp cấu trúc phân cụm nhiều tầng của **Denardo và Fox** với đống của Thorup nói trên. **Raman** cải thiện tiếp các kết quả này để có cận O(min(lg^(1/4+ε) C, lg^(1/3+ε) n)), với mọi ε > 0 cố định.
 
 ## Luận điểm cốt lõi
 
@@ -1414,31 +1440,33 @@ flowchart LR
   n40 --- n41
   n42["`MAX-HEAP-INSERT thêm lá khoá −∞ rồi tăng khoá, O(lg n)`"]
   n34 --- n42
-  n43["`Bài toán 6-1 tới 6-3 và Ghi chú chương`"]
-  n0 --- n43
-  n44["`6-1: dựng đống bằng chèn liên tiếp tốn Θ(n lg n) xấu nhất và có thể ra đống khác`"]
-  n43 --- n44
-  n45["`6-2: đống d-phân cao Θ(log cơ số d của n), EXTRACT-MAX chậm hơn, INSERT nhanh hơn`"]
-  n43 --- n45
-  n46["`6-3: bảng Young m × n hỗ trợ EXTRACT-MIN, INSERT, tìm kiếm trong O(m + n)`"]
-  n43 --- n46
-  n47["`Williams phát minh heapsort, Floyd đề xuất BUILD-MAX-HEAP`"]
-  n43 --- n47
-  n48["`Hàng đợi nhanh hơn: đống Fibonacci Chương 19, van Emde Boas Chương 20, đống cơ số cho khoá nguyên`"]
-  n43 --- n48
-  n49["`Thông điệp xuyên suốt`"]
-  n0 --- n49
-  n50["`Thứ tự cục bộ cha ≥ con đủ để biết max mà rẻ hơn sắp xếp hoàn toàn`"]
-  n49 --- n50
-  n51["`Một cấu trúc dữ liệu cho cả thuật toán sắp xếp tối ưu lẫn hàng đợi ưu tiên dùng suốt Phần VI`"]
-  n49 --- n51
-  n52["`Đếm chi phí theo chiều cao nút thay vì nhân số lần gọi với chi phí lớn nhất cho cận chặt`"]
-  n49 --- n52
-  n53["`Heapsort bảo đảm xấu nhất O(n lg n), quicksort thường nhanh hơn ở trường hợp trung bình`"]
-  n49 --- n53
+  n43["`Exercise 6.5-8: HEAP-DELETE O(lg n), Exercise 6.5-9: trộn k danh sách đã sắp trong O(n lg k) bằng đống min`"]
+  n34 --- n43
+  n44["`Bài toán 6-1 tới 6-3 và Ghi chú chương`"]
+  n0 --- n44
+  n45["`6-1: dựng đống bằng chèn liên tiếp tốn Θ(n lg n) xấu nhất và có thể ra đống khác`"]
+  n44 --- n45
+  n46["`6-2: đống d-phân cao Θ(log#95;d n), EXTRACT-MAX O(d log#95;d n), INSERT và INCREASE-KEY O(log#95;d n)`"]
+  n44 --- n46
+  n47["`6-3: bảng Young m × n hỗ trợ EXTRACT-MIN, INSERT, tìm kiếm trong O(m + n)`"]
+  n44 --- n47
+  n48["`Williams phát minh heapsort, Floyd đề xuất BUILD-MAX-HEAP`"]
+  n44 --- n48
+  n49["`Hàng đợi nhanh hơn: đống Fibonacci Chương 19, van Emde Boas Chương 20, đống cơ số cho khoá nguyên`"]
+  n44 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Thứ tự cục bộ cha ≥ con đủ để biết max mà rẻ hơn sắp xếp hoàn toàn`"]
+  n50 --- n51
+  n52["`Một cấu trúc dữ liệu cho cả thuật toán sắp xếp tối ưu lẫn hàng đợi ưu tiên dùng suốt Phần VI`"]
+  n50 --- n52
+  n53["`Đếm chi phí theo chiều cao nút thay vì nhân số lần gọi với chi phí lớn nhất cho cận chặt`"]
+  n50 --- n53
+  n54["`Heapsort bảo đảm xấu nhất O(n lg n), quicksort thường nhanh hơn ở trường hợp trung bình`"]
+  n50 --- n54
   class n0 root
-  class n1,n9,n18,n28,n34,n43,n49 branch
-  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+  class n1,n9,n18,n28,n34,n44,n50 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n51,n52,n53,n54 leaf
 ```
 
 ## Nguồn
@@ -1464,6 +1492,12 @@ Hàng đợi ưu tiên dựng bằng đống được dùng lại ở Chương 1
 - **Không có mục có dấu sao (★) trong chương này.** Chỉ có một bài tập có dấu sao: Exercise 6.4-5 (chứng minh thời gian tốt nhất của HEAPSORT là Ω(n lg n) khi các phần tử khác nhau). Ba bài toán cuối chương (6-1, 6-2, 6-3) không có dấu sao.
 - **Số trang Phần II:** trang 146 là trang tên "II Sorting and Order Statistics" (không in số, chỉ có tiêu đề), lời giới thiệu Phần II là trang 147–150 (trang 147 không in số). Chương 6 bắt đầu ở trang 151 và kết thúc ở trang 169 (Ghi chú chương tràn sang trang 169); trang 170 đã là Chương 7. File này dùng các số trang sau khi kiểm tra ảnh trang.
 - **Lớp chữ PDF hỏng nhiều ký hiệu, đã đọc lại từ ảnh trang:** dấu ngoặc vuông thành `Œ` (`AŒi` là A[i]); dấu ≤, ≥ mất hẳn (`AŒPARENT .i / AŒi` là A[PARENT(i)] ≥ A[i] ở trang 152 và ≤ ở trang 153; `l A:heap-size` ở dòng 3 MAX-HEAPIFY là l ≤ A.heap-size); dấu ≠ ở dòng 8 MAX-HEAPIFY mất; dấu trừ và vô cực thành `/NUL` (`/NUL1` là −∞ ở MAX-HEAP-INSERT và Exercise 6.5-4); dấu ⌈ ⌉ thành `˙` (cận ⌈n/2^(h+1)⌉ ở trang 157, 159); tổng và phân số của chặn BUILD-MAX-HEAP ở trang 159 vỡ thành nhiều dòng; căn bậc hai và ε mất ở Ghi chú chương (`O.p lg n/` là O(√lg n), `lg1=3C C` là lg^(1/3+ε) C); Θ thành `‚`, Ω mất. Toàn bộ pseudocode, công thức, Hình 6.1–6.5 và bảng thời gian chạy ở trang 150 được đối chiếu với ảnh trang 147–169.
-- **Chỗ sách sai chính tả hoặc chưa chặt (nhận xét của người tổng hợp):** (1) trang 159 viết "We evalaute" — lỗi chính tả của "evaluate". (2) Trang 153 viết "a heap of n elements is based on a complete binary tree", trong khi Mục 6.1 vừa định nghĩa đống là cây nhị phân *gần* đầy đủ (nearly complete); chữ "complete" ở đây nên hiểu là "nearly complete". (3) Trang 164 mô tả HEAP-INCREASE-KEY "dừng nếu khoá của phần tử nhỏ hơn" khoá cha, nhưng pseudocode dừng khi khoá *không lớn hơn* (bằng nhau cũng dừng) — pseudocode đúng, lời văn chưa chặt. (4) MAX-HEAP-INSERT tăng A.heap-size mà không kiểm tra A.heap-size < A.length (tràn mảng); HEAP-INCREASE-KEY không kiểm tra 1 ≤ i ≤ A.heap-size. Đây là đơn giản hoá có chủ ý của sách. Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Chỗ sách sai chính tả hoặc chưa chặt (nhận xét của người tổng hợp):** (1) trang 159 viết "We evalaute" — lỗi chính tả của "evaluate".
+
+  (2) Trang 153 viết "a heap of n elements is based on a complete binary tree", trong khi Mục 6.1 vừa định nghĩa đống là cây nhị phân *gần* đầy đủ (nearly complete); chữ "complete" ở đây nên hiểu là "nearly complete".
+
+  (3) Trang 164 mô tả HEAP-INCREASE-KEY "dừng nếu khoá của phần tử nhỏ hơn" khoá cha, nhưng pseudocode dừng khi khoá *không lớn hơn* (bằng nhau cũng dừng) — pseudocode đúng, lời văn chưa chặt.
+
+  (4) MAX-HEAP-INSERT tăng A.heap-size mà không kiểm tra A.heap-size < A.length (tràn mảng); HEAP-INCREASE-KEY không kiểm tra 1 ≤ i ≤ A.heap-size. Đây là đơn giản hoá có chủ ý của sách. Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
 - **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** MAX-HEAPIFY(A, 2) trên ⟨16, 4, 10, 14, 7, 9, 3, 2, 8, 1⟩ cho ⟨16, 14, 10, 8, 7, 9, 3, 2, 4, 1⟩; BUILD-MAX-HEAP trên ⟨4, 1, 3, 2, 16, 9, 10, 14, 8, 7⟩ cho cùng đống đó qua năm lần gọi MAX-HEAPIFY (7 lần đổi chỗ); HEAPSORT trên đống đó cho ⟨1, 2, 3, 4, 7, 8, 9, 10, 14, 16⟩, mọi trạng thái trung gian (b)–(j) khớp; HEAP-INCREASE-KEY tăng A[9] từ 4 lên 15 cho ⟨16, 15, 10, 14, 7, 9, 3, 2, 8, 1⟩. Cận "cây con của một con có nhiều nhất 2n/3 nút" cũng đã kiểm tra: khi tầng đáy đầy đúng một nửa, cây con trái có (2n − 1)/3 < 2n/3 nút.
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Chương 6 vẫn là "Heapsort" với cùng năm mục. Thuộc tính A.length bị bỏ; các thủ tục nhận thêm tham số n (ví dụ BUILD-MAX-HEAP(A, n), HEAPSORT(A, n)). Mục 6.5 được viết lại để hàng đợi ưu tiên lưu *đối tượng* có khoá và nói rõ hơn việc ánh xạ giữa đối tượng ứng dụng và chỉ số mảng (MAX-HEAP-INSERT nhận một đối tượng x thay vì một khoá). Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.

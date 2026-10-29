@@ -295,9 +295,17 @@ Kết luận: thuật toán là một công nghệ, và kiến thức thuật to
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Thuật toán là gì, và khi nào gọi là thuật toán đúng?** Thuật toán là một thủ tục tính toán được định nghĩa rõ ràng, nhận một giá trị hoặc tập giá trị làm đầu vào và tạo ra một giá trị hoặc tập giá trị làm đầu ra — một dãy bước tính biến đầu vào thành đầu ra. Nó là công cụ giải một bài toán tính toán, tức một phát biểu tổng quát về quan hệ mong muốn giữa đầu vào và đầu ra. Ví dụ bài toán sắp xếp: đầu vào là dãy n số ⟨a₁, a₂, …, aₙ⟩, đầu ra là hoán vị ⟨a′₁, a′₂, …, a′ₙ⟩ thoả a′₁ ≤ a′₂ ≤ ⋯ ≤ a′ₙ; với thực thể ⟨31, 41, 59, 26, 41, 58⟩ đầu ra là ⟨26, 31, 41, 41, 58, 59⟩. Thuật toán đúng khi với mọi thực thể đầu vào nó dừng và cho đầu ra đúng; thuật toán sai có thể không dừng hoặc trả sai, nhưng vẫn có thể hữu ích nếu kiểm soát được tỷ lệ sai (như kiểm tra số nguyên tố ngẫu nhiên ở Chương 31).
+1. **Thuật toán là gì, và khi nào gọi là thuật toán đúng?** Thuật toán là một thủ tục tính toán được định nghĩa rõ ràng, nhận một giá trị hoặc tập giá trị làm đầu vào và tạo ra một giá trị hoặc tập giá trị làm đầu ra — một dãy bước tính biến đầu vào thành đầu ra. Nó là công cụ giải một bài toán tính toán, tức một phát biểu tổng quát về quan hệ mong muốn giữa đầu vào và đầu ra.
+
+   Ví dụ bài toán sắp xếp: đầu vào là dãy n số ⟨a₁, a₂, …, aₙ⟩, đầu ra là hoán vị ⟨a′₁, a′₂, …, a′ₙ⟩ thoả a′₁ ≤ a′₂ ≤ ⋯ ≤ a′ₙ; với thực thể ⟨31, 41, 59, 26, 41, 58⟩ đầu ra là ⟨26, 31, 41, 41, 58, 59⟩.
+
+   Thuật toán đúng khi với mọi thực thể đầu vào nó dừng và cho đầu ra đúng; thuật toán sai có thể không dừng hoặc trả sai, nhưng vẫn có thể hữu ích nếu kiểm soát được tỷ lệ sai (như kiểm tra số nguyên tố ngẫu nhiên ở Chương 31).
 2. **Vì sao phải học thuật toán khi phần cứng đã nhanh?** Vì máy tính không nhanh vô hạn và bộ nhớ không miễn phí, và khác biệt giữa các thuật toán lớn hơn khác biệt giữa các máy. Sắp xếp chèn cần khoảng c₁n², sắp xếp trộn cần khoảng c₂n lg n; dù c₁ < c₂, luôn có điểm giao mà sau đó sắp xếp trộn thắng. Với 10⁷ số: máy A (10¹⁰ lệnh/giây, 2n² lệnh) mất 2·(10⁷)²/10¹⁰ = 20.000 giây (hơn 5,5 giờ); máy B (10⁷ lệnh/giây, 50 n lg n lệnh) mất 50·10⁷·lg 10⁷/10⁷ ≈ 1.163 giây (dưới 20 phút), nhanh hơn hơn 17 lần dù phần cứng chậm hơn 1.000 lần. Với 10⁸ số: hơn 23 ngày so với dưới 4 giờ. Ngay cả khi máy nhanh vô hạn, vẫn cần thuật toán để chứng minh phương pháp dừng và đúng.
-3. **Thuật toán đứng ở đâu so với các công nghệ khác của máy tính?** Thuật toán là một công nghệ ngang hàng với phần cứng nhanh, giao diện đồ hoạ, hệ hướng đối tượng, Web và mạng: hiệu năng hệ thống phụ thuộc vào việc chọn thuật toán không kém việc chọn phần cứng. Nhiều ứng dụng cần thuật toán trực tiếp (dịch vụ chỉ đường cần đường đi ngắn nhất, vẽ bản đồ, nội suy địa chỉ); những ứng dụng không cần thì vẫn dựa vào thuật toán qua phần cứng, giao diện, định tuyến mạng và trình biên dịch. Bài toán càng lớn, thuật toán càng quyết định. Các bài toán thuật toán thú vị thường có rất nhiều lời giải ứng viên (2ᵐ dãy con, n! thứ tự, 2ⁿ tập đỉnh), nên không thể thử hết; một số thuộc lớp NP-đầy đủ, nơi tốt nhất là chứng minh độ khó rồi dùng thuật toán xấp xỉ.
+3. **Thuật toán đứng ở đâu so với các công nghệ khác của máy tính?** Thuật toán là một công nghệ ngang hàng với phần cứng nhanh, giao diện đồ hoạ, hệ hướng đối tượng, Web và mạng: hiệu năng hệ thống phụ thuộc vào việc chọn thuật toán không kém việc chọn phần cứng.
+
+   Nhiều ứng dụng cần thuật toán trực tiếp (dịch vụ chỉ đường cần đường đi ngắn nhất, vẽ bản đồ, nội suy địa chỉ); những ứng dụng không cần thì vẫn dựa vào thuật toán qua phần cứng, giao diện, định tuyến mạng và trình biên dịch. Bài toán càng lớn, thuật toán càng quyết định.
+
+   Các bài toán thuật toán thú vị thường có rất nhiều lời giải ứng viên (2ᵐ dãy con, n! thứ tự, 2ⁿ tập đỉnh), nên không thể thử hết; một số thuộc lớp NP-đầy đủ, nơi tốt nhất là chứng minh độ khó rồi dùng thuật toán xấp xỉ.
 
 ## Khái niệm cần biết
 
@@ -314,7 +322,11 @@ Kết luận: thuật toán là một công nghệ, và kiến thức thuật to
 - **Dãy con, dãy con chung dài nhất (subsequence, longest common subsequence — LCS):** dãy con của X là X sau khi bỏ đi một số (có thể là tất cả hoặc không) phần tử, giữ nguyên thứ tự. Ví dụ sách: ⟨B, C, E, G⟩ là dãy con của ⟨A, B, C, D, E, F, G⟩. Dãy m ký hiệu có 2ᵐ dãy con (mỗi phần tử giữ hoặc bỏ): ⟨A, B, C⟩ có 2³ = 8 dãy con: rỗng, A, B, C, AB, AC, BC, ABC. Với X = ⟨A, B, C, B, D, A, B⟩ và Y = ⟨B, D, C, A, B, A⟩, một dãy con chung dài nhất là ⟨B, C, B, A⟩, dài 4 (người tổng hợp đã kiểm tra bằng bảng quy hoạch động). Độ dài LCS đo độ giống nhau của hai dãy, ví dụ hai chuỗi DNA.
 - **Sắp xếp tô-pô (topological sorting):** xếp các phần tử thành một hàng sao cho nếu phần tử u được phần tử v dùng thì u đứng trước v. Ví dụ: xe đạp dùng khung và bánh xe; bánh xe dùng nan hoa và vành. Một thứ tự hợp lệ: nan hoa, vành, bánh xe, khung, xe đạp. Với 5 chi tiết có 5! = 120 thứ tự, nhưng chỉ 8 thứ tự hợp lệ (xe đạp phải cuối; trong ba chi tiết nan hoa, vành, bánh xe thì bánh xe phải sau hai cái kia — 2 cách; khung chèn vào 1 trong 4 vị trí — 4 cách; 2 × 4 = 8). Với n lớn, n! tăng nhanh hơn cả hàm mũ, nên phải có thuật toán ở Chương 22.
 - **Bao lồi (convex hull):** đa giác lồi nhỏ nhất chứa mọi điểm cho trước; hình dung mỗi điểm là một cây đinh trên tấm gỗ, bao lồi là sợi dây chun căng ôm quanh mọi cây đinh, và mỗi cây đinh mà dây chun đổi hướng tại đó là một đỉnh của bao lồi. Ví dụ: sáu điểm (0, 0), (4, 0), (4, 4), (0, 4), (2, 2), (1, 3); bao lồi là hình vuông với bốn đỉnh (0, 0), (4, 0), (4, 4), (0, 4) theo thứ tự ngược chiều kim đồng hồ; hai điểm (2, 2) và (1, 3) nằm bên trong. Có 2⁶ = 64 tập con điểm có thể là tập đỉnh, và còn phải biết thứ tự các đỉnh — nên Chương 33 cần phương pháp tốt.
-- **Biến đổi Fourier rời rạc, FFT (discrete Fourier transform, fast Fourier transform):** đổi n mẫu tín hiệu theo thời gian thành n hệ số theo tần số, cho biết mỗi tần số mạnh đến đâu. Theo quy ước của Chương 30, với các mẫu a₀, …, aₙ₋₁ và ω = e^(2πi/n), hệ số thứ k là yₖ = Σⱼ aⱼ ωᵏʲ. Ví dụ n = 4, mẫu (1, 0, −1, 0) — một dao động hoàn tất đúng một chu kỳ trong 4 mẫu; ω = i, nên y₀ = 1 − 1 = 0; y₁ = 1 + (−1)·i² = 2; y₂ = 1 + (−1)·i⁴ = 0; y₃ = 1 + (−1)·i⁶ = 2: năng lượng tập trung ở tần số 1 (và ảnh đối xứng của nó, tần số 3). Tính trực tiếp cần khoảng n² phép nhân; FFT ở Chương 30 cần khoảng n lg n. Sách dùng ví dụ này để chỉ ra rằng không phải bài toán nào cũng có "tập lời giải ứng viên" rõ ràng.
+- **Biến đổi Fourier rời rạc, FFT (discrete Fourier transform, fast Fourier transform):** đổi n mẫu tín hiệu theo thời gian thành n hệ số theo tần số, cho biết mỗi tần số mạnh đến đâu. Theo quy ước của Chương 30, với các mẫu a₀, …, aₙ₋₁ và ω = e^(2πi/n), hệ số thứ k là yₖ = Σⱼ aⱼ ωᵏʲ.
+
+  Ví dụ n = 4, mẫu (1, 0, −1, 0) — một dao động hoàn tất đúng một chu kỳ trong 4 mẫu; ω = i, nên y₀ = 1 − 1 = 0; y₁ = 1 + (−1)·i² = 2; y₂ = 1 + (−1)·i⁴ = 0; y₃ = 1 + (−1)·i⁶ = 2: năng lượng tập trung ở tần số 1 (và ảnh đối xứng của nó, tần số 3).
+
+  Tính trực tiếp cần khoảng n² phép nhân; FFT ở Chương 30 cần khoảng n lg n. Sách dùng ví dụ này để chỉ ra rằng không phải bài toán nào cũng có "tập lời giải ứng viên" rõ ràng.
 - **Quy hoạch tuyến tính (linear programming):** tìm giá trị các biến làm cực đại (hoặc cực tiểu) một hàm tuyến tính, thoả một hệ bất đẳng thức tuyến tính. Ví dụ nhỏ: công ty có 10 giờ máy; sản phẩm X lãi 3 đồng mỗi đơn vị, cần 1 giờ máy; sản phẩm Y lãi 5 đồng, cần 2 giờ máy; mỗi loại bán được tối đa 6 đơn vị. Cực đại 3x + 5y với x + 2y ≤ 10, 0 ≤ x ≤ 6, 0 ≤ y ≤ 6: các đỉnh của miền khả thi cho (6, 2) → 28, (0, 5) → 25, (6, 0) → 18; tối ưu là x = 6, y = 2, lãi 28. Sách nêu nó là công cụ cho bài toán giếng dầu, quảng cáo tranh cử, xếp tổ bay, tài nguyên nhà cung cấp Internet (Chương 29).
 - **Bài toán NP-đầy đủ (NP-complete problem):** một lớp bài toán mà chưa ai tìm được thuật toán hiệu quả, chưa ai chứng minh được là không tồn tại, và nếu một bài toán trong lớp có thuật toán hiệu quả thì tất cả đều có. Chương 34 định nghĩa chặt chẽ. Quan trọng vì nhận ra một bài toán là NP-đầy đủ giúp ta khỏi tốn công tìm lời giải tối ưu nhanh, chuyển sang lời giải tốt vừa đủ.
 - **Bài toán người du lịch (traveling-salesman problem):** cho kho hàng và các điểm giao, tìm thứ tự đi qua mọi điểm rồi về kho với tổng quãng đường nhỏ nhất. Ví dụ: kho K và ba điểm A, B, C với khoảng cách K–A = 2, K–B = 9, K–C = 4, A–B = 3, A–C = 7, B–C = 5. Có (4 − 1)!/2 = 3 vòng khác nhau (coi vòng và vòng ngược chiều là một): K–A–B–C–K = 2 + 3 + 5 + 4 = 14; K–A–C–B–K = 2 + 7 + 5 + 9 = 23; K–B–A–C–K = 9 + 3 + 7 + 4 = 23. Tối ưu là 14. Với 20 điểm giao cộng kho, số vòng là 20!/2 ≈ 1,2 × 10¹⁸, không thể thử hết.
@@ -335,7 +347,11 @@ Phần I mang tên "Foundations" (Nền tảng). Phần giới thiệu ngắn n�
 - **Chương 2** đưa ra những thuật toán đầu tiên, giải bài toán sắp xếp một dãy n số. Chúng được viết bằng pseudocode (mã giả): không dịch thẳng được sang ngôn ngữ lập trình thông thường nào, nhưng thể hiện cấu trúc thuật toán đủ rõ để người đọc cài đặt bằng ngôn ngữ mình chọn. Hai thuật toán là **sắp xếp chèn (insertion sort)**, theo cách tiếp cận tăng dần (incremental), và **sắp xếp trộn (merge sort)**, dùng kỹ thuật đệ quy gọi là **chia để trị (divide-and-conquer)**. Thời gian của cả hai tăng theo n, nhưng tốc độ tăng khác nhau. Chương 2 xác định các thời gian chạy này và xây dựng một ký hiệu hữu ích để biểu diễn chúng.
 - **Chương 3** định nghĩa chính xác ký hiệu đó — **ký hiệu tiệm cận (asymptotic notation)** — gồm vài loại ký hiệu dùng để chặn thời gian chạy từ phía trên và/hoặc phía dưới. Phần còn lại của Chương 3 chủ yếu trình bày ký hiệu toán học, mục đích là thống nhất cách dùng ký hiệu với sách hơn là dạy khái niệm toán mới.
 - **Chương 4** đào sâu phương pháp chia để trị đã gặp ở Chương 2, đưa thêm ví dụ, trong đó có phương pháp đáng ngạc nhiên của Strassen để nhân hai ma trận vuông. Chương 4 có các phương pháp giải **phương trình truy hồi (recurrence)** — công cụ mô tả thời gian chạy của thuật toán đệ quy. Một kỹ thuật mạnh là **"phương pháp chính" (master method)**, thường dùng cho truy hồi sinh ra từ thuật toán chia để trị. Phần lớn Chương 4 dành cho chứng minh phương pháp chính đúng, nhưng người đọc có thể bỏ qua chứng minh mà vẫn dùng được phương pháp.
-- **Chương 5** giới thiệu **phân tích xác suất (probabilistic analysis)** và **thuật toán ngẫu nhiên (randomized algorithm)**. Phân tích xác suất thường dùng để xác định thời gian chạy khi, do có một phân phối xác suất nội tại, thời gian chạy có thể khác nhau giữa các đầu vào cùng cỡ. Có khi ta giả định đầu vào tuân theo một phân phối đã biết, và lấy trung bình thời gian chạy trên mọi đầu vào có thể. Có khi phân phối xác suất không đến từ đầu vào mà từ các lựa chọn ngẫu nhiên trong lúc thuật toán chạy. Thuật toán mà hành vi được quyết định không chỉ bởi đầu vào mà còn bởi các giá trị do bộ sinh số ngẫu nhiên tạo ra là thuật toán ngẫu nhiên. Có thể dùng thuật toán ngẫu nhiên để áp đặt một phân phối xác suất lên đầu vào — nhờ vậy không có đầu vào cụ thể nào luôn gây hiệu năng kém — hoặc thậm chí để chặn tỷ lệ sai của những thuật toán được phép cho kết quả sai trong phạm vi giới hạn.
+- **Chương 5** giới thiệu **phân tích xác suất (probabilistic analysis)** và **thuật toán ngẫu nhiên (randomized algorithm)**. Phân tích xác suất thường dùng để xác định thời gian chạy khi, do có một phân phối xác suất nội tại, thời gian chạy có thể khác nhau giữa các đầu vào cùng cỡ.
+
+  Có khi ta giả định đầu vào tuân theo một phân phối đã biết, và lấy trung bình thời gian chạy trên mọi đầu vào có thể. Có khi phân phối xác suất không đến từ đầu vào mà từ các lựa chọn ngẫu nhiên trong lúc thuật toán chạy.
+
+  Thuật toán mà hành vi được quyết định không chỉ bởi đầu vào mà còn bởi các giá trị do bộ sinh số ngẫu nhiên tạo ra là thuật toán ngẫu nhiên. Có thể dùng thuật toán ngẫu nhiên để áp đặt một phân phối xác suất lên đầu vào — nhờ vậy không có đầu vào cụ thể nào luôn gây hiệu năng kém — hoặc thậm chí để chặn tỷ lệ sai của những thuật toán được phép cho kết quả sai trong phạm vi giới hạn.
 - **Phụ lục A–D** chứa tài liệu toán bổ trợ. Người đọc có lẽ đã gặp phần lớn nội dung này (dù định nghĩa và quy ước ký hiệu có thể khác), nên nên coi chúng là tài liệu tham khảo. Ngược lại, phần lớn nội dung Phần I có lẽ là mới. Mọi chương của Phần I và các Phụ lục đều viết theo lối bài giảng.
 
 #### Ví dụ hôm nay
@@ -398,9 +414,17 @@ Sắp xếp không phải bài toán duy nhất có thuật toán (tác giả đ
 Chi tiết của các ví dụ trên vượt ngoài phạm vi sách, nhưng sách đưa ra các kỹ thuật nền áp dụng cho các bài toán và lĩnh vực đó. Sách cũng chỉ cách giải nhiều bài toán cụ thể, gồm:
 
 - **Đường đi ngắn nhất.** Cho một bản đồ đường, trên đó ghi khoảng cách giữa mỗi cặp giao lộ kề nhau; cần tìm tuyến ngắn nhất từ một giao lộ tới giao lộ khác. Số tuyến có thể rất lớn, kể cả khi loại các tuyến tự cắt. Làm sao chọn ra tuyến ngắn nhất? Ta mô hình hoá bản đồ (vốn đã là mô hình của đường thật) bằng một **đồ thị (graph)** — sẽ gặp ở Phần VI và Phụ lục B — và tìm **đường đi ngắn nhất** từ một **đỉnh** tới đỉnh khác. Chương 24 giải bài toán này hiệu quả.
-- **Dãy con chung dài nhất.** Cho hai dãy ký hiệu có thứ tự X = ⟨x₁, x₂, …, xₘ⟩ và Y = ⟨y₁, y₂, …, yₙ⟩, cần tìm một dãy con chung dài nhất của X và Y. Dãy con của X chỉ là X sau khi bỏ đi một số phần tử (có thể bỏ hết hoặc không bỏ phần tử nào). Ví dụ một dãy con của ⟨A, B, C, D, E, F, G⟩ là ⟨B, C, E, G⟩. Độ dài dãy con chung dài nhất là một thước đo độ giống nhau của hai dãy; ví dụ nếu hai dãy là các cặp base trong hai chuỗi DNA, ta có thể coi chúng giống nhau nếu có dãy con chung dài. Nếu X có m ký hiệu và Y có n ký hiệu thì X và Y lần lượt có 2ᵐ và 2ⁿ dãy con có thể. Chọn mọi dãy con của X và Y rồi so khớp có thể mất thời gian quá lớn, trừ khi m và n rất nhỏ. Chương 15 dùng kỹ thuật tổng quát gọi là **quy hoạch động (dynamic programming)** để giải hiệu quả hơn nhiều.
+- **Dãy con chung dài nhất.** Cho hai dãy ký hiệu có thứ tự X = ⟨x₁, x₂, …, xₘ⟩ và Y = ⟨y₁, y₂, …, yₙ⟩, cần tìm một dãy con chung dài nhất của X và Y. Dãy con của X chỉ là X sau khi bỏ đi một số phần tử (có thể bỏ hết hoặc không bỏ phần tử nào).
+
+  Ví dụ một dãy con của ⟨A, B, C, D, E, F, G⟩ là ⟨B, C, E, G⟩. Độ dài dãy con chung dài nhất là một thước đo độ giống nhau của hai dãy; ví dụ nếu hai dãy là các cặp base trong hai chuỗi DNA, ta có thể coi chúng giống nhau nếu có dãy con chung dài.
+
+  Nếu X có m ký hiệu và Y có n ký hiệu thì X và Y lần lượt có 2ᵐ và 2ⁿ dãy con có thể. Chọn mọi dãy con của X và Y rồi so khớp có thể mất thời gian quá lớn, trừ khi m và n rất nhỏ. Chương 15 dùng kỹ thuật tổng quát gọi là **quy hoạch động (dynamic programming)** để giải hiệu quả hơn nhiều.
 - **Sắp xếp tô-pô.** Cho một thiết kế cơ khí dưới dạng thư viện chi tiết, trong đó mỗi chi tiết có thể chứa các chi tiết khác; cần liệt kê các chi tiết theo thứ tự sao cho mỗi chi tiết đứng trước mọi chi tiết dùng nó. Nếu thiết kế có n chi tiết thì có n! thứ tự có thể (n! là hàm giai thừa). Vì hàm giai thừa tăng nhanh hơn cả hàm mũ, ta không thể sinh từng thứ tự rồi kiểm tra trong thứ tự đó mỗi chi tiết có đứng trước các chi tiết dùng nó không (trừ khi chỉ có vài chi tiết). Bài toán này là một thực thể của **sắp xếp tô-pô (topological sorting)**, và Chương 22 giải nó hiệu quả.
-- **Bao lồi.** Cho n điểm trên mặt phẳng, cần tìm **bao lồi (convex hull)** của chúng — đa giác lồi nhỏ nhất chứa mọi điểm. Trực giác: coi mỗi điểm là một cây đinh nhô ra khỏi tấm gỗ; bao lồi là sợi dây chun căng bao quanh mọi cây đinh; mỗi cây đinh mà dây chun đổi hướng ở đó là một đỉnh của bao lồi. (Sách chỉ tới một hình ở Chương 33; ví dụ thay thế của người tổng hợp: với sáu điểm (0, 0), (4, 0), (4, 4), (0, 4), (2, 2), (1, 3), dây chun ôm thành hình vuông qua bốn góc, còn (2, 2) và (1, 3) nằm trong.) Bất kỳ tập con nào trong 2ⁿ tập con của các điểm đều có thể là tập đỉnh của bao lồi. Biết điểm nào là đỉnh cũng chưa đủ, vì còn phải biết thứ tự xuất hiện của chúng. Vậy có rất nhiều khả năng cho các đỉnh của bao lồi. Chương 33 đưa ra hai phương pháp tốt để tìm bao lồi.
+- **Bao lồi.** Cho n điểm trên mặt phẳng, cần tìm **bao lồi (convex hull)** của chúng — đa giác lồi nhỏ nhất chứa mọi điểm. Trực giác: coi mỗi điểm là một cây đinh nhô ra khỏi tấm gỗ; bao lồi là sợi dây chun căng bao quanh mọi cây đinh; mỗi cây đinh mà dây chun đổi hướng ở đó là một đỉnh của bao lồi.
+
+  (Sách chỉ tới một hình ở Chương 33; ví dụ thay thế của người tổng hợp: với sáu điểm (0, 0), (4, 0), (4, 4), (0, 4), (2, 2), (1, 3), dây chun ôm thành hình vuông qua bốn góc, còn (2, 2) và (1, 3) nằm trong.)
+
+  Bất kỳ tập con nào trong 2ⁿ tập con của các điểm đều có thể là tập đỉnh của bao lồi. Biết điểm nào là đỉnh cũng chưa đủ, vì còn phải biết thứ tự xuất hiện của chúng. Vậy có rất nhiều khả năng cho các đỉnh của bao lồi. Chương 33 đưa ra hai phương pháp tốt để tìm bao lồi.
 
 Các danh sách này còn xa mới đầy đủ, nhưng thể hiện **hai đặc điểm chung** của nhiều bài toán thuật toán thú vị:
 
@@ -849,41 +873,43 @@ flowchart LR
   n0 --- n31
   n32["`Máy nhanh vô hạn vẫn cần thuật toán để chứng minh dừng và đúng, nhưng thời gian và bộ nhớ là tài nguyên có hạn`"]
   n31 --- n32
-  n33["`Sắp xếp chèn khoảng c₁n², sắp xếp trộn khoảng c₂n lg n, thường c₁ nhỏ hơn c₂`"]
+  n33["`Sắp xếp chèn khoảng c₁n², sắp xếp trộn khoảng c₂n lg n, thường c₁ #lt; c₂`"]
   n31 --- n33
   n34["`Dù c₁ nhỏ hơn c₂ bao nhiêu, luôn có điểm giao mà vượt qua đó sắp xếp trộn nhanh hơn`"]
   n31 --- n34
-  n35["`Máy A 10¹⁰ lệnh/giây, 2n² lệnh: 10 triệu số mất 20 nghìn giây, hơn 5,5 giờ`"]
+  n35["`Máy A 10¹⁰ lệnh/giây, 2n² lệnh: 10 triệu số mất 20.000 giây, hơn 5,5 giờ`"]
   n31 --- n35
-  n36["`Máy B chậm hơn 1000 lần, 50 n lg n lệnh: khoảng 1163 giây, dưới 20 phút, nhanh hơn A hơn 17 lần`"]
+  n36["`Máy B chậm hơn 1.000 lần, 50 n lg n lệnh: khoảng 1.163 giây, dưới 20 phút, nhanh hơn A hơn 17 lần`"]
   n31 --- n36
   n37["`Với 100 triệu số: hơn 23 ngày so với dưới 4 giờ — bài toán càng lớn, lợi thế càng lớn`"]
   n31 --- n37
-  n38["`Problem 1-1: từ 1 giây lên 1 thế kỷ, thuật toán 2ⁿ chỉ tăng cỡ bài toán từ 19 lên 51, n! từ 9 lên 17`"]
+  n38["`Bài tập 1.2-2: 8n² thắng 64 n lg n khi 2 ≤ n ≤ 43, Bài tập 1.2-3: 100n² #lt; 2ⁿ từ n = 15`"]
   n31 --- n38
-  n39["`Mục 1.2 — Thuật toán và các công nghệ khác`"]
-  n0 --- n39
-  n40["`Hiệu năng cả hệ thống phụ thuộc chọn thuật toán hiệu quả không kém chọn phần cứng nhanh`"]
-  n39 --- n40
-  n41["`Dịch vụ Web chỉ đường cần thuật toán đường đi ngắn nhất, vẽ bản đồ, nội suy địa chỉ`"]
-  n39 --- n41
-  n42["`Ứng dụng không cần thuật toán vẫn dựa vào thuật toán qua phần cứng, giao diện đồ họa, định tuyến mạng, trình biên dịch`"]
-  n39 --- n42
-  n43["`Máy càng mạnh thì bài toán càng lớn, và khác biệt thuật toán lộ rõ nhất ở cỡ lớn`"]
-  n39 --- n43
-  n44["`Nền tảng thuật toán vững phân biệt lập trình viên thực sự giỏi với người mới`"]
-  n39 --- n44
-  n45["`Thông điệp xuyên suốt`"]
-  n0 --- n45
-  n46["`Phát biểu bài toán chính xác trước, rồi chứng minh thuật toán đúng với mọi đầu vào`"]
-  n45 --- n46
-  n47["`Tốc độ tăng theo n quan trọng hơn hệ số hằng — tiền đề cho ký hiệu tiệm cận ở Chương 3`"]
-  n45 --- n47
-  n48["`Không gian lời giải khổng lồ là lý do cần ngành thuật toán thay cho thử hết`"]
-  n45 --- n48
+  n39["`Problem 1-1: từ 1 giây lên 1 thế kỷ, thuật toán 2ⁿ chỉ tăng cỡ bài toán từ 19 lên 51, n! từ 9 lên 17`"]
+  n31 --- n39
+  n40["`Mục 1.2 — Thuật toán và các công nghệ khác`"]
+  n0 --- n40
+  n41["`Hiệu năng cả hệ thống phụ thuộc chọn thuật toán hiệu quả không kém chọn phần cứng nhanh`"]
+  n40 --- n41
+  n42["`Dịch vụ Web chỉ đường cần thuật toán đường đi ngắn nhất, vẽ bản đồ, nội suy địa chỉ`"]
+  n40 --- n42
+  n43["`Ứng dụng không cần thuật toán vẫn dựa vào thuật toán qua phần cứng, giao diện đồ họa, định tuyến mạng, trình biên dịch`"]
+  n40 --- n43
+  n44["`Máy càng mạnh thì bài toán càng lớn, và khác biệt thuật toán lộ rõ nhất ở cỡ lớn`"]
+  n40 --- n44
+  n45["`Nền tảng thuật toán vững phân biệt lập trình viên thực sự giỏi với người mới`"]
+  n40 --- n45
+  n46["`Thông điệp xuyên suốt`"]
+  n0 --- n46
+  n47["`Phát biểu bài toán chính xác trước, rồi chứng minh thuật toán đúng với mọi đầu vào`"]
+  n46 --- n47
+  n48["`Tốc độ tăng theo n quan trọng hơn hệ số hằng — tiền đề cho ký hiệu tiệm cận ở Chương 3`"]
+  n46 --- n48
+  n49["`Không gian lời giải khổng lồ là lý do cần ngành thuật toán thay cho thử hết`"]
+  n46 --- n49
   class n0 root
-  class n1,n8,n16,n24,n31,n39,n45 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n46,n47,n48 leaf
+  class n1,n8,n16,n24,n31,n40,n46 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n47,n48,n49 leaf
 ```
 
 ## Nguồn

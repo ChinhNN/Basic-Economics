@@ -932,7 +932,7 @@ flowchart LR
   n8 --- n12
   n13["`Lần đầu công bố lời giải một số bài trên web, giảng viên nên kiểm tra trước mỗi lần giao bài`"]
   n8 --- n13
-  n14["`Dấu ★ đánh dấu 13 mục hợp sau đại học: không nhất thiết khó hơn nhưng có thể cần toán nâng cao`"]
+  n14["`Dấu ★ đánh dấu mục hợp sau đại học: không nhất thiết khó hơn nhưng có thể cần toán nâng cao`"]
   n8 --- n14
   n15["`Gửi sinh viên và người làm nghề (trang xiv–xv) — điều kiện đọc và cách dùng mã giả`"]
   n0 --- n15
@@ -996,31 +996,33 @@ flowchart LR
   n39 --- n44
   n45["`Mục lục (trang v–xi) — tám phần, 35 chương và 4 phụ lục, 156 mục`"]
   n0 --- n45
-  n46["`Phần I Nền tảng (Chương 1–5): vai trò thuật toán, sắp xếp chèn và trộn, ký hiệu tiệm cận, chia để trị, xác suất`"]
+  n46["`13 mục ★: 4.6, 5.4, 11.5, 12.4, 16.4, 16.5, 21.4, 26.4, 26.5, 31.8, 31.9, 32.4 và C.5`"]
   n45 --- n46
-  n47["`Phần II–III (Chương 6–14): sắp xếp, thống kê thứ tự, cấu trúc dữ liệu cơ bản`"]
+  n47["`Phần I Nền tảng (Chương 1–5): vai trò thuật toán, sắp xếp chèn và trộn, ký hiệu tiệm cận, chia để trị, xác suất`"]
   n45 --- n47
-  n48["`Phần IV (Chương 15–17): quy hoạch động, tham lam, phân tích khấu hao`"]
+  n48["`Phần II–III (Chương 6–14): sắp xếp, thống kê thứ tự, cấu trúc dữ liệu cơ bản`"]
   n45 --- n48
-  n49["`Phần V (Chương 18–21): cây B, đống Fibonacci, cây van Emde Boas, tập rời nhau`"]
+  n49["`Phần IV (Chương 15–17): quy hoạch động, tham lam, phân tích khấu hao`"]
   n45 --- n49
-  n50["`Phần VI (Chương 22–26): duyệt đồ thị, cây khung nhỏ nhất, đường đi ngắn nhất, luồng cực đại`"]
+  n50["`Phần V (Chương 18–21): cây B, đống Fibonacci, cây van Emde Boas, tập rời nhau`"]
   n45 --- n50
-  n51["`Phần VII (Chương 27–35) dài nhất, khoảng 370 trang, từ đa luồng tới NP-đầy đủ và xấp xỉ`"]
+  n51["`Phần VI (Chương 22–26): duyệt đồ thị, cây khung nhỏ nhất, đường đi ngắn nhất, luồng cực đại`"]
   n45 --- n51
-  n52["`Phần VIII Phụ lục A–D: tổng, tập hợp và đồ thị, đếm và xác suất, ma trận`"]
+  n52["`Phần VII (Chương 27–35) dài nhất, khoảng 370 trang, từ đa luồng tới NP-đầy đủ và xấp xỉ`"]
   n45 --- n52
-  n53["`Thông điệp xuyên suốt`"]
-  n0 --- n53
-  n54["`Mỗi thuật toán đi kèm mô tả, chứng minh đúng và phân tích thời gian chạy`"]
-  n53 --- n54
-  n55["`Chương độc lập nên sách vừa là giáo trình vừa là sổ tay tra theo nhu cầu`"]
-  n53 --- n55
-  n56["`Mục ★ có thể bỏ qua ở lần đọc đầu mà không mất mạch`"]
-  n53 --- n56
+  n53["`Phần VIII Phụ lục A–D: tổng, tập hợp và đồ thị, đếm và xác suất, ma trận`"]
+  n45 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Mỗi thuật toán đi kèm mô tả, chứng minh đúng và phân tích thời gian chạy`"]
+  n54 --- n55
+  n56["`Chương độc lập nên sách vừa là giáo trình vừa là sổ tay tra theo nhu cầu`"]
+  n54 --- n56
+  n57["`Mục ★ có thể bỏ qua ở lần đọc đầu mà không mất mạch`"]
+  n54 --- n57
   class n0 root
-  class n1,n8,n15,n22,n26,n39,n45,n53 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56 leaf
+  class n1,n8,n15,n22,n26,n39,n45,n54 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57 leaf
 ```
 
 ## Nguồn

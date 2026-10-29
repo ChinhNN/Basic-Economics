@@ -192,9 +192,17 @@ Mục 5.4 (có dấu sao, nâng cao) đưa bốn ví dụ phân tích xác suấ
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Phân tích xác suất khác thuật toán ngẫu nhiên ở đâu, và khi nào dùng cái nào?** Phân tích xác suất áp dụng cho thuật toán tất định: ta giả định (hoặc biết) phân phối của đầu vào, rồi lấy trung bình chi phí theo phân phối đó, được **thời gian chạy trường hợp trung bình**. Kết quả chỉ đúng nếu giả định về đầu vào đúng: HIRE-ASSISTANT thuê trung bình khoảng ln n lần nếu ứng viên đến theo thứ tự ngẫu nhiên đều, nhưng thuê đủ n lần với dãy tăng dần. Thuật toán ngẫu nhiên tự gọi RANDOM để áp đặt phân phối (ví dụ hoán vị ngẫu nhiên đầu vào), nên **thời gian chạy kỳ vọng** đúng với mọi đầu vào: RANDOMIZED-HIRE-ASSISTANT thuê kỳ vọng ln n + O(1) lần với bất kỳ thứ tự nào, kể cả ⟨1, 2, …, 10⟩. Không đối thủ nào dựng được đầu vào xấu; thuật toán chỉ chậm khi bộ sinh số cho ra hoán vị "xui". Dùng phân tích xác suất khi có cơ sở tin vào phân phối đầu vào; dùng ngẫu nhiên hoá khi không có.
+1. **Phân tích xác suất khác thuật toán ngẫu nhiên ở đâu, và khi nào dùng cái nào?** Phân tích xác suất áp dụng cho thuật toán tất định: ta giả định (hoặc biết) phân phối của đầu vào, rồi lấy trung bình chi phí theo phân phối đó, được **thời gian chạy trường hợp trung bình**. Kết quả chỉ đúng nếu giả định về đầu vào đúng: HIRE-ASSISTANT thuê trung bình khoảng ln n lần nếu ứng viên đến theo thứ tự ngẫu nhiên đều, nhưng thuê đủ n lần với dãy tăng dần.
+
+   Thuật toán ngẫu nhiên tự gọi RANDOM để áp đặt phân phối (ví dụ hoán vị ngẫu nhiên đầu vào), nên **thời gian chạy kỳ vọng** đúng với mọi đầu vào: RANDOMIZED-HIRE-ASSISTANT thuê kỳ vọng ln n + O(1) lần với bất kỳ thứ tự nào, kể cả ⟨1, 2, …, 10⟩. Không đối thủ nào dựng được đầu vào xấu; thuật toán chỉ chậm khi bộ sinh số cho ra hoán vị "xui".
+
+   Dùng phân tích xác suất khi có cơ sở tin vào phân phối đầu vào; dùng ngẫu nhiên hoá khi không có.
 2. **Vì sao biến ngẫu nhiên chỉ thị làm việc tính kỳ vọng trở nên dễ?** Vì hai sự kiện: E[I{A}] = Pr{A} (Bổ đề 5.1), và kỳ vọng của tổng bằng tổng các kỳ vọng kể cả khi các biến phụ thuộc nhau. Thay vì tính phân phối của X (số lần thuê) — rất phức tạp — ta viết X = X₁ + … + Xₙ với Xᵢ = I{ứng viên i được thuê}, chỉ cần một xác suất đơn giản cho từng i: Pr{i giỏi nhất trong i người đầu} = 1/i. Với n = 10 ứng viên: E[X] = 1 + 1/2 + … + 1/10 = H₁₀ ≈ 2,929 lần thuê. Cùng kỹ thuật cho số cặp trùng ngày sinh k(k − 1)/2n, số chuỗi ngửa độ dài k là (n − k + 1)/2ᵏ, và (ở Chương 7) số phép so sánh của quicksort.
-3. **Làm thế nào sinh một hoán vị ngẫu nhiên đều, và làm sao chứng minh nó đều?** Cách 1, PERMUTE-BY-SORTING: gán cho mỗi phần tử độ ưu tiên ngẫu nhiên trong 1..n³ (để các độ ưu tiên gần như chắc chắn khác nhau, xác suất ≥ 1 − 1/n) rồi sắp xếp theo độ ưu tiên; mỗi hoán vị cụ thể xảy ra với xác suất (1/n)(1/(n − 1))…(1/1) = 1/n! (Bổ đề 5.4); tốn Θ(n lg n) vì phải sắp xếp. Cách 2, RANDOMIZE-IN-PLACE: với i = 1..n, đổi A[i] với A[RANDOM(i, n)]; chạy O(n), tại chỗ; chứng minh bằng bất biến vòng lặp "trước vòng i, mỗi (i − 1)-hoán vị nằm trong A[1..i − 1] với xác suất (n − i + 1)!/n!" (Bổ đề 5.5). Điều kiện yếu hơn "mỗi phần tử rơi vào mỗi vị trí với xác suất 1/n" không đủ: dịch vòng ngẫu nhiên (PERMUTE-BY-CYCLIC) thoả điều kiện đó nhưng chỉ sinh được n trong n! hoán vị.
+3. **Làm thế nào sinh một hoán vị ngẫu nhiên đều, và làm sao chứng minh nó đều?** Cách 1, PERMUTE-BY-SORTING: gán cho mỗi phần tử độ ưu tiên ngẫu nhiên trong 1..n³ (để các độ ưu tiên gần như chắc chắn khác nhau, xác suất ≥ 1 − 1/n) rồi sắp xếp theo độ ưu tiên; mỗi hoán vị cụ thể xảy ra với xác suất (1/n)(1/(n − 1))…(1/1) = 1/n! (Bổ đề 5.4); tốn Θ(n lg n) vì phải sắp xếp.
+
+   Cách 2, RANDOMIZE-IN-PLACE: với i = 1..n, đổi A[i] với A[RANDOM(i, n)]; chạy O(n), tại chỗ; chứng minh bằng bất biến vòng lặp "trước vòng i, mỗi (i − 1)-hoán vị nằm trong A[1..i − 1] với xác suất (n − i + 1)!/n!" (Bổ đề 5.5).
+
+   Điều kiện yếu hơn "mỗi phần tử rơi vào mỗi vị trí với xác suất 1/n" không đủ: dịch vòng ngẫu nhiên (PERMUTE-BY-CYCLIC) thoả điều kiện đó nhưng chỉ sinh được n trong n! hoán vị.
 
 ## Khái niệm cần biết
 
@@ -1019,7 +1027,11 @@ Bài toán sưu tập phiếu xuất hiện khi ước lượng cần bao nhiêu
   7      else S = S ∪ {i}
   8      return S
   ```
-  *Chứng minh của người tổng hợp* (quy nạp theo m): giả sử S′ = RANDOM-SAMPLE(m − 1, n − 1) là tập con (m − 1) phần tử đều của {1..n − 1}, mỗi tập xác suất 1/C(n − 1, m − 1). Xét một tập T cụ thể gồm m phần tử của {1..n}. Nếu n ∈ T: T được tạo khi S′ = T − {n} và i ∈ S′ ∪ {n} (m giá trị), xác suất (1/C(n − 1, m − 1)) · (m/n). Nếu n ∉ T: T được tạo khi S′ = T − {x} và i = x, với mỗi x ∈ T (m cách), mỗi cách xác suất (1/C(n − 1, m − 1)) · (1/n); tổng (1/C(n − 1, m − 1)) · (m/n). Cả hai trường hợp: m/(n · C(n − 1, m − 1)) = 1/C(n, m). Ví dụ m = 1: S′ = ∅, i đều trên 1..n, trả về {i}, mỗi tập xác suất 1/n = 1/C(n, 1).
+  *Chứng minh của người tổng hợp* (quy nạp theo m): giả sử S′ = RANDOM-SAMPLE(m − 1, n − 1) là tập con (m − 1) phần tử đều của {1..n − 1}, mỗi tập xác suất 1/C(n − 1, m − 1). Xét một tập T cụ thể gồm m phần tử của {1..n}. Nếu n ∈ T: T được tạo khi S′ = T − {n} và i ∈ S′ ∪ {n} (m giá trị), xác suất (1/C(n − 1, m − 1)) · (m/n).
+
+  Nếu n ∉ T: T được tạo khi S′ = T − {x} và i = x, với mỗi x ∈ T (m cách), mỗi cách xác suất (1/C(n − 1, m − 1)) · (1/n); tổng (1/C(n − 1, m − 1)) · (m/n). Cả hai trường hợp: m/(n · C(n − 1, m − 1)) = 1/C(n, m).
+
+  Ví dụ m = 1: S′ = ∅, i đều trên 1..n, trả về {i}, mỗi tập xác suất 1/n = 1/C(n, 1).
 
 ### Bài tập Mục 5.4 (trang 142)
 
@@ -1282,73 +1294,75 @@ flowchart LR
   n8 --- n12
   n13["`Số lần thuê kỳ vọng Σ 1/i = ln n + O(1), với n = 10 là H₁₀ ≈ 2,93`"]
   n8 --- n13
-  n14["`Bổ đề 5.2: chi phí thuê trung bình O(cₕ ln n), tốt hơn hẳn O(cₕn)`"]
+  n14["`Bài tập 5.2-4 trả mũ: số khách nhận đúng mũ kỳ vọng là 1, Bài tập 5.2-5: số nghịch thế kỳ vọng n(n − 1)/4`"]
   n8 --- n14
-  n15["`Mục 5.3 — Thuật toán ngẫu nhiên`"]
-  n0 --- n15
-  n16["`Thay vì giả định phân phối đầu vào, ta áp đặt phân phối bằng cách hoán vị ngẫu nhiên đầu vào`"]
-  n15 --- n16
-  n17["`Tất định: A₁ tăng dần thuê 10 lần, A₂ giảm dần thuê 1 lần, A₃ thuê 3 lần`"]
-  n15 --- n17
-  n18["`Không đầu vào nào luôn gây trường hợp xấu nhất, chỉ xui khi bộ sinh số cho hoán vị xấu`"]
-  n15 --- n18
-  n19["`Bổ đề 5.3: RANDOMIZED-HIRE-ASSISTANT có chi phí thuê kỳ vọng O(cₕ ln n) với mọi đầu vào`"]
-  n15 --- n19
-  n20["`PERMUTE-BY-SORTING gán độ ưu tiên ngẫu nhiên trong 1..n³ rồi sắp xếp, Θ(n lg n), đều theo Bổ đề 5.4`"]
-  n15 --- n20
-  n21["`RANDOMIZE-IN-PLACE đổi A[i] với A[RANDOM(i, n)], O(n), tại chỗ, đều theo Bổ đề 5.5 chứng minh bằng bất biến vòng lặp`"]
-  n15 --- n21
-  n22["`Mỗi phần tử vào mỗi vị trí với xác suất 1/n chưa đủ: dịch vòng chỉ sinh n trong n! hoán vị`"]
-  n15 --- n22
-  n23["`Mục 5.4.1–5.4.2 ★ — Ngày sinh và bi vào thùng`"]
-  n0 --- n23
-  n24["`Pr mọi ngày sinh khác nhau = Π(1 − i/n) ≤ e^(−k(k−1)/2n), dùng 1 + x ≤ eˣ`"]
-  n23 --- n24
-  n25["`23 người đủ để xác suất trùng ngày sinh vượt 1/2 (chính xác 0,5073), sao Hoả 669 ngày cần 31`"]
-  n23 --- n25
-  n26["`Biến chỉ thị: số cặp trùng kỳ vọng k(k − 1)/2n ≥ 1 khi k ≥ 28, cả hai cách đều Θ(√n)`"]
-  n23 --- n26
-  n27["`Ném n bi vào b thùng: kỳ vọng n/b bi mỗi thùng, b lần ném tới khi một thùng cho trước có bi`"]
-  n23 --- n27
-  n28["`Mọi thùng có bi cần b(ln b + O(1)) lần ném — bài toán sưu tập phiếu, mô hình của bảng băm Chương 11`"]
-  n23 --- n28
-  n29["`Mục 5.4.3–5.4.4 ★ — Chuỗi mặt ngửa và tuyển dụng trực tuyến`"]
-  n0 --- n29
-  n30["`Chuỗi ngửa dài nhất trong n lần tung có độ dài kỳ vọng Θ(lg n)`"]
-  n29 --- n30
-  n31["`Cận trên O(lg n) bằng bất đẳng thức Boole: Pr có chuỗi ≥ 2⌈lg n⌉ dưới 1/n`"]
-  n29 --- n31
-  n32["`Cận dưới Ω(lg n) bằng chia nhóm ⌊(lg n)/2⌋ lần tung độc lập`"]
-  n29 --- n32
-  n33["`n = 1000: chuỗi ≥ 20 có xác suất tối đa 1/1000, chuỗi trên 30 tối đa 1/1000000`"]
-  n29 --- n33
-  n34["`Bài toán thư ký: bỏ qua k người đầu, thuê người đầu tiên giỏi hơn tất cả trước đó`"]
-  n29 --- n34
-  n35["`Pr thành công ≥ (k/n)(ln n − ln k), tối ưu k = n/e cho xác suất ít nhất 1/e`"]
-  n29 --- n35
-  n36["`Bài toán 5-1 và 5-2 cuối chương`"]
-  n0 --- n36
-  n37["`Đếm xác suất của Morris: bộ đếm b bit tăng với xác suất 1/(nᵢ₊₁ − nᵢ), giá trị biểu diễn kỳ vọng đúng bằng n`"]
-  n36 --- n37
-  n38["`Với nᵢ = 100i, phương sai giá trị biểu diễn là 99n`"]
-  n36 --- n38
-  n39["`RANDOM-SEARCH khi không có x là sưu tập phiếu, kỳ vọng n(ln n + O(1)) lần chọn`"]
-  n36 --- n39
-  n40["`DETERMINISTIC-SEARCH đơn giản nhất, SCRAMBLE-SEARCH luôn tốn Θ(n) cho bước hoán vị`"]
-  n36 --- n40
-  n41["`Thông điệp xuyên suốt`"]
-  n0 --- n41
-  n42["`Thời gian trung bình chỉ có giá trị khi giả định về đầu vào đúng, không kiểm soát được đầu vào thì ngẫu nhiên hoá`"]
-  n41 --- n42
-  n43["`Biến chỉ thị cộng tuyến tính kỳ vọng là công cụ nên thử đầu tiên, dùng lại ở quicksort, RANDOMIZED-SELECT, bảng băm`"]
-  n41 --- n43
-  n44["`Xáo trộn đúng là Fisher–Yates, chọn chỉ số trong toàn mảng hay dịch vòng đều làm lệch phân phối`"]
-  n41 --- n44
-  n45["`Va chạm xuất hiện sau khoảng √n lựa chọn, phủ hết n trường hợp tốn khoảng n ln n lần`"]
-  n41 --- n45
+  n15["`Bổ đề 5.2: chi phí thuê trung bình O(cₕ ln n), tốt hơn hẳn O(cₕn)`"]
+  n8 --- n15
+  n16["`Mục 5.3 — Thuật toán ngẫu nhiên`"]
+  n0 --- n16
+  n17["`Thay vì giả định phân phối đầu vào, ta áp đặt phân phối bằng cách hoán vị ngẫu nhiên đầu vào`"]
+  n16 --- n17
+  n18["`Tất định: A₁ tăng dần thuê 10 lần, A₂ giảm dần thuê 1 lần, A₃ thuê 3 lần`"]
+  n16 --- n18
+  n19["`Không đầu vào nào luôn gây trường hợp xấu nhất, chỉ xui khi bộ sinh số cho hoán vị xấu`"]
+  n16 --- n19
+  n20["`Bổ đề 5.3: RANDOMIZED-HIRE-ASSISTANT có chi phí thuê kỳ vọng O(cₕ ln n) với mọi đầu vào`"]
+  n16 --- n20
+  n21["`PERMUTE-BY-SORTING gán độ ưu tiên ngẫu nhiên trong 1..n³ rồi sắp xếp, Θ(n lg n), đều theo Bổ đề 5.4`"]
+  n16 --- n21
+  n22["`RANDOMIZE-IN-PLACE đổi A[i] với A[RANDOM(i, n)], O(n), tại chỗ, đều theo Bổ đề 5.5 chứng minh bằng bất biến vòng lặp`"]
+  n16 --- n22
+  n23["`Mỗi phần tử vào mỗi vị trí với xác suất 1/n chưa đủ: dịch vòng chỉ sinh n trong n! hoán vị`"]
+  n16 --- n23
+  n24["`Mục 5.4.1–5.4.2 ★ — Ngày sinh và bi vào thùng`"]
+  n0 --- n24
+  n25["`Pr{mọi ngày sinh khác nhau} = Π(1 − i/n) ≤ e^(−k(k−1)/2n), dùng 1 + x ≤ eˣ`"]
+  n24 --- n25
+  n26["`23 người đủ để xác suất trùng ngày sinh vượt 1/2 (chính xác 0,5073), sao Hoả 669 ngày cần 31`"]
+  n24 --- n26
+  n27["`Biến chỉ thị: số cặp trùng kỳ vọng k(k − 1)/2n ≥ 1 khi k ≥ 28, cả hai cách đều Θ(√n)`"]
+  n24 --- n27
+  n28["`Ném n bi vào b thùng: kỳ vọng n/b bi mỗi thùng, b lần ném tới khi một thùng cho trước có bi`"]
+  n24 --- n28
+  n29["`Mọi thùng có bi cần b(ln b + O(1)) lần ném — bài toán sưu tập phiếu, mô hình của bảng băm Chương 11`"]
+  n24 --- n29
+  n30["`Mục 5.4.3–5.4.4 ★ — Chuỗi mặt ngửa và tuyển dụng trực tuyến`"]
+  n0 --- n30
+  n31["`Chuỗi ngửa dài nhất trong n lần tung có độ dài kỳ vọng Θ(lg n)`"]
+  n30 --- n31
+  n32["`Cận trên O(lg n) bằng bất đẳng thức Boole: Pr{có chuỗi ≥ 2⌈lg n⌉} #lt; 1/n`"]
+  n30 --- n32
+  n33["`Cận dưới Ω(lg n) bằng chia nhóm ⌊(lg n)/2⌋ lần tung độc lập`"]
+  n30 --- n33
+  n34["`n = 1000: chuỗi ≥ 20 có xác suất tối đa 1/1000, chuỗi trên 30 tối đa 1/1000000`"]
+  n30 --- n34
+  n35["`Bài toán thư ký: bỏ qua k người đầu, thuê người đầu tiên giỏi hơn tất cả trước đó`"]
+  n30 --- n35
+  n36["`Pr{thành công} ≥ (k/n)(ln n − ln k), tối ưu k = n/e cho xác suất ít nhất 1/e`"]
+  n30 --- n36
+  n37["`Bài toán 5-1 và 5-2 cuối chương`"]
+  n0 --- n37
+  n38["`Đếm xác suất của Morris: bộ đếm b bit tăng với xác suất 1/(nᵢ₊₁ − nᵢ), giá trị biểu diễn kỳ vọng đúng bằng n`"]
+  n37 --- n38
+  n39["`Với nᵢ = 100i, phương sai giá trị biểu diễn là 99n`"]
+  n37 --- n39
+  n40["`RANDOM-SEARCH khi không có x là sưu tập phiếu, kỳ vọng n(ln n + O(1)) lần chọn`"]
+  n37 --- n40
+  n41["`DETERMINISTIC-SEARCH đơn giản nhất, SCRAMBLE-SEARCH luôn tốn Θ(n) cho bước hoán vị`"]
+  n37 --- n41
+  n42["`Thông điệp xuyên suốt`"]
+  n0 --- n42
+  n43["`Thời gian trung bình chỉ có giá trị khi giả định về đầu vào đúng, không kiểm soát được đầu vào thì ngẫu nhiên hoá`"]
+  n42 --- n43
+  n44["`Biến chỉ thị cộng tuyến tính kỳ vọng là công cụ nên thử đầu tiên, dùng lại ở quicksort, RANDOMIZED-SELECT, bảng băm`"]
+  n42 --- n44
+  n45["`Xáo trộn đúng là Fisher–Yates, chọn chỉ số trong toàn mảng hay dịch vòng đều làm lệch phân phối`"]
+  n42 --- n45
+  n46["`Va chạm xuất hiện sau khoảng √n lựa chọn, phủ hết n trường hợp tốn khoảng n ln n lần`"]
+  n42 --- n46
   class n0 root
-  class n1,n8,n15,n23,n29,n36,n41 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n42,n43,n44,n45 leaf
+  class n1,n8,n16,n24,n30,n37,n42 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n43,n44,n45,n46 leaf
 ```
 
 ## Nguồn
@@ -1370,9 +1384,23 @@ Các công cụ của chương được dùng lại ngay: Chương 7 ([C07-quick
 ## Lưu ý
 
 - **Mục có dấu sao (★):** toàn bộ Mục 5.4 "Probabilistic analysis and further uses of indicator random variables" (trang 130–142), gồm 5.4.1–5.4.4. **Bài tập có dấu sao:** 5.1-2, 5.1-3, 5.3-5, 5.4-3, 5.4-4, 5.4-5, 5.4-6, 5.4-7. Hai bài toán cuối chương (5-1, 5-2) không có dấu sao.
-- **Lớp chữ PDF hỏng gần như mọi ký hiệu toán của chương:** `bestD 0` là `best = 0`; `/NUL` là dấu trừ; `‚` là Θ; `.n lg n/` ở trang 125 là Ω(n lg n); `PrfAg` và `IfAg` là Pr{A} và I{A}; `nŠ` là n!; `¤` là ≠; `dlg ne` là ⌈lg n⌉ và `b.lg n/=2c` là ⌊(lg n)/2⌋; `p` thay cho dấu căn √; dấu ≤ mất hẳn ở Bài tập 5.3-7 (`0 m n` là 0 ≤ m ≤ n) và ở 5.4.1 (`1 bi n` là 1 ≤ bᵢ ≤ n); dấu ∈ ở dòng 5 của RANDOM-SAMPLE thành `i2 S`; các tổng, tích phân, số mũ (2^{2⌈lg n⌉}, e^{−k(k−1)/2n}, (1 − 1/√n)^{⌊n/⌊(lg n)/2⌋⌋}) vỡ thành nhiều dòng. Mọi pseudocode và công thức trong bản tổng hợp này được đối chiếu với ảnh của tất cả các trang 114–145; các trang toán dày nhất đã đọc kỹ là 115, 118–121, 124–128, 130–141, 143–144.
+- **Lớp chữ PDF hỏng gần như mọi ký hiệu toán của chương:** `bestD 0` là `best = 0`; `/NUL` là dấu trừ; `‚` là Θ; `.n lg n/` ở trang 125 là Ω(n lg n); `PrfAg` và `IfAg` là Pr{A} và I{A}; `nŠ` là n!; `¤` là ≠; `dlg ne` là ⌈lg n⌉ và `b.lg n/=2c` là ⌊(lg n)/2⌋; `p` thay cho dấu căn √.
+
+  Dấu ≤ mất hẳn ở Bài tập 5.3-7 (`0 m n` là 0 ≤ m ≤ n) và ở 5.4.1 (`1 bi n` là 1 ≤ bᵢ ≤ n); dấu ∈ ở dòng 5 của RANDOM-SAMPLE thành `i2 S`; các tổng, tích phân, số mũ (2^{2⌈lg n⌉}, e^{−k(k−1)/2n}, (1 − 1/√n)^{⌊n/⌊(lg n)/2⌋⌋}) vỡ thành nhiều dòng.
+
+  Mọi pseudocode và công thức trong bản tổng hợp này được đối chiếu với ảnh của tất cả các trang 114–145; các trang toán dày nhất đã đọc kỹ là 115, 118–121, 124–128, 130–141, 143–144.
 - **Lỗi in trong chứng minh Bổ đề 5.5 (trang 128, bước Kết thúc; nhận xét của người tổng hợp):** sách viết xác suất là "(n − (n + 1) + 1)/n! = 0!/n! = 1/n!" — thiếu dấu giai thừa ở tử số. Đúng phải là (n − (n + 1) + 1)!/n! = 0!/n! = 1/n!. Kết quả cuối vẫn đúng.
 - **Lệch một đơn vị ở bất đẳng thức (5.11) (trang 137; nhận xét của người tổng hợp):** điều được chứng minh là "xác suất có ít nhất một nhóm ⌊(lg n)/2⌋ lần tung toàn mặt ngửa ≥ 1 − O(1/n)", tức chuỗi dài nhất **ít nhất** ⌊(lg n)/2⌋. Nhưng sách viết "xác suất chuỗi dài nhất **vượt quá** ⌊(lg n)/2⌋" và lấy tổng Σ Pr{Lⱼ} từ j = ⌊(lg n)/2⌋ + 1. Đúng ra tổng phải bắt đầu từ j = ⌊(lg n)/2⌋. Sửa lại thì phép tính cận dưới ở trang 138 vẫn cho ⌊(lg n)/2⌋(1 − O(1/n)) = Ω(lg n), kết luận không đổi. Người tổng hợp không chắc lỗi này có trong danh sách errata chính thức hay không (không tra cứu).
-- **Các chỗ chưa chặt khác (nhận xét của người tổng hợp):** (1) trang 133 nói "nếu có ít nhất √(2n) + 1 người thì kỳ vọng ít nhất một cặp trùng ngày sinh"; đây là điều kiện đủ nhưng hơi dư: với n = 365, √730 + 1 ≈ 28,02, tức theo đúng chữ thì cần 29 người, trong khi 28 người đã đủ (28 · 27 = 756 ≥ 730) — và sách dùng ngay con số 28 ở câu sau. (2) Trang 141: cận trên bằng tích phân ∫ từ k − 1 tới n − 1 của dx/x chỉ có nghĩa khi k ≥ 2 (k = 1 cho ln 0); và k = n/e thường không phải số nguyên, nên "xác suất ít nhất 1/e" chỉ đúng xấp xỉ sau khi làm tròn k (với n = 100, k = 37 cho 0,3710 > 1/e ≈ 0,3679, vẫn đúng). (3) Problem 5-1(b) gọi bộ đếm là "register" (thanh ghi) trong khi phần còn lại gọi là "counter". (4) Ghi chú chương viết tên tác giả "Meggido"; theo hiểu biết của người tổng hợp, tên đúng là Nimrod Megiddo.
-- **Ví dụ trong sách đã được tự kiểm tra lại và đúng:** dãy hạng A₃ = ⟨5, 2, 1, 8, 4, 7, 10, 9, 3, 6⟩ cho đúng 3 lần thuê (hạng 5, 8, 10); PERMUTE-BY-SORTING với A = ⟨1, 2, 3, 4⟩, P = ⟨36, 3, 62, 19⟩ cho B = ⟨2, 4, 1, 3⟩; nghịch lý ngày sinh: cận k ≥ 23 với n = 365 (k(k − 1) = 506 ≥ 2 · 365 · ln 2 ≈ 505,997) và 31 với n = 669 (31 · 30 = 930 ≥ 927,43); phân tích bằng biến chỉ thị: 28 · 27/(2 · 365) ≈ 1,0356, và 38 với n = 669 (38 · 37 = 1.406 ≥ 1.338, còn 37 · 36 = 1.332 thì chưa đủ); chuỗi mặt ngửa với n = 1.000: 2⌈lg n⌉ = 20, 3⌈lg n⌉ = 30. Người tổng hợp tính thêm: xác suất đúng có hai người trùng ngày sinh là 0,4757 với 22 người và 0,5073 với 23 người, nên 23 cũng chính là số nhỏ nhất (cận của sách trùng khớp với giá trị chính xác); kỳ vọng độ dài chuỗi ngửa dài nhất với n = 1.000 là khoảng 9,30 và xác suất có chuỗi ≥ 20 là khoảng 0,00047 (< 1/1.000 như sách nói).
+- **Các chỗ chưa chặt khác (nhận xét của người tổng hợp):** (1) trang 133 nói "nếu có ít nhất √(2n) + 1 người thì kỳ vọng ít nhất một cặp trùng ngày sinh"; đây là điều kiện đủ nhưng hơi dư: với n = 365, √730 + 1 ≈ 28,02, tức theo đúng chữ thì cần 29 người, trong khi 28 người đã đủ (28 · 27 = 756 ≥ 730) — và sách dùng ngay con số 28 ở câu sau.
+
+  (2) Trang 141: cận trên bằng tích phân ∫ từ k − 1 tới n − 1 của dx/x chỉ có nghĩa khi k ≥ 2 (k = 1 cho ln 0); và k = n/e thường không phải số nguyên, nên "xác suất ít nhất 1/e" chỉ đúng xấp xỉ sau khi làm tròn k (với n = 100, k = 37 cho 0,3710 > 1/e ≈ 0,3679, vẫn đúng).
+
+  (3) Problem 5-1(b) gọi bộ đếm là "register" (thanh ghi) trong khi phần còn lại gọi là "counter". (4) Ghi chú chương viết tên tác giả "Meggido"; theo hiểu biết của người tổng hợp, tên đúng là Nimrod Megiddo.
+- **Ví dụ trong sách đã được tự kiểm tra lại và đúng:** dãy hạng A₃ = ⟨5, 2, 1, 8, 4, 7, 10, 9, 3, 6⟩ cho đúng 3 lần thuê (hạng 5, 8, 10); PERMUTE-BY-SORTING với A = ⟨1, 2, 3, 4⟩, P = ⟨36, 3, 62, 19⟩ cho B = ⟨2, 4, 1, 3⟩.
+
+  Nghịch lý ngày sinh: cận k ≥ 23 với n = 365 (k(k − 1) = 506 ≥ 2 · 365 · ln 2 ≈ 505,997) và 31 với n = 669 (31 · 30 = 930 ≥ 927,43).
+
+  Phân tích bằng biến chỉ thị: 28 · 27/(2 · 365) ≈ 1,0356, và 38 với n = 669 (38 · 37 = 1.406 ≥ 1.338, còn 37 · 36 = 1.332 thì chưa đủ); chuỗi mặt ngửa với n = 1.000: 2⌈lg n⌉ = 20, 3⌈lg n⌉ = 30.
+
+  Người tổng hợp tính thêm: xác suất đúng có hai người trùng ngày sinh là 0,4757 với 22 người và 0,5073 với 23 người, nên 23 cũng chính là số nhỏ nhất (cận của sách trùng khớp với giá trị chính xác); kỳ vọng độ dài chuỗi ngửa dài nhất với n = 1.000 là khoảng 9,30 và xác suất có chuỗi ≥ 20 là khoảng 0,00047 (< 1/1.000 như sách nói).
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương vẫn là Chương 5 với cùng tên và cùng bộ khung (bài toán tuyển dụng, biến ngẫu nhiên chỉ thị, thuật toán ngẫu nhiên, mục nâng cao với nghịch lý ngày sinh, bi và thùng, chuỗi mặt ngửa, tuyển dụng trực tuyến). Thủ tục RANDOMIZE-IN-PLACE được đổi tên thành RANDOMLY-PERMUTE và thuộc tính `A.length` được bỏ (n truyền vào như tham số). Người tổng hợp nhớ không chắc việc PERMUTE-BY-SORTING có còn nằm trong phần chính hay không, nên không khẳng định.

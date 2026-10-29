@@ -2,7 +2,11 @@
 
 ## Ý chính
 
-Các tác giả muốn người đọc nắm ba kỹ năng nền tảng, minh hoạ trên bài toán sắp xếp: **(1) mô tả** một thuật toán rõ ràng bằng pseudocode; **(2) chứng minh nó đúng** bằng bất biến vòng lặp với ba bước khởi tạo – duy trì – kết thúc (tương tự quy nạp toán học nhưng dừng khi vòng lặp dừng); **(3) phân tích thời gian chạy** trên mô hình máy truy cập ngẫu nhiên (RAM) — mỗi dòng pseudocode tốn một hằng số thời gian, cộng chi phí × số lần thực hiện, rồi chỉ giữ số hạng bậc cao nhất và bỏ hệ số để ra bậc tăng trưởng.
+Các tác giả muốn người đọc nắm ba kỹ năng nền tảng, minh hoạ trên bài toán sắp xếp:
+
+- **(1) mô tả** một thuật toán rõ ràng bằng pseudocode;
+- **(2) chứng minh nó đúng** bằng bất biến vòng lặp với ba bước khởi tạo – duy trì – kết thúc (tương tự quy nạp toán học nhưng dừng khi vòng lặp dừng);
+- **(3) phân tích thời gian chạy** trên mô hình máy truy cập ngẫu nhiên (RAM) — mỗi dòng pseudocode tốn một hằng số thời gian, cộng chi phí × số lần thực hiện, rồi chỉ giữ số hạng bậc cao nhất và bỏ hệ số để ra bậc tăng trưởng.
 
 Sắp xếp chèn (insertion sort) là thuật toán tăng dần (incremental): chèn từng phần tử A[j] vào đoạn A[1 .. j − 1] đã sắp; nó sắp xếp tại chỗ, chạy trong thời gian tuyến tính an + b (tức Θ(n)) khi mảng đã sắp sẵn, và bậc hai an² + bn + c (tức Θ(n²)) trong trường hợp xấu nhất (mảng sắp ngược) cũng như trung bình.
 
@@ -393,8 +397,16 @@ Vì lg n tăng chậm hơn mọi hàm tuyến tính, với đầu vào đủ l�
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao biết một thuật toán sắp xếp là đúng?** Bằng bất biến vòng lặp: một mệnh đề về trạng thái dữ liệu, đúng ở đầu mỗi lần lặp. Phải chứng minh ba điều: khởi tạo (đúng trước lần lặp đầu), duy trì (một lần lặp giữ cho nó đúng) và kết thúc (khi vòng lặp dừng, bất biến cộng với điều kiện dừng cho ra kết luận cần thiết). Với sắp xếp chèn, bất biến là "A[1 .. j − 1] gồm đúng các phần tử ban đầu của A[1 .. j − 1], đã sắp"; vòng lặp dừng ở j = n + 1 nên cả A[1 .. n] đã sắp. Với MERGE, bất biến là "A[p .. k − 1] chứa k − p phần tử nhỏ nhất của L và R theo thứ tự, còn L[i], R[j] là phần tử nhỏ nhất chưa chép"; khi k = r + 1, A[p .. r] chứa r − p + 1 phần tử nhỏ nhất đã sắp, chỉ hai phần tử canh ∞ còn lại.
-2. **Sắp xếp chèn tốn bao nhiêu thời gian?** Trên mô hình RAM, với cᵢ là chi phí dòng i và tⱼ là số lần kiểm tra điều kiện while ứng với j: T(n) = c₁n + c₂(n − 1) + c₄(n − 1) + c₅ Σⱼ₌₂ⁿ tⱼ + c₆ Σⱼ₌₂ⁿ (tⱼ − 1) + c₇ Σⱼ₌₂ⁿ (tⱼ − 1) + c₈(n − 1). Khi mảng đã sắp, tⱼ = 1 và T(n) = (c₁ + c₂ + c₄ + c₅ + c₈)n − (c₂ + c₄ + c₅ + c₈), tuyến tính. Khi mảng sắp ngược, tⱼ = j và T(n) = (c₅/2 + c₆/2 + c₇/2)n² + (c₁ + c₂ + c₄ + c₅/2 − c₆/2 − c₇/2 + c₈)n − (c₂ + c₄ + c₅ + c₈), bậc hai. Trường hợp trung bình tⱼ ≈ j/2, vẫn bậc hai. Bỏ số hạng bậc thấp và hệ số: thời gian xấu nhất Θ(n²). Ví dụ nếu mọi cᵢ = 1 (trừ c₃ = 0) và n = 6: tốt nhất 26 bước, xấu nhất 71 bước.
+1. **Làm sao biết một thuật toán sắp xếp là đúng?** Bằng bất biến vòng lặp: một mệnh đề về trạng thái dữ liệu, đúng ở đầu mỗi lần lặp. Phải chứng minh ba điều: khởi tạo (đúng trước lần lặp đầu), duy trì (một lần lặp giữ cho nó đúng) và kết thúc (khi vòng lặp dừng, bất biến cộng với điều kiện dừng cho ra kết luận cần thiết).
+
+   Với sắp xếp chèn, bất biến là "A[1 .. j − 1] gồm đúng các phần tử ban đầu của A[1 .. j − 1], đã sắp"; vòng lặp dừng ở j = n + 1 nên cả A[1 .. n] đã sắp.
+
+   Với MERGE, bất biến là "A[p .. k − 1] chứa k − p phần tử nhỏ nhất của L và R theo thứ tự, còn L[i], R[j] là phần tử nhỏ nhất chưa chép"; khi k = r + 1, A[p .. r] chứa r − p + 1 phần tử nhỏ nhất đã sắp, chỉ hai phần tử canh ∞ còn lại.
+2. **Sắp xếp chèn tốn bao nhiêu thời gian?** Trên mô hình RAM, với cᵢ là chi phí dòng i và tⱼ là số lần kiểm tra điều kiện while ứng với j: T(n) = c₁n + c₂(n − 1) + c₄(n − 1) + c₅ Σⱼ₌₂ⁿ tⱼ + c₆ Σⱼ₌₂ⁿ (tⱼ − 1) + c₇ Σⱼ₌₂ⁿ (tⱼ − 1) + c₈(n − 1).
+
+   Khi mảng đã sắp, tⱼ = 1 và T(n) = (c₁ + c₂ + c₄ + c₅ + c₈)n − (c₂ + c₄ + c₅ + c₈), tuyến tính. Khi mảng sắp ngược, tⱼ = j và T(n) = (c₅/2 + c₆/2 + c₇/2)n² + (c₁ + c₂ + c₄ + c₅/2 − c₆/2 − c₇/2 + c₈)n − (c₂ + c₄ + c₅ + c₈), bậc hai.
+
+   Trường hợp trung bình tⱼ ≈ j/2, vẫn bậc hai. Bỏ số hạng bậc thấp và hệ số: thời gian xấu nhất Θ(n²). Ví dụ nếu mọi cᵢ = 1 (trừ c₃ = 0) và n = 6: tốt nhất 26 bước, xấu nhất 71 bước.
 3. **Chia để trị giúp sắp xếp nhanh hơn thế nào?** Sắp xếp trộn chia mảng làm đôi, sắp đệ quy hai nửa, rồi trộn trong Θ(n). Thời gian thoả T(n) = 2T(n/2) + cn. Cây đệ quy có lg n + 1 tầng, mỗi tầng tổng chi phí cn, nên T(n) = cn lg n + cn = Θ(n lg n). Với n = 1.000.000, n² = 10¹² trong khi n lg n ≈ 2 × 10⁷: chênh lệch cỡ 50.000 lần, đủ để bù bất kỳ khác biệt hằng số hợp lý nào.
 
 ## Khái niệm cần biết
@@ -1206,7 +1218,7 @@ Ngược lại, khẳng định "phân tích RAM thường dự báo rất tốt
 
 ## Bản đồ tư duy
 
-Toàn bộ Chương 2 trên một trang: năm nhánh theo các mục của bản gốc (Mục 2.1 sắp xếp chèn và bất biến vòng lặp, Mục 2.2 phân tích trên mô hình RAM, Mục 2.3 chia để trị và sắp xếp trộn, Mục 2.3.2 truy hồi và cây đệ quy, phần Problems), mỗi nhánh ghi thuật toán, kết quả thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn bộ Chương 2 trên một trang: năm nhánh theo các mục của bản gốc (Mục 2.1 sắp xếp chèn và bất biến vòng lặp, Mục 2.2 phân tích trên mô hình RAM, Mục 2.3 chia để trị và sắp xếp trộn, Mục 2.3.2 truy hồi và cây đệ quy, bài tập, Problems và ghi chú chương), mỗi nhánh ghi thuật toán, kết quả thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1273,7 +1285,7 @@ flowchart LR
   n27 --- n28
   n29["`Ba bước mỗi tầng đệ quy: chia thành bài toán con, trị bằng đệ quy, kết hợp lời giải`"]
   n27 --- n29
-  n30["`MERGE trộn hai đoạn đã sắp trong Θ(n), như lấy lá nhỏ hơn trong hai chồng bài ngửa`"]
+  n30["`MERGE(A, p, q, r) với p ≤ q #lt; r trộn hai đoạn đã sắp trong Θ(n), như lấy lá nhỏ hơn trong hai chồng bài ngửa`"]
   n27 --- n30
   n31["`Phần tử canh ∞ ở cuối L và R giúp khỏi kiểm tra mảng nào đã hết, dừng sau đúng r − p + 1 bước`"]
   n30 --- n31
@@ -1301,27 +1313,31 @@ flowchart LR
   n40 --- n42
   n43["`Vì lg n tăng chậm hơn mọi hàm tuyến tính, sắp xếp trộn thắng sắp xếp chèn khi n đủ lớn, Chương 4 chứng minh chặt bằng định lý thợ`"]
   n37 --- n43
-  n44["`Phần Problems — bốn bài toán cuối chương`"]
+  n44["`Bài tập, Problems và ghi chú chương (trang 22–42)`"]
   n0 --- n44
-  n45["`Bài toán 2-1: dùng sắp xếp chèn cho đoạn dài k bên trong sắp xếp trộn, tốn Θ(nk + n lg(n/k)), k lớn nhất là Θ(lg n)`"]
+  n45["`Bài tập 2.3-5: tìm kiếm nhị phân Θ(lg n), 2.3-6: tìm nhị phân chỗ chèn vẫn Θ(n²) vì phải dịch phần tử`"]
   n44 --- n45
-  n46["`Bài toán 2-2: sắp xếp nổi bọt đúng nhờ hai bất biến lồng nhau, luôn tốn Θ(n²)`"]
+  n46["`Bài toán 2-1: dùng sắp xếp chèn cho đoạn dài k bên trong sắp xếp trộn, tốn Θ(nk + n lg(n/k)), k lớn nhất là Θ(lg n)`"]
   n44 --- n46
-  n47["`Bài toán 2-3: quy tắc Horner tính đa thức trong Θ(n), cách ngây thơ tốn Θ(n²)`"]
+  n47["`Bài toán 2-2: sắp xếp nổi bọt đúng nhờ hai bất biến lồng nhau, luôn tốn Θ(n²)`"]
   n44 --- n47
-  n48["`Bài toán 2-4: thời gian sắp xếp chèn là Θ(n + số nghịch thế), đếm nghịch thế trong Θ(n lg n) bằng sắp xếp trộn sửa đổi`"]
+  n48["`Bài toán 2-3: quy tắc Horner tính đa thức trong Θ(n), cách ngây thơ tốn Θ(n²)`"]
   n44 --- n48
-  n49["`Thông điệp xuyên suốt`"]
-  n0 --- n49
-  n50["`Chương dạy phương pháp nhiều hơn thuật toán: pseudocode, bất biến, đếm bước, bậc tăng trưởng, truy hồi được dùng lại ở các chương sau`"]
-  n49 --- n50
-  n51["`Đổi Θ(n²) sang Θ(n lg n) lợi hơn mọi tối ưu hằng số khi n lớn, nhưng với n nhỏ hằng số vẫn quan trọng`"]
-  n49 --- n51
-  n52["`Phân tích RAM dự báo tốt bậc tăng trưởng nhưng có thể lệch về hằng số, nên ngưỡng k phải chọn bằng đo đạc`"]
-  n49 --- n52
+  n49["`Bài toán 2-4: thời gian sắp xếp chèn là Θ(n + số nghịch thế), đếm nghịch thế trong Θ(n lg n) bằng sắp xếp trộn sửa đổi`"]
+  n44 --- n49
+  n50["`Ghi chú chương: Knuth mở đầu phân tích thuật toán năm 1968, von Neumann viết sắp xếp trộn cho EDVAC năm 1945, Floyd đề ra bất biến vòng lặp`"]
+  n44 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Chương dạy phương pháp nhiều hơn thuật toán: pseudocode, bất biến, đếm bước, bậc tăng trưởng, truy hồi được dùng lại ở các chương sau`"]
+  n51 --- n52
+  n53["`Đổi Θ(n²) sang Θ(n lg n) lợi hơn mọi tối ưu hằng số khi n lớn, nhưng với n nhỏ hằng số vẫn quan trọng`"]
+  n51 --- n53
+  n54["`Phân tích RAM dự báo tốt bậc tăng trưởng nhưng có thể lệch về hằng số, nên ngưỡng k phải chọn bằng đo đạc`"]
+  n51 --- n54
   class n0 root
-  class n1,n13,n27,n37,n44,n49 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n50,n51,n52 leaf
+  class n1,n13,n27,n37,n44,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n52,n53,n54 leaf
 ```
 
 ## Nguồn
