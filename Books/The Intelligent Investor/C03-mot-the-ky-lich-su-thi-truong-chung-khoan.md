@@ -1,24 +1,22 @@
 # Chương 3 — Một thế kỷ lịch sử thị trường chứng khoán: mặt bằng giá cổ phiếu đầu năm 1972 (Un siècle d'histoire boursière: le niveau des cours des actions au début de 1972)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 3 "Un siècle d'histoire boursière: le niveau des cours des actions au début de 1972" (PDF trang 62–74) và "Commentaire sur le chapitre 3" (PDF trang 74–81). Chú thích của Graham: PDF trang 482 (mục "Chapitre 3" trong phần chú thích cuối sách); chú thích của Zweig: PDF trang 598–599.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) phân biệt đầu tư với đầu cơ và nói nhà đầu tư phòng thủ nên chia tiền giữa trái phiếu và cổ phiếu. Chương 2 ([C02-nha-dau-tu-va-lam-phat.md](C02-nha-dau-tu-va-lam-phat.md)) cho thấy cổ phiếu chỉ bảo vệ một phần trước lạm phát, nên không có lý do dồn hết tiền vào cổ phiếu. Chương 3 bổ sung chiều thời gian dài: một trăm năm số liệu về giá, lợi nhuận và cổ tức (1871–1971), để nhà đầu tư biết các chu kỳ tăng giảm lớn đến mức nào và biết cách tự đánh giá mặt bằng giá của thị trường tại một thời điểm (ở đây là đầu năm 1972). Kết luận của chương ("mặt bằng giá đầu 1972 kém hấp dẫn đối với đầu tư thận trọng, không vay nợ để mua cổ phiếu, giữ cổ phiếu tối đa 50% danh mục") dẫn thẳng sang Chương 4 ([C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)), nơi Graham đặt quy tắc chia danh mục 25%–75% giữa trái phiếu và cổ phiếu, và sang Chương 8 ([C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)), nơi ông bàn cách nhà đầu tư đối xử với biến động giá.
-**Ý chính:** Graham muốn người đọc hiểu rằng **về dài hạn cổ phiếu Mỹ đã tăng trưởng bền bỉ, nhưng con đường đó gồm những đợt giảm rất sâu (tới 86% với chỉ số S&P và 89% với chỉ số Dow Jones trong 1929–1932), và tốc độ tăng trong quá khứ gần không phải là thứ có thể chờ đợi lặp lại; mặt bằng giá của thị trường phải được đánh giá bằng cách so lợi suất lợi nhuận và lợi suất cổ tức của cổ phiếu với lãi suất trái phiếu chất lượng cao**. Ví dụ trung tâm: từ đáy 162 năm 1949 lên đỉnh 995 năm 1966, chỉ số Dow Jones công nghiệp (DJIA) tăng hơn sáu lần trong 17 năm (khoảng 11%/năm chưa kể cổ tức), và Phố Wall tin rằng kết quả đó sẽ tiếp diễn; rồi chỉ số giảm 37% trong 1968–1970. Đầu năm 1972, với DJIA quanh 900 và S&P 500 quanh 100, P/E tính trên lợi nhuận trung bình 3 năm (khoảng 18 lần) không cao hơn các năm 1963 và 1968, nhưng lãi suất trái phiếu chất lượng cao đã lên khoảng 7,5%: năm 1948 cổ phiếu trả cổ tức gấp đôi lãi trái phiếu, năm 1972 trái phiếu trả lãi gấp hơn hai lần cổ tức. Vì vậy Graham kết luận thị trường đầu 1972 "kém hấp dẫn xét theo quan điểm đầu tư thận trọng" và cảnh báo về một đợt sụt giảm nặng (đợt giảm 1973–1974 xảy ra ngay sau đó). Ông cũng tự rà lại các nhận định cũ của mình (1948, 1953, 1959, 1964) và thừa nhận những nhận định đó ít hữu ích hơn lời khuyên đơn giản: giữ một chính sách cổ phiếu nhất quán và có kiểm soát, không cố "thắng thị trường".
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **bài học trung tâm của Graham là không bao giờ dự báo tương lai chỉ bằng cách ngoại suy quá khứ, và đó chính là sai lầm của các chuyên gia cuối thập niên 1990**: các sách *Dow 36,000*, *Dow 40,000*, *Dow 100,000* (1999) dựa trên lập luận cổ phiếu Mỹ đã sinh lời bình quân 7%/năm sau lạm phát từ 1802 nên sẽ tiếp tục như vậy, và cổ phiếu giữ đủ lâu thì "không rủi ro". Từ 24/3/2000 đến 9/10/2002, tổng giá trị thị trường cổ phiếu Mỹ giảm từ 14,75 xuống 7,34 nghìn tỷ USD (mất 50,2%). Zweig chỉ ra rằng số liệu trước 1871 mắc thiên lệch sống sót, và dự báo lợi suất cổ phiếu cho thập niên sau 2003 bằng cách cộng ba nguồn: tăng trưởng thực của lợi nhuận (1,5–2%), lạm phát (2,4%) và cổ tức (1,9%), ra khoảng 6%/năm (4% sau lạm phát). Ông dùng thêm hệ số P/E theo cách tính của Robert Shiller (giá chia lợi nhuận thực trung bình 10 năm; 22,8 lần đầu 2003, 44,2 lần tháng 12/1999) và các năm có P/E tương tự trong quá khứ để đi đến cùng con số 6%.
+Graham muốn người đọc hiểu rằng **về dài hạn cổ phiếu Mỹ đã tăng trưởng bền bỉ, nhưng con đường đó gồm những đợt giảm rất sâu (tới 86% với chỉ số S&P và 89% với chỉ số Dow Jones trong 1929–1932), và tốc độ tăng trong quá khứ gần không phải là thứ có thể chờ đợi lặp lại; mặt bằng giá của thị trường phải được đánh giá bằng cách so lợi suất lợi nhuận và lợi suất cổ tức của cổ phiếu với lãi suất trái phiếu chất lượng cao**.
 
-> **Lưu ý:**
-> - **Toàn bộ bảng và hình của chương bị trống trong bản PDF.** Trên ảnh trang, các vị trí của Tableau 3-1 (PDF trang 63–64), "Graphique I" của Standard & Poor's (không thấy ở đâu), Tableau 3-2 (khoảng trống ở PDF trang 66 và cuối trang 67), bảng diễn biến chỉ số 1962–1964 (khoảng trống giữa PDF trang 70), Tableau 3-3 (khoảng trống ở PDF trang 73), phép cộng lợi suất kỳ vọng của Zweig (cuối PDF trang 79) và Figure 3-1 (PDF trang 80) đều chỉ là vùng trắng; chỉ còn tiêu đề, nguồn và ghi chú. Lớp chữ cũng không chứa số liệu của các bảng này. Vì vậy các bảng trong bản tổng hợp này được **dựng lại theo trí nhớ của người tổng hợp về bản tiếng Anh 2003, không tra cứu, chưa đối chiếu với bản in**; mỗi bảng ghi rõ con số nào đã được lời văn trong PDF xác nhận. Người tổng hợp đã kiểm tra tính nhất quán nội bộ (ví dụ giá chia lợi nhuận ra P/E, đỉnh và đáy ra mức giảm); các chỗ không khớp được ghi ngay dưới bảng. Cần đối chiếu với bản in tiếng Anh trước khi dùng các con số này để trích dẫn.
-> - Bản dịch máy đảo ngược nghĩa ở PDF trang 66: "Il est bon d'attendre du lecteur qu'il étudie tous ces chiffres avec soin" (nên mong người đọc nghiên cứu kỹ mọi con số). Ý của Graham là ngược lại: ông *không* mong người đọc nghiên cứu kỹ mọi con số, nhưng hy vọng một số người thấy chúng thú vị (vế sau "mais pour certains, nous espérons..." chỉ hợp lý theo nghĩa này).
-> - PDF trang 79, Zweig: "plus les investisseurs sont enthousiastes ... plus ils sont certains qu'ils doivent se tromper à court terme" (họ càng chắc chắn rằng họ phải sai). Ý đúng: nhà đầu tư càng hào hứng về thị trường dài hạn thì *càng chắc chắn là họ sẽ sai* trong ngắn hạn.
-> - PDF trang 78: "en versant à la Jordanie jusqu'à 34 millions de dollars" — máy dịch tên Michael Jordan thành "nước Jordan" (la Jordanie).
-> - PDF trang 76: "le plus stable des stocks de téléphones sans fil pour animaux de compagnie de Landis" — "pet wireless stocks" nghĩa là "các cổ phiếu viễn thông không dây mà Landis ưa thích", không liên quan tới thú cưng.
-> - PDF trang 75: "Stocks for the Long Run du professeur de finance de Wharton (1994)" — bản dịch làm rơi tên tác giả (Jeremy Siegel, theo chú thích của Zweig ở PDF trang 599); "James Glassman et le Dow 36,000 de Kevin Hassett" nghĩa là cuốn *Dow 36,000* của James Glassman và Kevin Hassett.
-> - "Pearl. Port." (PDF trang 65) là Trân Châu Cảng (Pearl Harbor); "émissions chaudes" / "problèmes chauds" là cổ phiếu phát hành mới "nóng" (hot issues); "plan d'étalement des coûts" là đầu tư định kỳ một số tiền cố định (dollar-cost averaging); "nos conseillers plus piétons" (PDF trang 72) là "những lời khuyên bình thường hơn của chúng tôi", không phải "người tư vấn"; "des niveaux peu courts de fou" là "những mức giá gần như điên rồ"; "6% sont des aliments pour poulets" là "6% chỉ là tiền lẻ" (chicken feed); "une moustache meilleure" là "nhỉnh hơn một chút" (a whisker better); "taureaux" là phe lạc quan (bulls); "billions de dollars" theo nghĩa tiếng Pháp là nghìn tỷ USD (đúng), không phải tỷ USD.
-> - Lỗi năm có thể có ở PDF trang 69: bản dịch viết DJIA "est passé à 685 en 1961; est ensuite tombé ... (à 566) plus tard dans l'année; repassé à 735 fin 1961". Theo hiểu biết của người tổng hợp (không tra cứu), DJIA không xuống 566 trong năm 1961; mức 685 đạt khoảng cuối 1959 – đầu 1960 và mức 566 là đáy năm 1960. Cùng trang, "notre attitude correspondante en 1954" có lẽ chỉ nhận định về mức giá năm 1953 (in trong ấn bản 1954).
-> - Hai câu của Graham hơi lệch nhau: PDF trang 67 nói giá đóng cửa của DJIA năm 1970 "bằng" mức của 6 năm rưỡi trước; PDF trang 72 nói DJIA đóng cửa 1970 "thấp hơn" sáu năm trước (lần đầu tiên kể từ 1944). Cả hai cùng ý: thập niên 1960 không đem lại tăng giá ròng nào cho DJIA trong khoảng 6 năm.
-> - Các chỗ dẫn trang không dùng được trong PDF này: "tableau 3-2 (p. 71)", "reproduit à la p. 75" (nội dung là khung "Quel cours suivre" ở PDF trang 71), "voir l'encadré à la p. 82" (là khung "SURVIE DU FATTEST" ở PDF trang 76–77), "Voir pages 50–52", "voir p. 168", "Comme Graham l'indique à la p. 65"; cùng các chỗ Graham dẫn ấn bản cũ ("page 59 de l'édition de 1959", "(p. 63)" của ấn bản 1965). Bản tổng hợp chép thẳng nội dung được dẫn.
-> - Số liệu đã cũ: các mốc 1972 của Graham và 2003 của Zweig. Theo hiểu biết của người tổng hợp, không tra cứu: thị trường giảm mạnh 1973–1974 đúng như Graham cảnh báo; DJIA chỉ vượt hẳn 1.000 điểm từ đầu thập niên 1980; sau 2003 thị trường tăng tới 2007, sụp mạnh trong khủng hoảng 2008, rồi bước vào một đợt tăng dài; hệ số P/E kiểu Shiller nhiều năm sau 2010 ở trên 25–30, cao hơn hẳn mốc 22,8 mà Zweig coi là "vùng nguy hiểm"; DJIA vượt 36.000 điểm vào khoảng cuối 2021, tức hơn hai mươi năm sau cuốn *Dow 36,000*.
+Ví dụ trung tâm: từ đáy 162 năm 1949 lên đỉnh 995 năm 1966, chỉ số Dow Jones công nghiệp (DJIA) tăng hơn sáu lần trong 17 năm (khoảng 11%/năm chưa kể cổ tức), và Phố Wall tin rằng kết quả đó sẽ tiếp diễn; rồi chỉ số giảm 37% trong 1968–1970.
+
+Đầu năm 1972, với DJIA quanh 900 và S&P 500 quanh 100, P/E tính trên lợi nhuận trung bình 3 năm (khoảng 18 lần) không cao hơn các năm 1963 và 1968, nhưng lãi suất trái phiếu chất lượng cao đã lên khoảng 7,5%: năm 1948 cổ phiếu trả cổ tức gấp đôi lãi trái phiếu, năm 1972 trái phiếu trả lãi gấp hơn hai lần cổ tức.
+
+Vì vậy Graham kết luận thị trường đầu 1972 "kém hấp dẫn xét theo quan điểm đầu tư thận trọng" và cảnh báo về một đợt sụt giảm nặng (đợt giảm 1973–1974 xảy ra ngay sau đó).
+
+Ông cũng tự rà lại các nhận định cũ của mình (1948, 1953, 1959, 1964) và thừa nhận những nhận định đó ít hữu ích hơn lời khuyên đơn giản: giữ một chính sách cổ phiếu nhất quán và có kiểm soát, không cố "thắng thị trường".
+
+Zweig, viết năm 2003, bổ sung rằng **bài học trung tâm của Graham là không bao giờ dự báo tương lai chỉ bằng cách ngoại suy quá khứ, và đó chính là sai lầm của các chuyên gia cuối thập niên 1990**. Các sách *Dow 36,000*, *Dow 40,000*, *Dow 100,000* (1999) dựa trên lập luận cổ phiếu Mỹ đã sinh lời bình quân 7%/năm sau lạm phát từ 1802 nên sẽ tiếp tục như vậy, và cổ phiếu giữ đủ lâu thì "không rủi ro". Từ 24/3/2000 đến 9/10/2002, tổng giá trị thị trường cổ phiếu Mỹ giảm từ 14,75 xuống 7,34 nghìn tỷ USD (mất 50,2%).
+
+Zweig chỉ ra rằng số liệu trước 1871 mắc thiên lệch sống sót, và dự báo lợi suất cổ phiếu cho thập niên sau 2003 bằng cách cộng ba nguồn: tăng trưởng thực của lợi nhuận (1,5–2%), lạm phát (2,4%) và cổ tức (1,9%), ra khoảng 6%/năm (4% sau lạm phát).
+
+Ông dùng thêm hệ số P/E theo cách tính của Robert Shiller (giá chia lợi nhuận thực trung bình 10 năm; 22,8 lần đầu 2003, 44,2 lần tháng 12/1999) và các năm có P/E tương tự trong quá khứ để đi đến cùng con số 6%.
 
 ## Sơ đồ
 
@@ -380,12 +378,18 @@ Zweig, viết năm 2003, bổ sung rằng **bài học trung tâm của Graham l
 ## Ba câu hỏi chương này trả lời
 
 1. **Một trăm năm lịch sử (1871–1971) cho nhà đầu tư thấy gì về cổ phiếu?** Cổ phiếu Mỹ tăng trưởng bền bỉ về dài hạn: tính theo trung bình thập kỷ, chỉ có hai thập kỷ (1891–1900 và 1931–1940) lợi nhuận và giá trung bình giảm, và sau 1900 không thập kỷ nào cổ tức trung bình giảm. Nhưng con đường đó gồm những đợt giảm rất sâu (chỉ số S&P giảm 86% và DJIA giảm 89% trong 1929–1932; S&P giảm 44% trong 1939–1942; 36% trong 1968–1970), và tốc độ tăng thay đổi lớn giữa các giai đoạn: khoảng 3%/năm trong 1900–1924, khoảng 1,5%/năm trong 1924–1949, khoảng 9%/năm trong 1949–1970, và chỉ còn 5,25%/năm (S&P) và 3%/năm (DJIA) trong thập niên 1960.
-2. **Làm sao đánh giá mặt bằng giá của thị trường tại một thời điểm, và đầu năm 1972 mặt bằng giá ra sao?** Graham so P/E tính trên lợi nhuận trung bình 3 năm, lợi suất lợi nhuận (nghịch đảo của P/E) và lợi suất cổ tức của chỉ số S&P 500 với lãi suất trái phiếu chất lượng cao, qua các năm 1948, 1953, 1958, 1963, 1968 và 1971. Cuối 1971, P/E (khoảng 18 lần) không cao hơn 1963 và 1968, nhưng lãi trái phiếu chất lượng cao đã lên khoảng 7,5%, nên cổ phiếu kém hấp dẫn hơn mọi mốc trước: năm 1948 cổ phiếu trả cổ tức gấp đôi lãi trái phiếu, năm 1972 trái phiếu trả lãi gấp hơn hai lần cổ tức. Graham kết luận thị trường đầu 1972 kém hấp dẫn xét theo quan điểm đầu tư thận trọng; nhà đầu tư không nên vay nợ để mua cổ phiếu, không tăng tỷ trọng cổ phiếu và nếu cần thì giảm xuống tối đa 50% danh mục.
-3. **Vì sao không thể dự báo lợi suất cổ phiếu tương lai bằng lợi suất quá khứ, và nên kỳ vọng gì?** Vì giá trị của khoản đầu tư phụ thuộc vào giá mua: khi ai cũng tin cổ phiếu chắc chắn sinh lời, giá bị đẩy lên quá cao và lợi suất tương lai buộc phải thấp. Số liệu dài hạn còn mắc thiên lệch sống sót (số liệu trước 1871 có thể bị thổi phồng ít nhất 2 điểm phần trăm mỗi năm). Zweig ước tính bằng cách cộng tăng trưởng thực của lợi nhuận (1,5–2%), lạm phát (2,4%) và cổ tức (1,9%): khoảng 6%/năm (4% sau lạm phát) cho thập niên sau 2003; cách nhìn qua hệ số P/E kiểu Shiller cũng cho cùng con số. Và bài học quan trọng hơn con số: mọi dự báo đều có thể sai, nên đừng đặt cược quá nhiều vào một kịch bản.
+2. **Làm sao đánh giá mặt bằng giá của thị trường tại một thời điểm, và đầu năm 1972 mặt bằng giá ra sao?** Graham so P/E tính trên lợi nhuận trung bình 3 năm, lợi suất lợi nhuận (nghịch đảo của P/E) và lợi suất cổ tức của chỉ số S&P 500 với lãi suất trái phiếu chất lượng cao, qua các năm 1948, 1953, 1958, 1963, 1968 và 1971.
+
+   Cuối 1971, P/E (khoảng 18 lần) không cao hơn 1963 và 1968, nhưng lãi trái phiếu chất lượng cao đã lên khoảng 7,5%, nên cổ phiếu kém hấp dẫn hơn mọi mốc trước: năm 1948 cổ phiếu trả cổ tức gấp đôi lãi trái phiếu, năm 1972 trái phiếu trả lãi gấp hơn hai lần cổ tức. Graham kết luận thị trường đầu 1972 kém hấp dẫn xét theo quan điểm đầu tư thận trọng; nhà đầu tư không nên vay nợ để mua cổ phiếu, không tăng tỷ trọng cổ phiếu và nếu cần thì giảm xuống tối đa 50% danh mục.
+3. **Vì sao không thể dự báo lợi suất cổ phiếu tương lai bằng lợi suất quá khứ, và nên kỳ vọng gì?** Vì giá trị của khoản đầu tư phụ thuộc vào giá mua: khi ai cũng tin cổ phiếu chắc chắn sinh lời, giá bị đẩy lên quá cao và lợi suất tương lai buộc phải thấp. Số liệu dài hạn còn mắc thiên lệch sống sót (số liệu trước 1871 có thể bị thổi phồng ít nhất 2 điểm phần trăm mỗi năm).
+
+   Zweig ước tính bằng cách cộng tăng trưởng thực của lợi nhuận (1,5–2%), lạm phát (2,4%) và cổ tức (1,9%): khoảng 6%/năm (4% sau lạm phát) cho thập niên sau 2003; cách nhìn qua hệ số P/E kiểu Shiller cũng cho cùng con số. Và bài học quan trọng hơn con số: mọi dự báo đều có thể sai, nên đừng đặt cược quá nhiều vào một kịch bản.
 
 ## Khái niệm cần biết
 
-- **Chỉ số bình quân thị trường (stock market averages): S&P 500 và Dow Jones công nghiệp (DJIA):** con số tóm tắt mức giá của một nhóm cổ phiếu, dùng để theo dõi cả thị trường. DJIA (từ 1897) gồm 30 công ty lớn (năm 1971 có American Telephone & Telegraph và 29 công ty công nghiệp). Chỉ số S&P 500 (chỉ số tổng hợp 500 cổ phiếu) đầy đủ hơn; Graham nối nó với số liệu của Cowles Commission để có chuỗi từ 1870. Ngoài ra S&P và Dow Jones có chỉ số riêng cho ngành tiện ích và ngành vận tải (chủ yếu đường sắt), và từ 1965 Sở giao dịch New York tính chỉ số cho mọi cổ phiếu niêm yết. Ví dụ: đầu 1972, DJIA khoảng 900, S&P 500 khoảng 100. Quan trọng vì mọi nhận định "thị trường đắt hay rẻ" của chương đều dựa trên chỉ số; Graham chọn S&P 500 cho phân tích năm 1971 vì nó đại diện tốt hơn DJIA chỉ có 30 cổ phiếu.
+- **Chỉ số bình quân thị trường (stock market averages): S&P 500 và Dow Jones công nghiệp (DJIA):** con số tóm tắt mức giá của một nhóm cổ phiếu, dùng để theo dõi cả thị trường. DJIA (từ 1897) gồm 30 công ty lớn (năm 1971 có American Telephone & Telegraph và 29 công ty công nghiệp). Chỉ số S&P 500 (chỉ số tổng hợp 500 cổ phiếu) đầy đủ hơn; Graham nối nó với số liệu của Cowles Commission để có chuỗi từ 1870.
+
+  Ngoài ra S&P và Dow Jones có chỉ số riêng cho ngành tiện ích và ngành vận tải (chủ yếu đường sắt), và từ 1965 Sở giao dịch New York tính chỉ số cho mọi cổ phiếu niêm yết. Ví dụ: đầu 1972, DJIA khoảng 900, S&P 500 khoảng 100. Quan trọng vì mọi nhận định "thị trường đắt hay rẻ" của chương đều dựa trên chỉ số; Graham chọn S&P 500 cho phân tích năm 1971 vì nó đại diện tốt hơn DJIA chỉ có 30 cổ phiếu.
 - **Thị trường giá lên, thị trường giá xuống (bull market, bear market) và chu kỳ thị trường:** giai đoạn giá tăng kéo dài và giai đoạn giá giảm mạnh. Graham ghi 19 chu kỳ trong 100 năm. Ông lưu ý rằng các đợt giảm 1956–1957 và 1961–1962 hồi phục nhanh đến mức theo cách gọi quen thuộc, chúng chỉ là nhịp điều chỉnh trong một thị trường giá lên duy nhất 1949–1968, không phải chu kỳ riêng. Quan trọng vì nhà đầu tư cần biết trước rằng mức giảm 30–50% là chuyện bình thường của lịch sử, và mức giảm 86–89% (1929–1932) đã từng xảy ra.
 - **Hệ số giá trên lợi nhuận (price/earnings ratio, P/E):** giá cổ phiếu (hay giá chỉ số) chia cho lợi nhuận trên mỗi cổ phiếu (EPS). Theo chú thích của Zweig: công ty lãi 1 USD/cổ phiếu, giá 8,93 USD thì P/E là 8,93; giá 69,70 USD thì P/E là 69,7. Thông thường P/E dưới 10 được coi là thấp, 10–20 là vừa phải, trên 20 là đắt. Ví dụ trong chương: chỉ số S&P có P/E 6,3 lần (tháng 6/1949) và 22,9 lần (tháng 3/1961). Graham thích tính P/E trên lợi nhuận trung bình nhiều năm (ở chương này là 3 năm) để làm mờ dao động của một năm. Quan trọng vì P/E cho biết nhà đầu tư trả bao nhiêu tiền cho mỗi đồng lợi nhuận.
 - **Lợi suất lợi nhuận (earnings yield):** lợi nhuận chia giá, tức nghịch đảo của P/E; P/E 10 lần tương ứng lợi suất lợi nhuận 10%. Ví dụ: P/E 3 năm 9,2 lần năm 1948 tương ứng lợi suất lợi nhuận khoảng 10,9%; P/E 18,1 lần năm 1971 tương ứng khoảng 5,5%. Quan trọng vì có thể đặt cạnh lãi suất trái phiếu để so sánh trực tiếp hai loại tài sản.
@@ -484,7 +488,7 @@ Tính theo số trung bình của hai năm 1949 và 1970, giá tăng khoảng 9%
 
 #### 4. Lợi nhuận và cổ tức theo từng thập kỷ: Tableau 3-2 (Chương 3, phần mở đầu, PDF trang 66–67)
 
-Graham nói số liệu về giá cần được bổ sung bằng số liệu tương ứng về lợi nhuận và cổ tức, để có cái nhìn tổng thể về những gì đã xảy ra với "nền kinh tế cổ phiếu" trong mười thập kỷ qua. Tableau 3-2 trình bày tổng quan đó. Ông không mong người đọc nghiên cứu kỹ mọi con số, nhưng hy vọng một số người thấy chúng thú vị và bổ ích (bản dịch máy viết ngược lại, xem khối Lưu ý).
+Graham nói số liệu về giá cần được bổ sung bằng số liệu tương ứng về lợi nhuận và cổ tức, để có cái nhìn tổng thể về những gì đã xảy ra với "nền kinh tế cổ phiếu" trong mười thập kỷ qua. Tableau 3-2 trình bày tổng quan đó. Ông không mong người đọc nghiên cứu kỹ mọi con số, nhưng hy vọng một số người thấy chúng thú vị và bổ ích (bản dịch máy viết ngược lại, xem mục Lưu ý cuối chương).
 
 **Bức tranh thị trường cổ phiếu 1871–1970: số trung bình từng thập kỷ của chỉ số S&P (Tableau 3-2 trong sách)** — đơn vị: giá, lợi nhuận và cổ tức tính bằng điểm chỉ số (USD trên một "đơn vị" chỉ số); P/E tính bằng lần; lợi suất và tỷ lệ chi trả tính bằng %.
 
@@ -505,7 +509,9 @@ Bảng này trống trong bản PDF. Số liệu dưới đây được người
 
 Kiểm tra của người tổng hợp: các cột giá, lợi nhuận và P/E khớp nhau ở mọi dòng (ví dụ 82,50 / 4,83 ≈ 17,1). Cổ tức thập kỷ 1931–1940 không nhớ chắc: nếu lợi suất là 5,1% thì cổ tức khoảng 0,59, thấp hơn 0,71 của thập kỷ trước, mâu thuẫn với câu của Graham rằng sau 1900 không thập kỷ nào cổ tức trung bình giảm; vì vậy ô này để trống. Các nhận xét của Graham dưới đây đúng với các dòng đã chép: giá và lợi nhuận trung bình giảm ở 1891–1900 (4,65 so với 5,00; 0,30 so với 0,32) và 1931–1940 (11,55 so với 13,89; 0,68 so với 1,05).
 
-Graham bình luận bảng như sau. Số trung bình cả thập kỷ làm mờ các dao động từ năm này sang năm khác và để lại hình ảnh chung của tăng trưởng bền bỉ. Trong chín thập kỷ sau thập kỷ đầu tiên, chỉ có hai thập kỷ ghi nhận lợi nhuận và giá trung bình giảm (1891–1900 và 1931–1940), và không thập kỷ nào sau 1900 có cổ tức trung bình giảm. Nhưng tốc độ tăng của cả ba đại lượng khá thất thường. Nói chung, kết quả từ sau Thế chiến II tốt hơn các thập kỷ trước, nhưng thập niên 1960 tăng chậm hơn thập niên 1950. Nhà đầu tư hôm nay không thể đọc từ số liệu này tỷ lệ tăng của lợi nhuận, cổ tức và giá mà mình có thể chờ đợi trong mười năm tới, nhưng số liệu đủ khích lệ một chính sách đầu tư cổ phiếu phổ thông nhất quán.
+Graham bình luận bảng như sau. Số trung bình cả thập kỷ làm mờ các dao động từ năm này sang năm khác và để lại hình ảnh chung của tăng trưởng bền bỉ. Trong chín thập kỷ sau thập kỷ đầu tiên, chỉ có hai thập kỷ ghi nhận lợi nhuận và giá trung bình giảm (1891–1900 và 1931–1940), và không thập kỷ nào sau 1900 có cổ tức trung bình giảm.
+
+Nhưng tốc độ tăng của cả ba đại lượng khá thất thường. Nói chung, kết quả từ sau Thế chiến II tốt hơn các thập kỷ trước, nhưng thập niên 1960 tăng chậm hơn thập niên 1950. Nhà đầu tư hôm nay không thể đọc từ số liệu này tỷ lệ tăng của lợi nhuận, cổ tức và giá mà mình có thể chờ đợi trong mười năm tới, nhưng số liệu đủ khích lệ một chính sách đầu tư cổ phiếu phổ thông nhất quán.
 
 Tuy nhiên có một điểm mà bảng không cho thấy. Năm 1970 tình hình lợi nhuận chung của các công ty Mỹ xấu đi rõ rệt. Tỷ suất lợi nhuận trên vốn đầu tư xuống mức thấp nhất kể từ những năm chiến tranh thế giới. Cũng đáng chú ý là khá nhiều công ty báo lỗ ròng trong năm; nhiều công ty rơi vào "khó khăn tài chính", và lần đầu tiên sau ba thập kỷ có khá nhiều vụ phá sản lớn. Chính những sự kiện này, cũng như các yếu tố khác, khiến Graham đưa ra nhận định trước đó rằng thời kỳ bùng nổ lớn có thể đã chấm dứt trong 1969–1970.
 
@@ -534,10 +540,12 @@ Với bức tranh một thế kỷ về giá, lợi nhuận và cổ tức, Grah
 Ở mỗi ấn bản trước, ông đều bàn về mặt bằng giá của thị trường lúc viết và cố trả lời câu hỏi: mức giá đó có quá cao cho việc mua thận trọng không. Ông nghĩ người đọc có thể thấy hữu ích khi xem lại các kết luận cũ. Theo ông, đây không hoàn toàn là một bài tự trừng phạt: nó tạo một sợi dây nối các giai đoạn của thị trường trong hai mươi năm qua, và cho thấy bằng ví dụ thật những khó khăn mà bất kỳ ai cố phán đoán mặt bằng giá hiện tại một cách có hiểu biết và có phê phán đều gặp phải. Trước hết ông chép lại bản tóm tắt các phân tích năm 1948, 1953 và 1959 đã in trong ấn bản 1965:
 
 - **1948:** áp dụng các chuẩn mực bảo thủ cho mức DJIA 180, Graham không khó khăn gì khi kết luận rằng mức đó "không quá cao so với các giá trị nền tảng".
-- **1953:** mức trung bình của thị trường trong năm đã lên 275, tăng hơn 50% trong năm năm. Ông tự hỏi cùng một câu: mức 275 của DJIA có quá cao cho đầu tư an toàn không. Xét theo đợt tăng ngoạn mục sau đó, có vẻ lạ khi ông phải nói rằng lúc ấy không dễ đi đến kết luận dứt khoát. Ông đã viết, khá tích cực, rằng "xét theo các chỉ báo giá trị, kim chỉ nam chính cho đầu tư của chúng tôi, kết luận về giá cổ phiếu năm 1953 phải là thuận lợi". Nhưng ông lo vì đến năm 1953 các chỉ số đã tăng lâu hơn phần lớn các thị trường giá lên trong quá khứ, và mức giá tuyệt đối cao theo chuẩn lịch sử. Cân hai yếu tố này với nhận định giá trị thuận lợi, ông khuyên một chính sách thận trọng, nửa vời. Hoá ra lời khuyên đó không hay lắm: một nhà tiên tri giỏi sẽ thấy trước rằng thị trường còn tăng thêm 100% trong năm năm tiếp theo. Ông nói thêm để tự bào chữa rằng rất ít, hoặc không ai trong số những người làm nghề dự báo thị trường (ông thì không làm nghề đó) đoán đúng hơn ông.
+- **1953:** mức trung bình của thị trường trong năm đã lên 275, tăng hơn 50% trong năm năm. Ông tự hỏi cùng một câu: mức 275 của DJIA có quá cao cho đầu tư an toàn không. Xét theo đợt tăng ngoạn mục sau đó, có vẻ lạ khi ông phải nói rằng lúc ấy không dễ đi đến kết luận dứt khoát. Ông đã viết, khá tích cực, rằng "xét theo các chỉ báo giá trị, kim chỉ nam chính cho đầu tư của chúng tôi, kết luận về giá cổ phiếu năm 1953 phải là thuận lợi".
+
+  Nhưng ông lo vì đến năm 1953 các chỉ số đã tăng lâu hơn phần lớn các thị trường giá lên trong quá khứ, và mức giá tuyệt đối cao theo chuẩn lịch sử. Cân hai yếu tố này với nhận định giá trị thuận lợi, ông khuyên một chính sách thận trọng, nửa vời. Hoá ra lời khuyên đó không hay lắm: một nhà tiên tri giỏi sẽ thấy trước rằng thị trường còn tăng thêm 100% trong năm năm tiếp theo. Ông nói thêm để tự bào chữa rằng rất ít, hoặc không ai trong số những người làm nghề dự báo thị trường (ông thì không làm nghề đó) đoán đúng hơn ông.
 - **Đầu năm 1959:** DJIA ở mức kỷ lục 584. Phân tích dài của ông, xét từ mọi góc độ, được tóm tắt (trang 59 của ấn bản 1959) như sau: ông buộc phải kết luận rằng mặt bằng giá cổ phiếu hiện tại là nguy hiểm, hoặc vì giá đã quá cao, hoặc nếu chưa thì đà của thị trường cũng sẽ không tránh khỏi đẩy giá lên mức không thể biện minh; ông không thể hình dung một thị trường tương lai không bao giờ có tổn thất nghiêm trọng và trong đó mọi người mới vào nghề đều chắc chắn có lãi lớn khi mua cổ phiếu.
 
-Graham nhận xét sự thận trọng năm 1959 được thực tế biện minh tốt hơn một chút so với thái độ tương ứng của ông trong ấn bản 1954, nhưng còn xa mới được biện minh hoàn toàn. Theo bản dịch, DJIA lên 685, rồi xuống một chút dưới mức 584 (tới 566), lại lên 735 cuối năm 1961, rồi giảm trong một cơn gần như hoảng loạn xuống 536 vào tháng 5/1962, tức mất 27% chỉ trong sáu tháng. (Về năm của các mốc 685 và 566, xem khối Lưu ý.) Cùng lúc, các "cổ phiếu tăng trưởng" được ưa chuộng nhất giảm nặng hơn nhiều; ví dụ nổi bật là cổ phiếu dẫn đầu không ai tranh cãi, International Business Machines (IBM), giảm từ đỉnh 607 tháng 12/1961 xuống đáy 300 tháng 6/1962.
+Graham nhận xét sự thận trọng năm 1959 được thực tế biện minh tốt hơn một chút so với thái độ tương ứng của ông trong ấn bản 1954, nhưng còn xa mới được biện minh hoàn toàn. Theo bản dịch, DJIA lên 685, rồi xuống một chút dưới mức 584 (tới 566), lại lên 735 cuối năm 1961, rồi giảm trong một cơn gần như hoảng loạn xuống 536 vào tháng 5/1962, tức mất 27% chỉ trong sáu tháng. (Về năm của các mốc 685 và 566, xem mục Lưu ý cuối chương.) Cùng lúc, các "cổ phiếu tăng trưởng" được ưa chuộng nhất giảm nặng hơn nhiều; ví dụ nổi bật là cổ phiếu dẫn đầu không ai tranh cãi, International Business Machines (IBM), giảm từ đỉnh 607 tháng 12/1961 xuống đáy 300 tháng 6/1962.
 
 Giai đoạn này chứng kiến sự sụp đổ hoàn toàn của vô số cổ phiếu mới phát hành của các công ty nhỏ, những "cổ phiếu phát hành nóng" (hot issues), vốn được chào bán cho công chúng ở giá cao đến lố bịch rồi bị đầu cơ vô ích đẩy lên mức gần như điên rồ. Nhiều cổ phiếu trong số đó mất 90% giá trị trở lên chỉ trong vài tháng.
 
@@ -582,7 +590,9 @@ Dù vậy, ông cho rằng người đọc vẫn có thể được lợi khi xe
 
 #### 9. Tableau 3-3: chỉ số S&P 500 ở các mốc 1948–1971 (Le niveau de la bourse au début de 1972, PDF trang 72–73)
 
-Vào nhiều thời điểm trong năm 1971, DJIA ở đúng mức 892 của tháng 11/1964 mà Graham đã xét trong ấn bản trước. Nhưng lần này ông dùng mức giá và số liệu của chỉ số tổng hợp Standard & Poor's (S&P 500), vì nó đầy đủ hơn và đại diện tốt hơn cho cả thị trường so với DJIA chỉ có 30 cổ phiếu. Ông so sánh số liệu gần bốn thời điểm của các ấn bản trước, tức cuối các năm 1948, 1953, 1958 và 1963, cộng thêm 1968; với mức giá hiện tại, ông lấy con số tròn 100, mức chỉ số đã đạt vào nhiều thời điểm trong năm 1971 và đầu năm 1972. Về lợi nhuận, ông ghi cả kết quả năm gần nhất và trung bình ba năm dương lịch; cổ tức năm 1971 là số 12 tháng gần nhất; lãi trái phiếu và chỉ số giá bán buôn năm 1971 là số tháng 8/1971.
+Vào nhiều thời điểm trong năm 1971, DJIA ở đúng mức 892 của tháng 11/1964 mà Graham đã xét trong ấn bản trước. Nhưng lần này ông dùng mức giá và số liệu của chỉ số tổng hợp Standard & Poor's (S&P 500), vì nó đầy đủ hơn và đại diện tốt hơn cho cả thị trường so với DJIA chỉ có 30 cổ phiếu.
+
+Ông so sánh số liệu gần bốn thời điểm của các ấn bản trước, tức cuối các năm 1948, 1953, 1958 và 1963, cộng thêm 1968; với mức giá hiện tại, ông lấy con số tròn 100, mức chỉ số đã đạt vào nhiều thời điểm trong năm 1971 và đầu năm 1972. Về lợi nhuận, ông ghi cả kết quả năm gần nhất và trung bình ba năm dương lịch; cổ tức năm 1971 là số 12 tháng gần nhất; lãi trái phiếu và chỉ số giá bán buôn năm 1971 là số tháng 8/1971.
 
 **Số liệu về chỉ số tổng hợp S&P (S&P 500) qua các năm (Tableau 3-3 trong sách)** — đơn vị: giá, lợi nhuận, cổ tức tính bằng điểm chỉ số; lãi suất và lợi suất tính bằng %; P/E và các tỷ lệ tính bằng lần.
 
@@ -606,13 +616,17 @@ Bảng này trống trong bản PDF. Số liệu dưới đây được người
 
 Kiểm tra của người tổng hợp: các dòng P/E 3 năm, lợi suất lợi nhuận và hai dòng tỷ lệ với lãi trái phiếu khớp với nhau ở mọi cột (ví dụ năm 1971: 100 / 5,53 ≈ 18,1; 1 / 18,1 ≈ 5,53%; 5,53 / 7,57 ≈ 0,73; 3,11 / 7,57 ≈ 0,41). Hai ô không khớp: P/E năm gần nhất của 1948 (15,20 / 2,24 ≈ 6,8, không phải 6,3) và của 1958 (55,21 / 2,89 ≈ 19,1, không phải 18,4); một trong hai số của mỗi cặp có thể bị người tổng hợp nhớ sai. Lợi suất cổ tức 1948 và 1953 (5,6% và 5,5%) cũng thấp hơn phép chia trực tiếp (khoảng 6,1% và 6,0%), có thể vì bản gốc tính trên giá trung bình năm.
 
-Graham đọc bảng như sau. P/E tính trên lợi nhuận 3 năm của thị trường vào tháng 10/1971 thấp hơn cuối năm 1963 và 1968; gần bằng năm 1958; nhưng cao hơn nhiều so với những năm đầu của thị trường giá lên. Riêng chỉ tiêu quan trọng này không cho thấy thị trường đặc biệt cao vào tháng 1/1972. Nhưng khi đưa lãi suất trái phiếu chất lượng cao vào xét, hàm ý kém thuận lợi hơn nhiều. Tỷ lệ giữa lợi suất cổ phiếu (lợi nhuận chia giá) và lãi suất trái phiếu đã xấu đi suốt cả giai đoạn, nên con số tháng 1/1972 kém thuận lợi cho cổ phiếu hơn mọi năm được xét trước đó. Khi so lợi suất cổ tức với lãi trái phiếu, quan hệ đã đảo ngược hoàn toàn giữa 1948 và 1972: lúc đầu cổ phiếu trả gấp đôi trái phiếu; bây giờ trái phiếu trả gấp đôi, thậm chí hơn, so với cổ phiếu.
+Graham đọc bảng như sau. P/E tính trên lợi nhuận 3 năm của thị trường vào tháng 10/1971 thấp hơn cuối năm 1963 và 1968; gần bằng năm 1958; nhưng cao hơn nhiều so với những năm đầu của thị trường giá lên. Riêng chỉ tiêu quan trọng này không cho thấy thị trường đặc biệt cao vào tháng 1/1972.
+
+Nhưng khi đưa lãi suất trái phiếu chất lượng cao vào xét, hàm ý kém thuận lợi hơn nhiều. Tỷ lệ giữa lợi suất cổ phiếu (lợi nhuận chia giá) và lãi suất trái phiếu đã xấu đi suốt cả giai đoạn, nên con số tháng 1/1972 kém thuận lợi cho cổ phiếu hơn mọi năm được xét trước đó. Khi so lợi suất cổ tức với lãi trái phiếu, quan hệ đã đảo ngược hoàn toàn giữa 1948 và 1972: lúc đầu cổ phiếu trả gấp đôi trái phiếu; bây giờ trái phiếu trả gấp đôi, thậm chí hơn, so với cổ phiếu.
 
 #### 10. Nhận định cuối cùng về mặt bằng giá đầu 1972 và chính sách nên theo (Le niveau de la bourse au début de 1972 và khung "Quel cours suivre", PDF trang 73–74)
 
 Nhận định cuối cùng của Graham: thay đổi bất lợi trong tỷ lệ giữa lãi trái phiếu và lợi suất cổ phiếu triệt tiêu hoàn toàn lợi thế P/E thấp hơn của cuối năm 1971 (tính trên lợi nhuận 3 năm). Vì vậy quan điểm của ông về mặt bằng giá đầu 1972 giống như khoảng 7 năm trước: thị trường kém hấp dẫn xét theo quan điểm đầu tư thận trọng. Nhận định này áp dụng cho phần lớn vùng giá của DJIA trong năm 1971, tức khoảng 800 đến 950.
 
-Xét theo các dao động lịch sử, bức tranh năm 1971 vẫn là một đợt hồi phục thất thường sau cú giảm nặng 1969–1970. Trong quá khứ, các đợt hồi phục như vậy đã mở đầu một giai đoạn mới của thị trường giá lên lặp đi lặp lại và bền bỉ bắt đầu từ 1949, và đó cũng là điều Phố Wall nói chung chờ đợi năm 1971. Sau trải nghiệm khủng khiếp của công chúng khi mua cổ phiếu phổ thông phát hành mới chất lượng thấp trong chu kỳ 1968–1970, năm 1971 còn quá sớm cho một vòng quay mới của cơn sốt phát hành mới. Do đó dấu hiệu đáng tin cậy của nguy hiểm sắp tới này hiện vắng mặt, như nó đã vắng mặt ở mức DJIA 892 tháng 11/1964. Về mặt kỹ thuật, triển vọng có vẻ ủng hộ một đợt tăng đáng kể vượt xa mức DJIA 900 trước cú giảm hay sụp đổ nghiêm trọng tiếp theo.
+Xét theo các dao động lịch sử, bức tranh năm 1971 vẫn là một đợt hồi phục thất thường sau cú giảm nặng 1969–1970. Trong quá khứ, các đợt hồi phục như vậy đã mở đầu một giai đoạn mới của thị trường giá lên lặp đi lặp lại và bền bỉ bắt đầu từ 1949, và đó cũng là điều Phố Wall nói chung chờ đợi năm 1971.
+
+Sau trải nghiệm khủng khiếp của công chúng khi mua cổ phiếu phổ thông phát hành mới chất lượng thấp trong chu kỳ 1968–1970, năm 1971 còn quá sớm cho một vòng quay mới của cơn sốt phát hành mới. Do đó dấu hiệu đáng tin cậy của nguy hiểm sắp tới này hiện vắng mặt, như nó đã vắng mặt ở mức DJIA 892 tháng 11/1964. Về mặt kỹ thuật, triển vọng có vẻ ủng hộ một đợt tăng đáng kể vượt xa mức DJIA 900 trước cú giảm hay sụp đổ nghiêm trọng tiếp theo.
 
 Nhưng Graham nói ông không thể dừng ở đó. Với ông, việc thị trường đầu năm 1971 coi thường những trải nghiệm đau đớn chưa đầy một năm trước là một dấu hiệu đáng lo. Ông hỏi: sự vô tư như vậy liệu có thoát khỏi trừng phạt? Ông cho rằng nhà đầu tư phải chuẩn bị cho thời kỳ khó khăn phía trước, có thể dưới dạng thị trường nhanh chóng lặp lại cú giảm 1969–1970, hoặc dưới dạng một đợt bùng nổ giá lên nữa rồi tiếp theo là một cú sụp đổ thảm khốc hơn.
 
@@ -630,7 +644,9 @@ Theo Zweig, chương này cho thấy Graham có thể tiên tri đến mức nà
 
 Chú thích của Zweig (1): nếu không tính cổ tức, cổ phiếu giảm 47,8% trong hai năm đó.
 
-Graham cũng nhìn xa hơn hai mươi năm, mổ xẻ trước lý lẽ của các "chuyên gia" thị trường và những cuốn sách bán chạy chưa hề xuất hiện khi ông còn sống. Cốt lõi lập luận của Graham là nhà đầu tư thông minh không bao giờ được dự báo tương lai chỉ bằng cách ngoại suy quá khứ. Đáng tiếc, đó chính là sai lầm mà hết chuyên gia này đến chuyên gia khác mắc phải trong thập niên 1990. Sau cuốn *Stocks for the Long Run* (1994) của giáo sư tài chính trường Wharton Jeremy Siegel là một dòng sách lạc quan, lên tới cao trào cuồng nhiệt với *Dow 36,000* của James Glassman và Kevin Hassett, *Dow 40,000* của David Elias và *Dow 100,000* của Charles Kadlec, tất cả in năm 1999. Những người dự báo lập luận rằng cổ phiếu đã mang lại lợi suất bình quân 7% mỗi năm sau lạm phát kể từ 1802, nên đó là mức nhà đầu tư nên chờ đợi trong tương lai.
+Graham cũng nhìn xa hơn hai mươi năm, mổ xẻ trước lý lẽ của các "chuyên gia" thị trường và những cuốn sách bán chạy chưa hề xuất hiện khi ông còn sống. Cốt lõi lập luận của Graham là nhà đầu tư thông minh không bao giờ được dự báo tương lai chỉ bằng cách ngoại suy quá khứ. Đáng tiếc, đó chính là sai lầm mà hết chuyên gia này đến chuyên gia khác mắc phải trong thập niên 1990.
+
+Sau cuốn *Stocks for the Long Run* (1994) của giáo sư tài chính trường Wharton Jeremy Siegel là một dòng sách lạc quan, lên tới cao trào cuồng nhiệt với *Dow 36,000* của James Glassman và Kevin Hassett, *Dow 40,000* của David Elias và *Dow 100,000* của Charles Kadlec, tất cả in năm 1999. Những người dự báo lập luận rằng cổ phiếu đã mang lại lợi suất bình quân 7% mỗi năm sau lạm phát kể từ 1802, nên đó là mức nhà đầu tư nên chờ đợi trong tương lai.
 
 Một số người lạc quan còn đi xa hơn. Vì cổ phiếu "luôn luôn" thắng trái phiếu trong mọi giai đoạn từ 30 năm trở lên, họ nói cổ phiếu phải ít rủi ro hơn trái phiếu hay thậm chí tiền gửi ngân hàng. Và nếu chỉ cần giữ cổ phiếu đủ lâu là loại bỏ được mọi rủi ro, thì sao phải bận tâm mình trả bao nhiêu khi mua? (Zweig trả lời câu hỏi này trong khung "SURVIE DU FATTEST", mục 2 dưới đây.)
 
@@ -654,7 +670,9 @@ Tên khung chơi chữ từ "survival of the fittest" (kẻ thích nghi nhất s
 
 Chú thích của Zweig (1 của khung): đến thập niên 1840, các chỉ số này mở rộng lên tối đa bảy cổ phiếu tài chính và 27 cổ phiếu đường sắt, một mẫu không đại diện một cách vô lý cho thị trường cổ phiếu Mỹ non trẻ và sôi động thời đó.
 
-Vậy mà năm 1800 nước Mỹ đã có khoảng 300 công ty, nhiều công ty thuộc loại tương đương Internet của thời Jefferson: đường có thu phí làm bằng gỗ và kênh đào. Phần lớn phá sản và nhà đầu tư mất trắng. Các chỉ số cổ phiếu bỏ qua mọi công ty đã phá sản trong những năm đầu đó; về mặt kỹ thuật, vấn đề này gọi là "thiên lệch sống sót" (survivorship bias). Vì vậy các chỉ số này phóng đại rất nhiều kết quả mà nhà đầu tư thật đạt được, vì nhà đầu tư thật không có khả năng nhìn lại quá khứ để biết chính xác nên mua bảy cổ phiếu nào. Một nhóm nhỏ công ty, trong đó có Bank of New York và J.P. Morgan Chase, đã phát đạt liên tục từ thập niên 1790. Nhưng với mỗi công ty sống sót kỳ diệu đó, có hàng nghìn thảm hoạ tài chính như Dismal Swamp Canal Co., Pennsylvania Cultivation of Vines Co. và Snickers's Gap Turnpike Co., tất cả đều bị loại khỏi các chỉ số "lịch sử".
+Vậy mà năm 1800 nước Mỹ đã có khoảng 300 công ty, nhiều công ty thuộc loại tương đương Internet của thời Jefferson: đường có thu phí làm bằng gỗ và kênh đào. Phần lớn phá sản và nhà đầu tư mất trắng. Các chỉ số cổ phiếu bỏ qua mọi công ty đã phá sản trong những năm đầu đó; về mặt kỹ thuật, vấn đề này gọi là "thiên lệch sống sót" (survivorship bias). Vì vậy các chỉ số này phóng đại rất nhiều kết quả mà nhà đầu tư thật đạt được, vì nhà đầu tư thật không có khả năng nhìn lại quá khứ để biết chính xác nên mua bảy cổ phiếu nào.
+
+Một nhóm nhỏ công ty, trong đó có Bank of New York và J.P. Morgan Chase, đã phát đạt liên tục từ thập niên 1790. Nhưng với mỗi công ty sống sót kỳ diệu đó, có hàng nghìn thảm hoạ tài chính như Dismal Swamp Canal Co., Pennsylvania Cultivation of Vines Co. và Snickers's Gap Turnpike Co., tất cả đều bị loại khỏi các chỉ số "lịch sử".
 
 Số liệu của Jeremy Siegel cho thấy từ 1802 đến 1870, sau lạm phát, cổ phiếu sinh lời 7,0% mỗi năm, trái phiếu 4,8% và tiền mặt 5,1%. Nhưng Elroy Dimson và các đồng nghiệp ở London Business School ước tính lợi suất cổ phiếu trước 1871 bị phóng đại ít nhất hai điểm phần trăm mỗi năm.
 
@@ -755,7 +773,9 @@ Hình này trống trong bản PDF (chỉ còn tiêu đề "FIGURE 3-1", nguồn
 
 Nguồn ghi dưới hình: dữ liệu của Shiller (trang web Đại học Yale, aida.econ.yale.edu/~shiller/data/ie_data.htm); Jack Wilson và Charles Jones, "An Analysis of the S&P 500 Index and Cowles's Extensions: Price Indexes and Stock Returns, 1870–1999", *The Journal of Business*, tập 75, số 3, tháng 7/2002, trang 527–529; Ibbotson Associates. Ghi chú dưới hình: P/E là tính toán của Shiller (lợi nhuận thực trung bình 10 năm của chỉ số S&P 500 so với giá trị chỉ số ngày 31/12; bản dịch viết đảo thành "lợi nhuận chia giá trị chỉ số"); tổng lợi suất là bình quân hằng năm danh nghĩa.
 
-Như vậy, từ mức định giá tương tự đầu năm 2003, thị trường cổ phiếu đôi khi diễn biến rất tốt trong 10 năm sau, đôi khi kém, và phần còn lại thì lẫn lộn. Zweig cho rằng Graham, vốn luôn bảo thủ, sẽ chia đôi khoảng cách giữa lợi suất quá khứ thấp nhất và cao nhất, và dự báo trong thập kỷ tới cổ phiếu sinh lời khoảng 6% mỗi năm, tức 4% sau lạm phát. Điều thú vị là dự báo này khớp với ước tính trước đó khi cộng tăng trưởng thực, tăng trưởng do lạm phát và tăng trưởng do đầu cơ. So với thập niên 1990, 6% chỉ là tiền lẻ. Nhưng nó vẫn nhỉnh hơn một chút so với mức trái phiếu có khả năng mang lại, và đủ lý do để phần lớn nhà đầu tư tiếp tục giữ cổ phiếu trong một danh mục đa dạng hoá.
+Như vậy, từ mức định giá tương tự đầu năm 2003, thị trường cổ phiếu đôi khi diễn biến rất tốt trong 10 năm sau, đôi khi kém, và phần còn lại thì lẫn lộn. Zweig cho rằng Graham, vốn luôn bảo thủ, sẽ chia đôi khoảng cách giữa lợi suất quá khứ thấp nhất và cao nhất, và dự báo trong thập kỷ tới cổ phiếu sinh lời khoảng 6% mỗi năm, tức 4% sau lạm phát. Điều thú vị là dự báo này khớp với ước tính trước đó khi cộng tăng trưởng thực, tăng trưởng do lạm phát và tăng trưởng do đầu cơ.
+
+So với thập niên 1990, 6% chỉ là tiền lẻ. Nhưng nó vẫn nhỉnh hơn một chút so với mức trái phiếu có khả năng mang lại, và đủ lý do để phần lớn nhà đầu tư tiếp tục giữ cổ phiếu trong một danh mục đa dạng hoá.
 
 Nhưng cách tiếp cận của Graham còn một bài học thứ hai. Điều duy nhất có thể chắc chắn khi dự báo lợi suất cổ phiếu tương lai là có lẽ mình sẽ sai. Sự thật không thể chối cãi duy nhất mà quá khứ dạy là tương lai sẽ luôn làm ta bất ngờ, luôn luôn. Hệ quả của quy luật lịch sử tài chính này là thị trường sẽ gây bất ngờ tàn nhẫn nhất cho chính những người chắc chắn nhất rằng quan điểm của họ về tương lai là đúng. Giữ khiêm tốn về khả năng dự báo của mình, như Graham, sẽ giúp nhà đầu tư không đặt cược quá nhiều vào một viễn cảnh có thể hoá ra sai.
 
@@ -765,7 +785,9 @@ Vì vậy, Zweig khuyên hạ kỳ vọng, nhưng đừng để tinh thần suy 
 
 ### Mệnh đề
 
-Về dài hạn, cổ phiếu phổ thông Mỹ tăng trưởng bền bỉ cả về giá, lợi nhuận và cổ tức, đủ để biện minh cho một chính sách đầu tư cổ phiếu nhất quán. Nhưng lợi suất tương lai không thể suy ra từ lợi suất quá khứ: nó phụ thuộc vào giá mua hôm nay. Mặt bằng giá của thị trường cần được đánh giá bằng cách so lợi suất lợi nhuận và lợi suất cổ tức của cổ phiếu với lãi suất trái phiếu chất lượng cao; khi cổ phiếu kém hấp dẫn so với trái phiếu (như đầu 1972), nhà đầu tư không nên vay để mua, không tăng tỷ trọng cổ phiếu và nên giữ cổ phiếu ở mức tối đa 50% danh mục. Đồng thời, mọi phán đoán về thời điểm đều có thể sai, nên chính sách nhất quán và có kiểm soát hữu ích hơn việc cố "thắng thị trường".
+Về dài hạn, cổ phiếu phổ thông Mỹ tăng trưởng bền bỉ cả về giá, lợi nhuận và cổ tức, đủ để biện minh cho một chính sách đầu tư cổ phiếu nhất quán. Nhưng lợi suất tương lai không thể suy ra từ lợi suất quá khứ: nó phụ thuộc vào giá mua hôm nay.
+
+Mặt bằng giá của thị trường cần được đánh giá bằng cách so lợi suất lợi nhuận và lợi suất cổ tức của cổ phiếu với lãi suất trái phiếu chất lượng cao; khi cổ phiếu kém hấp dẫn so với trái phiếu (như đầu 1972), nhà đầu tư không nên vay để mua, không tăng tỷ trọng cổ phiếu và nên giữ cổ phiếu ở mức tối đa 50% danh mục. Đồng thời, mọi phán đoán về thời điểm đều có thể sai, nên chính sách nhất quán và có kiểm soát hữu ích hơn việc cố "thắng thị trường".
 
 ### Giả định
 
@@ -809,7 +831,9 @@ Về dài hạn, cổ phiếu phổ thông Mỹ tăng trưởng bền bỉ cả 
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương 3 là một bài về định giá toàn thị trường (market valuation) và rủi ro ngoại suy (extrapolation risk). Lợi suất kỳ vọng của cổ phiếu xấp xỉ bằng lợi suất cổ tức cộng tăng trưởng danh nghĩa của lợi nhuận, cộng thay đổi của bội số định giá (P/E). Graham đo mức định giá bằng P/E chuẩn hoá (lợi nhuận trung bình 3 năm), tiền thân của hệ số CAPE (P/E điều chỉnh chu kỳ) của Shiller mà Zweig dẫn, và bằng chênh lệch lợi suất giữa cổ phiếu và trái phiếu (so sánh lợi suất lợi nhuận với lãi suất trái phiếu, gần với cách mà sau này được gọi là "mô hình Fed"). Lập luận của Zweig về số liệu trước 1871 là một ví dụ về thiên lệch sống sót (survivorship bias) trong dữ liệu lịch sử; luận điểm "cổ phiếu giữ đủ lâu thì không rủi ro" là luận điểm đa dạng hoá theo thời gian (time diversification) mà ông bác bỏ vì nó bỏ qua giá mua. Kết luận chính sách của Graham (tối đa 50% cổ phiếu khi thị trường đắt) là một dạng phân bổ tài sản chiến thuật có giới hạn, không phải canh thời điểm thị trường (market timing) toàn phần.
+Chương 3 là một bài về định giá toàn thị trường (market valuation) và rủi ro ngoại suy (extrapolation risk). Lợi suất kỳ vọng của cổ phiếu xấp xỉ bằng lợi suất cổ tức cộng tăng trưởng danh nghĩa của lợi nhuận, cộng thay đổi của bội số định giá (P/E). Graham đo mức định giá bằng P/E chuẩn hoá (lợi nhuận trung bình 3 năm), tiền thân của hệ số CAPE (P/E điều chỉnh chu kỳ) của Shiller mà Zweig dẫn, và bằng chênh lệch lợi suất giữa cổ phiếu và trái phiếu (so sánh lợi suất lợi nhuận với lãi suất trái phiếu, gần với cách mà sau này được gọi là "mô hình Fed").
+
+Lập luận của Zweig về số liệu trước 1871 là một ví dụ về thiên lệch sống sót (survivorship bias) trong dữ liệu lịch sử; luận điểm "cổ phiếu giữ đủ lâu thì không rủi ro" là luận điểm đa dạng hoá theo thời gian (time diversification) mà ông bác bỏ vì nó bỏ qua giá mua. Kết luận chính sách của Graham (tối đa 50% cổ phiếu khi thị trường đắt) là một dạng phân bổ tài sản chiến thuật có giới hạn, không phải canh thời điểm thị trường (market timing) toàn phần.
 
 ## Thuật ngữ
 
@@ -899,9 +923,182 @@ Zweig coi P/E Shiller 22,8 lần đầu 2003 là "vùng nguy hiểm". Theo hiể
 
 ### Lập luận "cổ phiếu luôn thắng về dài hạn" không sai hoàn toàn, nhưng chỉ đúng khi tính cả giá mua
 
-Zweig bác bỏ việc dùng số liệu 1802–1870 và thiên lệch sống sót, nhưng chính Graham trong chương vẫn kết luận số liệu từ 1871 "đủ khích lệ một chính sách đầu tư cổ phiếu nhất quán". Hai tác giả không mâu thuẫn: họ không phủ nhận lợi thế dài hạn của cổ phiếu, mà phủ nhận ý cho rằng lợi thế đó tồn tại bất kể giá mua. Theo hiểu biết của người tổng hợp, không tra cứu: NASDAQ phải mất khoảng 15 năm mới trở lại đỉnh năm 2000, và chỉ số Nikkei của Nhật mất hơn ba thập kỷ mới vượt đỉnh năm 1989; đó là những ví dụ cho thấy "dài hạn" có thể rất dài khi mua ở giá quá cao. Mặt khác, quỹ chỉ số và quỹ ETF chi phí thấp phổ biến sau 2003 đã giúp nhà đầu tư cá nhân nhận gần trọn lợi suất của thị trường, làm phép tính kiểu Zweig (lợi suất kỳ vọng trừ chi phí) dễ áp dụng hơn.
+Zweig bác bỏ việc dùng số liệu 1802–1870 và thiên lệch sống sót, nhưng chính Graham trong chương vẫn kết luận số liệu từ 1871 "đủ khích lệ một chính sách đầu tư cổ phiếu nhất quán". Hai tác giả không mâu thuẫn: họ không phủ nhận lợi thế dài hạn của cổ phiếu, mà phủ nhận ý cho rằng lợi thế đó tồn tại bất kể giá mua.
+
+Theo hiểu biết của người tổng hợp, không tra cứu: NASDAQ phải mất khoảng 15 năm mới trở lại đỉnh năm 2000, và chỉ số Nikkei của Nhật mất hơn ba thập kỷ mới vượt đỉnh năm 1989; đó là những ví dụ cho thấy "dài hạn" có thể rất dài khi mua ở giá quá cao. Mặt khác, quỹ chỉ số và quỹ ETF chi phí thấp phổ biến sau 2003 đã giúp nhà đầu tư cá nhân nhận gần trọn lợi suất của thị trường, làm phép tính kiểu Zweig (lợi suất kỳ vọng trừ chi phí) dễ áp dụng hơn.
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Nhà đầu tư cá nhân có thể làm theo đúng ba bước của chương mà không cần dự báo: (1) đọc lịch sử để biết thị trường có thể giảm sâu đến đâu, và tự hỏi mình có chịu được không; (2) so lợi suất lợi nhuận và lợi suất cổ tức của thị trường với lãi suất của lựa chọn an toàn (trái phiếu chính phủ, tiền gửi) để biết cổ phiếu đang rẻ hay đắt tương đối; (3) đặt một biên tỷ trọng cổ phiếu cố định (ví dụ tối đa 50% khi thị trường đắt) và tuân thủ nó. Ở một thị trường còn non trẻ như Việt Nam, chuỗi số liệu ngắn hơn nhiều so với 100 năm của Graham, nên càng không thể ngoại suy lợi suất quá khứ; các đợt sốt cổ phiếu mới niêm yết và vay ký quỹ để mua cổ phiếu là đúng loại "dấu hiệu nguy hiểm" mà Graham mô tả, và lời khuyên đầu tiên của ông, không vay tiền để mua hay giữ chứng khoán khi thị trường đắt, áp dụng trực tiếp (nhận định định tính, không dựa trên số liệu Việt Nam).
+Nhà đầu tư cá nhân có thể làm theo đúng ba bước của chương mà không cần dự báo: (1) đọc lịch sử để biết thị trường có thể giảm sâu đến đâu, và tự hỏi mình có chịu được không; (2) so lợi suất lợi nhuận và lợi suất cổ tức của thị trường với lãi suất của lựa chọn an toàn (trái phiếu chính phủ, tiền gửi) để biết cổ phiếu đang rẻ hay đắt tương đối; (3) đặt một biên tỷ trọng cổ phiếu cố định (ví dụ tối đa 50% khi thị trường đắt) và tuân thủ nó.
 
+Ở một thị trường còn non trẻ như Việt Nam, chuỗi số liệu ngắn hơn nhiều so với 100 năm của Graham, nên càng không thể ngoại suy lợi suất quá khứ; các đợt sốt cổ phiếu mới niêm yết và vay ký quỹ để mua cổ phiếu là đúng loại "dấu hiệu nguy hiểm" mà Graham mô tả, và lời khuyên đầu tiên của ông, không vay tiền để mua hay giữ chứng khoán khi thị trường đắt, áp dụng trực tiếp (nhận định định tính, không dựa trên số liệu Việt Nam).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: bảy nhánh lớn đi theo phần Nội dung chi tiết, bốn nhánh cho Chương 3 của Graham (Phần A, mục 1–3: một thế kỷ tăng bền bỉ xen những đợt giảm rất sâu; mục 4–5: lợi nhuận, cổ tức và sự đảo chiều P/E; mục 6–8: Graham tự chấm điểm các nhận định 1948–1964 và chính sách nên theo; mục 9–10: mặt bằng giá đầu 1972) và hai nhánh cho bình luận của Zweig (Phần B, mục 1–2: ngoại suy quá khứ và thiên lệch sống sót; mục 3–5: giá mua quyết định lợi suất và phép cộng ra 6%), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: cổ phiếu Mỹ tăng bền bỉ qua 100 năm nhưng giảm rất sâu, và mặt bằng giá phải đo bằng lợi suất cổ phiếu so với lãi trái phiếu`"]
+  n1["`Phần A, mục 1–3 — Một thế kỷ: tăng bền bỉ xen những đợt giảm rất sâu`"]
+  n0 --- n1
+  n2["`Số liệu dùng được về giá, lợi nhuận và cổ tức bắt đầu từ 1871`"]
+  n1 --- n2
+  n3["`19 chu kỳ trong 100 năm, 1929–1932 chỉ số S#amp;P giảm 86%, DJIA giảm 89%`"]
+  n1 --- n3
+  n4["`1939–1942 chỉ số S#amp;P giảm 44% sau trận Trân Châu Cảng`"]
+  n1 --- n4
+  n5["`1900–1924 tăng khoảng 3%/năm, 1924–1949 chỉ khoảng 1,5%/năm, công chúng chán cổ phiếu`"]
+  n1 --- n5
+  n6["`Quy tắc ngược chiều: đợt tăng lớn nhất lịch sử 1949–1968 bắt đầu đúng lúc đó`"]
+  n1 --- n6
+  n7["`DJIA từ 162 (1949) lên 995 (1966): gấp hơn 6 lần, khoảng 11%/năm chưa kể cổ tức`"]
+  n1 --- n7
+  n8["`Lợi suất 14%/năm trở lên tạo niềm tin phi logic và nguy hiểm rằng sẽ lặp lại`"]
+  n1 --- n8
+  n9["`Đỉnh 1968 tới đáy 5/1970: S#amp;P giảm 36%, DJIA giảm 37%`"]
+  n1 --- n9
+  n10["`Thập niên 1960 chỉ tăng 5,25%/năm (S#amp;P) và 3%/năm (DJIA)`"]
+  n1 --- n10
+  n11["`Phần A, mục 4–5 — Lợi nhuận, cổ tức và sự đảo chiều P/E`"]
+  n0 --- n11
+  n12["`Theo trung bình thập kỷ, chỉ 1891–1900 và 1931–1940 có lợi nhuận và giá giảm`"]
+  n11 --- n12
+  n13["`Sau 1900 không thập kỷ nào có cổ tức trung bình giảm`"]
+  n11 --- n13
+  n14["`Số liệu không cho biết 10 năm tới, nhưng đủ khích lệ chính sách cổ phiếu nhất quán`"]
+  n11 --- n14
+  n15["`1970: tỷ suất lợi nhuận trên vốn thấp nhất từ thời chiến, nhiều vụ phá sản lớn`"]
+  n11 --- n15
+  n16["`P/E chỉ số S#amp;P từ 6,3 lần (6/1949) lên 22,9 lần (3/1961)`"]
+  n11 --- n16
+  n17["`Lợi suất cổ tức từ trên 7% xuống 3,0% khi lãi trái phiếu từ 2,60% lên 4,50%`"]
+  n16 --- n17
+  n18["`DJIA cuối 1970 bằng mức 6,5 năm trước, nhưng không lặp lại 1929–1932`"]
+  n11 --- n18
+  n19["`Phần A, mục 6–8 — Graham tự chấm điểm các nhận định cũ`"]
+  n0 --- n19
+  n20["`1948, DJIA 180: không quá cao so với giá trị nền tảng`"]
+  n19 --- n20
+  n21["`1953, DJIA 275: khuyên thận trọng nửa vời, thị trường tăng thêm 100% trong 5 năm`"]
+  n19 --- n21
+  n22["`1959, DJIA 584: nguy hiểm, sau đó lên 735 rồi xuống 536, mất 27% trong sáu tháng`"]
+  n19 --- n22
+  n23["`IBM từ 607 xuống 300 (12/1961–6/1962), cổ phiếu phát hành nóng mất 90% trở lên`"]
+  n22 --- n23
+  n24["`1964, DJIA 892: quá cao, khả năng trải từ 1.350 tới khoảng 450`"]
+  n19 --- n24
+  n25["`Chính sách 1964: không vay để mua, không tăng tỷ trọng, cổ phiếu tối đa 50% danh mục`"]
+  n24 --- n25
+  n26["`Không bắt đầu kế hoạch đầu tư định kỳ mới ở mức giá cuối 1964`"]
+  n24 --- n26
+  n27["`Bài học: chính sách cổ phiếu nhất quán và có kiểm soát hữu ích hơn cố thắng thị trường`"]
+  n19 --- n27
+  n28["`Aristotle: nhà phân tích nằm giữa nhà toán học và nhà hùng biện`"]
+  n19 --- n28
+  n29["`Phần A, mục 9–10 — Mặt bằng giá đầu 1972: kém hấp dẫn`"]
+  n0 --- n29
+  n30["`Dùng S#amp;P 500 ở mức 100 vì đại diện tốt hơn DJIA chỉ có 30 cổ phiếu`"]
+  n29 --- n30
+  n31["`P/E trên lợi nhuận 3 năm 18,1 lần, thấp hơn 1963 (20,7) và 1968 (19,5)`"]
+  n29 --- n31
+  n32["`Lãi trái phiếu chất lượng cao từ 2,77% (1948) lên 7,57% (1971)`"]
+  n29 --- n32
+  n33["`Lợi suất cổ tức chia lãi trái phiếu từ 2,1 (1948) xuống 0,41 (1971)`"]
+  n29 --- n33
+  n34["`1948 cổ phiếu trả cổ tức gấp đôi lãi trái phiếu, 1972 trái phiếu trả gấp hơn hai lần cổ tức`"]
+  n33 --- n34
+  n35["`Kết luận: kém hấp dẫn theo quan điểm đầu tư thận trọng, cho vùng DJIA 800–950`"]
+  n29 --- n35
+  n36["`Chưa có cơn sốt phát hành mới, nhưng sự vô tư như vậy liệu có thoát khỏi trừng phạt?`"]
+  n29 --- n36
+  n37["`Dự báo lạc quan DJIA 1.520 năm 1975 chỉ đạt ngày 13/12/1985`"]
+  n29 --- n37
+  n38["`Bình luận Zweig, Phần B mục 1–2 — Ngoại suy quá khứ và thiên lệch sống sót`"]
+  n0 --- n38
+  n39["`Graham thấy trước 1973–1974: cổ phiếu Mỹ mất 37% (47,8% không tính cổ tức)`"]
+  n38 --- n39
+  n40["`Cốt lõi: không bao giờ dự báo tương lai chỉ bằng cách ngoại suy quá khứ`"]
+  n38 --- n40
+  n41["`Dow 36,000, Dow 40,000, Dow 100,000 (1999) dựa trên 7%/năm sau lạm phát từ 1802`"]
+  n40 --- n41
+  n42["`Landis: Nokia mất 67%, Winstar mất 99,9%, Froelich: Cisco và Motorola mất hơn 70%`"]
+  n40 --- n42
+  n43["`Applegate: giá cao không làm thị trường rủi ro hơn, Zweig: giá cao hơn luôn rủi ro hơn`"]
+  n40 --- n43
+  n44["`Chỉ số đầu thế kỷ 19 chỉ có khoảng 7 cổ phiếu, năm 1800 có khoảng 300 công ty`"]
+  n38 --- n44
+  n45["`Dimson: lợi suất cổ phiếu trước 1871 bị thổi phồng ít nhất 2 điểm phần trăm mỗi năm`"]
+  n44 --- n45
+  n46["`Siegel 1802–1870: cổ phiếu 7,0%, trái phiếu 4,8%, tiền mặt 5,1%, thực tế cổ phiếu không hơn`"]
+  n44 --- n46
+  n47["`Bình luận Zweig, Phần B mục 3–5 — Giá mua quyết định lợi suất`"]
+  n0 --- n47
+  n48["`Giá trị mọi khoản đầu tư phụ thuộc giá mua, lợi nhuận có hạn nên giá đáng trả có hạn`"]
+  n47 --- n48
+  n49["`Michael Jordan: 34 triệu USD/năm là món hời, 34 tỷ USD/mùa thì không`"]
+  n48 --- n49
+  n50["`Kỳ vọng nhà đầu tư 13% (1998) lên hơn 18% (2000), rồi tụt còn 7% (2001–2002)`"]
+  n47 --- n50
+  n51["`Quỹ hưu trí S#amp;P 500 giả định kỷ lục 9,2% (2002), tốn ít nhất 32 tỷ USD`"]
+  n47 --- n51
+  n52["`24/3/2000 tới 9/10/2002: thị trường Mỹ từ 14,75 xuống 7,34 nghìn tỷ USD, mất 50,2%`"]
+  n47 --- n52
+  n53["`Lợi suất kỳ vọng: 1,5–2% thực + 2,4% lạm phát + 0% đầu cơ + 1,9% cổ tức ≈ 6%/năm`"]
+  n47 --- n53
+  n54["`P/E kiểu Shiller 44,2 lần (12/1999), 22,8 lần đầu 2003, vẫn ở vùng nguy hiểm`"]
+  n47 --- n54
+  n55["`Các năm có P/E tương tự: lợi suất 10 năm sau từ −0,1% (1929) tới 11,1% (1955), chia đôi ra 6%`"]
+  n54 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Cổ phiếu tăng dài hạn, nhưng lợi suất tương lai phụ thuộc giá mua hôm nay`"]
+  n56 --- n57
+  n58["`Đo mặt bằng giá bằng lợi suất cổ phiếu so với lãi trái phiếu, không bằng đà tăng`"]
+  n56 --- n58
+  n59["`Dự báo gần như chắc chắn sai: hạ kỳ vọng, khiêm tốn, không cược vào một kịch bản`"]
+  n56 --- n59
+  n60["`Chesterton: phúc cho ai không mong đợi gì, vì người ấy sẽ được hưởng mọi thứ`"]
+  n56 --- n60
+  class n0 root
+  class n1,n11,n19,n29,n38,n47,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 3 "Un siècle d'histoire boursière: le niveau des cours des actions au début de 1972" (PDF trang 62–74) và "Commentaire sur le chapitre 3" (PDF trang 74–81). Chú thích của Graham: PDF trang 482 (mục "Chapitre 3" trong phần chú thích cuối sách); chú thích của Zweig: PDF trang 598–599.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) phân biệt đầu tư với đầu cơ và nói nhà đầu tư phòng thủ nên chia tiền giữa trái phiếu và cổ phiếu. Chương 2 ([C02-nha-dau-tu-va-lam-phat.md](C02-nha-dau-tu-va-lam-phat.md)) cho thấy cổ phiếu chỉ bảo vệ một phần trước lạm phát, nên không có lý do dồn hết tiền vào cổ phiếu.
+
+Chương 3 bổ sung chiều thời gian dài: một trăm năm số liệu về giá, lợi nhuận và cổ tức (1871–1971), để nhà đầu tư biết các chu kỳ tăng giảm lớn đến mức nào và biết cách tự đánh giá mặt bằng giá của thị trường tại một thời điểm (ở đây là đầu năm 1972).
+
+Kết luận của chương ("mặt bằng giá đầu 1972 kém hấp dẫn đối với đầu tư thận trọng, không vay nợ để mua cổ phiếu, giữ cổ phiếu tối đa 50% danh mục") dẫn thẳng sang Chương 4 ([C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)), nơi Graham đặt quy tắc chia danh mục 25%–75% giữa trái phiếu và cổ phiếu, và sang Chương 8 ([C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)), nơi ông bàn cách nhà đầu tư đối xử với biến động giá.
+
+## Lưu ý
+
+- **Toàn bộ bảng và hình của chương bị trống trong bản PDF.** Trên ảnh trang, các vị trí của Tableau 3-1 (PDF trang 63–64), "Graphique I" của Standard & Poor's (không thấy ở đâu), Tableau 3-2 (khoảng trống ở PDF trang 66 và cuối trang 67), bảng diễn biến chỉ số 1962–1964 (khoảng trống giữa PDF trang 70), Tableau 3-3 (khoảng trống ở PDF trang 73), phép cộng lợi suất kỳ vọng của Zweig (cuối PDF trang 79) và Figure 3-1 (PDF trang 80) đều chỉ là vùng trắng; chỉ còn tiêu đề, nguồn và ghi chú. Lớp chữ cũng không chứa số liệu của các bảng này.
+
+  Vì vậy các bảng trong bản tổng hợp này được **dựng lại theo trí nhớ của người tổng hợp về bản tiếng Anh 2003, không tra cứu, chưa đối chiếu với bản in**; mỗi bảng ghi rõ con số nào đã được lời văn trong PDF xác nhận. Người tổng hợp đã kiểm tra tính nhất quán nội bộ (ví dụ giá chia lợi nhuận ra P/E, đỉnh và đáy ra mức giảm); các chỗ không khớp được ghi ngay dưới bảng. Cần đối chiếu với bản in tiếng Anh trước khi dùng các con số này để trích dẫn.
+- Bản dịch máy đảo ngược nghĩa ở PDF trang 66: "Il est bon d'attendre du lecteur qu'il étudie tous ces chiffres avec soin" (nên mong người đọc nghiên cứu kỹ mọi con số). Ý của Graham là ngược lại: ông *không* mong người đọc nghiên cứu kỹ mọi con số, nhưng hy vọng một số người thấy chúng thú vị (vế sau "mais pour certains, nous espérons..." chỉ hợp lý theo nghĩa này).
+- PDF trang 79, Zweig: "plus les investisseurs sont enthousiastes ... plus ils sont certains qu'ils doivent se tromper à court terme" (họ càng chắc chắn rằng họ phải sai). Ý đúng: nhà đầu tư càng hào hứng về thị trường dài hạn thì *càng chắc chắn là họ sẽ sai* trong ngắn hạn.
+- PDF trang 78: "en versant à la Jordanie jusqu'à 34 millions de dollars" — máy dịch tên Michael Jordan thành "nước Jordan" (la Jordanie).
+- PDF trang 76: "le plus stable des stocks de téléphones sans fil pour animaux de compagnie de Landis" — "pet wireless stocks" nghĩa là "các cổ phiếu viễn thông không dây mà Landis ưa thích", không liên quan tới thú cưng.
+- PDF trang 75: "Stocks for the Long Run du professeur de finance de Wharton (1994)" — bản dịch làm rơi tên tác giả (Jeremy Siegel, theo chú thích của Zweig ở PDF trang 599); "James Glassman et le Dow 36,000 de Kevin Hassett" nghĩa là cuốn *Dow 36,000* của James Glassman và Kevin Hassett.
+- "Pearl. Port." (PDF trang 65) là Trân Châu Cảng (Pearl Harbor); "émissions chaudes" / "problèmes chauds" là cổ phiếu phát hành mới "nóng" (hot issues); "plan d'étalement des coûts" là đầu tư định kỳ một số tiền cố định (dollar-cost averaging); "nos conseillers plus piétons" (PDF trang 72) là "những lời khuyên bình thường hơn của chúng tôi", không phải "người tư vấn".
+
+  "Des niveaux peu courts de fou" là "những mức giá gần như điên rồ"; "6% sont des aliments pour poulets" là "6% chỉ là tiền lẻ" (chicken feed); "une moustache meilleure" là "nhỉnh hơn một chút" (a whisker better); "taureaux" là phe lạc quan (bulls); "billions de dollars" theo nghĩa tiếng Pháp là nghìn tỷ USD (đúng), không phải tỷ USD.
+- Lỗi năm có thể có ở PDF trang 69: bản dịch viết DJIA "est passé à 685 en 1961; est ensuite tombé ... (à 566) plus tard dans l'année; repassé à 735 fin 1961". Theo hiểu biết của người tổng hợp (không tra cứu), DJIA không xuống 566 trong năm 1961; mức 685 đạt khoảng cuối 1959 – đầu 1960 và mức 566 là đáy năm 1960. Cùng trang, "notre attitude correspondante en 1954" có lẽ chỉ nhận định về mức giá năm 1953 (in trong ấn bản 1954).
+- Hai câu của Graham hơi lệch nhau: PDF trang 67 nói giá đóng cửa của DJIA năm 1970 "bằng" mức của 6 năm rưỡi trước; PDF trang 72 nói DJIA đóng cửa 1970 "thấp hơn" sáu năm trước (lần đầu tiên kể từ 1944). Cả hai cùng ý: thập niên 1960 không đem lại tăng giá ròng nào cho DJIA trong khoảng 6 năm.
+- Các chỗ dẫn trang không dùng được trong PDF này: "tableau 3-2 (p. 71)", "reproduit à la p. 75" (nội dung là khung "Quel cours suivre" ở PDF trang 71), "voir l'encadré à la p. 82" (là khung "SURVIE DU FATTEST" ở PDF trang 76–77), "Voir pages 50–52", "voir p. 168", "Comme Graham l'indique à la p. 65"; cùng các chỗ Graham dẫn ấn bản cũ ("page 59 de l'édition de 1959", "(p. 63)" của ấn bản 1965). Bản tổng hợp chép thẳng nội dung được dẫn.
+- Số liệu đã cũ: các mốc 1972 của Graham và 2003 của Zweig. Theo hiểu biết của người tổng hợp, không tra cứu: thị trường giảm mạnh 1973–1974 đúng như Graham cảnh báo; DJIA chỉ vượt hẳn 1.000 điểm từ đầu thập niên 1980; sau 2003 thị trường tăng tới 2007, sụp mạnh trong khủng hoảng 2008, rồi bước vào một đợt tăng dài; hệ số P/E kiểu Shiller nhiều năm sau 2010 ở trên 25–30, cao hơn hẳn mốc 22,8 mà Zweig coi là "vùng nguy hiểm"; DJIA vượt 36.000 điểm vào khoảng cuối 2021, tức hơn hai mươi năm sau cuốn *Dow 36,000*.

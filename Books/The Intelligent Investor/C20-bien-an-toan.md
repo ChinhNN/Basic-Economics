@@ -1,31 +1,22 @@
 # Chương 20 — Biên an toàn: khái niệm trung tâm của đầu tư («Marge de sécurité» comme concept central d'investissement)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 20 "«Marge de sécurité» comme concept central d'investissement" (PDF trang 427–437) và "Commentaire sur le chapitre 20" (PDF trang 437–443).
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương kết của phần chính, và cùng với [Chương 8](C08-nha-dau-tu-va-bien-dong-thi-truong.md) (ông Thị Trường) là chương Warren Buffett coi là quan trọng nhất của cuốn sách. Từ [Chương 1](C01-dau-tu-va-dau-co.md) Graham đã định nghĩa đầu tư là một hoạt động mà sau khi phân tích kỹ lưỡng hứa hẹn an toàn cho vốn gốc và một lợi nhuận thoả đáng; các chương về trái phiếu và danh mục ([Chương 4](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md), [Chương 5](C05-nha-dau-tu-phong-thu-va-co-phieu.md)), về những điều nhà đầu tư năng động nên tránh và nên làm ([Chương 6](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md), [Chương 7](C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md)), về phân tích và chọn cổ phiếu ([Chương 11](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md) tới [Chương 15](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md)), về chứng quyền ([Chương 16](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) và các trường hợp điển hình ([Chương 17](C17-bon-truong-hop-dang-hoc.md), [Chương 18](C18-so-sanh-tam-cap-cong-ty.md)) đều dùng ngầm một ý chung. Chương 20 gọi tên ý chung đó, **biên an toàn**, và chỉ ra rằng nó vừa là tiêu chuẩn chọn trái phiếu, vừa là tiêu chuẩn chọn cổ phiếu, vừa là cơ sở của đa dạng hoá, vừa là ranh giới phân biệt đầu tư với đầu cơ. Ngay sau chương này là [Lời bạt](PS-loi-bat.md), nơi Graham kể câu chuyện hai người cộng sự (chính ông và Jerome Newman) để minh hoạ bằng thực tế. Phần bình luận của Zweig chuyển biên an toàn từ ngôn ngữ của số liệu sang ngôn ngữ của rủi ro và tâm lý: điều quan trọng nhất là không thua lỗ nặng, và rủi ro nằm ở chính nhà đầu tư.
-**Ý chính:** Graham muốn người đọc hiểu rằng **bí quyết đầu tư vững chắc gói trong ba chữ "BIÊN AN TOÀN" (MARGIN OF SAFETY): chỉ mua khi khoảng cách giữa giá trị (đo bằng số liệu, bằng lập luận và bằng kinh nghiệm thực tế) và giá phải trả đủ lớn để chịu được những sai lầm trong tính toán và những rủi ro xấu hơn mức trung bình, nhờ đó nhà đầu tư không cần dự đoán chính xác tương lai.** Với trái phiếu, biên an toàn là việc công ty kiếm được nhiều hơn hẳn chi phí lãi vay qua nhiều năm (một công ty đường sắt phải có lợi nhuận trước thuế gấp hơn 5 lần tổng chi phí cố định), hoặc giá trị doanh nghiệp vượt xa nợ (doanh nghiệp nợ 10 triệu USD và đáng giá 30 triệu USD thì giá trị có thể giảm hai phần ba trước khi chủ nợ bị thiệt). Với cổ phiếu mua ở điều kiện bình thường, biên an toàn là phần lợi suất lợi nhuận (earnings yield) vượt lãi suất trái phiếu: ở các ấn bản trước, cổ phiếu điển hình có lợi suất lợi nhuận 9% so với lãi trái phiếu 4%, chênh 5% mỗi năm, cộng dồn khoảng 50% giá mua sau mười năm; nhưng năm 1972, mua ở P/E 12 chỉ cho lợi suất 8,33%, quá sát lãi suất trái phiếu, nên biên an toàn không còn đủ. Biên an toàn rõ nhất ở cổ phiếu giá hời (bargain issue), nơi chênh lệch giữa giá trị và giá chính là biên an toàn; nó gắn chặt với đa dạng hoá, như ví dụ cò quay (roulette): người chơi có "biên an toàn âm" nên càng đặt nhiều số càng chắc thua, còn chủ sòng có biên dương nên càng nhiều lượt quay càng chắc thắng. Graham kết luận rằng một giá đủ thấp có thể biến một chứng khoán chất lượng trung bình thành cơ hội đầu tư vững chắc (trái phiếu bất động sản thập niên 1930 rơi xuống dưới 10 xu cho mỗi đô la mệnh giá trong khi giá trị thực gấp 4–5 lần giá), và tóm lại cả cuốn sách bằng câu "đầu tư thông minh nhất khi nó giống kinh doanh nhất", kèm bốn nguyên tắc kinh doanh.
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **quy tắc số một là "Đừng thua lỗ" (lời của nhà tài chính J. K. Klingenstein), vì một khoản lỗ lớn rất khó gỡ lại**: nếu trả giá quá cao cho một cổ phiếu tăng 10% mỗi năm và nó mất 50% ngay năm đầu, bạn cần hơn 16 năm mới vượt được thị trường chỉ tăng 5% mỗi năm; ai mua JDS Uniphase ở đỉnh 153,421 USD ngày 7/3/2000 (lúc công ty định giá khoảng 143 tỷ USD dù doanh thu chỉ 673 triệu USD và lỗ 313 triệu USD) và còn giữ tới cuối 2002 (giá 2,47 USD) thì với lợi suất 10% mỗi năm phải mất hơn 43 năm mới hoà vốn. Zweig lập luận rằng rủi ro không nằm ở cổ phiếu mà ở chính nhà đầu tư; ông dùng hai tiêu chí của Daniel Kahneman (tự tin được hiệu chỉnh đúng, hối tiếc được lường trước đúng), định nghĩa của Paul Slovic (rủi ro gồm xác suất và hậu quả) và cách Peter Bernstein diễn giải "vụ đánh cược của Pascal" (khi không chắc chắn, hậu quả phải được coi trọng hơn xác suất) để kết luận: vì gần như chắc chắn sẽ có lúc mình sai, nhà đầu tư phải dùng biên an toàn và đa dạng hoá để hậu quả của sai lầm không bao giờ là thảm hoạ.
+Graham muốn người đọc hiểu rằng **bí quyết đầu tư vững chắc gói trong ba chữ "BIÊN AN TOÀN" (MARGIN OF SAFETY): chỉ mua khi khoảng cách giữa giá trị (đo bằng số liệu, bằng lập luận và bằng kinh nghiệm thực tế) và giá phải trả đủ lớn để chịu được những sai lầm trong tính toán và những rủi ro xấu hơn mức trung bình, nhờ đó nhà đầu tư không cần dự đoán chính xác tương lai.** 
 
-> **Lưu ý:**
-> - **Tiêu đề chương:** bản PDF ghi ở đầu chương (trang 427) "«Marge de sécurité» comme concept central d'investissement" (không có mạo từ "La"); danh sách file của bộ này ghi "La «marge de sécurité» comme concept central d'investissement". Bản tổng hợp dùng đúng chữ trong PDF. Tiêu đề tiếng Anh gốc là "'Margin of Safety' as the Central Concept of Investment".
-> - **Hai hình của phần bình luận bị mất trong bản PDF:** Hình 20-1 "Le coût de la perte" (PDF trang 438–439) và Hình 20-2 "Rompre est difficile à faire" (PDF trang 440) chỉ còn tiêu đề, một khoảng trắng nửa trang và lời chú thích in nghiêng. Hai bảng trong bản tổng hợp này được **người tổng hợp tính lại** từ đúng các giả định mà lời chú thích nêu (thị trường tăng 5%/năm; cổ phiếu mất 50% năm đầu rồi tăng 10%/năm; JDS Uniphase từ 153,421 USD xuống 2,47 USD), không phải số đọc từ hình. Kết quả tính lại khớp với hai con số chính trong văn bản ("hơn 16 năm" và "hơn 43 năm"). Hình thức trình bày (theo năm, theo mức lợi suất) có thể khác hình gốc.
-> - **Các chỗ dịch máy lệch nghĩa đáng kể:**
->   - "sécurité" trong nhiều câu là dịch máy của "security" (chứng khoán), không phải "an toàn": "l'investisseur préférera éviter la sécurité" là "tránh chứng khoán đó"; "acheteurs de sécurité naïfs" là "người mua chứng khoán ngây thơ"; "transformer une sécurité de qualité médiocre" là "biến một chứng khoán chất lượng trung bình"; "cette forme de sécurité sans prétention" là "loại chứng khoán khiêm tốn này" (chứng quyền); "les valeurs de sécurité" là "giá trị của chứng khoán"; "l'analyse de la sécurité" là "phân tích chứng khoán". Chỉ "marge de sécurité" mới là "biên an toàn".
->   - "émissions", "questions", "problèmes", "préoccupations" là dịch máy của "issues" (mã chứng khoán) và "concerns" (doanh nghiệp): "ces émissions privilégiées" (PDF trang 432) là "các cổ phiếu được ưa chuộng" (favored issues), **không phải cổ phiếu ưu đãi**; "questions sous-évaluées" là "chứng khoán bị định giá thấp".
->   - "titres sous-évalués ou négociables" (PDF trang 432) dịch sai "undervalued or bargain securities": "négociables" phải là "giá hời".
->   - "est en partie et en partie contraire au principe" (PDF trang 431) thiếu vế: nghĩa là triết lý cổ phiếu tăng trưởng "một phần phù hợp, một phần trái" với nguyên tắc biên an toàn.
->   - "une période d'activité anormale comme en 1970-1971" (PDF trang 431) nghĩa là một giai đoạn kinh doanh **dưới mức bình thường** (suy giảm), như 1970–1971.
->   - "obligations d'État et municipales" (PDF trang 434) là trái phiếu của các **bang** và chính quyền địa phương Mỹ (miễn thuế), không phải trái phiếu chính phủ quốc gia; "obligations d'épargne des États-Unis" là trái phiếu tiết kiệm Mỹ (U.S. savings bonds).
->   - "bénéfices commerciaux" (PDF trang 436) là "business profits", tức lợi nhuận kiểu kinh doanh, vượt trên lãi và cổ tức thông thường. Câu thứ hai trong mục "Pour résumer" thiếu chữ "Pour" ("[Pour] l'investisseur, cette règle...").
->   - Phần bình luận: "montez dans le miroir" là "nhìn vào gương"; "C'est un risque, de te regarder depuis le verre" là "Đó chính là rủi ro, đang nhìn lại bạn từ trong gương"; "une piste de course ou un casino joueur" là "con bạc ở trường đua hay sòng bạc"; "Ai-je acheté plus ou ai-je renfloué?" nghĩa là "Tôi đã mua thêm hay đã bán tháo để thoát ra (bailed out)?", không phải "cứu trợ"; "même les meilleures analyses seront au moins une partie du temps" thiếu chữ "sai" (wrong); "vous n'avez le contrôle sur les conséquences" thiếu chữ, nghĩa đúng là "bạn **có** quyền kiểm soát hậu quả của việc sai".
->   - "Rompre est difficile à faire" là dịch tên bài hát "Breaking Up Is Hard to Do", chơi chữ với "break even" (hoà vốn); "Le risque n'est pas dans nos stocks, mais dans nous-mêmes" là chơi chữ câu của Shakespeare trong *Julius Caesar* ("lỗi không ở các vì sao mà ở chính chúng ta"), "stocks" ở đây là cổ phiếu.
->   - Trong chú thích của Zweig trích bài giảng năm 1972, câu "il n'y a pas de différence entre le taux de bénéfice sur les actions et le taux d'intérêt sur les actions" sai chữ cuối: phải là "lãi suất **trái phiếu**".
->   - Chú thích 3 của Zweig "échangé ou acheté des PAPE": "échangé" là "day-traded" (lướt sóng trong ngày), "PAPE" (premier appel public à l'épargne, cách gọi ở Québec) là IPO.
-> - **Lỗi số trong bản PDF:** chú thích hình 20-2 ghi "153 421 $"; đúng là 153,421 USD mỗi cổ phiếu (giá đã điều chỉnh theo các lần tách cổ phiếu, như chú thích 2 của Zweig nói); văn bản chính ghi tròn "153 dollars".
-> - **Chỗ dẫn trang bản tiếng Anh:** chú thích của Zweig dẫn *Security Analysis* ấn bản 1934, tr. 354 (định nghĩa sức sinh lời), *Against the Gods* tr. 68–70, *Pensées* tr. 122–125; các trang này không có trong bản PDF, bản tổng hợp chép nội dung thay cho số trang. Chú thích 1 của Graham bỏ mất tên tạp chí; theo hiểu biết của người tổng hợp, không tra cứu, bài của Paul Hallingby Jr. đăng trên *The Analysts Journal*, quý III năm 1947.
-> - **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** phép so sánh lợi suất lợi nhuận với lãi suất trái phiếu của Graham phụ thuộc mạnh vào mặt bằng lãi suất: năm 1972 lãi trái phiếu cao (khoảng 7–7,5%), năm 2003 thấp hơn; từ sau 2008 tới khoảng 2021 lãi suất ở gần 0 khiến khoảng cách này trông rất rộng, rồi lãi suất tăng mạnh trở lại từ 2022. JDS Uniphase về sau gộp cổ phiếu và tới năm 2015 tách thành hai công ty (Viavi Solutions và Lumentum); người mua ở đỉnh năm 2000 chưa bao giờ gỡ lại vốn. Chi tiết ở phần Đánh giá.
-> - Câu trích trong mục "Câu nói đáng nhớ" là tiếng Pháp đúng như PDF (kể cả lỗi dịch), kèm bản dịch tiếng Việt theo nghĩa gốc của người tổng hợp.
+Với trái phiếu, biên an toàn là việc công ty kiếm được nhiều hơn hẳn chi phí lãi vay qua nhiều năm (một công ty đường sắt phải có lợi nhuận trước thuế gấp hơn 5 lần tổng chi phí cố định), hoặc giá trị doanh nghiệp vượt xa nợ (doanh nghiệp nợ 10 triệu USD và đáng giá 30 triệu USD thì giá trị có thể giảm hai phần ba trước khi chủ nợ bị thiệt). 
+
+Với cổ phiếu mua ở điều kiện bình thường, biên an toàn là phần lợi suất lợi nhuận (earnings yield) vượt lãi suất trái phiếu: ở các ấn bản trước, cổ phiếu điển hình có lợi suất lợi nhuận 9% so với lãi trái phiếu 4%, chênh 5% mỗi năm, cộng dồn khoảng 50% giá mua sau mười năm; nhưng năm 1972, mua ở P/E 12 chỉ cho lợi suất 8,33%, quá sát lãi suất trái phiếu, nên biên an toàn không còn đủ. 
+
+Biên an toàn rõ nhất ở cổ phiếu giá hời (bargain issue), nơi chênh lệch giữa giá trị và giá chính là biên an toàn; nó gắn chặt với đa dạng hoá, như ví dụ cò quay (roulette): người chơi có "biên an toàn âm" nên càng đặt nhiều số càng chắc thua, còn chủ sòng có biên dương nên càng nhiều lượt quay càng chắc thắng. 
+
+Graham kết luận rằng một giá đủ thấp có thể biến một chứng khoán chất lượng trung bình thành cơ hội đầu tư vững chắc (trái phiếu bất động sản thập niên 1930 rơi xuống dưới 10 xu cho mỗi đô la mệnh giá trong khi giá trị thực gấp 4–5 lần giá), và tóm lại cả cuốn sách bằng câu "đầu tư thông minh nhất khi nó giống kinh doanh nhất", kèm bốn nguyên tắc kinh doanh.
+
+Zweig, viết năm 2003, bổ sung rằng **quy tắc số một là "Đừng thua lỗ" (lời của nhà tài chính J. K. Klingenstein), vì một khoản lỗ lớn rất khó gỡ lại**: nếu trả giá quá cao cho một cổ phiếu tăng 10% mỗi năm và nó mất 50% ngay năm đầu, bạn cần hơn 16 năm mới vượt được thị trường chỉ tăng 5% mỗi năm.
+
+Ai mua JDS Uniphase ở đỉnh 153,421 USD ngày 7/3/2000 (lúc công ty định giá khoảng 143 tỷ USD dù doanh thu chỉ 673 triệu USD và lỗ 313 triệu USD) và còn giữ tới cuối 2002 (giá 2,47 USD) thì với lợi suất 10% mỗi năm phải mất hơn 43 năm mới hoà vốn. 
+
+Zweig lập luận rằng rủi ro không nằm ở cổ phiếu mà ở chính nhà đầu tư. Ông dùng hai tiêu chí của Daniel Kahneman (tự tin được hiệu chỉnh đúng, hối tiếc được lường trước đúng), định nghĩa của Paul Slovic (rủi ro gồm xác suất và hậu quả) và cách Peter Bernstein diễn giải "vụ đánh cược của Pascal" (khi không chắc chắn, hậu quả phải được coi trọng hơn xác suất) để kết luận: vì gần như chắc chắn sẽ có lúc mình sai, nhà đầu tư phải dùng biên an toàn và đa dạng hoá để hậu quả của sai lầm không bao giờ là thảm hoạ.
 
 ## Sơ đồ
 
@@ -412,7 +403,9 @@ Graham mở đầu bằng một truyện cổ: các nhà hiền triết rốt cu
 
 Đứng trước thử thách tương tự là gói bí quyết đầu tư vững chắc vào ba chữ, Graham mạnh dạn đưa ra khẩu hiệu **BIÊN AN TOÀN**. Đây là sợi chỉ chạy suốt mọi phần bàn về chính sách đầu tư ở các chương trước, khi thì nói thẳng, khi thì ít trực tiếp hơn. Chương này lần lại ý đó thành một lập luận liền mạch.
 
-**Trái phiếu: biên an toàn đo bằng lợi nhuận so với chi phí lãi.** Mọi nhà đầu tư có kinh nghiệm đều thừa nhận biên an toàn là thiết yếu khi chọn trái phiếu và cổ phiếu ưu đãi vững chắc. Ví dụ: một công ty đường sắt phải có lợi nhuận (trước thuế thu nhập) gấp hơn 5 lần tổng chi phí cố định, tính qua nhiều năm, thì trái phiếu của nó mới được coi là hạng nhất. Khả năng kiếm vượt mức lãi phải trả trong quá khứ chính là biên an toàn mà nhà đầu tư dựa vào để được che chắn khỏi thua lỗ hay đổ vỡ khi thu nhập ròng tương lai giảm. Biên này cũng có thể biểu thị theo cách khác, ví dụ phần trăm doanh thu hay lợi nhuận có thể giảm trước khi phần còn lại sau khi trả lãi biến mất, nhưng ý cơ bản không đổi.
+**Trái phiếu: biên an toàn đo bằng lợi nhuận so với chi phí lãi.** Mọi nhà đầu tư có kinh nghiệm đều thừa nhận biên an toàn là thiết yếu khi chọn trái phiếu và cổ phiếu ưu đãi vững chắc. Ví dụ: một công ty đường sắt phải có lợi nhuận (trước thuế thu nhập) gấp hơn 5 lần tổng chi phí cố định, tính qua nhiều năm, thì trái phiếu của nó mới được coi là hạng nhất. Khả năng kiếm vượt mức lãi phải trả trong quá khứ chính là biên an toàn mà nhà đầu tư dựa vào để được che chắn khỏi thua lỗ hay đổ vỡ khi thu nhập ròng tương lai giảm.
+
+Biên này cũng có thể biểu thị theo cách khác, ví dụ phần trăm doanh thu hay lợi nhuận có thể giảm trước khi phần còn lại sau khi trả lãi biến mất, nhưng ý cơ bản không đổi.
 
 Người mua trái phiếu không trông đợi lợi nhuận bình quân tương lai sẽ giống quá khứ; nếu chắc điều đó, anh ta chỉ cần một biên nhỏ. Anh ta cũng không dựa chủ yếu vào phán đoán của mình rằng lợi nhuận tương lai sẽ tốt hơn hay kém hơn quá khứ; nếu dựa vào đó, anh ta phải đo biên an toàn bằng một báo cáo thu nhập dự phóng cẩn thận, chứ không nhấn vào biên thể hiện trong hồ sơ quá khứ. Ở đây, **chức năng của biên an toàn về bản chất là làm cho việc ước tính chính xác tương lai trở nên không cần thiết.** Nếu biên lớn, chỉ cần giả định lợi nhuận tương lai không rơi quá xa dưới mức quá khứ là nhà đầu tư đã thấy mình đủ được che chắn trước những thăng trầm của thời gian.
 
@@ -422,39 +415,69 @@ Người mua trái phiếu không trông đợi lợi nhuận bình quân tươn
 
 Đó là biên an toàn cho các "khoản đầu tư có giá trị cố định" (trái phiếu, cổ phiếu ưu đãi). Có đưa sang cổ phiếu được không? Graham trả lời được, nhưng với một số điều chỉnh cần thiết.
 
-**Trường hợp cổ phiếu an toàn như trái phiếu.** Có những trường hợp cổ phiếu được coi là vững chắc vì nó có biên an toàn lớn như một trái phiếu tốt. Điều này xảy ra khi một công ty chỉ có cổ phiếu phổ thông đang lưu hành, và trong điều kiện suy thoái, tổng giá cổ phiếu thấp hơn số trái phiếu mà công ty có thể phát hành an toàn dựa trên tài sản và sức sinh lời của mình. Chú thích của Zweig về "sức sinh lời": Graham dùng thuật ngữ này để chỉ lợi nhuận tiềm năng của công ty, hay theo lời ông trong *Security Analysis* (ấn bản 1934), số tiền công ty "có thể kiếm được năm này qua năm khác nếu điều kiện kinh doanh của giai đoạn đó giữ nguyên"; một số bài giảng cho thấy Graham muốn thuật ngữ bao trùm giai đoạn 5 năm trở lên. Có thể tính gần đúng sức sinh lời trên mỗi cổ phiếu bằng nghịch đảo của P/E: cổ phiếu có P/E 11 có sức sinh lời khoảng 9% (1 chia 11); ngày nay gọi là "lợi suất lợi nhuận".
+**Trường hợp cổ phiếu an toàn như trái phiếu.** Có những trường hợp cổ phiếu được coi là vững chắc vì nó có biên an toàn lớn như một trái phiếu tốt. Điều này xảy ra khi một công ty chỉ có cổ phiếu phổ thông đang lưu hành, và trong điều kiện suy thoái, tổng giá cổ phiếu thấp hơn số trái phiếu mà công ty có thể phát hành an toàn dựa trên tài sản và sức sinh lời của mình.
 
-Đó là tình trạng của rất nhiều công ty công nghiệp có tài chính mạnh ở vùng giá đáy 1932–1933. Trong những trường hợp đó, nhà đầu tư có được biên an toàn của một trái phiếu, *cộng thêm* mọi cơ hội thu nhập cao hơn và tăng giá vốn vốn có của cổ phiếu. Thứ duy nhất anh ta thiếu là quyền pháp lý buộc công ty trả cổ tức "nếu không thì...", nhưng đó là bất lợi nhỏ so với các lợi thế. Cổ phiếu mua trong hoàn cảnh như vậy là sự kết hợp lý tưởng, dù hiếm, giữa an toàn và cơ hội lợi nhuận. Ví dụ khá gần đây, Graham nhắc lại National Presto Industries (công ty đã được bàn ở Chương 7 như một cổ phiếu bị bỏ quên, và ở Chương 18 trong cặp so sánh với National General): năm 1972 cả công ty được thị trường định giá 43 triệu USD; với lợi nhuận trước thuế gần đây 16 triệu USD, công ty có thể dễ dàng gánh một khoản trái phiếu bằng số đó. (Tính của người tổng hợp: 43 triệu USD chỉ bằng khoảng 2,7 lần lợi nhuận trước thuế, nghĩa là lợi nhuận trước thuế đủ trả lãi cho khoản nợ 43 triệu USD nhiều lần ở mặt bằng lãi suất khoảng 7–8%.)
+Chú thích của Zweig về "sức sinh lời": Graham dùng thuật ngữ này để chỉ lợi nhuận tiềm năng của công ty, hay theo lời ông trong *Security Analysis* (ấn bản 1934), số tiền công ty "có thể kiếm được năm này qua năm khác nếu điều kiện kinh doanh của giai đoạn đó giữ nguyên"; một số bài giảng cho thấy Graham muốn thuật ngữ bao trùm giai đoạn 5 năm trở lên. Có thể tính gần đúng sức sinh lời trên mỗi cổ phiếu bằng nghịch đảo của P/E: cổ phiếu có P/E 11 có sức sinh lời khoảng 9% (1 chia 11); ngày nay gọi là "lợi suất lợi nhuận".
 
-**Trường hợp bình thường: biên an toàn là sức sinh lời vượt lãi suất trái phiếu.** Với cổ phiếu thông thường mua để đầu tư trong điều kiện bình thường, biên an toàn nằm ở sức sinh lời kỳ vọng cao hơn hẳn lãi suất trái phiếu hiện hành. Ở các ấn bản trước, Graham minh hoạ bằng các con số sau (đoạn trích lại từ ấn bản cũ): giả sử trong trường hợp điển hình sức sinh lời là 9% trên giá và lãi suất trái phiếu là 4%; người mua cổ phiếu khi đó có biên bình quân 5% mỗi năm nghiêng về phía mình. Một phần chênh lệch được trả cho anh ta dưới dạng cổ tức; dù anh ta tiêu nó đi, nó vẫn nằm trong kết quả đầu tư tổng thể. Phần không chia được tái đầu tư vào doanh nghiệp cho anh ta. Trong nhiều trường hợp, lợi nhuận tái đầu tư không làm sức sinh lời và giá trị cổ phiếu tăng tương ứng; đó là lý do thị trường có thói quen dai dẳng định giá lợi nhuận trả làm cổ tức hào phóng hơn phần giữ lại. Chú thích của Zweig: vấn đề này được bàn kỹ trong phần bình luận Chương 19 (Zweig cho thấy các công ty trả cổ tức cao thường có lợi nhuận tương lai tăng nhanh hơn, và việc giữ lại lợi nhuận hay mua lại cổ phiếu nhiều khi phục vụ ban điều hành hơn cổ đông). Nhưng xét toàn cảnh, có mối liên hệ khá chặt giữa việc phần lợi nhuận giữ lại của doanh nghiệp tăng lên và giá trị doanh nghiệp tăng lên.
+Đó là tình trạng của rất nhiều công ty công nghiệp có tài chính mạnh ở vùng giá đáy 1932–1933. Trong những trường hợp đó, nhà đầu tư có được biên an toàn của một trái phiếu, *cộng thêm* mọi cơ hội thu nhập cao hơn và tăng giá vốn vốn có của cổ phiếu. Thứ duy nhất anh ta thiếu là quyền pháp lý buộc công ty trả cổ tức "nếu không thì...", nhưng đó là bất lợi nhỏ so với các lợi thế. Cổ phiếu mua trong hoàn cảnh như vậy là sự kết hợp lý tưởng, dù hiếm, giữa an toàn và cơ hội lợi nhuận.
 
-Trong mười năm, phần sức sinh lời của cổ phiếu vượt lãi trái phiếu có thể cộng lại tới 50% giá đã trả (5% × 10 năm). Con số này đủ tạo một biên an toàn rất thật, mà trong điều kiện thuận lợi sẽ ngăn được hoặc giảm thiểu thua lỗ. Nếu biên như vậy có ở từng mã trong một danh mục đa dạng từ 20 mã trở lên, thì xác suất kết quả thuận lợi trong "điều kiện khá bình thường" trở nên rất lớn. Vì thế chính sách đầu tư vào cổ phiếu tiêu biểu không đòi hỏi óc sáng suốt và tầm nhìn xa đặc biệt để thành công. Nếu mua ở mức giá bình quân của thị trường trong nhiều năm, thì giá đã trả tự nó mang theo bảo đảm về một biên an toàn đủ. Nguy hiểm cho nhà đầu tư nằm ở việc dồn mua vào vùng giá cao của thị trường, hoặc mua những cổ phiếu không tiêu biểu có rủi ro sức sinh lời suy giảm cao hơn trung bình.
+Ví dụ khá gần đây, Graham nhắc lại National Presto Industries (công ty đã được bàn ở Chương 7 như một cổ phiếu bị bỏ quên, và ở Chương 18 trong cặp so sánh với National General): năm 1972 cả công ty được thị trường định giá 43 triệu USD; với lợi nhuận trước thuế gần đây 16 triệu USD, công ty có thể dễ dàng gánh một khoản trái phiếu bằng số đó. (Tính của người tổng hợp: 43 triệu USD chỉ bằng khoảng 2,7 lần lợi nhuận trước thuế, nghĩa là lợi nhuận trước thuế đủ trả lãi cho khoản nợ 43 triệu USD nhiều lần ở mặt bằng lãi suất khoảng 7–8%.)
 
-**Vấn đề năm 1972.** Theo Graham, toàn bộ vấn đề của đầu tư cổ phiếu trong điều kiện 1972 nằm ở chỗ, "trong trường hợp điển hình", sức sinh lời nay thấp hơn nhiều so với 9% trên giá. Chú thích của Zweig: Graham tóm lại phần bàn này trong một bài giảng năm 1972 (tại trường kinh doanh Northeast Missouri State University, tháng 3/1972): biên an toàn là chênh lệch giữa tỷ lệ phần trăm lợi nhuận của cổ phiếu ở giá bạn trả và lãi suất trái phiếu, và chính chênh lệch này hấp thụ các diễn biến không như ý; thời ấn bản 1965, cổ phiếu điển hình bán ở 11 lần lợi nhuận, cho lợi suất khoảng 9% so với 4% của trái phiếu, tức biên an toàn hơn 100%; nay (1972) không còn chênh lệch giữa lợi suất lợi nhuận của cổ phiếu và lãi suất trái phiếu, nên không có biên an toàn, thậm chí là "biên an toàn âm" đối với cổ phiếu.
+**Trường hợp bình thường: biên an toàn là sức sinh lời vượt lãi suất trái phiếu.** Với cổ phiếu thông thường mua để đầu tư trong điều kiện bình thường, biên an toàn nằm ở sức sinh lời kỳ vọng cao hơn hẳn lãi suất trái phiếu hiện hành. Ở các ấn bản trước, Graham minh hoạ bằng các con số sau (đoạn trích lại từ ấn bản cũ): giả sử trong trường hợp điển hình sức sinh lời là 9% trên giá và lãi suất trái phiếu là 4%; người mua cổ phiếu khi đó có biên bình quân 5% mỗi năm nghiêng về phía mình.
 
-Graham giả định: nếu tập trung phần nào vào các cổ phiếu có P/E thấp trong số các công ty lớn, nhà đầu tư phòng thủ nay có thể mua ở 12 lần lợi nhuận gần đây, tức lợi suất lợi nhuận 8,33% trên giá mua. Anh ta có thể nhận tỷ suất cổ tức khoảng 4%, và 4,33% giá mua được tái đầu tư vào doanh nghiệp cho mình. Trên cơ sở này, phần sức sinh lời của cổ phiếu vượt lãi trái phiếu trong mười năm vẫn quá nhỏ để tạo biên an toàn đủ. (Theo các chương trước của sách, trái phiếu doanh nghiệp hạng cao lúc đó trả khoảng 7,5%; tính của người tổng hợp: phần vượt chỉ khoảng 0,8% mỗi năm, khoảng 8% sau mười năm, so với 50% ở các ấn bản trước.) Vì vậy Graham cho rằng hiện có rủi ro thật, kể cả trong một danh mục đa dạng gồm các cổ phiếu vững. Rủi ro đó có thể được bù hoàn toàn bằng cơ hội lợi nhuận của danh mục; và thật ra nhà đầu tư có thể không có lựa chọn nào khác ngoài chấp nhận chúng, vì nếu không anh ta sẽ chịu rủi ro còn lớn hơn khi chỉ giữ các khoản đòi nợ cố định trả bằng đồng đô la liên tục mất giá. Dù vậy, nhà đầu tư nên thừa nhận, và chấp nhận một cách triết lý nhất có thể, rằng sự kết hợp cũ giữa cơ hội lợi nhuận tốt và rủi ro rốt cuộc thấp không còn trong tầm tay. Chú thích của Zweig: đoạn văn Graham viết đầu năm 1972 này mô tả chính xác lạ lùng điều kiện thị trường đầu năm 2003 (xem thêm bình luận Chương 3, nơi Zweig cho rằng sau đợt giảm 2000–2002, cổ phiếu Mỹ vẫn chưa rẻ theo các thước đo lịch sử).
+Một phần chênh lệch được trả cho anh ta dưới dạng cổ tức; dù anh ta tiêu nó đi, nó vẫn nằm trong kết quả đầu tư tổng thể. Phần không chia được tái đầu tư vào doanh nghiệp cho anh ta. Trong nhiều trường hợp, lợi nhuận tái đầu tư không làm sức sinh lời và giá trị cổ phiếu tăng tương ứng; đó là lý do thị trường có thói quen dai dẳng định giá lợi nhuận trả làm cổ tức hào phóng hơn phần giữ lại.
+
+Chú thích của Zweig: vấn đề này được bàn kỹ trong phần bình luận Chương 19 (Zweig cho thấy các công ty trả cổ tức cao thường có lợi nhuận tương lai tăng nhanh hơn, và việc giữ lại lợi nhuận hay mua lại cổ phiếu nhiều khi phục vụ ban điều hành hơn cổ đông). Nhưng xét toàn cảnh, có mối liên hệ khá chặt giữa việc phần lợi nhuận giữ lại của doanh nghiệp tăng lên và giá trị doanh nghiệp tăng lên.
+
+Trong mười năm, phần sức sinh lời của cổ phiếu vượt lãi trái phiếu có thể cộng lại tới 50% giá đã trả (5% × 10 năm). Con số này đủ tạo một biên an toàn rất thật, mà trong điều kiện thuận lợi sẽ ngăn được hoặc giảm thiểu thua lỗ. Nếu biên như vậy có ở từng mã trong một danh mục đa dạng từ 20 mã trở lên, thì xác suất kết quả thuận lợi trong "điều kiện khá bình thường" trở nên rất lớn.
+
+Vì thế chính sách đầu tư vào cổ phiếu tiêu biểu không đòi hỏi óc sáng suốt và tầm nhìn xa đặc biệt để thành công. Nếu mua ở mức giá bình quân của thị trường trong nhiều năm, thì giá đã trả tự nó mang theo bảo đảm về một biên an toàn đủ. Nguy hiểm cho nhà đầu tư nằm ở việc dồn mua vào vùng giá cao của thị trường, hoặc mua những cổ phiếu không tiêu biểu có rủi ro sức sinh lời suy giảm cao hơn trung bình.
+
+**Vấn đề năm 1972.** Theo Graham, toàn bộ vấn đề của đầu tư cổ phiếu trong điều kiện 1972 nằm ở chỗ, "trong trường hợp điển hình", sức sinh lời nay thấp hơn nhiều so với 9% trên giá.
+
+Chú thích của Zweig: Graham tóm lại phần bàn này trong một bài giảng năm 1972 (tại trường kinh doanh Northeast Missouri State University, tháng 3/1972): biên an toàn là chênh lệch giữa tỷ lệ phần trăm lợi nhuận của cổ phiếu ở giá bạn trả và lãi suất trái phiếu, và chính chênh lệch này hấp thụ các diễn biến không như ý; thời ấn bản 1965, cổ phiếu điển hình bán ở 11 lần lợi nhuận, cho lợi suất khoảng 9% so với 4% của trái phiếu, tức biên an toàn hơn 100%; nay (1972) không còn chênh lệch giữa lợi suất lợi nhuận của cổ phiếu và lãi suất trái phiếu, nên không có biên an toàn, thậm chí là "biên an toàn âm" đối với cổ phiếu.
+
+Graham giả định: nếu tập trung phần nào vào các cổ phiếu có P/E thấp trong số các công ty lớn, nhà đầu tư phòng thủ nay có thể mua ở 12 lần lợi nhuận gần đây, tức lợi suất lợi nhuận 8,33% trên giá mua. Anh ta có thể nhận tỷ suất cổ tức khoảng 4%, và 4,33% giá mua được tái đầu tư vào doanh nghiệp cho mình. Trên cơ sở này, phần sức sinh lời của cổ phiếu vượt lãi trái phiếu trong mười năm vẫn quá nhỏ để tạo biên an toàn đủ. (Theo các chương trước của sách, trái phiếu doanh nghiệp hạng cao lúc đó trả khoảng 7,5%; tính của người tổng hợp: phần vượt chỉ khoảng 0,8% mỗi năm, khoảng 8% sau mười năm, so với 50% ở các ấn bản trước.)
+
+Vì vậy Graham cho rằng hiện có rủi ro thật, kể cả trong một danh mục đa dạng gồm các cổ phiếu vững. Rủi ro đó có thể được bù hoàn toàn bằng cơ hội lợi nhuận của danh mục; và thật ra nhà đầu tư có thể không có lựa chọn nào khác ngoài chấp nhận chúng, vì nếu không anh ta sẽ chịu rủi ro còn lớn hơn khi chỉ giữ các khoản đòi nợ cố định trả bằng đồng đô la liên tục mất giá.
+
+Dù vậy, nhà đầu tư nên thừa nhận, và chấp nhận một cách triết lý nhất có thể, rằng sự kết hợp cũ giữa cơ hội lợi nhuận tốt và rủi ro rốt cuộc thấp không còn trong tầm tay. Chú thích của Zweig: đoạn văn Graham viết đầu năm 1972 này mô tả chính xác lạ lùng điều kiện thị trường đầu năm 2003 (xem thêm bình luận Chương 3, nơi Zweig cho rằng sau đợt giảm 2000–2002, cổ phiếu Mỹ vẫn chưa rẻ theo các thước đo lịch sử).
 
 #### 3. Tổn thất lớn nhất: chứng khoán kém chất lượng mua lúc kinh tế tốt (Chương 20, phần mở đầu, PDF trang 431)
 
-Tuy nhiên, rủi ro trả giá quá cao cho cổ phiếu chất lượng tốt, dù có thật, không phải nguy hiểm chính mà người mua chứng khoán trung bình gặp phải. Quan sát nhiều năm cho Graham thấy tổn thất chính của nhà đầu tư đến từ việc **mua chứng khoán chất lượng thấp trong thời kỳ kinh tế thuận lợi**. Người mua coi lợi nhuận tốt hiện tại như "sức sinh lời", và cho rằng thịnh vượng đồng nghĩa với an toàn. Chính trong những năm đó, trái phiếu và cổ phiếu ưu đãi hạng thấp bán được cho công chúng ở giá gần mệnh giá, vì chúng trả thu nhập hơi cao hơn một chút hoặc có quyền chuyển đổi hấp dẫn một cách đánh lừa. Cũng lúc đó, cổ phiếu của những công ty vô danh được đưa ra thị trường ở giá cao hơn hẳn khoản vốn hữu hình bỏ vào, dựa trên hai ba năm tăng trưởng xuất sắc.
+Tuy nhiên, rủi ro trả giá quá cao cho cổ phiếu chất lượng tốt, dù có thật, không phải nguy hiểm chính mà người mua chứng khoán trung bình gặp phải. Quan sát nhiều năm cho Graham thấy tổn thất chính của nhà đầu tư đến từ việc **mua chứng khoán chất lượng thấp trong thời kỳ kinh tế thuận lợi**. Người mua coi lợi nhuận tốt hiện tại như "sức sinh lời", và cho rằng thịnh vượng đồng nghĩa với an toàn.
+
+Chính trong những năm đó, trái phiếu và cổ phiếu ưu đãi hạng thấp bán được cho công chúng ở giá gần mệnh giá, vì chúng trả thu nhập hơi cao hơn một chút hoặc có quyền chuyển đổi hấp dẫn một cách đánh lừa. Cũng lúc đó, cổ phiếu của những công ty vô danh được đưa ra thị trường ở giá cao hơn hẳn khoản vốn hữu hình bỏ vào, dựa trên hai ba năm tăng trưởng xuất sắc.
 
 Các chứng khoán này không có biên an toàn đủ theo bất kỳ nghĩa chấp nhận được nào. Khả năng trang trải lãi vay và cổ tức ưu đãi phải được kiểm tra qua nhiều năm, tốt nhất gồm cả một giai đoạn kinh doanh dưới mức bình thường như 1970–1971. Lợi nhuận của cổ phiếu cũng vậy, nếu muốn coi nó là chỉ báo sức sinh lời. Do đó, phần lớn các khoản đầu tư "trời đẹp", mua ở giá "trời đẹp", sẽ chịu các đợt giảm giá đáng lo khi trời chuyển mây, và thường còn sớm hơn thế. Nhà đầu tư cũng không thể tự tin trông vào sự phục hồi sau đó (dù điều này xảy ra với một tỷ lệ trường hợp nào đó), vì anh ta chưa bao giờ có một biên an toàn thật để chống đỡ trong nghịch cảnh.
 
 #### 4. Cổ phiếu tăng trưởng và cổ phiếu giá hời (Chương 20, phần mở đầu, PDF trang 431–432)
 
-**Cổ phiếu tăng trưởng.** Triết lý đầu tư vào cổ phiếu tăng trưởng một phần phù hợp, một phần trái với nguyên tắc biên an toàn. Người mua cổ phiếu tăng trưởng dựa vào sức sinh lời kỳ vọng cao hơn mức bình quân quá khứ; có thể nói anh ta đã thay hồ sơ quá khứ bằng lợi nhuận kỳ vọng khi tính biên an toàn. Về lý thuyết đầu tư, không có lý do gì để lợi nhuận tương lai được ước tính cẩn thận lại kém tin cậy hơn hồ sơ quá khứ đơn thuần; thật ra phân tích chứng khoán ngày càng ưu tiên một đánh giá tương lai làm có năng lực. Vì thế cách tiếp cận cổ phiếu tăng trưởng có thể cho biên an toàn đáng tin như đầu tư thông thường, **với điều kiện** việc tính toán tương lai được làm thận trọng **và** kết quả cho thấy một biên thoả đáng so với giá trả.
+**Cổ phiếu tăng trưởng.** Triết lý đầu tư vào cổ phiếu tăng trưởng một phần phù hợp, một phần trái với nguyên tắc biên an toàn. Người mua cổ phiếu tăng trưởng dựa vào sức sinh lời kỳ vọng cao hơn mức bình quân quá khứ; có thể nói anh ta đã thay hồ sơ quá khứ bằng lợi nhuận kỳ vọng khi tính biên an toàn.
 
-Nguy hiểm của chương trình cổ phiếu tăng trưởng nằm đúng ở đó. Với các cổ phiếu được ưa chuộng này, thị trường có xu hướng đặt giá cao hơn mức mà một dự phóng thận trọng về lợi nhuận tương lai có thể che chắn. Graham nêu một quy tắc cơ bản của đầu tư thận trọng: mọi ước tính, khi khác với kết quả quá khứ, phải sai ít nhất một chút về phía đánh giá thấp. **Biên an toàn luôn phụ thuộc vào giá trả: nó lớn ở một mức giá, nhỏ ở mức giá cao hơn, và không còn ở mức giá cao hơn nữa.** Nếu như Graham gợi ý, mức giá bình quân của phần lớn cổ phiếu tăng trưởng quá cao để cho người mua một biên an toàn đủ, thì kỹ thuật đơn giản là mua dàn trải trong nhóm này có thể không cho kết quả thoả đáng. Sẽ cần một mức độ nhìn xa và phán đoán đặc biệt, để những lựa chọn cá biệt khôn ngoan có thể vượt qua rủi ro vốn có trong mức giá thường thấy của cả nhóm.
+Về lý thuyết đầu tư, không có lý do gì để lợi nhuận tương lai được ước tính cẩn thận lại kém tin cậy hơn hồ sơ quá khứ đơn thuần; thật ra phân tích chứng khoán ngày càng ưu tiên một đánh giá tương lai làm có năng lực. Vì thế cách tiếp cận cổ phiếu tăng trưởng có thể cho biên an toàn đáng tin như đầu tư thông thường, **với điều kiện** việc tính toán tương lai được làm thận trọng **và** kết quả cho thấy một biên thoả đáng so với giá trả.
 
-**Cổ phiếu giá hời.** Ý tưởng biên an toàn hiện ra rõ hơn nhiều khi áp vào lĩnh vực chứng khoán bị định giá thấp hay giá hời. Ở đây, theo định nghĩa, có một chênh lệch thuận lợi giữa một bên là giá, bên kia là giá trị được chỉ ra hoặc ước tính. Chênh lệch đó là biên an toàn. Nó có sẵn để hấp thụ ảnh hưởng của sai sót tính toán hoặc vận may kém hơn trung bình. Người mua món hời đặc biệt chú trọng khả năng khoản đầu tư chịu được các diễn biến bất lợi, vì trong đa số trường hợp anh ta không thật sự hào hứng với triển vọng của công ty. Đúng là nếu triển vọng thực sự xấu, nhà đầu tư sẽ thích tránh chứng khoán đó bất kể giá. Nhưng lĩnh vực chứng khoán bị định giá thấp được rút ra từ rất nhiều doanh nghiệp, có lẽ là đa số, mà tương lai không rõ ràng hứa hẹn cũng không rõ ràng ảm đạm. Nếu mua chúng ở điều kiện có lợi, thì kể cả khi sức sinh lời giảm vừa phải, khoản đầu tư vẫn cho kết quả thoả đáng. Khi đó biên an toàn đã làm xong nhiệm vụ.
+Nguy hiểm của chương trình cổ phiếu tăng trưởng nằm đúng ở đó. Với các cổ phiếu được ưa chuộng này, thị trường có xu hướng đặt giá cao hơn mức mà một dự phóng thận trọng về lợi nhuận tương lai có thể che chắn. Graham nêu một quy tắc cơ bản của đầu tư thận trọng: mọi ước tính, khi khác với kết quả quá khứ, phải sai ít nhất một chút về phía đánh giá thấp.
+
+**Biên an toàn luôn phụ thuộc vào giá trả: nó lớn ở một mức giá, nhỏ ở mức giá cao hơn, và không còn ở mức giá cao hơn nữa.** Nếu như Graham gợi ý, mức giá bình quân của phần lớn cổ phiếu tăng trưởng quá cao để cho người mua một biên an toàn đủ, thì kỹ thuật đơn giản là mua dàn trải trong nhóm này có thể không cho kết quả thoả đáng. Sẽ cần một mức độ nhìn xa và phán đoán đặc biệt, để những lựa chọn cá biệt khôn ngoan có thể vượt qua rủi ro vốn có trong mức giá thường thấy của cả nhóm.
+
+**Cổ phiếu giá hời.** Ý tưởng biên an toàn hiện ra rõ hơn nhiều khi áp vào lĩnh vực chứng khoán bị định giá thấp hay giá hời. Ở đây, theo định nghĩa, có một chênh lệch thuận lợi giữa một bên là giá, bên kia là giá trị được chỉ ra hoặc ước tính. Chênh lệch đó là biên an toàn. Nó có sẵn để hấp thụ ảnh hưởng của sai sót tính toán hoặc vận may kém hơn trung bình.
+
+Người mua món hời đặc biệt chú trọng khả năng khoản đầu tư chịu được các diễn biến bất lợi, vì trong đa số trường hợp anh ta không thật sự hào hứng với triển vọng của công ty. Đúng là nếu triển vọng thực sự xấu, nhà đầu tư sẽ thích tránh chứng khoán đó bất kể giá. Nhưng lĩnh vực chứng khoán bị định giá thấp được rút ra từ rất nhiều doanh nghiệp, có lẽ là đa số, mà tương lai không rõ ràng hứa hẹn cũng không rõ ràng ảm đạm. Nếu mua chúng ở điều kiện có lợi, thì kể cả khi sức sinh lời giảm vừa phải, khoản đầu tư vẫn cho kết quả thoả đáng. Khi đó biên an toàn đã làm xong nhiệm vụ.
 
 #### 5. Lý thuyết đa dạng hoá (Théorie de la diversification, PDF trang 432–433)
 
 Có mối liên hệ logic chặt chẽ giữa khái niệm biên an toàn và nguyên tắc đa dạng hoá; cái này là hệ quả tương ứng của cái kia. Ngay cả khi có biên nghiêng về phía nhà đầu tư, một chứng khoán riêng lẻ vẫn có thể cho kết quả xấu, vì biên chỉ bảo đảm rằng anh ta có cơ hội lãi tốt hơn cơ hội lỗ, chứ không bảo đảm rằng lỗ là không thể. Nhưng khi số lượng các khoản như vậy tăng lên, thì càng chắc chắn rằng tổng lãi sẽ vượt tổng lỗ. Đó là nền tảng đơn giản của kinh doanh bảo hiểm.
 
-Đa dạng hoá là một nguyên tắc đã được thừa nhận của đầu tư thận trọng. Khi chấp nhận nó rộng rãi như vậy, nhà đầu tư thực ra đã chứng tỏ họ chấp nhận nguyên tắc biên an toàn, mà đa dạng hoá là bạn đồng hành. Graham làm cho điều này sinh động bằng số học của trò cò quay (roulette). Nếu một người đặt 1 USD vào một số, anh ta lãi 35 USD khi trúng, nhưng tỷ lệ là 37 ăn 1 rằng anh ta thua. Anh ta có "biên an toàn âm". Với anh ta, đa dạng hoá là dại dột: càng đặt nhiều số, cơ hội kết thúc với lãi càng ít. Nếu đều đặn đặt 1 USD vào mọi số (kể cả 0 và 00), chắc chắn anh ta mất 2 USD mỗi vòng quay. Nhưng giả sử người trúng được lãi 39 USD thay vì 35 USD. Khi đó anh ta có một biên an toàn nhỏ nhưng quan trọng. Vì thế càng đặt nhiều số, cơ hội thắng càng tốt; và anh ta có thể chắc chắn thắng 2 USD mỗi vòng chỉ bằng cách đặt 1 USD vào tất cả các số. Graham nói thêm rằng hai ví dụ này thực ra mô tả lần lượt vị thế của người chơi và của chủ một bàn quay có ô 0 và 00.
+Đa dạng hoá là một nguyên tắc đã được thừa nhận của đầu tư thận trọng. Khi chấp nhận nó rộng rãi như vậy, nhà đầu tư thực ra đã chứng tỏ họ chấp nhận nguyên tắc biên an toàn, mà đa dạng hoá là bạn đồng hành.
 
-Chú thích của Zweig: trong cò quay "kiểu Mỹ", phần lớn bàn quay có ô 0 và 00 cùng các số từ 1 đến 36, tổng cộng 38 ô. Sòng trả tối đa 35 ăn 1. Nếu đặt 1 USD vào mọi số, chỉ một ô là nơi bi rơi vào: bạn thắng 35 USD ở ô đó nhưng mất 1 USD ở mỗi ô trong 37 ô còn lại, lỗ ròng 2 USD. Chênh lệch 2 USD đó (tức 5,26% trên tổng tiền cược 38 USD) là "lợi thế nhà cái", bảo đảm rằng bình quân người chơi cò quay luôn thua nhiều hơn thắng. Người chơi có lợi khi đặt cược càng ít lần càng tốt, còn sòng bạc có lợi khi bàn quay quay càng nhiều càng tốt. Tương tự, nhà đầu tư thông minh nên tìm cách tăng tối đa số khoản nắm giữ có "cơ hội lãi tốt hơn cơ hội lỗ". Với phần lớn nhà đầu tư, đa dạng hoá là cách đơn giản và rẻ nhất để nới rộng biên an toàn.
+Graham làm cho điều này sinh động bằng số học của trò cò quay (roulette). Nếu một người đặt 1 USD vào một số, anh ta lãi 35 USD khi trúng, nhưng tỷ lệ là 37 ăn 1 rằng anh ta thua. Anh ta có "biên an toàn âm". Với anh ta, đa dạng hoá là dại dột: càng đặt nhiều số, cơ hội kết thúc với lãi càng ít. Nếu đều đặn đặt 1 USD vào mọi số (kể cả 0 và 00), chắc chắn anh ta mất 2 USD mỗi vòng quay.
+
+Nhưng giả sử người trúng được lãi 39 USD thay vì 35 USD. Khi đó anh ta có một biên an toàn nhỏ nhưng quan trọng. Vì thế càng đặt nhiều số, cơ hội thắng càng tốt; và anh ta có thể chắc chắn thắng 2 USD mỗi vòng chỉ bằng cách đặt 1 USD vào tất cả các số. Graham nói thêm rằng hai ví dụ này thực ra mô tả lần lượt vị thế của người chơi và của chủ một bàn quay có ô 0 và 00.
+
+Chú thích của Zweig: trong cò quay "kiểu Mỹ", phần lớn bàn quay có ô 0 và 00 cùng các số từ 1 đến 36, tổng cộng 38 ô. Sòng trả tối đa 35 ăn 1. Nếu đặt 1 USD vào mọi số, chỉ một ô là nơi bi rơi vào: bạn thắng 35 USD ở ô đó nhưng mất 1 USD ở mỗi ô trong 37 ô còn lại, lỗ ròng 2 USD. Chênh lệch 2 USD đó (tức 5,26% trên tổng tiền cược 38 USD) là "lợi thế nhà cái", bảo đảm rằng bình quân người chơi cò quay luôn thua nhiều hơn thắng.
+
+Người chơi có lợi khi đặt cược càng ít lần càng tốt, còn sòng bạc có lợi khi bàn quay quay càng nhiều càng tốt. Tương tự, nhà đầu tư thông minh nên tìm cách tăng tối đa số khoản nắm giữ có "cơ hội lãi tốt hơn cơ hội lỗ". Với phần lớn nhà đầu tư, đa dạng hoá là cách đơn giản và rẻ nhất để nới rộng biên an toàn.
 
 Bảng dưới đây (người tổng hợp lập từ các con số trong văn bản) tóm tắt hai vị thế:
 
@@ -483,7 +506,9 @@ Tóm lại, Graham nói: **muốn có một khoản đầu tư thật thì phả
 
 **Đầu tư không thông thường** chỉ phù hợp với nhà đầu tư năng động, và trải rộng. Nhóm lớn nhất là cổ phiếu bị định giá thấp của các công ty hạng hai, mà Graham khuyên mua khi có thể mua ở **hai phần ba giá trị được chỉ ra hoặc thấp hơn**. Ngoài ra thường có rất nhiều trái phiếu doanh nghiệp và cổ phiếu ưu đãi hạng trung bình bán ở giá thấp tới mức cũng mua được với chiết khấu đáng kể so với giá trị biểu kiến. Trong các trường hợp này, nhà đầu tư trung bình hay gọi chúng là đầu cơ, vì trong đầu anh ta, việc không được xếp hạng chất lượng cao đồng nghĩa với không có giá trị đầu tư.
 
-Graham cho rằng **một giá đủ thấp có thể biến một chứng khoán chất lượng trung bình thành một cơ hội đầu tư vững chắc**, với điều kiện người mua có hiểu biết, có kinh nghiệm và đa dạng hoá đầy đủ. Vì nếu giá đủ thấp để tạo một biên an toàn đáng kể, chứng khoán đó đạt tiêu chuẩn đầu tư của Graham. Ví dụ ông ưa dùng nhất là trái phiếu bất động sản. Trong thập niên 1920, hàng tỷ USD trái phiếu loại này được bán ở mệnh giá và được giới thiệu rộng rãi như khoản đầu tư hợp lý. Một phần lớn trong số đó có biên giá trị trên nợ mỏng tới mức thực chất mang tính đầu cơ cao. Trong cuộc suy thoái thập niên 1930, một lượng khổng lồ trái phiếu này vỡ nợ tiền lãi và giá sụp đổ, có trường hợp xuống dưới 10 xu cho mỗi đô la mệnh giá. Lúc đó, chính những người tư vấn từng giới thiệu chúng ở mệnh giá như khoản đầu tư an toàn lại gạt bỏ chúng như loại giấy tờ đầu cơ nhất và kém hấp dẫn nhất. Nhưng thật ra, mức giảm giá khoảng 90% đã khiến nhiều chứng khoán trong số đó cực kỳ hấp dẫn và khá an toàn, vì giá trị thật đứng sau chúng gấp bốn đến năm lần giá thị trường.
+Graham cho rằng **một giá đủ thấp có thể biến một chứng khoán chất lượng trung bình thành một cơ hội đầu tư vững chắc**, với điều kiện người mua có hiểu biết, có kinh nghiệm và đa dạng hoá đầy đủ. Vì nếu giá đủ thấp để tạo một biên an toàn đáng kể, chứng khoán đó đạt tiêu chuẩn đầu tư của Graham. Ví dụ ông ưa dùng nhất là trái phiếu bất động sản. Trong thập niên 1920, hàng tỷ USD trái phiếu loại này được bán ở mệnh giá và được giới thiệu rộng rãi như khoản đầu tư hợp lý. Một phần lớn trong số đó có biên giá trị trên nợ mỏng tới mức thực chất mang tính đầu cơ cao.
+
+Trong cuộc suy thoái thập niên 1930, một lượng khổng lồ trái phiếu này vỡ nợ tiền lãi và giá sụp đổ, có trường hợp xuống dưới 10 xu cho mỗi đô la mệnh giá. Lúc đó, chính những người tư vấn từng giới thiệu chúng ở mệnh giá như khoản đầu tư an toàn lại gạt bỏ chúng như loại giấy tờ đầu cơ nhất và kém hấp dẫn nhất. Nhưng thật ra, mức giảm giá khoảng 90% đã khiến nhiều chứng khoán trong số đó cực kỳ hấp dẫn và khá an toàn, vì giá trị thật đứng sau chúng gấp bốn đến năm lần giá thị trường.
 
 Chú thích của Zweig: Graham nói không có cổ phiếu tốt hay cổ phiếu xấu; chỉ có cổ phiếu rẻ và cổ phiếu đắt. Ngay cả doanh nghiệp tốt nhất cũng thành đáng "bán" khi giá cổ phiếu quá cao, còn doanh nghiệp tệ nhất cũng đáng mua nếu giá cổ phiếu giảm đủ sâu.
 
@@ -493,9 +518,13 @@ Chú thích của Zweig: chính những người coi cổ phiếu công nghệ v
 
 **Tình huống đặc biệt.** Toàn bộ lĩnh vực "tình huống đặc biệt" thuộc định nghĩa đầu tư của Graham, vì việc mua luôn dựa trên phân tích kỹ lưỡng hứa hẹn thu về nhiều hơn giá trả. Ở đây cũng có yếu tố rủi ro trong từng trường hợp, nhưng chúng được tính vào các phép tính và được hấp thụ trong kết quả chung của một hoạt động đa dạng hoá.
 
-**Ví dụ cực đoan: chứng quyền.** Đẩy lập luận tới giới hạn logic, Graham gợi ý rằng có thể dựng một thương vụ đầu tư bảo vệ được bằng cách mua những giá trị vô hình, đại diện bởi một nhóm "chứng quyền mua cổ phiếu" đang bán ở giá thấp lịch sử. Ông nói rõ ví dụ này được chọn để gây sốc đôi chút. Chú thích của Zweig: Graham dùng "chứng quyền mua cổ phiếu" như từ đồng nghĩa với "chứng quyền" (warrant), chứng khoán do chính công ty phát hành cho người giữ quyền mua cổ phiếu của công ty ở giá định trước; chứng quyền nay gần như đã bị quyền chọn mua cổ phiếu thay thế. Graham nói ví dụ sẽ "gây sốc" vì ngay thời ông, chứng quyền đã bị coi là một trong những góc tối tệ nhất của thị trường (xem bình luận Chương 16, nơi chứng quyền được mô tả là công cụ pha loãng quyền lợi cổ đông).
+**Ví dụ cực đoan: chứng quyền.** Đẩy lập luận tới giới hạn logic, Graham gợi ý rằng có thể dựng một thương vụ đầu tư bảo vệ được bằng cách mua những giá trị vô hình, đại diện bởi một nhóm "chứng quyền mua cổ phiếu" đang bán ở giá thấp lịch sử. Ông nói rõ ví dụ này được chọn để gây sốc đôi chút.
 
-Toàn bộ giá trị của các chứng quyền này dựa trên khả năng cổ phiếu liên quan một ngày nào đó vượt giá thực hiện. Hiện tại chúng không có giá trị thực hiện nào. Nhưng vì mọi khoản đầu tư đều dựa trên kỳ vọng tương lai hợp lý, nên cần xét các chứng quyền này theo xác suất toán học rằng một đợt thị trường tăng nào đó trong tương lai sẽ làm giá trị biểu kiến và giá của chúng tăng mạnh. Một nghiên cứu như vậy có thể đi tới kết luận rằng thương vụ có nhiều để được hơn để mất, và cơ hội lãi sau cùng tốt hơn nhiều so với cơ hội lỗ sau cùng. Nếu vậy, có một biên an toàn ngay cả trong loại chứng khoán khiêm tốn này. Một nhà đầu tư đủ năng động khi đó có thể đưa một thương vụ chứng quyền vào nhóm đầu tư không thông thường của mình. Chú thích của Graham: lập luận này được Paul Hallingby Jr. ủng hộ trong bài "Cơ hội đầu cơ ở chứng quyền mua cổ phiếu" (Speculative Opportunities in Stock-Purchase Warrants), quý III năm 1947.
+Chú thích của Zweig: Graham dùng "chứng quyền mua cổ phiếu" như từ đồng nghĩa với "chứng quyền" (warrant), chứng khoán do chính công ty phát hành cho người giữ quyền mua cổ phiếu của công ty ở giá định trước; chứng quyền nay gần như đã bị quyền chọn mua cổ phiếu thay thế. Graham nói ví dụ sẽ "gây sốc" vì ngay thời ông, chứng quyền đã bị coi là một trong những góc tối tệ nhất của thị trường (xem bình luận Chương 16, nơi chứng quyền được mô tả là công cụ pha loãng quyền lợi cổ đông).
+
+Toàn bộ giá trị của các chứng quyền này dựa trên khả năng cổ phiếu liên quan một ngày nào đó vượt giá thực hiện. Hiện tại chúng không có giá trị thực hiện nào. Nhưng vì mọi khoản đầu tư đều dựa trên kỳ vọng tương lai hợp lý, nên cần xét các chứng quyền này theo xác suất toán học rằng một đợt thị trường tăng nào đó trong tương lai sẽ làm giá trị biểu kiến và giá của chúng tăng mạnh.
+
+Một nghiên cứu như vậy có thể đi tới kết luận rằng thương vụ có nhiều để được hơn để mất, và cơ hội lãi sau cùng tốt hơn nhiều so với cơ hội lỗ sau cùng. Nếu vậy, có một biên an toàn ngay cả trong loại chứng khoán khiêm tốn này. Một nhà đầu tư đủ năng động khi đó có thể đưa một thương vụ chứng quyền vào nhóm đầu tư không thông thường của mình. Chú thích của Graham: lập luận này được Paul Hallingby Jr. ủng hộ trong bài "Cơ hội đầu cơ ở chứng quyền mua cổ phiếu" (Speculative Opportunities in Stock-Purchase Warrants), quý III năm 1947.
 
 #### 8. Tóm lại (Pour résumer, PDF trang 436–437)
 
@@ -518,7 +547,9 @@ Zweig mở phần bình luận bằng lời của đặc vụ Fox Mulder trong p
 
 **Rủi ro là gì?** Câu trả lời khác nhau tuỳ hỏi ai và hỏi lúc nào. Năm 1999, rủi ro không có nghĩa là mất tiền, mà là kiếm ít tiền hơn người khác. Điều nhiều người sợ là gặp ở một bữa tiệc nướng ai đó đang giàu lên nhanh hơn nhờ lướt sóng cổ phiếu dot-com trong ngày. Rồi đột nhiên, năm 2003, rủi ro lại có nghĩa là thị trường chứng khoán có thể tiếp tục giảm tới khi xoá sạch mọi dấu vết tài sản còn lại của bạn.
 
-Dù nghĩa của nó có vẻ thất thường, dao động như chính thị trường tài chính, rủi ro có những thuộc tính sâu xa và bền vững. Những người đặt cược lớn nhất và thu lãi lớn nhất trong thị trường tăng gần như luôn là những người bị đánh mạnh nhất trong thị trường giảm chắc chắn đến sau đó. (Việc đã "đúng" làm người đầu cơ càng muốn nhận thêm rủi ro, vì sự tự tin của họ bốc lửa.) Và một khi đã mất nhiều tiền, bạn phải đánh còn mạnh hơn chỉ để trở lại chỗ cũ, giống con bạc ở trường đua ngựa hay sòng bạc tuyệt vọng gấp đôi tiền cược sau mỗi lần thua. Trừ khi may mắn phi thường, đó là công thức dẫn tới thảm hoạ. Không lạ khi được hỏi tóm lại mọi điều đã học được trong sự nghiệp dài về cách làm giàu, nhà tài chính huyền thoại J. K. Klingenstein của Wertheim & Co. trả lời gọn: "Đừng thua lỗ." Chú thích 1 của Zweig: chuyện này do nhà tư vấn đầu tư Charles Ellis kể, trong bài của Zweig "The Wisest Man on Wall Street" (Người khôn ngoan nhất Phố Wall), tạp chí *Money*, tháng 6/2001.
+Dù nghĩa của nó có vẻ thất thường, dao động như chính thị trường tài chính, rủi ro có những thuộc tính sâu xa và bền vững. Những người đặt cược lớn nhất và thu lãi lớn nhất trong thị trường tăng gần như luôn là những người bị đánh mạnh nhất trong thị trường giảm chắc chắn đến sau đó. (Việc đã "đúng" làm người đầu cơ càng muốn nhận thêm rủi ro, vì sự tự tin của họ bốc lửa.) Và một khi đã mất nhiều tiền, bạn phải đánh còn mạnh hơn chỉ để trở lại chỗ cũ, giống con bạc ở trường đua ngựa hay sòng bạc tuyệt vọng gấp đôi tiền cược sau mỗi lần thua. Trừ khi may mắn phi thường, đó là công thức dẫn tới thảm hoạ.
+
+Không lạ khi được hỏi tóm lại mọi điều đã học được trong sự nghiệp dài về cách làm giàu, nhà tài chính huyền thoại J. K. Klingenstein của Wertheim & Co. trả lời gọn: "Đừng thua lỗ." Chú thích 1 của Zweig: chuyện này do nhà tư vấn đầu tư Charles Ellis kể, trong bài của Zweig "The Wisest Man on Wall Street" (Người khôn ngoan nhất Phố Wall), tạp chí *Money*, tháng 6/2001.
 
 **Hình 20-1 "Chi phí của thua lỗ" (Le coût de la perte).** Lời chú thích của hình: hãy tưởng tượng bạn tìm được một cổ phiếu mà bạn tin có thể tăng 10% mỗi năm, trong khi thị trường chỉ tăng 5% mỗi năm. Tiếc là bạn hào hứng đến mức trả giá quá cao, và cổ phiếu mất 50% giá trị ngay năm đầu. Dù sau đó cổ phiếu cho lợi suất gấp đôi thị trường, bạn vẫn cần hơn 16 năm để vượt được thị trường, chỉ vì đã trả quá đắt và mất quá nhiều lúc đầu. (Phần biểu đồ bị mất trong bản PDF; bảng dưới do người tổng hợp tính lại từ đúng các giả định trên, với số vốn ban đầu giả định 10.000 USD.)
 
@@ -551,7 +582,9 @@ Giải thích: dù tăng nhanh gấp đôi thị trường từ năm thứ hai, 
 
 **Mất ít thì được, mất nhiều thì không.** Mất *một ít* tiền là phần không tránh được của đầu tư, và bạn không làm gì để ngăn được. Nhưng để là nhà đầu tư thông minh, bạn phải bảo đảm không bao giờ mất *phần lớn hoặc toàn bộ* tiền của mình. Nữ thần của cải trong Ấn Độ giáo, Lakshmi, thường được tạc đứng nhón chân, sẵn sàng vụt đi trong nháy mắt. Để giữ bà lại (theo nghĩa tượng trưng), một số tín đồ quất tượng bằng dải vải hoặc đóng đinh chân tượng xuống đất. Với nhà đầu tư thông minh, "biên an toàn" của Graham làm đúng chức năng đó: bằng cách từ chối trả quá đắt cho một khoản đầu tư, bạn giảm tối đa khả năng tài sản của mình biến mất hay bị huỷ hoại đột ngột.
 
-**Ví dụ JDS Uniphase.** Trong bốn quý kết thúc tháng 12/1999, JDS Uniphase Corp., công ty cáp quang, có doanh thu thuần 673 triệu USD, và lỗ 313 triệu USD trên doanh thu đó. Tài sản hữu hình của công ty tổng cộng 1,5 tỷ USD. Thế nhưng ngày 7/3/2000, cổ phiếu JDS Uniphase lên tới 153 USD, khiến tổng giá trị thị trường của công ty vào khoảng 143 tỷ USD. (Tính của người tổng hợp: giá trị thị trường gấp khoảng 212 lần doanh thu một năm và khoảng 95 lần tài sản hữu hình, cho một công ty đang lỗ.) Chú thích 2 của Zweig: giá cổ phiếu JDS Uniphase đã được điều chỉnh theo các lần tách cổ phiếu sau đó. Rồi, như phần lớn cổ phiếu "Kỷ nguyên mới" (New Era), nó sụp đổ. Ai mua hôm đó và còn giữ tới cuối 2002 đối mặt với triển vọng sau.
+**Ví dụ JDS Uniphase.** Trong bốn quý kết thúc tháng 12/1999, JDS Uniphase Corp., công ty cáp quang, có doanh thu thuần 673 triệu USD, và lỗ 313 triệu USD trên doanh thu đó. Tài sản hữu hình của công ty tổng cộng 1,5 tỷ USD.
+
+Thế nhưng ngày 7/3/2000, cổ phiếu JDS Uniphase lên tới 153 USD, khiến tổng giá trị thị trường của công ty vào khoảng 143 tỷ USD. (Tính của người tổng hợp: giá trị thị trường gấp khoảng 212 lần doanh thu một năm và khoảng 95 lần tài sản hữu hình, cho một công ty đang lỗ.) Chú thích 2 của Zweig: giá cổ phiếu JDS Uniphase đã được điều chỉnh theo các lần tách cổ phiếu sau đó. Rồi, như phần lớn cổ phiếu "Kỷ nguyên mới" (New Era), nó sụp đổ. Ai mua hôm đó và còn giữ tới cuối 2002 đối mặt với triển vọng sau.
 
 **Hình 20-2 "Hoà vốn thật khó" (Rompre est difficile à faire).** Lời chú thích của hình: nếu bạn mua JDS Uniphase ở giá đỉnh 153,421 USD ngày 7/3/2000 và vẫn giữ tới cuối 2002 (giá đóng cửa 2,47 USD), bạn cần bao lâu để về lại giá mua ở các mức lợi suất bình quân năm khác nhau? (Phần biểu đồ bị mất trong bản PDF; bảng dưới do người tổng hợp tính lại: giá phải tăng từ 2,47 USD lên 153,421 USD, tức gấp khoảng 62,1 lần; số năm bằng ln(62,1) chia cho ln(1 + lợi suất).)
 
@@ -595,7 +628,11 @@ Theo lời nhà tâm lý học Paul Slovic mà Zweig trích, bạn phải luôn 
 
 #### 3. Vụ đánh cược của Pascal (Le pari de Pascal, PDF trang 442–443)
 
-Nhà triết học đầu tư Peter Bernstein có một cách khác để tóm lại điều này. Ông quay về Blaise Pascal (1623–1662), nhà toán học và thần học lớn người Pháp, người dựng một thí nghiệm tư duy trong đó một người theo thuyết bất khả tri phải đánh cược Chúa có tồn tại hay không. Thứ người đó đặt cược là cách sống của mình ở đời này; phần thắng thua sau cùng là số phận linh hồn ở thế giới bên kia. Pascal khẳng định trong vụ cược này "lý trí không thể quyết định" xác suất Chúa tồn tại: Chúa có hoặc không, và chỉ đức tin, không phải lý trí, trả lời được câu hỏi đó. Nhưng dù xác suất trong vụ cược của Pascal chỉ như tung đồng xu, hậu quả thì hoàn toàn rõ ràng và chắc chắn. Bernstein giải thích: giả sử bạn sống như thể Chúa có thật, đức hạnh và tiết chế, trong khi thật ra không có Chúa; bạn sẽ mất vài thú vui trong đời nhưng cũng có phần thưởng. Giả sử bạn sống như thể Chúa không có, sống tội lỗi, ích kỷ, dục vọng, trong khi Chúa thật sự có; bạn có thể đã vui thú trong đời sống tương đối ngắn ngủi, nhưng khi ngày phán xét đến, bạn gặp rắc rối lớn. Chú thích 5 của Zweig: "The Wager" trong *Pensées* của Pascal (Penguin Books, 1995); Peter L. Bernstein, *Against the Gods* (John Wiley & Sons, 1996); Peter L. Bernstein, "Decision Theory in Iambic Pentameter", *Economics & Portfolio Strategy*, 1/1/2003.
+Nhà triết học đầu tư Peter Bernstein có một cách khác để tóm lại điều này. Ông quay về Blaise Pascal (1623–1662), nhà toán học và thần học lớn người Pháp, người dựng một thí nghiệm tư duy trong đó một người theo thuyết bất khả tri phải đánh cược Chúa có tồn tại hay không. Thứ người đó đặt cược là cách sống của mình ở đời này; phần thắng thua sau cùng là số phận linh hồn ở thế giới bên kia.
+
+Pascal khẳng định trong vụ cược này "lý trí không thể quyết định" xác suất Chúa tồn tại: Chúa có hoặc không, và chỉ đức tin, không phải lý trí, trả lời được câu hỏi đó. Nhưng dù xác suất trong vụ cược của Pascal chỉ như tung đồng xu, hậu quả thì hoàn toàn rõ ràng và chắc chắn.
+
+Bernstein giải thích: giả sử bạn sống như thể Chúa có thật, đức hạnh và tiết chế, trong khi thật ra không có Chúa; bạn sẽ mất vài thú vui trong đời nhưng cũng có phần thưởng. Giả sử bạn sống như thể Chúa không có, sống tội lỗi, ích kỷ, dục vọng, trong khi Chúa thật sự có; bạn có thể đã vui thú trong đời sống tương đối ngắn ngủi, nhưng khi ngày phán xét đến, bạn gặp rắc rối lớn. Chú thích 5 của Zweig: "The Wager" trong *Pensées* của Pascal (Penguin Books, 1995); Peter L. Bernstein, *Against the Gods* (John Wiley & Sons, 1996); Peter L. Bernstein, "Decision Theory in Iambic Pentameter", *Economics & Portfolio Strategy*, 1/1/2003.
 
 Bernstein kết luận: "Khi ra quyết định trong điều kiện bất định, hậu quả phải được coi trọng hơn xác suất. Chúng ta không bao giờ biết tương lai." Vì thế, như Graham nhắc ở mọi chương của cuốn sách, nhà đầu tư thông minh không chỉ phải tập trung vào việc phân tích đúng. Bạn còn phải tự bảo hiểm trước thua lỗ nếu phân tích của mình sai, vì ngay cả những phân tích tốt nhất cũng sẽ sai ít nhất một phần thời gian. Xác suất mắc ít nhất một sai lầm vào lúc nào đó trong đời đầu tư gần như là 100%, và xác suất đó hoàn toàn nằm ngoài tầm kiểm soát của bạn. Tuy nhiên, bạn *có* quyền kiểm soát hậu quả của việc sai.
 
@@ -651,7 +688,9 @@ Zweig kết thúc: chỉ cần luôn giữ tài sản đa dạng hoá và từ c
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Biên an toàn là nền tảng của trường phái đầu tư giá trị (value investing): mua tài sản với chiết khấu so với giá trị nội tại để có tỷ lệ lãi/lỗ bất đối xứng. Với trái phiếu, nó tương ứng các chỉ tiêu tín dụng như hệ số khả năng trả lãi (interest coverage ratio) và tỷ lệ nợ trên giá trị doanh nghiệp (loan-to-value). Với cổ phiếu, phép so lợi suất lợi nhuận với lợi suất trái phiếu là tiền thân của khái niệm phần bù rủi ro cổ phiếu (equity risk premium) và của cách so sánh mà người sau gọi là "mô hình Fed". Ý "biên an toàn phụ thuộc vào giá" tương đương nguyên lý: lợi suất kỳ vọng của một tài sản do giá mua quyết định. Phần của Zweig gắn với tài chính hành vi (behavioral finance): sự tự tin quá mức (overconfidence), ác cảm thua lỗ (loss aversion), và quản trị rủi ro theo hướng giới hạn tổn thất tối đa (drawdown) thay vì tối đa hoá lợi nhuận kỳ vọng.
+Biên an toàn là nền tảng của trường phái đầu tư giá trị (value investing): mua tài sản với chiết khấu so với giá trị nội tại để có tỷ lệ lãi/lỗ bất đối xứng. Với trái phiếu, nó tương ứng các chỉ tiêu tín dụng như hệ số khả năng trả lãi (interest coverage ratio) và tỷ lệ nợ trên giá trị doanh nghiệp (loan-to-value).
+
+Với cổ phiếu, phép so lợi suất lợi nhuận với lợi suất trái phiếu là tiền thân của khái niệm phần bù rủi ro cổ phiếu (equity risk premium) và của cách so sánh mà người sau gọi là "mô hình Fed". Ý "biên an toàn phụ thuộc vào giá" tương đương nguyên lý: lợi suất kỳ vọng của một tài sản do giá mua quyết định. Phần của Zweig gắn với tài chính hành vi (behavioral finance): sự tự tin quá mức (overconfidence), ác cảm thua lỗ (loss aversion), và quản trị rủi ro theo hướng giới hạn tổn thất tối đa (drawdown) thay vì tối đa hoá lợi nhuận kỳ vọng.
 
 ## Thuật ngữ
 
@@ -731,7 +770,9 @@ Sức mạnh lớn nhất của chương là tính thống nhất: cùng một �
 
 ### Phép so sánh lợi suất lợi nhuận với lãi suất trái phiếu vẫn hữu ích, nhưng cần dùng thận trọng
 
-Cách đo biên an toàn của cổ phiếu bằng chênh lệch giữa lợi suất lợi nhuận và lãi suất trái phiếu là một công cụ đơn giản, và lời cảnh báo của Graham năm 1972 (biên đã thành âm) được chứng minh khi thị trường Mỹ giảm mạnh năm 1973–1974. Tuy nhiên, theo hiểu biết của người tổng hợp, không tra cứu: phép so sánh này bỏ qua lạm phát (lợi nhuận cổ phiếu có thể tăng theo lạm phát, lãi trái phiếu danh nghĩa thì không) và tăng trưởng lợi nhuận; trong giai đoạn lãi suất gần 0 sau khủng hoảng 2008 và nhất là 2020–2021, nó cho ra "biên an toàn" rất rộng cho cổ phiếu dù P/E cao, rồi biên này co lại nhanh khi lãi suất tăng mạnh từ 2022. Nhà đầu tư nên dùng nó như một trong nhiều thước đo, và luôn kết hợp với mức P/E tuyệt đối (như các tiêu chuẩn P/E ở Chương 14).
+Cách đo biên an toàn của cổ phiếu bằng chênh lệch giữa lợi suất lợi nhuận và lãi suất trái phiếu là một công cụ đơn giản, và lời cảnh báo của Graham năm 1972 (biên đã thành âm) được chứng minh khi thị trường Mỹ giảm mạnh năm 1973–1974.
+
+Tuy nhiên, theo hiểu biết của người tổng hợp, không tra cứu: phép so sánh này bỏ qua lạm phát (lợi nhuận cổ phiếu có thể tăng theo lạm phát, lãi trái phiếu danh nghĩa thì không) và tăng trưởng lợi nhuận; trong giai đoạn lãi suất gần 0 sau khủng hoảng 2008 và nhất là 2020–2021, nó cho ra "biên an toàn" rất rộng cho cổ phiếu dù P/E cao, rồi biên này co lại nhanh khi lãi suất tăng mạnh từ 2022. Nhà đầu tư nên dùng nó như một trong nhiều thước đo, và luôn kết hợp với mức P/E tuyệt đối (như các tiêu chuẩn P/E ở Chương 14).
 
 ### Những con số cụ thể năm 1972 và 2003 đã cũ, nhưng chính các ví dụ của Zweig cho thấy nguyên tắc không cũ
 
@@ -739,7 +780,9 @@ National Presto 1972, lãi suất trái phiếu 7,5% hay JDS Uniphase 2000 đề
 
 ### Graham hoài nghi cổ phiếu tăng trưởng, còn Buffett về sau mở rộng biên an toàn sang chất lượng doanh nghiệp
 
-Graham chỉ chấp nhận cổ phiếu tăng trưởng khi dự phóng thận trọng vẫn cho biên thoả đáng, và cho rằng mức giá bình quân của nhóm này thường quá cao. Quan điểm trái chiều đáng biết (theo hiểu biết của người tổng hợp, không tra cứu): Buffett và Charlie Munger về sau lập luận rằng mua một doanh nghiệp xuất sắc ở giá hợp lý tốt hơn mua doanh nghiệp tầm thường ở giá rẻ, vì lợi thế cạnh tranh bền vững và khả năng tái đầu tư với lợi suất cao tạo ra một dạng biên an toàn theo thời gian. Hai quan điểm không mâu thuẫn hoàn toàn: chính Graham thừa nhận một dự phóng tương lai "làm có năng lực" có thể đáng tin như hồ sơ quá khứ, và vẫn giữ điều kiện cốt lõi là giá phải trả. Mặt khác, nghiên cứu học thuật về "hiệu ứng giá trị" (cổ phiếu P/E thấp, P/B thấp cho lợi suất cao hơn) ủng hộ Graham trong dài hạn nhưng cũng cho thấy có những giai đoạn dài (như 2007–2020) nhóm giá trị thua kém nhóm tăng trưởng.
+Graham chỉ chấp nhận cổ phiếu tăng trưởng khi dự phóng thận trọng vẫn cho biên thoả đáng, và cho rằng mức giá bình quân của nhóm này thường quá cao. Quan điểm trái chiều đáng biết (theo hiểu biết của người tổng hợp, không tra cứu): Buffett và Charlie Munger về sau lập luận rằng mua một doanh nghiệp xuất sắc ở giá hợp lý tốt hơn mua doanh nghiệp tầm thường ở giá rẻ, vì lợi thế cạnh tranh bền vững và khả năng tái đầu tư với lợi suất cao tạo ra một dạng biên an toàn theo thời gian.
+
+Hai quan điểm không mâu thuẫn hoàn toàn: chính Graham thừa nhận một dự phóng tương lai "làm có năng lực" có thể đáng tin như hồ sơ quá khứ, và vẫn giữ điều kiện cốt lõi là giá phải trả. Mặt khác, nghiên cứu học thuật về "hiệu ứng giá trị" (cổ phiếu P/E thấp, P/B thấp cho lợi suất cao hơn) ủng hộ Graham trong dài hạn nhưng cũng cho thấy có những giai đoạn dài (như 2007–2020) nhóm giá trị thua kém nhóm tăng trưởng.
 
 ### Bình luận của Zweig chuyển biên an toàn từ bài toán số học sang bài toán tâm lý, và đó là bổ sung có giá trị
 
@@ -759,4 +802,185 @@ Ví dụ cò quay cho thấy đa dạng hoá chỉ có lợi khi từng khoản 
 
 ### Vận dụng định tính cho nhà đầu tư Việt Nam
 
-Ở một thị trường mới nổi, nơi có nhiều nhà đầu tư cá nhân giao dịch ngắn hạn, dùng vay ký quỹ và dễ chạy theo nhóm ngành "nóng", bài học của Chương 20 càng quan trọng (nhận định định tính của người tổng hợp, không có số liệu). Tiêu chuẩn của Graham giúp phân biệt: cổ phiếu được mua vì "đang lên" là đầu cơ; cổ phiếu được mua vì giá thấp hơn rõ rệt giá trị tính được từ lợi nhuận nhiều năm và tài sản là đầu tư. Các bài học cụ thể: kiểm tra khả năng trả nợ của doanh nghiệp phát hành trái phiếu qua cả chu kỳ, thay vì chỉ nhìn lãi suất cao; nghi ngờ các đợt phát hành cổ phiếu ở giá cao hơn hẳn tài sản hữu hình dựa trên vài năm tăng trưởng đẹp; tránh vay ký quỹ vì nó biến một đợt giảm tạm thời thành thua lỗ vĩnh viễn, đúng điều Zweig gọi là "chi phí của thua lỗ"; và đa dạng hoá thật sự, bao gồm cả các tài sản không cùng chịu một rủi ro.
+Ở một thị trường mới nổi, nơi có nhiều nhà đầu tư cá nhân giao dịch ngắn hạn, dùng vay ký quỹ và dễ chạy theo nhóm ngành "nóng", bài học của Chương 20 càng quan trọng (nhận định định tính của người tổng hợp, không có số liệu). Tiêu chuẩn của Graham giúp phân biệt: cổ phiếu được mua vì "đang lên" là đầu cơ; cổ phiếu được mua vì giá thấp hơn rõ rệt giá trị tính được từ lợi nhuận nhiều năm và tài sản là đầu tư.
+
+Các bài học cụ thể: kiểm tra khả năng trả nợ của doanh nghiệp phát hành trái phiếu qua cả chu kỳ, thay vì chỉ nhìn lãi suất cao; nghi ngờ các đợt phát hành cổ phiếu ở giá cao hơn hẳn tài sản hữu hình dựa trên vài năm tăng trưởng đẹp; tránh vay ký quỹ vì nó biến một đợt giảm tạm thời thành thua lỗ vĩnh viễn, đúng điều Zweig gọi là "chi phí của thua lỗ"; và đa dạng hoá thật sự, bao gồm cả các tài sản không cùng chịu một rủi ro.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 20 trên một trang: sáu nhánh lớn đi theo các mục của phần Nội dung chi tiết (Phần A của Graham: Mục 1 về biên an toàn của trái phiếu, Mục 2–4 về cổ phiếu, cổ phiếu tăng trưởng và cổ phiếu giá hời, Mục 5–6 về đa dạng hoá và ranh giới đầu tư với đầu cơ, Mục 7–8 về mở rộng khái niệm đầu tư và bốn nguyên tắc kinh doanh; Phần B, bình luận của Zweig: Mục 0–1 về chi phí của thua lỗ, Mục 2–3 về rủi ro nằm ở chính nhà đầu tư và vụ đánh cược của Pascal), mỗi nhánh ghi định nghĩa, quy tắc, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 20: chỉ mua khi khoảng cách giữa giá trị và giá đủ lớn để chịu được sai lầm tính toán và vận rủi, đó là biên an toàn`"]
+  n1["`Phần A, Mục 1 — Biên an toàn là sợi chỉ xuyên suốt, rõ nhất ở trái phiếu`"]
+  n0 --- n1
+  n2["`Graham gói bí quyết đầu tư vững chắc vào ba chữ: BIÊN AN TOÀN (margin of safety)`"]
+  n1 --- n2
+  n3["`Trái phiếu đường sắt hạng nhất: lợi nhuận trước thuế gấp hơn 5 lần tổng chi phí cố định qua nhiều năm`"]
+  n1 --- n3
+  n4["`Chức năng của biên an toàn: làm cho việc ước tính chính xác tương lai trở nên không cần thiết`"]
+  n1 --- n4
+  n5["`Nợ 10 triệu USD, doanh nghiệp đáng giá 30 triệu USD: giá trị giảm hai phần ba thì chủ nợ mới bị thiệt`"]
+  n1 --- n5
+  n6["`Hai cách đo, lợi nhuận so với chi phí lãi và giá trị doanh nghiệp so với nợ, thường cho kết quả tương tự`"]
+  n1 --- n6
+  n7["`Phần A, Mục 2–4 — Với cổ phiếu, biên an toàn luôn phụ thuộc vào giá phải trả`"]
+  n0 --- n7
+  n8["`Cổ phiếu an toàn như trái phiếu khi tổng giá cổ phiếu thấp hơn số nợ công ty có thể gánh an toàn`"]
+  n7 --- n8
+  n9["`Công ty công nghiệp ở đáy 1932–1933, National Presto 1972 định giá 43 triệu USD, lợi nhuận trước thuế 16 triệu USD`"]
+  n8 --- n9
+  n10["`Trường hợp thường: biên là sức sinh lời (nghịch đảo P/E) vượt lãi suất trái phiếu`"]
+  n7 --- n10
+  n11["`Các ấn bản trước: 9% so với 4%, chênh 5% mỗi năm, cộng khoảng 50% giá mua sau 10 năm`"]
+  n10 --- n11
+  n12["`Danh mục đa dạng từ 20 mã trở lên, mua ở giá bình quân nhiều năm thì biên an toàn đủ`"]
+  n10 --- n12
+  n13["`Năm 1972: P/E 12 chỉ cho 8,33% so với trái phiếu khoảng 7,5%, biên an toàn không còn đủ`"]
+  n10 --- n13
+  n14["`Vẫn phải giữ cổ phiếu, vì chỉ giữ trái phiếu bằng đồng đô la mất giá còn rủi ro hơn`"]
+  n10 --- n14
+  n15["`Tổn thất chính: mua chứng khoán chất lượng thấp lúc kinh tế thuận lợi, ở giá #quot;trời đẹp#quot;`"]
+  n7 --- n15
+  n16["`Khả năng trả lãi phải kiểm tra qua nhiều năm, gồm cả giai đoạn suy giảm như 1970–1971`"]
+  n15 --- n16
+  n17["`Cổ phiếu tăng trưởng chỉ đạt khi dự phóng thận trọng vẫn cho biên thoả đáng so với giá trả`"]
+  n7 --- n17
+  n18["`Biên lớn ở một mức giá, nhỏ ở giá cao hơn, không còn ở giá cao hơn nữa`"]
+  n17 --- n18
+  n19["`Mọi ước tính khác kết quả quá khứ nên nghiêng về phía đánh giá thấp`"]
+  n17 --- n19
+  n20["`Cổ phiếu giá hời: chênh lệch thuận lợi giữa giá trị và giá chính là biên an toàn`"]
+  n7 --- n20
+  n21["`Người mua món hời không cần hào hứng với triển vọng, chỉ tránh công ty có triển vọng thật sự xấu`"]
+  n20 --- n21
+  n22["`Phần A, Mục 5–6 — Biên an toàn đi cùng đa dạng hoá và phân định đầu tư với đầu cơ`"]
+  n0 --- n22
+  n23["`Biên dương chỉ làm khả năng lãi cao hơn lỗ, gộp nhiều khoản thì tổng lãi chắc vượt tổng lỗ, như bảo hiểm`"]
+  n22 --- n23
+  n24["`Cò quay Mỹ 38 ô trả 35 ăn 1: người chơi có biên an toàn âm, đặt cả 38 ô mất 2 USD mỗi vòng (5,26%)`"]
+  n22 --- n24
+  n25["`Nếu trả 39 ăn 1: biên dương, đặt cả 38 ô chắc thắng 2 USD mỗi vòng, đó là vị thế chủ sòng`"]
+  n22 --- n25
+  n26["`Với biên âm, đa dạng hoá chỉ làm thua chắc chắn hơn`"]
+  n22 --- n26
+  n27["`#quot;Biên an toàn#quot; của người đầu cơ là phán đoán chủ quan, không có bằng chứng hay lập luận chặt chẽ`"]
+  n22 --- n27
+  n28["`Đặt cược thị trường lên hay xuống không bao giờ có biên an toàn theo nghĩa hữu ích`"]
+  n22 --- n28
+  n29["`Đầu tư thật phải có biên an toàn thật, chứng minh bằng số liệu, lập luận và kinh nghiệm thực tế`"]
+  n22 --- n29
+  n30["`Phần A, Mục 7–8 — Mở rộng khái niệm đầu tư và bốn nguyên tắc kinh doanh`"]
+  n0 --- n30
+  n31["`Đầu tư thông thường: chứng khoán Chính phủ Mỹ, cổ phiếu chất lượng cao trả cổ tức, trái phiếu bang và địa phương`"]
+  n30 --- n31
+  n32["`Không thông thường, chỉ cho nhà đầu tư năng động: cổ phiếu công ty hạng hai mua ở hai phần ba giá trị trở xuống`"]
+  n30 --- n32
+  n33["`Một giá đủ thấp biến chứng khoán chất lượng trung bình thành cơ hội đầu tư vững chắc`"]
+  n30 --- n33
+  n34["`Trái phiếu bất động sản: thập niên 1920 bán ở mệnh giá, thập niên 1930 dưới 10 xu, giá trị thật gấp 4–5 lần giá`"]
+  n33 --- n34
+  n35["`Zweig: không có cổ phiếu tốt hay xấu, chỉ có cổ phiếu rẻ và cổ phiếu đắt`"]
+  n33 --- n35
+  n36["`Tình huống đặc biệt, kể cả chứng quyền ở giá thấp lịch sử, vẫn có thể có biên an toàn`"]
+  n30 --- n36
+  n37["`Đầu tư thông minh nhất khi nó giống kinh doanh nhất`"]
+  n30 --- n37
+  n38["`Hiểu việc kinh doanh của mình: hiểu giá trị chứng khoán như nhà sản xuất hiểu giá trị hàng hoá`"]
+  n37 --- n38
+  n39["`Đừng để người khác điều hành, trừ khi giám sát được hoặc tin chắc vào sự chính trực và năng lực của họ`"]
+  n37 --- n39
+  n40["`Dựa vào số học, không dựa vào lạc quan#59; tránh thương vụ lãi ít mà có thể mất nhiều`"]
+  n37 --- n40
+  n41["`Can đảm theo hiểu biết: bạn đúng vì dữ liệu và lập luận đúng, không vì đám đông đồng ý`"]
+  n37 --- n41
+  n42["`Kết quả thoả đáng dễ hơn phần lớn mọi người nghĩ, kết quả vượt trội khó hơn vẻ bề ngoài`"]
+  n30 --- n42
+  n43["`Phần B, Mục 0–1 — Zweig: trước hết, đừng thua lỗ`"]
+  n0 --- n43
+  n44["`Rủi ro đổi nghĩa: năm 1999 là kiếm ít hơn người khác, năm 2003 là thị trường xoá sạch tài sản`"]
+  n43 --- n44
+  n45["`Người cược lớn, thắng lớn nhất lúc thị trường tăng gần như luôn bị đánh mạnh nhất lúc thị trường giảm`"]
+  n43 --- n45
+  n46["`J. K. Klingenstein tóm bí quyết làm giàu: #quot;Đừng thua lỗ#quot;`"]
+  n43 --- n46
+  n47["`Cổ phiếu mất 50% năm đầu rồi tăng 10%/năm cần hơn 16 năm mới vượt thị trường tăng 5%/năm`"]
+  n43 --- n47
+  n48["`Mất một ít tiền là không tránh được, nhưng phải tránh mất phần lớn hoặc toàn bộ tiền`"]
+  n43 --- n48
+  n49["`JDS Uniphase ngày 7/3/2000: vốn hoá khoảng 143 tỷ USD dù doanh thu 673 triệu USD và lỗ 313 triệu USD`"]
+  n43 --- n49
+  n50["`Từ 153,421 USD xuống 2,47 USD cuối 2002: ở lợi suất 10%/năm cần hơn 43 năm mới hoà vốn`"]
+  n49 --- n50
+  n51["`Phần B, Mục 2–3 — Zweig: rủi ro nằm ở chính nhà đầu tư, hãy kiểm soát hậu quả`"]
+  n0 --- n51
+  n52["`Rủi ro tài chính không nằm ở loại khoản đầu tư bạn có mà ở loại nhà đầu tư bạn là`"]
+  n51 --- n52
+  n53["`Kahneman: quyết định tốt cần tự tin được hiệu chỉnh đúng và hối tiếc được lường trước đúng`"]
+  n51 --- n53
+  n54["`Tự hỏi: nếu tôi mua thì có người bán, tôi biết điều gì mà họ không biết?`"]
+  n53 --- n54
+  n55["`Tự ràng buộc trước bằng đa dạng hoá, hợp đồng đầu tư và đầu tư định kỳ một số tiền cố định`"]
+  n53 --- n55
+  n56["`Slovic: rủi ro gồm hai thành phần bằng nhau, xác suất và hậu quả`"]
+  n51 --- n56
+  n57["`Bernstein theo vụ cược Pascal: khi bất định, hậu quả phải được coi trọng hơn xác suất`"]
+  n51 --- n57
+  n58["`Xác suất có lúc sai gần như 100%, nhưng hậu quả của việc sai thì kiểm soát được`"]
+  n51 --- n58
+  n59["`Khảo sát của Money năm 1999: gần 1/10 trong 1.338 người có từ 85% tiền trở lên trong cổ phiếu Internet`"]
+  n51 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Biên an toàn phụ thuộc vào giá: cùng một chứng khoán là đầu cơ ở giá này, đầu tư ở giá khác`"]
+  n60 --- n61
+  n62["`Graham đo biên bằng số học, Zweig thêm tâm lý: không trả quá đắt và đa dạng hoá để sai lầm không thành thảm hoạ`"]
+  n60 --- n62
+  n63["`Chương mở và kết bằng câu #quot;Rồi điều này cũng sẽ qua#quot;`"]
+  n60 --- n63
+  class n0 root
+  class n1,n7,n22,n30,n43,n51,n60 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 20 "«Marge de sécurité» comme concept central d'investissement" (PDF trang 427–437) và "Commentaire sur le chapitre 20" (PDF trang 437–443).
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương kết của phần chính, và cùng với [Chương 8](C08-nha-dau-tu-va-bien-dong-thi-truong.md) (ông Thị Trường) là chương Warren Buffett coi là quan trọng nhất của cuốn sách. Từ [Chương 1](C01-dau-tu-va-dau-co.md) Graham đã định nghĩa đầu tư là một hoạt động mà sau khi phân tích kỹ lưỡng hứa hẹn an toàn cho vốn gốc và một lợi nhuận thoả đáng; các chương về trái phiếu và danh mục ([Chương 4](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md), [Chương 5](C05-nha-dau-tu-phong-thu-va-co-phieu.md)), về những điều nhà đầu tư năng động nên tránh và nên làm ([Chương 6](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md), [Chương 7](C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md)), về phân tích và chọn cổ phiếu ([Chương 11](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md) tới [Chương 15](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md)), về chứng quyền ([Chương 16](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) và các trường hợp điển hình ([Chương 17](C17-bon-truong-hop-dang-hoc.md), [Chương 18](C18-so-sanh-tam-cap-cong-ty.md)) đều dùng ngầm một ý chung. 
+
+Chương 20 gọi tên ý chung đó, **biên an toàn**, và chỉ ra rằng nó vừa là tiêu chuẩn chọn trái phiếu, vừa là tiêu chuẩn chọn cổ phiếu, vừa là cơ sở của đa dạng hoá, vừa là ranh giới phân biệt đầu tư với đầu cơ. Ngay sau chương này là [Lời bạt](PS-loi-bat.md), nơi Graham kể câu chuyện hai người cộng sự (chính ông và Jerome Newman) để minh hoạ bằng thực tế. 
+
+Phần bình luận của Zweig chuyển biên an toàn từ ngôn ngữ của số liệu sang ngôn ngữ của rủi ro và tâm lý: điều quan trọng nhất là không thua lỗ nặng, và rủi ro nằm ở chính nhà đầu tư.
+
+## Lưu ý
+
+- **Tiêu đề chương:** bản PDF ghi ở đầu chương (trang 427) "«Marge de sécurité» comme concept central d'investissement" (không có mạo từ "La"); danh sách file của bộ này ghi "La «marge de sécurité» comme concept central d'investissement". Bản tổng hợp dùng đúng chữ trong PDF. Tiêu đề tiếng Anh gốc là "'Margin of Safety' as the Central Concept of Investment".
+- **Hai hình của phần bình luận bị mất trong bản PDF:** Hình 20-1 "Le coût de la perte" (PDF trang 438–439) và Hình 20-2 "Rompre est difficile à faire" (PDF trang 440) chỉ còn tiêu đề, một khoảng trắng nửa trang và lời chú thích in nghiêng. Hai bảng trong bản tổng hợp này được **người tổng hợp tính lại** từ đúng các giả định mà lời chú thích nêu (thị trường tăng 5%/năm; cổ phiếu mất 50% năm đầu rồi tăng 10%/năm; JDS Uniphase từ 153,421 USD xuống 2,47 USD), không phải số đọc từ hình. Kết quả tính lại khớp với hai con số chính trong văn bản ("hơn 16 năm" và "hơn 43 năm"). Hình thức trình bày (theo năm, theo mức lợi suất) có thể khác hình gốc.
+- **Các chỗ dịch máy lệch nghĩa đáng kể:**
+  - "sécurité" trong nhiều câu là dịch máy của "security" (chứng khoán), không phải "an toàn": "l'investisseur préférera éviter la sécurité" là "tránh chứng khoán đó"; "acheteurs de sécurité naïfs" là "người mua chứng khoán ngây thơ"; "transformer une sécurité de qualité médiocre" là "biến một chứng khoán chất lượng trung bình"; "cette forme de sécurité sans prétention" là "loại chứng khoán khiêm tốn này" (chứng quyền); "les valeurs de sécurité" là "giá trị của chứng khoán"; "l'analyse de la sécurité" là "phân tích chứng khoán". Chỉ "marge de sécurité" mới là "biên an toàn".
+  - "émissions", "questions", "problèmes", "préoccupations" là dịch máy của "issues" (mã chứng khoán) và "concerns" (doanh nghiệp): "ces émissions privilégiées" (PDF trang 432) là "các cổ phiếu được ưa chuộng" (favored issues), **không phải cổ phiếu ưu đãi**; "questions sous-évaluées" là "chứng khoán bị định giá thấp".
+  - "titres sous-évalués ou négociables" (PDF trang 432) dịch sai "undervalued or bargain securities": "négociables" phải là "giá hời".
+  - "est en partie et en partie contraire au principe" (PDF trang 431) thiếu vế: nghĩa là triết lý cổ phiếu tăng trưởng "một phần phù hợp, một phần trái" với nguyên tắc biên an toàn.
+  - "une période d'activité anormale comme en 1970-1971" (PDF trang 431) nghĩa là một giai đoạn kinh doanh **dưới mức bình thường** (suy giảm), như 1970–1971.
+  - "obligations d'État et municipales" (PDF trang 434) là trái phiếu của các **bang** và chính quyền địa phương Mỹ (miễn thuế), không phải trái phiếu chính phủ quốc gia; "obligations d'épargne des États-Unis" là trái phiếu tiết kiệm Mỹ (U.S. savings bonds).
+  - "bénéfices commerciaux" (PDF trang 436) là "business profits", tức lợi nhuận kiểu kinh doanh, vượt trên lãi và cổ tức thông thường. Câu thứ hai trong mục "Pour résumer" thiếu chữ "Pour" ("[Pour] l'investisseur, cette règle...").
+  - Phần bình luận: "montez dans le miroir" là "nhìn vào gương"; "C'est un risque, de te regarder depuis le verre" là "Đó chính là rủi ro, đang nhìn lại bạn từ trong gương"; "une piste de course ou un casino joueur" là "con bạc ở trường đua hay sòng bạc"; "Ai-je acheté plus ou ai-je renfloué?" nghĩa là "Tôi đã mua thêm hay đã bán tháo để thoát ra (bailed out)?", không phải "cứu trợ"; "même les meilleures analyses seront au moins une partie du temps" thiếu chữ "sai" (wrong); "vous n'avez le contrôle sur les conséquences" thiếu chữ, nghĩa đúng là "bạn **có** quyền kiểm soát hậu quả của việc sai".
+  - "Rompre est difficile à faire" là dịch tên bài hát "Breaking Up Is Hard to Do", chơi chữ với "break even" (hoà vốn); "Le risque n'est pas dans nos stocks, mais dans nous-mêmes" là chơi chữ câu của Shakespeare trong *Julius Caesar* ("lỗi không ở các vì sao mà ở chính chúng ta"), "stocks" ở đây là cổ phiếu.
+  - Trong chú thích của Zweig trích bài giảng năm 1972, câu "il n'y a pas de différence entre le taux de bénéfice sur les actions et le taux d'intérêt sur les actions" sai chữ cuối: phải là "lãi suất **trái phiếu**".
+  - Chú thích 3 của Zweig "échangé ou acheté des PAPE": "échangé" là "day-traded" (lướt sóng trong ngày), "PAPE" (premier appel public à l'épargne, cách gọi ở Québec) là IPO.
+- **Lỗi số trong bản PDF:** chú thích hình 20-2 ghi "153 421 $"; đúng là 153,421 USD mỗi cổ phiếu (giá đã điều chỉnh theo các lần tách cổ phiếu, như chú thích 2 của Zweig nói); văn bản chính ghi tròn "153 dollars".
+- **Chỗ dẫn trang bản tiếng Anh:** chú thích của Zweig dẫn *Security Analysis* ấn bản 1934, tr. 354 (định nghĩa sức sinh lời), *Against the Gods* tr. 68–70, *Pensées* tr. 122–125; các trang này không có trong bản PDF, bản tổng hợp chép nội dung thay cho số trang. Chú thích 1 của Graham bỏ mất tên tạp chí; theo hiểu biết của người tổng hợp, không tra cứu, bài của Paul Hallingby Jr. đăng trên *The Analysts Journal*, quý III năm 1947.
+- **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** phép so sánh lợi suất lợi nhuận với lãi suất trái phiếu của Graham phụ thuộc mạnh vào mặt bằng lãi suất: năm 1972 lãi trái phiếu cao (khoảng 7–7,5%), năm 2003 thấp hơn; từ sau 2008 tới khoảng 2021 lãi suất ở gần 0 khiến khoảng cách này trông rất rộng, rồi lãi suất tăng mạnh trở lại từ 2022. JDS Uniphase về sau gộp cổ phiếu và tới năm 2015 tách thành hai công ty (Viavi Solutions và Lumentum); người mua ở đỉnh năm 2000 chưa bao giờ gỡ lại vốn. Chi tiết ở phần Đánh giá.
+- Câu trích trong mục "Câu nói đáng nhớ" là tiếng Pháp đúng như PDF (kể cả lỗi dịch), kèm bản dịch tiếng Việt theo nghĩa gốc của người tổng hợp.

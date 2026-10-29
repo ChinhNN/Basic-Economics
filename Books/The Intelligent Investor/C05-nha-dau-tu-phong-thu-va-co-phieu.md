@@ -1,22 +1,31 @@
 # Chương 5 — Nhà đầu tư phòng thủ và cổ phiếu phổ thông (L'investisseur défensif et les actions ordinaires)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 5 "L'investisseur défensif et les actions ordinaires" (PDF trang 104–113) và "Commentaire sur le chapitre 5" (PDF trang 113–121). Chú thích của Graham cho chương này nằm ở PDF trang 482–483; chú thích của Zweig nằm ở PDF trang 602–605.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, lúc đó là cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 ([C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)) đã đặt khung chung cho nhà đầu tư phòng thủ (defensive investor): chia tiền giữa trái phiếu chất lượng cao và cổ phiếu hàng đầu, cổ phiếu chiếm không dưới 25% và không quá 75%, mức chuẩn là 50/50; chương đó cũng bàn kỹ phần trái phiếu. Chương 5 đi vào phần còn lại: **chọn phần cổ phiếu như thế nào**. Graham đưa ra bốn quy tắc chọn cổ phiếu, giải thích vì sao nhà đầu tư phòng thủ nên tránh cổ phiếu tăng trưởng (growth stock), giới thiệu cách đầu tư định kỳ một số tiền cố định (dollar-cost averaging), xét ba hoàn cảnh cá nhân cụ thể, và định nghĩa lại khái niệm "rủi ro". Các ý trong chương được dùng lại ở nhiều chỗ: Chương 8 ([C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)) triển khai luận điểm "giá giảm không phải là thua lỗ thật"; Chương 9 ([C09-dau-tu-vao-quy.md](C09-dau-tu-vao-quy.md)) bàn về quỹ, trong đó có quỹ chỉ số mà Zweig khuyên dùng; Chương 10 ([C10-nha-dau-tu-va-nguoi-tu-van.md](C10-nha-dau-tu-va-nguoi-tu-van.md)) bàn về người tư vấn; Chương 14 ([C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md)) biến bốn quy tắc ở đây thành bộ tiêu chí định lượng chặt hơn và áp dụng lên các cổ phiếu cụ thể. Chương 6 và 7 chuyển sang nhà đầu tư năng động (enterprising investor).
-**Ý chính:** Graham muốn người đọc hiểu rằng **nhà đầu tư phòng thủ không thể bỏ qua cổ phiếu, nhưng phải mua cổ phiếu theo vài quy tắc đơn giản và không bao giờ trả giá quá cao**. Năm 1949 ông bênh vực cổ phiếu vì hai lý do: cổ phiếu che chắn được phần nào trước lạm phát, còn trái phiếu thì không; và cổ phiếu mang lại lợi suất trung bình cao hơn nhờ cổ tức cao hơn lãi trái phiếu cộng với giá tăng dần nhờ lợi nhuận giữ lại được tái đầu tư. Nhưng hai lợi thế đó mất đi nếu người mua trả giá quá cao: sau năm 1929, phải 25 năm thị trường mới trở lại đỉnh cũ. Ở mức Dow Jones khoảng 900 điểm cuối năm 1971, Graham không hào hứng với cổ phiếu, nhưng vẫn coi việc giữ một tỷ lệ cổ phiếu đáng kể là "cái ít xấu hơn trong hai cái xấu", vì giữ toàn trái phiếu còn rủi ro hơn. Bốn quy tắc của ông: (1) đa dạng hoá vừa đủ, từ 10 đến khoảng 30 cổ phiếu; (2) chỉ chọn công ty lớn, nổi bật, tài chính thận trọng; (3) công ty phải trả cổ tức liên tục, ít nhất từ năm 1950; (4) không trả quá 25 lần lợi nhuận bình quân bảy năm và không quá 20 lần lợi nhuận 12 tháng gần nhất. Quy tắc 4 loại gần hết cổ phiếu tăng trưởng, và Graham giải thích bằng IBM (mất 50% giá trong sáu tháng 1961–1962 và gần như vậy lần nữa năm 1969–1970) và Texas Instruments (giá tăng từ 5 lên 256 USD, nhanh gấp năm lần lợi nhuận, rồi mất bốn phần năm, còn 49 USD). Graham cũng đề nghị hiểu "rủi ro" là khả năng mất giá trị thật (do bán lỗ, do công ty suy yếu nghiêm trọng, hoặc do trả giá quá cao so với giá trị nội tại), không phải là việc giá dao động.
+## Ý chính
 
-Zweig, viết đầu năm 2003 giữa đợt thị trường giá xuống 2000–2002, bổ sung rằng **chính đợt sụp đổ đã lấy đi phần lớn rủi ro của cổ phiếu, nên nhà đầu tư phòng thủ vẫn phải giữ cổ phiếu, và cách an toàn nhất là đặt danh mục ở chế độ "lái tự động"**. Ông cảnh báo khẩu hiệu "hãy mua thứ bạn biết" của Peter Lynch khi bị dùng mà không nghiên cứu: Barbra Streisand mua Starbucks vì ngày nào cũng uống cà phê ở đó; nhân viên Enron, WorldCom, Global Crossing dồn tiền hưu vào cổ phiếu công ty mình và mất hết. Thay vào đó, nhà đầu tư nên tự lập danh mục qua các trang môi giới trực tuyến phí thấp, hoặc thuê người tư vấn đáng tin, hoặc tốt nhất là mua quỹ chỉ số và đầu tư định kỳ một số tiền cố định. Ví dụ trung tâm: nếu đầu tư một lần 12.000 USD vào chỉ số S&P 500 đầu tháng 9/1929 thì 10 năm sau chỉ còn 7.223 USD; nếu bắt đầu với 100 USD và mỗi tháng góp thêm 100 USD (tổng cũng là 12.000 USD) thì đến tháng 8/1939 có 15.571 USD. Câu trả lời mạnh nhất của nhà đầu tư phòng thủ trước mọi câu hỏi dự báo thị trường là: "Tôi không biết và tôi không quan tâm."
+Graham muốn người đọc hiểu rằng **nhà đầu tư phòng thủ không thể bỏ qua cổ phiếu, nhưng phải mua cổ phiếu theo vài quy tắc đơn giản và không bao giờ trả giá quá cao**.
 
-> **Lưu ý:**
-> - **Bản dịch máy lệch nghĩa ở nhiều chỗ ảnh hưởng tới nội dung.** "un minimum de dix problèmes différents" phải hiểu là tối thiểu mười *cổ phiếu* (issues), không phải "vấn đề". "Toutes les questions de l'âge Dow Jones Industrial Aver" là "tất cả các cổ phiếu trong chỉ số Dow Jones Industrial Average". "Le principal problème de croissance" là "cổ phiếu tăng trưởng hàng đầu" (IBM). "se classer parmi les premier ou troisième tiers de sa taille" vô nghĩa; theo hiểu biết của người tổng hợp, bản gốc là xếp trong *một phần tư đầu hoặc một phần ba đầu* về quy mô trong ngành, bản tổng hợp hiểu theo nghĩa này. "il se vendra pendant un certain temps aux frais de l'acheteur" phải hiểu là "sẽ có lúc giá xuống *dưới giá vốn* của người mua". "aussi probable qu'improbable" là "nhiều khả năng như không" (as likely as not). "réduction ou répercussion du dividende" là "giảm hoặc *ngừng trả* cổ tức". "offre une zone de choix sonore si peu spectaculaire" là "một vùng lựa chọn lành mạnh, dù không ngoạn mục".
-> - Trong phần bình luận của Zweig: "longtemps après que Jay Leno a cessé ses activités" là dịch sai câu "rất lâu sau khi chương trình của Jay Leno (talk show đêm khuya) kết thúc", tức là nhân viên vẫn làm việc tới khuya. "Pouvez-vous rouler le vôtre?" dịch từng chữ câu "Can You Roll Your Own?" (bạn có tự làm lấy được không). Tiêu đề "Fermez-le" ("hãy đóng nó lại") là dịch sai "Farm it out" (giao cho người khác làm, thuê ngoài). "comme un petit coup de foudre avec un journal enroulé" là "như một cú phát nhẹ bằng tờ báo cuộn tròn". Câu "À moins que vous ne souhaitiez pas répartir vos paris, vous ne devriez pas miser du tout" bị phủ định kép làm ngược nghĩa; nghĩa đúng là "nếu bạn không sẵn lòng chia nhỏ các khoản cược thì đừng cược gì cả". "les stocks" trong bình luận là "cổ phiếu", không phải hàng tồn kho.
-> - **Hình 5-1 (FIGURE 5-1, PDF trang 120–121) không có biểu đồ**: bản PDF chỉ còn tiêu đề "Chaque petit geste compte" và chú thích, phần đồ thị là khoảng trắng. Bản tổng hợp chép đầy đủ các số trong chú thích và tính thêm giá trị còn lại, nhưng không dựng lại được đường biểu đồ.
-> - **Tham chiếu bị lệch:** câu mở mục "La situation personnelle de l'investisseur" nói "Au début de ce chapitre, nous avons brièvement évoqué la position du propriétaire de portefeuille individuel", nhưng đầu Chương 5 không bàn chuyện này; ý được nhắc tới (lợi suất nên tìm kiếm phụ thuộc vào công sức và hiểu biết của nhà đầu tư, không phụ thuộc vào mức chịu rủi ro) nằm ở đầu Chương 4. Có lẽ đoạn văn được chuyển từ chương trước sang khi Graham hiệu đính. Câu kết của mục ("l'affirmation, faite au départ") cũng chỉ về ý này.
-> - **Các chỗ dẫn trang của bản tiếng Anh mà bản PDF không có:** Zweig dẫn "pages 19 et 20" (lời bình trước đó của Graham, nằm ở phần Giới thiệu, về việc giá tăng mạnh làm cổ phiếu trông như an toàn), "pages 56–57 et 88–89" (các lý do Graham đã nêu ở Chương 2 và Chương 4 về sự cần thiết của cổ phiếu), "p. 73" (chỗ Graham đã nói về các đợt giảm của IBM, ở Chương 3), "la note † à la page 70 du chapitre 3" (giải thích P/E), "p. 368" (khung về đa dạng hoá trong bình luận Chương 14), "pp. 186–187" (lý do giữ cổ phiếu nước ngoài) và "pp. 114-115" (chính bốn quy tắc trong Chương 5 này).
-> - **Chú thích của Graham thiếu tên sách.** Chú thích 1 chỉ ghi "Wilfred Funk, Inc., 1953"; theo hiểu biết của người tổng hợp, đó là cuốn *Practical Formulas for Successful Investing* của Lucile Tomlinson. Chú thích 2 nói "par Richard A. Brealey, The MIT Press, 1969" mà không có tên sách; theo hiểu biết của người tổng hợp, đó là *An Introduction to Risk and Return from Common Stocks*.
-> - **Câu về Texas Instruments** trong bản Pháp không nêu khoảng thời gian giá tăng từ 5 lên 256 USD; bản gốc có thể có ghi số năm, bản tổng hợp không tự thêm.
-> - **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** chỉ số Dow Jones ~900 điểm (1971) nay đã cao hơn nhiều chục lần. Zweig viết rằng tỷ suất cổ tức của cổ phiếu "vĩnh viễn" thấp hơn lợi suất trái phiếu kể từ cuối thập niên 1950; sau khủng hoảng 2008 và nhất là trong năm 2020, khi lãi suất xuống gần 0, tỷ suất cổ tức của S&P 500 có những giai đoạn cao hơn lợi suất trái phiếu Kho bạc 10 năm, rồi lại thấp hơn khi lãi suất tăng trở lại từ 2022. Microsoft, mà Zweig nêu là thành viên duy nhất của Dow Jones chưa trả cổ tức, đã bắt đầu trả cổ tức từ năm 2003. Các trang môi giới trực tuyến Zweig nêu (Sharebuilder, FolioFN, BuyandHold, NetStock Direct) phần lớn đã bị mua lại hoặc đóng cửa; từ khoảng 2019 phí giao dịch cổ phiếu ở Mỹ phổ biến về 0 và có thể mua lẻ một phần cổ phiếu, nên khoản phí 4 USD (8% trên 50 USD) không còn là trở ngại.
-> - Zweig dặn: muốn quy đổi các số tiền trong mục "hoàn cảnh cá nhân" của Graham sang giá năm 2003 thì nhân với 5.
+Năm 1949 ông bênh vực cổ phiếu vì hai lý do: cổ phiếu che chắn được phần nào trước lạm phát, còn trái phiếu thì không; và cổ phiếu mang lại lợi suất trung bình cao hơn nhờ cổ tức cao hơn lãi trái phiếu cộng với giá tăng dần nhờ lợi nhuận giữ lại được tái đầu tư. Nhưng hai lợi thế đó mất đi nếu người mua trả giá quá cao: sau năm 1929, phải 25 năm thị trường mới trở lại đỉnh cũ.
+
+Ở mức Dow Jones khoảng 900 điểm cuối năm 1971, Graham không hào hứng với cổ phiếu, nhưng vẫn coi việc giữ một tỷ lệ cổ phiếu đáng kể là "cái ít xấu hơn trong hai cái xấu", vì giữ toàn trái phiếu còn rủi ro hơn.
+
+Bốn quy tắc của ông:
+
+- đa dạng hoá vừa đủ, từ 10 đến khoảng 30 cổ phiếu;
+- chỉ chọn công ty lớn, nổi bật, tài chính thận trọng;
+- công ty phải trả cổ tức liên tục, ít nhất từ năm 1950;
+- không trả quá 25 lần lợi nhuận bình quân bảy năm và không quá 20 lần lợi nhuận 12 tháng gần nhất.
+
+Quy tắc 4 loại gần hết cổ phiếu tăng trưởng, và Graham giải thích bằng IBM (mất 50% giá trong sáu tháng 1961–1962 và gần như vậy lần nữa năm 1969–1970) và Texas Instruments (giá tăng từ 5 lên 256 USD, nhanh gấp năm lần lợi nhuận, rồi mất bốn phần năm, còn 49 USD).
+
+Graham cũng đề nghị hiểu "rủi ro" là khả năng mất giá trị thật (do bán lỗ, do công ty suy yếu nghiêm trọng, hoặc do trả giá quá cao so với giá trị nội tại), không phải là việc giá dao động.
+
+Zweig, viết đầu năm 2003 giữa đợt thị trường giá xuống 2000–2002, bổ sung rằng **chính đợt sụp đổ đã lấy đi phần lớn rủi ro của cổ phiếu, nên nhà đầu tư phòng thủ vẫn phải giữ cổ phiếu, và cách an toàn nhất là đặt danh mục ở chế độ "lái tự động"**.
+
+Ông cảnh báo khẩu hiệu "hãy mua thứ bạn biết" của Peter Lynch khi bị dùng mà không nghiên cứu: Barbra Streisand mua Starbucks vì ngày nào cũng uống cà phê ở đó; nhân viên Enron, WorldCom, Global Crossing dồn tiền hưu vào cổ phiếu công ty mình và mất hết.
+
+Thay vào đó, nhà đầu tư nên tự lập danh mục qua các trang môi giới trực tuyến phí thấp, hoặc thuê người tư vấn đáng tin, hoặc tốt nhất là mua quỹ chỉ số và đầu tư định kỳ một số tiền cố định.
+
+Ví dụ trung tâm: nếu đầu tư một lần 12.000 USD vào chỉ số S&P 500 đầu tháng 9/1929 thì 10 năm sau chỉ còn 7.223 USD; nếu bắt đầu với 100 USD và mỗi tháng góp thêm 100 USD (tổng cũng là 12.000 USD) thì đến tháng 8/1939 có 15.571 USD. Câu trả lời mạnh nhất của nhà đầu tư phòng thủ trước mọi câu hỏi dự báo thị trường là: "Tôi không biết và tôi không quan tâm."
 
 ## Sơ đồ
 
@@ -446,17 +455,23 @@ Zweig, viết đầu năm 2003 giữa đợt thị trường giá xuống 2000�
 
 Graham nhắc lại bối cảnh năm 1949, khi ra ấn bản đầu tiên. Lúc đó ông thấy cần viết hẳn một đoạn dài để bênh vực việc đưa một phần cổ phiếu đáng kể vào mọi danh mục đầu tư. Cổ phiếu khi ấy bị coi là rất đầu cơ, do đó nguy hiểm. Giá đã giảm khá nhiều so với đỉnh năm 1946, nhưng thay vì thu hút nhà đầu tư nhờ giá hợp lý, đợt giảm lại làm người ta mất lòng tin vào cổ phiếu. Trong 20 năm tiếp theo, tình hình đảo ngược: giá tăng mạnh khiến cổ phiếu trông như khoản đầu tư an toàn và sinh lời, đúng vào lúc giá ở mức kỷ lục, mức có thể mang lại rủi ro đáng kể.
 
-Chú thích của Zweig: đầu năm 1949, lợi suất bình quân của cổ phiếu Mỹ trong 20 năm trước đó chỉ là 3,1%/năm, thấp hơn 3,9%/năm của trái phiếu Kho bạc dài hạn; nghĩa là 10.000 USD đầu tư vào cổ phiếu tăng lên 18.415 USD, còn vào trái phiếu tăng lên 21.494 USD. Nhưng 1949 hoá ra là thời điểm mua cổ phiếu tuyệt vời: trong thập kỷ sau, chỉ số S&P 500 tăng trung bình 20,1%/năm, một trong những mức lợi suất dài hạn tốt nhất của thị trường Mỹ. Chú thích của Zweig về việc giá cao làm cổ phiếu trông an toàn: Graham đã bàn điều này ở phần Giới thiệu; Zweig mời người đọc hình dung Graham sẽ nghĩ gì về cuối thập niên 1990, khi mỗi kỷ lục mới được coi là thêm "bằng chứng" rằng cổ phiếu là con đường làm giàu không rủi ro.
+Chú thích của Zweig: đầu năm 1949, lợi suất bình quân của cổ phiếu Mỹ trong 20 năm trước đó chỉ là 3,1%/năm, thấp hơn 3,9%/năm của trái phiếu Kho bạc dài hạn; nghĩa là 10.000 USD đầu tư vào cổ phiếu tăng lên 18.415 USD, còn vào trái phiếu tăng lên 21.494 USD. Nhưng 1949 hoá ra là thời điểm mua cổ phiếu tuyệt vời: trong thập kỷ sau, chỉ số S&P 500 tăng trung bình 20,1%/năm, một trong những mức lợi suất dài hạn tốt nhất của thị trường Mỹ.
+
+Chú thích của Zweig về việc giá cao làm cổ phiếu trông an toàn: Graham đã bàn điều này ở phần Giới thiệu; Zweig mời người đọc hình dung Graham sẽ nghĩ gì về cuối thập niên 1990, khi mỗi kỷ lục mới được coi là thêm "bằng chứng" rằng cổ phiếu là con đường làm giàu không rủi ro.
 
 Lập luận năm 1949 dựa trên hai điểm. Thứ nhất, cổ phiếu đã che chắn được ở mức đáng kể trước việc lạm phát làm mòn sức mua của đồng đô la, còn trái phiếu thì không che chắn gì. Thứ hai, cổ phiếu mang lại lợi suất trung bình cao hơn cho nhà đầu tư qua nhiều năm, nhờ hai nguồn: cổ tức trung bình cao hơn lãi của trái phiếu tốt, và xu hướng giá thị trường tăng dần theo thời gian vì công ty tái đầu tư phần lợi nhuận không chia.
 
 Hai lợi thế này rất quan trọng và đã giúp cổ phiếu có thành tích dài hạn tốt hơn hẳn trái phiếu. Nhưng Graham luôn cảnh báo rằng người mua có thể mất cả hai lợi thế nếu trả giá quá cao. Năm 1929 là trường hợp rõ ràng: phải mất 25 năm thị trường mới trở lại mức đỉnh mà từ đó nó đã lao dốc khủng khiếp trong 1929–1932.
 
-Chú thích của Zweig: chỉ số Dow Jones đóng cửa ở mức kỷ lục 381,17 điểm ngày 3/9/1929 và chỉ vượt lại mức này ngày 23/11/1954, ở 382,74 điểm, hơn một phần tư thế kỷ sau. Zweig hỏi: khi nói mình giữ cổ phiếu "dài hạn", bạn có nhận ra "dài hạn" có thể dài thế nào không, và rằng nhiều người mua năm 1929 đã không còn sống đến năm 1954? Tuy vậy, với người kiên nhẫn tái đầu tư cổ tức, lợi suất vẫn dương trong giai đoạn u ám này, vì tỷ suất cổ tức trung bình hơn 5,6%/năm. Theo các giáo sư Elroy Dimson, Paul Marsh và Mike Staunton (London Business School), 1 USD đầu tư vào cổ phiếu Mỹ năm 1900, nếu tiêu hết cổ tức, thành 198 USD năm 2000; nếu tái đầu tư toàn bộ cổ tức, thành 16.797 USD. Zweig kết luận cổ tức là lực lớn nhất trong đầu tư cổ phiếu, không phải chuyện phụ.
+Chú thích của Zweig: chỉ số Dow Jones đóng cửa ở mức kỷ lục 381,17 điểm ngày 3/9/1929 và chỉ vượt lại mức này ngày 23/11/1954, ở 382,74 điểm, hơn một phần tư thế kỷ sau. Zweig hỏi: khi nói mình giữ cổ phiếu "dài hạn", bạn có nhận ra "dài hạn" có thể dài thế nào không, và rằng nhiều người mua năm 1929 đã không còn sống đến năm 1954?
+
+Tuy vậy, với người kiên nhẫn tái đầu tư cổ tức, lợi suất vẫn dương trong giai đoạn u ám này, vì tỷ suất cổ tức trung bình hơn 5,6%/năm. Theo các giáo sư Elroy Dimson, Paul Marsh và Mike Staunton (London Business School), 1 USD đầu tư vào cổ phiếu Mỹ năm 1900, nếu tiêu hết cổ tức, thành 198 USD năm 2000; nếu tái đầu tư toàn bộ cổ tức, thành 16.797 USD. Zweig kết luận cổ tức là lực lớn nhất trong đầu tư cổ phiếu, không phải chuyện phụ.
 
 Từ năm 1957, vì giá cao, cổ phiếu lại một lần nữa mất lợi thế truyền thống là tỷ suất cổ tức cao hơn lãi suất trái phiếu. Graham viết rằng còn phải chờ xem lạm phát và tăng trưởng kinh tế có bù được sự thay đổi bất lợi đáng kể này hay không.
 
-Chú thích của Zweig giải thích cơ chế: tỷ suất cổ tức là cổ tức tiền mặt chia cho giá cổ phiếu. Công ty trả cổ tức 2 USD/năm khi giá 100 USD thì tỷ suất 2%; giá tăng gấp đôi mà cổ tức giữ nguyên thì tỷ suất còn 1%. Năm 1959, khi xu hướng Graham nhận ra từ 1957 đã rõ với mọi người, hầu hết chuyên gia Phố Wall nói nó không thể kéo dài: chưa bao giờ cổ phiếu trả ít hơn trái phiếu, và vì cổ phiếu rủi ro hơn, ai lại mua chúng nếu không được trả thêm cổ tức để bù? Họ cho rằng trái phiếu chỉ vượt cổ phiếu vài tháng rồi mọi thứ trở lại "bình thường". Hơn bốn thập kỷ sau, quan hệ đó chưa bao giờ trở lại bình thường: tỷ suất cổ tức (tính đến lúc Zweig viết) vẫn luôn thấp hơn lợi suất trái phiếu.
+Chú thích của Zweig giải thích cơ chế: tỷ suất cổ tức là cổ tức tiền mặt chia cho giá cổ phiếu. Công ty trả cổ tức 2 USD/năm khi giá 100 USD thì tỷ suất 2%; giá tăng gấp đôi mà cổ tức giữ nguyên thì tỷ suất còn 1%.
+
+Năm 1959, khi xu hướng Graham nhận ra từ 1957 đã rõ với mọi người, hầu hết chuyên gia Phố Wall nói nó không thể kéo dài: chưa bao giờ cổ phiếu trả ít hơn trái phiếu, và vì cổ phiếu rủi ro hơn, ai lại mua chúng nếu không được trả thêm cổ tức để bù? Họ cho rằng trái phiếu chỉ vượt cổ phiếu vài tháng rồi mọi thứ trở lại "bình thường". Hơn bốn thập kỷ sau, quan hệ đó chưa bao giờ trở lại bình thường: tỷ suất cổ tức (tính đến lúc Zweig viết) vẫn luôn thấp hơn lợi suất trái phiếu.
 
 Graham viết rõ rằng ông không có chút hào hứng nào với cổ phiếu nói chung ở mức Dow Jones 900 điểm cuối năm 1971. Nhưng vì những lý do đã nêu (chú thích của Zweig: các lý do ở Chương 2 về lạm phát và Chương 4 về chính sách danh mục), ông cho rằng nhà đầu tư phòng thủ không thể thiếu một tỷ lệ cổ phiếu đáng kể, dù phải coi đó là cái ít xấu hơn trong hai cái xấu; cái xấu lớn hơn là rủi ro của việc giữ toàn trái phiếu.
 
@@ -491,7 +506,9 @@ Hai năm sau, lợi nhuận giảm gần 50% và giá giảm bốn phần năm, 
 
 Chú thích của Zweig: để thấy nhận xét của Graham đúng mãi, có thể thay IBM bằng Microsoft và Texas Instruments bằng Cisco. Cách nhau 30 năm, kết quả giống nhau lạ lùng: cổ phiếu Microsoft giảm 55,7% từ 2000 đến 2002; cổ phiếu Cisco, vốn đã tăng khoảng 50 lần trong sáu năm trước đó, mất 76% giá trị từ 2000 đến 2002. Cũng như Texas Instruments, giá Cisco giảm mạnh hơn lợi nhuận, vốn chỉ giảm 39,2% (so sánh lợi nhuận bình quân ba năm 1997–1999 với 2000–2002). Zweig tóm lại: càng nóng thì rơi càng đau.
 
-Từ các ví dụ này, Graham coi cổ phiếu tăng trưởng nói chung là phương tiện quá bất định và rủi ro cho nhà đầu tư phòng thủ. Dĩ nhiên có thể làm nên điều kỳ diệu với vài cổ phiếu được chọn đúng, mua ở mức giá đúng, rồi bán ra sau một đợt tăng lớn và trước đợt giảm có thể xảy ra. Nhưng nhà đầu tư trung bình không thể mong làm được điều đó, cũng như không thể mong tìm thấy tiền mọc trên cây. Ngược lại, Graham cho rằng nhóm công ty lớn tương đối ít được ưa chuộng, nhờ vậy mua được ở P/E hợp lý, là một vùng lựa chọn lành mạnh dù không ngoạn mục với công chúng. Chú thích của Zweig: "bội số lợi nhuận" đồng nghĩa với P/E, đo số tiền nhà đầu tư sẵn lòng trả cho một cổ phiếu so với khả năng sinh lời của doanh nghiệp. Graham hẹn minh hoạ ý này ở chương về chọn danh mục (Chương 14).
+Từ các ví dụ này, Graham coi cổ phiếu tăng trưởng nói chung là phương tiện quá bất định và rủi ro cho nhà đầu tư phòng thủ. Dĩ nhiên có thể làm nên điều kỳ diệu với vài cổ phiếu được chọn đúng, mua ở mức giá đúng, rồi bán ra sau một đợt tăng lớn và trước đợt giảm có thể xảy ra. Nhưng nhà đầu tư trung bình không thể mong làm được điều đó, cũng như không thể mong tìm thấy tiền mọc trên cây.
+
+Ngược lại, Graham cho rằng nhóm công ty lớn tương đối ít được ưa chuộng, nhờ vậy mua được ở P/E hợp lý, là một vùng lựa chọn lành mạnh dù không ngoạn mục với công chúng. Chú thích của Zweig: "bội số lợi nhuận" đồng nghĩa với P/E, đo số tiền nhà đầu tư sẵn lòng trả cho một cổ phiếu so với khả năng sinh lời của doanh nghiệp. Graham hẹn minh hoạ ý này ở chương về chọn danh mục (Chương 14).
 
 #### 4. Điều chỉnh danh mục ("Modifications du portefeuille", PDF trang 107)
 
@@ -505,9 +522,13 @@ Chú thích của Zweig: nay nhà đầu tư có thể tự lập hệ thống t
 
 Sở Giao dịch Chứng khoán New York đã nỗ lực quảng bá "kế hoạch mua hằng tháng", theo đó nhà đầu tư mỗi tháng dùng cùng một số tiền mua một hoặc vài cổ phiếu. Đây là một dạng đặc biệt của "đầu tư theo công thức" (formula investing), gọi là dollar-cost averaging. Trong giai đoạn thị trường đi lên từ năm 1949, kết quả của cách làm này chắc chắn rất tốt, nhất là vì nó ngăn người áp dụng dồn tiền mua vào sai thời điểm.
 
-Trong nghiên cứu đầy đủ về các kế hoạch đầu tư theo công thức của Lucile Tomlinson (chú thích 1 của Graham: nhà xuất bản Wilfred Funk, Inc., 1953), tác giả tính kết quả của việc mua bình quân đều các cổ phiếu thuộc chỉ số Dow Jones Industrial. Bà kiểm tra 23 giai đoạn mua, mỗi giai đoạn 10 năm, giai đoạn đầu kết thúc năm 1929 và giai đoạn cuối kết thúc năm 1952. Mọi lần kiểm tra đều cho kết quả có lãi, hoặc ngay cuối giai đoạn mua, hoặc trong vòng năm năm sau đó. Lãi trung bình ở cuối 23 giai đoạn là 21,5%, chưa tính cổ tức đã nhận. Dĩ nhiên trong một số trường hợp giá trị thị trường đã sụt tạm thời đáng kể. Tomlinson kết thúc phần bàn về công thức cực kỳ đơn giản này bằng nhận xét rằng chưa ai tìm ra công thức đầu tư nào khác có thể dùng với niềm tin vào thành công cuối cùng như vậy, bất kể giá chứng khoán ra sao.
+Trong nghiên cứu đầy đủ về các kế hoạch đầu tư theo công thức của Lucile Tomlinson (chú thích 1 của Graham: nhà xuất bản Wilfred Funk, Inc., 1953), tác giả tính kết quả của việc mua bình quân đều các cổ phiếu thuộc chỉ số Dow Jones Industrial. Bà kiểm tra 23 giai đoạn mua, mỗi giai đoạn 10 năm, giai đoạn đầu kết thúc năm 1929 và giai đoạn cuối kết thúc năm 1952.
 
-Có thể phản bác rằng phương pháp này về nguyên tắc thì đúng nhưng thực tế khó áp dụng, vì ít người ở vị thế có thể dành cùng một số tiền để mua cổ phiếu mỗi năm trong, chẳng hạn, 20 năm. Graham cho rằng phản bác này đã yếu đi nhiều trong những năm gần đó. Cổ phiếu nay được chấp nhận rộng rãi như một phần cần thiết của một chương trình tiết kiệm và đầu tư vững chắc. Vì vậy, mua cổ phiếu đều đặn và có hệ thống có thể không khó hơn về tâm lý và tài chính so với các khoản đóng liên tục tương tự cho trái phiếu tiết kiệm của Chính phủ Mỹ và cho bảo hiểm nhân thọ, và nên bổ sung cho các khoản đó. Số tiền mỗi tháng có thể nhỏ, nhưng kết quả sau 20 năm trở lên có thể rất ấn tượng và quan trọng với người tiết kiệm.
+Mọi lần kiểm tra đều cho kết quả có lãi, hoặc ngay cuối giai đoạn mua, hoặc trong vòng năm năm sau đó. Lãi trung bình ở cuối 23 giai đoạn là 21,5%, chưa tính cổ tức đã nhận. Dĩ nhiên trong một số trường hợp giá trị thị trường đã sụt tạm thời đáng kể. Tomlinson kết thúc phần bàn về công thức cực kỳ đơn giản này bằng nhận xét rằng chưa ai tìm ra công thức đầu tư nào khác có thể dùng với niềm tin vào thành công cuối cùng như vậy, bất kể giá chứng khoán ra sao.
+
+Có thể phản bác rằng phương pháp này về nguyên tắc thì đúng nhưng thực tế khó áp dụng, vì ít người ở vị thế có thể dành cùng một số tiền để mua cổ phiếu mỗi năm trong, chẳng hạn, 20 năm. Graham cho rằng phản bác này đã yếu đi nhiều trong những năm gần đó. Cổ phiếu nay được chấp nhận rộng rãi như một phần cần thiết của một chương trình tiết kiệm và đầu tư vững chắc.
+
+Vì vậy, mua cổ phiếu đều đặn và có hệ thống có thể không khó hơn về tâm lý và tài chính so với các khoản đóng liên tục tương tự cho trái phiếu tiết kiệm của Chính phủ Mỹ và cho bảo hiểm nhân thọ, và nên bổ sung cho các khoản đó. Số tiền mỗi tháng có thể nhỏ, nhưng kết quả sau 20 năm trở lên có thể rất ấn tượng và quan trọng với người tiết kiệm.
 
 #### 6. Hoàn cảnh cá nhân của nhà đầu tư ("La situation personnelle de l'investisseur", PDF trang 108–110)
 
@@ -519,13 +540,19 @@ Graham quay lại câu hỏi: loại chứng khoán nhà đầu tư chọn nên 
 | (2) Bác sĩ thành đạt, giữa sự nghiệp | Tiết kiệm 100.000, mỗi năm thêm 10.000 | khoảng 500.000, mỗi năm thêm 50.000 | Nếu không ham đầu tư thì làm nhà đầu tư phòng thủ, cùng tỷ lệ như góa phụ |
 | (3) Thanh niên | Lương 200/tuần, để dành 1.000/năm | lương khoảng 1.000/tuần, để dành 5.000/năm | Một phần vào trái phiếu tiết kiệm Series E, còn lại theo chương trình phòng thủ chuẩn |
 
-**Góa phụ.** Với bà, sống bằng thu nhập từ khoản tiền là bài toán rất khó; mặt khác, nhu cầu thận trọng trong đầu tư là hàng đầu. Chia khoản tiền gần đều giữa trái phiếu Chính phủ Mỹ và cổ phiếu hàng đầu là sự dung hoà giữa hai mục tiêu và khớp với khuyến nghị chung cho nhà đầu tư phòng thủ. Phần cổ phiếu có thể lên tới 75% nếu nhà đầu tư đã chuẩn bị tâm lý cho quyết định đó và gần như chắc chắn không mua ở mức giá quá cao; Graham nói rõ đầu năm 1972 chắc chắn không phải lúc như vậy. Ông không loại trừ khả năng góa phụ là nhà đầu tư năng động, khi đó mục tiêu và phương pháp sẽ rất khác. Điều duy nhất bà không được làm là chấp nhận rủi ro đầu cơ để "kiếm thêm thu nhập", tức cố kiếm lợi nhuận hoặc thu nhập cao mà không có đủ năng lực để hoàn toàn tin vào thành công chung cuộc. Thà mỗi năm rút 2.000 USD từ vốn gốc để đủ sống còn hơn đem một nửa số vốn mạo hiểm vào các thương vụ thiếu cơ sở, tức đầu cơ.
+**Góa phụ.** Với bà, sống bằng thu nhập từ khoản tiền là bài toán rất khó; mặt khác, nhu cầu thận trọng trong đầu tư là hàng đầu. Chia khoản tiền gần đều giữa trái phiếu Chính phủ Mỹ và cổ phiếu hàng đầu là sự dung hoà giữa hai mục tiêu và khớp với khuyến nghị chung cho nhà đầu tư phòng thủ. Phần cổ phiếu có thể lên tới 75% nếu nhà đầu tư đã chuẩn bị tâm lý cho quyết định đó và gần như chắc chắn không mua ở mức giá quá cao; Graham nói rõ đầu năm 1972 chắc chắn không phải lúc như vậy.
 
-**Bác sĩ thành đạt.** Ông không chịu áp lực và ràng buộc như góa phụ, nhưng Graham cho rằng lựa chọn của ông gần như giống bà. Câu hỏi là ông có sẵn lòng quan tâm nghiêm túc tới việc đầu tư không. Nếu không có động lực hay năng khiếu, ông nên nhận vai trò dễ dàng của nhà đầu tư phòng thủ. Khi đó, cách chia danh mục không khác của một góa phụ "điển hình", với cùng phạm vi tự quyết về tỷ lệ cổ phiếu; tiền tiết kiệm hằng năm được đầu tư theo cùng tỷ lệ với tổng quỹ. Bác sĩ trung bình có thể dễ chọn làm nhà đầu tư năng động hơn góa phụ trung bình, và có lẽ dễ thành công hơn. Nhưng ông có một bất lợi lớn: ít thời gian học về đầu tư và quản lý tiền. Graham nhận xét thực tế bác sĩ nổi tiếng là hay thất bại khi kinh doanh chứng khoán, vì họ thường rất tự tin vào trí tuệ của mình và rất muốn sinh lời tốt, mà không nhận ra làm điều đó thành công đòi hỏi vừa nhiều sự chú tâm vừa cách tiếp cận gần như chuyên nghiệp với việc định giá chứng khoán.
+Ông không loại trừ khả năng góa phụ là nhà đầu tư năng động, khi đó mục tiêu và phương pháp sẽ rất khác. Điều duy nhất bà không được làm là chấp nhận rủi ro đầu cơ để "kiếm thêm thu nhập", tức cố kiếm lợi nhuận hoặc thu nhập cao mà không có đủ năng lực để hoàn toàn tin vào thành công chung cuộc. Thà mỗi năm rút 2.000 USD từ vốn gốc để đủ sống còn hơn đem một nửa số vốn mạo hiểm vào các thương vụ thiếu cơ sở, tức đầu cơ.
+
+**Bác sĩ thành đạt.** Ông không chịu áp lực và ràng buộc như góa phụ, nhưng Graham cho rằng lựa chọn của ông gần như giống bà. Câu hỏi là ông có sẵn lòng quan tâm nghiêm túc tới việc đầu tư không. Nếu không có động lực hay năng khiếu, ông nên nhận vai trò dễ dàng của nhà đầu tư phòng thủ. Khi đó, cách chia danh mục không khác của một góa phụ "điển hình", với cùng phạm vi tự quyết về tỷ lệ cổ phiếu; tiền tiết kiệm hằng năm được đầu tư theo cùng tỷ lệ với tổng quỹ.
+
+Bác sĩ trung bình có thể dễ chọn làm nhà đầu tư năng động hơn góa phụ trung bình, và có lẽ dễ thành công hơn. Nhưng ông có một bất lợi lớn: ít thời gian học về đầu tư và quản lý tiền. Graham nhận xét thực tế bác sĩ nổi tiếng là hay thất bại khi kinh doanh chứng khoán, vì họ thường rất tự tin vào trí tuệ của mình và rất muốn sinh lời tốt, mà không nhận ra làm điều đó thành công đòi hỏi vừa nhiều sự chú tâm vừa cách tiếp cận gần như chuyên nghiệp với việc định giá chứng khoán.
 
 **Thanh niên** để dành 1.000 USD mỗi năm và mong tăng dần. Anh cũng có những lựa chọn như vậy, nhưng vì lý do khác. Một phần tiền để dành nên tự động đưa vào trái phiếu tiết kiệm Series E. Phần còn lại quá nhỏ, nên không đáng để anh tự rèn qua một quá trình học hỏi và rèn tính khí khó khăn nhằm trở thành nhà đầu tư năng động. Vì vậy áp dụng chương trình chuẩn cho nhà đầu tư phòng thủ là chính sách đơn giản và hợp lý nhất.
 
-Nhưng Graham không bỏ qua bản tính con người. Tài chính cuốn hút nhiều người trẻ sáng dạ mà ít tiền. Họ muốn vừa thông minh vừa năng động khi đầu tư tiền tiết kiệm, dù thu nhập từ đầu tư kém xa tiền lương của họ. Graham thấy thái độ này hoàn toàn tốt: nhà tư bản trẻ được lợi lớn khi bắt đầu sớm việc học và trải nghiệm tài chính. Nếu muốn hoạt động như nhà đầu tư năng động, anh chắc chắn sẽ mắc sai lầm và chịu thua lỗ; người trẻ chịu được những thất vọng đó và học được từ chúng. Graham khuyên người mới mua chứng khoán đừng phí công sức và tiền bạc để cố đánh bại thị trường; hãy học về định giá chứng khoán và thử phán đoán giá so với giá trị trước với số tiền nhỏ nhất có thể.
+Nhưng Graham không bỏ qua bản tính con người. Tài chính cuốn hút nhiều người trẻ sáng dạ mà ít tiền. Họ muốn vừa thông minh vừa năng động khi đầu tư tiền tiết kiệm, dù thu nhập từ đầu tư kém xa tiền lương của họ. Graham thấy thái độ này hoàn toàn tốt: nhà tư bản trẻ được lợi lớn khi bắt đầu sớm việc học và trải nghiệm tài chính.
+
+Nếu muốn hoạt động như nhà đầu tư năng động, anh chắc chắn sẽ mắc sai lầm và chịu thua lỗ; người trẻ chịu được những thất vọng đó và học được từ chúng. Graham khuyên người mới mua chứng khoán đừng phí công sức và tiền bạc để cố đánh bại thị trường; hãy học về định giá chứng khoán và thử phán đoán giá so với giá trị trước với số tiền nhỏ nhất có thể.
 
 Graham kết lại bằng khẳng định đã nêu từ trước (ở đầu Chương 4): loại chứng khoán nên mua và mức lợi suất nên tìm không phụ thuộc vào nguồn lực tài chính của nhà đầu tư, mà vào "hành trang" tài chính của họ, tức kiến thức, kinh nghiệm và tính khí.
 
@@ -535,9 +562,13 @@ Người ta quen nói trái phiếu tốt ít rủi ro hơn cổ phiếu ưu đ�
 
 Nghĩa thứ nhất là nghĩa đúng. Một trái phiếu rõ ràng đã tỏ ra không an toàn khi nó không trả được lãi hoặc gốc. Tương tự, nếu một cổ phiếu ưu đãi, hay cả cổ phiếu phổ thông, được mua với kỳ vọng một mức cổ tức nhất định sẽ được duy trì, thì việc cổ tức bị giảm hoặc ngừng trả có nghĩa là nó đã tỏ ra không an toàn. Một khoản đầu tư cũng có rủi ro nếu có khả năng hợp lý rằng người giữ phải bán vào lúc giá thấp hơn nhiều so với giá vốn.
 
-Nghĩa thứ hai bị mở rộng: khái niệm rủi ro thường được áp dụng cho khả năng giá một chứng khoán giảm, ngay cả khi đợt giảm có tính chu kỳ và tạm thời, và người giữ khó có khả năng bị buộc phải bán vào lúc đó. Khả năng giảm giá như vậy có ở mọi chứng khoán, trừ trái phiếu tiết kiệm của Chính phủ Mỹ, và với cổ phiếu nói chung thì nhiều hơn so với chứng khoán có thứ tự ưu tiên cao (trái phiếu, cổ phiếu ưu đãi). Graham cho rằng đây không phải rủi ro thật theo nghĩa hữu ích. Người nắm khoản vay thế chấp một toà nhà có thể chịu lỗ đáng kể nếu bị buộc bán khoản vay vào lúc bất lợi, nhưng yếu tố đó không được tính khi đánh giá độ an toàn của các khoản vay thế chấp bất động sản thông thường; tiêu chí duy nhất là sự chắc chắn của các khoản thanh toán đúng hạn. Tương tự, rủi ro của một doanh nghiệp thương mại bình thường được đo bằng khả năng mất tiền, không phải bằng chuyện gì xảy ra nếu chủ buộc phải bán.
+Nghĩa thứ hai bị mở rộng: khái niệm rủi ro thường được áp dụng cho khả năng giá một chứng khoán giảm, ngay cả khi đợt giảm có tính chu kỳ và tạm thời, và người giữ khó có khả năng bị buộc phải bán vào lúc đó. Khả năng giảm giá như vậy có ở mọi chứng khoán, trừ trái phiếu tiết kiệm của Chính phủ Mỹ, và với cổ phiếu nói chung thì nhiều hơn so với chứng khoán có thứ tự ưu tiên cao (trái phiếu, cổ phiếu ưu đãi).
 
-Graham hẹn trình bày ở Chương 8 niềm tin rằng nhà đầu tư thực thụ không mất tiền chỉ vì giá thị trường của tài sản mình giảm; do đó, việc giá có thể giảm không có nghĩa là họ đang chịu rủi ro thua lỗ thật. Nếu một nhóm cổ phiếu được chọn kỹ cho lợi suất tổng thể thỏa đáng, đo qua khá nhiều năm, thì khoản đầu tư theo nhóm đó đã tỏ ra "an toàn". Trong thời gian đó, giá thị trường chắc chắn dao động, và nhiều khả năng như không, sẽ có lúc nhóm cổ phiếu ấy bán dưới giá vốn của người mua. Nếu điều đó làm khoản đầu tư thành "rủi ro", thì phải gọi nó vừa rủi ro vừa an toàn. Có thể tránh lẫn lộn bằng cách chỉ dùng khái niệm rủi ro cho sự mất giá trị khi nó (1) đã được hiện thực hoá bằng việc bán thật, hoặc (2) do vị thế của công ty suy yếu đáng kể, hoặc, có lẽ thường gặp hơn, (3) là hệ quả của việc trả giá quá cao so với giá trị nội tại của chứng khoán.
+Graham cho rằng đây không phải rủi ro thật theo nghĩa hữu ích. Người nắm khoản vay thế chấp một toà nhà có thể chịu lỗ đáng kể nếu bị buộc bán khoản vay vào lúc bất lợi, nhưng yếu tố đó không được tính khi đánh giá độ an toàn của các khoản vay thế chấp bất động sản thông thường; tiêu chí duy nhất là sự chắc chắn của các khoản thanh toán đúng hạn. Tương tự, rủi ro của một doanh nghiệp thương mại bình thường được đo bằng khả năng mất tiền, không phải bằng chuyện gì xảy ra nếu chủ buộc phải bán.
+
+Graham hẹn trình bày ở Chương 8 niềm tin rằng nhà đầu tư thực thụ không mất tiền chỉ vì giá thị trường của tài sản mình giảm; do đó, việc giá có thể giảm không có nghĩa là họ đang chịu rủi ro thua lỗ thật. Nếu một nhóm cổ phiếu được chọn kỹ cho lợi suất tổng thể thỏa đáng, đo qua khá nhiều năm, thì khoản đầu tư theo nhóm đó đã tỏ ra "an toàn". Trong thời gian đó, giá thị trường chắc chắn dao động, và nhiều khả năng như không, sẽ có lúc nhóm cổ phiếu ấy bán dưới giá vốn của người mua.
+
+Nếu điều đó làm khoản đầu tư thành "rủi ro", thì phải gọi nó vừa rủi ro vừa an toàn. Có thể tránh lẫn lộn bằng cách chỉ dùng khái niệm rủi ro cho sự mất giá trị khi nó (1) đã được hiện thực hoá bằng việc bán thật, hoặc (2) do vị thế của công ty suy yếu đáng kể, hoặc, có lẽ thường gặp hơn, (3) là hệ quả của việc trả giá quá cao so với giá trị nội tại của chứng khoán.
 
 Chú thích 2 của Graham: trong các cách tiếp cận toán học hiện nay về quyết định đầu tư, người ta thường định nghĩa "rủi ro" bằng mức biến động giá trung bình hay "độ biến động" (volatility), chẳng hạn trong sách của Richard A. Brealey (The MIT Press, 1969). Graham thấy cách dùng chữ "rủi ro" này có hại nhiều hơn có lợi cho các quyết định đầu tư đúng đắn, vì nó nhấn mạnh quá mức vào dao động thị trường.
 
@@ -549,7 +580,9 @@ Cụm từ này được dùng ở đầu chương để mô tả loại cổ ph
 
 **Tài chính thận trọng.** Với điểm cuối, Graham gợi ý một chuẩn cụ thể, dù tuỳ ý, nhưng phù hợp với quan niệm được chấp nhận: tài chính của một công ty công nghiệp không được coi là thận trọng trừ khi cổ phiếu phổ thông (theo giá trị sổ sách) chiếm ít nhất một nửa tổng vốn, kể cả mọi khoản nợ ngân hàng. Chú thích 3 của Graham: cả 30 công ty trong Dow Jones đều đạt chuẩn này năm 1971. Với công ty đường sắt hoặc tiện ích công cộng, con số phải ít nhất là 30%.
 
-**Lớn và nổi bật.** Hai chữ này mang ý quy mô đáng kể kết hợp với vị trí dẫn đầu ngành. Các công ty như vậy thường được gọi là cổ phiếu "hàng đầu" (primary); mọi cổ phiếu khác gọi là "hạng hai" (secondary), trừ cổ phiếu tăng trưởng, thường được người mua chúng xếp riêng một nhóm. Để cụ thể, Graham gợi ý: theo điều kiện lúc đó, công ty "lớn" phải có 50 triệu USD tài sản hoặc 50 triệu USD doanh thu. Chú thích của Zweig: trên thị trường ngày nay (2003), để được coi là lớn, công ty phải có tổng giá trị cổ phiếu (vốn hóa thị trường) ít nhất 10 tỷ USD; theo công cụ lọc cổ phiếu trực tuyến của Yahoo, đầu năm 2003 có khoảng 300 cổ phiếu như vậy. Để được coi là "nổi bật", công ty phải xếp trong nhóm một phần tư hoặc một phần ba đầu về quy mô trong ngành của mình (bản Pháp viết sai thành "premier ou troisième tiers").
+**Lớn và nổi bật.** Hai chữ này mang ý quy mô đáng kể kết hợp với vị trí dẫn đầu ngành. Các công ty như vậy thường được gọi là cổ phiếu "hàng đầu" (primary); mọi cổ phiếu khác gọi là "hạng hai" (secondary), trừ cổ phiếu tăng trưởng, thường được người mua chúng xếp riêng một nhóm.
+
+Để cụ thể, Graham gợi ý: theo điều kiện lúc đó, công ty "lớn" phải có 50 triệu USD tài sản hoặc 50 triệu USD doanh thu. Chú thích của Zweig: trên thị trường ngày nay (2003), để được coi là lớn, công ty phải có tổng giá trị cổ phiếu (vốn hóa thị trường) ít nhất 10 tỷ USD; theo công cụ lọc cổ phiếu trực tuyến của Yahoo, đầu năm 2003 có khoảng 300 cổ phiếu như vậy. Để được coi là "nổi bật", công ty phải xếp trong nhóm một phần tư hoặc một phần ba đầu về quy mô trong ngành của mình (bản Pháp viết sai thành "premier ou troisième tiers").
 
 Graham nói thêm rằng khăng khăng với những tiêu chí tuỳ ý như vậy là thiếu khôn ngoan; chúng chỉ là gợi ý cho ai cần lời khuyên. Bất kỳ quy tắc nào nhà đầu tư tự đặt ra mà không trái với nghĩa thông thường của "lớn" và "nổi bật" đều chấp nhận được. Do bản chất vấn đề, sẽ có một nhóm lớn công ty mà người này xếp vào loại phù hợp cho đầu tư phòng thủ còn người kia thì không. Sự khác biệt ý kiến và hành động như vậy không có hại; thực ra nó có lợi cho thị trường, vì tạo ra sự phân hoá hay chuyển tiếp dần dần giữa nhóm cổ phiếu hàng đầu và hạng hai.
 
@@ -571,13 +604,19 @@ May thay, chưa bao giờ việc mua cổ phiếu dễ dàng như vậy cho nhà
 
 #### 2. Có nên "mua thứ bạn biết"? ("Devriez-vous «acheter ce que vous savez»?", PDF trang 114–117)
 
-Trước hết, Zweig xét một điều nhà đầu tư phòng thủ luôn phải đề phòng: niềm tin rằng có thể chọn cổ phiếu mà không làm bài tập. Trong thập niên 1980 và đầu 1990, một trong những khẩu hiệu đầu tư phổ biến nhất là "Hãy mua thứ bạn biết". Peter Lynch, người từ 1977 đến 1990 đã đưa quỹ Fidelity Magellan tới thành tích tốt nhất từng có của một quỹ tương hỗ, là người truyền bá khẩu hiệu này lôi cuốn nhất. Lynch lập luận rằng nhà đầu tư nghiệp dư có một lợi thế mà dân chuyên nghiệp đã quên dùng: "sức mạnh của hiểu biết thông thường". Nếu bạn phát hiện một nhà hàng mới tuyệt vời, một mẫu xe, một loại kem đánh răng hay một chiếc quần jean; hoặc nhận thấy bãi đậu xe của một công ty gần nhà luôn kín chỗ, hay nhân viên ở trụ sở một công ty vẫn làm việc rất lâu sau khi chương trình đêm khuya của Jay Leno đã kết thúc, thì bạn có một hiểu biết riêng về cổ phiếu đó mà nhà phân tích hay người quản lý danh mục chuyên nghiệp có thể không bao giờ nắm được. Lynch nói rằng qua cả đời mua xe hay máy ảnh, bạn biết cái gì tốt, cái gì xấu, cái gì bán chạy, cái gì không, và quan trọng nhất là bạn biết điều đó trước Phố Wall. Chú thích 1 của Zweig: Peter Lynch với John Rothchild, *One Up on Wall Street* (Penguin, 1989), trang 23.
+Trước hết, Zweig xét một điều nhà đầu tư phòng thủ luôn phải đề phòng: niềm tin rằng có thể chọn cổ phiếu mà không làm bài tập. Trong thập niên 1980 và đầu 1990, một trong những khẩu hiệu đầu tư phổ biến nhất là "Hãy mua thứ bạn biết". Peter Lynch, người từ 1977 đến 1990 đã đưa quỹ Fidelity Magellan tới thành tích tốt nhất từng có của một quỹ tương hỗ, là người truyền bá khẩu hiệu này lôi cuốn nhất.
+
+Lynch lập luận rằng nhà đầu tư nghiệp dư có một lợi thế mà dân chuyên nghiệp đã quên dùng: "sức mạnh của hiểu biết thông thường". Nếu bạn phát hiện một nhà hàng mới tuyệt vời, một mẫu xe, một loại kem đánh răng hay một chiếc quần jean; hoặc nhận thấy bãi đậu xe của một công ty gần nhà luôn kín chỗ, hay nhân viên ở trụ sở một công ty vẫn làm việc rất lâu sau khi chương trình đêm khuya của Jay Leno đã kết thúc, thì bạn có một hiểu biết riêng về cổ phiếu đó mà nhà phân tích hay người quản lý danh mục chuyên nghiệp có thể không bao giờ nắm được.
+
+Lynch nói rằng qua cả đời mua xe hay máy ảnh, bạn biết cái gì tốt, cái gì xấu, cái gì bán chạy, cái gì không, và quan trọng nhất là bạn biết điều đó trước Phố Wall. Chú thích 1 của Zweig: Peter Lynch với John Rothchild, *One Up on Wall Street* (Penguin, 1989), trang 23.
 
 Quy tắc của Lynch, "bạn có thể vượt các chuyên gia nếu dùng lợi thế của mình để đầu tư vào công ty hay ngành mà bạn đã hiểu", không hoàn toàn vô lý, và hàng nghìn nhà đầu tư đã hưởng lợi từ nó. Nhưng nó chỉ hiệu quả nếu bạn làm theo cả hệ quả đi kèm: tìm ra công ty triển vọng chỉ là bước đầu; bước tiếp theo là nghiên cứu. Zweig ghi nhận Lynch nhấn mạnh rằng không ai nên đầu tư vào một công ty, dù sản phẩm tốt tới đâu hay bãi xe đông tới đâu, mà không nghiên cứu báo cáo tài chính và ước tính giá trị doanh nghiệp. Đáng tiếc, phần lớn người mua cổ phiếu bỏ qua phần này.
 
 Barbra Streisand, "nữ hoàng giao dịch trong ngày", là hiện thân của cách người ta dùng sai lời dạy của Lynch. Năm 1999 bà nói đại ý: chúng tôi ngày nào cũng tới Starbucks, nên tôi mua cổ phiếu Starbucks. Nhưng bà quên rằng dù thích cà phê latte tới đâu, bạn vẫn phải phân tích báo cáo tài chính của Starbucks và chắc chắn rằng cổ phiếu không còn đắt hơn cả cà phê. Vô số người mua cổ phiếu mắc cùng lỗi khi mua dồn cổ phiếu Amazon.com vì thích trang web, hay mua cổ phiếu E*Trade vì đó là công ty môi giới trực tuyến của họ.
 
-Các "chuyên gia" cũng ủng hộ ý tưởng này. Trong một cuộc phỏng vấn trên CNN cuối năm 1999, người dẫn hỏi Kevin Landis, người quản lý danh mục của Firsthand Funds: anh làm thế nào, sao tôi không làm được? (Từ 1995 đến cuối 1999, quỹ Firsthand Technology Value có lãi trung bình đáng kinh ngạc 58,2%/năm.) Landis đáp: bạn làm được; tất cả những gì cần làm là tập trung vào những thứ bạn biết, theo sát một ngành và nói chuyện với người làm trong ngành đó mỗi ngày. Chú thích 2 của Zweig: phỏng vấn trên chương trình CNN *In the Money*, ngày 5/11/1999; nếu thành tích của chính Landis là thước đo, thì tập trung vào "những thứ bạn biết" không phải là "tất cả những gì cần làm": từ cuối 1999 đến cuối 2002, quỹ của Landis, đầy cổ phiếu công nghệ mà ông tự nhận biết "tận tay" từ trụ sở ở Thung lũng Silicon, mất 73,2% giá trị, tệ hơn cả quỹ công nghệ trung bình trong cùng giai đoạn.
+Các "chuyên gia" cũng ủng hộ ý tưởng này. Trong một cuộc phỏng vấn trên CNN cuối năm 1999, người dẫn hỏi Kevin Landis, người quản lý danh mục của Firsthand Funds: anh làm thế nào, sao tôi không làm được? (Từ 1995 đến cuối 1999, quỹ Firsthand Technology Value có lãi trung bình đáng kinh ngạc 58,2%/năm.) Landis đáp: bạn làm được; tất cả những gì cần làm là tập trung vào những thứ bạn biết, theo sát một ngành và nói chuyện với người làm trong ngành đó mỗi ngày.
+
+Chú thích 2 của Zweig: phỏng vấn trên chương trình CNN *In the Money*, ngày 5/11/1999; nếu thành tích của chính Landis là thước đo, thì tập trung vào "những thứ bạn biết" không phải là "tất cả những gì cần làm": từ cuối 1999 đến cuối 2002, quỹ của Landis, đầy cổ phiếu công nghệ mà ông tự nhận biết "tận tay" từ trụ sở ở Thung lũng Silicon, mất 73,2% giá trị, tệ hơn cả quỹ công nghệ trung bình trong cùng giai đoạn.
 
 Sự xuyên tạc đau đớn nhất của quy tắc Lynch xảy ra trong các kế hoạch hưu trí của doanh nghiệp. Nếu nên "mua thứ bạn biết", thì khoản đầu tư nào cho tài khoản 401(k) tốt hơn cổ phiếu công ty của chính mình? Bạn làm việc ở đó, chẳng lẽ không biết về công ty nhiều hơn người ngoài? Đáng tiếc, nhân viên Enron, Global Crossing và WorldCom, nhiều người đã dồn gần hết tài sản hưu trí vào cổ phiếu công ty mình rồi mất trắng, đã học được rằng người trong cuộc thường chỉ có ảo tưởng về hiểu biết chứ không có hiểu biết thật.
 
@@ -601,11 +640,15 @@ Khác với môi giới truyền thống hay quỹ tương hỗ không nhận kh
 
 Bạn cũng có thể mua cổ phiếu trực tiếp từ công ty phát hành. Năm 1994, Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) nới các ràng buộc lâu nay với việc bán cổ phiếu trực tiếp cho công chúng. Hàng trăm công ty đã lập chương trình trên Internet cho phép nhà đầu tư mua cổ phiếu không qua môi giới. Các nguồn thông tin trực tuyến hữu ích về mua trực tiếp gồm dripcentral.com, netstockdirect.com (công ty con của Sharebuilder) và stockpower.com. Bạn có thể phải chịu nhiều khoản phí lặt vặt, có khi hơn 25 USD mỗi năm; dù vậy, các chương trình mua trực tiếp thường vẫn rẻ hơn môi giới chứng khoán.
 
-Zweig cảnh báo: mua cổ phiếu từng khoản nhỏ trong nhiều năm có thể gây đau đầu về thuế. Nếu không sẵn lòng lưu giữ hồ sơ đầy đủ, lâu dài về các lần mua, thì đừng mua ngay từ đầu. Cuối cùng, đừng đầu tư vào chỉ một hay một nhúm cổ phiếu: nếu không sẵn lòng chia nhỏ các khoản cược thì đừng cược gì cả. Hướng dẫn của Graham về giữ từ 10 đến 30 cổ phiếu vẫn là điểm xuất phát tốt cho người muốn tự chọn cổ phiếu, nhưng phải chắc mình không dồn quá nhiều vào một ngành. Chú thích 6 của Zweig: để kiểm tra danh mục có đủ đa dạng giữa các ngành không, có thể dùng công cụ miễn phí "Instant X-Ray" trên morningstar.com hoặc xem phân ngành theo chuẩn GICS (Global Industry Classification Standard) trên standardandpoors.com. Để chọn từng cổ phiếu, Zweig chỉ lại bốn quy tắc của Graham trong chương này và các Chương 11, 14, 15.
+Zweig cảnh báo: mua cổ phiếu từng khoản nhỏ trong nhiều năm có thể gây đau đầu về thuế. Nếu không sẵn lòng lưu giữ hồ sơ đầy đủ, lâu dài về các lần mua, thì đừng mua ngay từ đầu.
+
+Cuối cùng, đừng đầu tư vào chỉ một hay một nhúm cổ phiếu: nếu không sẵn lòng chia nhỏ các khoản cược thì đừng cược gì cả. Hướng dẫn của Graham về giữ từ 10 đến 30 cổ phiếu vẫn là điểm xuất phát tốt cho người muốn tự chọn cổ phiếu, nhưng phải chắc mình không dồn quá nhiều vào một ngành. Chú thích 6 của Zweig: để kiểm tra danh mục có đủ đa dạng giữa các ngành không, có thể dùng công cụ miễn phí "Instant X-Ray" trên morningstar.com hoặc xem phân ngành theo chuẩn GICS (Global Industry Classification Standard) trên standardandpoors.com. Để chọn từng cổ phiếu, Zweig chỉ lại bốn quy tắc của Graham trong chương này và các Chương 11, 14, 15.
 
 Nếu sau khi lập danh mục lái tự động trực tuyến như vậy mà bạn giao dịch hơn hai lần một năm, hoặc tổng cộng dành hơn một hai giờ mỗi tháng cho việc đầu tư, thì có gì đó đã sai. Đừng để sự dễ dàng và tính thời sự của Internet dụ bạn thành kẻ đầu cơ. Nhà đầu tư phòng thủ chạy, và thắng, cuộc đua bằng cách ngồi yên.
 
-**Nhờ giúp ("Obtenir de l'aide", bản gốc "Get some help").** Nhà đầu tư phòng thủ cũng có thể nắm cổ phiếu qua môi giới giá rẻ (discount broker), người lập kế hoạch tài chính hoặc môi giới chứng khoán trọn gói. Ở môi giới giá rẻ, bạn phải tự làm phần lớn việc chọn cổ phiếu; các hướng dẫn của Graham giúp bạn lập một danh mục cốt lõi cần ít trông nom nhất và có cơ hội lợi suất ổn định cao nhất. Ngược lại, nếu không có thời gian hay hứng thú tự làm, không có gì đáng xấu hổ khi thuê người chọn cổ phiếu hay quỹ tương hỗ cho mình. Nhưng có một trách nhiệm không bao giờ được giao phó: chính bạn, và chỉ bạn, phải điều tra (trước khi giao tiền) xem người tư vấn có đáng tin không và thu phí có hợp lý không. Chi tiết hơn ở Chương 10 ([C10-nha-dau-tu-va-nguoi-tu-van.md](C10-nha-dau-tu-va-nguoi-tu-van.md)).
+**Nhờ giúp ("Obtenir de l'aide", bản gốc "Get some help").** Nhà đầu tư phòng thủ cũng có thể nắm cổ phiếu qua môi giới giá rẻ (discount broker), người lập kế hoạch tài chính hoặc môi giới chứng khoán trọn gói. Ở môi giới giá rẻ, bạn phải tự làm phần lớn việc chọn cổ phiếu; các hướng dẫn của Graham giúp bạn lập một danh mục cốt lõi cần ít trông nom nhất và có cơ hội lợi suất ổn định cao nhất.
+
+Ngược lại, nếu không có thời gian hay hứng thú tự làm, không có gì đáng xấu hổ khi thuê người chọn cổ phiếu hay quỹ tương hỗ cho mình. Nhưng có một trách nhiệm không bao giờ được giao phó: chính bạn, và chỉ bạn, phải điều tra (trước khi giao tiền) xem người tư vấn có đáng tin không và thu phí có hợp lý không. Chi tiết hơn ở Chương 10 ([C10-nha-dau-tu-va-nguoi-tu-van.md](C10-nha-dau-tu-va-nguoi-tu-van.md)).
 
 **Thuê ngoài qua quỹ ("Fermez-le", bản gốc "Farm it out").** Quỹ tương hỗ là cách tốt nhất để nhà đầu tư phòng thủ hưởng lợi ích của việc sở hữu cổ phiếu mà không phải tự trông nom danh mục. Với chi phí tương đối thấp, bạn mua được mức đa dạng hoá cao và sự tiện lợi, để người chuyên nghiệp chọn và theo dõi cổ phiếu cho mình. Ở dạng tinh gọn nhất, tức quỹ chỉ số, quỹ tương hỗ gần như không cần theo dõi hay trông nom. Zweig gọi quỹ chỉ số là kiểu đầu tư "Rip Van Winkle": giống người nông dân lười trong truyện của Washington Irving, bạn có ngủ quên 20 năm thì nó cũng khó gây đau khổ hay bất ngờ. Đó là giấc mơ của nhà đầu tư phòng thủ thành hiện thực. Chi tiết ở Chương 9 ([C09-dau-tu-vao-quy.md](C09-dau-tu-vao-quy.md)).
 
@@ -649,7 +692,9 @@ Hình 5-1 ("Chaque petit geste compte", tạm dịch "Mỗi bước nhỏ đều
 | Mức lỗ của người đầu tư định kỳ | 30,2% (còn khoảng 4.607 USD, tính bởi người tổng hợp) |
 | Mức giảm của thị trường (S&P 500) | 41,3% |
 
-Tốt hơn nữa, khi đã có danh mục lái tự động với quỹ chỉ số làm lõi, bạn có thể trả lời mọi câu hỏi về thị trường bằng câu mạnh nhất mà một nhà đầu tư phòng thủ có thể có: "Tôi không biết và tôi không quan tâm" (I don't know and I don't care). Trái phiếu có vượt cổ phiếu không? Không biết và không quan tâm, vì bạn tự động mua cả hai. Cổ phiếu y tế có làm cổ phiếu công nghệ cao "phát ốm" không? Không biết và không quan tâm, vì bạn sở hữu lâu dài cả hai. Đâu là Microsoft tiếp theo? Không biết và không quan tâm: ngay khi nó đủ lớn để đáng sở hữu, quỹ chỉ số của bạn sẽ có nó, và bạn sẽ đi lên cùng nó. Cổ phiếu nước ngoài có đánh bại cổ phiếu Mỹ năm tới không? Không biết và không quan tâm: nếu có, bạn hưởng phần lãi đó; nếu không, bạn mua thêm được ở giá thấp hơn.
+Tốt hơn nữa, khi đã có danh mục lái tự động với quỹ chỉ số làm lõi, bạn có thể trả lời mọi câu hỏi về thị trường bằng câu mạnh nhất mà một nhà đầu tư phòng thủ có thể có: "Tôi không biết và tôi không quan tâm" (I don't know and I don't care).
+
+Trái phiếu có vượt cổ phiếu không? Không biết và không quan tâm, vì bạn tự động mua cả hai. Cổ phiếu y tế có làm cổ phiếu công nghệ cao "phát ốm" không? Không biết và không quan tâm, vì bạn sở hữu lâu dài cả hai. Đâu là Microsoft tiếp theo? Không biết và không quan tâm: ngay khi nó đủ lớn để đáng sở hữu, quỹ chỉ số của bạn sẽ có nó, và bạn sẽ đi lên cùng nó. Cổ phiếu nước ngoài có đánh bại cổ phiếu Mỹ năm tới không? Không biết và không quan tâm: nếu có, bạn hưởng phần lãi đó; nếu không, bạn mua thêm được ở giá thấp hơn.
 
 Bằng cách cho phép bạn nói "tôi không biết và tôi không quan tâm", danh mục lái tự động giải phóng bạn khỏi cảm giác phải dự báo thị trường sắp làm gì, và khỏi ảo tưởng rằng ai đó khác làm được. Biết rằng mình biết rất ít về tương lai, cộng với việc chấp nhận sự không biết đó, là vũ khí mạnh nhất của nhà đầu tư phòng thủ.
 
@@ -779,23 +824,33 @@ Chương 5 là phiên bản sớm của nhiều khái niệm hiện đại: bố
 
 ### Bốn quy tắc của Graham đơn giản đến mức một người không chuyên kiểm tra được, và đó là điểm mạnh lớn nhất của chương
 
-Graham không đòi nhà đầu tư phòng thủ dự báo lợi nhuận hay hiểu ngành. Mỗi quy tắc đều trả lời được bằng số liệu công khai: có bao nhiêu cổ phiếu, công ty có lớn không, vốn cổ phần có chiếm ít nhất một nửa tổng vốn không, cổ tức có liên tục từ 1950 không, P/E có dưới 25 lần lợi nhuận bình quân 7 năm không. Cách đặt quy tắc như vậy chặn đúng hai sai lầm phổ biến nhất của người mới: dồn tiền vào vài cổ phiếu, và trả giá quá cao cho câu chuyện tăng trưởng. Chương 14 sẽ thắt chặt bộ lọc này (theo nội dung Chương 14 của sách, giới hạn P/E giảm xuống 15 lần lợi nhuận bình quân ba năm và thêm giới hạn giá trên giá trị sổ sách), cho thấy ở mức Dow Jones 900 điểm Graham còn khắt khe hơn những gì Chương 5 viết.
+Graham không đòi nhà đầu tư phòng thủ dự báo lợi nhuận hay hiểu ngành. Mỗi quy tắc đều trả lời được bằng số liệu công khai: có bao nhiêu cổ phiếu, công ty có lớn không, vốn cổ phần có chiếm ít nhất một nửa tổng vốn không, cổ tức có liên tục từ 1950 không, P/E có dưới 25 lần lợi nhuận bình quân 7 năm không.
+
+Cách đặt quy tắc như vậy chặn đúng hai sai lầm phổ biến nhất của người mới: dồn tiền vào vài cổ phiếu, và trả giá quá cao cho câu chuyện tăng trưởng. Chương 14 sẽ thắt chặt bộ lọc này (theo nội dung Chương 14 của sách, giới hạn P/E giảm xuống 15 lần lợi nhuận bình quân ba năm và thêm giới hạn giá trên giá trị sổ sách), cho thấy ở mức Dow Jones 900 điểm Graham còn khắt khe hơn những gì Chương 5 viết.
 
 ### Định nghĩa rủi ro của Graham đi ngược trường phái chính thống, và vẫn còn gây tranh cãi
 
-Graham bác bỏ việc đo rủi ro bằng độ biến động giá ngay khi lý thuyết danh mục hiện đại (mà sách của Brealey năm 1969 là một đại diện) đang trở thành chuẩn mực. Lập luận của ông thuyết phục với nhà đầu tư không vay nợ và không bị buộc phải bán. Nhưng theo hiểu biết của người tổng hợp, có quan điểm trái chiều đáng lưu ý: với nhiều người, độ biến động là rủi ro thật vì họ có thể buộc phải bán (mất việc, cần tiền chữa bệnh, nghỉ hưu đúng lúc thị trường sụp), và vì biến động mạnh làm người ta hoảng sợ bán ra. Chính Graham thừa nhận rủi ro có thật "nếu có khả năng hợp lý rằng người giữ phải bán lúc giá thấp", nên hai cách nhìn không hoàn toàn đối lập: định nghĩa của Graham chỉ đúng khi nhà đầu tư thật sự giữ được, mà điều đó phụ thuộc vào tiền dự phòng và tính khí.
+Graham bác bỏ việc đo rủi ro bằng độ biến động giá ngay khi lý thuyết danh mục hiện đại (mà sách của Brealey năm 1969 là một đại diện) đang trở thành chuẩn mực. Lập luận của ông thuyết phục với nhà đầu tư không vay nợ và không bị buộc phải bán.
+
+Nhưng theo hiểu biết của người tổng hợp, có quan điểm trái chiều đáng lưu ý: với nhiều người, độ biến động là rủi ro thật vì họ có thể buộc phải bán (mất việc, cần tiền chữa bệnh, nghỉ hưu đúng lúc thị trường sụp), và vì biến động mạnh làm người ta hoảng sợ bán ra. Chính Graham thừa nhận rủi ro có thật "nếu có khả năng hợp lý rằng người giữ phải bán lúc giá thấp", nên hai cách nhìn không hoàn toàn đối lập: định nghĩa của Graham chỉ đúng khi nhà đầu tư thật sự giữ được, mà điều đó phụ thuộc vào tiền dự phòng và tính khí.
 
 ### Bài học về cổ phiếu tăng trưởng lặp lại ở mọi thế hệ, kể cả sau 2003
 
-Graham dùng IBM và Texas Instruments, Zweig dùng Microsoft và Cisco; theo hiểu biết của người tổng hợp, các thập kỷ sau 2003 còn thêm nhiều ví dụ: nhiều cổ phiếu công nghệ và cổ phiếu "câu chuyện" tăng mạnh năm 2020–2021 rồi giảm sâu năm 2022 khi lãi suất tăng lại. Cơ chế vẫn như Graham mô tả: giá tăng nhanh hơn lợi nhuận, nên khi kỳ vọng hụt thì giá rơi mạnh hơn lợi nhuận. Tuy nhiên cũng cần công bằng: một số công ty tăng trưởng lớn (như Microsoft sau 2003, theo hiểu biết của người tổng hợp) đã vượt xa thị trường trong nhiều năm sau đó. Quy tắc 4 của Graham có cái giá là bỏ lỡ một phần những công ty như vậy; ông chấp nhận cái giá đó vì người bình thường không phân biệt trước được đâu là IBM sẽ tiếp tục tăng, đâu là Texas Instruments sẽ rơi bốn phần năm.
+Graham dùng IBM và Texas Instruments, Zweig dùng Microsoft và Cisco; theo hiểu biết của người tổng hợp, các thập kỷ sau 2003 còn thêm nhiều ví dụ: nhiều cổ phiếu công nghệ và cổ phiếu "câu chuyện" tăng mạnh năm 2020–2021 rồi giảm sâu năm 2022 khi lãi suất tăng lại. Cơ chế vẫn như Graham mô tả: giá tăng nhanh hơn lợi nhuận, nên khi kỳ vọng hụt thì giá rơi mạnh hơn lợi nhuận.
+
+Tuy nhiên cũng cần công bằng: một số công ty tăng trưởng lớn (như Microsoft sau 2003, theo hiểu biết của người tổng hợp) đã vượt xa thị trường trong nhiều năm sau đó. Quy tắc 4 của Graham có cái giá là bỏ lỡ một phần những công ty như vậy; ông chấp nhận cái giá đó vì người bình thường không phân biệt trước được đâu là IBM sẽ tiếp tục tăng, đâu là Texas Instruments sẽ rơi bốn phần năm.
 
 ### Một số con số và nhận định của năm 1972 và 2003 đã lỗi thời
 
-Ngưỡng "lớn" 50 triệu USD tài sản đã lỗi thời từ lâu; ngay ngưỡng 10 tỷ USD vốn hóa của Zweig cũng cần điều chỉnh theo quy mô thị trường hiện nay. Nhận định của Zweig rằng tỷ suất cổ tức "vĩnh viễn" thấp hơn lợi suất trái phiếu đã bị phá vỡ trong một số giai đoạn sau 2008 khi lãi suất ở gần 0 (theo hiểu biết của người tổng hợp). Các trang môi giới trực tuyến Zweig giới thiệu phần lớn không còn tồn tại theo tên cũ, và phí 4 USD mỗi giao dịch đã giảm về 0 ở nhiều công ty môi giới Mỹ. Ngoài ra, nhiều công ty lớn ngày nay trả lại tiền cho cổ đông chủ yếu bằng mua lại cổ phiếu thay vì cổ tức, nên quy tắc "cổ tức liên tục 20 năm" loại bỏ nhiều công ty hơn so với thời Graham; nhà đầu tư cần cân nhắc điều này khi áp dụng quy tắc 3 (theo hiểu biết của người tổng hợp).
+Ngưỡng "lớn" 50 triệu USD tài sản đã lỗi thời từ lâu; ngay ngưỡng 10 tỷ USD vốn hóa của Zweig cũng cần điều chỉnh theo quy mô thị trường hiện nay. Nhận định của Zweig rằng tỷ suất cổ tức "vĩnh viễn" thấp hơn lợi suất trái phiếu đã bị phá vỡ trong một số giai đoạn sau 2008 khi lãi suất ở gần 0 (theo hiểu biết của người tổng hợp).
+
+Các trang môi giới trực tuyến Zweig giới thiệu phần lớn không còn tồn tại theo tên cũ, và phí 4 USD mỗi giao dịch đã giảm về 0 ở nhiều công ty môi giới Mỹ. Ngoài ra, nhiều công ty lớn ngày nay trả lại tiền cho cổ đông chủ yếu bằng mua lại cổ phiếu thay vì cổ tức, nên quy tắc "cổ tức liên tục 20 năm" loại bỏ nhiều công ty hơn so với thời Graham; nhà đầu tư cần cân nhắc điều này khi áp dụng quy tắc 3 (theo hiểu biết của người tổng hợp).
 
 ### Lời khuyên "quỹ chỉ số cộng đầu tư định kỳ" của Zweig đã trở thành dòng chính sau 2003
 
-Năm 2003, quỹ chỉ số vẫn còn là lựa chọn của thiểu số. Theo hiểu biết của người tổng hợp, trong hai thập kỷ sau, quỹ chỉ số và quỹ ETF chi phí rất thấp đã phát triển mạnh, đến mức tài sản trong quỹ thụ động ở Mỹ đã ngang hoặc vượt quỹ chủ động. Người đầu tư định kỳ vào quỹ chỉ số qua khủng hoảng 2008–2009 và đợt sụt giảm năm 2020 đã hưởng đúng cơ chế Zweig mô tả: mua được nhiều chứng chỉ hơn ở giá thấp rồi hưởng đợt hồi phục. Cũng nên lưu ý một điểm kỹ thuật: khi đã có sẵn một khoản tiền lớn, nghiên cứu thường cho thấy bỏ một lần có lợi suất kỳ vọng cao hơn chia nhỏ ra mua dần, vì thị trường tăng nhiều hơn giảm; ví dụ năm 1929 của Ibbotson là trường hợp đặc biệt thuận lợi cho việc chia nhỏ. Giá trị chính của việc đầu tư định kỳ là kỷ luật hành vi và phù hợp với người có thu nhập đều đặn, đúng như cả Graham và Zweig nhấn mạnh.
+Năm 2003, quỹ chỉ số vẫn còn là lựa chọn của thiểu số. Theo hiểu biết của người tổng hợp, trong hai thập kỷ sau, quỹ chỉ số và quỹ ETF chi phí rất thấp đã phát triển mạnh, đến mức tài sản trong quỹ thụ động ở Mỹ đã ngang hoặc vượt quỹ chủ động. Người đầu tư định kỳ vào quỹ chỉ số qua khủng hoảng 2008–2009 và đợt sụt giảm năm 2020 đã hưởng đúng cơ chế Zweig mô tả: mua được nhiều chứng chỉ hơn ở giá thấp rồi hưởng đợt hồi phục.
+
+Cũng nên lưu ý một điểm kỹ thuật: khi đã có sẵn một khoản tiền lớn, nghiên cứu thường cho thấy bỏ một lần có lợi suất kỳ vọng cao hơn chia nhỏ ra mua dần, vì thị trường tăng nhiều hơn giảm; ví dụ năm 1929 của Ibbotson là trường hợp đặc biệt thuận lợi cho việc chia nhỏ. Giá trị chính của việc đầu tư định kỳ là kỷ luật hành vi và phù hợp với người có thu nhập đều đặn, đúng như cả Graham và Zweig nhấn mạnh.
 
 ### Cảnh báo "mua thứ bạn biết" của Zweig là đóng góp hành vi quan trọng nhất của phần bình luận
 
@@ -803,4 +858,200 @@ Graham chỉ nói ngắn rằng bác sĩ hay thất bại vì quá tự tin; Zwe
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Với nhà đầu tư cá nhân nói chung, chương này gợi ra một quy trình tối giản: giữ tỷ lệ cổ phiếu trong khung 25–75%; nếu tự chọn, giữ 10–30 công ty lớn, ít nợ, trả cổ tức đều, không mua khi P/E quá cao so với lợi nhuận bình quân nhiều năm, không dồn vào một ngành; nếu không muốn tự chọn, dùng quỹ chỉ số và góp định kỳ; rà soát mỗi năm một lần, giao dịch ít. Ở mức định tính, với nhà đầu tư Việt Nam, các nguyên tắc này áp dụng được nhưng cần điều chỉnh: thị trường còn non trẻ nên ít công ty có lịch sử cổ tức liên tục hai mươi năm, và quy tắc cổ tức có thể phải nới thành số năm ngắn hơn; nhiều doanh nghiệp trả cổ tức bằng cổ phiếu thay vì tiền mặt, nên cần phân biệt khi xét quy tắc 3; ngưỡng "lớn và nổi bật" nên hiểu là thuộc nhóm dẫn đầu ngành trong nước. Thói "mua thứ mình biết" mà không đọc báo cáo tài chính, và việc dồn tiền vào cổ phiếu của công ty mình đang làm, là những cảnh báo của Zweig đáng ghi nhớ ở mọi thị trường.
+Với nhà đầu tư cá nhân nói chung, chương này gợi ra một quy trình tối giản: giữ tỷ lệ cổ phiếu trong khung 25–75%; nếu tự chọn, giữ 10–30 công ty lớn, ít nợ, trả cổ tức đều, không mua khi P/E quá cao so với lợi nhuận bình quân nhiều năm, không dồn vào một ngành; nếu không muốn tự chọn, dùng quỹ chỉ số và góp định kỳ; rà soát mỗi năm một lần, giao dịch ít.
+
+Ở mức định tính, với nhà đầu tư Việt Nam, các nguyên tắc này áp dụng được nhưng cần điều chỉnh: thị trường còn non trẻ nên ít công ty có lịch sử cổ tức liên tục hai mươi năm, và quy tắc cổ tức có thể phải nới thành số năm ngắn hơn; nhiều doanh nghiệp trả cổ tức bằng cổ phiếu thay vì tiền mặt, nên cần phân biệt khi xét quy tắc 3; ngưỡng "lớn và nổi bật" nên hiểu là thuộc nhóm dẫn đầu ngành trong nước. Thói "mua thứ mình biết" mà không đọc báo cáo tài chính, và việc dồn tiền vào cổ phiếu của công ty mình đang làm, là những cảnh báo của Zweig đáng ghi nhớ ở mọi thị trường.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: năm nhánh đầu đi theo các mục 1–8 của Phần A (Chương 5 của Graham) trong phần Nội dung chi tiết (hai lợi thế của cổ phiếu, bốn quy tắc kèm ngưỡng số, cổ phiếu tăng trưởng, điều chỉnh danh mục cùng đầu tư định kỳ và hoàn cảnh cá nhân, khái niệm rủi ro), nhánh thứ sáu đi theo các mục 1–4 của Phần B (bình luận của Zweig năm 2003), mỗi nhánh ghi quy tắc, ví dụ công ty và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: nhà đầu tư phòng thủ phải giữ cổ phiếu, chọn theo bốn quy tắc đơn giản và không bao giờ trả giá quá cao`"]
+  n1["`Phần A mục 1 — Cổ phiếu có hai lợi thế, nhưng mất cả hai nếu trả giá quá cao`"]
+  n0 --- n1
+  n2["`Lợi thế 1: cổ phiếu che chắn phần nào trước lạm phát, trái phiếu thì không`"]
+  n1 --- n2
+  n3["`Lợi thế 2: lợi suất dài hạn cao hơn nhờ cổ tức cao hơn lãi trái phiếu và lợi nhuận giữ lại được tái đầu tư`"]
+  n1 --- n3
+  n4["`Dow Jones đóng cửa 381,17 điểm ngày 3/9/1929, chỉ vượt lại ngày 23/11/1954: mất 25 năm`"]
+  n1 --- n4
+  n5["`Zweig: 1 USD năm 1900 thành 16.797 USD năm 2000 nếu tái đầu tư cổ tức, chỉ 198 USD nếu tiêu hết`"]
+  n4 --- n5
+  n6["`Từ 1957 tỷ suất cổ tức thấp hơn lãi trái phiếu: cổ tức 2 USD trên giá 100 là 2%, giá 200 còn 1%`"]
+  n1 --- n6
+  n7["`Ở Dow Jones 900 điểm cuối 1971 Graham không hào hứng, nhưng cổ phiếu là cái ít xấu hơn so với giữ toàn trái phiếu`"]
+  n1 --- n7
+  n8["`Zweig: 20 năm đến 1949 cổ phiếu chỉ 3,1%/năm so với trái phiếu 3,9%, rồi thập kỷ sau S#amp;P 500 tăng 20,1%/năm`"]
+  n1 --- n8
+  n9["`Phần A mục 2 và 8 — Bốn quy tắc chọn cổ phiếu, kèm ngưỡng số cụ thể`"]
+  n0 --- n9
+  n10["`Quy tắc 1: đa dạng hoá vừa đủ, tối thiểu 10 và tối đa khoảng 30 cổ phiếu`"]
+  n9 --- n10
+  n11["`Quy tắc 2: mỗi công ty phải lớn, nổi bật và tài chính thận trọng`"]
+  n9 --- n11
+  n12["`Lớn: tài sản hoặc doanh thu 50 triệu USD (1972), Zweig 2003: vốn hóa ít nhất 10 tỷ USD, khoảng 300 cổ phiếu`"]
+  n11 --- n12
+  n13["`Nổi bật: thuộc nhóm một phần tư hoặc một phần ba đầu về quy mô trong ngành, tức cổ phiếu hàng đầu`"]
+  n11 --- n13
+  n14["`Tài chính thận trọng: vốn cổ phần theo sổ sách ít nhất một nửa tổng vốn, đường sắt và tiện ích ít nhất 30%`"]
+  n11 --- n14
+  n15["`Quy tắc 3: trả cổ tức liên tục ít nhất từ năm 1950, năm 1971 mọi cổ phiếu Dow Jones đều đạt`"]
+  n9 --- n15
+  n16["`Zweig: đòi 10 năm chỉ loại Microsoft khỏi Dow Jones, đòi 20 năm vẫn còn 255 cổ phiếu S#amp;P 500`"]
+  n15 --- n16
+  n17["`Quy tắc 4: P/E không quá 25 lần lợi nhuận bình quân 7 năm và không quá 20 lần lợi nhuận 12 tháng gần nhất`"]
+  n9 --- n17
+  n18["`Ngưỡng chỉ là gợi ý, quy tắc nào không trái nghĩa thông thường của lớn và nổi bật đều chấp nhận được`"]
+  n9 --- n18
+  n19["`Phần A mục 3 — Nhà đầu tư phòng thủ tránh cổ phiếu tăng trưởng vì giá đã chứa phần đầu cơ lớn`"]
+  n0 --- n19
+  n20["`Cổ phiếu tăng trưởng: EPS tăng nhanh hơn mức chung, có người đòi gấp đôi trong 10 năm, tức hơn 7,1%/năm`"]
+  n19 --- n20
+  n21["`Quy tắc 72: 72 chia 7,1 bằng khoảng 10,1 năm để gấp đôi`"]
+  n20 --- n21
+  n22["`Chúng luôn bán ở P/E cao so với lợi nhuận hiện tại, nên Quy tắc 4 loại gần hết nhóm này`"]
+  n19 --- n22
+  n23["`IBM, cổ phiếu tăng trưởng hàng đầu, mất 50% trong 6 tháng năm 1961–1962 và gần vậy năm 1969–1970`"]
+  n19 --- n23
+  n24["`Texas Instruments: giá từ 5 lên 256 USD (khoảng 51 lần), EPS từ 0,40 lên 3,91 USD (khoảng 10 lần)`"]
+  n19 --- n24
+  n25["`Hai năm sau lợi nhuận giảm gần 50%, giá mất bốn phần năm, còn 49 USD`"]
+  n24 --- n25
+  n26["`Zweig: Microsoft giảm 55,7% và Cisco mất 76% năm 2000–2002, lợi nhuận Cisco chỉ giảm 39,2%`"]
+  n19 --- n26
+  n27["`Chọn đúng, mua đúng giá, bán trước đợt giảm thì lãi lớn, nhưng người bình thường hiếm làm được như thấy tiền mọc trên cây`"]
+  n19 --- n27
+  n28["`Thay vào đó: công ty lớn tương đối ít được ưa chuộng, mua ở P/E hợp lý, lành mạnh dù không ngoạn mục`"]
+  n19 --- n28
+  n29["`Phần A mục 4–6 — Rà soát mỗi năm, đầu tư định kỳ, và chọn vai trò theo kiến thức chứ không theo số tiền`"]
+  n0 --- n29
+  n30["`Xin tư vấn ít nhất mỗi năm một lần, chỉ ở công ty uy tín cao nhất, nói rõ muốn bám bốn quy tắc`"]
+  n29 --- n30
+  n31["`Dollar-cost averaging: mỗi tháng bỏ cùng một số tiền mua cổ phiếu, ngăn việc dồn tiền mua sai thời điểm`"]
+  n29 --- n31
+  n32["`Tomlinson: 23 giai đoạn 10 năm mua đều cổ phiếu Dow Jones đều có lãi, trung bình 21,5% chưa tính cổ tức`"]
+  n31 --- n32
+  n33["`Góa phụ có 200.000 USD: chia gần đều trái phiếu Chính phủ Mỹ và cổ phiếu hàng đầu, cổ phiếu có thể lên 75%`"]
+  n29 --- n33
+  n34["`Thà mỗi năm rút 2.000 USD từ vốn còn hơn đem một nửa vốn vào thương vụ thiếu cơ sở`"]
+  n33 --- n34
+  n35["`Bác sĩ có 100.000 USD: không ham tìm hiểu thì làm nhà đầu tư phòng thủ, bác sĩ hay thất bại vì quá tự tin`"]
+  n29 --- n35
+  n36["`Thanh niên để dành 1.000 USD/năm: một phần vào trái phiếu Series E, còn lại theo chương trình phòng thủ`"]
+  n29 --- n36
+  n37["`Người trẻ ham tài chính: đừng cố đánh bại thị trường, tập phán đoán giá so với giá trị với số tiền nhỏ nhất`"]
+  n36 --- n37
+  n38["`Loại chứng khoán nên mua phụ thuộc kiến thức, kinh nghiệm và tính khí, không phụ thuộc số tiền có`"]
+  n29 --- n38
+  n39["`Phần A mục 7 — Rủi ro là mất giá trị thật, không phải việc giá dao động`"]
+  n0 --- n39
+  n40["`Nghĩa đúng: trái phiếu không trả lãi hay gốc, cổ tức bị cắt, hoặc có khả năng phải bán thấp hơn nhiều giá vốn`"]
+  n39 --- n40
+  n41["`Giá giảm tạm thời có ở mọi chứng khoán trừ trái phiếu tiết kiệm Mỹ, không phải rủi ro với người không buộc phải bán`"]
+  n39 --- n41
+  n42["`Người cho vay thế chấp nhà chỉ xét các khoản trả có đúng hạn, không tính chuyện phải bán gấp`"]
+  n41 --- n42
+  n43["`Chỉ gọi là rủi ro khi bán thật ở giá thấp, công ty suy yếu nghiêm trọng, hoặc trả giá quá cao so với giá trị nội tại`"]
+  n39 --- n43
+  n44["`Trả giá quá cao là rủi ro thật ngay cả khi giá hồi phục sau nhiều năm`"]
+  n43 --- n44
+  n45["`Graham: đo rủi ro bằng độ biến động giá (như sách của Brealey năm 1969) có hại nhiều hơn có lợi`"]
+  n39 --- n45
+  n46["`Phần B mục 1–4 — Bình luận Zweig 2003: giữ cổ phiếu, nghiên cứu trước khi mua, đặt danh mục ở chế độ lái tự động`"]
+  n0 --- n46
+  n47["`Mục 1: sau đợt sụp đổ 2000–2002 vẫn phải giữ ít nhất một phần tiền trong cổ phiếu`"]
+  n46 --- n47
+  n48["`Phòng thủ theo Graham là ít bỏ thời gian và công sức, không phải sợ rủi ro`"]
+  n47 --- n48
+  n49["`Sụp đổ lấy đi phần lớn rủi ro: trước là sữa nóng, nay là sữa chua ở nhiệt độ phòng`"]
+  n47 --- n49
+  n50["`Đầu 2003 cổ phiếu chỉ hơi đắt, còn mua trái phiếu lợi suất rất thấp vì an toàn như hút thuốc lá nhẹ để tránh ung thư`"]
+  n47 --- n50
+  n51["`Mục 2: mua thứ bạn biết (Peter Lynch) chỉ đúng khi kèm nghiên cứu báo cáo tài chính và ước tính giá trị`"]
+  n46 --- n51
+  n52["`Barbra Streisand mua cổ phiếu Starbucks năm 1999 chỉ vì ngày nào cũng tới Starbucks`"]
+  n51 --- n52
+  n53["`Quỹ Firsthand của Kevin Landis lãi 58,2%/năm 1995–1999 rồi mất 73,2% từ cuối 1999 đến cuối 2002`"]
+  n51 --- n53
+  n54["`Nhân viên Enron, Global Crossing, WorldCom dồn tiền hưu 401(k) vào cổ phiếu công ty mình và mất sạch`"]
+  n51 --- n54
+  n55["`Thiên lệch quê nhà: cổ phiếu điện thoại địa phương gấp 3 lần, 401(k) giữ 25–30% cổ phiếu công ty, quen thuộc sinh chủ quan`"]
+  n51 --- n55
+  n56["`Mục 3: tự làm, nhờ giúp hoặc thuê ngoài qua quỹ, chi phí giao dịch nhỏ giảm từ 1,25% xuống 0,25%`"]
+  n46 --- n56
+  n57["`Tự làm: môi giới trực tuyến 4 USD mỗi lần mua, giữ 10–30 cổ phiếu, không dồn vào một ngành`"]
+  n56 --- n57
+  n58["`Giao dịch quá 2 lần/năm hoặc bỏ quá 1–2 giờ/tháng là có gì đó đã sai`"]
+  n56 --- n58
+  n59["`Thuê người tư vấn không đáng xấu hổ, nhưng phải tự kiểm tra họ đáng tin và phí hợp lý`"]
+  n56 --- n59
+  n60["`Quỹ chỉ số gần như không cần trông nom: ngủ 20 năm như Rip Van Winkle cũng không sao`"]
+  n56 --- n60
+  n61["`Mục 4: đầu tư định kỳ vào quỹ chỉ số, giá giảm thì cùng số tiền mua được nhiều chứng chỉ hơn`"]
+  n46 --- n61
+  n62["`Ví dụ 500 USD/tháng: 300 quỹ cổ phiếu Mỹ, 100 quỹ cổ phiếu nước ngoài, 100 quỹ trái phiếu Mỹ`"]
+  n61 --- n62
+  n63["`S#amp;P 500 từ 9/1929: một lần 12.000 USD còn 7.223 USD, góp 100 USD/tháng thành 15.571 USD năm 1939`"]
+  n61 --- n63
+  n64["`Cuối 1999–cuối 2002: 3.000 USD cộng 100 USD/tháng chỉ mất 30,2%, thị trường mất 41,3%`"]
+  n61 --- n64
+  n65["`Thông điệp xuyên suốt`"]
+  n0 --- n65
+  n66["`Trả giá quá cao so với giá trị nội tại là nguồn rủi ro thật thường gặp nhất`"]
+  n65 --- n66
+  n67["`Quy tắc cơ học thay cho dự báo: Tôi không biết và tôi không quan tâm`"]
+  n65 --- n67
+  n68["`Nhà đầu tư phòng thủ chạy, và thắng, cuộc đua bằng cách ngồi yên`"]
+  n65 --- n68
+  class n0 root
+  class n1,n9,n19,n29,n39,n46,n65 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 5 "L'investisseur défensif et les actions ordinaires" (PDF trang 104–113) và "Commentaire sur le chapitre 5" (PDF trang 113–121). Chú thích của Graham cho chương này nằm ở PDF trang 482–483; chú thích của Zweig nằm ở PDF trang 602–605.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, lúc đó là cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 ([C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)) đã đặt khung chung cho nhà đầu tư phòng thủ (defensive investor): chia tiền giữa trái phiếu chất lượng cao và cổ phiếu hàng đầu, cổ phiếu chiếm không dưới 25% và không quá 75%, mức chuẩn là 50/50; chương đó cũng bàn kỹ phần trái phiếu.
+
+Chương 5 đi vào phần còn lại: **chọn phần cổ phiếu như thế nào**. Graham đưa ra bốn quy tắc chọn cổ phiếu, giải thích vì sao nhà đầu tư phòng thủ nên tránh cổ phiếu tăng trưởng (growth stock), giới thiệu cách đầu tư định kỳ một số tiền cố định (dollar-cost averaging), xét ba hoàn cảnh cá nhân cụ thể, và định nghĩa lại khái niệm "rủi ro".
+
+Các ý trong chương được dùng lại ở nhiều chỗ: Chương 8 ([C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)) triển khai luận điểm "giá giảm không phải là thua lỗ thật"; Chương 9 ([C09-dau-tu-vao-quy.md](C09-dau-tu-vao-quy.md)) bàn về quỹ, trong đó có quỹ chỉ số mà Zweig khuyên dùng; Chương 10 ([C10-nha-dau-tu-va-nguoi-tu-van.md](C10-nha-dau-tu-va-nguoi-tu-van.md)) bàn về người tư vấn; Chương 14 ([C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md)) biến bốn quy tắc ở đây thành bộ tiêu chí định lượng chặt hơn và áp dụng lên các cổ phiếu cụ thể. Chương 6 và 7 chuyển sang nhà đầu tư năng động (enterprising investor).
+
+## Lưu ý
+
+- **Bản dịch máy lệch nghĩa ở nhiều chỗ ảnh hưởng tới nội dung.**
+  - "un minimum de dix problèmes différents" phải hiểu là tối thiểu mười *cổ phiếu* (issues), không phải "vấn đề".
+  - "Toutes les questions de l'âge Dow Jones Industrial Aver" là "tất cả các cổ phiếu trong chỉ số Dow Jones Industrial Average".
+  - "Le principal problème de croissance" là "cổ phiếu tăng trưởng hàng đầu" (IBM).
+  - "se classer parmi les premier ou troisième tiers de sa taille" vô nghĩa; theo hiểu biết của người tổng hợp, bản gốc là xếp trong *một phần tư đầu hoặc một phần ba đầu* về quy mô trong ngành, bản tổng hợp hiểu theo nghĩa này.
+  - "il se vendra pendant un certain temps aux frais de l'acheteur" phải hiểu là "sẽ có lúc giá xuống *dưới giá vốn* của người mua".
+  - "aussi probable qu'improbable" là "nhiều khả năng như không" (as likely as not).
+  - "réduction ou répercussion du dividende" là "giảm hoặc *ngừng trả* cổ tức".
+  - "offre une zone de choix sonore si peu spectaculaire" là "một vùng lựa chọn lành mạnh, dù không ngoạn mục".
+- Trong phần bình luận của Zweig: "longtemps après que Jay Leno a cessé ses activités" là dịch sai câu "rất lâu sau khi chương trình của Jay Leno (talk show đêm khuya) kết thúc", tức là nhân viên vẫn làm việc tới khuya.
+
+  "Pouvez-vous rouler le vôtre?" dịch từng chữ câu "Can You Roll Your Own?" (bạn có tự làm lấy được không). Tiêu đề "Fermez-le" ("hãy đóng nó lại") là dịch sai "Farm it out" (giao cho người khác làm, thuê ngoài). "comme un petit coup de foudre avec un journal enroulé" là "như một cú phát nhẹ bằng tờ báo cuộn tròn".
+
+  Câu "À moins que vous ne souhaitiez pas répartir vos paris, vous ne devriez pas miser du tout" bị phủ định kép làm ngược nghĩa; nghĩa đúng là "nếu bạn không sẵn lòng chia nhỏ các khoản cược thì đừng cược gì cả". "les stocks" trong bình luận là "cổ phiếu", không phải hàng tồn kho.
+- **Hình 5-1 (FIGURE 5-1, PDF trang 120–121) không có biểu đồ**: bản PDF chỉ còn tiêu đề "Chaque petit geste compte" và chú thích, phần đồ thị là khoảng trắng. Bản tổng hợp chép đầy đủ các số trong chú thích và tính thêm giá trị còn lại, nhưng không dựng lại được đường biểu đồ.
+- **Tham chiếu bị lệch:** câu mở mục "La situation personnelle de l'investisseur" nói "Au début de ce chapitre, nous avons brièvement évoqué la position du propriétaire de portefeuille individuel", nhưng đầu Chương 5 không bàn chuyện này; ý được nhắc tới (lợi suất nên tìm kiếm phụ thuộc vào công sức và hiểu biết của nhà đầu tư, không phụ thuộc vào mức chịu rủi ro) nằm ở đầu Chương 4. Có lẽ đoạn văn được chuyển từ chương trước sang khi Graham hiệu đính. Câu kết của mục ("l'affirmation, faite au départ") cũng chỉ về ý này.
+- **Các chỗ dẫn trang của bản tiếng Anh mà bản PDF không có:** Zweig dẫn "pages 19 et 20" (lời bình trước đó của Graham, nằm ở phần Giới thiệu, về việc giá tăng mạnh làm cổ phiếu trông như an toàn), "pages 56–57 et 88–89" (các lý do Graham đã nêu ở Chương 2 và Chương 4 về sự cần thiết của cổ phiếu), "p. 73" (chỗ Graham đã nói về các đợt giảm của IBM, ở Chương 3), "la note † à la page 70 du chapitre 3" (giải thích P/E), "p. 368" (khung về đa dạng hoá trong bình luận Chương 14), "pp. 186–187" (lý do giữ cổ phiếu nước ngoài) và "pp. 114-115" (chính bốn quy tắc trong Chương 5 này).
+- **Chú thích của Graham thiếu tên sách.** Chú thích 1 chỉ ghi "Wilfred Funk, Inc., 1953"; theo hiểu biết của người tổng hợp, đó là cuốn *Practical Formulas for Successful Investing* của Lucile Tomlinson. Chú thích 2 nói "par Richard A. Brealey, The MIT Press, 1969" mà không có tên sách; theo hiểu biết của người tổng hợp, đó là *An Introduction to Risk and Return from Common Stocks*.
+- **Câu về Texas Instruments** trong bản Pháp không nêu khoảng thời gian giá tăng từ 5 lên 256 USD; bản gốc có thể có ghi số năm, bản tổng hợp không tự thêm.
+- **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** chỉ số Dow Jones ~900 điểm (1971) nay đã cao hơn nhiều chục lần. Zweig viết rằng tỷ suất cổ tức của cổ phiếu "vĩnh viễn" thấp hơn lợi suất trái phiếu kể từ cuối thập niên 1950; sau khủng hoảng 2008 và nhất là trong năm 2020, khi lãi suất xuống gần 0, tỷ suất cổ tức của S&P 500 có những giai đoạn cao hơn lợi suất trái phiếu Kho bạc 10 năm, rồi lại thấp hơn khi lãi suất tăng trở lại từ 2022.
+
+  Microsoft, mà Zweig nêu là thành viên duy nhất của Dow Jones chưa trả cổ tức, đã bắt đầu trả cổ tức từ năm 2003. Các trang môi giới trực tuyến Zweig nêu (Sharebuilder, FolioFN, BuyandHold, NetStock Direct) phần lớn đã bị mua lại hoặc đóng cửa; từ khoảng 2019 phí giao dịch cổ phiếu ở Mỹ phổ biến về 0 và có thể mua lẻ một phần cổ phiếu, nên khoản phí 4 USD (8% trên 50 USD) không còn là trở ngại.
+- Zweig dặn: muốn quy đổi các số tiền trong mục "hoàn cảnh cá nhân" của Graham sang giá năm 2003 thì nhân với 5.

@@ -1,22 +1,18 @@
 # Giới thiệu — Cuốn sách này muốn làm được gì (Introduction: ce que ce livre attend d'accomplir)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; "Introduction: ce que ce livre attend d'accomplir" (PDF trang 10–19) và "Commentaire sur l'introduction" (PDF trang 19–24). Chú thích của Graham: GRAHAM-NOTES, mục "Introduction" (PDF trang 481); chú thích của Zweig: PDF trang 626–628.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman (văn bản viết năm 1971, hoàn tất tháng 11/1971, mọi chữ "hiện nay" chỉ cuối năm 1971 hoặc đầu năm 1972); bình luận: Jason Zweig (2003), lúc đó là cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Phần trước (xem [00-loi-tua-va-ghi-chu-ve-graham.md](00-loi-tua-va-ghi-chu-ve-graham.md)) giới thiệu Graham là ai và tóm tắt năm nguyên tắc của ông. Phần Giới thiệu này là lời Graham tự nói về cuốn sách: sách viết cho ai (nhà đầu tư, không phải nhà đầu cơ hay người giao dịch theo biểu đồ), có gì mới so với ấn bản năm 1965, chia người đọc thành hai loại (nhà đầu tư phòng thủ và nhà đầu tư năng động), và muốn đạt được gì (tránh sai lầm lớn, có thái độ tâm lý đúng, có thói quen hỏi "giá bao nhiêu"). Nhiều chủ đề được mở ra ở đây và phát triển ở các chương sau: phân biệt đầu tư với đầu cơ (Chương 1, [C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)), lạm phát (Chương 2, [C02-nha-dau-tu-va-lam-phat.md](C02-nha-dau-tu-va-lam-phat.md)), tỷ lệ trái phiếu và cổ phiếu trong danh mục (Chương 4, [C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)), đầu tư định kỳ một số tiền cố định (Chương 5), thuyết Dow và tâm lý trước biến động thị trường (Chương 8, [C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)), quỹ đầu tư (Chương 9), chứng quyền (Chương 16), và biên an toàn (Chương 20, [C20-bien-an-toan.md](C20-bien-an-toan.md)).
-**Ý chính:** Graham muốn người đọc hiểu rằng **đây không phải cuốn sách "làm thế nào để kiếm một triệu đô", vì không có con đường chắc chắn và dễ dàng nào tới giàu có; điều cuốn sách làm được là giúp nhà đầu tư không chuyên tránh những sai lầm lớn, có thái độ tâm lý đúng, và luôn hỏi "giá bao nhiêu" trước khi mua**. Ví dụ trung tâm là bài báo năm 1929 của John J. Raskob "Ai cũng nên giàu": tiết kiệm 15 USD mỗi tháng mua cổ phiếu tốt trong 20 năm (tổng cộng 3.600 USD) sẽ thành 80.000 USD. Theo tính toán của Graham, làm đúng như vậy từ 1929 đến 1948 với 30 cổ phiếu của chỉ số Dow Jones chỉ được khoảng 8.500 USD — xa lời hứa, nhưng vẫn là lợi nhuận hơn 8% mỗi năm dù chỉ số rơi từ 300 xuống 177, một lập luận ủng hộ việc mua đều đặn hằng tháng. Ví dụ thứ hai: ai cũng thấy trước ngành hàng không sẽ tăng trưởng, nhưng năm 1970 các hãng hàng không lỗ khoảng 200 triệu USD dù lượng khách kỷ lục; còn IBM thì tăng giá phi thường nhưng các quỹ chỉ dám giữ khoảng 3% tài sản. Từ đó Graham rút hai bài học: tăng trưởng hiển nhiên của một ngành không chuyển thành lợi nhuận hiển nhiên cho nhà đầu tư, và giới chuyên gia không có cách đáng tin cậy để chọn ra công ty triển vọng nhất trong ngành triển vọng nhất. Vấn đề lớn nhất của năm 1972 là lợi suất trái phiếu hạng cao (7,19%) đã gấp hơn hai lần tỷ suất cổ tức của cổ phiếu (2,76%), ngược hẳn năm 1949. Sau đó, Zweig, viết năm 2003, bổ sung rằng **sau bong bóng công nghệ cuối thập niên 1990 và cú sụp đổ 2000–2002 (cổ phiếu Mỹ mất 50,2%, khoảng 7.400 tỷ USD), lời cảnh báo của Graham càng đúng: mất 95% thì phải lãi 1.900% mới về lại điểm xuất phát; trí thông minh không đủ (Isaac Newton thua 20.000 bảng trong bong bóng South Sea, quỹ LTCM của các nhà khoa học đoạt giải Nobel mất hơn 2 tỷ USD); và nhà đầu tư thông minh nên đón chào thị trường giá xuống vì nó làm cổ phiếu rẻ đi**.
+## Ý chính
 
-> **Lưu ý:**
-> - Bản tiếng Pháp là bản dịch máy. Những chỗ lệch nghĩa đáng kể: "papier à lettres" là dịch sai của "letter stock" (cổ phiếu chưa đăng ký, người mua ký thư cam kết mua để đầu tư), không phải "giấy viết thư"; "appareils délicats" nghĩa là "các thủ thuật tinh vi" (tricky devices); "deux mœurs" là "hai bài học" (two morals); "ce merveilleux interprète" là "cổ phiếu có thành tích tuyệt vời này" (performer); "Pour 99 numéros sur 100" là "với 99 trên 100 loại chứng khoán" (issues); "problèmes" nhiều chỗ là "chứng khoán/cổ phiếu" (issues); "les deux médias" là "hai loại tài sản" (trái phiếu và cổ phiếu); "par le biais d'épaisses et minces" là "bất kể thị trường tốt hay xấu" (through thick and thin); "ceux qui font du commerce sur le marché" là "những người giao dịch ngắn hạn" (traders); "succession de 80 000 $" là "khối tài sản 80.000 USD"; "ramener à la maison" là "làm rõ" (bring home); "tyro" là "người mới vào nghề"; "stocks" là cổ phiếu.
-> - Trong bình luận của Zweig: tiêu đề "La chose sûre qui n'était pas" là "Điều chắc chắn hoá ra không chắc" (The Sure Thing That Wasn't); "La doublure argentée" là "Mặt tích cực" (The Silver Lining); "un coup de pot à Graham" là "đá xoáy Graham" (took a potshot); "»sept" là số chú thích 7 bị dịch thành chữ; "7,4 billions de dollars" theo cách đếm tiếng Pháp là 7.400 tỷ USD (7,4 nghìn tỷ), không phải 7,4 tỷ; "les analystes de la sécurité" là các nhà phân tích chứng khoán.
-> - Câu Graham khuyên chọn cổ phiếu "non loin de leur valeur d'actif corporel" (không xa giá trị tài sản hữu hình): theo hiểu biết của người tổng hợp, không tra cứu, bản tiếng Anh viết "not far above" (không cao hơn nhiều so với), tức là giá có thể bằng hoặc hơi cao hơn giá trị tài sản hữu hình, chứ không phải "xấp xỉ hai phía".
-> - Câu "La faute, cher investisseur, n'est pas dans nos étoiles..." là Graham nhại câu nổi tiếng trong *Julius Caesar* của Shakespeare ("The fault, dear Brutus, is not in our stars, but in ourselves"); theo hiểu biết của người tổng hợp, bản tiếng Anh của Graham là "The fault, dear investor, is not in our stars—and not in our stocks—but in ourselves."
-> - Câu mở đoạn "Une approche ferme de l'investissement" có thể là dịch không sát; theo ngữ cảnh (đối lập với "kết quả chắc chắn của đầu tư phòng thủ"), Graham nói tới một cách tiếp cận táo bạo hơn nhưng vẫn dựa chắc trên biên an toàn. Người tổng hợp không chắc nguyên văn tiếng Anh.
-> - Đoạn trích ấn bản 1949 về cổ phiếu hàng không bắt đầu bằng "Un tel investisseur" (Một nhà đầu tư như vậy) vì Graham chỉ trích một đoạn; nghĩa là nhà đầu tư theo cách "chọn ngành tăng trưởng".
-> - Các chú thích của Zweig dẫn số trang bản tiếng Anh không có trong PDF: thuyết Dow "p. 33 et pp. 191–192" (tức là ở Chương 1 và Chương 8), định nghĩa letter stock "p. 579" (chú thích cuối sách của Graham), Ling-Temco-Vought và National General "pages 425 et 463" (Chương 17 và Chương 18), cách tính giá trị tài sản hữu hình "note † à la p. 198" (một chú thích khác của Zweig). Bản tổng hợp đã chép thẳng nội dung được dẫn.
-> - Chú thích của Zweig về Penn Central có một ngoặc đơn "(cf." mở mà không có nội dung, có lẽ lỗi sót chữ của bản Pháp.
-> - Các chú thích về Graham-Newman, GEICO, Dante và khảo sát của Cục Dự trữ Liên bang năm 1948 nằm ở đầu file chú thích của Zweig (PDF trang 549–550) nhưng không thuộc phần Giới thiệu: GEICO và Dante thuộc Lời bạt và bình luận Lời bạt, khảo sát năm 1948 thuộc Chương 1, Graham-Newman thuộc ghi chú về Graham. Chú thích của Zweig cho phần Giới thiệu nằm ở cuối file (PDF trang 626–628).
-> - Số liệu đã thay đổi, theo hiểu biết của người tổng hợp, không tra cứu: lợi suất trái phiếu hạng cao của Mỹ lên đỉnh đầu thập niên 1980 rồi giảm gần như liên tục tới khoảng năm 2020, rồi tăng lại mạnh từ năm 2022; chỉ số Dow Jones, khoảng 800–950 điểm năm 1971, đã vượt nhiều chục nghìn điểm; Penn Central được tái cấu trúc thành Conrail (1976). Sau năm 2003: khủng hoảng tài chính 2008 là một cú sụp đổ khác tương đương 2000–2002; quỹ chỉ số và ETF chi phí thấp trở nên rất phổ biến, phù hợp với nhận xét của Graham rằng phần lớn quỹ không thắng được thị trường.
-> - Lời Graham "trong kinh nghiệm hơn 50 năm" được viết năm 1971 (ông vào Phố Wall tháng 6/1914, tức 57 năm như ông nói ở cuối phần).
+Graham muốn người đọc hiểu rằng **đây không phải cuốn sách "làm thế nào để kiếm một triệu đô", vì không có con đường chắc chắn và dễ dàng nào tới giàu có; điều cuốn sách làm được là giúp nhà đầu tư không chuyên tránh những sai lầm lớn, có thái độ tâm lý đúng, và luôn hỏi "giá bao nhiêu" trước khi mua**.
+
+Ví dụ trung tâm là bài báo năm 1929 của John J. Raskob "Ai cũng nên giàu": tiết kiệm 15 USD mỗi tháng mua cổ phiếu tốt trong 20 năm (tổng cộng 3.600 USD) sẽ thành 80.000 USD. Theo tính toán của Graham, làm đúng như vậy từ 1929 đến 1948 với 30 cổ phiếu của chỉ số Dow Jones chỉ được khoảng 8.500 USD — xa lời hứa, nhưng vẫn là lợi nhuận hơn 8% mỗi năm dù chỉ số rơi từ 300 xuống 177, một lập luận ủng hộ việc mua đều đặn hằng tháng.
+
+Ví dụ thứ hai: ai cũng thấy trước ngành hàng không sẽ tăng trưởng, nhưng năm 1970 các hãng hàng không lỗ khoảng 200 triệu USD dù lượng khách kỷ lục; còn IBM thì tăng giá phi thường nhưng các quỹ chỉ dám giữ khoảng 3% tài sản. Từ đó Graham rút hai bài học: tăng trưởng hiển nhiên của một ngành không chuyển thành lợi nhuận hiển nhiên cho nhà đầu tư, và giới chuyên gia không có cách đáng tin cậy để chọn ra công ty triển vọng nhất trong ngành triển vọng nhất.
+
+Vấn đề lớn nhất của năm 1972 là lợi suất trái phiếu hạng cao (7,19%) đã gấp hơn hai lần tỷ suất cổ tức của cổ phiếu (2,76%), ngược hẳn năm 1949.
+
+Sau đó, Zweig, viết năm 2003, bổ sung rằng **sau bong bóng công nghệ cuối thập niên 1990 và cú sụp đổ 2000–2002 (cổ phiếu Mỹ mất 50,2%, khoảng 7.400 tỷ USD), lời cảnh báo của Graham càng đúng: mất 95% thì phải lãi 1.900% mới về lại điểm xuất phát.**
+
+**Trí thông minh không đủ (Isaac Newton thua 20.000 bảng trong bong bóng South Sea, quỹ LTCM của các nhà khoa học đoạt giải Nobel mất hơn 2 tỷ USD); và nhà đầu tư thông minh nên đón chào thị trường giá xuống vì nó làm cổ phiếu rẻ đi**.
 
 ## Sơ đồ
 
@@ -499,7 +495,9 @@ Vì sách không dành cho nhà đầu cơ, nó cũng không dành cho người 
 
 Trong hơn 50 năm kinh nghiệm và quan sát thị trường chứng khoán, Graham chưa biết một người nào kiếm tiền đều đặn hoặc lâu dài bằng cách "chạy theo thị trường" như vậy. Ông không ngần ngại tuyên bố cách tiếp cận này sai lầm bao nhiêu thì phổ biến bấy nhiêu. Ông sẽ minh hoạ, nhưng nói rõ minh hoạ không phải là chứng minh, bằng một thảo luận ngắn về thuyết Dow nổi tiếng.
 
-Chú thích của Zweig: "thảo luận ngắn" đó chia làm hai phần, một ở Chương 1 và một ở Chương 8. Nội dung: ở Chương 1, Graham dùng thuyết Dow làm ví dụ về một phương pháp có kết quả tính toán rất đẹp trong giai đoạn 1897–1933 nhưng đáng ngờ hơn nhiều từ 1934. Ở Chương 8, ông giải thích phương pháp lấy tín hiệu mua từ một kiểu "bứt phá" đi lên của chỉ số bình quân và tín hiệu bán từ một kiểu bứt phá đi xuống; thành tích ngoạn mục nhất là phát tín hiệu bán ở mức 306 khoảng một tháng trước cú sụp năm 1929 và giữ người theo nó ngoài thị trường tới khi thị trường hồi ở mức 84 năm 1933; nhưng từ năm 1938, vài năm sau khi Phố Wall bắt đầu coi trọng nó, phương pháp chủ yếu khiến người dùng bán ở giá khá rồi mua lại ở giá cao hơn, và gần 30 năm sau đó, chỉ cần mua và giữ DJIA là tốt hơn nhiều. Graham cho rằng một công thức càng được nhiều người theo thì càng kém tin cậy.
+Chú thích của Zweig: "thảo luận ngắn" đó chia làm hai phần, một ở Chương 1 và một ở Chương 8. Nội dung: ở Chương 1, Graham dùng thuyết Dow làm ví dụ về một phương pháp có kết quả tính toán rất đẹp trong giai đoạn 1897–1933 nhưng đáng ngờ hơn nhiều từ 1934.
+
+Ở Chương 8, ông giải thích phương pháp lấy tín hiệu mua từ một kiểu "bứt phá" đi lên của chỉ số bình quân và tín hiệu bán từ một kiểu bứt phá đi xuống; thành tích ngoạn mục nhất là phát tín hiệu bán ở mức 306 khoảng một tháng trước cú sụp năm 1929 và giữ người theo nó ngoài thị trường tới khi thị trường hồi ở mức 84 năm 1933; nhưng từ năm 1938, vài năm sau khi Phố Wall bắt đầu coi trọng nó, phương pháp chủ yếu khiến người dùng bán ở giá khá rồi mua lại ở giá cao hơn, và gần 30 năm sau đó, chỉ cần mua và giữ DJIA là tốt hơn nhiều. Graham cho rằng một công thức càng được nhiều người theo thì càng kém tin cậy.
 
 #### 4. Những thay đổi từ ấn bản 1965 (PDF trang 12–13)
 
@@ -558,7 +556,9 @@ Quan niệm phổ biến từ lâu cho rằng nghệ thuật đầu tư thành c
 
 Chú thích của Zweig: cổ phiếu vận tải hàng không cuối thập niên 1940 và đầu 1950 gây hưng phấn không kém cổ phiếu Internet nửa thế kỷ sau. Trong số các quỹ tương hỗ ăn khách nhất thời đó có Aeronautical Securities và Missiles-Rockets-Jets & Automation Fund. Giống như các cổ phiếu chúng nắm, các quỹ này hoá ra là thảm hoạ đầu tư. Ngày nay người ta thường thừa nhận rằng lợi nhuận cộng dồn của ngành vận tải hàng không trong toàn bộ lịch sử của nó là số âm. Bài học Graham muốn rút ra không phải là tránh mua cổ phiếu hàng không, mà là đừng bao giờ khuất phục trước "sự chắc chắn" rằng một ngành nào đó sẽ vượt mọi ngành khác trong tương lai.
 
-Graham nói các cạm bẫy đã tỏ ra đặc biệt nguy hiểm trong chính ngành ông nhắc tới. Dĩ nhiên rất dễ dự đoán rằng lưu lượng hàng không sẽ tăng ngoạn mục theo năm tháng, và vì thế cổ phiếu hàng không trở thành lựa chọn ưa thích của các quỹ đầu tư. Nhưng dù doanh thu mở rộng, với tốc độ còn cao hơn cả ngành máy tính, sự kết hợp giữa các vấn đề công nghệ và việc mở rộng công suất quá mức đã làm lợi nhuận bấp bênh, thậm chí thảm hại. Năm 1970, dù lưu lượng đạt kỷ lục mới, các hãng hàng không vẫn chịu lỗ khoảng 200 triệu USD cho cổ đông; họ cũng từng lỗ năm 1945 và năm 1961. Trong đợt giảm 1969–1970, cổ phiếu của các công ty này lại giảm mạnh hơn thị trường chung. Hồ sơ cho thấy ngay cả các chuyên gia toàn thời gian được trả lương cao của các quỹ tương hỗ cũng sai hoàn toàn về tương lai ngắn hạn của một ngành lớn và không hề bí hiểm.
+Graham nói các cạm bẫy đã tỏ ra đặc biệt nguy hiểm trong chính ngành ông nhắc tới. Dĩ nhiên rất dễ dự đoán rằng lưu lượng hàng không sẽ tăng ngoạn mục theo năm tháng, và vì thế cổ phiếu hàng không trở thành lựa chọn ưa thích của các quỹ đầu tư. Nhưng dù doanh thu mở rộng, với tốc độ còn cao hơn cả ngành máy tính, sự kết hợp giữa các vấn đề công nghệ và việc mở rộng công suất quá mức đã làm lợi nhuận bấp bênh, thậm chí thảm hại.
+
+Năm 1970, dù lưu lượng đạt kỷ lục mới, các hãng hàng không vẫn chịu lỗ khoảng 200 triệu USD cho cổ đông; họ cũng từng lỗ năm 1945 và năm 1961. Trong đợt giảm 1969–1970, cổ phiếu của các công ty này lại giảm mạnh hơn thị trường chung. Hồ sơ cho thấy ngay cả các chuyên gia toàn thời gian được trả lương cao của các quỹ tương hỗ cũng sai hoàn toàn về tương lai ngắn hạn của một ngành lớn và không hề bí hiểm.
 
 Ngược lại, dù các quỹ đầu tư đã đầu tư và lãi đáng kể ở IBM, sự kết hợp giữa giá có vẻ cao và việc không thể chắc chắn về tốc độ tăng trưởng của công ty đã khiến họ không giữ quá khoảng 3% tài sản ở cổ phiếu có thành tích tuyệt vời này. Vì vậy lựa chọn xuất sắc đó không tác động quyết định lên kết quả chung của họ. Hơn nữa, nhiều, nếu không phải phần lớn, khoản đầu tư của họ vào các công ty máy tính khác ngoài IBM dường như không có lãi.
 
@@ -583,7 +583,9 @@ Tháng 6/1970, câu hỏi "Bao nhiêu?" có thể được trả lời bằng co
 
 Sách sẽ trình bày chi tiết một chương trình tích cực về đầu tư cổ phiếu, một phần áp dụng cho cả hai loại nhà đầu tư và một phần chủ yếu dành cho nhóm năng động. Điều lạ là một trong các yêu cầu chính của Graham ở đây là người đọc chỉ nên mua những cổ phiếu có giá không cao hơn nhiều so với giá trị tài sản hữu hình của công ty.
 
-Chú thích của Zweig: tài sản hữu hình gồm tài sản vật chất của công ty (bất động sản, nhà máy, thiết bị, hàng tồn kho) và các số dư tài chính (tiền mặt, đầu tư ngắn hạn, khoản phải thu). Không tính vào tài sản hữu hình: nhãn hiệu, bản quyền, bằng sáng chế, quyền nhượng quyền, lợi thế thương mại (goodwill). Một chú thích khác của Zweig giải thích rằng giá trị tài sản ròng, giá trị sổ sách, giá trị theo bảng cân đối và giá trị tài sản hữu hình đều là các tên gọi đồng nghĩa của giá trị ròng, tức tổng giá trị tài sản vật chất và tài chính của công ty trừ đi mọi khoản nợ phải trả. Cách tính từ báo cáo năm hoặc quý: lấy tổng vốn chủ sở hữu, trừ mọi tài sản "vô hình" như lợi thế thương mại, nhãn hiệu thương mại và các tài sản vô hình khác, rồi chia cho số cổ phiếu đang lưu hành đã pha loãng đầy đủ để có giá trị sổ sách trên mỗi cổ phiếu.
+Chú thích của Zweig: tài sản hữu hình gồm tài sản vật chất của công ty (bất động sản, nhà máy, thiết bị, hàng tồn kho) và các số dư tài chính (tiền mặt, đầu tư ngắn hạn, khoản phải thu). Không tính vào tài sản hữu hình: nhãn hiệu, bản quyền, bằng sáng chế, quyền nhượng quyền, lợi thế thương mại (goodwill).
+
+Một chú thích khác của Zweig giải thích rằng giá trị tài sản ròng, giá trị sổ sách, giá trị theo bảng cân đối và giá trị tài sản hữu hình đều là các tên gọi đồng nghĩa của giá trị ròng, tức tổng giá trị tài sản vật chất và tài chính của công ty trừ đi mọi khoản nợ phải trả. Cách tính từ báo cáo năm hoặc quý: lấy tổng vốn chủ sở hữu, trừ mọi tài sản "vô hình" như lợi thế thương mại, nhãn hiệu thương mại và các tài sản vô hình khác, rồi chia cho số cổ phiếu đang lưu hành đã pha loãng đầy đủ để có giá trị sổ sách trên mỗi cổ phiếu.
 
 Lý do của lời khuyên có vẻ lỗi thời này vừa thực tế vừa tâm lý. Kinh nghiệm cho Graham thấy rằng dù có nhiều công ty tăng trưởng tốt đáng giá gấp nhiều lần tài sản ròng, người mua những cổ phiếu đó sẽ quá phụ thuộc vào những thất thường và dao động của thị trường. Ngược lại, người mua, chẳng hạn, cổ phiếu công ty tiện ích công cộng ở khoảng giá trị tài sản ròng luôn có thể coi mình là chủ sở hữu một phần những doanh nghiệp lành mạnh và đang mở rộng, mua với giá hợp lý, bất kể thị trường chứng khoán nói khác đi. Kết quả cuối cùng của chính sách bảo thủ như vậy nhiều khả năng sẽ tốt hơn những cuộc phiêu lưu hấp dẫn vào các vùng hào nhoáng và nguy hiểm của "tăng trưởng dự kiến".
 
@@ -599,7 +601,9 @@ Khi viết sách, Graham cố ghi nhớ cái bẫy cơ bản này của đầu t
 
 Một cách tiếp cận đầu tư táo bạo hơn nhưng đặt vững chắc trên nguyên tắc biên an toàn có thể đem lại phần thưởng tốt. Nhưng quyết định theo đuổi phần thưởng đó thay vì những thành quả chắc chắn của đầu tư phòng thủ không nên được đưa ra khi chưa tự xét mình thật kỹ.
 
-Graham kết bằng một cái nhìn lại. Khi tác giả trẻ vào Phố Wall tháng 6/1914, không ai hình dung được nửa thế kỷ tới sẽ ra sao; thị trường còn không ngờ rằng hai tháng sau một cuộc chiến tranh thế giới sẽ nổ ra và đóng cửa Sở giao dịch New York. Năm 1972, nước Mỹ là quốc gia giàu và mạnh nhất thế giới nhưng bị bủa vây bởi đủ loại vấn đề lớn, và lo âu nhiều hơn tự tin về tương lai. Tuy vậy, nếu chỉ xét kinh nghiệm đầu tư ở Mỹ, 57 năm qua đem lại một sự an ủi: qua mọi thăng trầm và thua lỗ, vừa gây chấn động vừa không lường trước, các nguyên tắc đầu tư vững chắc vẫn đem lại kết quả nhìn chung vững chắc. Graham nói phải hành động trên giả định rằng điều đó sẽ tiếp tục.
+Graham kết bằng một cái nhìn lại. Khi tác giả trẻ vào Phố Wall tháng 6/1914, không ai hình dung được nửa thế kỷ tới sẽ ra sao; thị trường còn không ngờ rằng hai tháng sau một cuộc chiến tranh thế giới sẽ nổ ra và đóng cửa Sở giao dịch New York. Năm 1972, nước Mỹ là quốc gia giàu và mạnh nhất thế giới nhưng bị bủa vây bởi đủ loại vấn đề lớn, và lo âu nhiều hơn tự tin về tương lai.
+
+Tuy vậy, nếu chỉ xét kinh nghiệm đầu tư ở Mỹ, 57 năm qua đem lại một sự an ủi: qua mọi thăng trầm và thua lỗ, vừa gây chấn động vừa không lường trước, các nguyên tắc đầu tư vững chắc vẫn đem lại kết quả nhìn chung vững chắc. Graham nói phải hành động trên giả định rằng điều đó sẽ tiếp tục.
 
 #### 13. Ghi chú cho người đọc (Note au lecteur, PDF trang 19)
 
@@ -621,7 +625,9 @@ Chấp nhận rủi ro thiếu suy nghĩ có thể đẩy bạn xuống một c�
 
 Zweig hỏi: Graham thật ra muốn nói gì với chữ nhà đầu tư "thông minh"? Trong ấn bản đầu tiên, Graham định nghĩa thuật ngữ này và nói rõ loại thông minh đó không liên quan tới điểm IQ hay điểm SAT. Nó đơn giản là kiên nhẫn, có kỷ luật và ham học hỏi; bạn cũng phải điều khiển được cảm xúc và tự suy nghĩ. Graham giải thích loại thông minh này "là phẩm chất của tính cách hơn là của bộ óc". Chú thích của Zweig: câu này ở trang 4 của *The Intelligent Investor* ấn bản năm 1949 (Harper & Row).
 
-Có bằng chứng rằng IQ cao và học vấn cao không đủ để làm một nhà đầu tư thông minh. Năm 1998, Long-Term Capital Management LP (LTCM), một quỹ đầu cơ do cả một đội quân nhà toán học, nhà khoa học máy tính và hai nhà kinh tế đoạt giải Nobel điều hành, mất hơn 2 tỷ USD trong vài tuần vì một ván cược khổng lồ rằng thị trường trái phiếu sẽ quay về "bình thường". Nhưng thị trường trái phiếu ngày càng bất thường hơn, và LTCM đã vay nhiều tiền tới mức sự sụp đổ của nó suýt làm lật hệ thống tài chính toàn cầu. Chú thích của Zweig: quỹ đầu cơ (hedge fund) là một quỹ tiền phần lớn không bị nhà nước quản lý, đầu tư mạnh tay cho khách hàng giàu có; câu chuyện LTCM được kể rất hay trong *When Genius Failed* của Roger Lowenstein (Random House, 2000).
+Có bằng chứng rằng IQ cao và học vấn cao không đủ để làm một nhà đầu tư thông minh. Năm 1998, Long-Term Capital Management LP (LTCM), một quỹ đầu cơ do cả một đội quân nhà toán học, nhà khoa học máy tính và hai nhà kinh tế đoạt giải Nobel điều hành, mất hơn 2 tỷ USD trong vài tuần vì một ván cược khổng lồ rằng thị trường trái phiếu sẽ quay về "bình thường". Nhưng thị trường trái phiếu ngày càng bất thường hơn, và LTCM đã vay nhiều tiền tới mức sự sụp đổ của nó suýt làm lật hệ thống tài chính toàn cầu.
+
+Chú thích của Zweig: quỹ đầu cơ (hedge fund) là một quỹ tiền phần lớn không bị nhà nước quản lý, đầu tư mạnh tay cho khách hàng giàu có; câu chuyện LTCM được kể rất hay trong *When Genius Failed* của Roger Lowenstein (Random House, 2000).
 
 Mùa xuân năm 1720, Sir Isaac Newton nắm cổ phiếu South Sea Company, cổ phiếu nóng nhất nước Anh. Cảm thấy thị trường đang mất kiểm soát, nhà vật lý vĩ đại lẩm bẩm rằng ông "có thể tính toán chuyển động của các thiên thể, nhưng không tính được sự điên rồ của con người". Newton bán cổ phiếu South Sea, thu lãi 100%, tổng cộng 7.000 bảng Anh. Nhưng vài tháng sau, bị cuốn theo cơn hưng phấn của thị trường, Newton mua lại ở giá cao hơn nhiều và mất 20.000 bảng (hơn 3 triệu USD theo giá trị tiền năm 2003). Suốt phần đời còn lại, ông cấm bất kỳ ai nói hai chữ "South Sea" trước mặt mình. Chú thích của Zweig: nguồn là John Carswell, *The South Sea Bubble* (Cresset Press, London, 1960), trang 131 và 199.
 
@@ -644,15 +650,21 @@ Zweig điểm lại các diễn biến tài chính lớn của những năm gầ
 9. Lãi suất giảm không ngừng, khiến nhà đầu tư không có lựa chọn thay thế hấp dẫn nào cho cổ phiếu.
 10. Một môi trường đầu tư bị đe doạ bởi khủng bố toàn cầu khó lường và chiến tranh ở Trung Đông.
 
-Zweig nói phần lớn thiệt hại này lẽ ra có thể được tránh, và trên thực tế đã được tránh, bởi những nhà đầu tư học và tôn trọng nguyên tắc của Graham. Ông dẫn lại lời Graham trong phần Giới thiệu: dù nhiệt huyết có thể cần cho thành tựu lớn ở nơi khác, ở Phố Wall nó gần như luôn dẫn tới thảm hoạ. Bị cuốn theo cổ phiếu Internet, cổ phiếu "tăng trưởng" lớn, hay cổ phiếu nói chung, nhiều người đã phạm những sai lầm ngớ ngẩn giống Newton: để phán đoán của nhà đầu tư khác quyết định phán đoán của mình; bỏ qua cảnh báo của Graham rằng "những khoản lỗ thật sự khủng khiếp" luôn xảy ra khi "người mua quên hỏi 'bao nhiêu?'". Đau đớn nhất, khi đánh mất tự chủ đúng lúc cần nó nhất, những người này đã chứng minh câu của Graham rằng "vấn đề chính của nhà đầu tư, thậm chí kẻ thù tồi tệ nhất của họ, có lẽ chính là bản thân họ".
+Zweig nói phần lớn thiệt hại này lẽ ra có thể được tránh, và trên thực tế đã được tránh, bởi những nhà đầu tư học và tôn trọng nguyên tắc của Graham. Ông dẫn lại lời Graham trong phần Giới thiệu: dù nhiệt huyết có thể cần cho thành tựu lớn ở nơi khác, ở Phố Wall nó gần như luôn dẫn tới thảm hoạ.
+
+Bị cuốn theo cổ phiếu Internet, cổ phiếu "tăng trưởng" lớn, hay cổ phiếu nói chung, nhiều người đã phạm những sai lầm ngớ ngẩn giống Newton: để phán đoán của nhà đầu tư khác quyết định phán đoán của mình; bỏ qua cảnh báo của Graham rằng "những khoản lỗ thật sự khủng khiếp" luôn xảy ra khi "người mua quên hỏi 'bao nhiêu?'". Đau đớn nhất, khi đánh mất tự chủ đúng lúc cần nó nhất, những người này đã chứng minh câu của Graham rằng "vấn đề chính của nhà đầu tư, thậm chí kẻ thù tồi tệ nhất của họ, có lẽ chính là bản thân họ".
 
 #### 4. Điều chắc chắn hoá ra không chắc (La chose sûre qui n'était pas, PDF trang 22–23)
 
 Nhiều người đặc biệt bị cuốn theo cổ phiếu công nghệ và Internet, tin vào lời quảng cáo rằng ngành này sẽ tiếp tục vượt mọi ngành khác trong nhiều năm tới, nếu không phải mãi mãi. Zweig nêu ba ví dụ:
 
-- Giữa năm 1999, sau khi đạt lợi nhuận 117,3% trong năm tháng đầu năm, nhà quản lý danh mục của Monument Internet Fund, Alexander Cheung, dự báo quỹ sẽ lãi 50% mỗi năm trong ba tới năm năm tới và bình quân 35% mỗi năm "trong 20 năm tới". Chú thích của Zweig: lợi nhuận 20 năm cao nhất trong lịch sử quỹ tương hỗ là 25,8% mỗi năm, do Peter Lynch huyền thoại đạt được ở quỹ Fidelity Magellan trong hai thập kỷ kết thúc ngày 31/12/1994; mức đó biến 10.000 USD thành hơn 982.000 USD sau 20 năm. Dự báo của Cheung tương đương biến 10.000 USD thành hơn 4 triệu USD trong cùng thời gian. Thay vì coi Cheung là lạc quan một cách lố bịch, nhà đầu tư đổ tiền vào, hơn 100 triệu USD trong năm tiếp theo. Một khoản 10.000 USD đầu tư vào Monument Internet Fund tháng 5/1999 chỉ còn khoảng 2.000 USD vào cuối năm 2002. Quỹ Monument không còn tồn tại dưới dạng ban đầu và nay mang tên Orbitex Emerging Technology Fund.
+- Giữa năm 1999, sau khi đạt lợi nhuận 117,3% trong năm tháng đầu năm, nhà quản lý danh mục của Monument Internet Fund, Alexander Cheung, dự báo quỹ sẽ lãi 50% mỗi năm trong ba tới năm năm tới và bình quân 35% mỗi năm "trong 20 năm tới". Chú thích của Zweig: lợi nhuận 20 năm cao nhất trong lịch sử quỹ tương hỗ là 25,8% mỗi năm, do Peter Lynch huyền thoại đạt được ở quỹ Fidelity Magellan trong hai thập kỷ kết thúc ngày 31/12/1994; mức đó biến 10.000 USD thành hơn 982.000 USD sau 20 năm. Dự báo của Cheung tương đương biến 10.000 USD thành hơn 4 triệu USD trong cùng thời gian.
+
+  Thay vì coi Cheung là lạc quan một cách lố bịch, nhà đầu tư đổ tiền vào, hơn 100 triệu USD trong năm tiếp theo. Một khoản 10.000 USD đầu tư vào Monument Internet Fund tháng 5/1999 chỉ còn khoảng 2.000 USD vào cuối năm 2002. Quỹ Monument không còn tồn tại dưới dạng ban đầu và nay mang tên Orbitex Emerging Technology Fund.
 - Sau khi quỹ công nghệ Amerindo của ông tăng 248,9% năm 1999, nhà quản lý danh mục Alberto Vilar chế giễu bất kỳ ai dám nghi ngờ rằng Internet là cỗ máy in tiền vĩnh cửu: "Nếu bạn đứng ngoài lĩnh vực này, bạn sẽ thua thị trường. Bạn đang đi xe ngựa, còn tôi đi Porsche. Bạn không thích cơ hội tăng trưởng gấp mười lần à? Vậy thì đi với người khác." Chú thích của Zweig: nguồn là Lisa Reilly Cullen, "The Triple Digit Club", *Money*, tháng 12/1999, trang 170. Nếu bạn đầu tư 10.000 USD vào quỹ của Vilar cuối năm 1999, bạn sẽ kết thúc năm 2002 với chỉ 1.195 USD, một trong những vụ phá huỷ tài sản tệ nhất lịch sử ngành quỹ tương hỗ.
-- Tháng 2/2000, nhà quản lý quỹ đầu cơ James J. Cramer tuyên bố các công ty liên quan tới Internet "là những công ty duy nhất đáng nắm giữ lúc này". Ông gọi chúng là "những người thắng của thế giới mới", "những công ty duy nhất luôn đi lên trong cả ngày tốt lẫn ngày xấu". Cramer còn đá xoáy Graham: "Bạn phải vứt bỏ mọi ma trận, công thức và sách vở có trước thời Web… Nếu chúng tôi dùng những gì Graham và Dodd dạy, chúng tôi đã chẳng có đồng nào để quản lý." Chú thích của Zweig: các cổ phiếu Cramer ưa thích không "luôn đi lên trong cả lúc tốt lẫn lúc xấu". Tới cuối năm 2002, một trong mười công ty đã phá sản, và 10.000 USD chia đều cho các lựa chọn của Cramer đã mất 94%, chỉ còn 597,44 USD. Zweig mỉa mai: có lẽ Cramer muốn nói các cổ phiếu đó sẽ là "người thắng" không phải ở "thế giới mới" mà ở thế giới bên kia.
+- Tháng 2/2000, nhà quản lý quỹ đầu cơ James J. Cramer tuyên bố các công ty liên quan tới Internet "là những công ty duy nhất đáng nắm giữ lúc này". Ông gọi chúng là "những người thắng của thế giới mới", "những công ty duy nhất luôn đi lên trong cả ngày tốt lẫn ngày xấu". Cramer còn đá xoáy Graham: "Bạn phải vứt bỏ mọi ma trận, công thức và sách vở có trước thời Web… Nếu chúng tôi dùng những gì Graham và Dodd dạy, chúng tôi đã chẳng có đồng nào để quản lý."
+
+  Chú thích của Zweig: các cổ phiếu Cramer ưa thích không "luôn đi lên trong cả lúc tốt lẫn lúc xấu". Tới cuối năm 2002, một trong mười công ty đã phá sản, và 10.000 USD chia đều cho các lựa chọn của Cramer đã mất 94%, chỉ còn 597,44 USD. Zweig mỉa mai: có lẽ Cramer muốn nói các cổ phiếu đó sẽ là "người thắng" không phải ở "thế giới mới" mà ở thế giới bên kia.
 
 Tất cả những "chuyên gia" này đã bỏ qua lời cảnh báo tỉnh táo của Graham: "Triển vọng tăng trưởng vật chất hiển nhiên của một ngành không chuyển thành lợi nhuận hiển nhiên cho nhà đầu tư." Dù có vẻ dễ đoán ngành nào sẽ tăng trưởng nhanh nhất, dự báo đó không có giá trị thực nếu phần lớn nhà đầu tư khác cũng đã kỳ vọng như vậy. Vào lúc mọi người cùng quyết định rằng một ngành nào đó "hiển nhiên" là nơi tốt nhất để đầu tư, giá cổ phiếu của ngành đó đã bị đẩy lên cao tới mức lợi nhuận tương lai của nó không còn đường nào khác ngoài giảm.
 
@@ -713,7 +725,9 @@ Không có con đường chắc chắn và dễ dàng tới giàu có. Nhà đ�
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Phần này giới thiệu các ý sau này trở thành chuẩn mực: phân bổ tài sản (asset allocation) giữa trái phiếu và cổ phiếu theo định giá tương đối (so sánh lợi suất trái phiếu với tỷ suất cổ tức); bằng chứng sớm về việc quản lý chủ động khó thắng chỉ số (đa số quỹ thua thị trường), về sau là cơ sở cho đầu tư thụ động qua quỹ chỉ số; đầu tư định kỳ (dollar-cost averaging); đầu tư giá trị dựa trên giá trị sổ sách hữu hình (price-to-tangible-book); sự bất cân xứng giữa lỗ và lãi (drawdown và recovery); rủi ro đòn bẩy (leverage risk); và tài chính hành vi (behavioral finance) với các hiện tượng tâm lý bầy đàn (herding), mua đuổi theo đà tăng (momentum chasing). Câu "cổ phiếu rủi ro hơn khi giá tăng" của Zweig đi ngược cách đo rủi ro bằng độ biến động quá khứ: theo Graham và Zweig, rủi ro thật là khả năng mất vốn vĩnh viễn vì trả giá quá cao.
+Phần này giới thiệu các ý sau này trở thành chuẩn mực: phân bổ tài sản (asset allocation) giữa trái phiếu và cổ phiếu theo định giá tương đối (so sánh lợi suất trái phiếu với tỷ suất cổ tức); bằng chứng sớm về việc quản lý chủ động khó thắng chỉ số (đa số quỹ thua thị trường), về sau là cơ sở cho đầu tư thụ động qua quỹ chỉ số; đầu tư định kỳ (dollar-cost averaging); đầu tư giá trị dựa trên giá trị sổ sách hữu hình (price-to-tangible-book); sự bất cân xứng giữa lỗ và lãi (drawdown và recovery); rủi ro đòn bẩy (leverage risk); và tài chính hành vi (behavioral finance) với các hiện tượng tâm lý bầy đàn (herding), mua đuổi theo đà tăng (momentum chasing).
+
+Câu "cổ phiếu rủi ro hơn khi giá tăng" của Zweig đi ngược cách đo rủi ro bằng độ biến động quá khứ: theo Graham và Zweig, rủi ro thật là khả năng mất vốn vĩnh viễn vì trả giá quá cao.
 
 ## Thuật ngữ
 
@@ -800,4 +814,190 @@ Graham khuyên chỉ mua cổ phiếu có giá không cao hơn nhiều so với 
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Bài học thực hành: trước khi đầu tư, tự xác định mình là nhà đầu tư phòng thủ hay năng động và trung thực về thời gian, kiến thức, tính khí; với phần lớn người không chuyên, một danh mục đơn giản gồm trái phiếu chất lượng cao (hoặc tiền gửi) và một rổ cổ phiếu đa dạng, mua đều đặn hằng tháng, là đủ. Tránh vay ký quỹ ở mức có thể mất trắng; tránh mua theo "ngành nóng" khi ai cũng nói về nó; luôn hỏi giá đang trả so với giá trị doanh nghiệp. Ở thị trường như Việt Nam, nơi nhà đầu tư cá nhân chiếm tỷ trọng giao dịch lớn và tâm lý đám đông dễ khuếch đại các đợt tăng giảm, lời khuyên của Zweig — coi thị trường giá xuống là cơ hội nếu có đủ tiền mặt dự phòng, và không bán chỉ vì giá đã giảm — đặc biệt hữu ích (nhận định định tính của người tổng hợp, không dựa trên số liệu).
+Bài học thực hành: trước khi đầu tư, tự xác định mình là nhà đầu tư phòng thủ hay năng động và trung thực về thời gian, kiến thức, tính khí; với phần lớn người không chuyên, một danh mục đơn giản gồm trái phiếu chất lượng cao (hoặc tiền gửi) và một rổ cổ phiếu đa dạng, mua đều đặn hằng tháng, là đủ. Tránh vay ký quỹ ở mức có thể mất trắng; tránh mua theo "ngành nóng" khi ai cũng nói về nó; luôn hỏi giá đang trả so với giá trị doanh nghiệp.
+
+Ở thị trường như Việt Nam, nơi nhà đầu tư cá nhân chiếm tỷ trọng giao dịch lớn và tâm lý đám đông dễ khuếch đại các đợt tăng giảm, lời khuyên của Zweig — coi thị trường giá xuống là cơ hội nếu có đủ tiền mặt dự phòng, và không bán chỉ vì giá đã giảm — đặc biệt hữu ích (nhận định định tính của người tổng hợp, không dựa trên số liệu).
+
+## Bản đồ tư duy
+
+Toàn cảnh phần Giới thiệu trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết (Phần A mục 1–3 về người đọc và ví dụ Raskob, mục 4–6 về môi trường mới và lợi suất trái phiếu so với cổ tức, mục 7–8 về hai loại nhà đầu tư và cái bẫy ngành tăng trưởng, mục 9–13 về mục tiêu của sách và chương trình cổ phiếu; Phần B mục 1–2 và mục 3–5 là bình luận của Zweig), mỗi nhánh ghi nguyên tắc, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Giới thiệu: không có đường chắc chắn và dễ dàng tới giàu có, sách giúp tránh sai lầm lớn, giữ tâm lý đúng và luôn hỏi giá bao nhiêu`"]
+  n1["`Phần A, mục 1–3 — Sách viết cho nhà đầu tư, không cho nhà đầu cơ`"]
+  n0 --- n1
+  n2["`Nói ít về kỹ thuật phân tích chứng khoán, nhiều về nguyên tắc đầu tư và thái độ nhà đầu tư`"]
+  n1 --- n2
+  n3["`Cần biết lịch sử thị trường vì các điều kiện cũ có thể lặp lại (Santayana)`"]
+  n1 --- n3
+  n4["`Raskob 1929 hứa: 15 USD mỗi tháng trong 20 năm (góp 3.600 USD) thành 80.000 USD`"]
+  n1 --- n4
+  n5["`Graham tính với 30 cổ phiếu DJIA 1929–1948: đầu năm 1949 chỉ còn khoảng 8.500 USD`"]
+  n4 --- n5
+  n6["`Vẫn lãi hơn 8% mỗi năm dù DJIA rơi từ 300 xuống 177: lý lẽ cho đầu tư định kỳ một số tiền cố định`"]
+  n4 --- n6
+  n7["`Zweig dẫn Siegel: chưa tới 9.000 USD, và lạm phát ăn mòn phần lớn khoản lãi`"]
+  n4 --- n7
+  n8["`Phương pháp kỹ thuật mua vì giá đã tăng, bán vì giá đã giảm, ngược lẽ thường kinh doanh`"]
+  n1 --- n8
+  n9["`Hơn 50 năm, Graham chưa thấy ai kiếm tiền đều đặn, lâu dài bằng cách chạy theo thị trường`"]
+  n1 --- n9
+  n10["`Thuyết Dow bán ở 306 trước cú sụp 1929, mua lại ở 84 năm 1933, nhưng từ 1938 thua mua và giữ DJIA`"]
+  n9 --- n10
+  n11["`Phần A, mục 4–6 — Môi trường mới của ấn bản 1971–1972`"]
+  n0 --- n11
+  n12["`Nguyên tắc lành mạnh không đổi theo thập kỷ, chỉ cách áp dụng phải thích nghi`"]
+  n11 --- n12
+  n13["`Cổ phiếu hàng đầu giảm khoảng 35% tới tháng 5/1970, mức giảm mạnh nhất trong 30 năm`"]
+  n11 --- n13
+  n14["`Lạm phát dai dẳng, công ty đa ngành, letter stock, chứng quyền tràn lan, quỹ chạy theo thành tích`"]
+  n11 --- n14
+  n15["`Penn Central, đường sắt lớn nhất Mỹ, phá sản 21/6/1970, nhiều công ty môi giới sụp đổ 1968–1971`"]
+  n11 --- n15
+  n16["`DJIA 632 (đáy 1970) lên 951 (đỉnh 1971) rồi 797 (tháng 11/1971), Graham không đổi thái độ`"]
+  n11 --- n16
+  n17["`Đợt giảm 1969–1970 xoá ảo tưởng mua cổ phiếu hàng đầu ở giá nào cũng chắc có lãi`"]
+  n16 --- n17
+  n18["`Ở Phố Wall, nhiệt huyết gần như luôn dẫn tới thảm hoạ`"]
+  n16 --- n18
+  n19["`Lợi suất trái phiếu AAA so với cổ tức: 2,66% với 6,82% (1949), 7,19% với 2,76% (đầu 1972)`"]
+  n11 --- n19
+  n20["`Ấn bản trước: giữ ít nhất 25% cổ phiếu, thường chia 50–50 trái phiếu và cổ phiếu`"]
+  n19 --- n20
+  n21["`Câu hỏi mới: có nên giữ toàn bộ trái phiếu? Phụ thuộc lạm phát có tiếp diễn không (Chương 2)`"]
+  n19 --- n21
+  n22["`Zweig: đầu 2003 trái phiếu Kho bạc 10 năm 3,8%, tỷ suất cổ tức DJIA 1,9%`"]
+  n19 --- n22
+  n23["`Phần A, mục 7–8 — Hai loại nhà đầu tư và cái bẫy ngành tăng trưởng`"]
+  n0 --- n23
+  n24["`Nhà đầu tư phòng thủ: tránh sai lầm, thua lỗ nghiêm trọng, không tốn công, không quyết định thường xuyên`"]
+  n23 --- n24
+  n25["`Nhà đầu tư năng động: bỏ thời gian chọn chứng khoán vừa vững chắc vừa hấp dẫn hơn trung bình`"]
+  n23 --- n25
+  n26["`Graham nghi ngờ phần thưởng thêm cho người năng động còn đáng kể năm 1971–1972`"]
+  n25 --- n26
+  n27["`Hàng không: lượng khách kỷ lục năm 1970 mà vẫn lỗ khoảng 200 triệu USD (cũng lỗ năm 1945, 1961)`"]
+  n23 --- n27
+  n28["`Zweig: lợi nhuận cộng dồn cả lịch sử ngành vận tải hàng không là số âm`"]
+  n27 --- n28
+  n29["`IBM có thành tích tuyệt vời nhưng các quỹ chỉ giữ khoảng 3% tài sản ở cổ phiếu này`"]
+  n23 --- n29
+  n30["`Bài học 1: tăng trưởng hiển nhiên của một ngành không thành lợi nhuận hiển nhiên cho nhà đầu tư`"]
+  n23 --- n30
+  n31["`Bài học 2: chuyên gia không có cách đáng tin cậy chọn công ty triển vọng nhất trong ngành triển vọng nhất`"]
+  n23 --- n31
+  n32["`Phần A, mục 9–13 — Mục tiêu của sách và chương trình cổ phiếu`"]
+  n0 --- n32
+  n33["`Kẻ thù tồi tệ nhất của nhà đầu tư có lẽ chính là bản thân họ (nhại Shakespeare)`"]
+  n32 --- n33
+  n34["`Người bình thường có tính khí hợp với đầu tư kiếm và giữ tiền giỏi hơn người giỏi tài chính mà thiếu tính khí`"]
+  n33 --- n34
+  n35["`Với 99 trên 100 loại chứng khoán có giá đủ rẻ để mua và giá đắt tới mức nên bán`"]
+  n32 --- n35
+  n36["`Mua cổ phiếu như mua thực phẩm, đừng như mua nước hoa, lỗ khủng khiếp nhất khi quên hỏi bao nhiêu`"]
+  n35 --- n36
+  n37["`Trái phiếu tiện ích hạng nhất cho 9,40% (tháng 6/1970), nay khoảng 7,3%`"]
+  n35 --- n37
+  n38["`Chỉ mua cổ phiếu có giá không cao hơn nhiều so với giá trị tài sản hữu hình`"]
+  n32 --- n38
+  n39["`Giá trị sổ sách hữu hình: vốn chủ sở hữu trừ tài sản vô hình (goodwill, nhãn hiệu), chia số cổ phiếu pha loãng đầy đủ`"]
+  n38 --- n39
+  n40["`Mua cổ phiếu tiện ích quanh giá trị tài sản ròng thì là chủ một phần doanh nghiệp, ít phụ thuộc thị trường`"]
+  n38 --- n40
+  n41["`Kết quả khá đạt được với rất ít công sức, thêm một chút hiểu biết có thể làm kết quả tệ hơn`"]
+  n32 --- n41
+  n42["`Đa số quỹ thua thị trường chung, dự báo của công ty môi giới kém tin cậy hơn tung đồng xu`"]
+  n41 --- n42
+  n43["`Danh mục đơn giản: trái phiếu hạng cao cộng danh sách đa dạng cổ phiếu hàng đầu`"]
+  n32 --- n43
+  n44["`Cách tiếp cận táo bạo hơn phải đặt chắc trên biên an toàn và chỉ chọn sau khi tự xét mình kỹ`"]
+  n43 --- n44
+  n45["`57 năm từ tháng 6/1914: nguyên tắc đầu tư vững chắc đem lại kết quả nhìn chung vững chắc`"]
+  n32 --- n45
+  n46["`Phần B, mục 1–2 (Zweig) — Ba bài học và trí thông minh của tính cách`"]
+  n0 --- n46
+  n47["`Ba bài học: giảm lỗ không thể đảo ngược, tăng lãi bền vững, kiểm soát hành vi tự huỷ hoại`"]
+  n46 --- n47
+  n48["`Mất 95% thì phải lãi 1.900% mới hoà vốn, như mua ở 30 USD rồi bán ở 600 USD`"]
+  n47 --- n48
+  n49["`Graham nhấn mạnh tránh thua lỗ ở Chương 6, 14, 20 và khắp cuốn sách`"]
+  n47 --- n49
+  n50["`Thông minh là kiên nhẫn, kỷ luật, ham học, làm chủ cảm xúc, tự suy nghĩ, không phải IQ`"]
+  n46 --- n50
+  n51["`LTCM 1998: hai nhà kinh tế đoạt giải Nobel, vay nợ lớn, mất hơn 2 tỷ USD trong vài tuần`"]
+  n50 --- n51
+  n52["`Newton 1720: lãi 7.000 bảng với South Sea, mua lại theo đám đông và mất 20.000 bảng`"]
+  n50 --- n52
+  n53["`Phần B, mục 3–5 (Zweig) — Tai hoạ 2000–2002 và mặt tích cực của giá giảm`"]
+  n0 --- n53
+  n54["`Cổ phiếu Mỹ mất 50,2%, tức 7.400 tỷ USD, từ tháng 3/2000 đến tháng 10/2002`"]
+  n53 --- n54
+  n55["`Cáo buộc gian lận ở Enron, Tyco, Xerox, phá sản ở Conseco, Global Crossing, WorldCom`"]
+  n54 --- n55
+  n56["`Người theo Graham tránh được phần lớn thiệt hại, người thua quên hỏi bao nhiêu và mất tự chủ`"]
+  n54 --- n56
+  n57["`Monument Internet Fund dự báo 35% mỗi năm trong 20 năm, 10.000 USD còn khoảng 2.000 USD`"]
+  n53 --- n57
+  n58["`Quỹ Amerindo của Vilar tăng 248,9% năm 1999, 10.000 USD còn 1.195 USD cuối 2002`"]
+  n57 --- n58
+  n59["`Danh sách cổ phiếu Internet của Cramer: 10.000 USD còn 597,44 USD, mất 94%`"]
+  n57 --- n59
+  n60["`Ngành ai cũng dự báo tăng nhanh nhất thì giá đã cao tới mức lợi nhuận tương lai chỉ còn đường giảm`"]
+  n57 --- n60
+  n61["`Năm 2002 nhà đầu tư rút 27 tỷ USD khỏi quỹ tương hỗ, bán khi cổ phiếu đã rẻ`"]
+  n53 --- n61
+  n62["`Cổ phiếu rủi ro hơn khi giá tăng, ít rủi ro hơn khi giá giảm`"]
+  n61 --- n62
+  n63["`Đón chào thị trường giá xuống nếu đủ tiền mặt chi tiêu, người về hưu cũng đừng bán chỉ vì giá giảm`"]
+  n61 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Luôn so cái mình trả với cái mình nhận được trước khi mua`"]
+  n64 --- n65
+  n66["`Tránh thua lỗ lớn và đòn bẩy quan trọng hơn tìm lãi lớn`"]
+  n64 --- n66
+  n67["`Tính khí và kỷ luật cảm xúc quyết định kết quả hơn trí tuệ`"]
+  n64 --- n67
+  n68["`Phần lớn người không chuyên nên là nhà đầu tư phòng thủ với danh mục đơn giản`"]
+  n64 --- n68
+  class n0 root
+  class n1,n11,n23,n32,n46,n53,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; "Introduction: ce que ce livre attend d'accomplir" (PDF trang 10–19) và "Commentaire sur l'introduction" (PDF trang 19–24). Chú thích của Graham: GRAHAM-NOTES, mục "Introduction" (PDF trang 481); chú thích của Zweig: PDF trang 626–628.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman (văn bản viết năm 1971, hoàn tất tháng 11/1971, mọi chữ "hiện nay" chỉ cuối năm 1971 hoặc đầu năm 1972); bình luận: Jason Zweig (2003), lúc đó là cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần trước (xem [00-loi-tua-va-ghi-chu-ve-graham.md](00-loi-tua-va-ghi-chu-ve-graham.md)) giới thiệu Graham là ai và tóm tắt năm nguyên tắc của ông.
+
+Phần Giới thiệu này là lời Graham tự nói về cuốn sách: sách viết cho ai (nhà đầu tư, không phải nhà đầu cơ hay người giao dịch theo biểu đồ), có gì mới so với ấn bản năm 1965, chia người đọc thành hai loại (nhà đầu tư phòng thủ và nhà đầu tư năng động), và muốn đạt được gì (tránh sai lầm lớn, có thái độ tâm lý đúng, có thói quen hỏi "giá bao nhiêu").
+
+Nhiều chủ đề được mở ra ở đây và phát triển ở các chương sau: phân biệt đầu tư với đầu cơ (Chương 1, [C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)), lạm phát (Chương 2, [C02-nha-dau-tu-va-lam-phat.md](C02-nha-dau-tu-va-lam-phat.md)), tỷ lệ trái phiếu và cổ phiếu trong danh mục (Chương 4, [C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)), đầu tư định kỳ một số tiền cố định (Chương 5), thuyết Dow và tâm lý trước biến động thị trường (Chương 8, [C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)), quỹ đầu tư (Chương 9), chứng quyền (Chương 16), và biên an toàn (Chương 20, [C20-bien-an-toan.md](C20-bien-an-toan.md)).
+
+## Lưu ý
+
+- Bản tiếng Pháp là bản dịch máy. Những chỗ lệch nghĩa đáng kể: "papier à lettres" là dịch sai của "letter stock" (cổ phiếu chưa đăng ký, người mua ký thư cam kết mua để đầu tư), không phải "giấy viết thư"; "appareils délicats" nghĩa là "các thủ thuật tinh vi" (tricky devices); "deux mœurs" là "hai bài học" (two morals); "ce merveilleux interprète" là "cổ phiếu có thành tích tuyệt vời này" (performer); "Pour 99 numéros sur 100" là "với 99 trên 100 loại chứng khoán" (issues); "problèmes" nhiều chỗ là "chứng khoán/cổ phiếu" (issues).
+
+  "Les deux médias" là "hai loại tài sản" (trái phiếu và cổ phiếu); "par le biais d'épaisses et minces" là "bất kể thị trường tốt hay xấu" (through thick and thin); "ceux qui font du commerce sur le marché" là "những người giao dịch ngắn hạn" (traders); "succession de 80 000 $" là "khối tài sản 80.000 USD"; "ramener à la maison" là "làm rõ" (bring home); "tyro" là "người mới vào nghề"; "stocks" là cổ phiếu.
+- Trong bình luận của Zweig: tiêu đề "La chose sûre qui n'était pas" là "Điều chắc chắn hoá ra không chắc" (The Sure Thing That Wasn't); "La doublure argentée" là "Mặt tích cực" (The Silver Lining); "un coup de pot à Graham" là "đá xoáy Graham" (took a potshot); "»sept" là số chú thích 7 bị dịch thành chữ; "7,4 billions de dollars" theo cách đếm tiếng Pháp là 7.400 tỷ USD (7,4 nghìn tỷ), không phải 7,4 tỷ; "les analystes de la sécurité" là các nhà phân tích chứng khoán.
+- Câu Graham khuyên chọn cổ phiếu "non loin de leur valeur d'actif corporel" (không xa giá trị tài sản hữu hình): theo hiểu biết của người tổng hợp, không tra cứu, bản tiếng Anh viết "not far above" (không cao hơn nhiều so với), tức là giá có thể bằng hoặc hơi cao hơn giá trị tài sản hữu hình, chứ không phải "xấp xỉ hai phía".
+- Câu "La faute, cher investisseur, n'est pas dans nos étoiles..." là Graham nhại câu nổi tiếng trong *Julius Caesar* của Shakespeare ("The fault, dear Brutus, is not in our stars, but in ourselves"); theo hiểu biết của người tổng hợp, bản tiếng Anh của Graham là "The fault, dear investor, is not in our stars—and not in our stocks—but in ourselves."
+- Câu mở đoạn "Une approche ferme de l'investissement" có thể là dịch không sát; theo ngữ cảnh (đối lập với "kết quả chắc chắn của đầu tư phòng thủ"), Graham nói tới một cách tiếp cận táo bạo hơn nhưng vẫn dựa chắc trên biên an toàn. Người tổng hợp không chắc nguyên văn tiếng Anh.
+- Đoạn trích ấn bản 1949 về cổ phiếu hàng không bắt đầu bằng "Un tel investisseur" (Một nhà đầu tư như vậy) vì Graham chỉ trích một đoạn; nghĩa là nhà đầu tư theo cách "chọn ngành tăng trưởng".
+- Các chú thích của Zweig dẫn số trang bản tiếng Anh không có trong PDF: thuyết Dow "p. 33 et pp. 191–192" (tức là ở Chương 1 và Chương 8), định nghĩa letter stock "p. 579" (chú thích cuối sách của Graham), Ling-Temco-Vought và National General "pages 425 et 463" (Chương 17 và Chương 18), cách tính giá trị tài sản hữu hình "note † à la p. 198" (một chú thích khác của Zweig). Bản tổng hợp đã chép thẳng nội dung được dẫn.
+- Chú thích của Zweig về Penn Central có một ngoặc đơn "(cf." mở mà không có nội dung, có lẽ lỗi sót chữ của bản Pháp.
+- Các chú thích về Graham-Newman, GEICO, Dante và khảo sát của Cục Dự trữ Liên bang năm 1948 nằm ở đầu file chú thích của Zweig (PDF trang 549–550) nhưng không thuộc phần Giới thiệu: GEICO và Dante thuộc Lời bạt và bình luận Lời bạt, khảo sát năm 1948 thuộc Chương 1, Graham-Newman thuộc ghi chú về Graham. Chú thích của Zweig cho phần Giới thiệu nằm ở cuối file (PDF trang 626–628).
+- Số liệu đã thay đổi, theo hiểu biết của người tổng hợp, không tra cứu: lợi suất trái phiếu hạng cao của Mỹ lên đỉnh đầu thập niên 1980 rồi giảm gần như liên tục tới khoảng năm 2020, rồi tăng lại mạnh từ năm 2022; chỉ số Dow Jones, khoảng 800–950 điểm năm 1971, đã vượt nhiều chục nghìn điểm; Penn Central được tái cấu trúc thành Conrail (1976). Sau năm 2003: khủng hoảng tài chính 2008 là một cú sụp đổ khác tương đương 2000–2002; quỹ chỉ số và ETF chi phí thấp trở nên rất phổ biến, phù hợp với nhận xét của Graham rằng phần lớn quỹ không thắng được thị trường.
+- Lời Graham "trong kinh nghiệm hơn 50 năm" được viết năm 1971 (ông vào Phố Wall tháng 6/1914, tức 57 năm như ông nói ở cuối phần).

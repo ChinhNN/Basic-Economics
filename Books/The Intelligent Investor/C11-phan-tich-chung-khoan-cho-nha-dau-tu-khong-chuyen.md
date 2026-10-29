@@ -1,20 +1,26 @@
 # Chương 11 — Phân tích chứng khoán cho nhà đầu tư không chuyên: cách tiếp cận chung (Analyse de sécurité pour l'investisseur profane: approche générale)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 11 "Analyse de sécurité pour l'investisseur profane: approche générale" (PDF trang 242–259) và "Commentaire sur le chapitre 11" (PDF trang 259–267). Chú thích của Graham cho chương này nằm ở PDF trang 486–487; chú thích của Zweig nằm ở PDF trang 558–562.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 đến 10 bàn về thái độ và chính sách: đầu tư khác đầu cơ ra sao, lạm phát, lịch sử thị trường, cách nhà đầu tư phòng thủ và nhà đầu tư năng động xây danh mục, cách đối xử với biến động giá (ông Thị Trường), quỹ đầu tư và người tư vấn ([C10](C10-nha-dau-tu-va-nguoi-tu-van.md)). Chương 11 mở đầu nhóm chương về **phân tích chứng khoán (security analysis)**: Graham giải thích cho người không chuyên biết nhà phân tích làm gì, kiểm tra độ an toàn của trái phiếu và cổ phiếu ưu đãi bằng hệ số trang trải lãi vay như thế nào, định giá cổ phiếu phổ thông bằng "lợi nhuận tương lai nhân với hệ số vốn hoá" ra sao, năm yếu tố nào làm hệ số đó cao hay thấp, và đưa ra công thức định giá cổ phiếu tăng trưởng "8,5 cộng hai lần tốc độ tăng trưởng". Chương 12 ([C12](C12-nhung-dieu-can-xet-ve-eps.md)) đi vào những cái bẫy trong con số lợi nhuận trên mỗi cổ phiếu (EPS), với ví dụ ALCOA mà chương này hứa trước; Chương 13 ([C13](C13-so-sanh-bon-cong-ty-niem-yet.md)) áp dụng kỹ thuật phân tích cho bốn công ty; Chương 14 và 15 ([C14](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md), [C15](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md)) biến các yếu tố của chương này (quy mô, sức mạnh tài chính, lịch sử cổ tức, tăng trưởng, giá so với lợi nhuận) thành bộ tiêu chí chọn cổ phiếu; Chương 17 ([C17](C17-bon-truong-hop-dang-hoc.md)) phân tích vụ phá sản Penn Central được nhắc ở đây; Chương 19 ([C19](C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md)) bàn chính sách cổ tức mà chương này hoãn lại; Chương 20 ([C20](C20-bien-an-toan.md)) nâng ý tưởng "biên an toàn" trong định giá thành nguyên tắc trung tâm.
-**Ý chính:** Graham muốn người đọc hiểu rằng **phân tích chứng khoán đáng tin nhất ở chỗ nó dựa vào kết quả đã chứng minh trong quá khứ, và kém tin cậy nhất đúng ở chỗ người ta dùng nhiều toán học nhất: định giá cổ phiếu tăng trưởng dựa vào dự báo xa**. Với trái phiếu và cổ phiếu ưu đãi, phép thử chính là lợi nhuận đã trang trải được lãi vay bao nhiêu lần (ví dụ doanh nghiệp công nghiệp cần lợi nhuận trước thuế bình quân 7 năm gấp ít nhất 7 lần chi phí cố định), và lịch sử cho thấy phép thử này hiệu quả: trong các công ty đường sắt tái cấu trúc thập niên 1940–1950, chỉ New Haven Railroad bắt đầu với hệ số trang trải khoảng 1,1 lần và chính nó lại phá sản lần thứ ba năm 1961. Với cổ phiếu phổ thông, giá trị bằng lợi nhuận bình quân tương lai nhân với một "hệ số vốn hoá" phụ thuộc năm yếu tố: triển vọng dài hạn, ban điều hành, sức mạnh tài chính và cơ cấu vốn, lịch sử cổ tức, mức cổ tức hiện tại. Hai công ty cùng dự kiến lãi 4 USD/cổ phiếu có thể được định giá 40 USD và 100 USD. Graham đưa ra công thức rút gọn: **Giá trị = lợi nhuận hiện tại (bình thường) × (8,5 + 2 × tốc độ tăng trưởng hằng năm dự kiến trong 7–10 năm)**, rồi dùng ngược để thấy giá cuối 1963 hàm ý Xerox tăng trưởng 32,4%/năm còn General Motors chỉ 2,8%/năm. Nhưng ông cảnh báo: một công ty tăng trưởng từ 8%/năm trở lên mãi mãi sẽ có giá trị vô hạn theo số học, nên người định giá phải tự cài biên an toàn vào phép tính; các dự báo ngành của Wall Street phần lớn đã nằm sẵn trong giá; và ông đề xuất một quy trình định giá hai bước: trước hết tính "giá trị theo thành tích quá khứ" một cách gần như máy móc, sau đó mới điều chỉnh vì những thay đổi dự kiến. Zweig, viết năm 2003, bổ sung rằng **năm yếu tố của Graham vẫn là khung kiểm tra đúng, và nhà đầu tư có thể kiểm tra chúng bằng chính báo cáo năm (mẫu 10-K) tải miễn phí từ cơ sở dữ liệu EDGAR của SEC**: cảnh giác với công ty mua bán sáp nhập liên tục (Lucent, Mattel, Quaker Oats, Tyco), công ty sống nhờ tiền của người khác (Global Crossing, WorldCom), công ty phụ thuộc một khách hàng (Sycamore Networks, có 100% doanh thu 11 triệu USD từ Williams Communications nhưng được định giá 15 tỷ USD rồi mất 97%); tìm công ty có "hào kinh tế" (moat), tăng trưởng đều như người chạy marathon, chi đủ cho nghiên cứu và phát triển; soi ban điều hành qua lương thưởng, quyền chọn cổ phiếu (AOL Time Warner có quyền chọn trên 657 triệu cổ phiếu, tương đương khoảng 15% so với 4,5 tỷ cổ phiếu đang lưu hành), cách báo cáo kế toán; đo sức mạnh tài chính bằng dòng tiền và "lợi nhuận của chủ sở hữu" (owner earnings) kiểu Buffett, nợ dài hạn dưới 50% tổng vốn; coi việc tách cổ phiếu để quảng bá và mua lại cổ phiếu lúc giá đắt là dấu hiệu xấu.
+## Ý chính
 
-> **Lưu ý:**
-> - **Năm bảng của chương bị để trống trong bản PDF.** Bản PDF có tiêu đề TABLEAU 11-1 (PDF trang 245) và TABLEAU 11-2 (PDF trang 250) nhưng phần thân bảng là khoảng trắng; TABLEAU 11-3 (khoảng trống ở PDF trang 251–252), TABLEAU 11-4 và 11-5 (khoảng trống ở PDF trang 254–255) thậm chí mất luôn tiêu đề, chỉ còn được nhắc trong lời văn. Ảnh trang đã được kiểm tra và xác nhận là trống. Cách xử lý trong bản tổng hợp: (1) phần A của Tableau 11-1 (hệ số trang trải tối thiểu cho trái phiếu) được khôi phục **theo hiểu biết của người tổng hợp về bản tiếng Anh, không tra cứu**, và đã kiểm tra tính nhất quán nội tại (xem phần Nội dung chi tiết); phần B và C của Tableau 11-1 có trong PDF và được chép đủ; (2) Tableau 11-4 được tính lại đầy đủ từ chính công thức của Graham, vì bảng này chỉ là kết quả áp dụng công thức; (3) Tableau 11-2, 11-3 và 11-5 chứa số liệu thị trường cụ thể (30 cổ phiếu Dow Jones, các cổ phiếu hoá chất và dầu mỏ, sáu cổ phiếu lớn) mà người tổng hợp không nhớ chắc chắn, nên chỉ ghi những con số có trong lời văn và tên các công ty mà người tổng hợp nhớ là có trong bảng gốc, kèm ghi chú độ tin cậy. Không bịa số.
-> - **Bản dịch máy lệch nghĩa ở những chỗ ảnh hưởng tới hiểu biết:** "analyse de sécurité" là *security analysis* (phân tích chứng khoán), không phải "phân tích an toàn" (nhưng trong mục trái phiếu, "sécurité" lại thật sự là *safety*, độ an toàn); "action privilégiée obligataire ou investment grade" là "trái phiếu hoặc cổ phiếu ưu đãi hạng đầu tư"; "analyse sonore" là *sound analysis* (phân tích vững chắc); "Ratio actions / capitaux propres" là *stock-equity ratio*: tỷ lệ giữa **giá thị trường của cổ phiếu phổ thông** và tổng mệnh giá nợ (hoặc nợ cộng cổ phiếu ưu đãi), không phải tỷ lệ "cổ phiếu trên vốn chủ sở hữu"; trong ghi chú của Tableau 11-1, câu "alors que les frais d'intérêt le sont également" phải hiểu là "**trong khi** chi phí lãi vay thì được khấu trừ thuế"; "les routes en difficulté sont depuis longtemps surdimensionnées" là "các tuyến đường sắt gặp nạn từ lâu đã **vay nợ quá mức** (overbonded)", không phải "quá khổ"; "retombé sous tutelle" là rơi vào tình trạng **quản lý tiếp nhận do phá sản** (receivership); "rien d'avant le commun" là "không có chứng khoán nào xếp hạng trên cổ phiếu phổ thông" (không nợ, không cổ phiếu ưu đãi); "Registre des dividendes" là *dividend record* (lịch sử trả cổ tức); "sept" và "dix" ở cuối câu thật ra là số chú thích 7 và 10 bị dịch thành chữ. Trong bình luận của Zweig: "loupent de grosses acquisitions" là *gulp* (ngốn), "toxicomane OPM" là *OPM junkie* (nghiện tiền của người khác, OPM = other people's money), "tiret de 100 mètres" là cuộc chạy nước rút 100 mét (*100-meter dash*), "Cherchent-ils le n°1?" là *Are they looking out for No. 1?* (họ có chỉ lo cho bản thân không?), "refacture ses options" là *reprice* (định lại giá thực hiện quyền chọn), "surplomb des options" là *option overhang* (lượng quyền chọn treo), "ont chuté de 145 millions par rapport à ses frais d'intérêt" là "lợi nhuận **thiếu** 145 triệu USD so với chi phí lãi vay", "Il n'y a plus de gaspillage cynique" là "**không có** cách phung phí tiền nào trơ trẽn hơn".
-> - **Lỗi năm:** câu "les paiements d'intérêts avaient prélevé 29% des bénéfices totaux avant intérêts et impôts en 1971, contre seulement 16% en 1963" ghi 1971, nhưng phép tính được thực hiện "đầu năm 1971" cho "bảy năm vừa qua" (1963–1970), nên mốc đúng phải là **1970**.
-> - **Lệch nhỏ về năm của sách giáo khoa:** lời văn nói "bản hiệu đính năm 1961 của *Security Analysis*", chú thích 1 của Graham ghi ấn bản thứ tư in năm 1962 (McGraw-Hill). Hai mốc không mâu thuẫn: bản hiệu đính làm năm 1961, xuất bản năm 1962.
-> - **Graham dẫn số trang của bản tiếng Anh mà bản PDF không có:** "plus haut p. 288" (trỏ tới mục "Analyse des actions ordinaires" của chính chương này, PDF trang 248) và "À la p. 295" trong chú thích 5 (trỏ tới công thức định giá cổ phiếu tăng trưởng của chính chương này, PDF trang 254). Zweig dẫn "p. 570" (Phụ lục 4 của sách) và "p. 507", "p. 508" (bình luận Chương 19).
-> - **Con số "tăng 23%" của chỉ số Dow Jones:** Graham viết rằng từ cuối 1963 tới cuối 1970 giá DJIA tăng 23% và cổ tức cộng dồn 28%. Theo hiểu biết của người tổng hợp, không tra cứu, DJIA đóng cửa cuối 1963 khoảng 763 điểm và cuối 1970 khoảng 839 điểm, tức chỉ tăng khoảng 10%; có thể Graham dùng mốc giá khác (ví dụ giá bình quân), nên con số 23% được giữ nguyên như sách nhưng cần đọc thận trọng.
-> - **Phép tính của Zweig hơi làm tròn:** trong chú thích về độ nhạy của dự báo, cổ phiếu từ khoảng 285 USD xuống khoảng 143 USD là giảm 49,9%, Zweig viết "hơn 50%". Các phép tính khác trong chương đều khớp (đã kiểm tra lại: 1,15^15 = 8,14; 1,14^15 = 7,14; 657/4.500 = 14,6% ≈ 15%; 3 × 12 = 2 × 18 = 36).
-> - **Số liệu đã cũ:** Liên đoàn Quốc gia các Nhà phân tích Tài chính (13.000 hội viên năm 1972) đã thành AIMR khi Zweig viết, và theo hiểu biết của người tổng hợp, không tra cứu, năm 2004 đổi tên thành CFA Institute với hàng trăm nghìn hội viên trên thế giới. Tỷ lệ chi trả cổ tức 59,5% (Dow Jones, 1969) đã giảm xuống 34,1% cuối 2002 (S&P 500) theo Zweig; AOL Time Warner đã tách thành nhiều công ty; Sycamore Networks, Lucent, Global Crossing, WorldCom không còn tồn tại dưới dạng cũ; Amazon, công ty mà Zweig lo có thể "thuộc về chủ nợ", sau đó trở thành một trong những công ty có lợi nhuận lớn nhất thế giới (theo hiểu biết của người tổng hợp, không tra cứu).
-> - **Dễ hiểu nhầm:** công thức "8,5 + 2g" dùng tốc độ tăng trưởng viết dưới dạng **số phần trăm** (tăng 5%/năm thì g = 5, không phải 0,05). Graham nói rõ công thức không cho "giá trị thật" của cổ phiếu tăng trưởng, chỉ xấp xỉ kết quả của các phép tính phức tạp đang thịnh hành (chú thích 7).
+Graham muốn người đọc hiểu rằng **phân tích chứng khoán đáng tin nhất ở chỗ nó dựa vào kết quả đã chứng minh trong quá khứ, và kém tin cậy nhất đúng ở chỗ người ta dùng nhiều toán học nhất: định giá cổ phiếu tăng trưởng dựa vào dự báo xa**.
+
+Với trái phiếu và cổ phiếu ưu đãi, phép thử chính là lợi nhuận đã trang trải được lãi vay bao nhiêu lần (ví dụ doanh nghiệp công nghiệp cần lợi nhuận trước thuế bình quân 7 năm gấp ít nhất 7 lần chi phí cố định), và lịch sử cho thấy phép thử này hiệu quả: trong các công ty đường sắt tái cấu trúc thập niên 1940–1950, chỉ New Haven Railroad bắt đầu với hệ số trang trải khoảng 1,1 lần và chính nó lại phá sản lần thứ ba năm 1961.
+
+Với cổ phiếu phổ thông, giá trị bằng lợi nhuận bình quân tương lai nhân với một "hệ số vốn hoá" phụ thuộc năm yếu tố: triển vọng dài hạn, ban điều hành, sức mạnh tài chính và cơ cấu vốn, lịch sử cổ tức, mức cổ tức hiện tại. Hai công ty cùng dự kiến lãi 4 USD/cổ phiếu có thể được định giá 40 USD và 100 USD.
+
+Graham đưa ra công thức rút gọn: **Giá trị = lợi nhuận hiện tại (bình thường) × (8,5 + 2 × tốc độ tăng trưởng hằng năm dự kiến trong 7–10 năm)**, rồi dùng ngược để thấy giá cuối 1963 hàm ý Xerox tăng trưởng 32,4%/năm còn General Motors chỉ 2,8%/năm.
+
+Nhưng ông cảnh báo: một công ty tăng trưởng từ 8%/năm trở lên mãi mãi sẽ có giá trị vô hạn theo số học, nên người định giá phải tự cài biên an toàn vào phép tính; các dự báo ngành của Wall Street phần lớn đã nằm sẵn trong giá.
+
+Và ông đề xuất một quy trình định giá hai bước: trước hết tính "giá trị theo thành tích quá khứ" một cách gần như máy móc, sau đó mới điều chỉnh vì những thay đổi dự kiến.
+
+Zweig, viết năm 2003, bổ sung rằng **năm yếu tố của Graham vẫn là khung kiểm tra đúng, và nhà đầu tư có thể kiểm tra chúng bằng chính báo cáo năm (mẫu 10-K) tải miễn phí từ cơ sở dữ liệu EDGAR của SEC**:
+
+- cảnh giác với công ty mua bán sáp nhập liên tục (Lucent, Mattel, Quaker Oats, Tyco), công ty sống nhờ tiền của người khác (Global Crossing, WorldCom), công ty phụ thuộc một khách hàng (Sycamore Networks, có 100% doanh thu 11 triệu USD từ Williams Communications nhưng được định giá 15 tỷ USD rồi mất 97%);
+- tìm công ty có "hào kinh tế" (moat), tăng trưởng đều như người chạy marathon, chi đủ cho nghiên cứu và phát triển;
+- soi ban điều hành qua lương thưởng, quyền chọn cổ phiếu (AOL Time Warner có quyền chọn trên 657 triệu cổ phiếu, tương đương khoảng 15% so với 4,5 tỷ cổ phiếu đang lưu hành), cách báo cáo kế toán;
+- đo sức mạnh tài chính bằng dòng tiền và "lợi nhuận của chủ sở hữu" (owner earnings) kiểu Buffett, nợ dài hạn dưới 50% tổng vốn;
+- coi việc tách cổ phiếu để quảng bá và mua lại cổ phiếu lúc giá đắt là dấu hiệu xấu.
 
 ## Sơ đồ
 
@@ -402,9 +408,15 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao biết một trái phiếu hay cổ phiếu ưu đãi đủ an toàn để mua với tư cách đầu tư?** Graham trả lời: xem lợi nhuận quá khứ đã trang trải chi phí cố định bao nhiêu lần. Với trái phiếu doanh nghiệp công nghiệp, lợi nhuận trước thuế bình quân 7 năm phải gấp ít nhất 7 lần tổng chi phí cố định (hoặc gấp 5 lần trong năm kém nhất); với công ty dịch vụ công cộng là 4 lần (3 lần), đường sắt và bán lẻ là 5 lần (4 lần). Cổ phiếu ưu đãi phải đạt cùng ngưỡng nhưng tính trên chi phí cố định cộng hai lần cổ tức ưu đãi. Khi lãi suất lên 8%, có thể thay bằng phép thử lợi nhuận trước thuế bằng 33% gốc nợ (công nghiệp), 20% (dịch vụ công cộng), 25% (đường sắt). Thêm vào đó là quy mô, tỷ lệ giá trị thị trường của cổ phiếu so với nợ, và giá trị tài sản trong ba ngành đặc thù. Lịch sử đường sắt (New Haven, Penn Central) và dịch vụ công cộng cho thấy phép thử dựa trên quá khứ đã lọc được gần như mọi vụ vỡ nợ.
-2. **Điều gì làm một cổ phiếu đáng 10 lần lợi nhuận và cổ phiếu khác đáng 25 lần?** Năm yếu tố: triển vọng dài hạn chung, ban điều hành, sức mạnh tài chính và cơ cấu vốn, lịch sử cổ tức (trả liên tục 20 năm trở lên), mức cổ tức hiện tại. Với cổ phiếu tăng trưởng, Graham tóm thành công thức: giá trị = lợi nhuận bình thường hiện tại × (8,5 + 2 × tốc độ tăng trưởng dự kiến 7–10 năm). Nhưng ông chỉ ra rằng thị trường hay sai khi phân biệt dựa trên thành tích quá khứ (cổ phiếu hoá chất được trả P/E cao năm 1963 rồi gần như không tăng lợi nhuận tới 1970), rằng không nên cộng yếu tố "ban điều hành giỏi" hai lần, và rằng công ty tăng trưởng từ 8%/năm trở lên mãi mãi sẽ có giá trị vô hạn về mặt toán học, nên định giá phải tự cài biên an toàn.
-3. **Nhà đầu tư không chuyên năm 2003 tự kiểm tra năm yếu tố ấy bằng cách nào?** Zweig trả lời: đọc ít nhất 5 năm báo cáo 10-K trên EDGAR; tìm nguồn tăng trưởng và lợi nhuận; cảnh giác với công ty mua sáp nhập liên tục, nghiện tiền của người khác, phụ thuộc một khách hàng; tìm "hào kinh tế", tăng trưởng đều khoảng 10%/năm trước thuế, chi đủ cho R&D; xem ban điều hành có nói gì làm nấy, có lương và quyền chọn quá mức, có thích quảng bá hơn quản lý, có kế toán minh bạch; đo sức mạnh tài chính bằng dòng tiền kinh doanh và lợi nhuận của chủ sở hữu tăng ít nhất 6–7%/năm, nợ dài hạn dưới 50% tổng vốn, hệ số lợi nhuận trên chi phí cố định; và nghi ngờ công ty giữ lại lợi nhuận mà không vượt đối thủ, tách cổ phiếu để quảng bá, mua lại cổ phiếu lúc giá đắt.
+1. **Làm sao biết một trái phiếu hay cổ phiếu ưu đãi đủ an toàn để mua với tư cách đầu tư?** Graham trả lời: xem lợi nhuận quá khứ đã trang trải chi phí cố định bao nhiêu lần. Với trái phiếu doanh nghiệp công nghiệp, lợi nhuận trước thuế bình quân 7 năm phải gấp ít nhất 7 lần tổng chi phí cố định (hoặc gấp 5 lần trong năm kém nhất); với công ty dịch vụ công cộng là 4 lần (3 lần), đường sắt và bán lẻ là 5 lần (4 lần). Cổ phiếu ưu đãi phải đạt cùng ngưỡng nhưng tính trên chi phí cố định cộng hai lần cổ tức ưu đãi.
+
+   Khi lãi suất lên 8%, có thể thay bằng phép thử lợi nhuận trước thuế bằng 33% gốc nợ (công nghiệp), 20% (dịch vụ công cộng), 25% (đường sắt). Thêm vào đó là quy mô, tỷ lệ giá trị thị trường của cổ phiếu so với nợ, và giá trị tài sản trong ba ngành đặc thù. Lịch sử đường sắt (New Haven, Penn Central) và dịch vụ công cộng cho thấy phép thử dựa trên quá khứ đã lọc được gần như mọi vụ vỡ nợ.
+2. **Điều gì làm một cổ phiếu đáng 10 lần lợi nhuận và cổ phiếu khác đáng 25 lần?** Năm yếu tố: triển vọng dài hạn chung, ban điều hành, sức mạnh tài chính và cơ cấu vốn, lịch sử cổ tức (trả liên tục 20 năm trở lên), mức cổ tức hiện tại. Với cổ phiếu tăng trưởng, Graham tóm thành công thức: giá trị = lợi nhuận bình thường hiện tại × (8,5 + 2 × tốc độ tăng trưởng dự kiến 7–10 năm).
+
+   Nhưng ông chỉ ra rằng thị trường hay sai khi phân biệt dựa trên thành tích quá khứ (cổ phiếu hoá chất được trả P/E cao năm 1963 rồi gần như không tăng lợi nhuận tới 1970), rằng không nên cộng yếu tố "ban điều hành giỏi" hai lần, và rằng công ty tăng trưởng từ 8%/năm trở lên mãi mãi sẽ có giá trị vô hạn về mặt toán học, nên định giá phải tự cài biên an toàn.
+3. **Nhà đầu tư không chuyên năm 2003 tự kiểm tra năm yếu tố ấy bằng cách nào?** Zweig trả lời: đọc ít nhất 5 năm báo cáo 10-K trên EDGAR; tìm nguồn tăng trưởng và lợi nhuận; cảnh giác với công ty mua sáp nhập liên tục, nghiện tiền của người khác, phụ thuộc một khách hàng; tìm "hào kinh tế", tăng trưởng đều khoảng 10%/năm trước thuế, chi đủ cho R&D; xem ban điều hành có nói gì làm nấy, có lương và quyền chọn quá mức, có thích quảng bá hơn quản lý, có kế toán minh bạch.
+
+   Đo sức mạnh tài chính bằng dòng tiền kinh doanh và lợi nhuận của chủ sở hữu tăng ít nhất 6–7%/năm, nợ dài hạn dưới 50% tổng vốn, hệ số lợi nhuận trên chi phí cố định; và nghi ngờ công ty giữ lại lợi nhuận mà không vượt đối thủ, tách cổ phiếu để quảng bá, mua lại cổ phiếu lúc giá đắt.
 
 ## Khái niệm cần biết
 
@@ -451,11 +463,17 @@ Nhà phân tích chứng khoán xử lý quá khứ, hiện tại và tương la
 
 Với trái phiếu và cổ phiếu ưu đãi, nhà phân tích xây dựng và áp dụng **tiêu chuẩn an toàn** để kết luận một chứng khoán có đủ vững để mua với mục đích đầu tư hay không. Các tiêu chuẩn này chủ yếu xét lợi nhuận bình quân quá khứ, nhưng cũng xét cơ cấu vốn, vốn lưu động, giá trị tài sản và các vấn đề khác.
 
-Với cổ phiếu phổ thông, cho tới gần đây nhà phân tích hiếm khi áp dụng **tiêu chuẩn giá trị** rõ ràng như tiêu chuẩn an toàn cho trái phiếu. Phần lớn thời gian ông ta chỉ tóm tắt thành tích quá khứ, đưa ra dự báo ít nhiều chung chung về tương lai (đặc biệt nhấn vào 12 tháng tới) và một kết luận khá tuỳ tiện; kết luận đó trước đây và đến nay vẫn thường được đưa ra với một mắt liếc bảng giá điện tử hay biểu đồ thị trường. Tuy vậy, những năm gần đây các nhà phân tích thực hành rất chú ý tới bài toán định giá cổ phiếu tăng trưởng. Nhiều cổ phiếu loại này được bán ở giá rất cao so với lợi nhuận quá khứ và hiện tại, nên người khuyến nghị thấy mình buộc phải biện minh bằng các dự phóng khá chính xác về lợi nhuận kéo dài khá xa vào tương lai, và phải viện tới những kỹ thuật toán học khá phức tạp để đỡ cho các mức định giá.
+Với cổ phiếu phổ thông, cho tới gần đây nhà phân tích hiếm khi áp dụng **tiêu chuẩn giá trị** rõ ràng như tiêu chuẩn an toàn cho trái phiếu. Phần lớn thời gian ông ta chỉ tóm tắt thành tích quá khứ, đưa ra dự báo ít nhiều chung chung về tương lai (đặc biệt nhấn vào 12 tháng tới) và một kết luận khá tuỳ tiện; kết luận đó trước đây và đến nay vẫn thường được đưa ra với một mắt liếc bảng giá điện tử hay biểu đồ thị trường.
+
+Tuy vậy, những năm gần đây các nhà phân tích thực hành rất chú ý tới bài toán định giá cổ phiếu tăng trưởng. Nhiều cổ phiếu loại này được bán ở giá rất cao so với lợi nhuận quá khứ và hiện tại, nên người khuyến nghị thấy mình buộc phải biện minh bằng các dự phóng khá chính xác về lợi nhuận kéo dài khá xa vào tương lai, và phải viện tới những kỹ thuật toán học khá phức tạp để đỡ cho các mức định giá.
 
 Graham sẽ bàn các kỹ thuật đó ở dạng rút gọn ở phần sau, nhưng ông nêu ngay một **nghịch lý khó chịu**: định giá bằng toán học trở nên phổ biến nhất đúng ở những lĩnh vực mà nó kém tin cậy nhất. Định giá càng phụ thuộc vào kỳ vọng về tương lai, càng ít gắn với con số đã được thành tích quá khứ chứng minh, thì càng dễ bị tính sai và sai nặng. Phần lớn giá trị tìm được cho một cổ phiếu tăng trưởng có hệ số P/E cao đến từ dự phóng khác xa thành tích quá khứ, có lẽ trừ chính tốc độ tăng trưởng. Vì thế, nhà phân tích ngày nay thấy mình bị buộc phải "toán học" và "khoa học" nhất trong đúng những tình huống ít phù hợp nhất với cách xử lý chính xác.
 
-Chú thích của Zweig: Tốc độ tăng trưởng dự phóng càng cao và kỳ dự phóng càng dài thì dự báo càng nhạy với sai sót nhỏ nhất. Ví dụ: một công ty lãi 1 USD/cổ phiếu, nếu tăng 15%/năm trong 15 năm sẽ lãi 8,14 USD; nếu thị trường trả 35 lần lợi nhuận, cổ phiếu cuối kỳ khoảng 285 USD. Nhưng nếu lợi nhuận chỉ tăng 14%/năm, công ty lãi 7,14 USD, và vì thất vọng, nhà đầu tư không còn chịu trả 35 lần; ở mức 20 lần, cổ phiếu chỉ còn khoảng 140 USD (chính xác là khoảng 143 USD), tức thấp hơn khoảng một nửa (Zweig viết "hơn 50%"; tính chính xác là 49,9%). Vì toán học cao cấp tạo vẻ chính xác cho một việc vốn bất định là dự báo tương lai, nhà đầu tư nên rất hoài nghi bất kỳ ai tự nhận có chìa khoá tính toán phức tạp cho các bài toán tài chính cơ bản. Zweig dẫn Graham (phát biểu ở Phụ lục 4 của sách): trong 44 năm kinh nghiệm ở Wall Street, ông chưa từng thấy phép tính đáng tin nào về giá trị cổ phiếu phổ thông hay chính sách đầu tư liên quan vượt quá số học đơn giản hoặc đại số sơ đẳng nhất; hễ thấy giải tích hay đại số cao cấp xuất hiện, hãy coi đó là tín hiệu cảnh báo rằng người làm đang lấy lý thuyết thay cho kinh nghiệm, và thường là đang khoác cho đầu cơ cái vỏ đầu tư.
+Chú thích của Zweig: Tốc độ tăng trưởng dự phóng càng cao và kỳ dự phóng càng dài thì dự báo càng nhạy với sai sót nhỏ nhất. Ví dụ: một công ty lãi 1 USD/cổ phiếu, nếu tăng 15%/năm trong 15 năm sẽ lãi 8,14 USD; nếu thị trường trả 35 lần lợi nhuận, cổ phiếu cuối kỳ khoảng 285 USD. Nhưng nếu lợi nhuận chỉ tăng 14%/năm, công ty lãi 7,14 USD, và vì thất vọng, nhà đầu tư không còn chịu trả 35 lần; ở mức 20 lần, cổ phiếu chỉ còn khoảng 140 USD (chính xác là khoảng 143 USD), tức thấp hơn khoảng một nửa (Zweig viết "hơn 50%"; tính chính xác là 49,9%).
+
+Vì toán học cao cấp tạo vẻ chính xác cho một việc vốn bất định là dự báo tương lai, nhà đầu tư nên rất hoài nghi bất kỳ ai tự nhận có chìa khoá tính toán phức tạp cho các bài toán tài chính cơ bản.
+
+Zweig dẫn Graham (phát biểu ở Phụ lục 4 của sách): trong 44 năm kinh nghiệm ở Wall Street, ông chưa từng thấy phép tính đáng tin nào về giá trị cổ phiếu phổ thông hay chính sách đầu tư liên quan vượt quá số học đơn giản hoặc đại số sơ đẳng nhất; hễ thấy giải tích hay đại số cao cấp xuất hiện, hãy coi đó là tín hiệu cảnh báo rằng người làm đang lấy lý thuyết thay cho kinh nghiệm, và thường là đang khoác cho đầu cơ cái vỏ đầu tư.
 
 Graham tiếp tục bàn các yếu tố và kỹ thuật quan trọng nhất của phân tích chứng khoán, ở dạng rất cô đọng, nhắm vào nhu cầu của nhà đầu tư không chuyên. Tối thiểu, người đó cần hiểu nhà phân tích đang nói gì và hướng tới điều gì; hơn nữa, nếu có thể, cần đủ trang bị để phân biệt phân tích hời hợt với phân tích vững chắc.
 
@@ -488,7 +506,11 @@ Kiểm tra tính nhất quán của phần khôi phục: nếu lợi nhuận tr�
 
 *Phần C — Các loại trái phiếu và cổ phiếu ưu đãi khác* (có trong PDF). Các tiêu chuẩn trên không áp dụng cho (1) công ty mẹ (holding) ngành dịch vụ công cộng, (2) công ty tài chính, (3) công ty bất động sản.
 
-**Điều chỉnh khi lãi suất tăng.** Có thể phản bác rằng lãi suất trái phiếu đã tăng mạnh từ 1961, nên cần hạ bớt mức trang trải đòi hỏi. Rõ ràng một doanh nghiệp công nghiệp khó trang trải 7 lần lãi vay 8% hơn nhiều so với 7 lần lãi vay 4,5%. Để xử lý tình huống mới, Graham đề xuất một yêu cầu thay thế dựa trên **phần trăm lợi nhuận so với gốc nợ**: lợi nhuận trước thuế ít nhất 33% tổng gốc nợ với doanh nghiệp công nghiệp, 20% với dịch vụ công cộng và 25% với đường sắt. (Kiểm tra: 7 lần lãi 4,5% là 31,5% gốc nợ, 4 lần lãi khoảng 5% là 20%, 5 lần lãi 5% là 25%; tức phép thử mới tương đương phép thử cũ ở mức lãi suất trước kia, nhưng không đòi hỏi nhiều hơn khi lãi suất lên 8%.) Graham lưu ý rằng lãi suất thực trả trên tổng nợ của phần lớn công ty thấp hơn nhiều mức 8% hiện hành, vì họ còn hưởng các đợt phát hành cũ có lãi suất danh nghĩa thấp hơn. Yêu cầu "năm kém nhất" có thể đặt ở khoảng 2/3 yêu cầu bình quân 7 năm.
+**Điều chỉnh khi lãi suất tăng.** Có thể phản bác rằng lãi suất trái phiếu đã tăng mạnh từ 1961, nên cần hạ bớt mức trang trải đòi hỏi. Rõ ràng một doanh nghiệp công nghiệp khó trang trải 7 lần lãi vay 8% hơn nhiều so với 7 lần lãi vay 4,5%.
+
+Để xử lý tình huống mới, Graham đề xuất một yêu cầu thay thế dựa trên **phần trăm lợi nhuận so với gốc nợ**: lợi nhuận trước thuế ít nhất 33% tổng gốc nợ với doanh nghiệp công nghiệp, 20% với dịch vụ công cộng và 25% với đường sắt. (Kiểm tra: 7 lần lãi 4,5% là 31,5% gốc nợ, 4 lần lãi khoảng 5% là 20%, 5 lần lãi 5% là 25%; tức phép thử mới tương đương phép thử cũ ở mức lãi suất trước kia, nhưng không đòi hỏi nhiều hơn khi lãi suất lên 8%.)
+
+Graham lưu ý rằng lãi suất thực trả trên tổng nợ của phần lớn công ty thấp hơn nhiều mức 8% hiện hành, vì họ còn hưởng các đợt phát hành cũ có lãi suất danh nghĩa thấp hơn. Yêu cầu "năm kém nhất" có thể đặt ở khoảng 2/3 yêu cầu bình quân 7 năm.
 
 **Các phép thử khác.** Ngoài phép thử trang trải lợi nhuận, thường còn áp dụng:
 
@@ -500,17 +522,25 @@ Kiểm tra tính nhất quán của phần khôi phục: nếu lợi nhuận tr�
 
 **Phép thử dựa vào quá khứ có đáng tin không?** Nhà đầu tư tỉnh táo sẽ hỏi: việc trả lãi và gốc phụ thuộc vào tương lai, vậy các phép thử an toàn đo bằng thành tích quá khứ và hiện tại đáng tin tới đâu? Graham trả lời: chỉ có thể dựa vào kinh nghiệm. Lịch sử đầu tư cho thấy trái phiếu và cổ phiếu ưu đãi đạt các phép thử an toàn nghiêm ngặt dựa trên quá khứ, trong tuyệt đại đa số trường hợp, đã vượt qua được những thăng trầm của tương lai.
 
-Điều này thể hiện rõ nhất ở trái phiếu đường sắt, một lĩnh vực lớn từng chịu tần suất phá sản và thua lỗ nặng thảm hại. Hầu như mọi tuyến đường sắt gặp nạn đều đã vay nợ quá mức từ lâu, đã cho thấy mức trang trải chi phí cố định không đủ ngay cả trong thời kỳ thịnh vượng trung bình, và vì vậy lẽ ra đã bị loại bởi nhà đầu tư áp dụng phép thử nghiêm ngặt. Ngược lại, gần như mọi tuyến đạt các phép thử đó đều tránh được khó khăn tài chính. Tiền đề này được lịch sử của rất nhiều công ty đường sắt tái cấu trúc trong thập niên 1940 và 1950 xác nhận một cách đáng kinh ngạc. Tất cả, trừ một, đều bắt đầu lại với chi phí cố định được cắt giảm tới mức hệ số trang trải đủ, hoặc ít nhất là chấp nhận được. Ngoại lệ là New Haven Railroad: khi tái cấu trúc năm 1947, lợi nhuận của nó chỉ trang trải khoảng 1,1 lần chi phí cố định mới. Kết quả là trong khi mọi tuyến khác vượt qua những giai đoạn khá khó khăn mà vẫn giữ được khả năng thanh toán, New Haven lại rơi vào tình trạng quản lý tiếp nhận do phá sản (lần thứ ba) năm 1961.
+Điều này thể hiện rõ nhất ở trái phiếu đường sắt, một lĩnh vực lớn từng chịu tần suất phá sản và thua lỗ nặng thảm hại. Hầu như mọi tuyến đường sắt gặp nạn đều đã vay nợ quá mức từ lâu, đã cho thấy mức trang trải chi phí cố định không đủ ngay cả trong thời kỳ thịnh vượng trung bình, và vì vậy lẽ ra đã bị loại bởi nhà đầu tư áp dụng phép thử nghiêm ngặt. Ngược lại, gần như mọi tuyến đạt các phép thử đó đều tránh được khó khăn tài chính.
+
+Tiền đề này được lịch sử của rất nhiều công ty đường sắt tái cấu trúc trong thập niên 1940 và 1950 xác nhận một cách đáng kinh ngạc. Tất cả, trừ một, đều bắt đầu lại với chi phí cố định được cắt giảm tới mức hệ số trang trải đủ, hoặc ít nhất là chấp nhận được. Ngoại lệ là New Haven Railroad: khi tái cấu trúc năm 1947, lợi nhuận của nó chỉ trang trải khoảng 1,1 lần chi phí cố định mới. Kết quả là trong khi mọi tuyến khác vượt qua những giai đoạn khá khó khăn mà vẫn giữ được khả năng thanh toán, New Haven lại rơi vào tình trạng quản lý tiếp nhận do phá sản (lần thứ ba) năm 1961.
 
 Ở Chương 17 ([C17](C17-bon-truong-hop-dang-hoc.md)), Graham sẽ xét một số khía cạnh của vụ phá sản Penn Central Railroad, vụ làm rung chuyển giới tài chính năm 1970. Một sự thật cơ bản của vụ này là mức trang trải chi phí cố định đã không đạt chuẩn thận trọng ngay từ năm 1965; một nhà đầu tư trái phiếu cẩn trọng vì vậy đã tránh hoặc bán trái phiếu của hệ thống này từ lâu trước khi nó sụp đổ.
 
-Nhận xét về giá trị của thành tích quá khứ áp dụng còn mạnh hơn cho các công ty dịch vụ công cộng, một lĩnh vực lớn của đầu tư trái phiếu. Một công ty hay hệ thống điện có cơ cấu vốn lành mạnh gần như không thể rơi vào phá sản. Từ khi Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) giám sát, cùng với việc giải thể phần lớn các hệ thống công ty holding, tài chính của ngành dịch vụ công cộng lành mạnh và không có vụ phá sản nào. Rắc rối tài chính của các công ty điện và khí đốt trong thập niên 1930 gần như 100% bắt nguồn từ tài chính quá đà và quản lý yếu kém, những thứ in dấu rõ trên cơ cấu vốn của họ. Các phép thử an toàn đơn giản nhưng nghiêm ngặt lẽ ra đã cảnh báo nhà đầu tư trước những rắc rối về sau.
+Nhận xét về giá trị của thành tích quá khứ áp dụng còn mạnh hơn cho các công ty dịch vụ công cộng, một lĩnh vực lớn của đầu tư trái phiếu. Một công ty hay hệ thống điện có cơ cấu vốn lành mạnh gần như không thể rơi vào phá sản. Từ khi Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) giám sát, cùng với việc giải thể phần lớn các hệ thống công ty holding, tài chính của ngành dịch vụ công cộng lành mạnh và không có vụ phá sản nào.
+
+Rắc rối tài chính của các công ty điện và khí đốt trong thập niên 1930 gần như 100% bắt nguồn từ tài chính quá đà và quản lý yếu kém, những thứ in dấu rõ trên cơ cấu vốn của họ. Các phép thử an toàn đơn giản nhưng nghiêm ngặt lẽ ra đã cảnh báo nhà đầu tư trước những rắc rối về sau.
 
 Chú thích của Zweig: Sau khi nhà đầu tư mất hàng tỷ USD vào cổ phiếu các công ty dịch vụ công cộng được ghép lại một cách liều lĩnh trong 1929–1932, Quốc hội Mỹ trao cho SEC quyền quản lý việc phát hành chứng khoán ngành này theo Đạo luật Công ty Holding Dịch vụ Công cộng (Public Utility Holding Company Act) năm 1935.
 
 Với trái phiếu công nghiệp, thành tích dài hạn khác hẳn. Tuy nhóm công nghiệp nói chung tăng sức sinh lời tốt hơn đường sắt và dịch vụ công cộng, nó lại kém ổn định hơn ở từng doanh nghiệp và từng ngành. Vì thế, ít nhất là trong quá khứ, có lý do thuyết phục để chỉ mua trái phiếu và cổ phiếu ưu đãi của những công ty công nghiệp không chỉ lớn mà còn đã chứng tỏ khả năng chịu được một cuộc suy thoái nặng.
 
-Từ năm 1950 có ít vụ vỡ nợ trái phiếu công nghiệp, nhưng một phần là vì suốt thời gian dài đó không có suy thoái lớn. Từ năm 1966, tình hình tài chính của nhiều công ty công nghiệp xấu đi. Những khó khăn đáng kể đã phát sinh từ việc mở rộng thiếu thận trọng: một mặt, nó làm tăng mạnh vay ngân hàng và nợ dài hạn; mặt khác, nó thường tạo ra lỗ kinh doanh thay vì lợi nhuận như kỳ vọng. Đầu năm 1971, có tính toán cho thấy trong bảy năm qua, chi trả lãi vay của toàn bộ doanh nghiệp phi tài chính Mỹ đã tăng từ 9,8 tỷ USD năm 1963 lên 26,1 tỷ USD năm 1970 (gấp khoảng 2,7 lần, tức tăng khoảng 15%/năm), và lãi vay đã chiếm 29% tổng lợi nhuận trước lãi vay và thuế vào năm 1970 (bản dịch ghi 1971), so với chỉ 16% năm 1963. Chú thích của Graham (3): số liệu này lấy từ Salomon Bros., một hãng lớn chuyên về trái phiếu ở New York. Rõ ràng gánh nặng của nhiều doanh nghiệp riêng lẻ còn tăng nhiều hơn thế; các công ty gánh nợ quá mức đã trở nên quá quen thuộc. Graham thấy cần nhắc lại lời thận trọng trong ấn bản 1965: ông chưa sẵn sàng gợi ý rằng nhà đầu tư có thể trông cậy vào việc tình hình thuận lợi này kéo dài vô hạn, và do đó nới lỏng tiêu chuẩn chọn trái phiếu trong nhóm công nghiệp hay bất kỳ nhóm nào khác.
+Từ năm 1950 có ít vụ vỡ nợ trái phiếu công nghiệp, nhưng một phần là vì suốt thời gian dài đó không có suy thoái lớn. Từ năm 1966, tình hình tài chính của nhiều công ty công nghiệp xấu đi. Những khó khăn đáng kể đã phát sinh từ việc mở rộng thiếu thận trọng: một mặt, nó làm tăng mạnh vay ngân hàng và nợ dài hạn; mặt khác, nó thường tạo ra lỗ kinh doanh thay vì lợi nhuận như kỳ vọng.
+
+Đầu năm 1971, có tính toán cho thấy trong bảy năm qua, chi trả lãi vay của toàn bộ doanh nghiệp phi tài chính Mỹ đã tăng từ 9,8 tỷ USD năm 1963 lên 26,1 tỷ USD năm 1970 (gấp khoảng 2,7 lần, tức tăng khoảng 15%/năm), và lãi vay đã chiếm 29% tổng lợi nhuận trước lãi vay và thuế vào năm 1970 (bản dịch ghi 1971), so với chỉ 16% năm 1963. Chú thích của Graham (3): số liệu này lấy từ Salomon Bros., một hãng lớn chuyên về trái phiếu ở New York.
+
+Rõ ràng gánh nặng của nhiều doanh nghiệp riêng lẻ còn tăng nhiều hơn thế; các công ty gánh nợ quá mức đã trở nên quá quen thuộc. Graham thấy cần nhắc lại lời thận trọng trong ấn bản 1965: ông chưa sẵn sàng gợi ý rằng nhà đầu tư có thể trông cậy vào việc tình hình thuận lợi này kéo dài vô hạn, và do đó nới lỏng tiêu chuẩn chọn trái phiếu trong nhóm công nghiệp hay bất kỳ nhóm nào khác.
 
 #### 3. Phân tích cổ phiếu phổ thông (Analyse des actions ordinaires, PDF trang 248–250)
 
@@ -528,11 +558,15 @@ Quy trình nay đã thành chuẩn để ước sức sinh lời tương lai b�
 | Dự báo tương ứng làm 6 năm trước đó (cho khoảng năm 1963) | Quá lạc quan về lợi nhuận và cổ tức, nhưng được bù bằng hệ số nhân thấp, nên "giá tiềm năng" gần bằng giá bình quân thực tế năm 1963 |
 | Dự báo cho từng công ty | Một số dự báo riêng lẻ sai rất xa |
 
-Bài học Graham rút ra là: dự báo tổng hợp, cho cả nhóm, có lẽ đáng tin hơn nhiều so với dự báo cho từng công ty. Lý tưởng nhất, có lẽ nhà phân tích nên chọn ba hay bốn công ty mà ông ta nghĩ mình hiểu tương lai rõ nhất, rồi dồn sự chú ý của mình và khách hàng vào dự báo cho các công ty đó. Đáng tiếc, gần như không thể phân biệt trước dự báo riêng lẻ nào đáng tin và dự báo nào có rủi ro sai lớn. Về bản chất, đó là lý do các quỹ đầu tư đa dạng hoá rộng. Tất nhiên, tập trung vào một cổ phiếu mà bạn **biết** sẽ rất có lời thì tốt hơn là pha loãng kết quả xuống mức tầm thường chỉ để đa dạng hoá. Nhưng người ta không làm vậy, vì không thể làm vậy một cách đáng tin cậy. Sự phổ biến của đa dạng hoá rộng tự nó là một lời phủ nhận thực tế đối với cái "bùa" "tính chọn lọc" mà Wall Street luôn ca ngợi ngoài miệng.
+Bài học Graham rút ra là: dự báo tổng hợp, cho cả nhóm, có lẽ đáng tin hơn nhiều so với dự báo cho từng công ty. Lý tưởng nhất, có lẽ nhà phân tích nên chọn ba hay bốn công ty mà ông ta nghĩ mình hiểu tương lai rõ nhất, rồi dồn sự chú ý của mình và khách hàng vào dự báo cho các công ty đó. Đáng tiếc, gần như không thể phân biệt trước dự báo riêng lẻ nào đáng tin và dự báo nào có rủi ro sai lớn.
+
+Về bản chất, đó là lý do các quỹ đầu tư đa dạng hoá rộng. Tất nhiên, tập trung vào một cổ phiếu mà bạn **biết** sẽ rất có lời thì tốt hơn là pha loãng kết quả xuống mức tầm thường chỉ để đa dạng hoá. Nhưng người ta không làm vậy, vì không thể làm vậy một cách đáng tin cậy. Sự phổ biến của đa dạng hoá rộng tự nó là một lời phủ nhận thực tế đối với cái "bùa" "tính chọn lọc" mà Wall Street luôn ca ngợi ngoài miệng.
 
 Chú thích của Graham (4): Ít nhất là không thể làm được với đông đảo nhà phân tích và nhà đầu tư. Những nhà phân tích xuất chúng, có khả năng biết trước công ty nào đáng nghiên cứu sâu và có phương tiện, năng lực để làm, có thể thành công bền vững với cách này. Muốn biết chi tiết về cách tiếp cận như vậy, xem sách của Philip Fisher (Harper & Row, 1960; bản dịch không ghi tên sách, theo hiểu biết của người tổng hợp đó là *Common Stocks and Uncommon Profits*).
 
-Chú thích của Zweig: Những năm gần đây, phần lớn quỹ tương hỗ gần như sao chép một cách máy móc chỉ số S&P 500, vì sợ danh mục khác biệt sẽ làm lợi suất lệch khỏi chỉ số. Ngược lại, một số công ty quỹ tung ra danh mục "tập trung", nắm 25–50 cổ phiếu mà người quản lý gọi là "ý tưởng tốt nhất". Điều đó khiến nhà đầu tư tự hỏi các quỹ khác của cùng người quản lý có chứa ý tưởng tồi nhất của họ không; và vì phần lớn quỹ "ý tưởng tốt nhất" không vượt rõ chỉ số, cũng có quyền hỏi ý tưởng của họ có đáng gì ngay từ đầu không. Với nhà đầu tư có năng lực không thể tranh cãi như Warren Buffett, đa dạng hoá rộng là dại dột vì làm loãng sức mạnh của vài ý tưởng tốt. Nhưng với người quản lý quỹ hay nhà đầu tư cá nhân điển hình, không đa dạng hoá mới là dại dột, vì rất khó chọn một số ít cổ phiếu bao gồm phần lớn kẻ thắng và loại phần lớn kẻ thua. Càng nắm nhiều cổ phiếu, thiệt hại từ một cổ phiếu thua càng nhỏ, và khả năng nắm được mọi cổ phiếu thắng lớn càng cao. Lựa chọn lý tưởng cho phần lớn nhà đầu tư là một quỹ chỉ số toàn thị trường cổ phiếu, cách rẻ tiền để nắm mọi cổ phiếu đáng nắm.
+Chú thích của Zweig: Những năm gần đây, phần lớn quỹ tương hỗ gần như sao chép một cách máy móc chỉ số S&P 500, vì sợ danh mục khác biệt sẽ làm lợi suất lệch khỏi chỉ số. Ngược lại, một số công ty quỹ tung ra danh mục "tập trung", nắm 25–50 cổ phiếu mà người quản lý gọi là "ý tưởng tốt nhất". Điều đó khiến nhà đầu tư tự hỏi các quỹ khác của cùng người quản lý có chứa ý tưởng tồi nhất của họ không; và vì phần lớn quỹ "ý tưởng tốt nhất" không vượt rõ chỉ số, cũng có quyền hỏi ý tưởng của họ có đáng gì ngay từ đầu không.
+
+Với nhà đầu tư có năng lực không thể tranh cãi như Warren Buffett, đa dạng hoá rộng là dại dột vì làm loãng sức mạnh của vài ý tưởng tốt. Nhưng với người quản lý quỹ hay nhà đầu tư cá nhân điển hình, không đa dạng hoá mới là dại dột, vì rất khó chọn một số ít cổ phiếu bao gồm phần lớn kẻ thắng và loại phần lớn kẻ thua. Càng nắm nhiều cổ phiếu, thiệt hại từ một cổ phiếu thua càng nhỏ, và khả năng nắm được mọi cổ phiếu thắng lớn càng cao. Lựa chọn lý tưởng cho phần lớn nhà đầu tư là một quỹ chỉ số toàn thị trường cổ phiếu, cách rẻ tiền để nắm mọi cổ phiếu đáng nắm.
 
 #### 4. Các yếu tố quyết định hệ số vốn hoá (Facteurs affectant le taux de capitalisation, PDF trang 250–254)
 
@@ -553,15 +587,25 @@ Như vậy, dù có hệ số cao, các công ty hoá chất gần như không t
 
 Chú thích của Graham (5): Ở phần sau của chương này (trang tiếng Anh p. 295), ông đưa ra công thức liên hệ hệ số P/E với tốc độ tăng trưởng kỳ vọng (chính là công thức 8,5 + 2g ở mục 5 dưới đây).
 
-Chú thích của Zweig: Điểm Graham nêu về cổ phiếu hoá chất và dầu mỏ thập niên 1960 đúng với gần như mọi ngành trong gần như mọi thời kỳ. Quan điểm đồng thuận của Wall Street về tương lai một ngành thường hoặc quá lạc quan hoặc quá bi quan. Tệ hơn, sự đồng thuận vui vẻ nhất đúng lúc cổ phiếu bị định giá cao nhất, và u ám nhất đúng lúc chúng rẻ nhất. Ví dụ gần nhất là cổ phiếu công nghệ và viễn thông: lập đỉnh khi tương lai của chúng trông sáng nhất năm 1999 và đầu 2000, rồi sụp đổ suốt tới 2002. Lịch sử chứng minh các "chuyên gia" dự báo của Wall Street đều kém như nhau khi dự đoán (1) thị trường nói chung, (2) các ngành và (3) từng cổ phiếu. Như Graham chỉ ra, khả năng nhà đầu tư cá nhân làm tốt hơn là không cao. Nhà đầu tư thông minh giỏi ở chỗ ra những quyết định không phụ thuộc vào độ chính xác của dự báo của bất kỳ ai, kể cả của chính mình (xem Chương 8, [C08](C08-nha-dau-tu-va-bien-dong-thi-truong.md)).
+Chú thích của Zweig: Điểm Graham nêu về cổ phiếu hoá chất và dầu mỏ thập niên 1960 đúng với gần như mọi ngành trong gần như mọi thời kỳ. Quan điểm đồng thuận của Wall Street về tương lai một ngành thường hoặc quá lạc quan hoặc quá bi quan. Tệ hơn, sự đồng thuận vui vẻ nhất đúng lúc cổ phiếu bị định giá cao nhất, và u ám nhất đúng lúc chúng rẻ nhất. Ví dụ gần nhất là cổ phiếu công nghệ và viễn thông: lập đỉnh khi tương lai của chúng trông sáng nhất năm 1999 và đầu 2000, rồi sụp đổ suốt tới 2002.
 
-**Yếu tố 2 — Ban điều hành.** Ở Wall Street người ta nói rất nhiều về chủ đề này nhưng ít điều thật sự hữu ích. Chừng nào chưa có phép thử khách quan, định lượng và khá đáng tin về năng lực quản lý, yếu tố này vẫn được nhìn qua màn sương. Có thể giả định một cách hợp lý rằng công ty thành công vượt trội có ban điều hành đặc biệt giỏi. Nhưng điều đó đã thể hiện trong thành tích quá khứ; nó sẽ thể hiện lần nữa trong ước tính cho năm năm tới, và thêm lần nữa trong yếu tố triển vọng dài hạn vừa bàn. Xu hướng tính nó thêm một lần nữa như một điểm cộng riêng dễ dẫn tới định giá quá cao và tốn kém. Graham cho rằng yếu tố ban điều hành hữu ích nhất khi có một **thay đổi gần đây** chưa kịp thể hiện trong số liệu thực tế.
+Lịch sử chứng minh các "chuyên gia" dự báo của Wall Street đều kém như nhau khi dự đoán (1) thị trường nói chung, (2) các ngành và (3) từng cổ phiếu. Như Graham chỉ ra, khả năng nhà đầu tư cá nhân làm tốt hơn là không cao. Nhà đầu tư thông minh giỏi ở chỗ ra những quyết định không phụ thuộc vào độ chính xác của dự báo của bất kỳ ai, kể cả của chính mình (xem Chương 8, [C08](C08-nha-dau-tu-va-bien-dong-thi-truong.md)).
+
+**Yếu tố 2 — Ban điều hành.** Ở Wall Street người ta nói rất nhiều về chủ đề này nhưng ít điều thật sự hữu ích. Chừng nào chưa có phép thử khách quan, định lượng và khá đáng tin về năng lực quản lý, yếu tố này vẫn được nhìn qua màn sương.
+
+Có thể giả định một cách hợp lý rằng công ty thành công vượt trội có ban điều hành đặc biệt giỏi. Nhưng điều đó đã thể hiện trong thành tích quá khứ; nó sẽ thể hiện lần nữa trong ước tính cho năm năm tới, và thêm lần nữa trong yếu tố triển vọng dài hạn vừa bàn. Xu hướng tính nó thêm một lần nữa như một điểm cộng riêng dễ dẫn tới định giá quá cao và tốn kém. Graham cho rằng yếu tố ban điều hành hữu ích nhất khi có một **thay đổi gần đây** chưa kịp thể hiện trong số liệu thực tế.
 
 Hai sự kiện ngoạn mục loại này gắn với Chrysler. Lần thứ nhất năm 1921, khi Walter Chrysler nắm quyền điều hành Maxwell Motors đang gần chết, và chỉ trong vài năm biến nó thành một công ty lớn, rất có lãi, trong khi nhiều hãng ô tô khác phải đóng cửa. Lần thứ hai gần đây, năm 1962, khi Chrysler đã sa sút xa khỏi vị thế cũ và cổ phiếu ở mức giá thấp nhất trong nhiều năm. Một nhóm lợi ích mới, gắn với Consolidation Coal, tiếp quản. Lợi nhuận tăng từ 1,24 USD/cổ phiếu năm 1961 lên mức tương đương 17 USD năm 1963 (gấp khoảng 13,7 lần), và giá tăng từ đáy 38,5 USD năm 1962 lên mức tương đương gần 200 USD năm sau đó (gấp khoảng 5 lần).
 
-Chú thích của Graham (6): Một phần "pháo hoa" trong giá Chrysler chắc chắn được thổi bởi hai lần tách cổ phiếu 2-cho-1 diễn ra chỉ trong năm 1963, chuyện chưa từng có với một công ty lớn (vì vậy các con số "tương đương" ở trên đã được điều chỉnh: hai lần tách 2-cho-1 nghĩa là 1 cổ phiếu cũ thành 4 cổ phiếu mới, nên "tương đương gần 200 USD" ứng với giá thực tế khoảng 50 USD/cổ phiếu mới). Phần bổ sung của Zweig trong chú thích này: đầu thập niên 1980, dưới thời Lee Iacocca, Chrysler lại lật ngược tình thế lần nữa, từ bờ vực phá sản trở thành một trong những cổ phiếu tăng mạnh nhất nước Mỹ. Tuy nhiên, nhận ra người quản lý có thể vực dậy doanh nghiệp không đơn giản như vẻ ngoài. Khi Al Dunlap tiếp quản Sunbeam Corp. năm 1996, sau khi tái cấu trúc Scott Paper Co. (và đẩy giá cổ phiếu của nó tăng 225% trong 18 tháng), Wall Street tung hô ông gần như một vị cứu thế. Dunlap hoá ra là kẻ giả mạo, dùng kế toán sai và báo cáo tài chính giả để lừa nhà đầu tư của Sunbeam, kể cả hai nhà quản lý quỹ lừng danh Michael Price và Michael Steinhardt, những người đã thuê ông. Muốn đọc phân tích kỹ sự nghiệp của Dunlap, xem John A. Byrne, *Chainsaw* (HarperCollins, New York, 1999).
+Chú thích của Graham (6): Một phần "pháo hoa" trong giá Chrysler chắc chắn được thổi bởi hai lần tách cổ phiếu 2-cho-1 diễn ra chỉ trong năm 1963, chuyện chưa từng có với một công ty lớn (vì vậy các con số "tương đương" ở trên đã được điều chỉnh: hai lần tách 2-cho-1 nghĩa là 1 cổ phiếu cũ thành 4 cổ phiếu mới, nên "tương đương gần 200 USD" ứng với giá thực tế khoảng 50 USD/cổ phiếu mới).
 
-**Yếu tố 3 — Sức mạnh tài chính và cơ cấu vốn.** Cổ phiếu của một công ty có nhiều tiền mặt dư và không có chứng khoán nào đứng trước cổ phiếu phổ thông rõ ràng là món mua tốt hơn (ở cùng mức giá) so với công ty có cùng EPS nhưng vay ngân hàng lớn và có chứng khoán xếp hạng trên. Nhà phân tích xét các yếu tố này đúng và kỹ. Tuy nhiên, một lượng vừa phải trái phiếu hay cổ phiếu ưu đãi không nhất thiết bất lợi cho cổ phiếu phổ thông, cũng như việc dùng vừa phải tín dụng ngân hàng theo mùa vụ. (Nhân tiện, một cơ cấu rất nặng, tức quá ít cổ phiếu phổ thông so với trái phiếu và cổ phiếu ưu đãi, có thể trong điều kiện thuận lợi tạo ra lãi đầu cơ khổng lồ cho cổ phiếu phổ thông. Đó là yếu tố gọi là "đòn bẩy".)
+Phần bổ sung của Zweig trong chú thích này: đầu thập niên 1980, dưới thời Lee Iacocca, Chrysler lại lật ngược tình thế lần nữa, từ bờ vực phá sản trở thành một trong những cổ phiếu tăng mạnh nhất nước Mỹ. Tuy nhiên, nhận ra người quản lý có thể vực dậy doanh nghiệp không đơn giản như vẻ ngoài. Khi Al Dunlap tiếp quản Sunbeam Corp. năm 1996, sau khi tái cấu trúc Scott Paper Co. (và đẩy giá cổ phiếu của nó tăng 225% trong 18 tháng), Wall Street tung hô ông gần như một vị cứu thế.
+
+Dunlap hoá ra là kẻ giả mạo, dùng kế toán sai và báo cáo tài chính giả để lừa nhà đầu tư của Sunbeam, kể cả hai nhà quản lý quỹ lừng danh Michael Price và Michael Steinhardt, những người đã thuê ông. Muốn đọc phân tích kỹ sự nghiệp của Dunlap, xem John A. Byrne, *Chainsaw* (HarperCollins, New York, 1999).
+
+**Yếu tố 3 — Sức mạnh tài chính và cơ cấu vốn.** Cổ phiếu của một công ty có nhiều tiền mặt dư và không có chứng khoán nào đứng trước cổ phiếu phổ thông rõ ràng là món mua tốt hơn (ở cùng mức giá) so với công ty có cùng EPS nhưng vay ngân hàng lớn và có chứng khoán xếp hạng trên.
+
+Nhà phân tích xét các yếu tố này đúng và kỹ. Tuy nhiên, một lượng vừa phải trái phiếu hay cổ phiếu ưu đãi không nhất thiết bất lợi cho cổ phiếu phổ thông, cũng như việc dùng vừa phải tín dụng ngân hàng theo mùa vụ. (Nhân tiện, một cơ cấu rất nặng, tức quá ít cổ phiếu phổ thông so với trái phiếu và cổ phiếu ưu đãi, có thể trong điều kiện thuận lợi tạo ra lãi đầu cơ khổng lồ cho cổ phiếu phổ thông. Đó là yếu tố gọi là "đòn bẩy".)
 
 **Yếu tố 4 — Lịch sử cổ tức.** Một trong những phép thử chất lượng thuyết phục nhất là lịch sử trả cổ tức không gián đoạn kéo dài nhiều năm. Graham cho rằng trả cổ tức liên tục trong 20 năm qua hoặc lâu hơn là một yếu tố tích cực quan trọng khi đánh giá chất lượng công ty. Thậm chí nhà đầu tư phòng thủ có thể có lý khi chỉ mua những cổ phiếu đạt tiêu chí này.
 
@@ -606,9 +650,15 @@ Có thể dễ dàng làm phép tính ngược: giả sử công thức đúng, 
 
 Graham chép lại lời bình năm 1965: chênh lệch giữa tốc độ tăng trưởng hàm ý 32,4%/năm của Xerox và mức rất khiêm tốn 2,8% của General Motors quả là đáng chú ý. Một phần là do thị trường cảm thấy lợi nhuận năm 1963 của General Motors, khoản lợi nhuận lớn nhất mà một công ty từng đạt trong lịch sử, sẽ khó giữ được và nếu có vượt thì cũng chỉ khiêm tốn. Ngược lại, hệ số P/E của Xerox tiêu biểu cho sự hăng hái đầu cơ gắn với một công ty thành công lớn và có lẽ còn hứa hẹn hơn nữa. Tốc độ tăng trưởng hàm ý hoặc dự phóng 5,1% của DJIA so với mức tăng thực tế 3,4%/năm (lãi kép) từ 1951–1953 đến 1961–1963.
 
-**Lời cảnh báo bổ sung năm 1972.** Graham viết rằng lẽ ra ông nên thêm: nếu giả định các tốc độ tăng trưởng cao kia sẽ thật sự thành hiện thực, thì giá trị mà công thức cho các cổ phiếu tăng trưởng mạnh nhất định là **thấp**. Theo số học, nếu có thể giả định một công ty tăng trưởng từ 8%/năm trở lên **mãi mãi**, giá trị của nó sẽ vô hạn và không có giá nào là quá đắt. (Lý do: khi tốc độ tăng trưởng vĩnh viễn bằng hoặc vượt mức lợi suất nhà đầu tư đòi hỏi, khoảng 7,5%/năm như bên dưới, tổng giá trị hiện tại của dòng lợi nhuận tương lai không hội tụ.) Điều người định giá thật sự làm trong các trường hợp đó là **đưa biên an toàn vào phép tính**, giống như kỹ sư cài hệ số an toàn vào thiết kế công trình. Trên cơ sở đó, các khoản mua vẫn đạt mục tiêu được giao (năm 1963 là tổng lợi suất tương lai 7,5%/năm) dù tốc độ tăng trưởng thực tế thấp hơn đáng kể so với công thức giả định. Và tất nhiên, nếu tốc độ đó thật sự đạt được, nhà đầu tư chắc chắn được hưởng thêm một khoản lợi suất đẹp. Thật ra không có cách nào định giá một công ty tăng trưởng cao (kỳ vọng trên khoảng 8%/năm) mà nhà phân tích có thể giả định thực tế **cả** hệ số đúng cho lợi nhuận hiện tại **lẫn** hệ số kỳ vọng cho lợi nhuận tương lai.
+**Lời cảnh báo bổ sung năm 1972.** Graham viết rằng lẽ ra ông nên thêm: nếu giả định các tốc độ tăng trưởng cao kia sẽ thật sự thành hiện thực, thì giá trị mà công thức cho các cổ phiếu tăng trưởng mạnh nhất định là **thấp**. Theo số học, nếu có thể giả định một công ty tăng trưởng từ 8%/năm trở lên **mãi mãi**, giá trị của nó sẽ vô hạn và không có giá nào là quá đắt. (Lý do: khi tốc độ tăng trưởng vĩnh viễn bằng hoặc vượt mức lợi suất nhà đầu tư đòi hỏi, khoảng 7,5%/năm như bên dưới, tổng giá trị hiện tại của dòng lợi nhuận tương lai không hội tụ.)
 
-**Kết quả thực tế.** Tăng trưởng thực tế của Xerox và IBM hoá ra rất gần mức cao mà công thức hàm ý, và thành tích tốt đó tất yếu kéo giá hai cổ phiếu tăng mạnh. Tăng trưởng của chính DJIA cũng gần đúng như giá đóng cửa năm 1963 dự báo. Nhưng mức vừa phải 5% không vướng vào thế khó toán học như Xerox và IBM. Hoá ra mức tăng giá 23% tới cuối năm 1970, cộng với 28% tổng cổ tức nhận được, cho ra mức lãi tổng cộng không xa mức 7,5%/năm mà công thức đề ra. (Kiểm tra: tăng 23% trong 7 năm tương đương khoảng 3,0%/năm; 28% cổ tức trong 7 năm tương đương khoảng 4%/năm; cộng lại khoảng 7%/năm, gần mục tiêu 7,5%.) Với bốn công ty còn lại, chỉ cần nói tăng trưởng của chúng không đạt kỳ vọng hàm ý trong giá năm 1963 và giá của chúng không tăng nhiều bằng DJIA.
+Điều người định giá thật sự làm trong các trường hợp đó là **đưa biên an toàn vào phép tính**, giống như kỹ sư cài hệ số an toàn vào thiết kế công trình. Trên cơ sở đó, các khoản mua vẫn đạt mục tiêu được giao (năm 1963 là tổng lợi suất tương lai 7,5%/năm) dù tốc độ tăng trưởng thực tế thấp hơn đáng kể so với công thức giả định. Và tất nhiên, nếu tốc độ đó thật sự đạt được, nhà đầu tư chắc chắn được hưởng thêm một khoản lợi suất đẹp.
+
+Thật ra không có cách nào định giá một công ty tăng trưởng cao (kỳ vọng trên khoảng 8%/năm) mà nhà phân tích có thể giả định thực tế **cả** hệ số đúng cho lợi nhuận hiện tại **lẫn** hệ số kỳ vọng cho lợi nhuận tương lai.
+
+**Kết quả thực tế.** Tăng trưởng thực tế của Xerox và IBM hoá ra rất gần mức cao mà công thức hàm ý, và thành tích tốt đó tất yếu kéo giá hai cổ phiếu tăng mạnh. Tăng trưởng của chính DJIA cũng gần đúng như giá đóng cửa năm 1963 dự báo. Nhưng mức vừa phải 5% không vướng vào thế khó toán học như Xerox và IBM.
+
+Hoá ra mức tăng giá 23% tới cuối năm 1970, cộng với 28% tổng cổ tức nhận được, cho ra mức lãi tổng cộng không xa mức 7,5%/năm mà công thức đề ra. (Kiểm tra: tăng 23% trong 7 năm tương đương khoảng 3,0%/năm; 28% cổ tức trong 7 năm tương đương khoảng 4%/năm; cộng lại khoảng 7%/năm, gần mục tiêu 7,5%.) Với bốn công ty còn lại, chỉ cần nói tăng trưởng của chúng không đạt kỳ vọng hàm ý trong giá năm 1963 và giá của chúng không tăng nhiều bằng DJIA.
 
 Graham cảnh báo: tư liệu này chỉ để minh hoạ, và vì phân tích chứng khoán không tránh khỏi việc phải dự phóng tốc độ tăng trưởng cho phần lớn công ty được nghiên cứu. Người đọc đừng lầm tưởng rằng các dự phóng như vậy có độ tin cậy cao, hoặc ngược lại, rằng có thể trông chờ giá tương lai phản ứng tương ứng khi lời tiên tri thành hiện thực, bị vượt qua hay làm thất vọng.
 
@@ -624,15 +674,25 @@ Vì triển vọng chung của doanh nghiệp có sức nặng lớn trong việ
 
 Tuy nhiên, quan sát của Graham khiến ông đánh giá thấp phần nào giá trị thực tế của phần lớn các nghiên cứu ngành được cung cấp cho nhà đầu tư. Tư liệu thường thuộc loại công chúng đã khá quen và đã ảnh hưởng đáng kể tới giá. Hiếm khi thấy một nghiên cứu của công ty môi giới chỉ ra, với một loạt dữ kiện thuyết phục, rằng một ngành đang được ưa chuộng sắp đi xuống hoặc một ngành bị ghẻ lạnh sắp phát đạt. Tầm nhìn xa của Wall Street nổi tiếng là hay sai, và điều này tất yếu áp dụng cho phần quan trọng của các khảo sát nhằm dự báo diễn biến lợi nhuận của các ngành.
 
-Graham vẫn thừa nhận rằng sự phát triển nhanh và lan rộng của công nghệ những năm gần đây có tác động lớn tới thái độ và công việc của nhà phân tích. Hơn trước kia, sự tiến lên hay thụt lùi của một công ty điển hình trong thập kỷ tới có thể phụ thuộc vào quan hệ của nó với sản phẩm mới và quy trình mới, những thứ nhà phân tích có cơ hội nghiên cứu và đánh giá trước. Vì vậy chắc chắn có một mảnh đất hứa hẹn cho công việc hiệu quả của nhà phân tích, dựa trên thăm thực địa, phỏng vấn nhà nghiên cứu và tự nghiên cứu công nghệ chuyên sâu. Kết luận đầu tư rút ra chủ yếu từ những cái nhìn vào tương lai như vậy, không được giá trị chứng minh được ở hiện tại hậu thuẫn, có rủi ro. Nhưng bám chặt vào giới hạn giá trị do các phép tính tỉnh táo dựa trên kết quả thực tế đặt ra có lẽ cũng rủi ro không kém. Nhà đầu tư không thể được cả hai. Ông ta có thể giàu tưởng tượng và chơi để giành khoản lãi lớn dành cho tầm nhìn được sự kiện chứng minh là đúng; nhưng khi đó phải chịu rủi ro đáng kể về sai lầm tính toán lớn hoặc nhỏ. Hoặc ông ta có thể bảo thủ và không chịu trả hơn một khoản phụ trội nhỏ cho những khả năng chưa được chứng minh; nhưng khi đó phải sẵn sàng sau này ngồi ngắm những cơ hội vàng đã bỏ qua.
+Graham vẫn thừa nhận rằng sự phát triển nhanh và lan rộng của công nghệ những năm gần đây có tác động lớn tới thái độ và công việc của nhà phân tích. Hơn trước kia, sự tiến lên hay thụt lùi của một công ty điển hình trong thập kỷ tới có thể phụ thuộc vào quan hệ của nó với sản phẩm mới và quy trình mới, những thứ nhà phân tích có cơ hội nghiên cứu và đánh giá trước. Vì vậy chắc chắn có một mảnh đất hứa hẹn cho công việc hiệu quả của nhà phân tích, dựa trên thăm thực địa, phỏng vấn nhà nghiên cứu và tự nghiên cứu công nghệ chuyên sâu.
+
+Kết luận đầu tư rút ra chủ yếu từ những cái nhìn vào tương lai như vậy, không được giá trị chứng minh được ở hiện tại hậu thuẫn, có rủi ro. Nhưng bám chặt vào giới hạn giá trị do các phép tính tỉnh táo dựa trên kết quả thực tế đặt ra có lẽ cũng rủi ro không kém.
+
+Nhà đầu tư không thể được cả hai. Ông ta có thể giàu tưởng tượng và chơi để giành khoản lãi lớn dành cho tầm nhìn được sự kiện chứng minh là đúng; nhưng khi đó phải chịu rủi ro đáng kể về sai lầm tính toán lớn hoặc nhỏ. Hoặc ông ta có thể bảo thủ và không chịu trả hơn một khoản phụ trội nhỏ cho những khả năng chưa được chứng minh; nhưng khi đó phải sẵn sàng sau này ngồi ngắm những cơ hội vàng đã bỏ qua.
 
 #### 7. Quy trình định giá hai bước (Un processus d'évaluation en deux parties, PDF trang 258–259)
 
-Graham trở lại ý tưởng định giá cổ phiếu phổ thông đã bắt đầu bàn ở mục "Phân tích cổ phiếu phổ thông" phía trên. Sau nhiều suy nghĩ, ông kết luận rằng nên làm khác hẳn thông lệ hiện nay. Ông đề nghị nhà phân tích trước hết xác định cái ông gọi là **"giá trị theo thành tích quá khứ"** (past-performance value), chỉ dựa trên số liệu đã có. Con số này cho biết cổ phiếu đáng giá bao nhiêu, tính tuyệt đối hoặc theo phần trăm của DJIA hay chỉ số tổng hợp S&P, nếu giả định thành tích tương đối của nó giữ nguyên trong tương lai (bao gồm giả định rằng tốc độ tăng trưởng tương đối của nó trong 7 năm qua cũng giữ nguyên trong 7 năm tới). Việc này có thể làm một cách máy móc bằng một công thức gán trọng số riêng cho các số liệu quá khứ về khả năng sinh lời, độ ổn định và tăng trưởng, cùng tình hình tài chính hiện tại. Phần thứ hai của phân tích xét xem giá trị dựa thuần trên thành tích quá khứ cần được điều chỉnh bao nhiêu vì những điều kiện mới dự kiến trong tương lai.
+Graham trở lại ý tưởng định giá cổ phiếu phổ thông đã bắt đầu bàn ở mục "Phân tích cổ phiếu phổ thông" phía trên. Sau nhiều suy nghĩ, ông kết luận rằng nên làm khác hẳn thông lệ hiện nay. Ông đề nghị nhà phân tích trước hết xác định cái ông gọi là **"giá trị theo thành tích quá khứ"** (past-performance value), chỉ dựa trên số liệu đã có. Con số này cho biết cổ phiếu đáng giá bao nhiêu, tính tuyệt đối hoặc theo phần trăm của DJIA hay chỉ số tổng hợp S&P, nếu giả định thành tích tương đối của nó giữ nguyên trong tương lai (bao gồm giả định rằng tốc độ tăng trưởng tương đối của nó trong 7 năm qua cũng giữ nguyên trong 7 năm tới).
+
+Việc này có thể làm một cách máy móc bằng một công thức gán trọng số riêng cho các số liệu quá khứ về khả năng sinh lời, độ ổn định và tăng trưởng, cùng tình hình tài chính hiện tại. Phần thứ hai của phân tích xét xem giá trị dựa thuần trên thành tích quá khứ cần được điều chỉnh bao nhiêu vì những điều kiện mới dự kiến trong tương lai.
 
 Quy trình như vậy chia việc giữa nhà phân tích cấp cao và cấp dưới như sau: (1) nhà phân tích cấp cao lập công thức áp dụng chung cho mọi công ty để xác định giá trị theo thành tích quá khứ; (2) nhà phân tích cấp dưới tính các yếu tố đó cho những công ty được giao, gần như máy móc; (3) nhà phân tích cấp cao xác định thành tích của công ty, tuyệt đối hay tương đối, có khả năng khác lịch sử của nó tới mức nào, và giá trị cần thay đổi bao nhiêu để phản ánh những thay đổi dự kiến đó. Tốt nhất báo cáo của nhà phân tích cấp cao nên nêu cả giá trị ban đầu và giá trị đã điều chỉnh, kèm lý do điều chỉnh.
 
-Công việc này có đáng làm không? Graham trả lời có, nhưng lý do của ông có thể hơi hoài nghi trong mắt người đọc. Ông nghi ngờ rằng các giá trị tính ra sẽ đủ đáng tin trong trường hợp một công ty công nghiệp điển hình, lớn hay nhỏ; ông sẽ minh hoạ những khó khăn này khi bàn về Aluminum Company of America (ALCOA) ở chương sau ([C12](C12-nhung-dieu-can-xet-ve-eps.md)). Tuy vậy vẫn nên làm với các cổ phiếu phổ thông như thế, vì: thứ nhất, nhiều nhà phân tích buộc phải định giá hiện tại hoặc dự phóng trong công việc hằng ngày, và phương pháp ông đề xuất hẳn tốt hơn các phương pháp đang dùng; thứ hai, nó mang lại kinh nghiệm và hiểu biết hữu ích cho nhà phân tích thực hành nó; thứ ba, công việc kiểu này có thể tạo ra một kho kinh nghiệm được ghi chép vô giá, như y học đã có từ lâu, dẫn tới phương pháp tốt hơn và hiểu biết hữu ích về khả năng cũng như giới hạn của nó. Cổ phiếu dịch vụ công cộng có thể là lĩnh vực quan trọng nơi cách tiếp cận này có giá trị thực tế thật sự. Cuối cùng, nhà phân tích thông minh sẽ tự giới hạn vào những nhóm ngành mà tương lai có vẻ dự đoán được ở mức hợp lý, hoặc vào những trường hợp mà biên an toàn của giá trị theo thành tích quá khứ so với giá hiện tại lớn tới mức ông ta có thể chấp nhận rủi ro về các biến đổi tương lai, giống như khi chọn chứng khoán xếp hạng trên được bảo đảm tốt.
+Công việc này có đáng làm không? Graham trả lời có, nhưng lý do của ông có thể hơi hoài nghi trong mắt người đọc. Ông nghi ngờ rằng các giá trị tính ra sẽ đủ đáng tin trong trường hợp một công ty công nghiệp điển hình, lớn hay nhỏ; ông sẽ minh hoạ những khó khăn này khi bàn về Aluminum Company of America (ALCOA) ở chương sau ([C12](C12-nhung-dieu-can-xet-ve-eps.md)).
+
+Tuy vậy vẫn nên làm với các cổ phiếu phổ thông như thế, vì: thứ nhất, nhiều nhà phân tích buộc phải định giá hiện tại hoặc dự phóng trong công việc hằng ngày, và phương pháp ông đề xuất hẳn tốt hơn các phương pháp đang dùng; thứ hai, nó mang lại kinh nghiệm và hiểu biết hữu ích cho nhà phân tích thực hành nó; thứ ba, công việc kiểu này có thể tạo ra một kho kinh nghiệm được ghi chép vô giá, như y học đã có từ lâu, dẫn tới phương pháp tốt hơn và hiểu biết hữu ích về khả năng cũng như giới hạn của nó.
+
+Cổ phiếu dịch vụ công cộng có thể là lĩnh vực quan trọng nơi cách tiếp cận này có giá trị thực tế thật sự. Cuối cùng, nhà phân tích thông minh sẽ tự giới hạn vào những nhóm ngành mà tương lai có vẻ dự đoán được ở mức hợp lý, hoặc vào những trường hợp mà biên an toàn của giá trị theo thành tích quá khứ so với giá hiện tại lớn tới mức ông ta có thể chấp nhận rủi ro về các biến đổi tương lai, giống như khi chọn chứng khoán xếp hạng trên được bảo đảm tốt.
 
 Chú thích của Zweig: Lý tưởng nhất, các nhóm ngành này không quá phụ thuộc vào những yếu tố khó đoán như biến động lãi suất hay hướng đi tương lai của giá nguyên liệu như dầu mỏ, kim loại. Có thể là các ngành như trò chơi (cờ bạc), mỹ phẩm, đồ uống có cồn, viện dưỡng lão hay xử lý rác thải.
 
@@ -665,7 +725,9 @@ Chú thích của Zweig (2): Bạn cũng nên lấy ít nhất một năm báo c
 
 **Những dấu hiệu cần cảnh giác:**
 
-- *Công ty là "kẻ thâu tóm hàng loạt" (serial acquirer).* Trung bình hơn hai hay ba vụ mua lại mỗi năm là dấu hiệu có thể có vấn đề. Xét cho cùng, nếu chính công ty thích mua cổ phiếu của công ty khác hơn là đầu tư vào doanh nghiệp của mình, chẳng phải bạn cũng nên hiểu ý mà tìm chỗ khác sao? Hãy kiểm tra thành tích của công ty với tư cách người mua. Coi chừng những công ty "háu ăn", ngốn những vụ mua lớn rồi cuối cùng lại nôn ra. Lucent, Mattel, Quaker Oats và Tyco International nằm trong số những công ty phải nhả lại các vụ mua với khoản lỗ kinh khủng. Những công ty khác thường xuyên ghi giảm giá trị hoặc ghi nhận chi phí kế toán, chứng tỏ họ đã trả quá đắt cho các vụ mua trước. Đó là điềm xấu cho các thương vụ tương lai.
+- *Công ty là "kẻ thâu tóm hàng loạt" (serial acquirer).* Trung bình hơn hai hay ba vụ mua lại mỗi năm là dấu hiệu có thể có vấn đề. Xét cho cùng, nếu chính công ty thích mua cổ phiếu của công ty khác hơn là đầu tư vào doanh nghiệp của mình, chẳng phải bạn cũng nên hiểu ý mà tìm chỗ khác sao?
+
+  Hãy kiểm tra thành tích của công ty với tư cách người mua. Coi chừng những công ty "háu ăn", ngốn những vụ mua lớn rồi cuối cùng lại nôn ra. Lucent, Mattel, Quaker Oats và Tyco International nằm trong số những công ty phải nhả lại các vụ mua với khoản lỗ kinh khủng. Những công ty khác thường xuyên ghi giảm giá trị hoặc ghi nhận chi phí kế toán, chứng tỏ họ đã trả quá đắt cho các vụ mua trước. Đó là điềm xấu cho các thương vụ tương lai.
 
   Chú thích của Zweig (3): Chi tiết về các vụ mua lại thường có trong phần "Thảo luận và phân tích của ban điều hành" (Management's Discussion and Analysis) của mẫu 10-K; hãy đối chiếu với thuyết minh báo cáo tài chính. Về "kẻ thâu tóm hàng loạt", xem bình luận Chương 12.
 - *Công ty nghiện tiền của người khác (OPM junkie)*, vay nợ hoặc bán cổ phiếu để có thêm tiền của người khác. Những khoản "truyền" tiền này được ghi là "lưu chuyển tiền từ hoạt động tài chính" trong báo cáo lưu chuyển tiền tệ của báo cáo năm. Chúng có thể làm một công ty ốm yếu trông như đang lớn dù hoạt động kinh doanh bên dưới không tạo đủ tiền, như Global Crossing và WorldCom mới đây cho thấy.
@@ -675,10 +737,14 @@ Chú thích của Zweig (2): Bạn cũng nên lấy ít nhất một năm báo c
 
 **Những dấu hiệu tốt** (khi nghiên cứu nguồn tăng trưởng và lợi nhuận, hãy để ý cả điểm cộng lẫn điểm trừ):
 
-- *Công ty có "hào" (moat) rộng, tức lợi thế cạnh tranh.* Giống như lâu đài, có công ty dễ bị đối thủ đi cướp phá tấn công, có công ty gần như không thể chiếm. Nhiều lực có thể làm hào rộng hơn: bản sắc thương hiệu mạnh (Harley-Davidson, khách hàng xăm logo hãng lên người); độc quyền hoặc gần độc quyền trên thị trường; lợi thế quy mô, khả năng cung cấp lượng hàng hoá, dịch vụ khổng lồ với chi phí thấp (Gillette sản xuất lưỡi dao cạo theo đơn vị tỷ); tài sản vô hình độc nhất (Coca-Cola, công thức bí mật của siro hương liệu không có giá trị vật chất thực sự nhưng giữ được sức hút vô giá với người tiêu dùng); khả năng chống bị thay thế (phần lớn doanh nghiệp không có lựa chọn thay cho điện, nên công ty điện khó bị thay thế sớm).
+- *Công ty có "hào" (moat) rộng, tức lợi thế cạnh tranh.* Giống như lâu đài, có công ty dễ bị đối thủ đi cướp phá tấn công, có công ty gần như không thể chiếm.
+
+  Nhiều lực có thể làm hào rộng hơn: bản sắc thương hiệu mạnh (Harley-Davidson, khách hàng xăm logo hãng lên người); độc quyền hoặc gần độc quyền trên thị trường; lợi thế quy mô, khả năng cung cấp lượng hàng hoá, dịch vụ khổng lồ với chi phí thấp (Gillette sản xuất lưỡi dao cạo theo đơn vị tỷ); tài sản vô hình độc nhất (Coca-Cola, công thức bí mật của siro hương liệu không có giá trị vật chất thực sự nhưng giữ được sức hút vô giá với người tiêu dùng); khả năng chống bị thay thế (phần lớn doanh nghiệp không có lựa chọn thay cho điện, nên công ty điện khó bị thay thế sớm).
 
   Chú thích của Zweig (5): Về "hào", xem sách kinh điển *Competitive Strategy* của giáo sư Michael E. Porter, Trường Kinh doanh Harvard (Free Press, New York, 1998).
-- *Công ty là vận động viên marathon, không phải chạy nước rút.* Nhìn báo cáo kết quả kinh doanh, bạn thấy được doanh thu và lợi nhuận ròng có tăng đều đặn trong 10 năm qua không. Một bài gần đây trên *Financial Analysts Journal* xác nhận điều các nghiên cứu khác (và kinh nghiệm buồn của nhiều nhà đầu tư) đã cho thấy: những công ty tăng trưởng nhanh nhất có xu hướng quá nhiệt rồi tắt lịm. Nếu lợi nhuận tăng với tốc độ dài hạn 10%/năm trước thuế (hoặc 6–7% sau thuế), mức đó có thể bền. Nhưng mục tiêu tăng trưởng 15% mà nhiều công ty tự đặt là ảo tưởng. Một tốc độ còn cao hơn, hoặc một đợt bùng nổ tăng trưởng đột ngột trong một hai năm, gần như chắc chắn sẽ tắt, như vận động viên marathon thiếu kinh nghiệm cố chạy cả cuộc đua như chạy nước rút 100 mét.
+- *Công ty là vận động viên marathon, không phải chạy nước rút.* Nhìn báo cáo kết quả kinh doanh, bạn thấy được doanh thu và lợi nhuận ròng có tăng đều đặn trong 10 năm qua không. Một bài gần đây trên *Financial Analysts Journal* xác nhận điều các nghiên cứu khác (và kinh nghiệm buồn của nhiều nhà đầu tư) đã cho thấy: những công ty tăng trưởng nhanh nhất có xu hướng quá nhiệt rồi tắt lịm.
+
+  Nếu lợi nhuận tăng với tốc độ dài hạn 10%/năm trước thuế (hoặc 6–7% sau thuế), mức đó có thể bền. Nhưng mục tiêu tăng trưởng 15% mà nhiều công ty tự đặt là ảo tưởng. Một tốc độ còn cao hơn, hoặc một đợt bùng nổ tăng trưởng đột ngột trong một hai năm, gần như chắc chắn sẽ tắt, như vận động viên marathon thiếu kinh nghiệm cố chạy cả cuộc đua như chạy nước rút 100 mét.
 
   Chú thích của Zweig (6): Cyrus A. Ramezani, Luc Soenen và Alan Jung, "Growth, Corporate Profitability, and Value Creation", *Financial Analysts Journal*, tháng 11–12/2002, trang 56–67.
 - *Công ty gieo rồi mới gặt.* Dù sản phẩm tốt hay thương hiệu mạnh đến đâu, công ty vẫn phải chi tiền để phát triển kinh doanh mới. Chi nghiên cứu và phát triển (R&D) có thể chưa là nguồn tăng trưởng hôm nay nhưng có thể là nguồn tăng trưởng ngày mai, nhất là nếu công ty có thành tích làm mới hoạt động bằng ý tưởng và thiết bị mới. Ngân sách R&D bình quân khác nhau theo ngành và công ty. Năm 2002, Procter & Gamble chi khoảng 4% doanh thu thuần cho R&D, 3M chi 6,5% và Johnson & Johnson chi 10,9%. Về dài hạn, công ty không chi gì cho R&D ít nhất cũng dễ tổn thương như công ty chi quá nhiều.
@@ -703,7 +769,9 @@ Chú thích của Zweig (7): Jason Zweig là nhân viên của AOL Time Warner (
 
 Chú thích của Zweig (8, dẫn tới chú thích 19 trong bình luận Chương 19): Trong mọi tác phẩm, Graham nhấn mạnh rằng ban điều hành có bổn phận không chỉ bảo đảm cổ phiếu không bị định giá thấp mà còn không bao giờ bị định giá cao. Như ông viết trong *Security Analysis* (ấn bản 1934), trách nhiệm của ban điều hành phải hành động vì lợi ích cổ đông bao gồm nghĩa vụ ngăn chặn, trong khả năng của mình, việc hình thành mức giá quá cao hoặc quá thấp một cách vô lý cho chứng khoán của công ty. Vì thế, nâng giá trị cho cổ đông không chỉ là bảo đảm giá không xuống quá thấp, mà còn là bảo đảm giá không lên tới mức không thể biện minh. Giá như lãnh đạo các công ty Internet đã nghe Graham năm 1999!
 
-Trong khi đó, quá nhiều giám đốc tài chính đưa ra "hướng dẫn lợi nhuận" (earnings guidance), tức ước tính lợi nhuận quý của công ty. Và một số công ty "nghiện thổi phồng", liên tục tung thông cáo báo chí ca ngợi những "cơ hội" tạm thời, vụn vặt hoặc giả định. Một nhúm công ty, trong đó có Coca-Cola, Gillette và USA Interactive, đã bắt đầu "nói không" với tư duy ngắn hạn của Wall Street. Những công ty dũng cảm này cung cấp nhiều chi tiết hơn về ngân sách hiện tại và kế hoạch dài hạn, nhưng từ chối đoán 90 ngày tới sẽ ra sao. (Một hình mẫu về cách công ty giao tiếp thẳng thắn và công bằng với cổ đông: vào EDGAR tại www.sec.gov và đọc các hồ sơ 8-K của Expeditors International of Washington, công ty định kỳ công bố các cuộc hỏi đáp tuyệt vời với cổ đông.)
+Trong khi đó, quá nhiều giám đốc tài chính đưa ra "hướng dẫn lợi nhuận" (earnings guidance), tức ước tính lợi nhuận quý của công ty. Và một số công ty "nghiện thổi phồng", liên tục tung thông cáo báo chí ca ngợi những "cơ hội" tạm thời, vụn vặt hoặc giả định.
+
+Một nhúm công ty, trong đó có Coca-Cola, Gillette và USA Interactive, đã bắt đầu "nói không" với tư duy ngắn hạn của Wall Street. Những công ty dũng cảm này cung cấp nhiều chi tiết hơn về ngân sách hiện tại và kế hoạch dài hạn, nhưng từ chối đoán 90 ngày tới sẽ ra sao. (Một hình mẫu về cách công ty giao tiếp thẳng thắn và công bằng với cổ đông: vào EDGAR tại www.sec.gov và đọc các hồ sơ 8-K của Expeditors International of Washington, công ty định kỳ công bố các cuộc hỏi đáp tuyệt vời với cổ đông.)
 
 Cuối cùng, hãy hỏi các thông lệ kế toán của công ty được thiết kế để làm kết quả tài chính minh bạch hay mờ mịt. Nếu các khoản chi phí "không lặp lại" cứ lặp lại, các khoản "bất thường" xuất hiện thường tới mức trông như bình thường, các từ viết tắt như EBITDA được ưu tiên hơn lợi nhuận ròng, hoặc lợi nhuận "pro forma" được dùng để che lỗ thật, thì có thể bạn đang nhìn một công ty chưa học được cách đặt lợi ích dài hạn của cổ đông lên trước.
 
@@ -713,7 +781,9 @@ Chú thích của Zweig (9): Về các vấn đề này, xem bình luận Chươ
 
 Định nghĩa cơ bản nhất có thể về một doanh nghiệp tốt là: nó tạo ra nhiều tiền mặt hơn nó tiêu thụ. Những người quản lý giỏi liên tục tìm cách dùng số tiền đó vào việc có ích. Về dài hạn, công ty đáp ứng định nghĩa này gần như chắc chắn tăng giá trị, bất kể thị trường chứng khoán làm gì.
 
-Hãy bắt đầu bằng đọc báo cáo lưu chuyển tiền tệ trong báo cáo năm. Xem dòng tiền từ hoạt động kinh doanh có tăng đều trong 10 năm qua không. Sau đó có thể đi xa hơn. Warren Buffett đã phổ biến khái niệm **lợi nhuận của chủ sở hữu** (owner earnings): lợi nhuận ròng cộng khấu hao (amortization và depreciation), trừ chi đầu tư thông thường. Như nhà quản lý danh mục Christopher Davis của Davis Selected Advisors nói: "nếu bạn sở hữu 100% doanh nghiệp này, cuối năm bạn sẽ có bao nhiêu tiền trong túi?" Vì nó điều chỉnh các bút toán kế toán như khấu hao, vốn không ảnh hưởng tới số dư tiền mặt của công ty, lợi nhuận của chủ sở hữu có thể là thước đo tốt hơn lợi nhuận ròng báo cáo. Để tinh chỉnh định nghĩa, bạn cũng nên trừ khỏi lợi nhuận ròng báo cáo:
+Hãy bắt đầu bằng đọc báo cáo lưu chuyển tiền tệ trong báo cáo năm. Xem dòng tiền từ hoạt động kinh doanh có tăng đều trong 10 năm qua không. Sau đó có thể đi xa hơn.
+
+Warren Buffett đã phổ biến khái niệm **lợi nhuận của chủ sở hữu** (owner earnings): lợi nhuận ròng cộng khấu hao (amortization và depreciation), trừ chi đầu tư thông thường. Như nhà quản lý danh mục Christopher Davis của Davis Selected Advisors nói: "nếu bạn sở hữu 100% doanh nghiệp này, cuối năm bạn sẽ có bao nhiêu tiền trong túi?" Vì nó điều chỉnh các bút toán kế toán như khấu hao, vốn không ảnh hưởng tới số dư tiền mặt của công ty, lợi nhuận của chủ sở hữu có thể là thước đo tốt hơn lợi nhuận ròng báo cáo. Để tinh chỉnh định nghĩa, bạn cũng nên trừ khỏi lợi nhuận ròng báo cáo:
 - chi phí cấp quyền chọn cổ phiếu, khoản chuyển lợi nhuận từ cổ đông hiện hữu sang tay những người sở hữu mới trong nội bộ;
 - mọi khoản chi phí "bất thường", "không lặp lại" hay "đặc biệt";
 - mọi khoản "thu nhập" từ quỹ hưu trí của công ty.
@@ -722,7 +792,9 @@ Nếu lợi nhuận của chủ sở hữu tính trên mỗi cổ phiếu tăng 
 
 Tiếp theo, xem cơ cấu vốn. Mở bảng cân đối để xem công ty có bao nhiêu nợ (kể cả cổ phiếu ưu đãi); nói chung, nợ dài hạn nên dưới 50% tổng vốn. Trong thuyết minh báo cáo tài chính, xác định nợ dài hạn có lãi suất cố định (tiền lãi không đổi) hay thả nổi (tiền lãi biến động, có thể đắt lên nếu lãi suất tăng).
 
-Tìm trong báo cáo năm bảng hoặc thuyết minh cho thấy **"hệ số lợi nhuận trên chi phí cố định"** (ratio of earnings to fixed charges). Phụ lục đó trong báo cáo năm 2002 của Amazon.com cho thấy lợi nhuận của Amazon **thiếu** 145 triệu USD so với chi phí lãi vay. Trong tương lai, Amazon sẽ phải hoặc kiếm được nhiều hơn hẳn từ hoạt động kinh doanh, hoặc tìm cách vay với lãi suất thấp hơn. Nếu không, công ty có thể kết cục không thuộc về cổ đông mà thuộc về người nắm trái phiếu, những người có thể đòi tài sản của Amazon nếu không còn cách nào khác bảo đảm tiền lãi họ được nhận. (Công bằng mà nói, hệ số lợi nhuận trên chi phí cố định của Amazon năm 2002 lành mạnh hơn nhiều so với hai năm trước, khi lợi nhuận thiếu 1,1 tỷ USD so với nghĩa vụ trả nợ.)
+Tìm trong báo cáo năm bảng hoặc thuyết minh cho thấy **"hệ số lợi nhuận trên chi phí cố định"** (ratio of earnings to fixed charges). Phụ lục đó trong báo cáo năm 2002 của Amazon.com cho thấy lợi nhuận của Amazon **thiếu** 145 triệu USD so với chi phí lãi vay.
+
+Trong tương lai, Amazon sẽ phải hoặc kiếm được nhiều hơn hẳn từ hoạt động kinh doanh, hoặc tìm cách vay với lãi suất thấp hơn. Nếu không, công ty có thể kết cục không thuộc về cổ đông mà thuộc về người nắm trái phiếu, những người có thể đòi tài sản của Amazon nếu không còn cách nào khác bảo đảm tiền lãi họ được nhận. (Công bằng mà nói, hệ số lợi nhuận trên chi phí cố định của Amazon năm 2002 lành mạnh hơn nhiều so với hai năm trước, khi lợi nhuận thiếu 1,1 tỷ USD so với nghĩa vụ trả nợ.)
 
 #### 5. Đôi lời về cổ tức và chính sách cổ phiếu (Quelques mots sur les dividendes et la politique boursière, PDF trang 266–267)
 
@@ -740,7 +812,9 @@ Zweig kết luận: thật ra có khá nhiều bằng chứng giai thoại cho t
 
 ### Mệnh đề
 
-Phân tích chứng khoán có giá trị nhất khi đứng trên số liệu đã chứng minh: độ an toàn của trái phiếu và cổ phiếu ưu đãi đo được khá tin cậy bằng số lần lợi nhuận quá khứ trang trải chi phí cố định; giá trị cổ phiếu phổ thông là lợi nhuận bình quân tương lai nhân một hệ số vốn hoá phụ thuộc năm yếu tố chất lượng. Càng dựa nhiều vào dự báo xa (như với cổ phiếu tăng trưởng cao), định giá càng dễ sai, nên phải giữ biên an toàn, ưu tiên "giá trị theo thành tích quá khứ" làm điểm xuất phát, và chỉ điều chỉnh khi có lý do cụ thể. Zweig bổ sung rằng năm yếu tố ấy vẫn kiểm tra được bằng báo cáo công khai, và rằng hành vi của ban điều hành (lương, quyền chọn, kế toán, mua lại, tách cổ phiếu) là thước đo trực tiếp của việc họ phục vụ ai.
+Phân tích chứng khoán có giá trị nhất khi đứng trên số liệu đã chứng minh: độ an toàn của trái phiếu và cổ phiếu ưu đãi đo được khá tin cậy bằng số lần lợi nhuận quá khứ trang trải chi phí cố định; giá trị cổ phiếu phổ thông là lợi nhuận bình quân tương lai nhân một hệ số vốn hoá phụ thuộc năm yếu tố chất lượng. Càng dựa nhiều vào dự báo xa (như với cổ phiếu tăng trưởng cao), định giá càng dễ sai, nên phải giữ biên an toàn, ưu tiên "giá trị theo thành tích quá khứ" làm điểm xuất phát, và chỉ điều chỉnh khi có lý do cụ thể.
+
+Zweig bổ sung rằng năm yếu tố ấy vẫn kiểm tra được bằng báo cáo công khai, và rằng hành vi của ban điều hành (lương, quyền chọn, kế toán, mua lại, tách cổ phiếu) là thước đo trực tiếp của việc họ phục vụ ai.
 
 ### Giả định
 
@@ -779,7 +853,9 @@ Phân tích chứng khoán có giá trị nhất khi đứng trên số liệu �
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương này là bản rút gọn cho người không chuyên của các công cụ trong *Security Analysis*: phân tích tín dụng bằng hệ số trang trải lãi vay (interest coverage, times-interest-earned), tỷ lệ vốn chủ sở hữu theo giá thị trường so với nợ; định giá cổ phiếu bằng bội số lợi nhuận (earnings multiple) và mô hình tăng trưởng rút gọn (Graham growth formula), tương đương một phép xấp xỉ tuyến tính của mô hình chiết khấu dòng cổ tức hoặc lợi nhuận; tăng trưởng hàm ý (implied growth / reverse DCF); độ nhạy của định giá với tốc độ tăng trưởng và lãi suất chiết khấu; và quan điểm "định giá tương đối dựa trên dữ liệu lịch sử, điều chỉnh bằng phán đoán". Bình luận của Zweig là danh mục kiểm tra chất lượng doanh nghiệp theo ngôn ngữ hiện đại: lợi thế cạnh tranh bền (economic moat), chất lượng lợi nhuận (earnings quality), dòng tiền tự do / owner earnings, pha loãng do quyền chọn (dilution, option overhang), quản trị công ty (corporate governance) và phân bổ vốn (capital allocation: cổ tức, mua lại, M&A).
+Chương này là bản rút gọn cho người không chuyên của các công cụ trong *Security Analysis*: phân tích tín dụng bằng hệ số trang trải lãi vay (interest coverage, times-interest-earned), tỷ lệ vốn chủ sở hữu theo giá thị trường so với nợ; định giá cổ phiếu bằng bội số lợi nhuận (earnings multiple) và mô hình tăng trưởng rút gọn (Graham growth formula), tương đương một phép xấp xỉ tuyến tính của mô hình chiết khấu dòng cổ tức hoặc lợi nhuận; tăng trưởng hàm ý (implied growth / reverse DCF); độ nhạy của định giá với tốc độ tăng trưởng và lãi suất chiết khấu; và quan điểm "định giá tương đối dựa trên dữ liệu lịch sử, điều chỉnh bằng phán đoán".
+
+Bình luận của Zweig là danh mục kiểm tra chất lượng doanh nghiệp theo ngôn ngữ hiện đại: lợi thế cạnh tranh bền (economic moat), chất lượng lợi nhuận (earnings quality), dòng tiền tự do / owner earnings, pha loãng do quyền chọn (dilution, option overhang), quản trị công ty (corporate governance) và phân bổ vốn (capital allocation: cổ tức, mua lại, M&A).
 
 ## Thuật ngữ
 
@@ -858,19 +934,27 @@ Graham chỉ ra rằng độ chính xác bề ngoài của mô hình tỷ lệ n
 
 ### Công thức 8,5 + 2g hữu ích nhất khi dùng ngược, như phép thử kỳ vọng mà giá đang đặt cược
 
-Dùng để tính "giá trị đúng", công thức dễ bị lạm dụng (Graham tự nói nó không cho giá trị thật, và nó không có lãi suất). Nhưng dùng ngược, nó cho một câu hỏi rất thực tế: giá này đang đòi công ty tăng trưởng bao nhiêu mỗi năm trong 7–10 năm? Ví dụ Xerox (32,4%) và General Motors (2,8%) cho thấy cách đọc đó. Theo hiểu biết của người tổng hợp, không tra cứu, năm 1974 Graham đã đưa ra phiên bản sửa có tính lãi suất, nhân thêm hệ số bằng 4,4 chia lợi suất trái phiếu doanh nghiệp AAA hiện hành, đúng với nhận xét trong chương rằng định giá "khoa học" phải tính tới lãi suất. Thời lãi suất gần 0 sau 2008 và thời lãi suất tăng lại từ 2022 cho thấy rõ P/E "hợp lý" thay đổi mạnh theo lãi suất như thế nào, nên dùng công thức gốc mà quên lãi suất là thiếu sót.
+Dùng để tính "giá trị đúng", công thức dễ bị lạm dụng (Graham tự nói nó không cho giá trị thật, và nó không có lãi suất). Nhưng dùng ngược, nó cho một câu hỏi rất thực tế: giá này đang đòi công ty tăng trưởng bao nhiêu mỗi năm trong 7–10 năm? Ví dụ Xerox (32,4%) và General Motors (2,8%) cho thấy cách đọc đó.
+
+Theo hiểu biết của người tổng hợp, không tra cứu, năm 1974 Graham đã đưa ra phiên bản sửa có tính lãi suất, nhân thêm hệ số bằng 4,4 chia lợi suất trái phiếu doanh nghiệp AAA hiện hành, đúng với nhận xét trong chương rằng định giá "khoa học" phải tính tới lãi suất. Thời lãi suất gần 0 sau 2008 và thời lãi suất tăng lại từ 2022 cho thấy rõ P/E "hợp lý" thay đổi mạnh theo lãi suất như thế nào, nên dùng công thức gốc mà quên lãi suất là thiếu sót.
 
 ### Phép thử trang trải lãi vay của Graham vẫn là xương sống của phân tích tín dụng, nhưng số liệu và bối cảnh đã khác
 
-Các ngưỡng 4, 5, 7 lần và phép thử 33% gốc nợ được thiết kế cho thời kỳ thuế suất doanh nghiệp gần 50% và lãi suất 4,5–8%. Theo hiểu biết của người tổng hợp, các tổ chức xếp hạng tín dụng và ngân hàng ngày nay vẫn dùng hệ số trang trải lãi vay và tỷ lệ nợ trên lợi nhuận làm thước đo chính, nhưng con số cụ thể khác theo ngành và thời kỳ. Cảnh báo năm 1971 của Graham về việc doanh nghiệp vay quá nhiều trong thời thuận lợi lặp lại nhiều lần sau này, rõ nhất trong khủng hoảng 2008 và trong những đợt các công ty vay nợ rẻ thời lãi suất thấp gặp khó khi lãi suất tăng lại. Đồng thời, như Zweig nói, nhà đầu tư cá nhân hiện nay gần như không cần tự phân tích từng trái phiếu nữa, vì quỹ trái phiếu và quỹ chỉ số trái phiếu chi phí thấp đã phổ biến.
+Các ngưỡng 4, 5, 7 lần và phép thử 33% gốc nợ được thiết kế cho thời kỳ thuế suất doanh nghiệp gần 50% và lãi suất 4,5–8%. Theo hiểu biết của người tổng hợp, các tổ chức xếp hạng tín dụng và ngân hàng ngày nay vẫn dùng hệ số trang trải lãi vay và tỷ lệ nợ trên lợi nhuận làm thước đo chính, nhưng con số cụ thể khác theo ngành và thời kỳ.
+
+Cảnh báo năm 1971 của Graham về việc doanh nghiệp vay quá nhiều trong thời thuận lợi lặp lại nhiều lần sau này, rõ nhất trong khủng hoảng 2008 và trong những đợt các công ty vay nợ rẻ thời lãi suất thấp gặp khó khi lãi suất tăng lại. Đồng thời, như Zweig nói, nhà đầu tư cá nhân hiện nay gần như không cần tự phân tích từng trái phiếu nữa, vì quỹ trái phiếu và quỹ chỉ số trái phiếu chi phí thấp đã phổ biến.
 
 ### Bằng chứng về Value Line và cổ phiếu hoá chất là lập luận mạnh cho đa dạng hoá và quỹ chỉ số
 
-Graham nhận xét dự báo nhóm đáng tin hơn dự báo từng công ty, và đa dạng hoá rộng là lời phủ nhận thực tế với khẩu hiệu "chọn lọc". Zweig đẩy lập luận tới kết luận rằng quỹ chỉ số toàn thị trường là lựa chọn lý tưởng cho phần lớn người. Theo hiểu biết của người tổng hợp, sau 2003 quỹ chỉ số và ETF chi phí thấp đã chiếm thị phần rất lớn, và nhiều nghiên cứu tiếp tục cho thấy phần lớn quỹ chủ động không thắng chỉ số sau phí, phù hợp với nhận định của cả hai tác giả. Quan điểm trái chiều đáng nêu: Graham vẫn để ngỏ cho "nhà phân tích xuất chúng" (như Philip Fisher), và Buffett cho rằng với người thật sự giỏi, tập trung tốt hơn đa dạng hoá; vấn đề là rất ít người biết trước mình thuộc nhóm đó.
+Graham nhận xét dự báo nhóm đáng tin hơn dự báo từng công ty, và đa dạng hoá rộng là lời phủ nhận thực tế với khẩu hiệu "chọn lọc". Zweig đẩy lập luận tới kết luận rằng quỹ chỉ số toàn thị trường là lựa chọn lý tưởng cho phần lớn người. Theo hiểu biết của người tổng hợp, sau 2003 quỹ chỉ số và ETF chi phí thấp đã chiếm thị phần rất lớn, và nhiều nghiên cứu tiếp tục cho thấy phần lớn quỹ chủ động không thắng chỉ số sau phí, phù hợp với nhận định của cả hai tác giả.
+
+Quan điểm trái chiều đáng nêu: Graham vẫn để ngỏ cho "nhà phân tích xuất chúng" (như Philip Fisher), và Buffett cho rằng với người thật sự giỏi, tập trung tốt hơn đa dạng hoá; vấn đề là rất ít người biết trước mình thuộc nhóm đó.
 
 ### Chương này có chỗ yếu: định nghĩa "triển vọng dài hạn" và "chất lượng ban điều hành" vẫn chủ yếu là phán đoán
 
-Graham thừa nhận yếu tố ban điều hành "được nhìn qua màn sương" và chưa có phép thử định lượng; quy trình định giá hai bước của ông cũng chỉ mô tả khung, không cho công thức trọng số cụ thể. Chính vì thế bình luận của Zweig bổ sung có giá trị: ông biến các yếu tố mơ hồ thành dấu hiệu kiểm tra được (số vụ mua lại mỗi năm, dấu của dòng tiền kinh doanh và tài chính, tỷ trọng doanh thu từ khách hàng lớn nhất, quyền chọn treo, mẫu 4, tần suất chi phí "bất thường"). Tuy vậy một số ví dụ của Zweig cũng cho thấy giới hạn: Amazon năm 2002 bị dùng làm ví dụ cảnh báo về khả năng trả lãi, nhưng theo hiểu biết của người tổng hợp, công ty sau đó trở thành một trong những doanh nghiệp lớn và có lãi nhất thế giới; tức các dấu hiệu tài chính xấu ở một thời điểm không đủ để kết luận về tương lai của một doanh nghiệp đang tăng trưởng nhanh, đúng như Graham nói về thế "không thể được cả hai" trong phân tích ngành.
+Graham thừa nhận yếu tố ban điều hành "được nhìn qua màn sương" và chưa có phép thử định lượng; quy trình định giá hai bước của ông cũng chỉ mô tả khung, không cho công thức trọng số cụ thể. Chính vì thế bình luận của Zweig bổ sung có giá trị: ông biến các yếu tố mơ hồ thành dấu hiệu kiểm tra được (số vụ mua lại mỗi năm, dấu của dòng tiền kinh doanh và tài chính, tỷ trọng doanh thu từ khách hàng lớn nhất, quyền chọn treo, mẫu 4, tần suất chi phí "bất thường").
+
+Tuy vậy một số ví dụ của Zweig cũng cho thấy giới hạn: Amazon năm 2002 bị dùng làm ví dụ cảnh báo về khả năng trả lãi, nhưng theo hiểu biết của người tổng hợp, công ty sau đó trở thành một trong những doanh nghiệp lớn và có lãi nhất thế giới; tức các dấu hiệu tài chính xấu ở một thời điểm không đủ để kết luận về tương lai của một doanh nghiệp đang tăng trưởng nhanh, đúng như Graham nói về thế "không thể được cả hai" trong phân tích ngành.
 
 ### Phê phán của Zweig về quyền chọn cổ phiếu, mua lại cổ phiếu và tách cổ phiếu đã được thời gian xác nhận một phần
 
@@ -878,4 +962,212 @@ Theo hiểu biết của người tổng hợp, không tra cứu, sau các vụ 
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Chương này đưa ra một quy trình mà người không chuyên có thể làm được: (1) với trái phiếu doanh nghiệp, kiểm tra lợi nhuận trước thuế đã trang trải lãi vay bao nhiêu lần qua nhiều năm và trong năm kém nhất, không tin vào lãi suất danh nghĩa hấp dẫn; (2) với cổ phiếu, tính ngược tốc độ tăng trưởng mà P/E đang hàm ý và hỏi điều đó có hợp lý không; (3) đọc báo cáo lưu chuyển tiền tệ để xem doanh nghiệp tự tạo ra tiền hay sống bằng vay nợ và phát hành thêm cổ phiếu; (4) xem lịch sử trả cổ tức, mức độ phụ thuộc vào vài khách hàng, tần suất mua sáp nhập, lượng cổ phiếu có thể phát hành thêm (quyền chọn cho người nội bộ, trái phiếu chuyển đổi), và việc lãnh đạo mua hay bán cổ phiếu. Ở mức định tính, những nguyên tắc này áp dụng được cho thị trường Việt Nam, nơi nhà đầu tư cá nhân chiếm tỷ trọng lớn và trái phiếu doanh nghiệp lãi suất cao từng thu hút nhiều người mua lẻ: phép thử trang trải lãi vay của Graham chính là câu hỏi đầu tiên cần đặt ra trước khi mua một trái phiếu doanh nghiệp. Lưu ý rằng công thức 8,5 + 2g được hiệu chỉnh cho lãi suất và bối cảnh Mỹ năm 1962–1972, không nên áp nguyên con số cho một nền kinh tế có mặt bằng lãi suất khác.
+Chương này đưa ra một quy trình mà người không chuyên có thể làm được:
+
+1. với trái phiếu doanh nghiệp, kiểm tra lợi nhuận trước thuế đã trang trải lãi vay bao nhiêu lần qua nhiều năm và trong năm kém nhất, không tin vào lãi suất danh nghĩa hấp dẫn;
+2. với cổ phiếu, tính ngược tốc độ tăng trưởng mà P/E đang hàm ý và hỏi điều đó có hợp lý không;
+3. đọc báo cáo lưu chuyển tiền tệ để xem doanh nghiệp tự tạo ra tiền hay sống bằng vay nợ và phát hành thêm cổ phiếu;
+4. xem lịch sử trả cổ tức, mức độ phụ thuộc vào vài khách hàng, tần suất mua sáp nhập, lượng cổ phiếu có thể phát hành thêm (quyền chọn cho người nội bộ, trái phiếu chuyển đổi), và việc lãnh đạo mua hay bán cổ phiếu.
+
+Ở mức định tính, những nguyên tắc này áp dụng được cho thị trường Việt Nam, nơi nhà đầu tư cá nhân chiếm tỷ trọng lớn và trái phiếu doanh nghiệp lãi suất cao từng thu hút nhiều người mua lẻ: phép thử trang trải lãi vay của Graham chính là câu hỏi đầu tiên cần đặt ra trước khi mua một trái phiếu doanh nghiệp. Lưu ý rằng công thức 8,5 + 2g được hiệu chỉnh cho lãi suất và bối cảnh Mỹ năm 1962–1972, không nên áp nguyên con số cho một nền kinh tế có mặt bằng lãi suất khác.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết (Phần A, mục 1 nghịch lý của định giá bằng toán học, mục 2 phép thử trang trải cho trái phiếu, mục 3–4 hệ số vốn hoá và năm yếu tố, mục 5–7 công thức 8,5 + 2g, phân tích ngành và định giá hai bước; Phần B, bình luận của Zweig mục 1–2 về triển vọng dài hạn và mục 3–5 về ban điều hành, sức mạnh tài chính, cổ tức), mỗi nhánh ghi ngưỡng số, công thức, ví dụ công ty và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: phân tích chứng khoán đáng tin nhất khi dựa vào kết quả đã chứng minh, kém tin cậy nhất khi dựa vào dự báo xa`"]
+  n1["`Graham, mục 1 — Nghề phân tích và nghịch lý của định giá bằng toán học`"]
+  n0 --- n1
+  n2["`Năm 1972 nghề phân tích tài chính có hơn 13.000 hội viên, có sách giáo khoa, quy tắc đạo đức, tạp chí`"]
+  n1 --- n2
+  n3["`Nhà phân tích được điều chỉnh số liệu báo cáo năm dù đã có chữ ký kiểm toán`"]
+  n1 --- n3
+  n4["`Trái phiếu có tiêu chuẩn an toàn rõ, cổ phiếu phổ thông trước đây hiếm có tiêu chuẩn giá trị`"]
+  n1 --- n4
+  n5["`Nghịch lý: định giá bằng toán học phổ biến nhất đúng ở chỗ nó kém tin cậy nhất`"]
+  n1 --- n5
+  n6["`Zweig: lãi 1 USD tăng 15%/năm trong 15 năm, P/E 35 thì cổ phiếu khoảng 285 USD`"]
+  n5 --- n6
+  n7["`Chỉ tăng 14%/năm và P/E rơi về 20 thì cổ phiếu còn khoảng 143 USD, thấp hơn khoảng một nửa`"]
+  n5 --- n7
+  n8["`Graham: 44 năm ở Wall Street chưa thấy phép tính giá trị đáng tin nào vượt quá số học và đại số sơ đẳng`"]
+  n1 --- n8
+  n9["`Graham, mục 2 — Trái phiếu: lợi nhuận trang trải chi phí cố định bao nhiêu lần`"]
+  n0 --- n9
+  n10["`Ngưỡng bình quân 7 năm, trước thuế: dịch vụ công cộng 4, đường sắt 5, công nghiệp 7, bán lẻ 5 lần`"]
+  n9 --- n10
+  n11["`Hoặc theo năm kém nhất 3, 4, 5, 4 lần, chỉ cần đạt một trong hai phép thử`"]
+  n10 --- n11
+  n12["`Cổ phiếu ưu đãi: mẫu số là chi phí cố định cộng hai lần cổ tức ưu đãi, vì cổ tức không được trừ thuế`"]
+  n9 --- n12
+  n13["`Lãi suất lên 8%: thay bằng lợi nhuận trước thuế ít nhất 33% gốc nợ (công nghiệp), 20% (dịch vụ công cộng), 25% (đường sắt)`"]
+  n9 --- n13
+  n14["`Phép thử phụ: quy mô, giá trị thị trường cổ phiếu so với nợ, giá trị tài sản ở ba ngành đặc thù`"]
+  n9 --- n14
+  n15["`An toàn thật nằm ở sức sinh lời, thiếu sức sinh lời thì tài sản mất phần lớn giá trị`"]
+  n14 --- n15
+  n16["`New Haven tái cấu trúc năm 1947 chỉ trang trải 1,1 lần và phá sản lần thứ ba năm 1961`"]
+  n9 --- n16
+  n17["`Penn Central không đạt chuẩn trang trải từ 1965, sụp đổ năm 1970`"]
+  n9 --- n17
+  n18["`Lãi vay doanh nghiệp phi tài chính Mỹ từ 9,8 tỷ USD (1963) lên 26,1 tỷ USD (1970), từ 16% lên 29% lợi nhuận trước lãi và thuế`"]
+  n9 --- n18
+  n19["`Zweig: năm 2003 nhà đầu tư cá nhân nên mua quỹ trái phiếu chi phí thấp`"]
+  n9 --- n19
+  n20["`Graham, mục 3–4 — Cổ phiếu phổ thông: lợi nhuận tương lai nhân hệ số vốn hoá`"]
+  n0 --- n20
+  n21["`Giá trị = lợi nhuận bình quân ước cho vài năm tới × hệ số vốn hoá, rồi so với giá hiện tại`"]
+  n20 --- n21
+  n22["`Value Line: dự báo tổng hợp cho 30 cổ phiếu Dow Jones khá sát, nhiều dự báo từng công ty sai xa`"]
+  n20 --- n22
+  n23["`Không biết trước dự báo nào đúng nên các quỹ đa dạng hoá rộng, phủ nhận khẩu hiệu tính chọn lọc`"]
+  n22 --- n23
+  n24["`Zweig: với phần lớn người, quỹ chỉ số toàn thị trường là lựa chọn lý tưởng`"]
+  n22 --- n24
+  n25["`Cùng lãi 4 USD/cổ phiếu, công ty này định giá 40 USD (P/E 10), công ty kia 100 USD (P/E 25), do năm yếu tố`"]
+  n20 --- n25
+  n26["`Triển vọng dài hạn: cuối 1963 hoá chất P/E cao hơn dầu mỏ, đến 1970 hoá chất gần như không tăng lợi nhuận`"]
+  n25 --- n26
+  n27["`Ban điều hành đã nằm trong thành tích quá khứ, cộng thêm lần nữa dễ trả giá quá cao`"]
+  n25 --- n27
+  n28["`Chỉ hữu ích khi ban điều hành mới thay đổi: Chrysler 1962–1963, EPS 1,24 USD lên tương đương 17 USD`"]
+  n25 --- n28
+  n29["`Sức mạnh tài chính: nhiều tiền mặt, không có nợ hay cổ phiếu ưu đãi đứng trước thì đáng mua hơn`"]
+  n25 --- n29
+  n30["`Lịch sử cổ tức: trả liên tục từ 20 năm trở lên là dấu hiệu chất lượng mạnh`"]
+  n25 --- n30
+  n31["`Cổ tức hiện tại: chuẩn chia khoảng 2/3 lợi nhuận, EPS 3 USD × 12 = cổ tức 2 USD × 18 = 36 USD`"]
+  n25 --- n31
+  n32["`Graham, mục 5–7 — Cổ phiếu tăng trưởng, phân tích ngành, định giá hai bước`"]
+  n0 --- n32
+  n33["`Giá trị = lợi nhuận hiện tại bình thường × (8,5 + 2g), g là tăng trưởng dự kiến 7–10 năm, tính bằng số phần trăm`"]
+  n32 --- n33
+  n34["`Không tăng trưởng P/E 8,5, tăng 5% P/E 18,5, tăng 10% P/E 28,5, tăng 20% P/E 48,5`"]
+  n33 --- n34
+  n35["`Lợi nhuận 2 USD, tăng 10%/năm thì giá trị 2 × 28,5 = 57 USD`"]
+  n33 --- n35
+  n36["`Dùng ngược g = (P/E − 8,5) / 2: cuối 1963 Xerox hàm ý 32,4%/năm, General Motors 2,8%, DJIA 5,1%`"]
+  n32 --- n36
+  n37["`Đến 1970 Xerox và IBM đạt tăng trưởng cao, bốn công ty còn lại kém kỳ vọng`"]
+  n36 --- n37
+  n38["`DJIA tăng giá 23% và cổ tức cộng dồn 28%, gần mục tiêu 7,5%/năm`"]
+  n36 --- n38
+  n39["`Tăng trưởng từ 8%/năm trở lên mãi mãi cho giá trị vô hạn, nên phải cài biên an toàn như kỹ sư`"]
+  n32 --- n39
+  n40["`Lãi suất cao làm giá trị hiện tại của lợi nhuận tương lai nhỏ đi, nhưng Graham vẫn giữ công thức cũ`"]
+  n32 --- n40
+  n41["`Báo cáo ngành thường nói điều công chúng đã biết và đã nằm trong giá`"]
+  n32 --- n41
+  n42["`Nhà đầu tư không thể được cả hai: táo bạo thì chịu rủi ro sai, thận trọng thì bỏ lỡ cơ hội vàng`"]
+  n41 --- n42
+  n43["`Bước 1: giá trị theo thành tích quá khứ, giả định tăng trưởng 7 năm qua giữ nguyên 7 năm tới`"]
+  n32 --- n43
+  n44["`Bước 2: điều chỉnh vì điều kiện mới dự kiến, báo cáo cả hai con số kèm lý do`"]
+  n43 --- n44
+  n45["`Chỉ chọn ngành dự đoán được, hoặc giá thấp xa giá trị theo thành tích quá khứ`"]
+  n43 --- n45
+  n46["`Zweig, mục 1–2 — Triển vọng dài hạn kiểm tra bằng 10-K trên EDGAR`"]
+  n0 --- n46
+  n47["`Đọc ít nhất 5 năm báo cáo năm 10-K và 1 năm báo cáo quý 10-Q`"]
+  n46 --- n47
+  n48["`Xấu: mua sáp nhập trên 2–3 vụ/năm, Lucent, Mattel, Quaker Oats, Tyco phải nhả lại với lỗ lớn`"]
+  n46 --- n48
+  n49["`Xấu: dòng tiền kinh doanh âm, dòng tiền tài chính luôn dương, như Global Crossing, WorldCom`"]
+  n46 --- n49
+  n50["`Xấu: Sycamore có 100% doanh thu 11 triệu USD từ Williams, định giá 15 tỷ USD, mất 97%`"]
+  n46 --- n50
+  n51["`Tốt: hào kinh tế, như thương hiệu Harley-Davidson, quy mô Gillette, công thức Coca-Cola`"]
+  n46 --- n51
+  n52["`Tốt: tăng 10%/năm trước thuế bền được, mục tiêu 15% là ảo tưởng`"]
+  n46 --- n52
+  n53["`Tốt: chi R#amp;D, năm 2002 P#amp;G 4%, 3M 6,5%, J#amp;J 10,9% doanh thu`"]
+  n46 --- n53
+  n54["`Zweig, mục 3–5 — Ban điều hành, sức mạnh tài chính, cổ tức`"]
+  n0 --- n54
+  n55["`Ban điều hành phải nói gì làm nấy, nhận lỗi thay vì đổ cho nền kinh tế`"]
+  n54 --- n55
+  n56["`Định lại giá quyền chọn cho người nội bộ: tránh xa`"]
+  n54 --- n56
+  n57["`AOL Time Warner: quyền chọn trên 657 triệu so với 4,5 tỷ cổ phiếu, lợi nhuận chia cho thêm khoảng 15%`"]
+  n54 --- n57
+  n58["`Mẫu 4: người nội bộ bán lớn lặp lại là cờ đỏ`"]
+  n54 --- n58
+  n59["`Lợi nhuận của chủ sở hữu = lợi nhuận ròng + khấu hao − chi đầu tư thông thường, tăng ít nhất 6–7%/năm`"]
+  n54 --- n59
+  n60["`Nợ dài hạn dưới 50% tổng vốn, Amazon 2002 lợi nhuận thiếu 145 triệu USD so với lãi vay`"]
+  n54 --- n60
+  n61["`Hai cổ phiếu 50 USD không đáng hơn một cổ phiếu 100 USD, tách cổ phiếu không tạo giá trị`"]
+  n54 --- n61
+  n62["`Mua lại cổ phiếu phải làm khi giá rẻ, không phải gần mức kỷ lục`"]
+  n54 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Ưu tiên số liệu đã chứng minh, nghi ngờ định giá dựa trên dự báo xa và toán học phức tạp`"]
+  n63 --- n64
+  n65["`Luôn cài biên an toàn vào định giá, như kỹ sư thiết kế công trình`"]
+  n63 --- n65
+  n66["`Đa dạng hoá vì không ai biết trước dự báo nào đúng`"]
+  n63 --- n66
+  n67["`Trong đầu tư, người thắng sau cùng là người làm, không phải người nói`"]
+  n63 --- n67
+  class n0 root
+  class n1,n9,n20,n32,n46,n54,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 11 "Analyse de sécurité pour l'investisseur profane: approche générale" (PDF trang 242–259) và "Commentaire sur le chapitre 11" (PDF trang 259–267). Chú thích của Graham cho chương này nằm ở PDF trang 486–487; chú thích của Zweig nằm ở PDF trang 558–562.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 đến 10 bàn về thái độ và chính sách: đầu tư khác đầu cơ ra sao, lạm phát, lịch sử thị trường, cách nhà đầu tư phòng thủ và nhà đầu tư năng động xây danh mục, cách đối xử với biến động giá (ông Thị Trường), quỹ đầu tư và người tư vấn ([C10](C10-nha-dau-tu-va-nguoi-tu-van.md)).
+
+Chương 11 mở đầu nhóm chương về **phân tích chứng khoán (security analysis)**: Graham giải thích cho người không chuyên biết nhà phân tích làm gì, kiểm tra độ an toàn của trái phiếu và cổ phiếu ưu đãi bằng hệ số trang trải lãi vay như thế nào, định giá cổ phiếu phổ thông bằng "lợi nhuận tương lai nhân với hệ số vốn hoá" ra sao, năm yếu tố nào làm hệ số đó cao hay thấp, và đưa ra công thức định giá cổ phiếu tăng trưởng "8,5 cộng hai lần tốc độ tăng trưởng".
+
+Chương 12 ([C12](C12-nhung-dieu-can-xet-ve-eps.md)) đi vào những cái bẫy trong con số lợi nhuận trên mỗi cổ phiếu (EPS), với ví dụ ALCOA mà chương này hứa trước; Chương 13 ([C13](C13-so-sanh-bon-cong-ty-niem-yet.md)) áp dụng kỹ thuật phân tích cho bốn công ty; Chương 14 và 15 ([C14](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md), [C15](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md)) biến các yếu tố của chương này (quy mô, sức mạnh tài chính, lịch sử cổ tức, tăng trưởng, giá so với lợi nhuận) thành bộ tiêu chí chọn cổ phiếu; Chương 17 ([C17](C17-bon-truong-hop-dang-hoc.md)) phân tích vụ phá sản Penn Central được nhắc ở đây; Chương 19 ([C19](C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md)) bàn chính sách cổ tức mà chương này hoãn lại; Chương 20 ([C20](C20-bien-an-toan.md)) nâng ý tưởng "biên an toàn" trong định giá thành nguyên tắc trung tâm.
+
+## Lưu ý
+
+- **Năm bảng của chương bị để trống trong bản PDF.** Bản PDF có tiêu đề TABLEAU 11-1 (PDF trang 245) và TABLEAU 11-2 (PDF trang 250) nhưng phần thân bảng là khoảng trắng; TABLEAU 11-3 (khoảng trống ở PDF trang 251–252), TABLEAU 11-4 và 11-5 (khoảng trống ở PDF trang 254–255) thậm chí mất luôn tiêu đề, chỉ còn được nhắc trong lời văn. Ảnh trang đã được kiểm tra và xác nhận là trống. Cách xử lý trong bản tổng hợp:
+  - phần A của Tableau 11-1 (hệ số trang trải tối thiểu cho trái phiếu) được khôi phục **theo hiểu biết của người tổng hợp về bản tiếng Anh, không tra cứu**, và đã kiểm tra tính nhất quán nội tại (xem phần Nội dung chi tiết); phần B và C của Tableau 11-1 có trong PDF và được chép đủ;
+  - Tableau 11-4 được tính lại đầy đủ từ chính công thức của Graham, vì bảng này chỉ là kết quả áp dụng công thức;
+  - Tableau 11-2, 11-3 và 11-5 chứa số liệu thị trường cụ thể (30 cổ phiếu Dow Jones, các cổ phiếu hoá chất và dầu mỏ, sáu cổ phiếu lớn) mà người tổng hợp không nhớ chắc chắn, nên chỉ ghi những con số có trong lời văn và tên các công ty mà người tổng hợp nhớ là có trong bảng gốc, kèm ghi chú độ tin cậy. Không bịa số.
+- **Bản dịch máy lệch nghĩa ở những chỗ ảnh hưởng tới hiểu biết:**
+  - "analyse de sécurité" là *security analysis* (phân tích chứng khoán), không phải "phân tích an toàn" (nhưng trong mục trái phiếu, "sécurité" lại thật sự là *safety*, độ an toàn);
+  - "action privilégiée obligataire ou investment grade" là "trái phiếu hoặc cổ phiếu ưu đãi hạng đầu tư";
+  - "analyse sonore" là *sound analysis* (phân tích vững chắc);
+  - "Ratio actions / capitaux propres" là *stock-equity ratio*: tỷ lệ giữa **giá thị trường của cổ phiếu phổ thông** và tổng mệnh giá nợ (hoặc nợ cộng cổ phiếu ưu đãi), không phải tỷ lệ "cổ phiếu trên vốn chủ sở hữu";
+  - trong ghi chú của Tableau 11-1, câu "alors que les frais d'intérêt le sont également" phải hiểu là "**trong khi** chi phí lãi vay thì được khấu trừ thuế";
+  - "les routes en difficulté sont depuis longtemps surdimensionnées" là "các tuyến đường sắt gặp nạn từ lâu đã **vay nợ quá mức** (overbonded)", không phải "quá khổ";
+  - "retombé sous tutelle" là rơi vào tình trạng **quản lý tiếp nhận do phá sản** (receivership);
+  - "rien d'avant le commun" là "không có chứng khoán nào xếp hạng trên cổ phiếu phổ thông" (không nợ, không cổ phiếu ưu đãi);
+  - "Registre des dividendes" là *dividend record* (lịch sử trả cổ tức);
+  - "sept" và "dix" ở cuối câu thật ra là số chú thích 7 và 10 bị dịch thành chữ.
+
+  Trong bình luận của Zweig:
+  - "loupent de grosses acquisitions" là *gulp* (ngốn),
+  - "toxicomane OPM" là *OPM junkie* (nghiện tiền của người khác, OPM = other people's money),
+  - "tiret de 100 mètres" là cuộc chạy nước rút 100 mét (*100-meter dash*),
+  - "Cherchent-ils le n°1?" là *Are they looking out for No. 1?* (họ có chỉ lo cho bản thân không?),
+  - "refacture ses options" là *reprice* (định lại giá thực hiện quyền chọn),
+  - "surplomb des options" là *option overhang* (lượng quyền chọn treo),
+  - "ont chuté de 145 millions par rapport à ses frais d'intérêt" là "lợi nhuận **thiếu** 145 triệu USD so với chi phí lãi vay",
+  - "Il n'y a plus de gaspillage cynique" là "**không có** cách phung phí tiền nào trơ trẽn hơn".
+- **Lỗi năm:** câu "les paiements d'intérêts avaient prélevé 29% des bénéfices totaux avant intérêts et impôts en 1971, contre seulement 16% en 1963" ghi 1971, nhưng phép tính được thực hiện "đầu năm 1971" cho "bảy năm vừa qua" (1963–1970), nên mốc đúng phải là **1970**.
+- **Lệch nhỏ về năm của sách giáo khoa:** lời văn nói "bản hiệu đính năm 1961 của *Security Analysis*", chú thích 1 của Graham ghi ấn bản thứ tư in năm 1962 (McGraw-Hill). Hai mốc không mâu thuẫn: bản hiệu đính làm năm 1961, xuất bản năm 1962.
+- **Graham dẫn số trang của bản tiếng Anh mà bản PDF không có:** "plus haut p. 288" (trỏ tới mục "Analyse des actions ordinaires" của chính chương này, PDF trang 248) và "À la p. 295" trong chú thích 5 (trỏ tới công thức định giá cổ phiếu tăng trưởng của chính chương này, PDF trang 254). Zweig dẫn "p. 570" (Phụ lục 4 của sách) và "p. 507", "p. 508" (bình luận Chương 19).
+- **Con số "tăng 23%" của chỉ số Dow Jones:** Graham viết rằng từ cuối 1963 tới cuối 1970 giá DJIA tăng 23% và cổ tức cộng dồn 28%. Theo hiểu biết của người tổng hợp, không tra cứu, DJIA đóng cửa cuối 1963 khoảng 763 điểm và cuối 1970 khoảng 839 điểm, tức chỉ tăng khoảng 10%; có thể Graham dùng mốc giá khác (ví dụ giá bình quân), nên con số 23% được giữ nguyên như sách nhưng cần đọc thận trọng.
+- **Phép tính của Zweig hơi làm tròn:** trong chú thích về độ nhạy của dự báo, cổ phiếu từ khoảng 285 USD xuống khoảng 143 USD là giảm 49,9%, Zweig viết "hơn 50%". Các phép tính khác trong chương đều khớp (đã kiểm tra lại: 1,15^15 = 8,14; 1,14^15 = 7,14; 657/4.500 = 14,6% ≈ 15%; 3 × 12 = 2 × 18 = 36).
+- **Số liệu đã cũ:** Liên đoàn Quốc gia các Nhà phân tích Tài chính (13.000 hội viên năm 1972) đã thành AIMR khi Zweig viết, và theo hiểu biết của người tổng hợp, không tra cứu, năm 2004 đổi tên thành CFA Institute với hàng trăm nghìn hội viên trên thế giới. Tỷ lệ chi trả cổ tức 59,5% (Dow Jones, 1969) đã giảm xuống 34,1% cuối 2002 (S&P 500) theo Zweig; AOL Time Warner đã tách thành nhiều công ty; Sycamore Networks, Lucent, Global Crossing, WorldCom không còn tồn tại dưới dạng cũ; Amazon, công ty mà Zweig lo có thể "thuộc về chủ nợ", sau đó trở thành một trong những công ty có lợi nhuận lớn nhất thế giới (theo hiểu biết của người tổng hợp, không tra cứu).
+- **Dễ hiểu nhầm:** công thức "8,5 + 2g" dùng tốc độ tăng trưởng viết dưới dạng **số phần trăm** (tăng 5%/năm thì g = 5, không phải 0,05). Graham nói rõ công thức không cho "giá trị thật" của cổ phiếu tăng trưởng, chỉ xấp xỉ kết quả của các phép tính phức tạp đang thịnh hành (chú thích 7).

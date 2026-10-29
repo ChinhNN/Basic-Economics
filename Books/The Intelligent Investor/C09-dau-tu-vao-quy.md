@@ -1,21 +1,20 @@
 # Chương 9 — Đầu tư vào các quỹ đầu tư (Investir dans des fonds d'investissement)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 9 "Investir dans des fonds d'investissement" (PDF trang 197–210) và "Commentaire sur le chapitre 9" (PDF trang 210–222). Chú thích cuối sách của Graham cho chương này ở PDF trang 485–486; chú thích của Zweig ở PDF trang 621–626.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 và 5 ([C04](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md), [C05](C05-nha-dau-tu-phong-thu-va-co-phieu.md)) đã dựng chính sách cho nhà đầu tư phòng thủ (defensive investor): chia vốn giữa trái phiếu và cổ phiếu, chọn cổ phiếu lớn, đa dạng hoá, không đầu cơ. Chương 6 và 7 ([C06](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md), [C07](C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md)) bàn việc nên tránh và nên làm của nhà đầu tư năng động; Chương 8 ([C08](C08-nha-dau-tu-va-bien-dong-thi-truong.md)) dạy cách đứng trước biến động giá và ông Thị Trường (Mr. Market). Chương 9 trả lời một câu hỏi thực tế của nhà đầu tư phòng thủ: thay vì tự mua từng cổ phiếu, có nên giao tiền cho quỹ đầu tư không, và nếu có thì chọn quỹ thế nào. Graham dùng số liệu 1961–1970 để cho thấy quỹ nói chung chỉ đạt kết quả xấp xỉ thị trường, cảnh báo về các "quỹ thành tích" (performance funds) cuối thập niên 1960, và rút ra một quy tắc cụ thể: mua quỹ đóng (closed-end fund) đang bán dưới giá trị tài sản ròng thay vì trả phí khoảng 9% để mua quỹ mở. Chương 10 ([C10](C10-nha-dau-tu-va-nguoi-tu-van.md)) đi tiếp sang vai trò của người tư vấn tài chính và người môi giới, tức các hình thức khác của việc nhờ người khác lo tiền cho mình.
-**Ý chính:** Graham muốn người đọc hiểu rằng **quỹ đầu tư là một công cụ hữu ích cho người tiết kiệm bình thường, nhưng xét tổng thể nó không thể tốt hơn thị trường, vì chính các quỹ và các nhà quản lý chuyên nghiệp đã nắm phần lớn cổ phiếu và do đó tạo nên thị trường; ai hứa vượt xa thị trường với số tiền lớn thì phải chấp nhận rủi ro lớn, và rốt cuộc gây thua lỗ cho công chúng.** Cuối năm 1970, Mỹ có 383 quỹ đăng ký với SEC, tổng tài sản 54,6 tỷ USD; mười quỹ cổ phiếu lớn nhất đạt kết quả 1961–1970 gần như bằng chỉ số S&P 500 và tốt hơn chỉ số Dow Jones (DJIA). Ví dụ trung tâm của phần cảnh báo là Manhattan Fund: ra đời cuối năm 1965 với 247 triệu USD, tăng 38,6% năm 1967 (so với 11% của S&P theo bản dịch), rồi sa sút; hai khoản đầu tư lớn nhất của nó phá sản trong vòng sáu tháng sau cuối năm 1969, còn người sáng lập bán công ty quản lý (có tài sản dưới 1 triệu USD) với giá hơn 20 triệu USD. Ví dụ trung tâm của phần khuyến nghị là phép tính so sánh: người mua quỹ mở trả 109% giá trị tài sản, người mua quỹ đóng trả 85% cộng 1,5% hoa hồng; mức chiết khấu của quỹ đóng phải nới rộng từ 15% lên 27% (gần gấp đôi) thì người mua quỹ đóng mới thu được kết quả kém như người mua quỹ mở.
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **quỹ tương hỗ "gần như hoàn hảo" nhưng chính chữ "gần như" làm nên khác biệt: phần lớn quỹ thua thị trường, thu phí quá cao, gây phiền toái về thuế và có kết quả thất thường; chọn quỹ theo thành tích quá khứ là một trong những việc ngớ ngẩn nhất nhà đầu tư có thể làm, còn quỹ chỉ số (index fund) chi phí thấp sẽ thắng phần lớn quỹ trong dài hạn.** Ví dụ trung tâm là "phễu thành tích" của dữ liệu Lipper tính đến 31/12/2002: tỷ lệ quỹ cổ phiếu Mỹ vượt Vanguard 500 Index Fund giảm từ 48,9% (1 năm) xuống 14,9% (20 năm), và phép tính: với lợi suất thị trường 7%/năm trong 20 năm, quỹ chỉ số (chi phí 0,3%/năm) biến 10.000 USD thành hơn 36.000 USD, trong khi quỹ trung bình (chi phí khoảng 3,5%/năm) chỉ đưa lên dưới 20.000 USD. Zweig đưa ra bộ tiêu chí chọn quỹ (người quản lý là cổ đông lớn, chi phí thấp, dám khác biệt, đóng cửa khi quá lớn, không quảng cáo), thứ tự xem xét ngược với số đông (chi phí trước, rủi ro, xếp hạng, cuối cùng mới đến thành tích), và các dấu hiệu nên bán quỹ.
+Graham muốn người đọc hiểu rằng **quỹ đầu tư là một công cụ hữu ích cho người tiết kiệm bình thường, nhưng xét tổng thể nó không thể tốt hơn thị trường, vì chính các quỹ và các nhà quản lý chuyên nghiệp đã nắm phần lớn cổ phiếu và do đó tạo nên thị trường; ai hứa vượt xa thị trường với số tiền lớn thì phải chấp nhận rủi ro lớn, và rốt cuộc gây thua lỗ cho công chúng.**
 
-> **Lưu ý:**
-> - **Các bảng và hình bị thiếu trong bản PDF.** Tableau 9-1 (kết quả của mười quỹ cổ phiếu lớn, 1961–1970), Tableau 9-2 (kết quả hằng năm của Manhattan Fund), Tableau 9-3 (một số số liệu về quỹ đóng, quỹ mở và chỉ số S&P composite, 1961–1970), bảng so sánh Lehman Corp. với General American Investors (văn bản gọi là "tableau 9-5") và Figure 9-1 (số phận các quỹ "nóng" nhất năm 1999) đều chỉ còn là khoảng trắng trên ảnh trang (PDF trang 200, 202–203, 207–208, 209, 212); kiểm tra cấu trúc trang PDF cũng không thấy đối tượng hình ảnh nào. Tiêu đề Tableau 9-3 có in (trang 207) nhưng phần thân bảng trống. Vì vậy bản tổng hợp chỉ ghi lại mọi điều văn bản nói về các bảng này, không chép được số liệu trong bảng. Người tổng hợp không dựng lại số liệu từ trí nhớ để tránh sai. Riêng Figure 9-2 (phễu thành tích) được in dưới dạng chữ và đã chép đủ.
-> - Văn bản dẫn "tableau 9-5" nhưng chương không có Tableau 9-4; theo hiểu biết của người tổng hợp, không tra cứu, trong bản tiếng Anh đây là Table 9-4. Zweig dẫn "l'encadré, p. 255" (trang của bản tiếng Anh); khung đó trong bản PDF là "Pourquoi nous aimons nos conseils Ouija" ở PDF trang 221–222. Chú thích 3 của Graham dẫn "p. 579" cho định nghĩa "letter stock"; định nghĩa đó nằm ở chú thích 1 phần Giới thiệu (PDF trang 481) và đã được chép vào chỗ tương ứng.
-> - Bản dịch máy lệch nghĩa ở nhiều chỗ ảnh hưởng tới hiểu biết: "fonds de chargement" là *load funds* (quỹ thu phí bán hàng), "fonds sans frais" là *no-load funds*; "fonds de lettres" là quỹ chuyên mua *letter stock* (cổ phiếu chưa đăng ký); trong chú thích của Zweig câu "Les fonds boursiers n'existent plus" thực ra là "các quỹ letter-stock không còn tồn tại"; "ses propres bénéfices de sécurité" là "lãi chứng khoán của chính mình" (lãi vốn); "nouvelle ride" là "kiểu mới" (*new wrinkle*), không phải "nếp nhăn"; "interprètes" là "những quỹ có thành tích tốt" (*performers*); "gadgets et gadgets" là "mánh khoé và thủ thuật"; "questions brûlantes" là "cổ phiếu nóng" (*hot issues*); "Prenons comme chèque" là "để kiểm chứng"; "fonds d'actualisation" là "quỹ đóng bán dưới giá trị tài sản" (*discount funds*); "l'homme fermé" là "người mua quỹ đóng". Câu "disparités ... entre les résultats pour le «manager» et les «managers»" theo nghĩa gốc là chênh lệch giữa kết quả của *người quản lý* và của *những người được quản lý* (nhà đầu tư). Câu "succomber au même wilier et aux marchands..." bị dịch hỏng; nghĩa là sa vào mánh khoé của những người bán các đợt phát hành mới hạng hai, hạng ba nguy hiểm hơn nhiều.
-> - Trong bình luận của Zweig: tiêu đề "Haut de la page" là bản dịch sai của tiêu đề kiểu "đứng đầu bảng xếp hạng" (theo hiểu biết của người tổng hợp là *Top of the Charts*); "Éléphantiasis actif" là "chứng phình to tài sản" (*asset elephantiasis*), không phải "chủ động"; "l'élevage" là *herding* (hành vi bầy đàn), không phải "chăn nuôi"; "Les meilleurs fonds sont souvent proches de nouveaux investisseurs" là "thường *đóng cửa* với nhà đầu tư mới" (*closed*, bị dịch thành "gần"); "conseils Ouija" là "bàn cầu cơ Ouija" (*Ouija boards*); "trop gros pour leurs britanniques" là thành ngữ *too big for their britches* (quá to so với sức mình); "acheter de véritables actions" có lẽ là "mua cổ phiếu cực nhỏ"; "fonds.sept" và "Morningstar.dix" là số chú thích 7 và 10 bị chuyển thành chữ.
-> - Con số "11% cho chỉ số S&P composite năm 1967" có vẻ thấp: theo hiểu biết của người tổng hợp, không tra cứu, S&P 500 tăng khoảng hơn 20% năm 1967. Có thể là lỗi trong bản dịch hoặc Graham dùng một cách đo khác; không kiểm chứng được vì Tableau 9-2 bị thiếu.
-> - Chú thích 4 của Graham nói cuốn *Extraordinary Popular Delusions* xuất bản lần đầu năm 1852, còn phần bổ sung của Zweig trong cùng chú thích nói năm 1841 (1852 là năm ấn bản thứ hai, theo hiểu biết của người tổng hợp, không tra cứu).
-> - Ví dụ Nimble Fund của Zweig: 200 triệu USD trên giá trị 500 triệu USD của Minnow Corp. là 40%, văn bản gọi là "gần một nửa".
-> - Số liệu đã cũ: phí bán hàng 9% (1970) nay thấp hơn nhiều (Zweig nói khoảng 5,75% năm 2003; theo hiểu biết của người tổng hợp, nay nhiều quỹ không thu phí); quỹ chỉ số và quỹ ETF giờ có chi phí hằng năm thấp hơn nhiều so với 0,2% Zweig nêu, và hầu hết công ty môi giới Mỹ đã bỏ hoa hồng giao dịch cổ phiếu và ETF (khoảng từ 2019), nên nhược điểm "mỗi lần mua thêm ETF đều phải trả hoa hồng" mà Zweig nêu phần lớn không còn đúng — theo hiểu biết của người tổng hợp, không tra cứu.
+Cuối năm 1970, Mỹ có 383 quỹ đăng ký với SEC, tổng tài sản 54,6 tỷ USD; mười quỹ cổ phiếu lớn nhất đạt kết quả 1961–1970 gần như bằng chỉ số S&P 500 và tốt hơn chỉ số Dow Jones (DJIA).
+
+Ví dụ trung tâm của phần cảnh báo là Manhattan Fund: ra đời cuối năm 1965 với 247 triệu USD, tăng 38,6% năm 1967 (so với 11% của S&P theo bản dịch), rồi sa sút; hai khoản đầu tư lớn nhất của nó phá sản trong vòng sáu tháng sau cuối năm 1969, còn người sáng lập bán công ty quản lý (có tài sản dưới 1 triệu USD) với giá hơn 20 triệu USD.
+
+Ví dụ trung tâm của phần khuyến nghị là phép tính so sánh: người mua quỹ mở trả 109% giá trị tài sản, người mua quỹ đóng trả 85% cộng 1,5% hoa hồng; mức chiết khấu của quỹ đóng phải nới rộng từ 15% lên 27% (gần gấp đôi) thì người mua quỹ đóng mới thu được kết quả kém như người mua quỹ mở.
+
+Zweig, viết năm 2003, bổ sung rằng **quỹ tương hỗ "gần như hoàn hảo" nhưng chính chữ "gần như" làm nên khác biệt: phần lớn quỹ thua thị trường, thu phí quá cao, gây phiền toái về thuế và có kết quả thất thường; chọn quỹ theo thành tích quá khứ là một trong những việc ngớ ngẩn nhất nhà đầu tư có thể làm, còn quỹ chỉ số (index fund) chi phí thấp sẽ thắng phần lớn quỹ trong dài hạn.**
+
+Ví dụ trung tâm là "phễu thành tích" của dữ liệu Lipper tính đến 31/12/2002: tỷ lệ quỹ cổ phiếu Mỹ vượt Vanguard 500 Index Fund giảm từ 48,9% (1 năm) xuống 14,9% (20 năm), và phép tính: với lợi suất thị trường 7%/năm trong 20 năm, quỹ chỉ số (chi phí 0,3%/năm) biến 10.000 USD thành hơn 36.000 USD, trong khi quỹ trung bình (chi phí khoảng 3,5%/năm) chỉ đưa lên dưới 20.000 USD.
+
+Zweig đưa ra bộ tiêu chí chọn quỹ (người quản lý là cổ đông lớn, chi phí thấp, dám khác biệt, đóng cửa khi quá lớn, không quảng cáo), thứ tự xem xét ngược với số đông (chi phí trước, rủi ro, xếp hạng, cuối cùng mới đến thành tích), và các dấu hiệu nên bán quỹ.
 
 ## Sơ đồ
 
@@ -529,7 +528,9 @@ Như vậy, người muốn đầu tư thông minh qua quỹ đứng trước r�
 
 Trước khi trả lời, Graham bàn về thành tích của cả ngành. Ngành quỹ có làm tốt cho cổ đông không, và người đầu tư qua quỹ có làm tốt hơn người tự đầu tư không? Graham chắc chắn rằng quỹ nói chung đã phục vụ một mục đích hữu ích: chúng khuyến khích thói quen tiết kiệm và đầu tư tốt; bảo vệ vô số người khỏi những sai lầm đắt giá trên thị trường cổ phiếu; và mang lại cho người tham gia thu nhập và lợi nhuận tương xứng với lợi suất chung của cổ phiếu. Ông dám đoán rằng, trong mười năm qua, một người bình thường chỉ bỏ tiền vào chứng chỉ quỹ đã làm tốt hơn một người bình thường tự mua cổ phiếu.
 
-Điều này có lẽ đúng ngay cả khi thành tích thực của quỹ không có vẻ tốt hơn cổ phiếu nói chung, và ngay cả khi đầu tư qua quỹ có thể đắt hơn mua trực tiếp. Lý do: lựa chọn thực tế của người bình thường chưa bao giờ là giữa tự xây một danh mục cổ phiếu cân đối và làm điều tương tự qua quỹ với giá đắt hơn chút. Nhiều khả năng hơn, lựa chọn của anh ta là giữa việc nghe theo người bán chứng chỉ quỹ gõ cửa nhà mình, và việc nghe theo những người bán các đợt phát hành mới hạng hai, hạng ba nguy hiểm hơn nhiều. Graham cũng cho rằng người bình thường mở tài khoản môi giới với ý định đầu tư cổ phiếu thận trọng dễ bị những ảnh hưởng không mong muốn kéo về phía đầu cơ và thua lỗ đầu cơ; người mua quỹ mở ít gặp những cám dỗ này hơn nhiều.
+Điều này có lẽ đúng ngay cả khi thành tích thực của quỹ không có vẻ tốt hơn cổ phiếu nói chung, và ngay cả khi đầu tư qua quỹ có thể đắt hơn mua trực tiếp. Lý do: lựa chọn thực tế của người bình thường chưa bao giờ là giữa tự xây một danh mục cổ phiếu cân đối và làm điều tương tự qua quỹ với giá đắt hơn chút. Nhiều khả năng hơn, lựa chọn của anh ta là giữa việc nghe theo người bán chứng chỉ quỹ gõ cửa nhà mình, và việc nghe theo những người bán các đợt phát hành mới hạng hai, hạng ba nguy hiểm hơn nhiều.
+
+Graham cũng cho rằng người bình thường mở tài khoản môi giới với ý định đầu tư cổ phiếu thận trọng dễ bị những ảnh hưởng không mong muốn kéo về phía đầu cơ và thua lỗ đầu cơ; người mua quỹ mở ít gặp những cám dỗ này hơn nhiều.
 
 Vậy quỹ đã làm thế nào so với thị trường chung? Graham thừa nhận đây là chủ đề gây tranh cãi và chọn cách xử lý đơn giản nhưng đủ.
 
@@ -548,15 +549,23 @@ Graham rút ra ba điều từ bảng:
 2. Thành tích của quỹ so với S&P đã cải thiện phần nào trong năm năm gần đây so với năm năm trước: quỹ tăng ít hơn S&P chút ít trong 1961–1965 và nhiều hơn chút ít trong 1966–1970.
 3. Kết quả giữa các quỹ riêng lẻ chênh lệch rất lớn.
 
-Graham không cho rằng có thể chê ngành quỹ vì không làm tốt hơn thị trường. Các nhà quản lý quỹ và các đối thủ chuyên nghiệp của họ quản lý một phần quá lớn trong tổng số cổ phiếu có thể giao dịch, nên điều xảy ra với thị trường nói chung tất yếu (xấp xỉ) cũng xảy ra với tổng các quỹ của họ. Ông dẫn số: tài sản tín thác của các ngân hàng thương mại có bảo hiểm gồm 181 tỷ USD cổ phiếu vào cuối năm 1969; cộng thêm cổ phiếu trong các tài khoản do người tư vấn đầu tư quản lý, cộng 56 tỷ USD của quỹ tương hỗ và các quỹ tương tự, thì phải kết luận rằng quyết định chung của những người chuyên nghiệp này quyết định phần lớn biến động của các chỉ số bình quân, và biến động của các chỉ số quyết định phần lớn kết quả tổng của các quỹ.
+Graham không cho rằng có thể chê ngành quỹ vì không làm tốt hơn thị trường. Các nhà quản lý quỹ và các đối thủ chuyên nghiệp của họ quản lý một phần quá lớn trong tổng số cổ phiếu có thể giao dịch, nên điều xảy ra với thị trường nói chung tất yếu (xấp xỉ) cũng xảy ra với tổng các quỹ của họ.
 
-Có quỹ nào tốt hơn trung bình, và nhà đầu tư có chọn được chúng để đạt kết quả vượt trội cho mình không? Rõ ràng không phải mọi nhà đầu tư đều làm được, vì nếu vậy mọi người sẽ sớm quay về điểm xuất phát, không ai hơn ai. Xét đơn giản: tại sao nhà đầu tư không tìm ra quỹ có thành tích tốt nhất trong đủ nhiều năm qua, giả định rằng ban quản lý của quỹ đó giỏi nhất và sẽ tiếp tục hơn trung bình, rồi bỏ tiền vào đó? Ý tưởng này càng có vẻ khả thi vì với quỹ mở, nhà đầu tư có được "ban quản lý giỏi nhất" mà không phải trả giá phụ trội so với các quỹ khác. (Ngược lại, với các công ty không phải công ty đầu tư, công ty được quản lý tốt nhất bán ở giá cao so với lợi nhuận và tài sản hiện tại.)
+Ông dẫn số: tài sản tín thác của các ngân hàng thương mại có bảo hiểm gồm 181 tỷ USD cổ phiếu vào cuối năm 1969; cộng thêm cổ phiếu trong các tài khoản do người tư vấn đầu tư quản lý, cộng 56 tỷ USD của quỹ tương hỗ và các quỹ tương tự, thì phải kết luận rằng quyết định chung của những người chuyên nghiệp này quyết định phần lớn biến động của các chỉ số bình quân, và biến động của các chỉ số quyết định phần lớn kết quả tổng của các quỹ.
 
-Bằng chứng về điểm này qua các năm trái ngược nhau. Nhưng Tableau 9-1 cho thấy kết quả của năm quỹ tốt nhất giai đoạn 1961–1965 nhìn chung được duy trì sang 1966–1970, dù hai quỹ trong nhóm đó không làm tốt bằng hai quỹ của nhóm năm quỹ còn lại. Các nghiên cứu của Graham cho thấy người đầu tư vào quỹ mở có thể cân nhắc đúng đắn thành tích so sánh trong một số năm quá khứ, ít nhất là năm năm, **với điều kiện** số liệu đó không phản ánh một đợt tăng mạnh của cả thị trường. Trong trường hợp đó, kết quả thuận lợi ngoạn mục có thể đạt được bằng cách không chính thống, như mục tiếp theo về các quỹ "thành tích" sẽ cho thấy. Bản thân những kết quả như vậy có thể chỉ chứng tỏ người quản lý quỹ đang chịu rủi ro đầu cơ quá mức và tạm thời thoát được.
+Có quỹ nào tốt hơn trung bình, và nhà đầu tư có chọn được chúng để đạt kết quả vượt trội cho mình không? Rõ ràng không phải mọi nhà đầu tư đều làm được, vì nếu vậy mọi người sẽ sớm quay về điểm xuất phát, không ai hơn ai.
+
+Xét đơn giản: tại sao nhà đầu tư không tìm ra quỹ có thành tích tốt nhất trong đủ nhiều năm qua, giả định rằng ban quản lý của quỹ đó giỏi nhất và sẽ tiếp tục hơn trung bình, rồi bỏ tiền vào đó? Ý tưởng này càng có vẻ khả thi vì với quỹ mở, nhà đầu tư có được "ban quản lý giỏi nhất" mà không phải trả giá phụ trội so với các quỹ khác. (Ngược lại, với các công ty không phải công ty đầu tư, công ty được quản lý tốt nhất bán ở giá cao so với lợi nhuận và tài sản hiện tại.)
+
+Bằng chứng về điểm này qua các năm trái ngược nhau. Nhưng Tableau 9-1 cho thấy kết quả của năm quỹ tốt nhất giai đoạn 1961–1965 nhìn chung được duy trì sang 1966–1970, dù hai quỹ trong nhóm đó không làm tốt bằng hai quỹ của nhóm năm quỹ còn lại.
+
+Các nghiên cứu của Graham cho thấy người đầu tư vào quỹ mở có thể cân nhắc đúng đắn thành tích so sánh trong một số năm quá khứ, ít nhất là năm năm, **với điều kiện** số liệu đó không phản ánh một đợt tăng mạnh của cả thị trường. Trong trường hợp đó, kết quả thuận lợi ngoạn mục có thể đạt được bằng cách không chính thống, như mục tiếp theo về các quỹ "thành tích" sẽ cho thấy. Bản thân những kết quả như vậy có thể chỉ chứng tỏ người quản lý quỹ đang chịu rủi ro đầu cơ quá mức và tạm thời thoát được.
 
 #### 3. Các quỹ "thành tích" (Fonds «Performance», PDF trang 202–206)
 
-Một hiện tượng mới của những năm gần đây là sự sùng bái "thành tích" trong quản lý quỹ đầu tư (và cả nhiều quỹ tín thác). Graham nhấn mạnh trước rằng cảnh báo sau đây không áp dụng cho đại đa số quỹ lâu đời, mà chỉ cho một phần tương đối nhỏ của ngành nhưng thu hút sự chú ý quá mức. Câu chuyện khá đơn giản: một số người quản lý tìm cách đạt kết quả tốt hơn nhiều so với trung bình (hay DJIA). Họ làm được trong một thời gian, được quảng bá nhiều và nhận thêm tiền để quản lý. Mục tiêu đó đủ chính đáng; nhưng có vẻ như khi đầu tư những khoản tiền thật lớn, mục tiêu đó không thể đạt được mà không chịu rủi ro đáng kể. Và chỉ trong thời gian tương đối ngắn, rủi ro đã thành hiện thực.
+Một hiện tượng mới của những năm gần đây là sự sùng bái "thành tích" trong quản lý quỹ đầu tư (và cả nhiều quỹ tín thác). Graham nhấn mạnh trước rằng cảnh báo sau đây không áp dụng cho đại đa số quỹ lâu đời, mà chỉ cho một phần tương đối nhỏ của ngành nhưng thu hút sự chú ý quá mức.
+
+Câu chuyện khá đơn giản: một số người quản lý tìm cách đạt kết quả tốt hơn nhiều so với trung bình (hay DJIA). Họ làm được trong một thời gian, được quảng bá nhiều và nhận thêm tiền để quản lý. Mục tiêu đó đủ chính đáng; nhưng có vẻ như khi đầu tư những khoản tiền thật lớn, mục tiêu đó không thể đạt được mà không chịu rủi ro đáng kể. Và chỉ trong thời gian tương đối ngắn, rủi ro đã thành hiện thực.
 
 Nhiều hoàn cảnh quanh hiện tượng "thành tích" khiến những người có kinh nghiệm lâu năm — thậm chí từ thập niên 1920 — lo lắng, dù chính vì kinh nghiệm đó mà quan điểm của họ bị coi là lỗi thời và không liên quan tới "Kỷ nguyên mới" (New Era) thứ hai này:
 - Trước hết, gần như mọi "ngôi sao" đều là người trẻ, ở tuổi ba mươi, bốn mươi, mà kinh nghiệm tài chính trực tiếp chỉ gồm thị trường tăng giá gần như liên tục 1948–1968.
@@ -593,9 +602,15 @@ Chú thích 3 của Graham dẫn sang định nghĩa letter stock (ở chú thí
 
 Graham thấy đáng kinh ngạc là, trong một bầu không khí quy định và cấm đoán hoàn toàn khác, Phố Wall vẫn tái tạo được nhiều thái quá và sai lầm của thập niên 1920. Chắc chắn sẽ có quy định và lệnh cấm mới, và các lạm dụng cụ thể cuối thập niên 1960 sẽ bị loại bỏ khá triệt để. Nhưng có lẽ là quá kỳ vọng khi mong ham muốn đầu cơ biến mất hoặc việc khai thác ham muốn đó bị dẹp bỏ. Một phần "vũ khí" của nhà đầu tư thông minh là biết về những "ảo tưởng phổ biến phi thường" này và tránh xa chúng càng nhiều càng tốt.
 
-Chú thích 4 của Graham (phần in đậm là của Zweig): "Extraordinary Popular Delusions" là tên một cuốn sách được nhắc là xuất bản lần đầu năm 1852, mô tả "bong bóng Biển Nam" (South Sea Bubble), cơn sốt hoa tulip và các cơn cuồng đầu cơ khác trong quá khứ; Bernard M. Baruch, có lẽ là nhà đầu cơ thành công bền bỉ duy nhất của thời gần đây, cho in lại năm 1932 — Graham nhận xét như vậy là "khoá cửa chuồng sau khi ngựa đã bị trộm". Phần của Zweig: *Extraordinary Popular Delusions and the Madness of Crowds* của Charles Mackay (Metro Books, New York, 2002) được xuất bản lần đầu năm 1841; không dễ đọc và không phải lúc nào cũng chính xác, nhưng là một khảo sát kỹ về việc đám đông thường tin những điều rất ngớ ngẩn — rằng sắt có thể biến thành vàng, ma quỷ hay hiện ra tối thứ Sáu, và có thể làm giàu nhanh trên thị trường chứng khoán. Để đọc một tường thuật chính xác hơn, Zweig giới thiệu *Devil Take the Hindmost* của Edward Chancellor (Farrar, Straus & Giroux, New York, 1999); bản nhẹ nhàng hơn là *Markets, Mobs & Mayhem: A Modern Look at the Madness of Crowds* của Robert Menschel (John Wiley & Sons, New York, 2002).
+Chú thích 4 của Graham (phần in đậm là của Zweig): "Extraordinary Popular Delusions" là tên một cuốn sách được nhắc là xuất bản lần đầu năm 1852, mô tả "bong bóng Biển Nam" (South Sea Bubble), cơn sốt hoa tulip và các cơn cuồng đầu cơ khác trong quá khứ; Bernard M. Baruch, có lẽ là nhà đầu cơ thành công bền bỉ duy nhất của thời gần đây, cho in lại năm 1932 — Graham nhận xét như vậy là "khoá cửa chuồng sau khi ngựa đã bị trộm".
 
-Bức tranh của phần lớn quỹ thành tích là xấu nếu tính từ sau thành tích ngoạn mục năm 1967. Nếu tính cả 1967, kết quả tổng thể không hề thảm hại. Trên cơ sở đó, trong số các nhà quản lý của *The Money Managers*, một người làm tốt hơn chỉ số S&P composite chút ít, ba người làm kém rõ rệt và sáu người làm xấp xỉ. Để kiểm chứng, Graham lấy một nhóm quỹ thành tích khác: mười quỹ có kết quả tốt nhất năm 1967, với mức tăng từ 84% đến 301% trong năm đó. Trong số này, bốn quỹ có kết quả tổng bốn năm tốt hơn S&P nếu tính cả lãi năm 1967; và hai quỹ vượt chỉ số trong 1968–1970. Không quỹ nào lớn; quy mô trung bình khoảng 60 triệu USD. Graham thấy đây là dấu hiệu mạnh rằng quy mô nhỏ là điều kiện cần để liên tục đạt kết quả xuất sắc.
+Phần của Zweig: *Extraordinary Popular Delusions and the Madness of Crowds* của Charles Mackay (Metro Books, New York, 2002) được xuất bản lần đầu năm 1841; không dễ đọc và không phải lúc nào cũng chính xác, nhưng là một khảo sát kỹ về việc đám đông thường tin những điều rất ngớ ngẩn — rằng sắt có thể biến thành vàng, ma quỷ hay hiện ra tối thứ Sáu, và có thể làm giàu nhanh trên thị trường chứng khoán.
+
+Để đọc một tường thuật chính xác hơn, Zweig giới thiệu *Devil Take the Hindmost* của Edward Chancellor (Farrar, Straus & Giroux, New York, 1999); bản nhẹ nhàng hơn là *Markets, Mobs & Mayhem: A Modern Look at the Madness of Crowds* của Robert Menschel (John Wiley & Sons, New York, 2002).
+
+Bức tranh của phần lớn quỹ thành tích là xấu nếu tính từ sau thành tích ngoạn mục năm 1967. Nếu tính cả 1967, kết quả tổng thể không hề thảm hại. Trên cơ sở đó, trong số các nhà quản lý của *The Money Managers*, một người làm tốt hơn chỉ số S&P composite chút ít, ba người làm kém rõ rệt và sáu người làm xấp xỉ.
+
+Để kiểm chứng, Graham lấy một nhóm quỹ thành tích khác: mười quỹ có kết quả tốt nhất năm 1967, với mức tăng từ 84% đến 301% trong năm đó. Trong số này, bốn quỹ có kết quả tổng bốn năm tốt hơn S&P nếu tính cả lãi năm 1967; và hai quỹ vượt chỉ số trong 1968–1970. Không quỹ nào lớn; quy mô trung bình khoảng 60 triệu USD. Graham thấy đây là dấu hiệu mạnh rằng quy mô nhỏ là điều kiện cần để liên tục đạt kết quả xuất sắc.
 
 Kết luận ngầm của phần trên là việc theo đuổi thành tích vượt trội của các nhà quản lý quỹ có thể kéo theo rủi ro đặc biệt. Cho tới nay, mọi kinh nghiệm tài chính cho thấy các quỹ lớn, được quản lý tốt, nhiều lắm chỉ đạt kết quả nhỉnh hơn trung bình chút ít qua các năm. Nếu quản lý kém, chúng có thể tạo ra lợi nhuận ngoạn mục nhưng phần lớn là ảo trong một thời gian, rồi tất yếu là thua lỗ thảm hại. Đã có những quỹ liên tục vượt thị trường trong khoảng mười năm trở lên; nhưng đó là những ngoại lệ hiếm, phần lớn hoạt động trong các lĩnh vực chuyên biệt, tự giới hạn số vốn sử dụng, và không được chào bán tích cực cho công chúng.
 
@@ -603,7 +618,9 @@ Chú thích của Zweig: "ngoại lệ hiếm" của Graham ngày nay thường 
 
 #### 4. Quỹ đóng hay quỹ mở (Fonds à capital fixe ou à capital variable, PDF trang 206–209)
 
-Gần như mọi quỹ mở — cho phép người nắm giữ rút tiền mỗi ngày định giá danh mục — đều có bộ máy tương ứng để bán cổ phần mới. Nhờ vậy phần lớn chúng lớn dần qua các năm. Các quỹ đóng, hầu hết được lập từ lâu, có cơ cấu vốn cố định nên tầm quan trọng tương đối (tính bằng USD) giảm dần. Quỹ mở được hàng nghìn người bán hàng năng nổ, khéo thuyết phục chào mời; còn cổ phần quỹ đóng không ai đặc biệt muốn phân phối. Kết quả là phần lớn quỹ mở bán được cho công chúng với mức phụ trội cố định khoảng 9% trên giá trị tài sản ròng (để trả hoa hồng người bán, v.v.), trong khi phần lớn cổ phần quỹ đóng luôn mua được với giá *thấp hơn* giá trị tài sản. Mức chiết khấu này khác nhau giữa các quỹ, và mức chiết khấu bình quân của cả nhóm cũng thay đổi theo thời gian.
+Gần như mọi quỹ mở — cho phép người nắm giữ rút tiền mỗi ngày định giá danh mục — đều có bộ máy tương ứng để bán cổ phần mới. Nhờ vậy phần lớn chúng lớn dần qua các năm. Các quỹ đóng, hầu hết được lập từ lâu, có cơ cấu vốn cố định nên tầm quan trọng tương đối (tính bằng USD) giảm dần.
+
+Quỹ mở được hàng nghìn người bán hàng năng nổ, khéo thuyết phục chào mời; còn cổ phần quỹ đóng không ai đặc biệt muốn phân phối. Kết quả là phần lớn quỹ mở bán được cho công chúng với mức phụ trội cố định khoảng 9% trên giá trị tài sản ròng (để trả hoa hồng người bán, v.v.), trong khi phần lớn cổ phần quỹ đóng luôn mua được với giá *thấp hơn* giá trị tài sản. Mức chiết khấu này khác nhau giữa các quỹ, và mức chiết khấu bình quân của cả nhóm cũng thay đổi theo thời gian.
 
 **Số liệu về quỹ đóng, quỹ mở và chỉ số S&P composite, 1961–1970 (Tableau 9-3 trong sách, tiêu đề tiếng Pháp: "Certaines données sur les fonds à capital fixe, les fonds communs de placement et l'indice composé S & P").** Tiêu đề bảng có in ở PDF trang 207, nhưng thân bảng không có trong bản PDF (khoảng trắng đầu PDF trang 208). Theo văn bản, bảng cho biết mức chiết khấu bình quân của quỹ đóng qua các năm 1961–1970 và kết quả hằng năm 1961–1970 của hai nhóm quỹ (đóng và mở), so với S&P composite.
 
@@ -613,7 +630,9 @@ Từ đó ông đi tới một trong số ít quy tắc rõ ràng cho lựa ch�
 
 Người bán quỹ mở sẽ nhanh chóng phản bác: "À, nhưng nếu ông mua quỹ đóng, ông không bao giờ chắc bán được ở giá nào. Chiết khấu có thể rộng hơn bây giờ, và ông sẽ chịu thiệt vì chênh lệch rộng hơn. Với cổ phần của chúng tôi, ông có quyền bán lại ở 100% giá trị tài sản, không bao giờ thấp hơn." Graham coi việc xem xét lập luận này là một bài tập tốt về logic và lẽ thường. Câu hỏi: giả sử chiết khấu của quỹ đóng nới rộng, khả năng ông bị thiệt hơn khi mua quỹ đóng (trong khi mọi thứ khác tương đương) là bao nhiêu?
 
-Graham tính như sau. Nhà đầu tư A mua quỹ mở ở 109% giá trị tài sản; nhà đầu tư B mua quỹ đóng ở 85% giá trị tài sản, cộng 1,5% hoa hồng. Cả hai danh mục kiếm được và chia ra 30% giá trị tài sản đó trong, chẳng hạn, bốn năm, và cuối kỳ có giá trị tài sản bằng lúc đầu. A bán lại cổ phần ở 100% giá trị, mất 9 điểm phụ trội đã trả. Lợi suất tổng của A trong kỳ là 30% trừ 9%, tức 21% tính trên giá trị tài sản, bằng khoảng 19% số tiền A bỏ ra (21/109). Vậy B phải bán quỹ đóng ở giá bao nhiêu để có cùng lợi suất 19% như A? Câu trả lời là 73% giá trị tài sản, tức chiết khấu 27%. Nói cách khác, người mua quỹ đóng có thể chịu chiết khấu thị trường nới rộng thêm 12 điểm (từ 15% lên 27%, gần gấp đôi) trước khi lợi suất của anh ta giảm xuống bằng người mua quỹ mở. (Kiểm tra: B bỏ ra khoảng 86,5% giá trị tài sản; lãi 19% thì cần thu về khoảng 103; trừ 30 đã nhận thì phải bán ở khoảng 73.)
+Graham tính như sau. Nhà đầu tư A mua quỹ mở ở 109% giá trị tài sản; nhà đầu tư B mua quỹ đóng ở 85% giá trị tài sản, cộng 1,5% hoa hồng. Cả hai danh mục kiếm được và chia ra 30% giá trị tài sản đó trong, chẳng hạn, bốn năm, và cuối kỳ có giá trị tài sản bằng lúc đầu. A bán lại cổ phần ở 100% giá trị, mất 9 điểm phụ trội đã trả. Lợi suất tổng của A trong kỳ là 30% trừ 9%, tức 21% tính trên giá trị tài sản, bằng khoảng 19% số tiền A bỏ ra (21/109).
+
+Vậy B phải bán quỹ đóng ở giá bao nhiêu để có cùng lợi suất 19% như A? Câu trả lời là 73% giá trị tài sản, tức chiết khấu 27%. Nói cách khác, người mua quỹ đóng có thể chịu chiết khấu thị trường nới rộng thêm 12 điểm (từ 15% lên 27%, gần gấp đôi) trước khi lợi suất của anh ta giảm xuống bằng người mua quỹ mở. (Kiểm tra: B bỏ ra khoảng 86,5% giá trị tài sản; lãi 19% thì cần thu về khoảng 103; trừ 30 đã nhận thì phải bán ở khoảng 73.)
 
 | Bước tính (đơn vị: % giá trị tài sản ròng ban đầu) | Nhà đầu tư A — quỹ mở | Nhà đầu tư B — quỹ đóng |
 |---|---|---|
@@ -625,13 +644,17 @@ Graham tính như sau. Nhà đầu tư A mua quỹ mở ở 109% giá trị tài
 
 Theo Graham, một thay đổi bất lợi cỡ đó hiếm khi, hoặc chưa bao giờ, xảy ra trong lịch sử quỹ đóng. Vì vậy rất khó có chuyện ông nhận lợi suất tổng thấp hơn từ một quỹ đóng (tiêu biểu) mua ở giá chiết khấu, nếu kết quả đầu tư của nó xấp xỉ một quỹ mở tiêu biểu. Nếu thay quỹ mở có phí thông thường "8,5%" bằng một quỹ phí thấp (hoặc không phí), lợi thế của quỹ đóng dĩ nhiên giảm đi, nhưng vẫn còn.
 
-Việc một số ít quỹ đóng bán ở mức *phụ trội* cao hơn cả mức phí thực 9% của phần lớn quỹ mở đặt ra một câu hỏi riêng: các quỹ "cao cấp" này có ban quản lý giỏi hơn, được chứng minh đủ để biện minh cho giá cao không? Nếu tìm câu trả lời trong kết quả so sánh 5 hay 10 năm qua, câu trả lời có vẻ là không. Ba trong sáu quỹ có giá phụ trội chủ yếu đầu tư ra nước ngoài. Điểm nổi bật của chúng là giá dao động rất mạnh trong vài năm: cuối năm 1970, một quỹ chỉ còn bán ở một phần tư giá đỉnh, một quỹ ở một phần ba, một quỹ dưới một nửa. Xét ba quỹ trong nước bán trên giá trị tài sản, bình quân lợi suất tổng 10 năm của chúng tốt hơn chút ít so với mười quỹ bán chiết khấu, nhưng trong 5 năm gần nhất thì ngược lại.
+Việc một số ít quỹ đóng bán ở mức *phụ trội* cao hơn cả mức phí thực 9% của phần lớn quỹ mở đặt ra một câu hỏi riêng: các quỹ "cao cấp" này có ban quản lý giỏi hơn, được chứng minh đủ để biện minh cho giá cao không? Nếu tìm câu trả lời trong kết quả so sánh 5 hay 10 năm qua, câu trả lời có vẻ là không.
+
+Ba trong sáu quỹ có giá phụ trội chủ yếu đầu tư ra nước ngoài. Điểm nổi bật của chúng là giá dao động rất mạnh trong vài năm: cuối năm 1970, một quỹ chỉ còn bán ở một phần tư giá đỉnh, một quỹ ở một phần ba, một quỹ dưới một nửa. Xét ba quỹ trong nước bán trên giá trị tài sản, bình quân lợi suất tổng 10 năm của chúng tốt hơn chút ít so với mười quỹ bán chiết khấu, nhưng trong 5 năm gần nhất thì ngược lại.
 
 **So sánh Lehman Corp. và General American Investors, 1961–1970 (văn bản gọi là "tableau 9-5"; theo hiểu biết của người tổng hợp là Table 9-4 trong bản tiếng Anh).** Bảng không có trong bản PDF (khoảng trắng ở PDF trang 209). Văn bản cho biết: đây là hai trong số các quỹ đóng lâu đời và lớn nhất; cuối năm 1970, một quỹ bán cao hơn 14% và quỹ kia thấp hơn 7,6% so với giá trị tài sản ròng; và theo Graham, kết quả 1961–1970 trong bảng không biện minh cho chênh lệch về tỷ lệ giá trên tài sản ròng giữa hai quỹ.
 
 #### 5. Đầu tư vào quỹ cân bằng (Investissement dans des fonds équilibrés, PDF trang 209–210)
 
-23 quỹ cân bằng trong báo cáo của Wiesenberger (công ty chuyên thống kê về các công ty đầu tư) giữ từ 25% đến 59% tài sản ở cổ phiếu ưu đãi và trái phiếu, bình quân chỉ 40%; phần còn lại là cổ phiếu phổ thông. Graham cho rằng nhà đầu tư điển hình nên tự thực hiện phần đầu tư kiểu trái phiếu của mình thì hợp lý hơn là để nó nằm trong một khoản đầu tư qua quỹ. Lợi suất thu nhập bình quân của các quỹ cân bằng này năm 1970 chỉ 3,9%/năm trên giá trị tài sản, tức 3,6% trên giá chào bán. Lựa chọn tốt hơn cho phần trái phiếu là mua trái phiếu tiết kiệm của Chính phủ Mỹ (U.S. savings bonds), trái phiếu doanh nghiệp xếp hạng A trở lên, hoặc trái phiếu miễn thuế cho danh mục trái phiếu của nhà đầu tư.
+23 quỹ cân bằng trong báo cáo của Wiesenberger (công ty chuyên thống kê về các công ty đầu tư) giữ từ 25% đến 59% tài sản ở cổ phiếu ưu đãi và trái phiếu, bình quân chỉ 40%; phần còn lại là cổ phiếu phổ thông. Graham cho rằng nhà đầu tư điển hình nên tự thực hiện phần đầu tư kiểu trái phiếu của mình thì hợp lý hơn là để nó nằm trong một khoản đầu tư qua quỹ.
+
+Lợi suất thu nhập bình quân của các quỹ cân bằng này năm 1970 chỉ 3,9%/năm trên giá trị tài sản, tức 3,6% trên giá chào bán. Lựa chọn tốt hơn cho phần trái phiếu là mua trái phiếu tiết kiệm của Chính phủ Mỹ (U.S. savings bonds), trái phiếu doanh nghiệp xếp hạng A trở lên, hoặc trái phiếu miễn thuế cho danh mục trái phiếu của nhà đầu tư.
 
 ### Phần B — Bình luận của Jason Zweig (2003)
 
@@ -683,11 +706,15 @@ Chú thích 3 của Zweig: điều này không có nghĩa là hai quỹ sẽ là
 
 Cuối cùng, khi Quỹ Nimble quy mô 100 triệu USD đặt 2% tài sản (2 triệu USD) vào Minnow Corp., cổ phiếu có tổng giá trị thị trường 500 triệu USD, quỹ mua chưa tới nửa phần trăm (0,4%) của Minnow. Nhưng nếu thành tích nóng làm Nimble Fund phình lên 10 tỷ USD, thì 2% tài sản là 200 triệu USD, gần nửa giá trị của Minnow (đúng ra là 40%), một mức sở hữu mà luật liên bang thậm chí không cho phép. Nếu người quản lý vẫn muốn nắm cổ phiếu nhỏ, anh ta phải rải tiền ra nhiều công ty hơn, và có lẽ sẽ phân tán sự chú ý quá mức.
 
-**Mánh khoé tinh vi (Plus de jeu de jambes sophistiqué).** Một số công ty chuyên "ấp" (incubate) quỹ: thử nghiệm riêng trước khi bán ra công chúng (thường cổ đông duy nhất là nhân viên và công ty liên kết của chính công ty quỹ). Bằng cách giữ quỹ thật nhỏ, nhà tài trợ dùng chúng như chuột bạch cho các chiến lược rủi ro chỉ hiệu quả với số tiền nhỏ, như mua những cổ phiếu cực nhỏ hay lướt sóng các đợt IPO. Nếu chiến lược thành công, quỹ có thể thu hút ồ ạt nhà đầu tư công chúng bằng cách quảng bá lợi suất thời còn "ấp". Trường hợp khác, người quản lý "miễn" (không thu) phí quản lý để tăng lợi suất ròng, rồi áp phí sau khi lợi suất cao đã kéo được nhiều khách. Gần như không có ngoại lệ, lợi suất của các quỹ "ấp" và quỹ được miễn phí đều tan biến thành tầm thường sau khi nhà đầu tư bên ngoài đổ vào hàng triệu USD.
+**Mánh khoé tinh vi (Plus de jeu de jambes sophistiqué).** Một số công ty chuyên "ấp" (incubate) quỹ: thử nghiệm riêng trước khi bán ra công chúng (thường cổ đông duy nhất là nhân viên và công ty liên kết của chính công ty quỹ). Bằng cách giữ quỹ thật nhỏ, nhà tài trợ dùng chúng như chuột bạch cho các chiến lược rủi ro chỉ hiệu quả với số tiền nhỏ, như mua những cổ phiếu cực nhỏ hay lướt sóng các đợt IPO. Nếu chiến lược thành công, quỹ có thể thu hút ồ ạt nhà đầu tư công chúng bằng cách quảng bá lợi suất thời còn "ấp".
+
+Trường hợp khác, người quản lý "miễn" (không thu) phí quản lý để tăng lợi suất ròng, rồi áp phí sau khi lợi suất cao đã kéo được nhiều khách. Gần như không có ngoại lệ, lợi suất của các quỹ "ấp" và quỹ được miễn phí đều tan biến thành tầm thường sau khi nhà đầu tư bên ngoài đổ vào hàng triệu USD.
 
 **Chi phí tăng (Augmentation des dépenses).** Giao dịch cổ phiếu theo lô rất lớn thường đắt hơn theo lô nhỏ, vì ít người mua bán hơn nên khó khớp lệnh. Một quỹ 100 triệu USD có thể trả 1%/năm phí giao dịch; nhưng nếu lợi suất cao đẩy quỹ lên 10 tỷ USD, giao dịch có thể dễ dàng ngốn ít nhất 2% tài sản. Quỹ điển hình chỉ giữ cổ phiếu khoảng 11 tháng, nên chi phí giao dịch ăn mòn lợi suất như axit. Trong khi đó, các chi phí hoạt động khác hiếm khi giảm, thậm chí có khi tăng, khi tài sản tăng. Với chi phí hoạt động bình quân 1,5% và phí giao dịch khoảng 2%, quỹ điển hình phải thắng thị trường 3,5 điểm phần trăm mỗi năm trước chi phí chỉ để bằng thị trường sau chi phí.
 
-**Hành vi bầy đàn (Comportement ovin).** Cuối cùng, khi một quỹ đã thành công, người quản lý có xu hướng trở nên rụt rè và bắt chước. Quỹ càng lớn, phí càng béo bở, nên người quản lý ngại "làm chòng chành thuyền". Chính những rủi ro họ từng chấp nhận để tạo lợi suất cao ban đầu giờ có thể làm nhà đầu tư sợ và đe doạ khoản thu phí lớn. Vì thế các quỹ lớn nhất giống như một đàn cừu giống hệt nhau, được vỗ béo, cùng chậm chạp di chuyển và cùng kêu "be be". Gần như mọi quỹ tăng trưởng đều nắm Cisco, GE, Microsoft, Pfizer và Wal-Mart, với tỷ trọng gần như y hệt. Hành vi này phổ biến đến mức giới nghiên cứu gọi nó đơn giản là "herding" (hành vi bầy đàn; bản dịch tiếng Pháp in sai thành "l'élevage", nghĩa là chăn nuôi). Nhưng khi bảo vệ nguồn thu phí của mình, người quản lý quỹ làm hại khả năng tạo lợi suất vượt trội cho nhà đầu tư bên ngoài.
+**Hành vi bầy đàn (Comportement ovin).** Cuối cùng, khi một quỹ đã thành công, người quản lý có xu hướng trở nên rụt rè và bắt chước. Quỹ càng lớn, phí càng béo bở, nên người quản lý ngại "làm chòng chành thuyền". Chính những rủi ro họ từng chấp nhận để tạo lợi suất cao ban đầu giờ có thể làm nhà đầu tư sợ và đe doạ khoản thu phí lớn.
+
+Vì thế các quỹ lớn nhất giống như một đàn cừu giống hệt nhau, được vỗ béo, cùng chậm chạp di chuyển và cùng kêu "be be". Gần như mọi quỹ tăng trưởng đều nắm Cisco, GE, Microsoft, Pfizer và Wal-Mart, với tỷ trọng gần như y hệt. Hành vi này phổ biến đến mức giới nghiên cứu gọi nó đơn giản là "herding" (hành vi bầy đàn; bản dịch tiếng Pháp in sai thành "l'élevage", nghĩa là chăn nuôi). Nhưng khi bảo vệ nguồn thu phí của mình, người quản lý quỹ làm hại khả năng tạo lợi suất vượt trội cho nhà đầu tư bên ngoài.
 
 Chú thích 4 của Zweig: có bài học thứ hai ở đây — để thành công, nhà đầu tư cá nhân hoặc phải tránh mua sắm trong cùng danh sách cổ phiếu ưa thích mà các định chế khổng lồ đã chọn, hoặc phải nắm chúng kiên nhẫn hơn nhiều. Zweig dẫn các nghiên cứu của Sirri và Tufano (1998), Brown, Harlow và Starks (1996), Lakonishok, Shleifer và Vishny (1997), Eakins, Stansell và Wertheim (1998), Gompers và Metrick (2001).
 
@@ -721,7 +748,9 @@ Trước hết, hãy thừa nhận rằng một quỹ chỉ số — nắm mọi
 
 Kết quả của quỹ trung bình ít hơn gần 50% so với quỹ chỉ số. (Kiểm tra: 1,067 lũy thừa 20 xấp xỉ 3,66; 1,035 lũy thừa 20 xấp xỉ 1,99.)
 
-Quỹ chỉ số chỉ có một khuyết điểm đáng kể: chúng nhàm chán. Bạn sẽ không bao giờ khoe được ở bữa tiệc nướng rằng mình sở hữu quỹ tốt nhất nước, hay khoe đã thắng thị trường, vì nhiệm vụ của quỹ chỉ số là bằng thị trường chứ không vượt nó. Người quản lý quỹ chỉ số sẽ không "đổ xúc xắc" đặt cược rằng ngành lớn tiếp theo là dịch chuyển tức thời, trang web cào trúng thưởng hay phòng khám giảm cân bằng thần giao cách cảm; quỹ sẽ luôn nắm mọi cổ phiếu, chứ không chỉ dự đoán tốt nhất của một người quản lý về thứ mới tiếp theo. Nhưng qua năm tháng, lợi thế chi phí của việc đầu tư theo chỉ số sẽ tiếp tục tích luỹ không ngừng. Giữ một quỹ chỉ số 20 năm trở lên, góp thêm tiền mỗi tháng, và bạn gần như chắc chắn thắng đại đa số nhà đầu tư chuyên nghiệp lẫn cá nhân. Về cuối đời, Graham đã khen quỹ chỉ số là lựa chọn tốt nhất cho nhà đầu tư cá nhân, và Warren Buffett cũng vậy.
+Quỹ chỉ số chỉ có một khuyết điểm đáng kể: chúng nhàm chán. Bạn sẽ không bao giờ khoe được ở bữa tiệc nướng rằng mình sở hữu quỹ tốt nhất nước, hay khoe đã thắng thị trường, vì nhiệm vụ của quỹ chỉ số là bằng thị trường chứ không vượt nó. Người quản lý quỹ chỉ số sẽ không "đổ xúc xắc" đặt cược rằng ngành lớn tiếp theo là dịch chuyển tức thời, trang web cào trúng thưởng hay phòng khám giảm cân bằng thần giao cách cảm; quỹ sẽ luôn nắm mọi cổ phiếu, chứ không chỉ dự đoán tốt nhất của một người quản lý về thứ mới tiếp theo.
+
+Nhưng qua năm tháng, lợi thế chi phí của việc đầu tư theo chỉ số sẽ tiếp tục tích luỹ không ngừng. Giữ một quỹ chỉ số 20 năm trở lên, góp thêm tiền mỗi tháng, và bạn gần như chắc chắn thắng đại đa số nhà đầu tư chuyên nghiệp lẫn cá nhân. Về cuối đời, Graham đã khen quỹ chỉ số là lựa chọn tốt nhất cho nhà đầu tư cá nhân, và Warren Buffett cũng vậy.
 
 Chú thích 6 của Zweig: xem hồi ký của Graham (*Benjamin Graham: The Memoirs of the Dean of Wall Street*, Seymour Chatman biên tập, McGraw-Hill, 1996) và *The Rediscovered Benjamin Graham* của Janet Lowe (John Wiley & Sons, 1999). Trong báo cáo thường niên năm 1996 của Berkshire Hathaway, Buffett viết rằng phần lớn nhà đầu tư, cả tổ chức lẫn cá nhân, sẽ thấy cách tốt nhất để sở hữu cổ phiếu là qua một quỹ chỉ số thu phí tối thiểu; những ai đi con đường này chắc chắn sẽ thắng kết quả ròng (sau phí và chi phí) mà đại đa số chuyên gia đầu tư mang lại.
 
@@ -729,7 +758,9 @@ Chú thích 6 của Zweig: xem hồi ký của Graham (*Benjamin Graham: The Mem
 
 Cộng tất cả các bất lợi lại, điều đáng ngạc nhiên không phải là ít quỹ thắng chỉ số, mà là vẫn có quỹ thắng. Chúng có điểm chung gì?
 
-**Người quản lý là cổ đông lớn nhất (Leurs dirigeants sont les plus gros actionnaires).** Xung đột lợi ích giữa điều tốt nhất cho người quản lý và điều tốt nhất cho nhà đầu tư giảm đi khi người quản lý nằm trong số những người nắm nhiều cổ phần của quỹ nhất. Một số công ty, như Longleaf Partners, thậm chí cấm nhân viên sở hữu bất cứ thứ gì ngoài quỹ của chính công ty. Ở Longleaf và các công ty khác như Davis và FPA, người quản lý nắm nhiều cổ phần quỹ đến mức họ có thể quản lý tiền của bạn như tiền của họ — ít có khả năng đẩy phí lên, để quỹ phình to quá cỡ, hay giáng cho bạn một hoá đơn thuế khó chịu. Bản thông báo uỷ quyền biểu quyết (proxy statement) và Bản thông tin bổ sung (Statement of Additional Information) của quỹ, đều có trên cơ sở dữ liệu EDGAR của SEC (www.sec.gov), cho biết người quản lý có nắm ít nhất 1% cổ phần quỹ không.
+**Người quản lý là cổ đông lớn nhất (Leurs dirigeants sont les plus gros actionnaires).** Xung đột lợi ích giữa điều tốt nhất cho người quản lý và điều tốt nhất cho nhà đầu tư giảm đi khi người quản lý nằm trong số những người nắm nhiều cổ phần của quỹ nhất. Một số công ty, như Longleaf Partners, thậm chí cấm nhân viên sở hữu bất cứ thứ gì ngoài quỹ của chính công ty.
+
+Ở Longleaf và các công ty khác như Davis và FPA, người quản lý nắm nhiều cổ phần quỹ đến mức họ có thể quản lý tiền của bạn như tiền của họ — ít có khả năng đẩy phí lên, để quỹ phình to quá cỡ, hay giáng cho bạn một hoá đơn thuế khó chịu. Bản thông báo uỷ quyền biểu quyết (proxy statement) và Bản thông tin bổ sung (Statement of Additional Information) của quỹ, đều có trên cơ sở dữ liệu EDGAR của SEC (www.sec.gov), cho biết người quản lý có nắm ít nhất 1% cổ phần quỹ không.
 
 **Chi phí thấp (Ils ne coûtent pas cher).** Một ngộ nhận phổ biến nhất của ngành quỹ là "tiền nào của nấy" — lợi suất cao là lý do tốt nhất để thu phí cao. Lập luận này có hai vấn đề. Thứ nhất, nó không đúng: hàng thập kỷ nghiên cứu đã chứng minh quỹ phí cao cho lợi suất thấp hơn theo thời gian. Thứ hai, lợi suất cao chỉ tạm thời, còn phí cao gần như vĩnh viễn như đá hoa cương. Nếu mua quỹ vì lợi suất cao, bạn có thể chỉ còn nắm tro nguội, nhưng chi phí sở hữu quỹ gần như chắc chắn không giảm khi lợi suất giảm.
 
@@ -761,7 +792,9 @@ Chú thích 9 của Zweig: có thể lọc các quỹ đáp ứng các trần ch
 
 *Rồi đến rủi ro.* Trong bản cáo bạch (hay hướng dẫn người mua), mỗi quỹ phải có biểu đồ cột thể hiện khoản lỗ tệ nhất trong một quý. Nếu bạn không chịu nổi việc mất ít nhất ngần ấy tiền trong ba tháng, hãy đi nơi khác.
 
-*Xếp hạng Morningstar.* Cũng nên xem xếp hạng của Morningstar, một công ty nghiên cứu đầu tư hàng đầu, chấm "sao" cho quỹ dựa trên mức rủi ro quỹ đã chịu để đạt lợi suất (một sao là tệ nhất, năm sao là tốt nhất). Nhưng cũng như bản thân thành tích quá khứ, các xếp hạng này nhìn về quá khứ: chúng cho biết quỹ nào đã tốt nhất, không phải quỹ nào sẽ tốt nhất. Các quỹ năm sao thực tế có thói quen đáng bối rối là sau đó lại kém hơn các quỹ một sao. Vì vậy, hãy bắt đầu bằng tìm quỹ chi phí thấp, có người quản lý là cổ đông lớn, dám khác biệt, không thổi phồng lợi suất và đã tỏ ra sẵn sàng đóng cửa trước khi quá lớn so với sức mình. Sau đó, và chỉ sau đó, mới xem xếp hạng Morningstar.
+*Xếp hạng Morningstar.* Cũng nên xem xếp hạng của Morningstar, một công ty nghiên cứu đầu tư hàng đầu, chấm "sao" cho quỹ dựa trên mức rủi ro quỹ đã chịu để đạt lợi suất (một sao là tệ nhất, năm sao là tốt nhất). Nhưng cũng như bản thân thành tích quá khứ, các xếp hạng này nhìn về quá khứ: chúng cho biết quỹ nào đã tốt nhất, không phải quỹ nào sẽ tốt nhất. Các quỹ năm sao thực tế có thói quen đáng bối rối là sau đó lại kém hơn các quỹ một sao.
+
+Vì vậy, hãy bắt đầu bằng tìm quỹ chi phí thấp, có người quản lý là cổ đông lớn, dám khác biệt, không thổi phồng lợi suất và đã tỏ ra sẵn sàng đóng cửa trước khi quá lớn so với sức mình. Sau đó, và chỉ sau đó, mới xem xếp hạng Morningstar.
 
 Chú thích 10 của Zweig: dẫn nghiên cứu của Matthew Morey, "Rating the Raters" (*Journal of Investment Consulting*, 2002). Dù xếp hạng sao dự báo kém kết quả tương lai, Morningstar vẫn là nguồn thông tin về quỹ tốt nhất cho nhà đầu tư cá nhân.
 
@@ -769,7 +802,9 @@ Chú thích 10 của Zweig: dẫn nghiên cứu của Matthew Morey, "Rating the
 
 #### 5. Thế giới khép kín của quỹ đóng (Le monde fermé des fonds à capital fixe, PDF trang 219–220)
 
-Quỹ đóng cổ phiếu, dù phổ biến trong thập niên 1980, đã dần teo tóp. Năm 2003 chỉ còn 30 quỹ đóng cổ phiếu Mỹ đa dạng hoá, nhiều quỹ tí hon, mỗi ngày chỉ giao dịch vài trăm cổ phần, chi phí cao và chiến lược kỳ lạ (như Morgan Fun-Shares, chuyên cổ phiếu các ngành "gây nghiện" như rượu, sòng bạc và thuốc lá). Nghiên cứu của chuyên gia quỹ đóng Donald Cassidy ở Lipper Inc. củng cố quan sát trước đây của Graham: quỹ đóng cổ phiếu đa dạng hoá bán ở giá chiết khấu không chỉ có xu hướng làm tốt hơn quỹ đóng bán ở giá phụ trội, mà còn có khả năng cho lợi suất tốt hơn quỹ mở trung bình. Tuy nhiên, đáng tiếc là quỹ đóng cổ phiếu đa dạng hoá không phải lúc nào cũng có giá chiết khấu trong một thị trường đã trở nên ế ẩm và suy tàn.
+Quỹ đóng cổ phiếu, dù phổ biến trong thập niên 1980, đã dần teo tóp. Năm 2003 chỉ còn 30 quỹ đóng cổ phiếu Mỹ đa dạng hoá, nhiều quỹ tí hon, mỗi ngày chỉ giao dịch vài trăm cổ phần, chi phí cao và chiến lược kỳ lạ (như Morgan Fun-Shares, chuyên cổ phiếu các ngành "gây nghiện" như rượu, sòng bạc và thuốc lá).
+
+Nghiên cứu của chuyên gia quỹ đóng Donald Cassidy ở Lipper Inc. củng cố quan sát trước đây của Graham: quỹ đóng cổ phiếu đa dạng hoá bán ở giá chiết khấu không chỉ có xu hướng làm tốt hơn quỹ đóng bán ở giá phụ trội, mà còn có khả năng cho lợi suất tốt hơn quỹ mở trung bình. Tuy nhiên, đáng tiếc là quỹ đóng cổ phiếu đa dạng hoá không phải lúc nào cũng có giá chiết khấu trong một thị trường đã trở nên ế ẩm và suy tàn.
 
 Chú thích 11 của Zweig: khác với quỹ mở, quỹ đóng không phát hành cổ phần mới trực tiếp cho bất kỳ ai muốn mua. Nhà đầu tư phải mua không phải từ quỹ mà từ một cổ đông khác muốn bán. Vì vậy giá cổ phần dao động trên và dưới giá trị tài sản ròng tuỳ theo cung cầu.
 
@@ -859,7 +894,11 @@ Quỹ đầu tư là phương tiện tốt để người bình thường sở h
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương này là phiên bản sớm của lập luận về **số học của quản lý chủ động** (arithmetic of active management): trước chi phí, tổng các nhà đầu tư chủ động bằng thị trường; sau chi phí, họ thua thị trường. Graham nói điều này năm 1972 bằng số liệu nắm giữ của ngân hàng và quỹ; Zweig bổ sung bằng chứng thực nghiệm về **tính không bền của thành tích** (performance persistence) — người thắng hiếm khi giữ được vị trí, trong khi người thua kém liên tục (thường do phí cao) thì bền hơn. Phân tích quỹ đóng là một ứng dụng của **biên an toàn** (margin of safety) và tư duy giá trị: mua một rổ tài sản với giá thấp hơn giá trị ròng của nó, và lợi thế này chỉ mất khi chiết khấu nới rất rộng. Phần về "quỹ thành tích", cổ phiếu chưa đăng ký định giá ảo và chu kỳ khoảng 35 năm là một bài học về **bong bóng đầu cơ** (speculative bubble) và **rủi ro người đại diện** (agency risk): lợi ích của người quản lý (phí, quy mô, bán công ty quản lý) có thể tách rời lợi ích của nhà đầu tư. Phần cuối của Zweig thuộc **tài chính hành vi** (behavioral finance): ngoại suy từ chuỗi ngắn, tự tin thái quá và chênh lệch giữa lợi suất của quỹ và lợi suất thực của nhà đầu tư quỹ (behavior gap).
+Chương này là phiên bản sớm của lập luận về **số học của quản lý chủ động** (arithmetic of active management): trước chi phí, tổng các nhà đầu tư chủ động bằng thị trường; sau chi phí, họ thua thị trường. Graham nói điều này năm 1972 bằng số liệu nắm giữ của ngân hàng và quỹ; Zweig bổ sung bằng chứng thực nghiệm về **tính không bền của thành tích** (performance persistence) — người thắng hiếm khi giữ được vị trí, trong khi người thua kém liên tục (thường do phí cao) thì bền hơn.
+
+Phân tích quỹ đóng là một ứng dụng của **biên an toàn** (margin of safety) và tư duy giá trị: mua một rổ tài sản với giá thấp hơn giá trị ròng của nó, và lợi thế này chỉ mất khi chiết khấu nới rất rộng. Phần về "quỹ thành tích", cổ phiếu chưa đăng ký định giá ảo và chu kỳ khoảng 35 năm là một bài học về **bong bóng đầu cơ** (speculative bubble) và **rủi ro người đại diện** (agency risk): lợi ích của người quản lý (phí, quy mô, bán công ty quản lý) có thể tách rời lợi ích của nhà đầu tư.
+
+Phần cuối của Zweig thuộc **tài chính hành vi** (behavioral finance): ngoại suy từ chuỗi ngắn, tự tin thái quá và chênh lệch giữa lợi suất của quỹ và lợi suất thực của nhà đầu tư quỹ (behavior gap).
 
 ## Thuật ngữ
 
@@ -946,11 +985,15 @@ Ba bảng của Graham và hình 9-1 của Zweig không có trong bản PDF. Cá
 
 ### Các dự báo của Zweig năm 2003 phần lớn đã được xác nhận sau đó
 
-Theo hiểu biết của người tổng hợp, không tra cứu: từ sau 2003, quỹ chỉ số và ETF chi phí thấp tăng trưởng rất mạnh, và đến khoảng đầu thập niên 2020, tài sản trong quỹ chỉ số tại Mỹ đã ngang hoặc vượt quỹ chủ động; phí quỹ bình quân giảm mạnh; các báo cáo định kỳ so sánh quỹ chủ động với chỉ số (như loại báo cáo SPIVA của S&P) nhiều lần cho thấy phần lớn quỹ chủ động thua chỉ số trong 10–20 năm, giống "phễu" của Lipper. Hoa hồng giao dịch ETF tại Mỹ gần như biến mất, nên nhược điểm ETF mà Zweig nêu không còn đáng kể. Dự đoán "cảnh giác vào khoảng năm 2030" của Zweig vẫn còn để kiểm chứng, nhưng các đợt sốt đầu cơ sau 2003 (khủng hoảng 2008, các đợt sốt cổ phiếu và quỹ chủ đề công nghệ quanh 2020–2021 rồi lao dốc năm 2022) cho thấy mô hình "quỹ nóng hút tiền rồi sụp" lặp lại đúng như Graham và Zweig mô tả.
+Theo hiểu biết của người tổng hợp, không tra cứu: từ sau 2003, quỹ chỉ số và ETF chi phí thấp tăng trưởng rất mạnh, và đến khoảng đầu thập niên 2020, tài sản trong quỹ chỉ số tại Mỹ đã ngang hoặc vượt quỹ chủ động; phí quỹ bình quân giảm mạnh; các báo cáo định kỳ so sánh quỹ chủ động với chỉ số (như loại báo cáo SPIVA của S&P) nhiều lần cho thấy phần lớn quỹ chủ động thua chỉ số trong 10–20 năm, giống "phễu" của Lipper.
+
+Hoa hồng giao dịch ETF tại Mỹ gần như biến mất, nên nhược điểm ETF mà Zweig nêu không còn đáng kể. Dự đoán "cảnh giác vào khoảng năm 2030" của Zweig vẫn còn để kiểm chứng, nhưng các đợt sốt đầu cơ sau 2003 (khủng hoảng 2008, các đợt sốt cổ phiếu và quỹ chủ đề công nghệ quanh 2020–2021 rồi lao dốc năm 2022) cho thấy mô hình "quỹ nóng hút tiền rồi sụp" lặp lại đúng như Graham và Zweig mô tả.
 
 ### Có quan điểm trái chiều về việc chỉ dùng quỹ chỉ số
 
-Người ủng hộ quản lý chủ động cho rằng nếu ai cũng mua quỹ chỉ số thì giá sẽ không còn được định đúng, và khi đó sẽ có cơ hội cho người chọn cổ phiếu giỏi. Cũng có ý kiến lo ngại quỹ chỉ số lớn làm tập trung quyền biểu quyết vào vài công ty quản lý tài sản và đẩy giá các cổ phiếu lớn trong chỉ số. Ngoài ra, chính Graham trong chương này không khuyên mua quỹ chỉ số (chưa tồn tại ở dạng phổ biến năm 1972); khuyến nghị quỹ chỉ số là của Zweig, dựa trên những phát biểu cuối đời của Graham. Ngược lại, các tiêu chí của Zweig (chi phí thấp, người quản lý góp vốn, dám khác biệt, đóng cửa sớm) vẫn hợp lý cho ai muốn chọn quỹ chủ động, và bản thân ví dụ Sequoia cho thấy một quỹ chủ động có thể thắng lớn nếu nhà đầu tư đủ kiên nhẫn.
+Người ủng hộ quản lý chủ động cho rằng nếu ai cũng mua quỹ chỉ số thì giá sẽ không còn được định đúng, và khi đó sẽ có cơ hội cho người chọn cổ phiếu giỏi. Cũng có ý kiến lo ngại quỹ chỉ số lớn làm tập trung quyền biểu quyết vào vài công ty quản lý tài sản và đẩy giá các cổ phiếu lớn trong chỉ số.
+
+Ngoài ra, chính Graham trong chương này không khuyên mua quỹ chỉ số (chưa tồn tại ở dạng phổ biến năm 1972); khuyến nghị quỹ chỉ số là của Zweig, dựa trên những phát biểu cuối đời của Graham. Ngược lại, các tiêu chí của Zweig (chi phí thấp, người quản lý góp vốn, dám khác biệt, đóng cửa sớm) vẫn hợp lý cho ai muốn chọn quỹ chủ động, và bản thân ví dụ Sequoia cho thấy một quỹ chủ động có thể thắng lớn nếu nhà đầu tư đủ kiên nhẫn.
 
 ### Phần dễ áp dụng nhất là thứ tự xem xét ngược và các dấu hiệu nên bán
 
@@ -959,3 +1002,168 @@ Thứ tự "chi phí, rủi ro, xếp hạng, rồi mới tới thành tích" v�
 ### Vận dụng định tính cho nhà đầu tư Việt Nam
 
 Các nguyên tắc của chương áp dụng được cho người mua chứng chỉ quỹ mở, quỹ ETF hay quỹ đóng ở Việt Nam ở mức định tính: xem kỹ tổng chi phí (phí phát hành, phí quản lý, phí mua lại, chi phí giao dịch) trước khi xem thành tích; nghi ngờ các quỹ được quảng bá bằng lợi suất một năm rất cao, nhất là sau một đợt thị trường tăng mạnh; với quỹ ETF và quỹ đóng niêm yết, so giá giao dịch với giá trị tài sản ròng để tránh mua ở mức phụ trội; ưu tiên công ty quản lý quỹ mà người quản lý có lợi ích gắn với nhà đầu tư; và chỉ mua khi sẵn sàng giữ qua vài năm kém. Người tổng hợp không đưa số liệu Việt Nam vì không tra cứu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết — Phần A của Graham (mục 1–2 quỹ là gì và thành tích ngành quỹ, mục 3 các quỹ "thành tích", mục 4–5 quỹ đóng chiết khấu và quỹ cân bằng) và Phần B bình luận của Zweig (mục 1–3 vì sao thành tích quá khứ không dự báo được tương lai, mục 4–6 cách chọn quỹ, quỹ đóng ngày nay và khi nào nên bán) — mỗi nhánh ghi quy tắc, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: quỹ nói chung chỉ ngang thị trường vì giới chuyên nghiệp chính là thị trường, nên chọn quỹ theo chi phí và giá chứ không theo thành tích`"]
+  n1["`Phần A, mục 1–2 (Graham) — Quỹ là gì và ngành quỹ chỉ đạt xấp xỉ thị trường`"]
+  n0 --- n1
+  n2["`Quỹ mở mua lại cổ phần theo giá trị tài sản ròng#59; quỹ đóng có số cổ phần cố định, giá lên xuống trên thị trường`"]
+  n1 --- n2
+  n3["`Cuối 1970: 383 quỹ, 54,6 tỷ USD, gồm 356 quỹ mở 50,6 tỷ và 27 quỹ đóng 4,0 tỷ`"]
+  n1 --- n3
+  n4["`Quỹ mở có phí bán hàng khoảng 9%, tính trên giá bán nên trông nhỏ hơn: Graham gọi là #quot;mánh bán hàng#quot;`"]
+  n1 --- n4
+  n5["`Mười quỹ cổ phiếu lớn nhất 1961–1970 gần ngang S#amp;P 500 và rõ ràng hơn DJIA`"]
+  n1 --- n5
+  n6["`Ngân hàng nắm 181 tỷ USD, quỹ 56 tỷ USD cổ phiếu (1969), nên tổng kết quả của họ gần như chính là thị trường`"]
+  n1 --- n6
+  n7["`Người bình thường mua quỹ có lẽ vẫn hơn tự mua cổ phiếu, vì tránh được đầu cơ và đợt phát hành mới hạng kém`"]
+  n1 --- n7
+  n8["`Có thể xét thành tích so sánh ít nhất 5 năm, với điều kiện giai đoạn đó không phải thị trường tăng mạnh`"]
+  n1 --- n8
+  n9["`Phần A, mục 3 (Graham) — Các quỹ #quot;thành tích#quot; cuối thập niên 1960`"]
+  n0 --- n9
+  n10["`Với số tiền thật lớn, vượt xa trung bình chỉ đạt được bằng rủi ro lớn, và rủi ro sớm thành thua lỗ`"]
+  n9 --- n10
+  n11["`Các #quot;ngôi sao#quot; 30–40 tuổi chỉ biết thị trường tăng 1948–1968, coi khoản đầu tư tốt là cổ phiếu tăng trong vài tháng`"]
+  n9 --- n11
+  n12["`Manhattan Fund lập cuối 1965 với 247 triệu USD, tăng 38,6% năm 1967 rồi sa sút`"]
+  n9 --- n12
+  n13["`Hai khoản đầu tư lớn nhất của quỹ phá sản trong sáu tháng sau cuối năm 1969`"]
+  n12 --- n13
+  n14["`Người sáng lập bán công ty quản lý có tài sản dưới 1 triệu USD với giá hơn 20 triệu USD`"]
+  n12 --- n14
+  n15["`The Money Managers (1969): cả 12 nhà quản lý có số liệu đều lỗ năm 1969`"]
+  n9 --- n15
+  n16["`Mười quỹ tốt nhất 1967 (tăng 84%–301%) chỉ có 2 quỹ vượt S#amp;P trong 1968–1970`"]
+  n9 --- n16
+  n17["`Mua letter stock rẻ hơn giá thị trường rồi ghi sổ theo giá thị trường tạo ra lãi ảo`"]
+  n9 --- n17
+  n18["`#quot;Càng thay đổi, càng như cũ#quot;: Zweig dẫn Jacob Internet Fund sụp 92% trong 2000–2002`"]
+  n9 --- n18
+  n19["`Quỹ lớn quản lý tốt chỉ nhỉnh hơn trung bình chút ít#59; quỹ thắng 10 năm là ngoại lệ nhỏ, không chào bán rộng`"]
+  n9 --- n19
+  n20["`Phần A, mục 4–5 (Graham) — Mua quỹ đóng chiết khấu, tự mua trái phiếu thay quỹ cân bằng`"]
+  n0 --- n20
+  n21["`Quy tắc của Graham: mua nhóm quỹ đóng chiết khấu 10–15% thay vì trả phụ phí khoảng 9% cho quỹ mở`"]
+  n20 --- n21
+  n22["`Nếu kết quả hai nhóm như nhau, người mua quỹ đóng được thêm khoảng 1/5 cho đồng tiền`"]
+  n20 --- n22
+  n23["`Phép tính: A trả 109% cho quỹ mở, nhận 30, bán lại 100, lãi khoảng 19% số vốn`"]
+  n20 --- n23
+  n24["`B trả 85% cộng 1,5% hoa hồng, chỉ kém A khi chiết khấu nới từ 15% lên 27%, gần gấp đôi`"]
+  n23 --- n24
+  n25["`Thay đổi bất lợi cỡ đó hiếm khi, hoặc chưa bao giờ, xảy ra với quỹ đóng`"]
+  n23 --- n25
+  n26["`Giá phụ trội không chứng tỏ ban quản lý giỏi hơn: Lehman cao hơn 14%, General American thấp hơn 7,6% giá trị tài sản`"]
+  n20 --- n26
+  n27["`Quỹ cân bằng giữ bình quân 40% trái phiếu và cổ phiếu ưu đãi, lợi suất thu nhập chỉ 3,9% năm 1970`"]
+  n20 --- n27
+  n28["`Nên tự mua trái phiếu tiết kiệm Chính phủ Mỹ, trái phiếu doanh nghiệp hạng A trở lên hoặc trái phiếu miễn thuế`"]
+  n20 --- n28
+  n29["`Phần B, mục 1–3 (Zweig) — Thành tích quá khứ không dự báo được tương lai`"]
+  n0 --- n29
+  n30["`Quỹ tương hỗ (Leffler, 1924) đưa khoảng 54 triệu gia đình Mỹ vào đầu tư nhưng chỉ #quot;gần như hoàn hảo#quot;`"]
+  n29 --- n30
+  n31["`Trên thị trường, may mắn quan trọng hơn kỹ năng#59; ngành nóng nhất năm 1999 là công nghệ rồi nguội lạnh rất nhanh`"]
+  n29 --- n31
+  n32["`Phí càng cao lợi suất càng thấp, giao dịch càng nhiều càng kiếm ít`"]
+  n29 --- n32
+  n33["`Năm trở ngại khiến quỹ thắng không giữ được ngôi thắng`"]
+  n29 --- n33
+  n34["`Người quản lý bị săn đi: Bickerstaff tăng 47,5% năm 1997 rồi rời, quỹ cũ thua thị trường 3 trong 4 năm sau`"]
+  n33 --- n34
+  n35["`Phình to tài sản: quỹ 10 tỷ USD đặt 2% vào công ty 500 triệu USD là 200 triệu, vượt mức luật cho phép`"]
+  n33 --- n35
+  n36["`Quỹ #quot;ấp#quot; và quỹ miễn phí lúc đầu đều tụt về tầm thường khi tiền bên ngoài đổ vào`"]
+  n33 --- n36
+  n37["`Chi phí hoạt động 1,5% cộng giao dịch 2%: phải thắng thị trường 3,5 điểm mỗi năm mới hòa`"]
+  n33 --- n37
+  n38["`Hành vi bầy đàn: hầu hết quỹ tăng trưởng nắm Cisco, GE, Microsoft, Pfizer, Wal-Mart với tỷ trọng gần như nhau`"]
+  n33 --- n38
+  n39["`Phễu Lipper đến 31/12/2002: tỷ lệ quỹ vượt Vanguard 500 Index giảm từ 48,9% (1 năm) xuống 14,9% (20 năm)`"]
+  n29 --- n39
+  n40["`Quỹ chỉ số chi phí 0,3%/năm biến 10.000 USD thành hơn 36.000 USD sau 20 năm, quỹ trung bình dưới 20.000 USD`"]
+  n29 --- n40
+  n41["`Graham lúc cuối đời và Warren Buffett đều khen quỹ chỉ số#59; nhược điểm duy nhất là nhàm chán`"]
+  n29 --- n41
+  n42["`Phần B, mục 4–6 (Zweig) — Cách chọn quỹ, quỹ đóng ngày nay và khi nào nên bán`"]
+  n0 --- n42
+  n43["`Người quản lý là cổ đông lớn, nắm ít nhất 1% cổ phần quỹ (Longleaf, Davis, FPA)`"]
+  n42 --- n43
+  n44["`Dám khác biệt: Peter Lynch nắm Chrysler khi bị dự đoán phá sản, đặt gần 20% Magellan vào cổ phiếu nước ngoài năm 1986`"]
+  n42 --- n44
+  n45["`Đóng cửa với nhà đầu tư mới trước khi quá lớn và không quảng cáo (Mairs #amp; Power, Torray)`"]
+  n42 --- n45
+  n46["`Xét theo thứ tự ngược số đông: chi phí, rủi ro, sao Morningstar, cuối cùng mới đến thành tích`"]
+  n42 --- n46
+  n47["`Trần chi phí: trái phiếu 0,75%, cổ phiếu Mỹ lớn và vừa 1,0%, cổ phiếu Mỹ nhỏ 1,25%, nước ngoài 1,50%`"]
+  n46 --- n47
+  n48["`Quỹ 5 sao hay thua quỹ 1 sao#59; người thua hôm qua gần như không bao giờ thành người thắng`"]
+  n46 --- n48
+  n49["`Quỹ đóng cổ phiếu chiết khấu thường thắng (Cassidy, Lipper), nhưng năm 2003 chỉ còn 30 quỹ`"]
+  n42 --- n49
+  n50["`Sequoia thua S#amp;P 500 trong 12/29 năm nhưng tăng 12.500% so với 4.900% của chỉ số`"]
+  n42 --- n50
+  n51["`Nhà đầu tư quỹ thua chính quỹ của họ 4,7 điểm/năm (1998–2001) vì mua cao bán thấp`"]
+  n42 --- n51
+  n52["`Dấu hiệu nên bán: đổi chiến lược đột ngột, chi phí tăng, thuế lớn do giao dịch nhiều, lợi suất bỗng thất thường`"]
+  n42 --- n52
+  n53["`Tự tin thái quá: 74% trong 750 nhà đầu tư tin quỹ của mình sẽ thắng S#amp;P 500 mọi năm`"]
+  n42 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Trước chi phí, giới đầu tư chủ động gộp lại bằng thị trường#59; sau chi phí, họ thua thị trường`"]
+  n54 --- n55
+  n56["`Chi phí bị trừ chắc chắn mỗi năm, còn lợi suất vượt trội thì bấp bênh`"]
+  n54 --- n56
+  n57["`Quỹ đóng chiết khấu là biên an toàn: trả 85–90 cho 100 giá trị tài sản`"]
+  n54 --- n57
+  n58["`Thành tích ngoạn mục sau thị trường tăng mạnh là dấu hiệu rủi ro hơn là dấu hiệu tài năng`"]
+  n54 --- n58
+  n59["`Chưa sẵn sàng giữ quỹ qua ít nhất ba năm kém thì đừng mua`"]
+  n54 --- n59
+  class n0 root
+  class n1,n9,n20,n29,n42,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 9 "Investir dans des fonds d'investissement" (PDF trang 197–210) và "Commentaire sur le chapitre 9" (PDF trang 210–222). Chú thích cuối sách của Graham cho chương này ở PDF trang 485–486; chú thích của Zweig ở PDF trang 621–626.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 và 5 ([C04](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md), [C05](C05-nha-dau-tu-phong-thu-va-co-phieu.md)) đã dựng chính sách cho nhà đầu tư phòng thủ (defensive investor): chia vốn giữa trái phiếu và cổ phiếu, chọn cổ phiếu lớn, đa dạng hoá, không đầu cơ. Chương 6 và 7 ([C06](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md), [C07](C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md)) bàn việc nên tránh và nên làm của nhà đầu tư năng động; Chương 8 ([C08](C08-nha-dau-tu-va-bien-dong-thi-truong.md)) dạy cách đứng trước biến động giá và ông Thị Trường (Mr. Market).
+
+Chương 9 trả lời một câu hỏi thực tế của nhà đầu tư phòng thủ: thay vì tự mua từng cổ phiếu, có nên giao tiền cho quỹ đầu tư không, và nếu có thì chọn quỹ thế nào. Graham dùng số liệu 1961–1970 để cho thấy quỹ nói chung chỉ đạt kết quả xấp xỉ thị trường, cảnh báo về các "quỹ thành tích" (performance funds) cuối thập niên 1960, và rút ra một quy tắc cụ thể: mua quỹ đóng (closed-end fund) đang bán dưới giá trị tài sản ròng thay vì trả phí khoảng 9% để mua quỹ mở.
+
+Chương 10 ([C10](C10-nha-dau-tu-va-nguoi-tu-van.md)) đi tiếp sang vai trò của người tư vấn tài chính và người môi giới, tức các hình thức khác của việc nhờ người khác lo tiền cho mình.
+
+## Lưu ý
+
+- **Các bảng và hình bị thiếu trong bản PDF.** Tableau 9-1 (kết quả của mười quỹ cổ phiếu lớn, 1961–1970), Tableau 9-2 (kết quả hằng năm của Manhattan Fund), Tableau 9-3 (một số số liệu về quỹ đóng, quỹ mở và chỉ số S&P composite, 1961–1970), bảng so sánh Lehman Corp. với General American Investors (văn bản gọi là "tableau 9-5") và Figure 9-1 (số phận các quỹ "nóng" nhất năm 1999) đều chỉ còn là khoảng trắng trên ảnh trang (PDF trang 200, 202–203, 207–208, 209, 212); kiểm tra cấu trúc trang PDF cũng không thấy đối tượng hình ảnh nào.
+
+  Tiêu đề Tableau 9-3 có in (trang 207) nhưng phần thân bảng trống. Vì vậy bản tổng hợp chỉ ghi lại mọi điều văn bản nói về các bảng này, không chép được số liệu trong bảng. Người tổng hợp không dựng lại số liệu từ trí nhớ để tránh sai. Riêng Figure 9-2 (phễu thành tích) được in dưới dạng chữ và đã chép đủ.
+- Văn bản dẫn "tableau 9-5" nhưng chương không có Tableau 9-4; theo hiểu biết của người tổng hợp, không tra cứu, trong bản tiếng Anh đây là Table 9-4. Zweig dẫn "l'encadré, p. 255" (trang của bản tiếng Anh); khung đó trong bản PDF là "Pourquoi nous aimons nos conseils Ouija" ở PDF trang 221–222. Chú thích 3 của Graham dẫn "p. 579" cho định nghĩa "letter stock"; định nghĩa đó nằm ở chú thích 1 phần Giới thiệu (PDF trang 481) và đã được chép vào chỗ tương ứng.
+- Bản dịch máy lệch nghĩa ở nhiều chỗ ảnh hưởng tới hiểu biết: "fonds de chargement" là *load funds* (quỹ thu phí bán hàng), "fonds sans frais" là *no-load funds*; "fonds de lettres" là quỹ chuyên mua *letter stock* (cổ phiếu chưa đăng ký); trong chú thích của Zweig câu "Les fonds boursiers n'existent plus" thực ra là "các quỹ letter-stock không còn tồn tại"; "ses propres bénéfices de sécurité" là "lãi chứng khoán của chính mình" (lãi vốn); "nouvelle ride" là "kiểu mới" (*new wrinkle*), không phải "nếp nhăn"; "interprètes" là "những quỹ có thành tích tốt" (*performers*); "gadgets et gadgets" là "mánh khoé và thủ thuật"; "questions brûlantes" là "cổ phiếu nóng" (*hot issues*); "Prenons comme chèque" là "để kiểm chứng"; "fonds d'actualisation" là "quỹ đóng bán dưới giá trị tài sản" (*discount funds*); "l'homme fermé" là "người mua quỹ đóng".
+
+  Câu "disparités ... entre les résultats pour le «manager» et les «managers»" theo nghĩa gốc là chênh lệch giữa kết quả của *người quản lý* và của *những người được quản lý* (nhà đầu tư). Câu "succomber au même wilier et aux marchands..." bị dịch hỏng; nghĩa là sa vào mánh khoé của những người bán các đợt phát hành mới hạng hai, hạng ba nguy hiểm hơn nhiều.
+- Trong bình luận của Zweig: tiêu đề "Haut de la page" là bản dịch sai của tiêu đề kiểu "đứng đầu bảng xếp hạng" (theo hiểu biết của người tổng hợp là *Top of the Charts*); "Éléphantiasis actif" là "chứng phình to tài sản" (*asset elephantiasis*), không phải "chủ động"; "l'élevage" là *herding* (hành vi bầy đàn), không phải "chăn nuôi"; "Les meilleurs fonds sont souvent proches de nouveaux investisseurs" là "thường *đóng cửa* với nhà đầu tư mới" (*closed*, bị dịch thành "gần"); "conseils Ouija" là "bàn cầu cơ Ouija" (*Ouija boards*); "trop gros pour leurs britanniques" là thành ngữ *too big for their britches* (quá to so với sức mình); "acheter de véritables actions" có lẽ là "mua cổ phiếu cực nhỏ"; "fonds.sept" và "Morningstar.dix" là số chú thích 7 và 10 bị chuyển thành chữ.
+- Con số "11% cho chỉ số S&P composite năm 1967" có vẻ thấp: theo hiểu biết của người tổng hợp, không tra cứu, S&P 500 tăng khoảng hơn 20% năm 1967. Có thể là lỗi trong bản dịch hoặc Graham dùng một cách đo khác; không kiểm chứng được vì Tableau 9-2 bị thiếu.
+- Chú thích 4 của Graham nói cuốn *Extraordinary Popular Delusions* xuất bản lần đầu năm 1852, còn phần bổ sung của Zweig trong cùng chú thích nói năm 1841 (1852 là năm ấn bản thứ hai, theo hiểu biết của người tổng hợp, không tra cứu).
+- Ví dụ Nimble Fund của Zweig: 200 triệu USD trên giá trị 500 triệu USD của Minnow Corp. là 40%, văn bản gọi là "gần một nửa".
+- Số liệu đã cũ: phí bán hàng 9% (1970) nay thấp hơn nhiều (Zweig nói khoảng 5,75% năm 2003; theo hiểu biết của người tổng hợp, nay nhiều quỹ không thu phí); quỹ chỉ số và quỹ ETF giờ có chi phí hằng năm thấp hơn nhiều so với 0,2% Zweig nêu, và hầu hết công ty môi giới Mỹ đã bỏ hoa hồng giao dịch cổ phiếu và ETF (khoảng từ 2019), nên nhược điểm "mỗi lần mua thêm ETF đều phải trả hoa hồng" mà Zweig nêu phần lớn không còn đúng — theo hiểu biết của người tổng hợp, không tra cứu.

@@ -1,19 +1,28 @@
 # Chương 14 — Chọn cổ phiếu cho nhà đầu tư phòng thủ (Sélection des titres pour l'investisseur défensif)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 14 "Sélection des titres pour l'investisseur défensif" (PDF trang 295–309) và "Commentaire sur le chapitre 14" (PDF trang 309–316). Chú thích của Graham: PDF trang 488; chú thích của Zweig: PDF trang 570–572.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, cây bút chuyên mục của tạp chí *Money* (2003).
-**Vị trí trong lập luận của cả cuốn sách:** Các chương 4 đến 7 đã mô tả chính sách danh mục cho hai loại nhà đầu tư; riêng Chương 5 ([C05-nha-dau-tu-phong-thu-va-co-phieu.md](C05-nha-dau-tu-phong-thu-va-co-phieu.md)) đưa ra bốn quy tắc chung để nhà đầu tư phòng thủ chọn cổ phiếu. Các chương 11 đến 13 dạy phân tích chứng khoán cho người không chuyên; cuối Chương 13 ([C13-so-sanh-bon-cong-ty-niem-yet.md](C13-so-sanh-bon-cong-ty-niem-yet.md)), sau khi so sánh bốn công ty niêm yết, Graham liệt kê bảy tiêu chí chất lượng và số lượng. Chương 14 là nơi các công cụ phân tích đó được dùng để thực thi chính sách của nhà đầu tư phòng thủ: Graham định nghĩa từng tiêu chí bằng con số, thử chúng trên 30 cổ phiếu của chỉ số Dow Jones công nghiệp (DJIA) cuối năm 1970, rồi bàn riêng ba nhóm ngành (dịch vụ công ích, tài chính, đường sắt) và kết thúc bằng lập luận "dự đoán hay bảo vệ". Chương 15 ([C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md)) làm việc tương tự cho nhà đầu tư năng động, với các tiêu chí nới lỏng hơn và tập trung vào cổ phiếu giá hời. Ý "bảo vệ thay vì dự đoán" sẽ được Graham phát triển thành khái niệm biên an toàn ở Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md)); vụ phá sản Penn Central được nhắc ở đây được phân tích kỹ ở Chương 17 ([C17-bon-truong-hop-dang-hoc.md](C17-bon-truong-hop-dang-hoc.md)).
-**Ý chính:** Graham muốn người đọc hiểu rằng **nhà đầu tư phòng thủ không cần (và không nên) cố chọn ra "cổ phiếu tốt nhất"; việc của họ là loại bỏ: chỉ giữ lại những công ty đủ lớn, tài chính vững, có lợi nhuận đều đặn, trả cổ tức liên tục lâu năm, có tăng trưởng tối thiểu, và quan trọng nhất là mua với giá vừa phải so với lợi nhuận và tài sản, rồi đa dạng hoá trong nhóm đó.** Bảy tiêu chí của ông là: doanh thu ít nhất 100 triệu USD (công ty công nghiệp) hoặc tổng tài sản ít nhất 50 triệu USD (công ty công ích); tài sản lưu động ít nhất gấp đôi nợ ngắn hạn và nợ dài hạn không vượt vốn lưu động ròng; có lãi trong cả 10 năm gần nhất; trả cổ tức không gián đoạn ít nhất 20 năm; lợi nhuận trên mỗi cổ phiếu tăng ít nhất một phần ba trong 10 năm; giá không quá 15 lần lợi nhuận bình quân 3 năm; giá không quá 1½ lần giá trị sổ sách, hoặc tích của hai hệ số này không quá 22,5. Ví dụ trung tâm: cuối năm 1970, DJIA ở mức 839 điểm, lợi nhuận bình quân 3 năm là 55,5 USD và giá trị tài sản ròng là 562 USD, tức đúng mức trần P/E 15 lần và giá/sổ sách 1½ lần; xét từng công ty thì chỉ có 5 trên 30 cổ phiếu đạt cả bảy tiêu chí (American Can, American Tel. & Tel., Anaconda, Swift và Woolworth). Graham cho rằng cổ phiếu dịch vụ công ích đầu năm 1972 đáp ứng tốt nhất nhu cầu của nhà đầu tư phòng thủ, vì chúng có tăng trưởng gần ngang các công ty công nghiệp mà giá thấp hơn so với lợi nhuận và tài sản. Sau đó, Zweig, viết năm 2003, bổ sung rằng **ngày nay cách đơn giản nhất và tốt nhất cho nhà đầu tư phòng thủ là mua một quỹ chỉ số theo dõi toàn bộ thị trường cổ phiếu Mỹ; ai vẫn thích tự chọn cổ phiếu thì giữ 90% tiền cổ phiếu trong quỹ chỉ số và chỉ dùng 10% để thử sức.** Ông cập nhật từng tiêu chí của Graham với dữ liệu S&P 500 đầu năm 2003 và cho thấy chúng vẫn dùng được: 120 công ty đạt tỷ lệ thanh toán hiện hành 2:1, 86% công ty có lãi mọi năm 1993–2002, 185 công ty có P/E (theo lợi nhuận bình quân 3 năm) không quá 15, và ít nhất 142 công ty qua phép thử "P/E nhân P/B không quá 22,5". Ví dụ trung tâm của bình luận là MicroStrategy, từng được coi là "Microsoft tiếp theo", rơi từ 3.130 USD xuống 15,10 USD một cổ phiếu (mất 99,5%), minh hoạ vì sao đa dạng hoá là bảo hiểm đáng tin cậy duy nhất trước rủi ro chọn sai.
+## Ý chính
 
-> **Lưu ý:**
-> - **Toàn bộ bảng và hình của chương bị thiếu trong bản PDF.** Ở các vị trí của Tableau 14-1 (PDF trang 299–300), Tableau 14-2 và 14-3 (trang 300), Tableau 14-4 và 14-5 (trang 301–303), Tableau 14-6 (trang 304), Tableau 14-7 (trang 305), Figure 14-1 (trang 312) và Figure 14-2 (trang 313–315), ảnh trang chỉ có khoảng trắng; trang 314 trắng hoàn toàn. Kiểm tra cấu trúc file PDF cho thấy cả cuốn chỉ có một ảnh nhúng (bìa sách, trang 1) và không có lớp chữ nào ở các vùng này. Bản PDF chỉ còn tiêu đề của Tableau 14-1, 14-6, 14-7, Figure 14-1, 14-2 (tiêu đề 14-6 và 14-7 bị cắt cụt), còn Tableau 14-2 đến 14-5 thậm chí không có tiêu đề. Vì vậy bản tổng hợp **không thể chép số liệu của các bảng**, kể cả bảng 30 cổ phiếu DJIA. Bản tổng hợp chỉ (a) chép mọi con số mà lời văn của Graham và Zweig trích từ các bảng; (b) mô tả nội dung từng bảng theo lời văn; (c) ghi tên 30 công ty DJIA năm 1971 và cấu trúc cột của một số bảng theo hiểu biết của người tổng hợp về bản tiếng Anh, không tra cứu, có đánh dấu rõ, **không kèm số liệu nào tự dựng**. Muốn có số liệu đầy đủ cần đối chiếu bản tiếng Anh (Revised Edition, HarperBusiness 2003).
-> - Tiêu đề chương trong PDF là "Sélection **des** titres pour l'investisseur défensif"; phần chú thích của Graham (PDF trang 488) ghi "Sélection **de** titres ...". Bản tổng hợp dùng đúng tiêu đề ở đầu chương.
-> - PDF trang 295 bắt đầu bằng đoạn cuối bình luận Chương 13 (kết cục của Emerson Electric, EMC, Expeditors International và Exodus sau 1999); đoạn này không thuộc Chương 14.
-> - Lỗi dịch máy ảnh hưởng tới nghĩa: tiêu chí 6 ghi "15 fois le **salaire** moyen" (15 lần *tiền lương* bình quân) — đúng phải là 15 lần **lợi nhuận** bình quân (earnings); ở mục áp dụng cho DJIA, "rapport entre le prix et la **valeur liquidative**" nghĩa là giá so với **giá trị tài sản ròng** (net asset value, tức giá trị sổ sách), không phải giá trị thanh lý; "problème(s)" là dịch sai chữ *issue(s)* (một mã chứng khoán), không phải "vấn đề"; "stocks" là cổ phiếu, không phải hàng tồn kho; "obligations à haute teneur" là trái phiếu hạng cao (high-grade); "opportunités de négocier" là cơ hội mua giá hời (bargain); "préoccupations financières" là các *công ty* tài chính (financial concerns); "la capacité de l'entreprise à s'entendre" là khả năng doanh nghiệp *trụ vững, xoay xở được* (to get along); "une avance apparemment excessive" là mức *tăng giá* có vẻ quá đà; "mais deux d'entre eux à peine" nghĩa là DJIA đạt hai tiêu chí *chỉ vừa sát nút* (P/E và giá/sổ sách đúng bằng mức trần); "Ces mouvements croisés se retrouvent dans la plupart, peut-être la plupart" là lỗi lặp — bản gốc có nghĩa "trong nhiều, có lẽ là phần lớn" các nhóm ngành; "à peine inconnu" (Zweig) có nghĩa cổ phiếu *đã được biết đến quá rộng rãi*; "Tourbillons stables" (tiêu đề Figure 14-2) là dịch từng chữ một thành ngữ tiếng Anh chỉ những công ty ổn định, đều đặn; câu so sánh của Zweig về "lever le nez lors d'un tournoi de tir à l'arc pour les aveugles" bị dịch méo, ý là liều mạng như tình nguyện đứng làm bia trong cuộc thi bắn cung của người khiếm thị.
-> - Graham dẫn trang của bản tiếng Anh mà PDF không có số trang in: "à la p. 423 ci-dessous" (phân tích Penn Central, nằm ở Chương 17) và "aux pp. 114 et 115" (bốn quy tắc chọn cổ phiếu cho nhà đầu tư phòng thủ, nằm ở Chương 5). Bản tổng hợp nói thẳng nội dung được dẫn.
-> - Đối chiếu số: 10 cổ phiếu × 30 mã × giá bình quân khoảng 53 USD (chú thích 1 của Graham) cho khoảng 15.900 USD, khớp con số "khoảng 16.000 USD"; 839 ÷ 55,5 ≈ 15,1 và 839 ÷ 562 ≈ 1,49, khớp nhận xét "đúng mức trần"; 100 ÷ 7,5 ≈ 13,3; 15 × 1,5 = 9 × 2,5 = 22,5; tăng 77% trong 10 năm tương đương khoảng 5,9%/năm (Graham ghi "khoảng 6%"); tăng 33% trong 10 năm ≈ 2,9%/năm, 50% ≈ 4,1%/năm, 100% ≈ 7,2%/năm (Zweig ghi 3%, 4%, 7%); MicroStrategy 15,10 ÷ 3.130 ≈ 0,5%, tức mất 99,5%; 354/500 ≈ 71%, 123/500 ≈ một phần tư, 273/500 ≈ 55%. Tất cả khớp.
-> - Chú thích 2 của Graham nói "29 công ty công nghiệp" năm 1960 dù DJIA có 30 mã; có lẽ Graham loại AT&T (một công ty công ích) khỏi phép đếm — đây là suy đoán của người tổng hợp.
-> - Số liệu đã cũ: lợi suất trái phiếu AA 7,5% (1972) và 4,6% (đầu 2003); mọi số đếm S&P 500 là đầu năm 2003. Theo hiểu biết của người tổng hợp, không tra cứu: phần lớn năm công ty đạt cả bảy tiêu chí năm 1970 đã không còn tồn tại dưới tên cũ (AT&T bị chia tách năm 1984; Anaconda, American Can, Swift, Woolworth đều rời DJIA và đổi tên hoặc bị mua lại); trong bốn công ty Zweig nêu là qua phép thử 22,5 năm 2003, Dana Corp. nộp đơn phá sản năm 2006, Washington Mutual sụp đổ năm 2008 (vụ đổ vỡ ngân hàng lớn nhất lịch sử Mỹ), EDS bị HP mua (2008), Sun Microsystems bị Oracle mua (2010). Các trang web Zweig nêu (quicktake.morningstar.com, quicken.com, bondtalk.com) phần lớn đã đổi hoặc ngừng hoạt động.
+Graham muốn người đọc hiểu rằng **nhà đầu tư phòng thủ không cần (và không nên) cố chọn ra "cổ phiếu tốt nhất"; việc của họ là loại bỏ: chỉ giữ lại những công ty đủ lớn, tài chính vững, có lợi nhuận đều đặn, trả cổ tức liên tục lâu năm, có tăng trưởng tối thiểu, và quan trọng nhất là mua với giá vừa phải so với lợi nhuận và tài sản, rồi đa dạng hoá trong nhóm đó.**
+
+Bảy tiêu chí của ông là:
+
+- doanh thu ít nhất 100 triệu USD (công ty công nghiệp) hoặc tổng tài sản ít nhất 50 triệu USD (công ty công ích);
+- tài sản lưu động ít nhất gấp đôi nợ ngắn hạn và nợ dài hạn không vượt vốn lưu động ròng;
+- có lãi trong cả 10 năm gần nhất;
+- trả cổ tức không gián đoạn ít nhất 20 năm;
+- lợi nhuận trên mỗi cổ phiếu tăng ít nhất một phần ba trong 10 năm;
+- giá không quá 15 lần lợi nhuận bình quân 3 năm;
+- giá không quá 1½ lần giá trị sổ sách, hoặc tích của hai hệ số này không quá 22,5.
+
+Ví dụ trung tâm: cuối năm 1970, DJIA ở mức 839 điểm, lợi nhuận bình quân 3 năm là 55,5 USD và giá trị tài sản ròng là 562 USD, tức đúng mức trần P/E 15 lần và giá/sổ sách 1½ lần; xét từng công ty thì chỉ có 5 trên 30 cổ phiếu đạt cả bảy tiêu chí (American Can, American Tel. & Tel., Anaconda, Swift và Woolworth).
+
+Graham cho rằng cổ phiếu dịch vụ công ích đầu năm 1972 đáp ứng tốt nhất nhu cầu của nhà đầu tư phòng thủ, vì chúng có tăng trưởng gần ngang các công ty công nghiệp mà giá thấp hơn so với lợi nhuận và tài sản.
+
+Sau đó, Zweig, viết năm 2003, bổ sung rằng **ngày nay cách đơn giản nhất và tốt nhất cho nhà đầu tư phòng thủ là mua một quỹ chỉ số theo dõi toàn bộ thị trường cổ phiếu Mỹ; ai vẫn thích tự chọn cổ phiếu thì giữ 90% tiền cổ phiếu trong quỹ chỉ số và chỉ dùng 10% để thử sức.**
+
+Ông cập nhật từng tiêu chí của Graham với dữ liệu S&P 500 đầu năm 2003 và cho thấy chúng vẫn dùng được: 120 công ty đạt tỷ lệ thanh toán hiện hành 2:1, 86% công ty có lãi mọi năm 1993–2002, 185 công ty có P/E (theo lợi nhuận bình quân 3 năm) không quá 15, và ít nhất 142 công ty qua phép thử "P/E nhân P/B không quá 22,5".
+
+Ví dụ trung tâm của bình luận là MicroStrategy, từng được coi là "Microsoft tiếp theo", rơi từ 3.130 USD xuống 15,10 USD một cổ phiếu (mất 99,5%), minh hoạ vì sao đa dạng hoá là bảo hiểm đáng tin cậy duy nhất trước rủi ro chọn sai.
 
 ## Sơ đồ
 
@@ -481,7 +490,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Nhà đầu tư phòng thủ chọn cổ phiếu cụ thể bằng tiêu chuẩn nào?** Bảy tiêu chí định lượng: quy mô (doanh thu ít nhất 100 triệu USD với công ty công nghiệp, tổng tài sản ít nhất 50 triệu USD với công ty công ích); tình hình tài chính (tài sản lưu động ít nhất gấp đôi nợ ngắn hạn, nợ dài hạn không vượt vốn lưu động ròng; với công ích, nợ không quá hai lần vốn chủ); có lãi cả 10 năm; trả cổ tức liên tục 20 năm; EPS tăng ít nhất một phần ba trong 10 năm (so bình quân 3 năm đầu và cuối); giá không quá 15 lần lợi nhuận bình quân 3 năm; giá không quá 1½ lần giá trị sổ sách, hoặc P/E nhân P/B không quá 22,5. Năm 2003, Zweig cho thấy các tiêu chí này vẫn để lại hàng trăm lựa chọn trong S&P 500 và đề nghị nâng ngưỡng quy mô lên giá trị thị trường 2 tỷ USD và ngưỡng tăng trưởng lên 50%.
+1. **Nhà đầu tư phòng thủ chọn cổ phiếu cụ thể bằng tiêu chuẩn nào?** Bảy tiêu chí định lượng: quy mô (doanh thu ít nhất 100 triệu USD với công ty công nghiệp, tổng tài sản ít nhất 50 triệu USD với công ty công ích); tình hình tài chính (tài sản lưu động ít nhất gấp đôi nợ ngắn hạn, nợ dài hạn không vượt vốn lưu động ròng; với công ích, nợ không quá hai lần vốn chủ); có lãi cả 10 năm; trả cổ tức liên tục 20 năm; EPS tăng ít nhất một phần ba trong 10 năm (so bình quân 3 năm đầu và cuối); giá không quá 15 lần lợi nhuận bình quân 3 năm; giá không quá 1½ lần giá trị sổ sách, hoặc P/E nhân P/B không quá 22,5.
+
+   Năm 2003, Zweig cho thấy các tiêu chí này vẫn để lại hàng trăm lựa chọn trong S&P 500 và đề nghị nâng ngưỡng quy mô lên giá trị thị trường 2 tỷ USD và ngưỡng tăng trưởng lên 50%.
 2. **Ngành nào hợp với nhà đầu tư phòng thủ, ngành nào cần thận trọng?** Năm 1972, Graham coi cổ phiếu dịch vụ công ích là "giải pháp": tăng trưởng gần ngang công ty công nghiệp DJIA, ổn định hơn, rẻ hơn so với lợi nhuận và tài sản, cổ tức cao hơn, và được điều tiết theo cách cho phép có lợi nhuận hợp lý. Cổ phiếu tài chính cho kết quả tương tự các loại khác nhưng phải xét kỹ sức mạnh tài chính và áp cùng chuẩn giá. Cổ phiếu đường sắt không có lý do bắt buộc phải sở hữu, chỉ mua khi rẻ rõ rệt (bài học Penn Central). Zweig năm 2003 cảnh báo cổ phiếu công ích đã biến động hơn nhiều nên chỉ nên giữ qua quỹ, và áp lời cảnh báo về đường sắt sang hàng không.
 3. **Nhà đầu tư phòng thủ có nên cố chọn những mã "tốt nhất" không?** Không. Giá các mã hàng đầu đã phản ánh cả dữ kiện lẫn kỳ vọng, nên 100 nhà phân tích sẽ đưa ra 100 danh sách khác nhau. Graham phân biệt cách tiếp cận "dự đoán" (định tính, đặt cược vào tương lai) và "bảo vệ" (định lượng, đòi giá trị hiện có lớn hơn giá) và chọn cách bảo vệ; nhà đầu tư phòng thủ nên nhấn mạnh đa dạng hoá hơn chọn lọc. Zweig đi xa hơn: quỹ chỉ số toàn thị trường là lựa chọn tốt nhất; đa dạng hoá vừa chống chọn sai (MicroStrategy mất 99,5%) vừa bảo đảm có mặt ở mọi "siêu cổ phiếu".
 
@@ -512,7 +523,11 @@ Graham mở đầu bằng việc nói đã đến lúc dùng kỹ thuật phân 
 
 Nhà đầu tư phòng thủ theo lời khuyên của Graham chỉ mua trái phiếu chất lượng cao cùng một danh sách đa dạng các cổ phiếu phổ thông hàng đầu, và phải chắc rằng giá mua cổ phiếu không quá cao theo các chuẩn mực áp dụng được. Để lập danh sách đa dạng đó, nhà đầu tư có hai cách.
 
-**Cách thứ nhất là danh mục kiểu DJIA.** Nhà đầu tư mua một mẫu thật sự đại diện cho các mã hàng đầu, gồm cả vài công ty tăng trưởng được ưa chuộng có cổ phiếu bán ở hệ số P/E đặc biệt cao lẫn các công ty ít được ưa chuộng hơn và rẻ hơn. Cách đơn giản nhất là mua số lượng bằng nhau cả 30 mã của chỉ số bình quân công nghiệp Dow Jones (DJIA). Mua 10 cổ phiếu mỗi mã, khi chỉ số ở mức 900, tốn tổng cộng khoảng 16.000 USD. *Chú thích của Graham (chú thích 1):* do nhiều lần tách cổ phiếu qua các năm, giá thực bình quân của các mã trong DJIA đầu năm 1972 chỉ khoảng 53 USD một cổ phiếu (người tổng hợp đối chiếu: 30 × 10 × 53 ≈ 15.900 USD). Theo kinh nghiệm quá khứ, nhà đầu tư có thể kỳ vọng kết quả tương lai gần như tương đương nếu mua chứng chỉ của vài quỹ đầu tư tiêu biểu. *Chú thích của Zweig:* như đã bàn trong bình luận Chương 5 và Chương 9, nhà đầu tư phòng thủ ngày nay đạt mục tiêu này chỉ bằng cách mua một quỹ chỉ số chi phí thấp, lý tưởng nhất là quỹ theo dõi lợi suất của toàn bộ thị trường cổ phiếu Mỹ.
+**Cách thứ nhất là danh mục kiểu DJIA.** Nhà đầu tư mua một mẫu thật sự đại diện cho các mã hàng đầu, gồm cả vài công ty tăng trưởng được ưa chuộng có cổ phiếu bán ở hệ số P/E đặc biệt cao lẫn các công ty ít được ưa chuộng hơn và rẻ hơn.
+
+Cách đơn giản nhất là mua số lượng bằng nhau cả 30 mã của chỉ số bình quân công nghiệp Dow Jones (DJIA). Mua 10 cổ phiếu mỗi mã, khi chỉ số ở mức 900, tốn tổng cộng khoảng 16.000 USD. *Chú thích của Graham (chú thích 1):* do nhiều lần tách cổ phiếu qua các năm, giá thực bình quân của các mã trong DJIA đầu năm 1972 chỉ khoảng 53 USD một cổ phiếu (người tổng hợp đối chiếu: 30 × 10 × 53 ≈ 15.900 USD).
+
+Theo kinh nghiệm quá khứ, nhà đầu tư có thể kỳ vọng kết quả tương lai gần như tương đương nếu mua chứng chỉ của vài quỹ đầu tư tiêu biểu. *Chú thích của Zweig:* như đã bàn trong bình luận Chương 5 và Chương 9, nhà đầu tư phòng thủ ngày nay đạt mục tiêu này chỉ bằng cách mua một quỹ chỉ số chi phí thấp, lý tưởng nhất là quỹ theo dõi lợi suất của toàn bộ thị trường cổ phiếu Mỹ.
 
 **Cách thứ hai là áp dụng một bộ tiêu chuẩn cho mỗi lần mua**, để bảo đảm có (1) một mức chất lượng tối thiểu trong thành tích quá khứ và tình hình tài chính hiện tại của công ty, và (2) một mức số lượng tối thiểu về lợi nhuận và tài sản trên mỗi đô la giá mua. Cuối Chương 13 Graham đã liệt kê bảy tiêu chí chất lượng và số lượng như vậy; ông lần lượt mô tả chúng.
 
@@ -612,15 +627,21 @@ Graham lưu ý số liệu gốc của từng công ty nằm trong Tableau 14-1 
 
 Theo hiểu biết của người tổng hợp (không tra cứu), Tableau 14-1 trong bản tiếng Anh có các cột: giá ngày 30/9/1971; EPS (12 tháng đến 9/1971, bình quân 1968–1970, bình quân 1958–1960); năm bắt đầu trả cổ tức liên tục; giá trị tài sản ròng mỗi cổ phiếu; cổ tức hiện hành. Tableau 14-2 có các tỷ số: P/E theo lợi nhuận 9/1971 và theo bình quân 1968–1970; giá/giá trị tài sản ròng; tỷ suất cổ tức; tăng trưởng lợi nhuận 1968–1970 so với 1958–1960; tài sản lưu động/nợ ngắn hạn; tài sản lưu động ròng/nợ. Cần đối chiếu bản tiếng Anh để có số.
 
-Nếu áp bảy tiêu chí cho từng công ty riêng lẻ, chỉ 5 công ty đạt *tất cả* yêu cầu: American Can, American Tel. & Tel., Anaconda, Swift và Woolworth. Tổng gộp của 5 mã này được trình bày trong Tableau 14-3 (bảng này cũng là khoảng trắng trong PDF, không có tiêu đề; theo lời văn, nó so sánh số liệu gộp của 5 mã với DJIA). Graham viết rằng tất nhiên chúng có kết quả thống kê tốt hơn nhiều so với DJIA nói chung, trừ tốc độ tăng trưởng trong quá khứ. *Chú thích của Graham (chú thích 3):* nhưng lưu ý rằng giá gộp của 5 mã này từ tháng 12/1970 đến đầu 1972 diễn biến kém hơn DJIA. Điều này một lần nữa cho thấy không hệ thống hay công thức nào bảo đảm kết quả thị trường vượt trội; các yêu cầu của Graham chỉ "bảo đảm" rằng người mua danh mục nhận đủ giá trị cho số tiền của mình.
+Nếu áp bảy tiêu chí cho từng công ty riêng lẻ, chỉ 5 công ty đạt *tất cả* yêu cầu: American Can, American Tel. & Tel., Anaconda, Swift và Woolworth. Tổng gộp của 5 mã này được trình bày trong Tableau 14-3 (bảng này cũng là khoảng trắng trong PDF, không có tiêu đề; theo lời văn, nó so sánh số liệu gộp của 5 mã với DJIA).
+
+Graham viết rằng tất nhiên chúng có kết quả thống kê tốt hơn nhiều so với DJIA nói chung, trừ tốc độ tăng trưởng trong quá khứ. *Chú thích của Graham (chú thích 3):* nhưng lưu ý rằng giá gộp của 5 mã này từ tháng 12/1970 đến đầu 1972 diễn biến kém hơn DJIA. Điều này một lần nữa cho thấy không hệ thống hay công thức nào bảo đảm kết quả thị trường vượt trội; các yêu cầu của Graham chỉ "bảo đảm" rằng người mua danh mục nhận đủ giá trị cho số tiền của mình.
 
 Từ việc áp tiêu chí cho nhóm nhỏ cổ phiếu công nghiệp này, Graham suy ra số mã đạt mọi phép thử sẽ chỉ là một tỷ lệ tương đối nhỏ trong *tất cả* cổ phiếu công nghiệp niêm yết. Ông đánh liều đoán rằng có thể tìm được khoảng 100 mã như vậy trong cuốn *Stock Guide* của Standard & Poor's cuối năm 1970, gần đủ để nhà đầu tư có phạm vi lựa chọn cá nhân thoả đáng. *Chú thích của Zweig:* một bộ lọc cổ phiếu trực tuyến dễ dùng, có thể sắp xếp các mã S&P 500 theo phần lớn tiêu chí của Graham, có tại www.quicken.com/investments/stocks/search/full.
 
 #### 5. "Giải pháp" cổ phiếu dịch vụ công ích (mục "La «solution» d'utilité publique", PDF trang 300–304)
 
-Chuyển sang cổ phiếu dịch vụ công ích, Graham thấy một tình hình dễ chịu và mời gọi hơn nhiều cho nhà đầu tư. *Chú thích của Zweig:* khi Graham viết, chỉ có một quỹ tương hỗ lớn chuyên về cổ phiếu công ích được phổ biến rộng rãi là Franklin Utilities; năm 2003 có hơn 30 quỹ. Graham không thể lường trước thiệt hại tài chính do các nhà máy điện hạt nhân bị huỷ bỏ và đóng cửa, cũng không lường trước hậu quả của việc điều tiết thất bại ở California. Cổ phiếu công ích biến động hơn nhiều so với thời Graham, và đa số nhà đầu tư chỉ nên sở hữu chúng qua một quỹ đa dạng, chi phí thấp như Dow Jones U.S. Utilities Sector Index Fund (mã IDU) hoặc Utilities Select Sector SPDR (mã XLU) (xem www.ishares.com và www.spdrindex.com/spdr/; Zweig dặn kiểm tra người môi giới không thu phí tái đầu tư cổ tức).
+Chuyển sang cổ phiếu dịch vụ công ích, Graham thấy một tình hình dễ chịu và mời gọi hơn nhiều cho nhà đầu tư.
 
-Ở ngành này, đa số các mã có vẻ phù hợp với nhu cầu của nhà đầu tư phòng thủ xét theo lịch sử thành tích và các tỷ số giá. Graham bỏ một tiêu chí khi xét cổ phiếu công ích: tỷ lệ tài sản lưu động trên nợ ngắn hạn. Yếu tố vốn lưu động tự được lo trong ngành này, vì ngành liên tục tài trợ tăng trưởng bằng cách bán trái phiếu và cổ phiếu. Thay vào đó cần một tỷ lệ vốn cổ phần so với nợ đủ lớn. *Chú thích của Graham (chú thích 4):* vì vậy phải loại phần lớn cổ phiếu công ty đường ống dẫn khí, vì các công ty này vay nợ rất nặng. Lý do họ được vay nặng như vậy là cấu trúc các hợp đồng mua bán bên dưới, vốn "bảo đảm" việc trả trái phiếu; nhưng những xem xét này có thể quá phức tạp với nhu cầu của nhà đầu tư phòng thủ.
+*Chú thích của Zweig:* khi Graham viết, chỉ có một quỹ tương hỗ lớn chuyên về cổ phiếu công ích được phổ biến rộng rãi là Franklin Utilities; năm 2003 có hơn 30 quỹ. Graham không thể lường trước thiệt hại tài chính do các nhà máy điện hạt nhân bị huỷ bỏ và đóng cửa, cũng không lường trước hậu quả của việc điều tiết thất bại ở California. Cổ phiếu công ích biến động hơn nhiều so với thời Graham, và đa số nhà đầu tư chỉ nên sở hữu chúng qua một quỹ đa dạng, chi phí thấp như Dow Jones U.S. Utilities Sector Index Fund (mã IDU) hoặc Utilities Select Sector SPDR (mã XLU) (xem www.ishares.com và www.spdrindex.com/spdr/; Zweig dặn kiểm tra người môi giới không thu phí tái đầu tư cổ tức).
+
+Ở ngành này, đa số các mã có vẻ phù hợp với nhu cầu của nhà đầu tư phòng thủ xét theo lịch sử thành tích và các tỷ số giá. Graham bỏ một tiêu chí khi xét cổ phiếu công ích: tỷ lệ tài sản lưu động trên nợ ngắn hạn. Yếu tố vốn lưu động tự được lo trong ngành này, vì ngành liên tục tài trợ tăng trưởng bằng cách bán trái phiếu và cổ phiếu. Thay vào đó cần một tỷ lệ vốn cổ phần so với nợ đủ lớn.
+
+*Chú thích của Graham (chú thích 4):* vì vậy phải loại phần lớn cổ phiếu công ty đường ống dẫn khí, vì các công ty này vay nợ rất nặng. Lý do họ được vay nặng như vậy là cấu trúc các hợp đồng mua bán bên dưới, vốn "bảo đảm" việc trả trái phiếu; nhưng những xem xét này có thể quá phức tạp với nhu cầu của nhà đầu tư phòng thủ.
 
 Tableau 14-4 tóm tắt 15 mã của chỉ số bình quân dịch vụ công ích Dow Jones; để so sánh, Tableau 14-5 cho một bức tranh tương tự của 15 công ty công ích khác chọn ngẫu nhiên từ danh sách Sở Giao dịch Chứng khoán New York. (Cả hai bảng là khoảng trắng trong PDF, trang 301–303, không có tiêu đề hay số liệu.)
 
@@ -652,11 +673,15 @@ Lịch sử giá của các chỉ số công ích, được tóm tắt trong Tab
 
 #### 6. Đầu tư vào cổ phiếu công ty tài chính (mục "Investir dans les actions des entreprises financières", PDF trang 304–305)
 
-Nhiều loại doanh nghiệp có thể xếp vào nhóm "công ty tài chính": ngân hàng, công ty bảo hiểm, hiệp hội tiết kiệm và cho vay, công ty tín dụng và cho vay nhỏ, công ty cho vay thế chấp, và "công ty đầu tư" (ví dụ quỹ tương hỗ). *Chú thích của Zweig:* ngày nay ngành dịch vụ tài chính còn nhiều thành phần hơn: ngân hàng thương mại; công ty tiết kiệm và cho vay và tài trợ thế chấp; công ty tín dụng tiêu dùng như nhà phát hành thẻ tín dụng; công ty quản lý quỹ và công ty uỷ thác; ngân hàng đầu tư và công ty môi giới; công ty bảo hiểm; và các doanh nghiệp phát triển hoặc sở hữu bất động sản, kể cả quỹ đầu tư bất động sản (REIT). Ngành đa dạng hơn nhiều, nhưng các cảnh báo của Graham về sức mạnh tài chính càng đúng hơn bao giờ hết.
+Nhiều loại doanh nghiệp có thể xếp vào nhóm "công ty tài chính": ngân hàng, công ty bảo hiểm, hiệp hội tiết kiệm và cho vay, công ty tín dụng và cho vay nhỏ, công ty cho vay thế chấp, và "công ty đầu tư" (ví dụ quỹ tương hỗ).
+
+*Chú thích của Zweig:* ngày nay ngành dịch vụ tài chính còn nhiều thành phần hơn: ngân hàng thương mại; công ty tiết kiệm và cho vay và tài trợ thế chấp; công ty tín dụng tiêu dùng như nhà phát hành thẻ tín dụng; công ty quản lý quỹ và công ty uỷ thác; ngân hàng đầu tư và công ty môi giới; công ty bảo hiểm; và các doanh nghiệp phát triển hoặc sở hữu bất động sản, kể cả quỹ đầu tư bất động sản (REIT). Ngành đa dạng hơn nhiều, nhưng các cảnh báo của Graham về sức mạnh tài chính càng đúng hơn bao giờ hết.
 
 Đặc điểm chung của các doanh nghiệp này là chỉ một phần tương đối nhỏ tài sản nằm ở dạng tài sản vật chất như tài sản cố định và hàng tồn kho, trong khi phần lớn các loại hình lại có nghĩa vụ nợ ngắn hạn lớn hơn nhiều so với vốn cổ phần. Vì vậy câu hỏi về sức mạnh tài chính quan trọng hơn ở đây so với một công ty sản xuất hay thương mại điển hình. Điều này dẫn tới nhiều hình thức điều tiết và giám sát, với mục đích và kết quả chung là ngăn các thực hành tài chính không lành mạnh.
 
-Nhìn chung, cổ phiếu các công ty tài chính cho kết quả đầu tư tương tự các loại cổ phiếu phổ thông khác. Tableau 14-7 cho thấy biến động giá từ 1948 đến 1970 của sáu nhóm có trong các chỉ số giá cổ phiếu của Standard & Poor's, với bình quân 1941–1943 lấy làm gốc bằng 10. Cuối năm 1970, các chỉ số dao động từ 44,3 với 9 ngân hàng New York đến 218 với 11 công ty bảo hiểm nhân thọ. Trong các giai đoạn con có khác biệt đáng kể giữa các nhóm: cổ phiếu ngân hàng thành phố New York diễn biến khá tốt từ 1958 đến 1968; ngược lại, nhóm bảo hiểm nhân thọ ngoạn mục lại thực sự mất điểm từ 1963 đến 1968. Những chuyển động ngược chiều như vậy có ở nhiều, có lẽ phần lớn, các nhóm ngành trong chỉ số Standard & Poor's.
+Nhìn chung, cổ phiếu các công ty tài chính cho kết quả đầu tư tương tự các loại cổ phiếu phổ thông khác. Tableau 14-7 cho thấy biến động giá từ 1948 đến 1970 của sáu nhóm có trong các chỉ số giá cổ phiếu của Standard & Poor's, với bình quân 1941–1943 lấy làm gốc bằng 10. Cuối năm 1970, các chỉ số dao động từ 44,3 với 9 ngân hàng New York đến 218 với 11 công ty bảo hiểm nhân thọ.
+
+Trong các giai đoạn con có khác biệt đáng kể giữa các nhóm: cổ phiếu ngân hàng thành phố New York diễn biến khá tốt từ 1958 đến 1968; ngược lại, nhóm bảo hiểm nhân thọ ngoạn mục lại thực sự mất điểm từ 1963 đến 1968. Những chuyển động ngược chiều như vậy có ở nhiều, có lẽ phần lớn, các nhóm ngành trong chỉ số Standard & Poor's.
 
 **Biến động giá tương đối của cổ phiếu các nhóm tài chính (Tableau 14-7 trong sách, "Mouvements des prix relatifs des stocks de divers ...", tiêu đề bị cắt cụt trong PDF).** Bảng là khoảng trắng trong PDF trang 305. Các con số còn lại trong lời văn (đơn vị: chỉ số, bình quân 1941–1943 = 10):
 
@@ -674,9 +699,13 @@ Graham không có nhận xét gì hữu ích hơn về lĩnh vực đầu tư r�
 
 Lịch sử đường sắt rất khác lịch sử dịch vụ công ích. Các công ty vận tải đường sắt chịu tổn hại nặng do kết hợp giữa cạnh tranh gay gắt và điều tiết chặt chẽ (vấn đề chi phí lao động cũng khó khăn, nhưng không chỉ riêng đường sắt). Ô tô, xe buýt và hàng không đã lấy đi phần lớn khách đi tàu và để lại phần còn lại rất ít lãi; xe tải lấy một phần lớn hàng hoá. Hơn một nửa số dặm đường sắt của nước Mỹ đã rơi vào phá sản (hoặc bị đặt dưới quản lý tiếp nhận) ở các thời điểm khác nhau trong 50 năm qua.
 
-Nhưng nửa thế kỷ đó không chỉ toàn đi xuống. Ngành từng có những giai đoạn thịnh vượng, nhất là thời chiến. Một số tuyến giữ được khả năng sinh lời và cổ tức bất chấp khó khăn chung. Chỉ số Standard & Poor's của nhóm đường sắt tăng gấp 7 lần từ đáy năm 1942 đến đỉnh năm 1968, không kém nhiều so với tỷ lệ tăng của chỉ số công ích. Vụ phá sản của Penn Central Transportation Co., công ty đường sắt lớn nhất nước Mỹ, năm 1970 đã làm giới tài chính bàng hoàng. Chỉ một, hai năm trước đó cổ phiếu còn bán ở gần mức cao nhất trong lịch sử lâu dài của nó, và công ty đã trả cổ tức liên tục hơn 120 năm. Graham cho biết ở Chương 17 ông phân tích ngắn gọn công ty này để cho thấy một người phân tích có năng lực đã có thể phát hiện điểm yếu trong bức tranh của công ty và khuyên không sở hữu chứng khoán của nó. Vụ đổ vỡ này kéo mạnh mặt bằng giá cổ phiếu đường sắt nói chung.
+Nhưng nửa thế kỷ đó không chỉ toàn đi xuống. Ngành từng có những giai đoạn thịnh vượng, nhất là thời chiến. Một số tuyến giữ được khả năng sinh lời và cổ tức bất chấp khó khăn chung. Chỉ số Standard & Poor's của nhóm đường sắt tăng gấp 7 lần từ đáy năm 1942 đến đỉnh năm 1968, không kém nhiều so với tỷ lệ tăng của chỉ số công ích.
 
-Graham cho rằng thường không khôn ngoan khi đưa ra khuyến nghị chung cho cả một loại chứng khoán, và lên án chung cả một loại cũng có những phản bác tương tự. Lịch sử giá cổ phiếu đường sắt trong Tableau 14-6 cho thấy cả nhóm thường đem lại cơ hội lãi lớn (dù theo ông, các đợt tăng lớn đó phần lớn không có cơ sở). Ông giới hạn lời khuyên: không có lý do bắt buộc nào để nhà đầu tư sở hữu cổ phiếu đường sắt; trước khi mua, họ phải chắc rằng mình nhận được nhiều giá trị cho số tiền bỏ ra đến mức tìm thứ khác thay thế là vô lý. *Chú thích của Zweig:* năm 2003 chỉ còn vài cổ phiếu đường sắt lớn, gồm Burlington Northern, CSX, Norfolk Southern và Union Pacific. Lời khuyên trong mục này ít nhất cũng đúng với cổ phiếu hàng không ngày nay, với các khoản lỗ khổng lồ hiện tại và nửa thế kỷ kết quả gần như liên tục kém cỏi, như đối với đường sắt thời Graham.
+Vụ phá sản của Penn Central Transportation Co., công ty đường sắt lớn nhất nước Mỹ, năm 1970 đã làm giới tài chính bàng hoàng. Chỉ một, hai năm trước đó cổ phiếu còn bán ở gần mức cao nhất trong lịch sử lâu dài của nó, và công ty đã trả cổ tức liên tục hơn 120 năm. Graham cho biết ở Chương 17 ông phân tích ngắn gọn công ty này để cho thấy một người phân tích có năng lực đã có thể phát hiện điểm yếu trong bức tranh của công ty và khuyên không sở hữu chứng khoán của nó. Vụ đổ vỡ này kéo mạnh mặt bằng giá cổ phiếu đường sắt nói chung.
+
+Graham cho rằng thường không khôn ngoan khi đưa ra khuyến nghị chung cho cả một loại chứng khoán, và lên án chung cả một loại cũng có những phản bác tương tự. Lịch sử giá cổ phiếu đường sắt trong Tableau 14-6 cho thấy cả nhóm thường đem lại cơ hội lãi lớn (dù theo ông, các đợt tăng lớn đó phần lớn không có cơ sở). Ông giới hạn lời khuyên: không có lý do bắt buộc nào để nhà đầu tư sở hữu cổ phiếu đường sắt; trước khi mua, họ phải chắc rằng mình nhận được nhiều giá trị cho số tiền bỏ ra đến mức tìm thứ khác thay thế là vô lý.
+
+*Chú thích của Zweig:* năm 2003 chỉ còn vài cổ phiếu đường sắt lớn, gồm Burlington Northern, CSX, Norfolk Southern và Union Pacific. Lời khuyên trong mục này ít nhất cũng đúng với cổ phiếu hàng không ngày nay, với các khoản lỗ khổng lồ hiện tại và nửa thế kỷ kết quả gần như liên tục kém cỏi, như đối với đường sắt thời Graham.
 
 #### 8. Tính chọn lọc của nhà đầu tư phòng thủ (mục "Sélectivité pour l'investisseur défensif", PDF trang 306–309)
 
@@ -684,11 +713,21 @@ Nhà đầu tư nào cũng muốn danh sách của mình tốt hơn hoặc hứa
 
 Graham đề nghị một phép thử thực tế: giả sử nhờ 100 nhà phân tích chứng khoán chọn 5 mã "tốt nhất" trong chỉ số Dow Jones để mua cuối năm 1970. Sẽ ít người đưa ra lựa chọn giống nhau, và nhiều danh sách sẽ khác nhau hoàn toàn.
 
-Điều đó không đáng ngạc nhiên như thoạt nghe. Lý do sâu xa là giá hiện tại của mỗi cổ phiếu hàng đầu đã phản ánh khá tốt các yếu tố nổi bật trong hồ sơ tài chính của nó cũng như ý kiến chung về triển vọng tương lai. Vì thế, nhận định của bất kỳ nhà phân tích nào rằng một mã đáng mua hơn các mã khác hẳn phải đến phần lớn từ định kiến và kỳ vọng cá nhân, hoặc từ việc anh ta nhấn mạnh nhóm yếu tố này hơn nhóm khác khi định giá. Nếu mọi nhà phân tích đều đồng ý một mã cụ thể tốt hơn mọi mã khác, giá của nó sẽ nhanh chóng tăng đến mức bù trừ hết các lợi thế trước đó. *Chú thích của Zweig:* ở đây Graham tóm tắt "giả thuyết thị trường hiệu quả" (EMH), một lý thuyết học thuật cho rằng giá mỗi cổ phiếu đã chứa mọi thông tin công khai về công ty. Với hàng triệu nhà đầu tư rà soát thị trường mỗi ngày, các sai lệch giá nghiêm trọng khó tồn tại lâu. Một chuyện đùa cũ kể hai giáo sư tài chính đi trên vỉa hè; một người thấy tờ 20 USD và cúi xuống nhặt, người kia nắm tay anh ta: "Đừng mất công. Nếu đó thật là tờ 20 USD thì đã có người nhặt rồi." Thị trường không hiệu quả hoàn hảo, nhưng phần lớn thời gian khá gần như vậy; nhà đầu tư thông minh chỉ cúi xuống nhặt "tờ 20 USD" của thị trường chứng khoán sau khi nghiên cứu kỹ, đồng thời giảm tối thiểu chi phí giao dịch và thuế.
+Điều đó không đáng ngạc nhiên như thoạt nghe. Lý do sâu xa là giá hiện tại của mỗi cổ phiếu hàng đầu đã phản ánh khá tốt các yếu tố nổi bật trong hồ sơ tài chính của nó cũng như ý kiến chung về triển vọng tương lai. Vì thế, nhận định của bất kỳ nhà phân tích nào rằng một mã đáng mua hơn các mã khác hẳn phải đến phần lớn từ định kiến và kỳ vọng cá nhân, hoặc từ việc anh ta nhấn mạnh nhóm yếu tố này hơn nhóm khác khi định giá. Nếu mọi nhà phân tích đều đồng ý một mã cụ thể tốt hơn mọi mã khác, giá của nó sẽ nhanh chóng tăng đến mức bù trừ hết các lợi thế trước đó.
 
-Graham nói câu "giá hiện tại phản ánh cả dữ kiện đã biết lẫn kỳ vọng tương lai" nhằm nhấn mạnh hai cơ sở của định giá thị trường. Hai loại yếu tố giá trị này ứng với hai cách tiếp cận khác nhau về căn bản trong phân tích chứng khoán. Đúng là mọi nhà phân tích giỏi đều nhìn về tương lai chứ không nhìn về quá khứ, và biết rằng công việc của mình đúng hay sai tuỳ vào điều sẽ xảy ra chứ không phải điều đã xảy ra. Tuy vậy, có thể tiếp cận tương lai theo hai cách, gọi là cách dự đoán (hay phóng chiếu, projection) và cách bảo vệ (protection). *Chú thích của Zweig:* đây là một trong những điểm trung tâm của sách. Mọi nhà đầu tư đều chịu một nghịch lý tàn nhẫn: ta đầu tư ở hiện tại nhưng đầu tư cho tương lai, mà tương lai gần như hoàn toàn bất định. Lạm phát và lãi suất không đáng tin; suy thoái đến và đi ngẫu nhiên; biến động địa chính trị như chiến tranh, thiếu hụt hàng hoá cơ bản và khủng bố đến không báo trước; số phận của từng công ty và ngành thường ngược với điều đa số nhà đầu tư chờ đợi. Vì vậy đầu tư dựa vào dự đoán là trò của kẻ khờ; ngay cả dự báo của các chuyên gia còn kém tin cậy hơn tung đồng xu. Với phần lớn mọi người, đầu tư dựa vào bảo vệ — bảo vệ khỏi việc trả giá quá cao cho một cổ phiếu và khỏi việc quá tin vào phán đoán của chính mình — là giải pháp tốt nhất. Graham phát triển khái niệm này ở Chương 20.
+*Chú thích của Zweig:* ở đây Graham tóm tắt "giả thuyết thị trường hiệu quả" (EMH), một lý thuyết học thuật cho rằng giá mỗi cổ phiếu đã chứa mọi thông tin công khai về công ty. Với hàng triệu nhà đầu tư rà soát thị trường mỗi ngày, các sai lệch giá nghiêm trọng khó tồn tại lâu.
 
-**Cách dự đoán.** Người nhấn mạnh dự đoán sẽ cố đoán khá chính xác công ty sẽ đạt được gì trong những năm tới, nhất là lợi nhuận có tăng mạnh và bền hay không. Kết luận có thể dựa trên nghiên cứu rất kỹ các yếu tố như cung cầu trong ngành, hoặc sản lượng, giá và chi phí; hoặc chỉ là kéo dài một cách khá ngây thơ đường tăng trưởng quá khứ vào tương lai. Nếu tin rằng triển vọng dài hạn thuận lợi bất thường, họ gần như luôn khuyên mua mà không mấy để ý đến mức giá. Đó là thái độ chung đối với cổ phiếu vận tải hàng không, thái độ kéo dài nhiều năm dù kết quả thường tệ hại sau năm 1946. Ở phần Giới thiệu, Graham đã bình luận về sự chênh lệch giữa diễn biến giá mạnh mẽ và lợi nhuận tương đối đáng thất vọng của ngành này.
+Một chuyện đùa cũ kể hai giáo sư tài chính đi trên vỉa hè; một người thấy tờ 20 USD và cúi xuống nhặt, người kia nắm tay anh ta: "Đừng mất công. Nếu đó thật là tờ 20 USD thì đã có người nhặt rồi." Thị trường không hiệu quả hoàn hảo, nhưng phần lớn thời gian khá gần như vậy; nhà đầu tư thông minh chỉ cúi xuống nhặt "tờ 20 USD" của thị trường chứng khoán sau khi nghiên cứu kỹ, đồng thời giảm tối thiểu chi phí giao dịch và thuế.
+
+Graham nói câu "giá hiện tại phản ánh cả dữ kiện đã biết lẫn kỳ vọng tương lai" nhằm nhấn mạnh hai cơ sở của định giá thị trường. Hai loại yếu tố giá trị này ứng với hai cách tiếp cận khác nhau về căn bản trong phân tích chứng khoán. Đúng là mọi nhà phân tích giỏi đều nhìn về tương lai chứ không nhìn về quá khứ, và biết rằng công việc của mình đúng hay sai tuỳ vào điều sẽ xảy ra chứ không phải điều đã xảy ra. Tuy vậy, có thể tiếp cận tương lai theo hai cách, gọi là cách dự đoán (hay phóng chiếu, projection) và cách bảo vệ (protection).
+
+*Chú thích của Zweig:* đây là một trong những điểm trung tâm của sách. Mọi nhà đầu tư đều chịu một nghịch lý tàn nhẫn: ta đầu tư ở hiện tại nhưng đầu tư cho tương lai, mà tương lai gần như hoàn toàn bất định. Lạm phát và lãi suất không đáng tin; suy thoái đến và đi ngẫu nhiên; biến động địa chính trị như chiến tranh, thiếu hụt hàng hoá cơ bản và khủng bố đến không báo trước; số phận của từng công ty và ngành thường ngược với điều đa số nhà đầu tư chờ đợi.
+
+Vì vậy đầu tư dựa vào dự đoán là trò của kẻ khờ; ngay cả dự báo của các chuyên gia còn kém tin cậy hơn tung đồng xu. Với phần lớn mọi người, đầu tư dựa vào bảo vệ — bảo vệ khỏi việc trả giá quá cao cho một cổ phiếu và khỏi việc quá tin vào phán đoán của chính mình — là giải pháp tốt nhất. Graham phát triển khái niệm này ở Chương 20.
+
+**Cách dự đoán.** Người nhấn mạnh dự đoán sẽ cố đoán khá chính xác công ty sẽ đạt được gì trong những năm tới, nhất là lợi nhuận có tăng mạnh và bền hay không. Kết luận có thể dựa trên nghiên cứu rất kỹ các yếu tố như cung cầu trong ngành, hoặc sản lượng, giá và chi phí; hoặc chỉ là kéo dài một cách khá ngây thơ đường tăng trưởng quá khứ vào tương lai. Nếu tin rằng triển vọng dài hạn thuận lợi bất thường, họ gần như luôn khuyên mua mà không mấy để ý đến mức giá.
+
+Đó là thái độ chung đối với cổ phiếu vận tải hàng không, thái độ kéo dài nhiều năm dù kết quả thường tệ hại sau năm 1946. Ở phần Giới thiệu, Graham đã bình luận về sự chênh lệch giữa diễn biến giá mạnh mẽ và lợi nhuận tương đối đáng thất vọng của ngành này.
 
 **Cách bảo vệ.** Ngược lại, người nhấn mạnh bảo vệ luôn đặc biệt quan tâm đến giá của mã chứng khoán tại thời điểm phân tích. Nỗ lực chính của họ là bảo đảm có một biên đáng kể của giá trị hiện tại (được chỉ ra bằng số liệu) vượt trên giá thị trường, đủ để hấp thụ các diễn biến bất lợi trong tương lai. Nói chung, họ không cần hào hứng với triển vọng dài hạn của công ty, chỉ cần tin một cách hợp lý rằng doanh nghiệp sẽ trụ vững được.
 
@@ -696,7 +735,11 @@ Cách thứ nhất, dự đoán, cũng có thể gọi là cách tiếp cận đ
 
 Trong thái độ và công việc chuyên môn của mình, Graham luôn theo cách tiếp cận định lượng. Ngay từ đầu, ông muốn chắc chắn nhận được giá trị tốt cho đồng tiền theo cách cụ thể, chứng minh được. Ông không chịu chấp nhận triển vọng và lời hứa của tương lai để bù cho việc thiếu giá trị hiện có. Đây hoàn toàn không phải quan điểm chuẩn của giới đầu tư; trái lại, đa số có lẽ đồng ý rằng triển vọng, chất lượng ban điều hành, các tài sản vô hình khác và "yếu tố con người" quan trọng hơn nhiều so với những gì có thể rút ra từ nghiên cứu hồ sơ quá khứ, bảng cân đối và mọi con số lạnh lùng khác.
 
-Vì vậy, chuyện chọn những cổ phiếu "tốt nhất" về căn bản gây tranh cãi lớn. Lời khuyên của Graham cho nhà đầu tư phòng thủ là để yên chuyện đó, và nhấn mạnh đa dạng hoá hơn là chọn lọc từng mã. Ông nói thêm rằng ý tưởng đa dạng hoá, vốn được chấp nhận rộng rãi, ít nhất một phần là sự phủ nhận các tham vọng chọn lọc: nếu chọn được mã tốt nhất một cách chắc chắn thì đa dạng hoá chỉ làm thiệt. Tuy vậy, trong khuôn khổ bốn quy tắc chung nhất về chọn cổ phiếu cho nhà đầu tư phòng thủ (nêu ở Chương 5: đa dạng hoá vừa đủ nhưng không quá mức, tối thiểu 10 và tối đa khoảng 30 mã; mỗi công ty phải lớn, nổi tiếng và được tài trợ thận trọng; có lịch sử trả cổ tức liên tục lâu dài; giá mua có giới hạn theo bội số lợi nhuận — theo hiểu biết của người tổng hợp, giới hạn đó là không quá 25 lần lợi nhuận bình quân 7 năm và 20 lần lợi nhuận 12 tháng gần nhất), vẫn có chỗ cho khá nhiều sở thích cá nhân. Tệ nhất, chiều theo sở thích đó không gây hại; hơn thế, nó có thể thêm chút giá trị vào kết quả. Với tác động ngày càng lớn của tiến bộ công nghệ lên kết quả dài hạn của doanh nghiệp, nhà đầu tư không thể bỏ chúng ra ngoài tính toán. Ở đây cũng như ở chỗ khác, nhà đầu tư phải tìm điểm giữa sự bỏ bê và sự nhấn mạnh quá mức.
+Vì vậy, chuyện chọn những cổ phiếu "tốt nhất" về căn bản gây tranh cãi lớn. Lời khuyên của Graham cho nhà đầu tư phòng thủ là để yên chuyện đó, và nhấn mạnh đa dạng hoá hơn là chọn lọc từng mã. Ông nói thêm rằng ý tưởng đa dạng hoá, vốn được chấp nhận rộng rãi, ít nhất một phần là sự phủ nhận các tham vọng chọn lọc: nếu chọn được mã tốt nhất một cách chắc chắn thì đa dạng hoá chỉ làm thiệt.
+
+Tuy vậy, trong khuôn khổ bốn quy tắc chung nhất về chọn cổ phiếu cho nhà đầu tư phòng thủ (nêu ở Chương 5: đa dạng hoá vừa đủ nhưng không quá mức, tối thiểu 10 và tối đa khoảng 30 mã; mỗi công ty phải lớn, nổi tiếng và được tài trợ thận trọng; có lịch sử trả cổ tức liên tục lâu dài; giá mua có giới hạn theo bội số lợi nhuận — theo hiểu biết của người tổng hợp, giới hạn đó là không quá 25 lần lợi nhuận bình quân 7 năm và 20 lần lợi nhuận 12 tháng gần nhất), vẫn có chỗ cho khá nhiều sở thích cá nhân. Tệ nhất, chiều theo sở thích đó không gây hại; hơn thế, nó có thể thêm chút giá trị vào kết quả.
+
+Với tác động ngày càng lớn của tiến bộ công nghệ lên kết quả dài hạn của doanh nghiệp, nhà đầu tư không thể bỏ chúng ra ngoài tính toán. Ở đây cũng như ở chỗ khác, nhà đầu tư phải tìm điểm giữa sự bỏ bê và sự nhấn mạnh quá mức.
 
 ### Phần B — Bình luận của Jason Zweig (2003)
 
@@ -712,7 +755,11 @@ Tự nghiên cứu và chọn cổ phiếu là không cần thiết; với đa s
 
 Trong thị trường giá lên thập niên 1990, một lời chê phổ biến nhất đối với đa dạng hoá là nó làm giảm khả năng đạt lợi suất cao. Nếu nhận ra được "Microsoft tiếp theo", chẳng phải nên dồn hết trứng vào giỏ đó sao?
 
-Zweig đáp: tất nhiên rồi. Như nhà hài hước Will Rogers nói: "Đừng đánh bạc. Hãy lấy hết tiền tiết kiệm mua một cổ phiếu tốt, giữ đến khi nó lên rồi bán. Nếu nó không lên thì đừng mua." Nhưng như Rogers biết, khả năng nhìn trước hoàn hảo không phải món quà dành cho đa số nhà đầu tư. Dù tự tin đến đâu, ta không thể biết một cổ phiếu có tăng hay không cho tới khi đã mua nó. Vì thế, mã bạn tưởng là "Microsoft tiếp theo" rất có thể hoá ra là MicroStrategy tiếp theo: cựu ngôi sao thị trường này rơi từ 3.130 USD một cổ phiếu tháng 3/2000 xuống 15,10 USD cuối năm 2002, mất 99,5%. *Chú thích của Zweig (chú thích 1 của bình luận):* giá đã điều chỉnh theo các lần tách cổ phiếu. Với nhiều người, đầu năm 2000 MicroStrategy thật sự trông như Microsoft tiếp theo: cổ phiếu tăng 566,7% năm 1999, và chủ tịch Michael Saylor tuyên bố "tương lai của chúng tôi hôm nay còn tốt hơn 18 tháng trước". Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) sau đó cáo buộc MicroStrategy gian lận kế toán, và Saylor nộp 8,3 triệu USD tiền phạt để dàn xếp. Giữ tiền trải trên nhiều cổ phiếu và nhiều ngành là bảo hiểm đáng tin cậy duy nhất trước rủi ro chọn sai.
+Zweig đáp: tất nhiên rồi. Như nhà hài hước Will Rogers nói: "Đừng đánh bạc. Hãy lấy hết tiền tiết kiệm mua một cổ phiếu tốt, giữ đến khi nó lên rồi bán. Nếu nó không lên thì đừng mua." Nhưng như Rogers biết, khả năng nhìn trước hoàn hảo không phải món quà dành cho đa số nhà đầu tư. Dù tự tin đến đâu, ta không thể biết một cổ phiếu có tăng hay không cho tới khi đã mua nó.
+
+Vì thế, mã bạn tưởng là "Microsoft tiếp theo" rất có thể hoá ra là MicroStrategy tiếp theo: cựu ngôi sao thị trường này rơi từ 3.130 USD một cổ phiếu tháng 3/2000 xuống 15,10 USD cuối năm 2002, mất 99,5%. *Chú thích của Zweig (chú thích 1 của bình luận):* giá đã điều chỉnh theo các lần tách cổ phiếu. Với nhiều người, đầu năm 2000 MicroStrategy thật sự trông như Microsoft tiếp theo: cổ phiếu tăng 566,7% năm 1999, và chủ tịch Michael Saylor tuyên bố "tương lai của chúng tôi hôm nay còn tốt hơn 18 tháng trước". Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) sau đó cáo buộc MicroStrategy gian lận kế toán, và Saylor nộp 8,3 triệu USD tiền phạt để dàn xếp.
+
+Giữ tiền trải trên nhiều cổ phiếu và nhiều ngành là bảo hiểm đáng tin cậy duy nhất trước rủi ro chọn sai.
 
 Nhưng đa dạng hoá không chỉ giảm khả năng sai; nó còn tối đa hoá khả năng đúng. Qua những giai đoạn dài, một nhúm cổ phiếu trở thành "siêu cổ phiếu" tăng 10.000% trở lên. Tạp chí *Money* đã xác định 30 cổ phiếu có thành tích tốt nhất trong 30 năm kết thúc năm 2002, và ngay cả khi nhìn lại, danh sách vẫn khó đoán đến kinh ngạc. Thay vì nhiều mã công nghệ hay y tế, nó gồm Southwest Airlines, Worthington Steel, chuỗi cửa hàng giảm giá Dollar General và hãng sản xuất thuốc lá hít UST Inc. *Chú thích của Zweig (chú thích 2):* Jon Birger, "The 30 Best Stocks", *Money*, mùa thu 2002, tr. 88–95. Nếu bạn nghĩ mình đã sẵn sàng đặt cược lớn vào một trong các mã đó năm 1972, bạn đang đùa.
 
@@ -730,7 +777,9 @@ Phố Wall luôn đầy nghịch lý cay đắng, và vụ vỡ bong bóng cổ 
 
 **Các công ty tăng trưởng một thời nay có bảng cân đối bảo thủ (Figure 14-1 trong sách, "Tout ce qui est nouveau est vieux à nouveau").** Bảng là khoảng trắng trong PDF trang 312, không chép được tên công ty hay số liệu. Phần còn lại trong PDF là chú giải: mọi số liệu tính bằng triệu USD, theo báo cáo tài chính gần nhất có được tại 31/12/2002; vốn lưu động là tài sản lưu động trừ nợ ngắn hạn; nợ dài hạn bao gồm cổ phiếu ưu đãi, không gồm thuế thu nhập hoãn lại phải trả; nguồn: Morgan Stanley, Baseline, cơ sở dữ liệu EDGAR trên www.sec.gov. Lời bình dưới bảng: năm 1999, phần lớn các công ty này thuộc nhóm đắt nhất thị trường, hứa hẹn tăng trưởng tiềm năng cao; đầu năm 2003, chúng đưa ra bằng chứng hữu hình về giá trị thật.
 
-Bài học không phải là các cổ phiếu này "chắc ăn" hay bạn nên vội mua hết (hay mua bất kỳ mã nào) trong bảng. *Chú thích của Zweig:* đến lúc bạn đọc những dòng này, nhiều thứ đã thay đổi so với cuối năm 2002. Bài học là nhà đầu tư phòng thủ luôn có thể phát đạt bằng cách kiên nhẫn và bình tĩnh lục tìm trong đống đổ nát của một thị trường giá xuống. Tiêu chí sức mạnh tài chính của Graham vẫn hiệu quả: nếu lập một giỏ đa dạng gồm các cổ phiếu có tài sản lưu động ít nhất gấp đôi nợ ngắn hạn và nợ dài hạn không vượt vốn lưu động, bạn sẽ có một nhóm công ty được tài trợ thận trọng, có sức trụ tốt. Giá trị tốt nhất hôm nay thường nằm ở những cổ phiếu từng "nóng" và nay đã "nguội". Trong suốt lịch sử, những cổ phiếu như vậy thường cung cấp biên an toàn mà nhà đầu tư phòng thủ đòi hỏi.
+Bài học không phải là các cổ phiếu này "chắc ăn" hay bạn nên vội mua hết (hay mua bất kỳ mã nào) trong bảng. *Chú thích của Zweig:* đến lúc bạn đọc những dòng này, nhiều thứ đã thay đổi so với cuối năm 2002.
+
+Bài học là nhà đầu tư phòng thủ luôn có thể phát đạt bằng cách kiên nhẫn và bình tĩnh lục tìm trong đống đổ nát của một thị trường giá xuống. Tiêu chí sức mạnh tài chính của Graham vẫn hiệu quả: nếu lập một giỏ đa dạng gồm các cổ phiếu có tài sản lưu động ít nhất gấp đôi nợ ngắn hạn và nợ dài hạn không vượt vốn lưu động, bạn sẽ có một nhóm công ty được tài trợ thận trọng, có sức trụ tốt. Giá trị tốt nhất hôm nay thường nằm ở những cổ phiếu từng "nóng" và nay đã "nguội". Trong suốt lịch sử, những cổ phiếu như vậy thường cung cấp biên an toàn mà nhà đầu tư phòng thủ đòi hỏi.
 
 **Lợi nhuận ổn định.** Theo Morgan Stanley, 86% công ty trong S&P 500 có lợi nhuận dương mỗi năm từ 1993 đến 2002. Vì vậy yêu cầu của Graham về "có lãi cho cổ phiếu phổ thông trong mỗi năm của 10 năm gần nhất" vẫn là phép thử hợp lệ: đủ khó để loại những công ty thua lỗ kinh niên, nhưng không hẹp đến mức chỉ để lại một mẫu không thực tế.
 
@@ -759,7 +808,11 @@ Bảng tổng hợp các con số Zweig nêu (người tổng hợp lập; đơn
 | Giá dưới 2,5 lần giá trị sổ sách | 273 (55%) |
 | P/E × P/B không quá 22,5 | Ít nhất 142 |
 
-**P/E vừa phải.** Graham khuyên chỉ mua cổ phiếu có giá hiện tại không quá 15 lần lợi nhuận bình quân 3 năm gần nhất. Zweig thấy khó tin rằng thông lệ phổ biến trên Phố Wall ngày nay là định giá cổ phiếu bằng cách chia giá hiện tại cho một thứ gọi là "lợi nhuận năm sau", cho ra cái đôi khi gọi là "P/E dự phóng" (forward P/E). Nhưng lấy giá hiện tại đã biết chia cho lợi nhuận tương lai chưa biết để ra tỷ số giá/lợi nhuận là vô lý. Về dài hạn, nhà quản lý danh mục David Dreman đã chỉ ra rằng 59% dự báo lợi nhuận "đồng thuận" của Phố Wall trật mục tiêu với biên độ rất lớn, đánh giá thấp hoặc cao hơn lợi nhuận thực tế công bố ít nhất 15%. *Chú thích của Zweig (chú thích 2):* David Dreman, "Bubbles and the Role of Analysts' Forecasts", *The Journal of Psychology and Financial Markets*, tập 3, số 1 (2002), tr. 4–14. Đặt tiền dựa vào điều mà những "thầy bói cận thị" này dự báo cho năm tới, theo Zweig, liều lĩnh như tình nguyện đứng làm bia trong một cuộc thi bắn cung của người khiếm thị. Thay vào đó, hãy tự tính P/E theo công thức của Graham: giá hiện tại chia lợi nhuận bình quân 3 năm gần nhất. *Chú thích của Zweig (chú thích 3):* có thể tự tính từ báo cáo năm của công ty hoặc lấy dữ liệu trên các trang như www.morningstar.com hay http://finance.yahoo.com.
+**P/E vừa phải.** Graham khuyên chỉ mua cổ phiếu có giá hiện tại không quá 15 lần lợi nhuận bình quân 3 năm gần nhất. Zweig thấy khó tin rằng thông lệ phổ biến trên Phố Wall ngày nay là định giá cổ phiếu bằng cách chia giá hiện tại cho một thứ gọi là "lợi nhuận năm sau", cho ra cái đôi khi gọi là "P/E dự phóng" (forward P/E). Nhưng lấy giá hiện tại đã biết chia cho lợi nhuận tương lai chưa biết để ra tỷ số giá/lợi nhuận là vô lý.
+
+Về dài hạn, nhà quản lý danh mục David Dreman đã chỉ ra rằng 59% dự báo lợi nhuận "đồng thuận" của Phố Wall trật mục tiêu với biên độ rất lớn, đánh giá thấp hoặc cao hơn lợi nhuận thực tế công bố ít nhất 15%. *Chú thích của Zweig (chú thích 2):* David Dreman, "Bubbles and the Role of Analysts' Forecasts", *The Journal of Psychology and Financial Markets*, tập 3, số 1 (2002), tr. 4–14. Đặt tiền dựa vào điều mà những "thầy bói cận thị" này dự báo cho năm tới, theo Zweig, liều lĩnh như tình nguyện đứng làm bia trong một cuộc thi bắn cung của người khiếm thị.
+
+Thay vào đó, hãy tự tính P/E theo công thức của Graham: giá hiện tại chia lợi nhuận bình quân 3 năm gần nhất. *Chú thích của Zweig (chú thích 3):* có thể tự tính từ báo cáo năm của công ty hoặc lấy dữ liệu trên các trang như www.morningstar.com hay http://finance.yahoo.com.
 
 Đầu năm 2003, bao nhiêu cổ phiếu S&P 500 được định giá không quá 15 lần lợi nhuận bình quân 2000–2002? Theo Morgan Stanley, một con số khá rộng rãi là 185 công ty đạt phép thử của Graham.
 
@@ -819,7 +872,9 @@ Nhà đầu tư phòng thủ chọn cổ phiếu tốt nhất bằng cách **lo�
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương này là một phương pháp **sàng lọc giá trị định lượng (quantitative value screening)** kết hợp **bộ lọc chất lượng (quality filter)**: các ngưỡng về thanh khoản (current ratio), đòn bẩy (nợ dài hạn/vốn lưu động ròng, nợ/vốn chủ), độ ổn định lợi nhuận, lịch sử cổ tức, tăng trưởng EPS và định giá (P/E chuẩn hoá theo bình quân nhiều năm, P/B, tích P/E × P/B). Việc so sánh **tỷ suất lợi nhuận (earnings yield)** với lợi suất trái phiếu AA là một dạng so sánh phần bù rủi ro cổ phiếu. Phần "dự đoán và bảo vệ" đối lập **đầu tư tăng trưởng dựa trên dự báo** với **đầu tư giá trị dựa trên biên an toàn**; phần thảo luận về 100 nhà phân tích là phiên bản sớm của lập luận **thị trường hiệu quả** và cơ sở cho **đầu tư thụ động** mà Zweig khuyến nghị (mô hình "lõi và vệ tinh" — core and satellite — 90/10).
+Chương này là một phương pháp **sàng lọc giá trị định lượng (quantitative value screening)** kết hợp **bộ lọc chất lượng (quality filter)**: các ngưỡng về thanh khoản (current ratio), đòn bẩy (nợ dài hạn/vốn lưu động ròng, nợ/vốn chủ), độ ổn định lợi nhuận, lịch sử cổ tức, tăng trưởng EPS và định giá (P/E chuẩn hoá theo bình quân nhiều năm, P/B, tích P/E × P/B). Việc so sánh **tỷ suất lợi nhuận (earnings yield)** với lợi suất trái phiếu AA là một dạng so sánh phần bù rủi ro cổ phiếu.
+
+Phần "dự đoán và bảo vệ" đối lập **đầu tư tăng trưởng dựa trên dự báo** với **đầu tư giá trị dựa trên biên an toàn**; phần thảo luận về 100 nhà phân tích là phiên bản sớm của lập luận **thị trường hiệu quả** và cơ sở cho **đầu tư thụ động** mà Zweig khuyến nghị (mô hình "lõi và vệ tinh" — core and satellite — 90/10).
 
 ## Thuật ngữ
 
@@ -918,7 +973,11 @@ Phép thử 100 nhà phân tích và lập luận rằng giá đã phản ánh d
 
 ### Lời khuyên quỹ chỉ số của Zweig đã trở thành dòng chính
 
-Theo hiểu biết của người tổng hợp, sau 2003 quỹ chỉ số và ETF chi phí thấp phát triển mạnh, phí giảm xuống gần bằng không, và tài sản trong quỹ thụ động ở Mỹ dần ngang rồi vượt quỹ chủ động. Lời khuyên "90% lõi chỉ số, 10% tự chọn" của Zweig nay là mô hình phổ biến. Quan điểm trái chiều: khi quá nhiều tiền chảy vào quỹ chỉ số theo vốn hoá, chỉ số trở nên tập trung vào vài công ty lớn nhất, nên "sở hữu cả đống rơm" cũng có nghĩa là dồn nhiều vào vài "cây kim" lớn; một số người dùng các bộ lọc kiểu Graham chính để tránh sự tập trung đó. Ví dụ MicroStrategy của Zweig cũng có một hậu truyện, theo hiểu biết của người tổng hợp: từ khoảng 2020 công ty chuyển sang nắm giữ bitcoin với quy mô lớn và cổ phiếu lại biến động dữ dội — minh hoạ thêm rằng không ai đoán trước được số phận một mã đơn lẻ.
+Theo hiểu biết của người tổng hợp, sau 2003 quỹ chỉ số và ETF chi phí thấp phát triển mạnh, phí giảm xuống gần bằng không, và tài sản trong quỹ thụ động ở Mỹ dần ngang rồi vượt quỹ chủ động. Lời khuyên "90% lõi chỉ số, 10% tự chọn" của Zweig nay là mô hình phổ biến.
+
+Quan điểm trái chiều: khi quá nhiều tiền chảy vào quỹ chỉ số theo vốn hoá, chỉ số trở nên tập trung vào vài công ty lớn nhất, nên "sở hữu cả đống rơm" cũng có nghĩa là dồn nhiều vào vài "cây kim" lớn; một số người dùng các bộ lọc kiểu Graham chính để tránh sự tập trung đó.
+
+Ví dụ MicroStrategy của Zweig cũng có một hậu truyện, theo hiểu biết của người tổng hợp: từ khoảng 2020 công ty chuyển sang nắm giữ bitcoin với quy mô lớn và cổ phiếu lại biến động dữ dội — minh hoạ thêm rằng không ai đoán trước được số phận một mã đơn lẻ.
 
 ### Cảnh báo về "P/E dự phóng" và sở hữu tổ chức vẫn đúng
 
@@ -926,4 +985,195 @@ Phân tích viên vẫn thường định giá theo lợi nhuận dự báo, và
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả nhà đầu tư Việt Nam
 
-Bảy tiêu chí có thể dùng làm danh sách kiểm tra trước khi mua bất kỳ cổ phiếu nào: công ty có đủ lớn, có vay quá nhiều, có lỗ năm nào trong 10 năm, có trả cổ tức tiền mặt đều đặn, lợi nhuận có tăng, và giá có quá 15 lần lợi nhuận bình quân 3 năm hay 1,5 lần sổ sách không. Ở các thị trường mới nổi như Việt Nam, lịch sử niêm yết thường ngắn hơn 20 năm, nên tiêu chí cổ tức và lợi nhuận 10 năm phải nới hoặc áp dụng với lịch sử hoạt động trước niêm yết; các ngưỡng quy mô phải đổi sang đơn vị và quy mô thị trường trong nước. Lời khuyên của Graham về công ty tài chính (soi kỹ sức mạnh tài chính) và lời khuyên của Zweig (đọc báo cáo ít nhất 5 năm, xem cơ cấu sở hữu, ưu tiên quỹ chỉ số chi phí thấp làm nền nếu có) áp dụng được trực tiếp ở mức định tính.
+Bảy tiêu chí có thể dùng làm danh sách kiểm tra trước khi mua bất kỳ cổ phiếu nào: công ty có đủ lớn, có vay quá nhiều, có lỗ năm nào trong 10 năm, có trả cổ tức tiền mặt đều đặn, lợi nhuận có tăng, và giá có quá 15 lần lợi nhuận bình quân 3 năm hay 1,5 lần sổ sách không.
+
+Ở các thị trường mới nổi như Việt Nam, lịch sử niêm yết thường ngắn hơn 20 năm, nên tiêu chí cổ tức và lợi nhuận 10 năm phải nới hoặc áp dụng với lịch sử hoạt động trước niêm yết; các ngưỡng quy mô phải đổi sang đơn vị và quy mô thị trường trong nước. Lời khuyên của Graham về công ty tài chính (soi kỹ sức mạnh tài chính) và lời khuyên của Zweig (đọc báo cáo ít nhất 5 năm, xem cơ cấu sở hữu, ưu tiên quỹ chỉ số chi phí thấp làm nền nếu có) áp dụng được trực tiếp ở mức định tính.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 14 trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết, bốn nhánh đầu cho Phần A (Chương 14 của Graham: Mục 1–2 hai cách lập danh mục và bảy tiêu chí, Mục 3–4 nhận xét chung và phép thử trên DJIA cuối 1970, Mục 5–7 ba nhóm ngành công ích, tài chính, đường sắt, Mục 8 dự đoán hay bảo vệ) và hai nhánh sau cho Phần B (bình luận của Zweig: Mục 1–2 quỹ chỉ số và đa dạng hoá, Mục 3–4 cập nhật bảy tiêu chí với S&P 500 đầu 2003 và các bước kiểm tra), mỗi nhánh ghi ngưỡng số, ví dụ công ty và số liệu then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 14: nhà đầu tư phòng thủ không cố chọn mã tốt nhất mà loại trừ bằng bảy tiêu chí số rồi đa dạng hoá`"]
+  n1["`Phần A, Mục 1–2 — Graham: hai cách lập danh mục và bảy tiêu chí`"]
+  n0 --- n1
+  n8["`Cách 1, danh mục kiểu DJIA: mua đều 30 mã, 10 cổ phiếu mỗi mã tốn khoảng 16.000 USD khi chỉ số ở 900`"]
+  n1 --- n8
+  n16["`Zweig: ngày nay chỉ cần một quỹ chỉ số chi phí thấp theo dõi toàn thị trường Mỹ`"]
+  n8 --- n16
+  n9["`Cách 2, danh mục kiểm định định lượng: chất lượng tối thiểu và đủ lợi nhuận, tài sản trên mỗi đô la giá`"]
+  n1 --- n9
+  n10["`Quy mô: doanh thu ≥ 100 triệu USD (công nghiệp), tổng tài sản ≥ 50 triệu USD (công ích)`"]
+  n1 --- n10
+  n11["`Tài chính: tài sản lưu động ≥ 2 lần nợ ngắn hạn, nợ dài hạn ≤ vốn lưu động ròng`"]
+  n1 --- n11
+  n12["`Có lãi mỗi năm trong 10 năm, trả cổ tức không gián đoạn ≥ 20 năm`"]
+  n1 --- n12
+  n13["`Tăng trưởng: EPS bình quân 3 năm cuối kỳ cao hơn đầu kỳ ít nhất một phần ba trong 10 năm`"]
+  n1 --- n13
+  n14["`Giá ≤ 15 lần lợi nhuận bình quân 3 năm và ≤ 1½ lần giá trị sổ sách`"]
+  n1 --- n14
+  n15["`Hoặc P/E × P/B ≤ 22,5: mã có P/E 9 vẫn được có P/B 2,5`"]
+  n14 --- n15
+  n2["`Phần A, Mục 3–4 — Tiêu chí loại cả công ty yếu lẫn cổ phiếu đắt, thử trên DJIA cuối 1970`"]
+  n0 --- n2
+  n17["`Hướng 1 loại công ty yếu: quá nhỏ, tài chính yếu, từng lỗ, không có lịch sử cổ tức dài`"]
+  n2 --- n17
+  n18["`Phép thử tài chính khắt khe nhất: số công ty DJIA trượt mỗi phép thử tăng từ 2 (1960) lên 12 (12/1970)`"]
+  n17 --- n18
+  n19["`Hướng 2 loại cổ phiếu đắt: giá dựa quá nhiều vào lợi nhuận tăng mãi là thiếu biên an toàn`"]
+  n2 --- n19
+  n20["`Tỷ suất lợi nhuận/giá của danh mục ≥ lợi suất trái phiếu AA: lãi 7,5% thì P/E ≤ 13,3`"]
+  n2 --- n20
+  n21["`Zweig 2003: trái phiếu AA lãi 4,6% nên P/E trần 21,7, bình quân khoảng 17`"]
+  n20 --- n21
+  n22["`DJIA cuối 1970 cả khối đạt: giá 839, lợi nhuận bình quân 3 năm 55,5 USD, P/E đúng trần 15`"]
+  n2 --- n22
+  n23["`Giá trị tài sản ròng 562 nên giá/sổ sách đúng trần 1½, tăng trưởng 10 năm 77%, khoảng 6%/năm`"]
+  n22 --- n23
+  n24["`Xét từng mã chỉ 5/30 đạt cả bảy tiêu chí: American Can, AT#amp;T, Anaconda, Swift, Woolworth`"]
+  n2 --- n24
+  n25["`Năm mã này tăng giá kém DJIA đến đầu 1972: tiêu chí chỉ bảo đảm nhận đủ giá trị, không bảo đảm thắng thị trường`"]
+  n24 --- n25
+  n26["`Graham ước khoảng 100 mã trong Stock Guide của S#amp;P cuối 1970 qua mọi phép thử`"]
+  n2 --- n26
+  n3["`Phần A, Mục 5–7 — Ba nhóm ngành: công ích, tài chính, đường sắt`"]
+  n0 --- n3
+  n27["`Công ích đầu 1972: tăng trưởng gần ngang công nghiệp DJIA, ổn định hơn, rẻ hơn, cổ tức cao hơn`"]
+  n3 --- n27
+  n28["`Bỏ tiêu chí tỷ lệ thanh toán hiện hành, đòi vốn chủ đủ lớn so với nợ, loại phần lớn đường ống dẫn khí`"]
+  n27 --- n28
+  n29["`Độc quyền được điều tiết là lợi thế: luật cho phép giá đủ thu hút vốn và bù chi phí tăng`"]
+  n27 --- n29
+  n30["`P/E tương đối công nghiệp và công ích đổi chỗ trong 20 năm: thà bán và nộp thuế còn hơn không bán rồi hối hận`"]
+  n3 --- n30
+  n31["`Zweig: công ích nay biến động hơn, nên giữ qua quỹ IDU, XLU, dù chỉ số công ích S#amp;P vượt NASDAQ 30 năm đến 2002`"]
+  n3 --- n31
+  n32["`Công ty tài chính: ít tài sản hữu hình, nợ ngắn hạn lớn hơn nhiều vốn cổ phần nên sức mạnh tài chính quan trọng hơn`"]
+  n3 --- n32
+  n33["`Cuối 1970 chỉ số S#amp;P từ 44,3 (9 ngân hàng New York) đến 218 (11 bảo hiểm nhân thọ), gốc 1941–1943 = 10`"]
+  n32 --- n33
+  n34["`Với tài chính, áp đúng chuẩn giá so với lợi nhuận và giá trị sổ sách như công nghiệp, công ích`"]
+  n32 --- n34
+  n35["`Đường sắt: hơn nửa số dặm đường từng phá sản trong 50 năm, nhưng chỉ số tăng 7 lần 1942–1968`"]
+  n3 --- n35
+  n36["`Penn Central phá sản 1970 sau hơn 120 năm trả cổ tức: không bắt buộc sở hữu đường sắt, chỉ mua khi giá trị vượt trội`"]
+  n35 --- n36
+  n37["`Zweig: lời khuyên này đúng ít nhất ngang thế cho cổ phiếu hàng không ngày nay`"]
+  n35 --- n37
+  n4["`Phần A, Mục 8 — Dự đoán hay bảo vệ: chọn lọc hay đa dạng hoá`"]
+  n0 --- n4
+  n38["`Nhờ 100 nhà phân tích chọn 5 mã tốt nhất trong DJIA sẽ ra nhiều danh sách khác hẳn nhau`"]
+  n4 --- n38
+  n39["`Giá mã hàng đầu đã phản ánh dữ kiện và kỳ vọng, ai cũng đồng ý một mã thì giá tăng xoá hết lợi thế`"]
+  n4 --- n39
+  n40["`Zweig: đây là bản tóm tắt giả thuyết thị trường hiệu quả`"]
+  n39 --- n40
+  n41["`Dự đoán (định tính): đoán tăng trưởng lợi nhuận rồi mua bất kể giá, như cổ phiếu hàng không sau 1946`"]
+  n4 --- n41
+  n42["`Bảo vệ (định lượng): đòi giá trị hiện có vượt giá thị trường đủ hấp thụ diễn biến xấu`"]
+  n4 --- n42
+  n43["`Graham luôn theo cách định lượng, không nhận lời hứa tương lai thay cho giá trị hiện có`"]
+  n42 --- n43
+  n44["`Nhấn mạnh đa dạng hoá hơn chọn lọc: chọn đúng mã tốt nhất chắc chắn thì đa dạng hoá chỉ làm thiệt`"]
+  n4 --- n44
+  n45["`Trong bốn quy tắc Chương 5 (10 đến khoảng 30 mã), sở thích cá nhân không hại, có thể thêm chút giá trị`"]
+  n44 --- n45
+  n5["`Phần B, Mục 1–2 — Zweig: quỹ chỉ số làm nền và vì sao phải đa dạng hoá`"]
+  n0 --- n5
+  n46["`Đề từ Francis Bacon: kèm những cuộc phiêu lưu với những điều chắc chắn đủ gánh được thua lỗ`"]
+  n5 --- n46
+  n47["`Quỹ chỉ số toàn thị trường chi phí thấp là công cụ tốt nhất từng có cho đầu tư cổ phiếu ít công sức`"]
+  n5 --- n47
+  n48["`Thích tự chọn mã: quỹ chỉ số là nền móng, giữ 90% tiền cổ phiếu ở đó, 10% để thử sức`"]
+  n47 --- n48
+  n49["`MicroStrategy tăng 566,7% năm 1999 rồi rơi từ 3.130 USD xuống 15,10 USD, mất 99,5%`"]
+  n5 --- n49
+  n50["`Trải tiền ra nhiều mã, nhiều ngành là bảo hiểm đáng tin duy nhất trước rủi ro chọn sai`"]
+  n49 --- n50
+  n51["`Đa dạng hoá còn tối đa hoá cơ hội nắm siêu cổ phiếu tăng 10.000% trở lên như Southwest Airlines, Dollar General, UST`"]
+  n5 --- n51
+  n52["`Sở hữu cả đống rơm qua quỹ chỉ số thì chắc chắn có mọi cây kim`"]
+  n51 --- n52
+  n6["`Phần B, Mục 3–4 — Bảy tiêu chí vẫn dùng được với S#amp;P 500 đầu 2003, kèm các bước kiểm tra`"]
+  n0 --- n6
+  n53["`Quy mô: tránh giá trị thị trường dưới 2 tỷ USD, vẫn còn 437 công ty S#amp;P 500`"]
+  n6 --- n53
+  n54["`Khoảng 120 công ty đạt tỷ lệ 2:1, giá trị tốt nhất thường ở mã từng nóng nay đã nguội`"]
+  n6 --- n54
+  n55["`86% có lãi mọi năm 1993–2002, 255 trả cổ tức ≥ 20 năm, 57 tăng cổ tức ≥ 25 năm liền`"]
+  n6 --- n55
+  n56["`EPS tăng ≥ 33% có 264 công ty nhưng ngưỡng này dưới 3%/năm, nâng lên 50% còn 245`"]
+  n6 --- n56
+  n57["`P/E dự phóng là vô lý: Dreman thấy 59% dự báo đồng thuận sai ít nhất 15%`"]
+  n6 --- n57
+  n58["`Tự tính P/E bằng lợi nhuận bình quân 3 năm: 185 công ty ≤ 15`"]
+  n57 --- n58
+  n59["`Tài sản vô hình đẩy P/B lên: 123 công ty dưới 1,5, ít nhất 142 qua phép thử 22,5`"]
+  n6 --- n59
+  n60["`Đọc báo cáo năm, quý, tài liệu uỷ quyền ít nhất 5 năm trên EDGAR, không thì mua quỹ chỉ số`"]
+  n6 --- n60
+  n61["`Sở hữu tổ chức trên 60% là dấu hiệu bị sở hữu quá mức, dễ sụp khi các tổ chức cùng bán`"]
+  n6 --- n61
+  n7["`Thông điệp xuyên suốt`"]
+  n0 --- n7
+  n62["`Việc của nhà đầu tư phòng thủ là loại trừ theo con số rồi đa dạng hoá, không đi tìm mã tốt nhất`"]
+  n7 --- n62
+  n63["`Tiêu chí bảo vệ khỏi trả giá quá cao, là mầm của khái niệm biên an toàn ở Chương 20`"]
+  n7 --- n63
+  n64["`Graham 1972: danh mục mã qua bảy tiêu chí, Zweig 2003: quỹ chỉ số toàn thị trường làm lõi`"]
+  n7 --- n64
+  class n0 root
+  class n1,n2,n3,n4,n5,n6,n7 branch
+  class n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 14 "Sélection des titres pour l'investisseur défensif" (PDF trang 295–309) và "Commentaire sur le chapitre 14" (PDF trang 309–316). Chú thích của Graham: PDF trang 488; chú thích của Zweig: PDF trang 570–572.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, cây bút chuyên mục của tạp chí *Money* (2003).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương 4 đến 7 đã mô tả chính sách danh mục cho hai loại nhà đầu tư; riêng Chương 5 ([C05-nha-dau-tu-phong-thu-va-co-phieu.md](C05-nha-dau-tu-phong-thu-va-co-phieu.md)) đưa ra bốn quy tắc chung để nhà đầu tư phòng thủ chọn cổ phiếu. Các chương 11 đến 13 dạy phân tích chứng khoán cho người không chuyên; cuối Chương 13 ([C13-so-sanh-bon-cong-ty-niem-yet.md](C13-so-sanh-bon-cong-ty-niem-yet.md)), sau khi so sánh bốn công ty niêm yết, Graham liệt kê bảy tiêu chí chất lượng và số lượng.
+
+Chương 14 là nơi các công cụ phân tích đó được dùng để thực thi chính sách của nhà đầu tư phòng thủ: Graham định nghĩa từng tiêu chí bằng con số, thử chúng trên 30 cổ phiếu của chỉ số Dow Jones công nghiệp (DJIA) cuối năm 1970, rồi bàn riêng ba nhóm ngành (dịch vụ công ích, tài chính, đường sắt) và kết thúc bằng lập luận "dự đoán hay bảo vệ".
+
+Chương 15 ([C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md)) làm việc tương tự cho nhà đầu tư năng động, với các tiêu chí nới lỏng hơn và tập trung vào cổ phiếu giá hời. Ý "bảo vệ thay vì dự đoán" sẽ được Graham phát triển thành khái niệm biên an toàn ở Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md)); vụ phá sản Penn Central được nhắc ở đây được phân tích kỹ ở Chương 17 ([C17-bon-truong-hop-dang-hoc.md](C17-bon-truong-hop-dang-hoc.md)).
+
+## Lưu ý
+
+- **Toàn bộ bảng và hình của chương bị thiếu trong bản PDF.** Ở các vị trí của Tableau 14-1 (PDF trang 299–300), Tableau 14-2 và 14-3 (trang 300), Tableau 14-4 và 14-5 (trang 301–303), Tableau 14-6 (trang 304), Tableau 14-7 (trang 305), Figure 14-1 (trang 312) và Figure 14-2 (trang 313–315), ảnh trang chỉ có khoảng trắng; trang 314 trắng hoàn toàn.
+
+  Kiểm tra cấu trúc file PDF cho thấy cả cuốn chỉ có một ảnh nhúng (bìa sách, trang 1) và không có lớp chữ nào ở các vùng này. Bản PDF chỉ còn tiêu đề của Tableau 14-1, 14-6, 14-7, Figure 14-1, 14-2 (tiêu đề 14-6 và 14-7 bị cắt cụt), còn Tableau 14-2 đến 14-5 thậm chí không có tiêu đề.
+
+  Vì vậy bản tổng hợp **không thể chép số liệu của các bảng**, kể cả bảng 30 cổ phiếu DJIA. Bản tổng hợp chỉ (a) chép mọi con số mà lời văn của Graham và Zweig trích từ các bảng; (b) mô tả nội dung từng bảng theo lời văn; (c) ghi tên 30 công ty DJIA năm 1971 và cấu trúc cột của một số bảng theo hiểu biết của người tổng hợp về bản tiếng Anh, không tra cứu, có đánh dấu rõ, **không kèm số liệu nào tự dựng**. Muốn có số liệu đầy đủ cần đối chiếu bản tiếng Anh (Revised Edition, HarperBusiness 2003).
+- Tiêu đề chương trong PDF là "Sélection **des** titres pour l'investisseur défensif"; phần chú thích của Graham (PDF trang 488) ghi "Sélection **de** titres ...". Bản tổng hợp dùng đúng tiêu đề ở đầu chương.
+- PDF trang 295 bắt đầu bằng đoạn cuối bình luận Chương 13 (kết cục của Emerson Electric, EMC, Expeditors International và Exodus sau 1999); đoạn này không thuộc Chương 14.
+- Lỗi dịch máy ảnh hưởng tới nghĩa:
+  - tiêu chí 6 ghi "15 fois le **salaire** moyen" (15 lần *tiền lương* bình quân) — đúng phải là 15 lần **lợi nhuận** bình quân (earnings);
+  - ở mục áp dụng cho DJIA, "rapport entre le prix et la **valeur liquidative**" nghĩa là giá so với **giá trị tài sản ròng** (net asset value, tức giá trị sổ sách), không phải giá trị thanh lý;
+  - "problème(s)" là dịch sai chữ *issue(s)* (một mã chứng khoán), không phải "vấn đề";
+  - "stocks" là cổ phiếu, không phải hàng tồn kho;
+  - "obligations à haute teneur" là trái phiếu hạng cao (high-grade);
+  - "opportunités de négocier" là cơ hội mua giá hời (bargain);
+  - "préoccupations financières" là các *công ty* tài chính (financial concerns);
+  - "la capacité de l'entreprise à s'entendre" là khả năng doanh nghiệp *trụ vững, xoay xở được* (to get along);
+  - "une avance apparemment excessive" là mức *tăng giá* có vẻ quá đà;
+  - "mais deux d'entre eux à peine" nghĩa là DJIA đạt hai tiêu chí *chỉ vừa sát nút* (P/E và giá/sổ sách đúng bằng mức trần);
+  - "Ces mouvements croisés se retrouvent dans la plupart, peut-être la plupart" là lỗi lặp — bản gốc có nghĩa "trong nhiều, có lẽ là phần lớn" các nhóm ngành;
+  - "à peine inconnu" (Zweig) có nghĩa cổ phiếu *đã được biết đến quá rộng rãi*;
+  - "Tourbillons stables" (tiêu đề Figure 14-2) là dịch từng chữ một thành ngữ tiếng Anh chỉ những công ty ổn định, đều đặn;
+  - câu so sánh của Zweig về "lever le nez lors d'un tournoi de tir à l'arc pour les aveugles" bị dịch méo, ý là liều mạng như tình nguyện đứng làm bia trong cuộc thi bắn cung của người khiếm thị.
+- Graham dẫn trang của bản tiếng Anh mà PDF không có số trang in: "à la p. 423 ci-dessous" (phân tích Penn Central, nằm ở Chương 17) và "aux pp. 114 et 115" (bốn quy tắc chọn cổ phiếu cho nhà đầu tư phòng thủ, nằm ở Chương 5). Bản tổng hợp nói thẳng nội dung được dẫn.
+- Đối chiếu số: 10 cổ phiếu × 30 mã × giá bình quân khoảng 53 USD (chú thích 1 của Graham) cho khoảng 15.900 USD, khớp con số "khoảng 16.000 USD"; 839 ÷ 55,5 ≈ 15,1 và 839 ÷ 562 ≈ 1,49, khớp nhận xét "đúng mức trần"; 100 ÷ 7,5 ≈ 13,3; 15 × 1,5 = 9 × 2,5 = 22,5; tăng 77% trong 10 năm tương đương khoảng 5,9%/năm (Graham ghi "khoảng 6%"); tăng 33% trong 10 năm ≈ 2,9%/năm, 50% ≈ 4,1%/năm, 100% ≈ 7,2%/năm (Zweig ghi 3%, 4%, 7%); MicroStrategy 15,10 ÷ 3.130 ≈ 0,5%, tức mất 99,5%; 354/500 ≈ 71%, 123/500 ≈ một phần tư, 273/500 ≈ 55%. Tất cả khớp.
+- Chú thích 2 của Graham nói "29 công ty công nghiệp" năm 1960 dù DJIA có 30 mã; có lẽ Graham loại AT&T (một công ty công ích) khỏi phép đếm — đây là suy đoán của người tổng hợp.
+- Số liệu đã cũ: lợi suất trái phiếu AA 7,5% (1972) và 4,6% (đầu 2003); mọi số đếm S&P 500 là đầu năm 2003. Theo hiểu biết của người tổng hợp, không tra cứu: phần lớn năm công ty đạt cả bảy tiêu chí năm 1970 đã không còn tồn tại dưới tên cũ (AT&T bị chia tách năm 1984; Anaconda, American Can, Swift, Woolworth đều rời DJIA và đổi tên hoặc bị mua lại); trong bốn công ty Zweig nêu là qua phép thử 22,5 năm 2003, Dana Corp. nộp đơn phá sản năm 2006, Washington Mutual sụp đổ năm 2008 (vụ đổ vỡ ngân hàng lớn nhất lịch sử Mỹ), EDS bị HP mua (2008), Sun Microsystems bị Oracle mua (2010). Các trang web Zweig nêu (quicktake.morningstar.com, quicken.com, bondtalk.com) phần lớn đã đổi hoặc ngừng hoạt động.

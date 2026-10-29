@@ -1,27 +1,20 @@
 # Chương 13 — So sánh bốn công ty niêm yết (Comparaison de quatre sociétés cotées)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 13 "Comparaison de quatre sociétés cotées" (PDF trang 282–289) và "Commentaire sur le chapitre 13" (PDF trang 289–295). Chú thích của Graham lấy từ phần chú thích cuối sách (PDF trang 487); chú thích của Zweig lấy từ phần chú thích cuối sách (PDF trang 568–570).
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972, số liệu đến cuối năm 1970, một vài chỗ cập nhật đến đầu năm 1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 11 ([C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md)) giới thiệu các công cụ của phân tích chứng khoán (security analysis) cho người không chuyên: khả năng sinh lời, sự ổn định, tăng trưởng, tình hình tài chính, cổ tức, lịch sử giá. Chương 12 ([C12-nhung-dieu-can-xet-ve-eps.md](C12-nhung-dieu-can-xet-ve-eps.md)) cảnh báo rằng con số lợi nhuận trên mỗi cổ phiếu (EPS) một năm có thể bị bóp méo, nên phải dùng lợi nhuận bình quân nhiều năm và tính đến pha loãng. Chương 13 là bài thực hành ngắn: Graham áp dụng đúng các công cụ đó cho bốn công ty đứng liền nhau trong danh sách niêm yết của Sở Giao dịch Chứng khoán New York (ELTRA, Emerson Electric, Emery Air Freight, Emhart), và lần đầu tóm tắt **bảy tiêu chuẩn thống kê** mà nhà đầu tư phòng thủ nên đòi hỏi. Chương 14 ([C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md)) sẽ triển khai chi tiết bảy tiêu chuẩn này và áp dụng cho cả 30 cổ phiếu của chỉ số Dow Jones; Chương 18 ([C18-so-sanh-tam-cap-cong-ty.md](C18-so-sanh-tam-cap-cong-ty.md)) lặp lại cách so sánh từng cặp công ty ở quy mô lớn hơn.
-**Ý chính:** Graham muốn người đọc hiểu rằng **khi so sánh các công ty, điều khác biệt lớn nhất thường không nằm ở chất lượng kinh doanh mà ở cái giá thị trường đòi trả cho chất lượng đó; nhà đầu tư thận trọng nên chọn công ty tốt đang bán ở giá vừa phải, thay vì công ty xuất sắc đang bán ở giá đã trả trước cho nhiều năm tăng trưởng tương lai**. Cuối năm 1970, bốn công ty đều làm ăn tốt, tài chính lành mạnh, nợ dài hạn thấp. Thế nhưng ELTRA và Emhart chỉ được định giá 9,7 lần và 12 lần lợi nhuận bình quân 1968–1970 (chỉ số Dow Jones: 15,5 lần), xấp xỉ giá trị sổ sách, tỷ suất cổ tức cao gấp đôi; còn Emerson Electric và Emery Air Freight được định giá 33 lần và 45 lần. Emerson có tổng giá trị thị trường khoảng 1,6 tỷ USD, lớn hơn ba công ty kia cộng lại, trong đó hơn 1 tỷ USD là cái giá trả cho "yếu tố vô hình" (khả năng sinh lời được kỳ vọng). Đến tháng 3/1972, Emery bán ở 64 lần lợi nhuận năm 1971. Graham nhắc vụ Zenith Radio: cũng được định giá 1,7 tỷ USD năm 1966, rồi lợi nhuận giảm một nửa và giá rơi từ 89 xuống 22½. Kết luận của ông: ELTRA (giá 27 USD) và Emhart (giá 33 USD) thoả cả bảy tiêu chuẩn cho nhà đầu tư phòng thủ; Emerson và Emery thì không, và chỉ người đã nghiên cứu rất sâu và có niềm tin đặc biệt mạnh mới có lý do trả giá cao như vậy. Nhưng ông cũng thừa nhận không có gì bảo đảm cặp "giá rẻ" sẽ vượt cặp "giá đắt" trong ngắn hạn; lựa chọn cuối cùng phụ thuộc vào việc nhà đầu tư thật sự ưa phong cách giá trị hay phong cách "hào nhoáng".
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **bài học này lặp lại gần như nguyên vẹn ở cuối năm 1999, ở mức cực đoan hơn nhiều**. Ông chọn bốn công ty cũng đứng liền nhau trong danh sách niêm yết: Emerson Electric (thành viên duy nhất còn lại trong bộ bốn của Graham), EMC (lưu trữ dữ liệu), Expeditors International (giao nhận hàng hoá) và Exodus Communications (lưu trữ web). Emerson, công ty đắt nhất trong bộ bốn của Graham, nay rẻ nhất: 17,7 lần lợi nhuận, 42 năm liên tục tăng lợi nhuận. EMC tăng giá hơn 81.000% trong thập niên 1990 và bán ở 103 lần lợi nhuận, nhưng nếu bỏ phần doanh thu mua thêm từ Data General thì doanh thu chỉ tăng 3,6%. Expeditors tăng trưởng thật, không nợ dài hạn, bán ở 39 lần lợi nhuận và hầu như không được Phố Wall để ý. Exodus tăng 1.005,8% trong năm 1999, tách cổ phiếu ba lần, nhưng lỗ 130,3 triệu USD trên doanh thu 242,1 triệu USD và nợ 2,6 tỷ USD. Đến cuối năm 2002: Emerson gần như giữ giá (thấp hơn chưa tới 4% so với cuối 1999), EMC mất 88%, Expeditors tăng khoảng 51%, còn Exodus phá sản (tháng 9/2001) và cổ phiếu chỉ còn một xu.
+Graham muốn người đọc hiểu rằng **khi so sánh các công ty, điều khác biệt lớn nhất thường không nằm ở chất lượng kinh doanh mà ở cái giá thị trường đòi trả cho chất lượng đó; nhà đầu tư thận trọng nên chọn công ty tốt đang bán ở giá vừa phải, thay vì công ty xuất sắc đang bán ở giá đã trả trước cho nhiều năm tăng trưởng tương lai**.
 
-> **Lưu ý:**
-> - **Bản PDF thiếu toàn bộ các bảng số liệu.** Ở PDF trang 283 chỉ còn dòng tiêu đề "TABLEAU 13-2 Comparaison de quatre sociétés cotées" và một khoảng trắng; Tableau 13-1 (giá, vốn hoá, doanh thu và lợi nhuận năm 1970 của bốn công ty) không có cả tiêu đề. Bảng của Zweig ở PDF trang 290 (giá, kết quả kinh doanh và định giá cuối năm 1999 của Emerson, EMC, Expeditors, Exodus) cũng chỉ còn câu dẫn "Ce tableau résume le prix, la performance et la valorisation de ces sociétés à fin 1999:" và khoảng trắng. Người tổng hợp đã kiểm tra: toàn bộ file PDF chỉ chứa đúng một hình ảnh (ảnh bìa), nên các bảng đã bị mất khi xuất file, không phải do lỗi hiển thị. Vì vậy các bảng trong bản tổng hợp này **không phải bản chép của bảng gốc**: chúng được dựng lại từ những con số Graham và Zweig nêu trong lời văn và trong chú thích, có ghi rõ dòng nào do người tổng hợp tính ngược. Muốn có đủ mọi dòng của Tableau 13-1 và 13-2 (ví dụ số cổ phiếu lưu hành, tài sản lưu động, giá cao nhất và thấp nhất từng năm) cần đối chiếu ấn bản tiếng Anh.
-> - **Bản dịch máy đổi "earnings" thành "salaire" (tiền lương).** "9,7 fois et 12 fois le salaire moyen pour 1968–1970" và tiêu chuẩn số 7 "pas plus de 15 fois le salaire moyen des trois dernières années" đều phải hiểu là lợi nhuận (earnings) bình quân, không phải tiền lương.
-> - **"ELTRA à 27 ans et Emhart à 33 ans"** là dịch sai "ELTRA at 27 and Emhart at 33": đây là **giá cổ phiếu 27 USD và 33 USD**, không phải tuổi của công ty.
-> - **"valeur liquidative"** ở tiêu chuẩn số 6 dễ hiểu nhầm là giá trị thanh lý; nghĩa đúng là giá trị tài sản ròng (net asset value), tức giá trị sổ sách của vốn cổ đông. Zweig xác nhận ở chú thích rằng ELTRA và Emhart bán chỉ "nhỉnh hơn giá trị sổ sách một chút".
-> - **"le chiffre d'affaires par dollar de chiffre d'affaires"** (doanh thu trên mỗi đô la doanh thu) là câu vô nghĩa; nghĩa đúng là **lợi nhuận trên mỗi đô la doanh thu** (biên lợi nhuận), như câu tiếp theo về "tỷ số lợi nhuận hoạt động trên doanh thu" cho thấy.
-> - **"les deux préoccupations populaires"** (hai mối lo phổ biến) là dịch sai "the two popular concerns", nghĩa là **hai công ty được ưa chuộng** (Emerson và Emery); "concern" ở đây là doanh nghiệp.
-> - **"Les actions de la société ont été suspendues"** (Zweig, về Emerson) không có nghĩa là cổ phiếu bị đình chỉ giao dịch; ý là giá cổ phiếu **giậm chân tại chỗ**. Tương tự "pause des prix de 1969-1970" là đợt **sụt giá** 1969–1970; "enfant blond" là "con cưng" (fair-haired child) của thị trường; "long pull" là nắm giữ dài hạn; "commerçants en ligne" là những người giao dịch trực tuyến (online traders).
-> - **Ví dụ tiền xu của Zweig bị dịch sai.** Bản tiếng Pháp viết "vous m'ayez remis un centime, puis je vous ai rendu deux nickels" (một xu đổi lấy hai đồng nickel). Trong tiếng Anh, đồng được đưa là một **dime** (10 xu) và nhận lại hai **nickel** (mỗi đồng 5 xu): tổng giá trị không đổi, đó mới là điểm của ví dụ tách cổ phiếu.
-> - **Chữ "sept" lạc chỗ** ở cuối câu trích Graham (PDF trang 294) là số chú thích 7 bị máy dịch thành chữ. Chú thích 7 dẫn bài nói của Graham "The New Speculation in Common Stocks" ở phụ lục, "p. 563" của bản tiếng Anh; bản PDF không có số trang in. Nội dung bài nói được tổng hợp ở [PL2-7-cac-phu-luc-khac.md](PL2-7-cac-phu-luc-khac.md).
-> - **Câu bị vỡ:** "Une étude approfondie pourrait être nécessaire avant de porter un jugement sûr. transmis sur ces points, mais l'investisseur conservateur ne peut pas les laisser hors de son compte général." Nghĩa là: cần nghiên cứu kỹ trước khi kết luận chắc chắn về các điểm này, nhưng nhà đầu tư thận trọng không được bỏ qua chúng khi đánh giá tổng thể.
-> - **Ba con số P/E của Emery không mâu thuẫn mà ứng với ba thời điểm:** 45 lần lợi nhuận bình quân 1968–1970 (giá cuối 1970), "gần 40 lần" lợi nhuận cao nhất từng công bố (lợi nhuận năm 1970), và "hơn 60 lần lợi nhuận gần đây" (Graham cập nhật theo giá năm 1972; chú thích của Graham ghi tháng 3/1972 Emery bán ở 64 lần lợi nhuận năm 1971).
-> - **Tiêu đề chương.** Mục lục và danh sách file ghi "Une comparaison de quatre sociétés cotées", nhưng tiêu đề ngay trong chương ở PDF trang 282 và trong phần chú thích là "Comparaison de quatre sociétés cotées" (không có "Une"); bản tổng hợp dùng tiêu đề trong chương.
-> - **Số liệu đã cũ.** Theo chú thích của Zweig (2003): ELTRA sáp nhập với Bunker Ramo trong thập niên 1970, phần còn lại nay thuộc Honeywell; Emery Air Freight thành một bộ phận của CNF Inc.; Emhart bị Black & Decker mua năm 1989. Theo hiểu biết của người tổng hợp, không tra cứu: EMC được Dell mua lại năm 2016; Expeditors vẫn là một công ty giao nhận lớn niêm yết trên sàn Mỹ; Emerson Electric vẫn hoạt động nhưng đã tái cấu trúc mạnh, bán bớt nhiều mảng kinh doanh cũ.
-> - **Kiểm tra phép tính (người tổng hợp):** các con số tổng hợp của Zweig khớp: EMC +21,7%, −79,4%, −54,3% cộng dồn còn 1,217 × 0,206 × 0,457 ≈ 0,115, tức mất khoảng 88%; Expeditors +22,9%, +6,5%, +15,1% cộng dồn ≈ +51%; Exodus 156 triệu + 1,3 tỷ − 1 tỷ ≈ 456 triệu USD tiền mặt đã tiêu (Zweig ghi "hơn 400 triệu"); doanh thu EMC từ 5,4 tỷ (1998) lên 10 tỷ USD (2001) đòi hỏi tăng khoảng 23%/năm. Một chỗ làm tròn nhỏ: 5,4 lên 5,6 tỷ USD là +3,7%, Zweig ghi 3,6% (có lẽ do số chưa làm tròn).
+Cuối năm 1970, bốn công ty đều làm ăn tốt, tài chính lành mạnh, nợ dài hạn thấp. Thế nhưng ELTRA và Emhart chỉ được định giá 9,7 lần và 12 lần lợi nhuận bình quân 1968–1970 (chỉ số Dow Jones: 15,5 lần), xấp xỉ giá trị sổ sách, tỷ suất cổ tức cao gấp đôi; còn Emerson Electric và Emery Air Freight được định giá 33 lần và 45 lần.
+
+Emerson có tổng giá trị thị trường khoảng 1,6 tỷ USD, lớn hơn ba công ty kia cộng lại, trong đó hơn 1 tỷ USD là cái giá trả cho "yếu tố vô hình" (khả năng sinh lời được kỳ vọng). Đến tháng 3/1972, Emery bán ở 64 lần lợi nhuận năm 1971. Graham nhắc vụ Zenith Radio: cũng được định giá 1,7 tỷ USD năm 1966, rồi lợi nhuận giảm một nửa và giá rơi từ 89 xuống 22½.
+
+Kết luận của ông: ELTRA (giá 27 USD) và Emhart (giá 33 USD) thoả cả bảy tiêu chuẩn cho nhà đầu tư phòng thủ; Emerson và Emery thì không, và chỉ người đã nghiên cứu rất sâu và có niềm tin đặc biệt mạnh mới có lý do trả giá cao như vậy. Nhưng ông cũng thừa nhận không có gì bảo đảm cặp "giá rẻ" sẽ vượt cặp "giá đắt" trong ngắn hạn; lựa chọn cuối cùng phụ thuộc vào việc nhà đầu tư thật sự ưa phong cách giá trị hay phong cách "hào nhoáng".
+
+Zweig, viết năm 2003, bổ sung rằng **bài học này lặp lại gần như nguyên vẹn ở cuối năm 1999, ở mức cực đoan hơn nhiều**. Ông chọn bốn công ty cũng đứng liền nhau trong danh sách niêm yết: Emerson Electric (thành viên duy nhất còn lại trong bộ bốn của Graham), EMC (lưu trữ dữ liệu), Expeditors International (giao nhận hàng hoá) và Exodus Communications (lưu trữ web).
+
+Emerson, công ty đắt nhất trong bộ bốn của Graham, nay rẻ nhất: 17,7 lần lợi nhuận, 42 năm liên tục tăng lợi nhuận. EMC tăng giá hơn 81.000% trong thập niên 1990 và bán ở 103 lần lợi nhuận, nhưng nếu bỏ phần doanh thu mua thêm từ Data General thì doanh thu chỉ tăng 3,6%. Expeditors tăng trưởng thật, không nợ dài hạn, bán ở 39 lần lợi nhuận và hầu như không được Phố Wall để ý.
+
+Exodus tăng 1.005,8% trong năm 1999, tách cổ phiếu ba lần, nhưng lỗ 130,3 triệu USD trên doanh thu 242,1 triệu USD và nợ 2,6 tỷ USD. Đến cuối năm 2002: Emerson gần như giữ giá (thấp hơn chưa tới 4% so với cuối 1999), EMC mất 88%, Expeditors tăng khoảng 51%, còn Exodus phá sản (tháng 9/2001) và cổ phiếu chỉ còn một xu.
 
 ## Sơ đồ
 
@@ -455,9 +448,13 @@ Theo Graham, những mức tăng nhiều lần như vậy là đặc trưng củ
 
 Chú thích của Zweig: cuối năm 1970, giá trị thị trường 1,6 tỷ USD của Emerson thật sự là "khổng lồ" so với quy mô trung bình của các cổ phiếu thời đó. Cuối năm 2002, tổng giá trị thị trường cổ phiếu phổ thông của Emerson vào khoảng 21 tỷ USD.
 
-Graham xếp Emerson vào nhóm mà ông gọi là "những gã khổng lồ nhờ lợi thế vô hình" (goodwill giants): những công ty mà thị trường định giá cao hơn nhiều so với tài sản hữu hình, vì tin vào khả năng sinh lời của chúng; ông hẹn sẽ bàn thêm về nhóm này. Một nhà phân tích có trí nhớ tốt (Graham nói là "được ban phước, hoặc bị làm khổ") sẽ liên tưởng Emerson với Zenith Radio, và sự liên tưởng đó không dễ chịu. Zenith cũng có thành tích tăng trưởng rực rỡ trong nhiều năm; cũng được thị trường định giá 1,7 tỷ USD (năm 1966); nhưng lợi nhuận giảm từ 43 triệu USD năm 1968 xuống chỉ còn một nửa năm 1970, và trong đợt bán tháo lớn năm 1970 giá cổ phiếu rơi xuống 22½ USD, so với đỉnh trước đó là 89 USD. Graham kết: định giá cao kéo theo rủi ro cao.
+Graham xếp Emerson vào nhóm mà ông gọi là "những gã khổng lồ nhờ lợi thế vô hình" (goodwill giants): những công ty mà thị trường định giá cao hơn nhiều so với tài sản hữu hình, vì tin vào khả năng sinh lời của chúng; ông hẹn sẽ bàn thêm về nhóm này. Một nhà phân tích có trí nhớ tốt (Graham nói là "được ban phước, hoặc bị làm khổ") sẽ liên tưởng Emerson với Zenith Radio, và sự liên tưởng đó không dễ chịu.
 
-**Emery Air Freight.** Emery phải là công ty có triển vọng tăng trưởng tốt nhất trong bốn công ty thì hệ số P/E gần 40 lần lợi nhuận cao nhất từng công bố mới có thể được biện minh, dù chỉ một phần. Tăng trưởng quá khứ dĩ nhiên rất ấn tượng. Nhưng các con số này có thể không có nhiều ý nghĩa cho tương lai, vì chúng xuất phát từ một nền khá nhỏ: lợi nhuận ròng chỉ 570.000 USD năm 1958. Duy trì tốc độ tăng trưởng cao thường khó hơn nhiều khi doanh thu và lợi nhuận đã lên tới những con số lớn. Điều đáng ngạc nhiên nhất trong lịch sử Emery là lợi nhuận và giá cổ phiếu vẫn tiếp tục tăng nhanh trong năm 1970, năm tồi tệ nhất của ngành vận tải hàng không chở khách nội địa Mỹ. Đó là một thành tựu đáng chú ý, nhưng nó đặt ra câu hỏi liệu lợi nhuận tương lai có dễ bị tổn thương trước các diễn biến bất lợi hay không: cạnh tranh gia tăng, áp lực đòi thay đổi thoả thuận giữa các công ty giao nhận và các hãng hàng không, v.v. Có thể cần nghiên cứu kỹ trước khi đưa ra nhận định chắc chắn về những điểm này, nhưng nhà đầu tư thận trọng không thể bỏ chúng ra ngoài khi đánh giá tổng thể.
+Zenith cũng có thành tích tăng trưởng rực rỡ trong nhiều năm; cũng được thị trường định giá 1,7 tỷ USD (năm 1966); nhưng lợi nhuận giảm từ 43 triệu USD năm 1968 xuống chỉ còn một nửa năm 1970, và trong đợt bán tháo lớn năm 1970 giá cổ phiếu rơi xuống 22½ USD, so với đỉnh trước đó là 89 USD. Graham kết: định giá cao kéo theo rủi ro cao.
+
+**Emery Air Freight.** Emery phải là công ty có triển vọng tăng trưởng tốt nhất trong bốn công ty thì hệ số P/E gần 40 lần lợi nhuận cao nhất từng công bố mới có thể được biện minh, dù chỉ một phần. Tăng trưởng quá khứ dĩ nhiên rất ấn tượng. Nhưng các con số này có thể không có nhiều ý nghĩa cho tương lai, vì chúng xuất phát từ một nền khá nhỏ: lợi nhuận ròng chỉ 570.000 USD năm 1958. Duy trì tốc độ tăng trưởng cao thường khó hơn nhiều khi doanh thu và lợi nhuận đã lên tới những con số lớn.
+
+Điều đáng ngạc nhiên nhất trong lịch sử Emery là lợi nhuận và giá cổ phiếu vẫn tiếp tục tăng nhanh trong năm 1970, năm tồi tệ nhất của ngành vận tải hàng không chở khách nội địa Mỹ. Đó là một thành tựu đáng chú ý, nhưng nó đặt ra câu hỏi liệu lợi nhuận tương lai có dễ bị tổn thương trước các diễn biến bất lợi hay không: cạnh tranh gia tăng, áp lực đòi thay đổi thoả thuận giữa các công ty giao nhận và các hãng hàng không, v.v. Có thể cần nghiên cứu kỹ trước khi đưa ra nhận định chắc chắn về những điểm này, nhưng nhà đầu tư thận trọng không thể bỏ chúng ra ngoài khi đánh giá tổng thể.
 
 **Emhart và ELTRA.** Trong 14 năm qua, Emhart làm ăn tốt hơn so với diễn biến giá cổ phiếu của nó. Năm 1958, Emhart được bán ở mức tới 22 lần lợi nhuận năm đó, gần bằng tỷ lệ của DJIA. Từ đó lợi nhuận của Emhart tăng gấp ba, trong khi lợi nhuận của nhóm Dow tăng chưa tới 100%; vậy mà giá đóng cửa năm 1970 của Emhart chỉ cao hơn đỉnh năm 1958 một phần ba, còn Dow cao hơn 43%. Thành tích của ELTRA cũng khá tương tự. Graham nhận xét rằng cả hai công ty đều không có chút "hào nhoáng" hay "sức quyến rũ" nào trên thị trường lúc đó, nhưng trong mọi số liệu thống kê chúng đều hiện lên tốt đến ngạc nhiên.
 
@@ -476,7 +473,9 @@ Chú thích của Graham: tháng 3/1972, Emery được bán ở mức 64 lần 
 
 Câu trả lời của Graham: có thể, với người đã nghiên cứu kỹ những khả năng của công ty và đã đi đến kết luận lạc quan một cách đặc biệt chắc chắn. Nhưng không, với nhà đầu tư cẩn trọng muốn chắc chắn ở mức hợp lý ngay từ đầu rằng mình không phạm phải sai lầm điển hình của Phố Wall: quá hăng hái trước thành tích lợi nhuận tốt và giá cổ phiếu đang lên.
 
-Chú thích của Zweig: Graham đã đúng. Trong nhóm "Nifty Fifty" (năm mươi cổ phiếu thời thượng, được ưa chuộng nhất năm 1972), Emery thuộc loại tệ nhất. Số tạp chí *Forbes* ngày 1/3/1982 cho biết từ năm 1972, Emery đã mất 72,8% giá trị sau khi trừ lạm phát. Theo các nhà nghiên cứu đầu tư của Leuthold Group ở Minneapolis, đến cuối năm 1974 cổ phiếu Emery đã giảm 58% và hệ số P/E rơi từ 64 lần xuống chỉ 15 lần. Sự "quá hăng hái" mà Graham cảnh báo đã bị thổi bay rất nhanh. Thời gian có bù đắp được kiểu định giá quá đà này không? Không phải lúc nào cũng vậy: Leuthold tính rằng 1.000 USD đầu tư vào Emery năm 1972 đến năm 1999 chỉ còn đáng 839 USD. Nhiều khả năng những người đã trả quá giá cho cổ phiếu Internet cuối thập niên 1990 sẽ không hoà vốn trong nhiều thập kỷ, thậm chí không bao giờ (Zweig dẫn sang bình luận Chương 20).
+Chú thích của Zweig: Graham đã đúng. Trong nhóm "Nifty Fifty" (năm mươi cổ phiếu thời thượng, được ưa chuộng nhất năm 1972), Emery thuộc loại tệ nhất. Số tạp chí *Forbes* ngày 1/3/1982 cho biết từ năm 1972, Emery đã mất 72,8% giá trị sau khi trừ lạm phát. Theo các nhà nghiên cứu đầu tư của Leuthold Group ở Minneapolis, đến cuối năm 1974 cổ phiếu Emery đã giảm 58% và hệ số P/E rơi từ 64 lần xuống chỉ 15 lần. Sự "quá hăng hái" mà Graham cảnh báo đã bị thổi bay rất nhanh.
+
+Thời gian có bù đắp được kiểu định giá quá đà này không? Không phải lúc nào cũng vậy: Leuthold tính rằng 1.000 USD đầu tư vào Emery năm 1972 đến năm 1999 chỉ còn đáng 839 USD. Nhiều khả năng những người đã trả quá giá cho cổ phiếu Internet cuối thập niên 1990 sẽ không hoà vốn trong nhiều thập kỷ, thậm chí không bao giờ (Zweig dẫn sang bình luận Chương 20).
 
 Những lời cảnh báo tương tự cũng cần thiết với Emerson Electric, đặc biệt vì thị trường đang định giá hơn 1 tỷ USD cho yếu tố vô hình, tức khả năng sinh lời, của công ty. Graham nói thêm rằng "ngành điện tử", từng là con cưng của thị trường chứng khoán, nhìn chung đã sa sút trong những ngày tồi tệ. Emerson là một ngoại lệ nổi bật, nhưng công ty sẽ phải tiếp tục là ngoại lệ trong nhiều năm nữa thì giá đóng cửa năm 1970 mới được chứng minh đầy đủ là hợp lý bởi kết quả kinh doanh sau đó.
 
@@ -496,7 +495,9 @@ Lợi suất trên vốn đầu tư của hai công ty từ lâu đã đạt yê
 
 Graham không đưa ra dự đoán nào về kết quả tương lai của ELTRA hay Emhart. Trong danh mục cổ phiếu đa dạng hoá của nhà đầu tư, chắc chắn sẽ có vài cổ phiếu gây thất vọng, và đó có thể là một hoặc cả hai công ty này. Nhưng bản thân danh mục đa dạng hoá, chọn theo các nguyên tắc trên cộng với bất kỳ tiêu chuẩn hợp lý nào khác mà nhà đầu tư muốn áp dụng, sẽ cho kết quả đủ tốt qua nhiều năm. Graham nói ít nhất kinh nghiệm lâu năm đã cho ông thấy như vậy.
 
-**Nhận xét cuối cùng.** Một nhà phân tích chứng khoán dày dạn, dù đồng ý với lập luận chung của Graham về bốn công ty, vẫn sẽ ngần ngại khuyên người đang nắm Emerson hay Emery đổi sang ELTRA hay Emhart vào cuối năm 1970, trừ khi người đó hiểu rõ triết lý đằng sau lời khuyên. Không có lý do gì để kỳ vọng cặp P/E thấp sẽ vượt cặp P/E cao trong thời gian ngắn. Cặp P/E cao đang được thị trường đánh giá tốt và do đó có đà tăng đáng kể, đà này có thể kéo dài không biết bao lâu. Căn cứ vững chắc để chọn ELTRA và Emhart thay vì Emerson và Emery là kết luận đã được khách hàng suy nghĩ kỹ rằng mình thích đầu tư theo kiểu giá trị hơn kiểu hào nhoáng. Vì vậy, ở mức độ lớn, chính sách đầu tư cổ phiếu phải phụ thuộc vào thái độ của từng nhà đầu tư. Graham nói cách tiếp cận này sẽ được bàn kỹ hơn ở chương sau.
+**Nhận xét cuối cùng.** Một nhà phân tích chứng khoán dày dạn, dù đồng ý với lập luận chung của Graham về bốn công ty, vẫn sẽ ngần ngại khuyên người đang nắm Emerson hay Emery đổi sang ELTRA hay Emhart vào cuối năm 1970, trừ khi người đó hiểu rõ triết lý đằng sau lời khuyên. Không có lý do gì để kỳ vọng cặp P/E thấp sẽ vượt cặp P/E cao trong thời gian ngắn.
+
+Cặp P/E cao đang được thị trường đánh giá tốt và do đó có đà tăng đáng kể, đà này có thể kéo dài không biết bao lâu. Căn cứ vững chắc để chọn ELTRA và Emhart thay vì Emerson và Emery là kết luận đã được khách hàng suy nghĩ kỹ rằng mình thích đầu tư theo kiểu giá trị hơn kiểu hào nhoáng. Vì vậy, ở mức độ lớn, chính sách đầu tư cổ phiếu phải phụ thuộc vào thái độ của từng nhà đầu tư. Graham nói cách tiếp cận này sẽ được bàn kỹ hơn ở chương sau.
 
 ### Phần B — Bình luận của Jason Zweig (2003)
 
@@ -539,7 +540,9 @@ Zweig có một bảng tóm tắt giá, kết quả kinh doanh và định giá 
 
 Cổ phiếu đắt nhất trong bốn cổ phiếu của Graham, Emerson Electric, hoá ra lại rẻ nhất trong nhóm cập nhật của Zweig. Vì gốc rễ trong các ngành "kinh tế cũ", Emerson trông nhàm chán vào cuối thập niên 1990 (Zweig hỏi: trong kỷ nguyên Internet, ai quan tâm tới máy hút bụi khô–ướt hạng nặng của Emerson?). Giá cổ phiếu giậm chân tại chỗ. Trong hai năm 1998 và 1999, cổ phiếu Emerson kém chỉ số S&P 500 tới 49,7 điểm phần trăm, một mức kém cỏi thảm hại.
 
-Nhưng đó là cổ phiếu Emerson. Còn doanh nghiệp Emerson thì sao? Năm 1999, Emerson bán được 14,4 tỷ USD hàng hoá và dịch vụ, tăng gần 1 tỷ USD so với năm trước. Trên doanh thu đó, công ty lãi ròng 1,3 tỷ USD, cao hơn 6,9% so với 1998. Trong năm năm trước đó, EPS tăng bình quân vững vàng 8,3% mỗi năm. Cổ tức đã tăng hơn gấp đôi, lên 1,30 USD mỗi cổ phiếu; giá trị sổ sách tăng từ 6,69 USD lên 14,27 USD mỗi cổ phiếu. Theo Value Line, suốt thập niên 1990, biên lãi ròng và lợi suất trên vốn của Emerson, hai thước đo then chốt về hiệu quả của một doanh nghiệp, vẫn ở mức cao, lần lượt khoảng 9% và 18%. Hơn nữa, Emerson đã tăng lợi nhuận 42 năm liên tiếp và tăng cổ tức 43 năm liên tiếp, một trong những chuỗi tăng trưởng đều đặn dài nhất của doanh nghiệp Mỹ. Cuối năm, cổ phiếu Emerson được định giá 17,7 lần lợi nhuận ròng trên mỗi cổ phiếu. Giống như dụng cụ điện của mình, Emerson không bao giờ hào nhoáng, nhưng đáng tin cậy và không có dấu hiệu quá nóng.
+Nhưng đó là cổ phiếu Emerson. Còn doanh nghiệp Emerson thì sao? Năm 1999, Emerson bán được 14,4 tỷ USD hàng hoá và dịch vụ, tăng gần 1 tỷ USD so với năm trước. Trên doanh thu đó, công ty lãi ròng 1,3 tỷ USD, cao hơn 6,9% so với 1998. Trong năm năm trước đó, EPS tăng bình quân vững vàng 8,3% mỗi năm. Cổ tức đã tăng hơn gấp đôi, lên 1,30 USD mỗi cổ phiếu; giá trị sổ sách tăng từ 6,69 USD lên 14,27 USD mỗi cổ phiếu.
+
+Theo Value Line, suốt thập niên 1990, biên lãi ròng và lợi suất trên vốn của Emerson, hai thước đo then chốt về hiệu quả của một doanh nghiệp, vẫn ở mức cao, lần lượt khoảng 9% và 18%. Hơn nữa, Emerson đã tăng lợi nhuận 42 năm liên tiếp và tăng cổ tức 43 năm liên tiếp, một trong những chuỗi tăng trưởng đều đặn dài nhất của doanh nghiệp Mỹ. Cuối năm, cổ phiếu Emerson được định giá 17,7 lần lợi nhuận ròng trên mỗi cổ phiếu. Giống như dụng cụ điện của mình, Emerson không bao giờ hào nhoáng, nhưng đáng tin cậy và không có dấu hiệu quá nóng.
 
 #### 3. EMC: định giá cao, tăng trưởng thật đã chững lại (EMC pourrait-il développer PDQ?, PDF trang 291–292)
 
@@ -553,7 +556,9 @@ Còn doanh nghiệp EMC? Doanh thu năm 1999 tăng 24%, đạt 6,7 tỷ USD. EPS
 
 Chú thích của Zweig: trên kênh CNBC ngày 30/12/1999, chủ tịch kiêm tổng giám đốc EMC Michael Ruettgers được người dẫn Ron Insana hỏi liệu "năm 2000 và sau đó" có tốt như thập niên 1990 không. Ruettgers khoe: "Có vẻ như nó đang tăng tốc." Khi Insana hỏi cổ phiếu EMC có bị định giá quá cao không, Ruettgers trả lời rằng khi nhìn vào cơ hội trước mắt thì nó gần như vô hạn; dù khó đoán những thứ này có quá đắt hay không, một thay đổi lớn đang diễn ra, nên nếu tìm được những công ty chiến thắng hôm nay (và ông chắc chắn EMC là một trong số đó) thì sẽ được thưởng hậu hĩnh trong tương lai.
 
-Các nhà phân tích Phố Wall và phần lớn nhà đầu tư tin rằng EMC làm được. Dù sao, trong năm năm qua EMC đã tăng doanh thu hơn gấp đôi và lãi ròng hơn gấp ba. Nhưng theo Value Line, từ 1995 đến 1999, biên lãi ròng của EMC giảm từ 19,0% xuống 17,4%, còn lợi suất trên vốn giảm từ 26,8% xuống 21%. Dù vẫn rất có lãi, EMC đã bắt đầu trượt xuống. Và tháng 10/1999, EMC mua Data General Corp., thương vụ thêm khoảng 1,1 tỷ USD vào doanh thu năm đó của EMC. Chỉ cần trừ phần doanh thu thêm từ Data General, có thể thấy quy mô hoạt động sẵn có của EMC chỉ tăng từ 5,4 tỷ USD năm 1998 lên 5,6 tỷ USD năm 1999, tức chỉ tăng 3,6%. Nói cách khác, tốc độ tăng trưởng thật của EMC gần như bằng không, ngay cả trong một năm mà nỗi sợ "sự cố máy tính năm 2000" (Y2K) khiến nhiều doanh nghiệp chi những khoản kỷ lục cho công nghệ mới.
+Các nhà phân tích Phố Wall và phần lớn nhà đầu tư tin rằng EMC làm được. Dù sao, trong năm năm qua EMC đã tăng doanh thu hơn gấp đôi và lãi ròng hơn gấp ba. Nhưng theo Value Line, từ 1995 đến 1999, biên lãi ròng của EMC giảm từ 19,0% xuống 17,4%, còn lợi suất trên vốn giảm từ 26,8% xuống 21%. Dù vẫn rất có lãi, EMC đã bắt đầu trượt xuống.
+
+Và tháng 10/1999, EMC mua Data General Corp., thương vụ thêm khoảng 1,1 tỷ USD vào doanh thu năm đó của EMC. Chỉ cần trừ phần doanh thu thêm từ Data General, có thể thấy quy mô hoạt động sẵn có của EMC chỉ tăng từ 5,4 tỷ USD năm 1998 lên 5,6 tỷ USD năm 1999, tức chỉ tăng 3,6%. Nói cách khác, tốc độ tăng trưởng thật của EMC gần như bằng không, ngay cả trong một năm mà nỗi sợ "sự cố máy tính năm 2000" (Y2K) khiến nhiều doanh nghiệp chi những khoản kỷ lục cho công nghệ mới.
 
 Chú thích của Zweig: "sự cố năm 2000" là niềm tin rằng hàng triệu máy tính trên thế giới sẽ ngừng chạy một giây sau nửa đêm ngày 1/1/2000, vì các lập trình viên thập niên 1960 và 1970 không tính tới khả năng có ngày nào sau 31/12/1999 trong mã chương trình. Doanh nghiệp Mỹ đã chi hàng tỷ USD năm 1999 để bảo đảm máy tính "tương thích năm 2000". Rốt cuộc, lúc 0 giờ 01 phút 01 giây ngày 1/1/2000, mọi thứ vẫn chạy bình thường.
 
@@ -569,7 +574,9 @@ Xét mọi mặt, Expeditors là một doanh nghiệp tuyệt vời. Nhưng côn
 
 Cuối năm 1999, Exodus Communications có vẻ đã đưa cổ đông tới thẳng miền đất hứa. Cổ phiếu tăng 1.005,8% trong năm 1999, đủ để biến 10.000 USD đầu tư ngày 1/1 thành hơn 110.000 USD vào ngày 31/12. Các nhà phân tích Internet hàng đầu của Phố Wall, kể cả Henry Blodget rất có ảnh hưởng của Merrill Lynch, dự báo cổ phiếu sẽ tăng thêm 25% đến 125% trong năm tiếp theo.
 
-Điều tuyệt nhất, trong mắt những người giao dịch trực tuyến đã kiếm đậm nhờ Exodus, là cổ phiếu đã được tách 2-cho-1 ba lần trong năm 1999. Trong một lần tách 2-cho-1, công ty nhân đôi số cổ phiếu và chia đôi giá mỗi cổ phiếu; cổ đông có gấp đôi số cổ phiếu, mỗi cổ phiếu giá bằng một nửa trước. Có gì hay đâu? Zweig ví: hãy tưởng tượng bạn đưa tôi một đồng 10 xu, tôi trả lại bạn hai đồng 5 xu rồi hỏi: "Bạn không thấy giàu hơn à?" Bạn sẽ kết luận hoặc tôi là kẻ ngốc, hoặc tôi coi bạn là kẻ ngốc. Vậy mà trong cơn cuồng cổ phiếu dot-com năm 1999, người giao dịch trực tuyến cư xử đúng như thể hai đồng 5 xu đáng giá hơn một đồng 10 xu. Thực ra chỉ cần tin một cổ phiếu sắp tách 2-cho-1 là giá có thể tăng ngay 20% hoặc hơn.
+Điều tuyệt nhất, trong mắt những người giao dịch trực tuyến đã kiếm đậm nhờ Exodus, là cổ phiếu đã được tách 2-cho-1 ba lần trong năm 1999. Trong một lần tách 2-cho-1, công ty nhân đôi số cổ phiếu và chia đôi giá mỗi cổ phiếu; cổ đông có gấp đôi số cổ phiếu, mỗi cổ phiếu giá bằng một nửa trước.
+
+Có gì hay đâu? Zweig ví: hãy tưởng tượng bạn đưa tôi một đồng 10 xu, tôi trả lại bạn hai đồng 5 xu rồi hỏi: "Bạn không thấy giàu hơn à?" Bạn sẽ kết luận hoặc tôi là kẻ ngốc, hoặc tôi coi bạn là kẻ ngốc. Vậy mà trong cơn cuồng cổ phiếu dot-com năm 1999, người giao dịch trực tuyến cư xử đúng như thể hai đồng 5 xu đáng giá hơn một đồng 10 xu. Thực ra chỉ cần tin một cổ phiếu sắp tách 2-cho-1 là giá có thể tăng ngay 20% hoặc hơn.
 
 Vì sao? Vì có nhiều cổ phiếu hơn làm người ta thấy giàu hơn. Ai mua 100 cổ phiếu Exodus tháng 1 sẽ thấy chúng thành 200 khi tách vào tháng 4; rồi 200 thành 400 vào tháng 8; rồi 400 thành 800 vào tháng 12. Những người này thấy phấn khích vì có thêm 700 cổ phiếu chỉ nhờ ban đầu sở hữu 100 cổ phiếu. Với họ, điều đó giống như "nhặt được tiền", mà quên rằng giá mỗi cổ phiếu đã bị chia đôi sau mỗi lần tách.
 
@@ -579,7 +586,9 @@ Tháng 12/1999, một cổ đông Exodus hân hoan, dùng tên "givemeadollar", 
 
 Chú thích của Zweig: bài số 3622, ngày 7/12/1999, trên diễn đàn về Exodus Communications của website Raging Bull.
 
-Còn doanh nghiệp Exodus? Zweig nói Graham sẽ không chạm vào nó dù có cây sào dài 10 feet và bộ đồ chống chất độc hại. Doanh thu của Exodus bùng nổ, từ 52,7 triệu USD năm 1998 lên 242,1 triệu USD năm 1999, nhưng công ty lỗ 130,3 triệu USD trên doanh thu đó năm 1999, gần gấp đôi khoản lỗ năm trước. Exodus có tổng nợ 2,6 tỷ USD và đói tiền mặt đến mức riêng tháng 12 đã vay 971 triệu USD. Theo báo cáo thường niên của Exodus, khoản vay mới này sẽ làm chi phí lãi vay năm tới tăng hơn 50 triệu USD. Công ty bắt đầu năm 1999 với 156 triệu USD tiền mặt, và dù đã huy động thêm 1,3 tỷ USD vốn mới, kết thúc năm với số dư tiền mặt 1 tỷ USD, nghĩa là hoạt động kinh doanh đã nuốt hơn 400 triệu USD tiền mặt trong năm 1999. Zweig hỏi: một doanh nghiệp như vậy làm sao trả nổi nợ?
+Còn doanh nghiệp Exodus? Zweig nói Graham sẽ không chạm vào nó dù có cây sào dài 10 feet và bộ đồ chống chất độc hại. Doanh thu của Exodus bùng nổ, từ 52,7 triệu USD năm 1998 lên 242,1 triệu USD năm 1999, nhưng công ty lỗ 130,3 triệu USD trên doanh thu đó năm 1999, gần gấp đôi khoản lỗ năm trước.
+
+Exodus có tổng nợ 2,6 tỷ USD và đói tiền mặt đến mức riêng tháng 12 đã vay 971 triệu USD. Theo báo cáo thường niên của Exodus, khoản vay mới này sẽ làm chi phí lãi vay năm tới tăng hơn 50 triệu USD. Công ty bắt đầu năm 1999 với 156 triệu USD tiền mặt, và dù đã huy động thêm 1,3 tỷ USD vốn mới, kết thúc năm với số dư tiền mặt 1 tỷ USD, nghĩa là hoạt động kinh doanh đã nuốt hơn 400 triệu USD tiền mặt trong năm 1999. Zweig hỏi: một doanh nghiệp như vậy làm sao trả nổi nợ?
 
 Nhưng dĩ nhiên những người giao dịch trực tuyến chỉ chăm chăm vào việc cổ phiếu đã tăng bao nhiêu và nhanh thế nào, không phải doanh nghiệp có khoẻ hay không. Một người dùng tên "Launch_Pad 1999" khoe rằng cổ phiếu này "sẽ tiếp tục leo lên tới vô cực và xa hơn nữa".
 
@@ -727,7 +736,9 @@ Ngưỡng "15 lần lợi nhuận" và "1,5 lần giá trị tài sản ròng" �
 
 ### Quan điểm trái chiều: Emerson năm 1970 và Expeditors năm 1999 đều là cổ phiếu "đắt" mà vẫn thành công
 
-Chính chương này có phản ví dụ cho lập luận của Graham. Emerson năm 1970 bị Graham cảnh báo vì giá 33 lần lợi nhuận, nhưng theo Zweig công ty tăng lợi nhuận 42 năm liền và giá trị thị trường tăng từ 1,6 tỷ lên khoảng 21 tỷ USD (2002), tức người mua năm 1970 và giữ lâu dài vẫn có kết quả tốt. Expeditors năm 1999 ở 39 lần lợi nhuận, không qua được tiêu chuẩn số 7, vẫn tăng 51% trong thị trường giá xuống. Graham đã nói trước điều này: Emerson là "ngoại lệ" và phải tiếp tục là ngoại lệ nhiều năm. Bài học cân bằng là tăng trưởng thật, bền, có lợi suất trên vốn cao có thể biện minh cho giá cao, nhưng nhà đầu tư phòng thủ không có cách đáng tin để nhận ra trước công ty nào là ngoại lệ; Buffett sau này nghiêng về hướng trả giá hợp lý cho doanh nghiệp xuất sắc, xa hơn Graham.
+Chính chương này có phản ví dụ cho lập luận của Graham. Emerson năm 1970 bị Graham cảnh báo vì giá 33 lần lợi nhuận, nhưng theo Zweig công ty tăng lợi nhuận 42 năm liền và giá trị thị trường tăng từ 1,6 tỷ lên khoảng 21 tỷ USD (2002), tức người mua năm 1970 và giữ lâu dài vẫn có kết quả tốt. Expeditors năm 1999 ở 39 lần lợi nhuận, không qua được tiêu chuẩn số 7, vẫn tăng 51% trong thị trường giá xuống.
+
+Graham đã nói trước điều này: Emerson là "ngoại lệ" và phải tiếp tục là ngoại lệ nhiều năm. Bài học cân bằng là tăng trưởng thật, bền, có lợi suất trên vốn cao có thể biện minh cho giá cao, nhưng nhà đầu tư phòng thủ không có cách đáng tin để nhận ra trước công ty nào là ngoại lệ; Buffett sau này nghiêng về hướng trả giá hợp lý cho doanh nghiệp xuất sắc, xa hơn Graham.
 
 ### Phép so sánh của Zweig cho thấy phải tách "cổ phiếu" khỏi "doanh nghiệp" và soi nguồn gốc tăng trưởng
 
@@ -735,4 +746,181 @@ Cấu trúc lặp lại trong mỗi mục của Zweig ("đó là cổ phiếu; c
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Nhà đầu tư cá nhân có thể lặp lại đúng bài tập của chương: chọn vài công ty cùng ngành hoặc đứng gần nhau trong danh sách, lập bảng sáu yếu tố hiệu quả (lợi nhuận trên vốn, biên lợi nhuận, năm giảm lợi nhuận tệ nhất, tăng trưởng EPS nhiều năm, tài sản lưu động trên nợ ngắn hạn, lịch sử cổ tức) và ba thước đo giá (P/E trên lợi nhuận bình quân ba năm, P/B, tỷ suất cổ tức), rồi hỏi hiệu quả có xứng với giá không. Ở thị trường mới nổi như Việt Nam, nơi nhà đầu tư cá nhân chiếm tỷ trọng giao dịch lớn và tin đồn, đà giá, các đợt chia cổ phiếu thưởng thường được chú ý hơn số liệu kinh doanh, lời nhắc của Zweig về tách cổ phiếu (đồng 10 xu đổi hai đồng 5 xu) và của Graham về việc không chọn cổ phiếu vì "diễn biến trên thị trường" càng thích hợp. Một số tiêu chuẩn nên điều chỉnh: ít công ty có lịch sử cổ tức liên tục 20 năm vì thị trường còn trẻ, nên có thể dùng khoảng thời gian ngắn hơn, nhưng giữ nguyên tinh thần (ổn định, không lỗ, giá không quá cao so với lợi nhuận bình quân và tài sản).
+Nhà đầu tư cá nhân có thể lặp lại đúng bài tập của chương: chọn vài công ty cùng ngành hoặc đứng gần nhau trong danh sách, lập bảng sáu yếu tố hiệu quả (lợi nhuận trên vốn, biên lợi nhuận, năm giảm lợi nhuận tệ nhất, tăng trưởng EPS nhiều năm, tài sản lưu động trên nợ ngắn hạn, lịch sử cổ tức) và ba thước đo giá (P/E trên lợi nhuận bình quân ba năm, P/B, tỷ suất cổ tức), rồi hỏi hiệu quả có xứng với giá không.
+
+Ở thị trường mới nổi như Việt Nam, nơi nhà đầu tư cá nhân chiếm tỷ trọng giao dịch lớn và tin đồn, đà giá, các đợt chia cổ phiếu thưởng thường được chú ý hơn số liệu kinh doanh, lời nhắc của Zweig về tách cổ phiếu (đồng 10 xu đổi hai đồng 5 xu) và của Graham về việc không chọn cổ phiếu vì "diễn biến trên thị trường" càng thích hợp. Một số tiêu chuẩn nên điều chỉnh: ít công ty có lịch sử cổ tức liên tục 20 năm vì thị trường còn trẻ, nên có thể dùng khoảng thời gian ngắn hơn, nhưng giữ nguyên tinh thần (ổn định, không lỗ, giá không quá cao so với lợi nhuận bình quân và tài sản).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 13 trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết (Phần A mục 1–2 về hệ số P/E và sáu yếu tố hiệu quả, Phần A mục 3 về nhận xét từng công ty, phần Kết luận với bảy tiêu chuẩn, rồi bình luận của Zweig ở Phần B mục 1–3, mục 4–5 và mục 6), mỗi nhánh ghi con số, tiêu chuẩn và ví dụ công ty then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 13: khác biệt lớn nhất giữa các công ty thường nằm ở giá thị trường đòi trả, không ở chất lượng kinh doanh`"]
+  n1["`Phần A, mục 1–2 (Graham) — P/E chênh nhau nhiều hơn hẳn chênh lệch hiệu quả`"]
+  n0 --- n1
+  n2["`Bốn công ty đứng liền nhau trên sàn New York: ELTRA, Emerson Electric, Emery Air Freight, Emhart`"]
+  n1 --- n2
+  n3["`Cách làm: một nhóm tỷ số đo hiệu quả, một nhóm đo giá, rồi hỏi hiệu quả có xứng với giá không`"]
+  n1 --- n3
+  n4["`P/E trên lợi nhuận bình quân 1968–1970: ELTRA 9,7, Emhart 12, DJIA 15,5, Emerson 33, Emery 45`"]
+  n1 --- n4
+  n5["`Khả năng sinh lời: cả bốn đạt yêu cầu, Emerson và Emery cao hơn hẳn`"]
+  n1 --- n5
+  n6["`Ổn định: Emerson và Emery không năm nào giảm EPS, ELTRA và Emhart chỉ giảm 8% năm 1970 (DJIA 7%)`"]
+  n1 --- n6
+  n7["`Tài chính: ba công ty sản xuất có hơn 2 USD tài sản lưu động cho mỗi 1 USD nợ ngắn hạn`"]
+  n1 --- n7
+  n8["`Pha loãng: 163 triệu USD cổ phiếu ưu đãi chuyển đổi làm EPS Emerson giảm khoảng 4%`"]
+  n7 --- n8
+  n9["`Cổ tức: Emhart không bỏ kỳ nào từ 1902, tỷ suất cổ tức cặp rẻ gấp đôi cặp đắt`"]
+  n1 --- n9
+  n10["`Lịch sử giá 34 năm: DJIA cao gấp 11 lần đáy, Emhart 17 lần, Emery 528 lần (66 chia 1/8)`"]
+  n1 --- n10
+  n11["`Phần A, mục 3 (Graham) — Nhận xét từng công ty: định giá cao kéo theo rủi ro cao`"]
+  n0 --- n11
+  n12["`Emerson được định giá khoảng 1,6 tỷ USD, lớn hơn ba công ty kia cộng lại`"]
+  n11 --- n12
+  n13["`Graham xếp Emerson vào nhóm những gã khổng lồ nhờ lợi thế vô hình, hơn 1 tỷ USD trả cho yếu tố vô hình`"]
+  n12 --- n13
+  n14["`Tiền lệ Zenith Radio: định giá 1,7 tỷ USD năm 1966, lợi nhuận giảm một nửa, giá từ 89 xuống 22½`"]
+  n12 --- n14
+  n15["`Emery: tăng trưởng quá khứ đi từ nền nhỏ, lãi ròng chỉ 570.000 USD năm 1958`"]
+  n11 --- n15
+  n16["`Giữ tốc độ tăng cao khó hơn nhiều khi doanh thu và lợi nhuận đã lớn`"]
+  n15 --- n16
+  n17["`Rủi ro của Emery: cạnh tranh tăng, áp lực đổi thoả thuận giữa công ty giao nhận và hãng bay`"]
+  n15 --- n17
+  n18["`Emhart: lợi nhuận tăng gấp ba từ 1958, nhưng giá 1970 chỉ cao hơn đỉnh 1958 một phần ba`"]
+  n11 --- n18
+  n19["`ELTRA và Emhart không hào nhoáng nhưng mọi số liệu thống kê đều tốt đến ngạc nhiên`"]
+  n18 --- n19
+  n20["`ELTRA và Emhart mất hơn 50% giá trong đợt sụt 1969–1970, Emerson và Emery giảm ít hơn`"]
+  n11 --- n20
+  n21["`Phần A, Kết luận (Graham) — Bảy tiêu chuẩn cho nhà đầu tư phòng thủ`"]
+  n0 --- n21
+  n22["`Giá cổ phiếu đang lên là lý do của nhà đầu cơ, lợi nhuận tăng nhanh chỉ có giá trị trong giới hạn`"]
+  n21 --- n22
+  n23["`Emery hơn 60 lần lợi nhuận gần đây (tháng 3/1972: 64 lần) không hợp với nhà đầu tư thận trọng`"]
+  n21 --- n23
+  n24["`Zweig: Emery thuộc nhóm tệ nhất Nifty Fifty, đến cuối 1974 giảm 58%, P/E từ 64 xuống 15`"]
+  n23 --- n24
+  n25["`1.000 USD vào Emery năm 1972 đến năm 1999 chỉ còn 839 USD`"]
+  n23 --- n25
+  n26["`ELTRA giá 27 USD và Emhart giá 33 USD mua chỉ nhỉnh hơn giá trị sổ sách một chút`"]
+  n21 --- n26
+  n27["`Quy mô đủ lớn, tài chính đủ vững, cổ tức liên tục ít nhất 20 năm`"]
+  n21 --- n27
+  n28["`Không năm nào lỗ trong 10 năm, EPS tăng ít nhất một phần ba trong 10 năm`"]
+  n21 --- n28
+  n29["`Giá không quá 1,5 lần giá trị tài sản ròng và không quá 15 lần lợi nhuận bình quân ba năm`"]
+  n21 --- n29
+  n30["`ELTRA và Emhart đạt cả bảy, Emerson và Emery không đạt các tiêu chuẩn về giá`"]
+  n29 --- n30
+  n31["`Không dự báo từng cổ phiếu: danh mục đa dạng hoá chọn theo tiêu chuẩn sẽ cho kết quả đủ tốt qua nhiều năm`"]
+  n21 --- n31
+  n32["`Cặp P/E thấp không chắc thắng trong ngắn hạn, chọn giá trị hay hào nhoáng tuỳ thái độ nhà đầu tư`"]
+  n21 --- n32
+  n33["`Phần B, mục 1–3 (Zweig) — Làm lại bài so sánh với số liệu 31/12/1999`"]
+  n0 --- n33
+  n34["`Lời đề từ của tướng Kutyna: nghĩ mình an toàn là nguy hiểm nhất, phải kiểm tra hướng sáu giờ`"]
+  n33 --- n34
+  n35["`Bốn công ty liền nhau: Emerson Electric, EMC, Expeditors International, Exodus Communications`"]
+  n33 --- n35
+  n36["`Emerson: đắt nhất năm 1970 nay rẻ nhất, P/E 17,7, cổ phiếu kém S#amp;P 500 49,7 điểm trong 1998–1999`"]
+  n33 --- n36
+  n37["`Doanh nghiệp Emerson vẫn vững: doanh thu 14,4 tỷ USD, lãi ròng 1,3 tỷ USD (+6,9%)`"]
+  n36 --- n37
+  n38["`Emerson tăng lợi nhuận 42 năm liền, tăng cổ tức 43 năm liền, lợi suất trên vốn khoảng 18%`"]
+  n36 --- n38
+  n39["`EMC: cổ phiếu tăng hơn 81.000% trong thập niên 1990, giá 54,625 USD bằng 103 lần lợi nhuận`"]
+  n33 --- n39
+  n40["`Biên lãi ròng EMC giảm từ 19,0% xuống 17,4%, lợi suất trên vốn từ 26,8% xuống 21%`"]
+  n39 --- n40
+  n41["`Doanh thu EMC tăng 24%, nhưng bỏ phần mua từ Data General thì chỉ tăng 3,6%`"]
+  n39 --- n41
+  n42["`Tổng giám đốc EMC hứa doanh thu 10 tỷ USD năm 2001, tức phải tăng khoảng 23%/năm`"]
+  n39 --- n42
+  n43["`Phần B, mục 4–5 (Zweig) — Tách cổ phiếu khỏi doanh nghiệp`"]
+  n0 --- n43
+  n44["`Expeditors: doanh thu tăng 19,8%/năm, EPS 25,8%/năm, không nợ dài hạn, lợi suất trên vốn 21%`"]
+  n43 --- n44
+  n45["`Phố Wall bỏ qua Expeditors: tổ chức chỉ nắm 32%, 8.500 cổ đông, P/E 39 sau khi tăng gấp đôi năm 1999`"]
+  n44 --- n45
+  n46["`Exodus: cổ phiếu tăng 1.005,8% năm 1999, 10.000 USD thành hơn 110.000 USD`"]
+  n43 --- n46
+  n47["`Tách 2-cho-1 không đổi tổng giá trị, như đổi đồng 10 xu lấy hai đồng 5 xu`"]
+  n46 --- n47
+  n48["`Ba lần tách biến 100 cổ phiếu thành 800, người giao dịch thấy như nhặt được tiền`"]
+  n47 --- n48
+  n49["`Doanh nghiệp Exodus: lỗ 130,3 triệu USD trên doanh thu 242,1 triệu USD, tổng nợ 2,6 tỷ USD`"]
+  n46 --- n49
+  n50["`Exodus đốt hơn 400 triệu USD tiền mặt năm 1999, riêng tháng 12 vay thêm 971 triệu USD`"]
+  n49 --- n50
+  n51["`Graham: nhà đầu tư mải đoán tương lai đến mức trả trước cho nó, tương lai đúng như dự báo vẫn không lời`"]
+  n43 --- n51
+  n52["`Phần B, mục 6 (Zweig) — Kết cục bốn cổ phiếu đến cuối 2002`"]
+  n0 --- n52
+  n53["`Emerson tăng 40,7% năm 2000, cuối 2002 chỉ thấp hơn cuối 1999 chưa tới 4%`"]
+  n52 --- n53
+  n54["`EMC mất 79,4% năm 2001 và 54,3% năm 2002, tổng cộng mất khoảng 88%`"]
+  n52 --- n54
+  n55["`EMC năm 2001 chỉ đạt doanh thu 7,1 tỷ USD (đã hứa 10 tỷ) và lỗ ròng 508 triệu USD`"]
+  n54 --- n55
+  n56["`Expeditors tăng như không có thị trường giá xuống, cuối 2002 cao hơn cuối 1999 gần 51%`"]
+  n52 --- n56
+  n57["`Exodus phá sản theo Chương 11 ngày 26/9/2001, đầu 2003 cổ phiếu còn 1 xu`"]
+  n52 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Giá trả cho cổ phiếu quyết định phần lớn kết quả đầu tư, giá thấp tạo lớp đệm an toàn`"]
+  n58 --- n59
+  n60["`Khi P/E 45 hay 103 lần, tăng trưởng chậm lại làm cả lợi nhuận lẫn hệ số P/E cùng giảm`"]
+  n58 --- n60
+  n61["`Giá cổ phiếu kém thị trường không có nghĩa doanh nghiệp yếu, giá tăng 1.000% không có nghĩa doanh nghiệp khoẻ`"]
+  n58 --- n61
+  n62["`Soi nguồn gốc tăng trưởng (mua lại hay tự thân) và dòng tiền (đốt tiền, vay thêm)`"]
+  n58 --- n62
+  class n0 root
+  class n1,n11,n21,n33,n43,n52,n58 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n59,n60,n61,n62 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 13 "Comparaison de quatre sociétés cotées" (PDF trang 282–289) và "Commentaire sur le chapitre 13" (PDF trang 289–295). Chú thích của Graham lấy từ phần chú thích cuối sách (PDF trang 487); chú thích của Zweig lấy từ phần chú thích cuối sách (PDF trang 568–570).
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972, số liệu đến cuối năm 1970, một vài chỗ cập nhật đến đầu năm 1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 11 ([C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md)) giới thiệu các công cụ của phân tích chứng khoán (security analysis) cho người không chuyên: khả năng sinh lời, sự ổn định, tăng trưởng, tình hình tài chính, cổ tức, lịch sử giá. Chương 12 ([C12-nhung-dieu-can-xet-ve-eps.md](C12-nhung-dieu-can-xet-ve-eps.md)) cảnh báo rằng con số lợi nhuận trên mỗi cổ phiếu (EPS) một năm có thể bị bóp méo, nên phải dùng lợi nhuận bình quân nhiều năm và tính đến pha loãng.
+
+Chương 13 là bài thực hành ngắn: Graham áp dụng đúng các công cụ đó cho bốn công ty đứng liền nhau trong danh sách niêm yết của Sở Giao dịch Chứng khoán New York (ELTRA, Emerson Electric, Emery Air Freight, Emhart), và lần đầu tóm tắt **bảy tiêu chuẩn thống kê** mà nhà đầu tư phòng thủ nên đòi hỏi.
+
+Chương 14 ([C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md)) sẽ triển khai chi tiết bảy tiêu chuẩn này và áp dụng cho cả 30 cổ phiếu của chỉ số Dow Jones; Chương 18 ([C18-so-sanh-tam-cap-cong-ty.md](C18-so-sanh-tam-cap-cong-ty.md)) lặp lại cách so sánh từng cặp công ty ở quy mô lớn hơn.
+
+## Lưu ý
+
+- **Bản PDF thiếu toàn bộ các bảng số liệu.** Ở PDF trang 283 chỉ còn dòng tiêu đề "TABLEAU 13-2 Comparaison de quatre sociétés cotées" và một khoảng trắng; Tableau 13-1 (giá, vốn hoá, doanh thu và lợi nhuận năm 1970 của bốn công ty) không có cả tiêu đề. Bảng của Zweig ở PDF trang 290 (giá, kết quả kinh doanh và định giá cuối năm 1999 của Emerson, EMC, Expeditors, Exodus) cũng chỉ còn câu dẫn "Ce tableau résume le prix, la performance et la valorisation de ces sociétés à fin 1999:" và khoảng trắng.
+
+  Người tổng hợp đã kiểm tra: toàn bộ file PDF chỉ chứa đúng một hình ảnh (ảnh bìa), nên các bảng đã bị mất khi xuất file, không phải do lỗi hiển thị. Vì vậy các bảng trong bản tổng hợp này **không phải bản chép của bảng gốc**: chúng được dựng lại từ những con số Graham và Zweig nêu trong lời văn và trong chú thích, có ghi rõ dòng nào do người tổng hợp tính ngược. Muốn có đủ mọi dòng của Tableau 13-1 và 13-2 (ví dụ số cổ phiếu lưu hành, tài sản lưu động, giá cao nhất và thấp nhất từng năm) cần đối chiếu ấn bản tiếng Anh.
+- **Bản dịch máy đổi "earnings" thành "salaire" (tiền lương).** "9,7 fois et 12 fois le salaire moyen pour 1968–1970" và tiêu chuẩn số 7 "pas plus de 15 fois le salaire moyen des trois dernières années" đều phải hiểu là lợi nhuận (earnings) bình quân, không phải tiền lương.
+- **"ELTRA à 27 ans et Emhart à 33 ans"** là dịch sai "ELTRA at 27 and Emhart at 33": đây là **giá cổ phiếu 27 USD và 33 USD**, không phải tuổi của công ty.
+- **"valeur liquidative"** ở tiêu chuẩn số 6 dễ hiểu nhầm là giá trị thanh lý; nghĩa đúng là giá trị tài sản ròng (net asset value), tức giá trị sổ sách của vốn cổ đông. Zweig xác nhận ở chú thích rằng ELTRA và Emhart bán chỉ "nhỉnh hơn giá trị sổ sách một chút".
+- **"le chiffre d'affaires par dollar de chiffre d'affaires"** (doanh thu trên mỗi đô la doanh thu) là câu vô nghĩa; nghĩa đúng là **lợi nhuận trên mỗi đô la doanh thu** (biên lợi nhuận), như câu tiếp theo về "tỷ số lợi nhuận hoạt động trên doanh thu" cho thấy.
+- **"les deux préoccupations populaires"** (hai mối lo phổ biến) là dịch sai "the two popular concerns", nghĩa là **hai công ty được ưa chuộng** (Emerson và Emery); "concern" ở đây là doanh nghiệp.
+- **"Les actions de la société ont été suspendues"** (Zweig, về Emerson) không có nghĩa là cổ phiếu bị đình chỉ giao dịch; ý là giá cổ phiếu **giậm chân tại chỗ**. Tương tự "pause des prix de 1969-1970" là đợt **sụt giá** 1969–1970; "enfant blond" là "con cưng" (fair-haired child) của thị trường; "long pull" là nắm giữ dài hạn; "commerçants en ligne" là những người giao dịch trực tuyến (online traders).
+- **Ví dụ tiền xu của Zweig bị dịch sai.** Bản tiếng Pháp viết "vous m'ayez remis un centime, puis je vous ai rendu deux nickels" (một xu đổi lấy hai đồng nickel). Trong tiếng Anh, đồng được đưa là một **dime** (10 xu) và nhận lại hai **nickel** (mỗi đồng 5 xu): tổng giá trị không đổi, đó mới là điểm của ví dụ tách cổ phiếu.
+- **Chữ "sept" lạc chỗ** ở cuối câu trích Graham (PDF trang 294) là số chú thích 7 bị máy dịch thành chữ. Chú thích 7 dẫn bài nói của Graham "The New Speculation in Common Stocks" ở phụ lục, "p. 563" của bản tiếng Anh; bản PDF không có số trang in. Nội dung bài nói được tổng hợp ở [PL2-7-cac-phu-luc-khac.md](PL2-7-cac-phu-luc-khac.md).
+- **Câu bị vỡ:** "Une étude approfondie pourrait être nécessaire avant de porter un jugement sûr. transmis sur ces points, mais l'investisseur conservateur ne peut pas les laisser hors de son compte général." Nghĩa là: cần nghiên cứu kỹ trước khi kết luận chắc chắn về các điểm này, nhưng nhà đầu tư thận trọng không được bỏ qua chúng khi đánh giá tổng thể.
+- **Ba con số P/E của Emery không mâu thuẫn mà ứng với ba thời điểm:** 45 lần lợi nhuận bình quân 1968–1970 (giá cuối 1970), "gần 40 lần" lợi nhuận cao nhất từng công bố (lợi nhuận năm 1970), và "hơn 60 lần lợi nhuận gần đây" (Graham cập nhật theo giá năm 1972; chú thích của Graham ghi tháng 3/1972 Emery bán ở 64 lần lợi nhuận năm 1971).
+- **Tiêu đề chương.** Mục lục và danh sách file ghi "Une comparaison de quatre sociétés cotées", nhưng tiêu đề ngay trong chương ở PDF trang 282 và trong phần chú thích là "Comparaison de quatre sociétés cotées" (không có "Une"); bản tổng hợp dùng tiêu đề trong chương.
+- **Số liệu đã cũ.** Theo chú thích của Zweig (2003): ELTRA sáp nhập với Bunker Ramo trong thập niên 1970, phần còn lại nay thuộc Honeywell; Emery Air Freight thành một bộ phận của CNF Inc.; Emhart bị Black & Decker mua năm 1989. Theo hiểu biết của người tổng hợp, không tra cứu: EMC được Dell mua lại năm 2016; Expeditors vẫn là một công ty giao nhận lớn niêm yết trên sàn Mỹ; Emerson Electric vẫn hoạt động nhưng đã tái cấu trúc mạnh, bán bớt nhiều mảng kinh doanh cũ.
+- **Kiểm tra phép tính (người tổng hợp):** các con số tổng hợp của Zweig khớp: EMC +21,7%, −79,4%, −54,3% cộng dồn còn 1,217 × 0,206 × 0,457 ≈ 0,115, tức mất khoảng 88%; Expeditors +22,9%, +6,5%, +15,1% cộng dồn ≈ +51%; Exodus 156 triệu + 1,3 tỷ − 1 tỷ ≈ 456 triệu USD tiền mặt đã tiêu (Zweig ghi "hơn 400 triệu"); doanh thu EMC từ 5,4 tỷ (1998) lên 10 tỷ USD (2001) đòi hỏi tăng khoảng 23%/năm. Một chỗ làm tròn nhỏ: 5,4 lên 5,6 tỷ USD là +3,7%, Zweig ghi 3,6% (có lẽ do số chưa làm tròn).

@@ -1,26 +1,22 @@
 # Chương 16 — Chứng khoán chuyển đổi và chứng quyền (Émissions convertibles et bons de souscription)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 16 "Émissions convertibles et bons de souscription" (PDF trang 340–354, gồm cả mục "Post-scriptum pratique" ở trang 351 và các chú thích của Zweig in ở trang 352–354) và "Commentaire sur le chapitre 16" (PDF trang 354–357). Chú thích cuối sách của Graham cho chương này: PDF trang 489; chú thích đánh số của Zweig cho phần bình luận: PDF trang 575–576 và 626.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 15 ([C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md)) chỉ cho nhà đầu tư năng động cách sàng lọc cổ phiếu giá hời. Chương 16 chuyển sang hai loại chứng khoán "lai" mà nhà đầu tư năng động hay được chào mời: chứng khoán chuyển đổi (trái phiếu hoặc cổ phiếu ưu đãi có thể đổi ra cổ phiếu phổ thông) và chứng quyền (quyền dài hạn được mua cổ phiếu phổ thông ở một giá định trước). Chương này nối tiếp lời cảnh báo ở Chương 6 ([C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md)) rằng trái phiếu và cổ phiếu ưu đãi hạng hai thường không đáng mua, và dùng lại ý ở Chương 12 ([C12-nhung-dieu-can-xet-ve-eps.md](C12-nhung-dieu-can-xet-ve-eps.md)) rằng lợi nhuận trên mỗi cổ phiếu phải được tính lại khi có nhiều chứng khoán có thể biến thành cổ phiếu mới (pha loãng). Chương 17 ([C17-bon-truong-hop-dang-hoc.md](C17-bon-truong-hop-dang-hoc.md)) sẽ đưa ra các ví dụ thực tế về những tập đoàn đa ngành dùng trái phiếu chuyển đổi và chứng quyền để thâu tóm công ty khác, trong đó có vụ NVF Corp. mua Sharon Steel mà chương này đã nhắc trước.
-**Ý chính:** Graham muốn người đọc hiểu rằng **chứng khoán chuyển đổi không tự động mang lại "cái tốt nhất của cả hai thế giới", và chứng quyền phát hành với số lượng lớn là một thứ giá trị ảo được tạo ra từ hư không**. Muốn có quyền chuyển đổi, người mua thường phải chấp nhận lãi thấp hơn, vị thế đòi nợ thấp hơn, hoặc cả hai (năm 1971, trái phiếu chuyển đổi của Ford Motor Finance chỉ trả 4,5%/năm và xếp sau, trong khi trái phiếu thường của cùng công ty trả 7,5%: người mua bỏ 40% thu nhập để có quyền chuyển đổi). Chứng khoán chuyển đổi lại thường được phát hành vào cuối giai đoạn thị trường giá lên, nên khi thị trường giảm chúng giảm mạnh: trong mẫu 20 cổ phiếu ưu đãi chuyển đổi Graham chọn, từ tháng 12/1968 đến tháng 12/1970 chỉ 1 mã tăng giá, 14 mã giảm nặng. Người giữ chứng khoán chuyển đổi còn rơi vào thế khó "bán sớm hay giữ tiếp", như vụ trái phiếu chuyển đổi của Eversharp: giá trị chuyển đổi từng lên 220% mệnh giá nhưng những quỹ đã đổi sang cổ phiếu rồi giữ lại thì cuối cùng lỗ khoảng 75%. Về chứng quyền, Graham gọi việc phát hành ồ ạt là "gần như lừa đảo": chứng quyền của American & Foreign Power từng có giá thị trường hơn 1 tỷ USD năm 1929, chỉ còn 8 triệu USD năm 1932 và bị xoá sổ năm 1952. Chứng quyền lấy đi một phần giá trị vốn thuộc về cổ phiếu phổ thông (quyền ưu tiên mua cổ phiếu mới), không đem lại cho công ty khoản vốn chắc chắn nào, và làm lợi nhuận trên mỗi cổ phiếu trông cao hơn thực tế. Vì vậy nhà đầu tư phải cộng giá trị thị trường của chứng quyền vào vốn hoá cổ phiếu để có "giá thị trường thực" của cổ phiếu. Zweig, viết năm 2003, bổ sung rằng **thị trường trái phiếu chuyển đổi đã tốt lên (kỳ hạn ngắn hơn, khoảng một nửa đạt hạng đầu tư, nhiều đợt phát hành có điều khoản bảo vệ khỏi bị mua lại sớm), nhưng trái phiếu chuyển đổi vẫn hành xử giống cổ phiếu hơn trái phiếu** (tương quan khoảng 83% với chỉ số S&P 500, chỉ khoảng 30% với trái phiếu Kho bạc). Nhà đầu tư nắm chủ yếu trái phiếu có thể thêm một quỹ trái phiếu chuyển đổi chi phí thấp như một cách tham gia thị trường cổ phiếu dè dặt. Zweig cảnh báo nên tránh các biến thể phức tạp (LYONs, PERCS...) và chiến lược bán quyền chọn mua có bảo đảm (covered call), vì cả hai đều giới hạn khoản lãi để đổi lấy một "sàn" chặn lỗ.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bốn bảng của chương (Tableau 16-1, 16-2, 16-3, 16-4) để trống trong bản PDF.** Đã xem ảnh trang 341, 342, 347 và 350: chỉ có tiêu đề bảng, phần thân là khoảng trắng; tệp PDF cũng gần như không chứa ảnh nhúng nào (chỉ có 1 ảnh trong cả tệp), nên không có cách nào khôi phục số liệu từ bản này. Bản tổng hợp chép lại đầy đủ tiêu đề từng bảng và mọi con số mà lời văn của Graham nêu ra về bảng đó, nhưng **không tự điền số liệu cho bảng** để tránh bịa. Người cần số liệu đầy đủ phải đối chiếu với bản tiếng Anh gốc.
-> - Bản dịch máy gọi chứng khoán chuyển đổi (*convertible*) là "cabriolet" (xe mui trần), gọi chứng quyền (*warrants*) là "mandats", gọi một đợt phát hành chứng khoán (*issue*) là "problème" hay "question", gọi cổ phiếu phổ thông (*the common*) là "le commun", gọi trái phiếu (*bonds*) là "liaisons" hay "lien". Bản tổng hợp hiểu theo nghĩa đúng.
-> - "Bons de pouvoir" (PDF trang 350) là cách dịch máy cắt đôi cụm "American & Foreign Power warrants" (chứng quyền của American & Foreign Power); cụm "le milliard de dollars américains et étrangers. Bons de pouvoir" nghĩa là "khoản một tỷ USD chứng quyền của American & Foreign Power".
-> - "Commutateurs indiqués des actions ordinaires aux actions privilégiées" (tiêu đề mục, PDF trang 347) nghĩa là "Những trường hợp nên chuyển từ cổ phiếu phổ thông sang cổ phiếu ưu đãi" (*indicated switches*), không phải "công tắc".
-> - "la société a une capitalisation senior de premier plan" (PDF trang 351) dịch sai nghĩa: ý gốc là cơ cấu vốn của công ty "nặng phần đầu", tức có quá nhiều nợ và cổ phiếu ưu đãi so với cổ phiếu phổ thông (*top-heavy senior capitalization*), không phải "hàng đầu".
-> - "ne garantit ni l'attractivité ni l'attractivité" (PDF trang 341) lặp từ do dịch máy; ý đúng: hình thức chuyển đổi không bảo đảm chứng khoán đó hấp dẫn, cũng không làm nó kém hấp dẫn.
-> - "de nombreux convertis sont toujours émis par des sociétés dont la cote de crédit est inférieure à la livre sterling" (chú thích 3 của bình luận) dịch máy chữ *sterling* thành "đồng bảng Anh"; ý đúng: nhiều trái phiếu chuyển đổi được phát hành bởi công ty có xếp hạng tín nhiệm không hoàn hảo, kém hạng cao nhất.
-> - Câu đề từ của phần bình luận "Ce que tu semes n'est pas vivifié, sinon il meurt" dịch lệch; ý đúng của câu trong Thư thứ nhất gửi tín hữu Côrintô 15:36 là "hạt giống ngươi gieo sẽ không sống lại nếu nó không chết đi". "JE. Corinthiens" là chữ "I" (Thư thứ nhất) bị dịch máy thành đại từ "je".
-> - "les principaux praticiens de la légendaire convertible" (PDF trang 346): "légendaire" nhiều khả năng là dịch máy nhầm chữ *legerdemain* (trò ảo thuật, mánh khoé), tức các tập đoàn đa ngành là những người thực hành chính trò mánh khoé bằng chứng khoán chuyển đổi.
-> - Ở mục "Effet des émissions convertibles...", Graham báo trước "hai yếu tố đối trọng" nhưng bản PDF chỉ trình bày yếu tố thứ nhất (pha loãng); bản tổng hợp không tự suy ra yếu tố thứ hai.
-> - "Une recherche Google ... a permis de recenser plus de 2 600 visites" (khung về quyền chọn mua có bảo đảm): "visites" là bản dịch sai của *hits*, tức hơn 2.600 kết quả tìm kiếm.
-> - Chú thích 1 trong khung "DÉCOUVRIR LES APPELS COUVERTS" không nằm cùng các chú thích khác của chương 16 mà bị in lạc ở PDF trang 626 (giữa chú thích của phần khác); bản tổng hợp đã đưa về đúng chỗ.
-> - Chỗ dẫn trang của bản tiếng Anh mà PDF không có: Graham viết vụ NVF–Sharon Steel được bàn "pp 429–433" (thực tế là Chương 17 của sách); Zweig dẫn "pp. 413 et 416" (tức mục chứng quyền và "Post-scriptum pratique" của chính chương này), "p. 418" (chú thích 1 của phần bình luận), "p. 421" (khung về quyền chọn mua có bảo đảm ngay trong phần bình luận).
-> - Phép tính vụ Eversharp: giá cổ phiếu 7 3/8 USD (tháng 3/1948) sau khi tách 3 thành 2 tương đương khoảng 11,06 USD giá trước khi tách; chia cho giá chuyển đổi 40 USD thì trái phiếu có giá trị chuyển đổi khoảng 27,7% mệnh giá, tức lỗ khoảng 72–73%. Graham làm tròn thành "27" và "lỗ 75%".
-> - Số liệu đã cũ: năm 2002, theo Zweig, chỉ còn 7 đợt chứng quyền niêm yết ở Sở Giao dịch Chứng khoán New York. Theo hiểu biết của người tổng hợp (không tra cứu), chứng quyền trở lại khá phổ biến ở Mỹ vào 2020–2021 qua làn sóng công ty mua lại có mục đích đặc biệt (SPAC), vốn bán "đơn vị" gồm cổ phiếu kèm chứng quyền, và nhiều chứng quyền loại này sau đó mất gần hết giá trị; thị trường trái phiếu chuyển đổi ở Mỹ cũng có các đợt phát hành lớn (chẳng hạn năm 2020) khi lãi suất thấp và giá cổ phiếu công nghệ cao. Các số liệu Zweig nêu (quy mô thị trường khoảng 200 tỷ USD, lợi suất 1957–2002) là số liệu năm 2002–2003.
+Graham muốn người đọc hiểu rằng **chứng khoán chuyển đổi không tự động mang lại "cái tốt nhất của cả hai thế giới", và chứng quyền phát hành với số lượng lớn là một thứ giá trị ảo được tạo ra từ hư không**.
+
+Muốn có quyền chuyển đổi, người mua thường phải chấp nhận lãi thấp hơn, vị thế đòi nợ thấp hơn, hoặc cả hai (năm 1971, trái phiếu chuyển đổi của Ford Motor Finance chỉ trả 4,5%/năm và xếp sau, trong khi trái phiếu thường của cùng công ty trả 7,5%: người mua bỏ 40% thu nhập để có quyền chuyển đổi).
+
+Chứng khoán chuyển đổi lại thường được phát hành vào cuối giai đoạn thị trường giá lên, nên khi thị trường giảm chúng giảm mạnh: trong mẫu 20 cổ phiếu ưu đãi chuyển đổi Graham chọn, từ tháng 12/1968 đến tháng 12/1970 chỉ 1 mã tăng giá, 14 mã giảm nặng.
+
+Người giữ chứng khoán chuyển đổi còn rơi vào thế khó "bán sớm hay giữ tiếp", như vụ trái phiếu chuyển đổi của Eversharp: giá trị chuyển đổi từng lên 220% mệnh giá nhưng những quỹ đã đổi sang cổ phiếu rồi giữ lại thì cuối cùng lỗ khoảng 75%.
+
+Về chứng quyền, Graham gọi việc phát hành ồ ạt là "gần như lừa đảo": chứng quyền của American & Foreign Power từng có giá thị trường hơn 1 tỷ USD năm 1929, chỉ còn 8 triệu USD năm 1932 và bị xoá sổ năm 1952.
+
+Chứng quyền lấy đi một phần giá trị vốn thuộc về cổ phiếu phổ thông (quyền ưu tiên mua cổ phiếu mới), không đem lại cho công ty khoản vốn chắc chắn nào, và làm lợi nhuận trên mỗi cổ phiếu trông cao hơn thực tế. Vì vậy nhà đầu tư phải cộng giá trị thị trường của chứng quyền vào vốn hoá cổ phiếu để có "giá thị trường thực" của cổ phiếu.
+
+Zweig, viết năm 2003, bổ sung rằng **thị trường trái phiếu chuyển đổi đã tốt lên (kỳ hạn ngắn hơn, khoảng một nửa đạt hạng đầu tư, nhiều đợt phát hành có điều khoản bảo vệ khỏi bị mua lại sớm), nhưng trái phiếu chuyển đổi vẫn hành xử giống cổ phiếu hơn trái phiếu** (tương quan khoảng 83% với chỉ số S&P 500, chỉ khoảng 30% với trái phiếu Kho bạc).
+
+Nhà đầu tư nắm chủ yếu trái phiếu có thể thêm một quỹ trái phiếu chuyển đổi chi phí thấp như một cách tham gia thị trường cổ phiếu dè dặt. Zweig cảnh báo nên tránh các biến thể phức tạp (LYONs, PERCS...) và chiến lược bán quyền chọn mua có bảo đảm (covered call), vì cả hai đều giới hạn khoản lãi để đổi lấy một "sàn" chặn lỗ.
 
 ## Sơ đồ
 
@@ -387,9 +383,19 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Chứng khoán chuyển đổi có thật sự cho nhà đầu tư "cái tốt nhất của hai thế giới" không?** Không. Để có quyền chuyển đổi, người mua thường chịu lãi thấp hơn và vị thế đòi nợ thấp hơn (ví dụ Ford Motor Finance năm 1971: 4,5% và xếp sau, so với 7,5% của trái phiếu thường). Phần lớn chứng khoán chuyển đổi được phát hành vào cuối thị trường giá lên bởi các công ty chất lượng không cao, nên khi thị trường giảm chúng giảm mạnh: từ 12/1968 đến 12/1970, trong 20 cổ phiếu ưu đãi chuyển đổi chỉ 1 mã tăng giá và 14 mã giảm nặng, trong khi S&P 500 chỉ giảm 11,3%. Người giữ còn luôn khó xử giữa bán sớm và giữ tiếp, như vụ Eversharp (giá trị chuyển đổi lên 220 rồi rơi về 27). Zweig năm 2003 đồng ý về bản chất: trái phiếu chuyển đổi tương quan khoảng 83% với cổ phiếu và có thu nhập thấp hơn, rủi ro cao hơn trái phiếu khác; chúng chỉ hữu ích như một phần nhỏ, đa dạng, qua quỹ chi phí thấp, cho người nắm chủ yếu trái phiếu.
-2. **Chứng khoán chuyển đổi và chứng quyền ảnh hưởng thế nào đến cổ phiếu phổ thông của cùng công ty?** Chúng pha loãng lợi nhuận trên mỗi cổ phiếu khi được chuyển đổi hoặc thực hiện, nên nhà đầu tư phải tính lại lợi nhuận trên mỗi cổ phiếu như thể mọi chứng khoán chuyển đổi đã đổi hết. Với chứng quyền, Graham đề xuất cộng giá trị thị trường của toàn bộ chứng quyền vào vốn hoá cổ phiếu để ra "giá thị trường thực" mỗi cổ phiếu; làm thế với National General Corp. năm 1970 thì P/E tăng đáng kể, trong khi cách tính của công ty lại cho P/E giảm. Ngược lại, khi cổ phiếu ưu đãi chuyển đổi bán gần bằng giá của số cổ phiếu phổ thông nó đổi được mà trả cổ tức cao hơn nhiều (Studebaker-Worthington cuối 1970: 87,5 so với 85,5, cổ tức 5 USD so với 1,80 USD), cổ đông phổ thông nên đổi sang ưu đãi.
-3. **Vì sao Graham lên án chứng quyền và Zweig lên án các sản phẩm "có sàn chặn lỗ"?** Graham: chứng quyền tách quyền ưu tiên mua cổ phiếu mới vốn thuộc về cổ đông ra thành một giấy riêng, tạo giá trị thị trường từ hư không (American & Foreign Power: hơn 1 tỷ USD năm 1929, 8 triệu USD năm 1932, bằng 0 năm 1952), không đem lại cho công ty khoản vốn chắc chắn nào, và làm lợi nhuận trên mỗi cổ phiếu trông đẹp hơn; ông chỉ chấp nhận chứng quyền số lượng nhỏ kèm trái phiếu cỡ vừa. Zweig: các biến thể như LYONs, PERCS và chiến lược bán quyền chọn mua có bảo đảm đều đổi phần tăng không giới hạn lấy một khoản bảo vệ có giới hạn ở phần giảm; với nhà đầu tư cá nhân, cách bảo vệ tốt hơn là đa dạng hoá giữa tiền mặt, trái phiếu, cổ phiếu Mỹ và nước ngoài.
+1. **Chứng khoán chuyển đổi có thật sự cho nhà đầu tư "cái tốt nhất của hai thế giới" không?** Không. Để có quyền chuyển đổi, người mua thường chịu lãi thấp hơn và vị thế đòi nợ thấp hơn (ví dụ Ford Motor Finance năm 1971: 4,5% và xếp sau, so với 7,5% của trái phiếu thường).
+
+   Phần lớn chứng khoán chuyển đổi được phát hành vào cuối thị trường giá lên bởi các công ty chất lượng không cao, nên khi thị trường giảm chúng giảm mạnh: từ 12/1968 đến 12/1970, trong 20 cổ phiếu ưu đãi chuyển đổi chỉ 1 mã tăng giá và 14 mã giảm nặng, trong khi S&P 500 chỉ giảm 11,3%. Người giữ còn luôn khó xử giữa bán sớm và giữ tiếp, như vụ Eversharp (giá trị chuyển đổi lên 220 rồi rơi về 27).
+
+   Zweig năm 2003 đồng ý về bản chất: trái phiếu chuyển đổi tương quan khoảng 83% với cổ phiếu và có thu nhập thấp hơn, rủi ro cao hơn trái phiếu khác; chúng chỉ hữu ích như một phần nhỏ, đa dạng, qua quỹ chi phí thấp, cho người nắm chủ yếu trái phiếu.
+2. **Chứng khoán chuyển đổi và chứng quyền ảnh hưởng thế nào đến cổ phiếu phổ thông của cùng công ty?** Chúng pha loãng lợi nhuận trên mỗi cổ phiếu khi được chuyển đổi hoặc thực hiện, nên nhà đầu tư phải tính lại lợi nhuận trên mỗi cổ phiếu như thể mọi chứng khoán chuyển đổi đã đổi hết.
+
+   Với chứng quyền, Graham đề xuất cộng giá trị thị trường của toàn bộ chứng quyền vào vốn hoá cổ phiếu để ra "giá thị trường thực" mỗi cổ phiếu; làm thế với National General Corp. năm 1970 thì P/E tăng đáng kể, trong khi cách tính của công ty lại cho P/E giảm.
+
+   Ngược lại, khi cổ phiếu ưu đãi chuyển đổi bán gần bằng giá của số cổ phiếu phổ thông nó đổi được mà trả cổ tức cao hơn nhiều (Studebaker-Worthington cuối 1970: 87,5 so với 85,5, cổ tức 5 USD so với 1,80 USD), cổ đông phổ thông nên đổi sang ưu đãi.
+3. **Vì sao Graham lên án chứng quyền và Zweig lên án các sản phẩm "có sàn chặn lỗ"?** Graham: chứng quyền tách quyền ưu tiên mua cổ phiếu mới vốn thuộc về cổ đông ra thành một giấy riêng, tạo giá trị thị trường từ hư không (American & Foreign Power: hơn 1 tỷ USD năm 1929, 8 triệu USD năm 1932, bằng 0 năm 1952), không đem lại cho công ty khoản vốn chắc chắn nào, và làm lợi nhuận trên mỗi cổ phiếu trông đẹp hơn; ông chỉ chấp nhận chứng quyền số lượng nhỏ kèm trái phiếu cỡ vừa.
+
+   Zweig: các biến thể như LYONs, PERCS và chiến lược bán quyền chọn mua có bảo đảm đều đổi phần tăng không giới hạn lấy một khoản bảo vệ có giới hạn ở phần giảm; với nhà đầu tư cá nhân, cách bảo vệ tốt hơn là đa dạng hoá giữa tiền mặt, trái phiếu, cổ phiếu Mỹ và nước ngoài.
 
 ## Khái niệm cần biết
 
@@ -443,7 +449,9 @@ Chú thích của Zweig: Graham chỉ ra rằng, trái với lời quảng cáo 
 
 Graham khẳng định: nhóm chứng khoán chuyển đổi được phát hành trong giai đoạn cuối của một thị trường giá lên sẽ cho kết quả chung không như ý. Không may là trong quá khứ phần lớn chứng khoán chuyển đổi được phát hành chính vào những giai đoạn lạc quan như vậy. Hậu quả xấu là không tránh khỏi, vì một đợt giảm giá rộng của thị trường cổ phiếu luôn làm quyền chuyển đổi kém hấp dẫn đi nhiều, và nhiều khi còn làm lung lay cả độ an toàn của chính chứng khoán đó (công ty phát hành yếu đi, khả năng trả lãi bị nghi ngờ).
 
-Chú thích của Zweig: Theo Goldman Sachs và Ibbotson Associates, từ 1998 đến 2002 trái phiếu chuyển đổi đạt lợi suất bình quân 4,8%/năm. Con số này tốt hơn hẳn mức lỗ 0,6%/năm của cổ phiếu Mỹ, nhưng kém xa trái phiếu doanh nghiệp trung hạn (lãi 7,5%/năm) và trái phiếu doanh nghiệp dài hạn (lãi 8,3%/năm). Theo Merrill Lynch, giữa thập niên 1990 mỗi năm có khoảng 15 tỷ USD trái phiếu chuyển đổi được phát hành; năm 1999 con số đã tăng hơn gấp đôi lên 39 tỷ USD; năm 2000 là 58 tỷ USD và năm 2001 thêm 105 tỷ USD. Đúng như Graham cảnh báo, chứng khoán chuyển đổi luôn "chui ra từ khe gỗ" vào cuối thị trường giá lên, chủ yếu vì lúc đó ngay cả công ty kém chất lượng cũng có giá cổ phiếu tăng đủ cao để quyền chuyển đổi trông hấp dẫn.
+Chú thích của Zweig: Theo Goldman Sachs và Ibbotson Associates, từ 1998 đến 2002 trái phiếu chuyển đổi đạt lợi suất bình quân 4,8%/năm. Con số này tốt hơn hẳn mức lỗ 0,6%/năm của cổ phiếu Mỹ, nhưng kém xa trái phiếu doanh nghiệp trung hạn (lãi 7,5%/năm) và trái phiếu doanh nghiệp dài hạn (lãi 8,3%/năm).
+
+Theo Merrill Lynch, giữa thập niên 1990 mỗi năm có khoảng 15 tỷ USD trái phiếu chuyển đổi được phát hành; năm 1999 con số đã tăng hơn gấp đôi lên 39 tỷ USD; năm 2000 là 58 tỷ USD và năm 2001 thêm 105 tỷ USD. Đúng như Graham cảnh báo, chứng khoán chuyển đổi luôn "chui ra từ khe gỗ" vào cuối thị trường giá lên, chủ yếu vì lúc đó ngay cả công ty kém chất lượng cũng có giá cổ phiếu tăng đủ cao để quyền chuyển đổi trông hấp dẫn.
 
 Để minh hoạ theo nhóm, Graham giữ lại ví dụ từ ấn bản đầu tiên của sách (1949): diễn biến giá tương đối của cổ phiếu ưu đãi chuyển đổi và cổ phiếu ưu đãi thường (không chuyển đổi) được chào bán năm 1946, năm cuối cùng của thị trường giá lên trước thị trường giá lên phi thường bắt đầu năm 1949.
 
@@ -490,7 +498,9 @@ Graham nêu ví dụ cụ thể. Bạn mua một trái phiếu lãi 6% ở giá 
 
 Đến đây mọi thứ ổn. Nhưng Graham kể tiếp: trong nhiều trường hợp, khi người giữ bán ở 125, cổ phiếu phổ thông tiếp tục tăng, kéo trái phiếu chuyển đổi tăng theo, và nhà đầu tư cảm thấy nỗi đau riêng của người bán quá sớm. Lần sau anh ta quyết định giữ tới 150 hay 200. Trái phiếu lên 140 và anh ta không bán. Rồi thị trường sụp, trái phiếu rơi về 80. Một lần nữa anh ta lại làm sai.
 
-Ngoài nỗi khổ tâm khi phải đoán như vậy (và đoán sai gần như không tránh khỏi), còn có một bất lợi số học thật sự khi giao dịch chứng khoán chuyển đổi. Có thể giả định rằng một chính sách nghiêm và đồng nhất là bán khi lãi 25% hoặc 30% sẽ cho kết quả tốt nhất khi áp dụng cho nhiều khoản nắm giữ. Nhưng chính sách đó đặt ra mức trần lãi, và chỉ những mã chạy tốt mới đạt tới trần. Nếu đúng như có vẻ là các chứng khoán này thường thiếu độ an toàn nền tảng và có xu hướng được phát hành, được mua vào giai đoạn cuối của thị trường giá lên, thì một phần đáng kể sẽ không bao giờ lên tới 125 mà lại rơi mạnh khi thị trường giảm. Vì vậy, các cơ hội ngoạn mục của chứng khoán chuyển đổi hoá ra là ảo tưởng trong thực tế, và kinh nghiệm tổng thể cho thấy số lần lỗ lớn (ít nhất là tạm thời) nhiều ngang với số lần lãi cùng cỡ.
+Ngoài nỗi khổ tâm khi phải đoán như vậy (và đoán sai gần như không tránh khỏi), còn có một bất lợi số học thật sự khi giao dịch chứng khoán chuyển đổi. Có thể giả định rằng một chính sách nghiêm và đồng nhất là bán khi lãi 25% hoặc 30% sẽ cho kết quả tốt nhất khi áp dụng cho nhiều khoản nắm giữ. Nhưng chính sách đó đặt ra mức trần lãi, và chỉ những mã chạy tốt mới đạt tới trần.
+
+Nếu đúng như có vẻ là các chứng khoán này thường thiếu độ an toàn nền tảng và có xu hướng được phát hành, được mua vào giai đoạn cuối của thị trường giá lên, thì một phần đáng kể sẽ không bao giờ lên tới 125 mà lại rơi mạnh khi thị trường giảm. Vì vậy, các cơ hội ngoạn mục của chứng khoán chuyển đổi hoá ra là ảo tưởng trong thực tế, và kinh nghiệm tổng thể cho thấy số lần lỗ lớn (ít nhất là tạm thời) nhiều ngang với số lần lãi cùng cỡ.
 
 Vì thị trường giá lên 1950–1968 kéo dài bất thường, chứng khoán chuyển đổi nói chung có kết quả tốt trong khoảng 18 năm. Nhưng điều đó chỉ có nghĩa là đại đa số cổ phiếu phổ thông tăng mạnh, và phần lớn chứng khoán chuyển đổi được chia phần trong đó. Độ vững chắc của việc đầu tư vào chứng khoán chuyển đổi chỉ có thể được kiểm chứng qua kết quả của chúng trong thị trường giảm, và kết quả đó nhìn chung luôn đáng thất vọng.
 
@@ -511,15 +521,23 @@ Graham giữ lại ví dụ từ ấn bản đầu tiên (1949) về vấn đề
 
 Trong thời gian giá lên, cả hai đợt trái phiếu đều bị công ty gọi mua lại với một khoản thưởng nhỏ; vì giá trị chuyển đổi cao hơn nhiều so với giá gọi, hầu hết trái phiếu đã được đổi ra cổ phiếu phổ thông, và một số quỹ đầu tư, những người mua trái phiếu ban đầu, đã giữ lại số cổ phiếu đó. Giá cổ phiếu nhanh chóng giảm mạnh và tháng 3/1948 chỉ còn 7 3/8 USD. Mức này tương ứng giá trị chỉ 27 cho trái phiếu, tức lỗ 75% so với giá gốc thay vì lãi hơn 100%.
 
-Điểm mấu chốt của câu chuyện là một số người mua ban đầu đã đổi trái phiếu sang cổ phiếu và giữ cổ phiếu suốt đợt giảm lớn. Làm vậy, họ đi ngược châm ngôn cũ của Phố Wall: "Đừng bao giờ chuyển đổi một trái phiếu chuyển đổi." Lý do của lời khuyên này: một khi chuyển đổi, bạn mất tổ hợp chiến lược gồm vị thế người đòi nợ trước về tiền lãi và cơ hội có lãi hấp dẫn. Bạn có lẽ đã biến từ nhà đầu tư thành nhà đầu cơ, và khá thường xuyên vào thời điểm không thuận lợi (vì cổ phiếu đã tăng mạnh). Nếu "đừng bao giờ chuyển đổi" là quy tắc tốt, vì sao những quản lý quỹ giàu kinh nghiệm lại đổi trái phiếu Eversharp lấy cổ phiếu để rồi lỗ đáng xấu hổ? Câu trả lời chắc chắn là họ để mình bị cuốn theo sự hứng khởi về triển vọng công ty và "diễn biến thị trường thuận lợi" của cổ phiếu. Phố Wall có vài nguyên tắc thận trọng; vấn đề là chúng luôn bị quên đúng lúc cần nhất. Do đó có câu nói nổi tiếng khác của người xưa: "Hãy làm theo điều tôi nói, đừng làm theo điều tôi làm."
+Điểm mấu chốt của câu chuyện là một số người mua ban đầu đã đổi trái phiếu sang cổ phiếu và giữ cổ phiếu suốt đợt giảm lớn. Làm vậy, họ đi ngược châm ngôn cũ của Phố Wall: "Đừng bao giờ chuyển đổi một trái phiếu chuyển đổi." Lý do của lời khuyên này: một khi chuyển đổi, bạn mất tổ hợp chiến lược gồm vị thế người đòi nợ trước về tiền lãi và cơ hội có lãi hấp dẫn. Bạn có lẽ đã biến từ nhà đầu tư thành nhà đầu cơ, và khá thường xuyên vào thời điểm không thuận lợi (vì cổ phiếu đã tăng mạnh).
+
+Nếu "đừng bao giờ chuyển đổi" là quy tắc tốt, vì sao những quản lý quỹ giàu kinh nghiệm lại đổi trái phiếu Eversharp lấy cổ phiếu để rồi lỗ đáng xấu hổ? Câu trả lời chắc chắn là họ để mình bị cuốn theo sự hứng khởi về triển vọng công ty và "diễn biến thị trường thuận lợi" của cổ phiếu. Phố Wall có vài nguyên tắc thận trọng; vấn đề là chúng luôn bị quên đúng lúc cần nhất. Do đó có câu nói nổi tiếng khác của người xưa: "Hãy làm theo điều tôi nói, đừng làm theo điều tôi làm."
 
 Chú thích của Zweig: Câu "nguyên tắc thận trọng luôn bị quên đúng lúc cần nhất" có thể dùng làm văn bia cho thị trường giá lên thập niên 1990. Trong số các "nguyên tắc thận trọng" nhà đầu tư đã quên có những câu sáo của thị trường như "Cây không mọc tới trời" và "Bò kiếm được tiền, gấu kiếm được tiền, nhưng lợn thì bị làm thịt" (người lạc quan và người bi quan đều có thể kiếm tiền, chỉ kẻ tham lam là bị tiêu diệt).
 
 #### 7. Thái độ chung với chứng khoán chuyển đổi mới và trường hợp AT&T (PDF trang 345–346)
 
-Thái độ chung của Graham với chứng khoán chuyển đổi mới phát hành vì vậy là nghi ngờ. Như ở các nhận xét tương tự khác, ông muốn nói nhà đầu tư nên xem xét hơn hai lần trước khi mua. Sau khi xem xét khắt khe như vậy, người đó có thể vẫn tìm ra những đợt chào bán đặc biệt tốt không nên bỏ qua. Tổ hợp lý tưởng là một chứng khoán chuyển đổi được bảo đảm vững chắc, đổi được ra một cổ phiếu phổ thông tự nó hấp dẫn, ở giá chuyển đổi chỉ hơi cao hơn giá thị trường hiện tại. Thỉnh thoảng có đợt chào bán mới đáp ứng các yêu cầu này. Tuy nhiên, do bản chất của thị trường chứng khoán, bạn dễ tìm thấy cơ hội như vậy ở một đợt phát hành cũ đã rơi vào vị thế thuận lợi hơn là ở một đợt phát hành mới. (Nếu một đợt phát hành mới thực sự vững chắc thì ít khả năng nó có quyền chuyển đổi tốt.)
+Thái độ chung của Graham với chứng khoán chuyển đổi mới phát hành vì vậy là nghi ngờ. Như ở các nhận xét tương tự khác, ông muốn nói nhà đầu tư nên xem xét hơn hai lần trước khi mua. Sau khi xem xét khắt khe như vậy, người đó có thể vẫn tìm ra những đợt chào bán đặc biệt tốt không nên bỏ qua.
 
-Sự cân bằng hợp lý giữa cái được cho và cái được giữ lại trong một chứng khoán chuyển đổi tiêu chuẩn được minh hoạ qua việc American Telephone & Telegraph Company dùng nhiều loại chứng khoán này để huy động vốn. Từ 1913 đến 1957, công ty bán ít nhất chín đợt trái phiếu chuyển đổi riêng biệt, phần lớn qua quyền mua dành cho cổ đông. Trái phiếu chuyển đổi đem lại cho công ty một lợi thế quan trọng: thu hút được một lớp người mua rộng hơn nhiều so với một đợt chào bán cổ phiếu, vì trái phiếu được ưa chuộng bởi nhiều tổ chức tài chính có nguồn lực khổng lồ, mà một số trong đó không được phép mua cổ phiếu. Lãi suất của trái phiếu thường thấp hơn một nửa tỷ suất cổ tức tương ứng của cổ phiếu, một mức được tính để bù cho vị thế đòi nợ trước của người giữ trái phiếu. Vì công ty giữ mức cổ tức 9 USD suốt 40 năm (từ 1919 đến lần tách cổ phiếu năm 1959), kết quả là gần như mọi đợt trái phiếu chuyển đổi cuối cùng đều được đổi ra cổ phiếu phổ thông. Người mua các trái phiếu chuyển đổi này làm ăn tốt qua nhiều năm, nhưng không tốt bằng nếu ngay từ đầu họ mua cổ phiếu. Ví dụ này chứng minh AT&T vững mạnh, chứ không chứng minh trái phiếu chuyển đổi tự thân hấp dẫn. Muốn chứng minh điều đó trong thực tế, cần nhiều trường hợp trong đó trái phiếu chuyển đổi chạy tốt dù cổ phiếu phổ thông gây thất vọng; những trường hợp như vậy không dễ tìm.
+Tổ hợp lý tưởng là một chứng khoán chuyển đổi được bảo đảm vững chắc, đổi được ra một cổ phiếu phổ thông tự nó hấp dẫn, ở giá chuyển đổi chỉ hơi cao hơn giá thị trường hiện tại. Thỉnh thoảng có đợt chào bán mới đáp ứng các yêu cầu này. Tuy nhiên, do bản chất của thị trường chứng khoán, bạn dễ tìm thấy cơ hội như vậy ở một đợt phát hành cũ đã rơi vào vị thế thuận lợi hơn là ở một đợt phát hành mới. (Nếu một đợt phát hành mới thực sự vững chắc thì ít khả năng nó có quyền chuyển đổi tốt.)
+
+Sự cân bằng hợp lý giữa cái được cho và cái được giữ lại trong một chứng khoán chuyển đổi tiêu chuẩn được minh hoạ qua việc American Telephone & Telegraph Company dùng nhiều loại chứng khoán này để huy động vốn. Từ 1913 đến 1957, công ty bán ít nhất chín đợt trái phiếu chuyển đổi riêng biệt, phần lớn qua quyền mua dành cho cổ đông. Trái phiếu chuyển đổi đem lại cho công ty một lợi thế quan trọng: thu hút được một lớp người mua rộng hơn nhiều so với một đợt chào bán cổ phiếu, vì trái phiếu được ưa chuộng bởi nhiều tổ chức tài chính có nguồn lực khổng lồ, mà một số trong đó không được phép mua cổ phiếu.
+
+Lãi suất của trái phiếu thường thấp hơn một nửa tỷ suất cổ tức tương ứng của cổ phiếu, một mức được tính để bù cho vị thế đòi nợ trước của người giữ trái phiếu. Vì công ty giữ mức cổ tức 9 USD suốt 40 năm (từ 1919 đến lần tách cổ phiếu năm 1959), kết quả là gần như mọi đợt trái phiếu chuyển đổi cuối cùng đều được đổi ra cổ phiếu phổ thông.
+
+Người mua các trái phiếu chuyển đổi này làm ăn tốt qua nhiều năm, nhưng không tốt bằng nếu ngay từ đầu họ mua cổ phiếu. Ví dụ này chứng minh AT&T vững mạnh, chứ không chứng minh trái phiếu chuyển đổi tự thân hấp dẫn. Muốn chứng minh điều đó trong thực tế, cần nhiều trường hợp trong đó trái phiếu chuyển đổi chạy tốt dù cổ phiếu phổ thông gây thất vọng; những trường hợp như vậy không dễ tìm.
 
 Chú thích của Zweig: AT&T Corp. không còn là nhà phát hành lớn trái phiếu chuyển đổi. Ngày nay (2003), trong số các nhà phát hành lớn nhất có General Motors, Merrill Lynch, Tyco International và Roche.
 
@@ -531,7 +549,11 @@ Theo lệ thường, giao dịch kiểu này làm lợi nhuận trên mỗi cổ
 
 Chú thích của Zweig: Về kết quả tài chính "giả định" (pro forma), xem nội dung bình luận Chương 12: đó là cách báo cáo lợi nhuận như thể một số khoản chi phí "bất thường" không tồn tại, rất phổ biến cuối thập niên 1990.
 
-Nhưng có hai yếu tố đối trọng: một yếu tố gần như bị bỏ qua, còn yếu tố kia bị bỏ qua hoàn toàn trong các thị trường lạc quan. (Bản PDF chỉ trình bày yếu tố thứ nhất; không có đoạn nào nêu rõ "yếu tố thứ hai".) Yếu tố thứ nhất là sự pha loãng thật đối với lợi nhuận hiện tại và tương lai của cổ phiếu phổ thông, phát sinh theo phép tính số học từ các quyền chuyển đổi mới. Có thể định lượng mức pha loãng bằng cách lấy lợi nhuận gần đây (hoặc giả định các con số khác) và tính lợi nhuận trên mỗi cổ phiếu đã điều chỉnh như thể mọi cổ phiếu ưu đãi hoặc trái phiếu chuyển đổi đã thực sự được chuyển đổi. Với đa số công ty, mức giảm trên mỗi cổ phiếu do điều này là không đáng kể. Nhưng có nhiều ngoại lệ, và có nguy cơ các ngoại lệ tăng với tốc độ đáng lo. Các "tập đoàn đa ngành" (*conglomerates*) mở rộng nhanh là những người thực hành chính của "trò ảo thuật" chứng khoán chuyển đổi. Graham liệt kê bảy công ty có lượng lớn cổ phiếu có thể phát hành khi chuyển đổi hoặc khi thực hiện chứng quyền.
+Nhưng có hai yếu tố đối trọng: một yếu tố gần như bị bỏ qua, còn yếu tố kia bị bỏ qua hoàn toàn trong các thị trường lạc quan. (Bản PDF chỉ trình bày yếu tố thứ nhất; không có đoạn nào nêu rõ "yếu tố thứ hai".)
+
+Yếu tố thứ nhất là sự pha loãng thật đối với lợi nhuận hiện tại và tương lai của cổ phiếu phổ thông, phát sinh theo phép tính số học từ các quyền chuyển đổi mới. Có thể định lượng mức pha loãng bằng cách lấy lợi nhuận gần đây (hoặc giả định các con số khác) và tính lợi nhuận trên mỗi cổ phiếu đã điều chỉnh như thể mọi cổ phiếu ưu đãi hoặc trái phiếu chuyển đổi đã thực sự được chuyển đổi.
+
+Với đa số công ty, mức giảm trên mỗi cổ phiếu do điều này là không đáng kể. Nhưng có nhiều ngoại lệ, và có nguy cơ các ngoại lệ tăng với tốc độ đáng lo. Các "tập đoàn đa ngành" (*conglomerates*) mở rộng nhanh là những người thực hành chính của "trò ảo thuật" chứng khoán chuyển đổi. Graham liệt kê bảy công ty có lượng lớn cổ phiếu có thể phát hành khi chuyển đổi hoặc khi thực hiện chứng quyền.
 
 Chú thích của Zweig: Những năm gần đây (trước 2003), trái phiếu chuyển đổi được phát hành nhiều nhất bởi các công ty ngành tài chính, y tế và công nghệ.
 
@@ -574,9 +596,17 @@ Chú thích của Zweig: Chứng quyền là kỹ thuật tài trợ doanh nghi�
 
 Để có một phép so sánh trong lịch sử và văn học, Graham giới thiệu đoạn trong *Faust* (phần 2) của Goethe mô tả việc phát minh ra tiền giấy. Một tiền lệ đáng lo trong lịch sử Phố Wall là chứng quyền của American & Foreign Power Co.: năm 1929 chúng có tổng giá trị thị trường hơn 1 tỷ USD, dù chỉ xuất hiện trong một chú thích ở bảng cân đối kế toán của công ty. Đến năm 1932, khoản 1 tỷ USD này chỉ còn 8 triệu USD, và năm 1952 chứng quyền bị xoá sổ trong đợt tái cơ cấu vốn của công ty, dù công ty vẫn còn khả năng thanh toán.
 
-Ban đầu, chứng quyền thỉnh thoảng được gắn kèm các đợt trái phiếu và thường tương đương một quyền chuyển đổi một phần. Số lượng của chúng không lớn nên chúng không gây hại. Việc sử dụng chứng quyền lan rộng vào cuối thập niên 1920, cùng nhiều sự lạm dụng tài chính khác, rồi chúng vắng bóng trong nhiều năm sau đó. Chúng phải quay lại, như đồng xu xấu luôn quay lại, và từ năm 1967 chúng đã trở thành "công cụ tài trợ" quen thuộc. Thậm chí đã hình thành một quy trình chuẩn để gọi vốn cho các công ty đầu tư bất động sản mới liên kết với các ngân hàng lớn: bán các đơn vị gồm số cổ phiếu phổ thông bằng số chứng quyền mua thêm cổ phiếu phổ thông ở cùng giá. Ví dụ: năm 1971, CleveTrust Realty Investors bán 2.500.000 tổ hợp như vậy gồm cổ phiếu phổ thông (gọi là "chứng chỉ quyền lợi hưởng thụ", *shares of beneficial interest*) và chứng quyền, giá 20 USD mỗi đơn vị.
+Ban đầu, chứng quyền thỉnh thoảng được gắn kèm các đợt trái phiếu và thường tương đương một quyền chuyển đổi một phần. Số lượng của chúng không lớn nên chúng không gây hại. Việc sử dụng chứng quyền lan rộng vào cuối thập niên 1920, cùng nhiều sự lạm dụng tài chính khác, rồi chúng vắng bóng trong nhiều năm sau đó.
 
-Graham phân tích bản chất của cấu trúc này. Thông thường, cổ đông phổ thông có quyền ưu tiên mua cổ phiếu phổ thông mới khi hội đồng quản trị thấy nên gọi vốn bằng cách này. Quyền ưu tiên mua này là một trong những yếu tố giá trị gắn với quyền sở hữu cổ phiếu phổ thông, cùng với quyền nhận cổ tức, quyền hưởng sự tăng trưởng của công ty và quyền bầu hội đồng quản trị. Khi phát hành chứng quyền riêng cho quyền mua thêm vốn, việc đó lấy đi một phần giá trị vốn có của cổ phiếu phổ thông và chuyển nó sang một chứng chỉ riêng. Có thể làm điều tương tự bằng cách phát hành chứng chỉ riêng cho quyền nhận cổ tức (trong thời hạn có hạn hoặc vô hạn), hoặc quyền chia tiền khi bán hay thanh lý công ty, hoặc quyền biểu quyết của cổ phiếu. Vậy vì sao chứng quyền được tạo ra ngay trong cơ cấu vốn ban đầu? Đơn giản vì người ta thiếu kinh nghiệm tài chính. Họ không nhận ra rằng cổ phiếu phổ thông có chứng quyền lưu hành kém giá trị hơn khi không có chứng quyền. Vì vậy, trọn gói cổ phiếu cộng chứng quyền thường bán được giá cao hơn trên thị trường so với cổ phiếu đơn thuần. Graham lưu ý rằng trong báo cáo thông thường của công ty, lợi nhuận trên mỗi cổ phiếu được (hoặc đã được) tính mà không xét tới tác động của chứng quyền đang lưu hành. Kết quả là phóng đại quan hệ thật giữa lợi nhuận và giá trị thị trường của toàn bộ vốn của công ty.
+Chúng phải quay lại, như đồng xu xấu luôn quay lại, và từ năm 1967 chúng đã trở thành "công cụ tài trợ" quen thuộc. Thậm chí đã hình thành một quy trình chuẩn để gọi vốn cho các công ty đầu tư bất động sản mới liên kết với các ngân hàng lớn: bán các đơn vị gồm số cổ phiếu phổ thông bằng số chứng quyền mua thêm cổ phiếu phổ thông ở cùng giá. Ví dụ: năm 1971, CleveTrust Realty Investors bán 2.500.000 tổ hợp như vậy gồm cổ phiếu phổ thông (gọi là "chứng chỉ quyền lợi hưởng thụ", *shares of beneficial interest*) và chứng quyền, giá 20 USD mỗi đơn vị.
+
+Graham phân tích bản chất của cấu trúc này. Thông thường, cổ đông phổ thông có quyền ưu tiên mua cổ phiếu phổ thông mới khi hội đồng quản trị thấy nên gọi vốn bằng cách này. Quyền ưu tiên mua này là một trong những yếu tố giá trị gắn với quyền sở hữu cổ phiếu phổ thông, cùng với quyền nhận cổ tức, quyền hưởng sự tăng trưởng của công ty và quyền bầu hội đồng quản trị.
+
+Khi phát hành chứng quyền riêng cho quyền mua thêm vốn, việc đó lấy đi một phần giá trị vốn có của cổ phiếu phổ thông và chuyển nó sang một chứng chỉ riêng. Có thể làm điều tương tự bằng cách phát hành chứng chỉ riêng cho quyền nhận cổ tức (trong thời hạn có hạn hoặc vô hạn), hoặc quyền chia tiền khi bán hay thanh lý công ty, hoặc quyền biểu quyết của cổ phiếu.
+
+Vậy vì sao chứng quyền được tạo ra ngay trong cơ cấu vốn ban đầu? Đơn giản vì người ta thiếu kinh nghiệm tài chính. Họ không nhận ra rằng cổ phiếu phổ thông có chứng quyền lưu hành kém giá trị hơn khi không có chứng quyền. Vì vậy, trọn gói cổ phiếu cộng chứng quyền thường bán được giá cao hơn trên thị trường so với cổ phiếu đơn thuần.
+
+Graham lưu ý rằng trong báo cáo thông thường của công ty, lợi nhuận trên mỗi cổ phiếu được (hoặc đã được) tính mà không xét tới tác động của chứng quyền đang lưu hành. Kết quả là phóng đại quan hệ thật giữa lợi nhuận và giá trị thị trường của toàn bộ vốn của công ty.
 
 Chú thích của Zweig: Ngày nay (2003), chút hoạt động cuối cùng của chứng quyền nằm trong "vũng lầy" của bảng tin điện tử NASDAQ (OTC Bulletin Board) hoặc thị trường phi tập trung dành cho công ty nhỏ, nơi cổ phiếu phổ thông thường được gộp với chứng quyền thành một "đơn vị" (tương đương hiện đại của cái Graham gọi là "trọn gói"). Nếu một người môi giới đề nghị bán cho bạn "đơn vị" của bất kỳ công ty nào, bạn có thể chắc 95% rằng có chứng quyền trong đó, và chắc ít nhất 90% rằng người môi giới đó hoặc là kẻ gian, hoặc là kẻ ngốc. Người môi giới và công ty đứng đắn không làm ăn trong mảng này.
 
@@ -594,7 +624,9 @@ Phương pháp đơn giản nhất và có lẽ tốt nhất để tính tới c
 
 Cách tính của Graham có thể diễn đạt như sau (công thức do người tổng hợp viết lại từ lời văn): giá thực mỗi cổ phiếu = (giá cổ phiếu × số cổ phiếu lưu hành + giá chứng quyền × số chứng quyền lưu hành) / số cổ phiếu lưu hành; P/E đã điều chỉnh = giá thực mỗi cổ phiếu / lợi nhuận trên mỗi cổ phiếu.
 
-Công ty có được lợi gì từ việc tạo ra chứng quyền không, chẳng hạn nhờ chúng mà bảo đảm nhận được vốn bổ sung khi cần? Graham trả lời: hoàn toàn không. Thông thường công ty không có cách nào yêu cầu người giữ chứng quyền thực hiện quyền, tức góp vốn mới, trước ngày chứng quyền hết hạn. Trong khi chờ đợi, nếu công ty muốn gọi thêm vốn bằng cổ phiếu phổ thông, nó phải chào bán cổ phiếu cho cổ đông theo cách thông thường, nghĩa là ở giá hơi thấp hơn giá thị trường. Chứng quyền không giúp gì cho việc này; chúng chỉ làm rắc rối thêm vì thường đòi hỏi phải hạ giá thực hiện của chính chúng (điều khoản chống pha loãng). Graham khẳng định một lần nữa: các đợt chứng quyền lớn không phục vụ mục đích nào ngoài việc chế tạo ra giá trị thị trường tưởng tượng.
+Công ty có được lợi gì từ việc tạo ra chứng quyền không, chẳng hạn nhờ chúng mà bảo đảm nhận được vốn bổ sung khi cần? Graham trả lời: hoàn toàn không. Thông thường công ty không có cách nào yêu cầu người giữ chứng quyền thực hiện quyền, tức góp vốn mới, trước ngày chứng quyền hết hạn.
+
+Trong khi chờ đợi, nếu công ty muốn gọi thêm vốn bằng cổ phiếu phổ thông, nó phải chào bán cổ phiếu cho cổ đông theo cách thông thường, nghĩa là ở giá hơi thấp hơn giá thị trường. Chứng quyền không giúp gì cho việc này; chúng chỉ làm rắc rối thêm vì thường đòi hỏi phải hạ giá thực hiện của chính chúng (điều khoản chống pha loãng). Graham khẳng định một lần nữa: các đợt chứng quyền lớn không phục vụ mục đích nào ngoài việc chế tạo ra giá trị thị trường tưởng tượng.
 
 Tiền giấy mà Goethe biết khi viết *Faust* là tiền assignat nổi tiếng của Pháp, từng được ca ngợi như một phát minh kỳ diệu và rốt cuộc mất toàn bộ giá trị, giống như khoản 1 tỷ USD chứng quyền của American & Foreign Power.
 
@@ -623,7 +655,9 @@ Ví dụ: sổ sách sẽ cho thấy chứng quyền của Tri-Continental Corp.
 
 (Đơn vị: USD mỗi chứng quyền.)
 
-Graham thừa nhận chắc chắn đôi khi có thể giao dịch chứng quyền một cách khéo léo để kiếm lời, nhưng chủ đề này quá kỹ thuật để bàn ở đây. Ông nhận xét rằng chứng quyền có xu hướng được bán giá tương đối cao hơn phần giá trị thị trường tương ứng của quyền chuyển đổi gắn trong trái phiếu hoặc cổ phiếu ưu đãi. Ở mức đó, có lý do chính đáng để bán trái phiếu kèm chứng quyền thay vì tạo ra một mức pha loãng tương đương bằng một đợt chứng khoán chuyển đổi. Nếu tổng số chứng quyền tương đối nhỏ thì không cần quá coi trọng khía cạnh lý thuyết của nó. Nếu đợt chứng quyền lớn so với số cổ phiếu đang lưu hành, điều đó có lẽ cho thấy công ty có cơ cấu vốn quá nặng về chứng khoán cao cấp (nợ và cổ phiếu ưu đãi); công ty khi đó nên bán thêm cổ phiếu phổ thông. Vì vậy, mục tiêu chính trong việc Graham công kích chứng quyền như một cơ chế tài chính không phải là lên án việc dùng chúng kèm các đợt trái phiếu cỡ vừa, mà là phản đối việc tuỳ tiện tạo ra những khối "tiền giấy" quái dị khổng lồ kiểu này.
+Graham thừa nhận chắc chắn đôi khi có thể giao dịch chứng quyền một cách khéo léo để kiếm lời, nhưng chủ đề này quá kỹ thuật để bàn ở đây. Ông nhận xét rằng chứng quyền có xu hướng được bán giá tương đối cao hơn phần giá trị thị trường tương ứng của quyền chuyển đổi gắn trong trái phiếu hoặc cổ phiếu ưu đãi. Ở mức đó, có lý do chính đáng để bán trái phiếu kèm chứng quyền thay vì tạo ra một mức pha loãng tương đương bằng một đợt chứng khoán chuyển đổi.
+
+Nếu tổng số chứng quyền tương đối nhỏ thì không cần quá coi trọng khía cạnh lý thuyết của nó. Nếu đợt chứng quyền lớn so với số cổ phiếu đang lưu hành, điều đó có lẽ cho thấy công ty có cơ cấu vốn quá nặng về chứng khoán cao cấp (nợ và cổ phiếu ưu đãi); công ty khi đó nên bán thêm cổ phiếu phổ thông. Vì vậy, mục tiêu chính trong việc Graham công kích chứng quyền như một cơ chế tài chính không phải là lên án việc dùng chúng kèm các đợt trái phiếu cỡ vừa, mà là phản đối việc tuỳ tiện tạo ra những khối "tiền giấy" quái dị khổng lồ kiểu này.
 
 ### Phần B — Bình luận của Jason Zweig (2003)
 
@@ -631,7 +665,9 @@ Graham thừa nhận chắc chắn đôi khi có thể giao dịch chứng quy�
 
 Zweig mở đầu bằng câu trong Thư thứ nhất gửi tín hữu Côrintô (15:36): hạt giống người ta gieo sẽ không sống lại nếu nó không chết đi. Tiêu đề mục chơi chữ giữa "converti" (người cải đạo) và "convertible" (chứng khoán chuyển đổi).
 
-Zweig nói: dù được gọi là "trái phiếu", trái phiếu chuyển đổi hành xử như cổ phiếu, vận hành như quyền chọn và khó hiểu với người ngoài. Nếu sở hữu một trái phiếu chuyển đổi, bạn cũng nắm một quyền chọn: hoặc giữ trái phiếu và tiếp tục nhận lãi, hoặc đổi nó lấy cổ phiếu phổ thông của công ty phát hành theo một tỷ lệ định trước. (Quyền chọn cho người sở hữu quyền mua hoặc bán một chứng khoán khác ở giá định trước trong một thời hạn định trước.) Vì đổi được ra cổ phiếu, trái phiếu chuyển đổi trả lãi thấp hơn phần lớn trái phiếu tương đương. Mặt khác, nếu giá cổ phiếu của công ty tăng vọt, trái phiếu chuyển đổi ra cổ phiếu đó sẽ làm tốt hơn nhiều so với trái phiếu thường. (Ngược lại, trái phiếu chuyển đổi điển hình, với lãi suất thấp hơn, sẽ làm kém hơn khi thị trường trái phiếu đi xuống.)
+Zweig nói: dù được gọi là "trái phiếu", trái phiếu chuyển đổi hành xử như cổ phiếu, vận hành như quyền chọn và khó hiểu với người ngoài. Nếu sở hữu một trái phiếu chuyển đổi, bạn cũng nắm một quyền chọn: hoặc giữ trái phiếu và tiếp tục nhận lãi, hoặc đổi nó lấy cổ phiếu phổ thông của công ty phát hành theo một tỷ lệ định trước. (Quyền chọn cho người sở hữu quyền mua hoặc bán một chứng khoán khác ở giá định trước trong một thời hạn định trước.)
+
+Vì đổi được ra cổ phiếu, trái phiếu chuyển đổi trả lãi thấp hơn phần lớn trái phiếu tương đương. Mặt khác, nếu giá cổ phiếu của công ty tăng vọt, trái phiếu chuyển đổi ra cổ phiếu đó sẽ làm tốt hơn nhiều so với trái phiếu thường. (Ngược lại, trái phiếu chuyển đổi điển hình, với lãi suất thấp hơn, sẽ làm kém hơn khi thị trường trái phiếu đi xuống.)
 
 Chú thích 1 của Zweig: Ví dụ ngắn về cách trái phiếu chuyển đổi vận hành: trái phiếu nợ thứ cấp chuyển đổi lãi 4,75% do DoubleClick Inc. phát hành năm 1999.
 
@@ -668,7 +704,9 @@ Mua bán từng lô nhỏ trái phiếu chuyển đổi rất tốn kém, và kh
 
 Chú thích 4 của Zweig: Chi tiết xem các trang web www.fidelity.com, www.vanguard.com và www.morningstar.com. Nhà đầu tư thông minh sẽ không bao giờ mua một quỹ trái phiếu chuyển đổi có chi phí hoạt động hằng năm vượt quá 1,0%.
 
-Ở Phố Wall, sự dễ thương và sự phức tạp đi đôi với nhau, và trái phiếu chuyển đổi không phải ngoại lệ. Trong số các biến thể mới có một mớ chứng khoán mang biệt danh viết tắt như LYONs, ELKS, EYES, PERCS, MIPS, CHIPS và YEELDS. Các chứng khoán phức tạp này đặt một "sàn" dưới khoản lỗ tiềm năng của bạn, nhưng cũng đặt trần cho khoản lãi tiềm năng và thường buộc bạn phải đổi ra cổ phiếu phổ thông vào một ngày định trước. Như phần lớn các khoản đầu tư nhằm bảo hiểm khỏi lỗ (như chiến lược bán quyền chọn mua có bảo đảm trong khung ở mục 2 dưới đây), những thứ này thường phiền toái hơn giá trị chúng mang lại. Theo Zweig, cách tự bảo vệ tốt hơn trước thua lỗ không phải là mua một trong những công cụ lập dị này, mà là đa dạng hoá khôn ngoan toàn bộ danh mục giữa tiền mặt, trái phiếu, cổ phiếu Mỹ và cổ phiếu nước ngoài.
+Ở Phố Wall, sự dễ thương và sự phức tạp đi đôi với nhau, và trái phiếu chuyển đổi không phải ngoại lệ. Trong số các biến thể mới có một mớ chứng khoán mang biệt danh viết tắt như LYONs, ELKS, EYES, PERCS, MIPS, CHIPS và YEELDS. Các chứng khoán phức tạp này đặt một "sàn" dưới khoản lỗ tiềm năng của bạn, nhưng cũng đặt trần cho khoản lãi tiềm năng và thường buộc bạn phải đổi ra cổ phiếu phổ thông vào một ngày định trước.
+
+Như phần lớn các khoản đầu tư nhằm bảo hiểm khỏi lỗ (như chiến lược bán quyền chọn mua có bảo đảm trong khung ở mục 2 dưới đây), những thứ này thường phiền toái hơn giá trị chúng mang lại. Theo Zweig, cách tự bảo vệ tốt hơn trước thua lỗ không phải là mua một trong những công cụ lập dị này, mà là đa dạng hoá khôn ngoan toàn bộ danh mục giữa tiền mặt, trái phiếu, cổ phiếu Mỹ và cổ phiếu nước ngoài.
 
 #### 2. Khung: bóc trần chiến lược bán quyền chọn mua có bảo đảm (DÉCOUVRIR LES APPELS COUVERTS, PDF trang 356–357)
 
@@ -745,7 +783,11 @@ Không có chứng khoán nào tự động cho "cái tốt nhất của hai th�
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Trái phiếu chuyển đổi tương đương một trái phiếu thường cộng một quyền chọn mua cổ phiếu do chính công ty bán ra; người mua trả cho quyền chọn đó bằng lãi suất thấp hơn (coupon thấp) và vị thế đòi nợ thấp hơn. Giá trị của trái phiếu chuyển đổi bị chặn dưới bởi giá trị trái phiếu thuần (bond floor) và giá trị chuyển đổi; phần bù chuyển đổi đo mức người mua trả thêm cho quyền chọn. Chứng quyền là quyền chọn mua dài hạn do công ty phát hành, khi thực hiện thì tạo ra cổ phiếu mới, nên phải đưa vào lợi nhuận trên mỗi cổ phiếu pha loãng (diluted EPS). Lập luận của Graham rằng tổng giá trị cổ phiếu cộng chứng quyền không thể vượt quá giá trị doanh nghiệp là một cách diễn đạt sớm của nguyên tắc bảo toàn giá trị khi chia nhỏ cơ cấu vốn: chia các quyền của cổ phiếu ra nhiều mảnh không làm doanh nghiệp đáng giá hơn. Chiến lược covered call đổi phần lợi nhuận phía trên giá thực hiện lấy phí quyền chọn; hồ sơ lời lỗ của nó giống một vị thế bán quyền chọn bán (short put), tức giữ gần đủ rủi ro giảm giá nhưng bỏ phần lớn cơ hội tăng giá (diễn giải của người tổng hợp).
+Trái phiếu chuyển đổi tương đương một trái phiếu thường cộng một quyền chọn mua cổ phiếu do chính công ty bán ra; người mua trả cho quyền chọn đó bằng lãi suất thấp hơn (coupon thấp) và vị thế đòi nợ thấp hơn. Giá trị của trái phiếu chuyển đổi bị chặn dưới bởi giá trị trái phiếu thuần (bond floor) và giá trị chuyển đổi; phần bù chuyển đổi đo mức người mua trả thêm cho quyền chọn.
+
+Chứng quyền là quyền chọn mua dài hạn do công ty phát hành, khi thực hiện thì tạo ra cổ phiếu mới, nên phải đưa vào lợi nhuận trên mỗi cổ phiếu pha loãng (diluted EPS). Lập luận của Graham rằng tổng giá trị cổ phiếu cộng chứng quyền không thể vượt quá giá trị doanh nghiệp là một cách diễn đạt sớm của nguyên tắc bảo toàn giá trị khi chia nhỏ cơ cấu vốn: chia các quyền của cổ phiếu ra nhiều mảnh không làm doanh nghiệp đáng giá hơn.
+
+Chiến lược covered call đổi phần lợi nhuận phía trên giá thực hiện lấy phí quyền chọn; hồ sơ lời lỗ của nó giống một vị thế bán quyền chọn bán (short put), tức giữ gần đủ rủi ro giảm giá nhưng bỏ phần lớn cơ hội tăng giá (diễn giải của người tổng hợp).
 
 ## Thuật ngữ
 
@@ -824,19 +866,33 @@ Graham không phản đối chứng khoán chuyển đổi về hình thức; ô
 
 ### Phân tích chứng quyền của Graham đi trước cách hạch toán hiện đại về lợi nhuận pha loãng
 
-Năm 1971–1972, Graham phàn nàn rằng công ty tính lợi nhuận trên mỗi cổ phiếu mà bỏ qua chứng quyền đang lưu hành. Theo hiểu biết của người tổng hợp (không tra cứu), các chuẩn mực kế toán Mỹ sau đó (và chuẩn mực quốc tế) đã buộc công ty báo cáo song song lợi nhuận trên mỗi cổ phiếu cơ bản và pha loãng, có tính tới chứng quyền, quyền chọn và chứng khoán chuyển đổi. Tuy vậy, cách tính pha loãng chuẩn (phương pháp mua lại cổ phiếu bằng tiền thực hiện) vẫn chỉ tính giá trị thực hiện, đúng chỗ Graham phê phán là bỏ sót "phần giá trị vượt". Lời khuyên cộng giá trị thị trường của chứng quyền vào vốn hoá vẫn là cách nhìn bảo thủ và hợp lý. Ý tưởng của Graham cũng là nền cho phê phán của Zweig ở các chương khác về quyền chọn cổ phiếu thưởng cho ban điều hành, vốn về kinh tế giống chứng quyền.
+Năm 1971–1972, Graham phàn nàn rằng công ty tính lợi nhuận trên mỗi cổ phiếu mà bỏ qua chứng quyền đang lưu hành. Theo hiểu biết của người tổng hợp (không tra cứu), các chuẩn mực kế toán Mỹ sau đó (và chuẩn mực quốc tế) đã buộc công ty báo cáo song song lợi nhuận trên mỗi cổ phiếu cơ bản và pha loãng, có tính tới chứng quyền, quyền chọn và chứng khoán chuyển đổi.
+
+Tuy vậy, cách tính pha loãng chuẩn (phương pháp mua lại cổ phiếu bằng tiền thực hiện) vẫn chỉ tính giá trị thực hiện, đúng chỗ Graham phê phán là bỏ sót "phần giá trị vượt". Lời khuyên cộng giá trị thị trường của chứng quyền vào vốn hoá vẫn là cách nhìn bảo thủ và hợp lý. Ý tưởng của Graham cũng là nền cho phê phán của Zweig ở các chương khác về quyền chọn cổ phiếu thưởng cho ban điều hành, vốn về kinh tế giống chứng quyền.
 
 ### Số liệu và bối cảnh của Graham đã cũ, và Zweig thừa nhận thị trường trái phiếu chuyển đổi đã cải thiện
 
-Bốn bảng của chương đều là số liệu 1946 và 1968–1970, và các ví dụ đều là công ty của thời đó (Eversharp, Studebaker-Worthington, National General). Zweig năm 2003 ghi nhận các thay đổi cấu trúc làm yếu một phần lời chỉ trích: cổ phiếu ưu đãi chuyển đổi chỉ còn khoảng 1/8 thị trường, kỳ hạn ngắn hơn, hơn một nửa đạt hạng đầu tư, nhiều đợt có bảo vệ khỏi bị gọi sớm; năm 2002 chỉ số trái phiếu chuyển đổi chỉ giảm 8,6% khi S&P 500 giảm 22,1%. Nhưng Zweig cũng giữ phần cốt lõi: trái phiếu chuyển đổi giống cổ phiếu nhiều hơn (tương quan 83%), thu nhập thấp hơn trái phiếu khác, thường xếp sau các khoản nợ khác, và vẫn được phát hành ồ ạt ở cuối thị trường giá lên (105 tỷ USD năm 2001 sau 15 tỷ USD/năm giữa thập niên 1990).
+Bốn bảng của chương đều là số liệu 1946 và 1968–1970, và các ví dụ đều là công ty của thời đó (Eversharp, Studebaker-Worthington, National General). Zweig năm 2003 ghi nhận các thay đổi cấu trúc làm yếu một phần lời chỉ trích: cổ phiếu ưu đãi chuyển đổi chỉ còn khoảng 1/8 thị trường, kỳ hạn ngắn hơn, hơn một nửa đạt hạng đầu tư, nhiều đợt có bảo vệ khỏi bị gọi sớm; năm 2002 chỉ số trái phiếu chuyển đổi chỉ giảm 8,6% khi S&P 500 giảm 22,1%.
+
+Nhưng Zweig cũng giữ phần cốt lõi: trái phiếu chuyển đổi giống cổ phiếu nhiều hơn (tương quan 83%), thu nhập thấp hơn trái phiếu khác, thường xếp sau các khoản nợ khác, và vẫn được phát hành ồ ạt ở cuối thị trường giá lên (105 tỷ USD năm 2001 sau 15 tỷ USD/năm giữa thập niên 1990).
 
 ### Sau năm 2003, cả hai cảnh báo của chương đều được kiểm chứng lại
 
-Theo hiểu biết của người tổng hợp (không tra cứu, chỉ ở mức định tính): trong khủng hoảng 2008, trái phiếu chuyển đổi giảm mạnh, một phần vì các quỹ phòng hộ (đúng loại người nắm giữ Zweig cảnh báo) phải bán tháo cùng lúc khi mất nguồn vay; điều này khớp với nhận định của Graham rằng phép thử thật của chứng khoán chuyển đổi là thị trường giá xuống. Thời lãi suất gần 0 sau 2008 và nhất là năm 2020–2021, các công ty công nghệ tăng trưởng phát hành nhiều trái phiếu chuyển đổi lãi suất rất thấp, có khi bằng 0, đúng lúc giá cổ phiếu cao, lặp lại mô hình "phát hành vào cuối thị trường giá lên". Chứng quyền, mà Zweig năm 2002 coi là gần như biến mất, quay lại mạnh qua làn sóng công ty mua lại có mục đích đặc biệt (SPAC) bán "đơn vị" gồm cổ phiếu và chứng quyền; nhiều công ty sau sáp nhập SPAC giảm giá sâu và chứng quyền mất gần hết giá trị, khớp gần như từng chữ với lời Graham rằng chứng quyền phát hành lớn tạo ra "giá trị thị trường tưởng tượng". Song song, các quỹ ETF chi phí thấp về trái phiếu chuyển đổi và chiến lược covered call ra đời, làm lời khuyên "dùng quỹ chi phí thấp" của Zweig dễ thực hiện hơn, nhưng các quỹ covered call cũng đúng là thường tụt sau thị trường cổ phiếu trong các giai đoạn tăng mạnh.
+Theo hiểu biết của người tổng hợp (không tra cứu, chỉ ở mức định tính): trong khủng hoảng 2008, trái phiếu chuyển đổi giảm mạnh, một phần vì các quỹ phòng hộ (đúng loại người nắm giữ Zweig cảnh báo) phải bán tháo cùng lúc khi mất nguồn vay; điều này khớp với nhận định của Graham rằng phép thử thật của chứng khoán chuyển đổi là thị trường giá xuống.
+
+Thời lãi suất gần 0 sau 2008 và nhất là năm 2020–2021, các công ty công nghệ tăng trưởng phát hành nhiều trái phiếu chuyển đổi lãi suất rất thấp, có khi bằng 0, đúng lúc giá cổ phiếu cao, lặp lại mô hình "phát hành vào cuối thị trường giá lên".
+
+Chứng quyền, mà Zweig năm 2002 coi là gần như biến mất, quay lại mạnh qua làn sóng công ty mua lại có mục đích đặc biệt (SPAC) bán "đơn vị" gồm cổ phiếu và chứng quyền; nhiều công ty sau sáp nhập SPAC giảm giá sâu và chứng quyền mất gần hết giá trị, khớp gần như từng chữ với lời Graham rằng chứng quyền phát hành lớn tạo ra "giá trị thị trường tưởng tượng".
+
+Song song, các quỹ ETF chi phí thấp về trái phiếu chuyển đổi và chiến lược covered call ra đời, làm lời khuyên "dùng quỹ chi phí thấp" của Zweig dễ thực hiện hơn, nhưng các quỹ covered call cũng đúng là thường tụt sau thị trường cổ phiếu trong các giai đoạn tăng mạnh.
 
 ### Quan điểm trái chiều: chứng khoán chuyển đổi có chỗ đứng hợp lý, và chứng quyền không hoàn toàn vô ích
 
-Có thể phản biện Graham ở vài điểm. Thứ nhất, lý thuyết định giá quyền chọn ra đời sau Graham (mô hình Black–Scholes công bố năm 1973) cho phép định giá quyền chuyển đổi và chứng quyền một cách khách quan; khi được định giá đúng, chứng khoán chuyển đổi chỉ là một cách phân chia rủi ro khác, không nhất thiết bất lợi cho người mua. Thứ hai, với công ty nhỏ, rủi ro cao, khó vay, trái phiếu kèm chứng quyền có thể là cách duy nhất để huy động vốn mà không bán cổ phiếu ở giá quá thấp; chính Graham cũng chấp nhận chứng quyền kèm các đợt trái phiếu cỡ vừa. Thứ ba, lập luận "chứng quyền lấy quyền ưu tiên mua của cổ đông" đúng nhất khi chứng quyền được tặng hoặc bán quá rẻ; nếu công ty bán chứng quyền ở giá hợp lý thì cổ đông nhận được tiền tương xứng. Tuy vậy, bằng chứng thực tế Graham và Zweig nêu (mẫu 1968–1970, American & Foreign Power, các "đơn vị" trên thị trường phi tập trung) cho thấy trên thực tế các sản phẩm này hay bị định giá quá cao với người mua nhỏ lẻ, nên phần lớn kết luận của ông vẫn đứng vững với nhà đầu tư cá nhân.
+Có thể phản biện Graham ở vài điểm. Thứ nhất, lý thuyết định giá quyền chọn ra đời sau Graham (mô hình Black–Scholes công bố năm 1973) cho phép định giá quyền chuyển đổi và chứng quyền một cách khách quan; khi được định giá đúng, chứng khoán chuyển đổi chỉ là một cách phân chia rủi ro khác, không nhất thiết bất lợi cho người mua.
+
+Thứ hai, với công ty nhỏ, rủi ro cao, khó vay, trái phiếu kèm chứng quyền có thể là cách duy nhất để huy động vốn mà không bán cổ phiếu ở giá quá thấp; chính Graham cũng chấp nhận chứng quyền kèm các đợt trái phiếu cỡ vừa. Thứ ba, lập luận "chứng quyền lấy quyền ưu tiên mua của cổ đông" đúng nhất khi chứng quyền được tặng hoặc bán quá rẻ; nếu công ty bán chứng quyền ở giá hợp lý thì cổ đông nhận được tiền tương xứng.
+
+Tuy vậy, bằng chứng thực tế Graham và Zweig nêu (mẫu 1968–1970, American & Foreign Power, các "đơn vị" trên thị trường phi tập trung) cho thấy trên thực tế các sản phẩm này hay bị định giá quá cao với người mua nhỏ lẻ, nên phần lớn kết luận của ông vẫn đứng vững với nhà đầu tư cá nhân.
 
 ### Vận dụng cho nhà đầu tư cá nhân: luôn hỏi "mình đã trả gì để có điều khoản này" và luôn tính lại số cổ phiếu tiềm năng
 
@@ -844,4 +900,198 @@ Từ chương này có thể rút ra các thói quen cụ thể. Khi được ch
 
 ### Vận dụng định tính cho nhà đầu tư Việt Nam: các khái niệm của chương có mặt dưới nhiều tên gọi khác
 
-Ở mức định tính (không đưa số liệu, không tra cứu): thị trường Việt Nam có trái phiếu doanh nghiệp chuyển đổi, trái phiếu kèm chứng quyền, cổ phiếu phát hành cho cổ đông hiện hữu theo quyền mua, và chứng quyền có bảo đảm do công ty chứng khoán phát hành trên cổ phiếu cơ sở. Chứng quyền có bảo đảm khác chứng quyền Graham bàn (do bên thứ ba phát hành nên không pha loãng cổ phiếu), nhưng bài học về giá trị thời gian, đòn bẩy và rủi ro mất trắng khi hết hạn vẫn áp dụng. Với trái phiếu chuyển đổi và quyền mua cổ phiếu phát hành thêm, nhà đầu tư nên tính số cổ phiếu sẽ tăng thêm và lợi nhuận trên mỗi cổ phiếu sau pha loãng, vì giá cổ phiếu thường được điều chỉnh kỹ thuật sau đợt phát hành. Nhà đầu tư cũng nên xem việc một công ty liên tục phát hành trái phiếu chuyển đổi, cổ phiếu kèm quyền mua giá thấp vào lúc thị trường hưng phấn là tín hiệu cần thận trọng, đúng như Graham nhận xét về cuối thị trường giá lên.
+Ở mức định tính (không đưa số liệu, không tra cứu): thị trường Việt Nam có trái phiếu doanh nghiệp chuyển đổi, trái phiếu kèm chứng quyền, cổ phiếu phát hành cho cổ đông hiện hữu theo quyền mua, và chứng quyền có bảo đảm do công ty chứng khoán phát hành trên cổ phiếu cơ sở.
+
+Chứng quyền có bảo đảm khác chứng quyền Graham bàn (do bên thứ ba phát hành nên không pha loãng cổ phiếu), nhưng bài học về giá trị thời gian, đòn bẩy và rủi ro mất trắng khi hết hạn vẫn áp dụng. Với trái phiếu chuyển đổi và quyền mua cổ phiếu phát hành thêm, nhà đầu tư nên tính số cổ phiếu sẽ tăng thêm và lợi nhuận trên mỗi cổ phiếu sau pha loãng, vì giá cổ phiếu thường được điều chỉnh kỹ thuật sau đợt phát hành.
+
+Nhà đầu tư cũng nên xem việc một công ty liên tục phát hành trái phiếu chuyển đổi, cổ phiếu kèm quyền mua giá thấp vào lúc thị trường hưng phấn là tín hiệu cần thận trọng, đúng như Graham nhận xét về cuối thị trường giá lên.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 16 trên một trang: bảy nhánh lớn đi theo phần Nội dung chi tiết (Phần A, mục 1–4 về cái giá của quyền chuyển đổi và bằng chứng thị trường giảm; mục 5–7 về thế khó bán hay giữ, vụ Eversharp và AT&T; mục 8–9 về pha loãng và việc chuyển từ cổ phiếu phổ thông sang ưu đãi; mục 10–11 về chứng quyền; Phần B, mục 1 và 2 là bình luận của Zweig về trái phiếu chuyển đổi và chiến lược bán quyền chọn mua có bảo đảm), mỗi nhánh ghi luận điểm, ví dụ công ty và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 16: chứng khoán chuyển đổi không tự cho #quot;cái tốt nhất của hai thế giới#quot;, còn chứng quyền phát hành lớn là giá trị ảo`"]
+  n1["`Phần A, mục 1–4 — Quyền chuyển đổi có giá, và thường đi kèm chất lượng kém`"]
+  n0 --- n1
+  n2["`Bối cảnh 1970: hơn 1/2 cổ phiếu ưu đãi trong Standard #amp; Poor's Stock Guide có quyền chuyển đổi, ít nhất 60 loại chứng quyền ở Sở American`"]
+  n1 --- n2
+  n3["`Năm 1970 Sở NYSE lần đầu niêm yết chứng quyền dài hạn: quyền mua 31.400.000 cổ phiếu AT#amp;T giá 52 USD`"]
+  n1 --- n3
+  n4["`Lời quảng cáo: nhà đầu tư được bảo vệ như trái phiếu lại hưởng khi cổ phiếu tăng#59; công ty vay rẻ`"]
+  n1 --- n4
+  n5["`Graham: một thủ thuật khéo không làm cả hai bên cùng lợi nhiều#59; người mua bỏ chất lượng, lợi suất hoặc cả hai`"]
+  n1 --- n5
+  n6["`Ford Motor Finance 11/1971: trái phiếu thường 20 năm lãi 7,5%, trái phiếu chuyển đổi 25 năm xếp sau chỉ 4,5%`"]
+  n5 --- n6
+  n7["`Để đổi được ra cổ phiếu Ford ở 68,5 USD, người mua bỏ 40% thu nhập và chịu vị thế chủ nợ xếp sau`"]
+  n5 --- n7
+  n8["`Phần lớn phát hành cuối thị trường giá lên, nên thị trường giảm làm mất cả quyền chuyển đổi lẫn độ an toàn`"]
+  n1 --- n8
+  n9["`12/1968–12/1970: trong 20 cổ phiếu ưu đãi chuyển đổi chỉ 1 mã tăng, 14 mã giảm nặng#59; S#amp;P 500 giảm 11,3%`"]
+  n8 --- n9
+  n10["`12/1967–12/1970: ưu đãi chuyển đổi giảm nhiều hơn cổ phiếu phổ thông nói chung (chỉ mất 5%)`"]
+  n8 --- n10
+  n11["`Có thêm quyền chuyển đổi lẽ ra tốt hơn, nhưng việc phải gắn nó thường lộ ra đợt phát hành thiếu chất lượng đầu tư thật`"]
+  n1 --- n11
+  n12["`Ưu đãi chuyển đổi an toàn hơn cổ phiếu phổ thông cùng công ty, nhưng thường chính cổ phiếu đó đã không đáng mua`"]
+  n1 --- n12
+  n13["`Phần A, mục 5–7 — Thế khó bán hay giữ, vụ Eversharp và trường hợp AT#amp;T`"]
+  n0 --- n13
+  n14["`Trái phiếu 6% đổi ở giá 25 USD (40 cổ phiếu): cổ phiếu lên 30 thì trái phiếu đáng ít nhất 120, bán được 125`"]
+  n13 --- n14
+  n15["`Bán ở 125 rồi tiếc khi cổ phiếu tăng tiếp#59; lần sau giữ ở 140 thì thị trường sụp, trái phiếu còn 80`"]
+  n13 --- n15
+  n16["`Bất lợi số học: bán khi lãi 25–30% đặt trần lãi, còn nhiều mã không lên tới 125 mà rơi mạnh`"]
+  n13 --- n16
+  n17["`Lỗ lớn (ít nhất tạm thời) nhiều ngang lãi lớn#59; phép thử thật là thị trường giảm, và ở đó kết quả luôn đáng thất vọng`"]
+  n13 --- n17
+  n18["`Eversharp: trái phiếu 4,5% mua ở mệnh giá, đổi ở 40 USD#59; giá trị chuyển đổi lên ít nhất 220`"]
+  n13 --- n18
+  n19["`Bị gọi mua lại, nhiều quỹ đổi ra cổ phiếu rồi giữ#59; 3/1948 cổ phiếu 7 3/8 USD, tương đương 27, lỗ 75%`"]
+  n18 --- n19
+  n20["`Châm ngôn #quot;đừng bao giờ chuyển đổi một trái phiếu chuyển đổi#quot;: đổi là mất quyền đòi trước, thành nhà đầu cơ`"]
+  n18 --- n20
+  n21["`Phố Wall có vài nguyên tắc thận trọng, nhưng chúng luôn bị quên đúng lúc cần nhất`"]
+  n18 --- n21
+  n22["`Tổ hợp lý tưởng: bảo đảm vững, cổ phiếu tự nó hấp dẫn, giá chuyển đổi chỉ hơi cao hơn giá thị trường#59; dễ tìm ở đợt cũ hơn đợt mới`"]
+  n13 --- n22
+  n23["`AT#amp;T 1913–1957: ít nhất 9 đợt trái phiếu chuyển đổi, lãi dưới 1/2 tỷ suất cổ tức, cổ tức 9 USD giữ 40 năm`"]
+  n13 --- n23
+  n24["`Người mua trái phiếu được lợi nhưng kém người mua thẳng cổ phiếu: ví dụ chứng minh AT#amp;T vững, không chứng minh trái phiếu chuyển đổi hấp dẫn`"]
+  n23 --- n24
+  n25["`Phần A, mục 8–9 — Tác động lên cổ phiếu phổ thông và khi nào nên đổi sang ưu đãi`"]
+  n0 --- n25
+  n26["`Chứng khoán chuyển đổi hay dùng để thâu tóm: NVF Corp. phát hành gần 100 triệu USD trái phiếu 5% kèm chứng quyền để lấy Sharon Steel`"]
+  n25 --- n26
+  n27["`Lợi nhuận mỗi cổ phiếu #quot;giả định#quot; và giá cổ phiếu tăng, nhưng sự pha loãng thật bị bỏ qua`"]
+  n25 --- n27
+  n28["`Đo pha loãng: tính lại lợi nhuận mỗi cổ phiếu như thể mọi chứng khoán chuyển đổi đã đổi hết ra cổ phiếu`"]
+  n25 --- n28
+  n29["`Tập đoàn đa ngành mở rộng nhanh dùng nhiều nhất: 7 công ty có lượng lớn cổ phiếu tiềm năng cuối năm 1969`"]
+  n25 --- n29
+  n30["`Từ khoảng 1956 ưu đãi trả cổ tức cao hơn cổ phiếu phổ thông, nên có trường hợp nên chuyển từ phổ thông sang ưu đãi`"]
+  n25 --- n30
+  n31["`Studebaker-Worthington cuối 1970: ưu đãi 87,5 so với 1,5 × 57 = 85,5, chỉ đắt hơn 2 điểm`"]
+  n30 --- n31
+  n32["`Cổ tức 5 USD so với 1,80 USD, chênh 3,20 USD/năm bù 2 điểm chưa tới một năm, lại có vị thế đòi trước`"]
+  n30 --- n32
+  n33["`Cuối 1971: ưu đãi 77 so với 57, khoảng cách nới từ 2 lên 20 điểm#59; thị trường bỏ qua phép tính số học`"]
+  n30 --- n33
+  n34["`Phần A, mục 10–11 — Chứng quyền: giá trị tạo ra từ hư không`"]
+  n0 --- n34
+  n35["`Graham: chứng quyền gần đây là gần như lừa đảo, mối đe doạ và thảm hoạ tiềm tàng#59; nên bị luật cấm hoặc giới hạn`"]
+  n34 --- n35
+  n36["`American #amp; Foreign Power: chứng quyền hơn 1 tỷ USD năm 1929, 8 triệu USD năm 1932, bị xoá sổ năm 1952`"]
+  n34 --- n36
+  n37["`Chứng quyền tách quyền ưu tiên mua cổ phiếu mới, vốn là một phần giá trị của cổ phiếu, ra bán riêng`"]
+  n34 --- n37
+  n38["`Người mua thiếu kinh nghiệm không thấy cổ phiếu kém giá trị đi, nên trọn gói cổ phiếu cộng chứng quyền bán giá cao hơn`"]
+  n34 --- n38
+  n39["`Quay lại từ 1967: CleveTrust Realty Investors 1971 bán 2.500.000 đơn vị cổ phiếu kèm chứng quyền, 20 USD mỗi đơn vị`"]
+  n34 --- n39
+  n40["`Giá thị trường thực mỗi cổ phiếu = (vốn hoá cổ phiếu + giá trị thị trường chứng quyền) / số cổ phiếu`"]
+  n34 --- n40
+  n41["`National General 1970: cách của công ty làm P/E giảm, điều phi lý#59; cách của Graham làm P/E tăng đáng kể`"]
+  n40 --- n41
+  n42["`Cách thông dụng chỉ tính giá trị thực hiện, bỏ sót phần giá trị vượt của chứng quyền`"]
+  n40 --- n42
+  n43["`Công ty không được lợi: không buộc được người giữ góp vốn trước hạn, gọi vốn vẫn phải chào bán cho cổ đông`"]
+  n34 --- n43
+  n44["`Tiền assignat của Pháp mà Goethe biết khi viết Faust: được ca ngợi rồi mất hết giá trị, như 1 tỷ USD chứng quyền American #amp; Foreign Power`"]
+  n34 --- n44
+  n45["`Tái bút: #quot;tội của chứng quyền là đã được sinh ra#quot;#59; đã sinh ra thì chúng là chứng khoán có cơ hội lãi và lỗ`"]
+  n34 --- n45
+  n46["`Tri-Continental: từ 1/32 USD ở đáy Đại suy thoái lên 75 3/4 USD năm 1969, tăng khoảng 242.000%`"]
+  n45 --- n46
+  n47["`Ling-Temco-Vought nửa đầu 1971: từ 2,5 lên 12,5 rồi về 4 USD`"]
+  n45 --- n47
+  n48["`Chứng quyền kèm trái phiếu cỡ vừa chấp nhận được#59; lượng lớn so với cổ phiếu là dấu hiệu cơ cấu vốn quá nặng nợ và ưu đãi`"]
+  n34 --- n48
+  n49["`Phần B, mục 1 — Zweig: trái phiếu chuyển đổi hành xử như cổ phiếu`"]
+  n0 --- n49
+  n50["`Trái phiếu chuyển đổi vận hành như quyền chọn: giữ để nhận lãi, hoặc đổi ra cổ phiếu theo tỷ lệ định trước`"]
+  n49 --- n50
+  n51["`DoubleClick: trái phiếu 4,75%, đổi 24,24 cổ phiếu, giá trị chuyển đổi 137,20 USD, giá 881,30 USD, phần bù 542%`"]
+  n49 --- n51
+  n52["`Cổ phiếu phải tăng từ 5,66 USD lên trên 36 USD trước 2006#59; thu hồi phần bù bằng tiền lãi mất khoảng 16 năm`"]
+  n51 --- n52
+  n53["`1957–2002: trái phiếu chuyển đổi lãi 8,3%/năm, kém cổ phiếu 2 điểm % (số giả định, thực tế thấp hơn khoảng 2 điểm % do phí)`"]
+  n49 --- n53
+  n54["`#quot;Tốt nhất của hai thế giới#quot; cũng có thể gọi là #quot;tệ nhất#quot;: thu nhập thấp hơn, rủi ro cao hơn phần lớn trái phiếu khác`"]
+  n49 --- n54
+  n55["`Tương quan khoảng 83% với S#amp;P 500, khoảng 30% với trái phiếu Kho bạc: #quot;cổ phiếu cho người nhát gan#quot;`"]
+  n49 --- n55
+  n56["`Thị trường đã tốt lên: khoảng 200 tỷ USD, kỳ hạn 7–10 năm, khoảng 1/2 hạng đầu tư, nhiều đợt có bảo vệ khỏi bị mua lại sớm`"]
+  n49 --- n56
+  n57["`Năm 2002: chỉ số Merrill Lynch All U.S. Convertible −8,6%, S#amp;P 500 −22,1%, NASDAQ −31,3%`"]
+  n56 --- n57
+  n58["`Vẫn dồn phát hành cuối thị trường giá lên: 15 tỷ USD/năm giữa thập niên 1990, 105 tỷ USD năm 2001`"]
+  n56 --- n58
+  n59["`Nhưng vẫn xếp sau nợ khác, nhiều nhà phát hành tín nhiệm không cao, quỹ phòng hộ nắm nhiều nên giá dao động mạnh`"]
+  n56 --- n59
+  n60["`Mua lẻ cần hơn 100.000 USD mới đa dạng hoá được#59; dùng quỹ chi phí thấp, không bao giờ mua quỹ chi phí trên 1%/năm`"]
+  n49 --- n60
+  n61["`Tránh LYONs, PERCS...: đặt sàn chặn lỗ nhưng giới hạn lãi#59; tự bảo vệ bằng đa dạng hoá tiền mặt, trái phiếu, cổ phiếu Mỹ và nước ngoài`"]
+  n49 --- n61
+  n62["`Phần B, mục 2 — Zweig bóc trần chiến lược bán quyền chọn mua có bảo đảm`"]
+  n0 --- n62
+  n63["`Ixnay Corp.: mua 100 cổ phiếu giá 95 USD, bán quyền chọn mua giá thực hiện 100 USD, nhận 1.000 USD phí`"]
+  n62 --- n63
+  n64["`Cổ phiếu dưới 100 USD: giữ cổ phiếu và có 1.000 USD đệm lỗ, nghe như #quot;ít rủi ro hơn, nhiều thu nhập hơn#quot;`"]
+  n62 --- n64
+  n65["`Cổ phiếu vọt lên 110 USD: bị lấy mất cổ phiếu ở giá 100 USD, cổ phiếu càng tăng càng tiếc`"]
+  n62 --- n65
+  n66["`Lãi của cổ phiếu không giới hạn, lỗ tối đa 100%: chiến lược này chỉ làm giàu cho người môi giới`"]
+  n62 --- n66
+  n67["`Thông điệp xuyên suốt`"]
+  n0 --- n67
+  n68["`Thứ Phố Wall cho bằng một tay thì thường lấy lại bằng tay kia`"]
+  n67 --- n68
+  n69["`Luôn hỏi người mua đã trả gì (lãi suất, thứ tự đòi nợ) để có quyền chuyển đổi hay khoản #quot;bảo vệ#quot;`"]
+  n67 --- n69
+  n70["`Khi định giá cổ phiếu, luôn tính số cổ phiếu tiềm năng từ chứng khoán chuyển đổi và chứng quyền`"]
+  n67 --- n70
+  class n0 root
+  class n1,n13,n25,n34,n49,n62,n67 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n63,n64,n65,n66,n68,n69,n70 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 16 "Émissions convertibles et bons de souscription" (PDF trang 340–354, gồm cả mục "Post-scriptum pratique" ở trang 351 và các chú thích của Zweig in ở trang 352–354) và "Commentaire sur le chapitre 16" (PDF trang 354–357). Chú thích cuối sách của Graham cho chương này: PDF trang 489; chú thích đánh số của Zweig cho phần bình luận: PDF trang 575–576 và 626.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 15 ([C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md)) chỉ cho nhà đầu tư năng động cách sàng lọc cổ phiếu giá hời.
+
+Chương 16 chuyển sang hai loại chứng khoán "lai" mà nhà đầu tư năng động hay được chào mời: chứng khoán chuyển đổi (trái phiếu hoặc cổ phiếu ưu đãi có thể đổi ra cổ phiếu phổ thông) và chứng quyền (quyền dài hạn được mua cổ phiếu phổ thông ở một giá định trước). Chương này nối tiếp lời cảnh báo ở Chương 6 ([C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md)) rằng trái phiếu và cổ phiếu ưu đãi hạng hai thường không đáng mua, và dùng lại ý ở Chương 12 ([C12-nhung-dieu-can-xet-ve-eps.md](C12-nhung-dieu-can-xet-ve-eps.md)) rằng lợi nhuận trên mỗi cổ phiếu phải được tính lại khi có nhiều chứng khoán có thể biến thành cổ phiếu mới (pha loãng).
+
+Chương 17 ([C17-bon-truong-hop-dang-hoc.md](C17-bon-truong-hop-dang-hoc.md)) sẽ đưa ra các ví dụ thực tế về những tập đoàn đa ngành dùng trái phiếu chuyển đổi và chứng quyền để thâu tóm công ty khác, trong đó có vụ NVF Corp. mua Sharon Steel mà chương này đã nhắc trước.
+
+## Lưu ý
+
+- **Bốn bảng của chương (Tableau 16-1, 16-2, 16-3, 16-4) để trống trong bản PDF.** Đã xem ảnh trang 341, 342, 347 và 350: chỉ có tiêu đề bảng, phần thân là khoảng trắng; tệp PDF cũng gần như không chứa ảnh nhúng nào (chỉ có 1 ảnh trong cả tệp), nên không có cách nào khôi phục số liệu từ bản này. Bản tổng hợp chép lại đầy đủ tiêu đề từng bảng và mọi con số mà lời văn của Graham nêu ra về bảng đó, nhưng **không tự điền số liệu cho bảng** để tránh bịa. Người cần số liệu đầy đủ phải đối chiếu với bản tiếng Anh gốc.
+- Bản dịch máy gọi chứng khoán chuyển đổi (*convertible*) là "cabriolet" (xe mui trần), gọi chứng quyền (*warrants*) là "mandats", gọi một đợt phát hành chứng khoán (*issue*) là "problème" hay "question", gọi cổ phiếu phổ thông (*the common*) là "le commun", gọi trái phiếu (*bonds*) là "liaisons" hay "lien". Bản tổng hợp hiểu theo nghĩa đúng.
+- "Bons de pouvoir" (PDF trang 350) là cách dịch máy cắt đôi cụm "American & Foreign Power warrants" (chứng quyền của American & Foreign Power); cụm "le milliard de dollars américains et étrangers. Bons de pouvoir" nghĩa là "khoản một tỷ USD chứng quyền của American & Foreign Power".
+- "Commutateurs indiqués des actions ordinaires aux actions privilégiées" (tiêu đề mục, PDF trang 347) nghĩa là "Những trường hợp nên chuyển từ cổ phiếu phổ thông sang cổ phiếu ưu đãi" (*indicated switches*), không phải "công tắc".
+- "la société a une capitalisation senior de premier plan" (PDF trang 351) dịch sai nghĩa: ý gốc là cơ cấu vốn của công ty "nặng phần đầu", tức có quá nhiều nợ và cổ phiếu ưu đãi so với cổ phiếu phổ thông (*top-heavy senior capitalization*), không phải "hàng đầu".
+- "ne garantit ni l'attractivité ni l'attractivité" (PDF trang 341) lặp từ do dịch máy; ý đúng: hình thức chuyển đổi không bảo đảm chứng khoán đó hấp dẫn, cũng không làm nó kém hấp dẫn.
+- "de nombreux convertis sont toujours émis par des sociétés dont la cote de crédit est inférieure à la livre sterling" (chú thích 3 của bình luận) dịch máy chữ *sterling* thành "đồng bảng Anh"; ý đúng: nhiều trái phiếu chuyển đổi được phát hành bởi công ty có xếp hạng tín nhiệm không hoàn hảo, kém hạng cao nhất.
+- Câu đề từ của phần bình luận "Ce que tu semes n'est pas vivifié, sinon il meurt" dịch lệch; ý đúng của câu trong Thư thứ nhất gửi tín hữu Côrintô 15:36 là "hạt giống ngươi gieo sẽ không sống lại nếu nó không chết đi". "JE. Corinthiens" là chữ "I" (Thư thứ nhất) bị dịch máy thành đại từ "je".
+- "les principaux praticiens de la légendaire convertible" (PDF trang 346): "légendaire" nhiều khả năng là dịch máy nhầm chữ *legerdemain* (trò ảo thuật, mánh khoé), tức các tập đoàn đa ngành là những người thực hành chính trò mánh khoé bằng chứng khoán chuyển đổi.
+- Ở mục "Effet des émissions convertibles...", Graham báo trước "hai yếu tố đối trọng" nhưng bản PDF chỉ trình bày yếu tố thứ nhất (pha loãng); bản tổng hợp không tự suy ra yếu tố thứ hai.
+- "Une recherche Google ... a permis de recenser plus de 2 600 visites" (khung về quyền chọn mua có bảo đảm): "visites" là bản dịch sai của *hits*, tức hơn 2.600 kết quả tìm kiếm.
+- Chú thích 1 trong khung "DÉCOUVRIR LES APPELS COUVERTS" không nằm cùng các chú thích khác của chương 16 mà bị in lạc ở PDF trang 626 (giữa chú thích của phần khác); bản tổng hợp đã đưa về đúng chỗ.
+- Chỗ dẫn trang của bản tiếng Anh mà PDF không có: Graham viết vụ NVF–Sharon Steel được bàn "pp 429–433" (thực tế là Chương 17 của sách); Zweig dẫn "pp. 413 et 416" (tức mục chứng quyền và "Post-scriptum pratique" của chính chương này), "p. 418" (chú thích 1 của phần bình luận), "p. 421" (khung về quyền chọn mua có bảo đảm ngay trong phần bình luận).
+- Phép tính vụ Eversharp: giá cổ phiếu 7 3/8 USD (tháng 3/1948) sau khi tách 3 thành 2 tương đương khoảng 11,06 USD giá trước khi tách; chia cho giá chuyển đổi 40 USD thì trái phiếu có giá trị chuyển đổi khoảng 27,7% mệnh giá, tức lỗ khoảng 72–73%. Graham làm tròn thành "27" và "lỗ 75%".
+- Số liệu đã cũ: năm 2002, theo Zweig, chỉ còn 7 đợt chứng quyền niêm yết ở Sở Giao dịch Chứng khoán New York. Theo hiểu biết của người tổng hợp (không tra cứu), chứng quyền trở lại khá phổ biến ở Mỹ vào 2020–2021 qua làn sóng công ty mua lại có mục đích đặc biệt (SPAC), vốn bán "đơn vị" gồm cổ phiếu kèm chứng quyền, và nhiều chứng quyền loại này sau đó mất gần hết giá trị; thị trường trái phiếu chuyển đổi ở Mỹ cũng có các đợt phát hành lớn (chẳng hạn năm 2020) khi lãi suất thấp và giá cổ phiếu công nghệ cao. Các số liệu Zweig nêu (quy mô thị trường khoảng 200 tỷ USD, lợi suất 1957–2002) là số liệu năm 2002–2003.

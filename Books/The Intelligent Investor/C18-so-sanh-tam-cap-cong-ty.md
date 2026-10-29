@@ -1,20 +1,24 @@
 # Chương 18 — So sánh tám cặp công ty (Comparaison de huit paires d'entreprises)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 18 "Comparaison de huit paires d'entreprises" (PDF trang 376–397) và "Commentaire sur le chapitre 18" (PDF trang 397–410).
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 11 và 12 ([C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md), [C12-nhung-dieu-can-xet-ve-eps.md](C12-nhung-dieu-can-xet-ve-eps.md)) dạy cách đọc lợi nhuận, giá trị sổ sách, tỷ suất cổ tức và hệ số P/E; Chương 13 ([C13-so-sanh-bon-cong-ty-niem-yet.md](C13-so-sanh-bon-cong-ty-niem-yet.md)) áp dụng các chỉ tiêu đó cho bốn công ty; Chương 14 và 15 đặt ra bộ tiêu chí chọn cổ phiếu cho nhà đầu tư phòng thủ và nhà đầu tư năng động (trong đó có bằng chứng rằng nhóm cổ phiếu có P/E thấp của các công ty lớn thường cho kết quả tốt hơn nhóm P/E cao); Chương 16 bàn về chứng khoán chuyển đổi và chứng quyền; Chương 17 ([C17-bon-truong-hop-dang-hoc.md](C17-bon-truong-hop-dang-hoc.md)) kể bốn trường hợp cực đoan (Penn Central, Ling-Temco-Vought, NVF, AAA Enterprises). Chương 18 là bài tập tổng hợp: Graham đặt mười sáu cổ phiếu thành tám cặp đứng sát nhau trên bảng niêm yết, so sánh các con số, nêu nhận định tại thời điểm so sánh (cuối 1968 hoặc cuối 1969) rồi kể diễn biến tới 1971 ("Sequel"). Chương 19 ([C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md](C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md)) đi tiếp từ câu hỏi Graham đặt ra với International Harvester trong chương này: cổ đông phải làm gì khi ban điều hành để một công ty lớn sinh lời kém kéo dài. Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md)) gom bài học của các ví dụ thành khái niệm biên an toàn.
-**Ý chính:** Graham muốn người đọc hiểu rằng **giá cổ phiếu và giá trị doanh nghiệp có thể tách rời nhau rất xa, theo cả hai chiều, và nhà phân tích nên đi tìm những trường hợp thiểu số trong đó có thể khá chắc chắn rằng giá thấp hơn nhiều so với giá trị, thay vì cố đoán cổ phiếu nào sẽ tăng giá nhiều nhất.** Ví dụ trung tâm là Cặp 1: Real Estate Investment Trust, một quỹ tín thác bất động sản ở New England trả cổ tức liên tục từ 1889 và mở rộng thận trọng, đặt cạnh Realty Equities Corp. of New York, công ty đã thổi tài sản từ 6,2 triệu lên 154 triệu USD trong tám năm bằng nợ, mua cả trường đua ngựa, rạp chiếu phim và một phần hãng mỹ phẩm. Năm 1968 Wall Street đẩy giá Realty Equities từ 10 lên 37¾ USD trong khi giá trị tài sản chỉ còn 3,41 USD mỗi cổ phiếu; hai năm sau công ty lỗ 13,2 triệu USD, kiểm toán viên từ chối xác nhận báo cáo, cổ phiếu bị đình chỉ niêm yết và giá xuống dưới 2 USD. Các cặp khác lặp lại cùng bài học: H & R Block được định giá gấp gần 30 lần tài sản hữu hình và hơn 100 lần lợi nhuận, trong khi Blue Bell lớn gấp bốn lần về doanh thu chỉ có P/E 11; International Flavors & Fragrances được định giá cao hơn International Harvester dù Harvester có vốn chủ sở hữu gấp 17 lần; National General, một tập đoàn đa ngành đầy chứng quyền, có P/E "thực" 69 trong khi National Presto chỉ có P/E 6,9. Sau đợt sụt giá 1970, phần lớn các cổ phiếu "đắt" giảm mạnh hơn, các cổ phiếu "rẻ" hồi phục tốt hơn, nhưng Graham cũng cảnh báo rằng một cổ phiếu tốt bị định giá cao (Block) vẫn có thể tăng thêm, nên không bao giờ được bán khống chỉ vì thấy giá cao.
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **bài học ấy lặp lại gần như nguyên vẹn trong bong bóng Internet 1999–2000**: ông dựng tám cặp mới, mỗi cặp ghép một cổ phiếu "nóng" của thời đó với một công ty bình thường có tên gần giống. Ví dụ trung tâm là Cisco và Sysco: ngày 27/3/2000 Cisco là công ty có giá trị lớn nhất thế giới (548 tỷ USD, P/E 219), còn Sysco, nhà cung cấp thực phẩm cho bếp tập thể, có doanh thu lớn hơn Cisco gần 20% nhưng chỉ được định giá 11,7 tỷ USD (P/E 26). Từ 2000 đến 2002 Cisco mất ba phần tư giá trị, Sysco tăng 56%. Các cặp Yahoo!/Yum!, Commerce One/Capital One, Palm/3Com, CMGI/Commerce Group, Nortel/Nortek, Red Hat/Brown Shoe cho cùng kết quả, còn cặp Ball/Stryker cho thấy một đợt hoảng loạn có thể bán rẻ cả cổ phiếu giá trị lẫn cổ phiếu tăng trưởng. Kết luận của Zweig: không có "cổ phiếu tốt", chỉ có mức giá tốt; ai mua chỉ vì giá đã tăng mà không hỏi giá trị doanh nghiệp có tăng hay không thì sớm muộn sẽ hối tiếc.
+Graham muốn người đọc hiểu rằng **giá cổ phiếu và giá trị doanh nghiệp có thể tách rời nhau rất xa, theo cả hai chiều, và nhà phân tích nên đi tìm những trường hợp thiểu số trong đó có thể khá chắc chắn rằng giá thấp hơn nhiều so với giá trị, thay vì cố đoán cổ phiếu nào sẽ tăng giá nhiều nhất.**
 
-> **Lưu ý:**
-> - **Toàn bộ bảng và hình của chương này bị trống trong bản PDF.** Trên ảnh trang chỉ còn tiêu đề và một khoảng trắng cho Tableau 18-1A, 18-1B, 18-2, 18-3, 18-4, 18-5, 18-6, 18-7, 18-8A, 18-8B, 18-9, 18-10 và Figure 18-1, 18-2, 18-3, 18-4; lớp chữ cũng không có số liệu của các bảng, và người tổng hợp đã kiểm tra rằng file PDF không chứa đối tượng hình ảnh nào ở các trang này (chỉ trang 1 có ảnh). Vì vậy bản tổng hợp **không thể chép lại các bảng gốc**. Thay vào đó, mỗi cặp có một bảng "số liệu nêu trong lời văn", chỉ gồm các con số Graham hoặc Zweig viết ra trong đoạn văn (và một số con số người tổng hợp tính ra từ đó, ghi rõ "tính ra"). Người cần đủ các dòng của bảng gốc (doanh thu, lợi nhuận, cổ tức, vốn lưu động, các tỷ số...) phải đối chiếu bản tiếng Anh. Người tổng hợp không tự điền số từ trí nhớ để tránh đưa số sai.
-> - Tiêu đề chương trong PDF là "Comparaison de huit paires d'entreprises" (không có "Une"). Văn bản trích (C18.txt) có hai dòng đầu "Tous les montants sont en millions de dollars. Sources: documents déposés auprès des sociétés par la SEC." thuộc chú thích bảng của Chương 17, không phải của chương này.
-> - Bản dịch máy lệch nghĩa ở nhiều chỗ ảnh hưởng tới nội dung: (1) Cặp 1, "les actions de Trust se vendant ... pour neuf fois la valeur totale des actions" thiếu chữ "của Equities": ý đúng là năm 1960 tổng giá trị thị trường cổ phiếu của Trust gấp chín lần tổng giá trị cổ phiếu của Realty Equities. (2) Cặp 2, "la rentabilité accrue d'Air Reduction" phải hiểu là khả năng sinh lời cao hơn **của Air Products** (cả đoạn nói Air Products sinh lời tốt hơn, tăng trưởng nhanh hơn nên được định giá cao hơn). (3) Cặp 3, "sociétés de bonne volonté d'un milliard de dollars" là dịch máy chữ *goodwill*: ý là hai công ty mà phần giá thị trường vượt trên tài sản hữu hình (lợi thế thương mại do thị trường gán cho) lên tới hàng tỷ USD; "maison" và "hôpital" là cách Graham gọi tắt Home và Hospital; "l'émission privilégiée" là "cổ phiếu được thị trường ưu ái" (tức Hospital), không phải cổ phiếu ưu đãi. (4) Cặp 4, "(pratiquement rien)" phải hiểu là tăng trưởng lợi nhuận của Block trong năm năm "xuất phát từ gần như con số không"; "Je NDICATED C ONCLUSIONS" là tiêu đề "Indicated Conclusions" (kết luận rút ra) bị lỗi chữ; "concédé un grand élan à bloquer" là "thừa nhận Block có đà tăng trưởng rất mạnh". (5) Cặp 5, "Saveurs et parfums internationaux" là International Flavors & Fragrances (IFF), "Les saveurs" là IFF; "a conservé son tricot" là dịch chữ từng chữ thành ngữ *stuck to its knitting* (giữ đúng nghề chính). (6) Cặp 7, "mandats" là chứng quyền (*warrants*). (7) Cặp 8, "Le merlan" (con cá tuyết) là tên công ty Whiting bị dịch thành tên cá; "puissantes petites pommes de terre" là thành ngữ *mighty small potatoes* (toàn những thứ rất nhỏ). (8) Phần nhận xét chung, "sous-spécification" phải là "đầu cơ dưới mức" (*underspeculation*), tức thị trường quá thờ ơ; "problèmes" khắp chương là *issues* (cổ phiếu, đợt phát hành). (9) Bình luận của Zweig: "miam!" là Yum!; "chapeau rouge et chaussure marron" là Red Hat và Brown Shoe; "Ball était un vol et Stryker un terrain sauvage" là "Ball là món hời, Stryker là món bị chặt chém" (*a steal / a rip-off*); "Nortek a réalisé un chiffre d'affaires net de 49 millions de dollars sur 2 milliards" phải là **lợi nhuận ròng** 49 triệu USD trên doanh thu 2 tỷ USD; "incompossible/incomposables" là chữ *incompossible* của Ambrose Bierce.
-> - Lỗi số và ký hiệu trong bản PDF: giá Yahoo! ngày 31/12/1999 ghi "432 687 $" thực ra là 432,6875 USD (432 11/16); phép nhân "1,525 95,06 $" thiếu dấu nhân; giá trị phần còn lại của 3Com ghi "63,16 $" phải là **âm** 63,16 USD mỗi cổ phiếu (văn bản sau đó nói "tổng cộng âm 22 tỷ USD"); giá hồi phục của Trust "26 5/6" nhiều khả năng là 26 5/8 vì giá thời đó tính theo phần tám; "Strkyer" là lỗi gõ của Stryker; số chú thích 7 và 10 của Zweig bị dịch thành chữ "sept", "dix".
-> - Chỗ số liệu tự mâu thuẫn hoặc khó khớp (không kiểm chứng được vì bảng trống): với H & R Block, Graham viết giá 55 USD "hơn 100 lần lợi nhuận 12 tháng gần nhất" và tổng giá trị thị trường 300 triệu USD, nhưng lợi nhuận ròng nêu trong cùng đoạn là 6,3 triệu USD, cho P/E khoảng 48; có thể "lợi nhuận 12 tháng gần nhất" khác với con số 6,3 triệu của năm tài chính, người tổng hợp không xác định được. Với Yum!, Zweig nói lợi nhuận 633 triệu USD "gấp 17 lần Yahoo!", tính ra từ các số ông nêu là khoảng 18 lần. Với Cặp 7, bản dịch nói National General có "doanh thu gộp ít hơn đáng kể" so với Presto; câu này được giữ như bản PDF nhưng không đối chiếu được với Tableau 18-7. Tiêu đề Tableau 18-10 ghi giai đoạn 1958–1971 trong khi lời văn ghi 1958–1970; tiêu đề Tableau 18-8B ghi "10 năm" 1961–1970 trong khi lời văn dẫn lợi nhuận Whiting từ 1960.
-> - Graham và Zweig dẫn trang của bản tiếng Anh mà bản PDF không có: "p. 415" (phần bàn về chứng quyền ở Chương 16), "p. 434" (AAA Enterprises ở Chương 17), "p. 389" (nghiên cứu cổ phiếu P/E thấp ở Chương 15), "p. 235" (National Student Marketing). Bản tổng hợp thay bằng nội dung được dẫn.
-> - Thời điểm: số liệu của Graham dừng ở 1970–1971; số liệu của Zweig dừng ở cuối 2002 – đầu 2003. Theo hiểu biết của người tổng hợp, không tra cứu: Cisco vẫn là công ty lớn, có lãi và bắt đầu trả cổ tức từ đầu thập niên 2010, nhưng giá cổ phiếu trong rất nhiều năm vẫn thấp xa so với đỉnh năm 2000; Yahoo! suy yếu, phần kinh doanh chính bị Verizon mua lại năm 2017; Palm bị HP mua năm 2010 rồi gần như biến mất; Nortel phá sản năm 2009; Red Hat sau đó trở thành công ty phần mềm có lãi và được IBM mua lại năm 2019; Wyeth (tên mới của American Home Products) được Pfizer mua năm 2009.
+Ví dụ trung tâm là Cặp 1: Real Estate Investment Trust, một quỹ tín thác bất động sản ở New England trả cổ tức liên tục từ 1889 và mở rộng thận trọng, đặt cạnh Realty Equities Corp. of New York, công ty đã thổi tài sản từ 6,2 triệu lên 154 triệu USD trong tám năm bằng nợ, mua cả trường đua ngựa, rạp chiếu phim và một phần hãng mỹ phẩm.
+
+Năm 1968 Wall Street đẩy giá Realty Equities từ 10 lên 37¾ USD trong khi giá trị tài sản chỉ còn 3,41 USD mỗi cổ phiếu; hai năm sau công ty lỗ 13,2 triệu USD, kiểm toán viên từ chối xác nhận báo cáo, cổ phiếu bị đình chỉ niêm yết và giá xuống dưới 2 USD.
+
+Các cặp khác lặp lại cùng bài học: H & R Block được định giá gấp gần 30 lần tài sản hữu hình và hơn 100 lần lợi nhuận, trong khi Blue Bell lớn gấp bốn lần về doanh thu chỉ có P/E 11; International Flavors & Fragrances được định giá cao hơn International Harvester dù Harvester có vốn chủ sở hữu gấp 17 lần; National General, một tập đoàn đa ngành đầy chứng quyền, có P/E "thực" 69 trong khi National Presto chỉ có P/E 6,9.
+
+Sau đợt sụt giá 1970, phần lớn các cổ phiếu "đắt" giảm mạnh hơn, các cổ phiếu "rẻ" hồi phục tốt hơn, nhưng Graham cũng cảnh báo rằng một cổ phiếu tốt bị định giá cao (Block) vẫn có thể tăng thêm, nên không bao giờ được bán khống chỉ vì thấy giá cao.
+
+Zweig, viết năm 2003, bổ sung rằng **bài học ấy lặp lại gần như nguyên vẹn trong bong bóng Internet 1999–2000**: ông dựng tám cặp mới, mỗi cặp ghép một cổ phiếu "nóng" của thời đó với một công ty bình thường có tên gần giống.
+
+Ví dụ trung tâm là Cisco và Sysco: ngày 27/3/2000 Cisco là công ty có giá trị lớn nhất thế giới (548 tỷ USD, P/E 219), còn Sysco, nhà cung cấp thực phẩm cho bếp tập thể, có doanh thu lớn hơn Cisco gần 20% nhưng chỉ được định giá 11,7 tỷ USD (P/E 26). Từ 2000 đến 2002 Cisco mất ba phần tư giá trị, Sysco tăng 56%.
+
+Các cặp Yahoo!/Yum!, Commerce One/Capital One, Palm/3Com, CMGI/Commerce Group, Nortel/Nortek, Red Hat/Brown Shoe cho cùng kết quả, còn cặp Ball/Stryker cho thấy một đợt hoảng loạn có thể bán rẻ cả cổ phiếu giá trị lẫn cổ phiếu tăng trưởng.
+
+Kết luận của Zweig: không có "cổ phiếu tốt", chỉ có mức giá tốt; ai mua chỉ vì giá đã tăng mà không hỏi giá trị doanh nghiệp có tăng hay không thì sớm muộn sẽ hối tiếc.
 
 ## Sơ đồ
 
@@ -649,7 +653,9 @@ Zweig, viết năm 2003, bổ sung rằng **bài học ấy lặp lại gần nh
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Khi hai công ty được đặt cạnh nhau, những con số nào cho thấy giá thị trường đã đi quá xa so với giá trị?** Graham và Zweig dùng cùng một bộ chỉ tiêu: P/E so với tăng trưởng thật; giá so với giá trị sổ sách hoặc tài sản hữu hình (Block gần 30 lần, Hill hơn 8 lần, Realty Equities gấp hơn 10 lần giá trị tài sản 3,41 USD); tổng giá trị thị trường so với doanh thu và lợi nhuận của công ty kia (IFF đắt hơn Harvester dù doanh thu chỉ bằng 1/27; Sysco doanh thu lớn hơn Cisco nhưng giá trị chỉ bằng 1/47); mức nợ và độ phức tạp của cấu trúc vốn (Realty Equities, National General); và chất lượng của lợi nhuận (lợi nhuận Cisco đến từ thâu tóm, giảm thuế nhờ quyền chọn và bán khoản đầu tư; phải thu và tồn kho của Nortel phình nhanh).
+1. **Khi hai công ty được đặt cạnh nhau, những con số nào cho thấy giá thị trường đã đi quá xa so với giá trị?**
+
+   Graham và Zweig dùng cùng một bộ chỉ tiêu: P/E so với tăng trưởng thật; giá so với giá trị sổ sách hoặc tài sản hữu hình (Block gần 30 lần, Hill hơn 8 lần, Realty Equities gấp hơn 10 lần giá trị tài sản 3,41 USD); tổng giá trị thị trường so với doanh thu và lợi nhuận của công ty kia (IFF đắt hơn Harvester dù doanh thu chỉ bằng 1/27; Sysco doanh thu lớn hơn Cisco nhưng giá trị chỉ bằng 1/47); mức nợ và độ phức tạp của cấu trúc vốn (Realty Equities, National General); và chất lượng của lợi nhuận (lợi nhuận Cisco đến từ thâu tóm, giảm thuế nhờ quyền chọn và bán khoản đầu tư; phải thu và tồn kho của Nortel phình nhanh).
 2. **Vì sao cổ phiếu "tốt" vẫn có thể là khoản mua tồi, và cổ phiếu "tầm thường" vẫn có thể là khoản mua tốt?** Vì giá đã chứa sẵn kỳ vọng. Khi giá chứa quá nhiều "hứa hẹn" (American Hospital Supply, McGraw-Hill, Cisco, Yahoo!), chỉ một năm lợi nhuận chững lại cũng làm giá rơi 30–80%; khi giá đã chứa nhiều bi quan (Air Reduction, Blue Bell, National Presto, Nortek, Commerce Group), tin xấu ít gây hại và tin tốt đẩy giá lên mạnh. Zweig tóm lại: có công ty tốt và công ty xấu, nhưng không có "cổ phiếu tốt", chỉ có mức giá tốt.
 3. **Nhà phân tích và nhà đầu tư nên làm gì với những chênh lệch này?** Không cố đoán cổ phiếu nào sẽ tăng nhiều nhất, mà tìm những trường hợp thiểu số trong đó giá thấp hơn rõ ràng so với giá trị (Presto bán dưới tài sản lưu động ròng với P/E dưới 4; Whiting gần bằng tài sản lưu động ròng), mua chúng trong một danh mục đa dạng hoá, chuẩn bị tinh thần cho những đợt giảm giá lớn định kỳ, và không bán khống chỉ vì thấy một cổ phiếu tốt có giá cao.
 
@@ -739,9 +745,13 @@ Chú thích của Zweig: "tài sản đứng sau cổ phiếu" và giá trị s�
 
 Air Reduction trả cổ tức hào phóng hơn, nhưng điều đó có thể được hiểu là Air Products có nhiều cơ hội hơn để giữ lại lợi nhuận tái đầu tư. Air Reduction cũng có vốn lưu động dồi dào hơn. Graham nhận xét rằng một công ty có lãi luôn có thể chỉnh lại tình hình tài sản lưu động bằng một khoản tài trợ dài hạn; nhưng theo tiêu chuẩn của ông, Air Products hơi nặng nợ ngắn hạn.
 
-Nếu phải chọn giữa hai công ty, nhà phân tích sẽ dễ dàng kết luận rằng triển vọng của Air Products hứa hẹn hơn. Nhưng điều đó có làm Air Products hấp dẫn hơn ở mức giá tương đối cao hơn nhiều không? Graham nghi ngờ câu hỏi này có câu trả lời dứt khoát. Nói chung Wall Street đặt "chất lượng" trên "số lượng", và có lẽ đa số nhà phân tích sẽ chọn Air Products "tốt hơn" nhưng đắt hơn thay vì Air Reduction "kém hơn" nhưng rẻ hơn. Sự lựa chọn đó đúng hay sai phụ thuộc vào tương lai không thể đoán trước hơn là vào một nguyên tắc đầu tư có thể chứng minh. Ở đây, Air Reduction có vẻ thuộc nhóm công ty lớn có P/E thấp. Nếu, như các nghiên cứu Graham nêu ở Chương 15 cho thấy, nhóm này nói chung cho kết quả tốt hơn nhóm P/E cao, thì Air Reduction về logic đáng được ưu tiên, nhưng chỉ như một phần của một danh mục đa dạng hoá. (Ngoài ra, nghiên cứu kỹ từng công ty có thể dẫn nhà phân tích tới kết luận ngược lại; nhưng khi đó phải vì những lý do khác với những gì đã phản ánh trong số liệu quá khứ.)
+Nếu phải chọn giữa hai công ty, nhà phân tích sẽ dễ dàng kết luận rằng triển vọng của Air Products hứa hẹn hơn. Nhưng điều đó có làm Air Products hấp dẫn hơn ở mức giá tương đối cao hơn nhiều không? Graham nghi ngờ câu hỏi này có câu trả lời dứt khoát. Nói chung Wall Street đặt "chất lượng" trên "số lượng", và có lẽ đa số nhà phân tích sẽ chọn Air Products "tốt hơn" nhưng đắt hơn thay vì Air Reduction "kém hơn" nhưng rẻ hơn.
 
-Chú thích của Zweig: Graham dẫn nghiên cứu của chính ông về cổ phiếu giá trị ở Chương 15 (các "thí nghiệm" chọn danh mục 30 cổ phiếu theo một tiêu chí duy nhất, mua cuối 1968 và đánh giá lại giữa 1971; hai phương pháp cho kết quả ổn định trong quá khứ là mua cổ phiếu P/E thấp của các công ty lớn như danh sách DJIA, và mua một nhóm đa dạng cổ phiếu bán dưới giá trị tài sản lưu động ròng). Từ khi Graham viết, rất nhiều nghiên cứu học thuật đã xác nhận cổ phiếu giá trị vượt cổ phiếu tăng trưởng trong những giai đoạn dài; phần lớn nghiên cứu tài chính hiện đại tốt nhất chỉ là xác nhận độc lập điều Graham đã chứng minh nhiều thập kỷ trước. Ví dụ: James L. Davis, Eugene F. Fama và Kenneth R. French, "Characteristics, Covariances, and Average Returns: 1929–1997".
+Sự lựa chọn đó đúng hay sai phụ thuộc vào tương lai không thể đoán trước hơn là vào một nguyên tắc đầu tư có thể chứng minh. Ở đây, Air Reduction có vẻ thuộc nhóm công ty lớn có P/E thấp. Nếu, như các nghiên cứu Graham nêu ở Chương 15 cho thấy, nhóm này nói chung cho kết quả tốt hơn nhóm P/E cao, thì Air Reduction về logic đáng được ưu tiên, nhưng chỉ như một phần của một danh mục đa dạng hoá. (Ngoài ra, nghiên cứu kỹ từng công ty có thể dẫn nhà phân tích tới kết luận ngược lại; nhưng khi đó phải vì những lý do khác với những gì đã phản ánh trong số liệu quá khứ.)
+
+Chú thích của Zweig: Graham dẫn nghiên cứu của chính ông về cổ phiếu giá trị ở Chương 15 (các "thí nghiệm" chọn danh mục 30 cổ phiếu theo một tiêu chí duy nhất, mua cuối 1968 và đánh giá lại giữa 1971; hai phương pháp cho kết quả ổn định trong quá khứ là mua cổ phiếu P/E thấp của các công ty lớn như danh sách DJIA, và mua một nhóm đa dạng cổ phiếu bán dưới giá trị tài sản lưu động ròng).
+
+Từ khi Graham viết, rất nhiều nghiên cứu học thuật đã xác nhận cổ phiếu giá trị vượt cổ phiếu tăng trưởng trong những giai đoạn dài; phần lớn nghiên cứu tài chính hiện đại tốt nhất chỉ là xác nhận độc lập điều Graham đã chứng minh nhiều thập kỷ trước. Ví dụ: James L. Davis, Eugene F. Fama và Kenneth R. French, "Characteristics, Covariances, and Average Returns: 1929–1997".
 
 **Diễn biến (Sequel).** Trong đợt sụt giá 1970, Air Products chống chịu tốt hơn, giảm 16% so với 24% của Air Reduction. Nhưng đầu 1971 Air Reduction hồi phục tốt hơn, lên cao hơn giá cuối 1969 50%, so với 30% của Air Products. Trong trường hợp này, cổ phiếu P/E thấp đã thắng, ít nhất là tạm thời.
 
@@ -804,7 +814,9 @@ Graham so sánh chênh lệch định giá phi thường giữa hai công ty. Đ
 
 **Kết luận rút ra.** Một nhà phân tích có kinh nghiệm lẽ ra thừa nhận Block có đà tăng rất mạnh, hàm ý triển vọng tăng trưởng xuất sắc. Ông ta có thể e ngại nguy cơ cạnh tranh nghiêm trọng trong dịch vụ khai thuế, bị hút vào bởi tỷ suất lợi nhuận trên vốn rất đẹp của Block.
 
-Chú thích 1 của Graham: người đọc nhớ rằng AAA Enterprises (Chương 17: một công ty bán nhà di động, lập công ty con "Mr. Tax of America" làm dịch vụ khai thuế dùng chính các nhà di động làm văn phòng, phát hành cổ phiếu tháng 3/1969 ở 13 USD rồi giá lên 28 USD, tức 115 lần lợi nhuận) đã thử nhảy vào ngành này nhưng nhanh chóng thất bại. Phần Zweig bổ sung trong chú thích: Graham đưa ra một nhận xét sâu sắc và nghịch lý: công ty càng kiếm nhiều tiền thì càng dễ gặp cạnh tranh mới, vì lợi nhuận cao báo hiệu quá rõ rằng ở đây kiếm tiền dễ; cạnh tranh mới lại kéo giá bán và lợi nhuận xuống. Những người mua cổ phiếu Internet quá hăng đã bỏ qua điểm then chốt này khi tin rằng những công ty thắng sớm sẽ giữ lợi thế mãi mãi.
+Chú thích 1 của Graham: người đọc nhớ rằng AAA Enterprises (Chương 17: một công ty bán nhà di động, lập công ty con "Mr. Tax of America" làm dịch vụ khai thuế dùng chính các nhà di động làm văn phòng, phát hành cổ phiếu tháng 3/1969 ở 13 USD rồi giá lên 28 USD, tức 115 lần lợi nhuận) đã thử nhảy vào ngành này nhưng nhanh chóng thất bại.
+
+Phần Zweig bổ sung trong chú thích: Graham đưa ra một nhận xét sâu sắc và nghịch lý: công ty càng kiếm nhiều tiền thì càng dễ gặp cạnh tranh mới, vì lợi nhuận cao báo hiệu quá rõ rằng ở đây kiếm tiền dễ; cạnh tranh mới lại kéo giá bán và lợi nhuận xuống. Những người mua cổ phiếu Internet quá hăng đã bỏ qua điểm then chốt này khi tin rằng những công ty thắng sớm sẽ giữ lợi thế mãi mãi.
 
 Nhưng biết rằng những công ty xuất sắc như Avon Products vẫn tiếp tục thành công trong các lĩnh vực cạnh tranh mạnh, nhà phân tích sẽ ngần ngại dự báo đường tăng trưởng của Block sớm đi ngang. Mối bận tâm chính của ông đơn giản là: mức định giá 300 triệu USD đã tính trọn, có khi tính dư, mọi điều có thể kỳ vọng hợp lý từ doanh nghiệp xuất sắc này hay chưa. Ngược lại, nhà phân tích lẽ ra dễ dàng khuyến nghị Blue Bell như một công ty tốt ở mức giá khá thận trọng.
 
@@ -866,7 +878,9 @@ Xét theo tiêu chí chọn cổ phiếu, không cổ phiếu nào đạt chuẩ
 
 #### 7. Cặp 6: McGraw Edison và McGraw-Hill (Paire 6: McGraw Edison (service public et équipement; articles ménagers) McGraw-Hill, Inc. (livres, films, systèmes d'enseignement; éditeurs de magazines et de journaux; services d'information), PDF trang 387–389)
 
-McGraw Edison làm thiết bị cho ngành điện nước và đồ gia dụng; McGraw-Hill làm sách, phim, hệ thống giảng dạy, xuất bản tạp chí và báo, dịch vụ thông tin. Hai công ty tên gần giống nhau (Graham gọi là "Edison" và "Hill") là hai doanh nghiệp lớn, thịnh vượng trong hai lĩnh vực rất khác nhau. Ngày so sánh là 31/12/1968. Giá mỗi cổ phiếu gần như bằng nhau, nhưng vì Hill có nhiều cổ phiếu hơn, tổng giá trị của nó gần gấp đôi Edison. Điều này khá đáng ngạc nhiên vì Edison có doanh thu cao hơn khoảng 50% và lợi nhuận ròng cao hơn một phần tư. Kết quả là tỷ số then chốt, P/E, của Hill cao hơn hai lần của Edison. Hiện tượng này chủ yếu do thị trường vẫn giữ sự hăng hái và thiên vị mạnh với cổ phiếu các công ty xuất bản sách, nhiều công ty trong số đó vừa lên sàn cuối thập niên 1960.
+McGraw Edison làm thiết bị cho ngành điện nước và đồ gia dụng; McGraw-Hill làm sách, phim, hệ thống giảng dạy, xuất bản tạp chí và báo, dịch vụ thông tin. Hai công ty tên gần giống nhau (Graham gọi là "Edison" và "Hill") là hai doanh nghiệp lớn, thịnh vượng trong hai lĩnh vực rất khác nhau.
+
+Ngày so sánh là 31/12/1968. Giá mỗi cổ phiếu gần như bằng nhau, nhưng vì Hill có nhiều cổ phiếu hơn, tổng giá trị của nó gần gấp đôi Edison. Điều này khá đáng ngạc nhiên vì Edison có doanh thu cao hơn khoảng 50% và lợi nhuận ròng cao hơn một phần tư. Kết quả là tỷ số then chốt, P/E, của Hill cao hơn hai lần của Edison. Hiện tượng này chủ yếu do thị trường vẫn giữ sự hăng hái và thiên vị mạnh với cổ phiếu các công ty xuất bản sách, nhiều công ty trong số đó vừa lên sàn cuối thập niên 1960.
 
 Chú thích của Zweig: McGraw-Hill vẫn niêm yết, sở hữu (cùng các hoạt động khác) tạp chí BusinessWeek và Standard & Poor's. McGraw-Edison nay là một bộ phận của Cooper Industries.
 
@@ -893,13 +907,21 @@ McGraw-Hill vẫn là công ty vững và thịnh vượng. Nhưng lịch sử g
 
 #### 8. Cặp 7: National General và National Presto (Paire 7: National General Corp. (A Large Conglomerate) et National Presto Industries (Diverse Electric Appliances, Ordnance), PDF trang 389–392)
 
-National General là một tập đoàn đa ngành lớn; National Presto làm đồ điện gia dụng và đạn dược. Hai công ty đáng so sánh chủ yếu vì chúng rất khác nhau; Graham gọi là "General" và "Presto". Ngày so sánh là cuối 1968, vì các khoản xoá sổ của General năm 1969 làm số liệu năm đó quá mập mờ. Năm 1968 các hoạt động trải rộng của General chưa phô ra hết, nhưng đã đủ đa ngành với bất kỳ ai. Mô tả rút gọn trong cẩm nang cổ phiếu (Stock Guide) của Standard & Poor's là: "Chuỗi rạp chiếu phim toàn quốc; sản xuất phim điện ảnh và truyền hình, hiệp hội tiết kiệm và cho vay, xuất bản sách". Có thể thêm vào, khi đó hoặc về sau: "bảo hiểm, ngân hàng đầu tư, đĩa nhạc, xuất bản âm nhạc, dịch vụ máy tính, bất động sản, và 35% Performance Systems Inc. (gần đây đổi tên từ Minnie Pearl's Chicken System Inc.)".
+National General là một tập đoàn đa ngành lớn; National Presto làm đồ điện gia dụng và đạn dược. Hai công ty đáng so sánh chủ yếu vì chúng rất khác nhau; Graham gọi là "General" và "Presto". Ngày so sánh là cuối 1968, vì các khoản xoá sổ của General năm 1969 làm số liệu năm đó quá mập mờ.
+
+Năm 1968 các hoạt động trải rộng của General chưa phô ra hết, nhưng đã đủ đa ngành với bất kỳ ai. Mô tả rút gọn trong cẩm nang cổ phiếu (Stock Guide) của Standard & Poor's là: "Chuỗi rạp chiếu phim toàn quốc; sản xuất phim điện ảnh và truyền hình, hiệp hội tiết kiệm và cho vay, xuất bản sách". Có thể thêm vào, khi đó hoặc về sau: "bảo hiểm, ngân hàng đầu tư, đĩa nhạc, xuất bản âm nhạc, dịch vụ máy tính, bất động sản, và 35% Performance Systems Inc. (gần đây đổi tên từ Minnie Pearl's Chicken System Inc.)".
 
 Presto cũng theo đuổi đa dạng hoá, nhưng khiêm tốn hơn General nhiều. Khởi đầu là nhà sản xuất nồi áp suất hàng đầu, Presto mở rộng sang nhiều loại đồ điện gia dụng khác. Theo một hướng hoàn toàn khác, công ty cũng nhận nhiều hợp đồng sản xuất đạn dược cho chính phủ Mỹ.
 
-Cấu trúc vốn của Presto đơn giản hết mức: chỉ có 1.478.000 cổ phiếu phổ thông, giá trị thị trường 58 triệu USD. Ngược lại, General có số cổ phiếu phổ thông gấp hơn hai lần, cộng một loại cổ phiếu ưu đãi chuyển đổi, cộng ba đợt chứng quyền có thể mua một lượng cổ phiếu phổ thông khổng lồ, cộng một đợt trái phiếu chuyển đổi lớn (phát hành chỉ để đổi lấy cổ phiếu của một công ty bảo hiểm), cộng một khoản trái phiếu không chuyển đổi đáng kể. Tất cả tạo thành tổng vốn hoá thị trường 534 triệu USD, chưa kể một đợt trái phiếu chuyển đổi sắp phát hành, và 750 triệu USD nếu tính cả đợt đó. Dù vốn hoá lớn hơn rất nhiều, National General theo bản dịch lại có doanh thu gộp ít hơn đáng kể so với Presto trong năm tài chính, và lợi nhuận ròng chỉ bằng 75% của Presto.
+Cấu trúc vốn của Presto đơn giản hết mức: chỉ có 1.478.000 cổ phiếu phổ thông, giá trị thị trường 58 triệu USD. Ngược lại, General có số cổ phiếu phổ thông gấp hơn hai lần, cộng một loại cổ phiếu ưu đãi chuyển đổi, cộng ba đợt chứng quyền có thể mua một lượng cổ phiếu phổ thông khổng lồ, cộng một đợt trái phiếu chuyển đổi lớn (phát hành chỉ để đổi lấy cổ phiếu của một công ty bảo hiểm), cộng một khoản trái phiếu không chuyển đổi đáng kể.
 
-Xác định giá trị thị trường thật của phần vốn cổ phần của General là một bài toán thú vị cho nhà phân tích chứng khoán, và có hệ quả quan trọng với bất kỳ ai quan tâm tới cổ phiếu này một cách nghiêm túc hơn là đánh bạc thuần tuý. Cổ phiếu ưu đãi chuyển đổi 4½ USD tương đối nhỏ thì dễ xử lý: giả định nó được chuyển thành cổ phiếu phổ thông khi giá cổ phiếu phổ thông ở mức thích hợp; Graham làm như vậy trong bảng. Nhưng chứng quyền cần cách xử lý khác. Khi tính "pha loãng hoàn toàn", công ty giả định mọi chứng quyền được thực hiện, tiền thu được dùng để trả nợ, phần còn lại dùng mua cổ phiếu phổ thông trên thị trường. Các giả định này gần như không ảnh hưởng tới lợi nhuận mỗi cổ phiếu năm 1968, vốn được công bố là 1,51 USD cả trước và sau pha loãng. Graham cho cách xử lý này phi logic và không thực tế. Theo ông, chứng quyền là một phần của "gói cổ phiếu phổ thông", và giá thị trường của chúng là một phần của "giá trị thị trường thực" của phần vốn cổ phần. (Graham đã bàn điểm này ở Chương 16: chứng quyền là quyền mua cổ phiếu, giá trị của nó lấy từ chính giá trị của cổ phiếu, nên tổng giá trị của cổ phiếu và chứng quyền mới là cái giá thị trường thực sự trả cho phần vốn chủ sở hữu.)
+Tất cả tạo thành tổng vốn hoá thị trường 534 triệu USD, chưa kể một đợt trái phiếu chuyển đổi sắp phát hành, và 750 triệu USD nếu tính cả đợt đó. Dù vốn hoá lớn hơn rất nhiều, National General theo bản dịch lại có doanh thu gộp ít hơn đáng kể so với Presto trong năm tài chính, và lợi nhuận ròng chỉ bằng 75% của Presto.
+
+Xác định giá trị thị trường thật của phần vốn cổ phần của General là một bài toán thú vị cho nhà phân tích chứng khoán, và có hệ quả quan trọng với bất kỳ ai quan tâm tới cổ phiếu này một cách nghiêm túc hơn là đánh bạc thuần tuý. Cổ phiếu ưu đãi chuyển đổi 4½ USD tương đối nhỏ thì dễ xử lý: giả định nó được chuyển thành cổ phiếu phổ thông khi giá cổ phiếu phổ thông ở mức thích hợp; Graham làm như vậy trong bảng.
+
+Nhưng chứng quyền cần cách xử lý khác. Khi tính "pha loãng hoàn toàn", công ty giả định mọi chứng quyền được thực hiện, tiền thu được dùng để trả nợ, phần còn lại dùng mua cổ phiếu phổ thông trên thị trường. Các giả định này gần như không ảnh hưởng tới lợi nhuận mỗi cổ phiếu năm 1968, vốn được công bố là 1,51 USD cả trước và sau pha loãng.
+
+Graham cho cách xử lý này phi logic và không thực tế. Theo ông, chứng quyền là một phần của "gói cổ phiếu phổ thông", và giá thị trường của chúng là một phần của "giá trị thị trường thực" của phần vốn cổ phần. (Graham đã bàn điểm này ở Chương 16: chứng quyền là quyền mua cổ phiếu, giá trị của nó lấy từ chính giá trị của cổ phiếu, nên tổng giá trị của cổ phiếu và chứng quyền mới là cái giá thị trường thực sự trả cho phần vốn chủ sở hữu.)
 
 Kỹ thuật đơn giản là cộng giá thị trường của chứng quyền vào giá cổ phiếu phổ thông làm thay đổi hẳn bức tranh của National General cuối 1968. "Giá thị trường thực" của cổ phiếu phổ thông hoá ra cao hơn hai lần giá niêm yết. Do đó P/E thực trên lợi nhuận 1968 tăng hơn gấp đôi, lên con số tự nó đã phi lý là 69 lần. Tổng giá trị thị trường của "các khoản tương đương cổ phiếu phổ thông" là 413 triệu USD, gấp hơn ba lần tài sản hữu hình tương ứng.
 
@@ -928,7 +950,9 @@ Chú thích của Zweig: National Presto vẫn niêm yết. National General b�
 
 #### 9. Cặp 8: Whiting và Willcox & Gibbs (Paire 8: Whiting Corp. (équipement de manutention) et Willcox & Gibbs (petit conglomérat), PDF trang 392–395)
 
-Whiting làm thiết bị nâng và vận chuyển vật liệu; Willcox & Gibbs là một tập đoàn đa ngành nhỏ. Hai công ty gần nhưng không đứng sát nhau trên bảng niêm yết của American Stock Exchange. So sánh này khiến người ta tự hỏi Wall Street có phải một định chế có lý trí không. Công ty có doanh thu và lợi nhuận nhỏ hơn, và tài sản hữu hình cho cổ phiếu phổ thông chỉ bằng một nửa, lại được định giá tổng cộng khoảng bốn lần công ty kia. Công ty được định giá cao hơn sắp báo lỗ lớn sau các khoản chi đặc biệt, và đã mười ba năm không trả cổ tức. Công ty kia có lịch sử lợi nhuận tốt lâu dài, trả cổ tức liên tục từ 1936 và hiện có tỷ suất cổ tức thuộc loại cao nhất toàn bộ danh sách cổ phiếu phổ thông. Graham kèm thêm một bảng lợi nhuận và giá mười năm 1961–1970 (Tableau 18-8B) để làm rõ chênh lệch kết quả của hai công ty.
+Whiting làm thiết bị nâng và vận chuyển vật liệu; Willcox & Gibbs là một tập đoàn đa ngành nhỏ. Hai công ty gần nhưng không đứng sát nhau trên bảng niêm yết của American Stock Exchange. So sánh này khiến người ta tự hỏi Wall Street có phải một định chế có lý trí không. Công ty có doanh thu và lợi nhuận nhỏ hơn, và tài sản hữu hình cho cổ phiếu phổ thông chỉ bằng một nửa, lại được định giá tổng cộng khoảng bốn lần công ty kia.
+
+Công ty được định giá cao hơn sắp báo lỗ lớn sau các khoản chi đặc biệt, và đã mười ba năm không trả cổ tức. Công ty kia có lịch sử lợi nhuận tốt lâu dài, trả cổ tức liên tục từ 1936 và hiện có tỷ suất cổ tức thuộc loại cao nhất toàn bộ danh sách cổ phiếu phổ thông. Graham kèm thêm một bảng lợi nhuận và giá mười năm 1961–1970 (Tableau 18-8B) để làm rõ chênh lệch kết quả của hai công ty.
 
 Lịch sử hai công ty soi sáng sự phát triển của các doanh nghiệp quy mô vừa ở Mỹ, khác với các doanh nghiệp lớn chiếm phần lớn các trang sách. Whiting được thành lập năm 1896, tức ít nhất 75 năm tuổi. Công ty có vẻ giữ khá trung thành nghề thiết bị nâng chuyển và làm ăn khá tốt qua nhiều thập kỷ. Willcox & Gibbs còn lâu đời hơn, từ 1866, và từ lâu nổi tiếng trong ngành như một nhà sản xuất máy may công nghiệp hàng đầu. Trong thập kỷ qua, công ty theo đuổi đa dạng hoá theo một kiểu khá kỳ quặc: một mặt có số công ty con lớn bất thường (ít nhất 24), làm ra đủ loại sản phẩm; mặt khác, cả khối gộp lại toàn những đơn vị rất nhỏ theo chuẩn thông thường của Wall Street.
 
@@ -955,9 +979,13 @@ Chú thích của Zweig: Whiting trở thành công ty con của Wheelabrator-Fr
 
 Các cổ phiếu trong những so sánh này được chọn có chủ ý, nên không thể coi là mẫu ngẫu nhiên của danh sách cổ phiếu phổ thông. Chúng cũng chỉ thuộc nhóm công nghiệp; các lĩnh vực quan trọng như điện nước (tiện ích công cộng), vận tải và tài chính không có mặt. Nhưng chúng đủ khác nhau về quy mô, ngành và các mặt định tính, định lượng để cho một ý niệm đúng về những lựa chọn mà nhà đầu tư cổ phiếu phổ thông phải đối mặt.
 
-Quan hệ giữa giá và giá trị biểu hiện cũng khác nhau nhiều giữa các trường hợp. Trong phần lớn trường hợp, công ty có thành tích tăng trưởng tốt hơn và sinh lời cao hơn được bán với P/E cao hơn, điều nói chung là hợp lý. Không thể trả lời chắc chắn rằng những chênh lệch P/E cụ thể có "được biện minh" bởi thực tế, hoặc sẽ được các diễn biến tương lai xác nhận hay không. Mặt khác, ở đây có khá nhiều ví dụ trong đó có thể đưa ra một phán đoán có giá trị. Chúng gồm gần như mọi trường hợp thị trường giao dịch sôi nổi cổ phiếu của những công ty mà nền tảng đáng ngờ. Những cổ phiếu này không chỉ mang tính đầu cơ (nghĩa là tự thân rủi ro) mà phần lớn thời gian đã và đang bị định giá quá cao một cách rõ ràng. Những cổ phiếu khác có vẻ đáng giá hơn giá bán, vì chịu thái độ ngược lại của thị trường, có thể gọi là "đầu cơ dưới mức" (thị trường quá thờ ơ), hoặc vì sự bi quan quá mức khi lợi nhuận giảm.
+Quan hệ giữa giá và giá trị biểu hiện cũng khác nhau nhiều giữa các trường hợp. Trong phần lớn trường hợp, công ty có thành tích tăng trưởng tốt hơn và sinh lời cao hơn được bán với P/E cao hơn, điều nói chung là hợp lý. Không thể trả lời chắc chắn rằng những chênh lệch P/E cụ thể có "được biện minh" bởi thực tế, hoặc sẽ được các diễn biến tương lai xác nhận hay không.
 
-Tableau 18-9 ("Một số biến động giá của mười sáu cổ phiếu phổ thông, đã điều chỉnh theo các lần tách cổ phiếu tới 1970") và Tableau 18-10 ("Biến động lớn từ năm này sang năm khác của McGraw-Hill, 1958–1971") đều bị trống trong bản PDF. Theo lời văn: phần lớn các cổ phiếu trong chương giảm mạnh giữa 1961 và 1962, và từ 1969 tới 1970; nhà đầu tư phải chuẩn bị cho những đợt biến động bất lợi kiểu này trong các thị trường tương lai. Với McGraw-Hill giai đoạn 1958–1970, trong mỗi năm của 13 năm gần nhất, giá đã tăng hoặc giảm trong một biên độ ít nhất 3 trên 2 (tức chênh lệch ít nhất 50%) so với năm trước. (Với các chỉ số chung của thị trường, biến động ít nhất ở biên độ đó, cả lên lẫn xuống, xuất hiện trong mỗi giai đoạn hai năm.)
+Mặt khác, ở đây có khá nhiều ví dụ trong đó có thể đưa ra một phán đoán có giá trị. Chúng gồm gần như mọi trường hợp thị trường giao dịch sôi nổi cổ phiếu của những công ty mà nền tảng đáng ngờ. Những cổ phiếu này không chỉ mang tính đầu cơ (nghĩa là tự thân rủi ro) mà phần lớn thời gian đã và đang bị định giá quá cao một cách rõ ràng. Những cổ phiếu khác có vẻ đáng giá hơn giá bán, vì chịu thái độ ngược lại của thị trường, có thể gọi là "đầu cơ dưới mức" (thị trường quá thờ ơ), hoặc vì sự bi quan quá mức khi lợi nhuận giảm.
+
+Tableau 18-9 ("Một số biến động giá của mười sáu cổ phiếu phổ thông, đã điều chỉnh theo các lần tách cổ phiếu tới 1970") và Tableau 18-10 ("Biến động lớn từ năm này sang năm khác của McGraw-Hill, 1958–1971") đều bị trống trong bản PDF. Theo lời văn: phần lớn các cổ phiếu trong chương giảm mạnh giữa 1961 và 1962, và từ 1969 tới 1970; nhà đầu tư phải chuẩn bị cho những đợt biến động bất lợi kiểu này trong các thị trường tương lai.
+
+Với McGraw-Hill giai đoạn 1958–1970, trong mỗi năm của 13 năm gần nhất, giá đã tăng hoặc giảm trong một biên độ ít nhất 3 trên 2 (tức chênh lệch ít nhất 50%) so với năm trước. (Với các chỉ số chung của thị trường, biến động ít nhất ở biên độ đó, cả lên lẫn xuống, xuất hiện trong mỗi giai đoạn hai năm.)
 
 Khi xem lại danh sách cổ phiếu trong chương, Graham một lần nữa bị ấn tượng bởi khoảng cách lớn giữa mục tiêu thông thường của phân tích chứng khoán và mục tiêu mà ông thấy đáng tin cậy và đáng làm. Phần lớn nhà phân tích chứng khoán cố chọn những cổ phiếu sẽ thể hiện tốt nhất trong tương lai, chủ yếu về diễn biến giá nhưng cũng tính tới diễn biến lợi nhuận. Graham thẳng thắn nghi ngờ việc này có thể làm với kết quả thoả đáng. Ông muốn nhà phân tích tìm những trường hợp ngoại lệ hoặc thiểu số, trong đó có thể khá tự tin rằng giá thấp hơn nhiều so với giá trị. Nhà phân tích nên làm được việc này với đủ chuyên môn để đạt kết quả trung bình thoả đáng qua nhiều năm.
 
@@ -1235,7 +1263,9 @@ Giá thị trường của cổ phiếu thường lệch xa giá trị doanh ngh
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương 18 là một bài thực hành **đầu tư giá trị (value investing)** dưới dạng **phân tích so sánh cặp (pair comparison / relative valuation)**. Nó minh hoạ hiện tượng **định giá sai (mispricing)** do **tâm lý bầy đàn (herding)** và **định giá theo cảm xúc (affect heuristic)**, rủi ro của **bội số định giá cao (multiple compression)** khi tăng trưởng chậm lại, và lợi thế dài hạn của **phần bù giá trị (value premium)**. Các công cụ được dùng gồm P/E, P/B (giá trên giá trị sổ sách), P/S (giá trên doanh thu), ROE, biên lợi nhuận ròng, **tính pha loãng hoàn toàn (fully diluted)** có tính chứng quyền theo giá thị trường, và phép tính **giá trị phần còn lại ngầm định (stub value)** như vụ 3Com/Palm. Bài học cuối cùng trùng với khái niệm **biên an toàn** của Chương 20: mua khi giá thấp hơn rõ ràng so với giá trị, để sai lầm trong ước tính không biến thành thua lỗ lớn.
+Chương 18 là một bài thực hành **đầu tư giá trị (value investing)** dưới dạng **phân tích so sánh cặp (pair comparison / relative valuation)**. Nó minh hoạ hiện tượng **định giá sai (mispricing)** do **tâm lý bầy đàn (herding)** và **định giá theo cảm xúc (affect heuristic)**, rủi ro của **bội số định giá cao (multiple compression)** khi tăng trưởng chậm lại, và lợi thế dài hạn của **phần bù giá trị (value premium)**.
+
+Các công cụ được dùng gồm P/E, P/B (giá trên giá trị sổ sách), P/S (giá trên doanh thu), ROE, biên lợi nhuận ròng, **tính pha loãng hoàn toàn (fully diluted)** có tính chứng quyền theo giá thị trường, và phép tính **giá trị phần còn lại ngầm định (stub value)** như vụ 3Com/Palm. Bài học cuối cùng trùng với khái niệm **biên an toàn** của Chương 20: mua khi giá thấp hơn rõ ràng so với giá trị, để sai lầm trong ước tính không biến thành thua lỗ lớn.
 
 ## Thuật ngữ
 
@@ -1317,7 +1347,9 @@ Số liệu dừng ở 1971 và 2002. Theo hiểu biết của người tổng h
 
 ### Sau 2003, bài học lặp lại thêm nhiều lần, nhưng cũng có những ngoại lệ đáng suy nghĩ
 
-Theo hiểu biết của người tổng hợp, không tra cứu: khủng hoảng 2008 lại kéo cả cổ phiếu tốt lẫn xấu xuống như năm 1970 và tháng 7/2002, tạo cơ hội mua giống cặp Ball/Stryker; giai đoạn lãi suất gần bằng 0 sau 2008 và nhất là 2020–2021 lại sinh ra những cổ phiếu được định giá hàng chục, hàng trăm lần doanh thu (công ty lên sàn qua SPAC, cổ phiếu "meme", một số cổ phiếu công nghệ và xe điện), và nhiều cổ phiếu trong số đó giảm 70–95% khi lãi suất tăng lại từ 2022. Mặt khác, một số công ty khổng lồ về công nghệ trong thập niên 2010 duy trì được tăng trưởng và lợi nhuận rất cao trong thời gian dài hơn nhiều so với điều Siegel nói về Cisco, và nhóm cổ phiếu tăng trưởng vượt nhóm cổ phiếu giá trị trong phần lớn giai đoạn 2010–2020. Điều này không phủ định Graham (ông chỉ nói về giá so với giá trị, không nói cổ phiếu tăng trưởng luôn tồi), nhưng nhắc rằng "phần bù giá trị" có thể biến mất hàng chục năm.
+Theo hiểu biết của người tổng hợp, không tra cứu: khủng hoảng 2008 lại kéo cả cổ phiếu tốt lẫn xấu xuống như năm 1970 và tháng 7/2002, tạo cơ hội mua giống cặp Ball/Stryker; giai đoạn lãi suất gần bằng 0 sau 2008 và nhất là 2020–2021 lại sinh ra những cổ phiếu được định giá hàng chục, hàng trăm lần doanh thu (công ty lên sàn qua SPAC, cổ phiếu "meme", một số cổ phiếu công nghệ và xe điện), và nhiều cổ phiếu trong số đó giảm 70–95% khi lãi suất tăng lại từ 2022.
+
+Mặt khác, một số công ty khổng lồ về công nghệ trong thập niên 2010 duy trì được tăng trưởng và lợi nhuận rất cao trong thời gian dài hơn nhiều so với điều Siegel nói về Cisco, và nhóm cổ phiếu tăng trưởng vượt nhóm cổ phiếu giá trị trong phần lớn giai đoạn 2010–2020. Điều này không phủ định Graham (ông chỉ nói về giá so với giá trị, không nói cổ phiếu tăng trưởng luôn tồi), nhưng nhắc rằng "phần bù giá trị" có thể biến mất hàng chục năm.
 
 ### Quan điểm trái chiều: chỉ số rẻ không đủ, và đôi khi "rẻ có lý do"
 
@@ -1325,8 +1357,205 @@ Những người theo trường phái tăng trưởng (theo cách Philip Fisher 
 
 ### Vận dụng cho nhà đầu tư cá nhân: một danh sách câu hỏi trước khi mua
 
-Từ hai mươi bốn công ty trong chương có thể rút ra vài câu hỏi đơn giản: (1) Giá đang trả bao nhiêu lần lợi nhuận, doanh thu, tài sản hữu hình, và các con số đó so với một công ty bình thường cùng ngành ra sao? (2) Lợi nhuận đến từ hoạt động chính hay từ thâu tóm, bán khoản đầu tư, ưu đãi thuế? (3) Phải thu, tồn kho có tăng nhanh hơn doanh thu không? (4) Cấu trúc vốn có đơn giản không, có chứng quyền, chuyển đổi làm loãng cổ phiếu không? (5) Mình mua vì giá đã tăng và mọi người đang nói về nó, hay vì giá trị? Với nhà đầu tư không có thời gian trả lời các câu hỏi này cho từng cổ phiếu, kết luận hợp lý là dựa vào quỹ chỉ số chi phí thấp và đa dạng hoá, như Graham khuyên nhà đầu tư phòng thủ ở các chương trước.
+Từ hai mươi bốn công ty trong chương có thể rút ra vài câu hỏi đơn giản:
+
+- Giá đang trả bao nhiêu lần lợi nhuận, doanh thu, tài sản hữu hình, và các con số đó so với một công ty bình thường cùng ngành ra sao?
+- Lợi nhuận đến từ hoạt động chính hay từ thâu tóm, bán khoản đầu tư, ưu đãi thuế?
+- Phải thu, tồn kho có tăng nhanh hơn doanh thu không?
+- Cấu trúc vốn có đơn giản không, có chứng quyền, chuyển đổi làm loãng cổ phiếu không?
+- Mình mua vì giá đã tăng và mọi người đang nói về nó, hay vì giá trị?
+
+Với nhà đầu tư không có thời gian trả lời các câu hỏi này cho từng cổ phiếu, kết luận hợp lý là dựa vào quỹ chỉ số chi phí thấp và đa dạng hoá, như Graham khuyên nhà đầu tư phòng thủ ở các chương trước.
 
 ### Vận dụng định tính cho nhà đầu tư Việt Nam
 
-Trên một thị trường còn non trẻ, nơi nhà đầu tư cá nhân chiếm tỷ trọng giao dịch lớn, những hiện tượng trong chương (cổ phiếu tăng nóng theo câu chuyện ngành, tập đoàn mở rộng sang nhiều ngành không liên quan bằng vốn vay, công ty dùng cổ phiếu giá cao để huy động và thâu tóm, cổ phiếu được đưa vào rổ chỉ số tăng giá vì quỹ buộc phải mua) đều có thể gặp. Phương pháp so sánh cặp của Graham áp dụng được trực tiếp: đặt một cổ phiếu đang được bàn tán cạnh một doanh nghiệp cùng ngành ít được chú ý, so doanh thu, lợi nhuận, tài sản hữu hình, nợ và cổ tức với giá, rồi hỏi chênh lệch định giá có được biện minh bằng con số hay chỉ bằng câu chuyện. Người tổng hợp không đưa số liệu cụ thể của thị trường Việt Nam.
+Trên một thị trường còn non trẻ, nơi nhà đầu tư cá nhân chiếm tỷ trọng giao dịch lớn, những hiện tượng trong chương (cổ phiếu tăng nóng theo câu chuyện ngành, tập đoàn mở rộng sang nhiều ngành không liên quan bằng vốn vay, công ty dùng cổ phiếu giá cao để huy động và thâu tóm, cổ phiếu được đưa vào rổ chỉ số tăng giá vì quỹ buộc phải mua) đều có thể gặp.
+
+Phương pháp so sánh cặp của Graham áp dụng được trực tiếp: đặt một cổ phiếu đang được bàn tán cạnh một doanh nghiệp cùng ngành ít được chú ý, so doanh thu, lợi nhuận, tài sản hữu hình, nợ và cổ tức với giá, rồi hỏi chênh lệch định giá có được biện minh bằng con số hay chỉ bằng câu chuyện. Người tổng hợp không đưa số liệu cụ thể của thị trường Việt Nam.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 18 trên một trang: bảy nhánh lớn đi theo các mục của phần Nội dung chi tiết (Phần A của Graham: Cặp 1, Cặp 2–4, Cặp 5–8, Nhận xét chung; Phần B bình luận của Zweig: Cặp 1–4 và Cặp 5–8 cùng kết luận), mỗi nhánh ghi các con số định giá then chốt, kết cục của từng cặp và nguyên tắc Graham rút ra; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 18: giá cổ phiếu và giá trị doanh nghiệp có thể lệch xa theo cả hai chiều, hãy tìm số ít trường hợp giá thấp hơn nhiều so với giá trị`"]
+  n1["`Phần A, mục 1–2 — Cặp 1: Real Estate Investment Trust thận trọng so với Realty Equities bành trướng bằng nợ`"]
+  n0 --- n1
+  n2["`Trust: quỹ ở New England, trả cổ tức liên tục từ 1889, mở rộng vừa phải, nợ dễ kiểm soát`"]
+  n1 --- n2
+  n3["`Realty Equities: tài sản từ 6,2 lên 154 triệu USD trong 8 năm, nợ hơn 100 triệu, mua trường đua, 74 rạp phim`"]
+  n1 --- n3
+  n4["`Năm 1968 Equities từ 10 lên 37¾ USD trong khi giá trị tài sản chỉ 3,41 USD mỗi cổ phiếu`"]
+  n1 --- n4
+  n5["`Kết cục Equities: lỗ 13,2 triệu USD, kiểm toán viên từ chối xác nhận, bị đình chỉ, giá dưới 2 USD`"]
+  n1 --- n5
+  n6["`Trust chỉ dao động bình thường, đáy 16½, hồi lên khoảng 26⅝ USD, cổ đông được phục vụ trung thực`"]
+  n1 --- n6
+  n7["`Phần A, mục 3–5 — Cặp 2–4: thị trường trả giá cao cho chất lượng và tăng trưởng`"]
+  n0 --- n7
+  n8["`Cặp 2: Air Products P/E 16,5 so với Air Reduction P/E 9,1, bán bằng 75% giá trị sổ sách`"]
+  n7 --- n8
+  n9["`Nếu nhóm công ty lớn P/E thấp cho kết quả tốt hơn thì Air Reduction đáng chọn, trong danh mục đa dạng hoá`"]
+  n8 --- n9
+  n10["`Đầu 1971 Air Reduction cao hơn giá cuối 1969 50%, Air Products 30%: cổ phiếu P/E thấp tạm thắng`"]
+  n8 --- n10
+  n11["`Cặp 3: American Home Products và American Hospital Supply, công ty y tế tốt nhưng quá đắt`"]
+  n7 --- n11
+  n12["`Giá chứa quá nhiều hứa hẹn, quá ít thành quả thật: gần 5 tỷ USD giá trị vô hình`"]
+  n11 --- n12
+  n13["`Giá trị sổ sách thấp là dao hai lưỡi: sinh lời cao trên vốn nhưng không có tài sản đỡ giá`"]
+  n11 --- n13
+  n14["`Lợi nhuận Hospital giảm rất nhẹ năm 1970, giá mất khoảng 30% tới 2/1971`"]
+  n11 --- n14
+  n15["`Cặp 4: H #amp; R Block được định giá như trong cơn mê so với Blue Bell bị thờ ơ`"]
+  n7 --- n15
+  n16["`Block 55 USD, hơn 100 lần lợi nhuận, tổng 300 triệu USD, gần 30 lần tài sản hữu hình`"]
+  n15 --- n16
+  n17["`Blue Bell P/E 11: doanh thu gấp 4, tài sản hữu hình gấp 5½, tỷ suất cổ tức gấp 9, giá trị chưa bằng ⅓ Block`"]
+  n15 --- n17
+  n18["`Lợi nhuận cao trên vốn kéo đối thủ vào ngành, như AAA Enterprises đã thử rồi thất bại`"]
+  n15 --- n18
+  n19["`Blue Bell thắng, nhưng Block vẫn tăng 35%: không bán khống cổ phiếu công ty tốt dù giá trông cao`"]
+  n15 --- n19
+  n20["`Phần A, mục 6–9 — Cặp 5–8: sinh lời kém, cơn sốt ngành và tập đoàn đa ngành`"]
+  n0 --- n20
+  n21["`Cặp 5: IFF 747 triệu USD đắt hơn International Harvester 710 triệu dù Harvester có doanh thu gấp 27`"]
+  n20 --- n21
+  n22["`IFF lãi 14,3% doanh thu, 19,7% vốn, P/E 55, Harvester lãi 2,6% và 5,5%, P/E 10,7`"]
+  n21 --- n22
+  n23["`Harvester: làm hơn 2,5 tỷ USD doanh thu để làm gì nếu không lãi đủ biện minh cho vốn cổ đông?`"]
+  n21 --- n23
+  n24["`Không cổ phiếu nào đạt chuẩn: IFF quá đắt, Harvester kết quả quá kém dù giá rẻ`"]
+  n21 --- n24
+  n25["`Cặp 6: McGraw-Hill P/E 35, gấp hơn 2 lần McGraw Edison, dù lợi nhuận đã giảm hai năm`"]
+  n20 --- n25
+  n26["`Hill hơn 8 lần giá trị hữu hình, gần 1 tỷ USD vô hình: chiến thắng của hy vọng trước kinh nghiệm`"]
+  n25 --- n26
+  n27["`Hill rơi xuống 10 USD (5/1970), chưa tới 1/5 mức hai năm trước, Edison hồi phục lên 41½ USD`"]
+  n25 --- n27
+  n28["`Cặp 7: National General, tập đoàn đa ngành đầy chứng quyền, so với National Presto vốn đơn giản`"]
+  n20 --- n28
+  n29["`Chứng quyền là một phần của gói cổ phiếu phổ thông: cộng giá chứng quyền vào giá cổ phiếu`"]
+  n28 --- n29
+  n30["`Giá thực của General gấp hơn 2 lần giá niêm yết, P/E thực 69, Presto chỉ 6,9`"]
+  n28 --- n30
+  n31["`General lỗ 46,4 triệu USD sau thuế, giá từ 60 xuống 9 USD, Presto bán dưới tài sản lưu động ròng`"]
+  n28 --- n31
+  n32["`Mười cổ phiếu như Presto trong một danh mục đa dạng hoá gần như chắc cho kết quả thoả đáng`"]
+  n28 --- n32
+  n33["`Cặp 8: Willcox #amp; Gibbs sắp lỗ, 13 năm không trả cổ tức, vẫn được định giá gấp khoảng 4 lần Whiting`"]
+  n20 --- n33
+  n34["`Whiting: cổ tức liên tục từ 1936, EPS 0,41 lên 3,63 USD, khoản đầu tư hạng hai vững cho nhà đầu tư năng động`"]
+  n33 --- n34
+  n35["`Phần A, mục 10 — Nhận xét chung của Graham`"]
+  n0 --- n35
+  n36["`Các cặp được chọn có chủ ý, chỉ gồm công ty công nghiệp, không phải mẫu ngẫu nhiên`"]
+  n35 --- n36
+  n37["`Công ty tăng trưởng và sinh lời cao hơn có P/E cao hơn là hợp lý, chênh lệch cụ thể khó phán xét`"]
+  n35 --- n37
+  n38["`Cổ phiếu giao dịch sôi nổi của công ty nền tảng đáng ngờ hầu như chắc bị định giá quá cao`"]
+  n35 --- n38
+  n39["`Cổ phiếu bị thờ ơ (đầu cơ dưới mức) hoặc bị bi quan quá đà khi lợi nhuận giảm có thể đáng giá hơn giá bán`"]
+  n35 --- n39
+  n40["`Hầu hết 16 cổ phiếu giảm mạnh trong 1961–1962 và 1969–1970: phải chuẩn bị cho những đợt giảm như thế`"]
+  n35 --- n40
+  n41["`Đừng cố chọn cổ phiếu sẽ tăng nhiều nhất, hãy tìm trường hợp thiểu số giá thấp hơn nhiều so với giá trị`"]
+  n35 --- n41
+  n42["`Phần B, mục 1–5 — Zweig: bong bóng Internet 1999–2000, cặp 1–4`"]
+  n0 --- n42
+  n43["`Có công ty tốt và công ty xấu, nhưng không có cổ phiếu tốt, chỉ có mức giá tốt, đến rồi đi`"]
+  n42 --- n43
+  n44["`Cặp 1: Cisco 548 tỷ USD, P/E 219, so với Sysco doanh thu lớn hơn gần 20%, P/E 26`"]
+  n42 --- n44
+  n45["`Tăng trưởng Cisco đến từ thâu tóm 10,2 tỷ USD, giảm thuế nhờ quyền chọn, bán khoản đầu tư`"]
+  n44 --- n45
+  n46["`Siegel: chưa công ty lớn nào tăng đủ nhanh để xứng P/E trên 60, khổng lồ và P/E khổng lồ không thể cùng có`"]
+  n44 --- n46
+  n47["`2000–2002: Cisco mất ¾ giá trị, Sysco tăng 56%`"]
+  n44 --- n47
+  n48["`Cặp 2: Yahoo! 3.264 lần lợi nhuận sau tin vào chỉ số S#amp;P 500, Yum! hơn 9 lần lợi nhuận`"]
+  n42 --- n48
+  n49["`Ngắn hạn thị trường là máy bỏ phiếu, dài hạn là máy cân: Yahoo! −92,4%, Yum! +25,4%`"]
+  n48 --- n49
+  n50["`Cặp 3: Commerce One lỗ 2 USD trên mỗi USD doanh thu nhưng trị giá 15 tỷ USD, rồi mất 99,7%`"]
+  n42 --- n50
+  n51["`Capital One P/E 20, lãi gần 2 tỷ USD 2000–2002, cổ phiếu −38%, không tệ hơn thị trường`"]
+  n50 --- n51
+  n52["`Cặp 4: Palm hơn 1.350 lần doanh thu, phần còn lại của 3Com bị định giá âm 22 tỷ USD`"]
+  n42 --- n52
+  n53["`Phần B, mục 6–10 — Zweig: cặp 5–8 và kết luận`"]
+  n0 --- n53
+  n54["`Cặp 5: CMGI mua công ty bằng chính cổ phiếu giá cao rồi mất 99,4%, CGI P/E dưới 10 tăng 60%`"]
+  n53 --- n54
+  n55["`Cặp 6: hoảng loạn 7/2002 cho giá tuyệt vời ở công ty tốt Ball và giá tốt ở công ty tuyệt vời Stryker`"]
+  n53 --- n55
+  n56["`Cặp 7: Nortel 87 lần lợi nhuận dự báo, phải thu và tồn kho phình nhanh, rồi mất 97%`"]
+  n53 --- n56
+  n57["`Nortek khoảng 5 lần lợi nhuận, biên lợi nhuận từ 1,9% lên 2,5%, cổ phiếu +63%`"]
+  n56 --- n57
+  n58["`Cặp 8: Red Hat hơn 1.000 lần doanh thu, Brown Shoe P/E 7,6 với doanh thu gấp 100 lần`"]
+  n53 --- n58
+  n59["`Kết luận: mua chỉ vì giá đã tăng mà không hỏi giá trị doanh nghiệp có tăng không thì chắc chắn sẽ hối tiếc`"]
+  n53 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Giá đã chứa sẵn kỳ vọng: giá chứa quá nhiều hứa hẹn thì một năm chững lại cũng làm giá rơi 30–80%`"]
+  n60 --- n61
+  n62["`Giá đã chứa bi quan thì tin xấu ít gây hại: Air Reduction, Blue Bell, Presto, Nortek, CGI đều tăng`"]
+  n60 --- n62
+  n63["`Cảnh giác cấu trúc vốn rắc rối, thâu tóm bằng cổ phiếu, lợi nhuận ngoài hoạt động chính`"]
+  n60 --- n63
+  n64["`Mua theo nhóm khoảng mười cổ phiếu rẻ rõ ràng so với giá trị, bài học dẫn tới biên an toàn ở Chương 20`"]
+  n60 --- n64
+  class n0 root
+  class n1,n7,n20,n35,n42,n53,n60 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 18 "Comparaison de huit paires d'entreprises" (PDF trang 376–397) và "Commentaire sur le chapitre 18" (PDF trang 397–410).
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 11 và 12 ([C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md), [C12-nhung-dieu-can-xet-ve-eps.md](C12-nhung-dieu-can-xet-ve-eps.md)) dạy cách đọc lợi nhuận, giá trị sổ sách, tỷ suất cổ tức và hệ số P/E; Chương 13 ([C13-so-sanh-bon-cong-ty-niem-yet.md](C13-so-sanh-bon-cong-ty-niem-yet.md)) áp dụng các chỉ tiêu đó cho bốn công ty; Chương 14 và 15 đặt ra bộ tiêu chí chọn cổ phiếu cho nhà đầu tư phòng thủ và nhà đầu tư năng động (trong đó có bằng chứng rằng nhóm cổ phiếu có P/E thấp của các công ty lớn thường cho kết quả tốt hơn nhóm P/E cao); Chương 16 bàn về chứng khoán chuyển đổi và chứng quyền; Chương 17 ([C17-bon-truong-hop-dang-hoc.md](C17-bon-truong-hop-dang-hoc.md)) kể bốn trường hợp cực đoan (Penn Central, Ling-Temco-Vought, NVF, AAA Enterprises).
+
+Chương 18 là bài tập tổng hợp: Graham đặt mười sáu cổ phiếu thành tám cặp đứng sát nhau trên bảng niêm yết, so sánh các con số, nêu nhận định tại thời điểm so sánh (cuối 1968 hoặc cuối 1969) rồi kể diễn biến tới 1971 ("Sequel").
+
+Chương 19 ([C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md](C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md)) đi tiếp từ câu hỏi Graham đặt ra với International Harvester trong chương này: cổ đông phải làm gì khi ban điều hành để một công ty lớn sinh lời kém kéo dài. Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md)) gom bài học của các ví dụ thành khái niệm biên an toàn.
+
+## Lưu ý
+
+- **Toàn bộ bảng và hình của chương này bị trống trong bản PDF.** Trên ảnh trang chỉ còn tiêu đề và một khoảng trắng cho Tableau 18-1A, 18-1B, 18-2, 18-3, 18-4, 18-5, 18-6, 18-7, 18-8A, 18-8B, 18-9, 18-10 và Figure 18-1, 18-2, 18-3, 18-4; lớp chữ cũng không có số liệu của các bảng, và người tổng hợp đã kiểm tra rằng file PDF không chứa đối tượng hình ảnh nào ở các trang này (chỉ trang 1 có ảnh).
+
+  Vì vậy bản tổng hợp **không thể chép lại các bảng gốc**. Thay vào đó, mỗi cặp có một bảng "số liệu nêu trong lời văn", chỉ gồm các con số Graham hoặc Zweig viết ra trong đoạn văn (và một số con số người tổng hợp tính ra từ đó, ghi rõ "tính ra"). Người cần đủ các dòng của bảng gốc (doanh thu, lợi nhuận, cổ tức, vốn lưu động, các tỷ số...) phải đối chiếu bản tiếng Anh. Người tổng hợp không tự điền số từ trí nhớ để tránh đưa số sai.
+- Tiêu đề chương trong PDF là "Comparaison de huit paires d'entreprises" (không có "Une"). Văn bản trích (C18.txt) có hai dòng đầu "Tous les montants sont en millions de dollars. Sources: documents déposés auprès des sociétés par la SEC." thuộc chú thích bảng của Chương 17, không phải của chương này.
+- Bản dịch máy lệch nghĩa ở nhiều chỗ ảnh hưởng tới nội dung:
+  - Cặp 1, "les actions de Trust se vendant ... pour neuf fois la valeur totale des actions" thiếu chữ "của Equities": ý đúng là năm 1960 tổng giá trị thị trường cổ phiếu của Trust gấp chín lần tổng giá trị cổ phiếu của Realty Equities.
+  - Cặp 2, "la rentabilité accrue d'Air Reduction" phải hiểu là khả năng sinh lời cao hơn **của Air Products** (cả đoạn nói Air Products sinh lời tốt hơn, tăng trưởng nhanh hơn nên được định giá cao hơn).
+  - Cặp 3, "sociétés de bonne volonté d'un milliard de dollars" là dịch máy chữ *goodwill*: ý là hai công ty mà phần giá thị trường vượt trên tài sản hữu hình (lợi thế thương mại do thị trường gán cho) lên tới hàng tỷ USD; "maison" và "hôpital" là cách Graham gọi tắt Home và Hospital; "l'émission privilégiée" là "cổ phiếu được thị trường ưu ái" (tức Hospital), không phải cổ phiếu ưu đãi.
+  - Cặp 4, "(pratiquement rien)" phải hiểu là tăng trưởng lợi nhuận của Block trong năm năm "xuất phát từ gần như con số không"; "Je NDICATED C ONCLUSIONS" là tiêu đề "Indicated Conclusions" (kết luận rút ra) bị lỗi chữ; "concédé un grand élan à bloquer" là "thừa nhận Block có đà tăng trưởng rất mạnh".
+  - Cặp 5, "Saveurs et parfums internationaux" là International Flavors & Fragrances (IFF), "Les saveurs" là IFF; "a conservé son tricot" là dịch chữ từng chữ thành ngữ *stuck to its knitting* (giữ đúng nghề chính).
+  - Cặp 7, "mandats" là chứng quyền (*warrants*).
+  - Cặp 8, "Le merlan" (con cá tuyết) là tên công ty Whiting bị dịch thành tên cá; "puissantes petites pommes de terre" là thành ngữ *mighty small potatoes* (toàn những thứ rất nhỏ).
+  - Phần nhận xét chung, "sous-spécification" phải là "đầu cơ dưới mức" (*underspeculation*), tức thị trường quá thờ ơ; "problèmes" khắp chương là *issues* (cổ phiếu, đợt phát hành).
+  - Bình luận của Zweig: "miam!" là Yum!; "chapeau rouge et chaussure marron" là Red Hat và Brown Shoe; "Ball était un vol et Stryker un terrain sauvage" là "Ball là món hời, Stryker là món bị chặt chém" (*a steal / a rip-off*); "Nortek a réalisé un chiffre d'affaires net de 49 millions de dollars sur 2 milliards" phải là **lợi nhuận ròng** 49 triệu USD trên doanh thu 2 tỷ USD; "incompossible/incomposables" là chữ *incompossible* của Ambrose Bierce.
+- Lỗi số và ký hiệu trong bản PDF: giá Yahoo! ngày 31/12/1999 ghi "432 687 $" thực ra là 432,6875 USD (432 11/16); phép nhân "1,525 95,06 $" thiếu dấu nhân; giá trị phần còn lại của 3Com ghi "63,16 $" phải là **âm** 63,16 USD mỗi cổ phiếu (văn bản sau đó nói "tổng cộng âm 22 tỷ USD"); giá hồi phục của Trust "26 5/6" nhiều khả năng là 26 5/8 vì giá thời đó tính theo phần tám; "Strkyer" là lỗi gõ của Stryker; số chú thích 7 và 10 của Zweig bị dịch thành chữ "sept", "dix".
+- Chỗ số liệu tự mâu thuẫn hoặc khó khớp (không kiểm chứng được vì bảng trống): với H & R Block, Graham viết giá 55 USD "hơn 100 lần lợi nhuận 12 tháng gần nhất" và tổng giá trị thị trường 300 triệu USD, nhưng lợi nhuận ròng nêu trong cùng đoạn là 6,3 triệu USD, cho P/E khoảng 48; có thể "lợi nhuận 12 tháng gần nhất" khác với con số 6,3 triệu của năm tài chính, người tổng hợp không xác định được.
+
+  Với Yum!, Zweig nói lợi nhuận 633 triệu USD "gấp 17 lần Yahoo!", tính ra từ các số ông nêu là khoảng 18 lần.
+
+  Với Cặp 7, bản dịch nói National General có "doanh thu gộp ít hơn đáng kể" so với Presto; câu này được giữ như bản PDF nhưng không đối chiếu được với Tableau 18-7.
+
+  Tiêu đề Tableau 18-10 ghi giai đoạn 1958–1971 trong khi lời văn ghi 1958–1970; tiêu đề Tableau 18-8B ghi "10 năm" 1961–1970 trong khi lời văn dẫn lợi nhuận Whiting từ 1960.
+- Graham và Zweig dẫn trang của bản tiếng Anh mà bản PDF không có: "p. 415" (phần bàn về chứng quyền ở Chương 16), "p. 434" (AAA Enterprises ở Chương 17), "p. 389" (nghiên cứu cổ phiếu P/E thấp ở Chương 15), "p. 235" (National Student Marketing). Bản tổng hợp thay bằng nội dung được dẫn.
+- Thời điểm: số liệu của Graham dừng ở 1970–1971; số liệu của Zweig dừng ở cuối 2002 – đầu 2003. Theo hiểu biết của người tổng hợp, không tra cứu: Cisco vẫn là công ty lớn, có lãi và bắt đầu trả cổ tức từ đầu thập niên 2010, nhưng giá cổ phiếu trong rất nhiều năm vẫn thấp xa so với đỉnh năm 2000; Yahoo! suy yếu, phần kinh doanh chính bị Verizon mua lại năm 2017; Palm bị HP mua năm 2010 rồi gần như biến mất; Nortel phá sản năm 2009; Red Hat sau đó trở thành công ty phần mềm có lãi và được IBM mua lại năm 2019; Wyeth (tên mới của American Home Products) được Pfizer mua năm 2009.

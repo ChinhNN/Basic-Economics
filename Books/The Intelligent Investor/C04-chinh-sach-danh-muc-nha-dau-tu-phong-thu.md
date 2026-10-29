@@ -1,23 +1,23 @@
 # Chương 4 — Chính sách danh mục chung: nhà đầu tư phòng thủ (Politique générale du portefeuille: l'investisseur défensif)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 4 "Politique générale du portefeuille: l'investisseur défensif" (PDF trang 82–94) và "Commentaire sur le chapitre 4" (PDF trang 94–104).
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972, ấn bản thứ tư xuất bản 1973); bình luận: Jason Zweig, cây bút chuyên mục của tạp chí *Money* (2003).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) đã phân biệt đầu tư với đầu cơ và phác qua chính sách của hai loại nhà đầu tư. Chương 2 ([C02-nha-dau-tu-va-lam-phat.md](C02-nha-dau-tu-va-lam-phat.md)) kết luận rằng vì không biết trước tương lai, nhà đầu tư không được dồn hết tiền vào trái phiếu (sợ lạm phát) cũng không dồn hết vào cổ phiếu (sợ giá quá cao), mà phải chia ra hai phần. Chương 3 ([C03-mot-the-ky-lich-su-thi-truong-chung-khoan.md](C03-mot-the-ky-lich-su-thi-truong-chung-khoan.md)) cho thấy mức giá thị trường đầu năm 1972 (DJIA khoảng 900) đã cao. Chương 4 biến các kết luận đó thành một quy tắc cụ thể cho **nhà đầu tư phòng thủ**: chia tiền giữa trái phiếu chất lượng cao và cổ phiếu chất lượng cao theo tỷ lệ từ 25% đến 75%, chuẩn là 50–50, rồi đi qua từng loại trái phiếu và cổ phiếu ưu đãi mà người đó nên hoặc không nên mua. Chương 5 ([C05-nha-dau-tu-phong-thu-va-co-phieu.md](C05-nha-dau-tu-phong-thu-va-co-phieu.md)) xử lý nửa còn lại là phần cổ phiếu phổ thông; Chương 6 ([C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md)) chuyển sang nhà đầu tư năng động; Chương 8 ([C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)) bàn tiếp chuyện chọn trái phiếu dài hay ngắn hạn và biến động giá trái phiếu; Chương 16 ([C16-chung-khoan-chuyen-doi-va-chung-quyen.md](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) bàn chứng khoán chuyển đổi.
-**Ý chính:** Graham muốn người đọc hiểu rằng **mức lợi nhuận một nhà đầu tư nên nhắm tới không phụ thuộc vào mức rủi ro người đó dám chịu, mà phụ thuộc vào lượng công sức thông minh người đó sẵn lòng và có khả năng bỏ ra; người không muốn bỏ công thì nên nhận lợi nhuận khiêm tốn, đổi lại được an toàn và yên tâm, bằng cách giữ một danh mục gồm trái phiếu chất lượng cao và cổ phiếu chất lượng cao, không bao giờ dưới 25% hay trên 75% cổ phiếu, và mặc định là 50–50.** Quy tắc vận hành rất đơn giản: khi giá cổ phiếu tăng làm phần cổ phiếu lên 55%, bán 1/11 số cổ phiếu chuyển sang trái phiếu; khi phần cổ phiếu xuống 45%, lấy 1/11 phần trái phiếu mua thêm cổ phiếu. Graham thừa nhận rằng đầu năm 1972, khi trái phiếu tốt cho lãi 7,5% còn cổ phiếu trong chỉ số DJIA (ở mức 900, cổ tức 36 USD) chỉ cho tỷ suất cổ tức 4%, người có thần kinh vững có thể giữ chỉ 25% cổ phiếu và chờ tới khi tỷ suất cổ tức của DJIA bằng khoảng hai phần ba lãi suất trái phiếu. Phần còn lại của chương là một bản đồ trái phiếu năm 1972: trái phiếu tiết kiệm Mỹ series E và H (lãi khoảng 5%, rút ra bất cứ lúc nào không mất gốc) là lựa chọn tốt nhất cho người có dưới 10.000 USD; người ở bậc thuế trên 30% nên mua trái phiếu đô thị miễn thuế (5,3%) thay vì trái phiếu doanh nghiệp hạng Aa (7,5%); nên tránh trái phiếu lợi suất cao; nên trả một chút lợi suất để mua trái phiếu không thể bị mua lại sớm (ví dụ trái phiếu American Gas & Electric 5% bị gọi về ở giá 106 năm 1946 trong khi giá trị thật gần 160); và cổ phiếu ưu đãi là một hình thức đầu tư "về bản chất là xấu", chỉ nên mua khi rất rẻ. Sau đó một đoạn: Zweig, viết năm 2003, bổ sung rằng **tỷ lệ cổ phiếu–trái phiếu không nên định theo tuổi (quy tắc "100 trừ tuổi") mà theo hoàn cảnh sống và khả năng chịu đựng cảm xúc của chính mình, và một khi đã chọn tỷ lệ thì phải giữ nó bằng cách tái cân bằng định kỳ (mỗi 6 tháng, vào ngày đầu năm và ngày 4 tháng 7), không theo dự đoán thị trường.** Ví dụ trung tâm: người chọn 70% cổ phiếu và 30% trái phiếu, khi cổ phiếu tăng 25% sẽ có gần 75% cổ phiếu và phải bán bớt để trở về 70–30. Zweig cũng cập nhật danh sách trái phiếu năm 2003: chọn trái phiếu đô thị nếu đầu tư ngoài tài khoản hưu trí, chọn kỳ hạn trung bình 5–10 năm, dùng quỹ trái phiếu chi phí thấp thay vì mua lẻ nếu có dưới 100.000 USD, và tránh xa trái phiếu thế chấp bán lẻ (CMO), niên kim (annuity) phí cao và cổ phiếu ưu đãi.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bản dịch máy lệch nghĩa ở nhiều chỗ quan trọng:** tiêu đề "Le problème fondamental de l'allocation d'obligations" (nghĩa đen "vấn đề cơ bản của việc phân bổ trái phiếu") thực ra là "vấn đề cơ bản của việc phân bổ giữa trái phiếu và cổ phiếu" (*The Basic Problem of Bond-Stock Allocation*); "question de négocier" là "cổ phiếu giá hời" (*bargain issue*); "émissions préférentielles non imposables" không phải cổ phiếu ưu đãi mà là "trái phiếu miễn thuế hạng tốt nhất" (*prime tax-free issues*); "émissions d'épargne américaines" là "trái phiếu tiết kiệm Mỹ"; "Une fusion de ces émissions" nghĩa là "có rất nhiều loại trái phiếu như thế"; "ont cédé 7,19%" nghĩa là "cho lợi suất 7,19%"; "Problèmes convertibles" là "chứng khoán chuyển đổi" (*Convertible Issues*); "Dispositions d'appel" là "điều khoản mua lại trước hạn" (*Call Provisions*); "Formulaires de sécurité" là "các hình thức chứng khoán" (*Security Forms*); "têtes que je gagne, queues que vous perdez" là thành ngữ "sấp thì tôi thắng, ngửa thì anh thua" (*heads I win, tails you lose*); "45/6 prochaines années" là "4 năm 5/6 tiếp theo".
-> - Trong bình luận của Zweig: dòng mở đầu "H votre portefeuille devrait être agressif OW?" là câu "Danh mục của bạn nên mạo hiểm tới mức nào?" bị lỗi chữ hoa đầu đoạn (*How aggressive should your portfolio be?*); "CONSEILS protégés contre l'inflation" là **TIPS** (trái phiếu Kho bạc Mỹ bảo vệ khỏi lạm phát) bị dịch máy thành "lời khuyên" (*tips*); "stocks" nhiều chỗ nghĩa là cổ phiếu; "Stock préféré" là cổ phiếu ưu đãi; "sept" ở cuối câu về thuế là chú thích số 7; "évitez surtout les actions" nghĩa là "chủ yếu tránh cổ phiếu" (giữ phần lớn ở trái phiếu và tiền mặt).
-> - Bản tiếng Pháp **mất một câu** trong bình luận của Zweig: sau "il ne mentionne jamais le mot «âge»" chỉ còn mẩu "prendre dépend principalement de votre âge". Theo ngữ cảnh, câu bị mất nói rằng điều này đi ngược quan niệm thông thường, theo đó mức rủi ro bạn nên chấp nhận phụ thuộc chủ yếu vào tuổi.
-> - Câu "Depuis 2003, les taux d'intérêt sont tombés si bas" ("từ năm 2003 lãi suất đã giảm thấp tới mức...") dễ gây hiểu nhầm: Zweig viết năm 2003, nên ý đúng là "tính đến đầu năm 2003, lãi suất đã xuống thấp tới mức...".
-> - Câu về trái phiếu thế chấp "sous-performent ... lorsque les taux d'intérêt baissent et explosent lorsque les taux augmentent": chữ "explosent" ở đây nghĩa là "bị thiệt hại nặng" (*blow up*), không phải "tăng vọt". Zweig cũng viết rằng các trái phiếu này không được Kho bạc Mỹ bảo lãnh; theo hiểu biết của người tổng hợp, không tra cứu, chứng khoán của Ginnie Mae thực ra có bảo lãnh "đầy đủ uy tín và tín dụng" của chính phủ Mỹ, còn của Fannie Mae thì không (cho tới khi Fannie Mae được chính phủ tiếp quản năm 2008).
-> - Ví dụ trái phiếu Gas & Electric bị dịch sai thành "débentures américaines à 5 ans à 100%" (trái phiếu 5 năm). Theo hiểu biết của người tổng hợp về bản tiếng Anh, đây là trái phiếu lãi suất 5% của công ty American Gas & Electric, đáo hạn năm 2028 (kỳ hạn khoảng 100 năm), bán năm 1928 ở giá 101. Chỉ một trái phiếu dài hạn như vậy mới có thể đạt giá gần 160 khi lãi suất thị trường xuống 3%, nên cách hiểu "5 năm" chắc chắn sai.
-> - **Phép tính của Graham về "điểm mua" không khớp đúng tỷ lệ hai phần ba:** DJIA 900 với cổ tức 36 USD cho tỷ suất 4%. Để 4% bằng 2/3 lãi suất trái phiếu, lãi suất trái phiếu phải xuống 6% (không phải "khoảng 5,5%"); nếu lãi suất trái phiếu giữ 7,5% thì tỷ suất cổ tức cần là 5%, tức DJIA phải xuống 720 (không phải 660). Hai con số 5,5% và 660 của Graham nhất quán với nhau nhưng ứng với tỷ lệ khoảng 0,73 chứ không phải 0,67. Ý tưởng không đổi, chỉ số học lệch.
-> - **Lỗi số trong chú thích của Zweig về thuế cổ phiếu ưu đãi:** Zweig viết doanh nghiệp được khấu trừ 70% cổ tức nhận được, thuế suất 35%, nên trả "khoảng 24,50 USD" thuế trên 100 USD cổ tức ưu đãi. Nếu được khấu trừ 70% thì chỉ 30 USD bị tính thuế, thuế là 10,50 USD; 24,50 USD là số thuế khi 70% (chứ không phải 30%) bị tính thuế. Kết luận của Zweig (cổ phiếu ưu đãi có lợi thế thuế cho doanh nghiệp) vẫn đúng, thậm chí mạnh hơn.
-> - Bảng **FIGURE 4-1 "Le vaste monde des obligations"** (Thế giới rộng lớn của trái phiếu, PDF trang 101) **bị trống trong bản PDF**: chỉ còn tiêu đề, dòng nguồn và phần ghi chú; toàn bộ thân bảng không có trên ảnh trang. Bản tổng hợp chỉ chép được phần ghi chú và nội dung Zweig nói trong văn bản; không dựng lại số liệu của bảng.
-> - Chú thích số 1 của Graham (về trái phiếu miễn thuế lợi suất cao hơn) bản tiếng Pháp bỏ mất tên loại chứng khoán, chỉ còn "một sản phẩm tương đối mới trong các phát minh tài chính". Theo hiểu biết của người tổng hợp, không tra cứu, bản tiếng Anh nói đến trái phiếu doanh thu công nghiệp (*Industrial Revenue Bonds*).
-> - Các chỗ dẫn trang của bản tiếng Anh mà PDF không có: Zweig dẫn "l'encadré à la p. 105" (chính là khung "Pourquoi pas 100% stocks?" ở PDF trang 98) và "la conclusion de Graham au chapitre 2, p. 56-57" (phần Kết luận của Chương 2, PDF trang 57).
-> - **Số liệu đã lỗi thời** (theo hiểu biết của người tổng hợp, không tra cứu): các mức lãi suất 1971–1972 (trái phiếu doanh nghiệp 7–8%) và 2003 (lãi suất rất thấp) đều đã thay đổi nhiều lần; trái phiếu tiết kiệm series E và H đã ngừng phát hành từ lâu (thay bằng series EE, I); thuế suất doanh nghiệp Mỹ 48% (1972) và 35% (2003) nay là 21% từ 2018, tỷ lệ khấu trừ cổ tức cũng đã giảm; từ giữa năm 2003, cá nhân ở Mỹ được hưởng thuế suất thấp hơn trên cổ tức "đủ điều kiện", nên câu của Graham và Zweig "cá nhân chịu thuế cổ tức như thuế lãi" không còn đúng hoàn toàn; mức bảo hiểm tiền gửi FDIC đã tăng từ 100.000 USD lên 250.000 USD; trang publicdebt.treas.gov nay là TreasuryDirect.
+Graham muốn người đọc hiểu rằng **mức lợi nhuận một nhà đầu tư nên nhắm tới không phụ thuộc vào mức rủi ro người đó dám chịu, mà phụ thuộc vào lượng công sức thông minh người đó sẵn lòng và có khả năng bỏ ra; người không muốn bỏ công thì nên nhận lợi nhuận khiêm tốn, đổi lại được an toàn và yên tâm, bằng cách giữ một danh mục gồm trái phiếu chất lượng cao và cổ phiếu chất lượng cao, không bao giờ dưới 25% hay trên 75% cổ phiếu, và mặc định là 50–50.**
+
+Quy tắc vận hành rất đơn giản: khi giá cổ phiếu tăng làm phần cổ phiếu lên 55%, bán 1/11 số cổ phiếu chuyển sang trái phiếu; khi phần cổ phiếu xuống 45%, lấy 1/11 phần trái phiếu mua thêm cổ phiếu.
+
+Graham thừa nhận rằng đầu năm 1972, khi trái phiếu tốt cho lãi 7,5% còn cổ phiếu trong chỉ số DJIA (ở mức 900, cổ tức 36 USD) chỉ cho tỷ suất cổ tức 4%, người có thần kinh vững có thể giữ chỉ 25% cổ phiếu và chờ tới khi tỷ suất cổ tức của DJIA bằng khoảng hai phần ba lãi suất trái phiếu.
+
+Phần còn lại của chương là một bản đồ trái phiếu năm 1972:
+- trái phiếu tiết kiệm Mỹ series E và H (lãi khoảng 5%, rút ra bất cứ lúc nào không mất gốc) là lựa chọn tốt nhất cho người có dưới 10.000 USD;
+- người ở bậc thuế trên 30% nên mua trái phiếu đô thị miễn thuế (5,3%) thay vì trái phiếu doanh nghiệp hạng Aa (7,5%);
+- nên tránh trái phiếu lợi suất cao;
+- nên trả một chút lợi suất để mua trái phiếu không thể bị mua lại sớm (ví dụ trái phiếu American Gas & Electric 5% bị gọi về ở giá 106 năm 1946 trong khi giá trị thật gần 160);
+- và cổ phiếu ưu đãi là một hình thức đầu tư "về bản chất là xấu", chỉ nên mua khi rất rẻ.
+
+Sau đó một đoạn: Zweig, viết năm 2003, bổ sung rằng **tỷ lệ cổ phiếu–trái phiếu không nên định theo tuổi (quy tắc "100 trừ tuổi") mà theo hoàn cảnh sống và khả năng chịu đựng cảm xúc của chính mình, và một khi đã chọn tỷ lệ thì phải giữ nó bằng cách tái cân bằng định kỳ (mỗi 6 tháng, vào ngày đầu năm và ngày 4 tháng 7), không theo dự đoán thị trường.** Ví dụ trung tâm: người chọn 70% cổ phiếu và 30% trái phiếu, khi cổ phiếu tăng 25% sẽ có gần 75% cổ phiếu và phải bán bớt để trở về 70–30.
+
+Zweig cũng cập nhật danh sách trái phiếu năm 2003: chọn trái phiếu đô thị nếu đầu tư ngoài tài khoản hưu trí, chọn kỳ hạn trung bình 5–10 năm, dùng quỹ trái phiếu chi phí thấp thay vì mua lẻ nếu có dưới 100.000 USD, và tránh xa trái phiếu thế chấp bán lẻ (CMO), niên kim (annuity) phí cao và cổ phiếu ưu đãi.
 
 ## Sơ đồ
 
@@ -577,7 +577,9 @@ Quy tắc cơ bản: nhà đầu tư không bao giờ giữ dưới 25% hay trê
 
 Nếu ranh giới giữa đầu tư và đầu cơ vẫn rõ như trước, có thể hình dung giới đầu tư là nhóm khéo léo, nhiều kinh nghiệm, bán cho những kẻ đầu cơ cẩu thả và kém may ở giá cao rồi mua lại ở giá thấp. Hình ảnh đó có thể gần đúng ngày xưa, nhưng khó gắn với diễn biến tài chính từ 1949. Không có dấu hiệu các tổ chức chuyên nghiệp như quỹ tương hỗ hoạt động theo cách đó: tỷ lệ cổ phiếu của hai loại quỹ chính, quỹ "cân bằng" và quỹ "cổ phiếu", gần như không thay đổi từ năm này sang năm khác; họ bán chủ yếu để chuyển từ mã kém hứa hẹn sang mã hứa hẹn hơn.
 
-**Khuyến nghị đầu năm 1972.** Graham từ lâu tin rằng thị trường đã mất liên hệ với các giới hạn cũ mà chưa có giới hạn mới, nên ông không thể đưa ra quy tắc tin cậy nào để giảm cổ phiếu xuống tối thiểu 25% rồi sau đó tăng lại tới tối đa 75%. Ông chỉ có thể nhấn mạnh: nói chung không nên giữ quá một nửa bằng cổ phiếu, trừ khi người đó rất tin vào sự vững chắc của vị thế cổ phiếu của mình và chắc rằng có thể nhìn một đợt sụt giá kiểu 1969–1970 một cách bình thản. Graham khó thấy niềm tin mạnh như vậy được biện minh ở mức giá đầu năm 1972, nên lúc đó ông khuyên không phân bổ quá 50% cho cổ phiếu. Nhưng vì những lý do bổ sung, cũng gần như khó khuyên giảm nhiều dưới 50%, trừ khi chính nhà đầu tư lo ngại về mức giá thị trường hiện tại và cũng bằng lòng giới hạn phần cổ phiếu ở khoảng 25% tổng vốn.
+**Khuyến nghị đầu năm 1972.** Graham từ lâu tin rằng thị trường đã mất liên hệ với các giới hạn cũ mà chưa có giới hạn mới, nên ông không thể đưa ra quy tắc tin cậy nào để giảm cổ phiếu xuống tối thiểu 25% rồi sau đó tăng lại tới tối đa 75%. Ông chỉ có thể nhấn mạnh: nói chung không nên giữ quá một nửa bằng cổ phiếu, trừ khi người đó rất tin vào sự vững chắc của vị thế cổ phiếu của mình và chắc rằng có thể nhìn một đợt sụt giá kiểu 1969–1970 một cách bình thản.
+
+Graham khó thấy niềm tin mạnh như vậy được biện minh ở mức giá đầu năm 1972, nên lúc đó ông khuyên không phân bổ quá 50% cho cổ phiếu. Nhưng vì những lý do bổ sung, cũng gần như khó khuyên giảm nhiều dưới 50%, trừ khi chính nhà đầu tư lo ngại về mức giá thị trường hiện tại và cũng bằng lòng giới hạn phần cổ phiếu ở khoảng 25% tổng vốn.
 
 **Công thức 50–50.** Do đó Graham đề nghị với phần lớn người đọc một công thức 50–50 có thể có vẻ đơn giản quá mức: giữ trái phiếu và cổ phiếu ngang nhau càng sát càng tốt. Khi biến động giá đẩy phần cổ phiếu lên, ví dụ, 55%, thì bán 1/11 phần cổ phiếu và chuyển tiền sang trái phiếu để cân bằng lại; ngược lại, khi phần cổ phiếu tụt xuống 45%, thì dùng 1/11 phần trái phiếu để mua thêm cổ phiếu. (Kiểm tra: với 100 đơn vị gồm 55 cổ phiếu và 45 trái phiếu, bán 5 đơn vị cổ phiếu, tức 1/11 của 55, sẽ còn 50 và 50.)
 
@@ -587,11 +589,13 @@ Dù vậy, Graham vẫn tin phiên bản 50–50 của mình là hợp lý cho n
 
 **50–50 không chắc là tốt nhất.** Graham thừa nhận phương án 50–50 là "chương trình dùng cho mọi trường hợp" đơn giản nhất nhưng chưa chắc cho kết quả tốt nhất (và không cách nào, cơ học hay không, có thể chắc chắn tốt hơn cách khác). Thu nhập từ trái phiếu tốt lúc đó cao hơn nhiều so với cổ phiếu tiêu biểu, đó là lý lẽ mạnh để nghiêng về trái phiếu. Lựa chọn giữa 50% hay thấp hơn có thể chủ yếu tùy vào tính khí. Người có thể cân đo thị trường một cách lạnh lùng có lẽ sẽ chọn mức thấp 25% cổ phiếu vào lúc đó, với ý định chờ tới khi tỷ suất cổ tức của DJIA bằng khoảng hai phần ba lãi suất trái phiếu rồi mới về mức giữa 50–50.
 
-Với DJIA ở 900 và cổ tức 36 USD (tỷ suất 4%), điều đó đòi hỏi hoặc lãi suất trái phiếu chịu thuế giảm từ 7,5% xuống khoảng 5,5% trong khi tỷ suất cổ tức của các cổ phiếu chính không đổi, hoặc DJIA giảm xuống tới khoảng 660 nếu lãi suất trái phiếu không giảm và cổ tức không tăng, hoặc một tổ hợp các thay đổi ở mức trung gian cũng cho ra cùng "điểm mua". (Như ghi trong khối Lưu ý, tỷ lệ đúng 2/3 sẽ cho 6% và 720; hai con số của Graham ứng với tỷ lệ khoảng 0,73.) Một chương trình kiểu này không phức tạp; khó nhất là chấp nhận nó và giữ đúng nó, chưa kể khả năng nó tỏ ra quá thận trọng.
+Với DJIA ở 900 và cổ tức 36 USD (tỷ suất 4%), điều đó đòi hỏi hoặc lãi suất trái phiếu chịu thuế giảm từ 7,5% xuống khoảng 5,5% trong khi tỷ suất cổ tức của các cổ phiếu chính không đổi, hoặc DJIA giảm xuống tới khoảng 660 nếu lãi suất trái phiếu không giảm và cổ tức không tăng, hoặc một tổ hợp các thay đổi ở mức trung gian cũng cho ra cùng "điểm mua". (Như ghi trong mục Lưu ý cuối chương, tỷ lệ đúng 2/3 sẽ cho 6% và 720; hai con số của Graham ứng với tỷ lệ khoảng 0,73.) Một chương trình kiểu này không phức tạp; khó nhất là chấp nhận nó và giữ đúng nó, chưa kể khả năng nó tỏ ra quá thận trọng.
 
 #### 3. Phần trái phiếu (La composante obligataire, PDF trang 85–90)
 
-**Hai câu hỏi.** Việc chọn trái phiếu xoay quanh hai câu hỏi: mua trái phiếu chịu thuế hay miễn thuế, và mua kỳ hạn dài hay ngắn. Quyết định về thuế chủ yếu là phép tính số học, so chênh lệch lợi suất với bậc thuế của nhà đầu tư. Tháng 1 năm 1972, với kỳ hạn 20 năm, lựa chọn là giữa khoảng 7,5% của trái phiếu doanh nghiệp hạng Aa và 5,3% của trái phiếu miễn thuế hạng tốt nhất. (Chữ "municipal" thường được dùng cho mọi loại trái phiếu miễn thuế, kể cả trái phiếu của bang.) Như vậy ở kỳ hạn này, chuyển từ trái phiếu doanh nghiệp sang trái phiếu đô thị mất khoảng 30% thu nhập. Nếu bậc thuế cao nhất của nhà đầu tư trên 30%, chọn trái phiếu đô thị sẽ có lợi ròng sau thuế; nếu dưới 30% thì ngược lại. Người độc thân bắt đầu chịu thuế suất 30% khi thu nhập sau khấu trừ vượt 10.000 USD; vợ chồng khi thu nhập chịu thuế chung vượt 20.000 USD. Rõ ràng phần lớn nhà đầu tư cá nhân sẽ có lợi suất sau thuế cao hơn với trái phiếu đô thị tốt so với trái phiếu doanh nghiệp tốt.
+**Hai câu hỏi.** Việc chọn trái phiếu xoay quanh hai câu hỏi: mua trái phiếu chịu thuế hay miễn thuế, và mua kỳ hạn dài hay ngắn. Quyết định về thuế chủ yếu là phép tính số học, so chênh lệch lợi suất với bậc thuế của nhà đầu tư. Tháng 1 năm 1972, với kỳ hạn 20 năm, lựa chọn là giữa khoảng 7,5% của trái phiếu doanh nghiệp hạng Aa và 5,3% của trái phiếu miễn thuế hạng tốt nhất. (Chữ "municipal" thường được dùng cho mọi loại trái phiếu miễn thuế, kể cả trái phiếu của bang.) Như vậy ở kỳ hạn này, chuyển từ trái phiếu doanh nghiệp sang trái phiếu đô thị mất khoảng 30% thu nhập.
+
+Nếu bậc thuế cao nhất của nhà đầu tư trên 30%, chọn trái phiếu đô thị sẽ có lợi ròng sau thuế; nếu dưới 30% thì ngược lại. Người độc thân bắt đầu chịu thuế suất 30% khi thu nhập sau khấu trừ vượt 10.000 USD; vợ chồng khi thu nhập chịu thuế chung vượt 20.000 USD. Rõ ràng phần lớn nhà đầu tư cá nhân sẽ có lợi suất sau thuế cao hơn với trái phiếu đô thị tốt so với trái phiếu doanh nghiệp tốt.
 
 Chọn kỳ hạn dài hay ngắn là câu hỏi khác hẳn: nhà đầu tư có muốn tự bảo hiểm trước việc giá trái phiếu giảm hay không, với cái giá là (1) lợi suất hằng năm thấp hơn và (2) mất cơ hội lãi đáng kể trên vốn gốc. Graham để câu hỏi này cho Chương 8 (nhà đầu tư và biến động thị trường).
 
@@ -604,15 +608,23 @@ Graham liệt kê các loại trái phiếu chính, nói ngắn về mô tả, �
 - Series E không trả lãi bằng tiền mà cộng dồn vào giá trị mua lại. Trái phiếu được bán ở 75% mệnh giá và đáo hạn ở 100% sau 5 năm 10 tháng. Nếu giữ tới hạn, lợi suất là 5%, ghép lãi nửa năm. (Kiểm tra: 0,75 × 1,025^11,67 ≈ 1,00.) Nếu rút sớm, lợi suất tăng từ tối thiểu 4,01% năm đầu lên trung bình 5,20% trong 4 năm 5/6 tiếp theo.
 - Lãi chịu thuế thu nhập liên bang nhưng miễn thuế thu nhập bang. Với series E, người giữ được chọn nộp thuế liên bang hằng năm khi lãi tích lũy, hoặc hoãn tới khi thực sự rút trái phiếu.
 - Người giữ series E có thể rút bất cứ lúc nào (ngay sau khi mua ít lâu) theo giá trị mua lại hiện tại; người giữ series H được rút ở mệnh giá (bằng giá mua). Series E đổi được sang series H với một số lợi thế thuế. Trái phiếu bị mất, bị hủy hoặc bị đánh cắp được cấp lại miễn phí. Lượng mua mỗi năm có giới hạn, nhưng quy định rộng rãi về đồng sở hữu giữa các thành viên gia đình cho phép phần lớn nhà đầu tư mua bao nhiêu tùy sức.
-- Nhận xét của Graham: không có khoản đầu tư nào khác kết hợp cùng lúc (1) bảo đảm tuyệt đối việc trả gốc và lãi, (2) quyền đòi hoàn trả toàn bộ bất cứ lúc nào, và (3) bảo đảm lãi suất ít nhất 5% trong ít nhất 10 năm. Người giữ các đợt series E trước đây được quyền gia hạn khi đáo hạn và tiếp tục tích lũy ở mức lãi lần lượt cao hơn. Việc hoãn nộp thuế suốt thời gian dài như vậy có lợi lớn bằng tiền: theo tính toán của Graham, nó làm tăng lợi suất ròng sau thuế tới một phần ba trong các trường hợp điển hình. Ngược lại, quyền rút ra ở giá mua hoặc cao hơn đã cho những người mua trong các năm lãi suất thấp sự bảo vệ hoàn toàn trước việc vốn bị giảm giá, điều đã giáng vào nhiều nhà đầu tư trái phiếu; nói cách khác, họ có thể hưởng lợi từ lãi suất tăng bằng cách đổi trái phiếu lãi thấp sang trái phiếu lãi rất cao mà không mất đồng nào.
+- Nhận xét của Graham: không có khoản đầu tư nào khác kết hợp cùng lúc (1) bảo đảm tuyệt đối việc trả gốc và lãi, (2) quyền đòi hoàn trả toàn bộ bất cứ lúc nào, và (3) bảo đảm lãi suất ít nhất 5% trong ít nhất 10 năm. Người giữ các đợt series E trước đây được quyền gia hạn khi đáo hạn và tiếp tục tích lũy ở mức lãi lần lượt cao hơn.
+
+  Việc hoãn nộp thuế suốt thời gian dài như vậy có lợi lớn bằng tiền: theo tính toán của Graham, nó làm tăng lợi suất ròng sau thuế tới một phần ba trong các trường hợp điển hình. Ngược lại, quyền rút ra ở giá mua hoặc cao hơn đã cho những người mua trong các năm lãi suất thấp sự bảo vệ hoàn toàn trước việc vốn bị giảm giá, điều đã giáng vào nhiều nhà đầu tư trái phiếu; nói cách khác, họ có thể hưởng lợi từ lãi suất tăng bằng cách đổi trái phiếu lãi thấp sang trái phiếu lãi rất cao mà không mất đồng nào.
 - Graham kết luận các lợi thế đặc biệt này bù thừa cho việc lợi suất hiện tại của trái phiếu tiết kiệm thấp hơn các trái phiếu chính phủ trực tiếp khác.
 
 **(2) Các trái phiếu Chính phủ Mỹ khác.** Có rất nhiều loại, với đủ mức lãi suất danh nghĩa và ngày đáo hạn. Tất cả hoàn toàn an toàn về trả lãi và gốc. Chúng chịu thuế thu nhập liên bang nhưng miễn thuế thu nhập bang. Cuối năm 1971, loại dài hạn (trên 10 năm) có lợi suất bình quân 6,09%, loại trung hạn (3–5 năm) 6,35%, loại ngắn hạn 6,03%.
 - Năm 1970 có thể mua một số trái phiếu cũ với chiết khấu lớn; một vài loại được chấp nhận theo mệnh giá khi nộp thuế thừa kế. Ví dụ: trái phiếu Kho bạc Mỹ lãi 3,5% đáo hạn 1990 thuộc loại này; giá chỉ 60 trong năm 1970 nhưng cuối năm 1970 đóng cửa trên 77.
-- Trái phiếu được chính phủ Mỹ bảo lãnh gián tiếp thường cho lợi suất cao hơn đáng kể so với trái phiếu trực tiếp cùng kỳ hạn. Lúc Graham viết có đợt chào bán "chứng chỉ được Bộ trưởng Giao thông Mỹ bảo lãnh toàn bộ" với lợi suất 7,05%, cao hơn 1 điểm phần trăm so với trái phiếu trực tiếp của Mỹ đáo hạn cùng năm (1986). Các chứng chỉ này thực ra phát hành nhân danh những người được ủy thác quản lý công ty đường sắt Penn Central Transportation Co., nhưng được bán dựa trên tuyên bố của Tổng chưởng lý Mỹ rằng bảo lãnh này tạo ra một nghĩa vụ chung của Hoa Kỳ, dựa trên uy tín và tín dụng của quốc gia. Nhiều nghĩa vụ gián tiếp kiểu này đã được chính phủ Mỹ gánh trong quá khứ và đều được thực hiện nghiêm chỉnh.
+- Trái phiếu được chính phủ Mỹ bảo lãnh gián tiếp thường cho lợi suất cao hơn đáng kể so với trái phiếu trực tiếp cùng kỳ hạn. Lúc Graham viết có đợt chào bán "chứng chỉ được Bộ trưởng Giao thông Mỹ bảo lãnh toàn bộ" với lợi suất 7,05%, cao hơn 1 điểm phần trăm so với trái phiếu trực tiếp của Mỹ đáo hạn cùng năm (1986).
+
+  Các chứng chỉ này thực ra phát hành nhân danh những người được ủy thác quản lý công ty đường sắt Penn Central Transportation Co., nhưng được bán dựa trên tuyên bố của Tổng chưởng lý Mỹ rằng bảo lãnh này tạo ra một nghĩa vụ chung của Hoa Kỳ, dựa trên uy tín và tín dụng của quốc gia. Nhiều nghĩa vụ gián tiếp kiểu này đã được chính phủ Mỹ gánh trong quá khứ và đều được thực hiện nghiêm chỉnh.
 - Vì sao lại vòng vèo như vậy, với một "bảo lãnh cá nhân" bề ngoài của Bộ trưởng Giao thông và chi phí cao hơn cho người đóng thuế? Lý do chính là trần nợ Quốc hội áp lên việc vay của chính phủ: các khoản bảo lãnh không bị tính là nợ, một món lợi về chữ nghĩa cho nhà đầu tư tinh ý. Tác động chính có lẽ là việc ra đời trái phiếu nhà ở miễn thuế có bảo lãnh tương đương của chính phủ Mỹ, gần như là loại trái phiếu miễn thuế duy nhất tương đương trái phiếu chính phủ. Một loại khác được chính phủ hậu thuẫn là trái phiếu cộng đồng mới (New Community debentures), lợi suất 7,60% vào tháng 9 năm 1971.
 
-**(3) Trái phiếu bang và đô thị.** Miễn thuế thu nhập liên bang, và thường miễn thuế thu nhập ở bang phát hành (nhưng không miễn ở bang khác). Đó là nghĩa vụ trực tiếp của bang hoặc đơn vị hành chính, hoặc là "trái phiếu doanh thu" (revenue bonds) mà tiền lãi phụ thuộc vào thu từ đường thu phí, cầu, hợp đồng thuê công trình... Không phải mọi trái phiếu miễn thuế đều đủ an toàn cho nhà đầu tư phòng thủ. Người đó có thể dựa vào xếp hạng của Moody's hoặc Standard & Poor's: một trong ba hạng cao nhất của cả hai hãng, Aaa (AAA), Aa (AA) hoặc A, là dấu hiệu đủ cho độ an toàn thích đáng. Lợi suất thay đổi theo chất lượng và kỳ hạn, kỳ hạn ngắn cho lợi suất thấp nhất. Cuối năm 1971, các trái phiếu trong chỉ số trái phiếu đô thị của Standard & Poor's có hạng bình quân AA, kỳ hạn 20 năm và lợi suất 5,78%. Một đợt chào bán điển hình của Vineland, New Jersey, được xếp hạng AA và A (theo cách hiểu của người tổng hợp: AA theo một hãng, A theo hãng kia), cho lợi suất chỉ 3% với kỳ hạn 1 năm, tăng lên 5,8% với các kỳ hạn 1995 và 1996.
+**(3) Trái phiếu bang và đô thị.** Miễn thuế thu nhập liên bang, và thường miễn thuế thu nhập ở bang phát hành (nhưng không miễn ở bang khác). Đó là nghĩa vụ trực tiếp của bang hoặc đơn vị hành chính, hoặc là "trái phiếu doanh thu" (revenue bonds) mà tiền lãi phụ thuộc vào thu từ đường thu phí, cầu, hợp đồng thuê công trình...
+
+Không phải mọi trái phiếu miễn thuế đều đủ an toàn cho nhà đầu tư phòng thủ. Người đó có thể dựa vào xếp hạng của Moody's hoặc Standard & Poor's: một trong ba hạng cao nhất của cả hai hãng, Aaa (AAA), Aa (AA) hoặc A, là dấu hiệu đủ cho độ an toàn thích đáng.
+
+Lợi suất thay đổi theo chất lượng và kỳ hạn, kỳ hạn ngắn cho lợi suất thấp nhất. Cuối năm 1971, các trái phiếu trong chỉ số trái phiếu đô thị của Standard & Poor's có hạng bình quân AA, kỳ hạn 20 năm và lợi suất 5,78%. Một đợt chào bán điển hình của Vineland, New Jersey, được xếp hạng AA và A (theo cách hiểu của người tổng hợp: AA theo một hãng, A theo hãng kia), cho lợi suất chỉ 3% với kỳ hạn 1 năm, tăng lên 5,8% với các kỳ hạn 1995 và 1996.
 
 *Chú thích của Graham (số 1):* có thể có lợi suất miễn thuế cao hơn mà vẫn đủ an toàn từ một loại tương đối mới trong các phát minh tài chính (bản tiếng Pháp bỏ mất tên; theo hiểu biết của người tổng hợp là trái phiếu doanh thu công nghiệp, *Industrial Revenue Bonds*); loại này đặc biệt đáng chú ý với nhà đầu tư năng động.
 
@@ -673,13 +685,15 @@ Lời khuyên thực tế: người mua trái phiếu dài hạn nên hy sinh m�
 
 #### 8. Cổ phiếu ưu đãi thường, không chuyển đổi (Actions privilégiées directes, c'est-à-dire non convertibles, PDF trang 92–93)
 
-Có thể có, và quả thực có, những cổ phiếu ưu đãi rất tốt, nhưng chúng tốt bất chấp hình thức đầu tư của mình, vốn về bản chất là xấu. Cổ đông ưu đãi điển hình phụ thuộc, về sự an toàn, vào khả năng và ý muốn của công ty trả cổ tức cho cổ phiếu phổ thông. Một khi cổ tức phổ thông bị bỏ hoặc chỉ bị đe dọa, vị thế của cổ đông ưu đãi trở nên bấp bênh, vì hội đồng quản trị không buộc phải tiếp tục trả cổ tức ưu đãi nếu họ không trả cả cổ tức phổ thông. Mặt khác, cổ phiếu ưu đãi điển hình không được chia phần nào của lợi nhuận công ty vượt quá mức cổ tức cố định. Vậy là người giữ cổ phiếu ưu đãi không có quyền đòi nợ theo luật của chủ trái phiếu (chủ nợ), cũng không có cơ hội lãi của cổ đông phổ thông (người góp vốn).
+Có thể có, và quả thực có, những cổ phiếu ưu đãi rất tốt, nhưng chúng tốt bất chấp hình thức đầu tư của mình, vốn về bản chất là xấu. Cổ đông ưu đãi điển hình phụ thuộc, về sự an toàn, vào khả năng và ý muốn của công ty trả cổ tức cho cổ phiếu phổ thông. Một khi cổ tức phổ thông bị bỏ hoặc chỉ bị đe dọa, vị thế của cổ đông ưu đãi trở nên bấp bênh, vì hội đồng quản trị không buộc phải tiếp tục trả cổ tức ưu đãi nếu họ không trả cả cổ tức phổ thông.
+
+Mặt khác, cổ phiếu ưu đãi điển hình không được chia phần nào của lợi nhuận công ty vượt quá mức cổ tức cố định. Vậy là người giữ cổ phiếu ưu đãi không có quyền đòi nợ theo luật của chủ trái phiếu (chủ nợ), cũng không có cơ hội lãi của cổ đông phổ thông (người góp vốn).
 
 Những điểm yếu về vị thế pháp lý này lộ ra lặp đi lặp lại trong các thời kỳ suy thoái. Chỉ một tỷ lệ nhỏ cổ phiếu ưu đãi được củng cố vững đến mức giữ được tư cách khoản đầu tư không thể bàn cãi qua mọi thăng trầm. Kinh nghiệm cho thấy thời điểm mua cổ phiếu ưu đãi là khi giá bị đè thấp bất hợp lý vì khó khăn tạm thời. (Trong những trường hợp đó, chúng có thể hợp với nhà đầu tư năng động, nhưng quá khác thường với nhà đầu tư phòng thủ.) Nói cách khác, chúng nên được mua rẻ, hoặc không mua. Chứng khoán chuyển đổi và các đặc quyền tương tự, có một số khả năng lãi đặc biệt, được bàn sau; chúng thường không được chọn cho danh mục thận trọng.
 
 Một điểm đặc biệt khác: cổ phiếu ưu đãi có lợi thế thuế lớn hơn nhiều cho người mua là doanh nghiệp so với người mua cá nhân. Doanh nghiệp chỉ chịu thuế thu nhập trên 15% số cổ tức nhận được, nhưng chịu thuế trên toàn bộ tiền lãi thông thường. Vì thuế suất doanh nghiệp năm 1972 là 48%, 100 USD cổ tức ưu đãi chỉ chịu 7,20 USD thuế (15 USD × 48%), còn 100 USD lãi trái phiếu chịu 48 USD thuế. Ngược lại, cá nhân chịu đúng cùng mức thuế trên cổ tức ưu đãi và trên lãi trái phiếu, trừ một ngoại lệ nhỏ gần đây. Vậy theo logic chặt chẽ, mọi cổ phiếu ưu đãi hạng đầu nên do doanh nghiệp mua, cũng như mọi trái phiếu miễn thuế nên do người có đóng thuế thu nhập mua.
 
-*Chú thích của Zweig:* logic của Graham vẫn đúng nhưng con số đã đổi. Hiện doanh nghiệp được khấu trừ 70% cổ tức nhận được, thuế suất doanh nghiệp thông thường là 35%; Zweig viết rằng doanh nghiệp vì thế trả khoảng 24,50 USD thuế trên 100 USD cổ tức ưu đãi so với 35 USD trên 100 USD tiền lãi (phép tính đúng phải là 10,50 USD, xem khối Lưu ý). Cá nhân chịu cùng thuế suất trên cổ tức và tiền lãi, nên cổ phiếu ưu đãi không cho họ lợi thế thuế nào.
+*Chú thích của Zweig:* logic của Graham vẫn đúng nhưng con số đã đổi. Hiện doanh nghiệp được khấu trừ 70% cổ tức nhận được, thuế suất doanh nghiệp thông thường là 35%; Zweig viết rằng doanh nghiệp vì thế trả khoảng 24,50 USD thuế trên 100 USD cổ tức ưu đãi so với 35 USD trên 100 USD tiền lãi (phép tính đúng phải là 10,50 USD, xem mục Lưu ý cuối chương). Cá nhân chịu cùng thuế suất trên cổ tức và tiền lãi, nên cổ phiếu ưu đãi không cho họ lợi thế thuế nào.
 
 Bảng so sánh thuế trên 100 USD thu nhập của một doanh nghiệp (đơn vị: USD)
 
@@ -696,7 +710,9 @@ Hình thức trái phiếu và hình thức cổ phiếu ưu đãi như đã bà
 
 Đó là các điều khoản chuẩn, và chắc chắn đúng với phần lớn trái phiếu và cổ phiếu ưu đãi, nhưng có vô số biến thể. Loại quen thuộc nhất là chứng khoán chuyển đổi và các loại tương tự, và trái phiếu thu nhập (income bonds). Với trái phiếu thu nhập, lãi không phải trả nếu công ty không có lãi. (Phần lãi chưa trả có thể được dồn lại thành nghĩa vụ trên lợi nhuận tương lai, nhưng thời hạn thường giới hạn 3 năm.)
 
-Graham cho rằng doanh nghiệp nên dùng trái phiếu thu nhập nhiều hơn nhiều so với thực tế. Việc né tránh chúng dường như chỉ là một tình cờ của lịch sử kinh tế: chúng được dùng với số lượng lớn lần đầu trong các cuộc tái cấu trúc công ty đường sắt, nên ngay từ đầu đã bị gắn với sự yếu kém tài chính và tư cách đầu tư kém. Nhưng bản thân hình thức này có nhiều lợi thế thực tế, nhất là khi so sánh và thay thế cho nhiều đợt phát hành cổ phiếu (ưu đãi) chuyển đổi trong những năm gần đây. Lợi thế chính là tiền lãi được trừ khỏi thu nhập chịu thuế của công ty, làm chi phí của loại vốn này giảm khoảng một nửa (với thuế suất 48%). Về phía nhà đầu tư, trong phần lớn trường hợp có lẽ tốt hơn cho họ khi có (1) quyền vô điều kiện nhận lãi khi công ty có lãi, và (2) quyền được bảo vệ bằng các cách khác ngoài thủ tục phá sản nếu công ty không có lãi và không trả lãi. Điều khoản của trái phiếu thu nhập có thể được thiết kế sao cho có lợi nhất cho cả người vay lẫn người cho vay. (Tất nhiên có thể kèm quyền chuyển đổi.)
+Graham cho rằng doanh nghiệp nên dùng trái phiếu thu nhập nhiều hơn nhiều so với thực tế. Việc né tránh chúng dường như chỉ là một tình cờ của lịch sử kinh tế: chúng được dùng với số lượng lớn lần đầu trong các cuộc tái cấu trúc công ty đường sắt, nên ngay từ đầu đã bị gắn với sự yếu kém tài chính và tư cách đầu tư kém. Nhưng bản thân hình thức này có nhiều lợi thế thực tế, nhất là khi so sánh và thay thế cho nhiều đợt phát hành cổ phiếu (ưu đãi) chuyển đổi trong những năm gần đây.
+
+Lợi thế chính là tiền lãi được trừ khỏi thu nhập chịu thuế của công ty, làm chi phí của loại vốn này giảm khoảng một nửa (với thuế suất 48%). Về phía nhà đầu tư, trong phần lớn trường hợp có lẽ tốt hơn cho họ khi có (1) quyền vô điều kiện nhận lãi khi công ty có lãi, và (2) quyền được bảo vệ bằng các cách khác ngoài thủ tục phá sản nếu công ty không có lãi và không trả lãi. Điều khoản của trái phiếu thu nhập có thể được thiết kế sao cho có lợi nhất cho cả người vay lẫn người cho vay. (Tất nhiên có thể kèm quyền chuyển đổi.)
 
 Graham kết chương: việc mọi người đều chấp nhận hình thức cổ phiếu ưu đãi vốn yếu về bản chất, mà bác bỏ hình thức trái phiếu thu nhập mạnh hơn, là ví dụ hấp dẫn cho thấy các thể chế và thói quen truyền thống ở Phố Wall thường tồn tại dai dẳng dù điều kiện mới đòi hỏi cách nhìn mới. Mỗi làn sóng lạc quan hay bi quan mới, người ta sẵn sàng vứt bỏ lịch sử và những nguyên tắc đã được kiểm chứng, nhưng lại bám chặt, không chút do dự, vào định kiến của mình.
 
@@ -706,7 +722,9 @@ Graham kết chương: việc mọi người đều chấp nhận hình thức c
 
 Zweig mở bằng câu của huấn luyện viên bóng rổ Pat Riley: khi bạn phó mặc cho may rủi, bạn sẽ hết may.
 
-Danh mục của bạn nên mạo hiểm tới đâu? Theo Graham, điều đó phụ thuộc vào kiểu nhà đầu tư bạn là, hơn là vào kiểu tài sản bạn sở hữu. Có hai cách để là nhà đầu tư thông minh: (1) liên tục nghiên cứu, chọn lựa và theo dõi một tổ hợp năng động gồm cổ phiếu, trái phiếu hoặc quỹ tương hỗ; hoặc (2) dựng một danh mục cố định chạy tự động, không cần thêm công sức (nhưng cũng rất ít hứng thú). Graham gọi cách thứ nhất là "chủ động" hay "năng động", đòi hỏi nhiều thời gian và sức lực. Cách "thụ động" hay "phòng thủ" ít tốn thời gian và công sức nhưng đòi hỏi sự tách mình gần như khổ hạnh khỏi sự ồn ào quyến rũ của thị trường. Như nhà tư tưởng đầu tư Charles Ellis giải thích, cách năng động vất vả về thể chất và trí óc, còn cách phòng thủ vất vả về cảm xúc.
+Danh mục của bạn nên mạo hiểm tới đâu? Theo Graham, điều đó phụ thuộc vào kiểu nhà đầu tư bạn là, hơn là vào kiểu tài sản bạn sở hữu. Có hai cách để là nhà đầu tư thông minh: (1) liên tục nghiên cứu, chọn lựa và theo dõi một tổ hợp năng động gồm cổ phiếu, trái phiếu hoặc quỹ tương hỗ; hoặc (2) dựng một danh mục cố định chạy tự động, không cần thêm công sức (nhưng cũng rất ít hứng thú).
+
+Graham gọi cách thứ nhất là "chủ động" hay "năng động", đòi hỏi nhiều thời gian và sức lực. Cách "thụ động" hay "phòng thủ" ít tốn thời gian và công sức nhưng đòi hỏi sự tách mình gần như khổ hạnh khỏi sự ồn ào quyến rũ của thị trường. Như nhà tư tưởng đầu tư Charles Ellis giải thích, cách năng động vất vả về thể chất và trí óc, còn cách phòng thủ vất vả về cảm xúc.
 
 *Chú thích của Zweig (số 1):* để hiểu thêm sự phân biệt giữa đầu tư vất vả về thể chất và trí óc với đầu tư vất vả về cảm xúc, xem Chương 8 và bài "Three Ways to Succeed as an Investor" của Charles D. Ellis trong tuyển tập *The Investor's Anthology* (Charles D. Ellis và James R. Vertin chủ biên, John Wiley & Sons, 1997).
 
@@ -718,7 +736,9 @@ Hai cách thông minh như nhau, và bạn có thể thành công với cách n�
 
 **Quyết định đầu tiên.** Nhà đầu tư phòng thủ nên bắt đầu thế nào? Quyết định đầu tiên và cơ bản nhất là bao nhiêu tiền vào cổ phiếu, bao nhiêu vào trái phiếu và tiền mặt. Zweig lưu ý Graham cố ý đặt phần này sau chương về lạm phát, như để cảnh báo rằng lạm phát là một trong những kẻ thù tồi tệ nhất của bạn (xem [C02-nha-dau-tu-va-lam-phat.md](C02-nha-dau-tu-va-lam-phat.md)).
 
-**Graham không nói đến tuổi.** Điều đáng chú ý nhất trong cách Graham bàn về phân bổ là ông không hề nhắc tới chữ "tuổi". Điều này đi ngược quan niệm phổ biến rằng mức rủi ro nên chịu phụ thuộc chủ yếu vào tuổi. *Chú thích của Zweig (số 2):* một lần tìm trên Google cụm "tuổi và phân bổ tài sản" cho hơn 30.000 kết quả. Quy tắc truyền thống là lấy 100 trừ tuổi và đặt số phần trăm đó vào cổ phiếu, phần còn lại vào trái phiếu hoặc tiền mặt: một phụ nữ 28 tuổi giữ 72% cổ phiếu; một phụ nữ 81 tuổi chỉ giữ 19%. Như mọi thứ khác, các giả định này bị đẩy quá đà cuối thập niên 1990: năm 1999 một cuốn sách bán chạy cho rằng người dưới 30 tuổi nên giữ 95% cổ phiếu, kể cả khi chỉ có mức chịu rủi ro "vừa phải". *Chú thích của Zweig (số 3):* cuốn sách là *Dow 36,000: The New Strategy for Profiting from the Coming Rise in the Stock Market* của James K. Glassman và Kevin A. Hassett (Times Business, 1999).
+**Graham không nói đến tuổi.** Điều đáng chú ý nhất trong cách Graham bàn về phân bổ là ông không hề nhắc tới chữ "tuổi". Điều này đi ngược quan niệm phổ biến rằng mức rủi ro nên chịu phụ thuộc chủ yếu vào tuổi. *Chú thích của Zweig (số 2):* một lần tìm trên Google cụm "tuổi và phân bổ tài sản" cho hơn 30.000 kết quả.
+
+Quy tắc truyền thống là lấy 100 trừ tuổi và đặt số phần trăm đó vào cổ phiếu, phần còn lại vào trái phiếu hoặc tiền mặt: một phụ nữ 28 tuổi giữ 72% cổ phiếu; một phụ nữ 81 tuổi chỉ giữ 19%. Như mọi thứ khác, các giả định này bị đẩy quá đà cuối thập niên 1990: năm 1999 một cuốn sách bán chạy cho rằng người dưới 30 tuổi nên giữ 95% cổ phiếu, kể cả khi chỉ có mức chịu rủi ro "vừa phải". *Chú thích của Zweig (số 3):* cuốn sách là *Dow 36,000: The New Strategy for Profiting from the Coming Rise in the Stock Market* của James K. Glassman và Kevin A. Hassett (Times Business, 1999).
 
 **Vì sao tuổi là thước đo sai.** Zweig đùa rằng trừ khi bạn để những người cổ vũ lời khuyên đó trừ 100 khỏi chỉ số IQ của mình, bạn phải thấy có gì đó sai. Tại sao tuổi lại quyết định mức rủi ro bạn chịu được?
 - Một bà cụ 89 tuổi có 3 triệu USD, lương hưu đủ sống và một đàn cháu sẽ là dại nếu chuyển phần lớn tiền sang trái phiếu: bà đã có nhiều thu nhập, còn các cháu (những người cuối cùng sẽ thừa kế cổ phiếu của bà) còn hàng chục năm đầu tư phía trước.
@@ -769,11 +789,17 @@ Thời Graham, nhà đầu tư trái phiếu đối mặt hai lựa chọn cơ b
 
 **Chịu thuế hay miễn thuế?** Trừ khi bạn ở bậc thuế thấp nhất, bạn chỉ nên mua trái phiếu đô thị miễn thuế bên ngoài các tài khoản hưu trí; nếu không, quá nhiều thu nhập trái phiếu sẽ rơi vào tay Sở Thuế Mỹ (IRS). Chỗ duy nhất nên giữ trái phiếu chịu thuế là trong 401(k) hoặc một tài khoản được che chắn thuế khác, nơi bạn không phải nộp thuế hiện hành trên thu nhập; và trái phiếu đô thị không có chỗ trong đó, vì lợi thế thuế của chúng bị lãng phí.
 
-*Chú thích của Zweig (số 6):* năm tính thuế 2003, bậc thuế liên bang thấp nhất áp dụng cho người độc thân thu nhập dưới 28.400 USD hoặc vợ chồng khai thuế chung thu nhập dưới 47.450 USD. *Chú thích của Zweig (số 7):* có các công cụ tính trực tuyến để so thu nhập sau thuế của trái phiếu đô thị và trái phiếu chịu thuế. Để biết một trái phiếu đô thị có hợp với mình không, tìm "lợi suất tương đương chịu thuế" (taxable-equivalent yield) do các công cụ này tính ra, rồi so với lợi suất hiện tại của trái phiếu Kho bạc; nếu lợi suất trái phiếu Kho bạc cao hơn lợi suất tương đương chịu thuế, trái phiếu đô thị không dành cho bạn. Dù sao, cần biết rằng trái phiếu và quỹ trái phiếu đô thị cho thu nhập thấp hơn và dao động giá lớn hơn phần lớn trái phiếu chịu thuế. Thêm nữa, thuế tối thiểu thay thế (alternative minimum tax, AMT), nay đánh vào nhiều người Mỹ thu nhập trung bình, có thể xóa mất lợi thế của trái phiếu đô thị.
+*Chú thích của Zweig (số 6):* năm tính thuế 2003, bậc thuế liên bang thấp nhất áp dụng cho người độc thân thu nhập dưới 28.400 USD hoặc vợ chồng khai thuế chung thu nhập dưới 47.450 USD. *Chú thích của Zweig (số 7):* có các công cụ tính trực tuyến để so thu nhập sau thuế của trái phiếu đô thị và trái phiếu chịu thuế. Để biết một trái phiếu đô thị có hợp với mình không, tìm "lợi suất tương đương chịu thuế" (taxable-equivalent yield) do các công cụ này tính ra, rồi so với lợi suất hiện tại của trái phiếu Kho bạc; nếu lợi suất trái phiếu Kho bạc cao hơn lợi suất tương đương chịu thuế, trái phiếu đô thị không dành cho bạn.
 
-**Ngắn hạn hay dài hạn?** Trái phiếu và lãi suất ngồi ở hai đầu một chiếc bập bênh: lãi suất tăng thì giá trái phiếu giảm, dù trái phiếu ngắn hạn giảm ít hơn nhiều so với trái phiếu dài hạn; lãi suất giảm thì giá trái phiếu tăng, và trái phiếu dài hạn tăng hơn trái phiếu ngắn. Bạn có thể chia đôi khác biệt bằng cách mua trái phiếu trung hạn, đáo hạn sau 5 đến 10 năm: không bay vút khi đầu bập bênh của chúng lên, cũng không đập xuống đất khi đầu đó xuống. Với đa số nhà đầu tư, trái phiếu trung hạn là lựa chọn đơn giản nhất, vì giúp bạn ra khỏi trò đoán lãi suất. *Chú thích của Zweig (số 8):* có các bài nhập môn về trái phiếu của Vanguard và CNN Money; một danh mục "bậc thang" (laddered), nắm trái phiếu ở nhiều kỳ hạn khác nhau, là cách khác để phòng rủi ro lãi suất.
+Dù sao, cần biết rằng trái phiếu và quỹ trái phiếu đô thị cho thu nhập thấp hơn và dao động giá lớn hơn phần lớn trái phiếu chịu thuế. Thêm nữa, thuế tối thiểu thay thế (alternative minimum tax, AMT), nay đánh vào nhiều người Mỹ thu nhập trung bình, có thể xóa mất lợi thế của trái phiếu đô thị.
 
-**Trái phiếu lẻ hay quỹ trái phiếu?** Trái phiếu thường được bán theo lô 10.000 USD, và cần ít nhất 10 trái phiếu để đa dạng hóa rủi ro một trái phiếu vỡ nợ, nên mua trái phiếu lẻ chỉ hợp lý nếu có ít nhất 100.000 USD để đầu tư. (Ngoại lệ duy nhất là trái phiếu do Kho bạc Mỹ phát hành, vì được toàn bộ sức mạnh của chính phủ Mỹ che chắn khỏi vỡ nợ.) Quỹ trái phiếu cho đa dạng hóa dễ và rẻ, cùng sự tiện lợi của thu nhập hằng tháng, có thể tái đầu tư ngay vào quỹ ở mức lãi hiện hành mà không mất hoa hồng. Với đa số nhà đầu tư, quỹ trái phiếu thắng xa trái phiếu lẻ (ngoại lệ chính là chứng khoán Kho bạc và một số trái phiếu đô thị). Các công ty lớn như Vanguard, Fidelity, Schwab và T. Rowe Price có nhiều quỹ trái phiếu chi phí thấp. *Chú thích của Zweig (số 9):* xem trang web của bốn công ty này.
+**Ngắn hạn hay dài hạn?** Trái phiếu và lãi suất ngồi ở hai đầu một chiếc bập bênh: lãi suất tăng thì giá trái phiếu giảm, dù trái phiếu ngắn hạn giảm ít hơn nhiều so với trái phiếu dài hạn; lãi suất giảm thì giá trái phiếu tăng, và trái phiếu dài hạn tăng hơn trái phiếu ngắn.
+
+Bạn có thể chia đôi khác biệt bằng cách mua trái phiếu trung hạn, đáo hạn sau 5 đến 10 năm: không bay vút khi đầu bập bênh của chúng lên, cũng không đập xuống đất khi đầu đó xuống. Với đa số nhà đầu tư, trái phiếu trung hạn là lựa chọn đơn giản nhất, vì giúp bạn ra khỏi trò đoán lãi suất. *Chú thích của Zweig (số 8):* có các bài nhập môn về trái phiếu của Vanguard và CNN Money; một danh mục "bậc thang" (laddered), nắm trái phiếu ở nhiều kỳ hạn khác nhau, là cách khác để phòng rủi ro lãi suất.
+
+**Trái phiếu lẻ hay quỹ trái phiếu?** Trái phiếu thường được bán theo lô 10.000 USD, và cần ít nhất 10 trái phiếu để đa dạng hóa rủi ro một trái phiếu vỡ nợ, nên mua trái phiếu lẻ chỉ hợp lý nếu có ít nhất 100.000 USD để đầu tư. (Ngoại lệ duy nhất là trái phiếu do Kho bạc Mỹ phát hành, vì được toàn bộ sức mạnh của chính phủ Mỹ che chắn khỏi vỡ nợ.)
+
+Quỹ trái phiếu cho đa dạng hóa dễ và rẻ, cùng sự tiện lợi của thu nhập hằng tháng, có thể tái đầu tư ngay vào quỹ ở mức lãi hiện hành mà không mất hoa hồng. Với đa số nhà đầu tư, quỹ trái phiếu thắng xa trái phiếu lẻ (ngoại lệ chính là chứng khoán Kho bạc và một số trái phiếu đô thị). Các công ty lớn như Vanguard, Fidelity, Schwab và T. Rowe Price có nhiều quỹ trái phiếu chi phí thấp. *Chú thích của Zweig (số 9):* xem trang web của bốn công ty này.
 
 Lựa chọn của nhà đầu tư trái phiếu đã sinh sôi như thỏ, nên Zweig cập nhật danh sách của Graham. Tính đến đầu năm 2003, lãi suất đã xuống thấp tới mức nhà đầu tư thiếu lợi suất, nhưng vẫn có cách tăng thu nhập lãi mà không chịu rủi ro quá mức. *Chú thích của Zweig (số 10):* có bản tóm tắt trực tuyến dễ đọc về đầu tư trái phiếu của Hiệp hội Nhà đầu tư Cá nhân Mỹ (AAII).
 
@@ -787,19 +813,31 @@ Từ văn bản và ghi chú, có thể biết bảng so sánh ít nhất các l
 
 Làm sao lấy thêm thu nhập từ tiền mặt? Nhà đầu tư thông minh nên cân nhắc rời chứng chỉ tiền gửi ngân hàng và tài khoản thị trường tiền tệ (gần đây trả lãi rất ít) sang một số lựa chọn tương đương tiền mặt sau.
 
-**Chứng khoán Kho bạc.** Là nghĩa vụ của chính phủ Mỹ, chúng gần như không có rủi ro tín dụng, vì thay vì vỡ nợ, "chú Sam" có thể tăng thuế hoặc in thêm tiền tùy ý. Tín phiếu Kho bạc đáo hạn sau 4, 13 hoặc 26 tuần. Vì kỳ hạn rất ngắn, tín phiếu hầu như không bị tổn hại khi lãi suất tăng làm giá các khoản đầu tư thu nhập cố định khác giảm; nợ Kho bạc dài hạn thì bị thiệt nặng khi lãi suất tăng. Lãi từ chứng khoán Kho bạc thường miễn thuế thu nhập bang (nhưng không miễn thuế liên bang). Với 3.700 tỷ USD nằm trong tay công chúng, thị trường nợ Kho bạc rất lớn, nên dễ tìm người mua nếu cần tiền trước hạn. Có thể mua tín phiếu, trái phiếu ngắn và trái phiếu dài trực tiếp từ chính phủ, không mất phí môi giới, qua trang publicdebt.treas.gov. Về TIPS, trái phiếu Kho bạc được bảo vệ khỏi lạm phát (bản Pháp dịch nhầm thành "CONSEILS"), Zweig dẫn sang bình luận Chương 2; tóm tắt: đó là trái phiếu Kho bạc có vốn gốc được điều chỉnh theo chỉ số giá tiêu dùng, nên giữ được sức mua trước lạm phát.
+**Chứng khoán Kho bạc.** Là nghĩa vụ của chính phủ Mỹ, chúng gần như không có rủi ro tín dụng, vì thay vì vỡ nợ, "chú Sam" có thể tăng thuế hoặc in thêm tiền tùy ý. Tín phiếu Kho bạc đáo hạn sau 4, 13 hoặc 26 tuần. Vì kỳ hạn rất ngắn, tín phiếu hầu như không bị tổn hại khi lãi suất tăng làm giá các khoản đầu tư thu nhập cố định khác giảm; nợ Kho bạc dài hạn thì bị thiệt nặng khi lãi suất tăng.
+
+Lãi từ chứng khoán Kho bạc thường miễn thuế thu nhập bang (nhưng không miễn thuế liên bang). Với 3.700 tỷ USD nằm trong tay công chúng, thị trường nợ Kho bạc rất lớn, nên dễ tìm người mua nếu cần tiền trước hạn. Có thể mua tín phiếu, trái phiếu ngắn và trái phiếu dài trực tiếp từ chính phủ, không mất phí môi giới, qua trang publicdebt.treas.gov. Về TIPS, trái phiếu Kho bạc được bảo vệ khỏi lạm phát (bản Pháp dịch nhầm thành "CONSEILS"), Zweig dẫn sang bình luận Chương 2; tóm tắt: đó là trái phiếu Kho bạc có vốn gốc được điều chỉnh theo chỉ số giá tiêu dùng, nên giữ được sức mua trước lạm phát.
 
 **Trái phiếu tiết kiệm.** Khác tín phiếu Kho bạc, trái phiếu tiết kiệm không chuyển nhượng được: không bán được cho nhà đầu tư khác, và bạn mất 3 tháng lãi nếu rút trong vòng 5 năm. Vì vậy chúng hợp chủ yếu làm "tiền dự trữ" cho một khoản chi tương lai: quà cho một nghi lễ tôn giáo vài năm nữa, hay khoản khởi đầu để đưa đứa con mới sinh vào Harvard. Mệnh giá thấp tới 25 USD, rất hợp làm quà cho cháu. Với người có thể yên tâm để yên tiền mặt trong nhiều năm, trái phiếu I (I-bonds) được bảo vệ khỏi lạm phát gần đây cho lợi suất hấp dẫn khoảng 4% (thông tin ở www.savingsbonds.gov).
 
 #### 5. Ngoài chính phủ Mỹ (Au-delà de l'oncle Sam, PDF trang 102–104)
 
-**Chứng khoán thế chấp.** Được gom từ hàng nghìn khoản vay mua nhà ở Mỹ, các trái phiếu này do các cơ quan như Federal National Mortgage Association ("Fannie Mae") hay Government National Mortgage Association ("Ginnie Mae") phát hành. Zweig viết rằng chúng không được Kho bạc Mỹ bảo đảm nên bán ở lợi suất cao hơn để phản ánh rủi ro lớn hơn (xem khối Lưu ý về Ginnie Mae). Trái phiếu thế chấp thường kém khi lãi suất giảm và bị thiệt nặng khi lãi suất tăng. (Về dài hạn, các dao động này có xu hướng bù trừ, và lợi suất bình quân cao hơn đem lại phần thưởng.) Có quỹ trái phiếu thế chấp tốt ở Vanguard, Fidelity và Pimco. Nhưng nếu người môi giới cố bán cho bạn một trái phiếu thế chấp lẻ hay "CMO" (collateralized mortgage obligation, nghĩa vụ nợ có thế chấp), Zweig đùa, hãy nói bạn đang trễ hẹn với bác sĩ hậu môn – trực tràng, tức là tìm cớ rút lui ngay.
+**Chứng khoán thế chấp.** Được gom từ hàng nghìn khoản vay mua nhà ở Mỹ, các trái phiếu này do các cơ quan như Federal National Mortgage Association ("Fannie Mae") hay Government National Mortgage Association ("Ginnie Mae") phát hành. Zweig viết rằng chúng không được Kho bạc Mỹ bảo đảm nên bán ở lợi suất cao hơn để phản ánh rủi ro lớn hơn (xem mục Lưu ý cuối chương về Ginnie Mae). Trái phiếu thế chấp thường kém khi lãi suất giảm và bị thiệt nặng khi lãi suất tăng. (Về dài hạn, các dao động này có xu hướng bù trừ, và lợi suất bình quân cao hơn đem lại phần thưởng.)
 
-**Niên kim (annuities).** Các khoản đầu tư kiểu bảo hiểm này cho phép hoãn thuế hiện hành và nhận một dòng thu nhập sau khi nghỉ hưu. Niên kim cố định cho lợi suất cố định; niên kim biến đổi cho lợi suất dao động. Nhưng thứ nhà đầu tư phòng thủ thật sự cần phòng là các đại lý bảo hiểm, môi giới chứng khoán và người lập kế hoạch tài chính bán niên kim với chi phí rất cao. Trong phần lớn trường hợp, chi phí cao khi sở hữu niên kim, kể cả "phí rút sớm" (surrender charges) ăn vào khoản rút trước hạn, sẽ lớn hơn lợi ích. Vài niên kim tốt được người ta tự tìm mua, không phải được chào bán; nếu một niên kim tạo hoa hồng lớn cho người bán, rất có thể nó cho kết quả kém cho người mua. Chỉ nên xét loại mua trực tiếp từ nhà cung cấp có chi phí cực thấp như Ameritas, TIAA-CREF và Vanguard. *Chú thích của Zweig (số 11):* nói chung, niên kim biến đổi không hấp dẫn với người dưới 50 tuổi, người dự kiến ở bậc thuế cao khi nghỉ hưu, hoặc người chưa đóng tối đa vào 401(k) hay IRA hiện có. Niên kim cố định (trừ đáng kể là của TIAA-CREF) có thể thay đổi lãi suất "bảo đảm" và bắt bạn trả phí rút sớm khó chịu. Zweig giới thiệu hai bài của Walter Updegrave trên *Money*: "Income for Life" (7/2002) và "Annuity Buyer's Guide" (11/2002).
+Có quỹ trái phiếu thế chấp tốt ở Vanguard, Fidelity và Pimco. Nhưng nếu người môi giới cố bán cho bạn một trái phiếu thế chấp lẻ hay "CMO" (collateralized mortgage obligation, nghĩa vụ nợ có thế chấp), Zweig đùa, hãy nói bạn đang trễ hẹn với bác sĩ hậu môn – trực tràng, tức là tìm cớ rút lui ngay.
 
-**Cổ phiếu ưu đãi.** Đây là khoản đầu tư "tệ nhất của cả hai thế giới". Kém an toàn hơn trái phiếu, vì chỉ có quyền đòi tài sản xếp sau khi công ty phá sản. Ít tiềm năng lãi hơn cổ phiếu phổ thông, vì công ty "gọi về" (mua lại bắt buộc) cổ phiếu ưu đãi khi lãi suất giảm hoặc khi xếp hạng tín nhiệm của công ty được nâng. Khác với tiền lãi của phần lớn trái phiếu, công ty phát hành không được trừ cổ tức ưu đãi khỏi thuế thu nhập doanh nghiệp. Hãy tự hỏi: nếu công ty đủ khỏe để xứng đáng với khoản đầu tư của tôi, tại sao nó trả cổ tức ưu đãi cao thay vì phát hành trái phiếu và được giảm thuế? Câu trả lời có thể là công ty không khỏe, thị trường trái phiếu của nó đã bão hòa, và bạn nên tiếp cận cổ phiếu ưu đãi của nó như tiếp cận một con cá chết để ngoài tủ lạnh.
+**Niên kim (annuities).** Các khoản đầu tư kiểu bảo hiểm này cho phép hoãn thuế hiện hành và nhận một dòng thu nhập sau khi nghỉ hưu. Niên kim cố định cho lợi suất cố định; niên kim biến đổi cho lợi suất dao động. Nhưng thứ nhà đầu tư phòng thủ thật sự cần phòng là các đại lý bảo hiểm, môi giới chứng khoán và người lập kế hoạch tài chính bán niên kim với chi phí rất cao. Trong phần lớn trường hợp, chi phí cao khi sở hữu niên kim, kể cả "phí rút sớm" (surrender charges) ăn vào khoản rút trước hạn, sẽ lớn hơn lợi ích.
 
-**Cổ phiếu phổ thông.** Một lần dùng công cụ lọc cổ phiếu của Yahoo đầu năm 2003 cho thấy 115 cổ phiếu trong chỉ số S&P 500 có tỷ suất cổ tức từ 3,0% trở lên. Không nhà đầu tư thông minh nào, dù khát lợi suất tới đâu, lại mua một cổ phiếu chỉ vì cổ tức; doanh nghiệp và hoạt động của nó phải vững, và giá cổ phiếu phải hợp lý. Nhưng nhờ thị trường giá xuống bắt đầu năm 2000, một số cổ phiếu hàng đầu nay trả nhiều hơn tín phiếu Kho bạc. Vì vậy, ngay cả nhà đầu tư phòng thủ nhất cũng nên nhận ra rằng thêm có chọn lọc cổ phiếu vào một danh mục toàn trái phiếu hoặc chủ yếu trái phiếu có thể tăng cả thu nhập lẫn lợi nhuận tiềm năng. *Chú thích của Zweig (số 12):* về vai trò của cổ tức trong danh mục, xem Chương 19 ([C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md](C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md)).
+Vài niên kim tốt được người ta tự tìm mua, không phải được chào bán; nếu một niên kim tạo hoa hồng lớn cho người bán, rất có thể nó cho kết quả kém cho người mua. Chỉ nên xét loại mua trực tiếp từ nhà cung cấp có chi phí cực thấp như Ameritas, TIAA-CREF và Vanguard.
+
+*Chú thích của Zweig (số 11):* nói chung, niên kim biến đổi không hấp dẫn với người dưới 50 tuổi, người dự kiến ở bậc thuế cao khi nghỉ hưu, hoặc người chưa đóng tối đa vào 401(k) hay IRA hiện có. Niên kim cố định (trừ đáng kể là của TIAA-CREF) có thể thay đổi lãi suất "bảo đảm" và bắt bạn trả phí rút sớm khó chịu. Zweig giới thiệu hai bài của Walter Updegrave trên *Money*: "Income for Life" (7/2002) và "Annuity Buyer's Guide" (11/2002).
+
+**Cổ phiếu ưu đãi.** Đây là khoản đầu tư "tệ nhất của cả hai thế giới". Kém an toàn hơn trái phiếu, vì chỉ có quyền đòi tài sản xếp sau khi công ty phá sản. Ít tiềm năng lãi hơn cổ phiếu phổ thông, vì công ty "gọi về" (mua lại bắt buộc) cổ phiếu ưu đãi khi lãi suất giảm hoặc khi xếp hạng tín nhiệm của công ty được nâng. Khác với tiền lãi của phần lớn trái phiếu, công ty phát hành không được trừ cổ tức ưu đãi khỏi thuế thu nhập doanh nghiệp.
+
+Hãy tự hỏi: nếu công ty đủ khỏe để xứng đáng với khoản đầu tư của tôi, tại sao nó trả cổ tức ưu đãi cao thay vì phát hành trái phiếu và được giảm thuế? Câu trả lời có thể là công ty không khỏe, thị trường trái phiếu của nó đã bão hòa, và bạn nên tiếp cận cổ phiếu ưu đãi của nó như tiếp cận một con cá chết để ngoài tủ lạnh.
+
+**Cổ phiếu phổ thông.** Một lần dùng công cụ lọc cổ phiếu của Yahoo đầu năm 2003 cho thấy 115 cổ phiếu trong chỉ số S&P 500 có tỷ suất cổ tức từ 3,0% trở lên. Không nhà đầu tư thông minh nào, dù khát lợi suất tới đâu, lại mua một cổ phiếu chỉ vì cổ tức; doanh nghiệp và hoạt động của nó phải vững, và giá cổ phiếu phải hợp lý.
+
+Nhưng nhờ thị trường giá xuống bắt đầu năm 2000, một số cổ phiếu hàng đầu nay trả nhiều hơn tín phiếu Kho bạc. Vì vậy, ngay cả nhà đầu tư phòng thủ nhất cũng nên nhận ra rằng thêm có chọn lọc cổ phiếu vào một danh mục toàn trái phiếu hoặc chủ yếu trái phiếu có thể tăng cả thu nhập lẫn lợi nhuận tiềm năng. *Chú thích của Zweig (số 12):* về vai trò của cổ tức trong danh mục, xem Chương 19 ([C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md](C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md)).
 
 ## Luận điểm cốt lõi
 
@@ -849,7 +887,9 @@ Nhà đầu tư phòng thủ, người không muốn hoặc không thể bỏ nh
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương 4 là phiên bản sớm của **phân bổ tài sản chiến lược (strategic asset allocation)** kèm **tái cân bằng theo ngưỡng (threshold rebalancing)** của Graham và **tái cân bằng theo lịch (calendar rebalancing)** của Zweig. Gợi ý của Graham về việc nghiêng giữa 25% và 50% cổ phiếu theo tỷ lệ tỷ suất cổ tức/lợi suất trái phiếu là một dạng **phân bổ tài sản chiến thuật dựa trên định giá (valuation-based tactical allocation)**, gần với ý tưởng so sánh "lợi suất cổ phiếu" và "lợi suất trái phiếu" (về sau hay được gọi là mô hình Fed). Phần trái phiếu xoay quanh **lợi suất sau thuế (after-tax yield)**, **lợi suất tương đương chịu thuế**, **rủi ro lãi suất và thời lượng (duration)**, **rủi ro tín dụng (credit risk)** và **rủi ro bị mua lại trước hạn (call risk)**; Zweig thêm **đặt tài sản theo loại tài khoản (asset location)** (trái phiếu chịu thuế trong tài khoản hưu trí, trái phiếu đô thị bên ngoài), **danh mục bậc thang (bond ladder)** và **rủi ro hành vi (behavioral risk)**: khoảng cách giữa khả năng chịu rủi ro trên giấy và khả năng chịu đựng cảm xúc thật sự.
+Chương 4 là phiên bản sớm của **phân bổ tài sản chiến lược (strategic asset allocation)** kèm **tái cân bằng theo ngưỡng (threshold rebalancing)** của Graham và **tái cân bằng theo lịch (calendar rebalancing)** của Zweig. Gợi ý của Graham về việc nghiêng giữa 25% và 50% cổ phiếu theo tỷ lệ tỷ suất cổ tức/lợi suất trái phiếu là một dạng **phân bổ tài sản chiến thuật dựa trên định giá (valuation-based tactical allocation)**, gần với ý tưởng so sánh "lợi suất cổ phiếu" và "lợi suất trái phiếu" (về sau hay được gọi là mô hình Fed).
+
+Phần trái phiếu xoay quanh **lợi suất sau thuế (after-tax yield)**, **lợi suất tương đương chịu thuế**, **rủi ro lãi suất và thời lượng (duration)**, **rủi ro tín dụng (credit risk)** và **rủi ro bị mua lại trước hạn (call risk)**; Zweig thêm **đặt tài sản theo loại tài khoản (asset location)** (trái phiếu chịu thuế trong tài khoản hưu trí, trái phiếu đô thị bên ngoài), **danh mục bậc thang (bond ladder)** và **rủi ro hành vi (behavioral risk)**: khoảng cách giữa khả năng chịu rủi ro trên giấy và khả năng chịu đựng cảm xúc thật sự.
 
 ## Thuật ngữ
 
@@ -937,7 +977,9 @@ Theo hiểu biết của người tổng hợp, không tra cứu: sau 2003, các
 
 ### Các con số trái phiếu của cả Graham (1972) và Zweig (2003) đã lỗi thời, nhưng logic phép tính vẫn đúng
 
-Lãi suất trái phiếu doanh nghiệp 7–8% năm 1972, mức lãi thấp năm 2003, các loại trái phiếu tiết kiệm series E/H, trái phiếu nhà ở mới và trái phiếu cộng đồng mới, thuế suất doanh nghiệp 48% hay 35%: tất cả đã thay đổi. Theo hiểu biết của người tổng hợp, sau khủng hoảng 2008 lãi suất ở Mỹ gần bằng 0 trong nhiều năm, rồi tăng nhanh trong 2022–2023, và năm 2022 là một trong những năm tệ nhất của trái phiếu dài hạn trong lịch sử hiện đại. Điều này xác nhận đúng cảnh báo của Graham (trái phiếu dài hạn tốt nhất cũng mất giá mạnh khi lãi suất tăng) và hình ảnh bập bênh của Zweig; người giữ kỳ hạn trung bình hoặc ngắn bị thiệt ít hơn nhiều. Cũng năm đó, lợi suất trái phiếu I (I-bonds) tăng rất cao nhờ lạm phát, cho thấy giá trị của loại trái phiếu chống lạm phát mà Zweig giới thiệu.
+Lãi suất trái phiếu doanh nghiệp 7–8% năm 1972, mức lãi thấp năm 2003, các loại trái phiếu tiết kiệm series E/H, trái phiếu nhà ở mới và trái phiếu cộng đồng mới, thuế suất doanh nghiệp 48% hay 35%: tất cả đã thay đổi. Theo hiểu biết của người tổng hợp, sau khủng hoảng 2008 lãi suất ở Mỹ gần bằng 0 trong nhiều năm, rồi tăng nhanh trong 2022–2023, và năm 2022 là một trong những năm tệ nhất của trái phiếu dài hạn trong lịch sử hiện đại.
+
+Điều này xác nhận đúng cảnh báo của Graham (trái phiếu dài hạn tốt nhất cũng mất giá mạnh khi lãi suất tăng) và hình ảnh bập bênh của Zweig; người giữ kỳ hạn trung bình hoặc ngắn bị thiệt ít hơn nhiều. Cũng năm đó, lợi suất trái phiếu I (I-bonds) tăng rất cao nhờ lạm phát, cho thấy giá trị của loại trái phiếu chống lạm phát mà Zweig giới thiệu.
 
 ### Danh mục 50–50 hay 60–40 không phải lúc nào cũng an toàn: cổ phiếu và trái phiếu có thể giảm cùng lúc
 
@@ -945,7 +987,9 @@ Lập luận "tấm đệm trái phiếu" của Graham và Zweig ngầm giả đ
 
 ### Lời cảnh báo về cổ phiếu ưu đãi, CMO và niên kim phí cao vẫn đứng vững, và khủng hoảng 2008 làm rõ thêm rủi ro của chứng khoán thế chấp
 
-Theo hiểu biết của người tổng hợp, chứng khoán thế chấp và các sản phẩm phái sinh dựa trên chúng là trung tâm của khủng hoảng 2008; Fannie Mae và Freddie Mac được chính phủ Mỹ tiếp quản; nhiều ngân hàng phát hành cổ phiếu ưu đãi để vá vốn trong khủng hoảng, và cổ đông ưu đãi của một số tổ chức mất gần hết. Lời khuyên của Zweig (chỉ mua thế chấp qua quỹ đa dạng, tránh CMO lẻ; coi cổ phiếu ưu đãi như "cá chết") tỏ ra thận trọng hợp lý. Tuy vậy, với doanh nghiệp, cổ phiếu ưu đãi vẫn có lợi thế thuế như Graham phân tích, và các cổ phiếu ưu đãi của ngân hàng mua ở giá rất thấp lúc khủng hoảng là đúng loại cơ hội "mua rẻ hoặc đừng mua" Graham nói tới, nhưng dành cho nhà đầu tư năng động.
+Theo hiểu biết của người tổng hợp, chứng khoán thế chấp và các sản phẩm phái sinh dựa trên chúng là trung tâm của khủng hoảng 2008; Fannie Mae và Freddie Mac được chính phủ Mỹ tiếp quản; nhiều ngân hàng phát hành cổ phiếu ưu đãi để vá vốn trong khủng hoảng, và cổ đông ưu đãi của một số tổ chức mất gần hết.
+
+Lời khuyên của Zweig (chỉ mua thế chấp qua quỹ đa dạng, tránh CMO lẻ; coi cổ phiếu ưu đãi như "cá chết") tỏ ra thận trọng hợp lý. Tuy vậy, với doanh nghiệp, cổ phiếu ưu đãi vẫn có lợi thế thuế như Graham phân tích, và các cổ phiếu ưu đãi của ngân hàng mua ở giá rất thấp lúc khủng hoảng là đúng loại cơ hội "mua rẻ hoặc đừng mua" Graham nói tới, nhưng dành cho nhà đầu tư năng động.
 
 ### Quan điểm trái chiều: nhiều người cho rằng người trẻ, thu nhập ổn định có thể giữ nhiều hơn 75% cổ phiếu
 
@@ -953,8 +997,192 @@ Một số nhà kinh tế và người tư vấn lập luận rằng với ngư�
 
 ### Phép tính "điểm mua" của Graham lệch số học, nhưng cách tiếp cận dựa trên định giá vẫn đáng giá
 
-Như đã ghi ở khối Lưu ý, các con số 5,5% và 660 ứng với tỷ lệ khoảng 0,73 chứ không phải 2/3. Lỗi này không làm hỏng ý chính: Graham muốn người phòng thủ chỉ nghiêng về cổ phiếu khi cổ phiếu rẻ tương đối so với trái phiếu, đo bằng một con số khách quan. Theo hiểu biết của người tổng hợp, sau 1972 DJIA thực tế đã giảm xuống dưới 600 trong đợt 1973–1974, nghĩa là "điểm mua" của Graham đã xuất hiện chỉ sau khoảng hai năm, và người giữ 25% cổ phiếu đầu 1972 rồi tăng lên 50% lúc đó sẽ được lợi.
+Như đã ghi ở mục Lưu ý cuối chương, các con số 5,5% và 660 ứng với tỷ lệ khoảng 0,73 chứ không phải 2/3. Lỗi này không làm hỏng ý chính: Graham muốn người phòng thủ chỉ nghiêng về cổ phiếu khi cổ phiếu rẻ tương đối so với trái phiếu, đo bằng một con số khách quan. Theo hiểu biết của người tổng hợp, sau 1972 DJIA thực tế đã giảm xuống dưới 600 trong đợt 1973–1974, nghĩa là "điểm mua" của Graham đã xuất hiện chỉ sau khoảng hai năm, và người giữ 25% cổ phiếu đầu 1972 rồi tăng lên 50% lúc đó sẽ được lợi.
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Bài học có thể dùng ở mọi thị trường: (1) quyết định trước tỷ lệ cổ phiếu, trong khoảng 25%–75%, dựa trên hoàn cảnh sống (thu nhập ổn định đến đâu, có khoản chi lớn nào sắp tới, có người phụ thuộc không) và việc mình đã từng chịu nổi một đợt giảm sâu chưa; (2) luôn giữ một phần tiền mặt cho biến cố; (3) tái cân bằng theo lịch hoặc theo ngưỡng, không theo tin đồn; (4) với phần thu nhập cố định, ưu tiên công cụ an toàn và dễ rút (tiền gửi kỳ hạn ở ngân hàng uy tín, trái phiếu chính phủ, quỹ trái phiếu chi phí thấp) hơn trái phiếu doanh nghiệp lợi suất cao mà mình không phân tích nổi; (5) cảnh giác với sản phẩm được chào bán kèm hoa hồng cao, như một số hợp đồng bảo hiểm liên kết đầu tư, đúng như cảnh báo của Zweig về niên kim; (6) tính tới thuế và phí trước khi so lợi suất. Ở mức định tính, những thị trường mà trái phiếu doanh nghiệp bán lẻ từng gặp sự cố vỡ nợ hoặc chậm trả cho thấy lời Graham "nhà đầu tư bình thường nên tránh trái phiếu lợi suất cao" vẫn còn nguyên giá trị.
+Bài học có thể dùng ở mọi thị trường:
+- quyết định trước tỷ lệ cổ phiếu, trong khoảng 25%–75%, dựa trên hoàn cảnh sống (thu nhập ổn định đến đâu, có khoản chi lớn nào sắp tới, có người phụ thuộc không) và việc mình đã từng chịu nổi một đợt giảm sâu chưa;
+- luôn giữ một phần tiền mặt cho biến cố;
+- tái cân bằng theo lịch hoặc theo ngưỡng, không theo tin đồn;
+- với phần thu nhập cố định, ưu tiên công cụ an toàn và dễ rút (tiền gửi kỳ hạn ở ngân hàng uy tín, trái phiếu chính phủ, quỹ trái phiếu chi phí thấp) hơn trái phiếu doanh nghiệp lợi suất cao mà mình không phân tích nổi;
+- cảnh giác với sản phẩm được chào bán kèm hoa hồng cao, như một số hợp đồng bảo hiểm liên kết đầu tư, đúng như cảnh báo của Zweig về niên kim;
+- tính tới thuế và phí trước khi so lợi suất.
+
+Ở mức định tính, những thị trường mà trái phiếu doanh nghiệp bán lẻ từng gặp sự cố vỡ nợ hoặc chậm trả cho thấy lời Graham "nhà đầu tư bình thường nên tránh trái phiếu lợi suất cao" vẫn còn nguyên giá trị.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết, bốn nhánh cho Phần A (chương của Graham: Mục 1–2 về chia tiền giữa trái phiếu và cổ phiếu, Mục 3 về chọn trái phiếu năm 1972, Mục 4–7 về trái phiếu lợi suất cao, tiền gửi và điều khoản gọi về, Mục 8–9 về cổ phiếu ưu đãi và trái phiếu thu nhập) và hai nhánh cho Phần B (bình luận của Zweig: Mục 1–2 về chủ động hay thụ động và tỷ lệ theo hoàn cảnh sống, Mục 3–5 về danh sách thu nhập cố định năm 2003), mỗi nhánh ghi quy tắc, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: lợi nhuận nên nhắm tới đi theo công sức thông minh bỏ ra, không theo rủi ro dám chịu`"]
+  n1["`Phần A, Mục 1–2 (Graham) — Chia tiền giữa trái phiếu và cổ phiếu`"]
+  n0 --- n1
+  n2["`Nhà đầu tư phòng thủ nhận lợi nhuận tối thiểu, đổi lấy an toàn và không phải bận tâm`"]
+  n1 --- n2
+  n3["`Câu năm 1965: cổ phiếu giá hời nhiều khi ít rủi ro thật hơn trái phiếu lãi 4,5%`"]
+  n1 --- n3
+  n4["`Cổ phiếu không bao giờ dưới 25% hay trên 75%, mức chuẩn là chia đều 50–50`"]
+  n1 --- n4
+  n5["`Công thức 50–50: cổ phiếu lên 55% thì bán 1/11 cổ phiếu, xuống 45% thì lấy 1/11 trái phiếu mua cổ phiếu`"]
+  n1 --- n5
+  n6["`Bán khi giá cao, mua khi giá thấp đi ngược bản tính con người, quỹ cân bằng từ 1949 gần như giữ nguyên tỷ lệ`"]
+  n1 --- n6
+  n7["`Đầu năm 1972 khuyên không quá 50% cổ phiếu, trừ khi bình thản trước đợt sụt kiểu 1969–1970`"]
+  n1 --- n7
+  n8["`Yale từ 1937 giữ chuẩn 35% cổ phiếu, bỏ công thức, năm 1969 giữ 61%, 71 quỹ hiến tặng giữ 60,3%`"]
+  n1 --- n8
+  n9["`Người lạnh lùng có thể giữ 25% cổ phiếu, chờ tỷ suất cổ tức DJIA bằng khoảng 2/3 lãi trái phiếu`"]
+  n1 --- n9
+  n10["`DJIA 900, cổ tức 36 USD (4%) so với trái phiếu 7,5%: cần lãi xuống khoảng 5,5% hoặc DJIA khoảng 660`"]
+  n9 --- n10
+  n11["`Đúng tỷ lệ 2/3 phải là 6% hoặc DJIA 720, số của Graham ứng với tỷ lệ khoảng 0,73`"]
+  n9 --- n11
+  n12["`Khó nhất không phải tính toán mà là chọn kế hoạch và giữ đúng nó`"]
+  n1 --- n12
+  n13["`Phần A, Mục 3 (Graham) — Chọn trái phiếu năm 1972`"]
+  n0 --- n13
+  n14["`Hai câu hỏi: chịu thuế hay miễn thuế, kỳ hạn dài hay ngắn`"]
+  n13 --- n14
+  n15["`Trái phiếu đô thị 5,3% so với doanh nghiệp Aa 7,5%, chênh khoảng 30%: bậc thuế trên 30% thì chọn đô thị`"]
+  n13 --- n15
+  n16["`Có không quá 10.000 USD cho trái phiếu: trái phiếu tiết kiệm Mỹ là lựa chọn dễ và tốt nhất`"]
+  n13 --- n16
+  n17["`Series E mua ở 75% mệnh giá, nhận 100% sau 5 năm 10 tháng, lợi suất 5%`"]
+  n16 --- n17
+  n18["`Rút được bất cứ lúc nào không mất gốc, hoãn thuế tăng lợi suất ròng tới 1/3`"]
+  n16 --- n18
+  n19["`Trái phiếu chính phủ Mỹ cuối 1971: dài hạn 6,09%, trung hạn 6,35%, ngắn hạn 6,03%`"]
+  n13 --- n19
+  n20["`Chứng chỉ Penn Central do Bộ Giao thông bảo lãnh cho 7,05%, cao hơn 1 điểm % nhờ trần nợ của Quốc hội`"]
+  n13 --- n20
+  n21["`Trái phiếu đô thị chỉ chọn ba hạng cao nhất Aaa, Aa, A của Moody's hoặc S#amp;P`"]
+  n13 --- n21
+  n22["`Trái phiếu doanh nghiệp đầu 1972: hạng Aaa kỳ hạn 25 năm cho 7,19%, hạng Baa cho 8,23%`"]
+  n13 --- n22
+  n23["`Phần A, Mục 4–7 (Graham) — Lợi suất cao, tiền gửi và điều khoản gọi về`"]
+  n0 --- n23
+  n24["`Trái phiếu hạng thấp: cả nhóm nhỉnh hơn nhưng từng trái phiếu dễ sụt giá, vỡ nợ, nên tránh`"]
+  n23 --- n24
+  n25["`Trái phiếu nhà ở mới 5,8% miễn thuế và cộng đồng mới 7,60% có đủ uy tín và tín dụng chính phủ Mỹ`"]
+  n23 --- n25
+  n26["`Tiền gửi tiết kiệm, chứng chỉ tiền gửi có thể thay trái phiếu ngắn hạn`"]
+  n23 --- n26
+  n27["`Điều khoản gọi về: người mua chịu trọn bất lợi, gần như không hưởng phần có lợi`"]
+  n23 --- n27
+  n28["`American Gas #amp; Electric 5%: giá 101 năm 1928, 62,5 năm 1932, đáng gần 160 nhưng bị gọi về ở 106 năm 1946`"]
+  n23 --- n28
+  n29["`Chịu mất chút lợi suất để không bị gọi về 20–25 năm, trái phiếu 3,5% giá 63,5 cho lợi suất 7,85%`"]
+  n23 --- n29
+  n30["`Phần A, Mục 8–9 (Graham) — Cổ phiếu ưu đãi và trái phiếu thu nhập`"]
+  n0 --- n30
+  n31["`Cổ phiếu ưu đãi tốt là tốt bất chấp hình thức đầu tư, vốn về bản chất là xấu`"]
+  n30 --- n31
+  n32["`Không có quyền đòi nợ của chủ trái phiếu, cũng không có phần lãi của cổ đông phổ thông`"]
+  n30 --- n32
+  n33["`Chỉ mua khi giá bị đè thấp bất hợp lý: mua rẻ hoặc đừng mua`"]
+  n30 --- n33
+  n34["`Doanh nghiệp năm 1972 chịu 7,20 USD thuế trên 100 USD cổ tức ưu đãi, 48 USD trên 100 USD tiền lãi`"]
+  n30 --- n34
+  n35["`Trái phiếu thu nhập chỉ trả lãi khi có lãi, lãi được trừ thuế nên chi phí vốn giảm khoảng một nửa`"]
+  n30 --- n35
+  n36["`Phố Wall nhận cổ phiếu ưu đãi yếu mà bác trái phiếu thu nhập mạnh hơn vì bám định kiến`"]
+  n30 --- n36
+  n37["`Phần B, Mục 1–2 (Zweig) — Chủ động hay thụ động, tỷ lệ theo hoàn cảnh sống`"]
+  n0 --- n37
+  n38["`Charles Ellis: cách năng động vất vả về thể chất và trí óc, cách phòng thủ vất vả về cảm xúc`"]
+  n37 --- n38
+  n39["`Rủi ro tài chính nằm cả trong chính bạn, không chỉ trong nền kinh tế hay khoản đầu tư`"]
+  n37 --- n39
+  n40["`Graham không nhắc tới tuổi, quy tắc 100 trừ tuổi cho người 28 tuổi 72% cổ phiếu`"]
+  n37 --- n40
+  n41["`Bà cụ 89 tuổi có 3 triệu USD và lương hưu chuyển phần lớn sang trái phiếu là dại`"]
+  n40 --- n41
+  n42["`Chàng trai 25 tuổi dành tiền cưới vợ, mua nhà không nên dồn hết vào cổ phiếu`"]
+  n40 --- n42
+  n43["`Ai cũng có thể cần rút tiền sau 40 phút, không phải sau 40 năm, nên phải giữ một phần tiền mặt`"]
+  n37 --- n43
+  n44["`Tối thiểu 25% trái phiếu là tấm đệm giúp đủ can đảm giữ cổ phiếu khi giá sụt`"]
+  n37 --- n44
+  n45["`Tái cân bằng mỗi 6 tháng: 70–30 thành 74,5% cổ phiếu sau khi cổ phiếu tăng 25%, bán về 70–30`"]
+  n37 --- n45
+  n46["`100% cổ phiếu chỉ khi đủ tiền sống 1 năm, đầu tư 20 năm và đã mua thêm trong đợt giá xuống từ 2000`"]
+  n37 --- n46
+  n47["`Phần B, Mục 3–5 (Zweig) — Danh sách thu nhập cố định năm 2003`"]
+  n0 --- n47
+  n48["`Ngoài tài khoản hưu trí chỉ mua trái phiếu đô thị, trừ khi ở bậc thuế thấp nhất`"]
+  n47 --- n48
+  n49["`Kỳ hạn trung bình 5–10 năm để khỏi phải đoán lãi suất`"]
+  n47 --- n49
+  n50["`Dưới 100.000 USD dùng quỹ trái phiếu chi phí thấp thay vì mua trái phiếu lẻ`"]
+  n47 --- n50
+  n51["`Tín phiếu Kho bạc 4, 13, 26 tuần gần như không rủi ro, I-bonds chống lạm phát cho khoảng 4%`"]
+  n47 --- n51
+  n52["`Chứng khoán thế chấp chỉ mua qua quỹ, từ chối CMO bán lẻ`"]
+  n47 --- n52
+  n53["`Niên kim tốt được người ta tìm mua chứ không được chào bán, phí cao thường lớn hơn lợi ích`"]
+  n47 --- n53
+  n54["`Cổ phiếu ưu đãi là tệ nhất của cả hai thế giới, tránh như cá chết để ngoài tủ lạnh`"]
+  n47 --- n54
+  n55["`Đầu 2003 có 115 cổ phiếu S#amp;P 500 có tỷ suất cổ tức từ 3%, nhưng không mua chỉ vì cổ tức`"]
+  n47 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Thay sự phỏng đoán bằng kỷ luật: đặt tỷ lệ mục tiêu, chỉ đổi khi hoàn cảnh sống đổi`"]
+  n56 --- n57
+  n58["`Chọn điều khoản bảo vệ người mua và tính thuế, phí trước khi so lợi suất`"]
+  n56 --- n58
+  n59["`Ai hoảng loạn trong đợt giá xuống vừa rồi sẽ hoảng loạn trong lần tới`"]
+  n56 --- n59
+  class n0 root
+  class n1,n13,n23,n30,n37,n47,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 4 "Politique générale du portefeuille: l'investisseur défensif" (PDF trang 82–94) và "Commentaire sur le chapitre 4" (PDF trang 94–104).
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972, ấn bản thứ tư xuất bản 1973); bình luận: Jason Zweig, cây bút chuyên mục của tạp chí *Money* (2003).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) đã phân biệt đầu tư với đầu cơ và phác qua chính sách của hai loại nhà đầu tư. Chương 2 ([C02-nha-dau-tu-va-lam-phat.md](C02-nha-dau-tu-va-lam-phat.md)) kết luận rằng vì không biết trước tương lai, nhà đầu tư không được dồn hết tiền vào trái phiếu (sợ lạm phát) cũng không dồn hết vào cổ phiếu (sợ giá quá cao), mà phải chia ra hai phần. Chương 3 ([C03-mot-the-ky-lich-su-thi-truong-chung-khoan.md](C03-mot-the-ky-lich-su-thi-truong-chung-khoan.md)) cho thấy mức giá thị trường đầu năm 1972 (DJIA khoảng 900) đã cao.
+
+Chương 4 biến các kết luận đó thành một quy tắc cụ thể cho **nhà đầu tư phòng thủ**: chia tiền giữa trái phiếu chất lượng cao và cổ phiếu chất lượng cao theo tỷ lệ từ 25% đến 75%, chuẩn là 50–50, rồi đi qua từng loại trái phiếu và cổ phiếu ưu đãi mà người đó nên hoặc không nên mua.
+
+Chương 5 ([C05-nha-dau-tu-phong-thu-va-co-phieu.md](C05-nha-dau-tu-phong-thu-va-co-phieu.md)) xử lý nửa còn lại là phần cổ phiếu phổ thông; Chương 6 ([C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md)) chuyển sang nhà đầu tư năng động; Chương 8 ([C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)) bàn tiếp chuyện chọn trái phiếu dài hay ngắn hạn và biến động giá trái phiếu; Chương 16 ([C16-chung-khoan-chuyen-doi-va-chung-quyen.md](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) bàn chứng khoán chuyển đổi.
+
+## Lưu ý
+
+- **Bản dịch máy lệch nghĩa ở nhiều chỗ quan trọng:**
+  - tiêu đề "Le problème fondamental de l'allocation d'obligations" (nghĩa đen "vấn đề cơ bản của việc phân bổ trái phiếu") thực ra là "vấn đề cơ bản của việc phân bổ giữa trái phiếu và cổ phiếu" (*The Basic Problem of Bond-Stock Allocation*)
+  - "question de négocier" là "cổ phiếu giá hời" (*bargain issue*)
+  - "émissions préférentielles non imposables" không phải cổ phiếu ưu đãi mà là "trái phiếu miễn thuế hạng tốt nhất" (*prime tax-free issues*)
+  - "émissions d'épargne américaines" là "trái phiếu tiết kiệm Mỹ"
+  - "Une fusion de ces émissions" nghĩa là "có rất nhiều loại trái phiếu như thế"
+  - "ont cédé 7,19%" nghĩa là "cho lợi suất 7,19%"
+  - "Problèmes convertibles" là "chứng khoán chuyển đổi" (*Convertible Issues*)
+  - "Dispositions d'appel" là "điều khoản mua lại trước hạn" (*Call Provisions*)
+  - "Formulaires de sécurité" là "các hình thức chứng khoán" (*Security Forms*)
+  - "têtes que je gagne, queues que vous perdez" là thành ngữ "sấp thì tôi thắng, ngửa thì anh thua" (*heads I win, tails you lose*)
+  - "45/6 prochaines années" là "4 năm 5/6 tiếp theo"
+- Trong bình luận của Zweig: dòng mở đầu "H votre portefeuille devrait être agressif OW?" là câu "Danh mục của bạn nên mạo hiểm tới mức nào?" bị lỗi chữ hoa đầu đoạn (*How aggressive should your portfolio be?*); "CONSEILS protégés contre l'inflation" là **TIPS** (trái phiếu Kho bạc Mỹ bảo vệ khỏi lạm phát) bị dịch máy thành "lời khuyên" (*tips*); "stocks" nhiều chỗ nghĩa là cổ phiếu; "Stock préféré" là cổ phiếu ưu đãi; "sept" ở cuối câu về thuế là chú thích số 7; "évitez surtout les actions" nghĩa là "chủ yếu tránh cổ phiếu" (giữ phần lớn ở trái phiếu và tiền mặt).
+- Bản tiếng Pháp **mất một câu** trong bình luận của Zweig: sau "il ne mentionne jamais le mot «âge»" chỉ còn mẩu "prendre dépend principalement de votre âge". Theo ngữ cảnh, câu bị mất nói rằng điều này đi ngược quan niệm thông thường, theo đó mức rủi ro bạn nên chấp nhận phụ thuộc chủ yếu vào tuổi.
+- Câu "Depuis 2003, les taux d'intérêt sont tombés si bas" ("từ năm 2003 lãi suất đã giảm thấp tới mức...") dễ gây hiểu nhầm: Zweig viết năm 2003, nên ý đúng là "tính đến đầu năm 2003, lãi suất đã xuống thấp tới mức...".
+- Câu về trái phiếu thế chấp "sous-performent ... lorsque les taux d'intérêt baissent et explosent lorsque les taux augmentent": chữ "explosent" ở đây nghĩa là "bị thiệt hại nặng" (*blow up*), không phải "tăng vọt". Zweig cũng viết rằng các trái phiếu này không được Kho bạc Mỹ bảo lãnh; theo hiểu biết của người tổng hợp, không tra cứu, chứng khoán của Ginnie Mae thực ra có bảo lãnh "đầy đủ uy tín và tín dụng" của chính phủ Mỹ, còn của Fannie Mae thì không (cho tới khi Fannie Mae được chính phủ tiếp quản năm 2008).
+- Ví dụ trái phiếu Gas & Electric bị dịch sai thành "débentures américaines à 5 ans à 100%" (trái phiếu 5 năm). Theo hiểu biết của người tổng hợp về bản tiếng Anh, đây là trái phiếu lãi suất 5% của công ty American Gas & Electric, đáo hạn năm 2028 (kỳ hạn khoảng 100 năm), bán năm 1928 ở giá 101. Chỉ một trái phiếu dài hạn như vậy mới có thể đạt giá gần 160 khi lãi suất thị trường xuống 3%, nên cách hiểu "5 năm" chắc chắn sai.
+- **Phép tính của Graham về "điểm mua" không khớp đúng tỷ lệ hai phần ba:** DJIA 900 với cổ tức 36 USD cho tỷ suất 4%. Để 4% bằng 2/3 lãi suất trái phiếu, lãi suất trái phiếu phải xuống 6% (không phải "khoảng 5,5%"); nếu lãi suất trái phiếu giữ 7,5% thì tỷ suất cổ tức cần là 5%, tức DJIA phải xuống 720 (không phải 660). Hai con số 5,5% và 660 của Graham nhất quán với nhau nhưng ứng với tỷ lệ khoảng 0,73 chứ không phải 0,67. Ý tưởng không đổi, chỉ số học lệch.
+- **Lỗi số trong chú thích của Zweig về thuế cổ phiếu ưu đãi:** Zweig viết doanh nghiệp được khấu trừ 70% cổ tức nhận được, thuế suất 35%, nên trả "khoảng 24,50 USD" thuế trên 100 USD cổ tức ưu đãi. Nếu được khấu trừ 70% thì chỉ 30 USD bị tính thuế, thuế là 10,50 USD; 24,50 USD là số thuế khi 70% (chứ không phải 30%) bị tính thuế. Kết luận của Zweig (cổ phiếu ưu đãi có lợi thế thuế cho doanh nghiệp) vẫn đúng, thậm chí mạnh hơn.
+- Bảng **FIGURE 4-1 "Le vaste monde des obligations"** (Thế giới rộng lớn của trái phiếu, PDF trang 101) **bị trống trong bản PDF**: chỉ còn tiêu đề, dòng nguồn và phần ghi chú; toàn bộ thân bảng không có trên ảnh trang. Bản tổng hợp chỉ chép được phần ghi chú và nội dung Zweig nói trong văn bản; không dựng lại số liệu của bảng.
+- Chú thích số 1 của Graham (về trái phiếu miễn thuế lợi suất cao hơn) bản tiếng Pháp bỏ mất tên loại chứng khoán, chỉ còn "một sản phẩm tương đối mới trong các phát minh tài chính". Theo hiểu biết của người tổng hợp, không tra cứu, bản tiếng Anh nói đến trái phiếu doanh thu công nghiệp (*Industrial Revenue Bonds*).
+- Các chỗ dẫn trang của bản tiếng Anh mà PDF không có: Zweig dẫn "l'encadré à la p. 105" (chính là khung "Pourquoi pas 100% stocks?" ở PDF trang 98) và "la conclusion de Graham au chapitre 2, p. 56-57" (phần Kết luận của Chương 2, PDF trang 57).
+- **Số liệu đã lỗi thời** (theo hiểu biết của người tổng hợp, không tra cứu): các mức lãi suất 1971–1972 (trái phiếu doanh nghiệp 7–8%) và 2003 (lãi suất rất thấp) đều đã thay đổi nhiều lần; trái phiếu tiết kiệm series E và H đã ngừng phát hành từ lâu (thay bằng series EE, I); thuế suất doanh nghiệp Mỹ 48% (1972) và 35% (2003) nay là 21% từ 2018, tỷ lệ khấu trừ cổ tức cũng đã giảm; từ giữa năm 2003, cá nhân ở Mỹ được hưởng thuế suất thấp hơn trên cổ tức "đủ điều kiện", nên câu của Graham và Zweig "cá nhân chịu thuế cổ tức như thuế lãi" không còn đúng hoàn toàn; mức bảo hiểm tiền gửi FDIC đã tăng từ 100.000 USD lên 250.000 USD; trang publicdebt.treas.gov nay là TreasuryDirect.

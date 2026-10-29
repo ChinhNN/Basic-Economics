@@ -1,22 +1,22 @@
 # Chương 6 — Chính sách danh mục cho nhà đầu tư năng động: những điều nên tránh (Politique de portefeuille pour l'investisseur entreprenant: approche négative)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 6 "Politique de portefeuille pour l'investisseur entreprenant: approche négative" (PDF trang 121–131) và "Commentaire sur le chapitre 6" (PDF trang 131–139). Chú thích của Graham cho chương này nằm ở PDF trang 483; chú thích của Zweig nằm ở PDF trang 605–609.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972, trong đó có những đoạn Graham giữ nguyên từ các ấn bản 1959 và 1965); bình luận: Jason Zweig, nhà báo tài chính của tạp chí *Money* (2003).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 ([C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)) và Chương 5 ([C05-nha-dau-tu-phong-thu-va-co-phieu.md](C05-nha-dau-tu-phong-thu-va-co-phieu.md)) đã dựng xong danh mục của nhà đầu tư phòng thủ: chia tiền giữa trái phiếu chất lượng cao và cổ phiếu lớn, vững, mua ở giá hợp lý. Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) đã định nghĩa nhà đầu tư năng động là người sẵn sàng bỏ nhiều thời gian và công sức, chứ không phải người chấp nhận nhiều rủi ro hơn. Chương 6 là nửa đầu của phần dành cho nhà đầu tư năng động, và là nửa "tiêu cực": trước khi nói nên làm gì, Graham liệt kê những loại chứng khoán người năng động nên tránh — trái phiếu và cổ phiếu ưu đãi hạng hai mua ở giá đầy đủ, trái phiếu chính phủ nước ngoài, và các đợt phát hành mới, nhất là cổ phiếu của công ty nhỏ lần đầu ra công chúng trong thị trường giá lên. Chương 7 ([C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md](C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md)) sẽ nói phần "tích cực": những việc nhà đầu tư năng động có thể làm (mua khi thị trường thấp, cổ phiếu giá hời, tình huống đặc biệt...). Ví dụ AAA Enterprises được nhắc ở cuối chương sẽ được phân tích kỹ ở Chương 17 ([C17-bon-truong-hop-dang-hoc.md](C17-bon-truong-hop-dang-hoc.md)); trường hợp Aetna Maintenance được kể đầy đủ ở Phụ lục 5 ([PL2-7-cac-phu-luc-khac.md](PL2-7-cac-phu-luc-khac.md)).
-**Ý chính:** Graham muốn người đọc hiểu rằng **với nhà đầu tư năng động, những lời khuyên hữu ích nhất là những điều không nên làm, và điều cốt lõi là không bao giờ chấp nhận rủi ro mất một phần vốn gốc chỉ để đổi lấy thêm 1–2% thu nhập mỗi năm**. Nếu đã chấp nhận rủi ro thì phải có cơ hội lãi vốn thật lớn, nghĩa là phải mua ở giá chiết khấu sâu (khoảng 70 hoặc thấp hơn cho trái phiếu mệnh giá 100), chứ không mua ở giá gần 100. Ví dụ trung tâm: mười trái phiếu thu nhập (income bonds) của các công ty đường sắt, tất cả đều bán từ 96 trở lên năm 1946 với giá cao nhất trung bình 102,5, chỉ một năm sau đã xuống mức thấp trung bình 68 — mất một phần ba giá trị — dù ngành đường sắt năm 1947 kiếm được nhiều hơn năm 1946; người mua chỉ được lợi thêm 1,75% lợi suất mỗi năm (4,25% so với 2,50% của trái phiếu hạng nhất). Cùng lô-gic đó áp dụng cho trái phiếu nước ngoài (trái phiếu 8% của Tiệp Khắc đi từ 96,5 năm 1922 lên 117 năm 1946 rồi còn 8 năm 1970; chủ nợ nước ngoài không có cách nào đòi nợ) và cho các đợt phát hành mới: chúng được bán bằng nỗ lực tiếp thị đặc biệt và vào lúc thị trường thuận lợi cho người bán, nên bất lợi cho người mua; cổ phiếu phát hành lần đầu của công ty nhỏ trong cơn sốt 1960–1962 và 1967–1969 thường mất 75% giá trở lên (Aetna Maintenance: bán 9 USD năm 1961, xuống 7/8 USD năm 1964; AAA Enterprises: bán 14 USD năm 1968, xuống 25 xu năm 1971 khi đã phá sản).
-Zweig, viết năm 2003, bổ sung rằng **điều bạn không làm quan trọng ngang điều bạn làm**, rồi đưa ra danh sách "không nên" cho thời nay. Trái phiếu rác (junk bonds) nay có thể đa dạng hoá qua hơn 130 quỹ, nhưng phí cao và chỉ là lựa chọn phụ; vụ WorldCom bán 11,9 tỷ USD trái phiếu năm 2001 với lợi suất tới 8,3% rồi phá sản năm 2002 (trái phiếu mất hơn 80%) cho thấy mua trái phiếu chỉ vì lợi suất là sai. Trái phiếu thị trường mới nổi chỉ nên chiếm tối đa 10% phần trái phiếu. Giao dịch trong ngày (day trading) và mua bán nhiều là tự sát tài chính: nghiên cứu của Barber và Odean trên 66.000 tài khoản cho thấy nhóm giao dịch nhiều nhất thua thị trường 6,4 điểm phần trăm mỗi năm sau chi phí. Mua cổ phiếu IPO là ảo tưởng: IPO trung bình 1980–2001 mua ở giá đóng cửa ngày đầu và giữ ba năm thua thị trường hơn 23 điểm phần trăm mỗi năm; VA Linux được định giá 12,7 tỷ USD trong ngày đầu (tăng 697,5%) dù cộng dồn mới bán được 44 triệu USD và lỗ 25 triệu USD, và ba năm sau chỉ còn 1,19 USD mỗi cổ phiếu.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bản dịch máy lệch nghĩa ở nhiều chỗ ảnh hưởng tới nội dung:** "acheteurs d'entreprises" nghĩa là *người mua là doanh nghiệp* (corporate buyers), không phải "người mua doanh nghiệp"; "émissions de deuxième année" là lỗi của "émissions de deuxième catégorie" (chứng khoán hạng hai); "obligations obligataires à revenu" là *trái phiếu thu nhập* (income bonds); "option privilégiée" ở PDF trang 123 phải hiểu là *cổ phiếu ưu đãi*; "devis" là *giá yết*; "Le même problème à 70 ans" nghĩa là *cùng chứng khoán đó ở giá 70*, không phải "70 năm"; "7 grecs à 30 ans" là *trái phiếu 7% của Hy Lạp ở giá 30*; "divers numéros de la Pologne" là *nhiều loại trái phiếu của Ba Lan*; "Nouveaux problèmes en général" là *Các đợt phát hành mới nói chung* ("problème" là dịch sai của *issue*, ở đây nghĩa là "đợt phát hành/chứng khoán"); "qualité de vente" là *nỗ lực bán hàng* (salesmanship); "période de «jurer»" là giai đoạn *thề chừa* (sau khi bị thiệt, công chúng thề không mua nữa); "commerçants" trong bình luận là *người giao dịch* (traders); "rendement en matières grasses" là *lợi suất béo bở*; "par une moustache" là *sát nút, hơn chút xíu*.
-> - **Một câu bị dịch ngược nghĩa:** ở mục "Le portefeuille Vodka-et-Burrito", bản Pháp viết Graham coi trái phiếu nước ngoài là "một cửa cược tốt hơn" trái phiếu rác. Theo nội dung chương (Graham cảnh báo cả hai) và theo hiểu biết của người tổng hợp về bản tiếng Anh, Zweig viết rằng Graham coi trái phiếu nước ngoài **không tốt hơn** trái phiếu rác. Bản tổng hợp theo nghĩa này.
-> - **Lỗi số "533 milliards":** bản Pháp ghi danh mục IPO giả định của Ritter và Schwert đạt "plus de 533 milliards de dollars" (533 tỷ USD), nhưng ngay dòng dưới in con số 533 kèm 33 chữ số 0, tức 533 × 10^33 USD (bản tiếng Anh dùng chữ *decillion*). Con số đúng là con số khổng lồ 533 × 10^33; "milliards" là lỗi dịch.
-> - **Các chỗ số liệu không khớp nhau trong sách:** (1) VA Linux đóng cửa ngày đầu ở 239,25 USD (PDF trang 137) nhưng chú giải Hình 6-2 ghi 239,50 USD; mức tăng 697,5% khớp với 239,25 (239,25 / 30 = 7,975 lần). (2) Aetna Maintenance: chương này ghi giá năm 1962 là 2 3/8, Phụ lục 5 ghi 2 2/3. (3) AAA Enterprises: chương này ghi bán ra công chúng ở 14 USD năm 1968, Chương 17 ghi 13 USD vào tháng 3/1969. (4) "Cities Service ... à 27% en 1943" trong chú thích 2 của Graham: dấu "%" gần như chắc chắn là lỗi chuyển phân số; đó là giá khoảng 27 USD mỗi cổ phiếu.
-> - **Chỗ dịch "70 xu trên mỗi đô la đầu tư":** VA Linux quý gần nhất có doanh thu 15 triệu USD và lỗ 10 triệu USD, tức lỗ gần 70 xu (10/15 ≈ 67%) trên mỗi đô la **doanh thu**, không phải "mỗi đô la đầu tư" như bản Pháp.
-> - **Ba chữ viết tắt IPO ở cuối bình luận:** Zweig chơi chữ với bốn cụm tiếng Anh đều viết tắt là I-P-O (*It's Probably Overpriced*; *Imaginary Profits Only*; *Insiders' Private Opportunity*; *Idiotic, Preposterous, and Outrageous* — theo hiểu biết của người tổng hợp). Bản Pháp dịch nghĩa nên mất trò chơi chữ.
-> - **Hình 6-1 và Hình 6-2 bị trống trong bản PDF:** ảnh trang PDF 135–136 và 138 chỉ còn tiêu đề và chú giải, không có biểu đồ. Bản tổng hợp chỉ chép được những gì chữ nói. Theo hiểu biết của người tổng hợp (không tra cứu), bài nghiên cứu gốc của Barber và Odean (giai đoạn 1991–1996) cho biết nhóm 20% hộ gia đình giao dịch nhiều nhất chỉ đạt khoảng 11,4%/năm sau chi phí, trong khi thị trường đạt khoảng 17,9%/năm; đây là thông tin ngoài sách.
-> - **Số liệu đã cũ:** lợi suất 7,25% (trái phiếu doanh nghiệp hạng cao) và 5,30% (trái phiếu miễn thuế) là cuối năm 1971; Zweig cập nhật đầu năm 2003 là 5,1% và 4,7%. Thuế lãi vốn dài hạn tối đa 20% và thuế thu nhập thông thường tối đa 38,6% là luật Mỹ năm 2002; theo hiểu biết của người tổng hợp, sau đó các mức này đã đổi nhiều lần (từ năm 2018 mức trần thuế thu nhập là 37%). Chi phí giao dịch cổ phiếu cho cá nhân cũng đã giảm mạnh: nhiều công ty môi giới Mỹ bỏ phí hoa hồng từ năm 2019, nhưng chênh lệch giá mua–bán và "tác động thị trường" mà Zweig nói vẫn còn. Các trang web Zweig dẫn trong chú thích (năm 2002–2003) có thể không còn.
-> - **Dẫn trang của bản tiếng Anh:** Zweig viết "voir l'encadré à la p. 146", "voir pp. 145–147", "voir p. 128, note 5" — đó là số trang bản tiếng Anh; bản PDF không có số trang in. Khung WorldCom tương ứng nằm ở PDF trang 132–133; "p. 128, note 5" là chú thích về chi phí giao dịch trong bình luận Chương 5 (nội dung đã chép vào bản tổng hợp).
-> - **Chỗ dễ hiểu nhầm:** Graham dùng chữ "agressif" ở câu đầu chương; Zweig chú thích rằng đây là Graham lỡ lời, vì theo Chương 1 nhà đầu tư năng động được định nghĩa bằng lượng công sức bỏ ra, không phải bằng mức rủi ro chấp nhận. Trong bản tổng hợp, "nhà đầu tư năng động" luôn mang nghĩa này.
+Graham muốn người đọc hiểu rằng **với nhà đầu tư năng động, những lời khuyên hữu ích nhất là những điều không nên làm, và điều cốt lõi là không bao giờ chấp nhận rủi ro mất một phần vốn gốc chỉ để đổi lấy thêm 1–2% thu nhập mỗi năm**.
+
+Nếu đã chấp nhận rủi ro thì phải có cơ hội lãi vốn thật lớn, nghĩa là phải mua ở giá chiết khấu sâu (khoảng 70 hoặc thấp hơn cho trái phiếu mệnh giá 100), chứ không mua ở giá gần 100.
+
+Ví dụ trung tâm: mười trái phiếu thu nhập (income bonds) của các công ty đường sắt, tất cả đều bán từ 96 trở lên năm 1946 với giá cao nhất trung bình 102,5, chỉ một năm sau đã xuống mức thấp trung bình 68 — mất một phần ba giá trị — dù ngành đường sắt năm 1947 kiếm được nhiều hơn năm 1946; người mua chỉ được lợi thêm 1,75% lợi suất mỗi năm (4,25% so với 2,50% của trái phiếu hạng nhất).
+
+Cùng lô-gic đó áp dụng cho trái phiếu nước ngoài (trái phiếu 8% của Tiệp Khắc đi từ 96,5 năm 1922 lên 117 năm 1946 rồi còn 8 năm 1970; chủ nợ nước ngoài không có cách nào đòi nợ) và cho các đợt phát hành mới: chúng được bán bằng nỗ lực tiếp thị đặc biệt và vào lúc thị trường thuận lợi cho người bán, nên bất lợi cho người mua; cổ phiếu phát hành lần đầu của công ty nhỏ trong cơn sốt 1960–1962 và 1967–1969 thường mất 75% giá trở lên (Aetna Maintenance: bán 9 USD năm 1961, xuống 7/8 USD năm 1964; AAA Enterprises: bán 14 USD năm 1968, xuống 25 xu năm 1971 khi đã phá sản).
+
+Zweig, viết năm 2003, bổ sung rằng **điều bạn không làm quan trọng ngang điều bạn làm**, rồi đưa ra danh sách "không nên" cho thời nay.
+
+Trái phiếu rác (junk bonds) nay có thể đa dạng hoá qua hơn 130 quỹ, nhưng phí cao và chỉ là lựa chọn phụ; vụ WorldCom bán 11,9 tỷ USD trái phiếu năm 2001 với lợi suất tới 8,3% rồi phá sản năm 2002 (trái phiếu mất hơn 80%) cho thấy mua trái phiếu chỉ vì lợi suất là sai.
+
+Trái phiếu thị trường mới nổi chỉ nên chiếm tối đa 10% phần trái phiếu. Giao dịch trong ngày (day trading) và mua bán nhiều là tự sát tài chính: nghiên cứu của Barber và Odean trên 66.000 tài khoản cho thấy nhóm giao dịch nhiều nhất thua thị trường 6,4 điểm phần trăm mỗi năm sau chi phí.
+
+Mua cổ phiếu IPO là ảo tưởng: IPO trung bình 1980–2001 mua ở giá đóng cửa ngày đầu và giữ ba năm thua thị trường hơn 23 điểm phần trăm mỗi năm; VA Linux được định giá 12,7 tỷ USD trong ngày đầu (tăng 697,5%) dù cộng dồn mới bán được 44 triệu USD và lỗ 25 triệu USD, và ba năm sau chỉ còn 1,19 USD mỗi cổ phiếu.
 
 ## Sơ đồ
 
@@ -475,7 +475,11 @@ Chứng khoán hạng hai khi đó dễ dàng cho lợi suất danh nghĩa tới
 
 Chú thích của Graham (1): năm 1970, công ty đường sắt Milwaukee lỗ lớn, ngừng trả lãi trái phiếu thu nhập, và giá của trái phiếu 5% này rơi xuống 10.
 
-Nhiều nhà đầu tư mua những chứng khoán như vậy vì họ "cần thu nhập" và không chịu nổi lợi suất ít ỏi của trái phiếu hạng nhất. Kinh nghiệm cho thấy rõ: mua một trái phiếu hay một cổ phiếu ưu đãi thiếu an toàn **chỉ vì** lợi suất hấp dẫn là không khôn ngoan. Chú thích của Zweig: vụ trái phiếu WorldCom năm 2001–2002 (kể ở khung trong phần bình luận) là ví dụ gần đây củng cố một cách đau đớn lập luận này. Graham giải thích chữ "chỉ vì": tức là chứng khoán đó không bán ở mức chiết khấu lớn, nên không có cơ hội lãi vốn đáng kể. Khi những chứng khoán này được mua ở giá đầy đủ — tức chỉ thấp hơn 100 vài điểm — thì rất có khả năng một lúc nào đó người nắm giữ sẽ thấy giá yết thấp hơn nhiều. Khi kinh doanh xấu, hoặc chỉ đơn giản là thị trường xấu, loại chứng khoán này rất dễ rơi giá mạnh: lãi hoặc cổ tức thường bị ngừng hoặc ít nhất bị đe doạ, và giá thường yếu hẳn đi dù kết quả kinh doanh không hề tệ.
+Nhiều nhà đầu tư mua những chứng khoán như vậy vì họ "cần thu nhập" và không chịu nổi lợi suất ít ỏi của trái phiếu hạng nhất. Kinh nghiệm cho thấy rõ: mua một trái phiếu hay một cổ phiếu ưu đãi thiếu an toàn **chỉ vì** lợi suất hấp dẫn là không khôn ngoan. Chú thích của Zweig: vụ trái phiếu WorldCom năm 2001–2002 (kể ở khung trong phần bình luận) là ví dụ gần đây củng cố một cách đau đớn lập luận này.
+
+Graham giải thích chữ "chỉ vì": tức là chứng khoán đó không bán ở mức chiết khấu lớn, nên không có cơ hội lãi vốn đáng kể. Khi những chứng khoán này được mua ở giá đầy đủ — tức chỉ thấp hơn 100 vài điểm — thì rất có khả năng một lúc nào đó người nắm giữ sẽ thấy giá yết thấp hơn nhiều.
+
+Khi kinh doanh xấu, hoặc chỉ đơn giản là thị trường xấu, loại chứng khoán này rất dễ rơi giá mạnh: lãi hoặc cổ tức thường bị ngừng hoặc ít nhất bị đe doạ, và giá thường yếu hẳn đi dù kết quả kinh doanh không hề tệ.
 
 Chú thích của Zweig về cách yết giá: giá trái phiếu được yết theo phần trăm mệnh giá (100). Trái phiếu giá "85" bán ở 85% mệnh giá; một trái phiếu chào bán ban đầu với 10.000 USD nay ở giá 85 sẽ có giá 8.500 USD. Dưới 100 gọi là trái phiếu chiết khấu, trên 100 gọi là trái phiếu có phụ trội.
 
@@ -496,9 +500,13 @@ Chú thích của Zweig về cách yết giá: giá trái phiếu được yết
 
 Điều lạ là các công ty đường sắt Mỹ có lợi nhuận năm 1947 tốt hơn nhiều so với năm 1946; cú giảm giá mạnh đi ngược với tình hình kinh doanh và chỉ phản ánh làn sóng bán tháo chung trên thị trường. Mức giảm của nhóm trái phiếu này còn lớn hơn mức giảm của cổ phiếu công nghiệp Dow Jones. Người mua những trái phiếu này ở giá trên 100 không thể kỳ vọng hưởng phần nào khi thị trường tăng tiếp; điểm hấp dẫn duy nhất là lợi suất cao hơn 1,75% mỗi năm. Diễn biến sau đó cho thấy, quá sớm và quá rõ, rằng vì một lợi thế nhỏ về thu nhập hằng năm, người mua đã chịu rủi ro mất một phần đáng kể vốn gốc.
 
-**Bác bỏ "khoản đầu tư của người làm kinh doanh".** Ví dụ trên cho phép Graham bàn về một sai lầm phổ biến mang biệt danh "khoản đầu tư của người làm kinh doanh": mua một chứng khoán có lợi suất cao hơn mức trái phiếu hạng cao cho, và vì vậy chịu rủi ro lớn hơn. Chấp nhận khả năng mất vốn đã biết trước để đổi lấy chỉ 1% hay 2% thu nhập thêm mỗi năm là việc không tốt. Nếu sẵn sàng chịu rủi ro, bạn phải chắc chắn rằng mình có thể đạt được khoản lãi vốn thật đáng kể nếu mọi việc suôn sẻ. Vì thế, một trái phiếu hạng hai lãi suất 5,5% hay 6% bán ở mệnh giá gần như luôn là món mua tồi. Cùng trái phiếu đó ở giá 70 có thể hợp lý hơn — và nếu kiên nhẫn, bạn thường sẽ mua được ở mức đó.
+**Bác bỏ "khoản đầu tư của người làm kinh doanh".** Ví dụ trên cho phép Graham bàn về một sai lầm phổ biến mang biệt danh "khoản đầu tư của người làm kinh doanh": mua một chứng khoán có lợi suất cao hơn mức trái phiếu hạng cao cho, và vì vậy chịu rủi ro lớn hơn.
 
-**Hai đặc tính trái ngược.** Trái phiếu hạng hai và cổ phiếu ưu đãi có hai đặc tính trái ngược mà nhà đầu tư thông minh phải nhớ rõ. Một mặt, gần như tất cả đều rơi giá nặng trong thị trường xấu. Mặt khác, phần lớn trong số đó lấy lại vị thế khi điều kiện thuận lợi trở lại, và cuối cùng "ổn thoả". Điều này đúng cả với cổ phiếu ưu đãi cộng dồn không trả cổ tức suốt nhiều năm. Đầu thập niên 1940 có nhiều trường hợp như vậy, hậu quả của cuộc suy thoái dài thập niên 1930. Trong thời kỳ bùng nổ sau chiến tranh, 1945–1947, nhiều khoản cổ tức cộng dồn lớn đó được trả bằng tiền mặt hoặc bằng chứng khoán mới, và thường cả vốn gốc cũng được thanh toán. Nhờ vậy, những người vài năm trước đã mua các chứng khoán này lúc không ai ưa và giá thấp đã thu được lợi nhuận lớn.
+Chấp nhận khả năng mất vốn đã biết trước để đổi lấy chỉ 1% hay 2% thu nhập thêm mỗi năm là việc không tốt. Nếu sẵn sàng chịu rủi ro, bạn phải chắc chắn rằng mình có thể đạt được khoản lãi vốn thật đáng kể nếu mọi việc suôn sẻ. Vì thế, một trái phiếu hạng hai lãi suất 5,5% hay 6% bán ở mệnh giá gần như luôn là món mua tồi. Cùng trái phiếu đó ở giá 70 có thể hợp lý hơn — và nếu kiên nhẫn, bạn thường sẽ mua được ở mức đó.
+
+**Hai đặc tính trái ngược.** Trái phiếu hạng hai và cổ phiếu ưu đãi có hai đặc tính trái ngược mà nhà đầu tư thông minh phải nhớ rõ. Một mặt, gần như tất cả đều rơi giá nặng trong thị trường xấu. Mặt khác, phần lớn trong số đó lấy lại vị thế khi điều kiện thuận lợi trở lại, và cuối cùng "ổn thoả".
+
+Điều này đúng cả với cổ phiếu ưu đãi cộng dồn không trả cổ tức suốt nhiều năm. Đầu thập niên 1940 có nhiều trường hợp như vậy, hậu quả của cuộc suy thoái dài thập niên 1930. Trong thời kỳ bùng nổ sau chiến tranh, 1945–1947, nhiều khoản cổ tức cộng dồn lớn đó được trả bằng tiền mặt hoặc bằng chứng khoán mới, và thường cả vốn gốc cũng được thanh toán. Nhờ vậy, những người vài năm trước đã mua các chứng khoán này lúc không ai ưa và giá thấp đã thu được lợi nhuận lớn.
 
 Chú thích của Graham (2): ví dụ, cổ phiếu ưu đãi hạng nhất 6 USD của Cities Service, không trả cổ tức, bán chỉ 15 USD năm 1937 và khoảng 27 USD năm 1943, khi số cổ tức cộng dồn chưa trả đã lên tới 60 USD mỗi cổ phiếu. Năm 1947, cổ phiếu này được thu hồi bằng cách đổi mỗi cổ phiếu lấy 196,50 USD trái phiếu không bảo đảm (debenture) lãi suất 3%, và nó đã bán ở giá cao tới 186.
 
@@ -546,24 +554,36 @@ Có hai lý do cho lời cảnh báo kép này:
 
 Tác động của hai yếu tố này càng lớn khi đi xuống thang chất lượng: từ trái phiếu hạng cao nhất, qua chứng khoán cao cấp hạng hai, tới cổ phiếu phổ thông mới phát hành ở đáy thang.
 
-- **Trái phiếu và cổ phiếu ưu đãi hạng cao.** Trong quá khứ đã có rất nhiều đợt tái tài trợ: công ty mua lại trái phiếu đang lưu hành ở giá thu hồi và thay bằng trái phiếu mới lãi suất thấp hơn. Phần lớn thuộc loại trái phiếu và cổ phiếu ưu đãi hạng cao, người mua chủ yếu là định chế tài chính đủ khả năng tự bảo vệ quyền lợi. Vì vậy các đợt chào bán này được định giá cẩn thận theo mặt bằng lợi suất của chứng khoán tương đương, và nỗ lực bán hàng ít ảnh hưởng. Khi lãi suất giảm ngày càng thấp, người mua rốt cuộc đã trả giá quá cao, và nhiều chứng khoán sau đó giảm giá đáng kể. Đây là một biểu hiện của xu hướng chung: chứng khoán mới mọi loại được bán khi điều kiện thuận lợi nhất cho người phát hành; nhưng với chứng khoán hạng nhất, tác hại cho người mua chỉ ở mức khó chịu chứ không nghiêm trọng.
+- **Trái phiếu và cổ phiếu ưu đãi hạng cao.** Trong quá khứ đã có rất nhiều đợt tái tài trợ: công ty mua lại trái phiếu đang lưu hành ở giá thu hồi và thay bằng trái phiếu mới lãi suất thấp hơn. Phần lớn thuộc loại trái phiếu và cổ phiếu ưu đãi hạng cao, người mua chủ yếu là định chế tài chính đủ khả năng tự bảo vệ quyền lợi. Vì vậy các đợt chào bán này được định giá cẩn thận theo mặt bằng lợi suất của chứng khoán tương đương, và nỗ lực bán hàng ít ảnh hưởng.
+
+  Khi lãi suất giảm ngày càng thấp, người mua rốt cuộc đã trả giá quá cao, và nhiều chứng khoán sau đó giảm giá đáng kể. Đây là một biểu hiện của xu hướng chung: chứng khoán mới mọi loại được bán khi điều kiện thuận lợi nhất cho người phát hành; nhưng với chứng khoán hạng nhất, tác hại cho người mua chỉ ở mức khó chịu chứ không nghiêm trọng.
 - **Trái phiếu và cổ phiếu ưu đãi hạng thấp bán năm 1945–1946 và 1960–1961.** Ở đây tác động của nỗ lực bán hàng rõ hơn, vì phần lớn có lẽ đã được bán cho nhà đầu tư cá nhân thiếu kinh nghiệm. Đặc điểm của các đợt chào bán này là không cho thấy đầy đủ kết quả kinh doanh của công ty qua đủ nhiều năm. Phần lớn trông khá an toàn, nếu giả định được rằng lợi nhuận gần đây sẽ tiếp tục mà không gặp trục trặc nghiêm trọng. Các ngân hàng đầu tư đứng ra phát hành có lẽ đã chấp nhận giả định đó, và nhân viên bán hàng của họ dễ dàng thuyết phục chính mình và khách hàng làm theo. Dù vậy, đó là cách đầu tư thiếu khôn ngoan và dễ gây tốn kém.
 
 Thị trường giá lên thường được đánh dấu bằng việc rất nhiều công ty tư nhân chuyển thành công ty có cổ phiếu niêm yết. Điều đó đã xảy ra năm 1945–1946 và lại xảy ra từ năm 1960. Lần sau, quá trình này đạt quy mô phi thường cho tới khi kết thúc thảm hại vào tháng 5/1962. Sau giai đoạn vài năm công chúng "thề chừa" như thường lệ, cả màn bi hài kịch lại diễn lại y nguyên từng bước trong 1967–1969.
 
-Chú thích của Zweig về chu kỳ IPO: trong hai năm từ tháng 6/1960 đến tháng 5/1962, hơn 850 công ty bán cổ phiếu ra công chúng lần đầu, trung bình hơn một công ty mỗi ngày. Cuối năm 1967 thị trường IPO nóng trở lại; năm 1969 có tới 781 cổ phiếu mới. Lượng cung thừa này góp phần tạo ra các thị trường giá xuống năm 1969 và 1973–1974. Năm 1974 thị trường IPO chết hẳn, cả năm chỉ có 9 cổ phiếu mới; năm 1975 chỉ có 14. Lượng cung thiếu này lại góp phần nuôi thị trường giá lên thập niên 1980, khi gần 4.000 cổ phiếu mới tràn ra thị trường, gây ra cơn hưng phấn dẫn tới cú sụp năm 1987. Rồi chu kỳ đảo chiều: IPO cạn kiệt trong 1988–1990; sự khan hiếm này góp phần vào thị trường giá lên thập niên 1990, và Wall Street lại quay về việc "sản xuất" cổ phiếu mới, tung ra gần 5.000 IPO. Sau khi bong bóng vỡ năm 2000, năm 2001 chỉ có 88 IPO, mức thấp nhất kể từ 1979. Lần nào công chúng cũng bị bỏng vì IPO, đứng ngoài ít nhất hai năm, rồi luôn quay lại để bị bỏng tiếp. Chu kỳ hưng–trầm này có từ khi có thị trường chứng khoán: trong đợt bùng nổ IPO lớn đầu tiên ở Mỹ năm 1825, nghe nói có người bị đè chết trong đám đông tranh mua cổ phiếu Bank of Southwark mới phát hành; những người mua giàu hơn thuê côn đồ chen lên đầu hàng. Tới năm 1829, cổ phiếu này đã mất khoảng 25% giá trị.
+Chú thích của Zweig về chu kỳ IPO: trong hai năm từ tháng 6/1960 đến tháng 5/1962, hơn 850 công ty bán cổ phiếu ra công chúng lần đầu, trung bình hơn một công ty mỗi ngày. Cuối năm 1967 thị trường IPO nóng trở lại; năm 1969 có tới 781 cổ phiếu mới. Lượng cung thừa này góp phần tạo ra các thị trường giá xuống năm 1969 và 1973–1974.
+
+Năm 1974 thị trường IPO chết hẳn, cả năm chỉ có 9 cổ phiếu mới; năm 1975 chỉ có 14. Lượng cung thiếu này lại góp phần nuôi thị trường giá lên thập niên 1980, khi gần 4.000 cổ phiếu mới tràn ra thị trường, gây ra cơn hưng phấn dẫn tới cú sụp năm 1987. Rồi chu kỳ đảo chiều: IPO cạn kiệt trong 1988–1990; sự khan hiếm này góp phần vào thị trường giá lên thập niên 1990, và Wall Street lại quay về việc "sản xuất" cổ phiếu mới, tung ra gần 5.000 IPO. Sau khi bong bóng vỡ năm 2000, năm 2001 chỉ có 88 IPO, mức thấp nhất kể từ 1979.
+
+Lần nào công chúng cũng bị bỏng vì IPO, đứng ngoài ít nhất hai năm, rồi luôn quay lại để bị bỏng tiếp. Chu kỳ hưng–trầm này có từ khi có thị trường chứng khoán: trong đợt bùng nổ IPO lớn đầu tiên ở Mỹ năm 1825, nghe nói có người bị đè chết trong đám đông tranh mua cổ phiếu Bank of Southwark mới phát hành; những người mua giàu hơn thuê côn đồ chen lên đầu hàng. Tới năm 1829, cổ phiếu này đã mất khoảng 25% giá trị.
 
 #### 5. Các đợt chào bán cổ phiếu phổ thông mới (Nouvelles offres d'actions ordinaires, PDF trang 128–131)
 
 Graham chép nguyên các đoạn sau từ ấn bản 1959 và thêm bình luận.
 
-**Hai hình thức huy động vốn bằng cổ phiếu.** Thứ nhất, công ty đã niêm yết chào thêm cổ phiếu cho cổ đông hiện hữu theo tỷ lệ sở hữu. Giá đăng ký mua được đặt thấp hơn thị giá, nên "quyền mua" có giá trị bằng tiền ngay từ đầu. Việc bán cổ phiếu mới gần như luôn được một hay nhiều ngân hàng đầu tư bảo lãnh, nhưng mọi người đều hy vọng và kỳ vọng toàn bộ cổ phiếu mới sẽ được mua qua việc thực hiện quyền. Vì vậy, bán thêm cổ phiếu của công ty đã niêm yết thường không đòi hỏi nỗ lực bán hàng tích cực từ các công ty phân phối. Chú thích của Zweig: đây là đợt phát hành quyền mua, trong đó nhà đầu tư đã có cổ phiếu được mời bỏ thêm tiền để giữ nguyên tỷ lệ sở hữu; hình thức này vẫn phổ biến ở châu Âu nhưng đã hiếm ở Mỹ, trừ ở các quỹ đóng.
+**Hai hình thức huy động vốn bằng cổ phiếu.** Thứ nhất, công ty đã niêm yết chào thêm cổ phiếu cho cổ đông hiện hữu theo tỷ lệ sở hữu. Giá đăng ký mua được đặt thấp hơn thị giá, nên "quyền mua" có giá trị bằng tiền ngay từ đầu. Việc bán cổ phiếu mới gần như luôn được một hay nhiều ngân hàng đầu tư bảo lãnh, nhưng mọi người đều hy vọng và kỳ vọng toàn bộ cổ phiếu mới sẽ được mua qua việc thực hiện quyền. Vì vậy, bán thêm cổ phiếu của công ty đã niêm yết thường không đòi hỏi nỗ lực bán hàng tích cực từ các công ty phân phối.
+
+Chú thích của Zweig: đây là đợt phát hành quyền mua, trong đó nhà đầu tư đã có cổ phiếu được mời bỏ thêm tiền để giữ nguyên tỷ lệ sở hữu; hình thức này vẫn phổ biến ở châu Âu nhưng đã hiếm ở Mỹ, trừ ở các quỹ đóng.
 
 Thứ hai, cổ phiếu của các công ty trước đây là tư nhân được đưa ra bán cho công chúng. Phần lớn số cổ phiếu này được bán cho cổ đông nắm quyền kiểm soát, để họ rút tiền mặt ra lúc thị trường thuận lợi và đa dạng hoá tài sản riêng. (Khi công ty cần huy động tiền mới, nguồn thường là bán cổ phiếu ưu đãi, như đã nói.) Hoạt động này diễn ra theo một khuôn mẫu rõ ràng, và do bản chất của thị trường chứng khoán, nó tất yếu gây nhiều thua lỗ và thất vọng cho công chúng. Nguy hiểm đến từ cả bản chất của các doanh nghiệp được huy động vốn lẫn điều kiện thị trường cho phép việc huy động đó.
 
-**Vì sao nguy hiểm.** Đầu thế kỷ 20, phần lớn các công ty hàng đầu của Mỹ đã được đưa ra giao dịch công khai. Theo thời gian, số doanh nghiệp hàng đầu còn giữ sở hữu khép kín giảm dần; vì thế các đợt phát hành cổ phiếu lần đầu ngày càng tập trung vào doanh nghiệp tương đối nhỏ. Không may, cùng thời gian đó công chúng mua cổ phiếu lại hình thành sự ưa chuộng sâu sắc với công ty lớn và một thành kiến tương ứng với công ty nhỏ. Thành kiến này, như nhiều thành kiến khác, yếu dần khi thị trường giá lên phát triển: những khoản lãi lớn và nhanh từ cổ phiếu nói chung đủ để làm cùn khả năng phê phán của công chúng, đồng thời mài sắc bản năng tham lam. Trong những giai đoạn đó cũng có thể tìm thấy nhiều công ty tư nhân có kết quả xuất sắc — dù phần lớn sẽ không có thành tích ấn tượng nếu số liệu được kéo dài ra mười năm hoặc hơn.
+**Vì sao nguy hiểm.** Đầu thế kỷ 20, phần lớn các công ty hàng đầu của Mỹ đã được đưa ra giao dịch công khai. Theo thời gian, số doanh nghiệp hàng đầu còn giữ sở hữu khép kín giảm dần; vì thế các đợt phát hành cổ phiếu lần đầu ngày càng tập trung vào doanh nghiệp tương đối nhỏ.
 
-**Diễn biến điển hình.** Khi các yếu tố trên hội tụ, hệ quả là: khoảng giữa thị trường giá lên, các đợt phát hành cổ phiếu lần đầu xuất hiện. Giá của chúng chưa đắt (bản Pháp viết "không hấp dẫn", nhưng ngữ cảnh — người mua sớm lãi lớn — cho thấy nghĩa là "không đắt"), và người mua những đợt đầu tiên thu lãi lớn. Khi thị trường tiếp tục lên, kiểu huy động vốn này dày hơn; chất lượng doanh nghiệp ngày càng kém; giá chào bán và giá đạt được tiến gần mức cắt cổ. Một dấu hiệu khá đáng tin rằng con sóng giá lên sắp kết thúc là khi cổ phiếu mới của những công ty nhỏ vô danh được chào ở giá cao hơn giá hiện tại của nhiều công ty cỡ vừa có lịch sử giao dịch lâu dài. Graham thêm trong ngoặc: rất ít đợt huy động vốn cổ phần kiểu này do các ngân hàng đầu tư lớn, uy tín hàng đầu thực hiện.
+Không may, cùng thời gian đó công chúng mua cổ phiếu lại hình thành sự ưa chuộng sâu sắc với công ty lớn và một thành kiến tương ứng với công ty nhỏ. Thành kiến này, như nhiều thành kiến khác, yếu dần khi thị trường giá lên phát triển: những khoản lãi lớn và nhanh từ cổ phiếu nói chung đủ để làm cùn khả năng phê phán của công chúng, đồng thời mài sắc bản năng tham lam. Trong những giai đoạn đó cũng có thể tìm thấy nhiều công ty tư nhân có kết quả xuất sắc — dù phần lớn sẽ không có thành tích ấn tượng nếu số liệu được kéo dài ra mười năm hoặc hơn.
+
+**Diễn biến điển hình.** Khi các yếu tố trên hội tụ, hệ quả là: khoảng giữa thị trường giá lên, các đợt phát hành cổ phiếu lần đầu xuất hiện. Giá của chúng chưa đắt (bản Pháp viết "không hấp dẫn", nhưng ngữ cảnh — người mua sớm lãi lớn — cho thấy nghĩa là "không đắt"), và người mua những đợt đầu tiên thu lãi lớn.
+
+Khi thị trường tiếp tục lên, kiểu huy động vốn này dày hơn; chất lượng doanh nghiệp ngày càng kém; giá chào bán và giá đạt được tiến gần mức cắt cổ. Một dấu hiệu khá đáng tin rằng con sóng giá lên sắp kết thúc là khi cổ phiếu mới của những công ty nhỏ vô danh được chào ở giá cao hơn giá hiện tại của nhiều công ty cỡ vừa có lịch sử giao dịch lâu dài. Graham thêm trong ngoặc: rất ít đợt huy động vốn cổ phần kiểu này do các ngân hàng đầu tư lớn, uy tín hàng đầu thực hiện.
 
 Chú thích của Zweig: thời Graham, các ngân hàng đầu tư danh giá nhất thường tránh IPO, coi đó là sự khai thác thiếu tư cách những nhà đầu tư ngây thơ. Nhưng ở đỉnh cơn sốt IPO cuối 1999–đầu 2000, các ngân hàng đầu tư lớn nhất Wall Street đã nhảy vào. Những hãng lâu đời bỏ sự thận trọng truyền thống, chen nhau ép những cổ phiếu định giá cao một cách lố bịch lên một công chúng đang khao khát mua. Theo Zweig, mô tả của Graham về cách quy trình IPO vận hành là một bài kinh điển, đáng được đọc trong các khoá học đạo đức nghề ngân hàng đầu tư, nếu có những khoá học như vậy.
 
@@ -579,9 +599,15 @@ Chú thích của Graham (4): một mẫu đại diện gồm 41 cổ phiếu lo
 
 Khả năng của thị trường chứng khoán nói chung thoát nhanh khỏi thảm hoạ này là một hiện tượng phi thường, gợi lại ký ức về sự "miễn nhiễm" tương tự mà thị trường đã thể hiện trong vụ sụp đổ lớn của thị trường bất động sản Florida năm 1925. Liệu cơn sốt cổ phiếu mới có quay lại trước khi thị trường giá lên hiện tại kết thúc hẳn? Không ai biết. Nhưng Graham biết rằng nhà đầu tư thông minh sẽ không quên chuyện năm 1962, và sẽ để người khác kiếm đợt lãi nhanh tiếp theo trong lĩnh vực này rồi chịu những khoản lỗ đau đớn đi kèm.
 
-**"Một ví dụ khủng khiếp": Aetna Maintenance Co.** Trong ấn bản 1965, sau các đoạn trên Graham dẫn ví dụ cổ phiếu Aetna Maintenance Co. được bán ra công chúng với giá 9 USD vào tháng 11/1961. Đúng kiểu điển hình, giá nhanh chóng lên 15 USD; năm sau rơi xuống 2 3/8 USD, và năm 1964 xuống 7/8 USD (chưa tới 1 USD). Lịch sử về sau của công ty này rất lạ, minh hoạ những biến hoá kỳ quặc trong giới kinh doanh Mỹ những năm gần đây. Tóm tắt nội dung Phụ lục 5 mà Graham dẫn tới: đợt phát hành gồm 154.000 cổ phiếu; trước đợt phát hành, tài sản ròng chỉ khoảng 1,20 USD mỗi cổ phiếu, sau đó tăng lên hơn 3 USD nhờ tiền thu từ cổ phiếu mới. Năm tài chính kết thúc tháng 6/1962 công ty có doanh thu 4.234.000 USD và lãi 149.000 USD (0,36 USD/cổ phiếu); năm kết thúc tháng 6/1963 doanh thu 4.681.000 USD nhưng lỗ 42.000 USD (lỗ 0,11 USD/cổ phiếu); không trả cổ tức. Graham nhận xét: công ty quá nhỏ để công chúng tham gia, cổ phiếu được bán và được mua dựa trên một năm tốt duy nhất, trong một ngành cạnh tranh gay gắt. Năm 1965 nhóm chủ mới bán mảng bảo trì toà nhà thua lỗ, chuyển sang làm thiết bị điện tử và đổi tên thành Haydon Switch and Instrument Co.; lãi bình quân 1965–1969 chỉ 8 xu mỗi cổ phiếu cũ, nhưng sau khi tách cổ phiếu 2 đổi 1 năm 1968, giá lại lên tương đương 16,5 USD, vượt cả đỉnh năm 1961 — một mức định giá quá cao còn tệ hơn lần trước.
+**"Một ví dụ khủng khiếp": Aetna Maintenance Co.** Trong ấn bản 1965, sau các đoạn trên Graham dẫn ví dụ cổ phiếu Aetna Maintenance Co. được bán ra công chúng với giá 9 USD vào tháng 11/1961. Đúng kiểu điển hình, giá nhanh chóng lên 15 USD; năm sau rơi xuống 2 3/8 USD, và năm 1964 xuống 7/8 USD (chưa tới 1 USD). Lịch sử về sau của công ty này rất lạ, minh hoạ những biến hoá kỳ quặc trong giới kinh doanh Mỹ những năm gần đây.
 
-**"Cùng một câu chuyện cũ" 1967–1970: AAA Enterprises.** Graham nói không khó tìm những ví dụ còn đau lòng hơn trong phiên bản mới nhất của câu chuyện cũ, giai đoạn 1967–1970. Không gì hợp hơn trường hợp AAA Enterprises, tình cờ là công ty đứng đầu danh sách trong cuốn *Stock Guide* của Standard & Poor's khi đó. Cổ phiếu được bán ra công chúng ở giá 14 USD năm 1968, nhanh chóng lên 28 USD, nhưng đầu năm 1971 chỉ còn 25 xu. Ngay cả giá đó vẫn là định giá quá cao trầm trọng, vì công ty vừa vào toà phá sản trong tình trạng tuyệt vọng. Graham để dành trường hợp này để phân tích chi tiết ở Chương 17. Tóm tắt những gì Chương 17 kể: người sáng lập Williams bắt đầu bằng việc bán nhà di động, rồi bán quyền nhượng quyền thương hiệu và mở dịch vụ khai thuế "Mr. Tax of America" trong các nhà di động; đợt chào bán tháng 3/1969 gồm 500.000 cổ phiếu ở giá 13 USD (300.000 cổ phiếu bán cho tài khoản riêng của Williams); khi giá lên 28 USD, vốn hoá đạt 84 triệu USD so với giá trị sổ sách khoảng 4,2 triệu USD, tức khoảng 115 lần lợi nhuận trên mỗi cổ phiếu (EPS). (Chênh lệch về giá chào 14 USD/1968 ở đây và 13 USD/tháng 3/1969 ở Chương 17 là của chính cuốn sách.)
+Tóm tắt nội dung Phụ lục 5 mà Graham dẫn tới: đợt phát hành gồm 154.000 cổ phiếu; trước đợt phát hành, tài sản ròng chỉ khoảng 1,20 USD mỗi cổ phiếu, sau đó tăng lên hơn 3 USD nhờ tiền thu từ cổ phiếu mới. Năm tài chính kết thúc tháng 6/1962 công ty có doanh thu 4.234.000 USD và lãi 149.000 USD (0,36 USD/cổ phiếu); năm kết thúc tháng 6/1963 doanh thu 4.681.000 USD nhưng lỗ 42.000 USD (lỗ 0,11 USD/cổ phiếu); không trả cổ tức.
+
+Graham nhận xét: công ty quá nhỏ để công chúng tham gia, cổ phiếu được bán và được mua dựa trên một năm tốt duy nhất, trong một ngành cạnh tranh gay gắt. Năm 1965 nhóm chủ mới bán mảng bảo trì toà nhà thua lỗ, chuyển sang làm thiết bị điện tử và đổi tên thành Haydon Switch and Instrument Co.; lãi bình quân 1965–1969 chỉ 8 xu mỗi cổ phiếu cũ, nhưng sau khi tách cổ phiếu 2 đổi 1 năm 1968, giá lại lên tương đương 16,5 USD, vượt cả đỉnh năm 1961 — một mức định giá quá cao còn tệ hơn lần trước.
+
+**"Cùng một câu chuyện cũ" 1967–1970: AAA Enterprises.** Graham nói không khó tìm những ví dụ còn đau lòng hơn trong phiên bản mới nhất của câu chuyện cũ, giai đoạn 1967–1970. Không gì hợp hơn trường hợp AAA Enterprises, tình cờ là công ty đứng đầu danh sách trong cuốn *Stock Guide* của Standard & Poor's khi đó. Cổ phiếu được bán ra công chúng ở giá 14 USD năm 1968, nhanh chóng lên 28 USD, nhưng đầu năm 1971 chỉ còn 25 xu. Ngay cả giá đó vẫn là định giá quá cao trầm trọng, vì công ty vừa vào toà phá sản trong tình trạng tuyệt vọng. Graham để dành trường hợp này để phân tích chi tiết ở Chương 17.
+
+Tóm tắt những gì Chương 17 kể: người sáng lập Williams bắt đầu bằng việc bán nhà di động, rồi bán quyền nhượng quyền thương hiệu và mở dịch vụ khai thuế "Mr. Tax of America" trong các nhà di động; đợt chào bán tháng 3/1969 gồm 500.000 cổ phiếu ở giá 13 USD (300.000 cổ phiếu bán cho tài khoản riêng của Williams); khi giá lên 28 USD, vốn hoá đạt 84 triệu USD so với giá trị sổ sách khoảng 4,2 triệu USD, tức khoảng 115 lần lợi nhuận trên mỗi cổ phiếu (EPS). (Chênh lệch về giá chào 14 USD/1968 ở đây và 13 USD/tháng 3/1969 ở Chương 17 là của chính cuốn sách.)
 
 ### Phần B — Bình luận của Jason Zweig (2003)
 
@@ -605,7 +631,9 @@ Zweig so sánh: mua trái phiếu chỉ vì lợi suất giống như cưới ai
 
 Ngày 9/5/2001, WorldCom, Inc. bán đợt trái phiếu lớn nhất trong lịch sử doanh nghiệp Mỹ: 11,9 tỷ USD. Trong số những người mua hăm hở bị lợi suất tới 8,3% thu hút có: California Public Employees' Retirement System (CalPERS), một trong những quỹ hưu trí lớn nhất thế giới; Retirement Systems of Alabama, mà ban lãnh đạo sau này giải thích rằng "lợi suất cao hơn" là "rất hấp dẫn với chúng tôi vào lúc mua"; và quỹ Strong Corporate Bond Fund, mà đồng quản lý quỹ (John Bender, theo chú thích) thích lợi suất béo bở của WorldCom tới mức khoe rằng quỹ nhận được nhiều hơn đủ thu nhập thêm để bù cho rủi ro. (Chú thích 1 của khung: nguồn là các trang của CalPERS, báo cáo đầu tư quý tới 31/5/2001 của Retirement Systems of Alabama, và BusinessWeek.)
 
-Nhưng chỉ cần liếc 30 giây vào bản cáo bạch trái phiếu của WorldCom là thấy những trái phiếu này không có gì để mời chào ngoài lợi suất — và có mọi thứ để mất. Trong hai trên năm năm trước đó, lợi nhuận trước thuế của WorldCom (lợi nhuận trước khi nộp thuế cho Sở Thuế vụ Mỹ IRS) không đủ trả chi phí cố định (chi phí trả lãi cho chủ trái phiếu), thiếu tổng cộng tới 4,1 tỷ USD. WorldCom chỉ trả được lãi trái phiếu bằng cách vay thêm ngân hàng. Và nay, với núi trái phiếu mới này, chi phí lãi vay của WorldCom tăng thêm 900 triệu USD mỗi năm. Chú thích 2 của khung: mọi con số lấy từ bản cáo bạch đợt trái phiếu, nộp ngày 11/5/2001, xem được trên hệ thống EDGAR của SEC; Zweig nhấn mạnh rằng ngay cả khi chưa biết (như bây giờ) rằng lợi nhuận của WorldCom bị thổi phồng gian lận, đợt chào bán này đã đủ làm Graham kinh hãi. Zweig ví WorldCom với nhân vật Mr. Creosote trong phim *The Meaning of Life* của Monty Python, kẻ ăn ngấu nghiến tới mức nổ tung.
+Nhưng chỉ cần liếc 30 giây vào bản cáo bạch trái phiếu của WorldCom là thấy những trái phiếu này không có gì để mời chào ngoài lợi suất — và có mọi thứ để mất. Trong hai trên năm năm trước đó, lợi nhuận trước thuế của WorldCom (lợi nhuận trước khi nộp thuế cho Sở Thuế vụ Mỹ IRS) không đủ trả chi phí cố định (chi phí trả lãi cho chủ trái phiếu), thiếu tổng cộng tới 4,1 tỷ USD. WorldCom chỉ trả được lãi trái phiếu bằng cách vay thêm ngân hàng. Và nay, với núi trái phiếu mới này, chi phí lãi vay của WorldCom tăng thêm 900 triệu USD mỗi năm.
+
+Chú thích 2 của khung: mọi con số lấy từ bản cáo bạch đợt trái phiếu, nộp ngày 11/5/2001, xem được trên hệ thống EDGAR của SEC; Zweig nhấn mạnh rằng ngay cả khi chưa biết (như bây giờ) rằng lợi nhuận của WorldCom bị thổi phồng gian lận, đợt chào bán này đã đủ làm Graham kinh hãi. Zweig ví WorldCom với nhân vật Mr. Creosote trong phim *The Meaning of Life* của Monty Python, kẻ ăn ngấu nghiến tới mức nổ tung.
 
 Không lợi suất nào đủ cao để bù cho nhà đầu tư khi chịu rủi ro "nổ tung" như vậy. Trái phiếu WorldCom cho lợi suất béo bở tới 8% trong vài tháng. Rồi, đúng như Graham sẽ dự đoán, lợi suất bỗng chẳng che chắn được gì:
 
@@ -615,7 +643,7 @@ Không lợi suất nào đủ cao để bù cho nhà đầu tư khi chịu rủ
 
 #### 3. Trái phiếu thị trường mới nổi (Le portefeuille Vodka-et-Burrito, PDF trang 133)
 
-Graham coi trái phiếu nước ngoài không phải cửa cược tốt hơn trái phiếu rác (xem Lưu ý về chỗ bản Pháp dịch ngược). Chú thích của Zweig (3): Graham không chê trái phiếu nước ngoài một cách nhẹ dạ, vì đầu sự nghiệp ông đã làm vài năm đại lý trái phiếu tại New York cho các bên vay Nhật Bản.
+Graham coi trái phiếu nước ngoài không phải cửa cược tốt hơn trái phiếu rác (xem mục Lưu ý cuối chương về chỗ bản Pháp dịch ngược). Chú thích của Zweig (3): Graham không chê trái phiếu nước ngoài một cách nhẹ dạ, vì đầu sự nghiệp ông đã làm vài năm đại lý trái phiếu tại New York cho các bên vay Nhật Bản.
 
 Tuy nhiên, ngày nay một số loại trái phiếu nước ngoài có thể hấp dẫn với nhà đầu tư chịu được nhiều rủi ro. Khoảng một chục quỹ tương hỗ chuyên về trái phiếu phát hành ở các nước thị trường mới nổi (trước đây gọi là "các nước thế giới thứ ba") như Brazil, Mexico, Nigeria, Nga và Venezuela. Không nhà đầu tư tỉnh táo nào nên bỏ quá 10% tổng phần trái phiếu vào những tài sản "cay" như thế. Nhưng quỹ trái phiếu thị trường mới nổi hiếm khi biến động cùng nhịp với thị trường cổ phiếu Mỹ, nên đây là một trong số ít khoản đầu tư không nhất thiết giảm chỉ vì Dow Jones giảm. Điều đó có thể cho bạn một góc an ủi nhỏ trong danh mục đúng lúc bạn cần nhất.
 
@@ -627,7 +655,11 @@ Như đã thấy ở bình luận Chương 1, giao dịch trong ngày (day tradi
 
 **Tác động thị trường.** Chính sự nôn nóng mua hay bán của bạn có thể làm giảm lợi nhuận. Người quá muốn mua một cổ phiếu có thể phải trả cao hơn giá giao dịch gần nhất 10 xu thì người bán mới chịu nhả hàng. Chi phí thêm này, gọi là "tác động thị trường", không bao giờ hiện trên sao kê môi giới nhưng là có thật. Nếu bạn vội mua 1.000 cổ phiếu và đẩy giá lên chỉ 5 xu, bạn vừa tự làm mình mất 50 USD (1.000 × 0,05 USD), vô hình nhưng thật. Ngược lại, khi nhà đầu tư hoảng loạn muốn bán gấp và bán thấp hơn giá gần nhất, tác động thị trường lại đánh vào họ lần nữa.
 
-**Chi phí giao dịch.** Chi phí giao dịch bào mòn lợi nhuận như giấy nhám. Mua hay bán một cổ phiếu nhỏ đang "nóng" có thể tốn 2% đến 4% (hay 4% đến 8% cho một vòng mua rồi bán). Nếu bạn bỏ 1.000 USD vào một cổ phiếu, chi phí giao dịch có thể ngốn khoảng 40 USD ngay từ đầu; bán cổ phiếu đó ra, bạn có thể mất thêm hơn 4% nữa. Chú thích của Zweig (5): nguồn chuẩn về chi phí môi giới là Plexus Group (Santa Monica, California). Plexus lập luận thuyết phục rằng, giống phần lớn khối băng trôi nằm dưới mặt nước, phần lớn chi phí giao dịch là vô hình — khiến nhà đầu tư lầm tưởng chi phí giao dịch không đáng kể chỉ vì phí hoa hồng thấp. Chi phí giao dịch cổ phiếu NASDAQ với cá nhân cao hơn đáng kể so với cổ phiếu niêm yết trên NYSE. (Zweig dẫn chéo tới một chú thích ở bình luận Chương 5, theo đó giáo sư Charles Jones của Columbia Business School ước tính chi phí một lệnh nhỏ một chiều với cổ phiếu niêm yết trên NYSE đã giảm từ khoảng 1,25% thời Graham xuống khoảng 0,25% năm 2000, và với định chế như quỹ tương hỗ thì chi phí thực ra cao hơn.)
+**Chi phí giao dịch.** Chi phí giao dịch bào mòn lợi nhuận như giấy nhám. Mua hay bán một cổ phiếu nhỏ đang "nóng" có thể tốn 2% đến 4% (hay 4% đến 8% cho một vòng mua rồi bán). Nếu bạn bỏ 1.000 USD vào một cổ phiếu, chi phí giao dịch có thể ngốn khoảng 40 USD ngay từ đầu; bán cổ phiếu đó ra, bạn có thể mất thêm hơn 4% nữa.
+
+Chú thích của Zweig (5): nguồn chuẩn về chi phí môi giới là Plexus Group (Santa Monica, California). Plexus lập luận thuyết phục rằng, giống phần lớn khối băng trôi nằm dưới mặt nước, phần lớn chi phí giao dịch là vô hình — khiến nhà đầu tư lầm tưởng chi phí giao dịch không đáng kể chỉ vì phí hoa hồng thấp.
+
+Chi phí giao dịch cổ phiếu NASDAQ với cá nhân cao hơn đáng kể so với cổ phiếu niêm yết trên NYSE. (Zweig dẫn chéo tới một chú thích ở bình luận Chương 5, theo đó giáo sư Charles Jones của Columbia Business School ước tính chi phí một lệnh nhỏ một chiều với cổ phiếu niêm yết trên NYSE đã giảm từ khoảng 1,25% thời Graham xuống khoảng 0,25% năm 2000, và với định chế như quỹ tương hỗ thì chi phí thực ra cao hơn.)
 
 **Thuế.** Khi giao dịch thay vì đầu tư, bạn biến lãi vốn dài hạn (chịu thuế lãi vốn tối đa 20%) thành thu nhập thông thường (chịu thuế tối đa 38,6%).
 
@@ -645,7 +677,7 @@ Cộng tất cả lại, người giao dịch cổ phiếu phải lãi ít nhấ
 
 Thay vì nộp một phần lớn lợi nhuận cho người môi giới và cho Sở Thuế vụ, nhóm kiên nhẫn giữ lại được gần hết. Chú thích của Zweig (7): kết quả của Barber và Odean có trên trang web của hai tác giả; nhiều nghiên cứu khác tìm ra kết quả gần như y hệt với các nhà quản lý quỹ chuyên nghiệp, nên đây không phải vấn đề chỉ của cá nhân "ngây thơ".
 
-**Biểu đồ "Chạy càng nhanh, càng tự cản mình" (Figure 6-1 trong sách, tiêu đề Pháp "Plus vite vous courez, plus vous vous gênez").** Theo chú giải: Barber và Odean chia hàng nghìn người giao dịch thành năm nhóm theo tần suất xoay vòng danh mục. Nhóm giao dịch ít nhất (bên trái biểu đồ) giữ được phần lớn lợi nhuận; những người giao dịch nôn nóng, hiếu động làm giàu cho người môi giới chứ không cho chính họ. Cột ngoài cùng bên phải là một quỹ chỉ số thị trường để so sánh. Nguồn: GS. Brad Barber (Đại học California tại Davis) và Terrance Odean (Đại học California tại Berkeley). Bản PDF không có ảnh biểu đồ, nên không chép được giá trị từng cột (xem Lưu ý).
+**Biểu đồ "Chạy càng nhanh, càng tự cản mình" (Figure 6-1 trong sách, tiêu đề Pháp "Plus vite vous courez, plus vous vous gênez").** Theo chú giải: Barber và Odean chia hàng nghìn người giao dịch thành năm nhóm theo tần suất xoay vòng danh mục. Nhóm giao dịch ít nhất (bên trái biểu đồ) giữ được phần lớn lợi nhuận; những người giao dịch nôn nóng, hiếu động làm giàu cho người môi giới chứ không cho chính họ. Cột ngoài cùng bên phải là một quỹ chỉ số thị trường để so sánh. Nguồn: GS. Brad Barber (Đại học California tại Davis) và Terrance Odean (Đại học California tại Berkeley). Bản PDF không có ảnh biểu đồ, nên không chép được giá trị từng cột (xem mục Lưu ý cuối chương).
 
 Bài học rõ ràng: đừng vội làm gì đó, hãy ngồi yên. Đã đến lúc mọi người thừa nhận rằng cụm "nhà đầu tư dài hạn" là thừa chữ: nhà đầu tư dài hạn là loại nhà đầu tư duy nhất tồn tại. Ai không giữ được cổ phiếu quá vài tháng mỗi lần thì rốt cuộc sẽ là nạn nhân chứ không phải người thắng.
 
@@ -654,9 +686,11 @@ Bài học rõ ràng: đừng vội làm gì đó, hãy ngồi yên. Đã đến
 **Sức hút của IPO.** Trong những "độc tố làm giàu nhanh" đã đầu độc đầu óc công chúng đầu tư thập niên 1990, một trong những thứ nguy hiểm nhất là ý tưởng có thể tạo ra của cải bằng cách mua IPO — lần đầu một công ty bán cổ phiếu cho công chúng. Thoạt nhìn, đầu tư vào IPO có vẻ là ý tưởng tuyệt vời:
 
 - Nếu bạn mua 100 cổ phiếu Microsoft khi công ty này IPO ngày 13/3/1986, khoản đầu tư 2.100 USD (tức 21 USD mỗi cổ phiếu) đã thành 720.000 USD vào đầu năm 2003. Chú thích của Zweig (8): nguồn là trang "IPO investment results" của Microsoft.
-- Các giáo sư tài chính Jay Ritter và William Schwert đã chỉ ra: nếu bạn rải tổng cộng chỉ 1.000 USD vào mọi IPO của tháng 1/1960 ở giá chào bán, bán ra cuối tháng, rồi tái đầu tư vào toàn bộ lứa IPO của từng tháng tiếp theo, thì đến cuối năm 2001 danh mục của bạn trị giá 533 kèm 33 chữ số 0 USD (533 × 10^33 USD; bản Pháp viết nhầm "533 tỷ", xem Lưu ý).
+- Các giáo sư tài chính Jay Ritter và William Schwert đã chỉ ra: nếu bạn rải tổng cộng chỉ 1.000 USD vào mọi IPO của tháng 1/1960 ở giá chào bán, bán ra cuối tháng, rồi tái đầu tư vào toàn bộ lứa IPO của từng tháng tiếp theo, thì đến cuối năm 2001 danh mục của bạn trị giá 533 kèm 33 chữ số 0 USD (533 × 10^33 USD; bản Pháp viết nhầm "533 tỷ", xem mục Lưu ý cuối chương).
 
-**Vì sao đó là ảo tưởng.** Không may, với mỗi IPO như Microsoft trở thành người thắng lớn, có hàng nghìn kẻ thua. Các nhà tâm lý học Daniel Kahneman và Amos Tversky đã chỉ ra rằng khi ước lượng xác suất hay tần suất của một sự kiện, con người không dựa vào tần suất thật mà dựa vào mức sống động của các ví dụ trong quá khứ. Ai cũng muốn mua "Microsoft tiếp theo", chính vì biết mình đã không mua Microsoft đầu tiên. Nhưng ta tiện thể quên rằng phần lớn các IPO khác là những khoản đầu tư tồi tệ. Bạn chỉ có thể đạt con số khổng lồ kia nếu không bao giờ bỏ lỡ một người thắng hiếm hoi nào trên thị trường IPO — điều bất khả thi trong thực tế. Cuối cùng, phần lớn lợi nhuận cao của IPO rơi vào tay một câu lạc bộ riêng: các ngân hàng đầu tư lớn và các công ty quỹ được phân bổ cổ phiếu ở giá chào ban đầu, trước khi cổ phiếu bắt đầu giao dịch công khai. Những cú bứt phá mạnh nhất thường xảy ra ở cổ phiếu nhỏ tới mức ngay cả nhiều nhà đầu tư lớn cũng không mua được; đơn giản là không đủ cổ phiếu để chia.
+**Vì sao đó là ảo tưởng.** Không may, với mỗi IPO như Microsoft trở thành người thắng lớn, có hàng nghìn kẻ thua. Các nhà tâm lý học Daniel Kahneman và Amos Tversky đã chỉ ra rằng khi ước lượng xác suất hay tần suất của một sự kiện, con người không dựa vào tần suất thật mà dựa vào mức sống động của các ví dụ trong quá khứ. Ai cũng muốn mua "Microsoft tiếp theo", chính vì biết mình đã không mua Microsoft đầu tiên. Nhưng ta tiện thể quên rằng phần lớn các IPO khác là những khoản đầu tư tồi tệ.
+
+Bạn chỉ có thể đạt con số khổng lồ kia nếu không bao giờ bỏ lỡ một người thắng hiếm hoi nào trên thị trường IPO — điều bất khả thi trong thực tế. Cuối cùng, phần lớn lợi nhuận cao của IPO rơi vào tay một câu lạc bộ riêng: các ngân hàng đầu tư lớn và các công ty quỹ được phân bổ cổ phiếu ở giá chào ban đầu, trước khi cổ phiếu bắt đầu giao dịch công khai. Những cú bứt phá mạnh nhất thường xảy ra ở cổ phiếu nhỏ tới mức ngay cả nhiều nhà đầu tư lớn cũng không mua được; đơn giản là không đủ cổ phiếu để chia.
 
 Nếu, như hầu hết nhà đầu tư, bạn chỉ mua được IPO sau khi giá đã vọt lên trên giá chào, kết quả của bạn sẽ rất tệ. Từ 1980 đến 2001, nếu mua một IPO trung bình ở giá đóng cửa ngày giao dịch đầu tiên và giữ ba năm, bạn sẽ thua thị trường hơn 23 điểm phần trăm mỗi năm. Chú thích của Zweig (9): Jay R. Ritter và Ivo Welch, "A Review of IPO Activity, Pricing, and Allocations", *Journal of Finance*, tháng 8/2002, trang 1797; trang web của Ritter và Welch là "mỏ vàng" dữ liệu về IPO.
 
@@ -740,7 +774,9 @@ Với nhà đầu tư năng động, phần lớn thành công đến từ việ
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương này bàn về **phần bù rủi ro tín dụng** (credit spread) và việc nó thường không đủ bù rủi ro vỡ nợ cho người nắm giữ đơn lẻ; về **bất đối xứng lợi nhuận** (asymmetric payoff) của trái phiếu mua ở mệnh giá; về **rủi ro chủ quyền** (sovereign risk) và tính không cưỡng chế được của nợ chính phủ nước ngoài; về **lựa chọn ngược và thời điểm thị trường của người phát hành** (adverse selection, issuer market timing) trong IPO và các bằng chứng **IPO kém hiệu quả dài hạn** (long-run IPO underperformance); về **chi phí giao dịch ẩn** (implementation shortfall, market impact) và **hiệu ứng quay vòng danh mục** (turnover drag); và về **tài chính hành vi** (heuristic tính sẵn có, quá tự tin của người giao dịch). Nguyên tắc nền tảng xuyên suốt là **biên an toàn** (margin of safety): chỉ chịu rủi ro khi giá mua đủ thấp để còn chỗ cho sai lầm — khái niệm Graham sẽ triển khai đầy đủ ở Chương 20.
+Chương này bàn về **phần bù rủi ro tín dụng** (credit spread) và việc nó thường không đủ bù rủi ro vỡ nợ cho người nắm giữ đơn lẻ; về **bất đối xứng lợi nhuận** (asymmetric payoff) của trái phiếu mua ở mệnh giá; về **rủi ro chủ quyền** (sovereign risk) và tính không cưỡng chế được của nợ chính phủ nước ngoài; về **lựa chọn ngược và thời điểm thị trường của người phát hành** (adverse selection, issuer market timing) trong IPO và các bằng chứng **IPO kém hiệu quả dài hạn** (long-run IPO underperformance); về **chi phí giao dịch ẩn** (implementation shortfall, market impact) và **hiệu ứng quay vòng danh mục** (turnover drag); và về **tài chính hành vi** (heuristic tính sẵn có, quá tự tin của người giao dịch).
+
+Nguyên tắc nền tảng xuyên suốt là **biên an toàn** (margin of safety): chỉ chịu rủi ro khi giá mua đủ thấp để còn chỗ cho sai lầm — khái niệm Graham sẽ triển khai đầy đủ ở Chương 20.
 
 ## Thuật ngữ
 
@@ -814,7 +850,9 @@ Chương này bàn về **phần bù rủi ro tín dụng** (credit spread) và 
 
 ### Quy tắc "đừng đổi rủi ro mất vốn lấy 1–2% lợi suất" là phần bền vững nhất của chương
 
-Lập luận của Graham không dựa vào mức lãi suất cụ thể nào mà dựa vào cấu trúc lời–lỗ: mua trái phiếu ở gần 100 thì phần được bị chặn, phần mất thì không. Vì thế nó đúng ở năm 1946 (trái phiếu đường sắt), năm 1971 và năm 2001 (WorldCom). Graham cũng trung thực khi thừa nhận nghiên cứu của Hickman cho thấy cả nhóm trái phiếu hạng hai có thể có lợi nhuận tổng thể tốt — rồi giải thích vì sao điều đó không cứu được cá nhân. Theo hiểu biết của người tổng hợp, cuộc khủng hoảng tài chính 2008 lặp lại bài học này ở quy mô lớn: nhiều sản phẩm tín dụng có lợi suất cao hơn trái phiếu chính phủ một chút (chẳng hạn chứng khoán gắn với nợ thế chấp) đã mất giá rất mạnh, và giai đoạn lãi suất gần 0 sau đó đẩy nhiều người "cần thu nhập" đi tìm lợi suất ở những chỗ rủi ro hơn.
+Lập luận của Graham không dựa vào mức lãi suất cụ thể nào mà dựa vào cấu trúc lời–lỗ: mua trái phiếu ở gần 100 thì phần được bị chặn, phần mất thì không. Vì thế nó đúng ở năm 1946 (trái phiếu đường sắt), năm 1971 và năm 2001 (WorldCom). Graham cũng trung thực khi thừa nhận nghiên cứu của Hickman cho thấy cả nhóm trái phiếu hạng hai có thể có lợi nhuận tổng thể tốt — rồi giải thích vì sao điều đó không cứu được cá nhân.
+
+Theo hiểu biết của người tổng hợp, cuộc khủng hoảng tài chính 2008 lặp lại bài học này ở quy mô lớn: nhiều sản phẩm tín dụng có lợi suất cao hơn trái phiếu chính phủ một chút (chẳng hạn chứng khoán gắn với nợ thế chấp) đã mất giá rất mạnh, và giai đoạn lãi suất gần 0 sau đó đẩy nhiều người "cần thu nhập" đi tìm lợi suất ở những chỗ rủi ro hơn.
 
 ### Zweig đã đúng khi nói trái phiếu rác qua quỹ khác hẳn trái phiếu rác mua lẻ
 
@@ -839,3 +877,202 @@ Bản PDF chứa các điểm không khớp: VA Linux 239,25 và 239,50; Aetna 2
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
 Ở mức định tính, các nguyên tắc của chương áp dụng trực tiếp cho thị trường như Việt Nam: (1) trái phiếu doanh nghiệp lợi suất cao được bán qua kênh tiếp thị mạnh tới nhà đầu tư cá nhân chính là tình huống Graham cảnh báo — hãy xem hệ số che phủ lãi vay và hỏi vì sao công ty phải trả lãi cao, đừng chỉ nhìn lợi suất; (2) các đợt IPO hay niêm yết mới trong giai đoạn thị trường sôi động nên được xem xét kỹ như mọi khoản mua doanh nghiệp, với câu hỏi "nếu mua cả công ty thì đáng bao nhiêu?"; (3) giao dịch ngắn hạn nhiều lần chịu phí, thuế trên giá trị bán và tác động giá, nên khó có lời hơn việc giữ dài hạn. Bản tổng hợp không đưa số liệu Việt Nam.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết, bốn nhánh cho Phần A (chương của Graham: Mục 1 về nền tảng chung và danh sách điều nên tránh, Mục 2 về trái phiếu hạng hai và cổ phiếu ưu đãi, Mục 3 về trái phiếu chính phủ nước ngoài, Mục 4–5 về phát hành mới và IPO cổ phiếu) và hai nhánh cho Phần B (bình luận của Zweig: Mục 1–3 về trái phiếu rác, WorldCom và trái phiếu thị trường mới nổi, Mục 4–5 về giao dịch nhiều và mua IPO), mỗi nhánh ghi quy tắc, ví dụ công ty và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: với nhà đầu tư năng động, lời khuyên hữu ích nhất là điều không nên làm, đừng đổi rủi ro mất vốn lấy thêm 1–2% thu nhập mỗi năm`"]
+  n1["`Phần A, Mục 1 (Graham) — Nền tảng chung và danh sách điều nên tránh`"]
+  n0 --- n1
+  n2["`Nhà đầu tư năng động xuất phát từ nền tảng của người phòng thủ: trái phiếu và cổ phiếu chất lượng cao mua ở giá hợp lý`"]
+  n1 --- n2
+  n3["`Năng động nghĩa là bỏ nhiều công sức, không phải chịu nhiều rủi ro, chữ agressif là Graham lỡ lời (Zweig)`"]
+  n1 --- n3
+  n4["`Để cổ phiếu ưu đãi hạng cao lại cho người mua là doanh nghiệp`"]
+  n1 --- n4
+  n5["`Tránh trái phiếu và cổ phiếu ưu đãi hạng thấp, trừ khi giá thấp hơn mức bình thường ít nhất 30%`"]
+  n1 --- n5
+  n6["`Để người khác mua trái phiếu chính phủ nước ngoài, dù lợi suất hấp dẫn`"]
+  n1 --- n6
+  n7["`Cảnh giác mọi đợt phát hành mới, kể cả trái phiếu chuyển đổi và cổ phiếu có lãi tốt chỉ vài năm gần đây`"]
+  n1 --- n7
+  n8["`Phần trái phiếu làm như người phòng thủ: hạng cao chịu thuế 7,25%, miễn thuế tới 5,30% (cuối 1971)`"]
+  n1 --- n8
+  n9["`Phần A, Mục 2 (Graham) — Trái phiếu hạng hai và cổ phiếu ưu đãi`"]
+  n0 --- n9
+  n10["`Cuối 1971 trái phiếu hạng nhất đã cho 7,25%, mua hạng hai chỉ để thêm lợi suất là vô nghĩa`"]
+  n9 --- n10
+  n11["`Trái phiếu tốt lãi suất cũ bán quanh 50 năm 1970: AT#amp;T 2,625% giá 51, McGraw-Hill 3,875% giá 50,5`"]
+  n9 --- n11
+  n12["`Khác biệt hạng nhất và hạng hai là số lần lợi nhuận che phủ lãi vay, Graham đòi 5 lần với trái phiếu đường sắt`"]
+  n9 --- n12
+  n13["`Milwaukee 5% giá 68, lợi suất 7,35%, che phủ chỉ 1,5 lần năm 1963, năm 1970 ngừng trả lãi, giá 10`"]
+  n12 --- n13
+  n14["`Mười trái phiếu thu nhập đường sắt: 102,5 (1946) xuống 68 (1947), mất 1/3, chỉ để thêm 1,75% lợi suất`"]
+  n9 --- n14
+  n15["`Ngành đường sắt năm 1947 lãi hơn 1946, cổ phiếu công nghiệp Dow Jones chỉ giảm khoảng 23%`"]
+  n14 --- n15
+  n16["`Đã chịu rủi ro thì phải có cơ hội lãi vốn thật lớn, nên bác bỏ khoản đầu tư của người làm kinh doanh`"]
+  n9 --- n16
+  n17["`Hạng hai 5,5% hay 6% bán ở mệnh giá gần như luôn là món mua tồi, ở giá 70 thì hợp lý hơn`"]
+  n16 --- n17
+  n18["`Chứng khoán hạng hai rơi mạnh khi thị trường xấu nhưng phần lớn hồi phục khi thời thế tốt`"]
+  n9 --- n18
+  n19["`Cities Service ưu đãi 6 USD: 15 USD (1937), nợ cổ tức 60 USD, năm 1947 đổi lấy 196,50 USD trái phiếu`"]
+  n18 --- n19
+  n20["`Hickman (NBER): cả nhóm có thể bù được lỗ, nhưng cá nhân không mua đủ nhiều loại và hoảng khi giá rơi`"]
+  n9 --- n20
+  n21["`Đừng mua ở 100 khi lần thị trường yếu tới có thể mua ở 70 hoặc thấp hơn`"]
+  n20 --- n21
+  n22["`Phần A, Mục 3 (Graham) — Trái phiếu chính phủ nước ngoài`"]
+  n0 --- n22
+  n23["`Từ 1914 lịch sử đầu tư tồi qua hai thế chiến và một cuộc đại suy thoái, vậy mà vẫn bán được ở gần mệnh giá`"]
+  n22 --- n23
+  n24["`Rủi ro cốt lõi: khi nước vay ngừng trả, chủ nợ không có cách pháp lý nào để đòi`"]
+  n22 --- n24
+  n25["`Cuba 4,5%: giá 117 năm 1953, ngừng trả lãi, còn 20 năm 1963`"]
+  n24 --- n25
+  n26["`Tiệp Khắc 8%: 96,5 (1922), 6 (1939), 117 (1946), còn 8 (1970)`"]
+  n24 --- n26
+  n27["`Năm 1963: Hy Lạp 7% giá 30, Congo thuộc Bỉ 5,25% giá 36, trái phiếu Ba Lan thấp tới 7`"]
+  n24 --- n27
+  n28["`Mua trái phiếu nước ngoài để thêm chút lợi suất góp phần gây thâm hụt cán cân thanh toán Mỹ`"]
+  n22 --- n28
+  n29["`Phần A, Mục 4–5 (Graham) — Phát hành mới và cổ phiếu IPO`"]
+  n0 --- n29
+  n30["`Phát hành mới có nỗ lực bán hàng đặc biệt: phí bảo lãnh khoảng 7%, cổ phiếu cũ dưới 4% (Zweig)`"]
+  n29 --- n30
+  n31["`Được bán khi thị trường thuận lợi cho người bán, tức bất lợi cho người mua`"]
+  n29 --- n31
+  n32["`Tác hại tăng dần khi đi xuống thang chất lượng, nặng nhất ở cổ phiếu phổ thông mới`"]
+  n29 --- n32
+  n33["`IPO của công ty tư nhân phần lớn để cổ đông kiểm soát rút tiền ra lúc thị trường tốt`"]
+  n29 --- n33
+  n34["`Phát hành quyền mua cho cổ đông hiện hữu thì gần như không cần nỗ lực bán hàng`"]
+  n33 --- n34
+  n35["`Dấu hiệu đỉnh: cổ phiếu công ty nhỏ vô danh được chào giá cao hơn công ty cỡ vừa lâu đời`"]
+  n29 --- n35
+  n36["`Kết cục: nhiều IPO mất 75% giá chào trở lên, rơi dưới giá trị thật cũng xa như từng ở trên`"]
+  n29 --- n36
+  n37["`Mẫu 41 cổ phiếu S#amp;P đợt 1960–1962: 5 cổ phiếu mất từ 90%, cả nhóm mất khoảng 2/3`"]
+  n36 --- n37
+  n38["`Aetna Maintenance: bán 9 USD (11/1961), lên 15 USD, còn 7/8 USD năm 1964`"]
+  n36 --- n38
+  n39["`AAA Enterprises: bán 14 USD (1968), lên 28 USD, còn 25 xu đầu 1971 khi đã phá sản`"]
+  n36 --- n39
+  n40["`Mỗi đô la kiếm dễ theo cách này, may lắm mới chỉ mất lại hai`"]
+  n29 --- n40
+  n41["`Chu kỳ IPO (Zweig): hơn 850 IPO 1960–1962, 9 năm 1974, gần 5.000 thập niên 1990, 88 năm 2001`"]
+  n29 --- n41
+  n42["`Phần B, Mục 1–3 (Zweig) — Trái phiếu rác, WorldCom, trái phiếu thị trường mới nổi`"]
+  n0 --- n42
+  n43["`Điều bạn không làm quan trọng ngang điều bạn làm (đề từ của Angelo Dundee)`"]
+  n42 --- n43
+  n44["`Nay hơn 130 quỹ trái phiếu rác nên đa dạng hoá được, nhưng phí cao, chỉ là lựa chọn phụ`"]
+  n42 --- n44
+  n45["`Từ 1978 vỡ nợ 4,4%/năm nhưng vẫn lãi 10,5%/năm so với 8,6% của trái phiếu Kho bạc 10 năm`"]
+  n44 --- n45
+  n46["`Hợp với người nghỉ hưu cần thêm thu nhập, hoặc người làm ngành tài chính cần đối trọng khi lãi suất tăng`"]
+  n44 --- n46
+  n47["`WorldCom 9/5/2001 bán 11,9 tỷ USD trái phiếu, lợi suất tới 8,3%, CalPERS cũng mua`"]
+  n42 --- n47
+  n48["`Cáo bạch: 2 trên 5 năm lợi nhuận trước thuế không đủ trả lãi, thiếu 4,1 tỷ USD`"]
+  n47 --- n48
+  n49["`7/2002 phá sản, khai khống lợi nhuận hơn 7 tỷ USD, trái phiếu mất hơn 80%`"]
+  n47 --- n49
+  n50["`Graham coi trái phiếu nước ngoài không tốt hơn trái phiếu rác`"]
+  n42 --- n50
+  n51["`Quỹ trái phiếu thị trường mới nổi: tối đa 10% phần trái phiếu, tránh quỹ chi phí trên 1,25%/năm`"]
+  n50 --- n51
+  n52["`Ít đi cùng chiều cổ phiếu Mỹ, không nhất thiết giảm khi Dow Jones giảm`"]
+  n50 --- n52
+  n53["`Phần B, Mục 4–5 (Zweig) — Giao dịch nhiều và mua IPO`"]
+  n0 --- n53
+  n54["`Giao dịch trong ngày là vũ khí tự sát tài chính, chỉ người môi giới luôn lãi`"]
+  n53 --- n54
+  n55["`Tác động thị trường, phí 2%–4% mỗi chiều, thuế 38,6% thay vì 20%: phải lãi ít nhất 10% mới hoà vốn`"]
+  n54 --- n55
+  n56["`Barber–Odean, 66.000 tài khoản 1991–1996: nhóm giao dịch nhiều nhất thua thị trường 6,4 điểm %/năm`"]
+  n54 --- n56
+  n57["`Nhà đầu tư dài hạn là loại nhà đầu tư duy nhất tồn tại`"]
+  n54 --- n57
+  n58["`Microsoft IPO 1986: 2.100 USD thành 720.000 USD, nhưng mỗi Microsoft có hàng nghìn kẻ thua`"]
+  n53 --- n58
+  n59["`Heuristic tính sẵn có: ước xác suất theo độ sống động của ví dụ, nên ai cũng tìm Microsoft tiếp theo`"]
+  n58 --- n59
+  n60["`Mua IPO ở giá đóng cửa ngày đầu, giữ 3 năm (1980–2001): thua thị trường hơn 23 điểm %/năm`"]
+  n53 --- n60
+  n61["`VA Linux: chào 30 USD, đóng cửa ngày đầu 239,25 USD (tăng 697,5%), định giá 12,7 tỷ USD`"]
+  n53 --- n61
+  n62["`Doanh thu cộng dồn chỉ 44 triệu USD, lỗ 25 triệu USD, ba năm sau còn 1,19 USD`"]
+  n61 --- n62
+  n63["`Chỉ mua khi cổ phiếu là cách rẻ để sở hữu một doanh nghiệp đáng sở hữu, bất kể bao nhiêu người muốn mua`"]
+  n53 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Lợi suất cao là tín hiệu rủi ro, không phải phần thưởng: kiểm tra hệ số che phủ lãi vay trước khi mua`"]
+  n64 --- n65
+  n66["`Ở giá gần 100, phần được bị chặn ở 1–2%/năm, phần mất có thể là 1/3 vốn`"]
+  n64 --- n66
+  n67["`Chỉ chịu rủi ro khi giá đủ thấp để còn biên an toàn, khái niệm Graham triển khai ở Chương 20`"]
+  n64 --- n67
+  n68["`Người phát hành chọn thời điểm có lợi cho mình, nên chờ vài năm sau khi không ai muốn chứng khoán đó`"]
+  n64 --- n68
+  class n0 root
+  class n1,n9,n22,n29,n42,n53,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 6 "Politique de portefeuille pour l'investisseur entreprenant: approche négative" (PDF trang 121–131) và "Commentaire sur le chapitre 6" (PDF trang 131–139). Chú thích của Graham cho chương này nằm ở PDF trang 483; chú thích của Zweig nằm ở PDF trang 605–609.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972, trong đó có những đoạn Graham giữ nguyên từ các ấn bản 1959 và 1965); bình luận: Jason Zweig, nhà báo tài chính của tạp chí *Money* (2003).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 ([C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)) và Chương 5 ([C05-nha-dau-tu-phong-thu-va-co-phieu.md](C05-nha-dau-tu-phong-thu-va-co-phieu.md)) đã dựng xong danh mục của nhà đầu tư phòng thủ: chia tiền giữa trái phiếu chất lượng cao và cổ phiếu lớn, vững, mua ở giá hợp lý. Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) đã định nghĩa nhà đầu tư năng động là người sẵn sàng bỏ nhiều thời gian và công sức, chứ không phải người chấp nhận nhiều rủi ro hơn.
+
+Chương 6 là nửa đầu của phần dành cho nhà đầu tư năng động, và là nửa "tiêu cực": trước khi nói nên làm gì, Graham liệt kê những loại chứng khoán người năng động nên tránh — trái phiếu và cổ phiếu ưu đãi hạng hai mua ở giá đầy đủ, trái phiếu chính phủ nước ngoài, và các đợt phát hành mới, nhất là cổ phiếu của công ty nhỏ lần đầu ra công chúng trong thị trường giá lên.
+
+Chương 7 ([C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md](C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md)) sẽ nói phần "tích cực": những việc nhà đầu tư năng động có thể làm (mua khi thị trường thấp, cổ phiếu giá hời, tình huống đặc biệt...). Ví dụ AAA Enterprises được nhắc ở cuối chương sẽ được phân tích kỹ ở Chương 17 ([C17-bon-truong-hop-dang-hoc.md](C17-bon-truong-hop-dang-hoc.md)); trường hợp Aetna Maintenance được kể đầy đủ ở Phụ lục 5 ([PL2-7-cac-phu-luc-khac.md](PL2-7-cac-phu-luc-khac.md)).
+
+## Lưu ý
+
+- **Bản dịch máy lệch nghĩa ở nhiều chỗ ảnh hưởng tới nội dung:**
+  - "acheteurs d'entreprises" nghĩa là *người mua là doanh nghiệp* (corporate buyers), không phải "người mua doanh nghiệp"
+  - "émissions de deuxième année" là lỗi của "émissions de deuxième catégorie" (chứng khoán hạng hai)
+  - "obligations obligataires à revenu" là *trái phiếu thu nhập* (income bonds)
+  - "option privilégiée" ở PDF trang 123 phải hiểu là *cổ phiếu ưu đãi*
+  - "devis" là *giá yết*
+  - "Le même problème à 70 ans" nghĩa là *cùng chứng khoán đó ở giá 70*, không phải "70 năm"
+  - "7 grecs à 30 ans" là *trái phiếu 7% của Hy Lạp ở giá 30*
+  - "divers numéros de la Pologne" là *nhiều loại trái phiếu của Ba Lan*
+  - "Nouveaux problèmes en général" là *Các đợt phát hành mới nói chung* ("problème" là dịch sai của *issue*, ở đây nghĩa là "đợt phát hành/chứng khoán")
+  - "qualité de vente" là *nỗ lực bán hàng* (salesmanship)
+  - "période de «jurer»" là giai đoạn *thề chừa* (sau khi bị thiệt, công chúng thề không mua nữa)
+  - "commerçants" trong bình luận là *người giao dịch* (traders)
+  - "rendement en matières grasses" là *lợi suất béo bở*
+  - "par une moustache" là *sát nút, hơn chút xíu*
+- **Một câu bị dịch ngược nghĩa:** ở mục "Le portefeuille Vodka-et-Burrito", bản Pháp viết Graham coi trái phiếu nước ngoài là "một cửa cược tốt hơn" trái phiếu rác. Theo nội dung chương (Graham cảnh báo cả hai) và theo hiểu biết của người tổng hợp về bản tiếng Anh, Zweig viết rằng Graham coi trái phiếu nước ngoài **không tốt hơn** trái phiếu rác. Bản tổng hợp theo nghĩa này.
+- **Lỗi số "533 milliards":** bản Pháp ghi danh mục IPO giả định của Ritter và Schwert đạt "plus de 533 milliards de dollars" (533 tỷ USD), nhưng ngay dòng dưới in con số 533 kèm 33 chữ số 0, tức 533 × 10^33 USD (bản tiếng Anh dùng chữ *decillion*). Con số đúng là con số khổng lồ 533 × 10^33; "milliards" là lỗi dịch.
+- **Các chỗ số liệu không khớp nhau trong sách:**
+  - VA Linux đóng cửa ngày đầu ở 239,25 USD (PDF trang 137) nhưng chú giải Hình 6-2 ghi 239,50 USD; mức tăng 697,5% khớp với 239,25 (239,25 / 30 = 7,975 lần).
+  - Aetna Maintenance: chương này ghi giá năm 1962 là 2 3/8, Phụ lục 5 ghi 2 2/3.
+  - AAA Enterprises: chương này ghi bán ra công chúng ở 14 USD năm 1968, Chương 17 ghi 13 USD vào tháng 3/1969.
+  - "Cities Service ... à 27% en 1943" trong chú thích 2 của Graham: dấu "%" gần như chắc chắn là lỗi chuyển phân số; đó là giá khoảng 27 USD mỗi cổ phiếu.
+- **Chỗ dịch "70 xu trên mỗi đô la đầu tư":** VA Linux quý gần nhất có doanh thu 15 triệu USD và lỗ 10 triệu USD, tức lỗ gần 70 xu (10/15 ≈ 67%) trên mỗi đô la **doanh thu**, không phải "mỗi đô la đầu tư" như bản Pháp.
+- **Ba chữ viết tắt IPO ở cuối bình luận:** Zweig chơi chữ với bốn cụm tiếng Anh đều viết tắt là I-P-O (*It's Probably Overpriced*; *Imaginary Profits Only*; *Insiders' Private Opportunity*; *Idiotic, Preposterous, and Outrageous* — theo hiểu biết của người tổng hợp). Bản Pháp dịch nghĩa nên mất trò chơi chữ.
+- **Hình 6-1 và Hình 6-2 bị trống trong bản PDF:** ảnh trang PDF 135–136 và 138 chỉ còn tiêu đề và chú giải, không có biểu đồ. Bản tổng hợp chỉ chép được những gì chữ nói. Theo hiểu biết của người tổng hợp (không tra cứu), bài nghiên cứu gốc của Barber và Odean (giai đoạn 1991–1996) cho biết nhóm 20% hộ gia đình giao dịch nhiều nhất chỉ đạt khoảng 11,4%/năm sau chi phí, trong khi thị trường đạt khoảng 17,9%/năm; đây là thông tin ngoài sách.
+- **Số liệu đã cũ:** lợi suất 7,25% (trái phiếu doanh nghiệp hạng cao) và 5,30% (trái phiếu miễn thuế) là cuối năm 1971; Zweig cập nhật đầu năm 2003 là 5,1% và 4,7%. Thuế lãi vốn dài hạn tối đa 20% và thuế thu nhập thông thường tối đa 38,6% là luật Mỹ năm 2002; theo hiểu biết của người tổng hợp, sau đó các mức này đã đổi nhiều lần (từ năm 2018 mức trần thuế thu nhập là 37%). Chi phí giao dịch cổ phiếu cho cá nhân cũng đã giảm mạnh: nhiều công ty môi giới Mỹ bỏ phí hoa hồng từ năm 2019, nhưng chênh lệch giá mua–bán và "tác động thị trường" mà Zweig nói vẫn còn. Các trang web Zweig dẫn trong chú thích (năm 2002–2003) có thể không còn.
+- **Dẫn trang của bản tiếng Anh:** Zweig viết "voir l'encadré à la p. 146", "voir pp. 145–147", "voir p. 128, note 5" — đó là số trang bản tiếng Anh; bản PDF không có số trang in. Khung WorldCom tương ứng nằm ở PDF trang 132–133; "p. 128, note 5" là chú thích về chi phí giao dịch trong bình luận Chương 5 (nội dung đã chép vào bản tổng hợp).
+- **Chỗ dễ hiểu nhầm:** Graham dùng chữ "agressif" ở câu đầu chương; Zweig chú thích rằng đây là Graham lỡ lời, vì theo Chương 1 nhà đầu tư năng động được định nghĩa bằng lượng công sức bỏ ra, không phải bằng mức rủi ro chấp nhận. Trong bản tổng hợp, "nhà đầu tư năng động" luôn mang nghĩa này.

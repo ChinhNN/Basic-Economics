@@ -1,22 +1,22 @@
 # Chương 8 — Nhà đầu tư và biến động thị trường (L'investisseur et les fluctuations du marché)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 8 "L'investisseur et les fluctuations du marché" (PDF trang 165–185) và "Commentaire sur le chapitre 8" (PDF trang 185–196). Chú thích của Graham cho chương này nằm ở PDF trang 484–485; chú thích của Zweig nằm ở PDF trang 615–621.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) phân biệt đầu tư với đầu cơ và khuyên ai muốn đầu cơ thì tách riêng một khoản nhỏ. Chương 3 ([C03-mot-the-ky-lich-su-thi-truong-chung-khoan.md](C03-mot-the-ky-lich-su-thi-truong-chung-khoan.md)) kể lại một trăm năm lên xuống của thị trường cổ phiếu Mỹ. Chương 4 ([C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)) đề ra quy tắc chia vốn giữa cổ phiếu và trái phiếu trong khoảng 25%–75%. Các Chương 5–7 bàn nên mua loại cổ phiếu nào. Chương 8 trả lời câu hỏi còn lại: khi giá những thứ mình đã mua (hoặc định mua) lên xuống, nhà đầu tư nên nghĩ và làm gì. Graham loại bỏ việc đoán trước thị trường (canh thời điểm), giữ lại việc so giá với giá trị (định giá), và đưa ra ngụ ngôn ông Thị Trường (Mr. Market). Warren Buffett coi chương này cùng Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md), biên an toàn) là hai chương quan trọng nhất của cả cuốn sách. Chương 9 ([C09-dau-tu-vao-quy.md](C09-dau-tu-vao-quy.md)) chuyển sang quỹ đầu tư, và Chương 14–15 dùng lại tiêu chí "giá không cao hơn giá trị tài sản hữu hình quá một phần ba" nêu ở đây.
-**Ý chính:** Graham muốn người đọc hiểu rằng **giá cổ phiếu chắc chắn sẽ dao động mạnh, nhà đầu tư không thể kiếm tiền bằng cách đoán trước các dao động đó, nhưng có thể kiếm tiền bằng cách so giá với giá trị: mua khi giá thấp hơn nhiều so với giá trị doanh nghiệp, bán (hoặc thôi mua) khi giá cao hơn nhiều, và những lúc còn lại thì bỏ qua thị trường, chỉ theo dõi cổ tức và kết quả kinh doanh của doanh nghiệp**. Graham chứng minh việc đoán thị trường thất bại bằng lý thuyết Dow (cho tín hiệu bán ở mức 306 điểm một tháng trước cú sập năm 1929, nhưng từ năm 1938 trở đi lại kém hơn cách mua rồi giữ chỉ số Dow Jones suốt gần 30 năm) và bằng các "kế hoạch đầu tư theo công thức" (bán hết cổ phiếu giữa thập niên 1950 rồi không mua lại được). Ví dụ trung tâm là A. & P., chuỗi bán lẻ lớn nhất nước Mỹ: năm 1938 cả công ty được thị trường định giá 126 triệu USD trong khi riêng tiền mặt đã là 85 triệu USD và vốn lưu động ròng là 134 triệu USD; giá cổ phiếu xuống 36 rồi một năm sau lên 117½; đến năm 1961 giá tương đương 705 (bằng 30 lần lợi nhuận) rồi một năm sau rơi một nửa, và năm 1972 chỉ còn 18 sau quý lỗ đầu tiên trong lịch sử công ty. Từ đó Graham rút ra hai bài học: thị trường thường định giá sai một cách rõ ràng, và doanh nghiệp tự nó cũng thay đổi theo thời gian. Ông kết thúc bằng ngụ ngôn: bạn có một phần vốn 1.000 USD trong một doanh nghiệp tư nhân, người cộng sự tên là ông Thị Trường mỗi ngày báo giá phần vốn của bạn và đề nghị mua hoặc bán; bạn chỉ giao dịch với ông khi giá ông đưa ra có lợi cho bạn, còn lại thì tự đánh giá dựa trên báo cáo của doanh nghiệp. Ông còn nói thêm hai điều: cổ phiếu càng chất lượng thì giá càng mang tính đầu cơ (vì giá càng xa giá trị sổ sách), và trái phiếu dài hạn dù an toàn vẫn có thể mất hai phần ba giá khi lãi suất tăng.
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **ông Thị Trường vẫn còn nguyên đó và vẫn "lưỡng cực"**: cổ phiếu Inktomi lên 231,625 USD ngày 17/3/2000 (công ty được định giá 25 tỷ USD, gấp 250 lần doanh thu, chưa từng có lãi) rồi xuống 0,25 USD ngày 30/9/2002 (dưới 40 triệu USD, 0,35 lần doanh thu, dù doanh thu 12 tháng đã là 113 triệu USD), sau đó Yahoo! mua lại với giá 1,65 USD một cổ phiếu. Zweig cho thấy nhà đầu tư cá nhân có một lợi thế mà nhà quản lý quỹ không có: được tự do không làm theo ông Thị Trường. Ông giải thích vì sao bộ não con người (tìm quy luật, dopamine khi đoán trúng, hạch hạnh nhân khi thua lỗ, nỗi đau mất tiền gấp hơn hai lần niềm vui được tiền) đẩy ta mua cao bán thấp; ông khuyên "kiểm soát những gì kiểm soát được" (phí, chi phí, kỳ vọng, rủi ro, thuế, hành vi), mua đều hằng tháng vào quỹ chỉ số toàn thị trường, coi giá giảm là tin tốt, có thể bán lỗ để được trừ thuế, và ký một "Hợp đồng của người sở hữu khoản đầu tư" để tự ràng buộc mình.
+Graham muốn người đọc hiểu rằng **giá cổ phiếu chắc chắn sẽ dao động mạnh, nhà đầu tư không thể kiếm tiền bằng cách đoán trước các dao động đó, nhưng có thể kiếm tiền bằng cách so giá với giá trị: mua khi giá thấp hơn nhiều so với giá trị doanh nghiệp, bán (hoặc thôi mua) khi giá cao hơn nhiều, và những lúc còn lại thì bỏ qua thị trường, chỉ theo dõi cổ tức và kết quả kinh doanh của doanh nghiệp**.
 
-> **Lưu ý:**
-> - **Bảng 8-1 và Hình 8-1 không có trong bản PDF.** Trang PDF 183 có một khoảng trắng lớn ở nửa trên (chỗ đặt Tableau 8-1 về lợi suất và giá trái phiếu từ năm 1902 đến 1970) và trang PDF 188 có một khoảng trắng giữa trang (chỗ đặt Figure 8-1 của Zweig về các cổ phiếu "tệ nhất năm 1999 thành ngôi sao 2000–2002"). Lớp chữ cũng không chứa số liệu của hai bảng/hình này. Người tổng hợp không tự dựng lại số liệu để tránh bịa; phần Nội dung chi tiết chỉ gom các con số mà lời văn có nêu.
-> - **Lỗi dấu thập phân nghiêm trọng:** bản Pháp ghi giá đỉnh của Inktomi là "231 625 $" (đọc như hai trăm ba mươi mốt nghìn USD). Bản gốc là **231,625 USD** (231 5/8 USD) một cổ phiếu. Bản tổng hợp dùng 231,625 USD.
-> - **Dịch máy lệch nghĩa ảnh hưởng tới hiểu:** "mode de synchronisation / mode de tarification" là *timing* (canh thời điểm) và *pricing* (định giá, tức so giá với giá trị); "se laisse tamponner" là *lets himself be stampeded* (để mình bị cuốn theo đám đông hoảng loạn); "donne de précieux otages à la fortune" là thành ngữ *gives hostages to fortune* (tự đặt mình vào thế phụ thuộc may rủi); "erreurs de brevet" là *patent errors* (sai lầm hiển nhiên), không liên quan tới bằng sáng chế; "examiner la photo" là *examine the picture* (xem xét lại tình hình); "arrêter mentalement une partie du coût" là *mentally write down part of the cost* (tự ghi giảm một phần giá vốn trong đầu); "commerçant public" là *public trader* (người giao dịch đại chúng); "contrat de cautionnement" là *bond indenture* (khế ước trái phiếu); trong chú thích 4 của Graham "recevoir son directeur" là *receive his principal* (nhận lại tiền gốc); "Baarated liaison" là *Baa-rated bond* (trái phiếu hạng Baa); "pour les générations une de nos principales émissions" là "nhiều thế hệ nay là một trong những trái phiếu hàng đầu không thể bị mua lại trước hạn"; "données pour plusieurs années jusqu'en 1902" là "số liệu nhiều năm, ngược về tới 1902"; "généralement lent et lent" là *generally sluggish* (vốn thường ì ạch); "frais de propriété" là *ownership costs* (chi phí sở hữu quỹ); "plus fou qu'un gâteau aux fruits" là thành ngữ *nuttier than a fruitcake* (điên rồ hết mức); các nhãn quỹ "petite croissance / valeur moyenne / grand mélange" là *small growth / mid value / large blend*. Chữ "stock(s)" trong bản Pháp lúc nghĩa là cổ phiếu, lúc là "vốn cổ phần"; bản tổng hợp hiểu theo nghĩa cổ phiếu.
-> - **Số chú thích bị dịch máy thành chữ:** "retourssept" là chú thích 7 của Zweig, "?dix" là chú thích 10.
-> - **Chú thích "11" trong văn bản của Graham (PDF trang 167).** Sau câu "các dự báo của công ty môi giới ít ra cũng đáng tin hơn dự báo của chính mình" có số chú thích "11" trỏ tới chú thích 11 ở PDF trang 615–616 (về các "chiến lược gia thị trường" năm 2000–2001). Nội dung khớp với đoạn văn; người tổng hợp hiểu đây là chú thích của Zweig gắn vào câu của Graham (đánh số sai thành "11" khi chuyển định dạng). Tương tự, chú thích "* Voir p. 3." (PDF trang 616) được người tổng hợp gán cho dấu * sau "lý thuyết Dow" theo thứ tự xuất hiện; Zweig chỉ ghi "xem trang 3" của bản tiếng Anh.
-> - **Mâu thuẫn số học có sẵn trong bản gốc:** Graham viết từ 1897 tới 1949 có "mười chu kỳ thị trường trọn vẹn", nhưng liệt kê sáu chu kỳ dài không quá 4 năm, bốn chu kỳ dài 6–7 năm và một chu kỳ 11 năm, cộng lại thành mười một. Zweig viết tỷ lệ đóng góp vào quỹ hưu trí 401(k) giảm "gần một phần tư" từ 8,6% xuống 7%, nhưng tính lại chỉ giảm khoảng 18,6% (gần một phần năm). Trong ví dụ Coca-Cola, Zweig nói mua lại với giá "rẻ hơn gần một phần ba"; tính lại 44 USD so với 60 USD là rẻ hơn khoảng 26,7% (hơn một phần tư một chút).
-> - **Dẫn trang của bản tiếng Anh mà bản PDF không có:** Graham dẫn "Tableau 3-1 (p. 66)" (Chương 3), "p. 93" (trái phiếu tiết kiệm Mỹ, Chương 4), "Tableau 16-2 ci-dessous, p. 406" (Chương 16); Zweig dẫn "p. 222" (khung tin tức), "p. 225" (hợp đồng), "pp. 204–205" (ngụ ngôn ông Thị Trường, chính là chương này), "pp. 89–91" và "pp. 104–105" (Chương 4), "annexe 4 (p. 570)". Bản tổng hợp thay các chỗ dẫn này bằng nội dung được dẫn.
-> - **Số liệu đã cũ:** mọi mức lãi suất (trái phiếu doanh nghiệp tốt 7,5%, trái phiếu đô thị 5,3%, trái phiếu tiết kiệm Mỹ loại E và H 5%) là của đầu năm 1972; luật thuế Mỹ cho phép trừ lỗ vốn tối đa 3.000 USD vào thu nhập thường và quy tắc chờ 31 ngày là luật đầu năm 2003. Trái phiếu tiết kiệm loại E và H nay không còn phát hành theo dạng đó (theo hiểu biết của người tổng hợp, không tra cứu: loại E được thay bằng loại EE và loại I gắn với lạm phát, loại H đã ngừng). Đề xuất trái phiếu lãi suất thả nổi và trái phiếu bảo đảm mức tối thiểu của Graham về sau đã thành hiện thực ở nhiều dạng (trái phiếu lãi suất thả nổi, TIPS), như Zweig ghi.
-> - **Về A&P:** theo hiểu biết của người tổng hợp, không tra cứu, Great Atlantic & Pacific Tea Co. phá sản lần đầu năm 2010 và phá sản lần nữa, thanh lý năm 2015 — đúng với bài học thứ hai của Graham rằng doanh nghiệp có thể đổi chất theo thời gian. Inktomi được Yahoo! mua lại năm 2003; CMGI về sau đổi tên và thu nhỏ hẳn. Trong khung tin của Zweig, bài hát của ban nhạc Bachman-Turner Overdrive là "You Ain't Seen Nothing Yet" ("Bạn chưa thấy gì đâu"), bản Pháp dịch thành "Vous ne voyez rien d'autre encore".
+Graham chứng minh việc đoán thị trường thất bại bằng lý thuyết Dow (cho tín hiệu bán ở mức 306 điểm một tháng trước cú sập năm 1929, nhưng từ năm 1938 trở đi lại kém hơn cách mua rồi giữ chỉ số Dow Jones suốt gần 30 năm) và bằng các "kế hoạch đầu tư theo công thức" (bán hết cổ phiếu giữa thập niên 1950 rồi không mua lại được).
+
+Ví dụ trung tâm là A. & P., chuỗi bán lẻ lớn nhất nước Mỹ: năm 1938 cả công ty được thị trường định giá 126 triệu USD trong khi riêng tiền mặt đã là 85 triệu USD và vốn lưu động ròng là 134 triệu USD; giá cổ phiếu xuống 36 rồi một năm sau lên 117½; đến năm 1961 giá tương đương 705 (bằng 30 lần lợi nhuận) rồi một năm sau rơi một nửa, và năm 1972 chỉ còn 18 sau quý lỗ đầu tiên trong lịch sử công ty. Từ đó Graham rút ra hai bài học: thị trường thường định giá sai một cách rõ ràng, và doanh nghiệp tự nó cũng thay đổi theo thời gian.
+
+Ông kết thúc bằng ngụ ngôn: bạn có một phần vốn 1.000 USD trong một doanh nghiệp tư nhân, người cộng sự tên là ông Thị Trường mỗi ngày báo giá phần vốn của bạn và đề nghị mua hoặc bán; bạn chỉ giao dịch với ông khi giá ông đưa ra có lợi cho bạn, còn lại thì tự đánh giá dựa trên báo cáo của doanh nghiệp.
+
+Ông còn nói thêm hai điều: cổ phiếu càng chất lượng thì giá càng mang tính đầu cơ (vì giá càng xa giá trị sổ sách), và trái phiếu dài hạn dù an toàn vẫn có thể mất hai phần ba giá khi lãi suất tăng.
+
+Zweig, viết năm 2003, bổ sung rằng **ông Thị Trường vẫn còn nguyên đó và vẫn "lưỡng cực"**: cổ phiếu Inktomi lên 231,625 USD ngày 17/3/2000 (công ty được định giá 25 tỷ USD, gấp 250 lần doanh thu, chưa từng có lãi) rồi xuống 0,25 USD ngày 30/9/2002 (dưới 40 triệu USD, 0,35 lần doanh thu, dù doanh thu 12 tháng đã là 113 triệu USD), sau đó Yahoo! mua lại với giá 1,65 USD một cổ phiếu.
+
+Zweig cho thấy nhà đầu tư cá nhân có một lợi thế mà nhà quản lý quỹ không có: được tự do không làm theo ông Thị Trường. Ông giải thích vì sao bộ não con người (tìm quy luật, dopamine khi đoán trúng, hạch hạnh nhân khi thua lỗ, nỗi đau mất tiền gấp hơn hai lần niềm vui được tiền) đẩy ta mua cao bán thấp.
+
+Ông khuyên "kiểm soát những gì kiểm soát được" (phí, chi phí, kỳ vọng, rủi ro, thuế, hành vi), mua đều hằng tháng vào quỹ chỉ số toàn thị trường, coi giá giảm là tin tốt, có thể bán lỗ để được trừ thuế, và ký một "Hợp đồng của người sở hữu khoản đầu tư" để tự ràng buộc mình.
 
 ## Sơ đồ
 
@@ -626,9 +626,15 @@ Zweig, viết năm 2003, bổ sung rằng **ông Thị Trường vẫn còn nguy
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Nhà đầu tư có nên cố đoán thị trường lên hay xuống để mua bán theo không?** Không. Graham phân biệt canh thời điểm (đoán trước diễn biến thị trường) với định giá (so giá với giá trị). Đại chúng không thể cùng làm giàu nhờ dự báo, vì khi tất cả cùng bán theo một tín hiệu thì không còn ai mua. Chờ đợi tín hiệu chỉ có lợi nếu sau đó mua rẻ hơn đủ để bù phần cổ tức đã mất. Các hệ thống dự báo phổ biến đều hỏng đúng lúc chúng nổi tiếng: lý thuyết Dow thua cách mua rồi giữ chỉ số suốt gần 30 năm sau 1938; các kế hoạch theo công thức bán hết cổ phiếu giữa thập niên 1950 rồi không mua lại được khi thị trường tăng gấp đôi trong 5 năm. Zweig thêm ví dụ năm 2000–2001: các chiến lược gia dự báo NASDAQ lên 6.000 điểm, S&P 500 lên 1.650 điểm, nhưng thực tế NASDAQ xuống 1.114 điểm và S&P 500 kết thúc năm 2001 ở 1.148 điểm.
-2. **Nhà đầu tư nên xử lý thế nào khi giá cổ phiếu mình nắm tăng hoặc giảm mạnh?** Chấp nhận trước rằng trong 5 năm, phần lớn cổ phiếu sẽ tăng từ 50% trở lên so với đáy và giảm từ một phần ba trở lên so với đỉnh. Coi giá thị trường như lời chào giá của ông Thị Trường: bán cho ông khi ông trả cao vô lý, mua của ông khi ông bán rẻ vô lý, còn lại thì bỏ qua giá và theo dõi cổ tức, kết quả kinh doanh. Không bao giờ mua chỉ vì giá vừa tăng hoặc bán chỉ vì giá vừa giảm. Để chống lại tâm lý đám đông, dùng một quy tắc máy móc thay đổi tỷ lệ cổ phiếu/trái phiếu (tái cân bằng), đầu tư định kỳ, ký "hợp đồng" với chính mình. Ngoại lệ hợp lý duy nhất mà Zweig nêu là bán lỗ để được trừ thuế rồi mua lại sau 31 ngày.
-3. **Vì sao cổ phiếu của công ty tốt nhất lại có thể dao động mạnh nhất, và trái phiếu "an toàn" có thật sự không rủi ro về giá?** Công ty càng tốt thì giá càng cao hơn giá trị sổ sách, nên phần lớn giá phụ thuộc vào tâm trạng thị trường; vì vậy IBM rơi từ 607 xuống 300 trong 7 tháng, Xerox từ 171 xuống 87, dù triển vọng không hề đổi. Graham khuyên nhà đầu tư thận trọng ưu tiên cổ phiếu có giá không cao hơn quá một phần ba giá trị tài sản hữu hình, cộng thêm lợi nhuận và tài chính tốt. Trái phiếu dài hạn an toàn về gốc và lãi vẫn có thể mất hai phần ba giá khi lãi suất tăng (Northern Pacific 3% đáo hạn 2047); chỉ số giá trái phiếu đô thị giảm từ 110,8 xuống 67,5 khi lợi suất tăng từ 3,2% lên 7% trong giai đoạn 1965–1970.
+1. **Nhà đầu tư có nên cố đoán thị trường lên hay xuống để mua bán theo không?** Không. Graham phân biệt canh thời điểm (đoán trước diễn biến thị trường) với định giá (so giá với giá trị). Đại chúng không thể cùng làm giàu nhờ dự báo, vì khi tất cả cùng bán theo một tín hiệu thì không còn ai mua.
+
+   Chờ đợi tín hiệu chỉ có lợi nếu sau đó mua rẻ hơn đủ để bù phần cổ tức đã mất. Các hệ thống dự báo phổ biến đều hỏng đúng lúc chúng nổi tiếng: lý thuyết Dow thua cách mua rồi giữ chỉ số suốt gần 30 năm sau 1938; các kế hoạch theo công thức bán hết cổ phiếu giữa thập niên 1950 rồi không mua lại được khi thị trường tăng gấp đôi trong 5 năm. Zweig thêm ví dụ năm 2000–2001: các chiến lược gia dự báo NASDAQ lên 6.000 điểm, S&P 500 lên 1.650 điểm, nhưng thực tế NASDAQ xuống 1.114 điểm và S&P 500 kết thúc năm 2001 ở 1.148 điểm.
+2. **Nhà đầu tư nên xử lý thế nào khi giá cổ phiếu mình nắm tăng hoặc giảm mạnh?** Chấp nhận trước rằng trong 5 năm, phần lớn cổ phiếu sẽ tăng từ 50% trở lên so với đáy và giảm từ một phần ba trở lên so với đỉnh. Coi giá thị trường như lời chào giá của ông Thị Trường: bán cho ông khi ông trả cao vô lý, mua của ông khi ông bán rẻ vô lý, còn lại thì bỏ qua giá và theo dõi cổ tức, kết quả kinh doanh. Không bao giờ mua chỉ vì giá vừa tăng hoặc bán chỉ vì giá vừa giảm.
+
+   Để chống lại tâm lý đám đông, dùng một quy tắc máy móc thay đổi tỷ lệ cổ phiếu/trái phiếu (tái cân bằng), đầu tư định kỳ, ký "hợp đồng" với chính mình. Ngoại lệ hợp lý duy nhất mà Zweig nêu là bán lỗ để được trừ thuế rồi mua lại sau 31 ngày.
+3. **Vì sao cổ phiếu của công ty tốt nhất lại có thể dao động mạnh nhất, và trái phiếu "an toàn" có thật sự không rủi ro về giá?** Công ty càng tốt thì giá càng cao hơn giá trị sổ sách, nên phần lớn giá phụ thuộc vào tâm trạng thị trường; vì vậy IBM rơi từ 607 xuống 300 trong 7 tháng, Xerox từ 171 xuống 87, dù triển vọng không hề đổi.
+
+   Graham khuyên nhà đầu tư thận trọng ưu tiên cổ phiếu có giá không cao hơn quá một phần ba giá trị tài sản hữu hình, cộng thêm lợi nhuận và tài chính tốt. Trái phiếu dài hạn an toàn về gốc và lãi vẫn có thể mất hai phần ba giá khi lãi suất tăng (Northern Pacific 3% đáo hạn 2047); chỉ số giá trái phiếu đô thị giảm từ 110,8 xuống 67,5 khi lợi suất tăng từ 3,2% lên 7% trong giai đoạn 1965–1970.
 
 ## Khái niệm cần biết
 
@@ -658,13 +664,17 @@ Zweig, viết năm 2003, bổ sung rằng **ông Thị Trường vẫn còn nguy
 
 Graham bắt đầu bằng phần dễ nhất. Nếu tiền của nhà đầu tư nằm trong trái phiếu chất lượng cao có kỳ hạn tương đối ngắn, chẳng hạn từ bảy năm trở xuống, thì giá thị trường thay đổi cũng không ảnh hưởng đáng kể và nhà đầu tư không cần để ý tới. Điều này cũng đúng với trái phiếu tiết kiệm của chính phủ Mỹ, vì loại này luôn có thể bán lại cho chính phủ với giá ít nhất bằng giá mua. Trái phiếu dài hạn thì có thể có biên độ giá khá rộng trong suốt đời của nó, còn danh mục cổ phiếu thì gần như chắc chắn sẽ lên xuống giá trị qua một giai đoạn vài năm.
 
-Nhà đầu tư phải biết trước các khả năng này và chuẩn bị cả về tài chính lẫn tâm lý. Ông sẽ muốn hưởng lợi từ các thay đổi của mặt bằng giá: chắc chắn là qua việc cổ phiếu của mình tăng giá trị theo thời gian, và có thể cả qua việc mua và bán ở những mức giá có lợi. Graham thừa nhận mối quan tâm này là không tránh được và hoàn toàn chính đáng. Nhưng nó chứa một mối nguy rất thật: dễ kéo nhà đầu tư sang thái độ và hành vi đầu cơ. Graham viết rằng khuyên người khác đừng đầu cơ thì dễ, làm theo lời khuyên đó mới khó. Ông nhắc lại điều đã nói ở đầu sách (Chương 1): nếu muốn đầu cơ, hãy làm với đôi mắt mở to, biết rằng cuối cùng có lẽ sẽ mất tiền; giới hạn số tiền đem ra mạo hiểm và tách hẳn nó khỏi chương trình đầu tư.
+Nhà đầu tư phải biết trước các khả năng này và chuẩn bị cả về tài chính lẫn tâm lý. Ông sẽ muốn hưởng lợi từ các thay đổi của mặt bằng giá: chắc chắn là qua việc cổ phiếu của mình tăng giá trị theo thời gian, và có thể cả qua việc mua và bán ở những mức giá có lợi. Graham thừa nhận mối quan tâm này là không tránh được và hoàn toàn chính đáng.
+
+Nhưng nó chứa một mối nguy rất thật: dễ kéo nhà đầu tư sang thái độ và hành vi đầu cơ. Graham viết rằng khuyên người khác đừng đầu cơ thì dễ, làm theo lời khuyên đó mới khó. Ông nhắc lại điều đã nói ở đầu sách (Chương 1): nếu muốn đầu cơ, hãy làm với đôi mắt mở to, biết rằng cuối cùng có lẽ sẽ mất tiền; giới hạn số tiền đem ra mạo hiểm và tách hẳn nó khỏi chương trình đầu tư.
 
 Graham nói ông sẽ bàn trước về chủ đề quan trọng hơn là biến động giá cổ phiếu, rồi mới sang trái phiếu. Chương 3 đã điểm lại lịch sử thị trường cổ phiếu trong một trăm năm; ở chương này ông sẽ thỉnh thoảng quay lại tư liệu đó để xem quá khứ hứa hẹn gì cho nhà đầu tư, theo hai hướng: hoặc là giá trị tăng dài hạn của một danh mục được giữ gần như nguyên qua nhiều đợt lên xuống, hoặc là cơ hội mua gần đáy của thị trường giá xuống và bán không quá xa dưới đỉnh của thị trường giá lên.
 
 #### 2. Biến động thị trường làm kim chỉ nam cho quyết định đầu tư (Fluctuations du marché comme guide des décisions d'investissement, PDF trang 166–169)
 
-**Hai cách: canh thời điểm và định giá.** Vì cổ phiếu, kể cả loại hạng nhất, liên tục dao động mạnh về giá, nhà đầu tư thông minh nên quan tâm tới khả năng kiếm lời từ những dao động như con lắc đó. Có hai cách để thử. Cách thứ nhất là canh thời điểm (timing): cố đoán trước hành vi của thị trường, mua hoặc giữ khi đoán giá sắp lên, bán hoặc thôi mua khi đoán giá sắp xuống. Cách thứ hai là định giá (pricing): cố mua cổ phiếu khi giá thấp hơn giá trị hợp lý và bán khi giá vượt giá trị đó. Một dạng định giá ít tham vọng hơn chỉ là cố bảo đảm rằng khi mua thì mình không trả quá đắt. Dạng này có thể đủ cho nhà đầu tư phòng thủ, người chú trọng nắm giữ dài hạn; nhưng dù vậy nó vẫn là mức chú ý tối thiểu bắt buộc phải dành cho mặt bằng giá thị trường.
+**Hai cách: canh thời điểm và định giá.** Vì cổ phiếu, kể cả loại hạng nhất, liên tục dao động mạnh về giá, nhà đầu tư thông minh nên quan tâm tới khả năng kiếm lời từ những dao động như con lắc đó. Có hai cách để thử. Cách thứ nhất là canh thời điểm (timing): cố đoán trước hành vi của thị trường, mua hoặc giữ khi đoán giá sắp lên, bán hoặc thôi mua khi đoán giá sắp xuống. Cách thứ hai là định giá (pricing): cố mua cổ phiếu khi giá thấp hơn giá trị hợp lý và bán khi giá vượt giá trị đó.
+
+Một dạng định giá ít tham vọng hơn chỉ là cố bảo đảm rằng khi mua thì mình không trả quá đắt. Dạng này có thể đủ cho nhà đầu tư phòng thủ, người chú trọng nắm giữ dài hạn; nhưng dù vậy nó vẫn là mức chú ý tối thiểu bắt buộc phải dành cho mặt bằng giá thị trường.
 
 Chú thích 1 của Graham: ngoại trừ, có lẽ, các kế hoạch đầu tư định kỳ một số tiền cố định được bắt đầu ở một mặt bằng giá hợp lý. (Nghĩa là: đầu tư định kỳ là cách duy nhất có thể bỏ qua hẳn mặt bằng giá, với điều kiện điểm khởi đầu không quá đắt.)
 
@@ -672,11 +682,17 @@ Graham tin rằng nhà đầu tư thông minh có thể đạt kết quả tho�
 
 **Vì sao đại chúng không thể thắng nhờ dự báo.** Càng xa Phố Wall, người ta càng hoài nghi các lời hứa của dự báo hay canh thời điểm. Nhà đầu tư khó mà coi trọng vô số dự đoán xuất hiện gần như hằng ngày và được đưa tới tận tay mình. Vậy mà trong nhiều trường hợp, ông vẫn chú ý và còn hành động theo. Vì sao? Vì ông đã bị thuyết phục rằng điều quan trọng là phải có một ý kiến nào đó về diễn biến tương lai của thị trường, và vì ông cho rằng dự báo của công ty môi giới hay dịch vụ tư vấn ít ra cũng đáng tin hơn dự báo của chính mình.
 
-Chú thích của Zweig (đánh số "11" trong bản PDF, PDF trang 615–616): cuối thập niên 1990, dự báo của các "chiến lược gia thị trường" có ảnh hưởng hơn bao giờ hết nhưng không chính xác hơn chút nào. Ngày 10/3/2000, đúng ngày chỉ số NASDAQ tổng hợp đạt đỉnh lịch sử 5.048,62 điểm, Ralph Acampora, trưởng phân tích kỹ thuật của Prudential Securities, nói với báo *USA Today* rằng ông chờ NASDAQ lên 6.000 điểm trong 12–18 tháng. Năm tuần sau NASDAQ đã xuống 3.321,29 điểm, nhưng Thomas Galvin, chiến lược gia của Donaldson, Lufkin & Jenrette, vẫn nói NASDAQ "chỉ còn 200 hay 300 điểm để giảm và 2.000 điểm để tăng". Thực tế không còn điểm nào để tăng và hơn 2.000 điểm để giảm: NASDAQ chạm đáy ngày 9/10/2002 ở 1.114,11 điểm. Tháng 3/2001, Abby Joseph Cohen, chiến lược gia trưởng của Goldman, Sachs & Co., dự báo S&P 500 sẽ kết thúc năm ở 1.650 điểm và Dow Jones ở 13.000 điểm, nói rằng "chúng tôi không chờ suy thoái" và lợi nhuận doanh nghiệp sẽ tăng gần mức xu hướng cuối năm. Kinh tế Mỹ đang rơi vào suy thoái ngay khi bà nói; S&P 500 kết thúc 2001 ở 1.148,08 điểm và Dow Jones ở 10.021,50 điểm, lần lượt thấp hơn dự báo 30% và 23%.
+Chú thích của Zweig (đánh số "11" trong bản PDF, PDF trang 615–616): cuối thập niên 1990, dự báo của các "chiến lược gia thị trường" có ảnh hưởng hơn bao giờ hết nhưng không chính xác hơn chút nào. Ngày 10/3/2000, đúng ngày chỉ số NASDAQ tổng hợp đạt đỉnh lịch sử 5.048,62 điểm, Ralph Acampora, trưởng phân tích kỹ thuật của Prudential Securities, nói với báo *USA Today* rằng ông chờ NASDAQ lên 6.000 điểm trong 12–18 tháng. Năm tuần sau NASDAQ đã xuống 3.321,29 điểm, nhưng Thomas Galvin, chiến lược gia của Donaldson, Lufkin & Jenrette, vẫn nói NASDAQ "chỉ còn 200 hay 300 điểm để giảm và 2.000 điểm để tăng". Thực tế không còn điểm nào để tăng và hơn 2.000 điểm để giảm: NASDAQ chạm đáy ngày 9/10/2002 ở 1.114,11 điểm.
 
-Graham nói ông không đủ chỗ để bàn chi tiết ưu nhược điểm của dự báo thị trường. Rất nhiều trí lực được dồn vào lĩnh vực này, và chắc chắn *một số người* kiếm được tiền nhờ phân tích thị trường giỏi. Nhưng thật vô lý nếu nghĩ rằng *đại chúng* có thể kiếm tiền nhờ dự báo thị trường. Bởi vì khi đại chúng, theo một tín hiệu nào đó, cùng đổ xô bán để chốt lời thì ai sẽ mua? Nếu bạn đọc mong làm giàu qua năm tháng bằng cách theo một hệ thống hay một người dẫn dắt dự báo thị trường, bạn phải mong làm được điều mà vô số người khác cũng nhắm tới, và làm giỏi hơn vô số đối thủ trên thị trường. Không có gì trong logic hay trong kinh nghiệm cho thấy một nhà đầu tư điển hình hay trung bình đoán trước biến động thị trường giỏi hơn đại chúng, mà chính ông là một phần của đại chúng.
+Tháng 3/2001, Abby Joseph Cohen, chiến lược gia trưởng của Goldman, Sachs & Co., dự báo S&P 500 sẽ kết thúc năm ở 1.650 điểm và Dow Jones ở 13.000 điểm, nói rằng "chúng tôi không chờ suy thoái" và lợi nhuận doanh nghiệp sẽ tăng gần mức xu hướng cuối năm. Kinh tế Mỹ đang rơi vào suy thoái ngay khi bà nói; S&P 500 kết thúc 2001 ở 1.148,08 điểm và Dow Jones ở 10.021,50 điểm, lần lượt thấp hơn dự báo 30% và 23%.
 
-**Chờ đợi không tốn gì với nhà đầu tư.** Graham chỉ ra một khía cạnh của triết lý canh thời điểm mà dường như ai cũng bỏ qua. Thời điểm rất quan trọng về tâm lý với nhà đầu cơ, vì người đó muốn có lãi nhanh; ý nghĩ phải chờ một năm cổ phiếu mới lên là điều họ ghét. Nhưng bản thân việc chờ đợi không có hệ quả gì với nhà đầu tư. Giữ tiền không đầu tư cho tới khi nhận được một tín hiệu (có vẻ) đáng tin rằng đã tới lúc mua thì được lợi gì? Người đó chỉ được lợi nếu, trong lúc chờ, mua được về sau ở *giá* đủ *thấp* để bù cho phần cổ tức đã mất. Nghĩa là canh thời điểm không có giá trị thật với nhà đầu tư trừ khi nó trùng với định giá, tức là trừ khi nó giúp người đó mua lại cổ phiếu ở giá thấp hơn hẳn giá đã bán trước đó.
+Graham nói ông không đủ chỗ để bàn chi tiết ưu nhược điểm của dự báo thị trường. Rất nhiều trí lực được dồn vào lĩnh vực này, và chắc chắn *một số người* kiếm được tiền nhờ phân tích thị trường giỏi.
+
+Nhưng thật vô lý nếu nghĩ rằng *đại chúng* có thể kiếm tiền nhờ dự báo thị trường. Bởi vì khi đại chúng, theo một tín hiệu nào đó, cùng đổ xô bán để chốt lời thì ai sẽ mua? Nếu bạn đọc mong làm giàu qua năm tháng bằng cách theo một hệ thống hay một người dẫn dắt dự báo thị trường, bạn phải mong làm được điều mà vô số người khác cũng nhắm tới, và làm giỏi hơn vô số đối thủ trên thị trường. Không có gì trong logic hay trong kinh nghiệm cho thấy một nhà đầu tư điển hình hay trung bình đoán trước biến động thị trường giỏi hơn đại chúng, mà chính ông là một phần của đại chúng.
+
+**Chờ đợi không tốn gì với nhà đầu tư.** Graham chỉ ra một khía cạnh của triết lý canh thời điểm mà dường như ai cũng bỏ qua. Thời điểm rất quan trọng về tâm lý với nhà đầu cơ, vì người đó muốn có lãi nhanh; ý nghĩ phải chờ một năm cổ phiếu mới lên là điều họ ghét. Nhưng bản thân việc chờ đợi không có hệ quả gì với nhà đầu tư.
+
+Giữ tiền không đầu tư cho tới khi nhận được một tín hiệu (có vẻ) đáng tin rằng đã tới lúc mua thì được lợi gì? Người đó chỉ được lợi nếu, trong lúc chờ, mua được về sau ở *giá* đủ *thấp* để bù cho phần cổ tức đã mất. Nghĩa là canh thời điểm không có giá trị thật với nhà đầu tư trừ khi nó trùng với định giá, tức là trừ khi nó giúp người đó mua lại cổ phiếu ở giá thấp hơn hẳn giá đã bán trước đó.
 
 **Lịch sử của lý thuyết Dow.** Về điểm này, lý thuyết Dow nổi tiếng về thời điểm mua bán có một lịch sử khác thường.
 
@@ -688,7 +704,11 @@ Nghiên cứu kỹ hơn cho thấy chất lượng kết quả của lý thuyế
 
 Chú thích 2 của Graham: theo Robert M. Ross, chuyên gia về lý thuyết Dow, hai tín hiệu mua gần nhất, vào tháng 12/1966 và tháng 12/1970, đều ở mức thấp hơn khá nhiều so với các điểm bán trước đó. (Tức là trong hai lần này lý thuyết Dow đã hoạt động tốt trở lại.)
 
-**Vì sao công thức phổ biến thì mất tác dụng.** Theo Graham, sau khi nghiên cứu kỹ, sự thay đổi trong kết quả của lý thuyết Dow không phải ngẫu nhiên. Nó cho thấy một đặc tính cố hữu của các công thức dự báo và giao dịch trong kinh doanh và tài chính. Các công thức có thêm người theo và trở nên quan trọng là vì chúng đã hoạt động tốt trong một giai đoạn, hoặc đôi khi chỉ vì chúng được khớp một cách có vẻ hợp lý với số liệu thống kê quá khứ. Nhưng khi càng được chấp nhận, độ tin cậy của chúng càng giảm, vì hai lý do. Thứ nhất, thời gian trôi qua mang tới những điều kiện mới mà công thức cũ không còn khớp. Thứ hai, trên thị trường chứng khoán, chính sự phổ biến của một lý thuyết giao dịch tác động lên hành vi thị trường, làm hỏng khả năng sinh lời của nó về lâu dài. Sự phổ biến của một thứ như lý thuyết Dow có thể tưởng như tự xác nhận nó, vì khi có tín hiệu mua hay bán, chính hành động của những người theo nó đẩy thị trường lên hoặc xuống. Nhưng một cuộc "đổ xô" như vậy, dĩ nhiên, là mối nguy nhiều hơn là lợi thế cho người giao dịch đại chúng.
+**Vì sao công thức phổ biến thì mất tác dụng.** Theo Graham, sau khi nghiên cứu kỹ, sự thay đổi trong kết quả của lý thuyết Dow không phải ngẫu nhiên. Nó cho thấy một đặc tính cố hữu của các công thức dự báo và giao dịch trong kinh doanh và tài chính. Các công thức có thêm người theo và trở nên quan trọng là vì chúng đã hoạt động tốt trong một giai đoạn, hoặc đôi khi chỉ vì chúng được khớp một cách có vẻ hợp lý với số liệu thống kê quá khứ.
+
+Nhưng khi càng được chấp nhận, độ tin cậy của chúng càng giảm, vì hai lý do. Thứ nhất, thời gian trôi qua mang tới những điều kiện mới mà công thức cũ không còn khớp. Thứ hai, trên thị trường chứng khoán, chính sự phổ biến của một lý thuyết giao dịch tác động lên hành vi thị trường, làm hỏng khả năng sinh lời của nó về lâu dài.
+
+Sự phổ biến của một thứ như lý thuyết Dow có thể tưởng như tự xác nhận nó, vì khi có tín hiệu mua hay bán, chính hành động của những người theo nó đẩy thị trường lên hoặc xuống. Nhưng một cuộc "đổ xô" như vậy, dĩ nhiên, là mối nguy nhiều hơn là lợi thế cho người giao dịch đại chúng.
 
 #### 3. Cách tiếp cận mua thấp, bán cao (Approche d'achat bas-vente haut, PDF trang 169–170)
 
@@ -707,13 +727,19 @@ Từ 1897 tới 1949 có mười chu kỳ thị trường trọn vẹn, mỗi ch
 | Mức tăng từ đáy lên đỉnh | 44% – 500%, phần lớn 50% – 100% |
 | Mức giảm từ đỉnh xuống đáy sau đó | 24% – 89%, phần lớn 40% – 50% |
 
-Hầu như mọi thị trường giá lên đều có chung một số đặc điểm rõ ràng: (1) mặt bằng giá cao theo lịch sử, (2) hệ số giá trên lợi nhuận (P/E) cao, (3) tỷ suất cổ tức thấp so với lợi suất trái phiếu, (4) nhiều hoạt động đầu cơ bằng tiền vay ký quỹ, và (5) nhiều đợt chào bán cổ phiếu mới chất lượng kém. Vì vậy, với người nghiên cứu lịch sử thị trường, có vẻ như nhà đầu tư thông minh lẽ ra phải nhận ra được các thị trường giá xuống và giá lên lặp đi lặp lại, mua trong thị trường giá xuống và bán trong thị trường giá lên, và phần lớn làm được việc đó trong những khoảng thời gian khá ngắn. Nhiều phương pháp đã được phát triển để xác định mức mua và mức bán cho thị trường chung, dựa trên yếu tố giá trị, hoặc trên tỷ lệ phần trăm thay đổi giá, hoặc cả hai.
+Hầu như mọi thị trường giá lên đều có chung một số đặc điểm rõ ràng: (1) mặt bằng giá cao theo lịch sử, (2) hệ số giá trên lợi nhuận (P/E) cao, (3) tỷ suất cổ tức thấp so với lợi suất trái phiếu, (4) nhiều hoạt động đầu cơ bằng tiền vay ký quỹ, và (5) nhiều đợt chào bán cổ phiếu mới chất lượng kém.
+
+Vì vậy, với người nghiên cứu lịch sử thị trường, có vẻ như nhà đầu tư thông minh lẽ ra phải nhận ra được các thị trường giá xuống và giá lên lặp đi lặp lại, mua trong thị trường giá xuống và bán trong thị trường giá lên, và phần lớn làm được việc đó trong những khoảng thời gian khá ngắn. Nhiều phương pháp đã được phát triển để xác định mức mua và mức bán cho thị trường chung, dựa trên yếu tố giá trị, hoặc trên tỷ lệ phần trăm thay đổi giá, hoặc cả hai.
 
 Nhưng Graham nhấn mạnh: ngay cả trước thị trường giá lên chưa từng có bắt đầu từ năm 1949, các chu kỳ liên tiếp đã đủ khác nhau để làm phức tạp và đôi khi làm hỏng quá trình mua thấp bán cao. Lệch mẫu đáng chú ý nhất dĩ nhiên là thị trường giá lên lớn cuối thập niên 1920, làm sai mọi tính toán.
 
-Chú thích của Zweig (PDF trang 616): không có thị trường giá xuống để đẩy giá xuống, ai chờ "mua thấp" sẽ thấy mình bị bỏ lại, và quá thường xuyên sẽ vứt bỏ mọi thận trọng để nhảy vào bằng cả hai chân. Đó là lý do bài học về kỷ luật cảm xúc của Graham quan trọng. Từ tháng 10/1990 tới tháng 1/2000, chỉ số Dow Jones tăng không ngừng, chưa bao giờ mất quá 20% và chỉ ba lần mất từ 10% trở lên; tổng mức tăng (không tính cổ tức) là 395,7%. Theo Crandall, Pierce & Co., đây là thị trường giá lên không gián đoạn dài thứ hai của thế kỷ qua; chỉ đợt bùng nổ 1949–1961 dài hơn. Thị trường giá lên càng kéo dài, nhà đầu tư càng mắc chứng quên; sau khoảng năm năm, nhiều người không còn tin rằng thị trường giá xuống có thể xảy ra. Ai quên sẽ bị nhắc lại, và trên thị trường chứng khoán, ký ức được nhắc lại luôn khó chịu.
+Chú thích của Zweig (PDF trang 616): không có thị trường giá xuống để đẩy giá xuống, ai chờ "mua thấp" sẽ thấy mình bị bỏ lại, và quá thường xuyên sẽ vứt bỏ mọi thận trọng để nhảy vào bằng cả hai chân. Đó là lý do bài học về kỷ luật cảm xúc của Graham quan trọng.
 
-Vì vậy, ngay cả năm 1949, cũng không hề chắc chắn rằng nhà đầu tư có thể đặt chính sách tài chính của mình chủ yếu vào việc mua thấp trong thị trường giá xuống và bán cao trong thị trường giá lên. Hoá ra điều ngược lại mới đúng. Hành vi thị trường trong 20 năm qua (tức 1950–1970) không theo mẫu cũ, không tuân theo những gì từng là tín hiệu nguy hiểm đã được xác lập, và không cho phép khai thác thành công bằng các quy tắc mua thấp bán cao cũ. Graham nói ông không biết mẫu thị trường giá lên khá đều đặn của ngày trước có quay lại hay không. Nhưng ông thấy không thực tế nếu nhà đầu tư đặt chính sách hiện tại vào công thức cổ điển, tức chờ một mặt bằng giá thị trường giá xuống rõ ràng mới mua cổ phiếu. Tuy vậy, chính sách ông khuyến nghị (ở Chương 4) có cho phép thay đổi tỷ lệ cổ phiếu so với trái phiếu trong danh mục, nếu nhà đầu tư muốn, tuỳ theo mặt bằng giá cổ phiếu có vẻ kém hấp dẫn hay hấp dẫn hơn theo các chuẩn mực giá trị.
+Từ tháng 10/1990 tới tháng 1/2000, chỉ số Dow Jones tăng không ngừng, chưa bao giờ mất quá 20% và chỉ ba lần mất từ 10% trở lên; tổng mức tăng (không tính cổ tức) là 395,7%. Theo Crandall, Pierce & Co., đây là thị trường giá lên không gián đoạn dài thứ hai của thế kỷ qua; chỉ đợt bùng nổ 1949–1961 dài hơn. Thị trường giá lên càng kéo dài, nhà đầu tư càng mắc chứng quên; sau khoảng năm năm, nhiều người không còn tin rằng thị trường giá xuống có thể xảy ra. Ai quên sẽ bị nhắc lại, và trên thị trường chứng khoán, ký ức được nhắc lại luôn khó chịu.
+
+Vì vậy, ngay cả năm 1949, cũng không hề chắc chắn rằng nhà đầu tư có thể đặt chính sách tài chính của mình chủ yếu vào việc mua thấp trong thị trường giá xuống và bán cao trong thị trường giá lên. Hoá ra điều ngược lại mới đúng. Hành vi thị trường trong 20 năm qua (tức 1950–1970) không theo mẫu cũ, không tuân theo những gì từng là tín hiệu nguy hiểm đã được xác lập, và không cho phép khai thác thành công bằng các quy tắc mua thấp bán cao cũ.
+
+Graham nói ông không biết mẫu thị trường giá lên khá đều đặn của ngày trước có quay lại hay không. Nhưng ông thấy không thực tế nếu nhà đầu tư đặt chính sách hiện tại vào công thức cổ điển, tức chờ một mặt bằng giá thị trường giá xuống rõ ràng mới mua cổ phiếu. Tuy vậy, chính sách ông khuyến nghị (ở Chương 4) có cho phép thay đổi tỷ lệ cổ phiếu so với trái phiếu trong danh mục, nếu nhà đầu tư muốn, tuỳ theo mặt bằng giá cổ phiếu có vẻ kém hấp dẫn hay hấp dẫn hơn theo các chuẩn mực giá trị.
 
 Chú thích của Zweig (PDF trang 616): chính sách đó là chính sách ở Chương 4: nhà đầu tư giữ tỷ lệ cổ phiếu trong khoảng 25% đến 75% danh mục, bình thường 50/50, và giảm tỷ lệ cổ phiếu khi giá quá cao, tăng khi giá thấp. Ngày nay nó được gọi là "phân bổ tài sản chiến thuật" (tactical asset allocation) và được các nhà đầu tư tổ chức như quỹ hưu trí và quỹ tài trợ đại học dùng rộng rãi.
 
@@ -725,7 +751,9 @@ Cách làm này có hai sức hút: hợp lý (và thận trọng), và cho kế
 
 Chú thích của Zweig (PDF trang 616): nhiều người theo công thức hẳn đã bán hết cổ phiếu cuối năm 1954, sau khi thị trường cổ phiếu Mỹ tăng 52,6% trong năm, mức lợi nhuận năm cao thứ hai từng ghi nhận. Trong năm năm tiếp theo, những người canh thời điểm này có lẽ đứng ngoài trong khi cổ phiếu tăng gấp đôi.
 
-Graham thấy có sự giống nhau giữa kinh nghiệm của những người theo công thức đầu thập niên 1950 và những người theo bản thuần máy móc của lý thuyết Dow khoảng 20 năm trước đó. Trong cả hai trường hợp, lúc hệ thống trở nên phổ biến gần như đánh dấu đúng thời điểm nó thôi hoạt động tốt. Graham thừa nhận chính ông cũng có một trải nghiệm đáng thất vọng tương tự với "phương pháp giá trị trung tâm" (central value method) của mình, dùng để xác định các mức mua và bán cho chỉ số Dow Jones. Bài học có vẻ là: bất kỳ cách kiếm tiền nào trên thị trường chứng khoán mà nhiều người có thể dễ dàng mô tả và làm theo, thì xét theo chính các điều kiện của nó, là quá đơn giản và quá dễ để tồn tại lâu. Graham dẫn câu kết của Spinoza, áp dụng cho Phố Wall cũng như cho triết học: "Mọi điều tuyệt vời đều khó khăn như chúng hiếm hoi."
+Graham thấy có sự giống nhau giữa kinh nghiệm của những người theo công thức đầu thập niên 1950 và những người theo bản thuần máy móc của lý thuyết Dow khoảng 20 năm trước đó. Trong cả hai trường hợp, lúc hệ thống trở nên phổ biến gần như đánh dấu đúng thời điểm nó thôi hoạt động tốt. Graham thừa nhận chính ông cũng có một trải nghiệm đáng thất vọng tương tự với "phương pháp giá trị trung tâm" (central value method) của mình, dùng để xác định các mức mua và bán cho chỉ số Dow Jones.
+
+Bài học có vẻ là: bất kỳ cách kiếm tiền nào trên thị trường chứng khoán mà nhiều người có thể dễ dàng mô tả và làm theo, thì xét theo chính các điều kiện của nó, là quá đơn giản và quá dễ để tồn tại lâu. Graham dẫn câu kết của Spinoza, áp dụng cho Phố Wall cũng như cho triết học: "Mọi điều tuyệt vời đều khó khăn như chúng hiếm hoi."
 
 Chú thích của Zweig (PDF trang 617): các cách dễ dàng để kiếm tiền trên thị trường chứng khoán phai nhạt vì hai lý do: xu hướng tự nhiên của các xu hướng là đảo chiều theo thời gian, tức "quay về mức trung bình" (regress to the mean), và việc rất nhiều người nhanh chóng áp dụng cùng một hệ thống chọn cổ phiếu, chen chúc vào và làm hỏng niềm vui của những người tới trước. Zweig lưu ý rằng khi nói về "trải nghiệm đáng thất vọng", Graham, như mọi khi, thẳng thắn nhận thất bại của chính mình.
 
@@ -751,7 +779,11 @@ Trong mọi trường hợp, nhà đầu tư nên chấp nhận trước khả n
 
 Chú thích của Zweig (PDF trang 617): hãy đọc kỹ điều Graham nói. Không chỉ có thể mà *có khả năng cao* là phần lớn cổ phiếu bạn nắm sẽ tăng ít nhất 50% so với giá thấp nhất và mất ít nhất 33% so với giá cao nhất, bất kể bạn nắm cổ phiếu nào và bất kể thị trường chung lên hay xuống. Nếu không sống chung được với điều đó, hoặc nghĩ rằng danh mục của mình được miễn trừ một cách thần kỳ, thì bạn chưa có quyền tự gọi mình là nhà đầu tư. Graham gọi mức giảm 33% là "tương đương", vì tăng 50% đưa một cổ phiếu từ 10 USD lên 15 USD, và từ 15 USD giảm 33% (tức giảm 5 USD) thì đưa nó về lại 10 USD.
 
-**Vấn đề tâm lý của các đợt tăng lớn.** Một nhà đầu tư nghiêm túc khó mà tin rằng dao động hằng ngày, thậm chí hằng tháng, của thị trường làm mình giàu thêm hay nghèo đi. Nhưng với các thay đổi lớn và dài hạn hơn thì sao? Ở đây nảy sinh câu hỏi thực tế, và các vấn đề tâm lý dễ trở nên phức tạp. Một đợt tăng lớn của thị trường vừa là lý do chính đáng để hài lòng vừa là lý do để lo ngại thận trọng, nhưng nó cũng có thể mang tới cám dỗ mạnh hướng tới hành động thiếu khôn ngoan. Cổ phiếu của bạn đã tăng, tốt! Bạn giàu hơn trước, tốt! Nhưng giá đã lên quá cao chưa, có nên nghĩ tới bán không? Hay bạn nên tự trách vì đã không mua nhiều hơn khi giá còn thấp? Hoặc, ý nghĩ tệ nhất: bạn có nên buông theo không khí thị trường giá lên, để mình nhiễm sự hăng hái, tự tin thái quá và lòng tham của đại chúng (mà rốt cuộc bạn cũng là một phần), rồi tăng cam kết một cách lớn và nguy hiểm không? Viết ra giấy thì câu trả lời cho câu hỏi cuối rõ ràng là không, nhưng ngay cả nhà đầu tư thông minh cũng có lẽ cần ý chí đáng kể để không chạy theo đám đông.
+**Vấn đề tâm lý của các đợt tăng lớn.** Một nhà đầu tư nghiêm túc khó mà tin rằng dao động hằng ngày, thậm chí hằng tháng, của thị trường làm mình giàu thêm hay nghèo đi. Nhưng với các thay đổi lớn và dài hạn hơn thì sao? Ở đây nảy sinh câu hỏi thực tế, và các vấn đề tâm lý dễ trở nên phức tạp.
+
+Một đợt tăng lớn của thị trường vừa là lý do chính đáng để hài lòng vừa là lý do để lo ngại thận trọng, nhưng nó cũng có thể mang tới cám dỗ mạnh hướng tới hành động thiếu khôn ngoan. Cổ phiếu của bạn đã tăng, tốt! Bạn giàu hơn trước, tốt! Nhưng giá đã lên quá cao chưa, có nên nghĩ tới bán không? Hay bạn nên tự trách vì đã không mua nhiều hơn khi giá còn thấp?
+
+Hoặc, ý nghĩ tệ nhất: bạn có nên buông theo không khí thị trường giá lên, để mình nhiễm sự hăng hái, tự tin thái quá và lòng tham của đại chúng (mà rốt cuộc bạn cũng là một phần), rồi tăng cam kết một cách lớn và nguy hiểm không? Viết ra giấy thì câu trả lời cho câu hỏi cuối rõ ràng là không, nhưng ngay cả nhà đầu tư thông minh cũng có lẽ cần ý chí đáng kể để không chạy theo đám đông.
 
 Chính vì những lý do thuộc bản chất con người, hơn cả vì tính toán lãi lỗ, mà Graham ưa một loại phương pháp máy móc để thay đổi tỷ lệ trái phiếu so với cổ phiếu trong danh mục. Có lẽ lợi ích chính là một công thức như vậy cho nhà đầu tư một việc để làm. Khi thị trường tăng, thỉnh thoảng ông sẽ bán bớt cổ phiếu và chuyển tiền thu được sang trái phiếu; khi thị trường giảm, ông làm ngược lại. Những hoạt động này là lối thoát cho năng lượng vốn bị dồn nén quá mức. Nếu là đúng kiểu nhà đầu tư, ông sẽ có thêm niềm vui khi nghĩ rằng các giao dịch của mình ngược hẳn với đám đông.
 
@@ -759,7 +791,9 @@ Chú thích của Zweig (PDF trang 617): với nhà đầu tư ngày nay, chiế
 
 #### 6. Định giá doanh nghiệp và định giá trên sàn (Évaluations d'entreprises et évaluations boursières, PDF trang 173–175)
 
-**Hai tư cách của cổ đông.** Tác động của biến động thị trường lên tình trạng thực của nhà đầu tư cũng có thể nhìn từ góc độ cổ đông là đồng sở hữu của nhiều doanh nghiệp. Người nắm cổ phiếu niêm yết thực ra có hai tư cách, và được quyền tận dụng tư cách nào tuỳ ý. Một mặt, vị thế của ông giống vị thế của một cổ đông thiểu số hay một thành viên góp vốn không tham gia điều hành (silent partner) trong một doanh nghiệp tư nhân. Ở tư cách này, kết quả của ông phụ thuộc hoàn toàn vào lợi nhuận của doanh nghiệp hoặc vào thay đổi giá trị nền tảng của tài sản. Thông thường ông sẽ xác định giá trị của phần sở hữu tư nhân như vậy bằng cách tính phần của mình trong giá trị tài sản ròng ghi trên bảng cân đối gần nhất. Mặt khác, nhà đầu tư cổ phiếu cầm một mảnh giấy, một chứng chỉ cổ phiếu in khắc, có thể bán trong vài phút ở một mức giá thay đổi từng lúc (khi thị trường mở cửa) và thường rất xa giá trị trên bảng cân đối.
+**Hai tư cách của cổ đông.** Tác động của biến động thị trường lên tình trạng thực của nhà đầu tư cũng có thể nhìn từ góc độ cổ đông là đồng sở hữu của nhiều doanh nghiệp. Người nắm cổ phiếu niêm yết thực ra có hai tư cách, và được quyền tận dụng tư cách nào tuỳ ý. Một mặt, vị thế của ông giống vị thế của một cổ đông thiểu số hay một thành viên góp vốn không tham gia điều hành (silent partner) trong một doanh nghiệp tư nhân.
+
+Ở tư cách này, kết quả của ông phụ thuộc hoàn toàn vào lợi nhuận của doanh nghiệp hoặc vào thay đổi giá trị nền tảng của tài sản. Thông thường ông sẽ xác định giá trị của phần sở hữu tư nhân như vậy bằng cách tính phần của mình trong giá trị tài sản ròng ghi trên bảng cân đối gần nhất. Mặt khác, nhà đầu tư cổ phiếu cầm một mảnh giấy, một chứng chỉ cổ phiếu in khắc, có thể bán trong vài phút ở một mức giá thay đổi từng lúc (khi thị trường mở cửa) và thường rất xa giá trị trên bảng cân đối.
 
 Chú thích của Zweig (PDF trang 617): ngày nay phần lớn công ty chỉ cấp "chứng chỉ cổ phiếu in khắc" khi được yêu cầu đặc biệt. Cổ phiếu phần lớn tồn tại ở dạng điện tử thuần tuý (như tài khoản ngân hàng chứa các bút toán ghi có, ghi nợ trên máy tính chứ không phải tiền giấy), nên còn dễ giao dịch hơn thời Graham.
 
@@ -767,9 +801,13 @@ Sự phát triển của thị trường chứng khoán trong mấy thập niên
 
 Chú thích của Zweig (PDF trang 617–618): giá trị tài sản ròng, giá trị sổ sách, giá trị trên bảng cân đối và giá trị tài sản hữu hình đều là các tên gọi đồng nghĩa của giá trị ròng, tức tổng giá trị tài sản vật chất và tài chính của công ty trừ mọi khoản nợ. Có thể tính từ bảng cân đối trong báo cáo năm và quý: lấy tổng vốn chủ sở hữu, trừ mọi tài sản "vô hình" như lợi thế thương mại (goodwill), nhãn hiệu và tài sản vô hình khác, rồi chia cho số cổ phiếu lưu hành đã pha loãng hoàn toàn để có giá trị sổ sách mỗi cổ phiếu.
 
-**Nghịch lý của cổ phiếu chất lượng cao.** Graham coi đây là yếu tố hàng đầu trong đầu tư hiện nay nhưng ít được chú ý so với mức nó đáng được. Toàn bộ cấu trúc giá niêm yết chứa một mâu thuẫn nội tại. Bảng cân đối và triển vọng của một công ty càng tốt thì giá cổ phiếu càng ít liên quan tới giá trị sổ sách. Nhưng phần bù trên giá trị sổ sách càng lớn thì cơ sở để xác định giá trị nội tại càng kém chắc chắn, nghĩa là "giá trị" đó càng phụ thuộc vào tâm trạng và đánh giá thay đổi của thị trường chứng khoán. Vì vậy ta đi tới nghịch lý cuối cùng: công ty càng thành công thì giá cổ phiếu càng có thể dao động mạnh. Thật ra điều này có nghĩa là, theo một nghĩa rất thật, cổ phiếu càng chất lượng cao thì càng có thể mang tính đầu cơ, ít ra là so với các cổ phiếu chất lượng trung bình, không nổi bật. Graham nói rõ: điều này áp dụng cho việc so sánh các công ty tăng trưởng hàng đầu với phần lớn các công ty vững vàng; ông loại khỏi phạm vi bàn các cổ phiếu đầu cơ cao vì chính doanh nghiệp của chúng đã mang tính đầu cơ.
+**Nghịch lý của cổ phiếu chất lượng cao.** Graham coi đây là yếu tố hàng đầu trong đầu tư hiện nay nhưng ít được chú ý so với mức nó đáng được. Toàn bộ cấu trúc giá niêm yết chứa một mâu thuẫn nội tại. Bảng cân đối và triển vọng của một công ty càng tốt thì giá cổ phiếu càng ít liên quan tới giá trị sổ sách. Nhưng phần bù trên giá trị sổ sách càng lớn thì cơ sở để xác định giá trị nội tại càng kém chắc chắn, nghĩa là "giá trị" đó càng phụ thuộc vào tâm trạng và đánh giá thay đổi của thị trường chứng khoán.
 
-Chú thích của Zweig (PDF trang 618): chữ "nghịch lý" có lẽ ám chỉ bài báo kinh điển của David Durand, "Growth Stocks and the Petersburg Paradox" (*The Journal of Finance*, tập XII, số 3, tháng 9/1957, trang 348–363). Durand so sánh việc mua cổ phiếu tăng trưởng giá cao với việc đặt cược vào một chuỗi lần tung đồng xu mà tiền thắng tăng lên sau mỗi lần. Nếu một cổ phiếu tăng trưởng có thể tiếp tục tăng nhanh mãi mãi, về lý thuyết nhà đầu tư phải sẵn sàng trả giá vô hạn. Vậy vì sao chưa cổ phiếu nào được bán với giá vô hạn? Vì tốc độ tăng trưởng giả định càng cao và thời gian kỳ vọng càng dài thì biên sai số càng lớn, và cái giá của một sai lầm tính toán dù rất nhỏ càng tăng. Graham bàn vấn đề này kỹ hơn ở Phụ lục 4.
+Vì vậy ta đi tới nghịch lý cuối cùng: công ty càng thành công thì giá cổ phiếu càng có thể dao động mạnh. Thật ra điều này có nghĩa là, theo một nghĩa rất thật, cổ phiếu càng chất lượng cao thì càng có thể mang tính đầu cơ, ít ra là so với các cổ phiếu chất lượng trung bình, không nổi bật. Graham nói rõ: điều này áp dụng cho việc so sánh các công ty tăng trưởng hàng đầu với phần lớn các công ty vững vàng; ông loại khỏi phạm vi bàn các cổ phiếu đầu cơ cao vì chính doanh nghiệp của chúng đã mang tính đầu cơ.
+
+Chú thích của Zweig (PDF trang 618): chữ "nghịch lý" có lẽ ám chỉ bài báo kinh điển của David Durand, "Growth Stocks and the Petersburg Paradox" (*The Journal of Finance*, tập XII, số 3, tháng 9/1957, trang 348–363). Durand so sánh việc mua cổ phiếu tăng trưởng giá cao với việc đặt cược vào một chuỗi lần tung đồng xu mà tiền thắng tăng lên sau mỗi lần. Nếu một cổ phiếu tăng trưởng có thể tiếp tục tăng nhanh mãi mãi, về lý thuyết nhà đầu tư phải sẵn sàng trả giá vô hạn.
+
+Vậy vì sao chưa cổ phiếu nào được bán với giá vô hạn? Vì tốc độ tăng trưởng giả định càng cao và thời gian kỳ vọng càng dài thì biên sai số càng lớn, và cái giá của một sai lầm tính toán dù rất nhỏ càng tăng. Graham bàn vấn đề này kỹ hơn ở Phụ lục 4.
 
 Lập luận trên giải thích hành vi giá thường thất thường của các công ty thành công và ấn tượng nhất. Ví dụ ưa thích của Graham là "ông vua của tất cả", International Business Machines (IBM). Giá cổ phiếu IBM rơi từ 607 xuống 300 trong bảy tháng năm 1962–1963; sau hai lần tách cổ phiếu, giá rơi từ 387 xuống 219 năm 1970. Tương tự, Xerox, công ty có mức tăng thu nhập còn ấn tượng hơn trong các thập niên gần đây, rơi từ 171 xuống 87 năm 1962–1963 và từ 116 xuống 65 năm 1970. Những đợt giảm đáng chú ý này không cho thấy ai nghi ngờ tăng trưởng dài hạn tương lai của IBM hay Xerox; chúng phản ánh sự mất niềm tin vào mức định giá cao mà chính thị trường đã đặt lên những triển vọng tuyệt vời đó.
 
@@ -782,7 +820,9 @@ Lập luận trên giải thích hành vi giá thường thất thường của 
 | Xerox | 1962–1963 | 171 | 87 | −49,1% |
 | Xerox | 1970 | 116 | 65 | −44,0% |
 
-**Kết luận thực hành: mua gần giá trị tài sản hữu hình.** Từ đó Graham rút ra một kết luận có ý nghĩa thực tiễn cho nhà đầu tư cổ phiếu thận trọng. Nếu muốn chú ý đặc biệt tới việc chọn danh mục, có lẽ tốt nhất là tập trung vào các cổ phiếu được bán ở mức xấp xỉ khá gần giá trị tài sản hữu hình, chẳng hạn không cao hơn con số đó quá một phần ba. Mua ở mức như vậy hoặc thấp hơn có thể được coi một cách hợp lý là gắn với bảng cân đối của công ty, có một cơ sở hay chỗ dựa độc lập với biến động giá thị trường. Phần bù trên giá trị sổ sách có thể có được coi như một loại phí bổ sung trả cho lợi ích được niêm yết và dễ mua bán đi kèm.
+**Kết luận thực hành: mua gần giá trị tài sản hữu hình.** Từ đó Graham rút ra một kết luận có ý nghĩa thực tiễn cho nhà đầu tư cổ phiếu thận trọng. Nếu muốn chú ý đặc biệt tới việc chọn danh mục, có lẽ tốt nhất là tập trung vào các cổ phiếu được bán ở mức xấp xỉ khá gần giá trị tài sản hữu hình, chẳng hạn không cao hơn con số đó quá một phần ba.
+
+Mua ở mức như vậy hoặc thấp hơn có thể được coi một cách hợp lý là gắn với bảng cân đối của công ty, có một cơ sở hay chỗ dựa độc lập với biến động giá thị trường. Phần bù trên giá trị sổ sách có thể có được coi như một loại phí bổ sung trả cho lợi ích được niêm yết và dễ mua bán đi kèm.
 
 Graham đưa ra một lời cảnh báo. Một cổ phiếu không trở thành khoản đầu tư an toàn chỉ vì có thể mua ở mức gần giá trị tài sản. Nhà đầu tư còn phải đòi hỏi tỷ lệ lợi nhuận trên giá thoả đáng, tình hình tài chính đủ mạnh, và triển vọng rằng lợi nhuận ít nhất được duy trì qua các năm. Có vẻ đòi hỏi nhiều ở một cổ phiếu giá vừa phải, nhưng điều kiện này không khó đáp ứng trong mọi tình trạng thị trường, trừ khi thị trường cao một cách nguy hiểm. Một khi nhà đầu tư sẵn lòng bỏ qua các triển vọng rực rỡ, tức tăng trưởng trên mức trung bình, ông sẽ không khó tìm được nhiều cổ phiếu đáp ứng các tiêu chí này.
 
@@ -796,7 +836,9 @@ Graham đưa ra một trong những ví dụ gốc của ông, đã có từ nhi
 
 Cổ phiếu A. & P. được đưa vào giao dịch trên thị trường "Curb" (nay là American Stock Exchange) năm 1929 và bán ở giá 494. Đến 1932, giá đã xuống 104, dù lợi nhuận của công ty trong năm thảm hoạ chung đó gần lớn bằng trước. Năm 1936, giá dao động từ 111 tới 131. Rồi trong suy thoái kinh tế và thị trường giá xuống năm 1938, cổ phiếu rơi xuống đáy mới là 36.
 
-Mức giá này thật phi thường. Nó có nghĩa là cổ phiếu ưu đãi và cổ phiếu phổ thông cộng lại được bán với tổng giá 126 triệu USD, trong khi công ty vừa báo cáo có 85 triệu USD tiền mặt và vốn lưu động (tài sản lưu động ròng) 134 triệu USD. A. & P. là doanh nghiệp bán lẻ lớn nhất nước Mỹ, nếu không phải lớn nhất thế giới, với thành tích lợi nhuận lớn liên tục và ấn tượng trong nhiều năm. Vậy mà năm 1938, doanh nghiệp xuất sắc này được Phố Wall coi là đáng giá ít hơn riêng tài sản lưu động của nó, nghĩa là đáng giá khi còn hoạt động ít hơn khi đem thanh lý. Vì sao? Thứ nhất, vì có nguy cơ bị đánh thuế đặc biệt vào các chuỗi cửa hàng; thứ hai, vì lợi nhuận ròng năm trước đã giảm; và thứ ba, vì thị trường chung đang ảm đạm. Lý do đầu là một nỗi sợ phóng đại và cuối cùng vô căn cứ; hai lý do sau là các ảnh hưởng tạm thời điển hình.
+Mức giá này thật phi thường. Nó có nghĩa là cổ phiếu ưu đãi và cổ phiếu phổ thông cộng lại được bán với tổng giá 126 triệu USD, trong khi công ty vừa báo cáo có 85 triệu USD tiền mặt và vốn lưu động (tài sản lưu động ròng) 134 triệu USD. A. & P. là doanh nghiệp bán lẻ lớn nhất nước Mỹ, nếu không phải lớn nhất thế giới, với thành tích lợi nhuận lớn liên tục và ấn tượng trong nhiều năm.
+
+Vậy mà năm 1938, doanh nghiệp xuất sắc này được Phố Wall coi là đáng giá ít hơn riêng tài sản lưu động của nó, nghĩa là đáng giá khi còn hoạt động ít hơn khi đem thanh lý. Vì sao? Thứ nhất, vì có nguy cơ bị đánh thuế đặc biệt vào các chuỗi cửa hàng; thứ hai, vì lợi nhuận ròng năm trước đã giảm; và thứ ba, vì thị trường chung đang ảm đạm. Lý do đầu là một nỗi sợ phóng đại và cuối cùng vô căn cứ; hai lý do sau là các ảnh hưởng tạm thời điển hình.
 
 **Giá cổ phiếu và định giá A. & P. 1929–1938 (theo lời văn của Graham; đơn vị: USD mỗi cổ phiếu, trừ dòng định giá)**
 
@@ -829,7 +871,9 @@ Giá 70½ này đáng chú ý vì nó bằng 30 lần lợi nhuận năm 1961. H
 | 1970 | 21½ | đáy mới |
 | 1972 | 18 | sau quý lỗ đầu tiên trong lịch sử |
 
-Graham thấy trong câu chuyện này một thế hệ hơn một chút đã có thể mang lại bao nhiêu thăng trầm cho một doanh nghiệp lớn của Mỹ, và công chúng đã định giá cổ phiếu của nó với bao nhiêu tính toán sai, lạc quan thái quá và bi quan thái quá. Năm 1938, doanh nghiệp thực sự bị đem cho mà không ai nhận; năm 1961, công chúng tranh mua cổ phiếu ở giá cao lố bịch. Sau đó là mất nhanh một nửa giá trị thị trường, rồi vài năm sau lại giảm đáng kể nữa. Trong khoảng đó, công ty chuyển từ kết quả xuất sắc sang tầm thường; lợi nhuận năm bùng nổ 1968 thấp hơn năm 1958; công ty trả một loạt cổ tức nhỏ bằng cổ phiếu khó hiểu, không tương xứng với phần lợi nhuận giữ lại thực tế; và vân vân. A. & P. năm 1961 và 1972 là doanh nghiệp lớn hơn năm 1938, nhưng không được điều hành tốt bằng, không sinh lời bằng, và không hấp dẫn bằng.
+Graham thấy trong câu chuyện này một thế hệ hơn một chút đã có thể mang lại bao nhiêu thăng trầm cho một doanh nghiệp lớn của Mỹ, và công chúng đã định giá cổ phiếu của nó với bao nhiêu tính toán sai, lạc quan thái quá và bi quan thái quá. Năm 1938, doanh nghiệp thực sự bị đem cho mà không ai nhận; năm 1961, công chúng tranh mua cổ phiếu ở giá cao lố bịch. Sau đó là mất nhanh một nửa giá trị thị trường, rồi vài năm sau lại giảm đáng kể nữa.
+
+Trong khoảng đó, công ty chuyển từ kết quả xuất sắc sang tầm thường; lợi nhuận năm bùng nổ 1968 thấp hơn năm 1958; công ty trả một loạt cổ tức nhỏ bằng cổ phiếu khó hiểu, không tương xứng với phần lợi nhuận giữ lại thực tế; và vân vân. A. & P. năm 1961 và 1972 là doanh nghiệp lớn hơn năm 1938, nhưng không được điều hành tốt bằng, không sinh lời bằng, và không hấp dẫn bằng.
 
 Chú thích của Zweig (PDF trang 618): lịch sử gần đây của A&P cũng không khác. Cuối 1999 giá cổ phiếu là 27,875 USD; cuối 2000 là 7,00 USD; một năm sau là 23,78 USD; cuối 2002 là 8,06 USD. Dù sau này lộ ra một số sai phạm kế toán ở A&P, thật phi lý nếu tin rằng giá trị của một doanh nghiệp tương đối ổn định như bán lẻ thực phẩm có thể giảm ba phần tư trong một năm, tăng gấp ba năm sau, rồi giảm hai phần ba năm tiếp theo.
 
@@ -854,17 +898,27 @@ Vì vậy, nhà đầu tư nào để mình bị cuốn theo đám đông hoản
 
 Chú thích của Zweig (PDF trang 618): có lẽ đây là đoạn văn quan trọng nhất trong cả cuốn sách của Graham. Trong 113 chữ (bản tiếng Anh), Graham tóm lược kinh nghiệm cả đời. Bạn không thể đọc những chữ này quá nhiều lần; chúng như "Kryptonite" (khắc tinh) đối với thị trường giá xuống. Nếu giữ chúng trong tầm tay và để chúng dẫn đường suốt đời đầu tư, bạn sẽ sống sót qua mọi thứ thị trường ném vào mình.
 
-**Ví dụ 1931–1933: không có giá niêm yết không có nghĩa là không mất giá trị.** Tình trạng nói trên thực ra đã phổ biến trong những ngày Đại Suy thoái u ám 1931–1933. Khi đó, sở hữu các phần vốn kinh doanh không có giá niêm yết đem lại một lợi thế tâm lý. Chẳng hạn, người cầm các khoản cho vay thế chấp hạng nhất trên bất động sản vẫn tiếp tục được trả lãi có thể tự nhủ rằng khoản đầu tư của mình vẫn giữ nguyên giá trị, vì không có giá thị trường nào nói khác. Trong khi đó, nhiều trái phiếu doanh nghiệp niêm yết chất lượng còn tốt hơn và sức mạnh nền tảng cao hơn bị giảm giá mạnh trên thị trường, khiến người cầm tin rằng mình đang nghèo đi rõ rệt. Thực tế, người cầm chứng khoán niêm yết lại ở thế tốt hơn, dù giá thấp. Vì nếu muốn hoặc buộc phải làm, ít nhất họ có thể bán chúng, có thể để đổi lấy những món hời tốt hơn. Hoặc họ cũng có thể, hợp lý không kém, bỏ qua diễn biến thị trường như một thứ tạm thời và về cơ bản vô nghĩa. Nhưng tự nhủ rằng mình không mất giá trị gì chỉ vì chứng khoán của mình không có giá niêm yết là tự lừa mình.
+**Ví dụ 1931–1933: không có giá niêm yết không có nghĩa là không mất giá trị.** Tình trạng nói trên thực ra đã phổ biến trong những ngày Đại Suy thoái u ám 1931–1933. Khi đó, sở hữu các phần vốn kinh doanh không có giá niêm yết đem lại một lợi thế tâm lý.
 
-Quay lại người cầm cổ phiếu A. & P. năm 1938, Graham khẳng định: chừng nào người đó còn giữ cổ phiếu, ông không chịu khoản lỗ nào do giá giảm, ngoài phần mà chính phán đoán của ông cho biết là do giá trị nền tảng hay giá trị nội tại bị thu hẹp. Nếu không có thu hẹp nào, ông có quyền kỳ vọng rằng đến lúc nào đó giá thị trường sẽ quay lại mức năm 1937 hoặc hơn, như đã thực sự xảy ra ngay năm sau. Về mặt này, vị thế của ông ít nhất cũng tốt bằng nếu ông có phần vốn trong một doanh nghiệp tư nhân không có giá niêm yết. Vì trong trường hợp đó, tuỳ theo những gì xảy ra với doanh nghiệp, ông cũng có thể có hoặc không có lý do để tự ghi giảm trong đầu một phần giá vốn của khoản nắm giữ do tác động của suy thoái 1938.
+Chẳng hạn, người cầm các khoản cho vay thế chấp hạng nhất trên bất động sản vẫn tiếp tục được trả lãi có thể tự nhủ rằng khoản đầu tư của mình vẫn giữ nguyên giá trị, vì không có giá thị trường nào nói khác. Trong khi đó, nhiều trái phiếu doanh nghiệp niêm yết chất lượng còn tốt hơn và sức mạnh nền tảng cao hơn bị giảm giá mạnh trên thị trường, khiến người cầm tin rằng mình đang nghèo đi rõ rệt.
 
-**Tính thanh khoản chỉ cho thêm lựa chọn.** Những người chỉ trích cách tiếp cận đầu tư cổ phiếu dựa trên giá trị lập luận rằng cổ phiếu niêm yết không thể được xem xét hay định giá giống như phần vốn trong một doanh nghiệp tư nhân tương tự, vì sự tồn tại của một thị trường chứng khoán có tổ chức "đưa vào quyền sở hữu cổ phần một thuộc tính mới và cực kỳ quan trọng là tính thanh khoản". Nhưng tính thanh khoản thực ra có nghĩa là: thứ nhất, nhà đầu tư được hưởng lợi từ việc thị trường định giá hằng ngày và thay đổi các khoản nắm giữ của mình, dù định giá đó đáng bao nhiêu; và thứ hai, nhà đầu tư có thể tăng hoặc giảm khoản đầu tư theo giá thị trường hằng ngày, nếu muốn. Như vậy, sự tồn tại của một thị trường niêm yết cho nhà đầu tư một số lựa chọn mà ông không có nếu chứng khoán không niêm yết. Nhưng nó không áp đặt giá hiện tại lên một nhà đầu tư thích lấy ý niệm giá trị từ một nguồn khác.
+Thực tế, người cầm chứng khoán niêm yết lại ở thế tốt hơn, dù giá thấp. Vì nếu muốn hoặc buộc phải làm, ít nhất họ có thể bán chúng, có thể để đổi lấy những món hời tốt hơn. Hoặc họ cũng có thể, hợp lý không kém, bỏ qua diễn biến thị trường như một thứ tạm thời và về cơ bản vô nghĩa. Nhưng tự nhủ rằng mình không mất giá trị gì chỉ vì chứng khoán của mình không có giá niêm yết là tự lừa mình.
+
+Quay lại người cầm cổ phiếu A. & P. năm 1938, Graham khẳng định: chừng nào người đó còn giữ cổ phiếu, ông không chịu khoản lỗ nào do giá giảm, ngoài phần mà chính phán đoán của ông cho biết là do giá trị nền tảng hay giá trị nội tại bị thu hẹp. Nếu không có thu hẹp nào, ông có quyền kỳ vọng rằng đến lúc nào đó giá thị trường sẽ quay lại mức năm 1937 hoặc hơn, như đã thực sự xảy ra ngay năm sau.
+
+Về mặt này, vị thế của ông ít nhất cũng tốt bằng nếu ông có phần vốn trong một doanh nghiệp tư nhân không có giá niêm yết. Vì trong trường hợp đó, tuỳ theo những gì xảy ra với doanh nghiệp, ông cũng có thể có hoặc không có lý do để tự ghi giảm trong đầu một phần giá vốn của khoản nắm giữ do tác động của suy thoái 1938.
+
+**Tính thanh khoản chỉ cho thêm lựa chọn.** Những người chỉ trích cách tiếp cận đầu tư cổ phiếu dựa trên giá trị lập luận rằng cổ phiếu niêm yết không thể được xem xét hay định giá giống như phần vốn trong một doanh nghiệp tư nhân tương tự, vì sự tồn tại của một thị trường chứng khoán có tổ chức "đưa vào quyền sở hữu cổ phần một thuộc tính mới và cực kỳ quan trọng là tính thanh khoản".
+
+Nhưng tính thanh khoản thực ra có nghĩa là: thứ nhất, nhà đầu tư được hưởng lợi từ việc thị trường định giá hằng ngày và thay đổi các khoản nắm giữ của mình, dù định giá đó đáng bao nhiêu; và thứ hai, nhà đầu tư có thể tăng hoặc giảm khoản đầu tư theo giá thị trường hằng ngày, nếu muốn. Như vậy, sự tồn tại của một thị trường niêm yết cho nhà đầu tư một số lựa chọn mà ông không có nếu chứng khoán không niêm yết. Nhưng nó không áp đặt giá hiện tại lên một nhà đầu tư thích lấy ý niệm giá trị từ một nguồn khác.
 
 **Ngụ ngôn ông Thị Trường.** Graham kết thúc phần này bằng một thứ giống như ngụ ngôn. Hãy tưởng tượng bạn có một phần vốn nhỏ trong một doanh nghiệp tư nhân, giá 1.000 USD. Một trong những người cộng sự của bạn, tên là ông Thị Trường (Mr. Market), thật sự rất chiều lòng. Mỗi ngày ông nói với bạn ông nghĩ phần vốn của bạn đáng giá bao nhiêu, và còn đề nghị mua lại của bạn hoặc bán thêm cho bạn một phần vốn trên cơ sở đó. Đôi khi ý niệm giá trị của ông có vẻ hợp lý và được biện minh bởi diễn biến kinh doanh và triển vọng mà bạn biết. Nhưng nhiều khi ông Thị Trường để sự hăng hái hoặc nỗi sợ của mình lấn át, và giá trị ông đưa ra có vẻ hơi ngớ ngẩn.
 
 Nếu bạn là nhà đầu tư thận trọng hay nhà kinh doanh khôn ngoan, bạn có để lời thông báo hằng ngày của ông Thị Trường quyết định ý kiến của mình về giá trị một phần vốn 1.000 USD trong doanh nghiệp không? Chỉ khi bạn đồng ý với ông, hoặc khi bạn muốn giao dịch với ông. Bạn có thể vui lòng bán cho ông khi ông trả giá cao lố bịch, và vui lòng không kém khi mua của ông khi giá ông thấp. Nhưng những lúc khác, bạn sẽ khôn ngoan hơn nếu tự hình thành ý niệm về giá trị khoản nắm giữ của mình, dựa trên các báo cáo đầy đủ của công ty về hoạt động và tình hình tài chính.
 
-Nhà đầu tư thật sự ở đúng vị thế đó khi sở hữu một cổ phiếu niêm yết. Ông có thể tận dụng giá thị trường hằng ngày hoặc để mặc nó, tuỳ phán đoán và ý thích của mình. Ông phải để ý tới các biến động giá quan trọng, nếu không phán đoán của ông sẽ không có gì để làm việc. Về lý thuyết, chúng có thể cho ông một tín hiệu cảnh báo đáng lưu ý, nói thẳng ra là: ông nên bán cổ phiếu vì giá đã giảm, báo trước những điều tệ hơn sắp tới. Theo Graham, các tín hiệu như vậy gây hiểu lầm ít nhất cũng thường xuyên như chúng hữu ích. Về cơ bản, biến động giá chỉ có một ý nghĩa thật sự với nhà đầu tư thật sự: chúng cho ông cơ hội mua khôn ngoan khi giá giảm mạnh và bán khôn ngoan khi giá tăng nhiều. Những lúc khác, ông sẽ làm tốt hơn nếu quên thị trường chứng khoán đi và chú ý tới cổ tức nhận được và kết quả kinh doanh của các công ty mình nắm.
+Nhà đầu tư thật sự ở đúng vị thế đó khi sở hữu một cổ phiếu niêm yết. Ông có thể tận dụng giá thị trường hằng ngày hoặc để mặc nó, tuỳ phán đoán và ý thích của mình. Ông phải để ý tới các biến động giá quan trọng, nếu không phán đoán của ông sẽ không có gì để làm việc. Về lý thuyết, chúng có thể cho ông một tín hiệu cảnh báo đáng lưu ý, nói thẳng ra là: ông nên bán cổ phiếu vì giá đã giảm, báo trước những điều tệ hơn sắp tới. Theo Graham, các tín hiệu như vậy gây hiểu lầm ít nhất cũng thường xuyên như chúng hữu ích.
+
+Về cơ bản, biến động giá chỉ có một ý nghĩa thật sự với nhà đầu tư thật sự: chúng cho ông cơ hội mua khôn ngoan khi giá giảm mạnh và bán khôn ngoan khi giá tăng nhiều. Những lúc khác, ông sẽ làm tốt hơn nếu quên thị trường chứng khoán đi và chú ý tới cổ tức nhận được và kết quả kinh doanh của các công ty mình nắm.
 
 #### 9. Tóm tắt (Sommaire, PDF trang 179–180)
 
@@ -880,15 +934,19 @@ Nhà đầu tư có danh mục cổ phiếu lành mạnh phải chờ đợi gi�
 
 Graham muốn nói thêm về tầm quan trọng của giá thị trường bình quân như một thước đo năng lực của ban điều hành. Cổ đông đánh giá khoản đầu tư của mình có thành công hay không theo cả cổ tức nhận được lẫn diễn biến dài hạn của giá thị trường bình quân. Theo logic, cùng các tiêu chí đó nên được dùng để kiểm tra hiệu quả của ban điều hành một công ty và sự đúng đắn trong thái độ của họ với chủ sở hữu doanh nghiệp.
 
-Câu này nghe như hiển nhiên nhưng cần được nhấn mạnh. Hiện chưa có kỹ thuật hay cách tiếp cận được chấp nhận nào để đưa ban điều hành ra trước "toà án" của dư luận thị trường. Ngược lại, các ban điều hành luôn khẳng định họ không có trách nhiệm *gì* về những gì xảy ra với giá thị trường của cổ phiếu. Đúng là họ không chịu trách nhiệm về những *dao động* giá mà, như Graham đã nhấn mạnh, không liên quan gì tới điều kiện và giá trị nền tảng. Nhưng chỉ vì cổ đông thiếu tỉnh táo và thiếu hiểu biết mà sự miễn trừ này được mở rộng ra toàn bộ lĩnh vực giá thị trường, kể cả việc một mức giá bị chiết khấu và không thoả đáng kéo dài vĩnh viễn. Ban điều hành tốt tạo ra giá thị trường bình quân tốt, ban điều hành kém tạo ra giá thị trường kém.
+Câu này nghe như hiển nhiên nhưng cần được nhấn mạnh. Hiện chưa có kỹ thuật hay cách tiếp cận được chấp nhận nào để đưa ban điều hành ra trước "toà án" của dư luận thị trường. Ngược lại, các ban điều hành luôn khẳng định họ không có trách nhiệm *gì* về những gì xảy ra với giá thị trường của cổ phiếu.
+
+Đúng là họ không chịu trách nhiệm về những *dao động* giá mà, như Graham đã nhấn mạnh, không liên quan gì tới điều kiện và giá trị nền tảng. Nhưng chỉ vì cổ đông thiếu tỉnh táo và thiếu hiểu biết mà sự miễn trừ này được mở rộng ra toàn bộ lĩnh vực giá thị trường, kể cả việc một mức giá bị chiết khấu và không thoả đáng kéo dài vĩnh viễn. Ban điều hành tốt tạo ra giá thị trường bình quân tốt, ban điều hành kém tạo ra giá thị trường kém.
 
 Chú thích của Zweig (PDF trang 619): Graham còn nói nhiều hơn về điều ngày nay gọi là "quản trị công ty" (corporate governance); xem bình luận Chương 19 ([C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md](C19-co-dong-ban-dieu-hanh-va-chinh-sach-co-tuc.md)).
 
 #### 11. Biến động giá trái phiếu (Fluctuations des prix des obligations, PDF trang 181–185)
 
-**Trái phiếu an toàn vẫn dao động giá.** Nhà đầu tư phải biết rằng dù sự an toàn của tiền gốc và tiền lãi có thể không bị nghi ngờ, một trái phiếu dài hạn vẫn có thể thay đổi giá thị trường đáng kể theo biến động lãi suất. Graham đưa ra Bảng 8-1 với số liệu nhiều năm, ngược về tới 1902, về lợi suất của trái phiếu doanh nghiệp chất lượng cao và trái phiếu miễn thuế. Để minh hoạ cụ thể, ông thêm biến động giá của hai trái phiếu đường sắt tiêu biểu trong giai đoạn tương tự: trái phiếu thế chấp chung 4% của Atchison, Topeka & Santa Fe đáo hạn 1995, nhiều thế hệ nay là một trong những trái phiếu không thể mua lại trước hạn (noncallable) hàng đầu của Mỹ; và trái phiếu 3% của Northern Pacific Railway đáo hạn 2047 (kỳ hạn gốc 150 năm!), một trái phiếu hạng Baa điển hình.
+**Trái phiếu an toàn vẫn dao động giá.** Nhà đầu tư phải biết rằng dù sự an toàn của tiền gốc và tiền lãi có thể không bị nghi ngờ, một trái phiếu dài hạn vẫn có thể thay đổi giá thị trường đáng kể theo biến động lãi suất. Graham đưa ra Bảng 8-1 với số liệu nhiều năm, ngược về tới 1902, về lợi suất của trái phiếu doanh nghiệp chất lượng cao và trái phiếu miễn thuế.
 
-*Bảng 8-1 trong sách (Tableau 8-1): không có trong bản PDF (xem khối Lưu ý); trang PDF 183 để trống chỗ đặt bảng. Các con số về trái phiếu mà lời văn của Graham có nêu được gom vào bảng sau.*
+Để minh hoạ cụ thể, ông thêm biến động giá của hai trái phiếu đường sắt tiêu biểu trong giai đoạn tương tự: trái phiếu thế chấp chung 4% của Atchison, Topeka & Santa Fe đáo hạn 1995, nhiều thế hệ nay là một trong những trái phiếu không thể mua lại trước hạn (noncallable) hàng đầu của Mỹ; và trái phiếu 3% của Northern Pacific Railway đáo hạn 2047 (kỳ hạn gốc 150 năm!), một trái phiếu hạng Baa điển hình.
+
+*Bảng 8-1 trong sách (Tableau 8-1): không có trong bản PDF (xem mục Lưu ý cuối chương); trang PDF 183 để trống chỗ đặt bảng. Các con số về trái phiếu mà lời văn của Graham có nêu được gom vào bảng sau.*
 
 **Các số liệu lợi suất và giá trái phiếu nêu trong lời văn của Chương 8 (đơn vị: % lợi suất năm; chỉ số giá; điểm DJIA)**
 
@@ -910,7 +968,11 @@ Graham lưu ý giá trái phiếu không dao động theo cùng tỷ lệ (ngư�
 
 Chú thích của Zweig (PDF trang 619): theo điều Graham gọi là "quy luật ngược chiều", năm 2002 lợi suất trái phiếu Kho bạc Mỹ dài hạn xuống mức thấp nhất kể từ 1963. Vì lợi suất đi ngược với giá, lợi suất thấp có nghĩa là giá đã tăng, khiến nhà đầu tư háo hức mua nhất đúng lúc trái phiếu đắt nhất và lợi nhuận tương lai gần như chắc chắn thấp. Đây là thêm một bằng chứng cho bài học của Graham rằng nhà đầu tư thông minh phải từ chối ra quyết định dựa trên biến động thị trường.
 
-Hai mươi lăm năm trước đó, ngay trước khi thị trường giá lên kéo dài bắt đầu, lợi suất trái phiếu ở mức *thấp nhất* lịch sử: trái phiếu đô thị dài hạn chỉ trả 1%, trái phiếu doanh nghiệp công nghiệp trả 2,40%, so với mức 4½ đến 5% từng được coi là "bình thường". Những người có kinh nghiệm lâu năm ở Phố Wall đã thấy định luật Newton "tác động và phản tác động bằng nhau và ngược chiều" lặp lại nhiều lần trên thị trường cổ phiếu, ví dụ đáng chú ý nhất là chỉ số Dow Jones tăng từ 64 năm 1921 lên 381 năm 1929, rồi sụp kỷ lục xuống 41 năm 1932. Nhưng lần này, những cú đong đưa lớn nhất lại xảy ra ở giá và lợi suất của trái phiếu hạng cao, một thị trường vốn thường ì ạch. Bài học: không có điều gì quan trọng ở Phố Wall có thể được tin là sẽ xảy ra đúng y như trước. Điều này là nửa đầu câu châm ngôn ưa thích của Graham: "Càng thay đổi, càng vẫn như cũ" (*Plus ça change, plus c'est la même chose*).
+Hai mươi lăm năm trước đó, ngay trước khi thị trường giá lên kéo dài bắt đầu, lợi suất trái phiếu ở mức *thấp nhất* lịch sử: trái phiếu đô thị dài hạn chỉ trả 1%, trái phiếu doanh nghiệp công nghiệp trả 2,40%, so với mức 4½ đến 5% từng được coi là "bình thường".
+
+Những người có kinh nghiệm lâu năm ở Phố Wall đã thấy định luật Newton "tác động và phản tác động bằng nhau và ngược chiều" lặp lại nhiều lần trên thị trường cổ phiếu, ví dụ đáng chú ý nhất là chỉ số Dow Jones tăng từ 64 năm 1921 lên 381 năm 1929, rồi sụp kỷ lục xuống 41 năm 1932. Nhưng lần này, những cú đong đưa lớn nhất lại xảy ra ở giá và lợi suất của trái phiếu hạng cao, một thị trường vốn thường ì ạch.
+
+Bài học: không có điều gì quan trọng ở Phố Wall có thể được tin là sẽ xảy ra đúng y như trước. Điều này là nửa đầu câu châm ngôn ưa thích của Graham: "Càng thay đổi, càng vẫn như cũ" (*Plus ça change, plus c'est la même chose*).
 
 **Không thể đoán giá trái phiếu; chọn kỳ hạn theo sở thích.** Nếu gần như không thể đưa ra dự báo có giá trị về biến động giá cổ phiếu, thì với trái phiếu điều đó hoàn toàn không thể. Ngày trước, ít ra người ta thường tìm được một dấu hiệu hữu ích về sự kết thúc sắp tới của một thị trường giá lên hay giá xuống bằng cách xem diễn biến trước đó của trái phiếu, nhưng không có dấu hiệu tương tự nào báo trước một thay đổi sắp tới của lãi suất và giá trái phiếu. Chú thích của Zweig (PDF trang 619): phần phân tích cập nhật cho người đọc ngày nay, giải thích lợi suất gần đây và nhiều loại trái phiếu, quỹ trái phiếu hiện có, nằm ở bình luận Chương 4 ([C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)).
 
@@ -924,11 +986,15 @@ Chú thích 3 của Graham: ba hạng cao nhất cho trái phiếu và cổ phi�
 
 Một số trong đó bị cuộc khủng hoảng tài chính năm 1970 đánh mạnh. Kết quả là chứng khoán chuyển đổi nói chung chịu ba lực gây nhiễu cùng lúc trong những năm gần đây, và biến động giá đặc biệt lớn. Vì vậy, trong trường hợp điển hình, nhà đầu tư sẽ sai nếu mong tìm thấy ở chứng khoán chuyển đổi sự kết hợp lý tưởng giữa an toàn của trái phiếu hạng cao, sự bảo vệ về giá, cộng thêm cơ hội hưởng lợi khi giá cổ phiếu phổ thông tăng.
 
-**Đề xuất "trái phiếu dài hạn của tương lai".** Graham nhân đây đưa ra một gợi ý. Vì sao tác động của biến động lãi suất không được chia một cách thực tế và công bằng giữa người vay và người cho vay? Một khả năng là bán trái phiếu dài hạn có tiền lãi thay đổi theo một chỉ số phù hợp của lãi suất hiện hành. Kết quả chính của thoả thuận như vậy sẽ là: (1) trái phiếu của nhà đầu tư luôn có giá trị vốn khoảng 100 nếu công ty giữ được hạng tín nhiệm, nhưng tiền lãi nhận được sẽ thay đổi, chẳng hạn theo lãi suất của các đợt phát hành mới; (2) công ty có được lợi ích của nợ dài hạn, tránh được rắc rối và chi phí của việc tái cấp vốn thường xuyên, nhưng chi phí lãi vay sẽ thay đổi từ năm này sang năm khác.
+**Đề xuất "trái phiếu dài hạn của tương lai".** Graham nhân đây đưa ra một gợi ý. Vì sao tác động của biến động lãi suất không được chia một cách thực tế và công bằng giữa người vay và người cho vay? Một khả năng là bán trái phiếu dài hạn có tiền lãi thay đổi theo một chỉ số phù hợp của lãi suất hiện hành.
+
+Kết quả chính của thoả thuận như vậy sẽ là: (1) trái phiếu của nhà đầu tư luôn có giá trị vốn khoảng 100 nếu công ty giữ được hạng tín nhiệm, nhưng tiền lãi nhận được sẽ thay đổi, chẳng hạn theo lãi suất của các đợt phát hành mới; (2) công ty có được lợi ích của nợ dài hạn, tránh được rắc rối và chi phí của việc tái cấp vốn thường xuyên, nhưng chi phí lãi vay sẽ thay đổi từ năm này sang năm khác.
 
 Chú thích 4 của Graham: ý tưởng này đã được áp dụng ở châu Âu, ví dụ công ty điện lực quốc doanh của Ý với các "trái phiếu lãi suất thả nổi có bảo đảm" đáo hạn năm 1980. Tháng 6/1971, công ty thông báo ở New York rằng lãi suất năm trả cho trái phiếu này trong sáu tháng tới là 8 1/8%. Một thoả thuận linh hoạt như vậy cũng được đưa vào trái phiếu 7%–8% của ngân hàng Toronto-Dominion đáo hạn 1991, chào bán tháng 6/1971: trái phiếu trả 7% tới tháng 7/1976 và 8% sau đó, nhưng người cầm có quyền chọn nhận lại tiền gốc vào tháng 7/1976.
 
-Trong thập niên vừa qua, nhà đầu tư trái phiếu ngày càng gặp một thế khó nghiêm trọng: chọn giá trị gốc ổn định hoàn toàn nhưng lãi suất thay đổi và thường thấp (kỳ hạn ngắn)? Hay chọn thu nhập lãi cố định nhưng giá trị gốc biến động đáng kể (có vẻ thường là đi xuống)? Graham cho rằng phần lớn nhà đầu tư sẽ được lợi nếu có thể chọn mức trung gian giữa hai thái cực, và được bảo đảm rằng cả lãi suất lẫn giá trị gốc đều không xuống dưới một mức tối thiểu đã định trong, chẳng hạn, 20 năm. Điều này có thể thu xếp không mấy khó khăn bằng một dạng khế ước trái phiếu (bond indenture) mới phù hợp. Ông lưu ý: thực ra chính phủ Mỹ đã làm điều tương tự khi kết hợp các hợp đồng trái phiếu tiết kiệm gốc với các lần gia hạn ở lãi suất cao hơn. Đề xuất của ông sẽ bao một kỳ đầu tư cố định dài hơn trái phiếu tiết kiệm và linh hoạt hơn về lãi suất.
+Trong thập niên vừa qua, nhà đầu tư trái phiếu ngày càng gặp một thế khó nghiêm trọng: chọn giá trị gốc ổn định hoàn toàn nhưng lãi suất thay đổi và thường thấp (kỳ hạn ngắn)? Hay chọn thu nhập lãi cố định nhưng giá trị gốc biến động đáng kể (có vẻ thường là đi xuống)?
+
+Graham cho rằng phần lớn nhà đầu tư sẽ được lợi nếu có thể chọn mức trung gian giữa hai thái cực, và được bảo đảm rằng cả lãi suất lẫn giá trị gốc đều không xuống dưới một mức tối thiểu đã định trong, chẳng hạn, 20 năm. Điều này có thể thu xếp không mấy khó khăn bằng một dạng khế ước trái phiếu (bond indenture) mới phù hợp. Ông lưu ý: thực ra chính phủ Mỹ đã làm điều tương tự khi kết hợp các hợp đồng trái phiếu tiết kiệm gốc với các lần gia hạn ở lãi suất cao hơn. Đề xuất của ông sẽ bao một kỳ đầu tư cố định dài hơn trái phiếu tiết kiệm và linh hoạt hơn về lãi suất.
 
 Chú thích của Zweig (PDF trang 619): như đã nói trong bình luận Chương 2 và 4, trái phiếu Kho bạc Mỹ bảo vệ khỏi lạm phát (TIPS) là một phiên bản mới, cải tiến của điều Graham đề xuất ở đây.
 
@@ -952,7 +1018,9 @@ Chú thích 1 của Zweig: xem văn bản của Graham về ngụ ngôn ông Th�
 
 Nhưng trong cơn say mê cổ phiếu Inktomi, ông Thị Trường bỏ qua một điều về doanh nghiệp: công ty đang lỗ, lỗ nhiều. Công ty đã lỗ 6 triệu USD trong quý gần nhất, 24 triệu USD trong 12 tháng trước đó và 24 triệu USD trong năm trước nữa. Trong cả đời doanh nghiệp, Inktomi chưa từng có một xu lợi nhuận. Vậy mà ngày 17/3/2000, ông Thị Trường định giá doanh nghiệp nhỏ này tổng cộng 25 tỷ USD ("vâng, là tỷ").
 
-**Inktomi xuống đáy.** Rồi ông Thị Trường rơi vào một cơn trầm cảm đột ngột như ác mộng. Ngày 30/9/2002, chỉ hai năm rưỡi sau khi đạt 231,625 USD mỗi cổ phiếu, cổ phiếu Inktomi đóng cửa ở 25 xu, tổng giá trị thị trường từ 25 tỷ USD còn dưới 40 triệu USD. Doanh nghiệp Inktomi có cạn kiệt không? Hoàn toàn không; trong 12 tháng trước đó công ty tạo ra 113 triệu USD doanh thu. Vậy cái gì đã thay đổi? Chỉ có tâm trạng của ông Thị Trường. Đầu năm 2000, nhà đầu tư cuồng Internet tới mức định giá cổ phiếu Inktomi bằng 250 lần doanh thu của công ty. Giờ đây họ chỉ trả 0,35 lần doanh thu. Ông Thị Trường đã biến từ bác sĩ Jekyll thành ông Hyde và hung dữ giẫm nát mọi cổ phiếu từng làm ông thấy mình ngớ ngẩn.
+**Inktomi xuống đáy.** Rồi ông Thị Trường rơi vào một cơn trầm cảm đột ngột như ác mộng. Ngày 30/9/2002, chỉ hai năm rưỡi sau khi đạt 231,625 USD mỗi cổ phiếu, cổ phiếu Inktomi đóng cửa ở 25 xu, tổng giá trị thị trường từ 25 tỷ USD còn dưới 40 triệu USD.
+
+Doanh nghiệp Inktomi có cạn kiệt không? Hoàn toàn không; trong 12 tháng trước đó công ty tạo ra 113 triệu USD doanh thu. Vậy cái gì đã thay đổi? Chỉ có tâm trạng của ông Thị Trường. Đầu năm 2000, nhà đầu tư cuồng Internet tới mức định giá cổ phiếu Inktomi bằng 250 lần doanh thu của công ty. Giờ đây họ chỉ trả 0,35 lần doanh thu. Ông Thị Trường đã biến từ bác sĩ Jekyll thành ông Hyde và hung dữ giẫm nát mọi cổ phiếu từng làm ông thấy mình ngớ ngẩn.
 
 Nhưng cơn giận lúc nửa đêm của ông Thị Trường cũng chẳng có lý hơn cơn hưng phấn điên cuồng trước đó. Ngày 23/12/2002, Yahoo! Inc. thông báo sẽ mua Inktomi với giá 1,65 USD mỗi cổ phiếu, gần gấp bảy lần giá ngày 30/9. Lịch sử có lẽ sẽ cho thấy Yahoo! đã mua được món hời. Khi ông Thị Trường làm cổ phiếu rẻ tới vậy, không lạ gì khi cả doanh nghiệp bị mua trọn ngay dưới mũi ông.
 
@@ -983,7 +1051,7 @@ Cổ phiếu CMGI, một "vườn ươm" hay công ty mẹ nắm các công ty k
 
 Chú thích 4 của Zweig: vài tháng sau, ngày 10/3/2000, đúng ngày NASDAQ đạt đỉnh, chuyên gia giao dịch trực tuyến James J. Cramer viết rằng mấy ngày qua ông đã "nhiều lần" bị cám dỗ bán khống Berkshire Hathaway, tức đặt cược rằng cổ phiếu của Buffett còn giảm nữa; ông còn tuyên bố cổ phiếu Berkshire đã "chín muồi để bị đập". Cùng ngày, chiến lược gia thị trường Ralph Acampora của Prudential Securities hỏi: "Norfolk Southern hay Cisco Systems: bạn muốn ở đâu trong tương lai?" Cisco, một mắt xích then chốt của xa lộ Internet ngày mai, có vẻ hơn hẳn Norfolk Southern, một phần của hệ thống đường sắt ngày hôm qua. Trong năm sau đó, Norfolk Southern tăng 35%, còn Cisco mất 70%.
 
-Nhưng rồi, như vẫn thường xảy ra, thị trường đột ngột đổi tâm trạng. Hình 8-1 của sách cho thấy những cổ phiếu tệ nhất năm 1999 đã thành ngôi sao giai đoạn 2000–2002 như thế nào. *(Hình 8-1 không có trong bản PDF: trang PDF 188 để trống chỗ đặt hình; xem khối Lưu ý.)* Riêng hai công ty mẹ nói trên: CMGI mất 96% năm 2000, 70,9% năm 2001 và thêm 39,8% năm 2002, tổng cộng mất 99,3%. Berkshire Hathaway tăng 26,6% năm 2000 và 6,5% năm 2001, rồi lỗ nhẹ 3,8% năm 2002, tổng cộng tăng 30%.
+Nhưng rồi, như vẫn thường xảy ra, thị trường đột ngột đổi tâm trạng. Hình 8-1 của sách cho thấy những cổ phiếu tệ nhất năm 1999 đã thành ngôi sao giai đoạn 2000–2002 như thế nào. *(Hình 8-1 không có trong bản PDF: trang PDF 188 để trống chỗ đặt hình; xem mục Lưu ý cuối chương.)* Riêng hai công ty mẹ nói trên: CMGI mất 96% năm 2000, 70,9% năm 2001 và thêm 39,8% năm 2002, tổng cộng mất 99,3%. Berkshire Hathaway tăng 26,6% năm 2000 và 6,5% năm 2001, rồi lỗ nhẹ 3,8% năm 2002, tổng cộng tăng 30%.
 
 **CMGI và Berkshire Hathaway 1999–2002 (lời văn của Zweig; đơn vị: % thay đổi giá cổ phiếu trong năm)**
 
@@ -1048,7 +1116,9 @@ Chú thích 9 của Zweig: khoa học thần kinh về đầu tư được bàn 
 
 **Né tránh thua lỗ.** Thực tế, hai nhà tâm lý học xuất sắc Daniel Kahneman và Amos Tversky đã chỉ ra rằng nỗi đau của một khoản lỗ tài chính mạnh hơn hai lần niềm vui của một khoản lãi tương đương. Lãi 1.000 USD trên một cổ phiếu thì dễ chịu, nhưng lỗ 1.000 USD giáng một đòn cảm xúc mạnh hơn hai lần. Mất tiền đau đớn tới mức nhiều người, sợ hãi trước viễn cảnh lỗ thêm, bán ra gần đáy hoặc từ chối mua thêm.
 
-**Nhìn theo phần trăm.** Điều đó giúp giải thích vì sao ta chú ý vào độ lớn thô của một đợt giảm và quên đặt khoản lỗ vào tỷ lệ. Nếu một phóng viên truyền hình hét lên "Thị trường đang lao dốc — Dow Jones giảm 100 điểm!", phần lớn người nghe rùng mình theo bản năng. Nhưng ở mức 8.000 điểm gần đây của Dow Jones, đó chỉ là giảm 1,2%. Hãy tưởng tượng sẽ lố bịch thế nào nếu, một ngày trời 81 độ F, người dẫn thời tiết hét lên: "Nhiệt độ đang lao dốc — từ 81 độ xuống 80 độ!" Đó cũng là giảm 1,2%. Khi quên nhìn biến động giá theo phần trăm, ta rất dễ hoảng loạn vì những rung động nhỏ. (Zweig chỉ sang khung tin bên dưới như một cách tốt hơn để nghe tin tài chính nếu bạn còn hàng chục năm đầu tư phía trước.)
+**Nhìn theo phần trăm.** Điều đó giúp giải thích vì sao ta chú ý vào độ lớn thô của một đợt giảm và quên đặt khoản lỗ vào tỷ lệ. Nếu một phóng viên truyền hình hét lên "Thị trường đang lao dốc — Dow Jones giảm 100 điểm!", phần lớn người nghe rùng mình theo bản năng. Nhưng ở mức 8.000 điểm gần đây của Dow Jones, đó chỉ là giảm 1,2%.
+
+Hãy tưởng tượng sẽ lố bịch thế nào nếu, một ngày trời 81 độ F, người dẫn thời tiết hét lên: "Nhiệt độ đang lao dốc — từ 81 độ xuống 80 độ!" Đó cũng là giảm 1,2%. Khi quên nhìn biến động giá theo phần trăm, ta rất dễ hoảng loạn vì những rung động nhỏ. (Zweig chỉ sang khung tin bên dưới như một cách tốt hơn để nghe tin tài chính nếu bạn còn hàng chục năm đầu tư phía trước.)
 
 Cuối thập niên 1990, nhiều người cảm thấy mình bị bỏ lại trong bóng tối nếu không kiểm tra giá cổ phiếu vài lần mỗi ngày. Nhưng như Graham nói, nhà đầu tư điển hình "sẽ tốt hơn nếu cổ phiếu của mình không có giá niêm yết, vì khi ấy ông được tránh nỗi khổ tâm do sai lầm phán đoán của người khác gây ra". Nếu sau khi kiểm tra giá trị danh mục lúc 13:24 bạn thấy phải kiểm tra lần nữa lúc 13:37, hãy tự hỏi:
 
@@ -1058,11 +1128,19 @@ Cuối thập niên 1990, nhiều người cảm thấy mình bị bỏ lại tr
 
 Chú thích 10 của Zweig: cũng đáng tự hỏi liệu bạn có thích sống trong ngôi nhà của mình không nếu giá thị trường của nó được báo tới từng xu mỗi ngày trên báo và truyền hình.
 
-Câu trả lời duy nhất có thể cho các câu hỏi trên dĩ nhiên là không! Và bạn nên nhìn danh mục của mình theo cùng cách đó. Với kỳ hạn đầu tư 10, 20 hay 30 năm, những nét nguệch ngoạc hằng ngày của ông Thị Trường đơn giản là không quan trọng. Dù sao đi nữa, với bất kỳ ai sẽ còn đầu tư trong nhiều năm tới, giá cổ phiếu giảm là tin tốt chứ không phải tin xấu, vì nó cho phép mua nhiều hơn với ít tiền hơn. Cổ phiếu càng giảm lâu và sâu, và bạn càng tiếp tục mua đều khi chúng giảm, thì cuối cùng bạn càng kiếm được nhiều tiền, nếu bạn kiên định tới cùng. Thay vì sợ thị trường giá xuống, bạn nên đón nhận nó. Nhà đầu tư thông minh phải hoàn toàn thoải mái khi sở hữu một cổ phiếu hay quỹ tương hỗ ngay cả khi thị trường ngừng báo giá hằng ngày suốt 10 năm tới.
+Câu trả lời duy nhất có thể cho các câu hỏi trên dĩ nhiên là không! Và bạn nên nhìn danh mục của mình theo cùng cách đó. Với kỳ hạn đầu tư 10, 20 hay 30 năm, những nét nguệch ngoạc hằng ngày của ông Thị Trường đơn giản là không quan trọng.
+
+Dù sao đi nữa, với bất kỳ ai sẽ còn đầu tư trong nhiều năm tới, giá cổ phiếu giảm là tin tốt chứ không phải tin xấu, vì nó cho phép mua nhiều hơn với ít tiền hơn. Cổ phiếu càng giảm lâu và sâu, và bạn càng tiếp tục mua đều khi chúng giảm, thì cuối cùng bạn càng kiếm được nhiều tiền, nếu bạn kiên định tới cùng. Thay vì sợ thị trường giá xuống, bạn nên đón nhận nó. Nhà đầu tư thông minh phải hoàn toàn thoải mái khi sở hữu một cổ phiếu hay quỹ tương hỗ ngay cả khi thị trường ngừng báo giá hằng ngày suốt 10 năm tới.
 
 Chú thích 11 của Zweig: trong một loạt thí nghiệm đáng chú ý cuối thập niên 1980, nhà tâm lý học Paul Andreassen của Columbia và Harvard chỉ ra rằng nhà đầu tư nhận được cập nhật thường xuyên về cổ phiếu của mình chỉ đạt một nửa lợi nhuận so với nhà đầu tư không nhận tin tức gì.
 
-**Khung "Tin tức bạn có thể dùng" (NOUVELLES QUE VOUS POURRIEZ UTILISER, PDF trang 193–194).** Cổ phiếu đang sụp, nên bạn bật truyền hình theo dõi tin thị trường mới nhất. Nhưng thay vì CNBC hay CNN, hãy tưởng tượng bạn bắt được "Kênh Tài chính Benjamin Graham" (BGFN). Trên BGFN, âm thanh không phải tiếng chuông đóng cửa thị trường; hình ảnh không phải cảnh nhân viên môi giới chạy trên sàn giao dịch như lũ gặm nhấm nổi giận; cũng không có cảnh nhà đầu tư thở dốc trên vỉa hè đóng băng trong khi những mũi tên đỏ vụt qua bảng điện tử. Thay vào đó, màn hình hiện mặt tiền Sở Giao dịch Chứng khoán New York với tấm băng rôn khổng lồ: "GIẢM GIÁ! 50% OFF!" Nhạc mở đầu là ban nhạc Bachman-Turner Overdrive gào vài nhịp của bài hát cũ "You Ain't Seen Nothing Yet" ("Bạn chưa thấy gì đâu"). Rồi người dẫn hớn hở thông báo: "Cổ phiếu hôm nay lại hấp dẫn hơn nữa, khi Dow Jones giảm thêm 2,5% với khối lượng lớn — ngày thứ tư liên tiếp cổ phiếu trở nên rẻ hơn. Nhà đầu tư công nghệ còn được lợi hơn nữa, vì các công ty hàng đầu như Microsoft mất gần 5% trong ngày, khiến chúng còn dễ mua hơn. Điều này cộng thêm vào tin tốt của năm ngoái, khi cổ phiếu đã mất 50%, đưa chúng về mức giao dịch chưa thấy trong nhiều năm. Và một số nhà phân tích nổi tiếng lạc quan rằng giá còn có thể giảm thêm trong những tuần và tháng tới." Bản tin chuyển sang chiến lược gia Ignatz Anderson của công ty Ketchum & Skinner (tên tưởng tượng) ở Phố Wall: "Tôi dự báo cổ phiếu sẽ mất thêm 15% từ nay tới tháng Sáu. Tôi lạc quan một cách thận trọng rằng nếu mọi việc suôn sẻ, cổ phiếu có thể mất 25%, có thể hơn." Người dẫn vui vẻ nói: "Hãy hy vọng Ignatz Anderson đúng. Giá cổ phiếu giảm sẽ là tin tuyệt vời cho mọi nhà đầu tư dài hạn. Và bây giờ là Wally Wood với dự báo thời tiết độc quyền."
+**Khung "Tin tức bạn có thể dùng" (NOUVELLES QUE VOUS POURRIEZ UTILISER, PDF trang 193–194).** Cổ phiếu đang sụp, nên bạn bật truyền hình theo dõi tin thị trường mới nhất. Nhưng thay vì CNBC hay CNN, hãy tưởng tượng bạn bắt được "Kênh Tài chính Benjamin Graham" (BGFN). Trên BGFN, âm thanh không phải tiếng chuông đóng cửa thị trường; hình ảnh không phải cảnh nhân viên môi giới chạy trên sàn giao dịch như lũ gặm nhấm nổi giận; cũng không có cảnh nhà đầu tư thở dốc trên vỉa hè đóng băng trong khi những mũi tên đỏ vụt qua bảng điện tử.
+
+Thay vào đó, màn hình hiện mặt tiền Sở Giao dịch Chứng khoán New York với tấm băng rôn khổng lồ: "GIẢM GIÁ! 50% OFF!" Nhạc mở đầu là ban nhạc Bachman-Turner Overdrive gào vài nhịp của bài hát cũ "You Ain't Seen Nothing Yet" ("Bạn chưa thấy gì đâu").
+
+Rồi người dẫn hớn hở thông báo: "Cổ phiếu hôm nay lại hấp dẫn hơn nữa, khi Dow Jones giảm thêm 2,5% với khối lượng lớn — ngày thứ tư liên tiếp cổ phiếu trở nên rẻ hơn. Nhà đầu tư công nghệ còn được lợi hơn nữa, vì các công ty hàng đầu như Microsoft mất gần 5% trong ngày, khiến chúng còn dễ mua hơn. Điều này cộng thêm vào tin tốt của năm ngoái, khi cổ phiếu đã mất 50%, đưa chúng về mức giao dịch chưa thấy trong nhiều năm. Và một số nhà phân tích nổi tiếng lạc quan rằng giá còn có thể giảm thêm trong những tuần và tháng tới."
+
+Bản tin chuyển sang chiến lược gia Ignatz Anderson của công ty Ketchum & Skinner (tên tưởng tượng) ở Phố Wall: "Tôi dự báo cổ phiếu sẽ mất thêm 15% từ nay tới tháng Sáu. Tôi lạc quan một cách thận trọng rằng nếu mọi việc suôn sẻ, cổ phiếu có thể mất 25%, có thể hơn." Người dẫn vui vẻ nói: "Hãy hy vọng Ignatz Anderson đúng. Giá cổ phiếu giảm sẽ là tin tuyệt vời cho mọi nhà đầu tư dài hạn. Và bây giờ là Wally Wood với dự báo thời tiết độc quyền."
 
 **Thừa nhận mình không kiểm soát được.** Nghịch lý thay, nhà thần kinh học Antonio Damasio nói: "Bạn sẽ kiểm soát tốt hơn nhiều nếu nhận ra mình kiểm soát kém thế nào." Khi thừa nhận khuynh hướng sinh học mua cao bán thấp của mình, bạn có thể chấp nhận sự cần thiết của đầu tư định kỳ một số tiền cố định, tái cân bằng và ký một hợp đồng đầu tư. Khi đặt phần lớn danh mục ở chế độ lái tự động thường trực, bạn có thể chống lại cơn nghiện dự đoán, tập trung vào mục tiêu tài chính dài hạn và gạt bỏ những cơn đổi tính của ông Thị Trường.
 
@@ -1072,7 +1150,9 @@ Dù Graham dạy rằng nên mua khi ông Thị Trường hô "bán", có một 
 
 Chú thích 12 của Zweig: luật thuế liên bang thay đổi liên tục; ví dụ Coca-Cola dưới đây đúng theo luật thuế Mỹ đầu năm 2003.
 
-Ví dụ: bạn mua 200 cổ phiếu Coca-Cola tháng 1/2000 giá 60 USD mỗi cổ phiếu, tổng 12.000 USD. Cuối 2002, cổ phiếu xuống 44 USD, tức 8.800 USD cho cả lô, lỗ 3.200 USD. Bạn có thể làm như phần lớn mọi người: than vãn về khoản lỗ, hoặc giấu nó xuống dưới thảm và giả vờ chưa từng xảy ra. Hoặc bạn có thể chủ động. Trước cuối 2002, bạn bán hết cổ phiếu Coca-Cola, chốt khoản lỗ 3.200 USD. Rồi sau khi chờ 31 ngày để tuân thủ quy định của cơ quan thuế Mỹ (IRS), bạn mua lại 200 cổ phiếu Coca-Cola. Kết quả: bạn giảm được 3.000 USD thu nhập chịu thuế năm 2002, và dùng 200 USD lỗ còn lại để bù trừ thu nhập năm 2003. Hơn nữa, bạn vẫn sở hữu một doanh nghiệp mà bạn tin vào tương lai, nhưng giờ với giá vốn thấp hơn lần đầu (Zweig nói "gần một phần ba"; tính theo giá 44 USD so với 60 USD thì thấp hơn khoảng 26,7%).
+Ví dụ: bạn mua 200 cổ phiếu Coca-Cola tháng 1/2000 giá 60 USD mỗi cổ phiếu, tổng 12.000 USD. Cuối 2002, cổ phiếu xuống 44 USD, tức 8.800 USD cho cả lô, lỗ 3.200 USD. Bạn có thể làm như phần lớn mọi người: than vãn về khoản lỗ, hoặc giấu nó xuống dưới thảm và giả vờ chưa từng xảy ra. Hoặc bạn có thể chủ động. Trước cuối 2002, bạn bán hết cổ phiếu Coca-Cola, chốt khoản lỗ 3.200 USD. Rồi sau khi chờ 31 ngày để tuân thủ quy định của cơ quan thuế Mỹ (IRS), bạn mua lại 200 cổ phiếu Coca-Cola.
+
+Kết quả: bạn giảm được 3.000 USD thu nhập chịu thuế năm 2002, và dùng 200 USD lỗ còn lại để bù trừ thu nhập năm 2003. Hơn nữa, bạn vẫn sở hữu một doanh nghiệp mà bạn tin vào tương lai, nhưng giờ với giá vốn thấp hơn lần đầu (Zweig nói "gần một phần ba"; tính theo giá 44 USD so với 60 USD thì thấp hơn khoảng 26,7%).
 
 **Ví dụ bán lỗ để trừ thuế với Coca-Cola (bình luận của Zweig; đơn vị: USD)**
 
@@ -1148,7 +1228,11 @@ Biến động giá là một đặc tính không tránh được của chứng 
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương này là nền tảng của trường phái đầu tư giá trị (value investing) và của tài chính hành vi (behavioral finance) ở dạng sơ khai. Ông Thị Trường là cách nói đời thường cho một quan điểm: giá thị trường là một biến ngẫu nhiên dao động quanh giá trị nội tại, có thể bị lệch do tâm lý (phản ứng thái quá, theo đám đông), và nhà đầu tư dài hạn có thể kiếm lợi từ sự hồi quy về giá trị (mean reversion) thay vì từ động lượng giá (momentum). "Định giá thay vì canh thời điểm" là nền tảng của chiến lược ngược đám đông (contrarian) và của phân bổ tài sản chiến thuật/tái cân bằng. Nhận xét rằng các quy tắc giao dịch mất tác dụng khi phổ biến đi trước khái niệm "chênh lệch giá bị khai thác hết" (arbitraged away) và vấn đề khai thác dữ liệu quá khứ (data mining, overfitting) trong kiểm định ngược (backtesting). Nghịch lý cổ phiếu chất lượng cao mang tính đầu cơ tương ứng với ý rằng cổ phiếu có hệ số giá trên giá trị sổ sách (P/B) cao có kỳ hạn dòng tiền dài (duration cao) nên nhạy với thay đổi kỳ vọng. Phần trái phiếu nói về rủi ro lãi suất và kỳ hạn (duration), trái phiếu lãi suất thả nổi (floating-rate notes) và trái phiếu chỉ số hoá lạm phát. Phần của Zweig dùng thuật ngữ tài chính hành vi: né tránh thua lỗ (loss aversion), ảo giác quy luật, bất lợi của việc xem danh mục quá thường xuyên (myopic loss aversion), vấn đề người đại diện của quỹ (agency problem) và chiến lược bán lỗ để tối ưu thuế (tax-loss harvesting).
+Chương này là nền tảng của trường phái đầu tư giá trị (value investing) và của tài chính hành vi (behavioral finance) ở dạng sơ khai. Ông Thị Trường là cách nói đời thường cho một quan điểm: giá thị trường là một biến ngẫu nhiên dao động quanh giá trị nội tại, có thể bị lệch do tâm lý (phản ứng thái quá, theo đám đông), và nhà đầu tư dài hạn có thể kiếm lợi từ sự hồi quy về giá trị (mean reversion) thay vì từ động lượng giá (momentum).
+
+"Định giá thay vì canh thời điểm" là nền tảng của chiến lược ngược đám đông (contrarian) và của phân bổ tài sản chiến thuật/tái cân bằng. Nhận xét rằng các quy tắc giao dịch mất tác dụng khi phổ biến đi trước khái niệm "chênh lệch giá bị khai thác hết" (arbitraged away) và vấn đề khai thác dữ liệu quá khứ (data mining, overfitting) trong kiểm định ngược (backtesting). Nghịch lý cổ phiếu chất lượng cao mang tính đầu cơ tương ứng với ý rằng cổ phiếu có hệ số giá trên giá trị sổ sách (P/B) cao có kỳ hạn dòng tiền dài (duration cao) nên nhạy với thay đổi kỳ vọng.
+
+Phần trái phiếu nói về rủi ro lãi suất và kỳ hạn (duration), trái phiếu lãi suất thả nổi (floating-rate notes) và trái phiếu chỉ số hoá lạm phát. Phần của Zweig dùng thuật ngữ tài chính hành vi: né tránh thua lỗ (loss aversion), ảo giác quy luật, bất lợi của việc xem danh mục quá thường xuyên (myopic loss aversion), vấn đề người đại diện của quỹ (agency problem) và chiến lược bán lỗ để tối ưu thuế (tax-loss harvesting).
 
 ## Thuật ngữ
 
@@ -1233,7 +1317,9 @@ Theo hiểu biết của người tổng hợp, không tra cứu: nhiều "dị 
 
 ### Một số chi tiết của Graham đã lỗi thời hoặc tự mâu thuẫn, nhưng không làm hỏng lập luận
 
-Graham đếm "mười" chu kỳ nhưng liệt kê thành mười một; số liệu trái phiếu tiết kiệm loại E/H, lợi suất 7,5% và 5,3%, mức thuế 1972 đều đã khác. Tiêu chí "giá không cao hơn quá một phần ba giá trị tài sản hữu hình" ngày nay khó áp dụng nguyên văn cho các doanh nghiệp mà giá trị nằm chủ yếu ở tài sản vô hình (phần mềm, thương hiệu, mạng lưới người dùng); theo hiểu biết của người tổng hợp, cổ phiếu có hệ số P/B thấp đã có những giai đoạn dài kém hơn thị trường trong thập niên 2010. Tuy vậy, điểm cốt lõi — giá càng xa chỗ dựa tài sản thì càng phụ thuộc vào tâm trạng thị trường — vẫn đúng, và Graham cũng tự nói rằng tiêu chí tài sản chỉ là một điều kiện, phải đi kèm lợi nhuận và tài chính tốt.
+Graham đếm "mười" chu kỳ nhưng liệt kê thành mười một; số liệu trái phiếu tiết kiệm loại E/H, lợi suất 7,5% và 5,3%, mức thuế 1972 đều đã khác.
+
+Tiêu chí "giá không cao hơn quá một phần ba giá trị tài sản hữu hình" ngày nay khó áp dụng nguyên văn cho các doanh nghiệp mà giá trị nằm chủ yếu ở tài sản vô hình (phần mềm, thương hiệu, mạng lưới người dùng); theo hiểu biết của người tổng hợp, cổ phiếu có hệ số P/B thấp đã có những giai đoạn dài kém hơn thị trường trong thập niên 2010. Tuy vậy, điểm cốt lõi — giá càng xa chỗ dựa tài sản thì càng phụ thuộc vào tâm trạng thị trường — vẫn đúng, và Graham cũng tự nói rằng tiêu chí tài sản chỉ là một điều kiện, phải đi kèm lợi nhuận và tài chính tốt.
 
 ### Phần trái phiếu của Graham tiên đoán đúng hai điều: lãi suất có thể đảo chiều mạnh, và thị trường sẽ cần trái phiếu lãi suất linh hoạt
 
@@ -1241,12 +1327,198 @@ Graham viết khi lợi suất đã tăng từ mức thấp kỷ lục thập ni
 
 ### Zweig làm rõ một điểm Graham chỉ ngầm nói: nhà đầu tư cá nhân có lợi thế cấu trúc so với quỹ, nhưng chỉ khi họ không tự đánh mất nó
 
-Danh sách trói buộc của nhà quản lý quỹ (quy mô, dòng tiền vào ra theo chu kỳ, thưởng theo chỉ số, ô phân loại) giải thích vì sao các quỹ có xu hướng mua cao bán thấp. Theo hiểu biết của người tổng hợp, không tra cứu: sau 2003, các nghiên cứu về "khoảng cách hành vi" (chênh lệch giữa lợi nhuận của quỹ và lợi nhuận thực tế của người đầu tư vào quỹ, do họ mua vào và rút ra sai thời điểm) liên tục cho thấy nhà đầu tư cá nhân tự làm mất một phần đáng kể lợi nhuận vì hành vi. Đồng thời, quỹ chỉ số và ETF chi phí thấp đã phổ biến rộng, giúp cá nhân thực hiện lời khuyên "mua đều quỹ chỉ số toàn thị trường" với chi phí rất thấp — lời khuyên của Zweig nay dễ làm hơn nhiều so với năm 2003.
+Danh sách trói buộc của nhà quản lý quỹ (quy mô, dòng tiền vào ra theo chu kỳ, thưởng theo chỉ số, ô phân loại) giải thích vì sao các quỹ có xu hướng mua cao bán thấp. Theo hiểu biết của người tổng hợp, không tra cứu: sau 2003, các nghiên cứu về "khoảng cách hành vi" (chênh lệch giữa lợi nhuận của quỹ và lợi nhuận thực tế của người đầu tư vào quỹ, do họ mua vào và rút ra sai thời điểm) liên tục cho thấy nhà đầu tư cá nhân tự làm mất một phần đáng kể lợi nhuận vì hành vi.
+
+Đồng thời, quỹ chỉ số và ETF chi phí thấp đã phổ biến rộng, giúp cá nhân thực hiện lời khuyên "mua đều quỹ chỉ số toàn thị trường" với chi phí rất thấp — lời khuyên của Zweig nay dễ làm hơn nhiều so với năm 2003.
 
 ### Các đợt sụp đổ sau 2003 là những bài kiểm tra thực tế cho lời khuyên "coi giá giảm là tin tốt"
 
-Theo hiểu biết của người tổng hợp, không tra cứu: trong khủng hoảng 2008–2009 thị trường cổ phiếu Mỹ mất hơn một nửa giá trị, và cú sập tháng 3/2020 diễn ra chỉ trong vài tuần; cả hai lần, người tiếp tục mua đều đặn hồi phục nhanh hơn nhiều so với người bán ra ở đáy. Bong bóng cổ phiếu công nghệ, tiền mã hoá và "cổ phiếu meme" giai đoạn 2020–2022 lặp lại kịch bản Inktomi: định giá theo bội số doanh thu rất cao rồi mất phần lớn giá trị. Quan điểm trái chiều đáng nêu: lời khuyên "cứ mua và giữ" giả định thị trường cuối cùng sẽ hồi phục, điều đúng với thị trường Mỹ thế kỷ 20 nhưng không phải thị trường nào cũng vậy — chính Zweig ở bình luận Chương 7 nhắc rằng chỉ số Nhật Bản sau 1989 mất khoảng hai phần ba trong một thập niên, và Graham cũng nhấn mạnh phải xem lại giá trị doanh nghiệp, vì A. & P. thì không bao giờ quay lại đỉnh cũ.
+Theo hiểu biết của người tổng hợp, không tra cứu: trong khủng hoảng 2008–2009 thị trường cổ phiếu Mỹ mất hơn một nửa giá trị, và cú sập tháng 3/2020 diễn ra chỉ trong vài tuần; cả hai lần, người tiếp tục mua đều đặn hồi phục nhanh hơn nhiều so với người bán ra ở đáy. Bong bóng cổ phiếu công nghệ, tiền mã hoá và "cổ phiếu meme" giai đoạn 2020–2022 lặp lại kịch bản Inktomi: định giá theo bội số doanh thu rất cao rồi mất phần lớn giá trị.
+
+Quan điểm trái chiều đáng nêu: lời khuyên "cứ mua và giữ" giả định thị trường cuối cùng sẽ hồi phục, điều đúng với thị trường Mỹ thế kỷ 20 nhưng không phải thị trường nào cũng vậy — chính Zweig ở bình luận Chương 7 nhắc rằng chỉ số Nhật Bản sau 1989 mất khoảng hai phần ba trong một thập niên, và Graham cũng nhấn mạnh phải xem lại giá trị doanh nghiệp, vì A. & P. thì không bao giờ quay lại đỉnh cũ.
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Bài học dễ áp dụng nhất là về hành vi: xem giá ít đi, đặt quy tắc chia vốn và tái cân bằng từ trước, đầu tư định kỳ, và chỉ hành động khi giá lệch xa giá trị. Ở một thị trường mới nổi, nơi nhà đầu tư cá nhân chiếm tỷ trọng giao dịch lớn, biên độ dao động giá thường rộng và tâm lý đám đông mạnh, ông Thị Trường có lẽ còn thất thường hơn; điều đó vừa tạo nhiều cơ hội định giá hơn, vừa khiến cám dỗ canh thời điểm, vay ký quỹ và lướt sóng theo tin đồn lớn hơn. Lời khuyên của Graham về việc so giá với giá trị tài sản và lợi nhuận, kiểm tra lại chất lượng doanh nghiệp định kỳ, và không bao giờ mua chỉ vì giá vừa tăng, vẫn áp dụng nguyên vẹn (vận dụng định tính, không dựa trên số liệu Việt Nam). Phần về trái phiếu cũng nhắc rằng trái phiếu doanh nghiệp lợi suất cao không đồng nghĩa với an toàn: giá có thể biến động theo lãi suất và theo khả năng trả nợ của doanh nghiệp phát hành.
+Bài học dễ áp dụng nhất là về hành vi: xem giá ít đi, đặt quy tắc chia vốn và tái cân bằng từ trước, đầu tư định kỳ, và chỉ hành động khi giá lệch xa giá trị. Ở một thị trường mới nổi, nơi nhà đầu tư cá nhân chiếm tỷ trọng giao dịch lớn, biên độ dao động giá thường rộng và tâm lý đám đông mạnh, ông Thị Trường có lẽ còn thất thường hơn; điều đó vừa tạo nhiều cơ hội định giá hơn, vừa khiến cám dỗ canh thời điểm, vay ký quỹ và lướt sóng theo tin đồn lớn hơn.
+
+Lời khuyên của Graham về việc so giá với giá trị tài sản và lợi nhuận, kiểm tra lại chất lượng doanh nghiệp định kỳ, và không bao giờ mua chỉ vì giá vừa tăng, vẫn áp dụng nguyên vẹn (vận dụng định tính, không dựa trên số liệu Việt Nam). Phần về trái phiếu cũng nhắc rằng trái phiếu doanh nghiệp lợi suất cao không đồng nghĩa với an toàn: giá có thể biến động theo lãi suất và theo khả năng trả nợ của doanh nghiệp phát hành.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: sáu nhánh lớn theo các mục của phần Nội dung chi tiết — bốn nhánh cho văn bản của Graham (Phần A, mục 1–11) và hai nhánh cho bình luận của Zweig (Phần B, mục 1–6) — mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: Giá cổ phiếu chắc chắn dao động#59; đừng đoán trước nó, hãy so giá với giá trị và bỏ qua giá những lúc còn lại`"]
+  n1["`Graham, mục 1–4 — Canh thời điểm thất bại, chỉ định giá mới có tác dụng`"]
+  n0 --- n1
+  n2["`Canh thời điểm là đoán trước thị trường#59; định giá là mua dưới giá trị hợp lý, bán khi giá vượt giá trị`"]
+  n1 --- n2
+  n3["`Ai đặt trọng tâm vào dự báo sẽ thành nhà đầu cơ và nhận kết quả của nhà đầu cơ`"]
+  n1 --- n3
+  n4["`Đại chúng không thể giàu nhờ dự báo: cả đám đông cùng bán theo một tín hiệu thì ai mua?`"]
+  n1 --- n4
+  n5["`Chờ đợi chỉ có lợi nếu sau đó mua được đủ rẻ để bù phần cổ tức đã mất`"]
+  n1 --- n5
+  n6["`Lý thuyết Dow: bán ở 306 điểm trước cú sập 1929, vào lại ở 84 năm 1933#59; sau 1938 thua mua rồi giữ DJIA gần 30 năm`"]
+  n1 --- n6
+  n7["`Công thức càng nhiều người theo càng kém tin cậy: điều kiện mới xuất hiện, và chính người theo làm hỏng nó`"]
+  n1 --- n7
+  n8["`Kế hoạch theo công thức: nhiều người bán hết cuối 1954 sau năm tăng 52,6%, rồi đứng ngoài khi cổ phiếu tăng gấp đôi`"]
+  n1 --- n8
+  n9["`1897–1949: đáy lên đỉnh tăng 44%–500%, sau đó giảm 24%–89%#59; nhưng 20 năm sau 1949 thị trường không theo mẫu cũ`"]
+  n1 --- n9
+  n10["`Cách kiếm tiền mà nhiều người dễ mô tả và làm theo thì quá đơn giản để tồn tại lâu`"]
+  n1 --- n10
+  n11["`Graham, mục 5–6 — Danh mục sẽ dao động#59; giá càng xa giá trị sổ sách càng mang tính đầu cơ`"]
+  n0 --- n11
+  n12["`DJIA 1964–1971: khoảng 890 → đỉnh 995 (1966) → 631 (1970) → 940 (đầu 1971)`"]
+  n11 --- n12
+  n13["`Chấp nhận trước: trong 5 năm phần lớn cổ phiếu tăng từ 50% trở lên so với đáy và giảm từ một phần ba trở lên so với đỉnh`"]
+  n11 --- n13
+  n14["`Quy tắc máy móc: thị trường tăng thì bán bớt cổ phiếu sang trái phiếu, giảm thì làm ngược lại (nay gọi là tái cân bằng)`"]
+  n11 --- n14
+  n15["`Lợi ích chính của quy tắc máy móc là tâm lý: cho nhà đầu tư một việc để làm, ngược với đám đông`"]
+  n11 --- n15
+  n16["`Cổ đông có hai tư cách: đồng sở hữu doanh nghiệp, hoặc người cầm chứng chỉ bán được trong vài phút`"]
+  n11 --- n16
+  n17["`Nghịch lý: công ty càng tốt, giá càng cao hơn giá trị sổ sách, nên cổ phiếu chất lượng cao lại càng mang tính đầu cơ`"]
+  n11 --- n17
+  n18["`IBM 607 → 300 trong 7 tháng 1962–1963#59; Xerox 171 → 87#59; không ai nghi ngờ tăng trưởng của hai công ty`"]
+  n11 --- n18
+  n19["`Tiêu chí: giá không cao hơn giá trị tài sản hữu hình quá một phần ba, kèm lợi nhuận/giá thoả đáng và tài chính đủ mạnh`"]
+  n11 --- n19
+  n20["`Cuối 1970 hơn nửa số cổ phiếu trong DJIA đạt tiêu chí tài sản#59; AT#amp;T bán dưới giá trị tài sản hữu hình`"]
+  n11 --- n20
+  n21["`Graham, mục 7–8 — Ví dụ A. #amp; P. và ngụ ngôn ông Thị Trường`"]
+  n0 --- n21
+  n22["`A. #amp; P. 1938: giá 36, cả công ty định giá 126 triệu USD, trong khi tiền mặt 85 triệu và vốn lưu động ròng 134 triệu USD`"]
+  n21 --- n22
+  n23["`Nguyên nhân giá rẻ: sợ thuế chuỗi cửa hàng (vô căn cứ), lợi nhuận năm trước giảm, thị trường chung ảm đạm`"]
+  n21 --- n23
+  n24["`1939 lên 117½#59; 1961 tương đương 705, bằng 30 lần lợi nhuận#59; 1972 còn 18 sau quý lỗ đầu tiên`"]
+  n21 --- n24
+  n25["`Hai bài học: thị trường thường sai rõ ràng, và doanh nghiệp đổi tính chất, chất lượng theo năm tháng`"]
+  n21 --- n25
+  n26["`Nhà đầu tư gần như không bao giờ bị buộc phải bán#59; hoảng theo đám đông là biến lợi thế cơ bản thành bất lợi cơ bản`"]
+  n21 --- n26
+  n27["`Không có giá niêm yết không có nghĩa là không mất giá trị (cho vay thế chấp bất động sản 1931–1933)`"]
+  n21 --- n27
+  n28["`Thanh khoản chỉ cho thêm lựa chọn, không ép nhà đầu tư nhận giá niêm yết làm giá trị`"]
+  n21 --- n28
+  n29["`Ông Thị Trường báo giá phần vốn 1.000 USD mỗi ngày#59; bán cho ông khi ông trả cao vô lý, mua khi giá thấp`"]
+  n21 --- n29
+  n30["`Ý nghĩa duy nhất của biến động giá: cơ hội mua khi giá giảm mạnh, bán khi giá tăng mạnh#59; lúc khác theo dõi cổ tức và kinh doanh`"]
+  n21 --- n30
+  n31["`Graham, mục 9–11 — Tóm tắt, ban điều hành và biến động giá trái phiếu`"]
+  n0 --- n31
+  n32["`Có tiền thì mua, trừ khi mặt bằng giá cao hơn nhiều so với chuẩn mực giá trị đã được thừa nhận`"]
+  n31 --- n32
+  n33["`Đừng mua ngay sau một đợt tăng đáng kể, đừng bán ngay sau một đợt giảm đáng kể`"]
+  n31 --- n33
+  n34["`Giá bình quân dài hạn đo năng lực ban điều hành: ban điều hành tốt tạo ra giá bình quân tốt`"]
+  n31 --- n34
+  n35["`Trái phiếu an toàn vẫn mất giá khi lãi suất tăng: Northern Pacific 3% đáo hạn 2047 mất 2/3 giá`"]
+  n31 --- n35
+  n36["`Trái phiếu đô thị: lợi suất 3,2% → 7% (1965–1970), chỉ số giá 110,8 → 67,5`"]
+  n31 --- n36
+  n37["`Không thể đoán giá trái phiếu: muốn giá không bao giờ giảm thì chọn trái phiếu tiết kiệm Mỹ loại E/H, 5%/năm`"]
+  n31 --- n37
+  n38["`Đề xuất lãi suất thả nổi hoặc bảo đảm lãi và gốc tối thiểu khoảng 20 năm#59; Zweig: TIPS là bản cải tiến`"]
+  n31 --- n38
+  n39["`Chứng khoán chuyển đổi chịu ba lực: giá cổ phiếu liên quan, khả năng trả nợ, lãi suất chung`"]
+  n31 --- n39
+  n40["`Zweig, mục 1–3 — Ông Thị Trường vẫn còn đó#59; nhà đầu tư cá nhân có lợi thế hơn quỹ`"]
+  n0 --- n40
+  n41["`Inktomi 17/3/2000: 231,625 USD, công ty định giá 25 tỷ USD, 250 lần doanh thu, chưa từng có lãi`"]
+  n40 --- n41
+  n42["`Inktomi 30/9/2002: 0,25 USD, dưới 40 triệu USD, 0,35 lần doanh thu#59; Yahoo! mua với giá 1,65 USD`"]
+  n40 --- n42
+  n43["`Tỷ lệ lương đóng vào 401(k): 8,6% (1999) → 7% (2002): cổ phiếu càng rẻ, người ta càng ít muốn mua`"]
+  n40 --- n43
+  n44["`1999: CMGI +939,9%, Berkshire −24,9%#59; 2000–2002: CMGI −99,3%, Berkshire +30%`"]
+  n40 --- n44
+  n45["`Quỹ buộc mua cao bán thấp vì quy mô, dòng tiền vào ra, thưởng theo chỉ số, ô phân loại`"]
+  n40 --- n45
+  n46["`Kiểm soát điều kiểm soát được: phí môi giới, chi phí sở hữu, kỳ vọng, rủi ro, thuế, và trên hết là hành vi`"]
+  n40 --- n46
+  n47["`Kỳ hạn 25–30 năm: mua hằng tháng, tự động, vào quỹ chỉ số toàn thị trường#59; chỉ bán khi cần tiền`"]
+  n40 --- n47
+  n48["`Mục đích không phải thắng thị trường mà là kiếm đủ tiền cho nhu cầu của chính mình`"]
+  n40 --- n48
+  n49["`Zweig, mục 4–6 — Bộ não, bán lỗ để trừ thuế và hợp đồng với chính mình`"]
+  n0 --- n49
+  n50["`Sự việc lặp lại 2–3 lần thì não chờ nó lặp lại#59; trúng thì tiết dopamine: ta nghiện chính dự đoán của mình`"]
+  n49 --- n50
+  n51["`Thua lỗ kích hoạt hạch hạnh nhân#59; Kahneman và Tversky: đau vì lỗ mạnh hơn hai lần vui vì lãi`"]
+  n49 --- n51
+  n52["`Nhìn theo phần trăm: Dow Jones giảm 100 điểm ở mức 8.000 chỉ là −1,2%`"]
+  n49 --- n52
+  n53["`Andreassen: nhà đầu tư nhận cập nhật thường xuyên chỉ đạt một nửa lợi nhuận`"]
+  n49 --- n53
+  n54["`Với kỳ hạn 10–30 năm, giá giảm là tin tốt vì mua được nhiều hơn với ít tiền hơn`"]
+  n49 --- n54
+  n55["`Bán lỗ để trừ thuế: Coca-Cola lỗ 3.200 USD, trừ 3.000 USD năm 2002 và 200 USD năm 2003, mua lại sau 31 ngày`"]
+  n49 --- n55
+  n56["`Hợp đồng: đầu tư định kỳ hằng tháng, giữ ít nhất 10 năm, đọc lại mỗi khi muốn bán, có người làm chứng`"]
+  n49 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Giá là lời chào mời, không phải mệnh lệnh: việc của ông Thị Trường là đưa giá, việc của bạn là quyết định`"]
+  n57 --- n58
+  n59["`Đầu tư không phải đánh bại người khác trong trò chơi của họ, mà là tự kiểm soát mình`"]
+  n57 --- n59
+  class n0 root
+  class n1,n11,n21,n31,n40,n49,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n58,n59 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 8 "L'investisseur et les fluctuations du marché" (PDF trang 165–185) và "Commentaire sur le chapitre 8" (PDF trang 185–196). Chú thích của Graham cho chương này nằm ở PDF trang 484–485; chú thích của Zweig nằm ở PDF trang 615–621.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) phân biệt đầu tư với đầu cơ và khuyên ai muốn đầu cơ thì tách riêng một khoản nhỏ. Chương 3 ([C03-mot-the-ky-lich-su-thi-truong-chung-khoan.md](C03-mot-the-ky-lich-su-thi-truong-chung-khoan.md)) kể lại một trăm năm lên xuống của thị trường cổ phiếu Mỹ. Chương 4 ([C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md)) đề ra quy tắc chia vốn giữa cổ phiếu và trái phiếu trong khoảng 25%–75%. Các Chương 5–7 bàn nên mua loại cổ phiếu nào.
+
+Chương 8 trả lời câu hỏi còn lại: khi giá những thứ mình đã mua (hoặc định mua) lên xuống, nhà đầu tư nên nghĩ và làm gì. Graham loại bỏ việc đoán trước thị trường (canh thời điểm), giữ lại việc so giá với giá trị (định giá), và đưa ra ngụ ngôn ông Thị Trường (Mr. Market).
+
+Warren Buffett coi chương này cùng Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md), biên an toàn) là hai chương quan trọng nhất của cả cuốn sách. Chương 9 ([C09-dau-tu-vao-quy.md](C09-dau-tu-vao-quy.md)) chuyển sang quỹ đầu tư, và Chương 14–15 dùng lại tiêu chí "giá không cao hơn giá trị tài sản hữu hình quá một phần ba" nêu ở đây.
+
+## Lưu ý
+
+- **Bảng 8-1 và Hình 8-1 không có trong bản PDF.** Trang PDF 183 có một khoảng trắng lớn ở nửa trên (chỗ đặt Tableau 8-1 về lợi suất và giá trái phiếu từ năm 1902 đến 1970) và trang PDF 188 có một khoảng trắng giữa trang (chỗ đặt Figure 8-1 của Zweig về các cổ phiếu "tệ nhất năm 1999 thành ngôi sao 2000–2002"). Lớp chữ cũng không chứa số liệu của hai bảng/hình này. Người tổng hợp không tự dựng lại số liệu để tránh bịa; phần Nội dung chi tiết chỉ gom các con số mà lời văn có nêu.
+- **Lỗi dấu thập phân nghiêm trọng:** bản Pháp ghi giá đỉnh của Inktomi là "231 625 $" (đọc như hai trăm ba mươi mốt nghìn USD). Bản gốc là **231,625 USD** (231 5/8 USD) một cổ phiếu. Bản tổng hợp dùng 231,625 USD.
+- **Dịch máy lệch nghĩa ảnh hưởng tới hiểu:**
+  - "mode de synchronisation / mode de tarification" là *timing* (canh thời điểm) và *pricing* (định giá, tức so giá với giá trị)
+  - "se laisse tamponner" là *lets himself be stampeded* (để mình bị cuốn theo đám đông hoảng loạn)
+  - "donne de précieux otages à la fortune" là thành ngữ *gives hostages to fortune* (tự đặt mình vào thế phụ thuộc may rủi)
+  - "erreurs de brevet" là *patent errors* (sai lầm hiển nhiên), không liên quan tới bằng sáng chế
+  - "examiner la photo" là *examine the picture* (xem xét lại tình hình)
+  - "arrêter mentalement une partie du coût" là *mentally write down part of the cost* (tự ghi giảm một phần giá vốn trong đầu)
+  - "commerçant public" là *public trader* (người giao dịch đại chúng)
+  - "contrat de cautionnement" là *bond indenture* (khế ước trái phiếu)
+  - trong chú thích 4 của Graham "recevoir son directeur" là *receive his principal* (nhận lại tiền gốc)
+  - "Baarated liaison" là *Baa-rated bond* (trái phiếu hạng Baa)
+  - "pour les générations une de nos principales émissions" là "nhiều thế hệ nay là một trong những trái phiếu hàng đầu không thể bị mua lại trước hạn"
+  - "données pour plusieurs années jusqu'en 1902" là "số liệu nhiều năm, ngược về tới 1902"
+  - "généralement lent et lent" là *generally sluggish* (vốn thường ì ạch)
+  - "frais de propriété" là *ownership costs* (chi phí sở hữu quỹ)
+  - "plus fou qu'un gâteau aux fruits" là thành ngữ *nuttier than a fruitcake* (điên rồ hết mức)
+  - các nhãn quỹ "petite croissance / valeur moyenne / grand mélange" là *small growth / mid value / large blend*.
+
+  Chữ "stock(s)" trong bản Pháp lúc nghĩa là cổ phiếu, lúc là "vốn cổ phần"; bản tổng hợp hiểu theo nghĩa cổ phiếu.
+- **Số chú thích bị dịch máy thành chữ:** "retourssept" là chú thích 7 của Zweig, "?dix" là chú thích 10.
+- **Chú thích "11" trong văn bản của Graham (PDF trang 167).** Sau câu "các dự báo của công ty môi giới ít ra cũng đáng tin hơn dự báo của chính mình" có số chú thích "11" trỏ tới chú thích 11 ở PDF trang 615–616 (về các "chiến lược gia thị trường" năm 2000–2001). Nội dung khớp với đoạn văn; người tổng hợp hiểu đây là chú thích của Zweig gắn vào câu của Graham (đánh số sai thành "11" khi chuyển định dạng). Tương tự, chú thích "* Voir p. 3." (PDF trang 616) được người tổng hợp gán cho dấu * sau "lý thuyết Dow" theo thứ tự xuất hiện; Zweig chỉ ghi "xem trang 3" của bản tiếng Anh.
+- **Mâu thuẫn số học có sẵn trong bản gốc:** Graham viết từ 1897 tới 1949 có "mười chu kỳ thị trường trọn vẹn", nhưng liệt kê sáu chu kỳ dài không quá 4 năm, bốn chu kỳ dài 6–7 năm và một chu kỳ 11 năm, cộng lại thành mười một. Zweig viết tỷ lệ đóng góp vào quỹ hưu trí 401(k) giảm "gần một phần tư" từ 8,6% xuống 7%, nhưng tính lại chỉ giảm khoảng 18,6% (gần một phần năm). Trong ví dụ Coca-Cola, Zweig nói mua lại với giá "rẻ hơn gần một phần ba"; tính lại 44 USD so với 60 USD là rẻ hơn khoảng 26,7% (hơn một phần tư một chút).
+- **Dẫn trang của bản tiếng Anh mà bản PDF không có:** Graham dẫn "Tableau 3-1 (p. 66)" (Chương 3), "p. 93" (trái phiếu tiết kiệm Mỹ, Chương 4), "Tableau 16-2 ci-dessous, p. 406" (Chương 16); Zweig dẫn "p. 222" (khung tin tức), "p. 225" (hợp đồng), "pp. 204–205" (ngụ ngôn ông Thị Trường, chính là chương này), "pp. 89–91" và "pp. 104–105" (Chương 4), "annexe 4 (p. 570)". Bản tổng hợp thay các chỗ dẫn này bằng nội dung được dẫn.
+- **Số liệu đã cũ:** mọi mức lãi suất (trái phiếu doanh nghiệp tốt 7,5%, trái phiếu đô thị 5,3%, trái phiếu tiết kiệm Mỹ loại E và H 5%) là của đầu năm 1972; luật thuế Mỹ cho phép trừ lỗ vốn tối đa 3.000 USD vào thu nhập thường và quy tắc chờ 31 ngày là luật đầu năm 2003. Trái phiếu tiết kiệm loại E và H nay không còn phát hành theo dạng đó (theo hiểu biết của người tổng hợp, không tra cứu: loại E được thay bằng loại EE và loại I gắn với lạm phát, loại H đã ngừng). Đề xuất trái phiếu lãi suất thả nổi và trái phiếu bảo đảm mức tối thiểu của Graham về sau đã thành hiện thực ở nhiều dạng (trái phiếu lãi suất thả nổi, TIPS), như Zweig ghi.
+- **Về A&P:** theo hiểu biết của người tổng hợp, không tra cứu, Great Atlantic & Pacific Tea Co. phá sản lần đầu năm 2010 và phá sản lần nữa, thanh lý năm 2015 — đúng với bài học thứ hai của Graham rằng doanh nghiệp có thể đổi chất theo thời gian. Inktomi được Yahoo! mua lại năm 2003; CMGI về sau đổi tên và thu nhỏ hẳn. Trong khung tin của Zweig, bài hát của ban nhạc Bachman-Turner Overdrive là "You Ain't Seen Nothing Yet" ("Bạn chưa thấy gì đâu"), bản Pháp dịch thành "Vous ne voyez rien d'autre encore".

@@ -1,20 +1,22 @@
 # Chương 12 — Những điều cần xét về lợi nhuận trên mỗi cổ phiếu (Éléments à considérer au sujet du bénéfice par action)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 12 "Éléments à considérer au sujet du bénéfice par action" (PDF trang 267–276) và "Commentaire sur le chapitre 12" (PDF trang 276–282). Chú thích của Graham: PDF trang 487; chú thích của Zweig: PDF trang 562–567.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), lúc đó là cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 11 ([C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md)) giới thiệu phân tích chứng khoán (security analysis) cho nhà đầu tư không chuyên: định giá cổ phiếu dựa trên "khả năng sinh lợi" tương lai, đề xuất công thức Giá trị = Lợi nhuận hiện tại (bình thường) × (8,5 + 2 lần tốc độ tăng trưởng kỳ vọng), và đề xuất "quy trình định giá hai phần" (trước hết tính "giá trị theo thành tích quá khứ", sau đó điều chỉnh theo triển vọng). Chương 11 đã báo trước rằng sẽ minh hoạ độ khó của việc định giá bằng trường hợp ALCOA ở chương sau. Chương 12 làm đúng việc đó: lấy con số đầu vào quan trọng nhất của mọi phép định giá, lợi nhuận trên mỗi cổ phiếu (earnings per share, EPS), và cho thấy chỉ một năm của một công ty đã có bốn con số EPS khác nhau, bị ảnh hưởng bởi chi phí đặc biệt, pha loãng, khoản giảm thuế do lỗ cũ, cách khấu hao, cách ghi nhận chi phí nghiên cứu và cách tính giá hàng tồn kho. Cách chữa Graham đưa ra là dùng lợi nhuận bình quân 7–10 năm và đo tăng trưởng bằng bình quân ba năm. Chương 13 ([C13-so-sanh-bon-cong-ty-niem-yet.md](C13-so-sanh-bon-cong-ty-niem-yet.md)) áp dụng chính các công cụ này (bình quân, tăng trưởng, hệ số P/E trên lợi nhuận bình quân) để so sánh bốn công ty niêm yết; Chương 14 và 15 biến chúng thành tiêu chí chọn cổ phiếu; Chương 16 ([C16-chung-khoan-chuyen-doi-va-chung-quyen.md](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) trình bày kỹ phần pha loãng do trái phiếu chuyển đổi và chứng quyền mà chương này chỉ nhắc tới.
-**Ý chính:** Graham muốn người đọc hiểu rằng **con số "lợi nhuận trên mỗi cổ phiếu" của một năm không phải là một sự thật duy nhất mà là kết quả của nhiều lựa chọn kế toán, nên nhà đầu tư không được coi trọng lợi nhuận của một năm đơn lẻ, và nếu vẫn nhìn vào lợi nhuận ngắn hạn thì phải tìm những cái bẫy trong con số tính trên mỗi cổ phiếu**. Ví dụ trung tâm là báo cáo năm 1970 của Aluminum Company of America (ALCOA): tờ *Wall Street Journal* đưa "lợi nhuận cơ bản" (primary earnings) 5,20 USD/cổ phiếu, quý IV là 1,58 USD (nhân bốn thành 6,32 USD/năm, nên giá 62 USD trông như chưa tới 10 lần lợi nhuận); nhưng phần chú thích cho thấy có bốn con số EPS cho năm 1970 (5,20; 4,32; 5,01; 4,19 USD), và nếu lấy lợi nhuận ròng quý IV sau chi phí đặc biệt (0,70 USD) thì cùng mức giá đó là 22 lần lợi nhuận. Khoản "chi phí đặc biệt" 18,8 triệu USD (88 cent/cổ phiếu) là ước tính các khoản lỗ *tương lai* (đóng cửa bộ phận, rút khỏi công ty tín dụng, một hợp đồng xây "tường rèm") được dồn hết vào năm 1970, năm mà thị trường đã coi là năm xấu, để dọn đường cho các năm sau. Graham đề nghị: dùng lợi nhuận bình quân 7–10 năm, *tính cả* các khoản đặc biệt (ALCOA bình quân 1961–1970 là 3,62 USD, 1964–1970 là 4,62 USD); đo tăng trưởng bằng cách so bình quân ba năm gần nhất với bình quân ba năm của mười năm trước. Ngay cả khi đó, ALCOA cho thấy định giá vẫn không đáng tin: tăng trưởng quá khứ tốt hơn Sears Roebuck, vậy mà đầu năm 1971 cổ phiếu chỉ bán 11½ lần lợi nhuận bình quân ba năm (Sears 27 lần), sau khi năm 1959 đã bán ở 116 USD, tức 45 lần lợi nhuận. Kết luận: phần lớn nhà đầu tư nên chỉ cần chắc rằng mình nhận được giá trị tốt so với giá phải trả. Zweig, viết năm 2003, bổ sung rằng **những thủ thuật Graham chê trách năm 1970 đã nở rộ tới mức "ăn gian" có hệ thống trong thập niên 1990, khi ban điều hành được trả bằng quyền chọn cổ phiếu nên có động cơ đẩy lợi nhuận báo cáo lên**: lợi nhuận "pro forma" (InfoSpace, BEA Systems, JDS Uniphase), ghi nhận doanh thu sớm (Qwest, bị thổi phồng 2,2 tỷ USD doanh thu 2000–2001), vốn hoá chi phí (Global Crossing), chi phí "không lặp lại" lặp lại bảy quý liền (Micron Technology), và lợi nhuận từ quỹ hưu trí dựa trên giả định lợi suất 9,5% (SBC Communications, 1,4 tỷ USD). Lời khuyên của Zweig: bỏ qua lợi nhuận pro forma, đọc báo cáo tài chính từ cuối lên, đọc kỹ thuyết minh, so sánh với đối thủ cạnh tranh, và học thêm về báo cáo tài chính.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bảng và hình trống trong bản PDF.** Ô "TABLEAU 12-1" (PDF trang 275, bảng tăng trưởng của ALCOA, Sears Roebuck và DJIA) và "FIGURE 12-1 — Un bloc de vieux copeaux" (PDF trang 279–280, các khoản ghi giảm hàng tồn kho của Micron theo quý) đều chỉ có tiêu đề, phần nội dung để trắng (đã xem trên ảnh trang). Bản tổng hợp chép các con số mà lời văn có nêu; với Tableau 12-1, người tổng hợp dựng lại bảng theo trí nhớ về bản tiếng Anh, có ghi rõ là chưa kiểm chứng, và đối chiếu với các con số trong lời văn (khớp). Hình 12-1 không dựng lại được; chỉ chép những gì lời văn nói.
-> - **Chương này chỉ có một bảng đánh số (Tableau 12-1) và một hình (Figure 12-1).** Không có "Tableau 12-2". Hai bảng EPS của ALCOA ở đầu chương (cả năm và quý IV) không được đánh số trong sách; bản tổng hợp chép đủ và đặt tên theo nội dung. Chú thích "a" của Tableau 12-1 ("ba phần năm khoản chi phí đặc biệt 82 cent năm 1970 được trừ ở đây") bị đặt lẫn vào tệp chú thích của Zweig (PDF trang 565).
-> - **Kiểm tra phép tính:** 5,20 − 4,32 = 0,88 USD và 1,58 − 0,70 = 0,88 USD, tức toàn bộ khoản 88 cent chi phí đặc biệt được ghi vào quý IV; 18,8 triệu USD ÷ 0,88 USD ≈ 21,4 triệu cổ phiếu. 5,01 − 4,19 = 0,82 USD: đây là cùng khoản chi phí đặc biệt tính trên số cổ phiếu sau pha loãng. Vì vậy Graham nói "88 cent" (PDF trang 269) rồi sau đó "82 cent" (PDF trang 272) **không phải lỗi**: 88 cent là trên cơ sở cơ bản, 82 cent là trên cơ sở pha loãng hoàn toàn. 1,58 × 4 = 6,32; 0,70 × 4 = 2,80; 62 ÷ 6,32 ≈ 9,8 lần; 62 ÷ 2,80 ≈ 22,1 lần: đều khớp. Trane: 3,29 ÷ 2,76 − 1 ≈ 19,2% ("gần 20%"): khớp. 10% của DJIA 840 = 84 USD: khớp. 3/5 × 0,82 ≈ 0,49 USD.
-> - **Ba mức giá ALCOA khác nhau:** 62 USD (lúc báo cáo năm 1970 được đăng, đầu năm 1971), 57¼ USD (giá dùng trong phép định giá hai phần, có lẽ là giá đóng cửa cuối 1970) và "đúng một nửa đỉnh 116 USD năm 1959" (tức 58 USD) khi đóng cửa năm 1970. Ba con số không mâu thuẫn nhau nhiều (57¼ ≈ 58), nhưng người đọc nên biết chúng ở các thời điểm khác nhau.
-> - **SBC: 1,4 tỷ USD không phải 13% của 7,2 tỷ USD** (1,4 ÷ 7,2 ≈ 19%). Có thể 13% là so với lợi nhuận *trước thuế* (1,4 ÷ 0,13 ≈ 10,8 tỷ USD) hoặc bản tiếng Anh dùng một mẫu số khác; người tổng hợp không kiểm chứng được. Chú thích số 6 của Zweig trong bản tiếng Pháp viết đảo phép chia ("chia giá trị tài sản ròng đầu năm cho lợi suất thực tế"); nghĩa đúng là lấy lợi suất thực tế (bằng tiền) của tài sản quỹ chia cho giá trị tài sản ròng của quỹ đầu năm.
-> - **Dịch máy lệch nghĩa ảnh hưởng tới hiểu:** "Part des gains" = *share earnings*, lợi nhuận trên mỗi cổ phiếu; "gains"/"revenus" trong chương thường là *earnings* (lợi nhuận), không phải doanh thu; "les personnages de base" = *the basic figures* (các con số chính), không phải "nhân vật"; "Le stock se vend à 62" = cổ phiếu bán giá 62 USD; "inclus dans le salaire moyen" = *included in the average earnings* (đưa vào lợi nhuận bình quân), không có "tiền lương" nào; "facteur de croissance du bilan" = yếu tố tăng trưởng trong *lịch sử kết quả kinh doanh* (record), không phải bảng cân đối; "l'analyste principal" = *senior analyst* (chuyên viên phân tích cấp cao); "bénéfices sur les fonds de capital" = lợi nhuận trên vốn (return on capital funds), tức lợi nhuận ròng chia giá trị sổ sách hữu hình; "belles mains italiennes" = *fine Italian hand* (bàn tay khéo léo kín đáo); Global Crossing "aurait pu déclarer une perte nette bénéfice" = lẽ ra đã báo cáo *lợi nhuận ròng* khoảng 82 triệu USD; chú thích của Zweig "baisses de stocks un peu plus douces" = giá cổ phiếu giảm nhẹ hơn. Các tiêu đề trong bình luận của Zweig là chơi chữ tiếng Anh bị dịch từng chữ: "Comme si!" (*As If!*, "Cứ như thể!"), "Avide de reconnaissance" (*Greed for recognition*, chơi chữ "ghi nhận doanh thu"), "Infractions capitales" (*Capital crimes*, chơi chữ "vốn hoá"), "Un bloc de vieux copeaux" (*A chip off the old block*, chơi chữ "chip" bán dẫn), "Lire la suite" (*Read more*, "Đọc thêm"). "Naughty 1990" = *Naughty Nineties* (thập niên 1990 hư hỏng). Câu trong ngoặc ở cuối PDF trang 270–271 ("Cependant, une réserve est désormais constituée...") bị dịch lủng củng; nghĩa là: nếu khoản dự phòng cho lỗ tương lai được lập *sau khi đã trừ* khoản giảm thuế dự kiến thì nó sẽ không tạo ra phần cộng thêm như vậy vào lợi nhuận ròng các năm sau.
-> - **Graham và Zweig dẫn số trang bản tiếng Anh mà bản PDF không có:** "(page 411)" là phần pha loãng ở Chương 16 (trong bản PDF khoảng trang 346–347, Tableau 16-3 về bảy công ty có nhiều chứng khoán chuyển đổi và chứng quyền); "pages 299–301" là mục "Un processus d'évaluation en deux parties" của Chương 11 (PDF trang 258–259).
-> - **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** thuế suất thuế thu nhập doanh nghiệp Mỹ "gần 50%" thời Graham nay là 21% (từ 2018), nên giá trị của khoản lỗ được chuyển sang năm sau nhỏ hơn nhiều; quy định chuyển lỗ "tới 20 năm" mà Zweig nêu năm 2003 đã đổi (lỗ phát sinh từ 2018 được chuyển không thời hạn nhưng chỉ bù trừ tối đa 80% thu nhập chịu thuế). Mỹ đã có các quy định siết lợi nhuận "pro forma" sau 2002 (công ty phải đối chiếu chỉ tiêu không theo chuẩn mực với lợi nhuận theo chuẩn mực) và bắt buộc ghi quyền chọn cổ phiếu vào chi phí từ giữa thập niên 2000. Các công ty trong chương đều đã đổi khác: Sears phá sản năm 2018; SBC mua lại AT&T năm 2005 rồi lấy tên AT&T; Qwest bị CenturyLink mua năm 2011; Global Crossing ra khỏi phá sản rồi bị Level 3 mua năm 2011; ALCOA tách đôi năm 2016.
-> - Các câu trích là bản dịch tiếng Việt của người tổng hợp từ bản tiếng Pháp.
+Graham muốn người đọc hiểu rằng **con số "lợi nhuận trên mỗi cổ phiếu" của một năm không phải là một sự thật duy nhất mà là kết quả của nhiều lựa chọn kế toán, nên nhà đầu tư không được coi trọng lợi nhuận của một năm đơn lẻ, và nếu vẫn nhìn vào lợi nhuận ngắn hạn thì phải tìm những cái bẫy trong con số tính trên mỗi cổ phiếu**.
+
+Ví dụ trung tâm là báo cáo năm 1970 của Aluminum Company of America (ALCOA): tờ *Wall Street Journal* đưa "lợi nhuận cơ bản" (primary earnings) 5,20 USD/cổ phiếu, quý IV là 1,58 USD (nhân bốn thành 6,32 USD/năm, nên giá 62 USD trông như chưa tới 10 lần lợi nhuận).
+
+Nhưng phần chú thích cho thấy có bốn con số EPS cho năm 1970 (5,20; 4,32; 5,01; 4,19 USD), và nếu lấy lợi nhuận ròng quý IV sau chi phí đặc biệt (0,70 USD) thì cùng mức giá đó là 22 lần lợi nhuận.
+
+Khoản "chi phí đặc biệt" 18,8 triệu USD (88 cent/cổ phiếu) là ước tính các khoản lỗ *tương lai* (đóng cửa bộ phận, rút khỏi công ty tín dụng, một hợp đồng xây "tường rèm") được dồn hết vào năm 1970, năm mà thị trường đã coi là năm xấu, để dọn đường cho các năm sau.
+
+Graham đề nghị: dùng lợi nhuận bình quân 7–10 năm, *tính cả* các khoản đặc biệt (ALCOA bình quân 1961–1970 là 3,62 USD, 1964–1970 là 4,62 USD); đo tăng trưởng bằng cách so bình quân ba năm gần nhất với bình quân ba năm của mười năm trước.
+
+Ngay cả khi đó, ALCOA cho thấy định giá vẫn không đáng tin: tăng trưởng quá khứ tốt hơn Sears Roebuck, vậy mà đầu năm 1971 cổ phiếu chỉ bán 11½ lần lợi nhuận bình quân ba năm (Sears 27 lần), sau khi năm 1959 đã bán ở 116 USD, tức 45 lần lợi nhuận. Kết luận: phần lớn nhà đầu tư nên chỉ cần chắc rằng mình nhận được giá trị tốt so với giá phải trả.
+
+Zweig, viết năm 2003, bổ sung rằng **những thủ thuật Graham chê trách năm 1970 đã nở rộ tới mức "ăn gian" có hệ thống trong thập niên 1990, khi ban điều hành được trả bằng quyền chọn cổ phiếu nên có động cơ đẩy lợi nhuận báo cáo lên**: lợi nhuận "pro forma" (InfoSpace, BEA Systems, JDS Uniphase), ghi nhận doanh thu sớm (Qwest, bị thổi phồng 2,2 tỷ USD doanh thu 2000–2001), vốn hoá chi phí (Global Crossing), chi phí "không lặp lại" lặp lại bảy quý liền (Micron Technology), và lợi nhuận từ quỹ hưu trí dựa trên giả định lợi suất 9,5% (SBC Communications, 1,4 tỷ USD).
+
+Lời khuyên của Zweig: bỏ qua lợi nhuận pro forma, đọc báo cáo tài chính từ cuối lên, đọc kỹ thuyết minh, so sánh với đối thủ cạnh tranh, và học thêm về báo cáo tài chính.
 
 ## Sơ đồ
 
@@ -437,7 +439,9 @@
 
 #### 1. Hai lời khuyên và bốn con số EPS của ALCOA (phần mở đầu chương, PDF trang 267–269)
 
-Graham mở chương bằng hai lời khuyên mà ông thừa nhận là có phần mâu thuẫn nhau. Thứ nhất: đừng coi trọng lợi nhuận của một năm đơn lẻ. Thứ hai: nếu bạn vẫn để ý tới lợi nhuận ngắn hạn, hãy tìm những cái bẫy trong các con số tính trên mỗi cổ phiếu. Nếu ai làm đúng lời khuyên thứ nhất thì lời khuyên thứ hai là thừa. Nhưng Graham cho rằng đòi hỏi đa số cổ đông đặt mọi quyết định về cổ phiếu trên thành tích và triển vọng dài hạn là quá nhiều. Giới tài chính chú ý rất nhiều tới số liệu quý, và nhất là số liệu năm, nên sự chú ý đó chắc chắn ảnh hưởng tới suy nghĩ của nhà đầu tư. Nhà đầu tư cần được hướng dẫn trong lĩnh vực này, vì nó đầy những khả năng gây hiểu lầm.
+Graham mở chương bằng hai lời khuyên mà ông thừa nhận là có phần mâu thuẫn nhau. Thứ nhất: đừng coi trọng lợi nhuận của một năm đơn lẻ. Thứ hai: nếu bạn vẫn để ý tới lợi nhuận ngắn hạn, hãy tìm những cái bẫy trong các con số tính trên mỗi cổ phiếu.
+
+Nếu ai làm đúng lời khuyên thứ nhất thì lời khuyên thứ hai là thừa. Nhưng Graham cho rằng đòi hỏi đa số cổ đông đặt mọi quyết định về cổ phiếu trên thành tích và triển vọng dài hạn là quá nhiều. Giới tài chính chú ý rất nhiều tới số liệu quý, và nhất là số liệu năm, nên sự chú ý đó chắc chắn ảnh hưởng tới suy nghĩ của nhà đầu tư. Nhà đầu tư cần được hướng dẫn trong lĩnh vực này, vì nó đầy những khả năng gây hiểu lầm.
 
 Lúc Graham viết chương này, kết quả năm 1970 của Aluminum Company of America (ALCOA) vừa được đăng trên *Wall Street Journal*. Những con số đầu tiên được trình bày là:
 
@@ -477,9 +481,13 @@ Những con số thêm vào ấy có ý nghĩa gì? Lợi nhuận thật của c
 
 #### 2. Pha loãng (phần mở đầu chương, PDF trang 269)
 
-Một phần câu hỏi về "lợi nhuận thật" của ALCOA có thể trả lời khá dễ. Việc giảm từ 5,20 xuống 5,01 USD để tính tác động của "pha loãng" rõ ràng là cần thiết. ALCOA có một đợt phát hành lớn trái phiếu chuyển đổi được thành cổ phiếu phổ thông; để tính "khả năng sinh lợi" của cổ phiếu phổ thông dựa trên kết quả 1970, phải giả định rằng quyền chuyển đổi sẽ được thực hiện nếu việc đó có lợi cho người giữ trái phiếu. Với ALCOA, mức chênh tương đối nhỏ, không đáng bàn kỹ. Nhưng ở những trường hợp khác, việc tính tới quyền chuyển đổi và sự tồn tại của chứng quyền (warrants) có thể làm lợi nhuận bề ngoài giảm một nửa hoặc hơn. Graham hẹn sẽ đưa ví dụ về yếu tố pha loãng thật sự lớn ở phần sau (đó là Chương 16, nơi ông liệt kê bảy công ty, phần lớn là các tập đoàn đa ngành, có lượng lớn cổ phiếu có thể phát sinh từ chuyển đổi và chứng quyền). Ông cũng lưu ý rằng các dịch vụ thông tin tài chính không phải lúc nào cũng nhất quán trong cách tính pha loãng trong báo cáo và phân tích của họ.
+Một phần câu hỏi về "lợi nhuận thật" của ALCOA có thể trả lời khá dễ. Việc giảm từ 5,20 xuống 5,01 USD để tính tác động của "pha loãng" rõ ràng là cần thiết. ALCOA có một đợt phát hành lớn trái phiếu chuyển đổi được thành cổ phiếu phổ thông; để tính "khả năng sinh lợi" của cổ phiếu phổ thông dựa trên kết quả 1970, phải giả định rằng quyền chuyển đổi sẽ được thực hiện nếu việc đó có lợi cho người giữ trái phiếu. Với ALCOA, mức chênh tương đối nhỏ, không đáng bàn kỹ. Nhưng ở những trường hợp khác, việc tính tới quyền chuyển đổi và sự tồn tại của chứng quyền (warrants) có thể làm lợi nhuận bề ngoài giảm một nửa hoặc hơn.
 
-Chú thích của Zweig: "Pha loãng" (dilution) là một trong nhiều từ mô tả cổ phiếu bằng ngôn ngữ của chất lỏng: cổ phiếu giao dịch nhiều là "thanh khoản" (liquid); công ty IPO là "thả nổi" (float) cổ phiếu; còn thời xưa, công ty pha loãng cổ phiếu nặng (bằng nhiều nợ chuyển đổi hoặc nhiều đợt phát hành cổ phiếu) bị nói là đã "tưới nước" (watered) cổ phiếu. Thành ngữ này được cho là bắt nguồn từ tay thao túng thị trường Daniel Drew (1797–1879), vốn là lái buôn gia súc: ông lùa bò về Manhattan, cho ăn muối dọc đường; tới sông Harlem, bò khát uống rất nhiều nước, rồi ông đưa ra chợ bán theo cân, nhờ phần nước mà được giá cao hơn nhiều. Về sau Drew "tưới nước" cổ phiếu đường sắt Erie bằng cách phát hành ồ ạt cổ phiếu mới mà không báo trước.
+Graham hẹn sẽ đưa ví dụ về yếu tố pha loãng thật sự lớn ở phần sau (đó là Chương 16, nơi ông liệt kê bảy công ty, phần lớn là các tập đoàn đa ngành, có lượng lớn cổ phiếu có thể phát sinh từ chuyển đổi và chứng quyền). Ông cũng lưu ý rằng các dịch vụ thông tin tài chính không phải lúc nào cũng nhất quán trong cách tính pha loãng trong báo cáo và phân tích của họ.
+
+Chú thích của Zweig: "Pha loãng" (dilution) là một trong nhiều từ mô tả cổ phiếu bằng ngôn ngữ của chất lỏng: cổ phiếu giao dịch nhiều là "thanh khoản" (liquid); công ty IPO là "thả nổi" (float) cổ phiếu; còn thời xưa, công ty pha loãng cổ phiếu nặng (bằng nhiều nợ chuyển đổi hoặc nhiều đợt phát hành cổ phiếu) bị nói là đã "tưới nước" (watered) cổ phiếu.
+
+Thành ngữ này được cho là bắt nguồn từ tay thao túng thị trường Daniel Drew (1797–1879), vốn là lái buôn gia súc: ông lùa bò về Manhattan, cho ăn muối dọc đường; tới sông Harlem, bò khát uống rất nhiều nước, rồi ông đưa ra chợ bán theo cân, nhờ phần nước mà được giá cao hơn nhiều. Về sau Drew "tưới nước" cổ phiếu đường sắt Erie bằng cách phát hành ồ ạt cổ phiếu mới mà không báo trước.
 
 #### 3. Các khoản "chi phí đặc biệt" của ALCOA (phần mở đầu chương, PDF trang 269–272)
 
@@ -496,7 +504,9 @@ Với ALCOA, việc đầu tiên là xác định các khoản này từ đâu r
 3. Tương tự, khoản lỗ liên quan tới việc giải thể dần ALCOA Credit Co.
 4. Ngoài ra, chi phí ước tính 5,3 triệu USD gắn với việc hoàn tất một hợp đồng xây "tường rèm" (curtain wall, loại vách kính, nhôm bao ngoài toà nhà).
 
-Tất cả đều là chi phí và lỗ trong tương lai. Nói rằng chúng không thuộc "kết quả hoạt động thường xuyên" năm 1970 thì dễ, nhưng nếu vậy chúng thuộc về đâu? Chúng "bất thường và không lặp lại" tới mức không thuộc về đâu cả sao? Một công ty hoạt động rộng như ALCOA, doanh thu 1,5 tỷ USD mỗi năm, phải có rất nhiều bộ phận, phòng ban, công ty liên kết. Việc một hay vài đơn vị trong số đó tỏ ra không có lãi và phải đóng cửa là chuyện bình thường chứ không phải bất thường. Một hợp đồng xây tường cũng vậy. Graham đặt giả thuyết: nếu mỗi khi một phần nào đó của công ty bị lỗ, công ty lại nảy ra sáng kiến xếp khoản lỗ đó vào "khoản mục đặc biệt", và như vậy "lợi nhuận cơ bản" trên mỗi cổ phiếu chỉ còn chứa các hợp đồng và hoạt động có lãi, thì nó giống chiếc đồng hồ mặt trời của vua Edward VII, chỉ đánh dấu "những giờ có nắng".
+Tất cả đều là chi phí và lỗ trong tương lai. Nói rằng chúng không thuộc "kết quả hoạt động thường xuyên" năm 1970 thì dễ, nhưng nếu vậy chúng thuộc về đâu? Chúng "bất thường và không lặp lại" tới mức không thuộc về đâu cả sao?
+
+Một công ty hoạt động rộng như ALCOA, doanh thu 1,5 tỷ USD mỗi năm, phải có rất nhiều bộ phận, phòng ban, công ty liên kết. Việc một hay vài đơn vị trong số đó tỏ ra không có lãi và phải đóng cửa là chuyện bình thường chứ không phải bất thường. Một hợp đồng xây tường cũng vậy. Graham đặt giả thuyết: nếu mỗi khi một phần nào đó của công ty bị lỗ, công ty lại nảy ra sáng kiến xếp khoản lỗ đó vào "khoản mục đặc biệt", và như vậy "lợi nhuận cơ bản" trên mỗi cổ phiếu chỉ còn chứa các hợp đồng và hoạt động có lãi, thì nó giống chiếc đồng hồ mặt trời của vua Edward VII, chỉ đánh dấu "những giờ có nắng".
 
 Chú thích của Zweig: Nhà vua có lẽ lấy ý từ một bài tiểu luận từng nổi tiếng của nhà văn Anh William Hazlitt ("On a Sun-Dial", khoảng năm 1827), suy ngẫm về một chiếc đồng hồ mặt trời gần Venice khắc dòng chữ Latin *Horas non numero nisi serenas*, "tôi chỉ đếm những giờ thanh bình". Những công ty thường xuyên loại tin xấu khỏi kết quả tài chính với lý do các sự kiện tiêu cực là "bất thường" hay "không lặp lại" đang làm theo Hazlitt, người khuyên độc giả chỉ nhìn những nụ cười và bỏ qua những cái cau mày của số phận, chỉ ghép cuộc đời từ những khoảnh khắc sáng sủa và để phần còn lại trôi khỏi trí tưởng tượng. Tiếc thay, nhà đầu tư thì luôn phải đếm cả giờ nắng lẫn giờ âm u.
 
@@ -504,17 +514,27 @@ Graham chỉ ra hai điểm "khéo léo" trong cách làm của ALCOA.
 
 **Điểm thứ nhất:** bằng cách ghi trước các khoản lỗ tương lai, công ty tránh được việc phải gán khoản lỗ cho một năm cụ thể. Các khoản lỗ không thuộc năm 1970, vì năm 1970 chúng chưa thật sự xảy ra; và chúng cũng sẽ không hiện ra ở năm chúng thật sự xảy ra, vì đã được trích trước. Một cách làm gọn gàng, nhưng có phải hơi gây hiểu lầm không?
 
-Chú thích của ALCOA không nói gì về khoản tiết kiệm thuế tương lai do các khoản lỗ này tạo ra (đa số các báo cáo tương tự của công ty khác nói rõ chỉ "phần ảnh hưởng sau thuế" được trích). Nếu con số của ALCOA là khoản lỗ tương lai *trước* khoản giảm thuế tương ứng, thì lợi nhuận các năm sau không những được giải phóng khỏi gánh nặng của các khoản lỗ đó (khi chúng thực sự phát sinh), mà còn được cộng thêm một khoản giảm thuế khoảng 50%. Graham khó tin rằng sổ sách sẽ được xử lý như vậy. Nhưng thực tế có những công ty từng chịu lỗ lớn trong quá khứ đã báo cáo lợi nhuận về sau mà không phải trừ khoản thuế bình thường, nên lợi nhuận trông rất đẹp, nghịch lý thay là nhờ vào chính những thất bại cũ. Graham giải thích thêm trong ngoặc: các khoản giảm thuế do lỗ năm trước nay được trình bày riêng thành "khoản mục đặc biệt", nhưng chúng vẫn sẽ đi vào số liệu thống kê tương lai như một phần của con số cuối cùng "lợi nhuận ròng". Còn một khoản dự phòng được lập bây giờ cho các khoản lỗ tương lai, nếu đã trừ khoản giảm thuế dự kiến, thì không nên tạo ra phần cộng thêm kiểu đó vào lợi nhuận ròng các năm sau.
+Chú thích của ALCOA không nói gì về khoản tiết kiệm thuế tương lai do các khoản lỗ này tạo ra (đa số các báo cáo tương tự của công ty khác nói rõ chỉ "phần ảnh hưởng sau thuế" được trích). Nếu con số của ALCOA là khoản lỗ tương lai *trước* khoản giảm thuế tương ứng, thì lợi nhuận các năm sau không những được giải phóng khỏi gánh nặng của các khoản lỗ đó (khi chúng thực sự phát sinh), mà còn được cộng thêm một khoản giảm thuế khoảng 50%.
+
+Graham khó tin rằng sổ sách sẽ được xử lý như vậy. Nhưng thực tế có những công ty từng chịu lỗ lớn trong quá khứ đã báo cáo lợi nhuận về sau mà không phải trừ khoản thuế bình thường, nên lợi nhuận trông rất đẹp, nghịch lý thay là nhờ vào chính những thất bại cũ.
+
+Graham giải thích thêm trong ngoặc: các khoản giảm thuế do lỗ năm trước nay được trình bày riêng thành "khoản mục đặc biệt", nhưng chúng vẫn sẽ đi vào số liệu thống kê tương lai như một phần của con số cuối cùng "lợi nhuận ròng". Còn một khoản dự phòng được lập bây giờ cho các khoản lỗ tương lai, nếu đã trừ khoản giảm thuế dự kiến, thì không nên tạo ra phần cộng thêm kiểu đó vào lợi nhuận ròng các năm sau.
 
 **Điểm thứ hai:** ALCOA và nhiều công ty khác chọn đúng cuối năm 1970 để ghi các khoản đặc biệt này. Thị trường chứng khoán đã có một cuộc "tắm máu" trong nửa đầu năm 1970. Mọi người đều đã chờ đợi kết quả tương đối kém của đa số công ty. Phố Wall lúc đó trông đợi kết quả tốt hơn cho 1971, 1972 và các năm sau. Vậy thì còn gì thuận tiện bằng việc dồn càng nhiều càng tốt vào năm xấu, năm đã bị "gạch sổ" trong đầu mọi người và gần như đã lùi vào quá khứ, để mở đường cho những con số "được vỗ béo" các năm tới. Graham nói có thể đây là kế toán tốt, chính sách kinh doanh tốt và quan hệ tốt giữa ban điều hành với cổ đông, nhưng ông vẫn còn nghi ngờ.
 
-Sự kết hợp giữa việc kinh doanh đa ngành rộng khắp (Graham đùa: hay nên gọi là "đa ngành loạn xạ"?) với cơn hăng hái dọn dẹp cuối năm 1970 đã sinh ra những chú thích kỳ lạ trong báo cáo năm. Graham dẫn lời giải thích của một công ty niêm yết ở Sở Giao dịch Chứng khoán New York (ông giấu tên) về các "khoản mục đặc biệt" tổng cộng 2.357.000 USD, khoảng một phần ba lợi nhuận trước khi trừ các khoản này: gồm dự phòng cho việc đóng cửa Spalding ở Anh; dự phòng chi phí tái tổ chức một bộ phận; chi phí bán một công ty nhỏ sản xuất quần tã và yếm trẻ em; việc bán bớt một phần quyền lợi trong một cơ sở cho thuê xe hơi ở Tây Ban Nha; và việc giải thể một cơ sở kinh doanh giày trượt tuyết.
+Sự kết hợp giữa việc kinh doanh đa ngành rộng khắp (Graham đùa: hay nên gọi là "đa ngành loạn xạ"?) với cơn hăng hái dọn dẹp cuối năm 1970 đã sinh ra những chú thích kỳ lạ trong báo cáo năm.
+
+Graham dẫn lời giải thích của một công ty niêm yết ở Sở Giao dịch Chứng khoán New York (ông giấu tên) về các "khoản mục đặc biệt" tổng cộng 2.357.000 USD, khoảng một phần ba lợi nhuận trước khi trừ các khoản này: gồm dự phòng cho việc đóng cửa Spalding ở Anh; dự phòng chi phí tái tổ chức một bộ phận; chi phí bán một công ty nhỏ sản xuất quần tã và yếm trẻ em; việc bán bớt một phần quyền lợi trong một cơ sở cho thuê xe hơi ở Tây Ban Nha; và việc giải thể một cơ sở kinh doanh giày trượt tuyết.
 
 Chú thích của Zweig: Công ty Graham kín đáo nhắc tới có vẻ là American Machine & Foundry (AMF Corp.), một trong những tập đoàn đa ngành lộn xộn nhất cuối thập niên 1960, tiền thân của AMF Bowling Worldwide ngày nay (2003), công ty vận hành sân bowling và sản xuất thiết bị bowling.
 
-Graham so sánh với quá khứ. Nhiều năm trước, các công ty vững mạnh có thói quen lập "quỹ dự phòng rủi ro" (reserves for contingencies) từ lợi nhuận những năm tốt để hấp thụ một phần tác động xấu của những năm suy thoái sắp tới. Ý tưởng là làm lợi nhuận báo cáo đều hơn và cải thiện tính ổn định trong lịch sử kết quả của công ty. Động cơ có vẻ chính đáng, nhưng giới kế toán phản đối, và phản đối đúng, vì cách làm đó bóp méo lợi nhuận thật. Họ yêu cầu kết quả mỗi năm phải được trình bày đúng như nó là, tốt hay xấu, và để cổ đông và nhà phân tích tự tính bình quân hay san bằng. Đến năm 1970, Graham thấy hiện tượng ngược lại: ai cũng trút càng nhiều chi phí càng tốt lên năm 1970 đã bị quên lãng, để bước vào năm 1971 với một tấm bảng không chỉ sạch mà còn được chuẩn bị đặc biệt để hiện ra những con số trên mỗi cổ phiếu dễ chịu trong những năm tới.
+Graham so sánh với quá khứ. Nhiều năm trước, các công ty vững mạnh có thói quen lập "quỹ dự phòng rủi ro" (reserves for contingencies) từ lợi nhuận những năm tốt để hấp thụ một phần tác động xấu của những năm suy thoái sắp tới. Ý tưởng là làm lợi nhuận báo cáo đều hơn và cải thiện tính ổn định trong lịch sử kết quả của công ty. Động cơ có vẻ chính đáng, nhưng giới kế toán phản đối, và phản đối đúng, vì cách làm đó bóp méo lợi nhuận thật. Họ yêu cầu kết quả mỗi năm phải được trình bày đúng như nó là, tốt hay xấu, và để cổ đông và nhà phân tích tự tính bình quân hay san bằng.
 
-Quay lại câu hỏi ban đầu: lợi nhuận thật của ALCOA năm 1970 là bao nhiêu? Câu trả lời chính xác là: 5,01 USD mỗi cổ phiếu sau pha loãng, trừ đi phần trong 82 cent "chi phí đặc biệt" (con số trên cơ sở pha loãng) có thể gán đúng cho các sự kiện của năm 1970. Nhưng không ai biết phần đó là bao nhiêu, nên không thể nêu đúng lợi nhuận thật của năm. Ban điều hành và kiểm toán viên lẽ ra phải cho biết đánh giá tốt nhất của họ về điểm này, nhưng họ đã không làm. Hơn nữa, họ lẽ ra phải dự tính trừ phần còn lại của các khoản chi phí này vào lợi nhuận thường xuyên của một số năm thích hợp trong tương lai, chẳng hạn không quá năm năm. Rõ ràng họ cũng sẽ không làm vậy, vì đã xử lý toàn bộ số tiền thành chi phí đặc biệt của năm 1970.
+Đến năm 1970, Graham thấy hiện tượng ngược lại: ai cũng trút càng nhiều chi phí càng tốt lên năm 1970 đã bị quên lãng, để bước vào năm 1971 với một tấm bảng không chỉ sạch mà còn được chuẩn bị đặc biệt để hiện ra những con số trên mỗi cổ phiếu dễ chịu trong những năm tới.
+
+Quay lại câu hỏi ban đầu: lợi nhuận thật của ALCOA năm 1970 là bao nhiêu? Câu trả lời chính xác là: 5,01 USD mỗi cổ phiếu sau pha loãng, trừ đi phần trong 82 cent "chi phí đặc biệt" (con số trên cơ sở pha loãng) có thể gán đúng cho các sự kiện của năm 1970. Nhưng không ai biết phần đó là bao nhiêu, nên không thể nêu đúng lợi nhuận thật của năm.
+
+Ban điều hành và kiểm toán viên lẽ ra phải cho biết đánh giá tốt nhất của họ về điểm này, nhưng họ đã không làm. Hơn nữa, họ lẽ ra phải dự tính trừ phần còn lại của các khoản chi phí này vào lợi nhuận thường xuyên của một số năm thích hợp trong tương lai, chẳng hạn không quá năm năm. Rõ ràng họ cũng sẽ không làm vậy, vì đã xử lý toàn bộ số tiền thành chi phí đặc biệt của năm 1970.
 
 #### 4. Các yếu tố kế toán khác; Trane, Dow Chemical và Northwest Industries (phần mở đầu chương, PDF trang 272–274)
 
@@ -522,13 +542,27 @@ Nhà đầu tư càng coi trọng con số EPS được công bố thì càng ph
 
 Chú thích của Graham (số 1): Phương pháp ông khuyên dùng để xử lý pha loãng do chứng quyền được trình bày ở phần sau (Chương 16): ông thích coi giá thị trường của các chứng quyền như một phần cộng thêm vào giá thị trường hiện tại của toàn bộ cổ phiếu phổ thông.
 
-Yếu tố thứ tư từng có ảnh hưởng đáng kể tới lợi nhuận báo cáo là cách khấu hao, chủ yếu là lựa chọn giữa khấu hao "đường thẳng" và khấu hao "nhanh". Graham không đi vào chi tiết, chỉ nêu một ví dụ đúng lúc ông viết: báo cáo năm 1970 của Trane Co. Công ty này báo cáo EPS tăng gần 20% so với 1969, 3,29 USD so với 2,76 USD, nhưng một nửa mức tăng là nhờ quay lại tỷ lệ khấu hao đường thẳng cũ, ít đè nặng lên lợi nhuận hơn phương pháp khấu hao nhanh đã dùng năm trước. (Công ty vẫn dùng khấu hao nhanh trên tờ khai thuế, nhờ vậy hoãn được việc nộp thuế cho phần chênh lệch.) Kiểm tra: 3,29 ÷ 2,76 ≈ 1,192, tức tăng khoảng 19,2%; một nửa mức tăng 0,53 USD là khoảng 0,26 USD mỗi cổ phiếu.
+Yếu tố thứ tư từng có ảnh hưởng đáng kể tới lợi nhuận báo cáo là cách khấu hao, chủ yếu là lựa chọn giữa khấu hao "đường thẳng" và khấu hao "nhanh". Graham không đi vào chi tiết, chỉ nêu một ví dụ đúng lúc ông viết: báo cáo năm 1970 của Trane Co. Công ty này báo cáo EPS tăng gần 20% so với 1969, 3,29 USD so với 2,76 USD, nhưng một nửa mức tăng là nhờ quay lại tỷ lệ khấu hao đường thẳng cũ, ít đè nặng lên lợi nhuận hơn phương pháp khấu hao nhanh đã dùng năm trước. (Công ty vẫn dùng khấu hao nhanh trên tờ khai thuế, nhờ vậy hoãn được việc nộp thuế cho phần chênh lệch.)
+
+Kiểm tra: 3,29 ÷ 2,76 ≈ 1,192, tức tăng khoảng 19,2%; một nửa mức tăng 0,53 USD là khoảng 0,26 USD mỗi cổ phiếu.
 
 Yếu tố khác, đôi khi quan trọng, là lựa chọn giữa ghi chi phí nghiên cứu và phát triển vào năm phát sinh hay phân bổ dần trong nhiều năm. Cuối cùng là lựa chọn giữa hai phương pháp định giá hàng tồn kho FIFO (nhập trước, xuất trước) và LIFO (nhập sau, xuất trước).
 
-Chú thích của Zweig: Ngày nay (2003) nhà đầu tư phải để ý thêm nhiều "yếu tố kế toán" khác có thể bóp méo lợi nhuận báo cáo: (1) báo cáo tài chính "pro forma" hay "như thể", trình bày lợi nhuận như thể các nguyên tắc kế toán được chấp nhận chung (GAAP) không áp dụng; (2) tác động pha loãng của việc phát hành hàng triệu quyền chọn cổ phiếu để trả cho lãnh đạo, rồi mua lại hàng triệu cổ phiếu để các quyền chọn đó không làm giảm giá trị cổ phiếu phổ thông; (3) giả định phi thực tế về lợi suất của quỹ hưu trí công ty, có thể thổi phồng lợi nhuận năm tốt và kéo lợi nhuận xuống năm xấu; (4) "pháp nhân mục đích đặc biệt" (special purpose entities), tức các công ty liên kết hay hợp danh mua những tài sản hoặc nghĩa vụ rủi ro của công ty và nhờ đó "đẩy" rủi ro tài chính ra khỏi bảng cân đối; (5) việc coi chi phí tiếp thị hay các chi phí "vô hình" khác là tài sản thay vì chi phí hoạt động bình thường. Zweig bàn ngắn các thực hành này trong phần bình luận.
+Chú thích của Zweig: Ngày nay (2003) nhà đầu tư phải để ý thêm nhiều "yếu tố kế toán" khác có thể bóp méo lợi nhuận báo cáo:
 
-Graham nói một nhận xét hiển nhiên là nhà đầu tư không cần chú ý tới các biến số kế toán này nếu số tiền liên quan tương đối nhỏ. Nhưng Phố Wall là như vậy: ngay cả những khoản khá nhỏ cũng được coi trọng. Hai ngày trước khi báo cáo của ALCOA được đăng, *Wall Street Journal* có một bài khá dài về báo cáo tương ứng của Dow Chemical. Bài kết thúc bằng nhận xét rằng "nhiều nhà phân tích" bực mình vì Dow đã tính một khoản 21 cent vào lợi nhuận thường xuyên năm 1969 thay vì coi nó là "thu nhập bất thường". Vì sao lại ồn ào như vậy? Vì rõ ràng việc định giá Dow Chemical, liên quan tới tổng cộng nhiều triệu USD, có vẻ phụ thuộc đúng vào tỷ lệ tăng lợi nhuận 1969 so với 1968: 9% hay 4½%. Graham thấy điều này khá vô lý: rất khó có chuyện những chênh lệch nhỏ trong kết quả của một năm có thể ảnh hưởng tới lợi nhuận bình quân hay tăng trưởng trong tương lai, hay tới một sự định giá thận trọng và thực tế về công ty. (Kiểm tra: nếu khoản 21 cent tạo ra chênh lệch 4,5 điểm phần trăm thì lợi nhuận 1968 khoảng 0,21 ÷ 0,045 ≈ 4,67 USD/cổ phiếu, và lợi nhuận 1969 khoảng 5,09 USD nếu tính cả khoản đó; Graham không nêu các con số này.)
+- (1) báo cáo tài chính "pro forma" hay "như thể", trình bày lợi nhuận như thể các nguyên tắc kế toán được chấp nhận chung (GAAP) không áp dụng;
+- (2) tác động pha loãng của việc phát hành hàng triệu quyền chọn cổ phiếu để trả cho lãnh đạo, rồi mua lại hàng triệu cổ phiếu để các quyền chọn đó không làm giảm giá trị cổ phiếu phổ thông;
+- (3) giả định phi thực tế về lợi suất của quỹ hưu trí công ty, có thể thổi phồng lợi nhuận năm tốt và kéo lợi nhuận xuống năm xấu;
+- (4) "pháp nhân mục đích đặc biệt" (special purpose entities), tức các công ty liên kết hay hợp danh mua những tài sản hoặc nghĩa vụ rủi ro của công ty và nhờ đó "đẩy" rủi ro tài chính ra khỏi bảng cân đối;
+- (5) việc coi chi phí tiếp thị hay các chi phí "vô hình" khác là tài sản thay vì chi phí hoạt động bình thường.
+
+Zweig bàn ngắn các thực hành này trong phần bình luận.
+
+Graham nói một nhận xét hiển nhiên là nhà đầu tư không cần chú ý tới các biến số kế toán này nếu số tiền liên quan tương đối nhỏ. Nhưng Phố Wall là như vậy: ngay cả những khoản khá nhỏ cũng được coi trọng.
+
+Hai ngày trước khi báo cáo của ALCOA được đăng, *Wall Street Journal* có một bài khá dài về báo cáo tương ứng của Dow Chemical. Bài kết thúc bằng nhận xét rằng "nhiều nhà phân tích" bực mình vì Dow đã tính một khoản 21 cent vào lợi nhuận thường xuyên năm 1969 thay vì coi nó là "thu nhập bất thường". Vì sao lại ồn ào như vậy? Vì rõ ràng việc định giá Dow Chemical, liên quan tới tổng cộng nhiều triệu USD, có vẻ phụ thuộc đúng vào tỷ lệ tăng lợi nhuận 1969 so với 1968: 9% hay 4½%.
+
+Graham thấy điều này khá vô lý: rất khó có chuyện những chênh lệch nhỏ trong kết quả của một năm có thể ảnh hưởng tới lợi nhuận bình quân hay tăng trưởng trong tương lai, hay tới một sự định giá thận trọng và thực tế về công ty. (Kiểm tra: nếu khoản 21 cent tạo ra chênh lệch 4,5 điểm phần trăm thì lợi nhuận 1968 khoảng 0,21 ÷ 0,045 ≈ 4,67 USD/cổ phiếu, và lợi nhuận 1969 khoảng 5,09 USD nếu tính cả khoản đó; Graham không nêu các con số này.)
 
 Ngược lại, Graham nêu một thông báo khác, cũng vào tháng 1 năm 1971, về báo cáo năm 1970 của Northwest Industries Inc. Công ty dự định xoá sổ, dưới dạng chi phí đặc biệt, không dưới 264 triệu USD một lần. Trong đó 200 triệu USD là khoản lỗ khi bán công ty con đường sắt cho chính nhân viên của nó, phần còn lại là ghi giảm giá trị một khoản mua cổ phiếu gần đây. Tổng số này tương đương khoản lỗ khoảng 35 USD trên mỗi cổ phiếu phổ thông trước khi tính pha loãng, gấp đôi giá thị trường lúc đó. Đây mới thật sự là chuyện đáng kể.
 
@@ -538,7 +572,9 @@ Nếu giao dịch hoàn tất và luật thuế không đổi, khoản lỗ này
 
 Chú thích của Zweig: Graham nói tới điều khoản trong luật thuế liên bang cho phép công ty "chuyển sang năm sau" (carry forward) các khoản lỗ hoạt động ròng. Theo luật thuế hiện hành (2003), các khoản lỗ này có thể được chuyển tới 20 năm, làm giảm nghĩa vụ thuế của công ty trong cả thời gian đó (và do đó làm tăng lợi nhuận sau thuế). Vì vậy nhà đầu tư nên xem xét liệu những khoản lỗ nặng gần đây có thể thực ra làm lợi nhuận ròng của công ty tăng lên trong tương lai hay không.
 
-Vậy lợi nhuận thật của công ty khi đó là bao nhiêu: tính có hay không có khoản thuế thu nhập gần 50% mà công ty sẽ không phải nộp? Theo Graham, cách tính thích hợp là: trước hết xét khả năng sinh lợi trên cơ sở nộp đủ thuế thu nhập, và từ ước tính đó rút ra một ý niệm chung về giá trị cổ phiếu. Sau đó cộng thêm một con số "thưởng", là giá trị trên mỗi cổ phiếu của khoản miễn thuế lớn nhưng tạm thời mà công ty được hưởng. (Ước tính thô của người tổng hợp: 400 triệu USD lợi nhuận được miễn khoản thuế gần 50% tương đương khoảng 200 triệu USD tiền thuế không phải nộp, rải trong năm năm.) Ngoài ra cũng phải tính khả năng pha loãng quy mô lớn trong trường hợp này: các cổ phiếu ưu đãi chuyển đổi và chứng quyền, nếu được thực hiện, sẽ làm số cổ phiếu phổ thông đang lưu hành tăng hơn gấp đôi.
+Vậy lợi nhuận thật của công ty khi đó là bao nhiêu: tính có hay không có khoản thuế thu nhập gần 50% mà công ty sẽ không phải nộp? Theo Graham, cách tính thích hợp là: trước hết xét khả năng sinh lợi trên cơ sở nộp đủ thuế thu nhập, và từ ước tính đó rút ra một ý niệm chung về giá trị cổ phiếu. Sau đó cộng thêm một con số "thưởng", là giá trị trên mỗi cổ phiếu của khoản miễn thuế lớn nhưng tạm thời mà công ty được hưởng. (Ước tính thô của người tổng hợp: 400 triệu USD lợi nhuận được miễn khoản thuế gần 50% tương đương khoảng 200 triệu USD tiền thuế không phải nộp, rải trong năm năm.)
+
+Ngoài ra cũng phải tính khả năng pha loãng quy mô lớn trong trường hợp này: các cổ phiếu ưu đãi chuyển đổi và chứng quyền, nếu được thực hiện, sẽ làm số cổ phiếu phổ thông đang lưu hành tăng hơn gấp đôi.
 
 Graham thừa nhận tất cả những điều này có thể làm độc giả bối rối và chán, nhưng nó là một phần của câu chuyện. Kế toán doanh nghiệp thường rắc rối; phân tích chứng khoán có thể phức tạp; việc định giá cổ phiếu chỉ thật sự đáng tin cậy trong những trường hợp ngoại lệ. Với đa số nhà đầu tư, có lẽ tốt nhất là chắc chắn rằng mình nhận được giá trị tốt so với giá mình trả, và dừng ở đó.
 
@@ -572,7 +608,9 @@ Trong bản PDF, ô Tableau 12-1 (PDF trang 275) để trắng. Các con số d�
 
 Đối chiếu với lời văn (các con số dưới đây có trong sách): đầu năm 1971 ALCOA bán 11½ lần bình quân ba năm gần nhất (57¼ ÷ 4,95 ≈ 11,6, khớp); DJIA bán hơn 15 lần (840 ÷ 55,40 ≈ 15,2, khớp); Sears bán 27 lần (Sears đã tăng giá gấp ba từ đỉnh 25½ USD năm 1959, tức khoảng 76,5 USD; 76,5 ÷ 2,87 ≈ 26,7, khớp). Tăng trưởng của ALCOA "hơi tốt hơn Sears và cao hơn nhiều so với DJIA" cũng khớp với cột mức tăng.
 
-**Nhận xét của Graham về bảng.** Những con số ít ỏi này có thể là đề tài cho cả một cuộc thảo luận dài. Có lẽ chúng phản ánh mức tăng trưởng thật của lợi nhuận trong giai đoạn dài 1958–1970 cũng tốt như bất kỳ con số nào rút ra từ những phép tính toán học phức tạp. Nhưng con số này, vốn thường được coi là trung tâm trong việc định giá cổ phiếu phổ thông, liên quan tới trường hợp ALCOA tới đâu? Tốc độ tăng trưởng quá khứ của ALCOA rất tốt, thực ra hơi tốt hơn Sears Roebuck nổi tiếng và cao hơn nhiều so với nhóm DJIA. Nhưng giá thị trường đầu năm 1971 dường như không để ý gì tới thành tích đẹp đó. ALCOA chỉ bán ở mức 11½ lần lợi nhuận bình quân ba năm gần nhất, trong khi Sears bán 27 lần và bản thân DJIA hơn 15 lần.
+**Nhận xét của Graham về bảng.** Những con số ít ỏi này có thể là đề tài cho cả một cuộc thảo luận dài. Có lẽ chúng phản ánh mức tăng trưởng thật của lợi nhuận trong giai đoạn dài 1958–1970 cũng tốt như bất kỳ con số nào rút ra từ những phép tính toán học phức tạp. Nhưng con số này, vốn thường được coi là trung tâm trong việc định giá cổ phiếu phổ thông, liên quan tới trường hợp ALCOA tới đâu?
+
+Tốc độ tăng trưởng quá khứ của ALCOA rất tốt, thực ra hơi tốt hơn Sears Roebuck nổi tiếng và cao hơn nhiều so với nhóm DJIA. Nhưng giá thị trường đầu năm 1971 dường như không để ý gì tới thành tích đẹp đó. ALCOA chỉ bán ở mức 11½ lần lợi nhuận bình quân ba năm gần nhất, trong khi Sears bán 27 lần và bản thân DJIA hơn 15 lần.
 
 Vì sao vậy? Rõ ràng Phố Wall khá bi quan về diễn biến tương lai của lợi nhuận ALCOA, trái với thành tích quá khứ. Điều đáng ngạc nhiên là giá cao nhất của ALCOA có từ năm 1959. Năm đó cổ phiếu bán ở 116 USD, tức 45 lần lợi nhuận (nghĩa là lợi nhuận khoảng 116 ÷ 45 ≈ 2,58 USD/cổ phiếu). So với Sears Roebuck, giá cao nhất năm 1959 sau điều chỉnh là 25½ USD, tức 20 lần lợi nhuận lúc đó (khoảng 1,28 USD/cổ phiếu). Dù sau đó lợi nhuận ALCOA tăng trưởng rất tốt, rõ ràng trong trường hợp này giá thị trường năm 1959 đã đánh giá quá cao các khả năng tương lai. Cổ phiếu ALCOA kết thúc năm 1970 ở đúng một nửa đỉnh năm 1959, trong khi Sears tăng giá gấp ba và DJIA tăng gần 30%.
 
@@ -580,13 +618,19 @@ Graham nhấn mạnh rằng lợi nhuận trên vốn (return on capital funds) 
 
 Chú thích của Zweig: Graham có vẻ dùng "lợi nhuận trên vốn" theo nghĩa truyền thống là lợi suất trên giá trị sổ sách, về cơ bản là lợi nhuận ròng chia cho tài sản ròng hữu hình của công ty.
 
-**Áp dụng định giá hai phần cho ALCOA.** Graham áp dụng cho ALCOA đề xuất "quy trình định giá hai phần" ở Chương 11. Nhắc lại nội dung đề xuất đó: bước một, nhà phân tích tính "giá trị theo thành tích quá khứ" chỉ dựa trên lịch sử, tức giá trị cổ phiếu (tuyệt đối, hoặc tính bằng phần trăm của DJIA hay chỉ số S&P) nếu giả định thành tích tương đối của công ty, kể cả tốc độ tăng trưởng tương đối của bảy năm qua, giữ nguyên trong bảy năm tới; bước này làm gần như máy móc bằng một công thức gán trọng số cho khả năng sinh lời, độ ổn định, tăng trưởng quá khứ và tình hình tài chính hiện tại, do chuyên viên phân tích cấp cao xây dựng và chuyên viên cấp dưới áp dụng. Bước hai, chuyên viên cấp cao xét xem giá trị đó phải sửa bao nhiêu vì những điều kiện mới dự kiến trong tương lai, và nêu cả giá trị ban đầu, giá trị đã sửa và lý do.
+**Áp dụng định giá hai phần cho ALCOA.** Graham áp dụng cho ALCOA đề xuất "quy trình định giá hai phần" ở Chương 11. Nhắc lại nội dung đề xuất đó: bước một, nhà phân tích tính "giá trị theo thành tích quá khứ" chỉ dựa trên lịch sử, tức giá trị cổ phiếu (tuyệt đối, hoặc tính bằng phần trăm của DJIA hay chỉ số S&P) nếu giả định thành tích tương đối của công ty, kể cả tốc độ tăng trưởng tương đối của bảy năm qua, giữ nguyên trong bảy năm tới.
+
+Bước này làm gần như máy móc bằng một công thức gán trọng số cho khả năng sinh lời, độ ổn định, tăng trưởng quá khứ và tình hình tài chính hiện tại, do chuyên viên phân tích cấp cao xây dựng và chuyên viên cấp dưới áp dụng.
+
+Bước hai, chuyên viên cấp cao xét xem giá trị đó phải sửa bao nhiêu vì những điều kiện mới dự kiến trong tương lai, và nêu cả giá trị ban đầu, giá trị đã sửa và lý do.
 
 Chú thích của Zweig: Xem Chương 11 (trong bản tiếng Anh là trang 299–301), mục "quy trình định giá hai phần".
 
 Theo cách đó, "giá trị theo thành tích quá khứ" của ALCOA có thể bằng 10% của DJIA, tức 84 USD mỗi cổ phiếu khi DJIA đóng cửa năm 1970 ở 840 điểm. Trên cơ sở đó, cổ phiếu ALCOA ở giá 57¼ USD trông khá hấp dẫn (giá chỉ khoảng 68% giá trị theo thành tích quá khứ).
 
-Nhưng chuyên viên phân tích cấp cao nên trừ bớt "giá trị theo thành tích quá khứ" bao nhiêu để tính tới những diễn biến bất lợi mà ông ta thấy trước? Graham thẳng thắn: "chúng tôi hoàn toàn không biết". Giả sử nhà phân tích có lý do để tin rằng lợi nhuận năm 1971 sẽ thấp tới 2,50 USD mỗi cổ phiếu, giảm mạnh so với 1970, trong khi DJIA được dự kiến tăng. Rất có thể thị trường sẽ rất coi trọng kết quả kém đó, nhưng liệu thị trường có thật sự xếp Aluminum Company, một công ty từng hùng mạnh, vào loại công ty tương đối không sinh lời, để định giá nó thấp hơn cả tài sản hữu hình đứng sau cổ phiếu không? (Năm 1971, giá đi từ mức cao 70 USD tháng 5 xuống mức thấp 36 USD tháng 12, so với giá trị sổ sách 55 USD.) Tức là trong cùng một năm, thị trường đã định giá ALCOA từ khoảng 1,27 lần xuống khoảng 0,65 lần giá trị sổ sách.
+Nhưng chuyên viên phân tích cấp cao nên trừ bớt "giá trị theo thành tích quá khứ" bao nhiêu để tính tới những diễn biến bất lợi mà ông ta thấy trước? Graham thẳng thắn: "chúng tôi hoàn toàn không biết".
+
+Giả sử nhà phân tích có lý do để tin rằng lợi nhuận năm 1971 sẽ thấp tới 2,50 USD mỗi cổ phiếu, giảm mạnh so với 1970, trong khi DJIA được dự kiến tăng. Rất có thể thị trường sẽ rất coi trọng kết quả kém đó, nhưng liệu thị trường có thật sự xếp Aluminum Company, một công ty từng hùng mạnh, vào loại công ty tương đối không sinh lời, để định giá nó thấp hơn cả tài sản hữu hình đứng sau cổ phiếu không? (Năm 1971, giá đi từ mức cao 70 USD tháng 5 xuống mức thấp 36 USD tháng 12, so với giá trị sổ sách 55 USD.) Tức là trong cùng một năm, thị trường đã định giá ALCOA từ khoảng 1,27 lần xuống khoảng 0,65 lần giá trị sổ sách.
 
 Chú thích của Zweig: Lịch sử gần đây và rất nhiều nghiên cứu tài chính cho thấy thị trường rất khắt khe với các công ty tăng trưởng nhanh bỗng báo lợi nhuận giảm. Các công ty vừa phải và ổn định hơn, như ALCOA thời Graham hay Anheuser-Busch và Colgate-Palmolive thời nay (2003), thường chỉ bị giảm giá cổ phiếu nhẹ hơn khi báo lợi nhuận đáng thất vọng. Kỳ vọng lớn dẫn tới thất vọng lớn khi không được đáp ứng; không đáp ứng được kỳ vọng vừa phải thì phản ứng nhẹ hơn nhiều. Vì vậy một trong những rủi ro lớn nhất khi giữ cổ phiếu tăng trưởng không phải là tăng trưởng dừng lại, mà chỉ đơn giản là nó chậm lại. Và về dài hạn, đó không chỉ là rủi ro mà gần như là điều chắc chắn.
 
@@ -630,15 +674,23 @@ Nhưng báo cáo tài chính của Qwest có một điều tiết lộ nhỏ và
 
 Như một mẩu băng nhỏ trên đỉnh một tảng băng chìm, việc ghi nhận doanh thu mạnh tay thường là dấu hiệu của những nguy hiểm sâu hơn, và với Qwest cũng vậy. Đầu năm 2003, sau khi rà lại các báo cáo tài chính trước đó, công ty thông báo đã ghi nhận sớm lợi nhuận từ bán thiết bị, ghi sai chi phí dịch vụ do bên ngoài cung cấp, ghi các chi phí như thể là tài sản cố định thay vì chi phí, và coi việc trao đổi tài sản như thể là bán hẳn. Tính chung, doanh thu năm 2000 và 2001 của Qwest bị thổi phồng 2,2 tỷ USD, trong đó 80 triệu USD đến từ "thay đổi nguyên tắc kế toán" trước đó, nay đã bị huỷ bỏ.
 
-Chú thích của Zweig (số 3): Năm 2002, Qwest là một trong 330 công ty niêm yết phải điều chỉnh lại báo cáo tài chính các năm trước, con số kỷ lục theo Huron Consulting Group. Mọi thông tin về Qwest lấy từ hồ sơ nộp Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC) (báo cáo năm, mẫu 8-K và 10-K) trên cơ sở dữ liệu EDGAR. Không cần "nhìn lại sau khi sự đã rồi" mới thấy "thay đổi nguyên tắc kế toán", vì Qwest đã công bố đầy đủ lúc đó. Giá cổ phiếu: cuối năm 2000 là 41 USD, tổng giá trị thị trường 67,9 tỷ USD; đầu năm 2003 khoảng 4 USD, cả công ty định giá dưới 7 tỷ USD, mất 90%. Giá cổ phiếu sụp không phải cái giá duy nhất của lợi nhuận giả: một nghiên cứu gần đây cho thấy 27 công ty bị SEC cáo buộc gian lận kế toán đã nộp thừa 320 triệu USD thuế thu nhập liên bang (trên lợi nhuận không có thật). Phần lớn số tiền đó cuối cùng được Sở Thuế (IRS) hoàn lại, nhưng ít cổ đông còn ở lại để hưởng (nghiên cứu của Merle Erickson, Michelle Hanlon và Edward Maydew, "How Much Will Firms Pay for Earnings That Do Not Exist?").
+Chú thích của Zweig (số 3): Năm 2002, Qwest là một trong 330 công ty niêm yết phải điều chỉnh lại báo cáo tài chính các năm trước, con số kỷ lục theo Huron Consulting Group. Mọi thông tin về Qwest lấy từ hồ sơ nộp Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC) (báo cáo năm, mẫu 8-K và 10-K) trên cơ sở dữ liệu EDGAR. Không cần "nhìn lại sau khi sự đã rồi" mới thấy "thay đổi nguyên tắc kế toán", vì Qwest đã công bố đầy đủ lúc đó.
+
+Giá cổ phiếu: cuối năm 2000 là 41 USD, tổng giá trị thị trường 67,9 tỷ USD; đầu năm 2003 khoảng 4 USD, cả công ty định giá dưới 7 tỷ USD, mất 90%.
+
+Giá cổ phiếu sụp không phải cái giá duy nhất của lợi nhuận giả: một nghiên cứu gần đây cho thấy 27 công ty bị SEC cáo buộc gian lận kế toán đã nộp thừa 320 triệu USD thuế thu nhập liên bang (trên lợi nhuận không có thật). Phần lớn số tiền đó cuối cùng được Sở Thuế (IRS) hoàn lại, nhưng ít cổ đông còn ở lại để hưởng (nghiên cứu của Merle Erickson, Michelle Hanlon và Edward Maydew, "How Much Will Firms Pay for Earnings That Do Not Exist?").
 
 #### 4. Vốn hoá chi phí: Global Crossing (Infractions capitales, PDF trang 278–279)
 
-Cuối thập niên 1990, Global Crossing Ltd. có tham vọng không giới hạn. Công ty có trụ sở ở Bermuda này xây cái nó gọi là "mạng cáp quang tích hợp toàn cầu đầu tiên" trên hơn 100.000 dặm cáp, phần lớn đặt dưới đáy đại dương. Sau khi nối dây cả thế giới, Global Crossing sẽ bán cho các hãng viễn thông khác quyền truyền lưu lượng của họ trên mạng cáp của mình. Riêng năm 1998, Global Crossing chi hơn 600 triệu USD xây mạng quang. Năm đó, gần một phần ba ngân sách xây dựng được trừ vào doanh thu dưới dạng chi phí gọi là "giá vốn của dung lượng đã bán". Nếu không có khoản chi phí 178 triệu USD này, Global Crossing, vốn báo cáo lỗ ròng 96 triệu USD, đã có thể báo cáo lợi nhuận ròng khoảng 82 triệu USD. (Kiểm tra: 178 ÷ 600 ≈ 30%, "gần một phần ba"; −96 + 178 = +82.)
+Cuối thập niên 1990, Global Crossing Ltd. có tham vọng không giới hạn. Công ty có trụ sở ở Bermuda này xây cái nó gọi là "mạng cáp quang tích hợp toàn cầu đầu tiên" trên hơn 100.000 dặm cáp, phần lớn đặt dưới đáy đại dương. Sau khi nối dây cả thế giới, Global Crossing sẽ bán cho các hãng viễn thông khác quyền truyền lưu lượng của họ trên mạng cáp của mình.
+
+Riêng năm 1998, Global Crossing chi hơn 600 triệu USD xây mạng quang. Năm đó, gần một phần ba ngân sách xây dựng được trừ vào doanh thu dưới dạng chi phí gọi là "giá vốn của dung lượng đã bán". Nếu không có khoản chi phí 178 triệu USD này, Global Crossing, vốn báo cáo lỗ ròng 96 triệu USD, đã có thể báo cáo lợi nhuận ròng khoảng 82 triệu USD. (Kiểm tra: 178 ÷ 600 ≈ 30%, "gần một phần ba"; −96 + 178 = +82.)
 
 Năm sau, một chú thích nhạt nhẽo trong báo cáo năm 1999 cho biết Global Crossing "bắt đầu áp dụng kế toán hợp đồng dịch vụ". Từ đó, phần lớn chi phí xây dựng sẽ không còn được coi là chi phí hoạt động mà là chi đầu tư (vốn hoá), làm tăng tổng tài sản của công ty thay vì làm giảm lợi nhuận ròng.
 
-Chú thích của Zweig (số 4): Trước đó Global Crossing coi phần lớn chi phí xây dựng là chi phí trừ vào doanh thu từ việc bán hoặc cho thuê quyền sử dụng mạng. Khách hàng thường trả trước, dù một số có thể trả góp trong tối đa bốn năm; nhưng Global Crossing không ghi nhận phần lớn doanh thu ngay mà phân bổ theo thời hạn thuê. Sau thay đổi, vì mạng có thời gian sử dụng ước tính 25 năm, công ty bắt đầu coi chúng là tài sản cố định dài hạn được khấu hao. Cách xử lý này phù hợp với GAAP, nhưng khó hiểu vì sao công ty không dùng nó trước ngày 1/10/1999 hay điều gì đã khiến nó thay đổi đúng lúc đó. Tháng 3/2001 tổng giá trị cổ phiếu của Global Crossing là 12,6 tỷ USD; công ty nộp đơn phá sản ngày 28/1/2002, làm cổ phiếu phổ thông mất hết giá trị.
+Chú thích của Zweig (số 4): Trước đó Global Crossing coi phần lớn chi phí xây dựng là chi phí trừ vào doanh thu từ việc bán hoặc cho thuê quyền sử dụng mạng. Khách hàng thường trả trước, dù một số có thể trả góp trong tối đa bốn năm; nhưng Global Crossing không ghi nhận phần lớn doanh thu ngay mà phân bổ theo thời hạn thuê.
+
+Sau thay đổi, vì mạng có thời gian sử dụng ước tính 25 năm, công ty bắt đầu coi chúng là tài sản cố định dài hạn được khấu hao. Cách xử lý này phù hợp với GAAP, nhưng khó hiểu vì sao công ty không dùng nó trước ngày 1/10/1999 hay điều gì đã khiến nó thay đổi đúng lúc đó. Tháng 3/2001 tổng giá trị cổ phiếu của Global Crossing là 12,6 tỷ USD; công ty nộp đơn phá sản ngày 28/1/2002, làm cổ phiếu phổ thông mất hết giá trị.
 
 Chỉ trong một cái vẫy đũa, tài sản "bất động sản, nhà xưởng và thiết bị" của Global Crossing tăng 575 triệu USD, trong khi giá vốn hàng bán chỉ tăng 350 triệu USD, dù công ty tiêu tiền như một thuỷ thủ say rượu.
 
@@ -656,7 +708,7 @@ Chú thích của Zweig (số 5): Zweig cảm ơn Howard Schilit và Mark Hamel 
 
 #### 6. Lợi nhuận từ quỹ hưu trí: SBC (La dimension pension, PDF trang 280–281)
 
-Năm 2001, SBC Communications, Inc., có cổ phần trong Cingular Wireless, PacTel và Southern New England Telephone, đạt lợi nhuận ròng 7,2 tỷ USD, một thành tích đáng chú ý trong một năm tồi tệ của ngành viễn thông vốn đã đầu tư quá mức. Nhưng lợi nhuận đó không chỉ đến từ hoạt động kinh doanh của SBC: tổng cộng 1,4 tỷ USD, được Zweig gọi là 13% lợi nhuận ròng của công ty, đến từ quỹ hưu trí của SBC. (Người tổng hợp lưu ý: 1,4 ÷ 7,2 ≈ 19%, không phải 13%; xem khối Lưu ý.)
+Năm 2001, SBC Communications, Inc., có cổ phần trong Cingular Wireless, PacTel và Southern New England Telephone, đạt lợi nhuận ròng 7,2 tỷ USD, một thành tích đáng chú ý trong một năm tồi tệ của ngành viễn thông vốn đã đầu tư quá mức. Nhưng lợi nhuận đó không chỉ đến từ hoạt động kinh doanh của SBC: tổng cộng 1,4 tỷ USD, được Zweig gọi là 13% lợi nhuận ròng của công ty, đến từ quỹ hưu trí của SBC. (Người tổng hợp lưu ý: 1,4 ÷ 7,2 ≈ 19%, không phải 13%; xem mục Lưu ý cuối chương.)
 
 Vì quỹ hưu trí của SBC có nhiều tiền hơn mức công ty ước tính cần để trả quyền lợi tương lai cho nhân viên, công ty được phép ghi phần chênh lệch thành thu nhập hiện tại. Một lý do đơn giản của khoản dư này: năm 2001, SBC nâng tỷ suất lợi nhuận mà nó kỳ vọng kiếm được trên các khoản đầu tư của quỹ hưu trí từ 8,5% lên 9,5%, làm giảm số tiền phải để dành từ hôm nay.
 
@@ -683,9 +735,13 @@ Zweig đưa ra một số lời khuyên giúp tránh mua phải cổ phiếu ho�
 
 **Đọc thuyết minh.** Không bao giờ mua một cổ phiếu mà chưa đọc thuyết minh báo cáo tài chính trong báo cáo năm. Thường có một thuyết minh then chốt mang tên "tóm tắt các chính sách kế toán quan trọng", mô tả cách công ty ghi nhận doanh thu, ghi nhận hàng tồn kho, xử lý bán hàng trả góp hay hợp đồng, ghi chi phí tiếp thị và hạch toán các mặt chủ yếu khác của hoạt động.
 
-Chú thích của Zweig (số 7): Đừng nản vì văn phong cực kỳ nhàm chán của thuyết minh kế toán; chúng được viết ra chính là để làm người bình thường nản đọc, nên bạn phải kiên trì. Ví dụ, thuyết minh trong báo cáo năm 1996 của Informix Corp. viết rằng công ty thường ghi nhận doanh thu bản quyền phần mềm khi giao sản phẩm cho khách, "tuy nhiên", với một số nhà sản xuất phần cứng và bên được cấp phép mà khoản tiền phải trả trong 12 tháng, công ty sẽ ghi nhận doanh thu ngay khi khách cam kết trả một mức phí bản quyền tối thiểu không hoàn lại, nếu họ đáp ứng một số tiêu chí do công ty đặt ra. Nói thẳng ra: Informix tự ghi doanh thu cho sản phẩm dù chưa được bán lại cho "người dùng cuối" (khách hàng thật của phần mềm). Giữa lúc SEC cáo buộc Informix gian lận kế toán, công ty sau đó điều chỉnh lại doanh thu, xoá 244 triệu USD "doanh số" như vậy. Vụ này nhắc rằng phải đọc chữ nhỏ bằng con mắt hoài nghi. Zweig cảm ơn Martin Fridson đã gợi ý ví dụ này.
+Chú thích của Zweig (số 7): Đừng nản vì văn phong cực kỳ nhàm chán của thuyết minh kế toán; chúng được viết ra chính là để làm người bình thường nản đọc, nên bạn phải kiên trì. Ví dụ, thuyết minh trong báo cáo năm 1996 của Informix Corp. viết rằng công ty thường ghi nhận doanh thu bản quyền phần mềm khi giao sản phẩm cho khách, "tuy nhiên", với một số nhà sản xuất phần cứng và bên được cấp phép mà khoản tiền phải trả trong 12 tháng, công ty sẽ ghi nhận doanh thu ngay khi khách cam kết trả một mức phí bản quyền tối thiểu không hoàn lại, nếu họ đáp ứng một số tiêu chí do công ty đặt ra.
 
-Trong các thuyết minh khác, hãy chú ý thông tin về nợ, quyền chọn cổ phiếu, khoản cho khách hàng vay, dự phòng lỗ và các "yếu tố rủi ro" khác có thể làm giảm mạnh lợi nhuận. Những thứ nên làm bạn dựng "râu ăng-ten" lên gồm các thuật ngữ như "vốn hoá" (capitalized), "hoãn lại" (deferred), "tái cấu trúc" (restructuring), và những từ đơn giản báo hiệu công ty đã thay đổi cách làm kế toán như "bắt đầu" (began), "thay đổi" (change) và "tuy nhiên" (however). Không từ nào trong số đó có nghĩa là bạn không nên mua cổ phiếu, nhưng tất cả đều có nghĩa là bạn cần tìm hiểu thêm. Hãy so sánh thuyết minh với thuyết minh trong báo cáo tài chính của ít nhất một đối thủ cạnh tranh gần, để thấy kế toán của công ty bạn mạnh tay tới mức nào.
+Nói thẳng ra: Informix tự ghi doanh thu cho sản phẩm dù chưa được bán lại cho "người dùng cuối" (khách hàng thật của phần mềm). Giữa lúc SEC cáo buộc Informix gian lận kế toán, công ty sau đó điều chỉnh lại doanh thu, xoá 244 triệu USD "doanh số" như vậy. Vụ này nhắc rằng phải đọc chữ nhỏ bằng con mắt hoài nghi. Zweig cảm ơn Martin Fridson đã gợi ý ví dụ này.
+
+Trong các thuyết minh khác, hãy chú ý thông tin về nợ, quyền chọn cổ phiếu, khoản cho khách hàng vay, dự phòng lỗ và các "yếu tố rủi ro" khác có thể làm giảm mạnh lợi nhuận. Những thứ nên làm bạn dựng "râu ăng-ten" lên gồm các thuật ngữ như "vốn hoá" (capitalized), "hoãn lại" (deferred), "tái cấu trúc" (restructuring), và những từ đơn giản báo hiệu công ty đã thay đổi cách làm kế toán như "bắt đầu" (began), "thay đổi" (change) và "tuy nhiên" (however). Không từ nào trong số đó có nghĩa là bạn không nên mua cổ phiếu, nhưng tất cả đều có nghĩa là bạn cần tìm hiểu thêm.
+
+Hãy so sánh thuyết minh với thuyết minh trong báo cáo tài chính của ít nhất một đối thủ cạnh tranh gần, để thấy kế toán của công ty bạn mạnh tay tới mức nào.
 
 **Đọc thêm.** Nếu bạn là nhà đầu tư năng động sẵn sàng dành nhiều thời gian và công sức cho danh mục, bạn nên học thêm về báo cáo tài chính. Đó là cách duy nhất để giảm khả năng bị một báo cáo kết quả kinh doanh xảo trá đánh lừa. Zweig giới thiệu ba cuốn sách vững vàng, đầy ví dụ kịp thời và cụ thể: *Financial Statement Analysis: A Practitioner's Guide* của Martin Fridson và Fernando Alvarez; *The Financial Numbers Game: Detecting Creative Accounting Practices* của Charles Mulford và Eugene Comiskey; và *Financial Shenanigans* của Howard Schilit.
 
@@ -735,7 +791,9 @@ Lợi nhuận trên mỗi cổ phiếu của một năm, nhất là của một 
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương này bàn về **chất lượng lợi nhuận (earnings quality)**: mức độ lợi nhuận báo cáo phản ánh dòng tiền và khả năng sinh lợi bền vững. Các kỹ thuật Graham và Zweig mô tả thuộc **quản trị lợi nhuận (earnings management)**: dồn chi phí vào một năm ("big bath"), lập và hoàn nhập dự phòng ("cookie jar reserves", ngược với "reserves for contingencies" thời trước), ghi nhận doanh thu sớm, vốn hoá chi phí, giả định quỹ hưu trí lạc quan. Cách chữa của Graham tương đương với việc dùng **lợi nhuận chuẩn hoá (normalized earnings)** và **hệ số P/E trên lợi nhuận bình quân nhiều năm**, ý tưởng sau này được phổ biến dưới dạng hệ số P/E điều chỉnh theo chu kỳ (CAPE, của Robert Shiller, dùng bình quân 10 năm lợi nhuận thực) theo hiểu biết của người tổng hợp. Phép so bình quân ba năm với bình quân ba năm mười năm trước là cách đo **tốc độ tăng trưởng kép (CAGR)** ít nhạy với điểm đầu và điểm cuối. Lưu ý của Graham về lợi nhuận trên vốn tương ứng với khái niệm **ROE** hay **lợi suất trên vốn hữu hình**.
+Chương này bàn về **chất lượng lợi nhuận (earnings quality)**: mức độ lợi nhuận báo cáo phản ánh dòng tiền và khả năng sinh lợi bền vững. Các kỹ thuật Graham và Zweig mô tả thuộc **quản trị lợi nhuận (earnings management)**: dồn chi phí vào một năm ("big bath"), lập và hoàn nhập dự phòng ("cookie jar reserves", ngược với "reserves for contingencies" thời trước), ghi nhận doanh thu sớm, vốn hoá chi phí, giả định quỹ hưu trí lạc quan.
+
+Cách chữa của Graham tương đương với việc dùng **lợi nhuận chuẩn hoá (normalized earnings)** và **hệ số P/E trên lợi nhuận bình quân nhiều năm**, ý tưởng sau này được phổ biến dưới dạng hệ số P/E điều chỉnh theo chu kỳ (CAPE, của Robert Shiller, dùng bình quân 10 năm lợi nhuận thực) theo hiểu biết của người tổng hợp. Phép so bình quân ba năm với bình quân ba năm mười năm trước là cách đo **tốc độ tăng trưởng kép (CAGR)** ít nhạy với điểm đầu và điểm cuối. Lưu ý của Graham về lợi nhuận trên vốn tương ứng với khái niệm **ROE** hay **lợi suất trên vốn hữu hình**.
 
 ## Thuật ngữ
 
@@ -832,12 +890,198 @@ Zweig cho rằng năm 2003, lợi suất kỳ vọng trên 6,5% là khó tin. Th
 
 ### Trường hợp ALCOA cho thấy tăng trưởng quá khứ tốt không cứu được một cổ phiếu mua quá đắt
 
-Phần sâu nhất của chương nằm ở cuối: ALCOA tăng trưởng lợi nhuận hơn cả Sears, nhưng ai mua ở đỉnh 1959 (45 lần lợi nhuận) thì cuối 1970 vẫn mất một nửa. Graham chỉ ra hai lý do: giá ban đầu đã trả trước cho tương lai, và khả năng sinh lời trên vốn chỉ ở mức trung bình nên thị trường không duy trì hệ số P/E cao. Đây là tiền đề cho các phép thử P/E và lợi nhuận trên vốn ở Chương 13–15, và cũng là bài học lặp lại trong bong bóng công nghệ 1999–2000 mà Zweig bình luận ở các chương khác. Đồng thời, việc Graham thẳng thắn nói "chúng tôi không biết" phải trừ bao nhiêu cho triển vọng xấu là một quan điểm đáng giá: nó giải thích vì sao ông dựa vào biên an toàn thay vì độ chính xác của định giá.
+Phần sâu nhất của chương nằm ở cuối: ALCOA tăng trưởng lợi nhuận hơn cả Sears, nhưng ai mua ở đỉnh 1959 (45 lần lợi nhuận) thì cuối 1970 vẫn mất một nửa. Graham chỉ ra hai lý do: giá ban đầu đã trả trước cho tương lai, và khả năng sinh lời trên vốn chỉ ở mức trung bình nên thị trường không duy trì hệ số P/E cao. Đây là tiền đề cho các phép thử P/E và lợi nhuận trên vốn ở Chương 13–15, và cũng là bài học lặp lại trong bong bóng công nghệ 1999–2000 mà Zweig bình luận ở các chương khác.
+
+Đồng thời, việc Graham thẳng thắn nói "chúng tôi không biết" phải trừ bao nhiêu cho triển vọng xấu là một quan điểm đáng giá: nó giải thích vì sao ông dựa vào biên an toàn thay vì độ chính xác của định giá.
 
 ### Quan điểm trái chiều: lấy bình quân dài hạn có thể làm chậm phản ứng trước thay đổi thật sự của doanh nghiệp
 
-Lợi nhuận bình quân 7–10 năm hấp thụ tốt các khoản đặc biệt và chu kỳ, nhưng nếu một ngành thay đổi cấu trúc (công nghệ mới làm sản phẩm lỗi thời, hay một công ty mới chuyển từ lỗ sang lãi), bình quân dài hạn có thể đánh giá sai theo cả hai chiều. Chính Graham thừa nhận điều này khi đề nghị nêu cả bình quân lẫn con số gần nhất, và khi cho phép bước hai của định giá điều chỉnh theo tương lai. Một phản biện khác: phần lớn nhà đầu tư cá nhân không có thời gian đọc thuyết minh từng công ty như Zweig khuyên; với họ, theo hiểu biết của người tổng hợp, quỹ chỉ số chi phí thấp (phổ biến mạnh sau 2003) là cách tránh rủi ro gian lận kế toán của từng công ty bằng đa dạng hoá, đúng tinh thần Graham khuyên nhà đầu tư phòng thủ.
+Lợi nhuận bình quân 7–10 năm hấp thụ tốt các khoản đặc biệt và chu kỳ, nhưng nếu một ngành thay đổi cấu trúc (công nghệ mới làm sản phẩm lỗi thời, hay một công ty mới chuyển từ lỗ sang lãi), bình quân dài hạn có thể đánh giá sai theo cả hai chiều. Chính Graham thừa nhận điều này khi đề nghị nêu cả bình quân lẫn con số gần nhất, và khi cho phép bước hai của định giá điều chỉnh theo tương lai.
+
+Một phản biện khác: phần lớn nhà đầu tư cá nhân không có thời gian đọc thuyết minh từng công ty như Zweig khuyên; với họ, theo hiểu biết của người tổng hợp, quỹ chỉ số chi phí thấp (phổ biến mạnh sau 2003) là cách tránh rủi ro gian lận kế toán của từng công ty bằng đa dạng hoá, đúng tinh thần Graham khuyên nhà đầu tư phòng thủ.
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Một quy trình đơn giản rút ra từ chương: (1) không mua vì một quý lợi nhuận tăng mạnh; tính lợi nhuận bình quân ít nhất 5–10 năm, tính cả các khoản bất thường; (2) đọc phần thuyết minh, nhất là chính sách kế toán, các khoản dự phòng, thu nhập khác, lãi từ thanh lý tài sản, chi phí được vốn hoá, và mọi chỗ ghi "thay đổi" hoặc "điều chỉnh hồi tố"; (3) so với một đối thủ cùng ngành; (4) chú ý số cổ phiếu có thể tăng thêm từ trái phiếu chuyển đổi, cổ phiếu thưởng cho ban điều hành (ESOP) hay phát hành thêm; (5) chỉ mua khi giá thấp rõ so với giá trị ước tính. Ở mức định tính, những thủ thuật như lợi nhuận đột biến từ bán tài sản hoặc thoái vốn, trích lập hay hoàn nhập dự phòng để làm đẹp kết quả năm, hay chênh lệch giữa báo cáo trước và sau kiểm toán là những tín hiệu nhà đầu tư Việt Nam có thể gặp, và cách tự vệ vẫn là cách Graham và Zweig nêu: đọc kỹ, so sánh và không trả giá cao cho con số của một năm.
+Một quy trình đơn giản rút ra từ chương: (1) không mua vì một quý lợi nhuận tăng mạnh; tính lợi nhuận bình quân ít nhất 5–10 năm, tính cả các khoản bất thường; (2) đọc phần thuyết minh, nhất là chính sách kế toán, các khoản dự phòng, thu nhập khác, lãi từ thanh lý tài sản, chi phí được vốn hoá, và mọi chỗ ghi "thay đổi" hoặc "điều chỉnh hồi tố"; (3) so với một đối thủ cùng ngành; (4) chú ý số cổ phiếu có thể tăng thêm từ trái phiếu chuyển đổi, cổ phiếu thưởng cho ban điều hành (ESOP) hay phát hành thêm; (5) chỉ mua khi giá thấp rõ so với giá trị ước tính.
+
+Ở mức định tính, những thủ thuật như lợi nhuận đột biến từ bán tài sản hoặc thoái vốn, trích lập hay hoàn nhập dự phòng để làm đẹp kết quả năm, hay chênh lệch giữa báo cáo trước và sau kiểm toán là những tín hiệu nhà đầu tư Việt Nam có thể gặp, và cách tự vệ vẫn là cách Graham và Zweig nêu: đọc kỹ, so sánh và không trả giá cao cho con số của một năm.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: sáu nhánh lớn đi theo các mục của phần Nội dung chi tiết (Phần A, Mục 1–6 là chương của Graham về bốn con số EPS của ALCOA và pha loãng, chi phí đặc biệt của ALCOA, các yếu tố kế toán khác với Trane, Dow Chemical, Northwest Industries, lợi nhuận bình quân và tăng trưởng quá khứ; Phần B, Mục 1–7 là bình luận của Zweig về lợi nhuận pro forma, Qwest, Global Crossing, Micron, SBC và cách tự vệ), mỗi nhánh ghi quy tắc, ví dụ công ty và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: EPS của một năm là kết quả của nhiều lựa chọn kế toán, nên đừng coi trọng lợi nhuận một năm đơn lẻ`"]
+  n1["`Phần A, Mục 1–2 — Bốn con số EPS của ALCOA năm 1970 và pha loãng (Graham)`"]
+  n0 --- n1
+  n2["`Hai lời khuyên: đừng coi trọng lợi nhuận một năm, nếu vẫn xem thì tìm bẫy trong số tính trên mỗi cổ phiếu`"]
+  n1 --- n2
+  n3["`Wall Street Journal đăng lợi nhuận cơ bản 5,20 USD (1969: 5,58 USD), quý IV 1,58 USD`"]
+  n1 --- n3
+  n4["`Nhân bốn quý IV ra 6,32 USD, giá 62 USD trông chưa tới 10 lần lợi nhuận, rẻ hơn International Nickel 16 lần`"]
+  n1 --- n4
+  n5["`Chú thích lộ bốn con số EPS 1970: 5,20 cơ bản, 4,32 ròng, 5,01 và 4,19 sau pha loãng hoàn toàn`"]
+  n1 --- n5
+  n6["`Lấy lợi nhuận ròng quý IV 0,70 USD thì nhịp năm 2,80 USD, cùng giá 62 USD thành 22 lần lợi nhuận`"]
+  n1 --- n6
+  n7["`Pha loãng: giả định trái phiếu chuyển đổi được chuyển nếu có lợi, ALCOA giảm từ 5,20 còn 5,01 USD`"]
+  n1 --- n7
+  n8["`Ở công ty khác, trái phiếu chuyển đổi và chứng quyền có thể cắt lợi nhuận bề ngoài một nửa hoặc hơn`"]
+  n7 --- n8
+  n9["`Phần A, Mục 3 — Chi phí đặc biệt 18,8 triệu USD của ALCOA`"]
+  n0 --- n9
+  n10["`18,8 triệu USD, tức 88 cent/cổ phiếu (82 cent trên cơ sở pha loãng), ghi hết vào quý IV/1970`"]
+  n9 --- n10
+  n11["`Bốn nguồn đều là lỗ tương lai: đóng bộ phận sản phẩm chế tạo, ALCOA Castings, giải thể ALCOA Credit, hợp đồng tường rèm 5,3 triệu USD`"]
+  n9 --- n11
+  n12["`Công ty doanh thu 1,5 tỷ USD/năm có vài đơn vị lỗ phải đóng cửa là chuyện bình thường, không phải bất thường`"]
+  n9 --- n12
+  n13["`Gọi mọi khoản lỗ là đặc biệt thì lợi nhuận cơ bản giống đồng hồ mặt trời của vua Edward VII, chỉ đánh dấu giờ có nắng`"]
+  n12 --- n13
+  n14["`Ghi trước lỗ tương lai: khoản lỗ không thuộc năm 1970, cũng không hiện ở năm thực sự xảy ra`"]
+  n9 --- n14
+  n15["`Nếu trích trước thuế, các năm sau còn được cộng khoản giảm thuế khoảng 50%`"]
+  n14 --- n15
+  n16["`Chọn cuối 1970, năm thị trường đã gạch sổ, để dồn chi phí và dọn đường cho số đẹp 1971, 1972`"]
+  n9 --- n16
+  n17["`Một công ty NYSE (Zweig cho là AMF) ghi 2.357.000 USD khoản mục đặc biệt, khoảng 1/3 lợi nhuận`"]
+  n16 --- n17
+  n18["`Ngày xưa ngược lại: quỹ dự phòng rủi ro trích từ năm tốt để san bằng lợi nhuận, giới kế toán phản đối đúng`"]
+  n9 --- n18
+  n19["`Lợi nhuận thật 1970 là 5,01 USD trừ phần của 82 cent thuộc sự kiện 1970, phần đó ban điều hành không công bố`"]
+  n9 --- n19
+  n20["`Phần còn lại lẽ ra phải phân bổ vào lợi nhuận một số năm sau, không quá năm năm`"]
+  n19 --- n20
+  n21["`Phần A, Mục 4 — Các yếu tố kế toán khác: Trane, Dow Chemical, Northwest Industries`"]
+  n0 --- n21
+  n22["`Sáu yếu tố làm EPS khó so sánh: chi phí đặc biệt, thuế giảm nhờ lỗ cũ, pha loãng, khấu hao, chi phí nghiên cứu, FIFO hay LIFO`"]
+  n21 --- n22
+  n23["`Trane 1970: EPS 3,29 so với 2,76 USD (tăng gần 20%), một nửa mức tăng nhờ quay lại khấu hao đường thẳng`"]
+  n21 --- n23
+  n24["`Dow Chemical: khoản 21 cent quyết định mức tăng 1969 là 9% hay 4½%, Graham cho là vô lý`"]
+  n21 --- n24
+  n25["`Northwest Industries: chi phí đặc biệt 264 triệu USD, khoảng 35 USD/cổ phiếu, gấp đôi giá thị trường`"]
+  n21 --- n25
+  n26["`Khoản lỗ cho phép kiếm khoảng 400 triệu USD trong 5 năm mà không nộp thuế thu nhập (thuế suất gần 50%)`"]
+  n25 --- n26
+  n27["`Cách tính: định giá như nộp đủ thuế, cộng thêm giá trị khoản miễn thuế tạm thời, tính cả pha loãng`"]
+  n25 --- n27
+  n28["`Định giá cổ phiếu chỉ thật sự đáng tin trong trường hợp ngoại lệ, nên chỉ cần chắc nhận giá trị tốt so với giá trả`"]
+  n21 --- n28
+  n29["`Phần A, Mục 5–6 — Lợi nhuận bình quân và tăng trưởng quá khứ`"]
+  n0 --- n29
+  n30["`Dùng lợi nhuận bình quân 7–10 năm để san bằng chu kỳ, tính cả các khoản đặc biệt vào bình quân`"]
+  n29 --- n30
+  n31["`ALCOA: bình quân 1961–1970 là 3,62 USD, bình quân 1964–1970 là 4,62 USD/cổ phiếu`"]
+  n30 --- n31
+  n32["`Đo tăng trưởng: so bình quân 3 năm gần nhất với bình quân 3 năm tương ứng của mười năm trước`"]
+  n29 --- n32
+  n33["`Chi phí đặc biệt xử lý thỏa hiệp: với ALCOA trừ 3/5 khoản 82 cent của năm 1970`"]
+  n32 --- n33
+  n34["`Tăng trưởng 1958–1970 của ALCOA hơi hơn Sears Roebuck, cao hơn hẳn DJIA`"]
+  n29 --- n34
+  n35["`Đầu 1971 ALCOA chỉ bán 11½ lần lợi nhuận bình quân 3 năm, Sears 27 lần, DJIA hơn 15 lần`"]
+  n34 --- n35
+  n36["`Đỉnh 1959: 116 USD, bằng 45 lần lợi nhuận, cuối 1970 còn đúng một nửa trong khi Sears tăng gấp ba`"]
+  n29 --- n36
+  n37["`Lợi nhuận trên vốn của ALCOA chỉ trung bình, mà P/E cao chỉ được duy trì khi khả năng sinh lời trên trung bình`"]
+  n29 --- n37
+  n38["`Định giá hai phần: giá trị theo thành tích quá khứ ≈ 10% DJIA, tức 84 USD, so với giá 57¼ USD`"]
+  n29 --- n38
+  n39["`Trừ bao nhiêu cho triển vọng xấu thì Graham nhận không biết. Năm 1971 giá từ 70 xuống 36 USD, giá trị sổ sách 55 USD`"]
+  n38 --- n39
+  n40["`Phần B, Mục 1–4 — Zweig: pro forma, Qwest, Global Crossing`"]
+  n0 --- n40
+  n41["`Lãnh đạo được trả bằng quyền chọn cổ phiếu nên có động cơ đẩy lợi nhuận báo cáo lên vài năm liền`"]
+  n40 --- n41
+  n42["`Pro forma: InfoSpace bỏ 159,9 triệu USD cổ tức ưu đãi, JDS Uniphase bỏ 2,5 tỷ USD chi phí sáp nhập`"]
+  n40 --- n42
+  n43["`Lợi nhuận pro forma cho thấy công ty đã có thể làm tốt thế nào nếu không làm tệ, nhà đầu tư nên bỏ qua`"]
+  n42 --- n43
+  n44["`Qwest ghi doanh thu danh bạ ngay khi phát hành, đẩy lợi nhuận ròng 1999 thêm 240 triệu USD, khoảng 1/5`"]
+  n40 --- n44
+  n45["`Qwest thổi phồng 2,2 tỷ USD doanh thu 2000–2001, cổ phiếu từ 41 USD xuống khoảng 4 USD, mất 90%`"]
+  n44 --- n45
+  n46["`Global Crossing 1998: tính 178 triệu USD vào chi phí, báo lỗ 96 triệu USD thay vì lãi khoảng 82 triệu USD`"]
+  n40 --- n46
+  n47["`Từ 1999 vốn hóa chi phí xây mạng: tài sản cố định tăng 575 triệu USD, giá vốn chỉ tăng 350 triệu USD`"]
+  n46 --- n47
+  n48["`Global Crossing phá sản ngày 28/1/2002, cổ phiếu phổ thông mất trắng`"]
+  n46 --- n48
+  n49["`Phần B, Mục 5–7 — Zweig: Micron, SBC và nhà đầu tư hãy cẩn trọng`"]
+  n0 --- n49
+  n50["`Micron ghi giảm hàng tồn kho 261 triệu USD quý kết thúc tháng 5/2001, rồi tiếp tục cả sáu quý sau`"]
+  n49 --- n50
+  n51["`Chi phí không lặp lại mà cứ lặp lại như thỏ pin Energizer thì phải cảnh giác`"]
+  n50 --- n51
+  n52["`SBC 2001: lợi nhuận ròng 7,2 tỷ USD, trong đó 1,4 tỷ USD đến từ quỹ hưu trí`"]
+  n49 --- n52
+  n53["`SBC nâng lợi suất kỳ vọng quỹ hưu trí từ 8,5% lên 9,5%, Berkshire hạ từ 8,3% xuống 6,5%`"]
+  n52 --- n53
+  n54["`Năm 2001 quỹ hưu trí Berkshire lãi 9,8%, quỹ hưu trí SBC lỗ 6,9%`"]
+  n52 --- n54
+  n55["`Kiểm tra: lợi ích hưu trí ròng trên 5% lợi nhuận ròng, hay lợi suất giả định trên 6,5%, là dấu hiệu đáng ngờ`"]
+  n52 --- n55
+  n56["`Đọc ngược báo cáo tài chính từ cuối lên, vì điều công ty không muốn bạn thấy bị chôn ở cuối`"]
+  n49 --- n56
+  n57["`Đọc thuyết minh, cảnh giác các từ vốn hóa, hoãn lại, tái cấu trúc, bắt đầu, thay đổi, tuy nhiên`"]
+  n49 --- n57
+  n58["`So thuyết minh với ít nhất một đối thủ gần nhất, học thêm qua sách của Fridson, Mulford, Schilit`"]
+  n49 --- n58
+  n59["`Thông điệp xuyên suốt`"]
+  n0 --- n59
+  n60["`Không định giá bằng EPS một năm hay một quý nhân lên, dùng bình quân 7–10 năm và con số pha loãng hoàn toàn`"]
+  n59 --- n60
+  n61["`Lựa chọn kế toán chuyển lợi nhuận giữa các năm: dồn chi phí vào năm xấu, vốn hóa, ghi doanh thu sớm, giả định quỹ hưu trí`"]
+  n59 --- n61
+  n62["`Tăng trưởng quá khứ tốt không cứu được cổ phiếu mua quá đắt như ALCOA ở 45 lần lợi nhuận năm 1959`"]
+  n59 --- n62
+  n63["`Vì định giá không chính xác, cần mua với giá thấp rõ so với giá trị, tức có biên an toàn`"]
+  n59 --- n63
+  class n0 root
+  class n1,n9,n21,n29,n40,n49,n59 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n58,n60,n61,n62,n63 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 12 "Éléments à considérer au sujet du bénéfice par action" (PDF trang 267–276) và "Commentaire sur le chapitre 12" (PDF trang 276–282). Chú thích của Graham: PDF trang 487; chú thích của Zweig: PDF trang 562–567.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), lúc đó là cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 11 ([C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md)) giới thiệu phân tích chứng khoán (security analysis) cho nhà đầu tư không chuyên: định giá cổ phiếu dựa trên "khả năng sinh lợi" tương lai, đề xuất công thức Giá trị = Lợi nhuận hiện tại (bình thường) × (8,5 + 2 lần tốc độ tăng trưởng kỳ vọng), và đề xuất "quy trình định giá hai phần" (trước hết tính "giá trị theo thành tích quá khứ", sau đó điều chỉnh theo triển vọng).
+
+Chương 11 đã báo trước rằng sẽ minh hoạ độ khó của việc định giá bằng trường hợp ALCOA ở chương sau. Chương 12 làm đúng việc đó: lấy con số đầu vào quan trọng nhất của mọi phép định giá, lợi nhuận trên mỗi cổ phiếu (earnings per share, EPS), và cho thấy chỉ một năm của một công ty đã có bốn con số EPS khác nhau, bị ảnh hưởng bởi chi phí đặc biệt, pha loãng, khoản giảm thuế do lỗ cũ, cách khấu hao, cách ghi nhận chi phí nghiên cứu và cách tính giá hàng tồn kho. Cách chữa Graham đưa ra là dùng lợi nhuận bình quân 7–10 năm và đo tăng trưởng bằng bình quân ba năm.
+
+Chương 13 ([C13-so-sanh-bon-cong-ty-niem-yet.md](C13-so-sanh-bon-cong-ty-niem-yet.md)) áp dụng chính các công cụ này (bình quân, tăng trưởng, hệ số P/E trên lợi nhuận bình quân) để so sánh bốn công ty niêm yết; Chương 14 và 15 biến chúng thành tiêu chí chọn cổ phiếu; Chương 16 ([C16-chung-khoan-chuyen-doi-va-chung-quyen.md](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) trình bày kỹ phần pha loãng do trái phiếu chuyển đổi và chứng quyền mà chương này chỉ nhắc tới.
+
+## Lưu ý
+
+- **Bảng và hình trống trong bản PDF.** Ô "TABLEAU 12-1" (PDF trang 275, bảng tăng trưởng của ALCOA, Sears Roebuck và DJIA) và "FIGURE 12-1 — Un bloc de vieux copeaux" (PDF trang 279–280, các khoản ghi giảm hàng tồn kho của Micron theo quý) đều chỉ có tiêu đề, phần nội dung để trắng (đã xem trên ảnh trang). Bản tổng hợp chép các con số mà lời văn có nêu; với Tableau 12-1, người tổng hợp dựng lại bảng theo trí nhớ về bản tiếng Anh, có ghi rõ là chưa kiểm chứng, và đối chiếu với các con số trong lời văn (khớp). Hình 12-1 không dựng lại được; chỉ chép những gì lời văn nói.
+- **Chương này chỉ có một bảng đánh số (Tableau 12-1) và một hình (Figure 12-1).** Không có "Tableau 12-2". Hai bảng EPS của ALCOA ở đầu chương (cả năm và quý IV) không được đánh số trong sách; bản tổng hợp chép đủ và đặt tên theo nội dung. Chú thích "a" của Tableau 12-1 ("ba phần năm khoản chi phí đặc biệt 82 cent năm 1970 được trừ ở đây") bị đặt lẫn vào tệp chú thích của Zweig (PDF trang 565).
+- **Kiểm tra phép tính:** 5,20 − 4,32 = 0,88 USD và 1,58 − 0,70 = 0,88 USD, tức toàn bộ khoản 88 cent chi phí đặc biệt được ghi vào quý IV; 18,8 triệu USD ÷ 0,88 USD ≈ 21,4 triệu cổ phiếu. 5,01 − 4,19 = 0,82 USD: đây là cùng khoản chi phí đặc biệt tính trên số cổ phiếu sau pha loãng. Vì vậy Graham nói "88 cent" (PDF trang 269) rồi sau đó "82 cent" (PDF trang 272) **không phải lỗi**: 88 cent là trên cơ sở cơ bản, 82 cent là trên cơ sở pha loãng hoàn toàn.
+
+  1,58 × 4 = 6,32; 0,70 × 4 = 2,80; 62 ÷ 6,32 ≈ 9,8 lần; 62 ÷ 2,80 ≈ 22,1 lần: đều khớp. Trane: 3,29 ÷ 2,76 − 1 ≈ 19,2% ("gần 20%"): khớp. 10% của DJIA 840 = 84 USD: khớp. 3/5 × 0,82 ≈ 0,49 USD.
+- **Ba mức giá ALCOA khác nhau:** 62 USD (lúc báo cáo năm 1970 được đăng, đầu năm 1971), 57¼ USD (giá dùng trong phép định giá hai phần, có lẽ là giá đóng cửa cuối 1970) và "đúng một nửa đỉnh 116 USD năm 1959" (tức 58 USD) khi đóng cửa năm 1970. Ba con số không mâu thuẫn nhau nhiều (57¼ ≈ 58), nhưng người đọc nên biết chúng ở các thời điểm khác nhau.
+- **SBC: 1,4 tỷ USD không phải 13% của 7,2 tỷ USD** (1,4 ÷ 7,2 ≈ 19%). Có thể 13% là so với lợi nhuận *trước thuế* (1,4 ÷ 0,13 ≈ 10,8 tỷ USD) hoặc bản tiếng Anh dùng một mẫu số khác; người tổng hợp không kiểm chứng được. Chú thích số 6 của Zweig trong bản tiếng Pháp viết đảo phép chia ("chia giá trị tài sản ròng đầu năm cho lợi suất thực tế"); nghĩa đúng là lấy lợi suất thực tế (bằng tiền) của tài sản quỹ chia cho giá trị tài sản ròng của quỹ đầu năm.
+- **Dịch máy lệch nghĩa ảnh hưởng tới hiểu:** "Part des gains" = *share earnings*, lợi nhuận trên mỗi cổ phiếu; "gains"/"revenus" trong chương thường là *earnings* (lợi nhuận), không phải doanh thu; "les personnages de base" = *the basic figures* (các con số chính), không phải "nhân vật"; "Le stock se vend à 62" = cổ phiếu bán giá 62 USD; "inclus dans le salaire moyen" = *included in the average earnings* (đưa vào lợi nhuận bình quân), không có "tiền lương" nào;
+
+  "facteur de croissance du bilan" = yếu tố tăng trưởng trong *lịch sử kết quả kinh doanh* (record), không phải bảng cân đối; "l'analyste principal" = *senior analyst* (chuyên viên phân tích cấp cao); "bénéfices sur les fonds de capital" = lợi nhuận trên vốn (return on capital funds), tức lợi nhuận ròng chia giá trị sổ sách hữu hình; "belles mains italiennes" = *fine Italian hand* (bàn tay khéo léo kín đáo); Global Crossing "aurait pu déclarer une perte nette bénéfice" = lẽ ra đã báo cáo *lợi nhuận ròng* khoảng 82 triệu USD; chú thích của Zweig "baisses de stocks un peu plus douces" = giá cổ phiếu giảm nhẹ hơn.
+
+  Các tiêu đề trong bình luận của Zweig là chơi chữ tiếng Anh bị dịch từng chữ: "Comme si!" (*As If!*, "Cứ như thể!"), "Avide de reconnaissance" (*Greed for recognition*, chơi chữ "ghi nhận doanh thu"), "Infractions capitales" (*Capital crimes*, chơi chữ "vốn hoá"), "Un bloc de vieux copeaux" (*A chip off the old block*, chơi chữ "chip" bán dẫn), "Lire la suite" (*Read more*, "Đọc thêm"). "Naughty 1990" = *Naughty Nineties* (thập niên 1990 hư hỏng).
+
+  Câu trong ngoặc ở cuối PDF trang 270–271 ("Cependant, une réserve est désormais constituée...") bị dịch lủng củng; nghĩa là: nếu khoản dự phòng cho lỗ tương lai được lập *sau khi đã trừ* khoản giảm thuế dự kiến thì nó sẽ không tạo ra phần cộng thêm như vậy vào lợi nhuận ròng các năm sau.
+- **Graham và Zweig dẫn số trang bản tiếng Anh mà bản PDF không có:** "(page 411)" là phần pha loãng ở Chương 16 (trong bản PDF khoảng trang 346–347, Tableau 16-3 về bảy công ty có nhiều chứng khoán chuyển đổi và chứng quyền); "pages 299–301" là mục "Un processus d'évaluation en deux parties" của Chương 11 (PDF trang 258–259).
+- **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** thuế suất thuế thu nhập doanh nghiệp Mỹ "gần 50%" thời Graham nay là 21% (từ 2018), nên giá trị của khoản lỗ được chuyển sang năm sau nhỏ hơn nhiều; quy định chuyển lỗ "tới 20 năm" mà Zweig nêu năm 2003 đã đổi (lỗ phát sinh từ 2018 được chuyển không thời hạn nhưng chỉ bù trừ tối đa 80% thu nhập chịu thuế). Mỹ đã có các quy định siết lợi nhuận "pro forma" sau 2002 (công ty phải đối chiếu chỉ tiêu không theo chuẩn mực với lợi nhuận theo chuẩn mực) và bắt buộc ghi quyền chọn cổ phiếu vào chi phí từ giữa thập niên 2000.
+
+  Các công ty trong chương đều đã đổi khác: Sears phá sản năm 2018; SBC mua lại AT&T năm 2005 rồi lấy tên AT&T; Qwest bị CenturyLink mua năm 2011; Global Crossing ra khỏi phá sản rồi bị Level 3 mua năm 2011; ALCOA tách đôi năm 2016.
+- Các câu trích là bản dịch tiếng Việt của người tổng hợp từ bản tiếng Pháp.

@@ -1,20 +1,22 @@
 # Lời tựa của Warren Buffett và ghi chú về Benjamin Graham của Jason Zweig (Préface à la quatrième édition; Une note sur Benjamin Graham)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent: Un livre de conseils pratiques*; trang tên sách, lời đề tặng và đề từ (PDF trang 2), phần cuối mục lục và ghi chú về ấn bản (PDF trang 5), "Préface à la quatrième édition, par Warren E. Buffett" kèm bài tưởng niệm "Benjamin Graham 1894–1976" (PDF trang 5–7) và "Une note sur Benjamin Graham par Jason Zweig" (PDF trang 7–10). Chú thích của Zweig cho phần ghi chú nằm ở PDF trang 549.
-**Tác giả:** Lời tựa: Warren E. Buffett (sinh 1930), học trò, nhân viên và bạn của Graham, người điều hành Berkshire Hathaway; bài tưởng niệm in lần đầu trên *Financial Analysts Journal* số tháng 11/12 năm 1976. Ghi chú về Graham: Jason Zweig, nhà báo tài chính, lúc viết (2002–2003) là cây bút chuyên mục của tạp chí *Money*. Người được nói tới: Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là phần mở cửa của sách, đứng trước cả lời giới thiệu của chính Graham. Hai người viết ở đây không trình bày phương pháp mà trả lời hai câu hỏi tiền đề: vì sao nên đọc cuốn này (Buffett: đây là cuốn sách hay nhất về đầu tư; nó cho bạn một khung tư duy, còn kỷ luật cảm xúc là phần của bạn) và vì sao nên nghe Graham (Zweig: Graham đã trải qua thua lỗ thật, đã đạt thành tích thật, và rút ra năm nguyên tắc vẫn đúng). Buffett chỉ đích danh hai chương quan trọng nhất là Chương 8 (ông Thị Trường và biến động giá, xem [C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)) và Chương 20 (biên an toàn, xem [C20-bien-an-toan.md](C20-bien-an-toan.md)). Năm nguyên tắc Zweig liệt kê là bản tóm lược trước toàn bộ cuốn sách; phần Giới thiệu của Graham (xem [C00-gioi-thieu.md](C00-gioi-thieu.md)) đi tiếp bằng cách nói rõ sách dành cho ai và muốn đạt được gì. Các chuyện Graham-Newman và GEICO được Graham kể lại ở Lời bạt (xem [PS-loi-bat.md](PS-loi-bat.md)).
-**Ý chính:** Buffett muốn người đọc hiểu rằng **thành công khi đầu tư suốt một đời người không đòi hỏi trí thông minh vượt trội, thông tin kinh doanh đặc biệt hay thông tin nội bộ, mà đòi hỏi một khung tư duy vững để ra quyết định cộng với khả năng giữ cho cảm xúc không làm hỏng khung đó**. Cuốn sách cung cấp khung tư duy; người đọc phải tự mang theo kỷ luật cảm xúc. Ai làm theo các nguyên tắc về hành vi và kinh doanh của Graham, nhất là ở Chương 8 và Chương 20, sẽ không có kết quả đầu tư tồi, và thị trường càng hành xử dại dột thì cơ hội cho nhà đầu tư có tư duy kinh doanh càng lớn. Trong bài tưởng niệm năm 1976, Buffett mô tả Graham qua ước nguyện mỗi ngày làm "một việc ngớ ngẩn, một việc sáng tạo và một việc hào phóng": ông là người sáng lập ngành phân tích chứng khoán mà hơn 40 năm sau vẫn chưa ai vượt, có trí tuệ rộng hiếm thấy, và hào phóng vô hạn về ý tưởng, thời gian và tinh thần. Sau đó, Zweig, viết năm 2003, bổ sung rằng **Graham là nhà tư tưởng đầu tư thực tiễn lớn nhất mọi thời đại và đã học các bài học của mình theo cách đau đớn**: mẹ ông mất trắng vì mua cổ phiếu bằng tiền vay trong cơn hoảng loạn năm 1907; chính Graham mất gần 70% trong giai đoạn 1929–1932; nhưng quỹ Graham-Newman của ông đạt ít nhất 14,7% mỗi năm từ 1936 đến 1956, so với 12,2% của toàn thị trường. Zweig rút ra năm nguyên tắc: cổ phiếu là phần sở hữu một doanh nghiệp thật; thị trường dao động như quả lắc giữa lạc quan quá mức và bi quan vô lý; giá trả càng cao thì lợi nhuận càng thấp; chỉ biên an toàn mới hạn chế được rủi ro mình sai; và thành bại nằm ở hành vi của chính nhà đầu tư.
+## Ý chính
 
-> **Lưu ý:**
-> - Bản tiếng Pháp là bản dịch máy. Một số chỗ lệch nghĩa ảnh hưởng tới cách hiểu: tiêu đề phụ của Zweig "Ou était Benjamin Graham" là dịch sai của "Ai là Benjamin Graham" (chữ đúng phải là "Qui"); "L'analyse de la sécurité de Graham" là tên cuốn giáo trình *Security Analysis* (Phân tích chứng khoán), không phải "phân tích an ninh"; "stock" trong văn bản Pháp là cổ phiếu; "journaliste club" là phóng viên tập sự (cub reporter); "Il avait tous 20 ans" nghĩa là "khi ấy ông mới 20 tuổi"; "donner un coup de feu à Wall Street" nghĩa là "thử sức ở Phố Wall"; "générosité ... sans notes" nghĩa là hào phóng không tính toán, không ghi sổ; "la livraison" (của ý tưởng) là cách trình bày; "finaliste" là người về nhì.
-> - Câu của Buffett "Plus le comportement du marché est idiot, plus les opportunités pour l'investisseur professionnel sont grandes": theo hiểu biết của người tổng hợp, không tra cứu, bản tiếng Anh viết "businesslike investor" (nhà đầu tư có tư duy kinh doanh), không phải "nhà đầu tư chuyên nghiệp". Điểm này quan trọng vì Buffett không nói cơ hội chỉ dành cho dân chuyên nghiệp.
-> - Ước nguyện của Graham bản Pháp dịch là "quelque chose de stupide" (một việc ngu ngốc); nghĩa gốc nhẹ hơn: một việc ngớ ngẩn, vui vẻ (foolish), đúng như Buffett gọi đó là mục tiêu "fantaisiste" (hài hước, tinh nghịch).
-> - Lời tựa mang tên "ấn bản thứ tư" nhưng nhắc tới cái chết của Graham năm 1976, nên rõ ràng được viết sau năm 1976 cho các lần in lại của ấn bản thứ tư (ấn bản thứ tư in lần đầu năm 1973).
-> - Câu "plus de quarante ans après la publication du livre" trong bài tưởng niệm 1976 chỉ cuốn *Security Analysis* (1934), tức khoảng 42 năm.
-> - Chú thích 3 của Zweig dẫn "p. 532" của bản tiếng Anh (Lời bạt, nơi Graham nói quỹ của ông đạt bình quân khoảng 20% mỗi năm); bản PDF không có số trang in. Chú thích này gọi Graham-Newman là quỹ "à capital variable" (quỹ mở).
-> - Chú thích 4 của Zweig (văn bản là ấn bản thứ tư, Graham hiệu đính 1971–1972, xuất bản 1973) trùng nguyên văn với ghi chú đầu sách ở PDF trang 5.
-> - Trong file chú thích ZWEIG-NOTES, ngay sau bốn chú thích của phần này là các chú thích về "hai đối tác", GEICO, việc SEC buộc tách cổ phần GEICO, giai thoại GEICO là "may mắn" và đoạn thơ Dante. Các chú thích đó thuộc Lời bạt và phần bình luận Lời bạt, không thuộc phần này, nên được để cho file [PS-loi-bat.md](PS-loi-bat.md). Chú thích về khảo sát của Cục Dự trữ Liên bang năm 1948 thuộc Chương 1.
-> - Điều ngoài sách, theo hiểu biết của người tổng hợp, không tra cứu: vụ sụp đổ tháng 10 năm 1987 mà Zweig nhắc tới là "Thứ Hai Đen" (19/10/1987), khi chỉ số Dow Jones giảm khoảng 22,6% trong một ngày. Sau năm 2003, Buffett vẫn nhiều lần nhắc lại rằng đây là cuốn sách đầu tư hay nhất, và Zweig sau này viết chuyên mục cho *The Wall Street Journal*. EMG trong lời đề tặng có lẽ là Estelle Messing Graham, vợ của Graham, nhưng người tổng hợp không chắc chắn. Câu đề từ trích từ *Aeneid* của Virgil (Quyển I), lời Aeneas động viên đồng đội sau cơn bão.
+Buffett muốn người đọc hiểu rằng **thành công khi đầu tư suốt một đời người không đòi hỏi trí thông minh vượt trội, thông tin kinh doanh đặc biệt hay thông tin nội bộ, mà đòi hỏi một khung tư duy vững để ra quyết định cộng với khả năng giữ cho cảm xúc không làm hỏng khung đó**.
+
+Cuốn sách cung cấp khung tư duy; người đọc phải tự mang theo kỷ luật cảm xúc. Ai làm theo các nguyên tắc về hành vi và kinh doanh của Graham, nhất là ở Chương 8 và Chương 20, sẽ không có kết quả đầu tư tồi, và thị trường càng hành xử dại dột thì cơ hội cho nhà đầu tư có tư duy kinh doanh càng lớn.
+
+Trong bài tưởng niệm năm 1976, Buffett mô tả Graham qua ước nguyện mỗi ngày làm "một việc ngớ ngẩn, một việc sáng tạo và một việc hào phóng": ông là người sáng lập ngành phân tích chứng khoán mà hơn 40 năm sau vẫn chưa ai vượt, có trí tuệ rộng hiếm thấy, và hào phóng vô hạn về ý tưởng, thời gian và tinh thần.
+
+Sau đó, Zweig, viết năm 2003, bổ sung rằng **Graham là nhà tư tưởng đầu tư thực tiễn lớn nhất mọi thời đại và đã học các bài học của mình theo cách đau đớn**: mẹ ông mất trắng vì mua cổ phiếu bằng tiền vay trong cơn hoảng loạn năm 1907; chính Graham mất gần 70% trong giai đoạn 1929–1932; nhưng quỹ Graham-Newman của ông đạt ít nhất 14,7% mỗi năm từ 1936 đến 1956, so với 12,2% của toàn thị trường.
+
+Zweig rút ra năm nguyên tắc:
+
+- cổ phiếu là phần sở hữu một doanh nghiệp thật;
+- thị trường dao động như quả lắc giữa lạc quan quá mức và bi quan vô lý;
+- giá trả càng cao thì lợi nhuận càng thấp;
+- chỉ biên an toàn mới hạn chế được rủi ro mình sai;
+- và thành bại nằm ở hành vi của chính nhà đầu tư.
 
 ## Sơ đồ
 
@@ -260,7 +262,20 @@
 
 Trang tên sách (PDF trang 2) ghi: *L'investisseur intelligent — Un livre de conseils pratiques* (Nhà đầu tư thông minh — Một cuốn sách lời khuyên thực hành), ấn bản hiệu đính, tác giả Benjamin Graham, "cập nhật với bình luận mới của Jason Zweig". Ngay dưới là lời đề tặng "À EMG" (Tặng EMG) và đề từ trích từ *Énéide* (*Aeneid* của Virgil): "Grâce à des chances diverses, à travers tous vicissitudes, nous faisons notre chemin…" — qua bao cơ may khác nhau, qua mọi thăng trầm, chúng ta vẫn tiếp tục lên đường.
 
-Mục lục (PDF trang 2–5) liệt kê: đề từ; Lời tựa ấn bản thứ tư của Warren E. Buffett; Ghi chú về Benjamin Graham của Jason Zweig; Giới thiệu "ce que ce livre attend d'accomplir" và bình luận; 20 chương, mỗi chương kèm một bài "Commentaire sur le chapitre N"; Postscript (Lời bạt) và bình luận; 7 phụ lục (1. Những siêu nhà đầu tư của Graham-và-Doddsville; 2. Các quy tắc quan trọng về thuế đối với thu nhập đầu tư và giao dịch chứng khoán, năm 1972; 3. Cơ bản về thuế đầu tư, cập nhật năm 2003; 4. Đầu cơ mới vào cổ phiếu phổ thông; 5. Một trường hợp điển hình: Aetna Maintenance Co.; 6. Hạch toán thuế cho việc NVF mua cổ phiếu Sharon Steel; 7. Các công ty công nghệ như một khoản đầu tư); chú thích cuối sách; lời cảm ơn của Jason Zweig; chỉ mục (bản Pháp dịch máy "Index" thành "Indice"); giới thiệu tác giả; thông tin bản quyền và nhà xuất bản.
+Mục lục (PDF trang 2–5) liệt kê:
+
+- đề từ;
+- Lời tựa ấn bản thứ tư của Warren E. Buffett;
+- Ghi chú về Benjamin Graham của Jason Zweig;
+- Giới thiệu "ce que ce livre attend d'accomplir" và bình luận;
+- 20 chương, mỗi chương kèm một bài "Commentaire sur le chapitre N";
+- Postscript (Lời bạt) và bình luận;
+- 7 phụ lục (1. Những siêu nhà đầu tư của Graham-và-Doddsville; 2. Các quy tắc quan trọng về thuế đối với thu nhập đầu tư và giao dịch chứng khoán, năm 1972; 3. Cơ bản về thuế đầu tư, cập nhật năm 2003; 4. Đầu cơ mới vào cổ phiếu phổ thông; 5. Một trường hợp điển hình: Aetna Maintenance Co.; 6. Hạch toán thuế cho việc NVF mua cổ phiếu Sharon Steel; 7. Các công ty công nghệ như một khoản đầu tư);
+- chú thích cuối sách;
+- lời cảm ơn của Jason Zweig;
+- chỉ mục (bản Pháp dịch máy "Index" thành "Indice");
+- giới thiệu tác giả;
+- thông tin bản quyền và nhà xuất bản.
 
 Ghi chú về ấn bản (PDF trang 5) nói ba điều để người đọc phân biệt ai viết gì: (1) văn bản in ở đây là ấn bản thứ tư, Graham cập nhật năm 1971–1972 và in lần đầu năm 1973; (2) các chú thích chương đánh số là của Graham, còn phần chữ in đậm trong các chú thích đó là của Jason Zweig; (3) các chú thích mới của Zweig chèn vào các chương của Graham được đánh dấu bằng dấu sao (*) hoặc dấu chữ thập (†). Vì vậy, khi đọc bất kỳ con số nào nói "hiện nay" trong văn bản Graham, phải hiểu là cuối năm 1971 hoặc đầu năm 1972.
 
@@ -274,7 +289,7 @@ Luận điểm trung tâm của lời tựa là một phép chia rất rõ giữ
 
 Buffett hứa một điều cụ thể: nếu người đọc làm theo các nguyên tắc về hành vi và về kinh doanh mà Graham chủ trương, và đặc biệt chú ý tới những lời khuyên quý giá ở Chương 8 (cách nhà đầu tư đối xử với biến động giá thị trường, nơi Graham đưa ra hình ảnh ông Thị Trường) và Chương 20 (biên an toàn như khái niệm trung tâm của đầu tư), thì sẽ không có kết quả đầu tư tồi. Ông thêm trong ngoặc rằng tránh được kết quả tồi là một thành tựu lớn hơn người ta tưởng.
 
-Còn đạt kết quả xuất sắc thì phụ thuộc vào công sức và trí tuệ người đó đem ra áp dụng, và vào biên độ của sự điên rồ trên thị trường chứng khoán trong suốt quãng đời đầu tư của họ. Thị trường hành xử càng ngớ ngẩn, cơ hội cho nhà đầu tư có tư duy kinh doanh càng lớn (bản Pháp viết "nhà đầu tư chuyên nghiệp"; xem khối Lưu ý). Làm theo Graham, người đọc sẽ kiếm lợi từ sự điên rồ thay vì tham gia vào nó.
+Còn đạt kết quả xuất sắc thì phụ thuộc vào công sức và trí tuệ người đó đem ra áp dụng, và vào biên độ của sự điên rồ trên thị trường chứng khoán trong suốt quãng đời đầu tư của họ. Thị trường hành xử càng ngớ ngẩn, cơ hội cho nhà đầu tư có tư duy kinh doanh càng lớn (bản Pháp viết "nhà đầu tư chuyên nghiệp"; xem mục Lưu ý cuối bài). Làm theo Graham, người đọc sẽ kiếm lợi từ sự điên rồ thay vì tham gia vào nó.
 
 Cuối lời tựa, Buffett nói với ông Graham còn hơn cả một tác giả hay một người thầy: ngoài cha mình, không ai ảnh hưởng tới đời ông nhiều bằng Graham. Ngay sau khi Graham mất năm 1976, Buffett viết một bài tưởng niệm ngắn trên *Financial Analysts Journal* và in lại ở đây, nói rằng khi đọc sách, người đọc sẽ nhận ra một số phẩm chất ông nêu trong bài.
 
@@ -284,7 +299,9 @@ Bài mở bằng một giai thoại: vài năm trước, khi đã gần 80 tuổ
 
 Về vế thứ nhất, Buffett nhận xét việc Graham đặt một mục tiêu hài hước lên đầu cho thấy tài của ông trong việc "gói" ý tưởng sao cho không mang giọng giảng đạo hay tự cho mình quan trọng. Ý tưởng của ông rất mạnh, nhưng cách ông trình bày luôn nhẹ nhàng.
 
-Về vế sáng tạo, Buffett viết rằng độc giả của tạp chí (giới phân tích tài chính) không cần ai kể lại thành tựu của Graham. Hiếm khi người sáng lập một ngành không bị những người kế tục vượt qua khá nhanh. Thế nhưng hơn 40 năm sau khi cuốn sách mang lại cấu trúc và logic cho một hoạt động vốn lộn xộn và rối rắm (*Security Analysis*, 1934), vẫn khó nghĩ ra ứng viên nào xứng đáng đứng thứ nhì trong lĩnh vực phân tích chứng khoán. Trong một lĩnh vực mà nhiều thứ trông vô nghĩa chỉ vài tuần hay vài tháng sau khi được công bố, các nguyên tắc của Graham vẫn vững; giá trị của chúng còn tăng lên và được hiểu rõ hơn sau những cơn bão tài chính đã đánh sập những cấu trúc trí tuệ mong manh hơn. Lời khuyên hướng tới sự vững chắc của ông đã đem lại phần thưởng đều đặn cho những người theo ông, kể cả những người có năng khiếu tự nhiên kém hơn những người giỏi hơn nhưng vấp ngã vì chạy theo lời khuyên hào nhoáng hoặc hợp mốt.
+Về vế sáng tạo, Buffett viết rằng độc giả của tạp chí (giới phân tích tài chính) không cần ai kể lại thành tựu của Graham. Hiếm khi người sáng lập một ngành không bị những người kế tục vượt qua khá nhanh. Thế nhưng hơn 40 năm sau khi cuốn sách mang lại cấu trúc và logic cho một hoạt động vốn lộn xộn và rối rắm (*Security Analysis*, 1934), vẫn khó nghĩ ra ứng viên nào xứng đáng đứng thứ nhì trong lĩnh vực phân tích chứng khoán.
+
+Trong một lĩnh vực mà nhiều thứ trông vô nghĩa chỉ vài tuần hay vài tháng sau khi được công bố, các nguyên tắc của Graham vẫn vững; giá trị của chúng còn tăng lên và được hiểu rõ hơn sau những cơn bão tài chính đã đánh sập những cấu trúc trí tuệ mong manh hơn. Lời khuyên hướng tới sự vững chắc của ông đã đem lại phần thưởng đều đặn cho những người theo ông, kể cả những người có năng khiếu tự nhiên kém hơn những người giỏi hơn nhưng vấp ngã vì chạy theo lời khuyên hào nhoáng hoặc hợp mốt.
 
 Buffett chỉ ra một điểm đáng chú ý: Graham đạt vị thế thống trị trong nghề mà không cần sự hẹp hòi về trí óc, tức là dồn toàn bộ nỗ lực vào một mục tiêu duy nhất. Thành công nghề nghiệp của ông là sản phẩm phụ của một trí tuệ rộng gần như vượt mọi định nghĩa. Buffett nói chưa từng gặp ai có tầm trí tuệ như vậy: trí nhớ gần như trọn vẹn, niềm say mê vô tận với kiến thức mới, và khả năng chuyển hoá kiến thức đó thành dạng áp dụng được cho những vấn đề tưởng như không liên quan. Vì vậy tiếp xúc với suy nghĩ của ông trong bất kỳ lĩnh vực nào cũng là một niềm vui.
 
@@ -373,7 +390,9 @@ Người đầu tư dựa vào khung tư duy (coi cổ phiếu là phần doanh 
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Phần này đặt nền cho trường phái đầu tư giá trị (value investing): giá trị nội tại (intrinsic value) tồn tại độc lập với giá thị trường; giá mua quyết định lợi nhuận kỳ vọng; biên an toàn là công cụ quản trị rủi ro sai lầm trong ước tính; và yếu tố hành vi của nhà đầu tư (về sau được tài chính hành vi — behavioral finance — nghiên cứu có hệ thống, theo hiểu biết của người tổng hợp) quyết định phần lớn kết quả. Con số 14,7% so với 12,2% mỗi năm trong 20 năm là một mức lợi nhuận vượt trội (outperformance) khoảng 2,5 điểm phần trăm mỗi năm; nhân lên qua 20 năm, 1 USD tăng lên khoảng 15,5 USD ở mức 14,7% so với khoảng 10,0 USD ở mức 12,2% (tính kép, phép tính của người tổng hợp).
+Phần này đặt nền cho trường phái đầu tư giá trị (value investing): giá trị nội tại (intrinsic value) tồn tại độc lập với giá thị trường; giá mua quyết định lợi nhuận kỳ vọng; biên an toàn là công cụ quản trị rủi ro sai lầm trong ước tính; và yếu tố hành vi của nhà đầu tư (về sau được tài chính hành vi — behavioral finance — nghiên cứu có hệ thống, theo hiểu biết của người tổng hợp) quyết định phần lớn kết quả.
+
+Con số 14,7% so với 12,2% mỗi năm trong 20 năm là một mức lợi nhuận vượt trội (outperformance) khoảng 2,5 điểm phần trăm mỗi năm; nhân lên qua 20 năm, 1 USD tăng lên khoảng 15,5 USD ở mức 14,7% so với khoảng 10,0 USD ở mức 12,2% (tính kép, phép tính của người tổng hợp).
 
 ## Thuật ngữ
 
@@ -453,3 +472,151 @@ Ví dụ Northern Pipe Line cho thấy lợi thế của Graham năm 1925 một 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
 Với nhà đầu tư cá nhân, bài học thực hành của phần này gồm: tự viết ra khung quyết định của mình trước khi mua (vì sao mua, giá bao nhiêu là quá đắt, khi nào bán); không vay ký quỹ ở mức có thể bị xoá sạch tài khoản; nghi ngờ các "cổ phiếu mới" tăng vọt ngày đầu như trường hợp Savold Tire; và đánh giá kết quả đầu tư sau khi đã trừ mọi chi phí. Ở các thị trường mới nổi như Việt Nam, nơi tâm lý đám đông và giao dịch ký quỹ thường làm biên độ dao động lớn, nguyên tắc "quả lắc" và kỷ luật cảm xúc mà Buffett nhấn mạnh càng có giá trị (nhận định định tính của người tổng hợp, không dựa trên số liệu).
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời tựa và ghi chú về Graham trên một trang: năm nhánh lớn đi theo phần Nội dung chi tiết (trang đầu sách cùng mục đích ấn bản hiệu đính ở Phần B mục 5, lời tựa của Buffett ở Phần A mục 1, bài tưởng niệm 1976 ở Phần A mục 2, tiểu sử và thành tích của Graham theo Zweig ở Phần B mục 1–3, năm nguyên tắc nền tảng ở Phần B mục 4), mỗi nhánh ghi luận điểm, ví dụ công ty và con số then chốt, tách rõ lời Buffett với lời Zweig; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời tựa và ghi chú về Graham: đầu tư thành công suốt đời cần khung tư duy vững cộng kỷ luật cảm xúc, không cần IQ hay tin nội bộ`"]
+  n1["`Trang đầu sách và Phần B mục 5 — Văn bản Graham giữ nguyên, Zweig bình luận riêng`"]
+  n0 --- n1
+  n2["`Văn bản Graham là ấn bản thứ tư, sửa 1971–1972, in 1973: #quot;hiện nay#quot; là cuối 1971 hoặc đầu 1972`"]
+  n1 --- n2
+  n3["`Chú thích đánh số là của Graham, chữ in đậm trong đó và chú thích dấu #42; hoặc † là của Zweig`"]
+  n1 --- n3
+  n4["`Sách gồm 20 chương, sau mỗi chương là một bài bình luận của Zweig, rồi Lời bạt và 7 phụ lục`"]
+  n1 --- n4
+  n5["`Ấn bản hiệu đính áp ý tưởng Graham vào thị trường ngày nay bằng ví dụ gần đây, không sửa lời Graham`"]
+  n1 --- n5
+  n6["`Như mọi tác phẩm kinh điển, sách thay đổi cách nhìn thế giới, đọc càng nhiều lần càng tốt`"]
+  n1 --- n6
+  n7["`Phần A mục 1 — Lời tựa của Buffett: cái cần và cái không cần`"]
+  n0 --- n7
+  n8["`Buffett đọc ấn bản đầu năm 19 tuổi, coi đây là cuốn sách đầu tư hay nhất từng viết, đến nay vẫn vậy`"]
+  n7 --- n8
+  n9["`Không cần IQ cực cao, hiểu biết kinh doanh khác thường hay thông tin nội bộ`"]
+  n7 --- n9
+  n10["`Cần khung tư duy vững để ra quyết định (sách cung cấp) và kỷ luật cảm xúc (người đọc tự mang theo)`"]
+  n7 --- n10
+  n11["`Theo nguyên tắc Graham, nhất là Chương 8 (ông Thị Trường) và Chương 20 (biên an toàn), sẽ không có kết quả tồi`"]
+  n7 --- n11
+  n12["`Tránh được kết quả tồi đã là thành tựu lớn hơn người ta tưởng`"]
+  n11 --- n12
+  n13["`Kết quả xuất sắc phụ thuộc công sức, trí tuệ và mức điên rồ của thị trường trong đời đầu tư của bạn`"]
+  n7 --- n13
+  n14["`Thị trường càng dại dột, cơ hội cho nhà đầu tư có tư duy kinh doanh càng lớn`"]
+  n13 --- n14
+  n15["`Theo Graham, bạn kiếm lợi từ sự điên rồ của thị trường thay vì tham gia vào nó`"]
+  n13 --- n15
+  n16["`Ngoài cha mình, Graham là người ảnh hưởng tới đời Buffett nhiều nhất`"]
+  n7 --- n16
+  n17["`Phần A mục 2 — Bài tưởng niệm 1976: một việc ngớ ngẩn, một việc sáng tạo, một việc hào phóng`"]
+  n0 --- n17
+  n18["`Gần 80 tuổi, Graham mong mỗi ngày làm được ba việc đó, Buffett dùng ba vế làm bố cục bài`"]
+  n17 --- n18
+  n19["`Ngớ ngẩn: đặt mục tiêu hài hước lên đầu, ý tưởng mạnh nhưng trình bày nhẹ nhàng, không giảng đạo`"]
+  n17 --- n19
+  n20["`Sáng tạo: hơn 40 năm sau Security Analysis (1934) vẫn khó tìm ai đáng xếp thứ nhì trong nghề`"]
+  n17 --- n20
+  n21["`Nguyên tắc của Graham đứng vững qua các cơn bão tài chính và được hiểu rõ hơn sau mỗi cơn bão`"]
+  n20 --- n21
+  n22["`Người kém tài theo lời khuyên vững chắc vẫn hơn người giỏi chạy theo lời khuyên hào nhoáng, hợp mốt`"]
+  n20 --- n22
+  n23["`Thành công là sản phẩm phụ của trí tuệ rộng: trí nhớ gần như trọn vẹn, ham kiến thức mới không ngừng`"]
+  n17 --- n23
+  n24["`Hào phóng: cho học trò, nhân viên, bạn bè ý tưởng, thời gian, tinh thần không giới hạn, không tính toán`"]
+  n17 --- n24
+  n25["`Walter Lippmann nói về người trồng cây để người khác ngồi dưới bóng mát, Ben Graham là người như thế`"]
+  n17 --- n25
+  n26["`Phần B mục 1–3 — Zweig: Graham là ai và học bài học theo cách đau đớn`"]
+  n0 --- n26
+  n27["`Trước Graham, quản lý tiền như phường hội trung cổ dựa vào mê tín, phỏng đoán, nghi thức bí ẩn`"]
+  n26 --- n27
+  n28["`Security Analysis (với David Dodd, 1934) biến giới đó thành một nghề nghiệp hiện đại`"]
+  n27 --- n28
+  n29["`The Intelligent Investor là cuốn đầu tiên cho nhà đầu tư cá nhân cả khung cảm xúc lẫn công cụ phân tích`"]
+  n27 --- n29
+  n30["`Graham chắc rằng mọi thị trường giá lên đều kết thúc tồi tệ, tháng 10/1987 cổ phiếu Mỹ sụp một ngày tệ nhất lịch sử`"]
+  n26 --- n30
+  n31["`1907: mẹ Graham vay tiền mua cổ phiếu ký quỹ và mất trắng trong cơn hoảng loạn`"]
+  n26 --- n31
+  n32["`Tốt nghiệp Columbia năm 1914, thứ hai khóa, ba khoa mời dạy khi mới 20 tuổi, ông chọn Phố Wall`"]
+  n26 --- n32
+  n33["`Savold Tire 1919: lãi 250% ngày giao dịch đầu, tháng 10 công ty lộ lừa đảo, cổ phiếu mất hết giá trị`"]
+  n26 --- n33
+  n34["`Northern Pipe Line 1925: giá 65 USD/cổ phiếu nhưng nắm ít nhất 80 USD/cổ phiếu trái phiếu, ba năm sau thu 110 USD`"]
+  n26 --- n34
+  n35["`1929–1932 Graham lỗ gần 70% nhưng trụ lại và gom món hời trong đống đổ nát`"]
+  n26 --- n35
+  n36["`Graham-Newman 1936–1956: ít nhất 14,7% mỗi năm so với 12,2% của toàn thị trường`"]
+  n26 --- n36
+  n37["`Mức khoảng 20% mỗi năm Graham nêu ở Lời bạt dường như chưa trừ phí quản lý`"]
+  n36 --- n37
+  n38["`Qua 20 năm, 1 USD thành khoảng 15,5 USD so với 10,0 USD (phép tính của người tổng hợp)`"]
+  n36 --- n38
+  n39["`Phần B mục 4 — Năm nguyên tắc nền tảng của Graham theo Zweig`"]
+  n0 --- n39
+  n40["`Cổ phiếu là phần sở hữu doanh nghiệp thật, có giá trị nền tảng không phụ thuộc giá giao dịch`"]
+  n39 --- n40
+  n41["`Thị trường là quả lắc giữa lạc quan không bền (cổ phiếu quá đắt) và bi quan vô lý (cổ phiếu quá rẻ)`"]
+  n39 --- n41
+  n42["`Nhà đầu tư thông minh bán cho người lạc quan, mua của người bi quan, Chương 8 gọi là ông Thị Trường`"]
+  n41 --- n42
+  n43["`Giá trị tương lai của khoản đầu tư là hàm số của giá hiện tại: giá trả càng cao, lợi nhuận càng thấp`"]
+  n39 --- n43
+  n44["`Rủi ro không ai loại bỏ được là rủi ro mình sai, chỉ biên an toàn mới giảm được khả năng sai lầm`"]
+  n39 --- n44
+  n45["`Biên an toàn: không bao giờ trả giá quá cao, dù khoản đầu tư trông hấp dẫn tới đâu`"]
+  n44 --- n45
+  n46["`Bí quyết nằm trong chính bạn: tư duy phản biện, không tin #quot;sự thật#quot; của Phố Wall chưa kiểm chứng`"]
+  n39 --- n46
+  n47["`Cách bạn hành xử quan trọng hơn nhiều so với cách các khoản đầu tư hành xử`"]
+  n46 --- n47
+  n48["`Thông điệp xuyên suốt`"]
+  n0 --- n48
+  n49["`Mục tiêu đầu tiên là tránh kết quả tồi, kết quả xuất sắc là phần thưởng thêm`"]
+  n48 --- n49
+  n50["`Không vay tiền mua cổ phiếu khi không chịu được việc mất trắng, như mẹ Graham năm 1907`"]
+  n48 --- n50
+  n51["`Đánh giá kết quả đầu tư sau khi đã trừ mọi chi phí`"]
+  n48 --- n51
+  n52["`Lợi thế đọc báo cáo ít người đọc nay hiếm, lợi thế dám mua khi người khác bi quan vẫn còn`"]
+  n48 --- n52
+  class n0 root
+  class n1,n7,n17,n26,n39,n48 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent: Un livre de conseils pratiques*; trang tên sách, lời đề tặng và đề từ (PDF trang 2), phần cuối mục lục và ghi chú về ấn bản (PDF trang 5), "Préface à la quatrième édition, par Warren E. Buffett" kèm bài tưởng niệm "Benjamin Graham 1894–1976" (PDF trang 5–7) và "Une note sur Benjamin Graham par Jason Zweig" (PDF trang 7–10). Chú thích của Zweig cho phần ghi chú nằm ở PDF trang 549.
+
+## Tác giả
+
+Lời tựa: Warren E. Buffett (sinh 1930), học trò, nhân viên và bạn của Graham, người điều hành Berkshire Hathaway; bài tưởng niệm in lần đầu trên *Financial Analysts Journal* số tháng 11/12 năm 1976. Ghi chú về Graham: Jason Zweig, nhà báo tài chính, lúc viết (2002–2003) là cây bút chuyên mục của tạp chí *Money*. Người được nói tới: Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là phần mở cửa của sách, đứng trước cả lời giới thiệu của chính Graham. Hai người viết ở đây không trình bày phương pháp mà trả lời hai câu hỏi tiền đề: vì sao nên đọc cuốn này (Buffett: đây là cuốn sách hay nhất về đầu tư; nó cho bạn một khung tư duy, còn kỷ luật cảm xúc là phần của bạn) và vì sao nên nghe Graham (Zweig: Graham đã trải qua thua lỗ thật, đã đạt thành tích thật, và rút ra năm nguyên tắc vẫn đúng).
+
+Buffett chỉ đích danh hai chương quan trọng nhất là Chương 8 (ông Thị Trường và biến động giá, xem [C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)) và Chương 20 (biên an toàn, xem [C20-bien-an-toan.md](C20-bien-an-toan.md)).
+
+Năm nguyên tắc Zweig liệt kê là bản tóm lược trước toàn bộ cuốn sách; phần Giới thiệu của Graham (xem [C00-gioi-thieu.md](C00-gioi-thieu.md)) đi tiếp bằng cách nói rõ sách dành cho ai và muốn đạt được gì. Các chuyện Graham-Newman và GEICO được Graham kể lại ở Lời bạt (xem [PS-loi-bat.md](PS-loi-bat.md)).
+
+## Lưu ý
+
+- Bản tiếng Pháp là bản dịch máy. Một số chỗ lệch nghĩa ảnh hưởng tới cách hiểu: tiêu đề phụ của Zweig "Ou était Benjamin Graham" là dịch sai của "Ai là Benjamin Graham" (chữ đúng phải là "Qui"); "L'analyse de la sécurité de Graham" là tên cuốn giáo trình *Security Analysis* (Phân tích chứng khoán), không phải "phân tích an ninh"; "stock" trong văn bản Pháp là cổ phiếu; "journaliste club" là phóng viên tập sự (cub reporter); "Il avait tous 20 ans" nghĩa là "khi ấy ông mới 20 tuổi"; "donner un coup de feu à Wall Street" nghĩa là "thử sức ở Phố Wall"; "générosité ... sans notes" nghĩa là hào phóng không tính toán, không ghi sổ; "la livraison" (của ý tưởng) là cách trình bày; "finaliste" là người về nhì.
+- Câu của Buffett "Plus le comportement du marché est idiot, plus les opportunités pour l'investisseur professionnel sont grandes": theo hiểu biết của người tổng hợp, không tra cứu, bản tiếng Anh viết "businesslike investor" (nhà đầu tư có tư duy kinh doanh), không phải "nhà đầu tư chuyên nghiệp". Điểm này quan trọng vì Buffett không nói cơ hội chỉ dành cho dân chuyên nghiệp.
+- Ước nguyện của Graham bản Pháp dịch là "quelque chose de stupide" (một việc ngu ngốc); nghĩa gốc nhẹ hơn: một việc ngớ ngẩn, vui vẻ (foolish), đúng như Buffett gọi đó là mục tiêu "fantaisiste" (hài hước, tinh nghịch).
+- Lời tựa mang tên "ấn bản thứ tư" nhưng nhắc tới cái chết của Graham năm 1976, nên rõ ràng được viết sau năm 1976 cho các lần in lại của ấn bản thứ tư (ấn bản thứ tư in lần đầu năm 1973).
+- Câu "plus de quarante ans après la publication du livre" trong bài tưởng niệm 1976 chỉ cuốn *Security Analysis* (1934), tức khoảng 42 năm.
+- Chú thích 3 của Zweig dẫn "p. 532" của bản tiếng Anh (Lời bạt, nơi Graham nói quỹ của ông đạt bình quân khoảng 20% mỗi năm); bản PDF không có số trang in. Chú thích này gọi Graham-Newman là quỹ "à capital variable" (quỹ mở).
+- Chú thích 4 của Zweig (văn bản là ấn bản thứ tư, Graham hiệu đính 1971–1972, xuất bản 1973) trùng nguyên văn với ghi chú đầu sách ở PDF trang 5.
+- Trong file chú thích ZWEIG-NOTES, ngay sau bốn chú thích của phần này là các chú thích về "hai đối tác", GEICO, việc SEC buộc tách cổ phần GEICO, giai thoại GEICO là "may mắn" và đoạn thơ Dante. Các chú thích đó thuộc Lời bạt và phần bình luận Lời bạt, không thuộc phần này, nên được để cho file [PS-loi-bat.md](PS-loi-bat.md). Chú thích về khảo sát của Cục Dự trữ Liên bang năm 1948 thuộc Chương 1.
+- Điều ngoài sách, theo hiểu biết của người tổng hợp, không tra cứu: vụ sụp đổ tháng 10 năm 1987 mà Zweig nhắc tới là "Thứ Hai Đen" (19/10/1987), khi chỉ số Dow Jones giảm khoảng 22,6% trong một ngày. Sau năm 2003, Buffett vẫn nhiều lần nhắc lại rằng đây là cuốn sách đầu tư hay nhất, và Zweig sau này viết chuyên mục cho *The Wall Street Journal*. EMG trong lời đề tặng có lẽ là Estelle Messing Graham, vợ của Graham, nhưng người tổng hợp không chắc chắn. Câu đề từ trích từ *Aeneid* của Virgil (Quyển I), lời Aeneas động viên đồng đội sau cơn bão.

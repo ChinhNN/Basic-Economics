@@ -1,31 +1,16 @@
 # Phụ lục 1 — Những siêu nhà đầu tư của Graham-và-Doddsville (Annexes — 1. Les superinvestisseurs de Graham-et-Doddsville)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Phụ lục 1 "Les superinvestisseurs de Graham-et-Doddsville, par Warren E. Buffett" (PDF trang 446–463: lời văn ở trang 446–457; trang 458–462 là chỗ dành cho Tableaux 1–9; trang 463 kết thúc trước Phụ lục 2).
-**Tác giả:** Warren E. Buffett (sinh 1930), học trò của Graham ở Đại học Columbia (1950–1951), nhân viên của quỹ Graham-Newman (1954–1956), người điều hành Buffett Partnership (1957–1969) rồi Berkshire Hathaway. Bài là bản ghi đã biên tập của bài nói tại Đại học Columbia năm 1984, nhân kỷ niệm 50 năm cuốn *Security Analysis* (Phân tích chứng khoán) của Benjamin Graham và David L. Dodd. Lời giới thiệu đầu bài là của ban biên tập (nhà xuất bản). Phụ lục này không có bình luận của Jason Zweig và không có chú thích của Graham hay Zweig.
-**Vị trí trong lập luận của cả cuốn sách:** Phụ lục 1 đứng ngay sau Lời bạt và phần bình luận Lời bạt của Zweig (xem [PS-loi-bat.md](PS-loi-bat.md)), và là bằng chứng thực nghiệm cho toàn bộ cuốn sách. Trong 20 chương, Graham dạy hai ý cốt lõi: coi cổ phiếu là một phần doanh nghiệp và lợi dụng biến động giá của "ông Thị Trường" (Mr. Market) thay vì bị nó dắt mũi (Chương 8, xem [C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)); và luôn đòi hỏi biên an toàn (Chương 20, xem [C20-bien-an-toan.md](C20-bien-an-toan.md)). Buffett, người mà trong Lời tựa (xem [00-loi-tua-va-ghi-chu-ve-graham.md](00-loi-tua-va-ghi-chu-ve-graham.md)) gọi đây là cuốn sách đầu tư hay nhất, ở đây trả lời câu hỏi mà giới học thuật đặt ra: nếu thị trường hiệu quả thì những người làm theo Graham thắng thị trường chỉ là nhờ may mắn? Bằng chín thành tích của những người "đến từ" cùng một "làng trí tuệ", Buffett lập luận rằng không thể giải thích kết quả đó bằng may mắn. Phụ lục 2 và các phụ lục sau chuyển sang các chủ đề kỹ thuật (thuế, đầu cơ mới, các trường hợp cụ thể; xem [PL2-7-cac-phu-luc-khac.md](PL2-7-cac-phu-luc-khac.md)).
-**Ý chính:** Buffett muốn người nghe hiểu rằng **những nhà đầu tư cùng học một khung tư duy của Graham và Dodd — tìm và khai thác khoảng cách giữa giá thị trường của một phần doanh nghiệp và giá trị của doanh nghiệp đó — đã thắng thị trường liên tục trong nhiều năm, và kết quả tập trung như vậy không thể là ngẫu nhiên**. Ông dựng một phép thử: nếu 225 triệu người Mỹ cùng tung đồng xu mỗi sáng, sau 20 ngày sẽ có khoảng 215 người đoán đúng 20 lần liên tiếp chỉ nhờ may mắn; nhưng nếu 40 người trong số đó đến từ cùng một vườn thú ở Omaha, ta nên đi tìm nguyên nhân. Chín "người tung đồng xu" mà Buffett trình bày — Walter Schloss, Tweedy Browne (Tom Knapp), Buffett Partnership, Sequoia Fund (Bill Ruane), Charlie Munger, Pacific Partners (Rick Guerin), Stan Perlmeter, quỹ hưu trí Washington Post và quỹ hưu trí FMC — đều được Buffett biết và xác định trước là nhà đầu tư giỏi, thành tích đều đã được kiểm toán, danh mục gần như không trùng nhau, nên không phải là một người "hô" và cả trăm người hô theo. Ví dụ nổi bật nhất trong lời văn: Rick Guerin từ 1965 đến 1983 đạt lãi lũy kế 22.200%, trong khi chỉ số S&P 500 chỉ tăng 316%. Buffett kết luận rằng thị trường có nhiều chỗ không hiệu quả, rằng với nhà đầu tư giá trị, mua rẻ hơn nghĩa là rủi ro thấp hơn chứ không cao hơn (công ty Washington Post năm 1973 được thị trường định giá 80 triệu USD trong khi tài sản bán được ít nhất 400 triệu USD), và rằng "bí mật" này đã công khai 50 năm mà vẫn ít người theo, nên khoảng cách giữa giá và giá trị sẽ còn tồn tại.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chín bảng kết quả bị mất trong bản PDF.** Lời văn dẫn tới Tableaux 1–9, và PDF trang 458 ghi "Les tableaux 1 à 9 suivent:" (Các bảng 1 đến 9 như sau), nhưng các trang 458–462 chỉ còn dòng tiêu đề của năm bảng ("TABLEAU 2 Tweedy, Browne Inc.", "TABLEAU 3 Buffett Partnership, Ltd", "TABLEAU 4 Sequoia Fund, Inc.", "TABLEAU 5 Charles Munger", "TABLEAU 6 Pacific Partners, Ltd.") và khoảng trắng; tiêu đề của Tableaux 1, 7, 8 và 9 cũng không có; trang 461–462 trắng hoàn toàn, trang 463 trắng ở nửa trên. Đã xem ảnh trang và kiểm tra trực tiếp tệp PDF: các trang này không chứa hình ảnh nhúng nào, tức là bảng đã bị bỏ khi dịch hoặc xuất tệp, không phải do lỗi kết xuất ảnh. Vì vậy **không thể chép số liệu từng năm và không thể kiểm tra số tổng của các bảng**. Bản tổng hợp không dựng lại các bảng từ trí nhớ; thay vào đó, mọi thông tin mà Buffett nêu trong lời văn về từng nhà đầu tư (thời kỳ, phong cách, con số) được gom thành một bảng, ghi rõ là lấy từ lời văn. Theo hiểu biết của người tổng hợp, không tra cứu: trong bản tiếng Anh, mỗi bảng so sánh lợi nhuận từng năm của nhà đầu tư với chỉ số S&P 500 hoặc chỉ số Dow Jones, kèm lợi nhuận lũy kế và lợi nhuận kép bình quân năm.
-> - **Dẫn trang của bản tiếng Anh:** "voir tableau 1, pages 549–550" là số trang của bản tiếng Anh (HarperBusiness 2003). Ở bản PDF tiếng Pháp, trang 549–550 là phần chú thích của Zweig, không liên quan.
-> - **Mất một đoạn câu (PDF trang 450):** sau "si c'est en janvier ou en juillet, etc." là mẩu "le font par le biais d'actions négociables - je doute que nombre d'entre elles prennent leur décision d'achat le jour de la semaine…". Theo ngữ cảnh, phần bị mất nói rằng khi giới doanh nhân mua cả doanh nghiệp — mà đó chính là điều các nhà đầu tư Graham & Dodd làm thông qua cổ phiếu niêm yết — thì Buffett ngờ rằng ít ai đưa ngày trong tuần hay tháng trong năm vào quyết định mua.
-> - **Dịch máy lệch nghĩa, ảnh hưởng tới cách hiểu:**
->   - "record", "enregistrement", "dossier" trong suốt bài đều là *track record* — thành tích đầu tư đã đạt được, không phải "hồ sơ" hay "kỷ lục". "Tous ces enregistrements ont été vérifiés" nghĩa là mọi thành tích đều đã được kiểm toán.
->   - "boursier" (người được học bổng) là dịch sai của *fellow* (một người, một gã): "un ou deux autres boursiers de persuasion similaire" nghĩa là một hai người khác có cùng quan điểm; "le dossier d'un boursier qui était un copain de Charlie Munger" nghĩa là thành tích của một người bạn của Munger.
->   - "le modèle de tarification des immobilisations" (mô hình định giá tài sản cố định) là dịch sai của *capital asset pricing model* (mô hình định giá tài sản vốn, CAPM).
->   - "il m'a refusé car il était surévalué" (PDF trang 451): chủ ngữ đúng là Buffett — Graham từ chối nhận Buffett vì cho rằng Buffett "bị định giá quá cao", ngay cả khi Buffett xin làm không lương. Đây là câu đùa: Graham áp dụng nguyên tắc giá trị cả khi tuyển người.
->   - "il n'a pas d'idées" trong đoạn trích *Supermoney* (PDF trang 451): nghĩa đúng là không ai "mớm" ý tưởng đầu tư cho Schloss (không ai gửi khuyến nghị cho ông), không phải Schloss không có ý tưởng.
->   - "la loi était un loisir mais qu'il pouvait faire mieux" (PDF trang 453): nghĩa là luật là một thú vui ngoài giờ cũng được, nhưng Munger có thể làm việc khác tốt hơn.
->   - "Après être arrivé à Charlie, Charlie l'a rejoint" (PDF trang 454): nghĩa là sau khi Buffett "chinh phục" được Munger thì Munger "chinh phục" được Guerin, tức ý tưởng đầu tư giá trị truyền từ Buffett sang Munger rồi sang Guerin.
->   - "Une seule lumière ici" (PDF trang 454) là dịch máy của *one sidelight here*: "nhân tiện, một nhận xét bên lề".
->   - "les stocks sont réels" (PDF trang 451): "stocks" là cổ phiếu, không phải hàng tồn kho.
->   - "deux billions de dollars" (PDF trang 453): trong tiếng Pháp, "billion" là một nghìn tỷ (10^12), nên con số đúng là 2.000 tỷ USD, khớp với tổng giá trị vốn cổ phần của nền kinh tế Mỹ năm 1984 mà Buffett nhắc tới.
->   - "marché à deux niveaux" (PDF trang 452) là *two-tier market*: thị trường hai tầng đầu thập niên 1970, khi một nhóm nhỏ cổ phiếu tăng trưởng lớn được định giá rất cao còn phần lớn cổ phiếu khác bị bỏ rơi (theo hiểu biết của người tổng hợp, nhóm này hay được gọi là "Nifty Fifty").
->   - "un autre type d'école non commerciale" (PDF trang 454): nghĩa là "một người nữa không học trường kinh doanh".
-> - **Kiểm tra số trong lời văn (phép tính của người tổng hợp):** 225 triệu chia cho 2^10 (1.024) bằng khoảng 219.700, khớp với "environ 220 000"; một đô la gấp đôi 10 lần thành 1.024 USD, khớp với "un peu plus de 1 000 $". 225 triệu chia cho 2^20 (1.048.576) bằng khoảng 214,6, khớp với "215 personnes"; một đô la gấp đôi 20 lần thành 1.048.576 USD, khớp với "un peu plus 1 million". 215 người chia cho gia đình 10 người bằng 21,5 gia đình, khớp. Mười "đống" tài sản 40 triệu USD mua với 8 triệu USD mỗi đống bằng 400 triệu USD tài sản với 80 triệu USD, khớp với ví dụ Washington Post. Thời gian Schloss: rời Graham-Newman năm 1955 và có thành tích "sur 28 ans", tức tính tới khoảng năm 1984 (theo hiểu biết của người tổng hợp, bảng gốc tính từ năm 1956). Lãi lũy kế 22.200% của Guerin tương đương nhân vốn 223 lần; nếu tính 19 năm (1965–1983) thì bình quân khoảng 32,9% mỗi năm, so với khoảng 7,8% mỗi năm ứng với mức tăng 316% của S&P 500.
-> - **Hai chỗ dễ hiểu nhầm:** (a) "La meilleure chose qu'il ait faite a été de démissionner en 1969" — Buffett tự giễu chính mình (người lập Buffett Partnership năm 1957), không phải chê một người khác. (b) Danh sách cổ phiếu của Schloss — Hudson Pulp & Paper, Jeddo Highland Coal, New York Trap Rock Company — đi kèm câu "những cái tên ai cũng nghĩ ra ngay, kể cả người đọc trang kinh tế không thường xuyên" là câu mỉa: thật ra đây là những công ty gần như không ai biết.
-> - **Bối cảnh năm 1984 và sau đó (theo hiểu biết của người tổng hợp, không tra cứu):** theo hiểu biết của người tổng hợp, bài nói được in lần đầu năm 1984 trên tạp chí *Hermes* của Trường Kinh doanh Columbia. "Becker survey" là khảo sát thành tích các quỹ hưu trí của công ty tư vấn A. G. Becker thời đó. Sau năm 1984, lý thuyết thị trường hiệu quả vẫn là dòng chính trong học thuật nhưng tài chính hành vi phát triển mạnh; quỹ chỉ số chi phí thấp và ETF trở nên phổ biến; trường phái giá trị có giai đoạn dài (khoảng thập niên 2010) thua cổ phiếu tăng trưởng. Bản thân Buffett về sau nhiều lần khuyên đa số nhà đầu tư không chuyên nên mua quỹ chỉ số S&P 500 chi phí thấp — điều này không mâu thuẫn với bài, vì bài nói về số ít người có khung tư duy và tính khí phù hợp.
-> - Trang 446 (phần đầu) chứa đoạn thơ Dante và câu kết của Zweig ("Investir aussi est une aventure…"); các dòng này thuộc phần bình luận Lời bạt, không thuộc Phụ lục 1.
+Buffett muốn người nghe hiểu rằng **những nhà đầu tư cùng học một khung tư duy của Graham và Dodd — tìm và khai thác khoảng cách giữa giá thị trường của một phần doanh nghiệp và giá trị của doanh nghiệp đó — đã thắng thị trường liên tục trong nhiều năm, và kết quả tập trung như vậy không thể là ngẫu nhiên**.
+
+Ông dựng một phép thử: nếu 225 triệu người Mỹ cùng tung đồng xu mỗi sáng, sau 20 ngày sẽ có khoảng 215 người đoán đúng 20 lần liên tiếp chỉ nhờ may mắn; nhưng nếu 40 người trong số đó đến từ cùng một vườn thú ở Omaha, ta nên đi tìm nguyên nhân.
+
+Chín "người tung đồng xu" mà Buffett trình bày — Walter Schloss, Tweedy Browne (Tom Knapp), Buffett Partnership, Sequoia Fund (Bill Ruane), Charlie Munger, Pacific Partners (Rick Guerin), Stan Perlmeter, quỹ hưu trí Washington Post và quỹ hưu trí FMC — đều được Buffett biết và xác định trước là nhà đầu tư giỏi, thành tích đều đã được kiểm toán, danh mục gần như không trùng nhau, nên không phải là một người "hô" và cả trăm người hô theo.
+
+Ví dụ nổi bật nhất trong lời văn: Rick Guerin từ 1965 đến 1983 đạt lãi lũy kế 22.200%, trong khi chỉ số S&P 500 chỉ tăng 316%.
+
+Buffett kết luận rằng thị trường có nhiều chỗ không hiệu quả, rằng với nhà đầu tư giá trị, mua rẻ hơn nghĩa là rủi ro thấp hơn chứ không cao hơn (công ty Washington Post năm 1973 được thị trường định giá 80 triệu USD trong khi tài sản bán được ít nhất 400 triệu USD), và rằng "bí mật" này đã công khai 50 năm mà vẫn ít người theo, nên khoảng cách giữa giá và giá trị sẽ còn tồn tại.
 
 ## Sơ đồ
 
@@ -397,9 +382,13 @@ Phần phụ lục (Annexes) mở đầu bằng bài số 1, "Những siêu nhà
 
 ### 2. Câu hỏi về thị trường hiệu quả và điều kiện chọn người trước (PDF trang 447)
 
-Buffett mở bài bằng câu hỏi: cách tiếp cận của Graham và Dodd — "tìm những giá trị có biên an toàn đáng kể so với giá" — đã lỗi thời trong phân tích chứng khoán chưa? Nhiều giáo sư viết giáo trình thời đó trả lời là có. Họ cho rằng thị trường chứng khoán hiệu quả, tức là giá cổ phiếu phản ánh mọi điều đã biết về triển vọng của doanh nghiệp và về tình hình nền kinh tế. Theo các nhà lý thuyết này, không có cổ phiếu nào bị định giá thấp, vì có những nhà phân tích chứng khoán thông minh dùng mọi thông tin sẵn có để bảo đảm giá luôn đúng. Những nhà đầu tư có vẻ thắng thị trường năm này qua năm khác chỉ là gặp may. Buffett trích một tác giả giáo trình: "Nếu giá phản ánh đầy đủ thông tin sẵn có, loại năng lực đầu tư này bị loại trừ."
+Buffett mở bài bằng câu hỏi: cách tiếp cận của Graham và Dodd — "tìm những giá trị có biên an toàn đáng kể so với giá" — đã lỗi thời trong phân tích chứng khoán chưa? Nhiều giáo sư viết giáo trình thời đó trả lời là có. Họ cho rằng thị trường chứng khoán hiệu quả, tức là giá cổ phiếu phản ánh mọi điều đã biết về triển vọng của doanh nghiệp và về tình hình nền kinh tế.
 
-Buffett đáp: "Có thể lắm." Nhưng ông muốn giới thiệu một nhóm nhà đầu tư đã thắng chỉ số Standard & Poor's 500 năm này qua năm khác, và giả thuyết rằng họ làm được nhờ may mắn thuần tuý ít nhất cũng đáng được xem xét. Một yếu tố then chốt của việc xem xét này: tất cả những người thắng đó đều được Buffett biết rõ và đã được ông xác định từ trước là nhà đầu tư vượt trội; lần xác định gần nhất cũng đã cách đây hơn 15 năm. Nếu không có điều kiện này — nếu ông mới lục hàng nghìn hồ sơ để nhặt ra vài cái tên cho buổi sáng hôm đó — ông khuyên người nghe dừng đọc ở đây. Ông thêm rằng mọi thành tích đều đã được kiểm toán, và ông quen nhiều người từng góp vốn với các nhà quản lý này; những tấm séc họ nhận được qua các năm khớp với thành tích công bố.
+Theo các nhà lý thuyết này, không có cổ phiếu nào bị định giá thấp, vì có những nhà phân tích chứng khoán thông minh dùng mọi thông tin sẵn có để bảo đảm giá luôn đúng. Những nhà đầu tư có vẻ thắng thị trường năm này qua năm khác chỉ là gặp may. Buffett trích một tác giả giáo trình: "Nếu giá phản ánh đầy đủ thông tin sẵn có, loại năng lực đầu tư này bị loại trừ."
+
+Buffett đáp: "Có thể lắm." Nhưng ông muốn giới thiệu một nhóm nhà đầu tư đã thắng chỉ số Standard & Poor's 500 năm này qua năm khác, và giả thuyết rằng họ làm được nhờ may mắn thuần tuý ít nhất cũng đáng được xem xét. Một yếu tố then chốt của việc xem xét này: tất cả những người thắng đó đều được Buffett biết rõ và đã được ông xác định từ trước là nhà đầu tư vượt trội; lần xác định gần nhất cũng đã cách đây hơn 15 năm.
+
+Nếu không có điều kiện này — nếu ông mới lục hàng nghìn hồ sơ để nhặt ra vài cái tên cho buổi sáng hôm đó — ông khuyên người nghe dừng đọc ở đây. Ông thêm rằng mọi thành tích đều đã được kiểm toán, và ông quen nhiều người từng góp vốn với các nhà quản lý này; những tấm séc họ nhận được qua các năm khớp với thành tích công bố.
 
 ### 3. Cuộc thi tung đồng xu toàn quốc (PDF trang 447–448)
 
@@ -432,11 +421,15 @@ Trong nhóm nhà đầu tư thành công mà Buffett muốn xem xét, có một 
 
 ### 6. Chủ đề trí tuệ chung: giá và giá trị; phê phán nghiên cứu học thuật (PDF trang 450–451)
 
-Chủ đề trí tuệ chung của các nhà đầu tư Graham-và-Doddsville là: họ tìm những chênh lệch giữa giá trị của một doanh nghiệp và giá của những mẩu nhỏ của doanh nghiệp đó trên thị trường. Về bản chất, họ khai thác các chênh lệch này mà không bận tâm như nhà lý thuyết thị trường hiệu quả về việc cổ phiếu được mua vào thứ Hai hay thứ Năm, tháng Một hay tháng Bảy. Khi giới doanh nhân mua cả một doanh nghiệp — mà các nhà đầu tư Graham & Dodd làm đúng việc đó, chỉ là thông qua cổ phiếu niêm yết — Buffett ngờ rằng ít người đưa ngày trong tuần hay tháng trong năm vào quyết định mua (câu này bị cắt dở trong bản Pháp; xem khối Lưu ý). Nếu việc mua cả doanh nghiệp vào thứ Hai hay thứ Sáu không tạo khác biệt, Buffett thấy khó hiểu vì sao giới học thuật tốn nhiều thời gian và công sức để xem điều đó có tạo khác biệt khi mua những mẩu nhỏ của chính các doanh nghiệp đó hay không.
+Chủ đề trí tuệ chung của các nhà đầu tư Graham-và-Doddsville là: họ tìm những chênh lệch giữa giá trị của một doanh nghiệp và giá của những mẩu nhỏ của doanh nghiệp đó trên thị trường. Về bản chất, họ khai thác các chênh lệch này mà không bận tâm như nhà lý thuyết thị trường hiệu quả về việc cổ phiếu được mua vào thứ Hai hay thứ Năm, tháng Một hay tháng Bảy.
+
+Khi giới doanh nhân mua cả một doanh nghiệp — mà các nhà đầu tư Graham & Dodd làm đúng việc đó, chỉ là thông qua cổ phiếu niêm yết — Buffett ngờ rằng ít người đưa ngày trong tuần hay tháng trong năm vào quyết định mua (câu này bị cắt dở trong bản Pháp; xem mục Lưu ý cuối phụ lục). Nếu việc mua cả doanh nghiệp vào thứ Hai hay thứ Sáu không tạo khác biệt, Buffett thấy khó hiểu vì sao giới học thuật tốn nhiều thời gian và công sức để xem điều đó có tạo khác biệt khi mua những mẩu nhỏ của chính các doanh nghiệp đó hay không.
 
 Các nhà đầu tư Graham & Dodd, khỏi phải nói, không bàn về hệ số bêta, mô hình định giá tài sản vốn (CAPM) hay hiệp phương sai của lợi suất chứng khoán. Đó không phải chủ đề họ quan tâm; thực ra phần lớn họ sẽ khó định nghĩa được các thuật ngữ đó. Họ chỉ tập trung vào hai biến: giá và giá trị.
 
-Buffett luôn thấy lạ khi có quá nhiều nghiên cứu về hành vi của giá và khối lượng giao dịch, tức thứ mà dân phân tích kỹ thuật (chartists) làm. Ông hỏi: bạn có hình dung nổi việc mua cả một doanh nghiệp chỉ vì giá của nó đã tăng mạnh tuần trước và tuần trước nữa không? Lý do có nhiều nghiên cứu về giá và khối lượng là trong thời đại máy tính, dữ liệu về chúng gần như vô tận. Không phải vì các nghiên cứu đó hữu ích, mà vì dữ liệu sẵn có và giới học thuật đã khổ công học các kỹ năng toán học để xử lý. Khi đã có kỹ năng, không dùng thì có vẻ như có tội, dù việc dùng chẳng có ích gì hoặc còn có hại. Như một người bạn của Buffett nói: với người cầm búa, cái gì cũng giống cái đinh.
+Buffett luôn thấy lạ khi có quá nhiều nghiên cứu về hành vi của giá và khối lượng giao dịch, tức thứ mà dân phân tích kỹ thuật (chartists) làm. Ông hỏi: bạn có hình dung nổi việc mua cả một doanh nghiệp chỉ vì giá của nó đã tăng mạnh tuần trước và tuần trước nữa không?
+
+Lý do có nhiều nghiên cứu về giá và khối lượng là trong thời đại máy tính, dữ liệu về chúng gần như vô tận. Không phải vì các nghiên cứu đó hữu ích, mà vì dữ liệu sẵn có và giới học thuật đã khổ công học các kỹ năng toán học để xử lý. Khi đã có kỹ năng, không dùng thì có vẻ như có tội, dù việc dùng chẳng có ích gì hoặc còn có hại. Như một người bạn của Buffett nói: với người cầm búa, cái gì cũng giống cái đinh.
 
 Buffett cho rằng nhóm người được xác định bằng một "mái nhà trí tuệ" chung này đáng được nghiên cứu. Ông nói thêm: dù có đủ loại nghiên cứu đại học về ảnh hưởng của giá, khối lượng, yếu tố mùa vụ, quy mô vốn hoá… lên kết quả của cổ phiếu, chưa ai tỏ ra quan tâm nghiên cứu phương pháp của nhóm người thắng tập trung khác thường theo trường phái giá trị này.
 
@@ -446,9 +439,13 @@ Buffett bắt đầu xem xét kết quả bằng cách quay về nhóm bốn ng�
 
 Ví dụ đầu tiên (Tableau 1) là Walter Schloss. Walter chưa từng học đại học, nhưng đã học một lớp buổi tối của Ben Graham ở New York Institute of Finance. Ông rời Graham-Newman năm 1955 và đạt thành tích được trình bày trong bảng, kéo dài 28 năm.
 
-Buffett trích những gì "Adam Smith" (bút danh của một nhà báo tài chính) viết về Walter trong cuốn *Supermoney* (1972), sau khi Buffett kể với ông về Walter: Schloss không có quan hệ hay đường tiếp cận thông tin hữu ích nào; gần như không ai ở Phố Wall biết ông và cũng không ai cung cấp ý tưởng đầu tư cho ông. Ông tra số liệu trong các sổ tay chứng khoán, xin báo cáo thường niên, và chỉ có thế. Adam Smith viết thêm rằng khi giới thiệu Schloss, Buffett theo ông cũng đang tự mô tả mình: Schloss không bao giờ quên rằng ông đang quản lý tiền của người khác, và điều này củng cố thêm sự ghét thua lỗ vốn đã mạnh của ông; ông chính trực tuyệt đối và có cái nhìn thực tế về bản thân; tiền đối với ông là thật, cổ phiếu là thật, và từ đó ông bị nguyên tắc "biên an toàn" thu hút.
+Buffett trích những gì "Adam Smith" (bút danh của một nhà báo tài chính) viết về Walter trong cuốn *Supermoney* (1972), sau khi Buffett kể với ông về Walter: Schloss không có quan hệ hay đường tiếp cận thông tin hữu ích nào; gần như không ai ở Phố Wall biết ông và cũng không ai cung cấp ý tưởng đầu tư cho ông. Ông tra số liệu trong các sổ tay chứng khoán, xin báo cáo thường niên, và chỉ có thế.
 
-Walter đa dạng hoá rất rộng, hiện giữ hơn 100 cổ phiếu. Ông biết cách nhận ra những cổ phiếu được bán thấp hơn đáng kể so với giá trị của chúng đối với một chủ sở hữu tư nhân, và đó là tất cả những gì ông làm. Ông không lo đó là tháng Một, không lo đó là thứ Hai, không lo đó là năm bầu cử. Ông chỉ nói: nếu một doanh nghiệp đáng 1 USD và tôi mua được với giá 40 cent, điều gì đó tốt đẹp có thể đến với tôi. Ông làm đi làm lại như vậy. Ông nắm nhiều cổ phiếu hơn Buffett rất nhiều và ít quan tâm hơn nhiều tới bản chất kinh doanh của doanh nghiệp. Buffett nói ông không có mấy ảnh hưởng lên Walter; đó là một điểm mạnh của Walter: không ai có nhiều ảnh hưởng lên ông.
+Adam Smith viết thêm rằng khi giới thiệu Schloss, Buffett theo ông cũng đang tự mô tả mình: Schloss không bao giờ quên rằng ông đang quản lý tiền của người khác, và điều này củng cố thêm sự ghét thua lỗ vốn đã mạnh của ông; ông chính trực tuyệt đối và có cái nhìn thực tế về bản thân; tiền đối với ông là thật, cổ phiếu là thật, và từ đó ông bị nguyên tắc "biên an toàn" thu hút.
+
+Walter đa dạng hoá rất rộng, hiện giữ hơn 100 cổ phiếu. Ông biết cách nhận ra những cổ phiếu được bán thấp hơn đáng kể so với giá trị của chúng đối với một chủ sở hữu tư nhân, và đó là tất cả những gì ông làm. Ông không lo đó là tháng Một, không lo đó là thứ Hai, không lo đó là năm bầu cử. Ông chỉ nói: nếu một doanh nghiệp đáng 1 USD và tôi mua được với giá 40 cent, điều gì đó tốt đẹp có thể đến với tôi. Ông làm đi làm lại như vậy.
+
+Ông nắm nhiều cổ phiếu hơn Buffett rất nhiều và ít quan tâm hơn nhiều tới bản chất kinh doanh của doanh nghiệp. Buffett nói ông không có mấy ảnh hưởng lên Walter; đó là một điểm mạnh của Walter: không ai có nhiều ảnh hưởng lên ông.
 
 ### 8. Trường hợp thứ hai: Tom Knapp và Tweedy, Browne (Tableau 2, PDF trang 452)
 
@@ -470,11 +467,15 @@ Buffett nhấn mạnh đây không phải là nhìn lại sau khi đã biết k�
 
 ### 11. Các danh mục gần như không trùng nhau (PDF trang 453)
 
-Buffett nói thêm rằng trong các thành tích đã xem tới đây, suốt cả giai đoạn gần như không có sự trùng lặp giữa các danh mục. Đây là những người chọn cổ phiếu dựa trên chênh lệch giữa giá và giá trị, nhưng họ chọn theo những cách rất khác nhau. Những khoản nắm giữ lớn nhất của Walter là các "trụ cột" như Hudson Pulp & Paper, Jeddo Highland Coal, New York Trap Rock Company, và những cái tên mà Buffett mỉa mai là "ai cũng nghĩ ra ngay, kể cả người thỉnh thoảng mới đọc trang kinh tế" — thực ra là những công ty gần như vô danh. Lựa chọn của Tweedy Browne còn ít tên tuổi hơn nữa. Ngược lại, Ruane làm với các công ty lớn. Mức trùng lặp giữa các danh mục rất, rất thấp. Các thành tích này không phản ánh cảnh một người hô sấp ngửa và 50 người hô theo.
+Buffett nói thêm rằng trong các thành tích đã xem tới đây, suốt cả giai đoạn gần như không có sự trùng lặp giữa các danh mục. Đây là những người chọn cổ phiếu dựa trên chênh lệch giữa giá và giá trị, nhưng họ chọn theo những cách rất khác nhau.
+
+Những khoản nắm giữ lớn nhất của Walter là các "trụ cột" như Hudson Pulp & Paper, Jeddo Highland Coal, New York Trap Rock Company, và những cái tên mà Buffett mỉa mai là "ai cũng nghĩ ra ngay, kể cả người thỉnh thoảng mới đọc trang kinh tế" — thực ra là những công ty gần như vô danh. Lựa chọn của Tweedy Browne còn ít tên tuổi hơn nữa. Ngược lại, Ruane làm với các công ty lớn. Mức trùng lặp giữa các danh mục rất, rất thấp. Các thành tích này không phản ánh cảnh một người hô sấp ngửa và 50 người hô theo.
 
 ### 12. Charlie Munger (Tableau 5, PDF trang 453)
 
-Tableau 5 ("TABLEAU 5 Charles Munger") là thành tích của một người bạn của Buffett, tốt nghiệp luật Harvard và đã lập một hãng luật lớn. Buffett gặp ông khoảng năm 1960 và nói với ông rằng làm luật như một thú vui thì được, nhưng ông có thể làm điều tốt hơn. Người này lập một quỹ hợp danh hoàn toàn ngược với kiểu của Walter: danh mục tập trung vào rất ít cổ phiếu, nên thành tích biến động mạnh hơn nhiều, nhưng dựa trên cùng cách mua dưới giá trị. Ông sẵn sàng chấp nhận những đỉnh và đáy thành tích lớn hơn, và tâm lý của ông vốn nghiêng hẳn về sự tập trung, với kết quả như bảng cho thấy. Buffett tiết lộ: thành tích này là của Charlie Munger, cộng sự lâu năm của ông trong việc điều hành Berkshire Hathaway. Tuy vậy, khi Munger điều hành quỹ hợp danh của mình, danh mục của ông gần như khác hẳn danh mục của Buffett và của những người đã nêu.
+Tableau 5 ("TABLEAU 5 Charles Munger") là thành tích của một người bạn của Buffett, tốt nghiệp luật Harvard và đã lập một hãng luật lớn. Buffett gặp ông khoảng năm 1960 và nói với ông rằng làm luật như một thú vui thì được, nhưng ông có thể làm điều tốt hơn. Người này lập một quỹ hợp danh hoàn toàn ngược với kiểu của Walter: danh mục tập trung vào rất ít cổ phiếu, nên thành tích biến động mạnh hơn nhiều, nhưng dựa trên cùng cách mua dưới giá trị. Ông sẵn sàng chấp nhận những đỉnh và đáy thành tích lớn hơn, và tâm lý của ông vốn nghiêng hẳn về sự tập trung, với kết quả như bảng cho thấy.
+
+Buffett tiết lộ: thành tích này là của Charlie Munger, cộng sự lâu năm của ông trong việc điều hành Berkshire Hathaway. Tuy vậy, khi Munger điều hành quỹ hợp danh của mình, danh mục của ông gần như khác hẳn danh mục của Buffett và của những người đã nêu.
 
 ### 13. Rick Guerin và Pacific Partners (Tableau 6, PDF trang 454)
 
@@ -490,7 +491,9 @@ Quy đổi (phép tính của người tổng hợp, giả định 19 năm từ 
 
 ### 14. Nhận xét bên lề: hiểu ngay hoặc không bao giờ (PDF trang 454)
 
-Buffett nêu một nhận xét bên lề: ông thấy rất lạ là ý tưởng mua tờ 1 USD với giá 40 cent hoặc thấm vào người ta ngay lập tức, hoặc không thấm chút nào. Nó giống như tiêm chủng. Nếu ý tưởng không "bắt" được một người ngay, ông thấy có nói chuyện với người đó nhiều năm và cho xem thành tích cũng chẳng thay đổi gì. Họ dường như không nắm được khái niệm, dù nó đơn giản. Một người như Rick Guerin, không hề được đào tạo bài bản về kinh doanh, hiểu ngay cách đầu tư giá trị và áp dụng nó năm phút sau. Buffett chưa từng thấy ai chuyển dần sang cách tiếp cận này qua một giai đoạn mười năm. Đây có vẻ không phải là vấn đề chỉ số IQ hay học vấn: hoặc nhận ra ngay lập tức, hoặc không có gì.
+Buffett nêu một nhận xét bên lề: ông thấy rất lạ là ý tưởng mua tờ 1 USD với giá 40 cent hoặc thấm vào người ta ngay lập tức, hoặc không thấm chút nào. Nó giống như tiêm chủng. Nếu ý tưởng không "bắt" được một người ngay, ông thấy có nói chuyện với người đó nhiều năm và cho xem thành tích cũng chẳng thay đổi gì. Họ dường như không nắm được khái niệm, dù nó đơn giản.
+
+Một người như Rick Guerin, không hề được đào tạo bài bản về kinh doanh, hiểu ngay cách đầu tư giá trị và áp dụng nó năm phút sau. Buffett chưa từng thấy ai chuyển dần sang cách tiếp cận này qua một giai đoạn mười năm. Đây có vẻ không phải là vấn đề chỉ số IQ hay học vấn: hoặc nhận ra ngay lập tức, hoặc không có gì.
 
 ### 15. Stan Perlmeter (Tableau 7, PDF trang 454)
 
@@ -502,9 +505,13 @@ Perlmeter không nắm những gì Walter Schloss nắm, cũng không nắm nh�
 
 Tableau 8 và Tableau 9 là thành tích của hai quỹ hưu trí mà Buffett có tham gia. Chúng không được chọn ra từ hàng chục quỹ hưu trí ông từng liên quan; đây là hai quỹ duy nhất ông có ảnh hưởng. Trong cả hai trường hợp, ông hướng họ sang các nhà quản lý theo trường phái giá trị. Rất, rất ít quỹ hưu trí được quản lý theo quan điểm giá trị.
 
-**Quỹ hưu trí Washington Post (Tableau 8).** Vài năm trước, quỹ hưu trí của Washington Post Company do một ngân hàng lớn quản lý; Buffett gợi ý rằng họ nên chọn những nhà quản lý có định hướng giá trị. Từ khi thay đổi, nhìn chung quỹ nằm trong nhóm phần trăm (percentile) cao nhất. Tờ Post yêu cầu các nhà quản lý giữ ít nhất 25% quỹ trong trái phiếu, điều mà các nhà quản lý này chưa chắc đã tự chọn. Buffett đưa cả kết quả phần trái phiếu vào bảng chỉ để cho thấy nhóm này không có chuyên môn đặc biệt gì về trái phiếu, và chính họ cũng không nói là có. Dù bị 25% quỹ nằm trong một lĩnh vực không phải sở trường kéo lùi, họ vẫn ở nhóm phần trăm cao nhất trong giới quản lý quỹ. Kinh nghiệm của Washington Post chưa kéo dài lắm, nhưng gồm rất nhiều quyết định đầu tư của ba nhà quản lý không được xác định sau khi biết kết quả.
+**Quỹ hưu trí Washington Post (Tableau 8).** Vài năm trước, quỹ hưu trí của Washington Post Company do một ngân hàng lớn quản lý; Buffett gợi ý rằng họ nên chọn những nhà quản lý có định hướng giá trị. Từ khi thay đổi, nhìn chung quỹ nằm trong nhóm phần trăm (percentile) cao nhất. Tờ Post yêu cầu các nhà quản lý giữ ít nhất 25% quỹ trong trái phiếu, điều mà các nhà quản lý này chưa chắc đã tự chọn.
 
-**Quỹ hưu trí FMC Corporation (Tableau 9).** Buffett không tự quản lý đồng nào của quỹ này, nhưng năm 1974 ông đã tác động tới quyết định của FMC chọn các nhà quản lý theo trường phái giá trị. Trước đó, họ chọn nhà quản lý giống như phần lớn các công ty lớn. Từ khi "chuyển đạo" sang cách tiếp cận giá trị, quỹ đứng đầu khảo sát Becker về các quỹ hưu trí cùng quy mô. Năm trước đó, quỹ có tám nhà quản lý cổ phiếu đã làm việc hơn một năm; bảy người có thành tích lũy kế tốt hơn S&P, và cả tám người có kết quả năm trước tốt hơn S&P. Chênh lệch ròng giữa kết quả trung vị và kết quả thực tế của quỹ FMC trong giai đoạn đó là 243 triệu USD. FMC quy kết quả này cho cách nghĩ mà họ được truyền về việc chọn nhà quản lý. Các nhà quản lý này chưa chắc là những người Buffett sẽ chọn, nhưng họ có mẫu số chung là chọn chứng khoán dựa trên giá trị.
+Buffett đưa cả kết quả phần trái phiếu vào bảng chỉ để cho thấy nhóm này không có chuyên môn đặc biệt gì về trái phiếu, và chính họ cũng không nói là có. Dù bị 25% quỹ nằm trong một lĩnh vực không phải sở trường kéo lùi, họ vẫn ở nhóm phần trăm cao nhất trong giới quản lý quỹ. Kinh nghiệm của Washington Post chưa kéo dài lắm, nhưng gồm rất nhiều quyết định đầu tư của ba nhà quản lý không được xác định sau khi biết kết quả.
+
+**Quỹ hưu trí FMC Corporation (Tableau 9).** Buffett không tự quản lý đồng nào của quỹ này, nhưng năm 1974 ông đã tác động tới quyết định của FMC chọn các nhà quản lý theo trường phái giá trị. Trước đó, họ chọn nhà quản lý giống như phần lớn các công ty lớn. Từ khi "chuyển đạo" sang cách tiếp cận giá trị, quỹ đứng đầu khảo sát Becker về các quỹ hưu trí cùng quy mô.
+
+Năm trước đó, quỹ có tám nhà quản lý cổ phiếu đã làm việc hơn một năm; bảy người có thành tích lũy kế tốt hơn S&P, và cả tám người có kết quả năm trước tốt hơn S&P. Chênh lệch ròng giữa kết quả trung vị và kết quả thực tế của quỹ FMC trong giai đoạn đó là 243 triệu USD. FMC quy kết quả này cho cách nghĩ mà họ được truyền về việc chọn nhà quản lý. Các nhà quản lý này chưa chắc là những người Buffett sẽ chọn, nhưng họ có mẫu số chung là chọn chứng khoán dựa trên giá trị.
 
 ### 17. Tổng kết chín thành tích (PDF trang 455–456)
 
@@ -524,7 +531,9 @@ Với đầu tư giá trị thì ngược lại. Nếu bạn mua tờ 1 USD vớ
 
 Ví dụ nhanh: năm 1973, Washington Post Company được bán trên thị trường với tổng giá 80 triệu USD. Vào thời điểm đó, ngay hôm đó, có thể bán tài sản của công ty cho một trong mười người mua với giá không dưới 400 triệu USD, có lẽ còn cao hơn nhiều. Công ty sở hữu tờ *Post*, tạp chí *Newsweek* và vài đài truyền hình ở các thị trường lớn. Năm 1984 chính những tài sản đó đáng 2 tỷ USD, nên người trả 400 triệu USD hồi đó cũng không hề điên.
 
-Giờ giả sử cổ phiếu giảm tiếp tới mức cả công ty chỉ được định giá 40 triệu USD thay vì 80 triệu USD. Hệ số bêta của nó sẽ cao hơn, và với những người cho rằng bêta đo rủi ro, mức giá thấp hơn đó sẽ khiến khoản đầu tư rủi ro hơn. Buffett gọi đó đúng là chuyện "Alice ở xứ sở thần tiên": ông chưa bao giờ hiểu nổi vì sao mua 400 triệu USD tài sản với giá 40 triệu USD lại rủi ro hơn mua với giá 80 triệu USD. Thực ra, nếu bạn mua một nhóm những chứng khoán như vậy và biết chút ít về định giá doanh nghiệp, thì về cơ bản không có rủi ro gì khi mua 400 triệu USD tài sản với 80 triệu USD, nhất là nếu bạn làm bằng cách mua mười "đống" tài sản 40 triệu USD với giá 8 triệu USD mỗi đống. Vì bạn không trực tiếp nắm 400 triệu USD tài sản đó, bạn cần chắc rằng ban điều hành trung thực và có năng lực vừa phải, nhưng việc đó không khó.
+Giờ giả sử cổ phiếu giảm tiếp tới mức cả công ty chỉ được định giá 40 triệu USD thay vì 80 triệu USD. Hệ số bêta của nó sẽ cao hơn, và với những người cho rằng bêta đo rủi ro, mức giá thấp hơn đó sẽ khiến khoản đầu tư rủi ro hơn. Buffett gọi đó đúng là chuyện "Alice ở xứ sở thần tiên": ông chưa bao giờ hiểu nổi vì sao mua 400 triệu USD tài sản với giá 40 triệu USD lại rủi ro hơn mua với giá 80 triệu USD.
+
+Thực ra, nếu bạn mua một nhóm những chứng khoán như vậy và biết chút ít về định giá doanh nghiệp, thì về cơ bản không có rủi ro gì khi mua 400 triệu USD tài sản với 80 triệu USD, nhất là nếu bạn làm bằng cách mua mười "đống" tài sản 40 triệu USD với giá 8 triệu USD mỗi đống. Vì bạn không trực tiếp nắm 400 triệu USD tài sản đó, bạn cần chắc rằng ban điều hành trung thực và có năng lực vừa phải, nhưng việc đó không khó.
 
 Bảng tóm tắt ví dụ (số liệu theo lời văn, đơn vị: triệu USD):
 
@@ -541,11 +550,13 @@ Bạn cũng cần đủ hiểu biết để ước tính một cách rất đạ
 
 ### 21. Kết luận: vì sao công bố "bí mật" (En conclusion, PDF trang 457)
 
-Để kết luận, Buffett đoán một số người có đầu óc kinh doanh sẽ hỏi vì sao ông viết bài này: thêm nhiều người theo cách tiếp cận giá trị chắc chắn sẽ làm thu hẹp khoảng cách giữa giá và giá trị. Ông chỉ có thể trả lời rằng bí mật này đã có 50 năm, kể từ khi Ben Graham và Dave Dodd viết *Security Analysis*, vậy mà trong 35 năm thực hành đầu tư giá trị, ông không thấy xu hướng nào đổ xô sang cách đầu tư này. Dường như con người có một đặc tính trái khoáy là thích biến việc dễ thành việc khó. Giới học thuật, nếu có thay đổi gì, thì đã thật sự rời xa việc dạy đầu tư giá trị trong 30 năm qua, và có lẽ sẽ tiếp tục như vậy. Tàu bè vẫn đi vòng quanh thế giới, nhưng Hội Trái Đất Phẳng vẫn thịnh vượng. Trên thị trường sẽ luôn có những khoảng cách lớn giữa giá và giá trị, và những ai đọc Graham & Dodd sẽ tiếp tục thịnh vượng.
+Để kết luận, Buffett đoán một số người có đầu óc kinh doanh sẽ hỏi vì sao ông viết bài này: thêm nhiều người theo cách tiếp cận giá trị chắc chắn sẽ làm thu hẹp khoảng cách giữa giá và giá trị. Ông chỉ có thể trả lời rằng bí mật này đã có 50 năm, kể từ khi Ben Graham và Dave Dodd viết *Security Analysis*, vậy mà trong 35 năm thực hành đầu tư giá trị, ông không thấy xu hướng nào đổ xô sang cách đầu tư này.
+
+Dường như con người có một đặc tính trái khoáy là thích biến việc dễ thành việc khó. Giới học thuật, nếu có thay đổi gì, thì đã thật sự rời xa việc dạy đầu tư giá trị trong 30 năm qua, và có lẽ sẽ tiếp tục như vậy. Tàu bè vẫn đi vòng quanh thế giới, nhưng Hội Trái Đất Phẳng vẫn thịnh vượng. Trên thị trường sẽ luôn có những khoảng cách lớn giữa giá và giá trị, và những ai đọc Graham & Dodd sẽ tiếp tục thịnh vượng.
 
 ### 22. Chín bảng thành tích ("Les tableaux 1 à 9 suivent", PDF trang 458–462)
 
-Bản PDF ghi "Các bảng 1 đến 9 như sau" nhưng chỉ còn tiêu đề của Tableaux 2–6 và khoảng trắng; số liệu của cả chín bảng không có (xem khối Lưu ý). Bảng dưới đây gom mọi thông tin về chín thành tích mà Buffett nêu trong lời văn, thay cho chín bảng bị mất.
+Bản PDF ghi "Các bảng 1 đến 9 như sau" nhưng chỉ còn tiêu đề của Tableaux 2–6 và khoảng trắng; số liệu của cả chín bảng không có (xem mục Lưu ý cuối phụ lục). Bảng dưới đây gom mọi thông tin về chín thành tích mà Buffett nêu trong lời văn, thay cho chín bảng bị mất.
 
 **Chín thành tích "Graham-và-Doddsville" theo lời văn của Buffett (thay cho Tableaux 1–9 bị mất)**
 
@@ -577,7 +588,9 @@ Những nhà đầu tư cùng học một khung tư duy của Graham và Dodd �
 
 ### Cơ chế
 
-Nhà đầu tư giá trị ước tính đại khái giá trị doanh nghiệp, rồi chỉ mua khi giá thấp hơn nhiều (ví dụ 40 cent cho 1 USD giá trị, hay 80 triệu USD cho 400 triệu USD tài sản). Vì giá thị trường thường vô lý, những cơ hội như vậy liên tục xuất hiện. Khoảng chênh lớn vừa là nguồn lợi nhuận (giá dần tiến về giá trị, hoặc giá trị tăng như tài sản của Washington Post tăng lên 2 tỷ USD), vừa là biên an toàn chống lại sai sót trong ước tính (như cây cầu chịu 30.000 pound chỉ cho xe 10.000 pound qua). Do đó giá càng thấp so với giá trị, lợi nhuận kỳ vọng càng cao và rủi ro càng thấp, trái với quan niệm dùng bêta. Quy mô vốn lớn làm giảm phần vượt trội vì cơ hội đủ lớn hiếm hơn.
+Nhà đầu tư giá trị ước tính đại khái giá trị doanh nghiệp, rồi chỉ mua khi giá thấp hơn nhiều (ví dụ 40 cent cho 1 USD giá trị, hay 80 triệu USD cho 400 triệu USD tài sản). Vì giá thị trường thường vô lý, những cơ hội như vậy liên tục xuất hiện. Khoảng chênh lớn vừa là nguồn lợi nhuận (giá dần tiến về giá trị, hoặc giá trị tăng như tài sản của Washington Post tăng lên 2 tỷ USD), vừa là biên an toàn chống lại sai sót trong ước tính (như cây cầu chịu 30.000 pound chỉ cho xe 10.000 pound qua).
+
+Do đó giá càng thấp so với giá trị, lợi nhuận kỳ vọng càng cao và rủi ro càng thấp, trái với quan niệm dùng bêta. Quy mô vốn lớn làm giảm phần vượt trội vì cơ hội đủ lớn hiếm hơn.
 
 ### Bằng chứng và ví dụ Buffett đưa ra
 
@@ -599,7 +612,9 @@ Nhà đầu tư giá trị ước tính đại khái giá trị doanh nghiệp, 
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Bài là lời phản biện thực nghiệm đối với dạng mạnh của giả thuyết thị trường hiệu quả (efficient market hypothesis): Buffett dùng lập luận thống kê về sự tập trung của lợi nhuận vượt trội (alpha) trong một nhóm có chung phương pháp, đồng thời kiểm soát thiên lệch người sống sót (survivorship bias) và thiên lệch chọn sau (hindsight/selection bias) bằng cách chỉ dùng các nhà quản lý được xác định trước và có thành tích kiểm toán. Ông bác bỏ việc dùng bêta (độ biến động tương đối so với thị trường) làm thước đo rủi ro, thay bằng một khái niệm rủi ro dựa trên giá trị: rủi ro là khả năng mất vốn vĩnh viễn, và nó giảm khi chênh lệch giữa giá trị nội tại và giá mua (biên an toàn) tăng. Bài cũng nêu sớm vấn đề khả năng mở rộng (capacity constraint): quy mô tài sản quản lý lớn làm giảm lợi nhuận vượt trội. Phép tính của người tổng hợp: +22.200% trong 19 năm tương đương lợi nhuận kép khoảng 32,9% mỗi năm so với khoảng 7,8% mỗi năm của S&P 500, tức vượt khoảng 25 điểm phần trăm mỗi năm.
+Bài là lời phản biện thực nghiệm đối với dạng mạnh của giả thuyết thị trường hiệu quả (efficient market hypothesis): Buffett dùng lập luận thống kê về sự tập trung của lợi nhuận vượt trội (alpha) trong một nhóm có chung phương pháp, đồng thời kiểm soát thiên lệch người sống sót (survivorship bias) và thiên lệch chọn sau (hindsight/selection bias) bằng cách chỉ dùng các nhà quản lý được xác định trước và có thành tích kiểm toán.
+
+Ông bác bỏ việc dùng bêta (độ biến động tương đối so với thị trường) làm thước đo rủi ro, thay bằng một khái niệm rủi ro dựa trên giá trị: rủi ro là khả năng mất vốn vĩnh viễn, và nó giảm khi chênh lệch giữa giá trị nội tại và giá mua (biên an toàn) tăng. Bài cũng nêu sớm vấn đề khả năng mở rộng (capacity constraint): quy mô tài sản quản lý lớn làm giảm lợi nhuận vượt trội. Phép tính của người tổng hợp: +22.200% trong 19 năm tương đương lợi nhuận kép khoảng 32,9% mỗi năm so với khoảng 7,8% mỗi năm của S&P 500, tức vượt khoảng 25 điểm phần trăm mỗi năm.
 
 ## Thuật ngữ
 
@@ -681,7 +696,9 @@ Buffett coi rủi ro là khả năng mất tiền thật so với giá trị nh�
 
 ### Quan điểm trái chiều: bằng chứng vẫn là một nhóm nhỏ do chính người được lợi lựa chọn
 
-Phe ủng hộ thị trường hiệu quả có thể phản bác rằng chín thành tích do chính Buffett, một thành viên của nhóm, chọn và trình bày; rằng Buffett Partnership và Munger nằm trong danh sách; và rằng người ta không biết có bao nhiêu học trò khác của Graham và Dodd đã đạt kết quả bình thường. Buffett trả lời một phần bằng điều kiện "xác định trước" và bằng việc nhóm Graham-Newman chỉ có bốn người, nhưng với Munger, Guerin, Perlmeter thì chính Buffett là người truyền ý tưởng, nên tính độc lập yếu hơn. Theo hiểu biết của người tổng hợp, các nghiên cứu học thuật sau này ghi nhận rằng cổ phiếu có giá thấp so với giá trị sổ sách hay lợi nhuận có lợi nhuận cao hơn trong dài hạn, nhưng giới học thuật thường giải thích phần này là bù đắp cho một loại rủi ro chứ không phải bằng chứng thị trường không hiệu quả.
+Phe ủng hộ thị trường hiệu quả có thể phản bác rằng chín thành tích do chính Buffett, một thành viên của nhóm, chọn và trình bày; rằng Buffett Partnership và Munger nằm trong danh sách; và rằng người ta không biết có bao nhiêu học trò khác của Graham và Dodd đã đạt kết quả bình thường. Buffett trả lời một phần bằng điều kiện "xác định trước" và bằng việc nhóm Graham-Newman chỉ có bốn người, nhưng với Munger, Guerin, Perlmeter thì chính Buffett là người truyền ý tưởng, nên tính độc lập yếu hơn.
+
+Theo hiểu biết của người tổng hợp, các nghiên cứu học thuật sau này ghi nhận rằng cổ phiếu có giá thấp so với giá trị sổ sách hay lợi nhuận có lợi nhuận cao hơn trong dài hạn, nhưng giới học thuật thường giải thích phần này là bù đắp cho một loại rủi ro chứ không phải bằng chứng thị trường không hiệu quả.
 
 ### Cảnh báo về quy mô vốn đã được chứng minh qua chính Berkshire Hathaway và nhiều quỹ giá trị sau này
 
@@ -689,8 +706,218 @@ Buffett nói "quy mô là cái neo kéo lùi thành tích", và ví dụ cực �
 
 ### Điều xảy ra sau năm 2003: quỹ chỉ số trở nên phổ biến và trường phái giá trị có một thập niên khó khăn
 
-Theo hiểu biết của người tổng hợp, không tra cứu: sau năm 2003, quỹ chỉ số và ETF chi phí thấp trở thành lựa chọn chính của nhiều nhà đầu tư cá nhân; chính Buffett khuyên phần lớn người không chuyên nên mua quỹ chỉ số S&P 500 và từng thắng một vụ cược mười năm rằng quỹ chỉ số sẽ hơn một nhóm quỹ phòng hộ. Trong khoảng thập niên 2010, cổ phiếu "giá trị" theo định nghĩa đơn giản (giá thấp so với giá trị sổ sách) thua cổ phiếu tăng trưởng trong thời gian dài, khi lãi suất gần bằng không. Điều này không bác bỏ bài của Buffett: bài nói về số ít người có khung tư duy và tính khí phù hợp, và giá trị theo nghĩa của Buffett (giá trị doanh nghiệp so với giá) rộng hơn nhiều so với một chỉ số "giá trị" cơ học. Nhưng nó nhắc rằng khoảng cách giữa giá và giá trị có thể kéo dài rất lâu trước khi khép lại.
+Theo hiểu biết của người tổng hợp, không tra cứu: sau năm 2003, quỹ chỉ số và ETF chi phí thấp trở thành lựa chọn chính của nhiều nhà đầu tư cá nhân; chính Buffett khuyên phần lớn người không chuyên nên mua quỹ chỉ số S&P 500 và từng thắng một vụ cược mười năm rằng quỹ chỉ số sẽ hơn một nhóm quỹ phòng hộ.
+
+Trong khoảng thập niên 2010, cổ phiếu "giá trị" theo định nghĩa đơn giản (giá thấp so với giá trị sổ sách) thua cổ phiếu tăng trưởng trong thời gian dài, khi lãi suất gần bằng không. Điều này không bác bỏ bài của Buffett: bài nói về số ít người có khung tư duy và tính khí phù hợp, và giá trị theo nghĩa của Buffett (giá trị doanh nghiệp so với giá) rộng hơn nhiều so với một chỉ số "giá trị" cơ học. Nhưng nó nhắc rằng khoảng cách giữa giá và giá trị có thể kéo dài rất lâu trước khi khép lại.
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Từ bài này, nhà đầu tư cá nhân có thể rút ra: (1) chỉ mua khi tự trả lời được "doanh nghiệp này đáng bao nhiêu" và giá thấp hơn rõ ràng, không mua sát giá trị ước tính; (2) bỏ qua tin đồn, đồ thị giá ngắn hạn và dự báo lợi nhuận quý khi quyết định mua; (3) khi chọn người quản lý tiền, xem họ có một phương pháp rõ ràng được giữ qua nhiều năm và thành tích có kiểm toán, cẩn thận với những "người thắng" vừa nổi lên sau một giai đoạn tăng giá; (4) nhận thức rằng nếu ý tưởng "mua 1 đồng với giá 40 xu" không hợp với tính khí của mình, thì quỹ chỉ số chi phí thấp có thể là lựa chọn hợp lý hơn. Ở thị trường mới nổi như Việt Nam, nơi nhiều doanh nghiệp nhỏ ít được phân tích và tâm lý đám đông mạnh, khoảng cách giữa giá và giá trị có thể lớn hơn — nhưng điều kiện "ban điều hành trung thực và có năng lực vừa phải" mà Buffett nêu cũng càng cần kiểm tra kỹ (nhận định định tính của người tổng hợp, không dựa trên số liệu).
+Từ bài này, nhà đầu tư cá nhân có thể rút ra:
+
+- chỉ mua khi tự trả lời được "doanh nghiệp này đáng bao nhiêu" và giá thấp hơn rõ ràng, không mua sát giá trị ước tính;
+- bỏ qua tin đồn, đồ thị giá ngắn hạn và dự báo lợi nhuận quý khi quyết định mua;
+- khi chọn người quản lý tiền, xem họ có một phương pháp rõ ràng được giữ qua nhiều năm và thành tích có kiểm toán, cẩn thận với những "người thắng" vừa nổi lên sau một giai đoạn tăng giá;
+- nhận thức rằng nếu ý tưởng "mua 1 đồng với giá 40 xu" không hợp với tính khí của mình, thì quỹ chỉ số chi phí thấp có thể là lựa chọn hợp lý hơn.
+
+Ở thị trường mới nổi như Việt Nam, nơi nhiều doanh nghiệp nhỏ ít được phân tích và tâm lý đám đông mạnh, khoảng cách giữa giá và giá trị có thể lớn hơn — nhưng điều kiện "ban điều hành trung thực và có năng lực vừa phải" mà Buffett nêu cũng càng cần kiểm tra kỹ (nhận định định tính của người tổng hợp, không dựa trên số liệu).
+
+## Bản đồ tư duy
+
+Toàn cảnh Phụ lục 1 trên một trang: sáu nhánh lớn đi theo các mục 1–22 trong phần Nội dung chi tiết và phần Đánh giá (phép thử tung đồng xu và nguồn gốc trí tuệ, chủ đề chung giá và giá trị, ba người Graham-Newman cùng Sequoia, Munger, Guerin, Perlmeter và hai quỹ hưu trí, rủi ro và biên an toàn qua ví dụ Washington Post, lời kết và giới hạn của bằng chứng), mỗi nhánh ghi lập luận, nguyên tắc và con số then chốt của Buffett; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phụ lục 1: những người học khung tư duy Graham và Dodd thắng thị trường liên tục, và sự tập trung đó không thể là may mắn`"]
+  n1["`Mục 1–5 — Phép thử tung đồng xu: may mắn chỉ bị loại khi người thắng tập trung bất thường`"]
+  n0 --- n1
+  n2["`Bài nói tại Đại học Columbia năm 1984, kỷ niệm 50 năm Security Analysis của Graham và Dodd`"]
+  n1 --- n2
+  n3["`Giáo trình năm 1984: thị trường hiệu quả, không có cổ phiếu định giá thấp, ai thắng chỉ là gặp may`"]
+  n1 --- n3
+  n4["`Ba điều kiện của Buffett: xác định người giỏi từ trước, không lục hàng nghìn hồ sơ, thành tích đã kiểm toán`"]
+  n1 --- n4
+  n5["`225 triệu người Mỹ tung đồng xu: sau 10 sáng còn khoảng 220.000 người, mỗi người hơn 1.000 USD`"]
+  n1 --- n5
+  n6["`Sau 20 sáng còn khoảng 215 người, 1 USD thành hơn 1 triệu USD`"]
+  n5 --- n6
+  n7["`225 triệu con đười ươi cũng cho ra khoảng 215 con thắng 20 lần liên tiếp`"]
+  n5 --- n7
+  n8["`40 trong 215 con thắng đến từ cùng một vườn thú ở Omaha thì phải hỏi người trông thú cho ăn gì`"]
+  n1 --- n8
+  n9["`400 trong 1.500 ca ung thư hiếm ở một thị trấn mỏ Montana: chưa biết nguyên nhân nhưng biết tìm ở đâu`"]
+  n1 --- n9
+  n10["`Nguồn gốc trí tuệ: số người thắng không cân xứng đến từ làng Graham-và-Doddsville`"]
+  n1 --- n10
+  n11["`Tập trung vô nghĩa nếu 100 người chỉ hô theo một thủ lĩnh`"]
+  n10 --- n11
+  n12["`Hoặc 215 người thắng chỉ là 21,5 gia đình 10 người hô theo người cha`"]
+  n10 --- n12
+  n13["`Graham chỉ đưa lý thuyết ra quyết định, mỗi học trò tự mua bán cổ phiếu khác nhau`"]
+  n10 --- n13
+  n14["`Mục 6 — Chủ đề chung: chỉ xét hai biến là giá và giá trị`"]
+  n0 --- n14
+  n15["`Tìm và khai thác chênh lệch giữa giá trị doanh nghiệp và giá của những mẩu nhỏ của nó trên thị trường`"]
+  n14 --- n15
+  n16["`Người mua cả doanh nghiệp không chọn thứ Hai hay thứ Năm, tháng Một hay tháng Bảy`"]
+  n14 --- n16
+  n17["`Không bàn hệ số bêta, CAPM, hiệp phương sai, phần lớn khó định nghĩa được các thuật ngữ đó`"]
+  n14 --- n17
+  n18["`Phê phán phân tích kỹ thuật: ai lại mua cả doanh nghiệp vì giá tăng mạnh hai tuần qua?`"]
+  n14 --- n18
+  n19["`Nghiên cứu giá và khối lượng nhiều vì dữ liệu dồi dào thời máy tính, không vì hữu ích`"]
+  n14 --- n19
+  n20["`#quot;Với người cầm búa, cái gì cũng giống cái đinh#quot;`"]
+  n19 --- n20
+  n21["`Chưa ai nghiên cứu phương pháp của nhóm người thắng tập trung theo trường phái giá trị`"]
+  n14 --- n21
+  n22["`Mục 7–11 — Ba người Graham-Newman và Sequoia: cùng nguyên tắc, danh mục khác nhau`"]
+  n0 --- n22
+  n23["`Graham-Newman 1954–1956 chỉ có bốn nhân viên thường, truy được thành tích của ba người`"]
+  n22 --- n23
+  n24["`Graham từ chối nhận Buffett làm không lương vì cho rằng Buffett #quot;bị định giá quá cao#quot;`"]
+  n22 --- n24
+  n25["`Walter Schloss: không học đại học, thành tích 28 năm, hơn 100 cổ phiếu`"]
+  n22 --- n25
+  n26["`Doanh nghiệp đáng 1 USD mà mua được với giá 40 cent thì điều tốt đẹp có thể đến`"]
+  n25 --- n26
+  n27["`Không ai mớm ý tưởng, chỉ tra sổ tay chứng khoán và báo cáo thường niên`"]
+  n25 --- n27
+  n28["`Tweedy, Browne (Tom Knapp, Ed Anderson) từ 1968: đa dạng hoá rất rộng`"]
+  n22 --- n28
+  n29["`Đầu tư thụ động cho kết quả ngang đầu tư mua quyền kiểm soát`"]
+  n28 --- n29
+  n30["`Buffett Partnership 1957–1969, Berkshire Hathaway phần nào nối tiếp, kết quả #quot;đáng hài lòng#quot;`"]
+  n22 --- n30
+  n31["`Sequoia Fund (Bill Ruane) lập năm 1970, rơi ngay vào thị trường hai tầng, thành viên vẫn góp thêm tiền`"]
+  n22 --- n31
+  n32["`Ruane là người duy nhất Buffett giới thiệu, mốc đặt trước: hơn S#amp;P 4 điểm phần trăm mỗi năm`"]
+  n31 --- n32
+  n33["`Quy mô là cái neo kéo lùi thành tích: quản lý 2.000 tỷ USD thì không thể hơn trung bình`"]
+  n31 --- n33
+  n34["`Danh mục gần như không trùng: Schloss mua công ty vô danh, Tweedy Browne còn vô danh hơn, Ruane mua công ty lớn`"]
+  n22 --- n34
+  n35["`Mục 12–16 — Munger, Guerin, Perlmeter và hai quỹ hưu trí`"]
+  n0 --- n35
+  n36["`Charlie Munger (luật Harvard): danh mục tập trung vào rất ít cổ phiếu, biến động mạnh hơn nhiều`"]
+  n35 --- n36
+  n37["`Rick Guerin (toán USC, bán hàng IBM): 1965–1983 lãi lũy kế 22.200%, S#amp;P 500 tăng 316%`"]
+  n35 --- n37
+  n38["`Quy đổi 19 năm: khoảng 32,9% mỗi năm so với khoảng 7,8% (phép tính của người tổng hợp)`"]
+  n37 --- n38
+  n39["`Mua 1 USD với giá 40 cent: hiểu ngay hoặc không bao giờ, không phụ thuộc IQ hay bằng cấp`"]
+  n35 --- n39
+  n40["`Stan Perlmeter bỏ nghề quảng cáo năm 1965, chỉ hỏi doanh nghiệp này đáng giá bao nhiêu`"]
+  n35 --- n40
+  n41["`Quỹ hưu trí Washington Post: nhóm phần trăm cao nhất dù buộc giữ ít nhất 25% trái phiếu`"]
+  n35 --- n41
+  n42["`Quỹ hưu trí FMC từ 1974: đứng đầu khảo sát Becker, hơn mức trung vị 243 triệu USD`"]
+  n35 --- n42
+  n43["`7 trong 8 nhà quản lý hơn S#amp;P lũy kế, cả 8 hơn S#amp;P năm trước`"]
+  n42 --- n43
+  n44["`Mục 17–20 — Với nhà đầu tư giá trị, mua rẻ hơn là rủi ro thấp hơn`"]
+  n0 --- n44
+  n45["`Chín thành tích được chọn từ nhiều năm trước theo khung quyết định, không như đọc tên người trúng xổ số`"]
+  n44 --- n45
+  n46["`Nhóm chịu rủi ro thấp hơn trung bình: xem kết quả của họ trong những năm thị trường yếu`"]
+  n44 --- n46
+  n47["`Họ luôn mua doanh nghiệp, không mua mã cổ phiếu, dù giữ vài chục hay chỉ một nhúm cổ phiếu`"]
+  n44 --- n47
+  n48["`Giá ở biên do người xúc động, tham lam hay chán nản nhất trong bầy đàn quyết định, nên thường vô lý`"]
+  n44 --- n48
+  n49["`Cò quay Nga: bóp cò một lần lấy 1 triệu USD, hai lần lấy 5 triệu USD, rủi ro và phần thưởng cùng chiều`"]
+  n44 --- n49
+  n50["`Đầu tư giá trị ngược lại: mua 1 USD với 40 cent ít rủi ro hơn mà lời nhiều hơn mua với 60 cent`"]
+  n44 --- n50
+  n51["`Washington Post 1973: thị trường định giá 80 triệu USD, tài sản bán được ít nhất 400 triệu USD`"]
+  n44 --- n51
+  n52["`Năm 1984 các tài sản đó (báo Post, Newsweek, đài truyền hình) đáng 2 tỷ USD`"]
+  n51 --- n52
+  n53["`Giá rơi xuống 40 triệu USD thì bêta tăng và lý thuyết gọi là rủi ro hơn: #quot;Alice ở xứ sở thần tiên#quot;`"]
+  n51 --- n53
+  n54["`Mười đống tài sản 40 triệu USD, mỗi đống giá 8 triệu USD: gần như không rủi ro nếu ban điều hành trung thực`"]
+  n51 --- n54
+  n55["`Biên an toàn: ước giá trị đại khái nhưng không trả 80 triệu USD cho doanh nghiệp đáng 83 triệu USD`"]
+  n44 --- n55
+  n56["`Như cầu chịu 30.000 pound chỉ cho xe 10.000 pound đi qua`"]
+  n55 --- n56
+  n57["`Mục 21–22 và Đánh giá — Vì sao công bố bí mật, và giới hạn của bằng chứng`"]
+  n0 --- n57
+  n58["`Bí mật đã công khai 50 năm, 35 năm Buffett không thấy ai đổ xô sang đầu tư giá trị`"]
+  n57 --- n58
+  n59["`Con người thích biến việc dễ thành khó, giới học thuật 30 năm qua rời xa việc dạy đầu tư giá trị`"]
+  n57 --- n59
+  n60["`#quot;Tàu vẫn đi vòng quanh thế giới, nhưng Hội Trái Đất Phẳng vẫn thịnh vượng#quot;`"]
+  n57 --- n60
+  n61["`Bản Pháp mất cả chín bảng, chỉ còn số của Guerin và 243 triệu USD của FMC`"]
+  n57 --- n61
+  n62["`Phản bác: chín thành tích do chính Buffett chọn, với Munger, Guerin, Perlmeter tính độc lập yếu hơn`"]
+  n57 --- n62
+  n63["`Sau này chính Buffett khuyên người không chuyên mua quỹ chỉ số S#amp;P 500 chi phí thấp`"]
+  n57 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Coi cổ phiếu là một phần doanh nghiệp, chỉ hỏi đáng giá bao nhiêu và giá là bao nhiêu`"]
+  n64 --- n65
+  n66["`Giá giảm mạnh so với giá trị là cơ hội, không phải dấu hiệu rủi ro tăng`"]
+  n64 --- n66
+  n67["`Thành tích chỉ là bằng chứng khi được xác định trước, kiểm toán và ra quyết định độc lập`"]
+  n64 --- n67
+  n68["`Khoảng cách giữa giá và giá trị sẽ còn, và người đọc Graham #amp; Dodd sẽ tiếp tục thịnh vượng`"]
+  n64 --- n68
+  class n0 root
+  class n1,n14,n22,n35,n44,n57,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Phụ lục 1 "Les superinvestisseurs de Graham-et-Doddsville, par Warren E. Buffett" (PDF trang 446–463: lời văn ở trang 446–457; trang 458–462 là chỗ dành cho Tableaux 1–9; trang 463 kết thúc trước Phụ lục 2).
+
+## Tác giả
+
+Warren E. Buffett (sinh 1930), học trò của Graham ở Đại học Columbia (1950–1951), nhân viên của quỹ Graham-Newman (1954–1956), người điều hành Buffett Partnership (1957–1969) rồi Berkshire Hathaway. Bài là bản ghi đã biên tập của bài nói tại Đại học Columbia năm 1984, nhân kỷ niệm 50 năm cuốn *Security Analysis* (Phân tích chứng khoán) của Benjamin Graham và David L. Dodd. Lời giới thiệu đầu bài là của ban biên tập (nhà xuất bản). Phụ lục này không có bình luận của Jason Zweig và không có chú thích của Graham hay Zweig.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phụ lục 1 đứng ngay sau Lời bạt và phần bình luận Lời bạt của Zweig (xem [PS-loi-bat.md](PS-loi-bat.md)), và là bằng chứng thực nghiệm cho toàn bộ cuốn sách. Trong 20 chương, Graham dạy hai ý cốt lõi: coi cổ phiếu là một phần doanh nghiệp và lợi dụng biến động giá của "ông Thị Trường" (Mr. Market) thay vì bị nó dắt mũi (Chương 8, xem [C08-nha-dau-tu-va-bien-dong-thi-truong.md](C08-nha-dau-tu-va-bien-dong-thi-truong.md)); và luôn đòi hỏi biên an toàn (Chương 20, xem [C20-bien-an-toan.md](C20-bien-an-toan.md)).
+
+Buffett, người mà trong Lời tựa (xem [00-loi-tua-va-ghi-chu-ve-graham.md](00-loi-tua-va-ghi-chu-ve-graham.md)) gọi đây là cuốn sách đầu tư hay nhất, ở đây trả lời câu hỏi mà giới học thuật đặt ra: nếu thị trường hiệu quả thì những người làm theo Graham thắng thị trường chỉ là nhờ may mắn? Bằng chín thành tích của những người "đến từ" cùng một "làng trí tuệ", Buffett lập luận rằng không thể giải thích kết quả đó bằng may mắn.
+
+Phụ lục 2 và các phụ lục sau chuyển sang các chủ đề kỹ thuật (thuế, đầu cơ mới, các trường hợp cụ thể; xem [PL2-7-cac-phu-luc-khac.md](PL2-7-cac-phu-luc-khac.md)).
+
+## Lưu ý
+
+- **Chín bảng kết quả bị mất trong bản PDF.** Lời văn dẫn tới Tableaux 1–9, và PDF trang 458 ghi "Les tableaux 1 à 9 suivent:" (Các bảng 1 đến 9 như sau), nhưng các trang 458–462 chỉ còn dòng tiêu đề của năm bảng ("TABLEAU 2 Tweedy, Browne Inc.", "TABLEAU 3 Buffett Partnership, Ltd", "TABLEAU 4 Sequoia Fund, Inc.", "TABLEAU 5 Charles Munger", "TABLEAU 6 Pacific Partners, Ltd.") và khoảng trắng; tiêu đề của Tableaux 1, 7, 8 và 9 cũng không có; trang 461–462 trắng hoàn toàn, trang 463 trắng ở nửa trên. Đã xem ảnh trang và kiểm tra trực tiếp tệp PDF: các trang này không chứa hình ảnh nhúng nào, tức là bảng đã bị bỏ khi dịch hoặc xuất tệp, không phải do lỗi kết xuất ảnh.
+
+  Vì vậy **không thể chép số liệu từng năm và không thể kiểm tra số tổng của các bảng**. Bản tổng hợp không dựng lại các bảng từ trí nhớ; thay vào đó, mọi thông tin mà Buffett nêu trong lời văn về từng nhà đầu tư (thời kỳ, phong cách, con số) được gom thành một bảng, ghi rõ là lấy từ lời văn.
+
+  Theo hiểu biết của người tổng hợp, không tra cứu: trong bản tiếng Anh, mỗi bảng so sánh lợi nhuận từng năm của nhà đầu tư với chỉ số S&P 500 hoặc chỉ số Dow Jones, kèm lợi nhuận lũy kế và lợi nhuận kép bình quân năm.
+- **Dẫn trang của bản tiếng Anh:** "voir tableau 1, pages 549–550" là số trang của bản tiếng Anh (HarperBusiness 2003). Ở bản PDF tiếng Pháp, trang 549–550 là phần chú thích của Zweig, không liên quan.
+- **Mất một đoạn câu (PDF trang 450):** sau "si c'est en janvier ou en juillet, etc." là mẩu "le font par le biais d'actions négociables - je doute que nombre d'entre elles prennent leur décision d'achat le jour de la semaine…". Theo ngữ cảnh, phần bị mất nói rằng khi giới doanh nhân mua cả doanh nghiệp — mà đó chính là điều các nhà đầu tư Graham & Dodd làm thông qua cổ phiếu niêm yết — thì Buffett ngờ rằng ít ai đưa ngày trong tuần hay tháng trong năm vào quyết định mua.
+- **Dịch máy lệch nghĩa, ảnh hưởng tới cách hiểu:**
+  - "record", "enregistrement", "dossier" trong suốt bài đều là *track record* — thành tích đầu tư đã đạt được, không phải "hồ sơ" hay "kỷ lục". "Tous ces enregistrements ont été vérifiés" nghĩa là mọi thành tích đều đã được kiểm toán.
+  - "boursier" (người được học bổng) là dịch sai của *fellow* (một người, một gã): "un ou deux autres boursiers de persuasion similaire" nghĩa là một hai người khác có cùng quan điểm; "le dossier d'un boursier qui était un copain de Charlie Munger" nghĩa là thành tích của một người bạn của Munger.
+  - "le modèle de tarification des immobilisations" (mô hình định giá tài sản cố định) là dịch sai của *capital asset pricing model* (mô hình định giá tài sản vốn, CAPM).
+  - "il m'a refusé car il était surévalué" (PDF trang 451): chủ ngữ đúng là Buffett — Graham từ chối nhận Buffett vì cho rằng Buffett "bị định giá quá cao", ngay cả khi Buffett xin làm không lương. Đây là câu đùa: Graham áp dụng nguyên tắc giá trị cả khi tuyển người.
+  - "il n'a pas d'idées" trong đoạn trích *Supermoney* (PDF trang 451): nghĩa đúng là không ai "mớm" ý tưởng đầu tư cho Schloss (không ai gửi khuyến nghị cho ông), không phải Schloss không có ý tưởng.
+  - "la loi était un loisir mais qu'il pouvait faire mieux" (PDF trang 453): nghĩa là luật là một thú vui ngoài giờ cũng được, nhưng Munger có thể làm việc khác tốt hơn.
+  - "Après être arrivé à Charlie, Charlie l'a rejoint" (PDF trang 454): nghĩa là sau khi Buffett "chinh phục" được Munger thì Munger "chinh phục" được Guerin, tức ý tưởng đầu tư giá trị truyền từ Buffett sang Munger rồi sang Guerin.
+  - "Une seule lumière ici" (PDF trang 454) là dịch máy của *one sidelight here*: "nhân tiện, một nhận xét bên lề".
+  - "les stocks sont réels" (PDF trang 451): "stocks" là cổ phiếu, không phải hàng tồn kho.
+  - "deux billions de dollars" (PDF trang 453): trong tiếng Pháp, "billion" là một nghìn tỷ (10^12), nên con số đúng là 2.000 tỷ USD, khớp với tổng giá trị vốn cổ phần của nền kinh tế Mỹ năm 1984 mà Buffett nhắc tới.
+  - "marché à deux niveaux" (PDF trang 452) là *two-tier market*: thị trường hai tầng đầu thập niên 1970, khi một nhóm nhỏ cổ phiếu tăng trưởng lớn được định giá rất cao còn phần lớn cổ phiếu khác bị bỏ rơi (theo hiểu biết của người tổng hợp, nhóm này hay được gọi là "Nifty Fifty").
+  - "un autre type d'école non commerciale" (PDF trang 454): nghĩa là "một người nữa không học trường kinh doanh".
+- **Kiểm tra số trong lời văn (phép tính của người tổng hợp):** 225 triệu chia cho 2^10 (1.024) bằng khoảng 219.700, khớp với "environ 220 000"; một đô la gấp đôi 10 lần thành 1.024 USD, khớp với "un peu plus de 1 000 $".
+
+  225 triệu chia cho 2^20 (1.048.576) bằng khoảng 214,6, khớp với "215 personnes"; một đô la gấp đôi 20 lần thành 1.048.576 USD, khớp với "un peu plus 1 million". 215 người chia cho gia đình 10 người bằng 21,5 gia đình, khớp.
+
+  Mười "đống" tài sản 40 triệu USD mua với 8 triệu USD mỗi đống bằng 400 triệu USD tài sản với 80 triệu USD, khớp với ví dụ Washington Post. Thời gian Schloss: rời Graham-Newman năm 1955 và có thành tích "sur 28 ans", tức tính tới khoảng năm 1984 (theo hiểu biết của người tổng hợp, bảng gốc tính từ năm 1956). Lãi lũy kế 22.200% của Guerin tương đương nhân vốn 223 lần; nếu tính 19 năm (1965–1983) thì bình quân khoảng 32,9% mỗi năm, so với khoảng 7,8% mỗi năm ứng với mức tăng 316% của S&P 500.
+- **Hai chỗ dễ hiểu nhầm:** (a) "La meilleure chose qu'il ait faite a été de démissionner en 1969" — Buffett tự giễu chính mình (người lập Buffett Partnership năm 1957), không phải chê một người khác. (b) Danh sách cổ phiếu của Schloss — Hudson Pulp & Paper, Jeddo Highland Coal, New York Trap Rock Company — đi kèm câu "những cái tên ai cũng nghĩ ra ngay, kể cả người đọc trang kinh tế không thường xuyên" là câu mỉa: thật ra đây là những công ty gần như không ai biết.
+- **Bối cảnh năm 1984 và sau đó (theo hiểu biết của người tổng hợp, không tra cứu):** theo hiểu biết của người tổng hợp, bài nói được in lần đầu năm 1984 trên tạp chí *Hermes* của Trường Kinh doanh Columbia. "Becker survey" là khảo sát thành tích các quỹ hưu trí của công ty tư vấn A. G. Becker thời đó.
+
+  Sau năm 1984, lý thuyết thị trường hiệu quả vẫn là dòng chính trong học thuật nhưng tài chính hành vi phát triển mạnh; quỹ chỉ số chi phí thấp và ETF trở nên phổ biến; trường phái giá trị có giai đoạn dài (khoảng thập niên 2010) thua cổ phiếu tăng trưởng. Bản thân Buffett về sau nhiều lần khuyên đa số nhà đầu tư không chuyên nên mua quỹ chỉ số S&P 500 chi phí thấp — điều này không mâu thuẫn với bài, vì bài nói về số ít người có khung tư duy và tính khí phù hợp.
+- Trang 446 (phần đầu) chứa đoạn thơ Dante và câu kết của Zweig ("Investir aussi est une aventure…"); các dòng này thuộc phần bình luận Lời bạt, không thuộc Phụ lục 1.

@@ -1,20 +1,20 @@
 # Chương 17 — Bốn trường hợp rất đáng học (Quatre histoires de cas extrêmement instructives)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 17 "Quatre histoires de cas extrêmement instructives" (PDF trang 357–369) và "Commentaire sur le chapitre 17" (PDF trang 369–376). Chú thích của Graham lấy ở phần chú thích cuối sách (PDF trang 481–490); chú thích của Zweig ở PDF trang 576–581; phụ lục 6 về cách hạch toán thuế của NVF ở PDF trang 479–480.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 11 đến Chương 16, Graham trao cho người đọc các công cụ phân tích chứng khoán: Chương 11 nêu các phép thử cơ bản cho trái phiếu và cổ phiếu (hệ số trang trải lãi vay, cấu trúc vốn, giá trị sổ sách); Chương 12 ([C12-nhung-dieu-can-xet-ve-eps.md](C12-nhung-dieu-can-xet-ve-eps.md)) cảnh báo về các khoản "bất thường" và các mánh làm đẹp lợi nhuận trên mỗi cổ phiếu (EPS); Chương 13 so sánh bốn công ty niêm yết; Chương 14–15 đưa ra tiêu chí chọn cổ phiếu; Chương 16 ([C16-chung-khoan-chuyen-doi-va-chung-quyen.md](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) chỉ ra mặt trái của chứng khoán chuyển đổi và chứng quyền. Chương 17 không đưa thêm công cụ mới mà cho thấy điều gì xảy ra khi người trong nghề (nhà phân tích, người quản lý quỹ, ngân hàng cho vay, công ty chứng khoán bảo lãnh phát hành) bỏ qua chính các công cụ đó: bốn vụ đổ vỡ 1968–1971, mỗi vụ là một kiểu "cực đoan". Chương 18 ([C18-so-sanh-tam-cap-cong-ty.md](C18-so-sanh-tam-cap-cong-ty.md)) tiếp tục cách trình bày bằng ví dụ thật, nhưng đặt từng cặp công ty cạnh nhau để so sánh; Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md)) rút ra nguyên tắc chung là biên an toàn, thứ mà cả bốn trường hợp ở đây đều thiếu.
-**Ý chính:** Graham muốn người đọc hiểu rằng **những thảm hoạ tài chính lớn nhất thường lộ rõ từ trước qua các con số đơn giản nhất, và người thua lỗ không phải vì thiếu công cụ phức tạp mà vì không chịu làm phép tính sơ đẳng**. Penn Central, đường sắt lớn nhất nước Mỹ, chỉ trang trải được lãi vay chưa tới 2 lần (chuẩn của Graham là 5 lần trước thuế), không nộp thuế thu nhập suốt 11 năm, vậy mà cổ phiếu vẫn lên 86½ USD năm 1968, gấp 24 lần lợi nhuận, rồi công ty phá sản năm 1970. Ling-Temco-Vought (LTV) tăng doanh số từ 7 triệu USD (1958) lên 2,8 tỷ USD nhờ mua thôn tính dồn dập bằng nợ vay, nợ lên gần 1,9 tỷ USD, các ngân hàng vẫn cho vay thêm gần 400 triệu USD; cổ phiếu từ 169½ rơi xuống 7⅛. NVF, công ty nhỏ có 17,4 triệu USD vốn chủ sở hữu, thâu tóm Sharon Steel lớn gấp bảy lần bằng trái phiếu và chứng quyền, khiến vốn chủ sở hữu hữu hình thực chỉ còn khoảng 2,2 triệu USD và phải dùng những bút toán kế toán khó hiểu. AAA Enterprises, một doanh nghiệp bán nhà di động và nhượng quyền thương mại, được các công ty chứng khoán lớn đưa lên sàn với giá 13 USD (gấp khoảng 10 lần giá trị sổ sách), giá vọt lên 28 USD, rồi chưa đầy hai năm sau thì phá sản. Bài học chung: nhà đầu tư, nhà phân tích, ngân hàng và công ty chứng khoán phải làm "phần việc sơ đẳng" trước khi nhìn vào biến động giá hay dự báo tương lai.
-Zweig, viết năm 2003, bổ sung rằng **cả bốn kiểu cực đoan của Graham đều lặp lại gần như y hệt trong bong bóng 1999–2002**: Lucent (một "gã khổng lồ" bị định giá quá cao với tài sản đầy lợi thế thương mại và khoản cho khách hàng vay), Tyco (kẻ mua thôn tính hàng loạt với các khoản chi phí "không lặp lại" năm nào cũng lặp lại), vụ sáp nhập AOL–Time Warner (công ty nhỏ hơn nhiều nhưng được định giá cao đã "nuốt" công ty lớn) và đợt IPO của eToys (bán đồ chơi trực tuyến, chi 2 USD để bán 1 USD hàng, vẫn được định giá cao hơn Toys "R" Us). Nhà đầu tư nào chịu đọc kỹ báo cáo tài chính, nhìn "bằng cả hai mắt", đều có thể thấy các dấu hiệu cảnh báo.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bốn bảng/hình của phần này bị mất trong bản PDF.** Ảnh các trang 361 (vị trí Tableau 17-1 về Ling-Temco-Vought), 370 (Figure 17-1 về Lucent), 372 (Figure 17-2 về Tyco) và 375–376 (Figure 17-3 về eToys và Toys "R" Us) chỉ còn khoảng trắng giữa tiêu đề và dòng ghi đơn vị/nguồn; người tổng hợp đã kiểm tra, các trang này không chứa ảnh nhúng nào. Vì không tra web và không muốn chép số theo trí nhớ không chắc chắn, bản tổng hợp này chỉ dựng lại các bảng từ những con số có trong lời văn của Graham và Zweig, ghi rõ ở mỗi bảng là "dựng lại từ lời văn", không phải bảng gốc. Người đọc muốn đủ số liệu cần tra bản tiếng Anh.
-> - Lỗi số trong bản PDF: (1) giá cổ phiếu Lucent ngày 30/6/2000 được in là "51 062 $"; đúng phải là khoảng 51,06 USD một cổ phiếu (bản tiếng Anh viết 51,0625 USD theo cách niêm yết phân số thời đó), vì cổ phiếu kết thúc năm 2002 ở 1,26 USD và mất "gần 190 tỷ USD giá trị". (2) Trái phiếu Pennsylvania RR lúc đầu ghi "4½s" nhưng đoạn sau ghi "les 4¼ de chemin de fer"; đây là cùng một trái phiếu lãi suất 4½%. (3) Nợ của LTV năm 1969 ghi "1 865 millions" ở một chỗ và "1 869 millions" ở chỗ khác. (4) Một số phép chia trong sách chỉ khớp xấp xỉ: 86½/3,80 = 22,8 lần (sách ghi "24 lần"); 286 triệu USD/3,8 triệu cổ phiếu = 75 USD (sách ghi "khoảng 77 USD"); 8⅛ USD × khoảng 2,93 triệu cổ phiếu của AAA ≈ 23,8 triệu USD (sách ghi "hơn 25 triệu USD"); NVF tiết kiệm thuế "khoảng 1.000.000 USD" ở Chương 17 nhưng "khoảng 900.000 USD" ở phụ lục 6. Bản tổng hợp giữ nguyên số của sách.
-> - Bản dịch máy lệch nghĩa ở các chỗ: "analyse de la sécurité" là *security analysis* (phân tích chứng khoán), không phải "phân tích an ninh"; "taux de transport" là *transportation ratio* của đường sắt (chi phí chạy tàu chia cho doanh thu); "les actions se vendaient à leur Record de 1929" nghĩa là cổ phiếu đạt mức cao kỷ lục, vượt cả đỉnh năm 1929; "Il a multiplié le nombre d'actions de la société par 2 710 000" nghĩa đúng là Williams tăng số cổ phiếu của công ty lên 2.710.000 (không phải nhân lên 2,71 triệu lần); "4 500 émissions impaires" là "khoảng 4.500 mã" (*4,500-odd issues*), không phải "mã lẻ"; "une sorte de partition" là một kiểu bảng thành tích (*box score*) của các đợt phát hành, không phải "bản nhạc"; "nature de queue de chien" là "cái đuôi vẫy con chó"; "garçon blond" là cách dịch chữ "cậu bé vàng" (*golden boy*), tức "thần đồng"; "coffre à l'espoir" là *hope chest*, tức "rương hy vọng". Câu Zweig mượn ý Winston Churchill về Tyco bị dịch thành "chưa bao giờ nhiều sản phẩm được bán cho ít người đến vậy", nghe lệch với ý chính của đoạn (Tyco là người *mua* rất nhiều công ty); bản tổng hợp hiểu theo ý của đoạn văn.
-> - Ghi chú dưới Figure 17-2 nói số liệu tính bằng "centaines de millions de dollars" (trăm triệu USD); nhiều khả năng bản gốc là "triệu USD", vì lời văn nêu các khoản như 929 triệu, 507 triệu, 257 triệu USD.
-> - Chú thích của Zweig về Kozlowski bị dịch máy làm hỏng: "15 000 $ pour un porte-parapluie et de 6 000 $ pour un porte-parapluie. rideau de douche"; nghĩa đúng là 15.000 USD cho một giá để ô và 6.000 USD cho một tấm rèm phòng tắm.
-> - Chú thích của Zweig trong phần bình luận đánh số 1–5 (Lucent, Tyco, AOL), rồi đoạn eToys lại bắt đầu từ "1"; trong bản tiếng Anh, theo hiểu biết của người tổng hợp, đây là chú thích số 6.
-> - Graham viết "nous présentons notre solution à l'annexe 6" (phụ lục 6 của sách); bản tổng hợp chép thẳng nội dung phụ lục 6 vào mục NVF. Chú thích cuối sách ở Chương 18 có chỗ dẫn "p. 434 ci-dessus" (trang của bản tiếng Anh) để nói về AAA Enterprises; bản PDF không có số trang in.
-> - Số liệu năm 1970–1971 và 2000–2002 là số liệu lịch sử. Theo hiểu biết của người tổng hợp, không tra cứu: Lucent sáp nhập với Alcatel năm 2006; Tyco tách thành nhiều công ty năm 2007; AOL và Time Warner chia tách năm 2009; Toys "R" Us phá sản năm 2017–2018. Các chuẩn mực kế toán cũng đã đổi: từ năm 2001–2002 ở Mỹ, lợi thế thương mại không còn khấu hao đều mà phải kiểm tra suy giảm giá trị hằng năm (chính vì vậy Lucent và AOL Time Warner ghi nhận các khoản xoá sổ lợi thế thương mại khổng lồ năm 2001–2002).
+Graham muốn người đọc hiểu rằng **những thảm hoạ tài chính lớn nhất thường lộ rõ từ trước qua các con số đơn giản nhất, và người thua lỗ không phải vì thiếu công cụ phức tạp mà vì không chịu làm phép tính sơ đẳng**.
+
+Penn Central, đường sắt lớn nhất nước Mỹ, chỉ trang trải được lãi vay chưa tới 2 lần (chuẩn của Graham là 5 lần trước thuế), không nộp thuế thu nhập suốt 11 năm, vậy mà cổ phiếu vẫn lên 86½ USD năm 1968, gấp 24 lần lợi nhuận, rồi công ty phá sản năm 1970.
+
+Ling-Temco-Vought (LTV) tăng doanh số từ 7 triệu USD (1958) lên 2,8 tỷ USD nhờ mua thôn tính dồn dập bằng nợ vay, nợ lên gần 1,9 tỷ USD, các ngân hàng vẫn cho vay thêm gần 400 triệu USD; cổ phiếu từ 169½ rơi xuống 7⅛.
+
+NVF, công ty nhỏ có 17,4 triệu USD vốn chủ sở hữu, thâu tóm Sharon Steel lớn gấp bảy lần bằng trái phiếu và chứng quyền, khiến vốn chủ sở hữu hữu hình thực chỉ còn khoảng 2,2 triệu USD và phải dùng những bút toán kế toán khó hiểu.
+
+AAA Enterprises, một doanh nghiệp bán nhà di động và nhượng quyền thương mại, được các công ty chứng khoán lớn đưa lên sàn với giá 13 USD (gấp khoảng 10 lần giá trị sổ sách), giá vọt lên 28 USD, rồi chưa đầy hai năm sau thì phá sản.
+
+Bài học chung: nhà đầu tư, nhà phân tích, ngân hàng và công ty chứng khoán phải làm "phần việc sơ đẳng" trước khi nhìn vào biến động giá hay dự báo tương lai.
+
+Zweig, viết năm 2003, bổ sung rằng **cả bốn kiểu cực đoan của Graham đều lặp lại gần như y hệt trong bong bóng 1999–2002**: Lucent (một "gã khổng lồ" bị định giá quá cao với tài sản đầy lợi thế thương mại và khoản cho khách hàng vay), Tyco (kẻ mua thôn tính hàng loạt với các khoản chi phí "không lặp lại" năm nào cũng lặp lại), vụ sáp nhập AOL–Time Warner (công ty nhỏ hơn nhiều nhưng được định giá cao đã "nuốt" công ty lớn) và đợt IPO của eToys (bán đồ chơi trực tuyến, chi 2 USD để bán 1 USD hàng, vẫn được định giá cao hơn Toys "R" Us). Nhà đầu tư nào chịu đọc kỹ báo cáo tài chính, nhìn "bằng cả hai mắt", đều có thể thấy các dấu hiệu cảnh báo.
 
 ## Sơ đồ
 
@@ -375,7 +375,9 @@ Zweig, viết năm 2003, bổ sung rằng **cả bốn kiểu cực đoan của 
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Các dấu hiệu nào cho thấy một chứng khoán đang gặp nguy hiểm, dù công ty lớn và nổi tiếng?** Mức trang trải lãi vay thấp (Penn Central chưa tới 2 lần, trong khi chuẩn là 5 lần trước thuế), công ty không nộp thuế thu nhập nhiều năm mà vẫn báo lãi, các khoản chi phí "đặc biệt" lớn hơn lợi nhuận được khoe, nợ vay tăng nhanh hơn vốn chủ (LTV: nợ từ 44 triệu lên 1.653 triệu USD), vốn chủ hữu hình gần như bằng không sau khi bỏ lợi thế thương mại và các "tài sản" kế toán (LTV còn 3 USD/cổ phiếu; NVF còn khoảng 3 USD/cổ phiếu), giá cổ phiếu gấp hàng chục, hàng trăm lần lợi nhuận hoặc giá trị sổ sách (AAA: 115 lần lợi nhuận). Trong bình luận, Zweig thêm: lợi thế thương mại phình to do mua công ty không có doanh thu, cho khách hàng vay tiền để mua sản phẩm của mình, vốn hoá chi phí, chi phí "không lặp lại" năm nào cũng có.
+1. **Các dấu hiệu nào cho thấy một chứng khoán đang gặp nguy hiểm, dù công ty lớn và nổi tiếng?** Mức trang trải lãi vay thấp (Penn Central chưa tới 2 lần, trong khi chuẩn là 5 lần trước thuế), công ty không nộp thuế thu nhập nhiều năm mà vẫn báo lãi, các khoản chi phí "đặc biệt" lớn hơn lợi nhuận được khoe, nợ vay tăng nhanh hơn vốn chủ (LTV: nợ từ 44 triệu lên 1.653 triệu USD), vốn chủ hữu hình gần như bằng không sau khi bỏ lợi thế thương mại và các "tài sản" kế toán (LTV còn 3 USD/cổ phiếu; NVF còn khoảng 3 USD/cổ phiếu), giá cổ phiếu gấp hàng chục, hàng trăm lần lợi nhuận hoặc giá trị sổ sách (AAA: 115 lần lợi nhuận).
+
+   Trong bình luận, Zweig thêm: lợi thế thương mại phình to do mua công ty không có doanh thu, cho khách hàng vay tiền để mua sản phẩm của mình, vốn hoá chi phí, chi phí "không lặp lại" năm nào cũng có.
 2. **Ai chịu trách nhiệm khi những chứng khoán như vậy được bán cho công chúng?** Graham không chỉ trách nhà đầu cơ mà trách cả giới chuyên nghiệp: nhà phân tích, người quản lý quỹ và tài khoản uỷ thác vẫn giữ trái phiếu, cổ phiếu Penn Central; các ngân hàng thương mại cho LTV vay thêm gần 400 triệu USD; hai ngân hàng đầu tư danh tiếng bán cổ phiếu LTV giá 111 USD; công ty chứng khoán lớn bảo lãnh IPO của AAA. Zweig chỉ ra bốn ngân hàng đầu tư hàng đầu bảo lãnh eToys, và các ngân hàng cho Enron, WorldCom vay hàng tỷ USD.
 3. **Nhà đầu tư cá nhân tự bảo vệ bằng cách nào?** Đọc báo cáo tài chính, kể cả thuyết minh, và làm vài phép tính đơn giản trước khi quan tâm tới biến động giá; tránh công ty tăng trưởng chủ yếu nhờ mua thôn tính bằng nợ hoặc cổ phiếu; không mua IPO định giá theo mốt; và theo lời Zweig, "nhìn bằng cả hai mắt": nhìn cả lợi nhuận được khoe lẫn các khoản bị giấu ở dòng khác.
 
@@ -421,7 +423,9 @@ Chú thích của Zweig: giới tài chính thực ra "chấn động" đến đ
 
 Luận điểm cơ bản của Graham: chỉ cần áp dụng những quy tắc phân tích chứng khoán đơn giản nhất và các tiêu chuẩn đầu tư đơn giản nhất là đã thấy điểm yếu căn bản của hệ thống Penn Central từ rất lâu trước khi nó phá sản. Chắc chắn là vào năm 1968, khi cổ phiếu được bán ở mức cao kỷ lục (vượt cả đỉnh năm 1929), và khi hầu hết trái phiếu của nó có thể đổi ngang giá lấy trái phiếu của các công ty điện nước (dịch vụ công cộng) được bảo đảm tốt với cùng lãi suất danh nghĩa. Graham nêu bảy nhận xét:
 
-1. **Mức trang trải lãi vay quá thấp.** Theo sổ tay trái phiếu của Standard & Poor's (S&P Bond Guide), chi phí lãi vay của hệ thống được trang trải 1,91 lần năm 1967 và 1,98 lần năm 1968. Mức tối thiểu mà cuốn *Security Analysis* của Graham quy định cho trái phiếu đường sắt là 5 lần trước thuế thu nhập và 2,9 lần sau thuế (với thuế suất thông thường). Theo Graham, chưa từng có cơ quan đầu tư nào phản bác các chuẩn này. Xét theo chuẩn sau thuế, Penn Central đã không đạt. Nhưng chuẩn sau thuế 2,9 lần được suy ra từ chuẩn 5 lần trước thuế, với giả định công ty nộp thuế thông thường sau khi trừ lãi trái phiếu. Penn Central thì đã 11 năm không nộp thuế thu nhập! Vì vậy, mức trang trải lãi vay trước thuế của nó dưới 2 lần, hoàn toàn không đủ so với chuẩn thận trọng 5 lần.
+1. **Mức trang trải lãi vay quá thấp.** Theo sổ tay trái phiếu của Standard & Poor's (S&P Bond Guide), chi phí lãi vay của hệ thống được trang trải 1,91 lần năm 1967 và 1,98 lần năm 1968. Mức tối thiểu mà cuốn *Security Analysis* của Graham quy định cho trái phiếu đường sắt là 5 lần trước thuế thu nhập và 2,9 lần sau thuế (với thuế suất thông thường). Theo Graham, chưa từng có cơ quan đầu tư nào phản bác các chuẩn này. Xét theo chuẩn sau thuế, Penn Central đã không đạt.
+
+   Nhưng chuẩn sau thuế 2,9 lần được suy ra từ chuẩn 5 lần trước thuế, với giả định công ty nộp thuế thông thường sau khi trừ lãi trái phiếu. Penn Central thì đã 11 năm không nộp thuế thu nhập! Vì vậy, mức trang trải lãi vay trước thuế của nó dưới 2 lần, hoàn toàn không đủ so với chuẩn thận trọng 5 lần.
 2. **Không nộp thuế suốt 11 năm.** Việc một công ty không nộp thuế thu nhập trong thời gian dài như vậy đáng lẽ phải làm người ta đặt câu hỏi nghiêm túc về tính xác thực của lợi nhuận mà nó báo cáo.
 3. **Có thể đổi sang trái phiếu an toàn hơn mà không mất gì.** Trong năm 1968 và 1969, trái phiếu của hệ thống Penn Central có thể đổi lấy những trái phiếu an toàn hơn nhiều mà không phải hy sinh giá hay thu nhập. Ví dụ năm 1969:
 
@@ -436,7 +440,9 @@ Luận điểm cơ bản của Graham: chỉ cần áp dụng những quy tắc 
 
    Một cuộc hoán đổi như vậy rõ ràng là cần thiết và sẽ là chiếc phao cứu sinh cho người giữ trái phiếu Penn Central.
 4. **P/E cao trên một lợi nhuận đáng ngờ.** Penn Central báo lợi nhuận 3,80 USD/cổ phiếu năm 1968; giá cao nhất năm đó, 86½ USD, gấp khoảng 24 lần con số này. Nhưng bất cứ nhà phân tích nào xứng đáng với tên gọi đó cũng phải tự hỏi lợi nhuận kiểu này "thật" đến đâu khi công ty không phải nộp đồng thuế thu nhập nào.
-5. **Lợi nhuận được khoe một nơi, chi phí đặc biệt được ghi một nơi khác.** Công ty mới sáp nhập đã báo "lợi nhuận" 6,80 USD/cổ phiếu, nhờ đó cổ phiếu sau này lên đỉnh 86½ USD, tức định giá vốn chủ sở hữu hơn 2 tỷ USD. Graham hỏi: bao nhiêu người mua lúc đó biết rằng khoản lợi nhuận hấp dẫn này được tính trước một khoản chi phí đặc biệt 275 triệu USD, tức 12 USD/cổ phiếu, cho "chi phí và tổn thất" phát sinh từ việc sáp nhập, sẽ được ghi nhận vào năm 1971? Graham mỉa mai: thật là "xứ thần tiên" của Phố Wall, nơi một công ty có thể công bố "lợi nhuận" 6,80 USD/cổ phiếu ở một chỗ và "chi phí và tổn thất" đặc biệt 12 USD/cổ phiếu ở chỗ khác, mà cổ đông và nhà đầu cơ vẫn xoa tay mừng rỡ.
+5. **Lợi nhuận được khoe một nơi, chi phí đặc biệt được ghi một nơi khác.** Công ty mới sáp nhập đã báo "lợi nhuận" 6,80 USD/cổ phiếu, nhờ đó cổ phiếu sau này lên đỉnh 86½ USD, tức định giá vốn chủ sở hữu hơn 2 tỷ USD. Graham hỏi: bao nhiêu người mua lúc đó biết rằng khoản lợi nhuận hấp dẫn này được tính trước một khoản chi phí đặc biệt 275 triệu USD, tức 12 USD/cổ phiếu, cho "chi phí và tổn thất" phát sinh từ việc sáp nhập, sẽ được ghi nhận vào năm 1971?
+
+   Graham mỉa mai: thật là "xứ thần tiên" của Phố Wall, nơi một công ty có thể công bố "lợi nhuận" 6,80 USD/cổ phiếu ở một chỗ và "chi phí và tổn thất" đặc biệt 12 USD/cổ phiếu ở chỗ khác, mà cổ đông và nhà đầu cơ vẫn xoa tay mừng rỡ.
 
    Chú thích của Zweig (về công ty mới sáp nhập): Penn Central là sản phẩm của vụ sáp nhập, công bố năm 1966, giữa Pennsylvania Railroad và New York Central Railroad.
 
@@ -456,7 +462,11 @@ Chú thích của Zweig: ngày nay Penn Central chỉ còn là một ký ức m�
 
 Đây là câu chuyện về mở rộng điên cuồng và vay nợ quá mức, kết thúc bằng những khoản lỗ khủng khiếp và nhiều rắc rối tài chính. Như thường thấy trong những trường hợp như vậy, một "cậu bé vàng" hay "thần đồng trẻ" chịu trách nhiệm chính cho cả việc dựng nên đế chế lẫn sự sụp đổ nhục nhã của nó; nhưng nhiều người khác cũng đáng bị trách.
 
-Chú thích của Zweig: Ling-Temco-Vought Inc. được James Joseph Ling, một nhà thầu điện, thành lập năm 1955. Ling tự bán một triệu USD cổ phiếu đầu tiên ra công chúng bằng cách tự làm ngân hàng đầu tư cho mình, đi mời chào bản cáo bạch ở một gian hàng dựng tại Hội chợ Bang Texas. Thành công này giúp ông mua hàng chục công ty khác nhau, hầu như luôn trả bằng cổ phiếu LTV. LTV càng mua nhiều công ty thì cổ phiếu càng lên; cổ phiếu càng lên thì LTV càng có khả năng mua thêm. Năm 1969, LTV đứng thứ 14 trong danh sách Fortune 500 các công ty lớn nhất nước Mỹ. Rồi, như Graham cho thấy, cả "lâu đài bằng giấy" sụp đổ. (LTV Corp., về sau chỉ còn làm thép, cuối cùng xin bảo hộ phá sản cuối năm 2000.) Những công ty lớn lên chủ yếu nhờ mua công ty khác được gọi là "kẻ thâu tóm hàng loạt" (serial acquirers), và sự giống nhau với chữ "kẻ giết người hàng loạt" (serial killers) không phải tình cờ: như trường hợp LTV cho thấy, kẻ thâu tóm hàng loạt hầu như luôn để lại cái chết và sự tàn phá tài chính phía sau. Nhà đầu tư hiểu bài học này của Graham hẳn đã tránh được các cổ phiếu được ưa chuộng của thập niên 1990 như Conseco, Tyco và WorldCom.
+Chú thích của Zweig: Ling-Temco-Vought Inc. được James Joseph Ling, một nhà thầu điện, thành lập năm 1955. Ling tự bán một triệu USD cổ phiếu đầu tiên ra công chúng bằng cách tự làm ngân hàng đầu tư cho mình, đi mời chào bản cáo bạch ở một gian hàng dựng tại Hội chợ Bang Texas. Thành công này giúp ông mua hàng chục công ty khác nhau, hầu như luôn trả bằng cổ phiếu LTV. LTV càng mua nhiều công ty thì cổ phiếu càng lên; cổ phiếu càng lên thì LTV càng có khả năng mua thêm.
+
+Năm 1969, LTV đứng thứ 14 trong danh sách Fortune 500 các công ty lớn nhất nước Mỹ. Rồi, như Graham cho thấy, cả "lâu đài bằng giấy" sụp đổ. (LTV Corp., về sau chỉ còn làm thép, cuối cùng xin bảo hộ phá sản cuối năm 2000.)
+
+Những công ty lớn lên chủ yếu nhờ mua công ty khác được gọi là "kẻ thâu tóm hàng loạt" (serial acquirers), và sự giống nhau với chữ "kẻ giết người hàng loạt" (serial killers) không phải tình cờ: như trường hợp LTV cho thấy, kẻ thâu tóm hàng loạt hầu như luôn để lại cái chết và sự tàn phá tài chính phía sau. Nhà đầu tư hiểu bài học này của Graham hẳn đã tránh được các cổ phiếu được ưa chuộng của thập niên 1990 như Conseco, Tyco và WorldCom.
 
 Graham tóm tắt quá trình đi lên rồi đi xuống của LTV bằng một bảng (Tableau 17-1 trong sách) gồm báo cáo kết quả kinh doanh rút gọn và các khoản mục bảng cân đối kế toán của năm năm trong giai đoạn 1958–1970. Bảng này bị mất trong bản PDF; các con số Graham nêu trong lời văn như sau.
 
@@ -473,14 +483,18 @@ Graham tóm tắt quá trình đi lên rồi đi xuống của LTV bằng một 
 | 1969 | — | 1.865 (ở chỗ khác ghi 1.869) | lỗ lớn sau các khoản bất thường | đáy 24; "thần đồng" bị thay khỏi vị trí đứng đầu |
 | 1970 | — | đang giảm dần | lỗ ròng cuối cùng gần 70 triệu USD | đáy 7⅛; trái phiếu lớn nhất có lúc chỉ còn 15 cent trên 1 USD mệnh giá |
 
-Diễn biến theo lời Graham: cột đầu tiên của bảng cho thấy khởi đầu khiêm tốn năm 1958, khi doanh số chỉ 7 triệu USD. Năm 1960 công ty đã lớn gấp khoảng 20 lần chỉ trong hai năm nhưng vẫn còn tương đối nhỏ. Rồi đến những năm vàng son 1967 và 1968, khi doanh số lại tăng gấp đôi lên 2,8 tỷ USD, còn nợ tăng từ 44 triệu USD lên 1.653 triệu USD. Năm 1969 có thêm các vụ mua mới, nợ lại tăng mạnh (lên tổng cộng 1.865 triệu USD) và các rắc rối nghiêm trọng bắt đầu. Công ty báo lỗ lớn sau các khoản bất thường; cổ phiếu từ đỉnh 169½ năm 1967 xuống đáy 24; "thần đồng" bị thay. Kết quả năm 1970 còn tệ hơn: lỗ ròng cuối cùng gần 70 triệu USD; cổ phiếu xuống 7⅛; trái phiếu lớn nhất của công ty có lúc chỉ được giao dịch ở mức 15 cent trên 1 USD. Chính sách mở rộng bị đảo ngược mạnh, nhiều mảng kinh doanh quan trọng được đem bán, và công ty đã giảm được phần nào khối nợ khổng lồ.
+Diễn biến theo lời Graham: cột đầu tiên của bảng cho thấy khởi đầu khiêm tốn năm 1958, khi doanh số chỉ 7 triệu USD. Năm 1960 công ty đã lớn gấp khoảng 20 lần chỉ trong hai năm nhưng vẫn còn tương đối nhỏ. Rồi đến những năm vàng son 1967 và 1968, khi doanh số lại tăng gấp đôi lên 2,8 tỷ USD, còn nợ tăng từ 44 triệu USD lên 1.653 triệu USD.
+
+Năm 1969 có thêm các vụ mua mới, nợ lại tăng mạnh (lên tổng cộng 1.865 triệu USD) và các rắc rối nghiêm trọng bắt đầu. Công ty báo lỗ lớn sau các khoản bất thường; cổ phiếu từ đỉnh 169½ năm 1967 xuống đáy 24; "thần đồng" bị thay. Kết quả năm 1970 còn tệ hơn: lỗ ròng cuối cùng gần 70 triệu USD; cổ phiếu xuống 7⅛; trái phiếu lớn nhất của công ty có lúc chỉ được giao dịch ở mức 15 cent trên 1 USD. Chính sách mở rộng bị đảo ngược mạnh, nhiều mảng kinh doanh quan trọng được đem bán, và công ty đã giảm được phần nào khối nợ khổng lồ.
 
 Graham nói các con số đã quá rõ nên chỉ cần vài nhận xét:
 
 1. **Năm xấu được dùng để "dọn sổ".** Quá trình mở rộng không liên tục. Năm 1961 công ty bị lỗ hoạt động nhẹ, nhưng, theo một cách làm mà sau này người ta sẽ thấy trong rất nhiều báo cáo năm 1970, rõ ràng nó đã quyết định dồn mọi khoản chi phí và dự phòng có thể vào năm xấu duy nhất ấy. Các khoản này lên tới 13 triệu USD, nhiều hơn tổng lãi ròng ba năm trước cộng lại. Nhờ vậy công ty sẵn sàng báo "lợi nhuận kỷ lục" năm 1962 và các năm sau.
 
    Chú thích của Zweig: truyền thống tồi tệ là giấu lợi nhuận thật của công ty dưới vỏ bọc chi phí tái cơ cấu vẫn còn. Việc dồn mọi chi phí có thể vào một năm đôi khi được gọi là kế toán "tắm lớn" (big bath) hay "đổ cả bồn rửa" (kitchen sink). Thủ thuật ghi sổ này giúp công ty dễ dàng cho thấy tăng trưởng bề ngoài vào năm sau, nhưng nhà đầu tư không nên nhầm điều đó với sức khoẻ thật của doanh nghiệp.
-2. **Giá cổ phiếu so với tài sản thật.** Cuối năm 1966, tài sản hữu hình ròng được báo cáo là 7,66 USD cho mỗi cổ phiếu phổ thông (đã điều chỉnh cho lần tách cổ phiếu 3 lấy 2). Như vậy giá thị trường năm 1967 lên tới 22 lần giá trị tài sản công bố lúc đó. Cuối năm 1968, bảng cân đối cho thấy 286 triệu USD dành cho 3.800.000 cổ phiếu phổ thông và cổ phiếu loại AA, khoảng 77 USD mỗi cổ phiếu. Nhưng nếu trừ cổ phiếu ưu đãi theo đầy đủ giá trị của chúng, và loại bỏ lợi thế thương mại cùng "tài sản" chiết khấu trái phiếu rất lớn, thì chỉ còn 13 triệu USD cho cổ phiếu phổ thông, tức chỉ 3 USD mỗi cổ phiếu. Phần vốn hữu hình ít ỏi này bị các khoản lỗ những năm sau xoá sạch.
+2. **Giá cổ phiếu so với tài sản thật.** Cuối năm 1966, tài sản hữu hình ròng được báo cáo là 7,66 USD cho mỗi cổ phiếu phổ thông (đã điều chỉnh cho lần tách cổ phiếu 3 lấy 2). Như vậy giá thị trường năm 1967 lên tới 22 lần giá trị tài sản công bố lúc đó.
+
+   Cuối năm 1968, bảng cân đối cho thấy 286 triệu USD dành cho 3.800.000 cổ phiếu phổ thông và cổ phiếu loại AA, khoảng 77 USD mỗi cổ phiếu. Nhưng nếu trừ cổ phiếu ưu đãi theo đầy đủ giá trị của chúng, và loại bỏ lợi thế thương mại cùng "tài sản" chiết khấu trái phiếu rất lớn, thì chỉ còn 13 triệu USD cho cổ phiếu phổ thông, tức chỉ 3 USD mỗi cổ phiếu. Phần vốn hữu hình ít ỏi này bị các khoản lỗ những năm sau xoá sạch.
 
    Chú thích của Zweig: "tài sản chiết khấu trái phiếu" có vẻ có nghĩa là LTV đã mua một số trái phiếu dưới mệnh giá và coi phần chiết khấu đó là tài sản, với lý do một ngày nào đó trái phiếu có thể bán được ở mệnh giá. Graham chế giễu điều này, vì hiếm khi biết trước được giá thị trường của một trái phiếu vào một ngày cụ thể trong tương lai. Nếu trái phiếu chỉ bán được dưới mệnh giá, "tài sản" này thực chất là một khoản nợ.
 3. **Ngân hàng đầu tư bán cổ phiếu ở giá đỉnh.** Gần cuối năm 1967, hai ngân hàng đầu tư danh tiếng nhất nước Mỹ chào bán 600.000 cổ phiếu Ling-Temco-Vought giá 111 USD. Cổ phiếu đã từng lên 169½. Chưa đầy ba năm sau, giá còn 7⅛.
@@ -489,7 +503,9 @@ Graham nói các con số đã quá rõ nên chỉ cần vài nhận xét:
 4. **Nợ ngân hàng tăng vọt.** Cuối năm 1967, vay ngân hàng đã lên 161 triệu USD; một năm sau là 414 triệu USD, một con số lẽ ra phải gây sợ hãi. Thêm vào đó, nợ dài hạn là 1.237 triệu USD. Năm 1969, tổng nợ lên 1.869 triệu USD. Có lẽ đây là tổng nợ lớn nhất của bất kỳ công ty công nghiệp nào, ở bất cứ đâu và bất cứ lúc nào, chỉ trừ Standard Oil of New Jersey vững như bàn thạch.
 5. **Lỗ xoá sạch lãi.** Các khoản lỗ năm 1969 và 1970 vượt xa tổng lợi nhuận kể từ khi công ty được thành lập.
 
-**Bài học của Graham.** Câu hỏi chính mà câu chuyện LTV đặt ra là làm sao các ngân hàng thương mại lại bị thuyết phục cho công ty vay những khoản lớn như vậy trong thời kỳ mở rộng. Ngay từ năm 1966 và trước đó, mức trang trải lãi vay của công ty đã không đạt chuẩn thận trọng; tỷ lệ tài sản lưu động trên nợ ngắn hạn và tỷ lệ vốn chủ sở hữu trên tổng nợ cũng vậy. Thế mà trong hai năm tiếp theo, các ngân hàng vẫn ứng thêm cho công ty gần 400 triệu USD để "đa dạng hoá" thêm. Đó không phải là phi vụ tốt cho ngân hàng, và hậu quả với cổ đông công ty còn tệ hơn. Nếu vụ LTV giúp ngăn các ngân hàng thương mại tiếp tay cho những cuộc mở rộng kiểu này trong tương lai, thì ít nhất cũng có điều tốt rút ra từ nó.
+**Bài học của Graham.** Câu hỏi chính mà câu chuyện LTV đặt ra là làm sao các ngân hàng thương mại lại bị thuyết phục cho công ty vay những khoản lớn như vậy trong thời kỳ mở rộng. Ngay từ năm 1966 và trước đó, mức trang trải lãi vay của công ty đã không đạt chuẩn thận trọng; tỷ lệ tài sản lưu động trên nợ ngắn hạn và tỷ lệ vốn chủ sở hữu trên tổng nợ cũng vậy.
+
+Thế mà trong hai năm tiếp theo, các ngân hàng vẫn ứng thêm cho công ty gần 400 triệu USD để "đa dạng hoá" thêm. Đó không phải là phi vụ tốt cho ngân hàng, và hậu quả với cổ đông công ty còn tệ hơn. Nếu vụ LTV giúp ngăn các ngân hàng thương mại tiếp tay cho những cuộc mở rộng kiểu này trong tương lai, thì ít nhất cũng có điều tốt rút ra từ nó.
 
 Chú thích của Zweig: Graham hẳn sẽ thất vọng, nhưng chắc chắn không ngạc nhiên, khi thấy các ngân hàng thương mại vẫn thường xuyên tài trợ cho "những cuộc mở rộng thiếu khôn ngoan". Enron và WorldCom, hai trong những vụ sụp đổ doanh nghiệp lớn nhất lịch sử, đã được hàng tỷ USD tiền vay ngân hàng tiếp sức.
 
@@ -506,9 +522,15 @@ Graham gọi vụ này là "một món đồ sưu tầm" (một ví dụ hiếm 
 | Doanh số | 31 triệu | 219 triệu |
 | Lãi ròng | 502.000 (trước một khoản thu đặc biệt 374.000) | 2.929.000 |
 
-Công ty mà NVF muốn mua lớn gấp khoảng bảy lần NVF. Đầu năm 1969, NVF chào mua toàn bộ cổ phiếu Sharon. Với mỗi cổ phiếu Sharon, NVF trả 70 USD mệnh giá trái phiếu thứ cấp (junior debentures) lãi suất 5% của NVF, đáo hạn 1994, cộng với chứng quyền mua 1½ cổ phiếu NVF giá 22 USD mỗi cổ phiếu. Ban điều hành Sharon chống lại quyết liệt nhưng vô ích. NVF mua được 88% cổ phiếu Sharon qua đợt chào mua, và phát hành 102 triệu USD trái phiếu 5% cùng chứng quyền mua 2.197.000 cổ phiếu NVF. Nếu đợt chào mua đạt 100%, công ty hợp nhất cho năm 1968 sẽ có nợ 163 triệu USD, vốn hữu hình chỉ 2,2 triệu USD, doanh số 250 triệu USD. Lãi ròng thì phức tạp hơn, nhưng sau đó công ty công bố là lỗ ròng 50 cent cho mỗi cổ phiếu NVF trước một khoản thu bất thường, và lãi ròng 3 cent/cổ phiếu sau khoản thu đó.
+Công ty mà NVF muốn mua lớn gấp khoảng bảy lần NVF. Đầu năm 1969, NVF chào mua toàn bộ cổ phiếu Sharon. Với mỗi cổ phiếu Sharon, NVF trả 70 USD mệnh giá trái phiếu thứ cấp (junior debentures) lãi suất 5% của NVF, đáo hạn 1994, cộng với chứng quyền mua 1½ cổ phiếu NVF giá 22 USD mỗi cổ phiếu. Ban điều hành Sharon chống lại quyết liệt nhưng vô ích.
 
-Chú thích của Zweig: tháng 6/1972 (ngay sau khi Graham viết xong chương này), một thẩm phán liên bang kết luận rằng chủ tịch NVF, Victor Posner, đã sử dụng sai trái tài sản quỹ hưu trí của Sharon Steel "để giúp các công ty liên kết trong việc thâu tóm các công ty khác". Năm 1977, Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC) có được lệnh cấm vĩnh viễn đối với Posner, NVF và Sharon Steel, ngăn họ tái phạm luật liên bang chống gian lận chứng khoán. SEC cáo buộc Posner và gia đình đã nhận sai trái 1,7 triệu USD lợi ích cá nhân từ NVF và Sharon, khai khống lợi nhuận trước thuế của Sharon 13,9 triệu USD, ghi hàng tồn kho không chính xác và "chuyển doanh thu và chi phí từ năm này sang năm khác". Sharon Steel, công ty mà Graham đã soi bằng con mắt lạnh lùng và hoài nghi, bị dân Phố Wall gọi đùa là "Share and Steal" (chia chác và ăn cắp). Về sau Posner là nhân vật trung tâm của làn sóng mua lại bằng vốn vay (leveraged buyout) và thâu tóm thù địch tràn qua nước Mỹ thập niên 1980, khi ông là khách hàng lớn của các trái phiếu rác do Drexel Burnham Lambert bảo lãnh.
+NVF mua được 88% cổ phiếu Sharon qua đợt chào mua, và phát hành 102 triệu USD trái phiếu 5% cùng chứng quyền mua 2.197.000 cổ phiếu NVF. Nếu đợt chào mua đạt 100%, công ty hợp nhất cho năm 1968 sẽ có nợ 163 triệu USD, vốn hữu hình chỉ 2,2 triệu USD, doanh số 250 triệu USD. Lãi ròng thì phức tạp hơn, nhưng sau đó công ty công bố là lỗ ròng 50 cent cho mỗi cổ phiếu NVF trước một khoản thu bất thường, và lãi ròng 3 cent/cổ phiếu sau khoản thu đó.
+
+Chú thích của Zweig: tháng 6/1972 (ngay sau khi Graham viết xong chương này), một thẩm phán liên bang kết luận rằng chủ tịch NVF, Victor Posner, đã sử dụng sai trái tài sản quỹ hưu trí của Sharon Steel "để giúp các công ty liên kết trong việc thâu tóm các công ty khác".
+
+Năm 1977, Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC) có được lệnh cấm vĩnh viễn đối với Posner, NVF và Sharon Steel, ngăn họ tái phạm luật liên bang chống gian lận chứng khoán. SEC cáo buộc Posner và gia đình đã nhận sai trái 1,7 triệu USD lợi ích cá nhân từ NVF và Sharon, khai khống lợi nhuận trước thuế của Sharon 13,9 triệu USD, ghi hàng tồn kho không chính xác và "chuyển doanh thu và chi phí từ năm này sang năm khác".
+
+Sharon Steel, công ty mà Graham đã soi bằng con mắt lạnh lùng và hoài nghi, bị dân Phố Wall gọi đùa là "Share and Steal" (chia chác và ăn cắp). Về sau Posner là nhân vật trung tâm của làn sóng mua lại bằng vốn vay (leveraged buyout) và thâu tóm thù địch tràn qua nước Mỹ thập niên 1980, khi ông là khách hàng lớn của các trái phiếu rác do Drexel Burnham Lambert bảo lãnh.
 
 **Nhận xét thứ nhất của Graham.** Trong mọi vụ thâu tóm năm 1969, vụ này có lẽ là cực đoan nhất về sự mất cân đối tài chính. Công ty đi mua đã gánh một khoản nợ mới rất nặng, và qua vụ mua, lợi nhuận tính cho năm 1968 chuyển từ lãi thành lỗ. Một thước đo mức độ tình hình tài chính công ty bị suy yếu là trái phiếu 5% mới không bán được quá 42 cent trên 1 USD mệnh giá trong năm phát hành. Điều đó cho thấy thị trường nghi ngờ nghiêm trọng về độ an toàn của trái phiếu và tương lai của công ty. Tuy vậy, ban điều hành lại khai thác chính mức giá thấp của trái phiếu để tiết kiệm cho công ty khoảng 1.000.000 USD thuế thu nhập mỗi năm (xem mục 5 dưới đây).
 
@@ -546,7 +568,10 @@ Khi chuyển từ bảng cân đối pro forma sang báo cáo năm sau (1969), t
 Các bút toán này có nghĩa gì? Không bút toán nào được nhắc tới trong phần lời văn của báo cáo năm 1969. Nhà phân tích chứng khoán có nghề phải tự tìm ra những bí ẩn này, gần như làm thám tử. Graham kết luận rằng ý tưởng đằng sau là tận dụng mức giá ban đầu thấp của trái phiếu 5% để có lợi thế về thuế. Ông trình bày lời giải ở phụ lục 6 của sách, với nội dung như sau:
 
 1. NVF mua 88% cổ phiếu Sharon năm 1969, trả cho mỗi cổ phiếu 70 USD trái phiếu NVF 5% đáo hạn 1994 và chứng quyền mua 1½ cổ phiếu NVF giá 22 USD. Giá trị thị trường ban đầu của trái phiếu dường như chỉ bằng 43% mệnh giá, còn chứng quyền được giao dịch ở 10 USD cho mỗi cổ phiếu NVF tương ứng. Nghĩa là cổ đông Sharon chỉ nhận được 30 USD trái phiếu và 15 USD chứng quyền cho mỗi cổ phiếu, tổng cộng 45 USD (đúng bằng giá bình quân của Sharon năm 1968 và giá đóng cửa cuối năm). Giá trị sổ sách của Sharon là 60 USD/cổ phiếu. Chênh lệch giữa giá trị sổ sách và giá trị thị trường của 1.415.000 cổ phiếu Sharon mua được là khoảng 21 triệu USD.
-2. Cách hạch toán nhằm đạt ba mục tiêu: (a) coi việc phát hành trái phiếu như "bán" chúng ở giá 43, nhờ đó công ty được trừ hằng năm vào thu nhập phần khấu hao của khoản chiết khấu trái phiếu khổng lồ 54 triệu USD (thực chất công ty tự tính cho mình khoảng 15% lãi mỗi năm trên "số tiền thu được" từ đợt phát hành trái phiếu 99 triệu USD mệnh giá); (b) bù khoản chi phí chiết khấu này bằng một khoản "lợi nhuận" gần bằng, gồm việc ghi có vào thu nhập mỗi năm một phần mười chênh lệch giữa giá mua 45 USD và giá trị sổ sách 60 USD của cổ phiếu Sharon (đây là cách làm ngược với quy định bắt buộc là hằng năm phải trừ vào thu nhập một phần số tiền trả vượt giá trị sổ sách tài sản mua được); (c) cái "đẹp" của cách làm này là ban đầu công ty tiết kiệm được khoảng 900.000 USD thuế thu nhập mỗi năm, tức khoảng 1 USD/cổ phiếu, vì khấu hao chiết khấu trái phiếu được trừ khỏi thu nhập chịu thuế, còn khoản khấu hao "phần vốn chủ vượt giá vốn" thì không phải tính vào thu nhập chịu thuế.
+2. Cách hạch toán nhằm đạt ba mục tiêu:
+   - (a) coi việc phát hành trái phiếu như "bán" chúng ở giá 43, nhờ đó công ty được trừ hằng năm vào thu nhập phần khấu hao của khoản chiết khấu trái phiếu khổng lồ 54 triệu USD (thực chất công ty tự tính cho mình khoảng 15% lãi mỗi năm trên "số tiền thu được" từ đợt phát hành trái phiếu 99 triệu USD mệnh giá).
+   - (b) bù khoản chi phí chiết khấu này bằng một khoản "lợi nhuận" gần bằng, gồm việc ghi có vào thu nhập mỗi năm một phần mười chênh lệch giữa giá mua 45 USD và giá trị sổ sách 60 USD của cổ phiếu Sharon (đây là cách làm ngược với quy định bắt buộc là hằng năm phải trừ vào thu nhập một phần số tiền trả vượt giá trị sổ sách tài sản mua được).
+   - (c) cái "đẹp" của cách làm này là ban đầu công ty tiết kiệm được khoảng 900.000 USD thuế thu nhập mỗi năm, tức khoảng 1 USD/cổ phiếu, vì khấu hao chiết khấu trái phiếu được trừ khỏi thu nhập chịu thuế, còn khoản khấu hao "phần vốn chủ vượt giá vốn" thì không phải tính vào thu nhập chịu thuế.
 3. Cách hạch toán này được phản ánh cả trong báo cáo kết quả kinh doanh hợp nhất và bảng cân đối hợp nhất của NVF năm 1969, và pro forma năm 1968. Vì một phần lớn giá mua cổ phiếu Sharon được coi là trả bằng chứng quyền, công ty phải ghi giá trị thị trường ban đầu của chứng quyền vào vốn cổ phần. Vì vậy, trong trường hợp này, khác với mọi trường hợp Graham biết, chứng quyền được gán một giá trị đáng kể trên bảng cân đối, hơn 22 triệu USD (nhưng chỉ trong thuyết minh).
 
 **Phân rã khoản thanh toán cho mỗi cổ phiếu Sharon theo giá thị trường (theo phụ lục 6; đơn vị: USD)**
@@ -565,7 +590,9 @@ Các bút toán này có nghĩa gì? Không bút toán nào được nhắc tớ
 2. **Đổi trái phiếu và chứng quyền lấy cổ phiếu.** Như một phần bù lại, công ty thu hồi 5.100.000 USD trái phiếu và 253.000 chứng quyền để đổi lấy một lượng cổ phiếu phổ thông tương đương. Việc này làm được vì, do sự thất thường của thị trường chứng khoán, người ta bán trái phiếu 5% dưới 40 trong khi cổ phiếu phổ thông, không trả cổ tức, được bán ở giá bình quân 13½.
 3. **Bán chứng quyền trả góp cho nhân viên.** Công ty không chỉ định bán cổ phiếu cho nhân viên mà còn bán cho họ một lượng lớn hơn chứng quyền để mua cổ phiếu. Giống việc mua cổ phiếu, chứng quyền được trả trước 5%, phần còn lại trả dần trong nhiều năm. Graham nói đây là kế hoạch bán chứng quyền cho nhân viên duy nhất mà ông biết, và châm biếm: liệu sắp có ai phát minh và bán trả góp "quyền mua một quyền mua cổ phiếu" hay không?
 4. **Đổi phương pháp kế toán ở công ty con.** Năm 1969, Sharon Steel, nay dưới quyền kiểm soát của NVF, thay đổi cách tính chi phí hưu trí và dùng tỷ lệ khấu hao thấp hơn. Các thay đổi kế toán này thêm khoảng 1 USD/cổ phiếu vào lợi nhuận báo cáo của NVF trước pha loãng.
-5. **P/E thấp nhất thị trường nhưng không thật.** Cuối năm 1970, sổ tay cổ phiếu của Standard & Poor's (S&P Stock Guide) ghi cổ phiếu NVF được bán với P/E chỉ 2, thấp nhất trong khoảng 4.500 mã trong sổ. Như câu nói cũ ở Phố Wall, đó là điều "quan trọng nếu đúng". Hệ số này dựa trên giá đóng cửa cuối năm 8¾ USD và "lợi nhuận" 5,38 USD/cổ phiếu trong 12 tháng kết thúc tháng 9/1970 (dùng các số này thì cổ phiếu chỉ được bán ở 1,6 lần lợi nhuận). Nhưng hệ số này chưa tính tới yếu tố pha loãng lớn, cũng chưa tính các kết quả xấu thực tế của quý cuối năm 1970. Khi số liệu cả năm được công bố, lợi nhuận chỉ còn 2,03 USD/cổ phiếu trước pha loãng và 1,80 USD sau pha loãng. Cũng cần lưu ý rằng tổng giá trị thị trường của cổ phiếu và chứng quyền lúc đó khoảng 14 triệu USD, so với 135 triệu USD nợ trái phiếu: một vị thế vốn chủ thật sự mỏng manh.
+5. **P/E thấp nhất thị trường nhưng không thật.** Cuối năm 1970, sổ tay cổ phiếu của Standard & Poor's (S&P Stock Guide) ghi cổ phiếu NVF được bán với P/E chỉ 2, thấp nhất trong khoảng 4.500 mã trong sổ. Như câu nói cũ ở Phố Wall, đó là điều "quan trọng nếu đúng". Hệ số này dựa trên giá đóng cửa cuối năm 8¾ USD và "lợi nhuận" 5,38 USD/cổ phiếu trong 12 tháng kết thúc tháng 9/1970 (dùng các số này thì cổ phiếu chỉ được bán ở 1,6 lần lợi nhuận).
+
+   Nhưng hệ số này chưa tính tới yếu tố pha loãng lớn, cũng chưa tính các kết quả xấu thực tế của quý cuối năm 1970. Khi số liệu cả năm được công bố, lợi nhuận chỉ còn 2,03 USD/cổ phiếu trước pha loãng và 1,80 USD sau pha loãng. Cũng cần lưu ý rằng tổng giá trị thị trường của cổ phiếu và chứng quyền lúc đó khoảng 14 triệu USD, so với 135 triệu USD nợ trái phiếu: một vị thế vốn chủ thật sự mỏng manh.
 
    Chú thích của Zweig: "yếu tố pha loãng lớn" sẽ xuất hiện khi nhân viên NVF thực hiện chứng quyền để mua cổ phiếu phổ thông. Công ty khi đó phải phát hành thêm cổ phiếu và lợi nhuận ròng sẽ chia cho số cổ phiếu lưu hành lớn hơn nhiều.
 
@@ -581,11 +608,17 @@ Các bút toán này có nghĩa gì? Không bút toán nào được nhắc tớ
 
 #### 7. AAA Enterprises — lịch sử (AAA Enterprises, tiểu mục "Histoire", PDF trang 366–367)
 
-Khoảng 15 năm trước, một sinh viên tên Williams bắt đầu bán nhà di động (khi đó gọi là "nhà kéo" hay rơ-moóc). Năm 1965 ông lập công ty. Năm đó ông bán được 5.800.000 USD nhà di động và lãi 61.000 USD trước thuế thu nhập doanh nghiệp. Đến năm 1968, ông nhập vào phong trào "nhượng quyền" và bán cho người khác quyền bán nhà di động dưới tên thương mại của mình. Ông còn nảy ra ý tưởng "xuất sắc" là làm dịch vụ khai thuế thu nhập, dùng nhà di động làm văn phòng. Ông lập công ty con tên "Mr. Tax of America", và tất nhiên cũng bắt đầu bán nhượng quyền cho người khác dùng ý tưởng và cái tên này. Ông tăng số cổ phiếu của công ty lên 2.710.000 và sẵn sàng chào bán cổ phiếu. Ông tìm được một trong những công ty chứng khoán lớn nhất nước Mỹ, cùng các công ty khác, sẵn lòng đứng ra thực hiện.
+Khoảng 15 năm trước, một sinh viên tên Williams bắt đầu bán nhà di động (khi đó gọi là "nhà kéo" hay rơ-moóc). Năm 1965 ông lập công ty. Năm đó ông bán được 5.800.000 USD nhà di động và lãi 61.000 USD trước thuế thu nhập doanh nghiệp.
 
-Chú thích của Zweig: Jackie G. Williams lập AAA Enterprises năm 1958. Ngày giao dịch đầu tiên, cổ phiếu tăng 56% và đóng cửa ở 20,25 USD. Về sau Williams tuyên bố AAA sẽ đưa ra một ý tưởng nhượng quyền mới mỗi tháng (Zweig đùa: nếu người ta đã chịu vào một căn nhà di động để nhờ "Mr. Tax of America" khai thuế, thử tưởng tượng họ còn có thể làm gì khác trong một chiếc rơ-moóc!). Nhưng AAA hết thời gian và hết tiền trước khi Williams hết ý tưởng. Câu chuyện AAA gợi nhớ một công ty gần đây hơn, cũng có ban lãnh đạo lôi cuốn và tài sản ít ỏi: ZZZZ Best đạt giá trị thị trường khoảng 200 triệu USD cuối thập niên 1980, dù hoạt động "hút bụi công nghiệp" của nó gần như chỉ là một chiếc điện thoại và một văn phòng thuê do một thiếu niên tên Barry Minkow điều hành. ZZZZ Best phá sản và Minkow vào tù. Zweig viết: khi bạn đọc những dòng này, một công ty tương tự đang hình thành và một thế hệ "nhà đầu tư" mới sẽ bị lừa; nhưng ai đã đọc Graham thì không nên lên chuyến tàu đó.
+Đến năm 1968, ông nhập vào phong trào "nhượng quyền" và bán cho người khác quyền bán nhà di động dưới tên thương mại của mình. Ông còn nảy ra ý tưởng "xuất sắc" là làm dịch vụ khai thuế thu nhập, dùng nhà di động làm văn phòng. Ông lập công ty con tên "Mr. Tax of America", và tất nhiên cũng bắt đầu bán nhượng quyền cho người khác dùng ý tưởng và cái tên này. Ông tăng số cổ phiếu của công ty lên 2.710.000 và sẵn sàng chào bán cổ phiếu. Ông tìm được một trong những công ty chứng khoán lớn nhất nước Mỹ, cùng các công ty khác, sẵn lòng đứng ra thực hiện.
 
-Tháng 3/1969, các công ty chứng khoán chào bán ra công chúng 500.000 cổ phiếu AAA Enterprises giá 13 USD. Trong đó 300.000 cổ phiếu bán cho tài khoản riêng của ông Williams và 200.000 cho công ty, đem về cho công ty thêm 2.400.000 USD. Giá cổ phiếu nhanh chóng tăng gấp đôi lên 28 USD, tức vốn chủ sở hữu được định giá 84 triệu USD, so với giá trị sổ sách khoảng 4.200.000 USD và lợi nhuận báo cáo cao nhất 690.000 USD. Như vậy cổ phiếu được bán ở 115 lần EPS hiện tại (cũng là cao nhất từ trước tới nay). Graham đoán chắc ông Williams đặt tên AAA Enterprises để đứng đầu danh bạ điện thoại và trang vàng. Một hệ quả phụ là công ty sẽ đứng đầu danh sách trong sổ tay cổ phiếu của Standard & Poor's. Như Abou Ben Adhem, nó "dẫn đầu tất cả". Graham nói đây là một lý do riêng để chọn nó làm ví dụ đau lòng về các đợt huy động vốn mới năm 1969 và các "cổ phiếu nóng".
+Chú thích của Zweig: Jackie G. Williams lập AAA Enterprises năm 1958. Ngày giao dịch đầu tiên, cổ phiếu tăng 56% và đóng cửa ở 20,25 USD. Về sau Williams tuyên bố AAA sẽ đưa ra một ý tưởng nhượng quyền mới mỗi tháng (Zweig đùa: nếu người ta đã chịu vào một căn nhà di động để nhờ "Mr. Tax of America" khai thuế, thử tưởng tượng họ còn có thể làm gì khác trong một chiếc rơ-moóc!). Nhưng AAA hết thời gian và hết tiền trước khi Williams hết ý tưởng.
+
+Câu chuyện AAA gợi nhớ một công ty gần đây hơn, cũng có ban lãnh đạo lôi cuốn và tài sản ít ỏi: ZZZZ Best đạt giá trị thị trường khoảng 200 triệu USD cuối thập niên 1980, dù hoạt động "hút bụi công nghiệp" của nó gần như chỉ là một chiếc điện thoại và một văn phòng thuê do một thiếu niên tên Barry Minkow điều hành. ZZZZ Best phá sản và Minkow vào tù. Zweig viết: khi bạn đọc những dòng này, một công ty tương tự đang hình thành và một thế hệ "nhà đầu tư" mới sẽ bị lừa; nhưng ai đã đọc Graham thì không nên lên chuyến tàu đó.
+
+Tháng 3/1969, các công ty chứng khoán chào bán ra công chúng 500.000 cổ phiếu AAA Enterprises giá 13 USD. Trong đó 300.000 cổ phiếu bán cho tài khoản riêng của ông Williams và 200.000 cho công ty, đem về cho công ty thêm 2.400.000 USD. Giá cổ phiếu nhanh chóng tăng gấp đôi lên 28 USD, tức vốn chủ sở hữu được định giá 84 triệu USD, so với giá trị sổ sách khoảng 4.200.000 USD và lợi nhuận báo cáo cao nhất 690.000 USD. Như vậy cổ phiếu được bán ở 115 lần EPS hiện tại (cũng là cao nhất từ trước tới nay).
+
+Graham đoán chắc ông Williams đặt tên AAA Enterprises để đứng đầu danh bạ điện thoại và trang vàng. Một hệ quả phụ là công ty sẽ đứng đầu danh sách trong sổ tay cổ phiếu của Standard & Poor's. Như Abou Ben Adhem, nó "dẫn đầu tất cả". Graham nói đây là một lý do riêng để chọn nó làm ví dụ đau lòng về các đợt huy động vốn mới năm 1969 và các "cổ phiếu nóng".
 
 Chú thích của Zweig: trong bài thơ "Abou Ben Adhem" của nhà thơ lãng mạn Anh Leigh Hunt (1784–1859), một người Hồi giáo ngay thẳng thấy một thiên thần ghi vào sổ vàng "tên những người yêu Chúa". Khi thiên thần nói tên ông không có trong đó, Abou nói: "Vậy xin hãy ghi tôi là người yêu đồng loại." Đêm sau thiên thần trở lại cho Abou xem cuốn sổ, trong đó giờ đây "tên Ben Adhem dẫn đầu tất cả".
 
@@ -616,7 +649,9 @@ Chú thích của Zweig: trong bài thơ "Abou Ben Adhem" của nhà thơ lãng 
 
 #### 8. AAA Enterprises — diễn biến sau đó (tiểu mục "Histoire ultérieure", PDF trang 367–368)
 
-Với số vốn được mở rộng, AAA Enterprises lấn sang hai mảng nữa. Năm 1969 công ty mở một chuỗi cửa hàng bán lẻ thảm và mua một nhà máy sản xuất nhà di động. Kết quả công bố cho chín tháng đầu không thật rực rỡ nhưng khá hơn năm trước một chút: 22 cent/cổ phiếu so với 14 cent. Những gì xảy ra trong mấy tháng tiếp theo thì khó tin theo đúng nghĩa đen. Công ty lỗ 4.365.000 USD, tức 1,49 USD/cổ phiếu. Khoản lỗ này nuốt hết toàn bộ vốn trước đợt huy động, cộng toàn bộ 2.400.000 USD thu được từ bán cổ phiếu, cộng hai phần ba số lãi đã báo cáo trong chín tháng đầu năm 1969. Chỉ còn lại 242.000 USD, tức 8 cent/cổ phiếu, vốn cho các cổ đông đại chúng, những người mới bảy tháng trước đã trả 13 USD/cổ phiếu trong đợt chào bán. Vậy mà cổ phiếu kết thúc năm 1969 ở giá chào mua 8⅛ USD, tức công ty được "định giá" hơn 25 triệu USD.
+Với số vốn được mở rộng, AAA Enterprises lấn sang hai mảng nữa. Năm 1969 công ty mở một chuỗi cửa hàng bán lẻ thảm và mua một nhà máy sản xuất nhà di động. Kết quả công bố cho chín tháng đầu không thật rực rỡ nhưng khá hơn năm trước một chút: 22 cent/cổ phiếu so với 14 cent.
+
+Những gì xảy ra trong mấy tháng tiếp theo thì khó tin theo đúng nghĩa đen. Công ty lỗ 4.365.000 USD, tức 1,49 USD/cổ phiếu. Khoản lỗ này nuốt hết toàn bộ vốn trước đợt huy động, cộng toàn bộ 2.400.000 USD thu được từ bán cổ phiếu, cộng hai phần ba số lãi đã báo cáo trong chín tháng đầu năm 1969. Chỉ còn lại 242.000 USD, tức 8 cent/cổ phiếu, vốn cho các cổ đông đại chúng, những người mới bảy tháng trước đã trả 13 USD/cổ phiếu trong đợt chào bán. Vậy mà cổ phiếu kết thúc năm 1969 ở giá chào mua 8⅛ USD, tức công ty được "định giá" hơn 25 triệu USD.
 
 **AAA Enterprises năm 1969 (dựng theo lời văn của Graham; đơn vị: USD)**
 
@@ -631,7 +666,9 @@ Với số vốn được mở rộng, AAA Enterprises lấn sang hai mảng n�
 **Nhận xét tiếp của Graham.**
 
 1. Thật quá sức tin rằng công ty thực sự lãi 686.000 USD từ tháng 1 đến tháng 9/1969 rồi lỗ 4.365.000 USD trong ba tháng tiếp theo. Ắt hẳn đã có điều gì đó đáng buồn, sai trái và đáng bị buộc tội trong báo cáo ngày 30/9.
-2. Giá đóng cửa cuối năm 8⅛ USD còn cho thấy sự cẩu thả tuyệt đối của giá thị trường chứng khoán rõ hơn cả giá chào bán 13 USD hay mức tăng kiểu "cổ phiếu nóng" lên 28 USD. Hai mức giá kia ít nhất còn dựa trên sự hào hứng và hy vọng, không tương xứng với thực tế và lẽ thường, nhưng ít ra còn hiểu được. Còn mức định giá 25 triệu USD cuối năm được gán cho một công ty đã mất gần sạch vốn, sắp lâm vào tình trạng mất khả năng thanh toán hoàn toàn, và với nó thì chữ "hào hứng" hay "hy vọng" chỉ còn là lời mỉa mai cay đắng. (Đúng là số liệu cuối năm chưa được công bố vào ngày 31/12, nhưng các công ty Phố Wall gắn tên mình với một doanh nghiệp có trách nhiệm phải có báo cáo hoạt động hằng tháng và nắm khá rõ tình hình.)
+2. Giá đóng cửa cuối năm 8⅛ USD còn cho thấy sự cẩu thả tuyệt đối của giá thị trường chứng khoán rõ hơn cả giá chào bán 13 USD hay mức tăng kiểu "cổ phiếu nóng" lên 28 USD. Hai mức giá kia ít nhất còn dựa trên sự hào hứng và hy vọng, không tương xứng với thực tế và lẽ thường, nhưng ít ra còn hiểu được.
+
+   Còn mức định giá 25 triệu USD cuối năm được gán cho một công ty đã mất gần sạch vốn, sắp lâm vào tình trạng mất khả năng thanh toán hoàn toàn, và với nó thì chữ "hào hứng" hay "hy vọng" chỉ còn là lời mỉa mai cay đắng. (Đúng là số liệu cuối năm chưa được công bố vào ngày 31/12, nhưng các công ty Phố Wall gắn tên mình với một doanh nghiệp có trách nhiệm phải có báo cáo hoạt động hằng tháng và nắm khá rõ tình hình.)
 
 #### 9. AAA Enterprises — chương cuối và bài học (tiểu mục "Chapitre final", PDF trang 368–369)
 
@@ -646,7 +683,9 @@ Trong nửa đầu năm 1970, công ty báo lỗ thêm 1 triệu USD. Giờ nó 
 
 Vào lúc Graham viết ấn bản này, đang có phong trào cải cách các lạm dụng ở Phố Wall. Theo ông, sẽ khó áp đặt những thay đổi có giá trị trong lĩnh vực phát hành mới, vì các lạm dụng phần lớn là kết quả của sự cẩu thả và lòng tham của chính công chúng. Nhưng vấn đề đáng được xem xét lâu dài và kỹ lưỡng.
 
-Chú thích của Zweig: bốn câu đầu của đoạn văn này của Graham có thể đọc như văn bia chính thức của bong bóng Internet và viễn thông vỡ đầu năm 2000. Giống như lời cảnh báo của Tổng Y sĩ Mỹ trên bao thuốc lá không ngăn được mọi người hút, không cải cách quản lý nào ngăn được nhà đầu tư "dùng quá liều" lòng tham của chính mình. (Ngay cả chủ nghĩa cộng sản cũng không cấm được bong bóng thị trường: thị trường chứng khoán Trung Quốc tăng 101,7% trong nửa đầu năm 1999 rồi sụp đổ.) Các ngân hàng đầu tư cũng không bao giờ hoàn toàn thoát được áp lực bán cổ phiếu ở bất cứ giá nào thị trường chịu trả. Vòng luẩn quẩn chỉ có thể bị phá vỡ bởi từng nhà đầu tư và từng người tư vấn tài chính một. Nắm vững các nguyên tắc của Graham (nhất là Chương 1 về phân biệt đầu tư và đầu cơ, Chương 8 về ông Thị Trường (Mr. Market) và biến động giá, và Chương 20 về biên an toàn) là cách tốt nhất để bắt đầu.
+Chú thích của Zweig: bốn câu đầu của đoạn văn này của Graham có thể đọc như văn bia chính thức của bong bóng Internet và viễn thông vỡ đầu năm 2000. Giống như lời cảnh báo của Tổng Y sĩ Mỹ trên bao thuốc lá không ngăn được mọi người hút, không cải cách quản lý nào ngăn được nhà đầu tư "dùng quá liều" lòng tham của chính mình. (Ngay cả chủ nghĩa cộng sản cũng không cấm được bong bóng thị trường: thị trường chứng khoán Trung Quốc tăng 101,7% trong nửa đầu năm 1999 rồi sụp đổ.)
+
+Các ngân hàng đầu tư cũng không bao giờ hoàn toàn thoát được áp lực bán cổ phiếu ở bất cứ giá nào thị trường chịu trả. Vòng luẩn quẩn chỉ có thể bị phá vỡ bởi từng nhà đầu tư và từng người tư vấn tài chính một. Nắm vững các nguyên tắc của Graham (nhất là Chương 1 về phân biệt đầu tư và đầu cơ, Chương 8 về ông Thị Trường (Mr. Market) và biến động giá, và Chương 20 về biên an toàn) là cách tốt nhất để bắt đầu.
 
 ### Phần B — Bình luận của Jason Zweig (2003)
 
@@ -767,7 +806,9 @@ Chú thích của Zweig (công khai lợi ích): Jason Zweig là nhân viên c�
 
 Ngày 20/5/1999, eToys Inc. bán 8% cổ phần ra công chúng. Bốn ngân hàng đầu tư danh giá nhất Phố Wall, Goldman, Sachs & Co.; BancBoston Robertson Stephens; Donaldson, Lufkin & Jenrette; và Merrill Lynch & Co., bảo lãnh 8.320.000 cổ phiếu giá 20 USD mỗi cổ phiếu, thu về 166,4 triệu USD. Cổ phiếu tăng vọt, đóng cửa ở 76,5625 USD, tăng 282,8% trong ngày giao dịch đầu tiên. Ở giá đó, eToys (với 102 triệu cổ phiếu) có giá trị thị trường 7,8 tỷ USD.
 
-Chú thích của Zweig: bản cáo bạch của eToys có một trang gấp với tranh hoạt hình gốc về chú lợn đất Arthur (Arthur the aardvark), minh hoạ một cách hài hước việc mua đồ chơi cho trẻ ở eToys dễ hơn nhiều so với ở cửa hàng đồ chơi truyền thống. Như nhà phân tích Gail Bronson của IPO Monitor nói với hãng tin Associated Press ngày eToys chào bán cổ phiếu: "eToys đã điều hành sự phát triển của công ty năm qua rất, rất thông minh và đã định vị mình thành trung tâm trẻ em của Internet... Chìa khoá của một IPO thành công, nhất là IPO dot-com, là tiếp thị tốt và thương hiệu tốt." Zweig nhận xét: Bronson đúng một phần, đó là chìa khoá thành công của IPO đối với công ty phát hành và các ngân hàng của nó. Tiếc thay, với nhà đầu tư, chìa khoá của một IPO thành công là lợi nhuận, thứ eToys không có.
+Chú thích của Zweig: bản cáo bạch của eToys có một trang gấp với tranh hoạt hình gốc về chú lợn đất Arthur (Arthur the aardvark), minh hoạ một cách hài hước việc mua đồ chơi cho trẻ ở eToys dễ hơn nhiều so với ở cửa hàng đồ chơi truyền thống.
+
+Như nhà phân tích Gail Bronson của IPO Monitor nói với hãng tin Associated Press ngày eToys chào bán cổ phiếu: "eToys đã điều hành sự phát triển của công ty năm qua rất, rất thông minh và đã định vị mình thành trung tâm trẻ em của Internet... Chìa khoá của một IPO thành công, nhất là IPO dot-com, là tiếp thị tốt và thương hiệu tốt." Zweig nhận xét: Bronson đúng một phần, đó là chìa khoá thành công của IPO đối với công ty phát hành và các ngân hàng của nó. Tiếc thay, với nhà đầu tư, chìa khoá của một IPO thành công là lợi nhuận, thứ eToys không có.
 
 Người mua nhận được loại doanh nghiệp nào với giá đó? Doanh số của eToys đã tăng 4.261% trong năm trước, và riêng quý gần nhất nó có thêm 75.000 khách hàng. Nhưng trong 20 tháng hoạt động, eToys có tổng doanh thu 30,6 triệu USD và lỗ ròng 30,8 triệu USD trên số doanh thu đó, nghĩa là eToys chi 2 USD để bán mỗi 1 USD đồ chơi.
 
@@ -832,7 +873,11 @@ Những vụ đổ vỡ tài chính lớn hiếm khi bất ngờ với người 
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương này là bài thực hành về **phân tích chất lượng lợi nhuận (earnings quality)** và **phân tích tín dụng (credit analysis)**: kiểm tra hệ số trang trải lãi vay (interest coverage), đòn bẩy tài chính (leverage), vốn chủ sở hữu hữu hình (tangible book value), mức thuế thực nộp so với lợi nhuận kế toán (cash taxes vs. book income). Nó minh hoạ các thủ thuật **quản trị lợi nhuận (earnings management)**: kế toán "tắm lớn" (big bath), chi phí không lặp lại (nonrecurring charges), báo cáo pro forma, vốn hoá chi phí (capitalization), thay đổi giả định hưu trí và khấu hao, phân bổ giá mua (purchase price allocation) vào R&D dở dang để tránh lợi thế thương mại. Về chiến lược doanh nghiệp, đó là rủi ro của **tăng trưởng nhờ thâu tóm (roll-up, serial acquisition)** và **thâu tóm bằng vốn vay (leveraged takeover)**. Về thị trường vốn, đó là vấn đề **xung đột lợi ích của bên bảo lãnh phát hành (underwriter conflict)**, **IPO định giá thấp có chủ đích (IPO underpricing)** và **bong bóng theo chủ đề (thematic bubbles)**. Trong tất cả, bài học trung tâm là thiếu **biên an toàn** (margin of safety).
+Chương này là bài thực hành về **phân tích chất lượng lợi nhuận (earnings quality)** và **phân tích tín dụng (credit analysis)**: kiểm tra hệ số trang trải lãi vay (interest coverage), đòn bẩy tài chính (leverage), vốn chủ sở hữu hữu hình (tangible book value), mức thuế thực nộp so với lợi nhuận kế toán (cash taxes vs. book income).
+
+Nó minh hoạ các thủ thuật **quản trị lợi nhuận (earnings management)**: kế toán "tắm lớn" (big bath), chi phí không lặp lại (nonrecurring charges), báo cáo pro forma, vốn hoá chi phí (capitalization), thay đổi giả định hưu trí và khấu hao, phân bổ giá mua (purchase price allocation) vào R&D dở dang để tránh lợi thế thương mại.
+
+Về chiến lược doanh nghiệp, đó là rủi ro của **tăng trưởng nhờ thâu tóm (roll-up, serial acquisition)** và **thâu tóm bằng vốn vay (leveraged takeover)**. Về thị trường vốn, đó là vấn đề **xung đột lợi ích của bên bảo lãnh phát hành (underwriter conflict)**, **IPO định giá thấp có chủ đích (IPO underpricing)** và **bong bóng theo chủ đề (thematic bubbles)**. Trong tất cả, bài học trung tâm là thiếu **biên an toàn** (margin of safety).
 
 ## Thuật ngữ
 
@@ -916,11 +961,17 @@ Khác với nhiều sách đầu tư chỉ khuyên cá nhân cẩn thận, Graha
 
 ### Số liệu đã cũ nhưng kịch bản lặp lại gần như nguyên vẹn sau năm 2003
 
-Theo hiểu biết của người tổng hợp, không tra cứu: sau 2003, cùng các mẫu hình này tiếp tục xuất hiện. Các ngân hàng và tổ chức tài chính dùng đòn bẩy cực cao trước khủng hoảng 2008 (Lehman Brothers, Bear Stearns) giống LTV ở chỗ nợ tăng nhanh hơn vốn hữu hình và được các bên cho vay tiếp sức. Các công ty tăng trưởng nhờ thâu tóm với nhiều khoản "điều chỉnh" lợi nhuận tiếp tục gây thất vọng (General Electric là ví dụ quen thuộc về chi phí "không lặp lại" và sự phức tạp kế toán; Valeant trong ngành dược khoảng 2015 là một "kẻ thâu tóm hàng loạt" sụp đổ). Wirecard (Đức, 2020) là một vụ báo lãi không có thật. Làn sóng SPAC và IPO công nghệ năm 2020–2021 lặp lại câu chuyện AAA và eToys: nhiều công ty chưa có lợi nhuận được định giá theo chủ đề thời thượng rồi mất phần lớn giá trị khi lãi suất tăng trở lại từ năm 2022. Chỉ có tên ngành thay đổi: "nhượng quyền" năm 1969, Internet năm 1999, xe điện, tiền mã hoá và trí tuệ nhân tạo về sau.
+Theo hiểu biết của người tổng hợp, không tra cứu: sau 2003, cùng các mẫu hình này tiếp tục xuất hiện. Các ngân hàng và tổ chức tài chính dùng đòn bẩy cực cao trước khủng hoảng 2008 (Lehman Brothers, Bear Stearns) giống LTV ở chỗ nợ tăng nhanh hơn vốn hữu hình và được các bên cho vay tiếp sức.
+
+Các công ty tăng trưởng nhờ thâu tóm với nhiều khoản "điều chỉnh" lợi nhuận tiếp tục gây thất vọng (General Electric là ví dụ quen thuộc về chi phí "không lặp lại" và sự phức tạp kế toán; Valeant trong ngành dược khoảng 2015 là một "kẻ thâu tóm hàng loạt" sụp đổ). Wirecard (Đức, 2020) là một vụ báo lãi không có thật.
+
+Làn sóng SPAC và IPO công nghệ năm 2020–2021 lặp lại câu chuyện AAA và eToys: nhiều công ty chưa có lợi nhuận được định giá theo chủ đề thời thượng rồi mất phần lớn giá trị khi lãi suất tăng trở lại từ năm 2022. Chỉ có tên ngành thay đổi: "nhượng quyền" năm 1969, Internet năm 1999, xe điện, tiền mã hoá và trí tuệ nhân tạo về sau.
 
 ### Một số chuẩn của Graham cần điều chỉnh, nhưng tinh thần vẫn nguyên giá trị
 
-Chuẩn trang trải lãi vay 5 lần trước thuế cho trái phiếu đường sắt phản ánh điều kiện năm 1934–1972; ngày nay các tổ chức xếp hạng tín nhiệm dùng nhiều chỉ tiêu khác (nợ trên EBITDA, dòng tiền tự do trên nợ). Như Zweig nhận xét, tỷ lệ hoạt động 70% của đường sắt ngày nay đã được coi là xuất sắc, nên con số 47,5% của Penn Central không thể so trực tiếp với chuẩn hiện tại (hai thước đo không giống hệt nhau). Chuẩn mực kế toán cũng thay đổi: khấu hao lợi thế thương mại đã được thay bằng kiểm tra suy giảm giá trị ở Mỹ, khiến các khoản xoá sổ đến dồn dập vào năm xấu (như Lucent, AOL Time Warner). Nhưng câu hỏi cốt lõi "lợi nhuận này có thật không, nợ này có trả được không, vốn hữu hình còn bao nhiêu" vẫn áp dụng y nguyên.
+Chuẩn trang trải lãi vay 5 lần trước thuế cho trái phiếu đường sắt phản ánh điều kiện năm 1934–1972; ngày nay các tổ chức xếp hạng tín nhiệm dùng nhiều chỉ tiêu khác (nợ trên EBITDA, dòng tiền tự do trên nợ). Như Zweig nhận xét, tỷ lệ hoạt động 70% của đường sắt ngày nay đã được coi là xuất sắc, nên con số 47,5% của Penn Central không thể so trực tiếp với chuẩn hiện tại (hai thước đo không giống hệt nhau).
+
+Chuẩn mực kế toán cũng thay đổi: khấu hao lợi thế thương mại đã được thay bằng kiểm tra suy giảm giá trị ở Mỹ, khiến các khoản xoá sổ đến dồn dập vào năm xấu (như Lucent, AOL Time Warner). Nhưng câu hỏi cốt lõi "lợi nhuận này có thật không, nợ này có trả được không, vốn hữu hình còn bao nhiêu" vẫn áp dụng y nguyên.
 
 ### Quan điểm trái chiều: không phải mọi công ty tăng trưởng nhờ thâu tóm hay mọi IPO đắt đều thất bại
 
@@ -928,8 +979,194 @@ Một số người sẽ phản biện rằng có những "kẻ thâu tóm hàng
 
 ### Vận dụng cho nhà đầu tư cá nhân: một danh sách kiểm tra ngắn rút từ tám trường hợp
 
-Trước khi mua, nhà đầu tư cá nhân có thể tự hỏi: (1) lợi nhuận trước lãi vay và thuế gấp mấy lần chi phí lãi vay? (2) công ty có nộp thuế và có dòng tiền tương xứng với lợi nhuận báo cáo không? (3) vốn chủ còn bao nhiêu sau khi trừ lợi thế thương mại và tài sản vô hình? (4) có khoản chi phí "đặc biệt" nào xuất hiện năm này qua năm khác không? (5) công ty có cho khách hàng vay hoặc bảo lãnh để bán hàng không? (6) công ty tăng trưởng nhờ mua bán, và trả bằng gì? (7) với IPO: giá phát hành gấp bao nhiêu lần giá trị sổ sách và lợi nhuận, ai bán ra (công ty hay cổ đông sáng lập), và bên bảo lãnh được gì? Một câu trả lời xấu chưa đủ để kết luận, nhưng nhiều câu trả lời xấu cùng lúc, như ở cả tám trường hợp trong chương, là lý do để tránh xa.
+Trước khi mua, nhà đầu tư cá nhân có thể tự hỏi:
+
+1. Lợi nhuận trước lãi vay và thuế gấp mấy lần chi phí lãi vay?
+2. Công ty có nộp thuế và có dòng tiền tương xứng với lợi nhuận báo cáo không?
+3. Vốn chủ còn bao nhiêu sau khi trừ lợi thế thương mại và tài sản vô hình?
+4. Có khoản chi phí "đặc biệt" nào xuất hiện năm này qua năm khác không?
+5. Công ty có cho khách hàng vay hoặc bảo lãnh để bán hàng không?
+6. Công ty tăng trưởng nhờ mua bán, và trả bằng gì?
+7. Với IPO: giá phát hành gấp bao nhiêu lần giá trị sổ sách và lợi nhuận, ai bán ra (công ty hay cổ đông sáng lập), và bên bảo lãnh được gì?
+
+Một câu trả lời xấu chưa đủ để kết luận, nhưng nhiều câu trả lời xấu cùng lúc, như ở cả tám trường hợp trong chương, là lý do để tránh xa.
 
 ### Vận dụng định tính cho nhà đầu tư Việt Nam
 
-Ở mức định tính, các mẫu hình trong chương đều có thể nhận ra trên một thị trường mới nổi: doanh nghiệp tăng trưởng bằng vay nợ và thâu tóm nhiều công ty con, lợi nhuận đến từ các khoản đánh giá lại hoặc giao dịch với bên liên quan hơn là từ hoạt động kinh doanh chính, các đợt phát hành cổ phiếu ăn theo một chủ đề đang nóng, hay cổ đông lớn bán ra ngay trong đợt phát hành. Bài học của Graham áp dụng trực tiếp: đọc kỹ thuyết minh báo cáo tài chính (nhất là các khoản phải thu, cho vay, bảo lãnh và giao dịch với bên liên quan), so lợi nhuận với dòng tiền và số thuế thực nộp, tính vốn chủ hữu hình, và không để tên tuổi của công ty chứng khoán bảo lãnh hay mức tăng giá những phiên đầu thay thế cho phân tích.
+Ở mức định tính, các mẫu hình trong chương đều có thể nhận ra trên một thị trường mới nổi: doanh nghiệp tăng trưởng bằng vay nợ và thâu tóm nhiều công ty con, lợi nhuận đến từ các khoản đánh giá lại hoặc giao dịch với bên liên quan hơn là từ hoạt động kinh doanh chính, các đợt phát hành cổ phiếu ăn theo một chủ đề đang nóng, hay cổ đông lớn bán ra ngay trong đợt phát hành.
+
+Bài học của Graham áp dụng trực tiếp: đọc kỹ thuyết minh báo cáo tài chính (nhất là các khoản phải thu, cho vay, bảo lãnh và giao dịch với bên liên quan), so lợi nhuận với dòng tiền và số thuế thực nộp, tính vốn chủ hữu hình, và không để tên tuổi của công ty chứng khoán bảo lãnh hay mức tăng giá những phiên đầu thay thế cho phân tích.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 17 trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết (Phần A, mục 1–2 về Penn Central, mục 3 về Ling-Temco-Vought, mục 4–6 về NVF và Sharon Steel, mục 7–9 về AAA Enterprises; Phần B, bình luận của Zweig về Lucent, Tyco, AOL–Time Warner và eToys), mỗi nhánh ghi dấu hiệu cảnh báo có sẵn từ trước, con số then chốt và kết cục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 17: thảm hoạ tài chính lớn lộ rõ từ trước qua con số đơn giản, người thua lỗ vì không làm phép tính sơ đẳng`"]
+  n1["`Phần A, mục 1–2 — Penn Central: gã khổng lồ lung lay bị định giá quá cao`"]
+  n0 --- n1
+  n2["`Đường sắt lớn nhất Mỹ phá sản 6/1970, cổ phiếu từ đỉnh 86½ USD (1968) còn 5½ USD`"]
+  n1 --- n2
+  n3["`Lãi vay chỉ được trang trải 1,91 lần (1967) và 1,98 lần (1968), chuẩn của Graham là 5 lần trước thuế`"]
+  n1 --- n3
+  n4["`11 năm không nộp thuế thu nhập là lý do để nghi lợi nhuận báo cáo có thật không`"]
+  n1 --- n4
+  n5["`Đổi trái phiếu Pennsylvania RR 4½% lấy Pennsylvania Electric 4⅜% không mất gì: cuối 1970 là 18½ so với 66½`"]
+  n1 --- n5
+  n6["`Khoe #quot;lợi nhuận#quot; 6,80 USD/cổ phiếu, để riêng chi phí sáp nhập 12 USD/cổ phiếu (275 triệu USD)`"]
+  n1 --- n6
+  n7["`Tỷ lệ chi phí chạy tàu 47,5%, so với 35,2% của Norfolk #amp; Western`"]
+  n1 --- n7
+  n8["`Bài học: làm phần việc sơ đẳng trước khi xem biến động giá hay nhìn quả cầu pha lê`"]
+  n1 --- n8
+  n9["`Phần A, mục 3 — Ling-Temco-Vought: xây đế chế nhanh bằng nợ`"]
+  n0 --- n9
+  n10["`Doanh số 7 triệu USD (1958) lên 2,8 tỷ USD (1968), nợ từ 44 triệu lên 1.653 triệu USD`"]
+  n9 --- n10
+  n11["`Năm 1961 dồn 13 triệu USD chi phí vào năm xấu để 1962 báo #quot;lợi nhuận kỷ lục#quot;`"]
+  n9 --- n11
+  n12["`Giá năm 1967 gấp 22 lần tài sản hữu hình ròng 7,66 USD/cổ phiếu`"]
+  n9 --- n12
+  n13["`Cuối 1968 vốn hữu hình cho cổ phiếu phổ thông chỉ 13 triệu USD, khoảng 3 USD/cổ phiếu`"]
+  n9 --- n13
+  n14["`Hai ngân hàng đầu tư bán 600.000 cổ phiếu giá 111 USD, chưa đầy 3 năm sau còn 7⅛`"]
+  n9 --- n14
+  n15["`Trang trải lãi vay không đạt chuẩn từ 1966, ngân hàng vẫn cho vay thêm gần 400 triệu USD`"]
+  n9 --- n15
+  n16["`Năm 1970 lỗ ròng gần 70 triệu USD, trái phiếu lớn nhất có lúc còn 15 cent trên 1 USD`"]
+  n9 --- n16
+  n17["`Zweig: kẻ thâu tóm hàng loạt để lại tàn phá tài chính, như Conseco, Tyco, WorldCom`"]
+  n9 --- n17
+  n18["`Phần A, mục 4–6 — NVF thâu tóm Sharon Steel lớn gấp 7 lần`"]
+  n0 --- n18
+  n19["`NVF vốn chủ 17,4 triệu USD mua Sharon vốn chủ 101 triệu USD bằng trái phiếu 5% và chứng quyền`"]
+  n18 --- n19
+  n20["`Mỗi cổ phiếu Sharon đổi 70 USD mệnh giá trái phiếu cộng chứng quyền mua 1½ cổ phiếu NVF giá 22 USD`"]
+  n18 --- n20
+  n21["`Trái phiếu 5% mới chỉ bán được tối đa 42 cent trên 1 USD trong năm phát hành`"]
+  n18 --- n21
+  n22["`Bỏ #quot;chi phí nợ hoãn lại#quot; 58,6 triệu USD khỏi tài sản: vốn chủ hữu hình chỉ 2,2 triệu USD`"]
+  n18 --- n22
+  n23["`Vốn thực từ 23,71 USD còn khoảng 3 USD/cổ phiếu, chứng quyền 30 triệu USD lớn hơn cả cổ phiếu: #quot;đuôi vẫy chó#quot;`"]
+  n18 --- n23
+  n24["`Coi trái phiếu như #quot;bán#quot; ở giá 43 để trừ dần chiết khấu 54 triệu USD, bớt khoảng 900.000 USD thuế/năm`"]
+  n18 --- n24
+  n25["`S#amp;P ghi P/E chỉ 2, nhưng cả năm 1970 lãi 2,03 USD (pha loãng 1,80 USD)`"]
+  n18 --- n25
+  n26["`Cổ phiếu và chứng quyền khoảng 14 triệu USD so với 135 triệu USD nợ trái phiếu`"]
+  n18 --- n26
+  n27["`Phần A, mục 7–9 — AAA Enterprises: IPO ăn theo chữ #quot;nhượng quyền#quot;`"]
+  n0 --- n27
+  n28["`Tháng 3/1969 bán 500.000 cổ phiếu giá 13 USD, khoảng 10 lần giá trị sổ sách`"]
+  n27 --- n28
+  n29["`Giá vọt lên 28 USD: vốn hoá 84 triệu USD, 115 lần lợi nhuận, sổ sách chỉ khoảng 4,2 triệu USD`"]
+  n27 --- n29
+  n30["`Williams bán 300.000 cổ phiếu sổ sách 180.000 USD lấy 3,6 triệu USD, bên bảo lãnh chia 500.000 USD`"]
+  n27 --- n30
+  n31["`3 tháng cuối 1969 lỗ 4.365.000 USD, vốn chủ còn 8 cent/cổ phiếu mà giá vẫn 8⅛ USD`"]
+  n27 --- n31
+  n32["`Tháng 1/1971 nộp đơn phá sản, chưa đầy hai năm sau IPO`"]
+  n27 --- n32
+  n33["`Graham: công chúng đầu cơ không sửa được, mua bất cứ thứ gì gắn với mốt thời thượng`"]
+  n27 --- n33
+  n34["`Graham hỏi: SEC có nên thêm quyền, có nên công bố bảng thành tích các đợt phát hành`"]
+  n27 --- n34
+  n35["`Phần B — Zweig 2003: bốn kiểu cực đoan lặp lại trong bong bóng 1999–2002`"]
+  n0 --- n35
+  n36["`Đề từ John Gardner: #quot;hãy nhìn bằng cả hai mắt#quot;, đọc đủ mọi phía báo cáo tài chính`"]
+  n35 --- n36
+  n37["`Lucent — gã khổng lồ vốn hoá 192,9 tỷ USD giữa 2000`"]
+  n35 --- n37
+  n38["`Trả 4,8 tỷ USD cho Chromatis, 4,2 tỷ là lợi thế thương mại cho công ty không doanh thu`"]
+  n37 --- n38
+  n39["`Cho khách hàng vay 1,5 tỷ USD, bảo lãnh 350 triệu USD, vốn hoá chi phí phần mềm`"]
+  n37 --- n39
+  n40["`Cổ phiếu từ khoảng 51 USD còn 1,26 USD cuối 2002, mất gần 190 tỷ USD`"]
+  n37 --- n40
+  n41["`Tyco — kẻ thâu tóm hàng loạt`"]
+  n35 --- n41
+  n42["`Chi hơn 37 tỷ USD mua công ty 1997–2001, khoảng 200 công ty trong năm tài chính 2000`"]
+  n41 --- n42
+  n43["`Chi phí #quot;không lặp lại#quot; MORON 2,5 tỷ USD, tăng trong 4 trên 5 năm`"]
+  n41 --- n43
+  n44["`Năm tài chính 2002 lỗ 9,4 tỷ USD, cổ phiếu giảm 71% trong 12 tháng`"]
+  n41 --- n44
+  n45["`AOL nuốt Time Warner — công ty nhỏ thâu tóm công ty lớn`"]
+  n35 --- n45
+  n46["`AOL P/E 164 lần nhận 55% công ty mới dù Time Warner lớn gấp 5 lần`"]
+  n45 --- n46
+  n47["`Lỗ 98,7 tỷ USD năm 2002, cổ đông mất khoảng 80% giá trị`"]
+  n45 --- n47
+  n48["`eToys — IPO của công ty gần như vô giá trị`"]
+  n35 --- n48
+  n49["`20 tháng: doanh thu 30,6 triệu USD, lỗ 30,8 triệu USD, chi 2 USD để bán 1 USD`"]
+  n48 --- n49
+  n50["`Vốn hoá ngày đầu 7,8 tỷ USD, cao hơn Toys #quot;R#quot; Us gần 2 tỷ USD`"]
+  n48 --- n50
+  n51["`Phá sản 3/2001, cổ phiếu từ đỉnh 86 USD còn 1 cent`"]
+  n48 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Phép thử sơ đẳng: trang trải lãi vay, thuế thực nộp, vốn chủ hữu hình, nợ so với vốn chủ`"]
+  n52 --- n53
+  n54["`Chi phí #quot;không lặp lại#quot; năm nào cũng có thì cộng vào chi phí bình thường`"]
+  n52 --- n54
+  n55["`Coi chừng công ty lớn lên nhờ thâu tóm bằng nợ hoặc cổ phiếu định giá cao`"]
+  n52 --- n55
+  n56["`Tên tuổi công ty, ngân hàng cho vay hay ngân hàng bảo lãnh không thay thế được phân tích`"]
+  n52 --- n56
+  n57["`Cả tám trường hợp đều thiếu biên an toàn`"]
+  n52 --- n57
+  class n0 root
+  class n1,n9,n18,n27,n35,n37,n41,n45,n48,n52 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n36,n38,n39,n40,n42,n43,n44,n46,n47,n49,n50,n51,n53,n54,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 17 "Quatre histoires de cas extrêmement instructives" (PDF trang 357–369) và "Commentaire sur le chapitre 17" (PDF trang 369–376). Chú thích của Graham lấy ở phần chú thích cuối sách (PDF trang 481–490); chú thích của Zweig ở PDF trang 576–581; phụ lục 6 về cách hạch toán thuế của NVF ở PDF trang 479–480.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig (2003), nhà báo tài chính, cây bút chuyên mục của tạp chí *Money*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 11 đến Chương 16, Graham trao cho người đọc các công cụ phân tích chứng khoán: Chương 11 nêu các phép thử cơ bản cho trái phiếu và cổ phiếu (hệ số trang trải lãi vay, cấu trúc vốn, giá trị sổ sách); Chương 12 ([C12-nhung-dieu-can-xet-ve-eps.md](C12-nhung-dieu-can-xet-ve-eps.md)) cảnh báo về các khoản "bất thường" và các mánh làm đẹp lợi nhuận trên mỗi cổ phiếu (EPS); Chương 13 so sánh bốn công ty niêm yết; Chương 14–15 đưa ra tiêu chí chọn cổ phiếu; Chương 16 ([C16-chung-khoan-chuyen-doi-va-chung-quyen.md](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) chỉ ra mặt trái của chứng khoán chuyển đổi và chứng quyền.
+
+Chương 17 không đưa thêm công cụ mới mà cho thấy điều gì xảy ra khi người trong nghề (nhà phân tích, người quản lý quỹ, ngân hàng cho vay, công ty chứng khoán bảo lãnh phát hành) bỏ qua chính các công cụ đó: bốn vụ đổ vỡ 1968–1971, mỗi vụ là một kiểu "cực đoan".
+
+Chương 18 ([C18-so-sanh-tam-cap-cong-ty.md](C18-so-sanh-tam-cap-cong-ty.md)) tiếp tục cách trình bày bằng ví dụ thật, nhưng đặt từng cặp công ty cạnh nhau để so sánh; Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md)) rút ra nguyên tắc chung là biên an toàn, thứ mà cả bốn trường hợp ở đây đều thiếu.
+
+## Lưu ý
+
+- **Bốn bảng/hình của phần này bị mất trong bản PDF.** Ảnh các trang 361 (vị trí Tableau 17-1 về Ling-Temco-Vought), 370 (Figure 17-1 về Lucent), 372 (Figure 17-2 về Tyco) và 375–376 (Figure 17-3 về eToys và Toys "R" Us) chỉ còn khoảng trắng giữa tiêu đề và dòng ghi đơn vị/nguồn; người tổng hợp đã kiểm tra, các trang này không chứa ảnh nhúng nào. Vì không tra web và không muốn chép số theo trí nhớ không chắc chắn, bản tổng hợp này chỉ dựng lại các bảng từ những con số có trong lời văn của Graham và Zweig, ghi rõ ở mỗi bảng là "dựng lại từ lời văn", không phải bảng gốc. Người đọc muốn đủ số liệu cần tra bản tiếng Anh.
+- Lỗi số trong bản PDF:
+  - Giá cổ phiếu Lucent ngày 30/6/2000 được in là "51 062 $"; đúng phải là khoảng 51,06 USD một cổ phiếu (bản tiếng Anh viết 51,0625 USD theo cách niêm yết phân số thời đó), vì cổ phiếu kết thúc năm 2002 ở 1,26 USD và mất "gần 190 tỷ USD giá trị".
+  - Trái phiếu Pennsylvania RR lúc đầu ghi "4½s" nhưng đoạn sau ghi "les 4¼ de chemin de fer"; đây là cùng một trái phiếu lãi suất 4½%.
+  - Nợ của LTV năm 1969 ghi "1 865 millions" ở một chỗ và "1 869 millions" ở chỗ khác.
+  - Một số phép chia trong sách chỉ khớp xấp xỉ: 86½/3,80 = 22,8 lần (sách ghi "24 lần"); 286 triệu USD/3,8 triệu cổ phiếu = 75 USD (sách ghi "khoảng 77 USD"); 8⅛ USD × khoảng 2,93 triệu cổ phiếu của AAA ≈ 23,8 triệu USD (sách ghi "hơn 25 triệu USD"); NVF tiết kiệm thuế "khoảng 1.000.000 USD" ở Chương 17 nhưng "khoảng 900.000 USD" ở phụ lục 6.
+
+  Bản tổng hợp giữ nguyên số của sách.
+- Bản dịch máy lệch nghĩa ở các chỗ:
+  - "analyse de la sécurité" là *security analysis* (phân tích chứng khoán), không phải "phân tích an ninh".
+  - "taux de transport" là *transportation ratio* của đường sắt (chi phí chạy tàu chia cho doanh thu).
+  - "les actions se vendaient à leur Record de 1929" nghĩa là cổ phiếu đạt mức cao kỷ lục, vượt cả đỉnh năm 1929.
+  - "Il a multiplié le nombre d'actions de la société par 2 710 000" nghĩa đúng là Williams tăng số cổ phiếu của công ty lên 2.710.000 (không phải nhân lên 2,71 triệu lần).
+  - "4 500 émissions impaires" là "khoảng 4.500 mã" (*4,500-odd issues*), không phải "mã lẻ".
+  - "une sorte de partition" là một kiểu bảng thành tích (*box score*) của các đợt phát hành, không phải "bản nhạc".
+  - "nature de queue de chien" là "cái đuôi vẫy con chó".
+  - "garçon blond" là cách dịch chữ "cậu bé vàng" (*golden boy*), tức "thần đồng".
+  - "coffre à l'espoir" là *hope chest*, tức "rương hy vọng".
+
+  Câu Zweig mượn ý Winston Churchill về Tyco bị dịch thành "chưa bao giờ nhiều sản phẩm được bán cho ít người đến vậy", nghe lệch với ý chính của đoạn (Tyco là người *mua* rất nhiều công ty); bản tổng hợp hiểu theo ý của đoạn văn.
+- Ghi chú dưới Figure 17-2 nói số liệu tính bằng "centaines de millions de dollars" (trăm triệu USD); nhiều khả năng bản gốc là "triệu USD", vì lời văn nêu các khoản như 929 triệu, 507 triệu, 257 triệu USD.
+- Chú thích của Zweig về Kozlowski bị dịch máy làm hỏng: "15 000 $ pour un porte-parapluie et de 6 000 $ pour un porte-parapluie. rideau de douche"; nghĩa đúng là 15.000 USD cho một giá để ô và 6.000 USD cho một tấm rèm phòng tắm.
+- Chú thích của Zweig trong phần bình luận đánh số 1–5 (Lucent, Tyco, AOL), rồi đoạn eToys lại bắt đầu từ "1"; trong bản tiếng Anh, theo hiểu biết của người tổng hợp, đây là chú thích số 6.
+- Graham viết "nous présentons notre solution à l'annexe 6" (phụ lục 6 của sách); bản tổng hợp chép thẳng nội dung phụ lục 6 vào mục NVF. Chú thích cuối sách ở Chương 18 có chỗ dẫn "p. 434 ci-dessus" (trang của bản tiếng Anh) để nói về AAA Enterprises; bản PDF không có số trang in.
+- Số liệu năm 1970–1971 và 2000–2002 là số liệu lịch sử. Theo hiểu biết của người tổng hợp, không tra cứu: Lucent sáp nhập với Alcatel năm 2006; Tyco tách thành nhiều công ty năm 2007; AOL và Time Warner chia tách năm 2009; Toys "R" Us phá sản năm 2017–2018. Các chuẩn mực kế toán cũng đã đổi: từ năm 2001–2002 ở Mỹ, lợi thế thương mại không còn khấu hao đều mà phải kiểm tra suy giảm giá trị hằng năm (chính vì vậy Lucent và AOL Time Warner ghi nhận các khoản xoá sổ lợi thế thương mại khổng lồ năm 2001–2002).

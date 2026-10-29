@@ -1,35 +1,22 @@
 # Phụ lục 2–7 (Annexes 2 à 7)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; các phụ lục: 2. "Règles importantes concernant l'imposition des revenus de placements et des opérations sur titres (en 1972)" (PDF trang 463–464); 3. "Les bases de la fiscalité des investissements (mis à jour en 2003)" (PDF trang 464–465); 4. "La nouvelle spéculation sur les actions ordinaires" (PDF trang 465–477); 5. "Une histoire de cas: Aetna Maintenance Co." (PDF trang 477–479); 6. "Comptabilité fiscale pour l'acquisition par NVF des actions de Sharon Steel" (PDF trang 479–480); 7. "Les entreprises technologiques comme investissements" (PDF trang 480–481). Chú thích của Graham ở mục "Annexes" phần chú thích cuối sách (PDF trang 490); một chú thích liên quan của Zweig (PDF trang 618).
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett. Phụ lục 2, 5, 6, 7 viết cho ấn bản 1973 (văn bản 1971–1972; phần đầu Phụ lục 5 lấy từ ấn bản 1965); Phụ lục 4 là bài nói của Graham năm 1958; Phụ lục 3 do nhà xuất bản cập nhật năm 2003 (sách không ghi tên người viết). Các phụ lục này không có bình luận của Jason Zweig.
-**Vị trí trong lập luận của cả cuốn sách:** Các phụ lục là tài liệu bổ trợ cho các chương. Phụ lục 2 và 3 tóm tắt quy tắc thuế Mỹ với thu nhập đầu tư, nền cho các so sánh trái phiếu chịu thuế với trái phiếu miễn thuế và cổ tức với lãi vốn ở [Chương 4](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md) và các chương về quỹ. Phụ lục 4, bài nói "Sự đầu cơ mới vào cổ phiếu phổ thông" năm 1958, là nền lý thuyết cho nhận định ở [Chương 8](C08-nha-dau-tu-va-bien-dong-thi-truong.md) rằng cổ phiếu chất lượng càng cao và giá càng xa giá trị sổ sách thì càng mang tính đầu cơ, và cho lời khuyên ở [Chương 14](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md), [Chương 15](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md) nên chọn những công ty vững vàng, "ở giữa", có giá vừa phải. Phụ lục 5 kể tiếp ví dụ Aetna Maintenance mà [Chương 6](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md) dùng để cảnh báo về phát hành mới. Phụ lục 6 là lời giải bài toán kế toán trong vụ NVF thâu tóm Sharon Steel ở [Chương 17](C17-bon-truong-hop-dang-hoc.md). Phụ lục 7 là dữ liệu về các công ty "công nghệ" niêm yết 1968–1971, minh hoạ lời cảnh báo về cổ phiếu thời thượng và phát hành mới. Phụ lục đứng sau [Lời bạt](PS-loi-bat.md) và [Phụ lục 1](PL1-nhung-sieu-nha-dau-tu-cua-graham-va-doddsville.md) (bài của Warren Buffett, 1984).
-**Ý chính:** Graham muốn người đọc hiểu rằng **cách thị trường định giá cổ phiếu đã đảo ngược so với thời trước: yếu tố đầu cơ xưa kia nằm trong chính doanh nghiệp (công ty yếu, ngành bấp bênh, sổ sách bí ẩn, gọi là đầu cơ "nội sinh"), còn nay yếu tố đầu cơ chính đến từ bên ngoài doanh nghiệp, từ thái độ của người mua và các nhà phân tích chứng khoán khi họ trả tiền chủ yếu cho kỳ vọng tương lai (đầu cơ "ngoại sinh").** Ví dụ trung tâm là IBM: năm 1915–1916 tiền thân của IBM bán khoảng 7 lần lợi nhuận và bị chê là "chỉ có nước" (tài sản ảo); năm 1926, sau 11 năm lợi nhuận tăng hơn 5 lần, vẫn bán khoảng 7 lần lợi nhuận với tỷ suất cổ tức 6,7%; đến 1957, hệ số P/E bình quân lên 42 và cổ phiếu bán khoảng 7 lần giá trị sổ sách thay vì 7 lần lợi nhuận. 3M được thị trường định giá 1,7 tỷ USD, trong đó chỉ 200 triệu là tài sản ròng, rồi vài tháng sau thị trường cắt 450 triệu USD khỏi phần "lợi thế thương mại" đó. Toán học cao cấp (giả định tăng trưởng lạc quan, chiếu dài vào tương lai, lãi kép) có thể biện minh cho bất kỳ mức giá nào, nên "càng nhiều toán càng đầu cơ". Kết luận: đồ thị mức độ đầu cơ theo chất lượng công ty nay có hình chữ U; vùng an toàn nhất là ở giữa, các công ty vững vàng tăng trưởng ngang nền kinh tế, thường bán dưới giá trị và có sẵn biên an toàn: *Medius tutissimus ibis*, "đi ở giữa là an toàn nhất". Các phụ lục còn lại cụ thể hoá cùng thông điệp bằng tình huống: Aetna Maintenance phát hành 9 USD, lên 15 USD, rơi xuống 7/8 USD, đổi ngành rồi lại được đẩy lên khoảng 200 lần lợi nhuận bình quân; NVF dùng giá thấp của trái phiếu mình phát hành để tiết kiệm khoảng 900.000 USD thuế mỗi năm; trong 46 công ty mang tên "công nghệ" năm 1971 chỉ 6 công ty lãi hơn 1 USD/cổ phiếu và 26 công ty báo lỗ.
+## Ý chính
 
-> **Lưu ý:**
-> - **Hai bảng bị mất trong bản PDF.** Ở Phụ lục 5 (PDF trang 477–478), sau câu "Les ventes et les bénéfices avant le financement étaient:" là khoảng trắng gần nửa trang, không có số; ở Phụ lục 7 (PDF trang 480), sau câu "nous trouvons les développements suivants:" cũng là khoảng trắng. Đã kiểm tra trên ảnh trang và kiểm tra cấu trúc PDF: hai trang này không chứa ảnh nhúng nào, tức bảng bị mất hẳn khi xuất bản PDF, không phải lỗi hiển thị. Bảng "sau khi huy động vốn" của Phụ lục 5 thì còn (dạng dòng chữ) và được chép đầy đủ.
->   - Theo trí nhớ của người tổng hợp về bản tiếng Anh, **không kiểm chứng được và có thể sai**: bảng trước huy động vốn của Aetna Maintenance có dòng năm tài chính kết thúc tháng 6/1961 với doanh thu khoảng 3.615.000 USD, lợi nhuận ròng khoảng 187.000 USD, EPS khoảng 0,69 USD, còn các năm 1956–1960 chỉ lãi vài chục nghìn USD (EPS chỉ vài xu đến khoảng 0,3 USD). Bảng ở Phụ lục 7 chia 45 công ty năm 1968 thành: 12 bị loại khỏi *Stock Guide*, 9 báo lỗ, 13 lãi dưới 1 USD/cổ phiếu, 11 lãi trên 1 USD/cổ phiếu (cộng lại 45), kèm thống kê mức giảm giá so với đỉnh năm 1968 mà người tổng hợp không nhớ chắc. Các con số này **không** được dùng trong phần Nội dung chi tiết.
-> - **Mâu thuẫn số liệu giữa Phụ lục 5 và Chương 6:** Phụ lục 5 (bản PDF) ghi giá Aetna năm 1962 rơi xuống "2 2/3" USD; Chương 6 (PDF trang 130, đoạn dẫn sang Phụ lục 5) ghi "2 3/8". Theo hiểu biết của người tổng hợp, bản gốc là 2⅜; "2 2/3" nhiều khả năng là lỗi chép phân số.
-> - **Giá Haydon năm 1968:** bản dịch viết giá lên "l'équivalent de 16½ en 1968 (après la scission)", nhưng câu hỏi cuối phụ lục nói người mua "đã trả 8 USD trở lên". Hai chỗ khớp nhau nếu hiểu 16½ USD là giá **quy đổi theo cổ phiếu cũ trước khi tách 2-cho-1**, tức giá thực tế khoảng 8¼ USD mỗi cổ phiếu mới. Kiểm tra: 16½ ÷ 0,08 USD (lợi nhuận bình quân theo cổ phiếu cũ) ≈ 206 lần, khớp "khoảng 200 lần"; 16½ ÷ 0,34 USD (năm tốt nhất) ≈ 48,5 lần, hơi thấp hơn con số "52 lần" trong sách (sách không giải thích chênh lệch).
-> - **Số liệu Phụ lục 6 so với Chương 17:** Phụ lục 6 nói khoản chiết khấu trái phiếu "54 triệu USD"; tính từ chính số trong phụ lục (99 triệu USD mệnh giá bán ở 43% mệnh giá) thì chiết khấu khoảng 56,4 triệu USD; Chương 17 ghi trên bảng cân đối 58,6 triệu USD "chi phí nợ hoãn lại". Phụ lục 6 nói mỗi năm ghi có một phần mười của khoảng 21 triệu USD (tức khoảng 2,1 triệu USD), còn báo cáo năm 1969 trong Chương 17 ghi số thực tế là 1.650.000 USD ghi có và 1.795.000 USD khấu hao chiết khấu. Các chênh lệch này không làm đổi kết luận.
-> - **Quy tắc thuế 1972 (Phụ lục 2), "Règle 2":** câu "Si le gain en capital net à court terme dépasse la perte en capital nette à long terme, 100% de cet excédent doit être inclus dans le revenu. L'impôt maximal est de 25% jusqu'à 50 000 $ de ces gains et de 35% sur le solde" gộp hai quy tắc làm một. Theo hiểu biết của người tổng hợp, không tra cứu: luật Mỹ năm 1972 tính toàn bộ lãi vốn ngắn hạn ròng vào thu nhập thường, còn với **lãi vốn dài hạn** ròng thì chỉ tính một nửa vào thu nhập, với mức thuế tối đa 25% cho 50.000 USD đầu và 35% (hiệu dụng) cho phần còn lại. Câu về lãi vốn dài hạn có lẽ đã bị rơi khi dịch hoặc in; người đọc nên hiểu mức trần 25%/35% áp dụng cho lãi vốn dài hạn.
-> - **Thuế đã đổi sau 2003 (theo hiểu biết của người tổng hợp, không tra cứu):** Phụ lục 3 viết đầu năm 2003, ngay trước luật cắt giảm thuế tháng 5/2003, luật này hạ thuế lãi vốn dài hạn xuống 15% (bỏ mức 18% cho tài sản giữ trên 5 năm) và lần đầu cho cổ tức "đủ điều kiện" hưởng cùng mức thuế với lãi vốn dài hạn, thay vì chịu thuế suất thu nhập thường tới 38,6%. Hiện nay (2026) thuế lãi vốn dài hạn liên bang có các bậc 0%, 15%, 20%, cộng thuế 3,8% trên thu nhập đầu tư ròng với người thu nhập cao; mức trừ lỗ vốn ròng vào thu nhập thường vẫn là 3.000 USD một năm. Lời khuyên tránh mua quỹ mở ngay trước kỳ chia lãi vốn cuối năm vẫn đúng với tài khoản chịu thuế.
-> - **Các chỗ dịch máy lệch nghĩa đáng kể trong Phụ lục 4:**
->   - "analystes de la sécurité", "analyse ... sécuritaire", "conseillers en sécurité" là security analysts (nhà phân tích chứng khoán), security analysis, investment advisers; không liên quan "an ninh".
->   - "stock commun", "le commun", "communs d'investissement" là common stock (cổ phiếu phổ thông); "enjeux privilégiés", "problème", "question", "questions plus glamour" là issues (cổ phiếu, chứng khoán): "un problème vraiment en suspens" là "một cổ phiếu thực sự nổi bật" (outstanding issue).
->   - "salaire moyen" (PDF trang 467) là "lợi nhuận bình quân" (average earnings); "le filet", "le net" là lợi nhuận ròng; "bonne volonté" là lợi thế thương mại (goodwill).
->   - "eau", "de l'eau non divulguée" là "nước" (water), tiếng lóng Wall Street cho phần tài sản ảo trên bảng cân đối (watered stock).
->   - "Je suis retourné dans la loge de mon statisticien, un jeune homme châtié" nghĩa là "tôi quay về cái buồng nhỏ của nhân viên thống kê, một chàng trai trẻ đã bị dạy cho một bài học".
->   - "un frais de 1½ milliard de dollars" là "1,5 tỷ USD tròn trĩnh" (a cool $1½ billion), không phải "chi phí".
->   - "lo!" là thán từ tiếng Anh ("kìa!"), giữ nguyên trong bản dịch.
->   - "Journal des analystes" là *The Analysts Journal* (tạp chí của giới phân tích tài chính Mỹ).
->   - Câu ở PDF trang 476 "le marché boursier a tendance à introduire ... un élément hautement spéculatif dans les actions ordinaires moyen simple d'un prix si élevé" bị hỏng; nghĩa là thị trường đưa yếu tố đầu cơ cao vào các cổ phiếu ấy **bằng cách đơn giản là đẩy giá lên cao** đến mức mang rủi ro khá lớn.
->   - Câu thơ Shakespeare "N'ai-je pas vu des habitants en forme et en faveur / Vous perdez tout en payant trop de loyer?" là Sonnet 125: "Have I not seen dwellers on form and favour / Lose all, and more, by paying too much rent?" ("Ta chẳng từng thấy kẻ chạy theo dáng vẻ và ân sủng mất tất cả, và hơn thế, vì trả tiền thuê quá đắt sao?"). Chữ "Vous" là lỗi dịch.
->   - "Il en va certainement ainsi" (PDF trang 475) mở đầu đoạn về GE: theo mạch văn Graham nói "có vẻ đúng là như vậy" rồi lập tức nghi ngờ chính thế lưỡng nan đó.
->   - "les trois M": mystery, manipulation, (thin) margins = bí ẩn, thao túng, ký quỹ (mỏng); chơi chữ với "3M" (Minnesota Mining and Manufacturing).
-> - **Các chỗ dịch máy lệch nghĩa ở các phụ lục khác:** "bénéfices de sécurité à long terme" (Phụ lục 2) là "lãi dài hạn từ chứng khoán"; "imposés de manière substantielle en tant que sociétés de personnes" nghĩa là được đánh thuế về thực chất như một pháp nhân trung chuyển (conduit), lợi nhuận chuyển thẳng cho người góp vốn; "le prix de l'offre" (Phụ lục 5) là giá chào mua (bid price); "C OMMENTATION", "C OMMENT", "Q UESTIONS" là tiêu đề tiếng Anh bị tách chữ; "problèmes «technologiques»" (Phụ lục 7) là "cổ phiếu công nghệ"; "commission d'actualisation des obligations" (Phụ lục 6) là "chi phí chiết khấu trái phiếu".
-> - **"M. AN":** Graham gọi ông chủ hãng môi giới đầu tiên của mình là "Mr. A. N."; theo hiểu biết của người tổng hợp, đó là Alfred Newburger, của hãng Newburger, Henderson & Loeb, nơi Graham vào làm năm 1914.
-> - **Chỗ dẫn trang bản tiếng Anh:** chú thích của Zweig ở Chương 8 dẫn Phụ lục 4 bằng "p. 570" của bản tiếng Anh, không có trong bản PDF. Graham dẫn *Security Analysis*, McGraw-Hill 1940, tr. 2–3, cho số liệu American Can và Pennsylvania Railroad; nội dung đã được chép lại.
-> - Câu trích trong mục "Câu nói đáng nhớ" là tiếng Pháp đúng như PDF (kể cả lỗi dịch), kèm bản dịch tiếng Việt theo nghĩa gốc của người tổng hợp.
+Graham muốn người đọc hiểu rằng **cách thị trường định giá cổ phiếu đã đảo ngược so với thời trước: yếu tố đầu cơ xưa kia nằm trong chính doanh nghiệp (công ty yếu, ngành bấp bênh, sổ sách bí ẩn, gọi là đầu cơ "nội sinh"), còn nay yếu tố đầu cơ chính đến từ bên ngoài doanh nghiệp, từ thái độ của người mua và các nhà phân tích chứng khoán khi họ trả tiền chủ yếu cho kỳ vọng tương lai (đầu cơ "ngoại sinh").**
+
+Ví dụ trung tâm là IBM: năm 1915–1916 tiền thân của IBM bán khoảng 7 lần lợi nhuận và bị chê là "chỉ có nước" (tài sản ảo); năm 1926, sau 11 năm lợi nhuận tăng hơn 5 lần, vẫn bán khoảng 7 lần lợi nhuận với tỷ suất cổ tức 6,7%; đến 1957, hệ số P/E bình quân lên 42 và cổ phiếu bán khoảng 7 lần giá trị sổ sách thay vì 7 lần lợi nhuận.
+
+3M được thị trường định giá 1,7 tỷ USD, trong đó chỉ 200 triệu là tài sản ròng, rồi vài tháng sau thị trường cắt 450 triệu USD khỏi phần "lợi thế thương mại" đó.
+
+Toán học cao cấp (giả định tăng trưởng lạc quan, chiếu dài vào tương lai, lãi kép) có thể biện minh cho bất kỳ mức giá nào, nên "càng nhiều toán càng đầu cơ".
+
+Kết luận: đồ thị mức độ đầu cơ theo chất lượng công ty nay có hình chữ U; vùng an toàn nhất là ở giữa, các công ty vững vàng tăng trưởng ngang nền kinh tế, thường bán dưới giá trị và có sẵn biên an toàn: *Medius tutissimus ibis*, "đi ở giữa là an toàn nhất".
+
+Các phụ lục còn lại cụ thể hoá cùng thông điệp bằng tình huống: Aetna Maintenance phát hành 9 USD, lên 15 USD, rơi xuống 7/8 USD, đổi ngành rồi lại được đẩy lên khoảng 200 lần lợi nhuận bình quân.
+
+NVF dùng giá thấp của trái phiếu mình phát hành để tiết kiệm khoảng 900.000 USD thuế mỗi năm.
+
+Trong 46 công ty mang tên "công nghệ" năm 1971 chỉ 6 công ty lãi hơn 1 USD/cổ phiếu và 26 công ty báo lỗ.
 
 ## Sơ đồ
 
@@ -455,7 +442,9 @@
 
 ## Ba câu hỏi các phụ lục này trả lời
 
-1. **Vì sao cổ phiếu của những công ty tốt nhất lại có thể là khoản đầu cơ?** Vì thị trường từ sau thập niên 1920 trả tiền chủ yếu cho kỳ vọng tăng trưởng. Khi giá vượt xa giá trị sổ sách (IBM 7 lần giá trị sổ sách năm 1957; 3M được định giá 1,7 tỷ USD trên 200 triệu USD tài sản ròng), phần lớn giá là "lợi thế thương mại" do thị trường tự định, không có gì chống đỡ ngoài kỳ vọng. Phần đó càng lớn thì giá trị thật càng bất định: thị trường có thể cắt 450 triệu USD khỏi định giá 3M chỉ trong vài tháng, và hạ P/E của GE từ 29 xuống 9–10 trong một năm dù lợi nhuận lập đỉnh. Graham gọi đây là đầu cơ "ngoại sinh": rủi ro không nằm trong công ty mà nằm ở cái giá người mua trả.
+1. **Vì sao cổ phiếu của những công ty tốt nhất lại có thể là khoản đầu cơ?** Vì thị trường từ sau thập niên 1920 trả tiền chủ yếu cho kỳ vọng tăng trưởng. Khi giá vượt xa giá trị sổ sách (IBM 7 lần giá trị sổ sách năm 1957; 3M được định giá 1,7 tỷ USD trên 200 triệu USD tài sản ròng), phần lớn giá là "lợi thế thương mại" do thị trường tự định, không có gì chống đỡ ngoài kỳ vọng.
+
+   Phần đó càng lớn thì giá trị thật càng bất định: thị trường có thể cắt 450 triệu USD khỏi định giá 3M chỉ trong vài tháng, và hạ P/E của GE từ 29 xuống 9–10 trong một năm dù lợi nhuận lập đỉnh. Graham gọi đây là đầu cơ "ngoại sinh": rủi ro không nằm trong công ty mà nằm ở cái giá người mua trả.
 2. **Nhà đầu tư nên tìm cổ phiếu ở đâu để có biên an toàn?** Ở vùng giữa của đồ thị hình chữ U: các công ty vững, lâu đời, tăng trưởng ngang nền kinh tế. Chúng ít được chú ý vì không hào nhoáng, nên thường bán dưới giá trị; biên an toàn được tạo ra chính bởi thiên kiến của thị trường. Ngược lại, các phụ lục 5 và 7 cho thấy cổ phiếu nhỏ, mới phát hành, mang nhãn thời thượng (Aetna/Haydon, các công ty "Compu-", "Data", "Techno-") là nơi người mua dễ mất tiền nhất.
 3. **Những công cụ nào giúp nhận ra việc định giá hay kế toán có vấn đề?** Graham đưa ra các phép thử đơn giản: so giá với lợi nhuận bình quân nhiều năm chứ không với một năm tốt (Haydon: khoảng 200 lần lợi nhuận bình quân), so giá với tài sản (Aetna: tài sản ròng chỉ hơn 3 USD/cp khi giá 15 USD), nghi ngờ mọi phép định giá cần đến toán cao cấp, và đọc kỹ thuyết minh báo cáo tài chính (NVF giấu 22 triệu USD giá trị chứng quyền và thủ thuật thuế trong thuyết minh). Về thuế, Phụ lục 2–3 cho biết các quy tắc nền: lãi vốn dài hạn chịu thuế thấp hơn thu nhập thường, lỗ vốn được trừ có giới hạn, quỹ mở chuyển lãi vốn cho người góp vốn.
 
@@ -488,7 +477,7 @@ Lãi và cổ tức chịu thuế như thu nhập thường, trừ bốn trườ
 
 #### 3. Quy tắc 2, lãi và lỗ vốn ("Règle 2 - Gains et pertes en capital", PDF trang 464)
 
-Lãi và lỗ vốn ngắn hạn được gộp lại để ra lãi hoặc lỗ vốn ngắn hạn ròng; lãi và lỗ vốn dài hạn được gộp lại để ra lãi hoặc lỗ vốn dài hạn ròng. Nếu lãi vốn ngắn hạn ròng vượt lỗ vốn dài hạn ròng, 100% phần vượt phải tính vào thu nhập. Thuế tối đa là 25% cho tới 50.000 USD lãi và 35% cho phần còn lại (về cách hiểu đúng của câu này, xem khối Lưu ý: theo hiểu biết của người tổng hợp, mức trần này áp dụng cho lãi vốn dài hạn).
+Lãi và lỗ vốn ngắn hạn được gộp lại để ra lãi hoặc lỗ vốn ngắn hạn ròng; lãi và lỗ vốn dài hạn được gộp lại để ra lãi hoặc lỗ vốn dài hạn ròng. Nếu lãi vốn ngắn hạn ròng vượt lỗ vốn dài hạn ròng, 100% phần vượt phải tính vào thu nhập. Thuế tối đa là 25% cho tới 50.000 USD lãi và 35% cho phần còn lại (về cách hiểu đúng của câu này, xem mục Lưu ý cuối bài: theo hiểu biết của người tổng hợp, mức trần này áp dụng cho lãi vốn dài hạn).
 
 Lỗ vốn ròng (phần lỗ vượt lãi vốn) được trừ vào thu nhập thường tối đa 1.000 USD cho năm hiện tại và cho mỗi năm trong năm năm tiếp theo. Ngoài ra, khoản lỗ chưa dùng có thể được dùng bất cứ lúc nào để bù trừ lãi vốn. Khoản lỗ chuyển sang từ trước năm 1970 được đối xử rộng rãi hơn khoản lỗ phát sinh sau đó.
 
@@ -524,9 +513,13 @@ Bài nói không có tiêu đề mục; các mục dưới đây chia theo mạc
 
 #### 1. Mở đầu và luận đề: đầu cơ chuyển từ trong doanh nghiệp ra ngoài doanh nghiệp ("La nouvelle spéculation sur les actions ordinaires", phần mở đầu, PDF trang 465–466)
 
-Graham nói những điều ông sắp trình bày phản ánh nhiều năm làm việc ở Wall Street với đủ loại trải nghiệm, trong đó có việc "điều kiện mới" hay "bầu không khí mới" cứ định kỳ xuất hiện, thách thức chính giá trị của kinh nghiệm. Đúng là một trong những điều phân biệt phân tích kinh tế, tài chính và chứng khoán với các ngành thực hành khác là giá trị không chắc chắn của các hiện tượng quá khứ làm kim chỉ nam cho hiện tại và tương lai. Tuy vậy, ta không có quyền gạt bỏ bài học quá khứ khi chưa ít nhất nghiên cứu và hiểu nó. Bài nói là một nỗ lực hiểu như vậy trong một phạm vi hẹp: chỉ ra một số tương phản giữa hiện tại và quá khứ trong thái độ nền tảng đối với đầu tư và đầu cơ vào cổ phiếu phổ thông.
+Graham nói những điều ông sắp trình bày phản ánh nhiều năm làm việc ở Wall Street với đủ loại trải nghiệm, trong đó có việc "điều kiện mới" hay "bầu không khí mới" cứ định kỳ xuất hiện, thách thức chính giá trị của kinh nghiệm. Đúng là một trong những điều phân biệt phân tích kinh tế, tài chính và chứng khoán với các ngành thực hành khác là giá trị không chắc chắn của các hiện tượng quá khứ làm kim chỉ nam cho hiện tại và tương lai.
 
-Tóm tắt luận đề: trong quá khứ, các yếu tố đầu cơ của một cổ phiếu nằm gần như hoàn toàn trong chính doanh nghiệp; chúng đến từ sự bất định, các yếu tố biến động hay những yếu kém thật sự của ngành hoặc của cấu trúc riêng của công ty. Những yếu tố đó vẫn tồn tại, nhưng có thể nói đã giảm đáng kể nhờ một số thay đổi dài hạn mà Graham sẽ nêu. Bù lại, một yếu tố đầu cơ lớn mới đã được đưa vào đấu trường cổ phiếu từ bên ngoài các công ty. Nó đến từ thái độ và quan điểm của công chúng mua cổ phiếu và những người tư vấn cho họ, chủ yếu là các nhà phân tích chứng khoán Mỹ. Thái độ ấy có thể mô tả bằng một câu: nhấn mạnh trước hết vào kỳ vọng tương lai.
+Tuy vậy, ta không có quyền gạt bỏ bài học quá khứ khi chưa ít nhất nghiên cứu và hiểu nó. Bài nói là một nỗ lực hiểu như vậy trong một phạm vi hẹp: chỉ ra một số tương phản giữa hiện tại và quá khứ trong thái độ nền tảng đối với đầu tư và đầu cơ vào cổ phiếu phổ thông.
+
+Tóm tắt luận đề: trong quá khứ, các yếu tố đầu cơ của một cổ phiếu nằm gần như hoàn toàn trong chính doanh nghiệp; chúng đến từ sự bất định, các yếu tố biến động hay những yếu kém thật sự của ngành hoặc của cấu trúc riêng của công ty. Những yếu tố đó vẫn tồn tại, nhưng có thể nói đã giảm đáng kể nhờ một số thay đổi dài hạn mà Graham sẽ nêu.
+
+Bù lại, một yếu tố đầu cơ lớn mới đã được đưa vào đấu trường cổ phiếu từ bên ngoài các công ty. Nó đến từ thái độ và quan điểm của công chúng mua cổ phiếu và những người tư vấn cho họ, chủ yếu là các nhà phân tích chứng khoán Mỹ. Thái độ ấy có thể mô tả bằng một câu: nhấn mạnh trước hết vào kỳ vọng tương lai.
 
 #### 2. Ba nghịch lý của việc định giá theo tương lai (PDF trang 466–467)
 
@@ -536,7 +529,9 @@ Thứ nhất, nó xoá phần lớn sự phân biệt lâu đời, đã được
 
 Thứ hai, phần lớn các công ty có đặc điểm đầu tư tốt nhất, tức có xếp hạng tín nhiệm tốt nhất, lại là những công ty có khả năng thu hút sự quan tâm đầu cơ lớn nhất vào cổ phiếu của mình, vì ai cũng cho rằng tương lai rực rỡ của chúng được bảo đảm.
 
-Thứ ba, khái niệm triển vọng tương lai, đặc biệt là tăng trưởng liên tục trong tương lai, mời gọi việc áp dụng các công thức toán cao cấp để tính giá trị hiện tại của các cổ phiếu được ưa chuộng. Nhưng kết hợp công thức chính xác với giả định rất thiếu chính xác có thể dùng để xác lập, hay đúng hơn là biện minh, cho gần như bất kỳ giá trị nào người ta muốn, dù cao đến đâu, cho một cổ phiếu thực sự nổi bật. Và nghịch lý thay, chính điều đó, khi xét kỹ, cũng hàm ý rằng không thể dựa vào một giá trị hay một khoảng giá trị đủ hẹp nào để nó được xác lập và giữ vững cho một công ty tăng trưởng nhất định; vì thế đôi khi thị trường có thể định giá phần tăng trưởng ở mức thấp đến kinh ngạc.
+Thứ ba, khái niệm triển vọng tương lai, đặc biệt là tăng trưởng liên tục trong tương lai, mời gọi việc áp dụng các công thức toán cao cấp để tính giá trị hiện tại của các cổ phiếu được ưa chuộng. Nhưng kết hợp công thức chính xác với giả định rất thiếu chính xác có thể dùng để xác lập, hay đúng hơn là biện minh, cho gần như bất kỳ giá trị nào người ta muốn, dù cao đến đâu, cho một cổ phiếu thực sự nổi bật.
+
+Và nghịch lý thay, chính điều đó, khi xét kỹ, cũng hàm ý rằng không thể dựa vào một giá trị hay một khoảng giá trị đủ hẹp nào để nó được xác lập và giữ vững cho một công ty tăng trưởng nhất định; vì thế đôi khi thị trường có thể định giá phần tăng trưởng ở mức thấp đến kinh ngạc.
 
 Quay lại sự phân biệt giữa yếu tố đầu cơ cũ và mới, Graham gọi chúng bằng hai chữ "kỳ lạ nhưng tiện dụng": **nội sinh** (endogenous) và **ngoại sinh** (exogenous).
 
@@ -546,21 +541,31 @@ Quay lại sự phân biệt giữa yếu tố đầu cơ cũ và mới, Graham 
 
 Trong ba năm đó, giá cổ phiếu "Pennsy" (Pennsylvania Railroad) chỉ dao động từ 53 đến 65 USD, tức từ 12,2 đến 15 lần lợi nhuận bình quân của giai đoạn. Công ty có lợi nhuận ổn định, trả cổ tức đáng tin cậy 3 USD, và nhà đầu tư chắc chắn rằng mỗi cổ phiếu được chống đỡ bởi trên 50 USD tài sản hữu hình.
 
-Ngược lại, giá American Can dao động từ 9 đến 47 USD; lợi nhuận mỗi cổ phiếu từ 7 xu đến 8,86 USD; tỷ lệ giá trên lợi nhuận bình quân ba năm từ 1,9 lần đến 10 lần; công ty không trả cổ tức; và nhà đầu tư sành sỏi đều biết mệnh giá 100 USD của cổ phiếu phổ thông chẳng đại diện cho gì ngoài "nước" không công bố, vì riêng cổ phiếu ưu đãi đã vượt quá tài sản hữu hình có sẵn để bảo đảm cho nó. American Can là một cổ phiếu đầu cơ tiêu biểu, vì American Can Company khi đó là một doanh nghiệp có cơ cấu vốn đầu cơ trong một ngành biến động và bất định. Thực ra American Can có tương lai dài hạn sáng sủa hơn nhiều so với Pennsylvania Railroad; nhưng không chỉ nhà đầu tư và người đầu cơ thời đó không ngờ tới điều này, mà ngay cả nếu có ngờ tới, nhà đầu tư có lẽ cũng gạt nó sang bên như một điều về cơ bản không liên quan tới chính sách và chương trình đầu tư của những năm 1911–1913.
+Ngược lại, giá American Can dao động từ 9 đến 47 USD; lợi nhuận mỗi cổ phiếu từ 7 xu đến 8,86 USD; tỷ lệ giá trên lợi nhuận bình quân ba năm từ 1,9 lần đến 10 lần; công ty không trả cổ tức; và nhà đầu tư sành sỏi đều biết mệnh giá 100 USD của cổ phiếu phổ thông chẳng đại diện cho gì ngoài "nước" không công bố, vì riêng cổ phiếu ưu đãi đã vượt quá tài sản hữu hình có sẵn để bảo đảm cho nó.
+
+American Can là một cổ phiếu đầu cơ tiêu biểu, vì American Can Company khi đó là một doanh nghiệp có cơ cấu vốn đầu cơ trong một ngành biến động và bất định. Thực ra American Can có tương lai dài hạn sáng sủa hơn nhiều so với Pennsylvania Railroad; nhưng không chỉ nhà đầu tư và người đầu cơ thời đó không ngờ tới điều này, mà ngay cả nếu có ngờ tới, nhà đầu tư có lẽ cũng gạt nó sang bên như một điều về cơ bản không liên quan tới chính sách và chương trình đầu tư của những năm 1911–1913.
 
 #### 4. IBM, từ 1915 đến 1957: câu chuyện cá nhân của Graham (PDF trang 467–469)
 
 Để cho thấy tầm quan trọng của triển vọng dài hạn trong đầu tư đã phát triển theo thời gian thế nào, Graham chọn doanh nghiệp công nghiệp khổng lồ ngoạn mục nhất nước Mỹ: International Business Machines (IBM), năm trước (1957) vừa gia nhập nhóm nhỏ các công ty có doanh thu 1 tỷ USD. Ông kể vài chi tiết tự truyện để câu chuyện bớt khô khan.
 
-Năm 1912, Graham tạm nghỉ đại học một học kỳ để phụ trách một dự án nghiên cứu cho U.S. Express Company, nhằm xác định ảnh hưởng tới doanh thu của một hệ thống tính cước chuyển phát nhanh mới mang tính cách mạng. Để làm việc đó, nhóm của ông dùng các máy Hollerith thuê của Computing-Tabulating-Recording Company (C-T-R) thời ấy: máy đục lỗ thẻ, máy phân loại thẻ, máy lập bảng, những công cụ gần như xa lạ với giới kinh doanh, chủ yếu được dùng ở Cục Điều tra Dân số. Graham vào Wall Street năm 1914; năm sau, trái phiếu và cổ phiếu của C-T-R được niêm yết ở Sở Giao dịch Chứng khoán New York. Ông có chút tình cảm với công ty và tự coi mình là một kiểu chuyên gia công nghệ về sản phẩm của họ, vì là một trong số ít người làm tài chính đã thấy và dùng chúng.
+Năm 1912, Graham tạm nghỉ đại học một học kỳ để phụ trách một dự án nghiên cứu cho U.S. Express Company, nhằm xác định ảnh hưởng tới doanh thu của một hệ thống tính cước chuyển phát nhanh mới mang tính cách mạng. Để làm việc đó, nhóm của ông dùng các máy Hollerith thuê của Computing-Tabulating-Recording Company (C-T-R) thời ấy: máy đục lỗ thẻ, máy phân loại thẻ, máy lập bảng, những công cụ gần như xa lạ với giới kinh doanh, chủ yếu được dùng ở Cục Điều tra Dân số.
 
-Đầu năm 1916, Graham tới gặp người đứng đầu hãng của mình, "Mr. A. N.", và chỉ ra rằng cổ phiếu C-T-R đang bán quanh giữa 40 USD (có 105.000 cổ phiếu); công ty kiếm được 6,50 USD mỗi cổ phiếu năm 1915; giá trị sổ sách, tất nhiên gồm cả một số tài sản vô hình không tách riêng, là 130 USD; công ty đã bắt đầu trả cổ tức 3 USD; và Graham đánh giá khá cao sản phẩm và triển vọng của công ty. Mr. A. N. nhìn ông đầy thương hại: "Ben, đừng nhắc với tôi về công ty đó nữa. Tôi không đụng vào nó dù bằng cây sào dài mười bộ [câu cửa miệng của ông]. Trái phiếu 6% của nó bán giá 80-mấy và chúng không tốt. Vậy cổ phiếu sao tốt được? Ai cũng biết đằng sau nó chẳng có gì ngoài nước."
+Graham vào Wall Street năm 1914; năm sau, trái phiếu và cổ phiếu của C-T-R được niêm yết ở Sở Giao dịch Chứng khoán New York. Ông có chút tình cảm với công ty và tự coi mình là một kiểu chuyên gia công nghệ về sản phẩm của họ, vì là một trong số ít người làm tài chính đã thấy và dùng chúng.
+
+Đầu năm 1916, Graham tới gặp người đứng đầu hãng của mình, "Mr. A. N.", và chỉ ra rằng cổ phiếu C-T-R đang bán quanh giữa 40 USD (có 105.000 cổ phiếu); công ty kiếm được 6,50 USD mỗi cổ phiếu năm 1915; giá trị sổ sách, tất nhiên gồm cả một số tài sản vô hình không tách riêng, là 130 USD; công ty đã bắt đầu trả cổ tức 3 USD; và Graham đánh giá khá cao sản phẩm và triển vọng của công ty.
+
+Mr. A. N. nhìn ông đầy thương hại: "Ben, đừng nhắc với tôi về công ty đó nữa. Tôi không đụng vào nó dù bằng cây sào dài mười bộ [câu cửa miệng của ông]. Trái phiếu 6% của nó bán giá 80-mấy và chúng không tốt. Vậy cổ phiếu sao tốt được? Ai cũng biết đằng sau nó chẳng có gì ngoài nước."
 
 Graham giải thích thuật ngữ: thời đó, "nước" là lời kết án tột cùng. Nó nghĩa là tài khoản tài sản trên bảng cân đối là hư cấu. Nhiều công ty công nghiệp, đáng chú ý là U.S. Steel, dù có mệnh giá 100 USD, thực ra chỉ có "nước" được giấu trong một tài khoản nhà máy bị thổi phồng. Vì chúng "chẳng có gì" chống đỡ ngoài khả năng sinh lời và triển vọng tương lai, không nhà đầu tư tự trọng nào thèm để mắt tới.
 
 Graham trở về buồng làm việc của nhân viên thống kê, một chàng trai trẻ vừa bị dạy cho một bài học. Mr. A. N. không chỉ giàu kinh nghiệm, thành công mà còn cực kỳ sắc sảo. Graham bị lời kết án của ông thuyết phục đến mức cả đời không mua một cổ phiếu nào của Computing-Tabulating-Recording, kể cả sau khi công ty đổi tên thành International Business Machines năm 1926.
 
-Năm 1926, một năm thị trường chứng khoán khá cao, công ty với tên mới lần đầu công bố khoản mục lợi thế thương mại trên bảng cân đối, với số tiền khá lớn: 13,6 triệu USD. Mr. A. N. đã đúng: gần như từng đô la của cái gọi là vốn chủ sở hữu đứng sau cổ phiếu năm 1915 chỉ là "nước". Tuy nhiên, từ đó công ty đã có thành tích ấn tượng dưới sự lãnh đạo của T. J. Watson, Sr. (bản PDF in nhầm "TL Watson"). Lợi nhuận ròng tăng từ 691.000 USD lên 3,7 triệu USD, hơn năm lần, mức tăng phần trăm cao hơn mọi giai đoạn 11 năm khác (theo lời Graham). Công ty đã xây dựng được vốn chủ hữu hình tốt cho cổ phiếu phổ thông, đã tách cổ phiếu 3,6-cho-1, đặt mức cổ tức 3 USD cho cổ phiếu mới trong khi lợi nhuận mỗi cổ phiếu mới là 6,39 USD. Người ta có thể nghĩ thị trường năm 1926 sẽ khá hào hứng với một công ty có lịch sử tăng trưởng và vị thế kinh doanh vững như thế. Thực tế: giá năm đó thấp nhất 31, cao nhất 59. Ở mức bình quân 45, cổ phiếu bán với cùng hệ số 7 lần lợi nhuận và cùng tỷ suất cổ tức 6,7% như năm 1915. Ở mức thấp 31, giá không cao hơn bao nhiêu so với giá trị sổ sách hữu hình, và về mặt này giá thận trọng hơn nhiều so với 11 năm trước.
+Năm 1926, một năm thị trường chứng khoán khá cao, công ty với tên mới lần đầu công bố khoản mục lợi thế thương mại trên bảng cân đối, với số tiền khá lớn: 13,6 triệu USD. Mr. A. N. đã đúng: gần như từng đô la của cái gọi là vốn chủ sở hữu đứng sau cổ phiếu năm 1915 chỉ là "nước".
+
+Tuy nhiên, từ đó công ty đã có thành tích ấn tượng dưới sự lãnh đạo của T. J. Watson, Sr. (bản PDF in nhầm "TL Watson"). Lợi nhuận ròng tăng từ 691.000 USD lên 3,7 triệu USD, hơn năm lần, mức tăng phần trăm cao hơn mọi giai đoạn 11 năm khác (theo lời Graham). Công ty đã xây dựng được vốn chủ hữu hình tốt cho cổ phiếu phổ thông, đã tách cổ phiếu 3,6-cho-1, đặt mức cổ tức 3 USD cho cổ phiếu mới trong khi lợi nhuận mỗi cổ phiếu mới là 6,39 USD.
+
+Người ta có thể nghĩ thị trường năm 1926 sẽ khá hào hứng với một công ty có lịch sử tăng trưởng và vị thế kinh doanh vững như thế. Thực tế: giá năm đó thấp nhất 31, cao nhất 59. Ở mức bình quân 45, cổ phiếu bán với cùng hệ số 7 lần lợi nhuận và cùng tỷ suất cổ tức 6,7% như năm 1915. Ở mức thấp 31, giá không cao hơn bao nhiêu so với giá trị sổ sách hữu hình, và về mặt này giá thận trọng hơn nhiều so với 11 năm trước.
 
 (Kiểm tra: năm 1915, 45 ÷ 6,50 ≈ 6,9 lần và 3 ÷ 45 ≈ 6,7%; năm 1926, 45 ÷ 6,39 ≈ 7,0 lần và 3 ÷ 45 ≈ 6,7%.)
 
@@ -578,23 +583,31 @@ Theo Graham, các số liệu này minh hoạ rõ nhất có thể sự bền b�
 
 #### 5. Loại "nước" mới nằm trong giá thị trường (PDF trang 469–470)
 
-Xem kỹ các mức giá gần đây, Graham thấy những điểm tương đồng và tương phản thú vị với 40 năm trước. Thứ "nước" tai tiếng từng phổ biến trên bảng cân đối các công ty công nghiệp đã bị loại bỏ hết, trước hết nhờ công bố thông tin, sau đó nhờ xoá sổ. Nhưng một loại "nước" khác đã được đưa trở lại vào việc định giá trên thị trường chứng khoán, bởi chính nhà đầu tư và người đầu cơ. Khi IBM nay bán với giá bằng 7 lần giá trị sổ sách, thay vì 7 lần lợi nhuận, hiệu quả gần như là công ty không có giá trị sổ sách nào. Hoặc có thể coi phần giá trị sổ sách nhỏ bé là một kiểu thành phần "ưu đãi" thứ yếu trong giá, phần còn lại là đúng loại cam kết mà người đầu cơ ngày xưa thực hiện khi mua cổ phiếu Woolworth hay U.S. Steel hoàn toàn vì khả năng sinh lời và triển vọng tương lai.
+Xem kỹ các mức giá gần đây, Graham thấy những điểm tương đồng và tương phản thú vị với 40 năm trước. Thứ "nước" tai tiếng từng phổ biến trên bảng cân đối các công ty công nghiệp đã bị loại bỏ hết, trước hết nhờ công bố thông tin, sau đó nhờ xoá sổ. Nhưng một loại "nước" khác đã được đưa trở lại vào việc định giá trên thị trường chứng khoán, bởi chính nhà đầu tư và người đầu cơ.
+
+Khi IBM nay bán với giá bằng 7 lần giá trị sổ sách, thay vì 7 lần lợi nhuận, hiệu quả gần như là công ty không có giá trị sổ sách nào. Hoặc có thể coi phần giá trị sổ sách nhỏ bé là một kiểu thành phần "ưu đãi" thứ yếu trong giá, phần còn lại là đúng loại cam kết mà người đầu cơ ngày xưa thực hiện khi mua cổ phiếu Woolworth hay U.S. Steel hoàn toàn vì khả năng sinh lời và triển vọng tương lai.
 
 Graham lưu ý thêm: trong 30 năm IBM chuyển từ một công ty bán 7 lần lợi nhuận thành công ty bán 40 lần, phần lớn những gì ông gọi là yếu tố đầu cơ nội sinh của các công ty công nghiệp lớn đã có xu hướng biến mất, hoặc ít nhất giảm mạnh. Tình hình tài chính của chúng vững, cơ cấu vốn thận trọng; chúng được quản lý thành thạo hơn nhiều và trung thực hơn trước. Hơn nữa, yêu cầu công bố thông tin đầy đủ đã loại bỏ một trong những yếu tố đầu cơ quan trọng của những năm trước: yếu tố đến từ sự thiếu hiểu biết và bí ẩn.
 
 #### 6. Consolidated Gas và ba chữ M (PDF trang 470)
 
-Một chuyện cá nhân khác: những năm đầu của Graham ở Wall Street, một trong các "cổ phiếu bí ẩn" được ưa thích là Consolidated Gas of New York, nay là Consolidated Edison. Công ty sở hữu công ty con New York Edison Company làm ăn có lãi, nhưng chỉ báo cáo cổ tức nhận từ công ty con chứ không báo cáo toàn bộ lợi nhuận của nó. Lợi nhuận không công bố của Edison tạo ra sự bí ẩn và "giá trị ẩn". Graham ngạc nhiên phát hiện các con số bí mật ấy thực ra được nộp hằng năm cho Uỷ ban Dịch vụ Công của bang. Chỉ cần tra hồ sơ là trình bày được lợi nhuận thật của Consolidated Gas trong một bài báo. (Nhân tiện, phần lợi nhuận bổ sung không có gì ngoạn mục.) Một người bạn lớn tuổi nói với ông: "Ben, cậu có thể nghĩ mình làm việc tốt khi đưa ra các con số còn thiếu, nhưng Wall Street sẽ chẳng cảm ơn cậu đâu. Consolidated Gas có bí ẩn thì vừa hấp dẫn hơn vừa đáng giá hơn khi không có. Bọn trẻ các cậu cứ thích chõ mũi vào mọi thứ, các cậu sẽ phá hỏng Wall Street."
+Một chuyện cá nhân khác: những năm đầu của Graham ở Wall Street, một trong các "cổ phiếu bí ẩn" được ưa thích là Consolidated Gas of New York, nay là Consolidated Edison. Công ty sở hữu công ty con New York Edison Company làm ăn có lãi, nhưng chỉ báo cáo cổ tức nhận từ công ty con chứ không báo cáo toàn bộ lợi nhuận của nó. Lợi nhuận không công bố của Edison tạo ra sự bí ẩn và "giá trị ẩn".
+
+Graham ngạc nhiên phát hiện các con số bí mật ấy thực ra được nộp hằng năm cho Uỷ ban Dịch vụ Công của bang. Chỉ cần tra hồ sơ là trình bày được lợi nhuận thật của Consolidated Gas trong một bài báo. (Nhân tiện, phần lợi nhuận bổ sung không có gì ngoạn mục.) Một người bạn lớn tuổi nói với ông: "Ben, cậu có thể nghĩ mình làm việc tốt khi đưa ra các con số còn thiếu, nhưng Wall Street sẽ chẳng cảm ơn cậu đâu. Consolidated Gas có bí ẩn thì vừa hấp dẫn hơn vừa đáng giá hơn khi không có. Bọn trẻ các cậu cứ thích chõ mũi vào mọi thứ, các cậu sẽ phá hỏng Wall Street."
 
 Đúng là ba chữ M từng cung cấp nhiều chất đốt cho các đám cháy đầu cơ đã gần như biến mất: bí ẩn (mystery), thao túng (manipulation) và ký quỹ mỏng (thin margins). Nhưng chính các nhà phân tích chứng khoán đã tạo ra những cách định giá tự thân mang tính đầu cơ đến mức thay thế khá tốt các yếu tố đầu cơ cũ. Graham hỏi: chẳng phải bây giờ chúng ta có "3M" của riêng mình, không gì khác hơn Minnesota Mining and Manufacturing Company, và cổ phiếu này chẳng phải minh hoạ hoàn hảo cho sự đầu cơ mới đối lập với kiểu cũ sao?
 
 #### 7. Cổ phiếu 3M năm 1957 (PDF trang 470–471)
 
-Khi cổ phiếu 3M bán ở giá 101 USD năm trước (1957), thị trường định giá nó bằng 44 lần lợi nhuận năm 1956, và lợi nhuận năm 1957 về cơ bản không tăng. Cả doanh nghiệp được định giá 1,7 tỷ USD, trong đó 200 triệu USD được tài sản ròng bảo đảm, còn tròn 1,5 tỷ USD là phần thị trường định giá cho "lợi thế thương mại". Ta không biết quá trình tính toán nào đã cho ra mức định giá lợi thế thương mại đó; ta chỉ biết vài tháng sau thị trường hạ mức định giá này khoảng 450 triệu USD, tức khoảng 30% (của phần lợi thế thương mại). Rõ ràng không thể tính chính xác phần vô hình của một doanh nghiệp tuyệt vời như thế. Như một kiểu định luật toán học: lợi thế thương mại, tức yếu tố khả năng sinh lời tương lai, càng lớn thì giá trị thật của doanh nghiệp càng bất định, và vì thế cổ phiếu càng mang tính đầu cơ tự thân.
+Khi cổ phiếu 3M bán ở giá 101 USD năm trước (1957), thị trường định giá nó bằng 44 lần lợi nhuận năm 1956, và lợi nhuận năm 1957 về cơ bản không tăng. Cả doanh nghiệp được định giá 1,7 tỷ USD, trong đó 200 triệu USD được tài sản ròng bảo đảm, còn tròn 1,5 tỷ USD là phần thị trường định giá cho "lợi thế thương mại".
+
+Ta không biết quá trình tính toán nào đã cho ra mức định giá lợi thế thương mại đó; ta chỉ biết vài tháng sau thị trường hạ mức định giá này khoảng 450 triệu USD, tức khoảng 30% (của phần lợi thế thương mại). Rõ ràng không thể tính chính xác phần vô hình của một doanh nghiệp tuyệt vời như thế. Như một kiểu định luật toán học: lợi thế thương mại, tức yếu tố khả năng sinh lời tương lai, càng lớn thì giá trị thật của doanh nghiệp càng bất định, và vì thế cổ phiếu càng mang tính đầu cơ tự thân.
 
 #### 8. Định giá tài sản vô hình đã đảo ngược (PDF trang 471–472)
 
-Graham chỉ ra một khác biệt quan trọng trong cách định giá các yếu tố vô hình giữa xưa và nay. Một thế hệ trước hoặc lâu hơn, quy tắc chuẩn, được thừa nhận cả trong giá thị trường lẫn trong các thẩm định chính thức hay pháp lý, là tài sản vô hình phải được định giá trên cơ sở thận trọng hơn tài sản hữu hình. Một doanh nghiệp công nghiệp tốt có thể được yêu cầu kiếm từ 6% đến 8% trên tài sản hữu hình, phần thường được đại diện bởi trái phiếu và cổ phiếu ưu đãi; nhưng phần lợi nhuận vượt mức, hay tài sản vô hình sinh ra từ nó, sẽ được định giá, chẳng hạn, trên cơ sở 15% (tức chỉ khoảng 6,7 lần phần lợi nhuận đó). Có thể thấy các tỷ lệ gần như vậy trong đợt chào bán đầu tiên cổ phiếu ưu đãi và cổ phiếu phổ thông của Woolworth năm 1911 và nhiều đợt khác.
+Graham chỉ ra một khác biệt quan trọng trong cách định giá các yếu tố vô hình giữa xưa và nay. Một thế hệ trước hoặc lâu hơn, quy tắc chuẩn, được thừa nhận cả trong giá thị trường lẫn trong các thẩm định chính thức hay pháp lý, là tài sản vô hình phải được định giá trên cơ sở thận trọng hơn tài sản hữu hình.
+
+Một doanh nghiệp công nghiệp tốt có thể được yêu cầu kiếm từ 6% đến 8% trên tài sản hữu hình, phần thường được đại diện bởi trái phiếu và cổ phiếu ưu đãi; nhưng phần lợi nhuận vượt mức, hay tài sản vô hình sinh ra từ nó, sẽ được định giá, chẳng hạn, trên cơ sở 15% (tức chỉ khoảng 6,7 lần phần lợi nhuận đó). Có thể thấy các tỷ lệ gần như vậy trong đợt chào bán đầu tiên cổ phiếu ưu đãi và cổ phiếu phổ thông của Woolworth năm 1911 và nhiều đợt khác.
 
 Từ thập niên 1920, điều ngược lại hoàn toàn đã xảy ra. Nay một công ty thường phải kiếm khoảng 10% trên vốn chủ sở hữu thì cổ phiếu mới bán được bằng giá trị sổ sách trên thị trường bình thường. Nhưng phần lợi nhuận vượt 10% trên vốn thường được định giá hào phóng hơn, tức với hệ số cao hơn, so với phần lợi nhuận cơ bản cần để giữ giá bằng giá trị sổ sách. Ví dụ, một công ty kiếm 15% trên vốn chủ có thể bán với giá 13½ lần lợi nhuận, tức gấp đôi tài sản ròng (15% × 13½ ≈ 2). Nghĩa là 10% đầu tiên kiếm trên vốn được định giá chỉ 10 lần, còn 5% tiếp theo, phần trước đây gọi là "vượt mức", thực ra được định giá 20 lần.
 
@@ -629,29 +642,47 @@ Quan trọng hơn là mối quan hệ chung giữa toán học và cách tiếp 
 
 Graham nhắc rằng trong một bài báo gần đây trên tạp chí của giới phân tích (*The Analysts Journal*), ông đã bình luận về mốt dùng toán cao cấp trong các thị trường giá lên, và đã dẫn trình bày của David Durand về sự tương đồng nổi bật giữa các phép tính giá trị cổ phiếu tăng trưởng và nghịch lý St. Petersburg nổi tiếng, bài toán đã thách thức và làm bối rối các nhà toán học hơn 200 năm.
 
-**Chú thích của Zweig** (ở Chương 8, chỗ Graham dùng chữ "nghịch lý", dẫn sang Phụ lục 4): đó có lẽ là ám chỉ bài viết kinh điển của David Durand, "Growth Stocks and the Petersburg Paradox", *The Journal of Finance*, tập XII, số 3, tháng 9/1957, tr. 348–363. Durand so sánh việc đầu tư vào cổ phiếu tăng trưởng giá cao với việc đặt cược vào một chuỗi lần tung đồng xu mà tiền thưởng tăng sau mỗi lần tung. Ông chỉ ra rằng nếu một cổ phiếu tăng trưởng có thể tiếp tục tăng với tốc độ cao trong một khoảng thời gian không giới hạn, thì về lý thuyết nhà đầu tư phải sẵn sàng trả một giá vô hạn cho cổ phiếu đó. Vậy tại sao chưa cổ phiếu nào bán với giá vô hạn? Vì tốc độ tăng trưởng tương lai giả định càng cao và khoảng thời gian kỳ vọng càng dài, thì biên sai số càng lớn và cái giá của một sai lầm tính toán, dù nhỏ, càng tăng.
+**Chú thích của Zweig** (ở Chương 8, chỗ Graham dùng chữ "nghịch lý", dẫn sang Phụ lục 4): đó có lẽ là ám chỉ bài viết kinh điển của David Durand, "Growth Stocks and the Petersburg Paradox", *The Journal of Finance*, tập XII, số 3, tháng 9/1957, tr. 348–363.
 
-Điểm Graham muốn nhấn mạnh là một nghịch lý riêng trong quan hệ giữa toán học và thái độ đầu tư vào cổ phiếu: toán học thường được coi là cho kết quả chính xác và đáng tin; nhưng trên thị trường chứng khoán, toán học càng phức tạp và trừu tượng thì kết luận rút ra càng bất định và đầu cơ. Trong 44 năm kinh nghiệm và nghiên cứu ở Wall Street, Graham chưa từng thấy một phép tính đáng tin nào về giá trị cổ phiếu, hay về các chính sách đầu tư liên quan, vượt quá số học đơn giản hoặc đại số sơ cấp nhất. Mỗi khi giải tích hay đại số cao cấp được đưa vào, có thể coi đó là tín hiệu cảnh báo rằng người làm đang cố thay kinh nghiệm bằng lý thuyết, và thường cũng là khoác cho đầu cơ cái vẻ ngoài lừa dối của đầu tư.
+Durand so sánh việc đầu tư vào cổ phiếu tăng trưởng giá cao với việc đặt cược vào một chuỗi lần tung đồng xu mà tiền thưởng tăng sau mỗi lần tung. Ông chỉ ra rằng nếu một cổ phiếu tăng trưởng có thể tiếp tục tăng với tốc độ cao trong một khoảng thời gian không giới hạn, thì về lý thuyết nhà đầu tư phải sẵn sàng trả một giá vô hạn cho cổ phiếu đó. Vậy tại sao chưa cổ phiếu nào bán với giá vô hạn? Vì tốc độ tăng trưởng tương lai giả định càng cao và khoảng thời gian kỳ vọng càng dài, thì biên sai số càng lớn và cái giá của một sai lầm tính toán, dù nhỏ, càng tăng.
+
+Điểm Graham muốn nhấn mạnh là một nghịch lý riêng trong quan hệ giữa toán học và thái độ đầu tư vào cổ phiếu: toán học thường được coi là cho kết quả chính xác và đáng tin; nhưng trên thị trường chứng khoán, toán học càng phức tạp và trừu tượng thì kết luận rút ra càng bất định và đầu cơ.
+
+Trong 44 năm kinh nghiệm và nghiên cứu ở Wall Street, Graham chưa từng thấy một phép tính đáng tin nào về giá trị cổ phiếu, hay về các chính sách đầu tư liên quan, vượt quá số học đơn giản hoặc đại số sơ cấp nhất. Mỗi khi giải tích hay đại số cao cấp được đưa vào, có thể coi đó là tín hiệu cảnh báo rằng người làm đang cố thay kinh nghiệm bằng lý thuyết, và thường cũng là khoác cho đầu cơ cái vẻ ngoài lừa dối của đầu tư.
 
 #### 11. Quan niệm cũ: tìm triển vọng nhưng không trả tiền cho nó (PDF trang 473)
 
-Các ý tưởng cũ về đầu tư cổ phiếu có thể có vẻ khá ngây thơ với nhà phân tích sành sỏi ngày nay. Trọng tâm luôn là cái mà nay gọi là khía cạnh phòng thủ của doanh nghiệp hay của cổ phiếu, trước hết là sự bảo đảm rằng cổ tức sẽ tiếp tục được trả, không bị cắt, trong thời kỳ khó khăn. Vì vậy cổ phiếu các công ty đường sắt vững mạnh, loại cổ phiếu đầu tư thông thường của 50 năm trước, thực ra được nhìn gần giống như cổ phiếu các công ty dịch vụ công cộng trong những năm gần đây. Nếu lịch sử cho thấy sự ổn định thì yêu cầu chính đã được đáp ứng; người ta không cố gắng nhiều để dự đoán những thay đổi bất lợi có tính nền tảng trong tương lai. Ngược lại, những triển vọng tương lai đặc biệt thuận lợi được nhà đầu tư khôn ngoan coi là thứ nên tìm kiếm nhưng không nên trả tiền cho nó.
+Các ý tưởng cũ về đầu tư cổ phiếu có thể có vẻ khá ngây thơ với nhà phân tích sành sỏi ngày nay. Trọng tâm luôn là cái mà nay gọi là khía cạnh phòng thủ của doanh nghiệp hay của cổ phiếu, trước hết là sự bảo đảm rằng cổ tức sẽ tiếp tục được trả, không bị cắt, trong thời kỳ khó khăn. Vì vậy cổ phiếu các công ty đường sắt vững mạnh, loại cổ phiếu đầu tư thông thường của 50 năm trước, thực ra được nhìn gần giống như cổ phiếu các công ty dịch vụ công cộng trong những năm gần đây.
+
+Nếu lịch sử cho thấy sự ổn định thì yêu cầu chính đã được đáp ứng; người ta không cố gắng nhiều để dự đoán những thay đổi bất lợi có tính nền tảng trong tương lai. Ngược lại, những triển vọng tương lai đặc biệt thuận lợi được nhà đầu tư khôn ngoan coi là thứ nên tìm kiếm nhưng không nên trả tiền cho nó.
 
 Trên thực tế, điều đó nghĩa là nhà đầu tư không phải trả gì đáng kể cho triển vọng dài hạn vượt trội. Anh ta có được chúng gần như không tốn thêm chi phí, như phần thưởng cho trí tuệ và óc phán đoán vượt trội của mình khi chọn những công ty tốt nhất thay vì chỉ những công ty tốt. Các cổ phiếu có cùng sức mạnh tài chính, cùng lịch sử lợi nhuận và cùng sự ổn định cổ tức đều bán với tỷ suất cổ tức gần như nhau.
 
 #### 12. "Nếu là khoản đầu tư tốt thì cũng là khoản đầu cơ tốt" (PDF trang 473–474)
 
-Đó quả là một quan điểm thiển cận, nhưng nó có ưu điểm lớn là làm cho việc đầu tư cổ phiếu thời ấy không chỉ đơn giản mà còn vững chắc về cơ bản và rất có lời. Graham kể chuyện cá nhân lần cuối: khoảng năm 1920, hãng của ông phát hành một loạt sách nhỏ tên *Lessons for Investors* (Bài học cho nhà đầu tư). Ông tự giễu rằng phải là một nhà phân tích hai mươi mấy tuổi táo bạo mới nghĩ ra cái tên tự mãn và tự phụ như vậy. Trong một số đó, ông tình cờ viết rằng "nếu một cổ phiếu là một khoản đầu tư tốt thì nó cũng là một khoản đầu cơ tốt". Lập luận của ông: nếu một cổ phiếu vững đến mức rủi ro lỗ rất thấp, thì thông thường nó cũng đủ tốt để có cơ hội lãi rất tốt trong tương lai. Đó là một phát hiện hoàn toàn đúng và thậm chí có giá trị, nhưng nó chỉ đúng vì chưa ai để ý tới nó. Vài năm sau, khi công chúng thức tỉnh trước giá trị lịch sử của cổ phiếu như khoản đầu tư dài hạn, cổ phiếu nhanh chóng mất giá trị ấy, vì sự hào hứng của công chúng tạo ra mức giá tước mất biên an toàn tự có của chúng, và do đó đẩy chúng ra khỏi hạng đầu tư. Rồi tất nhiên con lắc lại văng sang cực kia, và chẳng bao lâu một trong những chuyên gia được kính trọng nhất tuyên bố (năm 1931) rằng không cổ phiếu nào có thể là một khoản đầu tư. (Theo hiểu biết của người tổng hợp: chuyên gia này nhiều khả năng là Lawrence Chamberlain, người được Graham dẫn ở chú thích Chương 1 với một tuyên bố năm 1931.)
+Đó quả là một quan điểm thiển cận, nhưng nó có ưu điểm lớn là làm cho việc đầu tư cổ phiếu thời ấy không chỉ đơn giản mà còn vững chắc về cơ bản và rất có lời.
+
+Graham kể chuyện cá nhân lần cuối: khoảng năm 1920, hãng của ông phát hành một loạt sách nhỏ tên *Lessons for Investors* (Bài học cho nhà đầu tư). Ông tự giễu rằng phải là một nhà phân tích hai mươi mấy tuổi táo bạo mới nghĩ ra cái tên tự mãn và tự phụ như vậy. Trong một số đó, ông tình cờ viết rằng "nếu một cổ phiếu là một khoản đầu tư tốt thì nó cũng là một khoản đầu cơ tốt". Lập luận của ông: nếu một cổ phiếu vững đến mức rủi ro lỗ rất thấp, thì thông thường nó cũng đủ tốt để có cơ hội lãi rất tốt trong tương lai. Đó là một phát hiện hoàn toàn đúng và thậm chí có giá trị, nhưng nó chỉ đúng vì chưa ai để ý tới nó.
+
+Vài năm sau, khi công chúng thức tỉnh trước giá trị lịch sử của cổ phiếu như khoản đầu tư dài hạn, cổ phiếu nhanh chóng mất giá trị ấy, vì sự hào hứng của công chúng tạo ra mức giá tước mất biên an toàn tự có của chúng, và do đó đẩy chúng ra khỏi hạng đầu tư. Rồi tất nhiên con lắc lại văng sang cực kia, và chẳng bao lâu một trong những chuyên gia được kính trọng nhất tuyên bố (năm 1931) rằng không cổ phiếu nào có thể là một khoản đầu tư. (Theo hiểu biết của người tổng hợp: chuyên gia này nhiều khả năng là Lawrence Chamberlain, người được Graham dẫn ở chú thích Chương 1 với một tuyên bố năm 1931.)
 
 #### 13. Nghịch lý lãi vốn và thu nhập (PDF trang 474)
 
-Nhìn trải nghiệm dài hạn này, Graham thấy thêm một chuỗi nghịch lý trong thái độ thay đổi của nhà đầu tư đối với lãi vốn so với thu nhập. Nghe có vẻ lạ khi nói nhà đầu tư cổ phiếu ngày xưa không mấy quan tâm tới lãi vốn. Anh ta mua gần như hoàn toàn vì sự an toàn và thu nhập, để người đầu cơ lo chuyện giá tăng. Ngày nay ta thường nói nhà đầu tư càng giàu kinh nghiệm và sắc sảo thì càng ít để ý tới tỷ suất cổ tức và càng tập trung vào tăng giá dài hạn. Thế nhưng có thể lập luận, theo một kiểu ngược ngạo, rằng chính vì nhà đầu tư xưa không tập trung vào tăng giá vốn trong tương lai nên anh ta gần như bảo đảm được rằng mình sẽ có nó, ít nhất trong lĩnh vực cổ phiếu công nghiệp. Ngược lại, nhà đầu tư ngày nay mải lo dự đoán tương lai đến mức đã trả trước cho nó một cách hậu hĩnh. Vì thế điều anh ta đã dự báo với bao công sức có thể thực sự xảy ra mà không đem lại lợi nhuận cho anh ta. Nếu nó không thành hiện thực ở mức kỳ vọng, anh ta có thể chịu một khoản lỗ nặng tạm thời, thậm chí vĩnh viễn.
+Nhìn trải nghiệm dài hạn này, Graham thấy thêm một chuỗi nghịch lý trong thái độ thay đổi của nhà đầu tư đối với lãi vốn so với thu nhập. Nghe có vẻ lạ khi nói nhà đầu tư cổ phiếu ngày xưa không mấy quan tâm tới lãi vốn. Anh ta mua gần như hoàn toàn vì sự an toàn và thu nhập, để người đầu cơ lo chuyện giá tăng.
+
+Ngày nay ta thường nói nhà đầu tư càng giàu kinh nghiệm và sắc sảo thì càng ít để ý tới tỷ suất cổ tức và càng tập trung vào tăng giá dài hạn. Thế nhưng có thể lập luận, theo một kiểu ngược ngạo, rằng chính vì nhà đầu tư xưa không tập trung vào tăng giá vốn trong tương lai nên anh ta gần như bảo đảm được rằng mình sẽ có nó, ít nhất trong lĩnh vực cổ phiếu công nghiệp.
+
+Ngược lại, nhà đầu tư ngày nay mải lo dự đoán tương lai đến mức đã trả trước cho nó một cách hậu hĩnh. Vì thế điều anh ta đã dự báo với bao công sức có thể thực sự xảy ra mà không đem lại lợi nhuận cho anh ta. Nếu nó không thành hiện thực ở mức kỳ vọng, anh ta có thể chịu một khoản lỗ nặng tạm thời, thậm chí vĩnh viễn.
 
 #### 14. Bị đuổi khỏi vườn Địa Đàng? Trường hợp General Electric (PDF trang 474–475)
 
-Nhà phân tích năm 1958 rút được bài học gì từ mối liên hệ giữa thái độ quá khứ và hiện tại? Người ta có xu hướng nói: không nhiều. Ta có thể nhìn về quá khứ với nỗi nhớ những ngày tốt đẹp khi chỉ trả tiền cho hiện tại và có tương lai miễn phí, một kiểu "có tất cả mà còn được thêm thiên đường". Lắc đầu buồn bã, ta lẩm bẩm: "Những ngày ấy đã qua mãi mãi." Chẳng phải nhà đầu tư và nhà phân tích chứng khoán đã ăn trái cây biết triển vọng tốt và xấu sao? Làm vậy, chẳng phải họ đã tự đuổi mình vĩnh viễn khỏi vườn Địa Đàng, nơi có thể hái những cổ phiếu triển vọng với giá hợp lý từ bụi cây sao? Chẳng lẽ ta buộc phải chịu rủi ro hoặc trả giá cao vô lý cho chất lượng và triển vọng tốt, hoặc nhận chất lượng và triển vọng kém khi trả một mức giá có vẻ hợp lý?
+Nhà phân tích năm 1958 rút được bài học gì từ mối liên hệ giữa thái độ quá khứ và hiện tại? Người ta có xu hướng nói: không nhiều. Ta có thể nhìn về quá khứ với nỗi nhớ những ngày tốt đẹp khi chỉ trả tiền cho hiện tại và có tương lai miễn phí, một kiểu "có tất cả mà còn được thêm thiên đường". Lắc đầu buồn bã, ta lẩm bẩm: "Những ngày ấy đã qua mãi mãi."
 
-Có vẻ đúng là như vậy. Nhưng ngay cả thế lưỡng nan bi quan này cũng chưa chắc. Graham kể gần đây ông nghiên cứu lịch sử dài hạn của General Electric (GE), được gợi ý từ bảng số liệu ấn tượng về 59 năm lợi nhuận và cổ tức trong báo cáo năm 1957 của công ty. Các con số này có những điều bất ngờ với nhà phân tích tinh ý. Thứ nhất, chúng cho thấy trước năm 1947 tăng trưởng của GE khá khiêm tốn và khá thất thường. Lợi nhuận mỗi cổ phiếu năm 1946 (đã điều chỉnh theo số cổ phiếu) chỉ cao hơn năm 1902 30%: 52 xu so với 40 xu; và không năm nào trong giai đoạn đó lợi nhuận đạt gấp đôi năm 1902. Vậy mà hệ số P/E tăng từ 9 lần năm 1910 và 1916 lên 29 lần năm 1936 và lại 29 lần năm 1946.
+Chẳng phải nhà đầu tư và nhà phân tích chứng khoán đã ăn trái cây biết triển vọng tốt và xấu sao? Làm vậy, chẳng phải họ đã tự đuổi mình vĩnh viễn khỏi vườn Địa Đàng, nơi có thể hái những cổ phiếu triển vọng với giá hợp lý từ bụi cây sao? Chẳng lẽ ta buộc phải chịu rủi ro hoặc trả giá cao vô lý cho chất lượng và triển vọng tốt, hoặc nhận chất lượng và triển vọng kém khi trả một mức giá có vẻ hợp lý?
+
+Có vẻ đúng là như vậy. Nhưng ngay cả thế lưỡng nan bi quan này cũng chưa chắc. Graham kể gần đây ông nghiên cứu lịch sử dài hạn của General Electric (GE), được gợi ý từ bảng số liệu ấn tượng về 59 năm lợi nhuận và cổ tức trong báo cáo năm 1957 của công ty. Các con số này có những điều bất ngờ với nhà phân tích tinh ý.
+
+Thứ nhất, chúng cho thấy trước năm 1947 tăng trưởng của GE khá khiêm tốn và khá thất thường. Lợi nhuận mỗi cổ phiếu năm 1946 (đã điều chỉnh theo số cổ phiếu) chỉ cao hơn năm 1902 30%: 52 xu so với 40 xu; và không năm nào trong giai đoạn đó lợi nhuận đạt gấp đôi năm 1902. Vậy mà hệ số P/E tăng từ 9 lần năm 1910 và 1916 lên 29 lần năm 1936 và lại 29 lần năm 1946.
 
 | Chỉ tiêu của GE | Giá trị |
 |---|---|
@@ -686,7 +717,9 @@ Graham dẫn một câu "thích hợp đến kinh ngạc, dù hơi cường đi�
 
 #### 16. Vùng giữa và lời khuyên của Ovid (PDF trang 476–477)
 
-Trở lại đồ thị tưởng tượng: vùng giữa là nơi yếu tố đầu cơ trong việc mua cổ phiếu có xu hướng thấp nhất. Ở đây có nhiều công ty vững vàng, đã lâu đời, có lịch sử tăng trưởng tương ứng với nền kinh tế quốc gia và triển vọng tương lai có vẻ cũng tương tự. Các cổ phiếu này có thể mua hầu hết thời gian, trừ ở vùng giá cao của thị trường giá lên, với giá vừa phải so với giá trị nội tại thể hiện của chúng. Thực ra, vì nhà đầu tư và người đầu cơ hiện có xu hướng tập trung vào các cổ phiếu hào nhoáng hơn, Graham mạnh dạn khẳng định các cổ phiếu ở giữa này nhìn chung thường bán dưới giá trị có thể xác định độc lập của chúng. Vì vậy chúng có sẵn một biên an toàn, được tạo ra bởi chính những sở thích và thiên kiến của thị trường, những thứ có xu hướng phá huỷ biên an toàn ở các cổ phiếu triển vọng nhất. Hơn nữa, trong phạm vi rộng các công ty này có nhiều chỗ cho việc phân tích kỹ lịch sử và lựa chọn có phân biệt về triển vọng, cộng thêm sự an toàn cao hơn nhờ đa dạng hoá.
+Trở lại đồ thị tưởng tượng: vùng giữa là nơi yếu tố đầu cơ trong việc mua cổ phiếu có xu hướng thấp nhất. Ở đây có nhiều công ty vững vàng, đã lâu đời, có lịch sử tăng trưởng tương ứng với nền kinh tế quốc gia và triển vọng tương lai có vẻ cũng tương tự. Các cổ phiếu này có thể mua hầu hết thời gian, trừ ở vùng giá cao của thị trường giá lên, với giá vừa phải so với giá trị nội tại thể hiện của chúng.
+
+Thực ra, vì nhà đầu tư và người đầu cơ hiện có xu hướng tập trung vào các cổ phiếu hào nhoáng hơn, Graham mạnh dạn khẳng định các cổ phiếu ở giữa này nhìn chung thường bán dưới giá trị có thể xác định độc lập của chúng. Vì vậy chúng có sẵn một biên an toàn, được tạo ra bởi chính những sở thích và thiên kiến của thị trường, những thứ có xu hướng phá huỷ biên an toàn ở các cổ phiếu triển vọng nhất. Hơn nữa, trong phạm vi rộng các công ty này có nhiều chỗ cho việc phân tích kỹ lịch sử và lựa chọn có phân biệt về triển vọng, cộng thêm sự an toàn cao hơn nhờ đa dạng hoá.
 
 Khi Phaethon nài được lái cỗ xe Mặt Trời, cha anh, người lái giàu kinh nghiệm, đã cho người mới vài lời khuyên mà anh không theo và phải trả giá. Ovid tóm lời khuyên của Phoebus Apollo trong ba chữ: *Medius tutissimus ibis*, "đi ở giữa là an toàn nhất". Graham cho rằng nguyên tắc này đúng với nhà đầu tư và những người tư vấn chứng khoán cho họ.
 
@@ -702,7 +735,7 @@ Graham tin rằng việc dẫn chi tiết một "ví dụ khủng khiếp" có t
 
 Tháng 11/1961, 154.000 cổ phiếu phổ thông của Aetna Maintenance Co. được bán ra công chúng giá 9 USD, và giá nhanh chóng lên 15 USD. Trước đợt huy động vốn, tài sản ròng mỗi cổ phiếu khoảng 1,20 USD; tiền thu từ cổ phiếu mới đưa con số này lên hơn 3 USD một chút.
 
-Doanh thu và lợi nhuận trước khi huy động vốn: bảng số liệu này bị mất trong bản PDF (xem khối Lưu ý). Từ lời bình của Graham, ta biết cổ phiếu được bán dựa trên **một năm tốt** (năm tài chính ngay trước đợt phát hành), còn kết quả các năm trước đó "rất nhỏ, không đáng kể".
+Doanh thu và lợi nhuận trước khi huy động vốn: bảng số liệu này bị mất trong bản PDF (xem mục Lưu ý cuối bài). Từ lời bình của Graham, ta biết cổ phiếu được bán dựa trên **một năm tốt** (năm tài chính ngay trước đợt phát hành), còn kết quả các năm trước đó "rất nhỏ, không đáng kể".
 
 Kết quả sau khi huy động vốn:
 
@@ -717,7 +750,9 @@ Lời bình của Graham: đây là một doanh nghiệp quá nhỏ để công 
 
 #### 3. Phần tiếp theo 1965–1970 ("Suite 1965-1970", PDF trang 478–479)
 
-Năm 1965, một nhóm chủ mới vào công ty. Mảng bảo trì toà nhà thua lỗ bị bán đi, và công ty chuyển sang một ngành hoàn toàn khác: sản xuất thiết bị điện tử. Tên công ty đổi thành Haydon Switch and Instrument Co. Kết quả tài chính không ấn tượng: trong năm năm 1965–1969, công ty chỉ lãi bình quân 8 xu cho mỗi cổ phiếu "cũ", với 34 xu ở năm tốt nhất là 1967. Tuy vậy, theo đúng phong cách hiện đại, công ty tách cổ phiếu 2-cho-1 năm 1968. Giá thị trường cũng theo đúng "phong độ" Wall Street: từ 7/8 USD năm 1964 lên mức tương đương 16½ USD năm 1968 (tính quy đổi theo cổ phiếu cũ; giá thực tế mỗi cổ phiếu mới sau khi tách khoảng 8¼ USD). Giá giờ đã vượt kỷ lục lập ra trong những ngày hào hứng năm 1961. Lần này mức định giá quá cao còn tệ hơn nhiều: cổ phiếu bán bằng 52 lần lợi nhuận của năm tốt duy nhất, và khoảng 200 lần lợi nhuận bình quân. Hơn nữa, công ty lại báo lỗ đúng vào năm lập mức giá cao mới. Năm sau, 1969, giá chào mua rơi xuống 1 USD.
+Năm 1965, một nhóm chủ mới vào công ty. Mảng bảo trì toà nhà thua lỗ bị bán đi, và công ty chuyển sang một ngành hoàn toàn khác: sản xuất thiết bị điện tử. Tên công ty đổi thành Haydon Switch and Instrument Co. Kết quả tài chính không ấn tượng: trong năm năm 1965–1969, công ty chỉ lãi bình quân 8 xu cho mỗi cổ phiếu "cũ", với 34 xu ở năm tốt nhất là 1967.
+
+Tuy vậy, theo đúng phong cách hiện đại, công ty tách cổ phiếu 2-cho-1 năm 1968. Giá thị trường cũng theo đúng "phong độ" Wall Street: từ 7/8 USD năm 1964 lên mức tương đương 16½ USD năm 1968 (tính quy đổi theo cổ phiếu cũ; giá thực tế mỗi cổ phiếu mới sau khi tách khoảng 8¼ USD). Giá giờ đã vượt kỷ lục lập ra trong những ngày hào hứng năm 1961. Lần này mức định giá quá cao còn tệ hơn nhiều: cổ phiếu bán bằng 52 lần lợi nhuận của năm tốt duy nhất, và khoảng 200 lần lợi nhuận bình quân. Hơn nữa, công ty lại báo lỗ đúng vào năm lập mức giá cao mới. Năm sau, 1969, giá chào mua rơi xuống 1 USD.
 
 | Mốc | Giá cổ phiếu Aetna / Haydon (USD, theo cổ phiếu cũ) |
 |---|---|
@@ -790,7 +825,7 @@ Tổng cộng 46 công ty loại này có mặt trong *S&P Stock Guide* tháng 9
 
 #### 2. Theo dõi 45 công ty từ 12/1968 đến 9/1971 (PDF trang 480)
 
-Trong *Stock Guide* tháng 12/1968 có 45 công ty mang tên công nghệ tương tự. Graham lần theo diễn biến của danh sách này như thể hiện trong *Guide* tháng 9/1971 và trình bày kết quả trong một bảng; bảng này bị mất trong bản PDF (xem khối Lưu ý). Từ lời bình, ta biết 12 công ty trong danh sách năm 1968 đã bị loại khỏi *Guide* đến năm 1971.
+Trong *Stock Guide* tháng 12/1968 có 45 công ty mang tên công nghệ tương tự. Graham lần theo diễn biến của danh sách này như thể hiện trong *Guide* tháng 9/1971 và trình bày kết quả trong một bảng; bảng này bị mất trong bản PDF (xem mục Lưu ý cuối bài). Từ lời bình, ta biết 12 công ty trong danh sách năm 1968 đã bị loại khỏi *Guide* đến năm 1971.
 
 #### 3. Lời bình của Graham ("C OMMENTATION", PDF trang 480–481)
 
@@ -841,7 +876,9 @@ Rủi ro của một cổ phiếu không chỉ nằm trong doanh nghiệp mà c�
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Phụ lục 4 là một phát biểu sớm (1958) về điều mà sau này giới tài chính gọi là định giá theo kỳ vọng tăng trưởng và rủi ro định giá (valuation risk), sự nhạy của giá trị cổ phiếu tăng trưởng với giả định dài hạn (độ nhạy của mô hình chiết khấu dòng tiền với tốc độ tăng trưởng và lãi suất chiết khấu), mối quan hệ giữa ROE và hệ số giá trên giá trị sổ sách (P/B), và hiện tượng cổ phiếu "nhàm chán" có lợi nhuận cao hơn cổ phiếu "hào nhoáng" (về sau được nghiên cứu dưới tên hiệu ứng giá trị, value effect). Phụ lục 5 và 7 minh hoạ hiện tượng IPO kém hiệu quả trong dài hạn và chu kỳ "cửa sổ phát hành" khi một ngành đang thời thượng. Phụ lục 6 là ví dụ về quản trị lợi nhuận (earnings management) và kế toán làm đẹp số liệu nhằm tối ưu thuế.
+Phụ lục 4 là một phát biểu sớm (1958) về điều mà sau này giới tài chính gọi là định giá theo kỳ vọng tăng trưởng và rủi ro định giá (valuation risk), sự nhạy của giá trị cổ phiếu tăng trưởng với giả định dài hạn (độ nhạy của mô hình chiết khấu dòng tiền với tốc độ tăng trưởng và lãi suất chiết khấu), mối quan hệ giữa ROE và hệ số giá trên giá trị sổ sách (P/B), và hiện tượng cổ phiếu "nhàm chán" có lợi nhuận cao hơn cổ phiếu "hào nhoáng" (về sau được nghiên cứu dưới tên hiệu ứng giá trị, value effect).
+
+Phụ lục 5 và 7 minh hoạ hiện tượng IPO kém hiệu quả trong dài hạn và chu kỳ "cửa sổ phát hành" khi một ngành đang thời thượng. Phụ lục 6 là ví dụ về quản trị lợi nhuận (earnings management) và kế toán làm đẹp số liệu nhằm tối ưu thuế.
 
 ## Thuật ngữ
 
@@ -912,11 +949,15 @@ Phụ lục 4 là một phát biểu sớm (1958) về điều mà sau này gi�
 
 ### Bài nói năm 1958 là văn bản lý thuyết sắc sảo nhất của cuốn sách về rủi ro định giá
 
-Phụ lục 4 nói gọn trong vài trang điều mà các chương khác chỉ nói rải rác: rủi ro có hai nguồn, doanh nghiệp và giá; nguồn thứ hai ngày càng quan trọng hơn. Phép phân biệt "nội sinh/ngoại sinh", nhận xét giá tăng theo bình phương lợi nhuận và tỉ lệ nghịch với giá trị sổ sách, và cảnh báo "càng nhiều toán càng đầu cơ" đều là những ý mà giới tài chính về sau phát triển thành các khái niệm chính thức (độ nhạy của mô hình chiết khấu dòng tiền, quan hệ ROE với P/B). Theo hiểu biết của người tổng hợp, bài nói này hay được giới đầu tư giá trị trích dẫn như một trong những văn bản dự báo đúng nhất của Graham, vì 15 năm sau (1972–1974) nhóm cổ phiếu tăng trưởng hàng đầu nước Mỹ (nhóm "Nifty Fifty") đúng là sụp đổ khi P/E bị nén mạnh.
+Phụ lục 4 nói gọn trong vài trang điều mà các chương khác chỉ nói rải rác: rủi ro có hai nguồn, doanh nghiệp và giá; nguồn thứ hai ngày càng quan trọng hơn. Phép phân biệt "nội sinh/ngoại sinh", nhận xét giá tăng theo bình phương lợi nhuận và tỉ lệ nghịch với giá trị sổ sách, và cảnh báo "càng nhiều toán càng đầu cơ" đều là những ý mà giới tài chính về sau phát triển thành các khái niệm chính thức (độ nhạy của mô hình chiết khấu dòng tiền, quan hệ ROE với P/B).
+
+Theo hiểu biết của người tổng hợp, bài nói này hay được giới đầu tư giá trị trích dẫn như một trong những văn bản dự báo đúng nhất của Graham, vì 15 năm sau (1972–1974) nhóm cổ phiếu tăng trưởng hàng đầu nước Mỹ (nhóm "Nifty Fifty") đúng là sụp đổ khi P/E bị nén mạnh.
 
 ### Đồ thị chữ U được các bong bóng sau này xác nhận nhiều lần
 
-Theo hiểu biết của người tổng hợp, không tra cứu: bong bóng dot-com 1999–2000 (Zweig phân tích kỹ trong các bình luận khác của sách) và các đợt định giá rất cao của cổ phiếu công nghệ lớn về sau đều là dạng "đầu cơ ở phía bên phải chữ U": công ty xuất sắc, giá phản ánh kỳ vọng quá xa. Đồng thời, nhiều nghiên cứu học thuật sau này ghi nhận cổ phiếu có P/E và P/B thấp có lợi nhuận bình quân dài hạn cao hơn, phù hợp với nhận định "vùng giữa thường bán dưới giá trị". Tuy vậy, hiệu ứng này không ổn định: theo hiểu biết của người tổng hợp, trong khoảng một thập kỷ rưỡi sau khủng hoảng 2008, cổ phiếu tăng trưởng lớn vượt trội cổ phiếu giá trị kéo dài, khiến nhiều người nghi ngờ lời khuyên của Graham trước khi tình hình đổi chiều phần nào.
+Theo hiểu biết của người tổng hợp, không tra cứu: bong bóng dot-com 1999–2000 (Zweig phân tích kỹ trong các bình luận khác của sách) và các đợt định giá rất cao của cổ phiếu công nghệ lớn về sau đều là dạng "đầu cơ ở phía bên phải chữ U": công ty xuất sắc, giá phản ánh kỳ vọng quá xa.
+
+Đồng thời, nhiều nghiên cứu học thuật sau này ghi nhận cổ phiếu có P/E và P/B thấp có lợi nhuận bình quân dài hạn cao hơn, phù hợp với nhận định "vùng giữa thường bán dưới giá trị". Tuy vậy, hiệu ứng này không ổn định: theo hiểu biết của người tổng hợp, trong khoảng một thập kỷ rưỡi sau khủng hoảng 2008, cổ phiếu tăng trưởng lớn vượt trội cổ phiếu giá trị kéo dài, khiến nhiều người nghi ngờ lời khuyên của Graham trước khi tình hình đổi chiều phần nào.
 
 ### Graham tự nhận đã bỏ lỡ IBM, và câu chuyện có hai mặt
 
@@ -936,4 +977,181 @@ Các mức thuế trong Phụ lục 2 (1972) và Phụ lục 3 (2003) đều đ�
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Ở mức định tính: (1) với cổ phiếu "ngôi sao" được cả thị trường yêu thích, hãy tính xem giá đã giả định tăng trưởng bao nhiêu năm và ở tốc độ nào; nếu cần giả định rất xa và rất cao thì đó là đầu cơ dù công ty tốt; (2) tìm ở "vùng giữa": doanh nghiệp lâu đời, lợi nhuận ổn định, ít được chú ý; (3) với cổ phiếu mới niêm yết, cổ phiếu đổi ngành, đổi tên theo trào lưu, hãy so giá với lợi nhuận bình quân nhiều năm và tài sản thật, không với một năm đẹp nhất; (4) đọc thuyết minh báo cáo tài chính, nhất là các khoản mục liên quan đến thâu tóm, trái phiếu, chứng quyền; (5) quy tắc thuế mỗi nước một khác, nhưng nguyên tắc tính lợi nhuận sau thuế và chi phí giao dịch trước khi quyết định mua bán thường xuyên áp dụng được ở mọi thị trường.
+Ở mức định tính:
+
+- Với cổ phiếu "ngôi sao" được cả thị trường yêu thích, hãy tính xem giá đã giả định tăng trưởng bao nhiêu năm và ở tốc độ nào; nếu cần giả định rất xa và rất cao thì đó là đầu cơ dù công ty tốt
+- Tìm ở "vùng giữa": doanh nghiệp lâu đời, lợi nhuận ổn định, ít được chú ý
+- Với cổ phiếu mới niêm yết, cổ phiếu đổi ngành, đổi tên theo trào lưu, hãy so giá với lợi nhuận bình quân nhiều năm và tài sản thật, không với một năm đẹp nhất
+- Đọc thuyết minh báo cáo tài chính, nhất là các khoản mục liên quan đến thâu tóm, trái phiếu, chứng quyền
+- Quy tắc thuế mỗi nước một khác, nhưng nguyên tắc tính lợi nhuận sau thuế và chi phí giao dịch trước khi quyết định mua bán thường xuyên áp dụng được ở mọi thị trường.
+
+## Bản đồ tư duy
+
+Toàn cảnh Phụ lục 2–7 trên một trang: sáu nhánh lớn đi theo các phần của Nội dung chi tiết (Phần A–B về quy tắc thuế 1972 và 2003; bốn nhánh cho Phụ lục 4 theo mục 1–2, 3–5, 6–10, 11–16: đầu cơ nội sinh và ngoại sinh, câu chuyện IBM, lợi thế thương mại và toán học, đồ thị chữ U và vùng giữa; Phần D–F về Aetna Maintenance, NVF và cổ phiếu "công nghệ"), mỗi nhánh ghi quy tắc, ví dụ và con số then chốt của Graham; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phụ lục 2–7: rủi ro của cổ phiếu không chỉ nằm trong doanh nghiệp mà còn ở cái giá người mua trả`"]
+  n1["`Phần A–B, Phụ lục 2–3 — Quy tắc thuế đầu tư Mỹ năm 1972 và 2003`"]
+  n0 --- n1
+  n2["`Lãi và cổ tức chịu thuế như thu nhập thường, trừ lãi trái phiếu địa phương miễn thuế liên bang`"]
+  n1 --- n2
+  n3["`Năm 1972 miễn thuế 100 USD cổ tức thường đầu tiên, bản 2003 không còn nhắc tới`"]
+  n1 --- n3
+  n4["`Gộp lãi, lỗ ngắn hạn với nhau và dài hạn với nhau trước khi tính thuế`"]
+  n1 --- n4
+  n5["`Năm 1972: thuế tối đa 25% cho 50.000 USD lãi đầu, 35% cho phần còn lại`"]
+  n1 --- n5
+  n6["`Năm 2003: lãi vốn dài hạn ròng thường chịu 20%, 18% nếu mua sau 31/12/2000 và giữ trên 5 năm`"]
+  n1 --- n6
+  n7["`Lỗ vốn ròng trừ vào thu nhập thường tối đa 1.000 USD/năm (1972), 3.000 USD/năm (2003)`"]
+  n1 --- n7
+  n8["`Quỹ mở là pháp nhân trung chuyển: chia #quot;cổ tức lãi vốn#quot;, người nhận chịu thuế như lãi dài hạn`"]
+  n1 --- n8
+  n9["`Tránh mua quỹ số tiền lớn trong quý IV, kẻo nộp thuế cho khoản lãi quỹ kiếm trước khi bạn sở hữu`"]
+  n1 --- n9
+  n10["`Phụ lục 4, mục 1–2 — Luận đề năm 1958: đầu cơ chuyển từ trong ra ngoài doanh nghiệp`"]
+  n0 --- n10
+  n11["`Xưa: đầu cơ nội sinh, nằm trong doanh nghiệp: ngành bấp bênh, công ty yếu, sổ sách bí ẩn`"]
+  n10 --- n11
+  n12["`Nay: đầu cơ ngoại sinh, do người mua và nhà phân tích trả tiền trước hết cho kỳ vọng tương lai`"]
+  n10 --- n12
+  n13["`Nghịch lý 1: #quot;speculate#quot; gốc Latin #quot;specula#quot; là chòi canh#59; nay nhà đầu tư đứng chung chòi canh với người đầu cơ`"]
+  n10 --- n13
+  n14["`Nghịch lý 2: công ty có tín nhiệm tốt nhất lại thu hút đầu cơ mạnh nhất vào cổ phiếu`"]
+  n10 --- n14
+  n15["`Nghịch lý 3: công thức chính xác cộng giả định thiếu chính xác biện minh được gần như mọi mức giá`"]
+  n10 --- n15
+  n16["`Phụ lục 4, mục 3–5 — IBM: từ 7 lần lợi nhuận lên 7 lần giá trị sổ sách`"]
+  n0 --- n16
+  n17["`Pennsylvania Railroad 1911–1913: 12,2–15 lần lợi nhuận bình quân, cổ tức 3 USD, là cổ phiếu đầu tư`"]
+  n16 --- n17
+  n18["`American Can: giá 9–47 USD, 1,9–10 lần lợi nhuận, không cổ tức, mệnh giá chỉ là #quot;nước#quot;, là cổ phiếu đầu cơ`"]
+  n16 --- n18
+  n19["`Đầu 1916 C-T-R giá quanh 40 USD, EPS 6,50 USD#59; sếp #quot;Mr. A. N.#quot; chê đằng sau chỉ có #quot;nước#quot;`"]
+  n16 --- n19
+  n20["`Graham cả đời không mua cổ phiếu nào của công ty, kể cả sau khi đổi tên thành IBM năm 1926`"]
+  n16 --- n20
+  n21["`Năm 1926 lợi nhuận đã tăng hơn 5 lần mà giá bình quân 45 vẫn 7 lần lợi nhuận, tỷ suất cổ tức 6,7%`"]
+  n16 --- n21
+  n22["`P/E bình quân của IBM: 7 (1926), 17½ (1936 và 1946), 32½ (1956), 42 (1957)`"]
+  n16 --- n22
+  n23["`#quot;Nước#quot; rời bảng cân đối nhưng quay lại trong giá thị trường: IBM bán 7 lần giá trị sổ sách`"]
+  n16 --- n23
+  n24["`Phụ lục 4, mục 6–10 — Lợi thế thương mại, cổ phiếu 3M và toán học cao cấp`"]
+  n0 --- n24
+  n25["`Ba chữ M cũ của đầu cơ gần biến mất: bí ẩn, thao túng, ký quỹ mỏng (chuyện Consolidated Gas)`"]
+  n24 --- n25
+  n26["`3M năm 1957: giá 101 USD, 44 lần lợi nhuận, định giá 1,7 tỷ USD trên 200 triệu USD tài sản ròng`"]
+  n24 --- n26
+  n27["`Vài tháng sau thị trường cắt khoảng 450 triệu USD khỏi phần lợi thế thương mại 1,5 tỷ USD`"]
+  n24 --- n27
+  n28["`Lợi thế thương mại càng lớn thì giá trị thật càng bất định, cổ phiếu càng đầu cơ`"]
+  n24 --- n28
+  n29["`Xưa phần vô hình được định giá thận trọng hơn (cơ sở 15%)#59; nay phần ROE vượt 10% được định giá 20 lần`"]
+  n24 --- n29
+  n30["`ROE 15% thì giá 13½ lần lợi nhuận, gấp đôi giá trị sổ sách`"]
+  n24 --- n30
+  n31["`Giá tăng theo bình phương lợi nhuận, tỉ lệ nghịch giá trị sổ sách: cùng EPS 4 USD, A bán 60 USD, B bán 35 USD`"]
+  n24 --- n31
+  n32["`Tăng trưởng lạc quan × chiếu xa vào tương lai × lãi kép là #quot;hòn đá triết gia#quot; biện minh mọi mức giá`"]
+  n24 --- n32
+  n33["`Durand: định giá cổ phiếu tăng trưởng giống nghịch lý St. Petersburg`"]
+  n24 --- n33
+  n34["`44 năm Graham chưa thấy phép tính đáng tin nào vượt số học, đại số sơ cấp: càng nhiều toán càng đầu cơ`"]
+  n24 --- n34
+  n35["`Phụ lục 4, mục 11–16 — Trả tiền cho hiện tại, đồ thị chữ U và vùng giữa`"]
+  n0 --- n35
+  n36["`Xưa triển vọng tốt là thứ để tìm chứ không để trả tiền, nên tương lai gần như được cho không`"]
+  n35 --- n36
+  n37["`#quot;Nếu là khoản đầu tư tốt thì cũng là khoản đầu cơ tốt#quot; chỉ đúng khi chưa ai để ý`"]
+  n35 --- n37
+  n38["`Nhà đầu tư nay đã trả trước cho tương lai: dự báo đúng vẫn có thể không lãi, sai thì lỗ nặng`"]
+  n35 --- n38
+  n39["`GE: EPS 1946 chỉ hơn 1902 30% mà P/E từ 9 lên 29#59; năm 1947 lợi nhuận lập đỉnh, P/E tụt về 9–10`"]
+  n35 --- n39
+  n40["`Đồ thị chữ U: hai đầu đầu cơ cao, công ty kém và công ty xuất sắc bị đẩy giá quá cao`"]
+  n35 --- n40
+  n41["`Đáy chữ U: công ty vững, lâu đời, tăng trưởng ngang nền kinh tế, thường bán dưới giá trị, có biên an toàn`"]
+  n35 --- n41
+  n42["`Ovid: Medius tutissimus ibis, #quot;đi ở giữa là an toàn nhất#quot;`"]
+  n35 --- n42
+  n43["`Phần D–F, Phụ lục 5–7 — Aetna Maintenance, NVF và cổ phiếu #quot;công nghệ#quot;`"]
+  n0 --- n43
+  n44["`Aetna 11/1961 phát hành giá 9 USD, lên 15, rơi xuống 2⅜ (1962) và 7/8 USD (1964), không cổ tức`"]
+  n43 --- n44
+  n45["`Cổ phiếu được bán và mua dựa trên một năm tốt#59; tài sản ròng chỉ hơn 3 USD mỗi cổ phiếu`"]
+  n43 --- n45
+  n46["`Đổi thành Haydon, năm 1968 giá tương đương 16½: khoảng 200 lần lợi nhuận bình quân#59; 1969 còn 1 USD`"]
+  n43 --- n46
+  n47["`NVF mua 88% Sharon Steel bằng trái phiếu 5% (giá 43% mệnh giá) và chứng quyền: 45 USD so với sổ sách 60 USD`"]
+  n43 --- n47
+  n48["`Khấu hao chiết khấu trái phiếu được trừ thuế, khoản ghi có không chịu thuế: tiết kiệm khoảng 900.000 USD/năm`"]
+  n43 --- n48
+  n49["`Hơn 22 triệu USD giá trị chứng quyền ghi vào vốn cổ phần, chỉ nằm trong thuyết minh`"]
+  n43 --- n49
+  n50["`Tháng 9/1971: 46 công ty tên #quot;công nghệ#quot;, 26 báo lỗ, chỉ 6 lãi trên 1 USD/cổ phiếu, 5 trả cổ tức`"]
+  n43 --- n50
+  n51["`Thành công của IBM sinh ra loạt phát hành mới mà thua lỗ lớn gần như được bảo đảm`"]
+  n43 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Chất lượng công ty chưa đủ, phải hỏi giá đã trả trước bao nhiêu cho tương lai`"]
+  n52 --- n53
+  n54["`So giá với lợi nhuận bình quân nhiều năm và tài sản thật, không với một năm tốt nhất`"]
+  n52 --- n54
+  n55["`Đọc thuyết minh báo cáo tài chính: khoản mục khác thường là nơi giấu bản chất`"]
+  n52 --- n55
+  class n0 root
+  class n1,n10,n16,n24,n35,n43,n52 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; các phụ lục: 2. "Règles importantes concernant l'imposition des revenus de placements et des opérations sur titres (en 1972)" (PDF trang 463–464); 3. "Les bases de la fiscalité des investissements (mis à jour en 2003)" (PDF trang 464–465); 4. "La nouvelle spéculation sur les actions ordinaires" (PDF trang 465–477); 5. "Une histoire de cas: Aetna Maintenance Co." (PDF trang 477–479); 6. "Comptabilité fiscale pour l'acquisition par NVF des actions de Sharon Steel" (PDF trang 479–480); 7. "Les entreprises technologiques comme investissements" (PDF trang 480–481). Chú thích của Graham ở mục "Annexes" phần chú thích cuối sách (PDF trang 490); một chú thích liên quan của Zweig (PDF trang 618).
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett. Phụ lục 2, 5, 6, 7 viết cho ấn bản 1973 (văn bản 1971–1972; phần đầu Phụ lục 5 lấy từ ấn bản 1965); Phụ lục 4 là bài nói của Graham năm 1958; Phụ lục 3 do nhà xuất bản cập nhật năm 2003 (sách không ghi tên người viết). Các phụ lục này không có bình luận của Jason Zweig.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các phụ lục là tài liệu bổ trợ cho các chương. Phụ lục 2 và 3 tóm tắt quy tắc thuế Mỹ với thu nhập đầu tư, nền cho các so sánh trái phiếu chịu thuế với trái phiếu miễn thuế và cổ tức với lãi vốn ở [Chương 4](C04-chinh-sach-danh-muc-nha-dau-tu-phong-thu.md) và các chương về quỹ.
+
+Phụ lục 4, bài nói "Sự đầu cơ mới vào cổ phiếu phổ thông" năm 1958, là nền lý thuyết cho nhận định ở [Chương 8](C08-nha-dau-tu-va-bien-dong-thi-truong.md) rằng cổ phiếu chất lượng càng cao và giá càng xa giá trị sổ sách thì càng mang tính đầu cơ, và cho lời khuyên ở [Chương 14](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md), [Chương 15](C15-chon-co-phieu-cho-nha-dau-tu-nang-dong.md) nên chọn những công ty vững vàng, "ở giữa", có giá vừa phải.
+
+Phụ lục 5 kể tiếp ví dụ Aetna Maintenance mà [Chương 6](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md) dùng để cảnh báo về phát hành mới. Phụ lục 6 là lời giải bài toán kế toán trong vụ NVF thâu tóm Sharon Steel ở [Chương 17](C17-bon-truong-hop-dang-hoc.md). Phụ lục 7 là dữ liệu về các công ty "công nghệ" niêm yết 1968–1971, minh hoạ lời cảnh báo về cổ phiếu thời thượng và phát hành mới. Phụ lục đứng sau [Lời bạt](PS-loi-bat.md) và [Phụ lục 1](PL1-nhung-sieu-nha-dau-tu-cua-graham-va-doddsville.md) (bài của Warren Buffett, 1984).
+
+## Lưu ý
+
+- **Hai bảng bị mất trong bản PDF.** Ở Phụ lục 5 (PDF trang 477–478), sau câu "Les ventes et les bénéfices avant le financement étaient:" là khoảng trắng gần nửa trang, không có số; ở Phụ lục 7 (PDF trang 480), sau câu "nous trouvons les développements suivants:" cũng là khoảng trắng. Đã kiểm tra trên ảnh trang và kiểm tra cấu trúc PDF: hai trang này không chứa ảnh nhúng nào, tức bảng bị mất hẳn khi xuất bản PDF, không phải lỗi hiển thị. Bảng "sau khi huy động vốn" của Phụ lục 5 thì còn (dạng dòng chữ) và được chép đầy đủ.
+  - Theo trí nhớ của người tổng hợp về bản tiếng Anh, **không kiểm chứng được và có thể sai**: bảng trước huy động vốn của Aetna Maintenance có dòng năm tài chính kết thúc tháng 6/1961 với doanh thu khoảng 3.615.000 USD, lợi nhuận ròng khoảng 187.000 USD, EPS khoảng 0,69 USD, còn các năm 1956–1960 chỉ lãi vài chục nghìn USD (EPS chỉ vài xu đến khoảng 0,3 USD). Bảng ở Phụ lục 7 chia 45 công ty năm 1968 thành: 12 bị loại khỏi *Stock Guide*, 9 báo lỗ, 13 lãi dưới 1 USD/cổ phiếu, 11 lãi trên 1 USD/cổ phiếu (cộng lại 45), kèm thống kê mức giảm giá so với đỉnh năm 1968 mà người tổng hợp không nhớ chắc. Các con số này **không** được dùng trong phần Nội dung chi tiết.
+- **Mâu thuẫn số liệu giữa Phụ lục 5 và Chương 6:** Phụ lục 5 (bản PDF) ghi giá Aetna năm 1962 rơi xuống "2 2/3" USD; Chương 6 (PDF trang 130, đoạn dẫn sang Phụ lục 5) ghi "2 3/8". Theo hiểu biết của người tổng hợp, bản gốc là 2⅜; "2 2/3" nhiều khả năng là lỗi chép phân số.
+- **Giá Haydon năm 1968:** bản dịch viết giá lên "l'équivalent de 16½ en 1968 (après la scission)", nhưng câu hỏi cuối phụ lục nói người mua "đã trả 8 USD trở lên". Hai chỗ khớp nhau nếu hiểu 16½ USD là giá **quy đổi theo cổ phiếu cũ trước khi tách 2-cho-1**, tức giá thực tế khoảng 8¼ USD mỗi cổ phiếu mới. Kiểm tra: 16½ ÷ 0,08 USD (lợi nhuận bình quân theo cổ phiếu cũ) ≈ 206 lần, khớp "khoảng 200 lần"; 16½ ÷ 0,34 USD (năm tốt nhất) ≈ 48,5 lần, hơi thấp hơn con số "52 lần" trong sách (sách không giải thích chênh lệch).
+- **Số liệu Phụ lục 6 so với Chương 17:** Phụ lục 6 nói khoản chiết khấu trái phiếu "54 triệu USD"; tính từ chính số trong phụ lục (99 triệu USD mệnh giá bán ở 43% mệnh giá) thì chiết khấu khoảng 56,4 triệu USD; Chương 17 ghi trên bảng cân đối 58,6 triệu USD "chi phí nợ hoãn lại". Phụ lục 6 nói mỗi năm ghi có một phần mười của khoảng 21 triệu USD (tức khoảng 2,1 triệu USD), còn báo cáo năm 1969 trong Chương 17 ghi số thực tế là 1.650.000 USD ghi có và 1.795.000 USD khấu hao chiết khấu. Các chênh lệch này không làm đổi kết luận.
+- **Quy tắc thuế 1972 (Phụ lục 2), "Règle 2":** câu "Si le gain en capital net à court terme dépasse la perte en capital nette à long terme, 100% de cet excédent doit être inclus dans le revenu. L'impôt maximal est de 25% jusqu'à 50 000 $ de ces gains et de 35% sur le solde" gộp hai quy tắc làm một.
+
+  Theo hiểu biết của người tổng hợp, không tra cứu: luật Mỹ năm 1972 tính toàn bộ lãi vốn ngắn hạn ròng vào thu nhập thường, còn với **lãi vốn dài hạn** ròng thì chỉ tính một nửa vào thu nhập, với mức thuế tối đa 25% cho 50.000 USD đầu và 35% (hiệu dụng) cho phần còn lại. Câu về lãi vốn dài hạn có lẽ đã bị rơi khi dịch hoặc in; người đọc nên hiểu mức trần 25%/35% áp dụng cho lãi vốn dài hạn.
+- **Thuế đã đổi sau 2003 (theo hiểu biết của người tổng hợp, không tra cứu):** Phụ lục 3 viết đầu năm 2003, ngay trước luật cắt giảm thuế tháng 5/2003, luật này hạ thuế lãi vốn dài hạn xuống 15% (bỏ mức 18% cho tài sản giữ trên 5 năm) và lần đầu cho cổ tức "đủ điều kiện" hưởng cùng mức thuế với lãi vốn dài hạn, thay vì chịu thuế suất thu nhập thường tới 38,6%. Hiện nay (2026) thuế lãi vốn dài hạn liên bang có các bậc 0%, 15%, 20%, cộng thuế 3,8% trên thu nhập đầu tư ròng với người thu nhập cao; mức trừ lỗ vốn ròng vào thu nhập thường vẫn là 3.000 USD một năm. Lời khuyên tránh mua quỹ mở ngay trước kỳ chia lãi vốn cuối năm vẫn đúng với tài khoản chịu thuế.
+- **Các chỗ dịch máy lệch nghĩa đáng kể trong Phụ lục 4:**
+  - "analystes de la sécurité", "analyse ... sécuritaire", "conseillers en sécurité" là security analysts (nhà phân tích chứng khoán), security analysis, investment advisers; không liên quan "an ninh".
+  - "stock commun", "le commun", "communs d'investissement" là common stock (cổ phiếu phổ thông); "enjeux privilégiés", "problème", "question", "questions plus glamour" là issues (cổ phiếu, chứng khoán): "un problème vraiment en suspens" là "một cổ phiếu thực sự nổi bật" (outstanding issue).
+  - "salaire moyen" (PDF trang 467) là "lợi nhuận bình quân" (average earnings); "le filet", "le net" là lợi nhuận ròng; "bonne volonté" là lợi thế thương mại (goodwill).
+  - "eau", "de l'eau non divulguée" là "nước" (water), tiếng lóng Wall Street cho phần tài sản ảo trên bảng cân đối (watered stock).
+  - "Je suis retourné dans la loge de mon statisticien, un jeune homme châtié" nghĩa là "tôi quay về cái buồng nhỏ của nhân viên thống kê, một chàng trai trẻ đã bị dạy cho một bài học".
+  - "un frais de 1½ milliard de dollars" là "1,5 tỷ USD tròn trĩnh" (a cool $1½ billion), không phải "chi phí".
+  - "lo!" là thán từ tiếng Anh ("kìa!"), giữ nguyên trong bản dịch.
+  - "Journal des analystes" là *The Analysts Journal* (tạp chí của giới phân tích tài chính Mỹ).
+  - Câu ở PDF trang 476 "le marché boursier a tendance à introduire ... un élément hautement spéculatif dans les actions ordinaires moyen simple d'un prix si élevé" bị hỏng; nghĩa là thị trường đưa yếu tố đầu cơ cao vào các cổ phiếu ấy **bằng cách đơn giản là đẩy giá lên cao** đến mức mang rủi ro khá lớn.
+  - Câu thơ Shakespeare "N'ai-je pas vu des habitants en forme et en faveur / Vous perdez tout en payant trop de loyer?" là Sonnet 125: "Have I not seen dwellers on form and favour / Lose all, and more, by paying too much rent?" ("Ta chẳng từng thấy kẻ chạy theo dáng vẻ và ân sủng mất tất cả, và hơn thế, vì trả tiền thuê quá đắt sao?"). Chữ "Vous" là lỗi dịch.
+  - "Il en va certainement ainsi" (PDF trang 475) mở đầu đoạn về GE: theo mạch văn Graham nói "có vẻ đúng là như vậy" rồi lập tức nghi ngờ chính thế lưỡng nan đó.
+  - "les trois M": mystery, manipulation, (thin) margins = bí ẩn, thao túng, ký quỹ (mỏng); chơi chữ với "3M" (Minnesota Mining and Manufacturing).
+- **Các chỗ dịch máy lệch nghĩa ở các phụ lục khác:** "bénéfices de sécurité à long terme" (Phụ lục 2) là "lãi dài hạn từ chứng khoán"; "imposés de manière substantielle en tant que sociétés de personnes" nghĩa là được đánh thuế về thực chất như một pháp nhân trung chuyển (conduit), lợi nhuận chuyển thẳng cho người góp vốn; "le prix de l'offre" (Phụ lục 5) là giá chào mua (bid price); "C OMMENTATION", "C OMMENT", "Q UESTIONS" là tiêu đề tiếng Anh bị tách chữ; "problèmes «technologiques»" (Phụ lục 7) là "cổ phiếu công nghệ"; "commission d'actualisation des obligations" (Phụ lục 6) là "chi phí chiết khấu trái phiếu".
+- **"M. AN":** Graham gọi ông chủ hãng môi giới đầu tiên của mình là "Mr. A. N."; theo hiểu biết của người tổng hợp, đó là Alfred Newburger, của hãng Newburger, Henderson & Loeb, nơi Graham vào làm năm 1914.
+- **Chỗ dẫn trang bản tiếng Anh:** chú thích của Zweig ở Chương 8 dẫn Phụ lục 4 bằng "p. 570" của bản tiếng Anh, không có trong bản PDF. Graham dẫn *Security Analysis*, McGraw-Hill 1940, tr. 2–3, cho số liệu American Can và Pennsylvania Railroad; nội dung đã được chép lại.
+- Câu trích trong mục "Câu nói đáng nhớ" là tiếng Pháp đúng như PDF (kể cả lỗi dịch), kèm bản dịch tiếng Việt theo nghĩa gốc của người tổng hợp.

@@ -1,33 +1,24 @@
 # Chương 19 — Cổ đông và ban điều hành: chính sách cổ tức (Actionnaires et dirigeants: politique de dividende)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 19 "Actionnaires et dirigeants: politique de dividende" (PDF trang 410–417) và "Commentaire sur le chapitre 19" (PDF trang 417–427).
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 11 đến Chương 18, Graham dạy người đọc phân tích một công ty từ bên ngoài: đọc lợi nhuận trên mỗi cổ phiếu (EPS), so sánh công ty, chọn cổ phiếu cho nhà đầu tư phòng thủ và nhà đầu tư năng động, rồi ở [Chương 17](C17-bon-truong-hop-dang-hoc.md) và [Chương 18](C18-so-sanh-tam-cap-cong-ty.md) đưa ra các trường hợp mà ban điều hành phá huỷ giá trị (thâu tóm tràn lan, kế toán tô vẽ, phát hành cổ phiếu khi giá bị thổi phồng). Chương 19 lật góc nhìn: người mua cổ phiếu là **chủ sở hữu** công ty, nên phải biết đòi hỏi ở ban điều hành, trước hết là về chuyện lợi nhuận được trả ra cho cổ đông hay giữ lại. Graham nối lại với ý ở [Chương 8](C08-nha-dau-tu-va-bien-dong-thi-truong.md) rằng ban điều hành kém dẫn đến giá thị trường thấp. Chương này khép lại phần phân tích chứng khoán trước khi [Chương 20](C20-bien-an-toan.md) gom toàn bộ cuốn sách vào khái niệm biên an toàn. Phần bình luận của Zweig khôi phục những gì Graham đã cắt từ ấn bản 1949 (quyền biểu quyết, đánh giá ban điều hành, xung đột lợi ích) và áp dụng vào các vụ bê bối 2001–2002 (Enron), vào làn sóng mua lại cổ phiếu và quyền chọn cổ phiếu cho lãnh đạo.
-**Ý chính:** Graham muốn người đọc hiểu rằng **cổ đông có quyền và có lý do để đòi ban điều hành giải trình, nhưng trong thực tế đám đông cổ đông gần như không bao giờ hành động; chỉ những người bên ngoài mua gom cổ phần để nắm quyền kiểm soát (thâu tóm) mới thay được ban điều hành kém. Riêng về cổ tức, cổ đông nên đòi một trong hai điều: hoặc công ty trả ra mức bình thường, khoảng hai phần ba lợi nhuận, hoặc công ty chứng minh rõ rằng phần lợi nhuận giữ lại đã làm EPS tăng thoả đáng.** Graham ghi nhận thị trường đã đổi thái độ: thời trước, công ty yếu mới phải giữ lại lợi nhuận thay vì trả 60–75% như thường lệ, và giá cổ phiếu bị phạt; nay chính công ty mạnh, tăng trưởng nhanh lại cố ý giữ cổ tức thấp và được hoan nghênh. Ví dụ trung tâm: Texas Instruments tăng giá từ 5 USD (1953) lên 256 USD (1960) mà không trả đồng cổ tức nào, EPS từ 0,43 USD lên 3,91 USD; Superior Oil lên tới 2.000 USD năm 1957 khi không trả cổ tức. Graham phân biệt **cổ tức bằng cổ phiếu đúng nghĩa** (nhỏ, khoảng 5%, đại diện cho lợi nhuận giữ lại trong khoảng hai năm gần nhất) với **tách cổ phiếu** (chia một cổ phiếu thành hai hoặc ba để hạ giá mỗi cổ phiếu), và đề nghị các công ty dịch vụ công cộng thay lối "trả cổ tức tiền mặt rồi bán thêm cổ phiếu cho cổ đông qua quyền mua" bằng cổ tức bằng cổ phiếu, để cổ đông khỏi đóng thuế thu nhập trên khoản tiền mà công ty lấy lại ngay.
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **lời kêu gọi cũ của Graham, "cổ đông hãy thức tỉnh", nay càng cấp thiết**: Graham đã rút gần 34 trang của ấn bản đầu tiên xuống chưa tới 8 trang vì nản lòng, nhưng loạt bê bối AOL, Enron, Global Crossing, Sprint, Tyco, WorldCom cho thấy việc đọc tài liệu uỷ quyền biểu quyết (proxy statement) là bắt buộc. Tài liệu năm 1999 của Enron đã công khai rằng giám đốc tài chính Andrew Fastow điều hành hai hợp danh LJM1 và LJM2, mua 170 triệu USD tài sản của chính Enron, đôi khi bằng tiền vay từ Enron. Zweig phản bác lập luận "bố biết rõ nhất" (Daddy Knows Best) của ban điều hành: năm 1999 chỉ 3,7% công ty IPO trả cổ tức, so với 72,1% trong thập niên 1960; nhưng công ty trả cổ tức cao lại có lợi nhuận tương lai tăng nhanh hơn; còn mua lại cổ phiếu thường là "bán thấp, mua cao": Oracle phát hành cổ phiếu cho người trong cuộc với giá bình quân 3,53 USD rồi mua lại với giá bình quân 18,26 USD, chi 5,3 tỷ USD trong một năm tài chính. Ví dụ cuối là Steve Jobs được Apple tặng một máy bay 90 triệu USD và quyền chọn trên 20 triệu cổ phiếu.
+Graham muốn người đọc hiểu rằng **cổ đông có quyền và có lý do để đòi ban điều hành giải trình, nhưng trong thực tế đám đông cổ đông gần như không bao giờ hành động; chỉ những người bên ngoài mua gom cổ phần để nắm quyền kiểm soát (thâu tóm) mới thay được ban điều hành kém. Riêng về cổ tức, cổ đông nên đòi một trong hai điều: hoặc công ty trả ra mức bình thường, khoảng hai phần ba lợi nhuận, hoặc công ty chứng minh rõ rằng phần lợi nhuận giữ lại đã làm EPS tăng thoả đáng.**
 
-> **Lưu ý:**
-> - **Tiêu đề chương:** bản PDF ghi "Actionnaires et dirigeants: politique de dividende" (cả ở đầu chương, PDF trang 410, và ở phần chú thích cuối sách); danh sách file của bộ này ghi "Actionnaires et gestions". Bản tổng hợp dùng đúng chữ trong PDF. Tiêu đề tiếng Anh gốc là "Shareholders and Managements: Dividend Policy".
-> - **Hình 19-1 bị mất trong bản PDF:** trang 422–423 chỉ còn tiêu đề "FIGURE 19-1 / Qui paie les dividendes?" và dòng nguồn (Fama và French, "Disappearing Dividends", *Journal of Financial Economics*, tháng 4/2001); phần biểu đồ là một khoảng trắng nửa trang. Không chép lại được số liệu của hình. Theo hiểu biết của người tổng hợp, không tra cứu: nghiên cứu của Fama–French cho thấy tỷ lệ công ty niêm yết ở Mỹ trả cổ tức giảm từ khoảng 66,5% năm 1978 xuống khoảng 20,8% năm 1999; con số này chỉ để tham khảo, không phải số đọc từ hình.
-> - **Các chỗ dịch máy lệch nghĩa đáng kể:**
->   - "E ver depuis 1934" là chữ tiếng Anh "Ever since 1934" (từ năm 1934, năm ra đời *Security Analysis*) bị tách chữ.
->   - "rachats ou offres publiques d'achat" dịch "take-overs or bids" (thâu tóm hoặc chào mua công khai), không phải "mua lại cổ phiếu" như nghĩa của "rachat d'actions" ở phần bình luận; "offres faites au-dessus des dirigeants" nghĩa là chào mua thẳng với cổ đông, *vượt qua đầu* ban điều hành.
->   - "s'est avérée trop ironique" (PDF trang 411): bản gốc là "too quixotic", tức "quá viển vông"; Graham không nói "mỉa mai".
->   - "politique de bas salaires" (PDF trang 412) phải hiểu là "chính sách trả cổ tức thấp" (low-payout policy), không liên quan tiền lương.
->   - "maintienne ses versements de dividendes" (PDF trang 412) phải hiểu là công ty mạnh "cố ý giữ cổ tức ở mức thấp" (holds down), không phải "duy trì".
->   - "Une politique négligente" (PDF trang 414) dịch "niggardly policy" (chính sách trả cổ tức keo kiệt); "des dividendes sont parfois détenus par des sociétés relativement peu chères" phải hiểu là "cổ tức đôi khi bị giữ thấp bởi những công ty làm ăn tương đối kém" (unprosperous), không phải công ty "rẻ".
->   - "problème", "question de revenu", "émissions" là dịch máy của "issue" (một loại chứng khoán, một mã cổ phiếu): "ce problème inhabituel" là "cổ phiếu khác thường này" (Superior Oil); "question de revenu" là "cổ phiếu thu nhập" (income issue); "préoccupations" là "concerns" (doanh nghiệp).
->   - "les actionnaires sont un lavage complet" dịch "a complete washout" (hoàn toàn vô dụng); "le rang et le dossier des actionnaires" dịch "rank and file" (số đông cổ đông bình thường); "ingénieurs commerciaux externes pour transmettre les politiques" nghĩa là thuê "kỹ sư kinh doanh" độc lập để **đánh giá** (pass upon) chính sách và năng lực ban điều hành.
->   - "procuration", "proxy", "mandataire" đều chỉ tài liệu uỷ quyền biểu quyết (proxy statement); "a déclaré le mandataire" nghĩa là "tài liệu uỷ quyền nói vậy".
->   - "100 actions bidons" là "100 cổ phiếu ít ỏi" (measly); "bombes à points" là chơi chữ "dot-bombs" (công ty dot-com phá sản); "obscurément surévaluées" là "định giá cao một cách phi lý" (absurdly); "une couchette" dịch "bunk" (chuyện nhảm); "empilé bien plus vite qu'elles ne le pourraient" thiếu vế "... dùng tới"; "bloqué 1,9 milliard de bénéfices" là "chốt" (locked in) 1,9 tỷ USD lãi từ quyền chọn; "sept" ở cuối đoạn trích PDF trang 421 là số chú thích 7 bị dịch thành chữ.
->   - Câu trích *Security Analysis* "autant de raisons d'être prudent et de juger en étant qu'en devenant actionnaire" (PDF trang 418) bị dịch thiếu; nghĩa là "cần thận trọng và sáng suốt khi *đang là* cổ đông chẳng kém khi *trở thành* cổ đông".
->   - Câu cuối chương Graham (PDF trang 417) "dont la plus importante n'est pas leur politique de dividende" nói ngược ý: theo mạch văn cả chương, Graham muốn nói thông lệ tài chính quan trọng nhất cần hiện đại hoá *chính là* chính sách cổ tức.
->   - "droits d'abonnement" trong chú thích của Zweig là "subscription rights", tức quyền mua cổ phiếu phát hành thêm.
-> - **Số liệu cần kiểm tra:** Zweig viết Oracle phát hành 101 triệu + 26 triệu = 127 triệu cổ phiếu "với chi phí 484 triệu USD" và "giá bình quân 3,53 USD"; 484 triệu chia 127 triệu ra khoảng 3,81 USD, không khớp hẳn 3,53 USD (có thể hai con số đo theo hai cách khác nhau; sách không giải thích). Phép tính mua lại thì khớp: 290,7 triệu cổ phiếu × 18,26 USD ≈ 5,31 tỷ USD.
-> - **Chỗ Graham dẫn trang bản tiếng Anh:** chú thích của Zweig dẫn ấn bản 1949 (tr. 217, 218, 219, 223, 224, 232, 233, 240) và *Security Analysis* 1934 (tr. 508, 515); các trang này không có trong bản PDF. Bản tổng hợp chép nội dung trích thay cho số trang.
-> - **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** sau 2003 nhiều điều đã đổi: Mỹ hạ thuế cổ tức (luật năm 2003), buộc ghi nhận quyền chọn cổ phiếu là chi phí trên báo cáo kết quả kinh doanh (chuẩn mực kế toán có hiệu lực từ khoảng 2005–2006), Microsoft trả một khoản cổ tức đặc biệt rất lớn năm 2004, Oracle và Apple về sau đều trả cổ tức và mua lại cổ phiếu với quy mô lớn; Enron phá sản cuối năm 2001 và Fastow bị kết án. Chi tiết ở phần Đánh giá.
-> - Câu trích trong mục "Câu nói đáng nhớ" là tiếng Pháp đúng như PDF (kể cả lỗi dịch), kèm bản dịch tiếng Việt theo nghĩa gốc của người tổng hợp.
+Graham ghi nhận thị trường đã đổi thái độ: thời trước, công ty yếu mới phải giữ lại lợi nhuận thay vì trả 60–75% như thường lệ, và giá cổ phiếu bị phạt; nay chính công ty mạnh, tăng trưởng nhanh lại cố ý giữ cổ tức thấp và được hoan nghênh.
+
+Ví dụ trung tâm: Texas Instruments tăng giá từ 5 USD (1953) lên 256 USD (1960) mà không trả đồng cổ tức nào, EPS từ 0,43 USD lên 3,91 USD; Superior Oil lên tới 2.000 USD năm 1957 khi không trả cổ tức.
+
+Graham phân biệt **cổ tức bằng cổ phiếu đúng nghĩa** (nhỏ, khoảng 5%, đại diện cho lợi nhuận giữ lại trong khoảng hai năm gần nhất) với **tách cổ phiếu** (chia một cổ phiếu thành hai hoặc ba để hạ giá mỗi cổ phiếu), và đề nghị các công ty dịch vụ công cộng thay lối "trả cổ tức tiền mặt rồi bán thêm cổ phiếu cho cổ đông qua quyền mua" bằng cổ tức bằng cổ phiếu, để cổ đông khỏi đóng thuế thu nhập trên khoản tiền mà công ty lấy lại ngay.
+
+Zweig, viết năm 2003, bổ sung rằng **lời kêu gọi cũ của Graham, "cổ đông hãy thức tỉnh", nay càng cấp thiết**: Graham đã rút gần 34 trang của ấn bản đầu tiên xuống chưa tới 8 trang vì nản lòng, nhưng loạt bê bối AOL, Enron, Global Crossing, Sprint, Tyco, WorldCom cho thấy việc đọc tài liệu uỷ quyền biểu quyết (proxy statement) là bắt buộc.
+
+Tài liệu năm 1999 của Enron đã công khai rằng giám đốc tài chính Andrew Fastow điều hành hai hợp danh LJM1 và LJM2, mua 170 triệu USD tài sản của chính Enron, đôi khi bằng tiền vay từ Enron.
+
+Zweig phản bác lập luận "bố biết rõ nhất" (Daddy Knows Best) của ban điều hành: năm 1999 chỉ 3,7% công ty IPO trả cổ tức, so với 72,1% trong thập niên 1960; nhưng công ty trả cổ tức cao lại có lợi nhuận tương lai tăng nhanh hơn.
+
+Còn mua lại cổ phiếu thường là "bán thấp, mua cao": Oracle phát hành cổ phiếu cho người trong cuộc với giá bình quân 3,53 USD rồi mua lại với giá bình quân 18,26 USD, chi 5,3 tỷ USD trong một năm tài chính.
+
+Ví dụ cuối là Steve Jobs được Apple tặng một máy bay 90 triệu USD và quyền chọn trên 20 triệu cổ phiếu.
 
 ## Sơ đồ
 
@@ -387,17 +378,29 @@ Zweig, viết năm 2003, bổ sung rằng **lời kêu gọi cũ của Graham, "
 
 Từ năm 1934 (năm ra đời *Security Analysis*), Graham đã viết để kêu gọi cổ đông có thái độ thông minh và mạnh mẽ hơn với ban điều hành của công ty mình. Ông đề nghị họ rộng rãi với những ban điều hành rõ ràng làm tốt; đòi giải thích rõ ràng, thoả đáng khi kết quả có vẻ kém hơn mức đáng có; và ủng hộ các phong trào nhằm cải thiện hoặc thay thế những ban điều hành rõ ràng kém hiệu quả. Theo Graham, cổ đông có lý do chính đáng để chất vấn năng lực ban điều hành khi kết quả kinh doanh (1) tự thân không đạt yêu cầu, (2) kém hơn kết quả của các công ty khác có vẻ ở hoàn cảnh tương tự, và (3) đã dẫn tới giá thị trường thấp, không thoả đáng trong thời gian dài.
 
-Graham thừa nhận rằng trong 36 năm qua, hành động thông minh của số đông cổ đông gần như không đạt được gì. Một người đi "thập tự chinh" tỉnh táo hẳn sẽ coi đó là dấu hiệu mình đã phí công và nên bỏ cuộc. Nhưng mục tiêu của ông không thất bại, vì được cứu bởi một diễn biến từ bên ngoài: các vụ thâu tóm và chào mua công khai (take-overs or bids). Như Graham đã nói ở Chương 8, ban điều hành kém dẫn tới giá thị trường kém. Giá thấp lại thu hút sự chú ý của các công ty muốn đa dạng hoá hoạt động, mà loại công ty này thời đó rất nhiều. Vô số vụ mua lại đã diễn ra, hoặc bằng thoả thuận với ban điều hành hiện hữu, hoặc bằng cách gom cổ phiếu trên thị trường và đưa ra lời chào mua thẳng tới cổ đông, vượt qua đầu ban điều hành. Giá chào mua thường nằm trong khoảng giá trị của doanh nghiệp nếu được điều hành ở mức tạm ổn. Vì thế, trong nhiều trường hợp, cổ đông đại chúng thụ động đã được "giải cứu" nhờ hành động của "người ngoài", đôi khi là cá nhân hoặc nhóm năng động hành động vì lợi ích riêng.
+Graham thừa nhận rằng trong 36 năm qua, hành động thông minh của số đông cổ đông gần như không đạt được gì. Một người đi "thập tự chinh" tỉnh táo hẳn sẽ coi đó là dấu hiệu mình đã phí công và nên bỏ cuộc.
 
-Chú thích của Zweig: trớ trêu là các vụ thâu tóm bắt đầu cạn dần ngay sau khi ấn bản hiệu đính cuối cùng của Graham ra đời; thập niên 1970 và đầu thập niên 1980 là điểm thấp nhất về hiệu quả công nghiệp Mỹ thời hiện đại. Ô tô hay hỏng, tivi và radio liên tục trục trặc, và lãnh đạo nhiều công ty niêm yết bỏ qua cả quyền lợi hiện tại của cổ đông bên ngoài lẫn triển vọng tương lai của chính công ty. Mọi thứ bắt đầu đổi khác năm 1984, khi nhà khai thác dầu độc lập T. Boone Pickens mở cuộc chào mua thù địch Gulf Oil. Ngay sau đó, được tài trợ bằng trái phiếu lợi suất cao, rủi ro cao ("trái phiếu rác") do Drexel Burnham Lambert thu xếp, các "kẻ đột kích doanh nghiệp" (corporate raiders) đi khắp nước Mỹ, buộc những công ty trì trệ lâu năm vào một chế độ hiệu quả mới. Nhiều công ty liên quan tới các vụ thâu tóm và mua lại bằng vốn vay bị tàn phá, nhưng phần còn lại của giới kinh doanh Mỹ trở nên gọn nhẹ hơn (điều tốt) và cũng có khi gầy guộc quá mức (điều không phải lúc nào cũng tốt).
+Nhưng mục tiêu của ông không thất bại, vì được cứu bởi một diễn biến từ bên ngoài: các vụ thâu tóm và chào mua công khai (take-overs or bids). Như Graham đã nói ở Chương 8, ban điều hành kém dẫn tới giá thị trường kém. Giá thấp lại thu hút sự chú ý của các công ty muốn đa dạng hoá hoạt động, mà loại công ty này thời đó rất nhiều.
+
+Vô số vụ mua lại đã diễn ra, hoặc bằng thoả thuận với ban điều hành hiện hữu, hoặc bằng cách gom cổ phiếu trên thị trường và đưa ra lời chào mua thẳng tới cổ đông, vượt qua đầu ban điều hành. Giá chào mua thường nằm trong khoảng giá trị của doanh nghiệp nếu được điều hành ở mức tạm ổn. Vì thế, trong nhiều trường hợp, cổ đông đại chúng thụ động đã được "giải cứu" nhờ hành động của "người ngoài", đôi khi là cá nhân hoặc nhóm năng động hành động vì lợi ích riêng.
+
+Chú thích của Zweig: trớ trêu là các vụ thâu tóm bắt đầu cạn dần ngay sau khi ấn bản hiệu đính cuối cùng của Graham ra đời; thập niên 1970 và đầu thập niên 1980 là điểm thấp nhất về hiệu quả công nghiệp Mỹ thời hiện đại. Ô tô hay hỏng, tivi và radio liên tục trục trặc, và lãnh đạo nhiều công ty niêm yết bỏ qua cả quyền lợi hiện tại của cổ đông bên ngoài lẫn triển vọng tương lai của chính công ty.
+
+Mọi thứ bắt đầu đổi khác năm 1984, khi nhà khai thác dầu độc lập T. Boone Pickens mở cuộc chào mua thù địch Gulf Oil. Ngay sau đó, được tài trợ bằng trái phiếu lợi suất cao, rủi ro cao ("trái phiếu rác") do Drexel Burnham Lambert thu xếp, các "kẻ đột kích doanh nghiệp" (corporate raiders) đi khắp nước Mỹ, buộc những công ty trì trệ lâu năm vào một chế độ hiệu quả mới. Nhiều công ty liên quan tới các vụ thâu tóm và mua lại bằng vốn vay bị tàn phá, nhưng phần còn lại của giới kinh doanh Mỹ trở nên gọn nhẹ hơn (điều tốt) và cũng có khi gầy guộc quá mức (điều không phải lúc nào cũng tốt).
 
 Graham rút ra quy luật chung, với ít ngoại lệ: ban điều hành kém không bị thay đổi bởi hành động của "cổ đông đại chúng", mà chỉ bởi việc một cá nhân hoặc một nhóm nhỏ giành quyền kiểm soát. Chuyện này xảy ra đủ thường xuyên để cảnh báo ban điều hành, kể cả hội đồng quản trị, của một công ty đại chúng điển hình rằng nếu kết quả kinh doanh và giá thị trường đi kèm quá kém, công ty có thể trở thành mục tiêu của một vụ thâu tóm thành công. Do đó, hội đồng quản trị có lẽ đã ý thức hơn trước về nhiệm vụ cơ bản của mình là bảo đảm công ty có ban điều hành thoả đáng; những năm gần đây có nhiều vụ thay chủ tịch hơn trước.
 
-Tuy vậy, không phải công ty kém nào cũng được hưởng lợi. Thay đổi thường chỉ đến sau một thời gian dài kết quả kém mà không ai sửa, và phụ thuộc vào việc có đủ cổ đông chán nản bán rẻ cổ phiếu để người ngoài năng động gom được phần kiểm soát. Graham kết luận rằng ý tưởng cổ đông đại chúng có thể tự cứu mình bằng cách ủng hộ các sáng kiến cải thiện ban điều hành và chính sách điều hành đã tỏ ra quá viển vông để đáng tốn thêm giấy trong sách. Những cổ đông đủ can đảm lên tiếng ở đại hội thường niên (thường là một màn trình diễn hoàn toàn vô ích) không cần lời khuyên của ông về những điểm cần nêu; với người khác, lời khuyên có lẽ cũng phí. Dù vậy, ông kết thúc phần này bằng lời đề nghị: cổ đông hãy đọc với tinh thần cởi mở và chú ý kỹ mọi tài liệu uỷ quyền biểu quyết do các cổ đông khác gửi tới khi họ muốn sửa một tình trạng điều hành rõ ràng không thoả đáng.
+Tuy vậy, không phải công ty kém nào cũng được hưởng lợi. Thay đổi thường chỉ đến sau một thời gian dài kết quả kém mà không ai sửa, và phụ thuộc vào việc có đủ cổ đông chán nản bán rẻ cổ phiếu để người ngoài năng động gom được phần kiểm soát.
+
+Graham kết luận rằng ý tưởng cổ đông đại chúng có thể tự cứu mình bằng cách ủng hộ các sáng kiến cải thiện ban điều hành và chính sách điều hành đã tỏ ra quá viển vông để đáng tốn thêm giấy trong sách. Những cổ đông đủ can đảm lên tiếng ở đại hội thường niên (thường là một màn trình diễn hoàn toàn vô ích) không cần lời khuyên của ông về những điểm cần nêu; với người khác, lời khuyên có lẽ cũng phí. Dù vậy, ông kết thúc phần này bằng lời đề nghị: cổ đông hãy đọc với tinh thần cởi mở và chú ý kỹ mọi tài liệu uỷ quyền biểu quyết do các cổ đông khác gửi tới khi họ muốn sửa một tình trạng điều hành rõ ràng không thoả đáng.
 
 #### 2. Cổ đông và chính sách cổ tức (Actionnaires et politique de dividende, PDF trang 411–414)
 
-**Thái độ cũ và thái độ mới.** Trước đây, chính sách cổ tức là chủ đề tranh luận khá thường xuyên giữa cổ đông đại chúng ("thiểu số") và ban điều hành. Cổ đông thường muốn cổ tức hào phóng hơn, còn ban điều hành thích giữ lợi nhuận trong công ty "để làm công ty vững mạnh", yêu cầu cổ đông hy sinh lợi ích trước mắt vì lợi ích của công ty và vì lợi ích dài hạn của chính họ. Nhưng những năm gần đây, thái độ của nhà đầu tư với cổ tức đã thay đổi từ từ nhưng đáng kể. Lý lẽ chính để trả cổ tức thấp nay không còn là công ty "cần" tiền, mà là công ty có thể dùng tiền đó vì lợi ích trực tiếp và ngay lập tức của cổ đông, bằng cách giữ lại để mở rộng có lãi. Nhiều năm trước, thường chỉ công ty yếu mới ít nhiều bị buộc phải giữ lại lợi nhuận thay vì trả 60–75% như thường lệ, và điều đó hầu như luôn có hại cho giá cổ phiếu. Ngày nay, rất có thể chính một công ty mạnh, đang tăng trưởng lại cố ý giữ cổ tức thấp, với sự tán thành của cả nhà đầu tư lẫn nhà đầu cơ.
+**Thái độ cũ và thái độ mới.** Trước đây, chính sách cổ tức là chủ đề tranh luận khá thường xuyên giữa cổ đông đại chúng ("thiểu số") và ban điều hành. Cổ đông thường muốn cổ tức hào phóng hơn, còn ban điều hành thích giữ lợi nhuận trong công ty "để làm công ty vững mạnh", yêu cầu cổ đông hy sinh lợi ích trước mắt vì lợi ích của công ty và vì lợi ích dài hạn của chính họ.
+
+Nhưng những năm gần đây, thái độ của nhà đầu tư với cổ tức đã thay đổi từ từ nhưng đáng kể. Lý lẽ chính để trả cổ tức thấp nay không còn là công ty "cần" tiền, mà là công ty có thể dùng tiền đó vì lợi ích trực tiếp và ngay lập tức của cổ đông, bằng cách giữ lại để mở rộng có lãi.
+
+Nhiều năm trước, thường chỉ công ty yếu mới ít nhiều bị buộc phải giữ lại lợi nhuận thay vì trả 60–75% như thường lệ, và điều đó hầu như luôn có hại cho giá cổ phiếu. Ngày nay, rất có thể chính một công ty mạnh, đang tăng trưởng lại cố ý giữ cổ tức thấp, với sự tán thành của cả nhà đầu tư lẫn nhà đầu cơ.
 
 Chú thích của Zweig: điều trớ trêu Graham mô tả càng rõ hơn trong thập niên 1990, khi dường như công ty càng mạnh thì càng ít có khả năng trả cổ tức, và cổ đông cũng ít muốn nhận. Tỷ lệ chi trả cổ tức (phần trăm lợi nhuận ròng trả làm cổ tức) giảm từ "60% tới 75%" thời Graham xuống 35% tới 40% vào cuối thập niên 1990.
 
@@ -426,7 +429,9 @@ Cổ tức giảm dần tới bằng 0 trong khi giá tăng gần gấp 9 lần 
 
 Chú thích của Zweig: giá cổ phiếu Superior Oil đạt đỉnh 2.165 USD năm 1959, khi công ty trả cổ tức 4 USD. Trong nhiều năm, đây là cổ phiếu đắt nhất trên Sở Giao dịch Chứng khoán New York. Superior do gia đình Keck ở Houston kiểm soát, được Mobil Corp. mua lại năm 1984.
 
-**Quan điểm chưa ngã ngũ: AT&T và IBM.** Thái độ của nhà đầu tư về chính sách cổ tức của công ty tăng trưởng còn xa mới định hình. Hai công ty lớn nhất nước Mỹ cho thấy hai quan điểm trái ngược. American Telephone & Telegraph (AT&T) đã được coi là cổ phiếu có triển vọng tăng trưởng tốt, thể hiện qua việc năm 1961 nó được bán với giá gấp 25 lần lợi nhuận năm đó. Dù vậy, chính sách cổ tức tiền mặt của công ty vẫn là yếu tố hàng đầu với cả nhà đầu tư lẫn nhà đầu cơ: giá cổ phiếu phản ứng cả với tin đồn sắp tăng cổ tức. Ngược lại, cổ tức tiền mặt của IBM có vẻ ít được chú ý: năm 1960 nó chỉ bằng 0,5% giá cao nhất của năm, và cuối năm 1970 bằng 1,5% giá; trong cả hai giai đoạn, các đợt tách cổ phiếu mới là yếu tố tác động mạnh tới giá.
+**Quan điểm chưa ngã ngũ: AT&T và IBM.** Thái độ của nhà đầu tư về chính sách cổ tức của công ty tăng trưởng còn xa mới định hình. Hai công ty lớn nhất nước Mỹ cho thấy hai quan điểm trái ngược. American Telephone & Telegraph (AT&T) đã được coi là cổ phiếu có triển vọng tăng trưởng tốt, thể hiện qua việc năm 1961 nó được bán với giá gấp 25 lần lợi nhuận năm đó. Dù vậy, chính sách cổ tức tiền mặt của công ty vẫn là yếu tố hàng đầu với cả nhà đầu tư lẫn nhà đầu cơ: giá cổ phiếu phản ứng cả với tin đồn sắp tăng cổ tức.
+
+Ngược lại, cổ tức tiền mặt của IBM có vẻ ít được chú ý: năm 1960 nó chỉ bằng 0,5% giá cao nhất của năm, và cuối năm 1970 bằng 1,5% giá; trong cả hai giai đoạn, các đợt tách cổ phiếu mới là yếu tố tác động mạnh tới giá.
 
 **Thị trường định giá cổ tức thế nào.** Graham mô tả xu hướng: khi công ty không được coi là tăng trưởng, cổ phiếu được xếp vào loại "cổ phiếu thu nhập" và tỷ lệ cổ tức giữ vai trò lâu đời là yếu tố chính quyết định giá thị trường. Ở cực kia, cổ phiếu rõ ràng thuộc nhóm tăng trưởng nhanh được định giá chủ yếu theo tốc độ tăng trưởng kỳ vọng, chẳng hạn trong mười năm tới, và tỷ lệ cổ tức tiền mặt gần như bị loại khỏi phép tính.
 
@@ -434,15 +439,21 @@ Nhưng mô tả này không phải là chỉ dẫn rõ ràng cho mọi cổ phi�
 
 **Đề nghị của Graham.** Graham cho rằng cổ đông nên đòi ban điều hành một trong hai điều: hoặc trả ra mức cổ tức bình thường, chẳng hạn khoảng hai phần ba lợi nhuận, hoặc chứng minh rõ ràng rằng lợi nhuận tái đầu tư đã tạo ra mức tăng EPS thoả đáng. Với một công ty tăng trưởng được công nhận, việc chứng minh này thường làm được. Nhưng trong nhiều trường hợp khác, mức chi trả thấp rõ ràng là nguyên nhân khiến giá thị trường bình quân thấp hơn giá trị hợp lý, và cổ đông có quyền chất vấn, có lẽ cả phàn nàn.
 
-Chính sách trả cổ tức keo kiệt thường bị áp đặt lên công ty vì tình hình tài chính tương đối yếu, công ty cần toàn bộ hoặc phần lớn lợi nhuận (cộng khấu hao) để trả nợ và củng cố vốn lưu động. Khi đó cổ đông không thể nói gì nhiều, ngoài việc có thể trách ban điều hành đã để công ty rơi vào tình trạng tài chính không thoả đáng như vậy. Tuy nhiên, đôi khi các công ty làm ăn tương đối kém lại giữ cổ tức thấp với mục đích tuyên bố là mở rộng kinh doanh. Graham cho rằng chính sách như vậy thoạt nhìn đã phi lý, cần được giải thích đầy đủ và bảo vệ thuyết phục trước khi cổ đông chấp nhận. Xét theo quá khứ, không có lý do gì để tin trước rằng chủ sở hữu sẽ hưởng lợi từ những đợt mở rộng được tiến hành bằng tiền của họ bởi một công ty có kết quả xoàng và vẫn giữ ban điều hành cũ.
+Chính sách trả cổ tức keo kiệt thường bị áp đặt lên công ty vì tình hình tài chính tương đối yếu, công ty cần toàn bộ hoặc phần lớn lợi nhuận (cộng khấu hao) để trả nợ và củng cố vốn lưu động. Khi đó cổ đông không thể nói gì nhiều, ngoài việc có thể trách ban điều hành đã để công ty rơi vào tình trạng tài chính không thoả đáng như vậy.
+
+Tuy nhiên, đôi khi các công ty làm ăn tương đối kém lại giữ cổ tức thấp với mục đích tuyên bố là mở rộng kinh doanh. Graham cho rằng chính sách như vậy thoạt nhìn đã phi lý, cần được giải thích đầy đủ và bảo vệ thuyết phục trước khi cổ đông chấp nhận. Xét theo quá khứ, không có lý do gì để tin trước rằng chủ sở hữu sẽ hưởng lợi từ những đợt mở rộng được tiến hành bằng tiền của họ bởi một công ty có kết quả xoàng và vẫn giữ ban điều hành cũ.
 
 #### 3. Cổ tức bằng cổ phiếu và tách cổ phiếu (Dividendes et fractionnements d'actions, PDF trang 414–417)
 
-**Hai khái niệm khác nhau.** Graham nhấn mạnh nhà đầu tư cần hiểu khác biệt căn bản giữa cổ tức bằng cổ phiếu đúng nghĩa và tách cổ phiếu. Tách cổ phiếu là việc sắp xếp lại cấu trúc cổ phần phổ thông, thường là phát hành hai hoặc ba cổ phiếu cho mỗi cổ phiếu cũ. Cổ phiếu mới không gắn với khoản lợi nhuận cụ thể nào được tái đầu tư trong một giai đoạn cụ thể. Mục đích là đặt giá thị trường thấp hơn cho mỗi cổ phiếu, có lẽ vì vùng giá thấp hơn dễ được cổ đông cũ và mới chấp nhận hơn. Về kỹ thuật, tách cổ phiếu có thể thực hiện bằng một hình thức gọi là cổ tức bằng cổ phiếu, kèm chuyển một số tiền từ lợi nhuận giữ lại (earned surplus) sang tài khoản vốn; hoặc bằng việc đổi mệnh giá, không ảnh hưởng tới tài khoản lợi nhuận giữ lại.
+**Hai khái niệm khác nhau.** Graham nhấn mạnh nhà đầu tư cần hiểu khác biệt căn bản giữa cổ tức bằng cổ phiếu đúng nghĩa và tách cổ phiếu. Tách cổ phiếu là việc sắp xếp lại cấu trúc cổ phần phổ thông, thường là phát hành hai hoặc ba cổ phiếu cho mỗi cổ phiếu cũ. Cổ phiếu mới không gắn với khoản lợi nhuận cụ thể nào được tái đầu tư trong một giai đoạn cụ thể. Mục đích là đặt giá thị trường thấp hơn cho mỗi cổ phiếu, có lẽ vì vùng giá thấp hơn dễ được cổ đông cũ và mới chấp nhận hơn.
+
+Về kỹ thuật, tách cổ phiếu có thể thực hiện bằng một hình thức gọi là cổ tức bằng cổ phiếu, kèm chuyển một số tiền từ lợi nhuận giữ lại (earned surplus) sang tài khoản vốn; hoặc bằng việc đổi mệnh giá, không ảnh hưởng tới tài khoản lợi nhuận giữ lại.
 
 Chú thích của Zweig: ngày nay hầu như mọi đợt tách cổ phiếu đều thực hiện bằng đổi mệnh giá. Tách hai-cho-một thì một cổ phiếu thành hai, mỗi cổ phiếu giao dịch ở nửa giá cũ; tách ba-cho-một thì một thành ba, mỗi cổ phiếu ở một phần ba giá cũ. Chỉ trong trường hợp rất hiếm mới có khoản tiền được chuyển "từ lợi nhuận giữ lại sang tài khoản vốn" như thời Graham.
 
-Cái mà Graham gọi là cổ tức bằng cổ phiếu đúng nghĩa là khoản trả cho cổ đông để đưa cho họ bằng chứng hữu hình, hay sự đại diện, của những khoản lợi nhuận cụ thể đã được tái đầu tư vào công ty cho họ trong một thời gian tương đối ngắn gần đây, chẳng hạn không quá hai năm trước. Thông lệ được chấp nhận lúc đó là định giá cổ tức bằng cổ phiếu theo giá trị xấp xỉ tại thời điểm công bố, và chuyển một số tiền bằng giá trị đó từ lợi nhuận giữ lại sang tài khoản vốn. Vì vậy, một đợt cổ tức bằng cổ phiếu điển hình khá nhỏ, phần lớn không quá 5%. Về bản chất, cổ tức bằng cổ phiếu loại này có tác động tổng thể giống như trả một khoản tiền mặt tương đương từ lợi nhuận đi kèm với việc bán cho cổ đông lượng cổ phiếu bổ sung cùng tổng giá trị. Nhưng cổ tức bằng cổ phiếu đơn thuần có lợi thế thuế quan trọng so với tổ hợp tương đương "cổ tức tiền mặt + quyền mua cổ phiếu", vốn là thông lệ gần như chuẩn của các công ty dịch vụ công cộng.
+Cái mà Graham gọi là cổ tức bằng cổ phiếu đúng nghĩa là khoản trả cho cổ đông để đưa cho họ bằng chứng hữu hình, hay sự đại diện, của những khoản lợi nhuận cụ thể đã được tái đầu tư vào công ty cho họ trong một thời gian tương đối ngắn gần đây, chẳng hạn không quá hai năm trước. Thông lệ được chấp nhận lúc đó là định giá cổ tức bằng cổ phiếu theo giá trị xấp xỉ tại thời điểm công bố, và chuyển một số tiền bằng giá trị đó từ lợi nhuận giữ lại sang tài khoản vốn. Vì vậy, một đợt cổ tức bằng cổ phiếu điển hình khá nhỏ, phần lớn không quá 5%.
+
+Về bản chất, cổ tức bằng cổ phiếu loại này có tác động tổng thể giống như trả một khoản tiền mặt tương đương từ lợi nhuận đi kèm với việc bán cho cổ đông lượng cổ phiếu bổ sung cùng tổng giá trị. Nhưng cổ tức bằng cổ phiếu đơn thuần có lợi thế thuế quan trọng so với tổ hợp tương đương "cổ tức tiền mặt + quyền mua cổ phiếu", vốn là thông lệ gần như chuẩn của các công ty dịch vụ công cộng.
 
 **Mốc 25% của Sở Giao dịch Chứng khoán New York.** Sở Giao dịch Chứng khoán New York (NYSE) lấy mức 25% làm ranh giới thực tế giữa tách cổ phiếu và cổ tức bằng cổ phiếu. Các đợt từ 25% trở lên không cần chuyển giá trị thị trường của chúng từ lợi nhuận giữ lại sang vốn. Một số công ty, nhất là ngân hàng, vẫn theo lối cũ, công bố bất kỳ loại cổ tức bằng cổ phiếu nào họ thích, chẳng hạn 10%, không liên quan tới lợi nhuận gần đây, và những trường hợp này gây nhầm lẫn không đáng có trong giới tài chính.
 
@@ -456,7 +467,9 @@ Chú thích của Zweig: chính sách này đã hiếm thời Graham và nay c�
 
 Chú thích của Zweig: phê phán học thuật về cổ tức do Merton Miller và Franco Modigliani dẫn đầu, với bài báo có ảnh hưởng "Dividend Policy, Growth, and the Valuation of Shares" (1961), một trong những công trình giúp họ đoạt giải Nobel kinh tế. Về cơ bản, họ lập luận rằng cổ tức không quan trọng, vì nhà đầu tư không nên bận tâm lợi suất của mình đến từ cổ tức cộng giá tăng hay chỉ từ giá tăng, miễn là tổng lợi suất như nhau.
 
-Graham coi quan điểm đó hoàn toàn giáo điều, không tính tới thực tế và tâm lý của việc đầu tư. Đúng là một đợt cổ tức bằng cổ phiếu định kỳ, chẳng hạn 5%, chỉ thay đổi "hình thức" khoản đầu tư của chủ sở hữu: người đó có 105 cổ phiếu thay vì 100, nhưng nếu không có cổ tức cổ phiếu thì 100 cổ phiếu ban đầu cũng đại diện cho đúng phần sở hữu nay nằm trong 105 cổ phiếu. Dù vậy, theo Graham, sự thay đổi hình thức thật sự có ý nghĩa và giá trị với người đó. Nếu muốn rút tiền phần lợi nhuận tái đầu tư của mình, người đó chỉ cần bán chứng chỉ cổ phiếu mới được gửi tới, thay vì phải tách chứng chỉ gốc. Người đó có thể trông đợi cùng mức cổ tức tiền mặt mỗi cổ phiếu trên 105 cổ phiếu như trước đây trên 100 cổ phiếu; còn nếu không có cổ tức cổ phiếu, việc tăng 5% cổ tức tiền mặt sẽ không dễ xảy ra bằng.
+Graham coi quan điểm đó hoàn toàn giáo điều, không tính tới thực tế và tâm lý của việc đầu tư. Đúng là một đợt cổ tức bằng cổ phiếu định kỳ, chẳng hạn 5%, chỉ thay đổi "hình thức" khoản đầu tư của chủ sở hữu: người đó có 105 cổ phiếu thay vì 100, nhưng nếu không có cổ tức cổ phiếu thì 100 cổ phiếu ban đầu cũng đại diện cho đúng phần sở hữu nay nằm trong 105 cổ phiếu.
+
+Dù vậy, theo Graham, sự thay đổi hình thức thật sự có ý nghĩa và giá trị với người đó. Nếu muốn rút tiền phần lợi nhuận tái đầu tư của mình, người đó chỉ cần bán chứng chỉ cổ phiếu mới được gửi tới, thay vì phải tách chứng chỉ gốc. Người đó có thể trông đợi cùng mức cổ tức tiền mặt mỗi cổ phiếu trên 105 cổ phiếu như trước đây trên 100 cổ phiếu; còn nếu không có cổ tức cổ phiếu, việc tăng 5% cổ tức tiền mặt sẽ không dễ xảy ra bằng.
 
 Chú thích của Zweig: lập luận này của Graham không còn đúng, nhà đầu tư nay có thể bỏ qua. Cổ đông không còn phải lo "tách" chứng chỉ cổ phiếu vì hầu như mọi cổ phiếu nay tồn tại dưới dạng điện tử chứ không phải giấy. Còn khi Graham nói tăng 5% cổ tức tiền mặt trên 100 cổ phiếu "ít có khả năng" hơn giữ nguyên cổ tức trên 105 cổ phiếu, không rõ ông tính xác suất đó bằng cách nào.
 
@@ -502,11 +515,15 @@ Nhà đầu tư ngày nay đã quên thông điệp của Graham: họ dồn ph�
 1. Ban điều hành có hiệu quả ở mức hợp lý không?
 2. Quyền lợi của cổ đông bên ngoài trung bình có được coi trọng thích đáng không?
 
-Hiệu quả của ban điều hành được đánh giá bằng cách so sánh khả năng sinh lời, quy mô và sức cạnh tranh của công ty với các công ty tương tự trong ngành. Nếu kết luận ban điều hành không tốt, Graham khuyên: thứ nhất, vài cổ đông lớn nhất phải được thuyết phục rằng cần thay đổi và sẵn lòng hành động theo hướng đó. Thứ hai, số đông cổ đông bình thường phải đủ cởi mở để đọc tài liệu uỷ quyền biểu quyết và cân nhắc lý lẽ của hai phía; ít nhất họ phải nhận ra khi nào công ty mình đã thất bại, và sẵn sàng đòi nhiều hơn những lời sáo rỗng khéo léo mà ban điều hành đưa ra để biện minh. Thứ ba, khi số liệu cho thấy rõ kết quả thấp hơn hẳn mức trung bình, sẽ rất có ích nếu thành thông lệ việc thuê các "kỹ sư kinh doanh" bên ngoài để đánh giá chính sách và năng lực của ban điều hành.
+Hiệu quả của ban điều hành được đánh giá bằng cách so sánh khả năng sinh lời, quy mô và sức cạnh tranh của công ty với các công ty tương tự trong ngành.
+
+Nếu kết luận ban điều hành không tốt, Graham khuyên: thứ nhất, vài cổ đông lớn nhất phải được thuyết phục rằng cần thay đổi và sẵn lòng hành động theo hướng đó. Thứ hai, số đông cổ đông bình thường phải đủ cởi mở để đọc tài liệu uỷ quyền biểu quyết và cân nhắc lý lẽ của hai phía; ít nhất họ phải nhận ra khi nào công ty mình đã thất bại, và sẵn sàng đòi nhiều hơn những lời sáo rỗng khéo léo mà ban điều hành đưa ra để biện minh. Thứ ba, khi số liệu cho thấy rõ kết quả thấp hơn hẳn mức trung bình, sẽ rất có ích nếu thành thông lệ việc thuê các "kỹ sư kinh doanh" bên ngoài để đánh giá chính sách và năng lực của ban điều hành.
 
 Chú thích của Zweig: ấn bản 1949, tr. 223. Graham nói thêm rằng cần một cuộc bỏ phiếu uỷ quyền để cho phép một uỷ ban độc lập gồm các cổ đông bên ngoài chọn "hãng kỹ thuật" này; hãng sẽ báo cáo cho cổ đông chứ không phải cho hội đồng quản trị, còn công ty chịu chi phí. Các "hãng kỹ thuật" Graham nghĩ tới gồm công ty quản lý quỹ, công ty xếp hạng tín nhiệm và các tổ chức của nhà phân tích chứng khoán. Ngày nay nhà đầu tư có thể chọn trong hàng trăm công ty tư vấn, chuyên gia tái cấu trúc và thành viên các tổ chức như Risk Management Association.
 
-**Khung "ENRON END-RUN" — Đường vòng của Enron (PDF trang 419–420).** Năm 1999, Enron Corp. đứng thứ bảy trong danh sách Fortune 500 các công ty lớn nhất nước Mỹ. Doanh thu, tài sản và lợi nhuận của tập đoàn năng lượng này đều tăng vọt. Nhưng nếu một nhà đầu tư bỏ qua những con số hào nhoáng và chỉ soi tài liệu uỷ quyền năm 1999 của Enron bằng lẽ thường thì sao? Ở mục "Certain Transactions" (Một số giao dịch), tài liệu cho biết giám đốc tài chính Andrew Fastow là "thành viên điều hành" của hai hợp danh, LJM1 và LJM2, chuyên mua "các khoản đầu tư liên quan tới năng lượng và viễn thông". Và LJM1, LJM2 mua từ ai? Chính từ Enron. Tài liệu cho biết các hợp danh này đã mua 170 triệu USD tài sản của Enron, đôi khi bằng tiền vay từ Enron.
+**Khung "ENRON END-RUN" — Đường vòng của Enron (PDF trang 419–420).** Năm 1999, Enron Corp. đứng thứ bảy trong danh sách Fortune 500 các công ty lớn nhất nước Mỹ. Doanh thu, tài sản và lợi nhuận của tập đoàn năng lượng này đều tăng vọt.
+
+Nhưng nếu một nhà đầu tư bỏ qua những con số hào nhoáng và chỉ soi tài liệu uỷ quyền năm 1999 của Enron bằng lẽ thường thì sao? Ở mục "Certain Transactions" (Một số giao dịch), tài liệu cho biết giám đốc tài chính Andrew Fastow là "thành viên điều hành" của hai hợp danh, LJM1 và LJM2, chuyên mua "các khoản đầu tư liên quan tới năng lượng và viễn thông". Và LJM1, LJM2 mua từ ai? Chính từ Enron. Tài liệu cho biết các hợp danh này đã mua 170 triệu USD tài sản của Enron, đôi khi bằng tiền vay từ Enron.
 
 Nhà đầu tư thông minh lẽ ra phải hỏi ngay:
 - Hội đồng quản trị Enron có duyệt thoả thuận này không? (Có, tài liệu nói vậy.)
@@ -538,7 +555,9 @@ Zweig bình luận: có thể tưởng tượng đề xuất này sẽ gây ho�
 
 #### 4. Rốt cuộc tiền là của ai? (À qui appartient l'argent, de toute façon?, PDF trang 421–424)
 
-Câu hỏi thứ hai của Graham là ban điều hành có hành động vì lợi ích tốt nhất của nhà đầu tư bên ngoài không. Lãnh đạo luôn nói với cổ đông rằng họ biết rõ hơn nên làm gì với tiền của công ty. Graham đã nhìn thấu lối nói này. Ông viết (chú thích của Zweig: ấn bản 1949, tr. 233): ban điều hành có thể điều hành công ty tốt mà vẫn không mang lại kết quả tốt cho cổ đông bên ngoài, vì hiệu quả của họ chỉ giới hạn ở vận hành, không mở rộng tới việc sử dụng vốn tốt nhất. Mục tiêu của vận hành hiệu quả là sản xuất với chi phí thấp nhất và tìm ra mặt hàng bán có lãi nhất. Tài chính hiệu quả đòi hỏi tiền của cổ đông phải làm việc dưới những hình thức phù hợp nhất với lợi ích của họ, một vấn đề mà ban điều hành, với tư cách ban điều hành, ít quan tâm. Thực ra họ hầu như luôn muốn có càng nhiều vốn của chủ sở hữu càng tốt để giảm bớt rắc rối tài chính của chính mình. Vì thế ban điều hành điển hình sẽ hoạt động với nhiều vốn hơn mức cần thiết, nếu cổ đông cho phép, và cổ đông thường cho phép.
+Câu hỏi thứ hai của Graham là ban điều hành có hành động vì lợi ích tốt nhất của nhà đầu tư bên ngoài không. Lãnh đạo luôn nói với cổ đông rằng họ biết rõ hơn nên làm gì với tiền của công ty. Graham đã nhìn thấu lối nói này. Ông viết (chú thích của Zweig: ấn bản 1949, tr. 233): ban điều hành có thể điều hành công ty tốt mà vẫn không mang lại kết quả tốt cho cổ đông bên ngoài, vì hiệu quả của họ chỉ giới hạn ở vận hành, không mở rộng tới việc sử dụng vốn tốt nhất.
+
+Mục tiêu của vận hành hiệu quả là sản xuất với chi phí thấp nhất và tìm ra mặt hàng bán có lãi nhất. Tài chính hiệu quả đòi hỏi tiền của cổ đông phải làm việc dưới những hình thức phù hợp nhất với lợi ích của họ, một vấn đề mà ban điều hành, với tư cách ban điều hành, ít quan tâm. Thực ra họ hầu như luôn muốn có càng nhiều vốn của chủ sở hữu càng tốt để giảm bớt rắc rối tài chính của chính mình. Vì thế ban điều hành điển hình sẽ hoạt động với nhiều vốn hơn mức cần thiết, nếu cổ đông cho phép, và cổ đông thường cho phép.
 
 Cuối thập niên 1990 và đầu thập niên 2000, ban điều hành các công ty công nghệ lớn nhất đẩy thái độ "bố biết rõ nhất" tới mức cực đoan mới. Lập luận là: sao bạn lại đòi cổ tức khi chúng tôi có thể đầu tư số tiền đó cho bạn và biến nó thành giá cổ phiếu tăng? Cứ nhìn cổ phiếu của chúng tôi đã tăng thế nào, chẳng phải điều đó chứng minh chúng tôi biến xu của bạn thành đô-la giỏi hơn bạn sao?
 
@@ -550,7 +569,9 @@ Chú thích của Zweig: nguồn là Eugene F. Fama và Kenneth R. French, "Disa
 
 **"Bố biết rõ nhất" là chuyện nhảm.** Một số công ty dùng tiền khôn ngoan, nhưng nhiều công ty khác rơi vào hai nhóm: nhóm phung phí tiền, và nhóm tích trữ tiền nhanh hơn nhiều so với khả năng sử dụng.
 
-Nhóm thứ nhất: Priceline.com xoá sổ 67 triệu USD lỗ năm 2000 sau khi lao vào những mảng kinh doanh kỳ quặc như bán tạp hoá và xăng; Amazon.com phá huỷ ít nhất 233 triệu USD tài sản của cổ đông khi "đầu tư" vào các công ty dot-com sụp đổ như Webvan và Ashford.com. (Chú thích của Zweig: Benjamin Franklin, người được kể là mang tiền xu trong ví bằng amiăng để tiền không "đốt thủng túi", có lẽ đã tránh được chuyện này nếu làm CEO.) Hai khoản lỗ lớn nhất từng ghi nhận tới lúc đó, 56 tỷ USD của JDS Uniphase năm 2001 và 99 tỷ USD của AOL Time Warner năm 2002, xảy ra sau khi các công ty này chọn không trả cổ tức mà sáp nhập với công ty khác vào lúc cổ phiếu của chính họ bị định giá cao một cách phi lý.
+Nhóm thứ nhất: Priceline.com xoá sổ 67 triệu USD lỗ năm 2000 sau khi lao vào những mảng kinh doanh kỳ quặc như bán tạp hoá và xăng; Amazon.com phá huỷ ít nhất 233 triệu USD tài sản của cổ đông khi "đầu tư" vào các công ty dot-com sụp đổ như Webvan và Ashford.com. (Chú thích của Zweig: Benjamin Franklin, người được kể là mang tiền xu trong ví bằng amiăng để tiền không "đốt thủng túi", có lẽ đã tránh được chuyện này nếu làm CEO.)
+
+Hai khoản lỗ lớn nhất từng ghi nhận tới lúc đó, 56 tỷ USD của JDS Uniphase năm 2001 và 99 tỷ USD của AOL Time Warner năm 2002, xảy ra sau khi các công ty này chọn không trả cổ tức mà sáp nhập với công ty khác vào lúc cổ phiếu của chính họ bị định giá cao một cách phi lý.
 
 Chú thích của Zweig: một nghiên cứu của *BusinessWeek* cho thấy từ 1995 đến 2001, 61% trong hơn 300 vụ sáp nhập lớn rốt cuộc phá huỷ tài sản của cổ đông công ty đi mua, hiện tượng gọi là "lời nguyền của người thắng" hay "hối hận của người mua"; các công ty đi mua trả bằng cổ phiếu thay vì tiền mặt có kết quả kém công ty cùng ngành 8% (David Henry, "Mergers: Why Most Big Deals Don't Pay Off", *BusinessWeek*, 14/10/2002). Một nghiên cứu học thuật tương tự cho thấy mua công ty tư nhân và công ty con của công ty đại chúng đem lại lợi suất cổ phiếu dương, nhưng mua trọn một công ty đại chúng gây lỗ cho cổ đông bên thắng thầu (Kathleen Fuller, Jeffry Netter và Mike Stegemoller, *The Journal of Finance*, tháng 8/2002).
 
@@ -572,7 +593,9 @@ Chú thích của Zweig: các cải cách thuế do Tổng thống Bush đề xu
 
 **Thực tế: mua lại để bù quyền chọn.** Mọi điều trên đúng về lý thuyết. Nhưng trong thực tế, mua lại cổ phiếu đã phục vụ một mục đích chỉ có thể gọi là đáng ngại. Vì quyền chọn cổ phiếu đã thành phần lớn trong thù lao của lãnh đạo, nhiều công ty, nhất là trong ngành công nghệ cao, phải phát hành hàng trăm triệu cổ phiếu để giao cho những nhà quản lý thực hiện quyền chọn. Việc đó làm tăng số cổ phiếu lưu hành và giảm EPS. Để chống pha loãng, công ty phải quay lại mua hàng triệu cổ phiếu trên thị trường. Năm 2000, các công ty chi 41,8% tổng lợi nhuận ròng để mua lại cổ phiếu của chính mình, so với 4,8% năm 1980.
 
-Chú thích của Zweig: quyền chọn cổ phiếu cho lãnh đạo và nhân viên là quyền (không phải nghĩa vụ) mua cổ phiếu trong tương lai ở giá ưu đãi; chuyển quyền chọn thành cổ phiếu gọi là "thực hiện". Người lao động có thể bán ngay theo giá thị trường và hưởng chênh lệch. Vì hàng trăm triệu quyền chọn có thể được thực hiện trong một năm, công ty phải tăng số cổ phiếu lưu hành, làm tổng lợi nhuận chia cho nhiều cổ phiếu hơn và EPS giảm; vì thế công ty thường thấy buộc phải mua lại cổ phiếu để triệt tiêu số phát hành cho người giữ quyền chọn. Năm 1998, 63,5% giám đốc tài chính thừa nhận chống pha loãng do quyền chọn là lý do chính để mua lại (CFO Forum, "The Buyback Track", *Institutional Investor*, tháng 7/1998). Một yếu tố lớn đằng sau sự chuyển dịch là quyết định năm 1982 của Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC) nới lỏng các hạn chế cũ về mua lại cổ phiếu (Gustavo Grullon và Roni Michaely, *The Journal of Finance*, tháng 8/2002).
+Chú thích của Zweig: quyền chọn cổ phiếu cho lãnh đạo và nhân viên là quyền (không phải nghĩa vụ) mua cổ phiếu trong tương lai ở giá ưu đãi; chuyển quyền chọn thành cổ phiếu gọi là "thực hiện". Người lao động có thể bán ngay theo giá thị trường và hưởng chênh lệch. Vì hàng trăm triệu quyền chọn có thể được thực hiện trong một năm, công ty phải tăng số cổ phiếu lưu hành, làm tổng lợi nhuận chia cho nhiều cổ phiếu hơn và EPS giảm; vì thế công ty thường thấy buộc phải mua lại cổ phiếu để triệt tiêu số phát hành cho người giữ quyền chọn.
+
+Năm 1998, 63,5% giám đốc tài chính thừa nhận chống pha loãng do quyền chọn là lý do chính để mua lại (CFO Forum, "The Buyback Track", *Institutional Investor*, tháng 7/1998). Một yếu tố lớn đằng sau sự chuyển dịch là quyết định năm 1982 của Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC) nới lỏng các hạn chế cũ về mua lại cổ phiếu (Gustavo Grullon và Roni Michaely, *The Journal of Finance*, tháng 8/2002).
 
 **Ví dụ Oracle.** Hãy xem hãng phần mềm khổng lồ Oracle Corp.
 
@@ -594,7 +617,9 @@ Năm 2002, cổ phiếu Oracle đã giảm còn chưa tới một nửa đỉnh 
 - Công ty được giảm thuế khi lãnh đạo và nhân viên thực hiện quyền chọn (Sở Thuế vụ Mỹ, IRS, coi đó là "chi phí thù lao" của công ty). Trong các năm tài chính 2000–2002, Oracle thu được 1,69 tỷ USD lợi ích thuế khi người trong cuộc rút tiền từ quyền chọn. Sprint Corp. được 678 triệu USD lợi ích thuế khi lãnh đạo và nhân viên chốt 1,9 tỷ USD lãi quyền chọn trong 1999 và 2000.
   Chú thích của Zweig: lạ thay, quyền chọn được coi là chi phí thù lao trên tờ khai thuế, nhưng không được ghi nhận là chi phí trên báo cáo kết quả kinh doanh gửi cổ đông; nhà đầu tư chỉ có thể hy vọng cải cách kế toán sẽ thay đổi thông lệ lố bịch này.
 - Một lãnh đạo cấp cao được trả công nhiều bằng quyền chọn có mọi lý do để ưa mua lại cổ phiếu hơn cổ tức. Vì lý do kỹ thuật, quyền chọn có giá trị cao hơn khi giá cổ phiếu biến động mạnh hơn; mà cổ tức làm dịu biến động giá. Vậy nếu tăng cổ tức, lãnh đạo sẽ làm giảm giá trị quyền chọn của chính mình.
-  Chú thích của Zweig: dẫn George W. Fenn và Nellie Liang, "Corporate Payout Policy and Managerial Stock Incentives", *Journal of Financial Economics*, tháng 4/2001. Cổ tức làm cổ phiếu ít biến động hơn vì cung cấp dòng thu nhập hiện tại che chắn cổ đông trước dao động giá. Nhiều nhà nghiên cứu thấy khả năng sinh lời bình quân của công ty có chương trình mua lại (nhưng không trả cổ tức tiền mặt) biến động ít nhất gấp đôi công ty trả cổ tức. Lợi nhuận biến động hơn dẫn tới giá cổ phiếu dao động mạnh hơn, làm quyền chọn của lãnh đạo có giá trị hơn vì có nhiều dịp giá tạm thời cao. Ngày nay khoảng hai phần ba thù lao lãnh đạo là quyền chọn và các khoản trao không cần trả tiền; ba mươi năm trước, ít nhất hai phần ba là tiền mặt.
+  Chú thích của Zweig: dẫn George W. Fenn và Nellie Liang, "Corporate Payout Policy and Managerial Stock Incentives", *Journal of Financial Economics*, tháng 4/2001. Cổ tức làm cổ phiếu ít biến động hơn vì cung cấp dòng thu nhập hiện tại che chắn cổ đông trước dao động giá.
+
+  Nhiều nhà nghiên cứu thấy khả năng sinh lời bình quân của công ty có chương trình mua lại (nhưng không trả cổ tức tiền mặt) biến động ít nhất gấp đôi công ty trả cổ tức. Lợi nhuận biến động hơn dẫn tới giá cổ phiếu dao động mạnh hơn, làm quyền chọn của lãnh đạo có giá trị hơn vì có nhiều dịp giá tạm thời cao. Ngày nay khoảng hai phần ba thù lao lãnh đạo là quyền chọn và các khoản trao không cần trả tiền; ba mươi năm trước, ít nhất hai phần ba là tiền mặt.
 
 Không lạ khi các CEO thích mua lại cổ phiếu hơn hẳn trả cổ tức, bất kể cổ phiếu bị định giá quá cao tới đâu hay điều đó có thể phung phí nguồn lực của cổ đông bên ngoài tới mức nào.
 
@@ -637,7 +662,9 @@ Người mua cổ phiếu là chủ sở hữu công ty, và lợi nhuận, ti�
 ### Bằng chứng và ví dụ Graham và Zweig đưa ra
 
 - Graham: Texas Instruments (giá 5 → 256 USD, EPS 0,43 → 3,91 USD, 1953–1960, không cổ tức; 1962 EPS 2,14 USD, giá đáy 49 USD); Superior Oil (1948: EPS 35,26, cổ tức 3, giá 235; 1953: cổ tức 1, giá 660; 1957: không cổ tức, giá 2.000; 1962: EPS 49,50, cổ tức 7,50, giá 795); AT&T (P/E 25 năm 1961, giá vẫn phản ứng với tin đồn tăng cổ tức); IBM (tỷ suất cổ tức 0,5% năm 1960, 1,5% cuối 1970); Purex và GEICO (vốn hoá 100% lợi nhuận giữ lại bằng cổ tức cổ phiếu); chú thích về nhóm dịch vụ công cộng trước 1950 (1 USD cổ tức tác động tới giá gấp tới 4 lần 1 USD lợi nhuận giữ lại).
-- Zweig: Enron 1999 (Fastow, LJM1, LJM2, 170 triệu USD tài sản); 1/3–1/2 nhà đầu tư cá nhân không bỏ phiếu; IPO trả cổ tức 3,7% (1999) so với 72,1% (thập niên 1960); Priceline (67 triệu USD), Amazon (≥ 233 triệu USD), JDS Uniphase (56 tỷ USD), AOL Time Warner (99 tỷ USD); tiền mặt Oracle 5 tỷ, Cisco ≥ 7,5 tỷ, Microsoft 38,2 tỷ USD (43,4 tỷ cuối 2002); Arnott–Asness (+3,9 điểm % tăng trưởng lợi nhuận 10 năm); Nissim–Ziv (≥ 4 năm khả năng sinh lời cao hơn); mua lại bằng 41,8% lợi nhuận ròng năm 2000 so với 4,8% năm 1980; Oracle (phát hành giá 3,53, mua lại giá 18,26 USD, 5,3 tỷ USD; lợi ích thuế 1,69 tỷ USD); Sprint (678 triệu USD lợi ích thuế, 1,9 tỷ USD lãi quyền chọn); Steve Jobs (máy bay 90 triệu USD, quyền chọn 20 triệu cổ phiếu, 548,3 triệu USD nếu cổ phiếu tăng 5%/năm).
+- Zweig: Enron 1999 (Fastow, LJM1, LJM2, 170 triệu USD tài sản); 1/3–1/2 nhà đầu tư cá nhân không bỏ phiếu; IPO trả cổ tức 3,7% (1999) so với 72,1% (thập niên 1960); Priceline (67 triệu USD), Amazon (≥ 233 triệu USD), JDS Uniphase (56 tỷ USD), AOL Time Warner (99 tỷ USD); tiền mặt Oracle 5 tỷ, Cisco ≥ 7,5 tỷ, Microsoft 38,2 tỷ USD (43,4 tỷ cuối 2002).
+
+  Arnott–Asness (+3,9 điểm % tăng trưởng lợi nhuận 10 năm); Nissim–Ziv (≥ 4 năm khả năng sinh lời cao hơn); mua lại bằng 41,8% lợi nhuận ròng năm 2000 so với 4,8% năm 1980; Oracle (phát hành giá 3,53, mua lại giá 18,26 USD, 5,3 tỷ USD; lợi ích thuế 1,69 tỷ USD); Sprint (678 triệu USD lợi ích thuế, 1,9 tỷ USD lãi quyền chọn); Steve Jobs (máy bay 90 triệu USD, quyền chọn 20 triệu cổ phiếu, 548,3 triệu USD nếu cổ phiếu tăng 5%/năm).
 
 ### Kết luận và hàm ý cho nhà đầu tư
 
@@ -737,7 +764,9 @@ Lập luận "bán chứng chỉ mới thay vì tách chứng chỉ gốc" mất
 
 ### Quan điểm trái chiều: cổ tức thấp không phải lúc nào cũng xấu, và lý thuyết Miller–Modigliani không sai hoàn toàn
 
-Graham gọi quan điểm học thuật là "giáo điều", nhưng định lý của Miller–Modigliani đúng trong điều kiện không thuế, không chi phí giao dịch và ban điều hành không phung phí tiền. Chương này thực chất cho thấy chính các điều kiện đó không có trong thực tế: thuế làm cổ tức tốn kém hơn hoặc rẻ hơn tuỳ thời, còn vấn đề người đại diện khiến tiền giữ lại có nguy cơ bị lãng phí. Mặt khác, những công ty như Texas Instruments thời 1953–1960 (hoặc theo hiểu biết của người tổng hợp, một số công ty công nghệ lớn sau 2010) giữ lại lợi nhuận và tái đầu tư rất hiệu quả. Cũng cần nhớ bằng chứng Arnott–Asness và Nissim–Ziv cho thấy tương quan, không chứng minh cổ tức *gây ra* tăng trưởng lợi nhuận; có thể ban điều hành tự tin vào lợi nhuận tương lai mới tăng cổ tức.
+Graham gọi quan điểm học thuật là "giáo điều", nhưng định lý của Miller–Modigliani đúng trong điều kiện không thuế, không chi phí giao dịch và ban điều hành không phung phí tiền. Chương này thực chất cho thấy chính các điều kiện đó không có trong thực tế: thuế làm cổ tức tốn kém hơn hoặc rẻ hơn tuỳ thời, còn vấn đề người đại diện khiến tiền giữ lại có nguy cơ bị lãng phí.
+
+Mặt khác, những công ty như Texas Instruments thời 1953–1960 (hoặc theo hiểu biết của người tổng hợp, một số công ty công nghệ lớn sau 2010) giữ lại lợi nhuận và tái đầu tư rất hiệu quả. Cũng cần nhớ bằng chứng Arnott–Asness và Nissim–Ziv cho thấy tương quan, không chứng minh cổ tức *gây ra* tăng trưởng lợi nhuận; có thể ban điều hành tự tin vào lợi nhuận tương lai mới tăng cổ tức.
 
 ### Vận dụng cho nhà đầu tư cá nhân
 
@@ -748,4 +777,183 @@ Graham gọi quan điểm học thuật là "giáo điều", nhưng định lý 
 
 ### Vận dụng định tính cho nhà đầu tư Việt Nam
 
-Trên thị trường Việt Nam, theo hiểu biết của người tổng hợp, việc chia cổ tức bằng cổ phiếu và phát hành thêm cổ phiếu cho cổ đông hiện hữu (tương tự "quyền mua" mà Graham nói tới) khá phổ biến, cũng như phát hành cổ phiếu ưu đãi cho cán bộ nhân viên (ESOP). Phân biệt của Graham rất hữu ích ở đây: một đợt chia cổ phiếu chỉ có ý nghĩa khi nó đại diện cho lợi nhuận thật đã giữ lại và được tái đầu tư có lãi; nếu số cổ phiếu tăng nhanh mà lợi nhuận không tăng tương ứng, EPS bị pha loãng và cổ đông chỉ nhận thêm "mảnh giấy". Tương tự, chương trình phát hành cho lãnh đạo, nhân viên với giá thấp hơn nhiều giá thị trường cần được soi như cách Zweig soi Oracle. Nhà đầu tư cá nhân nên đọc tài liệu đại hội đồng cổ đông thường niên, xem các giao dịch với bên liên quan, và bỏ phiếu khi thấy kế hoạch phân phối lợi nhuận hay phát hành không phục vụ cổ đông bên ngoài.
+Trên thị trường Việt Nam, theo hiểu biết của người tổng hợp, việc chia cổ tức bằng cổ phiếu và phát hành thêm cổ phiếu cho cổ đông hiện hữu (tương tự "quyền mua" mà Graham nói tới) khá phổ biến, cũng như phát hành cổ phiếu ưu đãi cho cán bộ nhân viên (ESOP). Phân biệt của Graham rất hữu ích ở đây: một đợt chia cổ phiếu chỉ có ý nghĩa khi nó đại diện cho lợi nhuận thật đã giữ lại và được tái đầu tư có lãi; nếu số cổ phiếu tăng nhanh mà lợi nhuận không tăng tương ứng, EPS bị pha loãng và cổ đông chỉ nhận thêm "mảnh giấy".
+
+Tương tự, chương trình phát hành cho lãnh đạo, nhân viên với giá thấp hơn nhiều giá thị trường cần được soi như cách Zweig soi Oracle. Nhà đầu tư cá nhân nên đọc tài liệu đại hội đồng cổ đông thường niên, xem các giao dịch với bên liên quan, và bỏ phiếu khi thấy kế hoạch phân phối lợi nhuận hay phát hành không phục vụ cổ đông bên ngoài.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 19 trên một trang: sáu nhánh lớn đi theo các mục của phần Nội dung chi tiết (Phần A, mục 1–3 của Graham về thâu tóm, chính sách cổ tức, cổ tức bằng cổ phiếu và tách cổ phiếu; Phần B, mục 1–7 của bình luận Zweig về người chủ sở hữu thông minh, tiền của ai, mua lại cổ phiếu và quyền chọn), mỗi nhánh ghi nguyên tắc, ví dụ công ty và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 19: cổ đông là chủ sở hữu, phải đòi ban điều hành trả cổ tức hoặc chứng minh lợi nhuận giữ lại sinh lời`"]
+  n1["`Phần A, mục 1 — Graham: chỉ thâu tóm mới thay được ban điều hành kém`"]
+  n0 --- n1
+  n2["`Từ 1934 Graham kêu gọi cổ đông rộng rãi với ban điều hành tốt, đòi giải trình khi kết quả kém`"]
+  n1 --- n2
+  n3["`Có lý do chất vấn khi kết quả tự thân kém, kém công ty tương tự, giá thấp kéo dài`"]
+  n1 --- n3
+  n4["`Sau 36 năm, hành động của số đông cổ đông gần như không đạt được gì`"]
+  n1 --- n4
+  n5["`Ban điều hành kém → giá thấp → công ty muốn đa dạng hoá thâu tóm hoặc chào mua thẳng với cổ đông`"]
+  n1 --- n5
+  n6["`Giá chào mua thường gần giá trị công ty khi được điều hành ở mức tạm ổn`"]
+  n1 --- n6
+  n7["`Quy luật: ban điều hành kém chỉ bị thay khi một cá nhân hoặc nhóm nhỏ giành quyền kiểm soát`"]
+  n1 --- n7
+  n8["`Zweig: thâu tóm cạn trong thập niên 1970, bùng lại từ 1984 khi Pickens chào mua thù địch Gulf Oil`"]
+  n1 --- n8
+  n9["`Phần A, mục 2 — Graham: chính sách cổ tức`"]
+  n0 --- n9
+  n10["`Thời trước chỉ công ty yếu mới giữ lợi nhuận thay vì trả 60–75%, và giá cổ phiếu bị ảnh hưởng xấu`"]
+  n9 --- n10
+  n11["`Nay chính công ty mạnh, tăng trưởng cố ý giữ cổ tức thấp và được nhà đầu tư tán thành`"]
+  n9 --- n11
+  n12["`Chú thích của Graham: 1 USD cổ tức từng tác động lên giá gấp tới 4 lần 1 USD lợi nhuận giữ lại`"]
+  n9 --- n12
+  n13["`Texas Instruments 1953–1960: giá 5 → 256 USD, EPS 0,43 → 3,91 USD, không trả cổ tức`"]
+  n9 --- n13
+  n14["`Năm 1962 Texas Instruments bắt đầu trả cổ tức, EPS giảm còn 2,14 USD, giá xuống đáy 49 USD`"]
+  n9 --- n14
+  n15["`Superior Oil: cổ tức từ 3 USD (1948) về 0 (1957), giá từ 235 lên 2.000 USD, năm 1962 còn 795`"]
+  n9 --- n15
+  n16["`AT#amp;T P/E 25 năm 1961 vẫn phản ứng với tin đồn tăng cổ tức, IBM cổ tức chỉ 0,5% giá năm 1960`"]
+  n9 --- n16
+  n17["`Cổ phiếu thu nhập định giá theo cổ tức, cổ phiếu tăng trưởng nhanh theo tăng trưởng kỳ vọng khoảng 10 năm`"]
+  n9 --- n17
+  n18["`Đề nghị: trả khoảng hai phần ba lợi nhuận, hoặc chứng minh lợi nhuận giữ lại làm EPS tăng thoả đáng`"]
+  n9 --- n18
+  n19["`Công ty kết quả xoàng giữ cổ tức thấp để mở rộng dưới ban điều hành cũ: thoạt nhìn đã phi lý`"]
+  n9 --- n19
+  n20["`Zweig: tỷ lệ chi trả giảm từ 60–75% thời Graham xuống 35–40% cuối thập niên 1990`"]
+  n9 --- n20
+  n21["`Phần A, mục 3 — Graham: cổ tức bằng cổ phiếu và tách cổ phiếu`"]
+  n0 --- n21
+  n22["`Tách cổ phiếu phát hành 2 hoặc 3 cổ phiếu cho mỗi cổ phiếu cũ, chỉ để hạ giá, không gắn lợi nhuận`"]
+  n21 --- n22
+  n23["`Cổ tức bằng cổ phiếu đúng nghĩa đại diện lợi nhuận giữ lại không quá 2 năm, thường không quá 5%`"]
+  n21 --- n23
+  n24["`NYSE coi đợt chia từ 25% trở lên là tách cổ phiếu, ngân hàng chia 10% tuỳ tiện gây nhầm lẫn`"]
+  n21 --- n24
+  n25["`Purex và GEICO vốn hoá 100% lợi nhuận giữ lại bằng cổ tức cổ phiếu định kỳ`"]
+  n21 --- n25
+  n26["`Miller–Modigliani gọi cổ tức cổ phiếu là mảnh giấy, Graham cho rằng họ giáo điều, bỏ qua tâm lý`"]
+  n21 --- n26
+  n27["`Zweig: lập luận về chứng chỉ của Graham nay không còn đúng vì cổ phiếu ở dạng điện tử`"]
+  n21 --- n27
+  n28["`Dịch vụ công cộng trả cổ tức tiền mặt rồi lấy lại qua quyền mua: cổ đông chịu thuế trên tiền không thật nhận`"]
+  n21 --- n28
+  n29["`Graham đề nghị thay bằng cổ tức cổ phiếu: vị trí cổ đông như cũ, chỉ khác là tiết kiệm thuế thu nhập`"]
+  n21 --- n29
+  n30["`Phần B, mục 1–3 — Zweig: người chủ sở hữu thông minh`"]
+  n0 --- n30
+  n31["`Graham rút gần 34 trang của ấn bản 1949 xuống chưa tới 8 trang vì hết hy vọng vào cổ đông`"]
+  n30 --- n31
+  n32["`Bê bối AOL, Enron, Global Crossing, Sprint, Tyco, WorldCom làm lời cảnh báo của Graham cấp thiết hơn`"]
+  n30 --- n32
+  n33["`Lý thuyết cổ đông là vua, thực tế cổ đông bỏ phiếu như đàn cừu theo mọi đề xuất của ban điều hành`"]
+  n30 --- n33
+  n34["`Mua cổ phiếu là làm chủ: CEO làm việc cho bạn, tiền của công ty thuộc về bạn`"]
+  n30 --- n34
+  n35["`Hai câu hỏi của Graham: ban điều hành có hiệu quả hợp lý không, cổ đông bên ngoài có được coi trọng không`"]
+  n30 --- n35
+  n36["`Enron 1999: CFO Fastow điều hành LJM1, LJM2, mua 170 triệu USD tài sản Enron, có lúc bằng tiền vay Enron`"]
+  n30 --- n36
+  n37["`Fastow phải bán giá cao cho Enron nhưng giá thấp lại lợi cho ông: xung đột lợi ích mà hội đồng vẫn duyệt`"]
+  n30 --- n37
+  n38["`Luôn đọc tài liệu uỷ quyền biểu quyết trước và sau khi mua, dù 1/3 tới 1/2 nhà đầu tư cá nhân không bỏ phiếu`"]
+  n30 --- n38
+  n39["`Thấy điều đáng lo: bỏ phiếu chống mọi thành viên hội đồng, dự đại hội, tập hợp cổ đông khác trên mạng`"]
+  n30 --- n39
+  n40["`Phần B, mục 4 — Zweig: rốt cuộc tiền là của ai`"]
+  n0 --- n40
+  n41["`Graham: ban điều hành giỏi vận hành chưa chắc giỏi tài chính, và muốn giữ vốn nhiều hơn mức cần`"]
+  n40 --- n41
+  n42["`Năm 1999 chỉ 3,7% công ty IPO trả cổ tức, so với 72,1% trong thập niên 1960`"]
+  n40 --- n42
+  n43["`Phung phí: Priceline lỗ 67 triệu USD, Amazon mất ít nhất 233 triệu USD vào Webvan và Ashford.com`"]
+  n40 --- n43
+  n44["`JDS Uniphase lỗ 56 tỷ USD, AOL Time Warner lỗ 99 tỷ USD sau sáp nhập lúc cổ phiếu bị định giá quá cao`"]
+  n40 --- n44
+  n45["`Tích trữ: Microsoft có 38,2 tỷ USD tiền mặt cuối 2001, tăng hơn 2 triệu USD mỗi giờ`"]
+  n40 --- n45
+  n46["`Arnott–Asness: cổ tức cao thì lợi nhuận 10 năm tới tăng nhanh hơn 3,9 điểm phần trăm`"]
+  n40 --- n46
+  n47["`Nissim–Ziv: tăng cổ tức đi kèm khả năng sinh lời cao hơn trong ít nhất 4 năm sau`"]
+  n40 --- n47
+  n48["`Phần B, mục 5–7 — Zweig: mua lại cổ phiếu và quyền chọn`"]
+  n0 --- n48
+  n49["`Lý thuyết: mua lại làm giảm số cổ phiếu, EPS tăng, không gây thuế, tốt khi cổ phiếu rẻ`"]
+  n48 --- n49
+  n50["`Thực tế mua lại để bù pha loãng do quyền chọn: 41,8% lợi nhuận ròng năm 2000, so với 4,8% năm 1980`"]
+  n48 --- n50
+  n51["`Oracle phát hành cho người trong cuộc giá 3,53 USD, mua lại 290,7 triệu cổ phiếu giá 18,26 USD, tốn 5,3 tỷ USD`"]
+  n48 --- n51
+  n52["`Công ty được giảm thuế khi quyền chọn được thực hiện: Oracle 1,69 tỷ USD, Sprint 678 triệu USD`"]
+  n48 --- n52
+  n53["`Quyền chọn có giá trị hơn khi giá biến động, cổ tức làm giảm biến động nên lãnh đạo ưa mua lại`"]
+  n48 --- n53
+  n54["`Jobs nhận lương 1 USD, rồi máy bay Gulfstream 90 triệu USD và quyền chọn trên 20 triệu cổ phiếu Apple`"]
+  n48 --- n54
+  n55["`Apple chỉ cần tăng 5% mỗi năm tới 2010, Jobs vẫn thu 548,3 triệu USD từ quyền chọn`"]
+  n48 --- n55
+  n56["`Bỏ phiếu chống kế hoạch quyền chọn vượt 3% cổ phiếu lưu hành hoặc không gắn kết quả vượt ngành 5 năm`"]
+  n48 --- n56
+  n57["`Thành viên độc lập nên báo cáo bằng văn bản về chính sách cổ tức, mua lại và thù lao lãnh đạo`"]
+  n48 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Lợi nhuận và tiền mặt của công ty thuộc về cổ đông, không thuộc về lãnh đạo`"]
+  n58 --- n59
+  n60["`Gánh chứng minh nằm ở ban điều hành: lợi nhuận giữ lại phải làm EPS tăng tương xứng`"]
+  n58 --- n60
+  n61["`Phân biệt tách cổ phiếu, cổ tức cổ phiếu thật, mua lại khi rẻ và mua lại để bù quyền chọn`"]
+  n58 --- n61
+  class n0 root
+  class n1,n9,n21,n30,n40,n48,n58 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 19 "Actionnaires et dirigeants: politique de dividende" (PDF trang 410–417) và "Commentaire sur le chapitre 19" (PDF trang 417–427).
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 11 đến Chương 18, Graham dạy người đọc phân tích một công ty từ bên ngoài: đọc lợi nhuận trên mỗi cổ phiếu (EPS), so sánh công ty, chọn cổ phiếu cho nhà đầu tư phòng thủ và nhà đầu tư năng động, rồi ở [Chương 17](C17-bon-truong-hop-dang-hoc.md) và [Chương 18](C18-so-sanh-tam-cap-cong-ty.md) đưa ra các trường hợp mà ban điều hành phá huỷ giá trị (thâu tóm tràn lan, kế toán tô vẽ, phát hành cổ phiếu khi giá bị thổi phồng).
+
+Chương 19 lật góc nhìn: người mua cổ phiếu là **chủ sở hữu** công ty, nên phải biết đòi hỏi ở ban điều hành, trước hết là về chuyện lợi nhuận được trả ra cho cổ đông hay giữ lại. Graham nối lại với ý ở [Chương 8](C08-nha-dau-tu-va-bien-dong-thi-truong.md) rằng ban điều hành kém dẫn đến giá thị trường thấp. Chương này khép lại phần phân tích chứng khoán trước khi [Chương 20](C20-bien-an-toan.md) gom toàn bộ cuốn sách vào khái niệm biên an toàn.
+
+Phần bình luận của Zweig khôi phục những gì Graham đã cắt từ ấn bản 1949 (quyền biểu quyết, đánh giá ban điều hành, xung đột lợi ích) và áp dụng vào các vụ bê bối 2001–2002 (Enron), vào làn sóng mua lại cổ phiếu và quyền chọn cổ phiếu cho lãnh đạo.
+
+## Lưu ý
+
+- **Tiêu đề chương:** bản PDF ghi "Actionnaires et dirigeants: politique de dividende" (cả ở đầu chương, PDF trang 410, và ở phần chú thích cuối sách); danh sách file của bộ này ghi "Actionnaires et gestions". Bản tổng hợp dùng đúng chữ trong PDF. Tiêu đề tiếng Anh gốc là "Shareholders and Managements: Dividend Policy".
+- **Hình 19-1 bị mất trong bản PDF:** trang 422–423 chỉ còn tiêu đề "FIGURE 19-1 / Qui paie les dividendes?" và dòng nguồn (Fama và French, "Disappearing Dividends", *Journal of Financial Economics*, tháng 4/2001); phần biểu đồ là một khoảng trắng nửa trang. Không chép lại được số liệu của hình. Theo hiểu biết của người tổng hợp, không tra cứu: nghiên cứu của Fama–French cho thấy tỷ lệ công ty niêm yết ở Mỹ trả cổ tức giảm từ khoảng 66,5% năm 1978 xuống khoảng 20,8% năm 1999; con số này chỉ để tham khảo, không phải số đọc từ hình.
+- **Các chỗ dịch máy lệch nghĩa đáng kể:**
+  - "E ver depuis 1934" là chữ tiếng Anh "Ever since 1934" (từ năm 1934, năm ra đời *Security Analysis*) bị tách chữ.
+  - "rachats ou offres publiques d'achat" dịch "take-overs or bids" (thâu tóm hoặc chào mua công khai), không phải "mua lại cổ phiếu" như nghĩa của "rachat d'actions" ở phần bình luận; "offres faites au-dessus des dirigeants" nghĩa là chào mua thẳng với cổ đông, *vượt qua đầu* ban điều hành.
+  - "s'est avérée trop ironique" (PDF trang 411): bản gốc là "too quixotic", tức "quá viển vông"; Graham không nói "mỉa mai".
+  - "politique de bas salaires" (PDF trang 412) phải hiểu là "chính sách trả cổ tức thấp" (low-payout policy), không liên quan tiền lương.
+  - "maintienne ses versements de dividendes" (PDF trang 412) phải hiểu là công ty mạnh "cố ý giữ cổ tức ở mức thấp" (holds down), không phải "duy trì".
+  - "Une politique négligente" (PDF trang 414) dịch "niggardly policy" (chính sách trả cổ tức keo kiệt); "des dividendes sont parfois détenus par des sociétés relativement peu chères" phải hiểu là "cổ tức đôi khi bị giữ thấp bởi những công ty làm ăn tương đối kém" (unprosperous), không phải công ty "rẻ".
+  - "problème", "question de revenu", "émissions" là dịch máy của "issue" (một loại chứng khoán, một mã cổ phiếu): "ce problème inhabituel" là "cổ phiếu khác thường này" (Superior Oil); "question de revenu" là "cổ phiếu thu nhập" (income issue); "préoccupations" là "concerns" (doanh nghiệp).
+  - "les actionnaires sont un lavage complet" dịch "a complete washout" (hoàn toàn vô dụng); "le rang et le dossier des actionnaires" dịch "rank and file" (số đông cổ đông bình thường); "ingénieurs commerciaux externes pour transmettre les politiques" nghĩa là thuê "kỹ sư kinh doanh" độc lập để **đánh giá** (pass upon) chính sách và năng lực ban điều hành.
+  - "procuration", "proxy", "mandataire" đều chỉ tài liệu uỷ quyền biểu quyết (proxy statement); "a déclaré le mandataire" nghĩa là "tài liệu uỷ quyền nói vậy".
+  - "100 actions bidons" là "100 cổ phiếu ít ỏi" (measly); "bombes à points" là chơi chữ "dot-bombs" (công ty dot-com phá sản); "obscurément surévaluées" là "định giá cao một cách phi lý" (absurdly); "une couchette" dịch "bunk" (chuyện nhảm); "empilé bien plus vite qu'elles ne le pourraient" thiếu vế "... dùng tới"; "bloqué 1,9 milliard de bénéfices" là "chốt" (locked in) 1,9 tỷ USD lãi từ quyền chọn; "sept" ở cuối đoạn trích PDF trang 421 là số chú thích 7 bị dịch thành chữ.
+  - Câu trích *Security Analysis* "autant de raisons d'être prudent et de juger en étant qu'en devenant actionnaire" (PDF trang 418) bị dịch thiếu; nghĩa là "cần thận trọng và sáng suốt khi *đang là* cổ đông chẳng kém khi *trở thành* cổ đông".
+  - Câu cuối chương Graham (PDF trang 417) "dont la plus importante n'est pas leur politique de dividende" nói ngược ý: theo mạch văn cả chương, Graham muốn nói thông lệ tài chính quan trọng nhất cần hiện đại hoá *chính là* chính sách cổ tức.
+  - "droits d'abonnement" trong chú thích của Zweig là "subscription rights", tức quyền mua cổ phiếu phát hành thêm.
+- **Số liệu cần kiểm tra:** Zweig viết Oracle phát hành 101 triệu + 26 triệu = 127 triệu cổ phiếu "với chi phí 484 triệu USD" và "giá bình quân 3,53 USD"; 484 triệu chia 127 triệu ra khoảng 3,81 USD, không khớp hẳn 3,53 USD (có thể hai con số đo theo hai cách khác nhau; sách không giải thích). Phép tính mua lại thì khớp: 290,7 triệu cổ phiếu × 18,26 USD ≈ 5,31 tỷ USD.
+- **Chỗ Graham dẫn trang bản tiếng Anh:** chú thích của Zweig dẫn ấn bản 1949 (tr. 217, 218, 219, 223, 224, 232, 233, 240) và *Security Analysis* 1934 (tr. 508, 515); các trang này không có trong bản PDF. Bản tổng hợp chép nội dung trích thay cho số trang.
+- **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** sau 2003 nhiều điều đã đổi: Mỹ hạ thuế cổ tức (luật năm 2003), buộc ghi nhận quyền chọn cổ phiếu là chi phí trên báo cáo kết quả kinh doanh (chuẩn mực kế toán có hiệu lực từ khoảng 2005–2006), Microsoft trả một khoản cổ tức đặc biệt rất lớn năm 2004, Oracle và Apple về sau đều trả cổ tức và mua lại cổ phiếu với quy mô lớn; Enron phá sản cuối năm 2001 và Fastow bị kết án. Chi tiết ở phần Đánh giá.
+- Câu trích trong mục "Câu nói đáng nhớ" là tiếng Pháp đúng như PDF (kể cả lỗi dịch), kèm bản dịch tiếng Việt theo nghĩa gốc của người tổng hợp.

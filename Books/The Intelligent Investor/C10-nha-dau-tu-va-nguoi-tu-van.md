@@ -1,23 +1,29 @@
 # Chương 10 — Nhà đầu tư và những người tư vấn (L'investisseur et ses conseillers)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 10 "L'investisseur et ses conseillers" (PDF trang 222–234) và "Commentaire sur le chapitre 10" (PDF trang 234–242). Chú thích của Graham cho chương này nằm ở PDF trang 486; chú thích của Zweig nằm ở PDF trang 555–558.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972, ấn bản thứ tư xuất bản 1973); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 9 ([C09-dau-tu-vao-quy.md](C09-dau-tu-vao-quy.md)) đã xét cách phổ biến nhất để giao tiền cho người khác quản lý: mua chứng chỉ quỹ tương hỗ (quỹ mở) và quỹ đóng. Chương 10 mở rộng câu hỏi sang mọi nguồn tư vấn còn lại: công ty tư vấn đầu tư, bộ phận uỷ thác của ngân hàng, các dịch vụ thông tin tài chính, công ty môi giới (người môi giới và chuyên viên phân tích), ngân hàng đầu tư, chủ ngân hàng địa phương, người thân và bạn bè. Đây là chương cuối của nhóm chương bàn về chính sách danh mục và thái độ của nhà đầu tư (Chương 1 đến 10). Ngay trong chương, Graham báo trước rằng "phần tiếp theo của cuốn sách" sẽ bàn về phân tích chứng khoán (security analysis), tức Chương 11 ([C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md)) trở đi. Phép phân chia nhà đầu tư phòng thủ và nhà đầu tư năng động của Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) và các "đơn thuốc" danh mục của Chương 4 và 5 là thước đo Graham dùng ở đây để quyết định nhà đầu tư nên nghe ai và nghe đến đâu.
-**Ý chính:** Graham muốn người đọc hiểu rằng **đi xin lời khuyên đầu tư thực chất là nhờ người khác chỉ cho mình cách kiếm tiền, và điều đó chỉ hợp lý nếu ta chỉ đòi một kết quả "bình thường"**. Một người tư vấn có nghề có thể bảo vệ khách khỏi sai lầm và giúp khách đạt mức lợi nhuận mà đồng vốn của họ xứng đáng được hưởng; khi khách đòi hơn mức trung bình, hoặc người tư vấn hứa làm tốt hơn, thì gần như chắc chắn người ta đang đòi hoặc hứa nhiều hơn khả năng thực hiện. Từ đó Graham rút ra luận điểm chính: nhà đầu tư dựa chủ yếu vào lời khuyên người khác thì hoặc phải giới hạn cả mình lẫn người tư vấn vào những khoản đầu tư chuẩn mực, bảo thủ, "không cần trí tưởng tượng", hoặc phải biết rất rõ và rất tin người quản lý tiền cho mình; còn muốn nghe theo những gợi ý khác thường thì chính nhà đầu tư phải đủ hiểu biết để tự phán xét, tức là đã trở thành nhà đầu tư năng động. Ông xét lần lượt từng nguồn tư vấn: công ty tư vấn đầu tư và bộ phận uỷ thác ngân hàng thì khiêm tốn, bảo thủ, đáng tin; các dịch vụ thông tin tài chính có ích về dữ liệu nhưng dự báo thị trường thì vô giá trị; công ty môi giới sống bằng hoa hồng nên khó tránh hướng khách vào đầu cơ; ngân hàng đầu tư là người bán, không phải người tư vấn khách quan. Ví dụ trung tâm là cuộc khủng hoảng của các công ty môi giới thành viên Sở Giao dịch Chứng khoán New York (NYSE) năm 1969–1970: năm 1970 khối lượng giao dịch đạt 2.937 triệu cổ phiếu, kỷ lục lịch sử và gấp khoảng bốn lần mức bình quân 712 triệu cổ phiếu mỗi năm của 15 năm thị trường giá lên kết thúc năm 1964, vậy mà nhiều công ty vẫn phá sản hoặc suýt phá sản, phần lớn vì các thành viên hợp danh đã giữ vốn của công ty dưới dạng cổ phiếu đầu cơ. Vì vậy Graham khuyên nhà đầu tư không dùng tài khoản ký quỹ nên để ngân hàng của mình giữ và giao nhận chứng khoán: "cẩn tắc vô áy náy".
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **sau thảm hoạ 2000–2002, không có gì đáng xấu hổ khi thuê người tư vấn, nhưng phải chọn người tư vấn bằng cách "tin, nhưng kiểm chứng"**. Ông nêu bốn dấu hiệu cho thấy một người cần trợ giúp (danh mục mất hơn 40% từ đầu năm 2000 đến cuối năm 2002, ngân sách gia đình rối loạn, danh mục "đa dạng hoá" giả như sở hữu 39 cổ phiếu Internet "khác nhau", và các biến cố lớn trong đời), chỉ cách tra lý lịch người tư vấn qua các cơ quan quản lý và mẫu đơn ADV, liệt kê 27 câu nói của người bán hàng cần cảnh giác ("được bảo đảm", "cơ hội của cả đời", "chúng tôi có thể đánh bại thị trường"...), đưa ra danh sách câu hỏi phỏng vấn người tư vấn (với ba ngưỡng cụ thể: ai dùng phân tích kỹ thuật hay canh thời điểm thị trường thì loại; phí trên 1% tài sản mỗi năm thì nên tìm người khác; ai hứa lợi nhuận trên 8–10% một năm là phi thực tế). Ý trung tâm của Zweig nằm ở câu của Nick Murray: người ta thuê người tư vấn "không phải để quản lý tiền mà để quản lý chính mình", tức là để có người đứng giữa nhà đầu tư và những cơn bốc đồng của chính họ.
+Graham muốn người đọc hiểu rằng **đi xin lời khuyên đầu tư thực chất là nhờ người khác chỉ cho mình cách kiếm tiền, và điều đó chỉ hợp lý nếu ta chỉ đòi một kết quả "bình thường"**.
 
-> **Lưu ý:**
-> - **Bản dịch máy làm mất một ý quan trọng ở mục "Conseils des maisons de courtage" (PDF trang 226).** Bản gốc tiếng Anh phân biệt *customers* (khách hàng của một cửa hàng, một doanh nghiệp) và *clients* (thân chủ của một người hành nghề chuyên môn như luật sư, bác sĩ). Bản tiếng Pháp dịch cả hai thành "clients", nên câu "liệu «clients» hay «clients» là tên gọi thích hợp hơn" và "Une entreprise a des clients; une personne ou une organisation professionnelle a des clients" trở nên vô nghĩa. Bản tổng hợp diễn giải theo nghĩa gốc.
-> - Bản dịch dùng "analyste de (la) sécurité" cho *security analyst* (chuyên viên phân tích chứng khoán), "stock" cho cổ phiếu, "courtier du client" cho *customers' broker* (nhân viên môi giới phục vụ khách hàng), "bailliage" cho *bailiwick* (lĩnh vực riêng), "courtiers en valeurs mobilières de nuit" cho *fly-by-night* (những công ty môi giới "ma", nay đây mai đó), "phrasé Delphique" cho cách nói nước đôi kiểu lời sấm Delphi, "passe simplement en revue les motions" cho *going through the motions* (làm chiếu lệ), "planificateur financier payant" cho *fee-only planner* (người lập kế hoạch tài chính chỉ thu phí trực tiếp từ khách, không nhận hoa hồng), "taxes" cho thuế, "Banque principale" cho *prime bank* (một kiểu lừa đảo "trái phiếu ngân hàng hạng nhất"). Các chỗ này được diễn giải theo nghĩa đúng.
-> - Chú thích của Zweig về Goodbody & Co. (PDF trang 557) viết rằng công ty này "suýt sụp đổ vào cuối những năm 1970 nếu Merrill Lynch không mua lại". Đây là lỗi dịch: sự kiện xảy ra vào cuối năm **1970** (theo hiểu biết của người tổng hợp, không tra cứu; điều này cũng khớp với ngữ cảnh khủng hoảng 1969–1970 Graham mô tả).
-> - Chú thích 1 của Graham (PDF trang 486) nói Liên đoàn các nhà phân tích tài chính (Financial Analysts Federation) "nay gồm các hội thành viên với hơn 50.000 hội viên", trong khi ngay đầu Chương 11 Graham viết là "hơn 13.000 hội viên". Con số 50.000 nhiều khả năng là số cập nhật của ấn bản 2003 (khớp với chú thích của Zweig: "hơn 50.000 nhà phân tích trên thế giới đã có chứng chỉ CFA"); bản PDF không còn chữ in đậm để phân biệt lời Graham và lời Zweig.
-> - Graham viết "37 năm SEC giám sát các sở giao dịch" (tính từ 1934 đến 1971). Các khuyến nghị về giao nhận chứng khoán qua ngân hàng đã lỗi thời từ lâu: theo chú thích của Zweig, giao dịch nay đã điện tử hoá và Công ty Bảo vệ Nhà đầu tư Chứng khoán (SIPC, lập năm 1970) bảo hiểm tài khoản khi công ty môi giới mất khả năng thanh toán.
-> - Các địa chỉ web Zweig nêu năm 2003 (www.advisorinfo.sec.gov, www.iard.com, http://pdpi.nasdr.com/PDPI, www.multex.com, www.aimrpubs.org) phần lớn đã đổi hoặc ngừng hoạt động. Theo hiểu biết của người tổng hợp, không tra cứu: Hiệp hội AIMR đổi tên thành CFA Institute năm 2004; NASD sáp nhập vào FINRA năm 2007 và công cụ tra cứu nhân viên môi giới nay là BrokerCheck; hồ sơ ADV của người tư vấn được tra qua trang IAPD của SEC.
-> - Mức hoa hồng môi giới cố định mà Graham nhắc tới (một trong các "điều kiện thuận lợi" của ngành môi giới năm 1970) đã bị bãi bỏ ở Mỹ từ ngày 1/5/1975; đến cuối thập niên 2010 nhiều công ty môi giới trực tuyến còn bỏ hẳn phí giao dịch cổ phiếu (theo hiểu biết của người tổng hợp, không tra cứu).
-> - Zweig hỏi "Bạn thấy tỷ suất lợi nhuận nào là hợp lý? (Hãy dựa câu trả lời vào Chương 3)". Nội dung được dẫn: trong bình luận Chương 3, Zweig ước tính đầu năm 2003 cổ phiếu Mỹ về dài hạn có thể sinh lợi khoảng 6% một năm (khoảng 4% sau lạm phát), cộng từ tỷ suất cổ tức 1,9%, tăng trưởng lợi nhuận thực 1,5–2% và lạm phát khoảng 2,4%.
-> - Đoạn đầu file C10.txt (PDF trang 222) là phần cuối bình luận Chương 9 (câu của Charles Ellis "nếu chưa sẵn sàng sống chung thì đừng cưới"); phần đó thuộc file Chương 9, không đưa vào đây.
-> - Chương này không có bảng (TABLEAU) hay hình (FIGURE). Phần bình luận có một khung "MOTS D'AVERTISSEMENT" (danh sách 27 câu cảnh báo) được chép đầy đủ ở Phần B.
+Một người tư vấn có nghề có thể bảo vệ khách khỏi sai lầm và giúp khách đạt mức lợi nhuận mà đồng vốn của họ xứng đáng được hưởng; khi khách đòi hơn mức trung bình, hoặc người tư vấn hứa làm tốt hơn, thì gần như chắc chắn người ta đang đòi hoặc hứa nhiều hơn khả năng thực hiện.
+
+Từ đó Graham rút ra luận điểm chính: nhà đầu tư dựa chủ yếu vào lời khuyên người khác thì hoặc phải giới hạn cả mình lẫn người tư vấn vào những khoản đầu tư chuẩn mực, bảo thủ, "không cần trí tưởng tượng", hoặc phải biết rất rõ và rất tin người quản lý tiền cho mình; còn muốn nghe theo những gợi ý khác thường thì chính nhà đầu tư phải đủ hiểu biết để tự phán xét, tức là đã trở thành nhà đầu tư năng động.
+
+Ông xét lần lượt từng nguồn tư vấn: công ty tư vấn đầu tư và bộ phận uỷ thác ngân hàng thì khiêm tốn, bảo thủ, đáng tin; các dịch vụ thông tin tài chính có ích về dữ liệu nhưng dự báo thị trường thì vô giá trị; công ty môi giới sống bằng hoa hồng nên khó tránh hướng khách vào đầu cơ; ngân hàng đầu tư là người bán, không phải người tư vấn khách quan.
+
+Ví dụ trung tâm là cuộc khủng hoảng của các công ty môi giới thành viên Sở Giao dịch Chứng khoán New York (NYSE) năm 1969–1970: năm 1970 khối lượng giao dịch đạt 2.937 triệu cổ phiếu, kỷ lục lịch sử và gấp khoảng bốn lần mức bình quân 712 triệu cổ phiếu mỗi năm của 15 năm thị trường giá lên kết thúc năm 1964, vậy mà nhiều công ty vẫn phá sản hoặc suýt phá sản, phần lớn vì các thành viên hợp danh đã giữ vốn của công ty dưới dạng cổ phiếu đầu cơ.
+
+Vì vậy Graham khuyên nhà đầu tư không dùng tài khoản ký quỹ nên để ngân hàng của mình giữ và giao nhận chứng khoán: "cẩn tắc vô áy náy".
+
+Zweig, viết năm 2003, bổ sung rằng **sau thảm hoạ 2000–2002, không có gì đáng xấu hổ khi thuê người tư vấn, nhưng phải chọn người tư vấn bằng cách "tin, nhưng kiểm chứng"**.
+
+Ông:
+
+- nêu bốn dấu hiệu cho thấy một người cần trợ giúp (danh mục mất hơn 40% từ đầu năm 2000 đến cuối năm 2002, ngân sách gia đình rối loạn, danh mục "đa dạng hoá" giả như sở hữu 39 cổ phiếu Internet "khác nhau", và các biến cố lớn trong đời);
+- chỉ cách tra lý lịch người tư vấn qua các cơ quan quản lý và mẫu đơn ADV;
+- liệt kê 27 câu nói của người bán hàng cần cảnh giác ("được bảo đảm", "cơ hội của cả đời", "chúng tôi có thể đánh bại thị trường"...);
+- đưa ra danh sách câu hỏi phỏng vấn người tư vấn (với ba ngưỡng cụ thể: ai dùng phân tích kỹ thuật hay canh thời điểm thị trường thì loại; phí trên 1% tài sản mỗi năm thì nên tìm người khác; ai hứa lợi nhuận trên 8–10% một năm là phi thực tế).
+
+Ý trung tâm của Zweig nằm ở câu của Nick Murray: người ta thuê người tư vấn "không phải để quản lý tiền mà để quản lý chính mình", tức là để có người đứng giữa nhà đầu tư và những cơn bốc đồng của chính họ.
 
 ## Sơ đồ
 
@@ -455,7 +461,9 @@ Zweig, viết năm 2003, bổ sung rằng **sau thảm hoạ 2000–2002, không
 ## Ba câu hỏi chương này trả lời
 
 1. **Có nên dựa vào người khác để đầu tư không, và nếu có thì được đòi hỏi điều gì?** Graham trả lời: được, nhưng chỉ nên đòi kết quả "bình thường", tức mức lợi nhuận chuẩn của đồng vốn đặt vào chứng khoán chất lượng, cộng với sự bảo vệ khỏi sai lầm. Ai đòi hơn mức trung bình, hoặc người tư vấn nào hứa hơn mức trung bình, đều đang đòi hoặc hứa quá khả năng. Người dựa chủ yếu vào lời khuyên phải giới hạn mình vào các khoản đầu tư chuẩn mực, bảo thủ; chỉ khi tự đủ hiểu biết để phán xét (trở thành nhà đầu tư năng động) mới nên nghe các gợi ý khác thường. Người nhận lời khuyên miễn phí càng không có quyền chờ kết quả trên trung bình.
-2. **Mỗi nguồn tư vấn đáng tin đến đâu?** Công ty tư vấn đầu tư lâu năm và bộ phận uỷ thác ngân hàng lớn: khiêm tốn, bảo thủ, đem lại đúng mức nhà đầu tư phòng thủ được quyền chờ đợi. Dịch vụ tài chính (Moody's, Standard & Poor's): dữ liệu và phân tích kinh doanh có ích, dự báo thị trường vô giá trị, khuyến nghị cổ phiếu bị hỏng vì bỏ qua giá. Công ty môi giới: sống bằng hoa hồng nên khó tránh hướng khách vào đầu cơ, dù nhân viên đứng đắn; chuyên viên phân tích của họ hữu ích nếu khách hỏi đúng câu và tỏ ra quan tâm tới giá trị. Ngân hàng đầu tư: là người bán, nhất là với cổ phiếu mới, nên luôn cần phán xét độc lập. Chủ ngân hàng địa phương: tốt cho nhà đầu tư phòng thủ. Người thân, bạn bè: khó chọn như chọn cổ phiếu; "nhiều lời khuyên tồi được cho không".
+2. **Mỗi nguồn tư vấn đáng tin đến đâu?** Công ty tư vấn đầu tư lâu năm và bộ phận uỷ thác ngân hàng lớn: khiêm tốn, bảo thủ, đem lại đúng mức nhà đầu tư phòng thủ được quyền chờ đợi. Dịch vụ tài chính (Moody's, Standard & Poor's): dữ liệu và phân tích kinh doanh có ích, dự báo thị trường vô giá trị, khuyến nghị cổ phiếu bị hỏng vì bỏ qua giá.
+
+   Công ty môi giới: sống bằng hoa hồng nên khó tránh hướng khách vào đầu cơ, dù nhân viên đứng đắn; chuyên viên phân tích của họ hữu ích nếu khách hỏi đúng câu và tỏ ra quan tâm tới giá trị. Ngân hàng đầu tư: là người bán, nhất là với cổ phiếu mới, nên luôn cần phán xét độc lập. Chủ ngân hàng địa phương: tốt cho nhà đầu tư phòng thủ. Người thân, bạn bè: khó chọn như chọn cổ phiếu; "nhiều lời khuyên tồi được cho không".
 3. **Ngày nay (2003) chọn và dùng người tư vấn thế nào?** Zweig trả lời: thuê người tư vấn khi lỗ lớn, khi tài chính gia đình rối, khi danh mục chưa đa dạng hoá thật, khi có biến cố lớn; tìm qua người mình tin, rồi kiểm tra lý lịch qua cơ quan quản lý và mẫu ADV; cảnh giác với 27 câu nói của người bán hàng; phỏng vấn kỹ với ba ngưỡng (không phân tích kỹ thuật hay canh thời điểm thị trường; phí không quá 1% tài sản mỗi năm; không hứa trên 8–10% một năm); và cùng người tư vấn soạn kế hoạch tài chính, tuyên bố chính sách đầu tư, kế hoạch phân bổ tài sản. Giá trị lớn nhất của người tư vấn là giữ nhà đầu tư khỏi chính những cơn bốc đồng của họ.
 
 ## Khái niệm cần biết
@@ -506,7 +514,9 @@ Chú thích của Zweig: danh sách nguồn tư vấn năm 2003 vẫn "lộn x�
 
 Zweig nói điểm khác duy nhất so với thời Graham là nay có 8% dựa nhiều vào Internet và 3% vào truyền hình tài chính.
 
-Từ "tiêu chí kết quả bình thường" nói trên, Graham rút ra luận điểm cơ bản của chương. Nếu nhà đầu tư dựa chủ yếu vào lời khuyên của người khác để quản lý tiền, thì hoặc họ phải giới hạn mình và người tư vấn một cách nghiêm ngặt vào các hình thức đầu tư chuẩn mực, bảo thủ, thậm chí "không cần trí tưởng tượng"; hoặc họ phải biết rất rõ và có ấn tượng rất tốt về chính con người sẽ đưa tiền của họ sang những hướng khác. Còn nếu quan hệ giữa nhà đầu tư và người tư vấn chỉ là quan hệ kinh doanh hay dịch vụ chuyên môn thông thường, thì nhà đầu tư chỉ nên đón nhận những gợi ý ít quy ước hơn ở mức mà bản thân họ đã tích luỹ đủ kiến thức và kinh nghiệm để phán xét độc lập các khuyến nghị đó. Khi đến được mức ấy, họ đã chuyển từ nhóm nhà đầu tư phòng thủ (không năng động) sang nhóm nhà đầu tư năng động (tích cực).
+Từ "tiêu chí kết quả bình thường" nói trên, Graham rút ra luận điểm cơ bản của chương. Nếu nhà đầu tư dựa chủ yếu vào lời khuyên của người khác để quản lý tiền, thì hoặc họ phải giới hạn mình và người tư vấn một cách nghiêm ngặt vào các hình thức đầu tư chuẩn mực, bảo thủ, thậm chí "không cần trí tưởng tượng"; hoặc họ phải biết rất rõ và có ấn tượng rất tốt về chính con người sẽ đưa tiền của họ sang những hướng khác.
+
+Còn nếu quan hệ giữa nhà đầu tư và người tư vấn chỉ là quan hệ kinh doanh hay dịch vụ chuyên môn thông thường, thì nhà đầu tư chỉ nên đón nhận những gợi ý ít quy ước hơn ở mức mà bản thân họ đã tích luỹ đủ kiến thức và kinh nghiệm để phán xét độc lập các khuyến nghị đó. Khi đến được mức ấy, họ đã chuyển từ nhóm nhà đầu tư phòng thủ (không năng động) sang nhóm nhà đầu tư năng động (tích cực).
 
 #### 2. Công ty tư vấn đầu tư và dịch vụ uỷ thác của ngân hàng (Conseil en investissement et services fiduciaires des banques, PDF trang 223–224)
 
@@ -520,7 +530,9 @@ Chú thích của Zweig: bản chất của các công ty tư vấn đầu tư v
 
 #### 3. Các dịch vụ tài chính (Services financiers, PDF trang 224–226)
 
-"Dịch vụ tài chính" là các tổ chức gửi bản tin giống nhau (đôi khi dưới dạng điện tín) cho người đăng ký. Nội dung có thể gồm tình hình và triển vọng kinh doanh, diễn biến và triển vọng thị trường chứng khoán, thông tin và lời khuyên về từng chứng khoán. Thường có một "dịch vụ giải đáp" trả lời câu hỏi riêng của từng người đăng ký. Chi phí trung bình thấp hơn nhiều so với phí mà người tư vấn đầu tư thu của khách cá nhân. Một số tổ chức, nhất là Babson's và Standard & Poor's, hoạt động ở các cấp độ khác nhau vừa như dịch vụ tài chính vừa như người tư vấn đầu tư. (Graham nói thêm: một số tổ chức khác, như Scudder, Stevens & Clark, hoạt động riêng biệt vừa là người tư vấn đầu tư vừa quản lý một hoặc nhiều quỹ đầu tư.)
+"Dịch vụ tài chính" là các tổ chức gửi bản tin giống nhau (đôi khi dưới dạng điện tín) cho người đăng ký. Nội dung có thể gồm tình hình và triển vọng kinh doanh, diễn biến và triển vọng thị trường chứng khoán, thông tin và lời khuyên về từng chứng khoán. Thường có một "dịch vụ giải đáp" trả lời câu hỏi riêng của từng người đăng ký. Chi phí trung bình thấp hơn nhiều so với phí mà người tư vấn đầu tư thu của khách cá nhân.
+
+Một số tổ chức, nhất là Babson's và Standard & Poor's, hoạt động ở các cấp độ khác nhau vừa như dịch vụ tài chính vừa như người tư vấn đầu tư. (Graham nói thêm: một số tổ chức khác, như Scudder, Stevens & Clark, hoạt động riêng biệt vừa là người tư vấn đầu tư vừa quản lý một hoặc nhiều quỹ đầu tư.)
 
 Nhìn chung dịch vụ tài chính phục vụ một bộ phận công chúng rất khác với khách của công ty tư vấn đầu tư. Khách của công ty tư vấn muốn được giải thoát khỏi phiền toái và nghĩa vụ phải tự ra quyết định. Dịch vụ tài chính cung cấp thông tin và lời khuyên cho những người tự điều hành công việc tài chính của mình hoặc chính họ đi tư vấn cho người khác. Nhiều dịch vụ chỉ (hoặc gần như chỉ) dự báo biến động thị trường bằng các phương pháp "kỹ thuật" khác nhau. Graham gạt bỏ nhóm này bằng nhận xét rằng công việc của họ không liên quan tới "nhà đầu tư" theo nghĩa của cuốn sách.
 
@@ -550,23 +562,33 @@ Xa nhất mà một số công ty môi giới đã đi theo hướng đó (và c
 
 Chú thích của Zweig: hàng nghìn người mua cổ phiếu cuối thập niên 1990 vì tin rằng các chuyên viên phân tích Phố Wall đưa lời khuyên khách quan và quý giá đã học được, một cách đau đớn, rằng Graham nói đúng đến mức nào.
 
-Tuy vậy, đa số công ty môi giới vẫn theo khẩu hiệu cũ rằng họ kinh doanh để kiếm hoa hồng, và cách thành công trong kinh doanh là đưa cho khách cái khách muốn. Vì những khách đem lại nhiều lợi nhuận nhất lại muốn lời khuyên và gợi ý đầu cơ, suy nghĩ và hoạt động của công ty điển hình xoay khá sát quanh giao dịch hằng ngày trên thị trường. Thế là công ty cố giúp khách kiếm tiền trong một lĩnh vực mà khách gần như bị một quy luật toán học kết án phải thua về lâu dài. Graham giải thích: phần đầu cơ trong hoạt động của khách không thể sinh lời về lâu dài cho đa số khách hàng của công ty môi giới; nhưng phần nào giống đầu tư thật thì có thể tạo ra khoản lãi đầu tư bù đắp dư dả cho khoản lỗ đầu cơ.
+Tuy vậy, đa số công ty môi giới vẫn theo khẩu hiệu cũ rằng họ kinh doanh để kiếm hoa hồng, và cách thành công trong kinh doanh là đưa cho khách cái khách muốn. Vì những khách đem lại nhiều lợi nhuận nhất lại muốn lời khuyên và gợi ý đầu cơ, suy nghĩ và hoạt động của công ty điển hình xoay khá sát quanh giao dịch hằng ngày trên thị trường.
+
+Thế là công ty cố giúp khách kiếm tiền trong một lĩnh vực mà khách gần như bị một quy luật toán học kết án phải thua về lâu dài. Graham giải thích: phần đầu cơ trong hoạt động của khách không thể sinh lời về lâu dài cho đa số khách hàng của công ty môi giới; nhưng phần nào giống đầu tư thật thì có thể tạo ra khoản lãi đầu tư bù đắp dư dả cho khoản lỗ đầu cơ.
 
 Chú thích của Zweig: điều thú vị là lời phê phán gay gắt mà Graham nhắm vào các công ty môi giới dịch vụ đầy đủ thời ông cuối cùng lại đúng với các công ty môi giới chiết khấu trên Internet cuối thập niên 1990. Các công ty này chi hàng triệu USD cho quảng cáo hào nhoáng, thúc khách giao dịch nhiều hơn và nhanh hơn. Phần lớn khách cuối cùng tự móc túi mình thay vì trả tiền cho người khác móc túi giúp, và hoa hồng rẻ cho kiểu giao dịch ấy chỉ là niềm an ủi tồi so với kết quả. Trong khi đó các công ty môi giới truyền thống bắt đầu nhấn mạnh lập kế hoạch tài chính và "quản lý tài sản tích hợp", thay vì trả lương cho nhân viên môi giới chỉ theo số hoa hồng họ tạo ra.
 
 Nhà đầu tư nhận lời khuyên và thông tin từ công ty môi giới qua hai loại nhân viên, nay được gọi chính thức là "nhân viên môi giới phục vụ khách hàng" (hay "chuyên viên quản lý tài khoản") và "chuyên viên phân tích tài chính".
 
-Nhân viên môi giới phục vụ khách hàng, còn gọi là "người đại diện đã đăng ký", trước đây mang chức danh kém trang trọng hơn là "người của khách hàng". Ngày nay phần lớn họ là người có đạo đức tốt và hiểu biết đáng kể về chứng khoán, làm việc theo một bộ quy tắc ứng xử nghiêm ngặt. Dù vậy, vì công việc của họ là kiếm hoa hồng, họ khó tránh khỏi việc thiên về đầu cơ. Do đó người mua chứng khoán muốn tránh bị chi phối bởi các cân nhắc đầu cơ thường phải thận trọng và nói rõ ràng khi làm việc với nhân viên môi giới của mình; họ phải thể hiện rõ, bằng lời nói và việc làm, rằng họ không quan tâm tới bất cứ thứ gì giống một "mẹo" chứng khoán. Khi nhân viên môi giới hiểu rõ rằng mình đang phục vụ một nhà đầu tư thật, họ sẽ tôn trọng quan điểm đó và hợp tác.
+Nhân viên môi giới phục vụ khách hàng, còn gọi là "người đại diện đã đăng ký", trước đây mang chức danh kém trang trọng hơn là "người của khách hàng". Ngày nay phần lớn họ là người có đạo đức tốt và hiểu biết đáng kể về chứng khoán, làm việc theo một bộ quy tắc ứng xử nghiêm ngặt. Dù vậy, vì công việc của họ là kiếm hoa hồng, họ khó tránh khỏi việc thiên về đầu cơ.
+
+Do đó người mua chứng khoán muốn tránh bị chi phối bởi các cân nhắc đầu cơ thường phải thận trọng và nói rõ ràng khi làm việc với nhân viên môi giới của mình; họ phải thể hiện rõ, bằng lời nói và việc làm, rằng họ không quan tâm tới bất cứ thứ gì giống một "mẹo" chứng khoán. Khi nhân viên môi giới hiểu rõ rằng mình đang phục vụ một nhà đầu tư thật, họ sẽ tôn trọng quan điểm đó và hợp tác.
 
 Chuyên viên phân tích tài chính, trước đây thường gọi là chuyên viên phân tích chứng khoán, là đối tượng Graham đặc biệt quan tâm, vì bản thân ông đã làm nghề này hơn năm thập kỷ và đã giúp đào tạo vô số người khác. Ở đây ông chỉ nói về chuyên viên phân tích làm cho công ty môi giới. Chức năng của họ khá rõ qua chức danh: họ soạn các nghiên cứu chi tiết về từng chứng khoán, so sánh kỹ các chứng khoán cùng lĩnh vực, và đưa ý kiến chuyên môn về độ an toàn, sức hấp dẫn hay giá trị nội tại của mọi loại cổ phiếu và trái phiếu.
 
 Điều mà người ngoài hẳn thấy kỳ lạ là không có yêu cầu chính thức nào để làm chuyên viên phân tích chứng khoán. Ngược lại, nhân viên môi giới phải thi, qua kiểm tra tư cách và được NYSE chấp nhận, đăng ký đầy đủ. Trên thực tế, gần như mọi chuyên viên phân tích trẻ đã qua đào tạo bài bản ở trường kinh doanh, còn người lớn tuổi thì ít nhất đã có trình độ tương đương nhờ "trường đời" của nhiều năm kinh nghiệm. Trong đại đa số trường hợp, có thể trông vào công ty môi giới sử dụng họ để bảo đảm trình độ và năng lực.
 
-Chú thích của Zweig: điều này vẫn đúng năm 2003, dù nhiều chuyên viên phân tích giỏi nhất Phố Wall có danh hiệu CFA. Chứng chỉ CFA do Hiệp hội Quản lý Đầu tư và Nghiên cứu (Association for Investment Management and Research, AIMR, trước đây là Financial Analysts Federation) cấp, chỉ sau khi ứng viên học nhiều năm nghiêm túc và đỗ một loạt kỳ thi khó. Hơn 50.000 nhà phân tích trên thế giới đã có chứng chỉ CFA. Đáng tiếc, một khảo sát gần đây của giáo sư Stanley Block ("A Study of Financial Analysts: Practice and Theory", *Financial Analysts Journal*, tháng 7/8 năm 1999) cho thấy phần lớn người có CFA bỏ qua bài học của Graham: họ coi tiềm năng tăng trưởng quan trọng hơn chất lượng lợi nhuận, rủi ro và chính sách cổ tức khi xác định hệ số P/E, và số người dựa khuyến nghị mua vào giá gần đây nhiều hơn hẳn số người dựa vào triển vọng dài hạn của công ty. Zweig kể Graham thích nói rằng sách của ông được nhiều người đọc, và bị nhiều người lờ đi, hơn bất kỳ cuốn sách tài chính nào khác.
+Chú thích của Zweig: điều này vẫn đúng năm 2003, dù nhiều chuyên viên phân tích giỏi nhất Phố Wall có danh hiệu CFA. Chứng chỉ CFA do Hiệp hội Quản lý Đầu tư và Nghiên cứu (Association for Investment Management and Research, AIMR, trước đây là Financial Analysts Federation) cấp, chỉ sau khi ứng viên học nhiều năm nghiêm túc và đỗ một loạt kỳ thi khó. Hơn 50.000 nhà phân tích trên thế giới đã có chứng chỉ CFA.
 
-Khách của công ty môi giới có thể làm việc trực tiếp với chuyên viên phân tích, hoặc gián tiếp qua nhân viên môi giới. Cách nào thì chuyên viên phân tích cũng sẵn sàng cung cấp cho khách khá nhiều thông tin và lời khuyên. Graham khẳng định dứt khoát: giá trị của chuyên viên phân tích đối với nhà đầu tư phụ thuộc phần lớn vào thái độ của chính nhà đầu tư. Hỏi đúng câu thì nhiều khả năng nhận được câu trả lời đúng, hoặc ít nhất có giá trị. Graham tin rằng chuyên viên phân tích của các công ty môi giới bị cản trở nặng nề bởi quan niệm chung rằng họ cũng phải là người phân tích thị trường. Khi được hỏi một cổ phiếu có "lành mạnh" không, câu hỏi thường có nghĩa là "cổ phiếu này có khả năng tăng giá trong vài tháng tới không?". Vì vậy nhiều người phải phân tích với một mắt dán vào bảng giá chạy, một tư thế không có lợi cho suy nghĩ đúng đắn và kết luận vững chắc.
+Đáng tiếc, một khảo sát gần đây của giáo sư Stanley Block ("A Study of Financial Analysts: Practice and Theory", *Financial Analysts Journal*, tháng 7/8 năm 1999) cho thấy phần lớn người có CFA bỏ qua bài học của Graham: họ coi tiềm năng tăng trưởng quan trọng hơn chất lượng lợi nhuận, rủi ro và chính sách cổ tức khi xác định hệ số P/E, và số người dựa khuyến nghị mua vào giá gần đây nhiều hơn hẳn số người dựa vào triển vọng dài hạn của công ty. Zweig kể Graham thích nói rằng sách của ông được nhiều người đọc, và bị nhiều người lờ đi, hơn bất kỳ cuốn sách tài chính nào khác.
 
-Chú thích của Zweig: năm 2003 rất hiếm khi một chuyên viên phân tích cho phép nhà đầu tư cá nhân bình thường liên hệ trực tiếp. Phần lớn chỉ giới đầu tư tổ chức mới được tiếp cận các chuyên viên phân tích quyền lực của Phố Wall. Nhà đầu tư cá nhân có thể gặp may khi gọi cho chuyên viên phân tích ở các công ty môi giới "khu vực" có trụ sở ngoài New York. Mục quan hệ nhà đầu tư trên trang web của phần lớn công ty niêm yết có danh sách các chuyên viên phân tích theo dõi cổ phiếu; các trang như www.zacks.com và www.multex.com cho truy cập báo cáo phân tích. Nhưng nhà đầu tư thông minh không được quên rằng phần lớn chuyên viên phân tích không phân tích doanh nghiệp, mà phỏng đoán giá cổ phiếu tương lai.
+Khách của công ty môi giới có thể làm việc trực tiếp với chuyên viên phân tích, hoặc gián tiếp qua nhân viên môi giới. Cách nào thì chuyên viên phân tích cũng sẵn sàng cung cấp cho khách khá nhiều thông tin và lời khuyên. Graham khẳng định dứt khoát: giá trị của chuyên viên phân tích đối với nhà đầu tư phụ thuộc phần lớn vào thái độ của chính nhà đầu tư. Hỏi đúng câu thì nhiều khả năng nhận được câu trả lời đúng, hoặc ít nhất có giá trị.
+
+Graham tin rằng chuyên viên phân tích của các công ty môi giới bị cản trở nặng nề bởi quan niệm chung rằng họ cũng phải là người phân tích thị trường. Khi được hỏi một cổ phiếu có "lành mạnh" không, câu hỏi thường có nghĩa là "cổ phiếu này có khả năng tăng giá trong vài tháng tới không?". Vì vậy nhiều người phải phân tích với một mắt dán vào bảng giá chạy, một tư thế không có lợi cho suy nghĩ đúng đắn và kết luận vững chắc.
+
+Chú thích của Zweig: năm 2003 rất hiếm khi một chuyên viên phân tích cho phép nhà đầu tư cá nhân bình thường liên hệ trực tiếp. Phần lớn chỉ giới đầu tư tổ chức mới được tiếp cận các chuyên viên phân tích quyền lực của Phố Wall. Nhà đầu tư cá nhân có thể gặp may khi gọi cho chuyên viên phân tích ở các công ty môi giới "khu vực" có trụ sở ngoài New York.
+
+Mục quan hệ nhà đầu tư trên trang web của phần lớn công ty niêm yết có danh sách các chuyên viên phân tích theo dõi cổ phiếu; các trang như www.zacks.com và www.multex.com cho truy cập báo cáo phân tích. Nhưng nhà đầu tư thông minh không được quên rằng phần lớn chuyên viên phân tích không phân tích doanh nghiệp, mà phỏng đoán giá cổ phiếu tương lai.
 
 Graham nói phần tiếp theo của cuốn sách sẽ bàn về các khái niệm và khả năng của phân tích chứng khoán. Rất nhiều chuyên viên phân tích làm cho công ty môi giới có thể giúp ích nhiều cho nhà đầu tư thành thật, người muốn chắc chắn nhận được đầy đủ giá trị tương xứng với số tiền bỏ ra, và có lẽ hơn một chút. Cũng như với nhân viên môi giới, ngay từ đầu chuyên viên phân tích cần hiểu rõ thái độ và mục tiêu của nhà đầu tư. Khi họ tin rằng mình đang làm việc với một người quan tâm tới giá trị chứ không phải tới giá niêm yết, nhiều khả năng khuyến nghị của họ sẽ đem lại lợi ích thực sự về tổng thể.
 
@@ -580,7 +602,9 @@ Chú thích của Zweig: Benjamin Graham là động lực chính đằng sau vi
 
 #### 6. Quan hệ với công ty môi giới (Relations avec les maisons de courtage, PDF trang 229–231)
 
-Graham coi một trong những diễn biến đáng lo nhất trong thời gian ông viết bản hiệu đính này là tình trạng khó khăn tài chính (nói thẳng là phá sản hoặc gần phá sản) của nhiều công ty thành viên NYSE, trong đó ít nhất hai công ty có quy mô lớn. Đây là lần đầu tiên trong nửa thế kỷ hay hơn chuyện như vậy xảy ra, và nó đáng ngạc nhiên vì nhiều lý do. Trong nhiều thập kỷ, NYSE ngày càng kiểm soát chặt hoạt động và tình hình tài chính của thành viên, gồm yêu cầu vốn tối thiểu, kiểm toán đột xuất và các biện pháp khác. Thêm vào đó là 37 năm Uỷ ban Chứng khoán và Giao dịch (SEC) giám sát các sở giao dịch và thành viên. Cuối cùng, ngành môi giới hoạt động trong điều kiện thuận lợi: khối lượng giao dịch tăng mạnh, mức hoa hồng tối thiểu cố định (gần như loại bỏ cạnh tranh về phí), và số công ty thành viên bị giới hạn.
+Graham coi một trong những diễn biến đáng lo nhất trong thời gian ông viết bản hiệu đính này là tình trạng khó khăn tài chính (nói thẳng là phá sản hoặc gần phá sản) của nhiều công ty thành viên NYSE, trong đó ít nhất hai công ty có quy mô lớn. Đây là lần đầu tiên trong nửa thế kỷ hay hơn chuyện như vậy xảy ra, và nó đáng ngạc nhiên vì nhiều lý do.
+
+Trong nhiều thập kỷ, NYSE ngày càng kiểm soát chặt hoạt động và tình hình tài chính của thành viên, gồm yêu cầu vốn tối thiểu, kiểm toán đột xuất và các biện pháp khác. Thêm vào đó là 37 năm Uỷ ban Chứng khoán và Giao dịch (SEC) giám sát các sở giao dịch và thành viên. Cuối cùng, ngành môi giới hoạt động trong điều kiện thuận lợi: khối lượng giao dịch tăng mạnh, mức hoa hồng tối thiểu cố định (gần như loại bỏ cạnh tranh về phí), và số công ty thành viên bị giới hạn.
 
 Chú thích của Zweig: hai công ty Graham có lẽ muốn nói là Du Pont, Glore, Forgan & Co. và Goodbody & Co. Du Pont (do những người thừa kế gia tộc hoá chất Du Pont lập) chỉ thoát khỏi mất khả năng thanh toán năm 1970 sau khi doanh nhân Texas H. Ross Perot cho công ty vay hơn 50 triệu USD. Goodbody, công ty môi giới lớn thứ năm nước Mỹ, đã sụp đổ nếu Merrill Lynch không mua lại. Hayden, Stone & Co. cũng đã phá sản nếu không được mua lại. Riêng năm 1970 có không dưới bảy công ty môi giới phá sản. Zweig giới thiệu cuốn *The Go-Go Years* của John Brooks (John Wiley & Sons, New York, 1999), kể chuyện Phố Wall bành trướng điên cuồng cuối thập niên 1960.
 
@@ -599,7 +623,11 @@ Chú thích của Graham: NYSE đã áp đặt các quy tắc định giá khắ
 
 Graham kết luận: thực chất các thành viên hợp danh đã đầu cơ bằng chính phần vốn lẽ ra để bảo vệ khách hàng trước những rủi ro tài chính thông thường của nghề môi giới, nhằm kiếm lời hai lần trên phần vốn đó. Ông gọi đó là điều không thể tha thứ và không nói thêm.
 
-Nhà đầu tư phải dùng trí tuệ không chỉ để đề ra chính sách tài chính mà cả trong các chi tiết đi kèm, trong đó có việc chọn một công ty môi giới có uy tín để thực hiện lệnh. Trước đây Graham chỉ cần khuyên độc giả giao dịch với thành viên NYSE, trừ khi có lý do thuyết phục để dùng một công ty không phải thành viên. Nay ông miễn cưỡng phải khuyên thêm: những người không có tài khoản ký quỹ (theo cách dùng từ của ông là mọi nhà đầu tư không chuyên) nên để ngân hàng của mình xử lý việc giao nhận chứng khoán. Khi đặt lệnh mua, có thể yêu cầu công ty môi giới giao chứng khoán đã mua cho ngân hàng của mình, ngân hàng trả tiền khi nhận; khi bán, có thể yêu cầu ngân hàng giao chứng khoán cho công ty môi giới, đổi lấy tiền bán. Dịch vụ này tốn thêm một chút nhưng đáng giá về an toàn và sự yên tâm. Graham nói có thể bỏ qua lời khuyên này khi nhà đầu tư chắc chắn mọi vấn đề của các công ty môi giới đã được giải quyết, nhưng chưa phải trước đó.
+Nhà đầu tư phải dùng trí tuệ không chỉ để đề ra chính sách tài chính mà cả trong các chi tiết đi kèm, trong đó có việc chọn một công ty môi giới có uy tín để thực hiện lệnh. Trước đây Graham chỉ cần khuyên độc giả giao dịch với thành viên NYSE, trừ khi có lý do thuyết phục để dùng một công ty không phải thành viên.
+
+Nay ông miễn cưỡng phải khuyên thêm: những người không có tài khoản ký quỹ (theo cách dùng từ của ông là mọi nhà đầu tư không chuyên) nên để ngân hàng của mình xử lý việc giao nhận chứng khoán. Khi đặt lệnh mua, có thể yêu cầu công ty môi giới giao chứng khoán đã mua cho ngân hàng của mình, ngân hàng trả tiền khi nhận; khi bán, có thể yêu cầu ngân hàng giao chứng khoán cho công ty môi giới, đổi lấy tiền bán.
+
+Dịch vụ này tốn thêm một chút nhưng đáng giá về an toàn và sự yên tâm. Graham nói có thể bỏ qua lời khuyên này khi nhà đầu tư chắc chắn mọi vấn đề của các công ty môi giới đã được giải quyết, nhưng chưa phải trước đó.
 
 Chú thích của Zweig: năm 2003 gần như mọi giao dịch môi giới đã thực hiện điện tử và chứng khoán không còn được "giao" vật lý. Nhờ Công ty Bảo vệ Nhà đầu tư Chứng khoán (SIPC) lập năm 1970, nhà đầu tư thường được bảo đảm lấy lại toàn bộ giá trị tài khoản nếu công ty môi giới mất khả năng thanh toán. SIPC là một tổ hợp các công ty môi giới do chính phủ yêu cầu thành lập; mọi thành viên đồng ý góp chung tài sản để bù lỗ cho khách hàng của bất kỳ công ty nào mất khả năng thanh toán. Sự bảo vệ của SIPC loại bỏ nhu cầu thanh toán và nhận chứng khoán qua ngân hàng trung gian như Graham khuyên.
 
@@ -615,7 +643,11 @@ Tình hình khác hẳn trong quan hệ giữa người mua chứng khoán cá n
 
 Chú thích của Graham: chứng khoán mới nay chỉ được bán qua một bản cáo bạch lập theo quy định của SEC. Tài liệu này phải công bố mọi sự kiện liên quan tới chứng khoán và tổ chức phát hành, và hoàn toàn đủ để cho biết bản chất chính xác của chứng khoán được chào bán. Nhưng khối dữ liệu bắt buộc quá lớn khiến bản cáo bạch thường dài đến mức không ai muốn đọc. Người ta thường thừa nhận rằng chỉ một tỷ lệ nhỏ người mua chứng khoán mới đọc kỹ bản cáo bạch. Vì vậy họ vẫn hành động chủ yếu không theo phán đoán của mình mà theo phán đoán của hãng bán chứng khoán cho họ, hoặc theo khuyến nghị của nhân viên bán hàng hay nhân viên quản lý tài khoản.
 
-Graham coi việc các hãng bảo lãnh kết hợp khá tốt được hai vai trò trái ngược nhau, người tư vấn và người bán hàng, là bằng chứng về sự trung thực và năng lực của họ. Nhưng người mua dựa vào phán đoán của người bán là thiếu khôn ngoan. Năm 1959 Graham đã viết ở chỗ này: "Kết quả xấu của thái độ không lành mạnh này lặp đi lặp lại trong lĩnh vực bảo lãnh phát hành, với hậu quả đáng kể trong việc bán cổ phiếu mới phát hành vào các thời kỳ đầu cơ sôi động." Ít lâu sau, lời cảnh báo ấy tỏ ra cấp bách. Như Graham đã nêu ở các chương trước (Chương 6 về các đợt phát hành mới), các năm 1960–1961 rồi 1968–1969 chứng kiến một làn sóng chưa từng có các đợt phát hành chất lượng thấp, bán cho công chúng ở giá chào bán cao phi lý, và trong nhiều trường hợp còn bị đẩy cao hơn nhiều nhờ đầu cơ liều lĩnh và một phần thao túng. Một số hãng lớn nhất Phố Wall cũng tham gia ở mức độ nào đó vào những hoạt động thiếu uy tín này, chứng tỏ sự kết hợp quen thuộc giữa lòng tham, sự điên rồ và vô trách nhiệm vẫn chưa bị trục xuất khỏi giới tài chính.
+Graham coi việc các hãng bảo lãnh kết hợp khá tốt được hai vai trò trái ngược nhau, người tư vấn và người bán hàng, là bằng chứng về sự trung thực và năng lực của họ. Nhưng người mua dựa vào phán đoán của người bán là thiếu khôn ngoan.
+
+Năm 1959 Graham đã viết ở chỗ này: "Kết quả xấu của thái độ không lành mạnh này lặp đi lặp lại trong lĩnh vực bảo lãnh phát hành, với hậu quả đáng kể trong việc bán cổ phiếu mới phát hành vào các thời kỳ đầu cơ sôi động." Ít lâu sau, lời cảnh báo ấy tỏ ra cấp bách.
+
+Như Graham đã nêu ở các chương trước (Chương 6 về các đợt phát hành mới), các năm 1960–1961 rồi 1968–1969 chứng kiến một làn sóng chưa từng có các đợt phát hành chất lượng thấp, bán cho công chúng ở giá chào bán cao phi lý, và trong nhiều trường hợp còn bị đẩy cao hơn nhiều nhờ đầu cơ liều lĩnh và một phần thao túng. Một số hãng lớn nhất Phố Wall cũng tham gia ở mức độ nào đó vào những hoạt động thiếu uy tín này, chứng tỏ sự kết hợp quen thuộc giữa lòng tham, sự điên rồ và vô trách nhiệm vẫn chưa bị trục xuất khỏi giới tài chính.
 
 Nhà đầu tư thông minh sẽ lưu tâm tới lời khuyên và khuyến nghị của các ngân hàng đầu tư, nhất là những hãng mà họ biết có uy tín xuất sắc; nhưng họ chắc chắn sẽ đưa ra phán xét lành mạnh và độc lập về các gợi ý đó: phán xét của chính mình nếu đủ năng lực, hoặc của một người tư vấn thuộc loại khác.
 
@@ -651,7 +683,9 @@ Zweig mở phần bình luận bằng một đoạn của Michel de Montaigne. M
 
 Vào những năm hoàng kim cuối thập niên 1990, nhiều nhà đầu tư chọn tự làm một mình: tự nghiên cứu, tự chọn cổ phiếu, đặt lệnh qua môi giới trực tuyến, bỏ qua toàn bộ bộ máy nghiên cứu, tư vấn và giao dịch tốn kém của Phố Wall. Không may, nhiều người tự làm này tuyên bố độc lập đúng ngay trước thị trường giá xuống tệ nhất kể từ Đại suy thoái, và cuối cùng thấy mình thật ngốc khi tự làm. Zweig nói điều đó không hẳn đúng: những người giao mọi quyết định cho một công ty môi giới truyền thống cũng thua lỗ.
 
-Dù vậy, nhiều nhà đầu tư yên tâm hơn nhờ kinh nghiệm, óc phán đoán và ý kiến thứ hai mà một người tư vấn tài chính giỏi đem lại. Có người cần một người ngoài chỉ cho thấy tỷ suất lợi nhuận họ cần đạt trên khoản đầu tư, hoặc số tiền họ cần tiết kiệm thêm, để đạt mục tiêu tài chính. Có người đơn giản được lợi từ việc có người khác để đổ lỗi khi khoản đầu tư giảm giá: thay vì tự dằn vặt trong nghi ngờ, họ có thể trách một người thường biết tự bảo vệ mình và đồng thời động viên họ. Cú hích tâm lý đó có thể giúp họ tiếp tục đầu tư đều đặn đúng lúc những nhà đầu tư khác nản lòng. Tóm lại, cũng như không có lý do gì khiến bạn không tự quản lý được danh mục của mình, không có gì đáng xấu hổ khi nhờ người chuyên nghiệp giúp quản lý.
+Dù vậy, nhiều nhà đầu tư yên tâm hơn nhờ kinh nghiệm, óc phán đoán và ý kiến thứ hai mà một người tư vấn tài chính giỏi đem lại. Có người cần một người ngoài chỉ cho thấy tỷ suất lợi nhuận họ cần đạt trên khoản đầu tư, hoặc số tiền họ cần tiết kiệm thêm, để đạt mục tiêu tài chính.
+
+Có người đơn giản được lợi từ việc có người khác để đổ lỗi khi khoản đầu tư giảm giá: thay vì tự dằn vặt trong nghi ngờ, họ có thể trách một người thường biết tự bảo vệ mình và đồng thời động viên họ. Cú hích tâm lý đó có thể giúp họ tiếp tục đầu tư đều đặn đúng lúc những nhà đầu tư khác nản lòng. Tóm lại, cũng như không có lý do gì khiến bạn không tự quản lý được danh mục của mình, không có gì đáng xấu hổ khi nhờ người chuyên nghiệp giúp quản lý.
 
 Chú thích của Zweig: để bàn kỹ hơn các vấn đề này, xem Walter Updegrave, "Advice on Advice", *Money*, tháng 1 năm 2003, trang 53–55.
 
@@ -808,7 +842,11 @@ Lời khuyên đầu tư chỉ đáng tin khi nó nhắm tới kết quả bình
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương này bàn về **vấn đề người đại diện (principal–agent problem)** và **xung đột lợi ích (conflict of interest)** trong ngành dịch vụ tài chính: cơ cấu thù lao (phí trên tài sản quản lý so với hoa hồng giao dịch) quyết định động cơ của người tư vấn. Graham phân biệt quan hệ **bán hàng (sell-side)** với quan hệ **uỷ thác/tận tín (fiduciary)**, một phân biệt mà về sau trở thành tranh luận pháp lý lớn ở Mỹ về chuẩn mực "nghĩa vụ tận tín" (fiduciary duty) của người tư vấn so với chuẩn "phù hợp" (suitability) của nhân viên môi giới (theo hiểu biết của người tổng hợp). Phần về khủng hoảng 1969–1970 là bài học về **rủi ro đối tác (counterparty risk)**, **rủi ro lưu ký (custody risk)** và **chiết khấu vốn (haircut)** trong tính vốn khả dụng của công ty chứng khoán. Phần về ngân hàng đầu tư nói tới **bất cân xứng thông tin (information asymmetry)** trong phát hành lần đầu ra công chúng (IPO). Phần bình luận của Zweig thuộc lĩnh vực **tài chính hành vi (behavioral finance)**: người tư vấn đóng vai trò **cơ chế cam kết (commitment device)** chống lại các thiên kiến như quá tự tin, giao dịch quá mức (overtrading) và bán tháo vì sợ hãi; ba văn bản (kế hoạch tài chính, IPS, kế hoạch phân bổ tài sản) là công cụ chuẩn của nghề lập kế hoạch tài chính.
+Chương này bàn về **vấn đề người đại diện (principal–agent problem)** và **xung đột lợi ích (conflict of interest)** trong ngành dịch vụ tài chính: cơ cấu thù lao (phí trên tài sản quản lý so với hoa hồng giao dịch) quyết định động cơ của người tư vấn. Graham phân biệt quan hệ **bán hàng (sell-side)** với quan hệ **uỷ thác/tận tín (fiduciary)**, một phân biệt mà về sau trở thành tranh luận pháp lý lớn ở Mỹ về chuẩn mực "nghĩa vụ tận tín" (fiduciary duty) của người tư vấn so với chuẩn "phù hợp" (suitability) của nhân viên môi giới (theo hiểu biết của người tổng hợp).
+
+Phần về khủng hoảng 1969–1970 là bài học về **rủi ro đối tác (counterparty risk)**, **rủi ro lưu ký (custody risk)** và **chiết khấu vốn (haircut)** trong tính vốn khả dụng của công ty chứng khoán. Phần về ngân hàng đầu tư nói tới **bất cân xứng thông tin (information asymmetry)** trong phát hành lần đầu ra công chúng (IPO).
+
+Phần bình luận của Zweig thuộc lĩnh vực **tài chính hành vi (behavioral finance)**: người tư vấn đóng vai trò **cơ chế cam kết (commitment device)** chống lại các thiên kiến như quá tự tin, giao dịch quá mức (overtrading) và bán tháo vì sợ hãi; ba văn bản (kế hoạch tài chính, IPS, kế hoạch phân bổ tài sản) là công cụ chuẩn của nghề lập kế hoạch tài chính.
 
 ## Thuật ngữ
 
@@ -882,15 +920,21 @@ Chương này bàn về **vấn đề người đại diện (principal–agent 
 
 ### Graham đặt câu hỏi đúng: điều gì quyết định động cơ của người tư vấn chính là cách họ được trả tiền
 
-Điểm mạnh lâu bền nhất của chương là Graham không đánh giá người tư vấn theo trí thông minh mà theo vị trí kinh tế của họ: người thu phí trên tài sản có động cơ giữ vốn; người ăn hoa hồng có động cơ tạo giao dịch; người bảo lãnh có động cơ bán. Phân biệt "khách hàng" và "thân chủ" (bị bản dịch máy làm mất) chứa đúng ý này. Theo hiểu biết của người tổng hợp, suốt nửa thế kỷ sau, tranh luận về quản lý ngành tư vấn ở Mỹ xoay quanh đúng câu hỏi ấy: người tư vấn có phải đặt lợi ích của khách lên trước (nghĩa vụ tận tín) hay chỉ cần bán sản phẩm "phù hợp"; quy định "Regulation Best Interest" năm 2019 của SEC là một nấc của cuộc tranh luận đó. Lời khuyên của Zweig hỏi thẳng "anh/chị có nhận tiền từ bên thứ ba không" là cách áp dụng trực tiếp ý của Graham.
+Điểm mạnh lâu bền nhất của chương là Graham không đánh giá người tư vấn theo trí thông minh mà theo vị trí kinh tế của họ: người thu phí trên tài sản có động cơ giữ vốn; người ăn hoa hồng có động cơ tạo giao dịch; người bảo lãnh có động cơ bán. Phân biệt "khách hàng" và "thân chủ" (bị bản dịch máy làm mất) chứa đúng ý này.
+
+Theo hiểu biết của người tổng hợp, suốt nửa thế kỷ sau, tranh luận về quản lý ngành tư vấn ở Mỹ xoay quanh đúng câu hỏi ấy: người tư vấn có phải đặt lợi ích của khách lên trước (nghĩa vụ tận tín) hay chỉ cần bán sản phẩm "phù hợp"; quy định "Regulation Best Interest" năm 2019 của SEC là một nấc của cuộc tranh luận đó. Lời khuyên của Zweig hỏi thẳng "anh/chị có nhận tiền từ bên thứ ba không" là cách áp dụng trực tiếp ý của Graham.
 
 ### Lời khuyên giữ chứng khoán ở ngân hàng nghe lỗi thời, nhưng ý về rủi ro lưu ký và tính độc lập vẫn còn nguyên giá trị
 
-Như Zweig ghi, giao dịch điện tử và SIPC đã làm việc giao nhận chứng khoán qua ngân hàng trở nên không cần thiết về thủ tục. Nhưng ý sâu hơn của Graham, rằng tài sản của nhà đầu tư không nên phụ thuộc vào sức khoẻ tài chính và sự trung thực của chính người quản lý, vẫn đúng. Theo hiểu biết của người tổng hợp, vụ lừa đảo Bernard Madoff bị phát hiện cuối năm 2008 là ví dụ điển hình: công ty của Madoff vừa quản lý tiền vừa tự giữ tài sản và tự phát hành sao kê, không có bên lưu ký độc lập. Các vụ sụp đổ sàn giao dịch tiền mã hoá về sau (như FTX năm 2022) cũng cho thấy nguy cơ khi nơi giữ tài sản của khách dùng chính tài sản đó để đầu cơ, giống hệt cơ chế Graham mô tả ở các công ty môi giới năm 1969. Câu "phòng bệnh hơn chữa bệnh" của Graham vì thế không hề lỗi thời; chỉ có công cụ thực hiện là thay đổi.
+Như Zweig ghi, giao dịch điện tử và SIPC đã làm việc giao nhận chứng khoán qua ngân hàng trở nên không cần thiết về thủ tục. Nhưng ý sâu hơn của Graham, rằng tài sản của nhà đầu tư không nên phụ thuộc vào sức khoẻ tài chính và sự trung thực của chính người quản lý, vẫn đúng.
+
+Theo hiểu biết của người tổng hợp, vụ lừa đảo Bernard Madoff bị phát hiện cuối năm 2008 là ví dụ điển hình: công ty của Madoff vừa quản lý tiền vừa tự giữ tài sản và tự phát hành sao kê, không có bên lưu ký độc lập. Các vụ sụp đổ sàn giao dịch tiền mã hoá về sau (như FTX năm 2022) cũng cho thấy nguy cơ khi nơi giữ tài sản của khách dùng chính tài sản đó để đầu cơ, giống hệt cơ chế Graham mô tả ở các công ty môi giới năm 1969. Câu "phòng bệnh hơn chữa bệnh" của Graham vì thế không hề lỗi thời; chỉ có công cụ thực hiện là thay đổi.
 
 ### Số liệu và thể chế năm 1972 và 2003 phần lớn đã khác
 
-Mức hoa hồng cố định, một trong những "điều kiện thuận lợi" Graham kể, bị bãi bỏ năm 1975; đến cuối thập niên 2010 phí giao dịch cổ phiếu ở nhiều công ty môi giới trực tuyến Mỹ về 0 (theo hiểu biết của người tổng hợp). AIMR thành CFA Institute, NASD thành FINRA, các địa chỉ web Zweig nêu phần lớn đã đổi. Ngưỡng tài sản tối thiểu 1–5 triệu USD của công ty tư vấn và ngưỡng 100.000 USD của Zweig đã bị phá vỡ phần nào bởi các dịch vụ "tư vấn tự động" (robo-advisor) xuất hiện từ khoảng 2008–2010, quản lý danh mục quỹ chỉ số với phí thường dưới 0,5% một năm và tài khoản rất nhỏ (theo hiểu biết của người tổng hợp). Ngưỡng phí 1% của Zweig vì thế ngày nay có thể coi là trần cao chứ không còn là mức chuẩn.
+Mức hoa hồng cố định, một trong những "điều kiện thuận lợi" Graham kể, bị bãi bỏ năm 1975; đến cuối thập niên 2010 phí giao dịch cổ phiếu ở nhiều công ty môi giới trực tuyến Mỹ về 0 (theo hiểu biết của người tổng hợp). AIMR thành CFA Institute, NASD thành FINRA, các địa chỉ web Zweig nêu phần lớn đã đổi.
+
+Ngưỡng tài sản tối thiểu 1–5 triệu USD của công ty tư vấn và ngưỡng 100.000 USD của Zweig đã bị phá vỡ phần nào bởi các dịch vụ "tư vấn tự động" (robo-advisor) xuất hiện từ khoảng 2008–2010, quản lý danh mục quỹ chỉ số với phí thường dưới 0,5% một năm và tài khoản rất nhỏ (theo hiểu biết của người tổng hợp). Ngưỡng phí 1% của Zweig vì thế ngày nay có thể coi là trần cao chứ không còn là mức chuẩn.
 
 ### Cảnh báo về môi giới khuyến khích đầu cơ lặp lại ở mỗi thế hệ công nghệ
 
@@ -902,8 +946,213 @@ Graham hy vọng chứng chỉ CFA sẽ đưa nghề phân tích lên chuẩn ch
 
 ### Phần bình luận của Zweig chuyển trọng tâm từ "ai biết chọn cổ phiếu" sang "ai giúp bạn kiểm soát hành vi"
 
-Graham hỏi người tư vấn có làm hỏng tiền của bạn không; Zweig hỏi người tư vấn có giữ được bạn khỏi làm hỏng tiền của chính mình không. Câu của Nick Murray và ba văn bản của Robert Veres là cách nói thực tế của tài chính hành vi. Các ngưỡng loại bỏ cụ thể (không phân tích kỹ thuật, không canh thời điểm thị trường, không bán vì một năm kém, không hứa trên 8–10%) đều rút ra từ các chương trước của Graham, nên danh sách câu hỏi thực chất là bài kiểm tra xem người tư vấn có đọc và theo cuốn sách này không. Một quan điểm trái chiều đáng nêu: có người cho rằng với quỹ chỉ số rẻ và kỷ luật tốt, nhà đầu tư không cần trả phí tư vấn hằng năm; đổi lại, những người ủng hộ tư vấn cho rằng phí đó được bù khi người tư vấn giữ khách không bán tháo trong các đợt sụp đổ như 2008–2009 hay tháng 3/2020. Lập luận của Zweig nghiêng về vế thứ hai nhưng đặt trần phí rõ ràng.
+Graham hỏi người tư vấn có làm hỏng tiền của bạn không; Zweig hỏi người tư vấn có giữ được bạn khỏi làm hỏng tiền của chính mình không. Câu của Nick Murray và ba văn bản của Robert Veres là cách nói thực tế của tài chính hành vi.
+
+Các ngưỡng loại bỏ cụ thể (không phân tích kỹ thuật, không canh thời điểm thị trường, không bán vì một năm kém, không hứa trên 8–10%) đều rút ra từ các chương trước của Graham, nên danh sách câu hỏi thực chất là bài kiểm tra xem người tư vấn có đọc và theo cuốn sách này không.
+
+Một quan điểm trái chiều đáng nêu: có người cho rằng với quỹ chỉ số rẻ và kỷ luật tốt, nhà đầu tư không cần trả phí tư vấn hằng năm; đổi lại, những người ủng hộ tư vấn cho rằng phí đó được bù khi người tư vấn giữ khách không bán tháo trong các đợt sụp đổ như 2008–2009 hay tháng 3/2020. Lập luận của Zweig nghiêng về vế thứ hai nhưng đặt trần phí rõ ràng.
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Bài học có thể áp dụng ở mức định tính cho mọi thị trường, kể cả Việt Nam: (1) trước khi nghe lời khuyên, hãy hỏi người khuyên được trả tiền thế nào: nhân viên môi giới hưởng thu nhập theo giá trị giao dịch có động cơ giống hệt "customers' man" của Graham; (2) không chờ kết quả trên trung bình từ lời khuyên miễn phí, nhất là các "nhóm khuyến nghị", hội nhóm mạng xã hội hay người quen; (3) xem các câu như "cam kết lợi nhuận", "chắc chắn thắng", "phải vào ngay", "cơ hội của cả đời" là tín hiệu báo động như danh sách của Lubin; (4) tự kiểm tra tư cách pháp lý của người tư vấn và công ty qua cơ quan quản lý chứng khoán, và hiểu rõ tiền và chứng khoán của mình được lưu ký ở đâu; (5) với nhà đầu tư phòng thủ, nói rõ và lặp lại loại tài sản mình muốn mua, thay vì để người tư vấn dẫn vào cổ phiếu đầu cơ hay chứng khoán mới phát hành. Người tổng hợp không đưa số liệu về thị trường Việt Nam.
+Bài học có thể áp dụng ở mức định tính cho mọi thị trường, kể cả Việt Nam:
+
+- trước khi nghe lời khuyên, hãy hỏi người khuyên được trả tiền thế nào: nhân viên môi giới hưởng thu nhập theo giá trị giao dịch có động cơ giống hệt "customers' man" của Graham;
+- không chờ kết quả trên trung bình từ lời khuyên miễn phí, nhất là các "nhóm khuyến nghị", hội nhóm mạng xã hội hay người quen;
+- xem các câu như "cam kết lợi nhuận", "chắc chắn thắng", "phải vào ngay", "cơ hội của cả đời" là tín hiệu báo động như danh sách của Lubin;
+- tự kiểm tra tư cách pháp lý của người tư vấn và công ty qua cơ quan quản lý chứng khoán, và hiểu rõ tiền và chứng khoán của mình được lưu ký ở đâu;
+- với nhà đầu tư phòng thủ, nói rõ và lặp lại loại tài sản mình muốn mua, thay vì để người tư vấn dẫn vào cổ phiếu đầu cơ hay chứng khoán mới phát hành.
+
+Người tổng hợp không đưa số liệu về thị trường Việt Nam.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: sáu nhánh lớn đi theo các mục của phần Nội dung chi tiết (Phần A, Mục 1–9 là chương của Graham về nghịch lý của lời khuyên đầu tư, công ty tư vấn và dịch vụ tài chính, công ty môi giới và CFA, khủng hoảng môi giới 1969–1970, ngân hàng đầu tư và tóm tắt; Phần B, Mục 1–5 là bình luận của Zweig năm 2003), mỗi nhánh ghi luận điểm, ngưỡng số, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: đi xin lời khuyên đầu tư chỉ hợp lý khi chỉ đòi kết quả bình thường`"]
+  n1["`Phần A, Mục 1 — Nghịch lý của lời khuyên đầu tư (Graham)`"]
+  n0 --- n1
+  n2["`Xin lời khuyên đầu tư là nhờ người khác chỉ cách kiếm tiền, một ý tưởng có phần ngây thơ`"]
+  n1 --- n2
+  n3["`Doanh nhân thuê chuyên gia cho nhiều việc, nhưng tạo ra lợi nhuận là việc của chính họ`"]
+  n1 --- n3
+  n4["`Với kết quả bình thường, người tư vấn bảo vệ khách khỏi sai lầm và giúp đạt mức đồng vốn xứng đáng`"]
+  n1 --- n4
+  n5["`Ai đòi hoặc hứa hơn mức trung bình là đang đòi hoặc hứa quá khả năng thực hiện`"]
+  n1 --- n5
+  n6["`Năm nguồn tư vấn lộn xộn: người thân, chủ ngân hàng, môi giới, dịch vụ tài chính, người tư vấn chuyên nghiệp`"]
+  n1 --- n6
+  n7["`Zweig, khảo sát cuối 2002: 24% dựa vào người lập kế hoạch tài chính, 17% vợ/chồng hoặc bạn bè, 16% môi giới`"]
+  n1 --- n7
+  n8["`Dựa chủ yếu vào người khác thì giới hạn vào đầu tư chuẩn mực, bảo thủ, #quot;không cần trí tưởng tượng#quot;`"]
+  n1 --- n8
+  n9["`Đủ sức tự phán xét gợi ý khác thường là đã chuyển từ nhà đầu tư phòng thủ sang nhà đầu tư năng động`"]
+  n1 --- n9
+  n10["`Phần A, Mục 2–3 — Công ty tư vấn, ngân hàng uỷ thác, dịch vụ tài chính`"]
+  n0 --- n10
+  n11["`Công ty tư vấn lâu năm thu phí hằng năm, khiêm tốn trong lời hứa, không cố kiếm lời từ dao động thị trường`"]
+  n10 --- n11
+  n12["`Hiếm khi quá 10% quỹ nằm ngoài cổ phiếu công ty lớn và trái phiếu chính phủ`"]
+  n10 --- n12
+  n13["`Mục tiêu là giữ vốn gốc và thu nhập chấp nhận được, giá trị chính là tránh sai lầm đắt giá`"]
+  n10 --- n13
+  n14["`Đem lại đúng những gì nhà đầu tư phòng thủ có quyền chờ đợi, bộ phận uỷ thác ngân hàng lớn cũng vậy`"]
+  n10 --- n14
+  n15["`Zweig 2003: thường chỉ nhận khách có từ 1 triệu USD tài sản tài chính, có nơi 5 triệu USD`"]
+  n10 --- n15
+  n16["`Moody's, Standard #amp; Poor's gom dữ liệu làm nền cho mọi phân tích chứng khoán nghiêm túc`"]
+  n10 --- n16
+  n17["`Dự báo thị trường nói nước đôi kiểu lời sấm Delphi, chỉ cho thấy ai cũng muốn được nói thị trường đi đâu`"]
+  n10 --- n17
+  n18["`Thói xấu: mua khi triển vọng ngắn hạn tốt, bán khi xấu, bất kể giá hiện tại`"]
+  n10 --- n18
+  n19["`Nhà đầu tư thông minh không mua bán chỉ dựa vào khuyến nghị của dịch vụ tài chính`"]
+  n10 --- n19
+  n20["`Phần A, Mục 4–5 — Công ty môi giới, chuyên viên phân tích và chứng chỉ CFA`"]
+  n0 --- n20
+  n21["`Doanh nghiệp có khách hàng, người hành nghề chuyên môn có thân chủ, môi giới chưa thành nghề chuyên môn thật`"]
+  n20 --- n21
+  n22["`Người đầu cơ như một nhóm gần như chắc thua, nên môi giới chuyên nghiệp thật phải làm giảm giao dịch`"]
+  n20 --- n22
+  n23["`Đa số môi giới sống bằng hoa hồng, chiều những khách đem lại nhiều tiền nhất vốn muốn mẹo đầu cơ`"]
+  n20 --- n23
+  n24["`Nhân viên môi giới đứng đắn nhưng thiên về đầu cơ, nhà đầu tư phải nói rõ mình không cần #quot;mẹo#quot;`"]
+  n20 --- n24
+  n25["`Chuyên viên phân tích bị coi là phải dự báo giá, phân tích với một mắt dán vào bảng giá`"]
+  n20 --- n25
+  n26["`Khi họ tin khách quan tâm tới giá trị chứ không phải giá niêm yết, khuyến nghị sẽ có ích`"]
+  n20 --- n26
+  n27["`CFA ra đời năm 1963, mô phỏng danh hiệu CPA, Graham vận động gần hai thập kỷ`"]
+  n20 --- n27
+  n28["`Khảo sát Stanley Block 1999: phần lớn người có CFA đặt tăng trưởng trên chất lượng lợi nhuận khi định P/E`"]
+  n20 --- n28
+  n29["`Zweig: môi giới Internet cuối thập niên 1990 dùng quảng cáo thúc khách giao dịch nhiều hơn, nhanh hơn`"]
+  n20 --- n29
+  n30["`Phần A, Mục 6 — Khủng hoảng công ty môi giới thành viên NYSE 1969–1970`"]
+  n0 --- n30
+  n31["`Nhiều thành viên NYSE phá sản hoặc suýt phá sản, lần đầu tiên trong nửa thế kỷ`"]
+  n30 --- n31
+  n32["`Điều kiện rất thuận lợi: hoa hồng tối thiểu cố định, 37 năm SEC giám sát, số thành viên bị giới hạn`"]
+  n30 --- n32
+  n33["`Năm 1970 NYSE khớp 2.937 triệu cổ phiếu, gấp khoảng bốn lần bình quân 712 triệu của 15 năm đến 1964`"]
+  n30 --- n33
+  n34["`Nguyên nhân chính: vốn công ty giữ bằng cổ phiếu đầu cơ của thành viên hợp danh, mất khi giá giảm 1969`"]
+  n30 --- n34
+  n35["`Graham: đầu cơ bằng phần vốn lẽ ra để bảo vệ khách là không thể tha thứ`"]
+  n30 --- n35
+  n36["`Zweig: Ross Perot cho Du Pont, Glore, Forgan vay hơn 50 triệu USD, năm 1970 có 7 công ty phá sản`"]
+  n30 --- n36
+  n37["`Không dùng tài khoản ký quỹ thì chỉ giao dịch với thành viên NYSE, để ngân hàng của mình giao nhận chứng khoán`"]
+  n30 --- n37
+  n38["`Zweig: SIPC lập năm 1970 và giao dịch điện tử làm việc giao nhận qua ngân hàng không còn cần thiết`"]
+  n30 --- n38
+  n39["`Phần A, Mục 7–9 — Ngân hàng đầu tư, người tư vấn khác và tóm tắt`"]
+  n0 --- n39
+  n40["`Ngân hàng đầu tư là bộ phận đáng trọng nhất Phố Wall vì cung cấp vốn mới cho công nghiệp`"]
+  n39 --- n40
+  n41["`Quan hệ với nhà đầu tư về bản chất là người bán với người mua`"]
+  n39 --- n41
+  n42["`Định chế mua trái phiếu thì sành sỏi, cá nhân mua cổ phiếu mới phải dựa vào đạo đức bên bán`"]
+  n39 --- n42
+  n43["`Bản cáo bạch theo quy định SEC quá dài, chỉ một tỷ lệ nhỏ người mua đọc kỹ`"]
+  n39 --- n43
+  n44["`Cảnh báo năm 1959 ứng nghiệm: phát hành kém chất lượng 1960–1961 và 1968–1969 ở giá cao phi lý`"]
+  n39 --- n44
+  n45["`Chủ ngân hàng địa phương từng trải, bảo thủ, giữ nhà đầu tư thiếu chuyên môn trên đường phòng thủ`"]
+  n39 --- n45
+  n46["`Người thân, bạn bè: #quot;Nhiều lời khuyên tồi được cho không#quot;`"]
+  n39 --- n46
+  n47["`Nhà đầu tư phòng thủ nói đi nói lại: chỉ mua trái phiếu chất lượng cao và cổ phiếu công ty lớn giá không cao`"]
+  n39 --- n47
+  n48["`Nhà đầu tư năng động đòi giải thích chi tiết và tự phán xét từng khuyến nghị`"]
+  n39 --- n48
+  n49["`Nhận lời khuyên không trả tiền thì không có quyền chờ kết quả trên trung bình`"]
+  n39 --- n49
+  n50["`Phần B — Bình luận của Zweig (2003)`"]
+  n0 --- n50
+  n51["`Mục 1–2: thuê người tư vấn không có gì đáng xấu hổ`"]
+  n50 --- n51
+  n52["`Đề từ Montaigne: cô gái xứ Miletus làm Thales vấp ngã, nhắc ông nhìn vào chính mình`"]
+  n51 --- n52
+  n53["`Người tư vấn giỏi cho ý kiến thứ hai, là người để đổ lỗi và động viên đầu tư đều đặn`"]
+  n51 --- n53
+  n54["`Dấu hiệu cần trợ giúp: danh mục mất hơn 40% từ đầu 2000 đến cuối 2002`"]
+  n51 --- n54
+  n55["`39 cổ phiếu Internet #quot;khác nhau#quot; chưa phải đa dạng hoá, vì mọi tài sản cùng lên cùng xuống`"]
+  n51 --- n55
+  n56["`Ngân sách mất kiểm soát, hoặc thay đổi lớn: tự kinh doanh, cha mẹ già, học phí đại học của con`"]
+  n51 --- n56
+  n57["`Mục 3: tin, nhưng kiểm chứng`"]
+  n50 --- n57
+  n58["`Kẻ lừa đảo tài chính sống nhờ khiến bạn tin họ và không điều tra họ`"]
+  n57 --- n58
+  n59["`Tra Google tìm các chữ #quot;phạt#quot;, #quot;khiếu nại#quot;, #quot;kỷ luật#quot;, hỏi cơ quan quản lý chứng khoán bang`"]
+  n57 --- n59
+  n60["`Tự lấy bản mẫu ADV đầy đủ, vì kẻ gian hay rút các trang công bố kỷ luật`"]
+  n57 --- n60
+  n61["`27 câu báo động của Lubin như #quot;được bảo đảm#quot;, #quot;cơ hội của cả đời#quot;, #quot;chúng tôi có thể đánh bại thị trường#quot;`"]
+  n57 --- n61
+  n62["`Mục 4–5: phỏng vấn người tư vấn và đánh bại chính mình`"]
+  n50 --- n62
+  n63["`Dùng phân tích kỹ thuật hay canh thời điểm thị trường là tín hiệu để loại`"]
+  n62 --- n63
+  n64["`Trả lời #quot;bán#quot; khi một khoản đầu tư kém cả năm thì không đáng thuê`"]
+  n62 --- n64
+  n65["`Phí trên 1% tài sản mỗi năm thì nên tìm người khác, hứa trên 8–10% một năm là phi thực tế`"]
+  n62 --- n65
+  n66["`Chương 3 ước tính cổ phiếu Mỹ dài hạn sinh lợi khoảng 6% một năm, khoảng 4% sau lạm phát`"]
+  n62 --- n66
+  n67["`Dưới 100.000 USD thì mua rổ quỹ chỉ số chi phí thấp được đa dạng hoá`"]
+  n62 --- n67
+  n68["`Bắt buộc nộp ADV mà không đưa thì đứng dậy đi về, giữ chặt ví`"]
+  n62 --- n68
+  n69["`Nick Murray: thuê người tư vấn không phải để quản lý tiền mà để quản lý bạn`"]
+  n62 --- n69
+  n70["`Ba văn bản soạn chung: kế hoạch tài chính, tuyên bố chính sách đầu tư, kế hoạch phân bổ tài sản`"]
+  n62 --- n70
+  n71["`Thông điệp xuyên suốt`"]
+  n0 --- n71
+  n72["`Cách người tư vấn được trả tiền quyết định động cơ của họ: phí trên tài sản, hoa hồng hay bán chứng khoán mới`"]
+  n71 --- n72
+  n73["`Chỉ đòi kết quả bình thường, ai hứa kết quả ngoạn mục là tín hiệu cảnh báo`"]
+  n71 --- n73
+  n74["`Graham hỏi người tư vấn có làm hỏng tiền của bạn không, Zweig hỏi họ có giữ bạn khỏi tự làm hỏng không`"]
+  n71 --- n74
+  class n0 root
+  class n1,n10,n20,n30,n39,n50,n71 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n69,n70,n72,n73,n74 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 10 "L'investisseur et ses conseillers" (PDF trang 222–234) và "Commentaire sur le chapitre 10" (PDF trang 234–242). Chú thích của Graham cho chương này nằm ở PDF trang 486; chú thích của Zweig nằm ở PDF trang 555–558.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), người điều hành quỹ Graham-Newman và là thầy của Warren Buffett (văn bản 1971–1972, ấn bản thứ tư xuất bản 1973); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 9 ([C09-dau-tu-vao-quy.md](C09-dau-tu-vao-quy.md)) đã xét cách phổ biến nhất để giao tiền cho người khác quản lý: mua chứng chỉ quỹ tương hỗ (quỹ mở) và quỹ đóng.
+
+Chương 10 mở rộng câu hỏi sang mọi nguồn tư vấn còn lại: công ty tư vấn đầu tư, bộ phận uỷ thác của ngân hàng, các dịch vụ thông tin tài chính, công ty môi giới (người môi giới và chuyên viên phân tích), ngân hàng đầu tư, chủ ngân hàng địa phương, người thân và bạn bè. Đây là chương cuối của nhóm chương bàn về chính sách danh mục và thái độ của nhà đầu tư (Chương 1 đến 10). Ngay trong chương, Graham báo trước rằng "phần tiếp theo của cuốn sách" sẽ bàn về phân tích chứng khoán (security analysis), tức Chương 11 ([C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md](C11-phan-tich-chung-khoan-cho-nha-dau-tu-khong-chuyen.md)) trở đi.
+
+Phép phân chia nhà đầu tư phòng thủ và nhà đầu tư năng động của Chương 1 ([C01-dau-tu-va-dau-co.md](C01-dau-tu-va-dau-co.md)) và các "đơn thuốc" danh mục của Chương 4 và 5 là thước đo Graham dùng ở đây để quyết định nhà đầu tư nên nghe ai và nghe đến đâu.
+
+## Lưu ý
+
+- **Bản dịch máy làm mất một ý quan trọng ở mục "Conseils des maisons de courtage" (PDF trang 226).** Bản gốc tiếng Anh phân biệt *customers* (khách hàng của một cửa hàng, một doanh nghiệp) và *clients* (thân chủ của một người hành nghề chuyên môn như luật sư, bác sĩ). Bản tiếng Pháp dịch cả hai thành "clients", nên câu "liệu «clients» hay «clients» là tên gọi thích hợp hơn" và "Une entreprise a des clients; une personne ou une organisation professionnelle a des clients" trở nên vô nghĩa. Bản tổng hợp diễn giải theo nghĩa gốc.
+- Bản dịch dùng "analyste de (la) sécurité" cho *security analyst* (chuyên viên phân tích chứng khoán), "stock" cho cổ phiếu, "courtier du client" cho *customers' broker* (nhân viên môi giới phục vụ khách hàng), "bailliage" cho *bailiwick* (lĩnh vực riêng), "courtiers en valeurs mobilières de nuit" cho *fly-by-night* (những công ty môi giới "ma", nay đây mai đó), "phrasé Delphique" cho cách nói nước đôi kiểu lời sấm Delphi, "passe simplement en revue les motions" cho *going through the motions* (làm chiếu lệ), "planificateur financier payant" cho *fee-only planner* (người lập kế hoạch tài chính chỉ thu phí trực tiếp từ khách, không nhận hoa hồng), "taxes" cho thuế, "Banque principale" cho *prime bank* (một kiểu lừa đảo "trái phiếu ngân hàng hạng nhất"). Các chỗ này được diễn giải theo nghĩa đúng.
+- Chú thích của Zweig về Goodbody & Co. (PDF trang 557) viết rằng công ty này "suýt sụp đổ vào cuối những năm 1970 nếu Merrill Lynch không mua lại". Đây là lỗi dịch: sự kiện xảy ra vào cuối năm **1970** (theo hiểu biết của người tổng hợp, không tra cứu; điều này cũng khớp với ngữ cảnh khủng hoảng 1969–1970 Graham mô tả).
+- Chú thích 1 của Graham (PDF trang 486) nói Liên đoàn các nhà phân tích tài chính (Financial Analysts Federation) "nay gồm các hội thành viên với hơn 50.000 hội viên", trong khi ngay đầu Chương 11 Graham viết là "hơn 13.000 hội viên". Con số 50.000 nhiều khả năng là số cập nhật của ấn bản 2003 (khớp với chú thích của Zweig: "hơn 50.000 nhà phân tích trên thế giới đã có chứng chỉ CFA"); bản PDF không còn chữ in đậm để phân biệt lời Graham và lời Zweig.
+- Graham viết "37 năm SEC giám sát các sở giao dịch" (tính từ 1934 đến 1971). Các khuyến nghị về giao nhận chứng khoán qua ngân hàng đã lỗi thời từ lâu: theo chú thích của Zweig, giao dịch nay đã điện tử hoá và Công ty Bảo vệ Nhà đầu tư Chứng khoán (SIPC, lập năm 1970) bảo hiểm tài khoản khi công ty môi giới mất khả năng thanh toán.
+- Các địa chỉ web Zweig nêu năm 2003 (www.advisorinfo.sec.gov, www.iard.com, http://pdpi.nasdr.com/PDPI, www.multex.com, www.aimrpubs.org) phần lớn đã đổi hoặc ngừng hoạt động. Theo hiểu biết của người tổng hợp, không tra cứu: Hiệp hội AIMR đổi tên thành CFA Institute năm 2004; NASD sáp nhập vào FINRA năm 2007 và công cụ tra cứu nhân viên môi giới nay là BrokerCheck; hồ sơ ADV của người tư vấn được tra qua trang IAPD của SEC.
+- Mức hoa hồng môi giới cố định mà Graham nhắc tới (một trong các "điều kiện thuận lợi" của ngành môi giới năm 1970) đã bị bãi bỏ ở Mỹ từ ngày 1/5/1975; đến cuối thập niên 2010 nhiều công ty môi giới trực tuyến còn bỏ hẳn phí giao dịch cổ phiếu (theo hiểu biết của người tổng hợp, không tra cứu).
+- Zweig hỏi "Bạn thấy tỷ suất lợi nhuận nào là hợp lý? (Hãy dựa câu trả lời vào Chương 3)". Nội dung được dẫn: trong bình luận Chương 3, Zweig ước tính đầu năm 2003 cổ phiếu Mỹ về dài hạn có thể sinh lợi khoảng 6% một năm (khoảng 4% sau lạm phát), cộng từ tỷ suất cổ tức 1,9%, tăng trưởng lợi nhuận thực 1,5–2% và lạm phát khoảng 2,4%.
+- Đoạn đầu file C10.txt (PDF trang 222) là phần cuối bình luận Chương 9 (câu của Charles Ellis "nếu chưa sẵn sàng sống chung thì đừng cưới"); phần đó thuộc file Chương 9, không đưa vào đây.
+- Chương này không có bảng (TABLEAU) hay hình (FIGURE). Phần bình luận có một khung "MOTS D'AVERTISSEMENT" (danh sách 27 câu cảnh báo) được chép đầy đủ ở Phần B.

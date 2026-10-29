@@ -1,31 +1,22 @@
 # Lời bạt (Postscript)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; "Postscript" (PDF trang 443–445) và "Commentaire sur Postscript" (PDF trang 445–446); chú thích của Graham ở mục "Postscript" trong phần chú thích cuối sách (PDF trang 490) và các chú thích của Zweig (PDF trang 549–550).
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
-**Vị trí trong lập luận của cả cuốn sách:** [Chương 20](C20-bien-an-toan.md) gom toàn bộ cuốn sách vào khái niệm biên an toàn (margin of safety), và bình luận của Zweig cho chương đó kết thúc bằng "vụ cá cược của Pascal": người đầu tư dồn gần hết tiền vào cổ phiếu Internet năm 1999 đã chọn sai phía của vụ cá cược, vì họ chắc mình đúng nên không làm gì để tự bảo vệ trước hậu quả nếu mình sai; chỉ cần luôn đa dạng hoá và không ném tiền theo các trào lưu điên rồ nhất của ông Thị Trường (Mr. Market), nhà đầu tư có thể chắc rằng sai lầm của mình không bao giờ thành thảm hoạ. Lời bạt là trang cuối cùng Graham viết cho người đọc. Sau gần 450 trang dạy sự thận trọng, đa dạng hoá và mua rẻ, Graham kể một câu chuyện có vẻ ngược lại: một quyết định duy nhất, dồn khoảng một phần năm quỹ vào một công ty, đem lại nhiều lợi nhuận hơn tổng mọi quyết định khác trong 20 năm. Graham dùng câu chuyện để nói về vai trò của may mắn, của sự chuẩn bị, và để khép lại lời chế giễu khẩu hiệu "Ai cũng phải giàu" của John J. Raskob mà ông đã nêu ở [phần Giới thiệu](C00-gioi-thieu.md). Bình luận của Zweig giải mã câu chuyện (hai "người cộng sự" là Graham và Jerome Newman; công ty là GEICO) và chuyển ý sang bản chất của đầu tư: chấp nhận và quản lý sự bất định. Sau Lời bạt là bảy phụ lục, mở đầu bằng bài nói năm 1984 của Warren Buffett ([Phụ lục 1](PL1-nhung-sieu-nha-dau-tu-cua-graham-va-doddsville.md)), bằng chứng thực tế rằng phương pháp của Graham tiếp tục đem lại kết quả cho học trò của ông; các phụ lục còn lại ở [Phụ lục 2–7](PL2-7-cac-phu-luc-khac.md).
-**Ý chính:** Graham muốn người đọc hiểu rằng **có nhiều cách để kiếm tiền và giữ được tiền ở Wall Street; một cú may mắn, hoặc một quyết định cực kỳ sáng suốt (mà khó phân biệt được với may mắn), có thể đáng giá hơn cả một đời làm việc cần mẫn; nhưng phía sau cú may mắn ấy thường phải có một nền tảng chuẩn bị và năng lực có kỷ luật: phải đủ uy tín để cơ hội tìm đến mình, và phải có tiền, có óc phán đoán, có can đảm để nắm lấy nó.** Ví dụ trung tâm là hai người cộng sự quản lý một quỹ đa dạng hoá với hơn một trăm loại chứng khoán, bình quân lãi khoảng 20% một năm. Năm cuốn sách ra đời lần đầu (1949, với giao dịch thực hiện năm 1948), họ mua một nửa quyền sở hữu một công ty đang tăng trưởng với giá vừa phải so với lợi nhuận và tài sản, chiếm khoảng một phần năm quỹ. Giá cổ phiếu công ty này sau đó lên gấp 200 lần trở lên so với giá đã trả; dù thấy giá đã quá cao theo tiêu chuẩn của chính mình, họ vẫn giữ vì coi đó là "doanh nghiệp gia đình", và lợi nhuận từ quyết định duy nhất này vượt xa tổng lợi nhuận của 20 năm hoạt động chuyên môn còn lại. Graham không hứa điều tương tự cho mọi người đọc, nhưng khẳng định cơ hội thú vị luôn có nhiều, và nhà đầu tư thông minh, năng động sẽ thấy cả niềm vui lẫn lợi nhuận trong "rạp xiếc ba sân khấu" của thị trường tài chính.
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **đầu tư thành công là quản lý rủi ro chứ không phải né tránh rủi ro**. Khoản đặt cược vào GEICO (712.500 USD, khoảng 25% tài sản quỹ Graham-Newman năm 1948) trông có vẻ liều lĩnh, nhưng Graham đã xác lập cẩn thận rằng ông có thể thanh lý GEICO với giá ít nhất bằng giá đã trả, nên rủi ro tài chính rất thấp; cái ông cần là can đảm để chịu rủi ro tâm lý của một khoản đặt cược lớn vào một cổ phiếu ít người biết. Zweig nhắc rằng sự bất định (cuối thị trường giá lên thập niên 1990, kinh tế trì trệ, gian lận doanh nghiệp, khủng bố và chiến tranh) là điều kiện cơ bản và vĩnh viễn của đầu tư: "bất định" và "đầu tư" là hai từ đồng nghĩa, và muốn đầu tư thì phải tin vào một tương lai tốt hơn. Zweig kết thúc cuốn sách bằng đoạn Ulysses giục các thuỷ thủ giương buồm về phía tây vượt qua Cột trụ Hercules trong *Hoả ngục* (Inferno) của Dante, đoạn thơ Graham yêu thích lúc cuối đời: đầu tư cũng là một cuộc phiêu lưu vào vùng chưa biết, và có Graham dẫn đường thì hành trình ấy vừa an toàn, tự tin vừa phiêu lưu.
+Graham muốn người đọc hiểu rằng **có nhiều cách để kiếm tiền và giữ được tiền ở Wall Street; một cú may mắn, hoặc một quyết định cực kỳ sáng suốt (mà khó phân biệt được với may mắn), có thể đáng giá hơn cả một đời làm việc cần mẫn; nhưng phía sau cú may mắn ấy thường phải có một nền tảng chuẩn bị và năng lực có kỷ luật: phải đủ uy tín để cơ hội tìm đến mình, và phải có tiền, có óc phán đoán, có can đảm để nắm lấy nó.**
 
-> **Lưu ý:**
-> - **Phần của file này:** văn bản Lời bạt bắt đầu ở dòng "Postscript" giữa PDF trang 443 (nửa trên trang là đoạn cuối bình luận của Zweig cho Chương 20, thuộc [file Chương 20](C20-bien-an-toan.md)); bình luận của Zweig kết thúc ở PDF trang 446, trước tiêu đề "Annexes".
-> - **"Một phần năm" và "25%":** Graham viết khoản mua chiếm "khoảng một phần năm" (environ un cinquième) quỹ; Zweig, trong bình luận và trong chú thích, viết "25%" quỹ. Hai con số không khớp hẳn; sách không giải thích. Có thể Graham nói theo cách khiêm tốn, hoặc hai người tính trên hai mẫu số khác nhau.
-> - **Lợi nhuận 20% một năm chưa trừ phí:** trong "Ghi chú về Benjamin Graham" (đầu sách), Zweig chú thích rằng mức lợi nhuận bình quân 20% một năm Graham nêu trong Lời bạt "dường như không tính tới phí quản lý"; Zweig dẫn chỗ này bằng số trang bản tiếng Anh ("p. 532") mà bản PDF không có.
-> - **Các chỗ dịch máy lệch nghĩa đáng kể:**
->   - "il valait mieux être prudent et prudent plutôt que d'essayer de gagner tout l'argent du monde": bản dịch lặp chữ; nghĩa là "chắc chắn và an toàn thì tốt hơn là cố kiếm hết tiền của thiên hạ".
->   - "une approche assez unique des opérations de sécurité" nghĩa là một phương pháp khá riêng trong việc kinh doanh chứng khoán (security operations), không liên quan "an ninh".
->   - "ont été trop rapides pour éliminer les problèmes qui avaient atteint des niveaux qu'ils jugeaient plus attractifs" nói ngược ý: theo mạch văn, họ **nhanh chóng bán** các cổ phiếu (issues, bị dịch thành "problèmes") đã tăng lên mức họ thấy **không còn** hấp dẫn. "Plus de cent problématiques différentes" là "hơn một trăm loại chứng khoán khác nhau".
->   - "ils représentaient en moyenne environ 20% par an" nghĩa là họ "đạt bình quân khoảng 20% một năm".
->   - "un demi-intérêt" là "một nửa quyền sở hữu" (half-interest), tức 50% công ty.
->   - "une pause chanceuse" là "một cú may mắn" (lucky break); "plus d'une vie d'efforts de compagnon" nghĩa là "hơn cả một đời làm việc cần mẫn kiểu thợ lành nghề" (journeyman), không phải "bạn đồng hành".
->   - "ce cirque à trois anneaux" là "rạp xiếc ba sân khấu" (three-ring circus), hình ảnh quen thuộc của tiếng Anh Mỹ cho một nơi nhiều trò diễn cùng lúc.
->   - Chú thích 1 của Graham: "Un gain de marché futur de 300 millions de dollars ou plus a généré, par exemple, 50 000 $ d'éléments comptables" dịch sai cấu trúc; nghĩa là khoản lãi thị trường về sau từ 300 triệu USD trở lên **đã từng phụ thuộc vào** chỉ khoảng 50.000 USD các khoản mục kế toán (thương vụ suýt đổ vì chênh lệch nhỏ như vậy).
->   - Câu mở đầu bình luận "S uccessful investissement est sur la gestion des risques, ne pas l'éviter" là câu tiếng Anh "Successful investing is about managing risk, not avoiding it" bị dịch dở dang (chữ "Successful" còn nguyên và bị tách chữ).
->   - Chú thích 1 của Zweig: "Pour continuer à investir de la décomposition dans le jeu, vous devez vous diversifier" là câu hỏng; theo mạch văn, nghĩa là muốn còn trụ lại được trong cuộc chơi đầu tư thì phải đa dạng hoá.
->   - Bản dịch thơ Dante: "le monde dépouillé qui se cache derrière le soleil" là "thế giới không người ở phía sau mặt trời"; "cette petite veillée éveillée qui reste encore à nos sens" là "khoảng thời gian thức tỉnh ngắn ngủi còn lại cho các giác quan của chúng ta"; "et transformé nos rames en ailes pour le vol sauvage" là "biến mái chèo thành đôi cánh cho chuyến bay cuồng dại".
-> - **Đoạn thơ Dante:** Zweig ghi nguồn là *Hoả ngục* (L'Enfer), Khúc ca XXVI, câu 112–125, do chính Zweig dịch sang tiếng Anh; bản PDF là bản dịch máy từ bản dịch của Zweig.
-> - **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** GEICO, sau khi được Warren Buffett đầu tư từ năm 1976 (như Zweig nêu), đã được Berkshire Hathaway mua toàn bộ vào giữa thập niên 1990 và trở thành một trong những công ty bảo hiểm ô tô lớn nhất nước Mỹ. Danh sách nỗi lo của năm 2003 (gian lận doanh nghiệp, khủng bố, chiến tranh) về sau được nối tiếp bằng những nỗi lo khác (khủng hoảng 2008, đại dịch 2020, lạm phát và lãi suất tăng mạnh 2022), đúng như ý Zweig rằng bất định là điều kiện thường trực.
-> - Câu trích trong mục "Câu nói đáng nhớ" là tiếng Pháp đúng như PDF (kể cả lỗi dịch), kèm bản dịch tiếng Việt theo nghĩa gốc của người tổng hợp.
+Ví dụ trung tâm là hai người cộng sự quản lý một quỹ đa dạng hoá với hơn một trăm loại chứng khoán, bình quân lãi khoảng 20% một năm.
+
+Năm cuốn sách ra đời lần đầu (1949, với giao dịch thực hiện năm 1948), họ mua một nửa quyền sở hữu một công ty đang tăng trưởng với giá vừa phải so với lợi nhuận và tài sản, chiếm khoảng một phần năm quỹ.
+
+Giá cổ phiếu công ty này sau đó lên gấp 200 lần trở lên so với giá đã trả; dù thấy giá đã quá cao theo tiêu chuẩn của chính mình, họ vẫn giữ vì coi đó là "doanh nghiệp gia đình", và lợi nhuận từ quyết định duy nhất này vượt xa tổng lợi nhuận của 20 năm hoạt động chuyên môn còn lại.
+
+Graham không hứa điều tương tự cho mọi người đọc, nhưng khẳng định cơ hội thú vị luôn có nhiều, và nhà đầu tư thông minh, năng động sẽ thấy cả niềm vui lẫn lợi nhuận trong "rạp xiếc ba sân khấu" của thị trường tài chính.
+
+Zweig, viết năm 2003, bổ sung rằng **đầu tư thành công là quản lý rủi ro chứ không phải né tránh rủi ro**. Khoản đặt cược vào GEICO (712.500 USD, khoảng 25% tài sản quỹ Graham-Newman năm 1948) trông có vẻ liều lĩnh, nhưng Graham đã xác lập cẩn thận rằng ông có thể thanh lý GEICO với giá ít nhất bằng giá đã trả, nên rủi ro tài chính rất thấp; cái ông cần là can đảm để chịu rủi ro tâm lý của một khoản đặt cược lớn vào một cổ phiếu ít người biết.
+
+Zweig nhắc rằng sự bất định (cuối thị trường giá lên thập niên 1990, kinh tế trì trệ, gian lận doanh nghiệp, khủng bố và chiến tranh) là điều kiện cơ bản và vĩnh viễn của đầu tư: "bất định" và "đầu tư" là hai từ đồng nghĩa, và muốn đầu tư thì phải tin vào một tương lai tốt hơn.
+
+Zweig kết thúc cuốn sách bằng đoạn Ulysses giục các thuỷ thủ giương buồm về phía tây vượt qua Cột trụ Hercules trong *Hoả ngục* (Inferno) của Dante, đoạn thơ Graham yêu thích lúc cuối đời: đầu tư cũng là một cuộc phiêu lưu vào vùng chưa biết, và có Graham dẫn đường thì hành trình ấy vừa an toàn, tự tin vừa phiêu lưu.
 
 ## Sơ đồ
 
@@ -139,7 +130,9 @@ Zweig, viết năm 2003, bổ sung rằng **đầu tư thành công là quản l
 
 ## Ba câu hỏi Lời bạt này trả lời
 
-1. **Một người đề cao đa dạng hoá và thận trọng như Graham lại kiếm được phần lớn tài sản từ một khoản đầu tư tập trung duy nhất: điều đó có mâu thuẫn với cả cuốn sách không?** Không hẳn. Graham mua một nửa công ty (GEICO) vì giá vừa phải so với lợi nhuận và tài sản; ông còn đòi giá mua được tài sản bảo đảm 100%, tức vẫn mua với biên an toàn. Theo Zweig, nhờ vậy rủi ro tài chính rất thấp, chỉ có rủi ro tâm lý là lớn. Phần "trái nguyên tắc" duy nhất là việc giữ cổ phiếu khi giá đã vượt xa tiêu chuẩn của chính họ, và Graham thành thật gọi kết quả đó là may mắn. Zweig rút ra hệ quả ngược với cách đọc hời hợt: chính vì Graham thừa nhận đó là may mắn, người thường càng phải đa dạng hoá.
+1. **Một người đề cao đa dạng hoá và thận trọng như Graham lại kiếm được phần lớn tài sản từ một khoản đầu tư tập trung duy nhất: điều đó có mâu thuẫn với cả cuốn sách không?** Không hẳn. Graham mua một nửa công ty (GEICO) vì giá vừa phải so với lợi nhuận và tài sản; ông còn đòi giá mua được tài sản bảo đảm 100%, tức vẫn mua với biên an toàn. Theo Zweig, nhờ vậy rủi ro tài chính rất thấp, chỉ có rủi ro tâm lý là lớn.
+
+   Phần "trái nguyên tắc" duy nhất là việc giữ cổ phiếu khi giá đã vượt xa tiêu chuẩn của chính họ, và Graham thành thật gọi kết quả đó là may mắn. Zweig rút ra hệ quả ngược với cách đọc hời hợt: chính vì Graham thừa nhận đó là may mắn, người thường càng phải đa dạng hoá.
 2. **May mắn đóng vai trò gì trong thành công đầu tư?** Một cú may mắn hoặc một quyết định xuất sắc (khó phân biệt với nhau) có thể đáng giá hơn cả đời làm việc: lợi nhuận từ GEICO vượt tổng lợi nhuận 20 năm còn lại của quỹ. Nhưng may mắn thường chỉ đến với người đã chuẩn bị: đủ uy tín để cơ hội tìm đến (nhiều công ty lớn đã từ chối thương vụ trước khi nó đến tay Graham-Newman), có tiền sẵn, có óc phán đoán và có can đảm.
 3. **Nhà đầu tư nên đối xử với sự bất định thế nào?** Theo Zweig, không thể chờ hết bất định rồi mới đầu tư, vì bất định là điều kiện thường trực; "bất định" và "đầu tư" gần như đồng nghĩa. Việc cần làm là quản lý rủi ro (biên an toàn, đa dạng hoá) và giữ niềm tin vào một tương lai tốt hơn.
 
@@ -186,7 +179,11 @@ Graham hỏi: câu chuyện có bài học nào cho nhà đầu tư thông minh 
 
 **Chú thích của Zweig** (chú thích 1 của phần bình luận, gắn với đoạn về khoản đặt cược 25%): giai thoại của Graham là lời nhắc mạnh mẽ rằng những ai không xuất sắc như Graham thì luôn phải đa dạng hoá để tự bảo vệ trước rủi ro dồn quá nhiều tiền vào một khoản đầu tư. Khi chính Graham thừa nhận GEICO là "một cú may mắn", đó là tín hiệu rằng phần lớn chúng ta không thể trông vào khả năng tìm được một cơ hội như thế. Muốn trụ lại được trong cuộc chơi đầu tư, phải đa dạng hoá.
 
-Graham kết luận: tất nhiên ông không thể hứa một trải nghiệm ngoạn mục như vậy cho mọi nhà đầu tư thông minh vẫn giữ được sự thận trọng và tỉnh táo qua năm tháng. Ông sẽ không kết thúc bằng khẩu hiệu của John J. Raskob mà ông đã chế giễu ở đầu sách, "Ai cũng có thể giàu". (Ở phần Giới thiệu, Graham kể rằng năm 1929 Raskob viết trên *Ladies' Home Journal* bài "Ai cũng phải giàu": tiết kiệm 15 USD mỗi tháng đầu tư vào cổ phiếu tốt, tái đầu tư cổ tức, sẽ thành 80.000 USD sau 20 năm từ tổng vốn góp 3.600 USD; Graham tính nếu làm theo từ 1929 đến 1948 thì đầu năm 1949 chỉ có khoảng 8.500 USD. **Chú thích của Zweig** ở phần đó: Raskob (1879–1950) là thành viên hội đồng quản trị Du Pont, chủ tịch uỷ ban tài chính của General Motors, chủ tịch toàn quốc Đảng Dân chủ và người thúc đẩy xây toà nhà Empire State.) Nhưng các khả năng thú vị luôn có rất nhiều trên sân khấu tài chính, và nhà đầu tư thông minh, năng động sẽ tìm được cả niềm vui lẫn lợi nhuận trong "rạp xiếc ba sân khấu" này. Sự hồi hộp thì được bảo đảm.
+Graham kết luận: tất nhiên ông không thể hứa một trải nghiệm ngoạn mục như vậy cho mọi nhà đầu tư thông minh vẫn giữ được sự thận trọng và tỉnh táo qua năm tháng. Ông sẽ không kết thúc bằng khẩu hiệu của John J. Raskob mà ông đã chế giễu ở đầu sách, "Ai cũng có thể giàu".
+
+(Ở phần Giới thiệu, Graham kể rằng năm 1929 Raskob viết trên *Ladies' Home Journal* bài "Ai cũng phải giàu": tiết kiệm 15 USD mỗi tháng đầu tư vào cổ phiếu tốt, tái đầu tư cổ tức, sẽ thành 80.000 USD sau 20 năm từ tổng vốn góp 3.600 USD; Graham tính nếu làm theo từ 1929 đến 1948 thì đầu năm 1949 chỉ có khoảng 8.500 USD. **Chú thích của Zweig** ở phần đó: Raskob (1879–1950) là thành viên hội đồng quản trị Du Pont, chủ tịch uỷ ban tài chính của General Motors, chủ tịch toàn quốc Đảng Dân chủ và người thúc đẩy xây toà nhà Empire State.)
+
+Nhưng các khả năng thú vị luôn có rất nhiều trên sân khấu tài chính, và nhà đầu tư thông minh, năng động sẽ tìm được cả niềm vui lẫn lợi nhuận trong "rạp xiếc ba sân khấu" này. Sự hồi hộp thì được bảo đảm.
 
 ### Phần B — Bình luận của Jason Zweig (2003)
 
@@ -196,11 +193,15 @@ Zweig mở đầu: đầu tư thành công là quản lý rủi ro, không phả
 
 #### 2. Bất định là điều kiện thường trực của đầu tư (PDF trang 445)
 
-Tin tức năm 2003 đầy những sự việc đáng sợ và rủi ro chưa có lời giải: cái chết của thị trường giá lên thập niên 1990, kinh tế tăng trưởng ì ạch, gian lận doanh nghiệp, bóng ma khủng bố và chiến tranh. Ngay lúc ấy, trên truyền hình tài chính hay báo trong ngày, sẽ có một chiến lược gia thị trường nói "nhà đầu tư không thích bất định". Zweig đáp: nhà đầu tư chưa bao giờ thích bất định, nhưng bất định là điều kiện cơ bản và lâu bền nhất của thế giới đầu tư; xưa nay vẫn vậy và sẽ mãi như vậy. Về bản chất, "bất định" và "đầu tư" là hai từ đồng nghĩa. Trong thế giới thực, chưa ai từng được thấy trước rằng một thời điểm nào đó là thời điểm tốt nhất để mua cổ phiếu. Không có một niềm tin cứu rỗi vào tương lai thì không ai đầu tư cả; muốn là nhà đầu tư, bạn phải tin vào một tương lai tốt hơn.
+Tin tức năm 2003 đầy những sự việc đáng sợ và rủi ro chưa có lời giải: cái chết của thị trường giá lên thập niên 1990, kinh tế tăng trưởng ì ạch, gian lận doanh nghiệp, bóng ma khủng bố và chiến tranh. Ngay lúc ấy, trên truyền hình tài chính hay báo trong ngày, sẽ có một chiến lược gia thị trường nói "nhà đầu tư không thích bất định".
+
+Zweig đáp: nhà đầu tư chưa bao giờ thích bất định, nhưng bất định là điều kiện cơ bản và lâu bền nhất của thế giới đầu tư; xưa nay vẫn vậy và sẽ mãi như vậy. Về bản chất, "bất định" và "đầu tư" là hai từ đồng nghĩa. Trong thế giới thực, chưa ai từng được thấy trước rằng một thời điểm nào đó là thời điểm tốt nhất để mua cổ phiếu. Không có một niềm tin cứu rỗi vào tương lai thì không ai đầu tư cả; muốn là nhà đầu tư, bạn phải tin vào một tương lai tốt hơn.
 
 #### 3. Ulysses của Dante và lời kết (PDF trang 445–446)
 
-Graham, người uyên bác nhất trong các nhà đầu tư, yêu câu chuyện Ulysses, được kể qua thơ của Homer, Alfred Tennyson và Dante. Về cuối đời, Graham đặc biệt thích cảnh trong *Hoả ngục* của Dante, khi Ulysses kể lại việc ông khích lệ thuỷ thủ đoàn giương buồm về phía tây, vào vùng nước chưa ai biết bên kia Cột trụ Hercules. Nội dung đoạn thơ (Zweig dịch; diễn lại theo nghĩa): Ulysses nói với các "anh em" đã vượt qua trăm nghìn hiểm nguy để tới phương tây rằng, trong khoảng thời gian thức tỉnh ngắn ngủi còn lại cho các giác quan, họ đừng từ chối trải nghiệm thế giới không người ở phía sau mặt trời; hãy nghĩ tới nguồn gốc của mình: họ được sinh ra không phải để sống như loài vật, mà để theo đuổi đức hạnh và hiểu biết. Bài diễn từ ngắn ấy làm các bạn đồng hành háo hức lên đường đến mức khó lòng giữ họ lại; họ quay đuôi tàu về phía bình minh và biến mái chèo thành đôi cánh cho chuyến bay cuồng dại. **Chú thích của Zweig:** Dante Alighieri, *Hoả ngục*, Khúc ca XXVI, câu 112–125, bản dịch của Jason Zweig.
+Graham, người uyên bác nhất trong các nhà đầu tư, yêu câu chuyện Ulysses, được kể qua thơ của Homer, Alfred Tennyson và Dante. Về cuối đời, Graham đặc biệt thích cảnh trong *Hoả ngục* của Dante, khi Ulysses kể lại việc ông khích lệ thuỷ thủ đoàn giương buồm về phía tây, vào vùng nước chưa ai biết bên kia Cột trụ Hercules.
+
+Nội dung đoạn thơ (Zweig dịch; diễn lại theo nghĩa): Ulysses nói với các "anh em" đã vượt qua trăm nghìn hiểm nguy để tới phương tây rằng, trong khoảng thời gian thức tỉnh ngắn ngủi còn lại cho các giác quan, họ đừng từ chối trải nghiệm thế giới không người ở phía sau mặt trời; hãy nghĩ tới nguồn gốc của mình: họ được sinh ra không phải để sống như loài vật, mà để theo đuổi đức hạnh và hiểu biết. Bài diễn từ ngắn ấy làm các bạn đồng hành háo hức lên đường đến mức khó lòng giữ họ lại; họ quay đuôi tàu về phía bình minh và biến mái chèo thành đôi cánh cho chuyến bay cuồng dại. **Chú thích của Zweig:** Dante Alighieri, *Hoả ngục*, Khúc ca XXVI, câu 112–125, bản dịch của Jason Zweig.
 
 Zweig kết thúc: đầu tư cũng là một cuộc phiêu lưu; tương lai tài chính luôn là một thế giới chưa biết. Có Graham dẫn đường, hành trình đầu tư trọn đời của bạn có thể vừa an toàn và tự tin, vừa mang tính phiêu lưu.
 
@@ -325,3 +326,174 @@ Một người đọc có thể lấy câu chuyện GEICO để biện minh cho 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
 Ở mức định tính, bài học áp dụng được ở mọi thị trường: (1) giữ danh mục đa dạng để sai lầm không thành thảm hoạ; (2) nếu muốn tập trung vào một doanh nghiệp, chỉ làm khi giá mua được tài sản hoặc lợi nhuận hiện tại bảo đảm rõ ràng, chứ không dựa vào câu chuyện tăng trưởng; (3) giữ sẵn một phần tiền để có thể nắm cơ hội khi thị trường ngó lơ một ngành hay một doanh nghiệp; (4) không chờ tin tức "hết bất định" mới đầu tư, vì bất định không bao giờ hết. Với thị trường mới nổi, nơi tin tức và tâm lý đám đông biến động mạnh, việc phân biệt rủi ro tài chính (mất tiền thật) với rủi ro tâm lý (sợ hãi khi đi ngược số đông) càng quan trọng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời bạt trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết (Phần A, Mục 1 về hai người cộng sự và phương pháp của họ; Phần A, Mục 2–3 về thương vụ GEICO và mức tăng gấp 200 lần; Phần A, Mục 4 về bài học may mắn, chuẩn bị và can đảm; Phần B, Mục 1–2 và Mục 3 về bình luận của Zweig) cùng phần Luận điểm cốt lõi và Đánh giá, mỗi nhánh ghi phương pháp, con số và lập luận then chốt, tách rõ ý của Graham với chú thích và bình luận của Zweig; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời bạt: một cú may mắn có thể đáng giá hơn một đời làm việc cần mẫn, nhưng phía sau phải có chuẩn bị, kỷ luật và biên an toàn`"]
+  n1["`Phần A, Mục 1 — Hai người cộng sự đa dạng hoá và mua giá trị vững chắc`"]
+  n0 --- n1
+  n2["`Zweig: hai người cộng sự là Jerome Newman và chính Graham, quỹ Graham-Newman Corp.`"]
+  n1 --- n2
+  n3["`Kinh nghiệm dạy họ: chắc chắn và an toàn tốt hơn cố kiếm hết tiền của thiên hạ`"]
+  n1 --- n3
+  n4["`Phương pháp: kết hợp khả năng sinh lời tốt với giá trị vững chắc, tránh mọi thứ có vẻ quá đắt`"]
+  n1 --- n4
+  n5["`Nhanh chóng bán cổ phiếu đã tăng tới mức họ thấy không còn hấp dẫn`"]
+  n1 --- n5
+  n6["`Danh mục luôn đa dạng hoá, hơn 100 loại chứng khoán khác nhau`"]
+  n1 --- n6
+  n7["`Bình quân khoảng 20% một năm trên vài triệu USD vốn được uỷ thác`"]
+  n1 --- n7
+  n8["`Zweig: mức 20% một năm dường như chưa trừ phí quản lý`"]
+  n7 --- n8
+  n9["`Phần A, Mục 2–3 — Thương vụ GEICO năm 1948 và mức tăng gấp 200 lần`"]
+  n0 --- n9
+  n10["`Năm cuốn sách ra mắt, quỹ mua một nửa quyền sở hữu một công ty đang tăng trưởng`"]
+  n9 --- n10
+  n11["`Ngành không hấp dẫn Wall Street lúc ấy, nhiều công ty lớn đã từ chối thương vụ`"]
+  n9 --- n11
+  n12["`Điều quyết định: giá mua vừa phải so với lợi nhuận hiện tại và giá trị tài sản`"]
+  n9 --- n12
+  n13["`Zweig: đó là GEICO, giá 712.500 USD, khoảng 25% tài sản quỹ (Graham viết khoảng một phần năm)`"]
+  n9 --- n13
+  n14["`Graham: thương vụ suýt đổ vì họ đòi giá mua được giá trị tài sản bảo đảm 100%`"]
+  n9 --- n14
+  n15["`Khoản lãi về sau trên 300 triệu USD từng phụ thuộc vào khoảng 50.000 USD khoản mục kế toán`"]
+  n14 --- n15
+  n16["`Giá cổ phiếu lên gấp 200 lần trở lên, tăng nhanh hơn nhiều so với lợi nhuận thực tế`"]
+  n9 --- n16
+  n17["`Gần như ngay từ đầu giá đã quá cao theo tiêu chuẩn của họ, nhưng họ vẫn giữ vì coi là #quot;doanh nghiệp gia đình#quot;`"]
+  n9 --- n17
+  n18["`Lợi nhuận từ quyết định duy nhất này vượt tổng lợi nhuận 20 năm hoạt động chuyên môn còn lại`"]
+  n9 --- n18
+  n19["`Zweig: SEC buộc quỹ chia phần GEICO cho cổ đông, 100 cổ phiếu quỹ 11.413 USD đầu năm 1948 thành 1,66 triệu USD năm 1972`"]
+  n9 --- n19
+  n20["`Zweig: Buffett đặt cược lớn vào GEICO năm 1976 khi công ty sát bờ phá sản, một khoản đầu tư tốt nhất của ông`"]
+  n9 --- n20
+  n21["`Phần A, Mục 4 — Bài học: may mắn, chuẩn bị và can đảm`"]
+  n0 --- n21
+  n22["`Bài học hiển nhiên: có nhiều cách kiếm tiền và giữ tiền ở Wall Street`"]
+  n21 --- n22
+  n23["`Một cú may mắn hoặc một quyết định cực kỳ sáng suốt, khó phân biệt, có thể đáng giá hơn một đời làm việc cần mẫn`"]
+  n21 --- n23
+  n24["`Phía sau may mắn thường phải có nền tảng chuẩn bị và năng lực có kỷ luật`"]
+  n21 --- n24
+  n25["`Đủ vị thế và uy tín để cơ hội gõ đúng cửa nhà mình`"]
+  n24 --- n25
+  n26["`Có phương tiện (tiền), óc phán đoán và can đảm để tận dụng cơ hội`"]
+  n24 --- n26
+  n27["`Zweig: chính Graham gọi GEICO là may mắn, nên ai không xuất sắc như Graham luôn phải đa dạng hoá`"]
+  n21 --- n27
+  n28["`Graham không hứa kết quả ngoạn mục và không kết bằng khẩu hiệu #quot;Ai cũng có thể giàu#quot; của Raskob`"]
+  n21 --- n28
+  n29["`Raskob năm 1929: 15 USD mỗi tháng thành 80.000 USD sau 20 năm, làm theo từ 1929 đến 1948 chỉ được khoảng 8.500 USD`"]
+  n28 --- n29
+  n30["`Cơ hội thú vị luôn nhiều, nhà đầu tư thông minh, năng động thấy niềm vui lẫn lợi nhuận trong rạp xiếc ba sân khấu`"]
+  n21 --- n30
+  n31["`Phần B, Mục 1–2 — Zweig: đầu tư là quản lý rủi ro trong bất định`"]
+  n0 --- n31
+  n32["`Đầu tư thành công là quản lý rủi ro, không phải né tránh rủi ro`"]
+  n31 --- n32
+  n33["`Dồn 25% quỹ vào một cổ phiếu có vẻ liều lĩnh, nhưng Graham có thể thanh lý GEICO ít nhất bằng giá đã trả`"]
+  n31 --- n33
+  n34["`Rủi ro tài chính rất thấp, cái cần vượt qua là rủi ro tâm lý của khoản cược lớn vào cổ phiếu ít người biết`"]
+  n33 --- n34
+  n35["`Nỗi lo năm 2003: thị trường giá lên thập niên 1990 chết, kinh tế ì ạch, gian lận doanh nghiệp, khủng bố, chiến tranh`"]
+  n31 --- n35
+  n36["`Nhà đầu tư chưa bao giờ thích bất định, nhưng bất định là điều kiện cơ bản và lâu bền nhất của đầu tư`"]
+  n31 --- n36
+  n37["`Về bản chất, bất định và đầu tư là hai từ đồng nghĩa`"]
+  n36 --- n37
+  n38["`Chưa ai thấy trước được đâu là thời điểm tốt nhất để mua cổ phiếu`"]
+  n36 --- n38
+  n39["`Muốn là nhà đầu tư thì phải tin vào một tương lai tốt hơn`"]
+  n31 --- n39
+  n40["`Phần B, Mục 3 — Zweig: Ulysses của Dante và lời kết`"]
+  n0 --- n40
+  n41["`Graham yêu câu chuyện Ulysses qua thơ của Homer, Tennyson và Dante`"]
+  n40 --- n41
+  n42["`Hoả ngục, Khúc ca XXVI: Ulysses giục thuỷ thủ về phía tây, vượt Cột trụ Hercules vào vùng biển chưa ai biết`"]
+  n40 --- n42
+  n43["`Sinh ra không phải để sống như loài vật, mà để theo đuổi đức hạnh và hiểu biết`"]
+  n42 --- n43
+  n44["`Đầu tư cũng là cuộc phiêu lưu, tương lai tài chính luôn là thế giới chưa biết`"]
+  n40 --- n44
+  n45["`Có Graham dẫn đường, hành trình đầu tư trọn đời vừa an toàn, tự tin vừa phiêu lưu`"]
+  n40 --- n45
+  n46["`Luận điểm cốt lõi và Đánh giá — Cơ chế và cách đọc câu chuyện GEICO`"]
+  n0 --- n46
+  n47["`Giá được tài sản bảo đảm giới hạn khoản lỗ tối đa, kể cả khi khoản đầu tư chiếm 20–25% quỹ`"]
+  n46 --- n47
+  n48["`Biên an toàn rất lớn cho phép tập trung vốn mà không chịu rủi ro tài chính đáng kể`"]
+  n46 --- n48
+  n49["`Phần còn lại hơn 100 chứng khoán giữ kết quả chung ổn định và bảo vệ trước khoản sai`"]
+  n46 --- n49
+  n50["`Lợi nhuận đầu tư lệch mạnh: số ít khoản thắng lớn chiếm phần lớn tổng lợi nhuận`"]
+  n46 --- n50
+  n51["`Giữ GEICO khi giá đã quá cao đi ngược quy tắc bán khi giá vượt giá trị, bán quá sớm doanh nghiệp xuất sắc có thể đắt hơn`"]
+  n46 --- n51
+  n52["`May mắn và quyết định sáng suốt khó phân biệt sau sự việc, đừng suy ra tài năng từ một thành công đơn lẻ`"]
+  n46 --- n52
+  n53["`Đọc thành tích nhà quản lý: hỏi đã trừ phí chưa và kết quả đến từ đâu`"]
+  n46 --- n53
+  n54["`Người năm 1999 có ít nhất 85% tiền trong cổ phiếu Internet tin chắc mình đúng nhưng thiếu giá mua được tài sản bảo đảm`"]
+  n46 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Đừng đọc câu chuyện GEICO như lời khuyên dồn hết tiền vào một cổ phiếu`"]
+  n55 --- n56
+  n57["`Chuẩn bị sẵn tiền nhàn rỗi, tiêu chuẩn định giá và danh tiếng đáng tin để nắm cơ hội hiếm hoi`"]
+  n55 --- n57
+  n58["`Phân biệt rủi ro tài chính (mất tiền thật) với rủi ro tâm lý (sợ hãi khi đi ngược số đông)`"]
+  n55 --- n58
+  n59["`Không chờ bất định biến mất mới đầu tư, vì bất định không bao giờ hết`"]
+  n55 --- n59
+  class n0 root
+  class n1,n9,n21,n31,n40,n46,n55 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; "Postscript" (PDF trang 443–445) và "Commentaire sur Postscript" (PDF trang 445–446); chú thích của Graham ở mục "Postscript" trong phần chú thích cuối sách (PDF trang 490) và các chú thích của Zweig (PDF trang 549–550).
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, nhà báo tài chính, cây bút chuyên mục của tạp chí *Money* (2003).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+[Chương 20](C20-bien-an-toan.md) gom toàn bộ cuốn sách vào khái niệm biên an toàn (margin of safety), và bình luận của Zweig cho chương đó kết thúc bằng "vụ cá cược của Pascal": người đầu tư dồn gần hết tiền vào cổ phiếu Internet năm 1999 đã chọn sai phía của vụ cá cược, vì họ chắc mình đúng nên không làm gì để tự bảo vệ trước hậu quả nếu mình sai; chỉ cần luôn đa dạng hoá và không ném tiền theo các trào lưu điên rồ nhất của ông Thị Trường (Mr. Market), nhà đầu tư có thể chắc rằng sai lầm của mình không bao giờ thành thảm hoạ.
+
+Lời bạt là trang cuối cùng Graham viết cho người đọc. Sau gần 450 trang dạy sự thận trọng, đa dạng hoá và mua rẻ, Graham kể một câu chuyện có vẻ ngược lại: một quyết định duy nhất, dồn khoảng một phần năm quỹ vào một công ty, đem lại nhiều lợi nhuận hơn tổng mọi quyết định khác trong 20 năm. Graham dùng câu chuyện để nói về vai trò của may mắn, của sự chuẩn bị, và để khép lại lời chế giễu khẩu hiệu "Ai cũng phải giàu" của John J. Raskob mà ông đã nêu ở [phần Giới thiệu](C00-gioi-thieu.md).
+
+Bình luận của Zweig giải mã câu chuyện (hai "người cộng sự" là Graham và Jerome Newman; công ty là GEICO) và chuyển ý sang bản chất của đầu tư: chấp nhận và quản lý sự bất định. Sau Lời bạt là bảy phụ lục, mở đầu bằng bài nói năm 1984 của Warren Buffett ([Phụ lục 1](PL1-nhung-sieu-nha-dau-tu-cua-graham-va-doddsville.md)), bằng chứng thực tế rằng phương pháp của Graham tiếp tục đem lại kết quả cho học trò của ông; các phụ lục còn lại ở [Phụ lục 2–7](PL2-7-cac-phu-luc-khac.md).
+
+## Lưu ý
+
+- **Phần của file này:** văn bản Lời bạt bắt đầu ở dòng "Postscript" giữa PDF trang 443 (nửa trên trang là đoạn cuối bình luận của Zweig cho Chương 20, thuộc [file Chương 20](C20-bien-an-toan.md)); bình luận của Zweig kết thúc ở PDF trang 446, trước tiêu đề "Annexes".
+- **"Một phần năm" và "25%":** Graham viết khoản mua chiếm "khoảng một phần năm" (environ un cinquième) quỹ; Zweig, trong bình luận và trong chú thích, viết "25%" quỹ. Hai con số không khớp hẳn; sách không giải thích. Có thể Graham nói theo cách khiêm tốn, hoặc hai người tính trên hai mẫu số khác nhau.
+- **Lợi nhuận 20% một năm chưa trừ phí:** trong "Ghi chú về Benjamin Graham" (đầu sách), Zweig chú thích rằng mức lợi nhuận bình quân 20% một năm Graham nêu trong Lời bạt "dường như không tính tới phí quản lý"; Zweig dẫn chỗ này bằng số trang bản tiếng Anh ("p. 532") mà bản PDF không có.
+- **Các chỗ dịch máy lệch nghĩa đáng kể:**
+  - "il valait mieux être prudent et prudent plutôt que d'essayer de gagner tout l'argent du monde": bản dịch lặp chữ; nghĩa là "chắc chắn và an toàn thì tốt hơn là cố kiếm hết tiền của thiên hạ".
+  - "une approche assez unique des opérations de sécurité" nghĩa là một phương pháp khá riêng trong việc kinh doanh chứng khoán (security operations), không liên quan "an ninh".
+  - "ont été trop rapides pour éliminer les problèmes qui avaient atteint des niveaux qu'ils jugeaient plus attractifs" nói ngược ý: theo mạch văn, họ **nhanh chóng bán** các cổ phiếu (issues, bị dịch thành "problèmes") đã tăng lên mức họ thấy **không còn** hấp dẫn. "Plus de cent problématiques différentes" là "hơn một trăm loại chứng khoán khác nhau".
+  - "ils représentaient en moyenne environ 20% par an" nghĩa là họ "đạt bình quân khoảng 20% một năm".
+  - "un demi-intérêt" là "một nửa quyền sở hữu" (half-interest), tức 50% công ty.
+  - "une pause chanceuse" là "một cú may mắn" (lucky break); "plus d'une vie d'efforts de compagnon" nghĩa là "hơn cả một đời làm việc cần mẫn kiểu thợ lành nghề" (journeyman), không phải "bạn đồng hành".
+  - "ce cirque à trois anneaux" là "rạp xiếc ba sân khấu" (three-ring circus), hình ảnh quen thuộc của tiếng Anh Mỹ cho một nơi nhiều trò diễn cùng lúc.
+  - Chú thích 1 của Graham: "Un gain de marché futur de 300 millions de dollars ou plus a généré, par exemple, 50 000 $ d'éléments comptables" dịch sai cấu trúc; nghĩa là khoản lãi thị trường về sau từ 300 triệu USD trở lên **đã từng phụ thuộc vào** chỉ khoảng 50.000 USD các khoản mục kế toán (thương vụ suýt đổ vì chênh lệch nhỏ như vậy).
+  - Câu mở đầu bình luận "S uccessful investissement est sur la gestion des risques, ne pas l'éviter" là câu tiếng Anh "Successful investing is about managing risk, not avoiding it" bị dịch dở dang (chữ "Successful" còn nguyên và bị tách chữ).
+  - Chú thích 1 của Zweig: "Pour continuer à investir de la décomposition dans le jeu, vous devez vous diversifier" là câu hỏng; theo mạch văn, nghĩa là muốn còn trụ lại được trong cuộc chơi đầu tư thì phải đa dạng hoá.
+  - Bản dịch thơ Dante: "le monde dépouillé qui se cache derrière le soleil" là "thế giới không người ở phía sau mặt trời"; "cette petite veillée éveillée qui reste encore à nos sens" là "khoảng thời gian thức tỉnh ngắn ngủi còn lại cho các giác quan của chúng ta"; "et transformé nos rames en ailes pour le vol sauvage" là "biến mái chèo thành đôi cánh cho chuyến bay cuồng dại".
+- **Đoạn thơ Dante:** Zweig ghi nguồn là *Hoả ngục* (L'Enfer), Khúc ca XXVI, câu 112–125, do chính Zweig dịch sang tiếng Anh; bản PDF là bản dịch máy từ bản dịch của Zweig.
+- **Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** GEICO, sau khi được Warren Buffett đầu tư từ năm 1976 (như Zweig nêu), đã được Berkshire Hathaway mua toàn bộ vào giữa thập niên 1990 và trở thành một trong những công ty bảo hiểm ô tô lớn nhất nước Mỹ. Danh sách nỗi lo của năm 2003 (gian lận doanh nghiệp, khủng bố, chiến tranh) về sau được nối tiếp bằng những nỗi lo khác (khủng hoảng 2008, đại dịch 2020, lạm phát và lãi suất tăng mạnh 2022), đúng như ý Zweig rằng bất định là điều kiện thường trực.
+- Câu trích trong mục "Câu nói đáng nhớ" là tiếng Pháp đúng như PDF (kể cả lỗi dịch), kèm bản dịch tiếng Việt theo nghĩa gốc của người tổng hợp.

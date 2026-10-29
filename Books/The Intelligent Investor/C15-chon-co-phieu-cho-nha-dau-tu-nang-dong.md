@@ -1,23 +1,22 @@
 # Chương 15 — Chọn cổ phiếu cho nhà đầu tư năng động (Sélection des titres pour l'investisseur entreprenant)
 
-**Nguồn:** Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 15 "Sélection des titres pour l'investisseur entreprenant" (PDF trang 316–333) và "Commentaire sur le chapitre 15" (PDF trang 334–339). Chú thích của Graham lấy từ phần chú thích cuối sách (PDF trang 488–489); chú thích của Zweig lấy từ PDF trang 573–575.
-**Tác giả:** Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, cây bút chuyên mục của tạp chí *Money* (2003).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 14 ([C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md)) đưa ra bảy tiêu chuẩn chọn cổ phiếu cho nhà đầu tư phòng thủ: công ty đủ lớn, tài sản lưu động ít nhất gấp đôi nợ ngắn hạn, có lãi liên tục 10 năm, trả cổ tức liên tục 20 năm, EPS tăng ít nhất một phần ba trong 10 năm, giá không quá 15 lần lợi nhuận bình quân 3 năm và không quá 1,5 lần giá trị sổ sách (tích hai hệ số không quá 22,5). Chương 15 chuyển sang nhà đầu tư năng động: người chịu bỏ công sức để chọn từng cổ phiếu với hy vọng làm tốt hơn mức bình quân. Chương này nối tiếp hai chương về nhà đầu tư năng động ở đầu sách — Chương 6 ([C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md), những điều nên tránh) và Chương 7 ([C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md](C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md), những việc nên làm: mua cổ phiếu công ty lớn bị thị trường hắt hủi, cổ phiếu giá hời, tình huống đặc biệt) — và biến các ý ở đó thành một quy trình sàng lọc cụ thể trên cuốn *Stock Guide* của Standard & Poor's, dùng lại cặp ELTRA và Emhart ở Chương 13 ([C13-so-sanh-bon-cong-ty-niem-yet.md](C13-so-sanh-bon-cong-ty-niem-yet.md)) làm hình mẫu "công ty hạng hai rẻ". Chương 16 ([C16-chung-khoan-chuyen-doi-va-chung-quyen.md](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) đi tiếp sang chứng khoán chuyển đổi và chứng quyền, những loại chứng khoán mà Graham-Newman dùng trong nghiệp vụ "phòng hộ có liên quan" được nhắc tới ở chương này; Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md)) tổng kết khái niệm biên an toàn mà mọi phương pháp ở đây đều dựa vào.
-**Ý chính:** Graham muốn người đọc hiểu rằng **làm tốt hơn thị trường bằng cách chọn từng cổ phiếu khó hơn nhiều so với vẻ ngoài, nên nhà đầu tư năng động chỉ có cơ hội nếu dùng những phương pháp vừa lành mạnh vừa ít được Phố Wall ưa chuộng — mua theo tiêu chuẩn định lượng, rẻ so với lợi nhuận và tài sản, đa dạng hoá thành nhóm — chứ không phải cạnh tranh với hàng nghìn nhà phân tích để đoán ngành nào, công ty nào tăng trưởng nhanh nhất**. Bằng chứng về độ khó là các quỹ tương hỗ: chi phí chỉ khoảng 0,5%/năm, có đội phân tích giỏi nhất, vậy mà vẫn thua danh mục chọn ngẫu nhiên có cùng mức rủi ro 3,7%/năm (rủi ro thấp), 2,5%/năm (trung bình) và 0,2%/năm (cao) trong giai đoạn 1960–1968. Graham kể lại cách quỹ Graham-Newman kiếm tiền suốt 30 năm (1926–1956) — kinh doanh chênh lệch giá, cổ phiếu sắp thanh lý, phòng hộ bằng chứng khoán chuyển đổi, mua cổ phiếu dưới hai phần ba giá trị tài sản lưu động ròng — rồi làm mẫu một bài sàng lọc: từ 4.500 cổ phiếu trong *Stock Guide*, chỉ giữ những mã có P/E từ 9 trở xuống, sau đó áp năm tiêu chuẩn phụ (tài sản lưu động ít nhất 1,5 lần nợ ngắn hạn, nợ không quá 110% tài sản lưu động ròng, không lỗ năm nào trong 5 năm, đang trả cổ tức, lợi nhuận năm gần nhất cao hơn năm 1966, giá dưới 120% tài sản hữu hình ròng); kết quả là khoảng 1/30 số cổ phiếu (15 mã trong 450 mã đầu tiên) lọt qua. Thử nghiệm từng tiêu chí riêng lẻ trong giai đoạn cuối 1968 – giữa 1971 cho thấy 90 cổ phiếu chọn ngẫu nhiên mất trung bình 22% trong khi chỉ số S&P gần như đứng yên, nên bài học lớn nhất là tránh cổ phiếu hạng hai trừ khi chúng thật sự là món hời; còn ba "tình huống đặc biệt" đầu năm 1971 (Kayser-Roth, Aurora Plastics, Universal-Marion) cho thấy mảng kinh doanh chênh lệch giá sáp nhập đã thành sân chơi cho dân chuyên nghiệp.
+## Ý chính
 
-Zweig, viết năm 2003, bổ sung rằng **với đa số người, tự chọn cổ phiếu là không cần thiết, và ai muốn thử thì nên tập một năm bằng danh mục giả, so kết quả với quỹ chỉ số S&P 500, và nếu thành công cũng chỉ dành tối đa 10% danh mục cho cổ phiếu tự chọn**. Ông mô tả cách các nhà quản lý quỹ giá trị nổi tiếng tìm cổ phiếu: xem danh sách cổ phiếu chạm đáy 52 tuần, đo hiệu quả bằng lợi suất trên vốn đầu tư (ROIC) chứ không chỉ EPS (từ 10% trở lên là hấp dẫn), định giá từng mảng kinh doanh theo giá các thương vụ mua bán tương tự (Mason Hawkins tìm công ty "60 xu", tức giá cổ phiếu từ 60% giá trị ước tính trở xuống), và kiểm tra xem ban điều hành có "nghĩ như chủ sở hữu" hay không; ông kết bằng tóm tắt cách Warren Buffett chọn công ty có "lợi thế thương quyền" và nhận xét rằng nhà đầu tư thành công nào cũng kỷ luật, nhất quán và ít để ý tới việc thị trường đang làm gì.
+Graham muốn người đọc hiểu rằng **làm tốt hơn thị trường bằng cách chọn từng cổ phiếu khó hơn nhiều so với vẻ ngoài, nên nhà đầu tư năng động chỉ có cơ hội nếu dùng những phương pháp vừa lành mạnh vừa ít được Phố Wall ưa chuộng — mua theo tiêu chuẩn định lượng, rẻ so với lợi nhuận và tài sản, đa dạng hoá thành nhóm — chứ không phải cạnh tranh với hàng nghìn nhà phân tích để đoán ngành nào, công ty nào tăng trưởng nhanh nhất**.
 
-> **Lưu ý:**
-> - **Hai bảng của chương bị mất trong bản PDF.** Ở PDF trang 325 (dưới tiêu đề "TABLEAU 15-1 Exemple de portefeuille de produits industriels à faible multiplicateur") và trang 330 (dưới "TABLEAU 15-2 Stocks de sociétés importantes vendant à ou en dessous de la valeur liquidative actuelle en 1970"), ảnh trang chỉ có khoảng trắng: bản PDF không có nội dung bảng, cả ở dạng chữ lẫn dạng ảnh. Người tổng hợp không có số liệu gốc để chép, và không dựng lại từ trí nhớ để tránh bịa số; phần Nội dung chi tiết chỉ chép những dòng của bảng mà chính văn bản nêu ra (Aberdeen Mfg., American Maize Products, số mã xếp hạng B+ và A). Trong bản PDF **không có Tableau 15-3**: cả chương và phần bình luận chỉ có tiêu đề Tableau 15-1 và 15-2; phần bình luận của Zweig không có bảng số, chỉ có hai khung chữ ("DE L'EPS AU ROIC" và "LA VOIE DE WARREN"), đã chép đầy đủ.
-> - Tiêu đề chương trong PDF là "Sélection **des** titres pour l'investisseur entreprenant" (danh sách tên file ghi "de titres"). Bản gốc tiếng Anh là "Stock Selection for the Enterprising Investor".
-> - Bản dịch máy dịch "issue(s)" (một mã chứng khoán) thành "problème(s)" hoặc "question(s)" ở hầu hết chương: "Problèmes de négociation" là *bargain issues* (cổ phiếu giá hời), "problèmes de qualité inférieure" là "cổ phiếu chất lượng thấp", "ces trente questions importantes" là "30 mã cổ phiếu lớn của DJIA", "les 450 premiers numéros du Guide" là "450 mã đầu tiên". Tương tự, "stock(s)" bị để nguyên với nghĩa "cổ phiếu", "analyste de (la) sécurité" là "nhà phân tích chứng khoán".
-> - "Situations spéciales ou «séances d'entraînement»" dịch sai *workouts*: ở Phố Wall, *workout* là "thương vụ sẽ được giải quyết xong" (một vụ sáp nhập, thanh lý, tái cấu trúc có kết cục và thời hạn tương đối rõ), không phải "buổi tập luyện". Tương tự "Un vannage du guide des stocks" là *A Winnowing of the Stock Guide* (sàng lọc *Stock Guide*); "bonne volonté" là *goodwill* (phần giá trị vô hình, ở đây là phần giá thị trường vượt giá trị sổ sách); "Couvertures connexes" là *related hedges* (phòng hộ có liên quan); "pauses" trong đoạn nói về bridge là *breaks* (vận may); "se retrouvera en trèfle" là thành ngữ *in clover* (sung sướng, như cá gặp nước); "Conservatisme penchant en arrière" là *backleaning conservatism* (thận trọng thái quá).
-> - Câu "pour un US Steel, il y en aura trois appelés ITI Corp. (boulangerie) ou Santa Fe Industries (principalement le grand chemin de fer)" bị dịch mất nghĩa. Ý Graham: cứ một công ty có tên nói rõ ngành nghề (như U.S. Steel, thép) thì có ba công ty mang những cái tên không nói lên điều gì, kiểu ITI Corp. (thực ra là công ty bánh mì) hay Santa Fe Industries (chủ yếu là công ty đường sắt lớn).
-> - Trong khung "DE L'EPS AU ROIC", công thức bị dịch hỏng thành "ROIC = Capital investi du propriétaire". Công thức đúng (theo chính các định nghĩa đi kèm trong khung): **ROIC = lợi nhuận của chủ sở hữu (owner earnings) chia cho vốn đầu tư (invested capital)**. Trong khung "LA VOIE DE WARREN", câu "Buffett aime se casser la tête. un titre lorsqu'un scandale..." là bản dịch hỏng của ý "Buffett thích mua một cổ phiếu khi một vụ bê bối, một khoản lỗ lớn hay tin xấu khác lướt qua nó như một đám mây giông".
-> - **Lỗi số và chỗ không khớp trong sách:** (1) Aberdeen Mfg. đóng cửa năm 1970 ở 10¼ USD với EPS 1,25 USD, tức P/E khoảng 8,2 chứ không phải "9 lần" như sách viết (vẫn thoả điều kiện "từ 9 trở xuống"). (2) Burton-Dixie: mua 20, được trả 53¾ thì lãi 168,75%, sách ghi "165%" (có thể đã trừ chi phí); 165% chia cho 3,5 năm cho ra khoảng 47%/năm như sách nói. (3) Graham nói danh mục 15 mã đáp ứng "sáu yêu cầu": đó là điều kiện P/E từ 9 trở xuống cộng năm tiêu chuẩn phụ. (4) Graham viết Graham-Newman hoạt động "30 năm, từ 1926 đến 1956"; Zweig chú thích rằng Graham-Newman Corp. chỉ được lập từ tháng 1/1936, còn giai đoạn 1926–1935 là quỹ hợp danh Benjamin Graham Joint Account. (5) Aurora Plastics: nếu mua ở 9 cuối năm 1970 và được trả 10½ cuối tháng 5/1971 thì lãi khoảng 16,7% trong 5 tháng, cao hơn mức "khoảng 25%/năm" Graham ghi; con số của Graham có thể tính từ một thời điểm mua khác hoặc đã trừ chi phí — người tổng hợp giữ nguyên số của sách.
-> - Ký hiệu chú thích của Zweig trong bản PDF không khớp hẳn với nội dung: không có dấu `*` sau đoạn "extrêmement difficile" (PDF trang 318), trong khi có dấu `*` ở cuối đoạn về ngành thép (trang 319) và ở câu "notre propre carrière... fait peu probable" (trang 320). Người tổng hợp đặt hai chú thích tương ứng (về các lý do khác khiến quỹ thua thị trường, và về giả thuyết thị trường hiệu quả) theo nội dung.
-> - Các chỗ dẫn trang của bản tiếng Anh mà bản PDF không có: "notre édition précédente... (p. 188)" (ví dụ Burton-Dixie trong ấn bản 1965), "National Presto Industries ci-dessus, p. 168" (đoạn ở Chương 7, PDF trang 148), "l'encadré à la p. 398" (chính là khung "DE L'EPS AU ROIC" ngay bên dưới, PDF trang 336), "l'encadré à la p. 401" (khung "LA VOIE DE WARREN", PDF trang 339), và trong chú thích của Zweig "p. 158 et 229-232", "pages 363 et 364". Bản tổng hợp chép thẳng nội dung được dẫn.
-> - Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu): các trang web Zweig nêu năm 2003 (quicktake.morningstar.com, www.quicken.com, money.cnn.com/services/portfolio, www.marketocracy.com) phần lớn đã đổi hoặc ngừng hoạt động; FleetBoston, công ty kế thừa Industrial National Bank of Rhode Island, đã được Bank of America mua lại năm 2004; Gillette được Procter & Gamble mua năm 2005; Washington Post Co. bán tờ báo năm 2013 và đổi tên thành Graham Holdings. Ở Mỹ, khấu hao lợi thế thương mại (goodwill) đã bỏ từ năm 2002 (thay bằng kiểm tra suy giảm giá trị) và quyền chọn cổ phiếu phải ghi vào chi phí từ khoảng năm 2006, nên vài dòng trong công thức ROIC của Christopher Davis nay ít cần điều chỉnh hơn. Cổ phiếu giao dịch dưới giá trị tài sản lưu động ròng ở Mỹ vẫn hiếm như Graham than phiền, trừ các đợt sụp đổ (cuối 2008 – đầu 2009, ngắn ngủi năm 2020).
+Bằng chứng về độ khó là các quỹ tương hỗ: chi phí chỉ khoảng 0,5%/năm, có đội phân tích giỏi nhất, vậy mà vẫn thua danh mục chọn ngẫu nhiên có cùng mức rủi ro 3,7%/năm (rủi ro thấp), 2,5%/năm (trung bình) và 0,2%/năm (cao) trong giai đoạn 1960–1968.
+
+Graham kể lại cách quỹ Graham-Newman kiếm tiền suốt 30 năm (1926–1956) — kinh doanh chênh lệch giá, cổ phiếu sắp thanh lý, phòng hộ bằng chứng khoán chuyển đổi, mua cổ phiếu dưới hai phần ba giá trị tài sản lưu động ròng — rồi làm mẫu một bài sàng lọc: từ 4.500 cổ phiếu trong *Stock Guide*, chỉ giữ những mã có P/E từ 9 trở xuống, sau đó áp năm tiêu chuẩn phụ (tài sản lưu động ít nhất 1,5 lần nợ ngắn hạn, nợ không quá 110% tài sản lưu động ròng, không lỗ năm nào trong 5 năm, đang trả cổ tức, lợi nhuận năm gần nhất cao hơn năm 1966, giá dưới 120% tài sản hữu hình ròng). Kết quả là khoảng 1/30 số cổ phiếu (15 mã trong 450 mã đầu tiên) lọt qua.
+
+Thử nghiệm từng tiêu chí riêng lẻ trong giai đoạn cuối 1968 – giữa 1971 cho thấy 90 cổ phiếu chọn ngẫu nhiên mất trung bình 22% trong khi chỉ số S&P gần như đứng yên, nên bài học lớn nhất là tránh cổ phiếu hạng hai trừ khi chúng thật sự là món hời.
+
+Còn ba "tình huống đặc biệt" đầu năm 1971 (Kayser-Roth, Aurora Plastics, Universal-Marion) cho thấy mảng kinh doanh chênh lệch giá sáp nhập đã thành sân chơi cho dân chuyên nghiệp.
+
+Zweig, viết năm 2003, bổ sung rằng **với đa số người, tự chọn cổ phiếu là không cần thiết, và ai muốn thử thì nên tập một năm bằng danh mục giả, so kết quả với quỹ chỉ số S&P 500, và nếu thành công cũng chỉ dành tối đa 10% danh mục cho cổ phiếu tự chọn**.
+
+Ông mô tả cách các nhà quản lý quỹ giá trị nổi tiếng tìm cổ phiếu: xem danh sách cổ phiếu chạm đáy 52 tuần, đo hiệu quả bằng lợi suất trên vốn đầu tư (ROIC) chứ không chỉ EPS (từ 10% trở lên là hấp dẫn), định giá từng mảng kinh doanh theo giá các thương vụ mua bán tương tự (Mason Hawkins tìm công ty "60 xu", tức giá cổ phiếu từ 60% giá trị ước tính trở xuống), và kiểm tra xem ban điều hành có "nghĩ như chủ sở hữu" hay không.
+
+Ông kết bằng tóm tắt cách Warren Buffett chọn công ty có "lợi thế thương quyền" và nhận xét rằng nhà đầu tư thành công nào cũng kỷ luật, nhất quán và ít để ý tới việc thị trường đang làm gì.
 
 ## Sơ đồ
 
@@ -463,7 +462,9 @@ Chú thích của Zweig: như đã bàn trong phần bình luận Chương 9, c�
 
 Vì sao lại như vậy? Graham nghĩ tới hai giải thích, mỗi cái có thể đúng một phần.
 
-*Giải thích thứ nhất* là thị trường có thể đã phản ánh trong giá hiện tại không chỉ mọi sự kiện quan trọng về kết quả kinh doanh quá khứ và hiện tại, mà cả mọi kỳ vọng hợp lý về tương lai. Nếu vậy, các biến động giá sau đó — thường rất mạnh — phải là kết quả của những diễn biến và xác suất mới không thể dự đoán đáng tin cậy, khiến biến động giá về cơ bản là ngẫu nhiên. Chừng nào điều đó đúng, công việc của nhà phân tích chứng khoán, dù thông minh và kỹ lưỡng tới đâu, phần lớn sẽ vô hiệu, vì về bản chất họ đang cố đoán điều không đoán được. Chính sự gia tăng số nhà phân tích có thể đã góp phần lớn vào kết quả này: khi hàng trăm, thậm chí hàng nghìn chuyên gia cùng nghiên cứu các yếu tố giá trị đằng sau một cổ phiếu lớn, tự nhiên giá của nó sẽ phản ánh khá sát ý kiến đồng thuận có hiểu biết về giá trị của nó. Ai ưa mã đó hơn mã khác thì làm vậy vì thiên kiến cá nhân hay lạc quan, có thể sai cũng như có thể đúng.
+*Giải thích thứ nhất* là thị trường có thể đã phản ánh trong giá hiện tại không chỉ mọi sự kiện quan trọng về kết quả kinh doanh quá khứ và hiện tại, mà cả mọi kỳ vọng hợp lý về tương lai. Nếu vậy, các biến động giá sau đó — thường rất mạnh — phải là kết quả của những diễn biến và xác suất mới không thể dự đoán đáng tin cậy, khiến biến động giá về cơ bản là ngẫu nhiên. Chừng nào điều đó đúng, công việc của nhà phân tích chứng khoán, dù thông minh và kỹ lưỡng tới đâu, phần lớn sẽ vô hiệu, vì về bản chất họ đang cố đoán điều không đoán được.
+
+Chính sự gia tăng số nhà phân tích có thể đã góp phần lớn vào kết quả này: khi hàng trăm, thậm chí hàng nghìn chuyên gia cùng nghiên cứu các yếu tố giá trị đằng sau một cổ phiếu lớn, tự nhiên giá của nó sẽ phản ánh khá sát ý kiến đồng thuận có hiểu biết về giá trị của nó. Ai ưa mã đó hơn mã khác thì làm vậy vì thiên kiến cá nhân hay lạc quan, có thể sai cũng như có thể đúng.
 
 Graham thường liên tưởng công việc của nhà phân tích ở Phố Wall với các cao thủ trong giải bridge kiểu "duplicate" (mọi bàn chơi cùng một bộ bài, so điểm với nhau). Nhà phân tích cố chọn cổ phiếu "có triển vọng thành công nhất"; người chơi bridge cố đạt điểm cao nhất cho từng ván. Chỉ vài người đạt được mục tiêu. Khi mọi người chơi có trình độ ngang nhau, người thắng thường được quyết định bởi các kiểu may rủi hơn là kỹ năng vượt trội. Ở Phố Wall, sự san bằng còn được đẩy mạnh bởi tình "huynh đệ" trong nghề: ý tưởng và phát hiện được chia sẻ khá thoải mái trong vô số cuộc họp. Như thể trong giải bridge, các cao thủ nhìn qua vai nhau và tranh luận từng ván bài trong lúc nó đang được chơi.
 
@@ -471,9 +472,13 @@ Graham thường liên tưởng công việc của nhà phân tích ở Phố Wa
 
 Sự thật về các doanh nghiệp Mỹ lại hoàn toàn khác. Rất ít công ty duy trì được tốc độ tăng trưởng cao liên tục trong thời gian dài; cũng đáng chú ý là rất ít công ty lớn cuối cùng biến mất. Lịch sử của đa số là thăng trầm, lên xuống, thay đổi vị trí tương đối. Có trường hợp chuyển từ "rách rưới thành giàu sang rồi ngược lại" lặp đi lặp lại gần như theo chu kỳ — cụm từ này từng là chuẩn mực để nói về ngành thép; có trường hợp thay đổi ngoạn mục gắn với ban điều hành tệ đi hoặc tốt lên.
 
-Chú thích của Zweig: ở phần này (cũng như ở một đoạn ở Chương 20 bàn về nhà phân tích), Graham tóm tắt giả thuyết thị trường hiệu quả. Bất chấp những bằng chứng gần đây có vẻ ngược lại, vấn đề của thị trường chứng khoán hôm nay không phải là có quá nhiều nhà phân tích ngốc nghếch, mà là có quá nhiều người rất thông minh. Khi ngày càng nhiều người thông minh săn món hời, chính việc săn tìm đó làm món hời hiếm hơn — và, như một nghịch lý tàn nhẫn, khiến các nhà phân tích trông như thiếu trí thông minh để biện minh cho việc săn tìm. Giá thị trường của một chứng khoán là kết quả của một quá trình trí tuệ tập thể khổng lồ, liên tục, theo thời gian thực. Phần lớn thời gian, với phần lớn cổ phiếu, trí tuệ tập thể đó định giá gần đúng; chỉ thỉnh thoảng ông Thị Trường (Mr. Market) của Graham (Chương 8) mới đẩy giá đi một cách lố bịch.
+Chú thích của Zweig: ở phần này (cũng như ở một đoạn ở Chương 20 bàn về nhà phân tích), Graham tóm tắt giả thuyết thị trường hiệu quả. Bất chấp những bằng chứng gần đây có vẻ ngược lại, vấn đề của thị trường chứng khoán hôm nay không phải là có quá nhiều nhà phân tích ngốc nghếch, mà là có quá nhiều người rất thông minh. Khi ngày càng nhiều người thông minh săn món hời, chính việc săn tìm đó làm món hời hiếm hơn — và, như một nghịch lý tàn nhẫn, khiến các nhà phân tích trông như thiếu trí thông minh để biện minh cho việc săn tìm.
 
-Áp vào nhà đầu tư năng động, những phân tích trên cho thấy trước hết người đó đang nhận một nhiệm vụ khó khăn, có thể không khả thi. Người đọc cuốn sách, dù thông minh và có ý thức tới đâu, khó hy vọng chọn danh mục giỏi hơn những nhà phân tích hàng đầu của nước Mỹ. Nhưng nếu đúng là một phần khá lớn của thị trường thường bị phân biệt đối xử hoặc hoàn toàn bị bỏ qua trong các lựa chọn phân tích chuẩn mực, thì nhà đầu tư thông minh có thể hưởng lợi từ việc định giá thấp do đó mà ra. Muốn vậy, người đó phải theo những phương pháp cụ thể không được Phố Wall chấp nhận rộng rãi, vì những phương pháp được chấp nhận rộng rãi dường như không đem lại kết quả mà ai cũng muốn. Sẽ khá lạ nếu, với ngần ấy bộ óc làm việc chuyên nghiệp trên thị trường, lại có những cách tiếp cận vừa lành mạnh vừa tương đối ít người theo. Thế nhưng sự nghiệp và danh tiếng của chính Graham dựa trên điều tưởng như khó có này.
+Giá thị trường của một chứng khoán là kết quả của một quá trình trí tuệ tập thể khổng lồ, liên tục, theo thời gian thực. Phần lớn thời gian, với phần lớn cổ phiếu, trí tuệ tập thể đó định giá gần đúng; chỉ thỉnh thoảng ông Thị Trường (Mr. Market) của Graham (Chương 8) mới đẩy giá đi một cách lố bịch.
+
+Áp vào nhà đầu tư năng động, những phân tích trên cho thấy trước hết người đó đang nhận một nhiệm vụ khó khăn, có thể không khả thi. Người đọc cuốn sách, dù thông minh và có ý thức tới đâu, khó hy vọng chọn danh mục giỏi hơn những nhà phân tích hàng đầu của nước Mỹ.
+
+Nhưng nếu đúng là một phần khá lớn của thị trường thường bị phân biệt đối xử hoặc hoàn toàn bị bỏ qua trong các lựa chọn phân tích chuẩn mực, thì nhà đầu tư thông minh có thể hưởng lợi từ việc định giá thấp do đó mà ra. Muốn vậy, người đó phải theo những phương pháp cụ thể không được Phố Wall chấp nhận rộng rãi, vì những phương pháp được chấp nhận rộng rãi dường như không đem lại kết quả mà ai cũng muốn. Sẽ khá lạ nếu, với ngần ấy bộ óc làm việc chuyên nghiệp trên thị trường, lại có những cách tiếp cận vừa lành mạnh vừa tương đối ít người theo. Thế nhưng sự nghiệp và danh tiếng của chính Graham dựa trên điều tưởng như khó có này.
 
 #### 2. Tóm tắt các phương pháp của Graham-Newman (Un résumé des méthodes Graham-Newman, PDF trang 320–322)
 
@@ -499,13 +504,19 @@ Chú thích của Zweig: phòng hộ "không liên quan" là mua cổ phiếu ho
 
 Với cả hai mảng, nghiên cứu kết quả trong 10 năm trở lên khiến quỹ kết luận lợi nhuận không đủ tin cậy, và nghiệp vụ không đủ "khỏi đau đầu", để tiếp tục. Vì thế từ năm 1939, quỹ chỉ còn làm các tình huống "tự kết thúc" (chênh lệch giá và thanh lý), phòng hộ có liên quan, cổ phiếu giá hời theo vốn lưu động và vài thương vụ kiểm soát. Từ đó mỗi loại đều cho kết quả rất thoả đáng, đặc biệt là phòng hộ có liên quan mang lại lãi tốt trong các thị trường giá xuống, đúng lúc nhóm "cổ phiếu bị định giá thấp" làm ăn không tốt lắm.
 
-Graham ngần ngại kê "chế độ ăn" của chính mình cho số đông nhà đầu tư thông minh. Hiển nhiên các kỹ thuật chuyên nghiệp này không hợp với nhà đầu tư phòng thủ, theo định nghĩa là người nghiệp dư. Trong số nhà đầu tư năng động, có lẽ chỉ thiểu số nhỏ có tính khí chịu tự giới hạn khắt khe vào một phần tương đối nhỏ của thế giới chứng khoán. Đa số người hành nghề năng nổ sẽ muốn đi vào những vùng rộng hơn. "Bãi săn" tự nhiên của họ là toàn bộ các chứng khoán mà họ cho là (a) chắc chắn không bị định giá cao theo các thước đo thận trọng, và (b) hấp dẫn hơn hẳn cổ phiếu phổ thông trung bình nhờ triển vọng, thành tích quá khứ, hoặc cả hai. Khi chọn, họ nên áp các phép thử về chất lượng và độ hợp lý của giá như đã đề xuất cho nhà đầu tư phòng thủ, nhưng ít cứng nhắc hơn, cho phép một ưu điểm lớn ở yếu tố này bù cho một vết đen nhỏ ở yếu tố khác. Ví dụ, có thể không loại một công ty bị lỗ trong một năm như 1970 nếu lợi nhuận bình quân cao và các đặc tính quan trọng khác khiến cổ phiếu rẻ. Nhà đầu tư năng động có thể giới hạn lựa chọn vào những ngành và công ty mình lạc quan, nhưng Graham khuyên mạnh mẽ không trả giá cao (so với lợi nhuận và tài sản) cho một cổ phiếu chỉ vì sự hăng hái đó. Nếu theo triết lý của Graham, người ấy nhiều khả năng sẽ là người mua cổ phiếu của các công ty chu kỳ quan trọng — như cổ phiếu thép chẳng hạn — khi tình hình hiện tại bất lợi, triển vọng ngắn hạn kém, và giá thấp đã phản ánh đầy đủ sự bi quan hiện thời.
+Graham ngần ngại kê "chế độ ăn" của chính mình cho số đông nhà đầu tư thông minh. Hiển nhiên các kỹ thuật chuyên nghiệp này không hợp với nhà đầu tư phòng thủ, theo định nghĩa là người nghiệp dư. Trong số nhà đầu tư năng động, có lẽ chỉ thiểu số nhỏ có tính khí chịu tự giới hạn khắt khe vào một phần tương đối nhỏ của thế giới chứng khoán. Đa số người hành nghề năng nổ sẽ muốn đi vào những vùng rộng hơn. "Bãi săn" tự nhiên của họ là toàn bộ các chứng khoán mà họ cho là (a) chắc chắn không bị định giá cao theo các thước đo thận trọng, và (b) hấp dẫn hơn hẳn cổ phiếu phổ thông trung bình nhờ triển vọng, thành tích quá khứ, hoặc cả hai.
+
+Khi chọn, họ nên áp các phép thử về chất lượng và độ hợp lý của giá như đã đề xuất cho nhà đầu tư phòng thủ, nhưng ít cứng nhắc hơn, cho phép một ưu điểm lớn ở yếu tố này bù cho một vết đen nhỏ ở yếu tố khác. Ví dụ, có thể không loại một công ty bị lỗ trong một năm như 1970 nếu lợi nhuận bình quân cao và các đặc tính quan trọng khác khiến cổ phiếu rẻ.
+
+Nhà đầu tư năng động có thể giới hạn lựa chọn vào những ngành và công ty mình lạc quan, nhưng Graham khuyên mạnh mẽ không trả giá cao (so với lợi nhuận và tài sản) cho một cổ phiếu chỉ vì sự hăng hái đó. Nếu theo triết lý của Graham, người ấy nhiều khả năng sẽ là người mua cổ phiếu của các công ty chu kỳ quan trọng — như cổ phiếu thép chẳng hạn — khi tình hình hiện tại bất lợi, triển vọng ngắn hạn kém, và giá thấp đã phản ánh đầy đủ sự bi quan hiện thời.
 
 Chú thích của Zweig: năm 2003, một nhà đầu tư thông minh theo tư tưởng Graham sẽ tìm cơ hội trong các ngành công nghệ, viễn thông và điện lực (những ngành vừa sụp đổ sau bong bóng 1999–2000). Lịch sử cho thấy kẻ thua hôm qua thường là người thắng ngày mai.
 
 #### 3. Các công ty hạng hai và cuốn Stock Guide (Entreprises secondaires, PDF trang 322–323)
 
-Tiếp theo, để xem xét và có thể chọn, là các công ty hạng hai đang làm ăn tốt, có thành tích quá khứ thoả đáng nhưng không có sức hút với công chúng — các công ty cỡ như ELTRA và Emhart ở giá đóng cửa năm 1970. (Ở Chương 13, Graham so sánh bốn công ty liền nhau trong danh sách NYSE; ELTRA và Emhart là hai công ty có giá vừa phải, P/E chỉ khoảng 9,7 và 12, tài chính lành mạnh, và cuối 1970 giá khoảng 27 và 33.) Có nhiều cách tìm ra những công ty này. Graham muốn thử một cách mới: trình bày khá chi tiết một bài tập chọn chứng khoán. Mục đích kép: nhiều người đọc có thể thấy giá trị thực tiễn trong phương pháp, hoặc nảy ra phương pháp tương tự để thử; ngoài ra bài tập giúp họ làm quen với thế giới thật của cổ phiếu và giới thiệu một trong những cuốn sách nhỏ hấp dẫn và quý giá nhất: *Stock Guide* của Standard & Poor's, ra hàng tháng, công chúng mua được theo năm, và nhiều công ty môi giới phát cho khách hàng nếu khách yêu cầu.
+Tiếp theo, để xem xét và có thể chọn, là các công ty hạng hai đang làm ăn tốt, có thành tích quá khứ thoả đáng nhưng không có sức hút với công chúng — các công ty cỡ như ELTRA và Emhart ở giá đóng cửa năm 1970. (Ở Chương 13, Graham so sánh bốn công ty liền nhau trong danh sách NYSE; ELTRA và Emhart là hai công ty có giá vừa phải, P/E chỉ khoảng 9,7 và 12, tài chính lành mạnh, và cuối 1970 giá khoảng 27 và 33.)
+
+Có nhiều cách tìm ra những công ty này. Graham muốn thử một cách mới: trình bày khá chi tiết một bài tập chọn chứng khoán. Mục đích kép: nhiều người đọc có thể thấy giá trị thực tiễn trong phương pháp, hoặc nảy ra phương pháp tương tự để thử; ngoài ra bài tập giúp họ làm quen với thế giới thật của cổ phiếu và giới thiệu một trong những cuốn sách nhỏ hấp dẫn và quý giá nhất: *Stock Guide* của Standard & Poor's, ra hàng tháng, công chúng mua được theo năm, và nhiều công ty môi giới phát cho khách hàng nếu khách yêu cầu.
 
 Phần lớn cuốn *Guide* là khoảng 230 trang thông tin thống kê cô đọng về cổ phiếu của hơn 4.500 công ty, gồm mọi mã niêm yết trên các sở giao dịch (khoảng 3.000) và khoảng 1.500 mã không niêm yết. Phần lớn số liệu cần cho cái nhìn đầu tiên, thậm chí lần thứ hai, về một công ty đều có ở đây. Theo Graham, dữ liệu quan trọng còn thiếu là giá trị tài sản ròng, tức giá trị sổ sách, mỗi cổ phiếu, phải tìm trong các ấn phẩm lớn hơn của Standard & Poor's hoặc nơi khác.
 
@@ -566,13 +577,19 @@ Thực tế người dùng phương pháp này sẽ có lựa chọn rộng hơn
 
 #### 5. Các tiêu chí đơn lẻ để chọn cổ phiếu (Critères uniques pour le choix des actions ordinaires, PDF trang 326–329)
 
-Người đọc tò mò có thể hỏi liệu có cách đơn giản hơn để chọn danh mục tốt hơn bình quân không: chỉ dùng một tiêu chí hợp lý, như P/E thấp, tỷ suất cổ tức cao, hay giá trị tài sản lớn? Hai phương pháp loại này mà Graham thấy cho kết quả khá đều đặn trong quá khứ là (a) mua cổ phiếu P/E thấp của các công ty lớn (như danh sách DJIA), và (b) mua một nhóm đa dạng cổ phiếu bán dưới giá trị tài sản lưu động ròng (giá trị vốn lưu động). Ông đã nói (ở Chương 7) rằng tiêu chí P/E thấp áp cho DJIA cuối 1968 hoạt động tệ khi đo kết quả tới giữa 1971: nhóm 6 hay 10 mã P/E thấp lỗ nặng, còn nhóm P/E cao lãi khá — dù trước đó, trong khoảng 30 lần thử từ 1937 đến 1969, nhóm P/E thấp thắng DJIA trong 25 năm, ngang nhau 6 năm và chỉ thua 3 năm. Còn thành tích mua cổ phiếu dưới giá trị vốn lưu động không có điểm xấu như vậy; điểm bất lợi chỉ là cơ hội cạn kiệt trong phần lớn thập niên vừa qua.
+Người đọc tò mò có thể hỏi liệu có cách đơn giản hơn để chọn danh mục tốt hơn bình quân không: chỉ dùng một tiêu chí hợp lý, như P/E thấp, tỷ suất cổ tức cao, hay giá trị tài sản lớn? Hai phương pháp loại này mà Graham thấy cho kết quả khá đều đặn trong quá khứ là (a) mua cổ phiếu P/E thấp của các công ty lớn (như danh sách DJIA), và (b) mua một nhóm đa dạng cổ phiếu bán dưới giá trị tài sản lưu động ròng (giá trị vốn lưu động).
 
-Còn các cơ sở chọn khác thì sao? Khi viết sách, Graham làm một loạt "thí nghiệm", mỗi cái dựa trên một tiêu chí đơn lẻ, khá hiển nhiên, dùng dữ liệu sẵn có trong *Stock Guide*. Mỗi lần, một danh mục 30 cổ phiếu được giả định mua ở giá đóng cửa năm 1968 rồi đánh giá lại vào 30/6/1971 (phần sau ghi tháng 8/1971). Các tiêu chí riêng biệt, áp lên những lựa chọn mà ngoài tiêu chí đó là ngẫu nhiên, gồm: (1) P/E thấp so với lợi nhuận gần đây (không giới hạn trong DJIA); (2) tỷ suất cổ tức cao; (3) thành tích trả cổ tức rất lâu năm; (4) công ty rất lớn, đo bằng số cổ phiếu lưu hành; (5) tình hình tài chính mạnh; (6) giá mỗi cổ phiếu thấp tính bằng USD; (7) giá thấp so với đỉnh trước đó; (8) xếp hạng chất lượng cao của S&P.
+Ông đã nói (ở Chương 7) rằng tiêu chí P/E thấp áp cho DJIA cuối 1968 hoạt động tệ khi đo kết quả tới giữa 1971: nhóm 6 hay 10 mã P/E thấp lỗ nặng, còn nhóm P/E cao lãi khá — dù trước đó, trong khoảng 30 lần thử từ 1937 đến 1969, nhóm P/E thấp thắng DJIA trong 25 năm, ngang nhau 6 năm và chỉ thua 3 năm. Còn thành tích mua cổ phiếu dưới giá trị vốn lưu động không có điểm xấu như vậy; điểm bất lợi chỉ là cơ hội cạn kiệt trong phần lớn thập niên vừa qua.
+
+Còn các cơ sở chọn khác thì sao? Khi viết sách, Graham làm một loạt "thí nghiệm", mỗi cái dựa trên một tiêu chí đơn lẻ, khá hiển nhiên, dùng dữ liệu sẵn có trong *Stock Guide*. Mỗi lần, một danh mục 30 cổ phiếu được giả định mua ở giá đóng cửa năm 1968 rồi đánh giá lại vào 30/6/1971 (phần sau ghi tháng 8/1971).
+
+Các tiêu chí riêng biệt, áp lên những lựa chọn mà ngoài tiêu chí đó là ngẫu nhiên, gồm: (1) P/E thấp so với lợi nhuận gần đây (không giới hạn trong DJIA); (2) tỷ suất cổ tức cao; (3) thành tích trả cổ tức rất lâu năm; (4) công ty rất lớn, đo bằng số cổ phiếu lưu hành; (5) tình hình tài chính mạnh; (6) giá mỗi cổ phiếu thấp tính bằng USD; (7) giá thấp so với đỉnh trước đó; (8) xếp hạng chất lượng cao của S&P.
 
 *Stock Guide* có ít nhất một cột cho mỗi tiêu chí trên, cho thấy nhà xuất bản coi mỗi tiêu chí đều quan trọng trong phân tích và chọn cổ phiếu. (Graham nhắc lại ông muốn có thêm một cột: giá trị tài sản ròng mỗi cổ phiếu.)
 
-**Kết quả quan trọng nhất** liên quan tới cổ phiếu mua ngẫu nhiên. Graham thử với ba danh mục 30 cổ phiếu, mỗi danh mục gồm các mã nằm ở dòng đầu (của mỗi trang) trong *Stock Guide* ngày 31/12/1968 và vẫn có mặt trong số ngày 31/8/1971. Giữa hai ngày đó, chỉ số tổng hợp S&P gần như không đổi và DJIA mất khoảng 5%. Nhưng 90 mã chọn ngẫu nhiên giảm trung bình 22%, chưa tính 19 mã đã bị loại khỏi *Guide* và có lẽ lỗ nặng hơn. Kết quả này chắc chắn phản ánh xu hướng của các cổ phiếu nhỏ, chất lượng thấp: bị định giá quá cao trong thị trường giá lên, rồi trong đợt sụp đổ sau đó không chỉ giảm mạnh hơn các cổ phiếu vững vàng mà còn hồi phục chậm — nhiều trường hợp không bao giờ hồi phục. Bài học cho nhà đầu tư thông minh, tất nhiên, là tránh cổ phiếu hạng hai khi lập danh mục, trừ khi — với nhà đầu tư năng động — đó là những món hời có thể chứng minh được.
+**Kết quả quan trọng nhất** liên quan tới cổ phiếu mua ngẫu nhiên. Graham thử với ba danh mục 30 cổ phiếu, mỗi danh mục gồm các mã nằm ở dòng đầu (của mỗi trang) trong *Stock Guide* ngày 31/12/1968 và vẫn có mặt trong số ngày 31/8/1971. Giữa hai ngày đó, chỉ số tổng hợp S&P gần như không đổi và DJIA mất khoảng 5%. Nhưng 90 mã chọn ngẫu nhiên giảm trung bình 22%, chưa tính 19 mã đã bị loại khỏi *Guide* và có lẽ lỗ nặng hơn.
+
+Kết quả này chắc chắn phản ánh xu hướng của các cổ phiếu nhỏ, chất lượng thấp: bị định giá quá cao trong thị trường giá lên, rồi trong đợt sụp đổ sau đó không chỉ giảm mạnh hơn các cổ phiếu vững vàng mà còn hồi phục chậm — nhiều trường hợp không bao giờ hồi phục. Bài học cho nhà đầu tư thông minh, tất nhiên, là tránh cổ phiếu hạng hai khi lập danh mục, trừ khi — với nhà đầu tư năng động — đó là những món hời có thể chứng minh được.
 
 Các kết quả khác được Graham tóm tắt như sau. Chỉ ba nhóm làm tốt hơn chỉ số tổng hợp S&P (và do đó tốt hơn DJIA):
 
@@ -600,7 +617,9 @@ Chú thích của Zweig: theo Graham, goodwill lớn có thể đến từ hai n
 
 Danh sách "gã khổng lồ goodwill" gồm 30 mã, mỗi mã có thành phần goodwill trên 1 tỷ USD và chiếm hơn nửa giá thị trường. Tổng giá trị thị trường của phần goodwill này cuối 1968 là hơn 120 tỷ USD. Bất chấp mức định giá lạc quan đó, cả nhóm tăng 15% mỗi cổ phiếu từ tháng 12/1968 tới tháng 8/1971, tốt nhất trong 20 danh sách được nghiên cứu.
 
-Graham cho rằng một sự thật như vậy không thể bỏ qua trong một cuốn sách về chính sách đầu tư. Rõ ràng có một đà đáng kể gắn với các công ty kết hợp được quy mô lớn, thành tích xuất sắc, công chúng kỳ vọng lợi nhuận tiếp tục tăng, và giá cổ phiếu tăng mạnh nhiều năm. Dù giá có vẻ quá cao theo chuẩn định lượng của Graham, đà thị trường bên dưới có thể đẩy các cổ phiếu này lên gần như vô thời hạn. (Tất nhiên giả định này không đúng với từng mã: IBM, kẻ dẫn đầu không tranh cãi về goodwill, đi từ 315 xuống 304 trong 30 tháng.) Khó phán đoán sự vượt trội trên thị trường đến từ giá trị đầu tư "thật", khách quan bao nhiêu và từ sự ưa chuộng lâu năm bao nhiêu; chắc chắn cả hai đều quan trọng. Thành tích dài hạn và gần đây của các gã khổng lồ goodwill rõ ràng khiến chúng đáng có mặt trong một danh mục cổ phiếu đa dạng. Tuy vậy, Graham vẫn ưa các loại cổ phiếu khác, có sự kết hợp các yếu tố đầu tư thuận lợi, trong đó có giá trị tài sản ít nhất bằng hai phần ba giá thị trường.
+Graham cho rằng một sự thật như vậy không thể bỏ qua trong một cuốn sách về chính sách đầu tư. Rõ ràng có một đà đáng kể gắn với các công ty kết hợp được quy mô lớn, thành tích xuất sắc, công chúng kỳ vọng lợi nhuận tiếp tục tăng, và giá cổ phiếu tăng mạnh nhiều năm. Dù giá có vẻ quá cao theo chuẩn định lượng của Graham, đà thị trường bên dưới có thể đẩy các cổ phiếu này lên gần như vô thời hạn. (Tất nhiên giả định này không đúng với từng mã: IBM, kẻ dẫn đầu không tranh cãi về goodwill, đi từ 315 xuống 304 trong 30 tháng.)
+
+Khó phán đoán sự vượt trội trên thị trường đến từ giá trị đầu tư "thật", khách quan bao nhiêu và từ sự ưa chuộng lâu năm bao nhiêu; chắc chắn cả hai đều quan trọng. Thành tích dài hạn và gần đây của các gã khổng lồ goodwill rõ ràng khiến chúng đáng có mặt trong một danh mục cổ phiếu đa dạng. Tuy vậy, Graham vẫn ưa các loại cổ phiếu khác, có sự kết hợp các yếu tố đầu tư thuận lợi, trong đó có giá trị tài sản ít nhất bằng hai phần ba giá thị trường.
 
 Các thử nghiệm dùng tiêu chí khác nhìn chung cho thấy danh sách ngẫu nhiên dựa trên một yếu tố thuận lợi làm tốt hơn danh sách ngẫu nhiên chọn theo yếu tố ngược lại. Ví dụ: cổ phiếu P/E thấp giảm ít hơn cổ phiếu P/E cao trong giai đoạn này; cổ phiếu trả cổ tức lâu năm mất ít hơn cổ phiếu không trả cổ tức vào cuối 1968. Ở mức đó, kết quả ủng hộ lời khuyên của Graham là chọn cổ phiếu đáp ứng một *tổ hợp* các tiêu chí định lượng hay hữu hình.
 
@@ -608,7 +627,9 @@ Cuối cùng, Graham giải thích vì sao mọi danh sách của ông đều k�
 
 #### 6. Cổ phiếu giá hời theo tài sản lưu động ròng (Problèmes de négociation ou stocks d'actifs nets courants, PDF trang 329–331)
 
-Các thử nghiệm trên không gồm kết quả mua 30 mã dưới giá trị tài sản lưu động ròng, vì cuối năm 1968 trong *Stock Guide* chỉ có lác đác vài mã như vậy. Nhưng tình hình thay đổi trong đợt giảm giá 1970: ở giá thấp năm đó, khá nhiều cổ phiếu có thể mua dưới giá trị vốn lưu động. Graham luôn thấy, và vẫn thấy, đơn giản tới mức buồn cười khi nói rằng nếu mua được một nhóm cổ phiếu đa dạng với giá thấp hơn tài sản lưu động ròng thuộc về chúng — sau khi trừ mọi khoản nợ có quyền ưu tiên, và coi tài sản cố định cùng tài sản khác bằng 0 — thì kết quả phải rất thoả đáng. Theo kinh nghiệm của ông, kết quả đúng như vậy trong hơn 30 năm, từ khoảng 1923 tới 1957, trừ một giai đoạn thử thách thật sự 1930–1932.
+Các thử nghiệm trên không gồm kết quả mua 30 mã dưới giá trị tài sản lưu động ròng, vì cuối năm 1968 trong *Stock Guide* chỉ có lác đác vài mã như vậy. Nhưng tình hình thay đổi trong đợt giảm giá 1970: ở giá thấp năm đó, khá nhiều cổ phiếu có thể mua dưới giá trị vốn lưu động.
+
+Graham luôn thấy, và vẫn thấy, đơn giản tới mức buồn cười khi nói rằng nếu mua được một nhóm cổ phiếu đa dạng với giá thấp hơn tài sản lưu động ròng thuộc về chúng — sau khi trừ mọi khoản nợ có quyền ưu tiên, và coi tài sản cố định cùng tài sản khác bằng 0 — thì kết quả phải rất thoả đáng. Theo kinh nghiệm của ông, kết quả đúng như vậy trong hơn 30 năm, từ khoảng 1923 tới 1957, trừ một giai đoạn thử thách thật sự 1930–1932.
 
 Cách tiếp cận này còn phù hợp đầu năm 1971 không? Câu trả lời của Graham là "có", kèm dè dặt. Lướt nhanh *Stock Guide* sẽ thấy khoảng 50 mã trở lên dường như mua được ở mức bằng hoặc thấp hơn giá trị tài sản lưu động ròng. Như dự đoán, nhiều mã trong số đó làm ăn kém trong năm khó khăn 1970. Nếu loại những mã báo lỗ ròng trong 12 tháng gần nhất, vẫn còn đủ mã để lập danh sách đa dạng.
 
@@ -626,13 +647,21 @@ Chú thích của Zweig: về kỹ thuật, giá trị vốn lưu động của 
 | Đặc điểm | Công ty lâu đời, thương hiệu được cả nước biết |
 | Thương hiệu được nêu trong đoạn bàn về bảng | Lady Pepperell (khăn trải giường), Jantzen (đồ bơi), Parker (bút) — văn cảnh gợi ý các công ty sở hữu những thương hiệu này nằm trong bảng, nhưng văn bản không nói rõ |
 
-Những ví dụ này khiến người ta suy ngẫm về bản chất biến động giá chứng khoán. Làm sao các công ty lâu đời, có thương hiệu cả nước biết, lại bị định giá thấp như vậy — đúng lúc những công ty khác (tất nhiên là có tăng trưởng lợi nhuận tốt hơn) bán với giá cao hơn bảng cân đối kế toán hàng tỷ USD? Nhắc lại "thời xưa", ý niệm goodwill như một yếu tố giá trị vô hình thường gắn với "tên thương mại". Những cái tên như Lady Pepperell cho khăn trải giường, Jantzen cho đồ bơi, Parker cho bút từng được coi là tài sản rất giá trị. Nhưng nay, nếu "thị trường không thích một công ty", thì không chỉ tên thương mại nổi tiếng mà cả đất đai, nhà xưởng, máy móc, mọi thứ đều chẳng đáng gì trên cán cân của nó. Pascal nói: "Trái tim có những lý lẽ mà lý trí không hiểu được." Graham bảo: chỗ "trái tim" hãy đọc là "Phố Wall".
+Những ví dụ này khiến người ta suy ngẫm về bản chất biến động giá chứng khoán. Làm sao các công ty lâu đời, có thương hiệu cả nước biết, lại bị định giá thấp như vậy — đúng lúc những công ty khác (tất nhiên là có tăng trưởng lợi nhuận tốt hơn) bán với giá cao hơn bảng cân đối kế toán hàng tỷ USD?
+
+Nhắc lại "thời xưa", ý niệm goodwill như một yếu tố giá trị vô hình thường gắn với "tên thương mại". Những cái tên như Lady Pepperell cho khăn trải giường, Jantzen cho đồ bơi, Parker cho bút từng được coi là tài sản rất giá trị. Nhưng nay, nếu "thị trường không thích một công ty", thì không chỉ tên thương mại nổi tiếng mà cả đất đai, nhà xưởng, máy móc, mọi thứ đều chẳng đáng gì trên cán cân của nó. Pascal nói: "Trái tim có những lý lẽ mà lý trí không hiểu được." Graham bảo: chỗ "trái tim" hãy đọc là "Phố Wall".
 
 Chú thích của Zweig: câu văn đầy chất thơ này là một trong những lập luận cuối cùng trong phần bàn của nhà thần học Pháp về cái được gọi là "cuộc đánh cược của Pascal" (Zweig bàn ở phần bình luận Chương 20).
 
-Graham nghĩ tới một sự tương phản khác. Khi mọi thứ thuận lợi và cổ phiếu phát hành mới dễ bán, những đợt chào bán cổ phiếu chẳng có chất lượng gì xuất hiện. Chúng nhanh chóng tìm được người mua; giá thường được đẩy lên hăng hái ngay sau phát hành, tới mức mà so với tài sản và lợi nhuận thì IBM, Xerox và Polaroid cũng phải xấu hổ. Phố Wall đón nhận cơn điên đó như chuyện thường, không ai thực sự cố ngăn trước khi giá sụp đổ tất yếu. (SEC không làm được gì nhiều hơn là đòi công bố thông tin — thứ mà công chúng đầu cơ chẳng hề quan tâm — hoặc công bố điều tra và các biện pháp trừng phạt thường là nhẹ sau khi luật đã bị vi phạm rõ ràng.) Khi nhiều công ty tí hon nhưng bị thổi phồng thô bạo này biến mất, hoặc gần như biến mất, mọi người coi đó một cách triết lý là "một phần của cuộc chơi". Ai cũng thề không bao giờ lặp lại những trò quá đà không thể tha thứ ấy — cho tới lần sau.
+Graham nghĩ tới một sự tương phản khác. Khi mọi thứ thuận lợi và cổ phiếu phát hành mới dễ bán, những đợt chào bán cổ phiếu chẳng có chất lượng gì xuất hiện. Chúng nhanh chóng tìm được người mua; giá thường được đẩy lên hăng hái ngay sau phát hành, tới mức mà so với tài sản và lợi nhuận thì IBM, Xerox và Polaroid cũng phải xấu hổ.
 
-"Cảm ơn bài giảng," người đọc hiền lành nói, "nhưng còn các cổ phiếu giá hời của ông thì sao? Có thật kiếm được tiền mà không chịu rủi ro nghiêm trọng không?" Graham trả lời: có, nếu tìm được đủ mã để lập một nhóm đa dạng, và nếu không mất kiên nhẫn khi chúng không tăng ngay sau khi mua. Đôi khi sự kiên nhẫn cần có khá lớn. Trong ấn bản trước (1965), ông đã liều nêu một ví dụ duy nhất, đúng thời điểm lúc viết: Burton-Dixie Corp., cổ phiếu bán ở 20 USD, trong khi giá trị tài sản lưu động ròng là 30 và giá trị sổ sách khoảng 50. Lợi nhuận không đến ngay. Nhưng tháng 8/1967, toàn bộ cổ đông được trả 53¾ USD mỗi cổ phiếu, có lẽ xấp xỉ giá trị sổ sách. Người nắm giữ kiên nhẫn đã mua ở 20 vào tháng 3/1964 sẽ lãi 165% trong 3,5 năm, tức lợi suất năm không tính lãi kép là 47%. Theo kinh nghiệm của Graham, phần lớn cổ phiếu giá hời không mất lâu như vậy mới có lãi tốt, nhưng cũng không đạt tỷ suất cao như vậy. Một tình huống khá giống, đương thời lúc ông viết, là National Presto Industries (Chương 7): năm 1968 cổ phiếu lên tới 45, chỉ 8 lần lợi nhuận 5,61 USD của năm đó; lợi nhuận tăng tiếp trong 1969 và 1970 nhưng giá lại rơi xuống 21 năm 1970, dưới 4 lần lợi nhuận kỷ lục năm đó và dưới giá trị tài sản lưu động ròng; tháng 3/1972 giá là 34, vẫn chỉ khoảng 5,5 lần lợi nhuận gần nhất và xấp xỉ giá trị tài sản lưu động ròng.
+Phố Wall đón nhận cơn điên đó như chuyện thường, không ai thực sự cố ngăn trước khi giá sụp đổ tất yếu. (SEC không làm được gì nhiều hơn là đòi công bố thông tin — thứ mà công chúng đầu cơ chẳng hề quan tâm — hoặc công bố điều tra và các biện pháp trừng phạt thường là nhẹ sau khi luật đã bị vi phạm rõ ràng.) Khi nhiều công ty tí hon nhưng bị thổi phồng thô bạo này biến mất, hoặc gần như biến mất, mọi người coi đó một cách triết lý là "một phần của cuộc chơi". Ai cũng thề không bao giờ lặp lại những trò quá đà không thể tha thứ ấy — cho tới lần sau.
+
+"Cảm ơn bài giảng," người đọc hiền lành nói, "nhưng còn các cổ phiếu giá hời của ông thì sao? Có thật kiếm được tiền mà không chịu rủi ro nghiêm trọng không?" Graham trả lời: có, nếu tìm được đủ mã để lập một nhóm đa dạng, và nếu không mất kiên nhẫn khi chúng không tăng ngay sau khi mua. Đôi khi sự kiên nhẫn cần có khá lớn.
+
+Trong ấn bản trước (1965), ông đã liều nêu một ví dụ duy nhất, đúng thời điểm lúc viết: Burton-Dixie Corp., cổ phiếu bán ở 20 USD, trong khi giá trị tài sản lưu động ròng là 30 và giá trị sổ sách khoảng 50. Lợi nhuận không đến ngay. Nhưng tháng 8/1967, toàn bộ cổ đông được trả 53¾ USD mỗi cổ phiếu, có lẽ xấp xỉ giá trị sổ sách. Người nắm giữ kiên nhẫn đã mua ở 20 vào tháng 3/1964 sẽ lãi 165% trong 3,5 năm, tức lợi suất năm không tính lãi kép là 47%.
+
+Theo kinh nghiệm của Graham, phần lớn cổ phiếu giá hời không mất lâu như vậy mới có lãi tốt, nhưng cũng không đạt tỷ suất cao như vậy. Một tình huống khá giống, đương thời lúc ông viết, là National Presto Industries (Chương 7): năm 1968 cổ phiếu lên tới 45, chỉ 8 lần lợi nhuận 5,61 USD của năm đó; lợi nhuận tăng tiếp trong 1969 và 1970 nhưng giá lại rơi xuống 21 năm 1970, dưới 4 lần lợi nhuận kỷ lục năm đó và dưới giá trị tài sản lưu động ròng; tháng 3/1972 giá là 34, vẫn chỉ khoảng 5,5 lần lợi nhuận gần nhất và xấp xỉ giá trị tài sản lưu động ròng.
 
 #### 7. Các tình huống đặc biệt, hay thương vụ sắp được giải quyết (Situations spéciales ou «séances d'entraînement», PDF trang 331–333)
 
@@ -654,7 +683,9 @@ Graham bàn ngắn lĩnh vực này vì về lý thuyết nó nằm trong chươ
 
 **Tình huống 3. Universal-Marion.** Universal-Marion Co., đã ngừng hoạt động kinh doanh, đề nghị cổ đông phê chuẩn việc giải thể. Thủ quỹ cho biết cổ phiếu phổ thông có giá trị sổ sách khoảng 28½ USD mỗi cổ phiếu, phần lớn ở dạng tài sản thanh khoản. Cổ phiếu đóng cửa năm 1970 ở 21½, tức lợi nhuận gộp có thể trên 30% (28,5 : 21,5 ≈ 1,33) nếu thanh lý thu đủ giá trị sổ sách.
 
-Nếu các nghiệp vụ loại này, làm đa dạng hoá để chia nhỏ rủi ro, có thể mang lại lợi nhuận hằng năm khoảng 20% trở lên, thì chắc chắn chúng không chỉ "thú vị". Vì đây không phải sách về "tình huống đặc biệt", Graham không đi vào chi tiết nghề này — vì nó thật sự là một nghề. Ông nêu hai xu hướng trái ngược trong những năm gần đây. Một mặt, số thương vụ để chọn tăng rất mạnh so với khoảng mười năm trước, hệ quả của cái có thể gọi là cơn sốt đa dạng hoá hoạt động của doanh nghiệp qua đủ kiểu thâu tóm. Năm 1970 có khoảng 5.000 "thông báo sáp nhập", so với hơn 6.000 năm 1969; tổng giá trị liên quan lên tới nhiều tỷ USD. Có lẽ chỉ một phần nhỏ trong 5.000 thông báo tạo ra cơ hội mua rõ ràng cho người chuyên làm tình huống đặc biệt, nhưng phần nhỏ đó vẫn đủ lớn để người ấy bận rộn nghiên cứu và chọn lựa.
+Nếu các nghiệp vụ loại này, làm đa dạng hoá để chia nhỏ rủi ro, có thể mang lại lợi nhuận hằng năm khoảng 20% trở lên, thì chắc chắn chúng không chỉ "thú vị". Vì đây không phải sách về "tình huống đặc biệt", Graham không đi vào chi tiết nghề này — vì nó thật sự là một nghề.
+
+Ông nêu hai xu hướng trái ngược trong những năm gần đây. Một mặt, số thương vụ để chọn tăng rất mạnh so với khoảng mười năm trước, hệ quả của cái có thể gọi là cơn sốt đa dạng hoá hoạt động của doanh nghiệp qua đủ kiểu thâu tóm. Năm 1970 có khoảng 5.000 "thông báo sáp nhập", so với hơn 6.000 năm 1969; tổng giá trị liên quan lên tới nhiều tỷ USD. Có lẽ chỉ một phần nhỏ trong 5.000 thông báo tạo ra cơ hội mua rõ ràng cho người chuyên làm tình huống đặc biệt, nhưng phần nhỏ đó vẫn đủ lớn để người ấy bận rộn nghiên cứu và chọn lựa.
 
 Mặt khác, ngày càng nhiều vụ sáp nhập đã công bố không thành. Khi đó lợi nhuận nhắm tới không thành hiện thực và dễ bị thay bằng một khoản lỗ nặng nhẹ khác nhau. Lý do thất bại rất nhiều: can thiệp chống độc quyền, cổ đông phản đối, "điều kiện thị trường" thay đổi, kết quả thẩm định kỹ hơn bất lợi, không thống nhất được chi tiết, v.v. Bí quyết, tất nhiên, là có óc phán đoán được kinh nghiệm hậu thuẫn để chọn những thương vụ nhiều khả năng thành nhất, và cả những thương vụ ít lỗ nhất nếu thất bại.
 
@@ -702,7 +733,9 @@ Nếu thích và đạt lợi nhuận đủ tốt, hãy dần dần lập một 
 
 #### 2. Tìm dưới đúng tảng đá (Regarder sous les bons rochers, PDF trang 335–337)
 
-Vậy nên tìm một cổ phiếu có tiềm năng sinh lời như thế nào? Có thể dùng các trang như finance.yahoo.com và morningstar.com để lọc cổ phiếu bằng các bộ lọc thống kê đề xuất ở Chương 14 (bảy tiêu chuẩn của nhà đầu tư phòng thủ). Hoặc có thể chọn cách thủ công, kiên nhẫn hơn. Khác với số đông, nhiều nhà đầu tư chuyên nghiệp giỏi nhất bắt đầu quan tâm tới một công ty khi giá cổ phiếu của nó *giảm*, chứ không phải khi nó tăng. Christopher Browne của Tweedy Browne Global Value Fund, William Nygren của Oakmark Fund, Robert Rodriguez của FPA Capital Fund và Robert Torray của Torray Fund đều khuyên xem danh sách hằng ngày các cổ phiếu chạm đáy mới trong 52 tuần trên *Wall Street Journal*, hoặc bảng tương tự trong mục "Market Week" của *Barron's*. Danh sách đó dẫn bạn tới những cổ phiếu và ngành đang lỗi mốt hoặc bị ghét bỏ, nên có tiềm năng sinh lời cao khi nhận thức thay đổi.
+Vậy nên tìm một cổ phiếu có tiềm năng sinh lời như thế nào? Có thể dùng các trang như finance.yahoo.com và morningstar.com để lọc cổ phiếu bằng các bộ lọc thống kê đề xuất ở Chương 14 (bảy tiêu chuẩn của nhà đầu tư phòng thủ). Hoặc có thể chọn cách thủ công, kiên nhẫn hơn.
+
+Khác với số đông, nhiều nhà đầu tư chuyên nghiệp giỏi nhất bắt đầu quan tâm tới một công ty khi giá cổ phiếu của nó *giảm*, chứ không phải khi nó tăng. Christopher Browne của Tweedy Browne Global Value Fund, William Nygren của Oakmark Fund, Robert Rodriguez của FPA Capital Fund và Robert Torray của Torray Fund đều khuyên xem danh sách hằng ngày các cổ phiếu chạm đáy mới trong 52 tuần trên *Wall Street Journal*, hoặc bảng tương tự trong mục "Market Week" của *Barron's*. Danh sách đó dẫn bạn tới những cổ phiếu và ngành đang lỗi mốt hoặc bị ghét bỏ, nên có tiềm năng sinh lời cao khi nhận thức thay đổi.
 
 Christopher Davis của Davis Funds và William Miller của Legg Mason Value Trust thích thấy lợi suất trên vốn đầu tư (ROIC) tăng lên — một cách đo hiệu quả công ty tạo ra cái mà Warren Buffett gọi là "lợi nhuận của chủ sở hữu" (owner earnings).
 
@@ -729,7 +762,13 @@ Chú thích của Zweig: xem phần bình luận Chương 11 (nơi Zweig bàn v�
 
 ROIC có ưu điểm là cho thấy, sau mọi chi phí chính đáng, công ty kiếm được gì từ hoạt động kinh doanh và đã dùng tiền của cổ đông hiệu quả tới đâu để tạo ra lợi nhuận đó. ROIC từ 10% trở lên là hấp dẫn; ngay cả 6% hay 7% cũng có thể đáng cân nhắc nếu công ty có thương hiệu tốt, ban điều hành tập trung, hoặc đang gặp khó khăn tạm thời.
 
-Tiếp tục mục chính: bằng cách kiểm tra các "thương vụ so sánh" — giá mà các doanh nghiệp tương tự đã được mua qua các năm — những nhà quản lý như Nygren của Oakmark và O. Mason Hawkins của Longleaf Partners có ý niệm rõ hơn về giá trị từng bộ phận của một công ty. Với nhà đầu tư cá nhân, đây là việc tốn công và khó: bắt đầu bằng phần thuyết minh "các mảng kinh doanh" (business segments) trong báo cáo thường niên, nơi thường liệt kê ngành, doanh thu và lợi nhuận của từng công ty con (phần "thảo luận và phân tích của ban điều hành" cũng có thể có ích). Sau đó tìm trong cơ sở dữ liệu tin tức như Factiva, ProQuest hay LexisNexis các ví dụ công ty khác cùng ngành vừa được mua lại. Dùng cơ sở dữ liệu EDGAR ở www.sec.gov để tìm các báo cáo thường niên trước đây của chúng, bạn có thể xác định tỷ lệ giữa giá mua và lợi nhuận của các công ty bị mua. Rồi áp tỷ lệ đó để ước tính một bên mua có thể trả bao nhiêu cho một bộ phận tương tự của công ty bạn đang nghiên cứu. Phân tích riêng từng bộ phận theo cách này, bạn sẽ thấy tổng của chúng có đáng hơn giá cổ phiếu hiện tại hay không. Hawkins của Longleaf thích tìm cái ông gọi là "công ty 60 xu": cổ phiếu giao dịch ở mức từ 60% giá trị doanh nghiệp theo ước tính của ông trở xuống. Điều đó góp phần tạo ra biên an toàn mà Graham luôn đòi hỏi.
+Tiếp tục mục chính: bằng cách kiểm tra các "thương vụ so sánh" — giá mà các doanh nghiệp tương tự đã được mua qua các năm — những nhà quản lý như Nygren của Oakmark và O. Mason Hawkins của Longleaf Partners có ý niệm rõ hơn về giá trị từng bộ phận của một công ty.
+
+Với nhà đầu tư cá nhân, đây là việc tốn công và khó: bắt đầu bằng phần thuyết minh "các mảng kinh doanh" (business segments) trong báo cáo thường niên, nơi thường liệt kê ngành, doanh thu và lợi nhuận của từng công ty con (phần "thảo luận và phân tích của ban điều hành" cũng có thể có ích).
+
+Sau đó tìm trong cơ sở dữ liệu tin tức như Factiva, ProQuest hay LexisNexis các ví dụ công ty khác cùng ngành vừa được mua lại. Dùng cơ sở dữ liệu EDGAR ở www.sec.gov để tìm các báo cáo thường niên trước đây của chúng, bạn có thể xác định tỷ lệ giữa giá mua và lợi nhuận của các công ty bị mua. Rồi áp tỷ lệ đó để ước tính một bên mua có thể trả bao nhiêu cho một bộ phận tương tự của công ty bạn đang nghiên cứu.
+
+Phân tích riêng từng bộ phận theo cách này, bạn sẽ thấy tổng của chúng có đáng hơn giá cổ phiếu hiện tại hay không. Hawkins của Longleaf thích tìm cái ông gọi là "công ty 60 xu": cổ phiếu giao dịch ở mức từ 60% giá trị doanh nghiệp theo ước tính của ông trở xuống. Điều đó góp phần tạo ra biên an toàn mà Graham luôn đòi hỏi.
 
 #### 3. Ai là người cầm trịch? (Qui est le boss?, PDF trang 337–338)
 
@@ -803,7 +842,9 @@ Nhà đầu tư năng động chỉ có cơ hội làm tốt hơn thị trườn
 
 ### Trong ngôn ngữ tài chính và đầu tư
 
-Chương này là phiên bản sơ khai của đầu tư giá trị định lượng (quantitative value investing) và đầu tư theo yếu tố (factor investing): sàng lọc toàn bộ thị trường theo các tiêu chí P/E thấp, P/B thấp, chất lượng tài chính, rồi nắm danh mục đa dạng. Graham thừa nhận một phiên bản yếu của giả thuyết thị trường hiệu quả với cổ phiếu lớn được theo dõi rộng rãi, nhưng cho rằng có những vùng kém hiệu quả (cổ phiếu net-net, công ty bị hắt hủi). Các nghiệp vụ của Graham-Newman tương ứng với các chiến lược "event-driven" (sáp nhập, thanh lý), "convertible arbitrage" và "deep value" của quỹ đầu cơ ngày nay. Phát hiện về "gã khổng lồ goodwill" là một quan sát sớm về hiệu ứng động lượng (momentum) và về cổ phiếu chất lượng cao (quality). Phần bình luận của Zweig chuyển trọng tâm sang ROIC, giá trị thị trường tư nhân (private-market value) và chất lượng quản trị — những công cụ của nhà đầu tư giá trị hiện đại theo trường phái Buffett.
+Chương này là phiên bản sơ khai của đầu tư giá trị định lượng (quantitative value investing) và đầu tư theo yếu tố (factor investing): sàng lọc toàn bộ thị trường theo các tiêu chí P/E thấp, P/B thấp, chất lượng tài chính, rồi nắm danh mục đa dạng. Graham thừa nhận một phiên bản yếu của giả thuyết thị trường hiệu quả với cổ phiếu lớn được theo dõi rộng rãi, nhưng cho rằng có những vùng kém hiệu quả (cổ phiếu net-net, công ty bị hắt hủi).
+
+Các nghiệp vụ của Graham-Newman tương ứng với các chiến lược "event-driven" (sáp nhập, thanh lý), "convertible arbitrage" và "deep value" của quỹ đầu cơ ngày nay. Phát hiện về "gã khổng lồ goodwill" là một quan sát sớm về hiệu ứng động lượng (momentum) và về cổ phiếu chất lượng cao (quality). Phần bình luận của Zweig chuyển trọng tâm sang ROIC, giá trị thị trường tư nhân (private-market value) và chất lượng quản trị — những công cụ của nhà đầu tư giá trị hiện đại theo trường phái Buffett.
 
 ## Thuật ngữ
 
@@ -887,7 +928,9 @@ Graham không chỉ đưa lời khuyên mà làm thí nghiệm trên 20 danh sá
 
 ### Phát hiện về "gã khổng lồ goodwill" báo trước cả bong bóng Nifty Fifty lẫn tranh luận giá trị – tăng trưởng sau này
 
-Theo hiểu biết của người tổng hợp, không tra cứu: nhóm cổ phiếu tăng trưởng lớn được ưa chuộng đầu thập niên 1970 (thường gọi là "Nifty Fifty", gồm IBM, Xerox, Polaroid mà Graham nhắc tới) lên tới P/E rất cao rồi sụp mạnh trong thị trường giá xuống 1973–1974. Graham, viết 1971–1972, đã thấy đà của chúng nhưng vẫn giữ quan điểm thích cổ phiếu có tài sản ít nhất bằng 2/3 giá — một sự dè dặt tỏ ra đúng chỉ vài năm sau. Về sau, cuộc tranh luận lặp lại: cổ phiếu giá trị thắng trong nhiều thập kỷ, nhưng từ khoảng 2007 tới 2020 cổ phiếu tăng trưởng công nghệ lớn vượt trội kéo dài, khiến nhiều người nghi ngờ "phần bù giá trị". Bài học của Graham — động lượng của công ty lớn, chất lượng cao có thể kéo dài rất lâu, nhưng giá phải trả vẫn quan trọng — vẫn là cách nhìn cân bằng.
+Theo hiểu biết của người tổng hợp, không tra cứu: nhóm cổ phiếu tăng trưởng lớn được ưa chuộng đầu thập niên 1970 (thường gọi là "Nifty Fifty", gồm IBM, Xerox, Polaroid mà Graham nhắc tới) lên tới P/E rất cao rồi sụp mạnh trong thị trường giá xuống 1973–1974. Graham, viết 1971–1972, đã thấy đà của chúng nhưng vẫn giữ quan điểm thích cổ phiếu có tài sản ít nhất bằng 2/3 giá — một sự dè dặt tỏ ra đúng chỉ vài năm sau.
+
+Về sau, cuộc tranh luận lặp lại: cổ phiếu giá trị thắng trong nhiều thập kỷ, nhưng từ khoảng 2007 tới 2020 cổ phiếu tăng trưởng công nghệ lớn vượt trội kéo dài, khiến nhiều người nghi ngờ "phần bù giá trị". Bài học của Graham — động lượng của công ty lớn, chất lượng cao có thể kéo dài rất lâu, nhưng giá phải trả vẫn quan trọng — vẫn là cách nhìn cân bằng.
 
 ### Cơ hội mua dưới giá trị tài sản lưu động ròng gần như chỉ còn xuất hiện sau các đợt sụp đổ
 
@@ -907,4 +950,168 @@ Các tiêu chuẩn "giá dưới 120% tài sản hữu hình ròng" và "tài s�
 
 ### Vận dụng cho nhà đầu tư cá nhân, kể cả ở Việt Nam
 
-Cách vận dụng hợp lý là kết hợp cả hai tác giả: lấy quỹ chỉ số chi phí thấp làm phần lõi; nếu muốn tự chọn, ghi lại lựa chọn trong một năm và so với chỉ số trước khi dùng tiền thật; khi chọn, dùng một bộ lọc nhiều tiêu chí kiểu Graham (P/E thấp, tài chính lành mạnh, không lỗ 5 năm, có cổ tức, giá không quá xa giá trị tài sản) rồi xét thêm ROIC và chất lượng ban điều hành như Zweig mô tả; mua theo nhóm, không dồn vào vài mã. Với nhà đầu tư ở thị trường mới nổi như Việt Nam, xét ở mức định tính: nhiều cổ phiếu nhỏ ít được phân tích, đúng loại "bị bỏ quên" mà Graham nói tới, nhưng cũng là loại cổ phiếu hạng hai mà thí nghiệm 1968–1971 cho thấy dễ bị đẩy giá trong thị trường giá lên rồi rơi mạnh và hồi phục chậm. Lời cảnh báo của Graham về cổ phiếu phát hành mới vô giá trị được đẩy giá lúc thị trường hưng phấn, và bài kiểm tra của Zweig về việc ban điều hành nói về giá cổ phiếu nhiều hơn về kinh doanh, đặc biệt đáng nhớ ở những thị trường mà chuẩn mực công bố thông tin và quản trị công ty còn đang hoàn thiện.
+Cách vận dụng hợp lý là kết hợp cả hai tác giả: lấy quỹ chỉ số chi phí thấp làm phần lõi; nếu muốn tự chọn, ghi lại lựa chọn trong một năm và so với chỉ số trước khi dùng tiền thật; khi chọn, dùng một bộ lọc nhiều tiêu chí kiểu Graham (P/E thấp, tài chính lành mạnh, không lỗ 5 năm, có cổ tức, giá không quá xa giá trị tài sản) rồi xét thêm ROIC và chất lượng ban điều hành như Zweig mô tả; mua theo nhóm, không dồn vào vài mã.
+
+Với nhà đầu tư ở thị trường mới nổi như Việt Nam, xét ở mức định tính: nhiều cổ phiếu nhỏ ít được phân tích, đúng loại "bị bỏ quên" mà Graham nói tới, nhưng cũng là loại cổ phiếu hạng hai mà thí nghiệm 1968–1971 cho thấy dễ bị đẩy giá trong thị trường giá lên rồi rơi mạnh và hồi phục chậm. Lời cảnh báo của Graham về cổ phiếu phát hành mới vô giá trị được đẩy giá lúc thị trường hưng phấn, và bài kiểm tra của Zweig về việc ban điều hành nói về giá cổ phiếu nhiều hơn về kinh doanh, đặc biệt đáng nhớ ở những thị trường mà chuẩn mực công bố thông tin và quản trị công ty còn đang hoàn thiện.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 15 trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết (Phần A, Mục 1 về độ khó của việc thắng thị trường, Mục 2 về phương pháp Graham-Newman, Mục 3–4 về bài sàng lọc Stock Guide, Mục 5 về thí nghiệm tiêu chí đơn lẻ, Mục 6–8 về cổ phiếu net-net và tình huống đặc biệt, và Phần B là bình luận của Zweig), mỗi nhánh ghi nguyên tắc, ngưỡng số, ví dụ công ty và kết quả then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 15: chọn cổ phiếu để thắng thị trường rất khó, cơ hội nằm ở phương pháp lành mạnh mà Phố Wall bỏ qua`"]
+  n1["`Phần A, Mục 1 — Thắng thị trường bằng chọn cổ phiếu khó hơn vẻ ngoài`"]
+  n0 --- n1
+  n2["`Quỹ tương hỗ có nhà phân tích giỏi nhất, chi phí chỉ khoảng 0,5%/năm, vẫn thua S#amp;P 500 trong thời gian dài`"]
+  n1 --- n2
+  n3["`Friend–Blume–Crockett 1960–1968: danh mục NYSE ngẫu nhiên thắng quỹ cùng rủi ro 3,7%, 2,5% và 0,2%/năm`"]
+  n1 --- n3
+  n4["`Giải thích thứ nhất: hàng nghìn nhà phân tích khiến giá phản ánh sát đồng thuận (Zweig: giả thuyết thị trường hiệu quả)`"]
+  n1 --- n4
+  n5["`Như giải bridge #quot;duplicate#quot;: khi trình độ ngang nhau, người thắng thường nhờ may rủi`"]
+  n1 --- n5
+  n6["`Giải thích thứ hai: nhà phân tích mua công ty tăng trưởng bất kể giá, tránh công ty kém triển vọng bất kể rẻ`"]
+  n1 --- n6
+  n7["`Thực tế rất ít công ty tăng trưởng cao mãi và rất ít công ty lớn biến mất, như ngành thép lên xuống theo chu kỳ`"]
+  n1 --- n7
+  n8["`Hàm ý: chỉ khai thác được phần thị trường bị bỏ qua, bằng phương pháp lành mạnh nhưng không phổ biến`"]
+  n1 --- n8
+  n9["`Phần A, Mục 2 — Phương pháp Graham-Newman (1926–1956)`"]
+  n0 --- n9
+  n10["`Chênh lệch giá và thanh lý chỉ làm khi lợi suất từ 20%/năm và xác suất thành công từ 4/5`"]
+  n9 --- n10
+  n11["`Phòng hộ có liên quan: mua chứng khoán chuyển đổi, bán khống cổ phiếu phổ thông của cùng công ty, có lãi khi thị trường giá xuống`"]
+  n9 --- n11
+  n12["`Cổ phiếu giá hời: mua từ 2/3 giá trị tài sản lưu động ròng trở xuống, mỗi năm giữ ít nhất 100 mã`"]
+  n9 --- n12
+  n13["`Bỏ hai mảng sau hơn 10 năm theo dõi: cổ phiếu #quot;có vẻ hấp dẫn#quot; không rẻ hơn vốn lưu động và phòng hộ không liên quan`"]
+  n9 --- n13
+  n14["`Nhà đầu tư năng động áp phép thử phòng thủ mềm hơn: ưu điểm lớn ở mặt này bù vết đen nhỏ ở mặt khác`"]
+  n9 --- n14
+  n15["`Không trả giá cao vì lạc quan về một ngành, mua cổ phiếu chu kỳ như thép khi giá đã phản ánh hết bi quan`"]
+  n9 --- n15
+  n16["`Phần A, Mục 3–4 — Sàng lọc cuốn Stock Guide cuối 1970`"]
+  n0 --- n16
+  n17["`Đích nhắm: công ty hạng hai làm ăn tốt bị bỏ quên, như ELTRA và Emhart với P/E khoảng 9,7 và 12`"]
+  n16 --- n17
+  n18["`Stock Guide của S#amp;P có số liệu hơn 4.500 công ty nhưng thiếu giá trị sổ sách mỗi cổ phiếu`"]
+  n16 --- n18
+  n19["`Bước 1: P/E từ 9 trở xuống, 20 trong 200 mã đầu đạt, cả cuốn ước khoảng 450 mã`"]
+  n16 --- n19
+  n20["`Tài chính: tài sản lưu động ≥ 1,5 lần nợ ngắn hạn, nợ ≤ 110% tài sản lưu động ròng`"]
+  n16 --- n20
+  n21["`Không lỗ năm nào trong 5 năm, đang trả cổ tức, lợi nhuận năm gần nhất cao hơn năm 1966`"]
+  n16 --- n21
+  n22["`Giá dưới 120% tài sản hữu hình ròng, không đặt giới hạn quy mô nếu mua cẩn thận và theo nhóm`"]
+  n16 --- n22
+  n23["`Kết quả: 20 ứng viên còn 5, 450 mã đầu cho danh mục 15 mã, cả 4.500 mã ước khoảng 150 mã`"]
+  n16 --- n23
+  n24["`10 trong 15 mã xếp hạng S#amp;P B+, thêm điều kiện xếp hạng từ trung bình trở lên vẫn còn khoảng 100 mã`"]
+  n16 --- n24
+  n25["`So với Chương 14: nới chất lượng và thời gian nhưng đòi giá rẻ hơn hẳn, P/E 9 thay vì 15`"]
+  n16 --- n25
+  n26["`Phần A, Mục 5 — Thí nghiệm tiêu chí đơn lẻ, cuối 1968 – giữa 1971`"]
+  n0 --- n26
+  n27["`P/E thấp trên DJIA thất bại 1968–1971, dù trước đó thắng 25 năm, ngang 6 năm, thua 3 năm`"]
+  n26 --- n27
+  n28["`90 mã chọn ngẫu nhiên mất trung bình 22% khi chỉ số S#amp;P gần như đứng yên và DJIA mất khoảng 5%`"]
+  n26 --- n28
+  n29["`Bài học: tránh cổ phiếu hạng hai, trừ khi là món hời chứng minh được`"]
+  n26 --- n29
+  n30["`Cổ phiếu công nghiệp xếp hạng A+ tăng 9,5% khi chỉ số S#amp;P công nghiệp giảm 2,4%`"]
+  n26 --- n30
+  n31["`30 #quot;gã khổng lồ goodwill#quot; (goodwill hơn 120 tỷ USD) tăng 15%, tốt nhất trong 20 danh sách`"]
+  n26 --- n31
+  n32["`Graham vẫn ưa cổ phiếu có giá trị tài sản ít nhất bằng 2/3 giá thị trường`"]
+  n26 --- n32
+  n33["`Danh sách theo yếu tố thuận lợi thắng yếu tố ngược lại, nên kết hợp nhiều tiêu chí định lượng`"]
+  n26 --- n33
+  n34["`Phần A, Mục 6–8 — Cổ phiếu net-net và tình huống đặc biệt`"]
+  n0 --- n34
+  n35["`Mua nhóm cổ phiếu dưới tài sản lưu động ròng cho kết quả tốt 1923–1957, trừ giai đoạn 1930–1932`"]
+  n34 --- n35
+  n36["`Cuối 1968 gần như không còn mã nào, đầu 1971 có khoảng 50 mã sau đợt giảm 1970`"]
+  n34 --- n36
+  n37["`Thương hiệu Lady Pepperell, Jantzen, Parker bị định giá như không đáng gì: Pascal, đọc #quot;trái tim#quot; là #quot;Phố Wall#quot;`"]
+  n34 --- n37
+  n38["`Burton-Dixie: mua ở 20 (tài sản lưu động ròng 30), năm 1967 được trả 53¾, lãi 165% trong 3,5 năm`"]
+  n34 --- n38
+  n39["`Kayser-Roth: lãi kỳ vọng khoảng 24%, ban lãnh đạo bác thương vụ, đóng vị thế lỗ khoảng 12%`"]
+  n34 --- n39
+  n40["`Aurora Plastics lãi khoảng 25%/năm, Universal-Marion rơi xuống 13 nên kết quả thanh lý chưa chắc`"]
+  n34 --- n40
+  n41["`Khoảng 5.000 thông báo sáp nhập năm 1970 nhưng nhiều vụ đổ bể: lĩnh vực của dân chuyên nghiệp`"]
+  n34 --- n41
+  n42["`Phần B — Bình luận của Zweig (2003)`"]
+  n0 --- n42
+  n43["`Với đa số người, tự chọn cổ phiếu là không cần thiết, nên dùng quỹ chỉ số`"]
+  n42 --- n43
+  n44["`Tập một năm bằng tiền giả rồi so với quỹ chỉ số S#amp;P 500`"]
+  n42 --- n44
+  n45["`Nếu thành công, cổ phiếu tự chọn chỉ chiếm tối đa 10% danh mục`"]
+  n42 --- n45
+  n46["`Tìm ý tưởng trong danh sách cổ phiếu chạm đáy 52 tuần`"]
+  n42 --- n46
+  n47["`ROIC = lợi nhuận của chủ sở hữu ÷ vốn đầu tư, từ 10% là hấp dẫn`"]
+  n42 --- n47
+  n48["`Hawkins tìm công ty #quot;60 xu#quot;: giá từ 60% giá trị ước tính trở xuống, tạo biên an toàn`"]
+  n42 --- n48
+  n49["`Ban điều hành nghĩ như chủ sở hữu, quyền chọn phát hành giới hạn khoảng 3% cổ phiếu lưu hành`"]
+  n42 --- n49
+  n50["`Buffett mua doanh nghiệp thương quyền khi có tin xấu, như Coca-Cola sau New Coke và vụ sụp đổ 1987`"]
+  n42 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Lợi thế không đến từ đoán tăng trưởng giỏi hơn, mà từ mua rẻ so với lợi nhuận và tài sản`"]
+  n51 --- n52
+  n53["`Kết hợp nhiều tiêu chí, mua theo nhóm đa dạng và kiên nhẫn chờ`"]
+  n51 --- n53
+  n54["`Người thành công kỷ luật, nhất quán và rất ít để ý thị trường đang làm gì`"]
+  n51 --- n54
+  class n0 root
+  class n1,n9,n16,n26,n34,n42,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54 leaf
+```
+
+## Nguồn
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), qua bản dịch tiếng Pháp *L'investisseur intelligent*; Chương 15 "Sélection des titres pour l'investisseur entreprenant" (PDF trang 316–333) và "Commentaire sur le chapitre 15" (PDF trang 334–339). Chú thích của Graham lấy từ phần chú thích cuối sách (PDF trang 488–489); chú thích của Zweig lấy từ PDF trang 573–575.
+
+## Tác giả
+
+Benjamin Graham (1894–1976), nhà đầu tư, giáo sư Đại học Columbia, đồng tác giả *Security Analysis* (1934, với David Dodd), điều hành quỹ Graham-Newman, thầy của Warren Buffett (văn bản 1971–1972); bình luận: Jason Zweig, cây bút chuyên mục của tạp chí *Money* (2003).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 14 ([C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md](C14-chon-co-phieu-cho-nha-dau-tu-phong-thu.md)) đưa ra bảy tiêu chuẩn chọn cổ phiếu cho nhà đầu tư phòng thủ: công ty đủ lớn, tài sản lưu động ít nhất gấp đôi nợ ngắn hạn, có lãi liên tục 10 năm, trả cổ tức liên tục 20 năm, EPS tăng ít nhất một phần ba trong 10 năm, giá không quá 15 lần lợi nhuận bình quân 3 năm và không quá 1,5 lần giá trị sổ sách (tích hai hệ số không quá 22,5).
+
+Chương 15 chuyển sang nhà đầu tư năng động: người chịu bỏ công sức để chọn từng cổ phiếu với hy vọng làm tốt hơn mức bình quân. Chương này nối tiếp hai chương về nhà đầu tư năng động ở đầu sách — Chương 6 ([C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md](C06-nha-dau-tu-nang-dong-nhung-dieu-nen-tranh.md), những điều nên tránh) và Chương 7 ([C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md](C07-nha-dau-tu-nang-dong-nhung-dieu-nen-lam.md), những việc nên làm: mua cổ phiếu công ty lớn bị thị trường hắt hủi, cổ phiếu giá hời, tình huống đặc biệt) — và biến các ý ở đó thành một quy trình sàng lọc cụ thể trên cuốn *Stock Guide* của Standard & Poor's, dùng lại cặp ELTRA và Emhart ở Chương 13 ([C13-so-sanh-bon-cong-ty-niem-yet.md](C13-so-sanh-bon-cong-ty-niem-yet.md)) làm hình mẫu "công ty hạng hai rẻ".
+
+Chương 16 ([C16-chung-khoan-chuyen-doi-va-chung-quyen.md](C16-chung-khoan-chuyen-doi-va-chung-quyen.md)) đi tiếp sang chứng khoán chuyển đổi và chứng quyền, những loại chứng khoán mà Graham-Newman dùng trong nghiệp vụ "phòng hộ có liên quan" được nhắc tới ở chương này; Chương 20 ([C20-bien-an-toan.md](C20-bien-an-toan.md)) tổng kết khái niệm biên an toàn mà mọi phương pháp ở đây đều dựa vào.
+
+## Lưu ý
+
+- **Hai bảng của chương bị mất trong bản PDF.** Ở PDF trang 325 (dưới tiêu đề "TABLEAU 15-1 Exemple de portefeuille de produits industriels à faible multiplicateur") và trang 330 (dưới "TABLEAU 15-2 Stocks de sociétés importantes vendant à ou en dessous de la valeur liquidative actuelle en 1970"), ảnh trang chỉ có khoảng trắng: bản PDF không có nội dung bảng, cả ở dạng chữ lẫn dạng ảnh. Người tổng hợp không có số liệu gốc để chép, và không dựng lại từ trí nhớ để tránh bịa số; phần Nội dung chi tiết chỉ chép những dòng của bảng mà chính văn bản nêu ra (Aberdeen Mfg., American Maize Products, số mã xếp hạng B+ và A).
+
+  Trong bản PDF **không có Tableau 15-3**: cả chương và phần bình luận chỉ có tiêu đề Tableau 15-1 và 15-2; phần bình luận của Zweig không có bảng số, chỉ có hai khung chữ ("DE L'EPS AU ROIC" và "LA VOIE DE WARREN"), đã chép đầy đủ.
+- Tiêu đề chương trong PDF là "Sélection **des** titres pour l'investisseur entreprenant" (danh sách tên file ghi "de titres"). Bản gốc tiếng Anh là "Stock Selection for the Enterprising Investor".
+- Bản dịch máy dịch "issue(s)" (một mã chứng khoán) thành "problème(s)" hoặc "question(s)" ở hầu hết chương: "Problèmes de négociation" là *bargain issues* (cổ phiếu giá hời), "problèmes de qualité inférieure" là "cổ phiếu chất lượng thấp", "ces trente questions importantes" là "30 mã cổ phiếu lớn của DJIA", "les 450 premiers numéros du Guide" là "450 mã đầu tiên". Tương tự, "stock(s)" bị để nguyên với nghĩa "cổ phiếu", "analyste de (la) sécurité" là "nhà phân tích chứng khoán".
+- "Situations spéciales ou «séances d'entraînement»" dịch sai *workouts*: ở Phố Wall, *workout* là "thương vụ sẽ được giải quyết xong" (một vụ sáp nhập, thanh lý, tái cấu trúc có kết cục và thời hạn tương đối rõ), không phải "buổi tập luyện". Tương tự "Un vannage du guide des stocks" là *A Winnowing of the Stock Guide* (sàng lọc *Stock Guide*); "bonne volonté" là *goodwill* (phần giá trị vô hình, ở đây là phần giá thị trường vượt giá trị sổ sách); "Couvertures connexes" là *related hedges* (phòng hộ có liên quan); "pauses" trong đoạn nói về bridge là *breaks* (vận may); "se retrouvera en trèfle" là thành ngữ *in clover* (sung sướng, như cá gặp nước); "Conservatisme penchant en arrière" là *backleaning conservatism* (thận trọng thái quá).
+- Câu "pour un US Steel, il y en aura trois appelés ITI Corp. (boulangerie) ou Santa Fe Industries (principalement le grand chemin de fer)" bị dịch mất nghĩa. Ý Graham: cứ một công ty có tên nói rõ ngành nghề (như U.S. Steel, thép) thì có ba công ty mang những cái tên không nói lên điều gì, kiểu ITI Corp. (thực ra là công ty bánh mì) hay Santa Fe Industries (chủ yếu là công ty đường sắt lớn).
+- Trong khung "DE L'EPS AU ROIC", công thức bị dịch hỏng thành "ROIC = Capital investi du propriétaire". Công thức đúng (theo chính các định nghĩa đi kèm trong khung): **ROIC = lợi nhuận của chủ sở hữu (owner earnings) chia cho vốn đầu tư (invested capital)**. Trong khung "LA VOIE DE WARREN", câu "Buffett aime se casser la tête. un titre lorsqu'un scandale..." là bản dịch hỏng của ý "Buffett thích mua một cổ phiếu khi một vụ bê bối, một khoản lỗ lớn hay tin xấu khác lướt qua nó như một đám mây giông".
+- **Lỗi số và chỗ không khớp trong sách:**
+  - Aberdeen Mfg. đóng cửa năm 1970 ở 10¼ USD với EPS 1,25 USD, tức P/E khoảng 8,2 chứ không phải "9 lần" như sách viết (vẫn thoả điều kiện "từ 9 trở xuống").
+  - Burton-Dixie: mua 20, được trả 53¾ thì lãi 168,75%, sách ghi "165%" (có thể đã trừ chi phí); 165% chia cho 3,5 năm cho ra khoảng 47%/năm như sách nói.
+  - Graham nói danh mục 15 mã đáp ứng "sáu yêu cầu": đó là điều kiện P/E từ 9 trở xuống cộng năm tiêu chuẩn phụ.
+  - Graham viết Graham-Newman hoạt động "30 năm, từ 1926 đến 1956"; Zweig chú thích rằng Graham-Newman Corp. chỉ được lập từ tháng 1/1936, còn giai đoạn 1926–1935 là quỹ hợp danh Benjamin Graham Joint Account.
+  - Aurora Plastics: nếu mua ở 9 cuối năm 1970 và được trả 10½ cuối tháng 5/1971 thì lãi khoảng 16,7% trong 5 tháng, cao hơn mức "khoảng 25%/năm" Graham ghi; con số của Graham có thể tính từ một thời điểm mua khác hoặc đã trừ chi phí — người tổng hợp giữ nguyên số của sách.
+- Ký hiệu chú thích của Zweig trong bản PDF không khớp hẳn với nội dung: không có dấu `*` sau đoạn "extrêmement difficile" (PDF trang 318), trong khi có dấu `*` ở cuối đoạn về ngành thép (trang 319) và ở câu "notre propre carrière... fait peu probable" (trang 320). Người tổng hợp đặt hai chú thích tương ứng (về các lý do khác khiến quỹ thua thị trường, và về giả thuyết thị trường hiệu quả) theo nội dung.
+- Các chỗ dẫn trang của bản tiếng Anh mà bản PDF không có: "notre édition précédente... (p. 188)" (ví dụ Burton-Dixie trong ấn bản 1965), "National Presto Industries ci-dessus, p. 168" (đoạn ở Chương 7, PDF trang 148), "l'encadré à la p. 398" (chính là khung "DE L'EPS AU ROIC" ngay bên dưới, PDF trang 336), "l'encadré à la p. 401" (khung "LA VOIE DE WARREN", PDF trang 339), và trong chú thích của Zweig "p. 158 et 229-232", "pages 363 et 364". Bản tổng hợp chép thẳng nội dung được dẫn.
+- Số liệu đã cũ (theo hiểu biết của người tổng hợp, không tra cứu): các trang web Zweig nêu năm 2003 (quicktake.morningstar.com, www.quicken.com, money.cnn.com/services/portfolio, www.marketocracy.com) phần lớn đã đổi hoặc ngừng hoạt động; FleetBoston, công ty kế thừa Industrial National Bank of Rhode Island, đã được Bank of America mua lại năm 2004; Gillette được Procter & Gamble mua năm 2005; Washington Post Co. bán tờ báo năm 2013 và đổi tên thành Graham Holdings.
+
+  Ở Mỹ, khấu hao lợi thế thương mại (goodwill) đã bỏ từ năm 2002 (thay bằng kiểm tra suy giảm giá trị) và quyền chọn cổ phiếu phải ghi vào chi phí từ khoảng năm 2006, nên vài dòng trong công thức ROIC của Christopher Davis nay ít cần điều chỉnh hơn. Cổ phiếu giao dịch dưới giá trị tài sản lưu động ròng ở Mỹ vẫn hiếm như Graham than phiền, trừ các đợt sụp đổ (cuối 2008 – đầu 2009, ngắn ngủi năm 2020).
