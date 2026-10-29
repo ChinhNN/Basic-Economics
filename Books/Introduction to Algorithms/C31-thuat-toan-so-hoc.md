@@ -2437,7 +2437,7 @@ Trong trao đổi khóa, đường cong elliptic đã thay RSA vì khóa ngắn 
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 31 trên một trang: sáu nhánh lớn theo phần mở đầu, chín mục 31.1–★31.9 (gộp thành năm nhóm) và các bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, định lý, thủ tục kèm chi phí và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 31 trên một trang: bảy nhánh lớn — phần mở đầu cùng chín mục 31.1–★31.9 của bản gốc (gộp thành năm nhóm), các bài toán và ghi chú cuối chương, và thông điệp xuyên suốt; mỗi nhánh ghi định nghĩa, định lý, thủ tục kèm chi phí và ví dụ số then chốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -2450,121 +2450,153 @@ flowchart LR
   n0 --- n1
   n2["`Lý thuyết số từng bị coi là vô dụng, nay là nền của mật mã vì tìm số nguyên tố lớn thì dễ, phân tích tích của chúng thì khó`"]
   n1 --- n2
-  n3["`Đầu vào lớn là đầu vào chứa số lớn, thuật toán đa thức phải chạy đa thức theo số bit β`"]
+  n3["`Đầu vào lớn là đầu vào chứa số lớn, thuật toán đa thức phải chạy đa thức theo số bit β ≈ lg n`"]
   n1 --- n3
-  n4["`Nhân hai số β bit kiểu thông thường tốn Θ(β²) phép toán bit, sách dùng mức này làm cơ sở phân tích`"]
+  n4["`Nhân, chia, lấy dư hai số β bit kiểu thông thường tốn Θ(β²) phép toán bit, sách dùng mức này để phân tích`"]
   n1 --- n4
-  n5["`Định lý 31.1 (phép chia): a = qn + r với 0 ≤ r nhỏ hơn n, r = a mod n`"]
+  n5["`Định lý 31.1 (phép chia): a = qn + r với 0 ≤ r #lt; n, q = ⌊a/n⌋, r = a mod n`"]
   n1 --- n5
-  n6["`Định lý 31.2: gcd(a, b) là tổ hợp tuyến tính dương nhỏ nhất ax + by`"]
+  n6["`Định lý 31.2: gcd(a, b) là tổ hợp tuyến tính dương nhỏ nhất ax + by, nên mọi ước chung chia hết gcd`"]
   n1 --- n6
-  n7["`Định lý 31.8: mọi hợp số phân tích duy nhất ra thừa số nguyên tố, ví dụ 6000 = 2⁴ · 3 · 5³`"]
+  n7["`Định lý 31.7: số nguyên tố p chia hết ab thì p chia hết a hoặc chia hết b`"]
   n1 --- n7
-  n8["`Mục 31.2 — Thuật toán Euclid`"]
-  n0 --- n8
-  n9["`Định lý 31.9: gcd(a, b) = gcd(b, a mod b), ví dụ EUCLID(30, 21) qua ba lần gọi đệ quy ra 3`"]
-  n8 --- n9
-  n10["`Định lý 31.11 (Lamé): đầu vào xấu nhất là hai số Fibonacci liên tiếp, số lần gọi O(lg b)`"]
-  n8 --- n10
-  n11["`Với hai số β bit: O(β) phép toán số học, O(β³) phép toán bit`"]
-  n8 --- n11
-  n12["`EXTENDED-EUCLID trả thêm x, y với d = ax + by, ví dụ (99, 78) cho 3 = 99·(−11) + 78·14`"]
-  n8 --- n12
-  n13["`Mục 31.3–31.5 — Số học modulo, phương trình đồng dư, định lý số dư Trung Hoa`"]
-  n0 --- n13
-  n14["`Số học modulo đặt vào khuôn lý thuyết nhóm`"]
-  n13 --- n14
-  n15["`Nhóm cộng (ℤₙ, +ₙ) và nhóm nhân (ℤₙ#42;, ·ₙ) gồm các số nguyên tố cùng nhau với n`"]
-  n14 --- n15
-  n16["`Hàm phi Euler φ(n) = |ℤₙ#42;|, ví dụ φ(45) = 24, φ(p) = p − 1`"]
-  n14 --- n16
-  n17["`Định lý Lagrange: cỡ nhóm con chia hết cỡ nhóm, nhóm con thực sự có tối đa một nửa số phần tử`"]
-  n14 --- n17
-  n18["`Phương trình ax ≡ b (mod n)`"]
-  n13 --- n18
-  n19["`Có nghiệm khi và chỉ khi d = gcd(a, n) chia hết b, khi đó có đúng d nghiệm cách nhau n/d`"]
-  n18 --- n19
-  n20["`Ví dụ 14x ≡ 30 (mod 100) có hai nghiệm 95 và 45`"]
-  n18 --- n20
-  n21["`Nghịch đảo modulo là trường hợp b = 1, chính là x mà EXTENDED-EUCLID trả về`"]
-  n18 --- n21
-  n22["`Định lý số dư Trung Hoa`"]
-  n13 --- n22
-  n23["`Với các nᵢ đôi một nguyên tố cùng nhau, ℤₙ tương ứng một–một với tích các ℤₙᵢ, tính độc lập trên từng thành phần`"]
-  n22 --- n23
-  n24["`Đi ngược bằng công thức a ≡ Σ aᵢcᵢ, ví dụ a ≡ 2 (mod 5) và a ≡ 3 (mod 13) cho a ≡ 42 (mod 65)`"]
-  n22 --- n24
-  n25["`Mục 31.6–31.7 — Lũy thừa modulo và hệ mật mã RSA`"]
-  n0 --- n25
-  n26["`Định lý Euler a^φ(n) ≡ 1 và định lý Fermat a^(p−1) ≡ 1 (mod p)`"]
-  n25 --- n26
-  n27["`Căn nguyên thủy sinh cả nhóm ℤₙ#42;, ví dụ 3 modulo 7, logarit rời rạc là số mũ ngược lại`"]
-  n25 --- n27
-  n28["`Hệ quả 31.35: có căn bậc hai không tầm thường của 1 modulo n thì n là hợp số, ví dụ 6 modulo 35`"]
-  n25 --- n28
-  n29["`MODULAR-EXPONENTIATION bình phương lặp theo từng bit của số mũ, O(β) phép nhân`"]
-  n25 --- n29
-  n30["`Khóa công khai và khóa bí mật là hai hoán vị ngược nhau, dùng cho mã hóa và chữ ký số`"]
-  n25 --- n30
-  n31["`Tạo khóa RSA`"]
-  n25 --- n31
-  n32["`Chọn hai số nguyên tố lớn p, q, n = pq, e nguyên tố cùng nhau với (p − 1)(q − 1)`"]
-  n31 --- n32
-  n33["`d = e⁻¹ mod φ(n), mã hóa Mᵉ mod n, giải mã Cᵈ mod n`"]
-  n31 --- n33
-  n34["`Định lý 31.36: giải mã đúng nhờ định lý Fermat và định lý số dư Trung Hoa`"]
-  n25 --- n34
-  n35["`Phân tích được n thì phá được RSA, chiều ngược lại chưa được chứng minh, thực tế dùng chế độ lai và hàm băm`"]
-  n25 --- n35
-  n36["`Mục ★31.8–★31.9 — Thử nguyên tố và phân tích thừa số`"]
-  n0 --- n36
-  n37["`Định lý số nguyên tố: π(n) xấp xỉ n/ln n, nên số 1024 bit cần khoảng 710 lần thử ngẫu nhiên`"]
-  n36 --- n37
-  n38["`Chia thử tốn Θ(√n), tức hàm mũ theo số bit`"]
-  n36 --- n38
-  n39["`Phép thử giả nguyên tố cơ số 2 chỉ sai 22 số dưới 10.000, nhưng bó tay trước số Carmichael như 561`"]
-  n36 --- n39
-  n40["`Miller-Rabin`"]
-  n36 --- n40
-  n41["`WITNESS thử cơ số ngẫu nhiên và tìm căn bậc hai không tầm thường của 1, ví dụ 7 chứng minh 561 là hợp số`"]
-  n40 --- n41
-  n42["`Định lý 31.38: mọi hợp số lẻ có ít nhất (n − 1)/2 bằng chứng`"]
-  n40 --- n42
-  n43["`Định lý 31.39: xác suất sai tối đa 2⁻ˢ với s lần thử, O(sβ) phép toán số học`"]
-  n40 --- n43
-  n44["`Heuristic rho của Pollard`"]
-  n36 --- n44
-  n45["`Dãy xᵢ = (xᵢ₋₁² − 1) mod n lặp lại theo hình chữ ρ, tìm thừa số p sau kỳ vọng Θ(√p) bước nhờ nghịch lý ngày sinh`"]
-  n44 --- n45
-  n46["`Ví dụ n = 1387 = 19 · 73 tìm ra thừa số 19 tại x₇ = 177, chỉ dùng hằng số ô nhớ`"]
-  n44 --- n46
-  n47["`Bài toán cuối chương và ghi chú chương`"]
-  n0 --- n47
-  n48["`31-1 gcd nhị phân chỉ dùng phép trừ, kiểm tra chẵn lẻ và chia đôi, chạy O(lg a)`"]
+  n8["`Định lý 31.8: mọi hợp số phân tích duy nhất ra thừa số nguyên tố, ví dụ 6000 = 2⁴ · 3 · 5³`"]
+  n1 --- n8
+  n9["`Mục 31.2 — Thuật toán Euclid`"]
+  n0 --- n9
+  n10["`Định lý 31.9: gcd(a, b) = gcd(b, a mod b), ví dụ EUCLID(30, 21) qua ba lần gọi đệ quy ra 3`"]
+  n9 --- n10
+  n11["`Bổ đề 31.10: a #gt; b ≥ 1 và có k ≥ 1 lần gọi đệ quy thì a ≥ Fₖ₊₂ và b ≥ Fₖ₊₁`"]
+  n9 --- n11
+  n12["`Định lý 31.11 (Lamé): b #lt; Fₖ₊₁ thì ít hơn k lần gọi, cận chặt vì EUCLID(Fₖ₊₁, Fₖ) gọi đúng k − 1 lần`"]
+  n9 --- n12
+  n13["`Fₖ ≈ φᵏ/√5 nên số lần gọi là O(lg b): O(β) phép toán số học, O(β³) phép toán bit`"]
+  n9 --- n13
+  n14["`EXTENDED-EUCLID trả thêm x, y với d = ax + by, ví dụ (99, 78) cho 3 = 99·(−11) + 78·14`"]
+  n9 --- n14
+  n15["`Mục 31.3–31.5 — Số học modulo, phương trình đồng dư, định lý số dư Trung Hoa`"]
+  n0 --- n15
+  n16["`Mục 31.3 — Nhóm hữu hạn và số học modulo`"]
+  n15 --- n16
+  n17["`Nhóm cộng (ℤₙ, +ₙ) và nhóm nhân (ℤₙ#42;, ·ₙ) gồm các số nguyên tố cùng nhau với n, ví dụ ℤ₁₅#42; có 8 phần tử`"]
+  n16 --- n17
+  n18["`Hàm phi Euler φ(n) = |ℤₙ#42;| = n·Π(1 − 1/p), ví dụ φ(45) = 24, φ(p) = p − 1`"]
+  n16 --- n18
+  n19["`Định lý 31.15 (Lagrange): cỡ nhóm con chia hết cỡ nhóm, Hệ quả 31.16: nhóm con thực sự có tối đa một nửa số phần tử`"]
+  n16 --- n19
+  n20["`Định lý 31.17: cấp ord(a) bằng cỡ nhóm con ⟨a⟩, Hệ quả 31.19: a^(|S|) = e với mọi a ∈ S`"]
+  n16 --- n20
+  n21["`Mục 31.4 — Phương trình ax ≡ b (mod n)`"]
+  n15 --- n21
+  n22["`Định lý 31.20: a sinh ra đúng các bội của d = gcd(a, n) trong ℤₙ, gồm n/d phần tử`"]
+  n21 --- n22
+  n23["`Hệ quả 31.21–31.22: có nghiệm khi và chỉ khi d chia hết b, khi đó có đúng d nghiệm cách nhau n/d`"]
+  n21 --- n23
+  n24["`MODULAR-LINEAR-EQUATION-SOLVER lấy x₀ = x′(b/d) mod n từ EXTENDED-EUCLID, tốn O(lg n + gcd(a, n)) phép toán số học`"]
+  n21 --- n24
+  n25["`Ví dụ 14x ≡ 30 (mod 100): d = 2, hai nghiệm 95 và 45`"]
+  n21 --- n25
+  n26["`Hệ quả 31.26: gcd(a, n) = 1 thì nghịch đảo a⁻¹ mod n duy nhất, chính là x của EXTENDED-EUCLID, ví dụ 5⁻¹ mod 11 = 9`"]
+  n21 --- n26
+  n27["`Mục 31.5 — Định lý số dư Trung Hoa`"]
+  n15 --- n27
+  n28["`Định lý 31.27: các nᵢ đôi một nguyên tố cùng nhau thì ℤₙ tương ứng một–một với tích các ℤₙᵢ, tính độc lập từng thành phần`"]
+  n27 --- n28
+  n29["`Đi ngược: cᵢ = mᵢ(mᵢ⁻¹ mod nᵢ) với mᵢ = n/nᵢ, rồi a ≡ Σ aᵢcᵢ (mod n)`"]
+  n27 --- n29
+  n30["`Ví dụ a ≡ 2 (mod 5) và a ≡ 3 (mod 13): c₁ = 26, c₂ = 40, a ≡ 42 (mod 65)`"]
+  n27 --- n30
+  n31["`Hệ quả 31.28–31.29: hệ x ≡ aᵢ (mod nᵢ) có nghiệm duy nhất modulo n, đồng dư theo mọi nᵢ thì đồng dư theo n`"]
+  n27 --- n31
+  n32["`Mục 31.6–31.7 — Lũy thừa modulo và hệ mật mã RSA`"]
+  n0 --- n32
+  n33["`Mục 31.6 — Lũy thừa của một phần tử`"]
+  n32 --- n33
+  n34["`Định lý 31.30–31.31: Euler a^φ(n) ≡ 1 (mod n), Fermat a^(p−1) ≡ 1 (mod p) với p nguyên tố`"]
+  n33 --- n34
+  n35["`Định lý 31.32: ℤₙ#42; có căn nguyên thủy khi và chỉ khi n = 2, 4, pᵉ, 2pᵉ (p lẻ), ví dụ 3 modulo 7`"]
+  n33 --- n35
+  n36["`Định lý 31.33: với căn nguyên thủy g, gˣ ≡ gʸ khi và chỉ khi x ≡ y (mod φ(n)), số mũ z là logarit rời rạc`"]
+  n33 --- n36
+  n37["`Hệ quả 31.35 (từ Định lý 31.34): có căn bậc hai không tầm thường của 1 modulo n thì n là hợp số, ví dụ 6 modulo 35`"]
+  n33 --- n37
+  n38["`MODULAR-EXPONENTIATION bình phương lặp theo bit số mũ: O(β) phép toán số học, O(β³) bit, ví dụ 7⁵⁶⁰ mod 561 = 1`"]
+  n33 --- n38
+  n39["`Mục 31.7 — Hệ mật mã khóa công khai RSA`"]
+  n32 --- n39
+  n40["`Khóa công khai P và bí mật S là hai hoán vị ngược nhau: mã hóa C = P(M), ký σ = S(M′), kiểm tra M′ = P(σ)`"]
+  n39 --- n40
+  n41["`Tạo khóa: số nguyên tố lớn p ≠ q, n = pq, e lẻ nhỏ nguyên tố cùng nhau với φ(n) = (p − 1)(q − 1), d = e⁻¹ mod φ(n)`"]
+  n39 --- n41
+  n42["`P(M) = Mᵉ mod n tốn O(β²) phép toán bit, S(C) = Cᵈ mod n tốn O(β³) vì d dài cỡ β bit`"]
+  n39 --- n42
+  n43["`Định lý 31.36: ed = 1 + k(p − 1)(q − 1), Fermat theo p và q, ghép bằng Hệ quả 31.29 cho M^(ed) ≡ M (mod n)`"]
+  n39 --- n43
+  n44["`Phân tích được n thì phá được RSA, chiều ngược lại chưa được chứng minh`"]
+  n39 --- n44
+  n45["`Thực tế: RSA chỉ mã hóa khóa ngắn của hệ mã đối xứng, ký lên giá trị băm h(M), phân phối khóa qua chứng chỉ`"]
+  n39 --- n45
+  n46["`Mục ★31.8–★31.9 — Thử nguyên tố và phân tích thừa số`"]
+  n0 --- n46
+  n47["`Mục ★31.8 — Mật độ số nguyên tố và phép thử Fermat`"]
+  n46 --- n47
+  n48["`Định lý 31.37: π(n) ~ n/ln n, nên tìm số nguyên tố 1024 bit cần khoảng 710 lần thử ngẫu nhiên`"]
   n47 --- n48
-  n49["`31-2 Đếm kỹ phép toán bit cho thấy Euclid chỉ tốn O(β²)`"]
+  n49["`Chia thử tới √n tốn Θ(2^(β/2)), tức hàm mũ theo số bit`"]
   n47 --- n49
-  n50["`31-3 Ba cách tính số Fibonacci: đệ quy thẳng hàm mũ, ghi nhớ O(n), lũy thừa ma trận O(lg n)`"]
+  n50["`PSEUDOPRIME báo hợp số khi 2^(n−1) ≢ 1 (mod n), chỉ sai 22 số dưới 10.000 như 341, 561`"]
   n47 --- n50
-  n51["`31-4 Thặng dư bậc hai: ký hiệu Legendre và căn bậc hai modulo p = 4k + 3`"]
+  n51["`Số Carmichael (561, 1105, 1729) thỏa a^(n−1) ≡ 1 với mọi a ∈ ℤₙ#42;, nên thử thêm cơ số không giúp được`"]
   n47 --- n51
-  n52["`Ghi chú: thuật toán Euclid có từ khoảng 300 TCN, có lẽ là thuật toán không tầm thường cổ nhất`"]
-  n47 --- n52
-  n53["`Ghi chú: năm 2002 Agrawal, Kayal, Saxena tìm ra phép thử nguyên tố tất định đa thức AKS`"]
-  n47 --- n53
-  n54["`Thông điệp xuyên suốt`"]
-  n0 --- n54
-  n55["`Kích thước đầu vào của bài toán số học là số bit, không phải giá trị`"]
-  n54 --- n55
-  n56["`Lý thuyết nhóm cho khuôn chung để chứng minh mọi thuật toán của chương`"]
-  n54 --- n56
-  n57["`Ngẫu nhiên hoá cho phép thử nguyên tố nhanh với xác suất sai nhỏ tuỳ ý`"]
-  n54 --- n57
-  n58["`Khoảng cách giữa thử nguyên tố dễ và phân tích thừa số khó chính là nền an toàn của RSA`"]
-  n54 --- n58
+  n52["`Mục ★31.8 — Phép thử ngẫu nhiên Miller-Rabin`"]
+  n46 --- n52
+  n53["`WITNESS(a, n): viết n − 1 = 2ᵗu, tính aᵘ rồi bình phương t lần, báo hợp số nếu gặp căn không tầm thường của 1 hoặc a^(n−1) ≠ 1`"]
+  n52 --- n53
+  n54["`Ví dụ n = 561, a = 7: X = ⟨241, 298, 166, 67, 1⟩, 67 là căn không tầm thường của 1 nên 561 là hợp số`"]
+  n52 --- n54
+  n55["`Định lý 31.38: không bằng chứng nằm trong một nhóm con thực sự của ℤₙ#42;, nên hợp số lẻ có ít nhất (n − 1)/2 bằng chứng`"]
+  n52 --- n55
+  n56["`Định lý 31.39: thử s cơ số ngẫu nhiên sai với xác suất tối đa 2⁻ˢ, tốn O(sβ) phép toán số học, O(sβ³) bit`"]
+  n52 --- n56
+  n57["`Theo định lý Bayes, số 1024 bit ngẫu nhiên cần khoảng 9 lần thử chỉ để vượt xác suất tiên nghiệm, s = 50 là đủ`"]
+  n52 --- n57
+  n58["`Mục ★31.9 — Heuristic rho của Pollard`"]
+  n46 --- n58
+  n59["`Lặp xᵢ = (xᵢ₋₁² − 1) mod n, lưu y ở chỉ số 1, 2, 4, 8, …, in d = gcd(y − xᵢ, n) nếu 1 #lt; d #lt; n`"]
+  n58 --- n59
+  n60["`Dãy modulo thừa số p lặp theo hình chữ ρ sau kỳ vọng Θ(√p) bước, nhờ nghịch lý ngày sinh`"]
+  n58 --- n60
+  n61["`Phân tích hết số β bit cần khoảng n^(1/4) = 2^(β/4) phép toán số học, chỉ dùng hằng số ô nhớ`"]
+  n58 --- n61
+  n62["`Ví dụ n = 1387 = 19 · 73, x₁ = 2: tại x₇ = 177 có gcd(63 − 177, 1387) = 19`"]
+  n58 --- n62
+  n63["`Không bao giờ in sai nhưng có thể không in gì, khi đó khởi động lại với (xᵢ² − c) mod n`"]
+  n58 --- n63
+  n64["`Problems 31-1 đến 31-4 và ghi chú chương`"]
+  n0 --- n64
+  n65["`31-1 gcd nhị phân chỉ dùng phép trừ, kiểm tra chẵn lẻ và chia đôi, chạy O(lg a)`"]
+  n64 --- n65
+  n66["`31-2 Đếm kỹ phép toán bit cho thấy Euclid chỉ tốn O(β²)`"]
+  n64 --- n66
+  n67["`31-3 Ba cách tính số Fibonacci: đệ quy thẳng hàm mũ, ghi nhớ O(n), lũy thừa ma trận O(lg n)`"]
+  n64 --- n67
+  n68["`31-4 Thặng dư bậc hai: có đúng (p − 1)/2 thặng dư, ký hiệu Legendre bằng a^((p−1)/2) mod p`"]
+  n64 --- n68
+  n69["`Ghi chú: thuật toán Euclid có từ khoảng 300 TCN, có lẽ là thuật toán không tầm thường cổ nhất`"]
+  n64 --- n69
+  n70["`Ghi chú: năm 2002 Agrawal, Kayal, Saxena tìm ra phép thử nguyên tố tất định đa thức AKS`"]
+  n64 --- n70
+  n71["`Thông điệp xuyên suốt`"]
+  n0 --- n71
+  n72["`Định lý 31.2 và định lý Lagrange được dùng lại khắp chương, từ Euclid mở rộng tới cận lỗi Miller-Rabin`"]
+  n71 --- n72
+  n73["`Ngẫu nhiên hoá cho phép thử nguyên tố nhanh với xác suất sai nhỏ tuỳ ý`"]
+  n71 --- n73
+  n74["`Khoảng cách giữa thử nguyên tố dễ và phân tích thừa số khó chính là nền an toàn của RSA`"]
+  n71 --- n74
   class n0 root
-  class n1,n8,n13,n25,n36,n47,n54 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58 leaf
+  class n1,n9,n15,n32,n46,n64,n71 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68,n69,n70,n72,n73,n74 leaf
 ```
 
 ## Nguồn
