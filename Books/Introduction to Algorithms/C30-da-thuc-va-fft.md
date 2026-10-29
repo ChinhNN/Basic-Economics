@@ -1430,97 +1430,155 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 30: nhân hai đa thức trong Θ(n lg n) bằng cách đổi sang dạng giá trị tại các căn phức của đơn vị nhờ FFT`"]
-  n1["`Phần mở đầu chương — Đa thức, phép cộng và phép nhân`"]
+  n1["`Phần mở đầu Chương 30 (trang 898–900) — Đa thức, phép cộng và phép nhân`"]
   n0 --- n1
-  n2["`Cộng hai đa thức cận bậc n theo cách thẳng tốn Θ(n), nhân tốn Θ(n²)`"]
+  n2["`Cộng hai đa thức cận bậc n theo cách thẳng tốn Θ(n), nhân tốn Θ(n²); FFT hạ phép nhân xuống Θ(n lg n)`"]
   n1 --- n2
-  n3["`Đa thức cận bậc n có các hệ số a₀ tới aₙ₋₁, cận bậc là mọi số nguyên lớn hơn hẳn bậc`"]
+  n3["`Đa thức A(x) = Σ aⱼxʲ trên trường F (thường là ℂ); cận bậc là mọi số nguyên lớn hơn hẳn bậc`"]
   n1 --- n3
-  n4["`Hệ số của tích là tích chập cⱼ = Σₖ aₖbⱼ₋ₖ, tích có cận bậc 2n − 1`"]
+  n4["`Hệ số của tích là cⱼ = Σₖ aₖbⱼ₋ₖ (30.2); tích có cận bậc 2n − 1, sách thường gọi gọn là 2n`"]
   n1 --- n4
-  n5["`Ứng dụng phổ biến nhất của biến đổi Fourier là xử lý tín hiệu: nén video, âm thanh số, tệp MP3`"]
+  n5["`Ví dụ: (6x³ + 7x² − 10x + 9)(−2x³ + 4x − 5) = −12x⁶ − 14x⁵ + 44x⁴ − 20x³ − 75x² + 86x − 45`"]
   n1 --- n5
-  n6["`Mục 30.1 — Hai cách biểu diễn đa thức`"]
-  n0 --- n6
-  n7["`Dạng hệ số: đánh giá bằng quy tắc Horner Θ(n), cộng Θ(n), nhân Θ(n²)`"]
-  n6 --- n7
-  n8["`Dạng điểm–giá trị: cộng và nhân từng cặp giá trị chỉ Θ(n), nhưng phải có 2n điểm vì tích có cận bậc 2n`"]
-  n6 --- n8
-  n9["`Định lý 30.1: n cặp điểm phân biệt xác định duy nhất một đa thức, vì ma trận Vandermonde khả nghịch`"]
-  n6 --- n9
-  n10["`Nội suy bằng phân rã LU tốn O(n³), bằng công thức Lagrange tốn Θ(n²)`"]
-  n6 --- n10
-  n11["`Sơ đồ nhân nhanh bốn bước`"]
-  n6 --- n11
-  n12["`Gấp đôi cận bậc bằng hệ số 0, rồi đánh giá A và B tại 2n căn đơn vị bằng FFT, Θ(n lg n)`"]
+  n6["`Ứng dụng phổ biến nhất của biến đổi Fourier là xử lý tín hiệu: chuyển từ miền thời gian sang miền tần số, nén video, MP3`"]
+  n1 --- n6
+  n7["`Mục 30.1 — Hai cách biểu diễn đa thức`"]
+  n0 --- n7
+  n8["`Biểu diễn hệ số: vectơ (a₀, …, aₙ₋₁)`"]
+  n7 --- n8
+  n9["`Quy tắc Horner đánh giá A(x₀) trong Θ(n); ví dụ 6x³ + 7x² − 10x + 9 tại x₀ = 2 cho 65`"]
+  n8 --- n9
+  n10["`Cộng Θ(n), nhân Θ(n²); vectơ hệ số của tích gọi là tích chập a ⊗ b`"]
+  n8 --- n10
+  n11["`Biểu diễn điểm–giá trị: n cặp (xₖ, A(xₖ)) với các xₖ phân biệt`"]
+  n7 --- n11
+  n12["`Đánh giá tại n điểm tuỳ ý bằng Horner tốn Θ(n²)`"]
   n11 --- n12
-  n13["`Nhân từng điểm Θ(n), rồi nội suy về dạng hệ số bằng FFT ngược, Θ(n lg n)`"]
+  n13["`Cộng và nhân từng cặp giá trị chỉ Θ(n) nếu A, B dùng chung các điểm`"]
   n11 --- n13
-  n14["`Định lý 30.2: nhân hai đa thức cận bậc n trong Θ(n lg n), đầu vào và đầu ra đều ở dạng hệ số`"]
+  n14["`Tích có cận bậc 2n nên phải dùng biểu diễn mở rộng 2n cặp cho mỗi đa thức`"]
   n11 --- n14
-  n15["`Mục 30.2 — Căn phức của đơn vị, DFT và FFT`"]
-  n0 --- n15
-  n16["`Có đúng n căn phức bậc n của đơn vị, cách đều trên đường tròn đơn vị, căn chính ωₙ = e^(2πi/n)`"]
+  n15["`Nội suy: từ cặp điểm–giá trị về hệ số`"]
+  n7 --- n15
+  n16["`Định lý 30.1: n cặp với xₖ phân biệt xác định duy nhất một đa thức cận bậc n, vì ma trận Vandermonde khả nghịch`"]
   n15 --- n16
-  n17["`Ba bổ đề then chốt`"]
+  n17["`Định thức Vandermonde bằng Π(xₖ − xⱼ) với j #lt; k, khác 0 khi các điểm phân biệt`"]
   n15 --- n17
-  n18["`Bổ đề 30.3 (triệt tiêu): ω#95;(dn)^(dk) = ωₙᵏ, nên ωₙ^(n/2) = −1`"]
-  n17 --- n18
-  n19["`Bổ đề 30.5 (chia đôi): bình phương n căn bậc n là n/2 căn bậc n/2, mỗi căn xuất hiện hai lần`"]
-  n17 --- n19
-  n20["`Bổ đề 30.6 (tổng): tổng các luỹ thừa của ωₙᵏ bằng 0 khi k không chia hết cho n`"]
-  n17 --- n20
-  n21["`DFT là vectơ giá trị yₖ = A(ωₙᵏ), tính thẳng tốn Θ(n²)`"]
-  n15 --- n21
-  n22["`FFT tách hệ số chỉ số chẵn và lẻ: A(x) = A^[0](x²) + x·A^[1](x²)`"]
-  n15 --- n22
-  n23["`Nhờ bổ đề chia đôi chỉ còn hai DFT cỡ n/2, ghép bằng yₖ = yₖ^[0] ± ωₙᵏ·yₖ^[1]`"]
-  n22 --- n23
-  n24["`T(n) = 2T(n/2) + Θ(n) = Θ(n lg n), ωₙᵏ gọi là hệ số xoay`"]
-  n22 --- n24
-  n25["`Định lý 30.7: nghịch đảo ma trận DFT có phần tử ωₙ^(−kj)/n, nên DFT ngược là FFT với ωₙ⁻¹ rồi chia cho n`"]
-  n15 --- n25
-  n26["`Định lý 30.8 (tích chập): tích chập của a và b bằng DFT ngược của tích từng thành phần hai DFT`"]
-  n15 --- n26
-  n27["`Mục 30.3 — Cài đặt FFT hiệu quả`"]
-  n0 --- n27
-  n28["`Phép con bướm lưu biểu thức con chung t = ω·yₖ^[1] rồi ra yₖ^[0] + t và yₖ^[0] − t`"]
-  n27 --- n28
-  n29["`Thứ tự lá của cây đệ quy với n = 8 là 0, 4, 2, 6, 1, 5, 3, 7, tức hoán vị đảo bit`"]
-  n27 --- n29
-  n30["`ITERATIVE-FFT: BIT-REVERSE-COPY rồi đi từ dưới lên lg n tầng, vòng trong chạy (n/2) lg n lần`"]
-  n27 --- n30
-  n31["`Mạch FFT song song: lg n tầng, mỗi tầng n/2 con bướm, độ sâu Θ(lg n)`"]
-  n27 --- n31
-  n32["`Bài toán cuối chương và ghi chú chương`"]
-  n0 --- n32
-  n33["`30-1 Nhân chia để trị chỉ với 3 phép nhân thay vì 4, nhân đa thức và số n bit trong Θ(n^lg 3)`"]
-  n32 --- n33
-  n34["`30-2 Nhân ma trận Toeplitz với vectơ là một tích chập, chạy O(n lg n)`"]
-  n32 --- n34
-  n35["`30-3 FFT nhiều chiều làm lần lượt DFT một chiều theo từng chiều, tổng O(n lg n)`"]
-  n32 --- n35
-  n36["`30-5 Đánh giá tại n điểm tuỳ ý trong O(n lg² n) bằng phép chia dư theo cây`"]
-  n32 --- n36
-  n37["`30-6 FFT modulo số nguyên tố p = kn + 1 cho kết quả nguyên chính xác, ví dụ p = 17, w = 9`"]
-  n32 --- n37
-  n38["`Ghi chú: Cooley và Tukey thường được ghi công, nhưng FFT đã được tìm ra từ Gauss năm 1805`"]
-  n32 --- n38
-  n39["`Ghi chú: FFTW chạy thử để chọn cách phân rã tốt nhất trên máy cụ thể, đạt Θ(n lg n) với mọi n`"]
-  n32 --- n39
-  n40["`Thông điệp xuyên suốt`"]
-  n0 --- n40
-  n41["`Đổi cách biểu diễn dữ liệu có thể biến phép toán đắt thành phép toán rẻ`"]
-  n40 --- n41
-  n42["`Chọn đúng điểm đánh giá, các căn đơn vị, là chìa khoá để chia để trị được`"]
-  n40 --- n42
-  n43["`Đánh giá và nội suy là cùng một thuật toán, chỉ khác ω và hệ số 1/n`"]
-  n40 --- n43
-  n44["`Từ đệ quy tới vòng lặp tại chỗ tới mạch song song là cùng một cấu trúc con bướm`"]
-  n40 --- n44
+  n18["`Nội suy bằng phân rã LU tốn O(n³), bằng công thức Lagrange (30.5) tốn Θ(n²)`"]
+  n15 --- n18
+  n19["`Chú thích của sách: nội suy là bài toán nổi tiếng khó về độ ổn định số`"]
+  n15 --- n19
+  n20["`Sơ đồ nhân nhanh bốn bước (Hình 30.1)`"]
+  n7 --- n20
+  n21["`Gấp đôi cận bậc bằng n hệ số 0 bậc cao, rồi đánh giá A và B tại 2n căn đơn vị bằng FFT, Θ(n lg n)`"]
+  n20 --- n21
+  n22["`Nhân từng điểm Θ(n), rồi nội suy về dạng hệ số bằng FFT ngược, Θ(n lg n)`"]
+  n20 --- n22
+  n23["`Định lý 30.2: nhân hai đa thức cận bậc n trong Θ(n lg n), đầu vào và đầu ra đều ở dạng hệ số`"]
+  n20 --- n23
+  n24["`Ví dụ (1 + 2x)(3 + 4x): giá trị tại 1, i, −1, −i nhân từng điểm, nội suy ra 3 + 10x + 8x²`"]
+  n20 --- n24
+  n25["`Mục 30.2 — Căn phức của đơn vị, DFT và FFT`"]
+  n0 --- n25
+  n26["`Căn phức của đơn vị`"]
+  n25 --- n26
+  n27["`Có đúng n căn bậc n là e^(2πik/n), cách đều trên đường tròn đơn vị; căn chính ωₙ = e^(2πi/n), ví dụ ω₄ = i`"]
+  n26 --- n27
+  n28["`Các căn bậc n tạo thành nhóm nhân có cấu trúc như (Zₙ, +); ωₙ⁻¹ = ωₙⁿ⁻¹`"]
+  n26 --- n28
+  n29["`Ba bổ đề then chốt`"]
+  n25 --- n29
+  n30["`Bổ đề 30.3 (triệt tiêu): ω#95;(dn)^(dk) = ωₙᵏ; Hệ quả 30.4: n chẵn thì ωₙ^(n/2) = −1`"]
+  n29 --- n30
+  n31["`Bổ đề 30.5 (chia đôi): bình phương n căn bậc n là n/2 căn bậc n/2, mỗi căn xuất hiện hai lần`"]
+  n29 --- n31
+  n32["`Bổ đề 30.6 (tổng): Σⱼ (ωₙᵏ)ʲ = 0 khi k khác 0 và không chia hết cho n`"]
+  n29 --- n32
+  n33["`DFT và RECURSIVE-FFT`"]
+  n25 --- n33
+  n34["`DFT: yₖ = A(ωₙᵏ) = Σⱼ aⱼωₙ^(kj) (30.8), tính thẳng Θ(n²); ví dụ DFT₄(0, 1, 2, 3) = (6, −2 − 2i, −2, −2 + 2i)`"]
+  n33 --- n34
+  n35["`Tách hệ số chỉ số chẵn và lẻ: A(x) = A^[0](x²) + x·A^[1](x²) (30.9)`"]
+  n33 --- n35
+  n36["`Nhờ bổ đề chia đôi còn hai DFT cỡ n/2, ghép bằng yₖ = yₖ^[0] + ωₙᵏyₖ^[1] và yₖ₊ₙ/₂ = yₖ^[0] − ωₙᵏyₖ^[1]`"]
+  n33 --- n36
+  n37["`T(n) = 2T(n/2) + Θ(n) = Θ(n lg n); các ωₙᵏ dùng với cả dấu + và − nên gọi là hệ số xoay`"]
+  n33 --- n37
+  n38["`Nội suy tại căn đơn vị`"]
+  n25 --- n38
+  n39["`DFT viết thành y = Vₙa, ma trận Vandermonde Vₙ có phần tử (k, j) là ωₙ^(kj)`"]
+  n38 --- n39
+  n40["`Định lý 30.7: Vₙ⁻¹ có phần tử (j, k) là ωₙ^(−kj)/n, chứng minh bằng bổ đề tổng`"]
+  n38 --- n40
+  n41["`DFT ngược aⱼ = (1/n)Σₖ yₖωₙ^(−kj) (30.11) là FFT với ωₙ⁻¹ rồi chia cho n, cũng Θ(n lg n)`"]
+  n38 --- n41
+  n42["`Định lý 30.8 (tích chập): a ⊗ b = DFT₂ₙ⁻¹(DFT₂ₙ(a) · DFT₂ₙ(b)), a và b đệm 0 tới độ dài 2n`"]
+  n38 --- n42
+  n43["`Mục 30.3 — Cài đặt FFT hiệu quả`"]
+  n0 --- n43
+  n44["`Phép con bướm lưu biểu thức con chung t = ω·yₖ^[1] rồi ra yₖ^[0] + t và yₖ^[0] − t`"]
+  n43 --- n44
+  n45["`Thứ tự lá của cây đệ quy n = 8 là 0, 4, 2, 6, 1, 5, 3, 7: hoán vị đảo bit, aₖ đặt vào ô rev(k)`"]
+  n43 --- n45
+  n46["`ITERATIVE-FFT`"]
+  n43 --- n46
+  n47["`BIT-REVERSE-COPY rồi với s = 1..lg n, m = 2ˢ, ghép từng cặp DFT cỡ m/2 bằng m/2 con bướm tại chỗ`"]
+  n46 --- n47
+  n48["`Vòng trong chạy L(n) = Σₛ (n/2ˢ)·2ˢ⁻¹ = (n/2) lg n lần; với n = 8 là 12 con bướm`"]
+  n46 --- n48
+  n49["`BIT-REVERSE-COPY tốn O(n lg n), hoặc Θ(n) nếu dùng bảng tra hay bộ đếm đảo bit (Problem 17-1)`"]
+  n46 --- n49
+  n50["`Mạch FFT song song (Hình 30.5)`"]
+  n43 --- n50
+  n51["`Hoán vị đảo bit ở đầu vào, rồi lg n tầng, mỗi tầng n/2 con bướm chạy song song; độ sâu Θ(lg n)`"]
+  n50 --- n51
+  n52["`Tầng s gồm n/2ˢ nhóm, mỗi nhóm 2ˢ⁻¹ con bướm với hệ số xoay ω#95;m⁰ tới ω#95;m^(m/2−1)`"]
+  n50 --- n52
+  n53["`Bài tập, bài toán cuối chương (30-1 đến 30-6) và ghi chú chương`"]
+  n0 --- n53
+  n54["`Bài tập chọn lọc`"]
+  n53 --- n54
+  n55["`30.1-7 Tổng Descartes hai tập số trong 0..10n: nhân Σxᵃ với Σxᵇ bằng FFT, O(n lg n)`"]
+  n54 --- n55
+  n56["`30.2-6 FFT trên vành Zₘ với m = 2^(tn/2) + 1, dùng ω = 2ᵗ làm căn chính bậc n`"]
+  n54 --- n56
+  n57["`30.2-7 Đa thức có các nghiệm z₀..zₙ₋₁ cho trước tìm được trong O(n lg² n)`"]
+  n54 --- n57
+  n58["`30.2-8 Biến đổi chirp yₖ = Σ aⱼz^(kj) với z tuỳ ý là một tích chập, tính trong O(n lg n)`"]
+  n54 --- n58
+  n59["`Bài toán cuối chương`"]
+  n53 --- n59
+  n60["`30-1 Nhân (ax + b)(cx + d) chỉ với 3 phép nhân nhờ (a + b)(c + d); đa thức và số n bit trong Θ(n^lg 3)`"]
+  n59 --- n60
+  n61["`30-2 Ma trận Toeplitz lưu 2n − 1 số, cộng O(n); nhân với vectơ là một tích chập, O(n lg n)`"]
+  n59 --- n61
+  n62["`30-3 DFT d chiều làm lần lượt DFT một chiều theo từng chiều, tổng O(n lg n) không phụ thuộc d`"]
+  n59 --- n62
+  n63["`30-4 Mọi đạo hàm A^(t)(x₀) tính được trong O(n lg n) bằng DFT ngược và một tích chập`"]
+  n59 --- n63
+  n64["`30-5 Đánh giá tại n điểm tuỳ ý trong O(n lg² n) bằng phép chia dư cho các Pᵢⱼ theo cây`"]
+  n59 --- n64
+  n65["`30-6 FFT modulo số nguyên tố p = kn + 1, w = gᵏ mod p cho kết quả nguyên chính xác; ví dụ p = 17, w = 9`"]
+  n59 --- n65
+  n66["`Ghi chú chương`"]
+  n53 --- n66
+  n67["`Cooley và Tukey (thập niên 1960) thường được ghi công, nhưng FFT đã được truy tới Gauss năm 1805`"]
+  n66 --- n67
+  n68["`FFTW của Frigo và Johnson chạy thử để chọn cách phân rã tốt nhất trên máy, đạt Θ(n lg n) với mọi n`"]
+  n66 --- n68
+  n69["`Thông điệp xuyên suốt`"]
+  n0 --- n69
+  n70["`Đổi cách biểu diễn dữ liệu có thể biến phép toán đắt thành phép toán rẻ`"]
+  n69 --- n70
+  n71["`Chọn đúng điểm đánh giá, các căn đơn vị, là chìa khoá để chia để trị được`"]
+  n69 --- n71
+  n72["`Đánh giá và nội suy là cùng một thuật toán, chỉ khác ω và hệ số 1/n`"]
+  n69 --- n72
+  n73["`Từ đệ quy tới vòng lặp tại chỗ tới mạch song song là cùng một cấu trúc con bướm`"]
+  n69 --- n73
   class n0 root
-  class n1,n6,n15,n27,n32,n40 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44 leaf
+  class n1,n7,n25,n43,n53,n69 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n70,n71,n72,n73 leaf
 ```
 
 ## Nguồn
