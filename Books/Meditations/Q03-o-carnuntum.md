@@ -1,17 +1,16 @@
 # Quyển 3 — Ở Carnuntum (Meditations, Book 3)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 3. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 28–39.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Carnuntum là đồn lính lê dương trên bờ sông Danube, ở tỉnh Pannonia Thượng (gần Vienna ngày nay), nơi Marcus đặt đại bản doanh trong khoảng 171–173 khi đánh người Marcomanni và Quadi. Ông đã ngoài năm mươi, sức khoẻ yếu, đế quốc vừa trải qua dịch bệnh Antonine. Quyển 2 ("Bên dòng Gran") đặt nền: buổi sáng chuẩn bị gặp người xấu, cái chết, sự ngắn ngủi. Quyển 3 là quyển có giọng **gấp gáp** nhất: nó mở bằng nỗi lo không phải chết mà là **trí tuệ suy tàn trước khi chết**, rồi phác ra chân dung người tốt lý tưởng, đặt "phần thần linh bên trong" (*daimon*, tức lý trí của mỗi người, được phái Khắc kỷ coi là một mảnh của lý trí vũ trụ) làm chuẩn tối cao để đo mọi giá trị khác. Đây cũng là quyển dài hơi, có tính hệ thống nhất trong ba quyển đầu; nhiều chủ đề của Quyển 4 (nơi ẩn náu bên trong, thành phố thế giới) bắt nguồn từ đây.
-**Ý chính:** Marcus tự nhắc bốn điều. Thứ nhất, **phải khẩn trương**, vì không chỉ đời ngắn mà khả năng hiểu và phán đoán có thể mất đi trước cả cái chết (3.1, 3.14), và những người vĩ đại nhất cũng chết theo những cách tầm thường (3.3). Thứ hai, chỉ có **một chuẩn mực**: phần lý trí dẫn dắt bên trong ta (Marcus gọi là *daimon*, vị thần bên trong, hay *hegemonikon*, phần chỉ huy), khi nó công chính, trung thực, tự chủ, can đảm; nếu không tìm ra gì tốt hơn nó thì mọi thứ khác (danh vọng, quyền lực, của cải, lạc thú) không được chen vào, vì chúng có vẻ dung hoà được nhưng rồi sẽ cuốn ta đi (3.6, 3.7). Thứ ba, **kỷ luật của tư duy**: chỉ nghĩ những điều mà nếu ai hỏi, ta có thể nói thật ngay không hổ thẹn (3.4); bảo vệ năng lực phán đoán (3.9); phân tích mỗi sự vật thành bản chất, thành phần, thời hạn và đức hạnh nó đòi hỏi (3.11). Thứ tư, **chỉ hiện tại là của ta**, đời và danh tiếng đều nhỏ (3.10); điều riêng có của con người không phải cảm giác, ham muốn, hay cả việc dùng trí óc làm công cụ để đạt điều mình muốn (kẻ vô thần, kẻ phản quốc cũng làm được), mà là chấp nhận điều số phận mang đến và giữ phần thần linh bên trong trong sạch (3.16). Lập luận chủ yếu là **loại trừ**: cái gì loài vật, bạo chúa, kẻ đê tiện cũng có thì không thể là điều thiện riêng của con người.
+## Ý chính
 
-> **Lưu ý:**
-> (1) **Văn bản trích có tạp âm từ trang web:** đầu file có đoạn quảng cáo bài viết khác ("Heraclitus... Không ai tắm hai lần trên một dòng sông") và giữa mục 2 và 3 có tiêu đề bài khác ("Học triết học để làm gì?"). Đây không phải lời Marcus.
-> (2) **Dịch giả chen bình luận** ở các mục 8, 13, 15 ("Lời người dịch", "Lưu ý"). Ở mục 15, cách hiểu của dịch giả (các việc trộm cắp, gieo trồng, mua bán "không có mấy giá trị tinh thần", nên giữ bình thản) chỉ là một phỏng đoán; cách đọc phổ biến hơn là ngược lại: người đời không biết những chữ ấy **hàm chứa bao nhiêu ý nghĩa đạo đức**, và muốn thấy "điều cần làm" phải dùng con mắt của lý trí chứ không phải con mắt thịt.
-> (3) **"Chúa"** (3.11, 3.16): nguyên tác nói về "thần" hay "cái thần linh" theo nghĩa Khắc kỷ (lý trí vũ trụ, Zeus), không phải Thiên Chúa của Kitô giáo. Bản Hays có dùng chữ "God" ở đây, nhưng trong tiếng Việt "Chúa" mang sắc thái tôn giáo độc thần dễ gây hiểu lầm. Tương tự, "thiên đường" (3.13) là chữ có nghĩa cõi phúc; nguyên tác Hy Lạp là "những điều thuộc thần linh và những điều thuộc con người" (*ta theia kai anthrōpina*).
-> (4) **Mục 3:** nguyên tác nói Democritus bị **chấy rận** giết, và Socrates bị "một loại sâu bọ khác" giết, tức con người (một câu châm biếm). Bản dịch viết "một loài sâu độc thông thường" và "bởi chính con người", làm mất cái chơi chữ.
-> (5) **Mục 14:** "những cuốn sách thông thường mà ta để dành đến tuổi già" là các **sổ chép trích dẫn** (commonplace books) Marcus tự soạn, không phải sách phổ thông.
-> (6) **Mục 16:** vế "dùng trí óc dẫn đường tới những thứ tốt đẹp nhất" trong nguyên tác là tới **những gì có vẻ là bổn phận** (*ta phainomena kathēkonta*). Chữ "có vẻ" quan trọng: kẻ phản quốc cũng dùng lý trí, nhưng để theo đuổi điều nó **tưởng** là nên làm.
+Marcus tự nhắc bốn điều. Thứ nhất, **phải khẩn trương**, vì không chỉ đời ngắn mà khả năng hiểu và phán đoán có thể mất đi trước cả cái chết (3.1, 3.14), và những người vĩ đại nhất cũng chết theo những cách tầm thường (3.3).
+
+Thứ hai, chỉ có **một chuẩn mực**: phần lý trí dẫn dắt bên trong ta (Marcus gọi là *daimon*, vị thần bên trong, hay *hegemonikon*, phần chỉ huy), khi nó công chính, trung thực, tự chủ, can đảm; nếu không tìm ra gì tốt hơn nó thì mọi thứ khác (danh vọng, quyền lực, của cải, lạc thú) không được chen vào, vì chúng có vẻ dung hoà được nhưng rồi sẽ cuốn ta đi (3.6, 3.7).
+
+Thứ ba, **kỷ luật của tư duy**: chỉ nghĩ những điều mà nếu ai hỏi, ta có thể nói thật ngay không hổ thẹn (3.4); bảo vệ năng lực phán đoán (3.9); phân tích mỗi sự vật thành bản chất, thành phần, thời hạn và đức hạnh nó đòi hỏi (3.11).
+
+Thứ tư, **chỉ hiện tại là của ta**, đời và danh tiếng đều nhỏ (3.10); điều riêng có của con người không phải cảm giác, ham muốn, hay cả việc dùng trí óc làm công cụ để đạt điều mình muốn (kẻ vô thần, kẻ phản quốc cũng làm được), mà là chấp nhận điều số phận mang đến và giữ phần thần linh bên trong trong sạch (3.16).
+
+Lập luận chủ yếu là **loại trừ**: cái gì loài vật, bạo chúa, kẻ đê tiện cũng có thì không thể là điều thiện riêng của con người.
 
 ## Sơ đồ
 
@@ -603,3 +602,28 @@ flowchart LR
   class n1,n10,n20,n30,n37 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 3. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 28–39.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Carnuntum là đồn lính lê dương trên bờ sông Danube, ở tỉnh Pannonia Thượng (gần Vienna ngày nay), nơi Marcus đặt đại bản doanh trong khoảng 171–173 khi đánh người Marcomanni và Quadi. Ông đã ngoài năm mươi, sức khoẻ yếu, đế quốc vừa trải qua dịch bệnh Antonine.
+
+Quyển 2 ("Bên dòng Gran") đặt nền: buổi sáng chuẩn bị gặp người xấu, cái chết, sự ngắn ngủi. Quyển 3 là quyển có giọng **gấp gáp** nhất: nó mở bằng nỗi lo không phải chết mà là **trí tuệ suy tàn trước khi chết**, rồi phác ra chân dung người tốt lý tưởng, đặt "phần thần linh bên trong" (*daimon*, tức lý trí của mỗi người, được phái Khắc kỷ coi là một mảnh của lý trí vũ trụ) làm chuẩn tối cao để đo mọi giá trị khác.
+
+Đây cũng là quyển dài hơi, có tính hệ thống nhất trong ba quyển đầu; nhiều chủ đề của Quyển 4 (nơi ẩn náu bên trong, thành phố thế giới) bắt nguồn từ đây.
+
+## Lưu ý
+
+- **Văn bản trích có tạp âm từ trang web:** đầu file có đoạn quảng cáo bài viết khác ("Heraclitus... Không ai tắm hai lần trên một dòng sông") và giữa mục 2 và 3 có tiêu đề bài khác ("Học triết học để làm gì?"). Đây không phải lời Marcus.
+- **Dịch giả chen bình luận** ở các mục 8, 13, 15 ("Lời người dịch", "Lưu ý"). Ở mục 15, cách hiểu của dịch giả (các việc trộm cắp, gieo trồng, mua bán "không có mấy giá trị tinh thần", nên giữ bình thản) chỉ là một phỏng đoán; cách đọc phổ biến hơn là ngược lại: người đời không biết những chữ ấy **hàm chứa bao nhiêu ý nghĩa đạo đức**, và muốn thấy "điều cần làm" phải dùng con mắt của lý trí chứ không phải con mắt thịt.
+- **"Chúa"** (3.11, 3.16): nguyên tác nói về "thần" hay "cái thần linh" theo nghĩa Khắc kỷ (lý trí vũ trụ, Zeus), không phải Thiên Chúa của Kitô giáo. Bản Hays có dùng chữ "God" ở đây, nhưng trong tiếng Việt "Chúa" mang sắc thái tôn giáo độc thần dễ gây hiểu lầm. Tương tự, "thiên đường" (3.13) là chữ có nghĩa cõi phúc; nguyên tác Hy Lạp là "những điều thuộc thần linh và những điều thuộc con người" (*ta theia kai anthrōpina*).
+- **Mục 3:** nguyên tác nói Democritus bị **chấy rận** giết, và Socrates bị "một loại sâu bọ khác" giết, tức con người (một câu châm biếm). Bản dịch viết "một loài sâu độc thông thường" và "bởi chính con người", làm mất cái chơi chữ.
+- **Mục 14:** "những cuốn sách thông thường mà ta để dành đến tuổi già" là các **sổ chép trích dẫn** (commonplace books) Marcus tự soạn, không phải sách phổ thông.
+- **Mục 16:** vế "dùng trí óc dẫn đường tới những thứ tốt đẹp nhất" trong nguyên tác là tới **những gì có vẻ là bổn phận** (*ta phainomena kathēkonta*). Chữ "có vẻ" quan trọng: kẻ phản quốc cũng dùng lý trí, nhưng để theo đuổi điều nó **tưởng** là nên làm.

@@ -1,11 +1,15 @@
 # Quyển 6 — Nhìn thấu bản chất sự vật (Meditations, Book 6)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 6. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 78–98.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Quyển 6 không có ghi chú địa danh; giới nghiên cứu thường xếp nó vào những năm chiến tranh Marcomanni bên sông Danube (thập niên 170). Đây là quyển dài với 59 mục, nhiều mục rất ngắn, mang dáng sổ tay hơn là luận văn. Quyển này chứa vài đoạn nổi tiếng nhất của cả tác phẩm: cách nhìn "trần trụi" vào món ăn, rượu, áo tía và chuyện ái ân (6.13); bức chân dung thứ hai về cha nuôi Antoninus Pius (6.30), sau bức chân dung dài ở Quyển 1 nơi Marcus kể ơn từng người đã dạy mình; lời tự cảnh báo "đừng để bị Caesar hóa" (6.30); và tuyên bố về hai quốc tịch, La Mã và thế giới (6.44). Nếu Quyển 5 tập trung vào việc hành động, Quyển 6 tập trung vào việc **thấy đúng**: tháo vỏ của sự vật, đặt "tốt" và "xấu" đúng chỗ, và nhìn mọi thứ trong dòng chảy chung của vũ trụ.
-**Ý chính:** Marcus tự nhắc mình bốn nhóm luận điểm. (1) **Nhìn thấu**: phải lột bỏ vẻ hào nhoáng và tiếng tăm bọc quanh sự vật để thấy chúng thực chất là gì (6.13), vì chính thói tự phụ là kẻ lừa đảo lớn nhất; lời tán thưởng của đám đông chỉ là tiếng lưỡi lách cách (6.16). (2) **Đặt "tốt" và "xấu" vào hành động của mình**: nếu gán chúng cho những thứ ngoài quyền ta, ta sẽ oán thần linh và thù ghét con người (6.41); niềm hạnh phúc phải gắn vào hành động của chính mình, không vào lời người khác hay việc xảy đến (6.51). (3) **Vũ trụ là một thể liên kết**: dù là thần quyền có trật tự hay nguyên tử hỗn loạn, thái độ đúng của ta vẫn được xác định (6.10, 6.44); mọi người, kể cả kẻ phá ngang, đều cùng làm một công trình (6.42); cái gì hại tổ ong thì hại con ong (6.54). (4) **Đối xử với con người**: trả thù tốt nhất là không giống kẻ gây hại (6.6), đối thủ trên sàn đấu thì dè chừng mà không ghét (6.20), sẵn sàng đổi ý khi bị chứng minh sai (6.21), và lấy Antoninus làm hình mẫu (6.30). Xuyên suốt là cái chết và sự nhỏ bé: Alexander và người dắt la cùng một số phận (6.24), châu Á và châu Âu là góc vũ trụ (6.36).
+## Ý chính
 
-> **Lưu ý:** (1) Mục 6.13: câu "vẻ ngoài là bậc thầy lừa dối" dịch sai chủ ngữ. Nguyên tác là *typhos* (thói tự phụ, kiêu căng, nghĩa đen "khói"), Hays dịch là *pride*: chính thói tự phụ là kẻ ngụy biện đáng sợ nhất, và lúc ta tưởng mình đang làm việc quan trọng nhất là lúc nó lừa ta nhiều nhất. Bản dịch chuyển thành "vẻ ngoài", làm mất ý Marcus tự cảnh báo chính mình. (2) Mục 6.30: nguyên tác là một chữ Marcus tự đặt, "đừng để bị Caesar hóa" (*apokaisarōthēs*), "đừng để bị nhuộm tía" (màu áo hoàng đế). Bản dịch "tránh để mình trở thành một tên bạo chúa" làm mất ý chính: Marcus sợ **vai trò hoàng đế** nuốt mất con người, chứ không chỉ sợ thành bạo chúa; "vết nhơ không gột sạch" là cách dịch hình ảnh thuốc nhuộm tía. (3) Mục 6.44: "Thành phố của ta... là La Mã - như Antoninus" nói về **chính Marcus**, vì tên chính thức của ông là Marcus Aurelius Antoninus; nghĩa là "với tư cách Antoninus (hoàng đế), thành bang của ta là La Mã". Người đọc bản dịch dễ hiểu nhầm là Antoninus Pius vừa xuất hiện ở 6.30. (4) Mục 6.7 dùng "Thượng Đế/Chúa"; nguyên tác chỉ nói "nhớ đến thần" (*theos*), không có sắc thái Kitô giáo. (5) Mục 6.23: "Chỉ một buổi chiều cũng đủ rồi" là cách dịch thoáng; nguyên tác là "ba giờ như thế cũng đủ". (6) Mục 6.24: người đi cùng Alexander trong nguyên tác là **người dắt la** (*oreōkomos*), bản dịch gọi "kẻ chăn gia súc". (7) Các đoạn "Lời người dịch" (6.15, 6.26, 6.36) là bình luận của dịch giả, không phải lời Marcus; chú thích ở 6.26 suy diễn khá xa về "địa vị hoàng đế". (8) Văn bản PDF có lỗi gõ "phân loai" (6.41), "Và.không gì" (6.58), và các dòng quảng cáo trang web chen giữa mục 6.32 và 6.33. (9) Mục 6.35: bản dịch "đã vượt qua những người kém cỏi hơn" lệch nghĩa; nguyên tác nói người thợ chiều theo người không chuyên tới một mức nào đó, nhưng vẫn bám chặt nguyên tắc nghề mình (dàn ý dưới đây theo nghĩa này).
+Marcus tự nhắc mình bốn nhóm luận điểm.
+
+- **Nhìn thấu**: phải lột bỏ vẻ hào nhoáng và tiếng tăm bọc quanh sự vật để thấy chúng thực chất là gì (6.13), vì chính thói tự phụ là kẻ lừa đảo lớn nhất; lời tán thưởng của đám đông chỉ là tiếng lưỡi lách cách (6.16).
+- **Đặt "tốt" và "xấu" vào hành động của mình**: nếu gán chúng cho những thứ ngoài quyền ta, ta sẽ oán thần linh và thù ghét con người (6.41); niềm hạnh phúc phải gắn vào hành động của chính mình, không vào lời người khác hay việc xảy đến (6.51).
+- **Vũ trụ là một thể liên kết**: dù là thần quyền có trật tự hay nguyên tử hỗn loạn, thái độ đúng của ta vẫn được xác định (6.10, 6.44); mọi người, kể cả kẻ phá ngang, đều cùng làm một công trình (6.42); cái gì hại tổ ong thì hại con ong (6.54).
+- **Đối xử với con người**: trả thù tốt nhất là không giống kẻ gây hại (6.6), đối thủ trên sàn đấu thì dè chừng mà không ghét (6.20), sẵn sàng đổi ý khi bị chứng minh sai (6.21), và lấy Antoninus làm hình mẫu (6.30).
+
+Xuyên suốt là cái chết và sự nhỏ bé: Alexander và người dắt la cùng một số phận (6.24), châu Á và châu Âu là góc vũ trụ (6.36).
 
 ## Sơ đồ
 
@@ -692,7 +696,9 @@ Mục 6.59 kết quyển: hãy nhìn những người mà người ta muốn l�
 
 Phép nhìn trần trụi (con cá chết, nước nho, cơn co giật) là một trong những công cụ thực hành hiệu quả nhất của *Suy tưởng*. Nó chặn đứng cơ chế mà kinh tế học hành vi gọi là "hiệu ứng khung" và "giá trị biểu tượng": cùng một chai rượu ngon hơn khi biết nó đắt, cùng một chiếc áo đáng thèm hơn khi nó mang màu của hoàng đế. Marcus là người khoác áo tía của hoàng đế; chính ông là người cần nhắc mình rằng đó là lông cừu nhúng máu sò.
 
-Nhưng kỹ thuật này có giới hạn. Nếu áp dụng đến cùng, nó cũng có thể lột vỏ những thứ Marcus quý: một bài thơ là mực trên giấy, lòng tốt là xung điện trong não. Marcus tránh hệ quả ấy bằng cách chỉ dùng nó cho những thứ **được ham muốn quá mức** (chỗ nào sự vật có vẻ đáng tin nhất), không cho đức hạnh. Tức là phép nhìn trần trụi là thuốc chữa sự thổi phồng, không phải một triết lý về giá trị. Dùng sai chỗ, nó thành khinh bạc. Đáng chú ý là câu đắt giá nhất của mục này (thói tự phụ lừa ta đúng lúc ta tưởng mình làm việc quan trọng nhất) đã bị bản dịch làm mất, vì dịch *typhos* thành "vẻ ngoài". Marcus không chỉ cảnh giác với sự hào nhoáng bên ngoài; ông cảnh giác với chính cảm giác mình quan trọng.
+Nhưng kỹ thuật này có giới hạn. Nếu áp dụng đến cùng, nó cũng có thể lột vỏ những thứ Marcus quý: một bài thơ là mực trên giấy, lòng tốt là xung điện trong não. Marcus tránh hệ quả ấy bằng cách chỉ dùng nó cho những thứ **được ham muốn quá mức** (chỗ nào sự vật có vẻ đáng tin nhất), không cho đức hạnh. Tức là phép nhìn trần trụi là thuốc chữa sự thổi phồng, không phải một triết lý về giá trị. Dùng sai chỗ, nó thành khinh bạc.
+
+Đáng chú ý là câu đắt giá nhất của mục này (thói tự phụ lừa ta đúng lúc ta tưởng mình làm việc quan trọng nhất) đã bị bản dịch làm mất, vì dịch *typhos* thành "vẻ ngoài". Marcus không chỉ cảnh giác với sự hào nhoáng bên ngoài; ông cảnh giác với chính cảm giác mình quan trọng.
 
 ### Lập luận "thần hay nguyên tử" cho thấy Marcus thực dụng hơn ta tưởng
 
@@ -845,3 +851,31 @@ flowchart LR
   class n1,n11,n22,n31,n39,n50 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 6. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 78–98.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Quyển 6 không có ghi chú địa danh; giới nghiên cứu thường xếp nó vào những năm chiến tranh Marcomanni bên sông Danube (thập niên 170). Đây là quyển dài với 59 mục, nhiều mục rất ngắn, mang dáng sổ tay hơn là luận văn.
+
+Quyển này chứa vài đoạn nổi tiếng nhất của cả tác phẩm: cách nhìn "trần trụi" vào món ăn, rượu, áo tía và chuyện ái ân (6.13); bức chân dung thứ hai về cha nuôi Antoninus Pius (6.30), sau bức chân dung dài ở Quyển 1 nơi Marcus kể ơn từng người đã dạy mình; lời tự cảnh báo "đừng để bị Caesar hóa" (6.30); và tuyên bố về hai quốc tịch, La Mã và thế giới (6.44).
+
+Nếu Quyển 5 tập trung vào việc hành động, Quyển 6 tập trung vào việc **thấy đúng**: tháo vỏ của sự vật, đặt "tốt" và "xấu" đúng chỗ, và nhìn mọi thứ trong dòng chảy chung của vũ trụ.
+
+## Lưu ý
+
+- Mục 6.13: câu "vẻ ngoài là bậc thầy lừa dối" dịch sai chủ ngữ. Nguyên tác là *typhos* (thói tự phụ, kiêu căng, nghĩa đen "khói"), Hays dịch là *pride*: chính thói tự phụ là kẻ ngụy biện đáng sợ nhất, và lúc ta tưởng mình đang làm việc quan trọng nhất là lúc nó lừa ta nhiều nhất. Bản dịch chuyển thành "vẻ ngoài", làm mất ý Marcus tự cảnh báo chính mình.
+- Mục 6.30: nguyên tác là một chữ Marcus tự đặt, "đừng để bị Caesar hóa" (*apokaisarōthēs*), "đừng để bị nhuộm tía" (màu áo hoàng đế). Bản dịch "tránh để mình trở thành một tên bạo chúa" làm mất ý chính: Marcus sợ **vai trò hoàng đế** nuốt mất con người, chứ không chỉ sợ thành bạo chúa; "vết nhơ không gột sạch" là cách dịch hình ảnh thuốc nhuộm tía.
+- Mục 6.44: "Thành phố của ta... là La Mã - như Antoninus" nói về **chính Marcus**, vì tên chính thức của ông là Marcus Aurelius Antoninus; nghĩa là "với tư cách Antoninus (hoàng đế), thành bang của ta là La Mã". Người đọc bản dịch dễ hiểu nhầm là Antoninus Pius vừa xuất hiện ở 6.30.
+- Mục 6.7 dùng "Thượng Đế/Chúa"; nguyên tác chỉ nói "nhớ đến thần" (*theos*), không có sắc thái Kitô giáo.
+- Mục 6.23: "Chỉ một buổi chiều cũng đủ rồi" là cách dịch thoáng; nguyên tác là "ba giờ như thế cũng đủ".
+- Mục 6.24: người đi cùng Alexander trong nguyên tác là **người dắt la** (*oreōkomos*), bản dịch gọi "kẻ chăn gia súc".
+- Các đoạn "Lời người dịch" (6.15, 6.26, 6.36) là bình luận của dịch giả, không phải lời Marcus; chú thích ở 6.26 suy diễn khá xa về "địa vị hoàng đế".
+- Văn bản PDF có lỗi gõ "phân loai" (6.41), "Và.không gì" (6.58), và các dòng quảng cáo trang web chen giữa mục 6.32 và 6.33.
+- Mục 6.35: bản dịch "đã vượt qua những người kém cỏi hơn" lệch nghĩa; nguyên tác nói người thợ chiều theo người không chuyên tới một mức nào đó, nhưng vẫn bám chặt nguyên tắc nghề mình (dàn ý dưới đây theo nghĩa này).

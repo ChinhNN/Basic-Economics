@@ -1,21 +1,18 @@
 # Quyển 4 — Nơi ẩn náu bên trong (Meditations, Book 4)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 4. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 40–59.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Quyển 4 không có tiêu đề địa danh như Quyển 2 ("Bên dòng Gran, giữa những người Quadi") và Quyển 3 ("Ở Carnuntum"), nhưng nhiều khả năng cũng được viết trong những năm chiến dịch bên sông Danube, khi Marcus vừa chỉ huy chiến tranh vừa cai trị một đế quốc bị dịch bệnh Antonine tàn phá. Đây là một trong những quyển dài và giàu chủ đề nhất của tác phẩm. Mục 3 là bài suy tưởng dài nhất trong quyển: ở đó Marcus gom các lập luận dùng để tự trấn an khi bực người, bực số phận, bực thân thể hay bận lòng vì danh tiếng. Quyển 3 đã đặt "phần thần linh bên trong" (*daimon*, tức lý trí của mỗi người, được coi là một mảnh của lý trí vũ trụ) làm thước đo duy nhất; Quyển 4 chỉ ra cách **rút về** phần ấy bất cứ lúc nào, và đặt nó vào một vũ trụ luôn biến đổi mà ta là công dân.
-**Ý chính:** Marcus tự nhắc năm luận điểm. Thứ nhất, **không cần trốn ra biển hay lên núi**: nơi yên tĩnh nhất là tâm trí mình, và bình an chỉ là một tâm trí được sắp xếp ngăn nắp (4.3). Thứ hai, **tổn hại chỉ đến từ phán đoán**: sự vật nằm yên bên ngoài, xáo động đến từ nhận định của ta; bỏ nhận định "ta bị hại" thì cái hại biến mất (4.3, 4.7, 4.39), và một biến cố chỉ là bất hạnh nếu nó ngăn ta sống có đức hạnh, điều mà không biến cố nào làm được (4.49a). Thứ ba, **ta là công dân của thế giới**: vì mọi người cùng có lý trí, ta cùng có luật, nên cùng là công dân một thành phố lớn, tức vũ trụ (4.4); vũ trụ là một sinh thể duy nhất, mọi thứ đan kết theo trật tự (4.40, 4.45). Thứ tư, **mọi thứ đều đổi thay**, và cái chết chỉ là một sự đổi thay như sinh ra (4.5, 4.36, 4.42, 4.43), nên danh tiếng sau khi chết vô nghĩa (4.19, 4.33) và sống thêm vài năm hay chết ngày mai cũng không khác gì (4.47, 4.50). Thứ năm, **làm ít mà đúng**: phần lớn lời nói và việc làm là không cần; hãy tự hỏi "điều này có thật cần không?" và cắt từ gốc là những suy nghĩ thừa (4.24). Phương pháp lập luận chủ đạo là **chuỗi suy diễn** (4.4: tư duy chung → lý trí chung → luật chung → công dân chung → thành phố chung là vũ trụ) và **lập luận hai nhánh** (thiên ý hay nguyên tử, 4.3; trật tự hay hỗn độn, 4.27).
+## Ý chính
 
-> **Lưu ý:**
-> (1) **"Thượng đế hoặc là phân tử" (4.3) dịch sai:** nguyên tác là "**thiên ý** (*pronoia*) hoặc **nguyên tử** (*atomoi*)", tức hai giả thuyết về vũ trụ: có một lý trí an bài (Khắc kỷ) hay chỉ là nguyên tử va chạm ngẫu nhiên (Epicurus, Democritus). "Phân tử" là khái niệm hoá học hiện đại, và "Thượng đế" mang màu độc thần không có trong nguyên tác.
-> (2) **4.3, vế thứ hai trong danh sách:** nguyên tác nói "**nhẫn nại là một phần của công lý**" (*to anechesthai meros tēs dikaiosynēs*). Bản dịch "hành động đúng đắn đôi khi đòi hỏi sự nhẫn nại" làm mất ý chính: chịu đựng người khác không phải sự nhún nhường mà là một bộ phận của đức công bằng.
-> (3) **4.10 mất một phân biệt quan trọng:** nguyên tác nói mọi việc xảy ra "**một cách công bằng**", và nói rõ "không chỉ theo nghĩa nối tiếp nhau theo trình tự, mà theo nghĩa công bằng, như có người cân và phân phát cho mỗi thứ phần nó đáng được". Bản dịch đổi thành "không chỉ đáng xảy ra chung chung mà cần phải xảy ra", tức lại nhấn vào **tính tất yếu**, đúng cái vế mà Marcus nói là chưa đủ.
-> (4) **4.12:** "cái lý trí toàn thể (logos) và luật lệ" trong nguyên tác là lý trí của **năng lực cai trị và lập pháp** trong chính ta (phần chỉ huy), không phải logos của vũ trụ. Tương tự 4.24, "lý trí toàn thể của nhân loại" trong nguyên tác là lý trí của **một sinh vật bản tính sống trong cộng đồng**.
-> (5) **4.29 mất hai hình ảnh:** "kẻ chống đối" trong nguyên tác là **ung nhọt** (*apostēma*) trên thân thể vũ trụ, và "kẻ có khuynh hướng ly giáo" là **mảnh vỡ tách khỏi thành bang** (*aposchisma*). Marcus dùng hình ảnh y học và chính trị, bản dịch dùng từ ngữ tôn giáo ("ly giáo").
-> (6) **4.30 dịch lệch:** nguyên tác có **ba** triết gia (một người không có áo, một người không có sách, một người thứ ba nửa trần) và câu của người thứ ba là "ta không có bánh mì, nhưng ta vẫn **trung thành với lý trí** (*logos*)". Bản dịch gộp làm một người và dịch thành "ta tồn tại trong cái toàn thể"; phần "Lời người dịch" kèm theo vì thế là một cách đọc gượng.
-> (7) **4.33:** "Antonius" phải là **Antoninus** (Antoninus Pius, cha nuôi và người tiền nhiệm của Marcus), không phải Marcus Antonius.
-> (8) **4.48 bị làm nhẹ:** nguyên tác viết "hôm qua là một chút nước nhầy (tinh dịch), ngày mai là xác ướp hay tro". Bản dịch "một giọt của sự sống... đống tro tàn hay xương khô" bỏ đi sự thô ráp cố ý của câu.
-> (9) **Không ghi nguồn:** câu trong ngoặc ở 4.24 ("muốn bình yên, hãy làm ít đi") là của **Democritus**; câu cuối 4.3 ("thế giới là đổi thay, đời là nhận định") có học giả quy cho truyền thống Democritus. Chữ "nhận thức" ở đó dịch *hypolēpsis*, đúng hơn là "**nhận định, ý kiến**". Ở 4.16, nguyên tác là "trong vòng **mười ngày**", không phải "một tuần".
-> (10) **Dịch giả chen bình luận** ở 4.26, 4.28, 4.29, 4.30 ("Lời người dịch"). Phỏng đoán ở 4.26 (Marcus mỉa thói ham của lạ của vua chúa) không có căn cứ trong văn bản. Các ký hiệu "<…>" ở 4.3 và 4.18 là của bản dịch. Văn bản Quyển 4 kéo sang tr. 59 (mục 50–51).
+Marcus tự nhắc năm luận điểm. Thứ nhất, **không cần trốn ra biển hay lên núi**: nơi yên tĩnh nhất là tâm trí mình, và bình an chỉ là một tâm trí được sắp xếp ngăn nắp (4.3).
+
+Thứ hai, **tổn hại chỉ đến từ phán đoán**: sự vật nằm yên bên ngoài, xáo động đến từ nhận định của ta; bỏ nhận định "ta bị hại" thì cái hại biến mất (4.3, 4.7, 4.39), và một biến cố chỉ là bất hạnh nếu nó ngăn ta sống có đức hạnh, điều mà không biến cố nào làm được (4.49a).
+
+Thứ ba, **ta là công dân của thế giới**: vì mọi người cùng có lý trí, ta cùng có luật, nên cùng là công dân một thành phố lớn, tức vũ trụ (4.4); vũ trụ là một sinh thể duy nhất, mọi thứ đan kết theo trật tự (4.40, 4.45).
+
+Thứ tư, **mọi thứ đều đổi thay**, và cái chết chỉ là một sự đổi thay như sinh ra (4.5, 4.36, 4.42, 4.43), nên danh tiếng sau khi chết vô nghĩa (4.19, 4.33) và sống thêm vài năm hay chết ngày mai cũng không khác gì (4.47, 4.50).
+
+Thứ năm, **làm ít mà đúng**: phần lớn lời nói và việc làm là không cần; hãy tự hỏi "điều này có thật cần không?" và cắt từ gốc là những suy nghĩ thừa (4.24).
+
+Phương pháp lập luận chủ đạo là **chuỗi suy diễn** (4.4: tư duy chung → lý trí chung → luật chung → công dân chung → thành phố chung là vũ trụ) và **lập luận hai nhánh** (thiên ý hay nguyên tử, 4.3; trật tự hay hỗn độn, 4.27).
 
 ## Sơ đồ
 
@@ -650,7 +647,9 @@ Nhưng nó có hai giới hạn. Thứ nhất, tâm lý học hiện đại cho 
 
 ### Marcus giằng co giữa "thiên ý" và "nguyên tử", và chọn cách lập luận không phụ thuộc vào câu trả lời
 
-Lập luận hai nhánh xuất hiện nhiều lần trong quyển (4.3, 4.21 với "một đáp án khả dĩ", 4.27). Ông không chắc vũ trụ có lý trí an bài hay chỉ là nguyên tử ngẫu nhiên, không chắc linh hồn còn hay mất. Thay vì giải quyết, ông tìm lý lẽ đúng **trong cả hai trường hợp**: nếu có thiên ý thì điều xảy ra là hợp lý; nếu chỉ là nguyên tử thì không có ai để giận và không có gì đáng sợ. Đây là một kiểu "quyết định vững chắc dưới bất định" rất hiện đại. Tuy vậy, phần lớn quyển (4.9, 4.10, 4.40, 4.45) rõ ràng nghiêng về giả định một vũ trụ có trật tự và công bằng; nếu bỏ giả định ấy, các mục "mọi điều xảy ra đều công bằng" mất nền, chỉ còn lại phần đạo đức về phẩm cách, vốn đứng vững độc lập.
+Lập luận hai nhánh xuất hiện nhiều lần trong quyển (4.3, 4.21 với "một đáp án khả dĩ", 4.27). Ông không chắc vũ trụ có lý trí an bài hay chỉ là nguyên tử ngẫu nhiên, không chắc linh hồn còn hay mất. Thay vì giải quyết, ông tìm lý lẽ đúng **trong cả hai trường hợp**: nếu có thiên ý thì điều xảy ra là hợp lý; nếu chỉ là nguyên tử thì không có ai để giận và không có gì đáng sợ. Đây là một kiểu "quyết định vững chắc dưới bất định" rất hiện đại.
+
+Tuy vậy, phần lớn quyển (4.9, 4.10, 4.40, 4.45) rõ ràng nghiêng về giả định một vũ trụ có trật tự và công bằng; nếu bỏ giả định ấy, các mục "mọi điều xảy ra đều công bằng" mất nền, chỉ còn lại phần đạo đức về phẩm cách, vốn đứng vững độc lập.
 
 ### Lời chê danh tiếng của một người sẽ nổi tiếng gần hai nghìn năm là bằng chứng của giới hạn và của sức mạnh
 
@@ -781,3 +780,32 @@ flowchart LR
   class n1,n10,n21,n30,n39,n46 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 4. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 40–59.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Quyển 4 không có tiêu đề địa danh như Quyển 2 ("Bên dòng Gran, giữa những người Quadi") và Quyển 3 ("Ở Carnuntum"), nhưng nhiều khả năng cũng được viết trong những năm chiến dịch bên sông Danube, khi Marcus vừa chỉ huy chiến tranh vừa cai trị một đế quốc bị dịch bệnh Antonine tàn phá.
+
+Đây là một trong những quyển dài và giàu chủ đề nhất của tác phẩm. Mục 3 là bài suy tưởng dài nhất trong quyển: ở đó Marcus gom các lập luận dùng để tự trấn an khi bực người, bực số phận, bực thân thể hay bận lòng vì danh tiếng.
+
+Quyển 3 đã đặt "phần thần linh bên trong" (*daimon*, tức lý trí của mỗi người, được coi là một mảnh của lý trí vũ trụ) làm thước đo duy nhất; Quyển 4 chỉ ra cách **rút về** phần ấy bất cứ lúc nào, và đặt nó vào một vũ trụ luôn biến đổi mà ta là công dân.
+
+## Lưu ý
+
+- **"Thượng đế hoặc là phân tử" (4.3) dịch sai:** nguyên tác là "**thiên ý** (*pronoia*) hoặc **nguyên tử** (*atomoi*)", tức hai giả thuyết về vũ trụ: có một lý trí an bài (Khắc kỷ) hay chỉ là nguyên tử va chạm ngẫu nhiên (Epicurus, Democritus). "Phân tử" là khái niệm hoá học hiện đại, và "Thượng đế" mang màu độc thần không có trong nguyên tác.
+- **4.3, vế thứ hai trong danh sách:** nguyên tác nói "**nhẫn nại là một phần của công lý**" (*to anechesthai meros tēs dikaiosynēs*). Bản dịch "hành động đúng đắn đôi khi đòi hỏi sự nhẫn nại" làm mất ý chính: chịu đựng người khác không phải sự nhún nhường mà là một bộ phận của đức công bằng.
+- **4.10 mất một phân biệt quan trọng:** nguyên tác nói mọi việc xảy ra "**một cách công bằng**", và nói rõ "không chỉ theo nghĩa nối tiếp nhau theo trình tự, mà theo nghĩa công bằng, như có người cân và phân phát cho mỗi thứ phần nó đáng được". Bản dịch đổi thành "không chỉ đáng xảy ra chung chung mà cần phải xảy ra", tức lại nhấn vào **tính tất yếu**, đúng cái vế mà Marcus nói là chưa đủ.
+- **4.12:** "cái lý trí toàn thể (logos) và luật lệ" trong nguyên tác là lý trí của **năng lực cai trị và lập pháp** trong chính ta (phần chỉ huy), không phải logos của vũ trụ. Tương tự 4.24, "lý trí toàn thể của nhân loại" trong nguyên tác là lý trí của **một sinh vật bản tính sống trong cộng đồng**.
+- **4.29 mất hai hình ảnh:** "kẻ chống đối" trong nguyên tác là **ung nhọt** (*apostēma*) trên thân thể vũ trụ, và "kẻ có khuynh hướng ly giáo" là **mảnh vỡ tách khỏi thành bang** (*aposchisma*). Marcus dùng hình ảnh y học và chính trị, bản dịch dùng từ ngữ tôn giáo ("ly giáo").
+- **4.30 dịch lệch:** nguyên tác có **ba** triết gia (một người không có áo, một người không có sách, một người thứ ba nửa trần) và câu của người thứ ba là "ta không có bánh mì, nhưng ta vẫn **trung thành với lý trí** (*logos*)". Bản dịch gộp làm một người và dịch thành "ta tồn tại trong cái toàn thể"; phần "Lời người dịch" kèm theo vì thế là một cách đọc gượng.
+- **4.33:** "Antonius" phải là **Antoninus** (Antoninus Pius, cha nuôi và người tiền nhiệm của Marcus), không phải Marcus Antonius.
+- **4.48 bị làm nhẹ:** nguyên tác viết "hôm qua là một chút nước nhầy (tinh dịch), ngày mai là xác ướp hay tro". Bản dịch "một giọt của sự sống... đống tro tàn hay xương khô" bỏ đi sự thô ráp cố ý của câu.
+- **Không ghi nguồn:** câu trong ngoặc ở 4.24 ("muốn bình yên, hãy làm ít đi") là của **Democritus**; câu cuối 4.3 ("thế giới là đổi thay, đời là nhận định") có học giả quy cho truyền thống Democritus. Chữ "nhận thức" ở đó dịch *hypolēpsis*, đúng hơn là "**nhận định, ý kiến**". Ở 4.16, nguyên tác là "trong vòng **mười ngày**", không phải "một tuần".
+- **Dịch giả chen bình luận** ở 4.26, 4.28, 4.29, 4.30 ("Lời người dịch"). Phỏng đoán ở 4.26 (Marcus mỉa thói ham của lạ của vua chúa) không có căn cứ trong văn bản. Các ký hiệu "<…>" ở 4.3 và 4.18 là của bản dịch. Văn bản Quyển 4 kéo sang tr. 59 (mục 50–51).

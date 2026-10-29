@@ -1,11 +1,16 @@
 # Quyển 5 — Thức dậy làm việc của con người (Meditations, Book 5)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 5. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 59–77.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Quyển 5 không có ghi chú địa danh như Quyển 2 ("giữa những người Quadi") và Quyển 3 ("ở Carnuntum"), nhưng giới nghiên cứu thường xếp nó vào cùng giai đoạn: những năm 170, khi Marcus chỉ huy chiến tranh chống các bộ tộc Marcomanni và Quadi bên sông Danube, giữa lúc dịch bệnh Antonine hoành hành. Nếu Quyển 4 xây dựng "nơi ẩn náu bên trong" (tâm trí như một pháo đài không gì bên ngoài chạm tới được), thì Quyển 5 chuyển sang câu hỏi thực hành: một người đã hiểu điều đó thì sống từng ngày ra sao, bắt đầu từ việc ra khỏi giường lúc bình minh. Hai đoạn dài và chặt chẽ nhất về lập luận của quyển là mục 1 (vì sao phải dậy làm việc) và mục 8 (Tự nhiên "kê đơn" cho ta như thầy thuốc).
-**Ý chính:** Marcus tự nhắc mình năm điều. (1) Con người được sinh ra để **làm việc của con người**, tức là hành động vì cộng đồng theo lý trí, như cây nho ra quả và con ong làm mật; nằm trong chăn là phản bội bản chất mình, và làm điều tốt mà không đòi đền đáp là cách hành động tự nhiên nhất (5.1, 5.6). (2) Những gì xảy đến với ta là **đơn thuốc của Tự nhiên**: chúng khớp vào toàn thể như viên đá khớp vào bức tường, nên than phiền là cắt xén chính cái toàn thể ấy (5.8). (3) **Không gì bên ngoài chạm được vào tâm trí**; chỉ tâm trí tự chuyển động, và nó có thể biến chướng ngại thành con đường (5.19, 5.20). (4) "Tốt đẹp" theo nghĩa đúng chỉ là phẩm cách; thứ đám đông gọi là tốt (của cải, danh tiếng) không chịu nổi phép thử của chính ngôn ngữ thường ngày (5.12, 5.15). (5) Mọi thứ trôi như dòng sông, phần của ta trong vật chất, thời gian và vận mệnh nhỏ bé, nên tự cao, buồn khổ hay phẫn nộ đều là ngớ ngẩn (5.23, 5.24, 5.33). Cách lập luận đặc trưng của quyển: Marcus **đối thoại với chính mình**, để cái tôi lười biếng hay cáu kỉnh lên tiếng phản bác ("Nhưng nằm đây trong chăn thật thoải mái", "Nhưng họ có não!"), rồi trả lời từng câu.
+## Ý chính
 
-> **Lưu ý:** (1) Mục 5.2: câu kết "Tất cả chỉ như trò chơi của trẻ con mà thôi" hiểu sai câu kết của Hays (*Child's play*), vốn có nghĩa "dễ như trở bàn tay": Marcus nói rằng gạt bỏ mọi ấn tượng phiền nhiễu để lấy lại sự tĩnh lặng là việc **dễ**, chứ không nói mọi thứ là trò trẻ con. (2) Mục 5.5: nguyên tác mở đầu bằng một **nhượng bộ** ("người ta không thể khâm phục ngươi vì sự sắc sảo"), tức Marcus thừa nhận mình không thông minh nhanh nhạy bẩm sinh. Bản dịch biến nó thành mệnh lệnh "Sống sao để không ai có thể nói ta là một kẻ nhanh trí" và chen thêm giải thích riêng, làm câu kết ("đáng ra phải là ta chậm chạp mới đúng") trở nên khó hiểu. Ý đúng: ta không có tài trí, được thôi, nhưng còn bao phẩm chất khác hoàn toàn trong tầm tay; và nếu thật sự chậm hiểu thì cũng phải rèn cả cái đó. (3) Dịch giả dùng "Chúa" và "Thượng Đế/Chúa" ở 5.10 và 5.27. Nguyên tác 5.27 nói phần thần tính trong mỗi người là thứ **Zeus** ban cho; 5.10 nói "vị thần và *daimon* trong ta". Cách gọi "Chúa" mang sắc thái Kitô giáo không có trong văn bản. (4) Mục 5.16: "Thứ tốt đẹp với một sinh vật lý trí là tính không vị kỷ" thu hẹp chữ Hy Lạp *koinōnia* (tính cộng đồng, sự gắn bó với đồng loại); điều Marcus khẳng định là cái thiện của sinh vật lý trí **nằm ở đời sống chung**, không chỉ là sự vắng mặt của ích kỷ. (5) Mục 5.28a: nguyên tác là "không phải diễn viên bi kịch, cũng không phải gái điếm" (Hays: *Neither actor nor whore*), tức đừng sống như kẻ đóng kịch phô trương, cũng đừng như kẻ bán mình cho ham muốn của người khác; "kẻ đóng vai vua" là cách hiểu của dịch giả. (6) Mục 5.29: nguyên tác nói "hãy sống ở đây như ngươi định sống khi đã ra đi" (sau khi rời triều đình hay rời cuộc đời); "thiên đường" trong lời người dịch là phỏng đoán, không có trong văn bản. (7) Mục 5.36: văn bản có chỗ trống "<…>" và câu bị vỡ. Ý của Hays: đừng để trí tưởng tượng cuốn theo nỗi buồn của người khác; hãy giúp họ hết sức và trong chừng mực thích hợp, kể cả khi thứ họ mất là chuyện không quan trọng; nhưng đừng coi đó là tổn hại thật, vì coi như vậy là một thói quen xấu. (8) Mục 5.33: "không gì thực sự thuộc về ta ngoài chính máu thịt của cái cơ thể này" bỏ mất chữ "hơi thở" (*pneumation*): nguyên tác nói mọi thứ **nằm ngoài** cái thân xác và hơi thở nhỏ bé này đều không phải của ta và không trong quyền ta. (9) Các đoạn "Lời người dịch" (5.6, 5.10, 5.12, 5.27, 5.28a, 5.29, 5.31, 5.36) là bình luận của dịch giả chen vào giữa văn bản, không phải lời Marcus. Lỗi chính tả "Stoicicm" ở 5.10.
+Marcus tự nhắc mình năm điều.
+
+- Con người được sinh ra để **làm việc của con người**, tức là hành động vì cộng đồng theo lý trí, như cây nho ra quả và con ong làm mật; nằm trong chăn là phản bội bản chất mình, và làm điều tốt mà không đòi đền đáp là cách hành động tự nhiên nhất (5.1, 5.6).
+- Những gì xảy đến với ta là **đơn thuốc của Tự nhiên**: chúng khớp vào toàn thể như viên đá khớp vào bức tường, nên than phiền là cắt xén chính cái toàn thể ấy (5.8).
+- **Không gì bên ngoài chạm được vào tâm trí**; chỉ tâm trí tự chuyển động, và nó có thể biến chướng ngại thành con đường (5.19, 5.20).
+- "Tốt đẹp" theo nghĩa đúng chỉ là phẩm cách; thứ đám đông gọi là tốt (của cải, danh tiếng) không chịu nổi phép thử của chính ngôn ngữ thường ngày (5.12, 5.15).
+- Mọi thứ trôi như dòng sông, phần của ta trong vật chất, thời gian và vận mệnh nhỏ bé, nên tự cao, buồn khổ hay phẫn nộ đều là ngớ ngẩn (5.23, 5.24, 5.33).
+
+Cách lập luận đặc trưng của quyển: Marcus **đối thoại với chính mình**, để cái tôi lười biếng hay cáu kỉnh lên tiếng phản bác ("Nhưng nằm đây trong chăn thật thoải mái", "Nhưng họ có não!"), rồi trả lời từng câu.
 
 ## Sơ đồ
 
@@ -723,3 +728,29 @@ flowchart LR
   class n1,n12,n20,n31,n39,n47 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 5. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 59–77.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Quyển 5 không có ghi chú địa danh như Quyển 2 ("giữa những người Quadi") và Quyển 3 ("ở Carnuntum"), nhưng giới nghiên cứu thường xếp nó vào cùng giai đoạn: những năm 170, khi Marcus chỉ huy chiến tranh chống các bộ tộc Marcomanni và Quadi bên sông Danube, giữa lúc dịch bệnh Antonine hoành hành.
+
+Nếu Quyển 4 xây dựng "nơi ẩn náu bên trong" (tâm trí như một pháo đài không gì bên ngoài chạm tới được), thì Quyển 5 chuyển sang câu hỏi thực hành: một người đã hiểu điều đó thì sống từng ngày ra sao, bắt đầu từ việc ra khỏi giường lúc bình minh. Hai đoạn dài và chặt chẽ nhất về lập luận của quyển là mục 1 (vì sao phải dậy làm việc) và mục 8 (Tự nhiên "kê đơn" cho ta như thầy thuốc).
+
+## Lưu ý
+
+- Mục 5.2: câu kết "Tất cả chỉ như trò chơi của trẻ con mà thôi" hiểu sai câu kết của Hays (*Child's play*), vốn có nghĩa "dễ như trở bàn tay": Marcus nói rằng gạt bỏ mọi ấn tượng phiền nhiễu để lấy lại sự tĩnh lặng là việc **dễ**, chứ không nói mọi thứ là trò trẻ con.
+- Mục 5.5: nguyên tác mở đầu bằng một **nhượng bộ** ("người ta không thể khâm phục ngươi vì sự sắc sảo"), tức Marcus thừa nhận mình không thông minh nhanh nhạy bẩm sinh. Bản dịch biến nó thành mệnh lệnh "Sống sao để không ai có thể nói ta là một kẻ nhanh trí" và chen thêm giải thích riêng, làm câu kết ("đáng ra phải là ta chậm chạp mới đúng") trở nên khó hiểu. Ý đúng: ta không có tài trí, được thôi, nhưng còn bao phẩm chất khác hoàn toàn trong tầm tay; và nếu thật sự chậm hiểu thì cũng phải rèn cả cái đó.
+- Dịch giả dùng "Chúa" và "Thượng Đế/Chúa" ở 5.10 và 5.27. Nguyên tác 5.27 nói phần thần tính trong mỗi người là thứ **Zeus** ban cho; 5.10 nói "vị thần và *daimon* trong ta". Cách gọi "Chúa" mang sắc thái Kitô giáo không có trong văn bản.
+- Mục 5.16: "Thứ tốt đẹp với một sinh vật lý trí là tính không vị kỷ" thu hẹp chữ Hy Lạp *koinōnia* (tính cộng đồng, sự gắn bó với đồng loại); điều Marcus khẳng định là cái thiện của sinh vật lý trí **nằm ở đời sống chung**, không chỉ là sự vắng mặt của ích kỷ.
+- Mục 5.28a: nguyên tác là "không phải diễn viên bi kịch, cũng không phải gái điếm" (Hays: *Neither actor nor whore*), tức đừng sống như kẻ đóng kịch phô trương, cũng đừng như kẻ bán mình cho ham muốn của người khác; "kẻ đóng vai vua" là cách hiểu của dịch giả.
+- Mục 5.29: nguyên tác nói "hãy sống ở đây như ngươi định sống khi đã ra đi" (sau khi rời triều đình hay rời cuộc đời); "thiên đường" trong lời người dịch là phỏng đoán, không có trong văn bản.
+- Mục 5.36: văn bản có chỗ trống "<…>" và câu bị vỡ. Ý của Hays: đừng để trí tưởng tượng cuốn theo nỗi buồn của người khác; hãy giúp họ hết sức và trong chừng mực thích hợp, kể cả khi thứ họ mất là chuyện không quan trọng; nhưng đừng coi đó là tổn hại thật, vì coi như vậy là một thói quen xấu.
+- Mục 5.33: "không gì thực sự thuộc về ta ngoài chính máu thịt của cái cơ thể này" bỏ mất chữ "hơi thở" (*pneumation*): nguyên tác nói mọi thứ **nằm ngoài** cái thân xác và hơi thở nhỏ bé này đều không phải của ta và không trong quyền ta.
+- Các đoạn "Lời người dịch" (5.6, 5.10, 5.12, 5.27, 5.28a, 5.29, 5.31, 5.36) là bình luận của dịch giả chen vào giữa văn bản, không phải lời Marcus. Lỗi chính tả "Stoicicm" ở 5.10.

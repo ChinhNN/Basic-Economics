@@ -1,11 +1,18 @@
 # Quyển 2 — Bên dòng Gran, giữa những người Quadi (Meditations, Book 2)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 2. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 18–27.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Dòng ghi "Bên dòng Gran, giữa những người Quadi" là một trong hai ghi chú địa danh duy nhất của cả tác phẩm. Sông Gran (nay là sông Hron ở Slovakia) là một nhánh phía bắc sông Danube, nằm trong lãnh thổ bộ tộc Quadi, nơi Marcus đóng quân trong chiến dịch Marcomanni đầu thập niên 170. Trong các bản chép tay, ghi chú này nằm ở cuối Quyển 1; Hays đặt nó làm tiêu đề Quyển 2, vì vậy quyển này thường được coi là phần đầu tiên của những ghi chép tự nhắc hằng ngày. Quyển 2 ngắn (17 mục) nhưng chứa gần như mọi chủ đề lớn sẽ trở lại suốt tác phẩm: đối xử với người khó chịu, cái chết, thời gian ngắn ngủi, lý trí bên trong, đổi thay của vạn vật, và giá trị của hiện tại.
-**Ý chính:** Marcus tự nhắc mình **phải gấp**: ông đã già, thời gian được ban đã gần hết, nên phải thôi đọc sách để mà sống theo điều sách dạy. Ông đưa ra một chuỗi luận điểm để sống được như thế: (1) người khác làm điều xấu vì họ không phân biệt được tốt xấu, và họ không thể làm hại ta hay khiến ta làm điều xấu; ta với họ là bộ phận của cùng một cơ thể, nên giận dữ là trái tự nhiên (2.1); (2) chỉ có một thứ đáng giữ là phần lý trí dẫn dắt bên trong (*hegemonikon*, tức phần chỉ huy; Marcus còn gọi nó là *daimon*, vị thần bên trong mỗi người), còn thân thể là máu xương, hơi thở chỉ là không khí ra vào (2.2, 2.13, 2.17); (3) những thứ đến với người tốt lẫn người xấu như nhau (sống chết, giàu nghèo, đau và sướng) thì không tốt không xấu (2.11); (4) ta chỉ có thể mất hiện tại, nên đời dài hay ngắn như nhau (2.14); (5) cái chết là một quá trình của tự nhiên, là sự phân rã để tạo vật khác, và không gì thuận tự nhiên lại là xấu (2.12, 2.17). Kết luận: chỉ có triết học, hiểu là việc giữ cho phần lý trí bên trong an toàn và tự do, mới dẫn đường được.
+## Ý chính
 
-> **Lưu ý:** (1) Ở 2.11, "thế giới không có thần linh và Thượng đế": nguyên văn là thế giới không có thần linh và **không có sự quan phòng** (*pronoia*, Hays: "Providence"). "Thượng đế" mang sắc thái độc thần không có ở đây. Cũng ở 2.11, bản dịch chèn "(cái chết)" vào câu "nếu nó không thể làm hại phẩm cách của ta…"; nguyên văn nói chung về **bất cứ thứ gì**: cái gì không làm con người tệ đi thì không thể làm đời người tệ đi. Chèn "cái chết" làm hẹp một nguyên lý tổng quát. (2) Ở 2.12, cái chết "không chỉ là một tiến trình của tự nhiên, mà còn là tất yếu": nguyên văn là "mà còn **có ích** cho tự nhiên". Ý này quan trọng vì Marcus lập luận rằng cái chết phục vụ toàn thể. (3) Ở 2.15, Monimus là triết gia **phái Khuyển nho** (Cynic, học trò của Diogenes), không phải "người yếm thế". (4) Chú thích của dịch giả ở 2.4 nói tâm trí "thuộc về thiên đường, nơi nó đồng hành cùng Chúa" là cách đọc mang màu Kitô giáo. Phái Khắc kỷ không có "thiên đường" hay "Chúa"; với họ tâm trí là một mảnh của lý trí vũ trụ, khi chết sẽ trở về, hoà vào toàn thể. Marcus ở các quyển sau còn để ngỏ cả khả năng chết là tan biến hẳn. (5) Ở 2.16, "điều luật và quy tắc đã có từ thiên cổ" làm mất hình ảnh gốc: lý trí và luật của **thành bang, nhà nước cổ xưa nhất**, tức vũ trụ như một thành bang chung (*kosmopolis*). (6) "Vòng luân hồi" (2.17) và "chánh niệm" (2.8) là thuật ngữ Phật giáo; ý Marcus là sự chuyển hoá các nguyên tố trong tự nhiên và việc để tâm đến chuyển động trong tâm trí mình, không phải tái sinh hay một phép thiền. (7) Ở 2.2, "linh hồn" dịch chữ *pneuma*, hơi thở, mà Marcus mô tả là không khí hít vào thở ra; ở 2.17 "linh hồn" dịch chữ *psychē* (trong tâm lý học Khắc kỷ, linh hồn cũng là một dạng *pneuma*). Cả hai cần phân biệt với "tâm trí" (*hegemonikon*), phần duy nhất ông coi là đáng giữ.
+Marcus tự nhắc mình **phải gấp**: ông đã già, thời gian được ban đã gần hết, nên phải thôi đọc sách để mà sống theo điều sách dạy.
+
+Ông đưa ra một chuỗi luận điểm để sống được như thế:
+
+- người khác làm điều xấu vì họ không phân biệt được tốt xấu, và họ không thể làm hại ta hay khiến ta làm điều xấu; ta với họ là bộ phận của cùng một cơ thể, nên giận dữ là trái tự nhiên (2.1);
+- chỉ có một thứ đáng giữ là phần lý trí dẫn dắt bên trong (*hegemonikon*, tức phần chỉ huy; Marcus còn gọi nó là *daimon*, vị thần bên trong mỗi người), còn thân thể là máu xương, hơi thở chỉ là không khí ra vào (2.2, 2.13, 2.17);
+- những thứ đến với người tốt lẫn người xấu như nhau (sống chết, giàu nghèo, đau và sướng) thì không tốt không xấu (2.11);
+- ta chỉ có thể mất hiện tại, nên đời dài hay ngắn như nhau (2.14);
+- cái chết là một quá trình của tự nhiên, là sự phân rã để tạo vật khác, và không gì thuận tự nhiên lại là xấu (2.12, 2.17).
+
+Kết luận: chỉ có triết học, hiểu là việc giữ cho phần lý trí bên trong an toàn và tự do, mới dẫn đường được.
 
 ## Sơ đồ
 
@@ -162,7 +169,11 @@ Quyển 2 ngắn, chỉ có 17 mục, nhưng chứa gần như mọi chủ đề
 | Thân thể, hơi thở, tâm trí | 2.2, 2.13, 2.17 | Chỉ phần dẫn dắt là đáng giữ |
 | Năm cách linh hồn tự hạ giá | 2.10, 2.16 | Đều là tách mình khỏi toàn thể và lý trí |
 
-Mạch đầu tiên chạy qua cả quyển như một nhịp trống. Marcus nhắc rằng ông đã già (2.2); thời gian được ban có giới hạn, ông đã hoãn quá lâu và thần linh đã gia hạn nhiều lần (2.4); mỗi người chỉ có một đời, và đời ông đã gần hết (2.6). Từ đó ông rút ra ba mệnh lệnh: thôi đọc thêm sách mà phải làm theo điều sách dạy, và bỏ mọi thứ làm sao nhãng (2.2, 2.3, 2.5, 2.7); làm mỗi việc như việc cuối cùng trong đời (2.5); làm, nói, nghĩ như một người có thể rời bỏ cuộc sống ngay bây giờ (2.11). Và ông đưa ra năm lý do để không sợ chết: nếu có thần linh thì họ không đưa ta đến điều có hại; nếu không có, hay họ không quan tâm, thì sống trong thế giới ấy có gì đáng (2.11); chết là quá trình tự nhiên, chỉ trẻ con mới sợ, lại có ích cho tự nhiên (2.12); chết là các thành phần phân rã để tạo vật khác, mà các nguyên tố không bị hại gì khi chuyển từ vật này sang vật khác (2.17); và không gì thuận tự nhiên lại là xấu (2.17).
+Mạch đầu tiên chạy qua cả quyển như một nhịp trống. Marcus nhắc rằng ông đã già (2.2); thời gian được ban có giới hạn, ông đã hoãn quá lâu và thần linh đã gia hạn nhiều lần (2.4); mỗi người chỉ có một đời, và đời ông đã gần hết (2.6).
+
+Từ đó ông rút ra ba mệnh lệnh: thôi đọc thêm sách mà phải làm theo điều sách dạy, và bỏ mọi thứ làm sao nhãng (2.2, 2.3, 2.5, 2.7); làm mỗi việc như việc cuối cùng trong đời (2.5); làm, nói, nghĩ như một người có thể rời bỏ cuộc sống ngay bây giờ (2.11).
+
+Và ông đưa ra năm lý do để không sợ chết: nếu có thần linh thì họ không đưa ta đến điều có hại; nếu không có, hay họ không quan tâm, thì sống trong thế giới ấy có gì đáng (2.11); chết là quá trình tự nhiên, chỉ trẻ con mới sợ, lại có ích cho tự nhiên (2.12); chết là các thành phần phân rã để tạo vật khác, mà các nguyên tố không bị hại gì khi chuyển từ vật này sang vật khác (2.17); và không gì thuận tự nhiên lại là xấu (2.17).
 
 ### Mục 1: lời tự nhủ buổi sáng
 
@@ -419,7 +430,11 @@ Một chi tiết đáng chú ý: lời kêu "vứt bỏ tất cả sách vở" c
 
 ### Lập luận "thần linh hay không thần linh" mạnh ở nhánh đầu, yếu ở nhánh sau
 
-2.11 là bản đầu tiên của một lập luận Marcus sẽ lặp lại nhiều lần (sau này dạng "thần linh hay nguyên tử", tức vũ trụ có trật tự hay chỉ là va chạm ngẫu nhiên như phái Epicurus nghĩ). Nhánh đầu chặt: nếu có thần linh tốt lành thì cái chết không thể là điều xấu với ta. Nhưng nhánh sau (nếu không có thần linh thì sống làm gì) không chứng minh rằng chết không xấu; nó chỉ nói rằng một thế giới như thế không đáng sống, tức là dời câu hỏi sang chỗ khác. Phần còn lại của mục chuyển sang khẳng định rằng thần linh có tồn tại, và mọi lập luận phía sau (tự nhiên không bất lực, không phân phối tốt xấu bừa bãi) đều dựa vào giả định đó. Đây là giả định ngầm lớn nhất của triết học Marcus: vũ trụ có trật tự hợp lý và tốt lành. Ai không chia sẻ giả định ấy vẫn giữ được phần lớn kỹ thuật thực hành (2.1, 2.14, 2.15), nhưng mất đi nền tảng an ủi siêu hình của chúng. Marcus dường như cũng biết điều đó, nên ở các quyển sau ông cố xây những lời tự nhắc đứng vững được cả khi vũ trụ chỉ là nguyên tử.
+2.11 là bản đầu tiên của một lập luận Marcus sẽ lặp lại nhiều lần (sau này dạng "thần linh hay nguyên tử", tức vũ trụ có trật tự hay chỉ là va chạm ngẫu nhiên như phái Epicurus nghĩ). Nhánh đầu chặt: nếu có thần linh tốt lành thì cái chết không thể là điều xấu với ta. Nhưng nhánh sau (nếu không có thần linh thì sống làm gì) không chứng minh rằng chết không xấu; nó chỉ nói rằng một thế giới như thế không đáng sống, tức là dời câu hỏi sang chỗ khác.
+
+Phần còn lại của mục chuyển sang khẳng định rằng thần linh có tồn tại, và mọi lập luận phía sau (tự nhiên không bất lực, không phân phối tốt xấu bừa bãi) đều dựa vào giả định đó. Đây là giả định ngầm lớn nhất của triết học Marcus: vũ trụ có trật tự hợp lý và tốt lành.
+
+Ai không chia sẻ giả định ấy vẫn giữ được phần lớn kỹ thuật thực hành (2.1, 2.14, 2.15), nhưng mất đi nền tảng an ủi siêu hình của chúng. Marcus dường như cũng biết điều đó, nên ở các quyển sau ông cố xây những lời tự nhắc đứng vững được cả khi vũ trụ chỉ là nguyên tử.
 
 Lập luận về "điều đến với cả người tốt lẫn người xấu thì không phải tốt hay xấu" cũng có giới hạn. Nó đúng nếu ta đã chấp nhận định nghĩa Khắc kỷ rằng "tốt" nghĩa là "làm người ta tốt hơn". Nhưng với một định nghĩa thông thường (tốt là có lợi cho đời sống), nghèo đói và bệnh tật rõ ràng là xấu dù đến với ai. Phái Khắc kỷ trả lời bằng khái niệm "điều trung tính đáng chọn" (sức khoẻ, của cải đáng chọn nhưng không phải là thiện), một sự tinh tế Marcus không trình bày ở đây.
 
@@ -437,7 +452,9 @@ Nghiên cứu về điều tiết cảm xúc ủng hộ phần cốt lõi của 
 
 **Với người đi làm.** Lời tự nhủ buổi sáng có thể dùng nguyên dạng: trước một cuộc họp với đối tác khó tính hay một khách hàng hay phàn nàn, dự liệu trước họ sẽ khó chịu, và quyết trước rằng sự khó chịu của họ không quyết định cách mình làm việc. Câu hỏi 2.7 nên đặt cho cả lịch làm việc: trong tuần này, bao nhiêu giờ "hùng hục" mà không phục vụ mục tiêu nào? Văn hoá làm thêm giờ để được nhìn thấy là đúng cái Marcus gọi là phí đời dù chăm chỉ.
 
-**Với nhà đầu tư cá nhân.** Mục 2.14 là thuốc giải cho hiệu ứng chi phí chìm và "gồng lỗ". Khoản lỗ đã xảy ra là quá khứ, không còn là thứ ta có để mất; câu hỏi duy nhất là với số tiền đang có **hôm nay**, vị thế này có còn đáng giữ không. Người cầm cổ phiếu đã giảm 50% vì "chờ về giá vốn" là đang để quá khứ quyết định hiện tại. Mục 2.6 cảnh báo việc đặt hạnh phúc vào tâm hồn người khác: trên thị trường chứng khoán Việt Nam, đó là việc để các hội nhóm, "chuyên gia" trên mạng hay số đông trong phòng chat quyết định cảm xúc và lệnh mua bán của mình. Mục 2.15 (mọi thứ là ý kiến) giúp tách sự kiện ("giá giảm 7%") khỏi phán đoán ("mình là kẻ thất bại", "thị trường sụp rồi"); chỉ cái đầu là dữ kiện, cái sau là lựa chọn.
+**Với nhà đầu tư cá nhân.** Mục 2.14 là thuốc giải cho hiệu ứng chi phí chìm và "gồng lỗ". Khoản lỗ đã xảy ra là quá khứ, không còn là thứ ta có để mất; câu hỏi duy nhất là với số tiền đang có **hôm nay**, vị thế này có còn đáng giữ không. Người cầm cổ phiếu đã giảm 50% vì "chờ về giá vốn" là đang để quá khứ quyết định hiện tại.
+
+Mục 2.6 cảnh báo việc đặt hạnh phúc vào tâm hồn người khác: trên thị trường chứng khoán Việt Nam, đó là việc để các hội nhóm, "chuyên gia" trên mạng hay số đông trong phòng chat quyết định cảm xúc và lệnh mua bán của mình. Mục 2.15 (mọi thứ là ý kiến) giúp tách sự kiện ("giá giảm 7%") khỏi phán đoán ("mình là kẻ thất bại", "thị trường sụp rồi"); chỉ cái đầu là dữ kiện, cái sau là lựa chọn.
 
 **Với người quản lý.** Mục 2.1 nhắc rằng nhân viên làm sai phần lớn vì không biết hoặc không được hướng dẫn, nên phản ứng đúng là chỉ dạy chứ không phải trút giận; và mục 2.10 nhắc người có quyền rằng cám dỗ lớn hơn của quyền lực không phải nóng giận mà là hưởng thụ: dùng xe công, chi tiêu tiếp khách, những đặc quyền nhỏ mà không ai dám nói. Marcus coi những lỗi ấy nặng hơn, vì người phạm chúng không bị đẩy vào, mà tự chọn.
 
@@ -546,3 +563,27 @@ flowchart LR
   class n1,n12,n17,n24,n31,n40 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 2. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 18–27.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Dòng ghi "Bên dòng Gran, giữa những người Quadi" là một trong hai ghi chú địa danh duy nhất của cả tác phẩm. Sông Gran (nay là sông Hron ở Slovakia) là một nhánh phía bắc sông Danube, nằm trong lãnh thổ bộ tộc Quadi, nơi Marcus đóng quân trong chiến dịch Marcomanni đầu thập niên 170. Trong các bản chép tay, ghi chú này nằm ở cuối Quyển 1; Hays đặt nó làm tiêu đề Quyển 2, vì vậy quyển này thường được coi là phần đầu tiên của những ghi chép tự nhắc hằng ngày.
+
+Quyển 2 ngắn (17 mục) nhưng chứa gần như mọi chủ đề lớn sẽ trở lại suốt tác phẩm: đối xử với người khó chịu, cái chết, thời gian ngắn ngủi, lý trí bên trong, đổi thay của vạn vật, và giá trị của hiện tại.
+
+## Lưu ý
+
+- Ở 2.11, "thế giới không có thần linh và Thượng đế": nguyên văn là thế giới không có thần linh và **không có sự quan phòng** (*pronoia*, Hays: "Providence"). "Thượng đế" mang sắc thái độc thần không có ở đây. Cũng ở 2.11, bản dịch chèn "(cái chết)" vào câu "nếu nó không thể làm hại phẩm cách của ta…"; nguyên văn nói chung về **bất cứ thứ gì**: cái gì không làm con người tệ đi thì không thể làm đời người tệ đi. Chèn "cái chết" làm hẹp một nguyên lý tổng quát.
+- Ở 2.12, cái chết "không chỉ là một tiến trình của tự nhiên, mà còn là tất yếu": nguyên văn là "mà còn **có ích** cho tự nhiên". Ý này quan trọng vì Marcus lập luận rằng cái chết phục vụ toàn thể.
+- Ở 2.15, Monimus là triết gia **phái Khuyển nho** (Cynic, học trò của Diogenes), không phải "người yếm thế".
+- Chú thích của dịch giả ở 2.4 nói tâm trí "thuộc về thiên đường, nơi nó đồng hành cùng Chúa" là cách đọc mang màu Kitô giáo. Phái Khắc kỷ không có "thiên đường" hay "Chúa"; với họ tâm trí là một mảnh của lý trí vũ trụ, khi chết sẽ trở về, hoà vào toàn thể. Marcus ở các quyển sau còn để ngỏ cả khả năng chết là tan biến hẳn.
+- Ở 2.16, "điều luật và quy tắc đã có từ thiên cổ" làm mất hình ảnh gốc: lý trí và luật của **thành bang, nhà nước cổ xưa nhất**, tức vũ trụ như một thành bang chung (*kosmopolis*).
+- "Vòng luân hồi" (2.17) và "chánh niệm" (2.8) là thuật ngữ Phật giáo; ý Marcus là sự chuyển hoá các nguyên tố trong tự nhiên và việc để tâm đến chuyển động trong tâm trí mình, không phải tái sinh hay một phép thiền.
+- Ở 2.2, "linh hồn" dịch chữ *pneuma*, hơi thở, mà Marcus mô tả là không khí hít vào thở ra; ở 2.17 "linh hồn" dịch chữ *psychē* (trong tâm lý học Khắc kỷ, linh hồn cũng là một dạng *pneuma*). Cả hai cần phân biệt với "tâm trí" (*hegemonikon*), phần duy nhất ông coi là đáng giữ.

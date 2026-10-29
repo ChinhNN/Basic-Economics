@@ -1,12 +1,17 @@
 # Phụ lục — Giờ khắc cuối cùng của hoàng đế triết gia
 
-**Nguồn:** Bài "Bonus: Giờ khắc cuối cùng của hoàng đế triết gia - Marcus Aurelius", in kèm sau Quyển 12 trong bản dịch *Suy tưởng* của Andy Lương (chunghiakhacky.com), tr. 208–227. Theo lời dẫn của chính dịch giả ở đầu bài, đây là bản dịch **chương cuối** của cuốn *How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius* (Donald Robertson, St. Martin's Press, 2019). Andy Lương dịch lại vì "đọc lại mấy lần, lần nào cũng rưng rưng", và chen thêm hai "Lời người dịch" trong ngoặc.
-**Tác giả:** **Donald Robertson** (sinh 1972), nhà trị liệu tâm lý người Scotland theo trường phái nhận thức hành vi (CBT), chuyên viết về ứng dụng Khắc kỷ trong tâm lý trị liệu. **Không phải văn bản của Marcus Aurelius.** Người dịch: Andy Lương.
-**Thể loại:** **Hư cấu lịch sử dạng độc thoại nội tâm.** Một đoạn ngắn ở ngôi thứ ba dựng cảnh, rồi chuyển sang ngôi thứ nhất: Marcus đang hấp hối "nghĩ thành lời" trong đêm cuối. Khung cảnh dựa trên các ghi chép cổ (chủ yếu *Historia Augusta*, phần tiểu sử Marcus, và sử của Dio Cassius); nội dung suy nghĩ là một **bức khảm** ghép từ hàng chục đoạn trong chính *Suy tưởng* (Quyển 2, 4, 6, 7, 8, 9, 10, 11, 12), cộng thêm Plato (*Phaedo*, *Cộng hoà*), Cicero (*Giấc mơ của Scipio*), Homer, Euripides, Epictetus, Diogenes Laertius (giai thoại Zeno, Xenophon), châm ngôn Epicurus và chi tiết tưởng tượng của Robertson.
-**Vị trí trong tác phẩm:** Trong sách của Robertson, mỗi chương kết hợp tiểu sử Marcus với một kỹ thuật tâm lý Khắc kỷ; chương cuối bàn về chiêm nghiệm cái chết, và cảnh hấp hối này là phần khép lại, cho thấy mọi bài tập trong sách (tách phán đoán khỏi sự việc, nhìn từ trên cao, chiêm nghiệm vô thường, sống theo lý trí) "được dùng thật" vào giờ phút cuối. Trong bản PDF tiếng Việt, nó được đặt sau Quyển 12 như một phần thưởng (bonus) cho người đọc, nối tiếp hình ảnh diễn viên rời sân khấu ở cuối Quyển 12.
-**Ý chính:** Robertson dựng lại đêm cuối của Marcus ở Vindobona (17/3/180) để chứng minh rằng triết học Khắc kỷ **dùng được ngay trước cái chết**. Người hấp hối đi qua bốn chặng: (1) **dòng sông vô thường**: nhìn sông Danube và nhớ câu Heraclitus rằng không ai bước hai lần xuống cùng một dòng sông, ông thấy sống và chết đều là thay đổi, cố níu là vô ích; (2) **nhớ những người đã mất**: các con chết sớm, cha mẹ, em nuôi Lucius, vợ Faustina; tiếc thương là tự nhiên nhưng không được tự làm nỗi đau nặng thêm; (3) **tháo mặt nạ cái chết**, tức bóc đi những hình dung đáng sợ quanh nó: dựa vào lời Socrates, lập luận của Epicurus, giai thoại Zeno và các hình ảnh chùm nho xanh rồi chín rồi khô, sáp nặn hết hình này sang hình khác, ông thấy cái chết không xấu, chỉ là trả các thành phần về tự nhiên; nỗi sợ chết mới là tai hoạ thật; (4) **cái nhìn từ trên cao**: linh hồn bay lên giữa các vì sao, thấy nhân loại như đàn kiến, trái đất như một chấm, và rút ra hai việc duy nhất đáng làm: **sống theo lý trí** và **đón nhận bình thản mọi điều tự nhiên gửi tới**. Bài kết bằng một bản diễn đạt gần như trọn vẹn đoạn 2.17 của *Suy tưởng*: chỉ triết học dẫn đường được cho con người.
+## Ý chính
 
-> **Lưu ý:** (1) **Đây là hư cấu.** Không có nguồn cổ nào ghi lại suy nghĩ của Marcus lúc lâm chung; toàn bộ độc thoại là sáng tác của Robertson, phần lớn câu chữ được diễn đạt lại từ chính *Suy tưởng*. Đừng trích các câu trong bài này như "lời Marcus". (2) **Câu "hãy đi tìm mặt trời đang mọc" bị dịch lệch.** Theo *Historia Augusta*, khi viên tribune trực đêm đến xin khẩu lệnh, Marcus bảo hãy đi về phía mặt trời đang mọc, vì ông đã lặn rồi, tức là: hãy phục vụ người kế vị Commodus. Bản dịch viết thành lời Marcus nhờ lính gác "đưa ta ra chỗ mặt trời mọc", làm mất nghĩa chuyển giao quyền lực. Ý gốc còn sót lại ở câu sau trong bài: thần mặt trời lặn đêm nay mang ông theo, ngày mai người khác "mọc lên" thay. (3) **"Bệnh dịch hạch"** là cách gọi sai: dịch bệnh Antonine (từ năm 165) theo mô tả của Galen nhiều khả năng là **đậu mùa**, không phải dịch hạch. Việc chính Marcus chết vì dịch này cũng chỉ là một khả năng (xem bảng phân biệt sử và hư cấu bên dưới). (4) Hai **"Lời người dịch"** (về câu dân chúng đồng thanh "trả Ngài về với Tự nhiên" theo Ryan Holiday, và về chữ "ít sợ nhất" của Socrates) là của Andy Lương, không có trong bản Robertson. Giai thoại thứ nhất không khớp câu chữ với nguồn cổ: *Historia Augusta* chỉ kể rằng ở tang lễ không ai coi việc than khóc là phải lẽ, vì mọi người tin ông được thần linh cho mượn và nay trở về với thần linh. (5) Ghi chú "(ý chỉ những đứa con của ngài)" và các dòng "(trích thơ Euripides)", "(trích thơ Homer)" cũng là chú thích chen vào. (6) "Một giọt sự sống" là cách nói đã làm nhẹ đi; đoạn gốc của Marcus (4.48) nói thẳng hơn về tinh dịch hôm nay, tro hay xác ướp ngày mai. (7) "Nhà thờ ở Mithras" nên hiểu là **đền thờ thần Mithras** (mithraeum), loại đền ngầm có trần vẽ sao rất phổ biến trong quân đội La Mã vùng Danube. (8) Các trang cuối có dòng quảng cáo của trang chunghiakhacky.com, không thuộc văn bản.
+Robertson dựng lại đêm cuối của Marcus ở Vindobona (17/3/180) để chứng minh rằng triết học Khắc kỷ **dùng được ngay trước cái chết**.
+
+Người hấp hối đi qua bốn chặng:
+
+- **dòng sông vô thường**: nhìn sông Danube và nhớ câu Heraclitus rằng không ai bước hai lần xuống cùng một dòng sông, ông thấy sống và chết đều là thay đổi, cố níu là vô ích;
+- **nhớ những người đã mất**: các con chết sớm, cha mẹ, em nuôi Lucius, vợ Faustina; tiếc thương là tự nhiên nhưng không được tự làm nỗi đau nặng thêm;
+- **tháo mặt nạ cái chết**, tức bóc đi những hình dung đáng sợ quanh nó: dựa vào lời Socrates, lập luận của Epicurus, giai thoại Zeno và các hình ảnh chùm nho xanh rồi chín rồi khô, sáp nặn hết hình này sang hình khác, ông thấy cái chết không xấu, chỉ là trả các thành phần về tự nhiên; nỗi sợ chết mới là tai hoạ thật;
+- **cái nhìn từ trên cao**: linh hồn bay lên giữa các vì sao, thấy nhân loại như đàn kiến, trái đất như một chấm, và rút ra hai việc duy nhất đáng làm: **sống theo lý trí** và **đón nhận bình thản mọi điều tự nhiên gửi tới**.
+
+Bài kết bằng một bản diễn đạt gần như trọn vẹn đoạn 2.17 của *Suy tưởng*: chỉ triết học dẫn đường được cho con người.
 
 ## Sơ đồ
 
@@ -457,15 +462,23 @@ Các câu dưới đây là lời của Robertson (qua bản dịch Andy Lương
 
 ### Bài này ghép các đoạn của *Suy tưởng* thành một câu chuyện, và giá trị lớn nhất nằm ở chỗ đó
 
-Gần như mọi hình ảnh mạnh trong bài đều có địa chỉ trong *Suy tưởng*: Alexander và người chăn la (6.24), dòng họ tuyệt tự (8.31), danh sách các thời đại (4.32–4.33), chùm nho (11.35), sáp nặn (7.23), châu lục như hạt bụi (6.36), mặt trời không làm việc của mưa (6.43), tia sáng (8.57), lửa (4.1), khối cầu (12.3), và đoạn kết gần như trọn 2.17. Robertson không bịa ra một triết học mới cho Marcus; ông sắp xếp lại các lời tự nhắc rời rạc của 12 quyển thành **một trình tự trị liệu**: buông bỏ, vì mọi thứ đều trôi qua → tiếc thương có chừng mực → gỡ bỏ nỗi sợ chết → nhìn việc của mình từ trên cao để thấy nó nhỏ lại → hành động theo lý trí. Đọc sau 12 quyển, bài cho người đọc một bản đồ thống nhất mà chính *Suy tưởng* (vốn là sổ tay) không có. Điểm yếu đi kèm: trình tự mượt mà ấy khiến người đọc dễ quên rằng Marcus thật viết rời rạc, lặp lại, giằng co, chứ không đi một mạch tới sự giác ngộ.
+Gần như mọi hình ảnh mạnh trong bài đều có địa chỉ trong *Suy tưởng*: Alexander và người chăn la (6.24), dòng họ tuyệt tự (8.31), danh sách các thời đại (4.32–4.33), chùm nho (11.35), sáp nặn (7.23), châu lục như hạt bụi (6.36), mặt trời không làm việc của mưa (6.43), tia sáng (8.57), lửa (4.1), khối cầu (12.3), và đoạn kết gần như trọn 2.17.
+
+Robertson không bịa ra một triết học mới cho Marcus; ông sắp xếp lại các lời tự nhắc rời rạc của 12 quyển thành **một trình tự trị liệu**: buông bỏ, vì mọi thứ đều trôi qua → tiếc thương có chừng mực → gỡ bỏ nỗi sợ chết → nhìn việc của mình từ trên cao để thấy nó nhỏ lại → hành động theo lý trí.
+
+Đọc sau 12 quyển, bài cho người đọc một bản đồ thống nhất mà chính *Suy tưởng* (vốn là sổ tay) không có. Điểm yếu đi kèm: trình tự mượt mà ấy khiến người đọc dễ quên rằng Marcus thật viết rời rạc, lặp lại, giằng co, chứ không đi một mạch tới sự giác ngộ.
 
 ### Ranh giới sử và truyện bị xoá mờ, nhất là qua bản dịch
 
-Bản gốc của Robertson đặt trong một cuốn sách có chú thích và phần tiểu sử tách bạch; bản tiếng Việt in rời thành "Bonus" sau Quyển 12, ngay sau lời của chính Marcus, nên người đọc rất dễ nhầm đây là lời trăng trối thật. Hai chú thích của dịch giả làm rối thêm: câu "trả Ngài về với Tự nhiên" được trình bày như giai thoại lịch sử nhưng không khớp nguồn cổ; câu mặt trời mọc, chi tiết lịch sử đắt giá nhất, lại bị dịch mất ý chuyển giao quyền lực. Cách đọc đúng: coi bài như một **mô phỏng** về việc một người Khắc kỷ *có thể* dùng triết học khi chết, không phải bằng chứng rằng Marcus đã chết như thế. Nguồn cổ thật ra mơ hồ hơn: Dio Cassius còn chép tin đồn các thầy thuốc giúp ông chết sớm để lấy lòng Commodus.
+Bản gốc của Robertson đặt trong một cuốn sách có chú thích và phần tiểu sử tách bạch; bản tiếng Việt in rời thành "Bonus" sau Quyển 12, ngay sau lời của chính Marcus, nên người đọc rất dễ nhầm đây là lời trăng trối thật.
+
+Hai chú thích của dịch giả làm rối thêm: câu "trả Ngài về với Tự nhiên" được trình bày như giai thoại lịch sử nhưng không khớp nguồn cổ; câu mặt trời mọc, chi tiết lịch sử đắt giá nhất, lại bị dịch mất ý chuyển giao quyền lực. Cách đọc đúng: coi bài như một **mô phỏng** về việc một người Khắc kỷ *có thể* dùng triết học khi chết, không phải bằng chứng rằng Marcus đã chết như thế. Nguồn cổ thật ra mơ hồ hơn: Dio Cassius còn chép tin đồn các thầy thuốc giúp ông chết sớm để lấy lòng Commodus.
 
 ### Bài pha trộn Epicurus và Khắc kỷ, như chính Marcus
 
-Lập luận "chết là mất cảm giác, như giấc ngủ, như trước khi sinh" là của Epicurus, đối thủ của Khắc kỷ; lập luận "chết là trả các thành phần về nguồn để tạo vật khác" là Khắc kỷ. Robertson dùng cả hai, đúng như Marcus hay lặp lại lập luận hai nhánh "hoặc vũ trụ chỉ là nguyên tử va chạm ngẫu nhiên, hoặc là một tự nhiên có trật tự": trong cả hai trường hợp đều không có gì đáng sợ. Đây là điểm mạnh về mặt trị liệu (lập luận đứng vững bất kể niềm tin siêu hình của người đọc), nhưng bài lại thêm vào những đoạn gần như thần bí (linh hồn bay về giữa các vì sao, trở về "quê hương thực sự", hoà làm một với Tự nhiên vô hạn) mà Marcus thật dè dặt hơn nhiều: trong *Suy tưởng*, ông nhiều lần để ngỏ khả năng linh hồn tan biến hẳn. Phần này mang nhiều màu Platon (Giấc mơ Scipio, phái Pythagoras) hơn Khắc kỷ thuần.
+Lập luận "chết là mất cảm giác, như giấc ngủ, như trước khi sinh" là của Epicurus, đối thủ của Khắc kỷ; lập luận "chết là trả các thành phần về nguồn để tạo vật khác" là Khắc kỷ. Robertson dùng cả hai, đúng như Marcus hay lặp lại lập luận hai nhánh "hoặc vũ trụ chỉ là nguyên tử va chạm ngẫu nhiên, hoặc là một tự nhiên có trật tự": trong cả hai trường hợp đều không có gì đáng sợ.
+
+Đây là điểm mạnh về mặt trị liệu (lập luận đứng vững bất kể niềm tin siêu hình của người đọc), nhưng bài lại thêm vào những đoạn gần như thần bí (linh hồn bay về giữa các vì sao, trở về "quê hương thực sự", hoà làm một với Tự nhiên vô hạn) mà Marcus thật dè dặt hơn nhiều: trong *Suy tưởng*, ông nhiều lần để ngỏ khả năng linh hồn tan biến hẳn. Phần này mang nhiều màu Platon (Giấc mơ Scipio, phái Pythagoras) hơn Khắc kỷ thuần.
 
 ### Khắc kỷ không phải vô cảm: bài cho thấy rõ qua chuyện các con
 
@@ -610,3 +623,30 @@ flowchart LR
   class n1,n6,n17,n24,n34,n46,n51 branch
   class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n52,n53,n54,n55,n56 leaf
 ```
+
+## Nguồn
+
+Bài "Bonus: Giờ khắc cuối cùng của hoàng đế triết gia - Marcus Aurelius", in kèm sau Quyển 12 trong bản dịch *Suy tưởng* của Andy Lương (chunghiakhacky.com), tr. 208–227. Theo lời dẫn của chính dịch giả ở đầu bài, đây là bản dịch **chương cuối** của cuốn *How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius* (Donald Robertson, St. Martin's Press, 2019). Andy Lương dịch lại vì "đọc lại mấy lần, lần nào cũng rưng rưng", và chen thêm hai "Lời người dịch" trong ngoặc.
+
+## Tác giả
+
+**Donald Robertson** (sinh 1972), nhà trị liệu tâm lý người Scotland theo trường phái nhận thức hành vi (CBT), chuyên viết về ứng dụng Khắc kỷ trong tâm lý trị liệu. **Không phải văn bản của Marcus Aurelius.** Người dịch: Andy Lương.
+
+## Thể loại
+
+**Hư cấu lịch sử dạng độc thoại nội tâm.** Một đoạn ngắn ở ngôi thứ ba dựng cảnh, rồi chuyển sang ngôi thứ nhất: Marcus đang hấp hối "nghĩ thành lời" trong đêm cuối. Khung cảnh dựa trên các ghi chép cổ (chủ yếu *Historia Augusta*, phần tiểu sử Marcus, và sử của Dio Cassius); nội dung suy nghĩ là một **bức khảm** ghép từ hàng chục đoạn trong chính *Suy tưởng* (Quyển 2, 4, 6, 7, 8, 9, 10, 11, 12), cộng thêm Plato (*Phaedo*, *Cộng hoà*), Cicero (*Giấc mơ của Scipio*), Homer, Euripides, Epictetus, Diogenes Laertius (giai thoại Zeno, Xenophon), châm ngôn Epicurus và chi tiết tưởng tượng của Robertson.
+
+## Vị trí trong tác phẩm
+
+Trong sách của Robertson, mỗi chương kết hợp tiểu sử Marcus với một kỹ thuật tâm lý Khắc kỷ; chương cuối bàn về chiêm nghiệm cái chết, và cảnh hấp hối này là phần khép lại, cho thấy mọi bài tập trong sách (tách phán đoán khỏi sự việc, nhìn từ trên cao, chiêm nghiệm vô thường, sống theo lý trí) "được dùng thật" vào giờ phút cuối. Trong bản PDF tiếng Việt, nó được đặt sau Quyển 12 như một phần thưởng (bonus) cho người đọc, nối tiếp hình ảnh diễn viên rời sân khấu ở cuối Quyển 12.
+
+## Lưu ý
+
+- **Đây là hư cấu.** Không có nguồn cổ nào ghi lại suy nghĩ của Marcus lúc lâm chung; toàn bộ độc thoại là sáng tác của Robertson, phần lớn câu chữ được diễn đạt lại từ chính *Suy tưởng*. Đừng trích các câu trong bài này như "lời Marcus".
+- **Câu "hãy đi tìm mặt trời đang mọc" bị dịch lệch.** Theo *Historia Augusta*, khi viên tribune trực đêm đến xin khẩu lệnh, Marcus bảo hãy đi về phía mặt trời đang mọc, vì ông đã lặn rồi, tức là: hãy phục vụ người kế vị Commodus. Bản dịch viết thành lời Marcus nhờ lính gác "đưa ta ra chỗ mặt trời mọc", làm mất nghĩa chuyển giao quyền lực. Ý gốc còn sót lại ở câu sau trong bài: thần mặt trời lặn đêm nay mang ông theo, ngày mai người khác "mọc lên" thay.
+- **"Bệnh dịch hạch"** là cách gọi sai: dịch bệnh Antonine (từ năm 165) theo mô tả của Galen nhiều khả năng là **đậu mùa**, không phải dịch hạch. Việc chính Marcus chết vì dịch này cũng chỉ là một khả năng (xem bảng ở mục Ranh giới giữa sử liệu và hư cấu).
+- Hai **"Lời người dịch"** (về câu dân chúng đồng thanh "trả Ngài về với Tự nhiên" theo Ryan Holiday, và về chữ "ít sợ nhất" của Socrates) là của Andy Lương, không có trong bản Robertson. Giai thoại thứ nhất không khớp câu chữ với nguồn cổ: *Historia Augusta* chỉ kể rằng ở tang lễ không ai coi việc than khóc là phải lẽ, vì mọi người tin ông được thần linh cho mượn và nay trở về với thần linh.
+- Ghi chú "(ý chỉ những đứa con của ngài)" và các dòng "(trích thơ Euripides)", "(trích thơ Homer)" cũng là chú thích chen vào.
+- "Một giọt sự sống" là cách nói đã làm nhẹ đi; đoạn gốc của Marcus (4.48) nói thẳng hơn về tinh dịch hôm nay, tro hay xác ướp ngày mai.
+- "Nhà thờ ở Mithras" nên hiểu là **đền thờ thần Mithras** (mithraeum), loại đền ngầm có trần vẽ sao rất phổ biến trong quân đội La Mã vùng Danube.
+- Các trang cuối có dòng quảng cáo của trang chunghiakhacky.com, không thuộc văn bản.
