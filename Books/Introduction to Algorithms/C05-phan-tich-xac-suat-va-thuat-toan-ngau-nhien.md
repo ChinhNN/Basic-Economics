@@ -1259,7 +1259,7 @@ Theo hiểu biết của người tổng hợp: thư viện chuẩn của mọi 
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 5 trên một trang: sáu nhánh theo Mục 5.1, 5.2, 5.3, hai nửa của Mục 5.4 (có dấu sao) và hai bài toán cuối chương, mỗi nhánh ghi định nghĩa, thủ tục, kết quả và con số then chốt của tác giả; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 5 trên một trang: sáu nhánh theo Mục 5.1, 5.2, 5.3, hai nửa của Mục 5.4 (có dấu sao) và hai bài toán cuối chương, mỗi nhánh ghi định nghĩa, bổ đề, thủ tục kèm thời gian chạy, con số then chốt và các bài tập đáng nhớ; riêng nhánh Mục 5.3 có thêm một tầng cho hai thủ tục sinh hoán vị ngẫu nhiên đều; nhánh cuối là thông điệp xuyên suốt kèm ghi chú chương.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1268,101 +1268,149 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 5: xác suất là công cụ phân tích và thiết kế thuật toán — phân tích xác suất giả định phân phối đầu vào, thuật toán ngẫu nhiên tự áp đặt phân phối đó`"]
-  n1["`Mục 5.1 — Bài toán tuyển dụng`"]
+  n1["`Mục 5.1 — Bài toán tuyển dụng (trang 114–118)`"]
   n0 --- n1
-  n2["`HIRE-ASSISTANT phỏng vấn n ứng viên, thuê ngay khi gặp người giỏi hơn người đang làm`"]
+  n2["`HIRE-ASSISTANT phỏng vấn lần lượt n ứng viên, thuê ngay khi gặp người giỏi hơn trợ lý hiện tại`"]
   n1 --- n2
-  n3["`Mô hình chi phí O(cᵢn + cₕm), m là số lần thuê, phần phỏng vấn cố định nên chỉ phân tích cₕm`"]
+  n3["`Mô hình chi phí O(cᵢn + cₕm), m là số lần thuê, phần cᵢn cố định nên chỉ phân tích cₕm`"]
   n1 --- n3
   n4["`Cùng khuôn với vòng lặp tìm max: đếm số lần cập nhật người thắng hiện tại`"]
   n1 --- n4
   n5["`Xấu nhất: ứng viên đến theo năng lực tăng dần, thuê cả n người, chi phí O(cₕn)`"]
   n1 --- n5
-  n6["`Thời gian trung bình lấy trung bình theo phân phối đầu vào, giả định hạng là hoán vị ngẫu nhiên đều`"]
+  n6["`Phân tích xác suất cho thời gian trung bình theo phân phối đầu vào, giả định hạng là hoán vị ngẫu nhiên đều`"]
   n1 --- n6
-  n7["`Thời gian kỳ vọng lấy trung bình theo lựa chọn ngẫu nhiên của chính thuật toán qua RANDOM(a, b)`"]
+  n7["`RANDOM(a, b) trả mỗi số nguyên trong a..b với xác suất 1/(b − a + 1), các lần gọi độc lập`"]
   n1 --- n7
-  n8["`Mục 5.2 — Biến ngẫu nhiên chỉ thị`"]
-  n0 --- n8
-  n9["`I{A} bằng 1 nếu A xảy ra, 0 nếu không, Bổ đề 5.1: E[I{A}] = Pr{A}`"]
-  n8 --- n9
-  n10["`Tính tuyến tính của kỳ vọng đúng cả khi các biến phụ thuộc nhau`"]
-  n8 --- n10
-  n11["`Tung n đồng xu: số mặt ngửa kỳ vọng n/2, gọn hơn hẳn cách dùng phân phối nhị thức`"]
-  n8 --- n11
-  n12["`Ứng viên i được thuê khi giỏi nhất trong i người đầu, xác suất 1/i`"]
-  n8 --- n12
-  n13["`Số lần thuê kỳ vọng Σ 1/i = ln n + O(1), với n = 10 là H₁₀ ≈ 2,93`"]
-  n8 --- n13
-  n14["`Bài tập 5.2-4 trả mũ: số khách nhận đúng mũ kỳ vọng là 1, Bài tập 5.2-5: số nghịch thế kỳ vọng n(n − 1)/4`"]
-  n8 --- n14
-  n15["`Bổ đề 5.2: chi phí thuê trung bình O(cₕ ln n), tốt hơn hẳn O(cₕn)`"]
-  n8 --- n15
-  n16["`Mục 5.3 — Thuật toán ngẫu nhiên`"]
-  n0 --- n16
-  n17["`Thay vì giả định phân phối đầu vào, ta áp đặt phân phối bằng cách hoán vị ngẫu nhiên đầu vào`"]
-  n16 --- n17
-  n18["`Tất định: A₁ tăng dần thuê 10 lần, A₂ giảm dần thuê 1 lần, A₃ thuê 3 lần`"]
-  n16 --- n18
-  n19["`Không đầu vào nào luôn gây trường hợp xấu nhất, chỉ xui khi bộ sinh số cho hoán vị xấu`"]
-  n16 --- n19
-  n20["`Bổ đề 5.3: RANDOMIZED-HIRE-ASSISTANT có chi phí thuê kỳ vọng O(cₕ ln n) với mọi đầu vào`"]
-  n16 --- n20
-  n21["`PERMUTE-BY-SORTING gán độ ưu tiên ngẫu nhiên trong 1..n³ rồi sắp xếp, Θ(n lg n), đều theo Bổ đề 5.4`"]
-  n16 --- n21
-  n22["`RANDOMIZE-IN-PLACE đổi A[i] với A[RANDOM(i, n)], O(n), tại chỗ, đều theo Bổ đề 5.5 chứng minh bằng bất biến vòng lặp`"]
-  n16 --- n22
-  n23["`Mỗi phần tử vào mỗi vị trí với xác suất 1/n chưa đủ: dịch vòng chỉ sinh n trong n! hoán vị`"]
-  n16 --- n23
-  n24["`Mục 5.4.1–5.4.2 ★ — Ngày sinh và bi vào thùng`"]
-  n0 --- n24
-  n25["`Pr{mọi ngày sinh khác nhau} = Π(1 − i/n) ≤ e^(−k(k−1)/2n), dùng 1 + x ≤ eˣ`"]
+  n8["`Thời gian kỳ vọng lấy trung bình theo lựa chọn ngẫu nhiên của thuật toán, với một đầu vào cố định bất kỳ`"]
+  n1 --- n8
+  n9["`Bài tập 5.1-2, 5.1-3: dựng RANDOM(a, b) từ RANDOM(0, 1) bằng lấy mẫu bác bỏ, đồng xu lệch thành đồng xu cân`"]
+  n1 --- n9
+  n10["`Mục 5.2 — Biến ngẫu nhiên chỉ thị (trang 118–122)`"]
+  n0 --- n10
+  n11["`I{A} bằng 1 nếu A xảy ra, 0 nếu không (5.1), Bổ đề 5.1: E[I{A}] = Pr{A}`"]
+  n10 --- n11
+  n12["`Tính tuyến tính E[X + Y] = E[X] + E[Y] đúng cả khi các biến phụ thuộc nhau`"]
+  n10 --- n12
+  n13["`Tung n đồng xu: số mặt ngửa kỳ vọng n/2, gọn hơn hẳn cách dùng phân phối nhị thức`"]
+  n10 --- n13
+  n14["`Xᵢ = I{ứng viên i được thuê}, i được thuê khi giỏi nhất trong i người đầu, nên E[Xᵢ] = 1/i`"]
+  n10 --- n14
+  n15["`Số lần thuê kỳ vọng Σ 1/i = ln n + O(1), với n = 10 là H₁₀ ≈ 2,93`"]
+  n10 --- n15
+  n16["`Bổ đề 5.2: với thứ tự ngẫu nhiên, chi phí thuê trung bình O(cₕ ln n), tốt hơn hẳn O(cₕn)`"]
+  n10 --- n16
+  n17["`Bài tập 5.2-1, 5.2-2: thuê đúng một lần xác suất 1/n, đúng n lần 1/n!, đúng hai lần Hₙ₋₁/n`"]
+  n10 --- n17
+  n18["`Bài tập 5.2-4: số khách nhận đúng mũ kỳ vọng là 1, Bài tập 5.2-5: số nghịch thế kỳ vọng n(n − 1)/4`"]
+  n10 --- n18
+  n19["`Mục 5.3 — Thuật toán ngẫu nhiên (trang 122–130)`"]
+  n0 --- n19
+  n20["`Thay vì giả định phân phối đầu vào, ta áp đặt phân phối bằng cách hoán vị ngẫu nhiên đầu vào`"]
+  n19 --- n20
+  n21["`Tất định: A₁ tăng dần thuê 10 lần, A₂ giảm dần thuê 1 lần, A₃ = ⟨5, 2, 1, 8, 4, 7, 10, 9, 3, 6⟩ thuê 3 lần`"]
+  n19 --- n21
+  n22["`Ngẫu nhiên: không đầu vào nào luôn gây trường hợp xấu nhất, chỉ xui khi bộ sinh số cho hoán vị xấu`"]
+  n19 --- n22
+  n23["`Bổ đề 5.3: RANDOMIZED-HIRE-ASSISTANT có chi phí thuê kỳ vọng O(cₕ ln n) với mọi đầu vào`"]
+  n19 --- n23
+  n24["`PERMUTE-BY-SORTING: P[i] = RANDOM(1, n³), sắp xếp A theo khoá P, Θ(n lg n) với sắp xếp so sánh`"]
+  n19 --- n24
+  n25["`Ví dụ A = ⟨1, 2, 3, 4⟩ với P = ⟨36, 3, 62, 19⟩ cho B = ⟨2, 4, 1, 3⟩`"]
   n24 --- n25
-  n26["`23 người đủ để xác suất trùng ngày sinh vượt 1/2 (chính xác 0,5073), sao Hoả 669 ngày cần 31`"]
+  n26["`Bổ đề 5.4: nếu các độ ưu tiên khác nhau, mỗi hoán vị có xác suất (1/n)(1/(n − 1))⋯(1/1) = 1/n!`"]
   n24 --- n26
-  n27["`Biến chỉ thị: số cặp trùng kỳ vọng k(k − 1)/2n ≥ 1 khi k ≥ 28, cả hai cách đều Θ(√n)`"]
+  n27["`Bài tập 5.3-5: các độ ưu tiên trong 1..n³ khác nhau với xác suất ít nhất 1 − 1/n`"]
   n24 --- n27
-  n28["`Ném n bi vào b thùng: kỳ vọng n/b bi mỗi thùng, b lần ném tới khi một thùng cho trước có bi`"]
-  n24 --- n28
-  n29["`Mọi thùng có bi cần b(ln b + O(1)) lần ném — bài toán sưu tập phiếu, mô hình của bảng băm Chương 11`"]
-  n24 --- n29
-  n30["`Mục 5.4.3–5.4.4 ★ — Chuỗi mặt ngửa và tuyển dụng trực tuyến`"]
-  n0 --- n30
-  n31["`Chuỗi ngửa dài nhất trong n lần tung có độ dài kỳ vọng Θ(lg n)`"]
-  n30 --- n31
-  n32["`Cận trên O(lg n) bằng bất đẳng thức Boole: Pr{có chuỗi ≥ 2⌈lg n⌉} #lt; 1/n`"]
-  n30 --- n32
-  n33["`Cận dưới Ω(lg n) bằng chia nhóm ⌊(lg n)/2⌋ lần tung độc lập`"]
-  n30 --- n33
-  n34["`n = 1000: chuỗi ≥ 20 có xác suất tối đa 1/1000, chuỗi trên 30 tối đa 1/1000000`"]
-  n30 --- n34
-  n35["`Bài toán thư ký: bỏ qua k người đầu, thuê người đầu tiên giỏi hơn tất cả trước đó`"]
-  n30 --- n35
-  n36["`Pr{thành công} ≥ (k/n)(ln n − ln k), tối ưu k = n/e cho xác suất ít nhất 1/e`"]
-  n30 --- n36
-  n37["`Bài toán 5-1 và 5-2 cuối chương`"]
-  n0 --- n37
-  n38["`Đếm xác suất của Morris: bộ đếm b bit tăng với xác suất 1/(nᵢ₊₁ − nᵢ), giá trị biểu diễn kỳ vọng đúng bằng n`"]
-  n37 --- n38
-  n39["`Với nᵢ = 100i, phương sai giá trị biểu diễn là 99n`"]
-  n37 --- n39
-  n40["`RANDOM-SEARCH khi không có x là sưu tập phiếu, kỳ vọng n(ln n + O(1)) lần chọn`"]
-  n37 --- n40
-  n41["`DETERMINISTIC-SEARCH đơn giản nhất, SCRAMBLE-SEARCH luôn tốn Θ(n) cho bước hoán vị`"]
-  n37 --- n41
-  n42["`Thông điệp xuyên suốt`"]
-  n0 --- n42
-  n43["`Thời gian trung bình chỉ có giá trị khi giả định về đầu vào đúng, không kiểm soát được đầu vào thì ngẫu nhiên hoá`"]
-  n42 --- n43
-  n44["`Biến chỉ thị cộng tuyến tính kỳ vọng là công cụ nên thử đầu tiên, dùng lại ở quicksort, RANDOMIZED-SELECT, bảng băm`"]
-  n42 --- n44
-  n45["`Xáo trộn đúng là Fisher–Yates, chọn chỉ số trong toàn mảng hay dịch vòng đều làm lệch phân phối`"]
-  n42 --- n45
-  n46["`Va chạm xuất hiện sau khoảng √n lựa chọn, phủ hết n trường hợp tốn khoảng n ln n lần`"]
-  n42 --- n46
+  n28["`RANDOMIZE-IN-PLACE: với i = 1..n đổi A[i] với A[RANDOM(i, n)], O(n), tại chỗ`"]
+  n19 --- n28
+  n29["`Bổ đề 5.5, bất biến: trước vòng i, mỗi (i − 1)-hoán vị nằm trong A[1..i − 1] với xác suất (n − i + 1)!/n!`"]
+  n28 --- n29
+  n30["`Duy trì: chọn đúng xᵢ trong n − i + 1 phần tử còn lại với xác suất 1/(n − i + 1)`"]
+  n28 --- n30
+  n31["`Kết thúc i = n + 1: mỗi n-hoán vị có xác suất 0!/n! = 1/n!, nên hoán vị đều`"]
+  n28 --- n31
+  n32["`Bài tập 5.3-4: mỗi phần tử vào mỗi vị trí với xác suất 1/n chưa đủ, PERMUTE-BY-CYCLIC chỉ sinh n hoán vị`"]
+  n19 --- n32
+  n33["`Bài tập 5.3-3: đổi A[i] với A[RANDOM(1, n)] cho nⁿ dãy lựa chọn, không chia hết cho n!, nên lệch`"]
+  n19 --- n33
+  n34["`Bài tập 5.3-7: RANDOM-SAMPLE(m, n) sinh tập con m phần tử ngẫu nhiên đều chỉ với m lần gọi RANDOM`"]
+  n19 --- n34
+  n35["`Mục 5.4.1–5.4.2 ★ — Nghịch lý ngày sinh và bi vào thùng`"]
+  n0 --- n35
+  n36["`Ngày sinh đều và độc lập thì hai người cho trước trùng ngày sinh với xác suất 1/n (5.6)`"]
+  n35 --- n36
+  n37["`Pr{k ngày sinh đôi một khác nhau} = Π(1 − i/n) ≤ e^{−k(k−1)/2n}, dùng 1 + x ≤ eˣ`"]
+  n35 --- n37
+  n38["`Cận này ≤ 1/2 khi k(k − 1) ≥ 2n ln 2: n = 365 cần 23 người (chính xác 0,5073), sao Hoả 669 ngày cần 31`"]
+  n35 --- n38
+  n39["`Biến chỉ thị Xᵢⱼ: số cặp trùng kỳ vọng k(k − 1)/2n ≥ 1 khi k ≥ 28, sao Hoả cần 38`"]
+  n35 --- n39
+  n40["`Hai cách cho 23 và 28 người nhưng cùng ngưỡng tiệm cận Θ(√n)`"]
+  n35 --- n40
+  n41["`Bi và thùng: mỗi lần ném là phép thử Bernoulli xác suất 1/b, n lần ném cho kỳ vọng n/b bi mỗi thùng`"]
+  n35 --- n41
+  n42["`Số lần ném tới khi một thùng cho trước có bi theo phân phối hình học, kỳ vọng b`"]
+  n35 --- n42
+  n43["`Giai đoạn i trúng thùng trống với xác suất (b − i + 1)/b, nên kỳ vọng b/(b − i + 1) lần ném`"]
+  n35 --- n43
+  n44["`Mọi thùng có bi cần b(ln b + O(1)) lần ném — bài toán sưu tập phiếu, b = 4 cho 25/3`"]
+  n35 --- n44
+  n45["`Bài tập 5.4-1: cần 253 người để có người trùng ngày sinh với bạn, vì chỉ có k cặp chứ không phải C(k, 2)`"]
+  n35 --- n45
+  n46["`Mục 5.4.3–5.4.4 ★ — Chuỗi mặt ngửa và tuyển dụng trực tuyến`"]
+  n0 --- n46
+  n47["`Chuỗi k mặt ngửa bắt đầu ở lần tung i có xác suất 1/2ᵏ (5.8)`"]
+  n46 --- n47
+  n48["`Cận trên: bất đẳng thức Boole cho Pr{có chuỗi ≥ 2⌈lg n⌉} #lt; 1/n (5.9), suy ra E[L] = O(lg n)`"]
+  n46 --- n48
+  n49["`Tổng quát: chuỗi dài nhất đạt ít nhất r⌈lg n⌉ với xác suất ≤ 1/n^{r−1}`"]
+  n46 --- n49
+  n50["`Với n = 1000: chuỗi ≥ 20 có xác suất tối đa 1/1000, chuỗi trên 30 tối đa 1/1000000`"]
+  n46 --- n50
+  n51["`Cận dưới: chia thành nhóm ⌊(lg n)/2⌋ lần tung độc lập, có nhóm toàn ngửa với xác suất 1 − O(1/n), nên E[L] = Ω(lg n)`"]
+  n46 --- n51
+  n52["`Biến chỉ thị: số chuỗi độ dài k kỳ vọng (n − k + 1)/2ᵏ, với k = c lg n là Θ(1/n^{c−1})`"]
+  n46 --- n52
+  n53["`ON-LINE-MAXIMUM(k, n): bỏ qua k người đầu, thuê người đầu tiên giỏi hơn tất cả trước đó, không có thì thuê người n`"]
+  n46 --- n53
+  n54["`Thành công khi người giỏi nhất ở vị trí i #gt; k và giỏi nhất trong i − 1 người đầu nằm trong k người đầu: k/(n(i − 1))`"]
+  n46 --- n54
+  n55["`Pr{S} = (k/n)·Σ 1/i với i từ k tới n − 1, nên Pr{S} ≥ (k/n)(ln n − ln k)`"]
+  n46 --- n55
+  n56["`Đạo hàm cận dưới bằng 0 cho k = n/e, xác suất chọn trúng người giỏi nhất ít nhất 1/e ≈ 0,368`"]
+  n46 --- n56
+  n57["`Bài toán 5-1 và 5-2 cuối chương (trang 143–144)`"]
+  n0 --- n57
+  n58["`Đếm xác suất của Morris: bộ đếm b bit, giá trị i biểu diễn nᵢ, INCREMENT tăng với xác suất 1/(nᵢ₊₁ − nᵢ)`"]
+  n57 --- n58
+  n59["`Mỗi INCREMENT tăng giá trị biểu diễn đúng 1 về kỳ vọng, nên sau n lần kỳ vọng đúng bằng n`"]
+  n57 --- n59
+  n60["`Với nᵢ = 100i, giá trị biểu diễn là 100 lần một biến nhị thức, phương sai 99n`"]
+  n57 --- n60
+  n61["`RANDOM-SEARCH chọn chỉ số ngẫu nhiên có lặp lại: kỳ vọng n/k lần chọn khi x xuất hiện k ≥ 1 lần`"]
+  n57 --- n61
+  n62["`RANDOM-SEARCH khi không có x là sưu tập phiếu, kỳ vọng n(ln n + O(1)) lần chọn`"]
+  n57 --- n62
+  n63["`DETERMINISTIC-SEARCH với k ≥ 1 bản sao: trung bình (n + 1)/(k + 1), xấu nhất n − k + 1, k = 0 luôn n`"]
+  n57 --- n63
+  n64["`SCRAMBLE-SEARCH luôn tốn Θ(n) cho bước hoán vị, nên DETERMINISTIC-SEARCH là lựa chọn hợp lý nhất`"]
+  n57 --- n64
+  n65["`Thông điệp xuyên suốt và ghi chú chương (trang 145)`"]
+  n0 --- n65
+  n66["`Thời gian trung bình chỉ có giá trị khi giả định về đầu vào đúng, không kiểm soát được đầu vào thì ngẫu nhiên hoá`"]
+  n65 --- n66
+  n67["`Biến chỉ thị cộng tuyến tính kỳ vọng là công cụ nên thử đầu tiên, dùng lại ở quicksort, RANDOMIZED-SELECT, bảng băm`"]
+  n65 --- n67
+  n68["`Xáo trộn đúng là Fisher–Yates, chọn chỉ số trong toàn mảng hay dịch vòng đều làm lệch phân phối`"]
+  n65 --- n68
+  n69["`Va chạm xuất hiện sau khoảng √n lựa chọn, phủ hết n trường hợp tốn khoảng n ln n lần`"]
+  n65 --- n69
+  n70["`Ghi chú chương: biến thể của bài toán tuyển dụng gọi là bài toán thư ký, giáo trình đầy đủ của Motwani và Raghavan`"]
+  n65 --- n70
   class n0 root
-  class n1,n8,n16,n24,n30,n37,n42 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n43,n44,n45,n46 leaf
+  class n1,n10,n19,n35,n46,n57,n65 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n64,n66,n67,n68,n69,n70 leaf
 ```
 
 ## Nguồn
