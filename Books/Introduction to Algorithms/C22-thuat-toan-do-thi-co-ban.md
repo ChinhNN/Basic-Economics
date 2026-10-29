@@ -327,9 +327,25 @@ Bốn bài toán cuối chương mở rộng sang phân loại cạnh bằng BFS
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Nên lưu một đồ thị trong máy thế nào, và lựa chọn đó ảnh hưởng gì tới thời gian chạy?** Hai cách chuẩn. **Danh sách kề**: mảng Adj gồm |V| danh sách, Adj[u] liệt kê các đỉnh kề với u; tổng độ dài các danh sách là |E| với đồ thị có hướng, 2|E| với đồ thị vô hướng, nên bộ nhớ Θ(V + E). **Ma trận kề**: ma trận |V| × |V| với aᵢⱼ = 1 khi có cạnh (i, j); bộ nhớ Θ(V²) bất kể số cạnh, nhưng trả lời "có cạnh (u, v) không?" trong O(1), trong khi danh sách kề phải dò hết Adj[u]. Ví dụ: đồ thị vô hướng 5 đỉnh, 7 cạnh ở Mục 22.1 cần 14 ô danh sách (2 · 7) so với 25 ô ma trận; một đồ thị đường bộ 10⁶ nút với khoảng 3 · 10⁶ cạnh cần cỡ 6 · 10⁶ ô danh sách nhưng 10¹² ô ma trận. Vì các thuật toán tìm kiếm phải duyệt mọi láng giềng của mọi đỉnh, chúng chạy Θ(V + E) trên danh sách kề nhưng Θ(V²) trên ma trận kề (Bài tập 22.2-4). Do đó sách mặc định dùng danh sách kề, chỉ dùng ma trận cho đồ thị dày hoặc các thuật toán mọi cặp đỉnh của Chương 25.
-2. **BFS và DFS hoạt động thế nào, tốn bao nhiêu thời gian, và mỗi cách cho biết điều gì về đồ thị?** Cả hai tô đỉnh trắng (chưa phát hiện), xám (đang xử lý), đen (xong) và chạy trong thời gian tuyến tính Θ(V + E) nhờ phân tích gộp: mỗi đỉnh được xử lý một lần, mỗi danh sách kề được duyệt một lần. **BFS** dùng hàng đợi FIFO, nên phát hiện các đỉnh theo từng "lớp" khoảng cách; Định lý 22.5 chứng minh v.d = δ(s, v) — số cạnh ít nhất từ s tới v — và các con trỏ π tạo thành cây đường đi ngắn nhất. Ví dụ: trên đồ thị 8 đỉnh r, s, t, u, v, w, x, y từ nguồn s, BFS cho d = 0 (s), 1 (r, w), 2 (t, x, v), 3 (u, y). **DFS** đi sâu rồi quay lui (đệ quy, tức ngầm dùng ngăn xếp), khởi động lại từ mọi đỉnh trắng, nên tạo một rừng và gắn cho mỗi đỉnh khoảng [d, f]. Các khoảng này lồng nhau như dấu ngoặc (Định lý 22.7), con cháu nhận ra qua đường trắng (Định lý 22.9), và mỗi cạnh được xếp vào một trong bốn loại cây / ngược / xuôi / chéo theo màu đỉnh đích lúc duyệt. Ví dụ: trên đồ thị 6 đỉnh u, v, w, x, y, z, DFS cho u 1/8, v 2/7, y 3/6, x 4/5, w 9/12, z 10/11, với một cạnh xuôi (u, x), hai cạnh ngược (x, v) và khuyên (z, z), một cạnh chéo (w, y).
-3. **Làm sao dùng DFS để sắp xếp tô-pô và tìm thành phần liên thông mạnh, và vì sao đúng?** Một đồ thị có hướng không có chu trình khi và chỉ khi DFS không sinh cạnh ngược (Bổ đề 22.11). Với dag, mọi cạnh (u, v) đều có v.f < u.f, nên **sắp xếp tô-pô** chỉ là liệt kê các đỉnh theo f giảm dần — ví dụ quần áo cho thứ tự socks (18), undershorts (16), pants (15), shoes (14), watch (10), shirt (8), belt (7), tie (5), jacket (4). Để tìm **thành phần liên thông mạnh**, chạy DFS trên G, rồi chạy DFS trên đồ thị chuyển vị Gᵀ, chọn gốc theo f giảm dần; mỗi cây của lần thứ hai là một thành phần. Đúng vì đồ thị thành phần là một dag, và mọi cạnh của Gᵀ nối hai thành phần khác nhau đều đi từ thành phần có f nhỏ sang thành phần có f lớn (Hệ quả 22.15). Lần DFS thứ hai bắt đầu ở thành phần có f lớn nhất, và từ đó không có lối nào thoát sang thành phần chưa thăm. Ví dụ: trên đồ thị 8 đỉnh a–h, f giảm dần là b (16), e (15), a (14), c (10), d (9), g (7), h (6), f (4); lần DFS thứ hai trên Gᵀ cho bốn cây {b, a, e}, {c, d}, {g, f}, {h}.
+1. **Nên lưu một đồ thị trong máy thế nào, và lựa chọn đó ảnh hưởng gì tới thời gian chạy?** Hai cách chuẩn. **Danh sách kề**: mảng Adj gồm |V| danh sách, Adj[u] liệt kê các đỉnh kề với u; tổng độ dài các danh sách là |E| với đồ thị có hướng, 2|E| với đồ thị vô hướng, nên bộ nhớ Θ(V + E).
+
+   **Ma trận kề**: ma trận |V| × |V| với aᵢⱼ = 1 khi có cạnh (i, j); bộ nhớ Θ(V²) bất kể số cạnh, nhưng trả lời "có cạnh (u, v) không?" trong O(1), trong khi danh sách kề phải dò hết Adj[u].
+
+   Ví dụ: đồ thị vô hướng 5 đỉnh, 7 cạnh ở Mục 22.1 cần 14 ô danh sách (2 · 7) so với 25 ô ma trận; một đồ thị đường bộ 10⁶ nút với khoảng 3 · 10⁶ cạnh cần cỡ 6 · 10⁶ ô danh sách nhưng 10¹² ô ma trận.
+
+   Vì các thuật toán tìm kiếm phải duyệt mọi láng giềng của mọi đỉnh, chúng chạy Θ(V + E) trên danh sách kề nhưng Θ(V²) trên ma trận kề (Bài tập 22.2-4). Do đó sách mặc định dùng danh sách kề, chỉ dùng ma trận cho đồ thị dày hoặc các thuật toán mọi cặp đỉnh của Chương 25.
+2. **BFS và DFS hoạt động thế nào, tốn bao nhiêu thời gian, và mỗi cách cho biết điều gì về đồ thị?** Cả hai tô đỉnh trắng (chưa phát hiện), xám (đang xử lý), đen (xong) và chạy trong thời gian tuyến tính Θ(V + E) nhờ phân tích gộp: mỗi đỉnh được xử lý một lần, mỗi danh sách kề được duyệt một lần.
+
+   **BFS** dùng hàng đợi FIFO, nên phát hiện các đỉnh theo từng "lớp" khoảng cách; Định lý 22.5 chứng minh v.d = δ(s, v) — số cạnh ít nhất từ s tới v — và các con trỏ π tạo thành cây đường đi ngắn nhất. Ví dụ: trên đồ thị 8 đỉnh r, s, t, u, v, w, x, y từ nguồn s, BFS cho d = 0 (s), 1 (r, w), 2 (t, x, v), 3 (u, y).
+
+   **DFS** đi sâu rồi quay lui (đệ quy, tức ngầm dùng ngăn xếp), khởi động lại từ mọi đỉnh trắng, nên tạo một rừng và gắn cho mỗi đỉnh khoảng [d, f]. Các khoảng này lồng nhau như dấu ngoặc (Định lý 22.7), con cháu nhận ra qua đường trắng (Định lý 22.9), và mỗi cạnh được xếp vào một trong bốn loại cây / ngược / xuôi / chéo theo màu đỉnh đích lúc duyệt.
+
+   Ví dụ: trên đồ thị 6 đỉnh u, v, w, x, y, z, DFS cho u 1/8, v 2/7, y 3/6, x 4/5, w 9/12, z 10/11, với một cạnh xuôi (u, x), hai cạnh ngược (x, v) và khuyên (z, z), một cạnh chéo (w, y).
+3. **Làm sao dùng DFS để sắp xếp tô-pô và tìm thành phần liên thông mạnh, và vì sao đúng?** Một đồ thị có hướng không có chu trình khi và chỉ khi DFS không sinh cạnh ngược (Bổ đề 22.11). Với dag, mọi cạnh (u, v) đều có v.f < u.f, nên **sắp xếp tô-pô** chỉ là liệt kê các đỉnh theo f giảm dần — ví dụ quần áo cho thứ tự socks (18), undershorts (16), pants (15), shoes (14), watch (10), shirt (8), belt (7), tie (5), jacket (4).
+
+   Để tìm **thành phần liên thông mạnh**, chạy DFS trên G, rồi chạy DFS trên đồ thị chuyển vị Gᵀ, chọn gốc theo f giảm dần; mỗi cây của lần thứ hai là một thành phần. Đúng vì đồ thị thành phần là một dag, và mọi cạnh của Gᵀ nối hai thành phần khác nhau đều đi từ thành phần có f nhỏ sang thành phần có f lớn (Hệ quả 22.15). Lần DFS thứ hai bắt đầu ở thành phần có f lớn nhất, và từ đó không có lối nào thoát sang thành phần chưa thăm.
+
+   Ví dụ: trên đồ thị 8 đỉnh a–h, f giảm dần là b (16), e (15), a (14), c (10), d (9), g (7), h (6), f (4); lần DFS thứ hai trên Gᵀ cho bốn cây {b, a, e}, {c, d}, {g, f}, {h}.
 
 ## Khái niệm cần biết
 
@@ -839,7 +855,9 @@ Ví dụ: x là con cháu thực sự của s vì 1 < 4 < 5 < 10; w không phả
 
 *Chứng minh.*
 - (⇒) Nếu v = u, đường đi từ u tới v chỉ gồm u, và u vẫn còn trắng ngay lúc gán u.d. Giả sử v là con cháu thực sự của u. Theo Hệ quả 22.8, u.d < v.d, nên v trắng tại thời điểm u.d. Vì v có thể là bất kỳ con cháu nào của u, mọi đỉnh trên đường đi đơn duy nhất trong rừng từ u tới v đều trắng tại thời điểm u.d.
-- (⇐) Giả sử tại thời điểm u.d có đường toàn trắng từ u tới v, nhưng v không trở thành con cháu của u. Không mất tổng quát, giả sử mọi đỉnh khác v trên đường đều trở thành con cháu của u. (Nếu không, gọi v là đỉnh gần u nhất trên đường mà không trở thành con cháu của u.) Gọi w là đỉnh đứng trước v trên đường, nên w là con cháu của u (w và u có thể trùng nhau). Theo Hệ quả 22.8, w.f ≤ u.f. Vì v phải được phát hiện sau khi u được phát hiện nhưng trước khi w hoàn tất (w có cạnh tới v, mà v còn trắng lúc u.d), ta có u.d < v.d < w.f ≤ u.f. Định lý 22.7 khi đó cho thấy khoảng [v.d, v.f] nằm hoàn toàn trong [u.d, u.f]. Theo Hệ quả 22.8, rốt cuộc v phải là con cháu của u — mâu thuẫn. ∎
+- (⇐) Giả sử tại thời điểm u.d có đường toàn trắng từ u tới v, nhưng v không trở thành con cháu của u. Không mất tổng quát, giả sử mọi đỉnh khác v trên đường đều trở thành con cháu của u. (Nếu không, gọi v là đỉnh gần u nhất trên đường mà không trở thành con cháu của u.)
+
+  Gọi w là đỉnh đứng trước v trên đường, nên w là con cháu của u (w và u có thể trùng nhau). Theo Hệ quả 22.8, w.f ≤ u.f. Vì v phải được phát hiện sau khi u được phát hiện nhưng trước khi w hoàn tất (w có cạnh tới v, mà v còn trắng lúc u.d), ta có u.d < v.d < w.f ≤ u.f. Định lý 22.7 khi đó cho thấy khoảng [v.d, v.f] nằm hoàn toàn trong [u.d, u.f]. Theo Hệ quả 22.8, rốt cuộc v phải là con cháu của u — mâu thuẫn. ∎
 
 Ví dụ (người tổng hợp) trên đồ thị u..z: tại thời điểm u.d = 1 mọi đỉnh đều trắng, đường u, v, y, x toàn trắng, nên v, y, x là con cháu của u. Không có đường nào từ u tới w hoặc z, nên chúng không là con cháu của u.
 
@@ -1092,7 +1110,9 @@ Theo hiểu biết của người tổng hợp: bộ giải 2-SAT (một bài ki
 - **22.1-5:** **Bình phương** của đồ thị có hướng G = (V, E) là G² = (V, E²) sao cho (u, v) ∈ E² khi và chỉ khi G có một đường đi có nhiều nhất hai cạnh giữa u và v (sách in thiếu chữ "if" — xem mục Lưu ý cuối chương). Mô tả thuật toán hiệu quả cho cả hai cách biểu diễn. *Người tổng hợp:* danh sách kề — với mỗi u, đưa mọi v ∈ *Adj*[u] và mọi w ∈ *Adj*[v] vào *Adj*²[u], loại trùng bằng mảng đánh dấu như 22.1-4; thời gian O(V + Σ_{(u,v) ∈ E} |*Adj*[v]|), xấu nhất O(VE). Ma trận kề — E² ứng với ma trận A ∨ A² (tích ma trận boolean): O(V³) theo cách thường, hoặc O(V^lg 7) ≈ O(V^2,81) bằng thuật toán Strassen (Chương 4).
 - **22.1-6:** Hầu hết thuật toán nhận ma trận kề cần thời gian Ω(V²), nhưng có ngoại lệ. Chứng minh có thể xác định trong O(V) một đồ thị có hướng có **đỉnh hút toàn cục** (universal sink) hay không — đỉnh có bậc vào |V| − 1 và bậc ra 0. *Người tổng hợp:* loại dần ứng viên: đặt i = 1; với j = 2..|V|, nếu aᵢⱼ = 1 thì i không thể là đỉnh hút (có cạnh ra) nên đặt i = j; nếu aᵢⱼ = 0 thì j không thể là đỉnh hút (thiếu cạnh vào từ i). Cuối vòng chỉ còn ứng viên i; kiểm tra hàng i toàn 0 và cột i toàn 1 (trừ aᵢᵢ): tổng O(V).
 - **22.1-7:** **Ma trận liên thuộc** (incidence matrix) của đồ thị có hướng không khuyên G = (V, E) là ma trận B = (bᵢⱼ) cỡ |V| × |E| với bᵢⱼ = −1 nếu cạnh j đi ra khỏi đỉnh i, bᵢⱼ = 1 nếu cạnh j đi vào đỉnh i, 0 nếu không. Mô tả ý nghĩa các phần tử của BBᵀ. *Người tổng hợp:* (BBᵀ)ᵢᵢ = Σⱼ bᵢⱼ² là tổng bậc vào và bậc ra của i; với i ≠ k, (BBᵀ)ᵢₖ = Σⱼ bᵢⱼ bₖⱼ: mỗi cạnh nối i và k (theo chiều nào cũng vậy) góp −1 · 1 = −1, nên (BBᵀ)ᵢₖ là âm của số cạnh giữa i và k. (BBᵀ chính là ma trận Laplace của đồ thị vô hướng tương ứng — theo hiểu biết của người tổng hợp.)
-- **22.1-8:** Giả sử mỗi ô *Adj*[u] không phải danh sách liên kết mà là một bảng băm chứa các v với (u, v) ∈ E. Nếu mọi phép tra cạnh đồng khả năng, thời gian kỳ vọng để biết một cạnh có trong đồ thị là bao nhiêu? Nhược điểm? Đề xuất cấu trúc khác khắc phục; nó có nhược điểm gì so với bảng băm? *Người tổng hợp:* với băm đều đơn giản và hệ số tải hằng, kỳ vọng O(1). Nhược điểm: tốn bộ nhớ hơn, duyệt mọi láng giềng tốn thời gian tỷ lệ với cỡ bảng chứ không chỉ số láng giềng, xấu nhất vẫn O(bậc), và phải chọn cỡ bảng. Thay bằng cây tìm kiếm cân bằng (cây đỏ-đen, Chương 13): tra cạnh O(lg bậc) trong trường hợp xấu nhất, duyệt láng giềng theo thứ tự; nhược điểm là tra cạnh chậm hơn O(1) kỳ vọng.
+- **22.1-8:** Giả sử mỗi ô *Adj*[u] không phải danh sách liên kết mà là một bảng băm chứa các v với (u, v) ∈ E. Nếu mọi phép tra cạnh đồng khả năng, thời gian kỳ vọng để biết một cạnh có trong đồ thị là bao nhiêu? Nhược điểm? Đề xuất cấu trúc khác khắc phục; nó có nhược điểm gì so với bảng băm?
+
+  *Người tổng hợp:* với băm đều đơn giản và hệ số tải hằng, kỳ vọng O(1). Nhược điểm: tốn bộ nhớ hơn, duyệt mọi láng giềng tốn thời gian tỷ lệ với cỡ bảng chứ không chỉ số láng giềng, xấu nhất vẫn O(bậc), và phải chọn cỡ bảng. Thay bằng cây tìm kiếm cân bằng (cây đỏ-đen, Chương 13): tra cạnh O(lg bậc) trong trường hợp xấu nhất, duyệt láng giềng theo thứ tự; nhược điểm là tra cạnh chậm hơn O(1) kỳ vọng.
 
 ### Bài tập Mục 22.2 (trang 601–602)
 
@@ -1114,9 +1134,13 @@ Theo hiểu biết của người tổng hợp: bộ giải 2-SAT (một bài ki
 - **22.2-4:** Thời gian chạy BFS là bao nhiêu nếu đầu vào là ma trận kề và thuật toán được sửa cho dạng đầu vào này? *Người tổng hợp:* dòng 12 phải quét cả hàng u (|V| ô) cho mỗi đỉnh được lấy ra, nên O(V²).
 - **22.2-5:** Lập luận rằng giá trị u.d không phụ thuộc thứ tự các đỉnh trong mỗi danh sách kề. Dùng đồ thị của ví dụ BFS để chỉ ra cây theo chiều rộng có thể phụ thuộc thứ tự đó. *Người tổng hợp:* theo Định lý 22.5, u.d = δ(s, u) — một đại lượng của riêng đồ thị. Về cây: trong ví dụ, u kề với cả t và x, cả hai có d = 2. Nếu *Adj*[w] liệt kê t trước x thì t vào hàng trước, được lấy ra trước và u.π = t (như trong sách); nếu liệt kê x trước t thì u.π = x.
 - **22.2-6:** Cho ví dụ đồ thị có hướng G = (V, E), nguồn s ∈ V và một tập cạnh cây E_π ⊆ E sao cho với mọi v ∈ V, đường đi đơn duy nhất trong (V, E_π) từ s tới v là đường đi ngắn nhất trong G, nhưng E_π không thể sinh ra bằng BFS trên G với bất kỳ thứ tự danh sách kề nào. *Lời giải của người tổng hợp:* V = {s, a, b, c, d}, E = {(s, a), (s, b), (a, c), (a, d), (b, c), (b, d)}, E_π = {(s, a), (s, b), (a, c), (b, d)}. Mọi đường trong cây đều ngắn nhất (độ dài 1 hoặc 2). Nhưng BFS lấy a hoặc b ra trước, và đỉnh đó phát hiện cả c lẫn d, nên c và d luôn có cùng cha.
-- **22.2-7:** Có hai loại đô vật chuyên nghiệp: "babyface" (người tốt) và "heel" (kẻ xấu). Giữa hai đô vật có thể có hoặc không có sự đối đầu. Có n đô vật và danh sách r cặp đối đầu. Cho thuật toán O(n + r) xác định có thể chỉ định một số đô vật là babyface, số còn lại là heel, sao cho mọi cặp đối đầu gồm một babyface và một heel hay không; nếu được thì đưa ra cách chỉ định. *Người tổng hợp:* đây là kiểm tra đồ thị hai phía. Dựng đồ thị vô hướng n đỉnh, r cạnh; chạy BFS từ mọi đỉnh chưa thăm; gán babyface cho đỉnh có d chẵn, heel cho đỉnh có d lẻ; cuối cùng kiểm tra mọi cạnh nối hai đỉnh khác loại. Nếu có cạnh nối hai đỉnh cùng d chẵn lẻ thì không làm được (đồ thị có chu trình lẻ). O(n + r).
+- **22.2-7:** Có hai loại đô vật chuyên nghiệp: "babyface" (người tốt) và "heel" (kẻ xấu). Giữa hai đô vật có thể có hoặc không có sự đối đầu. Có n đô vật và danh sách r cặp đối đầu. Cho thuật toán O(n + r) xác định có thể chỉ định một số đô vật là babyface, số còn lại là heel, sao cho mọi cặp đối đầu gồm một babyface và một heel hay không; nếu được thì đưa ra cách chỉ định.
+
+  *Người tổng hợp:* đây là kiểm tra đồ thị hai phía. Dựng đồ thị vô hướng n đỉnh, r cạnh; chạy BFS từ mọi đỉnh chưa thăm; gán babyface cho đỉnh có d chẵn, heel cho đỉnh có d lẻ; cuối cùng kiểm tra mọi cạnh nối hai đỉnh khác loại. Nếu có cạnh nối hai đỉnh cùng d chẵn lẻ thì không làm được (đồ thị có chu trình lẻ). O(n + r).
 - **22.2-8 ★:** **Đường kính** của cây T = (V, E) là max_{u, v ∈ V} δ(u, v) — khoảng cách ngắn nhất lớn nhất trong cây. Cho thuật toán hiệu quả tính đường kính và phân tích thời gian. *Người tổng hợp:* chạy BFS từ một đỉnh tuỳ ý r, lấy đỉnh x xa r nhất; chạy BFS từ x, khoảng cách lớn nhất tìm được là đường kính. Thời gian O(V + E) = O(V) vì cây có |V| − 1 cạnh. Ý chứng minh: x luôn là một đầu mút của một đường kính — nếu đường kính là a..b, đường từ r tới x phải "đi qua" đường a..b, và nếu x không phải đầu mút thì thay a hoặc b bằng x được đường không ngắn hơn.
-- **22.2-9:** Cho G = (V, E) vô hướng liên thông, cho thuật toán O(V + E) tìm một đường đi qua mỗi cạnh trong E đúng một lần theo mỗi chiều. Mô tả cách thoát khỏi mê cung nếu có nhiều đồng xu. *Người tổng hợp:* chạy DFS và ghi lại đường đi thực tế: đi xuống một cạnh cây rồi khi quay lui đi ngược lại cạnh đó; với cạnh ngược, đi sang đỉnh kia rồi lập tức quay về. Mỗi cạnh được đi đúng hai lần, mỗi chiều một lần. Mê cung: đỉnh là ngã rẽ, cạnh là lối đi; đặt đồng xu ở đầu mỗi lối khi bước vào và khi quay ra để biết lối nào đã đi theo chiều nào (phương pháp Trémaux — theo hiểu biết của người tổng hợp). Cuộc đi bộ DFS chắc chắn tới mọi ngã rẽ, trong đó có lối ra.
+- **22.2-9:** Cho G = (V, E) vô hướng liên thông, cho thuật toán O(V + E) tìm một đường đi qua mỗi cạnh trong E đúng một lần theo mỗi chiều. Mô tả cách thoát khỏi mê cung nếu có nhiều đồng xu.
+
+  *Người tổng hợp:* chạy DFS và ghi lại đường đi thực tế: đi xuống một cạnh cây rồi khi quay lui đi ngược lại cạnh đó; với cạnh ngược, đi sang đỉnh kia rồi lập tức quay về. Mỗi cạnh được đi đúng hai lần, mỗi chiều một lần. Mê cung: đỉnh là ngã rẽ, cạnh là lối đi; đặt đồng xu ở đầu mỗi lối khi bước vào và khi quay ra để biết lối nào đã đi theo chiều nào (phương pháp Trémaux — theo hiểu biết của người tổng hợp). Cuộc đi bộ DFS chắc chắn tới mọi ngã rẽ, trong đó có lối ra.
 
 ### Bài tập Mục 22.3 (trang 610–612)
 
@@ -1195,7 +1219,9 @@ Theo hiểu biết của người tổng hợp: bộ giải 2-SAT (một bài ki
 - **22.4-2:** Cho thuật toán tuyến tính nhận dag G = (V, E) và hai đỉnh s, t, trả về số đường đi đơn từ s tới t. Ví dụ dag ở bài 22.4-1 có đúng bốn đường đi đơn từ p tới v: p-o-v, p-o-r-y-v, p-o-s-r-y-v, p-s-r-y-v. (Chỉ cần đếm, không cần liệt kê.) *Người tổng hợp:* sắp xếp tô-pô; đặt paths[t] = 1; duyệt đỉnh theo thứ tự tô-pô ngược, paths[u] = Σ_{(u,v) ∈ E} paths[v]; trả về paths[s]. Trong dag mọi đường đi đều đơn. O(V + E). Kiểm tra trên ví dụ: paths[v] = 1, paths[y] = 1, paths[r] = 1 (qua y; u không tới v), paths[s] = 1, paths[o] = paths[r] + paths[s] + paths[v] = 3, paths[p] = paths[o] + paths[s] + paths[z] = 3 + 1 + 0 = 4. Khớp.
 - **22.4-3:** Cho thuật toán xác định đồ thị vô hướng G = (V, E) có chu trình hay không, chạy trong O(V), không phụ thuộc |E|. *Người tổng hợp:* DFS; gặp cạnh tới một đỉnh xám không phải cha thì có chu trình (cạnh ngược). Một rừng có nhiều nhất |V| − 1 cạnh, nên nếu chưa gặp chu trình thì DFS chỉ duyệt tối đa cỡ 2(|V| − 1) phần tử danh sách; ngay khi duyệt quá con số đó chắc chắn đã gặp cạnh ngược. Vì vậy dừng sớm cho O(V).
 - **22.4-4:** Chứng minh hoặc bác bỏ: nếu G có chu trình thì TOPOLOGICAL-SORT(G) cho thứ tự đỉnh làm cực tiểu số cạnh "xấu" (ngược chiều với thứ tự). *Người tổng hợp — bác bỏ:* đỉnh 1, 2, 3 với cạnh (1, 2), (2, 1), (2, 3), (3, 1); DFS từ 1 với *Adj*[2] = ⟨1, 3⟩ cho 1 1/6, 2 2/5, 3 3/4, thứ tự 1, 2, 3 có hai cạnh xấu (2, 1) và (3, 1). Thứ tự 2, 3, 1 chỉ có một cạnh xấu (1, 2).
-- **22.4-5:** Cách khác để sắp xếp tô-pô: lặp lại việc tìm một đỉnh có bậc vào 0, xuất nó, xoá nó cùng mọi cạnh ra. Cài đặt thế nào để chạy O(V + E)? Thuật toán ra sao nếu G có chu trình? *Người tổng hợp* (thuật toán Kahn — theo hiểu biết của người tổng hợp): tính mảng bậc vào trong O(V + E); đưa mọi đỉnh bậc vào 0 vào một hàng đợi; lấy ra u, xuất u, giảm bậc vào của mọi v ∈ *Adj*[u], đỉnh nào về 0 thì đưa vào hàng. Mỗi đỉnh và mỗi cạnh xử lý một lần. Nếu có chu trình, các đỉnh trên chu trình (và mọi đỉnh chỉ đến được qua chúng) không bao giờ về bậc vào 0: thuật toán dừng khi số đỉnh đã xuất còn nhỏ hơn |V| — đây cũng là cách phát hiện chu trình.
+- **22.4-5:** Cách khác để sắp xếp tô-pô: lặp lại việc tìm một đỉnh có bậc vào 0, xuất nó, xoá nó cùng mọi cạnh ra. Cài đặt thế nào để chạy O(V + E)? Thuật toán ra sao nếu G có chu trình?
+
+  *Người tổng hợp* (thuật toán Kahn — theo hiểu biết của người tổng hợp): tính mảng bậc vào trong O(V + E); đưa mọi đỉnh bậc vào 0 vào một hàng đợi; lấy ra u, xuất u, giảm bậc vào của mọi v ∈ *Adj*[u], đỉnh nào về 0 thì đưa vào hàng. Mỗi đỉnh và mỗi cạnh xử lý một lần. Nếu có chu trình, các đỉnh trên chu trình (và mọi đỉnh chỉ đến được qua chúng) không bao giờ về bậc vào 0: thuật toán dừng khi số đỉnh đã xuất còn nhỏ hơn |V| — đây cũng là cách phát hiện chu trình.
 
 ### Bài tập Mục 22.5 (trang 620–621)
 
@@ -1205,7 +1231,9 @@ Theo hiểu biết của người tổng hợp: bộ giải 2-SAT (một bài ki
 - **22.5-4:** Chứng minh với mọi đồ thị có hướng G, ((Gᵀ)^SCC)ᵀ = G^SCC. *Người tổng hợp:* G và Gᵀ có cùng các thành phần, nên hai đồ thị thành phần có cùng tập đỉnh. (Cᵢ, Cⱼ) là cạnh của (Gᵀ)^SCC khi và chỉ khi Gᵀ có cạnh từ Cᵢ sang Cⱼ, khi và chỉ khi G có cạnh từ Cⱼ sang Cᵢ, khi và chỉ khi (Cⱼ, Cᵢ) là cạnh của G^SCC. Vậy chuyển vị của (Gᵀ)^SCC là G^SCC.
 - **22.5-5:** Cho thuật toán O(V + E) tính đồ thị thành phần của G, bảo đảm giữa hai đỉnh có nhiều nhất một cạnh. *Người tổng hợp:* chạy STRONGLY-CONNECTED-COMPONENTS, gán nhãn scc[v]. Với mỗi cạnh (u, v) có scc[u] ≠ scc[v], tạo cặp (scc[u], scc[v]). Loại trùng bằng cách sắp xếp cơ số các cặp (Chương 8, O(V + E)) hoặc dùng mảng đánh dấu như Bài tập 22.1-4 khi duyệt từng thành phần.
 - **22.5-6:** Cho G = (V, E), giải thích cách tạo G′ = (V, E′) sao cho (a) G′ có cùng thành phần liên thông mạnh với G, (b) G′ có cùng đồ thị thành phần, (c) E′ nhỏ nhất có thể. Mô tả thuật toán nhanh. *Người tổng hợp:* với mỗi thành phần có k ≥ 2 đỉnh v₁, …, v_k, đặt vào E′ một chu trình (v₁, v₂), …, (v_k, v₁) — k cạnh, ít nhất có thể vì mỗi đỉnh cần ít nhất một cạnh ra trong thành phần; thành phần một đỉnh không cần cạnh. Với mỗi cạnh (Cᵢ, Cⱼ) của đồ thị thành phần, thêm một cạnh từ một đỉnh bất kỳ của Cᵢ tới một đỉnh bất kỳ của Cⱼ. Dùng 22.5-5: O(V + E).
-- **22.5-7:** Đồ thị có hướng G = (V, E) là **nửa liên thông** (semiconnected) nếu với mọi cặp u, v ∈ V có u ⇝ v hoặc v ⇝ u. Cho thuật toán hiệu quả kiểm tra, chứng minh đúng và phân tích thời gian. *Người tổng hợp:* tính đồ thị thành phần (dag), sắp xếp tô-pô nó thành C₁, C₂, …, C_k; G nửa liên thông khi và chỉ khi với mọi i có cạnh (Cᵢ, Cᵢ₊₁). Lý do: nếu có các cạnh đó thì dãy là một đường đi qua mọi thành phần, nên với Cᵢ đứng trước Cⱼ luôn có Cᵢ ⇝ Cⱼ. Ngược lại, nếu thiếu cạnh (Cᵢ, Cᵢ₊₁) thì không có đường đi nào từ Cᵢ tới Cᵢ₊₁ (mọi đường từ Cᵢ chỉ đi tới các thành phần đứng sau theo thứ tự tô-pô, và muốn tới Cᵢ₊₁ phải đi qua một thành phần đứng giữa — không có) và cũng không có đường ngược lại. O(V + E).
+- **22.5-7:** Đồ thị có hướng G = (V, E) là **nửa liên thông** (semiconnected) nếu với mọi cặp u, v ∈ V có u ⇝ v hoặc v ⇝ u. Cho thuật toán hiệu quả kiểm tra, chứng minh đúng và phân tích thời gian.
+
+  *Người tổng hợp:* tính đồ thị thành phần (dag), sắp xếp tô-pô nó thành C₁, C₂, …, C_k; G nửa liên thông khi và chỉ khi với mọi i có cạnh (Cᵢ, Cᵢ₊₁). Lý do: nếu có các cạnh đó thì dãy là một đường đi qua mọi thành phần, nên với Cᵢ đứng trước Cⱼ luôn có Cᵢ ⇝ Cⱼ. Ngược lại, nếu thiếu cạnh (Cᵢ, Cᵢ₊₁) thì không có đường đi nào từ Cᵢ tới Cᵢ₊₁ (mọi đường từ Cᵢ chỉ đi tới các thành phần đứng sau theo thứ tự tô-pô, và muốn tới Cᵢ₊₁ phải đi qua một thành phần đứng giữa — không có) và cũng không có đường ngược lại. O(V + E).
 
 ### Problem 22-1: Phân loại cạnh bằng tìm kiếm theo chiều rộng (Classifying edges by breadth-first search)
 
@@ -1445,7 +1473,7 @@ Theo hiểu biết của người tổng hợp: các thư viện đồ thị l�
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 22 trên một trang: bảy nhánh lớn đi theo trình tự của bản gốc (lời giới thiệu Phần VI, Mục 22.1 biểu diễn đồ thị, Mục 22.2 BFS, Mục 22.3 DFS, Mục 22.4 sắp xếp tô-pô, Mục 22.5 thành phần liên thông mạnh, các bài toán cuối chương và ghi chú chương), mỗi nhánh ghi thủ tục, định lý và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 22 trên một trang: bảy nhánh lớn đi theo trình tự của bản gốc (lời giới thiệu Phần VI và Mục 22.1 biểu diễn đồ thị, Mục 22.2 BFS, Mục 22.3 DFS, Mục 22.4 sắp xếp tô-pô, Mục 22.5 thành phần liên thông mạnh, các bài tập, bài toán cuối chương và ghi chú chương), mỗi nhánh ghi thủ tục, định lý, ví dụ và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1460,87 +1488,97 @@ flowchart LR
   n1 --- n2
   n3["`Trong ký hiệu tiệm cận V nghĩa là |V|, E nghĩa là |E|, pseudocode viết G.V và G.E`"]
   n1 --- n3
-  n4["`Danh sách kề tốn Θ(V + E) bộ nhớ, hợp đồ thị thưa và là lựa chọn mặc định`"]
+  n4["`Danh sách kề tốn Θ(V + E) bộ nhớ, tổng độ dài |E| hoặc 2|E|, là lựa chọn mặc định cho đồ thị thưa`"]
   n1 --- n4
-  n5["`Ma trận kề tốn Θ(V²), kiểm tra một cạnh O(1), hợp đồ thị dày hoặc nhỏ`"]
+  n5["`Ma trận kề tốn Θ(V²), kiểm tra một cạnh O(1), hợp đồ thị dày hoặc nhỏ, đồ thị vô hướng có A = Aᵀ`"]
   n1 --- n5
-  n6["`Trọng số w(u, v) lưu cạnh v trong Adj[u] hoặc ở ô (u, v) của ma trận`"]
+  n6["`Ví dụ: 10⁴ đỉnh và 5·10⁴ cạnh cần cỡ 6·10⁴ ô danh sách nhưng 10⁸ ô ma trận`"]
   n1 --- n6
   n7["`Mục 22.2 — Tìm kiếm theo chiều rộng BFS`"]
   n0 --- n7
   n8["`Phát hiện hết đỉnh cách s k cạnh rồi mới tới đỉnh cách k + 1 cạnh, dùng hàng đợi FIFO`"]
   n7 --- n8
-  n9["`Màu trắng chưa phát hiện, xám là biên, đen đã duyệt xong danh sách kề`"]
+  n9["`Màu trắng chưa phát hiện, xám là biên và đúng bằng các đỉnh trong hàng đợi, đen đã duyệt xong`"]
   n7 --- n9
   n10["`Phân tích gộp: mỗi đỉnh vào hàng đợi một lần, mỗi danh sách kề duyệt một lần, tổng O(V + E)`"]
   n7 --- n10
-  n11["`Bổ đề 22.3: hàng đợi chỉ chứa hai giá trị d liền nhau`"]
+  n11["`Bổ đề 22.3: hàng đợi chỉ chứa hai giá trị d liền nhau và d không giảm từ đầu tới cuối`"]
   n7 --- n11
-  n12["`Định lý 22.5: khi kết thúc v.d = δ(s, v), số cạnh ít nhất từ s tới v`"]
+  n12["`Định lý 22.5: khi kết thúc v.d = δ(s, v), chứng minh bằng đỉnh sai có δ nhỏ nhất và ba trường hợp màu`"]
   n7 --- n12
-  n13["`Con trỏ π tạo cây theo chiều rộng, PRINT-PATH in một đường đi ngắn nhất`"]
+  n13["`Ví dụ 8 đỉnh từ s: d = 0 cho s, 1 cho r, w, 2 cho t, x, v, 3 cho u, y`"]
   n7 --- n13
-  n14["`Mục 22.3 — Tìm kiếm theo chiều sâu DFS`"]
-  n0 --- n14
-  n15["`Đi sâu nhất có thể rồi quay lui, khởi động lại từ mọi đỉnh còn trắng nên tạo rừng theo chiều sâu`"]
-  n14 --- n15
-  n16["`Mỗi đỉnh có mốc phát hiện v.d và hoàn tất v.f, v.d nhỏ hơn v.f và cả hai nằm trong khoảng 1 tới 2|V|, chạy Θ(V + E)`"]
-  n14 --- n16
-  n17["`Định lý dấu ngoặc: hai khoảng [u.d, u.f] và [v.d, v.f] hoặc rời nhau hoặc lồng nhau`"]
-  n14 --- n17
-  n18["`Định lý đường trắng: v là con cháu u khi và chỉ khi lúc u.d có đường toàn đỉnh trắng từ u tới v`"]
-  n14 --- n18
-  n19["`Bốn loại cạnh cây, ngược, xuôi, chéo nhận ra qua màu đỉnh đích lúc duyệt cạnh lần đầu`"]
-  n14 --- n19
-  n20["`Định lý 22.10: đồ thị vô hướng chỉ có cạnh cây và cạnh ngược`"]
-  n14 --- n20
-  n21["`Mục 22.4 — Sắp xếp tô-pô`"]
-  n0 --- n21
-  n22["`Thứ tự tô-pô của dag đặt mọi cạnh (u, v) với u đứng trước v, ví dụ mặc tất trước khi đi giày`"]
-  n21 --- n22
-  n23["`TOPOLOGICAL-SORT chèn đỉnh vào đầu danh sách khi hoàn tất, ra thứ tự f giảm dần trong Θ(V + E)`"]
-  n21 --- n23
-  n24["`Bổ đề 22.11: đồ thị có hướng không chu trình khi và chỉ khi DFS không sinh cạnh ngược`"]
-  n21 --- n24
-  n25["`Định lý 22.12: mọi cạnh (u, v) của dag có v.f nhỏ hơn u.f`"]
-  n21 --- n25
-  n26["`Mục 22.5 — Thành phần liên thông mạnh`"]
-  n0 --- n26
-  n27["`Thành phần liên thông mạnh là tập đỉnh cực đại mà mọi cặp đến được nhau`"]
-  n26 --- n27
-  n28["`G và đồ thị chuyển vị Gᵀ có đúng cùng các thành phần liên thông mạnh`"]
-  n26 --- n28
-  n29["`Thuật toán Kosaraju–Sharir: DFS trên G lấy f, rồi DFS trên Gᵀ theo f giảm dần, mỗi cây là một thành phần`"]
-  n26 --- n29
-  n30["`Bổ đề 22.13: đồ thị thành phần G^SCC là một dag`"]
-  n26 --- n30
-  n31["`Bổ đề 22.14: cạnh từ C sang C′ thì f(C) lớn hơn f(C′), nên lần DFS thứ hai không tràn sang thành phần chưa thăm`"]
-  n26 --- n31
-  n32["`Bài toán 22-1 đến 22-4 và ghi chú chương`"]
-  n0 --- n32
-  n33["`Problem 22-2: đỉnh khớp, cầu, thành phần song liên thông bằng một lần DFS với giá trị v.low trong O(E)`"]
-  n32 --- n33
-  n34["`Problem 22-3: chu trình Euler tồn tại khi và chỉ khi mọi đỉnh có bậc vào bằng bậc ra, tìm trong O(E)`"]
-  n32 --- n34
-  n35["`Moore và Lee phát hiện BFS, Hopcroft và Tarjan nhận ra tầm quan trọng của DFS, Knuth cho sắp xếp tô-pô tuyến tính`"]
-  n32 --- n35
-  n36["`Người tổng hợp chỉ ra đề Bài tập 22.2-3 và 22.3-4 sai: phải bỏ dòng tô đen, không phải dòng tô xám`"]
-  n32 --- n36
-  n37["`Thông điệp xuyên suốt`"]
-  n0 --- n37
-  n38["`Tìm kiếm đồ thị là kỹ thuật nền mà các thuật toán đồ thị sau mở rộng`"]
-  n37 --- n38
-  n39["`Chuỗi bổ đề của BFS là khuôn mẫu cho chứng minh Dijkstra ở Chương 24`"]
-  n37 --- n39
-  n40["`Ba công cụ dấu ngoặc, lồng khoảng, đường trắng chứng minh được phần lớn thuật toán dựa trên DFS`"]
-  n37 --- n40
-  n41["`Kosaraju–Sharir được chọn vì dễ chứng minh, Tarjan một lần DFS thường nhanh hơn`"]
-  n37 --- n41
-  n42["`DFS đệ quy có độ sâu Θ(V) nên với đồ thị lớn cần bản lặp`"]
-  n37 --- n42
+  n14["`Con trỏ π tạo cây theo chiều rộng, PRINT-PATH in một đường ngắn nhất, ví dụ s w x y`"]
+  n7 --- n14
+  n15["`Mục 22.3 — Tìm kiếm theo chiều sâu DFS`"]
+  n0 --- n15
+  n16["`Đi sâu nhất có thể rồi quay lui, khởi động lại từ mọi đỉnh còn trắng nên tạo rừng theo chiều sâu`"]
+  n15 --- n16
+  n17["`Mỗi đỉnh có mốc 1 ≤ v.d #lt; v.f ≤ 2|V|, DFS luôn thăm mọi đỉnh nên chạy Θ(V + E)`"]
+  n15 --- n17
+  n18["`Ví dụ 6 đỉnh: u 1/8, v 2/7, y 3/6, x 4/5, w 9/12, z 10/11`"]
+  n15 --- n18
+  n19["`Định lý dấu ngoặc: hai khoảng [u.d, u.f] và [v.d, v.f] hoặc rời nhau hoặc lồng nhau`"]
+  n15 --- n19
+  n20["`Định lý đường trắng: v là con cháu u khi và chỉ khi lúc u.d có đường toàn đỉnh trắng từ u tới v`"]
+  n15 --- n20
+  n21["`Màu đỉnh đích lúc duyệt cạnh lần đầu: trắng là cạnh cây, xám là cạnh ngược, đen là cạnh xuôi hoặc chéo`"]
+  n15 --- n21
+  n22["`Định lý 22.10: đồ thị vô hướng chỉ có cạnh cây và cạnh ngược`"]
+  n15 --- n22
+  n23["`Mục 22.4 — Sắp xếp tô-pô`"]
+  n0 --- n23
+  n24["`Thứ tự tô-pô của dag đặt mọi cạnh (u, v) với u đứng trước v, khác hẳn sắp xếp theo khoá ở Phần II`"]
+  n23 --- n24
+  n25["`TOPOLOGICAL-SORT chèn đỉnh vào đầu danh sách khi hoàn tất, ra thứ tự f giảm dần trong Θ(V + E)`"]
+  n23 --- n25
+  n26["`Bổ đề 22.11: đồ thị có hướng không chu trình khi và chỉ khi DFS không sinh cạnh ngược`"]
+  n23 --- n26
+  n27["`Định lý 22.12: mọi cạnh (u, v) của dag có v.f #lt; u.f`"]
+  n23 --- n27
+  n28["`Ví dụ Giáo sư Bumstead mặc quần áo: socks, undershorts, pants, shoes, watch, shirt, belt, tie, jacket`"]
+  n23 --- n28
+  n29["`Mục 22.5 — Thành phần liên thông mạnh`"]
+  n0 --- n29
+  n30["`Thành phần liên thông mạnh là tập đỉnh cực đại mà mọi cặp đến được nhau, G và Gᵀ có cùng các thành phần`"]
+  n29 --- n30
+  n31["`Kosaraju–Sharir: DFS trên G lấy f, rồi DFS trên Gᵀ theo f giảm dần, mỗi cây là một thành phần, Θ(V + E)`"]
+  n29 --- n31
+  n32["`Bổ đề 22.13: đồ thị thành phần G^SCC là một dag`"]
+  n29 --- n32
+  n33["`Bổ đề 22.14: cạnh từ C sang C′ thì f(C) #gt; f(C′), nên lần DFS thứ hai không tràn sang thành phần chưa thăm`"]
+  n29 --- n33
+  n34["`Ví dụ đồ thị a–h ra bốn thành phần {a, b, e}, {c, d}, {f, g}, {h}`"]
+  n29 --- n34
+  n35["`Bài tập, bài toán 22-1 đến 22-4 và ghi chú chương`"]
+  n0 --- n35
+  n36["`Exercise 22.2-7: chia đô vật babyface và heel là kiểm tra đồ thị hai phía bằng BFS trong O(n + r)`"]
+  n35 --- n36
+  n37["`Exercise 22.2-8: đường kính cây bằng hai lần BFS, Exercise 22.4-5: sắp xếp tô-pô bằng lấy dần đỉnh bậc vào 0`"]
+  n35 --- n37
+  n38["`Người tổng hợp chỉ ra đề Bài tập 22.2-3 và 22.3-4 sai: phải bỏ dòng tô đen, không phải dòng tô xám`"]
+  n35 --- n38
+  n39["`Problem 22-2: đỉnh khớp, cầu, thành phần song liên thông bằng một lần DFS với giá trị v.low trong O(E)`"]
+  n35 --- n39
+  n40["`Problem 22-3: chu trình Euler tồn tại khi và chỉ khi mọi đỉnh có bậc vào bằng bậc ra, tìm trong O(E)`"]
+  n35 --- n40
+  n41["`Moore và Lee phát hiện BFS, Hopcroft và Tarjan nhận ra tầm quan trọng của DFS, Knuth cho sắp xếp tô-pô tuyến tính`"]
+  n35 --- n41
+  n42["`Thông điệp xuyên suốt`"]
+  n0 --- n42
+  n43["`Tìm kiếm đồ thị là kỹ thuật nền mà các thuật toán đồ thị sau mở rộng`"]
+  n42 --- n43
+  n44["`Chuỗi bổ đề của BFS là khuôn mẫu cho chứng minh Dijkstra ở Chương 24`"]
+  n42 --- n44
+  n45["`Ba công cụ dấu ngoặc, lồng khoảng, đường trắng chứng minh được phần lớn thuật toán dựa trên DFS`"]
+  n42 --- n45
+  n46["`Đánh dấu đã phát hiện ngay lúc đưa vào hàng đợi, phát hiện chu trình cần đủ ba màu`"]
+  n42 --- n46
+  n47["`DFS đệ quy có độ sâu Θ(V) nên với đồ thị lớn cần bản lặp, Tarjan một lần DFS thường nhanh hơn Kosaraju–Sharir`"]
+  n42 --- n47
   class n0 root
-  class n1,n7,n14,n21,n26,n32,n37 branch
-  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n36,n38,n39,n40,n41,n42 leaf
+  class n1,n7,n15,n23,n29,n35,n42 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47 leaf
 ```
 
 ## Nguồn
@@ -1563,8 +1601,24 @@ Chương 22 là nền: hai cách biểu diễn đồ thị, tìm kiếm theo chi
 
 - **Không có mục khó (★) trong chương.** Chỉ có hai bài tập được đánh dấu sao: 22.2-8 (đường kính của cây) và 22.3-13 (đồ thị liên thông đơn — singly connected).
 - **Số trang Phần VI:** trang 585 là phần cuối Ghi chú chương của Chương 21; trang tên "VI Graph Algorithms" là trang 586 (không in số), lời giới thiệu Phần VI chiếm trang 587–588, Chương 22 bắt đầu ở trang 589 và Ghi chú chương kết thúc ở trang 623 (trang 624 đã là Chương 23). Đã kiểm tra trên ảnh trang.
-- **Lớp chữ PDF hỏng, đã đọc lại từ ảnh trang:** ký hiệu đỉnh *v* (chữ nu nghiêng) bị mất hoàn toàn trong lớp chữ ("for each 2 G:AdjŒu" là "for each v ∈ G.Adj[u]", ": colorD WHITE" là "v.color = WHITE"); chữ π bị mất ("u: D NIL" là "u.π = NIL"); δ thành "ı", ∞ thành "1", ≥ và ≤ mất hẳn ("ı.s; / ı.s; u/C 1" là "δ(s, v) ≤ δ(s, u) + 1"), ≠ thành "¤", ⇝ thành "❀", Θ thành "‚", Ω bị mất ("time .V 2/" ở Bài tập 22.1-6 là Ω(V²)); chú thích "//" trong DFS-VISIT bị tách thành "/ /". Toàn bộ pseudocode BFS, PRINT-PATH, DFS, DFS-VISIT, TOPOLOGICAL-SORT, STRONGLY-CONNECTED-COMPONENTS, các bổ đề và chứng minh, công thức v.low ở Problem 22-2(c) được chép lại từ ảnh trang 595, 598–601, 604, 606, 608, 613–614, 617–619, 622. Các hình 22.1–22.10 không có trong lớp chữ (chỉ còn vụn số); người tổng hợp đọc từng hình trên ảnh trang 590, 596, 605, 607, 611, 613, 615, 616, 622 và tái hiện thành danh sách cạnh, bảng và sơ đồ text.
-- **Lỗi trong đề Bài tập 22.2-3 và 22.3-4 (nhận xét của người tổng hợp, đã tự kiểm tra):** Bài 22.2-3 viết "BFS cho cùng kết quả nếu bỏ dòng 5 và dòng 14". Điều này sai: nếu bỏ dòng 14 thì đỉnh vừa phát hiện vẫn trắng và có thể bị phát hiện lại, bị xếp hàng lại với d lớn hơn. Ví dụ trên đồ thị của ví dụ BFS ở Mục 22.2: x được phát hiện từ w với x.d = 2, nhưng khi t (cũng có d = 2) được lấy ra, x vẫn trắng nên bị gán lại x.d = 3. Còn nếu bỏ dòng 5 thì s không bao giờ được tô màu (dòng 1 bỏ qua s), nên s có thể bị "phát hiện" lại với s.d = 2. Điều đúng là bỏ **dòng 18** (tô đen): khi đó xám và đen gộp làm một và chỉ cần một bit. Tương tự, Bài 22.3-4 nói bỏ dòng 3 của DFS-VISIT (tô xám); làm vậy thì một cạnh ngược (v, u) sẽ thấy u còn trắng và gọi lại DFS-VISIT(u) — sai. Điều đúng là bỏ **dòng 8** (tô đen). Theo hiểu biết của người tổng hợp (không tra cứu), danh sách đính chính chính thức của ấn bản 3 đã sửa hai bài này đúng theo hướng đó; bản tổng hợp trình bày đề như sách in và ghi rõ chỗ sai.
-- **Chỗ chưa chặt khác (nhận xét của người tổng hợp):** (1) Đề Bài 22.1-5 in thiếu chữ: "if and only G contains a path" phải là "if and only if G contains a path". (2) Câu "Figure 22.4 illustrates the progress of DFS on the graph shown in Figure 22.2" (trang 604) đúng về cấu trúc, nhưng hai hình dùng nhãn khác nhau: đồ thị ở ví dụ DFS dùng nhãn u, v, w, x, y, z ứng với các đỉnh 1, 2, 3, 4, 5, 6 của đồ thị có hướng ở Mục 22.1 — người tổng hợp đã đối chiếu cả 8 cạnh. (3) Trong chứng minh Bổ đề 22.6, câu "dòng 16 gán v.π = u khi và chỉ khi (u, v) ∈ E và δ(s, v) < ∞" chỉ đúng theo nghĩa "v.π được gán (cho một u nào đó) khi và chỉ khi v đến được từ s"; với một đỉnh v có nhiều láng giềng u, chỉ một trong số đó trở thành v.π. (4) Ở bước "xếp hàng" của chứng minh Bổ đề 22.3, sách dùng "phần tử đầu mới v₁" mà không xét trường hợp hàng đợi rỗng ngay sau khi lấy u ra; khi đó v là phần tử duy nhất và bổ đề đúng hiển nhiên. (5) Problem 22-3 gọi chu trình Euler là "một chu trình" (cycle), nhưng nó có thể đi qua một đỉnh nhiều lần, nên theo định nghĩa của Phụ lục B nó là một đường đi khép kín (closed walk) chứ không phải chu trình đơn.
-- **Ví dụ chạy tay đã tự kiểm tra lại và khớp với sách:** BFS trên đồ thị 8 đỉnh r, s, t, u, v, w, x, y từ nguồn s (thứ tự hàng đợi và d của 9 trạng thái); DFS trên đồ thị 6 đỉnh u, v, w, x, y, z (16 trạng thái, mốc thời gian u 1/8, v 2/7, y 3/6, x 4/5, w 9/12, z 10/11); DFS trên đồ thị 8 đỉnh s, t, u, v, w, x, y, z dùng cho định lý dấu ngoặc; ví dụ mặc quần áo của Giáo sư Bumstead (thứ tự tô-pô socks, undershorts, pants, shoes, watch, shirt, belt, tie, jacket); thuật toán thành phần liên thông mạnh trên đồ thị 8 đỉnh a–h (gốc các cây của lần DFS thứ hai là b, c, g, h; bốn thành phần {a, b, e}, {c, d}, {f, g}, {h}). Ví dụ "bốn đường đi đơn từ p tới v" của Bài tập 22.4-2 cũng đúng (pov, poryv, posryv, psryv).
+- **Lớp chữ PDF hỏng, đã đọc lại từ ảnh trang:** ký hiệu đỉnh *v* (chữ nu nghiêng) bị mất hoàn toàn trong lớp chữ ("for each 2 G:AdjŒu" là "for each v ∈ G.Adj[u]", ": colorD WHITE" là "v.color = WHITE"); chữ π bị mất ("u: D NIL" là "u.π = NIL"); δ thành "ı", ∞ thành "1", ≥ và ≤ mất hẳn ("ı.s; / ı.s; u/C 1" là "δ(s, v) ≤ δ(s, u) + 1"), ≠ thành "¤", ⇝ thành "❀", Θ thành "‚", Ω bị mất ("time .V 2/" ở Bài tập 22.1-6 là Ω(V²)); chú thích "//" trong DFS-VISIT bị tách thành "/ /".
+
+  Toàn bộ pseudocode BFS, PRINT-PATH, DFS, DFS-VISIT, TOPOLOGICAL-SORT, STRONGLY-CONNECTED-COMPONENTS, các bổ đề và chứng minh, công thức v.low ở Problem 22-2(c) được chép lại từ ảnh trang 595, 598–601, 604, 606, 608, 613–614, 617–619, 622.
+
+  Các hình 22.1–22.10 không có trong lớp chữ (chỉ còn vụn số); người tổng hợp đọc từng hình trên ảnh trang 590, 596, 605, 607, 611, 613, 615, 616, 622 và tái hiện thành danh sách cạnh, bảng và sơ đồ text.
+- **Lỗi trong đề Bài tập 22.2-3 và 22.3-4 (nhận xét của người tổng hợp, đã tự kiểm tra):** Bài 22.2-3 viết "BFS cho cùng kết quả nếu bỏ dòng 5 và dòng 14". Điều này sai: nếu bỏ dòng 14 thì đỉnh vừa phát hiện vẫn trắng và có thể bị phát hiện lại, bị xếp hàng lại với d lớn hơn.
+
+  Ví dụ trên đồ thị của ví dụ BFS ở Mục 22.2: x được phát hiện từ w với x.d = 2, nhưng khi t (cũng có d = 2) được lấy ra, x vẫn trắng nên bị gán lại x.d = 3. Còn nếu bỏ dòng 5 thì s không bao giờ được tô màu (dòng 1 bỏ qua s), nên s có thể bị "phát hiện" lại với s.d = 2. Điều đúng là bỏ **dòng 18** (tô đen): khi đó xám và đen gộp làm một và chỉ cần một bit.
+
+  Tương tự, Bài 22.3-4 nói bỏ dòng 3 của DFS-VISIT (tô xám); làm vậy thì một cạnh ngược (v, u) sẽ thấy u còn trắng và gọi lại DFS-VISIT(u) — sai. Điều đúng là bỏ **dòng 8** (tô đen).
+
+  Theo hiểu biết của người tổng hợp (không tra cứu), danh sách đính chính chính thức của ấn bản 3 đã sửa hai bài này đúng theo hướng đó; bản tổng hợp trình bày đề như sách in và ghi rõ chỗ sai.
+- **Chỗ chưa chặt khác (nhận xét của người tổng hợp):** (1) Đề Bài 22.1-5 in thiếu chữ: "if and only G contains a path" phải là "if and only if G contains a path". (2) Câu "Figure 22.4 illustrates the progress of DFS on the graph shown in Figure 22.2" (trang 604) đúng về cấu trúc, nhưng hai hình dùng nhãn khác nhau: đồ thị ở ví dụ DFS dùng nhãn u, v, w, x, y, z ứng với các đỉnh 1, 2, 3, 4, 5, 6 của đồ thị có hướng ở Mục 22.1 — người tổng hợp đã đối chiếu cả 8 cạnh.
+
+  (3) Trong chứng minh Bổ đề 22.6, câu "dòng 16 gán v.π = u khi và chỉ khi (u, v) ∈ E và δ(s, v) < ∞" chỉ đúng theo nghĩa "v.π được gán (cho một u nào đó) khi và chỉ khi v đến được từ s"; với một đỉnh v có nhiều láng giềng u, chỉ một trong số đó trở thành v.π. (4) Ở bước "xếp hàng" của chứng minh Bổ đề 22.3, sách dùng "phần tử đầu mới v₁" mà không xét trường hợp hàng đợi rỗng ngay sau khi lấy u ra; khi đó v là phần tử duy nhất và bổ đề đúng hiển nhiên.
+
+  (5) Problem 22-3 gọi chu trình Euler là "một chu trình" (cycle), nhưng nó có thể đi qua một đỉnh nhiều lần, nên theo định nghĩa của Phụ lục B nó là một đường đi khép kín (closed walk) chứ không phải chu trình đơn.
+- **Ví dụ chạy tay đã tự kiểm tra lại và khớp với sách:** BFS trên đồ thị 8 đỉnh r, s, t, u, v, w, x, y từ nguồn s (thứ tự hàng đợi và d của 9 trạng thái); DFS trên đồ thị 6 đỉnh u, v, w, x, y, z (16 trạng thái, mốc thời gian u 1/8, v 2/7, y 3/6, x 4/5, w 9/12, z 10/11); DFS trên đồ thị 8 đỉnh s, t, u, v, w, x, y, z dùng cho định lý dấu ngoặc.
+
+  Ví dụ mặc quần áo của Giáo sư Bumstead (thứ tự tô-pô socks, undershorts, pants, shoes, watch, shirt, belt, tie, jacket); thuật toán thành phần liên thông mạnh trên đồ thị 8 đỉnh a–h (gốc các cây của lần DFS thứ hai là b, c, g, h; bốn thành phần {a, b, e}, {c, d}, {f, g}, {h}). Ví dụ "bốn đường đi đơn từ p tới v" của Bài tập 22.4-2 cũng đúng (pov, poryv, posryv, psryv).
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu, chỉ nêu điều nhớ chắc:** chương này trở thành **Chương 20** "Elementary Graph Algorithms" (vì hai chương đống Fibonacci và cây van Emde Boas bị bỏ khỏi bản in), nội dung chính giữ nguyên: biểu diễn đồ thị, BFS, DFS, sắp xếp tô-pô, thành phần liên thông mạnh. Phần VI ở ấn bản 4 có thêm một chương mới về ghép cặp trong đồ thị hai phía (Matchings in Bipartite Graphs). Các khác biệt chi tiết trong lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.

@@ -244,7 +244,9 @@ Cái giá: cây chiếm Θ(u) bộ nhớ và tốn Θ(u) để tạo; Problem 20
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao có thể làm hàng đợi ưu tiên nhanh hơn O(lg n), và cái giá là gì?** Mọi cấu trúc chỉ dựa vào so sánh khoá phải có ít nhất một thao tác Ω(lg n), vì nếu INSERT và EXTRACT-MIN đều o(lg n) thì ta sắp xếp được n khoá trong o(n lg n), trái với cận dưới của Mục 8.1. Cây van Emde Boas không chỉ so sánh: nó dùng chính các bit của khoá làm chỉ số mảng (high(x) là nửa bit cao, low(x) là nửa bit thấp). Cái giá: khoá phải là số nguyên trong {0, …, u − 1}, không trùng nhau, và cây chiếm Θ(u) bộ nhớ, tốn Θ(u) để tạo, dù tập chỉ có vài phần tử. Ví dụ với u = 2³² (khoá 32 bit): lg lg u = 5, so với lg n ≈ 20 khi n = 10⁶; nhưng cây cần cỡ 2³² ô nhớ.
+1. **Vì sao có thể làm hàng đợi ưu tiên nhanh hơn O(lg n), và cái giá là gì?** Mọi cấu trúc chỉ dựa vào so sánh khoá phải có ít nhất một thao tác Ω(lg n), vì nếu INSERT và EXTRACT-MIN đều o(lg n) thì ta sắp xếp được n khoá trong o(n lg n), trái với cận dưới của Mục 8.1. Cây van Emde Boas không chỉ so sánh: nó dùng chính các bit của khoá làm chỉ số mảng (high(x) là nửa bit cao, low(x) là nửa bit thấp).
+
+   Cái giá: khoá phải là số nguyên trong {0, …, u − 1}, không trùng nhau, và cây chiếm Θ(u) bộ nhớ, tốn Θ(u) để tạo, dù tập chỉ có vài phần tử. Ví dụ với u = 2³² (khoá 32 bit): lg lg u = 5, so với lg n ≈ 20 khi n = 10⁶; nhưng cây cần cỡ 2³² ô nhớ.
 2. **Vì sao truy hồi T(u) = T(√u) + O(1) cho O(lg lg u), và vì sao cấu trúc proto-vEB chưa đạt được nó?** Đặt m = lg u, S(m) = T(2^m): S(m) = S(m/2) + O(1) = O(lg m) = O(lg lg u); trực giác là mỗi tầng đệ quy làm số bit của vũ trụ giảm một nửa: 32 → 16 → 8 → 4 → 2 → 1, tức 5 tầng với u = 2³². Proto-vEB chỉ đạt điều này cho MEMBER; MINIMUM và INSERT gọi đệ quy hai lần nên T(u) = 2T(√u) + O(1) = Θ(lg u), còn SUCCESSOR gọi hai lần cộng một lần MINIMUM nên T(u) = 2T(√u) + Θ(lg u) = Θ(lg u lg lg u). Hệ số 2 trước T(√u) phá huỷ lợi thế.
 3. **Hai thuộc tính min và max cứu cấu trúc như thế nào?** Chúng cho phép mỗi thao tác chỉ đi xuống một nhánh: MINIMUM/MAXIMUM trả lời ngay; SUCCESSOR nhìn max của cụm chứa x để biết đi vào cụm hay vào summary (không phải thử cả hai); vì min không được lưu trong cụm, chèn vào cụm rỗng chỉ cần gán min = max = x, nên khi INSERT phải chèn số cụm vào summary thì phần chèn vào cụm chỉ tốn O(1); tương tự, khi DELETE phải xoá số cụm khỏi summary thì cụm vừa có đúng một phần tử, nên phần xoá khỏi cụm tốn O(1). Kết quả: mọi thao tác thoả T(u) ≤ T(↑√u) + O(1) = O(lg lg u).
 
@@ -978,8 +980,12 @@ Dementiev và cộng sự (nhắc ở Ghi chú chương) cũng đi theo hướng
 
 - **20.1-1:** Sửa các cấu trúc của mục này để hỗ trợ khoá trùng nhau. *Người tổng hợp:* thay mỗi bit A[x] bằng một bộ đếm c[x] (số lần x xuất hiện). INSERT tăng c[x]; nếu c[x] vừa từ 0 thành 1 thì cập nhật các bit tóm tắt (cây nhị phân hoặc summary) như cũ. DELETE giảm c[x]; chỉ khi c[x] về 0 mới cập nhật tóm tắt. Các nút trong vẫn chỉ cần một bit "cây con có phần tử". MINIMUM, SUCCESSOR… không đổi (coi c[x] > 0 như bit 1). Thời gian không đổi.
 - **20.1-2:** Sửa các cấu trúc để hỗ trợ khoá có dữ liệu vệ tinh. *Người tổng hợp:* thay vectơ bit bằng mảng con trỏ D[0..u − 1]: D[x] trỏ tới bản ghi dữ liệu vệ tinh của x, NIL nếu x không thuộc tập (giống bảng địa chỉ trực tiếp của Mục 11.1). Điều kiện "bit 1" thành "D[x] ≠ NIL"; cây tóm tắt giữ nguyên.
-- **20.1-3:** Với các cấu trúc của mục này, cách tìm phần tử liền sau và liền trước của x không phụ thuộc x có đang thuộc tập hay không. Chỉ cách tìm phần tử liền sau của x trong cây tìm kiếm nhị phân khi x không có trong cây. *Người tổng hợp:* đi từ gốc xuống như tìm x; mỗi lần rẽ trái tại nút y (vì x < y.key) thì ghi nhớ y là "ứng viên". Khi rơi xuống NIL, ứng viên cuối cùng được ghi nhớ là phần tử liền sau (nút có khoá nhỏ nhất lớn hơn x); nếu chưa từng rẽ trái thì không có phần tử liền sau. Thời gian O(h). Ví dụ: cây chứa 2, 5, 9 với gốc 5; tìm phần tử liền sau 6: tại 5 rẽ phải (6 > 5), tại 9 rẽ trái và ghi 9, rơi xuống NIL, kết quả 9.
-- **20.1-4:** Giả sử thay vì cây bậc √u, ta đặt lên trên một cây bậc u^(1/k), với k > 1 là hằng số. Chiều cao cây là bao nhiêu, và mỗi thao tác tốn bao lâu? *Người tổng hợp:* mỗi tầng chia số lá cho u^(1/k), nên chiều cao là k. INSERT: đặt bit dọc đường lá→gốc, O(k) = O(1). MEMBER: O(1). MINIMUM, MAXIMUM: ở mỗi tầng quét tối đa u^(1/k) con để tìm con trái (phải) nhất chứa 1, tổng O(k·u^(1/k)). SUCCESSOR, PREDECESSOR: đi lên tối đa k tầng, ở mỗi tầng quét tối đa u^(1/k) anh em bên phải (trái), rồi đi xuống k tầng: O(k·u^(1/k)). DELETE: dọc đường lên gốc, tính lại OR của u^(1/k) con ở mỗi tầng: O(k·u^(1/k)). Với k hằng số, các thao tác "khó" là O(u^(1/k)). Ví dụ u = 2¹⁶, k = 4: chiều cao 4, mỗi nút có 16 con; SUCCESSOR quét tối đa khoảng 2·4·16 = 128 ô thay vì 2¹⁶.
+- **20.1-3:** Với các cấu trúc của mục này, cách tìm phần tử liền sau và liền trước của x không phụ thuộc x có đang thuộc tập hay không. Chỉ cách tìm phần tử liền sau của x trong cây tìm kiếm nhị phân khi x không có trong cây.
+
+  *Người tổng hợp:* đi từ gốc xuống như tìm x; mỗi lần rẽ trái tại nút y (vì x < y.key) thì ghi nhớ y là "ứng viên". Khi rơi xuống NIL, ứng viên cuối cùng được ghi nhớ là phần tử liền sau (nút có khoá nhỏ nhất lớn hơn x); nếu chưa từng rẽ trái thì không có phần tử liền sau. Thời gian O(h). Ví dụ: cây chứa 2, 5, 9 với gốc 5; tìm phần tử liền sau 6: tại 5 rẽ phải (6 > 5), tại 9 rẽ trái và ghi 9, rơi xuống NIL, kết quả 9.
+- **20.1-4:** Giả sử thay vì cây bậc √u, ta đặt lên trên một cây bậc u^(1/k), với k > 1 là hằng số. Chiều cao cây là bao nhiêu, và mỗi thao tác tốn bao lâu?
+
+  *Người tổng hợp:* mỗi tầng chia số lá cho u^(1/k), nên chiều cao là k. INSERT: đặt bit dọc đường lá→gốc, O(k) = O(1). MEMBER: O(1). MINIMUM, MAXIMUM: ở mỗi tầng quét tối đa u^(1/k) con để tìm con trái (phải) nhất chứa 1, tổng O(k·u^(1/k)). SUCCESSOR, PREDECESSOR: đi lên tối đa k tầng, ở mỗi tầng quét tối đa u^(1/k) anh em bên phải (trái), rồi đi xuống k tầng: O(k·u^(1/k)). DELETE: dọc đường lên gốc, tính lại OR của u^(1/k) con ở mỗi tầng: O(k·u^(1/k)). Với k hằng số, các thao tác "khó" là O(u^(1/k)). Ví dụ u = 2¹⁶, k = 4: chiều cao 4, mỗi nút có 16 con; SUCCESSOR quét tối đa khoảng 2·4·16 = 128 ô thay vì 2¹⁶.
 
 ### Bài tập Mục 20.2 (trang 544–545)
 
@@ -1081,11 +1087,15 @@ Dementiev và cộng sự (nhắc ở Ghi chú chương) cũng đi theo hướng
   ```
   Thời gian O(u), theo truy hồi giống (20.5).
 - **20.3-4:** Chuyện gì xảy ra nếu gọi VEB-TREE-INSERT với phần tử đã có trong cây? Nếu gọi VEB-TREE-DELETE với phần tử không có trong cây? Giải thích vì sao các thủ tục hành xử như vậy. Chỉ cách sửa cây vEB và các thao tác để kiểm tra trong thời gian hằng số một phần tử có mặt hay không. *Người tổng hợp:*
-  - INSERT phần tử đã có: thủ tục đi xuống theo high/low cho tới một tầng mà x đúng bằng V.min của cây con. Ở đó x < V.min sai nên không đổi chỗ; nếu u > 2, nó tìm cụm high(x) — cụm này không chứa x (vì min không xuống cụm) và có thể rỗng — rồi chèn x vào cụm và có thể vào summary. Kết quả x xuất hiện hai lần (là min và nằm trong cụm), phá bất biến "min không nằm trong cụm". Ví dụ cây vEB(4) chỉ chứa 3 (min = max = 3), INSERT(3): 3 < 3 sai; high(3) = 1, cụm 1 rỗng nên chèn 1 vào summary và vào cụm 1; max không đổi. Giờ cụm 1 chứa low(3), nên sau một lần DELETE(3), cây vẫn còn "ma" của 3. Nếu x chỉ là max ở một cây vEB(2) thì không có gì thay đổi.
+  - INSERT phần tử đã có: thủ tục đi xuống theo high/low cho tới một tầng mà x đúng bằng V.min của cây con. Ở đó x < V.min sai nên không đổi chỗ; nếu u > 2, nó tìm cụm high(x) — cụm này không chứa x (vì min không xuống cụm) và có thể rỗng — rồi chèn x vào cụm và có thể vào summary. Kết quả x xuất hiện hai lần (là min và nằm trong cụm), phá bất biến "min không nằm trong cụm".
+
+    Ví dụ cây vEB(4) chỉ chứa 3 (min = max = 3), INSERT(3): 3 < 3 sai; high(3) = 1, cụm 1 rỗng nên chèn 1 vào summary và vào cụm 1; max không đổi. Giờ cụm 1 chứa low(3), nên sau một lần DELETE(3), cây vẫn còn "ma" của 3. Nếu x chỉ là max ở một cây vEB(2) thì không có gì thay đổi.
   - DELETE phần tử vắng mặt: dòng 1 coi "min == max" nghĩa là chỉ có một phần tử và xoá luôn phần tử đó mà không kiểm tra nó có bằng x không. Ví dụ cây chỉ chứa 5, DELETE(7) làm cây rỗng. Ở các tầng khác, thủ tục có thể đi vào cụm rỗng (min = max = NIL, dòng 1 đúng) và "xoá" vô hại, nhưng dòng 14–15 có thể xoá số cụm khỏi summary sai, và dòng 21–22 có thể đặt max = index(high(x), NIL).
   - Lý do: hai thủ tục được viết với tiền điều kiện (x chưa có / x đang có) để mỗi tầng chỉ tốn O(1) và chỉ có một lời gọi đệ quy thật; kiểm tra tiền điều kiện bằng VEB-TREE-MEMBER tốn thêm O(lg lg u) mỗi lần.
   - Cách sửa: giữ ở tầng trên cùng một vectơ bit present[0..u − 1] (bộ nhớ vẫn O(u)), cập nhật trong INSERT/DELETE ở tầng ngoài cùng; MEMBER trở thành O(1), và INSERT/DELETE có thể từ chối thao tác không hợp lệ trong O(1).
-- **20.3-5:** Giả sử thay vì ↑√u cụm, mỗi cụm có vũ trụ ↓√u, ta dựng cây vEB có u^(1/k) cụm, mỗi cụm vũ trụ u^(1 − 1/k), với k > 1 là hằng số. Nếu sửa các thao tác thích hợp, thời gian của chúng là bao nhiêu? (Giả sử u^(1/k) và u^(1 − 1/k) luôn là số nguyên.) *Người tổng hợp:* summary có vũ trụ u^(1/k), cụm có vũ trụ u^(1 − 1/k). Mỗi thao tác vẫn chỉ một lời gọi đệ quy thật, trên cụm hoặc trên summary, nên T(u) ≤ T(u^(1 − 1/k)) + O(1). Với m = lg u: S(m) ≤ S((1 − 1/k)m) + O(1) = O(lg m) (trường hợp 2 của phương pháp thợ, b = k/(k − 1)). Vậy vẫn O(lg lg u); hằng số tăng theo k (số tầng khoảng log_{k/(k−1)} lg u ≈ k ln lg u khi k lớn). Bộ nhớ vẫn O(u).
+- **20.3-5:** Giả sử thay vì ↑√u cụm, mỗi cụm có vũ trụ ↓√u, ta dựng cây vEB có u^(1/k) cụm, mỗi cụm vũ trụ u^(1 − 1/k), với k > 1 là hằng số. Nếu sửa các thao tác thích hợp, thời gian của chúng là bao nhiêu? (Giả sử u^(1/k) và u^(1 − 1/k) luôn là số nguyên.)
+
+  *Người tổng hợp:* summary có vũ trụ u^(1/k), cụm có vũ trụ u^(1 − 1/k). Mỗi thao tác vẫn chỉ một lời gọi đệ quy thật, trên cụm hoặc trên summary, nên T(u) ≤ T(u^(1 − 1/k)) + O(1). Với m = lg u: S(m) ≤ S((1 − 1/k)m) + O(1) = O(lg m) (trường hợp 2 của phương pháp thợ, b = k/(k − 1)). Vậy vẫn O(lg lg u); hằng số tăng theo k (số tầng khoảng log_{k/(k−1)} lg u ≈ k ln lg u khi k lớn). Bộ nhớ vẫn O(u).
 - **20.3-6:** Tạo cây vEB vũ trụ u tốn O(u). Giả sử muốn tính tường minh thời gian đó. Số thao tác n nhỏ nhất là bao nhiêu để thời gian khấu hao mỗi thao tác trên cây vEB là O(lg lg u)? *Người tổng hợp:* tổng thời gian n thao tác là O(u + n lg lg u); chia cho n được O(u/n + lg lg u). Để là O(lg lg u) cần u/n = O(lg lg u), tức n = Ω(u / lg lg u). Ví dụ u = 2¹⁶: lg lg u = 4, cần khoảng 2¹⁶/4 = 16.384 thao tác trở lên.
 
 ### Problem 20-1: Bộ nhớ của cây van Emde Boas (Space requirements for van Emde Boas trees)
@@ -1098,7 +1108,11 @@ Bài toán khảo sát bộ nhớ của cây vEB và gợi ý cách sửa cấu 
   P(u) = (√u + 1)P(√u) + Θ(√u)                                     (20.5)
   ```
   *Người tổng hợp:* một vEB(u) gồm các trường u, min, max và con trỏ summary (O(1)), mảng cluster √u con trỏ (Θ(√u)), cộng √u cây cụm và 1 cây summary, mỗi cây là vEB(√u) chiếm P(√u).
-- **(b)** Chứng minh (20.5) có nghiệm P(u) = O(u). *Người tổng hợp:* chứng minh P(u) ≤ cu − d bằng quy nạp, với hằng số a sao cho số hạng Θ(√u) ≤ a√u. Thế vào: P(u) ≤ (√u + 1)(c√u − d) + a√u = cu − d + √u(c + a − d). Chọn d ≥ c + a thì P(u) ≤ cu − d. Trường hợp cơ sở P(2) ≤ 2c − d đúng khi chọn c ≥ P(2) + a và d = c + a (vì 2c − d = c − a ≥ P(2)). Lưu ý cần trừ hằng số d; thử P(u) ≤ cu trực tiếp sẽ thất bại vì thừa ra c√u + a√u. Kiểm tra số: số cây (kể cả cây con) trong một vEB(u) đầy đủ thoả N(u) = 1 + (√u + 1)N(√u), với N(2) = 1. Ta có N(4) = 1 + 3·1 = 4, N(16) = 1 + 5·4 = 21 (một vEB(16), năm vEB(4), mười lăm vEB(2)), N(256) = 1 + 17·21 = 358. Tỷ số N(u)/u là 1, 1,31, 1,40 — bị chặn, đúng với tăng trưởng tuyến tính.
+- **(b)** Chứng minh (20.5) có nghiệm P(u) = O(u).
+
+  *Người tổng hợp:* chứng minh P(u) ≤ cu − d bằng quy nạp, với hằng số a sao cho số hạng Θ(√u) ≤ a√u. Thế vào: P(u) ≤ (√u + 1)(c√u − d) + a√u = cu − d + √u(c + a − d). Chọn d ≥ c + a thì P(u) ≤ cu − d. Trường hợp cơ sở P(2) ≤ 2c − d đúng khi chọn c ≥ P(2) + a và d = c + a (vì 2c − d = c − a ≥ P(2)). Lưu ý cần trừ hằng số d; thử P(u) ≤ cu trực tiếp sẽ thất bại vì thừa ra c√u + a√u.
+
+  Kiểm tra số: số cây (kể cả cây con) trong một vEB(u) đầy đủ thoả N(u) = 1 + (√u + 1)N(√u), với N(2) = 1. Ta có N(4) = 1 + 3·1 = 4, N(16) = 1 + 5·4 = 21 (một vEB(16), năm vEB(4), mười lăm vEB(2)), N(256) = 1 + 17·21 = 358. Tỷ số N(u)/u là 1, 1,31, 1,40 — bị chặn, đúng với tăng trưởng tuyến tính.
 
 Để giảm bộ nhớ, định nghĩa **cây van Emde Boas giảm bộ nhớ** (reduced-space van Emde Boas tree), hay **cây RS-vEB**, là cây vEB V với các thay đổi sau:
 
@@ -1165,7 +1179,15 @@ CREATE-NEW-RS-VEB-TREE(u)
   17              return index(succ-cluster, c′.min)
   ```
 - **(e)** Chứng minh rằng, với giả định băm đều đơn giản (simple uniform hashing), RS-VEB-TREE-INSERT và RS-VEB-TREE-SUCCESSOR chạy O(lg lg u) kỳ vọng. *Người tổng hợp:* mỗi tầng đệ quy làm O(1) phép băm cộng O(1) việc khác. Với băm đều đơn giản và bảng động giữ hệ số tải bị chặn bởi hằng số, mỗi lần tìm kiếm tốn O(1) kỳ vọng (Định lý 11.1, 11.2); mỗi lần chèn vào bảng động tốn O(1) khấu hao (Mục 17.4) — nên chặt chẽ ra thời gian của INSERT là O(lg lg u) kỳ vọng và khấu hao (nhận xét của người tổng hợp). Số tầng vẫn tuân theo truy hồi T(u) ≤ T(√u) + O(1), tổng O(lg lg u) theo tính tuyến tính của kỳ vọng.
-- **(f)** Giả sử không bao giờ xoá phần tử, chứng minh bộ nhớ của cây RS-vEB là O(n), với n là số phần tử thực sự lưu. *Người tổng hợp:* bộ nhớ tỷ lệ với số cây RS-vEB được tạo (mỗi cây O(1) cộng bảng băm tỷ lệ với số cụm khác rỗng, tức số cây con của nó). Mỗi lần INSERT ở tầng ngoài tạo nhiều nhất hai cây ở mỗi tầng đệ quy, và chuỗi tạo mới chỉ tiếp tục đi vào summary, nên một lần chèn tạo O(lg lg u) cây; điều này cho ngay cận O(n lg lg u). **Nhận xét của người tổng hợp — cận O(n) có vẻ không đúng trong mọi trường hợp:** lấy các phần tử x_i = i · 2^(lg u − ⌈lg n⌉) với i = 0, 1, …, n − 1 (⌈lg n⌉ bit cao là i, còn lại là 0). Ở mỗi tầng, các phần tử khác min đều nằm ở các cụm khác nhau, mỗi cụm chỉ một phần tử (một cây), và summary nhận n − 1, rồi n − 2, … giá trị vẫn có nửa bit cao khác nhau, chừng nào số bit của vũ trụ còn ít nhất 2⌈lg n⌉. Số tầng như vậy là khoảng lg lg u − lg lg n, nên tổng số cây cỡ Θ(n (lg lg u − lg lg n)) khi n lớn hơn số tầng; ví dụ với n = lg u ta được Θ(n lg lg u), không phải O(n). Cấu trúc đạt O(n) thực sự là y-fast trie ở Problem 20-2. Người tổng hợp không tra errata nên không khẳng định sách sai; có thể ý đề là "O(n) khi coi lg lg u là hằng số" hoặc tính cho trường hợp n đủ lớn so với u.
+- **(f)** Giả sử không bao giờ xoá phần tử, chứng minh bộ nhớ của cây RS-vEB là O(n), với n là số phần tử thực sự lưu.
+
+  *Người tổng hợp:* bộ nhớ tỷ lệ với số cây RS-vEB được tạo (mỗi cây O(1) cộng bảng băm tỷ lệ với số cụm khác rỗng, tức số cây con của nó). Mỗi lần INSERT ở tầng ngoài tạo nhiều nhất hai cây ở mỗi tầng đệ quy, và chuỗi tạo mới chỉ tiếp tục đi vào summary, nên một lần chèn tạo O(lg lg u) cây; điều này cho ngay cận O(n lg lg u).
+
+  **Nhận xét của người tổng hợp — cận O(n) có vẻ không đúng trong mọi trường hợp:** lấy các phần tử x_i = i · 2^(lg u − ⌈lg n⌉) với i = 0, 1, …, n − 1 (⌈lg n⌉ bit cao là i, còn lại là 0). Ở mỗi tầng, các phần tử khác min đều nằm ở các cụm khác nhau, mỗi cụm chỉ một phần tử (một cây), và summary nhận n − 1, rồi n − 2, … giá trị vẫn có nửa bit cao khác nhau, chừng nào số bit của vũ trụ còn ít nhất 2⌈lg n⌉.
+
+  Số tầng như vậy là khoảng lg lg u − lg lg n, nên tổng số cây cỡ Θ(n (lg lg u − lg lg n)) khi n lớn hơn số tầng; ví dụ với n = lg u ta được Θ(n lg lg u), không phải O(n). Cấu trúc đạt O(n) thực sự là y-fast trie ở Problem 20-2.
+
+  Người tổng hợp không tra errata nên không khẳng định sách sai; có thể ý đề là "O(n) khi coi lg lg u là hằng số" hoặc tính cho trường hợp n đủ lớn so với u.
 - **(g)** Cây RS-vEB có thêm một lợi thế so với cây vEB: tạo nhanh hơn. Tạo một cây RS-vEB rỗng mất bao lâu? *Người tổng hợp:* O(1) — CREATE-NEW-RS-VEB-TREE chỉ gán năm trường và tạo một bảng băm rỗng; cây con chỉ được tạo khi cần.
 
 ### Problem 20-2: y-fast trie (y-fast tries)
@@ -1178,7 +1200,11 @@ Cấu trúc sơ bộ: tạo một bảng băm hoàn hảo chứa không chỉ m�
 - **(b)** Chỉ cách làm MINIMUM và MAXIMUM trong O(1); MEMBER, PREDECESSOR, SUCCESSOR trong O(lg lg u); INSERT và DELETE trong O(lg u). *Người tổng hợp:*
   - MINIMUM, MAXIMUM: phần tử đầu và cuối danh sách liên kết, O(1).
   - MEMBER(x): tra chuỗi đầy đủ lg u bit của x trong bảng băm hoàn hảo, O(1) (tức cũng là O(lg lg u)).
-  - SUCCESSOR, PREDECESSOR: tìm nhị phân trên độ dài tiền tố ℓ ∈ {0, …, lg u}: tính chất "tiền tố độ dài ℓ của x có trong bảng" là đơn điệu (nếu có ở độ dài ℓ thì có ở mọi độ dài ngắn hơn), nên tìm được tiền tố dài nhất p của x có trong bảng bằng O(lg lg u) lần tra. Để từ p suy ra kết quả trong O(1), lưu kèm mỗi tiền tố trong bảng con trỏ tới phần tử nhỏ nhất và lớn nhất có tiền tố đó (bổ sung của người tổng hợp; cấu trúc này gọi là x-fast trie). Nếu bit kế tiếp của x sau p là 0, mọi phần tử có tiền tố p đều có bit kế là 1 nên đều lớn hơn x: phần tử liền sau là phần tử nhỏ nhất có tiền tố p, phần tử liền trước là phần tử đứng trước nó trong danh sách. Nếu bit kế là 1, phần tử liền trước là phần tử lớn nhất có tiền tố p, phần tử liền sau là phần tử đứng sau nó trong danh sách. (Nếu x thuộc tập thì dùng luôn danh sách.)
+  - SUCCESSOR, PREDECESSOR: tìm nhị phân trên độ dài tiền tố ℓ ∈ {0, …, lg u}: tính chất "tiền tố độ dài ℓ của x có trong bảng" là đơn điệu (nếu có ở độ dài ℓ thì có ở mọi độ dài ngắn hơn), nên tìm được tiền tố dài nhất p của x có trong bảng bằng O(lg lg u) lần tra.
+
+    Để từ p suy ra kết quả trong O(1), lưu kèm mỗi tiền tố trong bảng con trỏ tới phần tử nhỏ nhất và lớn nhất có tiền tố đó (bổ sung của người tổng hợp; cấu trúc này gọi là x-fast trie).
+
+    Nếu bit kế tiếp của x sau p là 0, mọi phần tử có tiền tố p đều có bit kế là 1 nên đều lớn hơn x: phần tử liền sau là phần tử nhỏ nhất có tiền tố p, phần tử liền trước là phần tử đứng trước nó trong danh sách. Nếu bit kế là 1, phần tử liền trước là phần tử lớn nhất có tiền tố p, phần tử liền sau là phần tử đứng sau nó trong danh sách. (Nếu x thuộc tập thì dùng luôn danh sách.)
   - INSERT, DELETE: tìm vị trí trong danh sách bằng PREDECESSOR (O(lg lg u)), rồi thêm hoặc xoá lg u tiền tố và cập nhật con trỏ min/max của chúng: O(lg u). (Với bảng băm hoàn hảo tĩnh, chèn/xoá mục cần kỹ thuật băm hoàn hảo động; ở đây hiểu là O(1) kỳ vọng mỗi mục.)
 
 Để giảm bộ nhớ xuống O(n), ta thay đổi cấu trúc như sau:
@@ -1195,7 +1221,15 @@ Cấu trúc này gọi là **y-fast trie**.
 - **(e)** Chỉ cách làm MEMBER trong O(lg lg u). *Người tổng hợp:* x thuộc nhóm có đại diện nhỏ nhất ≥ x. Tìm đại diện đó bằng truy vấn kiểu SUCCESSOR trên tập đại diện (thuật toán ở (b), O(lg lg u)), rồi tìm x trong cây của nhóm, O(lg lg u).
 - **(f)** Chỉ cách làm PREDECESSOR và SUCCESSOR trong O(lg lg u). *Người tổng hợp:* như (e), tìm nhóm g có đại diện nhỏ nhất ≥ x (O(lg lg u)). SUCCESSOR: tìm phần tử liền sau x trong cây của g (O(lg lg u)); nếu không có (x ≥ max của g), kết quả là min của nhóm kế tiếp (đại diện kế trong danh sách, O(lg lg u)). PREDECESSOR: tìm phần tử liền trước trong cây của g; nếu không có, kết quả là max của nhóm đứng trước.
 - **(g)** Giải thích vì sao INSERT và DELETE tốn Ω(lg lg u). *Người tổng hợp:* trước hết phải xác định nhóm chứa (hoặc sẽ chứa) x, tương đương một truy vấn kế cận trên tập đại diện; sau đó phải chèn/xoá trong cây cân bằng lg u phần tử, mà riêng việc tìm vị trí trong cây chiều cao Θ(lg lg u) đã tốn Ω(lg lg u). Hơn nữa, nếu đòi mỗi nhóm có đúng lg u phần tử thì một lần chèn làm tràn nhóm và phải dồn một phần tử sang mỗi nhóm phía sau — còn tệ hơn nhiều.
-- **(h)** Chỉ cách nới lỏng yêu cầu mỗi nhóm có đúng lg u phần tử để INSERT và DELETE chạy O(lg lg u) khấu hao mà không ảnh hưởng thời gian tiệm cận của các thao tác khác. *Người tổng hợp:* cho phép mỗi nhóm có từ (lg u)/4 tới 2 lg u phần tử (các hằng số chỉ là một lựa chọn). INSERT: chèn vào cây của nhóm (O(lg lg u)); nếu nhóm vượt 2 lg u phần tử, tách thành hai nhóm khoảng lg u phần tử (O(lg u) để tách cây), chọn đại diện mới cho nửa dưới (ví dụ phần tử lớn nhất của nửa dưới) và chèn nó vào bảng băm tiền tố (O(lg u)). DELETE: xoá khỏi cây; nếu nhóm dưới (lg u)/4 phần tử, gộp với nhóm kề (và tách lại nếu quá lớn), xoá một đại diện khỏi bảng (O(lg u)). Một lần tách/gộp tốn O(lg u) nhưng chỉ xảy ra sau Ω(lg u) lần chèn/xoá vào nhóm đó kể từ lần tái cấu trúc trước, nên khấu hao O(1) mỗi thao tác (phương pháp kế toán, Mục 17.2). Khi chèn hoặc xoá thông thường, đại diện không cần thay đổi: x được chèn vào đúng nhóm có đại diện nhỏ nhất ≥ x, nên điều kiện "đại diện ≥ max của nhóm và < min của nhóm sau" vẫn đúng (đại diện nhóm cuối là u − 1 nên mọi x đều có nhóm). Các thao tác khác vẫn O(lg lg u) vì cây mỗi nhóm có O(lg u) phần tử, chiều cao O(lg lg u), và số nhóm vẫn O(n/lg u) nên bộ nhớ O(n).
+- **(h)** Chỉ cách nới lỏng yêu cầu mỗi nhóm có đúng lg u phần tử để INSERT và DELETE chạy O(lg lg u) khấu hao mà không ảnh hưởng thời gian tiệm cận của các thao tác khác.
+
+  *Người tổng hợp:* cho phép mỗi nhóm có từ (lg u)/4 tới 2 lg u phần tử (các hằng số chỉ là một lựa chọn). INSERT: chèn vào cây của nhóm (O(lg lg u)); nếu nhóm vượt 2 lg u phần tử, tách thành hai nhóm khoảng lg u phần tử (O(lg u) để tách cây), chọn đại diện mới cho nửa dưới (ví dụ phần tử lớn nhất của nửa dưới) và chèn nó vào bảng băm tiền tố (O(lg u)).
+
+  DELETE: xoá khỏi cây; nếu nhóm dưới (lg u)/4 phần tử, gộp với nhóm kề (và tách lại nếu quá lớn), xoá một đại diện khỏi bảng (O(lg u)).
+
+  Một lần tách/gộp tốn O(lg u) nhưng chỉ xảy ra sau Ω(lg u) lần chèn/xoá vào nhóm đó kể từ lần tái cấu trúc trước, nên khấu hao O(1) mỗi thao tác (phương pháp kế toán, Mục 17.2).
+
+  Khi chèn hoặc xoá thông thường, đại diện không cần thay đổi: x được chèn vào đúng nhóm có đại diện nhỏ nhất ≥ x, nên điều kiện "đại diện ≥ max của nhóm và < min của nhóm sau" vẫn đúng (đại diện nhóm cuối là u − 1 nên mọi x đều có nhóm). Các thao tác khác vẫn O(lg lg u) vì cây mỗi nhóm có O(lg u) phần tử, chiều cao O(lg lg u), và số nhóm vẫn O(n/lg u) nên bộ nhớ O(n).
 
 ### Ghi chú chương (Chapter notes, trang 559–560)
 
@@ -1360,7 +1394,7 @@ Trong lý thuyết, cấu trúc fusion tree của Fredman và Willard và các k
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 20 trên một trang: sáu nhánh lớn đi theo trình tự của chương gốc (phần mở đầu về giới hạn của so sánh, Mục 20.1 ba cách tiếp cận sơ bộ, Mục 20.2 cấu trúc proto-vEB, Mục 20.3 cây van Emde Boas, các bài toán cuối chương và ghi chú chương), mỗi nhánh ghi cấu trúc, thủ tục, truy hồi và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 20 trên một trang: sáu nhánh lớn đi theo trình tự của chương gốc (phần mở đầu về giới hạn của so sánh, Mục 20.1 ba cách tiếp cận sơ bộ, Mục 20.2 cấu trúc proto-vEB, Mục 20.3 cây van Emde Boas, các bài tập, bài toán cuối chương và ghi chú chương), mỗi nhánh ghi cấu trúc, thủ tục, truy hồi, ví dụ và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1371,81 +1405,99 @@ flowchart LR
   n0["`Chương 20: khoá nguyên khác nhau trong {0, …, u − 1} cho mọi thao tác tập động O(lg lg u) nhờ cấu trúc đệ quy chỉ gọi đệ quy một lần`"]
   n1["`Phần mở đầu chương — vì sao vượt được O(lg n)`"]
   n0 --- n1
-  n2["`Cấu trúc dựa trên so sánh luôn có một thao tác Ω(lg n), nếu không sẽ sắp xếp được trong o(n lg n)`"]
+  n2["`Đống nhị phân, cây đỏ-đen, đống Fibonacci đều có ít nhất một thao tác O(lg n)`"]
   n1 --- n2
-  n3["`Chương 8 vượt cận sắp xếp bằng sắp xếp đếm, chương này làm nước đi tương tự cho hàng đợi ưu tiên`"]
+  n3["`Cấu trúc dựa trên so sánh buộc phải vậy: INSERT và EXTRACT-MIN cùng o(lg n) sẽ sắp xếp được trong o(n lg n)`"]
   n1 --- n3
-  n4["`Khoá là số nguyên không trùng trong vũ trụ cỡ u = 2^k, bỏ qua dữ liệu vệ tinh`"]
+  n4["`Chương 8 vượt cận sắp xếp bằng sắp xếp đếm, chương này làm nước đi tương tự cho hàng đợi ưu tiên`"]
   n1 --- n4
-  n5["`Mọi cận viết theo u, còn n chỉ là số phần tử đang có trong tập`"]
+  n5["`Khoá là số nguyên không trùng trong vũ trụ cỡ u = 2^k, bỏ dữ liệu vệ tinh, dùng MEMBER thay SEARCH`"]
   n1 --- n5
-  n6["`Mục 20.1 — Ba cách tiếp cận sơ bộ`"]
-  n0 --- n6
-  n7["`Vectơ bit địa chỉ trực tiếp: MEMBER, INSERT, DELETE O(1) nhưng MINIMUM, SUCCESSOR Θ(u)`"]
-  n6 --- n7
-  n8["`Cây nhị phân các bit, mỗi nút trong là OR của hai con: mọi thao tác O(lg u)`"]
-  n6 --- n8
-  n9["`Cây bậc √u chiều cao 2 với mảng summary: INSERT O(1), các thao tác khác O(√u)`"]
-  n6 --- n9
-  n10["`Cây bậc √u thoạt nhìn là đi lùi nhưng là ý tưởng then chốt, bước tiếp theo là làm nó đệ quy`"]
-  n6 --- n10
-  n11["`Mục 20.2 — Cấu trúc đệ quy proto-vEB`"]
-  n0 --- n11
-  n12["`Truy hồi đích T(u) = T(√u) + O(1), đổi biến m = lg u cho nghiệm O(lg lg u)`"]
-  n11 --- n12
-  n13["`high(x) là nửa bit cao chọn cụm, low(x) là nửa bit thấp, index(x, y) ghép lại`"]
-  n11 --- n13
-  n14["`proto-vEB(u) gồm summary cỡ √u và √u cụm cỡ √u, đáy u = 2 là mảng hai bit`"]
-  n11 --- n14
-  n15["`PROTO-VEB-MEMBER đạt O(lg lg u) vì chỉ gọi đệ quy một lần`"]
-  n11 --- n15
-  n16["`MINIMUM và INSERT gọi đệ quy hai lần nên T(u) = 2T(√u) + O(1) = Θ(lg u)`"]
-  n11 --- n16
-  n17["`SUCCESSOR tốn Θ(lg u lg lg u), DELETE khó vì không biết khi nào đặt bit summary về 0`"]
-  n11 --- n17
-  n18["`Mục 20.3 — Cây van Emde Boas đạt O(lg lg u)`"]
-  n0 --- n18
-  n19["`u chỉ cần là luỹ thừa của 2: có ↑√u cụm, mỗi cụm là vEB(↓√u), summary là vEB(↑√u)`"]
-  n18 --- n19
-  n20["`Mỗi cây lưu thêm min và max, phần tử min không được lưu trong cụm nào`"]
-  n18 --- n20
-  n21["`MINIMUM, MAXIMUM trả lời O(1), SUCCESSOR so low(x) với max của cụm để chỉ đi một nhánh`"]
-  n18 --- n21
-  n22["`Chèn vào cây rỗng và xoá khỏi cây một phần tử chỉ sửa min, max trong O(1)`"]
-  n18 --- n22
-  n23["`VEB-TREE-INSERT vào cụm rỗng: lời gọi vào summary là đệ quy thật, chèn vào cụm chỉ O(1)`"]
-  n18 --- n23
-  n24["`VEB-TREE-DELETE có hai lời gọi, nhưng khi phải xoá khỏi summary thì cụm chỉ có một phần tử nên O(1)`"]
-  n18 --- n24
-  n25["`Mọi thao tác thoả T(u) ≤ T(↑√u) + O(1) = O(lg lg u) xấu nhất`"]
-  n18 --- n25
-  n26["`Cái giá: bộ nhớ Θ(u) và tạo cây rỗng tốn Θ(u), cây đỏ-đen rỗng chỉ tốn O(1)`"]
-  n18 --- n26
-  n27["`Bài toán 20-1, 20-2 và ghi chú chương — giảm bộ nhớ`"]
-  n0 --- n27
-  n28["`Problem 20-1: bộ nhớ P(u) = (√u + 1)P(√u) + Θ(√u) = O(u)`"]
-  n27 --- n28
-  n29["`Cây RS-vEB thay mảng cluster bằng bảng băm động, tạo cây rỗng O(1), thao tác O(lg lg u) kỳ vọng`"]
-  n27 --- n29
-  n30["`Người tổng hợp thấy cận O(n) bộ nhớ ở Problem 20-1(f) cần xem lại, chứng minh trực tiếp chỉ cho O(n lg lg u)`"]
-  n27 --- n30
-  n31["`Problem 20-2: y-fast trie của Willard dùng bảng băm tiền tố và nhóm lg u phần tử, bộ nhớ O(n)`"]
-  n27 --- n31
-  n32["`van Emde Boas đề xuất năm 1975, Pătraşcu và Thorup chứng minh vEB tối ưu cho bài toán tìm phần tử liền trước`"]
-  n27 --- n32
-  n33["`Thông điệp xuyên suốt`"]
-  n0 --- n33
-  n34["`Dùng chính các bit của khoá làm chỉ số mảng để vượt giới hạn của phép so sánh`"]
-  n33 --- n34
-  n35["`Thiết kế ngược từ truy hồi: viết truy hồi đích trước rồi xây cấu trúc khớp với nó`"]
-  n33 --- n35
-  n36["`Nhớ thêm min và max ở mỗi nút để bớt một lời gọi đệ quy, đổi Θ(lg u) thành O(lg lg u)`"]
-  n33 --- n36
-  n37["`O(lg lg u) dựa trên mô hình word RAM, thực tế bitmap 64 nhánh ít tầng thường nhanh hơn`"]
-  n33 --- n37
+  n6["`Ví dụ u = 2³²: lg lg u = 5, so với lg n ≈ 20 khi n = 10⁶`"]
+  n1 --- n6
+  n7["`Mục 20.1 — Ba cách tiếp cận sơ bộ`"]
+  n0 --- n7
+  n8["`Vectơ bit địa chỉ trực tiếp: MEMBER, INSERT, DELETE O(1) nhưng MINIMUM, SUCCESSOR Θ(u)`"]
+  n7 --- n8
+  n9["`Cây nhị phân các bit, mỗi nút trong là OR của hai con: mọi thao tác O(lg u)`"]
+  n7 --- n9
+  n10["`Ví dụ xuyên suốt: tập {2, 3, 4, 5, 7, 14, 15} với u = 16, phần tử liền trước 14 là 7`"]
+  n7 --- n10
+  n11["`Cây bậc √u chiều cao 2 với mảng summary: INSERT O(1), các thao tác khác O(√u)`"]
+  n7 --- n11
+  n12["`Cây bậc √u thoạt nhìn là đi lùi nhưng là ý tưởng then chốt, bước tiếp theo là làm nó đệ quy`"]
+  n7 --- n12
+  n13["`Mục 20.2 — Cấu trúc đệ quy proto-vEB`"]
+  n0 --- n13
+  n14["`Truy hồi đích T(u) = T(√u) + O(1), đổi biến m = lg u cho S(m) = S(m/2) + O(1) = O(lg lg u)`"]
+  n13 --- n14
+  n15["`Trực giác: mỗi tầng số bit của vũ trụ giảm một nửa, u = 65536 xuống 256, 16, 4, 2`"]
+  n13 --- n15
+  n16["`high(x) là nửa bit cao chọn cụm, low(x) là nửa bit thấp, index(x, y) ghép lại`"]
+  n13 --- n16
+  n17["`proto-vEB(u) gồm summary và √u cụm, mỗi cái là proto-vEB(√u), đáy u = 2 là mảng hai bit`"]
+  n13 --- n17
+  n18["`PROTO-VEB-MEMBER đạt O(lg lg u) vì chỉ gọi đệ quy một lần, ví dụ MEMBER(V, 6) trả 0`"]
+  n13 --- n18
+  n19["`PROTO-VEB-MINIMUM và INSERT gọi đệ quy hai lần: T(u) = 2T(√u) + O(1) = Θ(lg u), với u = 16 tốn 7 lời gọi`"]
+  n13 --- n19
+  n20["`PROTO-VEB-SUCCESSOR tốn Θ(lg u lg lg u), DELETE khó vì không biết khi nào đặt bit summary về 0`"]
+  n13 --- n20
+  n21["`Mục 20.3 — Cây van Emde Boas đạt O(lg lg u)`"]
+  n0 --- n21
+  n22["`u chỉ cần là luỹ thừa của 2: ↑√u cụm, mỗi cụm là vEB(↓√u), summary là vEB(↑√u)`"]
+  n21 --- n22
+  n23["`Mỗi cây lưu thêm min và max, phần tử min không được lưu trong cụm nào, max thì có`"]
+  n21 --- n23
+  n24["`Ví dụ vEB(16) cho cùng tập: min = 2 không nằm trong cụm 0, cụm 0 chỉ chứa 3`"]
+  n21 --- n24
+  n25["`MINIMUM, MAXIMUM trả lời O(1), VEB-TREE-MEMBER kiểm tra min, max trước khi vào cụm`"]
+  n21 --- n25
+  n26["`VEB-TREE-SUCCESSOR so low(x) với max của cụm để chỉ đệ quy vào cụm hoặc vào summary`"]
+  n21 --- n26
+  n27["`VEB-TREE-PREDECESSOR có thêm trường hợp phần tử liền trước chính là V.min nằm ngoài mọi cụm`"]
+  n21 --- n27
+  n28["`VEB-TREE-INSERT: x #lt; V.min thì đổi chỗ, cụm rỗng thì đệ quy vào summary và chèn vào cụm trong O(1)`"]
+  n21 --- n28
+  n29["`VEB-TREE-DELETE có hai lời gọi, nhưng khi phải xoá khỏi summary thì cụm chỉ có một phần tử nên O(1)`"]
+  n21 --- n29
+  n30["`Mọi thao tác thoả T(u) ≤ T(↑√u) + O(1) = O(lg lg u) xấu nhất, dùng ⌈m/2⌉ ≤ 2m/3`"]
+  n21 --- n30
+  n31["`Cái giá: bộ nhớ Θ(u) và tạo cây rỗng tốn Θ(u), cây đỏ-đen rỗng chỉ tốn O(1)`"]
+  n21 --- n31
+  n32["`Bài tập, Bài toán 20-1, 20-2 và ghi chú chương`"]
+  n0 --- n32
+  n33["`Exercise 20.3-4: chèn phần tử đã có hoặc xoá phần tử vắng mặt làm hỏng cây, sửa bằng vectơ bit present`"]
+  n32 --- n33
+  n34["`Exercise 20.3-6: cần n = Ω(u / lg lg u) thao tác để khấu hao chi phí tạo cây về O(lg lg u)`"]
+  n32 --- n34
+  n35["`Problem 20-1: bộ nhớ P(u) = (√u + 1)P(√u) + Θ(√u) = O(u)`"]
+  n32 --- n35
+  n36["`Cây RS-vEB thay mảng cluster bằng bảng băm động, tạo cây rỗng O(1), thao tác O(lg lg u) kỳ vọng`"]
+  n32 --- n36
+  n37["`Người tổng hợp thấy cận O(n) bộ nhớ ở Problem 20-1(f) cần xem lại, chứng minh trực tiếp chỉ cho O(n lg lg u)`"]
+  n32 --- n37
+  n38["`Problem 20-2: bảng băm mọi tiền tố nhị phân tốn O(n lg u), tìm nhị phân trên độ dài tiền tố cho O(lg lg u)`"]
+  n32 --- n38
+  n39["`y-fast trie của Willard: nhóm lg u phần tử trong cây cân bằng, bảng băm chỉ lưu đại diện, bộ nhớ O(n)`"]
+  n32 --- n39
+  n40["`y-fast trie: truy vấn O(lg lg u) xấu nhất, INSERT, DELETE O(lg lg u) khấu hao khi nới cỡ nhóm`"]
+  n32 --- n40
+  n41["`van Emde Boas đề xuất năm 1975, Pătraşcu và Thorup chứng minh vEB tối ưu cho bài toán tìm phần tử liền trước`"]
+  n32 --- n41
+  n42["`Thông điệp xuyên suốt`"]
+  n0 --- n42
+  n43["`Dùng chính các bit của khoá làm chỉ số mảng để vượt giới hạn của phép so sánh`"]
+  n42 --- n43
+  n44["`Thiết kế ngược từ truy hồi: viết truy hồi đích trước rồi xây cấu trúc khớp với nó`"]
+  n42 --- n44
+  n45["`Nhớ thêm min và max ở mỗi nút để bớt một lời gọi đệ quy, đổi Θ(lg u) thành O(lg lg u)`"]
+  n42 --- n45
+  n46["`O(lg lg u) dựa trên mô hình word RAM, thực tế bitmap 64 nhánh ít tầng thường nhanh hơn`"]
+  n42 --- n46
   class n0 root
-  class n1,n6,n11,n18,n27,n33 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35,n36,n37 leaf
+  class n1,n7,n13,n21,n32,n42 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46 leaf
 ```
 
 ## Nguồn
@@ -1471,6 +1523,8 @@ Chương 20 là chương cuối của Phần V; Phần V được giới thiệu
 - **Một chi tiết cấu trúc pseudocode lớp chữ làm mất:** ở VEB-TREE-INSERT dòng 3 và VEB-TREE-DELETE dòng 9, sách viết "**else if**" (hai từ, thụt lề khác) chứ không phải "**elseif**" (một từ). Nghĩa là: "else" mở một khối gồm mọi dòng phía sau, và "if x < V.min" (hoặc "if x == V.min") chỉ là câu if đầu tiên trong khối đó. Do vậy dòng 5–11 của INSERT và dòng 13–22 của DELETE luôn được thực hiện khi cây khác rỗng (hoặc có từ hai phần tử, u ≥ 4), không phụ thuộc kết quả phép so sánh với min. Bản tổng hợp chép pseudocode theo đúng thụt lề trong ảnh trang 553, 554.
 - **Một chỗ ghi số dòng lệch (nhận xét của người tổng hợp):** ở phân tích VEB-TREE-SUCCESSOR (trang 551) sách viết "Depending on the result of the test in line 7", nhưng dòng 7 chỉ gán max-low; phép kiểm tra quyết định đi vào cụm hay vào summary nằm ở dòng 8. Không ảnh hưởng nội dung.
 - **Lỗi chính tả nhỏ trong sách:** trang 536 "another stucture of size √u" (đúng là "structure"); trang 549 "the minumum element" (đúng là "minimum").
-- **Chỗ cần đọc kỹ (nhận xét của người tổng hợp):** (1) Ở phần mở đầu, sách nói khoá là số nguyên "trong khoảng 0 tới n − 1", rồi ngay trang sau đổi sang dùng u cho kích thước vũ trụ và n cho số phần tử; mọi cận sau đó viết theo u. (2) Problem 20-1(f) yêu cầu chứng minh cây RS-vEB (dùng bảng băm) chiếm O(n) bộ nhớ khi không có phép xoá. Người tổng hợp tự kiểm tra và thấy với cấu trúc đúng như đề mô tả, cận chứng minh được một cách trực tiếp là O(n lg lg u), và có tập phần tử làm số cây con vượt quá O(n) khi u rất lớn so với n (ví dụ cụ thể ở phần Bài tập). Người tổng hợp không tra danh sách lỗi chính thức (errata) nên không khẳng định đây là lỗi đã được ghi nhận; có thể ý đề là "O(n)" với giả định ngầm nào đó.
+- **Chỗ cần đọc kỹ (nhận xét của người tổng hợp):** (1) Ở phần mở đầu, sách nói khoá là số nguyên "trong khoảng 0 tới n − 1", rồi ngay trang sau đổi sang dùng u cho kích thước vũ trụ và n cho số phần tử; mọi cận sau đó viết theo u.
+
+  (2) Problem 20-1(f) yêu cầu chứng minh cây RS-vEB (dùng bảng băm) chiếm O(n) bộ nhớ khi không có phép xoá. Người tổng hợp tự kiểm tra và thấy với cấu trúc đúng như đề mô tả, cận chứng minh được một cách trực tiếp là O(n lg lg u), và có tập phần tử làm số cây con vượt quá O(n) khi u rất lớn so với n (ví dụ cụ thể ở phần Bài tập). Người tổng hợp không tra danh sách lỗi chính thức (errata) nên không khẳng định đây là lỗi đã được ghi nhận; có thể ý đề là "O(n)" với giả định ngầm nào đó.
 - **Ví dụ chạy tay đã tự kiểm tra:** cây bit Hình 20.1 và đường đi tìm phần tử liền trước của 14 (ra 7); toàn bộ bit trong Hình 20.4 (proto-vEB(16) cho tập {2, 3, 4, 5, 7, 14, 15}); toàn bộ min/max trong Hình 20.6 (vEB(16) cho cùng tập); ví dụ PROTO-VEB-MEMBER(V, 6) trả về 0 của sách. Người tổng hợp tự chạy thêm PROTO-VEB-MINIMUM, PROTO-VEB-SUCCESSOR(V, 7), VEB-TREE-SUCCESSOR(V, 7) và (V, 4), VEB-TREE-INSERT(V, 1), VEB-TREE-DELETE(V, 2) và (V, 15) trên các cây của hình; tất cả cho kết quả khớp với tập được biểu diễn.
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** ấn bản 4 đưa chương cây van Emde Boas (cùng chương đống Fibonacci) ra khỏi bản in, chỉ để ở dạng tài liệu trực tuyến trên trang của nhà xuất bản. Người tổng hợp không nhớ chắc nội dung bản trực tuyến khác bản 2009 ở điểm nào nên không liệt kê.

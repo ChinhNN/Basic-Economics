@@ -223,9 +223,17 @@ Các bài toán cuối chương bàn về cây khung nhỏ thứ hai, bước ti
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao một chiến lược tham lam lại luôn tìm được cây khung nhỏ nhất?** Vì có một quy tắc nhận diện cạnh an toàn (Định lý 23.1): nếu tập cạnh A đang nằm trong một cây khung nhỏ nhất, lấy bất kỳ lát cắt (S, V − S) nào mà không cạnh nào của A đi qua, thì cạnh nhẹ nhất đi qua lát cắt đó có thể thêm vào A mà A vẫn nằm trong một cây khung nhỏ nhất. Chứng minh bằng cắt và dán: nếu cây khung nhỏ nhất T không chứa cạnh nhẹ (u, v), đường đi từ u tới v trong T phải đi qua lát cắt ở một cạnh (x, y) nào đó với w(x, y) ≥ w(u, v); đổi (x, y) lấy (u, v) được cây T′ không nặng hơn, nên T′ cũng nhỏ nhất và chứa A ∪ {(u, v)}. Trên đồ thị ví dụ với A = ∅ và S = {a, b, d, e}, cạnh (d, c) nặng 7 là cạnh nhẹ nhất trong sáu cạnh đi qua lát cắt (8, 11, 8, 7, 14, 10) và nó đúng là có mặt trong cây khung nhỏ nhất nặng 37.
+1. **Vì sao một chiến lược tham lam lại luôn tìm được cây khung nhỏ nhất?** Vì có một quy tắc nhận diện cạnh an toàn (Định lý 23.1): nếu tập cạnh A đang nằm trong một cây khung nhỏ nhất, lấy bất kỳ lát cắt (S, V − S) nào mà không cạnh nào của A đi qua, thì cạnh nhẹ nhất đi qua lát cắt đó có thể thêm vào A mà A vẫn nằm trong một cây khung nhỏ nhất.
+
+   Chứng minh bằng cắt và dán: nếu cây khung nhỏ nhất T không chứa cạnh nhẹ (u, v), đường đi từ u tới v trong T phải đi qua lát cắt ở một cạnh (x, y) nào đó với w(x, y) ≥ w(u, v); đổi (x, y) lấy (u, v) được cây T′ không nặng hơn, nên T′ cũng nhỏ nhất và chứa A ∪ {(u, v)}.
+
+   Trên đồ thị ví dụ với A = ∅ và S = {a, b, d, e}, cạnh (d, c) nặng 7 là cạnh nhẹ nhất trong sáu cạnh đi qua lát cắt (8, 11, 8, 7, 14, 10) và nó đúng là có mặt trong cây khung nhỏ nhất nặng 37.
 2. **Thuật toán Kruskal hoạt động thế nào và tốn bao nhiêu thời gian?** Kruskal sắp xếp mọi cạnh theo trọng số không giảm, bắt đầu với |V| cây một đỉnh, rồi duyệt cạnh từ nhẹ tới nặng: cạnh nào nối hai cây khác nhau (FIND-SET(u) ≠ FIND-SET(v)) thì thêm vào và gộp hai cây bằng UNION; cạnh nào nối hai đỉnh cùng cây thì bỏ vì sẽ tạo chu trình. Với rừng tập rời nhau dùng hợp theo hạng và nén đường đi, phần tập rời nhau tốn O((V + E) α(V)), phần sắp xếp tốn O(E lg E), tổng O(E lg E) = O(E lg V) (vì |E| < |V|² nên lg |E| < 2 lg |V|). Trên đồ thị ví dụ, Kruskal thêm 8 cạnh nặng 1, 2, 2, 4, 4, 7, 8, 9 (tổng 37) và loại 6 cạnh nặng 6, 7, 8, 10, 11, 14.
-3. **Thuật toán Prim hoạt động thế nào, và vì sao đống Fibonacci làm nó nhanh hơn?** Prim mọc một cây duy nhất từ gốc r. Mọi đỉnh chưa vào cây nằm trong hàng đợi ưu tiên min Q theo khoá v.key — trọng số cạnh nhẹ nhất nối v với cây hiện tại. Mỗi vòng, EXTRACT-MIN lấy ra đỉnh u có khoá nhỏ nhất (thêm cạnh (u, u.π) vào cây), rồi với mỗi đỉnh v kề u còn trong Q mà w(u, v) < v.key thì đặt v.π = u và giảm v.key xuống w(u, v). Có |V| lần EXTRACT-MIN và O(E) lần giảm khoá. Với đống nhị phân mỗi thao tác O(lg V), tổng O(V lg V + E lg V) = O(E lg V); với đống Fibonacci, EXTRACT-MIN tốn O(lg V) khấu hao còn DECREASE-KEY chỉ O(1) khấu hao, tổng O(E + V lg V). Trên đồ thị ví dụ với gốc a, các đỉnh vào cây theo thứ tự a, b, c, i, f, g, h, d, e, tổng trọng số 37. Với đồ thị dày |E| = Θ(V²), V = 1.000: đống nhị phân cỡ E lg V ≈ 10⁶ · 10 = 10⁷ bước cơ bản, đống Fibonacci cỡ E + V lg V ≈ 10⁶ + 10⁴ — nhanh hơn khoảng 10 lần (bỏ qua hằng số).
+3. **Thuật toán Prim hoạt động thế nào, và vì sao đống Fibonacci làm nó nhanh hơn?** Prim mọc một cây duy nhất từ gốc r. Mọi đỉnh chưa vào cây nằm trong hàng đợi ưu tiên min Q theo khoá v.key — trọng số cạnh nhẹ nhất nối v với cây hiện tại. Mỗi vòng, EXTRACT-MIN lấy ra đỉnh u có khoá nhỏ nhất (thêm cạnh (u, u.π) vào cây), rồi với mỗi đỉnh v kề u còn trong Q mà w(u, v) < v.key thì đặt v.π = u và giảm v.key xuống w(u, v).
+
+   Có |V| lần EXTRACT-MIN và O(E) lần giảm khoá. Với đống nhị phân mỗi thao tác O(lg V), tổng O(V lg V + E lg V) = O(E lg V); với đống Fibonacci, EXTRACT-MIN tốn O(lg V) khấu hao còn DECREASE-KEY chỉ O(1) khấu hao, tổng O(E + V lg V).
+
+   Trên đồ thị ví dụ với gốc a, các đỉnh vào cây theo thứ tự a, b, c, i, f, g, h, d, e, tổng trọng số 37. Với đồ thị dày |E| = Θ(V²), V = 1.000: đống nhị phân cỡ E lg V ≈ 10⁶ · 10 = 10⁷ bước cơ bản, đống Fibonacci cỡ E + V lg V ≈ 10⁶ + 10⁴ — nhanh hơn khoảng 10 lần (bỏ qua hằng số).
 
 ## Khái niệm cần biết
 
@@ -625,10 +633,20 @@ Thư viện đồ thị phổ biến thường cài cả hai: Kruskal tiện khi
 - **23.1-2:** Giáo sư Sabatier phỏng đoán mệnh đề đảo của Định lý 23.1: với A nằm trong một cây khung nhỏ nhất, lát cắt (S, V − S) tôn trọng A, và (u, v) là một cạnh **an toàn** với A đi qua lát cắt, thì (u, v) là cạnh nhẹ của lát cắt. Chỉ ra phỏng đoán sai bằng phản ví dụ. *Lời giải của người tổng hợp:* đồ thị ba đỉnh a, b, c với ab 1, ac 2, bc 3. Cây khung nhỏ nhất duy nhất là {ab, ac}, nặng 3. Lấy A = ∅, lát cắt ({a}, {b, c}). Cạnh ac nặng 2 an toàn với ∅ (thuộc cây khung nhỏ nhất) và đi qua lát cắt, nhưng cạnh nhẹ của lát cắt là ab nặng 1.
 - **23.1-3:** Chứng minh nếu cạnh (u, v) nằm trong một cây khung nhỏ nhất thì nó là cạnh nhẹ đi qua một lát cắt nào đó của đồ thị. *Lời giải:* gọi T là cây khung nhỏ nhất chứa (u, v). Bỏ (u, v) khỏi T tách T thành hai cây với tập đỉnh S (chứa u) và V − S (chứa v). Nếu có cạnh (x, y) đi qua lát cắt này với w(x, y) < w(u, v), thì T − {(u, v)} ∪ {(x, y)} là cây khung nhẹ hơn T — mâu thuẫn. Vậy (u, v) là cạnh nhẹ của lát cắt (S, V − S).
 - **23.1-4:** Cho một ví dụ đơn giản về đồ thị liên thông sao cho tập {(u, v) : tồn tại lát cắt (S, V − S) mà (u, v) là cạnh nhẹ đi qua (S, V − S)} không tạo thành cây khung nhỏ nhất. *Lời giải:* tam giác ba cạnh cùng nặng 1. Mỗi cạnh là cạnh nhẹ (hoà) của lát cắt tách một đầu mút của nó ra; tập hợp gồm cả ba cạnh, tạo chu trình, không phải cây.
-- **23.1-5:** Cho e là cạnh nặng nhất trên một chu trình nào đó của đồ thị liên thông G = (V, E). Chứng minh có một cây khung nhỏ nhất của G′ = (V, E − {e}) cũng là cây khung nhỏ nhất của G; tức là G có một cây khung nhỏ nhất không chứa e. *Lời giải:* lấy T là cây khung nhỏ nhất của G. Nếu e ∉ T thì xong. Nếu e = (u, v) ∈ T, bỏ e tách T thành hai phần; chu trình chứa e còn phải đi qua lát cắt này ở ít nhất một cạnh khác e′, với w(e′) ≤ w(e) vì e nặng nhất trên chu trình. T′ = T − {e} ∪ {e′} là cây khung, w(T′) ≤ w(T), nên T′ nhỏ nhất và không chứa e. Vì mọi cây khung của G′ cũng là cây khung của G, T′ là cây khung nhỏ nhất của G′. Tính chất này thường gọi là "tính chất chu trình" (cycle property).
-- **23.1-6:** Chứng minh nếu với mọi lát cắt của đồ thị đều có duy nhất một cạnh nhẹ đi qua, thì đồ thị có duy nhất một cây khung nhỏ nhất. Chỉ ra mệnh đề đảo sai bằng phản ví dụ. *Lời giải:* giả sử có hai cây khung nhỏ nhất khác nhau T và T′. Lấy cạnh e = (u, v) ∈ T − T′. Bỏ e khỏi T cho lát cắt (S, V − S). Theo Bài tập 23.1-3, e là cạnh nhẹ của lát cắt này, và theo giả thiết là cạnh nhẹ duy nhất, nên mọi cạnh khác đi qua lát cắt nặng hơn hẳn e. Đường đi từ u tới v trong T′ đi qua lát cắt ở một cạnh e″ ≠ e (vì e ∉ T′), w(e″) > w(e). Khi đó T′ − {e″} ∪ {e} là cây khung nhẹ hơn T′ — mâu thuẫn. Phản ví dụ cho mệnh đề đảo: đồ thị chỉ có hai cạnh ab 1, bc 1 (bản thân là một cây, nên cây khung nhỏ nhất duy nhất), nhưng lát cắt ({b}, {a, c}) có hai cạnh nhẹ.
+- **23.1-5:** Cho e là cạnh nặng nhất trên một chu trình nào đó của đồ thị liên thông G = (V, E). Chứng minh có một cây khung nhỏ nhất của G′ = (V, E − {e}) cũng là cây khung nhỏ nhất của G; tức là G có một cây khung nhỏ nhất không chứa e.
+
+  *Lời giải:* lấy T là cây khung nhỏ nhất của G. Nếu e ∉ T thì xong. Nếu e = (u, v) ∈ T, bỏ e tách T thành hai phần; chu trình chứa e còn phải đi qua lát cắt này ở ít nhất một cạnh khác e′, với w(e′) ≤ w(e) vì e nặng nhất trên chu trình. T′ = T − {e} ∪ {e′} là cây khung, w(T′) ≤ w(T), nên T′ nhỏ nhất và không chứa e. Vì mọi cây khung của G′ cũng là cây khung của G, T′ là cây khung nhỏ nhất của G′. Tính chất này thường gọi là "tính chất chu trình" (cycle property).
+- **23.1-6:** Chứng minh nếu với mọi lát cắt của đồ thị đều có duy nhất một cạnh nhẹ đi qua, thì đồ thị có duy nhất một cây khung nhỏ nhất. Chỉ ra mệnh đề đảo sai bằng phản ví dụ.
+
+  *Lời giải:* giả sử có hai cây khung nhỏ nhất khác nhau T và T′. Lấy cạnh e = (u, v) ∈ T − T′. Bỏ e khỏi T cho lát cắt (S, V − S). Theo Bài tập 23.1-3, e là cạnh nhẹ của lát cắt này, và theo giả thiết là cạnh nhẹ duy nhất, nên mọi cạnh khác đi qua lát cắt nặng hơn hẳn e. Đường đi từ u tới v trong T′ đi qua lát cắt ở một cạnh e″ ≠ e (vì e ∉ T′), w(e″) > w(e). Khi đó T′ − {e″} ∪ {e} là cây khung nhẹ hơn T′ — mâu thuẫn.
+
+  Phản ví dụ cho mệnh đề đảo: đồ thị chỉ có hai cạnh ab 1, bc 1 (bản thân là một cây, nên cây khung nhỏ nhất duy nhất), nhưng lát cắt ({b}, {a, c}) có hai cạnh nhẹ.
 - **23.1-7:** Lập luận rằng nếu mọi trọng số đều dương, thì mọi tập cạnh nối được mọi đỉnh và có tổng trọng số nhỏ nhất phải là một cây. Cho ví dụ chứng tỏ kết luận không còn đúng nếu cho phép trọng số không dương. *Lời giải:* nếu tập cạnh liên thông đó có chu trình, bỏ một cạnh trên chu trình vẫn liên thông và tổng giảm hẳn (trọng số dương) — mâu thuẫn với tính nhỏ nhất; vậy không có chu trình, tức là cây. Ví dụ ngược: tam giác ba cạnh nặng −1: tập cả ba cạnh nặng −3, nhỏ hơn mọi cây khung (−2), và nó không phải cây. (Với trọng số 0, tập có chu trình có thể có cùng tổng nhỏ nhất với cây, nên "mọi tập nhỏ nhất đều là cây" cũng sai.)
-- **23.1-8:** Cho T là cây khung nhỏ nhất của G và L là danh sách đã sắp xếp các trọng số cạnh của T. Chứng minh với mọi cây khung nhỏ nhất T′ khác của G, L cũng là danh sách đã sắp xếp các trọng số cạnh của T′. *Lời giải của người tổng hợp:* với mỗi ngưỡng x, gọi G_x là đồ thị con gồm mọi cạnh nặng ≤ x, có c(x) thành phần liên thông. Chứng minh mọi cây khung nhỏ nhất có đúng |V| − c(x) cạnh nặng ≤ x: các cạnh đó tạo rừng trong G_x nên không quá |V| − c(x); nếu ít hơn, có hai mảnh của một thành phần của G_x không được nối bởi cạnh ≤ x của cây, lấy một cạnh e ≤ x của G_x nối hai mảnh đó, thêm e vào cây tạo chu trình chứa một cạnh nặng > x, đổi được cây nhẹ hơn — mâu thuẫn. Số cạnh ≤ x đúng bằng nhau với mọi x, nên hai danh sách trọng số trùng nhau. (Cách khác: Kruskal với các cách phá hoà khác nhau, Bài tập 23.2-1.) Ví dụ: hai cây khung nhỏ nhất của đồ thị ví dụ (chứa bc hoặc chứa ah) cùng có danh sách 1, 2, 2, 4, 4, 7, 8, 9.
+- **23.1-8:** Cho T là cây khung nhỏ nhất của G và L là danh sách đã sắp xếp các trọng số cạnh của T. Chứng minh với mọi cây khung nhỏ nhất T′ khác của G, L cũng là danh sách đã sắp xếp các trọng số cạnh của T′.
+
+  *Lời giải của người tổng hợp:* với mỗi ngưỡng x, gọi G_x là đồ thị con gồm mọi cạnh nặng ≤ x, có c(x) thành phần liên thông. Chứng minh mọi cây khung nhỏ nhất có đúng |V| − c(x) cạnh nặng ≤ x: các cạnh đó tạo rừng trong G_x nên không quá |V| − c(x); nếu ít hơn, có hai mảnh của một thành phần của G_x không được nối bởi cạnh ≤ x của cây, lấy một cạnh e ≤ x của G_x nối hai mảnh đó, thêm e vào cây tạo chu trình chứa một cạnh nặng > x, đổi được cây nhẹ hơn — mâu thuẫn.
+
+  Số cạnh ≤ x đúng bằng nhau với mọi x, nên hai danh sách trọng số trùng nhau. (Cách khác: Kruskal với các cách phá hoà khác nhau, Bài tập 23.2-1.) Ví dụ: hai cây khung nhỏ nhất của đồ thị ví dụ (chứa bc hoặc chứa ah) cùng có danh sách 1, 2, 2, 4, 4, 7, 8, 9.
 - **23.1-9:** Cho T là cây khung nhỏ nhất của G = (V, E), V′ ⊆ V. Gọi T′ là đồ thị con của T cảm sinh bởi V′, G′ là đồ thị con của G cảm sinh bởi V′. Chứng minh nếu T′ liên thông thì T′ là cây khung nhỏ nhất của G′. *Lời giải:* T′ liên thông và không chu trình nên là cây khung của G′. Nếu G′ có cây khung T″ nhẹ hơn T′, thì (T − T′) ∪ T″ vẫn là cây khung của G (thay một cây con liên thông trên V′ bằng một cây khác trên cùng V′ không làm mất liên thông, số cạnh giữ nguyên |V| − 1) và nhẹ hơn T — mâu thuẫn.
 - **23.1-10:** Cho G và cây khung nhỏ nhất T; giảm trọng số của một cạnh **trong** T. Chứng minh T vẫn là cây khung nhỏ nhất. Hình thức: chọn (x, y) ∈ T và số dương k, định nghĩa
 
@@ -641,7 +659,9 @@ Thư viện đồ thị phổ biến thường cài cả hai: Kruskal tiện khi
 
 ### Bài tập Mục 23.2 (trang 637–638)
 
-- **23.2-1:** Kruskal có thể trả về các cây khung khác nhau cho cùng một đồ thị tuỳ cách phá hoà khi sắp xếp. Chứng minh với mỗi cây khung nhỏ nhất T của G, có một cách sắp xếp cạnh làm Kruskal trả về đúng T. *Lời giải:* sắp xếp theo trọng số, và trong các cạnh cùng trọng số, đặt các cạnh của T trước. Chứng minh bằng quy nạp rằng sau khi xử lý mọi cạnh nặng ≤ x, rừng của Kruskal bằng tập cạnh của T nặng ≤ x: cạnh của T không bao giờ tạo chu trình với các cạnh T đã có; cạnh không thuộc T cùng trọng số x, xét sau các cạnh T nặng x, nếu nối hai cây khác nhau thì (theo lập luận đếm của Bài tập 23.1-8) T sẽ có ít cạnh ≤ x hơn mức cần — mâu thuẫn. Ví dụ: trên đồ thị ví dụ, đặt (b, c) trước (a, h) thì Kruskal trả về cây chứa (b, c).
+- **23.2-1:** Kruskal có thể trả về các cây khung khác nhau cho cùng một đồ thị tuỳ cách phá hoà khi sắp xếp. Chứng minh với mỗi cây khung nhỏ nhất T của G, có một cách sắp xếp cạnh làm Kruskal trả về đúng T.
+
+  *Lời giải:* sắp xếp theo trọng số, và trong các cạnh cùng trọng số, đặt các cạnh của T trước. Chứng minh bằng quy nạp rằng sau khi xử lý mọi cạnh nặng ≤ x, rừng của Kruskal bằng tập cạnh của T nặng ≤ x: cạnh của T không bao giờ tạo chu trình với các cạnh T đã có; cạnh không thuộc T cùng trọng số x, xét sau các cạnh T nặng x, nếu nối hai cây khác nhau thì (theo lập luận đếm của Bài tập 23.1-8) T sẽ có ít cạnh ≤ x hơn mức cần — mâu thuẫn. Ví dụ: trên đồ thị ví dụ, đặt (b, c) trước (a, h) thì Kruskal trả về cây chứa (b, c).
 - **23.2-2:** Đồ thị biểu diễn bằng ma trận kề. Cho cài đặt Prim đơn giản chạy O(V²). *Lời giải:* bỏ đống, dùng mảng key[1..V] và mảng bit inTree. Mỗi vòng: quét tuyến tính tìm đỉnh ngoài cây có khoá nhỏ nhất (O(V)), đưa vào cây, rồi quét hàng tương ứng của ma trận để cập nhật khoá (O(V)). |V| vòng, tổng O(V²) — tối ưu với đồ thị dày.
 - **23.2-3:** Với đồ thị thưa |E| = Θ(V), Prim dùng đống Fibonacci có nhanh hơn tiệm cận bản đống nhị phân không? Với đồ thị dày |E| = Θ(V²) thì sao? |E| và |V| phải liên hệ thế nào để bản đống Fibonacci nhanh hơn tiệm cận? *Lời giải:* thưa: O(V lg V) so với O(V lg V) — không nhanh hơn. Dày: O(V²) so với O(V² lg V) — nhanh hơn hệ số lg V. Tổng quát: E lg V so với E + V lg V; bản Fibonacci nhanh hơn tiệm cận khi và chỉ khi |E| = ω(V), tức |E|/|V| → ∞.
 - **23.2-4:** Mọi trọng số là số nguyên từ 1 tới |V|. Có thể làm Kruskal nhanh tới mức nào? Nếu trọng số là số nguyên từ 1 tới W với W là hằng số? *Lời giải:* sắp xếp đếm (counting sort, Chương 8) trong O(V + E) = O(E); phần còn lại O(E α(V)). Tổng O(E α(V)) cho cả hai trường hợp.
@@ -655,7 +675,9 @@ Thư viện đồ thị phổ biến thường cài cả hai: Kruskal tiện khi
 Cho G = (V, E) vô hướng liên thông, hàm trọng số w : E → ℝ, giả sử |E| ≥ |V| và mọi trọng số đôi một khác nhau. Định nghĩa: gọi 𝒯 là tập mọi cây khung của G, T′ là một cây khung nhỏ nhất của G. **Cây khung nhỏ thứ hai** (second-best minimum spanning tree) là cây khung T sao cho w(T) = min_{T″ ∈ 𝒯 − {T′}} {w(T″)}.
 
 - **(a)** Chứng minh cây khung nhỏ nhất là duy nhất, nhưng cây khung nhỏ thứ hai không nhất thiết duy nhất. *Lời giải của người tổng hợp:* trọng số khác nhau ⇒ mỗi lát cắt có duy nhất một cạnh nhẹ ⇒ cây khung nhỏ nhất duy nhất (Bài tập 23.1-6). Phản ví dụ cho cây nhỏ thứ hai: hai tam giác chung đỉnh c — tam giác a, b, c với ab 1, bc 2, ac 4; tam giác c, d, e với cd 3, de 5, ce 7. Cây nhỏ nhất {ab, bc, cd, de} nặng 11. Hai cây {ab, ac, cd, de} và {ab, bc, cd, ce} cùng nặng 13; mọi cây khung khác nặng ít nhất 14. Vậy có hai cây nhỏ thứ hai.
-- **(b)** Cho T là cây khung nhỏ nhất. Chứng minh G có cạnh (u, v) ∈ T và (x, y) ∉ T sao cho T − {(u, v)} ∪ {(x, y)} là cây khung nhỏ thứ hai. *Ý của người tổng hợp:* lấy T₂ là một cây nhỏ thứ hai. Giả sử T₂ khác T ở từ hai cạnh trở lên. Lấy (x, y) ∈ T₂ − T; thêm (x, y) vào T tạo một chu trình, trên đó có cạnh (u, v) ∈ T − T₂ với w(u, v) < w(x, y) (tính chất chu trình cộng trọng số khác nhau). Cây T − {(u, v)} ∪ {(x, y)} khác T, và bằng lập luận đổi cạnh tương tự (đổi một cạnh của T₂ − T lấy cạnh nhẹ hơn của T) có thể chỉ ra nó không nặng hơn T₂. Vậy luôn có một cây nhỏ thứ hai chỉ khác T đúng một cạnh.
+- **(b)** Cho T là cây khung nhỏ nhất. Chứng minh G có cạnh (u, v) ∈ T và (x, y) ∉ T sao cho T − {(u, v)} ∪ {(x, y)} là cây khung nhỏ thứ hai.
+
+  *Ý của người tổng hợp:* lấy T₂ là một cây nhỏ thứ hai. Giả sử T₂ khác T ở từ hai cạnh trở lên. Lấy (x, y) ∈ T₂ − T; thêm (x, y) vào T tạo một chu trình, trên đó có cạnh (u, v) ∈ T − T₂ với w(u, v) < w(x, y) (tính chất chu trình cộng trọng số khác nhau). Cây T − {(u, v)} ∪ {(x, y)} khác T, và bằng lập luận đổi cạnh tương tự (đổi một cạnh của T₂ − T lấy cạnh nhẹ hơn của T) có thể chỉ ra nó không nặng hơn T₂. Vậy luôn có một cây nhỏ thứ hai chỉ khác T đúng một cạnh.
 - **(c)** Cho T là một cây khung, với hai đỉnh u, v gọi max[u, v] là cạnh nặng nhất trên đường đi đơn duy nhất giữa u và v trong T. Mô tả thuật toán O(V²) tính max[u, v] cho mọi u, v. *Lời giải:* từ mỗi đỉnh u, chạy BFS/DFS trên T; khi đi từ x sang con y thì max[u, y] = cạnh nặng hơn giữa max[u, x] và (x, y). Mỗi lần duyệt O(V), |V| lần: O(V²).
 - **(d)** Cho thuật toán hiệu quả tính cây khung nhỏ thứ hai. *Lời giải:* tìm T bằng Prim (O(E + V lg V)); tính bảng max (O(V²)); với mỗi cạnh (x, y) ∉ T, tính w(x, y) − w(max[x, y]); chọn cạnh có hiệu nhỏ nhất, đổi max[x, y] lấy (x, y). Tổng O(V²).
 
@@ -751,7 +773,11 @@ c. MAYBE-MST-C(G, w)
 ```
 
 *Lời giải của người tổng hợp:*
-- **(a) Đúng** ("xoá ngược", reverse-delete). Khi e bị xoá, T − {e} còn liên thông nên e nằm trên một chu trình trong T. Mọi cạnh của T nặng hơn e đã được xét trước và được giữ lại vì là cầu của T lúc đó (bỏ đi thì mất liên thông), nên không cạnh nào trong số đó nằm trên chu trình. Vậy mọi cạnh trên chu trình qua e có trọng số ≤ w(e): e là cạnh nặng nhất trên chu trình, và theo tính chất chu trình (Bài tập 23.1-5) có cây khung nhỏ nhất không chứa e. Cuối cùng T liên thông (không bao giờ xoá cạnh làm mất liên thông) và không chu trình (một chu trình còn sót thì cạnh nặng nhất của nó đã bị xoá khi được xét). Cài đặt: sắp xếp O(E lg E), mỗi kiểm tra liên thông bằng BFS O(V + E): tổng O(E(V + E)). (Có thể nhanh hơn với cấu trúc liên thông động — theo hiểu biết của người tổng hợp.)
+- **(a) Đúng** ("xoá ngược", reverse-delete). Khi e bị xoá, T − {e} còn liên thông nên e nằm trên một chu trình trong T. Mọi cạnh của T nặng hơn e đã được xét trước và được giữ lại vì là cầu của T lúc đó (bỏ đi thì mất liên thông), nên không cạnh nào trong số đó nằm trên chu trình.
+
+  Vậy mọi cạnh trên chu trình qua e có trọng số ≤ w(e): e là cạnh nặng nhất trên chu trình, và theo tính chất chu trình (Bài tập 23.1-5) có cây khung nhỏ nhất không chứa e. Cuối cùng T liên thông (không bao giờ xoá cạnh làm mất liên thông) và không chu trình (một chu trình còn sót thì cạnh nặng nhất của nó đã bị xoá khi được xét).
+
+  Cài đặt: sắp xếp O(E lg E), mỗi kiểm tra liên thông bằng BFS O(V + E): tổng O(E(V + E)). (Có thể nhanh hơn với cấu trúc liên thông động — theo hiểu biết của người tổng hợp.)
 - **(b) Sai.** Nó trả về một cây khung bất kỳ. Phản ví dụ: tam giác ab 1, bc 2, ac 3, duyệt theo thứ tự ac, bc, ab: T = {ac, bc} nặng 5, trong khi tối ưu là 3. Cài đặt: tập rời nhau, O(E α(V)).
 - **(c) Đúng.** Mỗi cạnh bị loại là cạnh nặng nhất trên một chu trình của đồ thị gồm các cạnh đã xét, nên theo tính chất chu trình không cần cho cây khung nhỏ nhất; cuối cùng T liên thông (không bao giờ bỏ cạnh làm mất liên thông, vì cạnh bị bỏ nằm trên chu trình) và không chu trình. Cài đặt: T luôn là rừng; khi thêm e = (u, v), nếu u, v đã liên thông trong T thì tìm đường u–v bằng DFS O(V) và bỏ cạnh nặng nhất: O(VE). Dùng cây link-cut có thể đạt O(E lg V) — theo hiểu biết của người tổng hợp.
 
@@ -908,7 +934,7 @@ Theo hiểu biết của người tổng hợp: thư viện đồ thị (Boost G
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 23 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (phần mở đầu với bài toán đi dây và đồ thị ví dụ, Mục 23.1 phương pháp tổng quát và định lý cạnh an toàn, Mục 23.2 hai thuật toán Kruskal và Prim, các bài toán cuối chương, ghi chú chương), mỗi nhánh ghi định nghĩa, định lý, thuật toán và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 23 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (phần mở đầu với bài toán đi dây và đồ thị ví dụ, Mục 23.1 phương pháp tổng quát và định lý cạnh an toàn, Mục 23.2 hai thuật toán Kruskal và Prim, các bài tập, bài toán cuối chương và ghi chú chương), mỗi nhánh ghi định nghĩa, định lý, thuật toán, ví dụ và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -925,69 +951,77 @@ flowchart LR
   n1 --- n3
   n4["`Cây khung nhỏ nhất là cây khung có tổng trọng số nhỏ nhất, mọi cây khung đều có |V| − 1 cạnh`"]
   n1 --- n4
-  n5["`Đồ thị ví dụ 9 đỉnh, 14 cạnh có cây khung nhỏ nhất nặng 37, không duy nhất`"]
+  n5["`Đồ thị ví dụ 9 đỉnh, 14 cạnh có cây khung nhỏ nhất nặng 37, không duy nhất vì đổi (b, c) lấy (a, h) vẫn nặng 37`"]
   n1 --- n5
-  n6["`Mục 23.1 — Mọc dần một cây khung nhỏ nhất`"]
-  n0 --- n6
-  n7["`GENERIC-MST giữ bất biến: A là tập con của một cây khung nhỏ nhất nào đó`"]
-  n6 --- n7
-  n8["`Mỗi bước thêm một cạnh an toàn, vòng lặp chạy đúng |V| − 1 lần`"]
-  n6 --- n8
-  n9["`Lát cắt (S, V − S) tôn trọng A khi không cạnh nào của A đi qua nó`"]
-  n6 --- n9
-  n10["`Ví dụ S = {a, b, d, e}: cạnh nhẹ duy nhất đi qua lát cắt là (d, c) trọng số 7`"]
-  n6 --- n10
-  n11["`Định lý 23.1: cạnh nhẹ đi qua lát cắt tôn trọng A là cạnh an toàn`"]
-  n6 --- n11
-  n12["`Chứng minh cắt và dán: đổi cạnh (x, y) trên đường u–v trong cây lấy cạnh nhẹ (u, v), trọng số không tăng`"]
-  n6 --- n12
-  n13["`Hệ quả 23.2: cạnh nhẹ nối một cây của rừng (V, A) với thành phần khác là an toàn`"]
-  n6 --- n13
-  n14["`Mục 23.2 — Thuật toán Kruskal và Prim`"]
-  n0 --- n14
-  n15["`Kruskal giữ A là một rừng, duyệt cạnh tăng dần, thêm cạnh nối hai cây khác nhau`"]
-  n14 --- n15
-  n16["`Kruskal dùng MAKE-SET, FIND-SET, UNION của Chương 21, thời gian O(E lg V) do bước sắp xếp chi phối`"]
-  n14 --- n16
-  n17["`Prim giữ A là một cây mọc từ gốc r, hàng đợi ưu tiên min Q theo khoá v.key`"]
-  n14 --- n17
-  n18["`Prim mỗi vòng EXTRACT-MIN lấy đỉnh gần cây nhất rồi giảm khoá các đỉnh kề`"]
-  n14 --- n18
-  n19["`Prim chạy O(E lg V) với đống nhị phân, O(E + V lg V) với đống Fibonacci`"]
-  n14 --- n19
-  n20["`Cả hai đúng nhờ Hệ quả 23.2, với Prim lát cắt là (V − Q, Q)`"]
-  n14 --- n20
-  n21["`Trên ví dụ Kruskal chọn (a, h), Prim từ gốc a chọn (b, c), cả hai cây đều nặng 37`"]
-  n14 --- n21
-  n22["`Bài toán 23-1 đến 23-4 và ghi chú chương`"]
-  n0 --- n22
-  n23["`Problem 23-1: luôn có cây nhỏ thứ hai khác cây nhỏ nhất đúng một cạnh, tìm được trong O(V²)`"]
-  n22 --- n23
-  n24["`Problem 23-2: MST-REDUCE co cạnh nhẹ nhất mỗi đỉnh, số đỉnh giảm ít nhất một nửa, cho O(E lg lg V)`"]
-  n22 --- n24
-  n25["`Problem 23-3: mọi cây khung nhỏ nhất là cây khung nút cổ chai, tìm được trong thời gian tuyến tính`"]
-  n22 --- n25
-  n26["`Problem 23-4: xoá cạnh nặng nhất khi vẫn liên thông là đúng, thêm cạnh theo thứ tự tuỳ ý là sai`"]
-  n22 --- n26
-  n27["`Lịch sử: Borůvka 1926, Jarník 1930 tìm ra thuật toán Prim trước Prim, Kruskal 1956`"]
-  n22 --- n27
-  n28["`Thuật toán nhanh hơn: Fredman–Tarjan O(E lg∗ V), Chazelle O(E α̂(E, V)), Karger–Klein–Tarjan ngẫu nhiên kỳ vọng O(V + E)`"]
-  n22 --- n28
-  n29["`Thông điệp xuyên suốt`"]
-  n0 --- n29
-  n30["`Một định lý, hai thuật toán: tính đúng của cả Kruskal và Prim gói trong Hệ quả 23.2`"]
-  n29 --- n30
-  n31["`Tách cái gì đúng (bất biến, cạnh an toàn) khỏi làm sao nhanh (tập rời nhau, hàng đợi ưu tiên)`"]
-  n29 --- n31
-  n32["`Chứng minh dùng ≤ nên đúng cả khi trọng số bằng nhau hoặc âm`"]
-  n29 --- n32
-  n33["`Lý do sâu xa tham lam đúng: các rừng của đồ thị tạo thành matroid đồ thị của Mục 16.4`"]
-  n29 --- n33
-  n34["`Prim là khuôn của Dijkstra ở Chương 24, cây khung nhỏ nhất là bước đầu của thuật toán xấp xỉ người du lịch ở Chương 35`"]
-  n29 --- n34
+  n6["`Tham lam nói chung không bảo đảm tối ưu, nhưng với bài toán này chứng minh được là tối ưu`"]
+  n1 --- n6
+  n7["`Mục 23.1 — Mọc dần một cây khung nhỏ nhất`"]
+  n0 --- n7
+  n8["`GENERIC-MST giữ bất biến: A là tập con của một cây khung nhỏ nhất nào đó`"]
+  n7 --- n8
+  n9["`Mỗi bước thêm một cạnh an toàn, (V, A) luôn là rừng và vòng lặp chạy đúng |V| − 1 lần`"]
+  n7 --- n9
+  n10["`Lát cắt (S, V − S) tôn trọng A khi không cạnh nào của A đi qua nó`"]
+  n7 --- n10
+  n11["`Ví dụ S = {a, b, d, e}: sáu cạnh đi qua nặng 8, 11, 8, 7, 14, 10, cạnh nhẹ duy nhất là (d, c) nặng 7`"]
+  n7 --- n11
+  n12["`Định lý 23.1: cạnh nhẹ đi qua lát cắt tôn trọng A là cạnh an toàn`"]
+  n7 --- n12
+  n13["`Chứng minh cắt và dán: đổi cạnh (x, y) trên đường u–v trong cây lấy cạnh nhẹ (u, v), trọng số không tăng`"]
+  n7 --- n13
+  n14["`Hệ quả 23.2: cạnh nhẹ nối một cây của rừng (V, A) với thành phần khác là an toàn`"]
+  n7 --- n14
+  n15["`Mục 23.2 — Thuật toán Kruskal và Prim`"]
+  n0 --- n15
+  n16["`Kruskal giữ A là một rừng, duyệt cạnh tăng dần, thêm cạnh nối hai cây khác nhau`"]
+  n15 --- n16
+  n17["`Kruskal dùng MAKE-SET, FIND-SET, UNION của Chương 21, thời gian O(E lg V) do bước sắp xếp chi phối`"]
+  n15 --- n17
+  n18["`Trên ví dụ Kruskal thêm các cạnh nặng 1, 2, 2, 4, 4, 7, 8, 9 và chọn (a, h) thay cho (b, c)`"]
+  n15 --- n18
+  n19["`Prim giữ A là một cây mọc từ gốc r, hàng đợi ưu tiên min Q theo khoá v.key`"]
+  n15 --- n19
+  n20["`Prim mỗi vòng EXTRACT-MIN lấy đỉnh gần cây nhất rồi giảm khoá các đỉnh kề, khoá của h giảm từ ∞ xuống 8, 7, 1`"]
+  n15 --- n20
+  n21["`Prim chạy O(E lg V) với đống nhị phân, O(E + V lg V) với đống Fibonacci, O(V²) với mảng trên đồ thị dày`"]
+  n15 --- n21
+  n22["`Cả hai đúng nhờ Hệ quả 23.2, với Prim lát cắt là (V − Q, Q)`"]
+  n15 --- n22
+  n23["`Bài tập, bài toán 23-1 đến 23-4 và ghi chú chương`"]
+  n0 --- n23
+  n24["`Exercise 23.1-5: tính chất chu trình, cạnh nặng nhất trên một chu trình có thể bỏ khỏi cây khung nhỏ nhất`"]
+  n23 --- n24
+  n25["`Exercise 23.1-8: mọi cây khung nhỏ nhất có cùng danh sách trọng số cạnh đã sắp xếp`"]
+  n23 --- n25
+  n26["`Exercise 23.2-4: trọng số nguyên nhỏ thì sắp xếp đếm, Kruskal chỉ còn O(E α(V))`"]
+  n23 --- n26
+  n27["`Problem 23-1: luôn có cây nhỏ thứ hai khác cây nhỏ nhất đúng một cạnh, tìm được trong O(V²)`"]
+  n23 --- n27
+  n28["`Problem 23-2: MST-REDUCE co cạnh nhẹ nhất mỗi đỉnh, số đỉnh giảm ít nhất một nửa, lg lg V pha cho O(E lg lg V)`"]
+  n23 --- n28
+  n29["`Problem 23-3: mọi cây khung nhỏ nhất là cây khung nút cổ chai, tìm được trong thời gian tuyến tính`"]
+  n23 --- n29
+  n30["`Problem 23-4: xoá ngược cạnh nặng và bỏ cạnh nặng nhất trên chu trình đều đúng, thêm cạnh theo thứ tự tuỳ ý là sai`"]
+  n23 --- n30
+  n31["`Lịch sử: Borůvka 1926, Jarník 1930 tìm ra thuật toán Prim trước Prim, Kruskal 1956`"]
+  n23 --- n31
+  n32["`Thuật toán nhanh hơn: Fredman–Tarjan O(E lg#42; V), Chazelle O(E α̂(E, V)), Karger–Klein–Tarjan ngẫu nhiên kỳ vọng O(V + E)`"]
+  n23 --- n32
+  n33["`Thông điệp xuyên suốt`"]
+  n0 --- n33
+  n34["`Một định lý, hai thuật toán: tính đúng của cả Kruskal và Prim gói trong Hệ quả 23.2`"]
+  n33 --- n34
+  n35["`Tách cái gì đúng (bất biến, cạnh an toàn) khỏi làm sao nhanh (tập rời nhau, hàng đợi ưu tiên)`"]
+  n33 --- n35
+  n36["`Chứng minh dùng ≤ nên đúng cả khi trọng số bằng nhau hoặc âm`"]
+  n33 --- n36
+  n37["`Lý do sâu xa tham lam đúng: các rừng của đồ thị tạo thành matroid đồ thị của Mục 16.4`"]
+  n33 --- n37
+  n38["`Prim là khuôn của Dijkstra ở Chương 24, cây khung nhỏ nhất là bước đầu của thuật toán xấp xỉ người du lịch ở Chương 35`"]
+  n33 --- n38
   class n0 root
-  class n1,n6,n14,n22,n29 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34 leaf
+  class n1,n7,n15,n23,n33 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38 leaf
 ```
 
 ## Nguồn
@@ -1009,7 +1043,13 @@ Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-
 ## Lưu ý
 
 - **Không có mục có dấu sao (★) trong chương.** Dấu sao chỉ xuất hiện ở ba bài tập: Exercise 23.1-11, Exercise 23.2-6 và Exercise 23.2-7.
-- **Lớp chữ PDF hỏng nhiều ký hiệu toán; mọi pseudocode, công thức và hình trong bản tổng hợp được đọc lại từ ảnh trang 624–642.** Cụ thể: chữ v (đỉnh) bị mất hoàn toàn, `.u; /` là (u, v), `: key` là v.key, `: D u` là v.π = u (ký hiệu π cũng mất); dấu ≠, ≤, ≥, ∞, ∅ mất (ví dụ `jEjjVj/NUL 1` là |E| ≥ |V| − 1, `u:keyD1` là u.key = ∞, `Q¤;` là Q ≠ ∅); `˛.V /` là α(V). Chỗ hỏng nặng nhất ở Ghi chú chương trang 642: lớp chữ in "O(E lg V)" và "O(E lg lg V)" cho thuật toán của Fredman–Tarjan và của Gabow–Galil–Spencer–Tarjan, nhưng ảnh trang cho thấy đúng là **O(E lg\* V)** và **O(E lg lg\* V)** (có dấu sao của hàm logarit lặp); "Ey˛.E; V /" là O(E α̂(E, V)); ".V lg V/" là |E| = Ω(V lg V). Ba hình nhiều bước — Hình 23.4 (14 bước của Kruskal, trang 632–633), Hình 23.5 (9 bước của Prim, trang 635) và Hình 23.2 (lát cắt, trang 627) — không đọc được từ lớp chữ; người tổng hợp đọc từ ảnh và tái hiện thành bảng.
+- **Lớp chữ PDF hỏng nhiều ký hiệu toán; mọi pseudocode, công thức và hình trong bản tổng hợp được đọc lại từ ảnh trang 624–642.**
+
+  Cụ thể: chữ v (đỉnh) bị mất hoàn toàn, `.u; /` là (u, v), `: key` là v.key, `: D u` là v.π = u (ký hiệu π cũng mất); dấu ≠, ≤, ≥, ∞, ∅ mất (ví dụ `jEjjVj/NUL 1` là |E| ≥ |V| − 1, `u:keyD1` là u.key = ∞, `Q¤;` là Q ≠ ∅); `˛.V /` là α(V).
+
+  Chỗ hỏng nặng nhất ở Ghi chú chương trang 642: lớp chữ in "O(E lg V)" và "O(E lg lg V)" cho thuật toán của Fredman–Tarjan và của Gabow–Galil–Spencer–Tarjan, nhưng ảnh trang cho thấy đúng là **O(E lg\* V)** và **O(E lg lg\* V)** (có dấu sao của hàm logarit lặp); "Ey˛.E; V /" là O(E α̂(E, V)); ".V lg V/" là |E| = Ω(V lg V).
+
+  Ba hình nhiều bước — Hình 23.4 (14 bước của Kruskal, trang 632–633), Hình 23.5 (9 bước của Prim, trang 635) và Hình 23.2 (lát cắt, trang 627) — không đọc được từ lớp chữ; người tổng hợp đọc từ ảnh và tái hiện thành bảng.
 - **Thủ tục MST-REDUCE của Problem 23-2 không loại khuyên (self-loop) — nhận xét của người tổng hợp.** Ở dòng 12–21, một cạnh (x, y) mà hai đầu mút đã được gộp vào cùng một tập (FIND-SET(x) = FIND-SET(y) = u) sẽ được thêm vào G′.E dưới dạng cạnh (u, u). Đồ thị co lại theo đúng nghĩa ở Mục B.4 không có khuyên. Cần thêm điều kiện "nếu u ≠ v" trước dòng 15. Khuyên không làm Prim sai (một khuyên không bao giờ được chọn vì đầu kia đã ở trong cây), nhưng làm sai định nghĩa và tốn thời gian. Người tổng hợp không chắc chỗ này có trong danh sách lỗi chính thức (errata) hay không.
 - **Ví dụ chạy tay đã tự kiểm tra lại và đúng:** cây khung nhỏ nhất của đồ thị 9 đỉnh, 14 cạnh có tổng trọng số 37; Kruskal (Hình 23.4) thêm lần lượt các cạnh trọng số 1, 2, 2, 4, 4, 7, 8, 9 (tổng 37) và loại các cạnh 6, 7, 8, 10, 11, 14; Prim từ gốc a (Hình 23.5) thêm các đỉnh theo thứ tự a, b, c, i, f, g, h, d, e, tổng 37. **Một điểm dễ bỏ sót:** cây mà Kruskal trả về trong Hình 23.4 chứa cạnh (a, h) chứ không chứa (b, c), tức là khác với cây tô đậm trong Hình 23.1 và khác cây của Prim trong Hình 23.5 — cả ba đều nặng 37, khớp với chú thích của Hình 23.1 rằng cây khung nhỏ nhất của đồ thị này không duy nhất.
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương này trở thành Chương 21 (vì hai chương đống Fibonacci và cây van Emde Boas bị bỏ khỏi bản in, các chương sau được đánh số lại). Nội dung cốt lõi (GENERIC-MST, Định lý 23.1, Kruskal, Prim) giữ nguyên. Tôi nhớ (không chắc chắn) rằng pseudocode Prim ở ấn bản 4 viết tường minh lời gọi INSERT vào Q và DECREASE-KEY thay vì gán khoá ngầm. Các khác biệt nhỏ hơn về bài tập, người tổng hợp không nhớ chắc nên không liệt kê.

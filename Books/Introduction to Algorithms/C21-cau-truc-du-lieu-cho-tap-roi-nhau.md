@@ -250,9 +250,13 @@ Mục 21.4 (có dấu sao) định nghĩa hàm Aₖ(j), chứng minh A₁(j) = 2
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Cấu trúc dữ liệu tập rời nhau phải làm gì, và dùng vào đâu?** Nó duy trì một họ các tập động rời nhau, mỗi tập nhận diện bằng một phần tử đại diện, với ba thao tác: MAKE-SET(x) tạo tập {x}; UNION(x, y) hợp tập chứa x và tập chứa y; FIND-SET(x) trả về đại diện của tập chứa x. Hai phần tử cùng tập khi và chỉ khi FIND-SET của chúng trả về cùng một đại diện. Ứng dụng tiêu biểu là thành phần liên thông của đồ thị vô hướng khi các cạnh được thêm dần: với đồ thị đỉnh a..j và các cạnh (b,d), (e,g), (a,c), (h,i), (a,b), (e,f), (b,c), CONNECTED-COMPONENTS gọi UNION đúng 6 lần (cạnh cuối (b, c) nối hai đỉnh đã cùng tập nên bị bỏ qua) và để lại 4 tập {a,b,c,d}, {e,f,g}, {h,i}, {j}. Chương phân tích theo n (số MAKE-SET) và m (tổng số phép toán, m ≥ n); có nhiều nhất n − 1 phép UNION.
+1. **Cấu trúc dữ liệu tập rời nhau phải làm gì, và dùng vào đâu?** Nó duy trì một họ các tập động rời nhau, mỗi tập nhận diện bằng một phần tử đại diện, với ba thao tác: MAKE-SET(x) tạo tập {x}; UNION(x, y) hợp tập chứa x và tập chứa y; FIND-SET(x) trả về đại diện của tập chứa x. Hai phần tử cùng tập khi và chỉ khi FIND-SET của chúng trả về cùng một đại diện.
+
+   Ứng dụng tiêu biểu là thành phần liên thông của đồ thị vô hướng khi các cạnh được thêm dần: với đồ thị đỉnh a..j và các cạnh (b,d), (e,g), (a,c), (h,i), (a,b), (e,f), (b,c), CONNECTED-COMPONENTS gọi UNION đúng 6 lần (cạnh cuối (b, c) nối hai đỉnh đã cùng tập nên bị bỏ qua) và để lại 4 tập {a,b,c,d}, {e,f,g}, {h,i}, {j}. Chương phân tích theo n (số MAKE-SET) và m (tổng số phép toán, m ≥ n); có nhiều nhất n − 1 phép UNION.
 2. **Cài đặt bằng danh sách liên kết tốt tới đâu, và quy tắc hợp có trọng số cải thiện gì?** MAKE-SET và FIND-SET tốn O(1), nhưng UNION phải sửa con trỏ "về đối tượng tập" của mọi phần tử trong danh sách bị nối vào. Nếu nối tuỳ ý, dãy UNION(x₂, x₁), UNION(x₃, x₂), …, UNION(xₙ, xₙ₋₁) sửa 1 + 2 + … + (n − 1) = n(n − 1)/2 con trỏ: Θ(n²) cho 2n − 1 phép toán (với n = 1.000 là 499.500 lần sửa). Luôn nối danh sách ngắn vào danh sách dài thì mỗi lần một phần tử bị sửa con trỏ, tập chứa nó ít nhất gấp đôi, nên mỗi phần tử bị sửa không quá ⌈lg n⌉ lần (với n = 1.000 là 10 lần), tổng O(m + n lg n) (Định lý 21.1).
-3. **Vì sao rừng tập rời nhau với hợp theo hạng và nén đường đi chạy O(m α(n)), và α(n) nhỏ đến mức nào?** Hợp theo hạng giữ cây thấp (hạng ≤ ⌊lg n⌋), nén đường đi làm phẳng cây mỗi khi tìm. Phân tích dùng hàm tiềm năng: mỗi nút có "vốn" α(n)·rank, giảm dần khi cha của nó có hạng ngày càng lớn so với hạng của nó, được đo bằng hai đại lượng level(x) (mức k lớn nhất mà Aₖ(x.rank) ≤ x.p.rank) và iter(x). Mỗi lần nén đường đi, mọi nút trên đường tìm trừ nhiều nhất α(n) + 2 nút bị giảm tiềm năng ít nhất 1, đủ trả cho công đi qua chúng; LINK chỉ làm tăng tiềm năng của một gốc thêm tối đa α(n). Vậy mỗi phép có chi phí khấu hao O(α(n)) và m phép tốn O(m α(n)). α(n) = 4 với mọi n từ 2048 tới A₄(1), một số lớn hơn 10⁸⁰, nên trong thực tế α(n) ≤ 4.
+3. **Vì sao rừng tập rời nhau với hợp theo hạng và nén đường đi chạy O(m α(n)), và α(n) nhỏ đến mức nào?** Hợp theo hạng giữ cây thấp (hạng ≤ ⌊lg n⌋), nén đường đi làm phẳng cây mỗi khi tìm. Phân tích dùng hàm tiềm năng: mỗi nút có "vốn" α(n)·rank, giảm dần khi cha của nó có hạng ngày càng lớn so với hạng của nó, được đo bằng hai đại lượng level(x) (mức k lớn nhất mà Aₖ(x.rank) ≤ x.p.rank) và iter(x).
+
+   Mỗi lần nén đường đi, mọi nút trên đường tìm trừ nhiều nhất α(n) + 2 nút bị giảm tiềm năng ít nhất 1, đủ trả cho công đi qua chúng; LINK chỉ làm tăng tiềm năng của một gốc thêm tối đa α(n). Vậy mỗi phép có chi phí khấu hao O(α(n)) và m phép tốn O(m α(n)). α(n) = 4 với mọi n từ 2048 tới A₄(1), một số lớn hơn 10⁸⁰, nên trong thực tế α(n) ≤ 4.
 
 ## Khái niệm cần biết
 
@@ -878,7 +882,9 @@ Với n = 10⁹ phần tử và m = 10¹⁰ phép toán, α(n) = 4, nên tổng 
   | 11 | (a, e) | có | {b, d, f, g, i, j, k}, {a, e, h} |
 
   Kết quả cuối: ba thành phần {a, e, h}, {b, d, f, g, i, j, k}, {c}. Kiểm tra: 8 UNION = 11 đỉnh − 3 thành phần.
-- **21.1-2:** Chứng minh rằng sau khi CONNECTED-COMPONENTS xử lý hết các cạnh, hai đỉnh cùng thành phần liên thông khi và chỉ khi chúng cùng tập. *Người tổng hợp:* chứng minh bất biến "sau khi xử lý t cạnh đầu, u và v cùng tập khi và chỉ khi u và v liên thông trong đồ thị con chỉ gồm t cạnh đó", quy nạp theo t. t = 0: mỗi đỉnh một tập, mỗi đỉnh chỉ liên thông với chính nó. Bước t: cạnh mới (u, v) nối hai thành phần (có thể trùng) của đồ thị con; nếu đã cùng tập thì thêm cạnh không đổi quan hệ liên thông; nếu khác tập, UNION gộp đúng hai tập ứng với hai thành phần mà cạnh mới nối lại. Chiều "cùng tập ⇒ liên thông": mỗi UNION chỉ gộp hai tập có cạnh nối. Với t = |E| được kết luận.
+- **21.1-2:** Chứng minh rằng sau khi CONNECTED-COMPONENTS xử lý hết các cạnh, hai đỉnh cùng thành phần liên thông khi và chỉ khi chúng cùng tập.
+
+  *Người tổng hợp:* chứng minh bất biến "sau khi xử lý t cạnh đầu, u và v cùng tập khi và chỉ khi u và v liên thông trong đồ thị con chỉ gồm t cạnh đó", quy nạp theo t. t = 0: mỗi đỉnh một tập, mỗi đỉnh chỉ liên thông với chính nó. Bước t: cạnh mới (u, v) nối hai thành phần (có thể trùng) của đồ thị con; nếu đã cùng tập thì thêm cạnh không đổi quan hệ liên thông; nếu khác tập, UNION gộp đúng hai tập ứng với hai thành phần mà cạnh mới nối lại. Chiều "cùng tập ⇒ liên thông": mỗi UNION chỉ gộp hai tập có cạnh nối. Với t = |E| được kết luận.
 - **21.1-3:** Trong khi chạy CONNECTED-COMPONENTS trên đồ thị vô hướng G = (V, E) có k thành phần liên thông, FIND-SET được gọi bao nhiêu lần? UNION bao nhiêu lần? Trả lời theo |V|, |E|, k. *Người tổng hợp:* FIND-SET được gọi 2|E| lần (dòng 4, hai lần mỗi cạnh); UNION được gọi |V| − k lần (bắt đầu với |V| tập, kết thúc với k tập, mỗi UNION giảm đúng 1). Ví dụ đồ thị 10 đỉnh, 7 cạnh, 4 thành phần ở Mục 21.1: 14 FIND-SET và 6 UNION.
 
 ### Bài tập Mục 21.2 (trang 567–568)
@@ -915,9 +921,15 @@ Với n = 10⁹ phần tử và m = 10¹⁰ phép toán, α(n) = 4, nên tổng 
   - UNION(x₁₁, x₁₃): tập của x₁₁ là ⟨x₉..x₁₂⟩, tập của x₁₃ là ⟨x₁₃..x₁₆⟩, cùng cỡ 4 ⇒ ⟨x₉, …, x₁₆⟩, đại diện x₉.
   - UNION(x₁, x₁₀): hai tập cỡ 8 ⇒ một danh sách duy nhất ⟨x₁, x₂, …, x₁₆⟩, head x₁, tail x₁₆, cả 16 phần tử trỏ về cùng đối tượng tập.
   - FIND-SET(x₂) trả về x₁; FIND-SET(x₉) trả về x₁.
-- **21.2-3:** Sửa chứng minh gộp của Định lý 21.1 để có cận khấu hao O(1) cho MAKE-SET và FIND-SET, O(lg n) cho UNION, với danh sách liên kết và hợp có trọng số. *Người tổng hợp (phương pháp kế toán):* MAKE-SET và FIND-SET trả đúng chi phí thật O(1). Mỗi UNION trả O(1) cho việc nối, cộng thêm lg n "đồng xu" cho mỗi phần tử lần đầu rời khỏi tập một phần tử của nó trong UNION đó (mỗi UNION làm nhiều nhất 2 phần tử như vậy), tức trả O(lg n). Một phần tử chỉ có thể bị sửa con trỏ trong UNION đầu tiên mà nó tham gia hoặc các UNION sau đó, nên lúc bị sửa lần đầu nó đã có sẵn ⌈lg n⌉ xu; theo lập luận của Định lý 21.1, nó bị sửa nhiều nhất ⌈lg n⌉ lần, mỗi lần tiêu một xu, nên quỹ không bao giờ âm và tổng khấu hao chặn trên tổng chi phí thật.
+- **21.2-3:** Sửa chứng minh gộp của Định lý 21.1 để có cận khấu hao O(1) cho MAKE-SET và FIND-SET, O(lg n) cho UNION, với danh sách liên kết và hợp có trọng số.
+
+  *Người tổng hợp (phương pháp kế toán):* MAKE-SET và FIND-SET trả đúng chi phí thật O(1). Mỗi UNION trả O(1) cho việc nối, cộng thêm lg n "đồng xu" cho mỗi phần tử lần đầu rời khỏi tập một phần tử của nó trong UNION đó (mỗi UNION làm nhiều nhất 2 phần tử như vậy), tức trả O(lg n). Một phần tử chỉ có thể bị sửa con trỏ trong UNION đầu tiên mà nó tham gia hoặc các UNION sau đó, nên lúc bị sửa lần đầu nó đã có sẵn ⌈lg n⌉ xu; theo lập luận của Định lý 21.1, nó bị sửa nhiều nhất ⌈lg n⌉ lần, mỗi lần tiêu một xu, nên quỹ không bao giờ âm và tổng khấu hao chặn trên tổng chi phí thật.
 - **21.2-4:** Cho cận tiệm cận chặt của dãy phép toán ở bảng Θ(n²) trong Mục 21.2 (n MAKE-SET rồi UNION(x₂, x₁), UNION(x₃, x₂), …, UNION(xₙ, xₙ₋₁)) khi dùng hợp có trọng số. *Người tổng hợp:* Θ(n). Ở UNION(xᵢ₊₁, xᵢ), tập của xᵢ₊₁ có 1 phần tử, tập của xᵢ có i phần tử (với i = 1 thì hoà), nên chỉ danh sách một phần tử bị nối, sửa 1 con trỏ. Tổng Θ(n) + (n − 1)·Θ(1) = Θ(n).
-- **21.2-5:** Giáo sư Gompers đoán có thể chỉ giữ một con trỏ trong mỗi đối tượng tập thay vì hai (head và tail), trong khi mỗi phần tử danh sách vẫn có hai con trỏ. Chứng tỏ điều đó đúng: mô tả cách biểu diễn và cách các thao tác chạy, mỗi thao tác có cùng thời gian như trong mục, và vẫn cho phép hợp có trọng số. (Gợi ý: dùng phần tử cuối danh sách làm đại diện.) *Người tổng hợp:* đối tượng tập chỉ giữ head (và độ dài). Mỗi phần tử có next và một con trỏ "rep" trỏ thẳng tới phần tử cuối danh sách (đại diện); riêng phần tử cuối có next = NIL nên dùng ô next của nó để trỏ về đối tượng tập. FIND-SET(x) = x.rep: O(1). UNION với tập A lớn và tập B nhỏ: thay vì nối B vào cuối A, đặt B lên **đầu** A: lấy tail của B là FIND-SET(y), cho nó trỏ next tới A.head, gán A.head = B.head, rồi duyệt B sửa rep của từng phần tử thành tail của A (đại diện không đổi vì phần tử cuối vẫn là tail của A). Chi phí tỷ lệ |B|, đúng như hợp có trọng số.
+- **21.2-5:** Giáo sư Gompers đoán có thể chỉ giữ một con trỏ trong mỗi đối tượng tập thay vì hai (head và tail), trong khi mỗi phần tử danh sách vẫn có hai con trỏ. Chứng tỏ điều đó đúng: mô tả cách biểu diễn và cách các thao tác chạy, mỗi thao tác có cùng thời gian như trong mục, và vẫn cho phép hợp có trọng số. (Gợi ý: dùng phần tử cuối danh sách làm đại diện.)
+
+  *Người tổng hợp:* đối tượng tập chỉ giữ head (và độ dài). Mỗi phần tử có next và một con trỏ "rep" trỏ thẳng tới phần tử cuối danh sách (đại diện); riêng phần tử cuối có next = NIL nên dùng ô next của nó để trỏ về đối tượng tập. FIND-SET(x) = x.rep: O(1).
+
+  UNION với tập A lớn và tập B nhỏ: thay vì nối B vào cuối A, đặt B lên **đầu** A: lấy tail của B là FIND-SET(y), cho nó trỏ next tới A.head, gán A.head = B.head, rồi duyệt B sửa rep của từng phần tử thành tail của A (đại diện không đổi vì phần tử cuối vẫn là tail của A). Chi phí tỷ lệ |B|, đúng như hợp có trọng số.
 - **21.2-6:** Đề xuất thay đổi đơn giản cho UNION của danh sách liên kết để không cần con trỏ tail, không đổi thời gian tiệm cận của UNION dù có dùng hợp có trọng số hay không. (Gợi ý: thay vì nối đuôi, hãy "ghép xen" hai danh sách.) *Người tổng hợp:* chèn cả danh sách của y vào ngay sau phần tử đầu của danh sách x: x.head.next mới là y.head, và phần tử cuối của danh sách y trỏ next tới x.head.next cũ. Phần tử cuối của danh sách y được tìm thấy "miễn phí" trong vòng lặp sửa con trỏ về đối tượng tập (vốn đã duyệt toàn bộ danh sách y), nên UNION vẫn tốn thời gian tỷ lệ độ dài danh sách y. Đại diện (phần tử đầu của x) không đổi.
 
 ### Bài tập Mục 21.3 (trang 572)
@@ -947,11 +959,15 @@ Với n = 10⁹ phần tử và m = 10¹⁰ phép toán, α(n) = 4, nên tổng 
   ```
 - **21.3-3:** Cho một dãy m phép MAKE-SET, UNION, FIND-SET, trong đó n phép là MAKE-SET, tốn Ω(m lg n) khi chỉ dùng hợp theo hạng. *Người tổng hợp:* lấy n = 2ᵏ. Sau n MAKE-SET, hợp các gốc theo từng vòng: vòng 1 hợp từng cặp gốc hạng 0, vòng 2 hợp từng cặp gốc hạng 1, …, sau k vòng (n − 1 UNION) được một cây duy nhất hạng k, trong đó có một nút ở độ sâu k = lg n (cây nhị thức). Phần còn lại của dãy (m − 2n + 1 phép) đều là FIND-SET trên nút sâu nhất đó; không có nén đường đi nên mỗi phép tốn Θ(lg n). Với m ≥ 4n, có ít nhất m/2 phép như vậy, tổng Ω(m lg n).
 - **21.3-4:** Muốn thêm PRINT-SET(x) in mọi thành viên của tập chứa x, theo thứ tự bất kỳ. Chỉ thêm một thuộc tính cho mỗi nút sao cho PRINT-SET(x) tốn thời gian tuyến tính theo số thành viên, và thời gian tiệm cận của các thao tác khác không đổi; giả sử in mỗi thành viên tốn O(1). *Người tổng hợp:* thêm x.next để các thành viên của mỗi tập tạo một danh sách liên kết vòng. MAKE-SET đặt x.next = x. LINK(x, y) (hai gốc) đổi chỗ x.next và y.next: thao tác O(1) ghép hai vòng thành một. PRINT-SET(x): in x, rồi đi theo next cho tới khi quay về x.
-- **21.3-5 ★:** Chứng minh mọi dãy m phép MAKE-SET, FIND-SET, LINK, trong đó mọi LINK đứng trước mọi FIND-SET, chỉ tốn O(m) khi dùng cả nén đường đi lẫn hợp theo hạng. Điều gì xảy ra nếu chỉ dùng nén đường đi? *Người tổng hợp:* sau phép LINK cuối cùng, tập các gốc không bao giờ đổi nữa. Một FIND-SET có đường tìm s nút tốn O(1) + O(s); trong s nút đó, mọi nút trừ hai nút cuối (gốc và con trực tiếp của gốc) đổi cha từ một nút không phải gốc sang gốc. Một nút đã trỏ thẳng vào gốc thì mãi trỏ vào gốc, nên mỗi nút được "đổi cha" như vậy nhiều nhất một lần trong cả dãy: tổng phần đổi cha ≤ n. Tổng thời gian O(m) + O(n) = O(m). Lập luận không dùng hạng, nên chỉ với nén đường đi cũng được O(m).
+- **21.3-5 ★:** Chứng minh mọi dãy m phép MAKE-SET, FIND-SET, LINK, trong đó mọi LINK đứng trước mọi FIND-SET, chỉ tốn O(m) khi dùng cả nén đường đi lẫn hợp theo hạng. Điều gì xảy ra nếu chỉ dùng nén đường đi?
+
+  *Người tổng hợp:* sau phép LINK cuối cùng, tập các gốc không bao giờ đổi nữa. Một FIND-SET có đường tìm s nút tốn O(1) + O(s); trong s nút đó, mọi nút trừ hai nút cuối (gốc và con trực tiếp của gốc) đổi cha từ một nút không phải gốc sang gốc. Một nút đã trỏ thẳng vào gốc thì mãi trỏ vào gốc, nên mỗi nút được "đổi cha" như vậy nhiều nhất một lần trong cả dãy: tổng phần đổi cha ≤ n. Tổng thời gian O(m) + O(n) = O(m). Lập luận không dùng hạng, nên chỉ với nén đường đi cũng được O(m).
 
 ### Bài tập Mục 21.4 (trang 581–582)
 
-- **21.4-1:** Chứng minh Bổ đề 21.4. *Người tổng hợp:* quy nạp theo số phép toán. MAKE-SET(x) tạo gốc hạng 0, các khẳng định đúng hiển nhiên cho x và không đổi gì ở nút khác. LINK(x, y) trên hai gốc: nếu x.rank > y.rank thì y.p = x với y.rank < x.rank (ngặt), không hạng nào đổi; nếu không thì x.p = y với x.rank ≤ y.rank, và khi bằng nhau y.rank tăng 1 nên vẫn ngặt. Chỉ gốc (y) mới có thể tăng hạng; các con của y có x.p.rank tăng, không vi phạm vì hạng của con vẫn nhỏ hơn. Một nút đã không còn là gốc thì không bao giờ là tham số của LINK nên hạng của nó đứng yên. FIND-SET chỉ đổi x.p thành gốc; theo giả thiết quy nạp, hạng tăng ngặt dọc đường lên gốc nên hạng gốc ≥ hạng cha cũ: x.p.rank không giảm và vẫn > x.rank.
+- **21.4-1:** Chứng minh Bổ đề 21.4.
+
+  *Người tổng hợp:* quy nạp theo số phép toán. MAKE-SET(x) tạo gốc hạng 0, các khẳng định đúng hiển nhiên cho x và không đổi gì ở nút khác. LINK(x, y) trên hai gốc: nếu x.rank > y.rank thì y.p = x với y.rank < x.rank (ngặt), không hạng nào đổi; nếu không thì x.p = y với x.rank ≤ y.rank, và khi bằng nhau y.rank tăng 1 nên vẫn ngặt. Chỉ gốc (y) mới có thể tăng hạng; các con của y có x.p.rank tăng, không vi phạm vì hạng của con vẫn nhỏ hơn. Một nút đã không còn là gốc thì không bao giờ là tham số của LINK nên hạng của nó đứng yên. FIND-SET chỉ đổi x.p thành gốc; theo giả thiết quy nạp, hạng tăng ngặt dọc đường lên gốc nên hạng gốc ≥ hạng cha cũ: x.p.rank không giảm và vẫn > x.rank.
 - **21.4-2:** Chứng minh mọi nút có hạng nhiều nhất ⌊lg n⌋. *Người tổng hợp:* chứng minh bất biến "mọi gốc x có ít nhất 2^{x.rank} nút trong cây của nó". MAKE-SET: 1 = 2⁰ nút. LINK khác hạng: gốc mới giữ hạng, cây lớn thêm. LINK cùng hạng r: cây mới có ≥ 2ʳ + 2ʳ = 2ʳ⁺¹ nút và hạng r + 1. Nén đường đi chỉ sắp lại nút trong cùng một cây, không đổi số nút của cây hay hạng của gốc. Một nút thôi làm gốc thì hạng đứng yên, và lúc đó cây của nó đã có ≥ 2^{rank} nút trong tổng n nút. Vậy 2^{rank} ≤ n, rank ≤ ⌊lg n⌋.
 - **21.4-3:** Theo Exercise 21.4-2, cần bao nhiêu bit để lưu x.rank? *Người tổng hợp:* hạng nằm trong 0..⌊lg n⌋ nên cần ⌊lg ⌊lg n⌋⌋ + 1 bit, tức O(lg lg n). Ví dụ n = 2³² cần 6 bit, n = 2⁶⁴ cần 7 bit: một byte là đủ.
 - **21.4-4:** Dùng Exercise 21.4-2, cho một chứng minh đơn giản rằng các thao tác trên rừng chỉ dùng hợp theo hạng (không nén đường đi) chạy O(m lg n). *Người tổng hợp:* không có nén đường đi thì chiều cao của mỗi gốc đúng bằng hạng của nó (quy nạp theo LINK), nên mọi đường tìm có ≤ ⌊lg n⌋ + 1 nút. FIND-SET tốn O(lg n), LINK O(1), UNION O(lg n), MAKE-SET O(1); tổng m phép O(m lg n).
@@ -994,7 +1010,11 @@ Dòng 2: tìm tập chứa khoá i. Dòng 3–4: nếu khoá i không thuộc nh
 
 *Kiểm tra bằng thuật toán (người tổng hợp)* trên ví dụ (a): K₁ = {4, 8}, K₂ = {3}, K₃ = {2, 6, 9}, K₄ = K₅ = ∅, K₆ = {1, 7}, K₇ = {5}. i = 1 ∈ K₆ ⇒ extracted[6] = 1, gộp vào K₇. i = 2 ∈ K₃ ⇒ extracted[3] = 2, gộp vào K₄. i = 3 ∈ K₂ ⇒ extracted[2] = 3, gộp vào K₄ (K₃ đã bị huỷ). i = 4 ∈ K₁ ⇒ extracted[1] = 4, gộp vào K₄. i = 5 ∈ K₇ = K_{m+1}: bỏ qua. i = 6 ∈ K₄ ⇒ extracted[4] = 6, gộp vào K₅. i = 7 ∈ K₇: bỏ qua. i = 8 ∈ K₅ ⇒ extracted[5] = 8, gộp vào K₇. i = 9 ∈ K₇: bỏ qua. Kết quả ⟨4, 3, 2, 6, 8, 1⟩, khớp mô phỏng.
 
-- **(b)** Lập luận rằng mảng extracted do OFF-LINE-MINIMUM trả về là đúng. *Người tổng hợp:* bất biến trước vòng i: (1) mỗi tập Kⱼ còn tồn tại với j ≤ m ứng với một EXTRACT-MIN thứ j chưa được gán khoá, còn các Kⱼ đã bị huỷ ứng với các EXTRACT-MIN đã được gán; (2) Kⱼ chứa đúng các khoá ≥ i được chèn sau EXTRACT-MIN chưa gán gần nhất đứng trước E thứ j và trước E thứ j. Khoá i là khoá nhỏ nhất chưa gán. Nếu i ∈ Kⱼ, thì tại EXTRACT-MIN thứ j, khoá i đã được chèn; mọi khoá nhỏ hơn hoặc đã bị lấy ra ở một EXTRACT-MIN trước đó, hoặc được chèn sau E thứ j; và mọi EXTRACT-MIN giữa lúc chèn i và E thứ j đã bị khoá nhỏ hơn chiếm (đó là lý do các tập tương ứng đã bị gộp đi). Vậy E thứ j trả về i. Nếu i ∈ Kₘ₊₁ thì không EXTRACT-MIN nào còn trống sau khi i được chèn, i không bao giờ bị lấy ra.
+- **(b)** Lập luận rằng mảng extracted do OFF-LINE-MINIMUM trả về là đúng.
+
+  *Người tổng hợp:* bất biến trước vòng i: (1) mỗi tập Kⱼ còn tồn tại với j ≤ m ứng với một EXTRACT-MIN thứ j chưa được gán khoá, còn các Kⱼ đã bị huỷ ứng với các EXTRACT-MIN đã được gán; (2) Kⱼ chứa đúng các khoá ≥ i được chèn sau EXTRACT-MIN chưa gán gần nhất đứng trước E thứ j và trước E thứ j.
+
+  Khoá i là khoá nhỏ nhất chưa gán. Nếu i ∈ Kⱼ, thì tại EXTRACT-MIN thứ j, khoá i đã được chèn; mọi khoá nhỏ hơn hoặc đã bị lấy ra ở một EXTRACT-MIN trước đó, hoặc được chèn sau E thứ j; và mọi EXTRACT-MIN giữa lúc chèn i và E thứ j đã bị khoá nhỏ hơn chiếm (đó là lý do các tập tương ứng đã bị gộp đi). Vậy E thứ j trả về i. Nếu i ∈ Kₘ₊₁ thì không EXTRACT-MIN nào còn trống sau khi i được chèn, i không bao giờ bị lấy ra.
 - **(c)** Mô tả cách cài OFF-LINE-MINIMUM hiệu quả bằng cấu trúc tập rời nhau; cho cận chặt thời gian xấu nhất. *Người tổng hợp:* mỗi khoá là một phần tử; MAKE-SET cho từng khoá và UNION các khoá cùng Iⱼ; với Iⱼ rỗng, tạo một phần tử giả để Kⱼ vẫn tồn tại. Đại diện của mỗi tập lưu chỉ số j của nó; mảng set[j] trỏ tới một phần tử của Kⱼ. Các chỉ số j còn tồn tại được nối thành danh sách liên kết đôi theo thứ tự tăng, nên dòng 5 (tìm l) và việc huỷ Kⱼ là O(1). Tổng: O(n + m) MAKE-SET, n FIND-SET, O(n + m) UNION trên rừng có hợp theo hạng và nén đường đi: O((n + m) α(n + m)); vì m ≤ n, đây là O(n α(n)).
 
 ### Problem 21-2: Xác định độ sâu (Depth determination)
@@ -1211,7 +1231,7 @@ Theo hiểu biết của người tổng hợp: cài đặt union–find trong t
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 21 trên một trang: sáu nhánh lớn đi theo trình tự của chương gốc (Mục 21.1 các thao tác và ứng dụng, Mục 21.2 danh sách liên kết, Mục 21.3 rừng tập rời nhau, Mục 21.4 phân tích có dấu sao, các bài toán cuối chương và ghi chú chương), mỗi nhánh ghi cách cài đặt, kỹ thuật, định lý và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 21 trên một trang: sáu nhánh lớn đi theo trình tự của chương gốc (Mục 21.1 các thao tác và ứng dụng, Mục 21.2 danh sách liên kết, Mục 21.3 rừng tập rời nhau, Mục 21.4 phân tích có dấu sao, các bài tập, bài toán cuối chương và ghi chú chương), mỗi nhánh ghi cách cài đặt, kỹ thuật, định lý, ví dụ và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1226,9 +1246,9 @@ flowchart LR
   n1 --- n2
   n3["`MAKE-SET tạo tập {x}, UNION hợp hai tập, FIND-SET trả về đại diện`"]
   n1 --- n3
-  n4["`n là số phép MAKE-SET, m là tổng số phép toán, có nhiều nhất n − 1 phép UNION`"]
+  n4["`n là số phép MAKE-SET, m là tổng số phép toán, m ≥ n và có nhiều nhất n − 1 phép UNION`"]
   n1 --- n4
-  n5["`CONNECTED-COMPONENTS: UNION hai đầu mỗi cạnh nếu FIND-SET khác nhau, đồ thị 10 đỉnh ra 4 thành phần`"]
+  n5["`CONNECTED-COMPONENTS: UNION hai đầu mỗi cạnh nếu FIND-SET khác nhau, đồ thị 10 đỉnh 7 cạnh ra 4 thành phần`"]
   n1 --- n5
   n6["`Với đồ thị tĩnh DFS nhanh hơn, tập rời nhau có lợi khi cạnh được thêm dần`"]
   n1 --- n6
@@ -1238,9 +1258,9 @@ flowchart LR
   n7 --- n8
   n9["`MAKE-SET và FIND-SET O(1), UNION đơn giản phải sửa con trỏ của mọi phần tử bị nối vào`"]
   n7 --- n9
-  n10["`Dãy 2n − 1 phép toán tốn Θ(n²), khấu hao Θ(n) mỗi phép`"]
+  n10["`Dãy 2n − 1 phép toán tốn Θ(n²), với n = 1000 là 499500 lần sửa con trỏ`"]
   n7 --- n10
-  n11["`Hợp có trọng số luôn nối danh sách ngắn vào danh sách dài`"]
+  n11["`Hợp có trọng số luôn nối danh sách ngắn vào danh sách dài, một UNION đơn lẻ vẫn có thể tốn Ω(n)`"]
   n7 --- n11
   n12["`Định lý 21.1: O(m + n lg n) vì mỗi lần bị sửa con trỏ, tập chứa phần tử ít nhất gấp đôi`"]
   n7 --- n12
@@ -1250,53 +1270,63 @@ flowchart LR
   n13 --- n14
   n15["`Cách làm thô chưa hơn danh sách: n − 1 phép UNION có thể tạo một chuỗi n nút`"]
   n13 --- n15
-  n16["`Hợp theo hạng: gốc hạng nhỏ trỏ vào gốc hạng lớn, hạng là cận trên chiều cao`"]
+  n16["`Hợp theo hạng: gốc hạng nhỏ trỏ vào gốc hạng lớn, hoà thì tăng hạng gốc mới thêm 1`"]
   n13 --- n16
-  n17["`Nén đường đi: FIND-SET cho mọi nút trên đường tìm trỏ thẳng vào gốc, không đổi hạng`"]
+  n17["`Hạng chỉ là cận trên của chiều cao vì nén đường đi làm cây thấp đi mà không sửa hạng`"]
   n13 --- n17
-  n18["`Chỉ hợp theo hạng O(m lg n), chỉ nén đường đi Θ(n + f·(1 + log₂₊f/ₙ n)), cả hai O(m α(n))`"]
+  n18["`Nén đường đi: FIND-SET đệ quy hai lượt cho mọi nút trên đường tìm trỏ thẳng vào gốc`"]
   n13 --- n18
-  n19["`Mục 21.4 ★ — Chứng minh cận O(m α(n))`"]
-  n0 --- n19
-  n20["`Hàm tăng cực nhanh A₀(j) = j + 1, Aₖ(j) áp dụng Aₖ₋₁ lặp j + 1 lần lên j`"]
-  n19 --- n20
-  n21["`A₁(j) = 2j + 1, A₂(j) = 2ʲ⁺¹(j + 1) − 1, A₃(1) = 2047, A₄(1) ≫ 10⁸⁰`"]
-  n19 --- n21
-  n22["`α(n) = min{k : Aₖ(1) ≥ n} nên α(n) ≤ 4 với mọi n có thể gặp`"]
-  n19 --- n22
-  n23["`Hạng tăng ngặt khi đi từ nút lên gốc và mọi hạng ≤ ⌊lg n⌋`"]
-  n19 --- n23
-  n24["`Tiềm năng α(n)·rank cho gốc, nút trong trừ bớt theo level(x) và iter(x)`"]
-  n19 --- n24
-  n25["`MAKE-SET khấu hao O(1), LINK O(α(n)), FIND-SET O(α(n)) vì chỉ α(n) + 2 nút trên đường tìm không giảm tiềm năng`"]
-  n19 --- n25
-  n26["`Định lý 21.14: m phép toán chạy O(m α(n)) xấu nhất`"]
-  n19 --- n26
-  n27["`Bài toán 21-1 đến 21-3 và ghi chú chương`"]
-  n0 --- n27
-  n28["`Problem 21-1: cực tiểu ngoại tuyến gộp các nhóm khoá chèn giữa các EXTRACT-MIN, chạy O(n α(n))`"]
-  n27 --- n28
-  n29["`Problem 21-2: xác định độ sâu bằng giả khoảng cách cộng dọc đường lên gốc, O(m α(n)) thay vì Θ(m²)`"]
-  n27 --- n29
-  n30["`Problem 21-3: thuật toán LCA ngoại tuyến của Tarjan in mỗi cặp đúng một lần, gần tuyến tính`"]
-  n27 --- n30
-  n31["`Phần lớn kết quả là của Tarjan, Hopcroft và Ullman có cận O(m lg∗ n) trước đó`"]
-  n27 --- n31
-  n32["`Cận dưới Ω(m α̂(m, n)) của Tarjan, Fredman và Saks cho thấy O(m α(n)) là tối ưu`"]
-  n27 --- n32
-  n33["`Thông điệp xuyên suốt`"]
-  n0 --- n33
-  n34["`Mỗi bước cải tiến sửa đúng điểm yếu của bước trước, từ Θ(n²) tới cận tối ưu`"]
-  n33 --- n34
-  n35["`Lập luận gấp đôi kích thước của Định lý 21.1 dùng lại cho gộp nhỏ vào lớn và mảng động`"]
-  n33 --- n35
-  n36["`Union–find là công cụ cho Kruskal ở Chương 23 và cho nhiều bài xử lý ngoại tuyến`"]
-  n33 --- n36
-  n37["`Union–find chỉ gộp, không tách nhóm, một FIND-SET đơn lẻ vẫn có thể tốn Θ(lg n)`"]
-  n33 --- n37
+  n19["`Chỉ hợp theo hạng O(m lg n), chỉ nén đường đi Θ(n + f·(1 + log₂₊f/ₙ n)), cả hai O(m α(n))`"]
+  n13 --- n19
+  n20["`Mục 21.4 ★ — Chứng minh cận O(m α(n))`"]
+  n0 --- n20
+  n21["`Hàm tăng cực nhanh A₀(j) = j + 1, Aₖ(j) áp dụng Aₖ₋₁ lặp j + 1 lần lên j`"]
+  n20 --- n21
+  n22["`A₁(j) = 2j + 1, A₂(j) = 2ʲ⁺¹(j + 1) − 1, A₃(1) = 2047, A₄(1) ≫ 10⁸⁰`"]
+  n20 --- n22
+  n23["`α(n) = min{k : Aₖ(1) ≥ n}, α(1000) = 3 và α(n) ≤ 4 với mọi n có thể gặp`"]
+  n20 --- n23
+  n24["`Hạng tăng ngặt khi đi từ nút lên gốc, Bổ đề 21.7 thay UNION bằng hai FIND-SET và một LINK`"]
+  n20 --- n24
+  n25["`Tiềm năng α(n)·rank cho gốc, nút trong là (α(n) − level(x))·rank − iter(x), luôn trong khoảng 0 tới α(n)·rank`"]
+  n20 --- n25
+  n26["`Bổ đề 21.10: tiềm năng nút trong không tăng, giảm ít nhất 1 khi level hoặc iter đổi`"]
+  n20 --- n26
+  n27["`MAKE-SET khấu hao O(1), LINK O(α(n)), FIND-SET O(α(n)) vì chỉ α(n) + 2 nút trên đường tìm không giảm tiềm năng`"]
+  n20 --- n27
+  n28["`Định lý 21.14: m phép toán chạy O(m α(n)) xấu nhất`"]
+  n20 --- n28
+  n29["`Bài tập, bài toán 21-1 đến 21-3 và ghi chú chương`"]
+  n0 --- n29
+  n30["`Exercise 21.4-2: gốc hạng r có ít nhất 2ʳ nút nên mọi hạng ≤ ⌊lg n⌋, cần O(lg lg n) bit để lưu`"]
+  n29 --- n30
+  n31["`Exercise 21.3-5: khi mọi LINK đứng trước mọi FIND-SET, dãy chạy O(m) kể cả chỉ dùng nén đường đi`"]
+  n29 --- n31
+  n32["`Exercise 21.4-5: Giáo sư Dante sai, level không tăng đơn điệu dọc đường lên gốc`"]
+  n29 --- n32
+  n33["`Problem 21-1: cực tiểu ngoại tuyến gộp các nhóm khoá giữa các EXTRACT-MIN, ví dụ ra ⟨4, 3, 2, 6, 8, 1⟩, chạy O(n α(n))`"]
+  n29 --- n33
+  n34["`Problem 21-2: xác định độ sâu bằng giả khoảng cách cộng dọc đường lên gốc, O(m α(n)) thay vì Θ(m²)`"]
+  n29 --- n34
+  n35["`Problem 21-3: thuật toán LCA ngoại tuyến của Tarjan in mỗi cặp đúng một lần, chạy O((n + |P|) α(n))`"]
+  n29 --- n35
+  n36["`Phần lớn kết quả là của Tarjan, Hopcroft và Ullman có cận O(m lg#42; n) trước đó`"]
+  n29 --- n36
+  n37["`Cận dưới Ω(m α̂(m, n)) của Tarjan, Fredman và Saks cho thấy O(m α(n)) là tối ưu`"]
+  n29 --- n37
+  n38["`Thông điệp xuyên suốt`"]
+  n0 --- n38
+  n39["`Mỗi bước cải tiến sửa đúng điểm yếu của bước trước, từ Θ(n²) tới cận tối ưu`"]
+  n38 --- n39
+  n40["`Lập luận gấp đôi kích thước của Định lý 21.1 dùng lại cho gộp nhỏ vào lớn và mảng động`"]
+  n38 --- n40
+  n41["`Union–find là công cụ cho Kruskal ở Chương 23 và cho nhiều bài xử lý ngoại tuyến`"]
+  n38 --- n41
+  n42["`Union–find chỉ gộp, không tách nhóm, một FIND-SET đơn lẻ vẫn có thể tốn Θ(lg n)`"]
+  n38 --- n42
   class n0 root
-  class n1,n7,n13,n19,n27,n33 branch
-  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35,n36,n37 leaf
+  class n1,n7,n13,n20,n29,n38 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42 leaf
 ```
 
 ## Nguồn
@@ -1314,7 +1344,13 @@ Chương 21 là chương cuối của Phần V (cấu trúc dữ liệu nâng ca
 ## Lưu ý
 
 - **Mục có dấu sao (★):** Mục 21.4 "Analysis of union by rank with path compression" (phân tích hợp theo hạng kèm nén đường đi). **Bài tập có dấu sao:** Exercise 21.3-5 (dãy MAKE-SET, FIND-SET, LINK mà mọi LINK đứng trước mọi FIND-SET chạy O(m)) và Exercise 21.4-6 (hàm α′(n) với Aₖ(1) ≥ lg(n + 1), α′(n) ≤ 3 trong thực tế). Lớp chữ PDF hiện dấu sao thành ký tự `?`.
-- **Lớp chữ PDF hỏng nặng ở toàn bộ ký hiệu toán; mọi pseudocode, công thức, hình và bảng trong bản tổng hợp này được đối chiếu với ảnh trang 561–585.** Ví dụ: `‚.n2/` là Θ(n²); `¤` là ≠; dấu ≥ và ≤ mất hẳn (`m n` là m ≥ n, `x: rank x: p:rank` là x.rank ≤ x.p.rank); `˛.n/` là α(n); thế năng φ_q(x) mất hẳn chữ φ (`q.x/` là φ_q(x)) và Φ thành `ˆ`; chỉ số trên của lặp hàm bị dàn phẳng (`A.j C1/k/NUL1 .j /` là A_{k−1}^{(j+1)}(j)); `.n/ time` ở trang 566 là Ω(n); `.m lg n/` ở Exercise 21.3-3 là Ω(m lg n); ký hiệu ≫ ở trang 574 mất; ở Ghi chú chương, `O.m lg n/` thực ra là O(m lg* n) (mất dấu sao của lg*) và `y˛.m; n/` là α̂(m, n). Các hình 21.1, 21.2, 21.4, 21.5 (đồ thị, danh sách liên kết có mũi tên, cây) không có trong lớp chữ hoặc bị vỡ thành chữ rời; người tổng hợp đọc từ ảnh trang 563, 565, 569, 570 và tái hiện bằng bảng/sơ đồ text.
-- **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):** (1) trang 573 viết "From the definition of A₀(k)" — biến của A₀ là j, nên đúng ra là A₀(j); (2) trang 574 viết "We define the inverse of the function Aₖ(n)", nhưng α(n) = min{k : Aₖ(1) ≥ n} thực chất là nghịch đảo của hàm k ↦ Aₖ(1) (đối số cố định bằng 1, biến là mức k), không phải nghịch đảo của Aₖ(n); (3) ví dụ UNION(g, e) ở Mục 21.2 nối danh sách 4 phần tử của e vào sau danh sách 3 phần tử của g — đúng với cách hợp đơn giản đang trình bày, nhưng là chiều ngược với quy tắc hợp có trọng số giới thiệu ngay sau đó. Không có lỗi tính toán nào trong chương; người tổng hợp không chắc các chỗ trên có trong danh sách errata chính thức hay không.
+- **Lớp chữ PDF hỏng nặng ở toàn bộ ký hiệu toán; mọi pseudocode, công thức, hình và bảng trong bản tổng hợp này được đối chiếu với ảnh trang 561–585.**
+
+  Ví dụ: `‚.n2/` là Θ(n²); `¤` là ≠; dấu ≥ và ≤ mất hẳn (`m n` là m ≥ n, `x: rank x: p:rank` là x.rank ≤ x.p.rank); `˛.n/` là α(n); thế năng φ_q(x) mất hẳn chữ φ (`q.x/` là φ_q(x)) và Φ thành `ˆ`; chỉ số trên của lặp hàm bị dàn phẳng (`A.j C1/k/NUL1 .j /` là A_{k−1}^{(j+1)}(j)); `.n/ time` ở trang 566 là Ω(n); `.m lg n/` ở Exercise 21.3-3 là Ω(m lg n); ký hiệu ≫ ở trang 574 mất; ở Ghi chú chương, `O.m lg n/` thực ra là O(m lg* n) (mất dấu sao của lg*) và `y˛.m; n/` là α̂(m, n).
+
+  Các hình 21.1, 21.2, 21.4, 21.5 (đồ thị, danh sách liên kết có mũi tên, cây) không có trong lớp chữ hoặc bị vỡ thành chữ rời; người tổng hợp đọc từ ảnh trang 563, 565, 569, 570 và tái hiện bằng bảng/sơ đồ text.
+- **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):** (1) trang 573 viết "From the definition of A₀(k)" — biến của A₀ là j, nên đúng ra là A₀(j); (2) trang 574 viết "We define the inverse of the function Aₖ(n)", nhưng α(n) = min{k : Aₖ(1) ≥ n} thực chất là nghịch đảo của hàm k ↦ Aₖ(1) (đối số cố định bằng 1, biến là mức k), không phải nghịch đảo của Aₖ(n);
+
+  (3) ví dụ UNION(g, e) ở Mục 21.2 nối danh sách 4 phần tử của e vào sau danh sách 3 phần tử của g — đúng với cách hợp đơn giản đang trình bày, nhưng là chiều ngược với quy tắc hợp có trọng số giới thiệu ngay sau đó. Không có lỗi tính toán nào trong chương; người tổng hợp không chắc các chỗ trên có trong danh sách errata chính thức hay không.
 - **Ví dụ chạy tay đã tự kiểm tra lại và đúng:** bảng các tập sau từng cạnh của CONNECTED-COMPONENTS trên đồ thị 10 đỉnh; A₁(1) = 3, A₂(1) = 7, A₂(2) = 23, A₃(1) = A₂(7) = 2⁸·8 − 1 = 2047; bảng giá trị α(n). Người tổng hợp đã tự giải và kiểm tra các bài tập 21.1-1, 21.2-2, 21.3-1 và Problem 21-1(a) (kết quả extracted = ⟨4, 3, 2, 6, 8, 1⟩, chạy cả trực tiếp lẫn bằng OFF-LINE-MINIMUM).
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** đống Fibonacci và cây van Emde Boas không còn là chương in trong ấn bản 4, nên chương này trở thành Chương 19 "Data Structures for Disjoint Sets", vẫn là chương cuối của Phần V; cấu trúc bốn mục (thao tác, danh sách liên kết, rừng, phân tích có dấu sao) và hàm Aₖ, α(n) được giữ. Các thay đổi nhỏ hơn về bài tập và lời văn, người tổng hợp không nhớ chắc nên không liệt kê.

@@ -237,9 +237,21 @@ Mục 25.3 trình bày thuật toán Johnson: Bổ đề 25.1 chứng minh đổ
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao bài toán đường đi ngắn nhất giữa mọi cặp đỉnh giống phép nhân ma trận, và điều đó cho thuật toán nào?** Gọi l⁽ᵐ⁾ᵢⱼ là trọng số nhỏ nhất của đường từ i tới j có không quá m cạnh. Một đường có ≤ m cạnh là một đường ≤ m − 1 cạnh tới đỉnh k nào đó cộng thêm cạnh (k, j), nên l⁽ᵐ⁾ᵢⱼ = minₖ (l⁽ᵐ⁻¹⁾ᵢₖ + wₖⱼ). Công thức này chính là cᵢⱼ = Σₖ aᵢₖ · bₖⱼ khi thay phép cộng Σ bằng min và phép nhân · bằng +. Do đó L⁽ᵐ⁾ = L⁽ᵐ⁻¹⁾ · W là một "tích ma trận" Θ(n³), và ma trận đáp số là "lũy thừa" Wⁿ⁻¹. Tính lần lượt W², W³, … tốn Θ(n⁴); vì tích này có tính kết hợp và mọi lũy thừa từ n − 1 trở lên đều bằng nhau (khi không có chu trình âm), bình phương lặp W → W² → W⁴ → … chỉ cần ⌈lg(n − 1)⌉ tích, tổng Θ(n³ lg n). Ví dụ đồ thị 5 đỉnh của sách: n − 1 = 4, chỉ cần 2 tích (W² rồi W⁴) thay vì 3.
-2. **Floyd-Warshall chia bài toán con thế nào để đạt Θ(n³), và làm sao dựng lại đường đi?** Thay vì giới hạn số cạnh, nó giới hạn tập đỉnh trung gian được phép đi qua: d⁽ᵏ⁾ᵢⱼ là đường ngắn nhất từ i tới j chỉ qua các đỉnh trung gian trong {1, …, k}. Đường tối ưu hoặc không qua k (giữ d⁽ᵏ⁻¹⁾ᵢⱼ), hoặc qua k đúng một lần và tách thành hai nửa i ⇝ k, k ⇝ j chỉ qua {1, …, k − 1}; vậy d⁽ᵏ⁾ᵢⱼ = min(d⁽ᵏ⁻¹⁾ᵢⱼ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ). Mỗi ô mỗi tầng chỉ tốn O(1), có n³ bộ (k, i, j) nên Θ(n³). Đường đi được dựng bằng ma trận tiền bối Π: khi đi qua k có lợi hơn thì tiền bối của j trên đường i → j lấy theo đường k → j (π⁽ᵏ⁾ᵢⱼ = π⁽ᵏ⁻¹⁾ₖⱼ), ngược lại giữ nguyên. Ví dụ trên đồ thị của sách: d⁽²⁾₁₄ = min(∞, d⁽¹⁾₁₂ + d⁽¹⁾₂₄) = min(∞, 3 + 1) = 4, và π⁽²⁾₁₄ = π⁽¹⁾₂₄ = 2. Cùng khung đó với (∨, ∧) cho bao đóng bắc cầu.
-3. **Làm sao dùng Dijkstra (chỉ chạy được với cạnh không âm) cho đồ thị có cạnh âm, và tại sao điều đó tốt cho đồ thị thưa?** Đổi trọng số ŵ(u, v) = w(u, v) + h(u) − h(v). Với mọi đường p từ v₀ tới vₖ, các số hạng h ở giữa triệt tiêu nhau nên ŵ(p) = w(p) + h(v₀) − h(vₖ): mọi đường giữa cùng hai đầu mút bị cộng cùng một hằng số, nên đường ngắn nhất không đổi, và chu trình giữ nguyên trọng số. Chọn h(v) = δ(s, v) với s là đỉnh mới nối tới mọi đỉnh bằng cạnh 0; bất đẳng thức tam giác h(v) ≤ h(u) + w(u, v) cho ŵ ≥ 0. Một lần Bellman-Ford (O(VE)) tính h, rồi |V| lần Dijkstra với đống Fibonacci (mỗi lần O(V lg V + E)), tổng O(V² lg V + VE). Khi E = O(V) (đồ thị thưa) đó là O(V² lg V), tốt hơn hẳn Θ(V³). Ví dụ trên đồ thị của sách: h = (0, −1, −5, 0, −4), cạnh (1, 3) trọng số 8 thành 8 + 0 − (−5) = 13, cạnh âm (4, 3) trọng số −5 thành −5 + 0 − (−5) = 0.
+1. **Vì sao bài toán đường đi ngắn nhất giữa mọi cặp đỉnh giống phép nhân ma trận, và điều đó cho thuật toán nào?** Gọi l⁽ᵐ⁾ᵢⱼ là trọng số nhỏ nhất của đường từ i tới j có không quá m cạnh. Một đường có ≤ m cạnh là một đường ≤ m − 1 cạnh tới đỉnh k nào đó cộng thêm cạnh (k, j), nên l⁽ᵐ⁾ᵢⱼ = minₖ (l⁽ᵐ⁻¹⁾ᵢₖ + wₖⱼ).
+
+   Công thức này chính là cᵢⱼ = Σₖ aᵢₖ · bₖⱼ khi thay phép cộng Σ bằng min và phép nhân · bằng +. Do đó L⁽ᵐ⁾ = L⁽ᵐ⁻¹⁾ · W là một "tích ma trận" Θ(n³), và ma trận đáp số là "lũy thừa" Wⁿ⁻¹.
+
+   Tính lần lượt W², W³, … tốn Θ(n⁴); vì tích này có tính kết hợp và mọi lũy thừa từ n − 1 trở lên đều bằng nhau (khi không có chu trình âm), bình phương lặp W → W² → W⁴ → … chỉ cần ⌈lg(n − 1)⌉ tích, tổng Θ(n³ lg n). Ví dụ đồ thị 5 đỉnh của sách: n − 1 = 4, chỉ cần 2 tích (W² rồi W⁴) thay vì 3.
+2. **Floyd-Warshall chia bài toán con thế nào để đạt Θ(n³), và làm sao dựng lại đường đi?** Thay vì giới hạn số cạnh, nó giới hạn tập đỉnh trung gian được phép đi qua: d⁽ᵏ⁾ᵢⱼ là đường ngắn nhất từ i tới j chỉ qua các đỉnh trung gian trong {1, …, k}. Đường tối ưu hoặc không qua k (giữ d⁽ᵏ⁻¹⁾ᵢⱼ), hoặc qua k đúng một lần và tách thành hai nửa i ⇝ k, k ⇝ j chỉ qua {1, …, k − 1}; vậy d⁽ᵏ⁾ᵢⱼ = min(d⁽ᵏ⁻¹⁾ᵢⱼ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ).
+
+   Mỗi ô mỗi tầng chỉ tốn O(1), có n³ bộ (k, i, j) nên Θ(n³). Đường đi được dựng bằng ma trận tiền bối Π: khi đi qua k có lợi hơn thì tiền bối của j trên đường i → j lấy theo đường k → j (π⁽ᵏ⁾ᵢⱼ = π⁽ᵏ⁻¹⁾ₖⱼ), ngược lại giữ nguyên.
+
+   Ví dụ trên đồ thị của sách: d⁽²⁾₁₄ = min(∞, d⁽¹⁾₁₂ + d⁽¹⁾₂₄) = min(∞, 3 + 1) = 4, và π⁽²⁾₁₄ = π⁽¹⁾₂₄ = 2. Cùng khung đó với (∨, ∧) cho bao đóng bắc cầu.
+3. **Làm sao dùng Dijkstra (chỉ chạy được với cạnh không âm) cho đồ thị có cạnh âm, và tại sao điều đó tốt cho đồ thị thưa?** Đổi trọng số ŵ(u, v) = w(u, v) + h(u) − h(v). Với mọi đường p từ v₀ tới vₖ, các số hạng h ở giữa triệt tiêu nhau nên ŵ(p) = w(p) + h(v₀) − h(vₖ): mọi đường giữa cùng hai đầu mút bị cộng cùng một hằng số, nên đường ngắn nhất không đổi, và chu trình giữ nguyên trọng số.
+
+   Chọn h(v) = δ(s, v) với s là đỉnh mới nối tới mọi đỉnh bằng cạnh 0; bất đẳng thức tam giác h(v) ≤ h(u) + w(u, v) cho ŵ ≥ 0. Một lần Bellman-Ford (O(VE)) tính h, rồi |V| lần Dijkstra với đống Fibonacci (mỗi lần O(V lg V + E)), tổng O(V² lg V + VE). Khi E = O(V) (đồ thị thưa) đó là O(V² lg V), tốt hơn hẳn Θ(V³).
+
+   Ví dụ trên đồ thị của sách: h = (0, −1, −5, 0, −4), cạnh (1, 3) trọng số 8 thành 8 + 0 − (−5) = 13, cạnh âm (4, 3) trọng số −5 thành −5 + 0 − (−5) = 0.
 
 ## Khái niệm cần biết
 
@@ -943,7 +955,11 @@ Theo hiểu biết của người tổng hợp: ý tưởng "hàm thế" (potent
 - **25.1-7:** Định nghĩa π⁽ᵐ⁾ᵢⱼ là tiền bối của j trên một đường trọng số nhỏ nhất từ i tới j có không quá m cạnh; sửa EXTEND-SHORTEST-PATHS và SLOW-ALL-PAIRS-SHORTEST-PATHS để tính Π⁽¹⁾, …, Π⁽ⁿ⁻¹⁾ song song với L⁽¹⁾, …, L⁽ⁿ⁻¹⁾. *Người tổng hợp:* Π⁽¹⁾: π⁽¹⁾ᵢⱼ = i nếu i ≠ j và wᵢⱼ < ∞, NIL nếu không. Trong EXTEND, khởi tạo l′ᵢⱼ = lᵢⱼ và π′ᵢⱼ = πᵢⱼ (đường cũ ≤ m − 1 cạnh); với mỗi k ≠ j, nếu lᵢₖ + wₖⱼ < l′ᵢⱼ thì gán l′ᵢⱼ = lᵢₖ + wₖⱼ và π′ᵢⱼ = k. Dùng dấu "<" để khi bằng nhau giữ tiền bối cũ.
 - **25.1-8:** FASTER-ALL-PAIRS-SHORTEST-PATHS như viết lưu ⌈lg(n − 1)⌉ ma trận n², tổng Θ(n² lg n) bộ nhớ; sửa để chỉ dùng Θ(n²) với hai ma trận n × n. *Người tổng hợp:* chỉ giữ ma trận hiện tại L và một ma trận tạm L′: mỗi vòng tính L′ = EXTEND(L, L) (ghi vào L′, vì không thể ghi đè L khi đang đọc nó), rồi hoán đổi vai trò L và L′.
 - **25.1-9:** Sửa FASTER-ALL-PAIRS-SHORTEST-PATHS để phát hiện chu trình âm. *Người tổng hợp:* sau vòng lặp, tính thêm một tích L′ = L · L (hoặc L · W). Nếu không có chu trình âm thì mọi lũy thừa từ n − 1 trở lên bằng nhau, nên L′ = L; nếu L′ ≠ L (một ô giảm) thì có chu trình âm. Cách tương đương: kiểm tra đường chéo của một lũy thừa ≥ n có ô l_ii < 0 (lũy thừa n − 1 có thể chưa đủ vì chu trình âm có thể có đúng n cạnh).
-- **25.1-10:** Cho thuật toán hiệu quả tìm độ dài (số cạnh) của chu trình âm có ít cạnh nhất. *Người tổng hợp:* l⁽ᵐ⁾ᵢᵢ < 0 khi và chỉ khi có chu trình âm qua i với không quá m cạnh (một đường đi khép kín âm luôn tách được thành các chu trình đơn, trong đó có một chu trình âm với số cạnh không lớn hơn). Vậy đáp số là m nhỏ nhất sao cho đường chéo của L⁽ᵐ⁾ có phần tử âm. Tính L⁽¹⁾, L⁽²⁾, … lần lượt: O(n⁴) xấu nhất. Nhanh hơn: bình phương lặp tới lũy thừa 2ᵗ đầu tiên có đường chéo âm, giữ các lũy thừa W, W², W⁴, …, rồi tìm nhị phân (ghép dần các lũy thừa 2 như khi tìm nhị phân trên chỉ số) để tìm m nhỏ nhất: O(n³ lg n). Không có t nào (tới 2ᵗ ≥ n) thì không có chu trình âm.
+- **25.1-10:** Cho thuật toán hiệu quả tìm độ dài (số cạnh) của chu trình âm có ít cạnh nhất.
+
+  *Người tổng hợp:* l⁽ᵐ⁾ᵢᵢ < 0 khi và chỉ khi có chu trình âm qua i với không quá m cạnh (một đường đi khép kín âm luôn tách được thành các chu trình đơn, trong đó có một chu trình âm với số cạnh không lớn hơn). Vậy đáp số là m nhỏ nhất sao cho đường chéo của L⁽ᵐ⁾ có phần tử âm. Tính L⁽¹⁾, L⁽²⁾, … lần lượt: O(n⁴) xấu nhất.
+
+  Nhanh hơn: bình phương lặp tới lũy thừa 2ᵗ đầu tiên có đường chéo âm, giữ các lũy thừa W, W², W⁴, …, rồi tìm nhị phân (ghép dần các lũy thừa 2 như khi tìm nhị phân trên chỉ số) để tìm m nhỏ nhất: O(n³ lg n). Không có t nào (tới 2ᵗ ≥ n) thì không có chu trình âm.
 
 ### Bài tập Mục 25.2 (trang 699–700)
 
@@ -978,7 +994,11 @@ Theo hiểu biết của người tổng hợp: ý tưởng "hàm thế" (potent
   [  3   5  10   7   2   0 ]
   ```
 - **25.2-2:** Tính bao đóng bắc cầu bằng kỹ thuật của Mục 25.1. *Người tổng hợp:* dùng T⁽⁰⁾ (1 trên đường chéo và ở các cạnh) và "tích" Boole (A · B)ᵢⱼ = ∨ₖ (aᵢₖ ∧ bₖⱼ); bình phương lặp ⌈lg(n − 1)⌉ lần: Θ(n³ lg n). (Với nhân ma trận nhanh trên số nguyên rồi đổi ô khác 0 thành 1, còn nhanh hơn — theo hiểu biết của người tổng hợp.)
-- **25.2-3:** Sửa FLOYD-WARSHALL để tính Π⁽ᵏ⁾ theo (25.6) và (25.7); chứng minh chặt rằng với mọi i, G_π,i là cây đường đi ngắn nhất gốc i. (Gợi ý: để chứng minh G_π,i không có chu trình, trước hết chỉ ra π⁽ᵏ⁾ᵢⱼ = l kéo theo d⁽ᵏ⁾ᵢⱼ ≥ d⁽ᵏ⁾ᵢₗ + wₗⱼ; rồi phỏng theo chứng minh Bổ đề 24.16.) *Người tổng hợp:* thêm ma trận Π⁽⁰⁾ khởi tạo theo (25.6) ở dòng 2; trong dòng 7, nếu d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ < d⁽ᵏ⁻¹⁾ᵢⱼ thì gán d⁽ᵏ⁾ᵢⱼ bằng tổng đó và π⁽ᵏ⁾ᵢⱼ = π⁽ᵏ⁻¹⁾ₖⱼ, ngược lại chép cả d lẫn π từ tầng k − 1. Hướng chứng minh: bất biến "π⁽ᵏ⁾ᵢⱼ = l thì có đường i ⇝ l → j với trọng số d⁽ᵏ⁾ᵢₗ + wₗⱼ ≤ d⁽ᵏ⁾ᵢⱼ"; nếu G_π,i có chu trình, cộng các bất đẳng thức dọc chu trình — với lần gán cuối cùng tạo chu trình là bất đẳng thức chặt — cho trọng số chu trình < 0, mâu thuẫn (như Bổ đề 24.16).
+- **25.2-3:** Sửa FLOYD-WARSHALL để tính Π⁽ᵏ⁾ theo (25.6) và (25.7); chứng minh chặt rằng với mọi i, G_π,i là cây đường đi ngắn nhất gốc i. (Gợi ý: để chứng minh G_π,i không có chu trình, trước hết chỉ ra π⁽ᵏ⁾ᵢⱼ = l kéo theo d⁽ᵏ⁾ᵢⱼ ≥ d⁽ᵏ⁾ᵢₗ + wₗⱼ; rồi phỏng theo chứng minh Bổ đề 24.16.)
+
+  *Người tổng hợp:* thêm ma trận Π⁽⁰⁾ khởi tạo theo (25.6) ở dòng 2; trong dòng 7, nếu d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ < d⁽ᵏ⁻¹⁾ᵢⱼ thì gán d⁽ᵏ⁾ᵢⱼ bằng tổng đó và π⁽ᵏ⁾ᵢⱼ = π⁽ᵏ⁻¹⁾ₖⱼ, ngược lại chép cả d lẫn π từ tầng k − 1.
+
+  Hướng chứng minh: bất biến "π⁽ᵏ⁾ᵢⱼ = l thì có đường i ⇝ l → j với trọng số d⁽ᵏ⁾ᵢₗ + wₗⱼ ≤ d⁽ᵏ⁾ᵢⱼ"; nếu G_π,i có chu trình, cộng các bất đẳng thức dọc chu trình — với lần gán cuối cùng tạo chu trình là bất đẳng thức chặt — cho trọng số chu trình < 0, mâu thuẫn (như Bổ đề 24.16).
 - **25.2-4:** Floyd-Warshall như viết dùng Θ(n³) bộ nhớ vì tính d⁽ᵏ⁾ᵢⱼ cho mọi i, j, k. Chứng minh thủ tục bỏ hết chỉ số trên dưới đây là đúng, nên chỉ cần Θ(n²) bộ nhớ:
 
   ```text
@@ -992,11 +1012,25 @@ Theo hiểu biết của người tổng hợp: ý tưởng "hàm thế" (potent
   7  return D
   ```
   *Người tổng hợp:* trong vòng k, hàng k và cột k không đổi: d⁽ᵏ⁾ᵢₖ = min(d⁽ᵏ⁻¹⁾ᵢₖ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖₖ) = d⁽ᵏ⁻¹⁾ᵢₖ vì d⁽ᵏ⁻¹⁾ₖₖ = 0 (không chu trình âm); tương tự cho dₖⱼ. Nên dù dᵢₖ, dₖⱼ được đọc trước hay sau khi bị "ghi đè" trong cùng vòng k, giá trị vẫn là của tầng k − 1. Do đó sau vòng k, D = D⁽ᵏ⁾.
-- **25.2-5:** Nếu sửa cách (25.7) xử lý dấu bằng thành: π⁽ᵏ⁾ᵢⱼ = π⁽ᵏ⁻¹⁾ᵢⱼ khi d⁽ᵏ⁻¹⁾ᵢⱼ < d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ, và π⁽ᵏ⁾ᵢⱼ = π⁽ᵏ⁻¹⁾ₖⱼ khi d⁽ᵏ⁻¹⁾ᵢⱼ ≥ d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ, thì định nghĩa có đúng không? *Người tổng hợp:* **không**, vì hai lý do. (1) Với k = j và i ≠ j có đường: d⁽ᵏ⁻¹⁾ᵢⱼ = d⁽ᵏ⁻¹⁾ᵢⱼ + d⁽ᵏ⁻¹⁾ⱼⱼ (vì dⱼⱼ = 0) nên rơi vào nhánh "≥" và π⁽ʲ⁾ᵢⱼ = π⁽ʲ⁻¹⁾ⱼⱼ = NIL — làm mất tiền bối (chính văn bản của sách đã loại trường hợp này bằng điều kiện "k ≠ j"). (2) Kể cả khi loại k = j, nếu có chu trình trọng số 0 thì đồ thị tiền bối có thể có chu trình. Ví dụ: cạnh 1 → 2 (1), 2 → 3 (0), 3 → 2 (0). Ở k = 3: d₁₂ = 1 = d₁₃ + d₃₂ = 1 + 0 nên π₁₂ = π₃₂ = 3, trong khi π₁₃ = 2: hàng 1 cho 2 ← 3 và 3 ← 2, một chu trình không nối với gốc 1. Trên đồ thị không có chu trình 0 và khi bỏ qua k = j, cách sửa cho kết quả đúng. (Một số lời giải lưu hành trả lời "đúng"; người tổng hợp không tra cứu, chỉ tự kiểm tra như trên.)
-- **25.2-6:** Dùng đầu ra của Floyd-Warshall để phát hiện chu trình âm thế nào? *Người tổng hợp:* có chu trình âm khi và chỉ khi có i với d⁽ⁿ⁾ᵢᵢ < 0. Chiều "nếu": dᵢᵢ luôn là trọng số một đường khép kín qua i. Chiều "chỉ nếu": lấy một chu trình âm đơn c có ít nhất hai đỉnh, gọi k là đỉnh số lớn nhất trên c và i là đỉnh đứng ngay sau k trên c. Hai đoạn k ⇝ i và i ⇝ k của c chỉ có đỉnh trung gian số nhỏ hơn k, nên trước vòng k đã có d⁽ᵏ⁻¹⁾ₖᵢ và d⁽ᵏ⁻¹⁾ᵢₖ không lớn hơn trọng số hai đoạn đó (giá trị d luôn không lớn hơn trọng số mọi đường hợp lệ ở tầng tương ứng); vì vậy ở vòng k, d⁽ᵏ⁾ᵢᵢ ≤ d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖᵢ ≤ w(c) < 0, và giá trị ở đường chéo chỉ giảm về sau. (Khuyên âm (k, k) là trường hợp riêng: theo quy ước (25.1) wₖₖ = 0 nên ma trận W không biểu diễn được khuyên; cần kiểm tra riêng — nhận xét của người tổng hợp.)
+- **25.2-5:** Nếu sửa cách (25.7) xử lý dấu bằng thành: π⁽ᵏ⁾ᵢⱼ = π⁽ᵏ⁻¹⁾ᵢⱼ khi d⁽ᵏ⁻¹⁾ᵢⱼ < d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ, và π⁽ᵏ⁾ᵢⱼ = π⁽ᵏ⁻¹⁾ₖⱼ khi d⁽ᵏ⁻¹⁾ᵢⱼ ≥ d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ, thì định nghĩa có đúng không?
+
+  *Người tổng hợp:* **không**, vì hai lý do. (1) Với k = j và i ≠ j có đường: d⁽ᵏ⁻¹⁾ᵢⱼ = d⁽ᵏ⁻¹⁾ᵢⱼ + d⁽ᵏ⁻¹⁾ⱼⱼ (vì dⱼⱼ = 0) nên rơi vào nhánh "≥" và π⁽ʲ⁾ᵢⱼ = π⁽ʲ⁻¹⁾ⱼⱼ = NIL — làm mất tiền bối (chính văn bản của sách đã loại trường hợp này bằng điều kiện "k ≠ j").
+
+  (2) Kể cả khi loại k = j, nếu có chu trình trọng số 0 thì đồ thị tiền bối có thể có chu trình.
+
+  Ví dụ: cạnh 1 → 2 (1), 2 → 3 (0), 3 → 2 (0). Ở k = 3: d₁₂ = 1 = d₁₃ + d₃₂ = 1 + 0 nên π₁₂ = π₃₂ = 3, trong khi π₁₃ = 2: hàng 1 cho 2 ← 3 và 3 ← 2, một chu trình không nối với gốc 1. Trên đồ thị không có chu trình 0 và khi bỏ qua k = j, cách sửa cho kết quả đúng. (Một số lời giải lưu hành trả lời "đúng"; người tổng hợp không tra cứu, chỉ tự kiểm tra như trên.)
+- **25.2-6:** Dùng đầu ra của Floyd-Warshall để phát hiện chu trình âm thế nào?
+
+  *Người tổng hợp:* có chu trình âm khi và chỉ khi có i với d⁽ⁿ⁾ᵢᵢ < 0. Chiều "nếu": dᵢᵢ luôn là trọng số một đường khép kín qua i.
+
+  Chiều "chỉ nếu": lấy một chu trình âm đơn c có ít nhất hai đỉnh, gọi k là đỉnh số lớn nhất trên c và i là đỉnh đứng ngay sau k trên c. Hai đoạn k ⇝ i và i ⇝ k của c chỉ có đỉnh trung gian số nhỏ hơn k, nên trước vòng k đã có d⁽ᵏ⁻¹⁾ₖᵢ và d⁽ᵏ⁻¹⁾ᵢₖ không lớn hơn trọng số hai đoạn đó (giá trị d luôn không lớn hơn trọng số mọi đường hợp lệ ở tầng tương ứng); vì vậy ở vòng k, d⁽ᵏ⁾ᵢᵢ ≤ d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖᵢ ≤ w(c) < 0, và giá trị ở đường chéo chỉ giảm về sau.
+
+  (Khuyên âm (k, k) là trường hợp riêng: theo quy ước (25.1) wₖₖ = 0 nên ma trận W không biểu diễn được khuyên; cần kiểm tra riêng — nhận xét của người tổng hợp.)
 - **25.2-7:** Một cách dựng đường khác dùng φ⁽ᵏ⁾ᵢⱼ — đỉnh trung gian số lớn nhất của một đường ngắn nhất từ i tới j chỉ qua {1, …, k}. Cho truy hồi của φ⁽ᵏ⁾ᵢⱼ, sửa FLOYD-WARSHALL để tính nó, viết lại PRINT-ALL-PAIRS-SHORTEST-PATH nhận ma trận Φ = (φ⁽ⁿ⁾ᵢⱼ). Φ giống bảng s trong bài toán nhân chuỗi ma trận (Mục 15.2) ở điểm nào? *Người tổng hợp:* φ⁽⁰⁾ᵢⱼ = NIL; với k ≥ 1, φ⁽ᵏ⁾ᵢⱼ = φ⁽ᵏ⁻¹⁾ᵢⱼ nếu d⁽ᵏ⁻¹⁾ᵢⱼ ≤ d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ, ngược lại = k. In: nếu φᵢⱼ = NIL thì đường là cạnh (i, j) (in j); ngược lại in đệ quy đường i → φᵢⱼ rồi đường φᵢⱼ → j. Giống bảng s: cả hai lưu "điểm tách" tối ưu của bài toán con (i, j), và lời giải được dựng bằng đệ quy chia đôi tại điểm tách đó.
 - **25.2-8:** Cho thuật toán O(VE) tính bao đóng bắc cầu. *Người tổng hợp:* từ mỗi đỉnh u chạy BFS (hoặc DFS) và đặt t[u][v] = 1 cho mọi v tới được. Mỗi lần duyệt chỉ chạm các đỉnh, cạnh tới được từ u, tốn O(V + E) — tổng O(V(V + E)), là O(VE) khi mọi đỉnh có cạnh (E = Ω(V)); khởi tạo ma trận O(V²) cũng nằm trong cận đó với cùng giả định.
-- **25.2-9:** Giả sử tính được bao đóng bắc cầu của đồ thị có hướng không chu trình trong f(|V|, |E|), f tăng đơn điệu theo |V| và |E|. Chứng minh có thể tính bao đóng bắc cầu G* = (V, E*) của đồ thị có hướng tổng quát trong f(|V|, |E|) + O(V + E*). *Người tổng hợp:* tìm các thành phần liên thông mạnh (Chương 22) và dựng đồ thị thành phần G^SCC — một DAG có ≤ |V| đỉnh và ≤ |E| cạnh — trong O(V + E); tính bao đóng của DAG trong ≤ f(|V|, |E|) (do f đơn điệu); rồi (u, v) ∈ E* khi và chỉ khi thành phần của u tới được thành phần của v: liệt kê bằng cách, với mỗi cặp thành phần (C, C′) tới được nhau, xuất mọi cặp đỉnh trong C × C′ — chi phí tỷ lệ với số cặp xuất ra, O(V + E*). Vì E ⊆ E* nên O(V + E) ⊆ O(V + E*).
+- **25.2-9:** Giả sử tính được bao đóng bắc cầu của đồ thị có hướng không chu trình trong f(|V|, |E|), f tăng đơn điệu theo |V| và |E|. Chứng minh có thể tính bao đóng bắc cầu G* = (V, E*) của đồ thị có hướng tổng quát trong f(|V|, |E|) + O(V + E*).
+
+  *Người tổng hợp:* tìm các thành phần liên thông mạnh (Chương 22) và dựng đồ thị thành phần G^SCC — một DAG có ≤ |V| đỉnh và ≤ |E| cạnh — trong O(V + E); tính bao đóng của DAG trong ≤ f(|V|, |E|) (do f đơn điệu); rồi (u, v) ∈ E* khi và chỉ khi thành phần của u tới được thành phần của v: liệt kê bằng cách, với mỗi cặp thành phần (C, C′) tới được nhau, xuất mọi cặp đỉnh trong C × C′ — chi phí tỷ lệ với số cặp xuất ra, O(V + E*). Vì E ⊆ E* nên O(V + E) ⊆ O(V + E*).
 
 ### Bài tập Mục 25.3 (trang 704–705)
 
@@ -1021,7 +1055,11 @@ Theo hiểu biết của người tổng hợp: ý tưởng "hàm thế" (potent
 - **25.3-3:** Nếu w(u, v) ≥ 0 với mọi cạnh, quan hệ giữa w và ŵ là gì? *Người tổng hợp:* h(v) = δ(s, v) = 0 với mọi v (cạnh s → v trọng số 0 và mọi đường khác không âm), nên ŵ = w.
 - **25.3-4:** Giáo sư Greenstreet đề xuất cách đơn giản hơn: đặt w* = min₍ᵤ,ᵥ₎∈E w(u, v) và ŵ(u, v) = w(u, v) − w* cho mọi cạnh. Sai ở đâu? *Người tổng hợp:* đường có k cạnh bị cộng k · (−w*), nên đường nhiều cạnh bị phạt nhiều hơn và đường ngắn nhất có thể đổi. Phản ví dụ: cạnh u → v trọng số 3, u → x trọng số 1, x → v trọng số 1, và một cạnh y → z trọng số −2 (w* = −2). Theo w: đường u → x → v (2) ngắn hơn u → v (3). Theo ŵ (cộng 2 mỗi cạnh): u → v thành 5, u → x → v thành 3 + 3 = 6 — đường ngắn nhất đã đổi.
 - **25.3-5:** Chạy Johnson trên G có chu trình trọng số 0 là c; chứng minh ŵ(u, v) = 0 với mọi cạnh (u, v) của c. *Người tổng hợp:* theo Bổ đề 25.1, ŵ(c) = w(c) = 0; mọi ŵ ≥ 0; tổng các số không âm bằng 0 thì từng số bằng 0. Ví dụ ngay trong đồ thị của sách: chu trình 4 → 3 → 2 → 4 có w = −5 + 4 + 1 = 0, và ŵ(4, 3) = ŵ(3, 2) = ŵ(2, 4) = 0.
-- **25.3-6:** Giáo sư Michener cho rằng không cần tạo đỉnh mới ở dòng 1 của JOHNSON: dùng G′ = G và lấy s là đỉnh bất kỳ. Cho ví dụ đồ thị làm cách này sai; rồi chứng minh nếu G liên thông mạnh (mọi đỉnh tới được mọi đỉnh) thì kết quả đúng. *Người tổng hợp:* ví dụ hai đỉnh 1, 2 với một cạnh 1 → 2 trọng số −1, chọn s = 2: h(2) = 0, h(1) = δ(2, 1) = ∞, nên ŵ(1, 2) = −1 + ∞ − 0 = ∞ và Dijkstra từ 1 báo không có đường tới 2, trong khi δ(1, 2) = −1. Nếu G liên thông mạnh, mọi h(v) = δ(s, v) hữu hạn, bất đẳng thức tam giác cho ŵ ≥ 0 trên mọi cạnh, Bổ đề 25.1 áp dụng với h bất kỳ, và Bellman-Ford từ s vẫn thấy mọi chu trình âm (vì mọi chu trình tới được từ s); nên kết quả đúng.
+- **25.3-6:** Giáo sư Michener cho rằng không cần tạo đỉnh mới ở dòng 1 của JOHNSON: dùng G′ = G và lấy s là đỉnh bất kỳ. Cho ví dụ đồ thị làm cách này sai; rồi chứng minh nếu G liên thông mạnh (mọi đỉnh tới được mọi đỉnh) thì kết quả đúng.
+
+  *Người tổng hợp:* ví dụ hai đỉnh 1, 2 với một cạnh 1 → 2 trọng số −1, chọn s = 2: h(2) = 0, h(1) = δ(2, 1) = ∞, nên ŵ(1, 2) = −1 + ∞ − 0 = ∞ và Dijkstra từ 1 báo không có đường tới 2, trong khi δ(1, 2) = −1.
+
+  Nếu G liên thông mạnh, mọi h(v) = δ(s, v) hữu hạn, bất đẳng thức tam giác cho ŵ ≥ 0 trên mọi cạnh, Bổ đề 25.1 áp dụng với h bất kỳ, và Bellman-Ford từ s vẫn thấy mọi chu trình âm (vì mọi chu trình tới được từ s); nên kết quả đúng.
 
 ### Problem 25-1: Bao đóng bắc cầu của đồ thị động (Transitive closure of a dynamic graph)
 
@@ -1029,7 +1067,11 @@ Muốn duy trì bao đóng bắc cầu của G = (V, E) khi thêm cạnh vào E:
 
 - **(a)** Cập nhật G* = (V, E*) trong O(V²) khi thêm một cạnh mới vào G. *Người tổng hợp:* thêm (u, v): với mọi x, y, nếu t[x][u] = 1 và t[v][y] = 1 thì đặt t[x][y] = 1. Đúng vì mọi đường mới phải dùng cạnh (u, v) (có thể chỉ cần dùng một lần): x ⇝ u → v ⇝ y. Hai vòng lặp: O(V²).
 - **(b)** Cho ví dụ đồ thị G và cạnh e sao cho cập nhật sau khi thêm e cần Ω(V²), bất kể thuật toán. *Người tổng hợp:* chia V thành hai nửa A, B, mỗi nửa V/2 đỉnh; mọi đỉnh của A có cạnh tới u ∈ A, và v ∈ B có cạnh tới mọi đỉnh của B. Trước khi thêm e = (u, v), không đỉnh nào của A tới được B; sau đó mọi cặp (a, b) ∈ A × B tới được nhau: (V/2)² = V²/4 ô của ma trận đổi từ 0 sang 1, nên phải ghi Ω(V²) ô.
-- **(c)** Cho thuật toán hiệu quả sao cho với mọi dãy n lần thêm, tổng thời gian Σᵢ₌₁ⁿ tᵢ = O(V³) (tᵢ là thời gian cập nhật lần thứ i); chứng minh cận. *Người tổng hợp:* khi thêm (u, v): nếu t[u][v] = 1 thì không làm gì (O(1)). Ngược lại, với mỗi x có t[x][u] = 1 và t[x][v] = 0, gán hàng x = hàng x OR hàng v (O(V)); x có t[x][v] = 1 thì bỏ qua (đã tới được mọi đỉnh mà v tới được). Phân tích: duyệt x tốn O(V) mỗi lần thêm; mỗi lần OR một hàng tốn O(V) nhưng biến ít nhất một ô (t[x][v]) từ 0 thành 1, và ma trận chỉ có V² ô, nên tổng chi phí OR ≤ V² · O(V) = O(V³). Số lần thêm cạnh không quá V² (mỗi cạnh một lần), nên phần duyệt cũng O(V³). (Đây là một phép phân tích khấu hao kiểu Chương 17.)
+- **(c)** Cho thuật toán hiệu quả sao cho với mọi dãy n lần thêm, tổng thời gian Σᵢ₌₁ⁿ tᵢ = O(V³) (tᵢ là thời gian cập nhật lần thứ i); chứng minh cận.
+
+  *Người tổng hợp:* khi thêm (u, v): nếu t[u][v] = 1 thì không làm gì (O(1)). Ngược lại, với mỗi x có t[x][u] = 1 và t[x][v] = 0, gán hàng x = hàng x OR hàng v (O(V)); x có t[x][v] = 1 thì bỏ qua (đã tới được mọi đỉnh mà v tới được).
+
+  Phân tích: duyệt x tốn O(V) mỗi lần thêm; mỗi lần OR một hàng tốn O(V) nhưng biến ít nhất một ô (t[x][v]) từ 0 thành 1, và ma trận chỉ có V² ô, nên tổng chi phí OR ≤ V² · O(V) = O(V³). Số lần thêm cạnh không quá V² (mỗi cạnh một lần), nên phần duyệt cũng O(V³). (Đây là một phép phân tích khấu hao kiểu Chương 17.)
 
 ### Problem 25-2: Đường ngắn nhất trên đồ thị ε-dày (Shortest paths in ε-dense graphs)
 
@@ -1047,7 +1089,13 @@ G = (V, E) là **ε-dày** nếu |E| = Θ(V^(1+ε)) với hằng ε, 0 < ε ≤ 
 - Một số nhà nghiên cứu cải tiến thuật toán tính đường ngắn nhất qua nhân ma trận. **Fredman** chỉ ra cách giải bài toán mọi cặp dùng O(V^(5/2)) phép so sánh giữa các tổng trọng số cạnh, và có thuật toán chạy O(V³ (lg lg V / lg V)^(1/3)), tốt hơn Floyd-Warshall một chút. **Han** giảm xuống O(V³ (lg lg V / lg V)^(5/4)).
 - Một hướng khác áp dụng thuật toán nhân ma trận nhanh (xem ghi chú Chương 4) cho bài toán mọi cặp. Gọi O(n^ω) là thời gian của thuật toán nhân hai ma trận n × n nhanh nhất; hiện ω < 2,376. **Galil và Margalit**, và **Seidel**, thiết kế thuật toán giải bài toán mọi cặp trên đồ thị vô hướng không trọng số trong O(V^ω p(V)), với p(n) là một hàm bị chặn bởi đa thức của lg n. Trên đồ thị dày, chúng nhanh hơn O(VE) cần cho |V| lần tìm kiếm theo chiều rộng. Một số tác giả mở rộng cho đồ thị vô hướng có trọng số nguyên trong {1, 2, …, W}; nhanh nhất về tiệm cận là của **Shoshan và Zwick**, chạy O(W V^ω p(VW)).
 - **Karger, Koller và Phillips**, và độc lập **McGeoch**, cho cận thời gian phụ thuộc vào E* — tập các cạnh của E có mặt trong ít nhất một đường ngắn nhất. Với trọng số không âm, thuật toán của họ chạy O(VE* + V² lg V), tốt hơn chạy Dijkstra |V| lần khi |E*| = o(E).
-- **Baswana, Hariharan và Sen** nghiên cứu thuật toán *giảm dần* (decremental) duy trì thông tin đường ngắn nhất mọi cặp và bao đóng bắc cầu: cho phép một dãy xen kẽ thao tác xoá cạnh và truy vấn (so với Problem 25-1, nơi cạnh được thêm, đòi hỏi thuật toán *tăng dần* — incremental). Thuật toán của họ là ngẫu nhiên; khi có đường, thuật toán bao đóng có thể không báo được với xác suất 1/n^c với c > 0 tuỳ ý. Thời gian truy vấn O(1) với xác suất cao. Với bao đóng bắc cầu, thời gian khấu hao mỗi cập nhật là O(V^(4/3) lg^(1/3) V). Với đường ngắn nhất mọi cặp, thời gian cập nhật phụ thuộc loại truy vấn: nếu chỉ hỏi trọng số, khấu hao O(V³/E lg² V) mỗi cập nhật; để báo cả đường đi, khấu hao min(O(V^(3/2) √(lg V)), O(V³/E lg² V)). **Demetrescu và Italiano** chỉ cách xử lý cập nhật và truy vấn khi cạnh vừa được thêm vừa được xoá, miễn là mỗi cạnh có miền giá trị khả dĩ bị chặn, lấy từ tập số thực.
+- **Baswana, Hariharan và Sen** nghiên cứu thuật toán *giảm dần* (decremental) duy trì thông tin đường ngắn nhất mọi cặp và bao đóng bắc cầu: cho phép một dãy xen kẽ thao tác xoá cạnh và truy vấn (so với Problem 25-1, nơi cạnh được thêm, đòi hỏi thuật toán *tăng dần* — incremental).
+
+  Thuật toán của họ là ngẫu nhiên; khi có đường, thuật toán bao đóng có thể không báo được với xác suất 1/n^c với c > 0 tuỳ ý. Thời gian truy vấn O(1) với xác suất cao.
+
+  Với bao đóng bắc cầu, thời gian khấu hao mỗi cập nhật là O(V^(4/3) lg^(1/3) V). Với đường ngắn nhất mọi cặp, thời gian cập nhật phụ thuộc loại truy vấn: nếu chỉ hỏi trọng số, khấu hao O(V³/E lg² V) mỗi cập nhật; để báo cả đường đi, khấu hao min(O(V^(3/2) √(lg V)), O(V³/E lg² V)).
+
+  **Demetrescu và Italiano** chỉ cách xử lý cập nhật và truy vấn khi cạnh vừa được thêm vừa được xoá, miễn là mỗi cạnh có miền giá trị khả dĩ bị chặn, lấy từ tập số thực.
 - **Aho, Hopcroft và Ullman** định nghĩa cấu trúc đại số gọi là **nửa vành đóng** (closed semiring), làm khung tổng quát giải các bài toán đường đi trên đồ thị có hướng. Cả Floyd-Warshall lẫn thuật toán bao đóng bắc cầu ở Mục 25.2 đều là trường hợp riêng của một thuật toán mọi cặp dựa trên nửa vành đóng. **Maggs và Plotkin** chỉ cách tìm cây khung nhỏ nhất bằng nửa vành đóng.
 
 ## Luận điểm cốt lõi
@@ -1209,7 +1257,7 @@ Phép nhân ma trận (min, +) là đối tượng nghiên cứu lý thuyết l�
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 25 trên một trang: sáu nhánh lớn đi theo trình tự của chương gốc (phần mở đầu với bài toán và cách giải ngây thơ, Mục 25.1 nhân ma trận, Mục 25.2 Floyd-Warshall và bao đóng bắc cầu, Mục 25.3 Johnson, các bài toán cuối chương và ghi chú chương), mỗi nhánh ghi công thức truy hồi, thủ tục, bổ đề và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 25 trên một trang: sáu nhánh lớn đi theo trình tự của chương gốc (phần mở đầu với bài toán và cách giải ngây thơ, Mục 25.1 nhân ma trận, Mục 25.2 Floyd-Warshall và bao đóng bắc cầu, Mục 25.3 Johnson, các bài tập, bài toán cuối chương và ghi chú chương), mỗi nhánh ghi công thức truy hồi, thủ tục, bổ đề, ví dụ và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1228,71 +1276,81 @@ flowchart LR
   n1 --- n4
   n5["`Đầu vào ma trận trọng số W với wᵢᵢ = 0 và ∞ khi không có cạnh, cho phép cạnh âm nhưng không chu trình âm`"]
   n1 --- n5
-  n6["`Mục 25.1 — Đường đi ngắn nhất và phép nhân ma trận`"]
-  n0 --- n6
-  n7["`l⁽ᵐ⁾ᵢⱼ là trọng số nhỏ nhất của đường từ i tới j có không quá m cạnh`"]
-  n6 --- n7
-  n8["`Truy hồi l⁽ᵐ⁾ᵢⱼ = min theo k của l⁽ᵐ⁻¹⁾ᵢₖ + wₖⱼ, đáp số là L⁽ⁿ⁻¹⁾ vì đường ngắn nhất đơn có tối đa n − 1 cạnh`"]
-  n6 --- n8
-  n9["`EXTEND-SHORTEST-PATHS chính là nhân ma trận khi thay (+, ·) bằng (min, +), tốn Θ(n³)`"]
-  n6 --- n9
-  n10["`SLOW-ALL-PAIRS-SHORTEST-PATHS làm n − 2 phép tích, chạy Θ(n⁴)`"]
-  n6 --- n10
-  n11["`Phép tích (min, +) có tính kết hợp nên bình phương lặp chỉ cần ⌈lg(n − 1)⌉ phép tích, chạy Θ(n³ lg n)`"]
-  n6 --- n11
-  n12["`Mục 25.2 — Thuật toán Floyd-Warshall`"]
-  n0 --- n12
-  n13["`d⁽ᵏ⁾ᵢⱼ là đường ngắn nhất từ i tới j chỉ dùng đỉnh trung gian trong {1, …, k}`"]
-  n12 --- n13
-  n14["`Đường hoặc không qua k, hoặc đi i tới k rồi k tới j: d⁽ᵏ⁾ᵢⱼ = min(d⁽ᵏ⁻¹⁾ᵢⱼ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ)`"]
-  n12 --- n14
-  n15["`FLOYD-WARSHALL ba vòng lặp lồng nhau với k ngoài cùng, Θ(n³), hằng số nhỏ`"]
-  n12 --- n15
-  n16["`Ma trận tiền bối Π⁽ᵏ⁾ tính song song với D⁽ᵏ⁾ theo công thức (25.6)–(25.7)`"]
-  n12 --- n16
-  n17["`Bao đóng bắc cầu TRANSITIVE-CLOSURE thay (min, +) bằng (∨, ∧), vẫn Θ(n³) nhưng phép toán bit nhanh và ít bộ nhớ`"]
-  n12 --- n17
-  n18["`Mục 25.3 — Thuật toán Johnson cho đồ thị thưa`"]
-  n0 --- n18
-  n19["`Đổi trọng số ŵ(u, v) = w(u, v) + h(u) − h(v) để mọi cạnh không âm rồi chạy Dijkstra`"]
-  n18 --- n19
-  n20["`Bổ đề 25.1: tổng lồng kính chỉ còn h(v₀) − h(vₖ) nên giữ nguyên đường ngắn nhất và dấu của chu trình`"]
-  n18 --- n20
-  n21["`Thêm đỉnh nguồn mới s nối tới mọi đỉnh bằng cạnh trọng số 0, lấy h(v) = δ(s, v)`"]
-  n18 --- n21
-  n22["`Bất đẳng thức tam giác cho h(v) ≤ h(u) + w(u, v) nên ŵ ≥ 0`"]
-  n18 --- n22
-  n23["`JOHNSON gồm một lần Bellman-Ford O(VE) để tính h hoặc báo chu trình âm, rồi |V| lần Dijkstra`"]
-  n18 --- n23
-  n24["`Đáp số dᵤᵥ = δ̂(u, v) + h(v) − h(u), tổng O(V² lg V + VE) với đống Fibonacci`"]
-  n18 --- n24
-  n25["`Bài toán 25-1, 25-2 và ghi chú chương`"]
-  n0 --- n25
-  n26["`Problem 25-1: bao đóng bắc cầu của đồ thị chỉ thêm cạnh, cập nhật O(V²) mỗi cạnh, tổng O(V³)`"]
-  n25 --- n26
-  n27["`Problem 25-2: đồ thị ε-dày dùng đống d-phân với d = V^ε, mọi cặp chạy O(VE)`"]
-  n25 --- n27
-  n28["`Floyd-Warshall dựa trên định lý của Warshall về bao đóng bắc cầu của ma trận Boole`"]
-  n25 --- n28
-  n29["`Nhân ma trận nhanh O(n^ω) cho thuật toán Galil–Margalit, Seidel trên đồ thị vô hướng không trọng số`"]
-  n25 --- n29
-  n30["`Aho–Hopcroft–Ullman: nửa vành đóng là khung chung, Floyd-Warshall và bao đóng bắc cầu là hai trường hợp riêng`"]
-  n25 --- n30
-  n31["`Thông điệp xuyên suốt`"]
-  n0 --- n31
-  n32["`Cùng một bài toán, hai cách chia bài toán con theo số cạnh và theo đỉnh trung gian cho hai độ phức tạp khác nhau`"]
-  n31 --- n32
-  n33["`Chọn biến trạng thái quyết định độ phức tạp, đúng tinh thần quy hoạch động của Chương 15`"]
-  n31 --- n33
-  n34["`Góc nhìn đại số (min, +) giải thích bình phương lặp và nối Floyd-Warshall với Warshall`"]
-  n31 --- n34
-  n35["`Ý tưởng hàm thế của Johnson dùng lại trong luồng chi phí nhỏ nhất và A∗`"]
-  n31 --- n35
-  n36["`Đồ thị dày dùng Floyd-Warshall, đồ thị thưa có cạnh âm dùng Johnson`"]
-  n31 --- n36
+  n6["`Đồ thị ví dụ 5 đỉnh 9 cạnh, δ(1, 2) = 1 theo đường 1 → 5 → 4 → 3 → 2, nhẹ hơn cạnh trực tiếp nặng 3`"]
+  n1 --- n6
+  n7["`Mục 25.1 — Đường đi ngắn nhất và phép nhân ma trận`"]
+  n0 --- n7
+  n8["`l⁽ᵐ⁾ᵢⱼ là trọng số nhỏ nhất của đường từ i tới j có không quá m cạnh`"]
+  n7 --- n8
+  n9["`Truy hồi l⁽ᵐ⁾ᵢⱼ = min theo k của l⁽ᵐ⁻¹⁾ᵢₖ + wₖⱼ, đáp số là L⁽ⁿ⁻¹⁾ vì đường ngắn nhất đơn có tối đa n − 1 cạnh`"]
+  n7 --- n9
+  n10["`EXTEND-SHORTEST-PATHS chính là nhân ma trận khi thay (+, ·) bằng (min, +) và ∞ đóng vai số 0, tốn Θ(n³)`"]
+  n7 --- n10
+  n11["`SLOW-ALL-PAIRS-SHORTEST-PATHS làm n − 2 phép tích, chạy Θ(n⁴)`"]
+  n7 --- n11
+  n12["`Phép tích (min, +) có tính kết hợp nên bình phương lặp chỉ cần ⌈lg(n − 1)⌉ phép tích, chạy Θ(n³ lg n)`"]
+  n7 --- n12
+  n13["`Với n = 1000 cách chậm cần 998 phép tích, bình phương lặp chỉ cần 10`"]
+  n7 --- n13
+  n14["`Mục 25.2 — Thuật toán Floyd-Warshall`"]
+  n0 --- n14
+  n15["`d⁽ᵏ⁾ᵢⱼ là đường ngắn nhất từ i tới j chỉ dùng đỉnh trung gian trong {1, …, k}`"]
+  n14 --- n15
+  n16["`Đường hoặc không qua k, hoặc đi i tới k rồi k tới j: d⁽ᵏ⁾ᵢⱼ = min(d⁽ᵏ⁻¹⁾ᵢⱼ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ)`"]
+  n14 --- n16
+  n17["`FLOYD-WARSHALL ba vòng lặp lồng nhau với k ngoài cùng, Θ(n³), hằng số nhỏ, ghi đè một ma trận chỉ cần Θ(n²) bộ nhớ`"]
+  n14 --- n17
+  n18["`Ma trận tiền bối Π⁽ᵏ⁾ tính song song với D⁽ᵏ⁾ theo (25.6)–(25.7), khi bằng nhau giữ tiền bối cũ`"]
+  n14 --- n18
+  n19["`Có chu trình âm khi và chỉ khi đường chéo kết quả có dᵢᵢ #lt; 0`"]
+  n14 --- n19
+  n20["`Bao đóng bắc cầu TRANSITIVE-CLOSURE thay (min, +) bằng (∨, ∧), vẫn Θ(n³) nhưng phép toán bit nhanh và ít bộ nhớ`"]
+  n14 --- n20
+  n21["`Mục 25.3 — Thuật toán Johnson cho đồ thị thưa`"]
+  n0 --- n21
+  n22["`Đổi trọng số ŵ(u, v) = w(u, v) + h(u) − h(v) để mọi cạnh không âm rồi chạy Dijkstra`"]
+  n21 --- n22
+  n23["`Bổ đề 25.1: tổng lồng kính chỉ còn h(v₀) − h(vₖ) nên giữ nguyên đường ngắn nhất và dấu của chu trình`"]
+  n21 --- n23
+  n24["`Thêm đỉnh nguồn mới s nối tới mọi đỉnh bằng cạnh trọng số 0, lấy h(v) = δ(s, v), bất đẳng thức tam giác cho ŵ ≥ 0`"]
+  n21 --- n24
+  n25["`Ví dụ h = (0, −1, −5, 0, −4), cạnh âm (4, 3) nặng −5 thành 0, các cạnh nằm trên đường ngắn nhất từ s đều có ŵ = 0`"]
+  n21 --- n25
+  n26["`JOHNSON gồm một lần Bellman-Ford O(VE) để tính h hoặc báo chu trình âm, rồi |V| lần Dijkstra`"]
+  n21 --- n26
+  n27["`Đáp số dᵤᵥ = δ̂(u, v) + h(v) − h(u), tổng O(V² lg V + VE) với đống Fibonacci, O(VE lg V) với đống nhị phân`"]
+  n21 --- n27
+  n28["`Bài tập, bài toán 25-1, 25-2 và ghi chú chương`"]
+  n0 --- n28
+  n29["`Exercise 25.3-4: trừ cùng một hằng số cho mọi cạnh là sai vì đường nhiều cạnh bị cộng nhiều hơn`"]
+  n28 --- n29
+  n30["`Exercise 25.2-5: người tổng hợp chỉ ra đổi cách xử lý dấu bằng trong (25.7) là sai, có hai phản ví dụ`"]
+  n28 --- n30
+  n31["`Problem 25-1: bao đóng bắc cầu của đồ thị chỉ thêm cạnh, cập nhật O(V²) mỗi cạnh, tổng O(V³)`"]
+  n28 --- n31
+  n32["`Problem 25-2: đồ thị ε-dày dùng đống d-phân với d = V^ε, mọi cặp chạy O(VE)`"]
+  n28 --- n32
+  n33["`Floyd-Warshall dựa trên định lý của Warshall về bao đóng bắc cầu của ma trận Boole`"]
+  n28 --- n33
+  n34["`Nhân ma trận nhanh O(n^ω) cho thuật toán Galil–Margalit, Seidel trên đồ thị vô hướng không trọng số`"]
+  n28 --- n34
+  n35["`Aho–Hopcroft–Ullman: nửa vành đóng là khung chung, Floyd-Warshall và bao đóng bắc cầu là hai trường hợp riêng`"]
+  n28 --- n35
+  n36["`Thông điệp xuyên suốt`"]
+  n0 --- n36
+  n37["`Cùng một bài toán, hai cách chia bài toán con theo số cạnh và theo đỉnh trung gian cho hai độ phức tạp khác nhau`"]
+  n36 --- n37
+  n38["`Chọn biến trạng thái quyết định độ phức tạp, đúng tinh thần quy hoạch động của Chương 15`"]
+  n36 --- n38
+  n39["`Góc nhìn đại số (min, +) giải thích bình phương lặp và nối Floyd-Warshall với Warshall`"]
+  n36 --- n39
+  n40["`Ý tưởng hàm thế của Johnson dùng lại trong luồng chi phí nhỏ nhất và A#42;`"]
+  n36 --- n40
+  n41["`Đồ thị dày dùng Floyd-Warshall, đồ thị thưa có cạnh âm dùng Johnson, bộ nhớ Θ(n²) là giới hạn thực sự`"]
+  n36 --- n41
   class n0 root
-  class n1,n6,n12,n18,n25,n31 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36 leaf
+  class n1,n7,n14,n21,n28,n36 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41 leaf
 ```
 
 ## Nguồn
@@ -1314,8 +1372,16 @@ Chương 25 mở rộng sang bài toán cho MỌI cặp đỉnh: ba thuật toá
 ## Lưu ý
 
 - **Không có mục có dấu sao (★) trong chương này, và không có bài tập hay bài toán nào được đánh dấu sao.**
-- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương:** chỉ số trên có ngoặc vỡ thành dạng `l .m/NUL1/ij` (là l⁽ᵐ⁻¹⁾ᵢⱼ), `‚.V 3 lg V/` là Θ(V³ lg V), `1` là ∞, `/NUL` là dấu trừ, `yw` là ŵ, `yı` là δ̂, `¤` là ≠, mất hết dấu ≤ ≥ (ví dụ "for m 1" là m ≥ 1, "n/NUL 1 2m < 2n/NUL 2" là n − 1 ≤ 2m < 2n − 2). Các ma trận ở Hình 25.1, 25.4, 25.5 bị dồn số thành chuỗi không tách được ("03 8 1/NUL 4"); chú thích Hình 25.6 bị xáo thứ tự dòng. Toàn bộ pseudocode, công thức (25.1)–(25.10), các ma trận và hình trong bản tổng hợp được đọc lại từ ảnh trang 685, 687–692, 694–699, 701–704, 706–707; đồ thị Hình 25.2 và Hình 25.6 được phóng to riêng để đọc đúng chiều mũi tên và trọng số.
-- **Chỗ sách in thiếu (nhận xét của người tổng hợp):** (1) trang 702 viết "the usual |V| × |V| matrix D = dᵢⱼ" — thiếu ngoặc, đúng ra D = (dᵢⱼ) như mọi chỗ khác; (2) Ghi chú chương trang 707 viết các thuật toán của Galil–Margalit và Seidel chạy "in (V^ω p(V)) time" — thiếu chữ O, đúng ra O(V^ω p(V)); (3) trang 693 viết trong ngoặc "(Path p is simple.)" về đường trọng số nhỏ nhất p — khi đồ thị có chu trình trọng số 0, đường nhỏ nhất có thể không đơn; chính xác hơn là "có thể chọn p đơn". Chính đồ thị ví dụ của sách (Hình 25.1) có chu trình 4 → 3 → 2 → 4 trọng số −5 + 4 + 1 = 0. (4) Thủ tục FLOYD-WARSHALL dựa vào điều kiện d⁽ᵏ⁻¹⁾ₖₖ = 0, đúng khi không có chu trình âm; sách nêu giả định này ở đầu mục nhưng không nhắc lại khi dùng. Người tổng hợp không chắc các chỗ này có trong danh sách lỗi chính thức (errata) hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương:** chỉ số trên có ngoặc vỡ thành dạng `l .m/NUL1/ij` (là l⁽ᵐ⁻¹⁾ᵢⱼ), `‚.V 3 lg V/` là Θ(V³ lg V), `1` là ∞, `/NUL` là dấu trừ, `yw` là ŵ, `yı` là δ̂, `¤` là ≠, mất hết dấu ≤ ≥ (ví dụ "for m 1" là m ≥ 1, "n/NUL 1 2m < 2n/NUL 2" là n − 1 ≤ 2m < 2n − 2).
+
+  Các ma trận ở Hình 25.1, 25.4, 25.5 bị dồn số thành chuỗi không tách được ("03 8 1/NUL 4"); chú thích Hình 25.6 bị xáo thứ tự dòng.
+
+  Toàn bộ pseudocode, công thức (25.1)–(25.10), các ma trận và hình trong bản tổng hợp được đọc lại từ ảnh trang 685, 687–692, 694–699, 701–704, 706–707; đồ thị Hình 25.2 và Hình 25.6 được phóng to riêng để đọc đúng chiều mũi tên và trọng số.
+- **Chỗ sách in thiếu (nhận xét của người tổng hợp):** (1) trang 702 viết "the usual |V| × |V| matrix D = dᵢⱼ" — thiếu ngoặc, đúng ra D = (dᵢⱼ) như mọi chỗ khác; (2) Ghi chú chương trang 707 viết các thuật toán của Galil–Margalit và Seidel chạy "in (V^ω p(V)) time" — thiếu chữ O, đúng ra O(V^ω p(V));
+
+  (3) trang 693 viết trong ngoặc "(Path p is simple.)" về đường trọng số nhỏ nhất p — khi đồ thị có chu trình trọng số 0, đường nhỏ nhất có thể không đơn; chính xác hơn là "có thể chọn p đơn". Chính đồ thị ví dụ của sách (Hình 25.1) có chu trình 4 → 3 → 2 → 4 trọng số −5 + 4 + 1 = 0.
+
+  (4) Thủ tục FLOYD-WARSHALL dựa vào điều kiện d⁽ᵏ⁻¹⁾ₖₖ = 0, đúng khi không có chu trình âm; sách nêu giả định này ở đầu mục nhưng không nhắc lại khi dùng. Người tổng hợp không chắc các chỗ này có trong danh sách lỗi chính thức (errata) hay không — theo hiểu biết của người tổng hợp, không tra cứu.
 - **Exercise 25.2-5 (nhận xét của người tổng hợp):** đề hỏi một cách xử lý dấu bằng khác cho (25.7) "có đúng không". Theo tính toán của người tổng hợp câu trả lời là KHÔNG (hai phản ví dụ ở phần Bài tập), dù một số lời giải lưu hành trên mạng trả lời "đúng" — người tổng hợp không tra cứu, chỉ tự kiểm tra.
 - **Mọi ví dụ chạy tay trong sách đã được tự tính lại và đều đúng:** bốn ma trận L⁽¹⁾…L⁽⁴⁾ của Hình 25.1 (và L⁽⁵⁾ = L⁽⁴⁾ như chú thích hình gợi ý); sáu cặp ma trận D⁽ᵏ⁾, Π⁽ᵏ⁾ của Hình 25.4; năm ma trận T⁽ᵏ⁾ của Hình 25.5; các giá trị h, trọng số mới ŵ và mười cặp δ̂/δ ở Hình 25.6. Người tổng hợp cũng tự tính lời giải cho Exercise 25.1-1, 25.2-1, 25.3-1 trên đồ thị Hình 25.2.
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương này thành Chương 23 (do Phần VI được đánh số lại); ba thuật toán (nhân ma trận lặp, Floyd-Warshall kèm bao đóng bắc cầu, Johnson) vẫn giữ nguyên. Ấn bản 4 bỏ thuộc tính `A.rows`, truyền kích thước n như một tham số của thủ tục. Các thay đổi chi tiết hơn về ký hiệu và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
