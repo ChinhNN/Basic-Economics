@@ -1,24 +1,14 @@
 # Chương 27 — Thuật toán đa luồng (Multithreaded Algorithms)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009). Gồm hai phần: Phần VII "Selected Topics" — trang tên phần (trang 768, không in số; trang 767 để trắng) và lời giới thiệu Phần VII (Introduction, trang 769–771); Chương 27 "Multithreaded Algorithms", trang 772–812.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS". Riêng Charles E. Leiserson là một trong những người dẫn dắt dự án Cilk ở MIT, nguồn gốc trực tiếp của mô hình lập trình trong chương này (theo chính phần Ghi chú chương).
-**Vị trí trong lập luận của cả cuốn sách:** Sáu phần đầu của sách đều làm việc trên mô hình máy RAM tuần tự của Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)): mỗi lúc chỉ một lệnh được thực hiện. Phần VII "Các chủ đề chọn lọc" mở rộng và bổ sung cho phần trước: một số chương đưa vào mô hình tính toán mới (mạch, máy song song), một số đi vào lĩnh vực chuyên biệt (hình học tính toán, lý thuyết số), hai chương cuối bàn giới hạn của việc thiết kế thuật toán hiệu quả. Chương 27 là chương đầu tiên của Phần VII và là chỗ duy nhất trong sách thay mô hình tuần tự bằng **mô hình song song đa luồng động** (dynamic multithreading). Chương dùng lại rất nhiều thứ đã có: dãy Fibonacci và tỷ lệ vàng của Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)); truy hồi, định lý thợ, Bài tập 4.6-2 và các thuật toán nhân ma trận (ba vòng lặp lồng, chia để trị tám phép nhân, Strassen) của Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)); sắp xếp trộn và thủ tục MERGE của Chương 2; đường đi dài nhất trong dag của Mục 24.2 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)); PARTITION và RANDOMIZED-QUICKSORT của Chương 7 ([C07-quicksort.md](C07-quicksort.md)); RANDOMIZED-SELECT và SELECT của Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)); thuật toán Floyd-Warshall của Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)); LCS và mẫu "ô phụ thuộc ô trên, ô trái" của Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)). Bài toán cuối chương nhìn về phía trước: song song hoá phân tích LU/LUP của Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) và RECURSIVE-FFT của Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)). Các chương còn lại của Phần VII: [C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md), [C31-thuat-toan-so-hoc.md](C31-thuat-toan-so-hoc.md), [C32-so-khop-chuoi.md](C32-so-khop-chuoi.md), [C33-hinh-hoc-tinh-toan.md](C33-hinh-hoc-tinh-toan.md), [C34-np-day-du.md](C34-np-day-du.md), [C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md).
-**Ý chính:** Tác giả muốn người đọc thấy rằng **chỉ cần thêm ba từ khoá — spawn, sync và parallel — vào mã giả tuần tự là mô tả được một thuật toán song song trên máy nhiều nhân bộ nhớ chung; hiệu năng của nó được đo bằng hai con số độc lập với máy là khối lượng công việc T₁ (work, thời gian chạy trên một bộ xử lý) và độ dài đường găng T∞ (span, thời gian chạy khi có vô hạn bộ xử lý); hai con số này cho cận dưới T_P ≥ max(T₁/P, T∞), và bất kỳ bộ lập lịch tham lam nào cũng đạt T_P ≤ T₁/P + T∞ — tức là trong phạm vi hệ số 2 của tối ưu, và gần tăng tốc tuyến tính hoàn hảo khi độ song song T₁/T∞ lớn hơn nhiều so với số bộ xử lý P. Vì vậy mục tiêu thiết kế là giữ khối lượng công việc bằng bản tuần tự tốt nhất và làm đường găng càng ngắn càng tốt.** Mục 27.1 xây mô hình qua ví dụ P-FIB: song song lồng nhau (spawn/sync), đồ thị tính toán (dag) gồm các mạch (strand) với bốn loại cạnh, máy tính song song lý tưởng có bộ nhớ nhất quán tuần tự, luật khối lượng công việc T_P ≥ T₁/P, luật đường găng T_P ≥ T∞, hệ số tăng tốc, độ song song, độ dư song song; Định lý 27.1 về lập lịch tham lam và hai hệ quả; quy tắc ghép nối tiếp (cộng span) và song song (lấy max span); vòng lặp **parallel for** được biên dịch thành cây chia đôi nên tốn thêm Θ(lg n) span; tranh chấp tất định (determinacy race) và câu chuyện chương trình cờ vua ★Socrates cho thấy "nhanh hơn trên 32 bộ xử lý" có thể "chậm hơn trên 512 bộ xử lý". Mục 27.2 song song hoá nhân ma trận: ba vòng lặp lồng (work Θ(n³), span Θ(n)), chia để trị tám phép nhân với ma trận tạm (span Θ(lg² n), độ song song Θ(n³/lg² n)) và Strassen (work Θ(n^lg 7), span Θ(lg² n)). Mục 27.3 song song hoá sắp xếp trộn: chỉ sinh nhánh hai lời gọi đệ quy thì độ song song chỉ Θ(lg n) vì MERGE tuần tự là nút cổ chai; trộn song song P-MERGE (lấy trung vị của mảng dài hơn, tìm nhị phân vị trí của nó trong mảng kia, đặt vào chỗ, đệ quy hai nửa song song) có work Θ(n), span Θ(lg² n); P-MERGE-SORT có work Θ(n lg n), span Θ(lg³ n), độ song song Θ(n/lg² n).
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong chương này.** Dấu sao chỉ có ở hai bài tập: Exercise 27.3-5 (song song hoá RANDOMIZED-SELECT) và Exercise 27.3-6 (song song hoá SELECT). Ký hiệu "★" trong tên chương trình cờ vua "★Socrates" (trang 790) là một phần của tên riêng, không phải dấu bài khó.
-> - **Lớp chữ PDF hỏng nặng ký hiệu toán của chương, đã đọc lại từ ảnh trang:** "T1" của lớp chữ dùng chung cho cả T₁ (work) lẫn T∞ (span) — ký hiệu ∞ mất hoàn toàn, nên các công thức "T1=T1" thực ra là T₁/T∞; "‚.n/" là Θ(φⁿ) (ký hiệu φ mất); "PM1", "PMS1", "MS01", "M1" lẫn lộn chỉ số 1 và ∞; mọi dấu ≤, ≥, ≪ bị mất (ví dụ "TP T1=P" là T_P ≥ T₁/P); "˛" là α, "˝" là ⊗; "AŒq3" là A[q₃]; dòng 3 của P-MERGE mất chú thích "// ensure that n₁ ≥ n₂". Toàn bộ pseudocode, công thức (27.1)–(27.11), Định lý 27.1, Hệ quả 27.2–27.3 và Hình 27.1–27.6 trong bản tổng hợp này được đối chiếu với ảnh các trang 774–812. Hình 27.1, 27.2, 27.4, 27.5, 27.6 gần như không còn gì trong lớp chữ; người tổng hợp đọc trên ảnh và vẽ lại bằng sơ đồ text/bảng.
-> - **Lỗi in và chỗ chưa chặt của sách (nhận xét của người tổng hợp):**
->   - Trang 800, lời giải thích dòng 10 của P-MERGE viết "all the elements in T[q₂ .. p₂] are at least as large as T[q₁]"; đúng phải là **T[q₂ .. r₂]**.
->   - Trang 774 thiếu chữ: "as well how the underlying concurrency platform…" (đúng: "as well as how"). Trang 790 "processsors" (thừa chữ s). Trang 792 "straighforward" (thiếu chữ t). Trang 795 "add the products from T into C in using…" (thừa chữ "in").
->   - Truy hồi (27.9) viết số hạng cộng thêm là O(lg n), nhưng dòng thế ngay sau lại viết Θ(lg n). Không ảnh hưởng kết luận.
->   - Phép thế cho FIB (trang 775–776) chỉ chứng minh T(n) ≤ aFₙ − b, tức là cận trên O(Fₙ); sách viết kết luận T(n) = Θ(Fₙ) mà không nêu cận dưới (cận dưới dễ: số lời gọi là 2Fₙ₊₁ − 1 ≥ Fₙ).
->   - Sách nói khi trộn lẫn lệnh của hai bộ xử lý trong RACE-EXAMPLE thì "most orderings produce correct results". Nếu đếm đều mọi cách xen kẽ hai chuỗi 3 lệnh thì có C(6, 3) = 20 cách, và chỉ **2** cách cho kết quả đúng 2 (một bộ xử lý làm xong hết rồi bộ kia mới đọc); 18 cách còn lại in ra 1. Câu của sách chỉ đúng theo nghĩa thực tế (ba lệnh của một bộ xử lý chạy rất sát nhau nên hiếm khi bị chen ngang), không đúng theo nghĩa đếm thứ tự.
->   - Sách gọi độ song song Θ(n^lg 7/lg² n) của Strassen đa luồng là "slightly less" so với Θ(n³/lg² n). Thực ra chênh lệch là một luỹ thừa của n (hệ số n^(3 − lg 7) ≈ n^0,19), tuy với n thực tế thì vẫn nhỏ.
->   - P-MERGE-SORT không xử lý trường hợp mảng rỗng (n = 0): khi đó dòng 5 cho q = p − 1, dòng 7 gọi lại chính bài toán rỗng và đệ quy không dừng. Thủ tục ngầm giả định n ≥ 1.
->   - Người tổng hợp không chắc những chỗ trên có nằm trong danh sách errata chính thức của ấn bản 3 hay không (không tra cứu).
-> - **Các ví dụ chạy tay đã tự kiểm tra lại:** cây đệ quy FIB(6) có 25 nút (= 2F₇ − 1); dag P-FIB(4) có 17 mạch, đường găng 8 mạch, độ song song 17/8 = 2,125 (khớp sách); dag MAT-VEC-MAIN-LOOP(A, x, y, 8, 1, 8) có 7 · 3 + 8 = 29 mạch và đường găng 10 mạch; bảng giá trị x, r₁, r₂ của RACE-EXAMPLE khớp sách; ví dụ cờ vua: T₃₂ = 2048/32 + 1 = 65, T′₃₂ = 1024/32 + 8 = 40, T₅₁₂ = 4 + 1 = 5, T′₅₁₂ = 2 + 8 = 10 — đều khớp sách. Người tổng hợp tự chạy tay thêm P-MERGE trên ⟨2, 5, 8, 9⟩ và ⟨1, 6, 7⟩, P-SCAN-3 trên ⟨1, 2, 3, 4, 5⟩ và một lịch tham lam cho P-FIB(5) trên 3 bộ xử lý (phần Nội dung chi tiết và Bài tập).
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương này trở thành Chương 26 với tên "Parallel Algorithms"; mô hình được gọi là song song fork-join (fork-join parallelism), vẫn dùng các từ khoá spawn, sync và parallel for. Phần VII của ấn bản 4 có thêm hai chương mới là "Online Algorithms" và "Machine-Learning Algorithms", nên lời giới thiệu Phần VII cũng khác. Các chi tiết khác (ví dụ câu chuyện ★Socrates còn hay không, đánh số bài tập), người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc thấy rằng **chỉ cần thêm ba từ khoá — spawn, sync và parallel — vào mã giả tuần tự là mô tả được một thuật toán song song trên máy nhiều nhân bộ nhớ chung; hiệu năng của nó được đo bằng hai con số độc lập với máy là khối lượng công việc T₁ (work, thời gian chạy trên một bộ xử lý) và độ dài đường găng T∞ (span, thời gian chạy khi có vô hạn bộ xử lý); hai con số này cho cận dưới T_P ≥ max(T₁/P, T∞), và bất kỳ bộ lập lịch tham lam nào cũng đạt T_P ≤ T₁/P + T∞ — tức là trong phạm vi hệ số 2 của tối ưu, và gần tăng tốc tuyến tính hoàn hảo khi độ song song T₁/T∞ lớn hơn nhiều so với số bộ xử lý P. Vì vậy mục tiêu thiết kế là giữ khối lượng công việc bằng bản tuần tự tốt nhất và làm đường găng càng ngắn càng tốt.**
+
+Mục 27.1 xây mô hình qua ví dụ P-FIB: song song lồng nhau (spawn/sync), đồ thị tính toán (dag) gồm các mạch (strand) với bốn loại cạnh, máy tính song song lý tưởng có bộ nhớ nhất quán tuần tự, luật khối lượng công việc T_P ≥ T₁/P, luật đường găng T_P ≥ T∞, hệ số tăng tốc, độ song song, độ dư song song; Định lý 27.1 về lập lịch tham lam và hai hệ quả; quy tắc ghép nối tiếp (cộng span) và song song (lấy max span); vòng lặp **parallel for** được biên dịch thành cây chia đôi nên tốn thêm Θ(lg n) span; tranh chấp tất định (determinacy race) và câu chuyện chương trình cờ vua ★Socrates cho thấy "nhanh hơn trên 32 bộ xử lý" có thể "chậm hơn trên 512 bộ xử lý".
+
+Mục 27.2 song song hoá nhân ma trận: ba vòng lặp lồng (work Θ(n³), span Θ(n)), chia để trị tám phép nhân với ma trận tạm (span Θ(lg² n), độ song song Θ(n³/lg² n)) và Strassen (work Θ(n^lg 7), span Θ(lg² n)).
+
+Mục 27.3 song song hoá sắp xếp trộn: chỉ sinh nhánh hai lời gọi đệ quy thì độ song song chỉ Θ(lg n) vì MERGE tuần tự là nút cổ chai; trộn song song P-MERGE (lấy trung vị của mảng dài hơn, tìm nhị phân vị trí của nó trong mảng kia, đặt vào chỗ, đệ quy hai nửa song song) có work Θ(n), span Θ(lg² n); P-MERGE-SORT có work Θ(n lg n), span Θ(lg³ n), độ song song Θ(n/lg² n).
 
 ## Sơ đồ
 
@@ -308,9 +298,15 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao mô tả một thuật toán song song mà không phải lo luồng, khoá và chia việc, và làm sao đo được nó "song song" đến đâu?** Dùng mô hình đa luồng động: thêm từ khoá **spawn** trước một lời gọi để cho phép thủ tục cha chạy tiếp song song với con, **sync** để đợi mọi con xong, và **parallel for** để cho các lần lặp chạy đồng thời; xoá ba từ khoá đi thì được bản tuần tự hoá giải cùng bài toán. Một lần chạy được xem như một dag các mạch (strand). Hai thước đo: khối lượng công việc T₁ (work) là tổng thời gian mọi mạch, độ dài đường găng T∞ (span) là thời gian của đường dài nhất trong dag. Độ song song là T₁/T∞. Ví dụ P-FIB(4): 17 mạch, đường găng 8 mạch, độ song song 17/8 = 2,125 — dù có bao nhiêu bộ xử lý cũng không chạy nhanh hơn khoảng 2 lần. Còn P-FIB(n) tổng quát có T₁ = Θ(φⁿ), T∞ = Θ(n), độ song song Θ(φⁿ/n); với n = 30 (theo cách đếm mạch của người tổng hợp) là khoảng 5,39 triệu mạch trên đường găng 60 mạch, độ song song gần 90.000.
-2. **Với P bộ xử lý, thuật toán chạy nhanh đến đâu?** Không nhanh hơn T₁/P (luật work, mỗi bước P bộ xử lý chỉ làm được P đơn vị việc) và không nhanh hơn T∞ (luật span). Bộ lập lịch tham lam — mỗi bước chạy min(P, số mạch sẵn sàng) mạch — đạt T_P ≤ T₁/P + T∞ (Định lý 27.1): số bước đầy không quá ⌊T₁/P⌋, số bước không đầy không quá T∞ vì mỗi bước không đầy chạy hết các mạch sẵn sàng nên rút ngắn đường găng còn lại đúng 1. Từ đó lịch tham lam không tệ hơn 2 lần lịch tối ưu, và khi độ dư (T₁/T∞)/P lớn (quy tắc kinh nghiệm: ≥ 10) thì T_P ≈ T₁/P, tăng tốc gần P. Ví dụ ★Socrates: với T₁ = 2048, T∞ = 1 thì T₅₁₂ ≈ 2048/512 + 1 = 5 giây; bản "tối ưu" T₁ = 1024, T∞ = 8 nhanh hơn trên 32 bộ xử lý (40 so với 65 giây) nhưng chậm gấp đôi trên 512 bộ xử lý (10 so với 5 giây).
-3. **Song song hoá nhân ma trận và sắp xếp trộn được đến mức nào?** Nhân ma trận: song song hai vòng ngoài cho span Θ(n) và độ song song Θ(n²); chia để trị tám phép nhân con chạy song song rồi cộng bằng parallel for cho span M∞(n) = M∞(n/2) + Θ(lg n) = Θ(lg² n), độ song song Θ(n³/lg² n) (với n = 1000, bỏ hằng số, khoảng 10⁹/10² = 10⁷); Strassen đa luồng giữ work Θ(n^lg 7) với cùng span Θ(lg² n). Sắp xếp trộn: chỉ chạy song song hai lời gọi đệ quy thì span vẫn Θ(n) vì MERGE tuần tự, độ song song chỉ Θ(lg n) (khoảng 23 với 10 triệu phần tử). Phải song song hoá chính phép trộn: P-MERGE lấy trung vị x của mảng dài hơn, tìm nhị phân chỗ của x trong mảng kia, đặt x vào đúng vị trí đầu ra và trộn hai phần nhỏ song song; mỗi phần không quá 3n/4 phần tử nên span Θ(lg² n), work Θ(n). P-MERGE-SORT khi đó có work Θ(n lg n), span Θ(lg³ n), độ song song Θ(n/lg² n) (khoảng 18.500 với 10 triệu phần tử, bỏ hằng số).
+1. **Làm sao mô tả một thuật toán song song mà không phải lo luồng, khoá và chia việc, và làm sao đo được nó "song song" đến đâu?** Dùng mô hình đa luồng động: thêm từ khoá **spawn** trước một lời gọi để cho phép thủ tục cha chạy tiếp song song với con, **sync** để đợi mọi con xong, và **parallel for** để cho các lần lặp chạy đồng thời; xoá ba từ khoá đi thì được bản tuần tự hoá giải cùng bài toán. Một lần chạy được xem như một dag các mạch (strand).
+
+   Hai thước đo: khối lượng công việc T₁ (work) là tổng thời gian mọi mạch, độ dài đường găng T∞ (span) là thời gian của đường dài nhất trong dag. Độ song song là T₁/T∞. Ví dụ P-FIB(4): 17 mạch, đường găng 8 mạch, độ song song 17/8 = 2,125 — dù có bao nhiêu bộ xử lý cũng không chạy nhanh hơn khoảng 2 lần. Còn P-FIB(n) tổng quát có T₁ = Θ(φⁿ), T∞ = Θ(n), độ song song Θ(φⁿ/n); với n = 30 (theo cách đếm mạch của người tổng hợp) là khoảng 5,39 triệu mạch trên đường găng 60 mạch, độ song song gần 90.000.
+2. **Với P bộ xử lý, thuật toán chạy nhanh đến đâu?** Không nhanh hơn T₁/P (luật work, mỗi bước P bộ xử lý chỉ làm được P đơn vị việc) và không nhanh hơn T∞ (luật span). Bộ lập lịch tham lam — mỗi bước chạy min(P, số mạch sẵn sàng) mạch — đạt T_P ≤ T₁/P + T∞ (Định lý 27.1): số bước đầy không quá ⌊T₁/P⌋, số bước không đầy không quá T∞ vì mỗi bước không đầy chạy hết các mạch sẵn sàng nên rút ngắn đường găng còn lại đúng 1.
+
+   Từ đó lịch tham lam không tệ hơn 2 lần lịch tối ưu, và khi độ dư (T₁/T∞)/P lớn (quy tắc kinh nghiệm: ≥ 10) thì T_P ≈ T₁/P, tăng tốc gần P. Ví dụ ★Socrates: với T₁ = 2048, T∞ = 1 thì T₅₁₂ ≈ 2048/512 + 1 = 5 giây; bản "tối ưu" T₁ = 1024, T∞ = 8 nhanh hơn trên 32 bộ xử lý (40 so với 65 giây) nhưng chậm gấp đôi trên 512 bộ xử lý (10 so với 5 giây).
+3. **Song song hoá nhân ma trận và sắp xếp trộn được đến mức nào?** Nhân ma trận: song song hai vòng ngoài cho span Θ(n) và độ song song Θ(n²); chia để trị tám phép nhân con chạy song song rồi cộng bằng parallel for cho span M∞(n) = M∞(n/2) + Θ(lg n) = Θ(lg² n), độ song song Θ(n³/lg² n) (với n = 1000, bỏ hằng số, khoảng 10⁹/10² = 10⁷); Strassen đa luồng giữ work Θ(n^lg 7) với cùng span Θ(lg² n).
+
+   Sắp xếp trộn: chỉ chạy song song hai lời gọi đệ quy thì span vẫn Θ(n) vì MERGE tuần tự, độ song song chỉ Θ(lg n) (khoảng 23 với 10 triệu phần tử). Phải song song hoá chính phép trộn: P-MERGE lấy trung vị x của mảng dài hơn, tìm nhị phân chỗ của x trong mảng kia, đặt x vào đúng vị trí đầu ra và trộn hai phần nhỏ song song; mỗi phần không quá 3n/4 phần tử nên span Θ(lg² n), work Θ(n). P-MERGE-SORT khi đó có work Θ(n lg n), span Θ(lg³ n), độ song song Θ(n/lg² n) (khoảng 18.500 với 10 triệu phần tử, bỏ hằng số).
 
 ## Khái niệm cần biết
 
@@ -367,11 +363,17 @@ Nhận xét của người tổng hợp: Phần VII không có một "lập lu�
 
 **Máy song song ở mọi tầm giá.** Máy tính song song — máy có nhiều đơn vị xử lý — ngày càng phổ biến. Máy để bàn và máy xách tay khá rẻ chứa **bộ đa xử lý trên chip** (chip multiprocessor): một chip mạch tích hợp **đa nhân** (multicore) chứa nhiều "nhân" xử lý, mỗi nhân là một bộ xử lý đầy đủ truy cập bộ nhớ chung. Ở tầm giá/hiệu năng trung bình là các **cụm máy** (cluster) ghép từ các máy riêng — thường là máy cỡ PC đơn giản — nối bằng mạng riêng. Đắt nhất là **siêu máy tính**, thường kết hợp kiến trúc và mạng tự thiết kế để đạt hiệu năng cao nhất tính theo số lệnh mỗi giây.
 
-**Vì sao chưa có "máy RAM song song".** Máy đa xử lý đã có hàng chục năm, nhưng trong khi cộng đồng sớm thống nhất mô hình máy truy cập ngẫu nhiên (RAM) cho tính toán tuần tự, chưa có mô hình tính toán song song nào được chấp nhận rộng như vậy. Lý do chính: các hãng chưa thống nhất một kiến trúc. Có máy dùng **bộ nhớ chung** (shared memory) — mỗi bộ xử lý truy cập trực tiếp mọi ô nhớ; có máy dùng **bộ nhớ phân tán** (distributed memory) — bộ nhớ của mỗi bộ xử lý là riêng, muốn truy cập bộ nhớ của bộ xử lý khác phải gửi thông điệp tường minh. Với công nghệ đa nhân, mọi máy xách tay và máy để bàn mới đều là máy song song bộ nhớ chung, và xu hướng có vẻ nghiêng về đa xử lý bộ nhớ chung. "Thời gian sẽ trả lời", nhưng đó là hướng chương chọn.
+**Vì sao chưa có "máy RAM song song".** Máy đa xử lý đã có hàng chục năm, nhưng trong khi cộng đồng sớm thống nhất mô hình máy truy cập ngẫu nhiên (RAM) cho tính toán tuần tự, chưa có mô hình tính toán song song nào được chấp nhận rộng như vậy. Lý do chính: các hãng chưa thống nhất một kiến trúc.
 
-**Đa luồng tĩnh và khó khăn của nó.** Một cách lập trình thông dụng cho bộ đa xử lý trên chip và máy bộ nhớ chung khác là **đa luồng tĩnh** (static threading): phần mềm cung cấp trừu tượng "bộ xử lý ảo" gọi là **luồng** (thread), dùng chung bộ nhớ. Mỗi luồng có bộ đếm chương trình riêng và chạy mã độc lập với các luồng khác. Hệ điều hành nạp luồng lên bộ xử lý và thay ra khi luồng khác cần chạy. Hệ điều hành cho phép tạo và huỷ luồng nhưng các thao tác này tương đối chậm, nên với đa số ứng dụng, luồng tồn tại suốt quá trình tính — vì thế gọi là "tĩnh". Lập trình trực tiếp bằng luồng tĩnh khó và dễ lỗi: một lý do là chia việc động cho các luồng sao cho mỗi luồng nhận tải xấp xỉ nhau rất phức tạp; với ứng dụng không tầm thường, người lập trình phải dùng giao thức liên lạc phức tạp để cài một bộ lập lịch cân bằng tải. Tình hình đó dẫn tới các **nền tảng xử lý đồng thời** (concurrency platform): lớp phần mềm điều phối, lập lịch và quản lý tài nguyên tính toán song song. Có nền tảng là thư viện thời gian chạy (runtime library), có nền tảng là ngôn ngữ song song đầy đủ với trình biên dịch và hỗ trợ thời gian chạy.
+Có máy dùng **bộ nhớ chung** (shared memory) — mỗi bộ xử lý truy cập trực tiếp mọi ô nhớ; có máy dùng **bộ nhớ phân tán** (distributed memory) — bộ nhớ của mỗi bộ xử lý là riêng, muốn truy cập bộ nhớ của bộ xử lý khác phải gửi thông điệp tường minh. Với công nghệ đa nhân, mọi máy xách tay và máy để bàn mới đều là máy song song bộ nhớ chung, và xu hướng có vẻ nghiêng về đa xử lý bộ nhớ chung. "Thời gian sẽ trả lời", nhưng đó là hướng chương chọn.
 
-**Lập trình đa luồng động (Dynamic multithreaded programming).** Một lớp nền tảng quan trọng là **đa luồng động** (dynamic multithreading) — mô hình của chương. Nó cho phép người lập trình nêu độ song song của ứng dụng mà không phải lo giao thức liên lạc, cân bằng tải và những phiền toái khác của luồng tĩnh. Nền tảng chứa một **bộ lập lịch** tự động cân bằng tải, làm việc của người lập trình đơn giản hẳn. Chức năng của các môi trường đa luồng động còn đang phát triển, nhưng hầu như đều hỗ trợ hai tính năng: **song song lồng nhau** (nested parallelism) — cho phép "sinh nhánh" (spawn) một chương trình con, để bên gọi chạy tiếp trong khi chương trình con tính kết quả; và **vòng lặp song song** (parallel loop) — như vòng for thường nhưng các lần lặp có thể chạy đồng thời. Hai tính năng này là nền của mô hình trong chương. Điểm then chốt: người lập trình chỉ cần nêu **song song logic** trong tính toán; các luồng của nền tảng bên dưới tự lập lịch và cân bằng tải với nhau. Chương xét các thuật toán đa luồng viết cho mô hình này và cách nền tảng lập lịch chúng hiệu quả.
+**Đa luồng tĩnh và khó khăn của nó.** Một cách lập trình thông dụng cho bộ đa xử lý trên chip và máy bộ nhớ chung khác là **đa luồng tĩnh** (static threading): phần mềm cung cấp trừu tượng "bộ xử lý ảo" gọi là **luồng** (thread), dùng chung bộ nhớ. Mỗi luồng có bộ đếm chương trình riêng và chạy mã độc lập với các luồng khác. Hệ điều hành nạp luồng lên bộ xử lý và thay ra khi luồng khác cần chạy. Hệ điều hành cho phép tạo và huỷ luồng nhưng các thao tác này tương đối chậm, nên với đa số ứng dụng, luồng tồn tại suốt quá trình tính — vì thế gọi là "tĩnh".
+
+Lập trình trực tiếp bằng luồng tĩnh khó và dễ lỗi: một lý do là chia việc động cho các luồng sao cho mỗi luồng nhận tải xấp xỉ nhau rất phức tạp; với ứng dụng không tầm thường, người lập trình phải dùng giao thức liên lạc phức tạp để cài một bộ lập lịch cân bằng tải. Tình hình đó dẫn tới các **nền tảng xử lý đồng thời** (concurrency platform): lớp phần mềm điều phối, lập lịch và quản lý tài nguyên tính toán song song. Có nền tảng là thư viện thời gian chạy (runtime library), có nền tảng là ngôn ngữ song song đầy đủ với trình biên dịch và hỗ trợ thời gian chạy.
+
+**Lập trình đa luồng động (Dynamic multithreaded programming).** Một lớp nền tảng quan trọng là **đa luồng động** (dynamic multithreading) — mô hình của chương. Nó cho phép người lập trình nêu độ song song của ứng dụng mà không phải lo giao thức liên lạc, cân bằng tải và những phiền toái khác của luồng tĩnh. Nền tảng chứa một **bộ lập lịch** tự động cân bằng tải, làm việc của người lập trình đơn giản hẳn.
+
+Chức năng của các môi trường đa luồng động còn đang phát triển, nhưng hầu như đều hỗ trợ hai tính năng: **song song lồng nhau** (nested parallelism) — cho phép "sinh nhánh" (spawn) một chương trình con, để bên gọi chạy tiếp trong khi chương trình con tính kết quả; và **vòng lặp song song** (parallel loop) — như vòng for thường nhưng các lần lặp có thể chạy đồng thời. Hai tính năng này là nền của mô hình trong chương. Điểm then chốt: người lập trình chỉ cần nêu **song song logic** trong tính toán; các luồng của nền tảng bên dưới tự lập lịch và cân bằng tải với nhau. Chương xét các thuật toán đa luồng viết cho mô hình này và cách nền tảng lập lịch chúng hiệu quả.
 
 **Bốn ưu điểm của mô hình** (theo sách):
 - Mở rộng đơn giản của mô hình lập trình tuần tự: chỉ thêm ba từ khoá "đồng thời" **parallel**, **spawn**, **sync** vào mã giả. Xoá chúng đi thì được mã giả tuần tự cho cùng bài toán, gọi là **bản tuần tự hoá** (serialization).
@@ -461,7 +463,9 @@ Một thủ tục không thể dùng an toàn giá trị trả về của các c
 
 #### 3.3. Mô hình thực thi đa luồng: đồ thị tính toán
 
-Nên hình dung một **tính toán đa luồng** (multithreaded computation) — tập các lệnh được bộ xử lý thực hiện lúc chạy thay mặt chương trình đa luồng — như một đồ thị có hướng không chu trình G = (V, E), gọi là **đồ thị tính toán** (computation dag). Về khái niệm, đỉnh là lệnh và cạnh (u, v) ∈ E nghĩa là lệnh u phải chạy trước lệnh v. Để tiện, nếu một chuỗi lệnh không chứa điều khiển song song (không có spawn, sync, hay trả về từ một lần spawn — qua câu lệnh return tường minh hoặc lần trả về ngầm khi tới cuối thủ tục), ta gộp chúng thành một **mạch** (strand), mỗi mạch là một hay nhiều lệnh. Các lệnh điều khiển song song không nằm trong mạch mà được thể hiện qua cấu trúc của dag. Chẳng hạn, nếu một mạch có hai mạch đứng sau, một trong hai phải được sinh nhánh; một mạch có nhiều mạch đứng trước nghĩa là các mạch đó hội lại vì một câu lệnh sync. Tổng quát, V là tập mạch và E là tập cạnh có hướng biểu diễn phụ thuộc giữa các mạch do điều khiển song song tạo ra.
+Nên hình dung một **tính toán đa luồng** (multithreaded computation) — tập các lệnh được bộ xử lý thực hiện lúc chạy thay mặt chương trình đa luồng — như một đồ thị có hướng không chu trình G = (V, E), gọi là **đồ thị tính toán** (computation dag). Về khái niệm, đỉnh là lệnh và cạnh (u, v) ∈ E nghĩa là lệnh u phải chạy trước lệnh v. Để tiện, nếu một chuỗi lệnh không chứa điều khiển song song (không có spawn, sync, hay trả về từ một lần spawn — qua câu lệnh return tường minh hoặc lần trả về ngầm khi tới cuối thủ tục), ta gộp chúng thành một **mạch** (strand), mỗi mạch là một hay nhiều lệnh.
+
+Các lệnh điều khiển song song không nằm trong mạch mà được thể hiện qua cấu trúc của dag. Chẳng hạn, nếu một mạch có hai mạch đứng sau, một trong hai phải được sinh nhánh; một mạch có nhiều mạch đứng trước nghĩa là các mạch đó hội lại vì một câu lệnh sync. Tổng quát, V là tập mạch và E là tập cạnh có hướng biểu diễn phụ thuộc giữa các mạch do điều khiển song song tạo ra.
 
 Nếu G có đường đi có hướng từ mạch u tới mạch v, hai mạch là **nối tiếp (logic)** (logically in series); ngược lại u và v là **song song (logic)** (logically in parallel).
 
@@ -499,9 +503,13 @@ P-FIB(4) [b4 → s4 · w4]
 
 Đếm: 4 lời gọi có ba mạch (P-FIB(4), P-FIB(3), hai P-FIB(2)) cho 12 mạch, cộng 5 lá (ba P-FIB(1), hai P-FIB(0)) — tổng **17 mạch**. **Đường găng** (tô đậm trong hình) đi qua **8 mạch**: b4 → b3 → b2 → s2 → P-FIB(0) (lá do s2 gọi) → w2 → w3 → w4. (Kiểm tra của người tổng hợp: đường qua lá do b2 sinh nhánh chỉ có 7 mạch vì bỏ qua s2; đường qua nhánh phải b4 → s4 → b2′ → s2′ → P-FIB(0) → w2′ → w4 có 7 mạch.)
 
-**Phân loại cạnh.** Một **cạnh tiếp nối** (continuation edge) (u, u′), vẽ ngang, nối mạch u với mạch kế tiếp u′ trong cùng lời gọi. Khi mạch u sinh nhánh mạch v, dag có **cạnh sinh nhánh** (spawn edge) (u, v), vẽ hướng xuống. **Cạnh gọi** (call edge), biểu diễn lời gọi thường, cũng hướng xuống. Khác biệt giữa "u sinh nhánh v" và "u gọi v": sinh nhánh tạo thêm cạnh tiếp nối ngang từ u tới mạch u′ đứng sau u trong thủ tục, cho biết u′ được tự do chạy cùng lúc với v; lời gọi thường không tạo cạnh đó. Khi mạch u trả về thủ tục gọi nó và x là mạch đứng ngay sau sync kế tiếp trong thủ tục gọi, dag có **cạnh trả về** (return edge) (u, x), vẽ hướng lên. Một tính toán bắt đầu bằng đúng một **mạch đầu** (initial strand) — đỉnh đen trong lời gọi P-FIB(4) — và kết thúc bằng đúng một **mạch cuối** (final strand) — đỉnh trắng trong lời gọi P-FIB(4).
+**Phân loại cạnh.** Một **cạnh tiếp nối** (continuation edge) (u, u′), vẽ ngang, nối mạch u với mạch kế tiếp u′ trong cùng lời gọi. Khi mạch u sinh nhánh mạch v, dag có **cạnh sinh nhánh** (spawn edge) (u, v), vẽ hướng xuống. **Cạnh gọi** (call edge), biểu diễn lời gọi thường, cũng hướng xuống. Khác biệt giữa "u sinh nhánh v" và "u gọi v": sinh nhánh tạo thêm cạnh tiếp nối ngang từ u tới mạch u′ đứng sau u trong thủ tục, cho biết u′ được tự do chạy cùng lúc với v; lời gọi thường không tạo cạnh đó.
 
-**Máy tính song song lý tưởng.** Chương nghiên cứu việc chạy thuật toán đa luồng trên **máy tính song song lý tưởng** (ideal parallel computer): một tập bộ xử lý và một bộ nhớ chung **nhất quán tuần tự** (sequentially consistent). Nhất quán tuần tự nghĩa là bộ nhớ chung — trong thực tế có thể đang nhận nhiều lệnh đọc/ghi từ các bộ xử lý cùng lúc — cho kết quả như thể ở mỗi bước có đúng một lệnh của một bộ xử lý được thực hiện; tức là bộ nhớ hành xử như thể các lệnh chạy tuần tự theo một thứ tự tuyến tính toàn cục giữ nguyên thứ tự mà mỗi bộ xử lý phát lệnh của mình. Với tính toán đa luồng động được nền tảng tự lập lịch, bộ nhớ chung hành xử như thể các lệnh của tính toán được xen kẽ thành một thứ tự tuyến tính giữ nguyên thứ tự bộ phận của dag. Tuỳ lập lịch, thứ tự có thể khác nhau giữa các lần chạy, nhưng hành vi của bất kỳ lần chạy nào cũng hiểu được bằng cách giả định các lệnh chạy theo *một* thứ tự tuyến tính nào đó phù hợp với dag.
+Khi mạch u trả về thủ tục gọi nó và x là mạch đứng ngay sau sync kế tiếp trong thủ tục gọi, dag có **cạnh trả về** (return edge) (u, x), vẽ hướng lên. Một tính toán bắt đầu bằng đúng một **mạch đầu** (initial strand) — đỉnh đen trong lời gọi P-FIB(4) — và kết thúc bằng đúng một **mạch cuối** (final strand) — đỉnh trắng trong lời gọi P-FIB(4).
+
+**Máy tính song song lý tưởng.** Chương nghiên cứu việc chạy thuật toán đa luồng trên **máy tính song song lý tưởng** (ideal parallel computer): một tập bộ xử lý và một bộ nhớ chung **nhất quán tuần tự** (sequentially consistent). Nhất quán tuần tự nghĩa là bộ nhớ chung — trong thực tế có thể đang nhận nhiều lệnh đọc/ghi từ các bộ xử lý cùng lúc — cho kết quả như thể ở mỗi bước có đúng một lệnh của một bộ xử lý được thực hiện; tức là bộ nhớ hành xử như thể các lệnh chạy tuần tự theo một thứ tự tuyến tính toàn cục giữ nguyên thứ tự mà mỗi bộ xử lý phát lệnh của mình.
+
+Với tính toán đa luồng động được nền tảng tự lập lịch, bộ nhớ chung hành xử như thể các lệnh của tính toán được xen kẽ thành một thứ tự tuyến tính giữ nguyên thứ tự bộ phận của dag. Tuỳ lập lịch, thứ tự có thể khác nhau giữa các lần chạy, nhưng hành vi của bất kỳ lần chạy nào cũng hiểu được bằng cách giả định các lệnh chạy theo *một* thứ tự tuyến tính nào đó phù hợp với dag.
 
 Ngoài giả định về ngữ nghĩa, mô hình còn có giả định về hiệu năng: mọi bộ xử lý có sức tính như nhau, và **bỏ qua chi phí lập lịch**. Giả định sau nghe có vẻ lạc quan, nhưng với thuật toán có đủ "độ song song" (định nghĩa ngay dưới đây), chi phí lập lịch trong thực tế thường rất nhỏ.
 
@@ -545,7 +553,9 @@ Ví dụ P-FIB(4) với mạch đơn vị: T₁ = 17, T∞ = 8, độ song song 
 
 Hiệu năng tốt không chỉ cần work và span nhỏ; các mạch còn phải được lập lịch hiệu quả lên các bộ xử lý. Mô hình lập trình không cho cách chỉ định mạch nào chạy trên bộ xử lý nào; ta dựa vào bộ lập lịch của nền tảng để ánh xạ tính toán đang dần mở ra lên từng bộ xử lý. Thực tế, bộ lập lịch ánh xạ mạch lên luồng tĩnh và hệ điều hành lập lịch luồng lên bộ xử lý, nhưng tầng gián tiếp này không cần cho việc hiểu lập lịch: cứ hình dung bộ lập lịch ánh xạ mạch thẳng lên bộ xử lý.
 
-Bộ lập lịch đa luồng phải lập lịch mà không biết trước khi nào mạch được sinh ra hay khi nào xong — nó phải hoạt động **trực tuyến** (on-line). Bộ lập lịch tốt còn hoạt động **phân tán** (distributed): các luồng cài bộ lập lịch cùng nhau cân bằng tải. Đã có những bộ lập lịch trực tuyến phân tán chứng minh được là tốt, nhưng phân tích chúng phức tạp. Để phân tích đơn giản, chương xét bộ lập lịch trực tuyến **tập trung** (centralized), biết trạng thái toàn cục của tính toán ở mọi thời điểm. Cụ thể là **bộ lập lịch tham lam** (greedy scheduler): mỗi bước gán càng nhiều mạch cho bộ xử lý càng tốt. Nếu trong một bước có ít nhất P mạch sẵn sàng, bước đó là **bước đầy** (complete step) và bộ lập lịch tham lam gán P mạch sẵn sàng bất kỳ cho các bộ xử lý. Ngược lại, có ít hơn P mạch sẵn sàng, bước đó là **bước không đầy** (incomplete step), và bộ lập lịch gán mỗi mạch sẵn sàng cho một bộ xử lý riêng.
+Bộ lập lịch đa luồng phải lập lịch mà không biết trước khi nào mạch được sinh ra hay khi nào xong — nó phải hoạt động **trực tuyến** (on-line). Bộ lập lịch tốt còn hoạt động **phân tán** (distributed): các luồng cài bộ lập lịch cùng nhau cân bằng tải. Đã có những bộ lập lịch trực tuyến phân tán chứng minh được là tốt, nhưng phân tích chúng phức tạp. Để phân tích đơn giản, chương xét bộ lập lịch trực tuyến **tập trung** (centralized), biết trạng thái toàn cục của tính toán ở mọi thời điểm.
+
+Cụ thể là **bộ lập lịch tham lam** (greedy scheduler): mỗi bước gán càng nhiều mạch cho bộ xử lý càng tốt. Nếu trong một bước có ít nhất P mạch sẵn sàng, bước đó là **bước đầy** (complete step) và bộ lập lịch tham lam gán P mạch sẵn sàng bất kỳ cho các bộ xử lý. Ngược lại, có ít hơn P mạch sẵn sàng, bước đó là **bước không đầy** (incomplete step), và bộ lập lịch gán mỗi mạch sẵn sàng cho một bộ xử lý riêng.
 
 Theo luật work, thời gian tốt nhất có thể hy vọng trên P bộ xử lý là T_P = T₁/P; theo luật span là T_P = T∞. Định lý sau cho thấy lập lịch tham lam tốt một cách chứng minh được: nó đạt *tổng* hai cận dưới làm cận trên.
 
@@ -673,7 +683,9 @@ Mã này đệ quy sinh nhánh nửa đầu các lần lặp để chạy song s
 
 Đếm (người tổng hợp): 7 nút trong × 3 mạch + 8 lá = 29 mạch. Đường găng với mạch đơn vị: b[1,8] → s[1,8] → b[5,8] → s[5,8] → b[7,8] → s[7,8] → lá [8,8] → w[7,8] → w[5,8] → w[1,8] = 10 mạch, tức 3 lg 8 + 1.
 
-**Work của vòng lặp song song.** Work T₁(n) của MAT-VEC trên ma trận n × n là thời gian của bản tuần tự hoá (thay parallel for bằng for thường): T₁(n) = Θ(n²), vì hai vòng lồng ở dòng 5–7 chiếm ưu thế. Phân tích này có vẻ bỏ qua chi phí sinh nhánh đệ quy khi cài vòng song song. Thực ra chi phí đó có làm tăng work so với bản tuần tự hoá, nhưng không về mặt tiệm cận: cây các lời gọi là cây nhị phân đầy đủ (full binary tree), nên số nút trong ít hơn số lá đúng 1 (Exercise B.5-3). Mỗi nút trong làm việc hằng số để chia khoảng lặp, còn mỗi lá ứng với một lần lặp, tốn ít nhất hằng số thời gian (ở đây Θ(n)). Vậy có thể khấu hao chi phí sinh nhánh vào việc của các lần lặp, chỉ thêm tối đa một hệ số hằng vào tổng work.
+**Work của vòng lặp song song.** Work T₁(n) của MAT-VEC trên ma trận n × n là thời gian của bản tuần tự hoá (thay parallel for bằng for thường): T₁(n) = Θ(n²), vì hai vòng lồng ở dòng 5–7 chiếm ưu thế. Phân tích này có vẻ bỏ qua chi phí sinh nhánh đệ quy khi cài vòng song song.
+
+Thực ra chi phí đó có làm tăng work so với bản tuần tự hoá, nhưng không về mặt tiệm cận: cây các lời gọi là cây nhị phân đầy đủ (full binary tree), nên số nút trong ít hơn số lá đúng 1 (Exercise B.5-3). Mỗi nút trong làm việc hằng số để chia khoảng lặp, còn mỗi lá ứng với một lần lặp, tốn ít nhất hằng số thời gian (ở đây Θ(n)). Vậy có thể khấu hao chi phí sinh nhánh vào việc của các lần lặp, chỉ thêm tối đa một hệ số hằng vào tổng work.
 
 Trong thực tế, các nền tảng đa luồng động đôi khi **gộp lá** (coarsen) của cây đệ quy bằng cách cho mỗi lá chạy nhiều lần lặp — tự động hoặc theo chỉ định của người lập trình — để giảm chi phí sinh nhánh. Đổi lại độ song song giảm, nhưng nếu tính toán có đủ độ dư song song thì không phải hy sinh tăng tốc gần tuyến tính hoàn hảo.
 
@@ -737,7 +749,9 @@ Sau khi khởi tạo x = 0 ở dòng 1, RACE-EXAMPLE tạo hai mạch song song,
 
 Bước 1, một bộ xử lý đặt x = 0. Bước 2 và 3, bộ xử lý 1 đọc x vào r₁ và tăng, r₁ = 1. Lúc đó bộ xử lý 2 vào cuộc, chạy lệnh 4–6: đọc x vào r₂, tăng thành 1, ghi vào x, x = 1. Bộ xử lý 1 tiếp tục ở bước 7, ghi r₁ = 1 vào x — x không đổi. Bước 8 in 1 chứ không phải 2.
 
-Nếu hiệu quả của việc chạy song song là bộ xử lý 1 làm hết lệnh của nó trước bộ xử lý 2, kết quả là 2; ngược lại cũng vậy. Nhưng khi lệnh của hai bộ xử lý chạy xen nhau, có thể mất một lần cập nhật x như ví dụ. Dĩ nhiên nhiều thứ tự không gây lỗi, ví dụ ⟨1, 2, 3, 7, 4, 5, 6, 8⟩ hay ⟨1, 4, 5, 6, 2, 3, 7, 8⟩ cho kết quả đúng. Đó chính là vấn đề của tranh chấp tất định: thường thì phần lớn thứ tự cho kết quả đúng (như mọi thứ tự mà lệnh bên trái chạy hết trước lệnh bên phải hoặc ngược lại), nhưng một số thứ tự xen kẽ cho kết quả sai. Vì vậy tranh chấp cực khó kiểm thử: có thể chạy thử nhiều ngày không thấy lỗi rồi gặp sự cố thảm hoạ khi dùng thật ở lúc hệ trọng. (Như đã ghi trong khối Lưu ý, nếu đếm đều 20 cách xen kẽ hai chuỗi ba lệnh thì chỉ 2 cách cho kết quả 2.)
+Nếu hiệu quả của việc chạy song song là bộ xử lý 1 làm hết lệnh của nó trước bộ xử lý 2, kết quả là 2; ngược lại cũng vậy. Nhưng khi lệnh của hai bộ xử lý chạy xen nhau, có thể mất một lần cập nhật x như ví dụ. Dĩ nhiên nhiều thứ tự không gây lỗi, ví dụ ⟨1, 2, 3, 7, 4, 5, 6, 8⟩ hay ⟨1, 4, 5, 6, 2, 3, 7, 8⟩ cho kết quả đúng.
+
+Đó chính là vấn đề của tranh chấp tất định: thường thì phần lớn thứ tự cho kết quả đúng (như mọi thứ tự mà lệnh bên trái chạy hết trước lệnh bên phải hoặc ngược lại), nhưng một số thứ tự xen kẽ cho kết quả sai. Vì vậy tranh chấp cực khó kiểm thử: có thể chạy thử nhiều ngày không thấy lỗi rồi gặp sự cố thảm hoạ khi dùng thật ở lúc hệ trọng. (Như đã ghi trong mục Lưu ý cuối chương, nếu đếm đều 20 cách xen kẽ hai chuỗi ba lệnh thì chỉ 2 cách cho kết quả 2.)
 
 Có nhiều cách đối phó với tranh chấp, kể cả khoá loại trừ lẫn nhau (mutual-exclusion lock) và các phương pháp đồng bộ khác; trong chương, ta chỉ đơn giản bảo đảm các mạch chạy song song là **độc lập** (independent): không có tranh chấp tất định giữa chúng. Vì vậy trong cấu trúc parallel for, mọi lần lặp phải độc lập. Giữa một spawn và sync tương ứng, mã của con được sinh nhánh phải độc lập với mã của cha, kể cả mã do các con khác (sinh nhánh hay gọi thường) chạy. Lưu ý đối số truyền cho con được tính trong cha *trước* khi spawn xảy ra, nên việc tính đối số nối tiếp với mọi truy cập tới các đối số đó sau spawn.
 
@@ -842,7 +856,9 @@ P-MATRIX-MULTIPLY-RECURSIVE(C, A, B)
 17              c_ij = c_ij + t_ij
 ```
 
-Giải thích: dòng 3 xử lý trường hợp cơ sở, nhân hai ma trận 1 × 1. Trường hợp đệ quy ở dòng 4–17. Dòng 4 cấp phát ma trận tạm T; dòng 5 chia mỗi ma trận A, B, C, T thành các ma trận con n/2 × n/2 (như ở SQUARE-MATRIX-MULTIPLY-RECURSIVE, sách bỏ qua chi tiết dùng phép tính chỉ số để biểu diễn một khối con của ma trận). Lời gọi đệ quy ở dòng 6 đặt C₁₁ bằng tích A₁₁B₁₁, tức số hạng thứ nhất trong tổng tạo nên C₁₁ ở (27.6). Tương tự dòng 7–9 đặt C₁₂, C₂₁, C₂₂ bằng số hạng thứ nhất của tổng tương ứng. Dòng 10 đặt T₁₁ bằng A₁₂B₂₁, số hạng thứ hai của tổng tạo nên C₁₁; dòng 11–13 đặt T₁₂, T₂₁, T₂₂ bằng số hạng thứ hai của tổng tạo nên C₁₂, C₂₁, C₂₂. Bảy lời gọi đầu được sinh nhánh, lời gọi cuối chạy trong mạch chính. Câu lệnh sync ở dòng 14 bảo đảm mọi tích khối ở dòng 6–13 đã xong; sau đó hai vòng parallel for lồng ở dòng 15–17 cộng các tích trong T vào C. (Tám lời gọi ghi vào tám khối khác nhau — C₁₁, C₁₂, C₂₁, C₂₂, T₁₁, T₁₂, T₂₁, T₂₂ — và chỉ đọc A, B, nên chúng độc lập, không có tranh chấp; đó là lý do cần ma trận tạm T — nhận xét của người tổng hợp.)
+Giải thích: dòng 3 xử lý trường hợp cơ sở, nhân hai ma trận 1 × 1. Trường hợp đệ quy ở dòng 4–17. Dòng 4 cấp phát ma trận tạm T; dòng 5 chia mỗi ma trận A, B, C, T thành các ma trận con n/2 × n/2 (như ở SQUARE-MATRIX-MULTIPLY-RECURSIVE, sách bỏ qua chi tiết dùng phép tính chỉ số để biểu diễn một khối con của ma trận). Lời gọi đệ quy ở dòng 6 đặt C₁₁ bằng tích A₁₁B₁₁, tức số hạng thứ nhất trong tổng tạo nên C₁₁ ở (27.6). Tương tự dòng 7–9 đặt C₁₂, C₂₁, C₂₂ bằng số hạng thứ nhất của tổng tương ứng.
+
+Dòng 10 đặt T₁₁ bằng A₁₂B₂₁, số hạng thứ hai của tổng tạo nên C₁₁; dòng 11–13 đặt T₁₂, T₂₁, T₂₂ bằng số hạng thứ hai của tổng tạo nên C₁₂, C₂₁, C₂₂. Bảy lời gọi đầu được sinh nhánh, lời gọi cuối chạy trong mạch chính. Câu lệnh sync ở dòng 14 bảo đảm mọi tích khối ở dòng 6–13 đã xong; sau đó hai vòng parallel for lồng ở dòng 15–17 cộng các tích trong T vào C. (Tám lời gọi ghi vào tám khối khác nhau — C₁₁, C₁₂, C₂₁, C₂₂, T₁₁, T₁₂, T₂₁, T₂₂ — và chỉ đọc A, B, nên chúng độc lập, không có tranh chấp; đó là lý do cần ma trận tạm T — nhận xét của người tổng hợp.)
 
 **Work.** Gọi M₁(n) là work, theo đúng cách phân tích thời gian tuần tự của SQUARE-MATRIX-MULTIPLY-RECURSIVE. Ở trường hợp đệ quy: chia khối Θ(1), tám phép nhân đệ quy cỡ n/2 × n/2, và Θ(n²) việc để cộng hai ma trận n × n:
 
@@ -888,7 +904,7 @@ C₂₁ = P₃ + P₄                  C₂₂ = P₅ + P₁ − P₃ − P₇
 
 (Ví dụ kiểm tra C₁₂: P₁ + P₂ = A₁₁B₁₂ − A₁₁B₂₂ + A₁₁B₂₂ + A₁₂B₂₂ = A₁₁B₁₂ + A₁₂B₂₂, đúng như (27.6).)
 
-**Phân tích.** Bản tuần tự hoá trùng thuật toán tuần tự gốc, nên work bằng thời gian chạy của nó: Θ(n^lg 7). Về span, bảy lời gọi đệ quy chạy song song, đều trên ma trận cùng cỡ, và các bước 2, 4 có span Θ(lg n), nên ta được đúng truy hồi (27.7) như với P-MATRIX-MULTIPLY-RECURSIVE, nghiệm Θ(lg² n). Vậy độ song song của Strassen đa luồng là Θ(n^lg 7/lg² n): cao, dù thấp hơn của P-MATRIX-MULTIPLY-RECURSIVE (sách nói "slightly less"; như khối Lưu ý đã ghi, thực ra thấp hơn một hệ số n^0,19).
+**Phân tích.** Bản tuần tự hoá trùng thuật toán tuần tự gốc, nên work bằng thời gian chạy của nó: Θ(n^lg 7). Về span, bảy lời gọi đệ quy chạy song song, đều trên ma trận cùng cỡ, và các bước 2, 4 có span Θ(lg n), nên ta được đúng truy hồi (27.7) như với P-MATRIX-MULTIPLY-RECURSIVE, nghiệm Θ(lg² n). Vậy độ song song của Strassen đa luồng là Θ(n^lg 7/lg² n): cao, dù thấp hơn của P-MATRIX-MULTIPLY-RECURSIVE (sách nói "slightly less"; như mục Lưu ý cuối chương đã ghi, thực ra thấp hơn một hệ số n^0,19).
 
 Bảng tổng kết Mục 27.2:
 
@@ -1022,7 +1038,9 @@ P-MERGE(T, p₁, r₁, p₂, r₂, A, p₃)
 15      sync
 ```
 
-Dòng 1–2 tính độ dài n₁, n₂. Dòng 3–6 bảo đảm giả định n₁ ≥ n₂ (chú thích: "bảo đảm n₁ ≥ n₂"). Dòng 7 kiểm tra trường hợp cơ sở: T[p₁..r₁] rỗng (do đó T[p₂..r₂] cũng rỗng) thì trả về (chú thích: "cả hai rỗng?"). Dòng 9–15 cài chiến lược chia để trị. Dòng 9 tính điểm giữa của T[p₁..r₁]; dòng 10 tìm điểm q₂ trong T[p₂..r₂] sao cho mọi phần tử của T[p₂..q₂ − 1] nhỏ hơn T[q₁] (tức x) và mọi phần tử của T[q₂..r₂] ít nhất bằng T[q₁] (sách in nhầm là T[q₂..p₂]). Dòng 11 tính chỉ số q₃ của phần tử chia mảng đầu ra thành A[p₃..q₃ − 1] và A[q₃ + 1..r₃]; dòng 12 chép T[q₁] thẳng vào A[q₃]. Rồi đệ quy bằng song song lồng nhau: dòng 13 sinh nhánh bài toán con thứ nhất, dòng 14 gọi bài toán con thứ hai song song. sync ở dòng 15 bảo đảm các bài toán con xong trước khi thủ tục trả về. (Vì mọi thủ tục ngầm sync trước khi trả về, có thể bỏ dòng 15, nhưng viết ra là thói quen tốt.) Mã có chút khéo léo để chạy đúng khi T[p₂..r₂] rỗng: mỗi lời gọi đệ quy đặt một trung vị của T[p₁..r₁] vào mảng đầu ra, cho tới khi chính T[p₁..r₁] rỗng, kích hoạt trường hợp cơ sở.
+Dòng 1–2 tính độ dài n₁, n₂. Dòng 3–6 bảo đảm giả định n₁ ≥ n₂ (chú thích: "bảo đảm n₁ ≥ n₂"). Dòng 7 kiểm tra trường hợp cơ sở: T[p₁..r₁] rỗng (do đó T[p₂..r₂] cũng rỗng) thì trả về (chú thích: "cả hai rỗng?"). Dòng 9–15 cài chiến lược chia để trị. Dòng 9 tính điểm giữa của T[p₁..r₁]; dòng 10 tìm điểm q₂ trong T[p₂..r₂] sao cho mọi phần tử của T[p₂..q₂ − 1] nhỏ hơn T[q₁] (tức x) và mọi phần tử của T[q₂..r₂] ít nhất bằng T[q₁] (sách in nhầm là T[q₂..p₂]). Dòng 11 tính chỉ số q₃ của phần tử chia mảng đầu ra thành A[p₃..q₃ − 1] và A[q₃ + 1..r₃]; dòng 12 chép T[q₁] thẳng vào A[q₃].
+
+Rồi đệ quy bằng song song lồng nhau: dòng 13 sinh nhánh bài toán con thứ nhất, dòng 14 gọi bài toán con thứ hai song song. sync ở dòng 15 bảo đảm các bài toán con xong trước khi thủ tục trả về. (Vì mọi thủ tục ngầm sync trước khi trả về, có thể bỏ dòng 15, nhưng viết ra là thói quen tốt.) Mã có chút khéo léo để chạy đúng khi T[p₂..r₂] rỗng: mỗi lời gọi đệ quy đặt một trung vị của T[p₁..r₁] vào mảng đầu ra, cho tới khi chính T[p₁..r₁] rỗng, kích hoạt trường hợp cơ sở.
 
 Hai lời gọi ở dòng 13–14 độc lập: chúng đọc các vùng của T, ghi vào hai vùng rời nhau A[p₃..q₃ − 1] và A[q₃ + 1..r₃] (nhận xét của người tổng hợp; với điều kiện A và T là hai mảng khác nhau hoặc vùng ghi không chồng vùng đọc).
 
@@ -1111,7 +1129,9 @@ P-MERGE-SORT(A, p, r, B, s)
 10      P-MERGE(T, 1, q′, q′ + 1, n, B, s)
 ```
 
-Sau khi dòng 1 tính số phần tử n của A[p..r], dòng 2–3 xử lý trường hợp cơ sở mảng một phần tử. Dòng 4–6 chuẩn bị cho lời gọi sinh nhánh ở dòng 7 và lời gọi ở dòng 8, chạy song song. Cụ thể, dòng 4 cấp phát mảng tạm T gồm n phần tử để chứa kết quả của hai lần sắp xếp đệ quy. Dòng 5 tính chỉ số q chia A[p..r] thành A[p..q] và A[q + 1..r] để sắp xếp đệ quy; dòng 6 tính số phần tử q′ của mảng con thứ nhất A[p..q], dùng ở dòng 8 để xác định chỉ số bắt đầu trong T của kết quả sắp xếp A[q + 1..r]. Rồi lời gọi sinh nhánh và lời gọi đệ quy được thực hiện, tiếp theo là sync ở dòng 9 buộc thủ tục đợi lời gọi sinh nhánh xong. Cuối cùng dòng 10 gọi P-MERGE trộn hai mảng con đã sắp xếp, lúc này ở T[1..q′] và T[q′ + 1..n], vào mảng con đầu ra B[s..s + r − p].
+Sau khi dòng 1 tính số phần tử n của A[p..r], dòng 2–3 xử lý trường hợp cơ sở mảng một phần tử. Dòng 4–6 chuẩn bị cho lời gọi sinh nhánh ở dòng 7 và lời gọi ở dòng 8, chạy song song. Cụ thể, dòng 4 cấp phát mảng tạm T gồm n phần tử để chứa kết quả của hai lần sắp xếp đệ quy.
+
+Dòng 5 tính chỉ số q chia A[p..r] thành A[p..q] và A[q + 1..r] để sắp xếp đệ quy; dòng 6 tính số phần tử q′ của mảng con thứ nhất A[p..q], dùng ở dòng 8 để xác định chỉ số bắt đầu trong T của kết quả sắp xếp A[q + 1..r]. Rồi lời gọi sinh nhánh và lời gọi đệ quy được thực hiện, tiếp theo là sync ở dòng 9 buộc thủ tục đợi lời gọi sinh nhánh xong. Cuối cùng dòng 10 gọi P-MERGE trộn hai mảng con đã sắp xếp, lúc này ở T[1..q′] và T[q′ + 1..n], vào mảng con đầu ra B[s..s + r − p].
 
 Chạy tay ngắn (người tổng hợp): A[1..4] = ⟨4, 1, 3, 2⟩, gọi P-MERGE-SORT(A, 1, 4, B, 1). n = 4, q = 2, q′ = 2, T[1..4] mới. Lời gọi sinh nhánh sắp A[1..2] = ⟨4, 1⟩ vào T[1..2]: bên trong, mảng tạm T′[1..2] nhận ⟨4⟩ và ⟨1⟩, P-MERGE ghi ⟨1, 4⟩ vào T[1..2]. Song song, lời gọi thường sắp A[3..4] = ⟨3, 2⟩ vào T[3..4] = ⟨2, 3⟩. Sau sync, P-MERGE(T, 1, 2, 3, 4, B, 1) trộn ⟨1, 4⟩ với ⟨2, 3⟩: x = T[1] = 1 (q₁ = ⌊3/2⌋ = 1), q₂ = 3, q₃ = 1, B[1] = 1; nửa phải trộn ⟨4⟩ với ⟨2, 3⟩ vào B[2..4], cho B = ⟨1, 2, 3, 4⟩.
 
@@ -1165,7 +1185,9 @@ Các hàm sắp xếp song song trong thư viện (ví dụ `std::sort` với ch
 ### Bài tập Mục 27.1 (trang 791–792)
 
 - **27.1-1:** Nếu ở dòng 4 của P-FIB ta *sinh nhánh* P-FIB(n − 2) thay vì gọi thường, work, span và độ song song tiệm cận thay đổi thế nào? *Người tổng hợp:* không đổi. Work vẫn là thời gian của bản tuần tự hoá, Θ(φⁿ) (chỉ thêm hằng số chi phí sinh nhánh). Span vẫn T∞(n) = max(T∞(n − 1), T∞(n − 2)) + Θ(1) = Θ(n), vì hai lời gọi vốn đã song song logic. Độ song song vẫn Θ(φⁿ/n). Khác biệt duy nhất là dag thêm một mạch (mạch giữa spawn thứ hai và sync gần như rỗng).
-- **27.1-2:** Vẽ dag của P-FIB(5). Với mạch đơn vị, work, span, độ song song là bao nhiêu? Chỉ cách lập lịch dag trên 3 bộ xử lý bằng lập lịch tham lam, ghi trên mỗi mạch bước thời gian nó chạy. *Lời giải của người tổng hợp.* Đặt tên các lời gọi: A = P-FIB(5); A sinh nhánh B = P-FIB(4) và gọi C = P-FIB(3); B sinh nhánh D = P-FIB(3), gọi E = P-FIB(2); C sinh nhánh F = P-FIB(2), gọi lá G = P-FIB(1); D sinh nhánh H = P-FIB(2), gọi lá I = P-FIB(1); E sinh nhánh lá J = P-FIB(1), gọi lá K = P-FIB(0); F sinh nhánh lá L₁, gọi lá M₁; H sinh nhánh lá L₂, gọi lá M₂. Mỗi lời gọi A, B, C, D, E, F, H có ba mạch X.b, X.s, X.w; tám lá mỗi lá một mạch. **Work = 7 · 3 + 8 = 29**; **span = 10** (A.b → B.b → D.b → H.b → H.s → M₂ → H.w → D.w → B.w → A.w; khớp công thức S(n) = 2n); **độ song song = 2,9**. Một lịch tham lam trên 3 bộ xử lý (ưu tiên mạch có đường còn lại dài nhất, nhưng mọi bước đều chạy min(3, số mạch sẵn sàng) mạch):
+- **27.1-2:** Vẽ dag của P-FIB(5). Với mạch đơn vị, work, span, độ song song là bao nhiêu? Chỉ cách lập lịch dag trên 3 bộ xử lý bằng lập lịch tham lam, ghi trên mỗi mạch bước thời gian nó chạy. *Lời giải của người tổng hợp.* Đặt tên các lời gọi: A = P-FIB(5); A sinh nhánh B = P-FIB(4) và gọi C = P-FIB(3); B sinh nhánh D = P-FIB(3), gọi E = P-FIB(2); C sinh nhánh F = P-FIB(2), gọi lá G = P-FIB(1); D sinh nhánh H = P-FIB(2), gọi lá I = P-FIB(1); E sinh nhánh lá J = P-FIB(1), gọi lá K = P-FIB(0); F sinh nhánh lá L₁, gọi lá M₁; H sinh nhánh lá L₂, gọi lá M₂.
+
+  Mỗi lời gọi A, B, C, D, E, F, H có ba mạch X.b, X.s, X.w; tám lá mỗi lá một mạch. **Work = 7 · 3 + 8 = 29**; **span = 10** (A.b → B.b → D.b → H.b → H.s → M₂ → H.w → D.w → B.w → A.w; khớp công thức S(n) = 2n); **độ song song = 2,9**. Một lịch tham lam trên 3 bộ xử lý (ưu tiên mạch có đường còn lại dài nhất, nhưng mọi bước đều chạy min(3, số mạch sẵn sàng) mạch):
 
   | Bước | Mạch chạy | Số mạch sẵn sàng |
   |---|---|---|
@@ -1207,7 +1229,9 @@ Các hàm sắp xếp song song trong thư viện (ví dụ `std::sort` với ch
 
 ### Bài tập Mục 27.2 (trang 796–797)
 
-- **27.2-1:** Vẽ dag của P-SQUARE-MATRIX-MULTIPLY trên ma trận 2 × 2, ghi rõ đỉnh nào ứng với mạch nào; dùng quy ước cạnh sinh nhánh và cạnh gọi hướng xuống, cạnh tiếp nối ngang sang phải, cạnh trả về hướng lên. Với mạch đơn vị, phân tích work, span, độ song song. *Người tổng hợp, theo quy ước đếm giống Hình 27.4* (mỗi parallel for là một thủ tục chia đôi; nút trong ba mạch; mỗi lá vòng ngoài hoà vào nút gốc của vòng trong; mỗi lá vòng trong là một mạch chạy hai lần lặp k; dòng 1–2 hoà vào mạch đen đầu tiên, dòng 8 hoà vào mạch trắng cuối): vòng ngoài [i: 1,2] có 3 mạch; hai vòng trong [j: 1,2] (cho i = 1 và i = 2) mỗi vòng 3 mạch; bốn lá (i, j) mỗi lá 1 mạch. Work = 3 + 2 · 3 + 4 = 13. Đường găng: b(ngoài) → s(ngoài) → b(trong, i = 2) → s(trong, i = 2) → lá (2, 2) → w(trong, i = 2) → w(ngoài) = 7. Độ song song 13/7 ≈ 1,86. Quy ước khác (tách riêng các mạch dòng 1–2, dòng 8, lá vòng ngoài) cho số hơi khác, nhưng cùng dạng.
+- **27.2-1:** Vẽ dag của P-SQUARE-MATRIX-MULTIPLY trên ma trận 2 × 2, ghi rõ đỉnh nào ứng với mạch nào; dùng quy ước cạnh sinh nhánh và cạnh gọi hướng xuống, cạnh tiếp nối ngang sang phải, cạnh trả về hướng lên. Với mạch đơn vị, phân tích work, span, độ song song. *Người tổng hợp, theo quy ước đếm giống Hình 27.4* (mỗi parallel for là một thủ tục chia đôi; nút trong ba mạch; mỗi lá vòng ngoài hoà vào nút gốc của vòng trong; mỗi lá vòng trong là một mạch chạy hai lần lặp k; dòng 1–2 hoà vào mạch đen đầu tiên, dòng 8 hoà vào mạch trắng cuối): vòng ngoài [i: 1,2] có 3 mạch; hai vòng trong [j: 1,2] (cho i = 1 và i = 2) mỗi vòng 3 mạch; bốn lá (i, j) mỗi lá 1 mạch.
+
+  Work = 3 + 2 · 3 + 4 = 13. Đường găng: b(ngoài) → s(ngoài) → b(trong, i = 2) → s(trong, i = 2) → lá (2, 2) → w(trong, i = 2) → w(ngoài) = 7. Độ song song 13/7 ≈ 1,86. Quy ước khác (tách riêng các mạch dòng 1–2, dòng 8, lá vòng ngoài) cho số hơi khác, nhưng cùng dạng.
 - **27.2-2:** Làm lại 27.2-1 cho P-MATRIX-MULTIPLY-RECURSIVE. *Người tổng hợp (cùng quy ước):* lời gọi gốc có 8 mạch trước sync (mạch u₀ chạy dòng 1–5 tới spawn dòng 6; các mạch u₁ … u₆ mỗi mạch kết thúc ở một spawn dòng 7–12; mạch u₇ gọi dòng 13 tới sync); tám lời gọi con 1 × 1 mỗi lời gọi 1 mạch; sau sync là hai vòng parallel for 2 × 2 như bài 27.2-1, 13 mạch. Work = 8 + 8 + 13 = 29. Đường găng: u₀ → u₁ → … → u₇ (8 mạch) → lời gọi con ở dòng 13 (1) → phần cộng sau sync (7) = 16. Độ song song 29/16 ≈ 1,81. Nhận xét: với n nhỏ, chuỗi tiếp nối của bảy lệnh spawn làm span dài; với n lớn, các hằng số này chìm vào Θ(lg² n).
 - **27.2-3:** Cho mã giả nhân hai ma trận n × n với work Θ(n³) nhưng span chỉ Θ(lg n). *Người tổng hợp:* parallel for i, parallel for j, rồi c_ij = rút gọn cộng song song (chia đôi khoảng k, spawn/sync, cộng hai nửa) của a_ik·b_kj, k = 1..n. Work Θ(n³); span Θ(lg n) + Θ(lg n) + Θ(lg n) = Θ(lg n); độ song song Θ(n³/lg n). (Cách khác: tính mọi tích d_ijk = a_ik·b_kj vào mảng ba chiều bằng ba vòng parallel for, rồi rút gọn theo k — cùng cận, tốn Θ(n³) bộ nhớ.)
 - **27.2-4:** Cho thuật toán đa luồng hiệu quả nhân ma trận p × q với ma trận q × r, phải rất song song kể cả khi một trong p, q, r bằng 1. *Người tổng hợp:* parallel for i = 1..p, parallel for j = 1..r, c_ij = rút gọn cộng song song theo k = 1..q. Work Θ(pqr); span Θ(lg p + lg r + lg q); độ song song Θ(pqr/(lg p + lg q + lg r)). Nếu p = r = 1 (tích vô hướng) vẫn có độ song song Θ(q/lg q) nhờ rút gọn theo k; nếu q = 1 (tích ngoài) vẫn có Θ(pr/lg(pr)) nhờ hai vòng ngoài. Cách chia để trị theo chiều lớn nhất cũng đạt cận tương tự.
@@ -1217,7 +1241,9 @@ Các hàm sắp xếp song song trong thư viện (ví dụ `std::sort` với ch
 ### Bài tập Mục 27.3 (trang 804–805)
 
 - **27.3-1:** Giải thích cách gộp trường hợp cơ sở của P-MERGE. *Người tổng hợp:* khi n = n₁ + n₂ nhỏ hơn một ngưỡng g, gọi một thủ tục trộn tuần tự kiểu MERGE ghi thẳng vào A[p₃..r₃] (hai chỉ số chạy trên hai mảng nguồn). Work vẫn Θ(n); span thành Θ(lg² n + g); ngưỡng g cỡ vài nghìn phần tử trong thực tế để chi phí sinh nhánh không đáng kể.
-- **27.3-2:** Thay vì tìm trung vị của mảng dài hơn như P-MERGE, tìm trung vị của *toàn bộ* phần tử hai mảng đã sắp xếp bằng kết quả Exercise 9.3-8 (tìm trung vị của hợp hai mảng đã sắp xếp trong O(lg n)). Cho mã giả trộn đa luồng dùng thủ tục này và phân tích. *Người tổng hợp:* tìm k = ⌈n/2⌉-phần tử nhỏ nhất của hợp hai mảng, đồng thời có hai vị trí cắt i trong mảng 1 và j trong mảng 2 (i + j = k); đệ quy song song trộn T[p₁..i] với T[p₂..j] vào nửa đầu A và phần còn lại vào nửa sau. Mỗi lời gọi nhận đúng khoảng n/2 phần tử. Span PM∞(n) = PM∞(n/2) + Θ(lg n) = Θ(lg² n); work W(n) = 2W(n/2) + Θ(lg n) = Θ(n). Cùng bậc với P-MERGE nhưng chia cân hơn (hằng số tốt hơn), không cần đổi vai hai mảng.
+- **27.3-2:** Thay vì tìm trung vị của mảng dài hơn như P-MERGE, tìm trung vị của *toàn bộ* phần tử hai mảng đã sắp xếp bằng kết quả Exercise 9.3-8 (tìm trung vị của hợp hai mảng đã sắp xếp trong O(lg n)). Cho mã giả trộn đa luồng dùng thủ tục này và phân tích.
+
+  *Người tổng hợp:* tìm k = ⌈n/2⌉-phần tử nhỏ nhất của hợp hai mảng, đồng thời có hai vị trí cắt i trong mảng 1 và j trong mảng 2 (i + j = k); đệ quy song song trộn T[p₁..i] với T[p₂..j] vào nửa đầu A và phần còn lại vào nửa sau. Mỗi lời gọi nhận đúng khoảng n/2 phần tử. Span PM∞(n) = PM∞(n/2) + Θ(lg n) = Θ(lg² n); work W(n) = 2W(n/2) + Θ(lg n) = Θ(n). Cùng bậc với P-MERGE nhưng chia cân hơn (hằng số tốt hơn), không cần đổi vai hai mảng.
 - **27.3-3:** Cho thuật toán đa luồng hiệu quả phân hoạch một mảng quanh chốt như PARTITION (Mục 7.1); không cần tại chỗ; càng song song càng tốt. (Gợi ý: có thể cần mảng phụ và nhiều lượt duyệt.) *Người tổng hợp:* (1) parallel for đặt cờ f[i] = 1 nếu A[i] ≤ x, ngược lại 0 (bỏ chốt); (2) tính tổng tiền tố của f bằng P-SCAN-3 (Problem 27-4), cho mỗi phần tử ≤ x vị trí đích; (3) parallel for chép các phần tử ≤ x vào B theo vị trí đó; (4) làm tương tự với cờ 1 − f cho các phần tử > x, đặt sau chốt; (5) đặt chốt ở giữa, chép B về A nếu cần. Work Θ(n), span Θ(lg n), độ song song Θ(n/lg n). Kết quả còn giữ thứ tự tương đối (ổn định), khác PARTITION.
 - **27.3-4:** Cho phiên bản đa luồng của RECURSIVE-FFT (Chương 30), càng song song càng tốt. *Người tổng hợp:* tách a thành hệ số chẵn a^[0] và lẻ a^[1] bằng parallel for; spawn đệ quy FFT(a^[0]), gọi FFT(a^[1]), sync; vòng "bướm" k = 0..n/2 − 1 viết thành parallel for, tính ω_n^k trực tiếp (thay vì nhân dồn ω = ω·ω_n, vốn tạo phụ thuộc giữa các lần lặp). Work Θ(n lg n); span S(n) = S(n/2) + Θ(lg n) = Θ(lg² n); độ song song Θ(n/lg n).
 - **27.3-5 ★:** Cho phiên bản đa luồng của RANDOMIZED-SELECT (Chương 9), càng song song càng tốt. (Gợi ý: dùng thuật toán phân hoạch của 27.3-3.) *Người tổng hợp:* giữ nguyên cấu trúc (chọn chốt ngẫu nhiên, phân hoạch, đệ quy một phía), chỉ thay phân hoạch bằng phân hoạch song song span Θ(lg n). Work kỳ vọng Θ(n) như bản tuần tự. Mỗi lần phân hoạch, với xác suất hằng số mảng giảm theo một tỷ lệ hằng, nên số tầng kỳ vọng O(lg n), span kỳ vọng O(lg² n); độ song song (theo định nghĩa E[T₁]/E[T∞] của Problem 27-6) Θ(n/lg² n).
@@ -1399,7 +1425,9 @@ P-SCAN-DOWN(v, x, t, y, i, j)
 7      sync
 ```
 
-- **(d)** Điền ba biểu thức còn thiếu ở dòng 8 của P-SCAN-UP và dòng 5, 6 của P-SCAN-DOWN; lập luận P-SCAN-3 đúng. (Gợi ý: chứng minh giá trị v truyền cho P-SCAN-DOWN(v, x, t, y, i, j) thoả v = x[1] ⊗ x[2] ⊗ ⋯ ⊗ x[i − 1].) *Lời giải của người tổng hợp:* dòng 8 của P-SCAN-UP: **return t[k] ⊗ right**; dòng 5 của P-SCAN-DOWN: **v**; dòng 6: **v ⊗ t[k]**. Lý do: P-SCAN-UP(x, t, i, j) trả về x[i] ⊗ ⋯ ⊗ x[j] và lưu t[k] = x[i] ⊗ ⋯ ⊗ x[k] ở mỗi nút. Theo gợi ý, nửa trái [i..k] nhận v = x[1..i − 1] (giữ nguyên); nửa phải [k + 1..j] cần x[1..k] = v ⊗ (x[i] ⊗ ⋯ ⊗ x[k]) = v ⊗ t[k]. Ở lá, y[i] = v ⊗ x[i] = x[1] ⊗ ⋯ ⊗ x[i]. Lời gọi đầu P-SCAN-DOWN(x[1], …, 2, n) thoả gợi ý với i = 2. Mỗi t[k] được ghi đúng một lần bởi đúng nút có điểm giữa k, nên không tranh chấp.
+- **(d)** Điền ba biểu thức còn thiếu ở dòng 8 của P-SCAN-UP và dòng 5, 6 của P-SCAN-DOWN; lập luận P-SCAN-3 đúng. (Gợi ý: chứng minh giá trị v truyền cho P-SCAN-DOWN(v, x, t, y, i, j) thoả v = x[1] ⊗ x[2] ⊗ ⋯ ⊗ x[i − 1].) *Lời giải của người tổng hợp:* dòng 8 của P-SCAN-UP: **return t[k] ⊗ right**; dòng 5 của P-SCAN-DOWN: **v**; dòng 6: **v ⊗ t[k]**. Lý do: P-SCAN-UP(x, t, i, j) trả về x[i] ⊗ ⋯ ⊗ x[j] và lưu t[k] = x[i] ⊗ ⋯ ⊗ x[k] ở mỗi nút.
+
+  Theo gợi ý, nửa trái [i..k] nhận v = x[1..i − 1] (giữ nguyên); nửa phải [k + 1..j] cần x[1..k] = v ⊗ (x[i] ⊗ ⋯ ⊗ x[k]) = v ⊗ t[k]. Ở lá, y[i] = v ⊗ x[i] = x[1] ⊗ ⋯ ⊗ x[i]. Lời gọi đầu P-SCAN-DOWN(x[1], …, 2, n) thoả gợi ý với i = 2. Mỗi t[k] được ghi đúng một lần bởi đúng nút có điểm giữa k, nên không tranh chấp.
 
   Chạy tay với ⊗ = + và x = ⟨1, 2, 3, 4, 5⟩: P-SCAN-UP(2, 5): k = 3; t[3] = UP(2, 3) [k = 2, t[2] = x[2] = 2, right = 3, trả về 5]; right = UP(4, 5) [k = 4, t[4] = 4, right = 5, trả về 9]; trả về 5 + 9 = 14. Vậy t[2] = 2, t[3] = 5, t[4] = 4. P-SCAN-DOWN(1, 2, 5): k = 3; trái DOWN(1, 2, 3): k = 2, DOWN(1, 2, 2) cho y[2] = 1 + 2 = 3, DOWN(1 + t[2] = 3, 3, 3) cho y[3] = 3 + 3 = 6; phải DOWN(1 + t[3] = 6, 4, 5): k = 4, DOWN(6, 4, 4) cho y[4] = 10, DOWN(6 + t[4] = 10, 5, 5) cho y[5] = 15. Kết quả y = ⟨1, 3, 6, 10, 15⟩ — đúng.
 - **(e)** Phân tích work, span, độ song song của P-SCAN-3. *Người tổng hợp:* cả UP và DOWN có W(n) = 2W(n/2) + Θ(1) = Θ(n) và S(n) = S(n/2) + Θ(1) = Θ(lg n). Vậy work Θ(n), span Θ(lg n), độ song song Θ(n/lg n) — tốt nhất trong ba bản (đây là thuật toán quét song song kinh điển kiểu Blelloch, theo hiểu biết của người tổng hợp).
@@ -1420,7 +1448,9 @@ A = ⎛A₁₁ A₁₂⎞                                                       
 - **(a)** Cho mã giả đa luồng SIMPLE-STENCIL theo phân rã (27.11) (không cần lo chi tiết trường hợp cơ sở). Lập và giải truy hồi cho work và span theo n; độ song song? *Người tổng hợp:* SIMPLE-STENCIL(X): nếu X đủ nhỏ thì điền trực tiếp; ngược lại SIMPLE-STENCIL(X₁₁); spawn SIMPLE-STENCIL(X₁₂); SIMPLE-STENCIL(X₂₁); sync; SIMPLE-STENCIL(X₂₂). Work W(n) = 4W(n/2) + Θ(1) = Θ(n²). Span S(n) = 3S(n/2) + Θ(1) = Θ(n^lg 3) ≈ Θ(n^1,585). Độ song song Θ(n^(2 − lg 3)) ≈ Θ(n^0,415).
 - **(b)** Sửa để chia thành chín mảng con n/3 × n/3, đệ quy với nhiều song song nhất có thể; phân tích; so độ song song với (a). *Người tổng hợp:* các khối A_ab (a, b ∈ {1, 2, 3}) điền theo "đường chéo ngược" a + b: đợt 1 {A₁₁}; đợt 2 {A₁₂, A₂₁}; đợt 3 {A₁₃, A₂₂, A₃₁}; đợt 4 {A₂₃, A₃₂}; đợt 5 {A₃₃}; các khối trong một đợt chạy song song, các đợt nối tiếp (sync giữa các đợt). Work Θ(n²); span S(n) = 5S(n/3) + Θ(1) = Θ(n^(log₃ 5)) ≈ Θ(n^1,465); độ song song Θ(n^(2 − log₃ 5)) ≈ Θ(n^0,535) — nhiều hơn (a) một hệ số khoảng n^0,12.
 - **(c)** Tổng quát: chọn số nguyên b ≥ 2, chia mảng thành b² mảng con n/b × n/b, đệ quy song song tối đa. Work, span, độ song song theo n và b? Lập luận rằng với cách này độ song song phải là o(n) với mọi b ≥ 2. (Gợi ý: chỉ ra số mũ của n trong độ song song nhỏ hẳn hơn 1.) *Người tổng hợp:* có 2b − 1 đợt (theo a + b từ 2 tới 2b). Work Θ(n²); span S(n) = (2b − 1)S(n/b) + Θ(b) = Θ(n^(log_b(2b − 1))) (b là hằng); độ song song Θ(n^(2 − log_b(2b − 1))). Vì 2b − 1 > b nên log_b(2b − 1) > 1, số mũ 2 − log_b(2b − 1) < 1, độ song song o(n). (Khi b lớn, log_b(2b − 1) → 1 nhưng không bao giờ bằng 1.)
-- **(d)** Cho mã giả đạt độ song song Θ(n/lg n). Lập luận bằng work và span rằng bài toán thực ra có độ song song nội tại Θ(n). Hoá ra bản chất chia để trị của mã giả đa luồng không cho phép đạt độ song song tối đa này. *Người tổng hợp:* điền theo đường chéo ngược của từng ô: for d = 2 to 2n (tuần tự), parallel for mọi ô (i, j) với i + j = d. Mỗi đường chéo tốn span Θ(lg n), có 2n − 1 đường chéo: span Θ(n lg n), work Θ(n²), độ song song Θ(n/lg n). Nội tại: dag phụ thuộc giữa các ô có đường dài nhất từ (1, 1) tới (n, n) gồm 2n − 1 ô, nên span tối thiểu Θ(n), work Θ(n²), độ song song nội tại Θ(n); chi phí Θ(lg n) của mỗi parallel for là cái giá của việc mô phỏng "rào chắn" bằng cây spawn.
+- **(d)** Cho mã giả đạt độ song song Θ(n/lg n). Lập luận bằng work và span rằng bài toán thực ra có độ song song nội tại Θ(n). Hoá ra bản chất chia để trị của mã giả đa luồng không cho phép đạt độ song song tối đa này. *Người tổng hợp:* điền theo đường chéo ngược của từng ô: for d = 2 to 2n (tuần tự), parallel for mọi ô (i, j) với i + j = d.
+
+  Mỗi đường chéo tốn span Θ(lg n), có 2n − 1 đường chéo: span Θ(n lg n), work Θ(n²), độ song song Θ(n/lg n). Nội tại: dag phụ thuộc giữa các ô có đường dài nhất từ (1, 1) tới (n, n) gồm 2n − 1 ô, nên span tối thiểu Θ(n), work Θ(n²), độ song song nội tại Θ(n); chi phí Θ(lg n) của mỗi parallel for là cái giá của việc mô phỏng "rào chắn" bằng cây spawn.
 
 ### Problem 27-6: Thuật toán đa luồng ngẫu nhiên (Randomized multithreaded algorithms)
 
@@ -1587,7 +1617,9 @@ T_P ≥ max(T₁/P, T∞); lập lịch tham lam: T_P ≤ T₁/P + T∞ (chặt 
 
 ### Điểm mạnh: một mô hình nhỏ gọn mà giữ được toàn bộ bộ công cụ của sách
 
-Chương chọn đúng một mô hình — fork-join với spawn/sync — và cho thấy nó hoà hợp hoàn toàn với phần còn lại của sách: work là thời gian chạy của bản tuần tự hoá (người đọc đã biết phân tích), span là một truy hồi mới cùng dạng (định lý thợ, Bài tập 4.6-2), và mọi ví dụ (Fibonacci, nhân ma trận, sắp xếp trộn, quicksort, select, FFT, LU, Floyd-Warshall, LCS) đều là thuật toán đã học. Định lý 27.1 với chứng minh nửa trang (đếm bước đầy, bước không đầy) là một trong những kết quả "đắt giá nhất trên mỗi dòng" của sách: nó tách bài toán song song thành hai phần độc lập — thuật toán chỉ cần lo T₁ và T∞, bộ lập lịch lo phần còn lại — và giải thích vì sao các nền tảng thực tế cho người lập trình chỉ nêu song song logic.
+Chương chọn đúng một mô hình — fork-join với spawn/sync — và cho thấy nó hoà hợp hoàn toàn với phần còn lại của sách: work là thời gian chạy của bản tuần tự hoá (người đọc đã biết phân tích), span là một truy hồi mới cùng dạng (định lý thợ, Bài tập 4.6-2), và mọi ví dụ (Fibonacci, nhân ma trận, sắp xếp trộn, quicksort, select, FFT, LU, Floyd-Warshall, LCS) đều là thuật toán đã học.
+
+Định lý 27.1 với chứng minh nửa trang (đếm bước đầy, bước không đầy) là một trong những kết quả "đắt giá nhất trên mỗi dòng" của sách: nó tách bài toán song song thành hai phần độc lập — thuật toán chỉ cần lo T₁ và T∞, bộ lập lịch lo phần còn lại — và giải thích vì sao các nền tảng thực tế cho người lập trình chỉ nêu song song logic.
 
 ### Điểm mạnh: câu chuyện ★Socrates
 
@@ -1602,12 +1634,14 @@ Phép trộn song song với lập luận "mỗi bên không quá 3n/4" và ch�
 - **Bỏ qua bộ nhớ.** Mô hình lý tưởng không tính bộ nhớ đệm, băng thông, chia sẻ giả (false sharing) hay chi phí cấp phát. Trên máy thật, P-MATRIX-MULTIPLY-RECURSIVE cấp phát ma trận tạm ở *mọi* tầng (tổng bộ nhớ có thể rất lớn khi nhiều nhánh chạy cùng lúc), P-MERGE-SORT cấp phát mảng tạm ở mọi lời gọi; sách chỉ nhắc nhẹ (Problem 27-2) mà không phân tích không gian. Theo hiểu biết của người tổng hợp, các tài liệu sau này về Cilk có phân tích không gian ngăn xếp S_P ≤ P·S₁ cho lập lịch đánh cắp việc — chương không đề cập.
 - **Bộ lập lịch tập trung, tham lam là lý tưởng hoá.** Không có bộ lập lịch thật nào biết trạng thái toàn cục miễn phí; kết quả cho bộ lập lịch thực tế (đánh cắp việc) chỉ được nêu ở Ghi chú chương, không chứng minh.
 - **Chỉ một mô hình.** Chương bỏ hẳn mô hình bộ nhớ phân tán, truyền thông điệp, GPU/SIMD, và các thuật toán không tất định có khoá. Tác giả nói rõ đây là lựa chọn ("time will tell"), nhưng người đọc dễ có ấn tượng song song hoá chỉ là "thêm spawn".
-- **Một số khẳng định thiếu chính xác nhỏ** (đã ghi trong khối Lưu ý): "phần lớn thứ tự cho kết quả đúng" trong RACE-EXAMPLE (thực ra 2/20), "slightly less" cho Strassen, lỗi in T[q₂..p₂], phép thế FIB chỉ cho cận trên.
+- **Một số khẳng định thiếu chính xác nhỏ** (đã ghi trong mục Lưu ý cuối chương): "phần lớn thứ tự cho kết quả đúng" trong RACE-EXAMPLE (thực ra 2/20), "slightly less" cho Strassen, lỗi in T[q₂..p₂], phép thế FIB chỉ cho cận trên.
 - **Hằng số của sinh nhánh trong span.** Sách nói parallel for tốn Θ(lg n) span, nhưng vòng lặp sinh nhánh tuần tự (Problem 27-1) hay chuỗi bảy spawn liên tiếp ở P-MATRIX-MULTIPLY-RECURSIVE cho thấy cách viết mã ảnh hưởng span thực; với n nhỏ (Exercise 27.2-2), các hằng số này chiếm phần lớn đường găng.
 
 ### So với thực tế
 
-Mô hình fork-join của chương là mô hình chủ đạo của lập trình song song trên máy đa nhân hiện nay (theo hiểu biết của người tổng hợp): Java ForkJoinPool, .NET Task Parallel Library, Intel oneTBB, OpenMP tasks, Rust Rayon, và Cilk (nay là OpenCilk) đều dùng lập lịch đánh cắp việc và có lời khuyên giống chương: tạo đủ tác vụ (độ dư), gộp lá (grain size), tránh tranh chấp. Tuy vậy, hiệu năng thực tế của các thuật toán như sắp xếp hay nhân ma trận thường bị giới hạn bởi băng thông bộ nhớ trước khi bị giới hạn bởi span: sắp xếp song song trên 64 lõi hiếm khi nhanh gấp 64 lần dù độ song song Θ(n/lg² n) rất lớn. Trên GPU, mô hình phổ biến là song song dữ liệu (rất nhiều luồng chạy cùng lệnh), gần với "data-parallel model" mà Ghi chú chương nhắc; các thuật toán quét song song (Problem 27-4) là viên gạch cơ bản ở đó.
+Mô hình fork-join của chương là mô hình chủ đạo của lập trình song song trên máy đa nhân hiện nay (theo hiểu biết của người tổng hợp): Java ForkJoinPool, .NET Task Parallel Library, Intel oneTBB, OpenMP tasks, Rust Rayon, và Cilk (nay là OpenCilk) đều dùng lập lịch đánh cắp việc và có lời khuyên giống chương: tạo đủ tác vụ (độ dư), gộp lá (grain size), tránh tranh chấp.
+
+Tuy vậy, hiệu năng thực tế của các thuật toán như sắp xếp hay nhân ma trận thường bị giới hạn bởi băng thông bộ nhớ trước khi bị giới hạn bởi span: sắp xếp song song trên 64 lõi hiếm khi nhanh gấp 64 lần dù độ song song Θ(n/lg² n) rất lớn. Trên GPU, mô hình phổ biến là song song dữ liệu (rất nhiều luồng chạy cùng lệnh), gần với "data-parallel model" mà Ghi chú chương nhắc; các thuật toán quét song song (Problem 27-4) là viên gạch cơ bản ở đó.
 
 ### Liên hệ các chương khác
 
@@ -1626,3 +1660,157 @@ Mô hình fork-join của chương là mô hình chủ đạo của lập trình
 - **Phỏng vấn:** giải thích work/span và luật Amdahl (theo hiểu biết của người tổng hợp, luật span là một dạng của luật Amdahl: phần tuần tự giới hạn tăng tốc); vì sao x = x + 1 từ hai luồng có thể mất cập nhật; viết tổng song song bằng chia đôi (P-REDUCE); viết tổng tiền tố song song (P-SCAN-3) — một câu hỏi kinh điển ở các công ty làm hệ thống/GPU; giải thích vì sao sắp xếp trộn song song cần trộn song song.
 - **Lập trình thi đấu:** hầu như không dùng đa luồng; nhưng các kỹ thuật cấu trúc như "chia để trị trộn kết quả", "tổng tiền tố bằng cây", "điền bảng quy hoạch động theo đường chéo" xuất hiện thường xuyên.
 - **Kỹ thuật phần mềm:** khi song song hoá một đoạn mã, ước lượng T₁ và T∞ trước (đường phụ thuộc dài nhất là gì?); chọn kích thước hạt để có độ dư khoảng 10 lần số lõi; ưu tiên cấu trúc không tranh chấp (mỗi tác vụ ghi vùng riêng, gộp bằng rút gọn) thay vì khoá; đo trên nhiều cỡ máy hoặc ngoại suy bằng T₁/P + T∞ trước khi giữ một "tối ưu hoá"; dùng công cụ phát hiện tranh chấp (ví dụ ThreadSanitizer, hay Cilksan cho Cilk — theo hiểu biết của người tổng hợp) vì kiểm thử thông thường hầu như không bắt được lỗi tranh chấp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 27 trên một trang: sáu nhánh lớn theo lời giới thiệu Phần VII, phần mở đầu chương, ba mục 27.1–27.3 và các bài toán cuối chương của bản gốc, mỗi nhánh ghi khái niệm, định lý, thuật toán kèm work, span và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 27: thêm spawn, sync, parallel vào mã giả tuần tự, đo bằng work và span, lập lịch tham lam đạt gần tối ưu`"]
+  n1["`Lời giới thiệu Phần VII — Các chủ đề chọn lọc`"]
+  n0 --- n1
+  n2["`Phần VII mở rộng và bổ sung các phần trước theo ba hướng`"]
+  n1 --- n2
+  n3["`Mô hình tính toán mới: mạch, máy song song (Chương 27 đa luồng, Chương 30 có mạch FFT song song)`"]
+  n1 --- n3
+  n4["`Lĩnh vực chuyên biệt: ma trận, quy hoạch tuyến tính, lý thuyết số, so khớp chuỗi, hình học tính toán`"]
+  n1 --- n4
+  n5["`Giới hạn của thuật toán hiệu quả: NP-đầy đủ (Chương 34) và thuật toán xấp xỉ (Chương 35)`"]
+  n1 --- n5
+  n6["`Phần mở đầu chương — Từ máy tuần tự sang máy song song bộ nhớ chung`"]
+  n0 --- n6
+  n7["`Máy song song đã phổ biến: chip đa nhân, cụm máy, siêu máy tính`"]
+  n6 --- n7
+  n8["`Chưa có mô hình song song nào được chấp nhận rộng như máy RAM, chương chọn bộ nhớ chung vì xu hướng đa nhân`"]
+  n6 --- n8
+  n9["`Đa luồng tĩnh chia việc thủ công rất khó và dễ lỗi, nên cần nền tảng xử lý đồng thời`"]
+  n6 --- n9
+  n10["`Đa luồng động: người lập trình chỉ nêu song song logic, bộ lập lịch tự cân bằng tải`"]
+  n6 --- n10
+  n11["`Xoá ba từ khoá thì được bản tuần tự hoá, mô hình sát Cilk, OpenMP, Threading Building Blocks`"]
+  n6 --- n11
+  n12["`Mục 27.1 — Mô hình đa luồng động và các thước đo`"]
+  n0 --- n12
+  n13["`P-FIB: spawn cho phép cha chạy tiếp song song với con, sync đợi mọi con xong`"]
+  n12 --- n13
+  n14["`Tính toán là một dag: đỉnh là mạch lệnh không có điều khiển song song, cạnh tiếp nối, sinh nhánh, gọi, trả về`"]
+  n12 --- n14
+  n15["`Work T₁ và span T∞`"]
+  n12 --- n15
+  n16["`Work T₁ là thời gian trên 1 bộ xử lý, span T∞ là đường găng, thời gian khi có vô hạn bộ xử lý`"]
+  n15 --- n16
+  n17["`Luật work Tₚ ≥ T₁/P và luật span Tₚ ≥ T∞`"]
+  n15 --- n17
+  n18["`Độ song song T₁/T∞ là tăng tốc tối đa, ví dụ P-FIB(4) có 17 mạch, đường găng 8, độ song song 2,125`"]
+  n15 --- n18
+  n19["`Lập lịch tham lam`"]
+  n12 --- n19
+  n20["`Định lý 27.1: mọi bộ lập lịch tham lam đạt Tₚ ≤ T₁/P + T∞`"]
+  n19 --- n20
+  n21["`Hệ quả 27.2: trong phạm vi hệ số 2 của lịch tối ưu`"]
+  n19 --- n21
+  n22["`Hệ quả 27.3: P nhỏ hơn nhiều so với T₁/T∞ thì tăng tốc gần bằng P, kinh nghiệm độ dư ≥ 10 là đủ`"]
+  n19 --- n22
+  n23["`Phân tích: span nối tiếp thì cộng, song song thì lấy max, P-FIB có span Θ(n) và độ song song Θ(φⁿ/n)`"]
+  n12 --- n23
+  n24["`Vòng lặp parallel for được biên dịch thành cây chia đôi, thêm Θ(lg n) vào span, MAT-VEC có span Θ(n)`"]
+  n12 --- n24
+  n25["`Tranh chấp tất định: hai lệnh song song cùng truy cập một ô nhớ, có lệnh ghi, kết quả tuỳ thứ tự`"]
+  n12 --- n25
+  n26["`Bài học ★Socrates: bản nhanh hơn trên 32 bộ xử lý (40 s so với 65 s) lại chậm hơn trên 512 (10 s so với 5 s)`"]
+  n12 --- n26
+  n27["`Mục 27.2 — Nhân ma trận đa luồng`"]
+  n0 --- n27
+  n28["`P-SQUARE-MATRIX-MULTIPLY song song hai vòng ngoài: work Θ(n³), span Θ(n), độ song song Θ(n²)`"]
+  n27 --- n28
+  n29["`Song song cả vòng k bằng parallel for sẽ gây tranh chấp tất định`"]
+  n27 --- n29
+  n30["`Chia để trị tám phép nhân với ma trận tạm T`"]
+  n27 --- n30
+  n31["`Work Θ(n³), span M∞(n) = M∞(n/2) + Θ(lg n) = Θ(lg² n)`"]
+  n30 --- n31
+  n32["`Độ song song Θ(n³/lg² n), rất cao`"]
+  n30 --- n32
+  n33["`Strassen đa luồng: work Θ(n^lg 7), span Θ(lg² n), độ song song Θ(n^lg 7 / lg² n)`"]
+  n27 --- n33
+  n34["`Mục 27.3 — Sắp xếp trộn đa luồng`"]
+  n0 --- n34
+  n35["`Chỉ sinh nhánh hai lời gọi đệ quy thì span Θ(n), độ song song chỉ Θ(lg n), vì MERGE tuần tự là nút cổ chai`"]
+  n34 --- n35
+  n36["`P-MERGE trộn song song`"]
+  n34 --- n36
+  n37["`Lấy trung vị của mảng dài hơn, tìm nhị phân chỗ chèn trong mảng kia, đặt vào chỗ, đệ quy hai nửa song song`"]
+  n36 --- n37
+  n38["`Mỗi lời gọi đệ quy nhận tối đa 3n/4 phần tử, nên span Θ(lg² n), work Θ(n)`"]
+  n36 --- n38
+  n39["`P-MERGE-SORT: work Θ(n lg n), span Θ(lg³ n), độ song song Θ(n/lg² n)`"]
+  n34 --- n39
+  n40["`Thực tế nên chuyển sang sắp xếp tuần tự khi mảng đủ nhỏ để giảm hằng số`"]
+  n34 --- n40
+  n41["`Bài toán cuối chương và ghi chú chương`"]
+  n0 --- n41
+  n42["`27-1 Cài vòng lặp song song: chia đôi đệ quy cho span Θ(lg n), chia khối cỡ √n cho span Θ(√n)`"]
+  n41 --- n42
+  n43["`27-2 Bỏ ma trận tạm: span tăng lên Θ(n), độ song song vẫn Θ(n²)`"]
+  n41 --- n43
+  n44["`27-4 Rút gọn và tính tiền tố: P-SCAN-3 hai lượt lên xuống đạt work Θ(n), span Θ(lg n)`"]
+  n41 --- n44
+  n45["`27-6 Thuật toán ngẫu nhiên: luật work, span và cận tham lam theo kỳ vọng, P-RANDOMIZED-QUICKSORT`"]
+  n41 --- n45
+  n46["`Ghi chú: Blumofe và Leiserson chứng minh lập lịch đánh cắp việc ngẫu nhiên đạt E[Tₚ] ≤ T₁/P + O(T∞)`"]
+  n41 --- n46
+  n47["`Mã giả và mô hình lấy cảm hứng từ Cilk của MIT`"]
+  n41 --- n47
+  n48["`Thông điệp xuyên suốt`"]
+  n0 --- n48
+  n49["`Mục tiêu thiết kế: giữ work bằng bản tuần tự tốt nhất và làm span càng ngắn càng tốt`"]
+  n48 --- n49
+  n50["`Work và span là hai con số độc lập với máy, dự báo hiệu năng tốt hơn thời gian đo trên một máy`"]
+  n48 --- n50
+  n51["`Đa luồng động hợp tự nhiên với chia để trị và phân tích bằng truy hồi`"]
+  n48 --- n51
+  n52["`Phải giữ các mạch song song độc lập để tránh tranh chấp tất định`"]
+  n48 --- n52
+  class n0 root
+  class n1,n6,n12,n27,n34,n41,n48 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009). Gồm hai phần: Phần VII "Selected Topics" — trang tên phần (trang 768, không in số; trang 767 để trắng) và lời giới thiệu Phần VII (Introduction, trang 769–771); Chương 27 "Multithreaded Algorithms", trang 772–812.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS". Riêng Charles E. Leiserson là một trong những người dẫn dắt dự án Cilk ở MIT, nguồn gốc trực tiếp của mô hình lập trình trong chương này (theo chính phần Ghi chú chương).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Sáu phần đầu của sách đều làm việc trên mô hình máy RAM tuần tự của Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)): mỗi lúc chỉ một lệnh được thực hiện. Phần VII "Các chủ đề chọn lọc" mở rộng và bổ sung cho phần trước: một số chương đưa vào mô hình tính toán mới (mạch, máy song song), một số đi vào lĩnh vực chuyên biệt (hình học tính toán, lý thuyết số), hai chương cuối bàn giới hạn của việc thiết kế thuật toán hiệu quả.
+
+Chương 27 là chương đầu tiên của Phần VII và là chỗ duy nhất trong sách thay mô hình tuần tự bằng **mô hình song song đa luồng động** (dynamic multithreading).
+
+Chương dùng lại rất nhiều thứ đã có: dãy Fibonacci và tỷ lệ vàng của Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)); truy hồi, định lý thợ, Bài tập 4.6-2 và các thuật toán nhân ma trận (ba vòng lặp lồng, chia để trị tám phép nhân, Strassen) của Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)); sắp xếp trộn và thủ tục MERGE của Chương 2; đường đi dài nhất trong dag của Mục 24.2 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)); PARTITION và RANDOMIZED-QUICKSORT của Chương 7 ([C07-quicksort.md](C07-quicksort.md)); RANDOMIZED-SELECT và SELECT của Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)); thuật toán Floyd-Warshall của Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)); LCS và mẫu "ô phụ thuộc ô trên, ô trái" của Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)).
+
+Bài toán cuối chương nhìn về phía trước: song song hoá phân tích LU/LUP của Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) và RECURSIVE-FFT của Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)). Các chương còn lại của Phần VII: [C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md), [C31-thuat-toan-so-hoc.md](C31-thuat-toan-so-hoc.md), [C32-so-khop-chuoi.md](C32-so-khop-chuoi.md), [C33-hinh-hoc-tinh-toan.md](C33-hinh-hoc-tinh-toan.md), [C34-np-day-du.md](C34-np-day-du.md), [C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md).
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong chương này.** Dấu sao chỉ có ở hai bài tập: Exercise 27.3-5 (song song hoá RANDOMIZED-SELECT) và Exercise 27.3-6 (song song hoá SELECT). Ký hiệu "★" trong tên chương trình cờ vua "★Socrates" (trang 790) là một phần của tên riêng, không phải dấu bài khó.
+- **Lớp chữ PDF hỏng nặng ký hiệu toán của chương, đã đọc lại từ ảnh trang:** "T1" của lớp chữ dùng chung cho cả T₁ (work) lẫn T∞ (span) — ký hiệu ∞ mất hoàn toàn, nên các công thức "T1=T1" thực ra là T₁/T∞; "‚.n/" là Θ(φⁿ) (ký hiệu φ mất); "PM1", "PMS1", "MS01", "M1" lẫn lộn chỉ số 1 và ∞; mọi dấu ≤, ≥, ≪ bị mất (ví dụ "TP T1=P" là T_P ≥ T₁/P); "˛" là α, "˝" là ⊗; "AŒq3" là A[q₃]; dòng 3 của P-MERGE mất chú thích "// ensure that n₁ ≥ n₂". Toàn bộ pseudocode, công thức (27.1)–(27.11), Định lý 27.1, Hệ quả 27.2–27.3 và Hình 27.1–27.6 trong bản tổng hợp này được đối chiếu với ảnh các trang 774–812. Hình 27.1, 27.2, 27.4, 27.5, 27.6 gần như không còn gì trong lớp chữ; người tổng hợp đọc trên ảnh và vẽ lại bằng sơ đồ text/bảng.
+- **Lỗi in và chỗ chưa chặt của sách (nhận xét của người tổng hợp):**
+  - Trang 800, lời giải thích dòng 10 của P-MERGE viết "all the elements in T[q₂ .. p₂] are at least as large as T[q₁]"; đúng phải là **T[q₂ .. r₂]**.
+  - Trang 774 thiếu chữ: "as well how the underlying concurrency platform…" (đúng: "as well as how"). Trang 790 "processsors" (thừa chữ s). Trang 792 "straighforward" (thiếu chữ t). Trang 795 "add the products from T into C in using…" (thừa chữ "in").
+  - Truy hồi (27.9) viết số hạng cộng thêm là O(lg n), nhưng dòng thế ngay sau lại viết Θ(lg n). Không ảnh hưởng kết luận.
+  - Phép thế cho FIB (trang 775–776) chỉ chứng minh T(n) ≤ aFₙ − b, tức là cận trên O(Fₙ); sách viết kết luận T(n) = Θ(Fₙ) mà không nêu cận dưới (cận dưới dễ: số lời gọi là 2Fₙ₊₁ − 1 ≥ Fₙ).
+  - Sách nói khi trộn lẫn lệnh của hai bộ xử lý trong RACE-EXAMPLE thì "most orderings produce correct results". Nếu đếm đều mọi cách xen kẽ hai chuỗi 3 lệnh thì có C(6, 3) = 20 cách, và chỉ **2** cách cho kết quả đúng 2 (một bộ xử lý làm xong hết rồi bộ kia mới đọc); 18 cách còn lại in ra 1. Câu của sách chỉ đúng theo nghĩa thực tế (ba lệnh của một bộ xử lý chạy rất sát nhau nên hiếm khi bị chen ngang), không đúng theo nghĩa đếm thứ tự.
+  - Sách gọi độ song song Θ(n^lg 7/lg² n) của Strassen đa luồng là "slightly less" so với Θ(n³/lg² n). Thực ra chênh lệch là một luỹ thừa của n (hệ số n^(3 − lg 7) ≈ n^0,19), tuy với n thực tế thì vẫn nhỏ.
+  - P-MERGE-SORT không xử lý trường hợp mảng rỗng (n = 0): khi đó dòng 5 cho q = p − 1, dòng 7 gọi lại chính bài toán rỗng và đệ quy không dừng. Thủ tục ngầm giả định n ≥ 1.
+  - Người tổng hợp không chắc những chỗ trên có nằm trong danh sách errata chính thức của ấn bản 3 hay không (không tra cứu).
+- **Các ví dụ chạy tay đã tự kiểm tra lại:** cây đệ quy FIB(6) có 25 nút (= 2F₇ − 1); dag P-FIB(4) có 17 mạch, đường găng 8 mạch, độ song song 17/8 = 2,125 (khớp sách); dag MAT-VEC-MAIN-LOOP(A, x, y, 8, 1, 8) có 7 · 3 + 8 = 29 mạch và đường găng 10 mạch; bảng giá trị x, r₁, r₂ của RACE-EXAMPLE khớp sách; ví dụ cờ vua: T₃₂ = 2048/32 + 1 = 65, T′₃₂ = 1024/32 + 8 = 40, T₅₁₂ = 4 + 1 = 5, T′₅₁₂ = 2 + 8 = 10 — đều khớp sách. Người tổng hợp tự chạy tay thêm P-MERGE trên ⟨2, 5, 8, 9⟩ và ⟨1, 6, 7⟩, P-SCAN-3 trên ⟨1, 2, 3, 4, 5⟩ và một lịch tham lam cho P-FIB(5) trên 3 bộ xử lý (phần Nội dung chi tiết và Bài tập).
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương này trở thành Chương 26 với tên "Parallel Algorithms"; mô hình được gọi là song song fork-join (fork-join parallelism), vẫn dùng các từ khoá spawn, sync và parallel for. Phần VII của ấn bản 4 có thêm hai chương mới là "Online Algorithms" và "Machine-Learning Algorithms", nên lời giới thiệu Phần VII cũng khác. Các chi tiết khác (ví dụ câu chuyện ★Socrates còn hay không, đánh số bài tập), người tổng hợp không nhớ chắc nên không liệt kê.

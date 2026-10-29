@@ -1,17 +1,18 @@
 # Chương 26 — Luồng cực đại (Maximum Flow)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VI "Graph Algorithms", Chương 26 "Maximum Flow", trang 708–766 (trang 767 để trắng; trang 768 là trang tên Phần VII "Selected Topics", thuộc về [C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)).
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 26 là chương cuối của Phần VI (thuật toán đồ thị). Nó dùng lại gần như mọi công cụ của các chương đồ thị trước: biểu diễn đồ thị và thuộc tính cạnh dạng (u, v).f, tìm kiếm theo chiều rộng và theo chiều sâu ở Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) để tìm đường tăng luồng; khái niệm lát cắt của cây khung nhỏ nhất ở Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md)), nay áp dụng cho đồ thị có hướng; khoảng cách đường đi ngắn nhất và bất đẳng thức tam giác (Bổ đề 24.10) ở Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)) cho phân tích Edmonds-Karp; sắp xếp topo của đồ thị không chu trình (Chương 22) cho bất biến của thuật toán relabel-to-front. Kỹ thuật hàm thế của phân tích khấu hao ở Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) được dùng để chặn số lần đẩy không bão hoà. Về phía sau: Chương 29 ([C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)) trình bày luồng cực đại và luồng chi phí nhỏ nhất như bài toán quy hoạch tuyến tính (Exercise 26.1-5 báo trước), và định lý luồng cực đại – lát cắt cực tiểu là một trường hợp của đối ngẫu quy hoạch tuyến tính; Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) và Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) đối chiếu cặp ghép hai phía (giải được trong thời gian đa thức) với các bài toán phủ và ghép khó hơn.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **giá trị luồng lớn nhất từ nguồn tới đích bằng đúng sức chứa của lát cắt nhỏ nhất ngăn cách chúng (định lý luồng cực đại – lát cắt cực tiểu), và điều kiện "không còn đường tăng luồng trong mạng thặng dư" vừa là tiêu chuẩn dừng vừa là bằng chứng tối ưu; trên nền đó có hai họ thuật toán: tăng luồng dần dọc các đường (Ford-Fulkerson, Edmonds-Karp O(VE²)) và đẩy tiền luồng cục bộ theo độ cao đỉnh (đẩy–nâng nhãn O(V²E), relabel-to-front O(V³)).** Mục 26.1 định nghĩa mạng luồng (sức chứa không âm, không có cạnh ngược chiều, nguồn s, đích t), luồng (ràng buộc sức chứa, bảo toàn luồng), giá trị |f|, và hai kỹ thuật mô hình hoá: tách cạnh để khử cạnh ngược chiều, thêm siêu nguồn/siêu đích cho bài toán nhiều nguồn nhiều đích. Mục 26.2 xây ba ý tưởng — mạng thặng dư G_f (có cạnh ngược để "trả lại" luồng), đường tăng luồng, lát cắt — chứng minh luồng ròng qua mọi lát cắt bằng |f|, |f| ≤ c(S, T), rồi định lý luồng cực đại – lát cắt cực tiểu; thuật toán FORD-FULKERSON chạy O(E|f*|) với sức chứa nguyên và có thể tốn 2.000.000 vòng trên mạng 4 đỉnh; Edmonds-Karp chọn đường ngắn nhất bằng BFS, khoảng cách từ s không giảm, mỗi cạnh tới hạn nhiều nhất |V|/2 lần, nên O(VE) lần tăng và O(VE²) thời gian. Mục 26.3 quy cặp ghép cực đại trong đồ thị hai phía về luồng cực đại trên mạng sức chứa 1, dùng định lý tính nguyên, được O(VE). Mục ★26.4 trình bày phương pháp đẩy–nâng nhãn của Goldberg: tiền luồng cho phép luồng dư tại đỉnh, hàm độ cao h với h(s) = |V|, h(t) = 0, h(u) ≤ h(v) + 1 trên cạnh thặng dư bảo đảm không bao giờ có đường s ⇝ t trong G_f; độ cao ≤ 2|V| − 1, nên < 2|V|² lần nâng nhãn, < 2|V||E| lần đẩy bão hoà, < 4|V|²(|V| + |E|) lần đẩy không bão hoà, tổng O(V²E). Mục ★26.5 tổ chức các thao tác bằng danh sách đỉnh kề và thủ tục DISCHARGE, giữ danh sách L là sắp xếp topo của mạng chấp nhận được (một dag) và chuyển đỉnh vừa nâng nhãn lên đầu, được O(V³).
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục có dấu sao (★):** Mục 26.4 "Push-relabel algorithms" và Mục 26.5 "The relabel-to-front algorithm". Bài tập có dấu sao: Exercise 26.3-4 (định lý Hall), 26.3-5 (đồ thị hai phía d-chính quy), 26.4-9 (duy trì độ cao bằng đúng khoảng cách), 26.5-2 (đẩy–nâng nhãn với hàng đợi FIFO), 26.5-4 (xả đỉnh tràn cao nhất).
-> - **Lớp chữ PDF hỏng nặng ở chương này**: ký tự v nghiêng (đỉnh v) bị mất hoàn toàn (ví dụ `.u; /2 E` là `(u, v) ∈ E`, `f.  ;u /` là `f(v, u)`), dấu trừ thành `/NUL`, ⇝ thành `❀`, ≤ và ≥ mất, ↑ của phép tăng luồng thành `"`, các tổng kép và hệ phương trình nhiều trường hợp (26.2), (26.4), (26.8), (26.15), (26.16) vỡ dòng; nhãn các hình 26.1–26.11 bị trộn thành dãy số. Mọi pseudocode, công thức (26.1)–(26.17), mọi hình và chứng minh trong bản tổng hợp này được đọc lại từ ảnh **tất cả** các trang 708–768; Hình 26.8 và 26.11 được phóng to riêng để xác định cạnh và điểm xuất phát.
-> - **Lỗi chính tả trong sách (nhận xét của người tổng hợp):** trang 717 viết "just send 3 creates from u to v" — đúng phải là "crates" (thùng hàng); trang 714, Exercise 26.1-7 viết "how much flow can pass though v" — đúng phải là "through"; trang 766 viết "shortest paths from the source to the sink tend have high capacity" — thiếu "to" ("tend to have"). Không ảnh hưởng nội dung.
-> - **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):** (1) Lời giải thích của Bổ đề 26.14 suy "h(u) < h(v) + 1 kéo theo h(u) ≤ h(v)" ngầm dùng việc độ cao là số nguyên (h : V → ℕ) — đúng nhưng sách không nói. (2) Trong chứng minh Bổ đề 26.23, hàm thế Φ lấy tổng trên mọi đỉnh có luồng dư dương, kể cả đích t (t có thể có e(t) > 0); vì t.h = 0 nên không ảnh hưởng, nhưng sách không nhắc. (3) Định lý 26.24 kết luận O(V²E) từ tổng các cận 2|V|² + 2|V||E| + 4|V|²(|V| + |E|), tức O(V³ + V²E); bước gộp về O(V²E) cần |E| ≥ |V| − 1, giả định có từ Mục 26.1 nhưng không được nhắc lại. (4) Exercise 26.2-1 và Bổ đề 26.1 dùng "mở rộng tổng sang V vì số hạng thêm vào bằng 0" — với f′ điều này cần lập luận (f′(s, v) > 0 chỉ khi (s, v) hoặc (v, s) thuộc E), sách để thành bài tập. Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
-> - **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** luồng 19 trên mạng Lucky Puck (bảo toàn tại cả 4 đỉnh trung gian); lát cắt ({s, v₁, v₂}, {v₃, v₄, t}) có luồng ròng 19, sức chứa 26; năm vòng FORD-FULKERSON cho luồng 23 (4, 8, 12, 19, 23); mạng 4 đỉnh cần 2.000.000 lần tăng; DISCHARGE(y) đúng 15 vòng lặp; RELABEL-TO-FRONT trên mạng 5 đỉnh cho luồng 20 (người tổng hợp kiểm bằng lát cắt ({s, y}, {x, z, t}) sức chứa 12 + 8 = 20). Người tổng hợp bổ sung: Edmonds-Karp trên mạng Lucky Puck (3 lần tăng, 23), một ví dụ chạy tay thuật toán đẩy–nâng nhãn tổng quát (sách không có), và lời giải Exercise 26.5-1 (luồng 23).
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** do sắp xếp lại chương, luồng cực đại trở thành Chương 24 "Maximum Flow"; hai mục đẩy–nâng nhãn (26.4, 26.5 của ấn bản 3) bị **bỏ** khỏi chương; cặp ghép hai phía được tách thành chương mới "Matchings in Bipartite Graphs" (Chương 25), trong đó thuật toán Hopcroft-Karp (Problem 26-6 ở ấn bản 3) được trình bày trong phần chính, cùng bài toán hôn nhân ổn định và thuật toán Hungary cho bài toán phân công. Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **giá trị luồng lớn nhất từ nguồn tới đích bằng đúng sức chứa của lát cắt nhỏ nhất ngăn cách chúng (định lý luồng cực đại – lát cắt cực tiểu), và điều kiện "không còn đường tăng luồng trong mạng thặng dư" vừa là tiêu chuẩn dừng vừa là bằng chứng tối ưu; trên nền đó có hai họ thuật toán: tăng luồng dần dọc các đường (Ford-Fulkerson, Edmonds-Karp O(VE²)) và đẩy tiền luồng cục bộ theo độ cao đỉnh (đẩy–nâng nhãn O(V²E), relabel-to-front O(V³)).**
+
+Mục 26.1 định nghĩa mạng luồng (sức chứa không âm, không có cạnh ngược chiều, nguồn s, đích t), luồng (ràng buộc sức chứa, bảo toàn luồng), giá trị |f|, và hai kỹ thuật mô hình hoá: tách cạnh để khử cạnh ngược chiều, thêm siêu nguồn/siêu đích cho bài toán nhiều nguồn nhiều đích.
+
+Mục 26.2 xây ba ý tưởng — mạng thặng dư G_f (có cạnh ngược để "trả lại" luồng), đường tăng luồng, lát cắt — chứng minh luồng ròng qua mọi lát cắt bằng |f|, |f| ≤ c(S, T), rồi định lý luồng cực đại – lát cắt cực tiểu; thuật toán FORD-FULKERSON chạy O(E|f*|) với sức chứa nguyên và có thể tốn 2.000.000 vòng trên mạng 4 đỉnh; Edmonds-Karp chọn đường ngắn nhất bằng BFS, khoảng cách từ s không giảm, mỗi cạnh tới hạn nhiều nhất |V|/2 lần, nên O(VE) lần tăng và O(VE²) thời gian.
+
+Mục 26.3 quy cặp ghép cực đại trong đồ thị hai phía về luồng cực đại trên mạng sức chứa 1, dùng định lý tính nguyên, được O(VE).
+
+Mục ★26.4 trình bày phương pháp đẩy–nâng nhãn của Goldberg: tiền luồng cho phép luồng dư tại đỉnh, hàm độ cao h với h(s) = |V|, h(t) = 0, h(u) ≤ h(v) + 1 trên cạnh thặng dư bảo đảm không bao giờ có đường s ⇝ t trong G_f; độ cao ≤ 2|V| − 1, nên < 2|V|² lần nâng nhãn, < 2|V||E| lần đẩy bão hoà, < 4|V|²(|V| + |E|) lần đẩy không bão hoà, tổng O(V²E).
+
+Mục ★26.5 tổ chức các thao tác bằng danh sách đỉnh kề và thủ tục DISCHARGE, giữ danh sách L là sắp xếp topo của mạng chấp nhận được (một dag) và chuyển đỉnh vừa nâng nhãn lên đầu, được O(V³).
 
 ## Sơ đồ
 
@@ -274,9 +275,13 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao biết một luồng đã là lớn nhất?** Nhờ định lý luồng cực đại – lát cắt cực tiểu (Định lý 26.6): ba điều sau tương đương — f là luồng cực đại; mạng thặng dư G_f không còn đường đi từ s tới t; |f| bằng sức chứa của một lát cắt (S, T) nào đó. Chìa khoá là hai bổ đề: luồng ròng qua mọi lát cắt đều bằng |f| (Bổ đề 26.4), nên |f| không vượt sức chứa của bất kỳ lát cắt nào (Hệ quả 26.5). Khi G_f hết đường tăng luồng, tập S các đỉnh đến được từ s cho một lát cắt mà mọi cạnh S → T bão hoà và mọi cạnh T → S rỗng, nên |f| = c(S, T) — vừa là luồng vừa là "giấy chứng nhận" tối ưu. Ví dụ Lucky Puck: luồng 23 và lát cắt ({s, v₁, v₂, v₄}, {v₃, t}) có sức chứa 12 + 7 + 4 = 23.
+1. **Làm sao biết một luồng đã là lớn nhất?** Nhờ định lý luồng cực đại – lát cắt cực tiểu (Định lý 26.6): ba điều sau tương đương — f là luồng cực đại; mạng thặng dư G_f không còn đường đi từ s tới t; |f| bằng sức chứa của một lát cắt (S, T) nào đó. Chìa khoá là hai bổ đề: luồng ròng qua mọi lát cắt đều bằng |f| (Bổ đề 26.4), nên |f| không vượt sức chứa của bất kỳ lát cắt nào (Hệ quả 26.5).
+
+   Khi G_f hết đường tăng luồng, tập S các đỉnh đến được từ s cho một lát cắt mà mọi cạnh S → T bão hoà và mọi cạnh T → S rỗng, nên |f| = c(S, T) — vừa là luồng vừa là "giấy chứng nhận" tối ưu. Ví dụ Lucky Puck: luồng 23 và lát cắt ({s, v₁, v₂, v₄}, {v₃, t}) có sức chứa 12 + 7 + 4 = 23.
 2. **Tìm luồng cực đại nhanh đến đâu, và chọn đường tăng luồng thế nào?** Ford-Fulkerson với sức chứa nguyên chạy O(E|f*|) — có thể rất chậm: mạng 4 đỉnh với sức chứa 1.000.000 cần 2.000.000 lần tăng nếu chọn đường xui; với sức chứa vô tỷ có thể không dừng. Edmonds-Karp chọn đường ít cạnh nhất bằng BFS: khoảng cách δ_f(s, v) không giảm, mỗi cạnh trở thành tới hạn nhiều nhất |V|/2 lần, nên O(VE) lần tăng, O(VE²) thời gian, không phụ thuộc giá trị sức chứa (trên mạng 4 đỉnh trên chỉ cần 2 lần tăng). Thuật toán đẩy–nâng nhãn tổng quát đạt O(V²E), và relabel-to-front đạt O(V³).
-3. **Phương pháp đẩy–nâng nhãn hoạt động và đúng như thế nào?** Nó đổ đầy mọi cạnh rời nguồn (tiền luồng), rồi cục bộ đẩy luồng dư từ đỉnh cao xuống đỉnh thấp hơn đúng 1 bậc, và nâng nhãn đỉnh bị kẹt lên 1 + độ cao thấp nhất của đỉnh kề còn cạnh thặng dư. Hàm độ cao với h(s) = |V| bảo đảm suốt quá trình không có đường s ⇝ t trong G_f (vì đường đơn có < |V| cạnh, mỗi cạnh chỉ hạ được 1 bậc); khi hết đỉnh tràn, tiền luồng là luồng và theo định lý luồng cực đại – lát cắt cực tiểu, nó cực đại. Độ cao không vượt 2|V| − 1 cho các cận < 2|V|² lần nâng nhãn, < 2|V||E| lần đẩy bão hoà, < 4|V|²(|V| + |E|) lần đẩy không bão hoà. Relabel-to-front giữ danh sách đỉnh theo thứ tự topo của mạng chấp nhận được, chuyển đỉnh vừa nâng nhãn lên đầu, nên mỗi "pha" giữa hai lần nâng nhãn có ≤ |V| lần xả: O(V³).
+3. **Phương pháp đẩy–nâng nhãn hoạt động và đúng như thế nào?** Nó đổ đầy mọi cạnh rời nguồn (tiền luồng), rồi cục bộ đẩy luồng dư từ đỉnh cao xuống đỉnh thấp hơn đúng 1 bậc, và nâng nhãn đỉnh bị kẹt lên 1 + độ cao thấp nhất của đỉnh kề còn cạnh thặng dư. Hàm độ cao với h(s) = |V| bảo đảm suốt quá trình không có đường s ⇝ t trong G_f (vì đường đơn có < |V| cạnh, mỗi cạnh chỉ hạ được 1 bậc); khi hết đỉnh tràn, tiền luồng là luồng và theo định lý luồng cực đại – lát cắt cực tiểu, nó cực đại.
+
+   Độ cao không vượt 2|V| − 1 cho các cận < 2|V|² lần nâng nhãn, < 2|V||E| lần đẩy bão hoà, < 4|V|²(|V| + |E|) lần đẩy không bão hoà. Relabel-to-front giữ danh sách đỉnh theo thứ tự topo của mạng chấp nhận được, chuyển đỉnh vừa nâng nhãn lên đầu, nên mỗi "pha" giữa hai lần nâng nhãn có ≤ |V| lần xả: O(V³).
 
 ## Khái niệm cần biết
 
@@ -306,7 +311,9 @@
 
 ### 1. Phần mở đầu chương (trang 708–709)
 
-Giống như có thể mô hình hoá bản đồ đường sá bằng một đồ thị có hướng để tìm đường đi ngắn nhất từ điểm này tới điểm kia, ta cũng có thể coi một đồ thị có hướng là một **mạng luồng** (flow network) và dùng nó để trả lời các câu hỏi về dòng vật chất. Hãy hình dung một thứ vật chất chảy qua một hệ thống, từ một **nguồn** (source), nơi vật chất được sản xuất, tới một **đích** (sink), nơi vật chất được tiêu thụ. Nguồn sản xuất với một tốc độ ổn định nào đó, và đích tiêu thụ với cùng tốc độ ấy. "Luồng" (flow) của vật chất tại một điểm bất kỳ trong hệ thống, về trực giác, là tốc độ vật chất di chuyển qua điểm đó. Mạng luồng mô hình hoá được nhiều bài toán: chất lỏng chảy trong đường ống, linh kiện đi qua dây chuyền lắp ráp, dòng điện trong mạng điện, thông tin trong mạng truyền thông.
+Giống như có thể mô hình hoá bản đồ đường sá bằng một đồ thị có hướng để tìm đường đi ngắn nhất từ điểm này tới điểm kia, ta cũng có thể coi một đồ thị có hướng là một **mạng luồng** (flow network) và dùng nó để trả lời các câu hỏi về dòng vật chất. Hãy hình dung một thứ vật chất chảy qua một hệ thống, từ một **nguồn** (source), nơi vật chất được sản xuất, tới một **đích** (sink), nơi vật chất được tiêu thụ.
+
+Nguồn sản xuất với một tốc độ ổn định nào đó, và đích tiêu thụ với cùng tốc độ ấy. "Luồng" (flow) của vật chất tại một điểm bất kỳ trong hệ thống, về trực giác, là tốc độ vật chất di chuyển qua điểm đó. Mạng luồng mô hình hoá được nhiều bài toán: chất lỏng chảy trong đường ống, linh kiện đi qua dây chuyền lắp ráp, dòng điện trong mạng điện, thông tin trong mạng truyền thông.
 
 Có thể coi mỗi cạnh có hướng của mạng luồng là một **ống dẫn** cho vật chất. Mỗi ống có một **khả năng thông qua** (capacity — trong tổng hợp này gọi thống nhất là **sức chứa**) cho trước, là tốc độ tối đa vật chất có thể chảy qua ống, ví dụ 200 gallon chất lỏng mỗi giờ qua một ống nước, hay 20 ampe dòng điện qua một sợi dây. Các đỉnh là các điểm nối ống; trừ nguồn và đích, vật chất chảy qua đỉnh mà không tích tụ lại ở đó. Nói cách khác, tốc độ vật chất đi vào một đỉnh phải bằng tốc độ nó đi ra khỏi đỉnh. Tính chất này gọi là **bảo toàn luồng** (flow conservation); khi vật chất là dòng điện, nó chính là định luật Kirchhoff về dòng điện.
 
@@ -326,7 +333,9 @@ Mục này cho định nghĩa đồ thị của mạng luồng, bàn các tính 
 
 #### Mạng luồng và luồng (Flow networks and flows)
 
-**Mạng luồng** G = (V, E) là một đồ thị có hướng, trong đó mỗi cạnh (u, v) ∈ E có một **sức chứa** không âm c(u, v) ≥ 0. Ta yêu cầu thêm: nếu E chứa cạnh (u, v) thì **không có** cạnh (v, u) theo chiều ngược lại (sẽ thấy ngay sau đây cách lách hạn chế này). Nếu (u, v) ∉ E, để tiện ta định nghĩa c(u, v) = 0; và không cho phép khuyên (cạnh từ một đỉnh tới chính nó). Có hai đỉnh đặc biệt: **nguồn** s và **đích** t. Để tiện, ta giả định mọi đỉnh đều nằm trên một đường đi nào đó từ nguồn tới đích: với mọi v ∈ V, mạng chứa một đường đi s ⇝ v ⇝ t. Do đó đồ thị liên thông, và vì mọi đỉnh khác s có ít nhất một cạnh đi vào, |E| ≥ |V| − 1.
+**Mạng luồng** G = (V, E) là một đồ thị có hướng, trong đó mỗi cạnh (u, v) ∈ E có một **sức chứa** không âm c(u, v) ≥ 0. Ta yêu cầu thêm: nếu E chứa cạnh (u, v) thì **không có** cạnh (v, u) theo chiều ngược lại (sẽ thấy ngay sau đây cách lách hạn chế này). Nếu (u, v) ∉ E, để tiện ta định nghĩa c(u, v) = 0; và không cho phép khuyên (cạnh từ một đỉnh tới chính nó).
+
+Có hai đỉnh đặc biệt: **nguồn** s và **đích** t. Để tiện, ta giả định mọi đỉnh đều nằm trên một đường đi nào đó từ nguồn tới đích: với mọi v ∈ V, mạng chứa một đường đi s ⇝ v ⇝ t. Do đó đồ thị liên thông, và vì mọi đỉnh khác s có ít nhất một cạnh đi vào, |E| ≥ |V| − 1.
 
 Cho G = (V, E) là mạng luồng với hàm sức chứa c, nguồn s, đích t. Một **luồng** (flow) trong G là hàm giá trị thực f : V × V → ℝ thoả hai tính chất:
 
@@ -351,7 +360,9 @@ tức là tổng luồng đi ra khỏi nguồn trừ tổng luồng đi vào ngu
 
 #### Một ví dụ về luồng (An example of flow) — mạng vận tải của công ty Lucky Puck
 
-Công ty Lucky Puck có nhà máy sản xuất bóng khúc côn cầu (puck) ở Vancouver (nguồn s) và nhà kho ở Winnipeg (đích t). Công ty thuê chỗ trên xe tải của một hãng khác để chở hàng từ nhà máy về kho. Xe tải đi theo các tuyến cố định (cạnh) giữa các thành phố (đỉnh) và có sức chở giới hạn, nên Lucky Puck chỉ chở được tối đa c(u, v) thùng mỗi ngày giữa hai thành phố u và v. Công ty không kiểm soát được tuyến và sức chở, nên không thể thay đổi mạng. Họ cần xác định số thùng lớn nhất p có thể chở mỗi ngày, rồi sản xuất đúng lượng đó (sản xuất nhiều hơn mức chở được là vô ích). Họ không quan tâm một quả bóng mất bao lâu để đến nơi; chỉ cần p thùng mỗi ngày rời nhà máy và p thùng mỗi ngày tới kho. Mô hình bằng luồng hợp lý vì số thùng chở mỗi ngày trên một tuyến bị chặn bởi sức chở (ràng buộc sức chứa), và ở trạng thái ổn định, tốc độ hàng vào một thành phố trung gian phải bằng tốc độ hàng ra (bảo toàn luồng), nếu không hàng sẽ ùn lại ở các thành phố trung gian.
+Công ty Lucky Puck có nhà máy sản xuất bóng khúc côn cầu (puck) ở Vancouver (nguồn s) và nhà kho ở Winnipeg (đích t). Công ty thuê chỗ trên xe tải của một hãng khác để chở hàng từ nhà máy về kho. Xe tải đi theo các tuyến cố định (cạnh) giữa các thành phố (đỉnh) và có sức chở giới hạn, nên Lucky Puck chỉ chở được tối đa c(u, v) thùng mỗi ngày giữa hai thành phố u và v. Công ty không kiểm soát được tuyến và sức chở, nên không thể thay đổi mạng.
+
+Họ cần xác định số thùng lớn nhất p có thể chở mỗi ngày, rồi sản xuất đúng lượng đó (sản xuất nhiều hơn mức chở được là vô ích). Họ không quan tâm một quả bóng mất bao lâu để đến nơi; chỉ cần p thùng mỗi ngày rời nhà máy và p thùng mỗi ngày tới kho. Mô hình bằng luồng hợp lý vì số thùng chở mỗi ngày trên một tuyến bị chặn bởi sức chở (ràng buộc sức chứa), và ở trạng thái ổn định, tốc độ hàng vào một thành phố trung gian phải bằng tốc độ hàng ra (bảo toàn luồng), nếu không hàng sẽ ùn lại ở các thành phố trung gian.
 
 Mạng của ví dụ (vẽ lại Hình 26.1(a) của sách). Các đỉnh: s = Vancouver, v₁ = Edmonton, v₂ = Calgary, v₃ = Saskatoon, v₄ = Regina, t = Winnipeg. Các cạnh và sức chứa:
 
@@ -398,7 +409,9 @@ Exercise 26.1-1 yêu cầu chứng minh mạng mới tương đương mạng cũ
 
 #### Mạng có nhiều nguồn và nhiều đích (Networks with multiple sources and sinks)
 
-Một bài toán luồng cực đại có thể có nhiều nguồn và nhiều đích. Chẳng hạn Lucky Puck có thể có m nhà máy {s₁, s₂, …, s_m} và n nhà kho {t₁, t₂, …, t_n}. Bài toán này không khó hơn luồng cực đại thông thường. Ta quy về bài toán một nguồn một đích: thêm một **siêu nguồn** (supersource) s và cạnh có hướng (s, sᵢ) với sức chứa c(s, sᵢ) = ∞ cho mỗi i = 1, 2, …, m; thêm một **siêu đích** (supersink) t và cạnh (tᵢ, t) với c(tᵢ, t) = ∞ cho mỗi i = 1, 2, …, n. Về trực giác, mọi luồng trong mạng nhiều nguồn tương ứng với một luồng trong mạng mới và ngược lại: siêu nguồn cung cấp bao nhiêu luồng cũng được cho các nguồn sᵢ, siêu đích tiêu thụ bao nhiêu cũng được từ các đích tᵢ (Exercise 26.1-2 yêu cầu chứng minh hình thức).
+Một bài toán luồng cực đại có thể có nhiều nguồn và nhiều đích. Chẳng hạn Lucky Puck có thể có m nhà máy {s₁, s₂, …, s_m} và n nhà kho {t₁, t₂, …, t_n}. Bài toán này không khó hơn luồng cực đại thông thường. Ta quy về bài toán một nguồn một đích: thêm một **siêu nguồn** (supersource) s và cạnh có hướng (s, sᵢ) với sức chứa c(s, sᵢ) = ∞ cho mỗi i = 1, 2, …, m; thêm một **siêu đích** (supersink) t và cạnh (tᵢ, t) với c(tᵢ, t) = ∞ cho mỗi i = 1, 2, …, n.
+
+Về trực giác, mọi luồng trong mạng nhiều nguồn tương ứng với một luồng trong mạng mới và ngược lại: siêu nguồn cung cấp bao nhiêu luồng cũng được cho các nguồn sᵢ, siêu đích tiêu thụ bao nhiêu cũng được từ các đích tᵢ (Exercise 26.1-2 yêu cầu chứng minh hình thức).
 
 Ví dụ của sách (vẽ lại Hình 26.3): năm nguồn s₁…s₅, ba đích t₁, t₂, t₃ và bốn đỉnh trung gian (người tổng hợp đặt tên a, b, c, d từ trên xuống):
 
@@ -430,7 +443,9 @@ Theo hiểu biết của người tổng hợp, kỹ thuật "thêm siêu nguồ
 
 Mục này trình bày phương pháp Ford-Fulkerson. Sách gọi nó là "phương pháp" chứ không phải "thuật toán" vì nó bao gồm nhiều cách cài đặt với thời gian chạy khác nhau. Phương pháp dựa vào ba ý tưởng quan trọng, vượt ra ngoài phạm vi phương pháp và liên quan tới nhiều thuật toán, bài toán luồng khác: **mạng thặng dư** (residual networks), **đường tăng luồng** (augmenting paths) và **lát cắt** (cuts). Ba ý này là cốt lõi của định lý luồng cực đại – lát cắt cực tiểu (Định lý 26.6), định lý đặc trưng giá trị của luồng cực đại qua các lát cắt của mạng. Cuối mục, sách trình bày một cài đặt cụ thể và phân tích thời gian chạy.
 
-Phương pháp Ford-Fulkerson tăng dần giá trị luồng. Bắt đầu với f(u, v) = 0 với mọi u, v ∈ V, tức luồng giá trị 0. Mỗi vòng lặp, ta tăng giá trị luồng trong G bằng cách tìm một "đường tăng luồng" trong "mạng thặng dư" G_f tương ứng. Khi biết các cạnh của một đường tăng luồng trong G_f, ta dễ xác định các cạnh cụ thể trong G cần thay đổi luồng để tăng giá trị luồng. Dù mỗi vòng lặp làm tăng giá trị luồng, luồng trên một cạnh cụ thể của G có thể tăng **hoặc giảm**; giảm luồng trên một số cạnh có thể là cần thiết để đẩy thêm được luồng từ nguồn tới đích. Ta lặp lại cho tới khi mạng thặng dư không còn đường tăng luồng. Định lý luồng cực đại – lát cắt cực tiểu sẽ chứng minh khi dừng, quá trình cho ra luồng cực đại.
+Phương pháp Ford-Fulkerson tăng dần giá trị luồng. Bắt đầu với f(u, v) = 0 với mọi u, v ∈ V, tức luồng giá trị 0. Mỗi vòng lặp, ta tăng giá trị luồng trong G bằng cách tìm một "đường tăng luồng" trong "mạng thặng dư" G_f tương ứng. Khi biết các cạnh của một đường tăng luồng trong G_f, ta dễ xác định các cạnh cụ thể trong G cần thay đổi luồng để tăng giá trị luồng.
+
+Dù mỗi vòng lặp làm tăng giá trị luồng, luồng trên một cạnh cụ thể của G có thể tăng **hoặc giảm**; giảm luồng trên một số cạnh có thể là cần thiết để đẩy thêm được luồng từ nguồn tới đích. Ta lặp lại cho tới khi mạng thặng dư không còn đường tăng luồng. Định lý luồng cực đại – lát cắt cực tiểu sẽ chứng minh khi dừng, quá trình cho ra luồng cực đại.
 
 ```text
 FORD-FULKERSON-METHOD(G, s, t)
@@ -748,7 +763,9 @@ Thời gian chạy của FORD-FULKERSON phụ thuộc vào cách tìm đường 
 
 Trong thực tế, bài toán luồng cực đại thường có sức chứa nguyên. Nếu sức chứa là số hữu tỷ, có thể nhân lên bằng một hệ số thích hợp để mọi sức chứa thành nguyên. Nếu f* là luồng cực đại trong mạng đã biến đổi, một cài đặt thẳng thắn của FORD-FULKERSON thực hiện vòng while dòng 3–8 **nhiều nhất |f*| lần**, vì giá trị luồng tăng ít nhất 1 đơn vị mỗi vòng.
 
-Có thể làm việc trong vòng while hiệu quả nếu dùng cấu trúc dữ liệu đúng và tìm đường bằng thuật toán thời gian tuyến tính. Giả sử ta giữ một cấu trúc dữ liệu cho đồ thị có hướng G′ = (V, E′) với E′ = {(u, v) : (u, v) ∈ E hoặc (v, u) ∈ E}. Cạnh của G cũng là cạnh của G′, nên dễ giữ sức chứa và luồng trong cấu trúc này. Cho luồng f trên G, các cạnh của mạng thặng dư G_f là mọi cạnh (u, v) của G′ có c_f(u, v) > 0 (c_f theo (26.2)). Thời gian tìm một đường trong mạng thặng dư vì vậy là O(V + E′) = O(E) nếu dùng tìm kiếm theo chiều sâu hoặc theo chiều rộng. Mỗi vòng while tốn O(E), khởi tạo dòng 1–2 cũng vậy, nên tổng thời gian của FORD-FULKERSON là **O(E |f*|)**.
+Có thể làm việc trong vòng while hiệu quả nếu dùng cấu trúc dữ liệu đúng và tìm đường bằng thuật toán thời gian tuyến tính. Giả sử ta giữ một cấu trúc dữ liệu cho đồ thị có hướng G′ = (V, E′) với E′ = {(u, v) : (u, v) ∈ E hoặc (v, u) ∈ E}. Cạnh của G cũng là cạnh của G′, nên dễ giữ sức chứa và luồng trong cấu trúc này.
+
+Cho luồng f trên G, các cạnh của mạng thặng dư G_f là mọi cạnh (u, v) của G′ có c_f(u, v) > 0 (c_f theo (26.2)). Thời gian tìm một đường trong mạng thặng dư vì vậy là O(V + E′) = O(E) nếu dùng tìm kiếm theo chiều sâu hoặc theo chiều rộng. Mỗi vòng while tốn O(E), khởi tạo dòng 1–2 cũng vậy, nên tổng thời gian của FORD-FULKERSON là **O(E |f*|)**.
 
 Khi sức chứa nguyên và giá trị luồng tối ưu |f*| nhỏ, thời gian của Ford-Fulkerson tốt. **Ví dụ xấu** (vẽ lại Hình 26.7): mạng bốn đỉnh s, u, v, t với cạnh s → u, s → v, u → t, v → t đều sức chứa 1.000.000 và cạnh u → v sức chứa 1. Luồng cực đại có giá trị 2.000.000: 1.000.000 đơn vị theo s → u → t và 1.000.000 theo s → v → t.
 
@@ -839,7 +856,9 @@ Vì δ_f(s, v) ≤ δ_f′(s, v) theo Bổ đề 26.7,
            = δ_f(s, u) + 2
 ```
 
-Vậy từ lúc (u, v) trở thành tới hạn tới lúc nó tới hạn lần sau, khoảng cách từ nguồn tới u tăng ít nhất 2. Khoảng cách từ nguồn tới u ban đầu ít nhất là 0. Các đỉnh trung gian trên một đường ngắn nhất từ s tới u không thể là s, u hay t (vì (u, v) nằm trên đường tăng luồng nên u ≠ t). Do đó, cho tới khi u không còn đến được từ nguồn (nếu điều đó xảy ra), khoảng cách của u nhiều nhất là |V| − 2. Vậy sau lần đầu (u, v) trở thành tới hạn, nó có thể tới hạn thêm nhiều nhất (|V| − 2)/2 = |V|/2 − 1 lần nữa, tổng cộng nhiều nhất |V|/2 lần. Vì có O(E) cặp đỉnh có thể có cạnh giữa chúng trong mạng thặng dư, tổng số cạnh tới hạn trong cả quá trình chạy là O(VE). Mỗi đường tăng luồng có ít nhất một cạnh tới hạn, nên định lý được chứng minh. ∎
+Vậy từ lúc (u, v) trở thành tới hạn tới lúc nó tới hạn lần sau, khoảng cách từ nguồn tới u tăng ít nhất 2. Khoảng cách từ nguồn tới u ban đầu ít nhất là 0. Các đỉnh trung gian trên một đường ngắn nhất từ s tới u không thể là s, u hay t (vì (u, v) nằm trên đường tăng luồng nên u ≠ t). Do đó, cho tới khi u không còn đến được từ nguồn (nếu điều đó xảy ra), khoảng cách của u nhiều nhất là |V| − 2.
+
+Vậy sau lần đầu (u, v) trở thành tới hạn, nó có thể tới hạn thêm nhiều nhất (|V| − 2)/2 = |V|/2 − 1 lần nữa, tổng cộng nhiều nhất |V|/2 lần. Vì có O(E) cặp đỉnh có thể có cạnh giữa chúng trong mạng thặng dư, tổng số cạnh tới hạn trong cả quá trình chạy là O(VE). Mỗi đường tăng luồng có ít nhất một cạnh tới hạn, nên định lý được chứng minh. ∎
 
 Vì mỗi vòng lặp của FORD-FULKERSON cài đặt được trong O(E) khi tìm đường bằng BFS, tổng thời gian của thuật toán Edmonds-Karp là **O(VE²)**. Các thuật toán đẩy–nâng nhãn còn cho cận tốt hơn: Mục 26.4 cho phương pháp đạt O(V²E), nền tảng cho thuật toán O(V³) ở Mục 26.5.
 
@@ -1146,7 +1165,9 @@ Bổ đề 26.20 cũng giúp chặn số lần đẩy bão hoà.
 
 **Bổ đề 26.22 (Cận số lần đẩy bão hoà).** Khi chạy GENERIC-PUSH-RELABEL trên mạng luồng G = (V, E) bất kỳ, số lần đẩy bão hoà ít hơn 2|V||E|.
 
-*Chứng minh.* Với mỗi cặp đỉnh u, v ∈ V, đếm chung các lần đẩy bão hoà từ u sang v và từ v sang u, gọi là các lần đẩy bão hoà **giữa** u và v. Nếu có lần đẩy như vậy thì ít nhất một trong (u, v), (v, u) thực sự là cạnh của E. Giả sử vừa có một lần đẩy bão hoà từ u sang v. Lúc đó v.h = u.h − 1. Để có lần đẩy từ u sang v về sau, thuật toán trước hết phải đẩy luồng từ v sang u (cạnh (u, v) đã biến mất khỏi mạng thặng dư), điều không thể xảy ra trước khi v.h = u.h + 1. Vì u.h không bao giờ giảm, để v.h = u.h + 1 thì v.h phải tăng ít nhất 2. Tương tự, u.h phải tăng ít nhất 2 giữa hai lần đẩy bão hoà từ v sang u. Độ cao bắt đầu từ 0 và theo Bổ đề 26.20 không vượt 2|V| − 1, nên số lần một đỉnh bất kỳ có thể tăng độ cao thêm 2 ít hơn |V|. Vì giữa hai lần đẩy bão hoà liên tiếp giữa u và v, ít nhất một trong u.h, v.h phải tăng 2, có ít hơn 2|V| lần đẩy bão hoà giữa u và v. Nhân với số cạnh được cận ít hơn 2|V||E| cho tổng số lần đẩy bão hoà. ∎
+*Chứng minh.* Với mỗi cặp đỉnh u, v ∈ V, đếm chung các lần đẩy bão hoà từ u sang v và từ v sang u, gọi là các lần đẩy bão hoà **giữa** u và v. Nếu có lần đẩy như vậy thì ít nhất một trong (u, v), (v, u) thực sự là cạnh của E. Giả sử vừa có một lần đẩy bão hoà từ u sang v. Lúc đó v.h = u.h − 1. Để có lần đẩy từ u sang v về sau, thuật toán trước hết phải đẩy luồng từ v sang u (cạnh (u, v) đã biến mất khỏi mạng thặng dư), điều không thể xảy ra trước khi v.h = u.h + 1.
+
+Vì u.h không bao giờ giảm, để v.h = u.h + 1 thì v.h phải tăng ít nhất 2. Tương tự, u.h phải tăng ít nhất 2 giữa hai lần đẩy bão hoà từ v sang u. Độ cao bắt đầu từ 0 và theo Bổ đề 26.20 không vượt 2|V| − 1, nên số lần một đỉnh bất kỳ có thể tăng độ cao thêm 2 ít hơn |V|. Vì giữa hai lần đẩy bão hoà liên tiếp giữa u và v, ít nhất một trong u.h, v.h phải tăng 2, có ít hơn 2|V| lần đẩy bão hoà giữa u và v. Nhân với số cạnh được cận ít hơn 2|V||E| cho tổng số lần đẩy bão hoà. ∎
 
 Bổ đề sau chặn số lần đẩy không bão hoà trong thuật toán tổng quát.
 
@@ -1295,7 +1316,11 @@ Cần chắc rằng khi DISCHARGE gọi PUSH hay RELABEL thì thao tác đó áp
 
 *Chứng minh.* Các kiểm tra ở dòng 1 và 6 bảo đảm thao tác đẩy chỉ xảy ra khi nó áp dụng được, chứng minh phát biểu thứ nhất.
 
-Để chứng minh phát biểu thứ hai, theo kiểm tra ở dòng 1 và Bổ đề 26.28, chỉ cần chứng minh mọi cạnh rời u đều không chấp nhận được. Nếu một lần gọi DISCHARGE(u) bắt đầu với con trỏ u.current ở đầu danh sách và kết thúc khi nó đi quá cuối danh sách, thì mọi cạnh rời u đều không chấp nhận được và nâng nhãn áp dụng được. Tuy nhiên, có thể trong một lần gọi DISCHARGE(u), con trỏ u.current chỉ đi qua một phần danh sách rồi thủ tục trả về. Sau đó có thể có các lần gọi DISCHARGE trên đỉnh khác, nhưng u.current sẽ tiếp tục đi tiếp trong danh sách ở lần gọi DISCHARGE(u) kế tiếp. Xét điều xảy ra trong một **lượt đi trọn** qua danh sách, bắt đầu ở đầu u.N và kết thúc khi u.current = NIL. Khi u.current tới cuối danh sách, thủ tục nâng nhãn u và bắt đầu lượt mới. Để u.current vượt qua một đỉnh v ∈ u.N trong một lượt, cạnh (u, v) phải bị kiểm tra ở dòng 6 đánh giá là không chấp nhận được. Vậy khi lượt kết thúc, mọi cạnh rời u đều đã từng được xác định là không chấp nhận được vào một lúc nào đó trong lượt. Nhận xét then chốt là **ở cuối lượt, mọi cạnh rời u vẫn không chấp nhận được**. Vì sao? Theo Bổ đề 26.27, thao tác đẩy không tạo cạnh chấp nhận được, bất kể đẩy từ đỉnh nào. Vậy mọi cạnh chấp nhận được mới phải do thao tác nâng nhãn tạo ra. Nhưng u không được nâng nhãn trong lượt, và theo Bổ đề 26.28, mọi đỉnh v khác được nâng nhãn trong lượt (do một lần gọi DISCHARGE(v)) không có cạnh chấp nhận được đi vào sau khi nâng nhãn. Vậy ở cuối lượt, mọi cạnh rời u vẫn không chấp nhận được. ∎
+Để chứng minh phát biểu thứ hai, theo kiểm tra ở dòng 1 và Bổ đề 26.28, chỉ cần chứng minh mọi cạnh rời u đều không chấp nhận được. Nếu một lần gọi DISCHARGE(u) bắt đầu với con trỏ u.current ở đầu danh sách và kết thúc khi nó đi quá cuối danh sách, thì mọi cạnh rời u đều không chấp nhận được và nâng nhãn áp dụng được. Tuy nhiên, có thể trong một lần gọi DISCHARGE(u), con trỏ u.current chỉ đi qua một phần danh sách rồi thủ tục trả về.
+
+Sau đó có thể có các lần gọi DISCHARGE trên đỉnh khác, nhưng u.current sẽ tiếp tục đi tiếp trong danh sách ở lần gọi DISCHARGE(u) kế tiếp. Xét điều xảy ra trong một **lượt đi trọn** qua danh sách, bắt đầu ở đầu u.N và kết thúc khi u.current = NIL. Khi u.current tới cuối danh sách, thủ tục nâng nhãn u và bắt đầu lượt mới. Để u.current vượt qua một đỉnh v ∈ u.N trong một lượt, cạnh (u, v) phải bị kiểm tra ở dòng 6 đánh giá là không chấp nhận được. Vậy khi lượt kết thúc, mọi cạnh rời u đều đã từng được xác định là không chấp nhận được vào một lúc nào đó trong lượt.
+
+Nhận xét then chốt là **ở cuối lượt, mọi cạnh rời u vẫn không chấp nhận được**. Vì sao? Theo Bổ đề 26.27, thao tác đẩy không tạo cạnh chấp nhận được, bất kể đẩy từ đỉnh nào. Vậy mọi cạnh chấp nhận được mới phải do thao tác nâng nhãn tạo ra. Nhưng u không được nâng nhãn trong lượt, và theo Bổ đề 26.28, mọi đỉnh v khác được nâng nhãn trong lượt (do một lần gọi DISCHARGE(v)) không có cạnh chấp nhận được đi vào sau khi nâng nhãn. Vậy ở cuối lượt, mọi cạnh rời u vẫn không chấp nhận được. ∎
 
 #### Thuật toán nâng nhãn rồi đưa lên đầu (The relabel-to-front algorithm)
 
@@ -1318,7 +1343,9 @@ RELABEL-TO-FRONT(G, s, t)
 11      u = u.next
 ```
 
-Cách hoạt động: dòng 1 khởi tạo tiền luồng và độ cao giống thuật toán tổng quát. Dòng 2 khởi tạo L chứa mọi đỉnh có thể tràn, theo thứ tự bất kỳ. Dòng 3–4 đặt con trỏ current của mỗi đỉnh u về đỉnh đầu trong danh sách đỉnh kề của u. Vòng while dòng 6–11 chạy qua danh sách L, xả các đỉnh. Dòng 5 bắt đầu từ đỉnh đầu danh sách. Mỗi vòng, dòng 8 xả một đỉnh u. Nếu u được nâng nhãn trong DISCHARGE, dòng 10 chuyển nó lên đầu L; biết u có được nâng nhãn hay không bằng cách so độ cao trước khi xả (lưu ở biến old-height, dòng 7) với độ cao sau (dòng 9). Dòng 11 cho vòng kế tiếp dùng đỉnh đứng sau u trong L; nếu dòng 10 vừa chuyển u lên đầu thì đó là đỉnh đứng sau u ở vị trí mới.
+Cách hoạt động: dòng 1 khởi tạo tiền luồng và độ cao giống thuật toán tổng quát. Dòng 2 khởi tạo L chứa mọi đỉnh có thể tràn, theo thứ tự bất kỳ. Dòng 3–4 đặt con trỏ current của mỗi đỉnh u về đỉnh đầu trong danh sách đỉnh kề của u. Vòng while dòng 6–11 chạy qua danh sách L, xả các đỉnh. Dòng 5 bắt đầu từ đỉnh đầu danh sách.
+
+Mỗi vòng, dòng 8 xả một đỉnh u. Nếu u được nâng nhãn trong DISCHARGE, dòng 10 chuyển nó lên đầu L; biết u có được nâng nhãn hay không bằng cách so độ cao trước khi xả (lưu ở biến old-height, dòng 7) với độ cao sau (dòng 9). Dòng 11 cho vòng kế tiếp dùng đỉnh đứng sau u trong L; nếu dòng 10 vừa chuyển u lên đầu thì đó là đỉnh đứng sau u ở vị trí mới.
 
 **Ví dụ chạy tay RELABEL-TO-FRONT (vẽ lại Hình 26.10).** Mạng có 5 đỉnh s, x, y, z, t (nên s.h = 5) với các cạnh: s → x sức chứa 12, s → y sức chứa 14, x → y sức chứa 5, y → z sức chứa 8, z → t sức chứa 10, z → x sức chứa 7, x → t sức chứa 16. Sau INITIALIZE-PREFLOW: s → x = 12/12, s → y = 14/14; e(x) = 12, e(y) = 14, e(s) = −26; mọi độ cao khác 0. L = ⟨x, y, z⟩. Danh sách đỉnh kề: x.N = ⟨s, y, z, t⟩, y.N = ⟨s, x, z⟩, z.N = ⟨x, y, t⟩.
 
@@ -1341,7 +1368,9 @@ Không còn đỉnh tràn; tiền luồng là luồng cực đại với giá tr
 - **Khởi tạo:** Ngay sau INITIALIZE-PREFLOW, s.h = |V| và v.h = 0 với mọi v ∈ V − {s}. Vì |V| ≥ 2 (V chứa ít nhất s và t), không cạnh nào chấp nhận được. Vậy E_{f,h} = ∅, và mọi thứ tự của V − {s, t} đều là sắp xếp topo của G_{f,h}. Vì u ban đầu là đầu danh sách L, không có đỉnh nào đứng trước nó, nên không có đỉnh nào đứng trước nó có luồng dư.
 - **Duy trì:** Để thấy mỗi vòng while giữ sắp xếp topo, trước hết nhận xét mạng chấp nhận được chỉ thay đổi do đẩy và nâng nhãn. Theo Bổ đề 26.27, thao tác đẩy không làm cạnh nào trở thành chấp nhận được. Vậy chỉ nâng nhãn mới tạo cạnh chấp nhận được. Nhưng sau khi đỉnh u được nâng nhãn, Bổ đề 26.28 nói không có cạnh chấp nhận được nào đi vào u, chỉ có thể có cạnh chấp nhận được đi ra khỏi u. Vậy chuyển u lên đầu L bảo đảm mọi cạnh chấp nhận được rời u thoả thứ tự sắp xếp topo.
 
-  Để thấy không đỉnh nào đứng trước u trong L có luồng dư, ký hiệu u′ là đỉnh sẽ là u ở vòng kế tiếp. Các đỉnh đứng trước u′ ở vòng kế tiếp gồm u hiện tại (do dòng 11) cùng với: không đỉnh nào khác (nếu u được nâng nhãn), hoặc đúng các đỉnh đã đứng trước u (nếu u không được nâng nhãn). Khi u được xả, nó không còn luồng dư. Vậy nếu u được nâng nhãn trong lúc xả, không đỉnh nào đứng trước u′ có luồng dư. Nếu u không được nâng nhãn, không đỉnh nào đứng trước nó trong danh sách nhận thêm luồng dư trong lúc xả, vì L luôn được sắp xếp topo suốt quá trình xả (như vừa nêu, cạnh chấp nhận được chỉ sinh ra do nâng nhãn, không do đẩy), nên mỗi lần đẩy chỉ đưa luồng dư tới các đỉnh đứng sau trong danh sách (hoặc tới s hay t). Một lần nữa, không đỉnh nào đứng trước u′ có luồng dư.
+  Để thấy không đỉnh nào đứng trước u trong L có luồng dư, ký hiệu u′ là đỉnh sẽ là u ở vòng kế tiếp. Các đỉnh đứng trước u′ ở vòng kế tiếp gồm u hiện tại (do dòng 11) cùng với: không đỉnh nào khác (nếu u được nâng nhãn), hoặc đúng các đỉnh đã đứng trước u (nếu u không được nâng nhãn). Khi u được xả, nó không còn luồng dư. Vậy nếu u được nâng nhãn trong lúc xả, không đỉnh nào đứng trước u′ có luồng dư.
+
+  Nếu u không được nâng nhãn, không đỉnh nào đứng trước nó trong danh sách nhận thêm luồng dư trong lúc xả, vì L luôn được sắp xếp topo suốt quá trình xả (như vừa nêu, cạnh chấp nhận được chỉ sinh ra do nâng nhãn, không do đẩy), nên mỗi lần đẩy chỉ đưa luồng dư tới các đỉnh đứng sau trong danh sách (hoặc tới s hay t). Một lần nữa, không đỉnh nào đứng trước u′ có luồng dư.
 - **Kết thúc:** Khi vòng lặp dừng, u vừa đi quá cuối L, nên bất biến bảo đảm luồng dư của mọi đỉnh bằng 0. Vậy không thao tác cơ bản nào áp dụng được.
 
 #### Phân tích (Analysis)
@@ -1369,11 +1398,15 @@ Theo hiểu biết của người tổng hợp: các cài đặt đẩy–nâng 
 ### Bài tập Mục 26.1 (trang 712–714)
 
 - **26.1-1:** Chứng minh tách một cạnh trong mạng luồng cho mạng tương đương. Cụ thể: mạng G chứa cạnh (u, v); tạo mạng G′ bằng cách thêm đỉnh mới x và thay (u, v) bằng hai cạnh (u, x), (x, v) với c(u, x) = c(x, v) = c(u, v). Chứng minh luồng cực đại trong G′ có cùng giá trị với luồng cực đại trong G. *Người tổng hợp:* cho luồng f trong G, đặt f′(u, x) = f′(x, v) = f(u, v), các cạnh khác giữ nguyên: f′ hợp lệ (x bảo toàn) và cùng giá trị. Ngược lại, luồng f′ trong G′ có f′(u, x) = f′(x, v) do bảo toàn tại x; đặt f(u, v) bằng giá trị đó. Hai chiều giữ giá trị nên hai cực đại bằng nhau.
-- **26.1-2:** Mở rộng các tính chất và định nghĩa luồng cho bài toán nhiều nguồn, nhiều đích. Chứng minh mọi luồng trong mạng nhiều nguồn nhiều đích tương ứng với một luồng cùng giá trị trong mạng một nguồn một đích (thêm siêu nguồn, siêu đích), và ngược lại. *Người tổng hợp:* định nghĩa: bảo toàn luồng tại mọi đỉnh không phải nguồn hay đích; giá trị |f| = Σᵢ (Σ_v f(sᵢ, v) − Σ_v f(v, sᵢ)). Chiều thuận: đặt f(s, sᵢ) bằng luồng ròng ra khỏi sᵢ và f(tⱼ, t) bằng luồng ròng vào tⱼ; sức chứa ∞ nên hợp lệ (giả định thêm luồng ròng ra khỏi mỗi nguồn và vào mỗi đích không âm, điều sách ngầm hiểu), giá trị bằng tổng luồng ròng ra khỏi các nguồn. Chiều ngược: bỏ s, t và các cạnh vô hạn; bảo toàn tại sᵢ trong mạng mới cho luồng ròng ra khỏi sᵢ bằng f(s, sᵢ), cộng lại đúng bằng giá trị.
+- **26.1-2:** Mở rộng các tính chất và định nghĩa luồng cho bài toán nhiều nguồn, nhiều đích. Chứng minh mọi luồng trong mạng nhiều nguồn nhiều đích tương ứng với một luồng cùng giá trị trong mạng một nguồn một đích (thêm siêu nguồn, siêu đích), và ngược lại. *Người tổng hợp:* định nghĩa: bảo toàn luồng tại mọi đỉnh không phải nguồn hay đích; giá trị |f| = Σᵢ (Σ_v f(sᵢ, v) − Σ_v f(v, sᵢ)).
+
+  Chiều thuận: đặt f(s, sᵢ) bằng luồng ròng ra khỏi sᵢ và f(tⱼ, t) bằng luồng ròng vào tⱼ; sức chứa ∞ nên hợp lệ (giả định thêm luồng ròng ra khỏi mỗi nguồn và vào mỗi đích không âm, điều sách ngầm hiểu), giá trị bằng tổng luồng ròng ra khỏi các nguồn. Chiều ngược: bỏ s, t và các cạnh vô hạn; bảo toàn tại sᵢ trong mạng mới cho luồng ròng ra khỏi sᵢ bằng f(s, sᵢ), cộng lại đúng bằng giá trị.
 - **26.1-3:** Giả sử mạng G vi phạm giả định mọi đỉnh nằm trên một đường s ⇝ v ⇝ t. Cho u là đỉnh không có đường s ⇝ u ⇝ t. Chứng minh tồn tại luồng cực đại f trong G với f(u, v) = f(v, u) = 0 với mọi v. *Người tổng hợp:* phân rã một luồng cực đại thành các đường s–t và các chu trình; mọi đường s–t không đi qua u; bỏ các chu trình (không đổi giá trị). Luồng còn lại không chạm u.
 - **26.1-4:** Cho f là luồng, α là số thực. **Tích vô hướng** αf là hàm (αf)(u, v) = α · f(u, v). Chứng minh tập các luồng là **tập lồi**: nếu f₁, f₂ là luồng thì αf₁ + (1 − α)f₂ là luồng với mọi 0 ≤ α ≤ 1. *Người tổng hợp:* ràng buộc sức chứa: 0 ≤ αf₁ + (1 − α)f₂ ≤ αc + (1 − α)c = c; bảo toàn luồng: là tổ hợp tuyến tính của hai đẳng thức tuyến tính.
 - **26.1-5:** Phát biểu bài toán luồng cực đại thành bài toán quy hoạch tuyến tính. *Người tổng hợp:* biến f_{uv} cho mỗi (u, v) ∈ E; cực đại Σ_v f_{sv} − Σ_v f_{vs}; ràng buộc 0 ≤ f_{uv} ≤ c(u, v), và Σ_v f_{vu} − Σ_v f_{uv} = 0 với mọi u ∈ V − {s, t} (xem Chương 29).
-- **26.1-6:** Giáo sư Adam có hai con ghét nhau đến mức không đi chung đường tới trường và mỗi đứa không chịu đi trên bất kỳ đoạn phố nào đứa kia đã đi trong ngày; chúng không ngại đường cắt nhau tại góc phố. Nhà và trường đều ở góc phố. Giáo sư có bản đồ thị trấn. Diễn đạt bài toán "cả hai con có thể đi tới cùng một trường không" thành bài toán luồng cực đại. *Người tổng hợp:* đỉnh là góc phố, mỗi đoạn phố (vô hướng) thành hai cạnh ngược chiều sức chứa 1 (tách một cạnh bằng đỉnh phụ để khử cạnh ngược chiều); nguồn là nhà, đích là trường. Có hai đường rời cạnh khi và chỉ khi luồng cực đại ≥ 2 (theo định lý tính nguyên, luồng nguyên phân rã thành hai đường dùng mỗi đoạn phố một lần; nếu cả hai chiều của một đoạn đều mang luồng thì triệt tiêu).
+- **26.1-6:** Giáo sư Adam có hai con ghét nhau đến mức không đi chung đường tới trường và mỗi đứa không chịu đi trên bất kỳ đoạn phố nào đứa kia đã đi trong ngày; chúng không ngại đường cắt nhau tại góc phố. Nhà và trường đều ở góc phố. Giáo sư có bản đồ thị trấn. Diễn đạt bài toán "cả hai con có thể đi tới cùng một trường không" thành bài toán luồng cực đại.
+
+  *Người tổng hợp:* đỉnh là góc phố, mỗi đoạn phố (vô hướng) thành hai cạnh ngược chiều sức chứa 1 (tách một cạnh bằng đỉnh phụ để khử cạnh ngược chiều); nguồn là nhà, đích là trường. Có hai đường rời cạnh khi và chỉ khi luồng cực đại ≥ 2 (theo định lý tính nguyên, luồng nguyên phân rã thành hai đường dùng mỗi đoạn phố một lần; nếu cả hai chiều của một đoạn đều mang luồng thì triệt tiêu).
 - **26.1-7:** Ngoài sức chứa cạnh, mạng có **sức chứa đỉnh**: mỗi đỉnh v có giới hạn l(v) lượng luồng đi qua. Chỉ cách biến G = (V, E) có sức chứa đỉnh thành mạng tương đương G′ = (V′, E′) không có sức chứa đỉnh, cùng giá trị luồng cực đại. G′ có bao nhiêu đỉnh và cạnh? *Người tổng hợp:* tách mỗi đỉnh v thành v_in và v_out nối bởi cạnh (v_in, v_out) sức chứa l(v); mỗi cạnh (u, v) thành (u_out, v_in). |V′| = 2|V|, |E′| = |E| + |V|.
 
 ### Bài tập Mục 26.2 (trang 730–731)
@@ -1389,15 +1422,21 @@ Theo hiểu biết của người tổng hợp: các cài đặt đẩy–nâng 
 - **26.2-9:** Cho f và f′ đều là luồng trong G, tính f ↑ f′. Luồng tăng có bảo toàn không? Có thoả ràng buộc sức chứa không? *Người tổng hợp:* bảo toàn: có (tổng tuyến tính các đẳng thức bảo toàn). Sức chứa: không nhất thiết — ví dụ f = f′ = luồng bão hoà một cạnh thì f + f′ = 2c > c (và với cạnh ngược, có thể âm).
 - **26.2-10:** Chỉ cách tìm luồng cực đại bằng một dãy nhiều nhất |E| đường tăng luồng (gợi ý: xác định các đường **sau khi** tìm được luồng cực đại). *Người tổng hợp:* lấy luồng cực đại f*, xét đồ thị con các cạnh có f* > 0; lặp: tìm một đường s–t trong đó (bỏ chu trình nếu gặp), tăng theo min luồng trên đường; mỗi lần ít nhất một cạnh về 0 và bị loại, nên ≤ |E| đường. Chạy Ford-Fulkerson với đúng các đường này từ luồng 0.
 - **26.2-11:** **Độ liên thông cạnh** (edge connectivity) của đồ thị vô hướng là số cạnh k nhỏ nhất phải xoá để làm đồ thị mất liên thông (cây có độ liên thông cạnh 1, chu trình có 2). Chỉ cách tính độ liên thông cạnh của G = (V, E) bằng cách chạy thuật toán luồng cực đại trên nhiều nhất |V| mạng, mỗi mạng O(V) đỉnh và O(E) cạnh. *Người tổng hợp:* cố định một đỉnh u; với mỗi v ≠ u, chạy luồng cực đại từ u tới v trên mạng thay mỗi cạnh vô hướng bằng hai cạnh có hướng sức chứa 1; kết quả là min trên các v. Đúng vì lát cắt cạnh nhỏ nhất tách u khỏi một đỉnh v nào đó.
-- **26.2-12:** G có cạnh đi vào nguồn s. Cho f là luồng trong G mà một cạnh (v, s) có f(v, s) = 1. Chứng minh tồn tại luồng f′ với f′(v, s) = 0 và |f| = |f′|. Cho thuật toán O(E) tính f′ biết f, sức chứa nguyên. *Hướng của người tổng hợp:* trong đồ thị con các cạnh mang luồng dương, tìm (bằng DFS, O(E)) một đường đi từ s tới v; ghép với cạnh (v, s) được một chu trình mang luồng dương. Giảm 1 đơn vị luồng trên mọi cạnh của chu trình: bảo toàn luồng giữ nguyên tại mọi đỉnh, còn tại s cả luồng ra lẫn luồng vào cùng giảm 1, nên |f′| = |f| và f′(v, s) = 0. (Sự tồn tại đường s ⇝ v dùng phân rã luồng thành đường và chu trình; người tổng hợp không viết chứng minh đầy đủ.)
+- **26.2-12:** G có cạnh đi vào nguồn s. Cho f là luồng trong G mà một cạnh (v, s) có f(v, s) = 1. Chứng minh tồn tại luồng f′ với f′(v, s) = 0 và |f| = |f′|. Cho thuật toán O(E) tính f′ biết f, sức chứa nguyên. *Hướng của người tổng hợp:* trong đồ thị con các cạnh mang luồng dương, tìm (bằng DFS, O(E)) một đường đi từ s tới v; ghép với cạnh (v, s) được một chu trình mang luồng dương.
+
+  Giảm 1 đơn vị luồng trên mọi cạnh của chu trình: bảo toàn luồng giữ nguyên tại mọi đỉnh, còn tại s cả luồng ra lẫn luồng vào cùng giảm 1, nên |f′| = |f| và f′(v, s) = 0. (Sự tồn tại đường s ⇝ v dùng phân rã luồng thành đường và chu trình; người tổng hợp không viết chứng minh đầy đủ.)
 - **26.2-13:** Trong mọi lát cắt cực tiểu của mạng G sức chứa nguyên, muốn tìm lát cắt có ít cạnh nhất. Chỉ cách sửa sức chứa để tạo G′ mà mọi lát cắt cực tiểu của G′ là lát cắt cực tiểu có ít cạnh nhất trong G. *Người tổng hợp:* đặt c′(u, v) = c(u, v) · (|E| + 1) + 1. Sức chứa lát cắt trong G′ bằng (|E| + 1) · c(S, T) + (số cạnh của lát cắt); vì số cạnh ≤ |E| < |E| + 1, lát cắt cực tiểu của G′ trước hết cực tiểu c, sau đó cực tiểu số cạnh.
 
 ### Bài tập Mục 26.3 (trang 735–736)
 
-- **26.3-1:** Chạy Ford-Fulkerson trên mạng của đồ thị hai phía ví dụ (L đánh số 1–5, R đánh số 6–9 từ trên xuống), mỗi vòng chọn đường tăng luồng nhỏ nhất theo thứ tự từ điển, vẽ mạng thặng dư sau mỗi lần tăng. *Lời giải của người tổng hợp:* vòng 1: s → 1 → 6 → t; vòng 2: s → 2 → 6 bị chặn (6 → t đã bão hoà; từ 6 chỉ có cạnh ngược 6 → 1, đi tiếp không được), nên đường nhỏ nhất là s → 2 → 8 → t; vòng 3: s → 3 → 7 → t; vòng 4: từ 4 hay 5 chỉ tới 8, rồi theo cạnh ngược 8 → 2 → 6 → 1, ngõ cụt — không còn đường. Cặp ghép cực đại {1–6, 2–8, 3–7}, cỡ 3. Sau mỗi vòng, mạng thặng dư đảo chiều ba cạnh của đường vừa dùng (ví dụ sau vòng 1: có 1 → s, 6 → 1, t → 6 thay cho s → 1, 1 → 6, 6 → t).
+- **26.3-1:** Chạy Ford-Fulkerson trên mạng của đồ thị hai phía ví dụ (L đánh số 1–5, R đánh số 6–9 từ trên xuống), mỗi vòng chọn đường tăng luồng nhỏ nhất theo thứ tự từ điển, vẽ mạng thặng dư sau mỗi lần tăng. *Lời giải của người tổng hợp:* vòng 1: s → 1 → 6 → t; vòng 2: s → 2 → 6 bị chặn (6 → t đã bão hoà; từ 6 chỉ có cạnh ngược 6 → 1, đi tiếp không được), nên đường nhỏ nhất là s → 2 → 8 → t; vòng 3: s → 3 → 7 → t; vòng 4: từ 4 hay 5 chỉ tới 8, rồi theo cạnh ngược 8 → 2 → 6 → 1, ngõ cụt — không còn đường.
+
+  Cặp ghép cực đại {1–6, 2–8, 3–7}, cỡ 3. Sau mỗi vòng, mạng thặng dư đảo chiều ba cạnh của đường vừa dùng (ví dụ sau vòng 1: có 1 → s, 6 → 1, t → 6 thay cho s → 1, 1 → 6, 6 → t).
 - **26.3-2:** Chứng minh Định lý 26.10 (tính nguyên). *Người tổng hợp:* quy nạp như đã nêu ở Nội dung chi tiết: luồng 0 nguyên; nếu f nguyên thì mọi c_f nguyên, c_f(p) nguyên, f ↑ f_p nguyên.
 - **26.3-3:** Cho G hai phía, G′ là mạng tương ứng. Cho cận trên tốt cho độ dài mọi đường tăng luồng FORD-FULKERSON tìm được trong G′. *Người tổng hợp:* đường đơn xen kẽ L → R (cạnh thuận) và R → L (cạnh ngược), dùng mỗi đỉnh một lần; độ dài nhiều nhất 2 min(|L|, |R|) + 1.
-- **26.3-4 ★:** **Cặp ghép hoàn hảo** (perfect matching) là cặp ghép mà mọi đỉnh đều được ghép. Cho G hai phía với |L| = |R|. Với X ⊆ V, định nghĩa **lân cận** N(X) = {y ∈ V : (x, y) ∈ E với x ∈ X nào đó}. Chứng minh **định lý Hall**: G có cặp ghép hoàn hảo khi và chỉ khi |A| ≤ |N(A)| với mọi A ⊆ L. *Người tổng hợp:* chiều thuận hiển nhiên (mỗi đỉnh của A ghép với một đỉnh riêng trong N(A)). Chiều ngược: trong G′ đặt sức chứa các cạnh L → R là ∞ (luồng nguyên vẫn tương ứng cặp ghép vì mỗi u ∈ L chỉ nhận tối đa 1 đơn vị từ s). Xét lát cắt cực tiểu (S, T), sức chứa hữu hạn vì lát cắt ({s}, V′ − {s}) có sức chứa |L|. Đặt A = L ∩ S. Không cạnh ∞ nào đi từ S sang T, nên N(A) ⊆ S. Các cạnh bị cắt gồm (s, u) với u ∈ L − A và (v, t) với v ∈ R ∩ S ⊇ N(A), nên c(S, T) ≥ |L − A| + |N(A)| ≥ |L| − |A| + |A| = |L|. Vậy luồng cực đại bằng |L| = |R|, ứng với cặp ghép hoàn hảo.
+- **26.3-4 ★:** **Cặp ghép hoàn hảo** (perfect matching) là cặp ghép mà mọi đỉnh đều được ghép. Cho G hai phía với |L| = |R|. Với X ⊆ V, định nghĩa **lân cận** N(X) = {y ∈ V : (x, y) ∈ E với x ∈ X nào đó}. Chứng minh **định lý Hall**: G có cặp ghép hoàn hảo khi và chỉ khi |A| ≤ |N(A)| với mọi A ⊆ L. *Người tổng hợp:* chiều thuận hiển nhiên (mỗi đỉnh của A ghép với một đỉnh riêng trong N(A)). Chiều ngược: trong G′ đặt sức chứa các cạnh L → R là ∞ (luồng nguyên vẫn tương ứng cặp ghép vì mỗi u ∈ L chỉ nhận tối đa 1 đơn vị từ s).
+
+  Xét lát cắt cực tiểu (S, T), sức chứa hữu hạn vì lát cắt ({s}, V′ − {s}) có sức chứa |L|. Đặt A = L ∩ S. Không cạnh ∞ nào đi từ S sang T, nên N(A) ⊆ S. Các cạnh bị cắt gồm (s, u) với u ∈ L − A và (v, t) với v ∈ R ∩ S ⊇ N(A), nên c(S, T) ≥ |L − A| + |N(A)| ≥ |L| − |A| + |A| = |L|. Vậy luồng cực đại bằng |L| = |R|, ứng với cặp ghép hoàn hảo.
 - **26.3-5 ★:** Đồ thị hai phía G = (V, E), V = L ∪ R, là **d-chính quy** (d-regular) nếu mọi đỉnh có bậc đúng d. Mọi đồ thị hai phía d-chính quy có |L| = |R|. Chứng minh mọi đồ thị hai phía d-chính quy có cặp ghép cỡ |L|, bằng cách lập luận lát cắt cực tiểu của mạng tương ứng có sức chứa |L|. *Người tổng hợp:* luồng phân số f(s, u) = 1, f(u, v) = 1/d trên mọi cạnh, f(v, t) = 1 là hợp lệ với giá trị |L| (mỗi đỉnh có d cạnh); luồng cực đại ≥ |L| và lát cắt ({s}, …) có sức chứa |L|, nên luồng cực đại = |L|; theo định lý tính nguyên có luồng nguyên giá trị |L|, tức cặp ghép cỡ |L|.
 
 ### Bài tập Mục 26.4 (trang 747–748)
@@ -1408,7 +1447,9 @@ Theo hiểu biết của người tổng hợp: các cài đặt đẩy–nâng 
 - **26.4-4:** Đã có luồng cực đại tìm bằng thuật toán đẩy–nâng nhãn. Cho thuật toán nhanh tìm lát cắt cực tiểu. *Người tổng hợp:* BFS trong mạng thặng dư từ s, S là tập đỉnh đến được — O(E). Cách khác: các đỉnh có độ cao ≥ |V| nằm phía nguồn (xem 26.5-5).
 - **26.4-5:** Cho thuật toán đẩy–nâng nhãn hiệu quả tìm cặp ghép cực đại trong đồ thị hai phía, phân tích. *Người tổng hợp:* chạy trên G′; độ cao bị chặn O(V), sức chứa 1 nên mỗi lần đẩy đều bão hoà (luồng dư nguyên, sức chứa 1); số thao tác O(VE) → O(VE) thời gian với cài đặt hợp lý.
 - **26.4-6:** Mọi sức chứa thuộc {1, 2, …, k}. Phân tích thời gian thuật toán tổng quát theo |V|, |E|, k (gợi ý: mỗi cạnh chịu được bao nhiêu lần đẩy không bão hoà trước khi bão hoà?). *Người tổng hợp:* với luồng nguyên, mỗi lần đẩy ít nhất 1 đơn vị; giữa hai lần bão hoà một cạnh nhận ≤ k lần đẩy; số lần đẩy bão hoà O(VE) nên tổng số lần đẩy O(kVE), cộng nâng nhãn O(V²): O(kVE).
-- **26.4-7:** Chứng minh có thể đổi dòng 6 của INITIALIZE-PREFLOW thành s.h = |G.V| − 2 mà không ảnh hưởng tính đúng hay hiệu năng tiệm cận. *Người tổng hợp:* chỉ cần Bổ đề 26.17 (không có đường s ⇝ t trong G_f) còn đúng. Sau khởi tạo mọi cạnh rời s bão hoà. Một cạnh thặng dư (s, v) chỉ có thể xuất hiện khi đã có luồng được đẩy từ v về s, lúc đó v.h = s.h + 1 = |V| − 1, và độ cao không bao giờ giảm. Giả sử có đường đơn s → v ⇝ t trong G_f; đoạn v ⇝ t không qua s nên có nhiều nhất |V| − 2 cạnh, cộng điều kiện hàm độ cao dọc đoạn này được v.h ≤ |V| − 2, mâu thuẫn với v.h ≥ |V| − 1. Các cận độ cao (≤ 2|V| − 3) và do đó mọi cận tiệm cận giữ nguyên.
+- **26.4-7:** Chứng minh có thể đổi dòng 6 của INITIALIZE-PREFLOW thành s.h = |G.V| − 2 mà không ảnh hưởng tính đúng hay hiệu năng tiệm cận. *Người tổng hợp:* chỉ cần Bổ đề 26.17 (không có đường s ⇝ t trong G_f) còn đúng. Sau khởi tạo mọi cạnh rời s bão hoà. Một cạnh thặng dư (s, v) chỉ có thể xuất hiện khi đã có luồng được đẩy từ v về s, lúc đó v.h = s.h + 1 = |V| − 1, và độ cao không bao giờ giảm.
+
+  Giả sử có đường đơn s → v ⇝ t trong G_f; đoạn v ⇝ t không qua s nên có nhiều nhất |V| − 2 cạnh, cộng điều kiện hàm độ cao dọc đoạn này được v.h ≤ |V| − 2, mâu thuẫn với v.h ≥ |V| − 1. Các cận độ cao (≤ 2|V| − 3) và do đó mọi cận tiệm cận giữ nguyên.
 - **26.4-8:** Gọi δ_f(u, v) là khoảng cách (số cạnh) từ u tới v trong G_f. Chứng minh GENERIC-PUSH-RELABEL duy trì: u.h < |V| kéo theo u.h ≤ δ_f(u, t), và u.h ≥ |V| kéo theo u.h − |V| ≤ δ_f(u, s). *Người tổng hợp:* cộng điều kiện h(x) ≤ h(y) + 1 dọc một đường ngắn nhất từ u tới t (h(t) = 0) hoặc tới s (h(s) = |V|).
 - **26.4-9 ★:** Sửa thuật toán tổng quát để duy trì đẳng thức u.h = δ_f(u, t) khi u.h < |V| và u.h − |V| = δ_f(u, s) khi u.h ≥ |V|; tổng thời gian dành cho việc duy trì phải là O(VE). *Người tổng hợp:* đây là "nâng nhãn chính xác": khi nâng nhãn, cập nhật bằng BFS ngược từ t (và từ s) một cách gia tăng; mỗi đỉnh có độ cao chỉ tăng, tổng O(V) lần tăng mỗi đỉnh, mỗi lần quét O(degree), tổng cộng O(VE).
 - **26.4-10:** Chứng minh số lần đẩy không bão hoà của GENERIC-PUSH-RELABEL nhiều nhất 4|V|²|E| khi |V| ≥ 4. *Hướng của người tổng hợp:* đếm chặt hơn trong chứng minh Bổ đề 26.23. Tổng lượng tăng của Φ do mọi lần nâng nhãn chỉ là tổng độ tăng độ cao, nhiều nhất (2|V| − 1)(|V| − 2) (không phải 2|V| · 2|V|²); do đẩy bão hoà nhiều nhất (2|V| − 1) nhân số lần đẩy bão hoà (< 2|V||E|). Cộng lại và dùng |E| ≥ |V| − 1, |V| ≥ 4 để chặn tổng bởi 4|V|²|E|.
@@ -1437,9 +1478,13 @@ Theo hiểu biết của người tổng hợp: các cài đặt đẩy–nâng 
 
   Luồng cuối: s → v₁ 12, s → v₂ 11, v₁ → v₃ 12, v₂ → v₁ 0, v₃ → v₂ 0, v₂ → v₄ 11, v₄ → v₃ 7, v₃ → t 19, v₄ → t 4; giá trị 23, trùng với kết quả Ford-Fulkerson. (Người tổng hợp đã kiểm tra bảo toàn luồng tại cả bốn đỉnh trung gian.)
 - **26.5-2 ★:** Cài đặt thuật toán đẩy–nâng nhãn giữ một **hàng đợi FIFO** các đỉnh tràn: lặp lại việc xả đỉnh ở đầu hàng đợi, đỉnh nào trước đó không tràn mà sau đó tràn thì đưa vào cuối hàng; xả xong thì bỏ đỉnh đầu; dừng khi hàng đợi rỗng. Chỉ cách cài đặt để tính luồng cực đại trong O(V³). *Người tổng hợp:* chia thời gian thành các "lượt" (mỗi lượt xả mọi đỉnh có trong hàng đợi lúc đầu lượt); dùng hàm thế Φ = max độ cao các đỉnh tràn để chứng minh số lượt O(V²); mỗi lượt có nhiều nhất |V| lần đẩy không bão hoà, nên tổng O(V³).
-- **26.5-3:** Chứng minh thuật toán tổng quát vẫn đúng nếu RELABEL chỉ đặt u.h = u.h + 1. Thay đổi này ảnh hưởng phân tích RELABEL-TO-FRONT thế nào? *Người tổng hợp:* khi RELABEL áp dụng được, u.h ≤ v.h với mọi cạnh thặng dư (u, v), nên sau khi tăng 1 vẫn có u.h ≤ v.h + 1; h vẫn là hàm độ cao, mọi bổ đề về độ cao (26.15–26.20) và các cận số thao tác giữ nguyên, nên thuật toán tổng quát vẫn đúng và vẫn O(V²E). Với RELABEL-TO-FRONT: phần đầu Bổ đề 26.28 hỏng (sau một lần +1 có thể chưa có cạnh chấp nhận được rời u), nên DISCHARGE có thể nâng nhãn rồi duyệt hết danh sách nhiều lần liên tiếp; phần sau (không có cạnh chấp nhận được đi vào u) vẫn đúng nên bất biến sắp xếp topo vẫn giữ. Mỗi lượt duyệt tốn O(degree(u)) và mỗi đỉnh vẫn chỉ được nâng nhãn O(V) lần, nên chi phí dịch con trỏ vẫn O(VE) và cận O(V³) giữ nguyên.
+- **26.5-3:** Chứng minh thuật toán tổng quát vẫn đúng nếu RELABEL chỉ đặt u.h = u.h + 1. Thay đổi này ảnh hưởng phân tích RELABEL-TO-FRONT thế nào? *Người tổng hợp:* khi RELABEL áp dụng được, u.h ≤ v.h với mọi cạnh thặng dư (u, v), nên sau khi tăng 1 vẫn có u.h ≤ v.h + 1; h vẫn là hàm độ cao, mọi bổ đề về độ cao (26.15–26.20) và các cận số thao tác giữ nguyên, nên thuật toán tổng quát vẫn đúng và vẫn O(V²E).
+
+  Với RELABEL-TO-FRONT: phần đầu Bổ đề 26.28 hỏng (sau một lần +1 có thể chưa có cạnh chấp nhận được rời u), nên DISCHARGE có thể nâng nhãn rồi duyệt hết danh sách nhiều lần liên tiếp; phần sau (không có cạnh chấp nhận được đi vào u) vẫn đúng nên bất biến sắp xếp topo vẫn giữ. Mỗi lượt duyệt tốn O(degree(u)) và mỗi đỉnh vẫn chỉ được nâng nhãn O(V) lần, nên chi phí dịch con trỏ vẫn O(VE) và cận O(V³) giữ nguyên.
 - **26.5-4 ★:** Chứng minh nếu luôn xả đỉnh tràn **cao nhất** thì phương pháp đẩy–nâng nhãn chạy O(V³). *Người tổng hợp:* giữa hai lần nâng nhãn, độ cao lớn nhất của đỉnh tràn chỉ giảm, mỗi đỉnh bị xả nhiều nhất một lần (mỗi lần xả không nâng nhãn dùng một lần đẩy không bão hoà); số pha O(V²), mỗi pha ≤ |V| lần đẩy không bão hoà.
-- **26.5-5:** Giả sử tại một thời điểm có số nguyên 0 < k ≤ |V| − 1 mà không đỉnh nào có v.h = k. Chứng minh mọi đỉnh có v.h > k nằm ở phía nguồn của một lát cắt cực tiểu. Nếu có k như vậy, **heuristic khe hở** (gap heuristic) cập nhật mọi đỉnh v ∈ V − {s} có v.h > k thành v.h = max(v.h, |V| + 1). Chứng minh h thu được vẫn là hàm độ cao. (Sách nhấn mạnh heuristic khe hở rất quan trọng để cài đặt đẩy–nâng nhãn chạy tốt trong thực tế.) *Người tổng hợp:* không có cạnh thặng dư từ một đỉnh cao > k xuống đỉnh cao < k (chênh > 1) và không có đỉnh nào cao đúng k, nên các đỉnh cao > k không đến được t trong G_f; chúng không bao giờ đẩy được luồng tới t nữa. Nâng chúng lên ≥ |V| + 1 không vi phạm h(u) ≤ h(v) + 1 vì không có cạnh thặng dư từ chúng sang đỉnh thấp ≤ k.
+- **26.5-5:** Giả sử tại một thời điểm có số nguyên 0 < k ≤ |V| − 1 mà không đỉnh nào có v.h = k. Chứng minh mọi đỉnh có v.h > k nằm ở phía nguồn của một lát cắt cực tiểu. Nếu có k như vậy, **heuristic khe hở** (gap heuristic) cập nhật mọi đỉnh v ∈ V − {s} có v.h > k thành v.h = max(v.h, |V| + 1). Chứng minh h thu được vẫn là hàm độ cao.
+
+  (Sách nhấn mạnh heuristic khe hở rất quan trọng để cài đặt đẩy–nâng nhãn chạy tốt trong thực tế.) *Người tổng hợp:* không có cạnh thặng dư từ một đỉnh cao > k xuống đỉnh cao < k (chênh > 1) và không có đỉnh nào cao đúng k, nên các đỉnh cao > k không đến được t trong G_f; chúng không bao giờ đẩy được luồng tới t nữa. Nâng chúng lên ≥ |V| + 1 không vi phạm h(u) ≤ h(v) + 1 vì không có cạnh thặng dư từ chúng sang đỉnh thấp ≤ k.
 
 ### Problem 26-1: Bài toán thoát hiểm (Escape problem)
 
@@ -1460,7 +1505,9 @@ Ví dụ của sách (vẽ lại Hình 26.11, lưới 6 × 6, tọa độ (hàng
 ```
 
 - **(a)** Xét mạng luồng mà cả đỉnh lẫn cạnh có sức chứa (tổng luồng dương vào một đỉnh bị chặn). Chứng minh luồng cực đại trong mạng có sức chứa cạnh và đỉnh quy được về bài toán luồng cực đại thường trên mạng cỡ tương đương. *Người tổng hợp:* tách đỉnh như Exercise 26.1-7.
-- **(b)** Mô tả thuật toán hiệu quả giải bài toán thoát hiểm và phân tích. *Người tổng hợp:* mỗi đỉnh lưới sức chứa 1 (tách thành v_in → v_out), mỗi cạnh lưới thành hai cạnh có hướng sức chứa 1; siêu nguồn nối tới mọi điểm xuất phát (sức chứa 1), mọi đỉnh biên nối tới siêu đích (sức chứa 1). Có lối thoát khi và chỉ khi luồng cực đại = m. Mạng có O(n²) đỉnh, O(n²) cạnh, luồng ≤ m ≤ n²; Ford-Fulkerson O(E|f*|) = O(n² · m) = O(n⁴). (Nếu m > 4n − 4, số đỉnh biên, thì chắc chắn không có lối thoát.) Ở lưới (b), lý do không thoát (kiểm tra của người tổng hợp): điểm (3,2) có ba láng giềng (2,2), (4,2), (3,1) đều là điểm xuất phát khác, nên đường của nó buộc phải đi qua (3,3); điểm (3,4) có ba láng giềng (2,4), (4,4), (3,5) đều là điểm xuất phát, nên cũng buộc phải đi qua (3,3). Hai đường không thể rời nhau về đỉnh, nên luồng cực đại chỉ đạt 10 < 11. Ở lưới (a), (3,5) là ô trắng nên (3,4) thoát được qua (3,5).
+- **(b)** Mô tả thuật toán hiệu quả giải bài toán thoát hiểm và phân tích. *Người tổng hợp:* mỗi đỉnh lưới sức chứa 1 (tách thành v_in → v_out), mỗi cạnh lưới thành hai cạnh có hướng sức chứa 1; siêu nguồn nối tới mọi điểm xuất phát (sức chứa 1), mọi đỉnh biên nối tới siêu đích (sức chứa 1). Có lối thoát khi và chỉ khi luồng cực đại = m. Mạng có O(n²) đỉnh, O(n²) cạnh, luồng ≤ m ≤ n²; Ford-Fulkerson O(E|f*|) = O(n² · m) = O(n⁴).
+
+  (Nếu m > 4n − 4, số đỉnh biên, thì chắc chắn không có lối thoát.) Ở lưới (b), lý do không thoát (kiểm tra của người tổng hợp): điểm (3,2) có ba láng giềng (2,2), (4,2), (3,1) đều là điểm xuất phát khác, nên đường của nó buộc phải đi qua (3,3); điểm (3,4) có ba láng giềng (2,4), (4,4), (3,5) đều là điểm xuất phát, nên cũng buộc phải đi qua (3,3). Hai đường không thể rời nhau về đỉnh, nên luồng cực đại chỉ đạt 10 < 11. Ở lưới (a), (3,5) là ô trắng nên (3,4) thoát được qua (3,5).
 
 ### Problem 26-2: Phủ đường tối thiểu (Minimum path cover)
 
@@ -1471,7 +1518,9 @@ Ví dụ của sách (vẽ lại Hình 26.11, lưới 6 × 6, tọa độ (hàng
 
 ### Problem 26-3: Tư vấn thuật toán (Algorithmic consulting)
 
-Giáo sư Gore muốn mở công ty tư vấn thuật toán. Ông xác định n lĩnh vực con quan trọng của thuật toán (tương ứng khoảng các phần của cuốn sách), tập A = {A₁, A₂, …, A_n}. Ở mỗi lĩnh vực A_k, có thể thuê một chuyên gia với giá c_k đô la. Công ty có danh sách J = {J₁, J₂, …, J_m} các dự án tiềm năng. Để làm dự án Jᵢ, công ty cần đã thuê chuyên gia ở một tập con Rᵢ ⊆ A các lĩnh vực. Mỗi chuyên gia có thể làm nhiều dự án cùng lúc. Nếu nhận dự án Jᵢ, công ty phải đã thuê chuyên gia ở mọi lĩnh vực trong Rᵢ, và thu về pᵢ đô la. Cần xác định thuê chuyên gia lĩnh vực nào và nhận dự án nào để **cực đại lợi nhuận ròng** (tổng thu từ các dự án nhận trừ tổng chi phí thuê chuyên gia).
+Giáo sư Gore muốn mở công ty tư vấn thuật toán. Ông xác định n lĩnh vực con quan trọng của thuật toán (tương ứng khoảng các phần của cuốn sách), tập A = {A₁, A₂, …, A_n}. Ở mỗi lĩnh vực A_k, có thể thuê một chuyên gia với giá c_k đô la. Công ty có danh sách J = {J₁, J₂, …, J_m} các dự án tiềm năng.
+
+Để làm dự án Jᵢ, công ty cần đã thuê chuyên gia ở một tập con Rᵢ ⊆ A các lĩnh vực. Mỗi chuyên gia có thể làm nhiều dự án cùng lúc. Nếu nhận dự án Jᵢ, công ty phải đã thuê chuyên gia ở mọi lĩnh vực trong Rᵢ, và thu về pᵢ đô la. Cần xác định thuê chuyên gia lĩnh vực nào và nhận dự án nào để **cực đại lợi nhuận ròng** (tổng thu từ các dự án nhận trừ tổng chi phí thuê chuyên gia).
 
 Xét mạng luồng G: đỉnh nguồn s, các đỉnh A₁, …, A_n, các đỉnh J₁, …, J_m, đỉnh đích t. Với k = 1, …, n có cạnh (s, A_k) sức chứa c(s, A_k) = c_k; với i = 1, …, m có cạnh (Jᵢ, t) sức chứa c(Jᵢ, t) = pᵢ; với A_k ∈ Rᵢ có cạnh (A_k, Jᵢ) sức chứa ∞.
 
@@ -1516,7 +1565,9 @@ Dòng 3: K là luỹ thừa của 2 lớn nhất không vượt C. Vòng ngoài 
 
 ### Problem 26-6: Thuật toán cặp ghép hai phía Hopcroft-Karp (The Hopcroft-Karp bipartite matching algorithm)
 
-Bài toán mô tả thuật toán nhanh hơn của Hopcroft và Karp tìm cặp ghép cực đại trên đồ thị hai phía, chạy O(√V E). Cho đồ thị hai phía vô hướng G = (V, E), V = L ∪ R, mọi cạnh có đúng một đầu trong L; M là một cặp ghép trong G. Một đường đi đơn P trong G là **đường tăng** (augmenting path) đối với M nếu nó bắt đầu ở một đỉnh chưa ghép trong L, kết thúc ở một đỉnh chưa ghép trong R, và các cạnh của nó luân phiên thuộc M và E − M. (Định nghĩa này liên quan nhưng khác đường tăng luồng trong mạng luồng.) Trong bài này đường đi được coi là dãy cạnh. **Đường tăng ngắn nhất** đối với M là đường tăng có ít cạnh nhất. Với hai tập A, B, **hiệu đối xứng** A ⊕ B = (A − B) ∪ (B − A), tức các phần tử thuộc đúng một trong hai tập.
+Bài toán mô tả thuật toán nhanh hơn của Hopcroft và Karp tìm cặp ghép cực đại trên đồ thị hai phía, chạy O(√V E). Cho đồ thị hai phía vô hướng G = (V, E), V = L ∪ R, mọi cạnh có đúng một đầu trong L; M là một cặp ghép trong G. Một đường đi đơn P trong G là **đường tăng** (augmenting path) đối với M nếu nó bắt đầu ở một đỉnh chưa ghép trong L, kết thúc ở một đỉnh chưa ghép trong R, và các cạnh của nó luân phiên thuộc M và E − M.
+
+(Định nghĩa này liên quan nhưng khác đường tăng luồng trong mạng luồng.) Trong bài này đường đi được coi là dãy cạnh. **Đường tăng ngắn nhất** đối với M là đường tăng có ít cạnh nhất. Với hai tập A, B, **hiệu đối xứng** A ⊕ B = (A − B) ∪ (B − A), tức các phần tử thuộc đúng một trong hai tập.
 
 - **(a)** Chứng minh nếu M là cặp ghép và P là đường tăng đối với M thì M ⊕ P là cặp ghép và |M ⊕ P| = |M| + 1. Chứng minh nếu P₁, …, P_k là các đường tăng rời nhau về đỉnh đối với M thì M ⊕ (P₁ ∪ … ∪ P_k) là cặp ghép cỡ |M| + k. *Người tổng hợp:* P có một cạnh ngoài M nhiều hơn số cạnh trong M (bắt đầu và kết thúc bằng cạnh ngoài M); đảo vai trò tăng 1; hai đầu chưa ghép nên không xung đột.
 
@@ -1726,3 +1777,167 @@ Theo hiểu biết của người tổng hợp: trong thư viện và công cụ
 - **Phỏng vấn:** giải thích định lý luồng cực đại – lát cắt cực tiểu và vì sao cần cạnh ngược trong mạng thặng dư (ví dụ mạng 4 đỉnh: không có cạnh ngược thì tham lam chọn s → u → v → t sẽ kẹt ở luồng 1); quy bài toán phân công/ghép về luồng; nêu độ phức tạp Ford-Fulkerson, Edmonds-Karp.
 - **Lập trình thi đấu:** mẫu Dinic với danh sách cạnh có cạnh ngược ở chỉ số e ^ 1; các mô hình chuẩn: tách đỉnh (sức chứa đỉnh, đường rời đỉnh — Problem 26-1), phủ đường tối thiểu trên DAG (Problem 26-2), đóng tập có trọng số lớn nhất / chọn dự án (Problem 26-3), luồng có cận dưới, cặp ghép hai phía bằng Hopcroft-Karp hoặc Kuhn.
 - **Kỹ thuật phần mềm:** lập lịch và phân bổ tài nguyên (gán tác vụ cho máy có năng lực khác nhau), phân tích điểm nghẽn mạng (lát cắt cực tiểu là tập liên kết yếu nhất), phân đoạn ảnh, phát hiện cộng đồng; khi bài toán có chi phí thì chuyển sang luồng chi phí nhỏ nhất hoặc quy hoạch tuyến tính.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 26 trên một trang: sáu nhánh lớn theo phần mở đầu, năm mục 26.1–★26.5 và các bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, định lý, thuật toán kèm thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 26: giá trị luồng cực đại bằng sức chứa lát cắt cực tiểu, và hết đường tăng luồng chính là bằng chứng tối ưu`"]
+  n1["`Phần mở đầu và Mục 26.1 — Mạng luồng và luồng`"]
+  n0 --- n1
+  n2["`Đồ thị có hướng mô hình được dòng vật chất: chất lỏng trong ống, hàng trên dây chuyền, dòng điện, thông tin`"]
+  n1 --- n2
+  n3["`Mạng luồng có sức chứa c(u, v) ≥ 0, nguồn s, đích t, không có cạnh ngược chiều và không có khuyên`"]
+  n1 --- n3
+  n4["`Luồng thoả ràng buộc sức chứa 0 ≤ f(u, v) ≤ c(u, v) và bảo toàn luồng tại mọi đỉnh khác s, t`"]
+  n1 --- n4
+  n5["`Giá trị |f| là tổng luồng ra khỏi s trừ tổng luồng đi vào s`"]
+  n1 --- n5
+  n6["`Ví dụ Lucky Puck: Vancouver (s) tới Winnipeg (t), 6 đỉnh, 9 cạnh, một luồng giá trị 19`"]
+  n1 --- n6
+  n7["`Hai kỹ thuật mô hình hoá cho mạng tương đương`"]
+  n1 --- n7
+  n8["`Cạnh ngược chiều: tách một cạnh bằng đỉnh mới v′ với cùng sức chứa`"]
+  n7 --- n8
+  n9["`Nhiều nguồn, nhiều đích: thêm siêu nguồn và siêu đích nối bằng cạnh sức chứa ∞`"]
+  n7 --- n9
+  n10["`Mục 26.2 — Ford-Fulkerson và định lý luồng cực đại – lát cắt cực tiểu`"]
+  n0 --- n10
+  n11["`Mạng thặng dư`"]
+  n10 --- n11
+  n12["`Cạnh thuận còn thêm được c − f, cạnh ngược trả lại được f, nhờ đó thuật toán sửa được lựa chọn cũ`"]
+  n11 --- n12
+  n13["`Bổ đề 26.1: tăng luồng f ↑ f′ là luồng có giá trị |f| + |f′|`"]
+  n11 --- n13
+  n14["`Đường tăng luồng là đường đơn s ⇝ t trong mạng thặng dư, tăng thêm đúng sức chứa thặng dư nhỏ nhất trên đường`"]
+  n10 --- n14
+  n15["`Lát cắt (S, T) cho cận trên`"]
+  n10 --- n15
+  n16["`Bổ đề 26.4: luồng ròng qua mọi lát cắt đều bằng |f|`"]
+  n15 --- n16
+  n17["`Hệ quả 26.5: |f| ≤ c(S, T), sức chứa lát cắt chỉ cộng các cạnh đi từ S sang T`"]
+  n15 --- n17
+  n18["`Ví dụ lát cắt ({s, v₁, v₂}, {v₃, v₄, t}): luồng ròng 19 nhưng sức chứa 26`"]
+  n15 --- n18
+  n19["`Định lý 26.6: f cực đại ⇔ không còn đường tăng luồng ⇔ |f| = c(S, T) với một lát cắt nào đó`"]
+  n10 --- n19
+  n20["`FORD-FULKERSON chạy O(E × giá trị luồng cực đại) khi sức chứa nguyên`"]
+  n10 --- n20
+  n21["`Năm vòng trên mạng Lucky Puck cho luồng 4, 8, 12, 19, 23`"]
+  n20 --- n21
+  n22["`Chọn đường tồi thì mạng 4 đỉnh cần 2.000.000 lần tăng, sức chứa vô tỷ có thể không dừng`"]
+  n20 --- n22
+  n23["`Edmonds-Karp tìm đường tăng luồng ít cạnh nhất bằng BFS`"]
+  n10 --- n23
+  n24["`Bổ đề 26.7: khoảng cách từ s trong mạng thặng dư không giảm qua các lần tăng`"]
+  n23 --- n24
+  n25["`Định lý 26.8: mỗi cạnh tới hạn tối đa |V|/2 lần, nên O(VE) lần tăng và thời gian O(VE²)`"]
+  n23 --- n25
+  n26["`Mục 26.3 — Cặp ghép cực đại trên đồ thị hai phía, O(VE)`"]
+  n0 --- n26
+  n27["`Cặp ghép là tập cạnh mà mỗi đỉnh thuộc nhiều nhất một cạnh, ví dụ ghép máy với việc`"]
+  n26 --- n27
+  n28["`Mạng tương ứng: s nối mọi đỉnh bên L, cạnh hướng từ L sang R, mọi đỉnh bên R nối t, mọi sức chứa bằng 1`"]
+  n26 --- n28
+  n29["`Bổ đề 26.9: mỗi cặp ghép M ứng với một luồng nguyên có |f| = |M|`"]
+  n26 --- n29
+  n30["`Định lý 26.10 (tính nguyên): sức chứa nguyên thì Ford-Fulkerson cho luồng cực đại nguyên trên mọi cạnh`"]
+  n26 --- n30
+  n31["`Hệ quả 26.11: cỡ cặp ghép cực đại bằng giá trị luồng cực đại, tối đa min(|L|, |R|) lần tăng`"]
+  n26 --- n31
+  n32["`Mục ★26.4 — Đẩy–nâng nhãn của Goldberg, O(V²E)`"]
+  n0 --- n32
+  n33["`Làm việc cục bộ trên tiền luồng: tại mỗi đỉnh luồng vào ≥ luồng ra, đỉnh tràn có luồng dư dương`"]
+  n32 --- n33
+  n34["`Trực giác: luồng chỉ chảy xuống dốc, đỉnh bị kẹt thì được nâng lên, luồng thừa cuối cùng chảy về nguồn`"]
+  n32 --- n34
+  n35["`Hàm độ cao: h(s) = |V|, h(t) = 0, h(u) ≤ h(v) + 1 trên mọi cạnh thặng dư`"]
+  n32 --- n35
+  n36["`PUSH đẩy luồng dư xuống đỉnh thấp hơn đúng 1 bậc, RELABEL nâng u lên 1 + độ cao thấp nhất của láng giềng thặng dư`"]
+  n32 --- n36
+  n37["`Định lý 26.18: hàm độ cao chặn mọi đường s ⇝ t, nên khi hết đỉnh tràn thì tiền luồng là luồng cực đại`"]
+  n32 --- n37
+  n38["`Đếm từng loại thao tác`"]
+  n32 --- n38
+  n39["`Độ cao không vượt 2|V| − 1 vì mỗi đỉnh tràn có đường thặng dư về s`"]
+  n38 --- n39
+  n40["`Nâng nhãn dưới 2|V|² lần, đẩy bão hoà dưới 2|V||E| lần`"]
+  n38 --- n40
+  n41["`Đẩy không bão hoà dưới 4|V|²(|V| + |E|) lần, chứng minh bằng hàm thế của Chương 17`"]
+  n38 --- n41
+  n42["`Mục ★26.5 — Relabel-to-front, O(V³)`"]
+  n0 --- n42
+  n43["`Cạnh chấp nhận được có sức chứa thặng dư dương và h(u) = h(v) + 1, mạng các cạnh này không có chu trình`"]
+  n42 --- n43
+  n44["`DISCHARGE(u) duyệt danh sách đỉnh kề bằng con trỏ current, đẩy hoặc nâng nhãn đến khi u hết luồng dư`"]
+  n42 --- n44
+  n45["`Danh sách L luôn là sắp xếp topo của mạng chấp nhận được, đỉnh vừa nâng nhãn được chuyển lên đầu`"]
+  n42 --- n45
+  n46["`Định lý 26.30: O(V²) pha, mỗi pha tối đa |V| lần xả, tổng O(V³), tốt hơn O(V²E) khi mạng dày`"]
+  n42 --- n46
+  n47["`Ví dụ của sách: xả đỉnh y mất 15 vòng lặp, chạy trên mạng 5 đỉnh cho luồng 20`"]
+  n42 --- n47
+  n48["`Bài toán cuối chương và ghi chú chương`"]
+  n0 --- n48
+  n49["`26-1 Thoát hiểm trên lưới: tách đỉnh để đặt sức chứa đỉnh bằng 1`"]
+  n48 --- n49
+  n50["`26-2 Phủ đường tối thiểu của DAG: số đường bằng n trừ giá trị luồng cực đại`"]
+  n48 --- n50
+  n51["`26-3 Tư vấn thuật toán: lợi nhuận lớn nhất bằng tổng tiền dự án trừ sức chứa lát cắt cực tiểu`"]
+  n48 --- n51
+  n52["`26-5 Co giãn: chỉ tăng dọc đường có sức chứa ≥ K, K giảm một nửa mỗi pha, O(E² lg C)`"]
+  n48 --- n52
+  n53["`26-6 Hopcroft-Karp: tăng theo tập đường ngắn nhất rời nhau, O(√V E)`"]
+  n48 --- n53
+  n54["`Ghi chú: trong thực tế đẩy–nâng nhãn thống trị nhờ heuristic BFS định kỳ và heuristic khe hở`"]
+  n48 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Mạng thặng dư biến câu hỏi tối ưu thành câu hỏi còn đường s ⇝ t hay không`"]
+  n55 --- n56
+  n57["`Có luồng cực đại thì lát cắt cực tiểu có ngay bằng một lần BFS trên mạng thặng dư`"]
+  n55 --- n57
+  n58["`Nhiều bài toán phân bổ, ghép, chọn tập con quy về luồng nhờ siêu nguồn, tách đỉnh, cạnh ∞`"]
+  n55 --- n58
+  n59["`Chọn đường khéo (BFS, co giãn) hoặc làm cục bộ (đẩy–nâng nhãn) để thời gian không phụ thuộc giá trị luồng`"]
+  n55 --- n59
+  class n0 root
+  class n1,n10,n26,n32,n42,n48,n55 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VI "Graph Algorithms", Chương 26 "Maximum Flow", trang 708–766 (trang 767 để trắng; trang 768 là trang tên Phần VII "Selected Topics", thuộc về [C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)).
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 26 là chương cuối của Phần VI (thuật toán đồ thị). Nó dùng lại gần như mọi công cụ của các chương đồ thị trước: biểu diễn đồ thị và thuộc tính cạnh dạng (u, v).f, tìm kiếm theo chiều rộng và theo chiều sâu ở Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) để tìm đường tăng luồng; khái niệm lát cắt của cây khung nhỏ nhất ở Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md)), nay áp dụng cho đồ thị có hướng; khoảng cách đường đi ngắn nhất và bất đẳng thức tam giác (Bổ đề 24.10) ở Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)) cho phân tích Edmonds-Karp; sắp xếp topo của đồ thị không chu trình (Chương 22) cho bất biến của thuật toán relabel-to-front.
+
+Kỹ thuật hàm thế của phân tích khấu hao ở Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) được dùng để chặn số lần đẩy không bão hoà.
+
+Về phía sau: Chương 29 ([C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)) trình bày luồng cực đại và luồng chi phí nhỏ nhất như bài toán quy hoạch tuyến tính (Exercise 26.1-5 báo trước), và định lý luồng cực đại – lát cắt cực tiểu là một trường hợp của đối ngẫu quy hoạch tuyến tính; Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) và Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) đối chiếu cặp ghép hai phía (giải được trong thời gian đa thức) với các bài toán phủ và ghép khó hơn.
+
+## Lưu ý
+
+- **Mục có dấu sao (★):** Mục 26.4 "Push-relabel algorithms" và Mục 26.5 "The relabel-to-front algorithm". Bài tập có dấu sao: Exercise 26.3-4 (định lý Hall), 26.3-5 (đồ thị hai phía d-chính quy), 26.4-9 (duy trì độ cao bằng đúng khoảng cách), 26.5-2 (đẩy–nâng nhãn với hàng đợi FIFO), 26.5-4 (xả đỉnh tràn cao nhất).
+- **Lớp chữ PDF hỏng nặng ở chương này**: ký tự v nghiêng (đỉnh v) bị mất hoàn toàn (ví dụ `.u; /2 E` là `(u, v) ∈ E`, `f.  ;u /` là `f(v, u)`), dấu trừ thành `/NUL`, ⇝ thành `❀`, ≤ và ≥ mất, ↑ của phép tăng luồng thành `"`, các tổng kép và hệ phương trình nhiều trường hợp (26.2), (26.4), (26.8), (26.15), (26.16) vỡ dòng; nhãn các hình 26.1–26.11 bị trộn thành dãy số. Mọi pseudocode, công thức (26.1)–(26.17), mọi hình và chứng minh trong bản tổng hợp này được đọc lại từ ảnh **tất cả** các trang 708–768; Hình 26.8 và 26.11 được phóng to riêng để xác định cạnh và điểm xuất phát.
+- **Lỗi chính tả trong sách (nhận xét của người tổng hợp):** trang 717 viết "just send 3 creates from u to v" — đúng phải là "crates" (thùng hàng); trang 714, Exercise 26.1-7 viết "how much flow can pass though v" — đúng phải là "through"; trang 766 viết "shortest paths from the source to the sink tend have high capacity" — thiếu "to" ("tend to have"). Không ảnh hưởng nội dung.
+- **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):**
+  - Lời giải thích của Bổ đề 26.14 suy "h(u) < h(v) + 1 kéo theo h(u) ≤ h(v)" ngầm dùng việc độ cao là số nguyên (h : V → ℕ) — đúng nhưng sách không nói.
+  - Trong chứng minh Bổ đề 26.23, hàm thế Φ lấy tổng trên mọi đỉnh có luồng dư dương, kể cả đích t (t có thể có e(t) > 0); vì t.h = 0 nên không ảnh hưởng, nhưng sách không nhắc.
+  - Định lý 26.24 kết luận O(V²E) từ tổng các cận 2|V|² + 2|V||E| + 4|V|²(|V| + |E|), tức O(V³ + V²E); bước gộp về O(V²E) cần |E| ≥ |V| − 1, giả định có từ Mục 26.1 nhưng không được nhắc lại.
+  - Exercise 26.2-1 và Bổ đề 26.1 dùng "mở rộng tổng sang V vì số hạng thêm vào bằng 0" — với f′ điều này cần lập luận (f′(s, v) > 0 chỉ khi (s, v) hoặc (v, s) thuộc E), sách để thành bài tập.
+  - Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** luồng 19 trên mạng Lucky Puck (bảo toàn tại cả 4 đỉnh trung gian); lát cắt ({s, v₁, v₂}, {v₃, v₄, t}) có luồng ròng 19, sức chứa 26; năm vòng FORD-FULKERSON cho luồng 23 (4, 8, 12, 19, 23); mạng 4 đỉnh cần 2.000.000 lần tăng; DISCHARGE(y) đúng 15 vòng lặp; RELABEL-TO-FRONT trên mạng 5 đỉnh cho luồng 20 (người tổng hợp kiểm bằng lát cắt ({s, y}, {x, z, t}) sức chứa 12 + 8 = 20). Người tổng hợp bổ sung: Edmonds-Karp trên mạng Lucky Puck (3 lần tăng, 23), một ví dụ chạy tay thuật toán đẩy–nâng nhãn tổng quát (sách không có), và lời giải Exercise 26.5-1 (luồng 23).
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** do sắp xếp lại chương, luồng cực đại trở thành Chương 24 "Maximum Flow"; hai mục đẩy–nâng nhãn (26.4, 26.5 của ấn bản 3) bị **bỏ** khỏi chương; cặp ghép hai phía được tách thành chương mới "Matchings in Bipartite Graphs" (Chương 25), trong đó thuật toán Hopcroft-Karp (Problem 26-6 ở ấn bản 3) được trình bày trong phần chính, cùng bài toán hôn nhân ổn định và thuật toán Hungary cho bài toán phân công. Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.

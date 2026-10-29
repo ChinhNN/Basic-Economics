@@ -1,25 +1,20 @@
 # Chương 29 — Quy hoạch tuyến tính (Linear Programming)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 29 "Linear Programming", trang 843–897 (phần mở đầu chương trang 843–850; Mục 29.1–29.5 trang 850–894; Bài toán cuối chương trang 894–896; Ghi chú chương trang 896–897).
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 29 thuộc Phần VII "Các chủ đề chọn lọc", sau Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) về thuật toán đa luồng và Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) về phép toán ma trận — Mục 28.1 trình bày khử Gauss, và chương này nói thẳng rằng thuật toán đơn hình (simplex) có thể xem là "khử Gauss cho bất đẳng thức". Chương dùng lại nhiều bài toán đồ thị đã học: đường đi ngắn nhất một nguồn và hệ ràng buộc hiệu (Mục 24.4, [C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)), luồng cực đại và định lý luồng cực đại – lát cắt cực tiểu (Chương 26, [C26-luong-cuc-dai.md](C26-luong-cuc-dai.md)) — định lý này được giới thiệu lại như một ví dụ của **tính đối ngẫu**. Về sau, Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) cho biết quy hoạch tuyến tính **nguyên** là NP-khó (Bài tập 34.5-3), và Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md), Mục 35.4) dùng quy hoạch tuyến tính làm công cụ để xấp xỉ bài toán phủ đỉnh có trọng số. Các công cụ nền: ký hiệu ma trận – véc-tơ ở Phụ lục D ([PD-ma-tran.md](PD-ma-tran.md)), hệ số nhị thức ở Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md)), bất biến vòng lặp ở Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)).
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **rất nhiều bài toán tối ưu — từ ngân sách quảng cáo tranh cử tới đường đi ngắn nhất, luồng cực đại, luồng chi phí nhỏ nhất, luồng nhiều loại hàng — có thể viết thành một quy hoạch tuyến tính (tối đa hoá hoặc tối thiểu hoá một hàm tuyến tính dưới các ràng buộc tuyến tính); thuật toán đơn hình giải mọi quy hoạch tuyến tính bằng cách liên tục viết lại hệ ràng buộc dưới dạng bù tương đương (mỗi lần một phép xoay — pivot) sao cho giá trị mục tiêu của nghiệm cơ sở không giảm, cho tới khi nghiệm tối ưu "hiện ra"; và tính đối ngẫu — mọi bài toán tối đa có một bài toán tối thiểu đi kèm với cùng giá trị tối ưu — vừa chứng minh đơn hình trả về nghiệm tối ưu, vừa cho ra nghiệm tối ưu của bài toán đối ngẫu miễn phí.** Phần mở đầu chương đặt bài toán chính trị gia (chi ít tiền quảng cáo nhất mà vẫn đủ phiếu ở ba khu vực), định nghĩa hàm tuyến tính, ràng buộc tuyến tính, quy hoạch tuyến tính; giải bằng hình học một quy hoạch hai biến và rút ra trực giác "nghiệm tối ưu nằm ở một đỉnh của miền khả thi lồi"; giới thiệu thuật toán đơn hình (đi dọc cạnh từ đỉnh này sang đỉnh kề), thuật toán ellipsoid và phương pháp điểm trong (đa thức), quy hoạch tuyến tính nguyên (NP-khó). Mục 29.1 định nghĩa **dạng chuẩn** (tối đa hoá, mọi ràng buộc là "≤", mọi biến ≥ 0), bốn bước đưa một quy hoạch bất kỳ về dạng chuẩn, và **dạng bù** (slack form: mỗi bất đẳng thức thành một đẳng thức với một biến bù không âm; biến cơ sở ở vế trái, biến không cơ sở ở vế phải). Mục 29.2 viết thành quy hoạch tuyến tính: đường đi ngắn nhất một cặp đỉnh, luồng cực đại, luồng chi phí nhỏ nhất, luồng nhiều loại hàng (bài toán mà thuật toán đa thức duy nhất đã biết là đi qua quy hoạch tuyến tính). Mục 29.3 chạy tay thuật toán đơn hình trên một ví dụ ba biến, hình thức hoá PIVOT và SIMPLEX, chứng minh SIMPLEX trả về nghiệm khả thi hoặc báo "không bị chặn" đúng, bàn về suy biến, vòng lặp (cycling), quy tắc Bland, và cận số lần lặp C(n + m, m). Mục 29.4 định nghĩa **bài toán đối ngẫu**, chứng minh đối ngẫu yếu, rồi chứng minh định lý đối ngẫu: từ dạng bù cuối cùng của đơn hình đọc ra nghiệm đối ngẫu tối ưu có cùng giá trị, nên nghiệm đơn hình trả về là tối ưu. Mục 29.5 xây INITIALIZE-SIMPLEX bằng **quy hoạch phụ** với một biến mới x₀ để kiểm tra khả thi và tìm dạng bù có nghiệm cơ sở khả thi, rồi chứng minh **định lý cơ bản của quy hoạch tuyến tính**: mọi quy hoạch tuyến tính hoặc có nghiệm tối ưu hữu hạn, hoặc không khả thi, hoặc không bị chặn — và SIMPLEX nhận ra đúng trường hợp.
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục hay bài tập nào mang dấu sao (★) trong chương này.** Cả năm mục 29.1–29.5, mọi bài tập và năm bài toán 29-1 đến 29-5 đều không đánh dấu khó.
-> - **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương, và hỏng theo cách nguy hiểm:** dấu ≤ và ≥ bị **mất hẳn** (ví dụ `x1 /NUL x2  8` không cho biết là "≤ 8" hay "≥ 8"), dấu trừ thành `/NUL`, phân số bị tách dòng (`x2\n4` là x₂/4), chữ Hy Lạp ν, Δ, α, β, γ bị mất hoặc thành ký hiệu lạ, dấu mũ của Â, b̂, ĉ, ν̂ trong PIVOT thành chữ `y`, dấu gạch trên x̄, ȳ thành chữ `N`, hệ số nhị thức C(n + m, m) vỡ thành `/NULnCm m`. Vì vậy chiều mọi bất đẳng thức trong (29.1)–(29.115), mọi đề bài tập có bất đẳng thức (29.1-4 đến 29.1-7, 29.3-5 đến 29.3-7, 29.5-5 đến 29.5-7, 29.5-9), pseudocode PIVOT, SIMPLEX, INITIALIZE-SIMPLEX, các dạng bù trong ví dụ đơn hình, ví dụ suy biến, ví dụ quy hoạch phụ, chuỗi biến đổi trong chứng minh Định lý 29.10, Hình 29.1–29.3 đều được đọc lại từ ảnh trang 843–848, 851, 853, 854, 856–858, 860, 862, 863, 866–869, 871, 873–875, 877–880, 883, 884, 886, 887, 889, 891–893, 895–897; các trang còn lại được đọc bằng lớp chữ (chỉ có lời văn).
-> - **Chỗ sách viết chưa chặt (nhận xét của người tổng hợp):**
->   - Trang 871: "Nếu mọi hệ số trong hàm mục tiêu đều **âm** thì vòng lặp while kết thúc." Điều kiện dừng thực sự (dòng 3 của SIMPLEX) là không còn hệ số **dương**, tức mọi hệ số **≤ 0** (không dương). Câu tương tự ở trang 868 ("all coefficients in the objective function are negative") đúng với ví dụ cụ thể nhưng không phải điều kiện tổng quát.
->   - Phần kết thúc của chứng minh Bổ đề 29.2 (trang 874) đặt x̄ₑ = ∞, mà ∞ không phải số thực nên "nghiệm" đó không phải nghiệm của quy hoạch. Lập luận chặt: với mọi t > 0, đặt x̄ₑ = t, các biến không cơ sở khác bằng 0, x̄ᵢ = bᵢ − aᵢₑ t ≥ 0 với i ∈ B; nghiệm này khả thi và có giá trị ν + cₑ t, tiến tới +∞ khi t → ∞. Bản tổng hợp trình bày cả hai cách.
->   - Bổ đề 29.7 phát biểu "SIMPLEX dừng trong tối đa C(n + m, m) lần lặp" mà không nêu giả thiết về quy tắc chọn biến, nhưng chứng minh lại dựa vào Bổ đề 29.6 (cần quy tắc Bland: chọn chỉ số nhỏ nhất khi có nhiều lựa chọn). Không có quy tắc chống vòng lặp, SIMPLEX có thể không dừng (chính cuốn sách thừa nhận điều này ở trang 875). Định lý 29.13 kế thừa giả thiết ngầm này.
->   - Phần mở đầu (trang 848) gọi miền khả thi trong không gian n chiều là một "simplex". Trong hình học, simplex (đơn hình) thường chỉ bao lồi của n + 1 điểm; miền khả thi của quy hoạch tuyến tính nói chung là một **khối đa diện lồi** (polyhedron). Trang 848 cũng nói thuật toán dừng ở "một đỉnh mà mọi đỉnh kề đều có giá trị mục tiêu **nhỏ hơn**" — khi có suy biến hoặc nhiều nghiệm tối ưu, nên hiểu là "không lớn hơn".
->   - PIVOT dòng 2 tạo "ma trận m × n mới Â", nhưng các chỉ số dòng/cột của Â lấy từ tập B và N (con của {1, …, n + m}), không phải 1..m và 1..n; sách tự nhắc ở trang 857 rằng chỉ số của A, b, c "không nhất thiết là các số nguyên liên tiếp".
->   - Trang 853, phép tách biến tự do: sách viết "x̂″ⱼ = x̄ⱼ và x̂′ⱼ = 0 nếu x̄ⱼ < 0"; vì x̂″ⱼ phải không âm, đúng ra là x̂″ⱼ = −x̄ⱼ (để x̂′ⱼ − x̂″ⱼ = x̄ⱼ). Bản tổng hợp ghi bản đã sửa.
->   - Trang 860, quy hoạch đường đi ngắn nhất: sách nói nếu tối thiểu hoá thì "đặt mọi d̄_v = 0 sẽ là nghiệm tối ưu". Thực ra các ràng buộc d_v ≤ d_u + w(u, v) chỉ chặn trên, nên quy hoạch tối thiểu không bị chặn; chỉ khi thêm d_v ≥ 0 thì nghiệm 0 mới là tối ưu. Kết luận "phải tối đa hoá" của sách vẫn đúng.
->   - SIMPLEX dòng 2 tạo véc-tơ Δ "độ dài n", trong khi Δ được đánh chỉ số theo B (m phần tử, chỉ số lấy trong {1, …, n + m}).
->   - Bài tập 29.3-8 viết C(m + n, n), Bổ đề 29.5 viết C(n + m, m) — hai số này bằng nhau, không sai, chỉ khác cách viết.
-> - **Các ví dụ chạy tay trong sách đã được tự kiểm tra lại và đều đúng:** phép tính phiếu bầu và chi phí 33 nghìn đô la của chiến lược thử (trang 844); các đỉnh của miền khả thi hai biến và nghiệm tối ưu (2, 6) giá trị 8; ba phép xoay của ví dụ đơn hình (29.58)–(29.75) tới nghiệm (8, 4, 0, 18, 0, 0) giá trị 28 (người tổng hợp tính lại từng hệ số bằng đúng các dòng của PIVOT); ví dụ suy biến (giá trị 8 giữ nguyên rồi tăng lên 16); nghiệm đối ngẫu ȳ = (0, 1/6, 2/3) giá trị 28; ví dụ luồng chi phí nhỏ nhất chi phí 27; hai phép xoay của quy hoạch phụ (29.109)–(29.111) và dạng bù trả về. Người tổng hợp chạy tiếp ví dụ này tới nghiệm tối ưu (x₁, x₂) = (14/9, 10/9) giá trị 2 (sách dừng ở dạng bù khả thi). Người tổng hợp cũng tự giải bài toán chính trị gia (Bài tập 29.5-8): chi phí tối thiểu 3100/111 ≈ 27,93 nghìn đô la, kiểm chứng bằng một nghiệm đối ngẫu có cùng giá trị.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Quy hoạch tuyến tính vẫn là Chương 29 nhưng được viết lại và rút gọn đáng kể: phần trình bày chi tiết thuật toán đơn hình (dạng bù, PIVOT, SIMPLEX, INITIALIZE-SIMPLEX, chứng minh dừng) bị bỏ; chương giữ phần đặt bài toán, dạng chuẩn, cách viết bài toán đồ thị thành quy hoạch tuyến tính, và tính đối ngẫu, chỉ mô tả thuật toán đơn hình ở mức ý tưởng hình học. Các chi tiết khác (bài tập, bài toán nào còn giữ) người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **rất nhiều bài toán tối ưu — từ ngân sách quảng cáo tranh cử tới đường đi ngắn nhất, luồng cực đại, luồng chi phí nhỏ nhất, luồng nhiều loại hàng — có thể viết thành một quy hoạch tuyến tính (tối đa hoá hoặc tối thiểu hoá một hàm tuyến tính dưới các ràng buộc tuyến tính); thuật toán đơn hình giải mọi quy hoạch tuyến tính bằng cách liên tục viết lại hệ ràng buộc dưới dạng bù tương đương (mỗi lần một phép xoay — pivot) sao cho giá trị mục tiêu của nghiệm cơ sở không giảm, cho tới khi nghiệm tối ưu "hiện ra"; và tính đối ngẫu — mọi bài toán tối đa có một bài toán tối thiểu đi kèm với cùng giá trị tối ưu — vừa chứng minh đơn hình trả về nghiệm tối ưu, vừa cho ra nghiệm tối ưu của bài toán đối ngẫu miễn phí.**
+
+Phần mở đầu chương đặt bài toán chính trị gia (chi ít tiền quảng cáo nhất mà vẫn đủ phiếu ở ba khu vực), định nghĩa hàm tuyến tính, ràng buộc tuyến tính, quy hoạch tuyến tính; giải bằng hình học một quy hoạch hai biến và rút ra trực giác "nghiệm tối ưu nằm ở một đỉnh của miền khả thi lồi"; giới thiệu thuật toán đơn hình (đi dọc cạnh từ đỉnh này sang đỉnh kề), thuật toán ellipsoid và phương pháp điểm trong (đa thức), quy hoạch tuyến tính nguyên (NP-khó).
+
+Mục 29.1 định nghĩa **dạng chuẩn** (tối đa hoá, mọi ràng buộc là "≤", mọi biến ≥ 0), bốn bước đưa một quy hoạch bất kỳ về dạng chuẩn, và **dạng bù** (slack form: mỗi bất đẳng thức thành một đẳng thức với một biến bù không âm; biến cơ sở ở vế trái, biến không cơ sở ở vế phải).
+
+Mục 29.2 viết thành quy hoạch tuyến tính: đường đi ngắn nhất một cặp đỉnh, luồng cực đại, luồng chi phí nhỏ nhất, luồng nhiều loại hàng (bài toán mà thuật toán đa thức duy nhất đã biết là đi qua quy hoạch tuyến tính).
+
+Mục 29.3 chạy tay thuật toán đơn hình trên một ví dụ ba biến, hình thức hoá PIVOT và SIMPLEX, chứng minh SIMPLEX trả về nghiệm khả thi hoặc báo "không bị chặn" đúng, bàn về suy biến, vòng lặp (cycling), quy tắc Bland, và cận số lần lặp C(n + m, m).
+
+Mục 29.4 định nghĩa **bài toán đối ngẫu**, chứng minh đối ngẫu yếu, rồi chứng minh định lý đối ngẫu: từ dạng bù cuối cùng của đơn hình đọc ra nghiệm đối ngẫu tối ưu có cùng giá trị, nên nghiệm đơn hình trả về là tối ưu.
+
+Mục 29.5 xây INITIALIZE-SIMPLEX bằng **quy hoạch phụ** với một biến mới x₀ để kiểm tra khả thi và tìm dạng bù có nghiệm cơ sở khả thi, rồi chứng minh **định lý cơ bản của quy hoạch tuyến tính**: mọi quy hoạch tuyến tính hoặc có nghiệm tối ưu hữu hạn, hoặc không khả thi, hoặc không bị chặn — và SIMPLEX nhận ra đúng trường hợp.
 
 ## Sơ đồ
 
@@ -302,9 +297,15 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Quy hoạch tuyến tính là gì, và làm thế nào đưa một bài toán thực tế hay một bài toán đồ thị về dạng đó?** Quy hoạch tuyến tính là bài toán tối đa hoá hoặc tối thiểu hoá một hàm tuyến tính của các biến thực, dưới một tập hữu hạn ràng buộc là đẳng thức hoặc bất đẳng thức không ngặt (≤, ≥) tuyến tính. Bài toán chính trị gia trở thành: tối thiểu x₁ + x₂ + x₃ + x₄ (nghìn đô la quảng cáo) với ba ràng buộc "≥" về số phiếu và bốn ràng buộc không âm; nghiệm tối ưu (người tổng hợp tự giải) tốn 3100/111 ≈ 27,93 nghìn đô la, rẻ hơn chiến lược thử 33 nghìn. Mọi quy hoạch đưa được về **dạng chuẩn** max cᵀx, Ax ≤ b, x ≥ 0 bằng bốn phép biến đổi (đổi dấu mục tiêu, tách biến tự do x = x′ − x″, tách đẳng thức thành hai bất đẳng thức, nhân −1 cho "≥"), rồi về **dạng bù** bằng một biến bù cho mỗi ràng buộc. Đường đi ngắn nhất s → t: max d_t với d_v ≤ d_u + w(u, v) cho mỗi cạnh, d_s = 0 (phải là max, vì min cho nghiệm 0 tầm thường). Luồng cực đại, luồng chi phí nhỏ nhất, luồng nhiều loại hàng: biến f_uv, ràng buộc dung lượng, bảo toàn luồng và (nếu có) giá trị luồng.
-2. **Thuật toán đơn hình làm gì trong mỗi vòng lặp, và vì sao nó đúng và dừng?** Mỗi vòng, từ một dạng bù có nghiệm cơ sở khả thi (các biến không cơ sở bằng 0, mọi bᵢ ≥ 0), chọn biến không cơ sở xₑ có hệ số mục tiêu dương, tăng nó tới khi ràng buộc chặt nhất (Δ = bᵢ/aᵢₑ nhỏ nhất với aᵢₑ > 0) khiến biến cơ sở xₗ chạm 0, rồi PIVOT đổi vai hai biến; giá trị mục tiêu tăng thêm cₑ·bₗ/aₗₑ ≥ 0. Ví dụ max 3x₁ + x₂ + 2x₃ có giá trị mục tiêu lần lượt 0, 27, 111/4, 28 rồi dừng ở x = (8, 4, 0). Bất biến (dạng bù tương đương ban đầu, bᵢ ≥ 0, nghiệm cơ sở khả thi) cho thấy kết quả khả thi; nếu mọi aᵢₑ ≤ 0 thì xₑ tăng tuỳ ý và mục tiêu tiến tới +∞, nên báo "unbounded" là đúng. Tập biến cơ sở B xác định duy nhất dạng bù nên có tối đa C(n + m, m) dạng bù; không dừng chỉ có thể do **vòng lặp** gây bởi suy biến (bₗ = 0), và quy tắc Bland ngăn được điều đó. Nghiệm cơ sở khả thi đầu tiên tìm bằng **quy hoạch phụ** max −x₀ với Σ aᵢⱼxⱼ − x₀ ≤ bᵢ: quy hoạch gốc khả thi khi và chỉ khi giá trị tối ưu của quy hoạch phụ là 0.
-3. **Làm sao biết nghiệm đơn hình trả về là tối ưu?** Nhờ **đối ngẫu**: bài toán đối ngẫu min bᵀy với Aᵀy ≥ c, y ≥ 0. Đối ngẫu yếu: cᵀx̄ ≤ (Aᵀȳ)ᵀx̄ = ȳᵀ(Ax̄) ≤ bᵀȳ cho mọi cặp khả thi, nên cặp nào có hai giá trị bằng nhau thì cả hai tối ưu. Khi SIMPLEX dừng với dạng bù cuối z = ν′ + Σ c′ⱼxⱼ (mọi c′ⱼ ≤ 0), đặt ȳᵢ = −c′_{n+i} (hệ số của biến bù thứ i, đổi dấu); so hệ số hai vế của đồng nhất thức Σ cⱼxⱼ = ν′ + Σ c′ⱼxⱼ cho Σ bᵢȳᵢ = ν′ và cⱼ = c′ⱼ + Σ aᵢⱼȳᵢ ≤ Σ aᵢⱼȳᵢ, tức ȳ khả thi cho đối ngẫu và có cùng giá trị ν′. Với ví dụ: z = 28 − x₃/6 − x₅/6 − 2x₆/3 cho ȳ = (0, 1/6, 2/3), giá trị đối ngẫu 30·0 + 24·1/6 + 36·2/3 = 28, khớp. Từ đó suy ra định lý cơ bản: mọi quy hoạch tuyến tính hoặc có nghiệm tối ưu hữu hạn, hoặc không khả thi, hoặc không bị chặn.
+1. **Quy hoạch tuyến tính là gì, và làm thế nào đưa một bài toán thực tế hay một bài toán đồ thị về dạng đó?** Quy hoạch tuyến tính là bài toán tối đa hoá hoặc tối thiểu hoá một hàm tuyến tính của các biến thực, dưới một tập hữu hạn ràng buộc là đẳng thức hoặc bất đẳng thức không ngặt (≤, ≥) tuyến tính. Bài toán chính trị gia trở thành: tối thiểu x₁ + x₂ + x₃ + x₄ (nghìn đô la quảng cáo) với ba ràng buộc "≥" về số phiếu và bốn ràng buộc không âm; nghiệm tối ưu (người tổng hợp tự giải) tốn 3100/111 ≈ 27,93 nghìn đô la, rẻ hơn chiến lược thử 33 nghìn.
+
+   Mọi quy hoạch đưa được về **dạng chuẩn** max cᵀx, Ax ≤ b, x ≥ 0 bằng bốn phép biến đổi (đổi dấu mục tiêu, tách biến tự do x = x′ − x″, tách đẳng thức thành hai bất đẳng thức, nhân −1 cho "≥"), rồi về **dạng bù** bằng một biến bù cho mỗi ràng buộc. Đường đi ngắn nhất s → t: max d_t với d_v ≤ d_u + w(u, v) cho mỗi cạnh, d_s = 0 (phải là max, vì min cho nghiệm 0 tầm thường). Luồng cực đại, luồng chi phí nhỏ nhất, luồng nhiều loại hàng: biến f_uv, ràng buộc dung lượng, bảo toàn luồng và (nếu có) giá trị luồng.
+2. **Thuật toán đơn hình làm gì trong mỗi vòng lặp, và vì sao nó đúng và dừng?** Mỗi vòng, từ một dạng bù có nghiệm cơ sở khả thi (các biến không cơ sở bằng 0, mọi bᵢ ≥ 0), chọn biến không cơ sở xₑ có hệ số mục tiêu dương, tăng nó tới khi ràng buộc chặt nhất (Δ = bᵢ/aᵢₑ nhỏ nhất với aᵢₑ > 0) khiến biến cơ sở xₗ chạm 0, rồi PIVOT đổi vai hai biến; giá trị mục tiêu tăng thêm cₑ·bₗ/aₗₑ ≥ 0. Ví dụ max 3x₁ + x₂ + 2x₃ có giá trị mục tiêu lần lượt 0, 27, 111/4, 28 rồi dừng ở x = (8, 4, 0).
+
+   Bất biến (dạng bù tương đương ban đầu, bᵢ ≥ 0, nghiệm cơ sở khả thi) cho thấy kết quả khả thi; nếu mọi aᵢₑ ≤ 0 thì xₑ tăng tuỳ ý và mục tiêu tiến tới +∞, nên báo "unbounded" là đúng. Tập biến cơ sở B xác định duy nhất dạng bù nên có tối đa C(n + m, m) dạng bù; không dừng chỉ có thể do **vòng lặp** gây bởi suy biến (bₗ = 0), và quy tắc Bland ngăn được điều đó. Nghiệm cơ sở khả thi đầu tiên tìm bằng **quy hoạch phụ** max −x₀ với Σ aᵢⱼxⱼ − x₀ ≤ bᵢ: quy hoạch gốc khả thi khi và chỉ khi giá trị tối ưu của quy hoạch phụ là 0.
+3. **Làm sao biết nghiệm đơn hình trả về là tối ưu?** Nhờ **đối ngẫu**: bài toán đối ngẫu min bᵀy với Aᵀy ≥ c, y ≥ 0. Đối ngẫu yếu: cᵀx̄ ≤ (Aᵀȳ)ᵀx̄ = ȳᵀ(Ax̄) ≤ bᵀȳ cho mọi cặp khả thi, nên cặp nào có hai giá trị bằng nhau thì cả hai tối ưu. Khi SIMPLEX dừng với dạng bù cuối z = ν′ + Σ c′ⱼxⱼ (mọi c′ⱼ ≤ 0), đặt ȳᵢ = −c′_{n+i} (hệ số của biến bù thứ i, đổi dấu); so hệ số hai vế của đồng nhất thức Σ cⱼxⱼ = ν′ + Σ c′ⱼxⱼ cho Σ bᵢȳᵢ = ν′ và cⱼ = c′ⱼ + Σ aᵢⱼȳᵢ ≤ Σ aᵢⱼȳᵢ, tức ȳ khả thi cho đối ngẫu và có cùng giá trị ν′.
+
+   Với ví dụ: z = 28 − x₃/6 − x₅/6 − 2x₆/3 cho ȳ = (0, 1/6, 2/3), giá trị đối ngẫu 30·0 + 24·1/6 + 36·2/3 = 28, khớp. Từ đó suy ra định lý cơ bản: mọi quy hoạch tuyến tính hoặc có nghiệm tối ưu hữu hạn, hoặc không khả thi, hoặc không bị chặn.
 
 ## Khái niệm cần biết
 
@@ -457,11 +458,15 @@ Mọi gán x₁, x₂ thoả mọi ràng buộc (29.12)–(29.15) là một **ng
 
 Vùng lồi này gọi là **miền khả thi** (feasible region), và hàm cần tối đa hoá gọi là **hàm mục tiêu** (objective function). Về nguyên tắc, có thể tính x₁ + x₂ tại mọi điểm của miền; giá trị hàm mục tiêu tại một điểm là **giá trị mục tiêu** (objective value) của điểm đó, và điểm có giá trị lớn nhất là một **nghiệm tối ưu**. Ở ví dụ này (và hầu hết các quy hoạch), miền khả thi có vô số điểm, nên cần một cách tìm điểm tối ưu mà không tính hàm mục tiêu ở mọi điểm.
 
-Trong hai chiều, ta tối ưu được bằng hình học. Tập điểm có x₁ + x₂ = z (với z bất kỳ) là một đường thẳng hệ số góc −1. Vẽ x₁ + x₂ = 0 ta được đường qua gốc toạ độ; giao của nó với miền khả thi là các nghiệm khả thi có giá trị mục tiêu 0, ở đây chỉ là điểm (0, 0). Tổng quát, giao của đường x₁ + x₂ = z với miền khả thi là các nghiệm khả thi có giá trị z. Hình 29.2(b) vẽ ba đường nét chấm x₁ + x₂ = 0, x₁ + x₂ = 4 và x₁ + x₂ = 8. Vì miền khả thi bị chặn, phải có một giá trị z lớn nhất mà giao còn khác rỗng; mọi điểm của giao đó là nghiệm tối ưu — ở đây là điểm x₁ = 2, x₂ = 6 với giá trị mục tiêu 8. Kiểm tra (người tổng hợp): giá trị x₁ + x₂ tại năm đỉnh là 0, 2, 7, 8, 1; lớn nhất là 8 tại (2, 6).
+Trong hai chiều, ta tối ưu được bằng hình học. Tập điểm có x₁ + x₂ = z (với z bất kỳ) là một đường thẳng hệ số góc −1. Vẽ x₁ + x₂ = 0 ta được đường qua gốc toạ độ; giao của nó với miền khả thi là các nghiệm khả thi có giá trị mục tiêu 0, ở đây chỉ là điểm (0, 0). Tổng quát, giao của đường x₁ + x₂ = z với miền khả thi là các nghiệm khả thi có giá trị z.
+
+Hình 29.2(b) vẽ ba đường nét chấm x₁ + x₂ = 0, x₁ + x₂ = 4 và x₁ + x₂ = 8. Vì miền khả thi bị chặn, phải có một giá trị z lớn nhất mà giao còn khác rỗng; mọi điểm của giao đó là nghiệm tối ưu — ở đây là điểm x₁ = 2, x₂ = 6 với giá trị mục tiêu 8. Kiểm tra (người tổng hợp): giá trị x₁ + x₂ tại năm đỉnh là 0, 2, 7, 8, 1; lớn nhất là 8 tại (2, 6).
 
 **Nghiệm tối ưu nằm ở một đỉnh không phải ngẫu nhiên.** Giá trị z lớn nhất mà đường x₁ + x₂ = z còn cắt miền khả thi phải nằm trên biên của miền, nên giao của đường đó với biên hoặc là một đỉnh, hoặc là một đoạn thẳng. Nếu là một đỉnh, nghiệm tối ưu duy nhất là đỉnh đó. Nếu là một đoạn thẳng, mọi điểm trên đoạn có cùng giá trị mục tiêu, nói riêng hai đầu mút đều tối ưu; mà mỗi đầu mút của đoạn là một đỉnh. Vậy trong cả hai trường hợp đều có một nghiệm tối ưu ở đỉnh.
 
-Với nhiều hơn hai biến, không vẽ được nhưng trực giác giữ nguyên. Với ba biến, mỗi ràng buộc là một nửa không gian ba chiều; giao các nửa không gian là miền khả thi; tập điểm có giá trị mục tiêu z là một mặt phẳng (nếu không suy biến). Nếu mọi hệ số mục tiêu không âm và gốc toạ độ khả thi, đẩy mặt phẳng này ra xa gốc theo hướng pháp tuyến của hàm mục tiêu sẽ gặp các điểm có giá trị tăng dần (nếu gốc không khả thi hoặc có hệ số âm, bức tranh phức tạp hơn một chút). Như trong hai chiều, vì miền khả thi lồi, tập điểm đạt giá trị tối ưu phải chứa một đỉnh của miền. Với n biến, mỗi ràng buộc định nghĩa một nửa không gian n chiều; sách gọi miền khả thi tạo bởi giao các nửa không gian này là một **simplex**; hàm mục tiêu giờ là một siêu phẳng, và vì tính lồi, vẫn có nghiệm tối ưu ở một đỉnh.
+Với nhiều hơn hai biến, không vẽ được nhưng trực giác giữ nguyên. Với ba biến, mỗi ràng buộc là một nửa không gian ba chiều; giao các nửa không gian là miền khả thi; tập điểm có giá trị mục tiêu z là một mặt phẳng (nếu không suy biến). Nếu mọi hệ số mục tiêu không âm và gốc toạ độ khả thi, đẩy mặt phẳng này ra xa gốc theo hướng pháp tuyến của hàm mục tiêu sẽ gặp các điểm có giá trị tăng dần (nếu gốc không khả thi hoặc có hệ số âm, bức tranh phức tạp hơn một chút).
+
+Như trong hai chiều, vì miền khả thi lồi, tập điểm đạt giá trị tối ưu phải chứa một đỉnh của miền. Với n biến, mỗi ràng buộc định nghĩa một nửa không gian n chiều; sách gọi miền khả thi tạo bởi giao các nửa không gian này là một **simplex**; hàm mục tiêu giờ là một siêu phẳng, và vì tính lồi, vẫn có nghiệm tối ưu ở một đỉnh.
 
 **Thuật toán đơn hình** nhận một quy hoạch tuyến tính và trả về một nghiệm tối ưu. Nó bắt đầu ở một đỉnh của miền khả thi và thực hiện một dãy vòng lặp; mỗi vòng đi dọc một cạnh từ đỉnh hiện tại tới một đỉnh kề có giá trị mục tiêu không nhỏ hơn (thường là lớn hơn). Thuật toán dừng khi tới một cực đại địa phương — một đỉnh mà mọi đỉnh kề có giá trị không lớn hơn. Vì miền khả thi lồi và hàm mục tiêu tuyến tính, cực đại địa phương này thực ra là cực đại toàn cục. Mục 29.4 dùng khái niệm "đối ngẫu" để chứng minh nghiệm đơn hình trả về đúng là tối ưu.
 
@@ -537,7 +542,9 @@ subject to                  →     subject to
              x₁       ≥ 0                     x₁       ≥ 0
 ```
 
-**Bước 2 — biến không có ràng buộc không âm.** Giả sử biến xⱼ không có ràng buộc không âm. Thay mọi lần xuất hiện của xⱼ bằng x′ⱼ − x″ⱼ, và thêm ràng buộc x′ⱼ ≥ 0, x″ⱼ ≥ 0. Như vậy số hạng cⱼxⱼ trong mục tiêu thành cⱼx′ⱼ − cⱼx″ⱼ, số hạng aᵢⱼxⱼ trong ràng buộc i thành aᵢⱼx′ⱼ − aᵢⱼx″ⱼ. Mọi nghiệm khả thi x̂ của quy hoạch mới ứng với nghiệm khả thi x̄ của quy hoạch cũ với x̄ⱼ = x̂′ⱼ − x̂″ⱼ và cùng giá trị mục tiêu. Ngược lại, mọi nghiệm khả thi x̄ của quy hoạch cũ ứng với nghiệm khả thi x̂ của quy hoạch mới với x̂′ⱼ = x̄ⱼ, x̂″ⱼ = 0 nếu x̄ⱼ ≥ 0, hoặc x̂″ⱼ = −x̄ⱼ, x̂′ⱼ = 0 nếu x̄ⱼ < 0. (Sách in "x̂″ⱼ = x̄ⱼ" cho trường hợp x̄ⱼ < 0; để x̂″ⱼ không âm phải là x̂″ⱼ = −x̄ⱼ — nhận xét của người tổng hợp.) Hai quy hoạch có cùng giá trị mục tiêu bất kể dấu của x̄ⱼ, nên tương đương. Áp dụng cho mọi biến thiếu ràng buộc không âm.
+**Bước 2 — biến không có ràng buộc không âm.** Giả sử biến xⱼ không có ràng buộc không âm. Thay mọi lần xuất hiện của xⱼ bằng x′ⱼ − x″ⱼ, và thêm ràng buộc x′ⱼ ≥ 0, x″ⱼ ≥ 0. Như vậy số hạng cⱼxⱼ trong mục tiêu thành cⱼx′ⱼ − cⱼx″ⱼ, số hạng aᵢⱼxⱼ trong ràng buộc i thành aᵢⱼx′ⱼ − aᵢⱼx″ⱼ. Mọi nghiệm khả thi x̂ của quy hoạch mới ứng với nghiệm khả thi x̄ của quy hoạch cũ với x̄ⱼ = x̂′ⱼ − x̂″ⱼ và cùng giá trị mục tiêu.
+
+Ngược lại, mọi nghiệm khả thi x̄ của quy hoạch cũ ứng với nghiệm khả thi x̂ của quy hoạch mới với x̂′ⱼ = x̄ⱼ, x̂″ⱼ = 0 nếu x̄ⱼ ≥ 0, hoặc x̂″ⱼ = −x̄ⱼ, x̂′ⱼ = 0 nếu x̄ⱼ < 0. (Sách in "x̂″ⱼ = x̄ⱼ" cho trường hợp x̄ⱼ < 0; để x̂″ⱼ không âm phải là x̂″ⱼ = −x̄ⱼ — nhận xét của người tổng hợp.) Hai quy hoạch có cùng giá trị mục tiêu bất kể dấu của x̄ⱼ, nên tương đương. Áp dụng cho mọi biến thiếu ràng buộc không âm.
 
 Tiếp tục ví dụ: x₁ có ràng buộc không âm, x₂ thì không, nên thay x₂ bằng x′₂ − x″₂:
 
@@ -677,7 +684,9 @@ subject to
              d_s = 0                                               (29.46)
 ```
 
-**Vì sao tối đa hoá?** Có thể ngạc nhiên vì quy hoạch tính đường đi ngắn nhất lại tối đa. Sách viết: nếu tối thiểu hoá, đặt d̄_v = 0 cho mọi v sẽ là nghiệm tối ưu mà không giải gì cả. (Nhận xét của người tổng hợp: nói chặt thì còn tệ hơn — các ràng buộc (29.45) chỉ chặn d_v **từ trên**, nên khi tối thiểu hoá, d_t có thể giảm tuỳ ý và quy hoạch không bị chặn; nếu thêm d_v ≥ 0 thì nghiệm tầm thường d̄ = 0 là tối ưu như sách nói. Cả hai trường hợp đều không cho trọng số đường đi.) Ta tối đa vì nghiệm tối ưu của bài toán đường đi ngắn nhất đặt mỗi d̄_v = min_{u:(u,v)∈E} {d̄_u + w(u, v)}, tức d̄_v là giá trị **lớn nhất** không vượt quá mọi giá trị trong tập {d̄_u + w(u, v)}. Ta muốn tối đa d_v cho mọi đỉnh v trên một đường đi ngắn nhất từ s tới t dưới các ràng buộc này trên mọi đỉnh, và tối đa d_t đạt được mục tiêu đó.
+**Vì sao tối đa hoá?** Có thể ngạc nhiên vì quy hoạch tính đường đi ngắn nhất lại tối đa. Sách viết: nếu tối thiểu hoá, đặt d̄_v = 0 cho mọi v sẽ là nghiệm tối ưu mà không giải gì cả. (Nhận xét của người tổng hợp: nói chặt thì còn tệ hơn — các ràng buộc (29.45) chỉ chặn d_v **từ trên**, nên khi tối thiểu hoá, d_t có thể giảm tuỳ ý và quy hoạch không bị chặn; nếu thêm d_v ≥ 0 thì nghiệm tầm thường d̄ = 0 là tối ưu như sách nói. Cả hai trường hợp đều không cho trọng số đường đi.)
+
+Ta tối đa vì nghiệm tối ưu của bài toán đường đi ngắn nhất đặt mỗi d̄_v = min_{u:(u,v)∈E} {d̄_u + w(u, v)}, tức d̄_v là giá trị **lớn nhất** không vượt quá mọi giá trị trong tập {d̄_u + w(u, v)}. Ta muốn tối đa d_v cho mọi đỉnh v trên một đường đi ngắn nhất từ s tới t dưới các ràng buộc này trên mọi đỉnh, và tối đa d_t đạt được mục tiêu đó.
 
 Quy hoạch có |V| biến d_v và |E| + 1 ràng buộc (mỗi cạnh một, cộng ràng buộc d_s = 0).
 
@@ -760,7 +769,9 @@ subject to
 
 Thuật toán đa thức duy nhất đã biết cho bài toán này là viết nó thành quy hoạch tuyến tính rồi giải bằng một thuật toán quy hoạch tuyến tính đa thức.
 
-**Ví dụ nhỏ (người tổng hợp) cho thấy luồng nhiều loại hàng khác luồng một loại:** mạng có bốn đỉnh s₁, s₂, t₁, t₂ và đỉnh giữa m; cạnh s₁ → m, s₂ → m, m → t₁, m → t₂ đều dung lượng 1, cạnh s₁ → t₂ dung lượng 1. Hai loại hàng K₁ = (s₁, t₁, 1), K₂ = (s₂, t₂, 1). Loại 1 bắt buộc đi s₁ → m → t₁ (đường duy nhất tới t₁); loại 2 đi s₂ → m → t₂. Cạnh s₁ → m và s₂ → m mỗi cạnh chở 1, khả thi. Nếu đổi nhu cầu K₁ thành 2 thì không khả thi vì s₁ → m chỉ chở 1, dù cạnh s₁ → t₂ còn trống — cạnh đó không giúp được loại 1. Quy hoạch tuyến tính cho câu trả lời này mà không cần thuật toán luồng riêng.
+**Ví dụ nhỏ (người tổng hợp) cho thấy luồng nhiều loại hàng khác luồng một loại:** mạng có bốn đỉnh s₁, s₂, t₁, t₂ và đỉnh giữa m; cạnh s₁ → m, s₂ → m, m → t₁, m → t₂ đều dung lượng 1, cạnh s₁ → t₂ dung lượng 1. Hai loại hàng K₁ = (s₁, t₁, 1), K₂ = (s₂, t₂, 1).
+
+Loại 1 bắt buộc đi s₁ → m → t₁ (đường duy nhất tới t₁); loại 2 đi s₂ → m → t₂. Cạnh s₁ → m và s₂ → m mỗi cạnh chở 1, khả thi. Nếu đổi nhu cầu K₁ thành 2 thì không khả thi vì s₁ → m chỉ chở 1, dù cạnh s₁ → t₂ còn trống — cạnh đó không giúp được loại 1. Quy hoạch tuyến tính cho câu trả lời này mà không cần thuật toán luồng riêng.
 
 #### Ví dụ hôm nay
 
@@ -772,7 +783,9 @@ Thuật toán đơn hình là phương pháp cổ điển giải quy hoạch tuy
 
 Ngoài cách hiểu hình học ở đầu chương, đơn hình giống **khử Gauss** (Mục 28.1). Khử Gauss bắt đầu từ một hệ đẳng thức tuyến tính chưa biết nghiệm; mỗi vòng viết lại hệ thành dạng tương đương có thêm cấu trúc; sau một số vòng, hệ được viết lại sao cho đọc nghiệm dễ dàng. Đơn hình làm tương tự, nên có thể xem nó là **khử Gauss cho bất đẳng thức**.
 
-**Ý chính của một vòng lặp.** Mỗi vòng gắn với một **nghiệm cơ sở** (basic solution) dễ đọc từ dạng bù: đặt mọi biến không cơ sở bằng 0, tính biến cơ sở từ các đẳng thức. Một vòng đổi một dạng bù thành một dạng bù tương đương. Giá trị mục tiêu của nghiệm cơ sở khả thi mới không nhỏ hơn vòng trước, và thường lớn hơn. Để tăng giá trị mục tiêu, chọn một biến không cơ sở mà nếu tăng nó từ 0 thì mục tiêu cũng tăng. Lượng tăng bị giới hạn bởi các ràng buộc khác: ta tăng nó tới khi một biến cơ sở trở thành 0. Rồi viết lại dạng bù, đổi vai biến cơ sở đó với biến không cơ sở được chọn. Dù dùng một gán cụ thể để dẫn đường (và dùng trong chứng minh), thuật toán **không** lưu tường minh nghiệm này; nó chỉ viết lại quy hoạch cho tới khi nghiệm tối ưu trở nên "hiển nhiên".
+**Ý chính của một vòng lặp.** Mỗi vòng gắn với một **nghiệm cơ sở** (basic solution) dễ đọc từ dạng bù: đặt mọi biến không cơ sở bằng 0, tính biến cơ sở từ các đẳng thức. Một vòng đổi một dạng bù thành một dạng bù tương đương. Giá trị mục tiêu của nghiệm cơ sở khả thi mới không nhỏ hơn vòng trước, và thường lớn hơn. Để tăng giá trị mục tiêu, chọn một biến không cơ sở mà nếu tăng nó từ 0 thì mục tiêu cũng tăng.
+
+Lượng tăng bị giới hạn bởi các ràng buộc khác: ta tăng nó tới khi một biến cơ sở trở thành 0. Rồi viết lại dạng bù, đổi vai biến cơ sở đó với biến không cơ sở được chọn. Dù dùng một gán cụ thể để dẫn đường (và dùng trong chứng minh), thuật toán **không** lưu tường minh nghiệm này; nó chỉ viết lại quy hoạch cho tới khi nghiệm tối ưu trở nên "hiển nhiên".
 
 #### Ví dụ thuật toán đơn hình (An example of the simplex algorithm)
 
@@ -798,7 +811,9 @@ x₅ = 24 − 2x₁ − 2x₂ − 5x₃                                         
 x₆ = 36 − 4x₁ −  x₂ − 2x₃                                          (29.61)
 ```
 
-Hệ (29.59)–(29.61) có 3 phương trình, 6 biến. Mỗi gán x₁, x₂, x₃ xác định x₄, x₅, x₆, nên hệ có vô số nghiệm; nghiệm khả thi khi mọi x₁, …, x₆ không âm, và cũng có thể có vô số nghiệm khả thi — điều này hữu ích trong các chứng minh sau. Ta tập trung vào **nghiệm cơ sở**: đặt mọi biến (không cơ sở) ở vế phải bằng 0, tính biến (cơ sở) ở vế trái. Ở đây nghiệm cơ sở là (x̄₁, …, x̄₆) = (0, 0, 0, 30, 24, 36), giá trị mục tiêu z = 3·0 + 1·0 + 2·0 = 0. Chú ý nghiệm cơ sở đặt x̄ᵢ = bᵢ với mọi i ∈ B. Một vòng đơn hình viết lại các phương trình và hàm mục tiêu để đưa một tập biến khác sang vế phải, nên nghiệm cơ sở khác đi. Việc viết lại **không hề** đổi bài toán: bài toán ở vòng này có đúng tập nghiệm khả thi như vòng trước, chỉ có nghiệm cơ sở khác.
+Hệ (29.59)–(29.61) có 3 phương trình, 6 biến. Mỗi gán x₁, x₂, x₃ xác định x₄, x₅, x₆, nên hệ có vô số nghiệm; nghiệm khả thi khi mọi x₁, …, x₆ không âm, và cũng có thể có vô số nghiệm khả thi — điều này hữu ích trong các chứng minh sau. Ta tập trung vào **nghiệm cơ sở**: đặt mọi biến (không cơ sở) ở vế phải bằng 0, tính biến (cơ sở) ở vế trái.
+
+Ở đây nghiệm cơ sở là (x̄₁, …, x̄₆) = (0, 0, 0, 30, 24, 36), giá trị mục tiêu z = 3·0 + 1·0 + 2·0 = 0. Chú ý nghiệm cơ sở đặt x̄ᵢ = bᵢ với mọi i ∈ B. Một vòng đơn hình viết lại các phương trình và hàm mục tiêu để đưa một tập biến khác sang vế phải, nên nghiệm cơ sở khác đi. Việc viết lại **không hề** đổi bài toán: bài toán ở vòng này có đúng tập nghiệm khả thi như vòng trước, chỉ có nghiệm cơ sở khác.
 
 Nếu nghiệm cơ sở cũng khả thi, gọi nó là **nghiệm cơ sở khả thi** (basic feasible solution). Khi chạy đơn hình, nghiệm cơ sở hầu như luôn là nghiệm cơ sở khả thi; Mục 29.5 sẽ cho thấy ở vài vòng đầu nó có thể không khả thi.
 
@@ -1127,7 +1142,7 @@ Kết thúc mục bằng bổ đề:
 
 **Bổ đề 29.7.** Giả sử INITIALIZE-SIMPLEX trả về dạng bù có nghiệm cơ sở khả thi. Khi đó SIMPLEX hoặc báo quy hoạch không bị chặn, hoặc dừng với một nghiệm khả thi sau tối đa C(n + m, m) vòng lặp.
 
-*Chứng minh.* Bổ đề 29.2 và 29.6 cho thấy nếu INITIALIZE-SIMPLEX trả về dạng bù có nghiệm cơ sở khả thi, SIMPLEX hoặc báo không bị chặn, hoặc dừng với nghiệm khả thi. Theo phản đảo của Bổ đề 29.5, nếu SIMPLEX dừng với nghiệm khả thi thì nó dừng sau tối đa C(n + m, m) vòng. ∎ (Như đã ghi ở khối Lưu ý, chứng minh dùng Bổ đề 29.6 nên ngầm giả thiết SIMPLEX dùng quy tắc Bland.)
+*Chứng minh.* Bổ đề 29.2 và 29.6 cho thấy nếu INITIALIZE-SIMPLEX trả về dạng bù có nghiệm cơ sở khả thi, SIMPLEX hoặc báo không bị chặn, hoặc dừng với nghiệm khả thi. Theo phản đảo của Bổ đề 29.5, nếu SIMPLEX dừng với nghiệm khả thi thì nó dừng sau tối đa C(n + m, m) vòng. ∎ (Như đã ghi ở mục Lưu ý cuối chương, chứng minh dùng Bổ đề 29.6 nên ngầm giả thiết SIMPLEX dùng quy tắc Bland.)
 
 #### Ví dụ hôm nay
 
@@ -1380,7 +1395,9 @@ Cách hoạt động:
 - **Dòng 4–5:** ngược lại, lập L_aux như Bổ đề 29.11. Vì nghiệm cơ sở ban đầu của L không khả thi, nghiệm cơ sở ban đầu của dạng bù L_aux cũng không khả thi.
 - **Dòng 6–8:** để có nghiệm cơ sở khả thi, làm **một** phép xoay. Dòng 6 chọn l = n + k làm biến ra; vì biến cơ sở là x_{n+1}, …, x_{n+m}, biến ra xₗ là biến có giá trị **âm nhất**. Dòng 8 gọi PIVOT với x₀ vào và xₗ ra. Sẽ thấy nghiệm cơ sở sau xoay khả thi.
 - **Dòng 10:** đã có dạng bù với nghiệm cơ sở khả thi, gọi PIVOT nhiều lần để giải trọn L_aux.
-- **Dòng 11–15:** nếu tìm được nghiệm tối ưu của L_aux có giá trị 0, tạo dạng bù cho L có nghiệm cơ sở khả thi. Trước hết (dòng 12–13) xử lý trường hợp suy biến: x₀ có thể vẫn là biến cơ sở với x̄₀ = 0. Khi đó làm một phép xoay để đưa x₀ ra khỏi cơ sở, dùng bất kỳ e ∈ N nào có a₀ₑ ≠ 0 làm biến vào. Nghiệm cơ sở mới vẫn khả thi; phép xoay suy biến không đổi giá trị biến nào (vì b₀ = x̄₀ = 0). Sau đó xoá mọi số hạng x₀ khỏi các ràng buộc và khôi phục hàm mục tiêu gốc của L. Hàm mục tiêu gốc có thể chứa cả biến cơ sở lẫn không cơ sở, nên trong hàm mục tiêu thay mỗi biến cơ sở bằng vế phải của ràng buộc tương ứng. Dòng 15 trả về dạng bù đã sửa.
+- **Dòng 11–15:** nếu tìm được nghiệm tối ưu của L_aux có giá trị 0, tạo dạng bù cho L có nghiệm cơ sở khả thi. Trước hết (dòng 12–13) xử lý trường hợp suy biến: x₀ có thể vẫn là biến cơ sở với x̄₀ = 0. Khi đó làm một phép xoay để đưa x₀ ra khỏi cơ sở, dùng bất kỳ e ∈ N nào có a₀ₑ ≠ 0 làm biến vào.
+
+  Nghiệm cơ sở mới vẫn khả thi; phép xoay suy biến không đổi giá trị biến nào (vì b₀ = x̄₀ = 0). Sau đó xoá mọi số hạng x₀ khỏi các ràng buộc và khôi phục hàm mục tiêu gốc của L. Hàm mục tiêu gốc có thể chứa cả biến cơ sở lẫn không cơ sở, nên trong hàm mục tiêu thay mỗi biến cơ sở bằng vế phải của ràng buộc tương ứng. Dòng 15 trả về dạng bù đã sửa.
 - **Dòng 16:** nếu dòng 11 phát hiện L không khả thi, trả về thông tin này.
 
 **Ví dụ: chạy INITIALIZE-SIMPLEX trên (29.102)–(29.105).** Quy hoạch khả thi nếu tìm được x₁, x₂ không âm thoả (29.103), (29.104). Theo Bổ đề 29.11, lập quy hoạch phụ
@@ -1610,14 +1627,18 @@ Các bộ giải thực tế dùng đúng ý tưởng "giai đoạn 1 – giai �
     z = 5 − 11x₃/3 − 2x₄/3;  x₁ = 1 − x₃/3 − x₄/3
   ```
   Tối ưu: x₁ = 1, x₂ = 0, giá trị 5. Phép xoay thứ hai là suy biến (z giữ 5) — một ví dụ thật của hiện tượng ở mục Termination.
-- **29.3-7:** Giải bằng SIMPLEX: minimize x₁ + x₂ + x₃ với 2x₁ + 7,5x₂ + 3x₃ ≥ 10000, 20x₁ + 5x₂ + 10x₃ ≥ 30000, x ≥ 0. *Người tổng hợp:* đổi thành max −x₁ − x₂ − x₃ với −2x₁ − 7,5x₂ − 3x₃ ≤ −10000, −20x₁ − 5x₂ − 10x₃ ≤ −30000; b âm nên cần INITIALIZE-SIMPLEX. Kết quả: x = (1250, 1000, 0), giá trị tối thiểu 2250. Kiểm chứng: hai ràng buộc chặt (2500 + 7500 = 10000; 25000 + 5000 = 30000); nghiệm đối ngẫu (của bài toán min, đối ngẫu là max 10000y₁ + 30000y₂ với 2y₁ + 20y₂ ≤ 1, 7,5y₁ + 5y₂ ≤ 1, 3y₁ + 10y₂ ≤ 1, y ≥ 0) là y = (3/28, 11/280), khả thi (ràng buộc thứ ba: 9/28 + 11/28 = 20/28 ≤ 1) và có giá trị 30000/28 + 330000/280 = 2250 — bằng nhau nên cả hai tối ưu.
+- **29.3-7:** Giải bằng SIMPLEX: minimize x₁ + x₂ + x₃ với 2x₁ + 7,5x₂ + 3x₃ ≥ 10000, 20x₁ + 5x₂ + 10x₃ ≥ 30000, x ≥ 0. *Người tổng hợp:* đổi thành max −x₁ − x₂ − x₃ với −2x₁ − 7,5x₂ − 3x₃ ≤ −10000, −20x₁ − 5x₂ − 10x₃ ≤ −30000; b âm nên cần INITIALIZE-SIMPLEX. Kết quả: x = (1250, 1000, 0), giá trị tối thiểu 2250.
+
+  Kiểm chứng: hai ràng buộc chặt (2500 + 7500 = 10000; 25000 + 5000 = 30000); nghiệm đối ngẫu (của bài toán min, đối ngẫu là max 10000y₁ + 30000y₂ với 2y₁ + 20y₂ ≤ 1, 7,5y₁ + 5y₂ ≤ 1, 3y₁ + 10y₂ ≤ 1, y ≥ 0) là y = (3/28, 11/280), khả thi (ràng buộc thứ ba: 9/28 + 11/28 = 20/28 ≤ 1) và có giá trị 30000/28 + 330000/280 = 2250 — bằng nhau nên cả hai tối ưu.
 - **29.3-8:** Trong chứng minh Bổ đề 29.5 có tối đa C(m + n, n) cách chọn B; cho ví dụ quy hoạch có **ít hơn hẳn** C(m + n, n) cách chọn B. *Người tổng hợp:* với max x₁ + x₂ dưới x₁ + x₂ ≤ 1, 2x₁ + 2x₂ ≤ 3 (n = m = 2, C(4, 2) = 6), tập B = {1, 2} không dùng được: muốn x₁, x₂ là biến cơ sở phải giải hệ x₁ + x₂ = 1 − x₃, 2x₁ + 2x₂ = 3 − x₄ theo x₁, x₂, mà ma trận [[1, 1], [2, 2]] suy biến. Nên chỉ có tối đa 5 dạng bù.
 
 ### Bài tập Mục 29.4 (trang 885–886)
 
 - **29.4-1:** Lập đối ngẫu của quy hoạch ở Bài tập 29.3-5. *Người tổng hợp:* minimize 20y₁ + 12y₂ + 16y₃ với y₁ + y₂ ≥ 18, y₁ + y₃ ≥ 12,5, y₁, y₂, y₃ ≥ 0. Từ dạng bù cuối z = 316 − 12,5x₃ − 5,5x₄ đọc ra ȳ = (12,5; 5,5; 0), giá trị 250 + 66 + 0 = 316.
 - **29.4-2:** Lập đối ngẫu trực tiếp cho quy hoạch không ở dạng chuẩn. *Người tổng hợp:* với gốc là bài toán **max**: ràng buộc "≤" ứng với biến đối ngẫu ≥ 0, "≥" ứng với biến ≤ 0, "=" ứng với biến tự do; biến gốc ≥ 0 ứng với ràng buộc đối ngẫu "≥ cⱼ", biến ≤ 0 ứng với "≤ cⱼ", biến tự do ứng với "= cⱼ"; mục tiêu đối ngẫu là min Σ bᵢyᵢ. Gốc là min thì đổi vai các quy tắc (đối ngẫu là max). Lý do: mỗi quy tắc chính là kết quả của việc đưa về dạng chuẩn (nhân −1, tách đôi) rồi gộp các biến đối ngẫu tương ứng.
-- **29.4-3:** Viết đối ngẫu của quy hoạch luồng cực đại (29.47)–(29.50) và giải thích như bài toán lát cắt cực tiểu. *Người tổng hợp:* đặt biến y_uv ≥ 0 cho ràng buộc dung lượng, p_u (tự do) cho ràng buộc bảo toàn tại u ∉ {s, t}, và quy ước p_s = 1, p_t = 0. Đối ngẫu (sau khi gộp): minimize Σ c(u, v) y_uv với y_uv ≥ p_u − p_v cho mọi cặp (u, v), y_uv ≥ 0. Diễn giải: nếu p chỉ nhận 0 hoặc 1, tập S = {u : p_u = 1} chứa s không chứa t là một lát cắt, và y_uv = 1 đúng với các cạnh đi từ S sang T, nên giá trị là dung lượng lát cắt (S, T). Đối ngẫu mạnh cho định lý luồng cực đại – lát cắt cực tiểu (cần thêm lập luận rằng đối ngẫu có nghiệm tối ưu 0/1).
+- **29.4-3:** Viết đối ngẫu của quy hoạch luồng cực đại (29.47)–(29.50) và giải thích như bài toán lát cắt cực tiểu. *Người tổng hợp:* đặt biến y_uv ≥ 0 cho ràng buộc dung lượng, p_u (tự do) cho ràng buộc bảo toàn tại u ∉ {s, t}, và quy ước p_s = 1, p_t = 0. Đối ngẫu (sau khi gộp): minimize Σ c(u, v) y_uv với y_uv ≥ p_u − p_v cho mọi cặp (u, v), y_uv ≥ 0.
+
+  Diễn giải: nếu p chỉ nhận 0 hoặc 1, tập S = {u : p_u = 1} chứa s không chứa t là một lát cắt, và y_uv = 1 đúng với các cạnh đi từ S sang T, nên giá trị là dung lượng lát cắt (S, T). Đối ngẫu mạnh cho định lý luồng cực đại – lát cắt cực tiểu (cần thêm lập luận rằng đối ngẫu có nghiệm tối ưu 0/1).
 - **29.4-4:** Viết đối ngẫu của quy hoạch luồng chi phí nhỏ nhất (29.51)–(29.52) và giải thích bằng đồ thị và luồng. *Người tổng hợp:* biến đối ngẫu p_u cho bảo toàn (gọi là thế — potential), một biến cho ràng buộc giá trị luồng d, và y_uv ≥ 0 cho dung lượng. Ràng buộc đối ngẫu cho mỗi cạnh có dạng p_v − p_u − y_uv ≤ a(u, v) (dấu tuỳ quy ước). Diễn giải: p là "giá" tại mỗi đỉnh; chi phí rút gọn a(u, v) + p_u − p_v; nghiệm tối ưu khi mọi cạnh còn dung lượng dư có chi phí rút gọn không âm — tương đương với điều kiện không có chu trình chi phí âm trong mạng dư.
 - **29.4-5:** Chứng minh đối ngẫu của đối ngẫu là bài toán gốc. *Người tổng hợp:* đối ngẫu min bᵀy, Aᵀy ≥ c, y ≥ 0 viết ở dạng chuẩn là max (−b)ᵀy với (−Aᵀ)y ≤ −c, y ≥ 0. Áp dụng định nghĩa: đối ngẫu của nó là min (−c)ᵀx với (−Aᵀ)ᵀx ≥ −b, x ≥ 0, tức min −cᵀx với −Ax ≥ −b, hay max cᵀx với Ax ≤ b, x ≥ 0 — chính là bài toán gốc.
 - **29.4-6:** Kết quả nào ở Chương 26 có thể xem là đối ngẫu yếu cho bài toán luồng cực đại? *Người tổng hợp:* giá trị của mọi luồng không vượt dung lượng của mọi lát cắt (Hệ quả 26.5 trong ấn bản 3 — số hiệu theo hiểu biết của người tổng hợp, suy ra từ Bổ đề 26.4: luồng thuần qua mọi lát cắt bằng |f|).
@@ -1628,18 +1649,28 @@ Các bộ giải thực tế dùng đúng ý tưởng "giai đoạn 1 – giai �
 - **29.5-2:** Chứng minh khi INITIALIZE-SIMPLEX chạy vòng lặp chính của SIMPLEX, nó không bao giờ trả về "unbounded". *Người tổng hợp:* mục tiêu −x₀ ≤ 0 với mọi nghiệm khả thi của L_aux nên L_aux bị chặn; nếu vòng lặp trả "unbounded", Bổ đề 29.2 (áp cho L_aux, vốn có nghiệm cơ sở khả thi sau dòng 8) cho L_aux không bị chặn — mâu thuẫn.
 - **29.5-3:** Cho L dạng chuẩn, giả sử cả L và đối ngẫu của L đều có nghiệm cơ sở của dạng bù ban đầu khả thi. Chứng minh giá trị tối ưu của L là 0. *Người tổng hợp:* nghiệm cơ sở ban đầu của L khả thi ⇔ b ≥ 0, nên x = 0 khả thi, giá trị 0. Đối ngẫu viết dạng chuẩn là max −bᵀy với −Aᵀy ≤ −c; nghiệm cơ sở ban đầu khả thi ⇔ −c ≥ 0, nên y = 0 khả thi cho đối ngẫu, giá trị bᵀ0 = 0. Hai giá trị bằng nhau nên theo Hệ quả 29.9 cả hai tối ưu: giá trị tối ưu của L là 0.
 - **29.5-4:** Nếu cho phép bất đẳng thức ngặt, định lý cơ bản không còn đúng. *Người tổng hợp:* max x₁ với x₁ < 1, x₁ ≥ 0: khả thi, bị chặn trên bởi 1, nhưng không có nghiệm tối ưu (mọi x₁ < 1 đều bị x₁′ = (x₁ + 1)/2 vượt).
-- **29.5-5:** Giải bằng SIMPLEX: maximize x₁ + 3x₂ với x₁ − x₂ ≤ 8, −x₁ − x₂ ≤ −3, −x₁ + 4x₂ ≤ 2, x ≥ 0. *Người tổng hợp:* b₂ = −3 < 0 nên cần INITIALIZE-SIMPLEX (quy hoạch phụ cho x₀ = 0 tại một điểm như (3, 0)). Đáp số: x₁ = 34/3, x₂ = 10/3, giá trị 34/3 + 10 = 64/3. Kiểm chứng: hai ràng buộc chặt x₁ − x₂ = 8 và −x₁ + 4x₂ = 2 (giải: x₂ = 10/3, x₁ = 34/3); ràng buộc thứ hai 34/3 + 10/3 = 44/3 ≥ 3. Đối ngẫu: min 8y₁ − 3y₂ + 2y₃ với y₁ − y₂ − y₃ ≥ 1, −y₁ − y₂ + 4y₃ ≥ 3; nghiệm y = (7/3, 0, 4/3) khả thi (7/3 − 4/3 = 1; −7/3 + 16/3 = 3) với giá trị 56/3 + 8/3 = 64/3 — bằng giá trị gốc.
+- **29.5-5:** Giải bằng SIMPLEX: maximize x₁ + 3x₂ với x₁ − x₂ ≤ 8, −x₁ − x₂ ≤ −3, −x₁ + 4x₂ ≤ 2, x ≥ 0. *Người tổng hợp:* b₂ = −3 < 0 nên cần INITIALIZE-SIMPLEX (quy hoạch phụ cho x₀ = 0 tại một điểm như (3, 0)). Đáp số: x₁ = 34/3, x₂ = 10/3, giá trị 34/3 + 10 = 64/3.
+
+  Kiểm chứng: hai ràng buộc chặt x₁ − x₂ = 8 và −x₁ + 4x₂ = 2 (giải: x₂ = 10/3, x₁ = 34/3); ràng buộc thứ hai 34/3 + 10/3 = 44/3 ≥ 3. Đối ngẫu: min 8y₁ − 3y₂ + 2y₃ với y₁ − y₂ − y₃ ≥ 1, −y₁ − y₂ + 4y₃ ≥ 3; nghiệm y = (7/3, 0, 4/3) khả thi (7/3 − 4/3 = 1; −7/3 + 16/3 = 3) với giá trị 56/3 + 8/3 = 64/3 — bằng giá trị gốc.
 - **29.5-6:** Giải: maximize x₁ − 2x₂ với x₁ + 2x₂ ≤ 4, −2x₁ − 6x₂ ≤ −12, x₂ ≤ 1, x ≥ 0. *Người tổng hợp:* không khả thi: ràng buộc thứ hai là x₁ + 3x₂ ≥ 6; trừ ràng buộc thứ nhất x₁ + 2x₂ ≤ 4 được x₂ ≥ 2, mâu thuẫn x₂ ≤ 1. INITIALIZE-SIMPLEX sẽ tìm giá trị tối ưu của L_aux âm và trả về "infeasible".
 - **29.5-7:** Giải: maximize x₁ + 3x₂ với −x₁ + x₂ ≤ −1, −x₁ − x₂ ≤ −3, −x₁ + 4x₂ ≤ 2, x ≥ 0. *Người tổng hợp:* không bị chặn: điểm (t, 0) với t ≥ 3 thoả cả ba (−t ≤ −1, −t ≤ −3, −t ≤ 2), giá trị t → ∞. SIMPLEX trả về "unbounded".
-- **29.5-8:** Giải quy hoạch (29.6)–(29.10) (bài toán chính trị gia). *Người tổng hợp:* nghiệm tối ưu x = (2050/111, 425/111, 0, 625/111) ≈ (18,47; 3,83; 0; 5,63), chi phí 3100/111 ≈ 27,928 nghìn đô la. Kiểm tra: thành thị −4100/111 + 3400/111 + 6250/111 = 5550/111 = 50; ngoại ô 10250/111 + 850/111 = 11100/111 = 100; nông thôn 6150/111 − 2125/111 − 1250/111 = 2775/111 = 25 — cả ba chặt. Chứng chỉ tối ưu: đối ngẫu là max 50y₁ + 100y₂ + 25y₃ với −2y₁ + 5y₂ + 3y₃ ≤ 1, 8y₁ + 2y₂ − 5y₃ ≤ 1, 10y₃ ≤ 1, 10y₁ − 2y₃ ≤ 1, y ≥ 0; nghiệm y = (25/222, 23/111, 7/111) làm chặt ràng buộc 1, 2, 4 (ứng với x₁, x₂, x₄ > 0), thoả ràng buộc 3 (70/111 ≤ 1), và có giá trị 625/111 + 2300/111 + 175/111 = 3100/111. Hai giá trị bằng nhau nên tối ưu. Bài học: không nên quảng cáo trợ cấp nông nghiệp; tiết kiệm khoảng 5,07 nghìn đô la so với chiến lược thử.
-- **29.5-9:** Quy hoạch một biến P: maximize tx với rx ≤ s, x ≥ 0 (r, s, t là số thực bất kỳ); D là đối ngẫu của P. Với giá trị nào của r, s, t thì: (1) cả P và D có nghiệm tối ưu hữu hạn; (2) P khả thi, D không; (3) D khả thi, P không; (4) cả hai không khả thi? *Người tổng hợp:* D là minimize sy với ry ≥ t, y ≥ 0. P khả thi ⇔ s ≥ 0 hoặc r < 0. D khả thi ⇔ t ≤ 0 hoặc r > 0. (1) khi cả hai khả thi: (s ≥ 0 hoặc r < 0) và (t ≤ 0 hoặc r > 0) — theo định lý đối ngẫu khi đó cả hai có tối ưu hữu hạn bằng nhau. (2) P khả thi, D không: t > 0, r ≤ 0, và (s ≥ 0 hoặc r < 0) — tức t > 0 và (r < 0, hoặc r = 0 và s ≥ 0); khi đó P không bị chặn. (3) D khả thi, P không: s < 0, r ≥ 0, và (t ≤ 0 hoặc r > 0) — tức s < 0 và (r > 0, hoặc r = 0 và t ≤ 0). (4) cả hai không khả thi: r = 0, s < 0, t > 0.
+- **29.5-8:** Giải quy hoạch (29.6)–(29.10) (bài toán chính trị gia). *Người tổng hợp:* nghiệm tối ưu x = (2050/111, 425/111, 0, 625/111) ≈ (18,47; 3,83; 0; 5,63), chi phí 3100/111 ≈ 27,928 nghìn đô la. Kiểm tra: thành thị −4100/111 + 3400/111 + 6250/111 = 5550/111 = 50; ngoại ô 10250/111 + 850/111 = 11100/111 = 100; nông thôn 6150/111 − 2125/111 − 1250/111 = 2775/111 = 25 — cả ba chặt.
+
+  Chứng chỉ tối ưu: đối ngẫu là max 50y₁ + 100y₂ + 25y₃ với −2y₁ + 5y₂ + 3y₃ ≤ 1, 8y₁ + 2y₂ − 5y₃ ≤ 1, 10y₃ ≤ 1, 10y₁ − 2y₃ ≤ 1, y ≥ 0; nghiệm y = (25/222, 23/111, 7/111) làm chặt ràng buộc 1, 2, 4 (ứng với x₁, x₂, x₄ > 0), thoả ràng buộc 3 (70/111 ≤ 1), và có giá trị 625/111 + 2300/111 + 175/111 = 3100/111. Hai giá trị bằng nhau nên tối ưu. Bài học: không nên quảng cáo trợ cấp nông nghiệp; tiết kiệm khoảng 5,07 nghìn đô la so với chiến lược thử.
+- **29.5-9:** Quy hoạch một biến P: maximize tx với rx ≤ s, x ≥ 0 (r, s, t là số thực bất kỳ); D là đối ngẫu của P. Với giá trị nào của r, s, t thì: (1) cả P và D có nghiệm tối ưu hữu hạn; (2) P khả thi, D không; (3) D khả thi, P không; (4) cả hai không khả thi?
+
+  *Người tổng hợp:* D là minimize sy với ry ≥ t, y ≥ 0. P khả thi ⇔ s ≥ 0 hoặc r < 0. D khả thi ⇔ t ≤ 0 hoặc r > 0.
+
+  (1) khi cả hai khả thi: (s ≥ 0 hoặc r < 0) và (t ≤ 0 hoặc r > 0) — theo định lý đối ngẫu khi đó cả hai có tối ưu hữu hạn bằng nhau. (2) P khả thi, D không: t > 0, r ≤ 0, và (s ≥ 0 hoặc r < 0) — tức t > 0 và (r < 0, hoặc r = 0 và s ≥ 0); khi đó P không bị chặn. (3) D khả thi, P không: s < 0, r ≥ 0, và (t ≤ 0 hoặc r > 0) — tức s < 0 và (r > 0, hoặc r = 0 và t ≤ 0). (4) cả hai không khả thi: r = 0, s < 0, t > 0.
 
 ### Bài toán 29-1: Tính khả thi của hệ bất đẳng thức tuyến tính (Linear-inequality feasibility)
 
 Cho m bất đẳng thức tuyến tính trên n biến x₁, …, xₙ, **bài toán khả thi của hệ bất đẳng thức tuyến tính** hỏi có gán nào thoả đồng thời mọi bất đẳng thức không.
 
 - **(a)** Chứng minh nếu có thuật toán quy hoạch tuyến tính thì giải được bài toán này; số biến và ràng buộc của quy hoạch dùng phải đa thức theo n và m. *Người tổng hợp:* dùng chính các bất đẳng thức làm ràng buộc, mục tiêu "maximize 0" (biến tự do tách đôi nếu cần); thuật toán trả "infeasible" hay không chính là câu trả lời. Cỡ: tối đa 2n biến, m ràng buộc.
-- **(b)** Chứng minh nếu có thuật toán cho bài toán khả thi thì giải được quy hoạch tuyến tính; số biến và bất đẳng thức đa thức theo n và m. *Người tổng hợp:* với max cᵀx, Ax ≤ b, x ≥ 0: (1) kiểm tra {Ax ≤ b, x ≥ 0} khả thi; nếu không thì trả về "infeasible". (2) Kiểm tra đối ngẫu {Aᵀy ≥ c, y ≥ 0} khả thi; nếu không (mà gốc khả thi) thì trả về "unbounded" (theo định lý cơ bản và đối ngẫu yếu: gốc có tối ưu hữu hạn thì đối ngẫu có nghiệm tối ưu). (3) Ngược lại, giải hệ gộp {Ax ≤ b, x ≥ 0, Aᵀy ≥ c, y ≥ 0, cᵀx ≥ bᵀy} — n + m biến, 2(n + m) + 1 bất đẳng thức; theo đối ngẫu yếu, mọi nghiệm có cᵀx = bᵀy nên x là nghiệm tối ưu, và theo đối ngẫu mạnh hệ này có nghiệm.
+- **(b)** Chứng minh nếu có thuật toán cho bài toán khả thi thì giải được quy hoạch tuyến tính; số biến và bất đẳng thức đa thức theo n và m.
+
+  *Người tổng hợp:* với max cᵀx, Ax ≤ b, x ≥ 0: (1) kiểm tra {Ax ≤ b, x ≥ 0} khả thi; nếu không thì trả về "infeasible". (2) Kiểm tra đối ngẫu {Aᵀy ≥ c, y ≥ 0} khả thi; nếu không (mà gốc khả thi) thì trả về "unbounded" (theo định lý cơ bản và đối ngẫu yếu: gốc có tối ưu hữu hạn thì đối ngẫu có nghiệm tối ưu). (3) Ngược lại, giải hệ gộp {Ax ≤ b, x ≥ 0, Aᵀy ≥ c, y ≥ 0, cᵀx ≥ bᵀy} — n + m biến, 2(n + m) + 1 bất đẳng thức; theo đối ngẫu yếu, mọi nghiệm có cᵀx = bᵀy nên x là nghiệm tối ưu, và theo đối ngẫu mạnh hệ này có nghiệm.
 
 ### Bài toán 29-2: Bù trừ lỏng chặt (Complementary slackness)
 
@@ -1684,7 +1715,9 @@ Biến thể của luồng chi phí nhỏ nhất ở Mục 29.2: không có nhu 
 - **(a)** Viết thành quy hoạch tuyến tính. *Người tổng hợp:* minimize Σ_{(u,v)∈E} a(u, v) f_uv với f_uv ≤ c(u, v) cho mỗi cạnh, Σ_v f_vu − Σ_v f_uv = 0 cho **mọi** u ∈ V, f_uv ≥ 0.
 - **(b)** Giả sử mọi a(u, v) > 0. Mô tả nghiệm tối ưu. *Người tổng hợp:* luồng 0 khả thi với chi phí 0, và mọi luồng có chi phí ≥ 0, bằng 0 chỉ khi mọi f_uv = 0. Vậy nghiệm tối ưu duy nhất là luồng 0.
 - **(c)** Biểu diễn bài toán luồng cực đại thành lưu thông chi phí nhỏ nhất: cho G = (V, E), nguồn s, đích t, dung lượng c; dựng mạng G′ = (V′, E′) với dung lượng c′, chi phí a′ sao cho từ nghiệm lưu thông đọc ra luồng cực đại. *Người tổng hợp:* V′ = V; E′ = E ∪ {(t, s)}; c′ = c trên E, c′(t, s) = Σ_{(s,v)∈E} c(s, v) (đủ lớn); a′ = 0 trên E, a′(t, s) = −1. Lưu thông chi phí nhỏ nhất đẩy càng nhiều luồng càng tốt qua cạnh t → s, tức qua mạng gốc từ s tới t; luồng cực đại có giá trị bằng −(chi phí nhỏ nhất). (Nếu G đã có cạnh (t, s) thì cần chèn một đỉnh trung gian để tránh cạnh trùng/đối song.)
-- **(d)** Biểu diễn bài toán đường đi ngắn nhất một nguồn thành lưu thông chi phí nhỏ nhất. *Người tổng hợp:* giữ các cạnh của G với chi phí w(u, v) và dung lượng |V| − 1; với mỗi v ≠ s thêm cạnh v → s dung lượng 1, chi phí −M với M rất lớn (lớn hơn tổng |w| mọi cạnh). Lưu thông tối ưu bão hoà mọi cạnh v → s (mỗi cạnh lời M), nghĩa là gửi một đơn vị từ s tới mỗi v qua các cạnh gốc, và do tối thiểu chi phí, mỗi đơn vị đi theo đường đi ngắn nhất; tổng chi phí là Σ_v δ(s, v) − M(|V| − 1). Giả thiết mọi đỉnh tới được từ s và không có chu trình âm (nếu có chu trình âm, lưu thông có thể quay vòng trên nó). Một cách viết khác dùng nhu cầu âm/dương tại đỉnh nằm ngoài khuôn bài toán này.
+- **(d)** Biểu diễn bài toán đường đi ngắn nhất một nguồn thành lưu thông chi phí nhỏ nhất. *Người tổng hợp:* giữ các cạnh của G với chi phí w(u, v) và dung lượng |V| − 1; với mỗi v ≠ s thêm cạnh v → s dung lượng 1, chi phí −M với M rất lớn (lớn hơn tổng |w| mọi cạnh).
+
+  Lưu thông tối ưu bão hoà mọi cạnh v → s (mỗi cạnh lời M), nghĩa là gửi một đơn vị từ s tới mỗi v qua các cạnh gốc, và do tối thiểu chi phí, mỗi đơn vị đi theo đường đi ngắn nhất; tổng chi phí là Σ_v δ(s, v) − M(|V| − 1). Giả thiết mọi đỉnh tới được từ s và không có chu trình âm (nếu có chu trình âm, lưu thông có thể quay vòng trên nó). Một cách viết khác dùng nhu cầu âm/dương tại đỉnh nằm ngoài khuôn bài toán này.
 
 ### Ghi chú chương (Chapter notes, trang 896–897)
 
@@ -1741,7 +1774,9 @@ Mọi bài toán tối ưu một hàm tuyến tính dưới hữu hạn ràng bu
 
 ### Trong ngôn ngữ khoa học máy tính
 
-Dạng chuẩn (A, b, c): max cᵀx, Ax ≤ b, x ≥ 0, A ∈ ℝ^{m×n}. Dạng bù (N, B, A, b, c, ν): z = ν + Σ_{j∈N} cⱼxⱼ, xᵢ = bᵢ − Σ_{j∈N} aᵢⱼxⱼ (i ∈ B), |N| = n, |B| = m. PIVOT: Θ(mn) phép toán số học mỗi lần (cập nhật toàn bảng). SIMPLEX: số vòng ≤ C(n + m, m) với quy tắc Bland; xấu nhất hàm mũ (Klee–Minty, 2ⁿ − 1 vòng); thực tế thường O(m) tới vài lần m vòng (theo hiểu biết của người tổng hợp). Đối ngẫu: min bᵀy, Aᵀy ≥ c, y ≥ 0; đối ngẫu yếu cᵀx ≤ bᵀy; đối ngẫu mạnh max = min khi một trong hai có tối ưu hữu hạn; nghiệm đối ngẫu ȳᵢ = −c′_{n+i}. Quy hoạch tuyến tính thuộc P (ellipsoid, điểm trong); quy hoạch tuyến tính nguyên NP-khó; luồng nhiều loại hàng giải đa thức chỉ qua quy hoạch tuyến tính.
+Dạng chuẩn (A, b, c): max cᵀx, Ax ≤ b, x ≥ 0, A ∈ ℝ^{m×n}. Dạng bù (N, B, A, b, c, ν): z = ν + Σ_{j∈N} cⱼxⱼ, xᵢ = bᵢ − Σ_{j∈N} aᵢⱼxⱼ (i ∈ B), |N| = n, |B| = m. PIVOT: Θ(mn) phép toán số học mỗi lần (cập nhật toàn bảng). SIMPLEX: số vòng ≤ C(n + m, m) với quy tắc Bland; xấu nhất hàm mũ (Klee–Minty, 2ⁿ − 1 vòng); thực tế thường O(m) tới vài lần m vòng (theo hiểu biết của người tổng hợp).
+
+Đối ngẫu: min bᵀy, Aᵀy ≥ c, y ≥ 0; đối ngẫu yếu cᵀx ≤ bᵀy; đối ngẫu mạnh max = min khi một trong hai có tối ưu hữu hạn; nghiệm đối ngẫu ȳᵢ = −c′_{n+i}. Quy hoạch tuyến tính thuộc P (ellipsoid, điểm trong); quy hoạch tuyến tính nguyên NP-khó; luồng nhiều loại hàng giải đa thức chỉ qua quy hoạch tuyến tính.
 
 ## Thuật ngữ
 
@@ -1825,7 +1860,9 @@ Dạng chuẩn (A, b, c): max cᵀx, Ax ≤ b, x ≥ 0, A ∈ ℝ^{m×n}. Dạng
 
 ### Điểm mạnh: đơn hình được trình bày hoàn toàn bằng đại số, chứng minh đầy đủ tới định lý cơ bản
 
-Theo cách của Chvátal, chương bỏ hẳn "bảng đơn hình" (tableau) và hình học đa diện, chỉ dùng dạng bù và phép thế. Nhờ vậy mọi khẳng định đều chứng minh được bằng đại số sơ cấp: bất biến vòng lặp ba phần (Bổ đề 29.2) cho tính khả thi; bổ đề "đồng nhất thức tuyến tính đúng với mọi x thì hệ số bằng nhau" (Bổ đề 29.3) được dùng hai lần — để chứng minh dạng bù xác định bởi B (từ đó có cận C(n + m, m)), và để rút nghiệm đối ngẫu từ dạng bù cuối. Định lý đối ngẫu được chứng minh **bằng chính thuật toán**: không cần bổ đề Farkas hay định lý tách siêu phẳng, chỉ cần đơn hình dừng. Đây là cách trình bày thuật toán-hoá rất hợp với một cuốn sách về thuật toán, và cho người đọc một chuỗi chứng minh khép kín từ PIVOT tới Định lý 29.13.
+Theo cách của Chvátal, chương bỏ hẳn "bảng đơn hình" (tableau) và hình học đa diện, chỉ dùng dạng bù và phép thế. Nhờ vậy mọi khẳng định đều chứng minh được bằng đại số sơ cấp: bất biến vòng lặp ba phần (Bổ đề 29.2) cho tính khả thi; bổ đề "đồng nhất thức tuyến tính đúng với mọi x thì hệ số bằng nhau" (Bổ đề 29.3) được dùng hai lần — để chứng minh dạng bù xác định bởi B (từ đó có cận C(n + m, m)), và để rút nghiệm đối ngẫu từ dạng bù cuối.
+
+Định lý đối ngẫu được chứng minh **bằng chính thuật toán**: không cần bổ đề Farkas hay định lý tách siêu phẳng, chỉ cần đơn hình dừng. Đây là cách trình bày thuật toán-hoá rất hợp với một cuốn sách về thuật toán, và cho người đọc một chuỗi chứng minh khép kín từ PIVOT tới Định lý 29.13.
 
 ### Điểm mạnh: nối quy hoạch tuyến tính với các chương đồ thị
 
@@ -1833,7 +1870,7 @@ Mục 29.2 cho thấy Bellman-Ford, luồng cực đại và định lý luồng
 
 ### Điểm yếu và chỗ đơn giản hoá
 
-- **Lời khẳng định chưa chặt nằm rải rác** (đã ghi ở khối Lưu ý): điều kiện dừng "mọi hệ số âm" thay vì "không dương"; x̄ₑ = ∞ trong chứng minh không bị chặn; Bổ đề 29.7 và Định lý 29.13 ngầm cần quy tắc Bland; công thức tách biến tự do sai dấu ở trường hợp x̄ⱼ < 0; nhận xét về quy hoạch đường đi ngắn nhất tối thiểu.
+- **Lời khẳng định chưa chặt nằm rải rác** (đã ghi ở mục Lưu ý cuối chương): điều kiện dừng "mọi hệ số âm" thay vì "không dương"; x̄ₑ = ∞ trong chứng minh không bị chặn; Bổ đề 29.7 và Định lý 29.13 ngầm cần quy tắc Bland; công thức tách biến tự do sai dấu ở trường hợp x̄ⱼ < 0; nhận xét về quy hoạch đường đi ngắn nhất tối thiểu.
 - **Bổ đề 29.6 (quy tắc Bland ngăn vòng lặp) không được chứng minh**, trong khi tính dừng — và do đó định lý cơ bản — phụ thuộc vào nó. Theo hiểu biết của người tổng hợp, có thể dùng thay bằng phương pháp nhiễu từ điển (lexicographic) với chứng minh không quá dài; sách chọn bỏ qua.
 - **Không nói gì về độ phức tạp thực tế của mỗi phép xoay hay số vòng điển hình.** Sách chỉ cho cận C(n + m, m) (thô) và nhắc Klee–Minty ở ghi chú; người đọc không biết rằng thực tế đơn hình thường cần số vòng cỡ vài lần m.
 - **Không bàn số học.** PIVOT chia cho aₗₑ; với số dấu phẩy động, aₗₑ rất nhỏ gây sai số lớn — vấn đề trung tâm của mọi cài đặt thật (chọn phần tử xoay ổn định, phân tích LU, tái phân tích định kỳ). Với số hữu tỉ chính xác, tử và mẫu có thể phình to.
@@ -1842,7 +1879,9 @@ Mục 29.2 cho thấy Bellman-Ford, luồng cực đại và định lý luồng
 
 ### So với cách làm thực tế
 
-Trong thực tế (theo hiểu biết của người tổng hợp): bộ giải quy hoạch tuyến tính dùng đơn hình đã sửa (revised simplex) — chỉ lưu ma trận cơ sở dưới dạng phân tích LU thưa thay vì cả bảng như PIVOT, hay dùng đơn hình đối ngẫu, và phương pháp điểm trong (barrier) cho bài toán rất lớn; thường chạy song song cả hai và lấy kết quả nào xong trước. Tiền xử lý (presolve) loại biến, gộp ràng buộc trước khi giải. Với bài toán luồng, đơn hình mạng và các thuật toán chuyên dụng (thuật toán luồng chi phí nhỏ nhất cỡ gần tuyến tính được công bố năm 2022) nhanh hơn nhiều. Quy hoạch nguyên được giải bằng nhánh và cận kết hợp mặt cắt (branch-and-cut), gọi đơn hình hàng nghìn lần làm thủ tục con — đây là nơi đơn hình (với khởi động nóng) vẫn không thể thay thế.
+Trong thực tế (theo hiểu biết của người tổng hợp): bộ giải quy hoạch tuyến tính dùng đơn hình đã sửa (revised simplex) — chỉ lưu ma trận cơ sở dưới dạng phân tích LU thưa thay vì cả bảng như PIVOT, hay dùng đơn hình đối ngẫu, và phương pháp điểm trong (barrier) cho bài toán rất lớn; thường chạy song song cả hai và lấy kết quả nào xong trước.
+
+Tiền xử lý (presolve) loại biến, gộp ràng buộc trước khi giải. Với bài toán luồng, đơn hình mạng và các thuật toán chuyên dụng (thuật toán luồng chi phí nhỏ nhất cỡ gần tuyến tính được công bố năm 2022) nhanh hơn nhiều. Quy hoạch nguyên được giải bằng nhánh và cận kết hợp mặt cắt (branch-and-cut), gọi đơn hình hàng nghìn lần làm thủ tục con — đây là nơi đơn hình (với khởi động nóng) vẫn không thể thay thế.
 
 ### Liên hệ các chương khác
 
@@ -1858,3 +1897,146 @@ Trong thực tế (theo hiểu biết của người tổng hợp): bộ giải 
 - **Phỏng vấn:** ít khi yêu cầu cài đơn hình, nhưng hay hỏi "viết bài toán này thành quy hoạch tuyến tính/nguyên", "đối ngẫu của luồng cực đại là gì", "vì sao quy hoạch nguyên khó hơn quy hoạch thực", hoặc nhận ra một bài toán phân bổ có thể giải bằng luồng chi phí nhỏ nhất.
 - **Lập trình thi đấu:** một số bài cần cài đơn hình gọn (bảng đơn hình với số thực, quy tắc Bland, hai giai đoạn) cho m, n vài trăm; thường xuyên hơn là dùng **đối ngẫu** để biến bài toán khó thành bài toán luồng (ví dụ "giảm giá trị đỉnh/cạnh tối thiểu để thoả ràng buộc hiệu" thành luồng chi phí nhỏ nhất trên đồ thị đối ngẫu) và dùng bù trừ lỏng chặt để dựng lại nghiệm — theo hiểu biết của người tổng hợp.
 - **Kỹ thuật phần mềm:** dùng bộ giải có sẵn (HiGHS, OR-Tools, Gurobi) qua ngôn ngữ mô hình hoá; viết mô hình ở khuôn tự nhiên (min, "≥", "="), để bộ giải lo chuẩn hoá. Kiểm tra trạng thái trả về (optimal / infeasible / unbounded) — chính ba kết cục của Định lý 29.13 — và đọc giá trị đối ngẫu để phân tích độ nhạy. Tránh biến nguyên khi không thật cần: chuyển từ LP sang MILP có thể làm thời gian giải tăng hàng nghìn lần.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 29 trên một trang: sáu nhánh lớn theo phần mở đầu, năm mục 29.1–29.5 và các bài toán cuối chương của bản gốc (gộp Mục 29.1 với 29.2), mỗi nhánh ghi định nghĩa, định lý, thủ tục và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 29: nhiều bài toán tối ưu viết được thành quy hoạch tuyến tính, đơn hình giải bằng các phép xoay, đối ngẫu chứng minh tối ưu`"]
+  n1["`Phần mở đầu chương — Quy hoạch tuyến tính là gì`"]
+  n0 --- n1
+  n2["`Bài toán chính trị gia: chi ít tiền quảng cáo nhất mà vẫn thắng một nửa phiếu ở ba khu vực, phương án thử tốn 33 nghìn đô la`"]
+  n1 --- n2
+  n3["`Quy hoạch tuyến tính: tối đa hoá hoặc tối thiểu hoá hàm tuyến tính dưới hữu hạn ràng buộc tuyến tính, không cho bất đẳng thức chặt`"]
+  n1 --- n3
+  n4["`Ví dụ hai biến: miền khả thi là ngũ giác lồi, giá trị lớn nhất 8 đạt tại đỉnh (2, 6)`"]
+  n1 --- n4
+  n5["`Miền khả thi lồi và mặt mức là siêu phẳng nên luôn có nghiệm tối ưu ở một đỉnh, cực đại địa phương là toàn cục`"]
+  n1 --- n5
+  n6["`Ba thuật toán: đơn hình xấu nhất hàm mũ nhưng thực tế nhanh, ellipsoid đa thức nhưng chậm, điểm trong đa thức và nhanh`"]
+  n1 --- n6
+  n7["`Quy hoạch tuyến tính nguyên thì chỉ tìm nghiệm khả thi đã NP-khó`"]
+  n1 --- n7
+  n8["`Mục 29.1 và 29.2 — Dạng chuẩn, dạng bù và cách viết bài toán`"]
+  n0 --- n8
+  n9["`Dạng chuẩn: maximize cᵀx với Ax ≤ b, x ≥ 0, viết gọn bằng bộ (A, b, c)`"]
+  n8 --- n9
+  n10["`Bốn bước đưa về dạng chuẩn: đổi min thành max, tách biến tự do thành hiệu hai biến không âm, đẳng thức thành hai bất đẳng thức, nhân −1 cho ràng buộc ≥`"]
+  n8 --- n10
+  n11["`Dạng bù: mỗi bất đẳng thức thành đẳng thức với một biến bù không âm, biến cơ sở ở vế trái, biến không cơ sở ở vế phải`"]
+  n8 --- n11
+  n12["`Đường đi ngắn nhất một cặp đỉnh viết thành quy hoạch maximize khoảng cách tới t, không phải minimize`"]
+  n8 --- n12
+  n13["`Luồng cực đại và luồng chi phí nhỏ nhất, ví dụ gửi 4 đơn vị từ s tới t với chi phí nhỏ nhất 27`"]
+  n8 --- n13
+  n14["`Luồng nhiều loại hàng: thuật toán đa thức duy nhất đã biết là đi qua quy hoạch tuyến tính`"]
+  n8 --- n14
+  n15["`Mục 29.3 — Thuật toán đơn hình`"]
+  n0 --- n15
+  n16["`Mỗi vòng viết lại dạng bù thành dạng bù tương đương, nghiệm cơ sở đặt mọi biến không cơ sở bằng 0`"]
+  n15 --- n16
+  n17["`Phép xoay: chọn biến vào có hệ số mục tiêu dương, tăng tới khi ràng buộc chặt nhất làm một biến cơ sở chạm 0, biến đó ra`"]
+  n15 --- n17
+  n18["`Ví dụ ba biến: ba phép xoay đưa giá trị 0 lên 27, 111/4, rồi 28 tại x₁ = 8, x₂ = 4, x₃ = 0`"]
+  n15 --- n18
+  n19["`PIVOT giải phương trình của biến ra theo biến vào rồi thế vào các phương trình khác và hàm mục tiêu`"]
+  n15 --- n19
+  n20["`Bổ đề 29.2: SIMPLEX trả về nghiệm khả thi, và báo không bị chặn là đúng`"]
+  n15 --- n20
+  n21["`Dừng`"]
+  n15 --- n21
+  n22["`Suy biến làm giá trị mục tiêu giữ nguyên và có thể gây vòng lặp`"]
+  n21 --- n22
+  n23["`Quy tắc Bland chọn chỉ số nhỏ nhất bảo đảm luôn dừng, tối đa C(n + m, m) vòng`"]
+  n21 --- n23
+  n24["`Mục 29.4 — Tính đối ngẫu`"]
+  n0 --- n24
+  n25["`Định lý luồng cực đại – lát cắt cực tiểu là một ví dụ đối ngẫu đã gặp ở Chương 26`"]
+  n24 --- n25
+  n26["`Bài toán đối ngẫu: max thành min, vế phải đổi chỗ với hệ số mục tiêu, mỗi ràng buộc gốc ứng một biến đối ngẫu`"]
+  n24 --- n26
+  n27["`Bổ đề 29.8 (đối ngẫu yếu): mọi giá trị khả thi của bài toán gốc ≤ mọi giá trị khả thi của bài toán đối ngẫu`"]
+  n24 --- n27
+  n28["`Hệ quả 29.9: hai giá trị khả thi bằng nhau thì cả hai đều tối ưu`"]
+  n24 --- n28
+  n29["`Đọc nghiệm đối ngẫu từ hệ số của biến bù trong hàm mục tiêu cuối, ví dụ ȳ = (0, 1/6, 2/3) cho cùng giá trị 28`"]
+  n24 --- n29
+  n30["`Định lý 29.10: nghiệm SIMPLEX trả về là tối ưu, và nghiệm đối ngẫu tối ưu có được miễn phí`"]
+  n24 --- n30
+  n31["`Mục 29.5 — Nghiệm cơ sở khả thi ban đầu`"]
+  n0 --- n31
+  n32["`Khi có vế phải âm, nghiệm cơ sở x = 0 không khả thi, ví dụ ràng buộc x₁ − 5x₂ ≤ −4`"]
+  n31 --- n32
+  n33["`Quy hoạch phụ thêm biến x₀ và maximize −x₀, quy hoạch gốc khả thi khi và chỉ khi giá trị tối ưu của nó bằng 0`"]
+  n31 --- n33
+  n34["`INITIALIZE-SIMPLEX: một phép xoay đưa x₀ vào làm nghiệm cơ sở khả thi, chạy đơn hình, rồi bỏ x₀ và khôi phục hàm mục tiêu gốc`"]
+  n31 --- n34
+  n35["`Định lý 29.13 (định lý cơ bản): mọi quy hoạch hoặc có nghiệm tối ưu hữu hạn, hoặc không khả thi, hoặc không bị chặn`"]
+  n31 --- n35
+  n36["`Bài toán cuối chương và ghi chú chương`"]
+  n0 --- n36
+  n37["`29-2 Bù trừ lỏng chặt: nghiệm tối ưu khi mỗi biến bằng 0 hoặc ràng buộc đối ngẫu tương ứng chặt`"]
+  n36 --- n37
+  n38["`29-3 Quy hoạch nguyên: đối ngẫu yếu vẫn đúng, đối ngẫu mạnh không còn`"]
+  n36 --- n38
+  n39["`29-4 Bổ đề Farkas: đúng một trong hai hệ tuyến tính có nghiệm`"]
+  n36 --- n39
+  n40["`29-5 Lưu thông chi phí nhỏ nhất biểu diễn được cả luồng cực đại và đường đi ngắn nhất`"]
+  n36 --- n40
+  n41["`Ghi chú: Dantzig đưa ra đơn hình năm 1947, Khachian ellipsoid năm 1979, Karmarkar điểm trong`"]
+  n36 --- n41
+  n42["`Ghi chú: Klee và Minty dựng ví dụ đơn hình chạy 2ⁿ − 1 vòng, Spielman và Teng đưa ra phân tích trơn`"]
+  n36 --- n42
+  n43["`Thông điệp xuyên suốt`"]
+  n0 --- n43
+  n44["`Sức mạnh thật của quy hoạch tuyến tính là giải bài toán mới hoặc biến thể chưa có thuật toán riêng`"]
+  n43 --- n44
+  n45["`Đơn hình là khử Gauss cho bất đẳng thức: viết lại hệ tương đương đến khi nghiệm tối ưu hiện ra`"]
+  n43 --- n45
+  n46["`Đối ngẫu vừa là chứng chỉ tối ưu vừa nối quy hoạch tuyến tính với các định lý đồ thị`"]
+  n43 --- n46
+  class n0 root
+  class n1,n8,n15,n24,n31,n36,n43 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n44,n45,n46 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 29 "Linear Programming", trang 843–897 (phần mở đầu chương trang 843–850; Mục 29.1–29.5 trang 850–894; Bài toán cuối chương trang 894–896; Ghi chú chương trang 896–897).
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 29 thuộc Phần VII "Các chủ đề chọn lọc", sau Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) về thuật toán đa luồng và Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) về phép toán ma trận — Mục 28.1 trình bày khử Gauss, và chương này nói thẳng rằng thuật toán đơn hình (simplex) có thể xem là "khử Gauss cho bất đẳng thức".
+
+Chương dùng lại nhiều bài toán đồ thị đã học: đường đi ngắn nhất một nguồn và hệ ràng buộc hiệu (Mục 24.4, [C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)), luồng cực đại và định lý luồng cực đại – lát cắt cực tiểu (Chương 26, [C26-luong-cuc-dai.md](C26-luong-cuc-dai.md)) — định lý này được giới thiệu lại như một ví dụ của **tính đối ngẫu**.
+
+Về sau, Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) cho biết quy hoạch tuyến tính **nguyên** là NP-khó (Bài tập 34.5-3), và Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md), Mục 35.4) dùng quy hoạch tuyến tính làm công cụ để xấp xỉ bài toán phủ đỉnh có trọng số.
+
+Các công cụ nền: ký hiệu ma trận – véc-tơ ở Phụ lục D ([PD-ma-tran.md](PD-ma-tran.md)), hệ số nhị thức ở Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md)), bất biến vòng lặp ở Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)).
+
+## Lưu ý
+
+- **Không có mục hay bài tập nào mang dấu sao (★) trong chương này.** Cả năm mục 29.1–29.5, mọi bài tập và năm bài toán 29-1 đến 29-5 đều không đánh dấu khó.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương, và hỏng theo cách nguy hiểm:** dấu ≤ và ≥ bị **mất hẳn** (ví dụ `x1 /NUL x2  8` không cho biết là "≤ 8" hay "≥ 8"), dấu trừ thành `/NUL`, phân số bị tách dòng (`x2\n4` là x₂/4), chữ Hy Lạp ν, Δ, α, β, γ bị mất hoặc thành ký hiệu lạ, dấu mũ của Â, b̂, ĉ, ν̂ trong PIVOT thành chữ `y`, dấu gạch trên x̄, ȳ thành chữ `N`, hệ số nhị thức C(n + m, m) vỡ thành `/NULnCm m`. Vì vậy chiều mọi bất đẳng thức trong (29.1)–(29.115), mọi đề bài tập có bất đẳng thức (29.1-4 đến 29.1-7, 29.3-5 đến 29.3-7, 29.5-5 đến 29.5-7, 29.5-9), pseudocode PIVOT, SIMPLEX, INITIALIZE-SIMPLEX, các dạng bù trong ví dụ đơn hình, ví dụ suy biến, ví dụ quy hoạch phụ, chuỗi biến đổi trong chứng minh Định lý 29.10, Hình 29.1–29.3 đều được đọc lại từ ảnh trang 843–848, 851, 853, 854, 856–858, 860, 862, 863, 866–869, 871, 873–875, 877–880, 883, 884, 886, 887, 889, 891–893, 895–897; các trang còn lại được đọc bằng lớp chữ (chỉ có lời văn).
+- **Chỗ sách viết chưa chặt (nhận xét của người tổng hợp):**
+  - Trang 871: "Nếu mọi hệ số trong hàm mục tiêu đều **âm** thì vòng lặp while kết thúc." Điều kiện dừng thực sự (dòng 3 của SIMPLEX) là không còn hệ số **dương**, tức mọi hệ số **≤ 0** (không dương). Câu tương tự ở trang 868 ("all coefficients in the objective function are negative") đúng với ví dụ cụ thể nhưng không phải điều kiện tổng quát.
+  - Phần kết thúc của chứng minh Bổ đề 29.2 (trang 874) đặt x̄ₑ = ∞, mà ∞ không phải số thực nên "nghiệm" đó không phải nghiệm của quy hoạch. Lập luận chặt: với mọi t > 0, đặt x̄ₑ = t, các biến không cơ sở khác bằng 0, x̄ᵢ = bᵢ − aᵢₑ t ≥ 0 với i ∈ B; nghiệm này khả thi và có giá trị ν + cₑ t, tiến tới +∞ khi t → ∞. Bản tổng hợp trình bày cả hai cách.
+  - Bổ đề 29.7 phát biểu "SIMPLEX dừng trong tối đa C(n + m, m) lần lặp" mà không nêu giả thiết về quy tắc chọn biến, nhưng chứng minh lại dựa vào Bổ đề 29.6 (cần quy tắc Bland: chọn chỉ số nhỏ nhất khi có nhiều lựa chọn). Không có quy tắc chống vòng lặp, SIMPLEX có thể không dừng (chính cuốn sách thừa nhận điều này ở trang 875). Định lý 29.13 kế thừa giả thiết ngầm này.
+  - Phần mở đầu (trang 848) gọi miền khả thi trong không gian n chiều là một "simplex". Trong hình học, simplex (đơn hình) thường chỉ bao lồi của n + 1 điểm; miền khả thi của quy hoạch tuyến tính nói chung là một **khối đa diện lồi** (polyhedron). Trang 848 cũng nói thuật toán dừng ở "một đỉnh mà mọi đỉnh kề đều có giá trị mục tiêu **nhỏ hơn**" — khi có suy biến hoặc nhiều nghiệm tối ưu, nên hiểu là "không lớn hơn".
+  - PIVOT dòng 2 tạo "ma trận m × n mới Â", nhưng các chỉ số dòng/cột của Â lấy từ tập B và N (con của {1, …, n + m}), không phải 1..m và 1..n; sách tự nhắc ở trang 857 rằng chỉ số của A, b, c "không nhất thiết là các số nguyên liên tiếp".
+  - Trang 853, phép tách biến tự do: sách viết "x̂″ⱼ = x̄ⱼ và x̂′ⱼ = 0 nếu x̄ⱼ < 0"; vì x̂″ⱼ phải không âm, đúng ra là x̂″ⱼ = −x̄ⱼ (để x̂′ⱼ − x̂″ⱼ = x̄ⱼ). Bản tổng hợp ghi bản đã sửa.
+  - Trang 860, quy hoạch đường đi ngắn nhất: sách nói nếu tối thiểu hoá thì "đặt mọi d̄_v = 0 sẽ là nghiệm tối ưu". Thực ra các ràng buộc d_v ≤ d_u + w(u, v) chỉ chặn trên, nên quy hoạch tối thiểu không bị chặn; chỉ khi thêm d_v ≥ 0 thì nghiệm 0 mới là tối ưu. Kết luận "phải tối đa hoá" của sách vẫn đúng.
+  - SIMPLEX dòng 2 tạo véc-tơ Δ "độ dài n", trong khi Δ được đánh chỉ số theo B (m phần tử, chỉ số lấy trong {1, …, n + m}).
+  - Bài tập 29.3-8 viết C(m + n, n), Bổ đề 29.5 viết C(n + m, m) — hai số này bằng nhau, không sai, chỉ khác cách viết.
+- **Các ví dụ chạy tay trong sách đã được tự kiểm tra lại và đều đúng:** phép tính phiếu bầu và chi phí 33 nghìn đô la của chiến lược thử (trang 844); các đỉnh của miền khả thi hai biến và nghiệm tối ưu (2, 6) giá trị 8; ba phép xoay của ví dụ đơn hình (29.58)–(29.75) tới nghiệm (8, 4, 0, 18, 0, 0) giá trị 28 (người tổng hợp tính lại từng hệ số bằng đúng các dòng của PIVOT); ví dụ suy biến (giá trị 8 giữ nguyên rồi tăng lên 16); nghiệm đối ngẫu ȳ = (0, 1/6, 2/3) giá trị 28; ví dụ luồng chi phí nhỏ nhất chi phí 27; hai phép xoay của quy hoạch phụ (29.109)–(29.111) và dạng bù trả về. Người tổng hợp chạy tiếp ví dụ này tới nghiệm tối ưu (x₁, x₂) = (14/9, 10/9) giá trị 2 (sách dừng ở dạng bù khả thi). Người tổng hợp cũng tự giải bài toán chính trị gia (Bài tập 29.5-8): chi phí tối thiểu 3100/111 ≈ 27,93 nghìn đô la, kiểm chứng bằng một nghiệm đối ngẫu có cùng giá trị.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Quy hoạch tuyến tính vẫn là Chương 29 nhưng được viết lại và rút gọn đáng kể: phần trình bày chi tiết thuật toán đơn hình (dạng bù, PIVOT, SIMPLEX, INITIALIZE-SIMPLEX, chứng minh dừng) bị bỏ; chương giữ phần đặt bài toán, dạng chuẩn, cách viết bài toán đồ thị thành quy hoạch tuyến tính, và tính đối ngẫu, chỉ mô tả thuật toán đơn hình ở mức ý tưởng hình học. Các chi tiết khác (bài tập, bài toán nào còn giữ) người tổng hợp không nhớ chắc nên không liệt kê.

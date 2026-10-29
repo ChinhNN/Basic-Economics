@@ -1,21 +1,20 @@
 # Chương 31 — Thuật toán số học (Number-Theoretic Algorithms)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 31 "Number-Theoretic Algorithms", trang 926–984.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS. Riêng chương này có thêm một sắc thái: Ronald L. Rivest là chữ "R" trong RSA, hệ mật mã mà Mục 31.7 trình bày.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) cho ký hiệu a mod n, phép đồng dư a ≡ b (mod n), các số Fibonacci Fₖ và tỉ số vàng φ — chương này dùng cả ba (Fibonacci là đầu vào xấu nhất của thuật toán Euclid). Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) cho bộ sinh RANDOM, ý tưởng thuật toán ngẫu nhiên và nghịch lý ngày sinh (Mục 5.4.1) — Mục 31.8 dùng RANDOM cho phép thử Miller-Rabin, Mục 31.9 dùng nghịch lý ngày sinh để ước lượng thời gian của heuristic rho Pollard. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) cho kỹ thuật ghi nhớ (memoization) dùng trong Problem 31-3. Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) mở Phần VII "Selected Topics" — các chủ đề chọn lọc, mỗi chương gần như độc lập. Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) và Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)) cũng thuộc "đại số tính toán": Chương 30 dùng số học modulo và phần tử sinh (căn nguyên thủy của đơn vị) cho FFT, và nhân hai số nguyên lớn nhanh là một ứng dụng của FFT mà phần mở đầu chương này nhắc tới. Chương 31 dựng nền số học (chia hết, ước chung lớn nhất, đồng dư, nhóm hữu hạn), rồi dùng nền đó cho bốn thuật toán: Euclid mở rộng, giải phương trình đồng dư tuyến tính, lũy thừa modulo bằng bình phương lặp, và phép thử nguyên tố Miller-Rabin; tất cả hội tụ vào hệ mật mã khóa công khai RSA. Chương 32 ([C32-so-khop-chuoi.md](C32-so-khop-chuoi.md)) dùng ngay số học modulo cho thuật toán Rabin-Karp (băm chuỗi theo modulo một số nguyên tố). Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) bàn về lớp P và NP; bài toán phân tích thừa số (Mục 31.9) là ví dụ kinh điển của bài toán chưa biết có thuật toán thời gian đa thức nhưng cũng không được biết là NP-đầy đủ. Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md)) cho phép thử Bernoulli, phân phối hình học và định lý Bayes mà Mục 31.8 dùng để ước lượng số lần thử khi tìm số nguyên tố lớn và để diễn giải kết quả của Miller-Rabin.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **với số nguyên lớn, "kích thước đầu vào" là SỐ BIT β chứ không phải giá trị n, nên một thuật toán số học chỉ hiệu quả khi chạy đa thức theo β = lg n; và có một khoảng cách lớn giữa những việc làm được nhanh — tính ước chung lớn nhất (O(β) phép toán số học), tìm nghịch đảo modulo, lũy thừa modulo (O(β) phép nhân), kiểm tra một số có phải nguyên tố (Miller-Rabin, sai với xác suất ≤ 2⁻ˢ) — và việc chưa ai làm nhanh được: phân tích một số lớn ra thừa số nguyên tố. Hệ mật mã RSA được xây chính trên khoảng cách đó: tạo khóa thì dễ, phá khóa (nếu không biết cách nào khác ngoài phân tích n) thì khó.** Phần mở đầu chương đặt lại mô hình chi phí: đầu vào lớn là đầu vào chứa số lớn; ta đếm cả số phép toán số học lẫn số phép toán bit (nhân hai số β-bit kiểu thông thường tốn Θ(β²) phép toán bit). Mục 31.1 ôn khái niệm: chia hết, ước, số nguyên tố, hợp số, định lý phép chia, lớp đồng dư, ước chung lớn nhất, nguyên tố cùng nhau; Định lý 31.2: gcd(a, b) là tổ hợp tuyến tính dương nhỏ nhất ax + by; Định lý 31.8 phân tích thừa số nguyên tố duy nhất. Mục 31.2 trình bày thuật toán Euclid dựa trên gcd(a, b) = gcd(b, a mod b), chứng minh số lần gọi đệ quy là O(lg b) qua định lý Lamé (đầu vào xấu nhất là hai số Fibonacci liên tiếp), và bản mở rộng EXTENDED-EUCLID trả thêm hệ số x, y với d = ax + by. Mục 31.3 đặt số học modulo vào khuôn lý thuyết nhóm: nhóm cộng (ℤₙ, +ₙ), nhóm nhân (ℤₙ*, ·ₙ) gồm các số nguyên tố cùng nhau với n, hàm phi Euler φ(n) = |ℤₙ*|, nhóm con, định lý Lagrange (cỡ nhóm con chia hết cỡ nhóm), cấp của phần tử. Mục 31.4 giải phương trình ax ≡ b (mod n): có nghiệm khi và chỉ khi d = gcd(a, n) chia hết b, khi đó có đúng d nghiệm cách nhau n/d; thủ tục MODULAR-LINEAR-EQUATION-SOLVER; nghịch đảo modulo là trường hợp b = 1. Mục 31.5 trình bày định lý số dư Trung Hoa: với n = n₁n₂⋯nₖ các thừa số đôi một nguyên tố cùng nhau, ℤₙ "giống hệt" tích ℤₙ₁ × ⋯ × ℤₙₖ, và có công thức tường minh để đi ngược. Mục 31.6 xét lũy thừa modulo n: định lý Euler a^φ(n) ≡ 1, định lý Fermat a^(p−1) ≡ 1, căn nguyên thủy, logarit rời rạc, căn bậc hai không tầm thường của 1 (có thì n là hợp số), và thủ tục MODULAR-EXPONENTIATION (bình phương lặp). Mục 31.7 trình bày hệ mật mã khóa công khai, chữ ký số và RSA: chọn hai số nguyên tố lớn p, q, n = pq, e nguyên tố cùng nhau với φ(n), d = e⁻¹ mod φ(n); mã hóa M^e mod n, giải mã C^d mod n; chứng minh tính đúng bằng định lý Fermat và định lý số dư Trung Hoa. Mục 31.8 (★) bàn mật độ số nguyên tố (định lý số nguyên tố), phép thử giả nguyên tố cơ số 2 (PSEUDOPRIME) và điểm yếu của nó trước số Carmichael, rồi phép thử ngẫu nhiên Miller-Rabin (WITNESS tìm căn bậc hai không tầm thường của 1) với chứng minh rằng mọi hợp số lẻ có ít nhất (n − 1)/2 bằng chứng nên xác suất sai ≤ 2⁻ˢ. Mục 31.9 (★) trình bày heuristic rho của Pollard: tìm một thừa số p của n sau kỳ vọng Θ(√p) bước nhờ nghịch lý ngày sinh, dùng bộ nhớ hằng số.
+## Ý chính
 
-> **Lưu ý:**
-> - **Hai mục có dấu sao (★) trong chương:** Mục 31.8 "Primality testing" và Mục 31.9 "Integer factorization". Các bài tập có dấu sao: Exercise 31.1-11, 31.4-4, 31.7-3, 31.8-2, 31.9-4. Không có Problem nào mang dấu sao.
-> - **Lớp chữ PDF hỏng gần như mọi ký hiệu toán của chương:** β thành `ˇ`, Θ thành `‚`, φ (hàm phi) và π (hàm đếm số nguyên tố) mất hẳn (ví dụ `.n/D n` là `φ(n) = n`, `.10/D 4` là `π(10) = 4`), dấu ≡ mất (ví dụ `ax b. mod n/` là `ax ≡ b (mod n)`), ≤ và ≥ mất, ⟨a⟩ thành `hai`, ℤₙ* thành `Zn` (không phân biệt được với ℤₙ), chỉ số trên dưới dính nhau (`pe11 pe22` là `p₁^e₁ p₂^e₂`, `x2i /NUL1` là `x²ᵢ₋₁`), dấu ⊕ thành `˚`, σ (chữ ký số) mất hẳn, các bảng của Hình 31.2, 31.3 và hình rho (Hình 31.7) vỡ thành chuỗi số rời. Mọi pseudocode (EUCLID, EXTENDED-EUCLID, MODULAR-LINEAR-EQUATION-SOLVER, MODULAR-EXPONENTIATION, PSEUDOPRIME, WITNESS, MILLER-RABIN, POLLARD-RHO), mọi công thức (31.1)–(31.44), các Hình 31.1–31.7 và tất cả định lý, hệ quả trong bản tổng hợp này được đọc lại từ ảnh của toàn bộ 59 trang 926–984.
-> - **Chỗ sách viết chưa chặt hoặc có lỗi nhỏ (nhận xét của người tổng hợp):**
->   - Mục 31.9, trang 977: sách viết "k follows the sequence 1, 2, 4, 8, …", nhưng dòng 4 của POLLARD-RHO khởi tạo k = 2, nên giá trị của biến k thực ra là 2, 4, 8, 16, …; dãy 1, 2, 4, 8, … là dãy CHỈ SỐ của các giá trị được lưu vào y (x₁ được lưu ở dòng 3, trước khi có k).
->   - Ghi chú chương, trang 983: tên đồng tác giả thuật toán AKS bị in là "Saxema"; đúng là Nitin **Saxena** (theo hiểu biết của người tổng hợp).
->   - Problem 31-4, trang 982: phương trình định nghĩa thặng dư bậc hai in là "x² = a (mod p)" — đúng ra phải là dấu đồng dư "≡"; câu (b) lặp lại giả thiết "If p is prime" dù p đã được cho là số nguyên tố lẻ.
->   - Mục 31.7, trang 963: câu "After two decades of research, however, no easier method has been found to break the RSA public-key cryptosystem" — RSA ra đời năm 1977, nên tới ấn bản 2009 đã hơn ba thập kỷ; câu này nhiều khả năng giữ nguyên từ ấn bản 1990 hoặc 2001.
->   - Mục 31.5 mở đầu nói Tôn Tử (Sun-Tsŭ) giải bài toán "khoảng năm 100 sau Công nguyên", còn Ghi chú chương lại nói ông sống "trong khoảng 200 TCN tới 200 SCN — niên đại rất không chắc chắn". Hai câu không mâu thuẫn hẳn nhưng nên hiểu năm 100 chỉ là ước đoán.
-> - **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đều đúng:** gcd(30, 21) = 3 qua ba lần gọi đệ quy; bảng EXTENDED-EUCLID(99, 78) cho (3, −11, 14) (Hình 31.1); bảng nhân của ℤ₁₅* (Hình 31.2(b)); φ(45) = 24; 5⁻¹ ≡ 9 (mod 11), 7⁻¹ ≡ 13 (mod 15), 4/7 ≡ 7 (mod 15); 14x ≡ 30 (mod 100) có hai nghiệm 95 và 45; bảng định lý số dư Trung Hoa mod 65 (Hình 31.3) và a ≡ 42 (mod 65); bảng lũy thừa của 3 và 2 modulo 7; bảng MODULAR-EXPONENTIATION(7, 560, 561) (Hình 31.4); 6 là căn bậc hai không tầm thường của 1 modulo 35; dãy WITNESS(7, 561) = ⟨241, 298, 166, 67, 1⟩; 22 giả nguyên tố cơ số 2 nhỏ hơn 10.000, bốn số đầu 341, 561, 645, 1105; ln 2¹⁰²⁴ ≈ 709,8 ≈ 710; λ(561) = lcm(2, 10, 16) = 80; dãy rho modulo 1387, 19, 73 (Hình 31.7) và thừa số 19 tìm được ở x₇ = 177. Các đáp số bài tập do người tổng hợp đưa ra (ví dụ EXTENDED-EUCLID(899, 493) = (29, −6, 11); khóa RSA d = 187 và bản mã 254 ở Exercise 31.7-1; thừa số 73 được in ở bước i = 12 ở Exercise 31.9-1) cũng đã được tính lại.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương vẫn là Chương 31 "Number-Theoretic Algorithms" với cùng mạch nội dung (Euclid, số học modulo, định lý số dư Trung Hoa, lũy thừa, RSA, Miller-Rabin). Người tổng hợp nhớ rằng ấn bản 4 cập nhật lời văn về độ dài khóa RSA và về các thuật toán nhân số nguyên nhanh, nhưng không nhớ chắc chi tiết nào khác (ví dụ Mục 31.9 có được giữ nguyên hay không), nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **với số nguyên lớn, "kích thước đầu vào" là SỐ BIT β chứ không phải giá trị n, nên một thuật toán số học chỉ hiệu quả khi chạy đa thức theo β = lg n; và có một khoảng cách lớn giữa những việc làm được nhanh — tính ước chung lớn nhất (O(β) phép toán số học), tìm nghịch đảo modulo, lũy thừa modulo (O(β) phép nhân), kiểm tra một số có phải nguyên tố (Miller-Rabin, sai với xác suất ≤ 2⁻ˢ) — và việc chưa ai làm nhanh được: phân tích một số lớn ra thừa số nguyên tố. Hệ mật mã RSA được xây chính trên khoảng cách đó: tạo khóa thì dễ, phá khóa (nếu không biết cách nào khác ngoài phân tích n) thì khó.**
+
+Phần mở đầu chương đặt lại mô hình chi phí: đầu vào lớn là đầu vào chứa số lớn; ta đếm cả số phép toán số học lẫn số phép toán bit (nhân hai số β-bit kiểu thông thường tốn Θ(β²) phép toán bit). Mục 31.1 ôn khái niệm: chia hết, ước, số nguyên tố, hợp số, định lý phép chia, lớp đồng dư, ước chung lớn nhất, nguyên tố cùng nhau; Định lý 31.2: gcd(a, b) là tổ hợp tuyến tính dương nhỏ nhất ax + by; Định lý 31.8 phân tích thừa số nguyên tố duy nhất.
+
+Mục 31.2 trình bày thuật toán Euclid dựa trên gcd(a, b) = gcd(b, a mod b), chứng minh số lần gọi đệ quy là O(lg b) qua định lý Lamé (đầu vào xấu nhất là hai số Fibonacci liên tiếp), và bản mở rộng EXTENDED-EUCLID trả thêm hệ số x, y với d = ax + by.
+
+Mục 31.3 đặt số học modulo vào khuôn lý thuyết nhóm: nhóm cộng (ℤₙ, +ₙ), nhóm nhân (ℤₙ*, ·ₙ) gồm các số nguyên tố cùng nhau với n, hàm phi Euler φ(n) = |ℤₙ*|, nhóm con, định lý Lagrange (cỡ nhóm con chia hết cỡ nhóm), cấp của phần tử. Mục 31.4 giải phương trình ax ≡ b (mod n): có nghiệm khi và chỉ khi d = gcd(a, n) chia hết b, khi đó có đúng d nghiệm cách nhau n/d; thủ tục MODULAR-LINEAR-EQUATION-SOLVER; nghịch đảo modulo là trường hợp b = 1.
+
+Mục 31.5 trình bày định lý số dư Trung Hoa: với n = n₁n₂⋯nₖ các thừa số đôi một nguyên tố cùng nhau, ℤₙ "giống hệt" tích ℤₙ₁ × ⋯ × ℤₙₖ, và có công thức tường minh để đi ngược. Mục 31.6 xét lũy thừa modulo n: định lý Euler a^φ(n) ≡ 1, định lý Fermat a^(p−1) ≡ 1, căn nguyên thủy, logarit rời rạc, căn bậc hai không tầm thường của 1 (có thì n là hợp số), và thủ tục MODULAR-EXPONENTIATION (bình phương lặp).
+
+Mục 31.7 trình bày hệ mật mã khóa công khai, chữ ký số và RSA: chọn hai số nguyên tố lớn p, q, n = pq, e nguyên tố cùng nhau với φ(n), d = e⁻¹ mod φ(n); mã hóa M^e mod n, giải mã C^d mod n; chứng minh tính đúng bằng định lý Fermat và định lý số dư Trung Hoa.
+
+Mục 31.8 (★) bàn mật độ số nguyên tố (định lý số nguyên tố), phép thử giả nguyên tố cơ số 2 (PSEUDOPRIME) và điểm yếu của nó trước số Carmichael, rồi phép thử ngẫu nhiên Miller-Rabin (WITNESS tìm căn bậc hai không tầm thường của 1) với chứng minh rằng mọi hợp số lẻ có ít nhất (n − 1)/2 bằng chứng nên xác suất sai ≤ 2⁻ˢ. Mục 31.9 (★) trình bày heuristic rho của Pollard: tìm một thừa số p của n sau kỳ vọng Θ(√p) bước nhờ nghịch lý ngày sinh, dùng bộ nhớ hằng số.
 
 ## Sơ đồ
 
@@ -464,9 +463,15 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao với số lớn ta phải đo chi phí theo số bit, và thuật toán Euclid nhanh tới mức nào?** Một số n chỉ cần β = ⌈lg(n + 1)⌉ bit để ghi, nên thuật toán chạy Θ(n) bước (như chia thử tới √n) thực ra là hàm mũ theo kích thước đầu vào: với n 1024 bit, √n ≈ 2⁵¹². Thuật toán "tốt" phải chạy đa thức theo β. Euclid đạt điều đó: dựa trên gcd(a, b) = gcd(b, a mod b) (Định lý 31.9), số lần gọi đệ quy bị chặn bởi định lý Lamé — nếu có k lần gọi thì b ≥ F_{k+1} ≈ φ^(k+1)/√5 — nên chỉ O(lg b) = O(β) lần, tức O(β) phép toán số học và O(β³) phép toán bit (Problem 31-2 hạ còn O(β²)). Đầu vào xấu nhất là hai số Fibonacci liên tiếp: EUCLID(F_{k+1}, F_k) gọi đệ quy đúng k − 1 lần. Bản mở rộng EXTENDED-EUCLID trả thêm x, y với gcd(a, b) = ax + by, ví dụ 3 = 99 · (−11) + 78 · 14, và chính cặp hệ số này cho nghịch đảo modulo.
-2. **Làm sao giải phương trình đồng dư và "chia" trong số học modulo, và RSA dựa vào những kết quả nào?** Phương trình ax ≡ b (mod n) có nghiệm khi và chỉ khi d = gcd(a, n) chia hết b; khi đó có đúng d nghiệm x₀ + i(n/d) với x₀ = x′(b/d) mod n, x′ lấy từ EXTENDED-EUCLID (Định lý 31.20–31.24); ví dụ 14x ≡ 30 (mod 100) có nghiệm 95 và 45. Khi gcd(a, n) = 1 có nghịch đảo a⁻¹ mod n duy nhất. RSA chọn n = pq, e nguyên tố cùng nhau với φ(n) = (p − 1)(q − 1), d = e⁻¹ mod φ(n); mã hóa Mᵉ mod n và giải mã Cᵈ mod n bằng bình phương lặp (O(β) phép nhân). Tính đúng: ed = 1 + k(p − 1)(q − 1), định lý Fermat cho M^(ed) ≡ M theo modulo p và modulo q, rồi định lý số dư Trung Hoa ghép thành M^(ed) ≡ M (mod n). Ví dụ của người tổng hợp (Exercise 31.7-1): p = 11, q = 29, e = 3 cho d = 187; M = 100 mã hóa thành 254, và 254¹⁸⁷ mod 319 = 100.
-3. **Vì sao kiểm tra một số có nguyên tố hay không lại dễ hơn nhiều so với phân tích nó ra thừa số?** Định lý Fermat cho một "phép thử phủ định": nếu a^(n−1) ≢ 1 (mod n) thì n chắc chắn là hợp số. Phép thử chỉ dùng a = 2 sai rất hiếm (22 số dưới 10.000) nhưng bị số Carmichael (561 = 3 · 11 · 17, …) đánh lừa với mọi cơ số. Miller-Rabin vá lỗ hổng bằng cách vừa chọn cơ số ngẫu nhiên vừa tìm căn bậc hai không tầm thường của 1 trong chuỗi bình phương (có căn như vậy thì n là hợp số, Hệ quả 31.35). Định lý 31.38 chứng minh mọi hợp số lẻ có ít nhất (n − 1)/2 cơ số "làm chứng", nên s lần thử sai với xác suất ≤ 2⁻ˢ, mất O(sβ³) phép toán bit. Ngược lại, biết n là hợp số không cho biết thừa số; heuristic tốt nhất trong chương (rho Pollard) cần kỳ vọng Θ(√p) bước để tìm thừa số p, tức tới 2^(β/4) bước với p ≈ √n — vẫn là hàm mũ theo β. RSA an toàn chính nhờ khoảng cách này.
+1. **Vì sao với số lớn ta phải đo chi phí theo số bit, và thuật toán Euclid nhanh tới mức nào?** Một số n chỉ cần β = ⌈lg(n + 1)⌉ bit để ghi, nên thuật toán chạy Θ(n) bước (như chia thử tới √n) thực ra là hàm mũ theo kích thước đầu vào: với n 1024 bit, √n ≈ 2⁵¹². Thuật toán "tốt" phải chạy đa thức theo β.
+
+   Euclid đạt điều đó: dựa trên gcd(a, b) = gcd(b, a mod b) (Định lý 31.9), số lần gọi đệ quy bị chặn bởi định lý Lamé — nếu có k lần gọi thì b ≥ F_{k+1} ≈ φ^(k+1)/√5 — nên chỉ O(lg b) = O(β) lần, tức O(β) phép toán số học và O(β³) phép toán bit (Problem 31-2 hạ còn O(β²)). Đầu vào xấu nhất là hai số Fibonacci liên tiếp: EUCLID(F_{k+1}, F_k) gọi đệ quy đúng k − 1 lần. Bản mở rộng EXTENDED-EUCLID trả thêm x, y với gcd(a, b) = ax + by, ví dụ 3 = 99 · (−11) + 78 · 14, và chính cặp hệ số này cho nghịch đảo modulo.
+2. **Làm sao giải phương trình đồng dư và "chia" trong số học modulo, và RSA dựa vào những kết quả nào?** Phương trình ax ≡ b (mod n) có nghiệm khi và chỉ khi d = gcd(a, n) chia hết b; khi đó có đúng d nghiệm x₀ + i(n/d) với x₀ = x′(b/d) mod n, x′ lấy từ EXTENDED-EUCLID (Định lý 31.20–31.24); ví dụ 14x ≡ 30 (mod 100) có nghiệm 95 và 45. Khi gcd(a, n) = 1 có nghịch đảo a⁻¹ mod n duy nhất.
+
+   RSA chọn n = pq, e nguyên tố cùng nhau với φ(n) = (p − 1)(q − 1), d = e⁻¹ mod φ(n); mã hóa Mᵉ mod n và giải mã Cᵈ mod n bằng bình phương lặp (O(β) phép nhân). Tính đúng: ed = 1 + k(p − 1)(q − 1), định lý Fermat cho M^(ed) ≡ M theo modulo p và modulo q, rồi định lý số dư Trung Hoa ghép thành M^(ed) ≡ M (mod n). Ví dụ của người tổng hợp (Exercise 31.7-1): p = 11, q = 29, e = 3 cho d = 187; M = 100 mã hóa thành 254, và 254¹⁸⁷ mod 319 = 100.
+3. **Vì sao kiểm tra một số có nguyên tố hay không lại dễ hơn nhiều so với phân tích nó ra thừa số?** Định lý Fermat cho một "phép thử phủ định": nếu a^(n−1) ≢ 1 (mod n) thì n chắc chắn là hợp số. Phép thử chỉ dùng a = 2 sai rất hiếm (22 số dưới 10.000) nhưng bị số Carmichael (561 = 3 · 11 · 17, …) đánh lừa với mọi cơ số. Miller-Rabin vá lỗ hổng bằng cách vừa chọn cơ số ngẫu nhiên vừa tìm căn bậc hai không tầm thường của 1 trong chuỗi bình phương (có căn như vậy thì n là hợp số, Hệ quả 31.35).
+
+   Định lý 31.38 chứng minh mọi hợp số lẻ có ít nhất (n − 1)/2 cơ số "làm chứng", nên s lần thử sai với xác suất ≤ 2⁻ˢ, mất O(sβ³) phép toán bit. Ngược lại, biết n là hợp số không cho biết thừa số; heuristic tốt nhất trong chương (rho Pollard) cần kỳ vọng Θ(√p) bước để tìm thừa số p, tức tới 2^(β/4) bước với p ≈ √n — vẫn là hàm mũ theo β. RSA an toàn chính nhờ khoảng cách này.
 
 ## Khái niệm cần biết
 
@@ -508,7 +513,9 @@
 
 Chương mở đầu bằng một nhận xét lịch sử: lý thuyết số từng bị coi là một môn toán thuần túy đẹp nhưng phần lớn vô dụng. Ngày nay các thuật toán số học được dùng rộng rãi, phần lớn nhờ sự ra đời của các hệ mật mã dựa trên số nguyên tố lớn. Những hệ này **khả thi** vì ta tìm được số nguyên tố lớn một cách dễ dàng, và **an toàn** vì ta không biết cách phân tích hiệu quả tích của các số nguyên tố lớn (hay giải hiệu quả các bài toán liên quan, như tính logarit rời rạc). Chương trình bày phần lý thuyết số và các thuật toán nằm dưới những ứng dụng như vậy.
 
-Trình tự chương được nêu trước: Mục 31.1 giới thiệu khái niệm cơ bản (chia hết, đồng dư, phân tích duy nhất); Mục 31.2 nghiên cứu một trong những thuật toán cổ nhất thế giới — thuật toán Euclid tính ước chung lớn nhất; Mục 31.3 ôn số học modulo; Mục 31.4 nghiên cứu tập bội của một số a modulo n và chỉ cách tìm mọi nghiệm của ax ≡ b (mod n) bằng thuật toán Euclid; Mục 31.5 trình bày định lý số dư Trung Hoa; Mục 31.6 xét lũy thừa của a modulo n và thuật toán bình phương lặp tính aᵇ mod n — phép toán nằm ở trung tâm của phép thử nguyên tố hiệu quả và của phần lớn mật mã hiện đại; Mục 31.7 mô tả hệ mật mã khóa công khai RSA; Mục 31.8 xét một phép thử nguyên tố ngẫu nhiên, dùng để tìm số nguyên tố lớn khi tạo khóa RSA; cuối cùng Mục 31.9 bàn một heuristic đơn giản mà hiệu quả để phân tích thừa số các số nhỏ. Tác giả ghi nhận một điều thú vị: phân tích thừa số là một bài toán mà người ta có thể **mong** nó khó, vì độ an toàn của RSA phụ thuộc vào việc phân tích số lớn là khó.
+Trình tự chương được nêu trước: Mục 31.1 giới thiệu khái niệm cơ bản (chia hết, đồng dư, phân tích duy nhất); Mục 31.2 nghiên cứu một trong những thuật toán cổ nhất thế giới — thuật toán Euclid tính ước chung lớn nhất; Mục 31.3 ôn số học modulo; Mục 31.4 nghiên cứu tập bội của một số a modulo n và chỉ cách tìm mọi nghiệm của ax ≡ b (mod n) bằng thuật toán Euclid; Mục 31.5 trình bày định lý số dư Trung Hoa; Mục 31.6 xét lũy thừa của a modulo n và thuật toán bình phương lặp tính aᵇ mod n — phép toán nằm ở trung tâm của phép thử nguyên tố hiệu quả và của phần lớn mật mã hiện đại; Mục 31.7 mô tả hệ mật mã khóa công khai RSA; Mục 31.8 xét một phép thử nguyên tố ngẫu nhiên, dùng để tìm số nguyên tố lớn khi tạo khóa RSA; cuối cùng Mục 31.9 bàn một heuristic đơn giản mà hiệu quả để phân tích thừa số các số nhỏ.
+
+Tác giả ghi nhận một điều thú vị: phân tích thừa số là một bài toán mà người ta có thể **mong** nó khó, vì độ an toàn của RSA phụ thuộc vào việc phân tích số lớn là khó.
 
 #### Kích thước đầu vào và chi phí các phép tính số học (Size of inputs and cost of arithmetic computations)
 
@@ -1055,7 +1062,9 @@ Tương tự, trong ℤ₇*:
 
 **Định lý 31.17.** Với mọi nhóm hữu hạn (S, ⊕) và mọi a ∈ S, cấp của a bằng cỡ của nhóm con mà nó sinh ra: ord(a) = |⟨a⟩|.
 
-*Chứng minh.* Đặt t = ord(a). Vì a^(t) = e và a^(t+k) = a^(t) ⊕ a^(k) = a^(k) với k ≥ 1, nếu i > t thì a^(i) = a^(j) với j < i nào đó. Vậy khi sinh phần tử bằng a, sau a^(t) không xuất hiện phần tử mới. Do đó ⟨a⟩ = {a^(1), a^(2), …, a^(t)}, và |⟨a⟩| ≤ t. Để chứng minh |⟨a⟩| ≥ t, ta chứng minh các phần tử a^(1), …, a^(t) phân biệt. Giả sử phản chứng a^(i) = a^(j) với 1 ≤ i < j ≤ t. Khi đó a^(i+k) = a^(j+k) với k ≥ 0. Nhưng đẳng thức này kéo theo a^(i+(t−j)) = a^(j+(t−j)) = e, mâu thuẫn vì i + (t − j) < t mà t là giá trị dương nhỏ nhất với a^(t) = e. Vậy các phần tử a^(1), …, a^(t) phân biệt và |⟨a⟩| ≥ t. Kết luận ord(a) = |⟨a⟩|. ∎
+*Chứng minh.* Đặt t = ord(a). Vì a^(t) = e và a^(t+k) = a^(t) ⊕ a^(k) = a^(k) với k ≥ 1, nếu i > t thì a^(i) = a^(j) với j < i nào đó. Vậy khi sinh phần tử bằng a, sau a^(t) không xuất hiện phần tử mới. Do đó ⟨a⟩ = {a^(1), a^(2), …, a^(t)}, và |⟨a⟩| ≤ t. Để chứng minh |⟨a⟩| ≥ t, ta chứng minh các phần tử a^(1), …, a^(t) phân biệt.
+
+Giả sử phản chứng a^(i) = a^(j) với 1 ≤ i < j ≤ t. Khi đó a^(i+k) = a^(j+k) với k ≥ 0. Nhưng đẳng thức này kéo theo a^(i+(t−j)) = a^(j+(t−j)) = e, mâu thuẫn vì i + (t − j) < t mà t là giá trị dương nhỏ nhất với a^(t) = e. Vậy các phần tử a^(1), …, a^(t) phân biệt và |⟨a⟩| ≥ t. Kết luận ord(a) = |⟨a⟩|. ∎
 
 **Hệ quả 31.18.** Dãy a^(1), a^(2), … tuần hoàn với chu kỳ t = ord(a); tức a^(i) = a^(j) khi và chỉ khi i ≡ j (mod t).
 
@@ -1574,13 +1583,17 @@ Nhận xét của người tổng hợp: chứng minh cần tách riêng trườ
 
 #### Độ an toàn và cách dùng thực tế
 
-Độ an toàn của RSA phần lớn dựa trên độ khó của việc phân tích số nguyên lớn. Nếu đối thủ phân tích được modulus n trong một khóa công khai, đối thủ suy ra được khóa bí mật từ khóa công khai, dùng p và q y như người tạo khóa đã dùng (tính φ(n) = (p − 1)(q − 1) rồi d = e⁻¹ mod φ(n)). Vậy nếu phân tích số lớn là dễ thì phá RSA là dễ. Mệnh đề ngược — nếu phân tích số lớn là khó thì phá RSA là khó — chưa được chứng minh. Tuy nhiên sau hai thập kỷ nghiên cứu (lời sách; xem khối Lưu ý), chưa ai tìm ra cách phá RSA dễ hơn việc phân tích modulus n. Và như Mục 31.9 sẽ cho thấy, phân tích số nguyên lớn khó một cách đáng ngạc nhiên. Bằng cách chọn ngẫu nhiên và nhân hai số nguyên tố 1024 bit, có thể tạo khóa công khai không thể "phá" trong một lượng thời gian khả thi với công nghệ hiện tại. Nếu không có đột phá cơ bản trong thiết kế thuật toán số học, và khi cài đặt cẩn thận theo các chuẩn khuyến nghị, RSA có thể cho độ an toàn cao trong ứng dụng.
+Độ an toàn của RSA phần lớn dựa trên độ khó của việc phân tích số nguyên lớn. Nếu đối thủ phân tích được modulus n trong một khóa công khai, đối thủ suy ra được khóa bí mật từ khóa công khai, dùng p và q y như người tạo khóa đã dùng (tính φ(n) = (p − 1)(q − 1) rồi d = e⁻¹ mod φ(n)). Vậy nếu phân tích số lớn là dễ thì phá RSA là dễ. Mệnh đề ngược — nếu phân tích số lớn là khó thì phá RSA là khó — chưa được chứng minh.
+
+Tuy nhiên sau hai thập kỷ nghiên cứu (lời sách; xem mục Lưu ý cuối chương), chưa ai tìm ra cách phá RSA dễ hơn việc phân tích modulus n. Và như Mục 31.9 sẽ cho thấy, phân tích số nguyên lớn khó một cách đáng ngạc nhiên. Bằng cách chọn ngẫu nhiên và nhân hai số nguyên tố 1024 bit, có thể tạo khóa công khai không thể "phá" trong một lượng thời gian khả thi với công nghệ hiện tại. Nếu không có đột phá cơ bản trong thiết kế thuật toán số học, và khi cài đặt cẩn thận theo các chuẩn khuyến nghị, RSA có thể cho độ an toàn cao trong ứng dụng.
 
 Để đạt an toàn với RSA, cần dùng số nguyên khá dài — hàng trăm bit hoặc hơn một nghìn bit — để chống lại tiến bộ có thể có của kỹ thuật phân tích thừa số. Tại thời điểm viết sách (2009), modulus RSA thường dài 768 tới 2048 bit. Để tạo modulus cỡ đó, phải tìm được số nguyên tố lớn một cách hiệu quả; Mục 31.8 giải quyết việc này.
 
 **Chế độ lai (hybrid, key-management mode).** Để hiệu quả, RSA thường được dùng ở chế độ "lai" với các hệ mật mã nhanh không dùng khóa công khai — ở các hệ này khóa mã hóa và khóa giải mã giống hệt nhau. Nếu Alice muốn gửi Bob một thông điệp dài M một cách bí mật, cô chọn một khóa ngẫu nhiên K cho hệ mã nhanh và mã hóa M bằng K, được bản mã C. Ở đây C dài bằng M, còn K khá ngắn. Rồi cô mã hóa K bằng khóa công khai RSA của Bob. Vì K ngắn, tính P_B(K) nhanh (nhanh hơn nhiều so với tính P_B(M)). Cô gửi (C, P_B(K)) cho Bob; Bob giải mã P_B(K) để có K rồi dùng K giải mã C, được M.
 
-**Chữ ký với hàm băm.** Cách lai tương tự giúp tạo chữ ký số hiệu quả. Cách này ghép RSA với một **hàm băm chống va chạm** (collision-resistant hash function) công khai h — hàm dễ tính nhưng về mặt tính toán không thể tìm hai thông điệp M, M′ với h(M) = h(M′). Giá trị h(M) là một "dấu vân tay" ngắn (chẳng hạn 256 bit) của thông điệp M. Nếu Alice muốn ký M, cô áp h lên M để có dấu vân tay h(M), rồi mã hóa nó bằng khóa bí mật. Cô gửi (M, S_A(h(M))) cho Bob làm bản đã ký của M. Bob kiểm tra chữ ký bằng cách tính h(M) và kiểm tra P_A áp lên S_A(h(M)) nhận được có bằng h(M) không. Vì không ai tạo được hai thông điệp cùng dấu vân tay, về mặt tính toán không thể sửa một thông điệp đã ký mà giữ chữ ký còn hợp lệ.
+**Chữ ký với hàm băm.** Cách lai tương tự giúp tạo chữ ký số hiệu quả. Cách này ghép RSA với một **hàm băm chống va chạm** (collision-resistant hash function) công khai h — hàm dễ tính nhưng về mặt tính toán không thể tìm hai thông điệp M, M′ với h(M) = h(M′). Giá trị h(M) là một "dấu vân tay" ngắn (chẳng hạn 256 bit) của thông điệp M.
+
+Nếu Alice muốn ký M, cô áp h lên M để có dấu vân tay h(M), rồi mã hóa nó bằng khóa bí mật. Cô gửi (M, S_A(h(M))) cho Bob làm bản đã ký của M. Bob kiểm tra chữ ký bằng cách tính h(M) và kiểm tra P_A áp lên S_A(h(M)) nhận được có bằng h(M) không. Vì không ai tạo được hai thông điệp cùng dấu vân tay, về mặt tính toán không thể sửa một thông điệp đã ký mà giữ chữ ký còn hợp lệ.
 
 **Chứng chỉ (certificates).** Cuối cùng, việc dùng chứng chỉ giúp phân phối khóa công khai dễ hơn nhiều. Ví dụ, giả sử có một "cơ quan đáng tin cậy" T mà khóa công khai ai cũng biết. Alice có thể nhận từ T một thông điệp đã ký (chứng chỉ của cô) nói rằng "khóa công khai của Alice là P_A". Chứng chỉ này "tự xác thực" vì ai cũng biết P_T. Alice có thể gửi kèm chứng chỉ trong các thông điệp đã ký của mình, để người nhận có ngay khóa công khai của Alice mà kiểm tra chữ ký. Vì khóa của cô đã được T ký, người nhận biết khóa đó đúng là của Alice.
 
@@ -1614,7 +1627,9 @@ n = p₁^e₁ p₂^e₂ ⋯ pᵣ^eᵣ                                           
 
 với r ≥ 1, p₁, p₂, …, pᵣ là các thừa số nguyên tố của n, và e₁, e₂, …, eᵣ là số nguyên dương. Số n là nguyên tố khi và chỉ khi r = 1 và e₁ = 1.
 
-**Chia thử.** Một cách đơn giản để thử nguyên tố là **chia thử** (trial division): thử chia n cho mỗi số nguyên 2, 3, …, ⌊√n⌋. (Lại có thể bỏ qua các số chẵn lớn hơn 2.) Dễ thấy n nguyên tố khi và chỉ khi không ước thử nào chia hết n. Giả sử mỗi phép chia thử tốn thời gian hằng số, thời gian xấu nhất là Θ(√n), là hàm mũ theo độ dài của n. (Nhớ rằng nếu n được mã hóa nhị phân bằng β bit thì β = ⌈lg(n + 1)⌉, nên √n = Θ(2^(β/2)).) Vậy chia thử chỉ tốt khi n rất nhỏ hoặc tình cờ có thừa số nguyên tố nhỏ. Khi hiệu quả, chia thử có lợi thế là không chỉ xác định n nguyên tố hay hợp số mà còn tìm được một thừa số nguyên tố của n nếu n là hợp số.
+**Chia thử.** Một cách đơn giản để thử nguyên tố là **chia thử** (trial division): thử chia n cho mỗi số nguyên 2, 3, …, ⌊√n⌋. (Lại có thể bỏ qua các số chẵn lớn hơn 2.) Dễ thấy n nguyên tố khi và chỉ khi không ước thử nào chia hết n. Giả sử mỗi phép chia thử tốn thời gian hằng số, thời gian xấu nhất là Θ(√n), là hàm mũ theo độ dài của n.
+
+(Nhớ rằng nếu n được mã hóa nhị phân bằng β bit thì β = ⌈lg(n + 1)⌉, nên √n = Θ(2^(β/2)).) Vậy chia thử chỉ tốt khi n rất nhỏ hoặc tình cờ có thừa số nguyên tố nhỏ. Khi hiệu quả, chia thử có lợi thế là không chỉ xác định n nguyên tố hay hợp số mà còn tìm được một thừa số nguyên tố của n nếu n là hợp số.
 
 Mục này chỉ quan tâm việc xác định n có nguyên tố không; nếu n là hợp số, không cần tìm phân tích thừa số của nó. Như Mục 31.9 sẽ cho thấy, tính phân tích thừa số nguyên tố của một số tốn kém về mặt tính toán. Có lẽ đáng ngạc nhiên là xác định một số có nguyên tố hay không lại dễ hơn nhiều so với tìm phân tích thừa số của nó khi nó không nguyên tố.
 
@@ -1647,7 +1662,9 @@ PSEUDOPRIME(n)
 
 Thủ tục này có thể sai, nhưng chỉ một kiểu. Nếu nó nói n là hợp số thì luôn đúng. Nếu nó nói n nguyên tố, nó chỉ sai khi n là giả nguyên tố cơ số 2.
 
-Thủ tục sai thường xuyên đến mức nào? Hiếm một cách đáng ngạc nhiên. Chỉ có 22 giá trị n nhỏ hơn 10.000 mà nó sai; bốn giá trị đầu là 341, 561, 645, 1105. Sách không chứng minh, nhưng xác suất chương trình sai trên một số β-bit chọn ngẫu nhiên tiến về 0 khi β → ∞. Dùng các ước lượng chính xác hơn của Pomerance về số giả nguyên tố cơ số 2 cỡ cho trước, có thể ước lượng một số 512 bit chọn ngẫu nhiên được thủ tục trên gọi là nguyên tố có ít hơn một cơ hội trong 10²⁰ là giả nguyên tố cơ số 2, và một số 1024 bit chọn ngẫu nhiên được gọi là nguyên tố có ít hơn một cơ hội trong 10⁴¹. Vậy nếu chỉ cần tìm một số nguyên tố lớn cho ứng dụng nào đó, trên thực tế hầu như không bao giờ sai khi chọn ngẫu nhiên các số lớn cho tới khi một số làm PSEUDOPRIME trả về PRIME. Nhưng khi các số cần thử **không** được chọn ngẫu nhiên, cần cách thử tốt hơn. Như sẽ thấy, thêm chút khéo léo và chút ngẫu nhiên sẽ cho một thủ tục thử nguyên tố chạy tốt trên mọi đầu vào.
+Thủ tục sai thường xuyên đến mức nào? Hiếm một cách đáng ngạc nhiên. Chỉ có 22 giá trị n nhỏ hơn 10.000 mà nó sai; bốn giá trị đầu là 341, 561, 645, 1105. Sách không chứng minh, nhưng xác suất chương trình sai trên một số β-bit chọn ngẫu nhiên tiến về 0 khi β → ∞. Dùng các ước lượng chính xác hơn của Pomerance về số giả nguyên tố cơ số 2 cỡ cho trước, có thể ước lượng một số 512 bit chọn ngẫu nhiên được thủ tục trên gọi là nguyên tố có ít hơn một cơ hội trong 10²⁰ là giả nguyên tố cơ số 2, và một số 1024 bit chọn ngẫu nhiên được gọi là nguyên tố có ít hơn một cơ hội trong 10⁴¹.
+
+Vậy nếu chỉ cần tìm một số nguyên tố lớn cho ứng dụng nào đó, trên thực tế hầu như không bao giờ sai khi chọn ngẫu nhiên các số lớn cho tới khi một số làm PSEUDOPRIME trả về PRIME. Nhưng khi các số cần thử **không** được chọn ngẫu nhiên, cần cách thử tốt hơn. Như sẽ thấy, thêm chút khéo léo và chút ngẫu nhiên sẽ cho một thủ tục thử nguyên tố chạy tốt trên mọi đầu vào.
 
 Kiểm tra (người tổng hợp): 341 = 11 · 31; 2¹⁰ = 1024 = 3 · 341 + 1 ≡ 1 (mod 341), nên 2³⁴⁰ = (2¹⁰)³⁴ ≡ 1 — 341 là giả nguyên tố cơ số 2. Nhưng 3³⁴⁰ mod 341 = 56 ≠ 1, nên thử thêm cơ số 3 bắt được 341.
 
@@ -1676,7 +1693,9 @@ WITNESS(a, n)
 9  return FALSE
 ```
 
-(Dòng 1: "chọn t và u sao cho t ≥ 1, u lẻ, và n − 1 = 2ᵗu".) WITNESS tính a^(n−1) mod n bằng cách trước hết tính x₀ = aᵘ mod n ở dòng 2 rồi bình phương t lần liên tiếp trong vòng for dòng 3–6. Quy nạp theo i, dãy x₀, x₁, …, xₜ thỏa xᵢ ≡ a^(2ⁱu) (mod n) với i = 0, 1, …, t, nên đặc biệt xₜ ≡ a^(n−1) (mod n). Tuy nhiên sau mỗi bước bình phương ở dòng 4, vòng lặp có thể kết thúc sớm nếu dòng 5–6 phát hiện vừa tìm được một căn bậc hai không tầm thường của 1. Khi đó thuật toán dừng và trả về TRUE. Dòng 7–8 trả về TRUE nếu giá trị xₜ ≡ a^(n−1) (mod n) khác 1, giống như PSEUDOPRIME trả về COMPOSITE trong trường hợp này. Dòng 9 trả về FALSE nếu chưa trả về TRUE ở dòng 6 hoặc 8.
+(Dòng 1: "chọn t và u sao cho t ≥ 1, u lẻ, và n − 1 = 2ᵗu".) WITNESS tính a^(n−1) mod n bằng cách trước hết tính x₀ = aᵘ mod n ở dòng 2 rồi bình phương t lần liên tiếp trong vòng for dòng 3–6. Quy nạp theo i, dãy x₀, x₁, …, xₜ thỏa xᵢ ≡ a^(2ⁱu) (mod n) với i = 0, 1, …, t, nên đặc biệt xₜ ≡ a^(n−1) (mod n).
+
+Tuy nhiên sau mỗi bước bình phương ở dòng 4, vòng lặp có thể kết thúc sớm nếu dòng 5–6 phát hiện vừa tìm được một căn bậc hai không tầm thường của 1. Khi đó thuật toán dừng và trả về TRUE. Dòng 7–8 trả về TRUE nếu giá trị xₜ ≡ a^(n−1) (mod n) khác 1, giống như PSEUDOPRIME trả về COMPOSITE trong trường hợp này. Dòng 9 trả về FALSE nếu chưa trả về TRUE ở dòng 6 hoặc 8.
 
 **Nếu WITNESS(a, n) trả về TRUE thì có thể dựng chứng minh n là hợp số, dùng a làm bằng chứng:**
 - Nếu WITNESS trả về TRUE ở dòng 8, nó đã phát hiện xₜ = a^(n−1) mod n ≠ 1. Nhưng nếu n nguyên tố, định lý Fermat cho a^(n−1) ≡ 1 (mod n) với mọi a ∈ ℤₙ⁺. Vậy n không thể nguyên tố, và đẳng thức a^(n−1) mod n ≠ 1 chứng minh điều đó.
@@ -1704,7 +1723,9 @@ MILLER-RABIN(n, s)
 
 Thủ tục MILLER-RABIN là một cuộc tìm kiếm xác suất cho một chứng minh rằng n là hợp số. Vòng lặp chính (bắt đầu ở dòng 1) chọn tới s giá trị a ngẫu nhiên từ ℤₙ⁺ (dòng 2). Nếu một trong các a đã chọn là bằng chứng, MILLER-RABIN trả về COMPOSITE ở dòng 4. Kết quả này luôn đúng, nhờ tính đúng của WITNESS. Nếu MILLER-RABIN không tìm được bằng chứng nào sau s lần thử, thủ tục giả định đó là vì không có bằng chứng nào, nên giả định n nguyên tố. Kết quả này nhiều khả năng đúng nếu s đủ lớn, nhưng vẫn còn một cơ hội rất nhỏ là thủ tục xui khi chọn các a, và bằng chứng có tồn tại dù chưa tìm thấy cái nào.
 
-**Ví dụ của sách:** n = 561 (số Carmichael), n − 1 = 560 = 2⁴ · 35, t = 4, u = 35. Nếu thủ tục chọn a = 7, bảng MODULAR-EXPONENTIATION(7, 560, 561) đã chép ở Mục 7 phía trên (Hình 31.4 của sách) cho thấy WITNESS tính x₀ ≡ a³⁵ ≡ 241 (mod 561) và do đó dãy X = ⟨241, 298, 166, 67, 1⟩. Vậy WITNESS phát hiện một căn bậc hai không tầm thường của 1 ở bước bình phương cuối cùng, vì a²⁸⁰ ≡ 67 (mod n) và a⁵⁶⁰ ≡ 1 (mod n). Do đó a = 7 là bằng chứng 561 là hợp số, WITNESS(7, n) trả về TRUE, và MILLER-RABIN trả về COMPOSITE. (Đây là trường hợp 4 của dãy X với d = 67. Người tổng hợp lưu ý: PSEUDOPRIME với cơ số 7 sẽ bị lừa vì 7⁵⁶⁰ ≡ 1; chính phép kiểm tra căn bậc hai đã bắt được 561. Và gcd(67 − 1, 561) = gcd(66, 561) = 33, gcd(68, 561) = 17 — căn không tầm thường còn lộ thừa số.)
+**Ví dụ của sách:** n = 561 (số Carmichael), n − 1 = 560 = 2⁴ · 35, t = 4, u = 35. Nếu thủ tục chọn a = 7, bảng MODULAR-EXPONENTIATION(7, 560, 561) đã chép ở Mục 7 phía trên (Hình 31.4 của sách) cho thấy WITNESS tính x₀ ≡ a³⁵ ≡ 241 (mod 561) và do đó dãy X = ⟨241, 298, 166, 67, 1⟩. Vậy WITNESS phát hiện một căn bậc hai không tầm thường của 1 ở bước bình phương cuối cùng, vì a²⁸⁰ ≡ 67 (mod n) và a⁵⁶⁰ ≡ 1 (mod n).
+
+Do đó a = 7 là bằng chứng 561 là hợp số, WITNESS(7, n) trả về TRUE, và MILLER-RABIN trả về COMPOSITE. (Đây là trường hợp 4 của dãy X với d = 67. Người tổng hợp lưu ý: PSEUDOPRIME với cơ số 7 sẽ bị lừa vì 7⁵⁶⁰ ≡ 1; chính phép kiểm tra căn bậc hai đã bắt được 561. Và gcd(67 − 1, 561) = gcd(66, 561) = 33, gcd(68, 561) = 17 — căn không tầm thường còn lộ thừa số.)
 
 Ví dụ thêm (người tổng hợp), n = 13 nguyên tố, a = 5: n − 1 = 12 = 2² · 3, t = 2, u = 3. x₀ = 5³ = 125 ≡ 8 (mod 13); x₁ = 64 ≡ 12 ≡ −1; x₂ = 1. Dãy X = ⟨8, −1, 1⟩ là trường hợp 3: không phải bằng chứng, đúng vì 13 nguyên tố.
 
@@ -1891,7 +1912,7 @@ Thỉnh thoảng chương trình lưu giá trị xᵢ vừa sinh vào biến y. 
 x₁, x₂, x₄, x₈, x₁₆, …
 ```
 
-Dòng 3 lưu x₁, và dòng 12 lưu x_k mỗi khi i bằng k. Biến k được khởi tạo bằng 2 ở dòng 4, và dòng 13 nhân đôi nó mỗi khi dòng 12 cập nhật y. Vì vậy k luôn cho chỉ số của giá trị x_k kế tiếp sẽ được lưu vào y. (Sách viết "k đi theo dãy 1, 2, 4, 8, …"; chính xác hơn, biến k lần lượt là 2, 4, 8, …, còn dãy chỉ số được lưu là 1, 2, 4, 8, … — xem khối Lưu ý.)
+Dòng 3 lưu x₁, và dòng 12 lưu x_k mỗi khi i bằng k. Biến k được khởi tạo bằng 2 ở dòng 4, và dòng 13 nhân đôi nó mỗi khi dòng 12 cập nhật y. Vì vậy k luôn cho chỉ số của giá trị x_k kế tiếp sẽ được lưu vào y. (Sách viết "k đi theo dãy 1, 2, 4, 8, …"; chính xác hơn, biến k lần lượt là 2, 4, 8, …, còn dãy chỉ số được lưu là 1, 2, 4, 8, … — xem mục Lưu ý cuối chương.)
 
 Dòng 8–10 cố tìm một thừa số của n, dùng giá trị y đã lưu và giá trị hiện tại xᵢ. Cụ thể, dòng 8 tính ước chung lớn nhất d = gcd(y − xᵢ, n). Nếu dòng 9 thấy d là ước không tầm thường của n thì dòng 10 in d.
 
@@ -1939,7 +1960,9 @@ Có lẽ thừa số tìm được là p, dù đôi khi có thể tìm được 
 
 **Ví dụ của sách (Hình 31.7).** n = 1387 = 19 · 73, x₁ = 2, truy hồi xᵢ₊₁ = (xᵢ² − 1) mod 1387. Mô tả lại ba phần của hình bằng chữ:
 
-(a) Modulo 1387. Dãy: x₁ = 2, x₂ = 3, x₃ = 8, x₄ = 63, x₅ = 1194, x₆ = 1186, x₇ = 177, rồi (các giá trị chưa tới khi thủ tục dừng, vẽ bằng mũi tên nhạt) 814, 996, 310, 396, 84, 120, 529, 1053, 595, 339, rồi quay về 1186. Như vậy đuôi là 2, 3, 8, 63, 1194 và chu trình là 1186 → 177 → 814 → 996 → 310 → 396 → 84 → 120 → 529 → 1053 → 595 → 339 → 1186 (dài 12). Các giá trị được tô đậm là các giá trị y mà POLLARD-RHO lưu: x₁ = 2, x₂ = 3, x₄ = 63. Mũi tên đậm là các bước lặp được thực hiện trước khi tìm ra thừa số 19. Thừa số 19 được phát hiện khi tới x₇ = 177, lúc tính gcd(63 − 177, 1387) = 19. Giá trị x đầu tiên sẽ bị lặp lại là 1186, nhưng thừa số 19 được tìm ra trước khi giá trị này lặp lại.
+(a) Modulo 1387. Dãy: x₁ = 2, x₂ = 3, x₃ = 8, x₄ = 63, x₅ = 1194, x₆ = 1186, x₇ = 177, rồi (các giá trị chưa tới khi thủ tục dừng, vẽ bằng mũi tên nhạt) 814, 996, 310, 396, 84, 120, 529, 1053, 595, 339, rồi quay về 1186. Như vậy đuôi là 2, 3, 8, 63, 1194 và chu trình là 1186 → 177 → 814 → 996 → 310 → 396 → 84 → 120 → 529 → 1053 → 595 → 339 → 1186 (dài 12).
+
+    Các giá trị được tô đậm là các giá trị y mà POLLARD-RHO lưu: x₁ = 2, x₂ = 3, x₄ = 63. Mũi tên đậm là các bước lặp được thực hiện trước khi tìm ra thừa số 19. Thừa số 19 được phát hiện khi tới x₇ = 177, lúc tính gcd(63 − 177, 1387) = 19. Giá trị x đầu tiên sẽ bị lặp lại là 1186, nhưng thừa số 19 được tìm ra trước khi giá trị này lặp lại.
 
 (b) Cùng truy hồi modulo 19. Mỗi giá trị xᵢ ở phần (a) đồng dư modulo 19 với giá trị x′ᵢ ở đây: x′₁ = 2, x′₂ = 3, x′₃ = 8, x′₄ = 6, x′₅ = 16, x′₆ = 8, x′₇ = 6, … Đuôi là 2, 3 và chu trình là 8 → 6 → 16 → 8 (dài 3). Ví dụ x₄ = 63 và x₇ = 177 đều đồng dư 6 modulo 19 (63 = 3 · 19 + 6; 177 = 9 · 19 + 6).
 
@@ -1961,7 +1984,9 @@ Chạy tay thủ tục (người tổng hợp, kiểm tra lại toàn bộ):
 
 Lý giải bằng dãy modulo 19: y = x₄ ≡ 6 nằm trên chu trình 8 → 6 → 16 dài u = 3, và sau đúng 3 bước x₇ ≡ 6 lại đụng y modulo 19.
 
-**Hai lý do thuật toán có thể không chạy như mong đợi.** Thứ nhất, phân tích thời gian chạy theo heuristic không chặt chẽ, và có thể chu trình giá trị modulo p dài hơn nhiều so với √p. Khi đó thuật toán vẫn đúng nhưng chậm hơn mong muốn nhiều. Trong thực tế vấn đề này có vẻ không đáng kể. Thứ hai, các ước của n mà thuật toán tạo ra có thể luôn là một trong hai thừa số tầm thường 1 hoặc n. Ví dụ, giả sử n = pq với p, q nguyên tố. Có thể xảy ra là giá trị t và u của p trùng với t và u của q, và do đó thừa số p luôn lộ ra trong cùng phép gcd làm lộ q. Vì cả hai thừa số lộ ra cùng lúc, thừa số tầm thường pq = n lộ ra, vô ích. Lại nữa, vấn đề này có vẻ không đáng kể trong thực tế. Nếu cần, có thể khởi động lại heuristic với truy hồi khác dạng xᵢ₊₁ = (xᵢ² − c) mod n. (Nên tránh c = 0 và c = 2 vì những lý do sách không đi vào, các giá trị khác đều được.)
+**Hai lý do thuật toán có thể không chạy như mong đợi.** Thứ nhất, phân tích thời gian chạy theo heuristic không chặt chẽ, và có thể chu trình giá trị modulo p dài hơn nhiều so với √p. Khi đó thuật toán vẫn đúng nhưng chậm hơn mong muốn nhiều. Trong thực tế vấn đề này có vẻ không đáng kể. Thứ hai, các ước của n mà thuật toán tạo ra có thể luôn là một trong hai thừa số tầm thường 1 hoặc n. Ví dụ, giả sử n = pq với p, q nguyên tố.
+
+Có thể xảy ra là giá trị t và u của p trùng với t và u của q, và do đó thừa số p luôn lộ ra trong cùng phép gcd làm lộ q. Vì cả hai thừa số lộ ra cùng lúc, thừa số tầm thường pq = n lộ ra, vô ích. Lại nữa, vấn đề này có vẻ không đáng kể trong thực tế. Nếu cần, có thể khởi động lại heuristic với truy hồi khác dạng xᵢ₊₁ = (xᵢ² − c) mod n. (Nên tránh c = 0 và c = 2 vì những lý do sách không đi vào, các giá trị khác đều được.)
 
 Tất nhiên, phân tích này là heuristic chứ không chặt chẽ, vì truy hồi không thực sự "ngẫu nhiên". Dù vậy thủ tục chạy tốt trong thực tế, và có vẻ hiệu quả đúng như phân tích heuristic chỉ ra. Đây là phương pháp nên chọn để tìm các thừa số nguyên tố nhỏ của một số lớn. Để phân tích hết một hợp số β-bit n, chỉ cần tìm mọi thừa số nguyên tố nhỏ hơn ⌊n^(1/2)⌋, nên kỳ vọng POLLARD-RHO cần nhiều nhất n^(1/4) = 2^(β/4) phép toán số học và nhiều nhất n^(1/4)β² = 2^(β/4)β² phép toán bit. Khả năng của POLLARD-RHO tìm một thừa số nhỏ p của n với số phép toán số học kỳ vọng Θ(√p) thường là đặc điểm hấp dẫn nhất của nó.
 
@@ -2017,9 +2042,13 @@ Theo hiểu biết của người tổng hợp: rho Pollard (thường ở biế
   ```
 - **31.2-5:** Nếu a > b ≥ 0, chứng minh EUCLID(a, b) gọi đệ quy nhiều nhất 1 + log_φ b lần. Cải thiện thành 1 + log_φ(b/gcd(a, b)). *Người tổng hợp:* nếu có k ≥ 1 lần gọi thì b ≥ F_{k+1} ≥ φ^(k−1) (bất đẳng thức F_{m+2} ≥ φᵐ), nên k ≤ 1 + log_φ b. Cải thiện: các lời gọi trên (a, b) và trên (a/g, b/g), g = gcd(a, b), có cùng số bước (mọi số dư đều được chia cho g), nên áp cận cho b/g.
 - **31.2-6:** EXTENDED-EUCLID(F_{k+1}, F_k) trả về gì? Chứng minh. *Người tổng hợp:* với k ≥ 2, trả về (1, (−1)^(k+1) F_{k−2}, (−1)ᵏ F_{k−1}). Kiểm tra: k = 4 cho EXTENDED-EUCLID(5, 3) = (1, −1, 2): 5 · (−1) + 3 · 2 = 1; k = 6 cho EXTENDED-EUCLID(13, 8) = (1, −3, 5): −39 + 40 = 1. Chứng minh quy nạp: ⌊F_{k+1}/F_k⌋ = 1 (k ≥ 3), nên từ (1, x′, y′) của (F_k, F_{k−1}) được (1, y′, x′ − y′); thay x′ = (−1)ᵏF_{k−3}, y′ = (−1)^(k−1)F_{k−2} được y′ = (−1)^(k+1)F_{k−2} và x′ − y′ = (−1)ᵏ(F_{k−3} + F_{k−2}) = (−1)ᵏF_{k−1}.
-- **31.2-7:** Định nghĩa gcd của nhiều số bằng gcd(a₀, a₁, …, aₙ) = gcd(a₀, gcd(a₁, …, aₙ)). Chứng minh kết quả không phụ thuộc thứ tự đối số. Chỉ cách tìm x₀, …, xₙ với gcd(a₀, …, aₙ) = a₀x₀ + ⋯ + aₙxₙ. Chứng minh số phép chia của thuật toán là O(n + lg(max{a₀, …, aₙ})). *Người tổng hợp:* theo Hệ quả 31.3, gcd nhiều số là ước chung lớn nhất của cả tập — một khái niệm không phụ thuộc thứ tự. Hệ số: tính g₁ = gcd(aₙ₋₁, aₙ) = aₙ₋₁u + aₙv bằng EXTENDED-EUCLID, rồi g₂ = gcd(aₙ₋₂, g₁) = aₙ₋₂u′ + g₁v′, v.v., nhân dồn hệ số. Số phép chia: lời gọi thứ j tốn O(1 + log_φ(gⱼ₋₁/gⱼ)) phép chia (Exercise 31.2-5); cộng lại các log co dần còn O(lg max aᵢ), cộng thêm O(1) mỗi lời gọi cho tổng O(n + lg max aᵢ).
+- **31.2-7:** Định nghĩa gcd của nhiều số bằng gcd(a₀, a₁, …, aₙ) = gcd(a₀, gcd(a₁, …, aₙ)). Chứng minh kết quả không phụ thuộc thứ tự đối số. Chỉ cách tìm x₀, …, xₙ với gcd(a₀, …, aₙ) = a₀x₀ + ⋯ + aₙxₙ. Chứng minh số phép chia của thuật toán là O(n + lg(max{a₀, …, aₙ})). *Người tổng hợp:* theo Hệ quả 31.3, gcd nhiều số là ước chung lớn nhất của cả tập — một khái niệm không phụ thuộc thứ tự.
+
+  Hệ số: tính g₁ = gcd(aₙ₋₁, aₙ) = aₙ₋₁u + aₙv bằng EXTENDED-EUCLID, rồi g₂ = gcd(aₙ₋₂, g₁) = aₙ₋₂u′ + g₁v′, v.v., nhân dồn hệ số. Số phép chia: lời gọi thứ j tốn O(1 + log_φ(gⱼ₋₁/gⱼ)) phép chia (Exercise 31.2-5); cộng lại các log co dần còn O(lg max aᵢ), cộng thêm O(1) mỗi lời gọi cho tổng O(n + lg max aᵢ).
 - **31.2-8:** Định nghĩa lcm(a₁, …, aₙ) là **bội chung nhỏ nhất** (least common multiple) — số nguyên không âm nhỏ nhất là bội của mọi aᵢ. Chỉ cách tính hiệu quả bằng gcd hai đối số. *Người tổng hợp:* lcm(a, b) = ab/gcd(a, b) (tính a/gcd(a, b) trước rồi nhân b để số trung gian nhỏ); lcm(a₁, …, aₙ) = lcm(lcm(a₁, …, aₙ₋₁), aₙ). Ví dụ lcm(4, 6, 10) = lcm(12, 10) = 60.
-- **31.2-9:** Chứng minh n₁, n₂, n₃, n₄ đôi một nguyên tố cùng nhau khi và chỉ khi gcd(n₁n₂, n₃n₄) = gcd(n₁n₃, n₂n₄) = 1. Tổng quát: n₁, …, nₖ đôi một nguyên tố cùng nhau khi và chỉ khi một tập ⌈lg k⌉ cặp số dựng từ các nᵢ là nguyên tố cùng nhau. *Người tổng hợp:* một số nguyên tố p chia hết hai số nᵢ, nⱼ khác nhau sẽ làm hỏng một trong hai gcd (cặp {1,2} vs {3,4} tách (i, j) nếu chúng khác nhóm; nếu cùng nhóm thì cặp {1,3} vs {2,4} tách chúng); chiều ngược dùng Định lý 31.6. Tổng quát: với mỗi vị trí bit b = 0, …, ⌈lg k⌉ − 1, lấy tích các nᵢ có bit b của (i − 1) bằng 0 và tích các nᵢ có bit đó bằng 1; hai chỉ số khác nhau luôn khác nhau ở ít nhất một bit nên bị tách ở một cặp nào đó.
+- **31.2-9:** Chứng minh n₁, n₂, n₃, n₄ đôi một nguyên tố cùng nhau khi và chỉ khi gcd(n₁n₂, n₃n₄) = gcd(n₁n₃, n₂n₄) = 1. Tổng quát: n₁, …, nₖ đôi một nguyên tố cùng nhau khi và chỉ khi một tập ⌈lg k⌉ cặp số dựng từ các nᵢ là nguyên tố cùng nhau. *Người tổng hợp:* một số nguyên tố p chia hết hai số nᵢ, nⱼ khác nhau sẽ làm hỏng một trong hai gcd (cặp {1,2} vs {3,4} tách (i, j) nếu chúng khác nhóm; nếu cùng nhóm thì cặp {1,3} vs {2,4} tách chúng); chiều ngược dùng Định lý 31.6.
+
+  Tổng quát: với mỗi vị trí bit b = 0, …, ⌈lg k⌉ − 1, lấy tích các nᵢ có bit b của (i − 1) bằng 0 và tích các nᵢ có bit đó bằng 1; hai chỉ số khác nhau luôn khác nhau ở ít nhất một bit nên bị tách ở một cặp nào đó.
 
 ### Bài tập Mục 31.3 (trang 946)
 
@@ -2050,7 +2079,9 @@ Theo hiểu biết của người tổng hợp: rho Pollard (thường ở biế
 - **31.4-1:** Tìm mọi nghiệm của 35x ≡ 10 (mod 50). *Lời giải của người tổng hợp:* EXTENDED-EUCLID(35, 50) = (5, 3, −2) (35 · 3 − 50 · 2 = 5). d = 5 chia hết 10. x₀ = 3 · (10/5) mod 50 = 6. Các nghiệm cách nhau 50/5 = 10: 6, 16, 26, 36, 46. Kiểm tra: 35 · 6 = 210 = 4 · 50 + 10.
 - **31.4-2:** Chứng minh ax ≡ ay (mod n) kéo theo x ≡ y (mod n) khi gcd(a, n) = 1. Chỉ ra điều kiện gcd(a, n) = 1 là cần bằng một phản ví dụ với gcd(a, n) > 1. *Người tổng hợp:* n | a(x − y) và gcd(a, n) = 1 nên n | (x − y) (Hệ quả 31.5). Phản ví dụ: 2 · 1 ≡ 2 · 3 (mod 4) nhưng 1 ≢ 3 (mod 4).
 - **31.4-3:** Thay dòng 3 của MODULAR-LINEAR-EQUATION-SOLVER bằng x₀ = x′(b/d) mod (n/d). Có chạy đúng không? *Người tổng hợp:* đúng. Giá trị mới chênh với x′(b/d) một bội của n/d, mà theo Định lý 31.24 cộng bội của n/d vào một nghiệm vẫn được nghiệm; x₀ mới nằm trong [0, n/d), nên các giá trị x₀ + i(n/d), i = 0, …, d − 1, nằm trong [0, n) và phân biệt — vẫn là đủ d nghiệm (thậm chí in theo thứ tự tăng, không cần "mod n" ở dòng 5).
-- **31.4-4 ★:** Cho p nguyên tố và f(x) ≡ f₀ + f₁x + ⋯ + fₜxᵗ (mod p) là đa thức bậc t, hệ số thuộc ℤₚ. a ∈ ℤₚ là **nghiệm** (zero) của f nếu f(a) ≡ 0 (mod p). Chứng minh nếu a là nghiệm thì f(x) ≡ (x − a)g(x) (mod p) với đa thức g bậc t − 1. Chứng minh bằng quy nạp theo t rằng đa thức bậc t có nhiều nhất t nghiệm phân biệt modulo p. *Người tổng hợp:* f(x) − f(a) = Σ fᵢ(xⁱ − aⁱ), và mỗi xⁱ − aⁱ = (x − a)(x^(i−1) + ⋯ + a^(i−1)), nên f(x) ≡ f(x) − f(a) = (x − a)g(x). Quy nạp: nếu b ≠ a cũng là nghiệm thì (b − a)g(b) ≡ 0, mà p nguyên tố và p ∤ (b − a) nên g(b) ≡ 0 (Định lý 31.7); g bậc t − 1 có ≤ t − 1 nghiệm, nên f có ≤ t nghiệm. (Kết quả này dùng trong Problem 31-4(b). Với p không nguyên tố thì sai: x² − 1 có 4 nghiệm modulo 8.)
+- **31.4-4 ★:** Cho p nguyên tố và f(x) ≡ f₀ + f₁x + ⋯ + fₜxᵗ (mod p) là đa thức bậc t, hệ số thuộc ℤₚ. a ∈ ℤₚ là **nghiệm** (zero) của f nếu f(a) ≡ 0 (mod p). Chứng minh nếu a là nghiệm thì f(x) ≡ (x − a)g(x) (mod p) với đa thức g bậc t − 1. Chứng minh bằng quy nạp theo t rằng đa thức bậc t có nhiều nhất t nghiệm phân biệt modulo p.
+
+  *Người tổng hợp:* f(x) − f(a) = Σ fᵢ(xⁱ − aⁱ), và mỗi xⁱ − aⁱ = (x − a)(x^(i−1) + ⋯ + a^(i−1)), nên f(x) ≡ f(x) − f(a) = (x − a)g(x). Quy nạp: nếu b ≠ a cũng là nghiệm thì (b − a)g(b) ≡ 0, mà p nguyên tố và p ∤ (b − a) nên g(b) ≡ 0 (Định lý 31.7); g bậc t − 1 có ≤ t − 1 nghiệm, nên f có ≤ t nghiệm. (Kết quả này dùng trong Problem 31-4(b). Với p không nguyên tố thì sai: x² − 1 có 4 nghiệm modulo 8.)
 
 ### Bài tập Mục 31.5 (trang 953–954)
 
@@ -2088,8 +2119,12 @@ Theo hiểu biết của người tổng hợp: rho Pollard (thường ở biế
 ### Bài tập Mục 31.7 (trang 964–965)
 
 - **31.7-1:** Xét bộ khóa RSA p = 11, q = 29, n = 319, e = 3. Khóa bí mật dùng d bằng bao nhiêu? Mã hóa M = 100 được gì? *Người tổng hợp:* φ(n) = 280, d = 3⁻¹ mod 280 = 187 (3 · 187 = 561 = 2 · 280 + 1). Bản mã: 100³ mod 319 = 254 (chi tiết ở ví dụ chạy tay trong Mục 8 của phần Nội dung chi tiết). Giải mã 254¹⁸⁷ mod 319 = 100.
-- **31.7-2:** Chứng minh nếu số mũ công khai của Alice là e = 3 và đối thủ biết số mũ bí mật d, với 0 < d < φ(n), thì đối thủ phân tích được n trong thời gian đa thức theo số bit của n. (Sách nói thêm, không yêu cầu chứng minh: kết quả vẫn đúng khi bỏ điều kiện e = 3 — xem Miller.) *Người tổng hợp:* 3d − 1 = kφ(n) với k nguyên dương; vì 0 < d < φ(n) nên 3d − 1 < 3φ(n), suy ra k ∈ {1, 2}. Thử cả hai: φ = (3d − 1)/k. Khi biết φ(n) = n − (p + q) + 1, có p + q = n − φ(n) + 1 và pq = n; p, q là nghiệm của z² − (p + q)z + n = 0, giải bằng căn bậc hai nguyên (tìm nhị phân), đa thức theo số bit. Ví dụ với 31.7-1: 3 · 187 − 1 = 560 = 2 · 280, k = 2; p + q = 319 − 280 + 1 = 40; z² − 40z + 319 = 0 cho z = 11, 29.
-- **31.7-3 ★:** Chứng minh RSA có tính nhân: P_A(M₁)P_A(M₂) ≡ P_A(M₁M₂) (mod n). Dùng điều này chứng minh nếu đối thủ có thủ tục giải mã hiệu quả 1% thông điệp thuộc ℤₙ được mã hóa bằng P_A, thì đối thủ có thể dùng một thuật toán xác suất để giải mã mọi thông điệp mã hóa bằng P_A với xác suất cao. *Người tổng hợp:* M₁ᵉM₂ᵉ = (M₁M₂)ᵉ. Để giải mã C bất kỳ: chọn r ngẫu nhiên đều trong ℤₙ*, tính C′ = C · rᵉ mod n = P_A(M · r) — một bản mã phân bố đều (vì M·r đều khi r đều), nên thủ tục giải được với xác suất ≥ 1%; nếu được M′ = M·r thì M = M′ · r⁻¹ mod n. Kiểm tra đáp án bằng cách mã hóa lại (M)ᵉ mod n = C. Lặp tối đa khoảng 100 · ln(1/δ) lần để sai với xác suất ≤ δ (ví dụ khoảng 460 lần cho δ = 1%, vì 0,99⁴⁶⁰ ≈ 0,0098). Đây là ý tưởng "tự quy dẫn ngẫu nhiên" (random self-reducibility) — theo hiểu biết của người tổng hợp.
+- **31.7-2:** Chứng minh nếu số mũ công khai của Alice là e = 3 và đối thủ biết số mũ bí mật d, với 0 < d < φ(n), thì đối thủ phân tích được n trong thời gian đa thức theo số bit của n. (Sách nói thêm, không yêu cầu chứng minh: kết quả vẫn đúng khi bỏ điều kiện e = 3 — xem Miller.) *Người tổng hợp:* 3d − 1 = kφ(n) với k nguyên dương; vì 0 < d < φ(n) nên 3d − 1 < 3φ(n), suy ra k ∈ {1, 2}.
+
+  Thử cả hai: φ = (3d − 1)/k. Khi biết φ(n) = n − (p + q) + 1, có p + q = n − φ(n) + 1 và pq = n; p, q là nghiệm của z² − (p + q)z + n = 0, giải bằng căn bậc hai nguyên (tìm nhị phân), đa thức theo số bit. Ví dụ với 31.7-1: 3 · 187 − 1 = 560 = 2 · 280, k = 2; p + q = 319 − 280 + 1 = 40; z² − 40z + 319 = 0 cho z = 11, 29.
+- **31.7-3 ★:** Chứng minh RSA có tính nhân: P_A(M₁)P_A(M₂) ≡ P_A(M₁M₂) (mod n). Dùng điều này chứng minh nếu đối thủ có thủ tục giải mã hiệu quả 1% thông điệp thuộc ℤₙ được mã hóa bằng P_A, thì đối thủ có thể dùng một thuật toán xác suất để giải mã mọi thông điệp mã hóa bằng P_A với xác suất cao. *Người tổng hợp:* M₁ᵉM₂ᵉ = (M₁M₂)ᵉ.
+
+  Để giải mã C bất kỳ: chọn r ngẫu nhiên đều trong ℤₙ*, tính C′ = C · rᵉ mod n = P_A(M · r) — một bản mã phân bố đều (vì M·r đều khi r đều), nên thủ tục giải được với xác suất ≥ 1%; nếu được M′ = M·r thì M = M′ · r⁻¹ mod n. Kiểm tra đáp án bằng cách mã hóa lại (M)ᵉ mod n = C. Lặp tối đa khoảng 100 · ln(1/δ) lần để sai với xác suất ≤ δ (ví dụ khoảng 460 lần cho δ = 1%, vì 0,99⁴⁶⁰ ≈ 0,0098). Đây là ý tưởng "tự quy dẫn ngẫu nhiên" (random self-reducibility) — theo hiểu biết của người tổng hợp.
 
 ### Bài tập Mục 31.8 (trang 975)
 
@@ -2099,15 +2134,21 @@ Theo hiểu biết của người tổng hợp: rho Pollard (thường ở biế
   ```text
   λ(n) = lcm(φ(p₁^e₁), …, φ(pᵣ^eᵣ))                                   (31.42)
   ```
-  Chứng minh λ(n) | φ(n). Một hợp số n là số Carmichael nếu λ(n) | n − 1. Số Carmichael nhỏ nhất là 561 = 3 · 11 · 17; ở đây λ(n) = lcm(2, 10, 16) = 80, chia hết 560. Chứng minh số Carmichael phải vừa "không chính phương" (không chia hết cho bình phương của số nguyên tố nào) vừa là tích của ít nhất ba số nguyên tố. (Vì lý do này chúng không phổ biến.) *Người tổng hợp:* φ(n) = Π φ(pᵢ^eᵢ) là bội chung của các φ(pᵢ^eᵢ), nên bội chung nhỏ nhất λ(n) chia hết nó. Không chính phương: nếu p² | n thì p | φ(p^e) | λ(n) | n − 1, mà p | n — vô lý. Ít nhất ba thừa số: nếu n = pq với p < q thì q − 1 | n − 1 = pq − 1 = p(q − 1) + (p − 1), nên q − 1 | p − 1, vô lý vì 0 < p − 1 < q − 1. Kiểm tra 561: 560/2 = 280, 560/10 = 56, 560/16 = 35.
+  Chứng minh λ(n) | φ(n). Một hợp số n là số Carmichael nếu λ(n) | n − 1. Số Carmichael nhỏ nhất là 561 = 3 · 11 · 17; ở đây λ(n) = lcm(2, 10, 16) = 80, chia hết 560. Chứng minh số Carmichael phải vừa "không chính phương" (không chia hết cho bình phương của số nguyên tố nào) vừa là tích của ít nhất ba số nguyên tố. (Vì lý do này chúng không phổ biến.) *Người tổng hợp:* φ(n) = Π φ(pᵢ^eᵢ) là bội chung của các φ(pᵢ^eᵢ), nên bội chung nhỏ nhất λ(n) chia hết nó.
+
+  Không chính phương: nếu p² | n thì p | φ(p^e) | λ(n) | n − 1, mà p | n — vô lý. Ít nhất ba thừa số: nếu n = pq với p < q thì q − 1 | n − 1 = pq − 1 = p(q − 1) + (p − 1), nên q − 1 | p − 1, vô lý vì 0 < p − 1 < q − 1. Kiểm tra 561: 560/2 = 280, 560/10 = 56, 560/16 = 35.
 - **31.8-3:** Chứng minh nếu x là căn bậc hai không tầm thường của 1 modulo n thì gcd(x − 1, n) và gcd(x + 1, n) đều là ước không tầm thường của n. *Người tổng hợp:* n | (x − 1)(x + 1) nhưng n ∤ (x − 1) và n ∤ (x + 1). Nếu gcd(x − 1, n) = 1 thì theo Hệ quả 31.5 n | x + 1 — vô lý; nếu gcd(x − 1, n) = n thì n | x − 1 — vô lý. Tương tự cho x + 1. Ví dụ x = 6, n = 35: gcd(5, 35) = 5, gcd(7, 35) = 7. Với x = 67, n = 561: 33 và 17.
 
 ### Bài tập Mục 31.9 (trang 980)
 
 - **31.9-1:** Với ví dụ n = 1387, x₁ = 2 (Hình 31.7(a) của sách; dãy giá trị đã chép ở Mục 10 phần Nội dung chi tiết), khi nào POLLARD-RHO in thừa số 73 của 1387? *Lời giải của người tổng hợp:* sau khi in 19 ở i = 7, thủ tục chạy tiếp: i = 8 lưu y = x₈ = 814 (k = 16). Ở i = 11, x₁₁ = 396, gcd(814 − 396, 1387) = gcd(418, 1387) = 19 (in lại 19). Ở **i = 12**, x₁₂ = 84, gcd(814 − 84, 1387) = gcd(730, 1387) = **73** — lần đầu in 73. Lý giải: modulo 73, x₈ ≡ 11 và x₁₂ ≡ 11 (chu trình 18 → 31 → 11 → 47 dài 4).
-- **31.9-2:** Cho hàm f : ℤₙ → ℤₙ và giá trị đầu x₀ ∈ ℤₙ. Định nghĩa xᵢ = f(xᵢ₋₁) với i = 1, 2, …. Gọi t và u > 0 là các giá trị nhỏ nhất sao cho x_{t+i} = x_{t+u+i} với i = 0, 1, …. Theo thuật ngữ rho, t là độ dài đuôi và u là độ dài chu trình. Cho thuật toán hiệu quả xác định chính xác t và u, và phân tích thời gian. *Người tổng hợp:* thuật toán "rùa và thỏ" của Floyd: rùa đi 1 bước, thỏ đi 2 bước cho tới khi gặp (sau O(t + u) bước); tìm t: đặt rùa về x₀, cả hai đi 1 bước cho tới khi gặp — số bước là t; tìm u: từ điểm gặp, đi tiếp tới khi quay lại — số bước là u. Thời gian Θ(t + u) lần tính f, bộ nhớ O(1). (Biến thể Brent dùng lũy thừa của 2 — giống cách POLLARD-RHO lưu y.)
+- **31.9-2:** Cho hàm f : ℤₙ → ℤₙ và giá trị đầu x₀ ∈ ℤₙ. Định nghĩa xᵢ = f(xᵢ₋₁) với i = 1, 2, …. Gọi t và u > 0 là các giá trị nhỏ nhất sao cho x_{t+i} = x_{t+u+i} với i = 0, 1, …. Theo thuật ngữ rho, t là độ dài đuôi và u là độ dài chu trình. Cho thuật toán hiệu quả xác định chính xác t và u, và phân tích thời gian.
+
+  *Người tổng hợp:* thuật toán "rùa và thỏ" của Floyd: rùa đi 1 bước, thỏ đi 2 bước cho tới khi gặp (sau O(t + u) bước); tìm t: đặt rùa về x₀, cả hai đi 1 bước cho tới khi gặp — số bước là t; tìm u: từ điểm gặp, đi tiếp tới khi quay lại — số bước là u. Thời gian Θ(t + u) lần tính f, bộ nhớ O(1). (Biến thể Brent dùng lũy thừa của 2 — giống cách POLLARD-RHO lưu y.)
 - **31.9-3:** POLLARD-RHO cần khoảng bao nhiêu bước để phát hiện một thừa số dạng pᵉ, p nguyên tố, e > 1? *Người tổng hợp:* phân tích của sách áp dụng với "thừa số" p′ = pᵉ thỏa gcd(p′, n/p′) = 1, cho kỳ vọng Θ(√(pᵉ)) bước để dãy modulo pᵉ lặp. Nhưng va chạm modulo p (kỳ vọng Θ(√p) bước) thường xảy ra trước, khi đó gcd tìm được thường chỉ là p hoặc một lũy thừa nhỏ hơn của p; để có đủ pᵉ có thể chia dần n cho p. Như vậy phát hiện p mất Θ(√p), còn chờ đúng pᵉ lộ ra trong một gcd mất Θ(√(pᵉ)) = Θ(p^(e/2)).
-- **31.9-4 ★:** Nhược điểm của POLLARD-RHO như đã viết là cần một phép gcd cho mỗi bước truy hồi. Thay vào đó có thể gom các phép gcd: tích lũy tích của nhiều giá trị (y − xᵢ) liên tiếp rồi dùng tích đó trong phép gcd. Mô tả cẩn thận cách cài đặt, vì sao đúng, và chọn cỡ lô nào hiệu quả nhất với số n β-bit. *Người tổng hợp:* giữ Q = Π (y − xᵢ) mod n qua B bước, rồi tính gcd(Q, n). Đúng vì p | (y − xᵢ) với một i nào đó trong lô kéo theo p | Q (và p | n), nên gcd(Q, n) > 1. Rủi ro: tích có thể chứa đủ mọi thừa số làm gcd = n; khi đó quay lại đầu lô (lưu trạng thái x, y đầu lô) và tính gcd từng bước. Cỡ lô: chi phí một gcd theo cách tính của chương là O(β) phép chia (O(β³) phép toán bit, hoặc O(β²) theo Problem 31-2), còn một phép nhân modulo là O(β²) phép toán bit; chọn B sao cho chi phí gcd chia đều không còn chiếm ưu thế — cỡ B ≈ β (hoặc vài chục tới vài trăm trong thực hành); B quá lớn làm tăng xác suất phải quay lui và lãng phí bước sau khi đã có va chạm.
+- **31.9-4 ★:** Nhược điểm của POLLARD-RHO như đã viết là cần một phép gcd cho mỗi bước truy hồi. Thay vào đó có thể gom các phép gcd: tích lũy tích của nhiều giá trị (y − xᵢ) liên tiếp rồi dùng tích đó trong phép gcd. Mô tả cẩn thận cách cài đặt, vì sao đúng, và chọn cỡ lô nào hiệu quả nhất với số n β-bit. *Người tổng hợp:* giữ Q = Π (y − xᵢ) mod n qua B bước, rồi tính gcd(Q, n). Đúng vì p | (y − xᵢ) với một i nào đó trong lô kéo theo p | Q (và p | n), nên gcd(Q, n) > 1.
+
+  Rủi ro: tích có thể chứa đủ mọi thừa số làm gcd = n; khi đó quay lại đầu lô (lưu trạng thái x, y đầu lô) và tính gcd từng bước. Cỡ lô: chi phí một gcd theo cách tính của chương là O(β) phép chia (O(β³) phép toán bit, hoặc O(β²) theo Problem 31-2), còn một phép nhân modulo là O(β²) phép toán bit; chọn B sao cho chi phí gcd chia đều không còn chiếm ưu thế — cỡ B ≈ β (hoặc vài chục tới vài trăm trong thực hành); B quá lớn làm tăng xác suất phải quay lui và lãng phí bước sau khi đã có va chạm.
 
 ### Problem 31-1: Thuật toán gcd nhị phân (Binary gcd algorithm)
 
@@ -2153,10 +2194,12 @@ So sánh hiệu quả ba cách tính số Fibonacci thứ n, Fₙ, cho n. Giả 
 
 ### Problem 31-4: Thặng dư bậc hai (Quadratic residues)
 
-Cho p là số nguyên tố lẻ. Số a ∈ ℤₚ* là **thặng dư bậc hai** (quadratic residue) nếu phương trình x² ≡ a (mod p) có nghiệm x (sách in "=" thay cho "≡", xem khối Lưu ý).
+Cho p là số nguyên tố lẻ. Số a ∈ ℤₚ* là **thặng dư bậc hai** (quadratic residue) nếu phương trình x² ≡ a (mod p) có nghiệm x (sách in "=" thay cho "≡", xem mục Lưu ý cuối chương).
 
 - **(a)** Chứng minh có đúng (p − 1)/2 thặng dư bậc hai modulo p. (*Người tổng hợp:* ánh xạ x ↦ x² trên ℤₚ* là "hai-đối-một": x² ≡ y² ⇔ p | (x − y)(x + y) ⇔ x ≡ ±y (Định lý 31.7), và x ≢ −x vì p lẻ. Ví dụ p = 7: bình phương của 1..6 là 1, 4, 2, 2, 4, 1 → thặng dư {1, 2, 4}, đúng (7 − 1)/2 = 3 số.)
-- **(b)** Nếu p nguyên tố, định nghĩa **ký hiệu Legendre** (Legendre symbol) (a/p), với a ∈ ℤₚ*, bằng 1 nếu a là thặng dư bậc hai modulo p và −1 nếu không. Chứng minh nếu a ∈ ℤₚ* thì (a/p) ≡ a^((p−1)/2) (mod p). Cho thuật toán hiệu quả xác định một số a cho trước có phải thặng dư bậc hai modulo p không, và phân tích hiệu quả. (*Người tổng hợp:* đặt y = a^((p−1)/2); y² = a^(p−1) ≡ 1 nên y ≡ ±1 (Định lý 31.34). Nếu a = x² thì y = x^(p−1) ≡ 1. Đa thức z^((p−1)/2) − 1 có nhiều nhất (p − 1)/2 nghiệm (Exercise 31.4-4), mà (p − 1)/2 thặng dư đều là nghiệm, nên mọi phi thặng dư cho y ≡ −1. Thuật toán: một lần MODULAR-EXPONENTIATION, O(β) phép toán số học, O(β³) phép toán bit. Ví dụ p = 7, a = 3: 3³ = 27 ≡ 6 ≡ −1, nên 3 không là thặng dư — khớp với (a).)
+- **(b)** Nếu p nguyên tố, định nghĩa **ký hiệu Legendre** (Legendre symbol) (a/p), với a ∈ ℤₚ*, bằng 1 nếu a là thặng dư bậc hai modulo p và −1 nếu không. Chứng minh nếu a ∈ ℤₚ* thì (a/p) ≡ a^((p−1)/2) (mod p). Cho thuật toán hiệu quả xác định một số a cho trước có phải thặng dư bậc hai modulo p không, và phân tích hiệu quả.
+
+  (*Người tổng hợp:* đặt y = a^((p−1)/2); y² = a^(p−1) ≡ 1 nên y ≡ ±1 (Định lý 31.34). Nếu a = x² thì y = x^(p−1) ≡ 1. Đa thức z^((p−1)/2) − 1 có nhiều nhất (p − 1)/2 nghiệm (Exercise 31.4-4), mà (p − 1)/2 thặng dư đều là nghiệm, nên mọi phi thặng dư cho y ≡ −1. Thuật toán: một lần MODULAR-EXPONENTIATION, O(β) phép toán số học, O(β³) phép toán bit. Ví dụ p = 7, a = 3: 3³ = 27 ≡ 6 ≡ −1, nên 3 không là thặng dư — khớp với (a).)
 - **(c)** Chứng minh nếu p là số nguyên tố dạng 4k + 3 và a là thặng dư bậc hai trong ℤₚ* thì a^(k+1) mod p là một căn bậc hai của a modulo p. Cần bao nhiêu thời gian để tìm căn bậc hai của một thặng dư bậc hai a modulo p? (*Người tổng hợp:* (a^(k+1))² = a^(2k+2) = a^((p+1)/2) = a · a^((p−1)/2) ≡ a · 1 = a. Thời gian: một lũy thừa modulo, O(β³) phép toán bit. Ví dụ p = 7 = 4 · 1 + 3, a = 2: 2² = 4, và 4² = 16 ≡ 2.)
 - **(d)** Mô tả thuật toán ngẫu nhiên hiệu quả tìm một phi thặng dư bậc hai modulo một số nguyên tố p bất kỳ, tức một phần tử của ℤₚ* không phải thặng dư bậc hai. Thuật toán cần trung bình bao nhiêu phép toán số học? (*Người tổng hợp:* chọn a ngẫu nhiên đều trong ℤₚ*, kiểm tra bằng (b); theo (a) xác suất thành công mỗi lần là 1/2, số lần thử kỳ vọng 2, mỗi lần O(β) phép toán số học — tổng kỳ vọng O(β) = O(lg p).)
 
@@ -2165,10 +2208,16 @@ Cho p là số nguyên tố lẻ. Số a ∈ ℤₚ* là **thặng dư bậc hai
 - **Tài liệu nền.** Niven và Zuckerman là phần nhập môn tuyệt vời về lý thuyết số sơ cấp. Knuth có thảo luận tốt về các thuật toán tìm ước chung lớn nhất và các thuật toán số học cơ bản khác. Bach và Riesel cho các khảo sát gần đây hơn về lý thuyết số tính toán. Dixon cho tổng quan về phân tích thừa số và thử nguyên tố. Kỷ yếu hội nghị do Pomerance biên tập có nhiều bài khảo sát xuất sắc. Gần đây hơn, Bach và Shallit cho tổng quan đặc biệt về nền tảng của lý thuyết số tính toán.
 - **Nguồn gốc thuật toán Euclid.** Knuth bàn về nguồn gốc thuật toán Euclid. Nó xuất hiện trong Sách 7, Mệnh đề 1 và 2, của bộ *Cơ sở* (Elements) của nhà toán học Hy Lạp Euclid, viết khoảng 300 TCN. Mô tả của Euclid có thể lấy từ một thuật toán của Eudoxus khoảng 375 TCN. Thuật toán Euclid có thể giữ danh hiệu thuật toán không tầm thường cổ nhất; chỉ có một thuật toán nhân mà người Ai Cập cổ biết là sánh được. Shallit ghi lại lịch sử phân tích thuật toán Euclid.
 - **Định lý số dư Trung Hoa.** Knuth gán một trường hợp đặc biệt của định lý (Định lý 31.27) cho nhà toán học Trung Hoa Tôn Tử, sống đâu đó giữa 200 TCN và 200 SCN — niên đại rất không chắc chắn. Cùng trường hợp đặc biệt đó được nhà toán học Hy Lạp Nichomachus (Nicomachus) nêu khoảng năm 100 SCN. Nó được Chhin Chiu-Shao (Tần Cửu Thiều) tổng quát hóa năm 1247. Định lý cuối cùng được phát biểu và chứng minh tổng quát đầy đủ bởi L. Euler năm 1734.
-- **Thử nguyên tố.** Thuật toán thử nguyên tố ngẫu nhiên trình bày ở đây là của Miller và Rabin; đó là thuật toán thử nguyên tố ngẫu nhiên nhanh nhất được biết, tới một hằng số. Chứng minh Định lý 31.39 là một sửa đổi nhỏ của chứng minh do Bach đề xuất. Monier chứng minh một kết quả mạnh hơn cho MILLER-RABIN. Nhiều năm, thử nguyên tố là ví dụ kinh điển của bài toán mà sự ngẫu nhiên có vẻ cần thiết để có thuật toán hiệu quả (thời gian đa thức). Nhưng năm 2002, Agrawal, Kayal và Saxena (sách in "Saxema") làm mọi người bất ngờ với thuật toán thử nguyên tố tất định thời gian đa thức. Trước đó, thuật toán thử nguyên tố tất định nhanh nhất được biết, của Cohen và Lenstra, chạy trong thời gian (lg n)^O(lg lg lg n) trên đầu vào n — chỉ hơi siêu đa thức. Dù vậy, cho mục đích thực tế, các thuật toán thử nguyên tố ngẫu nhiên vẫn hiệu quả hơn và được ưa dùng.
+- **Thử nguyên tố.** Thuật toán thử nguyên tố ngẫu nhiên trình bày ở đây là của Miller và Rabin; đó là thuật toán thử nguyên tố ngẫu nhiên nhanh nhất được biết, tới một hằng số. Chứng minh Định lý 31.39 là một sửa đổi nhỏ của chứng minh do Bach đề xuất. Monier chứng minh một kết quả mạnh hơn cho MILLER-RABIN. Nhiều năm, thử nguyên tố là ví dụ kinh điển của bài toán mà sự ngẫu nhiên có vẻ cần thiết để có thuật toán hiệu quả (thời gian đa thức).
+
+  Nhưng năm 2002, Agrawal, Kayal và Saxena (sách in "Saxema") làm mọi người bất ngờ với thuật toán thử nguyên tố tất định thời gian đa thức. Trước đó, thuật toán thử nguyên tố tất định nhanh nhất được biết, của Cohen và Lenstra, chạy trong thời gian (lg n)^O(lg lg lg n) trên đầu vào n — chỉ hơi siêu đa thức. Dù vậy, cho mục đích thực tế, các thuật toán thử nguyên tố ngẫu nhiên vẫn hiệu quả hơn và được ưa dùng.
 - **Tìm số nguyên tố lớn ngẫu nhiên** được bàn kỹ trong bài báo của Beauchemin, Brassard, Crépeau, Goutier và Pomerance.
-- **Mật mã khóa công khai.** Khái niệm hệ mật mã khóa công khai là của Diffie và Hellman. Hệ RSA được Rivest, Shamir và Adleman đề xuất năm 1977. Từ đó ngành mật mã nở rộ. Hiểu biết về RSA sâu hơn, và các cài đặt hiện đại dùng những cải tiến đáng kể của các kỹ thuật cơ bản trình bày ở đây. Thêm vào đó, nhiều kỹ thuật mới được phát triển để chứng minh hệ mật mã an toàn. Ví dụ, Goldwasser và Micali chỉ ra ngẫu nhiên có thể là công cụ hiệu quả trong thiết kế lược đồ mã hóa khóa công khai an toàn. Về lược đồ chữ ký, Goldwasser, Micali và Rivest trình bày một lược đồ chữ ký số mà mọi kiểu giả mạo có thể nghĩ ra đều được chứng minh khó như phân tích thừa số. Menezes, van Oorschot và Vanstone cho tổng quan về mật mã ứng dụng.
-- **Phân tích thừa số.** Heuristic rho cho phân tích thừa số do Pollard phát minh. Phiên bản trình bày ở đây là một biến thể do Brent đề xuất. Các thuật toán tốt nhất để phân tích số lớn có thời gian chạy tăng xấp xỉ hàm mũ theo căn bậc ba của độ dài số n cần phân tích. Thuật toán sàng trường số tổng quát (general number-field sieve) (do Buhler, Lenstra và Pomerance phát triển như mở rộng của ý tưởng sàng trường số của Pollard và Lenstra cùng cộng sự, được Coppersmith và những người khác tinh chỉnh) có lẽ là thuật toán hiệu quả nhất nói chung cho đầu vào lớn. Dù khó phân tích chặt chẽ thuật toán này, với các giả định hợp lý có thể ước lượng thời gian chạy L(1/3, n)^(1,902+o(1)), với L(α, n) = e^((ln n)^α (ln ln n)^(1−α)). Phương pháp đường cong elliptic (elliptic-curve method) của Lenstra có thể hiệu quả hơn sàng trường số với một số đầu vào, vì như rho của Pollard, nó tìm được thừa số nguyên tố nhỏ p khá nhanh. Với phương pháp này, thời gian tìm p ước lượng là L(1/2, p)^(√2+o(1)).
+- **Mật mã khóa công khai.** Khái niệm hệ mật mã khóa công khai là của Diffie và Hellman. Hệ RSA được Rivest, Shamir và Adleman đề xuất năm 1977. Từ đó ngành mật mã nở rộ. Hiểu biết về RSA sâu hơn, và các cài đặt hiện đại dùng những cải tiến đáng kể của các kỹ thuật cơ bản trình bày ở đây. Thêm vào đó, nhiều kỹ thuật mới được phát triển để chứng minh hệ mật mã an toàn.
+
+  Ví dụ, Goldwasser và Micali chỉ ra ngẫu nhiên có thể là công cụ hiệu quả trong thiết kế lược đồ mã hóa khóa công khai an toàn. Về lược đồ chữ ký, Goldwasser, Micali và Rivest trình bày một lược đồ chữ ký số mà mọi kiểu giả mạo có thể nghĩ ra đều được chứng minh khó như phân tích thừa số. Menezes, van Oorschot và Vanstone cho tổng quan về mật mã ứng dụng.
+- **Phân tích thừa số.** Heuristic rho cho phân tích thừa số do Pollard phát minh. Phiên bản trình bày ở đây là một biến thể do Brent đề xuất. Các thuật toán tốt nhất để phân tích số lớn có thời gian chạy tăng xấp xỉ hàm mũ theo căn bậc ba của độ dài số n cần phân tích. Thuật toán sàng trường số tổng quát (general number-field sieve) (do Buhler, Lenstra và Pomerance phát triển như mở rộng của ý tưởng sàng trường số của Pollard và Lenstra cùng cộng sự, được Coppersmith và những người khác tinh chỉnh) có lẽ là thuật toán hiệu quả nhất nói chung cho đầu vào lớn.
+
+  Dù khó phân tích chặt chẽ thuật toán này, với các giả định hợp lý có thể ước lượng thời gian chạy L(1/3, n)^(1,902+o(1)), với L(α, n) = e^((ln n)^α (ln ln n)^(1−α)). Phương pháp đường cong elliptic (elliptic-curve method) của Lenstra có thể hiệu quả hơn sàng trường số với một số đầu vào, vì như rho của Pollard, nó tìm được thừa số nguyên tố nhỏ p khá nhanh. Với phương pháp này, thời gian tìm p ước lượng là L(1/2, p)^(√2+o(1)).
 
   Giải thích ký hiệu L (người tổng hợp): L(α, n) nội suy giữa đa thức và hàm mũ theo độ dài lg n: α = 0 cho e^(ln ln n) = ln n (đa thức theo độ dài), α = 1 cho e^(ln n) = n (hàm mũ theo độ dài). Sàng trường số với α = 1/3 vì vậy là "dưới hàm mũ" — nhanh hơn hẳn rho Pollard (n^(1/4)), nhưng vẫn không đa thức.
 
@@ -2350,12 +2399,14 @@ Hai phân tích "đẹp" của chương: định lý Lamé cho cận chặt (đ�
 - **Mô hình chi phí Θ(β²) cho phép nhân đã cũ:** sách nhắc phương pháp nhanh nhất là Θ(β lg β lg lg β) (Schönhage–Strassen); theo hiểu biết của người tổng hợp, năm 2019 Harvey và van der Hoeven đạt O(β lg β). Tuy vậy với cỡ khóa RSA (vài nghìn bit), Karatsuba và cách viết tay vẫn thống trị thực tế, đúng như sách nói.
 - **RSA được trình bày ở dạng "sách giáo khoa" (textbook RSA):** không có đệm ngẫu nhiên, tất định, có tính nhân. Sách có nhắc trong Ghi chú chương rằng cài đặt hiện đại dùng "những cải tiến đáng kể" và nhắc Goldwasser–Micali, nhưng không cảnh báo trực tiếp rằng dùng nguyên văn công thức (31.37) là không an toàn (ví dụ thông điệp nhỏ với e = 3 có Mᵉ < n thì lấy căn bậc ba thường là giải được — theo hiểu biết của người tổng hợp).
 - **Mục 31.9 chỉ là heuristic:** cả thời gian lẫn sự thành công của rho Pollard không được chứng minh; các thuật toán phân tích thực sự mạnh (sàng bậc hai, sàng trường số, đường cong elliptic) chỉ được nhắc tên trong Ghi chú chương.
-- **Số liệu thời sự đã cũ:** "RSA moduli … 768 to 2048 bits" (2009) và "after two decades of research" (thực ra hơn ba thập kỷ — xem khối Lưu ý). Theo hiểu biết của người tổng hợp, RSA-768 được phân tích công khai cuối năm 2009 và RSA-250 (829 bit) năm 2020; khuyến nghị hiện nay tối thiểu 2048 bit.
+- **Số liệu thời sự đã cũ:** "RSA moduli … 768 to 2048 bits" (2009) và "after two decades of research" (thực ra hơn ba thập kỷ — xem mục Lưu ý cuối chương). Theo hiểu biết của người tổng hợp, RSA-768 được phân tích công khai cuối năm 2009 và RSA-250 (829 bit) năm 2020; khuyến nghị hiện nay tối thiểu 2048 bit.
 - **Không nhắc tới máy tính lượng tử:** theo hiểu biết của người tổng hợp, thuật toán Shor (1994) phân tích thừa số và tính logarit rời rạc trong thời gian đa thức trên máy tính lượng tử, nên toàn bộ "khoảng cách dễ/khó" mà chương dựa vào chỉ đúng với máy tính cổ điển; đây là động lực của mật mã hậu lượng tử hiện nay.
 
 ### So với cách làm thực tế
 
-Theo hiểu biết của người tổng hợp: thư viện mật mã thực tế dùng đúng các thủ tục của chương nhưng với nhiều tinh chỉnh: lũy thừa modulo dùng cửa sổ trượt và phép nhân Montgomery, viết theo kiểu thời gian hằng để chống tấn công kênh kề; giải mã RSA dùng định lý số dư Trung Hoa (nhanh khoảng 4 lần); sinh số nguyên tố dùng sàng các số nguyên tố nhỏ rồi Miller-Rabin (và thường thêm phép thử Lucas mạnh — tổ hợp "Baillie–PSW" chưa có phản ví dụ được biết); RSA luôn đi kèm đệm OAEP (mã hóa) hoặc PSS (chữ ký) và chế độ lai với AES; khóa công khai được phân phối qua hạ tầng chứng chỉ X.509 — chính ý "certificate" và "trusted authority" của sách. Trong trao đổi khóa, đường cong elliptic đã thay RSA vì khóa ngắn hơn nhiều với cùng độ an toàn.
+Theo hiểu biết của người tổng hợp: thư viện mật mã thực tế dùng đúng các thủ tục của chương nhưng với nhiều tinh chỉnh: lũy thừa modulo dùng cửa sổ trượt và phép nhân Montgomery, viết theo kiểu thời gian hằng để chống tấn công kênh kề; giải mã RSA dùng định lý số dư Trung Hoa (nhanh khoảng 4 lần); sinh số nguyên tố dùng sàng các số nguyên tố nhỏ rồi Miller-Rabin (và thường thêm phép thử Lucas mạnh — tổ hợp "Baillie–PSW" chưa có phản ví dụ được biết); RSA luôn đi kèm đệm OAEP (mã hóa) hoặc PSS (chữ ký) và chế độ lai với AES; khóa công khai được phân phối qua hạ tầng chứng chỉ X.509 — chính ý "certificate" và "trusted authority" của sách.
+
+Trong trao đổi khóa, đường cong elliptic đã thay RSA vì khóa ngắn hơn nhiều với cùng độ an toàn.
 
 ### Liên hệ các chương khác
 
@@ -2373,3 +2424,166 @@ Theo hiểu biết của người tổng hợp: thư viện mật mã thực t�
 - **Phỏng vấn:** viết gcd đệ quy và lặp, giải thích vì sao O(log); tính lũy thừa nhanh (`pow(x, n)` với n âm, lũy thừa modulo); tìm nghịch đảo modulo; giải thích ý tưởng RSA và chữ ký số ở mức khái niệm; câu hỏi "kiểm tra số nguyên tố" — chia thử tới √n cho số nhỏ, Miller-Rabin cho số lớn.
 - **Lập trình thi đấu:** đây là "bộ đồ nghề" chuẩn: Euclid mở rộng, nghịch đảo modulo 10⁹ + 7 bằng định lý Fermat (a^(p−2)), định lý số dư Trung Hoa (kể cả bản tổng quát khi modulus không nguyên tố cùng nhau), Miller-Rabin tất định cho số 64 bit (với một tập cơ số cố định — theo hiểu biết của người tổng hợp, 12 số nguyên tố đầu đủ cho mọi n < 3,3 · 10²⁴), rho Pollard để phân tích số tới 10¹⁸, lũy thừa ma trận cho truy hồi tuyến tính (Problem 31-3(c)).
 - **Kỹ thuật phần mềm:** không tự cài mật mã; dùng thư viện đã kiểm định. Nhưng hiểu chương này giúp đọc đúng các lựa chọn cấu hình (độ dài khóa, số vòng Miller-Rabin, vì sao cần đệm, vì sao giải mã RSA chậm hơn mã hóa nhiều: e nhỏ còn d cỡ n), và giúp tránh lỗi tràn số khi nhân modulo (luôn lấy mod sau mỗi phép nhân, dùng số 128 bit hoặc nhân Montgomery khi modulus gần 2⁶⁴).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 31 trên một trang: sáu nhánh lớn theo phần mở đầu, chín mục 31.1–★31.9 (gộp thành năm nhóm) và các bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, định lý, thủ tục kèm chi phí và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 31: với số lớn chi phí đo theo số bit, gcd, nghịch đảo, lũy thừa, thử nguyên tố thì nhanh, phân tích thừa số thì chưa, và RSA dựa trên khoảng cách đó`"]
+  n1["`Phần mở đầu và Mục 31.1 — Chi phí theo bit và khái niệm cơ bản`"]
+  n0 --- n1
+  n2["`Lý thuyết số từng bị coi là vô dụng, nay là nền của mật mã vì tìm số nguyên tố lớn thì dễ, phân tích tích của chúng thì khó`"]
+  n1 --- n2
+  n3["`Đầu vào lớn là đầu vào chứa số lớn, thuật toán đa thức phải chạy đa thức theo số bit β`"]
+  n1 --- n3
+  n4["`Nhân hai số β bit kiểu thông thường tốn Θ(β²) phép toán bit, sách dùng mức này làm cơ sở phân tích`"]
+  n1 --- n4
+  n5["`Định lý 31.1 (phép chia): a = qn + r với 0 ≤ r nhỏ hơn n, r = a mod n`"]
+  n1 --- n5
+  n6["`Định lý 31.2: gcd(a, b) là tổ hợp tuyến tính dương nhỏ nhất ax + by`"]
+  n1 --- n6
+  n7["`Định lý 31.8: mọi hợp số phân tích duy nhất ra thừa số nguyên tố, ví dụ 6000 = 2⁴ · 3 · 5³`"]
+  n1 --- n7
+  n8["`Mục 31.2 — Thuật toán Euclid`"]
+  n0 --- n8
+  n9["`Định lý 31.9: gcd(a, b) = gcd(b, a mod b), ví dụ EUCLID(30, 21) qua ba lần gọi đệ quy ra 3`"]
+  n8 --- n9
+  n10["`Định lý 31.11 (Lamé): đầu vào xấu nhất là hai số Fibonacci liên tiếp, số lần gọi O(lg b)`"]
+  n8 --- n10
+  n11["`Với hai số β bit: O(β) phép toán số học, O(β³) phép toán bit`"]
+  n8 --- n11
+  n12["`EXTENDED-EUCLID trả thêm x, y với d = ax + by, ví dụ (99, 78) cho 3 = 99·(−11) + 78·14`"]
+  n8 --- n12
+  n13["`Mục 31.3–31.5 — Số học modulo, phương trình đồng dư, định lý số dư Trung Hoa`"]
+  n0 --- n13
+  n14["`Số học modulo đặt vào khuôn lý thuyết nhóm`"]
+  n13 --- n14
+  n15["`Nhóm cộng modulo n và nhóm nhân modulo n gồm các số nguyên tố cùng nhau với n`"]
+  n14 --- n15
+  n16["`Hàm phi Euler φ(n) là số phần tử của nhóm nhân modulo n, ví dụ φ(45) = 24, φ(p) = p − 1`"]
+  n14 --- n16
+  n17["`Định lý Lagrange: cỡ nhóm con chia hết cỡ nhóm, nhóm con thực sự có tối đa một nửa số phần tử`"]
+  n14 --- n17
+  n18["`Phương trình ax ≡ b (mod n)`"]
+  n13 --- n18
+  n19["`Có nghiệm khi và chỉ khi d = gcd(a, n) chia hết b, khi đó có đúng d nghiệm cách nhau n/d`"]
+  n18 --- n19
+  n20["`Ví dụ 14x ≡ 30 (mod 100) có hai nghiệm 95 và 45`"]
+  n18 --- n20
+  n21["`Nghịch đảo modulo là trường hợp b = 1, chính là x mà EXTENDED-EUCLID trả về`"]
+  n18 --- n21
+  n22["`Định lý số dư Trung Hoa`"]
+  n13 --- n22
+  n23["`Với các nᵢ đôi một nguyên tố cùng nhau, ℤₙ tương ứng một–một với tích các ℤₙᵢ, tính độc lập trên từng thành phần`"]
+  n22 --- n23
+  n24["`Đi ngược bằng công thức a ≡ Σ aᵢcᵢ, ví dụ a ≡ 2 (mod 5) và a ≡ 3 (mod 13) cho a ≡ 42 (mod 65)`"]
+  n22 --- n24
+  n25["`Mục 31.6–31.7 — Lũy thừa modulo và hệ mật mã RSA`"]
+  n0 --- n25
+  n26["`Định lý Euler a^φ(n) ≡ 1 và định lý Fermat a^(p−1) ≡ 1 (mod p)`"]
+  n25 --- n26
+  n27["`Căn nguyên thủy sinh cả nhóm nhân modulo n, ví dụ 3 modulo 7, logarit rời rạc là số mũ ngược lại`"]
+  n25 --- n27
+  n28["`Hệ quả 31.35: có căn bậc hai không tầm thường của 1 modulo n thì n là hợp số, ví dụ 6 modulo 35`"]
+  n25 --- n28
+  n29["`MODULAR-EXPONENTIATION bình phương lặp theo từng bit của số mũ, O(β) phép nhân`"]
+  n25 --- n29
+  n30["`Khóa công khai và khóa bí mật là hai hoán vị ngược nhau, dùng cho mã hóa và chữ ký số`"]
+  n25 --- n30
+  n31["`Tạo khóa RSA`"]
+  n25 --- n31
+  n32["`Chọn hai số nguyên tố lớn p, q, n = pq, e nguyên tố cùng nhau với (p − 1)(q − 1)`"]
+  n31 --- n32
+  n33["`d = e⁻¹ mod φ(n), mã hóa Mᵉ mod n, giải mã Cᵈ mod n`"]
+  n31 --- n33
+  n34["`Định lý 31.36: giải mã đúng nhờ định lý Fermat và định lý số dư Trung Hoa`"]
+  n25 --- n34
+  n35["`Phân tích được n thì phá được RSA, chiều ngược lại chưa được chứng minh, thực tế dùng chế độ lai và hàm băm`"]
+  n25 --- n35
+  n36["`Mục ★31.8–★31.9 — Thử nguyên tố và phân tích thừa số`"]
+  n0 --- n36
+  n37["`Định lý số nguyên tố: π(n) xấp xỉ n/ln n, nên số 1024 bit cần khoảng 710 lần thử ngẫu nhiên`"]
+  n36 --- n37
+  n38["`Chia thử tốn Θ(√n), tức hàm mũ theo số bit`"]
+  n36 --- n38
+  n39["`Phép thử giả nguyên tố cơ số 2 chỉ sai 22 số dưới 10.000, nhưng bó tay trước số Carmichael như 561`"]
+  n36 --- n39
+  n40["`Miller-Rabin`"]
+  n36 --- n40
+  n41["`WITNESS thử cơ số ngẫu nhiên và tìm căn bậc hai không tầm thường của 1, ví dụ 7 chứng minh 561 là hợp số`"]
+  n40 --- n41
+  n42["`Định lý 31.38: mọi hợp số lẻ có ít nhất (n − 1)/2 bằng chứng`"]
+  n40 --- n42
+  n43["`Định lý 31.39: xác suất sai tối đa 2⁻ˢ với s lần thử, O(sβ) phép toán số học`"]
+  n40 --- n43
+  n44["`Heuristic rho của Pollard`"]
+  n36 --- n44
+  n45["`Dãy xᵢ = (xᵢ₋₁² − 1) mod n lặp lại theo hình chữ ρ, tìm thừa số p sau kỳ vọng Θ(√p) bước nhờ nghịch lý ngày sinh`"]
+  n44 --- n45
+  n46["`Ví dụ n = 1387 = 19 · 73 tìm ra thừa số 19 tại x₇ = 177, chỉ dùng hằng số ô nhớ`"]
+  n44 --- n46
+  n47["`Bài toán cuối chương và ghi chú chương`"]
+  n0 --- n47
+  n48["`31-1 gcd nhị phân chỉ dùng phép trừ, kiểm tra chẵn lẻ và chia đôi, chạy O(lg a)`"]
+  n47 --- n48
+  n49["`31-2 Đếm kỹ phép toán bit cho thấy Euclid chỉ tốn O(β²)`"]
+  n47 --- n49
+  n50["`31-3 Ba cách tính số Fibonacci: đệ quy thẳng hàm mũ, ghi nhớ O(n), lũy thừa ma trận O(lg n)`"]
+  n47 --- n50
+  n51["`31-4 Thặng dư bậc hai: ký hiệu Legendre và căn bậc hai modulo p = 4k + 3`"]
+  n47 --- n51
+  n52["`Ghi chú: thuật toán Euclid có từ khoảng 300 TCN, có lẽ là thuật toán không tầm thường cổ nhất`"]
+  n47 --- n52
+  n53["`Ghi chú: năm 2002 Agrawal, Kayal, Saxena tìm ra phép thử nguyên tố tất định đa thức AKS`"]
+  n47 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Kích thước đầu vào của bài toán số học là số bit, không phải giá trị`"]
+  n54 --- n55
+  n56["`Lý thuyết nhóm cho khuôn chung để chứng minh mọi thuật toán của chương`"]
+  n54 --- n56
+  n57["`Ngẫu nhiên hoá cho phép thử nguyên tố nhanh với xác suất sai nhỏ tuỳ ý`"]
+  n54 --- n57
+  n58["`Khoảng cách giữa thử nguyên tố dễ và phân tích thừa số khó chính là nền an toàn của RSA`"]
+  n54 --- n58
+  class n0 root
+  class n1,n8,n13,n25,n36,n47,n54 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 31 "Number-Theoretic Algorithms", trang 926–984.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS. Riêng chương này có thêm một sắc thái: Ronald L. Rivest là chữ "R" trong RSA, hệ mật mã mà Mục 31.7 trình bày.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) cho ký hiệu a mod n, phép đồng dư a ≡ b (mod n), các số Fibonacci Fₖ và tỉ số vàng φ — chương này dùng cả ba (Fibonacci là đầu vào xấu nhất của thuật toán Euclid). Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) cho bộ sinh RANDOM, ý tưởng thuật toán ngẫu nhiên và nghịch lý ngày sinh (Mục 5.4.1) — Mục 31.8 dùng RANDOM cho phép thử Miller-Rabin, Mục 31.9 dùng nghịch lý ngày sinh để ước lượng thời gian của heuristic rho Pollard. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) cho kỹ thuật ghi nhớ (memoization) dùng trong Problem 31-3.
+
+Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) mở Phần VII "Selected Topics" — các chủ đề chọn lọc, mỗi chương gần như độc lập. Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) và Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)) cũng thuộc "đại số tính toán": Chương 30 dùng số học modulo và phần tử sinh (căn nguyên thủy của đơn vị) cho FFT, và nhân hai số nguyên lớn nhanh là một ứng dụng của FFT mà phần mở đầu chương này nhắc tới.
+
+Chương 31 dựng nền số học (chia hết, ước chung lớn nhất, đồng dư, nhóm hữu hạn), rồi dùng nền đó cho bốn thuật toán: Euclid mở rộng, giải phương trình đồng dư tuyến tính, lũy thừa modulo bằng bình phương lặp, và phép thử nguyên tố Miller-Rabin; tất cả hội tụ vào hệ mật mã khóa công khai RSA.
+
+Chương 32 ([C32-so-khop-chuoi.md](C32-so-khop-chuoi.md)) dùng ngay số học modulo cho thuật toán Rabin-Karp (băm chuỗi theo modulo một số nguyên tố). Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) bàn về lớp P và NP; bài toán phân tích thừa số (Mục 31.9) là ví dụ kinh điển của bài toán chưa biết có thuật toán thời gian đa thức nhưng cũng không được biết là NP-đầy đủ. Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md)) cho phép thử Bernoulli, phân phối hình học và định lý Bayes mà Mục 31.8 dùng để ước lượng số lần thử khi tìm số nguyên tố lớn và để diễn giải kết quả của Miller-Rabin.
+
+## Lưu ý
+
+- **Hai mục có dấu sao (★) trong chương:** Mục 31.8 "Primality testing" và Mục 31.9 "Integer factorization". Các bài tập có dấu sao: Exercise 31.1-11, 31.4-4, 31.7-3, 31.8-2, 31.9-4. Không có Problem nào mang dấu sao.
+- **Lớp chữ PDF hỏng gần như mọi ký hiệu toán của chương:** β thành `ˇ`, Θ thành `‚`, φ (hàm phi) và π (hàm đếm số nguyên tố) mất hẳn (ví dụ `.n/D n` là `φ(n) = n`, `.10/D 4` là `π(10) = 4`), dấu ≡ mất (ví dụ `ax b. mod n/` là `ax ≡ b (mod n)`), ≤ và ≥ mất, ⟨a⟩ thành `hai`, ℤₙ* thành `Zn` (không phân biệt được với ℤₙ), chỉ số trên dưới dính nhau (`pe11 pe22` là `p₁^e₁ p₂^e₂`, `x2i /NUL1` là `x²ᵢ₋₁`), dấu ⊕ thành `˚`, σ (chữ ký số) mất hẳn, các bảng của Hình 31.2, 31.3 và hình rho (Hình 31.7) vỡ thành chuỗi số rời. Mọi pseudocode (EUCLID, EXTENDED-EUCLID, MODULAR-LINEAR-EQUATION-SOLVER, MODULAR-EXPONENTIATION, PSEUDOPRIME, WITNESS, MILLER-RABIN, POLLARD-RHO), mọi công thức (31.1)–(31.44), các Hình 31.1–31.7 và tất cả định lý, hệ quả trong bản tổng hợp này được đọc lại từ ảnh của toàn bộ 59 trang 926–984.
+- **Chỗ sách viết chưa chặt hoặc có lỗi nhỏ (nhận xét của người tổng hợp):**
+  - Mục 31.9, trang 977: sách viết "k follows the sequence 1, 2, 4, 8, …", nhưng dòng 4 của POLLARD-RHO khởi tạo k = 2, nên giá trị của biến k thực ra là 2, 4, 8, 16, …; dãy 1, 2, 4, 8, … là dãy CHỈ SỐ của các giá trị được lưu vào y (x₁ được lưu ở dòng 3, trước khi có k).
+  - Ghi chú chương, trang 983: tên đồng tác giả thuật toán AKS bị in là "Saxema"; đúng là Nitin **Saxena** (theo hiểu biết của người tổng hợp).
+  - Problem 31-4, trang 982: phương trình định nghĩa thặng dư bậc hai in là "x² = a (mod p)" — đúng ra phải là dấu đồng dư "≡"; câu (b) lặp lại giả thiết "If p is prime" dù p đã được cho là số nguyên tố lẻ.
+  - Mục 31.7, trang 963: câu "After two decades of research, however, no easier method has been found to break the RSA public-key cryptosystem" — RSA ra đời năm 1977, nên tới ấn bản 2009 đã hơn ba thập kỷ; câu này nhiều khả năng giữ nguyên từ ấn bản 1990 hoặc 2001.
+  - Mục 31.5 mở đầu nói Tôn Tử (Sun-Tsŭ) giải bài toán "khoảng năm 100 sau Công nguyên", còn Ghi chú chương lại nói ông sống "trong khoảng 200 TCN tới 200 SCN — niên đại rất không chắc chắn". Hai câu không mâu thuẫn hẳn nhưng nên hiểu năm 100 chỉ là ước đoán.
+- **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đều đúng:** gcd(30, 21) = 3 qua ba lần gọi đệ quy; bảng EXTENDED-EUCLID(99, 78) cho (3, −11, 14) (Hình 31.1); bảng nhân của ℤ₁₅* (Hình 31.2(b)); φ(45) = 24; 5⁻¹ ≡ 9 (mod 11), 7⁻¹ ≡ 13 (mod 15), 4/7 ≡ 7 (mod 15); 14x ≡ 30 (mod 100) có hai nghiệm 95 và 45; bảng định lý số dư Trung Hoa mod 65 (Hình 31.3) và a ≡ 42 (mod 65); bảng lũy thừa của 3 và 2 modulo 7; bảng MODULAR-EXPONENTIATION(7, 560, 561) (Hình 31.4); 6 là căn bậc hai không tầm thường của 1 modulo 35; dãy WITNESS(7, 561) = ⟨241, 298, 166, 67, 1⟩; 22 giả nguyên tố cơ số 2 nhỏ hơn 10.000, bốn số đầu 341, 561, 645, 1105; ln 2¹⁰²⁴ ≈ 709,8 ≈ 710; λ(561) = lcm(2, 10, 16) = 80; dãy rho modulo 1387, 19, 73 (Hình 31.7) và thừa số 19 tìm được ở x₇ = 177. Các đáp số bài tập do người tổng hợp đưa ra (ví dụ EXTENDED-EUCLID(899, 493) = (29, −6, 11); khóa RSA d = 187 và bản mã 254 ở Exercise 31.7-1; thừa số 73 được in ở bước i = 12 ở Exercise 31.9-1) cũng đã được tính lại.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương vẫn là Chương 31 "Number-Theoretic Algorithms" với cùng mạch nội dung (Euclid, số học modulo, định lý số dư Trung Hoa, lũy thừa, RSA, Miller-Rabin). Người tổng hợp nhớ rằng ấn bản 4 cập nhật lời văn về độ dài khóa RSA và về các thuật toán nhân số nguyên nhanh, nhưng không nhớ chắc chi tiết nào khác (ví dụ Mục 31.9 có được giữ nguyên hay không), nên không liệt kê.

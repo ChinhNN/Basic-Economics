@@ -1,22 +1,16 @@
 # Chương 28 — Các phép toán ma trận (Matrix Operations)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 28 "Matrix Operations", trang 813–842 (phần mở đầu, Mục 28.1–28.3, Problems, Chapter notes).
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Phụ lục D ([PD-ma-tran.md](PD-ma-tran.md)) ôn các khái niệm ma trận mà chương này dùng liên tục: hạng, ma trận không suy biến, định thức, ma trận hoán vị, ma trận xác định dương (Định lý D.1, D.6, các Exercise D.1-2, D.1-4, D.2-6…). Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) đưa ra thuật toán Strassen nhân hai ma trận n × n trong O(n^(lg 7)) ≈ O(n^2,81) và định lý thợ; chương này chứng minh rằng mọi tăng tốc cho phép nhân ma trận cũng là tăng tốc cho phép nghịch đảo ma trận (Định lý 28.2), và dùng trường hợp 3 của định lý thợ để giải truy hồi. Chương 7 ([C07-quicksort.md](C07-quicksort.md)), Problem 7-4, giới thiệu ý tưởng thay đệ quy đuôi bằng vòng lặp — đúng phép biến đổi dùng để viết LU-DECOMPOSITION. Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)) dùng phép "nhân ma trận" để tính đường đi ngắn nhất và bao đóng bắc cầu, mà Exercise 28.2-4 nối lại với phép nhân ma trận bun. Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) mở Phần VII và có bản đa luồng của phép nhân ma trận. Chương 29 ([C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)) tiếp tục chủ đề hệ ràng buộc tuyến tính, nhưng là bất đẳng thức và tối ưu hoá. Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)) giải bài toán nội suy đa thức — họ hàng của bài toán khớp đường cong ở Mục 28.3 và Problem 28-2.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **cách đúng để giải hệ phương trình tuyến tính Ax = b gồm n phương trình n ẩn là phân rã ma trận một lần thành PA = LU (P hoán vị, L tam giác dưới đơn vị, U tam giác trên) trong Θ(n³), rồi giải hai hệ tam giác bằng phép thế tiến và phép thế lùi trong Θ(n²) cho mỗi vế phải b; cách này ổn định số học hơn và nhanh hơn việc tính A⁻¹ rồi nhân; về mặt lý thuyết, nghịch đảo ma trận và nhân ma trận khó ngang nhau; và ma trận đối xứng xác định dương là lớp ma trận "dễ chịu" — phân rã LU không bao giờ chia cho 0 — đồng thời chính là ma trận xuất hiện khi khớp đường cong theo bình phương tối thiểu.** Phần mở đầu nêu ba mục và cảnh báo về ổn định số học (sai số làm tròn của số dấu phẩy động có thể bị khuếch đại). Mục 28.1: viết hệ thành Ax = b; nếu A không suy biến thì nghiệm duy nhất là x = A⁻¹b; phân rã LUP PA = LU biến Ax = b thành Ly = Pb (phép thế tiến) và Ux = y (phép thế lùi), thủ tục LUP-SOLVE chạy Θ(n²); phân rã LU tính bằng khử Gauss viết dưới dạng đệ quy với phần bù Schur A′ − vwᵀ/a₁₁, thủ tục LU-DECOMPOSITION chạy Θ(n³) nhưng hỏng khi gặp phần tử trụ bằng 0; LUP-DECOMPOSITION chọn phần tử có trị tuyệt đối lớn nhất trong cột làm trụ, đổi hàng, ghi hoán vị vào mảng π, tính L và U ngay trong A, vẫn Θ(n³). Mục 28.2: từ phân rã LUP tính được A⁻¹ trong Θ(n³) bằng cách giải n hệ AXᵢ = eᵢ; Định lý 28.1 (nhân không khó hơn nghịch đảo) dùng ma trận 3n × 3n; Định lý 28.2 (nghịch đảo không khó hơn nhân) chia đôi ma trận đối xứng xác định dương thành bốn khối và dùng phần bù Schur, cho truy hồi I(n) ≤ 2I(n/2) + 4M(n/2) + O(n²) = O(M(n)), rồi mở rộng cho ma trận bất kỳ nhờ A⁻¹ = (AᵀA)⁻¹Aᵀ. Mục 28.3: ma trận xác định dương thì không suy biến (Bổ đề 28.3); mọi ma trận con chính đầu của ma trận đối xứng xác định dương cũng đối xứng xác định dương (Bổ đề 28.4); phần bù Schur của nó cũng vậy (Bổ đề 28.5); do đó mọi phần tử trụ của phân rã LU đều dương (Hệ quả 28.6); ứng dụng: khớp m điểm dữ liệu bằng tổ hợp tuyến tính của n hàm cơ sở, cực tiểu chuẩn của vectơ sai số dẫn tới phương trình chuẩn AᵀAc = Aᵀy, nghiệm c = A⁺y với A⁺ = (AᵀA)⁻¹Aᵀ là giả nghịch đảo; ví dụ khớp parabol qua 5 điểm cho F(x) = 1,200 − 0,757x + 0,214x².
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong chương này.** Chỉ một bài tập có dấu sao: Exercise 28.2-6 (tổng quát hoá thuật toán nghịch đảo của Định lý 28.2 cho ma trận số phức, dùng chuyển vị liên hợp và ma trận Hermite). Hai bài toán cuối chương (28-1, 28-2) không có dấu sao.
-> - **Chương này nằm trong Phần VII "Selected Topics"; lời giới thiệu Phần VII được tổng hợp trong file Chương 27** ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)), chương đầu tiên của phần đó, nên file này không có khối giới thiệu Phần.
-> - **Lớp chữ PDF hỏng gần như toàn bộ ký hiệu toán:** dấu ngoặc ma trận thành `˙ … /BEL` hoặc `/NUL … ` (ví dụ ma trận A của ví dụ LUP-SOLVE bị trích thành `/NUL 120 344 563`), dấu trừ và số mũ −1 thành `/NUL` (A⁻¹ thành `A/NUL1`), Θ thành `‚`, chữ Hy Lạp v (nu) trong vectơ cột v và π (mảng hoán vị) mất hẳn (`Œi` là π[i], dòng 13 của LUP-DECOMPOSITION bị trích thành "exchange Œk with Œk 0"), η (vectơ sai số) mất hẳn, ≤ ≥ ≠ ∞ mất, chữ z trong Bổ đề 28.5 bị trích thành `´`. Các ma trận trong Hình 28.1 và Hình 28.2 bị trích thành dãy số dính liền ("61 351 9" là hàng 6 13 5 19). Mọi pseudocode, công thức (28.1)–(28.23), Hình 28.1, 28.2, 28.3 và các ma trận trong bài tập ở bản tổng hợp này được đọc lại từ ảnh trang 814, 816–826, 829–831, 833–842.
-> - **Chỗ sách viết chưa chặt hoặc có lỗi in (nhận xét của người tổng hợp):**
->   - Trang 827, câu cuối đoạn mở Mục 28.2: "a set of a linear equations" — thừa chữ "a" (đúng là "a set of linear equations").
->   - Hình 28.2(c) in phần tử ở hàng 3, cột 4 là "–.2", trong khi các hình (d)–(i) in cùng phần tử đó là "–0.2". Chỉ là khác cách in, giá trị như nhau.
->   - Trang 830, truy hồi trong chứng minh Định lý 28.2 viết "2I(n/2) + 4M(n/2) + O(n²) = 2I(n/2) + Θ(M(n))". Từ giả thiết M(n/2) ≤ cM(n) với c < 1/2 ta chỉ suy ra được 4M(n/2) + O(n²) = O(M(n)), tức một cận trên; viết Θ là mạnh hơn mức chứng minh được (dù không ảnh hưởng kết luận I(n) = O(M(n))). Ngoài ra, việc áp dụng định lý thợ (vốn phát biểu cho đẳng thức) cho một bất đẳng thức cần thêm một câu lập luận đơn điệu mà sách bỏ qua.
->   - Trang 823, định nghĩa vectơ v = (a₂₁, a₃₁, …, aₙ₁)ᵀ "ngoại trừ a₁₁ thay cho aₖ₁": đúng, nhưng viết rất gọn; ý là sau khi đổi hàng 1 với hàng k, phần còn lại của cột đầu gồm các aᵢ₁ với i ≠ 1, i ≠ k, cộng thêm a₁₁ nằm ở vị trí cũ của aₖ₁.
->   - Trang 839, sách khuyên giải phương trình chuẩn (28.19) bằng phân rã LU của AᵀA. Theo hiểu biết của người tổng hợp, trong tính toán số thực tế người ta tránh lập AᵀA (vì nó bình phương số điều kiện của A) và dùng phân rã QR hoặc SVD; sách không nhắc điều này dù đã nêu vấn đề ổn định số học ở phần mở đầu.
-> - **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** ví dụ LUP-SOLVE với A = (1 2 0; 3 4 4; 5 6 3), b = (3, 7, 8)ᵀ cho y = (8; 1,4; 1,5) và x = (−1,4; 2,2; 0,6); phân rã LU của ma trận 4 × 4 ở Hình 28.1; phân rã LUP của ma trận 4 × 4 ở Hình 28.2 (từng bước (a)–(j)); ma trận D⁻¹ trong chứng minh Định lý 28.1; giả nghịch đảo A⁺ và vectơ hệ số c = (1,200; −0,757; 0,214) ở ví dụ bình phương tối thiểu (giá trị chính xác c = (6/5, −53/70, 3/14), sách làm tròn đúng tới 3 chữ số). Người tổng hợp còn tự giải các bài 28.1-1, 28.1-2, 28.1-3, 28.3-6 và Problem 28-1(a)–(c) và kiểm tra lại bằng phép nhân ngược.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương "Matrix Operations" vẫn là Chương 28 với cùng ba mục (hệ phương trình tuyến tính bằng LUP, nghịch đảo ma trận, ma trận đối xứng xác định dương và bình phương tối thiểu). Ấn bản 4 bỏ các thuộc tính kiểu `A.rows` và truyền kích thước n trực tiếp làm tham số của thủ tục. Các thay đổi chi tiết hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **cách đúng để giải hệ phương trình tuyến tính Ax = b gồm n phương trình n ẩn là phân rã ma trận một lần thành PA = LU (P hoán vị, L tam giác dưới đơn vị, U tam giác trên) trong Θ(n³), rồi giải hai hệ tam giác bằng phép thế tiến và phép thế lùi trong Θ(n²) cho mỗi vế phải b; cách này ổn định số học hơn và nhanh hơn việc tính A⁻¹ rồi nhân; về mặt lý thuyết, nghịch đảo ma trận và nhân ma trận khó ngang nhau; và ma trận đối xứng xác định dương là lớp ma trận "dễ chịu" — phân rã LU không bao giờ chia cho 0 — đồng thời chính là ma trận xuất hiện khi khớp đường cong theo bình phương tối thiểu.**
+
+Phần mở đầu nêu ba mục và cảnh báo về ổn định số học (sai số làm tròn của số dấu phẩy động có thể bị khuếch đại).
+
+Mục 28.1: viết hệ thành Ax = b; nếu A không suy biến thì nghiệm duy nhất là x = A⁻¹b; phân rã LUP PA = LU biến Ax = b thành Ly = Pb (phép thế tiến) và Ux = y (phép thế lùi), thủ tục LUP-SOLVE chạy Θ(n²); phân rã LU tính bằng khử Gauss viết dưới dạng đệ quy với phần bù Schur A′ − vwᵀ/a₁₁, thủ tục LU-DECOMPOSITION chạy Θ(n³) nhưng hỏng khi gặp phần tử trụ bằng 0; LUP-DECOMPOSITION chọn phần tử có trị tuyệt đối lớn nhất trong cột làm trụ, đổi hàng, ghi hoán vị vào mảng π, tính L và U ngay trong A, vẫn Θ(n³).
+
+Mục 28.2: từ phân rã LUP tính được A⁻¹ trong Θ(n³) bằng cách giải n hệ AXᵢ = eᵢ; Định lý 28.1 (nhân không khó hơn nghịch đảo) dùng ma trận 3n × 3n; Định lý 28.2 (nghịch đảo không khó hơn nhân) chia đôi ma trận đối xứng xác định dương thành bốn khối và dùng phần bù Schur, cho truy hồi I(n) ≤ 2I(n/2) + 4M(n/2) + O(n²) = O(M(n)), rồi mở rộng cho ma trận bất kỳ nhờ A⁻¹ = (AᵀA)⁻¹Aᵀ.
+
+Mục 28.3: ma trận xác định dương thì không suy biến (Bổ đề 28.3); mọi ma trận con chính đầu của ma trận đối xứng xác định dương cũng đối xứng xác định dương (Bổ đề 28.4); phần bù Schur của nó cũng vậy (Bổ đề 28.5); do đó mọi phần tử trụ của phân rã LU đều dương (Hệ quả 28.6); ứng dụng: khớp m điểm dữ liệu bằng tổ hợp tuyến tính của n hàm cơ sở, cực tiểu chuẩn của vectơ sai số dẫn tới phương trình chuẩn AᵀAc = Aᵀy, nghiệm c = A⁺y với A⁺ = (AᵀA)⁻¹Aᵀ là giả nghịch đảo; ví dụ khớp parabol qua 5 điểm cho F(x) = 1,200 − 0,757x + 0,214x².
 
 ## Sơ đồ
 
@@ -246,9 +240,15 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm thế nào giải hệ n phương trình tuyến tính n ẩn Ax = b một cách hiệu quả và ổn định?** Không tính A⁻¹. Thay vào đó, tìm phân rã LUP: PA = LU với P là ma trận hoán vị (lưu gọn bằng mảng π), L tam giác dưới đơn vị, U tam giác trên. Khi đó Ax = b tương đương với hai hệ tam giác: Ly = Pb giải bằng phép thế tiến (yᵢ = b_π[i] − Σⱼ₌₁^(i−1) lᵢⱼyⱼ) và Ux = y giải bằng phép thế lùi (xᵢ = (yᵢ − Σⱼ₌ᵢ₊₁ⁿ uᵢⱼxⱼ)/uᵢᵢ), mỗi hệ Θ(n²). Phân rã LUP tính bằng khử Gauss có chọn trụ: ở mỗi bước, lấy phần tử có trị tuyệt đối lớn nhất trong cột làm trụ, đổi hàng, ghi hệ số nhân vào L, tính phần bù Schur; ba vòng lặp lồng nhau cho Θ(n³). Ví dụ: A = (1 2 0; 3 4 4; 5 6 3), b = (3, 7, 8)ᵀ có π = (3, 1, 2), L = (1 0 0; 0,2 1 0; 0,6 0,5 1), U = (5 6 3; 0 0,8 −0,6; 0 0 2,5), y = (8; 1,4; 1,5), x = (−1,4; 2,2; 0,6). Một khi đã có phân rã, mỗi vế phải b mới chỉ tốn Θ(n²).
-2. **Nghịch đảo ma trận khó đến đâu so với nhân ma trận?** Ngang nhau, sai khác một hằng số. Định lý 28.1: nếu nghịch đảo được trong I(n) thì nhân được trong O(I(n)), vì tích AB nằm ở khối trên phải của nghịch đảo của ma trận 3n × 3n D = (Iₙ A 0; 0 Iₙ B; 0 0 Iₙ). Định lý 28.2: nếu nhân được trong M(n) thì nghịch đảo được trong O(M(n)): với A đối xứng xác định dương, chia A thành bốn khối n/2 × n/2, nghịch đảo đệ quy khối B và phần bù Schur S = D − CB⁻¹Cᵀ, cùng 4 phép nhân, cho I(n) ≤ 2I(n/2) + 4M(n/2) + O(n²) = O(M(n)); với A bất kỳ dùng A⁻¹ = (AᵀA)⁻¹Aᵀ. Hệ quả: nhờ Strassen, nghịch đảo được trong O(n^(lg 7)) ≈ O(n^2,81). Cách thực tế (từ phân rã LUP, giải n hệ AXᵢ = eᵢ) tốn Θ(n³).
-3. **Vì sao ma trận đối xứng xác định dương quan trọng, và chúng giúp gì khi dữ liệu có nhiễu?** Chúng không suy biến; mọi ma trận con chính đầu và mọi phần bù Schur của chúng vẫn đối xứng xác định dương; vì vậy phân rã LU không cần chọn trụ và mọi trụ đều dương (ví dụ A = (4 2; 2 3): trụ 4, rồi 3 − 2·2/4 = 2). Chúng xuất hiện tự nhiên khi khớp đường cong: với m điểm dữ liệu và n < m hàm cơ sở, hệ Ac = y thừa phương trình; cực tiểu tổng bình phương sai số ‖Ac − y‖² dẫn tới phương trình chuẩn AᵀAc = Aᵀy, mà AᵀA đối xứng xác định dương khi A có hạng cột đầy đủ. Ví dụ năm điểm (−1, 2), (1, 1), (2, 1), (3, 0), (5, 3) cho AᵀA = (5 10 40; 10 40 160; 40 160 724), Aᵀy = (7, 16, 82)ᵀ và parabol F(x) = 1,200 − 0,757x + 0,214x² (chính xác: 6/5 − (53/70)x + (3/14)x²).
+1. **Làm thế nào giải hệ n phương trình tuyến tính n ẩn Ax = b một cách hiệu quả và ổn định?** Không tính A⁻¹. Thay vào đó, tìm phân rã LUP: PA = LU với P là ma trận hoán vị (lưu gọn bằng mảng π), L tam giác dưới đơn vị, U tam giác trên. Khi đó Ax = b tương đương với hai hệ tam giác: Ly = Pb giải bằng phép thế tiến (yᵢ = b_π[i] − Σⱼ₌₁^(i−1) lᵢⱼyⱼ) và Ux = y giải bằng phép thế lùi (xᵢ = (yᵢ − Σⱼ₌ᵢ₊₁ⁿ uᵢⱼxⱼ)/uᵢᵢ), mỗi hệ Θ(n²).
+
+   Phân rã LUP tính bằng khử Gauss có chọn trụ: ở mỗi bước, lấy phần tử có trị tuyệt đối lớn nhất trong cột làm trụ, đổi hàng, ghi hệ số nhân vào L, tính phần bù Schur; ba vòng lặp lồng nhau cho Θ(n³). Ví dụ: A = (1 2 0; 3 4 4; 5 6 3), b = (3, 7, 8)ᵀ có π = (3, 1, 2), L = (1 0 0; 0,2 1 0; 0,6 0,5 1), U = (5 6 3; 0 0,8 −0,6; 0 0 2,5), y = (8; 1,4; 1,5), x = (−1,4; 2,2; 0,6). Một khi đã có phân rã, mỗi vế phải b mới chỉ tốn Θ(n²).
+2. **Nghịch đảo ma trận khó đến đâu so với nhân ma trận?** Ngang nhau, sai khác một hằng số. Định lý 28.1: nếu nghịch đảo được trong I(n) thì nhân được trong O(I(n)), vì tích AB nằm ở khối trên phải của nghịch đảo của ma trận 3n × 3n D = (Iₙ A 0; 0 Iₙ B; 0 0 Iₙ).
+
+   Định lý 28.2: nếu nhân được trong M(n) thì nghịch đảo được trong O(M(n)): với A đối xứng xác định dương, chia A thành bốn khối n/2 × n/2, nghịch đảo đệ quy khối B và phần bù Schur S = D − CB⁻¹Cᵀ, cùng 4 phép nhân, cho I(n) ≤ 2I(n/2) + 4M(n/2) + O(n²) = O(M(n)); với A bất kỳ dùng A⁻¹ = (AᵀA)⁻¹Aᵀ. Hệ quả: nhờ Strassen, nghịch đảo được trong O(n^(lg 7)) ≈ O(n^2,81). Cách thực tế (từ phân rã LUP, giải n hệ AXᵢ = eᵢ) tốn Θ(n³).
+3. **Vì sao ma trận đối xứng xác định dương quan trọng, và chúng giúp gì khi dữ liệu có nhiễu?** Chúng không suy biến; mọi ma trận con chính đầu và mọi phần bù Schur của chúng vẫn đối xứng xác định dương; vì vậy phân rã LU không cần chọn trụ và mọi trụ đều dương (ví dụ A = (4 2; 2 3): trụ 4, rồi 3 − 2·2/4 = 2).
+
+   Chúng xuất hiện tự nhiên khi khớp đường cong: với m điểm dữ liệu và n < m hàm cơ sở, hệ Ac = y thừa phương trình; cực tiểu tổng bình phương sai số ‖Ac − y‖² dẫn tới phương trình chuẩn AᵀAc = Aᵀy, mà AᵀA đối xứng xác định dương khi A có hạng cột đầy đủ. Ví dụ năm điểm (−1, 2), (1, 1), (2, 1), (3, 0), (5, 3) cho AᵀA = (5 10 40; 10 40 160; 40 160 724), Aᵀy = (7, 16, 82)ᵀ và parabol F(x) = 1,200 − 0,757x + 0,214x² (chính xác: 6/5 − (53/70)x + (3/14)x²).
 
 ## Khái niệm cần biết
 
@@ -568,7 +568,9 @@ LU-DECOMPOSITION(A)
 13  return L and U
 ```
 
-Giải thích: vòng for ngoài cùng (dòng 5) chạy một lần cho mỗi bước đệ quy. Trong vòng này, dòng 6 xác định trụ u_kk = a_kk. Vòng for dòng 7–9 (không chạy khi k = n) dùng các vectơ v và wᵀ để cập nhật L và U: dòng 8 tính các phần tử của v/a_kk, lưu vᵢ/u_kk vào l_ik (chú thích "l_ik holds vᵢ" nghĩa là ô l_ik giữ phần tử ứng với vᵢ — đã chia cho trụ); dòng 9 lưu các phần tử của wᵀ vào u_ki. Cuối cùng dòng 10–12 tính các phần tử của phần bù Schur và ghi đè lại vào A. (Không cần chia cho a_kk ở dòng 12 vì đã chia khi tính l_ik ở dòng 8: l_ik u_kj = (a_ik/a_kk)·a_kj = vᵢwⱼ/a_kk.) Vì dòng 12 nằm trong ba vòng lồng nhau, LU-DECOMPOSITION chạy Θ(n³). Đếm chính xác (người tổng hợp): dòng 12 thực hiện Σₖ₌₁ⁿ (n − k)² = (n − 1)n(2n − 1)/6 ≈ n³/3 lần.
+Giải thích: vòng for ngoài cùng (dòng 5) chạy một lần cho mỗi bước đệ quy. Trong vòng này, dòng 6 xác định trụ u_kk = a_kk. Vòng for dòng 7–9 (không chạy khi k = n) dùng các vectơ v và wᵀ để cập nhật L và U: dòng 8 tính các phần tử của v/a_kk, lưu vᵢ/u_kk vào l_ik (chú thích "l_ik holds vᵢ" nghĩa là ô l_ik giữ phần tử ứng với vᵢ — đã chia cho trụ); dòng 9 lưu các phần tử của wᵀ vào u_ki.
+
+Cuối cùng dòng 10–12 tính các phần tử của phần bù Schur và ghi đè lại vào A. (Không cần chia cho a_kk ở dòng 12 vì đã chia khi tính l_ik ở dòng 8: l_ik u_kj = (a_ik/a_kk)·a_kj = vᵢwⱼ/a_kk.) Vì dòng 12 nằm trong ba vòng lồng nhau, LU-DECOMPOSITION chạy Θ(n³). Đếm chính xác (người tổng hợp): dòng 12 thực hiện Σₖ₌₁ⁿ (n − k)² = (n − 1)n(2n − 1)/6 ≈ n³/3 lần.
 
 **Phiên bản tại chỗ.** Có một cách tối ưu chuẩn: lưu các phần tử có nghĩa của L và U ngay trong ma trận A. Tức là cho mỗi aᵢⱼ ứng với lᵢⱼ (nếu i > j) hoặc uᵢⱼ (nếu i ≤ j), và cập nhật A để khi thủ tục kết thúc A chứa cả L lẫn U (đường chéo toàn số 1 của L không cần lưu). Để có pseudocode cho bản tối ưu này, chỉ cần thay mọi tham chiếu tới l hoặc u bằng a; dễ kiểm tra rằng phép biến đổi này giữ nguyên tính đúng.
 
@@ -625,7 +627,9 @@ Kiểm tra hàng cuối (người tổng hợp): 2·(2, 3, 1, 5) + 1·(0, 4, 2, 
 
 Nói chung, khi giải Ax = b ta phải chọn trụ ở các phần tử ngoài đường chéo của A để tránh chia cho 0. Chia cho 0 dĩ nhiên là thảm hoạ. Nhưng ta cũng muốn tránh chia cho một số nhỏ — kể cả khi A không suy biến — vì có thể dẫn tới không ổn định số học. Vì vậy ta cố chọn trụ là một giá trị lớn.
 
-Toán học đằng sau phân rã LUP giống phân rã LU. Cho A cỡ n × n không suy biến, cần tìm ma trận hoán vị P, ma trận tam giác dưới đơn vị L và ma trận tam giác trên U với PA = LU. Trước khi tách A như với phân rã LU, ta chuyển một phần tử khác 0, gọi là aₖ₁, từ đâu đó trong cột đầu lên vị trí (1, 1). Để ổn định số học, chọn aₖ₁ là phần tử có **trị tuyệt đối lớn nhất** trong cột đầu. (Cột đầu không thể toàn số 0, vì khi đó định thức của A bằng 0 theo Định lý D.4 và D.5, nên A suy biến.) Để giữ nguyên tập phương trình, đổi hàng 1 với hàng k; việc này tương đương với nhân A bên trái với một ma trận hoán vị Q (Exercise D.1-4). Viết
+Toán học đằng sau phân rã LUP giống phân rã LU. Cho A cỡ n × n không suy biến, cần tìm ma trận hoán vị P, ma trận tam giác dưới đơn vị L và ma trận tam giác trên U với PA = LU. Trước khi tách A như với phân rã LU, ta chuyển một phần tử khác 0, gọi là aₖ₁, từ đâu đó trong cột đầu lên vị trí (1, 1).
+
+Để ổn định số học, chọn aₖ₁ là phần tử có **trị tuyệt đối lớn nhất** trong cột đầu. (Cột đầu không thể toàn số 0, vì khi đó định thức của A bằng 0 theo Định lý D.4 và D.5, nên A suy biến.) Để giữ nguyên tập phương trình, đổi hàng 1 với hàng k; việc này tương đương với nhân A bên trái với một ma trận hoán vị Q (Exercise D.1-4). Viết
 
 ```text
 QA = ⎛ aₖ₁  wᵀ ⎞
@@ -711,7 +715,9 @@ aᵢⱼ =  ⎨
        ⎩ uᵢⱼ   nếu i ≤ j .
 ```
 
-Từng dòng: dòng 3–4 khởi tạo π là hoán vị đồng nhất. Vòng for ngoài (dòng 5) thực hiện phép đệ quy. Mỗi lần qua vòng ngoài, dòng 6–10 tìm phần tử a_k′k có trị tuyệt đối lớn nhất trong cột đầu hiện tại (cột k) của ma trận (n − k + 1) × (n − k + 1) đang cần phân rã. Nếu mọi phần tử trong cột đầu hiện tại bằng 0, dòng 11–12 báo ma trận suy biến. Để chọn trụ, dòng 13 đổi π[k′] với π[k], và dòng 14–15 đổi hàng thứ k với hàng thứ k′ của A, làm cho phần tử trụ thành a_kk. (Đổi **toàn bộ** hàng — kể cả phần bên trái đã thuộc L — vì trong phép suy dẫn ở trên, không chỉ A′ − vwᵀ/aₖ₁ mà cả v/aₖ₁ đều bị nhân với P′.) Cuối cùng dòng 16–19 tính phần bù Schur gần giống dòng 7–12 của LU-DECOMPOSITION, chỉ khác là viết để chạy tại chỗ.
+Từng dòng: dòng 3–4 khởi tạo π là hoán vị đồng nhất. Vòng for ngoài (dòng 5) thực hiện phép đệ quy. Mỗi lần qua vòng ngoài, dòng 6–10 tìm phần tử a_k′k có trị tuyệt đối lớn nhất trong cột đầu hiện tại (cột k) của ma trận (n − k + 1) × (n − k + 1) đang cần phân rã. Nếu mọi phần tử trong cột đầu hiện tại bằng 0, dòng 11–12 báo ma trận suy biến.
+
+Để chọn trụ, dòng 13 đổi π[k′] với π[k], và dòng 14–15 đổi hàng thứ k với hàng thứ k′ của A, làm cho phần tử trụ thành a_kk. (Đổi **toàn bộ** hàng — kể cả phần bên trái đã thuộc L — vì trong phép suy dẫn ở trên, không chỉ A′ − vwᵀ/aₖ₁ mà cả v/aₖ₁ đều bị nhân với P′.) Cuối cùng dòng 16–19 tính phần bù Schur gần giống dòng 7–12 của LU-DECOMPOSITION, chỉ khác là viết để chạy tại chỗ.
 
 Vì có ba vòng lồng nhau, LUP-DECOMPOSITION chạy Θ(n³), bằng LU-DECOMPOSITION. Vậy chọn trụ chỉ tốn thêm tối đa một hằng số lần thời gian (phần tìm max ở dòng 7–10 và đổi hàng ở dòng 14–15 tổng cộng chỉ Θ(n²)).
 
@@ -803,7 +809,9 @@ Theo hiểu biết của người tổng hợp: thư viện LAPACK (nền của 
 
 ### 3. Nghịch đảo ma trận (28.2 Inverting matrices, trang 827–832)
 
-Trong thực tế, ta thường không dùng nghịch đảo ma trận để giải hệ phương trình tuyến tính, mà ưu tiên các kỹ thuật ổn định số học hơn như phân rã LUP; dù vậy đôi khi ta cần chính ma trận nghịch đảo. Mục này chỉ cách dùng phân rã LUP để tính ma trận nghịch đảo. Mục này cũng chứng minh rằng nhân ma trận và nghịch đảo ma trận là hai bài toán khó ngang nhau, theo nghĩa (với vài điều kiện kỹ thuật) có thể dùng thuật toán cho bài này để giải bài kia với cùng thời gian tiệm cận. Do đó có thể dùng thuật toán Strassen (Mục 4.2) cho phép nhân ma trận để nghịch đảo ma trận. Thực ra, bài báo gốc của Strassen được thúc đẩy bởi bài toán chứng minh rằng một hệ phương trình tuyến tính có thể giải nhanh hơn phương pháp thông thường.
+Trong thực tế, ta thường không dùng nghịch đảo ma trận để giải hệ phương trình tuyến tính, mà ưu tiên các kỹ thuật ổn định số học hơn như phân rã LUP; dù vậy đôi khi ta cần chính ma trận nghịch đảo. Mục này chỉ cách dùng phân rã LUP để tính ma trận nghịch đảo.
+
+Mục này cũng chứng minh rằng nhân ma trận và nghịch đảo ma trận là hai bài toán khó ngang nhau, theo nghĩa (với vài điều kiện kỹ thuật) có thể dùng thuật toán cho bài này để giải bài kia với cùng thời gian tiệm cận. Do đó có thể dùng thuật toán Strassen (Mục 4.2) cho phép nhân ma trận để nghịch đảo ma trận. Thực ra, bài báo gốc của Strassen được thúc đẩy bởi bài toán chứng minh rằng một hệ phương trình tuyến tính có thể giải nhanh hơn phương pháp thông thường.
 
 #### 3.1. Tính nghịch đảo từ phân rã LUP (Computing a matrix inverse from an LUP decomposition)
 
@@ -916,7 +924,7 @@ I(n) ≤ 2I(n/2) + 4M(n/2) + O(n²)
      = O(M(n)) .
 ```
 
-Dòng thứ hai đúng vì điều kiện chính quy thứ hai cho 4M(n/2) < 2M(n), và vì M(n) = Ω(n²) (nên số hạng O(n²) bị M(n) nuốt). Dòng thứ ba đúng vì điều kiện chính quy thứ hai cho phép áp dụng trường hợp 3 của định lý thợ (Định lý 4.1): a = 2, b = 2, n^(log₂ 2) = n, f(n) = M(n) = Ω(n²) = Ω(n^(1+ε)) với ε = 1, và điều kiện "chính quy" của định lý thợ af(n/b) ≤ c′f(n) là 2M(n/2) ≤ 2cM(n) với 2c < 1. (Nhận xét của người tổng hợp: chặt chẽ thì dòng thứ hai chỉ nên viết O(M(n)); xem khối Lưu ý.)
+Dòng thứ hai đúng vì điều kiện chính quy thứ hai cho 4M(n/2) < 2M(n), và vì M(n) = Ω(n²) (nên số hạng O(n²) bị M(n) nuốt). Dòng thứ ba đúng vì điều kiện chính quy thứ hai cho phép áp dụng trường hợp 3 của định lý thợ (Định lý 4.1): a = 2, b = 2, n^(log₂ 2) = n, f(n) = M(n) = Ω(n²) = Ω(n^(1+ε)) với ε = 1, và điều kiện "chính quy" của định lý thợ af(n/b) ≤ c′f(n) là 2M(n/2) ≤ 2cM(n) với 2c < 1. (Nhận xét của người tổng hợp: chặt chẽ thì dòng thứ hai chỉ nên viết O(M(n)); xem mục Lưu ý cuối chương.)
 
 **Ví dụ chạy tay bảy bước (của người tổng hợp)** với A = (4 2; 2 3), n = 2, các khối là số: B = 4, C = 2, D = 3.
 
@@ -942,7 +950,9 @@ vì ((AᵀA)⁻¹Aᵀ)A = (AᵀA)⁻¹(AᵀA) = Iₙ và nghịch đảo của m
 
 (Ý của người tổng hợp về vì sao AᵀA xác định dương: xᵀAᵀAx = (Ax)ᵀ(Ax) = ‖Ax‖² ≥ 0, và bằng 0 chỉ khi Ax = 0, tức x = 0 vì A không suy biến.)
 
-**Hệ quả phụ: giải Ax = b bằng LU không chọn trụ.** Chứng minh Định lý 28.2 gợi ý một cách giải Ax = b bằng phân rã LU **không chọn trụ**, miễn A không suy biến. Nhân hai vế với Aᵀ được (AᵀA)x = Aᵀb. Phép biến đổi này không đổi nghiệm x vì Aᵀ khả nghịch; vì AᵀA đối xứng xác định dương, phân rã LU của nó chạy được (Hệ quả 28.6). Sau đó dùng thế tiến và lùi với vế phải Aᵀb. Cách này đúng về lý thuyết, nhưng trong thực tế thủ tục LUP-DECOMPOSITION tốt hơn nhiều: phân rã LUP cần ít phép tính số học hơn một hằng số lần, và có tính chất số học tốt hơn đôi chút. (Theo hiểu biết của người tổng hợp: lập AᵀA tốn thêm khoảng n³ phép nhân và làm số điều kiện của hệ bị bình phương, nên sai số tương đối có thể lớn hơn nhiều.)
+**Hệ quả phụ: giải Ax = b bằng LU không chọn trụ.** Chứng minh Định lý 28.2 gợi ý một cách giải Ax = b bằng phân rã LU **không chọn trụ**, miễn A không suy biến. Nhân hai vế với Aᵀ được (AᵀA)x = Aᵀb. Phép biến đổi này không đổi nghiệm x vì Aᵀ khả nghịch; vì AᵀA đối xứng xác định dương, phân rã LU của nó chạy được (Hệ quả 28.6).
+
+Sau đó dùng thế tiến và lùi với vế phải Aᵀb. Cách này đúng về lý thuyết, nhưng trong thực tế thủ tục LUP-DECOMPOSITION tốt hơn nhiều: phân rã LUP cần ít phép tính số học hơn một hằng số lần, và có tính chất số học tốt hơn đôi chút. (Theo hiểu biết của người tổng hợp: lập AᵀA tốn thêm khoảng n³ phép nhân và làm số điều kiện của hệ bị bình phương, nên sai số tương đối có thể lớn hơn nhiều.)
 
 #### Ví dụ hôm nay
 
@@ -1261,7 +1271,9 @@ Theo hiểu biết của người tổng hợp: hồi quy tuyến tính trong th
 
 - **28.1-4:** Mô tả phân rã LUP của một ma trận đường chéo. *Người tổng hợp:* nếu ma trận đường chéo D không suy biến (mọi dᵢᵢ ≠ 0) thì P = I, L = I, U = D: ở mỗi bước, cột hiện tại chỉ có phần tử đường chéo khác 0 nên LUP-DECOMPOSITION không đổi hàng, mọi hệ số nhân bằng 0 và phần bù Schur chính là phần đường chéo còn lại. Nếu có dᵢᵢ = 0 thì ma trận suy biến và thủ tục báo lỗi ở bước i.
 
-- **28.1-5:** Mô tả phân rã LUP của một ma trận hoán vị A, và chứng minh nó duy nhất. *Người tổng hợp:* P = A⁻¹ = Aᵀ, L = U = I (vì PA = AᵀA = I = I·I). Duy nhất: giả sử PA = LU với P hoán vị, L tam giác dưới đơn vị, U tam giác trên. Q = PA là ma trận hoán vị, và det Q = det L · det U = u₁₁⋯uₙₙ ≠ 0. Hơn nữa, ma trận con chính đầu Qₖ = LₖUₖ (vì L, U tam giác), nên det Qₖ = u₁₁⋯uₖₖ ≠ 0 với mọi k. Một ma trận hoán vị có mọi ma trận con chính đầu đều khả nghịch phải là I (quy nạp: Q₁ ≠ 0 nên q₁₁ = 1; nếu Qₖ₋₁ = Iₖ₋₁ thì các hàng và cột 1..k − 1 đã "dùng hết" số 1, nên hàng k của Qₖ chỉ còn khả năng có số 1 ở cột k, mà det Qₖ ≠ 0 buộc qₖₖ = 1). Vậy Q = I, tức P = A⁻¹; khi đó LU = I nên L = U⁻¹ vừa tam giác dưới vừa tam giác trên, là ma trận đường chéo, mà đường chéo của L toàn 1, nên L = U = I.
+- **28.1-5:** Mô tả phân rã LUP của một ma trận hoán vị A, và chứng minh nó duy nhất. *Người tổng hợp:* P = A⁻¹ = Aᵀ, L = U = I (vì PA = AᵀA = I = I·I). Duy nhất: giả sử PA = LU với P hoán vị, L tam giác dưới đơn vị, U tam giác trên. Q = PA là ma trận hoán vị, và det Q = det L · det U = u₁₁⋯uₙₙ ≠ 0. Hơn nữa, ma trận con chính đầu Qₖ = LₖUₖ (vì L, U tam giác), nên det Qₖ = u₁₁⋯uₖₖ ≠ 0 với mọi k.
+
+  Một ma trận hoán vị có mọi ma trận con chính đầu đều khả nghịch phải là I (quy nạp: Q₁ ≠ 0 nên q₁₁ = 1; nếu Qₖ₋₁ = Iₖ₋₁ thì các hàng và cột 1..k − 1 đã "dùng hết" số 1, nên hàng k của Qₖ chỉ còn khả năng có số 1 ở cột k, mà det Qₖ ≠ 0 buộc qₖₖ = 1). Vậy Q = I, tức P = A⁻¹; khi đó LU = I nên L = U⁻¹ vừa tam giác dưới vừa tam giác trên, là ma trận đường chéo, mà đường chéo của L toàn 1, nên L = U = I.
 
 - **28.1-6:** Chứng minh với mọi n ≥ 1 tồn tại ma trận n × n suy biến có phân rã LU. *Người tổng hợp:* ma trận 0 (cỡ n × n) = I · 0 (L = I, U = 0). Ví dụ ít tầm thường hơn: (1 1; 1 1) = (1 0; 1 1)(1 1; 0 0). Điều này cho thấy "có phân rã LU" không kéo theo "không suy biến" — trụ cuối có thể bằng 0 mà không cần chia cho nó.
 
@@ -1277,22 +1289,32 @@ Theo hiểu biết của người tổng hợp: hồi quy tuyến tính trong th
   ```
   rồi lấy khối trên trái; thời gian S(2n) + O(n²) = O(S(n)) với điều kiện chính quy S(2n) = O(S(n)) và S(n) = Ω(n²).
 
-- **28.2-2:** Gọi L(n) là thời gian tính phân rã LUP của ma trận n × n. Chứng minh thuật toán nhân M(n) cho thuật toán phân rã LUP O(M(n)), và thuật toán phân rã LUP L(n) cho thuật toán nhân O(L(n)). *Hướng giải của người tổng hợp (chưa chắc về mọi chi tiết):* chiều từ nhân sang phân rã (M sang L): phân rã LUP đệ quy theo khối (thuật toán của Bunch và Hopcroft, theo hiểu biết của người tổng hợp): chia ma trận thành nửa trên và nửa dưới, phân rã nửa trên (ma trận chữ nhật n/2 × n) đệ quy, dùng nghịch đảo của khối tam giác (tính bằng chia để trị trong O(M(n)) như Định lý 28.2, vì nghịch đảo ma trận tam giác khối chỉ cần hai nghịch đảo nửa cỡ và hai phép nhân) để tính phần bù Schur của nửa dưới, rồi phân rã đệ quy phần đó; truy hồi dạng T(n) ≤ 2T(n/2) + O(M(n)) = O(M(n)). Chiều từ phân rã sang nhân (L sang M, với thuật toán chọn trụ trị tuyệt đối lớn nhất như LUP-DECOMPOSITION): chọn hằng số c lớn hơn mọi |aᵢⱼ| và mọi |(AB)ᵢⱼ| (chẳng hạn c = 1 + max|aᵢⱼ| + n·max|aᵢⱼ|·max|bᵢⱼ|, tính trong O(n²)), rồi phân rã ma trận 3n × 3n
+- **28.2-2:** Gọi L(n) là thời gian tính phân rã LUP của ma trận n × n. Chứng minh thuật toán nhân M(n) cho thuật toán phân rã LUP O(M(n)), và thuật toán phân rã LUP L(n) cho thuật toán nhân O(L(n)).
+
+  *Hướng giải của người tổng hợp (chưa chắc về mọi chi tiết):* chiều từ nhân sang phân rã (M sang L): phân rã LUP đệ quy theo khối (thuật toán của Bunch và Hopcroft, theo hiểu biết của người tổng hợp): chia ma trận thành nửa trên và nửa dưới, phân rã nửa trên (ma trận chữ nhật n/2 × n) đệ quy, dùng nghịch đảo của khối tam giác (tính bằng chia để trị trong O(M(n)) như Định lý 28.2, vì nghịch đảo ma trận tam giác khối chỉ cần hai nghịch đảo nửa cỡ và hai phép nhân) để tính phần bù Schur của nửa dưới, rồi phân rã đệ quy phần đó; truy hồi dạng T(n) ≤ 2T(n/2) + O(M(n)) = O(M(n)).
+
+  Chiều từ phân rã sang nhân (L sang M, với thuật toán chọn trụ trị tuyệt đối lớn nhất như LUP-DECOMPOSITION): chọn hằng số c lớn hơn mọi |aᵢⱼ| và mọi |(AB)ᵢⱼ| (chẳng hạn c = 1 + max|aᵢⱼ| + n·max|aᵢⱼ|·max|bᵢⱼ|, tính trong O(n²)), rồi phân rã ma trận 3n × 3n
 
   ```text
       ⎛ cIₙ   B    0  ⎞
   K = ⎜ −A    0    Iₙ ⎟
       ⎝ 0     Iₙ   0  ⎠
   ```
-  Ở n cột đầu, trụ luôn là các số c (lớn hơn mọi |aᵢⱼ|), không đổi hàng; phần bù Schur của khối hàng 2–3, cột 2–3 là (AB/c  Iₙ; Iₙ  0). Ở n cột tiếp theo, các phần tử của AB/c đều có trị tuyệt đối < 1, nên trụ là các số 1 của khối Iₙ ở khối hàng 3: thủ tục đổi khối hàng 3 lên trên, hệ số nhân ghi vào L chính là các phần tử của AB/c, và phần bù Schur cuối cùng là Iₙ (không đổi hàng thêm). Vậy AB = c × (khối tương ứng của L). Thời gian L(3n) + O(n²) = O(L(n)) với điều kiện chính quy. *Điểm chưa chắc của người tổng hợp:* lập luận này dựa vào quy tắc chọn trụ cụ thể; với một thuật toán LUP tuỳ ý (được phép chọn bất kỳ trụ khác 0), cần thêm lập luận để đọc được AB từ phân rã nó trả về.
+  Ở n cột đầu, trụ luôn là các số c (lớn hơn mọi |aᵢⱼ|), không đổi hàng; phần bù Schur của khối hàng 2–3, cột 2–3 là (AB/c  Iₙ; Iₙ  0). Ở n cột tiếp theo, các phần tử của AB/c đều có trị tuyệt đối < 1, nên trụ là các số 1 của khối Iₙ ở khối hàng 3: thủ tục đổi khối hàng 3 lên trên, hệ số nhân ghi vào L chính là các phần tử của AB/c, và phần bù Schur cuối cùng là Iₙ (không đổi hàng thêm).
+
+  Vậy AB = c × (khối tương ứng của L). Thời gian L(3n) + O(n²) = O(L(n)) với điều kiện chính quy. *Điểm chưa chắc của người tổng hợp:* lập luận này dựa vào quy tắc chọn trụ cụ thể; với một thuật toán LUP tuỳ ý (được phép chọn bất kỳ trụ khác 0), cần thêm lập luận để đọc được AB từ phân rã nó trả về.
 
 - **28.2-3:** Gọi D(n) là thời gian tính định thức ma trận n × n. Chứng minh nhân ma trận và tính định thức khó ngang nhau. *Người tổng hợp:* chiều từ nhân sang định thức: tính phân rã LUP trong O(M(n)) (bài 28.2-2), rồi det A = (det P)⁻¹ · u₁₁⋯uₙₙ, với det P = ±1 là dấu của hoán vị π (tính trong O(n) bằng đếm chu trình). Chiều từ định thức sang nhân khó hơn hẳn và theo hiểu biết của người tổng hợp dùng định lý Baur–Strassen (đạo hàm riêng của một chương trình tính định thức cho ra mọi phần tử của ma trận phụ hợp, tức của det(A)·A⁻¹, với chi phí chỉ gấp hằng số lần), rồi áp dụng Định lý 28.1. Đây là kiến thức ngoài sách.
 
-- **28.2-4:** Gọi M(n) là thời gian nhân hai ma trận bun (boolean) n × n và T(n) là thời gian tìm bao đóng bắc cầu của ma trận bun n × n (Mục 25.2). Chứng minh thuật toán nhân bun M(n) cho thuật toán bao đóng bắc cầu O(M(n) lg n), và thuật toán bao đóng T(n) cho thuật toán nhân bun O(T(n)). *Người tổng hợp:* chiều thứ nhất: bao đóng (phản xạ) là (I ∨ A)^(n−1); tính bằng bình phương liên tiếp ⌈lg(n − 1)⌉ lần, mỗi lần một phép nhân bun: O(M(n) lg n). Chiều thứ hai: dựng đồ thị 3n đỉnh ba tầng với ma trận kề (0 A 0; 0 0 B; 0 0 0); đường đi từ tầng 1 sang tầng 3 phải qua đúng một đỉnh tầng 2, nên khối trên phải của bao đóng bắc cầu là tích bun AB. Thời gian T(3n) + O(n²) = O(T(n)) với điều kiện chính quy.
+- **28.2-4:** Gọi M(n) là thời gian nhân hai ma trận bun (boolean) n × n và T(n) là thời gian tìm bao đóng bắc cầu của ma trận bun n × n (Mục 25.2). Chứng minh thuật toán nhân bun M(n) cho thuật toán bao đóng bắc cầu O(M(n) lg n), và thuật toán bao đóng T(n) cho thuật toán nhân bun O(T(n)). *Người tổng hợp:* chiều thứ nhất: bao đóng (phản xạ) là (I ∨ A)^(n−1); tính bằng bình phương liên tiếp ⌈lg(n − 1)⌉ lần, mỗi lần một phép nhân bun: O(M(n) lg n).
+
+  Chiều thứ hai: dựng đồ thị 3n đỉnh ba tầng với ma trận kề (0 A 0; 0 0 B; 0 0 0); đường đi từ tầng 1 sang tầng 3 phải qua đúng một đỉnh tầng 2, nên khối trên phải của bao đóng bắc cầu là tích bun AB. Thời gian T(3n) + O(n²) = O(T(n)) với điều kiện chính quy.
 
 - **28.2-5:** Thuật toán nghịch đảo dựa trên Định lý 28.2 có chạy được khi phần tử ma trận lấy từ trường số nguyên modulo 2 không? Giải thích. *Người tổng hợp:* không. Thuật toán dựa vào tính xác định dương, khái niệm không có nghĩa trên trường hữu hạn (không có thứ tự "> 0"), và bước quy về AᵀA có thể thất bại. Ví dụ: A = (1 1; 1 0) khả nghịch trên GF(2), nhưng AᵀA = (1+1 1; 1 1) = (0 1; 1 1) mod 2 có khối trên trái B = 0 không khả nghịch, nên bước 2 (tính B⁻¹) hỏng ngay.
 
-- **28.2-6 (★):** Tổng quát hoá thuật toán nghịch đảo của Định lý 28.2 cho ma trận số phức, và chứng minh tổng quát hoá đó đúng. (Gợi ý của sách: thay chuyển vị Aᵀ bằng **chuyển vị liên hợp** A* — lấy chuyển vị rồi thay mỗi phần tử bằng số phức liên hợp của nó; thay ma trận đối xứng bằng **ma trận Hermite**, tức A = A*.) *Người tổng hợp:* định nghĩa xác định dương là x*Ax > 0 với mọi x ≠ 0 (số này luôn thực khi A Hermite). Các Bổ đề 28.3–28.5 chứng minh y hệt với * thay cho ᵀ; khối A = (B C*; C D), S = D − CB⁻¹C*, công thức (28.13) với * thay cho ᵀ; bảy bước giữ nguyên, dùng (B⁻¹)* = B⁻¹. Với A bất kỳ không suy biến: A*A Hermite xác định dương (x*A*Ax = ‖Ax‖² > 0), và A⁻¹ = (A*A)⁻¹A*.
+- **28.2-6 (★):** Tổng quát hoá thuật toán nghịch đảo của Định lý 28.2 cho ma trận số phức, và chứng minh tổng quát hoá đó đúng. (Gợi ý của sách: thay chuyển vị Aᵀ bằng **chuyển vị liên hợp** A* — lấy chuyển vị rồi thay mỗi phần tử bằng số phức liên hợp của nó; thay ma trận đối xứng bằng **ma trận Hermite**, tức A = A*.)
+
+  *Người tổng hợp:* định nghĩa xác định dương là x*Ax > 0 với mọi x ≠ 0 (số này luôn thực khi A Hermite). Các Bổ đề 28.3–28.5 chứng minh y hệt với * thay cho ᵀ; khối A = (B C*; C D), S = D − CB⁻¹C*, công thức (28.13) với * thay cho ᵀ; bảy bước giữ nguyên, dùng (B⁻¹)* = B⁻¹. Với A bất kỳ không suy biến: A*A Hermite xác định dương (x*A*Ax = ‖Ax‖² > 0), và A⁻¹ = (A*A)⁻¹A*.
 
 ### Bài tập Mục 28.3 (trang 839–840)
 
@@ -1337,7 +1359,9 @@ A = ⎜  0  −1   2  −1   0 ⎟ .
         ⎝ 1 1 1 1 1 ⎠
   ```
   (Tổng các hàng là 15, 14, 12, 9, 5 — đúng nghiệm ở (b).) Ma trận nghịch đảo đặc hoàn toàn dù A thưa.
-- **(d)** Chỉ ra cách giải Ax = b trong O(n) với A ba đường chéo đối xứng xác định dương n × n bất kỳ, bằng phân rã LU. Lập luận rằng mọi phương pháp dựa trên việc lập A⁻¹ đều đắt hơn về tiệm cận trong trường hợp xấu nhất. *Người tổng hợp:* không cần chọn trụ (Hệ quả 28.6). Ở bước k, v và wᵀ mỗi vectơ chỉ có một phần tử khác 0 (a_k+1,k và a_k,k+1), nên phần bù Schur chỉ thay đổi đúng một phần tử a_k+1,k+1 −= l_k+1,k · u_k,k+1 và vẫn ba đường chéo. Nếu chỉ lưu ba đường chéo và chỉ duyệt phần tử khác 0, mỗi bước O(1), cả phân rã O(n); L chỉ có một đường dưới chéo, U chỉ có một đường trên chéo, nên thế tiến và lùi mỗi cái O(n). Ngược lại, A⁻¹ nói chung có Θ(n²) phần tử khác 0 (như ví dụ ở (c)), nên chỉ việc ghi nó ra hoặc nhân nó với b đã tốn Ω(n²).
+- **(d)** Chỉ ra cách giải Ax = b trong O(n) với A ba đường chéo đối xứng xác định dương n × n bất kỳ, bằng phân rã LU. Lập luận rằng mọi phương pháp dựa trên việc lập A⁻¹ đều đắt hơn về tiệm cận trong trường hợp xấu nhất. *Người tổng hợp:* không cần chọn trụ (Hệ quả 28.6). Ở bước k, v và wᵀ mỗi vectơ chỉ có một phần tử khác 0 (a_k+1,k và a_k,k+1), nên phần bù Schur chỉ thay đổi đúng một phần tử a_k+1,k+1 −= l_k+1,k · u_k,k+1 và vẫn ba đường chéo.
+
+  Nếu chỉ lưu ba đường chéo và chỉ duyệt phần tử khác 0, mỗi bước O(1), cả phân rã O(n); L chỉ có một đường dưới chéo, U chỉ có một đường trên chéo, nên thế tiến và lùi mỗi cái O(n). Ngược lại, A⁻¹ nói chung có Θ(n²) phần tử khác 0 (như ví dụ ở (c)), nên chỉ việc ghi nó ra hoặc nhân nó với b đã tốn Ω(n²).
 - **(e)** Chỉ ra cách giải Ax = b trong O(n) với A ba đường chéo không suy biến bất kỳ, bằng phân rã LUP. *Người tổng hợp:* ở bước k chỉ hai hàng k và k + 1 có phần tử khác 0 trong cột k, nên việc chọn trụ chỉ so sánh hai số và đổi hàng (nếu có) chỉ giữa hai hàng kề nhau. Sau khi đổi, hàng trụ có thể có phần tử khác 0 ở các cột k, k + 1, k + 2, nên U có tối đa hai đường trên chéo; mỗi cột của L có tối đa một phần tử dưới chéo. Mỗi bước vẫn O(1), tổng O(n); thế tiến và lùi O(n).
 
 ### Problem 28-2: Đường spline (Splines)
@@ -1562,11 +1586,13 @@ Cùng một đối tượng — phần bù Schur — làm ba việc khác nhau: 
 - **Định lý 28.2 hữu ích về lý thuyết hơn thực tế.** Bước quy về AᵀA bình phương số điều kiện; các tác giả thừa nhận LUP tốt hơn, nhưng không nói rõ rằng thuật toán nghịch đảo kiểu Strassen kém ổn định số học.
 - **Bình phương tối thiểu qua phương trình chuẩn.** Sách trình bày giải AᵀAc = Aᵀy bằng LU như cách thực hành, trong khi thực tế số học ưa dùng QR hoặc SVD (theo hiểu biết của người tổng hợp); sách cũng không nhắc tới phân rã Cholesky A = LLᵀ — cách tự nhiên nhất để khai thác Hệ quả 28.6 (chỉ cần nửa số phép tính và nửa bộ nhớ).
 - **Chỉ dùng mô hình chi phí "mỗi phép toán số thực O(1)".** Với số hữu tỷ chính xác, khử Gauss có thể làm độ dài số tăng; sách không đề cập (vấn đề này quan trọng cho Chương 29, nơi thuật toán đơn hình cũng thực hiện các phép xoay trụ tương tự).
-- **Chứng minh Định lý 28.2 hơi lỏng ở truy hồi** (viết Θ thay cho O, áp định lý thợ cho bất đẳng thức) — đã ghi trong khối Lưu ý.
+- **Chứng minh Định lý 28.2 hơi lỏng ở truy hồi** (viết Θ thay cho O, áp định lý thợ cho bất đẳng thức) — đã ghi trong mục Lưu ý cuối chương.
 
 ### So với cách làm thực tế
 
-Theo hiểu biết của người tổng hợp: các thư viện đại số tuyến tính (LAPACK, Intel MKL, OpenBLAS, cuSOLVER trên GPU) cài phân rã LU có chọn trụ từng phần đúng như LUP-DECOMPOSITION, nhưng tổ chức theo khối (blocked/recursive LU) để phần lớn công việc trở thành phép nhân ma trận (BLAS mức 3) — đúng tinh thần "nghịch đảo và phân rã quy về nhân" của Mục 28.2, nhưng dùng nhân ma trận thường Θ(n³) chứ không dùng Strassen. Với ma trận thưa lớn (hàng triệu ẩn), người ta dùng phân rã thưa với sắp xếp lại để giảm phần tử điền thêm (fill-in) — chủ đề trong sách của George và Liu được trích dẫn — hoặc phương pháp lặp (gradient liên hợp cho ma trận đối xứng xác định dương). Spline bậc ba tự nhiên của Problem 28-2 có sẵn trong `scipy.interpolate.CubicSpline(bc_type='natural')` và được giải đúng bằng thuật toán ba đường chéo O(n) (thuật toán Thomas).
+Theo hiểu biết của người tổng hợp: các thư viện đại số tuyến tính (LAPACK, Intel MKL, OpenBLAS, cuSOLVER trên GPU) cài phân rã LU có chọn trụ từng phần đúng như LUP-DECOMPOSITION, nhưng tổ chức theo khối (blocked/recursive LU) để phần lớn công việc trở thành phép nhân ma trận (BLAS mức 3) — đúng tinh thần "nghịch đảo và phân rã quy về nhân" của Mục 28.2, nhưng dùng nhân ma trận thường Θ(n³) chứ không dùng Strassen.
+
+Với ma trận thưa lớn (hàng triệu ẩn), người ta dùng phân rã thưa với sắp xếp lại để giảm phần tử điền thêm (fill-in) — chủ đề trong sách của George và Liu được trích dẫn — hoặc phương pháp lặp (gradient liên hợp cho ma trận đối xứng xác định dương). Spline bậc ba tự nhiên của Problem 28-2 có sẵn trong `scipy.interpolate.CubicSpline(bc_type='natural')` và được giải đúng bằng thuật toán ba đường chéo O(n) (thuật toán Thomas).
 
 ### Liên hệ các chương khác
 
@@ -1584,3 +1610,143 @@ Theo hiểu biết của người tổng hợp: các thư viện đại số tuy
 - **Phỏng vấn:** viết khử Gauss có chọn trụ để giải hệ hoặc tính định thức; giải thích vì sao không nên dùng `inv(A)`; cài thuật toán ba đường chéo O(n); hồi quy tuyến tính bằng phương trình chuẩn và những hạn chế của nó.
 - **Lập trình thi đấu:** khử Gauss xuất hiện thường xuyên — trên số thực (có chọn trụ, so sánh với ε), trên trường modulo số nguyên tố p (chia bằng nghịch đảo modulo, trụ chỉ cần khác 0), trên GF(2) với bitset (bài toán XOR, "lights out"), tính hạng, định thức, và đếm cây khung bằng định lý ma trận cây Kirchhoff (định thức của ma trận Laplace bỏ một hàng một cột). Exercise 28.2-5 nhắc rằng các mẹo dựa trên xác định dương không dùng được trên trường hữu hạn — khi đó phải chọn trụ.
 - **Kỹ thuật phần mềm:** tách "phân rã" khỏi "giải" để tái dùng phân rã cho nhiều vế phải (mô phỏng theo thời gian, bộ lọc Kalman); khai thác cấu trúc (ma trận đối xứng thì dùng Cholesky, ma trận băng thì giải theo băng, ma trận thưa thì dùng thư viện thưa); theo dõi số điều kiện để biết kết quả có đáng tin không; dùng spline tự nhiên khi cần đường cong trơn qua các điểm (đồ hoạ, hoạt hình, đường cong lãi suất).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 28 trên một trang: năm nhánh lớn theo phần mở đầu, ba mục 28.1–28.3 và các bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, định lý, thủ tục kèm thời gian chạy và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 28: giải Ax = b bằng phân rã PA = LU một lần trong Θ(n³) rồi hai phép thế Θ(n²), nghịch đảo khó ngang nhân`"]
+  n1["`Phần mở đầu chương — Phạm vi và ổn định số học`"]
+  n0 --- n1
+  n2["`Phép toán ma trận là trái tim của tính toán khoa học, chương tập trung vào nhân ma trận và giải hệ tuyến tính`"]
+  n1 --- n2
+  n3["`Số dấu phẩy động có độ chính xác hữu hạn, sai số làm tròn có thể bị khuếch đại thành kết quả sai`"]
+  n1 --- n3
+  n4["`Chương chỉ thỉnh thoảng nhắc ổn định số học, tham khảo sách của Golub và Van Loan`"]
+  n1 --- n4
+  n5["`Mục 28.1 — Giải hệ phương trình tuyến tính bằng phân rã LUP`"]
+  n0 --- n5
+  n6["`A không suy biến thì hệ có nghiệm duy nhất x = A⁻¹b, nhưng không nên tính A⁻¹ rồi nhân vì kém ổn định`"]
+  n5 --- n6
+  n7["`Hệ thiếu phương trình thường vô số nghiệm, hệ thừa phương trình có thể vô nghiệm`"]
+  n5 --- n7
+  n8["`Phân rã LUP: PA = LU với L tam giác dưới đơn vị, U tam giác trên, P hoán vị lưu gọn bằng mảng π`"]
+  n5 --- n8
+  n9["`LUP-SOLVE: giải Ly = Pb bằng phép thế tiến, rồi Ux = y bằng phép thế lùi, Θ(n²)`"]
+  n5 --- n9
+  n10["`Ví dụ A = (1 2 0, 3 4 4, 5 6 3), b = (3, 7, 8) cho x = (−1,4, 2,2, 0,6)`"]
+  n9 --- n10
+  n11["`LU-DECOMPOSITION là khử Gauss viết đệ quy qua phần bù Schur A′ − vwᵀ/a₁₁, chạy Θ(n³)`"]
+  n5 --- n11
+  n12["`Các số đem chia là phần tử trụ, nằm trên đường chéo của U, trụ bằng 0 thì phương pháp hỏng`"]
+  n11 --- n12
+  n13["`Ví dụ ma trận 4 × 4 có các trụ lần lượt 2, 4, 1, 3`"]
+  n11 --- n13
+  n14["`LUP-DECOMPOSITION chọn phần tử có trị tuyệt đối lớn nhất trong cột làm trụ và đổi cả hàng`"]
+  n5 --- n14
+  n15["`Tính L và U ngay trong A, báo ma trận suy biến nếu cả cột bằng 0, vẫn Θ(n³)`"]
+  n14 --- n15
+  n16["`Ví dụ ma trận 4 × 4 có các trụ 5, −2, 4, −3 và π cuối cùng = (3, 1, 4, 2)`"]
+  n14 --- n16
+  n17["`Mục 28.2 — Nghịch đảo ma trận`"]
+  n0 --- n17
+  n18["`Phân rã LUP chỉ phụ thuộc A nên giải k vế phải khác nhau tốn Θ(kn²)`"]
+  n17 --- n18
+  n19["`Tính A⁻¹ bằng n lần LUP-SOLVE cho các hệ AXᵢ = eᵢ, tổng Θ(n³)`"]
+  n17 --- n19
+  n20["`Định lý 28.1: nhân không khó hơn nghịch đảo, AB là khối trên phải của nghịch đảo ma trận D cỡ 3n × 3n`"]
+  n17 --- n20
+  n21["`Định lý 28.2: nghịch đảo không khó hơn nhân`"]
+  n17 --- n21
+  n22["`Với ma trận đối xứng xác định dương: chia bốn khối, dùng phần bù Schur S = D − CB⁻¹Cᵀ`"]
+  n21 --- n22
+  n23["`Hai nghịch đảo đệ quy cỡ n/2 và bốn phép nhân cho I(n) ≤ 2I(n/2) + 4M(n/2) + O(n²) = O(M(n))`"]
+  n21 --- n23
+  n24["`Với A bất kỳ không suy biến: A⁻¹ = (AᵀA)⁻¹Aᵀ vì AᵀA đối xứng xác định dương`"]
+  n21 --- n24
+  n25["`Hệ quả: dùng Strassen thì nghịch đảo được trong O(n^lg 7)`"]
+  n17 --- n25
+  n26["`Giải (AᵀA)x = Aᵀb tránh được chọn trụ về lý thuyết, nhưng LUP-DECOMPOSITION thực tế nhanh và ổn định hơn`"]
+  n17 --- n26
+  n27["`Mục 28.3 — Ma trận đối xứng xác định dương và bình phương tối thiểu`"]
+  n0 --- n27
+  n28["`A xác định dương khi xᵀAx dương với mọi x khác 0`"]
+  n27 --- n28
+  n29["`Bổ đề 28.3: ma trận xác định dương thì không suy biến`"]
+  n27 --- n29
+  n30["`Bổ đề 28.4: mọi ma trận con chính đầu của ma trận đối xứng xác định dương cũng đối xứng xác định dương`"]
+  n27 --- n30
+  n31["`Bổ đề 28.5: phần bù Schur cũng đối xứng xác định dương, chứng minh bằng hoàn thành bình phương`"]
+  n27 --- n31
+  n32["`Hệ quả 28.6: phân rã LU của ma trận đối xứng xác định dương không bao giờ chia cho 0, mọi trụ đều dương`"]
+  n27 --- n32
+  n33["`Xấp xỉ bình phương tối thiểu`"]
+  n27 --- n33
+  n34["`Khớp m điểm có sai số đo bằng tổ hợp n hàm cơ sở, n nhỏ hơn m để không khớp cả nhiễu`"]
+  n33 --- n34
+  n35["`Cực tiểu bình phương chuẩn của vectơ sai số dẫn tới phương trình chuẩn AᵀAc = Aᵀy`"]
+  n33 --- n35
+  n36["`Nghiệm c = A⁺y với A⁺ = (AᵀA)⁻¹Aᵀ là giả nghịch đảo`"]
+  n33 --- n36
+  n37["`Ví dụ khớp parabol qua 5 điểm cho F(x) = 1,200 − 0,757x + 0,214x²`"]
+  n33 --- n37
+  n38["`Bài toán cuối chương và ghi chú chương`"]
+  n0 --- n38
+  n39["`28-1 Hệ ba đường chéo giải được trong O(n) bằng LU hoặc LUP, mọi cách lập A⁻¹ đều đắt hơn vì A⁻¹ thường đặc`"]
+  n38 --- n39
+  n40["`28-2 Spline bậc ba tự nhiên: các đạo hàm tại nút thoả hệ ba đường chéo đối xứng xác định dương, giải trong O(n)`"]
+  n38 --- n40
+  n41["`Ghi chú: định thức không đo tốt độ ổn định, nên dùng tích chuẩn của A và A⁻¹`"]
+  n38 --- n41
+  n42["`Ghi chú: khử Gauss là một trong những thuật toán số sớm nhất, SVD là công cụ mạnh hơn được giới thiệu qua`"]
+  n38 --- n42
+  n43["`Thông điệp xuyên suốt`"]
+  n0 --- n43
+  n44["`Phân rã một lần, dùng lại cho nhiều vế phải, thay vì tính ma trận nghịch đảo`"]
+  n43 --- n44
+  n45["`Chọn trụ chỉ tốn thêm hằng số lần thời gian nhưng cứu thuật toán khỏi chia cho 0 và sai số lớn`"]
+  n43 --- n45
+  n46["`Phần bù Schur là sợi chỉ chung của LU, nghịch đảo nhanh và tính chất xác định dương`"]
+  n43 --- n46
+  n47["`Mọi tăng tốc cho phép nhân ma trận cũng là tăng tốc cho phép nghịch đảo`"]
+  n43 --- n47
+  class n0 root
+  class n1,n5,n17,n27,n38,n43 branch
+  class n2,n3,n4,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n44,n45,n46,n47 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 28 "Matrix Operations", trang 813–842 (phần mở đầu, Mục 28.1–28.3, Problems, Chapter notes).
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phụ lục D ([PD-ma-tran.md](PD-ma-tran.md)) ôn các khái niệm ma trận mà chương này dùng liên tục: hạng, ma trận không suy biến, định thức, ma trận hoán vị, ma trận xác định dương (Định lý D.1, D.6, các Exercise D.1-2, D.1-4, D.2-6…).
+
+Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) đưa ra thuật toán Strassen nhân hai ma trận n × n trong O(n^(lg 7)) ≈ O(n^2,81) và định lý thợ; chương này chứng minh rằng mọi tăng tốc cho phép nhân ma trận cũng là tăng tốc cho phép nghịch đảo ma trận (Định lý 28.2), và dùng trường hợp 3 của định lý thợ để giải truy hồi. Chương 7 ([C07-quicksort.md](C07-quicksort.md)), Problem 7-4, giới thiệu ý tưởng thay đệ quy đuôi bằng vòng lặp — đúng phép biến đổi dùng để viết LU-DECOMPOSITION. Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)) dùng phép "nhân ma trận" để tính đường đi ngắn nhất và bao đóng bắc cầu, mà Exercise 28.2-4 nối lại với phép nhân ma trận bun.
+
+Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) mở Phần VII và có bản đa luồng của phép nhân ma trận. Chương 29 ([C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)) tiếp tục chủ đề hệ ràng buộc tuyến tính, nhưng là bất đẳng thức và tối ưu hoá. Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)) giải bài toán nội suy đa thức — họ hàng của bài toán khớp đường cong ở Mục 28.3 và Problem 28-2.
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong chương này.** Chỉ một bài tập có dấu sao: Exercise 28.2-6 (tổng quát hoá thuật toán nghịch đảo của Định lý 28.2 cho ma trận số phức, dùng chuyển vị liên hợp và ma trận Hermite). Hai bài toán cuối chương (28-1, 28-2) không có dấu sao.
+- **Chương này nằm trong Phần VII "Selected Topics"; lời giới thiệu Phần VII được tổng hợp trong file Chương 27** ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)), chương đầu tiên của phần đó, nên file này không có khối giới thiệu Phần.
+- **Lớp chữ PDF hỏng gần như toàn bộ ký hiệu toán:** dấu ngoặc ma trận thành `˙ … /BEL` hoặc `/NUL … ` (ví dụ ma trận A của ví dụ LUP-SOLVE bị trích thành `/NUL 120 344 563`), dấu trừ và số mũ −1 thành `/NUL` (A⁻¹ thành `A/NUL1`), Θ thành `‚`, chữ Hy Lạp v (nu) trong vectơ cột v và π (mảng hoán vị) mất hẳn (`Œi` là π[i], dòng 13 của LUP-DECOMPOSITION bị trích thành "exchange Œk with Œk 0"), η (vectơ sai số) mất hẳn, ≤ ≥ ≠ ∞ mất, chữ z trong Bổ đề 28.5 bị trích thành `´`. Các ma trận trong Hình 28.1 và Hình 28.2 bị trích thành dãy số dính liền ("61 351 9" là hàng 6 13 5 19). Mọi pseudocode, công thức (28.1)–(28.23), Hình 28.1, 28.2, 28.3 và các ma trận trong bài tập ở bản tổng hợp này được đọc lại từ ảnh trang 814, 816–826, 829–831, 833–842.
+- **Chỗ sách viết chưa chặt hoặc có lỗi in (nhận xét của người tổng hợp):**
+  - Trang 827, câu cuối đoạn mở Mục 28.2: "a set of a linear equations" — thừa chữ "a" (đúng là "a set of linear equations").
+  - Hình 28.2(c) in phần tử ở hàng 3, cột 4 là "–.2", trong khi các hình (d)–(i) in cùng phần tử đó là "–0.2". Chỉ là khác cách in, giá trị như nhau.
+  - Trang 830, truy hồi trong chứng minh Định lý 28.2 viết "2I(n/2) + 4M(n/2) + O(n²) = 2I(n/2) + Θ(M(n))". Từ giả thiết M(n/2) ≤ cM(n) với c < 1/2 ta chỉ suy ra được 4M(n/2) + O(n²) = O(M(n)), tức một cận trên; viết Θ là mạnh hơn mức chứng minh được (dù không ảnh hưởng kết luận I(n) = O(M(n))). Ngoài ra, việc áp dụng định lý thợ (vốn phát biểu cho đẳng thức) cho một bất đẳng thức cần thêm một câu lập luận đơn điệu mà sách bỏ qua.
+  - Trang 823, định nghĩa vectơ v = (a₂₁, a₃₁, …, aₙ₁)ᵀ "ngoại trừ a₁₁ thay cho aₖ₁": đúng, nhưng viết rất gọn; ý là sau khi đổi hàng 1 với hàng k, phần còn lại của cột đầu gồm các aᵢ₁ với i ≠ 1, i ≠ k, cộng thêm a₁₁ nằm ở vị trí cũ của aₖ₁.
+  - Trang 839, sách khuyên giải phương trình chuẩn (28.19) bằng phân rã LU của AᵀA. Theo hiểu biết của người tổng hợp, trong tính toán số thực tế người ta tránh lập AᵀA (vì nó bình phương số điều kiện của A) và dùng phân rã QR hoặc SVD; sách không nhắc điều này dù đã nêu vấn đề ổn định số học ở phần mở đầu.
+- **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** ví dụ LUP-SOLVE với A = (1 2 0; 3 4 4; 5 6 3), b = (3, 7, 8)ᵀ cho y = (8; 1,4; 1,5) và x = (−1,4; 2,2; 0,6); phân rã LU của ma trận 4 × 4 ở Hình 28.1; phân rã LUP của ma trận 4 × 4 ở Hình 28.2 (từng bước (a)–(j)); ma trận D⁻¹ trong chứng minh Định lý 28.1; giả nghịch đảo A⁺ và vectơ hệ số c = (1,200; −0,757; 0,214) ở ví dụ bình phương tối thiểu (giá trị chính xác c = (6/5, −53/70, 3/14), sách làm tròn đúng tới 3 chữ số). Người tổng hợp còn tự giải các bài 28.1-1, 28.1-2, 28.1-3, 28.3-6 và Problem 28-1(a)–(c) và kiểm tra lại bằng phép nhân ngược.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương "Matrix Operations" vẫn là Chương 28 với cùng ba mục (hệ phương trình tuyến tính bằng LUP, nghịch đảo ma trận, ma trận đối xứng xác định dương và bình phương tối thiểu). Ấn bản 4 bỏ các thuộc tính kiểu `A.rows` và truyền kích thước n trực tiếp làm tham số của thủ tục. Các thay đổi chi tiết hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
