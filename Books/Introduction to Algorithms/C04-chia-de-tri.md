@@ -1854,7 +1854,7 @@ Ngược lại, ý tưởng giảm số phép nhân con rất thực tế ở nh
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn theo thứ tự của bản gốc — phần mở đầu chương về chia để trị và truy hồi, hai thuật toán mới (Mục 4.1 mảng con lớn nhất, Mục 4.2 Strassen), ba công cụ giải truy hồi (Mục 4.3 phương pháp thế, Mục 4.4 cây đệ quy, Mục 4.5–4.6 định lý thợ và chứng minh), bài toán và ghi chú cuối chương; mỗi nhánh ghi thuật toán, truy hồi, thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 4 trên một trang: chín nhánh lớn theo thứ tự của bản gốc — phần mở đầu chương về chia để trị và truy hồi, hai thuật toán mới (Mục 4.1 mảng con lớn nhất, Mục 4.2 Strassen), bốn mục về giải truy hồi (Mục 4.3 phương pháp thế, Mục 4.4 cây đệ quy, Mục 4.5 định lý thợ, Mục ★4.6 chứng minh), bài tập và bài toán cuối chương, ghi chú chương; mỗi nhánh ghi thuật toán, truy hồi, thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1867,115 +1867,149 @@ flowchart LR
   n0 --- n1
   n2["`Ba bước ở mỗi tầng đệ quy: chia thành bài toán con cùng dạng, trị bằng đệ quy, kết hợp lời giải`"]
   n1 --- n2
-  n3["`Bài toán con khác dạng bài gốc được tính vào bước kết hợp`"]
+  n3["`Bài toán con đủ nhỏ là trường hợp cơ sở, bài toán con khác dạng bài gốc được tính vào bước kết hợp`"]
   n1 --- n3
-  n4["`Truy hồi là phương trình mô tả một hàm qua giá trị của nó ở đầu vào nhỏ hơn, ví dụ sắp xếp trộn T(n) = 2T(n/2) + Θ(n)`"]
+  n4["`Truy hồi mô tả một hàm qua giá trị ở đầu vào nhỏ hơn, ví dụ sắp xếp trộn T(n) = 2T(n/2) + Θ(n)`"]
   n1 --- n4
-  n5["`Thường bỏ sàn, trần và điều kiện biên T(n) = Θ(1) vì chúng chỉ đổi nghiệm một hằng số`"]
+  n5["`Truy hồi có thể chia không đều như T(2n/3) + T(n/3) + Θ(n), hoặc bớt một phần tử như T(n − 1) + Θ(1)`"]
   n1 --- n5
-  n6["`Mục 4.1 — Mảng con lớn nhất, từ bài toán mua bán cổ phiếu`"]
-  n0 --- n6
-  n7["`Mua ở giá thấp nhất hay bán ở giá cao nhất không luôn đúng: giá 10, 11, 7, 10, 6 cho lãi tối đa 3 (mua 7, bán 10)`"]
-  n6 --- n7
-  n8["`Đổi giá thành thay đổi giá hằng ngày, tìm mảng con liên tiếp có tổng lớn nhất`"]
-  n6 --- n8
-  n9["`Ví dụ 17 ngày: mảng con lớn nhất A[8..11] = 18, 20, −7, 12, tổng 43, tức mua giá 63 bán giá 106`"]
-  n6 --- n9
-  n10["`Vét cạn thử mọi cặp ngày mua và bán: Θ(n²)`"]
-  n6 --- n10
-  n11["`Chia đôi tại mid: mảng con tốt nhất nằm hẳn bên trái, hẳn bên phải, hoặc vắt qua điểm giữa`"]
-  n6 --- n11
-  n12["`FIND-MAX-CROSSING-SUBARRAY quét từ mid ra hai phía trong Θ(n)`"]
-  n6 --- n12
-  n13["`FIND-MAXIMUM-SUBARRAY: T(n) = 2T(n/2) + Θ(n) = Θ(n lg n), cùng truy hồi với sắp xếp trộn`"]
-  n6 --- n13
-  n14["`Exercise 4.1-5: có thuật toán quét một lượt Θ(n), không dùng chia để trị`"]
-  n6 --- n14
-  n15["`Mục 4.2 — Nhân ma trận và thuật toán Strassen`"]
-  n0 --- n15
-  n16["`Cách thông thường SQUARE-MATRIX-MULTIPLY: ba vòng lặp lồng nhau, Θ(n³)`"]
-  n15 --- n16
-  n17["`Chia mỗi ma trận thành bốn khối n/2 × n/2 với 8 phép nhân đệ quy: T(n) = 8T(n/2) + Θ(n²) = Θ(n³), không nhanh hơn`"]
-  n15 --- n17
-  n18["`Cắt khối bằng tính chỉ số chỉ mất Θ(1), không cần chép phần tử`"]
-  n15 --- n18
-  n19["`Ký hiệu tiệm cận nuốt hằng số nhân, nhưng hệ số 8 trước T(n/2) thì không vì nó quyết định số nút con`"]
-  n15 --- n19
-  n20["`Strassen: lập 10 ma trận tổng hoặc hiệu S₁ đến S₁₀, chỉ 7 tích đệ quy P₁ đến P₇, ghép lại C bằng cộng trừ`"]
-  n15 --- n20
-  n21["`Strassen chạy T(n) = 7T(n/2) + Θ(n²) = Θ(n^(lg 7)) ≈ O(n^2,81)`"]
-  n15 --- n21
-  n22["`Exercise 4.2-7: nhân hai số phức chỉ bằng 3 phép nhân số thực thay vì 4`"]
-  n15 --- n22
-  n23["`Tác giả: phương pháp Strassen hoàn toàn không hiển nhiên, có lẽ là câu nói giảm nói tránh lớn nhất cuốn sách`"]
-  n15 --- n23
-  n24["`Mục 4.3–4.4 — Phương pháp thế và cây đệ quy`"]
-  n0 --- n24
-  n25["`Phương pháp thế: đoán dạng nghiệm rồi chứng minh bằng quy nạp, tìm hằng số`"]
-  n24 --- n25
-  n26["`Với T(n) = 2T(⌊n/2⌋) + n, đoán T(n) ≤ cn lg n đúng khi c ≥ 1, chọn cơ sở quy nạp n = 2, 3 vì T(1) = 1 làm hỏng cơ sở`"]
-  n24 --- n26
-  n27["`Khi quy nạp vướng, trừ một số hạng bậc thấp: đoán T(n) ≤ cn − d cho T(⌊n/2⌋) + T(⌈n/2⌉) + 1`"]
-  n24 --- n27
-  n28["`Cạm bẫy: viết T(n) ≤ cn + n = O(n) là sai, phải chứng minh đúng dạng chính xác T(n) ≤ cn`"]
-  n24 --- n28
-  n29["`Exercise 4.3-8 ghi 4T(n/2) + n² có nghiệm Θ(n²) là sai, nghiệm đúng là Θ(n² lg n)`"]
-  n24 --- n29
-  n30["`Đổi biến m = lg n đưa T(n) = 2T(√n) + lg n về S(m) = 2S(m/2) + m, nghiệm O(lg n lg lg n)`"]
-  n24 --- n30
-  n31["`Cây đệ quy: cộng chi phí từng tầng rồi cộng các tầng, dùng tốt nhất để sinh dự đoán rồi kiểm bằng phép thế`"]
-  n24 --- n31
-  n32["`Cây của 3T(n/4) + cn²: tầng i tốn (3/16)ⁱ cn², chuỗi giảm, tổng tối đa (16/13)cn², nghiệm Θ(n²)`"]
-  n24 --- n32
-  n33["`Cây của T(n/3) + T(2n/3) + cn: mỗi tầng tốn tối đa cn, cao log₃/₂ n tầng, nghiệm O(n lg n)`"]
-  n24 --- n33
-  n34["`Mục 4.5–★4.6 — Định lý thợ cho T(n) = aT(n/b) + f(n)`"]
-  n0 --- n34
-  n35["`So f(n) với n^(log#95;b a), chính là số lá của cây đệ quy`"]
-  n34 --- n35
-  n36["`Trường hợp 1: f nhỏ hơn n^(log#95;b a) theo nghĩa đa thức thì nghiệm Θ(n^(log#95;b a)), chi phí dồn ở lá`"]
-  n34 --- n36
-  n37["`Trường hợp 2: f cùng cỡ n^(log#95;b a) thì nghiệm Θ(n^(log#95;b a) lg n), chi phí chia đều các tầng`"]
-  n34 --- n37
-  n38["`Trường hợp 3: f lớn hơn n^(log#95;b a) theo nghĩa đa thức và thoả điều kiện chính quy af(n/b) ≤ cf(n), c #lt; 1, thì nghiệm Θ(f(n)), gốc chi phối`"]
-  n34 --- n38
-  n39["`Có khoảng trống giữa các trường hợp: 2T(n/2) + n lg n không dùng được định lý, nghiệm thật là Θ(n lg² n)`"]
-  n34 --- n39
-  n40["`Ví dụ áp dụng: 9T(n/3) + n cho Θ(n²), T(2n/3) + 1 cho Θ(lg n), 3T(n/4) + n lg n cho Θ(n lg n)`"]
-  n34 --- n40
-  n41["`Chứng minh ★4.6: Bổ đề 4.2 viết T(n) thành chi phí lá cộng tổng aʲ f(n/bʲ), Bổ đề 4.3 chặn tổng bằng chuỗi tăng, hằng hoặc giảm`"]
-  n34 --- n41
-  n42["`Sàn và trần chỉ làm kích thước bài toán con lệch tối đa hằng số b/(b − 1), định lý đúng cho mọi số nguyên n`"]
-  n34 --- n42
-  n43["`Bài toán và ghi chú cuối chương (trang 107–113)`"]
-  n0 --- n43
-  n44["`Problem 4-2: chép cả mảng khi truyền tham số làm sắp xếp trộn thành Θ(N²)`"]
-  n43 --- n44
-  n45["`Problem 4-4: hàm sinh cho Fibonacci Fᵢ = φⁱ/√5 làm tròn tới số nguyên gần nhất`"]
-  n43 --- n45
-  n46["`Problem 4-5: nếu hơn nửa số chip tốt, tìm mọi chip tốt bằng Θ(n) lần thử từng cặp`"]
-  n43 --- n46
-  n47["`Problem 4-6: min trái nhất các hàng của mảng Monge có chỉ số cột không giảm, tìm được trong O(m + n lg m)`"]
-  n43 --- n47
-  n48["`Chia để trị có từ Karatsuba và Ofman 1962, có thể từ Gauss 1805, Strassen công bố 1969`"]
-  n43 --- n48
-  n49["`Coppersmith–Winograd đạt O(n^2,376), cận dưới chỉ là Ω(n²) hiển nhiên`"]
-  n43 --- n49
-  n50["`Thực tế Strassen ít được chọn: hằng số lớn, kém ổn định số, tốn bộ nhớ, nên chỉ dùng trên điểm giao rồi chuyển về cách thường`"]
-  n43 --- n50
-  n51["`Akra–Bazzi giải truy hồi có bài toán con khác cỡ, kể cả T(n/3) + T(2n/3) + O(n)`"]
-  n43 --- n51
-  n52["`Thông điệp xuyên suốt`"]
-  n0 --- n52
-  n53["`Muốn chia để trị nhanh hơn: giảm số lời gọi đệ quy a (Strassen, Karatsuba) hoặc giảm chi phí kết hợp khi nó đang chi phối`"]
-  n52 --- n53
-  n54["`Tầng nào của cây đệ quy tốn nhiều nhất thì quyết định nghiệm`"]
-  n52 --- n54
-  n55["`Tiệm cận tốt hơn chưa chắc nhanh hơn ở mọi kích thước, cần ngưỡng chuyển sang thuật toán đơn giản cho bài toán con nhỏ`"]
-  n52 --- n55
+  n6["`Thường bỏ sàn, trần và điều kiện biên T(n) = Θ(1), vì đổi T(1) thường chỉ đổi nghiệm một hằng số nhân`"]
+  n1 --- n6
+  n7["`Mục 4.1 — Bài toán mảng con lớn nhất, xuất phát từ mua bán cổ phiếu`"]
+  n0 --- n7
+  n8["`Mua ở giá thấp nhất hay bán ở giá cao nhất không luôn tối ưu: giá 10, 11, 7, 10, 6 cho lãi tối đa 3 (mua 7, bán 10)`"]
+  n7 --- n8
+  n9["`Vét cạn thử C(n, 2) cặp ngày mua và ngày bán nên mất Ω(n²)`"]
+  n7 --- n9
+  n10["`Đổi giá thành thay đổi giá hằng ngày, tìm mảng con khác rỗng, liên tiếp có tổng lớn nhất`"]
+  n7 --- n10
+  n11["`Ví dụ 16 thay đổi giá: mảng con lớn nhất A[8..11] = 18, 20, −7, 12, tổng 43, tức mua giá 63 bán giá 106`"]
+  n7 --- n11
+  n12["`Chia tại mid: mảng con tốt nhất nằm hẳn bên trái, hẳn bên phải, hoặc vắt qua điểm giữa`"]
+  n7 --- n12
+  n13["`FIND-MAX-CROSSING-SUBARRAY quét từ mid ra hai phía, đúng n vòng lặp, nên mất Θ(n)`"]
+  n7 --- n13
+  n14["`FIND-MAXIMUM-SUBARRAY: T(n) = 2T(n/2) + Θ(n) = Θ(n lg n), cùng truy hồi với sắp xếp trộn`"]
+  n7 --- n14
+  n15["`Exercise 4.1-5: quét một lượt từ trái sang phải cho Θ(n), không dùng chia để trị`"]
+  n7 --- n15
+  n16["`Mục 4.2 — Thuật toán Strassen cho nhân ma trận`"]
+  n0 --- n16
+  n17["`SQUARE-MATRIX-MULTIPLY tính cᵢⱼ = Σ aᵢₖbₖⱼ bằng ba vòng lặp lồng nhau, mất Θ(n³)`"]
+  n16 --- n17
+  n18["`Cắt mỗi ma trận thành bốn khối n/2 × n/2 với 8 tích đệ quy: T(n) = 8T(n/2) + Θ(n²) = Θ(n³), không nhanh hơn`"]
+  n16 --- n18
+  n19["`Cắt khối bằng tính chỉ số mất Θ(1), không phải chép phần tử`"]
+  n16 --- n19
+  n20["`Ký hiệu tiệm cận nuốt hằng số nhân, nhưng hệ số 8 trước T(n/2) thì không vì nó quyết định số nút con`"]
+  n16 --- n20
+  n21["`Strassen lập 10 tổng hoặc hiệu S₁ đến S₁₀ và chỉ 7 tích đệ quy P₁ đến P₇, phần cộng trừ tốn Θ(n²)`"]
+  n16 --- n21
+  n22["`Strassen ghép C₁₁ = P₅ + P₄ − P₂ + P₆, C₁₂ = P₁ + P₂, C₂₁ = P₃ + P₄, C₂₂ = P₅ + P₁ − P₃ − P₇`"]
+  n16 --- n22
+  n23["`Strassen chạy T(n) = 7T(n/2) + Θ(n²) = Θ(n^(lg 7)) = O(n^2,81)`"]
+  n16 --- n23
+  n24["`Exercise 4.2-1: Strassen nhân (1 3 / 7 5) với (6 8 / 4 2) ra (18 14 / 62 66) bằng 7 phép nhân`"]
+  n16 --- n24
+  n25["`Mục 4.3 — Phương pháp thế`"]
+  n0 --- n25
+  n26["`Hai bước: đoán dạng nghiệm, rồi dùng quy nạp tìm hằng số và chứng minh nghiệm đúng`"]
+  n25 --- n26
+  n27["`Với T(n) = 2T(⌊n/2⌋) + n, đoán T(n) ≤ cn lg n, thế vào được cn lg n − cn + n ≤ cn lg n khi c ≥ 1`"]
+  n25 --- n27
+  n28["`T(1) = 1 làm hỏng cơ sở vì c · 1 · lg 1 = 0, nên lấy cơ sở quy nạp n = 2, 3 với c ≥ 2`"]
+  n25 --- n28
+  n29["`Đoán tốt nhờ giống truy hồi đã biết, như 2T(⌊n/2⌋ + 17) + n vẫn O(n lg n), hoặc kẹp dần cận dưới và cận trên`"]
+  n25 --- n29
+  n30["`Quy nạp vướng thì trừ số hạng bậc thấp: T(⌊n/2⌋) + T(⌈n/2⌉) + 1 chứng minh được T(n) ≤ cn − d với d ≥ 1`"]
+  n25 --- n30
+  n31["`Cạm bẫy: viết T(n) ≤ cn + n = O(n) là sai, phải chứng minh đúng dạng chính xác T(n) ≤ cn`"]
+  n25 --- n31
+  n32["`Đổi biến m = lg n đưa T(n) = 2T(√n) + lg n về S(m) = 2S(m/2) + m, nghiệm O(lg n lg lg n)`"]
+  n25 --- n32
+  n33["`Mục 4.4 — Phương pháp cây đệ quy`"]
+  n0 --- n33
+  n34["`Mỗi nút là chi phí một bài toán con, cộng theo tầng rồi cộng các tầng, tốt nhất để đoán rồi kiểm bằng phép thế`"]
+  n33 --- n34
+  n35["`Cây của 3T(n/4) + cn²: tầng i tốn (3/16)ⁱ cn², có n^(log₄ 3) lá, tổng dưới (16/13)cn² + Θ(n^(log₄ 3))`"]
+  n33 --- n35
+  n36["`Nghiệm 3T(n/4) + cn² là Θ(n²), kiểm bằng phép thế T(n) ≤ dn² khi d ≥ (16/13)c`"]
+  n33 --- n36
+  n37["`Cây của T(n/3) + T(2n/3) + cn: mỗi tầng tốn tối đa cn, cao log₃/₂ n, cây không đầy đủ, dự đoán O(n lg n)`"]
+  n33 --- n37
+  n38["`Kiểm T(n/3) + T(2n/3) + cn bằng phép thế: T(n) ≤ dn lg n khi d ≥ c/(lg 3 − 2/3)`"]
+  n33 --- n38
+  n39["`Mục 4.5 — Phương pháp thợ cho T(n) = aT(n/b) + f(n), a ≥ 1, b #gt; 1`"]
+  n0 --- n39
+  n40["`Định lý 4.1 so f(n) với n^(log#95;b a), cũng chính là số lá của cây đệ quy`"]
+  n39 --- n40
+  n41["`Trường hợp 1: f(n) = O(n^(log#95;b a − ε)) với ε #gt; 0 thì T(n) = Θ(n^(log#95;b a)), chi phí dồn ở lá`"]
+  n39 --- n41
+  n42["`Trường hợp 2: f(n) = Θ(n^(log#95;b a)) thì T(n) = Θ(n^(log#95;b a) lg n), chi phí chia đều các tầng`"]
+  n39 --- n42
+  n43["`Trường hợp 3: f(n) = Ω(n^(log#95;b a + ε)) và af(n/b) ≤ cf(n) với c #lt; 1 thì T(n) = Θ(f(n)), gốc chi phối`"]
+  n39 --- n43
+  n44["`Nhỏ hơn hay lớn hơn phải theo nghĩa đa thức (chênh một thừa số n^ε), nên có khoảng trống giữa các trường hợp`"]
+  n39 --- n44
+  n45["`2T(n/2) + n lg n rơi vào khoảng trống vì tỷ số lg n nhỏ hơn mọi n^ε, nghiệm thật là Θ(n lg² n)`"]
+  n39 --- n45
+  n46["`Ví dụ: 9T(n/3) + n cho Θ(n²), T(2n/3) + 1 cho Θ(lg n), 3T(n/4) + n lg n cho Θ(n lg n) với c = 3/4`"]
+  n39 --- n46
+  n47["`Áp dụng: 2T(n/2) + Θ(n) cho Θ(n lg n), 8T(n/2) + Θ(n²) cho Θ(n³), 7T(n/2) + Θ(n²) cho Θ(n^(lg 7))`"]
+  n39 --- n47
+  n48["`Mục ★4.6 — Chứng minh định lý thợ`"]
+  n0 --- n48
+  n49["`Cảnh báo miền hạn chế: T(n) = n trên lũy thừa của 2 và n² nơi khác chỉ là O(n²), không phải O(n)`"]
+  n48 --- n49
+  n50["`Bổ đề 4.2: cây a-phân cao log#95;b n cho T(n) = Θ(n^(log#95;b a)) + Σ aʲ f(n/bʲ), j từ 0 tới log#95;b n − 1`"]
+  n48 --- n50
+  n51["`Bổ đề 4.3: tổng đó là chuỗi hình học tăng (lá chi phối), các số hạng bằng nhau, hoặc chuỗi giảm (gốc chi phối)`"]
+  n48 --- n51
+  n52["`Bổ đề 4.4 ghép hai bổ đề, chứng minh định lý thợ khi n là lũy thừa đúng của b`"]
+  n48 --- n52
+  n53["`Mục 4.6.2: với trần thì nⱼ #lt; n/bʲ + b/(b − 1), độ sâu ⌊log#95;b n⌋ còn cỡ O(1), định lý đúng cho mọi số nguyên n`"]
+  n48 --- n53
+  n54["`Exercise ★4.6-2: f(n) = Θ(n^(log#95;b a) lgᵏ n) cho nghiệm T(n) = Θ(n^(log#95;b a) lg^(k+1) n)`"]
+  n48 --- n54
+  n55["`Bài tập các mục và Problems 4-1 đến 4-6 (trang 74–111)`"]
+  n0 --- n55
+  n56["`Exercise 4.2-7: nhân hai số phức bằng 3 phép nhân số thực ac, bd, (a + b)(c + d) thay vì 4`"]
+  n55 --- n56
+  n57["`Exercise 4.3-8 của sách ghi 4T(n/2) + n² có nghiệm Θ(n²) là sai, nghiệm đúng là Θ(n² lg n)`"]
+  n55 --- n57
+  n58["`Problem 4-2: chép cả mảng khi truyền tham số làm tìm kiếm nhị phân thành Θ(N lg N), sắp xếp trộn thành Θ(N²)`"]
+  n55 --- n58
+  n59["`Problem 4-3: truy hồi trong khoảng trống như 3T(n/3) + n/lg n có nghiệm Θ(n lg lg n)`"]
+  n55 --- n59
+  n60["`Problem 4-4: hàm sinh F(z) = z/(1 − z − z²) cho Fᵢ = φⁱ/√5 làm tròn tới số nguyên gần nhất`"]
+  n55 --- n60
+  n61["`Problem 4-5: hơn n/2 chip hỏng thì không chắc tìm được chip tốt, hơn n/2 chip tốt thì Θ(n) lần thử là đủ`"]
+  n55 --- n61
+  n62["`Problem 4-6: cột chứa min trái nhất các hàng mảng Monge không giảm, chia để trị theo hàng chẵn cho O(m + n lg m)`"]
+  n55 --- n62
+  n63["`Ghi chú chương (trang 111–113)`"]
+  n0 --- n63
+  n64["`Chia để trị có từ Karatsuba và Ofman 1962, có thể từ Gauss 1805 với FFT, Strassen công bố 1969`"]
+  n63 --- n64
+  n65["`Coppersmith–Winograd đạt O(n^2,376) tới lúc sách viết, cận dưới chỉ là Ω(n²) hiển nhiên`"]
+  n63 --- n65
+  n66["`Strassen ít được chọn vì hằng số lớn, ma trận thưa có cách riêng, kém ổn định số và tốn bộ nhớ`"]
+  n63 --- n66
+  n67["`Thực tế dùng Strassen trên điểm giao (n = 8 hoặc 12 theo đếm phép tính, 400–2150 khi đo) rồi chuyển về cách thường`"]
+  n63 --- n67
+  n68["`Akra–Bazzi giải T(x) = Σ aᵢT(bᵢx) + f(x) qua p với Σ aᵢbᵢ^p = 1, phủ cả T(n/3) + T(2n/3) + O(n)`"]
+  n63 --- n68
+  n69["`Thông điệp xuyên suốt`"]
+  n0 --- n69
+  n70["`Muốn chia để trị nhanh hơn: giảm số lời gọi đệ quy a (Strassen, Karatsuba) hoặc giảm chi phí kết hợp khi nó đang chi phối`"]
+  n69 --- n70
+  n71["`Tầng nào của cây đệ quy tốn nhiều nhất thì quyết định nghiệm`"]
+  n69 --- n71
+  n72["`Tiệm cận tốt hơn chưa chắc nhanh hơn ở mọi kích thước, cần ngưỡng chuyển sang thuật toán đơn giản cho bài toán con nhỏ`"]
+  n69 --- n72
   class n0 root
-  class n1,n6,n15,n24,n34,n43,n52 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55 leaf
+  class n1,n7,n16,n25,n33,n39,n48,n55,n63,n69 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67,n68,n70,n71,n72 leaf
 ```
 
 ## Nguồn
