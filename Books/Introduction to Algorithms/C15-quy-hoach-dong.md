@@ -350,9 +350,19 @@ Mục 15.3 cũng cảnh báo: không phải bài toán nào có vẻ "tách đư
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Khi nào quy hoạch động áp dụng được và vì sao nó nhanh?** Khi bài toán tối ưu có cấu trúc con tối ưu (lời giải tối ưu chứa lời giải tối ưu của các bài toán con độc lập, chứng minh bằng cắt và dán) và bài toán con gối nhau (đệ quy tự nhiên gặp lại cùng một tập nhỏ — đa thức — các bài toán con). Khi đó giải mỗi bài toán con đúng một lần và lưu vào bảng biến thời gian mũ thành đa thức: cắt thanh thép từ T(n) = 2ⁿ lời gọi xuống Θ(n²); nhân dãy ma trận từ Ω(2ⁿ) (đệ quy không ghi nhớ, T(n) ≥ 2ⁿ⁻¹) xuống Θ(n³). Thời gian chạy xấp xỉ (số bài toán con) × (số lựa chọn mỗi bài toán con): Θ(n) × n cho cắt thép, Θ(n²) × (n − 1) cho dãy ma trận, Θ(mn) × O(1) cho LCS, Θ(n²) × n cho cây tìm kiếm tối ưu.
-2. **Làm thế nào để thiết kế một thuật toán quy hoạch động cụ thể?** Theo bốn bước: (1) mô tả cấu trúc lời giải tối ưu bằng cách hình dung "lựa chọn đầu tiên" (nhát cắt đầu, chỗ tách k của dãy ma trận, so khớp phần tử cuối x_m với y_n, gốc k_r của cây) và các bài toán con nó để lại; (2) viết truy hồi — r_n = max_{1≤i≤n}(p_i + r_{n−i}); m[i, j] = min_{i≤k<j}(m[i, k] + m[k+1, j] + p_{i−1}p_kp_j); c[i, j] = c[i−1, j−1] + 1 hoặc max(c[i, j−1], c[i−1, j]); e[i, j] = min_{i≤r≤j}(e[i, r−1] + e[r+1, j] + w(i, j)); (3) tính bảng theo thứ tự sao cho mọi bài toán con phụ thuộc đã có (thứ tự tô pô ngược của đồ thị bài toán con: kích thước tăng dần, độ dài dãy tăng dần, từng hàng), hoặc ghi nhớ từ trên xuống; (4) lưu lựa chọn (s, b, root) để dựng lời giải, mỗi bước O(1).
-3. **Khi nào cấu trúc con tối ưu không tồn tại, và chọn cách cài đặt nào?** Đường đi đơn dài nhất là phản ví dụ: trong đồ thị bốn đỉnh q, r, s, t, đường q→r→t dài nhất từ q tới t nhưng q→r không phải đường dài nhất từ q tới r (q→s→t→r dài hơn); hai bài toán con dùng chung đỉnh nên không độc lập, ghép lại thành đường không đơn, và bài toán là NP-đầy đủ. Tương tự, giới hạn số mảnh mỗi loại trong cắt thép hay phí giao dịch tuỳ ý theo số lần đổi tiền phá vỡ cấu trúc con tối ưu. Về cài đặt: từ dưới lên nhanh hơn một hằng số khi phải giải mọi bài toán con (không tốn gọi đệ quy, có thể tiết kiệm bộ nhớ như giữ hai hàng của bảng LCS); ghi nhớ từ trên xuống có lợi khi nhiều bài toán con không bao giờ cần đến.
+1. **Khi nào quy hoạch động áp dụng được và vì sao nó nhanh?** Khi bài toán tối ưu có cấu trúc con tối ưu (lời giải tối ưu chứa lời giải tối ưu của các bài toán con độc lập, chứng minh bằng cắt và dán) và bài toán con gối nhau (đệ quy tự nhiên gặp lại cùng một tập nhỏ — đa thức — các bài toán con). Khi đó giải mỗi bài toán con đúng một lần và lưu vào bảng biến thời gian mũ thành đa thức: cắt thanh thép từ T(n) = 2ⁿ lời gọi xuống Θ(n²); nhân dãy ma trận từ Ω(2ⁿ) (đệ quy không ghi nhớ, T(n) ≥ 2ⁿ⁻¹) xuống Θ(n³).
+
+   Thời gian chạy xấp xỉ (số bài toán con) × (số lựa chọn mỗi bài toán con): Θ(n) × n cho cắt thép, Θ(n²) × (n − 1) cho dãy ma trận, Θ(mn) × O(1) cho LCS, Θ(n²) × n cho cây tìm kiếm tối ưu.
+2. **Làm thế nào để thiết kế một thuật toán quy hoạch động cụ thể?** Theo bốn bước: (1) mô tả cấu trúc lời giải tối ưu bằng cách hình dung "lựa chọn đầu tiên" (nhát cắt đầu, chỗ tách k của dãy ma trận, so khớp phần tử cuối x_m với y_n, gốc k_r của cây) và các bài toán con nó để lại.
+
+   (2) viết truy hồi — r_n = max_{1≤i≤n}(p_i + r_{n−i}); m[i, j] = min_{i≤k<j}(m[i, k] + m[k+1, j] + p_{i−1}p_kp_j); c[i, j] = c[i−1, j−1] + 1 hoặc max(c[i, j−1], c[i−1, j]); e[i, j] = min_{i≤r≤j}(e[i, r−1] + e[r+1, j] + w(i, j)).
+
+   (3) tính bảng theo thứ tự sao cho mọi bài toán con phụ thuộc đã có (thứ tự tô pô ngược của đồ thị bài toán con: kích thước tăng dần, độ dài dãy tăng dần, từng hàng), hoặc ghi nhớ từ trên xuống.
+
+   (4) lưu lựa chọn (s, b, root) để dựng lời giải, mỗi bước O(1).
+3. **Khi nào cấu trúc con tối ưu không tồn tại, và chọn cách cài đặt nào?** Đường đi đơn dài nhất là phản ví dụ: trong đồ thị bốn đỉnh q, r, s, t, đường q→r→t dài nhất từ q tới t nhưng q→r không phải đường dài nhất từ q tới r (q→s→t→r dài hơn); hai bài toán con dùng chung đỉnh nên không độc lập, ghép lại thành đường không đơn, và bài toán là NP-đầy đủ. Tương tự, giới hạn số mảnh mỗi loại trong cắt thép hay phí giao dịch tuỳ ý theo số lần đổi tiền phá vỡ cấu trúc con tối ưu.
+
+   Về cài đặt: từ dưới lên nhanh hơn một hằng số khi phải giải mọi bài toán con (không tốn gọi đệ quy, có thể tiết kiệm bộ nhớ như giữ hai hàng của bảng LCS); ghi nhớ từ trên xuống có lợi khi nhiều bài toán con không bao giờ cần đến.
 
 ## Khái niệm cần biết
 
@@ -822,105 +832,109 @@ flowchart LR
   n1 --- n4
   n5["`Bốn bước xây dựng thuật toán quy hoạch động`"]
   n1 --- n5
-  n6["`Mô tả cấu trúc lời giải tối ưu, rồi viết truy hồi cho giá trị tối ưu`"]
+  n6["`Mô tả cấu trúc lời giải tối ưu, rồi định nghĩa đệ quy giá trị tối ưu`"]
   n5 --- n6
   n7["`Tính giá trị tối ưu từ dưới lên, rồi dựng lời giải từ thông tin lựa chọn đã lưu`"]
   n5 --- n7
   n8["`Mục 15.1 — Cắt thanh thép`"]
   n0 --- n8
-  n9["`Thanh dài n inch, bảng giá pᵢ, cắt thế nào để doanh thu rₙ lớn nhất, có 2ⁿ⁻¹ cách cắt`"]
+  n9["`Thanh dài n inch, bảng giá p#95;i, tìm doanh thu lớn nhất r#95;n, có 2ⁿ⁻¹ cách cắt`"]
   n8 --- n9
-  n10["`Truy hồi rₙ = max(pᵢ + rₙ₋ᵢ) với r₀ = 0: mảnh đầu dài i bán nguyên, phần còn lại cắt tiếp`"]
+  n10["`Bảng giá mẫu: n = 4 cắt 2 + 2 được 10, r#95;10 = 30 không cắt, r#95;7 = 18 với 1 + 6 hoặc 2 + 2 + 3`"]
   n8 --- n10
-  n11["`CUT-ROD đệ quy ngây thơ gọi 2ⁿ lần, n = 40 có thể chạy hơn một giờ`"]
+  n11["`Truy hồi (15.2): r#95;n = max#95;{1≤i≤n} (p#95;i + r#95;{n−i}), mảnh đầu bán nguyên, phần còn lại cắt tiếp`"]
   n8 --- n11
-  n12["`Hai cách cài đặt cùng Θ(n²)`"]
+  n12["`CUT-ROD đệ quy ngây thơ: T(n) = 2ⁿ lời gọi, n = 40 có thể chạy hơn một giờ`"]
   n8 --- n12
-  n13["`Từ trên xuống có ghi nhớ: bảng khởi tạo −∞, mỗi bài toán con giải một lần`"]
-  n12 --- n13
-  n14["`Từ dưới lên: giải theo kích thước tăng dần, hằng số nhỏ hơn vì không tốn lời gọi hàm`"]
-  n12 --- n14
-  n15["`Đồ thị bài toán con: thời gian thường tuyến tính theo số đỉnh và số cạnh`"]
-  n8 --- n15
-  n16["`Lưu thêm s[j] là độ dài mảnh đầu tối ưu để in lời giải, ví dụ n = 7 cắt thành 1 và 6`"]
+  n13["`Hai cách cài đặt cùng Θ(n²)`"]
+  n8 --- n13
+  n14["`MEMOIZED-CUT-ROD: mảng r khởi tạo −∞ nghĩa là chưa biết, mỗi bài toán con giải một lần`"]
+  n13 --- n14
+  n15["`BOTTOM-UP-CUT-ROD: giải j = 1, 2, …, n, hằng số nhỏ hơn vì không tốn lời gọi thủ tục`"]
+  n13 --- n15
+  n16["`Đồ thị bài toán con: từ dưới lên là thứ tự tô pô ngược, thời gian tuyến tính theo số đỉnh và số cạnh`"]
   n8 --- n16
-  n17["`Mục 15.2 — Nhân dãy ma trận`"]
-  n0 --- n17
-  n18["`Tìm cách đặt ngoặc có ít phép nhân vô hướng nhất, không thực sự nhân`"]
-  n17 --- n18
-  n19["`Ví dụ 10×100, 100×5, 5×50: đặt ngoặc trái tốn 7.500, đặt ngoặc phải tốn 75.000`"]
-  n17 --- n19
-  n20["`Vét cạn không khả thi: số cách đặt ngoặc là số Catalan, tăng như Ω(4ⁿ/n^(3/2))`"]
-  n17 --- n20
-  n21["`Truy hồi m[i, j] = min(m[i, k] + m[k+1, j] + pᵢ₋₁pₖpⱼ), bảng s ghi k tốt nhất`"]
-  n17 --- n21
-  n22["`MATRIX-CHAIN-ORDER điền bảng theo độ dài dãy, Θ(n³) thời gian và Θ(n²) bộ nhớ`"]
-  n17 --- n22
-  n23["`Ví dụ 6 ma trận: chi phí tối ưu 15.125, lời giải ((A₁(A₂A₃))((A₄A₅)A₆))`"]
-  n17 --- n23
-  n24["`Mục 15.3 — Hai yếu tố của quy hoạch động`"]
-  n0 --- n24
-  n25["`Cấu trúc con tối ưu`"]
-  n24 --- n25
-  n26["`Lời giải tối ưu chứa lời giải tối ưu của bài toán con, chứng minh bằng cắt và dán`"]
+  n17["`EXTENDED-BOTTOM-UP-CUT-ROD lưu s[j] để in lời giải, n = 7 in 1 rồi 6`"]
+  n8 --- n17
+  n18["`Mục 15.2 — Nhân dãy ma trận`"]
+  n0 --- n18
+  n19["`Tìm cách đặt ngoặc có ít phép nhân vô hướng nhất, không thực sự nhân, ma trận p × q nhân q × r tốn pqr`"]
+  n18 --- n19
+  n20["`Ví dụ 10 × 100, 100 × 5, 5 × 50: ((A₁A₂)A₃) tốn 7.500, (A₁(A₂A₃)) tốn 75.000`"]
+  n18 --- n20
+  n21["`Số cách đặt ngoặc P(n) là số Catalan, tăng như Ω(4ⁿ/n^{3/2}), P(10) = 4.862`"]
+  n18 --- n21
+  n22["`Truy hồi (15.7): m[i, j] = min#95;{i≤k#lt;j}(m[i, k] + m[k + 1, j] + p#95;{i−1}p#95;kp#95;j), bảng s ghi k tốt nhất`"]
+  n18 --- n22
+  n23["`MATRIX-CHAIN-ORDER điền bảng theo độ dài dãy l = 2, …, n, Θ(n³) thời gian và Θ(n²) bộ nhớ`"]
+  n18 --- n23
+  n24["`Ví dụ 6 ma trận p = ⟨30, 35, 15, 5, 10, 20, 25⟩: m[1, 6] = 15.125, lời giải ((A₁(A₂A₃))((A₄A₅)A₆))`"]
+  n18 --- n24
+  n25["`Mục 15.3 — Hai yếu tố của quy hoạch động`"]
+  n0 --- n25
+  n26["`Cấu trúc con tối ưu`"]
   n25 --- n26
-  n27["`Giữ không gian bài toán con đơn giản, chỉ mở rộng khi cần như dãy ma trận đổi cả i và j`"]
-  n25 --- n27
-  n28["`Thời gian ≈ số bài toán con × số lựa chọn mỗi bài toán con`"]
-  n25 --- n28
-  n29["`Bài toán con gối nhau`"]
-  n24 --- n29
-  n30["`Đệ quy không ghi nhớ cho dãy ma trận tốn ít nhất 2ⁿ⁻¹, ghi nhớ đưa về O(n³)`"]
-  n29 --- n30
-  n31["`Merge sort sinh bài toán con mới ở mỗi bước nên ghi nhớ không giúp gì`"]
-  n29 --- n31
-  n32["`Phản ví dụ: đường đi đơn dài nhất không có cấu trúc con tối ưu`"]
-  n24 --- n32
-  n33["`Bài toán con dùng chung đỉnh nên không độc lập, ghép lại được đường không đơn`"]
-  n32 --- n33
-  n34["`Đường đi ngắn nhất thì có, vì hai đoạn không dùng chung đỉnh`"]
-  n32 --- n34
-  n35["`Từ dưới lên nhanh hơn một hằng số khi mọi bài toán con đều phải giải, ghi nhớ thắng khi nhiều bài toán con không cần`"]
-  n24 --- n35
-  n36["`Mục 15.4–15.5 — LCS và cây tìm kiếm nhị phân tối ưu`"]
-  n0 --- n36
-  n37["`Dãy con chung dài nhất (LCS) của hai chuỗi, động cơ là so sánh DNA`"]
-  n36 --- n37
-  n38["`Định lý 15.1: ký tự cuối khớp thì thuộc LCS, không khớp thì bỏ ký tự cuối của một chuỗi`"]
+  n27["`Lời giải tối ưu chứa lời giải tối ưu của bài toán con, chứng minh bằng cắt và dán`"]
+  n26 --- n27
+  n28["`Giữ không gian bài toán con đơn giản, chỉ mở rộng khi cần như dãy ma trận đổi cả i và j`"]
+  n26 --- n28
+  n29["`Thời gian ≈ số bài toán con × số lựa chọn mỗi bài toán con`"]
+  n26 --- n29
+  n30["`Bài toán con gối nhau`"]
+  n25 --- n30
+  n31["`RECURSIVE-MATRIX-CHAIN không ghi nhớ tốn T(n) ≥ 2ⁿ⁻¹, LOOKUP-CHAIN có ghi nhớ đưa về O(n³)`"]
+  n30 --- n31
+  n32["`MERGE-SORT sinh bài toán con mới ở mỗi bước nên ghi nhớ không giúp gì`"]
+  n30 --- n32
+  n33["`Phản ví dụ: đường đi đơn dài nhất không có cấu trúc con tối ưu`"]
+  n25 --- n33
+  n34["`Bài toán con dùng chung đỉnh nên không độc lập, ghép lại được đường không đơn, bài toán NP-đầy đủ`"]
+  n33 --- n34
+  n35["`Đường đi ngắn nhất thì có, vì hai đoạn không dùng chung đỉnh`"]
+  n33 --- n35
+  n36["`Từ dưới lên nhanh hơn một hằng số khi mọi bài toán con đều phải giải, ghi nhớ thắng khi nhiều bài toán con không cần`"]
+  n25 --- n36
+  n37["`Mục 15.4–15.5 — LCS và cây tìm kiếm nhị phân tối ưu`"]
+  n0 --- n37
+  n38["`Dãy con chung dài nhất của X = ABCBDAB và Y = BDCABA là BCBA, độ dài 4`"]
   n37 --- n38
-  n39["`LCS-LENGTH điền bảng c và mũi tên b trong Θ(mn), PRINT-LCS dựng lời giải trong O(m + n)`"]
-  n37 --- n39
-  n40["`Chỉ cần độ dài thì giữ 2 hàng của bảng, nhưng mất khả năng dựng lại LCS`"]
-  n37 --- n40
-  n41["`Cây tìm kiếm nhị phân tối ưu cực tiểu chi phí tìm kỳ vọng`"]
-  n36 --- n41
-  n42["`Có khoá thật kᵢ với xác suất pᵢ và khoá giả dᵢ với xác suất qᵢ`"]
-  n41 --- n42
-  n43["`Ví dụ n = 5: cây tối ưu chi phí 2,75 có gốc k₂, không phải cây thấp nhất`"]
-  n41 --- n43
-  n44["`Truy hồi e[i, j] = min(e[i, r−1] + e[r+1, j] + w(i, j)), OPTIMAL-BST chạy Θ(n³)`"]
-  n41 --- n44
-  n45["`Knuth: tính đơn điệu của gốc giảm được xuống Θ(n²)`"]
-  n41 --- n45
-  n46["`Phần Bài toán cuối chương — mười hai ứng dụng`"]
-  n0 --- n46
-  n47["`Đường đi dài nhất trong đồ thị không chu trình, dãy con đối xứng dài nhất, người du lịch bitonic O(n²)`"]
-  n46 --- n47
-  n48["`Khoảng cách sửa với gióng hàng DNA là trường hợp riêng, thuật toán Viterbi`"]
-  n46 --- n48
-  n49["`Seam carving nén ảnh, tiệc công ty trên cây, chia chuỗi, đầu tư, tồn kho, ký hợp đồng cầu thủ`"]
-  n46 --- n49
-  n50["`Thông điệp xuyên suốt`"]
-  n0 --- n50
-  n51["`Quy hoạch động đánh đổi bộ nhớ lấy thời gian, biến thuật toán mũ thành đa thức`"]
-  n50 --- n51
-  n52["`Chỉ dùng khi có đủ cấu trúc con tối ưu và bài toán con gối nhau, không được tự cho là có`"]
-  n50 --- n52
-  n53["`Bellman khởi đầu nghiên cứu có hệ thống năm 1955`"]
-  n50 --- n53
+  n39["`Định lý 15.1: x#95;m = y#95;n thì ký tự đó thuộc LCS, khác nhau thì bỏ ký tự cuối của một dãy`"]
+  n38 --- n39
+  n40["`LCS-LENGTH điền bảng c và mũi tên b trong Θ(mn), PRINT-LCS dựng lời giải trong O(m + n)`"]
+  n38 --- n40
+  n41["`Chỉ cần độ dài thì giữ 2 hàng của bảng c, nhưng mất khả năng dựng lại LCS`"]
+  n38 --- n41
+  n42["`Cây tìm kiếm nhị phân tối ưu cực tiểu chi phí tìm kỳ vọng`"]
+  n37 --- n42
+  n43["`Khoá k#95;i với xác suất p#95;i và khoá giả d#95;i với xác suất q#95;i`"]
+  n42 --- n43
+  n44["`Ví dụ n = 5: cây tối ưu chi phí 2,75 có gốc k₂, không phải cây thấp nhất, không đặt k₅ ở gốc`"]
+  n42 --- n44
+  n45["`e[i, j] = min#95;{i≤r≤j}(e[i, r−1] + e[r+1, j] + w(i, j)), OPTIMAL-BST chạy Θ(n³)`"]
+  n42 --- n45
+  n46["`Knuth: root[i, j−1] ≤ root[i, j] ≤ root[i+1, j] giảm được xuống Θ(n²)`"]
+  n42 --- n46
+  n47["`Phần Bài toán cuối chương — mười hai ứng dụng`"]
+  n0 --- n47
+  n48["`Đường đi dài nhất trong đồ thị không chu trình, dãy con đối xứng dài nhất, người du lịch bitonic O(n²)`"]
+  n47 --- n48
+  n49["`Khoảng cách sửa với gióng hàng DNA là trường hợp riêng, thuật toán Viterbi`"]
+  n47 --- n49
+  n50["`Seam carving nén ảnh, tiệc công ty trên cây, chia chuỗi, đầu tư, tồn kho, ký hợp đồng cầu thủ`"]
+  n47 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Quy hoạch động đánh đổi bộ nhớ lấy thời gian, biến thuật toán mũ thành đa thức`"]
+  n51 --- n52
+  n53["`Chỉ dùng khi có đủ cấu trúc con tối ưu và bài toán con gối nhau, không được tự cho là có`"]
+  n51 --- n53
+  n54["`numpy.linalg.multi#95;dot dùng đúng quy hoạch động O(n³) của Mục 15.2 để chọn thứ tự nhân`"]
+  n51 --- n54
+  n55["`Bellman khởi đầu nghiên cứu có hệ thống năm 1955`"]
+  n51 --- n55
   class n0 root
-  class n1,n8,n17,n24,n36,n46,n50 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n51,n52,n53 leaf
+  class n1,n8,n18,n25,n37,n47,n51 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n52,n53,n54,n55 leaf
 ```
 
 ## Nguồn

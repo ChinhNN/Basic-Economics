@@ -224,9 +224,19 @@ Thủ tục INTERVAL-SEARCH(T, i) đi một đường duy nhất từ gốc xu�
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao tìm phần tử nhỏ thứ i và tính hạng của một phần tử trong một tập động, mỗi việc trong O(lg n)?** Dùng cây thống kê thứ tự: cây đỏ-đen trong đó mỗi nút x lưu x.size = x.left.size + x.right.size + 1 (T.nil.size = 0). OS-SELECT(x, i) tính r = x.left.size + 1 (hạng của x trong cây con của nó); nếu i = r trả về x, nếu i < r tìm thứ i ở cây con trái, nếu i > r tìm thứ i − r ở cây con phải. OS-RANK(T, x) bắt đầu với r = x.left.size + 1 rồi leo lên gốc, mỗi khi nút hiện tại y là con phải thì cộng y.p.left.size + 1. Cả hai đi qua tối đa một đường dài bằng chiều cao cây, tức O(lg n). Trên cây mẫu 20 nút, tìm phần tử thứ 17 đi qua 26 (hạng 13) → 41 (hạng 6 trong cây con, tìm thứ 4) → 30 (hạng 2, tìm thứ 2 bên phải) → 38 (hạng 2) và trả về khoá 38; OS-RANK của nút 38 cho r lần lượt 2, 4, 4, 17.
-2. **Khi nào thông tin bổ sung vào cây đỏ-đen được duy trì "miễn phí" qua chèn và xoá?** Theo Định lý 14.1: khi giá trị f ở nút x chỉ phụ thuộc vào thông tin của x, x.left và x.right (kể cả x.left.f, x.right.f). Lý do: thay đổi f ở một nút chỉ lan lên các tổ tiên, mất O(lg n); chèn gồm một pha đi xuống (O(lg n)) cộng nhiều nhất 2 phép quay, xoá gồm một pha gỡ nút (O(lg n)) cộng nhiều nhất 3 phép quay, mỗi phép quay chỉ đổi 2 nút. Vậy tổng vẫn O(lg n). Với size và max, mỗi phép quay chỉ cần O(1): ví dụ thêm `y.size = x.size` và `x.size = x.left.size + x.right.size + 1` vào cuối LEFT-ROTATE. Ngược lại, hạng trong toàn cây hay độ sâu của nút *không* thoả tiêu chí — chèn một phần tử nhỏ nhất làm đổi hạng của mọi nút.
-3. **Làm sao tìm nhanh một khoảng trong tập động giao với khoảng truy vấn i?** Dùng cây khoảng: cây đỏ-đen khoá theo đầu mút dưới, mỗi nút lưu x.max = max(x.int.high, x.left.max, x.right.max). INTERVAL-SEARCH đi một đường từ gốc: nếu x.int không giao i, rẽ trái khi x.left ≠ T.nil và x.left.max ≥ i.low, ngược lại rẽ phải. Theo Định lý 14.2, cách rẽ này không bao giờ bỏ sót: rẽ phải chỉ khi mọi khoảng bên trái kết thúc trước i.low; rẽ trái khi có khoảng i′ bên trái kết thúc ở x.left.max ≥ i.low, và nếu i′ không giao i thì i kết thúc trước i′.low, mà mọi khoảng bên phải bắt đầu sau i′.low, nên bên phải cũng không có gì. Thời gian O(lg n). Trên cây mẫu 10 khoảng, i = [22, 25] đi qua [16, 21] → [8, 9] → [15, 23] và trả về [15, 23]; i = [11, 14] đi qua [16, 21] → [8, 9] → [15, 23] → T.nil và đúng là không khoảng nào giao [11, 14].
+1. **Làm sao tìm phần tử nhỏ thứ i và tính hạng của một phần tử trong một tập động, mỗi việc trong O(lg n)?** Dùng cây thống kê thứ tự: cây đỏ-đen trong đó mỗi nút x lưu x.size = x.left.size + x.right.size + 1 (T.nil.size = 0). OS-SELECT(x, i) tính r = x.left.size + 1 (hạng của x trong cây con của nó); nếu i = r trả về x, nếu i < r tìm thứ i ở cây con trái, nếu i > r tìm thứ i − r ở cây con phải.
+
+   OS-RANK(T, x) bắt đầu với r = x.left.size + 1 rồi leo lên gốc, mỗi khi nút hiện tại y là con phải thì cộng y.p.left.size + 1. Cả hai đi qua tối đa một đường dài bằng chiều cao cây, tức O(lg n).
+
+   Trên cây mẫu 20 nút, tìm phần tử thứ 17 đi qua 26 (hạng 13) → 41 (hạng 6 trong cây con, tìm thứ 4) → 30 (hạng 2, tìm thứ 2 bên phải) → 38 (hạng 2) và trả về khoá 38; OS-RANK của nút 38 cho r lần lượt 2, 4, 4, 17.
+2. **Khi nào thông tin bổ sung vào cây đỏ-đen được duy trì "miễn phí" qua chèn và xoá?** Theo Định lý 14.1: khi giá trị f ở nút x chỉ phụ thuộc vào thông tin của x, x.left và x.right (kể cả x.left.f, x.right.f). Lý do: thay đổi f ở một nút chỉ lan lên các tổ tiên, mất O(lg n); chèn gồm một pha đi xuống (O(lg n)) cộng nhiều nhất 2 phép quay, xoá gồm một pha gỡ nút (O(lg n)) cộng nhiều nhất 3 phép quay, mỗi phép quay chỉ đổi 2 nút. Vậy tổng vẫn O(lg n).
+
+   Với size và max, mỗi phép quay chỉ cần O(1): ví dụ thêm `y.size = x.size` và `x.size = x.left.size + x.right.size + 1` vào cuối LEFT-ROTATE. Ngược lại, hạng trong toàn cây hay độ sâu của nút *không* thoả tiêu chí — chèn một phần tử nhỏ nhất làm đổi hạng của mọi nút.
+3. **Làm sao tìm nhanh một khoảng trong tập động giao với khoảng truy vấn i?** Dùng cây khoảng: cây đỏ-đen khoá theo đầu mút dưới, mỗi nút lưu x.max = max(x.int.high, x.left.max, x.right.max). INTERVAL-SEARCH đi một đường từ gốc: nếu x.int không giao i, rẽ trái khi x.left ≠ T.nil và x.left.max ≥ i.low, ngược lại rẽ phải.
+
+   Theo Định lý 14.2, cách rẽ này không bao giờ bỏ sót: rẽ phải chỉ khi mọi khoảng bên trái kết thúc trước i.low; rẽ trái khi có khoảng i′ bên trái kết thúc ở x.left.max ≥ i.low, và nếu i′ không giao i thì i kết thúc trước i′.low, mà mọi khoảng bên phải bắt đầu sau i′.low, nên bên phải cũng không có gì. Thời gian O(lg n).
+
+   Trên cây mẫu 10 khoảng, i = [22, 25] đi qua [16, 21] → [8, 9] → [15, 23] và trả về [15, 23]; i = [11, 14] đi qua [16, 21] → [8, 9] → [15, 23] → T.nil và đúng là không khoảng nào giao [11, 14].
 
 ## Khái niệm cần biết
 
@@ -731,7 +741,9 @@ Lời giải và gợi ý đi kèm là của người tổng hợp, không có t
 - **14.1-5:** Cho phần tử x trong cây thống kê thứ tự n nút và số tự nhiên i, làm sao tìm phần tử kế tiếp thứ i của x trong thứ tự tuyến tính trong O(lg n)? *Gợi ý:* OS-SELECT(T.root, OS-RANK(T, x) + i).
 - **14.1-6:** Nhận xét rằng mỗi lần OS-SELECT hay OS-RANK dùng size của một nút thì chỉ để tính hạng. Giả sử mỗi nút lưu hạng của nó trong cây con mà nó là gốc (tức x.left.size + 1). Chỉ ra cách duy trì thông tin này khi chèn và xoá (nhớ rằng hai thao tác này có thể gây phép quay). *Gợi ý:* khi chèn đi xuống, chỉ tăng thuộc tính của các nút mà ta rẽ trái; khi xoá, giảm ở các nút mà đường đi tới nút bị gỡ rẽ trái; LEFT-ROTATE(T, x): y.rank = y.rank + x.rank; RIGHT-ROTATE(T, y): y.rank = y.rank − x.rank.
 - **14.1-7:** Chỉ ra cách dùng cây thống kê thứ tự để đếm số nghịch thế (cặp chỉ số i < j với A[i] > A[j], Bài toán 2-4) trong mảng n phần tử trong O(n lg n). *Gợi ý:* duyệt j = 1..n, chèn A[j] rồi cộng (j − hạng của A[j] trong cây) — số phần tử đã chèn lớn hơn A[j] (khi có khoá trùng cần quy ước để phần tử bằng nhau không bị đếm).
-- **14.1-8 (dấu sao):** Cho n dây cung trên đường tròn, mỗi dây xác định bởi hai đầu mút; không hai dây chung đầu mút. Mô tả thuật toán O(n lg n) đếm số cặp dây cắt nhau bên trong đường tròn (ví dụ n đường kính cùng đi qua tâm thì đáp số là C(n, 2) = n(n − 1)/2). *Gợi ý:* hai dây cắt nhau khi và chỉ khi đầu mút của chúng xen kẽ quanh đường tròn. Sắp xếp 2n đầu mút theo góc; quét lần lượt: gặp đầu mút thứ nhất của một dây thì chèn thời điểm (vị trí) gặp vào cây thống kê thứ tự; gặp đầu mút thứ hai thì cộng số dây đang mở có vị trí mở lớn hơn vị trí mở của dây này (các dây này mở bên trong và đóng bên ngoài cung của nó), rồi xoá dây khỏi cây. O(n lg n).
+- **14.1-8 (dấu sao):** Cho n dây cung trên đường tròn, mỗi dây xác định bởi hai đầu mút; không hai dây chung đầu mút. Mô tả thuật toán O(n lg n) đếm số cặp dây cắt nhau bên trong đường tròn (ví dụ n đường kính cùng đi qua tâm thì đáp số là C(n, 2) = n(n − 1)/2).
+
+  *Gợi ý:* hai dây cắt nhau khi và chỉ khi đầu mút của chúng xen kẽ quanh đường tròn. Sắp xếp 2n đầu mút theo góc; quét lần lượt: gặp đầu mút thứ nhất của một dây thì chèn thời điểm (vị trí) gặp vào cây thống kê thứ tự; gặp đầu mút thứ hai thì cộng số dây đang mở có vị trí mở lớn hơn vị trí mở của dây này (các dây này mở bên trong và đóng bên ngoài cung của nó), rồi xoá dây khỏi cây. O(n lg n).
 
 ### Bài tập Mục 14.2 (trang 347–348)
 
@@ -939,7 +951,7 @@ Trên phần cứng hiện đại, cây nhị phân với con trỏ có cục b�
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 14 trên một trang: năm nhánh lớn theo phần mở đầu, ba mục 14.1–14.3 và hai bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, thủ tục, thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 14 trên một trang: năm nhánh lớn theo phần mở đầu, ba mục 14.1–14.3 và phần bài toán, ghi chú cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, thủ tục, thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -950,109 +962,113 @@ flowchart LR
   n0["`Chương 14: mở rộng cây đỏ-đen bằng thông tin bổ sung ở mỗi nút để có thao tác mới vẫn chạy O(lg n)`"]
   n1["`Phần mở đầu chương — vì sao mở rộng cấu trúc dữ liệu`"]
   n0 --- n1
-  n2["`Phần lớn bài toán thực tế không cần cấu trúc mới, chỉ cần lưu thêm thông tin vào một cấu trúc giáo khoa`"]
+  n2["`Hiếm khi cần cấu trúc hoàn toàn mới, thường chỉ cần lưu thêm thông tin vào một cấu trúc giáo khoa`"]
   n1 --- n2
-  n3["`Điều khó là duy trì thông tin bổ sung khi cấu trúc bị chèn, xoá và quay`"]
+  n3["`Điều khó là thông tin thêm phải được duy trì bởi chính các thao tác chèn, xoá của cấu trúc nền`"]
   n1 --- n3
   n4["`Mục 14.1 — Cây thống kê thứ tự`"]
   n0 --- n4
-  n5["`Cây đỏ-đen, mỗi nút x lưu thêm size là số nút của cây con gốc x`"]
+  n5["`Cây đỏ-đen, mỗi nút lưu thêm x.size là số nút của cây con gốc x`"]
   n4 --- n5
-  n6["`size của x = size con trái + size con phải + 1, lính canh T.nil có size 0`"]
+  n6["`x.size = x.left.size + x.right.size + 1, quy ước T.nil.size = 0`"]
   n5 --- n6
-  n7["`Hạng của nút là vị trí của nó trong phép duyệt giữa, khoá được phép trùng`"]
+  n7["`Khoá được phép trùng, hạng của nút là vị trí của nó trong phép duyệt giữa`"]
   n5 --- n7
-  n8["`OS-SELECT tìm phần tử nhỏ thứ i trong O(lg n)`"]
-  n4 --- n8
-  n9["`So i với r = size con trái + 1 để biết dừng, đi trái hay đi phải với i − r`"]
-  n8 --- n9
-  n10["`Ví dụ Hình 14.1: tìm phần tử thứ 17 đi qua 26 → 41 → 30 → 38 và trả về 38`"]
-  n8 --- n10
-  n11["`OS-RANK tính hạng của nút x trong O(lg n)`"]
-  n4 --- n11
-  n12["`Leo từ x lên gốc, mỗi lần đi lên từ con phải thì cộng size anh trái + 1`"]
-  n11 --- n12
-  n13["`Đúng nhờ bất biến vòng lặp, và nút khoá 38 có hạng 17`"]
-  n11 --- n13
-  n14["`Chèn và xoá vẫn O(lg n) khi duy trì size`"]
-  n4 --- n14
-  n15["`Chèn tăng size của mọi nút trên đường đi từ gốc xuống`"]
-  n14 --- n15
-  n16["`Xoá giảm size dọc đường từ vị trí cũ của nút bị gỡ lên gốc`"]
-  n14 --- n16
-  n17["`Mỗi phép quay chỉ sửa size của 2 nút, thêm 2 dòng vào LEFT-ROTATE`"]
-  n14 --- n17
-  n18["`Lưu hạng toàn cây thì sai cách: chèn phần tử nhỏ nhất làm đổi hạng của mọi nút`"]
-  n4 --- n18
+  n8["`Hình 14.1: cây 20 nút, hai nút khoá 14 có hạng 5 và 6`"]
+  n5 --- n8
+  n9["`OS-SELECT(x, i) tìm phần tử nhỏ thứ i trong O(lg n)`"]
+  n4 --- n9
+  n10["`r = x.left.size + 1, i = r thì trả về x, i #lt; r đi trái, i #gt; r tìm thứ i − r bên phải`"]
+  n9 --- n10
+  n11["`Tìm phần tử thứ 17 đi qua 26 → 41 → 30 → 38 và trả về khoá 38`"]
+  n9 --- n11
+  n12["`OS-RANK(T, x) tính hạng của nút x trong O(lg n)`"]
+  n4 --- n12
+  n13["`Leo từ x lên gốc, mỗi khi y là con phải thì cộng y.p.left.size + 1`"]
+  n12 --- n13
+  n14["`Bất biến vòng lặp: r là hạng của x trong cây con gốc y, nút 38 có r lần lượt 2, 4, 4, 17`"]
+  n12 --- n14
+  n15["`Chèn và xoá vẫn O(lg n) khi duy trì size`"]
+  n4 --- n15
+  n16["`Chèn tăng size dọc đường từ gốc xuống, xoá giảm size từ vị trí ban đầu của y lên gốc`"]
+  n15 --- n16
+  n17["`Mỗi phép quay chỉ sai size của 2 nút: thêm y.size = x.size và tính lại x.size vào LEFT-ROTATE`"]
+  n15 --- n17
+  n18["`Hình 14.2: trước quay x có size 19, sau quay y nhận 19 và x còn 6 + 4 + 1 = 11`"]
+  n15 --- n18
   n19["`Mục 14.2 — Quy trình bốn bước và Định lý 14.1`"]
   n0 --- n19
-  n20["`Bốn bước mở rộng một cấu trúc dữ liệu`"]
+  n20["`Bốn bước: chọn cấu trúc nền, chọn thông tin bổ sung, kiểm tra duy trì được, xây thao tác mới`"]
   n19 --- n20
-  n21["`Bước 1 chọn cấu trúc nền, ví dụ cây đỏ-đen`"]
-  n20 --- n21
-  n22["`Bước 2 chọn thông tin bổ sung, ví dụ size`"]
-  n20 --- n22
-  n23["`Bước 3 kiểm tra thông tin được duy trì qua các thao tác sửa đổi`"]
-  n20 --- n23
-  n24["`Bước 4 xây thao tác mới, ví dụ OS-SELECT và OS-RANK`"]
-  n20 --- n24
-  n25["`Định lý 14.1: thuộc tính f chỉ phụ thuộc vào x, con trái và con phải thì chèn, xoá vẫn O(lg n)`"]
-  n19 --- n25
-  n26["`Chứng minh: đổi f ở x chỉ lan lên các tổ tiên của x, tức O(lg n) nút`"]
-  n25 --- n26
-  n27["`Chèn có tối đa 2 phép quay, xoá tối đa 3, mỗi phép quay lan truyền O(lg n)`"]
-  n25 --- n27
-  n28["`Khi f là phép gộp theo một toán tử kết hợp ⊗, mỗi phép quay chỉ tốn O(1) (bài tập 14.2-3)`"]
-  n19 --- n28
-  n29["`Mục 14.3 — Cây khoảng`"]
-  n0 --- n29
-  n30["`Mỗi nút chứa một khoảng đóng [low, high], khoá của nút là low`"]
-  n29 --- n30
-  n31["`Tam phân khoảng: hai khoảng hoặc giao nhau, hoặc một khoảng nằm hẳn bên trái hay hẳn bên phải khoảng kia`"]
-  n29 --- n31
-  n32["`Thông tin bổ sung max = max(high của nút, max con trái, max con phải)`"]
-  n29 --- n32
-  n33["`max chỉ phụ thuộc nút và hai con nên Định lý 14.1 bảo đảm chèn, xoá vẫn O(lg n)`"]
-  n32 --- n33
-  n34["`Ví dụ Hình 14.4: cây 10 khoảng có max ở gốc bằng 30`"]
-  n32 --- n34
-  n35["`INTERVAL-SEARCH đi một đường từ gốc, rẽ trái nếu max con trái ≥ low của i, ngược lại rẽ phải`"]
-  n29 --- n35
-  n36["`Tìm [22, 25] trả về khoảng [15, 23], còn tìm [11, 14] trả về T.nil`"]
-  n35 --- n36
-  n37["`Chạy O(lg n) và chỉ trả về một khoảng giao, không liệt kê hết`"]
-  n35 --- n37
-  n38["`Định lý 14.2: cách rẽ luôn an toàn, trả về T.nil khi và chỉ khi không khoảng nào giao với i`"]
-  n29 --- n38
-  n39["`Khi rẽ trái, chứng minh phản đảo: bên trái không có khoảng giao thì bên phải cũng không có`"]
-  n38 --- n39
-  n40["`Bài toán 14-1 và 14-2 cuối chương`"]
+  n21["`Không làm máy móc theo thứ tự, các bước thường tiến song song và có thử và sai`"]
+  n19 --- n21
+  n22["`Lưu hạng toàn cây thì sai: chèn phần tử nhỏ nhất mới làm đổi hạng ở mọi nút`"]
+  n19 --- n22
+  n23["`Định lý 14.1: f ở x chỉ phụ thuộc x, x.left, x.right thì chèn, xoá vẫn O(lg n)`"]
+  n19 --- n23
+  n24["`Chứng minh: đổi x.f chỉ lan lên tổ tiên của x, tốn O(lg n)`"]
+  n23 --- n24
+  n25["`Chèn tối đa 2 phép quay, xoá tối đa 3, mỗi phép quay đổi 2 nút`"]
+  n23 --- n25
+  n26["`Đạt tiêu chí: size, max, tổng khoá cây con, chiều cao đen, không đạt: hạng toàn cây, độ sâu`"]
+  n19 --- n26
+  n27["`Bài tập 14.2-3: x.f = x.left.f ⊗ x.a ⊗ x.right.f với ⊗ kết hợp thì mỗi phép quay chỉ tốn O(1)`"]
+  n19 --- n27
+  n28["`Mục 14.3 — Cây khoảng`"]
+  n0 --- n28
+  n29["`Khoảng đóng [t₁, t₂] biểu diễn bằng i.low và i.high, giao nhau khi i.low ≤ i′.high và i′.low ≤ i.high`"]
+  n28 --- n29
+  n30["`Tam phân khoảng: giao nhau, hoặc i.high #lt; i′.low, hoặc i′.high #lt; i.low`"]
+  n28 --- n30
+  n31["`Bốn bước: cây đỏ-đen khoá x.int.low, thêm x.max là đầu mút lớn nhất trong cây con`"]
+  n28 --- n31
+  n32["`x.max = max(x.int.high, x.left.max, x.right.max) nên Định lý 14.1 áp dụng`"]
+  n31 --- n32
+  n33["`Hình 14.4: cây 10 khoảng, max ở gốc [16, 21] bằng 30`"]
+  n31 --- n33
+  n34["`INTERVAL-SEARCH(T, i) rẽ trái nếu x.left ≠ T.nil và x.left.max ≥ i.low, ngược lại rẽ phải, O(lg n)`"]
+  n28 --- n34
+  n35["`Tìm [22, 25] đi [16, 21] → [8, 9] → [15, 23] và trả về [15, 23]`"]
+  n34 --- n35
+  n36["`Tìm [11, 14] đi tới T.nil, đúng là không khoảng nào giao`"]
+  n34 --- n36
+  n37["`Định lý 14.2: trả về T.nil khi và chỉ khi không khoảng nào giao với i`"]
+  n28 --- n37
+  n38["`Rẽ phải: mọi i′ bên trái có i′.high ≤ x.left.max #lt; i.low nên không giao`"]
+  n37 --- n38
+  n39["`Rẽ trái: chứng minh phản đảo, i.high #lt; i′.low ≤ i″.low nên bên phải cũng không giao`"]
+  n37 --- n39
+  n40["`Bài toán và ghi chú cuối chương`"]
   n0 --- n40
-  n41["`14-1 Điểm chồng lấn nhiều nhất luôn là một đầu mút của các khoảng`"]
+  n41["`14-1 Điểm chồng lấn nhiều nhất luôn là một đầu mút`"]
   n40 --- n41
-  n42["`Cây đỏ-đen trên đầu mút, gán +1 cho đầu trái và −1 cho đầu phải, lưu tổng và tổng tiền tố lớn nhất`"]
+  n42["`Cây đỏ-đen trên đầu mút mang +1 và −1, lưu sum và tổng tiền tố lớn nhất maxp`"]
   n41 --- n42
-  n43["`Chèn, xoá khoảng O(lg n), tìm điểm chồng lấn nhiều nhất O(1) ở gốc`"]
+  n43["`Chèn, xoá khoảng O(lg n), FIND-POM đọc ở gốc trong O(1)`"]
   n41 --- n43
   n44["`14-2 Hoán vị Josephus (7, 3) là ⟨3, 6, 2, 7, 5, 1, 4⟩`"]
   n40 --- n44
-  n45["`m là hằng: danh sách liên kết vòng cho O(n)`"]
+  n45["`m hằng số: danh sách liên kết vòng cho O(n), m bất kỳ: OS-SELECT và xoá cho O(n lg n)`"]
   n44 --- n45
-  n46["`m bất kỳ: cây thống kê thứ tự với OS-SELECT và xoá cho O(n lg n)`"]
-  n44 --- n46
-  n47["`Thông điệp xuyên suốt`"]
-  n0 --- n47
-  n48["`Hỏi trước: thông tin nào lưu ở mỗi nút cây cân bằng sẽ trả lời câu hỏi bằng một đường đi từ gốc`"]
-  n47 --- n48
-  n49["`Thông tin phải là hàm cục bộ của nút và hai con, nếu là thông tin toàn cục như hạng thì tìm đại lượng cục bộ tương đương như size`"]
-  n47 --- n49
-  n50["`Trình bày từ ví dụ cụ thể (14.1), rút nguyên tắc (14.2), rồi áp dụng lại (14.3)`"]
-  n47 --- n50
-  n51["`Thư viện chuẩn như map của C++ hay TreeMap của Java không lưu size nên không chọn phần tử thứ i trong O(lg n)`"]
-  n47 --- n51
+  n46["`Bài tập: đếm nghịch thế O(n lg n), MIN-GAP O(1), hình chữ nhật VLSI chồng nhau bằng đường quét`"]
+  n40 --- n46
+  n47["`Ghi chú: cây khoảng tĩnh của Edelsbrunner liệt kê mọi k khoảng giao trong O(k + lg n)`"]
+  n40 --- n47
+  n48["`Thông điệp xuyên suốt`"]
+  n0 --- n48
+  n49["`Hỏi trước: thông tin nào lưu ở mỗi nút cây cân bằng sẽ trả lời câu hỏi bằng một đường đi từ gốc`"]
+  n48 --- n49
+  n50["`Thông tin phải là hàm cục bộ của nút và hai con, nếu toàn cục như hạng thì đổi sang đại lượng cục bộ như size`"]
+  n48 --- n50
+  n51["`Khi sửa phép quay, nút được nâng lên nhận giá trị cũ, nút bị hạ xuống tính lại trước`"]
+  n48 --- n51
+  n52["`Trình bày từ ví dụ cụ thể (14.1), rút nguyên tắc (14.2), rồi áp dụng lại (14.3)`"]
+  n48 --- n52
+  n53["`std::map của C++ và TreeMap của Java không lưu size nên không có phần tử thứ i trong O(lg n)`"]
+  n48 --- n53
   class n0 root
-  class n1,n4,n19,n29,n40,n47 branch
-  class n2,n3,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
+  class n1,n4,n19,n28,n40,n48 branch
+  class n2,n3,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53 leaf
 ```
 
 ## Nguồn

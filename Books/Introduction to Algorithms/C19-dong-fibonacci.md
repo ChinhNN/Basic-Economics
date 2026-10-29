@@ -306,9 +306,19 @@ Các tác giả cũng nói thẳng: hằng số lớn và độ phức tạp l�
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao để INSERT, UNION và DECREASE-KEY chỉ tốn thời gian hằng số mà EXTRACT-MIN vẫn là O(lg n)?** Bằng cách lười biếng có kiểm soát. INSERT chỉ thêm một cây một nút vào danh sách gốc; UNION chỉ nối hai danh sách gốc vòng (O(1)); DECREASE-KEY chỉ cắt nút vi phạm thứ tự đống lên danh sách gốc, kèm một chuỗi cắt dây chuyền. Toàn bộ việc dọn dẹp dồn vào EXTRACT-MIN: nó phải duyệt danh sách gốc để tìm nhỏ nhất, nên nhân tiện liên kết các gốc cùng bậc cho tới khi mỗi bậc còn nhiều nhất một gốc (CONSOLIDATE). Hàm thế năng Φ(H) = t(H) + 2m(H) đo "món nợ": mỗi gốc thừa là một đơn vị nợ mà lần liên kết sau sẽ trả, mỗi nút có dấu là hai đơn vị nợ mà lần cắt dây chuyền sau sẽ trả. Kết quả: INSERT tăng Φ đúng 1 (khấu hao O(1)); UNION không đổi Φ; EXTRACT-MIN có chi phí thực O(D(n) + t(H)) nhưng Φ giảm từ t(H) + 2m(H) xuống tối đa D(n) + 1 + 2m(H), nên khấu hao O(D(n)); DECREASE-KEY với c lần cắt dây chuyền có chi phí thực O(c) nhưng ΔΦ ≤ 4 − c, nên khấu hao O(1).
-2. **Vì sao cần dấu (mark) và cắt dây chuyền, và chúng đảm bảo điều gì?** Nếu DECREASE-KEY chỉ cắt nút mà không có quy tắc nào khác, một cây có thể bị "tỉa" chỉ còn gốc bậc lớn với rất ít nút bên dưới, và bậc lớn nhất D(n) không còn bị chặn bởi O(lg n), làm hỏng phân tích EXTRACT-MIN. Quy tắc "một nút không phải gốc được mất tối đa một con; mất con thứ hai thì bị cắt khỏi cha" đảm bảo (Bổ đề 19.1) con thứ i của một nút, xếp theo thứ tự được liên kết, có bậc ít nhất i − 2. Từ đó kích thước nhỏ nhất s_k của cây gốc bậc k thoả s_k ≥ 2 + Σ_{i=2..k} s_{i−2}, nên s_k ≥ F_{k+2} ≥ φ^k: dãy 1, 2, 3, 5, 8, 13, 21, … cho k = 0, 1, 2, …. Vì n ≥ φ^k, bậc k ≤ ⌊log_φ n⌋ ≈ 1,44 lg n. Ví dụ với n = 1.000.000 nút: log_φ n ≈ 28,7, nên không nút nào có bậc quá 28.
-3. **Khi nào nên dùng đống Fibonacci thay cho đống nhị phân?** Về lý thuyết, khi số lần EXTRACT-MIN và DELETE ít so với số lần INSERT và DECREASE-KEY — điển hình là Dijkstra và Prim trên đồ thị dày, nơi DECREASE-KEY được gọi tối đa một lần mỗi cạnh: với V lần EXTRACT-MIN và E lần DECREASE-KEY, đống nhị phân cho O((V + E) lg V), đống Fibonacci cho O(V lg V + E). Với V = 10.000 và E = 10.000.000, đó là khoảng 1,3 × 10⁸ so với khoảng 1,0 × 10⁷ bước. Hoặc khi cần UNION nhanh (đống nhị phân mất Θ(n)). Về thực tế, các tác giả thừa nhận hằng số lớn, bộ nhớ nhiều con trỏ và độ phức tạp lập trình khiến đống nhị phân hoặc k-phân thắng trong hầu hết ứng dụng, trừ một số ứng dụng quản lý lượng dữ liệu lớn; vì thế đống Fibonacci "chủ yếu có giá trị lý thuyết".
+1. **Làm sao để INSERT, UNION và DECREASE-KEY chỉ tốn thời gian hằng số mà EXTRACT-MIN vẫn là O(lg n)?** Bằng cách lười biếng có kiểm soát. INSERT chỉ thêm một cây một nút vào danh sách gốc; UNION chỉ nối hai danh sách gốc vòng (O(1)); DECREASE-KEY chỉ cắt nút vi phạm thứ tự đống lên danh sách gốc, kèm một chuỗi cắt dây chuyền.
+
+   Toàn bộ việc dọn dẹp dồn vào EXTRACT-MIN: nó phải duyệt danh sách gốc để tìm nhỏ nhất, nên nhân tiện liên kết các gốc cùng bậc cho tới khi mỗi bậc còn nhiều nhất một gốc (CONSOLIDATE). Hàm thế năng Φ(H) = t(H) + 2m(H) đo "món nợ": mỗi gốc thừa là một đơn vị nợ mà lần liên kết sau sẽ trả, mỗi nút có dấu là hai đơn vị nợ mà lần cắt dây chuyền sau sẽ trả.
+
+   Kết quả: INSERT tăng Φ đúng 1 (khấu hao O(1)); UNION không đổi Φ; EXTRACT-MIN có chi phí thực O(D(n) + t(H)) nhưng Φ giảm từ t(H) + 2m(H) xuống tối đa D(n) + 1 + 2m(H), nên khấu hao O(D(n)); DECREASE-KEY với c lần cắt dây chuyền có chi phí thực O(c) nhưng ΔΦ ≤ 4 − c, nên khấu hao O(1).
+2. **Vì sao cần dấu (mark) và cắt dây chuyền, và chúng đảm bảo điều gì?** Nếu DECREASE-KEY chỉ cắt nút mà không có quy tắc nào khác, một cây có thể bị "tỉa" chỉ còn gốc bậc lớn với rất ít nút bên dưới, và bậc lớn nhất D(n) không còn bị chặn bởi O(lg n), làm hỏng phân tích EXTRACT-MIN.
+
+   Quy tắc "một nút không phải gốc được mất tối đa một con; mất con thứ hai thì bị cắt khỏi cha" đảm bảo (Bổ đề 19.1) con thứ i của một nút, xếp theo thứ tự được liên kết, có bậc ít nhất i − 2. Từ đó kích thước nhỏ nhất s_k của cây gốc bậc k thoả s_k ≥ 2 + Σ_{i=2..k} s_{i−2}, nên s_k ≥ F_{k+2} ≥ φ^k: dãy 1, 2, 3, 5, 8, 13, 21, … cho k = 0, 1, 2, ….
+
+   Vì n ≥ φ^k, bậc k ≤ ⌊log_φ n⌋ ≈ 1,44 lg n. Ví dụ với n = 1.000.000 nút: log_φ n ≈ 28,7, nên không nút nào có bậc quá 28.
+3. **Khi nào nên dùng đống Fibonacci thay cho đống nhị phân?** Về lý thuyết, khi số lần EXTRACT-MIN và DELETE ít so với số lần INSERT và DECREASE-KEY — điển hình là Dijkstra và Prim trên đồ thị dày, nơi DECREASE-KEY được gọi tối đa một lần mỗi cạnh: với V lần EXTRACT-MIN và E lần DECREASE-KEY, đống nhị phân cho O((V + E) lg V), đống Fibonacci cho O(V lg V + E). Với V = 10.000 và E = 10.000.000, đó là khoảng 1,3 × 10⁸ so với khoảng 1,0 × 10⁷ bước. Hoặc khi cần UNION nhanh (đống nhị phân mất Θ(n)).
+
+   Về thực tế, các tác giả thừa nhận hằng số lớn, bộ nhớ nhiều con trỏ và độ phức tạp lập trình khiến đống nhị phân hoặc k-phân thắng trong hầu hết ứng dụng, trừ một số ứng dụng quản lý lượng dữ liệu lớn; vì thế đống Fibonacci "chủ yếu có giá trị lý thuyết".
 
 ## Khái niệm cần biết
 
@@ -588,7 +598,9 @@ FIB-HEAP-LINK(H, y, x)
 Chi tiết hoạt động của CONSOLIDATE:
 
 - Dòng 1–3 cấp phát và khởi tạo mọi ô của A bằng NIL.
-- Vòng **for** dòng 4–14 xử lý từng gốc w trong danh sách gốc. Khi các gốc bị liên kết, w có thể bị liên kết vào nút khác và không còn là gốc; nhưng w luôn nằm trong một cây có gốc x nào đó (x có thể là chính w). Vì muốn mỗi bậc có tối đa một gốc, ta xem trong A có gốc y nào cùng bậc với x không. Nếu có, liên kết x và y nhưng bảo đảm x vẫn là gốc sau khi liên kết: tức là liên kết y vào x, sau khi đổi chỗ hai con trỏ nếu khoá của y nhỏ hơn khoá của x. Sau khi liên kết, bậc của x tăng 1, nên ta tiếp tục liên kết x với gốc khác có bậc bằng bậc mới của x, cho tới khi không còn gốc nào đã xử lý có cùng bậc với x. Khi đó đặt ô tương ứng của A trỏ tới x (dòng 14), ghi nhận x là gốc duy nhất có bậc đó trong số các gốc đã xử lý. Khi vòng for kết thúc, mỗi bậc còn tối đa một gốc, và A trỏ tới từng gốc còn lại.
+- Vòng **for** dòng 4–14 xử lý từng gốc w trong danh sách gốc. Khi các gốc bị liên kết, w có thể bị liên kết vào nút khác và không còn là gốc; nhưng w luôn nằm trong một cây có gốc x nào đó (x có thể là chính w). Vì muốn mỗi bậc có tối đa một gốc, ta xem trong A có gốc y nào cùng bậc với x không. Nếu có, liên kết x và y nhưng bảo đảm x vẫn là gốc sau khi liên kết: tức là liên kết y vào x, sau khi đổi chỗ hai con trỏ nếu khoá của y nhỏ hơn khoá của x.
+
+  Sau khi liên kết, bậc của x tăng 1, nên ta tiếp tục liên kết x với gốc khác có bậc bằng bậc mới của x, cho tới khi không còn gốc nào đã xử lý có cùng bậc với x. Khi đó đặt ô tương ứng của A trỏ tới x (dòng 14), ghi nhận x là gốc duy nhất có bậc đó trong số các gốc đã xử lý. Khi vòng for kết thúc, mỗi bậc còn tối đa một gốc, và A trỏ tới từng gốc còn lại.
 - Vòng **while** dòng 7–13 liên kết lặp lại gốc x của cây chứa w với một cây khác có gốc cùng bậc với x, cho tới khi không còn gốc nào khác cùng bậc. Vòng này duy trì bất biến: **ở đầu mỗi lần lặp của vòng while, d = x.degree.**
   - *Khởi tạo:* dòng 6 bảo đảm bất biến đúng lần đầu vào vòng.
   - *Duy trì:* trong mỗi lần lặp, A[d] trỏ tới một gốc y. Vì d = x.degree = y.degree, ta muốn liên kết x và y. Nút nào có khoá nhỏ hơn sẽ làm cha của nút kia, nên dòng 9–10 đổi chỗ con trỏ x và y khi cần. Dòng 11 liên kết y vào x bằng FIB-HEAP-LINK(H, y, x); lệnh này tăng x.degree nhưng giữ y.degree = d. Nút y không còn là gốc, nên dòng 12 xoá con trỏ tới y khỏi A. Vì x.degree đã tăng, dòng 13 khôi phục bất biến d = x.degree.
@@ -941,10 +953,14 @@ Lập luận "mỗi đứa con chỉ được hao một bậc, nên kích thư�
 **Mục 19.1:** không có bài tập.
 
 **Mục 19.2:**
-- **19.2-1:** Vẽ đống Fibonacci thu được khi gọi FIB-HEAP-EXTRACT-MIN trên đống kết quả (m) của ví dụ EXTRACT-MIN (gốc 7 với con 24, 17, 23; gốc 18 có dấu với con 21, 39; gốc 38 với con 41). *Lời giải của người tổng hợp:* lấy 7 ra, các con 24 (bậc 2), 17 (bậc 1), 23 (bậc 0) lên gốc; cùng với 18 (bậc 2) và 38 (bậc 1). Gộp: 17 và 38 cùng bậc 1 → 38 thành con của 17 (17 bậc 2); 18 và 24 cùng bậc 2 → 24 thành con của 18 (18 bậc 3); 17 (bậc 2) và 18 (bậc 3) khác bậc nên dừng. Kết quả ba gốc: 23 (bậc 0), 17 (con 30 và 38→41), 18 (con 21→52, 39, 24→{26→35, 46}); H.min = 17. Với các thứ tự duyệt danh sách gốc khác nhau mà người tổng hợp thử, kết quả đều như vậy.
+- **19.2-1:** Vẽ đống Fibonacci thu được khi gọi FIB-HEAP-EXTRACT-MIN trên đống kết quả (m) của ví dụ EXTRACT-MIN (gốc 7 với con 24, 17, 23; gốc 18 có dấu với con 21, 39; gốc 38 với con 41).
+
+  *Lời giải của người tổng hợp:* lấy 7 ra, các con 24 (bậc 2), 17 (bậc 1), 23 (bậc 0) lên gốc; cùng với 18 (bậc 2) và 38 (bậc 1). Gộp: 17 và 38 cùng bậc 1 → 38 thành con của 17 (17 bậc 2); 18 và 24 cùng bậc 2 → 24 thành con của 18 (18 bậc 3); 17 (bậc 2) và 18 (bậc 3) khác bậc nên dừng. Kết quả ba gốc: 23 (bậc 0), 17 (con 30 và 38→41), 18 (con 21→52, 39, 24→{26→35, 46}); H.min = 17. Với các thứ tự duyệt danh sách gốc khác nhau mà người tổng hợp thử, kết quả đều như vậy.
 
 **Mục 19.3:**
-- **19.3-1:** Giả sử một gốc x có dấu. Giải thích x trở thành gốc có dấu như thế nào, và lập luận rằng việc x có dấu không ảnh hưởng phân tích, dù x không phải là một gốc từng được liên kết vào nút khác rồi mất một con. *Ý lời giải của người tổng hợp:* CASCADING-CUT chỉ đánh dấu nút có cha (dòng 2), nên x được đánh dấu khi còn là con; x lên gốc mà giữ dấu chỉ khi cha nó bị EXTRACT-MIN lấy ra (dòng 3–5 không xoá dấu) — như nút 18 trong ví dụ. Phân tích không bị ảnh hưởng: dấu của một gốc không bao giờ dẫn tới cắt (dây chuyền dừng ở gốc), khi gốc bị liên kết thì dấu bị xoá (chỉ làm thế năng giảm), và Bổ đề 19.1 chỉ nói về con, nơi dấu có đúng ý nghĩa "đã mất một con kể từ khi được liên kết".
+- **19.3-1:** Giả sử một gốc x có dấu. Giải thích x trở thành gốc có dấu như thế nào, và lập luận rằng việc x có dấu không ảnh hưởng phân tích, dù x không phải là một gốc từng được liên kết vào nút khác rồi mất một con.
+
+  *Ý lời giải của người tổng hợp:* CASCADING-CUT chỉ đánh dấu nút có cha (dòng 2), nên x được đánh dấu khi còn là con; x lên gốc mà giữ dấu chỉ khi cha nó bị EXTRACT-MIN lấy ra (dòng 3–5 không xoá dấu) — như nút 18 trong ví dụ. Phân tích không bị ảnh hưởng: dấu của một gốc không bao giờ dẫn tới cắt (dây chuyền dừng ở gốc), khi gốc bị liên kết thì dấu bị xoá (chỉ làm thế năng giảm), và Bổ đề 19.1 chỉ nói về con, nơi dấu có đúng ý nghĩa "đã mất một con kể từ khi được liên kết".
 - **19.3-2:** Biện minh cận O(1) khấu hao của FIB-HEAP-DECREASE-KEY như chi phí trung bình mỗi thao tác bằng phân tích gộp (aggregate analysis). *Ý lời giải của người tổng hợp:* mỗi lần cắt dây chuyền (trừ lần gọi cuối) xoá một dấu; mỗi DECREASE-KEY đặt tối đa một dấu mới; dấu không được tạo ở đâu khác. Vậy tổng số lần cắt dây chuyền trên cả dãy ≤ tổng số dấu được đặt ≤ số lần DECREASE-KEY, nên tổng chi phí của q lần DECREASE-KEY là O(q).
 
 **Mục 19.4:**
@@ -1201,7 +1217,7 @@ Lời mời "một cấu trúc đơn giản hơn với cùng cận" đã đượ
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 19 trên một trang: sáu nhánh lớn theo phần mở đầu chương, bốn mục 19.1–19.4 và phần bài toán cuối chương của bản gốc, mỗi nhánh ghi cấu trúc, thủ tục, chi phí thực và khấu hao theo hàm thế năng, ví dụ chạy tay then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 19 trên một trang: sáu nhánh lớn theo phần mở đầu chương, bốn mục 19.1–19.4 và phần bài tập, bài toán cuối chương của bản gốc, mỗi nhánh ghi cấu trúc, thủ tục, chi phí thực và khấu hao theo hàm thế năng, ví dụ chạy tay then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1214,83 +1230,89 @@ flowchart LR
   n0 --- n1
   n2["`Đống gộp được hỗ trợ MAKE-HEAP, INSERT, MINIMUM, EXTRACT-MIN, UNION, thêm DECREASE-KEY và DELETE`"]
   n1 --- n2
-  n3["`So với đống nhị phân: UNION từ Θ(n) xuống Θ(1), DECREASE-KEY từ Θ(lg n) xuống Θ(1) khấu hao`"]
+  n3["`Hình 19.1: so với đống nhị phân, UNION từ Θ(n) xuống Θ(1), DECREASE-KEY từ Θ(lg n) xuống Θ(1) khấu hao`"]
   n1 --- n3
-  n4["`Có lợi khi DECREASE-KEY áp đảo, như đồ thị dày trong Dijkstra và Prim`"]
+  n4["`SEARCH không hiệu quả nên DECREASE-KEY và DELETE nhận tay cầm trỏ tới nút`"]
   n1 --- n4
-  n5["`Hằng số lớn và khó lập trình nên chủ yếu có giá trị lý thuyết`"]
+  n5["`Có lợi khi DECREASE-KEY áp đảo, như đồ thị dày trong Dijkstra và Prim`"]
   n1 --- n5
-  n6["`Mục 19.1 — Cấu trúc`"]
-  n0 --- n6
-  n7["`Rừng cây theo thứ tự đống-min, các gốc nối thành danh sách liên kết đôi vòng`"]
-  n6 --- n7
-  n8["`Con trỏ H.min trỏ tới gốc nhỏ nhất, mỗi nút có cha, một con, anh em trái phải, bậc và dấu`"]
-  n6 --- n8
-  n9["`Thế năng Φ(H) = t(H) + 2m(H), t là số cây, m là số nút có dấu`"]
-  n6 --- n9
-  n10["`Ví dụ: đống 14 nút, 5 cây, 3 nút có dấu nên Φ = 11`"]
-  n6 --- n10
-  n11["`Mục 19.2 — Các thao tác của đống gộp được`"]
-  n0 --- n11
-  n12["`INSERT thêm một gốc, UNION nối hai danh sách gốc, MINIMUM đọc H.min, đều O(1)`"]
-  n11 --- n12
-  n13["`FIB-HEAP-EXTRACT-MIN đưa mọi con của nút nhỏ nhất lên danh sách gốc rồi gọi CONSOLIDATE`"]
-  n11 --- n13
-  n14["`CONSOLIDATE liên kết các gốc cùng bậc tới khi mỗi bậc còn nhiều nhất một gốc`"]
-  n13 --- n14
-  n15["`Chi phí thực O(D(n) + t(H)), thế năng giảm bù nên khấu hao O(D(n))`"]
-  n13 --- n15
-  n16["`Ví dụ 13 bước lấy nút 3: 8 gốc, 5 lần liên kết, còn 3 gốc, Φ từ 12 xuống 9`"]
-  n13 --- n16
-  n17["`Mục 19.3 — Giảm khoá và xoá`"]
-  n0 --- n17
-  n18["`FIB-HEAP-DECREASE-KEY cắt nút vi phạm thứ tự đống lên danh sách gốc`"]
-  n17 --- n18
-  n19["`CASCADING-CUT: nút mất đứa con thứ hai kể từ khi trở thành con cũng bị cắt`"]
-  n17 --- n19
-  n20["`Dấu ghi lại nút đã mất một con`"]
-  n19 --- n20
-  n21["`c lần cắt dây chuyền: chi phí thực O(c), thế năng thay đổi tối đa 4 − c, khấu hao O(1)`"]
-  n19 --- n21
-  n22["`Hệ số 2 trước m: một đơn vị trả cho việc cắt, một đơn vị cho gốc mới phát sinh`"]
-  n19 --- n22
-  n23["`Ví dụ: giảm 46 xuống 15 không cắt dây chuyền, giảm 35 xuống 5 cắt dây chuyền 26 rồi 24`"]
-  n17 --- n23
-  n24["`FIB-HEAP-DELETE = giảm khoá về −∞ rồi EXTRACT-MIN, khấu hao O(D(n))`"]
-  n17 --- n24
-  n25["`Mục 19.4 — Chặn bậc lớn nhất`"]
-  n0 --- n25
-  n26["`Bổ đề 19.1: con thứ i của một nút có bậc ít nhất i − 2`"]
-  n25 --- n26
-  n27["`Cây có gốc bậc k chứa ít nhất Fₖ₊₂ ≥ φᵏ nút, với φ = (1 + √5)/2 ≈ 1,618`"]
-  n25 --- n27
-  n28["`Hệ quả 19.5: D(n) ≤ ⌊log cơ số φ của n⌋ ≈ 1,44 lg n, vì vậy EXTRACT-MIN và DELETE là O(lg n)`"]
-  n25 --- n28
-  n29["`Đây là lý do cấu trúc mang tên Fibonacci`"]
-  n25 --- n29
-  n30["`Bài toán cuối chương 19-1 đến 19-4`"]
-  n0 --- n30
-  n31["`19-1 PISANO-DELETE không nhanh hơn: đưa danh sách con lên gốc phải sửa cha của từng con`"]
-  n30 --- n31
-  n32["`19-2 Cây nhị thức Bₖ có 2ᵏ nút, cao k, đống nhị thức làm mọi thao tác trong O(lg n) xấu nhất`"]
-  n30 --- n32
-  n33["`19-3 Thêm thao tác đổi khoá tăng hoặc giảm và xoá bớt r nút mà không đổi khấu hao của thao tác khác`"]
-  n30 --- n33
-  n34["`19-4 Đống 2-3-4: chỉ lá chứa khoá, nút trong lưu khoá nhỏ nhất của cây con, mọi thao tác O(lg n)`"]
-  n30 --- n34
-  n35["`Thông điệp xuyên suốt`"]
-  n0 --- n35
-  n36["`Trì hoãn việc tới khi bắt buộc, chọn thế năng đếm đúng món nợ, thêm một bit dấu để giới hạn hư hỏng cấu trúc`"]
-  n35 --- n36
-  n37["`Phương pháp thế năng của Chương 17 dùng để thiết kế chứ không chỉ để phân tích`"]
-  n35 --- n37
-  n38["`Cận khấu hao không đủ cho hệ thống thời gian thực: một lần EXTRACT-MIN có thể tốn Θ(n)`"]
-  n35 --- n38
-  n39["`Dijkstra và Prim đạt O(E + V lg V), Johnson đạt O(V² lg V + VE)`"]
-  n35 --- n39
+  n6["`Hằng số lớn và khó lập trình nên chủ yếu có giá trị lý thuyết`"]
+  n1 --- n6
+  n7["`Mục 19.1 — Cấu trúc`"]
+  n0 --- n7
+  n8["`Rừng cây theo thứ tự đống-min, các gốc nối thành danh sách liên kết đôi vòng`"]
+  n7 --- n8
+  n9["`H.min trỏ tới gốc nhỏ nhất, mỗi nút có x.p, x.child, x.left, x.right, x.degree, x.mark`"]
+  n7 --- n9
+  n10["`Thế năng Φ(H) = t(H) + 2m(H), t là số cây, m là số nút có dấu`"]
+  n7 --- n10
+  n11["`Ví dụ Hình 19.2: đống 14 nút, 5 cây, 3 nút có dấu nên Φ = 11`"]
+  n7 --- n11
+  n12["`Mục 19.2 — Các thao tác của đống gộp được`"]
+  n0 --- n12
+  n13["`INSERT thêm một gốc làm Φ tăng 1, UNION nối hai danh sách gốc, MINIMUM đọc H.min, đều O(1)`"]
+  n12 --- n13
+  n14["`FIB-HEAP-EXTRACT-MIN đưa mọi con của nút nhỏ nhất lên danh sách gốc rồi gọi CONSOLIDATE`"]
+  n12 --- n14
+  n15["`CONSOLIDATE dùng mảng A[0..D(n)] liên kết các gốc cùng bậc tới khi mỗi bậc còn nhiều nhất một gốc`"]
+  n14 --- n15
+  n16["`Chi phí thực O(D(n) + t(H)), sau đó còn tối đa D(n) + 1 gốc nên khấu hao O(D(n))`"]
+  n14 --- n16
+  n17["`Hình 19.4: lấy nút 3 ra, 8 gốc qua 5 lần liên kết còn 3 gốc, Φ từ 12 xuống 9`"]
+  n14 --- n17
+  n18["`Mục 19.3 — Giảm khoá và xoá`"]
+  n0 --- n18
+  n19["`FIB-HEAP-DECREASE-KEY cắt nút vi phạm thứ tự đống lên danh sách gốc`"]
+  n18 --- n19
+  n20["`CASCADING-CUT: nút mất đứa con thứ hai kể từ khi được liên kết vào cha cũng bị cắt`"]
+  n18 --- n20
+  n21["`x.mark ghi lại nút đã mất một con kể từ lần được làm con`"]
+  n20 --- n21
+  n22["`c lần cắt dây chuyền: chi phí thực O(c), thế năng thay đổi tối đa 4 − c, khấu hao O(1)`"]
+  n20 --- n22
+  n23["`Hệ số 2 trước m(H): một đơn vị trả cho việc cắt, một đơn vị cho gốc mới phát sinh`"]
+  n20 --- n23
+  n24["`Hình 19.5: giảm 46 xuống 15 không cắt dây chuyền, giảm 35 xuống 5 cắt dây chuyền 26 rồi 24`"]
+  n18 --- n24
+  n25["`FIB-HEAP-DELETE = DECREASE-KEY về −∞ rồi EXTRACT-MIN, khấu hao O(D(n))`"]
+  n18 --- n25
+  n26["`Mục 19.4 — Chặn bậc lớn nhất`"]
+  n0 --- n26
+  n27["`Bổ đề 19.1: con thứ i của một nút, theo thứ tự liên kết, có bậc ít nhất i − 2`"]
+  n26 --- n27
+  n28["`Bổ đề 19.2–19.3: F#95;{k+2} = 1 + Σ F#95;i và F#95;{k+2} ≥ φ^k với φ = (1 + √5)/2 ≈ 1,618`"]
+  n26 --- n28
+  n29["`Bổ đề 19.4: size(x) ≥ F#95;{k+2} ≥ φ^k với k = x.degree`"]
+  n26 --- n29
+  n30["`Hệ quả 19.5: D(n) ≤ ⌊log#95;φ n⌋ ≈ 1,44 lg n, n = 1.000.000 thì bậc không quá 28`"]
+  n26 --- n30
+  n31["`Vì vậy EXTRACT-MIN và DELETE là O(lg n), và đây là lý do cấu trúc mang tên Fibonacci`"]
+  n26 --- n31
+  n32["`Bài tập và bài toán cuối chương`"]
+  n0 --- n32
+  n33["`19.4-1 Chiều cao không phải O(lg n): có dãy thao tác tạo một cây là chuỗi thẳng n nút`"]
+  n32 --- n33
+  n34["`19-1 PISANO-DELETE không nhanh hơn: đưa danh sách con lên gốc phải sửa cha của từng con`"]
+  n32 --- n34
+  n35["`19-2 Cây nhị thức B#95;k có 2^k nút, cao k, đống nhị thức làm mọi thao tác trong O(lg n) xấu nhất`"]
+  n32 --- n35
+  n36["`19-3 Thêm FIB-HEAP-CHANGE-KEY và FIB-HEAP-PRUNE mà không đổi khấu hao của thao tác khác`"]
+  n32 --- n36
+  n37["`19-4 Đống 2-3-4: chỉ lá chứa khoá, nút trong lưu x.small, mọi thao tác O(lg n)`"]
+  n32 --- n37
+  n38["`Thông điệp xuyên suốt`"]
+  n0 --- n38
+  n39["`Trì hoãn việc tới khi bắt buộc, chọn thế năng đếm đúng món nợ, thêm một bit dấu để giới hạn hư hỏng cấu trúc`"]
+  n38 --- n39
+  n40["`Phương pháp thế năng của Chương 17 dùng để thiết kế chứ không chỉ để phân tích`"]
+  n38 --- n40
+  n41["`Cận khấu hao không đủ cho hệ thống thời gian thực: một lần EXTRACT-MIN có thể tốn Θ(n)`"]
+  n38 --- n41
+  n42["`Dijkstra và Prim đạt O(E + V lg V), Johnson đạt O(V² lg V + VE)`"]
+  n38 --- n42
   class n0 root
-  class n1,n6,n11,n17,n25,n30,n35 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n31,n32,n33,n34,n36,n37,n38,n39 leaf
+  class n1,n7,n12,n18,n26,n32,n38 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n39,n40,n41,n42 leaf
 ```
 
 ## Nguồn

@@ -340,9 +340,15 @@ Với 1000 khoá mỗi nút (1001 con, tức t khoảng 501), một cây cao 2 c
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao cần một loại cây tìm kiếm riêng cho dữ liệu trên đĩa, và cây đó thấp đến mức nào?** Vì một lần truy cập đĩa (8–11 ms với đĩa từ năm 2009; một vòng quay ở 7200 vòng/phút mất 8,33 ms) tốn thời gian bằng hơn 100.000 lần truy cập bộ nhớ (khoảng 50 ns). Vì vậy đại lượng cần tối thiểu hoá là số trang đọc/ghi, tỷ lệ với chiều cao cây. Cây B đặt mỗi nút bằng một trang đĩa, chứa từ t − 1 đến 2t − 1 khoá. Định lý 18.1 chứng minh h ≤ log_t((n + 1)/2): cây "thưa" nhất có ít nhất 2tʰ − 1 khoá. So với cây đỏ-đen (chiều cao tới 2 lg(n + 1)), cây B tiết kiệm thừa số khoảng lg t. Ví dụ: với 1000 khoá mỗi nút, cây cao 2 chứa 1000 + 1.001.000 + 1.002.001.000 = 1.003.003.000 khoá; giữ gốc trong bộ nhớ thì tìm mọi khoá với nhiều nhất 2 lần đọc đĩa.
+1. **Vì sao cần một loại cây tìm kiếm riêng cho dữ liệu trên đĩa, và cây đó thấp đến mức nào?** Vì một lần truy cập đĩa (8–11 ms với đĩa từ năm 2009; một vòng quay ở 7200 vòng/phút mất 8,33 ms) tốn thời gian bằng hơn 100.000 lần truy cập bộ nhớ (khoảng 50 ns). Vì vậy đại lượng cần tối thiểu hoá là số trang đọc/ghi, tỷ lệ với chiều cao cây.
+
+   Cây B đặt mỗi nút bằng một trang đĩa, chứa từ t − 1 đến 2t − 1 khoá. Định lý 18.1 chứng minh h ≤ log_t((n + 1)/2): cây "thưa" nhất có ít nhất 2tʰ − 1 khoá. So với cây đỏ-đen (chiều cao tới 2 lg(n + 1)), cây B tiết kiệm thừa số khoảng lg t.
+
+   Ví dụ: với 1000 khoá mỗi nút, cây cao 2 chứa 1000 + 1.001.000 + 1.002.001.000 = 1.003.003.000 khoá; giữ gốc trong bộ nhớ thì tìm mọi khoá với nhiều nhất 2 lần đọc đĩa.
 2. **Làm sao chèn khoá mà vẫn giữ mọi lá cùng độ sâu và mọi nút không quá đầy, chỉ trong một lượt đi xuống?** Khoá luôn được chèn vào một lá có sẵn. Trên đường từ gốc xuống, gặp nút đầy (2t − 1 khoá) nào thì tách ngay nút đó quanh khoá giữa thành hai nút t − 1 khoá, đẩy khoá giữa lên nút cha. Nhờ tách trước nên cha luôn chưa đầy, không bao giờ phải quay lên. Gốc đầy thì tạo gốc mới, và đó là cách duy nhất để cây cao thêm. Mỗi lần tách tốn Θ(t) CPU và O(1) thao tác đĩa, nên chèn tốn O(h) = O(log_t n) lần truy cập đĩa và O(t log_t n) CPU.
-3. **Xoá thì khó hơn ở đâu, và giải quyết thế nào?** Khoá cần xoá có thể nằm ở nút trong, và việc xoá có thể làm nút còn ít hơn t − 1 khoá. Thủ tục bảo đảm mọi nút mình đệ quy tới có ít nhất t khoá: nếu nút con sắp đi xuống chỉ có t − 1 khoá thì mượn một khoá qua nút cha từ anh em kề có ≥ t khoá (trường hợp 3a), hoặc trộn với anh em kề và kéo một khoá của cha xuống làm khoá giữa (3b). Nếu khoá ở nút trong, thay nó bằng khoá đứng trước hoặc khoá đứng sau lấy từ cây con có ≥ t khoá (2a, 2b), hoặc trộn hai cây con kề khoá đó khi cả hai chỉ có t − 1 khoá (2c). Gốc trở nên rỗng thì bỏ đi và cây thấp xuống 1. Chi phí vẫn là O(h) lần truy cập đĩa và O(t log_t n) CPU.
+3. **Xoá thì khó hơn ở đâu, và giải quyết thế nào?** Khoá cần xoá có thể nằm ở nút trong, và việc xoá có thể làm nút còn ít hơn t − 1 khoá. Thủ tục bảo đảm mọi nút mình đệ quy tới có ít nhất t khoá: nếu nút con sắp đi xuống chỉ có t − 1 khoá thì mượn một khoá qua nút cha từ anh em kề có ≥ t khoá (trường hợp 3a), hoặc trộn với anh em kề và kéo một khoá của cha xuống làm khoá giữa (3b).
+
+   Nếu khoá ở nút trong, thay nó bằng khoá đứng trước hoặc khoá đứng sau lấy từ cây con có ≥ t khoá (2a, 2b), hoặc trộn hai cây con kề khoá đó khi cả hai chỉ có t − 1 khoá (2c). Gốc trở nên rỗng thì bỏ đi và cây thấp xuống 1. Chi phí vẫn là O(h) lần truy cập đĩa và O(t log_t n) CPU.
 
 ## Khái niệm cần biết
 
@@ -908,7 +914,11 @@ Tính hai chi phí: tổng số lần truy cập đĩa và tổng thời gian CP
 
 *Lời giải của người tổng hợp:* (a) mỗi thao tác 1–2 lần truy cập, nên Θ(n) lần truy cập đĩa và Θ(nm) CPU. (b) chỉ khi vượt sang trang mới mới phải ghi trang cũ và đọc trang mới, mỗi m lần PUSH một lần: O(n/m) lần truy cập đĩa (chính xác hơn O(⌈n/m⌉)), CPU Θ(n) (O(n/m) × Θ(m) cho truy cập cộng Θ(1) mỗi thao tác). (c) dãy xấu nhất xen kẽ PUSH và POP ngay tại biên trang làm mỗi thao tác phải đổi trang: Θ(n) lần truy cập, Θ(nm) CPU.
 
-(d) luôn giữ trong bộ nhớ trang chứa đỉnh và một trang kề nó; chỉ truy cập đĩa khi thao tác cần một trang không có trong bộ nhớ, khi đó đẩy ra trang xa đỉnh hơn (ghi xuống nếu đã sửa) và đọc (hoặc cấp mới, nếu là trang trống phía trên) trang cần dùng. Ví dụ: đang giữ trang j − 1 và j, PUSH tràn sang trang j + 1 thì ghi trang j − 1 ra và cấp trang j + 1 mới; bộ nhớ còn trang j và j + 1 với đỉnh ở từ đầu trang j + 1, nên phải thêm m − 1 lần PUSH hoặc hơn m lần POP mới cần truy cập đĩa tiếp. Tương tự, POP xuống trang j − 1 (đọc trang j − 1, bỏ trang j + 1) để đỉnh ở từ cuối trang j − 1 với trang j vẫn trong bộ nhớ, nên cần ít nhất m thao tác trước lần truy cập tiếp.
+(d) luôn giữ trong bộ nhớ trang chứa đỉnh và một trang kề nó; chỉ truy cập đĩa khi thao tác cần một trang không có trong bộ nhớ, khi đó đẩy ra trang xa đỉnh hơn (ghi xuống nếu đã sửa) và đọc (hoặc cấp mới, nếu là trang trống phía trên) trang cần dùng.
+
+Ví dụ: đang giữ trang j − 1 và j, PUSH tràn sang trang j + 1 thì ghi trang j − 1 ra và cấp trang j + 1 mới; bộ nhớ còn trang j và j + 1 với đỉnh ở từ đầu trang j + 1, nên phải thêm m − 1 lần PUSH hoặc hơn m lần POP mới cần truy cập đĩa tiếp.
+
+Tương tự, POP xuống trang j − 1 (đọc trang j − 1, bỏ trang j + 1) để đỉnh ở từ cuối trang j − 1 với trang j vẫn trong bộ nhớ, nên cần ít nhất m thao tác trước lần truy cập tiếp.
 
 Như vậy mỗi lần đổi trang (O(1) lần truy cập đĩa, Θ(m) CPU) được trả bởi Ω(m) thao tác: O(1/m) lần truy cập đĩa và O(1) CPU khấu hao mỗi thao tác. Dãy PUSH/POP xen kẽ ở biên trang không còn gây đổi trang liên tục như ở ý (c).
 
@@ -1105,7 +1115,7 @@ Sách không đưa pseudocode cho B-TREE-DELETE (để thành Bài tập 18.3-2)
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 18 trên một trang: sáu nhánh lớn theo phần giới thiệu Phần V, phần mở đầu về bộ nhớ ngoài, các mục 18.1, 18.2, 18.3 và hai bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, thủ tục, số lần truy cập đĩa, thời gian CPU và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 18 trên một trang: sáu nhánh lớn theo phần giới thiệu Phần V, phần mở đầu về bộ nhớ ngoài, các mục 18.1, 18.2, 18.3 và phần bài tập, bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, thủ tục, số lần truy cập đĩa, thời gian CPU và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1116,79 +1126,87 @@ flowchart LR
   n0["`Chương 18: dữ liệu trên đĩa cần cây tìm kiếm có nút rất rộng để cây rất thấp, vì chi phí chính là số trang đĩa đọc ghi`"]
   n1["`Phần V giới thiệu và phần mở đầu Chương 18 — bộ nhớ ngoài`"]
   n0 --- n1
-  n2["`Phần V gồm cây B, đống Fibonacci, cây van Emde Boas và tập rời nhau, hai chương dùng nhiều phân tích khấu hao`"]
+  n2["`Phần V gồm cây B, đống Fibonacci, cây van Emde Boas và tập rời nhau, ngoài ra còn cây splay, cây động, cấu trúc bền vững`"]
   n1 --- n2
   n3["`Đĩa 7200 vòng/phút mất 8,33 ms mỗi vòng, so với 50 ns của bộ nhớ silicon, chênh hơn 100.000 lần`"]
   n1 --- n3
-  n4["`Đọc một trang tốn gần bằng đọc một từ nên mỗi nút cây đặt bằng một trang đĩa`"]
+  n4["`Đĩa đọc theo trang, đọc một trang tốn gần bằng đọc một từ nên mỗi nút cây đặt bằng một trang`"]
   n1 --- n4
-  n5["`Thời gian chạy tính hai phần: số lần truy cập đĩa và thời gian CPU`"]
+  n5["`Thời gian chạy tính hai phần: số lần DISK-READ, DISK-WRITE và thời gian CPU`"]
   n1 --- n5
-  n6["`Mục 18.1 — Định nghĩa và chiều cao cây B`"]
-  n0 --- n6
-  n7["`Bậc tối thiểu t ≥ 2: mỗi nút trừ gốc có từ t − 1 đến 2t − 1 khoá đã sắp xếp, gốc có ít nhất 1 khoá`"]
-  n6 --- n7
-  n8["`Nút trong có số con bằng số khoá + 1, khoá trong nút chia miền khoá của các cây con`"]
-  n6 --- n8
-  n9["`Mọi lá cùng độ sâu`"]
-  n6 --- n9
-  n10["`Định lý 18.1: cây B có n ≥ 1 khoá thì chiều cao h ≤ logₜ((n + 1)/2)`"]
-  n6 --- n10
-  n11["`Chứng minh bằng cây thưa nhất: n ≥ 2tʰ − 1`"]
-  n10 --- n11
-  n12["`Thấp hơn cây đỏ-đen khoảng lg t lần`"]
-  n10 --- n12
-  n13["`Hình 18.3: 1000 khoá mỗi nút, cây cao 2 chứa hơn một tỷ khoá, tìm mọi khoá với nhiều nhất 2 lần đọc đĩa`"]
-  n6 --- n13
-  n14["`Mục 18.2 — Tìm kiếm và chèn`"]
-  n0 --- n14
-  n15["`B-TREE-SEARCH quét O(t) khoá mỗi nút, tốn O(logₜ n) lần đọc đĩa và O(t logₜ n) CPU`"]
-  n14 --- n15
-  n16["`B-TREE-CREATE tạo cây rỗng trong O(1)`"]
-  n14 --- n16
-  n17["`B-TREE-SPLIT-CHILD tách nút đầy 2t − 1 khoá quanh khoá giữa thành hai nút t − 1 khoá`"]
-  n14 --- n17
-  n18["`Khoá giữa đi lên nút cha, tốn Θ(t) CPU và O(1) lần truy cập đĩa`"]
-  n17 --- n18
-  n19["`B-TREE-INSERT đi một lượt từ gốc xuống lá, tách trước mọi nút đầy gặp trên đường`"]
-  n14 --- n19
-  n20["`Nhờ vậy nút cha luôn còn chỗ nhận khoá giữa, không cần quay lui`"]
-  n19 --- n20
-  n21["`Tách gốc là cách duy nhất làm cây cao thêm: cây mọc ở gốc chứ không mọc ở lá`"]
-  n19 --- n21
-  n22["`Hình 18.7: chèn B, Q, L, F với t = 3 minh hoạ chèn đơn giản, tách lá và tách gốc`"]
-  n14 --- n22
-  n23["`Mục 18.3 — Xoá`"]
-  n0 --- n23
-  n24["`Đi một lượt xuống, bảo đảm mọi nút được đệ quy tới có ít nhất t khoá`"]
-  n23 --- n24
-  n25["`Khoá ở nút trong thì thay bằng khoá đứng trước hoặc sau (2a, 2b) hoặc trộn hai con (2c)`"]
-  n23 --- n25
-  n26["`Nút sắp tới chỉ có t − 1 khoá thì mượn khoá của anh em qua cha (3a) hoặc trộn với anh em (3b)`"]
-  n23 --- n26
-  n27["`Gốc rỗng thì bỏ, cây thấp đi 1, xoá cũng tốn O(h) lần truy cập đĩa và O(t logₜ n) CPU`"]
-  n23 --- n27
-  n28["`Hình 18.8: xoá F, M, G, D, B với t = 3 minh hoạ các trường hợp 1, 2a, 2c, 3b, 3a`"]
-  n23 --- n28
-  n29["`Bài toán cuối chương 18-1 và 18-2`"]
-  n0 --- n29
-  n30["`18-1 Ngăn xếp trên bộ nhớ ngoài: giữ trong bộ nhớ hai trang kề đỉnh cho O(1/m) lần truy cập đĩa khấu hao mỗi thao tác`"]
-  n29 --- n30
-  n31["`18-2 Ghép và tách cây 2-3-4 (cây B với t = 2): ghép tốn O(1 + chênh lệch chiều cao), tách tốn O(lg n)`"]
-  n29 --- n31
-  n32["`Thông điệp xuyên suốt`"]
+  n6["`Bậc phân nhánh thực tế từ 50 đến 2000 tuỳ kích thước khoá so với trang`"]
+  n1 --- n6
+  n7["`Mục 18.1 — Định nghĩa và chiều cao cây B`"]
+  n0 --- n7
+  n8["`Nút x có x.n khoá đã sắp xếp và x.n + 1 con, khoá trong nút chia miền khoá của các cây con`"]
+  n7 --- n8
+  n9["`Bậc tối thiểu t ≥ 2: mỗi nút trừ gốc có từ t − 1 đến 2t − 1 khoá, gốc có ít nhất 1 khoá`"]
+  n7 --- n9
+  n10["`Mọi lá cùng độ sâu, t = 2 cho cây 2-3-4`"]
+  n7 --- n10
+  n11["`Biến thể B⁺-tree đặt thông tin vệ tinh ở lá, B#42;-tree yêu cầu nút đầy ít nhất 2/3`"]
+  n7 --- n11
+  n12["`Định lý 18.1: cây B có n ≥ 1 khoá thì h ≤ log#95;t((n + 1)/2)`"]
+  n7 --- n12
+  n13["`Chứng minh bằng cây thưa nhất: n ≥ 2tʰ − 1`"]
+  n12 --- n13
+  n14["`Thấp hơn cây đỏ-đen khoảng lg t lần`"]
+  n12 --- n14
+  n15["`Hình 18.3: 1000 khoá mỗi nút, cây cao 2 chứa 1.003.003.000 khoá, tìm mọi khoá với nhiều nhất 2 lần đọc đĩa`"]
+  n7 --- n15
+  n16["`Mục 18.2 — Tìm kiếm và chèn`"]
+  n0 --- n16
+  n17["`Gốc luôn ở bộ nhớ chính, các thủ tục đều đi một lượt từ gốc xuống`"]
+  n16 --- n17
+  n18["`B-TREE-SEARCH quét O(t) khoá mỗi nút, tốn O(log#95;t n) lần đọc đĩa và O(t log#95;t n) CPU`"]
+  n16 --- n18
+  n19["`Hình 18.1: tìm R chỉ xét 3 nút M, QTX, RS`"]
+  n16 --- n19
+  n20["`B-TREE-SPLIT-CHILD tách nút đầy 2t − 1 khoá quanh khoá giữa thành hai nút t − 1 khoá`"]
+  n16 --- n20
+  n21["`Khoá giữa đi lên nút cha chưa đầy, tốn Θ(t) CPU và O(1) lần truy cập đĩa`"]
+  n20 --- n21
+  n22["`B-TREE-INSERT tách trước mọi nút đầy gặp trên đường xuống, chỉ chèn vào lá có sẵn`"]
+  n16 --- n22
+  n23["`Nhờ vậy nút cha luôn còn chỗ nhận khoá giữa, không cần quay lui`"]
+  n22 --- n23
+  n24["`Tách gốc là cách duy nhất làm cây cao thêm: cây mọc ở gốc chứ không mọc ở lá`"]
+  n22 --- n24
+  n25["`Hình 18.7: chèn B, Q, L, F với t = 3 minh hoạ chèn đơn giản, tách lá và tách gốc`"]
+  n16 --- n25
+  n26["`Mục 18.3 — Xoá`"]
+  n0 --- n26
+  n27["`Đi một lượt xuống, bảo đảm mọi nút được đệ quy tới có ít nhất t khoá`"]
+  n26 --- n27
+  n28["`Khoá ở lá thì xoá ngay (1), ở nút trong thì thay bằng khoá đứng trước hoặc sau (2a, 2b) hoặc trộn hai con (2c)`"]
+  n26 --- n28
+  n29["`Nút sắp tới chỉ có t − 1 khoá thì mượn khoá của anh em qua cha (3a) hoặc trộn với anh em (3b)`"]
+  n26 --- n29
+  n30["`Gốc rỗng thì bỏ, cây thấp đi 1, xoá cũng tốn O(h) lần truy cập đĩa và O(t log#95;t n) CPU`"]
+  n26 --- n30
+  n31["`Hình 18.8: xoá F, M, G, D, B với t = 3 minh hoạ các trường hợp 1, 2a, 2c, 3b, 3a`"]
+  n26 --- n31
+  n32["`Bài tập và bài toán cuối chương`"]
   n0 --- n32
-  n33["`Đổi mô hình chi phí trước khi đổi cấu trúc: đếm số lần truy cập tầng chậm, không đếm phép so sánh`"]
+  n33["`18.2-6 Tìm kiếm nhị phân trong nút đưa CPU của B-TREE-SEARCH về O(lg n), không phụ thuộc t`"]
   n32 --- n33
-  n34["`Nút càng rộng cây càng thấp, chọn kích thước nút khớp với trang đĩa hoặc dòng bộ nhớ đệm`"]
+  n34["`18-1 Ngăn xếp trên bộ nhớ ngoài: giữ trong bộ nhớ hai trang kề đỉnh cho O(1/m) lần truy cập đĩa khấu hao mỗi thao tác`"]
   n32 --- n34
-  n35["`Sửa trước trên đường đi xuống biến thuật toán cần quay lui thành thuật toán một lượt, chỉ giữ O(1) trang`"]
+  n35["`18-2 Ghép hai cây 2-3-4 tốn O(1 + |h′ − h″|), tách theo khoá k tốn O(lg n)`"]
   n32 --- n35
-  n36["`Cây 2-3-4 là cây B với t = 2, tương ứng với cây đỏ-đen của Chương 13`"]
-  n32 --- n36
+  n36["`Thông điệp xuyên suốt`"]
+  n0 --- n36
+  n37["`Đổi mô hình chi phí trước khi đổi cấu trúc: đếm số lần truy cập tầng chậm, không đếm phép so sánh`"]
+  n36 --- n37
+  n38["`Nút càng rộng cây càng thấp, chọn kích thước nút khớp với trang đĩa hoặc dòng bộ nhớ đệm`"]
+  n36 --- n38
+  n39["`Sửa trước trên đường đi xuống biến thuật toán cần quay lui thành thuật toán một lượt, chỉ giữ O(1) trang`"]
+  n36 --- n39
+  n40["`Chỉ mục của PostgreSQL, MySQL InnoDB, SQLite dùng B⁺-tree với nút cỡ 4–16 KB`"]
+  n36 --- n40
   class n0 root
-  class n1,n6,n14,n23,n29,n32 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n30,n31,n33,n34,n35,n36 leaf
+  class n1,n7,n16,n26,n32,n36 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n37,n38,n39,n40 leaf
 ```
 
 ## Nguồn
@@ -1212,6 +1230,10 @@ Các chương sau của Phần V dùng mạnh phân tích khấu hao: đống Fi
 - **Không có mục khó (dấu sao) nào trong chương, chỉ có Bài tập 18.2-4 được đánh dấu ★** (đếm số nút khi chèn lần lượt 1, 2, …, n vào cây B bậc tối thiểu 2).
 - **Ký hiệu trong bản tổng hợp:** sách viết chỉ số dưới (x.key với chỉ số i, x.c với chỉ số i). Trong các khối pseudocode và sơ đồ, bản tổng hợp viết `x.key[i]`, `x.c[i]`, `y.key[j+t]`… để đọc được bằng chữ thường; ý nghĩa giống hệt sách. Pseudocode giữ đúng tên thủ tục và số dòng như sách.
 - **Lớp chữ PDF hỏng ở mọi công thức và pseudocode của chương** (ví dụ `2t/NUL 1` là 2t − 1, `xD ALLOCATE -NODE ./` là x = ALLOCATE-NODE(), dấu ≤ và ≥ bị mất hẳn trong `while i x: n and k>x : keyi`, Định lý 18.1 mất dấu ≤ và log_t). Toàn bộ pseudocode, Định lý 18.1, các phép tính trong chứng minh và năm hình (18.1, 18.4, 18.5, 18.6, 18.7, 18.8) được người tổng hợp đọc lại từ ảnh trang. Bản chữ của Hình 18.7 và 18.8 bị trộn thứ tự nút; nội dung cây trong bản tổng hợp lấy từ ảnh.
-- **Lỗi đã biết của ấn bản 3 (errata):** theo hiểu biết của người tổng hợp (không tra cứu), người tổng hợp không nhớ chắc lỗi nào trong danh sách errata chính thức thuộc về Chương 18, nên không liệt kê. Người tổng hợp đã tự chạy tay mọi ví dụ trong Hình 18.1, 18.5, 18.6, 18.7, 18.8 và chứng minh Định lý 18.1 và thấy khớp với sách. Có hai chỗ diễn đạt dễ gây hiểu lầm (không phải lỗi): (1) chú thích Hình 18.8(e) nói "xoá D khỏi một lá (trường hợp 1)" — thực ra sau khi trộn thành nút CLPTX, thủ tục còn đi qua trường hợp 3 thêm một lần ở nút đó (nút con DEJK đã có 4 ≥ t khoá nên không cần sửa) rồi mới tới trường hợp 1 ở lá; (2) phần mô tả xoá nói thủ tục "đi một lượt xuống, không phải quay lui", nhưng ngay sau đó thừa nhận trường hợp 2a/2b có thể phải quay lại nút chứa k để thay k bằng k′ — thực tế có thể tránh việc quay lại bằng cách đi xuống tìm k′ trước rồi ghi đè k ngay, vì nút x vẫn còn trong bộ nhớ.
+- **Lỗi đã biết của ấn bản 3 (errata):** theo hiểu biết của người tổng hợp (không tra cứu), người tổng hợp không nhớ chắc lỗi nào trong danh sách errata chính thức thuộc về Chương 18, nên không liệt kê. Người tổng hợp đã tự chạy tay mọi ví dụ trong Hình 18.1, 18.5, 18.6, 18.7, 18.8 và chứng minh Định lý 18.1 và thấy khớp với sách.
+
+  Có hai chỗ diễn đạt dễ gây hiểu lầm (không phải lỗi): (1) chú thích Hình 18.8(e) nói "xoá D khỏi một lá (trường hợp 1)" — thực ra sau khi trộn thành nút CLPTX, thủ tục còn đi qua trường hợp 3 thêm một lần ở nút đó (nút con DEJK đã có 4 ≥ t khoá nên không cần sửa) rồi mới tới trường hợp 1 ở lá.
+
+  (2) phần mô tả xoá nói thủ tục "đi một lượt xuống, không phải quay lui", nhưng ngay sau đó thừa nhận trường hợp 2a/2b có thể phải quay lại nút chứa k để thay k bằng k′ — thực tế có thể tránh việc quay lại bằng cách đi xuống tìm k′ trước rồi ghi đè k ngay, vì nút x vẫn còn trong bộ nhớ.
 - **Số liệu phần cứng đã cũ:** sách viết năm 2009 với đĩa từ 5400–15.000 vòng/phút, thời gian truy cập trung bình 8–11 ms, trang 2¹¹–2¹⁴ byte, và chỉ nhắc ổ thể rắn (SSD) trong một chú thích như "mới xuất hiện trên thị trường tiêu dùng". Theo hiểu biết của người tổng hợp, ngày nay SSD là phổ biến (độ trễ đọc ngẫu nhiên cỡ chục đến trăm micro giây), nhưng tỷ lệ "một lần truy cập thiết bị lưu trữ đắt hơn rất nhiều lần một phép so sánh trong bộ nhớ" vẫn đúng, và lập luận của chương vẫn đứng vững; nó cũng áp dụng cho khoảng cách giữa bộ nhớ đệm CPU và RAM.
 - **Ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu:** Chương 18 về cây B vẫn được giữ (vẫn là Chương 18); phần thao tác tách gốc được tách thành thủ tục riêng B-TREE-SPLIT-ROOT, và phần mô tả đĩa được cập nhật. Phần V của ấn bản 4 bỏ hai chương đống Fibonacci và cây van Emde Boas khỏi bản in (chuyển thành tài liệu trực tuyến), nên phần giới thiệu Phần V cũng thay đổi.
