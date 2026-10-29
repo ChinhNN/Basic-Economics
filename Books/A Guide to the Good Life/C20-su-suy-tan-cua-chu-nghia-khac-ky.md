@@ -504,3 +504,101 @@ Irvine nhắc rằng Marcus không tìm cách cải đạo dân La Mã. Trong *S
 - **Đầu tư và tài chính:** chiến lược "thỏa mãn mọi ham muốn" trong tài chính là liên tục nâng chuẩn chi tiêu khi thu nhập tăng (nhà to hơn, xe đắt hơn). Theo lập luận của Irvine, mức hài lòng sẽ quay về như cũ còn nghĩa vụ tài chính thì ở lại. Làm chủ ham muốn ở đây là giữ mức chi tiêu ổn định khi thu nhập tăng và dồn phần chênh lệch vào tiết kiệm, đầu tư; đó cũng là cách tăng biên an toàn trước rủi ro mất thu nhập. Trong giao dịch, sau một khoản lỗ lớn, lời Seneca "đừng nghĩ một lần bất hạnh là cả đời bất hạnh" giúp tránh hai sai lầm: gỡ gạc liều lĩnh và bỏ hẳn kế hoạch dài hạn.
 - **Quyết định khi gặp mất mát:** khi một nhân viên hay người thân gặp tang sự, đừng ép họ "phải nói ra" hay "phải đi tư vấn"; hãy để họ tự chọn cách vượt qua, sẵn sàng hỗ trợ khi họ cần, và chú ý những dấu hiệu đau buồn kéo dài bất thường (mất ngủ, bỏ việc nhiều tháng) để lúc ấy mới đề nghị trợ giúp chuyên môn.
 - **Đời sống cá nhân:** coi bổn phận như cách cha mẹ tốt coi việc nuôi con, tức là một điều đáng làm chứ không phải gánh nặng, giúp giảm cảm giác "mình đang hy sinh". Một cách thực hành: thay câu "mình phải làm việc này" bằng câu "mình chọn làm việc này vì nó quan trọng với mình".
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 20 trên một trang: sáu nhánh lớn theo trình tự của chương gốc (sự suy tàn sau Marcus Aurelius và những lần le lói trở lại, rồi bốn trở ngại khiến người hiện đại ác cảm: tâm lý học, chính trị, triết học học thuật, mức độ tự kiểm soát), mỗi nhánh ghi luận điểm, bằng chứng, nhân vật và câu trả lời của Irvine; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 20: chủ nghĩa Khắc kỷ suy tàn vì lịch sử và định kiến hiện đại, không vì nó sai; xét kỹ từng định kiến thì nó vẫn đứng vững`"]
+  n1["`Trang PDF 166–167 — Vì sao suy tàn sau Marcus Aurelius`"]
+  n0 --- n1
+  n2["`Marcus không dùng quyền lực bắt dân La Mã theo; Lecky gọi ông là đại diện cuối cùng và hoàn hảo nhất`"]
+  n1 --- n2
+  n3["`Lecky: xã hội La Mã suy đồi nên học thuyết đòi tự kiểm soát kém hấp dẫn (nay ít được ủng hộ)`"]
+  n1 --- n3
+  n4["`Clarke: sau Epictetus không còn người thầy là hiện thân sống của học thuyết`"]
+  n1 --- n4
+  n5["`Ki-tô giáo giống Khắc kỷ ở nhiều điểm nhưng hứa thêm đời sau hạnh phúc vĩnh viễn`"]
+  n1 --- n5
+  n6["`Trang PDF 167–169 — Le lói trở lại rồi bị lãng quên`"]
+  n0 --- n6
+  n7["`Descartes, Bàn về phương pháp: đổi ham muốn của mình hơn là đổi trật tự thế giới`"]
+  n6 --- n7
+  n8["`Schopenhauer: Trí tuệ cuộc sống và Khuyên nhủ và phương châm mang màu sắc Khắc kỷ`"]
+  n6 --- n8
+  n9["`Thoreau tới đầm Walden để khỏi “khi sắp chết mới nhận ra mình chưa từng sống”`"]
+  n6 --- n9
+  n10["`Bị gọi là vô cảm nhưng viết “niềm vui là trạng thái của cuộc sống”`"]
+  n9 --- n10
+  n11["`Thế kỷ 20 người ta tin người Khắc kỷ buồn tẻ, khắc nghiệt, vô cảm`"]
+  n6 --- n11
+  n12["`Trang PDF 169–175 — Trở ngại một: tâm lý học bảo phải giải tỏa cảm xúc`"]
+  n0 --- n12
+  n13["`Phản đối: đè nén nỗi đau buồn sẽ gây “nỗi đau bị trì hoãn”, nên gặp chuyên gia tham vấn`"]
+  n12 --- n13
+  n14["`Irvine: người Khắc kỷ không chôn chặt mà ngăn ngừa và vượt qua cảm xúc`"]
+  n12 --- n14
+  n15["`Vẫn khóc khi mất người thân, rồi nhớ người đã khuất muốn mình hạnh phúc`"]
+  n14 --- n15
+  n16["`Mục tiêu là giảm thiểu nỗi buồn, không xóa sạch`"]
+  n14 --- n16
+  n17["`Bằng chứng con người kiên cường hơn nhà trị liệu tưởng`"]
+  n12 --- n17
+  n18["`Aberfan 1966 (116 trẻ em chết): cha mẹ tự chịu đựng mà ứng phó phi thường`"]
+  n17 --- n18
+  n19["`Anh quốc trong Thế chiến thứ hai: tỷ lệ bệnh tâm thần không đổi`"]
+  n17 --- n19
+  n20["`Cha mẹ mất con vì đột tử sơ sinh mà “làm việc với nỗi đau” vẫn tệ hơn sau 18 tháng`"]
+  n17 --- n20
+  n21["`Nỗi đau bị trì hoãn do Helene Deutsch nêu năm 1937 không kiểm chứng, thực tế rất hiếm`"]
+  n17 --- n21
+  n22["`Seneca: một người khốn khổ chừng nào còn tự thuyết phục mình khốn khổ`"]
+  n12 --- n22
+  n23["`Trang PDF 175–176 — Trở ngại hai: chính trị dạy người ta coi mình là nạn nhân`"]
+  n0 --- n23
+  n24["`Chính trị gia nói bất hạnh là lỗi của chính phủ, hãy bầu cho người hứa làm bạn hạnh phúc`"]
+  n23 --- n24
+  n25["`Người Khắc kỷ: cái chắn hạnh phúc là triết lý sống khiếm khuyết hoặc không có triết lý`"]
+  n23 --- n25
+  n26["`Người bị đày ra đảo hoang có thể hạnh phúc hơn người sống xa hoa`"]
+  n25 --- n26
+  n27["`Vẫn coi chống bất công là bổn phận, nhưng chỉ ta mới hủy hoại được đời ta`"]
+  n23 --- n27
+  n28["`Thứ tự cải cách: trước dạy hạnh phúc ít phụ thuộc hoàn cảnh, sau mới đổi hoàn cảnh`"]
+  n23 --- n28
+  n29["`Trang PDF 177–178 — Trở ngại ba: triết học thế kỷ 20 bỏ việc dạy cách sống`"]
+  n0 --- n29
+  n30["`Triết học chuyển sang phân tích ngôn ngữ, coi khuyên cách sống không phải việc của mình`"]
+  n29 --- n30
+  n31["`Epictetus trả lời “sống thuận theo tự nhiên” kèm hướng dẫn chi tiết`"]
+  n29 --- n31
+  n32["`Triết gia phân tích mổ xẻ câu hỏi rồi kết luận nó vô nghĩa, có lẽ chính ông không có triết lý sống`"]
+  n29 --- n32
+  n33["`Trang PDF 178–180 — Trở ngại bốn: mức độ tự kiểm soát bị coi là công thức bất hạnh`"]
+  n0 --- n33
+  n34["`Phản đối: hạnh phúc là có thứ mình muốn, bằng kiểm kê, lập kế hoạch, thực hiện`"]
+  n33 --- n34
+  n35["`Irvine: thỏa mãn một ham muốn thì ham muốn mới thế chỗ, nên vẫn bất mãn`"]
+  n33 --- n35
+  n36["`Làm chủ ham muốn: ngăn ham muốn mới hình thành và tập yêu cái mình đã có`"]
+  n35 --- n36
+  n37["`Bổn phận không phải hy sinh, như cha mẹ tốt không coi nuôi con là gánh nặng`"]
+  n33 --- n37
+  n38["`Phái Epicurus, Phật giáo, Ki-tô giáo, Đạo giáo cũng đề cao đời tự kỷ luật`"]
+  n33 --- n38
+  n39["`Thông điệp xuyên suốt`"]
+  n0 --- n39
+  n40["`Câu hỏi thật là người thiếu tự chủ và không tin gì lớn hơn bản thân có sống tốt được không`"]
+  n39 --- n40
+  n41["`Người tổng hợp: bằng chứng tâm lý của Irvine nặng giai thoại; thiểu số vẫn cần trợ giúp chuyên môn`"]
+  n39 --- n41
+  class n0 root
+  class n1,n6,n12,n23,n29,n33,n39 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n30,n31,n32,n34,n35,n36,n37,n38,n40,n41 leaf
+```

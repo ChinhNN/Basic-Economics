@@ -510,3 +510,101 @@ Irvine không nhắc, nhưng chính Marcus Aurelius nhiều lần viết rằng 
 - **Đầu tư và tài chính:** lòng tham vô độ và lo âu là hai lập trình tiến hóa gây hại nhất cho nhà đầu tư: tham khiến mua đuổi khi giá tăng, lo khiến bán tháo khi giá giảm. Áp dụng tam phân: giá thị trường không kiểm soát được; phân bổ tài sản, quy mô vị thế, kỷ luật cắt lỗ thì kiểm soát được; kết quả danh mục kiểm soát một phần, nên mục tiêu nên là tuân thủ quy trình chứ không phải đạt một mức lợi nhuận cụ thể. Ẩn dụ aspirin cũng áp được vào đầu tư: một chiến lược có thể hiệu quả dù người dùng giải thích sai lý do; nhưng cần phân biệt hiệu quả thật (được kiểm chứng qua nhiều chu kỳ) với may mắn.
 - **Quyết định dùng giải pháp nhanh hay giải pháp gốc:** trước khi dùng "lối tắt" (thuốc, một khoản vay để mua sắm, một khóa học hứa thành công nhanh), hỏi theo kiểu béo phì và Xanax: giải pháp thay đổi thói quen có an toàn hơn không, có lợi lan sang mặt khác không, và nếu bỏ lối tắt thì mình có tự đứng được không?
 - **Đời sống cá nhân:** chọn triết lý sống, phương pháp kỷ luật hay cách quản lý thời gian theo tính cách của mình, như Irvine bỏ Thiền vì ưa phân tích. Người thích phân tích có thể hợp với nhật ký buổi tối kiểu Khắc kỷ; người khác có thể hợp với thiền chánh niệm. Điều quan trọng không phải chọn đúng hệ "tốt nhất", mà là có một hệ để dùng, vì theo Irvine một triết lý chưa hoàn hảo vẫn hơn sống theo chế độ lái tự động.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 21 trên một trang: sáu nhánh lớn theo trình tự của chương gốc (tóm tắt lời khuyên Khắc kỷ, lý lẽ thần Zeus của người xưa, lý lẽ tiến hóa thay thế của Irvine, ẩn dụ aspirin và phản bác Xanax, phản bác về tính thuần khiết, ai nên chọn chủ nghĩa Khắc kỷ), mỗi nhánh ghi luận điểm, ví dụ và câu trả lời then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 21: bỏ lý lẽ thần học mà vẫn giữ được chủ nghĩa Khắc kỷ, vì kỹ thuật của nó giúp lý trí chế ngự lập trình tiến hóa đã lỗi thời`"]
+  n1["`Trang PDF 181–184 — Mục tiêu sự bình thản và tóm tắt lời khuyên Khắc kỷ`"]
+  n0 --- n1
+  n2["`Triết lý sống gồm hai phần: điều đáng theo đuổi và cách đạt nó`"]
+  n1 --- n2
+  n3["`Sự bình thản: ít lo âu, đau buồn, sợ hãi, nhiều niềm vui`"]
+  n1 --- n3
+  n4["`Tự quan sát mình; dùng lý trí thấy danh tiếng, của cải ít giá trị`"]
+  n1 --- n4
+  n5["`Giàu thì cứ hưởng nhưng đừng bám chấp; phái Khuyển nho mới đòi khổ hạnh`"]
+  n1 --- n5
+  n6["`Chống lòng tham vô độ bằng tưởng tượng tiêu cực và tự tiết chế (Seneca: tập sống nghèo)`"]
+  n1 --- n6
+  n7["`Chống lo âu bằng tam phân quyền kiểm soát và nội tại hóa mục tiêu (chơi quần vợt hết sức thay vì thắng)`"]
+  n1 --- n7
+  n8["`Trang PDF 184–185 — Lý lẽ của người Khắc kỷ cổ đại`"]
+  n0 --- n8
+  n9["`Zeus tạo ra con người, ban lý trí và một mô hình sống “hòa hợp với tự nhiên”`"]
+  n8 --- n9
+  n10["`Tín đồ tôn giáo khác thay Zeus bằng Thượng đế là dùng được`"]
+  n8 --- n10
+  n11["`Người tin tiến hóa thì con người không có mục đích thiết kế sẵn, nên lý lẽ sụp`"]
+  n8 --- n11
+  n12["`Trang PDF 185–191 — Lý lẽ thay thế: tâm lý học tiến hóa`"]
+  n0 --- n12
+  n13["`Tiến hóa không quan tâm ta hạnh phúc, chỉ cần ta sống sót và sinh sản`"]
+  n12 --- n13
+  n14["`Tiến hóa cài vào ta nỗi đau, nỗi sợ, nỗi lo, lòng tham vô độ, khát địa vị`"]
+  n12 --- n14
+  n15["`Tổ tiên lo bữa ăn tới thì ít chết đói hơn người vô tư ngắm hoàng hôn`"]
+  n14 --- n15
+  n16["`Địa vị thấp trong nhóm từng đe dọa sống còn, nên nay bị sỉ nhục thấy đau`"]
+  n14 --- n16
+  n17["`Lý trí vốn để thỏa mãn ham muốn hiệu quả hơn, không để vượt qua chúng`"]
+  n12 --- n17
+  n18["`Ta có thể “lạm dụng” lý trí như dùng tai nghe Beethoven, dùng chân leo Everest`"]
+  n12 --- n18
+  n19["`Lăng mạ nay không đe dọa sống còn, nên dùng lý trí xóa nỗi đau vì nó`"]
+  n18 --- n19
+  n20["`Đời sống nay an toàn, dễ đoán, nên thôi lo về điều ngoài tầm kiểm soát`"]
+  n18 --- n20
+  n21["`Trang PDF 191–195 — Ẩn dụ aspirin và phản bác Xanax`"]
+  n0 --- n21
+  n22["`Người Ai Cập dùng vỏ cây liễu chữa đau vì tin nó giảm “wekhudu”: thuyết sai, thuốc vẫn hiệu quả`"]
+  n21 --- n22
+  n23["`Tới thập niên 1970 mới biết aspirin chặn tạo prostaglandin`"]
+  n22 --- n23
+  n24["`Người Khắc kỷ cũng tìm ra phương thuốc đúng nhưng giải thích sai vì sao nó hiệu quả`"]
+  n21 --- n24
+  n25["`Phản bác: đã có thuốc an thần Xanax thì cần gì Seneca`"]
+  n21 --- n25
+  n26["`Irvine: như người béo phì nên đổi lối sống trước thuốc và phẫu thuật`"]
+  n21 --- n26
+  n27["`Khắc kỷ an toàn hơn, cho tự tin xử lý mọi chuyện và cho lòng biết ơn, niềm vui`"]
+  n26 --- n27
+  n28["`Trang PDF 195–197 — Phản bác về tính thuần khiết`"]
+  n0 --- n28
+  n29["`Bị chê ghép đầu Khắc kỷ vào thân khoa học thành quái vật Frankenstein`"]
+  n28 --- n29
+  n30["`Bị chê xóa lập trình tiến hóa là sống trái tự nhiên và che khác biệt giữa các nhà Khắc kỷ`"]
+  n28 --- n30
+  n31["`Irvine làm “thám tử triết học” vì các nhà Khắc kỷ La Mã không để lại cẩm nang`"]
+  n28 --- n31
+  n32["`Seneca: tôi cũng có quyền đưa ra quan điểm của mình; nguyên tắc là đất sét, không phải đá tảng`"]
+  n28 --- n32
+  n33["`Khắc kỷ là công cụ: Irvine lau bụi, thay vài bộ phận và thấy nó tốt hơn mọi công cụ khác`"]
+  n28 --- n33
+  n34["`Trang PDF 197–201 — Ai nên thực hành chủ nghĩa Khắc kỷ`"]
+  n0 --- n34
+  n35["`Người coi sự bình thản là mục tiêu và có tính cách, hoàn cảnh hợp`"]
+  n34 --- n35
+  n36["`Người Khắc kỷ bẩm sinh thấy Seneca thân thuộc; người bất mãn triền miên nói “nó không hiệu quả đâu”`"]
+  n34 --- n36
+  n37["`Đa số sống theo chế độ lái tự động của tiến hóa cho tới khi một bi kịch làm họ bừng tỉnh`"]
+  n34 --- n37
+  n38["`Irvine bỏ Thiền vì ông ưa phân tích, còn Khắc kỷ dùng chính tính ưa phân tích ấy`"]
+  n34 --- n38
+  n39["`Không phải thuyết tương đối: tìm sự bình thản qua tạp chí People là chiến lược sai`"]
+  n34 --- n39
+  n40["`Thông điệp xuyên suốt`"]
+  n0 --- n40
+  n41["`Như bạn đời chưa hoàn hảo vẫn hơn sống một mình, có triết lý sống chưa hoàn hảo vẫn hơn không có`"]
+  n40 --- n41
+  class n0 root
+  class n1,n8,n12,n21,n28,n34,n40 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n41 leaf
+```

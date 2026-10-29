@@ -472,3 +472,99 @@ Marcus Aurelius viết *Suy tưởng* ở tuổi năm mươi, giữa chiến tra
 - **Chuẩn bị tài chính cho tuổi già:** tưởng tượng tiêu cực áp vào kế hoạch hưu trí: hình dung cụ thể cảnh mất khả năng tự lo (như ví dụ chạy hàng dặm và cuốn sổ ghi nợ) để chuẩn bị bảo hiểm y tế, chi phí chăm sóc dài hạn và giấy ủy quyền tài chính cho người tin cậy khi mình còn minh mẫn. Đây là phần "trong tầm kiểm soát" của tuổi già.
 - **Chuẩn bị tinh thần cho tuổi già:** theo Musonius, khoản đầu tư quan trọng nhất cho tuổi già là thói quen tinh thần: tập vui với điều đơn giản, tập không bận tâm vị trí trong "nấc thang xã hội", tập biết ơn mỗi ngày. Những thói quen này rẻ, và càng bắt đầu sớm càng có lợi, giống như lãi kép.
 - **Với cha mẹ và người thân lớn tuổi:** chương giúp hiểu những khó khăn ít được nói tới của người già ở viện dưỡng lão hay ở nhà: không phải thiếu tiện nghi, mà là giao tiếp, vị trí xã hội và tin người quen qua đời. Thăm hỏi đều đặn và giữ cho họ vai trò có ích có thể giúp nhiều hơn những món đồ đắt tiền.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 17 trên một trang: năm nhánh lớn theo trình tự của chương gốc (tuổi hai mươi, tuổi ba mươi và bốn mươi, tuổi già và viện dưỡng lão, niềm vui riêng của tuổi già theo Seneca, lời khuyên học Khắc kỷ của Musonius), mỗi nhánh ghi luận điểm, ví dụ và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 17: chủ nghĩa Khắc kỷ đặc biệt hợp với tuổi già; nên học từ trẻ, nhưng bắt đầu lúc già cũng không muộn`"]
+  n1["`Trang PDF 147 — Tuổi hai mươi chê chủ nghĩa Khắc kỷ`"]
+  n0 --- n1
+  n2["`Sinh viên tin thế giới là của mình và thành ngôi sao thì sẽ hạnh phúc lâu dài`"]
+  n1 --- n2
+  n3["`Họ không chịu an phận với “sự thanh thản nhàm chán” vì còn bao thứ phải có`"]
+  n1 --- n3
+  n4["`Người yêu hoàn hảo, công việc vừa ý, sự ngưỡng mộ của mọi người`"]
+  n3 --- n4
+  n5["`Với họ chủ nghĩa Khắc kỷ nghe như triết học cho kẻ thất bại`"]
+  n1 --- n5
+  n6["`Có người tin đời phải trải thảm đỏ, nên sốc khi đường gập ghềnh`"]
+  n1 --- n6
+  n7["`Trang PDF 147–149 — Tuổi ba mươi, bốn mươi: thành công bên ngoài mà không hạnh phúc`"]
+  n0 --- n7
+  n8["`Tuổi ba mươi cố gấp đôi để cải thiện hoàn cảnh bên ngoài`"]
+  n7 --- n8
+  n9["`Tuổi bốn mươi lương gấp hai mươi lần, nhà bốn phòng ngủ, được báo khen mà không vui hơn`"]
+  n7 --- n9
+  n10["`Còn chìm trong lo âu, giận dữ và bị người khác ganh tị`"]
+  n9 --- n10
+  n11["`Bắt đầu hỏi: “Đời chỉ có vậy thôi sao?”`"]
+  n9 --- n11
+  n12["`Khủng hoảng tuổi trung niên dẫn tới hai kết luận`"]
+  n7 --- n12
+  n13["`Kết luận đúng: mình khổ vì đã muốn những thứ sai lầm`"]
+  n12 --- n13
+  n14["`Kết luận sai, phổ biến hơn: mình khổ vì hy sinh cái trước mắt, nên mua xe, bỏ vợ`"]
+  n12 --- n14
+  n15["`Chiến thuật chạy theo khoái lạc trước mắt không tốt hơn, có mặt còn tệ hơn`"]
+  n12 --- n15
+  n16["`Trang PDF 149–151 — Tuổi già lấy đi khả năng và có thể dẫn vào viện dưỡng lão`"]
+  n0 --- n16
+  n17["`Từng chạy hàng dặm, giờ thở hổn hển khi đi dọc hành lang`"]
+  n16 --- n17
+  n18["`Viện dưỡng lão tiện nghi vật chất, không như hoang đảo Gyara nơi Musonius bị đày`"]
+  n16 --- n18
+  n19["`Nhưng giao tiếp rất khó: sống giữa người mình không chọn, ở bậc thấp của nấc thang xã hội`"]
+  n18 --- n19
+  n20["`Giống trường trung học, ký túc xá và vùng có dịch bệnh vì xe cứu thương tới thường xuyên`"]
+  n18 --- n20
+  n21["`Người tám mươi biết thế giới không phải của mình, có thể sẵn sàng cho chủ nghĩa Khắc kỷ`"]
+  n16 --- n21
+  n22["`Nhưng nhiều người già vẫn lặp lỗi cũ và than trách người thân, thức ăn, thời tiết`"]
+  n16 --- n22
+  n23["`Bi kịch: chọn mục tiêu sai hoặc chiến thuật tệ, đánh mất cuộc đời duy nhất mình có`"]
+  n22 --- n23
+  n24["`Trang PDF 151–153 — Seneca: tuổi già đầy niềm vui nếu biết dùng`"]
+  n0 --- n24
+  n25["`Mất khả năng hưởng lạc thú thì cũng mất luôn ham muốn hưởng chúng`"]
+  n24 --- n25
+  n26["`Sophocles khi già mừng thoát ham muốn tình dục như nô lệ thoát ông chủ độc ác`"]
+  n25 --- n26
+  n27["`Seneca: thân suy thì thói xấu cũng suy, còn tâm trí vẫn minh mẫn và nhẹ gánh`"]
+  n25 --- n27
+  n28["`Cái chết gần kề làm mỗi ngày đáng sống hơn (tưởng tượng tiêu cực, Chương 4)`"]
+  n24 --- n28
+  n29["`Người trẻ phải gắng mới nghĩ tới cái chết; người già phải gắng mới tránh nghĩ tới`"]
+  n28 --- n29
+  n30["`Seneca: nếu thần ban thêm một ngày, hãy đón nó với trái tim hân hoan`"]
+  n28 --- n30
+  n31["`Bà cụ tám mươi có thể vui hơn đứa cháu hai mươi coi mọi thứ là hiển nhiên`"]
+  n28 --- n31
+  n32["`Trang PDF 153–154 — Musonius: học từ trẻ, nhưng không bao giờ quá muộn`"]
+  n0 --- n32
+  n33["`Tuổi già khó nhất, mà chủ nghĩa Khắc kỷ dạy đối mặt khó khăn bằng tâm thế điềm nhiên`"]
+  n32 --- n33
+  n34["`Musonius: người học từ trẻ có “liều thuốc hữu hiệu” trong nội tâm khi về già`"]
+  n32 --- n34
+  n35["`Họ không than tuổi xuân đã qua, thân yếu hay bị người thân bỏ mặc`"]
+  n34 --- n35
+  n36["`Người già yếu vẫn đọc triết gia, thực hành tưởng tượng tiêu cực, thôi lo điều ngoài kiểm soát`"]
+  n32 --- n36
+  n37["`Quan trọng nhất: sống thuận theo cuộc đời, không ước giá như mọi chuyện đã khác`"]
+  n32 --- n37
+  n38["`Chỗ yếu: chương không bàn trường hợp tâm trí cũng suy yếu, nên càng nên học sớm`"]
+  n32 --- n38
+  n39["`Thông điệp xuyên suốt`"]
+  n0 --- n39
+  n40["`Không phải tuổi tác mà triết lý sống quyết định người ta có vui được khi già hay không`"]
+  n39 --- n40
+  class n0 root
+  class n1,n7,n16,n24,n32,n39 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n40 leaf
+```

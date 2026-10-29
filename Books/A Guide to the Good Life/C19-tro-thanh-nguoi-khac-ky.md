@@ -402,3 +402,89 @@ Lời khuyên vui với những gì mình có và không cần thiết bị đi�
 - **Đầu tư và tài chính:** "chiến lược ba phần" áp vào danh mục: (1) phần không ai lấy được là kỹ năng, sức khỏe, uy tín và kiến thức của mình, nên đầu tư vào chúng trước; (2) với tài sản có thể mất (cổ phiếu, bất động sản), hưởng lãi nhưng luôn tâm niệm có thể mất và có kế hoạch cho kịch bản xấu (quỹ dự phòng, không dùng đòn bẩy quá mức); (3) không thành "người sành sỏi" trong chi tiêu, để một đợt sụt giảm thu nhập không làm mình khổ sở.
 - **Thực hành kín đáo ở nơi làm việc:** không cần tuyên bố "tôi theo chủ nghĩa Khắc kỷ". Người khác sẽ chỉ thấy một người bình tĩnh trong khủng hoảng, không than vãn, không chạy theo danh hiệu. Nếu bị chế nhạo vì sống khác (không tham gia những cuộc nhậu để "làm quan hệ", không mua xe đắt), hãy nhớ phân tích của Irvine: sự chế nhạo thường là phản ứng với lời thách thức ngầm, không phải đánh giá đúng về mình.
 - **Đời sống cá nhân:** kiểm tra mức độ bám chấp bằng câu hỏi của phần hai chiến lược: "nếu mất thứ này ngày mai, mình có thấy bị đối xử bất công không?" Nếu có, đó là dấu hiệu đang coi nó là thứ mình đáng được hưởng; tập nghĩ về nó như một may mắn ngẫu nhiên sẽ làm niềm vui với nó lớn hơn chứ không nhỏ đi.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 19 trên một trang: năm nhánh lớn theo trình tự của chương gốc (chi phí của việc thực hành và không thực hành, lý do có triết lý sống, thực hành kín đáo, phần thưởng và chiến lược ba phần chống nỗi sợ mất nguồn vui, lời giục bắt đầu ngay của Epictetus), mỗi nhánh ghi lập luận, ví dụ và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 19: thực hành chủ nghĩa Khắc kỷ tốn công nhưng không thực hành còn tốn hơn; hãy thực hành kín đáo và bắt đầu ngay hôm nay`"]
+  n1["`Trang PDF 160 — Thực hành khó, nhưng không thực hành còn tốn công hơn`"]
+  n0 --- n1
+  n2["`Cần nỗ lực để tập tưởng tượng tiêu cực và tự tiết chế (bản dịch: tập sống khổ hạnh)`"]
+  n1 --- n2
+  n3["`Phải thay mục tiêu danh vọng và tài sản bằng mục tiêu mới là sự bình thản`"]
+  n1 --- n3
+  n4["`Musonius: công sức cho tình vụng trộm vượt xa công sức tập tự chủ để không vướng vào`"]
+  n1 --- n4
+  n5["`Làm giàu tốn hơn tập hài lòng với cái đã có; tìm danh vọng tốn hơn chế ngự ham muốn được nể`"]
+  n4 --- n5
+  n6["`Ủ mưu hại người mình ganh tị tốn hơn vượt qua cảm giác ganh tị`"]
+  n4 --- n6
+  n7["`Trang PDF 161 — Vì sao cần một triết lý sống`"]
+  n0 --- n7
+  n8["`Có triết lý thì quyết định đơn giản: chọn cái giúp đạt mục tiêu triết lý đặt ra`"]
+  n7 --- n8
+  n9["`Không có thì lựa chọn đơn giản cũng thành khủng hoảng ý nghĩa sống`"]
+  n8 --- n9
+  n10["`Lý do quan trọng nhất là tránh sống lỗi`"]
+  n7 --- n10
+  n11["`Sống lỗi: chạy theo mục tiêu phù phiếm, hoặc theo mục tiêu đáng giá bằng cách dại dột`"]
+  n10 --- n11
+  n12["`Trang PDF 161–162 — Thực hành kín đáo vì sẽ bị chế nhạo`"]
+  n0 --- n12
+  n13["`Hình mẫu Socrates: sống bình thường tới mức người ta nhờ ông giới thiệu triết gia`"]
+  n12 --- n13
+  n14["`Epictetus: Socrates “chịu đựng việc bị coi thường”`"]
+  n13 --- n14
+  n15["`Người có triết lý sống ngầm cho thấy giá trị của số đông có thể sai`"]
+  n12 --- n15
+  n16["`Triết lý ấy thách người khác xét lại đời mình, điều họ không muốn làm`"]
+  n12 --- n16
+  n17["`Chế giễu là cách kéo người đó về lại với đám đông không suy nghĩ`"]
+  n12 --- n17
+  n18["`Trang PDF 162–163 — Phần thưởng và chiến lược ba phần chống nỗi sợ mất nguồn vui`"]
+  n0 --- n18
+  n19["`Thưởng: đức hạnh theo nghĩa cổ, ít giận, buồn, thất vọng, lo lắng, thêm hân hoan với thế giới`"]
+  n18 --- n19
+  n20["`Người Khắc kỷ vui mà không cần đổi hoàn cảnh nhờ tưởng tượng tiêu cực`"]
+  n18 --- n20
+  n21["`Phần một: vui với thứ không ai lấy được, nhất là tính cách của mình`"]
+  n18 --- n21
+  n22["`Marcus: gặp tai họa vẫn mừng vì nó không làm ta cay đắng được`"]
+  n21 --- n22
+  n23["`Phần hai: vui với thứ có thể mất nhưng coi nó là may mắn ngẫu nhiên, không bám chấp`"]
+  n18 --- n23
+  n24["`Phần ba: tránh làm người sành sỏi để vẫn vui với điều dễ có`"]
+  n18 --- n24
+  n25["`Niềm vui có thể chuyển đổi: Seneca và Musonius bị đày ra đảo thì nghiên cứu nơi ở mới`"]
+  n24 --- n25
+  n26["`Kết quả: thích con người mình, cuộc đời mình, vũ trụ mình và vui vì được sống`"]
+  n18 --- n26
+  n27["`Nhà hiền triết vui mọi lúc; người thực hành chưa hoàn hảo vui gián đoạn nhưng hơn trước nhiều`"]
+  n26 --- n27
+  n28["`Trang PDF 163–164 — Epictetus: bắt đầu ngay hôm nay`"]
+  n0 --- n28
+  n29["`Ta không còn là trẻ con; trì hoãn mãi thì sẽ già mà chưa có triết lý sống`"]
+  n28 --- n29
+  n30["`Kỳ thi Olympic ở tương lai, còn cuộc thi của đời ta đã bắt đầu rồi`"]
+  n28 --- n30
+  n31["`Đánh giá của người tổng hợp`"]
+  n0 --- n31
+  n32["`Irvine đặt sự bình thản làm mục tiêu, đức hạnh làm phần thưởng, đảo thứ tự Khắc kỷ cổ điển`"]
+  n31 --- n32
+  n33["`Chiến lược ba phần tóm các kỹ thuật Chương 4, 5, 7 và 15 thành một trang`"]
+  n31 --- n33
+  n34["`Thông điệp xuyên suốt`"]
+  n0 --- n34
+  n35["`Không có ngày bắt đầu nào tốt hơn hôm nay; luyện tập đều đặn và kín đáo mới đem lại bình thản và niềm vui`"]
+  n34 --- n35
+  class n0 root
+  class n1,n7,n12,n18,n28,n31,n34 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n32,n33,n35 leaf
+```

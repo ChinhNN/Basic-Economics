@@ -629,3 +629,95 @@ Cuộc đua với "cái tôi khác" đòi ngủ nướng trong chiếc giường
 - **Đầu tư và tài chính:** lời khuyên "thử rồi bỏ cũng không thiệt" là cách thử một nguyên tắc tài chính mới: áp dụng nó với một phần nhỏ thu nhập trong vài tháng (ví dụ giữ chi tiêu cố định khi lương tăng, chuyển phần chênh vào tiết kiệm) rồi đánh giá. Quan sát "người ta đến trung tâm thương mại để khơi ham muốn" gợi một quy tắc chống mua sắm bốc đồng: chỉ đi mua khi đã có danh sách, và chờ một thời gian trước khi mua món không có trong danh sách. Trước biến động thị trường, nội tại hóa mục tiêu là đặt mục tiêu vào việc giữ đúng kế hoạch phân bổ, không vào con số lợi nhuận của năm.
 - **Quyết định trước rủi ro:** cách Irvine nhận đi biểu diễn banjo là một mẫu hình hữu ích: chủ động nhận những thử thách có thể thất bại trước người khác nhưng hậu quả nhỏ (thuyết trình nội bộ, thử một kỹ năng mới), để khi gặp thử thách lớn có sẵn điểm so sánh "mình đã qua được chuyện khó hơn".
 - **Đời sống cá nhân và chăm sóc người thân:** khi người thân ốm hay già yếu, đừng giảng triết lý; hãy đưa một cách nhìn dùng được ngay: chuyển mục tiêu sang điều họ còn làm được ("cố hết sức trong buổi tập vật lý trị liệu"), nhắc những gì họ đã lấy lại được, và tìm những niềm vui nhỏ có thể trao (viên đá thay cho ly nước). Đồng thời, như Irvine, coi lúc ấy là lời nhắc để chuẩn bị cho tuổi già của chính mình từ bây giờ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 22 trên một trang: sáu nhánh lớn theo trình tự của chương gốc (lời khuyên cho người mới bắt đầu, lời lăng mạ và cơn giận, tự nguyện chịu khổ và trò chơi với “cái tôi khác”, lối sống giản dị và mong được thử thách, tuổi già và người mẹ bị đột quỵ, kết quả và nghi ngại), mỗi nhánh ghi kỹ thuật thực hành, trải nghiệm cụ thể của Irvine và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 22: chủ nghĩa Khắc kỷ dễ thực hành hơn người ta tưởng, cho lợi ích thật, và thử nó thì mất ít mà có thể được nhiều`"]
+  n1["`Trang PDF 202–205 — Lời khuyên cho người mới bắt đầu`"]
+  n0 --- n1
+  n2["`Thực hành trầm lặng, giữ kín để khỏi bị bạn bè, đồng nghiệp chế giễu`"]
+  n1 --- n2
+  n3["`Học từng kỹ thuật một, bắt đầu bằng tưởng tượng tiêu cực`"]
+  n1 --- n3
+  n4["`Tưởng tượng tiêu cực như muối nêm: tốn rất ít công mà đời đậm đà hơn`"]
+  n3 --- n4
+  n5["`Phải làm cả khi đời đang thuận để không bám chấp; Irvine làm khi lái xe đi làm`"]
+  n3 --- n5
+  n6["`Tam phân quyền kiểm soát còn xoa dịu nỗi lo của người khác: “Anh làm được gì? Vậy lo làm gì?”`"]
+  n1 --- n6
+  n7["`Nội tại hóa mục tiêu (chơi tennis hết sức thay vì thắng) và thuyết vận mệnh với quá khứ, hiện tại`"]
+  n1 --- n7
+  n8["`Trang PDF 205–209 — Lời lăng mạ và cơn giận`"]
+  n0 --- n8
+  n9["`Irvine thành nhà sưu tập lời lăng mạ, mong bị lăng mạ để luyện cách đáp`"]
+  n8 --- n9
+  n10["`Bị dọa tả là “xấu xa hay ấu trĩ”, ông đáp: sao không tả tôi vừa xấu xa vừa ấu trĩ?`"]
+  n9 --- n10
+  n11["`Tự giễu cho thấy mình miễn nhiễm và từ chối ăn miếng trả miếng`"]
+  n9 --- n11
+  n12["`Cơn giận nằm im như virus, trỗi dậy bất ngờ cả khi đang tập yoga`"]
+  n8 --- n12
+  n13["`Seneca sai khi nói trút giận không sướng: nó như gãi chỗ muỗi đốt, đã rồi hối hận`"]
+  n8 --- n13
+  n14["`Phần lớn cơn giận vô ích: quát tài xế khi cửa kính đóng, họ không nghe; nay chỉ còn khoảng 1/10`"]
+  n8 --- n14
+  n15["`Kiểm soát bằng hiểu cơn giận và óc hài hước: coi đời là một vở kịch ngớ ngẩn`"]
+  n8 --- n15
+  n16["`Trang PDF 209–214 — Tự nguyện chịu khổ và trò chơi với “cái tôi khác”`"]
+  n0 --- n16
+  n17["`Mặc phong phanh mùa đông, không bật sưởi trong xe, tập yoga, chèo thuyền đua dù đã lật ba lần`"]
+  n16 --- n17
+  n18["`Sưu tập cảm giác hồi hộp: buổi biểu diễn đàn banjo như vắc xin chống lo âu, cần liều nhắc lại`"]
+  n16 --- n18
+  n19["`“Cái tôi khác” lười, hèn nhát, sống theo lập trình tiến hóa; Epictetus: kẻ thù đang rình rập`"]
+  n16 --- n19
+  n20["`Thắng nó để có kỷ luật bản thân, rèn tính cách và thấy vui khi ghi điểm`"]
+  n19 --- n20
+  n21["`Về chót cuộc đua thuyền vẫn có thể thắng cuộc đua với chính mình`"]
+  n19 --- n21
+  n22["`Trang PDF 214–218 — Lối sống giản dị và mong được thử thách`"]
+  n0 --- n22
+  n23["`Cato ăn mặc khác người để tập chỉ xấu hổ trước điều đáng xấu hổ`"]
+  n22 --- n23
+  n24["`Ham muốn tiêu dùng tự teo đi: một cà vạt, xe 9 tuổi thay xe 16 tuổi, không hiểu sao người ta muốn Rolex`"]
+  n22 --- n24
+  n25["`Người đi trung tâm thương mại để khơi ham muốn rồi dập bằng mua sắm, như heroin với người nghiện`"]
+  n22 --- n25
+  n26["`Tưởng mình mù một mắt sau phẫu thuật laser, Irvine tò mò xem mình có ứng phó đúng kiểu Khắc kỷ`"]
+  n22 --- n26
+  n27["`Trang PDF 218–222 — Tuổi già và người mẹ bị đột quỵ`"]
+  n0 --- n27
+  n28["`Người già Irvine gặp khuyên chung “Đừng có già đi!”; Seneca: tuổi già đầy niềm vui nếu biết dùng`"]
+  n27 --- n28
+  n29["`Mẹ 88 tuổi đột quỵ, liệt nửa trái; Irvine động viên bằng lời khuyên Khắc kỷ, không thuyết giảng`"]
+  n27 --- n29
+  n30["`Marcus: đời giống đấu vật hơn khiêu vũ; nội tại hóa: cố hết sức khi tập vật lý trị liệu`"]
+  n29 --- n30
+  n31["`Bà say mê viên đá ngậm hơn sâm banh hảo hạng, và Irvine học được niềm vui từ điều đơn giản`"]
+  n27 --- n31
+  n32["`Trang PDF 222–226 — Kết quả và nghi ngại`"]
+  n0 --- n32
+  n33["`Chưa bình thản hoàn hảo nhưng ít giận, gần như miễn nhiễm lăng mạ, ít lo về cái chết, ít bất mãn`"]
+  n32 --- n33
+  n34["`Nhạy hơn với niềm vui phi đối tượng: vui vì được tham dự vào cuộc sống`"]
+  n32 --- n34
+  n35["`Nghi ngại: có thể số đông đúng; Serenus của Seneca cũng “day dứt thầm lặng”`"]
+  n32 --- n35
+  n36["`Ngoài toán học không gì chắc chắn; sai lầm lớn nhất là không có triết lý sống nào`"]
+  n32 --- n36
+  n37["`Thông điệp xuyên suốt`"]
+  n0 --- n37
+  n38["`Không có chứng minh nên hành động theo xác suất: thử Khắc kỷ tốn ít, bỏ không thiệt, được có thể rất lớn khi về già`"]
+  n37 --- n38
+  class n0 root
+  class n1,n8,n16,n22,n27,n32,n37 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n23,n24,n25,n26,n28,n29,n30,n31,n33,n34,n35,n36,n38 leaf
+```

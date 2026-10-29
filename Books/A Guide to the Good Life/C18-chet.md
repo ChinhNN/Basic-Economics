@@ -370,3 +370,101 @@ Trong *Suy tưởng*, Marcus lập danh sách người đã chết trong gia đ�
 - **Quyết định cuối đời:** chương gợi ý suy nghĩ trước, khi còn khỏe, về cách mình muốn được chăm sóc cuối đời (chăm sóc giảm nhẹ, mức độ can thiệp y tế) và trao đổi rõ với gia đình. Đây là phần nằm trong tầm kiểm soát của một điều không ai tránh được.
 - **Công việc và lòng dũng cảm nghề nghiệp:** các nhà Khắc kỷ đứng lên chống cường quyền vì không sợ hậu quả. Ở mức đời thường, điều tương ứng là dám nói không với một chỉ đạo sai, dám báo cáo sai phạm, chấp nhận rủi ro mất việc. Câu hỏi của chương áp vào đây: có nguyên tắc nghề nghiệp nào mình sẵn sàng mất việc để giữ không? Nếu không có, có lẽ mình đang bán sự tự do của mình quá rẻ.
 - **Đầu tư:** "sống mỗi ngày như ngày cuối" không có nghĩa là tiêu hết hôm nay. Theo cách hiểu của Irvine, nó có nghĩa là sống đúng giá trị hôm nay và vẫn hy vọng có ngày mai; tức là vừa không trì hoãn những điều quan trọng (dành thời gian cho người thân, làm việc có ý nghĩa) vừa không bỏ kế hoạch dài hạn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 18 trên một trang: năm nhánh lớn theo trình tự của chương gốc (vì sao sợ chết và vai trò của triết lý sống, câu chuyện Julius Canus và người không có triết lý, lời phản bác rằng các nhà Khắc kỷ ám ảnh cái chết, bốn điểm trả lời của Irvine, lòng dũng cảm chống cường quyền), mỗi nhánh ghi lập luận, nhân vật và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 18: có một triết lý sống rành mạch giúp chết thanh thản; các nhà Khắc kỷ nghĩ về cái chết để sống trọn vẹn`"]
+  n1["`Trang PDF 155 — Vì sao người ta sợ chết`"]
+  n0 --- n1
+  n2["`Musonius: điều làm tuổi già bất hạnh là viễn cảnh cái chết, không phải bệnh tật`"]
+  n1 --- n2
+  n3["`Nguồn sợ thứ nhất: sợ những điều có thể đến sau cái chết`"]
+  n1 --- n3
+  n4["`Nguồn sợ thứ hai: sợ mình đã sống sai mà cái chết chấm dứt cơ hội sửa`"]
+  n1 --- n4
+  n5["`Người có triết lý sống biết điều gì đáng đạt và đã cố đạt, nên không thấy mình bị lừa`"]
+  n1 --- n5
+  n6["`Musonius: người ấy “tự do khỏi nỗi sợ cái chết”`"]
+  n5 --- n6
+  n7["`Trang PDF 155–156 — Julius Canus và người không có triết lý sống`"]
+  n0 --- n7
+  n8["`Bị Caligula kết án tử, Canus cảm ơn hoàng đế`"]
+  n7 --- n8
+  n9["`Đao phủ tới, Canus đang chơi cờ và nhờ đao phủ làm chứng ông đang hơn một quân`"]
+  n7 --- n9
+  n10["`Trên đường ra pháp trường, ông định quan sát xem linh hồn có biết mình rời thân xác không`"]
+  n7 --- n10
+  n11["`Seneca khen đó là “sự điềm nhiên giữa cơn bão”`"]
+  n10 --- n11
+  n12["`Người không có triết lý điên cuồng trì hoãn cái chết vì hai lý do`"]
+  n7 --- n12
+  n13["`Muốn kịp đạt điều mình phát hiện quá muộn là có giá trị`"]
+  n12 --- n13
+  n14["`Triết lý tự đặt của họ coi tích lũy thêm mọi thứ là đáng giá nhất`"]
+  n12 --- n14
+  n15["`Trang PDF 156–157 — Phản bác: các nhà Khắc kỷ ám ảnh cái chết và hay chết không tự nhiên`"]
+  n0 --- n15
+  n16["`Họ khuyên suy ngẫm về cái chết, sống mỗi ngày như ngày cuối, tập không sợ chết`"]
+  n15 --- n16
+  n17["`Zeno, Cleanthes và Cato tự sát; Marcus Aurelius tuyệt thực khi cái chết đã gần`"]
+  n15 --- n17
+  n18["`Musonius khuyên người già “hãy chọn cách chết nhẹ nhàng khi còn có thể”`"]
+  n15 --- n18
+  n19["`Seneca, Thrasea Paetus, Barea Soranus hành xử để bị kết án tử dù có thể tránh`"]
+  n15 --- n19
+  n20["`Kết luận có thể rút ra: ai yêu cuộc sống thì nên tránh xa chủ nghĩa Khắc kỷ`"]
+  n15 --- n20
+  n21["`Trang PDF 157–158 — Bốn điểm trả lời của Irvine`"]
+  n0 --- n21
+  n22["`Một: không rõ tỷ lệ chết không tự nhiên của họ có cao bất thường so với thời đó`"]
+  n21 --- n22
+  n23["`Hai: nhiều trường hợp có lý do chính đáng`"]
+  n21 --- n23
+  n24["`Zeno, Cleanthes đã già, có thể mắc bệnh nan y, chỉ làm cái chết sắp đến tới nhanh hơn`"]
+  n23 --- n24
+  n25["`Cato tự sát để việc mình còn sống không đem lợi chính trị cho Julius Caesar`"]
+  n23 --- n25
+  n26["`Không nhà Khắc kỷ nào tự sát đột ngột vì chán đời như người theo chủ nghĩa hư vô`"]
+  n23 --- n26
+  n27["`Ba: suy ngẫm về cái chết là để sống, không phải để chết`"]
+  n21 --- n27
+  n28["`Sống mỗi ngày như ngày cuối là để sống đúng giá trị ngày đó, vẫn hy vọng ngày mai`"]
+  n27 --- n28
+  n29["`Dạy không sợ chết là dạy tránh một cảm xúc tiêu cực vô ích, vì ai rồi cũng chết`"]
+  n27 --- n29
+  n30["`Bốn: tự sát chỉ chấp nhận được trong một số trường hợp`"]
+  n21 --- n30
+  n31["`Musonius: chọn chết là sai khi đời mình còn mang lại lợi ích cho nhiều người`"]
+  n30 --- n31
+  n32["`Với người già sắp chết, câu hỏi chỉ còn là chết êm đẹp hay chết vô nghĩa, đau đớn`"]
+  n30 --- n32
+  n33["`Trang PDF 158–159 — Không sợ chết nên dám đứng lên chống cường quyền`"]
+  n0 --- n33
+  n34["`Họ tin mình có trách nhiệm với cộng đồng và không sợ chết hay lưu đày`"]
+  n33 --- n34
+  n35["`Người hiện đại thấy khó hiểu vì với họ không có gì đáng đánh đổi mạng sống`"]
+  n33 --- n35
+  n36["`Câu hỏi ngược lại: đời không có gì đáng xả thân thì có còn đáng sống không?`"]
+  n33 --- n36
+  n37["`Đánh giá của người tổng hợp`"]
+  n0 --- n37
+  n38["`Lập luận của Musonius về người già “ít còn có ích” có thể gây áp lực khiến họ thấy mình là gánh nặng`"]
+  n37 --- n38
+  n39["`Irvine bỏ các lập luận Khắc kỷ về bản chất cái chết, nên nguồn sợ thứ nhất chưa được giải đáp`"]
+  n37 --- n39
+  n40["`Thông điệp xuyên suốt`"]
+  n0 --- n40
+  n41["`Sống đúng giá trị của mình mỗi ngày là cách chuẩn bị tốt nhất cho một cái chết không hối tiếc`"]
+  n40 --- n41
+  class n0 root
+  class n1,n7,n15,n21,n33,n37,n40 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n38,n39,n41 leaf
+```

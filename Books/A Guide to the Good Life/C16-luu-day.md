@@ -484,3 +484,109 @@ Marcus Aurelius không bị đày, nhưng ông viết cùng ý ấy cho chính m
 - Musonius Rufus, bài giảng 9 "Lưu đày không phải là điều xấu", bản Hy Lạp và bản dịch tiếng Bồ Đào Nha trong [tạp chí *Principia*, số 49 (2026)](https://www.e-publicacoes.uerj.br/principia/article/download/96912/57989/381784); số trang theo bản dịch tiếng Anh của Cora E. Lutz, *Musonius Rufus: The Roman Socrates* (Yale Classical Studies 10, 1947).
 - Seneca, *Of Consolation: To Helvia*, bản dịch Aubrey Stewart (1900), [Wikisource](https://en.wikisource.org/wiki/Of_Consolation:_To_Helvia).
 - Diogenes Laertius, *Lives of Eminent Philosophers* 6.49 (giai thoại "kết án họ ở nhà") và 6.20–21 (lý do Diogenes bị đuổi khỏi Sinope).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 16 trên một trang: năm nhánh lớn theo các phần của file (bối cảnh lưu đày, bài giảng 9 của Musonius chia hai nửa theo trang Lutz, Diogenes và thư An ủi Helvia của Seneca, bài học cho người hiện đại), mỗi nhánh ghi lập luận, nhân vật và câu trích then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 16: lưu đày chỉ là đổi chỗ ở; hạnh phúc do giá trị và đức hạnh quyết định, không do nơi ở`"]
+  n1["`Mục 1 — Ba trong bốn nhà Khắc kỷ La Mã từng bị đày`"]
+  n0 --- n1
+  n2["`Seneca bị Claudius đày ra đảo Corsica năm 41, ở đó tám năm`"]
+  n1 --- n2
+  n3["`Từ Corsica ông viết thư An ủi Helvia gửi mẹ đang đau buồn`"]
+  n2 --- n3
+  n4["`Musonius bị Nero đày ra đảo Gyara năm 65, hoang vắng, gần như không có nước`"]
+  n1 --- n4
+  n5["`Epictetus bị Domitian trục xuất khỏi Rome (khoảng năm 93), lập trường ở Nicopolis`"]
+  n1 --- n5
+  n6["`Lời khuyên của họ đáng tin vì viết về điều chính mình đang chịu`"]
+  n1 --- n6
+  n7["`Bài giảng 9 của Musonius, Lutz 68–70 — lưu đày không lấy đi điều cần thiết`"]
+  n0 --- n7
+  n8["`Không mất nước, đất, không khí, mặt trời, các vì sao, người để trò chuyện`"]
+  n7 --- n8
+  n9["`Bạn thật không bỏ ta khi bị đày; bạn giả mất đi càng tốt`"]
+  n8 --- n9
+  n10["`Vũ trụ là quê hương chung (Socrates); rời nơi sinh chỉ là mất một thành phố`"]
+  n7 --- n10
+  n11["`Người khôn ngoan là công dân của “thành phố của Zeus” gồm người và thần`"]
+  n10 --- n11
+  n12["`Euripides: cả mặt đất là quê hương cho người cao quý`"]
+  n10 --- n12
+  n13["`Than vì sống ở thành phố khác cũng ngớ ngẩn như than vì đổi sang nhà khác`"]
+  n10 --- n13
+  n14["`Lưu đày không cản tu dưỡng đức hạnh, còn cho thêm thời gian rảnh`"]
+  n7 --- n14
+  n15["`Thoát việc công và những bạn bè, họ hàng kéo ta khỏi điều tốt`"]
+  n14 --- n15
+  n16["`Diogenes nhờ bị đày mà từ người thiếu học thành triết gia`"]
+  n14 --- n16
+  n17["`Spartiaticus và người bị gút khỏi bệnh khi bị buộc bỏ xa hoa`"]
+  n14 --- n17
+  n18["`Bài giảng 9 của Musonius, Lutz 70–76 — không thiếu, không nhục, không mất tự do`"]
+  n0 --- n18
+  n19["`Người bị đày thấy thiếu thốn là vì muốn sống xa hoa`"]
+  n18 --- n19
+  n20["`Euripides: người chỉ cần bánh mì của Demeter và nước sông`"]
+  n19 --- n20
+  n21["`Odysseus, Themistocles, Dion xứ Syracuse còn giàu lên nơi lưu lạc`"]
+  n19 --- n21
+  n22["`Lưu đày không phải nỗi nhục: Athens đuổi oan Aristides “người công chính”`"]
+  n18 --- n22
+  n23["`Diogenes và Clearchus còn nổi danh nhờ bị đày`"]
+  n22 --- n23
+  n24["`Cái làm người ta im lặng là nỗi sợ đau, sợ chết, không phải nơi chốn`"]
+  n18 --- n24
+  n25["`Đáp Polynices của Euripides, người than mất quyền nói thẳng`"]
+  n24 --- n25
+  n26["`Diogenes bị bán làm nô lệ ở Corinth vẫn ra lệnh cho người mua Xeniades`"]
+  n24 --- n26
+  n27["`Musonius: “Ai lấy quê hương của ta thì không lấy được khả năng chịu đựng lưu đày”`"]
+  n24 --- n27
+  n28["`Lưu đày không ngăn ai can đảm, công bằng, tiết độ, khôn ngoan`"]
+  n18 --- n28
+  n29["`“Nếu anh xấu, cái xấu sẽ hại anh chứ không phải lưu đày”`"]
+  n28 --- n29
+  n30["`Bị đày oan thì cái xấu thuộc về kẻ kết án, không phải người bị kết án`"]
+  n28 --- n30
+  n31["`Mục 9–10 — Diogenes và thư An ủi Helvia của Seneca`"]
+  n0 --- n31
+  n32["`Diogenes: “Người Sinope kết án ông đi đày” – “Còn ta kết án họ ở lại nhà”`"]
+  n31 --- n32
+  n33["`Ta không chọn sự kiện nhưng chọn cách hiểu nó (lưỡng phân quyền kiểm soát, Chương 5)`"]
+  n32 --- n33
+  n34["`Seneca §6–§7: tâm trí vốn hay dịch chuyển, cả dân tộc từng di cư`"]
+  n31 --- n34
+  n35["`Seneca §8: đi đâu ta cũng mang theo tự nhiên chung của vũ trụ và đức hạnh của mình`"]
+  n31 --- n35
+  n36["`Seneca §10–§11: thân thể cần chỗ trú, cái ăn, cái uống; ham muốn vượt quá là thói xấu`"]
+  n31 --- n36
+  n37["`Sự giàu có thuộc về tâm trí, và không ai đặt tay lên tâm trí được`"]
+  n36 --- n37
+  n38["`Seneca §13: không ai bị người khác khinh nếu trước đó không tự khinh mình`"]
+  n31 --- n38
+  n39["`Mục 11 và đánh giá — bài học cho những lần bị buộc đổi chỗ ở`"]
+  n0 --- n39
+  n40["`Hiện đại: chuyển công tác, mất việc, di cư, vào viện dưỡng lão (Chương 17)`"]
+  n39 --- n40
+  n41["`Nơi chốn, vị thế ngoài quyền kiểm soát; giá trị và tính cách luôn mang theo`"]
+  n39 --- n41
+  n42["`Chỗ yếu: thiên lệch người sống sót, không bàn tới việc bị chia cắt khỏi gia đình`"]
+  n39 --- n42
+  n43["`Chính Seneca viết thư An ủi Polybius tâng bốc Claudius để xin được về Rome`"]
+  n39 --- n43
+  n44["`Thông điệp xuyên suốt`"]
+  n0 --- n44
+  n45["`Ai đặt hạnh phúc vào giá trị của mình thay vì nơi ở sẽ chịu được việc đổi chỗ, có khi còn khá lên`"]
+  n44 --- n45
+  class n0 root
+  class n1,n7,n18,n31,n39,n44 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n45 leaf
+```
