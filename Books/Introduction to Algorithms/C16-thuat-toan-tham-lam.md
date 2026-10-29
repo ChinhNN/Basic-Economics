@@ -1405,83 +1405,107 @@ flowchart LR
   n10 --- n11
   n12["`Tham lam chọn trước rồi giải một bài toán con từ trên xuống, quy hoạch động giải bài toán con trước rồi mới chọn`"]
   n10 --- n12
-  n13["`Ba lô 50 pound, ba món 10/$60, 20/$100, 30/$120`"]
+  n13["`Tính chất lựa chọn tham lam: lựa chọn chỉ phụ thuộc các lựa chọn đã làm, không phụ thuộc lời giải bài toán con`"]
   n10 --- n13
-  n14["`Ba lô 0-1: tham lam theo giá trên pound được $160 hoặc $180, tối ưu là $220, cần quy hoạch động O(nW)`"]
-  n13 --- n14
-  n15["`Ba lô phân số: tham lam đúng, được $240, chạy O(n lg n) hoặc O(n) nhờ chọn trung vị`"]
-  n13 --- n15
-  n16["`Mục 16.3 — Mã Huffman`"]
-  n0 --- n16
-  n17["`Mã tiền tố ứng với cây nhị phân đầy đủ, chi phí B(T) = Σ c.freq · d#95;T(c)`"]
-  n16 --- n17
-  n18["`Tệp 100.000 ký tự a–f: mã cố định 300.000 bit, mã Huffman 224.000 bit, tiết kiệm khoảng 25%`"]
-  n16 --- n18
-  n19["`HUFFMAN gộp n − 1 lần hai nút tần suất thấp nhất bằng hàng đợi ưu tiên nhỏ nhất`"]
-  n16 --- n19
-  n20["`O(n lg n) với đống nhị phân, O(n lg lg n) với cây van Emde Boas`"]
-  n19 --- n20
-  n21["`Ví dụ: gộp tạo nút 14, 25, 30, 55, 100, từ mã a = 0, f = 1100`"]
-  n19 --- n21
-  n22["`Tính đúng`"]
-  n16 --- n22
-  n23["`Bổ đề 16.2: hai ký tự hiếm nhất là anh em ở tầng sâu nhất của một cây tối ưu`"]
-  n22 --- n23
-  n24["`Bổ đề 16.3: B(T) = B(T′) + x.freq + y.freq nên gộp hai ký tự đó giữ cấu trúc con tối ưu`"]
-  n22 --- n24
-  n25["`Định lý 16.4: HUFFMAN tạo ra một mã tiền tố tối ưu`"]
-  n22 --- n25
-  n26["`Mục ★16.4 — Matroid`"]
-  n0 --- n26
-  n27["`Matroid M = (S, 𝓘) có tính di truyền và tính chất trao đổi, tên do Whitney đặt`"]
-  n26 --- n27
-  n28["`Matroid đồ thị: tập cạnh độc lập khi là rừng (Định lý 16.5), rừng F có |V#95;F| − |E#95;F| cây`"]
-  n26 --- n28
-  n29["`Định lý 16.6: mọi tập độc lập cực đại có cùng kích thước`"]
-  n26 --- n29
-  n30["`GREEDY xét phần tử theo trọng số giảm dần, thêm nếu tập vẫn độc lập`"]
-  n26 --- n30
-  n31["`Bổ đề 16.7 lựa chọn tham lam, Hệ quả 16.9 phần tử không dùng được ngay thì không bao giờ dùng được`"]
-  n30 --- n31
-  n32["`Định lý 16.11: GREEDY trả về tập độc lập trọng số lớn nhất, chạy O(n lg n + n f(n))`"]
-  n30 --- n32
-  n33["`Cây khung nhỏ nhất là trường hợp riêng với w′(e) = w₀ − w(e), chính là Kruskal`"]
-  n30 --- n33
-  n34["`Mục ★16.5 — Lập lịch công việc đơn vị thời gian có hạn chót và tiền phạt`"]
-  n0 --- n34
-  n35["`Đưa lịch về dạng chính tắc: việc đúng hạn theo hạn chót tăng dần, rồi mới tới việc trễ`"]
-  n34 --- n35
-  n36["`Bổ đề 16.12: A độc lập khi và chỉ khi N#95;t(A) ≤ t với mọi t`"]
-  n34 --- n36
-  n37["`Định lý 16.13: hệ này là matroid nên GREEDY cho lịch tổng phạt nhỏ nhất trong O(n²)`"]
-  n34 --- n37
-  n38["`Ví dụ 7 công việc: lịch ⟨a₂, a₄, a₁, a₃, a₇, a₅, a₆⟩, tổng phạt w₅ + w₆ = 50`"]
-  n34 --- n38
-  n39["`Bài toán và ghi chú cuối chương`"]
-  n0 --- n39
-  n40["`16-1 Đổi tiền: tham lam đúng với 25, 10, 5, 1 xu, sai với {1, 10, 25} khi n = 30, quy hoạch động O(nk)`"]
-  n39 --- n40
-  n41["`16-2 Việc ngắn nhất trước tối thiểu thời điểm hoàn thành trung bình, có ngắt thì thời gian còn lại ngắn nhất trước`"]
-  n39 --- n41
-  n42["`16-4 Biến thể lập lịch dùng rừng tập rời nhau, O(n α(n))`"]
-  n39 --- n42
-  n43["`16-5 Bộ nhớ đệm ngoại tuyến: đuổi phần tử được yêu cầu xa nhất trong tương lai là tối ưu`"]
-  n39 --- n43
-  n44["`Mã Huffman ra đời năm 1952, Korte–Lovász mở rộng matroid thành greedoid`"]
-  n39 --- n44
-  n45["`Thông điệp xuyên suốt`"]
-  n0 --- n45
-  n46["`Chứng minh tham lam bằng lập luận trao đổi, không chứng minh được thì tìm phản ví dụ nhỏ`"]
+  n14["`Cấu trúc con tối ưu: chỉ cần chứng minh lựa chọn tham lam cộng lời giải tối ưu của bài toán con là tối ưu`"]
+  n10 --- n14
+  n15["`Ba lô 50 pound, ba món 10/$60, 20/$100, 30/$120`"]
+  n10 --- n15
+  n16["`Ba lô 0-1: tham lam theo giá trên pound được $160 hoặc $180, tối ưu là $220, cần quy hoạch động O(nW)`"]
+  n15 --- n16
+  n17["`Tham lam 0-1 sai vì chỗ trống bỏ phí kéo giá trị trên pound xuống, phải so sánh có món và không có món`"]
+  n15 --- n17
+  n18["`Ba lô phân số: lấy cả món 1, cả món 2 và 2/3 món 3, được $60 + $100 + $80 = $240`"]
+  n15 --- n18
+  n19["`Ba lô phân số giải tham lam O(n lg n), hoặc O(n) nhờ chọn trung vị`"]
+  n15 --- n19
+  n20["`Mục 16.3 — Mã Huffman`"]
+  n0 --- n20
+  n21["`Mã tiền tố giải mã không mập mờ: 001011101 tách thành 0·0·101·1101, tức aabe`"]
+  n20 --- n21
+  n22["`Mã tối ưu ứng với cây nhị phân đầy đủ có |C| lá, |C| − 1 nút trong, chi phí B(T) = Σ c.freq · d#95;T(c)`"]
+  n20 --- n22
+  n23["`Tệp 100.000 ký tự a–f: mã cố định 300.000 bit, mã Huffman 224.000 bit, tiết kiệm khoảng 25%`"]
+  n20 --- n23
+  n24["`Cây mã cố định 3 bit không đầy đủ nên không tối ưu`"]
+  n23 --- n24
+  n25["`HUFFMAN gộp n − 1 lần hai nút tần suất thấp nhất bằng hàng đợi ưu tiên nhỏ nhất`"]
+  n20 --- n25
+  n26["`O(n lg n) với đống nhị phân, O(n lg lg n) với cây van Emde Boas`"]
+  n25 --- n26
+  n27["`Ví dụ: gộp tạo nút 14, 25, 30, 55, 100, từ mã a = 0, f = 1100, tổng nút trong 224 bằng B(T)`"]
+  n25 --- n27
+  n28["`Tính đúng`"]
+  n20 --- n28
+  n29["`Bổ đề 16.2: hai ký tự hiếm nhất là anh em ở tầng sâu nhất của một cây tối ưu`"]
+  n28 --- n29
+  n30["`Bổ đề 16.3: B(T) = B(T′) + x.freq + y.freq nên gộp hai ký tự đó giữ cấu trúc con tối ưu`"]
+  n28 --- n30
+  n31["`Định lý 16.4: HUFFMAN tạo ra một mã tiền tố tối ưu`"]
+  n28 --- n31
+  n32["`Mục ★16.4 — Matroid`"]
+  n0 --- n32
+  n33["`Matroid M = (S, 𝓘) có tính di truyền và tính chất trao đổi, tên do Whitney đặt`"]
+  n32 --- n33
+  n34["`Matroid đồ thị: tập cạnh độc lập khi là rừng (Định lý 16.5), rừng F có |V#95;F| − |E#95;F| cây`"]
+  n32 --- n34
+  n35["`Định lý 16.6: mọi tập độc lập cực đại có cùng kích thước`"]
+  n32 --- n35
+  n36["`GREEDY xét phần tử theo trọng số giảm dần, thêm nếu tập vẫn độc lập`"]
+  n32 --- n36
+  n37["`Bổ đề 16.7: phần tử nặng nhất có {x} độc lập nằm trong một tập con tối ưu`"]
+  n36 --- n37
+  n38["`Hệ quả 16.9: phần tử không dùng được ngay thì không bao giờ dùng được`"]
+  n36 --- n38
+  n39["`Bổ đề 16.10: sau khi chọn x, bài toán còn lại là tìm tập tối ưu của phép co M′ theo x`"]
+  n36 --- n39
+  n40["`Định lý 16.11: GREEDY trả về tập độc lập trọng số lớn nhất, chạy O(n lg n + n f(n))`"]
+  n36 --- n40
+  n41["`Cây khung nhỏ nhất là trường hợp riêng với w′(e) = w₀ − w(e), chính là Kruskal`"]
+  n32 --- n41
+  n42["`Mục ★16.5 — Lập lịch công việc đơn vị thời gian có hạn chót và tiền phạt`"]
+  n0 --- n42
+  n43["`Đưa lịch về dạng chính tắc: việc đúng hạn theo hạn chót tăng dần, rồi mới tới việc trễ`"]
+  n42 --- n43
+  n44["`Bổ đề 16.12: A độc lập khi và chỉ khi N#95;t(A) ≤ t với mọi t`"]
+  n42 --- n44
+  n45["`Định lý 16.13: hệ này là matroid nên GREEDY cho lịch tổng phạt nhỏ nhất trong O(n²)`"]
+  n42 --- n45
+  n46["`Tối thiểu tổng phạt việc trễ tương đương tối đa tổng phạt việc đúng hạn`"]
   n45 --- n46
-  n47["`Chọn đúng khoá sắp xếp là toàn bộ công việc, một thay đổi nhỏ trong đề có thể phá vỡ tham lam`"]
-  n45 --- n47
-  n48["`Matroid không phủ được chọn hoạt động và Huffman, hai ví dụ chính của chương`"]
-  n45 --- n48
-  n49["`Bên dưới hầu như mọi thuật toán tham lam đều có một lời giải quy hoạch động cồng kềnh hơn`"]
-  n45 --- n49
+  n47["`Ví dụ 7 công việc: lịch ⟨a₂, a₄, a₁, a₃, a₇, a₅, a₆⟩, tổng phạt w₅ + w₆ = 50`"]
+  n42 --- n47
+  n48["`GREEDY nhận a₁ tới a₄, loại a₅ và a₆ vì N₄ thành 5 #gt; 4, rồi nhận a₇`"]
+  n47 --- n48
+  n49["`Bài toán và ghi chú cuối chương`"]
+  n0 --- n49
+  n50["`16-1 Đổi tiền: tham lam đúng với 25, 10, 5, 1 xu, sai với {1, 10, 25} khi n = 30, quy hoạch động O(nk)`"]
+  n49 --- n50
+  n51["`16-2 Việc ngắn nhất trước tối thiểu thời điểm hoàn thành trung bình, có ngắt thì thời gian còn lại ngắn nhất trước`"]
+  n49 --- n51
+  n52["`16-3 Với đồ thị có hướng, tập cạnh không có chu trình có hướng không tạo matroid vì vi phạm tính chất trao đổi`"]
+  n49 --- n52
+  n53["`16-4 Đặt việc vào ô trống muộn nhất không quá hạn chót, dùng rừng tập rời nhau được O(n α(n))`"]
+  n49 --- n53
+  n54["`16-5 Bộ nhớ đệm ngoại tuyến: đuổi phần tử được yêu cầu xa nhất trong tương lai là tối ưu`"]
+  n49 --- n54
+  n55["`Tham lam trên matroid xuất hiện ở bài báo Edmonds 1971, lý thuyết matroid có từ Whitney 1935`"]
+  n49 --- n55
+  n56["`Mã Huffman ra đời năm 1952, Korte–Lovász mở rộng matroid thành greedoid`"]
+  n49 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Chứng minh tham lam bằng lập luận trao đổi, không chứng minh được thì tìm phản ví dụ nhỏ`"]
+  n57 --- n58
+  n59["`Chọn đúng khoá sắp xếp là toàn bộ công việc, một thay đổi nhỏ trong đề có thể phá vỡ tham lam`"]
+  n57 --- n59
+  n60["`Matroid không phủ được chọn hoạt động và Huffman, hai ví dụ chính của chương`"]
+  n57 --- n60
+  n61["`Bên dưới hầu như mọi thuật toán tham lam đều có một lời giải quy hoạch động cồng kềnh hơn`"]
+  n57 --- n61
   class n0 root
-  class n1,n10,n16,n26,n34,n39,n45 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n40,n41,n42,n43,n44,n46,n47,n48,n49 leaf
+  class n1,n10,n20,n32,n42,n49,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61 leaf
 ```
 
 ## Nguồn
