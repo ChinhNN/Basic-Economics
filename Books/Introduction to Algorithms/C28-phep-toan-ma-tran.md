@@ -1613,7 +1613,7 @@ Với ma trận thưa lớn (hàng triệu ẩn), người ta dùng phân rã th
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 28 trên một trang: năm nhánh lớn theo phần mở đầu, ba mục 28.1–28.3 và các bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, định lý, thủ tục kèm thời gian chạy và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 28 trên một trang: sáu nhánh lớn theo phần mở đầu, ba mục 28.1–28.3, các bài toán cuối chương và ghi chú chương của bản gốc, mỗi nhánh ghi định nghĩa, định lý, thủ tục kèm thời gian chạy và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1622,7 +1622,7 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 28: giải Ax = b bằng phân rã PA = LU một lần trong Θ(n³) rồi hai phép thế Θ(n²), nghịch đảo khó ngang nhân`"]
-  n1["`Phần mở đầu chương — Phạm vi và ổn định số học`"]
+  n1["`Phần mở đầu chương (trang 813) — Phạm vi và ổn định số học`"]
   n0 --- n1
   n2["`Phép toán ma trận là trái tim của tính toán khoa học, chương tập trung vào nhân ma trận và giải hệ tuyến tính`"]
   n1 --- n2
@@ -1632,93 +1632,125 @@ flowchart LR
   n1 --- n4
   n5["`Mục 28.1 — Giải hệ phương trình tuyến tính bằng phân rã LUP`"]
   n0 --- n5
-  n6["`A không suy biến thì hệ có nghiệm duy nhất x = A⁻¹b, nhưng không nên tính A⁻¹ rồi nhân vì kém ổn định`"]
+  n6["`A không suy biến thì nghiệm duy nhất x = A⁻¹b, nhưng tính A⁻¹ rồi nhân thì kém ổn định số học`"]
   n5 --- n6
   n7["`Hệ thiếu phương trình thường vô số nghiệm, hệ thừa phương trình có thể vô nghiệm`"]
   n5 --- n7
-  n8["`Phân rã LUP: PA = LU với L tam giác dưới đơn vị, U tam giác trên, P hoán vị lưu gọn bằng mảng π`"]
+  n8["`Phân rã LUP (28.4): PA = LU, L tam giác dưới đơn vị, U tam giác trên, P hoán vị lưu bằng mảng π`"]
   n5 --- n8
-  n9["`LUP-SOLVE: giải Ly = Pb bằng phép thế tiến, rồi Ux = y bằng phép thế lùi, Θ(n²)`"]
+  n9["`LUP-SOLVE: giải Ly = Pb bằng phép thế tiến, rồi Ux = y bằng phép thế lùi, tổng Θ(n²)`"]
   n5 --- n9
-  n10["`Ví dụ A = (1 2 0, 3 4 4, 5 6 3), b = (3, 7, 8) cho x = (−1,4, 2,2, 0,6)`"]
+  n10["`Thế tiến tính y₁ tới yₙ, thế lùi tính xₙ về x₁ theo xᵢ = (yᵢ − Σ uᵢⱼxⱼ) / uᵢᵢ`"]
   n9 --- n10
-  n11["`LU-DECOMPOSITION là khử Gauss viết đệ quy qua phần bù Schur A′ − vwᵀ/a₁₁, chạy Θ(n³)`"]
-  n5 --- n11
-  n12["`Các số đem chia là phần tử trụ, nằm trên đường chéo của U, trụ bằng 0 thì phương pháp hỏng`"]
-  n11 --- n12
-  n13["`Ví dụ ma trận 4 × 4 có các trụ lần lượt 2, 4, 1, 3`"]
-  n11 --- n13
-  n14["`LUP-DECOMPOSITION chọn phần tử có trị tuyệt đối lớn nhất trong cột làm trụ và đổi cả hàng`"]
-  n5 --- n14
-  n15["`Tính L và U ngay trong A, báo ma trận suy biến nếu cả cột bằng 0, vẫn Θ(n³)`"]
-  n14 --- n15
-  n16["`Ví dụ ma trận 4 × 4 có các trụ 5, −2, 4, −3 và π cuối cùng = (3, 1, 4, 2)`"]
-  n14 --- n16
-  n17["`Mục 28.2 — Nghịch đảo ma trận`"]
-  n0 --- n17
-  n18["`Phân rã LUP chỉ phụ thuộc A nên giải k vế phải khác nhau tốn Θ(kn²)`"]
+  n11["`Ví dụ A = (1 2 0#59; 3 4 4#59; 5 6 3), b = (3, 7, 8), π = (3, 1, 2) cho x = (−1,4#59; 2,2#59; 0,6)`"]
+  n9 --- n11
+  n12["`LU-DECOMPOSITION: khử Gauss viết đệ quy (28.8), mỗi bước tách ra phần bù Schur A′ − vwᵀ/a₁₁ (28.9)`"]
+  n5 --- n12
+  n13["`A không suy biến thì phần bù Schur không suy biến (lập luận về hạng), nên đệ quy luôn đi tiếp`"]
+  n12 --- n13
+  n14["`Số đem chia là phần tử trụ, nằm trên đường chéo của U, trụ bằng 0 thì phương pháp hỏng`"]
+  n12 --- n14
+  n15["`Đệ quy đuôi đổi thành ba vòng lặp lồng nhau, chạy Θ(n³), dòng trong cùng chạy khoảng n³/3 lần`"]
+  n12 --- n15
+  n16["`Ví dụ A = (2 3 1 5#59; 6 13 5 19#59; 2 19 10 23#59; 4 10 11 31) có các trụ 2, 4, 1, 3`"]
+  n12 --- n16
+  n17["`LUP-DECOMPOSITION chọn phần tử trị tuyệt đối lớn nhất trong cột làm trụ, đổi cả hàng kể cả phần đã thuộc L`"]
+  n5 --- n17
+  n18["`Tính L, U ngay trong A, báo ma trận suy biến nếu cả cột bằng 0, vẫn Θ(n³): chọn trụ chỉ tốn hằng số lần`"]
   n17 --- n18
-  n19["`Tính A⁻¹ bằng n lần LUP-SOLVE cho các hệ AXᵢ = eᵢ, tổng Θ(n³)`"]
+  n19["`Ví dụ 4 × 4 có các trụ 5, −2, 4, −3 và π cuối cùng = (3, 1, 4, 2)`"]
   n17 --- n19
-  n20["`Định lý 28.1: nhân không khó hơn nghịch đảo, AB là khối trên phải của nghịch đảo ma trận D cỡ 3n × 3n`"]
-  n17 --- n20
-  n21["`Định lý 28.2: nghịch đảo không khó hơn nhân`"]
-  n17 --- n21
-  n22["`Với ma trận đối xứng xác định dương: chia bốn khối, dùng phần bù Schur S = D − CB⁻¹Cᵀ`"]
-  n21 --- n22
-  n23["`Hai nghịch đảo đệ quy cỡ n/2 và bốn phép nhân cho I(n) ≤ 2I(n/2) + 4M(n/2) + O(n²) = O(M(n))`"]
-  n21 --- n23
-  n24["`Với A bất kỳ không suy biến: A⁻¹ = (AᵀA)⁻¹Aᵀ vì AᵀA đối xứng xác định dương`"]
-  n21 --- n24
-  n25["`Hệ quả: dùng Strassen thì nghịch đảo được trong O(n^lg 7)`"]
-  n17 --- n25
-  n26["`Giải (AᵀA)x = Aᵀb tránh được chọn trụ về lý thuyết, nhưng LUP-DECOMPOSITION thực tế nhanh và ổn định hơn`"]
-  n17 --- n26
-  n27["`Mục 28.3 — Ma trận đối xứng xác định dương và bình phương tối thiểu`"]
-  n0 --- n27
-  n28["`A xác định dương khi xᵀAx dương với mọi x khác 0`"]
-  n27 --- n28
-  n29["`Bổ đề 28.3: ma trận xác định dương thì không suy biến`"]
-  n27 --- n29
-  n30["`Bổ đề 28.4: mọi ma trận con chính đầu của ma trận đối xứng xác định dương cũng đối xứng xác định dương`"]
-  n27 --- n30
-  n31["`Bổ đề 28.5: phần bù Schur cũng đối xứng xác định dương, chứng minh bằng hoàn thành bình phương`"]
-  n27 --- n31
-  n32["`Hệ quả 28.6: phân rã LU của ma trận đối xứng xác định dương không bao giờ chia cho 0, mọi trụ đều dương`"]
-  n27 --- n32
-  n33["`Xấp xỉ bình phương tối thiểu`"]
-  n27 --- n33
-  n34["`Khớp m điểm có sai số đo bằng tổ hợp n hàm cơ sở, n nhỏ hơn m để không khớp cả nhiễu`"]
+  n20["`Mục 28.2 — Nghịch đảo ma trận`"]
+  n0 --- n20
+  n21["`Phân rã LUP chỉ phụ thuộc A nên giải k vế phải khác nhau tốn Θ(kn²)`"]
+  n20 --- n21
+  n22["`Tính A⁻¹ bằng n lần LUP-SOLVE cho các hệ AXᵢ = eᵢ (28.10), tổng Θ(n³)`"]
+  n20 --- n22
+  n23["`Ví dụ A = (1 2 0#59; 3 4 4#59; 5 6 3) có A⁻¹ = (1/10)(−12 −6 8#59; 11 3 −4#59; −2 4 −2)`"]
+  n22 --- n23
+  n24["`Định lý 28.1: nhân không khó hơn nghịch đảo, khi I(n) = Ω(n²) và I(3n) = O(I(n))`"]
+  n20 --- n24
+  n25["`D = (Iₙ A 0#59; 0 Iₙ B#59; 0 0 Iₙ) có D⁻¹ chứa AB ở khối trên phải, nên M(n) = O(I(n))`"]
+  n24 --- n25
+  n26["`Định lý 28.2: nghịch đảo không khó hơn nhân, khi M(n) = Ω(n²), M(n + k) = O(M(n)), M(n/2) ≤ cM(n) với c #lt; 1/2`"]
+  n20 --- n26
+  n27["`Bù n lên lũy thừa của 2 bằng ma trận (A 0#59; 0 Iₖ), thời gian chỉ tăng hằng số lần`"]
+  n26 --- n27
+  n28["`A đối xứng xác định dương: chia bốn khối (B Cᵀ#59; C D), S = D − CB⁻¹Cᵀ, khối dưới phải của A⁻¹ là S⁻¹ (28.13)`"]
+  n26 --- n28
+  n29["`Bảy bước gồm hai nghịch đảo và bốn phép nhân cỡ n/2: I(n) ≤ 2I(n/2) + 4M(n/2) + O(n²) = O(M(n))`"]
+  n26 --- n29
+  n30["`A bất kỳ không suy biến: A⁻¹ = (AᵀA)⁻¹Aᵀ vì AᵀA đối xứng xác định dương`"]
+  n26 --- n30
+  n31["`Hệ quả: dùng Strassen thì nghịch đảo được trong O(n^lg 7) ≈ O(n^2,81)`"]
+  n20 --- n31
+  n32["`Giải (AᵀA)x = Aᵀb tránh được chọn trụ về lý thuyết, nhưng LUP-DECOMPOSITION ít phép tính và ổn định hơn`"]
+  n20 --- n32
+  n33["`Mục 28.3 — Ma trận đối xứng xác định dương và bình phương tối thiểu`"]
+  n0 --- n33
+  n34["`A xác định dương khi xᵀAx #gt; 0 với mọi x ≠ 0`"]
   n33 --- n34
-  n35["`Cực tiểu bình phương chuẩn của vectơ sai số dẫn tới phương trình chuẩn AᵀAc = Aᵀy`"]
+  n35["`Bổ đề 28.3: xác định dương thì không suy biến, vì Ax = 0 với x ≠ 0 cho xᵀAx = 0`"]
   n33 --- n35
-  n36["`Nghiệm c = A⁺y với A⁺ = (AᵀA)⁻¹Aᵀ là giả nghịch đảo`"]
+  n36["`Bổ đề 28.4: mọi ma trận con chính đầu Aₖ của ma trận đối xứng xác định dương cũng đối xứng xác định dương`"]
   n33 --- n36
-  n37["`Ví dụ khớp parabol qua 5 điểm cho F(x) = 1,200 − 0,757x + 0,214x²`"]
+  n37["`Bổ đề 28.5: phần bù Schur S = C − BAₖ⁻¹Bᵀ (28.15) đối xứng xác định dương, chứng minh bằng hoàn thành bình phương (28.16)`"]
   n33 --- n37
-  n38["`Bài toán cuối chương và ghi chú chương`"]
-  n0 --- n38
-  n39["`28-1 Hệ ba đường chéo giải được trong O(n) bằng LU hoặc LUP, mọi cách lập A⁻¹ đều đắt hơn vì A⁻¹ thường đặc`"]
+  n38["`Hệ quả 28.6: phân rã LU của ma trận đối xứng xác định dương không chia cho 0, mọi trụ đều dương`"]
+  n33 --- n38
+  n39["`Trụ đầu a₁₁ = e₁ᵀAe₁ #gt; 0, mỗi bước sinh phần bù Schur vẫn đối xứng xác định dương, quy nạp`"]
   n38 --- n39
-  n40["`28-2 Spline bậc ba tự nhiên: các đạo hàm tại nút thoả hệ ba đường chéo đối xứng xác định dương, giải trong O(n)`"]
-  n38 --- n40
-  n41["`Ghi chú: định thức không đo tốt độ ổn định, nên dùng tích chuẩn của A và A⁻¹`"]
-  n38 --- n41
-  n42["`Ghi chú: khử Gauss là một trong những thuật toán số sớm nhất, SVD là công cụ mạnh hơn được giới thiệu qua`"]
-  n38 --- n42
-  n43["`Thông điệp xuyên suốt`"]
-  n0 --- n43
-  n44["`Phân rã một lần, dùng lại cho nhiều vế phải, thay vì tính ma trận nghịch đảo`"]
-  n43 --- n44
-  n45["`Chọn trụ chỉ tốn thêm hằng số lần thời gian nhưng cứu thuật toán khỏi chia cho 0 và sai số lớn`"]
-  n43 --- n45
-  n46["`Phần bù Schur là sợi chỉ chung của LU, nghịch đảo nhanh và tính chất xác định dương`"]
-  n43 --- n46
-  n47["`Mọi tăng tốc cho phép nhân ma trận cũng là tăng tốc cho phép nghịch đảo`"]
-  n43 --- n47
+  n40["`Xấp xỉ bình phương tối thiểu`"]
+  n33 --- n40
+  n41["`Khớp m điểm có sai số đo bằng tổ hợp n hàm cơ sở, n #lt; m vì n = m khớp cả nhiễu`"]
+  n40 --- n41
+  n42["`A cỡ m × n với aᵢⱼ = fⱼ(xᵢ), sai số η = Ac − y, cực tiểu ‖η‖² bằng cách cho đạo hàm theo từng cₖ bằng 0 (28.18)`"]
+  n40 --- n42
+  n43["`Phương trình chuẩn AᵀAc = Aᵀy (28.19), A hạng cột đầy đủ thì AᵀA đối xứng xác định dương`"]
+  n40 --- n43
+  n44["`Nghiệm c = A⁺y với A⁺ = (AᵀA)⁻¹Aᵀ là giả nghịch đảo (28.20)`"]
+  n40 --- n44
+  n45["`Ví dụ năm điểm (−1, 2), (1, 1), (2, 1), (3, 0), (5, 3) cho parabol F(x) = 1,200 − 0,757x + 0,214x²`"]
+  n40 --- n45
+  n46["`Thực hành: tính Aᵀy, phân rã LU của AᵀA không cần chọn trụ, rồi thế tiến và thế lùi`"]
+  n40 --- n46
+  n47["`Bài toán cuối chương (Problems 28-1, 28-2)`"]
+  n0 --- n47
+  n48["`28-1 Ma trận ba đường chéo 5 × 5 có mọi trụ bằng 1, nghiệm x = (15, 14, 12, 9, 5), A⁻¹ đặc hoàn toàn`"]
+  n47 --- n48
+  n49["`28-1 Hệ ba đường chéo đối xứng xác định dương giải trong O(n) bằng LU, mọi cách lập A⁻¹ đều đắt hơn`"]
+  n47 --- n49
+  n50["`28-1 Hệ ba đường chéo không suy biến bất kỳ giải trong O(n) bằng LUP`"]
+  n47 --- n50
+  n51["`28-2 Spline bậc ba ghép n đa thức tại các nút, biết đạo hàm Dᵢ tại nút thì tính 4n hệ số trong O(n)`"]
+  n47 --- n51
+  n52["`28-2 Spline tự nhiên: Dᵢ₋₁ + 4Dᵢ + Dᵢ₊₁ = 3(yᵢ₊₁ − yᵢ₋₁) (28.21), hai đầu 2D₀ + D₁ = 3(y₁ − y₀)`"]
+  n47 --- n52
+  n53["`28-2 Hệ ba đường chéo đối xứng xác định dương nên nội suy trong O(n), mở rộng được cho xᵢ không cách đều`"]
+  n47 --- n53
+  n54["`Ghi chú chương (trang 842)`"]
+  n0 --- n54
+  n55["`Golub–Van Loan: det(A) không đo tốt độ ổn định, nên dùng ‖A‖∞ · ‖A⁻¹‖∞`"]
+  n54 --- n55
+  n56["`Khử Gauss là một trong những thuật toán số sớm nhất, thường gán cho C. F. Gauss`"]
+  n54 --- n56
+  n57["`Strassen nghịch đảo trong O(n^lg 7), Winograd chứng minh nhân không khó hơn nghịch đảo, Aho–Hopcroft–Ullman chiều ngược lại`"]
+  n54 --- n57
+  n58["`Phân rã giá trị kỳ dị SVD: A = Q₁ΣQ₂ᵀ, Σ chỉ khác 0 trên đường chéo, Q₁, Q₂ có cột trực chuẩn`"]
+  n54 --- n58
+  n59["`Thông điệp xuyên suốt`"]
+  n0 --- n59
+  n60["`Phân rã một lần, dùng lại cho nhiều vế phải, thay vì tính ma trận nghịch đảo`"]
+  n59 --- n60
+  n61["`Chọn trụ chỉ tốn thêm hằng số lần thời gian nhưng cứu thuật toán khỏi chia cho 0 và sai số lớn`"]
+  n59 --- n61
+  n62["`Phần bù Schur là sợi chỉ chung của LU, nghịch đảo nhanh và tính chất xác định dương`"]
+  n59 --- n62
+  n63["`Mọi tăng tốc cho phép nhân ma trận cũng là tăng tốc cho phép nghịch đảo`"]
+  n59 --- n63
   class n0 root
-  class n1,n5,n17,n27,n38,n43 branch
-  class n2,n3,n4,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n44,n45,n46,n47 leaf
+  class n1,n5,n20,n33,n47,n54,n59 branch
+  class n2,n3,n4,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n60,n61,n62,n63 leaf
 ```
 
 ## Nguồn
