@@ -1667,7 +1667,7 @@ Tuy vậy, hiệu năng thực tế của các thuật toán như sắp xếp ha
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 27 trên một trang: sáu nhánh lớn theo lời giới thiệu Phần VII, phần mở đầu chương, ba mục 27.1–27.3 và các bài toán cuối chương của bản gốc, mỗi nhánh ghi khái niệm, định lý, thuật toán kèm work, span và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 27 trên một trang: tám nhánh lớn theo lời giới thiệu Phần VII, phần mở đầu chương, ba mục 27.1–27.3, các bài toán cuối chương và ghi chú chương của bản gốc, mỗi nhánh ghi khái niệm, định lý, thuật toán kèm work, span và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1676,17 +1676,15 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 27: thêm spawn, sync, parallel vào mã giả tuần tự, đo bằng work và span, lập lịch tham lam đạt gần tối ưu`"]
-  n1["`Lời giới thiệu Phần VII — Các chủ đề chọn lọc`"]
+  n1["`Lời giới thiệu Phần VII (trang 769–771) — các chủ đề chọn lọc theo ba hướng`"]
   n0 --- n1
-  n2["`Phần VII mở rộng và bổ sung các phần trước theo ba hướng`"]
-  n1 --- n2
   n3["`Mô hình tính toán mới: mạch, máy song song (Chương 27 đa luồng, Chương 30 có mạch FFT song song)`"]
   n1 --- n3
   n4["`Lĩnh vực chuyên biệt: ma trận, quy hoạch tuyến tính, lý thuyết số, so khớp chuỗi, hình học tính toán`"]
   n1 --- n4
   n5["`Giới hạn của thuật toán hiệu quả: NP-đầy đủ (Chương 34) và thuật toán xấp xỉ (Chương 35)`"]
   n1 --- n5
-  n6["`Phần mở đầu chương — Từ máy tuần tự sang máy song song bộ nhớ chung`"]
+  n6["`Phần mở đầu chương (trang 772–774) — từ máy tuần tự sang máy song song bộ nhớ chung`"]
   n0 --- n6
   n7["`Máy song song đã phổ biến: chip đa nhân, cụm máy, siêu máy tính`"]
   n6 --- n7
@@ -1696,93 +1694,137 @@ flowchart LR
   n6 --- n9
   n10["`Đa luồng động: người lập trình chỉ nêu song song logic, bộ lập lịch tự cân bằng tải`"]
   n6 --- n10
-  n11["`Xoá ba từ khoá thì được bản tuần tự hoá, mô hình sát Cilk, OpenMP, Threading Building Blocks`"]
+  n11["`Mô hình chỉ thêm ba từ khoá, hợp với chia để trị, sát Cilk, OpenMP, Threading Building Blocks`"]
   n6 --- n11
-  n12["`Mục 27.1 — Mô hình đa luồng động và các thước đo`"]
+  n12["`Mục 27.1 — Cơ bản về đa luồng động`"]
   n0 --- n12
-  n13["`P-FIB: spawn cho phép cha chạy tiếp song song với con, sync đợi mọi con xong`"]
-  n12 --- n13
-  n14["`Tính toán là một dag: đỉnh là mạch lệnh không có điều khiển song song, cạnh tiếp nối, sinh nhánh, gọi, trả về`"]
-  n12 --- n14
-  n15["`Work T₁ và span T∞`"]
+  n53["`spawn, sync và đồ thị tính toán`"]
+  n12 --- n53
+  n13["`P-FIB: spawn cho phép (không bắt buộc) cha chạy tiếp song song với con, sync đợi mọi con xong`"]
+  n53 --- n13
+  n54["`Xoá spawn, sync, parallel được bản tuần tự hoá, bản tuần tự hoá của P-FIB là FIB chạy Θ(φⁿ)`"]
+  n53 --- n54
+  n14["`Một lần chạy là dag: đỉnh là mạch lệnh không có điều khiển song song, cạnh tiếp nối, sinh nhánh, gọi, trả về`"]
+  n53 --- n14
+  n55["`Hai mạch nối tiếp nếu có đường đi giữa chúng, ngược lại là song song logic`"]
+  n53 --- n55
+  n56["`Máy song song lý tưởng: bộ xử lý ngang sức, bộ nhớ nhất quán tuần tự, bỏ qua chi phí lập lịch`"]
+  n53 --- n56
+  n15["`Các thước đo hiệu năng`"]
   n12 --- n15
   n16["`Work T₁ là thời gian trên 1 bộ xử lý, span T∞ là đường găng, thời gian khi có vô hạn bộ xử lý`"]
   n15 --- n16
-  n17["`Luật work T#95;P ≥ T₁/P và luật span T#95;P ≥ T∞`"]
+  n17["`Luật work T#95;P ≥ T₁/P (27.2) và luật span T#95;P ≥ T∞ (27.3)`"]
   n15 --- n17
-  n18["`Độ song song T₁/T∞ là tăng tốc tối đa, ví dụ P-FIB(4) có 17 mạch, đường găng 8, độ song song 2,125`"]
+  n57["`Tăng tốc T₁/T#95;P ≤ P, tuyến tính nếu bằng Θ(P), tuyến tính hoàn hảo nếu bằng P`"]
+  n15 --- n57
+  n58["`Độ song song T₁/T∞ là tăng tốc tối đa, độ dư (T₁/T∞)/P dưới 1 thì không thể tăng tốc hoàn hảo`"]
+  n15 --- n58
+  n18["`P-FIB(4) có 17 mạch, đường găng 8 mạch, độ song song 2,125`"]
   n15 --- n18
   n19["`Lập lịch tham lam`"]
   n12 --- n19
-  n20["`Định lý 27.1: mọi bộ lập lịch tham lam đạt T#95;P ≤ T₁/P + T∞`"]
+  n59["`Bước đầy có ít nhất P mạch sẵn sàng thì chạy P mạch, bước không đầy chạy hết mạch sẵn sàng`"]
+  n19 --- n59
+  n20["`Định lý 27.1: T#95;P ≤ T₁/P + T∞, vì bước đầy ≤ ⌊T₁/P⌋ và mỗi bước không đầy rút span còn lại đi 1`"]
   n19 --- n20
-  n21["`Hệ quả 27.2: trong phạm vi hệ số 2 của lịch tối ưu`"]
+  n21["`Hệ quả 27.2: mọi lịch tham lam nằm trong phạm vi hệ số 2 của lịch tối ưu`"]
   n19 --- n21
-  n22["`Hệ quả 27.3: P nhỏ hơn nhiều so với T₁/T∞ thì tăng tốc gần bằng P, kinh nghiệm độ dư ≥ 10 là đủ`"]
+  n22["`Hệ quả 27.3: P ≪ T₁/T∞ thì T#95;P ≈ T₁/P, kinh nghiệm độ dư ≥ 10 là đủ`"]
   n19 --- n22
-  n23["`Phân tích: span nối tiếp thì cộng, song song thì lấy max, P-FIB có span Θ(n) và độ song song Θ(φⁿ/n)`"]
-  n12 --- n23
-  n24["`Vòng lặp parallel for được biên dịch thành cây chia đôi, thêm Θ(lg n) vào span, MAT-VEC có span Θ(n)`"]
-  n12 --- n24
-  n25["`Tranh chấp tất định: hai lệnh song song cùng truy cập một ô nhớ, có lệnh ghi, kết quả tuỳ thứ tự`"]
-  n12 --- n25
-  n26["`Bài học ★Socrates: bản nhanh hơn trên 32 bộ xử lý (40 s so với 65 s) lại chậm hơn trên 512 (10 s so với 5 s)`"]
+  n60["`Phân tích, vòng lặp song song và tranh chấp`"]
+  n12 --- n60
+  n23["`Work là thời gian bản tuần tự hoá, span nối tiếp thì cộng, song song thì lấy max`"]
+  n60 --- n23
+  n61["`P-FIB: T∞(n) = T∞(n − 1) + Θ(1) = Θ(n), độ song song Θ(φⁿ/n) rất lớn`"]
+  n60 --- n61
+  n24["`parallel for thành cây chia đôi, span Θ(lg n) + max span một lần lặp, MAT-VEC có span Θ(n)`"]
+  n60 --- n24
+  n25["`Tranh chấp tất định: hai lệnh song song cùng truy cập một ô nhớ, ít nhất một lệnh ghi`"]
+  n60 --- n25
+  n62["`RACE-EXAMPLE có thể in 1 thay vì 2, nên quy ước các mạch song song phải độc lập`"]
+  n60 --- n62
+  n26["`★Socrates: bản T₁ = 1024, T∞ = 8 nhanh hơn trên 32 bộ xử lý (40 s so với 65 s) nhưng chậm hơn trên 512 (10 s so với 5 s)`"]
   n12 --- n26
   n27["`Mục 27.2 — Nhân ma trận đa luồng`"]
   n0 --- n27
   n28["`P-SQUARE-MATRIX-MULTIPLY song song hai vòng ngoài: work Θ(n³), span Θ(n), độ song song Θ(n²)`"]
   n27 --- n28
-  n29["`Song song cả vòng k bằng parallel for sẽ gây tranh chấp tất định`"]
+  n29["`Song song cả vòng k bằng parallel for sẽ gây tranh chấp vì nhiều lần lặp cùng cộng vào một ô`"]
   n27 --- n29
-  n30["`Chia để trị tám phép nhân với ma trận tạm T`"]
+  n30["`P-MATRIX-MULTIPLY-RECURSIVE chia để trị tám phép nhân`"]
   n27 --- n30
-  n31["`Work Θ(n³), span M∞(n) = M∞(n/2) + Θ(lg n) = Θ(lg² n)`"]
+  n63["`Bốn tích ghi vào C, bốn tích ghi vào ma trận tạm T, sync rồi cộng T vào C bằng parallel for`"]
+  n30 --- n63
+  n31["`Work M₁(n) = 8M₁(n/2) + Θ(n²) = Θ(n³)`"]
   n30 --- n31
-  n32["`Độ song song Θ(n³/lg² n), rất cao`"]
+  n64["`Span (27.7) M∞(n) = M∞(n/2) + Θ(lg n) = Θ(lg² n), giải bằng Bài tập 4.6-2`"]
+  n30 --- n64
+  n32["`Độ song song Θ(n³/lg² n), với n = 1000 khoảng 10⁷`"]
   n30 --- n32
-  n33["`Strassen đa luồng: work Θ(n^lg 7), span Θ(lg² n), độ song song Θ(n^lg 7 / lg² n)`"]
+  n33["`Strassen đa luồng`"]
   n27 --- n33
+  n65["`Tạo S₁ đến S₁₀ và ghép C bằng parallel for tốn Θ(n²) work, Θ(lg n) span, sinh nhánh bảy tích P₁ đến P₇`"]
+  n33 --- n65
+  n66["`Work Θ(n^lg 7), span theo cùng (27.7) là Θ(lg² n), độ song song Θ(n^lg 7 / lg² n)`"]
+  n33 --- n66
   n34["`Mục 27.3 — Sắp xếp trộn đa luồng`"]
   n0 --- n34
-  n35["`Chỉ sinh nhánh hai lời gọi đệ quy thì span Θ(n), độ song song chỉ Θ(lg n), vì MERGE tuần tự là nút cổ chai`"]
+  n35["`MERGE-SORT′ chỉ sinh nhánh lời gọi đệ quy: span Θ(n), độ song song chỉ Θ(lg n) vì MERGE tuần tự`"]
   n34 --- n35
   n36["`P-MERGE trộn song song`"]
   n34 --- n36
-  n37["`Lấy trung vị của mảng dài hơn, tìm nhị phân chỗ chèn trong mảng kia, đặt vào chỗ, đệ quy hai nửa song song`"]
+  n37["`Lấy trung vị x của mảng dài hơn, tìm nhị phân chỗ chèn trong mảng kia, chép x vào A[q₃], đệ quy hai phần song song`"]
   n36 --- n37
-  n38["`Mỗi lời gọi đệ quy nhận tối đa 3n/4 phần tử, nên span Θ(lg² n), work Θ(n)`"]
+  n38["`Vì n₂ ≤ n/2 nên mỗi lời gọi đệ quy nhận ≤ 3n/4 phần tử, span (27.8) là Θ(lg² n)`"]
   n36 --- n38
-  n39["`P-MERGE-SORT: work Θ(n lg n), span Θ(lg³ n), độ song song Θ(n/lg² n)`"]
+  n67["`Work (27.9) với α trong [1/4, 3/4], thế giả thiết c₁n − c₂ lg n cho Θ(n)`"]
+  n36 --- n67
+  n68["`Độ song song của P-MERGE là Θ(n/lg² n)`"]
+  n36 --- n68
+  n39["`P-MERGE-SORT`"]
   n34 --- n39
-  n40["`Thực tế nên chuyển sang sắp xếp tuần tự khi mảng đủ nhỏ để giảm hằng số`"]
-  n34 --- n40
-  n41["`Bài toán cuối chương và ghi chú chương`"]
+  n69["`Sắp hai nửa song song vào mảng tạm T, sync, rồi P-MERGE vào mảng đầu ra B`"]
+  n39 --- n69
+  n70["`Work Θ(n lg n), span (27.10) PMS∞(n) = PMS∞(n/2) + Θ(lg² n) = Θ(lg³ n)`"]
+  n39 --- n70
+  n71["`Độ song song Θ(n/lg² n), tốt hơn hẳn Θ(lg n) của MERGE-SORT′`"]
+  n39 --- n71
+  n40["`Thực tế chuyển sang sắp xếp tuần tự khi mảng đủ nhỏ để giảm hằng số`"]
+  n39 --- n40
+  n41["`Bài toán cuối chương (Problems 27-1 đến 27-6, trang 805–811)`"]
   n0 --- n41
-  n42["`27-1 Cài vòng lặp song song: chia đôi đệ quy cho span Θ(lg n), chia khối cỡ √n cho span Θ(√n)`"]
+  n42["`27-1 Chia đôi đệ quy cho span Θ(lg n), sinh nhánh tuần tự từng khối cỡ g cho span Θ(n/g + g), tốt nhất g = √n`"]
   n41 --- n42
-  n43["`27-2 Bỏ ma trận tạm: span tăng lên Θ(n), độ song song vẫn Θ(n²)`"]
+  n43["`27-2 Bỏ ma trận tạm bằng sync giữa hai đợt nhân: span Θ(n), độ song song Θ(n²), vẫn đủ lớn`"]
   n41 --- n43
-  n44["`27-4 Rút gọn và tính tiền tố: P-SCAN-3 hai lượt lên xuống đạt work Θ(n), span Θ(lg n)`"]
+  n72["`27-3 Song song hoá LU, LUP, LUP-SOLVE và nghịch đảo ma trận đối xứng xác định dương`"]
+  n41 --- n72
+  n44["`27-4 P-REDUCE đạt Θ(n), Θ(lg n), P-SCAN-1 tốn work Θ(n²), P-SCAN-3 hai lượt lên xuống đạt Θ(n), Θ(lg n)`"]
   n41 --- n44
-  n45["`27-6 Thuật toán ngẫu nhiên: luật work, span và cận tham lam theo kỳ vọng, P-RANDOMIZED-QUICKSORT`"]
+  n73["`27-5 Khuôn tính toán: chia 2×2 cho span Θ(n^lg 3), chia b×b vẫn chỉ o(n) song song`"]
+  n41 --- n73
+  n45["`27-6 Thuật toán ngẫu nhiên: các luật theo kỳ vọng, tăng tốc là E[T₁]/E[T#95;P], P-RANDOMIZED-QUICKSORT`"]
   n41 --- n45
-  n46["`Ghi chú: Blumofe và Leiserson chứng minh lập lịch đánh cắp việc ngẫu nhiên đạt E[T#95;P] ≤ T₁/P + O(T∞)`"]
-  n41 --- n46
-  n47["`Mã giả và mô hình lấy cảm hứng từ Cilk của MIT`"]
-  n41 --- n47
+  n74["`Ghi chú chương (trang 811–812)`"]
+  n0 --- n74
+  n75["`Graham và Brent: tồn tại lịch đạt cận Định lý 27.1, Eager, Zahorjan, Lazowska: mọi lịch tham lam đều đạt`"]
+  n74 --- n75
+  n46["`Blumofe và Leiserson: lập lịch đánh cắp việc ngẫu nhiên đạt E[T#95;P] ≤ T₁/P + O(T∞)`"]
+  n74 --- n46
+  n47["`Mã giả theo Cilk của MIT, trộn song song lấy ý từ Akl, nhất quán tuần tự là của Lamport`"]
+  n74 --- n47
   n48["`Thông điệp xuyên suốt`"]
   n0 --- n48
   n49["`Mục tiêu thiết kế: giữ work bằng bản tuần tự tốt nhất và làm span càng ngắn càng tốt`"]
   n48 --- n49
-  n50["`Work và span là hai con số độc lập với máy, dự báo hiệu năng tốt hơn thời gian đo trên một máy`"]
+  n50["`Work và span độc lập với máy, dự báo hiệu năng tốt hơn thời gian đo trên một máy`"]
   n48 --- n50
-  n51["`Đa luồng động hợp tự nhiên với chia để trị và phân tích bằng truy hồi`"]
-  n48 --- n51
-  n52["`Phải giữ các mạch song song độc lập để tránh tranh chấp tất định`"]
+  n52["`Phải song song hoá cả bước kết hợp (cộng ma trận, trộn) và giữ các mạch song song độc lập`"]
   n48 --- n52
   class n0 root
-  class n1,n6,n12,n27,n34,n41,n48 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52 leaf
+  class n1,n6,n12,n27,n34,n41,n74,n48 branch
+  class n3,n4,n5,n7,n8,n9,n10,n11,n53,n13,n54,n14,n55,n56,n15,n16,n17,n57,n58,n18,n19,n59,n20,n21,n22,n60,n23,n61,n24,n25,n62,n26,n28,n29,n30,n63,n31,n64,n32,n33,n65,n66,n35,n36,n37,n38,n67,n68,n39,n69,n70,n71,n40,n42,n43,n72,n44,n73,n45,n75,n46,n47,n49,n50,n52 leaf
 ```
 
 ## Nguồn
