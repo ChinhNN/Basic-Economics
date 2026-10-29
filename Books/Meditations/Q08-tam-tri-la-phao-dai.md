@@ -455,3 +455,147 @@ Ví dụ con trai ốm (điều ta thấy được) và "nó có thể sẽ ch�
 - **Hành động thay thế (8.32):** một doanh nghiệp xuất khẩu bị khách hàng Mỹ huỷ đơn vì thuế quan. Việc cụ thể (giao lô hàng) bị chặn, nhưng việc hành xử đúng mực (thông báo kịp thời cho nhà cung cấp, trả lương công nhân, tìm thị trường EU hay nội địa) không ai chặn được. Kế hoạch tốt không bám vào một kết quả, mà bám vào nguyên tắc và có sẵn phương án thay thế.
 - **Đánh giá theo hành động chứ không theo kết quả:** trong quản lý quỹ hay quản trị dự án, đánh giá quyết định theo chất lượng quy trình lúc quyết định (thông tin, lập luận, quản trị rủi ro), không theo kết quả may rủi. Đây là điều Marcus gọi là hài lòng nếu mỗi hành động đạt mục đích của nó hết mức có thể.
 - **Lãnh đạo không than vãn (8.9) và nói đúng mực (8.30):** người quản lý cấp trung thường xả bực bội về ban giám đốc với nhân viên. Marcus, hoàng đế, tự cấm mình kêu ca về triều đình trước người khác. Than vãn của người đứng đầu lan nhanh và phá tinh thần cả nhóm; bực thì giải quyết với đúng người, bằng lời lẽ chừng mực.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 8 trên một trang: năm nhánh lớn theo năm cụm mục của bản gốc (tự thú và bắt đầu lại, ấn tượng và phán đoán, pháo đài của tâm trí, trở ngại thành nguyên liệu, cộng đồng và cái chết), mỗi nhánh ghi luận điểm, hình ảnh và ví dụ then chốt kèm số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 8: khổ đau nằm ở phán đoán chứ không ở sự việc; tâm trí là pháo đài không ai chiếm được, trở ngại là nguyên liệu cho hành động`"]
+  n1["`Mục 8.1, 8.2, 8.8, 8.10, 8.22a — Tự thú và bắt đầu lại`"]
+  n0 --- n1
+  n2["`Lời tự thú hiếm có (8.1)`"]
+  n1 --- n2
+  n3["`Marcus chưa từng sống đúng như triết gia; địa vị hoàng đế là trở ngại`"]
+  n2 --- n3
+  n4["`Đã tìm cách sống trong tranh biện, của cải, danh tiếng, khoái lạc mà không thấy`"]
+  n2 --- n4
+  n5["`Quy tắc: chỉ cái làm ta công bằng, tự chủ, dũng cảm, tự do hơn mới là tốt`"]
+  n2 --- n5
+  n6["`Không cần thêm thời gian để làm triết học`"]
+  n1 --- n6
+  n7["`Không còn thời gian đọc, nhưng vẫn kiềm chế được kiêu ngạo và không giận người ngu (8.8)`"]
+  n6 --- n7
+  n8["`Có thể làm người tốt hôm nay mà lại chọn để đến ngày mai (8.22a)`"]
+  n6 --- n8
+  n9["`Câu hỏi trước mỗi việc`"]
+  n1 --- n9
+  n10["`Đây có phải hành động của sinh vật có lý trí, sống vì cộng đồng không (8.2)`"]
+  n9 --- n10
+  n11["`Người tốt không hối tiếc vì bỏ lỡ khoái lạc, nên khoái lạc không phải điều tốt (8.10)`"]
+  n9 --- n11
+  n12["`Mục 8.14–8.17, 8.36, 8.47, 8.49, 8.50 — Sự việc, ấn tượng và phán đoán`"]
+  n0 --- n12
+  n13["`Chỉ giữ ấn tượng đầu tiên (8.49)`"]
+  n12 --- n13
+  n14["`Có người nói xấu ta là ấn tượng; ta bị hại là phần tự thêm`"]
+  n13 --- n14
+  n15["`Con trai ta đang ốm là ấn tượng; nó sẽ chết là phần tự thêm`"]
+  n13 --- n15
+  n16["`Vấn đề là phán đoán, và phán đoán xoá được ngay (8.47)`"]
+  n12 --- n16
+  n17["`Lỗi ở tính cách thì ai cản ta sửa; chưa làm việc đúng thì sao không làm`"]
+  n16 --- n17
+  n18["`Bị chặn không vượt được thì lỗi không ở ta, ra đi thanh thản như đã làm xong`"]
+  n16 --- n18
+  n19["`Không ngạc nhiên, không đổ lỗi`"]
+  n12 --- n19
+  n20["`Dưa đắng thì vứt, gai thì đi vòng; đừng hỏi sao chúng tồn tại (8.50)`"]
+  n19 --- n20
+  n21["`Cây vả ra quả vả; bác sĩ không lạ khi bệnh nhân sốt (8.15)`"]
+  n19 --- n21
+  n22["`Sửa được người thì sửa, không được thì sửa việc, còn trách móc là vô ích (8.17)`"]
+  n19 --- n22
+  n23["`Khoanh nỗi khó vào hiện tại`"]
+  n12 --- n23
+  n24["`Đừng tưởng tượng mọi điều tồi tệ cùng lúc; hỏi phần nào của việc này là không chịu nổi (8.36)`"]
+  n23 --- n24
+  n25["`Mục 8.28, 8.40, 8.41, 8.45, 8.48, 8.51, 8.55, 8.56 — Pháo đài của tâm trí`"]
+  n0 --- n25
+  n26["`Cái hại theo từng loài (8.41)`"]
+  n25 --- n26
+  n27["`Với sinh vật có lý trí, cái hại là cái cản tâm trí vận hành`"]
+  n26 --- n27
+  n28["`Lửa, sắt, bạo chúa, lời nguyền không chạm được tâm trí tròn đầy như quả cầu của Empedocles`"]
+  n26 --- n28
+  n29["`Pháo đài (8.48)`"]
+  n25 --- n29
+  n30["`Tâm trí không bị đam mê chi phối là nơi trú ẩn kiên cố nhất của con người`"]
+  n29 --- n30
+  n31["`Không thấy điều này là thiếu hiểu biết; thấy mà không trú vào là bất hạnh`"]
+  n29 --- n31
+  n32["`Dòng suối (8.51)`"]
+  n25 --- n32
+  n33["`Người ta đổ bùn, đổ phân vào, suối trong vẫn trào lên cuốn sạch`"]
+  n32 --- n33
+  n34["`Giữ tâm trí là suối chứ không là bể nước đứng bằng tự do, kiên trì, trung thực từng giờ`"]
+  n32 --- n34
+  n35["`Cái xấu của người khác không thành cái xấu của ta`"]
+  n25 --- n35
+  n36["`Cái ác chỉ hại đúng kẻ làm ác (8.55)`"]
+  n35 --- n36
+  n37["`Ý chí người bên cạnh độc lập với ta như hơi thở của họ (8.56)`"]
+  n35 --- n37
+  n38["`Mục 8.32, 8.35, 8.50, 8.57, 8.60 — Trở ngại thành nguyên liệu`"]
+  n0 --- n38
+  n39["`Từng hành động một (8.32)`"]
+  n38 --- n39
+  n40["`Không gì cản được việc hành xử công bằng, tự chủ, chín chắn`"]
+  n39 --- n40
+  n41["`Việc cụ thể bị cản thì bình thản chấp nhận, một hành động thay thế sẽ hiện ra`"]
+  n39 --- n41
+  n42["`Tự nhiên không có bãi rác`"]
+  n38 --- n42
+  n43["`Tự nhiên biến mọi thứ hỏng, già thành chất liệu cho cái mới (8.50)`"]
+  n42 --- n43
+  n44["`Sinh vật có lý trí cũng biến mọi trở ngại thành chất liệu cho mục đích của mình (8.35)`"]
+  n42 --- n44
+  n45["`Tâm trí như tia nắng (8.57)`"]
+  n38 --- n45
+  n46["`Tia nắng vươn thẳng ra, gặp vật cản thì dừng, không giận dữ đập vào, không tắt`"]
+  n45 --- n46
+  n47["`Dừng lại cân nhắc như mũi tên vẫn là đang tiến tới đích (8.60)`"]
+  n45 --- n47
+  n48["`Mục 8.12, 8.20, 8.25, 8.31, 8.34, 8.58, 8.59 — Cộng đồng, người khác và cái chết`"]
+  n0 --- n48
+  n49["`Bàn tay chặt lìa (8.34)`"]
+  n48 --- n49
+  n50["`Chống lại điều xảy đến, tự cô lập, làm vì tư lợi là tự chặt mình khỏi toàn thể`"]
+  n49 --- n50
+  n51["`Chỉ con người có đặc ân tự ghép lại vào toàn thể`"]
+  n49 --- n51
+  n52["`Con người sinh ra vì nhau`"]
+  n48 --- n52
+  n53["`Khó rời giường thì nhớ: hành động vì cộng đồng là việc riêng của con người (8.12)`"]
+  n52 --- n53
+  n54["`Dạy họ hoặc kiên nhẫn chịu đựng họ; giận dữ không nằm trong lựa chọn (8.59)`"]
+  n52 --- n54
+  n55["`Danh tiếng và dòng dõi đều tan biến`"]
+  n48 --- n55
+  n56["`Verus, Lucilla, Maximus, Faustina, Antoninus, Hadrian: một kết cục cho tất cả (8.25)`"]
+  n55 --- n56
+  n57["`Cả triều đình Augustus đã chết; bia mộ khắc hậu duệ cuối cùng của dòng họ (8.31)`"]
+  n55 --- n57
+  n58["`Trái bóng ném lên: bay lên không được gì, rơi xuống không mất gì (8.20)`"]
+  n55 --- n58
+  n59["`Sợ chết là vô lý (8.58)`"]
+  n48 --- n59
+  n60["`Mất hết cảm giác thì không thấy gì xấu; có cảm giác khác thì chỉ là đổi dạng`"]
+  n59 --- n60
+  n61["`Thông điệp xuyên suốt`"]
+  n0 --- n61
+  n62["`Tách sự kiện khỏi lời bình; phần lớn nỗi khổ nằm ở lời bình ta tự thêm`"]
+  n61 --- n62
+  n63["`Đánh giá hành động theo mục đích đạo đức của nó, không theo kết quả ngoài tầm tay`"]
+  n61 --- n63
+  n64["`Trú vào pháo đài để giữ bình tĩnh, rồi mở cửa cho người khác bước vào (8.48, 8.61)`"]
+  n61 --- n64
+  class n0 root
+  class n1,n12,n25,n38,n48,n61 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n62,n63,n64 leaf
+```

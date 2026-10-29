@@ -413,3 +413,145 @@ Người đọc chỉ có bản dịch này sẽ mất phần mở đầu của 
 - **"Chướng ngại là chất liệu" trong sự nghiệp.** Bị điều chuyển sang bộ phận khó, dự án bị cắt ngân sách, công ty tái cấu trúc: câu hỏi 10.33 không phải "sao lại là tôi" mà "với chất liệu này, việc đúng nhất tôi làm được là gì?". Nhiều người làm tài chính ở Việt Nam học được thẩm định rủi ro tín dụng thực sự chính trong những năm xử lý nợ xấu sau 2011 hay khủng hoảng trái phiếu 2022–2023.
 - **Lãnh đạo và quản lý (10.13, 10.36).** Một trưởng phòng ra quyết định đúng nhưng không được lòng (từ chối tăng lương không xứng đáng, cắt dự án lỗ) nên tự hỏi câu buổi sáng của Marcus: bị trách vì điều đúng thì có khác gì không? Và nhớ rằng dù cư xử tốt đến đâu, vẫn có người thấy bị phán xét; đừng đổi quyết định để được yêu.
 - **Tự soi trước khi phán xét (10.30).** Trước khi phê phán một cấp dưới chạy theo thưởng doanh số mà bỏ qua rủi ro, hãy hỏi mình có từng chạy theo chỉ tiêu như thế chưa. Rồi thay vì chỉ giận, sửa cơ chế thưởng, tức là giúp họ gỡ bỏ thôi thúc ấy.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 10 (các mục 10.11–10.38 có trong bản dịch) trên một trang: năm nhánh lớn theo năm cụm mục của bản gốc (tâm trí khoẻ và lý trí không bị chặn, sống đúng bất kể khen chê, thuận theo luật tự nhiên, thời gian và cái chết, đối diện người làm sai), mỗi nhánh ghi luận điểm, hình ảnh và ví dụ then chốt kèm số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 10: tâm trí khoẻ chịu được mọi hoàn cảnh và biến chướng ngại thành chất liệu; sống đúng, thuận tự nhiên, ra đi không giận dữ`"]
+  n1["`Mục 10.31, 10.33, 10.35 — Tâm trí khoẻ và lý trí không bị chặn`"]
+  n0 --- n1
+  n2["`Tâm trí khoẻ như cơ thể khoẻ (10.35)`"]
+  n1 --- n2
+  n3["`Mắt khoẻ nhìn mọi thứ, kêu quá chói là dấu hiệu viêm mắt`"]
+  n2 --- n3
+  n4["`Dạ dày khoẻ nhận mọi thức ăn như cối xay nhận mọi hạt`"]
+  n2 --- n4
+  n5["`Cứ đòi con mình phải bình an, ai cũng phải khen mình là tâm trí bệnh, như răng chỉ nhai được cháo`"]
+  n2 --- n5
+  n6["`Lý trí tự mở đường (10.33)`"]
+  n1 --- n6
+  n7["`Khối trụ, nước, lửa bị chướng ngại chặn; lý trí đi qua mọi chướng ngại bằng bản tính và ý chí`"]
+  n6 --- n7
+  n8["`Chướng ngại chỉ chạm tới thân xác, trừ khi ta phán đoán sai và lý trí tự đầu hàng`"]
+  n6 --- n8
+  n9["`Vật khác gặp điều xấu thì xấu đi; con người dùng đúng điều xấu thì tốt lên`"]
+  n6 --- n9
+  n10["`Luật còn nguyên thì thành bang và công dân không hề hấn gì`"]
+  n6 --- n10
+  n11["`Biến mọi việc thành của mình (10.31)`"]
+  n1 --- n11
+  n12["`Như ngọn lửa mạnh biến mọi thứ ném vào thành ánh sáng và sức nóng`"]
+  n11 --- n12
+  n13["`Cơ hội lỡ, việc hỏng đều là bài tập cho lý trí`"]
+  n11 --- n13
+  n14["`Mục 10.11a–10.16, 10.19, 10.24, 10.32 — Sống đúng, bất kể khen chê`"]
+  n0 --- n14
+  n15["`Chỉ còn hai câu hỏi (10.11a)`"]
+  n14 --- n15
+  n16["`Việc ta đang làm có đúng không`"]
+  n15 --- n16
+  n17["`Ta có đón nhận, thậm chí vui lòng, với phần được giao không`"]
+  n15 --- n17
+  n18["`Khi chưa chắc nên làm gì (10.12)`"]
+  n14 --- n18
+  n19["`Thấy rõ đường thì đi, không ngoảnh lại; chưa rõ thì dừng và hỏi người khuyên tốt nhất`"]
+  n18 --- n19
+  n20["`Bị cản thì tiến với phương tiện đang có; nếu thất bại, hãy thất bại khi đang nhắm vào điều đúng`"]
+  n18 --- n20
+  n21["`Người khen chê là ai`"]
+  n14 --- n21
+  n22["`Bị trách vì một việc đúng thì có khác gì không; không khác gì cả (10.13)`"]
+  n21 --- n22
+  n23["`Nhìn họ lúc ăn, ngủ, hôm qua khúm núm, hôm nay hống hách (10.19)`"]
+  n21 --- n23
+  n24["`Là người tốt, đừng bàn về nó`"]
+  n14 --- n24
+  n25["`Thôi tranh luận người tốt phải thế nào, hãy là người tốt (10.16)`"]
+  n24 --- n25
+  n26["`Không ai cản được ta trung thực và thẳng thắn (10.32)`"]
+  n24 --- n26
+  n27["`Sống như trên núi, nơi không có ai để làm vừa lòng (10.15)`"]
+  n24 --- n27
+  n28["`Mục 10.14, 10.20–10.26, 10.28, 10.38 — Thuận theo luật tự nhiên`"]
+  n0 --- n28
+  n29["`Nô lệ bỏ trốn (10.25)`"]
+  n28 --- n29
+  n30["`Luật là người chủ; người đau buồn, giận, sợ là kẻ trốn khỏi luật, tức trốn khỏi công lý`"]
+  n29 --- n30
+  n31["`Đi theo tự nguyện (10.28)`"]
+  n28 --- n31
+  n32["`Người oán hận giống con lợn bị chọc tiết giãy và kêu`"]
+  n31 --- n32
+  n33["`Mọi vật buộc phải theo điều xảy đến; chỉ sinh vật lý trí theo được một cách tự nguyện`"]
+  n31 --- n33
+  n34["`Yêu điều sẽ đến`"]
+  n28 --- n34
+  n35["`Nói với tự nhiên: cứ ban hay lấy tuỳ ý, với lòng chấp thuận chứ không thách thức (10.14)`"]
+  n34 --- n35
+  n36["`Tự nhiên đem tới cho mỗi người đúng điều có lợi, đúng lúc (10.20)`"]
+  n34 --- n36
+  n37["`Đất mong mưa (Euripides): thế giới yêu điều sẽ đến, ta cũng yêu như vậy (10.21)`"]
+  n34 --- n37
+  n38["`Cái điều khiển nằm bên trong`"]
+  n28 --- n38
+  n39["`Hạt giống thành đứa trẻ, thức ăn thành sức lực nhờ một sức mạnh vô hình (10.26)`"]
+  n38 --- n39
+  n40["`Thân thể chỉ là dụng cụ như rìu, con thoi, bút; phần chỉ huy mới là ta (10.38)`"]
+  n38 --- n40
+  n41["`Mục 10.11, 10.17, 10.18, 10.22, 10.27, 10.29, 10.31, 10.34, 10.36 — Thời gian, lặp lại và cái chết`"]
+  n0 --- n41
+  n42["`Thấy biến đổi và đặt đúng tỉ lệ`"]
+  n41 --- n42
+  n43["`Tập nhìn mọi vật đang chuyển hoá là bài tập nâng tầm tâm trí nhất (10.11, 10.18)`"]
+  n42 --- n43
+  n44["`So với toàn bộ vật chất, mỗi vật như một hạt sung; so với thời gian, như một vòng xoay mũi khoan (10.17)`"]
+  n42 --- n44
+  n45["`Cùng một vở kịch`"]
+  n41 --- n45
+  n46["`Triều Hadrian, Antoninus, Philip, Alexander, Croesus: như nhau, chỉ khác người diễn (10.27)`"]
+  n45 --- n46
+  n47["`Nhìn mình thì nghĩ tới các hoàng đế trước; họ đâu rồi, việc người chỉ là khói (10.31)`"]
+  n45 --- n47
+  n48["`Như lá cây (10.34, Homer)`"]
+  n41 --- n48
+  n49["`Con cái, người khen, người chửi, người truyền danh tiếng đều là lá; gió thổi rụng, mùa xuân lá khác mọc`"]
+  n48 --- n49
+  n50["`Bên giường bệnh (10.36)`"]
+  n41 --- n50
+  n51["`Người tốt nhất lúc chết cũng có kẻ thầm mừng; biết vậy thì bớt níu kéo`"]
+  n50 --- n51
+  n52["`Nhưng không ra đi trong giận dữ; tự nhiên đã buộc nút thì tự nhiên cởi`"]
+  n50 --- n52
+  n53["`Chỉ có ba khả năng: sống tiếp, tự rời đi, chết khi xong phận sự; vậy hãy vững lòng (10.22)`"]
+  n50 --- n53
+  n54["`Mục 10.30, 10.37 — Đối diện người làm sai`"]
+  n0 --- n54
+  n55["`Quay về mình trước (10.30)`"]
+  n54 --- n55
+  n56["`Hỏi ta đã từng coi tiền, khoái lạc, danh tiếng là tốt như họ chưa`"]
+  n55 --- n56
+  n57["`Cơn giận nguôi khi thấy họ bị thôi thúc ép buộc; nếu được thì giúp họ gỡ nó`"]
+  n55 --- n57
+  n58["`Hỏi vì sao (10.37)`"]
+  n54 --- n58
+  n59["`Tập hỏi người này nhắm tới điều gì, nhưng bắt đầu từ hành động của chính ta`"]
+  n58 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Đừng đặt điều kiện cho sự bình an của mình; tâm trí khoẻ dùng được mọi hoàn cảnh`"]
+  n60 --- n61
+  n62["`Hướng nhắm vào điều đúng luôn thuộc quyền ta, kết quả thì không`"]
+  n60 --- n62
+  n63["`Ra đi tự nguyện và tử tế, như lá rụng trong một chu kỳ bình thường`"]
+  n60 --- n63
+  class n0 root
+  class n1,n14,n28,n41,n54,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n61,n62,n63 leaf
+```

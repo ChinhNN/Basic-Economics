@@ -452,3 +452,149 @@ Mục 7.32, 7.50 và 7.75 cho thấy Marcus vẫn giữ hai khả năng: vũ tr�
 - **Trong đầu tư:** mục 7.1 và 7.49 (không có gì mới, nhìn 40 năm cũng như 1.000 năm) là lý lẽ tốt nhất chống lại tâm lý "lần này khác". Các cơn sốt đất nền, tiền mã hoá, cổ phiếu "lùa gà" ở Việt Nam đều lặp lại một kịch bản cũ: đòn bẩy, câu chuyện mới, đám đông, sụp đổ. Người đầu tư đã đọc lại vài chu kỳ (2007–2008, 2011, 2018, 2021–2022) sẽ nhận ra mẫu hình và bớt bị cuốn theo.
 - **Khi thị trường giảm mạnh:** 7.14 nhắc rằng giá cổ phiếu giảm chỉ là một sự kiện; "mình đã mất tiền, mình thật ngu" là phán đoán. Kỹ thuật 7.17a áp dụng được: khi ý nghĩ "bán hết đi" hiện lên lúc 2 giờ sáng, đừng tranh luận với nó, chỉ gọi tên nó ("đây là nỗi sợ do thói quen") và để quyết định cho lúc tỉnh táo, theo kế hoạch đã viết sẵn.
 - **Không đòi ghi công (7.73):** trong văn hoá công sở hay đòi "có công thì phải được nhắc tên", ai giúp đồng nghiệp xong rồi để ý xem mình có được cảm ơn trước sếp không sẽ tự làm khổ mình. Marcus coi đòi "thứ ba" (sau việc làm và lợi ích người nhận) là ngớ ngẩn: phần thưởng đã nằm trong việc làm.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 7 trên một trang: năm nhánh lớn theo năm cụm mục của bản gốc (không có gì mới, mọi thứ liên kết, tâm trí chỉ bị hại bởi chính nó, đối xử với người làm sai, chết và đau qua lời người xưa), mỗi nhánh ghi luận điểm, hình ảnh và câu trích then chốt kèm số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 7: mọi thứ đổi thay và liên kết, tâm trí chỉ bị hại bởi phán đoán của nó, nên hãy thương và tha cho người làm sai`"]
+  n1["`Mục 7.1, 7.3, 7.18–7.25, 7.47–7.49 — Không có gì mới, mọi thứ đổi thay`"]
+  n0 --- n1
+  n2["`Cái ác và sự náo nhiệt đều là chuyện cũ`"]
+  n1 --- n2
+  n3["`Mọi thứ vừa quen thuộc vừa thoáng qua; biết vậy thì bớt sốc (7.1)`"]
+  n2 --- n3
+  n4["`Đế chế nối đế chế: nhìn 40 năm cũng như 1.000 năm (7.49)`"]
+  n2 --- n4
+  n5["`Chấp nhận mà không khinh thị; giá trị một người đo bằng thứ họ dồn tâm huyết vào (7.3)`"]
+  n2 --- n5
+  n6["`Thay đổi là cách tự nhiên làm việc`"]
+  n1 --- n6
+  n7["`Muốn tắm nước nóng thì củi phải cháy, muốn được nuôi thì thức ăn phải biến đổi (7.18)`"]
+  n6 --- n7
+  n8["`Tự nhiên nặn ngựa từ sáp, nung chảy rồi nặn cây, rồi người; tan rã không hại gì (7.23)`"]
+  n6 --- n8
+  n9["`Nhờ liên tục biến đổi mà thế giới luôn trẻ lại (7.25)`"]
+  n6 --- n9
+  n10["`Dòng sông thời gian và góc nhìn từ trên cao`"]
+  n1 --- n10
+  n11["`Thời gian đã nuốt cả Chrysippus, Socrates, Epictetus (7.19)`"]
+  n10 --- n11
+  n12["`Danh tiếng như đụn cát, lớp sau lấp lớp trước (7.34)`"]
+  n10 --- n12
+  n13["`Nhìn từ trên cao: cưới hỏi, toà án, chợ phiên là bản hoà âm của những thứ đối nghịch (7.48)`"]
+  n10 --- n13
+  n14["`Mục 7.5, 7.7, 7.9, 7.13, 7.55 — Mọi thứ liên kết, ta là một chi của cơ thể chung`"]
+  n0 --- n14
+  n15["`Mạng lưới thiêng liêng (7.9)`"]
+  n14 --- n15
+  n16["`Một thế giới, một thần tính, một chất liệu, một luật (logos), một chân lý`"]
+  n15 --- n16
+  n17["`Melos (chi) chứ không chỉ meros (phần) (7.13)`"]
+  n14 --- n17
+  n18["`Coi mình là phần rời thì giúp người chỉ là làm bổn phận`"]
+  n17 --- n18
+  n19["`Coi mình là chi của một cơ thể thì giúp người là giúp chính mình, nên tự nó là niềm vui`"]
+  n17 --- n19
+  n20["`Việc chính của con người (7.55)`"]
+  n14 --- n20
+  n21["`Thứ thấp tồn tại vì thứ cao, các sinh vật có lý trí tồn tại vì nhau`"]
+  n20 --- n21
+  n22["`Ba điều cốt lõi: sống cùng người khác, không làm nô lệ cho thân xác, không nóng vội và cả tin`"]
+  n20 --- n22
+  n23["`Không vì cái tôi`"]
+  n14 --- n23
+  n24["`Không đủ sức thì nhường việc cho người giỏi hơn hoặc phối hợp vì lợi ích chung (7.5)`"]
+  n23 --- n24
+  n25["`Không xấu hổ khi cần giúp, như lính công thành bị thương cần đồng đội kéo lên (7.7)`"]
+  n23 --- n25
+  n26["`Mục 7.2, 7.14–7.17a, 7.58, 7.61, 7.68 — Tâm trí chỉ bị hại bởi chính nó`"]
+  n0 --- n26
+  n27["`Không diễn giải là có hại (7.14)`"]
+  n26 --- n27
+  n28["`Điều xảy đến chỉ hại ta khi ta phán nó có hại, và không phán vậy là quyền của ta`"]
+  n27 --- n28
+  n29["`Tâm trí không tự cản đường mình (7.16)`"]
+  n26 --- n29
+  n30["`Không thiếu gì trừ nhu cầu tự tạo, không bị cản trừ trở ngại bên trong`"]
+  n29 --- n30
+  n31["`Thân thể đau thì cứ để nó lên tiếng; phần phán đoán không buộc phải kết luận là tai hoạ`"]
+  n29 --- n31
+  n32["`Kỹ thuật giữ phần chỉ huy`"]
+  n26 --- n32
+  n33["`Nguyên tắc sống nhen lại được như thổi than hồng thành lửa (7.2)`"]
+  n32 --- n33
+  n34["`Nói với ấn tượng lệch như khách không mời: ta không giận, cứ đi đi (7.17a)`"]
+  n32 --- n34
+  n35["`Ngọc lục bảo vẫn giữ màu dù ai khen chê; việc của ta là làm người tốt (7.15)`"]
+  n32 --- n35
+  n36["`Hoàn cảnh là nguyên liệu thô`"]
+  n26 --- n36
+  n37["`Sự kiện là nguyên liệu cho hành động, là dịp ta đang chờ để rèn đức hạnh (7.58, 7.68)`"]
+  n36 --- n37
+  n38["`Sống như lực sĩ vật đứng vững chờ đòn bất ngờ, không như vũ công biết trước bước nhảy (7.61)`"]
+  n36 --- n38
+  n39["`Mục 7.22, 7.26, 7.62–7.65, 7.70–7.74 — Đối xử với người làm sai`"]
+  n0 --- n39
+  n40["`Hỏi: họ nghĩ điều gì là tốt? (7.26)`"]
+  n39 --- n40
+  n41["`Nếu ta nghĩ giống họ thì ở vị trí họ ta cũng làm vậy, nên phải tha thứ`"]
+  n40 --- n41
+  n42["`Nếu ta nghĩ khác thì họ là người lạc lối, càng đáng thương`"]
+  n40 --- n42
+  n43["`Nhớ bốn điều (7.22)`"]
+  n39 --- n43
+  n44["`Họ là đồng loại, họ sai vì không biết, cả hai sắp chết, họ không làm hỏng được khả năng lựa chọn của ta`"]
+  n43 --- n44
+  n45["`Plato: không linh hồn nào tự nguyện bị tước chân lý, công lý, lòng tốt (7.63)`"]
+  n43 --- n45
+  n46["`Hệ quả thực hành`"]
+  n39 --- n46
+  n47["`Mong người khác hết xấu là không làm được; tránh thói xấu của mình thì làm được (7.71)`"]
+  n46 --- n47
+  n48["`Thần linh bất tử còn chịu đựng và chăm lo cho con người (7.70)`"]
+  n46 --- n48
+  n49["`Đừng đối xử với kẻ tàn bạo theo cách chúng đối xử người khác (7.65)`"]
+  n46 --- n49
+  n50["`Giúp người rồi còn đòi được ghi công hay đền đáp là ngớ ngẩn (7.73, 7.74)`"]
+  n46 --- n50
+  n51["`Mục 7.32, 7.33, 7.35–7.51a, 7.56, 7.64, 7.69 — Chết và đau qua lời người xưa`"]
+  n0 --- n51
+  n52["`Chuỗi trích dẫn 7.35–7.51a là sổ tay học thuộc`"]
+  n51 --- n52
+  n53["`Chép từ Plato, Antisthenes, Euripides và các nhà bi kịch, nhiều khả năng qua bài giảng của Epictetus`"]
+  n52 --- n53
+  n54["`Câu 7.41 về thần linh bỏ mặc người cha và hai đứa con là thơ Euripides, không phải lời Marcus`"]
+  n52 --- n54
+  n55["`Cái chết không đáng sợ`"]
+  n51 --- n55
+  n56["`Vũ trụ là nguyên tử thì chết là tan rã, là một thể thống nhất thì chết là đổi dạng (7.32)`"]
+  n55 --- n56
+  n57["`Socrates trước toà chỉ hỏi việc mình làm đúng hay sai, giữ vị trí như người lính (7.44, 7.45)`"]
+  n55 --- n57
+  n58["`Gorgias của Plato: đừng bám số năm, hãy sống tốt phần đời còn lại (7.46)`"]
+  n55 --- n58
+  n59["`Đau đớn chịu được`"]
+  n51 --- n59
+  n60["`Mượn Epicurus: đau không chịu nổi thì sớm hết, đau kéo dài thì chịu được (7.33, 7.64)`"]
+  n59 --- n60
+  n61["`Cáu vì sốt, chóng mặt, chán ăn thì gọi đúng tên: ta đang đầu hàng cơn đau (7.64)`"]
+  n59 --- n61
+  n62["`Thông điệp xuyên suốt`"]
+  n0 --- n62
+  n63["`Sự kiện không hại được ta; chỉ phán đoán của ta làm ta khổ`"]
+  n62 --- n63
+  n64["`Người làm sai là người lầm lạc: hiểu, thương và tha, rồi lo sửa lỗi của mình`"]
+  n62 --- n64
+  n65["`Coi như đã chết, phần đời còn lại là phần tặng thêm; sống mỗi ngày như ngày cuối (7.56, 7.69)`"]
+  n62 --- n65
+  class n0 root
+  class n1,n14,n26,n39,n51,n62 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n63,n64,n65 leaf
+```

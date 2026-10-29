@@ -510,3 +510,155 @@ Mục 11.3 là bằng chứng hiếm hoi về thái độ của Marcus với Cơ
 - **Trong đầu tư:** điều (vii) và 11.16 áp dụng trực tiếp cho cơn giận với thị trường. Khi cổ phiếu giảm mạnh vì "lái" hay vì tin đồn, phản ứng giận dữ (bán tháo, hoặc gồng lỗ để "trả thù") là phản ứng với phán đoán "điều này thật bất công", không phải với giá trị doanh nghiệp. Điều (x) là lời nhắc thực tế: kỳ vọng thị trường chứng khoán Việt Nam không có thao túng là đòi điều không thể; việc của nhà đầu tư là thiết kế danh mục và quy mô vị thế chịu được điều đó.
 - **Phân tích thành phần (11.2) cho quyết định chi tiêu:** một chiếc xe sang hay một căn hộ "đẳng cấp" được tách thành từng thành phần: bao nhiêu tiền cho công năng, bao nhiêu cho logo, bao nhiêu cho cảm giác được người khác nhìn. Phần nào còn hấp dẫn sau khi tách là phần thật sự đáng trả tiền.
 - **Mục đích nhất quán (11.21) cho kế hoạch tài chính:** người có mục tiêu tài chính rõ ràng và gắn với điều lớn hơn bản thân (nuôi dạy con, độc lập để làm việc có ích) ít bị cuốn theo các trào lưu đầu tư (tiền số, đất nền "sốt") hơn người có mục tiêu mơ hồ là "giàu nhanh". Mục tiêu nhất quán làm cho quyết định nhất quán.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 11 trên một trang: năm nhánh lớn theo các cụm mục của bản gốc (linh hồn lý trí tự hoàn tất, phán đoán do ta viết lên, cái cây chung và vị trí trong toàn thể, mười điều nhớ khi nổi giận ở 11.18, sổ trích dẫn 11.22–11.39), mỗi nhánh ghi luận điểm, hình ảnh và câu trích then chốt kèm số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 11: linh hồn lý trí trọn vẹn ở mọi lúc; giận là tự cắt mình khỏi cây chung, và phán đoán gây giận là do ta viết lên nên xoá được`"]
+  n1["`Mục 11.1, 11.3, 11.7, 11.12 — Linh hồn lý trí tự hoàn tất`"]
+  n0 --- n1
+  n2["`Ba điều chỉ linh hồn lý trí có (11.1)`"]
+  n1 --- n2
+  n3["`Tự thấy mình, tự phân tích mình, tự làm mình thành điều nó muốn`"]
+  n2 --- n3
+  n4["`Tự thu hoạch mùa màng của mình; cây trồng và gia súc thì kẻ khác hưởng`"]
+  n2 --- n4
+  n5["`Trọn vẹn dù đời bị cắt ở đâu; điệu múa, vở kịch bị ngắt thì dở dang`"]
+  n2 --- n5
+  n6["`Thấy đủ và sống đúng`"]
+  n1 --- n6
+  n7["`Ai sống 40 năm với đầu óc bình thường đã thấy mọi thứ, vì các chu kỳ lặp lại (11.1)`"]
+  n6 --- n7
+  n8["`Lý trí đúng đắn và công lý là một (11.1)`"]
+  n6 --- n8
+  n9["`Không có hoàn cảnh nào tốt hơn hoàn cảnh hiện tại để thực hành triết học (11.7)`"]
+  n6 --- n9
+  n10["`Linh hồn là khối cầu cân bằng (11.12)`"]
+  n1 --- n10
+  n11["`Không vươn ra nắm ngoại vật, không co rút, không bung tán, không sụp xuống`"]
+  n10 --- n11
+  n12["`Sẵn sàng rời thân xác vì suy xét (11.3)`"]
+  n1 --- n12
+  n13["`Không vì đối kháng thuần tuý hay phô diễn; lần duy nhất nhắc Cơ Đốc nhân, có thể do người chép thêm`"]
+  n12 --- n13
+  n14["`Mục 11.2, 11.11, 11.16, 11.17, 11.19 — Phán đoán do ta viết lên`"]
+  n0 --- n14
+  n15["`Phân tích thành phần (11.2)`"]
+  n14 --- n15
+  n16["`Chia bài hát thành từng nốt và hỏi ta có bị nốt này chinh phục không`"]
+  n15 --- n16
+  n17["`Làm vậy với điệu múa, trận võ pankration, cả đời; trừ đức hạnh`"]
+  n15 --- n17
+  n18["`Sự vật đứng yên bên ngoài`"]
+  n14 --- n18
+  n19["`Ngoại vật không tìm đến ta; chính ta chạy theo hay chạy trốn chúng (11.11)`"]
+  n18 --- n19
+  n20["`Ta tự viết phán đoán lên mình; có thể giữ trang giấy trắng, lỡ có vết thì xoá ngay (11.16)`"]
+  n18 --- n20
+  n21["`Mất đi chỉ là đổi dạng, sự biến đổi không làm vật chịu hại (11.17)`"]
+  n18 --- n21
+  n22["`Bốn thói quen trí óc phải xoá (11.19)`"]
+  n14 --- n22
+  n23["`Ý nghĩ không cần thiết và ý nghĩ làm rạn liên kết xã hội`"]
+  n22 --- n23
+  n24["`Nói điều mình không thật nghĩ; để phần thiêng bị khoái lạc của thân xác đánh bại`"]
+  n22 --- n24
+  n25["`Mục 11.4, 11.8, 11.9, 11.13–11.15, 11.20, 11.21 — Cái cây chung và vị trí trong toàn thể`"]
+  n0 --- n25
+  n26["`Cành cây bị cắt (11.8)`"]
+  n25 --- n26
+  n27["`Cành lìa cành bên cạnh là lìa cả cây; người lìa một người là lìa cả cộng đồng`"]
+  n26 --- n27
+  n28["`Cành bị người khác cắt, con người tự cắt mình bằng thù ghét`"]
+  n26 --- n28
+  n29["`Zeus cho con người tự ghép lại được, nhưng cắt nhiều lần thì khó liền`"]
+  n26 --- n29
+  n30["`Giữ cả hai mục tiêu (11.9)`"]
+  n25 --- n30
+  n31["`Không bỏ việc đúng vì người cản đường, cũng không mất thiện ý với họ`"]
+  n30 --- n31
+  n32["`Giận là yếu đuối, ngang bỏ cuộc vì sợ; cả hai đều là đào ngũ`"]
+  n30 --- n32
+  n33["`Việc của họ, việc của ta (11.13)`"]
+  n25 --- n33
+  n34["`Ai khinh ta là việc của họ; việc của ta là không làm gì đáng khinh`"]
+  n33 --- n34
+  n35["`Thẳng thắn thật thì lộ trong mắt; tình bạn giả dối như của chó sói là tệ nhất (11.15)`"]
+  n33 --- n35
+  n36["`Giữ vị trí được giao`"]
+  n25 --- n36
+  n37["`Lửa, khí, đất, nước còn giữ vị trí; chỉ trí tuệ không bị ép mà lại bất mãn (11.20)`"]
+  n36 --- n37
+  n38["`Đời chỉ nhất quán khi có một mục đích chung của người công dân (11.21)`"]
+  n36 --- n38
+  n39["`Mục 11.18 — Chín điều và điều thứ mười khi nổi giận`"]
+  n0 --- n39
+  n40["`Nhìn lại quan hệ và con người`"]
+  n39 --- n40
+  n41["`(i) Ta và họ sinh ra vì nhau, ta còn là người dẫn dắt họ`"]
+  n40 --- n41
+  n42["`(ii) Nhớ họ khi ăn, khi ngủ, bị quan niệm của chính họ chi phối ra sao`"]
+  n40 --- n42
+  n43["`Nhìn lại hiểu biết`"]
+  n39 --- n43
+  n44["`(iii) Họ đúng thì không được trách; sai thì vì không biết, không cố ý`"]
+  n43 --- n44
+  n45["`(iv) Chính ta cũng sai; lỗi ta tránh được có khi chỉ vì sợ mang tiếng`"]
+  n43 --- n45
+  n46["`(v) Ta chưa chắc họ sai; nhiều việc là phương tiện cho một đích khác`"]
+  n43 --- n46
+  n47["`Nhìn lại cái giá`"]
+  n39 --- n47
+  n48["`(vi) Đời ngắn, chẳng bao lâu tất cả nằm dưới đất`"]
+  n47 --- n48
+  n49["`(vii) Không phải việc họ làm khiến ta khổ mà là phán đoán của ta`"]
+  n47 --- n49
+  n50["`(viii) Giận và buồn hại ta hơn cái gây ra chúng`"]
+  n47 --- n50
+  n51["`Hành động thay thế`"]
+  n39 --- n51
+  n52["`(ix) Lòng tốt chân thành là vô địch; sửa họ nhẹ nhàng, nói riêng, không lên lớp`"]
+  n51 --- n52
+  n53["`(x) Từ Apollo: đòi kẻ xấu không làm sai là đòi điều không thể`"]
+  n51 --- n53
+  n54["`Không giận cũng không nịnh; nhã nhặn mới là sức mạnh`"]
+  n51 --- n54
+  n55["`Mục 11.22–11.39 — Sổ trích dẫn người xưa và Epictetus`"]
+  n0 --- n55
+  n56["`Gương người xưa (11.22–11.29)`"]
+  n55 --- n56
+  n57["`Chuột thành phố sung túc mà sợ hãi, chuột đồng quê đạm bạc mà yên (Aesop)`"]
+  n56 --- n57
+  n58["`Socrates: dư luận đám đông chỉ là ông kẹ doạ trẻ con (11.23)`"]
+  n56 --- n58
+  n59["`Phái Pythagoras ngắm sao lúc rạng đông, vì sao làm đúng việc mình, không che giấu (11.27)`"]
+  n56 --- n59
+  n60["`Từ Epictetus (11.33–11.39)`"]
+  n55 --- n60
+  n61["`Hôn con mà nghĩ mai nó có thể chết không phải lời gở, chỉ là nói về việc của tự nhiên (11.34)`"]
+  n60 --- n61
+  n62["`Nho xanh, chín, khô: không phải thành không có mà thành chưa có (11.35)`"]
+  n60 --- n62
+  n63["`Không ai cướp được ý chí tự do của ta; phải học nghệ thuật chấp thuận (11.36, 11.37)`"]
+  n60 --- n63
+  n64["`Socrates: đã có lý trí lành mạnh thì sao còn bất hoà với nhau (11.39)`"]
+  n60 --- n64
+  n65["`Thông điệp xuyên suốt`"]
+  n0 --- n65
+  n66["`Cái tốt của con người nằm trọn trong lý trí và công lý, không tăng theo thời gian`"]
+  n65 --- n66
+  n67["`Không kìm nén cơn giận mà tấn công phán đoán sinh ra nó`"]
+  n65 --- n67
+  n68["`Gắn bó với người khác không đòi phải đồng ý với họ; sửa họ bằng thiện ý`"]
+  n65 --- n68
+  class n0 root
+  class n1,n14,n25,n39,n55,n65 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59,n60,n61,n62,n63,n64,n66,n67,n68 leaf
+```

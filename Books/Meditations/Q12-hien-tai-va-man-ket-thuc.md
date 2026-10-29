@@ -510,3 +510,153 @@ Nỗi sợ thường gặp nhất về cái chết không phải là sợ đau m
 - **Bốn câu hỏi (12.18) trước một khoản chi lớn:** món này do đâu mà mình muốn (quảng cáo, so sánh với bạn bè)? Thực chất là gì? Để làm gì? Giá trị của nó tồn tại bao lâu? Câu cuối đặc biệt hữu ích với hàng tiêu dùng mất giá nhanh như xe hơi hay điện thoại cao cấp.
 - **12.4 cho người làm công:** nếu bạn sợ đồng nghiệp nghĩ gì về mình hơn là tự hỏi mình có làm tốt việc không, bạn đang trao quyền đánh giá bản thân cho người khác. Một phép thử: viết ra điều bạn tự đánh giá về công việc tuần này trước khi đọc nhận xét của sếp.
 - **Sợ chưa bao giờ sống đúng (12.1) cho kế hoạch đời:** câu này đảo ngược cách lập kế hoạch nghỉ hưu thông thường. Thay vì chỉ hỏi "tôi có đủ tiền để sống đến 85 tuổi không?", hãy hỏi thêm "nếu tôi chỉ sống đến 55, tôi có tiếc vì đã hoãn mọi điều quan trọng không?". Một kế hoạch tài chính tốt trả lời được cả hai câu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 12 trên một trang: năm nhánh lớn theo các cụm mục của bản gốc (sống ngay bây giờ bằng tâm trí, dù vũ trụ là gì vẫn bình thản, bộ công cụ phân tích, phán đoán và người làm sai, cái chết và màn kết), mỗi nhánh ghi luận điểm, hình ảnh và ví dụ then chốt kèm số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 12: chỉ tâm trí là của ta và nó sống ở hiện tại; dù vũ trụ là gì vẫn làm điều đúng, rồi rời sân khấu thanh thản`"]
+  n1["`Mục 12.1–12.4, 12.9, 12.19, 12.33 — Sống ngay bây giờ bằng tâm trí`"]
+  n0 --- n1
+  n2["`Mọi thứ ta tìm bằng đường vòng đều có ngay bây giờ (12.1)`"]
+  n1 --- n2
+  n3["`Điều kiện: buông quá khứ, giao tương lai cho thần linh, dùng hiện tại cho kính trọng thần linh và công lý`"]
+  n2 --- n3
+  n4["`Hãy sợ chưa bao giờ bắt đầu sống đúng, đừng sợ đời kết thúc`"]
+  n2 --- n4
+  n5["`Ba phần của con người (12.3)`"]
+  n1 --- n5
+  n6["`Thân thể và hơi thở chỉ được giao giữ; chỉ tâm trí thật sự là của ta`"]
+  n5 --- n6
+  n7["`Tách tâm trí khỏi việc người khác, quá khứ, nỗi sợ tương lai thì thành khối cầu của Empedocles`"]
+  n5 --- n7
+  n8["`Tâm trí tự do chỉ làm ba việc: làm điều đúng, chấp nhận điều xảy ra, nói sự thật`"]
+  n5 --- n8
+  n9["`Nguyên tắc phải thành phản xạ`"]
+  n1 --- n9
+  n10["`Như võ sĩ pankration luôn có sẵn nắm đấm, không như đấu sĩ phải cầm kiếm lên (12.9)`"]
+  n9 --- n10
+  n11["`Trong ta có thứ mạnh hơn những sợi dây sợ hãi, ghen tị, ham muốn giật ta như con rối (12.19)`"]
+  n9 --- n11
+  n12["`Cách phần chỉ huy tự dùng chính nó là tất cả; mọi thứ khác là tro và khói (12.33)`"]
+  n9 --- n12
+  n13["`Yêu mình nhưng sợ ý kiến người (12.4)`"]
+  n1 --- n13
+  n14["`Ai cũng yêu bản thân hơn người khác mà lại coi ý kiến người về mình nặng hơn ý kiến mình`"]
+  n13 --- n14
+  n15["`Mục 12.5, 12.12–12.14, 12.24, 12.28 — Dù vũ trụ là gì, vẫn có lý do bình thản`"]
+  n0 --- n15
+  n16["`Ba khả năng (12.14)`"]
+  n15 --- n16
+  n17["`Định mệnh tất yếu thì chống lại làm gì`"]
+  n16 --- n17
+  n18["`Quan phòng có thể cầu khẩn thì sống cho xứng với sự giúp đỡ`"]
+  n16 --- n18
+  n19["`Hỗn loạn không ai cai quản thì mừng vì giữa bão ta có tâm trí dẫn đường`"]
+  n16 --- n19
+  n20["`Bão cuốn được thân và hơi thở, không cuốn được tâm trí`"]
+  n16 --- n20
+  n21["`Không ai đáng trách`"]
+  n15 --- n21
+  n22["`Thần linh không làm sai; con người sai vì không biết, không cố ý (12.12)`"]
+  n21 --- n22
+  n23["`Ngạc nhiên trước chuyện đời như du khách lạ phong tục là lố bịch (12.13)`"]
+  n21 --- n23
+  n24["`Câu hỏi khó về thần linh`"]
+  n15 --- n24
+  n25["`Người tốt chết là hết thì hẳn phải như vậy mới đúng, vì thần linh công bằng (12.5)`"]
+  n24 --- n25
+  n26["`Chưa thấy linh hồn mình mà vẫn tôn trọng nó, thần linh cũng vậy (12.28)`"]
+  n24 --- n26
+  n27["`Mục 12.18, 12.24, 12.27, 12.32 — Bộ công cụ phân tích`"]
+  n0 --- n27
+  n28["`Bốn câu hỏi (12.18)`"]
+  n27 --- n28
+  n29["`Nó do đâu mà có, làm bằng gì, để làm gì, tồn tại bao lâu`"]
+  n28 --- n29
+  n30["`Nhìn từ trên cao (12.24)`"]
+  n27 --- n30
+  n31["`Được nâng vụt lên thấy mọi việc người đều nhỏ bé, cùng một dạng, ngắn ngủi; thế mà người ta kiêu hãnh`"]
+  n30 --- n31
+  n32["`Danh sách người đã qua (12.27)`"]
+  n27 --- n32
+  n33["`Fabius Catullinus, Lusius Lupus, Stertinius ở Baiae, Tiberius ở Capri giờ chỉ còn tro hoặc một giai thoại`"]
+  n32 --- n33
+  n34["`Không gì khó chịu hơn sự kiêu ngạo đội lốt khiêm tốn`"]
+  n32 --- n34
+  n35["`Phần nhỏ được phân (12.32)`"]
+  n27 --- n35
+  n36["`Ta chỉ được một mẩu thời gian, vật chất, linh hồn và một cục đất nhỏ để bò trên đó`"]
+  n35 --- n36
+  n37["`Chỉ coi trọng làm điều bản tính đòi và chấp nhận điều tự nhiên mang đến`"]
+  n35 --- n37
+  n38["`Mục 12.8, 12.16, 12.17, 12.22, 12.25, 12.26, 12.29, 12.30 — Phán đoán và người làm sai`"]
+  n0 --- n38
+  n39["`Mọi thứ là phán đoán`"]
+  n38 --- n39
+  n40["`Không ai cản ta thật sự; mọi bất an là do phán đoán (12.8)`"]
+  n39 --- n40
+  n41["`Gạt phán đoán đi như thuyền vòng qua mũi đất, gặp vịnh lặng không sóng (12.22, 12.25)`"]
+  n39 --- n41
+  n42["`Khi bực bội là ta đã quên (12.26)`"]
+  n38 --- n42
+  n43["`Mọi việc theo tự nhiên toàn thể; lỗi người khác không phải việc của ta`"]
+  n42 --- n43
+  n44["`Người với người gắn nhau không bởi máu mủ mà bởi cùng chia một tâm trí`"]
+  n42 --- n44
+  n45["`Mỗi người chỉ sống trong hiện tại và cũng chỉ mất hiện tại`"]
+  n42 --- n45
+  n46["`Khi có người dường như làm sai (12.16)`"]
+  n38 --- n46
+  n47["`Trước hết hỏi: làm sao ta biết chắc đó là sai`"]
+  n46 --- n47
+  n48["`Mong kẻ xấu không làm sai như mong cây vả không có nhựa, trẻ sơ sinh không khóc`"]
+  n46 --- n48
+  n49["`Quy tắc sống`"]
+  n38 --- n49
+  n50["`Không đúng thì đừng làm, không thật thì đừng nói (12.17)`"]
+  n49 --- n50
+  n51["`Nối việc tốt này với việc tốt khác, không để kẽ hở (12.29)`"]
+  n49 --- n51
+  n52["`Mục 12.15, 12.23, 12.31, 12.34–12.36 — Cái chết và màn kết`"]
+  n0 --- n52
+  n53["`Dừng đúng lúc không phải điều xấu (12.23)`"]
+  n52 --- n53
+  n54["`Một hành động dừng đúng lúc không bị hại; đời là chuỗi hành động nên cũng vậy`"]
+  n53 --- n54
+  n55["`Lúc dừng do tự nhiên định, và cái có ích cho toàn thể thì hợp thời`"]
+  n53 --- n55
+  n56["`Không cần sợ chết`"]
+  n52 --- n56
+  n57["`Ngay phái Epicurus coi khoái lạc là tốt cũng coi khinh cái chết (12.34)`"]
+  n56 --- n57
+  n58["`Ai chỉ coi cái hợp thời là tốt thì sống dài hay ngắn như nhau (12.35)`"]
+  n56 --- n58
+  n59["`Ngọn đèn sáng tới lúc tắt; đừng để công lý trong ta tắt trước (12.15)`"]
+  n56 --- n59
+  n60["`Vở kịch ba màn (12.36)`"]
+  n52 --- n60
+  n61["`Công dân thành phố vũ trụ: sống 5 năm hay 100 năm đều theo cùng một luật`"]
+  n60 --- n61
+  n62["`Người đưa ta ra là tự nhiên đã đưa ta vào, không phải bạo chúa hay quan toà bất lương`"]
+  n60 --- n62
+  n63["`Diễn viên kêu mới diễn ba màn, nhưng với đời người ba màn là trọn vở; hãy ra đi thanh thản`"]
+  n60 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Bình thản trước kết quả, nghiêm khắc với hành động của chính mình`"]
+  n64 --- n65
+  n66["`Lặp lại các bài tập cũ cho tới khi chúng thành phản xạ`"]
+  n64 --- n66
+  n67["`Đời trọn vẹn ở bất cứ điểm nào nó dừng, nếu từng hành động đúng lúc`"]
+  n64 --- n67
+  class n0 root
+  class n1,n15,n27,n38,n52,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67 leaf
+```

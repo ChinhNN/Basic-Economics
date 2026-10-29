@@ -485,3 +485,157 @@ Bài học của 9.42 rất cụ thể cho người làm tài chính và quản 
 - **Không đòi đền ơn (9.42).** Người làm lãnh đạo hay đỡ đầu dễ thất vọng khi người mình nâng đỡ chuyển việc. Nếu coi việc giúp người là chức năng của mình, như mắt nhìn, thì thất vọng ấy biến mất, và ta vẫn tiếp tục giúp những người tiếp theo.
 - **Đừng mơ cộng hoà của Plato (9.29).** Trong một dự án cải cách quy trình hay chuyển đổi số, thay vì chờ điều kiện lý tưởng, hãy làm bước nhỏ nhất có thể ngay bây giờ và chấp nhận rằng không ai ghi công.
 - **Cầu nguyện kiểu 9.40 cho nhà đầu tư.** Thay vì "mong cổ phiếu tăng" (không thuộc quyền ta), hãy "mong mình không bán tháo khi nó giảm và không mua đuổi khi nó tăng" (thuộc quyền ta). Đây là cách chuyển mục tiêu từ kết quả sang kỷ luật, điều mà mọi nghiên cứu tài chính hành vi đều chỉ ra là yếu tố quyết định lợi nhuận dài hạn của nhà đầu tư cá nhân.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 9 trên một trang: sáu nhánh lớn theo sáu cụm mục của bản gốc (bất công là báng bổ, bản tính cộng đồng, phiền nhiễu nằm trong nhận thức, cái chết và biến đổi, đối xử với người làm sai, trí tuệ hay nguyên tử và lời cầu nguyện), mỗi nhánh ghi lập luận, hình ảnh và ví dụ then chốt kèm số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 9: bất công là báng bổ vì Tự nhiên tạo sinh vật lý trí để giúp nhau; phiền nhiễu nằm trong phán đoán, kẻ làm sai là tất yếu`"]
+  n1["`Mục 9.1, 9.4, 9.5, 9.31 — Bất công là báng bổ`"]
+  n0 --- n1
+  n2["`Bốn dạng báng bổ (9.1)`"]
+  n1 --- n2
+  n3["`Bất công phá đúng mục đích giúp nhau của Tự nhiên`"]
+  n2 --- n3
+  n4["`Nói dối cố ý là lừa gạt, tức bất công; Tự nhiên cũng là Chân lý`"]
+  n2 --- n4
+  n5["`Nói sai mà không biết làm rối trật tự, vì đã bỏ phí khả năng phân biệt thật giả`"]
+  n2 --- n5
+  n6["`Coi khoái lạc là thiện, đau là ác thì sẽ trách Tự nhiên, sợ điều tất yếu và làm sai để hưởng khoái lạc`"]
+  n2 --- n6
+  n7["`Tự nhiên không kén chọn`"]
+  n1 --- n7
+  n8["`Khoái lạc và đau, sống và chết, danh và vô danh đến với bất kỳ ai theo chuỗi nhân quả của Thiên ý`"]
+  n7 --- n8
+  n9["`Muốn sống thuận Tự nhiên thì ta cũng phải coi chúng như nhau`"]
+  n7 --- n9
+  n10["`Hệ quả`"]
+  n1 --- n10
+  n11["`Làm sai là tự hại mình, vì tự làm mình mất phẩm giá (9.4)`"]
+  n10 --- n11
+  n12["`Không làm gì trước điều sai cũng có thể là bất công (9.5)`"]
+  n10 --- n12
+  n13["`Dửng dưng với điều bên ngoài, công chính trong việc mình làm (9.31)`"]
+  n10 --- n13
+  n14["`Mục 9.8, 9.9, 9.23 — Bản tính cộng đồng: cái giống hút cái giống`"]
+  n0 --- n14
+  n15["`Bậc thang gắn kết (9.9)`"]
+  n14 --- n15
+  n16["`Vật chất và động vật: đất hút về đất, lửa bốc về lửa, thú sống thành bầy`"]
+  n15 --- n16
+  n17["`Sinh vật lý trí: nhà nước, tình bạn, gia đình, hiệp ước; các vì sao gắn kết dù ở rất xa`"]
+  n15 --- n17
+  n18["`Nghịch lý của con người (9.9)`"]
+  n14 --- n18
+  n19["`Chỉ con người quên khuynh hướng tìm về đồng loại`"]
+  n18 --- n19
+  n20["`Nhưng tìm một người hoàn toàn tách khỏi loài người còn khó hơn tìm vật bằng đất không chạm đất`"]
+  n18 --- n20
+  n21["`Mỗi hành động là một phần đời sống chung (9.23)`"]
+  n14 --- n21
+  n22["`Hành động không hướng về lợi ích chung làm rách đời sống chung, như nghị viên lập bè phái`"]
+  n21 --- n22
+  n23["`Mục 9.13–9.18, 9.26, 9.30, 9.32, 9.36 — Phiền nhiễu nằm trong nhận thức`"]
+  n0 --- n23
+  n24["`Sự vật câm lặng (9.15)`"]
+  n23 --- n24
+  n25["`Sự vật đứng ngoài cửa, không tự nói chúng là gì; chính phần chỉ huy dán nhãn tốt xấu`"]
+  n24 --- n25
+  n26["`Vứt bỏ chứ không chờ thoát khỏi (9.13)`"]
+  n23 --- n26
+  n27["`Hôm nay ta không thoát lo âu mà vứt nó đi, vì nó nằm trong phán đoán`"]
+  n26 --- n27
+  n28["`Khổ kéo dài vì không để phần chỉ huy làm đúng chức năng của nó (9.26)`"]
+  n26 --- n28
+  n29["`Thiện ác nằm ở hành động`"]
+  n23 --- n29
+  n30["`Thiện ác của sinh vật lý trí nằm ở việc nó làm, không ở việc nó chịu (9.16)`"]
+  n29 --- n30
+  n31["`Hòn đá ném lên: rơi xuống không xấu, bay lên không tốt (9.17)`"]
+  n29 --- n31
+  n32["`Bài tập dọn chỗ trong tâm trí`"]
+  n23 --- n32
+  n33["`Nghĩ tới độ rộng vũ trụ, thời gian vô tận, tốc độ biến đổi, khoảng ngắn giữa sinh và tử (9.32)`"]
+  n32 --- n33
+  n34["`Nhìn từ trên cao: bao người không biết tên ta, người đang khen sẽ sớm chê (9.30)`"]
+  n32 --- n34
+  n35["`Mục 9.2, 9.3, 9.19, 9.21, 9.28, 9.33, 9.35 — Cái chết và biến đổi`"]
+  n0 --- n35
+  n36["`Chết là một việc của tự nhiên (9.3)`"]
+  n35 --- n36
+  n37["`Như thay răng, mọc râu, bạc tóc, mang thai, sinh nở`"]
+  n36 --- n37
+  n38["`Chờ chết không hờ hững, không sốt ruột, không khinh miệt, như chờ đứa bé ra khỏi bụng mẹ`"]
+  n36 --- n38
+  n39["`Những cái chết nhỏ (9.21)`"]
+  n35 --- n39
+  n40["`Thơ ấu, thiếu niên, thanh niên, tuổi già; các chặng đời dưới ông nội, mẹ, cha nuôi đều đã kết thúc`"]
+  n39 --- n40
+  n41["`Không lần kết thúc nào đáng sợ, nên cái chết cuối cũng vậy`"]
+  n39 --- n41
+  n42["`Mất mát là biến đổi`"]
+  n35 --- n42
+  n43["`Tự nhiên vui thích trong biến đổi và tạo cái mới từ cái cũ (9.35)`"]
+  n42 --- n43
+  n44["`Trước thời gian vô tận, chết già chẳng hơn chết trẻ (9.33)`"]
+  n42 --- n44
+  n45["`Mục 9.11, 9.18, 9.20, 9.22, 9.27, 9.38, 9.42 — Đối xử với người làm sai`"]
+  n0 --- n45
+  n46["`Nhìn vào tâm trí họ`"]
+  n45 --- n46
+  n47["`Những người ta sợ bị phán xét thật ra tự phán xét bản thân kém cỏi (9.18, 9.27)`"]
+  n46 --- n47
+  n48["`Chắc gì họ đã sai; nếu sai thì cái hại nằm ở họ (9.38)`"]
+  n46 --- n48
+  n49["`Kẻ vô liêm sỉ là tất yếu (9.42)`"]
+  n45 --- n49
+  n50["`Thế giới không thể không có họ; đừng đòi điều không thể`"]
+  n49 --- n50
+  n51["`Tự nhiên trao phẩm cách đối trị: với ác tâm, sự tử tế là thuốc giải`"]
+  n49 --- n51
+  n52["`Kẻ thô lỗ làm việc thô lỗ thì có gì lạ; trách mình vì đã không lường trước`"]
+  n49 --- n52
+  n53["`Dạy họ hoặc kiên nhẫn (9.11)`"]
+  n45 --- n53
+  n54["`Thần linh vẫn cho kẻ xấu sức khoẻ, của cải, danh tiếng; ta cũng làm được`"]
+  n53 --- n54
+  n55["`Giúp người là chức năng (9.42)`"]
+  n45 --- n55
+  n56["`Mắt không đòi công vì nhìn, chân không đòi công vì bước`"]
+  n55 --- n56
+  n57["`Mục 9.28, 9.29, 9.39, 9.40 — Trí tuệ hay nguyên tử, và lời cầu nguyện`"]
+  n0 --- n57
+  n58["`Hai giả thuyết về vũ trụ (9.28, 9.39)`"]
+  n57 --- n58
+  n59["`Nếu trí tuệ điều hành thì đón nhận; nếu là nguyên tử ngẫu nhiên thì đừng để mình cũng bừa bãi`"]
+  n58 --- n59
+  n60["`Trong cả hai trường hợp, việc của ta không đổi: sống công chính, không lo âu`"]
+  n58 --- n60
+  n61["`Cầu nguyện đúng cách (9.40)`"]
+  n57 --- n61
+  n62["`Thần không có quyền năng thì cầu làm gì; có thì hãy cầu cho mình hết sợ, hết thèm`"]
+  n61 --- n62
+  n63["`Đừng cầu con được cứu sống, hãy cầu không còn sợ mất con`"]
+  n61 --- n63
+  n64["`Bằng lòng với tiến bộ nhỏ (9.29)`"]
+  n57 --- n64
+  n65["`Đừng chờ nhà nước lý tưởng như Cộng hoà của Plato; làm ngay việc tự nhiên đòi hỏi`"]
+  n64 --- n65
+  n66["`Thông điệp xuyên suốt`"]
+  n0 --- n66
+  n67["`Lỗi đạo đức với người khác đồng thời là đi ngược ý chí của Tự nhiên`"]
+  n66 --- n67
+  n68["`Phiền nhiễu nằm trong phán đoán của ta nên ta vứt bỏ được`"]
+  n66 --- n68
+  n69["`Kỳ vọng thực tế về con người, giúp người mà không đòi trả, cầu cho mình đổi thay chứ không cho thế giới`"]
+  n66 --- n69
+  class n0 root
+  class n1,n14,n23,n35,n45,n57,n66 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n64,n65,n67,n68,n69 leaf
+```
