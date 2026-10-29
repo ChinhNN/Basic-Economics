@@ -570,7 +570,17 @@ Thuật toán Bellman-Ford giải bài toán một nguồn trong trường hợp
 
 Thuật toán nới lỏng các cạnh, giảm dần ước lượng v.d cho tới khi đạt δ(s, v). Nó trả về TRUE khi và chỉ khi đồ thị không có chu trình âm đi tới được từ nguồn.
 
-Bố cục trong hình gốc: s ở bên trái; t (trên) và y (dưới) ở cột giữa; x (trên) và z (dưới) ở cột phải. Giữa t và x có hai cạnh ngược chiều (t → x nặng 5, x → t nặng −2); hai cạnh chéo bắt chéo nhau là t → z (−4) và y → x (−3); t → y (8) đi thẳng xuống, y → z (9) đi ngang, z → x (7) đi thẳng lên, z → s (2) quay về nguồn.
+```text
+BELLMAN-FORD(G, w, s)
+1  INITIALIZE-SINGLE-SOURCE(G, s)
+2  for i = 1 to |G.V| − 1
+3      for each edge (u, v) ∈ G.E
+4          RELAX(u, v, w)
+5  for each edge (u, v) ∈ G.E
+6      if v.d > u.d + w(u, v)
+7          return FALSE
+8  return TRUE
+```
 
 Dòng 1: khởi tạo d và π. Dòng 2–4: |V| − 1 **lượt** (pass) qua các cạnh; mỗi lượt là một vòng của vòng for dòng 2–4 và nới lỏng mỗi cạnh một lần. Dòng 5–8: kiểm tra chu trình âm — nếu còn cạnh nào nới lỏng được thì trả về FALSE.
 
@@ -588,16 +598,15 @@ Dòng 1: khởi tạo d và π. Dòng 2–4: |V| − 1 **lượt** (pass) qua c�
 | x → t | −2 | z → s | 2 |
 | t → y | 8 | t → z | −4 |
 
+Bố cục trong hình gốc: s ở bên trái; t (trên) và y (dưới) ở cột giữa; x (trên) và z (dưới) ở cột phải. Giữa t và x có hai cạnh ngược chiều (t → x nặng 5, x → t nặng −2); hai cạnh chéo bắt chéo nhau là t → z (−4) và y → x (−3); t → y (8) đi thẳng xuống, y → z (9) đi ngang, z → x (7) đi thẳng lên, z → s (2) quay về nguồn.
+
 ```text
-                 6          5
-          ┌─────────▶ t ═════════ x        (t → x trọng số 5, x → t trọng số −2)
-          │         8 │ ╲ −4    ╱ ▲
-     s ───┤           ▼   ╲  ╱ −3 │ 7
-     ▲    │  7        y    ╳      │
-     │    └─────────▶ y ──╱─╲──▶ z
-     │                 9         │
-     └──────────── 2 ────────────┘     (z → s trọng số 2)
-     (hai cạnh chéo: t → z trọng số −4, y → x trọng số −3)
+   từ nguồn  :  s ──6──▶ t,   s ──7──▶ y
+   hàng trên :  t ⇄ x  (t→x 5, x→t −2)
+   hàng dưới :  y ──9──▶ z
+   dọc       :  t ──8──▶ y,   z ──7──▶ x
+   chéo      :  t ──(−4)──▶ z,   y ──(−3)──▶ x
+   quay về   :  z ──2──▶ s
 ```
 
 Mỗi lượt nới lỏng theo thứ tự: (t, x), (t, y), (t, z), (x, t), (y, x), (y, z), (z, x), (z, s), (s, t), (s, y).
@@ -627,9 +636,9 @@ Nhận xét: ở lượt 2 đỉnh x bị cập nhật hai lần (11 rồi 4) �
 *Chứng minh.* Giả sử G không có chu trình âm đi tới được từ s. Trước hết chứng minh khi kết thúc v.d = δ(s, v) với mọi v. Nếu v đi tới được từ s, Bổ đề 24.2 cho điều đó. Nếu không, tính chất không có đường cho điều đó. Tính chất đồ thị con liền trước cùng khẳng định này cho G_π là cây đường đi ngắn nhất. Giờ chứng minh thuật toán trả về TRUE: khi kết thúc, với mọi cạnh (u, v) ∈ E,
 
 ```text
-   thứ tự tô-pô (trái → phải):   r    s    t    x    y    z
-   cạnh giữa hai đỉnh liền kề:   r─5─▶s─2─▶t─7─▶x─(−1)─▶y─(−2)─▶z
-   cạnh "nhảy cóc":              r─3─▶t,  s─6─▶x,  t─4─▶y,  t─2─▶z,  x─1─▶z
+v.d = δ(s, v)
+    ≤ δ(s, u) + w(u, v)     (bất đẳng thức tam giác, Bổ đề 24.10)
+    = u.d + w(u, v)
 ```
 
 nên không phép kiểm tra nào ở dòng 6 khiến thuật toán trả về FALSE; nó trả về TRUE.
@@ -692,7 +701,13 @@ Sáu đỉnh đã xếp theo thứ tự tô-pô từ trái sang phải: r, s, t,
 | s → x | 6 | x → z | 1 |
 | t → x | 7 | y → z | −2 |
 
-Bố cục trong hình gốc: s ở bên trái; t (trên) và y (dưới) ở cột giữa; x (trên) và z (dưới) ở cột phải. Giữa t và y có hai cạnh ngược chiều (t → y nặng 2, y → t nặng 3), giữa x và z cũng vậy (x → z nặng 4, z → x nặng 6); cạnh chéo y → x nặng 9; t → x nặng 1 và y → z nặng 2 đi ngang; z → s nặng 7 quay về nguồn.
+Bố cục trong hình gốc: sáu đỉnh xếp thành một hàng ngang từ trái sang phải theo thứ tự tô-pô r, s, t, x, y, z. Năm cạnh nối hai đỉnh liền kề nằm trên hàng; năm cạnh "nhảy cóc" vẽ thành cung cong phía trên hoặc dưới hàng. Mọi cạnh đều đi từ trái sang phải.
+
+```text
+   thứ tự tô-pô (trái → phải):   r    s    t    x    y    z
+   cạnh giữa hai đỉnh liền kề:   r─5─▶s─2─▶t─7─▶x─(−1)─▶y─(−2)─▶z
+   cạnh "nhảy cóc":              r─3─▶t,  s─6─▶x,  t─4─▶y,  t─2─▶z,  x─1─▶z
+```
 
 | Bước | Đỉnh u được xử lý | Các thay đổi | r | s | t | x | y | z |
 |---|---|---|---|---|---|---|---|---|
@@ -757,15 +772,16 @@ Vì Dijkstra luôn chọn đỉnh "nhẹ nhất" hay "gần nhất" trong V − 
 | t → y | 2 | z → x | 6 |
 | y → t | 3 | z → s | 7 |
 
+Bố cục trong hình gốc: s ở bên trái; t (trên) và y (dưới) ở cột giữa; x (trên) và z (dưới) ở cột phải. Giữa t và y có hai cạnh ngược chiều (t → y nặng 2, y → t nặng 3), giữa x và z cũng vậy (x → z nặng 4, z → x nặng 6); cạnh chéo y → x nặng 9; t → x nặng 1 và y → z nặng 2 đi ngang; z → s nặng 7 quay về nguồn.
+
 ```text
-               10          1
-         ┌──────────▶ t ─────────▶ x
-         │          2 │ ▲ 3    ▲   │ ▲
-    s ───┤            ▼ │  9 ╱   4 │ │ 6
-    ▲    │   5        y ───╯       ▼ │
-    │    └──────────▶ y ─────────▶ z
-    │                      2       │
-    └──────────────── 7 ───────────┘    (z → s trọng số 7)
+   từ nguồn  :  s ──10──▶ t,   s ──5──▶ y
+   hàng trên :  t ──1──▶ x
+   hàng dưới :  y ──2──▶ z
+   dọc trái  :  t ⇄ y  (t→y 2, y→t 3)
+   dọc phải  :  x ⇄ z  (x→z 4, z→x 6)
+   chéo      :  y ──9──▶ x
+   quay về   :  z ──7──▶ s
 ```
 
 Trong hình gốc, đỉnh đen thuộc S, đỉnh trắng thuộc Q = V − S, đỉnh tô xám là đỉnh sẽ được chọn ở dòng 5 vòng kế tiếp; cạnh tô đậm chỉ π.
@@ -1633,4 +1649,9 @@ Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi
   Sáu bước DAG-SHORTEST-PATHS ở Hình 24.5 (kết quả s = 0, t = 2, x = 6, y = 5, z = 3, r = ∞); năm bước Dijkstra ở Hình 24.6 (kết quả t = 8, x = 9, y = 5, z = 7); nghiệm (−5, −3, 0, −1, −4) của hệ (24.3)–(24.10); phép tính 49 × 2 × 0,0107 = 1,0486 ở Problem 24-3; w₃ = 6 và w₃ = 1 ở Problem 24-4.
 
   Lời giải của các Exercise 24.1-1, 24.2-1, 24.3-1, 24.4-1, 24.4-2, 24.5-1 trong phần Bài tập do người tổng hợp tự chạy tay.
+- **Sửa lỗi sắp xếp nội dung (lượt rà soát sau):** (1) Mục 24.1 trước đây thiếu khối pseudocode BELLMAN-FORD(G, w, s) — đã thêm 8 dòng, khớp với lời giải thích "dòng 1 / dòng 2–4 / dòng 5–8" sẵn có. (2) Trong chứng minh Định lý 24.4, chỗ lẽ ra là bất đẳng thức v.d = δ(s, v) ≤ δ(s, u) + w(u, v) = u.d + w(u, v) lại bị chèn sơ đồ dag của Hình 24.5 — đã thay bằng bất đẳng thức, chuyển sơ đồ dag về ví dụ Hình 24.5 ở Mục 24.2.
+
+  (3) Đoạn "Bố cục trong hình gốc" ở ví dụ Hình 24.5 thực ra mô tả đồ thị Dijkstra (Hình 24.6) — đã chuyển về ví dụ Hình 24.6 và viết mô tả mới đúng cho Hình 24.5. (4) Đoạn bố cục Hình 24.4 nằm lạc giữa phần mô tả Bellman-Ford — đã chuyển về ví dụ Hình 24.4. (5) Sơ đồ chữ của Hình 24.4 và Hình 24.6 vẽ đỉnh y hai lần — đã vẽ lại theo dạng danh sách cạnh, cùng kiểu với Hình 24.1.
+
+  PDF gốc không còn, nên phần sửa này được viết từ hiểu biết của người tổng hợp về CLRS ấn bản 3, đối chiếu với bảng cạnh và các bước chạy tay sẵn có trong bản tổng hợp.
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** nội dung này trở thành Chương 22 (vì ấn bản 4 bỏ một số chương cấu trúc dữ liệu ở Phần V), Chương 25 cũ (mọi cặp đỉnh) thành Chương 23. Pseudocode DIJKSTRA ở ấn bản 4 viết tường minh việc chèn từng đỉnh vào hàng đợi (INSERT) và gọi DECREASE-KEY khi RELAX làm giảm v.d, thay vì để các thao tác này "ngầm" như ấn bản 3. Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
