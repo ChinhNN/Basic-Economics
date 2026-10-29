@@ -663,3 +663,121 @@ Có một nghịch lý: Marcus lặp đi lặp lại rằng tên tuổi sẽ th�
 - **Đổi ý vì bằng chứng, không vì người nói hay (4.12).** Trước một buổi giới thiệu sản phẩm đầu tư có diễn giả cuốn hút và hội trường đông người, hãy ghi trước ba con số cần kiểm tra (dòng tiền thật, tài sản bảo đảm, ai chịu rủi ro nếu dự án chậm). Nếu sau buổi đó ý định thay đổi mà ba con số chưa có, thì đó là thay đổi vì tài thuyết phục của người nói và vì nhiều người theo, đúng những lý do Marcus loại trừ.
 - **Danh tiếng trong sự nghiệp (4.19–4.20, 4.32).** Người làm nghề dễ dồn công sức vào việc được nhìn thấy (đăng bài, giải thưởng, danh hiệu) hơn vào chất lượng công việc. Nguyên tắc chú tâm tương xứng với giá trị gợi ý một phép chia thời gian cụ thể: mỗi tuần, đếm số giờ dành cho việc làm ra giá trị so với việc trình bày giá trị; nếu tỷ lệ đảo ngược, đó là lúc bị cuốn theo tiếng vỗ tay.
 - **Nơi ẩn náu ngắn cho nhà quản lý (4.3).** Trước một cuộc họp căng thẳng hay một cuộc gọi khó với khách hàng, dành hai phút để rà một danh sách ngắn đã viết sẵn: người kia không cố ý làm sai; nhẫn nại là một phần của công bằng; điều họ nói không chạm vào phẩm cách của mình; mười năm nữa chuyện này sẽ không ai nhớ. Rồi quay lại làm việc.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 4 trên một trang: năm nhánh lớn theo năm nhóm mục của bản gốc (lui vào bên trong ở 4.3, chỉ phán đoán mới gây hại, công dân của vũ trụ luôn biến đổi, cái chết và danh tiếng, làm ít mà đúng), mỗi nhánh ghi lập luận, hình ảnh và số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 4: bình an là một tâm trí sắp xếp ngăn nắp; chỉ phán đoán mới làm ta bị hại; thế giới là đổi thay, đời là nhận định`"]
+  n1["`Mục 4.3 — Rút vào bên trong tâm trí mình, nơi mỗi nỗi bực có sẵn một lập luận`"]
+  n0 --- n1
+  n2["`Mong trốn ra thôn quê, bờ biển, núi cao là ngớ ngẩn: lúc nào cũng lui về trong mình được`"]
+  n1 --- n2
+  n3["`Mỗi lần lui về phải ngắn, gọn, rồi quay lại việc đang chờ mà không bực bội`"]
+  n1 --- n3
+  n4["`Bực người khác: ta sinh ra vì nhau, nhẫn nại là một phần của công lý, không ai cố ý làm sai`"]
+  n1 --- n4
+  n5["`Bực phần số: thiên ý hay nguyên tử, nhánh nào cũng không đáng than`"]
+  n1 --- n5
+  n6["`Bực vì danh tiếng: mọi thứ sớm bị quên, người khen thất thường, trái đất chỉ là một điểm`"]
+  n1 --- n6
+  n7["`Hai điều luôn có sẵn`"]
+  n1 --- n7
+  n8["`Sự vật nằm yên bên ngoài, không chạm tới tâm hồn; xáo động đến từ nhận định bên trong`"]
+  n7 --- n8
+  n9["`Mọi thứ ta thấy sẽ sớm đổi và không còn nữa`"]
+  n7 --- n9
+  n10["`Mục 4.6–4.8, 4.11, 4.26, 4.39, 4.49–4.49a — Chỉ phán đoán ta bị hại mới làm ta bị hại`"]
+  n0 --- n10
+  n11["`Chọn không coi mình bị hại thì không cảm thấy bị hại, và đã không bị hại (4.7)`"]
+  n10 --- n11
+  n12["`Thứ gì không làm ta xấu đi thì không làm đời ta xấu đi (4.8)`"]
+  n10 --- n12
+  n13["`Thân bị chém, đốt, thối rữa thì phần phán đoán vẫn có thể giữ yên (4.39)`"]
+  n10 --- n13
+  n14["`Điều đến với cả người tốt lẫn kẻ xấu thì không tốt không xấu (4.39)`"]
+  n10 --- n14
+  n15["`Đổi thật không may thành thật may vì nó xảy ra mà ta vẫn vững (4.49a)`"]
+  n10 --- n15
+  n16["`Phép thử: nó có ngăn ta công bằng, độ lượng, tự chủ, trung thực, khiêm nhường không? Không thì không phải bất hạnh`"]
+  n15 --- n16
+  n17["`Chịu đựng giỏi chính là may mắn`"]
+  n15 --- n17
+  n18["`Như mỏm đá bị sóng đập: đứng yên, nước sôi sục quanh rồi tự lắng (4.49)`"]
+  n10 --- n18
+  n19["`Người như thế tất làm điều như thế, như cây vả tất ra nhựa; bực họ là vô lý (4.6)`"]
+  n10 --- n19
+  n20["`Ai làm sai là làm sai với chính họ (4.26)`"]
+  n10 --- n20
+  n21["`Mục 4.4, 4.14, 4.21, 4.23, 4.27, 4.36, 4.40, 4.42–4.46 — Công dân của một vũ trụ thống nhất và luôn biến đổi`"]
+  n0 --- n21
+  n22["`Chuỗi suy diễn: tư duy chung → lý trí chung → luật chung → đồng công dân → thế giới là một thành phố (4.4)`"]
+  n21 --- n22
+  n23["`Không gì từ hư không mà ra: phần trí tuệ trong ta cũng đến từ đâu đó (4.4)`"]
+  n21 --- n23
+  n24["`Vũ trụ là một sinh thể có một bản chất, một linh hồn; mọi thứ đan quyện (4.40)`"]
+  n21 --- n24
+  n25["`Sự kiện nối nhau hợp lý như các bước một lập luận, không như danh sách xếp tùy tiện (4.45)`"]
+  n21 --- n25
+  n26["`Trật tự hay hỗn độn thì vẫn là một thế giới; trong ta có trật tự mà ngoài kia lại không ư? (4.27)`"]
+  n21 --- n26
+  n27["`Gọi vũ trụ là thành phố thân yêu của Zeus (4.23)`"]
+  n21 --- n27
+  n28["`Tự nhiên thích nhất là đổi cái đang có thành cái mới; mọi vật là hạt giống của cái sẽ sinh ra (4.36)`"]
+  n21 --- n28
+  n29["`Trải qua biến đổi không có gì xấu, là kết quả của biến đổi không có gì tốt (4.42)`"]
+  n21 --- n29
+  n30["`Mục 4.5, 4.15, 4.17, 4.19–4.20, 4.32–4.33, 4.47–4.48, 4.50 — Cái chết chỉ là đổi thay, danh tiếng sau khi chết là rỗng`"]
+  n0 --- n30
+  n31["`Sinh là các nguyên tố hợp lại, chết là chúng tan ra; không đáng hổ thẹn (4.5)`"]
+  n30 --- n31
+  n32["`Nhiều nén hương trên một bàn thờ: rơi trước hay rơi sau như nhau (4.15)`"]
+  n30 --- n32
+  n33["`Thần báo chết ngày mai hay ngày kia ta chẳng cãi; vậy nhiều năm nữa hay ngày mai cũng thế (4.47)`"]
+  n30 --- n33
+  n34["`Trước vực thời gian vô tận, đứa trẻ sống ba ngày và người sống ba đời người có khác gì (4.50)`"]
+  n30 --- n34
+  n35["`Ký ức về ta truyền như nến mồi lửa cho nến khác rồi tắt; kể cả còn mãi thì lời khen có ích gì cho người chết (4.19)`"]
+  n30 --- n35
+  n36["`Ngọc lục bảo không kém đi vì không ai khen; cái đẹp đẹp tự nó (4.20)`"]
+  n30 --- n36
+  n37["`Người thời Vespasian, Trajan cũng cưới, đẻ, nịnh, khoe, thèm chức; nay không còn gì (4.32)`"]
+  n30 --- n37
+  n38["`Ra đi như quả ô liu chín rụng, biết ơn cây đã sinh ra nó (4.48)`"]
+  n30 --- n38
+  n39["`Mục 4.1–4.2, 4.12, 4.18, 4.24, 4.32–4.33, 4.51 — Chỉ làm điều cần, theo cách lý trí đòi hỏi`"]
+  n0 --- n39
+  n40["`Democritus: muốn bình yên hãy làm ít; Marcus sửa: hãy làm điều cần, theo cách lý trí của sinh vật sống trong cộng đồng đòi hỏi (4.24)`"]
+  n39 --- n40
+  n41["`Mỗi lúc tự hỏi: điều này có thật cần không? Cắt cả ý nghĩ thừa, vì việc thừa theo sau chúng`"]
+  n39 --- n41
+  n42["`Đổi ý khi được chỉ ra sai, nhưng vì điều đó đúng, không vì người kia khéo nói hay nhiều người theo (4.12)`"]
+  n39 --- n42
+  n43["`Chú tâm dành cho mỗi việc phải tương xứng với giá trị của nó (4.32)`"]
+  n39 --- n43
+  n44["`Biến trở ngại thành nhiên liệu, như lửa lớn nuốt cả thứ dập tắt được ngọn đèn nhỏ (4.1)`"]
+  n39 --- n44
+  n45["`Đường ngắn nhất là đường tự nhiên: nói và làm theo lý lẽ lành mạnh nhất (4.51)`"]
+  n39 --- n45
+  n46["`Thông điệp xuyên suốt`"]
+  n0 --- n46
+  n47["`Nơi ẩn náu bên trong là kỹ thuật để quay lại làm việc, không phải lời mời trốn đời`"]
+  n46 --- n47
+  n48["`Bình an đến từ lý lẽ đã nghĩ thấu từ trước, không chỉ từ việc làm dịu mình`"]
+  n46 --- n48
+  n49["`Lập luận không bị hại chỉ nên dùng cho mình, không dùng để phủ nhận bất công người khác chịu`"]
+  n46 --- n49
+  n50["`Quyết định vững dưới bất định: tìm lý lẽ đúng cả khi là thiên ý lẫn nguyên tử`"]
+  n46 --- n50
+  n51["`Bản dịch sai: Thượng đế hoặc phân tử phải là thiên ý (pronoia) hoặc nguyên tử`"]
+  n46 --- n51
+  class n0 root
+  class n1,n10,n21,n30,n39,n46 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51 leaf
+```

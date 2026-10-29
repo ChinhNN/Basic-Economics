@@ -605,3 +605,121 @@ Khi tự hỏi linh hồn mình đang giống linh hồn của ai, Marcus liệt
 - **Phân biệt năng khiếu với phẩm chất (5.5).** Không phải ai cũng phân tích được mô hình định giá phức tạp. Nhưng trung thực với chính mình về khẩu vị rủi ro, không vay margin vượt sức, không theo hội nhóm "phím hàng", không khoe lãi trên mạng là những phẩm chất ai cũng có thể có. Phần lớn thua lỗ của nhà đầu tư cá nhân đến từ thiếu những phẩm chất này, không phải thiếu tài.
 - **Phép thử cộng đồng ở nơi làm việc (5.22, 5.35).** Khi bị đồng nghiệp phê bình trong cuộc họp, hỏi: dự án hay tổ chức có bị hại không? Nếu không, thì chỉ cái tôi bị chạm. Nếu có, thì việc cần làm là chỉ ra lỗi cụ thể và cách sửa (5.28: dùng lý trí của mình để chỉ cho người kia), không phải phản công.
 - **Làm ơn không ghi nợ (5.6).** Trong văn hóa "có qua có lại" và quan hệ "ơn nghĩa" ở Việt Nam, người giúp đỡ hay ngầm ghi sổ. Marcus không bảo ngừng giúp; ông bảo giúp xong thì bỏ sổ đi. Với người lãnh đạo, điều này có nghĩa là đào tạo, thăng chức cho cấp dưới mà không đòi họ "trung thành" như một khoản trả nợ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 5 trên một trang: năm nhánh lớn theo năm nhóm mục của bản gốc (thức dậy làm việc của con người, Tự nhiên kê đơn, tâm trí biến chướng ngại thành con đường, thước đo của chữ tốt và quy mô đời người, ứng xử khi người khác làm ta khó chịu), mỗi nhánh ghi lập luận, hình ảnh và số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 5: con người sinh ra để làm việc của con người, hành động theo lý trí vì cộng đồng; điều xảy đến là đơn thuốc của Tự nhiên, chướng ngại thành con đường`"]
+  n1["`Mục 5.1, 5.5, 5.6, 5.9, 5.37 — Thức dậy và làm việc của con người`"]
+  n0 --- n1
+  n2["`Lúc bình minh khó rời giường: ta dậy để làm việc của một con người (5.1)`"]
+  n1 --- n2
+  n3["`Nằm trong chăn thật thoải mái? Cây cối, chim, kiến, nhện, ong đều đang làm phần việc của chúng`"]
+  n1 --- n3
+  n4["`Cần ngủ? Tự nhiên đặt giới hạn cho ngủ; ta đã vượt giới hạn ngủ mà chưa đủ phần việc`"]
+  n1 --- n4
+  n5["`Gốc rễ: ta không yêu bản thân đủ; thợ chạm, vũ công quên ăn vì nghề, giúp người lại kém giá trị hơn sao?`"]
+  n1 --- n5
+  n6["`Không có tài trí bẩm sinh, nhưng trung thực, chịu đựng, cần kiệm, không than đều trong quyền ta; ta không thể là lời thoái thác (5.5)`"]
+  n1 --- n6
+  n7["`Làm ơn như cây nho ra quả`"]
+  n1 --- n7
+  n8["`Ba loại người: kể lể ơn, ghi nợ trong đầu, quên luôn như cây nho (5.6)`"]
+  n7 --- n8
+  n9["`Ngựa sau cuộc đua, chó sau cuộc săn, ong sau khi làm mật: xong rồi chuyển sang việc tiếp`"]
+  n7 --- n9
+  n10["`Ngã thì đứng dậy; về với triết học như người đau mắt tìm thuốc, không như trò sợ thầy nghiêm (5.9)`"]
+  n1 --- n10
+  n11["`Vận may thật là phần ta tự chia: phẩm cách, ý định đúng, hành động tốt (5.37)`"]
+  n1 --- n11
+  n12["`Mục 5.4, 5.8, 5.10, 5.13, 5.18 — Tự nhiên kê đơn, ta uống thuốc`"]
+  n0 --- n12
+  n13["`Thầy thuốc kê cưỡi ngựa, tắm nước lạnh; Tự nhiên kê bệnh tật, mù lòa, mất chân tay (5.8)`"]
+  n12 --- n13
+  n14["`Chữ xảy ra (symbainein) nghĩa đen là khớp vào, như đá khớp vào tường hay kim tự tháp`"]
+  n12 --- n14
+  n15["`Vũ trụ là một thân từ mọi thân; định mệnh là một nguyên nhân từ mọi nguyên nhân`"]
+  n12 --- n15
+  n16["`Hai lý do đón nhận: nó được kê riêng cho ta, và nó là điều kiện cho sức khỏe của toàn thể`"]
+  n12 --- n16
+  n17["`Than phiền là cắt một mảnh khỏi sự liền mạch của toàn thể`"]
+  n12 --- n17
+  n18["`Khi mọi thứ bất định và người quanh khó chịu, tựa vào hai điều: không gì phi tự nhiên xảy đến, không ai buộc ta làm sai (5.10)`"]
+  n12 --- n18
+  n19["`Không gì xảy đến mà bản chất ta không chịu nổi (5.18); thân ta trở về đất mẹ đã nuôi ta (5.4)`"]
+  n12 --- n19
+  n20["`Mục 5.11, 5.16, 5.19–5.21, 5.26, 5.27 — Tâm trí tự chuyển động, chướng ngại thành con đường`"]
+  n0 --- n20
+  n21["`Tự hỏi: linh hồn ta lúc này giống trẻ con, bạo chúa, thú săn mồi hay con mồi? (5.11)`"]
+  n20 --- n21
+  n22["`Tâm trí mang màu những gì ta thường nghĩ, như vải mang màu thuốc nhuộm (5.16)`"]
+  n20 --- n22
+  n23["`Sống tốt được ở đâu cũng được, kể cả trong cung điện; cái tốt của sinh vật lý trí là đời sống chung (5.16)`"]
+  n20 --- n23
+  n24["`Ngoại vật không chạm được linh hồn; chỉ linh hồn tự xoay chuyển mình (5.19)`"]
+  n20 --- n24
+  n25["`Cảm giác trong thân cứ đến, đừng chống, nhưng đừng thêm phán xét tốt hay xấu (5.26)`"]
+  n20 --- n25
+  n26["`Người khác cản đường (5.20)`"]
+  n20 --- n26
+  n27["`Họ cản được hành động, không cản được ý định và thái độ`"]
+  n26 --- n27
+  n28["`Hành động có bảo lưu: muốn điều gì nếu không bị ngăn, nên tâm trí chuyển hướng được`"]
+  n26 --- n28
+  n29["`Trở ngại thúc đẩy hành động; cái chắn đường thành con đường`"]
+  n26 --- n29
+  n30["`Sống cùng thần linh là hài lòng với phần được chia và nghe theo daimon, mảnh lý trí Zeus trao cho mỗi người (5.27)`"]
+  n20 --- n30
+  n31["`Mục 5.12, 5.15, 5.23–5.24, 5.33, 5.36a — Thước đo của chữ tốt và quy mô của đời người`"]
+  n0 --- n31
+  n32["`Phép thử ngôn ngữ: câu đùa giàu đến không còn chỗ đi vệ sinh (Menander) chỉ buồn cười khi tốt là của cải (5.12)`"]
+  n31 --- n32
+  n33["`Vậy chính đám đông ngầm biết của cải có thể nhiều quá một cách lố bịch, đức hạnh thì không`"]
+  n31 --- n33
+  n34["`Phép thử từ bỏ: nếu ngoại vật là tốt, người từ bỏ chúng phải kém đi, nhưng ta lại khâm phục họ (5.15)`"]
+  n31 --- n34
+  n35["`Đời là dòng sông, quá khứ và tương lai là vực thẳm; tự mãn hay phẫn nộ giữa dòng là ngớ ngẩn (5.23)`"]
+  n31 --- n35
+  n36["`Phần vật chất, thời gian, vận mệnh của ta đều nhỏ xíu (5.24)`"]
+  n31 --- n36
+  n37["`Sắp thành tro hay xương, tên chỉ là tiếng vọng; thứ người đời tranh giành như chó con cắn nhau (5.33)`"]
+  n31 --- n37
+  n38["`Ngồi trên ngai vẫn nhớ ngai thật ra là gì, đừng làm kẻ ngốc chỉ vì người khác coi trọng nó (5.36a)`"]
+  n31 --- n38
+  n39["`Mục 5.3, 5.22, 5.25, 5.28, 5.31, 5.35, 5.36 — Khi người khác làm ta khó chịu`"]
+  n0 --- n39
+  n40["`Lời phê bình: việc đúng thì cứ làm; họ có nguyên tắc của họ, ta đi đường của ta (5.3)`"]
+  n39 --- n40
+  n41["`Phép thử cộng đồng: thành bang không bị hại thì công dân cũng không bị hại (5.22)`"]
+  n39 --- n41
+  n42["`Nếu có hại thì đừng giận, hãy chỉ cho kẻ sai thấy chỗ sai`"]
+  n39 --- n42
+  n43["`Tính cách họ là việc của họ; việc của ta là việc của ta (5.25)`"]
+  n39 --- n43
+  n44["`Không ai giận người hôi miệng; họ có lý trí thì ta cũng có, hãy dùng nó để chỉ ra và thuyết phục (5.28)`"]
+  n39 --- n44
+  n45["`Giúp người đang buồn hết sức, nhưng đừng coi mất mát vặt của họ là tổn hại thật (5.36)`"]
+  n39 --- n45
+  n46["`Tự kiểm điểm: ta đã đối xử ra sao với cha mẹ, vợ con, thầy, bạn, nô lệ? (5.31)`"]
+  n39 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Lý do dậy làm việc dựa vào định nghĩa con người, không dựa vào ý chí`"]
+  n47 --- n48
+  n49["`Chấp nhận như bệnh nhân uống thuốc để khỏi bệnh, không phải cam chịu buông xuôi`"]
+  n47 --- n49
+  n50["`Phần thực hành đứng vững cả khi bỏ giả định vũ trụ có thiện ý`"]
+  n47 --- n50
+  n51["`Bản dịch sai ở 5.5: Marcus thừa nhận mình không sắc sảo, rồi chặn lối thoát tôi không có năng khiếu`"]
+  n47 --- n51
+  class n0 root
+  class n1,n12,n20,n31,n39,n47 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
+```

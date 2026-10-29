@@ -440,3 +440,109 @@ Nghiên cứu về điều tiết cảm xúc ủng hộ phần cốt lõi của 
 **Với nhà đầu tư cá nhân.** Mục 2.14 là thuốc giải cho hiệu ứng chi phí chìm và "gồng lỗ". Khoản lỗ đã xảy ra là quá khứ, không còn là thứ ta có để mất; câu hỏi duy nhất là với số tiền đang có **hôm nay**, vị thế này có còn đáng giữ không. Người cầm cổ phiếu đã giảm 50% vì "chờ về giá vốn" là đang để quá khứ quyết định hiện tại. Mục 2.6 cảnh báo việc đặt hạnh phúc vào tâm hồn người khác: trên thị trường chứng khoán Việt Nam, đó là việc để các hội nhóm, "chuyên gia" trên mạng hay số đông trong phòng chat quyết định cảm xúc và lệnh mua bán của mình. Mục 2.15 (mọi thứ là ý kiến) giúp tách sự kiện ("giá giảm 7%") khỏi phán đoán ("mình là kẻ thất bại", "thị trường sụp rồi"); chỉ cái đầu là dữ kiện, cái sau là lựa chọn.
 
 **Với người quản lý.** Mục 2.1 nhắc rằng nhân viên làm sai phần lớn vì không biết hoặc không được hướng dẫn, nên phản ứng đúng là chỉ dạy chứ không phải trút giận; và mục 2.10 nhắc người có quyền rằng cám dỗ lớn hơn của quyền lực không phải nóng giận mà là hưởng thụ: dùng xe công, chi tiêu tiếp khách, những đặc quyền nhỏ mà không ai dám nói. Marcus coi những lỗi ấy nặng hơn, vì người phạm chúng không bị đẩy vào, mà tự chọn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 2 trên một trang: năm nhánh lớn theo năm mạch ý của 17 mục trong bản gốc (sống gấp và không sợ chết, chỉ mất được hiện tại, không giận người cư xử tệ, chỉ giữ phần lý trí dẫn dắt, năm cách linh hồn tự hạ giá), mỗi nhánh ghi lập luận, hình ảnh và số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 2: thời gian sắp hết, phải thôi đọc sách mà sống theo lý trí; người khác không hại được ta, cái chết không xấu`"]
+  n1["`Mục 2.2–2.7, 2.11–2.12, 2.17 — Phải sống gấp, và không cần sợ chết`"]
+  n0 --- n1
+  n2["`Ta đã già, đã hoãn quá lâu, thần linh đã gia hạn nhiều lần; đời đã gần hết (2.2, 2.4, 2.6)`"]
+  n1 --- n2
+  n3["`Thôi khát sách, làm theo điều sách dạy; bỏ mọi thứ làm sao nhãng (2.2, 2.3)`"]
+  n1 --- n3
+  n4["`Làm mỗi việc như việc cuối cùng trong đời: chính xác, nghiêm túc, công bằng (2.5)`"]
+  n1 --- n4
+  n5["`Bận rộn không phải có mục đích: làm cật lực cả đời mà không có đích là phí đời (2.7)`"]
+  n1 --- n5
+  n6["`Năm lý do không sợ chết`"]
+  n1 --- n6
+  n7["`Nếu có thần linh thì họ không đưa ta đến điều có hại; nếu không có thì thế giới ấy chẳng đáng níu (2.11)`"]
+  n6 --- n7
+  n8["`Chết là hoạt động của tự nhiên, chỉ trẻ con mới sợ, lại có ích cho tự nhiên (2.12)`"]
+  n6 --- n8
+  n9["`Các nguyên tố không bị hại khi chuyển từ vật này sang vật khác, nên tách ra cũng không đáng sợ (2.17)`"]
+  n6 --- n9
+  n10["`Không gì thuận theo tự nhiên lại là xấu (2.17)`"]
+  n6 --- n10
+  n11["`Sống, chết, danh tiếng, giàu nghèo đến với cả người tốt lẫn kẻ xấu nên là adiaphora (2.11)`"]
+  n1 --- n11
+  n12["`Mục 2.14 — Chỉ mất được hiện tại, nên đời dài hay ngắn như nhau`"]
+  n0 --- n12
+  n13["`Sống 3.000 hay 30.000 năm, ta chỉ mất cuộc đời đang sống`"]
+  n12 --- n13
+  n14["`Quá khứ và tương lai không phải của ta, nên không thể mất cái mình không có`"]
+  n12 --- n14
+  n15["`Mọi thứ lặp lại như cũ: xem 100 năm hay mãi mãi cũng chẳng thấy gì thêm`"]
+  n12 --- n15
+  n16["`Người chết già và người chết trẻ mất đúng một thứ: khoảnh khắc hiện tại`"]
+  n12 --- n16
+  n17["`Mục 2.1, 2.13, 2.16 — Không giận những người cư xử tệ với mình`"]
+  n0 --- n17
+  n18["`Mỗi sáng tự nhủ: hôm nay sẽ gặp kẻ phiền, vô ơn, ngạo mạn, gian dối, ghen tị, cáu kỉnh (2.1)`"]
+  n17 --- n18
+  n19["`Họ làm sai vì không phân biệt được tốt xấu, như người mù không phân biệt trắng đen (2.13)`"]
+  n17 --- n19
+  n20["`Họ là họ hàng của ta, không chung máu mà chung tâm trí và phần thần tính`"]
+  n17 --- n20
+  n21["`Không ai làm hại được ta, không ai ép được ta làm điều xấu`"]
+  n17 --- n21
+  n22["`Ta và họ như hai bàn tay, hai mi mắt, hai hàm răng; giận và quay lưng là chống nhau, trái tự nhiên`"]
+  n17 --- n22
+  n23["`Với thần linh thì kính, với người thì thương, đôi khi thương hại vì họ không biết (2.13)`"]
+  n17 --- n23
+  n24["`Mục 2.2, 2.8, 2.13, 2.17 — Thân thể, hơi thở, tâm trí: chỉ phần dẫn dắt đáng giữ`"]
+  n0 --- n24
+  n25["`Thân thể chỉ là máu, xương, mớ dây thần kinh, chảy trôi như dòng sông (2.2, 2.17)`"]
+  n24 --- n25
+  n26["`Hơi thở (pneuma) chỉ là không khí ra vào, đổi từng giây (2.2)`"]
+  n24 --- n26
+  n27["`Đừng để tâm trí bị giật như con rối bằng dây ham muốn ích kỷ (2.2)`"]
+  n24 --- n27
+  n28["`Đừng đoán lòng người khác; ai không theo dõi tâm trí chính mình mới chắc chắn khổ (2.8, 2.13)`"]
+  n24 --- n28
+  n29["`Đời người: thời gian là một điểm, thân đang mục rữa, danh tiếng không chắc (2.17)`"]
+  n24 --- n29
+  n30["`Chỉ triết học dẫn đường: giữ phần thần tính bên trong đứng trên sướng đau, không giả dối, không lệ thuộc ai (2.17)`"]
+  n24 --- n30
+  n31["`Mục 2.10, 2.15, 2.16 — Linh hồn tự hạ giá, và đau khổ đến từ phán đoán`"]
+  n0 --- n31
+  n32["`Năm cách tự hạ giá`"]
+  n31 --- n32
+  n33["`Bực bội với điều xảy ra, thành khối u trên cơ thể vũ trụ`"]
+  n32 --- n33
+  n34["`Quay lưng, âm mưu hại người như kẻ đang giận`"]
+  n32 --- n34
+  n35["`Để sướng hay đau chế ngự; đeo mặt nạ, nói làm điều giả`"]
+  n32 --- n35
+  n36["`Hành động không mục đích, tùy tiện, rời rạc`"]
+  n32 --- n36
+  n37["`Chung một gốc: tách mình khỏi toàn thể và khỏi luật của thành bang vũ trụ`"]
+  n31 --- n37
+  n38["`Theophrastus: lỗi vì ham muốn nặng hơn lỗi vì giận, vì người ham muốn tự chọn lao vào (2.10)`"]
+  n31 --- n38
+  n39["`Monimus (phái Khuyển nho): mọi thứ chỉ là ý kiến; ta khổ vì phán đoán, không vì sự việc (2.15)`"]
+  n31 --- n39
+  n40["`Thông điệp xuyên suốt`"]
+  n0 --- n40
+  n41["`Giọng của quyển là khẩn cấp: viết giữa chiến dịch Marcomanni và dịch Antonine, cái chết ở ngay trong trại lính`"]
+  n40 --- n41
+  n42["`Bỏ sách không phải chống đọc, mà chống lấy đọc thay cho làm`"]
+  n40 --- n42
+  n43["`Chấp nhận không phải cam chịu: từ chối bực bội với thực tại, không từ chối hành động`"]
+  n40 --- n43
+  n44["`Giả định ngầm: vũ trụ có trật tự và tốt lành; nhánh không có thần linh của 2.11 không chứng minh được chết là không xấu`"]
+  n40 --- n44
+  n45["`Gần với CBT: tách sự kiện khỏi phán đoán, chuẩn bị trước tình huống khó, tái đánh giá thay vì kìm nén`"]
+  n40 --- n45
+  class n0 root
+  class n1,n12,n17,n24,n31,n40 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45 leaf
+```

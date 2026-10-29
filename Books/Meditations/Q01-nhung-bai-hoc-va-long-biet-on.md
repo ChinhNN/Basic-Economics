@@ -405,3 +405,113 @@ Người ta hay hiểu "Khắc kỷ" là lạnh lùng, nén cảm xúc. Những 
 - Tôi có hay nói "anh bận lắm" để né một việc đáng làm cho người khác không (bài học Alexander phái Plato)?
 
 **Với tiền và đầu tư.** Ba bài học trong quyển này áp dụng thẳng vào quản lý tài chính cá nhân. Thứ nhất, ông cố của Marcus coi tiền thuê thầy giỏi là chi tiêu đáng giá: chi cho giáo dục (của con cái và của chính mình) là khoản đầu tư có lợi suất cao nhất và bền nhất. Thứ hai, Antoninus có thì hưởng mà không đắm, không có thì không thấy thiếu: đây là thái độ đúng với của cải trong một nền kinh tế biến động như Việt Nam, nơi một chu kỳ bất động sản hay chứng khoán có thể lấy đi phần lớn tài sản giấy; ai không gắn bản sắc của mình vào tài sản thì ít hoảng loạn bán tháo hơn. Thứ ba, bài học từ Diognetus (không tin thầy bói, bùa chú) và từ Rusticus (không tin người nói trơn tru) có dạng hiện đại rõ ràng: các "chuyên gia" phím hàng trên mạng xã hội, các lời mời đầu tư lợi nhuận cam kết, các "hội nhóm" tiền ảo là bói toán và hùng biện của thời nay. Marcus được dạy từ bé cách miễn dịch với chúng: không phí thời gian cho điều vô bổ, không vội tin người nói hay, và tập nghe những sự thật khó nghe, kể cả sự thật rằng mình đã sai.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 1 trên một trang: năm nhánh lớn theo thứ tự Marcus cảm ơn trong bản gốc (mục 1.1–1.17: gia đình và thầy thời niên thiếu, các thầy triết học, thầy văn chương và bạn, cha nuôi Antoninus Pius, các thần), mỗi nhánh ghi người cụ thể và phẩm chất học được; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 1: đức hạnh học được từ những con người cụ thể; Marcus cảm ơn phẩm chất tính cách, gần như không cảm ơn tài năng`"]
+  n1["`Mục 1.1–1.6 — Gia đình và thầy thời niên thiếu đặt nền tính cách`"]
+  n0 --- n1
+  n2["`Ông nội Verus: phẩm cách đứng đắn, giữ bình tĩnh, làm chủ bản thân (1.1)`"]
+  n1 --- n2
+  n3["`Cha ruột, mất khi Marcus khoảng ba tuổi: chính trực, cứng cỏi, biết qua lời kể (1.2)`"]
+  n1 --- n3
+  n4["`Mẹ Domitia Lucilla: đến ý nghĩ làm điều sai cũng không nảy ra; sống đạm bạc dù giàu (1.3)`"]
+  n1 --- n4
+  n5["`Ông cố thuê thầy giỏi về nhà, coi chi cho giáo dục là đáng đồng tiền (1.4)`"]
+  n1 --- n5
+  n6["`Người thầy đầu tiên: không làm cổ động viên cho phe nào ở trường đua, đấu trường (1.5)`"]
+  n1 --- n6
+  n7["`Diognetus: không mê tín, nghe được sự thật mất lòng, đưa Marcus đến triết học (1.6)`"]
+  n1 --- n7
+  n8["`Mục 1.7–1.9, 1.15 — Các thầy triết học Khắc kỷ`"]
+  n0 --- n8
+  n9["`Rusticus: tính cách phải rèn bằng kỷ luật, bỏ hùng biện, viết thư ngắn, làm hoà ngay (1.7)`"]
+  n8 --- n9
+  n10["`Rusticus cho Marcus mượn bài giảng của Epictetus, nguồn tư tưởng chính của Suy tưởng`"]
+  n8 --- n10
+  n11["`Apollonius: chỉ dựa vào lý trí, vừa cương quyết vừa mềm mỏng, vững khi mất con (1.8)`"]
+  n8 --- n11
+  n12["`Apollonius coi tài giảng triết học là phẩm chất kém giá trị nhất của mình`"]
+  n8 --- n12
+  n13["`Sextus: sống thuận tự nhiên, kiên nhẫn với người kém hiểu biết, không để giận chế ngự mà vẫn đầy tình thương (1.9)`"]
+  n8 --- n13
+  n14["`Maximus: tự chủ, vui trong nghịch cảnh, như tự đi đúng đường chứ không cần ai giữ, biết đùa đúng lúc (1.15)`"]
+  n8 --- n14
+  n15["`Mục 1.10–1.14 — Thầy văn chương, cố vấn và bạn`"]
+  n0 --- n15
+  n16["`Alexander nhà ngữ pháp: sửa sai bằng cách dùng lại từ đúng, không làm người bẽ mặt (1.10)`"]
+  n15 --- n16
+  n17["`Fronto, thầy hùng biện lừng danh, chỉ được ghi một dòng: sự độc ác và giả dối mà quyền lực sinh ra (1.11)`"]
+  n15 --- n17
+  n18["`Alexander phái Plato: đừng viện cớ quá bận để thoái thác bổn phận với người xung quanh (1.12)`"]
+  n15 --- n18
+  n19["`Catulus: đừng thờ ơ khi bạn trách, kể cả trách oan; cố hàn gắn (1.13)`"]
+  n15 --- n19
+  n20["`Severus: lý tưởng nhà nước luật như nhau cho mọi người, tự do ngôn luận; nói thẳng khi không đồng ý (1.14)`"]
+  n15 --- n20
+  n21["`Mục 1.16 — Cha nuôi Antoninus Pius: chân dung người cai trị lý tưởng (mục dài nhất)`"]
+  n0 --- n21
+  n22["`Marcus làm người kế vị bên ông 23 năm (138–161), trường học chính trị của Marcus`"]
+  n21 --- n22
+  n23["`Ra quyết định`"]
+  n21 --- n23
+  n24["`Cân nhắc kỹ rồi kiên định; không dừng ở lời giải thích đầu tiên nghe có lý`"]
+  n23 --- n24
+  n25["`Nhìn xa, lo trước chi tiết nhỏ, biết lúc tiến lúc lùi, không bỏ dở`"]
+  n23 --- n25
+  n26["`Với người khác`"]
+  n21 --- n26
+  n27["`Lắng nghe bất kỳ ai có đề xuất vì lợi ích chung; thưởng theo công trạng`"]
+  n26 --- n27
+  n28["`Nhường chỗ cho người giỏi chuyên môn hơn mình và giúp họ phát huy`"]
+  n26 --- n28
+  n29["`Với quyền lực và của công`"]
+  n21 --- n29
+  n30["`Chặn tung hô, nịnh bợ; không mị dân bằng quà cáp`"]
+  n29 --- n30
+  n31["`Giữ chặt ngân khố, chịu bị chê; hỏi việc gì cần làm, không hỏi việc gì đem lại tiếng`"]
+  n29 --- n31
+  n32["`Đời sống và tâm thế`"]
+  n21 --- n32
+  n33["`Có tiện nghi thì hưởng không kiêu, thiếu thì không tiếc, như Socrates`"]
+  n32 --- n33
+  n34["`Không ai thấy ông giận đến toát mồ hôi; sau cơn đau nửa đầu trở lại việc ngay`"]
+  n32 --- n34
+  n35["`Mọi nét được khen là một sự tự giới hạn: dùng quyền như người quản gia, không như chủ nhân`"]
+  n21 --- n35
+  n36["`Mục 1.17 — Cảm ơn các thần: điều tốt phần lớn không thuộc quyền ta`"]
+  n0 --- n36
+  n37["`Cảm ơn cả những điều xấu không xảy ra: chưa từng bị đặt vào hoàn cảnh phải bị thử thách`"]
+  n36 --- n37
+  n38["`Được dạy rằng có thể sống trong cung như người thường, không cần vệ binh, áo thêu`"]
+  n36 --- n38
+  n39["`Không tiến xa trong hùng biện, thơ; không sa vào tam đoạn luận, thiên văn`"]
+  n36 --- n39
+  n40["`Không đụng đến Benedicta hay Theodotus; bị dục vọng chi phối vẫn tìm được đường thoát`"]
+  n36 --- n40
+  n41["`Mọi điều tốt cần thần linh và may mắn; nếu không sống thuận tự nhiên thì lỗi hoàn toàn tại ta`"]
+  n36 --- n41
+  n42["`Thông điệp xuyên suốt`"]
+  n0 --- n42
+  n43["`Triết học là lối sống, không phải tài nói: đo tiến bộ bằng cách cư xử, không bằng số sách đã đọc`"]
+  n42 --- n43
+  n44["`Tự chủ không phải vô cảm: nhắm vào cơn giận và nỗi sợ, giữ lại lòng thương`"]
+  n42 --- n44
+  n45["`Lòng biết ơn là kỹ thuật chống kiêu ngạo, gần với vận may đạo đức của Williams và Nagel`"]
+  n42 --- n45
+  n46["`Giới hạn: chế độ dựa vào tính cách chỉ tốt khi người kế vị tốt, mà Marcus lại để Commodus kế vị`"]
+  n42 --- n46
+  n47["`Bản dịch sai: các thần giúp Marcus tránh được thử thách, không phải qua được thử thách`"]
+  n42 --- n47
+  class n0 root
+  class n1,n8,n15,n21,n36,n42 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47 leaf
+```

@@ -719,3 +719,129 @@ Tuy vậy, cũng có chỗ đáng bàn: ở 6.42, Marcus nói những kẻ phá 
 - **Ba nơi gắn hạnh phúc (6.51) cho người làm công.** Nếu gắn vào việc sếp khen, ta lệ thuộc người khác; nếu gắn vào thưởng Tết, ta lệ thuộc hoàn cảnh; nếu gắn vào chất lượng việc mình làm, ta có chỗ đứng vững. Điều này không có nghĩa là không đòi lương xứng đáng (6.50: cứ thuyết phục, cứ đấu tranh nếu công lý đòi hỏi), mà là không để giá trị bản thân nằm trong tay người khác.
 - **Quy tắc của Antoninus cho người quản lý (6.30).** Ba thói quen áp dụng được ngay: không quyết định khi chưa xem xét kỹ (đặc biệt với nhân sự); không nghe "báo cáo riêng" về đồng nghiệp sau lưng họ; công khai cảm ơn người chỉ ra chỗ sai trong đề xuất của mình. Ở nhiều tổ chức Việt Nam, nơi khoảng cách quyền lực lớn và cấp dưới ngại phản biện, tinh thần vui khi có người chỉ ra ý tốt hơn phải được lãnh đạo thể hiện bằng hành động thì người dưới mới dám nói.
 - **Hai thành bang (6.44, 6.54).** Một doanh nghiệp là "tổ ong" của người lao động. Quyết định nào làm lợi cho một bộ phận mà hại tổ chức (đẩy doanh số bằng cách bán sai cho khách, che lỗ cuối quý) thì về lâu dài hại chính bộ phận ấy. Và ở tầng rộng hơn, điều làm lợi cho doanh nghiệp mà hại xã hội (xả thải, lách thuế) không phải là lợi theo nghĩa của Marcus.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 6 trên một trang: năm nhánh lớn theo năm nhóm mục của bản gốc (lột vỏ sự vật, đặt tốt và xấu vào đúng chỗ, thần quyền hay nguyên tử và một công trình chung, đối xử với người khác, chân dung Antoninus và cái chết của mọi người), mỗi nhánh ghi lập luận, hình ảnh và số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 6: phải thấy đúng sự vật bằng cách lột vỏ tiếng tăm, chỉ gọi tốt xấu những gì trong quyền ta, và đừng để vai hoàng đế nhuộm mất con người mình`"]
+  n1["`Mục 6.3, 6.13–6.16, 6.18, 6.31, 6.57 — Lột vỏ sự vật`"]
+  n0 --- n1
+  n2["`Phép nhìn trần trụi (6.13)`"]
+  n1 --- n2
+  n3["`Món nướng sang trọng là xác con cá, con chim, con lợn; rượu Falernian là nước nho`"]
+  n2 --- n3
+  n4["`Áo tía của hoàng đế là lông cừu nhúng máu sò; ái ân là cọ xát, co giật, một chút chất nhầy`"]
+  n2 --- n4
+  n5["`Kẻ lừa đảo lớn nhất là thói tự phụ: lúc ta tưởng làm việc quan trọng nhất là lúc nó lừa ta nhiều nhất (6.13)`"]
+  n1 --- n5
+  n6["`Thang giá trị: trầm trồ trước đá gỗ, rồi đàn gia súc, rồi tay nghề hay nhiều nô lệ; cao nhất là trọng lý trí chung (6.14)`"]
+  n1 --- n6
+  n7["`Tiếng vỗ tay của đám đông chỉ như tiếng tặc lưỡi của nhiều cái lưỡi (6.16)`"]
+  n1 --- n7
+  n8["`Ai còn coi trọng ngoại vật thì tất ghen tị, sợ mất, mưu hại kẻ đang có và oán thần linh (6.16)`"]
+  n1 --- n8
+  n9["`Mong hậu thế khen cũng vô lý như buồn vì tổ tiên không khen mình (6.18)`"]
+  n1 --- n9
+  n10["`Mật đắng với người vàng da, trẻ con thấy quả bóng là đẹp: sai lầm của người khác là bệnh của họ (6.57)`"]
+  n1 --- n10
+  n11["`Mục 6.2, 6.32–6.34, 6.41, 6.50–6.52 — Đặt tốt và xấu vào đúng chỗ`"]
+  n0 --- n11
+  n12["`Khi làm điều đúng, lạnh hay nóng, bị chê hay được khen, đang chết hay không đều không quan trọng (6.2)`"]
+  n11 --- n12
+  n13["`Chết cũng là một việc của đời, cũng phải làm cho đúng cách (6.2)`"]
+  n11 --- n13
+  n14["`Gốc của mọi cư xử sai: gán tốt xấu cho thứ ngoài quyền ta, rồi oán thần và ghét người khi nó không như ý (6.41)`"]
+  n11 --- n14
+  n15["`Chỉ gọi tốt xấu những gì trong quyền ta thì không còn lý do coi ai là kẻ thù`"]
+  n11 --- n15
+  n16["`Ba nơi gắn hạnh phúc (6.51)`"]
+  n11 --- n16
+  n17["`Người ham danh gắn vào hành động của người khác`"]
+  n16 --- n17
+  n18["`Người ham khoái lạc gắn vào cảm giác của mình`"]
+  n16 --- n18
+  n19["`Người tỉnh táo gắn vào hành động của chính mình`"]
+  n16 --- n19
+  n20["`Nỗ lực có bảo lưu: cố thuyết phục, công lý đòi thì làm dù họ không muốn, gặp sức mạnh lớn hơn thì lùi và rèn phẩm chất khác (6.50)`"]
+  n11 --- n20
+  n21["`Khoái lạc không thể là thước đo cái tốt: kẻ cướp, bạo chúa cũng hưởng có thừa (6.34)`"]
+  n11 --- n21
+  n22["`Mục 6.1, 6.10, 6.36a, 6.38, 6.42–6.44, 6.54 — Thần quyền hay nguyên tử, một công trình chung`"]
+  n0 --- n22
+  n23["`Nếu vũ trụ là nguyên tử hỗn loạn, việc gì phải lo; nếu là thần quyền có trật tự, thì tôn kính và vững vàng (6.10)`"]
+  n22 --- n23
+  n24["`Ba nhánh về thần linh: quyết định về ta thì tốt, về toàn thể thì đón nhận, không quyết gì thì ta tự quyết theo bản chất lý trí (6.44)`"]
+  n22 --- n24
+  n25["`Hai thành bang: với tư cách Antoninus là La Mã, với tư cách con người là thế giới; tốt là tốt cho cả hai (6.44)`"]
+  n22 --- n25
+  n26["`Mọi thứ đan vào nhau và cảm thông với nhau (sympatheia) (6.38)`"]
+  n22 --- n26
+  n27["`Hàm sư tử, chất độc, gai, bùn là sản phẩm phụ của những thứ đẹp (6.36a)`"]
+  n22 --- n27
+  n28["`Heraclitus: kẻ ngủ cũng là thợ; cả kẻ phá ngang cũng góp vào công trình chung, ta chỉ chọn góp theo cách nào (6.42)`"]
+  n22 --- n28
+  n29["`Đừng làm câu thơ nhạt chỉ để gây cười trong vở kịch mà Chrysippus nhắc tới (6.42)`"]
+  n22 --- n29
+  n30["`Điều không có lợi cho tổ ong thì không có lợi cho con ong (6.54)`"]
+  n22 --- n30
+  n31["`Mục 6.6, 6.20–6.21, 6.26–6.27, 6.39, 6.48, 6.53 — Đối xử với người khác`"]
+  n0 --- n31
+  n32["`Cách trả thù tốt nhất là đừng trở nên giống kẻ đã làm hại mình (6.6)`"]
+  n31 --- n32
+  n33["`Như đối thủ trên sàn tập đấu vật: để mắt đề phòng, tránh nhẹ, không ghét, không nghi (6.20)`"]
+  n31 --- n33
+  n34["`Bị chứng minh sai thì vui vẻ đổi ý; sự thật chưa hại ai, cái hại là cố chấp tự lừa dối (6.21)`"]
+  n31 --- n34
+  n35["`Người nổi cáu hỏi tên ta viết thế nào, ta cứ bình tĩnh đánh vần; việc lớn cũng gồm các bước nhỏ như thế (6.26)`"]
+  n31 --- n35
+  n36["`Giận người làm sai là cấm họ theo điều họ tưởng là tốt; hãy chỉ cho họ thấy (6.27)`"]
+  n31 --- n36
+  n37["`Yêu thật lòng những người số phận đặt cạnh ta; tìm niềm vui ở phẩm chất của họ (6.39, 6.48)`"]
+  n31 --- n37
+  n38["`Tập lắng nghe và đi vào tâm trí người đang nói (6.53)`"]
+  n31 --- n38
+  n39["`Mục 6.12, 6.24, 6.30, 6.36, 6.47, 6.49 — Chân dung Antoninus và cái chết của mọi người`"]
+  n0 --- n39
+  n40["`Triều đình là mẹ kế, triết học là mẹ ruột: kính mẹ kế nhưng thường về với mẹ ruột (6.12)`"]
+  n39 --- n40
+  n41["`Đừng bị Caesar hóa, đừng để vai hoàng đế nhuộm tía con người mình; giữ giản dị, trong sạch, yêu công lý, nhân hậu (6.30)`"]
+  n39 --- n41
+  n42["`Quả duy nhất của đời: tâm thế trong sạch và việc làm vì cộng đồng (6.30)`"]
+  n39 --- n42
+  n43["`Làm mọi việc như học trò của Antoninus (6.30)`"]
+  n39 --- n43
+  n44["`Xét kỹ đến cùng, không hấp tấp; chịu chê bất công không đáp trả; không nghe kẻ chỉ điểm`"]
+  n43 --- n44
+  n45["`Sống giản dị, làm việc tới tối; vui khi có người chỉ ra ý tốt hơn; kính thần không mê tín`"]
+  n43 --- n45
+  n46["`Alexander và người dắt la cùng chung kết cục: về lý trí sinh thành hoặc tan thành nguyên tử (6.24)`"]
+  n39 --- n46
+  n47["`Heraclitus, Pythagoras, Socrates, Archimedes đều đã nằm dưới đất; chỉ đáng giá là sống thật và công chính (6.47)`"]
+  n39 --- n47
+  n48["`Châu Á, châu Âu là góc nhỏ, đại dương là giọt nước, hiện tại là một điểm trong vĩnh hằng (6.36)`"]
+  n39 --- n48
+  n49["`Chấp nhận giới hạn số năm sống như chấp nhận giới hạn cân nặng (6.49)`"]
+  n39 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Phép nhìn trần trụi là thuốc chữa sự thổi phồng, không dùng để lột vỏ đức hạnh, dùng sai thành khinh bạc`"]
+  n50 --- n51
+  n52["`Đạo đức đứng được mà không cần thần học: ở nhánh không có thần ta vẫn tự quyết theo bản chất`"]
+  n50 --- n52
+  n53["`Chân dung Antoninus là bản mô tả công việc lãnh đạo bằng hành vi quan sát được, không phải khẩu hiệu`"]
+  n50 --- n53
+  n54["`Khắc kỷ không lạnh lùng: chỉ bỏ cảm xúc dựa trên phán đoán sai, giữ lại lòng yêu người`"]
+  n50 --- n54
+  n55["`Bản dịch sai: typhos là thói tự phụ chứ không phải vẻ ngoài; Caesar hóa không chỉ là thành bạo chúa`"]
+  n50 --- n55
+  class n0 root
+  class n1,n11,n22,n31,n39,n50 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55 leaf
+```

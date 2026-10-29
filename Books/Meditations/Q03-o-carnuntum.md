@@ -503,3 +503,103 @@ Giữa những lời tự răn khắc nghiệt có mục 3.2 về vỏ bánh mì
 - **Lên kế hoạch cho lúc trí tuệ suy giảm, theo 3.1.** Người trung niên quản lý tài sản gia đình nên lập sẵn uỷ quyền, danh mục tài sản, mật khẩu và nguyên tắc đầu tư bằng văn bản khi còn minh mẫn, để người thân không phải đoán. Nhiều vụ lừa đảo qua điện thoại ở Việt Nam nhắm vào người cao tuổi chính vì năng lực phán đoán giảm trước sự tự tin.
 - **Thôi tích luỹ tài liệu, bắt đầu làm.** 3.14 là lời nhắc cho người đọc hết sách tài chính cá nhân nhưng chưa lập quỹ khẩn cấp, chưa mở tài khoản hưu trí bổ sung. Đọc thêm một cuốn không thay được việc tự động chuyển 10–20% thu nhập vào tiết kiệm từ tháng này.
 - **Cho người lãnh đạo:** phép thử 3.4 (nếu ai hỏi, ta có nói thật ngay được không?) áp dụng tốt vào cuộc họp: nếu lý do thật của một quyết định nhân sự là không thể nói ra trước toàn đội, đó là dấu hiệu quyết định có vấn đề.
+
+## Bản đồ tư duy
+
+Toàn cảnh Quyển 3 trên một trang: bốn nhánh lớn theo bốn nhóm mục của bản gốc (khẩn trương vì trí tuệ có thể suy tàn, lấy daimon làm chuẩn mực duy nhất, kỷ luật suy nghĩ và phân tích sự vật, chân dung người tốt), mỗi nhánh ghi lập luận, hình ảnh và số mục; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Quyển 3: phải khẩn trương vì trí tuệ có thể tàn trước thân; lấy phần lý trí bên trong làm thước đo duy nhất, không cho danh, quyền, tiền, lạc thú chen vào`"]
+  n1["`Mục 3.1, 3.3, 3.10, 3.14 — Khẩn trương: trí tuệ có thể suy tàn trước khi thân chết`"]
+  n0 --- n1
+  n2["`Người lú lẫn vẫn thở, ăn, có thôi thúc, nhưng mất khả năng xét bổn phận và biết lúc dừng (3.1)`"]
+  n1 --- n2
+  n3["`Trí tuệ suy tàn là một kiểu chết sớm, vì mất luôn cả quyền lựa chọn`"]
+  n1 --- n3
+  n4["`Người vĩ đại cũng chết tầm thường (3.3)`"]
+  n1 --- n4
+  n5["`Hippocrates chữa bệnh cho bao người rồi chết vì bệnh; Alexander, Pompey, Caesar giết hàng nghìn người rồi cũng chết`"]
+  n4 --- n5
+  n6["`Heraclitus dạy thế giới kết thúc trong lửa, lại chết vì bệnh phù nước; Democritus chết vì chấy rận`"]
+  n4 --- n6
+  n7["`Đã lên tàu, đã vượt biển, đến lúc lên bờ: có đời sau thì có thần linh, hết cảm giác thì thôi phục dịch thân xác`"]
+  n1 --- n7
+  n8["`Ta chỉ sống trong hiện tại; đời, góc đất ta ở và cả danh tiếng lâu nhất đều nhỏ (3.10)`"]
+  n1 --- n8
+  n9["`Thôi để dành sổ chép trích dẫn đến già mới đọc; chạy nước rút về đích, tự cứu mình khi còn có thể (3.14)`"]
+  n1 --- n9
+  n10["`Mục 3.6–3.7, 3.16 — Daimon là chuẩn mực duy nhất`"]
+  n0 --- n10
+  n11["`Phép thử: có gì tốt hơn công lý, trung thực, tự chủ, can đảm không? Có thì theo hết lòng (3.6)`"]
+  n10 --- n11
+  n12["`Không có thì không cho khen ngợi đám đông, quyền lực, của cải, lạc thú chen vào`"]
+  n10 --- n12
+  n13["`Chúng có vẻ dung hoà được rồi đột ngột chiếm quyền và cuốn ta đi; phải chọn một lần, dứt khoát`"]
+  n10 --- n13
+  n14["`Có lợi cho ta với tư cách sinh vật lý trí, hay chỉ với tư cách con vật?`"]
+  n10 --- n14
+  n15["`Phép thử ngược: không coi là có lợi điều gì buộc ta phản bội sự thật hay phải làm sau cửa đóng kín (3.7)`"]
+  n10 --- n15
+  n16["`Lập luận loại trừ: điều riêng của người tốt (3.16)`"]
+  n10 --- n16
+  n17["`Nhận cảm giác thì súc vật cũng có; bị thôi thúc giật dây thì bạo chúa Phalaris, Nero cũng thế`"]
+  n16 --- n17
+  n18["`Dùng trí óc theo điều mình tưởng là bổn phận thì kẻ phản quốc cũng làm được`"]
+  n16 --- n18
+  n19["`Còn lại: đón nhận phần số, giữ daimon trong sạch, nói thật, làm điều chính đáng`"]
+  n16 --- n19
+  n20["`Mục 3.4, 3.9, 3.11, 3.13 — Kỷ luật suy nghĩ và phương pháp phân tích sự vật`"]
+  n0 --- n20
+  n21["`Chỉ nghĩ điều mà nếu ai hỏi đang nghĩ gì, ta trả lời thật ngay được, không hổ thẹn (3.4)`"]
+  n20 --- n21
+  n22["`Năng lực phán đoán là thứ duy nhất đứng gác, ngăn ý kiến trái tự nhiên lọt vào (3.9)`"]
+  n20 --- n22
+  n23["`Bốn câu hỏi phân tích (3.11)`"]
+  n20 --- n23
+  n24["`Nó là gì? Lột hết vẻ ngoài, gọi đúng tên`"]
+  n23 --- n24
+  n25["`Nó làm bằng gì, và tự nhiên định cho nó tồn tại bao lâu?`"]
+  n23 --- n25
+  n26["`Cần đức hạnh nào để đối diện: bình thản, can đảm, trung thực, đáng tin?`"]
+  n23 --- n26
+  n27["`Phân loại nguồn: do thần linh, do số phận may rủi, hay do một đồng loại không biết điều hợp tự nhiên`"]
+  n20 --- n27
+  n28["`Người đến từ đồng loại lầm lỗi vẫn được đối xử tử tế và công bằng`"]
+  n20 --- n28
+  n29["`Giữ nguyên tắc triết học luôn sẵn như bác sĩ luôn sẵn dao mổ cho ca khẩn cấp (3.13)`"]
+  n20 --- n29
+  n30["`Mục 3.2, 3.4–3.5, 3.8, 3.12 — Chân dung người tốt Marcus muốn trở thành`"]
+  n0 --- n30
+  n31["`Như thầy tư tế phụng sự thần linh bên trong, như lực sĩ đấu cuộc đấu không để đam mê nào quật ngã (3.4)`"]
+  n30 --- n31
+  n32["`Công lý thấm tận lõi như vải nhuộm sâu; chỉ coi trọng ý kiến người sống thuận tự nhiên`"]
+  n30 --- n32
+  n33["`Như người lính giữ chốt chờ lệnh rút khỏi đời; đứng thẳng, không cần ai nắn cho thẳng (3.5)`"]
+  n30 --- n33
+  n34["`Tâm trí lành như vết thương sạch; đời không dở dang dù chết bất ngờ, khác diễn viên rời sân khấu giữa vở (3.8)`"]
+  n30 --- n34
+  n35["`Làm việc trước mắt cho đúng, không mong gì, không né gì, thì sống tốt và không ai cản được (3.12)`"]
+  n30 --- n35
+  n36["`Thấy cái đẹp của sản phẩm phụ trong tự nhiên: vỏ bánh nứt, quả vả chín nứt, nếp nhăn sư tử (3.2)`"]
+  n30 --- n36
+  n37["`Thông điệp xuyên suốt`"]
+  n0 --- n37
+  n38["`Khắc kỷ là khẩn cấp có kỷ luật: chấp nhận cái ngoài quyền mình, đòi hỏi gắt cái trong quyền mình`"]
+  n37 --- n38
+  n39["`Đức hạnh không phải món hàng để đổi lấy danh và tiền mà là cái thước đo mọi món hàng`"]
+  n37 --- n39
+  n40["`Trí thông minh chưa phải đức hạnh: kẻ phản quốc cũng dùng lý trí`"]
+  n37 --- n40
+  n41["`Độc lập về thước đo, không phải cô lập: mọi sinh vật lý trí là họ hàng`"]
+  n37 --- n41
+  n42["`Phần đạo đức đứng vững cả khi bỏ giả định vũ trụ được an bài hợp lý`"]
+  n37 --- n42
+  class n0 root
+  class n1,n10,n20,n30,n37 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42 leaf
+```

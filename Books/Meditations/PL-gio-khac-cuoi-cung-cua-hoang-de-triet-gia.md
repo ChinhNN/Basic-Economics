@@ -482,3 +482,131 @@ Lập luận đối xứng (không ai tiếc vì trước khi sinh chẳng ai bi
 - **Của cải là yên ngựa vàng:** tài sản, chức danh không làm người ta tốt hơn; chúng là *adiaphora*, chất liệu để dùng khôn hay dại. Ứng dụng: đặt mục tiêu tài chính theo việc nó cho phép làm (học, chăm cha mẹ, tự do chọn việc), không theo con số để khoe.
 - **Kế hoạch di sản như một bài tập Khắc kỷ:** viết di chúc, lập ủy quyền, bảo hiểm, ghi danh mục tài khoản cho người thân. Ở Việt Nam việc này hay bị né vì kiêng nói chuyện chết, đúng thứ "điềm gở" mà bài chế giễu. Làm sớm là cách thực hành "tháo mặt nạ cái chết" có ích nhất cho gia đình.
 - **Lãnh đạo và kế nhiệm:** "hãy đi về phía mặt trời đang mọc" là bài học cho người đứng đầu doanh nghiệp gia đình: chuẩn bị người kế vị và trao quyền rõ ràng trước khi mình "lặn". Trường hợp Commodus cũng nhắc rằng tình thương cha con không thay được đánh giá năng lực khi chọn người kế nhiệm.
+
+## Bản đồ tư duy
+
+Toàn cảnh bài phụ lục trên một trang: sáu nhánh lớn theo trình tự các đoạn của bài (tr. 208–227), từ khung truyện, qua các chặng độc thoại của người hấp hối, đến hai việc duy nhất đáng làm và lời từ biệt, mỗi nhánh ghi lập luận, hình ảnh và số đoạn Suy tưởng được diễn lại; nhánh cuối là ranh giới sử liệu – hư cấu và thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phụ lục – Giờ khắc cuối cùng: Robertson dựng đêm hấp hối của Marcus để chứng minh triết học Khắc kỷ dùng được ngay trước cái chết`"]
+  n1["`Tr. 208–209 — Khung truyện: đêm 17/3/180 ở Vindobona`"]
+  n0 --- n1
+  n2["`Văn bản của Donald Robertson (How to Think Like a Roman Emperor, 2019), không phải của Marcus`"]
+  n1 --- n2
+  n3["`Hoàng đế bệnh nặng, tự nhịn ăn nhiều ngày, trùm khăn lên đầu nằm xuống`"]
+  n1 --- n3
+  n4["`Câu về mặt trời mọc có nghĩa gốc: hãy phục vụ người kế vị Commodus, vì ta đã lặn`"]
+  n1 --- n4
+  n5["`Chuyển từ ngôi thứ ba sang độc thoại ngôi thứ nhất qua năm chặng`"]
+  n1 --- n5
+  n6["`Tr. 209–212 — Chặng 1–2: mọi thứ trôi đi, kể cả những người thân`"]
+  n0 --- n6
+  n7["`Heraclitus: không ai bước hai lần xuống cùng một dòng sông; sống và chết đều là thay đổi`"]
+  n6 --- n7
+  n8["`Níu sự sống bằng ăn uống, bùa phép là ngu (thơ Euripides, 7.51)`"]
+  n6 --- n8
+  n9["`Người ta tự gây bi kịch vì bám vào thứ mong manh: kiêu căng hoặc than vãn`"]
+  n6 --- n9
+  n10["`13 con với Faustina, nay chỉ còn Commodus và 4 con gái`"]
+  n6 --- n10
+  n11["`Con cái như chim sẻ vừa thấy đáng yêu đã bay mất (6.15), như lá bị gió cuốn (Homer, 10.34)`"]
+  n10 --- n11
+  n12["`Khóc bé Marcus Annius Verus 5 ngày rồi ra trận Pannonia`"]
+  n10 --- n12
+  n13["`Apollonius: tiếc thương là tự nhiên, nhưng không được tự làm nỗi đau nặng thêm`"]
+  n6 --- n13
+  n14["`Epictetus: mong con không bao giờ chết như mong quả vả vào mùa đông (11.33)`"]
+  n6 --- n14
+  n15["`Xenophon nghe con tử trận: ta vẫn biết con ta là người phải chết`"]
+  n6 --- n15
+  n16["`Chuỗi tiễn biệt: cha, mẹ Lucilla, Antoninus, Lucius, Faustina, rồi đến lượt Marcus`"]
+  n6 --- n16
+  n17["`Tr. 212–215 — Cái chết, người bạn cũ: mọi thời đại giống nhau, danh tiếng vô nghĩa`"]
+  n0 --- n17
+  n18["`Thời nào người ta cũng cưới, sinh, bệnh, chết, nịnh, mưu, tích của, thèm ngôi (4.32)`"]
+  n17 --- n18
+  n19["`Alexander Đại đế và người chăn la của ông chung một kết cục (6.24)`"]
+  n17 --- n19
+  n20["`Dòng họ cuối cùng vẫn phải khắc lên bia người cuối cùng của dòng họ (8.31)`"]
+  n17 --- n20
+  n21["`Tên Hadrian, Antoninus đã nghe cổ kính; mai đến tên Marcus (4.33)`"]
+  n17 --- n21
+  n22["`Không ai khổ vì trước khi sinh chẳng ai biết tên mình, nên bị quên sau khi chết cũng không đáng khổ`"]
+  n17 --- n22
+  n23["`Khải hoàn với Lucius đi cùng dịch bệnh kéo dài 14 năm: vinh quang và cái chết chung một chuyến xe`"]
+  n17 --- n23
+  n24["`Tr. 215–217 — Chặng 3: tháo mặt nạ cái chết`"]
+  n0 --- n24
+  n25["`Socrates (Phaedo): cái chết là mặt nạ xấu xí dọa trẻ con, bóc ra chỉ còn tiến trình tự nhiên`"]
+  n24 --- n25
+  n26["`Epictetus: không phải cái chết làm ta buồn mà là cách ta nhìn nó`"]
+  n24 --- n26
+  n27["`Nỗi sợ chết hại hơn cái chết vì nó làm người ta sống hèn, như xiềng xích nô lệ`"]
+  n24 --- n27
+  n28["`Ba lập luận hội tụ`"]
+  n24 --- n28
+  n29["`Epicurus: chết là mất cảm giác như giấc ngủ, như hàng vạn năm trước khi sinh`"]
+  n28 --- n29
+  n30["`Khắc kỷ: các thành phần trở về nguồn, như sáp nặn ngựa thành cây thành người (7.23)`"]
+  n28 --- n30
+  n31["`Đối xứng: không buồn vì nhỏ trong không gian thì đừng sợ vì ngắn trong thời gian`"]
+  n28 --- n31
+  n32["`Ta chết dần mỗi ngày: nho xanh, chín, khô (11.35); mỗi tuổi đời đã kết thúc một lần`"]
+  n24 --- n32
+  n33["`Zeno già ngã đập đầu, đùa với cái chết: ta tự đến được, sao phải gọi?`"]
+  n24 --- n33
+  n34["`Tr. 218–226 — Chặng 4: nhìn từ trên cao và hai việc duy nhất`"]
+  n0 --- n34
+  n35["`Bay lên như Zeus nhìn từ Olympus, như giấc mơ của Scipio (Cicero), tháp canh của Plato (9.30)`"]
+  n34 --- n35
+  n36["`Loài người như đàn kiến; thành phố mọc lên rồi đổ, bộ tộc văn minh rồi lại man rợ`"]
+  n34 --- n36
+  n37["`Trái đất là một chấm, châu Á, châu Âu là hạt bụi, đại dương là giọt nước (6.36)`"]
+  n34 --- n37
+  n38["`Cáu giận với vũ trụ vì rắc rối riêng giống khóc vì vết xước trên ngón tay`"]
+  n34 --- n38
+  n39["`Vũ trụ là một sinh thể có một tâm trí, mỗi người là một chi của nó (4.40)`"]
+  n34 --- n39
+  n40["`Hai việc duy nhất đáng làm`"]
+  n34 --- n40
+  n41["`Sống theo bản tính lý trí: việc thuộc quyền ta`"]
+  n40 --- n41
+  n42["`Đón nhận bình thản mọi điều tự nhiên gửi: khen chê, đau sướng, sống chết`"]
+  n40 --- n42
+  n43["`Tâm trí hiền nhân như mặt trời: soi mọi vật mà không bị vấy bẩn (8.57)`"]
+  n34 --- n43
+  n44["`Lý trí như lửa biến chướng ngại thành nhiên liệu (4.1)`"]
+  n34 --- n44
+  n45["`Ngoại vật là adiaphora: yên vàng không làm con ngựa tốt hơn`"]
+  n34 --- n45
+  n46["`Tr. 226–227 — Lời từ biệt: diễn lại đoạn 2.17`"]
+  n0 --- n46
+  n47["`Đời là khoảnh khắc, thân là dòng chảy, hồn là giấc mơ, danh tiếng sau khi chết là quên lãng`"]
+  n46 --- n47
+  n48["`Chỉ triết học dẫn đường: giữ phần thần thánh bên trong, không làm gì vô mục đích hay giả dối`"]
+  n46 --- n48
+  n49["`Chết là các thành phần tách ra, việc thuận tự nhiên nên không thể là điều xấu`"]
+  n46 --- n49
+  n50["`Bình minh sắp đến, ông không còn thấy, và điều đó không sao cả`"]
+  n46 --- n50
+  n51["`Thông điệp xuyên suốt và ranh giới sử – hư cấu`"]
+  n0 --- n51
+  n52["`Toàn bộ độc thoại là hư cấu; đừng trích như lời Marcus`"]
+  n51 --- n52
+  n53["`Có căn cứ: nhịn ăn, trùm đầu, câu mặt trời mọc, mất con khi mổ khối u, lăng Hadrian`"]
+  n51 --- n53
+  n54["`Bản dịch sai: gọi dịch Antonine là dịch hạch, thực ra nhiều khả năng là đậu mùa`"]
+  n51 --- n54
+  n55["`Robertson sắp các đoạn rời của Suy tưởng thành trình tự trị liệu: buông, tiếc có chừng mực, hết sợ chết, nhìn từ cao, sống theo lý trí`"]
+  n51 --- n55
+  n56["`Khắc kỷ không phải vô cảm: được khóc, nhưng không chồng thêm phán đoán tuyệt vọng`"]
+  n51 --- n56
+  class n0 root
+  class n1,n6,n17,n24,n34,n46,n51 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n52,n53,n54,n55,n56 leaf
+```
