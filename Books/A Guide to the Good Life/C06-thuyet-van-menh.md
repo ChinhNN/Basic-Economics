@@ -1,17 +1,18 @@
 # Chương 6 — Thuyết vận mệnh: Buông bỏ quá khứ... và cả hiện tại (Fatalism: Letting Go of the Past ... and the Present)
 
-**Nguồn:** William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 6 "Thuyết vận mệnh", trang PDF 81–87.
-**Tác giả:** William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 ([C04-tuong-tuong-tieu-cuc.md](C04-tuong-tuong-tieu-cuc.md)) dạy tưởng tượng hoàn cảnh có thể tệ hơn để trân trọng điều đang có; Chương 5 ([C05-luong-phan-quyen-kiem-soat.md](C05-luong-phan-quyen-kiem-soat.md)) dạy gạt sang bên những gì ta hoàn toàn không kiểm soát được. Chương 6 nối hai chương ấy: quá khứ và khoảnh khắc hiện tại là những thứ ta hoàn toàn không kiểm soát được, nên ta nên chấp nhận chúng như vận mệnh; và thuyết vận mệnh là "mặt bên kia" của tưởng tượng tiêu cực, vì nó từ chối nghĩ hoàn cảnh có thể tốt hơn. Chương 7 ([C07-tu-tiet-che-ban-than.md](C07-tu-tiet-che-ban-than.md)) chuyển sang kỹ thuật tự tiết chế. Cuối chương, Irvine hẹn Chương 9 ([C09-bon-phan.md](C09-bon-phan.md)) về bổn phận xã hội và Chương 14–15 ([C14-gia-tri-ca-nhan-danh-vong.md](C14-gia-tri-ca-nhan-danh-vong.md), [C15-gia-tri-ca-nhan-cuoc-song-xa-hoa.md](C15-gia-tri-ca-nhan-cuoc-song-xa-hoa.md)) về danh vọng và của cải.
-**Ý chính:** **Irvine cho rằng các nhà Khắc kỷ chỉ khuyên một thuyết vận mệnh có giới hạn: chấp nhận quá khứ và khoảnh khắc hiện tại như chúng đã là, vì không thể thay đổi chúng, nhưng vẫn nỗ lực tác động đến tương lai.** Seneca, Epictetus và Marcus đều khuyên thuận theo vận mệnh: Seneca thấy an ủi khi trôi cùng vũ trụ; Epictetus ví ta như diễn viên trong vở kịch do Vận mệnh phân vai và khuyên muốn mọi sự "xảy đến đúng như chúng cần phải xảy đến"; Marcus khuyên đón nhận "mọi trải nghiệm mà khung cửi số phận dệt". Người La Mã tin ba nữ thần vận mệnh (Clotho, Lachesis, Atropos), nên đời như cuộc đua ngựa đã dàn xếp; vậy mà các nhà Khắc kỷ vẫn ra sức tác động tới tương lai. Irvine giải thích bằng cách phân biệt thuyết vận mệnh về tương lai với thuyết vận mệnh về quá khứ: người mẹ có con ốm phải tìm cách chữa, nhưng nếu con chết thì nên rút bài học (như tránh quả dại có độc) rồi buông bỏ, không sống với những câu "giá mà". Ông thêm thuyết vận mệnh về hiện tại: khoảnh khắc này không thể thay đổi vì mọi hành động đều đến sau nó. Lời khuyên này nhất quán với Chương 5 và là ảnh chiếu của tưởng tượng tiêu cực: không so hoàn cảnh với những hoàn cảnh tốt hơn. Trước lo ngại rằng như vậy sẽ thành tự mãn, Irvine chỉ ra Seneca, Musonius, Epictetus và Marcus đều rất năng động và thành công; họ phấn đấu cho đức hạnh, cho việc thực hành Khắc kỷ và cho bổn phận xã hội, không theo đuổi tiền tài danh vọng, nhưng lại thường có chúng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Cách Irvine hiểu thuyết vận mệnh Khắc kỷ là diễn giải riêng của ông (nhận xét của người tổng hợp).** Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), các nhà Khắc kỷ cổ, nhất là Chrysippus, là người theo thuyết tất định: mọi sự, kể cả tương lai, đều nằm trong chuỗi nguyên nhân của số mệnh (*heimarmenē*). Họ không chia "vận mệnh về quá khứ" với "vận mệnh về tương lai"; họ trả lời câu hỏi "vậy sao còn cố gắng" bằng lập luận rằng chính nỗ lực của ta cũng là một mắt xích trong chuỗi nguyên nhân (phản bác "lập luận lười biếng" và ví dụ hình trụ lăn của Chrysippus). Phiên bản giới hạn của Irvine dễ chấp nhận với người hiện đại nhưng không phải học thuyết gốc; chính ông nói "Tôi cho rằng".
-> - **Ba nữ thần vận mệnh:** Clotho, Lachesis và Atropos là tên Hy Lạp (*Moirai*). Người La Mã gọi họ là *Parcae* (Nona, Decima, Morta) (theo hiểu biết của người tổng hợp). Ngoài ra, với các triết gia Khắc kỷ, vận mệnh là trật tự lý trí của vũ trụ (*logos*) hơn là ba nữ thần thần thoại; câu "các triết gia Khắc kỷ tin vào sự tồn tại của ba nữ thần vận mệnh" nên đọc như nói về văn hóa chung của người La Mã (nhận xét của người tổng hợp).
-> - **"Thuyết định mệnh về hiện tại"** (trang PDF 85): bản dịch đổi chữ giữa chừng; cả chương dùng "thuyết vận mệnh". Bản tổng hợp dùng thống nhất "thuyết vận mệnh". Chữ "Vận mệnh" viết hoa trong bản dịch dịch *Fate*, khác với "Vận mệnh" ở Chương 4 dịch *Fortune*; bản dịch dùng một chữ cho hai khái niệm (Fate là trật tự đã định, Fortune là may rủi).
-> - **Nguồn các câu trích (theo hiểu biết của người tổng hợp, Irvine không ghi số mục trong lời văn):** câu Seneca về niềm an ủi khi trôi cùng vũ trụ thuộc *Bàn về thiên ý* (*De providentia*); ví dụ diễn viên thuộc *Cẩm nang* của Epictetus mục 17, câu "xảy đến đúng như chúng cần phải xảy đến" thuộc mục 8; câu Marcus về khung cửi số phận gần với *Suy tưởng* 3.16 (xem [Q03](../Meditations/Q03-o-carnuntum.md)), lời khuyên yêu những người vận mệnh đặt cạnh mình gần với 6.39 (xem [Q06](../Meditations/Q06-nhin-thau-ban-chat-su-vat.md)), và ý "chỉ sở hữu khoảnh khắc hiện tại" gần với 2.14 và 3.10 (xem [Q02](../Meditations/Q02-ben-dong-gran.md), [Q03](../Meditations/Q03-o-carnuntum.md)).
-> - **Lỗi chữ của ebook:** "bất kể thử gì" (trang PDF 84, đúng là "thứ gì").
-> - **"Đức hạnh theo ý nghĩa cổ của từ này"** (trang PDF 86): ý là đức hạnh (*aretē*) theo nghĩa sự xuất sắc trong việc làm người, không phải sự đạo mạo theo nghĩa hẹp hiện nay.
+**Irvine cho rằng các nhà Khắc kỷ chỉ khuyên một thuyết vận mệnh có giới hạn: chấp nhận quá khứ và khoảnh khắc hiện tại như chúng đã là, vì không thể thay đổi chúng, nhưng vẫn nỗ lực tác động đến tương lai.**
+
+Seneca, Epictetus và Marcus đều khuyên thuận theo vận mệnh: Seneca thấy an ủi khi trôi cùng vũ trụ; Epictetus ví ta như diễn viên trong vở kịch do Vận mệnh phân vai và khuyên muốn mọi sự "xảy đến đúng như chúng cần phải xảy đến"; Marcus khuyên đón nhận "mọi trải nghiệm mà khung cửi số phận dệt".
+
+Người La Mã tin ba nữ thần vận mệnh (Clotho, Lachesis, Atropos), nên đời như cuộc đua ngựa đã dàn xếp; vậy mà các nhà Khắc kỷ vẫn ra sức tác động tới tương lai.
+
+Irvine giải thích bằng cách phân biệt thuyết vận mệnh về tương lai với thuyết vận mệnh về quá khứ: người mẹ có con ốm phải tìm cách chữa, nhưng nếu con chết thì nên rút bài học (như tránh quả dại có độc) rồi buông bỏ, không sống với những câu "giá mà".
+
+Ông thêm thuyết vận mệnh về hiện tại: khoảnh khắc này không thể thay đổi vì mọi hành động đều đến sau nó. Lời khuyên này nhất quán với Chương 5 và là ảnh chiếu của tưởng tượng tiêu cực: không so hoàn cảnh với những hoàn cảnh tốt hơn.
+
+Trước lo ngại rằng như vậy sẽ thành tự mãn, Irvine chỉ ra Seneca, Musonius, Epictetus và Marcus đều rất năng động và thành công; họ phấn đấu cho đức hạnh, cho việc thực hành Khắc kỷ và cho bổn phận xã hội, không theo đuổi tiền tài danh vọng, nhưng lại thường có chúng.
 
 ## Sơ đồ
 
@@ -187,7 +188,9 @@ Marcus cũng tin vào thuyết vận mệnh. Làm trái nó là chống lại t�
 
 Như phần lớn người La Mã cổ đại, các triết gia Khắc kỷ tin vào vận mệnh, cụ thể là vào ba nữ thần vận mệnh, mỗi người một việc: Clotho quay sợi, Lachesis đo sợi, Atropos cắt chỉ. Dù cố gắng đến đâu, con người cũng không thoát được số phận các nữ thần đã chọn.
 
-Vì vậy với người La Mã cổ đại, đời giống một cuộc đua ngựa đã được dàn xếp: Vận mệnh đã biết trước ai thắng. Một tay đua có thể từ chối dự một cuộc đua mà kết quả đã định: sao phải tranh khi ai đó đã biết người thắng? Tương tự, có thể tưởng người La Mã sẽ từ chối mọi cuộc tranh đấu trong đời, vì tương lai đã an bài. Điều thú vị là dù người xưa tin thuyết tiền định, tức bất cứ điều gì xảy ra đều phải xảy ra, họ không quan niệm rằng vận mệnh chi phối tương lai theo nghĩa khiến họ buông xuôi. Các nhà Khắc kỷ không ngồi khoanh tay cam chịu; họ tìm cách tác động tới kết quả các sự kiện tương lai. Như vậy họ dường như ủng hộ thuyết vận mệnh mà không làm theo nó. Vậy phải hiểu lời khuyên tin rằng mọi sự là vận mệnh thế nào?
+Vì vậy với người La Mã cổ đại, đời giống một cuộc đua ngựa đã được dàn xếp: Vận mệnh đã biết trước ai thắng. Một tay đua có thể từ chối dự một cuộc đua mà kết quả đã định: sao phải tranh khi ai đó đã biết người thắng? Tương tự, có thể tưởng người La Mã sẽ từ chối mọi cuộc tranh đấu trong đời, vì tương lai đã an bài.
+
+Điều thú vị là dù người xưa tin thuyết tiền định, tức bất cứ điều gì xảy ra đều phải xảy ra, họ không quan niệm rằng vận mệnh chi phối tương lai theo nghĩa khiến họ buông xuôi. Các nhà Khắc kỷ không ngồi khoanh tay cam chịu; họ tìm cách tác động tới kết quả các sự kiện tương lai. Như vậy họ dường như ủng hộ thuyết vận mệnh mà không làm theo nó. Vậy phải hiểu lời khuyên tin rằng mọi sự là vận mệnh thế nào?
 
 ### 3. Thuyết vận mệnh về tương lai và về quá khứ (trang PDF 82–83)
 
@@ -235,7 +238,9 @@ Irvine nhắc rằng các nhà Khắc kỷ được bàn trong sách đều vô 
 - làm các bổn phận xã hội của mình (sẽ bàn ở Chương 9): đó là lý do Seneca và Marcus thấy nhất định phải tham gia chính quyền La Mã, còn Musonius và Epictetus thấy nhất định phải dạy chủ nghĩa Khắc kỷ;
 - làm những việc cần thiết để tận hưởng hoàn cảnh hiện tại; Seneca khuyên "chú ý đến tất cả những lợi thế tô điểm cho cuộc sống", nên ta có thể kết hôn, sinh con, xây dựng và vui hưởng tình bạn.
 
-Còn thành công thế tục thì sao, các nhà Khắc kỷ có theo đuổi tiền tài danh vọng không? Họ không màng tới chúng. Họ cho rằng những thứ ấy không có giá trị thực sự, nên theo đuổi chúng là ngu ngốc, nhất là khi điều đó phá vỡ sự bình thản hoặc đòi hỏi hành động vô đạo đức. Irvine nhận ra sự thờ ơ này làm họ có vẻ thiếu động lực trong mắt người thời nay, vốn làm việc chăm chỉ để có danh vọng và của cải. Nhưng ông nói thêm: dù không theo đuổi thành công thế tục, họ lại thường có được nó. Seneca và Marcus đều giàu có và nổi tiếng; Musonius và Epictetus, là người đứng đầu các trường triết học lừng danh, hẳn cũng được nhiều người biết đến và có đời sống tài chính dư dả. Họ rơi vào tình thế lạ: không theo đuổi thành công mà rốt cuộc có nó. Chương 14 và 15 sẽ cho thấy họ giải quyết nan đề này thế nào.
+Còn thành công thế tục thì sao, các nhà Khắc kỷ có theo đuổi tiền tài danh vọng không? Họ không màng tới chúng. Họ cho rằng những thứ ấy không có giá trị thực sự, nên theo đuổi chúng là ngu ngốc, nhất là khi điều đó phá vỡ sự bình thản hoặc đòi hỏi hành động vô đạo đức. Irvine nhận ra sự thờ ơ này làm họ có vẻ thiếu động lực trong mắt người thời nay, vốn làm việc chăm chỉ để có danh vọng và của cải.
+
+Nhưng ông nói thêm: dù không theo đuổi thành công thế tục, họ lại thường có được nó. Seneca và Marcus đều giàu có và nổi tiếng; Musonius và Epictetus, là người đứng đầu các trường triết học lừng danh, hẳn cũng được nhiều người biết đến và có đời sống tài chính dư dả. Họ rơi vào tình thế lạ: không theo đuổi thành công mà rốt cuộc có nó. Chương 14 và 15 sẽ cho thấy họ giải quyết nan đề này thế nào.
 
 ## Luận điểm triết học cốt lõi
 
@@ -430,3 +435,24 @@ flowchart LR
   class n1,n7,n12,n19,n27,n33 branch
   class n2,n3,n4,n5,n6,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35 leaf
 ```
+
+## Nguồn
+
+William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 6 "Thuyết vận mệnh", trang PDF 81–87.
+
+## Tác giả
+
+William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 ([C04-tuong-tuong-tieu-cuc.md](C04-tuong-tuong-tieu-cuc.md)) dạy tưởng tượng hoàn cảnh có thể tệ hơn để trân trọng điều đang có; Chương 5 ([C05-luong-phan-quyen-kiem-soat.md](C05-luong-phan-quyen-kiem-soat.md)) dạy gạt sang bên những gì ta hoàn toàn không kiểm soát được. Chương 6 nối hai chương ấy: quá khứ và khoảnh khắc hiện tại là những thứ ta hoàn toàn không kiểm soát được, nên ta nên chấp nhận chúng như vận mệnh; và thuyết vận mệnh là "mặt bên kia" của tưởng tượng tiêu cực, vì nó từ chối nghĩ hoàn cảnh có thể tốt hơn. Chương 7 ([C07-tu-tiet-che-ban-than.md](C07-tu-tiet-che-ban-than.md)) chuyển sang kỹ thuật tự tiết chế. Cuối chương, Irvine hẹn Chương 9 ([C09-bon-phan.md](C09-bon-phan.md)) về bổn phận xã hội và Chương 14–15 ([C14-gia-tri-ca-nhan-danh-vong.md](C14-gia-tri-ca-nhan-danh-vong.md), [C15-gia-tri-ca-nhan-cuoc-song-xa-hoa.md](C15-gia-tri-ca-nhan-cuoc-song-xa-hoa.md)) về danh vọng và của cải.
+
+## Lưu ý
+
+- **Cách Irvine hiểu thuyết vận mệnh Khắc kỷ là diễn giải riêng của ông (nhận xét của người tổng hợp).** Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), các nhà Khắc kỷ cổ, nhất là Chrysippus, là người theo thuyết tất định: mọi sự, kể cả tương lai, đều nằm trong chuỗi nguyên nhân của số mệnh (*heimarmenē*). Họ không chia "vận mệnh về quá khứ" với "vận mệnh về tương lai"; họ trả lời câu hỏi "vậy sao còn cố gắng" bằng lập luận rằng chính nỗ lực của ta cũng là một mắt xích trong chuỗi nguyên nhân (phản bác "lập luận lười biếng" và ví dụ hình trụ lăn của Chrysippus). Phiên bản giới hạn của Irvine dễ chấp nhận với người hiện đại nhưng không phải học thuyết gốc; chính ông nói "Tôi cho rằng".
+- **Ba nữ thần vận mệnh:** Clotho, Lachesis và Atropos là tên Hy Lạp (*Moirai*). Người La Mã gọi họ là *Parcae* (Nona, Decima, Morta) (theo hiểu biết của người tổng hợp). Ngoài ra, với các triết gia Khắc kỷ, vận mệnh là trật tự lý trí của vũ trụ (*logos*) hơn là ba nữ thần thần thoại; câu "các triết gia Khắc kỷ tin vào sự tồn tại của ba nữ thần vận mệnh" nên đọc như nói về văn hóa chung của người La Mã (nhận xét của người tổng hợp).
+- **"Thuyết định mệnh về hiện tại"** (trang PDF 85): bản dịch đổi chữ giữa chừng; cả chương dùng "thuyết vận mệnh". Bản tổng hợp dùng thống nhất "thuyết vận mệnh". Chữ "Vận mệnh" viết hoa trong bản dịch dịch *Fate*, khác với "Vận mệnh" ở Chương 4 dịch *Fortune*; bản dịch dùng một chữ cho hai khái niệm (Fate là trật tự đã định, Fortune là may rủi).
+- **Nguồn các câu trích (theo hiểu biết của người tổng hợp, Irvine không ghi số mục trong lời văn):** câu Seneca về niềm an ủi khi trôi cùng vũ trụ thuộc *Bàn về thiên ý* (*De providentia*); ví dụ diễn viên thuộc *Cẩm nang* của Epictetus mục 17, câu "xảy đến đúng như chúng cần phải xảy đến" thuộc mục 8; câu Marcus về khung cửi số phận gần với *Suy tưởng* 3.16 (xem [Q03](../Meditations/Q03-o-carnuntum.md)), lời khuyên yêu những người vận mệnh đặt cạnh mình gần với 6.39 (xem [Q06](../Meditations/Q06-nhin-thau-ban-chat-su-vat.md)), và ý "chỉ sở hữu khoảnh khắc hiện tại" gần với 2.14 và 3.10 (xem [Q02](../Meditations/Q02-ben-dong-gran.md), [Q03](../Meditations/Q03-o-carnuntum.md)).
+- **Lỗi chữ của ebook:** "bất kể thử gì" (trang PDF 84, đúng là "thứ gì").
+- **"Đức hạnh theo ý nghĩa cổ của từ này"** (trang PDF 86): ý là đức hạnh (*aretē*) theo nghĩa sự xuất sắc trong việc làm người, không phải sự đạo mạo theo nghĩa hẹp hiện nay.

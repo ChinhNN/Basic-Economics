@@ -1,22 +1,22 @@
 # Chương 2 — Các nhà Khắc kỷ đầu tiên (The First Stoics)
 
-**Nguồn:** William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 2 "Các nhà Khắc kỷ đầu tiên", trang PDF 26–37.
-**Tác giả:** William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-triet-hoc-quan-tam-den-cuoc-song.md](C01-triet-hoc-quan-tam-den-cuoc-song.md)) cho thấy triết học cổ đại là triết học để sống và các trường phái ở Athens cạnh tranh nhau bằng triết lý sống. Chương 2 kể về trường phái Khắc kỷ thời Hy Lạp: Zeno học phái Yếm thế rồi kết hợp lối sống của họ với lý thuyết của các trường khác; chủ nghĩa Khắc kỷ gồm lô-gic, vật lý và đạo đức, trong đó đạo đức (sống đức hạnh, tức sống thuận theo tự nhiên) là quan trọng nhất. Chương này cũng là nơi Irvine nêu lựa chọn then chốt của cả cuốn sách: theo các nhà Khắc kỷ La Mã, ông lấy sự bình thản làm trọng tâm thay cho đức hạnh. Chương 3 ([C03-chu-nghia-khac-ky-la-ma.md](C03-chu-nghia-khac-ky-la-ma.md)) kể về bốn nhà Khắc kỷ La Mã mà phần còn lại của sách dựa vào.
+## Ý chính
 
-**Ý chính:** **Irvine cho rằng chủ nghĩa Khắc kỷ ra đời khi Zeno kết hợp lối sống khắc khổ của phái Yếm thế với lý thuyết của các trường phái khác, đặt đạo đức (sống đức hạnh, tức làm tốt chức năng của con người là sống theo lý trí) làm trọng tâm; các nhà Khắc kỷ La Mã sau đó nhấn mạnh thêm sự bình thản như kết quả của đức hạnh, và Irvine chọn theo cách nhấn mạnh này vì nó hấp dẫn hơn với người hiện đại.** Zeno xứ Citium, con một lái buôn thuốc nhuộm tím, bị đắm tàu và mắc kẹt ở Athens khoảng năm 300 trước Công nguyên, rồi theo học triết gia Yếm thế Crates. Phái Yếm thế sống như người vô gia cư, khổ hạnh, nổi tiếng khôn ngoan (Antisthenes, Diogenes thành Sinope); Epictetus mô tả đòi hỏi khắc nghiệt của lối sống ấy. Zeno thấy mình quan tâm lý thuyết hơn Crates nên học thêm Stilpo (phái Megarian) và Polemo (Academy), rồi lập trường riêng ở Stoa Poikile; học trò ông được gọi là "Stoic". Phái Khắc kỷ bỏ lối khổ hạnh: được ăn ngon mặc đẹp nhưng sẵn sàng từ bỏ. Triết học Zeno gồm lô-gic (công phu nhất thời đó, có các dạng lập luận vẫn dùng đến nay, và giúp học trò thắng tranh luận), vật lý (gồm cả thần học) và đạo đức (quan trọng nhất). Đạo đức Khắc kỷ thuộc loại hạnh phúc học (eudaemonistic): nó hỏi làm sao sống tốt, không hỏi điều gì đúng sai. Sống tốt không phải kiếm nhiều tiền; sống tốt là sống đức hạnh, mà đức hạnh là làm tốt chức năng của con người, như cây búa tốt là cây búa đóng đinh tốt. Con người khác loài vật ở lý trí, nên được định sẵn để sống theo lý trí, và lý trí cho thấy ta có bổn phận với đồng loại. Ẩn dụ cánh đồng (lô-gic là hàng rào, vật lý là đất, đạo đức là cây trồng) cho thấy đạo đức là trung tâm. Người sống hoàn toàn thuận theo tự nhiên là nhà hiền triết, gần như không ai đạt được nhưng dùng làm hình mẫu. Sau Zeno là Cleanthes, Chrysippus, rồi Panaetius đưa chủ nghĩa Khắc kỷ sang Rome. Người La Mã bớt quan tâm lô-gic và vật lý, và thêm mục tiêu thứ hai là sự bình thản (không có cảm xúc tiêu cực, có cảm xúc tích cực). Đức hạnh và sự bình thản nuôi lẫn nhau. Irvine đoán người La Mã nhấn mạnh sự bình thản vì họ ít tin lý trí thuần túy thúc đẩy được hành động, và vì cần cạnh tranh học trò với phái Epicurus; các trường phái cổ đại vốn sẵn sàng điều chỉnh học thuyết để hút học trò. Vì người hiện đại dễ quan tâm đến sự bình thản hơn đức hạnh, Irvine tập trung vào các nhà Khắc kỷ La Mã và vào lời khuyên đạt sự bình thản, và khẳng định ai làm theo cũng sẽ đạt được đức hạnh.
+**Irvine cho rằng chủ nghĩa Khắc kỷ ra đời khi Zeno kết hợp lối sống khắc khổ của phái Yếm thế với lý thuyết của các trường phái khác, đặt đạo đức (sống đức hạnh, tức làm tốt chức năng của con người là sống theo lý trí) làm trọng tâm; các nhà Khắc kỷ La Mã sau đó nhấn mạnh thêm sự bình thản như kết quả của đức hạnh, và Irvine chọn theo cách nhấn mạnh này vì nó hấp dẫn hơn với người hiện đại.**
 
-> **Lưu ý:**
-> - **Dạng lập luận "khẳng định luận" bị dịch sai (nhận xét của người tổng hợp).** Bản dịch viết dạng thứ nhất là "Nếu A, thì B; Không A, do đó B" và gọi đó là *modus ponens*. Đây là lỗi: *modus ponens* là "Nếu A thì B; A; do đó B". Dạng "Nếu A thì B; không A; do đó B" thậm chí không hợp lệ ngay cả khi sửa thành "do đó không B" (lỗi phủ định tiền đề). Dạng thứ hai, "Hoặc A hoặc B; không A; do đó B", là đúng và được gọi là *modus tollendo ponens* (tam đoạn luận lựa chọn).
-> - **"Scipio Africanus" mà Panaetius kết thân là Scipio Aemilianus (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Panaetius đến Rome khoảng năm 140 trước Công nguyên, lúc Scipio Africanus "Cả" (người thắng Hannibal) đã mất từ lâu (năm 183 trước Công nguyên). Người bạn của Panaetius là Scipio Aemilianus, còn gọi là Scipio Africanus "Trẻ", người phá hủy Carthage năm 146 trước Công nguyên.
-> - **Diogenes thành Sinope là "học trò của Antisthenes" theo truyền thống (theo hiểu biết của người tổng hợp).** Diogenes Laertius kể như vậy, nhưng nhiều học giả nghi ngờ vì niên đại hai người khó khớp. Sách trình bày như sự thật.
-> - **Câu trả lời của Diogenes "Có chuẩn bị cho mọi vận mệnh" có lẽ rớt chữ.** Theo mạch văn, câu đúng là "Để chuẩn bị cho mọi vận mệnh" (tức triết học dạy ông sẵn sàng trước mọi cảnh ngộ).
-> - **Hai chú thích dấu sao bị thiếu.** Dấu "*" sau "ba ngàn drachma" (drachma là đơn vị tiền Hy Lạp cổ) và sau "những nhà Stoic" (tên gọi lấy từ *Stoa*, "dãy cột") không có nội dung chú thích trong ebook.
-> - **"Sự thanh thản" và "sự bình thản".** Ở trang PDF 34, bản dịch dùng "thanh thản" khi trích Epictetus và "bình thản" ở mọi chỗ khác, cho cùng một ý (tiếng Anh *tranquility*). Bản tổng hợp dùng "sự bình thản" thống nhất.
-> - **"Vòng tròn đức hạnh kép" là cách dịch chữ chơi chữ của Irvine (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Tiếng Anh *virtuous circle* nghĩa là "vòng tuần hoàn tốt" (ngược với "vòng luẩn quẩn"); vì vòng này lại xoay quanh đức hạnh (*virtue*), Irvine gọi nó là vòng "đức hạnh" theo cả hai nghĩa.
-> - **Nhận định "Arrian hoàn toàn không đề cập đến đức hạnh" trong *Cẩm nang* là của Irvine (nhận xét của người tổng hợp).** *Cẩm nang* quả thật tập trung vào cách giữ sự bình thản và hầu như không dùng từ "đức hạnh", nhưng nhiều đoạn của nó (về bổn phận với cha mẹ, anh em, quê hương) vẫn là lời dạy về đức hạnh theo nghĩa Khắc kỷ.
-> - **Cách giải thích vì sao người La Mã nhấn mạnh sự bình thản là giả thuyết của Irvine.** Ông tự nói "theo tôi" và "có thể hình dung". Theo hiểu biết của người tổng hợp, các nhà Khắc kỷ Hy Lạp thời đầu cũng đã nói về "dòng chảy êm ả của cuộc sống" (*euroia biou*, chữ của Zeno) như dấu hiệu của hạnh phúc, nên khác biệt Hy Lạp và La Mã không tuyệt đối.
-> - **Lỗi chính tả và dấu câu của ebook:** "trở trành" (đúng là "trở thành"); câu của Zeno "Tôi đã có một chuyến đi thành công khi bị đắm tàu." thiếu ngoặc kép mở; câu của Antisthenes về vợ đẹp vợ xấu thiếu ngoặc kép đóng.
+Zeno xứ Citium, con một lái buôn thuốc nhuộm tím, bị đắm tàu và mắc kẹt ở Athens khoảng năm 300 trước Công nguyên, rồi theo học triết gia Yếm thế Crates. Phái Yếm thế sống như người vô gia cư, khổ hạnh, nổi tiếng khôn ngoan (Antisthenes, Diogenes thành Sinope); Epictetus mô tả đòi hỏi khắc nghiệt của lối sống ấy.
+
+Zeno thấy mình quan tâm lý thuyết hơn Crates nên học thêm Stilpo (phái Megarian) và Polemo (Academy), rồi lập trường riêng ở Stoa Poikile; học trò ông được gọi là "Stoic". Phái Khắc kỷ bỏ lối khổ hạnh: được ăn ngon mặc đẹp nhưng sẵn sàng từ bỏ.
+
+Triết học Zeno gồm lô-gic (công phu nhất thời đó, có các dạng lập luận vẫn dùng đến nay, và giúp học trò thắng tranh luận), vật lý (gồm cả thần học) và đạo đức (quan trọng nhất).
+
+Đạo đức Khắc kỷ thuộc loại hạnh phúc học (eudaemonistic): nó hỏi làm sao sống tốt, không hỏi điều gì đúng sai. Sống tốt không phải kiếm nhiều tiền; sống tốt là sống đức hạnh, mà đức hạnh là làm tốt chức năng của con người, như cây búa tốt là cây búa đóng đinh tốt. Con người khác loài vật ở lý trí, nên được định sẵn để sống theo lý trí, và lý trí cho thấy ta có bổn phận với đồng loại. Ẩn dụ cánh đồng (lô-gic là hàng rào, vật lý là đất, đạo đức là cây trồng) cho thấy đạo đức là trung tâm. Người sống hoàn toàn thuận theo tự nhiên là nhà hiền triết, gần như không ai đạt được nhưng dùng làm hình mẫu.
+
+Sau Zeno là Cleanthes, Chrysippus, rồi Panaetius đưa chủ nghĩa Khắc kỷ sang Rome. Người La Mã bớt quan tâm lô-gic và vật lý, và thêm mục tiêu thứ hai là sự bình thản (không có cảm xúc tiêu cực, có cảm xúc tích cực). Đức hạnh và sự bình thản nuôi lẫn nhau.
+
+Irvine đoán người La Mã nhấn mạnh sự bình thản vì họ ít tin lý trí thuần túy thúc đẩy được hành động, và vì cần cạnh tranh học trò với phái Epicurus; các trường phái cổ đại vốn sẵn sàng điều chỉnh học thuyết để hút học trò.
+
+Vì người hiện đại dễ quan tâm đến sự bình thản hơn đức hạnh, Irvine tập trung vào các nhà Khắc kỷ La Mã và vào lời khuyên đạt sự bình thản, và khẳng định ai làm theo cũng sẽ đạt được đức hạnh.
 
 ## Sơ đồ
 
@@ -285,7 +285,9 @@ Người Yếm thế nổi tiếng khôn ngoan. Khi được hỏi đàn ông n�
 
 Diogenes thành Sinope (không nhầm với Diogenes Laertius, người viết tiểu sử về ông và các triết gia khác) là học trò của Antisthenes và trở thành người Yếm thế nổi tiếng nhất. Để bảo vệ lối sống đơn giản, ông nói các vị thần đã cho con người phương tiện sống dễ dàng, nhưng điều đó bị che khuất vì ta đòi bánh mật ong, thuốc mỡ và những thứ tương tự. Ông cho rằng con người thật điên rồ khi chọn khổ sở trong khi có khả năng hạnh phúc. Vấn đề là người xấu phục tùng ham muốn như tôi tớ phục tùng chủ, và vì không kiểm soát được ham muốn nên họ không bao giờ thỏa mãn.
 
-Diogenes cho rằng giá trị của con người đang bại hoại. Ví dụ của ông: một bức tượng chỉ để làm cảnh có thể tốn ba nghìn drachma, trong khi hai xu đã mua được một đấu bột lúa mạch, thứ giữ mạng sống. Ông tin cơn đói là món khai vị ngon nhất; vì chỉ ăn khi đói và uống khi khát, ông ăn bánh lúa mạch thỏa mãn hơn người ăn món đắt nhất, và uống nước suối thích thú hơn người uống rượu Thasian. Khi có người nhắc chuyện ông không có nhà, ông đáp rằng mình ở trong những ngôi nhà lớn nhất ở mọi thành phố: các đền thờ và nhà thi đấu. Khi được hỏi học được gì từ triết học, ông đáp: để chuẩn bị cho mọi vận mệnh. Irvine chỉ ra rằng câu trả lời này báo trước một chủ đề quan trọng của chủ nghĩa Khắc kỷ.
+Diogenes cho rằng giá trị của con người đang bại hoại. Ví dụ của ông: một bức tượng chỉ để làm cảnh có thể tốn ba nghìn drachma, trong khi hai xu đã mua được một đấu bột lúa mạch, thứ giữ mạng sống. Ông tin cơn đói là món khai vị ngon nhất; vì chỉ ăn khi đói và uống khi khát, ông ăn bánh lúa mạch thỏa mãn hơn người ăn món đắt nhất, và uống nước suối thích thú hơn người uống rượu Thasian.
+
+Khi có người nhắc chuyện ông không có nhà, ông đáp rằng mình ở trong những ngôi nhà lớn nhất ở mọi thành phố: các đền thờ và nhà thi đấu. Khi được hỏi học được gì từ triết học, ông đáp: để chuẩn bị cho mọi vận mệnh. Irvine chỉ ra rằng câu trả lời này báo trước một chủ đề quan trọng của chủ nghĩa Khắc kỷ.
 
 Người Yếm thế không giảng ở ngoại ô như Epicurus và Plato mà giảng ngoài phố Athens như Socrates, và giống Socrates, họ không chỉ dạy học trò mà dạy bất cứ ai, kể cả người không muốn học. Crates, người thầy triết học đầu tiên của Zeno, không chỉ gọi người qua đường mà còn tự tiện vào nhà dân để giảng cho người trong nhà; vì vậy ông được gọi là "Người mở cửa".
 
@@ -322,7 +324,9 @@ Vật lý là thành phần thứ hai. Sống trong thời chưa có khoa học,
 
 ### 8. Đạo đức: hạnh phúc học, không phải đúng sai (trang PDF 30–31)
 
-Đạo đức là thành phần thứ ba và quan trọng nhất. Irvine lưu ý người đọc phân biệt quan niệm đạo đức Khắc kỷ với quan niệm hiện đại. Ngày nay đạo đức học là ngành nghiên cứu đúng sai về đạo đức; nhà đạo đức học hiện đại muốn biết phá thai có được phép không và trong hoàn cảnh nào. Đạo đức Khắc kỷ thì thuộc loại *eudaemonistic*: chữ Hy Lạp *eu* nghĩa là "tốt", *daimon* nghĩa là "tinh thần". Nó không quan tâm đến đúng sai mà quan tâm đến việc có một "tinh thần tốt", tức sống một đời hạnh phúc, tốt đẹp; cũng có thể gọi là trí tuệ đạo đức. Triết gia Lawrence C. Becker viết: đạo đức Khắc kỷ là một dạng chủ nghĩa hạnh phúc, mối quan tâm chính của nó là điều ta cần làm để sống tốt và phát triển. Sử gia Paul Veyne viết: chủ nghĩa Khắc kỷ không hẳn là một chuẩn mực đạo đức, mà là một phương pháp nghịch lý để đạt hạnh phúc.
+Đạo đức là thành phần thứ ba và quan trọng nhất. Irvine lưu ý người đọc phân biệt quan niệm đạo đức Khắc kỷ với quan niệm hiện đại. Ngày nay đạo đức học là ngành nghiên cứu đúng sai về đạo đức; nhà đạo đức học hiện đại muốn biết phá thai có được phép không và trong hoàn cảnh nào. Đạo đức Khắc kỷ thì thuộc loại *eudaemonistic*: chữ Hy Lạp *eu* nghĩa là "tốt", *daimon* nghĩa là "tinh thần". Nó không quan tâm đến đúng sai mà quan tâm đến việc có một "tinh thần tốt", tức sống một đời hạnh phúc, tốt đẹp; cũng có thể gọi là trí tuệ đạo đức.
+
+Triết gia Lawrence C. Becker viết: đạo đức Khắc kỷ là một dạng chủ nghĩa hạnh phúc, mối quan tâm chính của nó là điều ta cần làm để sống tốt và phát triển. Sử gia Paul Veyne viết: chủ nghĩa Khắc kỷ không hẳn là một chuẩn mực đạo đức, mà là một phương pháp nghịch lý để đạt hạnh phúc.
 
 Người đọc hiện đại rất dễ hiểu sai "cuộc sống tốt đẹp" của các nhà Khắc kỷ. Nhiều người đánh đồng sống tốt với kiếm nhiều tiền, tức có công việc lương cao. Các nhà Khắc kỷ cho rằng một người kiếm rất nhiều tiền vẫn hoàn toàn có thể sống tồi: chẳng hạn người đó ghét công việc lương cao của mình, hoặc công việc gây mâu thuẫn trong lòng vì buộc người đó làm điều mình biết là sai.
 
@@ -350,7 +354,7 @@ Trạng thái ấy cực hiếm. Nhưng với các nhà Khắc kỷ, việc gầ
 
 Cleanthes (331–232 trước Công nguyên) là học trò của Zeno và kế nhiệm ông đứng đầu trường. Khi Cleanthes về già, ông mất dần học trò vào tay các trường khác, và tương lai phái Khắc kỷ trở nên ảm đạm. Sau khi ông mất, học trò ông là Chrysippus (khoảng 282–206 trước Công nguyên) lên đứng đầu, và dưới sự dẫn dắt của Chrysippus, phái Khắc kỷ lấy lại vị thế.
 
-Sau Chrysippus, trường tiếp tục hưng thịnh dưới các người đứng đầu kế tiếp, trong đó có Panaetius xứ Rhodes. Panaetius được lịch sử nhớ đến không như một nhà canh tân mà như một người "xuất khẩu" triết học. Khoảng năm 140 trước Công nguyên, ông đến Rome và mang chủ nghĩa Khắc kỷ theo. Ông kết thân với vị tướng nổi tiếng Scipio Africanus (đúng ra là Scipio Aemilianus, xem khối Lưu ý) và các quý ông La Mã khác, khiến họ quan tâm đến triết học; vì vậy ông trở thành người sáng lập chủ nghĩa Khắc kỷ La Mã.
+Sau Chrysippus, trường tiếp tục hưng thịnh dưới các người đứng đầu kế tiếp, trong đó có Panaetius xứ Rhodes. Panaetius được lịch sử nhớ đến không như một nhà canh tân mà như một người "xuất khẩu" triết học. Khoảng năm 140 trước Công nguyên, ông đến Rome và mang chủ nghĩa Khắc kỷ theo. Ông kết thân với vị tướng nổi tiếng Scipio Africanus (đúng ra là Scipio Aemilianus, xem mục Lưu ý cuối chương) và các quý ông La Mã khác, khiến họ quan tâm đến triết học; vì vậy ông trở thành người sáng lập chủ nghĩa Khắc kỷ La Mã.
 
 ### 13. Người La Mã điều chỉnh: bớt lô-gic và vật lý (trang PDF 33)
 
@@ -368,7 +372,9 @@ Vì dành quá nhiều thời gian bàn về sự bình thản (như một sản
 
 ### 16. Vòng tuần hoàn tốt giữa đức hạnh và sự bình thản (trang PDF 34–35)
 
-Irvine cho rằng ngoài việc khẳng định đức hạnh mang lại sự bình thản, các nhà Khắc kỷ La Mã cũng sẽ lập luận rằng sự bình thản giúp ta theo đuổi đức hạnh. Người không bình thản, tức dễ bị cảm xúc tiêu cực như giận dữ hay đau buồn làm phân tâm, khó làm theo điều lý trí mách bảo: cảm xúc thắng lý trí. Người đó có thể lẫn lộn về điều gì thật sự tốt, nên không theo đuổi được nó, và không đạt đức hạnh. Vì vậy, với các nhà Khắc kỷ La Mã, theo đuổi đức hạnh và theo đuổi sự bình thản là hai thành phần của một vòng tuần hoàn tốt, mà Irvine gọi đùa là vòng "đức hạnh" kép: theo đuổi đức hạnh mang lại một mức bình thản, và sự bình thản lại làm việc theo đuổi đức hạnh dễ hơn.
+Irvine cho rằng ngoài việc khẳng định đức hạnh mang lại sự bình thản, các nhà Khắc kỷ La Mã cũng sẽ lập luận rằng sự bình thản giúp ta theo đuổi đức hạnh. Người không bình thản, tức dễ bị cảm xúc tiêu cực như giận dữ hay đau buồn làm phân tâm, khó làm theo điều lý trí mách bảo: cảm xúc thắng lý trí. Người đó có thể lẫn lộn về điều gì thật sự tốt, nên không theo đuổi được nó, và không đạt đức hạnh.
+
+Vì vậy, với các nhà Khắc kỷ La Mã, theo đuổi đức hạnh và theo đuổi sự bình thản là hai thành phần của một vòng tuần hoàn tốt, mà Irvine gọi đùa là vòng "đức hạnh" kép: theo đuổi đức hạnh mang lại một mức bình thản, và sự bình thản lại làm việc theo đuổi đức hạnh dễ hơn.
 
 ### 17. Giả thuyết thứ nhất: người La Mã ít tin vào sức mạnh của lý trí thuần túy (trang PDF 35)
 
@@ -612,3 +618,28 @@ flowchart LR
   class n1,n10,n16,n22,n30,n40 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42 leaf
 ```
+
+## Nguồn
+
+William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 2 "Các nhà Khắc kỷ đầu tiên", trang PDF 26–37.
+
+## Tác giả
+
+William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-triet-hoc-quan-tam-den-cuoc-song.md](C01-triet-hoc-quan-tam-den-cuoc-song.md)) cho thấy triết học cổ đại là triết học để sống và các trường phái ở Athens cạnh tranh nhau bằng triết lý sống. Chương 2 kể về trường phái Khắc kỷ thời Hy Lạp: Zeno học phái Yếm thế rồi kết hợp lối sống của họ với lý thuyết của các trường khác; chủ nghĩa Khắc kỷ gồm lô-gic, vật lý và đạo đức, trong đó đạo đức (sống đức hạnh, tức sống thuận theo tự nhiên) là quan trọng nhất. Chương này cũng là nơi Irvine nêu lựa chọn then chốt của cả cuốn sách: theo các nhà Khắc kỷ La Mã, ông lấy sự bình thản làm trọng tâm thay cho đức hạnh. Chương 3 ([C03-chu-nghia-khac-ky-la-ma.md](C03-chu-nghia-khac-ky-la-ma.md)) kể về bốn nhà Khắc kỷ La Mã mà phần còn lại của sách dựa vào.
+
+## Lưu ý
+
+- **Dạng lập luận "khẳng định luận" bị dịch sai (nhận xét của người tổng hợp).** Bản dịch viết dạng thứ nhất là "Nếu A, thì B; Không A, do đó B" và gọi đó là *modus ponens*. Đây là lỗi: *modus ponens* là "Nếu A thì B; A; do đó B". Dạng "Nếu A thì B; không A; do đó B" thậm chí không hợp lệ ngay cả khi sửa thành "do đó không B" (lỗi phủ định tiền đề). Dạng thứ hai, "Hoặc A hoặc B; không A; do đó B", là đúng và được gọi là *modus tollendo ponens* (tam đoạn luận lựa chọn).
+- **"Scipio Africanus" mà Panaetius kết thân là Scipio Aemilianus (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Panaetius đến Rome khoảng năm 140 trước Công nguyên, lúc Scipio Africanus "Cả" (người thắng Hannibal) đã mất từ lâu (năm 183 trước Công nguyên). Người bạn của Panaetius là Scipio Aemilianus, còn gọi là Scipio Africanus "Trẻ", người phá hủy Carthage năm 146 trước Công nguyên.
+- **Diogenes thành Sinope là "học trò của Antisthenes" theo truyền thống (theo hiểu biết của người tổng hợp).** Diogenes Laertius kể như vậy, nhưng nhiều học giả nghi ngờ vì niên đại hai người khó khớp. Sách trình bày như sự thật.
+- **Câu trả lời của Diogenes "Có chuẩn bị cho mọi vận mệnh" có lẽ rớt chữ.** Theo mạch văn, câu đúng là "Để chuẩn bị cho mọi vận mệnh" (tức triết học dạy ông sẵn sàng trước mọi cảnh ngộ).
+- **Hai chú thích dấu sao bị thiếu.** Dấu "*" sau "ba ngàn drachma" (drachma là đơn vị tiền Hy Lạp cổ) và sau "những nhà Stoic" (tên gọi lấy từ *Stoa*, "dãy cột") không có nội dung chú thích trong ebook.
+- **"Sự thanh thản" và "sự bình thản".** Ở trang PDF 34, bản dịch dùng "thanh thản" khi trích Epictetus và "bình thản" ở mọi chỗ khác, cho cùng một ý (tiếng Anh *tranquility*). Bản tổng hợp dùng "sự bình thản" thống nhất.
+- **"Vòng tròn đức hạnh kép" là cách dịch chữ chơi chữ của Irvine (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Tiếng Anh *virtuous circle* nghĩa là "vòng tuần hoàn tốt" (ngược với "vòng luẩn quẩn"); vì vòng này lại xoay quanh đức hạnh (*virtue*), Irvine gọi nó là vòng "đức hạnh" theo cả hai nghĩa.
+- **Nhận định "Arrian hoàn toàn không đề cập đến đức hạnh" trong *Cẩm nang* là của Irvine (nhận xét của người tổng hợp).** *Cẩm nang* quả thật tập trung vào cách giữ sự bình thản và hầu như không dùng từ "đức hạnh", nhưng nhiều đoạn của nó (về bổn phận với cha mẹ, anh em, quê hương) vẫn là lời dạy về đức hạnh theo nghĩa Khắc kỷ.
+- **Cách giải thích vì sao người La Mã nhấn mạnh sự bình thản là giả thuyết của Irvine.** Ông tự nói "theo tôi" và "có thể hình dung". Theo hiểu biết của người tổng hợp, các nhà Khắc kỷ Hy Lạp thời đầu cũng đã nói về "dòng chảy êm ả của cuộc sống" (*euroia biou*, chữ của Zeno) như dấu hiệu của hạnh phúc, nên khác biệt Hy Lạp và La Mã không tuyệt đối.
+- **Lỗi chính tả và dấu câu của ebook:** "trở trành" (đúng là "trở thành"); câu của Zeno "Tôi đã có một chuyến đi thành công khi bị đắm tàu." thiếu ngoặc kép mở; câu của Antisthenes về vợ đẹp vợ xấu thiếu ngoặc kép đóng.

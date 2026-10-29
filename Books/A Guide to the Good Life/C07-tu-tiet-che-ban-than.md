@@ -1,19 +1,20 @@
 # Chương 7 — Tự tiết chế bản thân: Ứng phó với mặt tối của lạc thú (Self-Denial)
 
-**Nguồn:** William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 7 "Tự tiết chế bản thân", trang PDF 88–94.
-**Tác giả:** William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 ([C04-tuong-tuong-tieu-cuc.md](C04-tuong-tuong-tieu-cuc.md)) dạy tưởng tượng những điều xấu có thể xảy ra; Chương 5 ([C05-luong-phan-quyen-kiem-soat.md](C05-luong-phan-quyen-kiem-soat.md)) và Chương 6 ([C06-thuyet-van-menh.md](C06-thuyet-van-menh.md)) dạy cách phân loại và chấp nhận điều ngoài tầm tay. Chương 7 đưa tưởng tượng tiêu cực từ suy nghĩ sang hành động: sống như thể điều xấu đã xảy ra (Seneca), rồi chủ động tạo ra sự bất tiện (Musonius), và định kỳ từ chối những lạc thú có sẵn. Irvine gọi đây là kỹ thuật khó thực hành nhất. Chương 8 ([C08-suy-ngam.md](C08-suy-ngam.md)) kết thúc Phần Hai bằng kỹ thuật tự xem xét để theo dõi việc thực hành tất cả các kỹ thuật này. Chương 15 về cuộc sống xa hoa ([C15-gia-tri-ca-nhan-cuoc-song-xa-hoa.md](C15-gia-tri-ca-nhan-cuoc-song-xa-hoa.md)) phát triển tiếp thái độ của Khắc kỷ với lạc thú và tiện nghi.
-**Ý chính:** **Irvine cho rằng các nhà Khắc kỷ định kỳ tự nguyện chịu những bất tiện nhỏ và từ chối những lạc thú có sẵn, không phải để hành hạ bản thân, mà để chuẩn bị cho tai họa, để thôi sợ hãi tương lai, để trân trọng tiện nghi hơn, và để rèn khả năng tự chủ, thứ cần thiết cho mọi triết lý sống.** Seneca mở rộng tưởng tượng tiêu cực bằng cách định kỳ "thực hành sống kham khổ" với đồ ăn đạm bạc và áo thô; Epicurus cũng làm vậy nhưng để kiểm tra mình thật sự cần gì. Musonius đi xa hơn: chủ động mặc phong phanh khi lạnh, đi chân đất, nhịn đói khát, ngủ giường cứng. Đây không phải là thích tự hành hạ (masochism) mà là tự nguyện chịu khổ ở mức nhỏ để tận hưởng cuộc sống hơn. Musonius nêu ba lợi ích: như vắc-xin và bảo hiểm cho tai họa tương lai; làm ta can đảm và bớt lo âu ngay bây giờ; và làm ta trân trọng tiện nghi (ra ngoài lạnh rồi vào nhà ấm; Diogenes: đợi đói mới ăn). Người né mọi bất tiện có "vùng thoải mái" hẹp hơn người định kỳ chịu bất tiện. Các nhà Khắc kỷ cũng hoài nghi lạc thú, theo ảnh hưởng của phái Yếm thế (Khuyển nho): Seneca ví lạc thú như thú hoang quay lại xé xác người bắt nó, và lạc thú thành chủ nhân; Diogenes nói trận chiến quan trọng nhất là chống lạc thú. Phải tránh hẳn những lạc thú gây nghiện ngay lần đầu, và thỉnh thoảng bỏ cả lạc thú vô hại (một ly rượu, một bát kem) để học tự chủ. Marcus cảnh báo người không cưỡng được lạc thú sẽ thành nô lệ. Khắc kỷ không chống niềm vui (tình bạn, gia đình, bữa ăn, giàu sang) nhưng khuyên cảnh giác. Ý chí giống cơ bắp, càng tập càng mạnh; không tự chủ cũng tốn công sức (Musonius: các cuộc tình vụng trộm); và từ chối lạc thú tự nó là một lạc thú (Epictetus: hài lòng và tự hào về bản thân; Seneca: niềm vui với nước, bột lúa mạch và bánh mì).
+## Ý chính
 
-> **Lưu ý:**
-> - **"Bên cạnh việc suy ngẫm về những chuyện tồi tệ đang xảy ra"** (trang PDF 88): ngữ cảnh cho thấy phải là "có thể xảy ra" (tưởng tượng tiêu cực là nghĩ về điều chưa xảy ra); chữ "đang" là lỗi dịch hoặc lỗi chữ (nhận xét của người tổng hợp).
-> - **"Thích bị bạo ngược (masochism)"** (trang PDF 89): tiếng Việt thường gọi là "khổ dâm" hay "thói tự hành hạ". Câu tiếp theo "các nhà Khắc kỷ ủng hộ hành vi tự nguyện chịu khổ chứ không phải là hành vi chịu khổ nhằm gây hại cho bản thân" nên hiểu là: họ chủ trương sự khó chịu tự nguyện (*voluntary discomfort*), không phải tự hành xác.
-> - **"Chủ nghĩa Yếm thế", "triết gia Yếm thế Diogenes"** (trang PDF 91): đây là phái Cynic (Hy Lạp *Kynikoi*), trong tiếng Việt thường gọi là phái Khuyển nho. "Yếm thế" (chán đời, bi quan) dễ gây hiểu lầm: phái này chủ trương sống tối giản, theo tự nhiên, khinh thường quy ước, chứ không phải bi quan. Diogenes ở đây là Diogenes xứ Sinope (thế kỷ 4 TCN) (theo hiểu biết của người tổng hợp). Các câu trích về "trận chiến chống lạc thú" mà Irvine gán cho Diogenes được biết tới qua bài diễn thuyết của Dio Chrysostom về Diogenes (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Câu cuối về nhà hiền triết và lạc thú bị dịch lệch** (trang PDF 92): "trong khi người bình thường làm mọi việc vì lạc thú, thì nhà hiền triết lại chẳng làm gì cả" nên hiểu là "nhà hiền triết không làm gì vì lạc thú" (nhận xét của người tổng hợp). Bản tổng hợp dùng nghĩa này.
-> - **"Tự tiết chế bản thân"** dịch *self-denial*: nghĩa sát hơn là "tự khước từ", tức từ chối cho mình một thứ có thể có. Bản tổng hợp giữ cách gọi của bản dịch.
-> - **Tiêu đề tiếng Anh:** người tổng hợp chỉ chắc phần tên chính "Self-Denial"; không ghi phần tiêu đề phụ của nguyên tác.
-> - **Nguồn các câu trích (theo hiểu biết của người tổng hợp, Irvine không ghi số trong lời văn):** lời khuyên "thực hành sống kham khổ" và nhận xét về Epicurus thuộc Seneca, *Thư gửi Lucilius* số 18; ba lợi ích của việc tự nguyện chịu khổ thuộc bài giảng của Musonius Rufus về rèn luyện; câu "hài lòng và tự hào về bản thân" thuộc *Cẩm nang* của Epictetus mục 34; câu Marcus về người bị "giật lên vì những thôi thúc ích kỷ" gần với *Suy tưởng* 2.2 (xem [Q02](../Meditations/Q02-ben-dong-gran.md)).
-> - **Lỗi chữ của ebook:** "tự nguyên chịu khổ" (hai lần, trang PDF 89 và 90, đúng là "tự nguyện"); "thiếu đi nhiêu lạc thú" (trang PDF 94, đúng là "nhiều"); "không cho ta một giây ngơi nghỉ.”." (trang PDF 93) thừa dấu chấm.
+**Irvine cho rằng các nhà Khắc kỷ định kỳ tự nguyện chịu những bất tiện nhỏ và từ chối những lạc thú có sẵn, không phải để hành hạ bản thân, mà để chuẩn bị cho tai họa, để thôi sợ hãi tương lai, để trân trọng tiện nghi hơn, và để rèn khả năng tự chủ, thứ cần thiết cho mọi triết lý sống.**
+
+Seneca mở rộng tưởng tượng tiêu cực bằng cách định kỳ "thực hành sống kham khổ" với đồ ăn đạm bạc và áo thô; Epicurus cũng làm vậy nhưng để kiểm tra mình thật sự cần gì. Musonius đi xa hơn: chủ động mặc phong phanh khi lạnh, đi chân đất, nhịn đói khát, ngủ giường cứng. Đây không phải là thích tự hành hạ (masochism) mà là tự nguyện chịu khổ ở mức nhỏ để tận hưởng cuộc sống hơn.
+
+Musonius nêu ba lợi ích: như vắc-xin và bảo hiểm cho tai họa tương lai; làm ta can đảm và bớt lo âu ngay bây giờ; và làm ta trân trọng tiện nghi (ra ngoài lạnh rồi vào nhà ấm; Diogenes: đợi đói mới ăn). Người né mọi bất tiện có "vùng thoải mái" hẹp hơn người định kỳ chịu bất tiện.
+
+Các nhà Khắc kỷ cũng hoài nghi lạc thú, theo ảnh hưởng của phái Yếm thế (Khuyển nho): Seneca ví lạc thú như thú hoang quay lại xé xác người bắt nó, và lạc thú thành chủ nhân; Diogenes nói trận chiến quan trọng nhất là chống lạc thú.
+
+Phải tránh hẳn những lạc thú gây nghiện ngay lần đầu, và thỉnh thoảng bỏ cả lạc thú vô hại (một ly rượu, một bát kem) để học tự chủ. Marcus cảnh báo người không cưỡng được lạc thú sẽ thành nô lệ.
+
+Khắc kỷ không chống niềm vui (tình bạn, gia đình, bữa ăn, giàu sang) nhưng khuyên cảnh giác.
+
+Ý chí giống cơ bắp, càng tập càng mạnh; không tự chủ cũng tốn công sức (Musonius: các cuộc tình vụng trộm); và từ chối lạc thú tự nó là một lạc thú (Epictetus: hài lòng và tự hào về bản thân; Seneca: niềm vui với nước, bột lúa mạch và bánh mì).
 
 ## Sơ đồ
 
@@ -220,7 +221,9 @@ Nhiều độc giả vẫn sẽ hỏi: sao phải chịu khổ khi có thể ho�
 
 Ngoài việc định kỳ tự nguyện chịu khổ, các nhà Khắc kỷ khuyên định kỳ bỏ qua cơ hội hưởng lạc thú, vì lạc thú có một mặt tối. Seneca cảnh báo rằng theo đuổi lạc thú giống như đuổi một con thú hoang: bắt được rồi, nó có thể quay lại tấn công và xé ta thành từng mảnh. Đổi hình ảnh một chút, ông nói những lạc thú mãnh liệt, khi bị ta tóm giữ, lại thành chủ nhân của ta; một người càng có nhiều lạc thú thì "anh ta sẽ càng phải phục tùng nhiều chủ nhân".
 
-Thái độ hoài nghi lạc thú cho thấy ảnh hưởng của phái Khuyển nho (bản dịch gọi là "chủ nghĩa Yếm thế") lên triết lý Khắc kỷ. Triết gia Khuyển nho Diogenes lập luận rằng trận chiến quan trọng nhất mà ai cũng phải trải qua là trận chiến chống lạc thú. Trận chiến này đặc biệt cam go vì lạc thú "không giao tranh trực diện mà lừa lọc và làm cho ta lú lẫn bằng những thứ thuốc độc hại". Ông cảnh báo lạc thú "ngấm ngầm bày mưu lập kế hòng phá hoại con người thông qua cảnh sắc, âm thanh, mùi vị và xúc chạm, bằng cả đồ ăn thức uống và ham muốn xác thịt", cám dỗ cả người thức lẫn người ngủ. Rồi lạc thú vẫy cây gậy phép, nhẹ nhàng lùa nạn nhân vào một cái chuồng bẩn và nhốt lại; từ đó người ấy sống như một con lợn hoặc một con sói.
+Thái độ hoài nghi lạc thú cho thấy ảnh hưởng của phái Khuyển nho (bản dịch gọi là "chủ nghĩa Yếm thế") lên triết lý Khắc kỷ. Triết gia Khuyển nho Diogenes lập luận rằng trận chiến quan trọng nhất mà ai cũng phải trải qua là trận chiến chống lạc thú. Trận chiến này đặc biệt cam go vì lạc thú "không giao tranh trực diện mà lừa lọc và làm cho ta lú lẫn bằng những thứ thuốc độc hại".
+
+Ông cảnh báo lạc thú "ngấm ngầm bày mưu lập kế hòng phá hoại con người thông qua cảnh sắc, âm thanh, mùi vị và xúc chạm, bằng cả đồ ăn thức uống và ham muốn xác thịt", cám dỗ cả người thức lẫn người ngủ. Rồi lạc thú vẫy cây gậy phép, nhẹ nhàng lùa nạn nhân vào một cái chuồng bẩn và nhốt lại; từ đó người ấy sống như một con lợn hoặc một con sói.
 
 ### 5. Hai mức tiết chế lạc thú (trang PDF 91–92)
 
@@ -246,7 +249,9 @@ Nhưng các nhà Khắc kỷ phát hiện ra rằng ý chí giống cơ bắp: c
 
 Các nhà Khắc kỷ sẽ là người đầu tiên thừa nhận rằng tập tự chủ đòi hỏi nhiều tâm sức. Nhưng họ nói thêm rằng không tự chủ cũng hao tổn tâm sức. Musonius bảo hãy nghĩ tới toàn bộ thời gian và năng lượng người ta tiêu tốn cho những cuộc tình vụng trộm mà họ đã không dính vào nếu kiểm soát được bản thân. Seneca nhận xét: "sự trong sạch cho ta thời gian rỗi rãi, sự phóng đãng thì không cho ta một giây ngơi nghỉ."
 
-Tự chủ còn đem lại những lợi ích không hiển nhiên. Đặc biệt, chủ động kiêng một lạc thú tự nó có thể đem lại cảm giác dễ chịu. Giả sử bạn đang ăn kiêng và chợt thèm kem vì biết trong tủ lạnh có kem. Ăn thì có vị ngon nhưng kèm theo mặc cảm tội lỗi. Nhịn thì mất vị ngon nhưng được một lạc thú khác: như Epictetus nhận xét, bạn sẽ "hài lòng và tự hào về bản thân" vì đã không ăn. Lạc thú này không giống lạc thú ăn kem, nhưng vẫn là lạc thú. Hơn nữa, nếu dừng lại cân nhắc phí tổn và lợi ích của việc ăn kem so với không ăn, ta có thể thấy rằng nếu muốn tối đa niềm vui thì nên không ăn. Vì thế Epictetus khuyên làm kiểu phân tích này mỗi khi cân nhắc có nên tận dụng một cơ hội hưởng lạc thú hay không.
+Tự chủ còn đem lại những lợi ích không hiển nhiên. Đặc biệt, chủ động kiêng một lạc thú tự nó có thể đem lại cảm giác dễ chịu. Giả sử bạn đang ăn kiêng và chợt thèm kem vì biết trong tủ lạnh có kem. Ăn thì có vị ngon nhưng kèm theo mặc cảm tội lỗi. Nhịn thì mất vị ngon nhưng được một lạc thú khác: như Epictetus nhận xét, bạn sẽ "hài lòng và tự hào về bản thân" vì đã không ăn.
+
+Lạc thú này không giống lạc thú ăn kem, nhưng vẫn là lạc thú. Hơn nữa, nếu dừng lại cân nhắc phí tổn và lợi ích của việc ăn kem so với không ăn, ta có thể thấy rằng nếu muốn tối đa niềm vui thì nên không ăn. Vì thế Epictetus khuyên làm kiểu phân tích này mỗi khi cân nhắc có nên tận dụng một cơ hội hưởng lạc thú hay không.
 
 Tương tự, nếu theo lời khuyên Khắc kỷ đơn giản hóa chế độ ăn, ta có thể thấy rằng chế độ ăn ấy, dù thiếu nhiều lạc thú ăn uống, lại là một nguồn vui khác hẳn. Seneca khẳng định: "Nước, bột lúa mạch và vỏ bánh mì lúa mạch tuy không phải là một chế độ ăn thịnh soạn, thế nhưng niềm lạc thú lớn nhất là có thể tìm được lạc thú trong những loại thức ăn này." Irvine kết luận rằng không lạ khi các nhà Khắc kỷ nhận ra việc từ bỏ lạc thú tự nó đem lại lạc thú, vì họ là những nhà tâm lý học thông thái nhất thời của mình.
 
@@ -435,3 +440,26 @@ flowchart LR
   class n1,n6,n12,n21,n25,n32 branch
   class n2,n3,n4,n5,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n26,n27,n28,n29,n30,n31,n33,n34 leaf
 ```
+
+## Nguồn
+
+William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 7 "Tự tiết chế bản thân", trang PDF 88–94.
+
+## Tác giả
+
+William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 ([C04-tuong-tuong-tieu-cuc.md](C04-tuong-tuong-tieu-cuc.md)) dạy tưởng tượng những điều xấu có thể xảy ra; Chương 5 ([C05-luong-phan-quyen-kiem-soat.md](C05-luong-phan-quyen-kiem-soat.md)) và Chương 6 ([C06-thuyet-van-menh.md](C06-thuyet-van-menh.md)) dạy cách phân loại và chấp nhận điều ngoài tầm tay. Chương 7 đưa tưởng tượng tiêu cực từ suy nghĩ sang hành động: sống như thể điều xấu đã xảy ra (Seneca), rồi chủ động tạo ra sự bất tiện (Musonius), và định kỳ từ chối những lạc thú có sẵn. Irvine gọi đây là kỹ thuật khó thực hành nhất. Chương 8 ([C08-suy-ngam.md](C08-suy-ngam.md)) kết thúc Phần Hai bằng kỹ thuật tự xem xét để theo dõi việc thực hành tất cả các kỹ thuật này. Chương 15 về cuộc sống xa hoa ([C15-gia-tri-ca-nhan-cuoc-song-xa-hoa.md](C15-gia-tri-ca-nhan-cuoc-song-xa-hoa.md)) phát triển tiếp thái độ của Khắc kỷ với lạc thú và tiện nghi.
+
+## Lưu ý
+
+- **"Bên cạnh việc suy ngẫm về những chuyện tồi tệ đang xảy ra"** (trang PDF 88): ngữ cảnh cho thấy phải là "có thể xảy ra" (tưởng tượng tiêu cực là nghĩ về điều chưa xảy ra); chữ "đang" là lỗi dịch hoặc lỗi chữ (nhận xét của người tổng hợp).
+- **"Thích bị bạo ngược (masochism)"** (trang PDF 89): tiếng Việt thường gọi là "khổ dâm" hay "thói tự hành hạ". Câu tiếp theo "các nhà Khắc kỷ ủng hộ hành vi tự nguyện chịu khổ chứ không phải là hành vi chịu khổ nhằm gây hại cho bản thân" nên hiểu là: họ chủ trương sự khó chịu tự nguyện (*voluntary discomfort*), không phải tự hành xác.
+- **"Chủ nghĩa Yếm thế", "triết gia Yếm thế Diogenes"** (trang PDF 91): đây là phái Cynic (Hy Lạp *Kynikoi*), trong tiếng Việt thường gọi là phái Khuyển nho. "Yếm thế" (chán đời, bi quan) dễ gây hiểu lầm: phái này chủ trương sống tối giản, theo tự nhiên, khinh thường quy ước, chứ không phải bi quan. Diogenes ở đây là Diogenes xứ Sinope (thế kỷ 4 TCN) (theo hiểu biết của người tổng hợp). Các câu trích về "trận chiến chống lạc thú" mà Irvine gán cho Diogenes được biết tới qua bài diễn thuyết của Dio Chrysostom về Diogenes (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Câu cuối về nhà hiền triết và lạc thú bị dịch lệch** (trang PDF 92): "trong khi người bình thường làm mọi việc vì lạc thú, thì nhà hiền triết lại chẳng làm gì cả" nên hiểu là "nhà hiền triết không làm gì vì lạc thú" (nhận xét của người tổng hợp). Bản tổng hợp dùng nghĩa này.
+- **"Tự tiết chế bản thân"** dịch *self-denial*: nghĩa sát hơn là "tự khước từ", tức từ chối cho mình một thứ có thể có. Bản tổng hợp giữ cách gọi của bản dịch.
+- **Tiêu đề tiếng Anh:** người tổng hợp chỉ chắc phần tên chính "Self-Denial"; không ghi phần tiêu đề phụ của nguyên tác.
+- **Nguồn các câu trích (theo hiểu biết của người tổng hợp, Irvine không ghi số trong lời văn):** lời khuyên "thực hành sống kham khổ" và nhận xét về Epicurus thuộc Seneca, *Thư gửi Lucilius* số 18; ba lợi ích của việc tự nguyện chịu khổ thuộc bài giảng của Musonius Rufus về rèn luyện; câu "hài lòng và tự hào về bản thân" thuộc *Cẩm nang* của Epictetus mục 34; câu Marcus về người bị "giật lên vì những thôi thúc ích kỷ" gần với *Suy tưởng* 2.2 (xem [Q02](../Meditations/Q02-ben-dong-gran.md)).
+- **Lỗi chữ của ebook:** "tự nguyên chịu khổ" (hai lần, trang PDF 89 và 90, đúng là "tự nguyện"); "thiếu đi nhiêu lạc thú" (trang PDF 94, đúng là "nhiều"); "không cho ta một giây ngơi nghỉ.”." (trang PDF 93) thừa dấu chấm.
