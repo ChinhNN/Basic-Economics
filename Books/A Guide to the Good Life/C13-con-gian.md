@@ -1,20 +1,20 @@
 # Chương 13 — Cơn giận: Vượt qua tâm thế phản đối niềm vui (Anger: On Overcoming Anti-Joy)
 
-**Nguồn:** William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 13 "Cơn giận — Vượt qua tâm thế phản đối niềm vui", trang PDF 128–132.
-**Tác giả:** William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 11 ([C11-su-xuc-pham.md](C11-su-xuc-pham.md)) bàn cách ứng phó với sự xúc phạm, nguồn gây giận thường gặp nhất; Chương 12 ([C12-su-dau-buon.md](C12-su-dau-buon.md)) bàn về nỗi đau buồn, cảm xúc tiêu cực đầu tiên mà Irvine xử lý riêng. Chương 13 bàn về cảm xúc tiêu cực thứ hai, cơn giận, mà Irvine coi là đối lập của niềm vui. Chương này dùng lại ví dụ Cato và Socrates của Chương 11, ngoại lệ "trừng phạt để sửa hành vi", và lý do tránh sự thoải mái của Chương 7 ([C07-tu-tiet-che-ban-than.md](C07-tu-tiet-che-ban-than.md)). Chương 14 ([C14-gia-tri-ca-nhan-danh-vong.md](C14-gia-tri-ca-nhan-danh-vong.md)) chuyển từ cảm xúc sang các giá trị cá nhân, bắt đầu với danh vọng.
+## Ý chính
 
-**Ý chính:** **Irvine cho rằng cơn giận là cảm xúc tiêu cực đối lập với niềm vui, gây hại lớn cho cả xã hội lẫn từng người, nên các nhà Khắc kỷ, chủ yếu qua tác phẩm *Bàn về cơn giận* của Seneca, đưa ra cách phòng ngừa nó, cách dập nó khi đã nhen lên, và cách sửa sai khi đã lỡ nổi giận.** Seneca gọi cơn giận là "cơn điên ngắn" và nói không tai họa nào hại loài người hơn nó: nó dẫn tới giết chóc, đầu độc, kiện tụng, làm thành phố và quốc gia lụi tàn; với từng người, vì đời có quá nhiều chuyện đáng bực, ai không kiểm soát được cơn giận sẽ sống trong tức tối triền miên. Seneca bác ý kiến rằng giận tạo động lực: được lợi từ cơn giận cũng như được lợi từ một thất bại, không ai tỉnh táo lại đi tìm nó, vì đã bật lên thì khó tắt và tác hại về sau lớn hơn lợi ban đầu. Ông không khuyên đứng yên khi cha bị giết, mẹ bị hãm hại; ông khuyên trừng phạt và bảo vệ nhưng giữ bình tĩnh, và trừng phạt để người sai không tái phạm chứ không phải để báo thù. Với người không biết sửa mình khi được nói phải trái, Seneca cho phép *giả bộ* giận để họ sửa đổi, nhưng không cho phép thật sự giận để có động lực. Cách phòng ngừa: đừng vội tin điều xấu nhất về người khác; nhớ rằng việc không theo ý mình không có nghĩa là bị đối xử bất công, và người mình đang bực có khi đang giúp mình; đừng nuông chiều bản thân, vì người được nuông chiều thì cái gì cũng thấy khó chịu; nhớ rằng thứ làm ta bực thường chỉ là phiền toái chứ không phải tổn hại, và "cơn giận của chúng ta luôn kéo dài lâu hơn những tổn thất mà ta phải chịu"; dùng tiếng cười thay nước mắt. Marcus thêm: nhìn sự vô thường, như thời hoàng đế Vespasian mà mọi cuộc đời giờ không còn dấu vết, để thấy chuyện mình đang giận nhỏ đến đâu. Khi cơn giận đã nhen, Seneca khuyên nhớ rằng chính mình cũng làm người khác giận, và biến mọi dấu hiệu của cơn giận thành điều ngược lại (thả lỏng mặt, hạ giọng, bước chậm), tương tự kỹ thuật nghĩ điều đối lập của Phật giáo. Khi đã lỡ giận, Irvine khuyên xin lỗi. Cuối chương: người lúc nào cũng giận và còn nghiền ngẫm chuyện cũ là một bi kịch, vì đời quá ngắn và họ làm khổ người xung quanh; Seneca hỏi sao không làm người được yêu khi sống và được nhớ khi chết.
+**Irvine cho rằng cơn giận là cảm xúc tiêu cực đối lập với niềm vui, gây hại lớn cho cả xã hội lẫn từng người, nên các nhà Khắc kỷ, chủ yếu qua tác phẩm *Bàn về cơn giận* của Seneca, đưa ra cách phòng ngừa nó, cách dập nó khi đã nhen lên, và cách sửa sai khi đã lỡ nổi giận.**
 
-> **Lưu ý:**
-> - **"Tâm thế phản đối niềm vui" là cách dịch chữ *anti-joy* của Irvine.** Irvine tự đặt chữ này để gọi cơn giận như cái đối lập của niềm vui; nó không phải thuật ngữ của các nhà Khắc kỷ cổ đại. Cụm "tâm trạng phản đối niềm vui" ở câu cuối chương là cùng chữ ấy.
-> - **"Sự thanh thản" và "sự bình thản".** Chương này bản dịch dùng "sự thanh thản" (và "sự yên bình tâm trí") cho chữ mà các Chương 9 đến Chương 12 dịch là "sự bình thản" (*tranquility*). Hai chữ chỉ cùng một khái niệm.
-> - **"Cơn điên ngắn" không phải chữ của riêng Seneca.** Ở đầu *Bàn về cơn giận* (*De ira*), Seneca nói một số bậc hiền triết đã gọi cơn giận là "cơn điên ngắn" (*brevis insania*); thi sĩ Horace cũng có câu "giận là cơn điên ngắn" (*ira furor brevis est*) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **"Vua Vespasian" là hoàng đế Vespasian** (trị vì 69–79 SCN), sống trước Marcus khoảng một thế kỷ. Đoạn Marcus nói về thời Vespasian là [Suy tưởng 4.32](../Meditations/Q04-noi-an-nau-ben-trong.md).
-> - **Lời khuyên xin lỗi sau khi nổi giận là của Irvine.** Bản dịch không gắn lời khuyên này với một nhà Khắc kỷ cổ đại nào; đây là đề xuất của chính tác giả.
-> - **Nguồn các câu được dẫn (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Phần lớn các câu Seneca trong chương lấy từ *Bàn về cơn giận*, trong đó có ví dụ người thấy cha bị giết, mẹ bị hãm hại, lời khuyên biến dấu hiệu của cơn giận thành điều ngược lại, câu "chúng ta là những kẻ xấu sống giữa một đám đông xấu xa", và câu kết về việc được yêu khi sống, được nhớ khi chết. Kỹ thuật thay ý nghĩ bất thiện bằng ý nghĩ thiện đối lập của Phật giáo có trong kinh *Song tầm* hay *An trú tầm* (*Vitakkasanthana Sutta*, Trung Bộ kinh số 20).
-> - **"Chương 7"** trong ngoặc đơn ở trang PDF 130 là Chương 7 "Tự tiết chế bản thân".
-> - **Lỗi chính tả của ebook:** "cực kỹ lớn" (đúng là "cực kỳ lớn"), "quan sát dược" ("quan sát được"), "khiến người giác nổi giận" ("người khác"), "kich động" ("kích động"), "ép bàn thân" ("ép bản thân"). Câu "trạng thái nội tâm của ta sẽ sớm quay lại khớp với trạng thái bên ngoài, và cơn giận sẽ tiêu tan." có dấu ngoặc kép đóng thừa ở cuối.
+Seneca gọi cơn giận là "cơn điên ngắn" và nói không tai họa nào hại loài người hơn nó: nó dẫn tới giết chóc, đầu độc, kiện tụng, làm thành phố và quốc gia lụi tàn; với từng người, vì đời có quá nhiều chuyện đáng bực, ai không kiểm soát được cơn giận sẽ sống trong tức tối triền miên.
+
+Seneca bác ý kiến rằng giận tạo động lực: được lợi từ cơn giận cũng như được lợi từ một thất bại, không ai tỉnh táo lại đi tìm nó, vì đã bật lên thì khó tắt và tác hại về sau lớn hơn lợi ban đầu.
+
+Ông không khuyên đứng yên khi cha bị giết, mẹ bị hãm hại; ông khuyên trừng phạt và bảo vệ nhưng giữ bình tĩnh, và trừng phạt để người sai không tái phạm chứ không phải để báo thù. Với người không biết sửa mình khi được nói phải trái, Seneca cho phép *giả bộ* giận để họ sửa đổi, nhưng không cho phép thật sự giận để có động lực.
+
+Cách phòng ngừa: đừng vội tin điều xấu nhất về người khác; nhớ rằng việc không theo ý mình không có nghĩa là bị đối xử bất công, và người mình đang bực có khi đang giúp mình; đừng nuông chiều bản thân, vì người được nuông chiều thì cái gì cũng thấy khó chịu; nhớ rằng thứ làm ta bực thường chỉ là phiền toái chứ không phải tổn hại, và "cơn giận của chúng ta luôn kéo dài lâu hơn những tổn thất mà ta phải chịu"; dùng tiếng cười thay nước mắt. Marcus thêm: nhìn sự vô thường, như thời hoàng đế Vespasian mà mọi cuộc đời giờ không còn dấu vết, để thấy chuyện mình đang giận nhỏ đến đâu.
+
+Khi cơn giận đã nhen, Seneca khuyên nhớ rằng chính mình cũng làm người khác giận, và biến mọi dấu hiệu của cơn giận thành điều ngược lại (thả lỏng mặt, hạ giọng, bước chậm), tương tự kỹ thuật nghĩ điều đối lập của Phật giáo. Khi đã lỡ giận, Irvine khuyên xin lỗi.
+
+Cuối chương: người lúc nào cũng giận và còn nghiền ngẫm chuyện cũ là một bi kịch, vì đời quá ngắn và họ làm khổ người xung quanh; Seneca hỏi sao không làm người được yêu khi sống và được nhớ khi chết.
 
 ## Sơ đồ
 
@@ -170,11 +170,15 @@
 
 Irvine mở chương bằng nhận định rằng giận dữ là một cảm xúc tiêu cực khác, nếu được cho phép, sẽ quấy nhiễu sự thanh thản của ta. Thật ra cơn giận có thể coi là đối lập của niềm vui. Vì vậy những người theo chủ nghĩa Khắc kỷ tìm cách giảm thiểu cơn giận mà ta phải trải qua.
 
-Tài liệu giá trị nhất về lời khuyên của các nhà Khắc kỷ trong việc phòng tránh và xử lý cơn giận là tác phẩm *Bàn về cơn giận* (*On Anger*) của Seneca. Ông cho rằng giận dữ là "cơn điên ngắn" và thiệt hại nó gây ra cực kỳ lớn: "Không có tai họa nào gây tổn hại cho loài người hơn sự giận dữ." Vì nó, ta thấy những người xung quanh bị giết, bị đầu độc, bị kiện; ta phải nhìn những thành phố và quốc gia lụi tàn. Ngoài thành phố và quốc gia, cơn giận còn có thể phá hủy từng cá nhân. Ta sống trong một thế giới có quá nhiều thứ để bực, nên nếu không học được cách kiểm soát cơn giận, lúc nào ta cũng mang trong mình cảm giác tức tối. Seneca kết luận rằng giận dữ là sự lãng phí thời gian quý giá.
+Tài liệu giá trị nhất về lời khuyên của các nhà Khắc kỷ trong việc phòng tránh và xử lý cơn giận là tác phẩm *Bàn về cơn giận* (*On Anger*) của Seneca. Ông cho rằng giận dữ là "cơn điên ngắn" và thiệt hại nó gây ra cực kỳ lớn: "Không có tai họa nào gây tổn hại cho loài người hơn sự giận dữ." Vì nó, ta thấy những người xung quanh bị giết, bị đầu độc, bị kiện; ta phải nhìn những thành phố và quốc gia lụi tàn.
+
+Ngoài thành phố và quốc gia, cơn giận còn có thể phá hủy từng cá nhân. Ta sống trong một thế giới có quá nhiều thứ để bực, nên nếu không học được cách kiểm soát cơn giận, lúc nào ta cũng mang trong mình cảm giác tức tối. Seneca kết luận rằng giận dữ là sự lãng phí thời gian quý giá.
 
 ### 2. Seneca bác ý kiến rằng giận tạo động lực (trang PDF 128–129)
 
-Một số người bênh vực rằng cơn giận cũng có ích, vì khi giận ta có thêm động lực. Seneca bác luận điểm này. Ông thừa nhận đôi khi người ta được lợi từ cơn giận, nhưng không vì thế mà nên đón cơn giận vào đời mình. Người ta đôi khi cũng được lợi từ một thất bại, nhưng chẳng ai tỉnh táo lại đi làm tăng khả năng thất bại của mình để được lợi theo cách ấy. Điều Seneca lo khi dùng cơn giận làm động lực là một khi đã bật công tắc lên thì khó tắt đi, và mọi điều tốt đến lúc đầu sẽ không bù nổi tác hại về sau. Ông cảnh báo rằng lý trí sẽ không bao giờ tận dụng được sự hỗ trợ của những cơn bốc đồng liều lĩnh, vô tổ chức, vì lý trí không có quyền điều khiển chúng.
+Một số người bênh vực rằng cơn giận cũng có ích, vì khi giận ta có thêm động lực. Seneca bác luận điểm này. Ông thừa nhận đôi khi người ta được lợi từ cơn giận, nhưng không vì thế mà nên đón cơn giận vào đời mình. Người ta đôi khi cũng được lợi từ một thất bại, nhưng chẳng ai tỉnh táo lại đi làm tăng khả năng thất bại của mình để được lợi theo cách ấy.
+
+Điều Seneca lo khi dùng cơn giận làm động lực là một khi đã bật công tắc lên thì khó tắt đi, và mọi điều tốt đến lúc đầu sẽ không bù nổi tác hại về sau. Ông cảnh báo rằng lý trí sẽ không bao giờ tận dụng được sự hỗ trợ của những cơn bốc đồng liều lĩnh, vô tổ chức, vì lý trí không có quyền điều khiển chúng.
 
 ### 3. Hành động mà không giận: trừng phạt để sửa, không để báo thù (trang PDF 129)
 
@@ -184,7 +188,9 @@ Nói chung, Seneca cho rằng khi ai đó làm sai với ta, họ nên bị tr�
 
 ### 4. Giả bộ giận với người không biết sửa mình (trang PDF 129)
 
-Irvine nhắc lại rằng trong phần bàn về sự xúc phạm (Chương 11), Seneca đặt một ngoại lệ cho quy tắc đáp lại xúc phạm bằng sự hài hước hoặc không phản ứng: nếu ta giao tiếp với một người lớn hành xử như trẻ con, ta có thể muốn phạt họ vì đã xúc phạm ta, vì đó là điều duy nhất họ hiểu. Tương tự, có những người làm sai với ta mà không có khả năng sửa hành vi khi được ta thỉnh cầu một cách hợp lẽ và thận trọng. Với những người nông cạn như vậy, thật sự nổi giận là vô lý, vì nó còn làm hỏng cả ngày của ta; theo Seneca, hành động hợp lẽ hơn là giả bộ giận. Bằng cách đó, ta có thể khiến người kia sửa đổi mà vẫn giảm thiểu tác hại cho sự yên bình của mình. Nói cách khác, dù Seneca bác ý tưởng cho phép mình nổi giận để có thêm động lực, ông lại cởi mở với ý tưởng giả bộ giận để thúc đẩy người khác.
+Irvine nhắc lại rằng trong phần bàn về sự xúc phạm (Chương 11), Seneca đặt một ngoại lệ cho quy tắc đáp lại xúc phạm bằng sự hài hước hoặc không phản ứng: nếu ta giao tiếp với một người lớn hành xử như trẻ con, ta có thể muốn phạt họ vì đã xúc phạm ta, vì đó là điều duy nhất họ hiểu.
+
+Tương tự, có những người làm sai với ta mà không có khả năng sửa hành vi khi được ta thỉnh cầu một cách hợp lẽ và thận trọng. Với những người nông cạn như vậy, thật sự nổi giận là vô lý, vì nó còn làm hỏng cả ngày của ta; theo Seneca, hành động hợp lẽ hơn là giả bộ giận. Bằng cách đó, ta có thể khiến người kia sửa đổi mà vẫn giảm thiểu tác hại cho sự yên bình của mình. Nói cách khác, dù Seneca bác ý tưởng cho phép mình nổi giận để có thêm động lực, ông lại cởi mở với ý tưởng giả bộ giận để thúc đẩy người khác.
 
 ### 5. Phòng ngừa: đừng vội nghĩ xấu về người khác (trang PDF 130)
 
@@ -192,7 +198,9 @@ Seneca đưa ra nhiều lời khuyên cụ thể để ngăn cơn giận. Ông n
 
 ### 6. Phòng ngừa: đừng nuông chiều bản thân (trang PDF 130)
 
-Khi quá nhạy cảm, ta rất dễ nổi giận. Seneca cho rằng nếu ta quá nuông chiều bản thân, nếu ta tự làm hư mình, thì có vẻ ta chẳng chịu nổi điều gì, và lý do không phải vì mọi việc quá khó mà vì ta quá yếu mềm. Vì vậy Seneca đề nghị ta bảo đảm mình không bao giờ quá thoải mái. Irvine chú thích rằng đây chỉ là một trong những lý do khiến người Khắc kỷ tránh sự thoải mái; Chương 7 đã phân tích các lý do khác. Nếu nghiêm khắc với bản thân theo cách này, tâm trí ta sẽ ít bị xáo động vì tiếng ồn của người hầu hay tiếng sập cửa, và vì thế ít bực vì chúng. Ta sẽ không quá nhạy cảm với những gì người khác nói hay làm, và ít bị kích động bởi những thứ "tầm thường vụn vặt", như bị đối xử thờ ơ hay nhìn thấy mớ lộn xộn trên ghế sô-fa.
+Khi quá nhạy cảm, ta rất dễ nổi giận. Seneca cho rằng nếu ta quá nuông chiều bản thân, nếu ta tự làm hư mình, thì có vẻ ta chẳng chịu nổi điều gì, và lý do không phải vì mọi việc quá khó mà vì ta quá yếu mềm. Vì vậy Seneca đề nghị ta bảo đảm mình không bao giờ quá thoải mái. Irvine chú thích rằng đây chỉ là một trong những lý do khiến người Khắc kỷ tránh sự thoải mái; Chương 7 đã phân tích các lý do khác.
+
+Nếu nghiêm khắc với bản thân theo cách này, tâm trí ta sẽ ít bị xáo động vì tiếng ồn của người hầu hay tiếng sập cửa, và vì thế ít bực vì chúng. Ta sẽ không quá nhạy cảm với những gì người khác nói hay làm, và ít bị kích động bởi những thứ "tầm thường vụn vặt", như bị đối xử thờ ơ hay nhìn thấy mớ lộn xộn trên ghế sô-fa.
 
 ### 7. Phòng ngừa: phân biệt phiền toái với tổn hại (trang PDF 130)
 
@@ -200,11 +208,17 @@ Khi quá nhạy cảm, ta rất dễ nổi giận. Seneca cho rằng nếu ta qu
 
 ### 8. Phòng ngừa: dùng tiếng cười (trang PDF 130–131)
 
-Như Chương 11 đã cho thấy, các nhà Khắc kỷ khuyên dùng sự hài hước để hóa giải sự xúc phạm: Cato nói đùa khi bị nhổ nước bọt vào mặt, Socrates nói đùa khi bị bạt tai. Seneca cho rằng ngoài việc là cách đáp hiệu quả trước sự xúc phạm, sự hài hước còn giúp ta khỏi nổi cơn thịnh nộ. Ông nói: "thật nhiều tiếng cười là cách phản hồi chính xác cho những điều khiến ta rơi nước mắt". Ý tưởng là nếu chủ động nhìn những điều tồi tệ xảy ra với mình theo cách hài hước thay vì bị tổn thương, một sự việc làm ta nổi nóng có thể thành trò giải trí. Irvine hình dung rằng khi Cato và Socrates dùng khiếu hài hước để đáp lại lời chế giễu, họ không chỉ hóa giải nó mà còn tự bảo vệ mình khỏi bực tức với người đã xúc phạm họ.
+Như Chương 11 đã cho thấy, các nhà Khắc kỷ khuyên dùng sự hài hước để hóa giải sự xúc phạm: Cato nói đùa khi bị nhổ nước bọt vào mặt, Socrates nói đùa khi bị bạt tai. Seneca cho rằng ngoài việc là cách đáp hiệu quả trước sự xúc phạm, sự hài hước còn giúp ta khỏi nổi cơn thịnh nộ. Ông nói: "thật nhiều tiếng cười là cách phản hồi chính xác cho những điều khiến ta rơi nước mắt".
+
+Ý tưởng là nếu chủ động nhìn những điều tồi tệ xảy ra với mình theo cách hài hước thay vì bị tổn thương, một sự việc làm ta nổi nóng có thể thành trò giải trí. Irvine hình dung rằng khi Cato và Socrates dùng khiếu hài hước để đáp lại lời chế giễu, họ không chỉ hóa giải nó mà còn tự bảo vệ mình khỏi bực tức với người đã xúc phạm họ.
 
 ### 9. Phòng ngừa: Marcus và sự vô thường (trang PDF 131)
 
-Marcus cũng khuyên cách tránh cơn giận. Ông đề nghị ta ngắm nhìn sự vô thường quanh mình. Làm được vậy, ta sẽ nhận ra nhiều thứ ta cho là quan trọng thật ra không quan trọng, ít nhất là trong toàn thể vũ trụ. Ông suy ngẫm về thời hoàng đế Vespasian, gần một thế kỷ trước thời ông. Khắp nơi mọi người làm những việc bình thường giống nhau: kết hôn, nuôi con, làm ruộng, yêu đương, ghen tị, đánh nhau, thết đãi. Nhưng, ông chỉ ra, "tất cả những cuộc đời đó đều không còn bất cứ dấu vết tồn tại nào cho đến ngày nay". Theo ngụ ý ấy, thời của ta cũng sẽ như vậy: những điều có vẻ cực kỳ quan trọng với ta sẽ chẳng là gì với cháu chắt ta. Vì thế, khi thấy mình sắp giận vì điều gì, ta nên dừng lại xét ý nghĩa của nó trong toàn thể vũ trụ. Cách làm này dập cơn giận ngay khi nó mới nhen.
+Marcus cũng khuyên cách tránh cơn giận. Ông đề nghị ta ngắm nhìn sự vô thường quanh mình. Làm được vậy, ta sẽ nhận ra nhiều thứ ta cho là quan trọng thật ra không quan trọng, ít nhất là trong toàn thể vũ trụ.
+
+Ông suy ngẫm về thời hoàng đế Vespasian, gần một thế kỷ trước thời ông. Khắp nơi mọi người làm những việc bình thường giống nhau: kết hôn, nuôi con, làm ruộng, yêu đương, ghen tị, đánh nhau, thết đãi. Nhưng, ông chỉ ra, "tất cả những cuộc đời đó đều không còn bất cứ dấu vết tồn tại nào cho đến ngày nay". Theo ngụ ý ấy, thời của ta cũng sẽ như vậy: những điều có vẻ cực kỳ quan trọng với ta sẽ chẳng là gì với cháu chắt ta.
+
+Vì thế, khi thấy mình sắp giận vì điều gì, ta nên dừng lại xét ý nghĩa của nó trong toàn thể vũ trụ. Cách làm này dập cơn giận ngay khi nó mới nhen.
 
 ### 10. Khi cơn giận đã nhen: nhớ lỗi của mình và đảo ngược dấu hiệu của cơn giận (trang PDF 131–132)
 
@@ -435,3 +449,26 @@ flowchart LR
   class n1,n9,n16,n27,n35,n40 branch
   class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n41,n42,n43 leaf
 ```
+
+## Nguồn
+
+William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 13 "Cơn giận — Vượt qua tâm thế phản đối niềm vui", trang PDF 128–132.
+
+## Tác giả
+
+William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 11 ([C11-su-xuc-pham.md](C11-su-xuc-pham.md)) bàn cách ứng phó với sự xúc phạm, nguồn gây giận thường gặp nhất; Chương 12 ([C12-su-dau-buon.md](C12-su-dau-buon.md)) bàn về nỗi đau buồn, cảm xúc tiêu cực đầu tiên mà Irvine xử lý riêng. Chương 13 bàn về cảm xúc tiêu cực thứ hai, cơn giận, mà Irvine coi là đối lập của niềm vui. Chương này dùng lại ví dụ Cato và Socrates của Chương 11, ngoại lệ "trừng phạt để sửa hành vi", và lý do tránh sự thoải mái của Chương 7 ([C07-tu-tiet-che-ban-than.md](C07-tu-tiet-che-ban-than.md)). Chương 14 ([C14-gia-tri-ca-nhan-danh-vong.md](C14-gia-tri-ca-nhan-danh-vong.md)) chuyển từ cảm xúc sang các giá trị cá nhân, bắt đầu với danh vọng.
+
+## Lưu ý
+
+- **"Tâm thế phản đối niềm vui" là cách dịch chữ *anti-joy* của Irvine.** Irvine tự đặt chữ này để gọi cơn giận như cái đối lập của niềm vui; nó không phải thuật ngữ của các nhà Khắc kỷ cổ đại. Cụm "tâm trạng phản đối niềm vui" ở câu cuối chương là cùng chữ ấy.
+- **"Sự thanh thản" và "sự bình thản".** Chương này bản dịch dùng "sự thanh thản" (và "sự yên bình tâm trí") cho chữ mà các Chương 9 đến Chương 12 dịch là "sự bình thản" (*tranquility*). Hai chữ chỉ cùng một khái niệm.
+- **"Cơn điên ngắn" không phải chữ của riêng Seneca.** Ở đầu *Bàn về cơn giận* (*De ira*), Seneca nói một số bậc hiền triết đã gọi cơn giận là "cơn điên ngắn" (*brevis insania*); thi sĩ Horace cũng có câu "giận là cơn điên ngắn" (*ira furor brevis est*) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
+- **"Vua Vespasian" là hoàng đế Vespasian** (trị vì 69–79 SCN), sống trước Marcus khoảng một thế kỷ. Đoạn Marcus nói về thời Vespasian là [Suy tưởng 4.32](../Meditations/Q04-noi-an-nau-ben-trong.md).
+- **Lời khuyên xin lỗi sau khi nổi giận là của Irvine.** Bản dịch không gắn lời khuyên này với một nhà Khắc kỷ cổ đại nào; đây là đề xuất của chính tác giả.
+- **Nguồn các câu được dẫn (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Phần lớn các câu Seneca trong chương lấy từ *Bàn về cơn giận*, trong đó có ví dụ người thấy cha bị giết, mẹ bị hãm hại, lời khuyên biến dấu hiệu của cơn giận thành điều ngược lại, câu "chúng ta là những kẻ xấu sống giữa một đám đông xấu xa", và câu kết về việc được yêu khi sống, được nhớ khi chết. Kỹ thuật thay ý nghĩ bất thiện bằng ý nghĩ thiện đối lập của Phật giáo có trong kinh *Song tầm* hay *An trú tầm* (*Vitakkasanthana Sutta*, Trung Bộ kinh số 20).
+- **"Chương 7"** trong ngoặc đơn ở trang PDF 130 là Chương 7 "Tự tiết chế bản thân".
+- **Lỗi chính tả của ebook:** "cực kỹ lớn" (đúng là "cực kỳ lớn"), "quan sát dược" ("quan sát được"), "khiến người giác nổi giận" ("người khác"), "kich động" ("kích động"), "ép bàn thân" ("ép bản thân"). Câu "trạng thái nội tâm của ta sẽ sớm quay lại khớp với trạng thái bên ngoài, và cơn giận sẽ tiêu tan." có dấu ngoặc kép đóng thừa ở cuối.

@@ -1,20 +1,20 @@
 # Chương 12 — Sự đau buồn: Vượt qua nước mắt bằng lý trí (Grief: On Vanquishing Tears with Reason)
 
-**Nguồn:** William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 12 "Sự đau buồn — Vượt qua nước mắt bằng lý trí", trang PDF 123–127.
-**Tác giả:** William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 10 ([C10-quan-he-xa-hoi.md](C10-quan-he-xa-hoi.md)) và Chương 11 ([C11-su-xuc-pham.md](C11-su-xuc-pham.md)) bàn về những phiền toái mà người khác gây ra. Chương 12 chuyển sang các cảm xúc tiêu cực tự thân, bắt đầu bằng nỗi đau buồn, nhất là nỗi đau khi mất người thân. Chương này dùng lại kỹ thuật tưởng tượng tiêu cực của Chương 4 ([C04-tuong-tuong-tieu-cuc.md](C04-tuong-tuong-tieu-cuc.md)), thêm một biến thể mới là tưởng tượng tiêu cực hồi cứu, và kỹ thuật nội tại hóa mục tiêu của Chương 5 ([C05-luong-phan-quyen-kiem-soat.md](C05-luong-phan-quyen-kiem-soat.md)). Chương 13 ([C13-con-gian.md](C13-con-gian.md)) bàn tiếp một cảm xúc tiêu cực khác là cơn giận. Phản bác lớn mà chương này nêu ra (tâm lý học hiện đại khuyên giải tỏa cảm xúc chứ không kìm nén) được Irvine trả lời ở Chương 20 ([C20-su-suy-tan-cua-chu-nghia-khac-ky.md](C20-su-suy-tan-cua-chu-nghia-khac-ky.md)).
+## Ý chính
 
-**Ý chính:** **Irvine bác bỏ định kiến rằng người Khắc kỷ không bao giờ đau buồn: họ coi một phần nỗi đau buồn là phản xạ tự nhiên không tránh được, nhưng dùng lý trí để ngăn phần đau buồn dư thừa và để vượt qua nỗi đau nhanh hơn.** Seneca viết cho Polybius, người mất anh trai, rằng tự nhiên đòi ta một ít nỗi buồn, phần nhiều còn lại là do sự phù phiếm; ông không bao giờ đòi Polybius đừng đau buồn, chỉ khuyên giữ mức cân bằng giữa lãnh đạm và điên loạn: "hãy để cho nước mắt rơi, nhưng cũng hãy để cho chúng ngừng lại". Vì thế giới có quá nhiều dịp đau buồn, nên phải "tằn tiện nước mắt". Chiến lược hàng đầu để ngăn đau buồn là tưởng tượng tiêu cực: nghĩ trước về cái chết của người thân thì bớt sốc khi nó đến, và vì trân trọng họ khi còn sống nên không phải hối tiếc. Để dập nỗi đau đã có, Seneca khuyên Marcia, ba năm sau khi con trai chết vẫn đau như ngày chôn con, hãy nghĩ đời mình sẽ tệ đến đâu nếu chưa từng có đứa con ấy, tức là biết ơn vì con đã từng sống; Irvine gọi đây là tưởng tượng tiêu cực hồi cứu. Với Polybius, Seneca dùng lý lẽ: người anh đã chết hoặc muốn em đau khổ, thì không đáng để em khóc, hoặc không muốn, thì em phải ngừng khóc vì thương anh; và người chết không còn đau buồn được nữa. Với mẹ mình là Helvia, người đau buồn vì ông bị lưu đày, Seneca lập luận rằng chính ông còn không đau khổ thì bà cũng không nên. Irvine thừa nhận lý lẽ có thể không thấm khi nỗi đau tột cùng, nhưng vẫn có ích vì giúp người đau buồn thấy tâm trí mình đã bị cảm xúc chế ngự tới đâu. Epictetus khuyên khi an ủi người khác, có thể khóc cùng họ nhưng đừng "khóc trong lòng"; Irvine bênh vực lời khuyên này: tự làm mình đau để giúp bạn cũng như tự uống thuốc độc để cứu người bị đầu độc. Cuối chương, ông thừa nhận nhiều người sẽ thấy lời khuyên Khắc kỷ nguy hiểm vì đi ngược quan điểm đồng thuận hiện nay là phải giải tỏa cảm xúc, và hẹn trả lời ở Chương 20 ([C20-su-suy-tan-cua-chu-nghia-khac-ky.md](C20-su-suy-tan-cua-chu-nghia-khac-ky.md); bản dịch ghi "chương 19", tức số chương của bản dịch), nơi ông sẽ đặt câu hỏi với chính quan điểm đồng thuận ấy.
+**Irvine bác bỏ định kiến rằng người Khắc kỷ không bao giờ đau buồn: họ coi một phần nỗi đau buồn là phản xạ tự nhiên không tránh được, nhưng dùng lý trí để ngăn phần đau buồn dư thừa và để vượt qua nỗi đau nhanh hơn.**
 
-> **Lưu ý:**
-> - **"Những cảm xúc như đau khổ chính là một mức độ phản xạ" dịch chưa sát.** Ý đúng: các nhà Khắc kỷ hiểu rằng những cảm xúc như nỗi đau buồn, *ở một mức độ nào đó*, là phản xạ (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác). Chữ "ở một mức độ nào đó" quan trọng, vì nó để chỗ cho phần đau buồn không phải phản xạ, phần mà lý trí có thể loại bỏ.
-> - **"Đau khổ" và "đau buồn".** Bản dịch dùng cả hai chữ cho cùng một khái niệm (*grief*, nỗi đau buồn khi mất mát). Bản tổng hợp dùng "nỗi đau buồn" làm chữ chính.
-> - **"Tưởng tượng tiêu cực hồi cứu" là thuật ngữ của Irvine.** Seneca không đặt tên cho kỹ thuật này; Irvine đặt tên dựa trên lời khuyên của Seneca cho Marcia.
-> - **Bối cảnh của ba bức thư an ủi (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Seneca viết ba tác phẩm thuộc thể loại "thư an ủi" (*consolatio*): *An ủi Marcia* (*Ad Marciam de consolatione*), cho Marcia, con gái sử gia Cremutius Cordus, mất con trai Metilius; *An ủi Helvia* (*Ad Helviam matrem de consolatione*), cho mẹ ông khi ông bị hoàng đế Claudius lưu đày tới đảo Corsica (khoảng năm 41–49 SCN); và *An ủi Polybius* (*Ad Polybium de consolatione*), cho Polybius, một người tự do (cựu nô lệ) làm thư ký quyền lực của Claudius, mất em trai hoặc anh trai. Bức thư cho Polybius được viết trong thời lưu đày và chứa nhiều lời ca ngợi Claudius, nên thường được đọc như một nỗ lực xin được ân xá.
-> - **Lỗi chính tả tên riêng của ebook:** "Polibius" (trang PDF 123) và "Polyious" (trang PDF 125) đều là "Polybius".
-> - **Câu "Và khi cho rằng các bước như vậy tồn tại, ta buộc phải thực hiện chúng"** nên hiểu là: vì có những bước như vậy, ta nên thực hiện chúng.
-> - **Câu trong ngoặc đơn "nếu ta nội tại hóa đúng mục tiêu của mình"** dẫn về kỹ thuật ở Chương 5: thay vì đặt mục tiêu bên ngoài, thứ không hoàn toàn thuộc quyền ta ("giúp bạn hết đau"), hãy đặt mục tiêu bên trong ("cố hết sức để giúp bạn vượt qua nỗi đau").
-> - **Câu Epictetus "đừng khóc trong lòng"** là *Cẩm nang* (*Enchiridion*) mục 16 (theo hiểu biết của người tổng hợp).
+Seneca viết cho Polybius, người mất anh trai, rằng tự nhiên đòi ta một ít nỗi buồn, phần nhiều còn lại là do sự phù phiếm; ông không bao giờ đòi Polybius đừng đau buồn, chỉ khuyên giữ mức cân bằng giữa lãnh đạm và điên loạn: "hãy để cho nước mắt rơi, nhưng cũng hãy để cho chúng ngừng lại". Vì thế giới có quá nhiều dịp đau buồn, nên phải "tằn tiện nước mắt".
+
+Chiến lược hàng đầu để ngăn đau buồn là tưởng tượng tiêu cực: nghĩ trước về cái chết của người thân thì bớt sốc khi nó đến, và vì trân trọng họ khi còn sống nên không phải hối tiếc.
+
+Để dập nỗi đau đã có, Seneca khuyên Marcia, ba năm sau khi con trai chết vẫn đau như ngày chôn con, hãy nghĩ đời mình sẽ tệ đến đâu nếu chưa từng có đứa con ấy, tức là biết ơn vì con đã từng sống; Irvine gọi đây là tưởng tượng tiêu cực hồi cứu.
+
+Với Polybius, Seneca dùng lý lẽ: người anh đã chết hoặc muốn em đau khổ, thì không đáng để em khóc, hoặc không muốn, thì em phải ngừng khóc vì thương anh; và người chết không còn đau buồn được nữa. Với mẹ mình là Helvia, người đau buồn vì ông bị lưu đày, Seneca lập luận rằng chính ông còn không đau khổ thì bà cũng không nên. Irvine thừa nhận lý lẽ có thể không thấm khi nỗi đau tột cùng, nhưng vẫn có ích vì giúp người đau buồn thấy tâm trí mình đã bị cảm xúc chế ngự tới đâu.
+
+Epictetus khuyên khi an ủi người khác, có thể khóc cùng họ nhưng đừng "khóc trong lòng"; Irvine bênh vực lời khuyên này: tự làm mình đau để giúp bạn cũng như tự uống thuốc độc để cứu người bị đầu độc.
+
+Cuối chương, ông thừa nhận nhiều người sẽ thấy lời khuyên Khắc kỷ nguy hiểm vì đi ngược quan điểm đồng thuận hiện nay là phải giải tỏa cảm xúc, và hẹn trả lời ở Chương 20 ([C20-su-suy-tan-cua-chu-nghia-khac-ky.md](C20-su-suy-tan-cua-chu-nghia-khac-ky.md); bản dịch ghi "chương 19", tức số chương của bản dịch), nơi ông sẽ đặt câu hỏi với chính quan điểm đồng thuận ấy.
 
 ## Sơ đồ
 
@@ -194,13 +194,21 @@ Irvine thừa nhận rằng trong một số trường hợp, những lời kêu
 
 Epictetus cũng khuyên cách kiểm soát nỗi đau buồn. Cụ thể, ông khuyên cẩn thận để đừng "nhiễm" nỗi đau của người khác. Giả sử ta gặp một người phụ nữ đang đau buồn. Theo Epictetus, ta nên thông cảm với cô, thậm chí có thể than khóc cùng cô. Nhưng khi làm vậy, ta phải cẩn thận để không "khóc trong lòng". Nói cách khác, ta nên bày tỏ những dấu hiệu của đau buồn mà không để mình thật sự đau khổ.
 
-Một số người sẽ khó chịu với lời khuyên này. Họ cho rằng khi người khác đau khổ, ta không nên chỉ giả vờ đồng cảm; ta nên thật sự cảm nhận mất mát của họ và thật sự buồn. Irvine cho rằng Epictetus có thể đáp lại như sau: khuyên ta phản ứng trước nỗi đau của bạn bằng cách tự mình đau khổ cũng ngớ ngẩn như khuyên cứu một người bị đầu độc bằng cách tự đầu độc mình, hay giúp một người bị cúm bằng cách cố tình để mình bị lây cúm. Đau buồn là cảm xúc tiêu cực, nên ta nên tránh nó hết mức có thể. Nếu một người bạn đang đau buồn, mục tiêu của ta nên là giúp cô vượt qua nỗi đau; hay đúng hơn, nếu ta nội tại hóa mục tiêu của mình đúng cách (kỹ thuật ở Chương 5), mục tiêu ấy nên là cố hết sức giúp cô vượt qua nỗi đau. Nếu làm được điều đó bằng việc khóc than giả, thì cứ khóc. Vì nếu "nhiễm" nỗi đau của cô, rốt cuộc ta không giúp được cô mà còn tự làm mình đau.
+Một số người sẽ khó chịu với lời khuyên này. Họ cho rằng khi người khác đau khổ, ta không nên chỉ giả vờ đồng cảm; ta nên thật sự cảm nhận mất mát của họ và thật sự buồn.
+
+Irvine cho rằng Epictetus có thể đáp lại như sau: khuyên ta phản ứng trước nỗi đau của bạn bằng cách tự mình đau khổ cũng ngớ ngẩn như khuyên cứu một người bị đầu độc bằng cách tự đầu độc mình, hay giúp một người bị cúm bằng cách cố tình để mình bị lây cúm. Đau buồn là cảm xúc tiêu cực, nên ta nên tránh nó hết mức có thể.
+
+Nếu một người bạn đang đau buồn, mục tiêu của ta nên là giúp cô vượt qua nỗi đau; hay đúng hơn, nếu ta nội tại hóa mục tiêu của mình đúng cách (kỹ thuật ở Chương 5), mục tiêu ấy nên là cố hết sức giúp cô vượt qua nỗi đau. Nếu làm được điều đó bằng việc khóc than giả, thì cứ khóc. Vì nếu "nhiễm" nỗi đau của cô, rốt cuộc ta không giúp được cô mà còn tự làm mình đau.
 
 ### 9. Phản bác từ quan điểm đồng thuận về sức khỏe tinh thần (trang PDF 127)
 
-Irvine thừa nhận ở đây một số độc giả sẽ nghi ngờ sự khôn ngoan và hiệu quả của các kỹ thuật Khắc kỷ trong việc đối phó với cảm xúc tiêu cực. Ngày nay, chuyên gia sức khỏe và người thường có một quan điểm đồng thuận về sức khỏe tinh thần: ta phải nắm bắt cảm xúc của mình, chia sẻ chúng với người khác, trút chúng ra chứ không kìm nén. Các nhà Khắc kỷ, ngược lại, cho rằng đôi khi ta nên giả vờ cảm xúc, và đôi khi nên thực hiện các bước để dập tắt những cảm xúc thật mà ta thấy trong mình. Một số người vì thế có thể kết luận rằng làm theo lời khuyên của các nhà Khắc kỷ về cảm xúc là nguy hiểm; và vì lời khuyên ấy nằm ở trung tâm của chủ nghĩa Khắc kỷ, họ có thể phản đối việc coi chủ nghĩa Khắc kỷ là một triết lý sống.
+Irvine thừa nhận ở đây một số độc giả sẽ nghi ngờ sự khôn ngoan và hiệu quả của các kỹ thuật Khắc kỷ trong việc đối phó với cảm xúc tiêu cực. Ngày nay, chuyên gia sức khỏe và người thường có một quan điểm đồng thuận về sức khỏe tinh thần: ta phải nắm bắt cảm xúc của mình, chia sẻ chúng với người khác, trút chúng ra chứ không kìm nén.
 
-Irvine hẹn sẽ trả lời phê bình này ở Chương 20, và trước sự ngạc nhiên của một số người, ông sẽ làm vậy bằng cách đặt câu hỏi với chính quan điểm đồng thuận về việc ta nên làm gì để giữ sức khỏe tinh thần. (Ở Chương 20, ông dẫn các nghiên cứu cho thấy tham vấn đau buồn không hiệu quả như người ta tưởng và lý thuyết "nỗi đau bị trì hoãn" thiếu bằng chứng.) Ông thừa nhận chắc chắn một số người, chẳng hạn những người đang chịu nỗi đau tột cùng, có thể được lợi từ tư vấn tâm lý. Nhưng ông cũng cho rằng nhiều người có thể khỏe mạnh về tinh thần mà không cần tư vấn. Cụ thể, ông tin rằng thực hành chủ nghĩa Khắc kỷ giúp ta tránh được nhiều cuộc khủng hoảng cảm xúc làm con người đau khổ, và nếu đã rơi vào cảm xúc tiêu cực, làm theo lời khuyên Khắc kỷ trong nhiều trường hợp sẽ giúp ta tự vượt qua.
+Các nhà Khắc kỷ, ngược lại, cho rằng đôi khi ta nên giả vờ cảm xúc, và đôi khi nên thực hiện các bước để dập tắt những cảm xúc thật mà ta thấy trong mình. Một số người vì thế có thể kết luận rằng làm theo lời khuyên của các nhà Khắc kỷ về cảm xúc là nguy hiểm; và vì lời khuyên ấy nằm ở trung tâm của chủ nghĩa Khắc kỷ, họ có thể phản đối việc coi chủ nghĩa Khắc kỷ là một triết lý sống.
+
+Irvine hẹn sẽ trả lời phê bình này ở Chương 20, và trước sự ngạc nhiên của một số người, ông sẽ làm vậy bằng cách đặt câu hỏi với chính quan điểm đồng thuận về việc ta nên làm gì để giữ sức khỏe tinh thần. (Ở Chương 20, ông dẫn các nghiên cứu cho thấy tham vấn đau buồn không hiệu quả như người ta tưởng và lý thuyết "nỗi đau bị trì hoãn" thiếu bằng chứng.)
+
+Ông thừa nhận chắc chắn một số người, chẳng hạn những người đang chịu nỗi đau tột cùng, có thể được lợi từ tư vấn tâm lý. Nhưng ông cũng cho rằng nhiều người có thể khỏe mạnh về tinh thần mà không cần tư vấn. Cụ thể, ông tin rằng thực hành chủ nghĩa Khắc kỷ giúp ta tránh được nhiều cuộc khủng hoảng cảm xúc làm con người đau khổ, và nếu đã rơi vào cảm xúc tiêu cực, làm theo lời khuyên Khắc kỷ trong nhiều trường hợp sẽ giúp ta tự vượt qua.
 
 ## Luận điểm triết học cốt lõi
 
@@ -392,3 +400,26 @@ flowchart LR
   class n1,n8,n15,n23,n28,n33 branch
   class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n29,n30,n31,n32,n34,n35,n36 leaf
 ```
+
+## Nguồn
+
+William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 12 "Sự đau buồn — Vượt qua nước mắt bằng lý trí", trang PDF 123–127.
+
+## Tác giả
+
+William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 10 ([C10-quan-he-xa-hoi.md](C10-quan-he-xa-hoi.md)) và Chương 11 ([C11-su-xuc-pham.md](C11-su-xuc-pham.md)) bàn về những phiền toái mà người khác gây ra. Chương 12 chuyển sang các cảm xúc tiêu cực tự thân, bắt đầu bằng nỗi đau buồn, nhất là nỗi đau khi mất người thân. Chương này dùng lại kỹ thuật tưởng tượng tiêu cực của Chương 4 ([C04-tuong-tuong-tieu-cuc.md](C04-tuong-tuong-tieu-cuc.md)), thêm một biến thể mới là tưởng tượng tiêu cực hồi cứu, và kỹ thuật nội tại hóa mục tiêu của Chương 5 ([C05-luong-phan-quyen-kiem-soat.md](C05-luong-phan-quyen-kiem-soat.md)). Chương 13 ([C13-con-gian.md](C13-con-gian.md)) bàn tiếp một cảm xúc tiêu cực khác là cơn giận. Phản bác lớn mà chương này nêu ra (tâm lý học hiện đại khuyên giải tỏa cảm xúc chứ không kìm nén) được Irvine trả lời ở Chương 20 ([C20-su-suy-tan-cua-chu-nghia-khac-ky.md](C20-su-suy-tan-cua-chu-nghia-khac-ky.md)).
+
+## Lưu ý
+
+- **"Những cảm xúc như đau khổ chính là một mức độ phản xạ" dịch chưa sát.** Ý đúng: các nhà Khắc kỷ hiểu rằng những cảm xúc như nỗi đau buồn, *ở một mức độ nào đó*, là phản xạ (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác). Chữ "ở một mức độ nào đó" quan trọng, vì nó để chỗ cho phần đau buồn không phải phản xạ, phần mà lý trí có thể loại bỏ.
+- **"Đau khổ" và "đau buồn".** Bản dịch dùng cả hai chữ cho cùng một khái niệm (*grief*, nỗi đau buồn khi mất mát). Bản tổng hợp dùng "nỗi đau buồn" làm chữ chính.
+- **"Tưởng tượng tiêu cực hồi cứu" là thuật ngữ của Irvine.** Seneca không đặt tên cho kỹ thuật này; Irvine đặt tên dựa trên lời khuyên của Seneca cho Marcia.
+- **Bối cảnh của ba bức thư an ủi (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Seneca viết ba tác phẩm thuộc thể loại "thư an ủi" (*consolatio*): *An ủi Marcia* (*Ad Marciam de consolatione*), cho Marcia, con gái sử gia Cremutius Cordus, mất con trai Metilius; *An ủi Helvia* (*Ad Helviam matrem de consolatione*), cho mẹ ông khi ông bị hoàng đế Claudius lưu đày tới đảo Corsica (khoảng năm 41–49 SCN); và *An ủi Polybius* (*Ad Polybium de consolatione*), cho Polybius, một người tự do (cựu nô lệ) làm thư ký quyền lực của Claudius, mất em trai hoặc anh trai. Bức thư cho Polybius được viết trong thời lưu đày và chứa nhiều lời ca ngợi Claudius, nên thường được đọc như một nỗ lực xin được ân xá.
+- **Lỗi chính tả tên riêng của ebook:** "Polibius" (trang PDF 123) và "Polyious" (trang PDF 125) đều là "Polybius".
+- **Câu "Và khi cho rằng các bước như vậy tồn tại, ta buộc phải thực hiện chúng"** nên hiểu là: vì có những bước như vậy, ta nên thực hiện chúng.
+- **Câu trong ngoặc đơn "nếu ta nội tại hóa đúng mục tiêu của mình"** dẫn về kỹ thuật ở Chương 5: thay vì đặt mục tiêu bên ngoài, thứ không hoàn toàn thuộc quyền ta ("giúp bạn hết đau"), hãy đặt mục tiêu bên trong ("cố hết sức để giúp bạn vượt qua nỗi đau").
+- **Câu Epictetus "đừng khóc trong lòng"** là *Cẩm nang* (*Enchiridion*) mục 16 (theo hiểu biết của người tổng hợp).

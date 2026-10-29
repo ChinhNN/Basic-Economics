@@ -1,17 +1,18 @@
 # Chương 8 — Suy ngẫm: Quan sát bản thân thực hành chủ nghĩa Khắc kỷ (Meditation: Watching Ourselves Practice Stoicism)
 
-**Nguồn:** William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 8 "Suy ngẫm", trang PDF 95–100.
-**Tác giả:** William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
-**Vị trí trong lập luận của cả cuốn sách:** Các Chương 4–7 trình bày bốn kỹ thuật tâm lý: tưởng tượng tiêu cực ([C04-tuong-tuong-tieu-cuc.md](C04-tuong-tuong-tieu-cuc.md)), sự tam phân quyền kiểm soát và nội tại hóa mục tiêu ([C05-luong-phan-quyen-kiem-soat.md](C05-luong-phan-quyen-kiem-soat.md)), thuyết vận mệnh về quá khứ và hiện tại ([C06-thuyet-van-menh.md](C06-thuyet-van-menh.md)), và tự tiết chế ([C07-tu-tiet-che-ban-than.md](C07-tu-tiet-che-ban-than.md)). Chương 8 khép lại Phần Hai bằng kỹ thuật thứ năm, có vai trò giám sát các kỹ thuật kia: định kỳ suy ngẫm về những gì đã xảy ra trong ngày, tự kiểm kê việc thực hành, và đánh giá tiến bộ. Chương 9 ([C09-bon-phan.md](C09-bon-phan.md)) mở Phần Ba, chuyển sang lời khuyên của các nhà Khắc kỷ cho từng mặt của đời sống, những lời khuyên mà Chương 8 nói ta cũng nên đưa vào bản tự kiểm. Chương 19 ([C19-tro-thanh-nguoi-khac-ky.md](C19-tro-thanh-nguoi-khac-ky.md)) và Chương 22 ([C22-thuc-hanh-chu-nghia-khac-ky.md](C22-thuc-hanh-chu-nghia-khac-ky.md)) quay lại câu hỏi làm sao bắt đầu và duy trì việc thực hành.
-**Ý chính:** **Irvine cho rằng muốn tiến bộ trong thực hành chủ nghĩa Khắc kỷ thì phải định kỳ quan sát chính mình: xem lại các sự kiện trong ngày, xem mình đã phản ứng thế nào và lẽ ra nên phản ứng thế nào theo nguyên tắc Khắc kỷ, rồi đánh giá tiến bộ qua những dấu hiệu cụ thể, quan trọng nhất là ít cảm xúc tiêu cực hơn.** Seneca học từ thầy Sextius thói quen tự hỏi trước khi ngủ: hôm nay đã thoát khỏi phiền não nào, sửa được nhược điểm gì, tiến bộ ở đâu. Seneca kể bốn sự việc ông tự xét: khuyên răn quá gay gắt, để bụng lời đùa ở bữa tiệc, giận vì không được ngồi chỗ danh dự, coi người chê tác phẩm mình là kẻ thù. Suy ngẫm Khắc kỷ khác thiền Phật giáo: tâm trí hoạt động tích cực thay vì để trống. Epictetus đề xuất một người quan sát Khắc kỷ bên trong mình theo dõi ta suốt ngày; Marcus khuyên xét động cơ của từng việc và hỏi mình đang bị lý trí hay thứ khác (đứa trẻ, bạo chúa, con bò, thú hoang) chi phối. Ta cũng nên tự kiểm kê việc dùng các kỹ thuật ở Chương 4–7. Các dấu hiệu tiến bộ: không bị tổn thương bởi lời chê hay lời khen, coi sự ngưỡng mộ của người khác là dấu hiệu đáng ngờ, thôi đổ lỗi và khoe khoang, ít ham muốn hơn và coi chính mình như kẻ thù đang rình rập, không còn mơ thấy lạc thú đáng hổ thẹn (Zeno), sống triết lý bằng hành động thay vì lời nói và kín đáo về nó, và quan trọng nhất là ít cảm xúc tiêu cực, vui hơn với điều nhỏ. Bằng chứng cuối cùng chỉ có khi đối diện cái chết (Seneca). Tiến bộ chậm là bình thường; Seneca chỉ mong mỗi ngày bớt một tật xấu; Marcus khuyên không bỏ cuộc và tiếp tục thực hành "kể cả khi dường như không có cơ may thành công".
+## Ý chính
 
-> **Lưu ý:**
-> - **"Suy ngẫm" là chữ bản dịch dùng cho *meditation*, nhưng cùng chữ ấy được dùng ở các Chương 4–7 cho nghĩa thông thường "nghĩ về" (ví dụ "suy ngẫm về những điều tồi tệ") (nhận xét của người tổng hợp).** Ở Chương 8, "suy ngẫm" là tên một kỹ thuật cụ thể: tự xem xét có hệ thống, nhất là vào cuối ngày. Irvine nói rõ nó khác thiền (*meditation*) Phật giáo. Bản tổng hợp gọi nó là "suy ngẫm" hoặc "bài suy ngẫm trước lúc đi ngủ" khi cần phân biệt.
-> - **Nguồn các câu trích (theo hiểu biết của người tổng hợp, chưa đối chiếu; Irvine không ghi số trong lời văn):** bài tự vấn của Sextius và bốn sự việc Seneca tự xét nằm trong Seneca, *Về cơn giận* (*De ira*) quyển 3; các dấu hiệu tiến bộ của Epictetus (thôi đổ lỗi, khoe khoang, coi mình như kẻ thù rình rập) thuộc *Cẩm nang* mục 48; câu "Nếu mọi người nghĩ rằng bạn là người thành công, hãy tự hoài nghi bản thân" thuộc *Cẩm nang* mục 13; ý của Zeno về giấc mơ được Plutarch thuật lại; câu Seneca về việc chỉ biết mình tiến bộ thật khi đối diện cái chết thuộc *Thư gửi Lucilius* số 26. Câu Marcus về đứa trẻ, bạo chúa, con bò, thú hoang gần với *Suy tưởng* 5.11; lời khuyên không nản chí khi trượt gần với 5.9 (xem [Q05](../Meditations/Q05-thuc-day-lam-viec-cua-con-nguoi.md)); câu "kể cả khi dường như không có cơ may thành công" gần với 12.6 (xem [Q12](../Meditations/Q12-hien-tai-va-man-ket-thuc.md)).
-> - **"Sextius, thầy ông"** (trang PDF 95): theo hiểu biết của người tổng hợp, Quintus Sextius lập một trường phái riêng pha Khắc kỷ với Pythagoras; Seneca học với học trò của Sextius (như Sotion) hơn là trực tiếp với Sextius. "Thầy" nên hiểu là bậc thầy về tư tưởng.
-> - **Câu dịch về chỉ báo đầu tiên của Epictetus** (trang PDF 97), "không bị tổn thương khi người khác nói rằng chúng ta chẳng biết gì về những thứ bên ngoài", nên hiểu là: người tiến bộ sẵn lòng bị coi là ngớ ngẩn, không hiểu biết về những chuyện bên ngoài, và không bận tâm.
-> - **"Ở phần 3"** (trang PDF 97) chỉ Phần Ba của sách, "Lời khuyên của các nhà Khắc kỷ" (Chương 9–19).
-> - **Lỗi chữ của ebook:** "cam thấy khó chịu" (trang PDF 95, đúng là "cảm thấy"); "Cụ thể là. Zeno" (trang PDF 98) thừa dấu chấm; "những gì nên làm gì" (trang PDF 99) thừa chữ "gì".
+**Irvine cho rằng muốn tiến bộ trong thực hành chủ nghĩa Khắc kỷ thì phải định kỳ quan sát chính mình: xem lại các sự kiện trong ngày, xem mình đã phản ứng thế nào và lẽ ra nên phản ứng thế nào theo nguyên tắc Khắc kỷ, rồi đánh giá tiến bộ qua những dấu hiệu cụ thể, quan trọng nhất là ít cảm xúc tiêu cực hơn.**
+
+Seneca học từ thầy Sextius thói quen tự hỏi trước khi ngủ: hôm nay đã thoát khỏi phiền não nào, sửa được nhược điểm gì, tiến bộ ở đâu. Seneca kể bốn sự việc ông tự xét: khuyên răn quá gay gắt, để bụng lời đùa ở bữa tiệc, giận vì không được ngồi chỗ danh dự, coi người chê tác phẩm mình là kẻ thù.
+
+Suy ngẫm Khắc kỷ khác thiền Phật giáo: tâm trí hoạt động tích cực thay vì để trống. Epictetus đề xuất một người quan sát Khắc kỷ bên trong mình theo dõi ta suốt ngày; Marcus khuyên xét động cơ của từng việc và hỏi mình đang bị lý trí hay thứ khác (đứa trẻ, bạo chúa, con bò, thú hoang) chi phối.
+
+Ta cũng nên tự kiểm kê việc dùng các kỹ thuật ở Chương 4–7.
+
+Các dấu hiệu tiến bộ: không bị tổn thương bởi lời chê hay lời khen, coi sự ngưỡng mộ của người khác là dấu hiệu đáng ngờ, thôi đổ lỗi và khoe khoang, ít ham muốn hơn và coi chính mình như kẻ thù đang rình rập, không còn mơ thấy lạc thú đáng hổ thẹn (Zeno), sống triết lý bằng hành động thay vì lời nói và kín đáo về nó, và quan trọng nhất là ít cảm xúc tiêu cực, vui hơn với điều nhỏ. Bằng chứng cuối cùng chỉ có khi đối diện cái chết (Seneca).
+
+Tiến bộ chậm là bình thường; Seneca chỉ mong mỗi ngày bớt một tật xấu; Marcus khuyên không bỏ cuộc và tiếp tục thực hành "kể cả khi dường như không có cơ may thành công".
 
 ## Sơ đồ
 
@@ -224,7 +225,9 @@ Một việc nữa có thể làm khi suy ngẫm là đánh giá tiến bộ c�
 
 **Giấc mơ thay đổi.** Các nhà Khắc kỷ cho rằng thực hành không chỉ tác động tới suy nghĩ và mong muốn khi thức mà cả giấc mơ. Zeno cho rằng một khi đã tiến bộ, ta sẽ không còn mơ thấy mình thỏa mãn những lạc thú đáng hổ thẹn.
 
-**Hành động hơn lời nói.** Triết lý sống của người tiến bộ thể hiện ở hành động hơn là lời nói. Theo Epictetus, điều quan trọng nhất không phải khả năng đọc vanh vách các nguyên tắc Khắc kỷ mà là khả năng sống theo chúng. Ở một bữa tiệc, người mới thực hành có thể nói về việc người đã hiểu triết lý thì nên ăn gì; người thực hành sâu hơn thì chỉ đơn giản ăn như vậy. Người mới có thể khoe về lối sống giản dị của mình hay việc bỏ rượu uống nước lọc; người thực hành sâu, đã sống giản dị và đã bỏ rượu, không có nhu cầu bình phẩm về chuyện ấy. Epictetus còn cho rằng khi thực hành chủ nghĩa Khắc kỷ, ta nên kín đáo, để người khác không coi mình là người Khắc kỷ, thậm chí không coi mình là triết gia.
+**Hành động hơn lời nói.** Triết lý sống của người tiến bộ thể hiện ở hành động hơn là lời nói. Theo Epictetus, điều quan trọng nhất không phải khả năng đọc vanh vách các nguyên tắc Khắc kỷ mà là khả năng sống theo chúng.
+
+Ở một bữa tiệc, người mới thực hành có thể nói về việc người đã hiểu triết lý thì nên ăn gì; người thực hành sâu hơn thì chỉ đơn giản ăn như vậy. Người mới có thể khoe về lối sống giản dị của mình hay việc bỏ rượu uống nước lọc; người thực hành sâu, đã sống giản dị và đã bỏ rượu, không có nhu cầu bình phẩm về chuyện ấy. Epictetus còn cho rằng khi thực hành chủ nghĩa Khắc kỷ, ta nên kín đáo, để người khác không coi mình là người Khắc kỷ, thậm chí không coi mình là triết gia.
 
 **Dấu hiệu quan trọng nhất: đời sống cảm xúc thay đổi.** Không phải ta trở nên vô cảm, như những người không hiểu chủ nghĩa Khắc kỷ thường nghĩ. Thay vào đó, ta thấy mình ít trải qua cảm xúc tiêu cực hơn; ít dành thời gian ước mọi chuyện khác đi và nhiều thời gian tận hưởng hiện tại hơn; nói chung là có một mức bình thản chưa từng có. Ta cũng có thể thấy mình nhạy hơn với những niềm vui nhỏ, và hài lòng với con người hiện tại của mình, với cuộc đời mình đang sống, trong vũ trụ mình đang cư ngụ.
 
@@ -447,3 +450,26 @@ flowchart LR
   class n1,n12,n20,n26,n38,n44 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n45,n46,n47 leaf
 ```
+
+## Nguồn
+
+William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 8 "Suy ngẫm", trang PDF 95–100.
+
+## Tác giả
+
+William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các Chương 4–7 trình bày bốn kỹ thuật tâm lý: tưởng tượng tiêu cực ([C04-tuong-tuong-tieu-cuc.md](C04-tuong-tuong-tieu-cuc.md)), sự tam phân quyền kiểm soát và nội tại hóa mục tiêu ([C05-luong-phan-quyen-kiem-soat.md](C05-luong-phan-quyen-kiem-soat.md)), thuyết vận mệnh về quá khứ và hiện tại ([C06-thuyet-van-menh.md](C06-thuyet-van-menh.md)), và tự tiết chế ([C07-tu-tiet-che-ban-than.md](C07-tu-tiet-che-ban-than.md)). Chương 8 khép lại Phần Hai bằng kỹ thuật thứ năm, có vai trò giám sát các kỹ thuật kia: định kỳ suy ngẫm về những gì đã xảy ra trong ngày, tự kiểm kê việc thực hành, và đánh giá tiến bộ.
+
+Chương 9 ([C09-bon-phan.md](C09-bon-phan.md)) mở Phần Ba, chuyển sang lời khuyên của các nhà Khắc kỷ cho từng mặt của đời sống, những lời khuyên mà Chương 8 nói ta cũng nên đưa vào bản tự kiểm. Chương 19 ([C19-tro-thanh-nguoi-khac-ky.md](C19-tro-thanh-nguoi-khac-ky.md)) và Chương 22 ([C22-thuc-hanh-chu-nghia-khac-ky.md](C22-thuc-hanh-chu-nghia-khac-ky.md)) quay lại câu hỏi làm sao bắt đầu và duy trì việc thực hành.
+
+## Lưu ý
+
+- **"Suy ngẫm" là chữ bản dịch dùng cho *meditation*, nhưng cùng chữ ấy được dùng ở các Chương 4–7 cho nghĩa thông thường "nghĩ về" (ví dụ "suy ngẫm về những điều tồi tệ") (nhận xét của người tổng hợp).** Ở Chương 8, "suy ngẫm" là tên một kỹ thuật cụ thể: tự xem xét có hệ thống, nhất là vào cuối ngày. Irvine nói rõ nó khác thiền (*meditation*) Phật giáo. Bản tổng hợp gọi nó là "suy ngẫm" hoặc "bài suy ngẫm trước lúc đi ngủ" khi cần phân biệt.
+- **Nguồn các câu trích (theo hiểu biết của người tổng hợp, chưa đối chiếu; Irvine không ghi số trong lời văn):** bài tự vấn của Sextius và bốn sự việc Seneca tự xét nằm trong Seneca, *Về cơn giận* (*De ira*) quyển 3; các dấu hiệu tiến bộ của Epictetus (thôi đổ lỗi, khoe khoang, coi mình như kẻ thù rình rập) thuộc *Cẩm nang* mục 48; câu "Nếu mọi người nghĩ rằng bạn là người thành công, hãy tự hoài nghi bản thân" thuộc *Cẩm nang* mục 13; ý của Zeno về giấc mơ được Plutarch thuật lại; câu Seneca về việc chỉ biết mình tiến bộ thật khi đối diện cái chết thuộc *Thư gửi Lucilius* số 26. Câu Marcus về đứa trẻ, bạo chúa, con bò, thú hoang gần với *Suy tưởng* 5.11; lời khuyên không nản chí khi trượt gần với 5.9 (xem [Q05](../Meditations/Q05-thuc-day-lam-viec-cua-con-nguoi.md)); câu "kể cả khi dường như không có cơ may thành công" gần với 12.6 (xem [Q12](../Meditations/Q12-hien-tai-va-man-ket-thuc.md)).
+- **"Sextius, thầy ông"** (trang PDF 95): theo hiểu biết của người tổng hợp, Quintus Sextius lập một trường phái riêng pha Khắc kỷ với Pythagoras; Seneca học với học trò của Sextius (như Sotion) hơn là trực tiếp với Sextius. "Thầy" nên hiểu là bậc thầy về tư tưởng.
+- **Câu dịch về chỉ báo đầu tiên của Epictetus** (trang PDF 97), "không bị tổn thương khi người khác nói rằng chúng ta chẳng biết gì về những thứ bên ngoài", nên hiểu là: người tiến bộ sẵn lòng bị coi là ngớ ngẩn, không hiểu biết về những chuyện bên ngoài, và không bận tâm.
+- **"Ở phần 3"** (trang PDF 97) chỉ Phần Ba của sách, "Lời khuyên của các nhà Khắc kỷ" (Chương 9–19).
+- **Lỗi chữ của ebook:** "cam thấy khó chịu" (trang PDF 95, đúng là "cảm thấy"); "Cụ thể là. Zeno" (trang PDF 98) thừa dấu chấm; "những gì nên làm gì" (trang PDF 99) thừa chữ "gì".
