@@ -1115,7 +1115,7 @@ Sách không đưa pseudocode cho B-TREE-DELETE (để thành Bài tập 18.3-2)
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 18 trên một trang: sáu nhánh lớn theo phần giới thiệu Phần V, phần mở đầu về bộ nhớ ngoài, các mục 18.1, 18.2, 18.3 và phần bài tập, bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, thủ tục, số lần truy cập đĩa, thời gian CPU và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 18 trên một trang: các nhánh lớn theo phần giới thiệu Phần V, phần mở đầu về bộ nhớ ngoài, các mục 18.1, 18.2 (tìm kiếm; tách nút và chèn), 18.3, phần bài tập, bài toán cuối chương và ghi chú chương của bản gốc, mỗi nhánh ghi định nghĩa, thủ tục, số lần truy cập đĩa, thời gian CPU và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1124,89 +1124,155 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 18: dữ liệu trên đĩa cần cây tìm kiếm có nút rất rộng để cây rất thấp, vì chi phí chính là số trang đĩa đọc ghi`"]
-  n1["`Phần V giới thiệu và phần mở đầu Chương 18 — bộ nhớ ngoài`"]
+  n1["`Giới thiệu Phần V (trang 479–483)`"]
   n0 --- n1
-  n2["`Phần V gồm cây B, đống Fibonacci, cây van Emde Boas và tập rời nhau, ngoài ra còn cây splay, cây động, cấu trúc bền vững`"]
+  n2["`Phần V nâng cao cấu trúc cho tập động của Phần III, hai chương dùng nhiều phân tích khấu hao của Chương 17`"]
   n1 --- n2
-  n3["`Đĩa 7200 vòng/phút mất 8,33 ms mỗi vòng, so với 50 ns của bộ nhớ silicon, chênh hơn 100.000 lần`"]
+  n3["`Chương 19 đống Fibonacci: DECREASE-KEY O(1) khấu hao, EXTRACT-MIN và DELETE O(lg n) khấu hao`"]
   n1 --- n3
-  n4["`Đĩa đọc theo trang, đọc một trang tốn gần bằng đọc một từ nên mỗi nút cây đặt bằng một trang`"]
+  n4["`Chương 20 cây van Emde Boas: mọi thao tác O(lg lg u) với khoá nguyên trong {0, …, u − 1}`"]
   n1 --- n4
-  n5["`Thời gian chạy tính hai phần: số lần DISK-READ, DISK-WRITE và thời gian CPU`"]
+  n5["`Chương 21 tập rời nhau: m thao tác trong O(m α(n)), α(n) ≤ 4 trong mọi ứng dụng thực tế`"]
   n1 --- n5
-  n6["`Bậc phân nhánh thực tế từ 50 đến 2000 tuỳ kích thước khoá so với trang`"]
+  n6["`Sách không trình bày cây động, cây splay, cấu trúc bền vững, cây fusion, cấu trúc đồ thị động`"]
   n1 --- n6
-  n7["`Mục 18.1 — Định nghĩa và chiều cao cây B`"]
+  n7["`Mở đầu Chương 18 — cấu trúc dữ liệu trên bộ nhớ ngoài (trang 484–488)`"]
   n0 --- n7
-  n8["`Nút x có x.n khoá đã sắp xếp và x.n + 1 con, khoá trong nút chia miền khoá của các cây con`"]
+  n8["`Cây B giống cây đỏ-đen ở chiều cao O(lg n) nhưng mỗi nút có thể có tới hàng nghìn con`"]
   n7 --- n8
-  n9["`Bậc tối thiểu t ≥ 2: mỗi nút trừ gốc có từ t − 1 đến 2t − 1 khoá, gốc có ít nhất 1 khoá`"]
+  n9["`Bộ nhớ chính đắt hơn đĩa trên 10 lần mỗi bit, đĩa lớn hơn bộ nhớ chính ít nhất 100 lần`"]
   n7 --- n9
-  n10["`Mọi lá cùng độ sâu, t = 2 cho cây 2-3-4`"]
+  n10["`Đĩa 7200 vòng/phút mất 8,33 ms mỗi vòng, gấp hơn 100.000 lần 50 ns của bộ nhớ silicon`"]
   n7 --- n10
-  n11["`Biến thể B⁺-tree đặt thông tin vệ tinh ở lá, B#42;-tree yêu cầu nút đầy ít nhất 2/3`"]
+  n11["`Đĩa đọc ghi theo trang 2¹¹–2¹⁴ byte, đọc một trang thường lâu hơn xử lý hết dữ liệu trong trang`"]
   n7 --- n11
-  n12["`Định lý 18.1: cây B có n ≥ 1 khoá thì h ≤ log#95;t((n + 1)/2)`"]
+  n12["`Thời gian chạy tách hai phần: số trang đọc ghi qua DISK-READ, DISK-WRITE và thời gian CPU`"]
   n7 --- n12
-  n13["`Chứng minh bằng cây thưa nhất: n ≥ 2tʰ − 1`"]
+  n13["`Thuật toán chỉ giữ một số hằng trang trong bộ nhớ, nên bộ nhớ không giới hạn kích thước cây`"]
   n12 --- n13
-  n14["`Thấp hơn cây đỏ-đen khoảng lg t lần`"]
-  n12 --- n14
+  n14["`Mỗi nút cây B lớn bằng một trang, bậc phân nhánh thực tế từ 50 đến 2000`"]
+  n7 --- n14
   n15["`Hình 18.3: 1000 khoá mỗi nút, cây cao 2 chứa 1.003.003.000 khoá, tìm mọi khoá với nhiều nhất 2 lần đọc đĩa`"]
-  n7 --- n15
-  n16["`Mục 18.2 — Tìm kiếm và chèn`"]
+  n14 --- n15
+  n16["`Mục 18.1 — Định nghĩa cây B và chiều cao`"]
   n0 --- n16
-  n17["`Gốc luôn ở bộ nhớ chính, các thủ tục đều đi một lượt từ gốc xuống`"]
+  n17["`Nút x có x.n khoá xếp không giảm và cờ x.leaf, nút trong có x.n + 1 con`"]
   n16 --- n17
-  n18["`B-TREE-SEARCH quét O(t) khoá mỗi nút, tốn O(log#95;t n) lần đọc đĩa và O(t log#95;t n) CPU`"]
+  n18["`Khoá trong nút chia miền khoá: khoá của cây con x.c[i] nằm giữa x.key[i − 1] và x.key[i]`"]
   n16 --- n18
-  n19["`Hình 18.1: tìm R chỉ xét 3 nút M, QTX, RS`"]
+  n19["`Mọi lá cùng độ sâu, bằng chiều cao h của cây`"]
   n16 --- n19
-  n20["`B-TREE-SPLIT-CHILD tách nút đầy 2t − 1 khoá quanh khoá giữa thành hai nút t − 1 khoá`"]
+  n20["`Bậc tối thiểu t ≥ 2: mỗi nút trừ gốc có từ t − 1 đến 2t − 1 khoá, gốc có ít nhất 1 khoá`"]
   n16 --- n20
-  n21["`Khoá giữa đi lên nút cha chưa đầy, tốn Θ(t) CPU và O(1) lần truy cập đĩa`"]
+  n21["`Nút có đúng 2t − 1 khoá gọi là nút đầy`"]
   n20 --- n21
-  n22["`B-TREE-INSERT tách trước mọi nút đầy gặp trên đường xuống, chỉ chèn vào lá có sẵn`"]
-  n16 --- n22
-  n23["`Nhờ vậy nút cha luôn còn chỗ nhận khoá giữa, không cần quay lui`"]
-  n22 --- n23
-  n24["`Tách gốc là cách duy nhất làm cây cao thêm: cây mọc ở gốc chứ không mọc ở lá`"]
-  n22 --- n24
-  n25["`Hình 18.7: chèn B, Q, L, F với t = 3 minh hoạ chèn đơn giản, tách lá và tách gốc`"]
-  n16 --- n25
-  n26["`Mục 18.3 — Xoá`"]
-  n0 --- n26
-  n27["`Đi một lượt xuống, bảo đảm mọi nút được đệ quy tới có ít nhất t khoá`"]
-  n26 --- n27
-  n28["`Khoá ở lá thì xoá ngay (1), ở nút trong thì thay bằng khoá đứng trước hoặc sau (2a, 2b) hoặc trộn hai con (2c)`"]
-  n26 --- n28
-  n29["`Nút sắp tới chỉ có t − 1 khoá thì mượn khoá của anh em qua cha (3a) hoặc trộn với anh em (3b)`"]
-  n26 --- n29
-  n30["`Gốc rỗng thì bỏ, cây thấp đi 1, xoá cũng tốn O(h) lần truy cập đĩa và O(t log#95;t n) CPU`"]
-  n26 --- n30
-  n31["`Hình 18.8: xoá F, M, G, D, B với t = 3 minh hoạ các trường hợp 1, 2a, 2c, 3b, 3a`"]
-  n26 --- n31
-  n32["`Bài tập và bài toán cuối chương`"]
-  n0 --- n32
-  n33["`18.2-6 Tìm kiếm nhị phân trong nút đưa CPU của B-TREE-SEARCH về O(lg n), không phụ thuộc t`"]
-  n32 --- n33
-  n34["`18-1 Ngăn xếp trên bộ nhớ ngoài: giữ trong bộ nhớ hai trang kề đỉnh cho O(1/m) lần truy cập đĩa khấu hao mỗi thao tác`"]
-  n32 --- n34
-  n35["`18-2 Ghép hai cây 2-3-4 tốn O(1 + |h′ − h″|), tách theo khoá k tốn O(lg n)`"]
-  n32 --- n35
-  n36["`Thông điệp xuyên suốt`"]
-  n0 --- n36
-  n37["`Đổi mô hình chi phí trước khi đổi cấu trúc: đếm số lần truy cập tầng chậm, không đếm phép so sánh`"]
+  n22["`t = 2 cho cây 2-3-4, mỗi nút trong có 2, 3 hoặc 4 con`"]
+  n20 --- n22
+  n23["`B⁺-tree đặt thông tin vệ tinh ở lá, B#42;-tree yêu cầu nút trong đầy ít nhất 2/3`"]
+  n16 --- n23
+  n24["`Định lý 18.1: cây B có n ≥ 1 khoá thì h ≤ log#95;t((n + 1)/2)`"]
+  n16 --- n24
+  n25["`Cây thưa nhất có ít nhất 2, 2t, …, 2tʰ⁻¹ nút ở độ sâu 1 tới h, mỗi nút t − 1 khoá`"]
+  n24 --- n25
+  n26["`Cộng lại được n ≥ 2tʰ − 1, lấy logarit cơ số t ra định lý`"]
+  n24 --- n26
+  n27["`Cây B xét ít hơn cây đỏ-đen khoảng lg t lần số nút, nên ít lần truy cập đĩa hơn`"]
+  n24 --- n27
+  n28["`Mục 18.2 — Tìm kiếm và tạo cây rỗng`"]
+  n0 --- n28
+  n29["`Gốc luôn ở bộ nhớ chính, nút truyền vào đã được đọc, mọi thủ tục đi một lượt từ gốc xuống`"]
+  n28 --- n29
+  n30["`B-TREE-SEARCH quét tuyến tính tìm i nhỏ nhất có k ≤ x.key[i], rồi rẽ vào một trong x.n + 1 nhánh`"]
+  n28 --- n30
+  n31["`Đọc O(log#95;t n) trang và tốn O(t log#95;t n) CPU vì mỗi nút quét O(t) khoá`"]
+  n30 --- n31
+  n32["`Hình 18.1: tìm R trong cây phụ âm chỉ xét 3 nút M, QTX, RS`"]
+  n30 --- n32
+  n33["`B-TREE-CREATE cấp gốc rỗng bằng ALLOCATE-NODE, tốn O(1) thao tác đĩa và O(1) CPU`"]
+  n28 --- n33
+  n34["`Mục 18.2 — Tách nút và chèn khoá`"]
+  n0 --- n34
+  n35["`Không tạo lá mới như cây nhị phân vì sẽ phá tính chất mọi lá cùng độ sâu, phải chèn vào lá có sẵn`"]
+  n34 --- n35
+  n36["`B-TREE-SPLIT-CHILD tách con đầy quanh khoá giữa y.key[t] thành hai nút t − 1 khoá`"]
+  n34 --- n36
+  n37["`Khoá giữa lên nút cha chưa đầy, tốn Θ(t) CPU và O(1) lần truy cập đĩa`"]
   n36 --- n37
-  n38["`Nút càng rộng cây càng thấp, chọn kích thước nút khớp với trang đĩa hoặc dòng bộ nhớ đệm`"]
+  n38["`Hình 18.5, t = 4: PQRSTUV tách thành PQR và TUV, S lên nút cha`"]
   n36 --- n38
-  n39["`Sửa trước trên đường đi xuống biến thuật toán cần quay lui thành thuật toán một lượt, chỉ giữ O(1) trang`"]
-  n36 --- n39
-  n40["`Chỉ mục của PostgreSQL, MySQL InnoDB, SQLite dùng B⁺-tree với nút cỡ 4–16 KB`"]
-  n36 --- n40
+  n39["`B-TREE-INSERT tách trước mọi nút đầy gặp trên đường xuống, nên nút cha luôn còn chỗ`"]
+  n34 --- n39
+  n40["`Gốc đầy thì tạo gốc mới rồi tách gốc cũ: cách duy nhất làm cây cao thêm, cây mọc ở gốc`"]
+  n39 --- n40
+  n41["`B-TREE-INSERT-NONFULL ở lá dời các khoá lớn hơn k sang phải rồi đặt k vào chỗ trống`"]
+  n39 --- n41
+  n42["`Chèn tốn O(h) lần truy cập đĩa, O(t log#95;t n) CPU, và là đệ quy đuôi nên chỉ cần O(1) trang`"]
+  n39 --- n42
+  n43["`Hình 18.7, t = 3: chèn B vào lá, Q tách lá RSTUV, L tách gốc GMPTX, F tách lá ABCDE`"]
+  n34 --- n43
+  n44["`Mục 18.3 — Xoá khoá`"]
+  n0 --- n44
+  n45["`Khó hơn chèn vì khoá có thể ở nút trong và nút có thể tụt dưới t − 1 khoá`"]
+  n44 --- n45
+  n46["`Bất biến: mọi nút được đệ quy tới có ít nhất t khoá, hơn mức tối thiểu 1 khoá`"]
+  n44 --- n46
+  n47["`Trường hợp 1: k ở trong lá x thì xoá k khỏi x`"]
+  n44 --- n47
+  n48["`Trường hợp 2: k ở trong nút trong x`"]
+  n44 --- n48
+  n49["`2a, 2b: con trước hoặc con sau k có ít nhất t khoá thì thay k bằng khoá đứng trước hoặc đứng sau`"]
+  n48 --- n49
+  n50["`2c: cả hai con chỉ có t − 1 khoá thì trộn con trước, k, con sau thành một nút 2t − 1 khoá`"]
+  n48 --- n50
+  n51["`Trường hợp 3: k không ở x và con sắp đi xuống chỉ có t − 1 khoá`"]
+  n44 --- n51
+  n52["`3a: anh em kề có ít nhất t khoá thì khoá của x xuống con, khoá của anh em lên x`"]
+  n51 --- n52
+  n53["`3b: mọi anh em kề có t − 1 khoá thì trộn con với một anh em, khoá của x xuống làm khoá giữa`"]
+  n51 --- n53
+  n54["`Gốc hết khoá sau 2c hoặc 3b thì bỏ gốc, con duy nhất thành gốc mới, cây thấp đi 1`"]
+  n44 --- n54
+  n55["`Xoá tốn O(h) lần truy cập đĩa và O(t log#95;t n) CPU, riêng 2a, 2b có thể phải quay lại nút chứa k`"]
+  n44 --- n55
+  n56["`Hình 18.8, t = 3: xoá F, M, G, D, B minh hoạ các trường hợp 1, 2a, 2c, 3b, 3a`"]
+  n44 --- n56
+  n57["`Xoá D trộn CL, P, TX thành CLPTX, gốc rỗng bị bỏ và cây từ 3 tầng còn 2 tầng`"]
+  n56 --- n57
+  n58["`Bài tập và bài toán cuối chương (trang 490–504)`"]
+  n0 --- n58
+  n59["`18.1-4: cây B cao h chứa nhiều nhất (2t)ʰ⁺¹ − 1 khoá`"]
+  n58 --- n59
+  n60["`18.1-5: mỗi nút đen của cây đỏ-đen hấp thụ các con đỏ thì được cây 2-3-4`"]
+  n58 --- n60
+  n61["`18.2-6: tìm kiếm nhị phân trong nút đưa CPU của B-TREE-SEARCH về O(lg n), không phụ thuộc t`"]
+  n58 --- n61
+  n62["`18.2-7: đọc trang tốn a + bt với a = 5 ms, b = 10 µs thì t tối ưu khoảng 130`"]
+  n58 --- n62
+  n63["`18-1 ngăn xếp trên đĩa: giữ một trang thì PUSH, POP xen kẽ ở biên trang tốn Θ(n) lần truy cập`"]
+  n58 --- n63
+  n64["`Giữ hai trang kề đỉnh cho O(1/m) lần truy cập đĩa và O(1) CPU khấu hao mỗi thao tác`"]
+  n63 --- n64
+  n65["`18-2 ghép hai cây 2-3-4 tốn O(1 + |h′ − h″|), tách theo khoá k tốn O(lg n)`"]
+  n58 --- n65
+  n66["`Ghi chú chương (trang 504)`"]
+  n0 --- n66
+  n67["`Hopcroft phát minh cây 2-3 năm 1970, tiền thân của cây B và cây 2-3-4`"]
+  n66 --- n67
+  n68["`Bayer và McCreight giới thiệu cây B năm 1972, không giải thích tên gọi`"]
+  n66 --- n68
+  n69["`Bender, Demaine, Farach-Colton: cây B không biết bộ nhớ đệm chạy tốt mà không cần biết kích thước khối`"]
+  n66 --- n69
+  n70["`Thông điệp xuyên suốt`"]
+  n0 --- n70
+  n71["`Đổi mô hình chi phí trước khi đổi cấu trúc: đếm số lần truy cập tầng chậm, không đếm phép so sánh`"]
+  n70 --- n71
+  n72["`Sửa trước trên đường đi xuống biến thuật toán cần quay lui thành thuật toán một lượt, chỉ giữ O(1) trang`"]
+  n70 --- n72
+  n73["`Cây giữ mọi lá cùng độ sâu nhờ mọc ở gốc khi tách gốc và co ở gốc khi bỏ gốc rỗng`"]
+  n70 --- n73
   class n0 root
-  class n1,n7,n16,n26,n32,n36 branch
-  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n37,n38,n39,n40 leaf
+  class n1,n7,n16,n28,n34,n44,n58,n66,n70 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n64,n65,n67,n68,n69,n71,n72,n73 leaf
 ```
 
 ## Nguồn
