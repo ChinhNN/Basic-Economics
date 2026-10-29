@@ -333,3 +333,105 @@ Hầu hết kỹ thuật của chương cần một khoảnh khắc dừng lại
 - **Trong đầu tư:** cơn giận là nguyên nhân của "giao dịch trả thù" (revenge trading): sau một khoản lỗ, nhà đầu tư giận thị trường, giận chính mình, và vào lệnh lớn hơn để gỡ ngay. Lời Seneca "đã bật công tắc thì khó tắt" mô tả đúng chuỗi lệnh liên tiếp ấy. Quy tắc thực hành: sau một khoản lỗ lớn, dừng giao dịch trong một khoảng thời gian định trước. Câu "cơn giận kéo dài lâu hơn tổn thất" cũng đúng theo nghĩa đen: khoản lỗ ban đầu thường nhỏ hơn khoản lỗ do các quyết định trong cơn giận sau đó.
 - **Trong quyết định tài chính và kinh doanh:** giận một đối tác dễ dẫn tới kiện tụng tốn kém hơn giá trị tranh chấp (Seneca nhắc đúng "kiện tụng" trong danh sách tác hại của cơn giận). Trước khi khởi kiện hay cắt quan hệ, hãy hỏi: đây là tổn hại thật hay chỉ là phiền toái và tự ái? Chi phí của việc theo đuổi cơn giận là bao nhiêu?
 - **Trong đời sống cá nhân:** lời khuyên "đừng nuông chiều bản thân" có ứng dụng cụ thể: người quen điều hòa mát, xe riêng, dịch vụ nhanh sẽ giận khi kẹt xe, mất điện, nhân viên phục vụ chậm. Thỉnh thoảng tự chọn sự bất tiện (đi bộ, xe buýt, tắm nước lạnh) làm tăng ngưỡng chịu đựng. Với gia đình, người "lúc nào cũng cáu" là người làm khổ người thân trước tiên; câu hỏi của Seneca về việc được yêu khi sống và được nhớ khi chết là thước đo đáng dùng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 13 trên một trang: năm nhánh lớn theo các mục của chương gốc (trang PDF 128–132), chủ yếu dựa trên Bàn về cơn giận của Seneca, mỗi nhánh ghi lập luận, kỹ thuật và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 13: cơn giận là đối lập của niềm vui; phòng ngừa nó, dập nó khi đã nhen, xin lỗi khi đã lỡ giận`"]
+  n1["`Mục 1–2 (trang PDF 128–129) — Tác hại của cơn giận và vì sao không dùng nó làm động lực`"]
+  n0 --- n1
+  n2["`Seneca gọi cơn giận là “cơn điên ngắn”`"]
+  n1 --- n2
+  n3["`“Không có tai họa nào gây tổn hại cho loài người hơn sự giận dữ”`"]
+  n1 --- n3
+  n4["`Dẫn tới giết chóc, đầu độc, kiện tụng; thành phố và quốc gia lụi tàn`"]
+  n3 --- n4
+  n5["`Đời quá nhiều chuyện đáng bực, không kiểm soát được thì tức tối triền miên`"]
+  n3 --- n5
+  n6["`Seneca bác ý kiến giận tạo động lực`"]
+  n1 --- n6
+  n7["`Được lợi từ giận cũng như được lợi từ thất bại, không ai tỉnh táo đi tìm nó`"]
+  n6 --- n7
+  n8["`Đã bật công tắc giận thì khó tắt, tác hại về sau lớn hơn lợi lúc đầu`"]
+  n6 --- n8
+  n9["`Mục 3–4 (trang PDF 129) — Hành động mà không giận`"]
+  n0 --- n9
+  n10["`Thấy cha bị giết, mẹ bị hãm hại vẫn phải trừng phạt kẻ ác và bảo vệ cha mẹ, nhưng giữ bình tĩnh`"]
+  n9 --- n10
+  n11["`Trừng phạt bằng “khuyên răn và vũ lực, khoan dung và đồng thời nghiêm khắc”`"]
+  n9 --- n11
+  n12["`Trừng phạt để người sai không tái phạm, vì lợi ích của họ, không phải báo thù`"]
+  n9 --- n12
+  n13["`Trừng phạt là “một biểu hiện của sự thận trọng thay vì giận dữ”`"]
+  n9 --- n13
+  n14["`Với người không biết sửa mình khi được nói phải trái, được giả bộ giận để họ sửa đổi`"]
+  n9 --- n14
+  n15["`Seneca bác thật sự giận để tự có động lực, chấp nhận giả bộ giận để người khác sửa`"]
+  n9 --- n15
+  n16["`Mục 5–9 (trang PDF 130–131) — Cách phòng ngừa cơn giận`"]
+  n0 --- n16
+  n17["`Đừng vội tin điều xấu nhất về người khác và vội đoán động cơ của họ`"]
+  n16 --- n17
+  n18["`Việc không theo ý mình không có nghĩa là bị đối xử bất công`"]
+  n17 --- n18
+  n19["`Người mình đang bực có khi đang giúp mình`"]
+  n17 --- n19
+  n20["`Đừng nuông chiều bản thân: người tự làm hư mình thì không chịu nổi điều gì`"]
+  n16 --- n20
+  n21["`Không quá thoải mái thì ít bực vì tiếng sập cửa, mớ lộn xộn trên ghế sô-fa`"]
+  n20 --- n21
+  n22["`Phân biệt phiền toái với tổn hại: “cơn giận của chúng ta luôn kéo dài lâu hơn những tổn thất”`"]
+  n16 --- n22
+  n23["`Seneca: “thật nhiều tiếng cười là cách phản hồi chính xác cho những điều khiến ta rơi nước mắt”`"]
+  n16 --- n23
+  n24["`Marcus nhìn sự vô thường`"]
+  n16 --- n24
+  n25["`Thời hoàng đế Vespasian người ta cũng cưới hỏi, ghen tị, đánh nhau, nay không còn dấu vết`"]
+  n24 --- n25
+  n26["`Chuyện quan trọng với ta sẽ chẳng là gì với cháu chắt ta`"]
+  n24 --- n26
+  n27["`Mục 10–11 (trang PDF 131–132) — Khi cơn giận đã nhen và khi đã lỡ giận`"]
+  n0 --- n27
+  n28["`Seneca: “Chúng ta là những kẻ xấu sống giữa một đám đông xấu xa”, nên cư xử rộng lượng`"]
+  n27 --- n28
+  n29["`Biến dấu hiệu cơn giận thành điều ngược lại: thả lỏng mặt, hạ giọng, bước chậm`"]
+  n27 --- n29
+  n30["`Bên trong sẽ sớm khớp với bên ngoài, và cơn giận tan`"]
+  n27 --- n30
+  n31["`Phật giáo: giận thì nghĩ về tình thương, vì hai ý nghĩ đối nghịch không cùng tồn tại`"]
+  n27 --- n31
+  n32["`Irvine: đã lỡ phản ứng dữ dội thì xin lỗi`"]
+  n27 --- n32
+  n33["`Sửa gần như ngay thiệt hại xã hội và chặn sự ám ảnh về chuyện đã làm mình giận`"]
+  n32 --- n33
+  n34["`Thừa nhận lỗi thì ít lặp lại lỗi`"]
+  n32 --- n34
+  n35["`Mục 12 (trang PDF 132) — Người lúc nào cũng giận là một bi kịch`"]
+  n0 --- n35
+  n36["`Như nỗi đau buồn, cơn giận một phần là phản ứng cảm xúc, ai cũng có lúc giận`"]
+  n35 --- n36
+  n37["`Có người dễ bị kích động, giận dai và còn hồi tưởng chuyện cũ để giận lại`"]
+  n35 --- n37
+  n38["`Đời quá ngắn để chìm trong giận dữ, và người hay cáu làm khổ người xung quanh`"]
+  n35 --- n38
+  n39["`Seneca: sao không làm người được yêu khi còn sống và tưởng nhớ khi đã mất?`"]
+  n35 --- n39
+  n40["`Thông điệp xuyên suốt`"]
+  n0 --- n40
+  n41["`Cơn giận không phải công cụ lý trí dùng được, vì khi nó đến lý trí đã mất quyền`"]
+  n40 --- n41
+  n42["`Từ bỏ cơn giận không có nghĩa là từ bỏ công lý`"]
+  n40 --- n42
+  n43["`Phần lớn cơn giận sinh từ phán đoán sai và sự nuông chiều, nên phòng được từ gốc`"]
+  n40 --- n43
+  class n0 root
+  class n1,n9,n16,n27,n35,n40 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n41,n42,n43 leaf
+```

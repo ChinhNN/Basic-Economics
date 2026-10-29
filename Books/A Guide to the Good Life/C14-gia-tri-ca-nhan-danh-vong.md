@@ -414,3 +414,111 @@ Marcus viết nhiều về sự vô nghĩa của danh tiếng (*Suy tưởng* 4.
 - **Đầu tư và quyết định tài chính:** nhiều quyết định đầu tư tệ đến từ mong muốn được người khác coi là giỏi: khoe lãi trên nhóm chat, theo một mã cổ phiếu vì "ai cũng mua", không dám cắt lỗ vì sợ bị coi là sai. Nguyên tắc dửng dưng nhất quán áp vào đây: không để lời khen về một khoản lãi hay lời chê về một khoản lỗ thay đổi quy trình đầu tư. Đánh giá quyết định theo chất lượng lập luận và quản trị rủi ro lúc ra quyết định. Ngược lại, chi tiêu để giữ hình ảnh (xe, đồng hồ, tiệc tùng) chính là trả giá cho danh vọng theo nghĩa rộng của Irvine; Chương 15 nói tiếp về chuyện này.
 - **Khởi nghiệp và dự án cá nhân:** ví dụ người viết tiểu thuyết áp thẳng vào người định mở doanh nghiệp, đổi nghề hay học lại. Hãy phân loại thất bại: nếu thất bại chỉ làm mất thể diện và một khoản tiền mình chịu được, thì nỗi sợ chủ yếu là sợ ý kiến người khác. Kết hợp với nội tại hóa mục tiêu ở Chương 5: mục tiêu là "gửi 30 email chào hàng mỗi tuần", không phải "được khách hàng nhận".
 - **Đời sống cá nhân:** chọn lọc người mà mình quan tâm ý kiến. Người có chuẩn thành công khác hẳn mình, hay người hay dời lời dự đoán thất bại sang bước sau, nên đứng đầu danh sách ý kiến cần bỏ qua. Có thể làm một bài tập nhỏ theo kiểu Cato, như mặc đồ đơn giản tới một sự kiện mà ai cũng ăn diện, để thấy sự khinh miệt (nếu có) nhẹ hơn mình tưởng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 14 trên một trang: năm nhánh lớn theo các mục của chương gốc (trang PDF 133–138), mỗi nhánh ghi lập luận, ví dụ và lời dạy then chốt của Epictetus, Marcus, Cato và quan sát của Irvine; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 14: danh vọng, kể cả sự ngưỡng mộ của hàng xóm, có giá là tự do của ta, nên người Khắc kỷ thờ ơ với cả lời khen lẫn lời chê`"]
+  n1["`Mục 1–3 (trang PDF 133–134) — Cái giá của danh vọng`"]
+  n0 --- n1
+  n2["`Các nhà Khắc kỷ: con người khổ phần lớn vì nhầm lẫn về điều gì có giá trị`"]
+  n1 --- n2
+  n3["`Danh vọng có nhiều mức: toàn cầu, vùng miền, trong nghề, tới sự ngưỡng mộ của hàng xóm`"]
+  n1 --- n3
+  n4["`Mọi mức danh tiếng đều có giá, và giá đó lớn hơn nhiều so với lợi ích`"]
+  n1 --- n4
+  n5["`Ví dụ bữa tiệc của Epictetus`"]
+  n1 --- n5
+  n6["`Không được mời thì ta trả giá bằng cơn giận vì thấy bị coi thường`"]
+  n5 --- n6
+  n7["`Được mời là vì đã trả giá trước bằng sự chiều chuộng và lời tâng bốc`"]
+  n5 --- n7
+  n8["`Muốn có chỗ ở bàn tiệc mà không trả giá ấy là tham lam và ngu ngốc`"]
+  n5 --- n8
+  n9["`Epictetus: ai mưu cầu địa vị xã hội phải làm vừa lòng người khác, tự biến mình thành nô lệ`"]
+  n1 --- n9
+  n10["`Giữ tự do bằng dửng dưng nhất quán với cả lời khen lẫn lời chê`"]
+  n1 --- n10
+  n11["`Được khen thì cười thầm, nhưng đừng cười thành tiếng`"]
+  n10 --- n11
+  n12["`Nói với ai rằng mình chẳng quan tâm họ nghĩ gì là sự xúc phạm nặng nhất`"]
+  n10 --- n12
+  n13["`Mục 4–5 (trang PDF 134–135) — Marcus Aurelius về ý kiến người khác và danh tiếng muôn đời`"]
+  n0 --- n13
+  n14["`Bận tâm người khác nghĩ gì là dại dột, làm được thì chất lượng sống tốt lên`"]
+  n13 --- n14
+  n15["`Tìm sự tán thành của người có giá trị sống khác mình là đặc biệt ngu xuẩn`"]
+  n13 --- n15
+  n16["`Khớp với sự lưỡng phân của quyền kiểm soát`"]
+  n13 --- n16
+  n17["`Ta không ngăn được người khác chế nhạo ta`"]
+  n16 --- n17
+  n18["`Ta có toàn quyền không làm điều gì đáng bị chế nhạo`"]
+  n16 --- n18
+  n19["`Danh tiếng muôn đời là “một thứ rỗng tuếch”`"]
+  n13 --- n19
+  n20["`Chết rồi thì không hưởng được danh tiếng`"]
+  n19 --- n20
+  n21["`Thật vô lý khi mong hậu thế khen ta trong khi ta còn khó khen người cùng thời`"]
+  n19 --- n21
+  n22["`Thay vào đó, “tận dụng tốt nhất ngày hôm nay”`"]
+  n19 --- n22
+  n23["`Mục 6–7 (trang PDF 135–136) — Hai cách vượt qua nỗi ám ảnh về ý kiến người khác`"]
+  n0 --- n23
+  n24["`Đa số làm việc chăm chỉ để được thán phục, rồi để khỏi mất sự thán phục`"]
+  n23 --- n24
+  n25["`Cách 1: muốn được ai ngưỡng mộ thì phải sống theo chuẩn thành công của họ`"]
+  n23 --- n25
+  n26["`Hỏi trước: chuẩn ấy có hợp với ta, và có đem lại sự bình thản cho chính họ không?`"]
+  n25 --- n26
+  n27["`Nếu không thì sẵn sàng bỏ sự ngưỡng mộ của họ`"]
+  n25 --- n27
+  n28["`Cách 2: tập làm những việc khiến người khác coi thường mình`"]
+  n23 --- n28
+  n29["`Cato mặc đồ màu tối khi thiên hạ chuộng tím nhạt, ra đường không giày, không áo chẽn`"]
+  n28 --- n29
+  n30["`Plutarch: để tập “chỉ hổ thẹn với những điều thực sự đáng hổ thẹn”`"]
+  n28 --- n30
+  n31["`Mục 8–10 (trang PDF 136–138) — Nỗi sợ thất bại là nỗi sợ mất thể diện`"]
+  n0 --- n31
+  n32["`Nhiều người bỏ việc thử thách vì nghĩ thà không thử còn hơn thử mà thất bại`"]
+  n31 --- n32
+  n33["`Thất bại đáng tránh là mất mạng, hủy hoại cơ thể; phần lớn thất bại khác chỉ đem lại chế nhạo hay thương hại`"]
+  n31 --- n33
+  n34["`Irvine: nhiều người, kể cả bạn bè, người thân, ngầm mong ta thất bại vì thành công của ta làm họ thấy kém`"]
+  n31 --- n34
+  n35["`Ví dụ người phụ nữ muốn viết tiểu thuyết`"]
+  n31 --- n35
+  n36["`Kẻ bài bác dời lời dự đoán: không viết xong → không có nhà xuất bản → không bán được`"]
+  n35 --- n36
+  n37["`Sách bán chạy thì họ nói người mua sách có tiêu chuẩn thấp`"]
+  n35 --- n37
+  n38["`Họ chỉ chấp nhận cô khi cô bỏ giấc mơ, nên ý kiến của họ đứng đầu danh sách nên bỏ qua`"]
+  n35 --- n38
+  n39["`Mục 11 (trang PDF 138) — Nghịch lý: không tìm sự ngưỡng mộ lại được ngưỡng mộ`"]
+  n0 --- n39
+  n40["`Thiên hạ coi sự dửng dưng trước dư luận là dấu hiệu tự tin của người biết mình là ai`"]
+  n39 --- n40
+  n41["`Biết bí quyết là chủ nghĩa Khắc kỷ, người hỏi hiếm khi đổi theo`"]
+  n39 --- n41
+  n42["`Nhiều người vẫn cho rằng danh tiếng hoặc cuộc sống xa hoa đáng theo đuổi hơn – chủ đề Chương 15`"]
+  n39 --- n42
+  n43["`Thông điệp xuyên suốt`"]
+  n0 --- n43
+  n44["`Danh vọng là một giao dịch, trả bằng tự do của mình`"]
+  n43 --- n44
+  n45["`Dửng dưng phải nhất quán với cả khen lẫn chê, và là việc bên trong, không phô ra`"]
+  n43 --- n45
+  n46["`Thờ ơ với danh vọng giải phóng ta để dám thử, không làm ta thụ động`"]
+  n43 --- n46
+  class n0 root
+  class n1,n13,n23,n31,n39,n43 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n44,n45,n46 leaf
+```

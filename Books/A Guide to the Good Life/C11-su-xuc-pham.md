@@ -397,3 +397,105 @@ Các ví dụ trong chương (Cato, Socrates, người thầy, Irvine với cái
 - **Trong đàm phán và kinh doanh:** đối tác buông lời hạ thấp để ép giá là một chiến thuật. Không phản ứng (cứ tiếp tục bàn điều khoản như chưa nghe gì) thường tước đi hiệu quả của chiến thuật ấy tốt hơn là đáp trả.
 - **Trên mạng xã hội:** lời khuyên "không phản ứng" hợp với bình luận ác ý trên mạng hơn bất cứ đâu, vì người xúc phạm sống bằng phản ứng. Câu hỏi của Seneca và Epictetus ("có đúng không, người nói có hiểu rõ không") giúp lọc ra số ít bình luận chứa thông tin đáng sửa.
 - **Trong gia đình:** với con nhỏ hay con tuổi mới lớn nói hỗn, hình ảnh người mẹ bị con túm tóc của Seneca là chỉ dẫn tốt: không coi đó là xúc phạm cá nhân, nhưng cũng không bỏ qua; xử lý để dạy, bằng giọng bình tĩnh.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: năm nhánh lớn theo các mục của chương gốc (trang PDF 114–122), mỗi nhánh ghi kỹ thuật, ví dụ và lời dạy của Seneca, Epictetus, Marcus, Musonius, Cato; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: sự xúc phạm chỉ làm ta đau khi ta phán đoán mình bị hại; đáp lại bằng đùa, im lặng, hoặc phạt để sửa hành vi`"]
+  n1["`Mục 1–2 (trang PDF 114–115) — Sự xúc phạm theo nghĩa rộng và vì sao nó đau`"]
+  n0 --- n1
+  n2["`Bàn về xúc phạm là việc của triết gia, nếu triết học là xây dựng một triết lý sống`"]
+  n1 --- n2
+  n3["`Gồm lời lăng mạ, biệt danh mỉa mai, sự làm lơ, làm mất mặt, cả cái tát`"]
+  n1 --- n3
+  n4["`Musonius: có lúc một cái liếc nhìn cũng bị coi là xúc phạm`"]
+  n1 --- n4
+  n5["`Bị cấp trên mắng trước đám đông, mười năm sau nhớ lại vẫn giận run`"]
+  n1 --- n5
+  n6["`Seneca: thời La Mã, không được tiếp, bị cười nhạo, bị xếp ngồi cuối bàn là xúc phạm`"]
+  n1 --- n6
+  n7["`Mục 3–7 (trang PDF 115–118) — Sáu kỹ thuật rút nọc độc của sự xúc phạm`"]
+  n0 --- n7
+  n8["`Lời xúc phạm có đúng không? Seneca: bị gọi là hói khi mình hói thật thì sao phải bực`"]
+  n7 --- n8
+  n9["`Người nói có hiểu rõ chuyện không? Epictetus: có thể họ tin thật, hãy bình tĩnh giải thích`"]
+  n7 --- n9
+  n10["`Xét nguồn của lời xúc phạm`"]
+  n7 --- n10
+  n11["`Người mình tôn trọng, như thầy dạy đàn banjo mình thuê: nên cảm ơn`"]
+  n10 --- n11
+  n12["`Người mình khinh: họ phản đối chứng tỏ mình làm đúng – “Thật nhẹ nhõm khi anh cảm thấy như vậy về tôi.”`"]
+  n10 --- n12
+  n13["`Seneca: người xúc phạm là đứa trẻ to xác; Marcus: họ đáng thương hơn đáng giận`"]
+  n7 --- n13
+  n14["`Thôi bận tâm người khác nghĩ gì: lời xúc phạm như tiếng chó sủa`"]
+  n7 --- n14
+  n15["`Epictetus: thứ xúc phạm anh là sự phán xét trong anh rằng họ đang xúc phạm anh`"]
+  n7 --- n15
+  n16["`Ví dụ cái bồn nước cho chim tắm bị trộm`"]
+  n7 --- n16
+  n17["`Người quý cái bồn thì bực, người không quan tâm thì thản nhiên, người ghét nó thì mừng`"]
+  n16 --- n17
+  n18["`Lợi hay hại tùy giá trị của ta, mà giá trị thuộc toàn quyền kiểm soát của ta`"]
+  n16 --- n18
+  n19["`Mục 8 (trang PDF 118–119) — Cách đáp thứ nhất: sự hài hước thay vì xúc phạm lại`"]
+  n0 --- n19
+  n20["`Cato bị Lentulus nhổ nước bọt: lau mặt, đùa rằng người ta bảo Lentulus không biết dùng miệng là sai`"]
+  n19 --- n20
+  n21["`Socrates bị bạt tai: đùa rằng ra đường không biết lúc nào phải đội mũ sắt`"]
+  n19 --- n21
+  n22["`Đùa tự giễu`"]
+  n19 --- n22
+  n23["`Vatinius tự đùa về khối u ở cổ và chân bệnh đến mức người khác hết chỗ thêm vào`"]
+  n22 --- n23
+  n24["`Epictetus: nói rằng nếu người kia biết rõ mình, họ đã chỉ ra những lỗi tệ hơn`"]
+  n22 --- n24
+  n25["`Câu đùa ngụ ý ta không coi trọng lời xúc phạm, làm người xúc phạm thất vọng`"]
+  n19 --- n25
+  n26["`Nhược điểm: đùa đòi hỏi nhanh trí, câu đáp hay thường đến quá muộn`"]
+  n19 --- n26
+  n27["`Mục 9 (trang PDF 119–120) — Cách đáp thứ hai: không phản ứng gì`"]
+  n0 --- n27
+  n28["`Musonius: yên lặng, bình tĩnh chịu đựng là hành vi của người muốn thành người cao thượng`"]
+  n27 --- n28
+  n29["`Ai cũng làm được, kể cả người chậm chạp nhất`"]
+  n27 --- n29
+  n30["`Cato bị đánh ở nhà tắm công cộng: “Tôi không nhớ là mình bị đánh.”`"]
+  n27 --- n30
+  n31["`Seneca: không thừa nhận cú đánh còn cao đẹp hơn tha thứ`"]
+  n27 --- n31
+  n32["`Im lặng làm người xúc phạm bối rối, mất niềm vui làm ta khó chịu và bẽ mặt`"]
+  n27 --- n32
+  n33["`Mục 10–11 (trang PDF 120–122) — Khi cần trừng phạt, và người thiệt thòi`"]
+  n0 --- n33
+  n34["`Seneca: có lúc phải phản ứng mạnh, vì kẻ trì độn coi im lặng là sự khuyến khích`"]
+  n33 --- n34
+  n35["`Sinh viên xúc phạm thầy trước lớp: bỏ qua thì cả lớp coi là phục tùng, việc học bị hỏng`"]
+  n33 --- n35
+  n36["`Phạt để sửa hành vi, như huấn luyện ngựa để nó nghe lời về sau, không vì giận`"]
+  n33 --- n36
+  n37["`Irvine: trừng phạt người xúc phạm nhóm thiệt thòi làm họ nhạy cảm hơn và tin mình bất lực`"]
+  n33 --- n37
+  n38["`Irvine đề xuất dạy họ kỹ thuật tự vệ trước sự xúc phạm`"]
+  n33 --- n38
+  n39["`Tấm gương Epictetus: què, từng là nô lệ, vẫn vượt lên xúc phạm và tìm được niềm vui`"]
+  n33 --- n39
+  n40["`Thông điệp xuyên suốt`"]
+  n0 --- n40
+  n41["`Mọi lời xúc phạm đều tháo ngòi được bằng lý lẽ, dù đúng hay sai, từ ai`"]
+  n40 --- n41
+  n42["`Xúc phạm lại là hạ mình; đùa hay im lặng giữ được bình thản và hiệu quả hơn`"]
+  n40 --- n42
+  n43["`Trừng phạt nhìn về tương lai để sửa, trả thù nhìn về quá khứ`"]
+  n40 --- n43
+  class n0 root
+  class n1,n7,n19,n27,n33,n40 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43 leaf
+```

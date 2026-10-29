@@ -512,3 +512,101 @@ Marcus, một trong hai nhà Khắc kỷ "giàu" của chương, có kỹ thuậ
 - **Công việc:** con đường giàu của người Khắc kỷ là trở nên hữu ích, có kỷ luật và chuyên tâm; tức là đặt mục tiêu vào chất lượng đóng góp, để thu nhập đến như hệ quả. Với người đã có thu nhập cao, câu hỏi của Seneca "của cải là người phục vụ hay ông chủ?" có thể kiểm tra bằng việc: mình có ở lại một công việc mình thấy sai chỉ để giữ mức sống không?
 - **Đời sống cá nhân và gia đình:** khi con cái quen với mức sống cao, chúng có nguy cơ mất khả năng vui với cái đơn giản sớm. Cho trẻ những trải nghiệm thanh đạm có chủ đích (cắm trại, ăn bữa đơn giản, tự làm việc nhà) là áp dụng lời khuyên của Musonius vào việc dạy con.
 - **Danh tiếng nghề nghiệp:** nếu nổi tiếng trong nghề, dùng nó như Musonius và Epictetus dùng: để làm việc có ích (thu hút cộng sự giỏi, truyền bá điều mình tin là đúng), và cảnh giác khi thấy mình bắt đầu nói hay làm điều gì chỉ vì nó được nhiều người thích.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 15 trên một trang: năm nhánh lớn theo các mục của chương gốc (trang PDF 139–146), mỗi nhánh ghi lập luận, ví dụ và lời dạy then chốt của Seneca, Musonius, Epictetus cùng đối chiếu với phái Yếm thế và Phật giáo; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 15: giàu có không đáng theo đuổi và xa hoa có hại, nhưng người Khắc kỷ được giàu nếu không hại ai, không bám chấp, sẵn sàng mất`"]
+  n1["`Mục 1–3 (trang PDF 139–140) — Giàu không đem lại hạnh phúc`"]
+  n0 --- n1
+  n2["`Irvine: lý do chính để muốn giàu là để có danh tiếng, nên giàu cũng không đáng theo đuổi`"]
+  n1 --- n2
+  n3["`Seneca: thân ta chứa được rất ít, ham nhiều chẳng phải điên rồ sao; quan trọng là thái độ, không phải số tiền`"]
+  n1 --- n3
+  n4["`Musonius: tiền mua được lạc thú nhưng không mua được sự thỏa mãn, không an ủi tuổi già`"]
+  n1 --- n4
+  n5["`Epictetus: thà chết đói mà thanh thản còn hơn giàu mà lo sợ, nghi ngờ, ham muốn vô độ`"]
+  n1 --- n5
+  n6["`Musonius: của cải còn làm người ta khổ`"]
+  n1 --- n6
+  n7["`Để yên tiền cho kẻ giả danh triết gia, cười nói kẻ xấu xứng đáng với số tiền ấy`"]
+  n6 --- n7
+  n8["`Mục 4–6 (trang PDF 140–142) — Xa hoa trong ăn uống làm mất khả năng vui với điều đơn giản`"]
+  n0 --- n8
+  n9["`Musonius: người ăn sang như miếng sắt kém phải mài mãi bằng rượu, giấm, nước sốt chua`"]
+  n8 --- n9
+  n10["`Chuỗi của Irvine: mì ống phô mai → Fettuccine Alfredo → risotto tôm hùm Maine, rượu Riesling`"]
+  n8 --- n10
+  n11["`Người sành ăn tự hào “chỉ thích cái tốt nhất”, thật ra đã mất khả năng vui với cái dễ có`"]
+  n8 --- n11
+  n12["`Musonius khuyên ăn trái cây, rau, sữa, phô mai, tránh thịt`"]
+  n8 --- n12
+  n13["`Theo Socrates: ăn để sống, không sống để ăn`"]
+  n12 --- n13
+  n14["`Vì sao kiêng cả ăn ngon`"]
+  n8 --- n14
+  n15["`Zeno: đã bắt đầu tìm cao lương mỹ vị thì rất khó dừng`"]
+  n14 --- n15
+  n16["`Musonius: lạc thú ăn uống khó chống lại nhất vì gặp nó mỗi ngày`"]
+  n14 --- n16
+  n17["`Mục 7–8 (trang PDF 142–143) — Ham muốn trái tự nhiên không bao giờ thỏa mãn`"]
+  n0 --- n17
+  n18["`Quần áo để che thân, nhà để che mưa nắng, đồ bếp bằng đất nung và sắt thay vì bạc và vàng`"]
+  n17 --- n18
+  n19["`Seneca bảo Lucilius tưởng tượng giàu tột đỉnh: bài học duy nhất là “ham muốn của bạn ngày càng lớn hơn”`"]
+  n17 --- n19
+  n20["`Ham muốn tự nhiên như khát thì uống thỏa mãn được; ham muốn đồ xa xỉ thì không`"]
+  n17 --- n20
+  n21["`Seneca: xa hoa dẫn từ muốn cái không cần sang muốn cái nguy hiểm`"]
+  n17 --- n21
+  n22["`Musonius thà ốm còn hơn sống xa hoa, vì xa hoa làm tâm hồn “vô kỷ luật và hèn nhát”`"]
+  n17 --- n22
+  n23["`Bỏ xa hoa thì nhu cầu dễ đáp ứng và dư thời gian cho việc xứng đáng hơn`"]
+  n17 --- n23
+  n24["`Mục 9–11 (trang PDF 143–145) — Mức đủ, và người Khắc kỷ vẫn có thể giàu`"]
+  n0 --- n24
+  n25["`Seneca: tài sản không ít đến mức đói khổ, cũng không quá xa cảnh nghèo`"]
+  n24 --- n25
+  n26["`Epictetus: đủ ăn, đủ mặc, nhà đủ chứa thân; nhờ tưởng tượng tiêu cực vẫn hài lòng hơn người sống xa hoa`"]
+  n24 --- n26
+  n27["`Seneca: người sống giàu với tài sản ít ỏi mới thật giàu; Lão Tử: người biết đủ là người giàu`"]
+  n24 --- n27
+  n28["`Người Khắc kỷ giàu lên nhờ hữu ích, có kỷ luật, và giữ được phần lớn thu nhập vì hết thèm mua sắm`"]
+  n24 --- n28
+  n29["`Seneca và Marcus có gia tài đồ sộ; Musonius, Epictetus đứng đầu trường triết học thành công`"]
+  n24 --- n29
+  n30["`Giàu thì được hưởng, nhưng nhớ của cải có thể mất, thỉnh thoảng tập sống kham khổ, tránh xa hoa`"]
+  n24 --- n30
+  n31["`Mục 12–15 (trang PDF 145–146) — Khác phái Yếm thế, đối chiếu Phật giáo, và bài học cho danh tiếng`"]
+  n0 --- n31
+  n32["`Phái Yếm thế (Khuyển nho) đòi sống bần hàn; Seneca: Khắc kỷ “kêu gọi lối sống đơn giản, chứ không phải khổ hạnh”`"]
+  n31 --- n32
+  n33["`Seneca: làm giàu chính đáng nếu không hại ai; coi của cải là người phục vụ, không phải ông chủ`"]
+  n31 --- n33
+  n34["`Musonius, Epictetus: chạm nhẹ vào xa hoa cũng dễ hư; Seneca, Marcus: sống trong cung điện mà không đồi bại`"]
+  n31 --- n34
+  n35["`Đức Phật với ông Anathapindika: không bám chấp và dùng đúng thì của cải là phước lành cho người xung quanh`"]
+  n31 --- n35
+  n36["`Danh tiếng nguy hiểm hơn của cải vì muốn thêm danh phải sống có toan tính, dễ phản bội nguyên tắc`"]
+  n31 --- n36
+  n37["`Musonius, Epictetus dùng danh tiếng như công cụ để thu hút học trò, truyền bá Khắc kỷ`"]
+  n31 --- n37
+  n38["`Thông điệp xuyên suốt`"]
+  n0 --- n38
+  n39["`Giàu có được định nghĩa bằng quan hệ giữa cái mình có và cái mình muốn`"]
+  n38 --- n39
+  n40["`Chi phí ẩn của xa hoa là mất khả năng vui với cái đơn giản`"]
+  n38 --- n40
+  n41["`Người xem thường giàu sang có thể giàu hơn người lấy giàu sang làm mục tiêu`"]
+  n38 --- n41
+  class n0 root
+  class n1,n8,n17,n24,n31,n38 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n39,n40,n41 leaf
+```

@@ -320,3 +320,113 @@ Câu "những người suy xét kỹ ở mọi nền văn hóa đều kết lu�
 - **Trong đầu tư và tài chính:** đoạn về quần áo, xe, nhà "đúng" là lời cảnh báo trực tiếp về chi tiêu để được nhìn nhận. Một gia đình vay mua căn hộ ở khu "đúng" vượt sức mình phải làm thêm để trả nợ, rồi lại lo vì công việc, đúng chuỗi phiền muộn mà Irvine mô tả. Câu hỏi nên đặt trước mỗi khoản chi lớn: mình mua vì cần, hay để người khác nghĩ tốt về mình? Với nhà đầu tư, việc so lợi nhuận của mình với người "thắng lớn" là dạng ghen tị với người thành công hơn mà Irvine nhắc tới; nó dễ đẩy ta vào những vụ đặt cược quá rủi ro.
 - **Trong đời sống cá nhân:** với người thân khó chịu (một người họ hàng hay chỉ trích), bổn phận không chọn lọc nghĩa là vẫn giữ quan hệ, vẫn giúp khi họ cần, nhưng không để lời chỉ trích của họ quyết định tâm trạng mình. Động cơ quan trọng: làm vì thấy đó là việc của một người tử tế, không phải vì sợ bị họ hàng trách.
 - **Trong quyết định nghề nghiệp:** khi cân nhắc giữa một công việc "tự do làm điều mình thích" và một trách nhiệm (chăm cha mẹ già, gánh một vị trí khó mà tổ chức cần), lập luận của Irvine gợi ý đừng mặc định bổn phận là đối lập với hạnh phúc; nhiều người tìm thấy ý nghĩa bền vững nhất chính ở những trách nhiệm họ không chọn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: năm nhánh lớn theo các mục của chương gốc (trang PDF 101–107, kể cả trang mở Phần Ba), mỗi nhánh ghi luận điểm, ví dụ và lời dạy của Marcus, Musonius, Seneca; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: người Khắc kỷ không được lánh đời; làm tròn bổn phận với đồng loại là con đường tới cuộc sống tốt đẹp`"]
+  n1["`Mục 1–2 (trang PDF 101–103) — Người khác vừa là nguồn vui vừa là nguồn phiền muộn`"]
+  n0 --- n1
+  n2["`Phần Ba áp kỹ thuật Phần Hai vào từng mặt đời sống: danh vọng, của cải, chọn bạn, xúc phạm, đau buồn`"]
+  n1 --- n2
+  n3["`Người khác đem lại niềm vui lớn nhất: tình yêu, tình bạn`"]
+  n1 --- n3
+  n4["`Họ cũng gây phần lớn cảm xúc tiêu cực`"]
+  n1 --- n4
+  n5["`Người lạ tạt đầu xe, cấp trên miệt thị, đồng nghiệp kém làm ta gánh thêm việc`"]
+  n4 --- n5
+  n6["`Bạn bè không mời dự tiệc làm ta thấy bị coi thường`"]
+  n4 --- n6
+  n7["`Cả khi họ không làm gì, ta khổ vì muốn họ nghĩ tốt về mình`"]
+  n1 --- n7
+  n8["`Lo chọn quần áo, xe, nhà, khu phố “đúng”, rồi phải đi làm để trả tiền`"]
+  n7 --- n8
+  n9["`Seneca: muốn biết bao nhiêu người ghen tị, hãy đếm số người ngưỡng mộ mình`"]
+  n7 --- n9
+  n10["`Ta lại ghen tị với người thành công hơn mình`"]
+  n7 --- n10
+  n11["`Mục 3–4 (trang PDF 103–104) — Con người được tạo ra để sống vì nhau`"]
+  n0 --- n11
+  n12["`Các nhà Khắc kỷ không chọn sống ẩn dật dù coi trọng sự bình thản`"]
+  n11 --- n12
+  n13["`Marcus: thần tạo mỗi loài cho một chức năng, như cây vả làm việc của cây vả`"]
+  n11 --- n13
+  n14["`Chức năng chính của con người là sống theo lý trí`"]
+  n11 --- n14
+  n15["`Lý trí cho thấy chức năng phụ: sống cùng và giúp đỡ người khác`"]
+  n11 --- n15
+  n16["`Musonius: con người như loài ong, ong bị cô lập thì chết`"]
+  n15 --- n16
+  n17["`Marcus: tình bằng hữu là mục đích của việc tạo ra loài người`"]
+  n15 --- n17
+  n18["`Người làm tốt chức năng con người vừa có lý trí vừa có tính xã hội`"]
+  n11 --- n18
+  n19["`Mục 5–6 (trang PDF 104–105) — Cách làm bổn phận theo Marcus`"]
+  n0 --- n19
+  n20["`Quan tâm toàn thể nhân loại: làm điều tốt cho đồng loại và khoan dung với họ`"]
+  n19 --- n20
+  n21["`Làm việc cùng nhau như đôi bàn tay, như mí mắt trên và mí mắt dưới`"]
+  n19 --- n21
+  n22["`Làm âm thầm và hiệu quả`"]
+  n19 --- n22
+  n23["`Như cây nho ra quả rồi ra quả tiếp, không đòi người bán rượu trả ơn`"]
+  n22 --- n23
+  n24["`Sáng dậy đừng nằm lì: dậy để làm công việc đích thực của con người`"]
+  n22 --- n24
+  n25["`Không chọn lọc bổn phận`"]
+  n19 --- n25
+  n26["`Không được tránh xa người phiền toái, cũng không chiều theo họ để tránh xích mích`"]
+  n25 --- n26
+  n27["`Phải làm việc với họ vì lợi ích chung và “thể hiện tình yêu thật lòng”`"]
+  n25 --- n27
+  n28["`Mục 7 (trang PDF 105–106) — Marcus vượt qua sự chán ghét con người`"]
+  n0 --- n28
+  n29["`Theo Irvine, trở ngại lớn nhất của Marcus là chán ghét nhân loại`"]
+  n28 --- n29
+  n30["`Bằng chứng trong Suy tưởng`"]
+  n28 --- n30
+  n31["`Mỗi sáng tự nhắc sắp gặp người vô ơn, xấc xược, bất trung, ác tâm, ích kỷ`"]
+  n30 --- n31
+  n32["`Người nói muốn hoàn toàn thành thật có thể giấu dao găm trong tay áo`"]
+  n30 --- n32
+  n33["`Sắp chết thì nghĩ: nhiều “bạn bè” sẽ mừng khi mình chết`"]
+  n30 --- n33
+  n34["`“Ăn, ngủ, giao hợp, bài tiết ... giống loài gì thế này!”`"]
+  n30 --- n34
+  n35["`Vậy mà ông không giao việc triều chính cho cấp dưới, không buông xuôi`"]
+  n28 --- n35
+  n36["`Ông làm tròn trách nhiệm lớn với lòng nhiệt thành bền bỉ và cố thật sự yêu người khác`"]
+  n28 --- n36
+  n37["`Mục 8–9 (trang PDF 106–107) — Bổn phận vì phần thưởng, không vì sợ phạt`"]
+  n0 --- n37
+  n38["`Người hiện đại làm bổn phận vì sợ Thượng đế, chính phủ hay sếp phạt`"]
+  n37 --- n38
+  n39["`Marcus làm vì phần thưởng: không phải lời cảm ơn hay sự ngưỡng mộ`"]
+  n37 --- n39
+  n40["`Phần thưởng là sự bình thản và “niềm vui thực sự của con người” – cuộc sống tốt đẹp`"]
+  n37 --- n40
+  n41["`Phản bác: bổn phận là kẻ thù của hạnh phúc, hãy làm điều mình muốn`"]
+  n37 --- n41
+  n42["`Irvine hẹn trả lời ở Chương 20`"]
+  n41 --- n42
+  n43["`Tạm đáp: mọi nền văn hóa đều thấy chạy theo ham muốn hiếm đem lại hạnh phúc`"]
+  n41 --- n43
+  n44["`Thông điệp xuyên suốt`"]
+  n0 --- n44
+  n45["`Muốn bình thản thì dễ tránh người, nhưng bổn phận chặn lối thoát ấy`"]
+  n44 --- n45
+  n46["`Phần Ba vì thế phải dạy cách giữ bình thản ngay giữa người khác`"]
+  n44 --- n46
+  n47["`Động cơ quyết định bổn phận là gánh nặng hay con đường tới cuộc sống tốt đẹp`"]
+  n44 --- n47
+  class n0 root
+  class n1,n11,n19,n28,n37,n44 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n45,n46,n47 leaf
+```

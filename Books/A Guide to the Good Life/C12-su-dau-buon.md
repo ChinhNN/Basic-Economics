@@ -304,3 +304,91 @@ Toàn bộ chương giả định lý trí là một "người điều khiển" 
 - **Trong đầu tư:** sau một khoản lỗ lớn hay khi bỏ lỡ một cơ hội tăng giá, nỗi tiếc nuối ("giá mà mình đã bán ở đỉnh", "giá mà mình đã mua từ đầu") là dạng đau buồn dư thừa, và nó hay dẫn tới quyết định tệ (gồng lỗ, gỡ gạc bằng giao dịch liều). Tưởng tượng tiêu cực hồi cứu dùng được: so với trường hợp chưa từng có khoản lãi trước đó, mình vẫn đang ở đâu? Và tưởng tượng tiêu cực trước khi vào lệnh ("khoản này có thể mất 50%") giúp đặt cỡ vị thế sao cho nếu xảy ra thì vẫn chịu được.
 - **Trong công việc:** khi mất một hợp đồng, một dự án hay một vị trí, câu "để nước mắt rơi rồi để nó ngừng" là một nguyên tắc thực hành: cho phép mình buồn một thời gian ngắn, rồi chủ động chuyển sang rút bài học và tìm việc tiếp theo. Với người quản lý có nhân viên gặp tang sự, cách hỗ trợ tốt là thật lòng quan tâm và giảm tải công việc, không phải cùng chìm vào không khí nặng nề.
 - **Trong quyết định tài chính gia đình:** tưởng tượng tiêu cực về cái chết hay bệnh nặng của người trụ cột là lý do thực tế để mua bảo hiểm, lập quỹ dự phòng và sắp xếp giấy tờ thừa kế khi mọi thứ còn bình thường, để nếu điều xấu xảy ra thì gia đình chỉ phải chịu nỗi đau mất người, không phải chịu thêm khủng hoảng tài chính.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: năm nhánh lớn theo các mục của chương gốc (trang PDF 123–127), mỗi nhánh ghi luận điểm, kỹ thuật và lời dạy của Seneca (thư gửi Polybius, Marcia, Helvia) và Epictetus; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: người Khắc kỷ có đau buồn, nhưng dùng lý trí loại phần đau buồn dư thừa và vượt qua nỗi đau nhanh hơn`"]
+  n1["`Mục 1–2 (trang PDF 123–124) — Người Khắc kỷ có đau buồn và mức đau buồn đúng`"]
+  n0 --- n1
+  n2["`Định kiến người Khắc kỷ không bao giờ đau buồn, kìm nén hay vô cảm là sai`"]
+  n1 --- n2
+  n3["`Một phần nỗi đau buồn là phản xạ cảm xúc, như giật mình khi nghe tiếng động lớn`"]
+  n1 --- n3
+  n4["`Seneca gửi Polybius: tự nhiên đòi ta một ít nỗi buồn, phần nhiều còn lại là do sự phù phiếm`"]
+  n1 --- n4
+  n5["`Lý trí giữ mức cân bằng, không lãnh đạm cũng không điên loạn`"]
+  n1 --- n5
+  n6["`“hãy để cho nước mắt rơi, nhưng cũng hãy để cho chúng ngừng lại”`"]
+  n5 --- n6
+  n7["`Đời có quá nhiều dịp đau buồn nên phải tằn tiện nước mắt`"]
+  n1 --- n7
+  n8["`Mục 3–4 (trang PDF 124–125) — Phòng ngừa và dập tắt bằng tưởng tượng tiêu cực`"]
+  n0 --- n8
+  n9["`Phòng ngừa: nghĩ trước về cái chết của người thân để bớt sốc khi nó đến`"]
+  n8 --- n9
+  n10["`Nhờ đó trân trọng họ khi còn sống, không hối tiếc việc đáng lẽ đã làm cùng họ`"]
+  n8 --- n10
+  n11["`Marcia ba năm sau khi con trai chết vẫn đau như ngày chôn con`"]
+  n8 --- n11
+  n12["`Seneca: hãy nghĩ hôm nay sẽ tệ đến đâu nếu chưa từng được vui bên con`"]
+  n11 --- n12
+  n13["`Biết ơn vì con đã từng sống thay vì khóc vì đời con đã hết`"]
+  n11 --- n13
+  n14["`Irvine gọi là tưởng tượng tiêu cực hồi cứu: hình dung chưa từng có thứ đã mất, đổi hối tiếc thành biết ơn`"]
+  n8 --- n14
+  n15["`Mục 5–7 (trang PDF 125–126) — Lý trí là vũ khí tốt nhất chống nỗi đau buồn`"]
+  n0 --- n15
+  n16["`Seneca: “trừ phi lý trí ngăn lại nước mắt, vận may sẽ không làm vậy”`"]
+  n15 --- n16
+  n17["`Lý trí không diệt hết nỗi đau nhưng loại được phần dư thừa và không cần thiết`"]
+  n15 --- n17
+  n18["`Lý lẽ với Polybius mất anh trai`"]
+  n15 --- n18
+  n19["`Người anh muốn em khổ thì không đáng để khóc; không muốn thì vì thương anh phải ngừng khóc`"]
+  n18 --- n19
+  n20["`Người chết không còn đau buồn được nữa, nên tiếp tục đau khổ là điên rồ`"]
+  n18 --- n20
+  n21["`Lý lẽ với Helvia, mẹ Seneca: chính người con bị lưu đày không khổ thì mẹ cũng không nên`"]
+  n15 --- n21
+  n22["`Nỗi đau tột cùng có thể lấn át lý lẽ, nhưng lý lẽ giúp người ta thấy mình bị cảm xúc chế ngự`"]
+  n15 --- n22
+  n23["`Mục 8 (trang PDF 126) — An ủi người khác mà không nhiễm nỗi đau của họ`"]
+  n0 --- n23
+  n24["`Epictetus: có thể khóc cùng người phụ nữ đang đau buồn nhưng đừng “khóc trong lòng”`"]
+  n23 --- n24
+  n25["`Phản bác: như vậy là giả dối, phải thật sự cảm nhận mất mát của họ`"]
+  n23 --- n25
+  n26["`Irvine: tự đau khổ để giúp bạn như tự uống thuốc độc để cứu người bị đầu độc`"]
+  n23 --- n26
+  n27["`Mục tiêu nội tại hóa: cố hết sức giúp bạn vượt qua nỗi đau, chứ không cùng chìm`"]
+  n23 --- n27
+  n28["`Mục 9 (trang PDF 127) — Phản bác từ tâm lý học hiện đại`"]
+  n0 --- n28
+  n29["`Quan điểm đồng thuận hiện nay: nắm bắt, chia sẻ, trút cảm xúc ra, không kìm nén`"]
+  n28 --- n29
+  n30["`Có người vì thế coi lời khuyên Khắc kỷ về cảm xúc là nguy hiểm`"]
+  n28 --- n30
+  n31["`Irvine hẹn trả lời ở Chương 20 bằng cách đặt câu hỏi với chính quan điểm đồng thuận`"]
+  n28 --- n31
+  n32["`Người đau tột cùng có thể cần tư vấn tâm lý, nhưng nhiều người khỏe mạnh không cần`"]
+  n28 --- n32
+  n33["`Thông điệp xuyên suốt`"]
+  n0 --- n33
+  n34["`Nỗi đau buồn có phần phản xạ chấp nhận được và phần dư thừa lý trí loại được`"]
+  n33 --- n34
+  n35["`Nghĩ trước về mất mát làm nỗi đau nhẹ hơn và quan hệ hiện tại sâu hơn`"]
+  n33 --- n35
+  n36["`Người không chìm vào nỗi đau mới kéo được người khác lên`"]
+  n33 --- n36
+  class n0 root
+  class n1,n8,n15,n23,n28,n33 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n29,n30,n31,n32,n34,n35,n36 leaf
+```

@@ -337,3 +337,113 @@ Toàn bộ *Suy tưởng* là một cuốn sổ suy ngẫm theo đúng nghĩa c�
 - **Công việc:** sau mỗi cuộc họp căng thẳng, hỏi câu của Marcus: lúc ấy cái gì đang chi phối mình, lý trí hay "đứa trẻ" (muốn được công nhận), "bạo chúa" (muốn áp đặt), "thú hoang" (giận)? Sự việc thứ nhất của Seneca (khuyên răn quá gay gắt) là bài học trực tiếp cho người quản lý: trước khi góp ý, xét lời góp ý có đúng không và người kia có sẵn sàng nghe không.
 - **Đầu tư:** giữ một nhật ký quyết định đầu tư: lý do mua hay bán, cảm xúc lúc ấy, và sau đó xem lại. Câu hỏi "mình đang bị lý trí hay lòng tham, nỗi sợ chi phối?" là phiên bản đầu tư của câu hỏi Marcus. Dấu hiệu tiến bộ theo Epictetus áp dụng được: thôi đổ lỗi cho thị trường hay "tin đồn", nhận trách nhiệm về quyết định của mình, và nghi ngờ khi được khen là "thiên tài chứng khoán" sau vài lần thắng.
 - **Học hỏi và chia sẻ:** theo Epictetus, người tiến bộ không khoe mình đang thực hành Khắc kỷ. Thay vì đăng về việc mình dậy sớm, nhịn ăn, đọc triết, hãy để thay đổi thể hiện qua cách mình cư xử khi bị chê hay khi kế hoạch đổ vỡ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: năm nhánh lớn theo các mục của chương gốc (trang PDF 95–100), mỗi nhánh ghi kỹ thuật, ví dụ và lời dạy then chốt của Seneca, Epictetus, Marcus; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: muốn tiến bộ trong Khắc kỷ phải định kỳ quan sát chính mình và đánh giá tiến bộ`"]
+  n1["`Mục 1 (trang PDF 95–96) — Bài suy ngẫm trước lúc đi ngủ`"]
+  n0 --- n1
+  n2["`Xem lại sự kiện trong ngày, mình đã phản ứng ra sao, lẽ ra nên phản ứng thế nào`"]
+  n1 --- n2
+  n3["`Sextius (thầy Seneca) tự hỏi trước khi ngủ`"]
+  n1 --- n3
+  n4["`Hôm nay đã thoát khỏi phiền não nào?`"]
+  n3 --- n4
+  n5["`Đã sửa được nhược điểm gì, tiến bộ ở mặt nào?`"]
+  n3 --- n5
+  n6["`Bốn sự việc Seneca tự xét`"]
+  n1 --- n6
+  n7["`Khuyên răn quá gay gắt → trước khi chê, xét lời chê có đúng và người kia có chịu nghe`"]
+  n6 --- n7
+  n8["`Để bụng lời đùa về chi tiêu ở bữa tiệc → “Tránh xa những kẻ ti tiện.”`"]
+  n6 --- n8
+  n9["`Giận vì không được ngồi chỗ danh dự → “ngồi đâu mà chẳng giống nhau cơ chứ”`"]
+  n6 --- n9
+  n10["`Coi người chê tác phẩm là kẻ thù → đã xuất bản thì phải chịu chỉ trích`"]
+  n6 --- n10
+  n11["`Irvine: bản chất con người hầu như không đổi trong hai nghìn năm`"]
+  n1 --- n11
+  n12["`Mục 2–3 (trang PDF 96–97) — Suy ngẫm là phân tích tích cực, không để trống tâm trí`"]
+  n0 --- n12
+  n13["`Khác thiền Phật giáo: tâm trí làm việc, hỏi điều gì phá bình thản và vì sao`"]
+  n12 --- n13
+  n14["`Tự hỏi: có giận, ganh tị, ham muốn không; lẽ ra làm gì để tránh khó chịu`"]
+  n12 --- n14
+  n15["`Epictetus: vừa là người tham gia vừa là người xem`"]
+  n12 --- n15
+  n16["`Tạo một người quan sát Khắc kỷ bên trong, theo dõi việc thực hành suốt ngày`"]
+  n15 --- n16
+  n17["`Marcus: xét động cơ và giá trị của từng việc mình làm`"]
+  n12 --- n17
+  n18["`Đang bị lý trí chi phối, hay linh hồn đứa trẻ, bạo chúa, con bò ngu ngốc, thú hoang?`"]
+  n17 --- n18
+  n19["`Quan sát người khác để học từ sai lầm và thành công của họ`"]
+  n17 --- n19
+  n20["`Mục 4 (trang PDF 97) — Tự kiểm kê việc dùng các kỹ thuật`"]
+  n0 --- n20
+  n21["`Có định kỳ tưởng tượng tiêu cực không (Chương 4)?`"]
+  n20 --- n21
+  n22["`Có phân loại thứ kiểm soát hoàn toàn, một phần, không kiểm soát không (Chương 5)?`"]
+  n20 --- n22
+  n23["`Có nội tại hóa mục tiêu không (Chương 5)?`"]
+  n20 --- n23
+  n24["`Có thôi đắm chìm trong quá khứ không (Chương 6), có chủ động tự tiết chế không (Chương 7)?`"]
+  n20 --- n24
+  n25["`Có làm theo lời khuyên đời thường của Phần Ba không?`"]
+  n20 --- n25
+  n26["`Mục 5 (trang PDF 97–99) — Các dấu hiệu tiến bộ`"]
+  n0 --- n26
+  n27["`Quan hệ với người khác thay đổi (Epictetus)`"]
+  n26 --- n27
+  n28["`Bỏ ngoài tai cả lời xúc phạm lẫn lời khen`"]
+  n27 --- n28
+  n29["`“Nếu mọi người nghĩ rằng bạn là người thành công, hãy tự hoài nghi bản thân.”`"]
+  n27 --- n29
+  n30["`Thôi đổ lỗi, chê bai, khoe khoang; nhận trách nhiệm khi ước muốn bị cản`"]
+  n26 --- n30
+  n31["`Ít ham muốn hơn; coi bản thân là “một kẻ thù đang rình rập”`"]
+  n26 --- n31
+  n32["`Zeno: không còn mơ thấy mình thỏa mãn những lạc thú đáng hổ thẹn`"]
+  n26 --- n32
+  n33["`Hành động hơn lời nói (Epictetus)`"]
+  n26 --- n33
+  n34["`Người mới khoe ở bữa tiệc nên ăn gì; người tiến bộ cứ thế mà ăn`"]
+  n33 --- n34
+  n35["`Kín đáo đến mức không ai coi mình là người Khắc kỷ hay triết gia`"]
+  n33 --- n35
+  n36["`Quan trọng nhất: ít cảm xúc tiêu cực, vui hơn với điều nhỏ – không phải vô cảm`"]
+  n26 --- n36
+  n37["`Seneca: bằng chứng tối thượng chỉ có khi đối diện cái chết`"]
+  n26 --- n37
+  n38["`Mục 6 (trang PDF 99–100) — Tiến bộ chậm và không bỏ cuộc`"]
+  n0 --- n38
+  n39["`Không ai thuần thục Khắc kỷ một sớm một chiều, kể cả sau cả đời`"]
+  n38 --- n39
+  n40["`Seneca không nhằm thành nhà hiền triết, chỉ mong mỗi ngày giảm được tật xấu`"]
+  n38 --- n40
+  n41["`Epictetus dạy cả việc nên làm gì khi không làm theo được lời ông`"]
+  n38 --- n41
+  n42["`Marcus: trượt thì đừng nản, làm điều đúng hầu như luôn có lợi cho mình`"]
+  n38 --- n42
+  n43["`Marcus: tiếp tục thực hành “kể cả khi dường như không có cơ may thành công”`"]
+  n38 --- n43
+  n44["`Thông điệp xuyên suốt`"]
+  n0 --- n44
+  n45["`Suy ngẫm là vòng phản hồi giúp các kỹ thuật Chương 4–7 được dùng thật`"]
+  n44 --- n45
+  n46["`Tiến bộ đo bằng thay đổi trong hành vi và cảm xúc, không bằng hiểu biết`"]
+  n44 --- n46
+  n47["`Tiêu chuẩn đúng là tiến bộ dần và không bỏ cuộc, không phải hoàn hảo`"]
+  n44 --- n47
+  class n0 root
+  class n1,n12,n20,n26,n38,n44 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n45,n46,n47 leaf
+```

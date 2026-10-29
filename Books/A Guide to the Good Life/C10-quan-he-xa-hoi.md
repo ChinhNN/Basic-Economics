@@ -331,3 +331,109 @@ Lời khuyên chọn bạn tốt hơn mình ngầm cho rằng ta có thể nhậ
 - **Trong đầu tư:** "thói xấu lây lan" áp dụng trực tiếp cho các nhóm chat và diễn đàn chứng khoán. Ngồi lâu trong một nhóm toàn người khoe lãi nhanh, bàn tin đồn và than thị trường, ta sẽ dần muốn giao dịch nhiều hơn, dùng đòn bẩy nhiều hơn, dù không ai ép. Lời khuyên của Epictetus về chủ đề trò chuyện dịch ra thành: rời nhóm, hoặc im lặng, hoặc chuyển câu chuyện sang phân tích doanh nghiệp. Kỹ thuật phân tích thành phần cũng dùng được: một cổ phiếu "nóng" là quyền sở hữu một phần doanh nghiệp với dòng tiền cụ thể, không hơn.
 - **Trong quyết định tài chính cá nhân:** chọn bạn cũng là chọn chuẩn chi tiêu. Nhóm bạn hay đi du lịch sang, đổi xe, đổi điện thoại sẽ kéo chuẩn chi tiêu của ta lên mà ta không nhận ra. Đây không phải lý do để bỏ bạn, nhưng là lý do để chủ động có thêm những người bạn sống đơn giản.
 - **Trong đời sống cá nhân và gia đình:** hình ảnh hôn nhân như liên minh của Musonius là một tiêu chuẩn cụ thể: mỗi người cố chăm sóc người kia tốt hơn người kia chăm sóc mình, thay vì đếm xem ai làm nhiều hơn. Với người thân hay than vãn mà mình không thể tránh, áp dụng lời khuyên của Seneca một phần: vẫn ở bên họ vì bổn phận, nhưng đừng nhận lời than của họ làm lăng kính nhìn đời của mình.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: năm nhánh lớn theo các mục của chương gốc (trang PDF 108–113), mỗi nhánh ghi lời khuyên và ví dụ then chốt của Epictetus, Seneca, Marcus, Musonius; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: giữ bình thản giữa người khác bằng chuẩn bị tính cách, chọn bạn kỹ và đổi cách nghĩ về người phiền toái`"]
+  n1["`Mục 1–3 (trang PDF 108–110) — Chuẩn bị trước và chọn môi trường giao du`"]
+  n0 --- n1
+  n2["`Thế khó: kết giao thì dễ mất bình thản, lánh xa thì bỏ bổn phận xã hội`"]
+  n1 --- n2
+  n3["`Epictetus: khi ở một mình, định hình “một khuôn mẫu và tính cách nhất định” rồi giữ đúng khi gặp người`"]
+  n1 --- n3
+  n4["`Bổn phận chung không được chọn người, nhưng bạn bè thì được chọn`"]
+  n1 --- n4
+  n5["`Nên tránh người có giá trị sống sai lạc`"]
+  n1 --- n5
+  n6["`Seneca: thói xấu lây nhanh và khó nhận ra`"]
+  n5 --- n6
+  n7["`Epictetus: ở cạnh người không trong sạch thì mình cũng thành không trong sạch`"]
+  n5 --- n7
+  n8["`Tránh như tránh hôn người đang bị cúm`"]
+  n5 --- n8
+  n9["`Seneca: người bạn hay than vãn là “kẻ thù của sự bình thản”`"]
+  n1 --- n9
+  n10["`Nên kết bạn với người cùng giá trị, nhất là người sống theo giá trị ấy tốt hơn mình`"]
+  n1 --- n10
+  n11["`Epictetus: tránh tiệc của người không phải triết gia`"]
+  n1 --- n11
+  n12["`Khi nhóm nói về võ sĩ giác đấu, đua ngựa, ăn uống, người khác: im lặng, nói ít, hoặc chuyển đề tài`"]
+  n11 --- n12
+  n13["`Mục 4 (trang PDF 110) — Khi buộc tiếp xúc người phiền toái: nhìn lại mình`"]
+  n0 --- n13
+  n14["`Marcus: chắc chắn cũng có người thấy ta phiền toái`"]
+  n13 --- n14
+  n15["`Bực vì thiếu sót của người thì nghĩ tới thiếu sót của mình để khoan dung hơn`"]
+  n13 --- n15
+  n16["`Sự bực bội của ta hại ta hơn mọi điều người kia làm`"]
+  n13 --- n16
+  n17["`Đừng phí thời gian đoán hàng xóm làm gì, nói gì, nghĩ gì`"]
+  n13 --- n17
+  n18["`Đừng chứa ý nghĩ nhục dục, ghen tị, nghi ngờ mà mình xấu hổ nếu phải thừa nhận`"]
+  n13 --- n18
+  n19["`Mục 5–6 (trang PDF 110–111) — Thuyết vận mệnh xã hội và đừng để mình thù ghét`"]
+  n0 --- n19
+  n20["`Marcus: thế giới không thể thiếu những kẻ vô liêm sỉ`"]
+  n19 --- n20
+  n21["`Mong họ khác đi cũng như mong cây vả đừng ra quả`"]
+  n19 --- n21
+  n22["`Ngạc nhiên trước người thô lỗ thì chỉ nên trách mình đáng lẽ phải hiểu chuyện hơn`"]
+  n19 --- n22
+  n23["`Irvine gọi là thuyết vận mệnh xã hội: hành vi hiện giờ đã định, vẫn có thể tác động để họ đổi về sau`"]
+  n19 --- n23
+  n24["`Nhớ rằng “đời người ngắn ngủi vô cùng” để thấy chuyện phiền là tầm thường`"]
+  n19 --- n24
+  n25["`Rủi ro lớn nhất là họ khiến ta thù ghét họ`"]
+  n19 --- n25
+  n26["`Không để ai phá được lòng nhân từ của ta`"]
+  n25 --- n26
+  n27["`Cách trả thù tốt nhất là không trở thành người giống kẻ đó`"]
+  n25 --- n27
+  n28["`Mục 7–9 (trang PDF 111–113) — Tình dục: các nhà Khắc kỷ dè dặt`"]
+  n0 --- n28
+  n29["`Musonius: chỉ quan hệ trong hôn nhân và để có con; ngoài ra là thiếu tự chủ`"]
+  n28 --- n29
+  n30["`Epictetus: tránh quan hệ trước hôn nhân, nhưng đừng tự cao, đừng coi thường người không làm được`"]
+  n28 --- n30
+  n31["`Marcus: kỹ thuật phân tích thành phần để thấy giá trị thật`"]
+  n28 --- n31
+  n32["`Rượu vang quý là nước nho lên men; áo choàng tía là lông cừu nhuộm dịch ốc`"]
+  n31 --- n32
+  n33["`Tình dục chỉ là “sự cọ xát và xuất tinh”, đề cao nó là ngu ngốc`"]
+  n31 --- n33
+  n34["`Phật giáo có kỹ thuật tương tự: nghĩ tới phổi, đờm, mủ, hình dung thân thể phân hủy`"]
+  n28 --- n34
+  n35["`Epicurus: giao hợp chưa từng đem lại điều tốt, không bị hại đã là may`"]
+  n28 --- n35
+  n36["`Irvine: thời buông thả để lại mẹ đơn thân trẻ, chàng trai bỏ ước mơ vì phải nuôi con`"]
+  n28 --- n36
+  n37["`Mục 10 (trang PDF 113) — Hôn nhân và con cái: các nhà Khắc kỷ ủng hộ`"]
+  n0 --- n37
+  n38["`Musonius: người khôn ngoan sẽ lập gia đình`"]
+  n37 --- n38
+  n39["`Hôn nhân tốt là liên minh, mỗi người cố chăm sóc người kia tốt hơn người kia chăm sóc mình`"]
+  n37 --- n39
+  n40["`Không cuộc diễu hành tôn giáo nào đẹp bằng đàn con nắm tay cha mẹ đi khắp thành phố`"]
+  n37 --- n40
+  n41["`Hiếm ai hạnh phúc hơn người có bạn đời chu đáo và con cái tận tâm`"]
+  n37 --- n41
+  n42["`Thông điệp xuyên suốt`"]
+  n0 --- n42
+  n43["`Người mình chọn giao du định hình giá trị của mình`"]
+  n42 --- n43
+  n44["`Sự phiền toái phần lớn đến từ cách ta nghĩ về người khác, và cách nghĩ đó đổi được`"]
+  n42 --- n44
+  n45["`Người khác chỉ thật sự hại được ta khi khiến ta trở nên giống họ`"]
+  n42 --- n45
+  class n0 root
+  class n1,n13,n19,n28,n37,n42 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n43,n44,n45 leaf
+```
