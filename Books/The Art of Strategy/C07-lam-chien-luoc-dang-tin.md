@@ -915,15 +915,23 @@ Trong những trò chơi đó, nếu nước đi chiến lược của người 
 
 **Khi nước đi của đối phương hại mình.** Tuy vậy, có nhiều tình huống nước đi chiến lược của người khác gây hại cho bạn: lời đe doạ của họ thường đi ngược lợi ích của bạn, và một số cam kết cũng vậy. Khi đó bạn muốn ngăn họ làm cho nước đi ấy đáng tin. Hai tác giả đưa ra vài gợi ý, kèm lời cảnh báo rằng chúng khó, thậm chí rủi ro, và không nên mong thành công hoàn toàn.
 
-- **Hợp đồng.** Ông Russo có hai "bản thân": một trước khi bánh su kem xuất hiện trên xe đẩy tráng miệng, và một sau đó. Bản thân "trước" lập hợp đồng để thắng cám dỗ của bản thân "sau", nhưng bản thân "sau" có thể vô hiệu hoá hợp đồng bằng cách đề nghị đàm phán lại theo cách có lợi cho mọi bên có mặt lúc đó. Bản thân "trước" lẽ ra sẽ từ chối, nhưng nó không còn ở đó. Nếu mọi bên của hợp đồng gốc vẫn còn có mặt, muốn lách hợp đồng bạn phải đề nghị một thoả thuận mới có lợi cho tất cả; đạt đồng thuận nhất trí là khó, nhưng không phải không thể. Ví dụ, trong một thế lưỡng nan của người tù lặp lại, một hợp đồng rõ ràng hay ngầm định quy định mọi người hợp tác cho tới khi có người gian lận, sau đó hợp tác sụp đổ và ai cũng chọn hành động ích kỷ. Bạn có thể thử gian lận một lần rồi khẩn khoản rằng đó chỉ là lỗi vô tình, và không nên bỏ phí mọi lợi ích hợp tác tương lai chỉ vì hợp đồng nói vậy. Không thể dùng mẹo này quá thường xuyên, và ngay lần đầu người khác cũng có thể nghi ngờ. Nhưng có vẻ trẻ con lần nào cũng thoát được với câu "lần sau con không thế nữa".
+- **Hợp đồng.** Ông Russo có hai "bản thân": một trước khi bánh su kem xuất hiện trên xe đẩy tráng miệng, và một sau đó. Bản thân "trước" lập hợp đồng để thắng cám dỗ của bản thân "sau", nhưng bản thân "sau" có thể vô hiệu hoá hợp đồng bằng cách đề nghị đàm phán lại theo cách có lợi cho mọi bên có mặt lúc đó. Bản thân "trước" lẽ ra sẽ từ chối, nhưng nó không còn ở đó. Nếu mọi bên của hợp đồng gốc vẫn còn có mặt, muốn lách hợp đồng bạn phải đề nghị một thoả thuận mới có lợi cho tất cả; đạt đồng thuận nhất trí là khó, nhưng không phải không thể.
+
+  Ví dụ, trong một thế lưỡng nan của người tù lặp lại, một hợp đồng rõ ràng hay ngầm định quy định mọi người hợp tác cho tới khi có người gian lận, sau đó hợp tác sụp đổ và ai cũng chọn hành động ích kỷ. Bạn có thể thử gian lận một lần rồi khẩn khoản rằng đó chỉ là lỗi vô tình, và không nên bỏ phí mọi lợi ích hợp tác tương lai chỉ vì hợp đồng nói vậy. Không thể dùng mẹo này quá thường xuyên, và ngay lần đầu người khác cũng có thể nghi ngờ. Nhưng có vẻ trẻ con lần nào cũng thoát được với câu "lần sau con không thế nữa".
 - **Danh tiếng.** Một sinh viên xin giáo sư gia hạn nộp bài. Giáo sư muốn giữ danh tiếng nên nói: "Nếu tôi làm vậy cho em, sau này tôi phải làm vậy cho mọi người." Sinh viên có thể đáp: "Sẽ không ai biết. Em không có lợi gì khi kể, vì nếu các bạn được gia hạn và làm bài tốt hơn thì điểm của em sẽ thấp đi, do môn học chấm điểm theo đường cong (xếp hạng tương đối)." Tương tự, một nhà bán lẻ thương lượng giá thấp hơn với nhà cung cấp có thể hứa một cách đáng tin sẽ không tiết lộ với các nhà bán lẻ đối thủ. Danh tiếng chỉ có giá trị trong chừng mực nó được biết đến; giữ bí mật làm nó mất tác dụng.
 - **Liên lạc.** Cắt liên lạc có thể bảo vệ người thực hiện nước đi chiến lược bằng cách làm hành động không thể đảo ngược. Nhưng nếu người kia không nhận được thông tin về cam kết hay lời đe doạ ngay từ đầu, nước đi chiến lược trở nên vô nghĩa. Lời đe doạ của bố mẹ, "không nín khóc thì tối nay không có tráng miệng", vô hiệu với một đứa trẻ khóc to tới mức không nghe thấy.
 - **Đốt cầu.** Hãy nhớ lời khuyên của Tôn Tử: "Khi vây địch, hãy chừa một lối ra." Chừa lối ra không phải để địch thật sự thoát, mà để địch tin rằng có đường sống. Nếu không thấy lối thoát, địch sẽ chiến đấu với lòng dũng cảm của kẻ tuyệt vọng. Tôn Tử muốn tước của địch cơ hội đưa ra một cam kết rất đáng tin là chiến đấu đến chết.
 
 > **Chú thích của tác giả:** Trong một chú thích, Tôn Tử gợi ý nên phục kích đạo quân đang rút chạy. Tất nhiên điều đó chỉ hiệu quả nếu quân đối phương chưa đọc Tôn Tử.
 
-- **Đi từng bước nhỏ.** Độ tin cậy của các lời hứa qua lại có thể tăng lên khi chia hành động lớn thành chuỗi hành động nhỏ. Nhưng bạn cũng có thể phá độ tin cậy của lời đe doạ của đối phương bằng cách làm trái ý họ từng bước nhỏ, mỗi bước nhỏ tới mức so với hành động tốn kém đã doạ, đối phương không có lợi khi thực hiện lời đe doạ. Như đã bàn ở Chương 6, cách này gọi là chiến thuật cắt lát salami: tháo ngòi lời đe doạ từng lát một. Ví dụ hay nhất của Schelling: chiến thuật salami chắc chắn do một đứa trẻ phát minh. Bảo đứa trẻ đừng xuống nước, nó sẽ ngồi trên bờ nhúng bàn chân trần, vì nó "chưa ở trong nước". Nếu ta im lặng, nó sẽ đứng lên, phần người ở dưới nước cũng chẳng nhiều hơn. Ta còn đang nghĩ thì nó bắt đầu lội, không đi sâu hơn; ta dừng lại xem điều này có khác không thì nó đi sâu thêm chút nữa, lý luận rằng vì nó đi tới đi lui nên tính trung bình cũng vậy. Chẳng bao lâu ta đang gọi với theo bảo nó đừng bơi ra khuất tầm mắt, và tự hỏi mọi kỷ luật của mình đã đi đâu. Các nước nhỏ hiểu điều này như trẻ nhỏ: họ làm trái ý các siêu cường theo những cách nhỏ, như bỏ phiếu độc lập ở Liên Hợp Quốc, vi phạm một vài điều khoản của hiệp định thương mại, thậm chí đi những bước rất nhỏ nối tiếp nhau tới công nghệ hạt nhân, mỗi bước đều quá nhỏ để gây ra trả đũa nghiêm trọng.
-- **Người đại diện bị ràng buộc.** Nếu người kia muốn lập trường đàm phán cứng rắn của mình đáng tin bằng cách dùng người đại diện bị ràng buộc, bạn có thể từ chối làm việc với người đại diện và đòi nói chuyện trực tiếp với người uỷ nhiệm. Giữa hai người đó phải có một kênh liên lạc, vì người đại diện phải báo kết quả cho người uỷ nhiệm. Người uỷ nhiệm có chịu làm việc trực tiếp với bạn hay không còn tuỳ danh tiếng và quyết tâm của họ. Ví dụ, khi mặc cả giá một món hàng ở cửa hàng bách hoá và nhân viên nói không có quyền giảm giá, bạn có thể xin gặp quản lý, người có thể có quyền đó. Có nên làm vậy hay không tuỳ bạn đánh giá khả năng thành công, bạn muốn món hàng tới mức nào, và bạn coi nỗi xấu hổ nặng tới đâu nếu thất bại và phải mua theo giá niêm yết.
+- **Đi từng bước nhỏ.** Độ tin cậy của các lời hứa qua lại có thể tăng lên khi chia hành động lớn thành chuỗi hành động nhỏ. Nhưng bạn cũng có thể phá độ tin cậy của lời đe doạ của đối phương bằng cách làm trái ý họ từng bước nhỏ, mỗi bước nhỏ tới mức so với hành động tốn kém đã doạ, đối phương không có lợi khi thực hiện lời đe doạ. Như đã bàn ở Chương 6, cách này gọi là chiến thuật cắt lát salami: tháo ngòi lời đe doạ từng lát một. Ví dụ hay nhất của Schelling: chiến thuật salami chắc chắn do một đứa trẻ phát minh. Bảo đứa trẻ đừng xuống nước, nó sẽ ngồi trên bờ nhúng bàn chân trần, vì nó "chưa ở trong nước".
+
+  Nếu ta im lặng, nó sẽ đứng lên, phần người ở dưới nước cũng chẳng nhiều hơn. Ta còn đang nghĩ thì nó bắt đầu lội, không đi sâu hơn; ta dừng lại xem điều này có khác không thì nó đi sâu thêm chút nữa, lý luận rằng vì nó đi tới đi lui nên tính trung bình cũng vậy. Chẳng bao lâu ta đang gọi với theo bảo nó đừng bơi ra khuất tầm mắt, và tự hỏi mọi kỷ luật của mình đã đi đâu.
+
+  Các nước nhỏ hiểu điều này như trẻ nhỏ: họ làm trái ý các siêu cường theo những cách nhỏ, như bỏ phiếu độc lập ở Liên Hợp Quốc, vi phạm một vài điều khoản của hiệp định thương mại, thậm chí đi những bước rất nhỏ nối tiếp nhau tới công nghệ hạt nhân, mỗi bước đều quá nhỏ để gây ra trả đũa nghiêm trọng.
+- **Người đại diện bị ràng buộc.** Nếu người kia muốn lập trường đàm phán cứng rắn của mình đáng tin bằng cách dùng người đại diện bị ràng buộc, bạn có thể từ chối làm việc với người đại diện và đòi nói chuyện trực tiếp với người uỷ nhiệm. Giữa hai người đó phải có một kênh liên lạc, vì người đại diện phải báo kết quả cho người uỷ nhiệm. Người uỷ nhiệm có chịu làm việc trực tiếp với bạn hay không còn tuỳ danh tiếng và quyết tâm của họ.
+
+  Ví dụ, khi mặc cả giá một món hàng ở cửa hàng bách hoá và nhân viên nói không có quyền giảm giá, bạn có thể xin gặp quản lý, người có thể có quyền đó. Có nên làm vậy hay không tuỳ bạn đánh giá khả năng thành công, bạn muốn món hàng tới mức nào, và bạn coi nỗi xấu hổ nặng tới đâu nếu thất bại và phải mua theo giá niêm yết.
 
 > **Chú thích của tác giả:** Nếu bạn nghĩ đây là việc làm ngớ ngẩn, hãy biết rằng ngay cả các siêu thị lớn như Home Depot và Best Buy cũng đang "âm thầm bảo nhân viên bán hàng rằng mặc cả là chấp nhận được" (*New York Times*, 23/3/2008).
 
@@ -1162,11 +1170,13 @@ Ngoài ra, các nghiên cứu thực nghiệm và kinh tế học hành vi cho t
 - **Trong doanh nghiệp.** Khi ký hợp đồng với nhà cung cấp hay đối tác, đừng chỉ dựa vào điều khoản phạt; hãy hỏi bên thực thi có thật sự quan tâm tới việc thực hiện không, và hai bên có dễ cùng nhau "bỏ qua" không. Thanh toán theo tiến độ, giữ lại tiền bảo hành và tránh để lộ "bước cuối" là cách áp dụng trực tiếp công cụ đi từng bước nhỏ. Khi muốn đối thủ không phát động cuộc chiến giá, một chính sách giá công khai, khó rút lại (như điều khoản bằng giá đối thủ) có thể đáng tin hơn mọi lời tuyên bố; nhưng cần lưu ý luật cạnh tranh, vì chính hai tác giả cho thấy công cụ này giúp các hãng giữ giá cao.
 - **Trong đầu tư.** Khi đánh giá lời hứa của ban lãnh đạo (không pha loãng cổ phần, trả cổ tức, không đa dạng hoá ngoài ngành), hãy tìm cơ chế làm lời hứa đáng tin: điều lệ công ty, hợp đồng vay có điều khoản ràng buộc, danh tiếng đã được thử thách. Một doanh nghiệp đã "đốt cầu" (dồn hết vào một mảng như Polaroid) sẽ chiến đấu quyết liệt để giữ thị phần, nhưng cũng dễ tổn thương khi công nghệ thay đổi. Đợt "thanh lý" hay "lần phát hành cuối" của một doanh nghiệp sắp rút lui là lúc nên thận trọng nhất.
 - **Trong nghề nghiệp.** Khi đàm phán lương với người quen hoặc cấp trên thân thiết, một người đại diện (headhunter, đồng nghiệp đáng tin) hay một mức sàn đã công khai với gia đình có thể giúp bạn giữ lập trường. Danh tiếng giữ lời là tài sản tích luỹ qua nhiều trò chơi lặp lại; một lần nuốt lời công khai như "hãy đọc môi tôi" có thể làm mất nó lâu dài. Khi muốn tự cam kết (học một chứng chỉ, giảm cân), hãy dùng bên thứ ba có động cơ riêng hoặc nhóm bạn cùng mục tiêu, thay vì chỉ tự hứa.
-- **Khi đọc tin chính sách.** Khi một cơ quan nhà nước tuyên bố "sẽ xử lý nghiêm" hay "không gia hạn thêm", câu hỏi đáng đặt ra là việc thực hiện có tốn kém cho chính cơ quan đó không, và đã có cơ chế nào khiến họ không thể lùi. Ở Việt Nam, những lần gia hạn lặp lại một thời hạn chính sách cho thấy vì sao các thời hạn sau thường kém đáng tin, đúng như chương trình *Primetime* sau lần tha thứ đầu tiên. Ngược lại, việc gia nhập các hiệp định thương mại quốc tế có lộ trình ràng buộc là một dạng "đốt cầu" và "người đại diện bị ràng buộc": chính phủ dùng cam kết quốc tế để giữ cải cách mà nếu chỉ hứa trong nước thì khó đáng tin. Với vấn đề sách giáo khoa và học liệu, câu hỏi của hai tác giả vẫn hữu ích: việc thay sách liên tục phục vụ ai, và mô hình cho thuê hay dùng lại có giảm chi phí cho người học không.
+- **Khi đọc tin chính sách.** Khi một cơ quan nhà nước tuyên bố "sẽ xử lý nghiêm" hay "không gia hạn thêm", câu hỏi đáng đặt ra là việc thực hiện có tốn kém cho chính cơ quan đó không, và đã có cơ chế nào khiến họ không thể lùi. Ở Việt Nam, những lần gia hạn lặp lại một thời hạn chính sách cho thấy vì sao các thời hạn sau thường kém đáng tin, đúng như chương trình *Primetime* sau lần tha thứ đầu tiên.
+
+  Ngược lại, việc gia nhập các hiệp định thương mại quốc tế có lộ trình ràng buộc là một dạng "đốt cầu" và "người đại diện bị ràng buộc": chính phủ dùng cam kết quốc tế để giữ cải cách mà nếu chỉ hứa trong nước thì khó đáng tin. Với vấn đề sách giáo khoa và học liệu, câu hỏi của hai tác giả vẫn hữu ích: việc thay sách liên tục phục vụ ai, và mô hình cho thuê hay dùng lại có giảm chi phí cho người học không.
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 7 trên một trang: sáu nhánh lớn đi theo các mục 1–13 của phần Nội dung chi tiết (vấn đề độ tin cậy và tám con đường, thay đổi kết quả bằng hợp đồng và danh tiếng, tự cắt đường rút lui, đi từng bước và nhờ người khác giữ cam kết, làm suy yếu độ tin cậy của đối phương cùng tình huống sách giáo khoa, Phần kết của Phần II về các giải Nobel), mỗi nhánh ghi công cụ, ví dụ và giới hạn then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 7 trên một trang: sáu nhánh lớn đi theo các mục 1–13 của phần Nội dung chi tiết (vấn đề độ tin cậy và tám con đường, hợp đồng và danh tiếng, cắt liên lạc, đốt cầu và để kết cục cho may rủi, đi từng bước, làm việc theo nhóm và người đại diện, làm suy yếu độ tin cậy của đối phương cùng tình huống sách giáo khoa, Phần kết của Phần II về các giải Nobel), mỗi nhánh ghi công cụ, ví dụ và giới hạn then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1177,101 +1187,107 @@ flowchart LR
   n0["`Chương 7: lời nói suông không đáng tin, phải thay đổi trò chơi để lúc phải hành động thì giữ lời là lựa chọn tốt nhất hoặc duy nhất`"]
   n1["`Mục 1–2 — Vấn đề độ tin cậy và tám con đường`"]
   n0 --- n1
-  n2["`Chúa dọa Adam và Eva ăn trái cấm sẽ chết, nhưng chỉ đuổi họ khỏi vườn vì thực hiện sẽ hủy tạo vật của Ngài`"]
+  n2["`Chúa dọa Adam và Eva ăn trái cấm sẽ chết, nhưng chỉ đuổi khỏi vườn vì thực hiện sẽ hủy chính tạo vật của Ngài`"]
   n1 --- n2
-  n3["`Harry Potter hứa trao thanh gươm cho yêu tinh Griphook nhưng có lợi khi nuốt lời`"]
+  n3["`Harry Potter hứa thanh gươm cho Griphook nhưng định dùng xong mới trả, Griphook tự giật lấy`"]
   n1 --- n3
-  n4["`Sam Goldwyn: hợp đồng miệng không đáng giá tờ giấy viết ra nó`"]
+  n4["`Gutman trong Chim ưng Malta: một đô la tiền thật mua được nhiều hơn mười đô la lời nói`"]
   n1 --- n4
   n5["`Nguyên tắc 1: thay đổi kết quả của mình, bằng hợp đồng và danh tiếng`"]
   n1 --- n5
-  n6["`Nguyên tắc 2: hạn chế khả năng rút lui, bằng cắt liên lạc, đốt cầu, để kết cục vượt khỏi tầm kiểm soát`"]
+  n6["`Nguyên tắc 2: hạn chế đường rút lui, bằng cắt liên lạc, đốt cầu, để kết cục vượt khỏi tầm kiểm soát`"]
   n1 --- n6
-  n7["`Kết hợp hai nguyên tắc: đi từng bước nhỏ, nguyên tắc 3: làm việc theo nhóm và thuê người đại diện bị ràng buộc`"]
+  n7["`Kết hợp hai nguyên tắc là đi từng bước nhỏ, nguyên tắc 3 là làm việc theo nhóm và thuê người đại diện bị ràng buộc`"]
   n1 --- n7
   n8["`Mục 3–4 — Hợp đồng và danh tiếng`"]
   n0 --- n8
-  n9["`Hợp đồng treo thưởng 25.000 USD của Nick Russo có thể bị hai bên đàm phán lại`"]
+  n9["`Nick Russo treo thưởng 25.000 USD cho ai thấy ông ăn ở nhà hàng, nhưng hợp đồng có thể bị đàm phán lại`"]
   n8 --- n9
-  n10["`Hợp đồng chỉ mạnh khi bên thực thi quan tâm tới hành động đã hứa, không chỉ tới tiền phạt`"]
+  n10["`Hợp đồng chỉ mạnh khi bên thực thi quan tâm tới hành động đã hứa, như nhà sản xuất cần hàng hơn tiền phạt`"]
   n8 --- n10
-  n11["`stickK.com, Luật Thương nhân trung cổ, trọng tài của giới buôn kim cương New York`"]
+  n11["`ABC hai lần lùi bước không chiếu ảnh bikini, nên người tham gia các vòng sau khó còn tin`"]
   n8 --- n11
-  n12["`Khi tòa án yếu, Mafia Sicily lấp chỗ trống thực thi hợp đồng`"]
+  n12["`stickK của Ayres và Karlan: đặt cọc 250 USD cho từ thiện nếu không đạt mục tiêu`"]
   n8 --- n12
-  n13["`Danh tiếng chỉ có giá trị khi trò chơi lặp lại và hành vi quá khứ được quan sát`"]
+  n13["`Khi tòa án yếu, Luật Thương nhân trung cổ và Peppe của Mafia Sicily thực thi hợp đồng`"]
   n8 --- n13
-  n14["`Hãy đọc môi tôi, không có thuế mới: George H. W. Bush đặt danh tiếng vào lời hứa`"]
+  n14["`Trọng tài của giới buôn kim cương New York dán ảnh kẻ vi phạm, khiến người đó mất nghề`"]
   n8 --- n14
-  n15["`Mục 5–7 — Cắt liên lạc, đốt cầu, để kết cục cho may rủi`"]
-  n0 --- n15
-  n16["`Tướng Ripper trong Dr. Strangelove cắt mọi liên lạc để không ai gọi được máy bay về, nhưng bị phá bằng một radio và một máy bán Coca`"]
-  n15 --- n16
-  n17["`Di chúc của Cecil Rhodes không thể sửa sau khi ông mất`"]
-  n15 --- n17
-  n18["`Đốt cầu: Xenophon, William Kẻ chinh phục, Cortés, còn ở Đông Đức 1989 xây cầu nghĩa là phá Bức tường Berlin`"]
-  n15 --- n18
-  n19["`Polaroid không đa dạng hóa ngoài chụp ảnh lấy ngay nên buộc phải chiến đấu với Kodak, nhưng kẹt lại khi công nghệ đổi`"]
-  n15 --- n19
-  n20["`Cỗ máy Ngày tận thế biến tấn công thành tự sát vì phản ứng là tự động, nhưng sai lầm thì không cứu được`"]
-  n15 --- n20
-  n21["`Khrushchev dọa tên lửa Liên Xô bay tự động nếu có xung đột ở Berlin`"]
-  n15 --- n21
-  n22["`Thay sự chắc chắn bằng một rủi ro có kiểm soát, như cò quay Nga, là chiến lược bên bờ vực`"]
-  n15 --- n22
-  n23["`Công cụ cam kết mạnh nhất cũng nguy hiểm nhất khi có sai sót`"]
-  n15 --- n23
-  n24["`Mục 8–10 — Đi từng bước nhỏ, làm việc theo nhóm, người đại diện bị ràng buộc`"]
-  n0 --- n24
-  n25["`Chia giao dịch 1 triệu USD thành 1.000 giao dịch 1.000 USD, trả nhà thầu theo ngày`"]
-  n24 --- n25
-  n26["`Bước cuối vẫn có vấn đề, như đợt thanh lý đóng cửa không còn tương lai để giữ uy tín`"]
-  n24 --- n26
-  n27["`AA dùng nhóm để giữ cam kết cai rượu`"]
-  n24 --- n27
-  n28["`Quân La Mã xử tử cả người không giết kẻ đào ngũ, quy tắc danh dự ở West Point và Princeton`"]
-  n24 --- n28
-  n29["`Thủ lĩnh công đoàn được ủy nhiệm đòi 5% không có quyền nhượng bộ`"]
-  n24 --- n29
-  n30["`Người đại diện của vận động viên, nhà văn, máy bán hàng tự động không thể mặc cả`"]
-  n24 --- n30
-  n31["`Mục 11–12 — Làm suy yếu độ tin cậy của đối phương và tình huống sách giáo khoa`"]
-  n0 --- n31
-  n32["`Đề nghị đàm phán lại, giữ bí mật để danh tiếng đối phương không bị đe dọa`"]
-  n31 --- n32
-  n33["`Tránh nhận thông tin, vượt người đại diện để gặp người ủy nhiệm`"]
-  n31 --- n33
-  n34["`Chiến thuật salami: làm trái ý từng chút một, như đứa trẻ bên bờ nước hay các nước nhỏ`"]
-  n31 --- n34
-  n35["`Nếu nước đi của đối phương có lợi cho cả hai thì nên giúp họ làm nó đáng tin`"]
-  n31 --- n35
-  n36["`Sách giáo khoa giá 150 USD vì nhà xuất bản không thể hứa không ra ấn bản mới đè thị trường sách cũ`"]
-  n31 --- n36
-  n37["`Lời giải: cho thuê hoặc bán giấy phép thay vì bán đứt, bắt hiệu sách mua lại chỉ làm giá mua lại giảm`"]
-  n31 --- n37
-  n38["`Phần kết Phần II — Lịch sử các giải Nobel`"]
-  n0 --- n38
-  n39["`Von Neumann khai phá trò chơi tổng bằng không, Nash mở rộng cho trò chơi không hợp tác`"]
-  n38 --- n39
-  n40["`Harsanyi: người chơi không chắc về sở thích của nhau, Selten: tinh lọc cân bằng bằng xác suất đi nhầm`"]
-  n38 --- n40
-  n41["`Aumann: hiểu biết chung, và trò chơi lặp lại đủ nhiều thì gần như gì cũng là cân bằng`"]
-  n38 --- n41
-  n42["`Nobel kinh tế học thông tin: Mirrlees và Vickrey 1996, Akerlof, Spence, Stiglitz 2001`"]
-  n38 --- n42
-  n43["`Nobel 2007 cho thiết kế cơ chế: Hurwicz, Maskin, Myerson, mở đường sang Phần III`"]
-  n38 --- n43
-  n44["`Thông điệp xuyên suốt`"]
-  n0 --- n44
-  n45["`Hỏi điều gì buộc người kia, hoặc chính mình, giữ lời vào lúc phải giữ`"]
-  n44 --- n45
-  n46["`Không công cụ nào hiệu quả tuyệt đối vì có sai sót, tai nạn và điều không lường trước`"]
-  n44 --- n46
-  n47["`Khi không thể cam kết, thay đổi hình thức sở hữu có thể giải quyết tốt hơn quy định bắt buộc`"]
-  n44 --- n47
+  n15["`Không cơ chế nào chống được việc hai bên cùng muốn đàm phán lại`"]
+  n8 --- n15
+  n16["`Danh tiếng Mafia không đến từ kính đen hay giọng Sicily mà từ thành tích bạo lực thật`"]
+  n8 --- n16
+  n17["`Kennedy đặt danh tiếng vào lời cam kết với Berlin, Bush thua năm 1992 sau lời Hãy đọc môi tôi`"]
+  n8 --- n17
+  n18["`Mục 5–7 — Cắt liên lạc, đốt cầu, để kết cục cho may rủi`"]
+  n0 --- n18
+  n19["`Di chúc khó đàm phán lại: phải có luật của Quốc hội Anh mới sửa được di chúc Cecil Rhodes`"]
+  n18 --- n19
+  n20["`Tướng Ripper cắt liên lạc, giữ mã gọi về và cúp máy, nhưng bị phá bằng một radio và một máy bán Coca`"]
+  n18 --- n20
+  n21["`Thực tế một nước đi hiếm khi hiệu quả 100% hay hoàn toàn vô hiệu`"]
+  n18 --- n21
+  n22["`Đốt thuyền: William Kẻ chinh phục năm 1066, Cortés ở Mexico, thuyền trưởng Ramius báo trước ý định đào tẩu`"]
+  n18 --- n22
+  n23["`Polaroid không đa dạng hóa nên quyết chiến với Kodak, nhưng về sau kẹt trên hòn đảo đang chìm`"]
+  n18 --- n23
+  n24["`Xây cầu cũng là cam kết: Đông Đức mở Bức tường Berlin để lời hứa cải cách đáng tin`"]
+  n18 --- n24
+  n25["`Cỗ máy Ngày tận thế biến tấn công thành tự sát, nhưng một tai nạn thì không còn cách dừng`"]
+  n18 --- n25
+  n26["`Bên bờ vực là mất kiểm soát có kiểm soát: kiểm soát mức rủi ro như cò quay Nga 1/6, không kiểm soát kết cục`"]
+  n18 --- n26
+  n27["`Mục 8–10 — Đi từng bước nhỏ, làm việc theo nhóm, người đại diện bị ràng buộc`"]
+  n0 --- n27
+  n28["`Mua cocaine bằng 1.000 giao dịch 1.000 USD thay vì một giao dịch 1 triệu USD, trả nhà thầu theo ngày`"]
+  n27 --- n28
+  n29["`Không được có bước cuối rõ ràng, nên cẩn thận với hàng trong đợt thanh lý đóng cửa`"]
+  n27 --- n29
+  n30["`AA dùng áp lực nhóm, quân La Mã xử tử cả người không giết kẻ đào ngũ bên cạnh`"]
+  n27 --- n30
+  n31["`Quy tắc danh dự ở West Point và Princeton: không báo cáo gian lận cũng bị đuổi học`"]
+  n27 --- n31
+  n32["`Thủ lĩnh công đoàn bị ràng buộc bởi ủy nhiệm không thể lùi từ 5% xuống 4%`"]
+  n27 --- n32
+  n33["`Người đại diện của vận động viên và nhà văn, máy bán hàng tự động và nhân viên làm theo quy định không thể mặc cả`"]
+  n27 --- n33
+  n34["`Mục 11–12 — Làm suy yếu độ tin cậy của đối phương và tình huống sách giáo khoa`"]
+  n0 --- n34
+  n35["`Nếu nước đi của đối phương có lợi cho cả hai, như điều khoản bằng giá đối thủ, nên giúp nó đáng tin`"]
+  n34 --- n35
+  n36["`Phá hợp đồng bằng đàm phán lại, phá danh tiếng bằng giữ bí mật như sinh viên xin gia hạn`"]
+  n34 --- n36
+  n37["`Không nhận thông tin, chừa lối thoát cho địch như Tôn Tử, vượt người đại diện để gặp người ủy nhiệm`"]
+  n34 --- n37
+  n38["`Chiến thuật salami của đứa trẻ bên bờ nước và của các nước nhỏ trước siêu cường`"]
+  n34 --- n38
+  n39["`Sách giáo khoa giá 150 USD vì mỗi cuốn bán lại hai lần, nhà xuất bản phải thu đủ lãi ở lần bán đầu`"]
+  n34 --- n39
+  n40["`Nếu nhà xuất bản hứa không ra ấn bản mới và sinh viên hứa không bán lại, giá 60 USD là đủ`"]
+  n34 --- n40
+  n41["`Buộc hiệu sách mua lại chỉ làm giá mua lại giảm, lời giải là cho thuê hoặc bán giấy phép`"]
+  n34 --- n41
+  n42["`Phần kết Phần II — Lịch sử các giải Nobel`"]
+  n0 --- n42
+  n43["`Harsanyi: người chơi không chắc về sở thích của nhau, Selten: tinh lọc cân bằng bằng xác suất đi nhầm`"]
+  n42 --- n43
+  n44["`Aumann: hiểu biết chung, và lặp lại đủ nhiều thì gần như gì cũng là cân bằng`"]
+  n42 --- n44
+  n45["`Nobel kinh tế học thông tin: Mirrlees và Vickrey 1996, Akerlof, Spence, Stiglitz 2001`"]
+  n42 --- n45
+  n46["`Nobel 2007 cho thiết kế cơ chế: Hurwicz, Maskin, Myerson, mở đường sang Phần III`"]
+  n42 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Hỏi điều gì buộc người kia, hoặc chính mình, giữ lời vào lúc phải giữ`"]
+  n47 --- n48
+  n49["`Một tình huống thường cần nhiều công cụ cùng lúc và vẫn không hiệu quả tuyệt đối`"]
+  n47 --- n49
+  n50["`Khi không thể cam kết, thay đổi hình thức sở hữu có thể giải quyết tốt hơn quy định bắt buộc`"]
+  n47 --- n50
   class n0 root
-  class n1,n8,n15,n24,n31,n38,n44 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n45,n46,n47 leaf
+  class n1,n8,n18,n27,n34,n42,n47 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n48,n49,n50 leaf
 ```
 
 ## Nguồn

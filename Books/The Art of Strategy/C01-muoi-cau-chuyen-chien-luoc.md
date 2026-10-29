@@ -2,11 +2,23 @@
 
 ## Ý chính
 
-Hai tác giả muốn người đọc hiểu điều gì biến một quyết định thành một **trò chơi (game)**: kết quả của bạn phụ thuộc vào lựa chọn của những người chơi khác, và họ cũng đang suy tính về bạn. Vì vậy bài học then chốt của lý thuyết trò chơi là đặt mình vào vị trí của người chơi kia.
+Hai tác giả muốn người đọc hiểu điều gì biến một quyết định thành một **trò chơi (game)**: kết quả của bạn phụ thuộc vào lựa chọn của những người chơi khác, và họ cũng đang suy tính về bạn.
+
+Vì vậy bài học then chốt của lý thuyết trò chơi là đặt mình vào vị trí của người chơi kia.
 
 Ví dụ trung tâm là trò đoán số mở đầu chương: người đọc đoán một số từ 1 đến 100 theo cách chia đôi khoảng (50, 25, 37, 42...), cách tối ưu nếu con số được chọn ngẫu nhiên; nhưng hai tác giả không chọn ngẫu nhiên mà cố tình chọn số khó đoán nhất với cách chia đôi, và cuối cùng đặt bẫy để người đọc đoán 49 trong khi con số là 48.
 
-Chín câu chuyện còn lại cho thấy những nguyên tắc sẽ được phát triển trong cả cuốn sách: nhìn trước các nước đi của đối thủ (*Survivor*), mỗi hành động gây ra phản ứng ("bàn tay nóng"), người dẫn đầu bắt chước người theo sau (đua thuyền buồm), sức mạnh của sự cứng rắn (Luther, de Gaulle), tự trói tay mình để buộc bản thân hành động (giảm cân trước ống kính, Cortés), thế lưỡng nan của người tù (đề xuất của Buffett), giá trị của việc không thể đoán trước (Oẳn tù tì), sự nguy hiểm khi nhận cược từ người biết nhiều hơn (*Guys and Dolls*, hợp đồng tương lai, poker), và việc người chơi là con người có tự trọng và cảm xúc (chuyến taxi ở Jerusalem).
+Chín câu chuyện còn lại cho thấy những nguyên tắc sẽ được phát triển trong cả cuốn sách:
+
+- nhìn trước các nước đi của đối thủ (*Survivor*),
+- mỗi hành động gây ra phản ứng ("bàn tay nóng"),
+- người dẫn đầu bắt chước người theo sau (đua thuyền buồm),
+- sức mạnh của sự cứng rắn (Luther, de Gaulle),
+- tự trói tay mình để buộc bản thân hành động (giảm cân trước ống kính, Cortés),
+- thế lưỡng nan của người tù (đề xuất của Buffett),
+- giá trị của việc không thể đoán trước (Oẳn tù tì),
+- sự nguy hiểm khi nhận cược từ người biết nhiều hơn (*Guys and Dolls*, hợp đồng tương lai, poker),
+- và việc người chơi là con người có tự trọng và cảm xúc (chuyến taxi ở Jerusalem).
 
 ## Sơ đồ
 
@@ -1161,7 +1173,9 @@ Câu "Tôi đứng đây, tôi không thể làm khác" của Luther được nh
 - **Trong doanh nghiệp.** Khi đang dẫn đầu thị trường, cân nhắc chiến lược "bắt chước kẻ theo sau" như Dell hay Procter & Gamble: để đối thủ nhỏ chịu rủi ro đổi mới, rồi nhanh chóng theo khi hướng đi được chứng minh. Khi là kẻ theo sau, chấp nhận rằng chơi an toàn giống người dẫn đầu gần như chắc thua; đổi mới mạo hiểm là cơ hội thật. Khi chọn nhà cung cấp, đừng làm như ông Hashiyama: hãy thiết kế luật chơi buộc các bên cạnh tranh về giá.
 - **Trong đầu tư.** Trước mỗi giao dịch đầu cơ thuần tuý, hãy hỏi câu của câu chuyện #9: nếu người bên kia sẵn lòng bán cho mình, họ biết điều gì mà mình không biết? Khi thắng một cuộc đấu giá tài sản (đất, cổ phần, dự án), nhớ tới lời nguyền của người thắng: việc mọi người khác trả thấp hơn là một thông tin. Ưu tiên thị trường thanh khoản với chênh lệch giá mua-bán nhỏ, nơi lợi thế thông tin của bên kia ít hơn.
 - **Trong nghề nghiệp.** Khi đàm phán lương hay hợp đồng, sự cứng rắn kiểu de Gaulle có thể giành phần lớn hơn hôm nay nhưng làm hỏng quan hệ lâu dài; luôn có một trò chơi lớn hơn. Với mục tiêu cá nhân khó giữ (học thêm, tập thể dục, tiết kiệm), dùng nước đi chiến lược kiểu Cindy: tạo một cam kết có cái giá thật nếu thất bại, như đặt cọc, công bố với người mình nể, hay hẹn với đồng nghiệp. Khi làm bài thi hay phỏng vấn, nghĩ về mục tiêu của người ra đề như trong câu hỏi GMAT.
-- **Khi đọc tin chính sách.** Khi một chính sách đòi hỏi những người hưởng lợi từ hiện trạng tự bỏ phiếu xoá bỏ lợi ích của mình, như cải cách tài trợ tranh cử với nghị sĩ đương nhiệm, hãy chờ đợi sự trì hoãn, trừ khi có ai đó thay đổi luật chơi. Ở Việt Nam, các tin về thanh tra, kiểm tra thuế hay kiểm tra chuyên ngành có thể đọc qua câu chuyện IRS: kiểm tra theo kế hoạch công bố trước và hoàn toàn đoán được sẽ kém hiệu quả hơn việc kết hợp với kiểm tra ngẫu nhiên hoặc dựa trên rủi ro. Với các vấn đề cần hành động tập thể (khiếu nại chung của cư dân một khu, phản ánh của một nhóm doanh nghiệp nhỏ), câu chuyện đeo chuông cho mèo giải thích vì sao ai cũng muốn thay đổi mà không ai đứng ra trước.
+- **Khi đọc tin chính sách.** Khi một chính sách đòi hỏi những người hưởng lợi từ hiện trạng tự bỏ phiếu xoá bỏ lợi ích của mình, như cải cách tài trợ tranh cử với nghị sĩ đương nhiệm, hãy chờ đợi sự trì hoãn, trừ khi có ai đó thay đổi luật chơi.
+
+  Ở Việt Nam, các tin về thanh tra, kiểm tra thuế hay kiểm tra chuyên ngành có thể đọc qua câu chuyện IRS: kiểm tra theo kế hoạch công bố trước và hoàn toàn đoán được sẽ kém hiệu quả hơn việc kết hợp với kiểm tra ngẫu nhiên hoặc dựa trên rủi ro. Với các vấn đề cần hành động tập thể (khiếu nại chung của cư dân một khu, phản ánh của một nhóm doanh nghiệp nhỏ), câu chuyện đeo chuông cho mèo giải thích vì sao ai cũng muốn thay đổi mà không ai đứng ra trước.
 
 ## Bản đồ tư duy
 
@@ -1174,7 +1188,7 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 1: một quyết định thành trò chơi khi kết quả phụ thuộc người khác, nên phải đặt mình vào vị trí người chơi kia`"]
-  n1["`Mục 2–3 — Câu chuyện số 1 Đoán số và số 2 Survivor`"]
+  n1["`Mục 2–3 — Câu chuyện #35;1 Đoán số và #35;2 Survivor`"]
   n0 --- n1
   n2["`Đoán số 1–100 bằng chia đôi (50, 25, 37, 42) là tối ưu khi con số được chọn ngẫu nhiên`"]
   n1 --- n2
@@ -1188,7 +1202,7 @@ flowchart LR
   n1 --- n6
   n7["`Bài học: diễn tập trong đầu mọi nước đi tương lai, công cụ ở Chương 2`"]
   n1 --- n7
-  n8["`Mục 4–6 — Câu chuyện số 3 Bàn tay nóng, số 4 Đua thuyền, số 5 Tôi đứng đây`"]
+  n8["`Mục 4–6 — Câu chuyện #35;3 Bàn tay nóng, #35;4 Đua thuyền, #35;5 Tôi đứng đây`"]
   n0 --- n8
   n9["`Gilovich, Vallone, Tversky: cầu thủ 76ers vừa ném trúng lại ít trúng cú tiếp theo hơn`"]
   n8 --- n9
@@ -1200,13 +1214,13 @@ flowchart LR
   n8 --- n12
   n13["`Thuyền dẫn đầu bắt chước thuyền theo sau, nhà dự báo hàng đầu đi theo số đông`"]
   n8 --- n13
-  n14["`Trong kinh doanh người dẫn đầu chờ xem đổi mới thành hay bại rồi mới theo, như Dell, Procter và Gamble`"]
+  n14["`Trong kinh doanh người dẫn đầu chờ xem đổi mới thành hay bại rồi mới theo, như Dell, Procter #amp; Gamble`"]
   n8 --- n14
   n15["`Luther và tiếng Non của de Gaulle: lập trường không đảo ngược buộc bên kia chấp nhận hoặc bỏ đi`"]
   n8 --- n15
   n16["`Cứng rắn có giá: de Lesseps thành công ở Suez nhưng thất bại ở Panama vì không chịu nhận thua`"]
   n8 --- n16
-  n17["`Mục 7–8 — Câu chuyện số 6 Giảm cân và số 7 Thế lưỡng nan của Buffett`"]
+  n17["`Mục 7–8 — Câu chuyện #35;6 Giảm cân và #35;7 Thế lưỡng nan của Buffett`"]
   n0 --- n17
   n18["`Cindy ký giấy cho ABC phát ảnh bikini nếu không giảm 15 pound trong 2 tháng`"]
   n17 --- n18
@@ -1228,7 +1242,7 @@ flowchart LR
   n17 --- n26
   n27["`Không có bàn tay vô hình trong phần lớn trò chơi, kết quả không chắc tốt cho người chơi hay xã hội`"]
   n17 --- n27
-  n28["`Mục 9–11 — Câu chuyện số 8 Oẳn tù tì, số 9 Cược với người biết nhiều hơn, số 10 Taxi Jerusalem`"]
+  n28["`Mục 9–11 — Câu chuyện #35;8 Oẳn tù tì, #35;9 Cược với người biết nhiều hơn, #35;10 Taxi Jerusalem`"]
   n0 --- n28
   n29["`Hashiyama cho Christie's và Sotheby's chơi Oẳn tù tì chọn nhà đấu giá bộ tranh 18 triệu USD`"]
   n28 --- n29

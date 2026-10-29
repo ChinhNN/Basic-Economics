@@ -2,9 +2,13 @@
 
 ## Ý chính
 
-Hai tác giả muốn người đọc hiểu rằng trong trò chơi xung đột thuần tuý, nếu để đối thủ biết trước lựa chọn của mình là bất lợi, thì cách tốt nhất là hành động ngẫu nhiên một cách có tính toán. Tỷ lệ pha trộn tốt nhất là tỷ lệ khiến đối thủ chọn phương án nào cũng thu được như nhau, nên họ không khai thác được mình.
+Hai tác giả muốn người đọc hiểu rằng trong trò chơi xung đột thuần tuý, nếu để đối thủ biết trước lựa chọn của mình là bất lợi, thì cách tốt nhất là hành động ngẫu nhiên một cách có tính toán.
 
-Ví dụ trung tâm là quả phạt đền trong bóng đá, với số liệu thật từ các giải hàng đầu Ý, Tây Ban Nha, Anh giai đoạn 1995–2000: cầu thủ sút nên sút về phía không thuận 38,3% số lần, thủ môn nên bay về phía đó 41,7% số lần, và tỷ lệ ghi bàn khi đó là 79,6%; các cầu thủ thật làm gần đúng như vậy.
+Tỷ lệ pha trộn tốt nhất là tỷ lệ khiến đối thủ chọn phương án nào cũng thu được như nhau, nên họ không khai thác được mình.
+
+Ví dụ trung tâm là quả phạt đền trong bóng đá, với số liệu thật từ các giải hàng đầu Ý, Tây Ban Nha, Anh giai đoạn 1995–2000: cầu thủ sút nên sút về phía không thuận 38,3% số lần, thủ môn nên bay về phía đó 41,7% số lần, và tỷ lệ ghi bàn khi đó là 79,6%.
+
+Các cầu thủ thật làm gần đúng như vậy.
 
 Từ đó chương bàn về oẳn tù tì, thí nghiệm trong phòng thí nghiệm, cách tạo ra sự ngẫu nhiên, chiến lược hỗn hợp trong trò chơi vừa xung đột vừa có lợi ích chung, và các ứng dụng trong kinh doanh: phiếu giảm giá của Coke và Pepsi, kiểm tra ngẫu nhiên đồng hồ đỗ xe, xét nghiệm ma tuý, tên lửa mồi nhử.
 
@@ -738,7 +742,9 @@ Cho ba biểu thức bằng nhau: –5p + q = 3p + q – 1 cho 8p = 1; –5p + q
 
 Một điểm đáng chú ý về con số (nhận xét của người tổng hợp): Bao, thứ thắng được nhiều bậc nhất, lại được ra ít nhất (1/8), còn Kéo được ra nhiều nhất (5/8). Lý do là theo nguyên tắc bàng quan, mỗi người chọn tỷ lệ để đối thủ không khai thác được: Bao thắng lớn khi gặp Búa, nên đối thủ ra Búa ít; Búa ít xuất hiện thì Bao ít có cơ hội; Kéo khắc Bao và chỉ thua Búa một bậc, nên trở thành lựa chọn an toàn.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một chuỗi bán lẻ có 20 cửa hàng muốn chống gian lận thu ngân. Kiểm kê đột xuất toàn bộ 20 cửa hàng mỗi tuần tốn 200 triệu đồng mỗi tháng. Giả sử một thu ngân gian lận được trung bình 2 triệu đồng mỗi tháng nếu không bị phát hiện. Theo logic hình phạt kỳ vọng, chuỗi có thể chỉ kiểm tra ngẫu nhiên 2 cửa hàng mỗi tuần (xác suất mỗi cửa hàng bị kiểm trong một tuần là 10%, trong một tháng khoảng 34%) với chi phí 20 triệu đồng, miễn là hậu quả khi bị phát hiện (sa thải, bồi hoàn, mất khoản thưởng tích luỹ, tổng giả định 15 triệu đồng) đủ lớn để hình phạt kỳ vọng (khoảng 0,34 × 15 = 5,1 triệu đồng) vượt xa 2 triệu đồng gian lận.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một chuỗi bán lẻ có 20 cửa hàng muốn chống gian lận thu ngân. Kiểm kê đột xuất toàn bộ 20 cửa hàng mỗi tuần tốn 200 triệu đồng mỗi tháng. Giả sử một thu ngân gian lận được trung bình 2 triệu đồng mỗi tháng nếu không bị phát hiện.
+
+Theo logic hình phạt kỳ vọng, chuỗi có thể chỉ kiểm tra ngẫu nhiên 2 cửa hàng mỗi tuần (xác suất mỗi cửa hàng bị kiểm trong một tuần là 10%, trong một tháng khoảng 34%) với chi phí 20 triệu đồng, miễn là hậu quả khi bị phát hiện (sa thải, bồi hoàn, mất khoản thưởng tích luỹ, tổng giả định 15 triệu đồng) đủ lớn để hình phạt kỳ vọng (khoảng 0,34 × 15 = 5,1 triệu đồng) vượt xa 2 triệu đồng gian lận.
 
 Điều quan trọng là lịch kiểm tra phải thật sự ngẫu nhiên, bằng cách bốc thăm hay dùng số ngẫu nhiên, chứ không phải "tuần này cửa hàng 1 và 2, tuần sau cửa hàng 3 và 4"; một lịch luân phiên dễ đoán sẽ cho thu ngân biết chính xác lúc nào an toàn, đúng như cầu thủ ném bóng chày ném luân phiên bị người đánh bóng bắt bài.
 
@@ -895,87 +901,113 @@ flowchart LR
   n0 --- n1
   n2["`Vizzini đoán chén rượu độc theo vòng không dừng, nếu A thì B, nếu B thì A`"]
   n1 --- n2
-  n3["`Trong xung đột thuần túy, mọi lựa chọn cố định đều có cách đáp trả tốt nhất, nên không có cân bằng thuần túy`"]
+  n3["`Chú thích của tác giả: Westley bỏ độc cả hai chén, nên hãy hỏi họ có biết điều gì mình không biết`"]
   n1 --- n3
-  n4["`Phạt đền: sút Phải khi thủ môn bay Trái ghi bàn 93%, sút Trái khi thủ môn bay Phải ghi 95%`"]
+  n4["`Trong xung đột thuần túy, mọi lựa chọn cố định đều có cách đáp trả tốt nhất, nên không có cân bằng thuần túy`"]
   n1 --- n4
-  n5["`Cầu thủ nên sút về phía không thuận 38,3% số lần, thủ môn nên bay về phía đó 41,7%`"]
+  n5["`Phạt đền: sút Phải khi thủ môn bay Trái ghi bàn 93%, sút Trái khi thủ môn bay Phải ghi 95%`"]
   n1 --- n5
-  n6["`Khi đó tỷ lệ ghi bàn là 79,6% dù đối thủ làm gì`"]
+  n6["`Cầu thủ nên sút về phía không thuận 38,3% số lần, thủ môn nên bay về phía đó 41,7%`"]
   n1 --- n6
-  n7["`Hai con số 79,6 trùng nhau vì định lý minimax: maximin của một bên bằng minimax của bên kia`"]
+  n7["`Luôn sút Phải cho 70%, pha 50:50 cho 75,5%, pha 40:60 cho 79%`"]
   n1 --- n7
-  n8["`Mục 3–5 — Lý thuyết và thực tế, Quy tắc 5`"]
-  n0 --- n8
-  n9["`Palacios-Huerta, Ý, Tây Ban Nha, Anh 1995–2000: thực tế 40,0% và 42,3%, rất gần lý thuyết`"]
-  n8 --- n9
-  n10["`Quần vợt chuyên nghiệp cũng pha trộn đúng tỷ lệ vì cùng người gặp nhau nhiều lần với tiền cược lớn`"]
-  n8 --- n10
-  n11["`Quy tắc 5: chọn ngẫu nhiên giữa các chiến lược thuần túy theo tỷ lệ đối thủ không khai thác được`"]
-  n8 --- n11
-  n12["`Hai bên cùng theo Quy tắc 5 tạo thành cân bằng Nash trong chiến lược hỗn hợp`"]
-  n8 --- n12
-  n13["`Giải oẳn tù tì thế giới 2005 đầy nước gài, nhưng ít ai thắng đều qua các năm`"]
-  n8 --- n13
-  n14["`Thí nghiệm: người tham gia hầu như không dùng đồng xu để tạo ngẫu nhiên`"]
-  n8 --- n14
-  n15["`Mục 6–7 — Làm sao hành động ngẫu nhiên`"]
-  n0 --- n15
-  n16["`Ngẫu nhiên không phải luân phiên, tỷ lệ 60:40 không có nghĩa sáu bóng nhanh rồi bốn forkball`"]
-  n15 --- n16
-  n17["`Con người viết dãy ngẫu nhiên đổi chiều quá nhiều, mắc ngụy biện của con bạc`"]
-  n15 --- n17
-  n18["`Dùng cơ chế khách quan và bí mật như kim giây đồng hồ: giây 1–24 bóng nhanh nếu muốn 40:60`"]
-  n15 --- n18
-  n19["`Không được ỷ vào đối thủ đã pha trộn, phải tự giữ tỷ lệ tốt nhất để buộc họ giữ tỷ lệ của họ`"]
-  n15 --- n19
-  n20["`Tình huống chỉ xảy ra một lần: muốn làm đối phương bất ngờ thì làm chính mình bất ngờ`"]
-  n15 --- n20
-  n21["`Tỷ lệ đúng vẫn có lúc thua, nên giải thích chiến lược trước khi dùng`"]
-  n15 --- n21
-  n22["`Mục 8–9 — Trò chơi có lợi ích chung và pha trộn trong kinh doanh`"]
+  n8["`Ở tỷ lệ 38,3:61,7 tỷ lệ ghi bàn là 79,6% dù thủ môn làm gì`"]
+  n1 --- n8
+  n9["`Phép thử: nếu đối thủ biết trước lựa chọn của bạn mà bạn thiệt, thì nên ngẫu nhiên`"]
+  n1 --- n9
+  n10["`Hai con số 79,6 trùng nhau vì định lý minimax: maximin của một bên bằng minimax của bên kia`"]
+  n1 --- n10
+  n11["`Mục 3–5 — Lý thuyết và thực tế, Quy tắc 5`"]
+  n0 --- n11
+  n12["`Palacios-Huerta, Ý, Tây Ban Nha, Anh 1995–2000: thực tế 40,0% và 42,3%, rất gần lý thuyết`"]
+  n11 --- n12
+  n13["`Quần vợt chuyên nghiệp cũng pha trộn đúng tỷ lệ vì cùng người gặp nhau nhiều lần với tiền cược lớn`"]
+  n11 --- n13
+  n14["`Quy tắc 5: chọn ngẫu nhiên giữa các chiến lược thuần túy theo tỷ lệ đối thủ không khai thác được`"]
+  n11 --- n14
+  n15["`Hai bên cùng theo Quy tắc 5 tạo thành cân bằng Nash trong chiến lược hỗn hợp`"]
+  n11 --- n15
+  n16["`Minimax chỉ cho trò chơi hai người tổng bằng không, cân bằng Nash dùng cho mọi trò chơi`"]
+  n11 --- n16
+  n17["`Sút trái tệ (38 và 65) thì sút Phải là chiến lược trội, không cần pha trộn`"]
+  n11 --- n17
+  n18["`Oẳn tù tì: pha đều mỗi thứ 1/3 là cân bằng, kết quả trung bình bằng 0`"]
+  n11 --- n18
+  n19["`Giải 2005 do Andrew Bergel vô địch, hiệp hội khuyên nước gài như Quan liêu (ba lần Bao) thay cho Lối chơi Hỗn loạn`"]
+  n11 --- n19
+  n20["`Thủ môn Bồ Đào Nha đoán đúng mọi cú sút, cản ba quả phạt đền trước Anh ở World Cup 2006`"]
+  n11 --- n20
+  n21["`Thí nghiệm: người tham gia hầu như không tung đồng xu, một phần vì làm đúng từng chữ luật như người của Milgram`"]
+  n11 --- n21
+  n22["`Mục 6–7 — Làm sao hành động ngẫu nhiên`"]
   n0 --- n22
-  n23["`Fred và Barney pha trộn độc lập chỉ được 1,71, phối hợp theo trời mưa được 3,5`"]
+  n23["`Ngẫu nhiên không phải luân phiên, tỷ lệ 60:40 không có nghĩa sáu bóng nhanh rồi bốn forkball`"]
   n22 --- n23
-  n24["`Lợi ích chung thì phối hợp bằng tín hiệu chung hoặc luân phiên tốt hơn pha trộn độc lập`"]
+  n24["`Con người viết dãy ngẫu nhiên đổi chiều quá nhiều, sau 30 lần ngửa lần sau vẫn 50:50`"]
   n22 --- n24
-  n25["`Coke và Pepsi: 52 tuần, mỗi hãng khuyến mãi 26 tuần, không tuần nào trùng`"]
+  n25["`Quần vợt grand slam đổi chiều giao bóng hơi nhiều nhưng quá yếu để bị khai thác, oẳn tù tì ít ai thắng đều qua các năm`"]
   n22 --- n25
-  n26["`Hãng hàng không không cho biết còn bao nhiêu ghế giờ chót để khách khỏi chờ vé rẻ`"]
+  n26["`Dùng cơ chế khách quan và bí mật như kim giây đồng hồ: giây 1–24 bóng nhanh nếu muốn 40:60`"]
   n22 --- n26
-  n27["`Phạt đỗ xe 25 USD với xác suất bị bắt 1/25 cho hình phạt kỳ vọng 1 USD, đủ để người ta trả phí`"]
+  n27["`Không được ỷ vào đối thủ đã pha trộn, phải tự giữ tỷ lệ tốt nhất để buộc họ giữ tỷ lệ của họ`"]
   n22 --- n27
-  n28["`Kiểm tra ngẫu nhiên kèm mức phạt cao rẻ hơn kiểm tra toàn diện, như xét nghiệm ma túy`"]
+  n28["`Tình huống chỉ xảy ra một lần: muốn làm đối phương bất ngờ thì làm chính mình bất ngờ`"]
   n22 --- n28
-  n29["`IRS có vấn đề: tiền phạt nhỏ so với khả năng bị phát hiện`"]
+  n29["`Tỷ lệ đúng vẫn có lúc thua, nên giải thích chiến lược trước khi dùng`"]
   n22 --- n29
-  n30["`Mồi nhử: giấu tên lửa thật giữa nhiều mồi để dàn mỏng phòng không, thách thức của Star Wars`"]
-  n22 --- n30
-  n31["`Mục 10–11 — Cách tìm tỷ lệ cân bằng và tình huống Janken leo bậc`"]
-  n0 --- n31
-  n32["`Đại số: cho kết quả hai phương án của đối thủ bằng nhau, 23 = 60x nên x = 0,383`"]
-  n31 --- n32
-  n33["`Đồ thị: đỉnh chữ V ngược của cầu thủ và đáy chữ V của thủ môn cùng ở mức 79,6`"]
-  n31 --- n33
-  n34["`Thủ môn bắt bóng Phải giỏi hơn (70 xuống 60) thì lại bay Trái nhiều hơn, từ 41,7% lên 50%`"]
-  n31 --- n34
-  n35["`Cầu thủ sút Trái tăng từ 38,3% lên 47,1%, tỷ lệ ghi bàn giảm từ 79,6% xuống 76,5%`"]
-  n31 --- n35
-  n36["`Tỷ lệ của mỗi bên do kết quả của bên kia quyết định, nên thay đổi năng lực đổi tỷ lệ cả hai bên`"]
-  n31 --- n36
-  n37["`Janken leo bậc: tỷ lệ cân bằng Bao 1/8, Kéo 5/8, Búa 2/8`"]
-  n31 --- n37
-  n38["`Thông điệp xuyên suốt`"]
-  n0 --- n38
-  n39["`Sự dễ đoán là điểm yếu có thể bị khai thác khi lợi ích đối nghịch`"]
-  n38 --- n39
-  n40["`Hãy để một cơ chế khách quan quyết định thay vì cảm giác`"]
-  n38 --- n40
-  n41["`Đánh giá quyết định ngẫu nhiên theo chất lượng chiến lược, không theo kết quả một lần`"]
-  n38 --- n41
+  n30["`Mục 8–9 — Trò chơi có lợi ích chung và pha trộn trong kinh doanh`"]
+  n0 --- n30
+  n31["`Cuộc chiến giữa hai giới: Fred săn hươu 4/7, Barney 3/7 là cân bằng hỗn hợp`"]
+  n30 --- n31
+  n32["`Hai người lạc nhau 25/49 số lần, mỗi người chỉ được 1,71, thấp hơn cả 3`"]
+  n30 --- n32
+  n33["`Cân bằng hỗn hợp mong manh, và tỷ lệ của Fred do kết quả của Barney quyết định`"]
+  n30 --- n33
+  n34["`Phối hợp theo trời mưa buổi sáng thì mỗi người được 3,5`"]
+  n30 --- n34
+  n35["`Kinh doanh ít dùng ngẫu nhiên vì trò chơi không tổng bằng không và văn hóa muốn kiểm soát kết quả`"]
+  n30 --- n35
+  n36["`Coke và Pepsi: 52 tuần, mỗi hãng khuyến mãi 26 tuần, không tuần nào trùng, tức đã luân phiên`"]
+  n30 --- n36
+  n37["`Hãng hàng không không cho biết còn bao nhiêu ghế giờ chót để khách khỏi chờ vé rẻ`"]
+  n30 --- n37
+  n38["`Phạt đỗ xe 25 USD với xác suất bị bắt 1/25 cho hình phạt kỳ vọng 1 USD, đủ để người ta trả phí`"]
+  n30 --- n38
+  n39["`Kiểm tra ngẫu nhiên kèm mức phạt cao rẻ hơn kiểm tra toàn diện, như xét nghiệm ma túy`"]
+  n30 --- n39
+  n40["`IRS có vấn đề: tiền phạt nhỏ so với khả năng bị phát hiện`"]
+  n30 --- n40
+  n41["`Mồi nhử: giấu tên lửa thật giữa nhiều mồi để dàn mỏng phòng không, thách thức của Star Wars`"]
+  n30 --- n41
+  n42["`Đạn lép thời Thế chiến II buộc đối phương xử lý mọi quả đạn chưa nổ`"]
+  n30 --- n42
+  n43["`Mục 10–11 — Cách tìm tỷ lệ cân bằng và tình huống Janken leo bậc`"]
+  n0 --- n43
+  n44["`Đại số: cho kết quả hai phương án của đối thủ bằng nhau, 23 = 60x nên x = 0,383`"]
+  n43 --- n44
+  n45["`Đồ thị: đỉnh chữ V ngược của cầu thủ và đáy chữ V của thủ môn cùng ở mức 79,6`"]
+  n43 --- n45
+  n46["`Thủ môn bắt bóng Phải giỏi hơn (70 xuống 60) thì lại bay Trái nhiều hơn, từ 41,7% lên 50%`"]
+  n43 --- n46
+  n47["`Cầu thủ sút Trái tăng từ 38,3% lên 47,1%, tỷ lệ ghi bàn giảm từ 79,6% xuống 76,5%`"]
+  n43 --- n47
+  n48["`Cải thiện điểm yếu để không phải dùng nó thường xuyên`"]
+  n43 --- n48
+  n49["`Janken leo bậc: thắng bằng Bao lên 5 bậc, Kéo 2 bậc, Búa 1 bậc`"]
+  n43 --- n49
+  n50["`Cả ba chiến lược đều có mặt trong cân bằng: Bao 1/8, Kéo 5/8, Búa 2/8`"]
+  n43 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Sự dễ đoán là điểm yếu có thể bị khai thác khi lợi ích đối nghịch`"]
+  n51 --- n52
+  n53["`Hãy để một cơ chế khách quan quyết định thay vì cảm giác`"]
+  n51 --- n53
+  n54["`Đánh giá quyết định ngẫu nhiên theo chất lượng chiến lược, không theo kết quả một lần`"]
+  n51 --- n54
   class n0 root
-  class n1,n8,n15,n22,n31,n38 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n39,n40,n41 leaf
+  class n1,n11,n22,n30,n43,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54 leaf
 ```
 
 ## Nguồn

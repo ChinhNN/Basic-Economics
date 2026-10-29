@@ -569,7 +569,9 @@ Chương phân biệt cam kết (vô điều kiện) với đe doạ và hứa h
 ## Ba câu hỏi chương này trả lời
 
 1. **Làm sao bớt đi lựa chọn lại có thể làm mình lợi hơn?** Vì trong nhiều trò chơi, đối thủ chọn hành động dựa trên dự đoán về hành động của bạn. Khi bạn tự loại bỏ một lựa chọn một cách công khai và không đảo ngược được (ném vô lăng ra ngoài cửa sổ trong trò chơi kẻ nhát gan, để đồng hồ báo thức ở góc phòng), đối thủ buộc phải điều chỉnh theo hướng có lợi cho bạn. Trong ví dụ đồng hồ báo thức, "đặt báo thức" là chiến lược bị trội nếu coi lựa chọn của bản thân buổi sáng là cho sẵn (−2 so với 0; 8 so với 10), nhưng vì nó làm bản thân buổi sáng đổi từ nằm tiếp sang dậy, bản thân buổi tối nhận 8 điểm thay vì 0.
-2. **Đe doạ, hứa hẹn, cam kết, lời cảnh báo, lời trấn an khác nhau thế nào?** Cam kết là nước đi vô điều kiện đi trước. Đe doạ và hứa hẹn là quy tắc phản ứng có điều kiện, đặt trước nhưng thực hiện sau, và buộc người đặt làm điều trái với lợi ích của mình lúc thực hiện (đe doạ: phạt dù tốn kém; hứa hẹn: thưởng dù có thể nuốt lời). Nếu điều bạn tuyên bố là điều bạn vốn muốn làm thì đó chỉ là lời cảnh báo (với hình phạt) hoặc lời trấn an (với phần thưởng): chúng truyền thông tin chứ không thay đổi trò chơi. Ví dụ: B. B. Lean in sẵn điều khoản phản ứng hơn 1 USD cho mỗi 1 USD đối thủ hạ giá là đe doạ thật; in "hạ 40 xu cho mỗi 1 USD" chỉ là lời cảnh báo, vì 40 xu đã là phản ứng tối ưu.
+2. **Đe doạ, hứa hẹn, cam kết, lời cảnh báo, lời trấn an khác nhau thế nào?** Cam kết là nước đi vô điều kiện đi trước. Đe doạ và hứa hẹn là quy tắc phản ứng có điều kiện, đặt trước nhưng thực hiện sau, và buộc người đặt làm điều trái với lợi ích của mình lúc thực hiện (đe doạ: phạt dù tốn kém; hứa hẹn: thưởng dù có thể nuốt lời).
+
+   Nếu điều bạn tuyên bố là điều bạn vốn muốn làm thì đó chỉ là lời cảnh báo (với hình phạt) hoặc lời trấn an (với phần thưởng): chúng truyền thông tin chứ không thay đổi trò chơi. Ví dụ: B. B. Lean in sẵn điều khoản phản ứng hơn 1 USD cho mỗi 1 USD đối thủ hạ giá là đe doạ thật; in "hạ 40 xu cho mỗi 1 USD" chỉ là lời cảnh báo, vì 40 xu đã là phản ứng tối ưu.
 3. **Khi nào nên dùng đe doạ, khi nào dùng hứa hẹn, và đe doạ lớn tới đâu?** Đe doạ rẻ hơn nếu thành công (không phải thực hiện) và hợp với răn đe, vốn không cần hạn chót. Hứa hẹn hợp với cưỡng ép, vì cưỡng ép cần hạn chót và hứa hẹn thưởng cho việc làm sớm chống được chiến thuật cắt lát salami. Đe doạ nên giữ ở mức nhỏ nhất còn hiệu quả, vì luôn có khả năng phải thực hiện; khi không biết mức đó, người ta tăng dần rủi ro, tức chiến lược bên bờ vực, như Kennedy trong khủng hoảng Cuba (xác suất chiến tranh hạt nhân ông ước tính "từ một phần ba đến một nửa"). Chiến lược này có thể thất bại thảm khốc, như ở Thiên An Môn năm 1989.
 
 ## Khái niệm cần biết
@@ -1102,7 +1104,7 @@ Hai tác giả nhấn mạnh giá trị của việc tự trói tay, nhưng chí
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 6 trên một trang: năm nhánh lớn đi theo các mục 1–13 của phần Nội dung chi tiết (thay đổi trò chơi và cam kết, đe dọa và hứa hẹn cùng răn đe và cưỡng ép, cảnh báo và trấn an với điểm giống khác nhau, rõ ràng và mức độ của đe dọa, chiến lược bên bờ vực và tình huống cuối chương), mỗi nhánh ghi định nghĩa, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn đi theo các mục 1–13 của phần Nội dung chi tiết (thay đổi trò chơi và lịch sử, cam kết qua ví dụ đồng hồ báo thức, đe dọa và hứa hẹn cùng răn đe và cưỡng ép, cảnh báo và trấn an với nước đi của người khác, chọn giữa đe dọa và hứa hẹn cùng độ rõ ràng và mức độ, chiến lược bên bờ vực và tình huống cuối chương), mỗi nhánh ghi định nghĩa, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1111,89 +1113,115 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 6: có thể tự làm lợi cho mình bằng cách hạn chế lựa chọn hoặc cam kết trước một quy tắc phản ứng, miễn đối thủ thấy và tin`"]
-  n1["`Mục 1–3 — Thay đổi trò chơi và cam kết`"]
+  n1["`Mục 1–2 — Thay đổi trò chơi và đôi nét lịch sử`"]
   n0 --- n1
-  n2["`Mục tiêu năm mới: 30% bỏ trước tháng Hai, chỉ 1/5 giữ được sáu tháng`"]
+  n2["`Mục tiêu năm mới: 30% bỏ trước tháng Hai, chỉ 1 trên 5 giữ được sáu tháng (CNN)`"]
   n1 --- n2
-  n3["`Trò kẻ nhát gan: tháo vô lăng ném ra ngoài cho đối thủ thấy thì đối thủ buộc phải né`"]
+  n3["`Life: The Game của ABC: tất cả trừ một người giảm được 15 pound vì sợ ảnh bikini bị chiếu`"]
   n1 --- n3
-  n4["`Tự do lựa chọn là tự do để thua`"]
+  n4["`Nước đi chiến lược là hành động thay đổi trò chơi để bảo đảm kết quả tốt hơn cho người hành động`"]
   n1 --- n4
-  n5["`Odysseus trói mình vào cột buồm, các vua xưa trao đổi con tin để giữ lời`"]
+  n5["`Kẻ nhát gan: ném vô lăng ra ngoài cho đối thủ thấy thì đối thủ buộc phải né`"]
   n1 --- n5
-  n6["`Đặt đồng hồ báo thức ở góc phòng là chiến lược bị trội nhưng buộc bản thân buổi sáng phải dậy`"]
+  n6["`Tự do lựa chọn là tự do để thua, nhưng nếu cả hai cùng ném vô lăng thì va chạm`"]
   n1 --- n6
-  n7["`Với người đi trước, khái niệm chiến lược trội mất ý nghĩa`"]
+  n7["`Odysseus trói mình vào cột buồm, các vua trao đổi con tin để lời hứa hòa bình đáng tin`"]
   n1 --- n7
-  n8["`Cam kết thành công cần được quan sát thấy và không đảo ngược được`"]
+  n8["`Schelling đưa việc thay đổi trò chơi thành chủ đề trung tâm, Selten hình thức hóa bằng cân bằng hoàn hảo trong trò chơi con`"]
   n1 --- n8
-  n9["`Mục 4–6 — Đe dọa, hứa hẹn, răn đe và cưỡng ép`"]
+  n9["`Mục 3 — Cam kết: đồng hồ báo thức`"]
   n0 --- n9
-  n10["`Cam kết là vô điều kiện, đe dọa và hứa hẹn là quy tắc phản ứng có điều kiện`"]
+  n10["`Bản thân buổi tối kiên quyết chơi với bản thân buổi sáng yếu ý chí, kẻ có lợi thế đi sau`"]
   n9 --- n10
-  n11["`Quy tắc phản ứng phải đặt trước nhưng thực hiện sau, khi lúc đó nó trái lợi ích ngắn hạn của mình`"]
+  n11["`Đặt đồng hồ ở góc phòng, Clocky có bánh xe chạy trốn để buộc phải ra khỏi giường`"]
   n9 --- n11
-  n12["`Điều khoản bằng giá đối thủ biến trò chơi đồng thời thành phản ứng tự động, giữ giá 80 USD thay vì 40 USD`"]
+  n12["`Đặt báo thức tốn 2 điểm, chuông kêu làm nằm tiếp chỉ còn −5 nên bản thân buổi sáng dậy`"]
   n9 --- n12
-  n13["`Răn đe ngăn người khác làm một việc, cưỡng ép buộc họ làm một việc`"]
+  n13["`Bản thân buổi tối được 8 thay vì 0 dù đặt báo thức là chiến lược bị trội`"]
   n9 --- n13
-  n14["`Đe dọa hợp với răn đe vì không cần hạn chót và không tốn gì nếu thành công`"]
+  n14["`Với người đi trước trong trò chơi tuần tự, khái niệm chiến lược trội mất ý nghĩa`"]
   n9 --- n14
-  n15["`Hứa hẹn hợp với cưỡng ép, cần hạn chót và nên thưởng cho làm sớm`"]
+  n15["`Phần cái gì là khoa học, phần làm thế nào để đáng tin là nghệ thuật`"]
   n9 --- n15
-  n16["`Mục 7–9 — Cảnh báo, trấn an, nước đi của người khác, giống và khác giữa đe dọa và hứa hẹn`"]
+  n16["`Mục 4–6 — Đe dọa, hứa hẹn, răn đe và cưỡng ép`"]
   n0 --- n16
-  n17["`Lời cảnh báo chỉ báo trước điều mình vốn muốn làm, nên không phải nước đi chiến lược`"]
+  n17["`Cam kết là vô điều kiện, đe dọa và hứa hẹn là quy tắc phản ứng có điều kiện đặt trước`"]
   n16 --- n17
-  n18["`Lời trấn an là lời hứa làm điều mình vốn có lợi khi làm`"]
+  n18["`Không ăn rau bina thì không có tráng miệng: quy tắc phải nói trước khi đứa trẻ lén cho chó ăn`"]
   n16 --- n18
-  n19["`Đừng để người khác có khả năng đe dọa mình, nhưng có thể khuyến khích họ hứa đáng tin`"]
+  n19["`Điều khoản bằng giá đối thủ giữ giá 80 USD (lãi 72.000 USD) thay vì cân bằng 40 USD (lãi 40.000 USD)`"]
   n16 --- n19
-  n20["`Tôn Tử khuyên chừa đường thoát cho địch để địch không cam kết liều chết`"]
+  n20["`Răn đe ngăn người khác làm một việc, cưỡng ép buộc họ làm một việc họ lẽ ra không làm`"]
   n16 --- n20
-  n21["`Thế lưỡng nan của người tù: lời hứa im lặng của bên kia có thể làm cả hai cùng lợi`"]
+  n21["`Tên cướp giữ con tin là đe dọa cưỡng ép, Mỹ dọa đáp trả hạt nhân nếu Liên Xô tấn công NATO là đe dọa răn đe`"]
   n16 --- n21
-  n22["`Đe dọa thành công thì không tốn gì, hứa hẹn thành công thì phải trả`"]
+  n22["`Công tố viên hứa giảm án cho nhân chứng, mafia hứa bảo vệ đồng bọn giữ im lặng`"]
   n16 --- n22
-  n23["`Ranh giới mờ: kẻ trấn lột ở New York hứa không làm hại nếu được cho mượn 20 USD`"]
+  n23["`Không có đe dọa, phản ứng ít tệ nhất của Mỹ khi Liên Xô xâm lược là bỏ mặc Tây Âu`"]
   n16 --- n23
-  n24["`Mục 10–11 — Rõ ràng, chắc chắn và đe dọa quá lớn`"]
-  n0 --- n24
-  n25["`Đe dọa phải rõ ràng và chắc chắn, mức độ đủ răn đe nhưng nhỏ nhất có thể`"]
-  n24 --- n25
-  n26["`Đe dọa đập đầu vì lọ muối hay ném bom hạt nhân vì tranh chấp thương mại là không đáng tin`"]
-  n24 --- n26
-  n27["`Chia đe dọa thành nhiều bước nhỏ để chống chiến thuật salami, như trừ điểm theo từng phút nộp bài trễ`"]
-  n24 --- n27
-  n28["`Mục 12–13 — Chiến lược bên bờ vực và tình huống Hai cái sai giữ cho mọi việc đúng`"]
-  n0 --- n28
-  n29["`Bên bờ vực là cố ý tạo rủi ro mà cả hai đều sợ và không ai kiểm soát hoàn toàn`"]
-  n28 --- n29
-  n30["`L.A. Confidential tăng dần rủi ro 1/6, 1/4, 1/3, The Gods Must Be Crazy treo người trên trực thăng`"]
-  n28 --- n30
-  n31["`Khủng hoảng Cuba 1962: Kennedy ước xác suất chiến tranh từ một phần ba đến một nửa`"]
-  n28 --- n31
-  n32["`Kennedy muốn lùi vòng phong tỏa từ 800 về 500 dặm để Khrushchev có thêm thời gian`"]
-  n28 --- n32
-  n33["`Hai bên thăm dò sức chịu đựng tới khi một bên lùi hoặc thảm họa xảy ra`"]
-  n28 --- n33
-  n34["`Thiên An Môn 1989 đàn áp, Đông Đức và Tiệp Khắc nhượng bộ, Romania lật đổ Ceauşescu`"]
-  n28 --- n34
-  n35["`Nếu bạn sẽ chớp mắt trước thì đừng bắt đầu`"]
-  n28 --- n35
-  n36["`Hai cha mẹ phân công nhau phạt con để lời đe dọa đáng tin`"]
-  n28 --- n36
-  n37["`Thông điệp xuyên suốt`"]
-  n0 --- n37
-  n38["`Trước mỗi đối đầu hỏi xem có thay đổi được luật chơi, thứ tự đi hay kết quả của chính mình không`"]
-  n37 --- n38
-  n39["`Linh hoạt không phải lúc nào cũng là tài sản, tự trói tay công khai có thể là sức mạnh`"]
-  n37 --- n39
-  n40["`Điều khoản bằng giá đối thủ nghe có lợi cho người mua nhưng có thể duy trì giá cao`"]
-  n37 --- n40
+  n24["`Đe dọa hạt nhân xóa nhánh không đáp trả, Liên Xô chọn hiện trạng 0 thay vì −100`"]
+  n16 --- n24
+  n25["`Mục 7–8 — Cảnh báo, trấn an và nước đi của người khác`"]
+  n0 --- n25
+  n26["`Lời cảnh báo và lời trấn an chỉ báo điều mình vốn muốn làm, nên chỉ mang thông tin`"]
+  n25 --- n26
+  n27["`Phản ứng tối ưu của B. B. Lean là hạ 40 xu cho mỗi 1 USD đối thủ hạ, nên in như vậy chỉ là cảnh báo`"]
+  n25 --- n27
+  n28["`Điều khoản thấp hơn giá đối thủ là đe dọa thật vì phản ứng mạnh hơn mức tối ưu`"]
+  n25 --- n28
+  n29["`Để người khác cam kết trước khi đi sau có lợi, như đua thuyền America's Cup`"]
+  n25 --- n29
+  n30["`Tôn Tử khuyên chừa đường thoát cho địch để địch không cam kết chiến đấu đến chết`"]
+  n25 --- n30
+  n31["`Không bao giờ nên để người khác đe dọa mình, nhưng lời hứa của họ có thể làm cả hai cùng lợi`"]
+  n25 --- n31
+  n32["`Mục 9–11 — Chọn đe dọa hay hứa hẹn, rõ ràng, chắc chắn và đe dọa quá lớn`"]
+  n0 --- n32
+  n33["`Kẻ trấn lột hứa không làm đau nếu được cho mượn 20 USD: khác biệt chỉ ở việc đâu là hiện trạng`"]
+  n32 --- n33
+  n34["`Đe dọa thành công thì không tốn gì, hứa hẹn thành công thì phải trả thưởng`"]
+  n32 --- n34
+  n35["`Stalin chỉ dùng gậy là trại Gulag, thất bại vì đánh giá thành tích tùy tiện và tham nhũng`"]
+  n32 --- n35
+  n36["`Răn đe không cần hạn chót nên hợp với đe dọa, cưỡng ép cần hạn chót và hợp với hứa thưởng làm sớm`"]
+  n32 --- n36
+  n37["`Chiến thuật cắt lát salami: đứa trẻ lần lữa dọn phòng từng chút một`"]
+  n32 --- n37
+  n38["`Thưởng tăng dần theo sản lượng tốt hơn ngưỡng có hoặc không, trừ điểm theo từng phút nộp bài trễ`"]
+  n32 --- n38
+  n39["`Dọa đập vỡ đầu vì lọ muối hay ném bom hạt nhân vì thịt bò là quá lớn để được tin`"]
+  n32 --- n39
+  n40["`Giữ đe dọa ở mức nhỏ nhất còn hiệu quả vì luôn có rủi ro phải thực hiện`"]
+  n32 --- n40
+  n41["`Mục 12–13 — Chiến lược bên bờ vực và tình huống Hai cái sai giữ cho mọi việc đúng`"]
+  n0 --- n41
+  n42["`Bud White trong L.A. Confidential tăng dần rủi ro 1/6, 1/4, 1/3 cho tới khi Fontaine khai`"]
+  n41 --- n42
+  n43["`Bên bờ vực là cố ý tạo rủi ro cả hai cùng sợ, bờ vực là con dốc trơn chứ không phải vách đứng`"]
+  n41 --- n43
+  n44["`Khủng hoảng Cuba 1962: Kennedy ước xác suất chiến tranh hạt nhân từ một phần ba đến một nửa`"]
+  n41 --- n44
+  n45["`Sương mù chiến tranh: Kennedy muốn dời vòng phong tỏa từ 800 về 500 dặm nhưng tàu Marcula cho thấy nó không được dời`"]
+  n41 --- n45
+  n46["`Thiên An Môn 1989 thành thảm sát, Đông Đức và Tiệp Khắc nhượng bộ, Romania xử tử Ceauşescu`"]
+  n41 --- n46
+  n47["`Nếu bạn sẽ chớp mắt trước thì đừng bước lên con đường này`"]
+  n41 --- n47
+  n48["`Hai cha mẹ phân công phạt con, phá thỏa thuận với nhau còn tệ hơn phạt con`"]
+  n41 --- n48
+  n49["`Dean Karlan lấy 15.000 USD của bạn vượt 15 pound, mức phạt 1.000 USD mỗi pound trên 175 pound`"]
+  n41 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Trước mỗi đối đầu hỏi xem có thay đổi được luật chơi, thứ tự đi hay kết quả của chính mình không`"]
+  n50 --- n51
+  n52["`Một tuyên bố chỉ thay đổi hành vi người khác khi nó trái điều mình vốn muốn làm và được làm cho đáng tin`"]
+  n50 --- n52
+  n53["`Điều khoản bằng giá đối thủ nghe có lợi cho người mua nhưng có thể duy trì giá cao`"]
+  n50 --- n53
   class n0 root
-  class n1,n9,n16,n24,n28,n37 branch
-  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40 leaf
+  class n1,n9,n16,n25,n32,n41,n50 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53 leaf
 ```
 
 ## Nguồn

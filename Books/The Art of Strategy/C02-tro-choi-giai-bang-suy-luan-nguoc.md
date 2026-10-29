@@ -2,11 +2,17 @@
 
 ## Ý chính
 
-Hai tác giả muốn người đọc nắm **Quy tắc 1 của chiến lược: nhìn về phía trước và suy luận ngược lại** (look forward and reason backward). Trong một trò chơi mà người chơi đi lần lượt, người đi trước phải dự đoán người đi sau sẽ phản ứng thế nào ở mọi tình huống có thể xảy ra, rồi dùng dự đoán đó để chọn nước đi hiện tại.
+Hai tác giả muốn người đọc nắm **Quy tắc 1 của chiến lược: nhìn về phía trước và suy luận ngược lại** (look forward and reason backward).
+
+Trong một trò chơi mà người chơi đi lần lượt, người đi trước phải dự đoán người đi sau sẽ phản ứng thế nào ở mọi tình huống có thể xảy ra, rồi dùng dự đoán đó để chọn nước đi hiện tại.
 
 Ví dụ trung tâm là trò chơi 21 lá cờ trong chương trình truyền hình *Survivor: Thailand*: hai đội lần lượt nhổ 1, 2 hoặc 3 lá cờ, đội nhổ lá cuối cùng thắng; đội nào luôn để lại cho đối thủ một số cờ chia hết cho 4 (20, 16, 12, 8, 4) thì chắc thắng, nhưng cả hai đội đều chơi sai gần hết các nước.
 
-Từ đó chương đi tiếp ba hướng: thí nghiệm trò chơi tối hậu thư cho thấy con người không chỉ quan tâm tới tiền của mình; cờ vua cho thấy với cây quá phức tạp, cần kết hợp suy luận ngược với kinh nghiệm đánh giá thế cờ; và trận Orange Bowl 1984 cho thấy suy luận ngược giúp sắp xếp đúng thứ tự các nước đi mạo hiểm.
+Từ đó chương đi tiếp ba hướng:
+
+- thí nghiệm trò chơi tối hậu thư cho thấy con người không chỉ quan tâm tới tiền của mình;
+- cờ vua cho thấy với cây quá phức tạp, cần kết hợp suy luận ngược với kinh nghiệm đánh giá thế cờ;
+- và trận Orange Bowl 1984 cho thấy suy luận ngược giúp sắp xếp đúng thứ tự các nước đi mạo hiểm.
 
 ## Sơ đồ
 
