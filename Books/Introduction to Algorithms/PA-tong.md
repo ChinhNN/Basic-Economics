@@ -8,7 +8,7 @@ Phụ lục A muốn người đọc nắm hai việc: **biết sẵn một bộ
 
 Mục A.1 liệt kê không chứng minh: định nghĩa tổng hữu hạn và chuỗi vô hạn (hội tụ, phân kỳ, hội tụ tuyệt đối); tính tuyến tính, kể cả với ký hiệu Θ bên trong tổng; chuỗi số học Σₖ₌₁ⁿ k = n(n + 1)/2 = Θ(n²) (A.1)–(A.2); tổng bình phương n(n + 1)(2n + 1)/6 (A.3) và lập phương n²(n + 1)²/4 (A.4); chuỗi hình học (x^(n+1) − 1)/(x − 1) (A.5) và chuỗi hình học giảm vô hạn 1/(1 − x) khi |x| < 1 (A.6); số điều hoà Hₙ = ln n + O(1) (A.7); lấy đạo hàm chuỗi hình học được Σ k xᵏ = x/(1 − x)² (A.8); tổng lồng nhau Σ (aₖ − aₖ₋₁) = aₙ − a₀ (A.9); tích và đổi tích thành tổng bằng logarit.
 
-Mục A.2 trình bày năm kỹ thuật chặn tổng: (1) quy nạp toán học, để chứng minh giá trị chính xác hoặc một cận — kèm cảnh báo về lỗi "chứng minh" Σ k = O(n) khi dùng ký hiệu O trong bước quy nạp; (2) chặn từng số hạng, bằng số hạng lớn nhất hoặc bằng một chuỗi hình học khi tỷ số hai số hạng liên tiếp ≤ r < 1 hằng số — kèm cảnh báo chuỗi điều hoà có tỷ số < 1 nhưng vẫn phân kỳ; (3) tách tổng, bỏ một số hằng số hạng đầu hoặc chia dải chỉ số thành nhiều khúc, ví dụ chứng minh Hₙ ≤ lg n + 1 (A.10); (4) xấp xỉ bằng tích phân cho hàm đơn điệu (A.11), (A.12), cho ln(n + 1) ≤ Hₙ ≤ ln n + 1 (A.13), (A.14).
+Mục A.2 trình bày bốn nhóm kỹ thuật chặn tổng: (1) quy nạp toán học, để chứng minh giá trị chính xác hoặc một cận — kèm cảnh báo về lỗi "chứng minh" Σ k = O(n) khi dùng ký hiệu O trong bước quy nạp; (2) chặn từng số hạng, bằng số hạng lớn nhất hoặc bằng một chuỗi hình học khi tỷ số hai số hạng liên tiếp ≤ r < 1 hằng số — kèm cảnh báo chuỗi điều hoà có tỷ số < 1 nhưng vẫn phân kỳ; (3) tách tổng, bỏ một số hằng số hạng đầu hoặc chia dải chỉ số thành nhiều khúc, ví dụ chứng minh Hₙ ≤ lg n + 1 (A.10); (4) xấp xỉ bằng tích phân cho hàm đơn điệu (A.11), (A.12), cho ln(n + 1) ≤ Hₙ ≤ ln n + 1 (A.13), (A.14).
 
 Bài toán A-1 yêu cầu cận chặt cho Σ kʳ, Σ lgˢ k và Σ kʳ lgˢ k.
 
@@ -102,7 +102,7 @@ Bài toán A-1 yêu cầu cận chặt cho Σ kʳ, Σ lgˢ k và Σ kʳ lgˢ k.
 ### Mục A.2 — Chặn tổng (Bounding summations, trang 1149–1156)
 
 ```text
-       Nhiều kỹ thuật chặn tổng mô tả thời gian chạy; năm kỹ thuật hay dùng:
+       Nhiều kỹ thuật chặn tổng mô tả thời gian chạy; bốn nhóm kỹ thuật hay dùng:
                                 │
                                 ▼
        (1) QUY NẠP TOÁN HỌC
