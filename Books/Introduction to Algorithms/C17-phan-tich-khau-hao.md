@@ -1,16 +1,14 @@
 # Chương 17 — Phân tích khấu hao (Amortized Analysis)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần IV "Advanced Design and Analysis Techniques" (Các kỹ thuật thiết kế và phân tích nâng cao), Chương 17 "Amortized Analysis", trang 451–478.
-**Tác giả:** Thomas H. Cormen (Dartmouth), Charles E. Leiserson (MIT), Ronald L. Rivest (MIT), Clifford Stein (Columbia) — bốn nhà khoa học máy tính viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là "CLRS".
-**Vị trí trong lập luận của cả cuốn sách:** Phần IV gom ba kỹ thuật "nâng cao" không gắn với một bài toán cụ thể. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) dạy quy hoạch động và Chương 16 ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) dạy thuật toán tham lam — hai kỹ thuật *thiết kế*. Chương 17 là kỹ thuật *phân tích*: thay vì chặn trên chi phí từng thao tác riêng lẻ trong trường hợp xấu nhất, ta chặn trên tổng chi phí của cả một dãy thao tác rồi chia đều, và vẫn có bảo đảm cho trường hợp xấu nhất. Chương dùng lại ngăn xếp của Mục 10.1 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)), khái niệm hệ số tải của bảng băm ở Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)), và trong các bài toán cuối chương dùng cây đỏ-đen của Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) và cây tìm kiếm nhị phân bổ sung thuộc tính kích thước của Chương 14 ([C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)). Phần V ngay sau đó dựa nặng vào chương này: đống Fibonacci ở Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) chỉ có độ phức tạp tốt theo nghĩa khấu hao (phân tích bằng phương pháp thế năng), và rừng tập rời nhau ở Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) cũng được phân tích bằng phương pháp thế năng. Chương 18 về cây B ([C18-cay-b.md](C18-cay-b.md)) mở đầu Phần V.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **một thao tác riêng lẻ có thể rất đắt, nhưng nếu các thao tác đắt hiếm và phải "được chuẩn bị" bởi nhiều thao tác rẻ trước đó, thì tổng chi phí của mọi dãy n thao tác vẫn chỉ là O(n) — tức chi phí khấu hao O(1) mỗi thao tác — và đây là bảo đảm cho trường hợp xấu nhất, không dùng xác suất.** Chương trình bày ba phương pháp: (1) **phân tích gộp** (aggregate analysis) — chứng minh tổng chi phí T(n) của n thao tác bất kỳ rồi gán mỗi thao tác chi phí T(n)/n; (2) **phương pháp kế toán** (accounting method) — gán cho mỗi loại thao tác một chi phí khấu hao có thể khác chi phí thực, phần trội được cất thành "tín dụng" trên từng đối tượng cụ thể và tổng tín dụng không bao giờ âm; (3) **phương pháp thế năng** (potential method) — định nghĩa hàm thế năng Φ của cả cấu trúc dữ liệu, chi phí khấu hao ĉᵢ = cᵢ + Φ(Dᵢ) − Φ(Dᵢ₋₁), và nếu Φ(Dₙ) ≥ Φ(D₀) thì Σĉᵢ chặn trên Σcᵢ. Ba phương pháp được minh hoạ trên hai ví dụ: ngăn xếp có thêm thao tác MULTIPOP (n thao tác tốn O(n), dù một MULTIPOP có thể tốn O(n)) và bộ đếm nhị phân k bit với INCREMENT (n lần tăng tốn dưới 2n lần lật bit, dù một lần tăng có thể lật k bit). Ứng dụng lớn là **bảng động** (dynamic table): nhân đôi kích thước khi bảng đầy cho chi phí khấu hao mỗi lần chèn không quá 3; nếu cho phép cả xoá, phải thu nhỏ một nửa khi hệ số tải xuống dưới 1/4 (chứ không phải 1/2) thì mọi thao tác mới có chi phí khấu hao O(1) và hệ số tải luôn ≥ 1/4.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chương không có mục khó (đánh dấu sao) nào** trong mục lục; cả bốn mục 17.1–17.4 đều là nội dung chính.
-> - **Lớp chữ PDF hỏng ký hiệu toán ở gần như mọi công thức** (ví dụ `yci D ciC ˆ.Di //NUL ˆ.Di /NUL1/` là ĉᵢ = cᵢ + Φ(Dᵢ) − Φ(Dᵢ₋₁); `˛.T /` là α(T); `‚.nk/` là Θ(nk); dấu ≥, ≤ bị mất hoàn toàn trong các dòng như `ˆ.Di / ˆ.D0/`). Người tổng hợp đã đọc lại từ ảnh trang mọi pseudocode (MULTIPOP, INCREMENT, TABLE-INSERT), Hình 17.1–17.4, các phép tính chi phí khấu hao trong Mục 17.4 và đề Bài toán 17-3, 17-4, 17-5. Bảng của Hình 17.2 (cột "Total cost": 0, 1, 3, 4, 7, 8, 10, 11, 15, 16, 18, 19, 22, 23, 25, 26, 31) đã được tính lại và khớp.
-> - **Một chỗ dễ hiểu nhầm trong lập luận kế toán cho bảng động (trang 465–466):** sách nói "ngay sau một lần mở rộng, kích thước bảng là m và bảng chứa m/2 phần tử", rồi "bảng sẽ không đầy lại cho tới khi ta chèn thêm m/2 − 1 phần tử". Từ m/2 lên m phần tử cần m/2 lần chèn; con số m/2 − 1 chỉ đúng nếu coi lần chèn gây ra việc mở rộng (lần chèn đưa phần tử thứ m/2 + 1 vào) là lần chèn đầu tiên đã được tính riêng. Kết luận (mỗi phần tử có 1 đô la khi bảng đầy) không đổi; bản tổng hợp trình bày theo cách đếm rõ ràng hơn.
-> - **Lỗi đã biết của ấn bản 3:** người tổng hợp không chắc chắn về mục errata nào cho chương này nên không liệt kê.
-> - **Sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** trong ấn bản thứ tư (2022), phân tích khấu hao trở thành Chương 16 (vì các chương trước được sắp xếp lại); nội dung cốt lõi — ba phương pháp, ngăn xếp MULTIPOP, bộ đếm nhị phân, bảng động — vẫn giữ.
+Tác giả muốn người đọc hiểu rằng **một thao tác riêng lẻ có thể rất đắt, nhưng nếu các thao tác đắt hiếm và phải "được chuẩn bị" bởi nhiều thao tác rẻ trước đó, thì tổng chi phí của mọi dãy n thao tác vẫn chỉ là O(n) — tức chi phí khấu hao O(1) mỗi thao tác — và đây là bảo đảm cho trường hợp xấu nhất, không dùng xác suất.**
+
+Chương trình bày ba phương pháp: (1) **phân tích gộp** (aggregate analysis) — chứng minh tổng chi phí T(n) của n thao tác bất kỳ rồi gán mỗi thao tác chi phí T(n)/n; (2) **phương pháp kế toán** (accounting method) — gán cho mỗi loại thao tác một chi phí khấu hao có thể khác chi phí thực, phần trội được cất thành "tín dụng" trên từng đối tượng cụ thể và tổng tín dụng không bao giờ âm; (3) **phương pháp thế năng** (potential method) — định nghĩa hàm thế năng Φ của cả cấu trúc dữ liệu, chi phí khấu hao ĉᵢ = cᵢ + Φ(Dᵢ) − Φ(Dᵢ₋₁), và nếu Φ(Dₙ) ≥ Φ(D₀) thì Σĉᵢ chặn trên Σcᵢ.
+
+Ba phương pháp được minh hoạ trên hai ví dụ: ngăn xếp có thêm thao tác MULTIPOP (n thao tác tốn O(n), dù một MULTIPOP có thể tốn O(n)) và bộ đếm nhị phân k bit với INCREMENT (n lần tăng tốn dưới 2n lần lật bit, dù một lần tăng có thể lật k bit).
+
+Ứng dụng lớn là **bảng động** (dynamic table): nhân đôi kích thước khi bảng đầy cho chi phí khấu hao mỗi lần chèn không quá 3; nếu cho phép cả xoá, phải thu nhỏ một nửa khi hệ số tải xuống dưới 1/4 (chứ không phải 1/2) thì mọi thao tác mới có chi phí khấu hao O(1) và hệ số tải luôn ≥ 1/4.
 
 ## Sơ đồ
 
@@ -434,7 +432,9 @@ Lập luận "mỗi phần tử chỉ bị lấy ra một lần cho mỗi lần 
 
 ### 3. Phương pháp kế toán (The accounting method, trang 456–459)
 
-Trong phương pháp kế toán, ta thu các mức phí khác nhau cho các thao tác khác nhau; một số thao tác bị thu nhiều hơn hoặc ít hơn chi phí thực. Số tiền thu của một thao tác gọi là **chi phí khấu hao** của nó. Khi chi phí khấu hao vượt chi phí thực, phần chênh được gán cho các đối tượng cụ thể trong cấu trúc dữ liệu dưới dạng **tín dụng**. Tín dụng có thể trả cho các thao tác sau có chi phí khấu hao nhỏ hơn chi phí thực. Có thể coi chi phí khấu hao của một thao tác được chia thành chi phí thực và phần tín dụng được gửi vào hoặc rút ra. Các thao tác khác nhau có thể có chi phí khấu hao khác nhau — khác với phân tích gộp, nơi mọi thao tác có cùng chi phí khấu hao.
+Trong phương pháp kế toán, ta thu các mức phí khác nhau cho các thao tác khác nhau; một số thao tác bị thu nhiều hơn hoặc ít hơn chi phí thực. Số tiền thu của một thao tác gọi là **chi phí khấu hao** của nó. Khi chi phí khấu hao vượt chi phí thực, phần chênh được gán cho các đối tượng cụ thể trong cấu trúc dữ liệu dưới dạng **tín dụng**. Tín dụng có thể trả cho các thao tác sau có chi phí khấu hao nhỏ hơn chi phí thực.
+
+Có thể coi chi phí khấu hao của một thao tác được chia thành chi phí thực và phần tín dụng được gửi vào hoặc rút ra. Các thao tác khác nhau có thể có chi phí khấu hao khác nhau — khác với phân tích gộp, nơi mọi thao tác có cùng chi phí khấu hao.
 
 Phải chọn chi phí khấu hao cẩn thận. Muốn dùng chi phí khấu hao để chứng minh chi phí trung bình mỗi thao tác trong trường hợp xấu nhất là nhỏ, tổng chi phí khấu hao của dãy phải là chặn trên của tổng chi phí thực, và điều này phải đúng với *mọi* dãy thao tác. Ký hiệu cᵢ là chi phí thực và ĉᵢ là chi phí khấu hao của thao tác thứ i, ta đòi hỏi
 
@@ -458,7 +458,9 @@ Chi phí thực: PUSH 1, POP 1, MULTIPOP min(k, s), với k là tham số của 
 
 Chi phí khấu hao của MULTIPOP là hằng số (0) trong khi chi phí thực thay đổi. Ở đây cả ba chi phí khấu hao đều là hằng số; nói chung chi phí khấu hao của các thao tác có thể khác nhau, thậm chí khác nhau về bậc tiệm cận.
 
-Lập luận bằng tiền: mỗi đơn vị chi phí là một tờ 1 đô la. Bắt đầu với ngăn xếp rỗng. Nhớ lại hình ảnh ở Mục 10.1: ngăn xếp giống chồng đĩa trong căng tin. Khi đẩy một đĩa lên, ta dùng 1 đô la trả chi phí thực của việc đẩy và còn 1 đô la tín dụng (trong 2 đô la đã thu), đặt lên trên chiếc đĩa. Tại mọi thời điểm, mỗi đĩa trong chồng có 1 đô la trên nó. Đô la đó là khoản trả trước cho việc lấy đĩa ra. Khi thực hiện POP, ta không thu gì và trả chi phí thực bằng đô la trên đĩa. Tương tự, MULTIPOP cũng không thu gì: lấy đĩa thứ nhất thì dùng đô la trên đĩa thứ nhất, lấy đĩa thứ hai dùng đô la trên đĩa thứ hai, v.v. Vì mỗi đĩa có 1 đô la và số đĩa luôn không âm, tổng tín dụng luôn không âm. Vậy với mọi dãy n thao tác PUSH, POP, MULTIPOP, tổng chi phí khấu hao (≤ 2n, tức O(n)) là chặn trên của tổng chi phí thực, nên chi phí thực cũng là O(n).
+Lập luận bằng tiền: mỗi đơn vị chi phí là một tờ 1 đô la. Bắt đầu với ngăn xếp rỗng. Nhớ lại hình ảnh ở Mục 10.1: ngăn xếp giống chồng đĩa trong căng tin. Khi đẩy một đĩa lên, ta dùng 1 đô la trả chi phí thực của việc đẩy và còn 1 đô la tín dụng (trong 2 đô la đã thu), đặt lên trên chiếc đĩa. Tại mọi thời điểm, mỗi đĩa trong chồng có 1 đô la trên nó. Đô la đó là khoản trả trước cho việc lấy đĩa ra.
+
+Khi thực hiện POP, ta không thu gì và trả chi phí thực bằng đô la trên đĩa. Tương tự, MULTIPOP cũng không thu gì: lấy đĩa thứ nhất thì dùng đô la trên đĩa thứ nhất, lấy đĩa thứ hai dùng đô la trên đĩa thứ hai, v.v. Vì mỗi đĩa có 1 đô la và số đĩa luôn không âm, tổng tín dụng luôn không âm. Vậy với mọi dãy n thao tác PUSH, POP, MULTIPOP, tổng chi phí khấu hao (≤ 2n, tức O(n)) là chặn trên của tổng chi phí thực, nên chi phí thực cũng là O(n).
 
 Ví dụ: dãy PUSH, PUSH, PUSH, MULTIPOP(S, 2), PUSH, POP. Thu phí: 2 + 2 + 2 + 0 + 2 + 0 = 8. Chi phí thực: 1 + 1 + 1 + 2 + 1 + 1 = 7. Tín dụng sau mỗi bước: 1, 2, 3, 1, 2, 1 — luôn bằng số đĩa và không âm; cuối cùng 8 − 7 = 1 đô la trên đĩa còn lại.
 
@@ -637,7 +639,9 @@ Bảng chạy tay cho 9 lần chèn đầu (kích thước, số phần tử là
 | 8 | không | 1 | 8 | 8 | 15 | 24 |
 | 9 | có (8 → 16) | 9 | 16 | 9 | 24 | 27 |
 
-**Phương pháp kế toán.** Cách này cho cảm giác vì sao chi phí khấu hao nên là 3. Trực giác: mỗi phần tử trả cho 3 lần chèn sơ cấp — chèn chính nó vào bảng hiện tại, chép chính nó khi bảng mở rộng, và chép *một phần tử khác đã từng được chép một lần* khi bảng mở rộng. Cụ thể, giả sử ngay sau một lần mở rộng bảng có kích thước m; khi đó bảng chứa m/2 phần tử cũ và không có tín dụng nào. Thu 3 đô la cho mỗi lần chèn: 1 đô la trả ngay cho lần chèn sơ cấp, 1 đô la đặt lên chính phần tử vừa chèn, 1 đô la đặt lên một trong m/2 phần tử đã có sẵn trong bảng (chưa có tiền). Để bảng từ m/2 lên m phần tử cần m/2 lần chèn — tính cả lần chèn đã gây ra việc mở rộng (sách viết "thêm m/2 − 1 phần tử" sau lần chèn đó). Sau m/2 lần chèn ấy, mỗi phần tử mới có 1 đô la và m/2 phần tử cũ cũng mỗi phần tử 1 đô la; vậy khi bảng đầy, mọi phần tử đều có 1 đô la để trả việc chép mình sang bảng mới ở lần mở rộng kế tiếp.
+**Phương pháp kế toán.** Cách này cho cảm giác vì sao chi phí khấu hao nên là 3. Trực giác: mỗi phần tử trả cho 3 lần chèn sơ cấp — chèn chính nó vào bảng hiện tại, chép chính nó khi bảng mở rộng, và chép *một phần tử khác đã từng được chép một lần* khi bảng mở rộng.
+
+Cụ thể, giả sử ngay sau một lần mở rộng bảng có kích thước m; khi đó bảng chứa m/2 phần tử cũ và không có tín dụng nào. Thu 3 đô la cho mỗi lần chèn: 1 đô la trả ngay cho lần chèn sơ cấp, 1 đô la đặt lên chính phần tử vừa chèn, 1 đô la đặt lên một trong m/2 phần tử đã có sẵn trong bảng (chưa có tiền). Để bảng từ m/2 lên m phần tử cần m/2 lần chèn — tính cả lần chèn đã gây ra việc mở rộng (sách viết "thêm m/2 − 1 phần tử" sau lần chèn đó). Sau m/2 lần chèn ấy, mỗi phần tử mới có 1 đô la và m/2 phần tử cũ cũng mỗi phần tử 1 đô la; vậy khi bảng đầy, mọi phần tử đều có 1 đô la để trả việc chép mình sang bảng mới ở lần mở rộng kế tiếp.
 
 **Phương pháp thế năng.** Tác giả dùng phương pháp này cho n lần TABLE-INSERT, và sẽ dùng nó ở Mục 17.4.2 để thiết kế TABLE-DELETE có chi phí khấu hao O(1). Ta muốn hàm thế năng bằng 0 ngay sau một lần mở rộng nhưng tăng dần tới kích thước bảng khi bảng đầy, để thế năng trả được lần mở rộng kế tiếp. Một lựa chọn:
 
@@ -740,7 +744,9 @@ Thế năng của bảng rỗng là 0 và thế năng không bao giờ âm (nhá
 
 Tính chất của Φ: khi α = 1/2, Φ = 0. Khi α = 1, T.size = T.num nên Φ(T) = T.num — đủ trả cho một lần mở rộng nếu có phần tử được chèn. Khi α = 1/4, T.size = 4·T.num nên Φ(T) = 2·T.num − T.num = T.num — đủ trả cho một lần thu nhỏ nếu có phần tử bị xoá.
 
-**Hình 17.4** vẽ numᵢ (đường mảnh), sizeᵢ (đường chấm) và Φᵢ (đường đậm) cho một dãy khoảng 48 thao tác chèn và xoá. Dãy bắt đầu bằng chèn liên tục: bảng mở rộng 1 → 2 → 4 → 8 → 16 → 32 (lần mở rộng cuối ở thao tác 17), Φ có hình răng cưa như Hình 17.3 với đỉnh 16 tại i = 16. Sau đó là chuỗi xoá: num giảm từ 17; Φ về 0 khi num = 16 (α = 1/2) rồi tăng lại theo nhánh size/2 − num, đạt 8 khi num = 8 (α = 1/4); lần xoá tiếp theo đưa num về 7 < 32/4 và thu nhỏ bảng về 16, Φ rơi xuống 16/2 − 7 = 1. Phần còn lại xen kẽ chèn và xoá: num dao động, Φ dao động gần 0, và có thêm một lần thu nhỏ từ 16 xuống 8 khi num xuống dưới 4, rồi bảng tiếp tục nhỏ lại ở cuối dãy. Chú thích hình nhấn mạnh: ngay trước mỗi lần mở rộng *hoặc* thu nhỏ, thế năng đã tích tụ bằng số phần tử trong bảng.
+**Hình 17.4** vẽ numᵢ (đường mảnh), sizeᵢ (đường chấm) và Φᵢ (đường đậm) cho một dãy khoảng 48 thao tác chèn và xoá. Dãy bắt đầu bằng chèn liên tục: bảng mở rộng 1 → 2 → 4 → 8 → 16 → 32 (lần mở rộng cuối ở thao tác 17), Φ có hình răng cưa như Hình 17.3 với đỉnh 16 tại i = 16.
+
+Sau đó là chuỗi xoá: num giảm từ 17; Φ về 0 khi num = 16 (α = 1/2) rồi tăng lại theo nhánh size/2 − num, đạt 8 khi num = 8 (α = 1/4); lần xoá tiếp theo đưa num về 7 < 32/4 và thu nhỏ bảng về 16, Φ rơi xuống 16/2 − 7 = 1. Phần còn lại xen kẽ chèn và xoá: num dao động, Φ dao động gần 0, và có thêm một lần thu nhỏ từ 16 xuống 8 khi num xuống dưới 4, rồi bảng tiếp tục nhỏ lại ở cuối dãy. Chú thích hình nhấn mạnh: ngay trước mỗi lần mở rộng *hoặc* thu nhỏ, thế năng đã tích tụ bằng số phần tử trong bảng.
 
 **Phân tích chính xác.** Ký hiệu cᵢ là chi phí thực, ĉᵢ chi phí khấu hao theo Φ, numᵢ, sizeᵢ, αᵢ, Φᵢ là số phần tử, kích thước, hệ số tải, thế năng sau thao tác thứ i. Ban đầu num₀ = 0, size₀ = 0, α₀ = 1, Φ₀ = 0.
 
@@ -801,7 +807,9 @@ Tóm lại, vì chi phí khấu hao của mỗi thao tác bị chặn trên bở
 
 #### Ví dụ hôm nay
 
-Bảng động chính là mảng động có trong mọi ngôn ngữ (theo hiểu biết của người tổng hợp, không tra cứu): `std::vector` của C++ (thư viện GCC nhân đôi, MSVC nhân 1,5), `ArrayList` của Java (nhân 1,5), `list` của Python (tăng khoảng 1,125 lần cộng một hằng số), slice của Go, `Vec` của Rust (nhân đôi). Mọi hệ số nhân lớn hơn 1 đều cho chi phí khấu hao O(1); hệ số nhỏ hơn đổi thời gian lấy bộ nhớ. Bảng băm cũng vậy: `HashMap` của Java mở rộng khi hệ số tải vượt 0,75, `dict` của Python khi vượt 2/3 — đúng tinh thần chú thích "coi bảng là đầy ở hệ số tải nhỏ hơn 1" của Bài tập 17.4-1. Điều đáng chú ý là nhiều thư viện *không tự thu nhỏ* khi xoá (ví dụ `std::vector` chỉ thu nhỏ khi gọi `shrink_to_fit`), tránh hẳn hiện tượng dao động quanh ngưỡng mà sách phân tích. Hệ thống cần độ trễ ổn định (Redis, bảng băm của Go) dùng **mở rộng tăng dần** (incremental rehashing): chép một ít phần tử ở mỗi thao tác thay vì chép hết một lần, biến chặn khấu hao thành chặn trường hợp xấu nhất cho từng thao tác.
+Bảng động chính là mảng động có trong mọi ngôn ngữ (theo hiểu biết của người tổng hợp, không tra cứu): `std::vector` của C++ (thư viện GCC nhân đôi, MSVC nhân 1,5), `ArrayList` của Java (nhân 1,5), `list` của Python (tăng khoảng 1,125 lần cộng một hằng số), slice của Go, `Vec` của Rust (nhân đôi). Mọi hệ số nhân lớn hơn 1 đều cho chi phí khấu hao O(1); hệ số nhỏ hơn đổi thời gian lấy bộ nhớ. Bảng băm cũng vậy: `HashMap` của Java mở rộng khi hệ số tải vượt 0,75, `dict` của Python khi vượt 2/3 — đúng tinh thần chú thích "coi bảng là đầy ở hệ số tải nhỏ hơn 1" của Bài tập 17.4-1.
+
+Điều đáng chú ý là nhiều thư viện *không tự thu nhỏ* khi xoá (ví dụ `std::vector` chỉ thu nhỏ khi gọi `shrink_to_fit`), tránh hẳn hiện tượng dao động quanh ngưỡng mà sách phân tích. Hệ thống cần độ trễ ổn định (Redis, bảng băm của Go) dùng **mở rộng tăng dần** (incremental rehashing): chép một ít phần tử ở mỗi thao tác thay vì chép hết một lần, biến chặn khấu hao thành chặn trường hợp xấu nhất cho từng thao tác.
 
 ## Bài tập và bài toán cuối chương
 
@@ -879,7 +887,9 @@ Có bốn thao tác cơ bản thay đổi cấu trúc cây đỏ-đen — gọi 
 
 ### Bài toán 17-5 Phân tích cạnh tranh danh sách tự tổ chức với move-to-front (Competitive analysis of self-organizing lists with move-to-front, trang 476–477)
 
-**Danh sách tự tổ chức** là danh sách liên kết n phần tử với khoá phân biệt. Hai tính chất: (1) để tìm phần tử theo khoá phải duyệt từ đầu; nếu nó ở vị trí thứ k thì chi phí tìm là k; (2) sau mỗi thao tác có thể sắp lại danh sách theo một quy tắc với chi phí cho trước. Bắt đầu với danh sách n phần tử và dãy truy cập σ = ⟨σ₁, σ₂, …, σₘ⟩; chi phí của dãy là tổng chi phí từng lần truy cập. Bài toán chỉ xét việc **hoán vị hai phần tử kề nhau** (transpose), mỗi lần tốn 1. Mục tiêu: chứng minh quy tắc **đưa lên đầu** (move-to-front, MTF) có tổng chi phí không quá 4 lần chi phí của bất kỳ quy tắc nào khác — kể cả quy tắc biết trước dãy truy cập. Kiểu phân tích này gọi là **phân tích cạnh tranh**. Ký hiệu C_H(σ) là chi phí của quy tắc H trên σ.
+**Danh sách tự tổ chức** là danh sách liên kết n phần tử với khoá phân biệt. Hai tính chất: (1) để tìm phần tử theo khoá phải duyệt từ đầu; nếu nó ở vị trí thứ k thì chi phí tìm là k; (2) sau mỗi thao tác có thể sắp lại danh sách theo một quy tắc với chi phí cho trước.
+
+Bắt đầu với danh sách n phần tử và dãy truy cập σ = ⟨σ₁, σ₂, …, σₘ⟩; chi phí của dãy là tổng chi phí từng lần truy cập. Bài toán chỉ xét việc **hoán vị hai phần tử kề nhau** (transpose), mỗi lần tốn 1. Mục tiêu: chứng minh quy tắc **đưa lên đầu** (move-to-front, MTF) có tổng chi phí không quá 4 lần chi phí của bất kỳ quy tắc nào khác — kể cả quy tắc biết trước dãy truy cập. Kiểu phân tích này gọi là **phân tích cạnh tranh**. Ký hiệu C_H(σ) là chi phí của quy tắc H trên σ.
 
 - **(a)** Nếu H không biết trước dãy truy cập, chi phí trường hợp xấu nhất là C_H(σ) = Ω(mn). (Lời giải: đối thủ luôn truy cập phần tử đang đứng cuối danh sách của H.)
 - Với MTF, ngay sau khi tìm thấy x, đưa x lên vị trí đầu. rank_L(x) là vị trí của x trong danh sách L (ví dụ x thứ tư thì rank = 4). cᵢ là chi phí lần truy cập σᵢ dưới MTF, gồm chi phí tìm và chi phí đưa lên đầu bằng các lần hoán vị kề nhau.
@@ -944,7 +954,9 @@ Chi phí của một cấu trúc dữ liệu nên được đo trên cả dãy t
 
 ### Trong ngôn ngữ khoa học máy tính
 
-Với mọi dãy n thao tác, Σcᵢ ≤ Σĉᵢ khi tín dụng ≥ 0 (kế toán) hoặc khi ĉᵢ = cᵢ + Φ(Dᵢ) − Φ(Dᵢ₋₁) và Φ(Dᵢ) ≥ Φ(D₀) (thế năng), vì Σĉᵢ = Σcᵢ + Φ(Dₙ) − Φ(D₀). Ngăn xếp với MULTIPOP: Φ = |S|, ĉ(PUSH) = 2, ĉ(POP) = ĉ(MULTIPOP) = 0, tổng O(n). Bộ đếm k bit: Φ = số bit 1, ĉ(INCREMENT) ≤ 2, tổng ≤ 2n − bₙ + b₀. Bảng động chỉ chèn, nhân đôi: Φ = 2·num − size, ĉ = 3, α ≥ 1/2. Bảng động chèn/xoá, nhân đôi khi α = 1, chia đôi khi α < 1/4: Φ = 2·num − size nếu α ≥ 1/2, size/2 − num nếu α < 1/2; ĉ(INSERT) ≤ 3, ĉ(DELETE) ≤ 2; mọi dãy n thao tác tốn O(n), α ≥ 1/4. Move-to-front: Φ = 2 × số nghịch thế so với danh sách của H, C_MTF ≤ 4·C_H.
+Với mọi dãy n thao tác, Σcᵢ ≤ Σĉᵢ khi tín dụng ≥ 0 (kế toán) hoặc khi ĉᵢ = cᵢ + Φ(Dᵢ) − Φ(Dᵢ₋₁) và Φ(Dᵢ) ≥ Φ(D₀) (thế năng), vì Σĉᵢ = Σcᵢ + Φ(Dₙ) − Φ(D₀).
+
+Ngăn xếp với MULTIPOP: Φ = |S|, ĉ(PUSH) = 2, ĉ(POP) = ĉ(MULTIPOP) = 0, tổng O(n). Bộ đếm k bit: Φ = số bit 1, ĉ(INCREMENT) ≤ 2, tổng ≤ 2n − bₙ + b₀. Bảng động chỉ chèn, nhân đôi: Φ = 2·num − size, ĉ = 3, α ≥ 1/2. Bảng động chèn/xoá, nhân đôi khi α = 1, chia đôi khi α < 1/4: Φ = 2·num − size nếu α ≥ 1/2, size/2 − num nếu α < 1/2; ĉ(INSERT) ≤ 3, ĉ(DELETE) ≤ 2; mọi dãy n thao tác tốn O(n), α ≥ 1/4. Move-to-front: Φ = 2 × số nghịch thế so với danh sách của H, C_MTF ≤ 4·C_H.
 
 ## Thuật ngữ
 
@@ -1023,7 +1035,9 @@ Với mọi dãy n thao tác, Σcᵢ ≤ Σĉᵢ khi tín dụng ≥ 0 (kế to�
 
 ### Hai ví dụ nhỏ, ba phương pháp — cách dạy rất hiệu quả
 
-Chương ngắn (khoảng 20 trang nội dung) nhưng cấu trúc chặt: cùng một ngăn xếp và một bộ đếm được phân tích ba lần, nên người đọc thấy rõ ba phương pháp chỉ là ba cách ghi sổ cho cùng một sự thật — "thao tác đắt phải được chuẩn bị bởi thao tác rẻ". Sự chuyển tiếp cũng tự nhiên: tín dụng trên từng đĩa (kế toán) → tổng tín dụng = số đĩa → Φ = số phần tử (thế năng). Người đọc hiểu rằng hàm thế năng thường chính là "tổng tín dụng" của phương pháp kế toán, viết thành hàm của trạng thái. Điểm yếu là sách gần như không dạy cách *tìm ra* hàm thế năng; Mục 17.4 có làm điều đó ("ta muốn Φ bằng 0 sau mở rộng và bằng num trước mở rộng"), và đây là đoạn đáng đọc kỹ nhất của chương.
+Chương ngắn (khoảng 20 trang nội dung) nhưng cấu trúc chặt: cùng một ngăn xếp và một bộ đếm được phân tích ba lần, nên người đọc thấy rõ ba phương pháp chỉ là ba cách ghi sổ cho cùng một sự thật — "thao tác đắt phải được chuẩn bị bởi thao tác rẻ". Sự chuyển tiếp cũng tự nhiên: tín dụng trên từng đĩa (kế toán) → tổng tín dụng = số đĩa → Φ = số phần tử (thế năng).
+
+Người đọc hiểu rằng hàm thế năng thường chính là "tổng tín dụng" của phương pháp kế toán, viết thành hàm của trạng thái. Điểm yếu là sách gần như không dạy cách *tìm ra* hàm thế năng; Mục 17.4 có làm điều đó ("ta muốn Φ bằng 0 sau mở rộng và bằng num trước mở rộng"), và đây là đoạn đáng đọc kỹ nhất của chương.
 
 ### Bảng động: phần có giá trị thiết kế thực sự
 
@@ -1048,3 +1062,127 @@ Chặn khấu hao nói về tổng, không nói về từng thao tác. Một l�
 - **Lập trình thi đấu:** nhận diện "mỗi phần tử vào/ra một lần" (ngăn xếp đơn điệu, hai con trỏ, hàng đợi hai đầu đơn điệu), và kỹ thuật "nhị phân hoá" của Bài toán 17-2 (biến cấu trúc tĩnh thành động với chi phí thêm lg n).
 - **Kỹ thuật phần mềm:** gọi `reserve` khi biết trước kích thước để tránh hoàn toàn các lần mở rộng; chọn chặn trường hợp xấu nhất (tái cấu trúc tăng dần) cho hệ thống cần độ trễ ổn định; đặt ngưỡng co giãn có khoảng trễ.
 - **Nén dữ liệu:** move-to-front của Bài toán 17-5 là một bước trong bzip2 (sau biến đổi Burrows–Wheeler), và là chính sách gần với LRU trong bộ nhớ đệm — mà phân tích cạnh tranh của Sleator–Tarjan cũng áp dụng (theo hiểu biết của người tổng hợp).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 17 trên một trang: sáu nhánh lớn theo phần mở đầu, ba mục phương pháp 17.1–17.3, mục bảng động 17.4 và phần bài toán cuối chương của bản gốc, mỗi nhánh ghi phương pháp, hàm chi phí hoặc thế năng, kết quả trên ngăn xếp, bộ đếm và bảng động; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 17: thao tác đắt hiếm và được thao tác rẻ chuẩn bị trước nên mọi dãy n thao tác chỉ tốn O(n), tức khấu hao O(1) mỗi thao tác`"]
+  n1["`Phần mở đầu chương — phân tích khấu hao là gì`"]
+  n0 --- n1
+  n2["`Lấy trung bình chi phí trên cả dãy thao tác, nhưng là bảo đảm trường hợp xấu nhất, không dùng xác suất`"]
+  n1 --- n2
+  n3["`Chi phí khấu hao chỉ là công cụ phân tích, không cài vào chương trình`"]
+  n1 --- n3
+  n4["`Hai ví dụ chạy suốt ba mục: ngăn xếp có MULTIPOP và bộ đếm nhị phân k bit`"]
+  n1 --- n4
+  n5["`Mục 17.1 — Phân tích gộp`"]
+  n0 --- n5
+  n6["`Chặn tổng chi phí T(n) của n thao tác rồi gán mỗi thao tác T(n)/n`"]
+  n5 --- n6
+  n7["`Ngăn xếp: phân tích thô cho O(n²), nhưng số POP không vượt số PUSH nên tổng O(n)`"]
+  n5 --- n7
+  n8["`Bộ đếm: bit A[i] lật ⌊n/2^i⌋ lần, tổng dưới 2n dù một lần tăng có thể lật k bit`"]
+  n5 --- n8
+  n9["`Hình 17.2: bộ đếm 8 bit qua 16 lần tăng lật tổng cộng 31 bit`"]
+  n5 --- n9
+  n10["`Mục 17.2 — Phương pháp kế toán`"]
+  n0 --- n10
+  n11["`Mỗi loại thao tác có chi phí khấu hao riêng, phần dư cất thành tín dụng trên từng đối tượng`"]
+  n10 --- n11
+  n12["`Điều kiện: tổng tín dụng không bao giờ âm`"]
+  n10 --- n12
+  n13["`Ngăn xếp: PUSH trả 2 đô la, 1 đô la nằm trên đĩa để trả cho lần lấy ra sau, POP và MULTIPOP trả 0`"]
+  n10 --- n13
+  n14["`Bộ đếm: đặt một bit thành 1 trả 2, 1 đô la trên bit đó trả cho lần về 0`"]
+  n10 --- n14
+  n15["`Mục 17.3 — Phương pháp thế năng`"]
+  n0 --- n15
+  n16["`Hàm thế năng Φ của cả cấu trúc, chi phí khấu hao ĉᵢ = cᵢ + Φ(Dᵢ) − Φ(Dᵢ₋₁)`"]
+  n15 --- n16
+  n17["`Nếu Φ(Dₙ) ≥ Φ(D₀) thì tổng chi phí khấu hao chặn trên tổng chi phí thực`"]
+  n15 --- n17
+  n18["`Ngăn xếp: Φ = số phần tử, PUSH khấu hao 2, POP và MULTIPOP khấu hao 0`"]
+  n15 --- n18
+  n19["`Bộ đếm: Φ = số bit 1, INCREMENT khấu hao ≤ 2, bắt đầu với b₀ bit 1 thì tổng ≤ 2n − bₙ + b₀`"]
+  n15 --- n19
+  n20["`Mục 17.4 — Bảng động`"]
+  n0 --- n20
+  n21["`Mục 17.4.1 — Mở rộng bảng`"]
+  n20 --- n21
+  n22["`Nhân đôi kích thước khi bảng đầy, hệ số tải luôn ≥ 1/2`"]
+  n21 --- n22
+  n23["`Tổng n lần chèn dưới 3n, mỗi lần chèn khấu hao 3`"]
+  n21 --- n23
+  n24["`Kế toán: 3 đô la trả cho chèn chính nó, chép nó, và chép một phần tử cũ`"]
+  n21 --- n24
+  n25["`Thế năng Φ = 2·num − size, bằng 0 ngay sau mở rộng và bằng num ngay trước mở rộng`"]
+  n21 --- n25
+  n26["`Mục 17.4.2 — Mở rộng và thu nhỏ bảng`"]
+  n20 --- n26
+  n27["`Thu nhỏ khi hệ số tải xuống dưới 1/2 thì dãy chèn, xoá dao động quanh ngưỡng tốn Θ(n²)`"]
+  n26 --- n27
+  n28["`Đúng: nhân đôi khi đầy, chia đôi khi hệ số tải dưới 1/4, nên hệ số tải luôn ≥ 1/4`"]
+  n26 --- n28
+  n29["`Φ = 2·num − size khi α ≥ 1/2 và size/2 − num khi α nhỏ hơn 1/2`"]
+  n26 --- n29
+  n30["`Chèn khấu hao ≤ 3, xoá khấu hao ≤ 2, mọi dãy n thao tác tốn O(n)`"]
+  n26 --- n30
+  n31["`Bài toán cuối chương 17-1 đến 17-5`"]
+  n0 --- n31
+  n32["`17-1 Bộ đếm đảo bit làm hoán vị đảo bit của FFT trong O(n) thay vì O(n lg n)`"]
+  n31 --- n32
+  n33["`17-2 Tìm kiếm nhị phân động: các mảng sắp xếp dài 1, 2, 4 theo biểu diễn nhị phân của n`"]
+  n31 --- n33
+  n34["`17-3 Cây cân bằng theo trọng số: dựng lại cây con mất cân bằng, chèn và xoá O(lg n) khấu hao`"]
+  n31 --- n34
+  n35["`17-4 Cây đỏ-đen: m lần chèn, xoá chỉ gây O(m) thay đổi cấu trúc`"]
+  n31 --- n35
+  n36["`17-5 Move-to-front tốn không quá 4 lần mọi quy tắc khác, kể cả quy tắc biết trước dãy truy cập`"]
+  n31 --- n36
+  n37["`Thông điệp xuyên suốt`"]
+  n0 --- n37
+  n38["`Ba phương pháp chỉ là ba cách ghi sổ cho cùng một sự thật: thao tác đắt phải được chuẩn bị bởi thao tác rẻ`"]
+  n37 --- n38
+  n39["`Hàm thế năng thường chính là tổng tín dụng của phương pháp kế toán, viết thành hàm của trạng thái`"]
+  n37 --- n39
+  n40["`Mảng động phải nhân theo hệ số cố định, cộng thêm c ô mỗi lần sẽ tốn Θ(n²/c)`"]
+  n37 --- n40
+  n41["`Chặn khấu hao không chặn từng thao tác, hệ thống cần độ trễ ổn định phải tái cấu trúc tăng dần`"]
+  n37 --- n41
+  n42["`Phần V dùng phương pháp thế năng cho đống Fibonacci và rừng tập rời nhau`"]
+  n37 --- n42
+  class n0 root
+  class n1,n5,n10,n15,n20,n31,n37 branch
+  class n2,n3,n4,n6,n7,n8,n9,n11,n12,n13,n14,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần IV "Advanced Design and Analysis Techniques" (Các kỹ thuật thiết kế và phân tích nâng cao), Chương 17 "Amortized Analysis", trang 451–478.
+
+## Tác giả
+
+Thomas H. Cormen (Dartmouth), Charles E. Leiserson (MIT), Ronald L. Rivest (MIT), Clifford Stein (Columbia) — bốn nhà khoa học máy tính viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là "CLRS".
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần IV gom ba kỹ thuật "nâng cao" không gắn với một bài toán cụ thể. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) dạy quy hoạch động và Chương 16 ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) dạy thuật toán tham lam — hai kỹ thuật *thiết kế*. Chương 17 là kỹ thuật *phân tích*: thay vì chặn trên chi phí từng thao tác riêng lẻ trong trường hợp xấu nhất, ta chặn trên tổng chi phí của cả một dãy thao tác rồi chia đều, và vẫn có bảo đảm cho trường hợp xấu nhất.
+
+Chương dùng lại ngăn xếp của Mục 10.1 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)), khái niệm hệ số tải của bảng băm ở Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)), và trong các bài toán cuối chương dùng cây đỏ-đen của Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) và cây tìm kiếm nhị phân bổ sung thuộc tính kích thước của Chương 14 ([C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)).
+
+Phần V ngay sau đó dựa nặng vào chương này: đống Fibonacci ở Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) chỉ có độ phức tạp tốt theo nghĩa khấu hao (phân tích bằng phương pháp thế năng), và rừng tập rời nhau ở Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) cũng được phân tích bằng phương pháp thế năng. Chương 18 về cây B ([C18-cay-b.md](C18-cay-b.md)) mở đầu Phần V.
+
+## Lưu ý
+
+- **Chương không có mục khó (đánh dấu sao) nào** trong mục lục; cả bốn mục 17.1–17.4 đều là nội dung chính.
+- **Lớp chữ PDF hỏng ký hiệu toán ở gần như mọi công thức** (ví dụ `yci D ciC ˆ.Di //NUL ˆ.Di /NUL1/` là ĉᵢ = cᵢ + Φ(Dᵢ) − Φ(Dᵢ₋₁); `˛.T /` là α(T); `‚.nk/` là Θ(nk); dấu ≥, ≤ bị mất hoàn toàn trong các dòng như `ˆ.Di / ˆ.D0/`). Người tổng hợp đã đọc lại từ ảnh trang mọi pseudocode (MULTIPOP, INCREMENT, TABLE-INSERT), Hình 17.1–17.4, các phép tính chi phí khấu hao trong Mục 17.4 và đề Bài toán 17-3, 17-4, 17-5. Bảng của Hình 17.2 (cột "Total cost": 0, 1, 3, 4, 7, 8, 10, 11, 15, 16, 18, 19, 22, 23, 25, 26, 31) đã được tính lại và khớp.
+- **Một chỗ dễ hiểu nhầm trong lập luận kế toán cho bảng động (trang 465–466):** sách nói "ngay sau một lần mở rộng, kích thước bảng là m và bảng chứa m/2 phần tử", rồi "bảng sẽ không đầy lại cho tới khi ta chèn thêm m/2 − 1 phần tử". Từ m/2 lên m phần tử cần m/2 lần chèn; con số m/2 − 1 chỉ đúng nếu coi lần chèn gây ra việc mở rộng (lần chèn đưa phần tử thứ m/2 + 1 vào) là lần chèn đầu tiên đã được tính riêng. Kết luận (mỗi phần tử có 1 đô la khi bảng đầy) không đổi; bản tổng hợp trình bày theo cách đếm rõ ràng hơn.
+- **Lỗi đã biết của ấn bản 3:** người tổng hợp không chắc chắn về mục errata nào cho chương này nên không liệt kê.
+- **Sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** trong ấn bản thứ tư (2022), phân tích khấu hao trở thành Chương 16 (vì các chương trước được sắp xếp lại); nội dung cốt lõi — ba phương pháp, ngăn xếp MULTIPOP, bộ đếm nhị phân, bảng động — vẫn giữ.

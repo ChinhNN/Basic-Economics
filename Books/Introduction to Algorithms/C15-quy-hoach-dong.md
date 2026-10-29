@@ -1,16 +1,16 @@
 # Chương 15 — Quy hoạch động (Dynamic Programming)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần IV "Advanced Design and Analysis Techniques" (phần giới thiệu, trang 356–358), Chương 15 "Dynamic Programming", trang 359–413.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), tác giả của giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I–III đã trang bị kỹ thuật chia để trị và giải truy hồi ([C02-bat-dau.md](C02-bat-dau.md), [C04-chia-de-tri.md](C04-chia-de-tri.md)), phân tích xác suất ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)), các bài toán sắp xếp và các cấu trúc dữ liệu, kết thúc bằng cây đỏ đen và việc mở rộng cấu trúc dữ liệu ([C13-cay-do-den.md](C13-cay-do-den.md), [C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)). Phần IV mở ra ba kỹ thuật thiết kế và phân tích "cao cấp hơn": quy hoạch động (chương này), thuật toán tham lam ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) và phân tích khấu hao ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)). Chương 15 lấy ý tưởng chia bài toán thành bài toán con của chương 4 nhưng xử lý trường hợp các bài toán con chồng lên nhau, lưu lời giải vào bảng để không giải lại. Hai khái niệm chương này đặt ra — cấu trúc con tối ưu và bài toán con gối nhau — được Chương 16 dùng ngay để so sánh với chiến lược tham lam; Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) cung cấp ngôn ngữ sắp xếp tô pô và tìm kiếm theo chiều sâu để mô tả thứ tự giải bài toán con; Chương 24–25 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md), [C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)) dùng lại cấu trúc con tối ưu của đường đi ngắn nhất (Floyd–Warshall là một thuật toán quy hoạch động); Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) giải thích vì sao bài toán đường đi đơn dài nhất — ví dụ phản diện của mục 15.3 — có lẽ không có thuật toán đa thức.
-**Ý chính:** Quy hoạch động giải bài toán tối ưu bằng cách ghép lời giải tối ưu của các bài toán con, và chỉ hiệu quả khi hai điều kiện cùng đúng: **cấu trúc con tối ưu** (lời giải tối ưu của bài toán chứa lời giải tối ưu của các bài toán con, chứng minh bằng lập luận "cắt và dán") và **bài toán con gối nhau** (đệ quy tự nhiên gặp đi gặp lại cùng một số ít bài toán con khác nhau). Phương pháp có bốn bước: mô tả cấu trúc lời giải tối ưu, viết truy hồi cho giá trị tối ưu, tính giá trị đó (thường từ dưới lên bằng bảng), rồi dựng lại lời giải từ thông tin đã lưu. Có hai cách cài đặt tương đương về tiệm cận: **từ trên xuống có ghi nhớ (memoization)** và **từ dưới lên (bottom-up)**; cách sau thường nhanh hơn một hằng số, cách trước chỉ giải những bài toán con thật sự cần. Chương minh hoạ bằng bốn bài toán: **cắt thanh thép** (truy hồi r_n = max(p_i + r_{n−i}), đệ quy ngây thơ tốn 2ⁿ lời gọi, quy hoạch động Θ(n²)); **nhân dãy ma trận** (m[i, j] = min(m[i, k] + m[k+1, j] + p_{i−1}p_kp_j), Θ(n³) thời gian, Θ(n²) bộ nhớ, so với số cách đặt ngoặc tăng theo số Catalan Ω(4ⁿ/n^{3/2})); **dãy con chung dài nhất (LCS)** (Θ(mn) thời gian, có thể giảm bộ nhớ còn một hàng nếu chỉ cần độ dài); **cây tìm kiếm nhị phân tối ưu** (e[i, j] = min(e[i, r−1] + e[r+1, j] + w(i, j)), Θ(n³)). Thời gian chạy của một thuật toán quy hoạch động xấp xỉ bằng (số bài toán con) × (số lựa chọn cho mỗi bài toán con), tức là tuyến tính theo số đỉnh và cạnh của đồ thị bài toán con. Mục 15.3 cũng cảnh báo: không phải bài toán nào có vẻ "tách được" cũng có cấu trúc con tối ưu — đường đi đơn dài nhất là phản ví dụ, vì các bài toán con dùng chung tài nguyên (đỉnh) nên không độc lập.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phạm vi trang:** bảng phân công ghi "355–413", nhưng trang sách 355 thực ra là trang cuối phần Ghi chú và Bài toán của Chương 14 (bài toán Josephus 14-2). Phần IV bắt đầu ở trang 356 (trang tiêu đề "IV Advanced Design and Analysis Techniques"), phần giới thiệu ở trang 357–358, Chương 15 ở trang 359–413. Chương này không có mục nào đánh dấu sao (★); chỉ có hai bài tập đánh dấu sao là 15.4-6 (dãy con tăng dài nhất trong O(n lg n)) và 15.5-4 (giảm OPTIMAL-BST xuống Θ(n²) nhờ tính đơn điệu của gốc theo Knuth).
-> - **Lớp chữ PDF hỏng, phải đọc từ ảnh trang:** các mũi tên của bảng b trong LCS ("↖", "↑", "←") bị trích thành "-", "\"" và khoảng trắng; ký hiệu ∞ bị trích thành "1", −∞ thành "/NUL1"; dấu "≥" ở dòng 1 của MEMOIZED-CUT-ROD-AUX và ở dòng 13 của LCS-LENGTH bị mất; các bảng m, s (Hình 15.5) và e, w, root (Hình 15.10) trong sách được vẽ xoay 45° thành hình tam giác, lớp chữ chỉ còn dãy số rời. Người tổng hợp đã đọc lại toàn bộ pseudocode và các hình từ ảnh trang, rồi **tính lại mọi bảng bằng chương trình**; tất cả các giá trị trong Hình 15.5, 15.8, 15.10, bảng r và s của cắt thanh thép, chi phí 2,80 / 2,75 / 2,85 của Hình 15.9 và độ dài 24,89 / 25,58 của Hình 15.11 đều khớp với sách.
-> - **Lỗi chính tả và lỗi nhỏ trong bản in (người tổng hợp tự phát hiện khi đọc):** trang 360 "rods of smaller length in way that maximizes" (thiếu "a"); trang 365 "it serves an example of a time-memory trade-off" (thiếu "as") và "Here is the the pseudocode" (lặp "the"); trang 410 "investement"; trang 411 "polyomial"; chú thích 8 trang 412 "necesarily". Trang 381 viết đồ thị bài toán con của cắt thanh thép "có n đỉnh", thực ra có n + 1 đỉnh (kích thước 0, 1, …, n) — không ảnh hưởng tới cận O(n²).
-> - **Cây tối ưu trong Hình 15.9(b) không duy nhất:** sách nói cây có gốc k₂ với chi phí 2,75 là tối ưu, điều này đúng; nhưng khi tính lại người tổng hợp thấy chọn gốc k₄ cũng cho đúng 2,75 (e[1, 3] + e[5, 5] + w(1, 5) = 1,25 + 0,50 + 1,00). OPTIMAL-BST giữ k₂ vì dòng 12 chỉ cập nhật khi chi phí nhỏ hơn hẳn (t < e[i, j]).
-> - **Thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** trong ấn bản thứ tư (2022), quy hoạch động trở thành Chương 14 (thuật toán tham lam thành Chương 15, phân tích khấu hao thành Chương 16), năm bài toán minh hoạ chính vẫn được giữ; ấn bản 4 cũng bỏ ký hiệu "?" cho mục khó và sửa các lỗi chính tả nói trên. Người tổng hợp không chắc chi tiết danh sách bài tập được thêm bớt.
+Quy hoạch động giải bài toán tối ưu bằng cách ghép lời giải tối ưu của các bài toán con, và chỉ hiệu quả khi hai điều kiện cùng đúng: **cấu trúc con tối ưu** (lời giải tối ưu của bài toán chứa lời giải tối ưu của các bài toán con, chứng minh bằng lập luận "cắt và dán") và **bài toán con gối nhau** (đệ quy tự nhiên gặp đi gặp lại cùng một số ít bài toán con khác nhau).
+
+Phương pháp có bốn bước: mô tả cấu trúc lời giải tối ưu, viết truy hồi cho giá trị tối ưu, tính giá trị đó (thường từ dưới lên bằng bảng), rồi dựng lại lời giải từ thông tin đã lưu. Có hai cách cài đặt tương đương về tiệm cận: **từ trên xuống có ghi nhớ (memoization)** và **từ dưới lên (bottom-up)**; cách sau thường nhanh hơn một hằng số, cách trước chỉ giải những bài toán con thật sự cần.
+
+Chương minh hoạ bằng bốn bài toán: **cắt thanh thép** (truy hồi r_n = max(p_i + r_{n−i}), đệ quy ngây thơ tốn 2ⁿ lời gọi, quy hoạch động Θ(n²)); **nhân dãy ma trận** (m[i, j] = min(m[i, k] + m[k+1, j] + p_{i−1}p_kp_j), Θ(n³) thời gian, Θ(n²) bộ nhớ, so với số cách đặt ngoặc tăng theo số Catalan Ω(4ⁿ/n^{3/2})); **dãy con chung dài nhất (LCS)** (Θ(mn) thời gian, có thể giảm bộ nhớ còn một hàng nếu chỉ cần độ dài); **cây tìm kiếm nhị phân tối ưu** (e[i, j] = min(e[i, r−1] + e[r+1, j] + w(i, j)), Θ(n³)).
+
+Thời gian chạy của một thuật toán quy hoạch động xấp xỉ bằng (số bài toán con) × (số lựa chọn cho mỗi bài toán con), tức là tuyến tính theo số đỉnh và cạnh của đồ thị bài toán con.
+
+Mục 15.3 cũng cảnh báo: không phải bài toán nào có vẻ "tách được" cũng có cấu trúc con tối ưu — đường đi đơn dài nhất là phản ví dụ, vì các bài toán con dùng chung tài nguyên (đỉnh) nên không độc lập.
 
 ## Sơ đồ
 
@@ -800,3 +800,149 @@ Lời gọi ban đầu PRINT-OPTIMAL-PARENS(s, 1, n) in cách đặt ngoặc t�
 #### Ví dụ hôm nay
 
 Thứ tự nhân một chuỗi tensor là bài toán thật trong các thư viện tính toán khoa học và học sâu: hàm `einsum` của NumPy (với tuỳ chọn tối ưu đường đi) và thư viện opt_einsum tìm thứ tự co tensor rẻ nhất — tổng quát hoá trực tiếp của bài toán này; `numpy.linalg.multi_dot` dùng đúng quy hoạch động O(n³) của mục này để chọn thứ tự nhân dãy ma trận. Bộ tối ưu truy vấn của cơ sở dữ liệu chọn thứ tự nối (join) các bảng bằng quy hoạch động trên các tập con (kiểu System R), cùng tinh thần "chọn thứ tự kết hợp để chi phí trung gian nhỏ nhất". Dạng quy hoạch động "trên đoạn" [i, j] với chỗ tách k cũng là khuôn mẫu của thuật toán CYK phân tích cú pháp ngữ pháp phi ngữ cảnh.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 15 trên một trang: sáu nhánh lớn theo phần giới thiệu Phần IV và mở đầu chương, các mục 15.1, 15.2, 15.3, gộp 15.4–15.5, và phần bài toán cuối chương của bản gốc, mỗi nhánh ghi bài toán, truy hồi, thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 15: quy hoạch động giải bài toán tối ưu bằng cách giải mỗi bài toán con một lần và lưu vào bảng`"]
+  n1["`Phần IV giới thiệu và phần mở đầu Chương 15`"]
+  n0 --- n1
+  n2["`Phần IV gồm ba kỹ thuật: quy hoạch động, thuật toán tham lam, phân tích khấu hao`"]
+  n1 --- n2
+  n3["`Khác chia để trị: bài toán con gối nhau, dùng chung bài toán con nhỏ hơn`"]
+  n1 --- n3
+  n4["`Programming ở đây nghĩa là phương pháp dùng bảng, không phải viết mã`"]
+  n1 --- n4
+  n5["`Bốn bước xây dựng thuật toán quy hoạch động`"]
+  n1 --- n5
+  n6["`Mô tả cấu trúc lời giải tối ưu, rồi viết truy hồi cho giá trị tối ưu`"]
+  n5 --- n6
+  n7["`Tính giá trị tối ưu từ dưới lên, rồi dựng lời giải từ thông tin lựa chọn đã lưu`"]
+  n5 --- n7
+  n8["`Mục 15.1 — Cắt thanh thép`"]
+  n0 --- n8
+  n9["`Thanh dài n inch, bảng giá pᵢ, cắt thế nào để doanh thu rₙ lớn nhất, có 2ⁿ⁻¹ cách cắt`"]
+  n8 --- n9
+  n10["`Truy hồi rₙ = max(pᵢ + rₙ₋ᵢ) với r₀ = 0: mảnh đầu dài i bán nguyên, phần còn lại cắt tiếp`"]
+  n8 --- n10
+  n11["`CUT-ROD đệ quy ngây thơ gọi 2ⁿ lần, n = 40 có thể chạy hơn một giờ`"]
+  n8 --- n11
+  n12["`Hai cách cài đặt cùng Θ(n²)`"]
+  n8 --- n12
+  n13["`Từ trên xuống có ghi nhớ: bảng khởi tạo −∞, mỗi bài toán con giải một lần`"]
+  n12 --- n13
+  n14["`Từ dưới lên: giải theo kích thước tăng dần, hằng số nhỏ hơn vì không tốn lời gọi hàm`"]
+  n12 --- n14
+  n15["`Đồ thị bài toán con: thời gian thường tuyến tính theo số đỉnh và số cạnh`"]
+  n8 --- n15
+  n16["`Lưu thêm s[j] là độ dài mảnh đầu tối ưu để in lời giải, ví dụ n = 7 cắt thành 1 và 6`"]
+  n8 --- n16
+  n17["`Mục 15.2 — Nhân dãy ma trận`"]
+  n0 --- n17
+  n18["`Tìm cách đặt ngoặc có ít phép nhân vô hướng nhất, không thực sự nhân`"]
+  n17 --- n18
+  n19["`Ví dụ 10×100, 100×5, 5×50: đặt ngoặc trái tốn 7.500, đặt ngoặc phải tốn 75.000`"]
+  n17 --- n19
+  n20["`Vét cạn không khả thi: số cách đặt ngoặc là số Catalan, tăng như Ω(4ⁿ/n^(3/2))`"]
+  n17 --- n20
+  n21["`Truy hồi m[i, j] = min(m[i, k] + m[k+1, j] + pᵢ₋₁pₖpⱼ), bảng s ghi k tốt nhất`"]
+  n17 --- n21
+  n22["`MATRIX-CHAIN-ORDER điền bảng theo độ dài dãy, Θ(n³) thời gian và Θ(n²) bộ nhớ`"]
+  n17 --- n22
+  n23["`Ví dụ 6 ma trận: chi phí tối ưu 15.125, lời giải ((A₁(A₂A₃))((A₄A₅)A₆))`"]
+  n17 --- n23
+  n24["`Mục 15.3 — Hai yếu tố của quy hoạch động`"]
+  n0 --- n24
+  n25["`Cấu trúc con tối ưu`"]
+  n24 --- n25
+  n26["`Lời giải tối ưu chứa lời giải tối ưu của bài toán con, chứng minh bằng cắt và dán`"]
+  n25 --- n26
+  n27["`Giữ không gian bài toán con đơn giản, chỉ mở rộng khi cần như dãy ma trận đổi cả i và j`"]
+  n25 --- n27
+  n28["`Thời gian ≈ số bài toán con × số lựa chọn mỗi bài toán con`"]
+  n25 --- n28
+  n29["`Bài toán con gối nhau`"]
+  n24 --- n29
+  n30["`Đệ quy không ghi nhớ cho dãy ma trận tốn ít nhất 2ⁿ⁻¹, ghi nhớ đưa về O(n³)`"]
+  n29 --- n30
+  n31["`Merge sort sinh bài toán con mới ở mỗi bước nên ghi nhớ không giúp gì`"]
+  n29 --- n31
+  n32["`Phản ví dụ: đường đi đơn dài nhất không có cấu trúc con tối ưu`"]
+  n24 --- n32
+  n33["`Bài toán con dùng chung đỉnh nên không độc lập, ghép lại được đường không đơn`"]
+  n32 --- n33
+  n34["`Đường đi ngắn nhất thì có, vì hai đoạn không dùng chung đỉnh`"]
+  n32 --- n34
+  n35["`Từ dưới lên nhanh hơn một hằng số khi mọi bài toán con đều phải giải, ghi nhớ thắng khi nhiều bài toán con không cần`"]
+  n24 --- n35
+  n36["`Mục 15.4–15.5 — LCS và cây tìm kiếm nhị phân tối ưu`"]
+  n0 --- n36
+  n37["`Dãy con chung dài nhất (LCS) của hai chuỗi, động cơ là so sánh DNA`"]
+  n36 --- n37
+  n38["`Định lý 15.1: ký tự cuối khớp thì thuộc LCS, không khớp thì bỏ ký tự cuối của một chuỗi`"]
+  n37 --- n38
+  n39["`LCS-LENGTH điền bảng c và mũi tên b trong Θ(mn), PRINT-LCS dựng lời giải trong O(m + n)`"]
+  n37 --- n39
+  n40["`Chỉ cần độ dài thì giữ 2 hàng của bảng, nhưng mất khả năng dựng lại LCS`"]
+  n37 --- n40
+  n41["`Cây tìm kiếm nhị phân tối ưu cực tiểu chi phí tìm kỳ vọng`"]
+  n36 --- n41
+  n42["`Có khoá thật kᵢ với xác suất pᵢ và khoá giả dᵢ với xác suất qᵢ`"]
+  n41 --- n42
+  n43["`Ví dụ n = 5: cây tối ưu chi phí 2,75 có gốc k₂, không phải cây thấp nhất`"]
+  n41 --- n43
+  n44["`Truy hồi e[i, j] = min(e[i, r−1] + e[r+1, j] + w(i, j)), OPTIMAL-BST chạy Θ(n³)`"]
+  n41 --- n44
+  n45["`Knuth: tính đơn điệu của gốc giảm được xuống Θ(n²)`"]
+  n41 --- n45
+  n46["`Phần Bài toán cuối chương — mười hai ứng dụng`"]
+  n0 --- n46
+  n47["`Đường đi dài nhất trong đồ thị không chu trình, dãy con đối xứng dài nhất, người du lịch bitonic O(n²)`"]
+  n46 --- n47
+  n48["`Khoảng cách sửa với gióng hàng DNA là trường hợp riêng, thuật toán Viterbi`"]
+  n46 --- n48
+  n49["`Seam carving nén ảnh, tiệc công ty trên cây, chia chuỗi, đầu tư, tồn kho, ký hợp đồng cầu thủ`"]
+  n46 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Quy hoạch động đánh đổi bộ nhớ lấy thời gian, biến thuật toán mũ thành đa thức`"]
+  n50 --- n51
+  n52["`Chỉ dùng khi có đủ cấu trúc con tối ưu và bài toán con gối nhau, không được tự cho là có`"]
+  n50 --- n52
+  n53["`Bellman khởi đầu nghiên cứu có hệ thống năm 1955`"]
+  n50 --- n53
+  class n0 root
+  class n1,n8,n17,n24,n36,n46,n50 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần IV "Advanced Design and Analysis Techniques" (phần giới thiệu, trang 356–358), Chương 15 "Dynamic Programming", trang 359–413.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), tác giả của giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I–III đã trang bị kỹ thuật chia để trị và giải truy hồi ([C02-bat-dau.md](C02-bat-dau.md), [C04-chia-de-tri.md](C04-chia-de-tri.md)), phân tích xác suất ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)), các bài toán sắp xếp và các cấu trúc dữ liệu, kết thúc bằng cây đỏ đen và việc mở rộng cấu trúc dữ liệu ([C13-cay-do-den.md](C13-cay-do-den.md), [C14-mo-rong-cau-truc-du-lieu.md](C14-mo-rong-cau-truc-du-lieu.md)).
+
+Phần IV mở ra ba kỹ thuật thiết kế và phân tích "cao cấp hơn": quy hoạch động (chương này), thuật toán tham lam ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) và phân tích khấu hao ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)). Chương 15 lấy ý tưởng chia bài toán thành bài toán con của chương 4 nhưng xử lý trường hợp các bài toán con chồng lên nhau, lưu lời giải vào bảng để không giải lại.
+
+Hai khái niệm chương này đặt ra — cấu trúc con tối ưu và bài toán con gối nhau — được Chương 16 dùng ngay để so sánh với chiến lược tham lam; Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) cung cấp ngôn ngữ sắp xếp tô pô và tìm kiếm theo chiều sâu để mô tả thứ tự giải bài toán con; Chương 24–25 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md), [C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)) dùng lại cấu trúc con tối ưu của đường đi ngắn nhất (Floyd–Warshall là một thuật toán quy hoạch động); Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) giải thích vì sao bài toán đường đi đơn dài nhất — ví dụ phản diện của mục 15.3 — có lẽ không có thuật toán đa thức.
+
+## Lưu ý
+
+- **Phạm vi trang:** bảng phân công ghi "355–413", nhưng trang sách 355 thực ra là trang cuối phần Ghi chú và Bài toán của Chương 14 (bài toán Josephus 14-2). Phần IV bắt đầu ở trang 356 (trang tiêu đề "IV Advanced Design and Analysis Techniques"), phần giới thiệu ở trang 357–358, Chương 15 ở trang 359–413. Chương này không có mục nào đánh dấu sao (★); chỉ có hai bài tập đánh dấu sao là 15.4-6 (dãy con tăng dài nhất trong O(n lg n)) và 15.5-4 (giảm OPTIMAL-BST xuống Θ(n²) nhờ tính đơn điệu của gốc theo Knuth).
+- **Lớp chữ PDF hỏng, phải đọc từ ảnh trang:** các mũi tên của bảng b trong LCS ("↖", "↑", "←") bị trích thành "-", "\"" và khoảng trắng; ký hiệu ∞ bị trích thành "1", −∞ thành "/NUL1"; dấu "≥" ở dòng 1 của MEMOIZED-CUT-ROD-AUX và ở dòng 13 của LCS-LENGTH bị mất; các bảng m, s (Hình 15.5) và e, w, root (Hình 15.10) trong sách được vẽ xoay 45° thành hình tam giác, lớp chữ chỉ còn dãy số rời. Người tổng hợp đã đọc lại toàn bộ pseudocode và các hình từ ảnh trang, rồi **tính lại mọi bảng bằng chương trình**; tất cả các giá trị trong Hình 15.5, 15.8, 15.10, bảng r và s của cắt thanh thép, chi phí 2,80 / 2,75 / 2,85 của Hình 15.9 và độ dài 24,89 / 25,58 của Hình 15.11 đều khớp với sách.
+- **Lỗi chính tả và lỗi nhỏ trong bản in (người tổng hợp tự phát hiện khi đọc):** trang 360 "rods of smaller length in way that maximizes" (thiếu "a"); trang 365 "it serves an example of a time-memory trade-off" (thiếu "as") và "Here is the the pseudocode" (lặp "the"); trang 410 "investement"; trang 411 "polyomial"; chú thích 8 trang 412 "necesarily". Trang 381 viết đồ thị bài toán con của cắt thanh thép "có n đỉnh", thực ra có n + 1 đỉnh (kích thước 0, 1, …, n) — không ảnh hưởng tới cận O(n²).
+- **Cây tối ưu trong Hình 15.9(b) không duy nhất:** sách nói cây có gốc k₂ với chi phí 2,75 là tối ưu, điều này đúng; nhưng khi tính lại người tổng hợp thấy chọn gốc k₄ cũng cho đúng 2,75 (e[1, 3] + e[5, 5] + w(1, 5) = 1,25 + 0,50 + 1,00). OPTIMAL-BST giữ k₂ vì dòng 12 chỉ cập nhật khi chi phí nhỏ hơn hẳn (t < e[i, j]).
+- **Thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** trong ấn bản thứ tư (2022), quy hoạch động trở thành Chương 14 (thuật toán tham lam thành Chương 15, phân tích khấu hao thành Chương 16), năm bài toán minh hoạ chính vẫn được giữ; ấn bản 4 cũng bỏ ký hiệu "?" cho mục khó và sửa các lỗi chính tả nói trên. Người tổng hợp không chắc chi tiết danh sách bài tập được thêm bớt.

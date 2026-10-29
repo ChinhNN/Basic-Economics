@@ -1,22 +1,18 @@
 # Chương 16 — Thuật toán tham lam (Greedy Algorithms)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần IV "Advanced Design and Analysis Techniques", Chương 16 "Greedy Algorithms", trang 414–450.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), tác giả của giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Phần IV mở ra ba kỹ thuật thiết kế và phân tích "cao cấp": quy hoạch động, thuật toán tham lam và phân tích khấu hao. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) đặt ra hai khái niệm **cấu trúc con tối ưu** và **bài toán con gối nhau**, và tác giả yêu cầu đọc Mục 15.3 trước chương này. Chương 16 dùng lại cấu trúc con tối ưu nhưng thêm một điều kiện mạnh hơn — **tính chất lựa chọn tham lam** — để bỏ qua việc giải mọi bài toán con: chỉ cần đưa ra một lựa chọn "tốt nhất lúc này" rồi giải một bài toán con duy nhất còn lại. Chương dùng các công cụ đã có: sắp xếp O(n lg n) và đống nhị phân làm hàng đợi ưu tiên của Chương 6 ([C06-heapsort.md](C06-heapsort.md)) cho thuật toán Huffman, đệ quy đuôi của Problem 7-4 ([C07-quicksort.md](C07-quicksort.md)), cây van Emde Boas của Chương 20 ([C20-cay-van-emde-boas.md](C20-cay-van-emde-boas.md)) để giảm thời gian Huffman, rừng tập rời nhau của Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) cho Problem 16-4, và các định lý về cây tự do của Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)). Về phía sau, Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md)) — cây khung nhỏ nhất (Kruskal, Prim) — là ví dụ kinh điển của phương pháp tham lam và chính là bài toán mà lý thuyết matroid ở Mục 16.4 giải được; Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)) có thuật toán Dijkstra; Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) có heuristic tham lam của Chvátal cho bài toán phủ tập — nơi tham lam không còn tối ưu mà chỉ xấp xỉ. Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) hoàn tất bộ ba kỹ thuật của Phần IV.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **một thuật toán tham lam luôn chọn phương án trông tốt nhất ở thời điểm hiện tại, và chiến lược đó cho lời giải tối ưu khi bài toán có đồng thời hai tính chất: cấu trúc con tối ưu và tính chất lựa chọn tham lam (luôn tồn tại một lời giải tối ưu chứa lựa chọn tham lam); cách chứng minh chuẩn là lập luận trao đổi — lấy một lời giải tối ưu bất kỳ, thay một phần tử của nó bằng lựa chọn tham lam mà không làm lời giải tệ đi.** Mục 16.1 dẫn dắt qua **bài toán chọn hoạt động**: bắt đầu từ truy hồi quy hoạch động c[i, j] = max (c[i, k] + c[k, j] + 1), rồi chứng minh (Định lý 16.1) rằng hoạt động kết thúc sớm nhất luôn nằm trong một lời giải tối ưu, nên chỉ còn một bài toán con; kết quả là RECURSIVE-ACTIVITY-SELECTOR và GREEDY-ACTIVITY-SELECTOR chạy Θ(n) sau khi đã sắp xếp theo thời điểm kết thúc. Mục 16.2 rút ra quy trình ba bước thiết kế thuật toán tham lam, so sánh tham lam với quy hoạch động, và dùng cặp **bài toán ba lô 0-1** (tham lam theo giá trị trên mỗi pound thất bại: lấy món 1 cho $160 hoặc $180, tối ưu là $220) và **bài toán ba lô phân số** (tham lam đúng: $240) để chỉ ra ranh giới mong manh giữa hai kỹ thuật. Mục 16.3 trình bày **mã Huffman**: mã tiền tố tối ưu biểu diễn bằng cây nhị phân đầy đủ, chi phí B(T) = Σ c.freq · d_T(c); thuật toán HUFFMAN gộp lặp lại hai nút có tần suất thấp nhất bằng hàng đợi ưu tiên nhỏ nhất, chạy O(n lg n); tính đúng dựa vào Bổ đề 16.2 (lựa chọn tham lam) và Bổ đề 16.3 (cấu trúc con tối ưu). Mục ★16.4 phác lý thuyết **matroid**: cặp (S, 𝓘) có tính di truyền và tính chất trao đổi; mọi tập độc lập cực đại cùng kích thước; thủ tục GREEDY xét phần tử theo trọng số giảm dần luôn trả về tập độc lập có trọng số lớn nhất (Định lý 16.11), chạy O(n lg n + n f(n)); matroid đồ thị cho thấy cây khung nhỏ nhất là một trường hợp riêng. Mục ★16.5 áp dụng matroid cho **lập lịch các công việc đơn vị thời gian có hạn chót và tiền phạt**: tập công việc "độc lập" khi xếp được không trễ, kiểm tra bằng điều kiện N_t(A) ≤ t; hệ này là một matroid (Định lý 16.13) nên GREEDY cho lịch tối ưu trong O(n²).
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục có dấu sao (★) trong chương:** Mục 16.4 "Matroids and greedy methods" và Mục 16.5 "A task-scheduling problem as a matroid" — tài liệu nâng cao, có thể bỏ qua ở lần đọc đầu. **Bài tập có dấu sao:** 16.2-6 (ba lô phân số trong O(n)), 16.4-2 (matroid ma trận), 16.4-3 (matroid đối ngẫu), 16.4-4 (matroid phân hoạch).
-> - **Lớp chữ PDF hỏng ký hiệu toán ở hầu hết các trang:** `Œsi ;f i /` là nửa khoảng [sᵢ, fᵢ); `si  fj` mất dấu ≥; `/NUL` là dấu trừ "−" (ví dụ `W/NUL wj` là W − wⱼ, `jCj/NUL 1` là |C| − 1); `/TAB` là chữ 𝓘 viết hoa kiểu thư pháp (họ các tập độc lập); `¤` là ≠; `‚.n/` là Θ(n); dấu ≤ ở dòng 2 và 4 của RECURSIVE-ACTIVITY-SELECTOR, dấu ≥ ở dòng 5 của GREEDY-ACTIVITY-SELECTOR bị mất hẳn; `i` (giá trị món hàng) mất chữ v (vᵢ). Bảng hoạt động ở trang 415 bị trích thành chuỗi số dính nhau (`fi 4567991 01 11 21 41 6`). Các hình 16.1, 16.2, 16.4, 16.5, 16.6 chỉ còn nhãn rời. Mọi pseudocode, công thức (16.1)–(16.4), các hình và bảng trong bản tổng hợp này được đọc lại từ ảnh trang (người tổng hợp đã xem ảnh của toàn bộ 37 trang 414–450; các chỗ phải sửa nhiều nhất nằm ở trang 415–421, 426–427, 429–435, 437–446).
-> - **Chỗ sách sai hoặc ký hiệu chưa chặt (nhận xét của người tổng hợp):**
->   - Chứng minh Bổ đề 16.12 (trang 445) viết "(2) implies that the *i*th **largest** deadline is at least *i*"; đúng phải là "hạn chót **nhỏ** thứ i (ith smallest) ít nhất bằng i". Ví dụ A có các hạn chót 1, 2, 2: hạn chót lớn thứ 3 (tức nhỏ nhất) là 1 < 3, nhưng A vẫn độc lập. Cũng trong chứng minh này, "more than t tasks must finish before time t" nên hiểu là "trước hoặc đúng thời điểm t" (by time t).
->   - Problem 16-3(a) viết "an alternate proof that (E, 𝓘) of part (a) is a matroid" — tự tham chiếu chính nó; ý đúng là "matroid đồ thị của Mục 16.4 (Định lý 16.5)". Problem 16-3(e) viết "Explain carefully why the results of parts (d) and (e) are not contradictory" — cũng tự tham chiếu; ý đúng là các phần **(c) và (d)**.
->   - Mục 16.4 định nghĩa matroid có trọng số với trọng số **dương thực sự**, nhưng Mục 16.5 cho tiền phạt wᵢ **không âm** (cho phép bằng 0). Không ảnh hưởng kết quả (một công việc phạt 0 thêm hay bớt đều không đổi tổng phạt), nhưng chưa khớp định nghĩa.
->   - Bổ đề 16.10 định nghĩa S′ = {y ∈ S : {x, y} ∈ 𝓘}; với y = x thì {x, x} = {x} độc lập nên x ∈ S′, trong khi 𝓘′ chỉ gồm các tập con của S − {x}. Nên viết S′ = {y ∈ S − {x} : {x, y} ∈ 𝓘}.
->   - Mục 16.4 nói Whitney nghiên cứu matroid ma trận với **các hàng** của ma trận, còn Exercise 16.4-2 dùng **các cột**. Cả hai đều đúng (hạng hàng bằng hạng cột), chỉ là không nhất quán.
->   - Lỗi chữ nhỏ: trang 423 "the algorithm makes choice that seems best" (thiếu "the"); trang 415 gọi bài toán là "activity-scheduling problem" trong khi tên chuẩn của mục là "activity-selection problem".
-> - **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** tập hoạt động 11 phần tử cho {a₁, a₄, a₈, a₁₁} (và {a₂, a₄, a₉, a₁₁} cũng cỡ 4); ba lô: $220 / $160 / $180 cho bản 0-1 và $240 cho bản phân số; mã độ dài thay đổi tốn 224.000 bit so với 300.000 bit (tiết kiệm 25,3%); các bước Huffman 14, 25, 30, 55, 100 và các từ mã a = 0, b = 101, c = 100, d = 111, e = 1101, f = 1100; chuỗi 001011101 giải mã thành aabe; lập lịch 7 công việc cho tổng phạt w₅ + w₆ = 50. Người tổng hợp còn tự giải và kiểm tra Exercise 16.5-1 (tổng phạt 30), 16.3-3 (chi phí 132), Problem 16-4 trên cùng ví dụ và Problem 16-5 trên chuỗi yêu cầu của đề.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** thuật toán tham lam trở thành Chương 15; hai mục có dấu sao về matroid (16.4) và lập lịch bằng matroid (16.5) bị bỏ khỏi chương; thay vào đó có một mục mới về **bộ nhớ đệm ngoại tuyến** (offline caching), phát triển từ Problem 16-5 thành nội dung chính với chứng minh chiến lược "xa nhất trong tương lai" là tối ưu. Ba mục đầu (chọn hoạt động, các yếu tố của chiến lược tham lam, mã Huffman) được giữ. Chi tiết bài tập thêm bớt người tổng hợp không nhớ chắc.
+Tác giả muốn người đọc hiểu rằng **một thuật toán tham lam luôn chọn phương án trông tốt nhất ở thời điểm hiện tại, và chiến lược đó cho lời giải tối ưu khi bài toán có đồng thời hai tính chất: cấu trúc con tối ưu và tính chất lựa chọn tham lam (luôn tồn tại một lời giải tối ưu chứa lựa chọn tham lam); cách chứng minh chuẩn là lập luận trao đổi — lấy một lời giải tối ưu bất kỳ, thay một phần tử của nó bằng lựa chọn tham lam mà không làm lời giải tệ đi.**
+
+Mục 16.1 dẫn dắt qua **bài toán chọn hoạt động**: bắt đầu từ truy hồi quy hoạch động c[i, j] = max (c[i, k] + c[k, j] + 1), rồi chứng minh (Định lý 16.1) rằng hoạt động kết thúc sớm nhất luôn nằm trong một lời giải tối ưu, nên chỉ còn một bài toán con; kết quả là RECURSIVE-ACTIVITY-SELECTOR và GREEDY-ACTIVITY-SELECTOR chạy Θ(n) sau khi đã sắp xếp theo thời điểm kết thúc.
+
+Mục 16.2 rút ra quy trình ba bước thiết kế thuật toán tham lam, so sánh tham lam với quy hoạch động, và dùng cặp **bài toán ba lô 0-1** (tham lam theo giá trị trên mỗi pound thất bại: lấy món 1 cho $160 hoặc $180, tối ưu là $220) và **bài toán ba lô phân số** (tham lam đúng: $240) để chỉ ra ranh giới mong manh giữa hai kỹ thuật.
+
+Mục 16.3 trình bày **mã Huffman**: mã tiền tố tối ưu biểu diễn bằng cây nhị phân đầy đủ, chi phí B(T) = Σ c.freq · d_T(c); thuật toán HUFFMAN gộp lặp lại hai nút có tần suất thấp nhất bằng hàng đợi ưu tiên nhỏ nhất, chạy O(n lg n); tính đúng dựa vào Bổ đề 16.2 (lựa chọn tham lam) và Bổ đề 16.3 (cấu trúc con tối ưu).
+
+Mục ★16.4 phác lý thuyết **matroid**: cặp (S, 𝓘) có tính di truyền và tính chất trao đổi; mọi tập độc lập cực đại cùng kích thước; thủ tục GREEDY xét phần tử theo trọng số giảm dần luôn trả về tập độc lập có trọng số lớn nhất (Định lý 16.11), chạy O(n lg n + n f(n)); matroid đồ thị cho thấy cây khung nhỏ nhất là một trường hợp riêng.
+
+Mục ★16.5 áp dụng matroid cho **lập lịch các công việc đơn vị thời gian có hạn chót và tiền phạt**: tập công việc "độc lập" khi xếp được không trễ, kiểm tra bằng điều kiện N_t(A) ≤ t; hệ này là một matroid (Định lý 16.13) nên GREEDY cho lịch tối ưu trong O(n²).
 
 ## Sơ đồ
 
@@ -334,7 +330,9 @@
 
 ### 1. Phần mở đầu chương (trang 414–415)
 
-Các thuật toán cho bài toán tối ưu thường đi qua một chuỗi bước, mỗi bước có một tập lựa chọn. Với nhiều bài toán tối ưu, dùng quy hoạch động để xác định lựa chọn tốt nhất là "quá tay" (overkill); những thuật toán đơn giản và hiệu quả hơn là đủ. **Thuật toán tham lam** (greedy algorithm) luôn đưa ra lựa chọn trông tốt nhất ở thời điểm hiện tại: nó đưa ra một lựa chọn tối ưu cục bộ với hy vọng lựa chọn đó dẫn tới lời giải tối ưu toàn cục. Chương này khảo sát các bài toán tối ưu mà ở đó thuật toán tham lam cho lời giải tối ưu. Trước khi đọc, người đọc nên đọc Chương 15 về quy hoạch động, nhất là Mục 15.3 (các yếu tố của quy hoạch động: cấu trúc con tối ưu và bài toán con gối nhau).
+Các thuật toán cho bài toán tối ưu thường đi qua một chuỗi bước, mỗi bước có một tập lựa chọn. Với nhiều bài toán tối ưu, dùng quy hoạch động để xác định lựa chọn tốt nhất là "quá tay" (overkill); những thuật toán đơn giản và hiệu quả hơn là đủ.
+
+**Thuật toán tham lam** (greedy algorithm) luôn đưa ra lựa chọn trông tốt nhất ở thời điểm hiện tại: nó đưa ra một lựa chọn tối ưu cục bộ với hy vọng lựa chọn đó dẫn tới lời giải tối ưu toàn cục. Chương này khảo sát các bài toán tối ưu mà ở đó thuật toán tham lam cho lời giải tối ưu. Trước khi đọc, người đọc nên đọc Chương 15 về quy hoạch động, nhất là Mục 15.3 (các yếu tố của quy hoạch động: cấu trúc con tối ưu và bài toán con gối nhau).
 
 Thuật toán tham lam không phải lúc nào cũng cho lời giải tối ưu, nhưng với nhiều bài toán thì có. Trình tự của chương:
 
@@ -350,7 +348,9 @@ Phương pháp tham lam rất mạnh và chạy tốt với nhiều bài toán. 
 
 #### Phát biểu bài toán
 
-Ví dụ đầu tiên là bài toán lập lịch cho nhiều hoạt động cạnh tranh nhau, mỗi hoạt động cần dùng độc quyền một tài nguyên chung, với mục tiêu chọn được tập lớn nhất các hoạt động tương thích đôi một. Cho tập S = {a₁, a₂, …, aₙ} gồm n **hoạt động** (activities) muốn dùng một tài nguyên, ví dụ một giảng đường, chỉ phục vụ được một hoạt động một lúc. Mỗi hoạt động aᵢ có **thời điểm bắt đầu** (start time) sᵢ và **thời điểm kết thúc** (finish time) fᵢ, với 0 ≤ sᵢ < fᵢ < ∞. Nếu được chọn, aᵢ diễn ra trong nửa khoảng [sᵢ, fᵢ). Hai hoạt động aᵢ và aⱼ **tương thích** (compatible) nếu hai khoảng [sᵢ, fᵢ) và [sⱼ, fⱼ) không chồng lên nhau, tức là sᵢ ≥ fⱼ hoặc sⱼ ≥ fᵢ. Trong **bài toán chọn hoạt động** (activity-selection problem), ta muốn chọn một tập con có kích thước lớn nhất gồm các hoạt động tương thích đôi một. Giả định các hoạt động đã được sắp xếp theo thời điểm kết thúc tăng dần (không giảm):
+Ví dụ đầu tiên là bài toán lập lịch cho nhiều hoạt động cạnh tranh nhau, mỗi hoạt động cần dùng độc quyền một tài nguyên chung, với mục tiêu chọn được tập lớn nhất các hoạt động tương thích đôi một.
+
+Cho tập S = {a₁, a₂, …, aₙ} gồm n **hoạt động** (activities) muốn dùng một tài nguyên, ví dụ một giảng đường, chỉ phục vụ được một hoạt động một lúc. Mỗi hoạt động aᵢ có **thời điểm bắt đầu** (start time) sᵢ và **thời điểm kết thúc** (finish time) fᵢ, với 0 ≤ sᵢ < fᵢ < ∞. Nếu được chọn, aᵢ diễn ra trong nửa khoảng [sᵢ, fᵢ). Hai hoạt động aᵢ và aⱼ **tương thích** (compatible) nếu hai khoảng [sᵢ, fᵢ) và [sⱼ, fⱼ) không chồng lên nhau, tức là sᵢ ≥ fⱼ hoặc sⱼ ≥ fᵢ. Trong **bài toán chọn hoạt động** (activity-selection problem), ta muốn chọn một tập con có kích thước lớn nhất gồm các hoạt động tương thích đôi một. Giả định các hoạt động đã được sắp xếp theo thời điểm kết thúc tăng dần (không giảm):
 
 ```text
 f₁ ≤ f₂ ≤ f₃ ≤ … ≤ fₙ₋₁ ≤ fₙ                                          (16.1)
@@ -387,7 +387,9 @@ Tác giả giải bài toán qua nhiều bước: bắt đầu bằng lời gi�
 
 #### Cấu trúc con tối ưu của bài toán chọn hoạt động (The optimal substructure of the activity-selection problem)
 
-Ký hiệu Sᵢⱼ là tập các hoạt động bắt đầu sau khi aᵢ kết thúc và kết thúc trước khi aⱼ bắt đầu. Giả sử ta muốn tìm một tập lớn nhất các hoạt động tương thích đôi một trong Sᵢⱼ, và tập lớn nhất đó là Aᵢⱼ, chứa một hoạt động aₖ nào đó. Khi đưa aₖ vào lời giải tối ưu, còn lại hai bài toán con: tìm các hoạt động tương thích trong Sᵢₖ (bắt đầu sau khi aᵢ kết thúc, kết thúc trước khi aₖ bắt đầu) và trong Sₖⱼ (bắt đầu sau khi aₖ kết thúc, kết thúc trước khi aⱼ bắt đầu). Đặt Aᵢₖ = Aᵢⱼ ∩ Sᵢₖ và Aₖⱼ = Aᵢⱼ ∩ Sₖⱼ: Aᵢₖ gồm các hoạt động trong Aᵢⱼ kết thúc trước khi aₖ bắt đầu, Aₖⱼ gồm các hoạt động trong Aᵢⱼ bắt đầu sau khi aₖ kết thúc. Do đó Aᵢⱼ = Aᵢₖ ∪ {aₖ} ∪ Aₖⱼ, và tập lớn nhất Aᵢⱼ có |Aᵢⱼ| = |Aᵢₖ| + |Aₖⱼ| + 1 hoạt động.
+Ký hiệu Sᵢⱼ là tập các hoạt động bắt đầu sau khi aᵢ kết thúc và kết thúc trước khi aⱼ bắt đầu. Giả sử ta muốn tìm một tập lớn nhất các hoạt động tương thích đôi một trong Sᵢⱼ, và tập lớn nhất đó là Aᵢⱼ, chứa một hoạt động aₖ nào đó. Khi đưa aₖ vào lời giải tối ưu, còn lại hai bài toán con: tìm các hoạt động tương thích trong Sᵢₖ (bắt đầu sau khi aᵢ kết thúc, kết thúc trước khi aₖ bắt đầu) và trong Sₖⱼ (bắt đầu sau khi aₖ kết thúc, kết thúc trước khi aⱼ bắt đầu).
+
+Đặt Aᵢₖ = Aᵢⱼ ∩ Sᵢₖ và Aₖⱼ = Aᵢⱼ ∩ Sₖⱼ: Aᵢₖ gồm các hoạt động trong Aᵢⱼ kết thúc trước khi aₖ bắt đầu, Aₖⱼ gồm các hoạt động trong Aᵢⱼ bắt đầu sau khi aₖ kết thúc. Do đó Aᵢⱼ = Aᵢₖ ∪ {aₖ} ∪ Aₖⱼ, và tập lớn nhất Aᵢⱼ có |Aᵢⱼ| = |Aᵢₖ| + |Aₖⱼ| + 1 hoạt động.
 
 Lập luận cắt và dán thông thường cho thấy lời giải tối ưu Aᵢⱼ phải chứa lời giải tối ưu của hai bài toán con Sᵢₖ và Sₖⱼ. Nếu tìm được tập A′ₖⱼ các hoạt động tương thích trong Sₖⱼ với |A′ₖⱼ| > |Aₖⱼ|, ta có thể dùng A′ₖⱼ thay cho Aₖⱼ trong lời giải của Sᵢⱼ, và thu được một tập |Aᵢₖ| + |A′ₖⱼ| + 1 > |Aᵢₖ| + |Aₖⱼ| + 1 = |Aᵢⱼ| hoạt động tương thích đôi một — mâu thuẫn với giả thiết Aᵢⱼ tối ưu. Lập luận đối xứng áp dụng cho Sᵢₖ.
 
@@ -405,7 +407,9 @@ Từ đây có thể viết thuật toán đệ quy có ghi nhớ, hoặc làm t
 
 Nếu có thể chọn một hoạt động để đưa vào lời giải tối ưu mà không phải giải trước mọi bài toán con thì sao? Điều đó giúp không phải xét mọi lựa chọn trong truy hồi (16.2). Thực ra, với bài toán chọn hoạt động, chỉ cần xét một lựa chọn: **lựa chọn tham lam**.
 
-Lựa chọn tham lam ở đây là gì? Trực giác gợi ý nên chọn hoạt động để lại tài nguyên trống cho nhiều hoạt động khác nhất. Trong các hoạt động cuối cùng được chọn, phải có một hoạt động kết thúc đầu tiên. Vì vậy trực giác bảo nên chọn hoạt động trong S có thời điểm kết thúc sớm nhất, vì nó để tài nguyên trống cho nhiều hoạt động theo sau nhất. (Nếu có nhiều hoạt động cùng thời điểm kết thúc sớm nhất thì chọn hoạt động nào trong số đó cũng được.) Nói cách khác, vì các hoạt động đã sắp xếp theo thời điểm kết thúc tăng dần, lựa chọn tham lam là a₁. Chọn hoạt động kết thúc đầu tiên không phải cách duy nhất để nghĩ về lựa chọn tham lam cho bài toán này; Exercise 16.1-3 yêu cầu khảo sát các cách khác.
+Lựa chọn tham lam ở đây là gì? Trực giác gợi ý nên chọn hoạt động để lại tài nguyên trống cho nhiều hoạt động khác nhất. Trong các hoạt động cuối cùng được chọn, phải có một hoạt động kết thúc đầu tiên. Vì vậy trực giác bảo nên chọn hoạt động trong S có thời điểm kết thúc sớm nhất, vì nó để tài nguyên trống cho nhiều hoạt động theo sau nhất. (Nếu có nhiều hoạt động cùng thời điểm kết thúc sớm nhất thì chọn hoạt động nào trong số đó cũng được.)
+
+Nói cách khác, vì các hoạt động đã sắp xếp theo thời điểm kết thúc tăng dần, lựa chọn tham lam là a₁. Chọn hoạt động kết thúc đầu tiên không phải cách duy nhất để nghĩ về lựa chọn tham lam cho bài toán này; Exercise 16.1-3 yêu cầu khảo sát các cách khác.
 
 Khi đưa ra lựa chọn tham lam, chỉ còn một bài toán con phải giải: tìm các hoạt động bắt đầu sau khi a₁ kết thúc. Vì sao không cần xét các hoạt động kết thúc trước khi a₁ bắt đầu? Vì s₁ < f₁ và f₁ là thời điểm kết thúc sớm nhất của mọi hoạt động, nên không hoạt động nào có thời điểm kết thúc nhỏ hơn hoặc bằng s₁. Do đó mọi hoạt động tương thích với a₁ đều phải bắt đầu sau khi a₁ kết thúc.
 
@@ -518,7 +522,9 @@ Làm sao biết một thuật toán tham lam có giải được một bài toá
 
 Thành phần then chốt đầu tiên là **tính chất lựa chọn tham lam**: có thể ghép một lời giải tối ưu toàn cục bằng các lựa chọn tối ưu cục bộ (tham lam). Nói cách khác, khi cân nhắc lựa chọn nào, ta chọn phương án trông tốt nhất trong bài toán hiện tại, không xét kết quả của các bài toán con.
 
-Đây là chỗ thuật toán tham lam khác quy hoạch động. Trong quy hoạch động, ta cũng đưa ra một lựa chọn ở mỗi bước, nhưng lựa chọn thường phụ thuộc vào lời giải của các bài toán con. Vì thế ta thường giải bài toán quy hoạch động từ dưới lên, đi từ bài toán con nhỏ tới bài toán con lớn. (Cũng có thể giải từ trên xuống có ghi nhớ; nhưng dù mã chạy từ trên xuống, ta vẫn phải giải các bài toán con trước khi chọn.) Trong thuật toán tham lam, ta chọn phương án trông tốt nhất lúc đó rồi giải bài toán con còn lại. Lựa chọn của thuật toán tham lam có thể phụ thuộc vào các lựa chọn đã làm, nhưng không thể phụ thuộc vào lựa chọn tương lai hay vào lời giải của bài toán con. Vì vậy, khác với quy hoạch động giải các bài toán con trước khi đưa ra lựa chọn đầu tiên, thuật toán tham lam đưa ra lựa chọn đầu tiên trước khi giải bài toán con nào. Thuật toán quy hoạch động đi từ dưới lên, còn chiến lược tham lam thường đi từ trên xuống, đưa ra lựa chọn tham lam này tới lựa chọn khác, thu mỗi bài toán thành một bài toán nhỏ hơn.
+Đây là chỗ thuật toán tham lam khác quy hoạch động. Trong quy hoạch động, ta cũng đưa ra một lựa chọn ở mỗi bước, nhưng lựa chọn thường phụ thuộc vào lời giải của các bài toán con. Vì thế ta thường giải bài toán quy hoạch động từ dưới lên, đi từ bài toán con nhỏ tới bài toán con lớn. (Cũng có thể giải từ trên xuống có ghi nhớ; nhưng dù mã chạy từ trên xuống, ta vẫn phải giải các bài toán con trước khi chọn.)
+
+Trong thuật toán tham lam, ta chọn phương án trông tốt nhất lúc đó rồi giải bài toán con còn lại. Lựa chọn của thuật toán tham lam có thể phụ thuộc vào các lựa chọn đã làm, nhưng không thể phụ thuộc vào lựa chọn tương lai hay vào lời giải của bài toán con. Vì vậy, khác với quy hoạch động giải các bài toán con trước khi đưa ra lựa chọn đầu tiên, thuật toán tham lam đưa ra lựa chọn đầu tiên trước khi giải bài toán con nào. Thuật toán quy hoạch động đi từ dưới lên, còn chiến lược tham lam thường đi từ trên xuống, đưa ra lựa chọn tham lam này tới lựa chọn khác, thu mỗi bài toán thành một bài toán nhỏ hơn.
 
 Dĩ nhiên phải chứng minh lựa chọn tham lam ở mỗi bước dẫn tới lời giải tối ưu toàn cục. Thường thì, như Định lý 16.1, chứng minh xét một lời giải tối ưu toàn cục của một bài toán con nào đó, rồi chỉ ra cách sửa lời giải để thay một lựa chọn khác bằng lựa chọn tham lam, được một bài toán con tương tự nhưng nhỏ hơn.
 
@@ -636,7 +642,9 @@ Giải mã cần một cách biểu diễn tiện lợi để dễ tách từ m�
 
 Lưu ý đây không phải cây tìm kiếm nhị phân: các lá không cần theo thứ tự sắp xếp, và nút trong không chứa khoá ký tự.
 
-Một mã tối ưu cho một tệp luôn được biểu diễn bằng một cây nhị phân **đầy đủ** (full binary tree), trong đó mọi nút không phải lá đều có hai con (Exercise 16.3-2). Mã độ dài cố định trong ví dụ không tối ưu vì cây (a) của nó không đầy đủ: có những từ mã bắt đầu bằng 10… (e = 100, f = 101) nhưng không có từ mã nào bắt đầu bằng 11… — nút 14 ở tầng 1 bên phải chỉ có một con. (Theo người tổng hợp: bỏ nút thừa đó, e và f rút còn 2 bit, tiết kiệm 14.000 bit.) Vì từ đây có thể giới hạn vào cây nhị phân đầy đủ, nếu C là bảng chữ cái chứa các ký tự và mọi tần suất đều dương, thì cây của một mã tiền tố tối ưu có đúng |C| lá, mỗi lá một ký tự, và đúng |C| − 1 nút trong (Exercise B.5-3 của Phụ lục B).
+Một mã tối ưu cho một tệp luôn được biểu diễn bằng một cây nhị phân **đầy đủ** (full binary tree), trong đó mọi nút không phải lá đều có hai con (Exercise 16.3-2). Mã độ dài cố định trong ví dụ không tối ưu vì cây (a) của nó không đầy đủ: có những từ mã bắt đầu bằng 10… (e = 100, f = 101) nhưng không có từ mã nào bắt đầu bằng 11… — nút 14 ở tầng 1 bên phải chỉ có một con. (Theo người tổng hợp: bỏ nút thừa đó, e và f rút còn 2 bit, tiết kiệm 14.000 bit.)
+
+Vì từ đây có thể giới hạn vào cây nhị phân đầy đủ, nếu C là bảng chữ cái chứa các ký tự và mọi tần suất đều dương, thì cây của một mã tiền tố tối ưu có đúng |C| lá, mỗi lá một ký tự, và đúng |C| − 1 nút trong (Exercise B.5-3 của Phụ lục B).
 
 Cho cây T ứng với một mã tiền tố, dễ tính số bit cần để mã hoá tệp. Với mỗi ký tự c trong bảng chữ cái C, gọi thuộc tính c.freq là tần suất của c trong tệp và d_T(c) là độ sâu lá của c trong cây. d_T(c) cũng là độ dài từ mã của c. Số bit cần để mã hoá tệp là
 
@@ -665,7 +673,9 @@ HUFFMAN(C)
 9  return EXTRACT-MIN(Q)       // return the root of the tree
 ```
 
-Dòng 2 khởi tạo hàng đợi ưu tiên nhỏ nhất Q với các ký tự của C. Vòng for ở dòng 3–8 liên tục lấy ra khỏi hàng đợi hai nút x và y có tần suất thấp nhất (dòng 4: cấp phát nút mới z; dòng 5–6: lấy x làm con trái, y làm con phải của z), thay chúng trong hàng đợi bằng nút mới z biểu diễn phép gộp. Tần suất của z được tính bằng tổng tần suất của x và y ở dòng 7, và dòng 8 đưa z vào hàng đợi. Thứ tự trái/phải là tuỳ ý; đổi con trái và con phải của bất kỳ nút nào cho một mã khác có cùng chi phí. Sau n − 1 phép gộp, dòng 9 trả về nút duy nhất còn lại trong hàng đợi (chú thích: "trả về gốc của cây"), chính là gốc của cây mã.
+Dòng 2 khởi tạo hàng đợi ưu tiên nhỏ nhất Q với các ký tự của C. Vòng for ở dòng 3–8 liên tục lấy ra khỏi hàng đợi hai nút x và y có tần suất thấp nhất (dòng 4: cấp phát nút mới z; dòng 5–6: lấy x làm con trái, y làm con phải của z), thay chúng trong hàng đợi bằng nút mới z biểu diễn phép gộp. Tần suất của z được tính bằng tổng tần suất của x và y ở dòng 7, và dòng 8 đưa z vào hàng đợi.
+
+Thứ tự trái/phải là tuỳ ý; đổi con trái và con phải của bất kỳ nút nào cho một mã khác có cùng chi phí. Sau n − 1 phép gộp, dòng 9 trả về nút duy nhất còn lại trong hàng đợi (chú thích: "trả về gốc của cây"), chính là gốc của cây mã.
 
 Thuật toán vẫn cho cùng kết quả nếu bỏ hai biến x và y — gán thẳng cho z.left và z.right ở dòng 5 và 6, và đổi dòng 7 thành z.freq = z.left.freq + z.right.freq — nhưng sách giữ tên x, y vì dùng chúng trong chứng minh tính đúng.
 
@@ -830,7 +840,9 @@ Ví dụ, nếu w(e) là trọng số của cạnh e trong matroid đồ thị M
 
 Nhiều bài toán mà cách tiếp cận tham lam cho lời giải tối ưu có thể phát biểu thành bài toán tìm tập con độc lập có trọng số lớn nhất trong một matroid có trọng số. Tức là cho matroid có trọng số M = (S, 𝓘), cần tìm tập độc lập A ∈ 𝓘 sao cho w(A) lớn nhất. Ta gọi tập con độc lập có trọng số lớn nhất có thể như vậy là một **tập con tối ưu** (optimal subset) của matroid. Vì trọng số w(x) của mọi phần tử x ∈ S đều dương, tập con tối ưu luôn là tập con độc lập cực đại — làm A càng lớn càng có lợi.
 
-Ví dụ, trong **bài toán cây khung nhỏ nhất** (minimum-spanning-tree problem), cho đồ thị vô hướng liên thông G = (V, E) và hàm độ dài w với w(e) là độ dài (dương) của cạnh e. (Sách dùng từ "độ dài" cho trọng số gốc của cạnh trong đồ thị, dành từ "trọng số" cho trọng số trong matroid tương ứng.) Ta muốn tìm một tập cạnh nối mọi đỉnh lại với nhau và có tổng độ dài nhỏ nhất. Để xem đây là bài toán tìm tập con tối ưu của một matroid, xét matroid có trọng số M_G với hàm trọng số w′, trong đó w′(e) = w₀ − w(e) và w₀ lớn hơn độ dài lớn nhất của mọi cạnh. Trong matroid có trọng số này, mọi trọng số đều dương và một tập con tối ưu là một cây khung có tổng độ dài nhỏ nhất trong đồ thị gốc. Cụ thể, mỗi tập con độc lập cực đại A ứng với một cây khung có |V| − 1 cạnh, và vì
+Ví dụ, trong **bài toán cây khung nhỏ nhất** (minimum-spanning-tree problem), cho đồ thị vô hướng liên thông G = (V, E) và hàm độ dài w với w(e) là độ dài (dương) của cạnh e. (Sách dùng từ "độ dài" cho trọng số gốc của cạnh trong đồ thị, dành từ "trọng số" cho trọng số trong matroid tương ứng.) Ta muốn tìm một tập cạnh nối mọi đỉnh lại với nhau và có tổng độ dài nhỏ nhất.
+
+Để xem đây là bài toán tìm tập con tối ưu của một matroid, xét matroid có trọng số M_G với hàm trọng số w′, trong đó w′(e) = w₀ − w(e) và w₀ lớn hơn độ dài lớn nhất của mọi cạnh. Trong matroid có trọng số này, mọi trọng số đều dương và một tập con tối ưu là một cây khung có tổng độ dài nhỏ nhất trong đồ thị gốc. Cụ thể, mỗi tập con độc lập cực đại A ứng với một cây khung có |V| − 1 cạnh, và vì
 
 ```text
 w′(A) = Σ_{e ∈ A} w′(e)
@@ -905,7 +917,7 @@ S′ = { y ∈ S : {x, y} ∈ 𝓘 }
 𝓘′ = { B ⊆ S − {x} : B ∪ {x} ∈ 𝓘 }
 ```
 
-và hàm trọng số của M′ là hàm trọng số của M thu hẹp trên S′. (Ta gọi M′ là **phép co** — contraction — của M theo phần tử x.) (Nhận xét của người tổng hợp: nên hiểu S′ không chứa chính x, như đã ghi ở khối Lưu ý.)
+và hàm trọng số của M′ là hàm trọng số của M thu hẹp trên S′. (Ta gọi M′ là **phép co** — contraction — của M theo phần tử x.) (Nhận xét của người tổng hợp: nên hiểu S′ không chứa chính x, như đã ghi ở mục Lưu ý cuối chương.)
 
 *Chứng minh.* Nếu A là một tập con độc lập có trọng số lớn nhất của M chứa x thì A′ = A − {x} là một tập con độc lập của M′. Ngược lại, mọi tập con độc lập A′ của M′ cho ra tập con độc lập A = A′ ∪ {x} của M. Vì trong cả hai trường hợp w(A) = w(A′) + w(x), một lời giải trọng số lớn nhất trong M chứa x cho ra một lời giải trọng số lớn nhất trong M′, và ngược lại. ∎
 
@@ -913,7 +925,9 @@ Ví dụ (người tổng hợp): trong matroid đồ thị, co theo cạnh x = 
 
 **Định lý 16.11 (Tính đúng của thuật toán tham lam trên matroid).** Nếu M = (S, 𝓘) là matroid có trọng số với hàm trọng số w thì GREEDY(M, w) trả về một tập con tối ưu.
 
-*Chứng minh.* Theo Hệ quả 16.9, mọi phần tử GREEDY bỏ qua lúc đầu vì không phải mở rộng của ∅ có thể quên đi, vì chúng không bao giờ có ích. Khi GREEDY chọn phần tử đầu tiên x, Bổ đề 16.7 cho thấy thuật toán không sai khi thêm x vào A, vì có một tập con tối ưu chứa x. Cuối cùng, Bổ đề 16.10 cho thấy bài toán còn lại là tìm tập con tối ưu trong matroid M′, phép co của M theo x. Sau khi GREEDY đặt A thành {x}, có thể hiểu mọi bước còn lại của nó như đang chạy trên matroid M′ = (S′, 𝓘′), vì B độc lập trong M′ khi và chỉ khi B ∪ {x} độc lập trong M, với mọi tập B ∈ 𝓘′. Do đó các bước tiếp theo của GREEDY tìm được tập con độc lập trọng số lớn nhất cho M′, và toàn bộ quá trình của GREEDY tìm được tập con độc lập trọng số lớn nhất cho M. ∎ (Đây là một phép quy nạp theo |S|, viết ngầm.)
+*Chứng minh.* Theo Hệ quả 16.9, mọi phần tử GREEDY bỏ qua lúc đầu vì không phải mở rộng của ∅ có thể quên đi, vì chúng không bao giờ có ích. Khi GREEDY chọn phần tử đầu tiên x, Bổ đề 16.7 cho thấy thuật toán không sai khi thêm x vào A, vì có một tập con tối ưu chứa x. Cuối cùng, Bổ đề 16.10 cho thấy bài toán còn lại là tìm tập con tối ưu trong matroid M′, phép co của M theo x.
+
+Sau khi GREEDY đặt A thành {x}, có thể hiểu mọi bước còn lại của nó như đang chạy trên matroid M′ = (S′, 𝓘′), vì B độc lập trong M′ khi và chỉ khi B ∪ {x} độc lập trong M, với mọi tập B ∈ 𝓘′. Do đó các bước tiếp theo của GREEDY tìm được tập con độc lập trọng số lớn nhất cho M′, và toàn bộ quá trình của GREEDY tìm được tập con độc lập trọng số lớn nhất cho M. ∎ (Đây là một phép quy nạp theo |S|, viết ngầm.)
 
 ### 6. Bài toán lập lịch công việc như một matroid (★16.5 A task-scheduling problem as a matroid, trang 443–446)
 
@@ -945,7 +959,9 @@ Xét bài toán xác định một tập công việc A cho trước có độc 
 2. Với t = 0, 1, 2, …, n, ta có N_t(A) ≤ t.
 3. Nếu xếp các công việc trong A theo hạn chót tăng dần thì không việc nào trễ.
 
-*Chứng minh.* Để chứng minh (1) kéo theo (2), chứng minh phản đảo: nếu N_t(A) > t với một t nào đó thì không thể xếp A mà không có việc trễ, vì có hơn t công việc phải xong trước hoặc đúng thời điểm t, trong khi tới thời điểm t chỉ chạy được t công việc. Vậy (1) kéo theo (2). Nếu (2) đúng thì (3) phải đúng: không thể "bị kẹt" khi xếp các công việc theo hạn chót tăng dần, vì (2) kéo theo hạn chót **nhỏ** thứ i ít nhất bằng i. (Sách in "the ith largest deadline", là lỗi; xem khối Lưu ý. Lý giải của người tổng hợp: gọi hạn chót nhỏ thứ i là d₍ᵢ₎; nếu d₍ᵢ₎ < i thì N_{d₍ᵢ₎}(A) ≥ i > d₍ᵢ₎, trái với (2); việc thứ i trong thứ tự tăng dần xong lúc i ≤ d₍ᵢ₎ nên đúng hạn.) Cuối cùng, (3) hiển nhiên kéo theo (1). ∎
+*Chứng minh.* Để chứng minh (1) kéo theo (2), chứng minh phản đảo: nếu N_t(A) > t với một t nào đó thì không thể xếp A mà không có việc trễ, vì có hơn t công việc phải xong trước hoặc đúng thời điểm t, trong khi tới thời điểm t chỉ chạy được t công việc. Vậy (1) kéo theo (2).
+
+Nếu (2) đúng thì (3) phải đúng: không thể "bị kẹt" khi xếp các công việc theo hạn chót tăng dần, vì (2) kéo theo hạn chót **nhỏ** thứ i ít nhất bằng i. (Sách in "the ith largest deadline", là lỗi; xem mục Lưu ý cuối chương. Lý giải của người tổng hợp: gọi hạn chót nhỏ thứ i là d₍ᵢ₎; nếu d₍ᵢ₎ < i thì N_{d₍ᵢ₎}(A) ≥ i > d₍ᵢ₎, trái với (2); việc thứ i trong thứ tự tăng dần xong lúc i ≤ d₍ᵢ₎ nên đúng hạn.) Cuối cùng, (3) hiển nhiên kéo theo (1). ∎
 
 Dùng tính chất 2 của Bổ đề 16.12, dễ tính được một tập công việc cho trước có độc lập không (Exercise 16.5-2).
 
@@ -953,7 +969,9 @@ Bài toán tối thiểu tổng tiền phạt của các việc trễ tương đ
 
 **Định lý 16.13.** Nếu S là tập các công việc đơn vị thời gian có hạn chót và 𝓘 là tập mọi tập công việc độc lập thì hệ (S, 𝓘) tương ứng là một matroid.
 
-*Chứng minh.* Mọi tập con của một tập công việc độc lập hiển nhiên độc lập (bỏ bớt việc khỏi một lịch không trễ vẫn không trễ). Để chứng minh tính chất trao đổi, giả sử B và A là các tập công việc độc lập và |B| > |A|. Gọi k là giá trị t lớn nhất sao cho N_t(B) ≤ N_t(A). (Giá trị như vậy tồn tại vì N₀(A) = N₀(B) = 0.) Vì N_n(B) = |B| và N_n(A) = |A|, mà |B| > |A|, ta phải có k < n và N_j(B) > N_j(A) với mọi j trong khoảng k + 1 ≤ j ≤ n. Do đó B có nhiều việc có hạn chót bằng k + 1 hơn A (vì N_k(B) ≤ N_k(A) nhưng N_{k+1}(B) > N_{k+1}(A)). Gọi aᵢ là một việc trong B − A có hạn chót k + 1. Đặt A′ = A ∪ {aᵢ}.
+*Chứng minh.* Mọi tập con của một tập công việc độc lập hiển nhiên độc lập (bỏ bớt việc khỏi một lịch không trễ vẫn không trễ).
+
+Để chứng minh tính chất trao đổi, giả sử B và A là các tập công việc độc lập và |B| > |A|. Gọi k là giá trị t lớn nhất sao cho N_t(B) ≤ N_t(A). (Giá trị như vậy tồn tại vì N₀(A) = N₀(B) = 0.) Vì N_n(B) = |B| và N_n(A) = |A|, mà |B| > |A|, ta phải có k < n và N_j(B) > N_j(A) với mọi j trong khoảng k + 1 ≤ j ≤ n. Do đó B có nhiều việc có hạn chót bằng k + 1 hơn A (vì N_k(B) ≤ N_k(A) nhưng N_{k+1}(B) > N_{k+1}(A)). Gọi aᵢ là một việc trong B − A có hạn chót k + 1. Đặt A′ = A ∪ {aᵢ}.
 
 Giờ chứng minh A′ độc lập bằng tính chất 2 của Bổ đề 16.12. Với 0 ≤ t ≤ k, N_t(A′) = N_t(A) ≤ t, vì A độc lập (aᵢ có hạn chót k + 1 > t nên không được đếm). Với k < t ≤ n, N_t(A′) = N_t(A) + 1 ≤ N_t(B) ≤ t, vì N_t(A) < N_t(B) và B độc lập. Vậy A′ độc lập, hoàn tất chứng minh (S, 𝓘) là matroid. ∎
 
@@ -1088,7 +1106,11 @@ Xét thuật toán sau cho bài toán lập lịch công việc đơn vị thờ
 
 ### Problem 16-5: Bộ nhớ đệm ngoại tuyến (Off-line caching)
 
-Máy tính hiện đại dùng **bộ nhớ đệm** (cache) để lưu một lượng nhỏ dữ liệu trong bộ nhớ nhanh. Dù chương trình có thể truy cập lượng lớn dữ liệu, lưu một tập con nhỏ của bộ nhớ chính trong bộ nhớ đệm — nhỏ nhưng nhanh hơn — có thể giảm mạnh tổng thời gian truy cập. Khi chạy, chương trình tạo một dãy ⟨r₁, r₂, …, rₙ⟩ gồm n yêu cầu bộ nhớ, mỗi yêu cầu cho một phần tử dữ liệu cụ thể. Ví dụ chương trình truy cập 4 phần tử phân biệt {a, b, c, d} có thể tạo dãy yêu cầu ⟨d, b, d, b, d, a, c, d, b, a, c, b⟩. Gọi k là kích thước bộ nhớ đệm. Khi bộ nhớ đệm chứa k phần tử và chương trình yêu cầu phần tử thứ (k + 1), hệ thống phải quyết định, cho yêu cầu này và mỗi yêu cầu sau, giữ k phần tử nào trong bộ nhớ đệm. Cụ thể, với mỗi yêu cầu rᵢ, thuật toán quản lý bộ nhớ đệm kiểm tra rᵢ đã có trong bộ nhớ đệm chưa. Nếu có, ta có **trúng** (cache hit); nếu không, ta có **trượt** (cache miss). Khi trượt, hệ thống lấy rᵢ từ bộ nhớ chính, và thuật toán phải quyết định có giữ rᵢ trong bộ nhớ đệm không. Nếu giữ mà bộ nhớ đệm đã đủ k phần tử, phải đuổi một phần tử để lấy chỗ. Thuật toán đuổi dữ liệu với mục tiêu tối thiểu số lần trượt trên cả dãy yêu cầu.
+Máy tính hiện đại dùng **bộ nhớ đệm** (cache) để lưu một lượng nhỏ dữ liệu trong bộ nhớ nhanh. Dù chương trình có thể truy cập lượng lớn dữ liệu, lưu một tập con nhỏ của bộ nhớ chính trong bộ nhớ đệm — nhỏ nhưng nhanh hơn — có thể giảm mạnh tổng thời gian truy cập. Khi chạy, chương trình tạo một dãy ⟨r₁, r₂, …, rₙ⟩ gồm n yêu cầu bộ nhớ, mỗi yêu cầu cho một phần tử dữ liệu cụ thể. Ví dụ chương trình truy cập 4 phần tử phân biệt {a, b, c, d} có thể tạo dãy yêu cầu ⟨d, b, d, b, d, a, c, d, b, a, c, b⟩.
+
+Gọi k là kích thước bộ nhớ đệm. Khi bộ nhớ đệm chứa k phần tử và chương trình yêu cầu phần tử thứ (k + 1), hệ thống phải quyết định, cho yêu cầu này và mỗi yêu cầu sau, giữ k phần tử nào trong bộ nhớ đệm.
+
+Cụ thể, với mỗi yêu cầu rᵢ, thuật toán quản lý bộ nhớ đệm kiểm tra rᵢ đã có trong bộ nhớ đệm chưa. Nếu có, ta có **trúng** (cache hit); nếu không, ta có **trượt** (cache miss). Khi trượt, hệ thống lấy rᵢ từ bộ nhớ chính, và thuật toán phải quyết định có giữ rᵢ trong bộ nhớ đệm không. Nếu giữ mà bộ nhớ đệm đã đủ k phần tử, phải đuổi một phần tử để lấy chỗ. Thuật toán đuổi dữ liệu với mục tiêu tối thiểu số lần trượt trên cả dãy yêu cầu.
 
 Thông thường, quản lý bộ nhớ đệm là bài toán **trực tuyến** (on-line): phải quyết định giữ dữ liệu nào mà không biết yêu cầu tương lai. Ở đây xét bản **ngoại tuyến** (off-line): biết trước toàn bộ dãy n yêu cầu và kích thước k, cần tối thiểu tổng số lần trượt. Bài toán ngoại tuyến này giải được bằng chiến lược tham lam gọi là **xa nhất trong tương lai** (furthest-in-future): đuổi phần tử trong bộ nhớ đệm có lần truy cập tiếp theo xa nhất trong dãy yêu cầu.
 
@@ -1265,7 +1287,7 @@ Mục ★16.4 trả lời câu hỏi "vì sao tham lam đúng" ở mức trừu 
 
 ### Điểm yếu và chỗ đơn giản hoá
 
-- **Lỗi và chỗ chưa chặt trong Mục 16.5 và Problem 16-3** (đã nêu ở khối Lưu ý): "ith largest" thay vì "ith smallest" trong Bổ đề 16.12; hai tham chiếu tự trỏ vào chính nó trong Problem 16-3; trọng số dương thực sự ở 16.4 so với tiền phạt không âm ở 16.5.
+- **Lỗi và chỗ chưa chặt trong Mục 16.5 và Problem 16-3** (đã nêu ở mục Lưu ý cuối chương): "ith largest" thay vì "ith smallest" trong Bổ đề 16.12; hai tham chiếu tự trỏ vào chính nó trong Problem 16-3; trọng số dương thực sự ở 16.4 so với tiền phạt không âm ở 16.5.
 - **Câu "mã tiền tố luôn đạt nén tối ưu trong mọi mã ký tự" không được chứng minh.** Theo hiểu biết của người tổng hợp, đây là hệ quả của bất đẳng thức Kraft–McMillan: mọi mã giải mã duy nhất đều có độ dài từ mã thoả Σ 2^{−lᵢ} ≤ 1, và mọi bộ độ dài như vậy đều thực hiện được bằng mã tiền tố. Sách cũng không nói rõ mã Huffman chỉ tối ưu **trong lớp mã ký tự** (mỗi ký tự một từ mã nguyên bit); mã hoá số học hay mã hoá theo khối ký tự có thể nén tốt hơn, và các bộ nén thực tế (LZ77, LZW) khai thác lặp lại chuỗi chứ không chỉ tần suất ký tự.
 - **Lý thuyết matroid không phủ hai ví dụ chính của chương** (chọn hoạt động và Huffman), như chính sách thừa nhận. Người đọc có thể thấy "lý thuyết đẹp" nhưng không giải thích được những gì vừa học; greedoid chỉ được nhắc tên ở Ghi chú chương.
 - **Thiếu các ví dụ "tham lam xấp xỉ".** Chương chỉ bàn tham lam tối ưu; trường hợp tham lam cho lời giải gần tối ưu với bảo đảm (phủ tập, tối đa hoá hàm submodular) để dành cho Chương 35, nên người đọc dễ hiểu sai rằng tham lam hoặc đúng hoặc vô dụng.
@@ -1273,7 +1295,9 @@ Mục ★16.4 trả lời câu hỏi "vì sao tham lam đúng" ở mức trừu 
 
 ### So với cách làm thực tế
 
-Theo hiểu biết của người tổng hợp: mã Huffman vẫn là một tầng trong DEFLATE (ZIP, gzip, PNG), JPEG và nhiều định dạng khác, thường ở dạng **mã Huffman chính tắc** (canonical Huffman code), chỉ cần truyền độ dài từ mã thay vì cả cây (tinh thần của Exercise 16.3-6). Các bộ nén hiện đại như Zstandard dùng mã hoá entropy dạng ANS kết hợp Huffman cho literal. Bài toán chọn hoạt động là lõi của các bộ xếp lịch phòng họp; bản có trọng số (Exercise 16.1-5) phổ biến hơn trong thực tế và cần quy hoạch động. Chiến lược "xa nhất trong tương lai" (thuật toán OPT của Belady) không cài được trong hệ thống thật vì cần biết tương lai, nhưng là chuẩn so sánh cho LRU, LFU, ARC và các chính sách bộ nhớ đệm khác. Thuật toán Kruskal — GREEDY trên matroid đồ thị — được dùng trực tiếp trong phân cụm liên kết đơn và thiết kế mạng.
+Theo hiểu biết của người tổng hợp: mã Huffman vẫn là một tầng trong DEFLATE (ZIP, gzip, PNG), JPEG và nhiều định dạng khác, thường ở dạng **mã Huffman chính tắc** (canonical Huffman code), chỉ cần truyền độ dài từ mã thay vì cả cây (tinh thần của Exercise 16.3-6). Các bộ nén hiện đại như Zstandard dùng mã hoá entropy dạng ANS kết hợp Huffman cho literal.
+
+Bài toán chọn hoạt động là lõi của các bộ xếp lịch phòng họp; bản có trọng số (Exercise 16.1-5) phổ biến hơn trong thực tế và cần quy hoạch động. Chiến lược "xa nhất trong tương lai" (thuật toán OPT của Belady) không cài được trong hệ thống thật vì cần biết tương lai, nhưng là chuẩn so sánh cho LRU, LFU, ARC và các chính sách bộ nhớ đệm khác. Thuật toán Kruskal — GREEDY trên matroid đồ thị — được dùng trực tiếp trong phân cụm liên kết đơn và thiết kế mạng.
 
 ### Liên hệ các chương khác
 
@@ -1293,3 +1317,135 @@ Theo hiểu biết của người tổng hợp: mã Huffman vẫn là một tầ
 - **Phỏng vấn:** các bài khoảng thời gian (chọn nhiều khoảng không chồng nhất, xoá ít khoảng nhất, số phòng họp ít nhất — Exercise 16.1-4), nhảy xa nhất (biến thể của Exercise 16.2-4), gộp dây/tệp với chi phí nhỏ nhất (chính là Huffman), đổi tiền (Problem 16-1: biết khi nào tham lam sai và chuyển sang quy hoạch động). Luôn sẵn sàng nêu lập luận trao đổi ngắn gọn cho lựa chọn tham lam.
 - **Lập trình thi đấu:** sắp xếp theo khoá đúng (thời điểm kết thúc, tỷ số giá trị trên trọng lượng, hạn chót) rồi quét; dùng hàng đợi ưu tiên cho Huffman và lập lịch; nhận diện matroid (đặc biệt matroid phân hoạch và matroid đồ thị) để biết tham lam đúng; với lập lịch hạn chót, cài bằng tập rời nhau như Problem 16-4.
 - **Kỹ thuật phần mềm:** chọn chính sách bộ nhớ đệm (LRU gần với OPT trong thực tế; OPT dùng để đánh giá), xếp lịch tác vụ (việc ngắn nhất trước tối thiểu thời gian chờ trung bình — Problem 16-2 — nhưng có thể làm việc dài "đói"), nén dữ liệu (biết giới hạn của mã ký tự và lý do không nén được dữ liệu ngẫu nhiên — Exercise 16.3-9).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 16 trên một trang: sáu nhánh lớn theo các mục 16.1–16.5 và phần bài toán cuối chương của bản gốc, mỗi nhánh ghi bài toán, lựa chọn tham lam, định lý chứng minh tính đúng, thời gian chạy và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 16: tham lam chọn phương án tốt nhất lúc này và tối ưu khi bài toán có tính chất lựa chọn tham lam cùng cấu trúc con tối ưu`"]
+  n1["`Mục 16.1 — Bài toán chọn hoạt động`"]
+  n0 --- n1
+  n2["`Chọn nhiều hoạt động tương thích nhất trên một tài nguyên, hoạt động là nửa khoảng [sᵢ, fᵢ)`"]
+  n1 --- n2
+  n3["`Bắt đầu từ truy hồi quy hoạch động c[i, j] = max(c[i, k] + c[k, j] + 1), tốn Θ(n³)`"]
+  n1 --- n3
+  n4["`Định lý 16.1: hoạt động kết thúc sớm nhất luôn nằm trong một lời giải tối ưu`"]
+  n1 --- n4
+  n5["`Chứng minh bằng trao đổi: thay hoạt động kết thúc đầu tiên của lời giải tối ưu bằng nó`"]
+  n4 --- n5
+  n6["`Chỉ còn một bài toán con là các hoạt động bắt đầu sau khi nó kết thúc`"]
+  n4 --- n6
+  n7["`RECURSIVE-ACTIVITY-SELECTOR và GREEDY-ACTIVITY-SELECTOR chạy Θ(n) sau khi sắp xếp`"]
+  n1 --- n7
+  n8["`Ví dụ 11 hoạt động: {a₁, a₄, a₈, a₁₁} là một lời giải tối ưu cỡ 4`"]
+  n1 --- n8
+  n9["`Chọn hoạt động ngắn nhất hay bắt đầu sớm nhất đều sai (Exercise 16.1-3)`"]
+  n1 --- n9
+  n10["`Mục 16.2 — Các yếu tố của chiến lược tham lam`"]
+  n0 --- n10
+  n11["`Quy trình: đưa về một lựa chọn và một bài toán con, chứng minh lựa chọn an toàn, chứng minh cấu trúc con tối ưu`"]
+  n10 --- n11
+  n12["`Tham lam chọn trước rồi giải một bài toán con, quy hoạch động giải bài toán con trước rồi mới chọn`"]
+  n10 --- n12
+  n13["`Ba lô 50 pound, ba món 10/$60, 20/$100, 30/$120`"]
+  n10 --- n13
+  n14["`Ba lô 0-1: tham lam theo giá trên pound được $160 hoặc $180, tối ưu là $220, cần quy hoạch động O(nW)`"]
+  n13 --- n14
+  n15["`Ba lô phân số: tham lam đúng, được $240, chạy O(n lg n)`"]
+  n13 --- n15
+  n16["`Mục 16.3 — Mã Huffman`"]
+  n0 --- n16
+  n17["`Mã tiền tố tối ưu biểu diễn bằng cây nhị phân đầy đủ, chi phí B(T) = Σ tần suất × độ sâu`"]
+  n16 --- n17
+  n18["`Tệp 100.000 ký tự a–f: mã cố định 300.000 bit, mã Huffman 224.000 bit`"]
+  n16 --- n18
+  n19["`HUFFMAN gộp lặp lại hai nút tần suất thấp nhất bằng hàng đợi ưu tiên nhỏ nhất, O(n lg n)`"]
+  n16 --- n19
+  n20["`Tính đúng`"]
+  n16 --- n20
+  n21["`Bổ đề 16.2: hai ký tự hiếm nhất là anh em ở tầng sâu nhất của một cây tối ưu`"]
+  n20 --- n21
+  n22["`Bổ đề 16.3: gộp hai ký tự đó thành một ký tự mới vẫn giữ cấu trúc con tối ưu`"]
+  n20 --- n22
+  n23["`Định lý 16.4: HUFFMAN tạo ra một mã tiền tố tối ưu`"]
+  n20 --- n23
+  n24["`Mục ★16.4 — Matroid`"]
+  n0 --- n24
+  n25["`Matroid (S, 𝓘) có tính di truyền và tính chất trao đổi`"]
+  n24 --- n25
+  n26["`Định lý 16.6: mọi tập độc lập cực đại có cùng kích thước`"]
+  n24 --- n26
+  n27["`Matroid đồ thị: tập cạnh độc lập khi là rừng (Định lý 16.5)`"]
+  n24 --- n27
+  n28["`GREEDY xét phần tử theo trọng số giảm dần, thêm nếu tập vẫn độc lập`"]
+  n24 --- n28
+  n29["`Định lý 16.11: GREEDY trả về tập độc lập trọng số lớn nhất, chạy O(n lg n + n f(n))`"]
+  n28 --- n29
+  n30["`Cây khung nhỏ nhất là trường hợp riêng với trọng số w₀ − w(e), chính là Kruskal`"]
+  n28 --- n30
+  n31["`Mục ★16.5 — Lập lịch công việc đơn vị thời gian có hạn chót và tiền phạt`"]
+  n0 --- n31
+  n32["`Tập công việc độc lập khi xếp được không trễ, kiểm tra bằng Nₜ(A) ≤ t với mọi t (Bổ đề 16.12)`"]
+  n31 --- n32
+  n33["`Định lý 16.13: hệ này là matroid nên GREEDY cho lịch tổng phạt nhỏ nhất trong O(n²)`"]
+  n31 --- n33
+  n34["`Ví dụ 7 công việc: nhận a₁, a₂, a₃, a₄, a₇, loại a₅, a₆, tổng phạt 50`"]
+  n31 --- n34
+  n35["`Bài toán cuối chương 16-1 đến 16-5`"]
+  n0 --- n35
+  n36["`16-1 Đổi tiền: tham lam đúng với xu Mỹ, sai với mệnh giá {1, 10, 25}`"]
+  n35 --- n36
+  n37["`16-4 Biến thể lập lịch dùng rừng tập rời nhau, O(n α(n)) sau khi sắp xếp`"]
+  n35 --- n37
+  n38["`16-5 Bộ nhớ đệm ngoại tuyến: đuổi phần tử được yêu cầu xa nhất trong tương lai là tối ưu`"]
+  n35 --- n38
+  n39["`Thông điệp xuyên suốt`"]
+  n0 --- n39
+  n40["`Chứng minh tham lam bằng lập luận trao đổi, không chứng minh được thì tìm phản ví dụ nhỏ`"]
+  n39 --- n40
+  n41["`Chọn đúng khoá sắp xếp là toàn bộ công việc, một thay đổi nhỏ trong đề có thể phá vỡ tham lam`"]
+  n39 --- n41
+  n42["`Nhận ra matroid thì chỉ cần sắp theo trọng số giảm dần và thêm khi còn hợp lệ`"]
+  n39 --- n42
+  n43["`Hiệu năng đến từ cấu trúc dữ liệu: sắp xếp, hàng đợi ưu tiên, rừng tập rời nhau`"]
+  n39 --- n43
+  class n0 root
+  class n1,n10,n16,n24,n31,n35,n39 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n36,n37,n38,n40,n41,n42,n43 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần IV "Advanced Design and Analysis Techniques", Chương 16 "Greedy Algorithms", trang 414–450.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), tác giả của giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần IV mở ra ba kỹ thuật thiết kế và phân tích "cao cấp": quy hoạch động, thuật toán tham lam và phân tích khấu hao. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) đặt ra hai khái niệm **cấu trúc con tối ưu** và **bài toán con gối nhau**, và tác giả yêu cầu đọc Mục 15.3 trước chương này. Chương 16 dùng lại cấu trúc con tối ưu nhưng thêm một điều kiện mạnh hơn — **tính chất lựa chọn tham lam** — để bỏ qua việc giải mọi bài toán con: chỉ cần đưa ra một lựa chọn "tốt nhất lúc này" rồi giải một bài toán con duy nhất còn lại.
+
+Chương dùng các công cụ đã có: sắp xếp O(n lg n) và đống nhị phân làm hàng đợi ưu tiên của Chương 6 ([C06-heapsort.md](C06-heapsort.md)) cho thuật toán Huffman, đệ quy đuôi của Problem 7-4 ([C07-quicksort.md](C07-quicksort.md)), cây van Emde Boas của Chương 20 ([C20-cay-van-emde-boas.md](C20-cay-van-emde-boas.md)) để giảm thời gian Huffman, rừng tập rời nhau của Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) cho Problem 16-4, và các định lý về cây tự do của Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)).
+
+Về phía sau, Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md)) — cây khung nhỏ nhất (Kruskal, Prim) — là ví dụ kinh điển của phương pháp tham lam và chính là bài toán mà lý thuyết matroid ở Mục 16.4 giải được; Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)) có thuật toán Dijkstra; Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) có heuristic tham lam của Chvátal cho bài toán phủ tập — nơi tham lam không còn tối ưu mà chỉ xấp xỉ. Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) hoàn tất bộ ba kỹ thuật của Phần IV.
+
+## Lưu ý
+
+- **Mục có dấu sao (★) trong chương:** Mục 16.4 "Matroids and greedy methods" và Mục 16.5 "A task-scheduling problem as a matroid" — tài liệu nâng cao, có thể bỏ qua ở lần đọc đầu. **Bài tập có dấu sao:** 16.2-6 (ba lô phân số trong O(n)), 16.4-2 (matroid ma trận), 16.4-3 (matroid đối ngẫu), 16.4-4 (matroid phân hoạch).
+- **Lớp chữ PDF hỏng ký hiệu toán ở hầu hết các trang:** `Œsi ;f i /` là nửa khoảng [sᵢ, fᵢ); `si  fj` mất dấu ≥; `/NUL` là dấu trừ "−" (ví dụ `W/NUL wj` là W − wⱼ, `jCj/NUL 1` là |C| − 1); `/TAB` là chữ 𝓘 viết hoa kiểu thư pháp (họ các tập độc lập); `¤` là ≠; `‚.n/` là Θ(n); dấu ≤ ở dòng 2 và 4 của RECURSIVE-ACTIVITY-SELECTOR, dấu ≥ ở dòng 5 của GREEDY-ACTIVITY-SELECTOR bị mất hẳn; `i` (giá trị món hàng) mất chữ v (vᵢ). Bảng hoạt động ở trang 415 bị trích thành chuỗi số dính nhau (`fi 4567991 01 11 21 41 6`). Các hình 16.1, 16.2, 16.4, 16.5, 16.6 chỉ còn nhãn rời. Mọi pseudocode, công thức (16.1)–(16.4), các hình và bảng trong bản tổng hợp này được đọc lại từ ảnh trang (người tổng hợp đã xem ảnh của toàn bộ 37 trang 414–450; các chỗ phải sửa nhiều nhất nằm ở trang 415–421, 426–427, 429–435, 437–446).
+- **Chỗ sách sai hoặc ký hiệu chưa chặt (nhận xét của người tổng hợp):**
+  - Chứng minh Bổ đề 16.12 (trang 445) viết "(2) implies that the *i*th **largest** deadline is at least *i*"; đúng phải là "hạn chót **nhỏ** thứ i (ith smallest) ít nhất bằng i". Ví dụ A có các hạn chót 1, 2, 2: hạn chót lớn thứ 3 (tức nhỏ nhất) là 1 < 3, nhưng A vẫn độc lập. Cũng trong chứng minh này, "more than t tasks must finish before time t" nên hiểu là "trước hoặc đúng thời điểm t" (by time t).
+  - Problem 16-3(a) viết "an alternate proof that (E, 𝓘) of part (a) is a matroid" — tự tham chiếu chính nó; ý đúng là "matroid đồ thị của Mục 16.4 (Định lý 16.5)". Problem 16-3(e) viết "Explain carefully why the results of parts (d) and (e) are not contradictory" — cũng tự tham chiếu; ý đúng là các phần **(c) và (d)**.
+  - Mục 16.4 định nghĩa matroid có trọng số với trọng số **dương thực sự**, nhưng Mục 16.5 cho tiền phạt wᵢ **không âm** (cho phép bằng 0). Không ảnh hưởng kết quả (một công việc phạt 0 thêm hay bớt đều không đổi tổng phạt), nhưng chưa khớp định nghĩa.
+  - Bổ đề 16.10 định nghĩa S′ = {y ∈ S : {x, y} ∈ 𝓘}; với y = x thì {x, x} = {x} độc lập nên x ∈ S′, trong khi 𝓘′ chỉ gồm các tập con của S − {x}. Nên viết S′ = {y ∈ S − {x} : {x, y} ∈ 𝓘}.
+  - Mục 16.4 nói Whitney nghiên cứu matroid ma trận với **các hàng** của ma trận, còn Exercise 16.4-2 dùng **các cột**. Cả hai đều đúng (hạng hàng bằng hạng cột), chỉ là không nhất quán.
+  - Lỗi chữ nhỏ: trang 423 "the algorithm makes choice that seems best" (thiếu "the"); trang 415 gọi bài toán là "activity-scheduling problem" trong khi tên chuẩn của mục là "activity-selection problem".
+- **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** tập hoạt động 11 phần tử cho {a₁, a₄, a₈, a₁₁} (và {a₂, a₄, a₉, a₁₁} cũng cỡ 4); ba lô: $220 / $160 / $180 cho bản 0-1 và $240 cho bản phân số; mã độ dài thay đổi tốn 224.000 bit so với 300.000 bit (tiết kiệm 25,3%); các bước Huffman 14, 25, 30, 55, 100 và các từ mã a = 0, b = 101, c = 100, d = 111, e = 1101, f = 1100; chuỗi 001011101 giải mã thành aabe; lập lịch 7 công việc cho tổng phạt w₅ + w₆ = 50. Người tổng hợp còn tự giải và kiểm tra Exercise 16.5-1 (tổng phạt 30), 16.3-3 (chi phí 132), Problem 16-4 trên cùng ví dụ và Problem 16-5 trên chuỗi yêu cầu của đề.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** thuật toán tham lam trở thành Chương 15; hai mục có dấu sao về matroid (16.4) và lập lịch bằng matroid (16.5) bị bỏ khỏi chương; thay vào đó có một mục mới về **bộ nhớ đệm ngoại tuyến** (offline caching), phát triển từ Problem 16-5 thành nội dung chính với chứng minh chiến lược "xa nhất trong tương lai" là tối ưu. Ba mục đầu (chọn hoạt động, các yếu tố của chiến lược tham lam, mã Huffman) được giữ. Chi tiết bài tập thêm bớt người tổng hợp không nhớ chắc.

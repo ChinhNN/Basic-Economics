@@ -1,17 +1,18 @@
 # Chương 19 — Đống Fibonacci (Fibonacci Heaps)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần V "Advanced Data Structures", Chương 19 "Fibonacci Heaps", trang 505–530.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), nhóm tác giả của giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là "CLRS".
-**Vị trí trong lập luận của cả cuốn sách:** Chương 6 ([C06-heapsort.md](C06-heapsort.md)) xây dựng đống nhị phân (binary heap) và hàng đợi ưu tiên với mọi thao tác O(lg n) trong trường hợp xấu nhất, nhưng không gộp được hai đống nhanh. Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) cung cấp danh sách liên kết đôi vòng — "viên gạch" của chương này. Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) dạy phương pháp thế năng (potential method) để phân tích khấu hao; chương này là ứng dụng lớn nhất của phương pháp đó trong cả cuốn sách. Phần mở đầu Phần V, nằm trong [C18-cay-b.md](C18-cay-b.md), định nghĩa "đống gộp được" (mergeable heap) và nói rằng mặc định đó là đống gộp được dạng min. Chương 19 xây dựng đống Fibonacci: một rừng cây theo thứ tự đống-min, lười biếng dồn việc đến lúc lấy phần tử nhỏ nhất, dùng "dấu" (mark) và phép cắt dây chuyền (cascading cut) để giữ bậc của nút ở mức O(lg n), nhờ đó INSERT, UNION, DECREASE-KEY chỉ tốn Θ(1) khấu hao. Chương 20 ([C20-cay-van-emde-boas.md](C20-cay-van-emde-boas.md)) đi theo hướng khác: khi khoá là số nguyên trong một miền giới hạn, có thể làm các thao tác hàng đợi ưu tiên trong O(lg lg u). Về sau, Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md), thuật toán Prim), Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md), thuật toán Dijkstra) và Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md), thuật toán Johnson) dùng đống Fibonacci để đạt cận O(E + V lg V).
-**Ý chính:** Các tác giả muốn người đọc hiểu rằng **có thể làm cho phần lớn thao tác của hàng đợi ưu tiên rẻ đến mức hằng số (tính khấu hao) nếu ta chịu "nợ" việc dọn dẹp và chỉ trả nợ khi bắt buộc — lúc lấy phần tử nhỏ nhất — và nếu ta có một hàm thế năng đo đúng món nợ đó.** Đống Fibonacci là tập các cây có gốc theo thứ tự đống-min; các gốc nằm trong một danh sách liên kết đôi vòng gọi là danh sách gốc, con trỏ H.min trỏ tới gốc nhỏ nhất. Thế năng Φ(H) = t(H) + 2m(H), với t là số cây và m là số nút có dấu. MAKE-FIB-HEAP, FIB-HEAP-INSERT (thêm một gốc), MINIMUM (đọc H.min) và FIB-HEAP-UNION (nối hai danh sách gốc) đều O(1) thực tế và O(1) khấu hao. FIB-HEAP-EXTRACT-MIN đưa mọi con của nút nhỏ nhất lên danh sách gốc rồi gọi CONSOLIDATE: liên kết các gốc cùng bậc cho tới khi mỗi bậc còn nhiều nhất một gốc; chi phí thực O(D(n) + t(H)) nhưng thế năng giảm bù, nên khấu hao là O(D(n)). FIB-HEAP-DECREASE-KEY cắt nút vi phạm thứ tự đống lên danh sách gốc, rồi cắt dây chuyền lên phía trên: nút nào mất đứa con thứ hai kể từ khi nó trở thành con thì cũng bị cắt; với c lần gọi CASCADING-CUT, chi phí thực O(c) nhưng thế năng thay đổi tối đa 4 − c, nên khấu hao O(1). FIB-HEAP-DELETE = DECREASE-KEY tới −∞ rồi EXTRACT-MIN, khấu hao O(D(n)). Mục 19.4 chứng minh D(n) ≤ ⌊log_φ n⌋ = O(lg n) với φ = (1 + √5)/2 ≈ 1,618: con thứ i của một nút có bậc ít nhất i − 2, nên cây có gốc bậc k chứa ít nhất F_{k+2} ≥ φ^k nút — đây là lý do cấu trúc mang tên Fibonacci. Các tác giả cũng nói thẳng: hằng số lớn và độ phức tạp lập trình khiến đống Fibonacci chủ yếu có giá trị lý thuyết.
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục khó:** theo mục lục ấn bản 3, không mục nào của Chương 19 có dấu sao (`?`). Tuy vậy mục 19.4 (chặn bậc lớn nhất bằng số Fibonacci) là phần chứng minh nặng nhất, và cả chương dựa chặt vào phương pháp thế năng của Mục 17.3.
-> - **Chỗ lớp chữ PDF hỏng phải đọc từ ảnh trang:** toàn bộ pseudocode (ví dụ `x: degreeD 0` là `x.degree = 0`, `´` là `z`, `¤` là `≠`), hàm thế năng `ˆ.H /D t.H/C 2m . H/` là Φ(H) = t(H) + 2m(H), cận D(n) ≤ ⌊log_φ n⌋ (ký hiệu φ mất hẳn trong lớp chữ), các Bổ đề 19.1–19.4 và Hệ quả 19.5, và mọi hình cây (Hình 19.2–19.6 trong sách) đều được đối chiếu với ảnh trang. Dấu "≤" trong câu "D(n) ≤ ⌊lg n⌋" ở trang 509 cũng bị mất trong lớp chữ.
-> - **Một chỗ thiếu chặt trong chứng minh Bổ đề 19.3 (trang 524), người tổng hợp tự phát hiện khi đối chiếu, không tra errata:** giả thiết quy nạp được viết là "F_{i+2} > φ^i với i = 0, 1, …, k − 1" (dấu lớn hơn nghiêm ngặt), nhưng chính trường hợp cơ sở k = 0 cho F_2 = 1 = φ^0 (bằng nhau). Giả thiết đúng phải là F_{i+2} ≥ φ^i; dòng tính toán ngay sau đó trong sách cũng dùng "≥", nên kết luận không bị ảnh hưởng.
-> - **Ví dụ trong sách có một gốc mang dấu:** sau thao tác EXTRACT-MIN minh hoạ trong sách, nút khoá 18 là gốc nhưng vẫn có dấu (nó có dấu từ trước, và EXTRACT-MIN không xoá dấu của các con được đưa lên gốc). Đây không phải lỗi; chính Bài tập 19.3-1 hỏi về tình huống này.
-> - **Thay đổi so với ấn bản 2 (theo lời nói đầu của chính ấn bản 3):** ấn bản 3 bỏ chương "Binomial Heaps" (đống nhị thức) của ấn bản 2; trình bày đống Fibonacci không còn dựa vào đống nhị thức, và đống nhị thức chỉ còn là Bài toán 19-2.
-> - **Thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** ấn bản 4 (2022) đưa chương Fibonacci heaps và chương van Emde Boas trees ra khỏi bản in, chỉ để ở dạng tài liệu trực tuyến của nhà xuất bản; các chương đồ thị của ấn bản 4 vẫn nhắc tới cận O(E + V lg V) nhờ đống Fibonacci.
+Các tác giả muốn người đọc hiểu rằng **có thể làm cho phần lớn thao tác của hàng đợi ưu tiên rẻ đến mức hằng số (tính khấu hao) nếu ta chịu "nợ" việc dọn dẹp và chỉ trả nợ khi bắt buộc — lúc lấy phần tử nhỏ nhất — và nếu ta có một hàm thế năng đo đúng món nợ đó.**
+
+Đống Fibonacci là tập các cây có gốc theo thứ tự đống-min; các gốc nằm trong một danh sách liên kết đôi vòng gọi là danh sách gốc, con trỏ H.min trỏ tới gốc nhỏ nhất. Thế năng Φ(H) = t(H) + 2m(H), với t là số cây và m là số nút có dấu. MAKE-FIB-HEAP, FIB-HEAP-INSERT (thêm một gốc), MINIMUM (đọc H.min) và FIB-HEAP-UNION (nối hai danh sách gốc) đều O(1) thực tế và O(1) khấu hao.
+
+FIB-HEAP-EXTRACT-MIN đưa mọi con của nút nhỏ nhất lên danh sách gốc rồi gọi CONSOLIDATE: liên kết các gốc cùng bậc cho tới khi mỗi bậc còn nhiều nhất một gốc; chi phí thực O(D(n) + t(H)) nhưng thế năng giảm bù, nên khấu hao là O(D(n)).
+
+FIB-HEAP-DECREASE-KEY cắt nút vi phạm thứ tự đống lên danh sách gốc, rồi cắt dây chuyền lên phía trên: nút nào mất đứa con thứ hai kể từ khi nó trở thành con thì cũng bị cắt; với c lần gọi CASCADING-CUT, chi phí thực O(c) nhưng thế năng thay đổi tối đa 4 − c, nên khấu hao O(1). FIB-HEAP-DELETE = DECREASE-KEY tới −∞ rồi EXTRACT-MIN, khấu hao O(D(n)).
+
+Mục 19.4 chứng minh D(n) ≤ ⌊log_φ n⌋ = O(lg n) với φ = (1 + √5)/2 ≈ 1,618: con thứ i của một nút có bậc ít nhất i − 2, nên cây có gốc bậc k chứa ít nhất F_{k+2} ≥ φ^k nút — đây là lý do cấu trúc mang tên Fibonacci.
+
+Các tác giả cũng nói thẳng: hằng số lớn và độ phức tạp lập trình khiến đống Fibonacci chủ yếu có giá trị lý thuyết.
 
 ## Sơ đồ
 
@@ -402,7 +403,9 @@ Một đống Fibonacci là một tập các cây có gốc theo thứ tự đ�
 
 Các cây: gốc 23 (một nút); gốc 7 (một nút); gốc 3 với ba con 18, 52, 38, trong đó 18 có con 39 và 38 có con 41; gốc 17 với con 30; gốc 24 với hai con 26 và 46, trong đó 26 có con 35. Các nút có dấu: 18, 39, 26. Thế năng của đống này là 5 + 2·3 = 11.
 
-**Biểu diễn bằng con trỏ (Hình 19.2(b) trong sách).** Mỗi nút x có con trỏ x.p tới cha và con trỏ x.child tới một đứa con bất kỳ. Các con của x được nối với nhau thành một danh sách liên kết đôi vòng, gọi là danh sách con của x. Mỗi con y trong danh sách con có y.left và y.right trỏ tới anh em bên trái và bên phải; nếu y là con một thì y.left = y.right = y. Các anh em có thể nằm theo thứ tự bất kỳ. Trong hình đầy đủ của sách, mỗi nút có mũi tên đi lên (p), mũi tên đi xuống tới một đứa con (child), và mũi tên ngang hai chiều (left, right) vòng quanh mỗi danh sách anh em và quanh danh sách gốc; ví dụ nút 3 có child trỏ tới một trong ba nút 18, 52, 38, và cả ba nút này đều có p trỏ về 3. Các hình còn lại của chương bỏ các chi tiết này vì chúng suy ra được từ dạng rút gọn.
+**Biểu diễn bằng con trỏ (Hình 19.2(b) trong sách).** Mỗi nút x có con trỏ x.p tới cha và con trỏ x.child tới một đứa con bất kỳ. Các con của x được nối với nhau thành một danh sách liên kết đôi vòng, gọi là danh sách con của x. Mỗi con y trong danh sách con có y.left và y.right trỏ tới anh em bên trái và bên phải; nếu y là con một thì y.left = y.right = y. Các anh em có thể nằm theo thứ tự bất kỳ.
+
+Trong hình đầy đủ của sách, mỗi nút có mũi tên đi lên (p), mũi tên đi xuống tới một đứa con (child), và mũi tên ngang hai chiều (left, right) vòng quanh mỗi danh sách anh em và quanh danh sách gốc; ví dụ nút 3 có child trỏ tới một trong ba nút 18, 52, 38, và cả ba nút này đều có p trỏ về 3. Các hình còn lại của chương bỏ các chi tiết này vì chúng suy ra được từ dạng rút gọn.
 
 Danh sách liên kết đôi vòng (Mục 10.2) có hai lợi thế cho đống Fibonacci. Thứ nhất, chèn một nút vào vị trí bất kỳ hoặc gỡ một nút ở bất kỳ đâu chỉ mất O(1). Thứ hai, có thể nối (splice) hai danh sách như vậy thành một danh sách đôi vòng trong O(1). Sách mô tả các thao tác danh sách này một cách không hình thức, để người đọc tự điền chi tiết.
 
@@ -436,7 +439,9 @@ Kỹ thuật "danh sách đôi vòng + con trỏ tới một con bất kỳ" là
 
 ### 3. Các thao tác của đống gộp được (Mergeable-heap operations, Mục 19.2, trang 510–518)
 
-Các thao tác gộp được trên đống Fibonacci trì hoãn việc càng lâu càng tốt, và các thao tác có sự đánh đổi hiệu năng lẫn nhau. Ví dụ, chèn một nút chỉ là thêm nó vào danh sách gốc, tốn thời gian hằng số. Nếu bắt đầu với một đống rỗng và chèn k nút, đống chỉ gồm một danh sách gốc k nút. Cái giá phải trả là: nếu sau đó gọi EXTRACT-MIN, sau khi gỡ nút mà H.min trỏ tới, ta phải duyệt qua cả k − 1 nút còn lại trong danh sách gốc để tìm nút nhỏ nhất mới. Đã phải duyệt cả danh sách gốc thì nhân tiện ta gộp các nút thành những cây theo thứ tự đống-min để thu gọn danh sách gốc. Kết quả: bất kể danh sách gốc trông thế nào trước EXTRACT-MIN, sau đó mỗi nút trong danh sách gốc có bậc khác mọi nút khác trong danh sách gốc, nên danh sách gốc có tối đa D(n) + 1 nút.
+Các thao tác gộp được trên đống Fibonacci trì hoãn việc càng lâu càng tốt, và các thao tác có sự đánh đổi hiệu năng lẫn nhau. Ví dụ, chèn một nút chỉ là thêm nó vào danh sách gốc, tốn thời gian hằng số. Nếu bắt đầu với một đống rỗng và chèn k nút, đống chỉ gồm một danh sách gốc k nút. Cái giá phải trả là: nếu sau đó gọi EXTRACT-MIN, sau khi gỡ nút mà H.min trỏ tới, ta phải duyệt qua cả k − 1 nút còn lại trong danh sách gốc để tìm nút nhỏ nhất mới.
+
+Đã phải duyệt cả danh sách gốc thì nhân tiện ta gộp các nút thành những cây theo thứ tự đống-min để thu gọn danh sách gốc. Kết quả: bất kể danh sách gốc trông thế nào trước EXTRACT-MIN, sau đó mỗi nút trong danh sách gốc có bậc khác mọi nút khác trong danh sách gốc, nên danh sách gốc có tối đa D(n) + 1 nút.
 
 #### Tạo một đống Fibonacci mới (Creating a new Fibonacci heap)
 
@@ -657,7 +662,9 @@ Kiểm tra: nút 7 có bậc 3 (con 24, 17, 23), nút 18 có bậc 2 (con 21, 39
 
 **Phân tích khấu hao của EXTRACT-MIN.** Gọi H là đống ngay trước FIB-HEAP-EXTRACT-MIN, n là số nút.
 
-*Chi phí thực.* Có một phần O(D(n)) do xử lý tối đa D(n) con của nút nhỏ nhất, và do công việc ở dòng 2–3 và 16–23 của CONSOLIDATE (mảng A có D(n) + 1 ô). Còn lại là vòng for dòng 4–14, phân tích bằng phương pháp gộp (aggregate). Khi gọi CONSOLIDATE, danh sách gốc có tối đa D(n) + t(H) − 1 nút: t(H) gốc ban đầu, trừ nút bị lấy ra, cộng các con của nó (tối đa D(n)). Trong một lần lặp của vòng for, số lần lặp của vòng while tuỳ danh sách gốc; nhưng mỗi lần qua vòng while có một gốc bị liên kết vào gốc khác, nên tổng số lần lặp while trên toàn bộ vòng for không vượt số gốc trong danh sách gốc. Vậy tổng việc trong vòng for tỷ lệ với tối đa D(n) + t(H), và tổng chi phí thực của EXTRACT-MIN là O(D(n) + t(H)).
+*Chi phí thực.* Có một phần O(D(n)) do xử lý tối đa D(n) con của nút nhỏ nhất, và do công việc ở dòng 2–3 và 16–23 của CONSOLIDATE (mảng A có D(n) + 1 ô). Còn lại là vòng for dòng 4–14, phân tích bằng phương pháp gộp (aggregate).
+
+Khi gọi CONSOLIDATE, danh sách gốc có tối đa D(n) + t(H) − 1 nút: t(H) gốc ban đầu, trừ nút bị lấy ra, cộng các con của nó (tối đa D(n)). Trong một lần lặp của vòng for, số lần lặp của vòng while tuỳ danh sách gốc; nhưng mỗi lần qua vòng while có một gốc bị liên kết vào gốc khác, nên tổng số lần lặp while trên toàn bộ vòng for không vượt số gốc trong danh sách gốc. Vậy tổng việc trong vòng for tỷ lệ với tối đa D(n) + t(H), và tổng chi phí thực của EXTRACT-MIN là O(D(n) + t(H)).
 
 *Thế năng.* Trước thao tác: t(H) + 2m(H). Sau: tối đa (D(n) + 1) + 2m(H), vì còn tối đa D(n) + 1 gốc và không nút nào được đánh dấu trong thao tác (FIB-HEAP-LINK chỉ xoá dấu). Chi phí khấu hao tối đa là
 
@@ -868,7 +875,7 @@ Kiểm tra với k = 3: F_5 = 5 và 1 + (F_0 + F_1 + F_2 + F_3) = 1 + (0 + 1 + 1
 
 **Bổ đề 19.3.** Với mọi số nguyên k ≥ 0, số Fibonacci thứ k + 2 thoả F_{k+2} ≥ φ^k.
 
-*Chứng minh* (quy nạp theo k). Cơ sở k = 0 và k = 1: F_2 = 1 = φ^0, và F_3 = 2 > 1,619 > φ^1. Bước quy nạp với k ≥ 2, giả sử F_{i+2} ≥ φ^i với i = 0, 1, …, k − 1 (sách viết dấu ">" ở đây; xem khối Lưu ý). Nhắc lại φ là nghiệm dương của phương trình (3.23) x² = x + 1. Ta có
+*Chứng minh* (quy nạp theo k). Cơ sở k = 0 và k = 1: F_2 = 1 = φ^0, và F_3 = 2 > 1,619 > φ^1. Bước quy nạp với k ≥ 2, giả sử F_{i+2} ≥ φ^i với i = 0, 1, …, k − 1 (sách viết dấu ">" ở đây; xem mục Lưu ý cuối chương). Nhắc lại φ là nghiệm dương của phương trình (3.23) x² = x + 1. Ta có
 
 ```text
 F_{k+2} = F_{k+1} + F_k
@@ -1164,7 +1171,9 @@ Một hàng đợi ưu tiên có thể cho INSERT, MINIMUM, UNION và DECREASE-K
 
 ### Chương là ví dụ mẫu mực nhất của phân tích khấu hao bằng thế năng trong cả cuốn sách
 
-Chương 17 dạy phương pháp thế năng trên các ví dụ nhỏ (ngăn xếp, bộ đếm nhị phân, bảng động). Chương 19 cho thấy phương pháp đó dùng để *thiết kế* chứ không chỉ để phân tích: hàm Φ = t + 2m được chọn sao cho mỗi thao tác lười để lại đúng lượng "tiền gửi" mà thao tác dọn dẹp sau này cần. Hệ số 2 không tuỳ tiện — một đơn vị trả cho việc cắt, một đơn vị trả cho gốc mới phát sinh. Hai ví dụ chạy tay (EXTRACT-MIN 13 bước và hai DECREASE-KEY) được nối tiếp nhau trên cùng một đống, giúp người đọc theo dõi được trạng thái thật. Điểm yếu nhỏ: sách bỏ qua chi tiết thao tác danh sách (nối, gỡ trong khi đang duyệt — dòng 3 của EXTRACT-MIN và dòng 4 của CONSOLIDATE đều duyệt một danh sách đang bị sửa), mà đó chính là chỗ cài đặt thực tế hay sai.
+Chương 17 dạy phương pháp thế năng trên các ví dụ nhỏ (ngăn xếp, bộ đếm nhị phân, bảng động). Chương 19 cho thấy phương pháp đó dùng để *thiết kế* chứ không chỉ để phân tích: hàm Φ = t + 2m được chọn sao cho mỗi thao tác lười để lại đúng lượng "tiền gửi" mà thao tác dọn dẹp sau này cần. Hệ số 2 không tuỳ tiện — một đơn vị trả cho việc cắt, một đơn vị trả cho gốc mới phát sinh.
+
+Hai ví dụ chạy tay (EXTRACT-MIN 13 bước và hai DECREASE-KEY) được nối tiếp nhau trên cùng một đống, giúp người đọc theo dõi được trạng thái thật. Điểm yếu nhỏ: sách bỏ qua chi tiết thao tác danh sách (nối, gỡ trong khi đang duyệt — dòng 3 của EXTRACT-MIN và dòng 4 của CONSOLIDATE đều duyệt một danh sách đang bị sửa), mà đó chính là chỗ cài đặt thực tế hay sai.
 
 ### Sự thành thật về giá trị thực tế
 
@@ -1189,3 +1198,122 @@ Lời mời "một cấu trúc đơn giản hơn với cùng cận" đã đượ
 - **Phỏng vấn:** câu hỏi thường gặp là "độ phức tạp của Dijkstra với đống nhị phân và với đống Fibonacci" (O((V + E) lg V) và O(E + V lg V)), và "vì sao thực tế ít ai dùng đống Fibonacci" (hằng số, bộ nhớ, bộ nhớ đệm, cận chỉ là khấu hao). Biết giải thích hàm thế năng t + 2m là điểm cộng lớn.
 - **Lập trình thi đấu:** gần như không ai cài đặt đống Fibonacci; Dijkstra dùng `priority_queue` với "chèn trùng lặp và bỏ qua phần tử cũ", độ phức tạp O(E lg E) = O(E lg V). Khi cần gộp đống nhanh, người ta dùng đống trái (leftist heap), đống xiên (skew heap) hoặc kỹ thuật "gộp nhỏ vào lớn" (small-to-large) — theo hiểu biết của người tổng hợp.
 - **Kỹ thuật phần mềm:** bài học thiết kế mang đi được là "làm lười + đếm nợ": ví dụ nhiều bộ thu gom rác, cấu trúc LSM-tree trong cơ sở dữ liệu, hay hàng đợi hẹn giờ đều chấp nhận ghi nhanh và dồn việc sắp xếp, gộp vào lúc khác; phân tích khấu hao giúp chứng minh tổng chi phí vẫn bị chặn, đồng thời nhắc rằng từng thao tác riêng lẻ có thể chậm bất thường — điều quan trọng với hệ thống yêu cầu độ trễ thấp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 19 trên một trang: sáu nhánh lớn theo phần mở đầu chương, bốn mục 19.1–19.4 và phần bài toán cuối chương của bản gốc, mỗi nhánh ghi cấu trúc, thủ tục, chi phí thực và khấu hao theo hàm thế năng, ví dụ chạy tay then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 19: đống Fibonacci trì hoãn việc dọn dẹp tới lúc lấy phần tử nhỏ nhất nên phần lớn thao tác chỉ tốn O(1) khấu hao`"]
+  n1["`Phần mở đầu chương — đống gộp được`"]
+  n0 --- n1
+  n2["`Đống gộp được hỗ trợ MAKE-HEAP, INSERT, MINIMUM, EXTRACT-MIN, UNION, thêm DECREASE-KEY và DELETE`"]
+  n1 --- n2
+  n3["`So với đống nhị phân: UNION từ Θ(n) xuống Θ(1), DECREASE-KEY từ Θ(lg n) xuống Θ(1) khấu hao`"]
+  n1 --- n3
+  n4["`Có lợi khi DECREASE-KEY áp đảo, như đồ thị dày trong Dijkstra và Prim`"]
+  n1 --- n4
+  n5["`Hằng số lớn và khó lập trình nên chủ yếu có giá trị lý thuyết`"]
+  n1 --- n5
+  n6["`Mục 19.1 — Cấu trúc`"]
+  n0 --- n6
+  n7["`Rừng cây theo thứ tự đống-min, các gốc nối thành danh sách liên kết đôi vòng`"]
+  n6 --- n7
+  n8["`Con trỏ H.min trỏ tới gốc nhỏ nhất, mỗi nút có cha, một con, anh em trái phải, bậc và dấu`"]
+  n6 --- n8
+  n9["`Thế năng Φ(H) = t(H) + 2m(H), t là số cây, m là số nút có dấu`"]
+  n6 --- n9
+  n10["`Ví dụ: đống 14 nút, 5 cây, 3 nút có dấu nên Φ = 11`"]
+  n6 --- n10
+  n11["`Mục 19.2 — Các thao tác của đống gộp được`"]
+  n0 --- n11
+  n12["`INSERT thêm một gốc, UNION nối hai danh sách gốc, MINIMUM đọc H.min, đều O(1)`"]
+  n11 --- n12
+  n13["`FIB-HEAP-EXTRACT-MIN đưa mọi con của nút nhỏ nhất lên danh sách gốc rồi gọi CONSOLIDATE`"]
+  n11 --- n13
+  n14["`CONSOLIDATE liên kết các gốc cùng bậc tới khi mỗi bậc còn nhiều nhất một gốc`"]
+  n13 --- n14
+  n15["`Chi phí thực O(D(n) + t(H)), thế năng giảm bù nên khấu hao O(D(n))`"]
+  n13 --- n15
+  n16["`Ví dụ 13 bước lấy nút 3: 8 gốc, 5 lần liên kết, còn 3 gốc, Φ từ 12 xuống 9`"]
+  n13 --- n16
+  n17["`Mục 19.3 — Giảm khoá và xoá`"]
+  n0 --- n17
+  n18["`FIB-HEAP-DECREASE-KEY cắt nút vi phạm thứ tự đống lên danh sách gốc`"]
+  n17 --- n18
+  n19["`CASCADING-CUT: nút mất đứa con thứ hai kể từ khi trở thành con cũng bị cắt`"]
+  n17 --- n19
+  n20["`Dấu ghi lại nút đã mất một con`"]
+  n19 --- n20
+  n21["`c lần cắt dây chuyền: chi phí thực O(c), thế năng thay đổi tối đa 4 − c, khấu hao O(1)`"]
+  n19 --- n21
+  n22["`Hệ số 2 trước m: một đơn vị trả cho việc cắt, một đơn vị cho gốc mới phát sinh`"]
+  n19 --- n22
+  n23["`Ví dụ: giảm 46 xuống 15 không cắt dây chuyền, giảm 35 xuống 5 cắt dây chuyền 26 rồi 24`"]
+  n17 --- n23
+  n24["`FIB-HEAP-DELETE = giảm khoá về −∞ rồi EXTRACT-MIN, khấu hao O(D(n))`"]
+  n17 --- n24
+  n25["`Mục 19.4 — Chặn bậc lớn nhất`"]
+  n0 --- n25
+  n26["`Bổ đề 19.1: con thứ i của một nút có bậc ít nhất i − 2`"]
+  n25 --- n26
+  n27["`Cây có gốc bậc k chứa ít nhất Fₖ₊₂ ≥ φᵏ nút, với φ = (1 + √5)/2 ≈ 1,618`"]
+  n25 --- n27
+  n28["`Hệ quả 19.5: D(n) ≤ ⌊log cơ số φ của n⌋ ≈ 1,44 lg n, vì vậy EXTRACT-MIN và DELETE là O(lg n)`"]
+  n25 --- n28
+  n29["`Đây là lý do cấu trúc mang tên Fibonacci`"]
+  n25 --- n29
+  n30["`Bài toán cuối chương 19-1 đến 19-4`"]
+  n0 --- n30
+  n31["`19-1 PISANO-DELETE không nhanh hơn: đưa danh sách con lên gốc phải sửa cha của từng con`"]
+  n30 --- n31
+  n32["`19-2 Cây nhị thức Bₖ có 2ᵏ nút, cao k, đống nhị thức làm mọi thao tác trong O(lg n) xấu nhất`"]
+  n30 --- n32
+  n33["`19-3 Thêm thao tác đổi khoá tăng hoặc giảm và xoá bớt r nút mà không đổi khấu hao của thao tác khác`"]
+  n30 --- n33
+  n34["`19-4 Đống 2-3-4: chỉ lá chứa khoá, nút trong lưu khoá nhỏ nhất của cây con, mọi thao tác O(lg n)`"]
+  n30 --- n34
+  n35["`Thông điệp xuyên suốt`"]
+  n0 --- n35
+  n36["`Trì hoãn việc tới khi bắt buộc, chọn thế năng đếm đúng món nợ, thêm một bit dấu để giới hạn hư hỏng cấu trúc`"]
+  n35 --- n36
+  n37["`Phương pháp thế năng của Chương 17 dùng để thiết kế chứ không chỉ để phân tích`"]
+  n35 --- n37
+  n38["`Cận khấu hao không đủ cho hệ thống thời gian thực: một lần EXTRACT-MIN có thể tốn Θ(n)`"]
+  n35 --- n38
+  n39["`Dijkstra và Prim đạt O(E + V lg V), Johnson đạt O(V² lg V + VE)`"]
+  n35 --- n39
+  class n0 root
+  class n1,n6,n11,n17,n25,n30,n35 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n31,n32,n33,n34,n36,n37,n38,n39 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần V "Advanced Data Structures", Chương 19 "Fibonacci Heaps", trang 505–530.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia), nhóm tác giả của giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là "CLRS".
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 6 ([C06-heapsort.md](C06-heapsort.md)) xây dựng đống nhị phân (binary heap) và hàng đợi ưu tiên với mọi thao tác O(lg n) trong trường hợp xấu nhất, nhưng không gộp được hai đống nhanh. Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) cung cấp danh sách liên kết đôi vòng — "viên gạch" của chương này. Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) dạy phương pháp thế năng (potential method) để phân tích khấu hao; chương này là ứng dụng lớn nhất của phương pháp đó trong cả cuốn sách.
+
+Phần mở đầu Phần V, nằm trong [C18-cay-b.md](C18-cay-b.md), định nghĩa "đống gộp được" (mergeable heap) và nói rằng mặc định đó là đống gộp được dạng min. Chương 19 xây dựng đống Fibonacci: một rừng cây theo thứ tự đống-min, lười biếng dồn việc đến lúc lấy phần tử nhỏ nhất, dùng "dấu" (mark) và phép cắt dây chuyền (cascading cut) để giữ bậc của nút ở mức O(lg n), nhờ đó INSERT, UNION, DECREASE-KEY chỉ tốn Θ(1) khấu hao.
+
+Chương 20 ([C20-cay-van-emde-boas.md](C20-cay-van-emde-boas.md)) đi theo hướng khác: khi khoá là số nguyên trong một miền giới hạn, có thể làm các thao tác hàng đợi ưu tiên trong O(lg lg u). Về sau, Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md), thuật toán Prim), Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md), thuật toán Dijkstra) và Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md), thuật toán Johnson) dùng đống Fibonacci để đạt cận O(E + V lg V).
+
+## Lưu ý
+
+- **Mục khó:** theo mục lục ấn bản 3, không mục nào của Chương 19 có dấu sao (`?`). Tuy vậy mục 19.4 (chặn bậc lớn nhất bằng số Fibonacci) là phần chứng minh nặng nhất, và cả chương dựa chặt vào phương pháp thế năng của Mục 17.3.
+- **Chỗ lớp chữ PDF hỏng phải đọc từ ảnh trang:** toàn bộ pseudocode (ví dụ `x: degreeD 0` là `x.degree = 0`, `´` là `z`, `¤` là `≠`), hàm thế năng `ˆ.H /D t.H/C 2m . H/` là Φ(H) = t(H) + 2m(H), cận D(n) ≤ ⌊log_φ n⌋ (ký hiệu φ mất hẳn trong lớp chữ), các Bổ đề 19.1–19.4 và Hệ quả 19.5, và mọi hình cây (Hình 19.2–19.6 trong sách) đều được đối chiếu với ảnh trang. Dấu "≤" trong câu "D(n) ≤ ⌊lg n⌋" ở trang 509 cũng bị mất trong lớp chữ.
+- **Một chỗ thiếu chặt trong chứng minh Bổ đề 19.3 (trang 524), người tổng hợp tự phát hiện khi đối chiếu, không tra errata:** giả thiết quy nạp được viết là "F_{i+2} > φ^i với i = 0, 1, …, k − 1" (dấu lớn hơn nghiêm ngặt), nhưng chính trường hợp cơ sở k = 0 cho F_2 = 1 = φ^0 (bằng nhau). Giả thiết đúng phải là F_{i+2} ≥ φ^i; dòng tính toán ngay sau đó trong sách cũng dùng "≥", nên kết luận không bị ảnh hưởng.
+- **Ví dụ trong sách có một gốc mang dấu:** sau thao tác EXTRACT-MIN minh hoạ trong sách, nút khoá 18 là gốc nhưng vẫn có dấu (nó có dấu từ trước, và EXTRACT-MIN không xoá dấu của các con được đưa lên gốc). Đây không phải lỗi; chính Bài tập 19.3-1 hỏi về tình huống này.
+- **Thay đổi so với ấn bản 2 (theo lời nói đầu của chính ấn bản 3):** ấn bản 3 bỏ chương "Binomial Heaps" (đống nhị thức) của ấn bản 2; trình bày đống Fibonacci không còn dựa vào đống nhị thức, và đống nhị thức chỉ còn là Bài toán 19-2.
+- **Thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** ấn bản 4 (2022) đưa chương Fibonacci heaps và chương van Emde Boas trees ra khỏi bản in, chỉ để ở dạng tài liệu trực tuyến của nhà xuất bản; các chương đồ thị của ấn bản 4 vẫn nhắc tới cận O(E + V lg V) nhờ đống Fibonacci.

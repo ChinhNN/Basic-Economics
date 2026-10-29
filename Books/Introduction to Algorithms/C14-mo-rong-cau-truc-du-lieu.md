@@ -1,18 +1,18 @@
 # Chương 14 — Mở rộng cấu trúc dữ liệu (Augmenting Data Structures)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần III "Data Structures", Chương 14 "Augmenting Data Structures", trang sách 339–355 (PDF 360–376).
-**Tác giả:** Cormen (Dartmouth), Leiserson và Rivest (MIT), Stein (Columbia) — bốn tác giả của giáo trình thuật toán được dùng rộng rãi nhất ở bậc đại học, thường gọi tắt là "CLRS".
-**Vị trí trong lập luận của cả cuốn sách:** Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) đã định nghĩa thống kê thứ tự (phần tử nhỏ thứ i của một tập) và cho cách tìm nó trong thời gian O(n) trên một tập *tĩnh, không sắp xếp*. Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) xây dựng cây tìm kiếm nhị phân với các thao tác tập động (SEARCH, MINIMUM, MAXIMUM, SUCCESSOR, PREDECESSOR, INSERT, DELETE) chạy trong O(h), h là chiều cao cây. Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) giữ cho cây cân bằng — cây đỏ-đen có chiều cao O(lg n) — nhờ đổi màu và phép quay (rotation), trong đó chèn cần nhiều nhất 2 phép quay và xoá cần nhiều nhất 3. Chương 14 không tạo ra cấu trúc mới hoàn toàn, mà dạy một *kỹ thuật thiết kế*: lấy một cấu trúc dữ liệu có sẵn (ở đây là cây đỏ-đen), gắn thêm thông tin vào mỗi nút, chứng minh rằng các thao tác sửa đổi vẫn duy trì được thông tin đó với chi phí thấp, rồi dùng thông tin đó để có thao tác mới. Chương này đóng lại Phần III. Phần IV mở đầu bằng quy hoạch động ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)). Kỹ thuật "gắn thêm thuộc tính tổng hợp vào nút cây" sẽ được dùng lại ở nhiều nơi: Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) gắn thêm hạng (rank) vào nút của rừng tập rời nhau; Chương 33 ([C33-hinh-hoc-tinh-toan.md](C33-hinh-hoc-tinh-toan.md)) dùng đường quét (sweep line) kết hợp cây đỏ-đen, đúng kiểu bài tập 14.3-7; và phân tích dãy nghịch thế (inversion) của Bài toán 2-4 ([C02-bat-dau.md](C02-bat-dau.md)) được giải lại bằng cây thống kê thứ tự trong bài tập 14.1-7.
-**Ý chính:** Các tác giả muốn người đọc hiểu rằng **phần lớn bài toán thực tế không cần cấu trúc dữ liệu hoàn toàn mới, mà cần "mở rộng" một cấu trúc giáo khoa bằng cách lưu thêm thông tin vào mỗi nút; điều khó là phải duy trì thông tin đó khi cấu trúc bị sửa đổi, và với cây đỏ-đen có một tiêu chí đơn giản bảo đảm việc này luôn rẻ.** Mục 14.1 xây dựng **cây thống kê thứ tự (order-statistic tree)**: cây đỏ-đen trong đó mỗi nút x lưu thêm x.size — số nút trong cây con gốc x, thoả x.size = x.left.size + x.right.size + 1 (với T.nil.size = 0). Nhờ đó thủ tục OS-SELECT(x, i) tìm phần tử nhỏ thứ i và OS-RANK(T, x) tính hạng (vị trí theo thứ tự giữa) của nút x đều chạy trong O(lg n), trong khi INSERT và DELETE vẫn O(lg n): tăng/giảm size dọc đường đi từ gốc, và mỗi phép quay chỉ cần sửa size của 2 nút bằng 2 dòng lệnh thêm vào LEFT-ROTATE. Mục 14.2 trừu tượng hoá thành **quy trình bốn bước** (chọn cấu trúc nền; chọn thông tin bổ sung; kiểm tra thông tin được duy trì qua các thao tác sửa đổi; xây dựng thao tác mới) và chứng minh **Định lý 14.1**: nếu thuộc tính f của mỗi nút x chỉ phụ thuộc vào thông tin trong x, x.left, x.right (kể cả x.left.f và x.right.f), thì có thể duy trì f qua chèn và xoá mà không làm thay đổi thời gian O(lg n). Mục 14.3 áp dụng quy trình đó để xây dựng **cây khoảng (interval tree)**: mỗi nút chứa một khoảng đóng x.int = [low, high], khoá là x.int.low, và thuộc tính bổ sung x.max = max(x.int.high, x.left.max, x.right.max). Thủ tục INTERVAL-SEARCH(T, i) đi một đường duy nhất từ gốc xuống, ở mỗi nút rẽ trái nếu x.left.max ≥ i.low, ngược lại rẽ phải, và **Định lý 14.2** chứng minh rằng cách rẽ này luôn "an toàn": thủ tục tìm được một khoảng giao với i trong O(lg n), hoặc trả về T.nil khi và chỉ khi không có khoảng nào giao với i.
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục khó (dấu sao):** chương không có mục nào đánh dấu sao. Các bài tập đánh dấu sao là 14.1-8 (đếm cặp dây cung cắt nhau), 14.2-3 (toán tử kết hợp ⊗ và cập nhật sau phép quay), 14.2-4 (RB-ENUMERATE trong Θ(m + lg n)) và 14.3-7 (phát hiện hình chữ nhật chồng nhau bằng đường quét).
-> - **Phạm vi trang:** bảng phân công ghi trang 339–354, nhưng Bài toán 14-2 và phần Ghi chú chương (Chapter notes) nằm ở trang 355; Phần IV bắt đầu ở trang 356 (PDF 377). Bản tổng hợp này bao trùm trang 339–355.
-> - **Lớp chữ PDF hỏng:** toàn bộ pseudocode (OS-SELECT, OS-RANK, hai dòng thêm vào LEFT-ROTATE, INTERVAL-SEARCH), đẳng thức x.size, công thức x.max, các bất đẳng thức trong chứng minh Định lý 14.2 (ví dụ i′.high ≤ x.left.max < i.low và i.high < i′.low ≤ i″.low), bảng chạy tay OS-RANK, ba hình cây (Hình 14.1, 14.2, 14.4) và hình khoảng (Hình 14.3, 14.5) đều được đọc lại từ ảnh trang. Trong lớp chữ, "≥", "≤" bị mất hẳn (ví dụ "x: left:max i: low"), "−" thành "/NUL", "⟨3, 6, 2, 7, 5, 1, 4⟩" thành "h3; 6; 2; 7; 5; 1; 4i", và bảng chạy tay OS-RANK bị dính số ("42 6 1 7" là dòng "4 | 26 | 17").
-> - **Lỗi câu chữ nhỏ (đọc từ ảnh trang 343):** câu "The first phase either removes one node y from the tree or moves upward it within the tree" đảo trật tự từ; đúng ra là "moves it upward". Không ảnh hưởng nội dung.
-> - **Điểm diễn đạt không chặt (nhận xét của người tổng hợp):** sách cho phép khoá trùng nhau trong cây thống kê thứ tự và định nghĩa hạng theo vị trí của *nút* trong phép duyệt giữa, nhưng bất biến vòng lặp của OS-RANK lại phát biểu "r là hạng của x.key trong cây con gốc y". Khi có khoá trùng, "hạng của một khoá" không xác định; phải hiểu là "hạng của nút x". Tương tự, OS-SELECT ngầm giả định 1 ≤ i ≤ x.size; sách không kiểm tra điều kiện này (nếu i lớn hơn số nút, thủ tục sẽ đi tới T.nil và truy cập T.nil.left).
-> - **Lỗi đã biết của ấn bản 3:** theo hiểu biết của người tổng hợp, không tra cứu, người tổng hợp không nhớ chắc lỗi nội dung nào trong danh sách errata cho Chương 14; mọi con số chạy tay trong chương (OS-SELECT tìm phần tử thứ 17 ra khoá 38, OS-RANK của nút 38 ra 17, hai lần chạy INTERVAL-SEARCH, giá trị size và max trong các hình, hoán vị Josephus (7, 3)) đã được người tổng hợp tính lại và đều đúng.
-> - **Thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** ở ấn bản thứ tư (2022), chương này được chuyển sang Phần V "Advanced Data Structures" và đổi số thành Chương 17, vẫn giữ tên "Augmenting Data Structures" với ba mục tương ứng (cây thống kê thứ tự, cách mở rộng cấu trúc dữ liệu, cây khoảng); ấn bản 4 cũng bỏ hai chương đống Fibonacci và cây van Emde Boas của ấn bản 3. Người tổng hợp không chắc chi tiết từng thay đổi về bài tập.
+Các tác giả muốn người đọc hiểu rằng **phần lớn bài toán thực tế không cần cấu trúc dữ liệu hoàn toàn mới, mà cần "mở rộng" một cấu trúc giáo khoa bằng cách lưu thêm thông tin vào mỗi nút; điều khó là phải duy trì thông tin đó khi cấu trúc bị sửa đổi, và với cây đỏ-đen có một tiêu chí đơn giản bảo đảm việc này luôn rẻ.**
+
+Mục 14.1 xây dựng **cây thống kê thứ tự (order-statistic tree)**: cây đỏ-đen trong đó mỗi nút x lưu thêm x.size — số nút trong cây con gốc x, thoả x.size = x.left.size + x.right.size + 1 (với T.nil.size = 0).
+
+Nhờ đó thủ tục OS-SELECT(x, i) tìm phần tử nhỏ thứ i và OS-RANK(T, x) tính hạng (vị trí theo thứ tự giữa) của nút x đều chạy trong O(lg n), trong khi INSERT và DELETE vẫn O(lg n): tăng/giảm size dọc đường đi từ gốc, và mỗi phép quay chỉ cần sửa size của 2 nút bằng 2 dòng lệnh thêm vào LEFT-ROTATE.
+
+Mục 14.2 trừu tượng hoá thành **quy trình bốn bước** (chọn cấu trúc nền; chọn thông tin bổ sung; kiểm tra thông tin được duy trì qua các thao tác sửa đổi; xây dựng thao tác mới) và chứng minh **Định lý 14.1**: nếu thuộc tính f của mỗi nút x chỉ phụ thuộc vào thông tin trong x, x.left, x.right (kể cả x.left.f và x.right.f), thì có thể duy trì f qua chèn và xoá mà không làm thay đổi thời gian O(lg n).
+
+Mục 14.3 áp dụng quy trình đó để xây dựng **cây khoảng (interval tree)**: mỗi nút chứa một khoảng đóng x.int = [low, high], khoá là x.int.low, và thuộc tính bổ sung x.max = max(x.int.high, x.left.max, x.right.max).
+
+Thủ tục INTERVAL-SEARCH(T, i) đi một đường duy nhất từ gốc xuống, ở mỗi nút rẽ trái nếu x.left.max ≥ i.low, ngược lại rẽ phải, và **Định lý 14.2** chứng minh rằng cách rẽ này luôn "an toàn": thủ tục tìm được một khoảng giao với i trong O(lg n), hoặc trả về T.nil khi và chỉ khi không có khoảng nào giao với i.
 
 ## Sơ đồ
 
@@ -353,7 +353,7 @@ Có thể nghĩ về hạng của x như số nút đứng trước x trong phé
 
 > Ở đầu mỗi lần lặp của vòng **while** dòng 3–6, r là hạng của x.key trong cây con gốc y.
 
-(Như đã ghi ở khối Lưu ý, khi có khoá trùng nên hiểu là "hạng của nút x".)
+(Như đã ghi ở mục Lưu ý cuối chương, khi có khoá trùng nên hiểu là "hạng của nút x".)
 
 - **Khởi tạo:** trước lần lặp đầu, dòng 1 đặt r bằng hạng của x trong cây con gốc x; dòng 2 đặt y = x, nên bất biến đúng lần đầu kiểm tra dòng 3.
 - **Duy trì:** cuối mỗi lần lặp ta đặt y = y.p, nên cần chứng minh: nếu đầu thân vòng lặp r là hạng của x trong cây con gốc y, thì cuối thân vòng lặp r là hạng của x trong cây con gốc y.p. Trong cây con gốc y.p, các nút đứng trước x gồm: những nút trong cây con gốc y đứng trước x (đã đếm), những nút trong cây con của anh/em ruột của y đứng trước x, và y.p nếu y.p cũng đứng trước x. Nếu y là con trái, cả y.p lẫn mọi nút trong cây con phải của y.p đều đứng sau x, nên r giữ nguyên. Nếu y là con phải, mọi nút trong cây con trái của y.p đều đứng trước x, và y.p cũng vậy; vì thế dòng 5 cộng y.p.left.size + 1 vào r.
@@ -426,7 +426,9 @@ Kiểm tra: trước khi quay, x.size = 6 + 12 + 1 = 19 và y.size = 4 + 7 + 1 =
 
 Vì chèn có nhiều nhất 2 phép quay, pha 2 chỉ tốn thêm O(1) cho việc cập nhật size. Tổng thời gian chèn vào cây thống kê thứ tự n nút là O(lg n), như cây đỏ-đen thường.
 
-**Ví dụ chèn không cần quay (người tổng hợp bổ sung).** Chèn khoá 22 vào cây Hình 14.1: đường đi 26 → 17 → 21 (cha của 19) → 21 (lá), vì 22 > 21 nên nút mới thành con phải của lá 21. Pha 1 tăng size: 26: 20 → 21, 17: 12 → 13, 21 (trong): 4 → 5, 21 (lá): 1 → 2; nút 22 có size 1, màu đỏ. Cha của nó màu đen nên không cần sửa. Sau khi chèn, 22 có hạng 13 và 26 chuyển sang hạng 14; OS-RANK của nút 22 cho r = 1 → (22 là con phải của 21 lá: + 0 + 1) 2 → (21 lá là con phải của 21 trong: + 2 + 1) 5 → (21 trong là con phải của 17: + 7 + 1) 13 → (17 là con trái của 26: không cộng) 13.
+**Ví dụ chèn không cần quay (người tổng hợp bổ sung).** Chèn khoá 22 vào cây Hình 14.1: đường đi 26 → 17 → 21 (cha của 19) → 21 (lá), vì 22 > 21 nên nút mới thành con phải của lá 21. Pha 1 tăng size: 26: 20 → 21, 17: 12 → 13, 21 (trong): 4 → 5, 21 (lá): 1 → 2; nút 22 có size 1, màu đỏ. Cha của nó màu đen nên không cần sửa.
+
+Sau khi chèn, 22 có hạng 13 và 26 chuyển sang hạng 14; OS-RANK của nút 22 cho r = 1 → (22 là con phải của 21 lá: + 0 + 1) 2 → (21 lá là con phải của 21 trong: + 2 + 1) 5 → (21 trong là con phải của 17: + 7 + 1) 13 → (17 là con trái của 26: không cộng) 13.
 
 **Xoá.** Theo Mục 13.4, xoá cũng có hai pha: pha thứ nhất làm việc trên cây tìm kiếm nền, pha thứ hai gây ra nhiều nhất 3 phép quay và ngoài ra không thay đổi cấu trúc.
 
@@ -437,7 +439,9 @@ Vậy cả chèn lẫn xoá, kể cả việc duy trì size, đều chạy trong
 
 #### Ví dụ hôm nay
 
-Cây thống kê thứ tự và các biến thể cùng ý tưởng (lưu số phần tử của cây con để nhảy theo hạng) xuất hiện ở nhiều nơi, theo hiểu biết của người tổng hợp: thư viện GNU libstdc++ có `__gnu_pbds::tree` với chính sách `tree_order_statistics_node_update`, cung cấp `find_by_order` (tương ứng OS-SELECT) và `order_of_key` (tương ứng đếm số khoá nhỏ hơn), rất phổ biến trong lập trình thi đấu; Redis cài đặt tập có thứ tự (sorted set) bằng danh sách nhảy (skip list) có lưu "độ rộng" mỗi liên kết, cùng ý tưởng với size, để trả lời lệnh ZRANK và ZRANGE theo hạng trong O(lg n); bảng xếp hạng trò chơi, tính phân vị (percentile) trên luồng dữ liệu động, và cây B+ trong một số cơ sở dữ liệu lưu số bản ghi trong mỗi cây con để hỗ trợ đếm và nhảy theo vị trí (OFFSET) nhanh. Trình soạn thảo văn bản dùng cây rope, trong đó mỗi nút lưu độ dài chuỗi của cây con — đúng là thuộc tính size — để nhảy tới ký tự thứ i trong O(lg n).
+Cây thống kê thứ tự và các biến thể cùng ý tưởng (lưu số phần tử của cây con để nhảy theo hạng) xuất hiện ở nhiều nơi, theo hiểu biết của người tổng hợp: thư viện GNU libstdc++ có `__gnu_pbds::tree` với chính sách `tree_order_statistics_node_update`, cung cấp `find_by_order` (tương ứng OS-SELECT) và `order_of_key` (tương ứng đếm số khoá nhỏ hơn), rất phổ biến trong lập trình thi đấu; Redis cài đặt tập có thứ tự (sorted set) bằng danh sách nhảy (skip list) có lưu "độ rộng" mỗi liên kết, cùng ý tưởng với size, để trả lời lệnh ZRANK và ZRANGE theo hạng trong O(lg n); bảng xếp hạng trò chơi, tính phân vị (percentile) trên luồng dữ liệu động, và cây B+ trong một số cơ sở dữ liệu lưu số bản ghi trong mỗi cây con để hỗ trợ đếm và nhảy theo vị trí (OFFSET) nhanh.
+
+Trình soạn thảo văn bản dùng cây rope, trong đó mỗi nút lưu độ dài chuỗi của cây con — đúng là thuộc tính size — để nhảy tới ký tự thứ i trong O(lg n).
 
 ### 3. Cách mở rộng một cấu trúc dữ liệu (14.2 How to augment a data structure, trang 345–348)
 
@@ -702,7 +706,9 @@ Vậy INTERVAL-SEARCH đúng.
 
 #### Ví dụ hôm nay
 
-Theo hiểu biết của người tổng hợp: cây khoảng (và biến thể "augmented interval tree" đúng như trong sách) được dùng trong lịch và hệ thống đặt chỗ (kiểm tra một cuộc hẹn mới có trùng lịch nào không), trong nhân Linux (cây khoảng dựa trên cây đỏ-đen `interval_tree` dùng để quản lý vùng nhớ ánh xạ và tra cứu theo dải địa chỉ), trong tin sinh học (bedtools, các thư viện như `IntervalTree` của Python tìm các gen, đoạn đọc giao với một vùng nhiễm sắc thể), trong bộ cấp phát bộ nhớ và trình gỡ lỗi (tìm vùng nhớ chứa một địa chỉ), và trong thiết kế vi mạch (kiểm tra các hình chữ nhật chồng nhau bằng đường quét, đúng như bài tập 14.3-7). Biến thể tĩnh "liệt kê mọi khoảng giao" trong O(k + lg n) của ghi chú chương là cây khoảng kiểu Edelsbrunner, phổ biến trong đồ hoạ và hình học tính toán.
+Theo hiểu biết của người tổng hợp: cây khoảng (và biến thể "augmented interval tree" đúng như trong sách) được dùng trong lịch và hệ thống đặt chỗ (kiểm tra một cuộc hẹn mới có trùng lịch nào không), trong nhân Linux (cây khoảng dựa trên cây đỏ-đen `interval_tree` dùng để quản lý vùng nhớ ánh xạ và tra cứu theo dải địa chỉ), trong tin sinh học (bedtools, các thư viện như `IntervalTree` của Python tìm các gen, đoạn đọc giao với một vùng nhiễm sắc thể), trong bộ cấp phát bộ nhớ và trình gỡ lỗi (tìm vùng nhớ chứa một địa chỉ), và trong thiết kế vi mạch (kiểm tra các hình chữ nhật chồng nhau bằng đường quét, đúng như bài tập 14.3-7).
+
+Biến thể tĩnh "liệt kê mọi khoảng giao" trong O(k + lg n) của ghi chú chương là cây khoảng kiểu Edelsbrunner, phổ biến trong đồ hoạ và hình học tính toán.
 
 ### 5. Bài toán cuối chương (Problems, trang 354–355)
 
@@ -908,12 +914,14 @@ OS-RANK và INTERVAL-SEARCH đều chỉ 6–7 dòng, nhưng sách chứng minh 
 
 - Chứng minh Định lý 14.1 đưa ra cận O(lg n) mỗi phép quay, thô hơn thực tế; sách chỉ nhắc rằng "nhiều trường hợp" chỉ cần O(1) và đẩy sang bài tập 14.2-3. Người đọc nên tự thấy vì sao: sau phép quay, tập con cháu của mọi tổ tiên không đổi, nên với mọi thuộc tính là hàm của *tập* (hay của dãy duyệt giữa) các nút trong cây con, chỉ hai nút được quay cần tính lại.
 - Phần xoá được mô tả khá vắn tắt ("đi từ vị trí ban đầu của y lên gốc"), trong khi RB-DELETE của ấn bản 3 có ba nút liên quan (z, y, x). Người cài đặt cần cẩn thận: khi z có hai con, y (nút kế tiếp) được dời vào vị trí z; đường giảm size bắt đầu từ cha cũ của y và đi qua z (vì z là tổ tiên của y), rồi y ở vị trí mới nhận giá trị z.size đã giảm đó. Đây là chỗ hay sinh lỗi nhất khi tự viết cây thống kê thứ tự.
-- Bất biến OS-RANK nói "hạng của x.key" trong khi chương cho phép khoá trùng (ghi ở khối Lưu ý); OS-SELECT không kiểm tra 1 ≤ i ≤ size.
+- Bất biến OS-RANK nói "hạng của x.key" trong khi chương cho phép khoá trùng (ghi ở mục Lưu ý cuối chương); OS-SELECT không kiểm tra 1 ≤ i ≤ size.
 - Điều kiện `x.left ≠ T.nil` ở dòng 3 của INTERVAL-SEARCH là thừa nếu đặt T.nil.max = −∞; sách giữ nó để không phải dựa vào quy ước ngầm.
 
 ### So với thực tế: thư viện chuẩn và phần cứng hiện đại
 
-Thư viện chuẩn của hầu hết ngôn ngữ (std::map/std::set của C++, TreeMap của Java) cài đặt cây đỏ-đen nhưng *không* mở rộng size, nên không có thao tác "phần tử thứ i" hay "hạng" trong O(lg n) — đúng loại tình huống mà chương nói "cần một chút sáng tạo". Lập trình viên C++ thi đấu thường dùng `__gnu_pbds` (theo hiểu biết của người tổng hợp), người khác phải tự viết treap hoặc cây Fenwick (Binary Indexed Tree) khi miền giá trị nhỏ. Trên phần cứng hiện đại, cây nhị phân với con trỏ có cục bộ bộ nhớ đệm kém; cấu trúc thực tế thường mở rộng cây B hoặc cây B+ (Chương 18) — mỗi nút lưu số phần tử của từng cây con — với cùng nguyên tắc của Định lý 14.1. Khi tập là tĩnh hoặc chỉ thêm, cây phân đoạn (segment tree) hay mảng sắp xếp kèm tìm kiếm nhị phân thường nhanh hơn cây khoảng.
+Thư viện chuẩn của hầu hết ngôn ngữ (std::map/std::set của C++, TreeMap của Java) cài đặt cây đỏ-đen nhưng *không* mở rộng size, nên không có thao tác "phần tử thứ i" hay "hạng" trong O(lg n) — đúng loại tình huống mà chương nói "cần một chút sáng tạo". Lập trình viên C++ thi đấu thường dùng `__gnu_pbds` (theo hiểu biết của người tổng hợp), người khác phải tự viết treap hoặc cây Fenwick (Binary Indexed Tree) khi miền giá trị nhỏ.
+
+Trên phần cứng hiện đại, cây nhị phân với con trỏ có cục bộ bộ nhớ đệm kém; cấu trúc thực tế thường mở rộng cây B hoặc cây B+ (Chương 18) — mỗi nút lưu số phần tử của từng cây con — với cùng nguyên tắc của Định lý 14.1. Khi tập là tĩnh hoặc chỉ thêm, cây phân đoạn (segment tree) hay mảng sắp xếp kèm tìm kiếm nhị phân thường nhanh hơn cây khoảng.
 
 ### Liên hệ các chương khác
 
@@ -928,3 +936,147 @@ Thư viện chuẩn của hầu hết ngôn ngữ (std::map/std::set của C++, 
 - **Phỏng vấn:** các câu hỏi "đếm số phần tử nhỏ hơn ở bên phải", "trung vị của luồng dữ liệu", "đặt lịch phòng họp không trùng", "bảng xếp hạng có cập nhật" đều là cây thống kê thứ tự hoặc cây khoảng; trình bày theo bốn bước của Mục 14.2 cho câu trả lời có cấu trúc.
 - **Lập trình thi đấu:** thuộc lòng mẫu "x.f = x.left.f ⊗ x.a ⊗ x.right.f, sửa sau mỗi phép quay/tách/ghép" để mở rộng treap hoặc splay tree cho bất kỳ truy vấn đoạn nào có toán tử kết hợp.
 - **Kỹ thuật phần mềm:** khi một truy vấn chạy O(n) trên dữ liệu đã có cây chỉ mục, hãy kiểm tra xem có thể lưu một đại lượng tổng hợp cục bộ ở mỗi nút (đếm, tổng, max, băm) để biến nó thành O(lg n) không — và đừng quên chi phí duy trì khi ghi.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 14 trên một trang: năm nhánh lớn theo phần mở đầu, ba mục 14.1–14.3 và hai bài toán cuối chương của bản gốc, mỗi nhánh ghi định nghĩa, thủ tục, thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 14: mở rộng cây đỏ-đen bằng thông tin bổ sung ở mỗi nút để có thao tác mới vẫn chạy O(lg n)`"]
+  n1["`Phần mở đầu chương — vì sao mở rộng cấu trúc dữ liệu`"]
+  n0 --- n1
+  n2["`Phần lớn bài toán thực tế không cần cấu trúc mới, chỉ cần lưu thêm thông tin vào một cấu trúc giáo khoa`"]
+  n1 --- n2
+  n3["`Điều khó là duy trì thông tin bổ sung khi cấu trúc bị chèn, xoá và quay`"]
+  n1 --- n3
+  n4["`Mục 14.1 — Cây thống kê thứ tự`"]
+  n0 --- n4
+  n5["`Cây đỏ-đen, mỗi nút x lưu thêm size là số nút của cây con gốc x`"]
+  n4 --- n5
+  n6["`size của x = size con trái + size con phải + 1, lính canh T.nil có size 0`"]
+  n5 --- n6
+  n7["`Hạng của nút là vị trí của nó trong phép duyệt giữa, khoá được phép trùng`"]
+  n5 --- n7
+  n8["`OS-SELECT tìm phần tử nhỏ thứ i trong O(lg n)`"]
+  n4 --- n8
+  n9["`So i với r = size con trái + 1 để biết dừng, đi trái hay đi phải với i − r`"]
+  n8 --- n9
+  n10["`Ví dụ Hình 14.1: tìm phần tử thứ 17 đi qua 26 → 41 → 30 → 38 và trả về 38`"]
+  n8 --- n10
+  n11["`OS-RANK tính hạng của nút x trong O(lg n)`"]
+  n4 --- n11
+  n12["`Leo từ x lên gốc, mỗi lần đi lên từ con phải thì cộng size anh trái + 1`"]
+  n11 --- n12
+  n13["`Đúng nhờ bất biến vòng lặp, và nút khoá 38 có hạng 17`"]
+  n11 --- n13
+  n14["`Chèn và xoá vẫn O(lg n) khi duy trì size`"]
+  n4 --- n14
+  n15["`Chèn tăng size của mọi nút trên đường đi từ gốc xuống`"]
+  n14 --- n15
+  n16["`Xoá giảm size dọc đường từ vị trí cũ của nút bị gỡ lên gốc`"]
+  n14 --- n16
+  n17["`Mỗi phép quay chỉ sửa size của 2 nút, thêm 2 dòng vào LEFT-ROTATE`"]
+  n14 --- n17
+  n18["`Lưu hạng toàn cây thì sai cách: chèn phần tử nhỏ nhất làm đổi hạng của mọi nút`"]
+  n4 --- n18
+  n19["`Mục 14.2 — Quy trình bốn bước và Định lý 14.1`"]
+  n0 --- n19
+  n20["`Bốn bước mở rộng một cấu trúc dữ liệu`"]
+  n19 --- n20
+  n21["`Bước 1 chọn cấu trúc nền, ví dụ cây đỏ-đen`"]
+  n20 --- n21
+  n22["`Bước 2 chọn thông tin bổ sung, ví dụ size`"]
+  n20 --- n22
+  n23["`Bước 3 kiểm tra thông tin được duy trì qua các thao tác sửa đổi`"]
+  n20 --- n23
+  n24["`Bước 4 xây thao tác mới, ví dụ OS-SELECT và OS-RANK`"]
+  n20 --- n24
+  n25["`Định lý 14.1: thuộc tính f chỉ phụ thuộc vào x, con trái và con phải thì chèn, xoá vẫn O(lg n)`"]
+  n19 --- n25
+  n26["`Chứng minh: đổi f ở x chỉ lan lên các tổ tiên của x, tức O(lg n) nút`"]
+  n25 --- n26
+  n27["`Chèn có tối đa 2 phép quay, xoá tối đa 3, mỗi phép quay lan truyền O(lg n)`"]
+  n25 --- n27
+  n28["`Khi f là phép gộp theo một toán tử kết hợp ⊗, mỗi phép quay chỉ tốn O(1) (bài tập 14.2-3)`"]
+  n19 --- n28
+  n29["`Mục 14.3 — Cây khoảng`"]
+  n0 --- n29
+  n30["`Mỗi nút chứa một khoảng đóng [low, high], khoá của nút là low`"]
+  n29 --- n30
+  n31["`Tam phân khoảng: hai khoảng hoặc giao nhau, hoặc một khoảng nằm hẳn bên trái hay hẳn bên phải khoảng kia`"]
+  n29 --- n31
+  n32["`Thông tin bổ sung max = max(high của nút, max con trái, max con phải)`"]
+  n29 --- n32
+  n33["`max chỉ phụ thuộc nút và hai con nên Định lý 14.1 bảo đảm chèn, xoá vẫn O(lg n)`"]
+  n32 --- n33
+  n34["`Ví dụ Hình 14.4: cây 10 khoảng có max ở gốc bằng 30`"]
+  n32 --- n34
+  n35["`INTERVAL-SEARCH đi một đường từ gốc, rẽ trái nếu max con trái ≥ low của i, ngược lại rẽ phải`"]
+  n29 --- n35
+  n36["`Tìm [22, 25] trả về khoảng [15, 23], còn tìm [11, 14] trả về T.nil`"]
+  n35 --- n36
+  n37["`Chạy O(lg n) và chỉ trả về một khoảng giao, không liệt kê hết`"]
+  n35 --- n37
+  n38["`Định lý 14.2: cách rẽ luôn an toàn, trả về T.nil khi và chỉ khi không khoảng nào giao với i`"]
+  n29 --- n38
+  n39["`Khi rẽ trái, chứng minh phản đảo: bên trái không có khoảng giao thì bên phải cũng không có`"]
+  n38 --- n39
+  n40["`Bài toán 14-1 và 14-2 cuối chương`"]
+  n0 --- n40
+  n41["`14-1 Điểm chồng lấn nhiều nhất luôn là một đầu mút của các khoảng`"]
+  n40 --- n41
+  n42["`Cây đỏ-đen trên đầu mút, gán +1 cho đầu trái và −1 cho đầu phải, lưu tổng và tổng tiền tố lớn nhất`"]
+  n41 --- n42
+  n43["`Chèn, xoá khoảng O(lg n), tìm điểm chồng lấn nhiều nhất O(1) ở gốc`"]
+  n41 --- n43
+  n44["`14-2 Hoán vị Josephus (7, 3) là ⟨3, 6, 2, 7, 5, 1, 4⟩`"]
+  n40 --- n44
+  n45["`m là hằng: danh sách liên kết vòng cho O(n)`"]
+  n44 --- n45
+  n46["`m bất kỳ: cây thống kê thứ tự với OS-SELECT và xoá cho O(n lg n)`"]
+  n44 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Hỏi trước: thông tin nào lưu ở mỗi nút cây cân bằng sẽ trả lời câu hỏi bằng một đường đi từ gốc`"]
+  n47 --- n48
+  n49["`Thông tin phải là hàm cục bộ của nút và hai con, nếu là thông tin toàn cục như hạng thì tìm đại lượng cục bộ tương đương như size`"]
+  n47 --- n49
+  n50["`Trình bày từ ví dụ cụ thể (14.1), rút nguyên tắc (14.2), rồi áp dụng lại (14.3)`"]
+  n47 --- n50
+  n51["`Thư viện chuẩn như map của C++ hay TreeMap của Java không lưu size nên không chọn phần tử thứ i trong O(lg n)`"]
+  n47 --- n51
+  class n0 root
+  class n1,n4,n19,n29,n40,n47 branch
+  class n2,n3,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần III "Data Structures", Chương 14 "Augmenting Data Structures", trang sách 339–355 (PDF 360–376).
+
+## Tác giả
+
+Cormen (Dartmouth), Leiserson và Rivest (MIT), Stein (Columbia) — bốn tác giả của giáo trình thuật toán được dùng rộng rãi nhất ở bậc đại học, thường gọi tắt là "CLRS".
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) đã định nghĩa thống kê thứ tự (phần tử nhỏ thứ i của một tập) và cho cách tìm nó trong thời gian O(n) trên một tập *tĩnh, không sắp xếp*. Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) xây dựng cây tìm kiếm nhị phân với các thao tác tập động (SEARCH, MINIMUM, MAXIMUM, SUCCESSOR, PREDECESSOR, INSERT, DELETE) chạy trong O(h), h là chiều cao cây. Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) giữ cho cây cân bằng — cây đỏ-đen có chiều cao O(lg n) — nhờ đổi màu và phép quay (rotation), trong đó chèn cần nhiều nhất 2 phép quay và xoá cần nhiều nhất 3.
+
+Chương 14 không tạo ra cấu trúc mới hoàn toàn, mà dạy một *kỹ thuật thiết kế*: lấy một cấu trúc dữ liệu có sẵn (ở đây là cây đỏ-đen), gắn thêm thông tin vào mỗi nút, chứng minh rằng các thao tác sửa đổi vẫn duy trì được thông tin đó với chi phí thấp, rồi dùng thông tin đó để có thao tác mới.
+
+Chương này đóng lại Phần III. Phần IV mở đầu bằng quy hoạch động ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)). Kỹ thuật "gắn thêm thuộc tính tổng hợp vào nút cây" sẽ được dùng lại ở nhiều nơi: Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) gắn thêm hạng (rank) vào nút của rừng tập rời nhau; Chương 33 ([C33-hinh-hoc-tinh-toan.md](C33-hinh-hoc-tinh-toan.md)) dùng đường quét (sweep line) kết hợp cây đỏ-đen, đúng kiểu bài tập 14.3-7; và phân tích dãy nghịch thế (inversion) của Bài toán 2-4 ([C02-bat-dau.md](C02-bat-dau.md)) được giải lại bằng cây thống kê thứ tự trong bài tập 14.1-7.
+
+## Lưu ý
+
+- **Mục khó (dấu sao):** chương không có mục nào đánh dấu sao. Các bài tập đánh dấu sao là 14.1-8 (đếm cặp dây cung cắt nhau), 14.2-3 (toán tử kết hợp ⊗ và cập nhật sau phép quay), 14.2-4 (RB-ENUMERATE trong Θ(m + lg n)) và 14.3-7 (phát hiện hình chữ nhật chồng nhau bằng đường quét).
+- **Phạm vi trang:** bảng phân công ghi trang 339–354, nhưng Bài toán 14-2 và phần Ghi chú chương (Chapter notes) nằm ở trang 355; Phần IV bắt đầu ở trang 356 (PDF 377). Bản tổng hợp này bao trùm trang 339–355.
+- **Lớp chữ PDF hỏng:** toàn bộ pseudocode (OS-SELECT, OS-RANK, hai dòng thêm vào LEFT-ROTATE, INTERVAL-SEARCH), đẳng thức x.size, công thức x.max, các bất đẳng thức trong chứng minh Định lý 14.2 (ví dụ i′.high ≤ x.left.max < i.low và i.high < i′.low ≤ i″.low), bảng chạy tay OS-RANK, ba hình cây (Hình 14.1, 14.2, 14.4) và hình khoảng (Hình 14.3, 14.5) đều được đọc lại từ ảnh trang. Trong lớp chữ, "≥", "≤" bị mất hẳn (ví dụ "x: left:max i: low"), "−" thành "/NUL", "⟨3, 6, 2, 7, 5, 1, 4⟩" thành "h3; 6; 2; 7; 5; 1; 4i", và bảng chạy tay OS-RANK bị dính số ("42 6 1 7" là dòng "4 | 26 | 17").
+- **Lỗi câu chữ nhỏ (đọc từ ảnh trang 343):** câu "The first phase either removes one node y from the tree or moves upward it within the tree" đảo trật tự từ; đúng ra là "moves it upward". Không ảnh hưởng nội dung.
+- **Điểm diễn đạt không chặt (nhận xét của người tổng hợp):** sách cho phép khoá trùng nhau trong cây thống kê thứ tự và định nghĩa hạng theo vị trí của *nút* trong phép duyệt giữa, nhưng bất biến vòng lặp của OS-RANK lại phát biểu "r là hạng của x.key trong cây con gốc y". Khi có khoá trùng, "hạng của một khoá" không xác định; phải hiểu là "hạng của nút x". Tương tự, OS-SELECT ngầm giả định 1 ≤ i ≤ x.size; sách không kiểm tra điều kiện này (nếu i lớn hơn số nút, thủ tục sẽ đi tới T.nil và truy cập T.nil.left).
+- **Lỗi đã biết của ấn bản 3:** theo hiểu biết của người tổng hợp, không tra cứu, người tổng hợp không nhớ chắc lỗi nội dung nào trong danh sách errata cho Chương 14; mọi con số chạy tay trong chương (OS-SELECT tìm phần tử thứ 17 ra khoá 38, OS-RANK của nút 38 ra 17, hai lần chạy INTERVAL-SEARCH, giá trị size và max trong các hình, hoán vị Josephus (7, 3)) đã được người tổng hợp tính lại và đều đúng.
+- **Thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** ở ấn bản thứ tư (2022), chương này được chuyển sang Phần V "Advanced Data Structures" và đổi số thành Chương 17, vẫn giữ tên "Augmenting Data Structures" với ba mục tương ứng (cây thống kê thứ tự, cách mở rộng cấu trúc dữ liệu, cây khoảng); ấn bản 4 cũng bỏ hai chương đống Fibonacci và cây van Emde Boas của ấn bản 3. Người tổng hợp không chắc chi tiết từng thay đổi về bài tập.
