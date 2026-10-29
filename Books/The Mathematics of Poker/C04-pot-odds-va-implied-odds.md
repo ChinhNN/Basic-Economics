@@ -1,23 +1,18 @@
 # Chương 4 — Chơi theo tỷ lệ: pot odds và implied odds (Playing the Odds: Pot Odds and Implied Odds)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), trang mở Phần II "Exploitive Play" (trang 49) và Chương 4 "Playing the Odds: Pot Odds and Implied Odds", trang 50–61.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Phần I (Chương 1–3) đặt nền: Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)) định nghĩa quyết định "tốt hơn" là quyết định có kỳ vọng (EV) cao hơn và cho công thức kỳ vọng (phương trình 1.11: kỳ vọng bằng tổng xác suất nhân giá trị của từng kết cục); Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) bàn phương sai; Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) giới thiệu định lý Bayes. Chương 4 mở Phần II "Chơi khai thác" (Exploitive Play): định nghĩa trò chơi, chiến lược, chiến lược trả đũa tối đa, rồi dựng công cụ cơ bản nhất cho cuộc đối đầu giữa bài đã thành (made hand) và bài đang chờ (draw) — pot odds trên một vòng cược, trên nhiều vòng cược, và implied odds — cùng các khái niệm bluff, semi-bluff, value bet. Ví dụ stud cuối chương cho thấy điểm bàng quan giữa tần suất bluff và tần suất call, dẫn trước sang khái niệm chiến lược tối ưu của Phần III ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md), [C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)). Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)) tiếp tục bước thứ nhất của chơi khai thác: suy ra bài và chiến lược của đối thủ; Chương 7–9 ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md), [C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md), [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) mở rộng các ví dụ bài lật ngửa của chương này.
-**Ý chính:** **Chơi khai thác là chọn, ở mỗi điểm quyết định, hành động có kỳ vọng cao nhất trước chiến lược cụ thể của đối thủ; trong cuộc đối đầu made hand với draw, phép tính kỳ vọng này được rút gọn thành pot odds (so tỷ lệ tiền trong pot với tiền phải bỏ ra) và implied odds (cộng thêm tiền thắng được ở các vòng sau), nhưng phải tính theo toàn bộ chiến lược qua mọi vòng cược chứ không theo từng vòng riêng.** Phần mở đầu định nghĩa trò chơi, chiến lược (chỉ định đầy đủ hành động ở mọi nhánh — trong hold'em có hàng tỷ tổ hợp bài/bàn), và chiến lược trả đũa tối đa trước một chiến lược S. Ví dụ 4.1 (A có nuts 20%, bài chết 80%, pot 4 bet) cho thấy B nên call khi A bluff hơn 4% tổng số tay và fold khi dưới 4%: chiến lược khai thác nhảy từ thái cực này sang thái cực kia. Mục Pot Odds định nghĩa draw là bài đang kém hơn và cần ra outs, dù có thể là cửa trên (Q♣J♣ thắng 70,9% trước A♠3♦ trên flop T♣9♣2♦). Ví dụ 4.2 (A♣A♦ gặp 9♥8♥, pot 400 USD, mức 30–60 USD) cho hai nguyên lý: made hand thường bet (bet được 353,64 USD so với check 318,18 USD), và draw thường call khi phần pot của nó sau khi call lớn hơn số tiền call (B call được 46,36 USD; cần hơn 3/26 khả năng thắng, tức pot odds 23 ăn 3). Ví dụ 4.3–4.6 (flush draw 8 outs trước A♦K♦) cho thấy pot odds trên nhiều vòng: pot 75 USD thì fold, pot 195 USD thì call cả flop lẫn turn, pot 135 USD thì call flop rồi fold turn; xác suất thắng tới river 32,7% không cho phép call, vì chỉ lá bài kế tiếp mới tính vào pot odds tức thời; raise flop để "tự tạo odds" mất hơn 20 USD so với call. Ví dụ 4.7: nếu A trả tiền cho flush ở mỗi vòng sau, kỳ vọng của B tăng từ 4,67 USD lên 32,73 USD — đó là implied odds. Mục Bluffing phân biệt pure bluff, semi-bluff, value bet. Ví dụ 4.8 (stud, river úp, pot 655 USD, mức 40–80 USD) tìm hai điểm bàng quan: A nên call khi B bluff hơn 2,2% tổng số tay; B nên bluff khi A call ít hơn 89,1%; khi cả hai chơi đúng các tần suất này, không ai cải thiện được bằng cách tự thay đổi — đó là chiến lược tối ưu của Phần III.
+## Ý chính
 
-> **Lưu ý:**
-> - **Ví dụ 4.1, câu "bluffing two thousandths of a percent more often":** x đổi từ 0,039 sang 0,041 là tăng 0,002, tức hai phần nghìn (0,2 điểm phần trăm), không phải "hai phần nghìn của một phần trăm".
-> - **Ví dụ 4.1, "xác suất có điều kiện khi A bet" (nhận xét của người tổng hợp):** sách nói các xác suất dùng trong <B, call> là có điều kiện theo việc A bet, nhưng lại dùng 0,2 và x, vốn là tỷ lệ trên *tổng số tay* (tổng 0,2 + x không bằng 1). Xác suất có điều kiện đúng là 0,2 / (0,2 + x) và x / (0,2 + x); <B, call> theo đó bằng (5x − 0,2) / (0,2 + x). Hệ số chia dương nên dấu và ngưỡng x = 0,04 không đổi.
-> - **"19.600 different three-card flops":** dấu chấm là lỗi in của dấu phẩy ngăn hàng nghìn (19,600 = C(50, 3)). Con số "well over five million" tổ hợp bài/bàn là cách nói rất nhẹ: 1.326 × 19.600 × 47 × 46 ≈ 5,6 × 10¹⁰ trước khi gộp các chất tương đương (người tổng hợp tính).
-> - **Ví dụ 4.2, công thức "<A, check> = p(A wins)) + (pot size)":** dấu "+" phải là dấu nhân; con số 318,18 USD đúng với phép nhân (35/44) × 400.
-> - **Ví dụ 4.3, ngưỡng pot odds sai:** sách nói B cần khả năng thắng lớn hơn 30/105, tức 28,5%. Ngưỡng đúng là tiền call chia cho pot cuối cùng: 30 / (75 + 30 + 30) = 22,2% (pot odds 105 ăn 30, tức 3,5 ăn 1, nên cần thắng 1 lần trong 4,5). Kết luận không đổi vì khả năng ra flush ở turn chỉ 8/45 = 17,8% (sách làm tròn xuống "17%"; 30/105 cũng là 28,6% chứ không phải 28,5%). Sách cũng ghi bài của B chỉ là "8♣"; ở Ví dụ 4.7 sách ghi đủ 8♣ 7♣.
-> - **Ví dụ 4.4, xác suất trên turn không nhất quán:** sách viết A hoặc K ra ở turn với xác suất 4/45, phần còn lại 41/45, nhưng công thức lại dùng (4/41)(0) + (41/45)(8,18 USD) = 7,45 USD. Trong 45 lá chưa biết có 8 lá flush (B đã thắng), 4 lá làm B chết bài (A♠, A♥, K♥, K♣) và 33 lá còn lại. Nếu tính kỳ vọng trên turn với điều kiện B chưa ra flush: (4/37)(0) + (33/37)(8,18) = 7,30 USD; nếu tính theo tỷ lệ trên cả 45 lá: (33/45)(8,18) = 6,00 USD. Cả hai đều dương nên kết luận "B call tiếp được" không đổi.
-> - **Ví dụ 4.5, câu "in 4.3 … B is getting ($75 + $60) to $60, or 2.25 to 1" (nhận xét của người tổng hợp):** tỷ lệ này không ứng với đại lượng rõ ràng nào. Pot odds tức thời trên flop ở 4.3 là 105 ăn 30 (3,5 ăn 1); nếu gộp cả hai vòng (B bỏ 30 + 60 = 90 USD để thắng 75 + 30 + 60 = 165 USD của người khác) thì là 1,83 ăn 1, *thấp hơn* 2 ăn 1, trong khi khả năng thắng 32,7% cần ít nhất (1 − 0,327) / 0,327 ≈ 2,06 ăn 1. Ý chính của sách (chỉ lá bài kế tiếp tính cho pot odds tức thời) vẫn đúng.
-> - **Ví dụ 4.7, bảng có hai lỗi in:** dòng "No flush" ghi kỳ vọng có trọng số "$60.55" thiếu dấu âm (đúng là −60,55 USD) và ghi "(844)" thay cho (8/44); dòng tổng ghi "$32.43" trong khi lời văn ghi 32,73 USD. Người tổng hợp tính: 50,67 + 42,61 − 60,55 = 32,73 USD, lời văn đúng.
-> - **Ví dụ 4.8, số lá flush (nhận xét của người tổng hợp):** sách nói còn 40 lá, trong đó 8 lá bích, nên B ra flush 1/5. Với các lá đang ngửa, B giữ 4 lá bích (7♠ 8♠ 9♠ K♠) và A không có lá bích nào, nên còn 13 − 4 = 9 lá bích trong 40 lá, tức 22,5%. Có lẽ tác giả ngầm coi một lá bích đã bị người khác fold; sách không nói. Với 9/40, ngưỡng bluff của B để A bàng quan là 18 / 735 ≈ 2,45% thay vì 2,2%; ngưỡng call 89,1% của A không đổi. Bản tổng hợp giữ số của sách (1/5) trong phần trình bày.
-> - **Ví dụ 4.8, "A's value bet … will never extract value from B's hand, because B can't make a hand better than the open aces":** ý là ngoài flush, B không có bài nào thắng đôi A đang ngửa, nên B chỉ call khi có flush — bet của A chỉ thua thêm tiền.
-> - **Lớp chữ:** "whining" là "winning"; "tiling" là "thing"; "Bush" là "flush"; "86543 b sing" là "86543 being"; "ran anticipate" là "can anticipate"; "income" là "incomplete"; "the pat" là "the pot". Ở trang 54 lớp chữ cắt mất cuối dòng ("straightfor[ward]", "some[times]"); bản tổng hợp đọc lại từ ảnh trang. Hình 4.1 không có nhãn trục tung; giá trị đọc được (−0,2 tại x = 0) suy từ công thức.
-> - **Quy ước:** sách gọi người chơi là A và B trong chương này (chưa dùng X và Y); bản tổng hợp giữ nguyên. Số tiền ghi "USD"; mức cược "30–60 USD" nghĩa là cược nhỏ 30 USD (flop) và cược lớn 60 USD (turn, river). "Equity" được giữ tiếng Anh (phần pot mà một tay bài "sở hữu" theo xác suất thắng).
+**Chơi khai thác là chọn, ở mỗi điểm quyết định, hành động có kỳ vọng cao nhất trước chiến lược cụ thể của đối thủ; trong cuộc đối đầu made hand với draw, phép tính kỳ vọng này được rút gọn thành pot odds (so tỷ lệ tiền trong pot với tiền phải bỏ ra) và implied odds (cộng thêm tiền thắng được ở các vòng sau), nhưng phải tính theo toàn bộ chiến lược qua mọi vòng cược chứ không theo từng vòng riêng.**
+
+Phần mở đầu định nghĩa trò chơi, chiến lược (chỉ định đầy đủ hành động ở mọi nhánh — trong hold'em có hàng tỷ tổ hợp bài/bàn), và chiến lược trả đũa tối đa trước một chiến lược S. Ví dụ 4.1 (A có nuts 20%, bài chết 80%, pot 4 bet) cho thấy B nên call khi A bluff hơn 4% tổng số tay và fold khi dưới 4%: chiến lược khai thác nhảy từ thái cực này sang thái cực kia.
+
+Mục Pot Odds định nghĩa draw là bài đang kém hơn và cần ra outs, dù có thể là cửa trên (Q♣J♣ thắng 70,9% trước A♠3♦ trên flop T♣9♣2♦). Ví dụ 4.2 (A♣A♦ gặp 9♥8♥, pot 400 USD, mức 30–60 USD) cho hai nguyên lý: made hand thường bet (bet được 353,64 USD so với check 318,18 USD), và draw thường call khi phần pot của nó sau khi call lớn hơn số tiền call (B call được 46,36 USD; cần hơn 3/26 khả năng thắng, tức pot odds 23 ăn 3).
+
+Ví dụ 4.3–4.6 (flush draw 8 outs trước A♦K♦) cho thấy pot odds trên nhiều vòng: pot 75 USD thì fold, pot 195 USD thì call cả flop lẫn turn, pot 135 USD thì call flop rồi fold turn. Xác suất thắng tới river 32,7% không cho phép call, vì chỉ lá bài kế tiếp mới tính vào pot odds tức thời. Raise flop để "tự tạo odds" mất hơn 20 USD so với call.
+
+Ví dụ 4.7: nếu A trả tiền cho flush ở mỗi vòng sau, kỳ vọng của B tăng từ 4,67 USD lên 32,73 USD — đó là implied odds.
+
+Mục Bluffing phân biệt pure bluff, semi-bluff, value bet. Ví dụ 4.8 (stud, river úp, pot 655 USD, mức 40–80 USD) tìm hai điểm bàng quan: A nên call khi B bluff hơn 2,2% tổng số tay; B nên bluff khi A call ít hơn 89,1%; khi cả hai chơi đúng các tần suất này, không ai cải thiện được bằng cách tự thay đổi — đó là chiến lược tối ưu của Phần III.
 
 ## Sơ đồ
 
@@ -381,7 +376,7 @@ Gọi x là tỷ lệ (trên tổng số tay của A) mà A bluff; việc chọn
 - <B, call> = p(A có nuts) × (−1) + p(A bluff) × (+5) = (0,2)(−1) + 5x = 5x − 0,2
 - <B, fold> = 0
 
-(Như khối Lưu ý đã nêu, 0,2 và x là tỷ lệ trên tổng số tay; chia cho 0,2 + x để có kỳ vọng có điều kiện khi A bet không làm đổi dấu.)
+(Như mục Lưu ý cuối chương đã nêu, 0,2 và x là tỷ lệ trên tổng số tay; chia cho 0,2 + x để có kỳ vọng có điều kiện khi A bet không làm đổi dấu.)
 
 | Tình huống | x | <B, call> | <B, fold> |
 |---|---:|---:|---:|
@@ -472,7 +467,7 @@ Sách tính kỳ vọng tổng trên turn theo phương trình 1.11:
 
 <B, turn> = p(A hoặc K) × <B, khi A hoặc K ra> + p(lá khác) × <B, lá khác> = (4/41)(0) + (41/45)(8,18) = 7,45 USD.
 
-Như khối Lưu ý đã nêu, các mẫu số không nhất quán; với điều kiện B trượt turn (37 lá), có 4 lá chết và 33 lá còn sống, nên kỳ vọng đúng là (4/37)(0) + (33/37)(8,18) = 7,30 USD. Dù tính cách nào, kết quả dương. Vậy ở pot 195 USD, trên flop A bet, B call; nếu draw trượt ở turn (và không ra A, K), A bet tiếp và B lại call có lợi (vì call có giá trị lớn hơn 0 của fold).
+Như mục Lưu ý cuối chương đã nêu, các mẫu số không nhất quán; với điều kiện B trượt turn (37 lá), có 4 lá chết và 33 lá còn sống, nên kỳ vọng đúng là (4/37)(0) + (33/37)(8,18) = 7,30 USD. Dù tính cách nào, kết quả dương. Vậy ở pot 195 USD, trên flop A bet, B call; nếu draw trượt ở turn (và không ra A, K), A bet tiếp và B lại call có lợi (vì call có giá trị lớn hơn 0 của fold).
 
 #### Ví dụ 4.5 — pot 135 USD
 
@@ -499,7 +494,7 @@ p(B thắng) = 1 − p(B thua) = 1 − p(B trượt ở turn) × p(B trượt �
 
 Ở đây dùng xác suất đồng thời p(A ∩ B) = p(A)p(B) (phương trình 1.3, cho các sự kiện nối tiếp; xác suất trượt ở river đã là xác suất có điều kiện khi trượt ở turn) của việc B không thắng, rồi lấy 1 trừ đi. Cũng có thể tính khả năng thắng ở turn, cộng khả năng thắng ở river, rồi trừ khả năng "thắng ở cả hai", nhưng cách một bước ở trên gọn hơn.
 
-Nếu B có gần một phần ba khả năng thắng, sao không call được trong cả ba trường hợp, khi mỗi trường hợp pot đều trả hơn 2 ăn 1? Chẳng hạn sách nói ở 4.3, pot nhỏ nhất, B được trả (75 + 60) ăn 60, tức 2,25 ăn 1 (về con số này xem khối Lưu ý). **Câu trả lời: chỉ những tình huống B thắng ở lá kế tiếp mới tính cho pot odds tức thời của B.** Lý do: khi bài lật ngửa, nếu B trượt ở turn, A sẽ bet tiếp và B lại phải trả tiền cho lá river; tiền đó không được "mua" bằng tiền call ở flop.
+Nếu B có gần một phần ba khả năng thắng, sao không call được trong cả ba trường hợp, khi mỗi trường hợp pot đều trả hơn 2 ăn 1? Chẳng hạn sách nói ở 4.3, pot nhỏ nhất, B được trả (75 + 60) ăn 60, tức 2,25 ăn 1 (về con số này xem mục Lưu ý cuối chương). **Câu trả lời: chỉ những tình huống B thắng ở lá kế tiếp mới tính cho pot odds tức thời của B.** Lý do: khi bài lật ngửa, nếu B trượt ở turn, A sẽ bet tiếp và B lại phải trả tiền cho lá river; tiền đó không được "mua" bằng tiền call ở flop.
 
 Người tổng hợp minh hoạ bằng pot 135 USD: nếu B cam kết call cả flop lẫn turn, kỳ vọng là (8/45)(165) + (37/45)(8/44)(225) − (37/45)(36/44)(90) = 29,33 + 33,64 − 60,55 = 2,42 USD, thấp hơn 4,67 USD của chiến lược call flop rồi fold turn; chênh lệch đúng bằng (37/45) × 2,73 = 2,24 USD mất do call turn.
 
@@ -540,13 +535,15 @@ Trong các ví dụ pot odds, draw không bao giờ thu thêm tiền sau khi th�
 | Không có flush | 1 − [(8/45) + (37/45)(8/44)] | −90 USD | −60,55 USD |
 | Cộng | 1 | | +32,73 USD |
 
-Cộng các kỳ vọng có trọng số, trò chơi có kỳ vọng khoảng 32,73 USD cho B (bảng của sách ghi nhầm 32,43; xem khối Lưu ý). So với kỳ vọng chỉ 4,67 USD trong cùng tình huống nếu A không bao giờ trả tiền cho flush của B.
+Cộng các kỳ vọng có trọng số, trò chơi có kỳ vọng khoảng 32,73 USD cho B (bảng của sách ghi nhầm 32,43; xem mục Lưu ý cuối chương). So với kỳ vọng chỉ 4,67 USD trong cùng tình huống nếu A không bao giờ trả tiền cho flush của B.
 
 ### 8. Cỡ pot hiệu dụng và draw kín (Effective Pot Size, trang 57–58)
 
 Chơi khai thác trong các trò chơi như no-limit hold'em dựa rất nhiều vào implied odds. Thường đúng khi tận dụng cơ hội xem flop rẻ với các bài như đôi nhỏ hoặc vừa, suited connectors (hai lá liền nhau cùng chất), hay A nhỏ cùng chất, để mong ra set (bộ ba dùng đôi trong tay) hoặc flush draw mạnh. Nhưng khi làm vậy, phải tính không chỉ số tiền thắng khi ra bài mạnh, mà cả số tiền có thể mất khi bài mạnh đó vẫn thua (chẳng hạn đối thủ ra set lớn hơn). Cũng không được giả định đối thủ sẽ trả hết stack, như một số người làm khi dùng cỡ stack làm thước đo implied odds.
 
-Trong các ví dụ trên, equity tăng thêm nhờ implied odds cho phép B call ở pot nhỏ hơn và với equity thấp hơn, vì nó tăng cỡ của cái có thể gọi là **"pot hiệu dụng"**. Phần III sẽ cho thấy "số tiền trả" (payoff amount) là phần rất quan trọng của các trò chơi giữa các phân phối tay bài gồm nhiều tổ hợp made hand và draw. Ngoài ra, các số tiền này cực kỳ quan trọng trong các trò chơi mà draw là **kín**: thông tin draw đã thành hay chưa không có cho cả hai người, chẳng hạn trong seven-card stud, nơi lá cuối được chia úp. Khi thông tin bất cân xứng như vậy, người có made hand bị bất lợi vì ít nhất đôi khi phải trả tiền cho draw khi draw thành; nếu không, draw sẽ khai thác bằng cách bluff dồn dập.
+Trong các ví dụ trên, equity tăng thêm nhờ implied odds cho phép B call ở pot nhỏ hơn và với equity thấp hơn, vì nó tăng cỡ của cái có thể gọi là **"pot hiệu dụng"**. Phần III sẽ cho thấy "số tiền trả" (payoff amount) là phần rất quan trọng của các trò chơi giữa các phân phối tay bài gồm nhiều tổ hợp made hand và draw.
+
+Ngoài ra, các số tiền này cực kỳ quan trọng trong các trò chơi mà draw là **kín**: thông tin draw đã thành hay chưa không có cho cả hai người, chẳng hạn trong seven-card stud, nơi lá cuối được chia úp. Khi thông tin bất cân xứng như vậy, người có made hand bị bất lợi vì ít nhất đôi khi phải trả tiền cho draw khi draw thành; nếu không, draw sẽ khai thác bằng cách bluff dồn dập.
 
 ### 9. Bluff, semi-bluff và value bet (Bluffing, trang 58)
 
@@ -572,7 +569,7 @@ Trò chơi này phần nào phản chiếu trò chơi trước: A có made hand,
 
 **A không bet.** A đã xong phần cược của mình trong ván này: hoặc B đã có flush hoặc chưa, và B sẽ không bao giờ call bet của A trừ khi B thắng A. Vậy A chỉ nên check rồi cố chơi chính xác nếu B bet. Nếu B check, A thắng pot. Thực ra A thắng pot rất thường xuyên ở đây, hơn hẳn 50%. Nhưng A vẫn không nên value bet vì chỉ mất kỳ vọng: kỳ vọng của A trong pot lớn vẫn còn nguyên dù A bet hay không; và bet của A, dù A rút được lá gì, không bao giờ lấy được giá trị từ B, vì ngoài flush B không có bài nào vượt đôi A đang ngửa.
 
-**B bet flush và có thể bluff.** A check. B rõ ràng nên value bet khi có flush. Sách nói còn 40 lá trong bộ bài, 8 lá bích, nên B ra flush 1/5 (20%) số lần (người tổng hợp đếm được 9 lá bích; xem khối Lưu ý). Ngoài value bet flush, B có thể muốn đôi khi bluff khi trượt: nếu A fold, B thắng pot hơn tám bet (655 / 80 ≈ 8,2 bet) với bài tệ hơn.
+**B bet flush và có thể bluff.** A check. B rõ ràng nên value bet khi có flush. Sách nói còn 40 lá trong bộ bài, 8 lá bích, nên B ra flush 1/5 (20%) số lần (người tổng hợp đếm được 9 lá bích; xem mục Lưu ý cuối chương). Ngoài value bet flush, B có thể muốn đôi khi bluff khi trượt: nếu A fold, B thắng pot hơn tám bet (655 / 80 ≈ 8,2 bet) với bài tệ hơn.
 
 Nếu B bet, A chọn call hay fold. Quyết định này thực ra bị ảnh hưởng bởi việc A có rút được lá bích ở river không (nếu có, B nhiều khả năng đang bluff hơn), nhưng để tiện, giả định A quyết định "mù" ở river. Còn hai ẩn số:
 
@@ -799,3 +796,168 @@ Chương dựng pot odds từ phương trình kỳ vọng thay vì đưa ra như
 - **Người chơi poker:** trước mỗi call với draw, viết nhanh: (outs / lá chưa biết của lá kế tiếp) so với (tiền call / pot sau khi call). Nếu thiếu, chỉ call khi tin chắc sẽ thắng thêm đủ tiền ở vòng sau, và trừ đi tiền có thể mất khi ra bài mà vẫn thua. Đừng raise để "mua odds". Trước đối thủ cả tin, bluff nhiều; trước đối thủ hay call, ngừng bluff và value bet mỏng hơn.
 - **Người làm tài chính và đầu tư:** pot odds là phép so sánh lợi nhuận kỳ vọng với chi phí, giống quyết định đầu tư có xác suất thành công thấp nhưng lợi nhuận lớn (như vốn mạo hiểm). Bài học của Ví dụ 4.3–4.6 áp dụng cho các khoản đầu tư theo giai đoạn: đánh giá từng vòng rót vốn dựa trên xác suất thành công *trước vòng kế tiếp*, có quyền dừng (giống fold turn), thay vì cam kết trước toàn bộ; giá trị của quyền dừng này là nội dung của định giá quyền chọn thực (real options). Implied odds tương ứng với "giá trị của các cơ hội tiếp theo" khi một dự án thành công, nhưng cũng phải tính kịch bản "thành công mà vẫn thua" (đối thủ mạnh hơn).
 - **Người ra quyết định nói chung:** Ví dụ 4.1 và 4.8 cho thấy khi đối phương có hành vi cố định, câu trả lời tốt nhất thường là thái cực; còn khi không biết đối phương, hãy chọn tần suất làm đối phương bàng quan — ý tưởng nền của kiểm toán ngẫu nhiên, kiểm tra an ninh và thanh tra thuế.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn đi theo các mục 1–12 của phần Nội dung chi tiết (chơi khai thác và Ví dụ 4.1, pot odds và Ví dụ 4.2, pot odds trên nhiều vòng cược ở Ví dụ 4.3–4.6, implied odds và draw kín, bluff và Ví dụ 4.8, quy trình hai bước), mỗi nhánh ghi định nghĩa, công thức kỳ vọng, ngưỡng call/bluff và con số then chốt của tác giả; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: chơi khai thác là chọn hành động EV cao nhất trước chiến lược đối thủ, với pot odds và implied odds là phép tính rút gọn cho made hand đấu draw`"]
+  n1["`Mục 1–3 — Chơi khai thác và chiến lược trả đũa tối đa (Ví dụ 4.1)`"]
+  n0 --- n1
+  n2["`Chơi khai thác: ở mỗi điểm quyết định chọn hành động EV cao nhất, dùng mọi thông tin về đối thủ`"]
+  n1 --- n2
+  n3["`Chiến lược chỉ định đủ hành động ở mọi nhánh, không viết nổi với 1.326 tay × 19.600 flop × 47 turn × 46 river`"]
+  n1 --- n3
+  n4["`Chiến lược trả đũa tối đa trước S: chiến lược có kỳ vọng cao nhất trước S`"]
+  n1 --- n4
+  n5["`Ví dụ 4.1: A có nuts 20%, bài chết 80%, pot 4 bet, A bluff tỷ lệ x trên tổng số tay`"]
+  n1 --- n5
+  n6["`Kỳ vọng call của B = 5x − 0,2, kỳ vọng fold = 0`"]
+  n5 --- n6
+  n7["`x dưới 0,04 thì B luôn fold, trên 0,04 thì B luôn call`"]
+  n5 --- n7
+  n8["`x từ 0,039 lên 0,041 làm B đổi từ fold 100% sang call 100%: chơi khai thác đổi chiến lược đột ngột`"]
+  n5 --- n8
+  n9["`B ước lượng x bằng hiểu biết về A, tell hoặc định lý Bayes`"]
+  n5 --- n9
+  n10["`Mục 4 — Pot odds: draw, made hand và Ví dụ 4.2`"]
+  n0 --- n10
+  n11["`Draw là bài có tay 5 lá đang kém hơn, cần ra một trong các outs để thắng, dù outs nhiều đến đâu`"]
+  n10 --- n11
+  n12["`Q♣J♣ trên flop T♣9♣2♦ thắng 70,9% trước A♠3♦: vừa là draw vừa là cửa trên`"]
+  n10 --- n12
+  n13["`Ở limit, made hand không bet đủ lớn để ép draw fold, ở no-limit draw có vũ khí semi-bluff`"]
+  n10 --- n13
+  n14["`Ví dụ 4.2: A♣A♦ gặp 9♥8♥, bàn K♥7♣3♠2♥, pot 400 USD, B có 9 outs trong 44 lá`"]
+  n10 --- n14
+  n15["`A check: (35/44) × 400 = 318,18 USD, A bet 60: (35/44) × 520 − 60 = 353,64 USD`"]
+  n14 --- n15
+  n16["`B call: (9/44) × 520 − 60 = 46,36 USD, dương nên B call`"]
+  n14 --- n16
+  n17["`B call khi khả năng thắng trên 3/26 ≈ 11,5%, tức pot odds 460 ăn 60 (23 ăn 3)`"]
+  n14 --- n17
+  n18["`Nguyên lý 1: trong đối đầu made hand với draw, made hand thường bet`"]
+  n10 --- n18
+  n19["`Nguyên lý 2: draw thường call nếu equity trong pot sau khi call, trừ tiền call, là dương`"]
+  n10 --- n19
+  n20["`Mục 5–6 — Pot odds trên nhiều vòng cược (Ví dụ 4.3–4.6)`"]
+  n0 --- n20
+  n21["`A♦K♦ đấu 8♣7♣ trên flop A♣K♠4♣, A bet 30 USD, B có 8 outs: 8/45 = 17,8% ở turn`"]
+  n20 --- n21
+  n22["`Pot 75 USD: cần 30/135 = 22,2% (sách ghi 28,5%), kỳ vọng call −6,00 USD nên fold`"]
+  n20 --- n22
+  n23["`Pot 195 USD: call flop +15,33 USD, call turn +8,18 USD (trừ khi ra A, K: chết bài)`"]
+  n20 --- n23
+  n24["`Pot 135 USD: call flop +4,67 USD, call turn −2,73 USD nên call flop rồi fold turn`"]
+  n20 --- n24
+  n25["`Thắng tới river 1 − (37/45)(36/44) = 32,7% vẫn không đủ để call`"]
+  n20 --- n25
+  n26["`Chỉ trường hợp B thắng ở lá kế tiếp mới tính cho pot odds tức thời`"]
+  n25 --- n26
+  n27["`Ví dụ 4.6: raise flop để tự tạo odds được −34,00 + 15,70 = −18,30 USD`"]
+  n20 --- n27
+  n28["`Raise kém hơn call flop rồi fold turn (+4,67 USD) hơn 20 USD`"]
+  n27 --- n28
+  n29["`Mục 7–8 — Implied odds, pot hiệu dụng và draw kín`"]
+  n0 --- n29
+  n30["`Bài thật không lật ngửa nên made hand thường phải call một hai bet sau khi draw thành`"]
+  n29 --- n30
+  n31["`Implied odds = odds tức thời + kỳ vọng từ các vòng sau`"]
+  n29 --- n31
+  n32["`Ví dụ 4.7: pot 135 USD, A call một bet mỗi vòng còn lại sau khi flush ra`"]
+  n29 --- n32
+  n33["`Flush ở turn 8/45, ở river (37/45)(8/44) ≈ 14,9%, mỗi lần B thắng ròng +285 USD`"]
+  n32 --- n33
+  n34["`Không flush 67,3%, B mất 90 USD, đóng góp −60,55 USD`"]
+  n32 --- n34
+  n35["`Kỳ vọng của B tăng từ 4,67 USD lên 32,73 USD`"]
+  n32 --- n35
+  n36["`Implied odds tăng pot hiệu dụng: B call được với pot nhỏ hơn và equity thấp hơn`"]
+  n29 --- n36
+  n37["`No-limit: xem flop rẻ với đôi nhỏ, suited connectors, nhưng tính cả tiền mất khi set thua set lớn hơn`"]
+  n29 --- n37
+  n38["`Không được giả định đối thủ trả hết stack`"]
+  n37 --- n38
+  n39["`Draw kín (lá cuối chia úp ở stud): made hand phải đôi khi trả tiền, nếu không draw bluff dồn dập`"]
+  n29 --- n39
+  n40["`Mục 9–10 — Bluff, value bet và Ví dụ 4.8`"]
+  n0 --- n40
+  n41["`Pure bluff: bet với bài không thể thắng nếu bị call bởi chiến lược trả đũa tối đa của đối thủ`"]
+  n40 --- n41
+  n42["`Semi-bluff: bet với bài có thể đang tốt nhất hoặc không, nhưng có thể cải thiện nhiều ở vòng sau`"]
+  n40 --- n42
+  n43["`Value bet: bet kỳ vọng dương ngay cả khi bị call, khi còn bài chia phần lớn cũng là semi-bluff`"]
+  n40 --- n43
+  n44["`Snowing: giữ bốn lá 2 trong 2-7 lowball, đứng yên rồi bluff, đối thủ không thể có hơn 86543`"]
+  n40 --- n44
+  n45["`Ví dụ 4.8: stud 40–80 USD, pot 655 USD, A đôi A, B flush draw ra 1/5 (theo sách)`"]
+  n40 --- n45
+  n46["`A không bet vì B chỉ call khi B thắng`"]
+  n45 --- n46
+  n47["`Kỳ vọng call của A = 735y − 16, dương khi B bluff trên 16/735 ≈ 2,2% tổng số tay`"]
+  n45 --- n47
+  n48["`Kỳ vọng bluff của B = 655 − 735x, dương khi A call dưới 655/735 ≈ 89,1%`"]
+  n45 --- n48
+  n49["`A hoài nghi luôn call thì B ngừng bluff, A cả tin hay fold thì B bluff mọi bài trượt`"]
+  n45 --- n49
+  n50["`B bluff 2,2%, A call 89,1%: không ai tự đổi mà lợi hơn, đó là chiến lược tối ưu`"]
+  n40 --- n50
+  n51["`Mục 11–12 — Chơi khai thác là quy trình hai bước`"]
+  n0 --- n51
+  n52["`Tính equity tại bàn thường quá khó, nhận diện và khai thác điểm yếu là cách thay thế thực tế hơn`"]
+  n51 --- n52
+  n53["`Bước 1: suy ra bài hoặc phân phối bài của đối thủ, tìm tình huống đối thủ chơi kém`"]
+  n51 --- n53
+  n54["`Bước 2: chọn nước khai thác tương ứng điểm yếu, thường dễ hơn bước 1`"]
+  n51 --- n54
+  n55["`Pot odds qua nhiều vòng phải xét chung: tập trung vào kỳ vọng của cả chiến lược, không của từng vòng`"]
+  n51 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Mọi quyết định poker quy về so kỳ vọng các hành động trước chiến lược đối thủ`"]
+  n56 --- n57
+  n58["`Trước đối thủ cố định, chiến lược khai thác tốt nhất thường là thái cực: luôn call hoặc luôn fold`"]
+  n56 --- n58
+  n59["`Điểm bàng quan giữa hai thái cực là mầm của chiến lược tối ưu ở Phần III`"]
+  n56 --- n59
+  class n0 root
+  class n1,n10,n20,n29,n40,n51,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), trang mở Phần II "Exploitive Play" (trang 49) và Chương 4 "Playing the Odds: Pot Odds and Implied Odds", trang 50–61.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I (Chương 1–3) đặt nền: Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)) định nghĩa quyết định "tốt hơn" là quyết định có kỳ vọng (EV) cao hơn và cho công thức kỳ vọng (phương trình 1.11: kỳ vọng bằng tổng xác suất nhân giá trị của từng kết cục); Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) bàn phương sai; Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) giới thiệu định lý Bayes.
+
+Chương 4 mở Phần II "Chơi khai thác" (Exploitive Play): định nghĩa trò chơi, chiến lược, chiến lược trả đũa tối đa, rồi dựng công cụ cơ bản nhất cho cuộc đối đầu giữa bài đã thành (made hand) và bài đang chờ (draw) — pot odds trên một vòng cược, trên nhiều vòng cược, và implied odds — cùng các khái niệm bluff, semi-bluff, value bet. Ví dụ stud cuối chương cho thấy điểm bàng quan giữa tần suất bluff và tần suất call, dẫn trước sang khái niệm chiến lược tối ưu của Phần III ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md), [C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)).
+
+Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)) tiếp tục bước thứ nhất của chơi khai thác: suy ra bài và chiến lược của đối thủ; Chương 7–9 ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md), [C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md), [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) mở rộng các ví dụ bài lật ngửa của chương này.
+
+## Lưu ý
+
+- **Ví dụ 4.1, câu "bluffing two thousandths of a percent more often":** x đổi từ 0,039 sang 0,041 là tăng 0,002, tức hai phần nghìn (0,2 điểm phần trăm), không phải "hai phần nghìn của một phần trăm".
+- **Ví dụ 4.1, "xác suất có điều kiện khi A bet" (nhận xét của người tổng hợp):** sách nói các xác suất dùng trong <B, call> là có điều kiện theo việc A bet, nhưng lại dùng 0,2 và x, vốn là tỷ lệ trên *tổng số tay* (tổng 0,2 + x không bằng 1). Xác suất có điều kiện đúng là 0,2 / (0,2 + x) và x / (0,2 + x); <B, call> theo đó bằng (5x − 0,2) / (0,2 + x). Hệ số chia dương nên dấu và ngưỡng x = 0,04 không đổi.
+- **"19.600 different three-card flops":** dấu chấm là lỗi in của dấu phẩy ngăn hàng nghìn (19,600 = C(50, 3)). Con số "well over five million" tổ hợp bài/bàn là cách nói rất nhẹ: 1.326 × 19.600 × 47 × 46 ≈ 5,6 × 10¹⁰ trước khi gộp các chất tương đương (người tổng hợp tính).
+- **Ví dụ 4.2, công thức "<A, check> = p(A wins)) + (pot size)":** dấu "+" phải là dấu nhân; con số 318,18 USD đúng với phép nhân (35/44) × 400.
+- **Ví dụ 4.3, ngưỡng pot odds sai:** sách nói B cần khả năng thắng lớn hơn 30/105, tức 28,5%. Ngưỡng đúng là tiền call chia cho pot cuối cùng: 30 / (75 + 30 + 30) = 22,2% (pot odds 105 ăn 30, tức 3,5 ăn 1, nên cần thắng 1 lần trong 4,5). Kết luận không đổi vì khả năng ra flush ở turn chỉ 8/45 = 17,8% (sách làm tròn xuống "17%"; 30/105 cũng là 28,6% chứ không phải 28,5%). Sách cũng ghi bài của B chỉ là "8♣"; ở Ví dụ 4.7 sách ghi đủ 8♣ 7♣.
+- **Ví dụ 4.4, xác suất trên turn không nhất quán:** sách viết A hoặc K ra ở turn với xác suất 4/45, phần còn lại 41/45, nhưng công thức lại dùng (4/41)(0) + (41/45)(8,18 USD) = 7,45 USD. Trong 45 lá chưa biết có 8 lá flush (B đã thắng), 4 lá làm B chết bài (A♠, A♥, K♥, K♣) và 33 lá còn lại. Nếu tính kỳ vọng trên turn với điều kiện B chưa ra flush: (4/37)(0) + (33/37)(8,18) = 7,30 USD; nếu tính theo tỷ lệ trên cả 45 lá: (33/45)(8,18) = 6,00 USD. Cả hai đều dương nên kết luận "B call tiếp được" không đổi.
+- **Ví dụ 4.5, câu "in 4.3 … B is getting ($75 + $60) to $60, or 2.25 to 1" (nhận xét của người tổng hợp):** tỷ lệ này không ứng với đại lượng rõ ràng nào. Pot odds tức thời trên flop ở 4.3 là 105 ăn 30 (3,5 ăn 1); nếu gộp cả hai vòng (B bỏ 30 + 60 = 90 USD để thắng 75 + 30 + 60 = 165 USD của người khác) thì là 1,83 ăn 1, *thấp hơn* 2 ăn 1, trong khi khả năng thắng 32,7% cần ít nhất (1 − 0,327) / 0,327 ≈ 2,06 ăn 1. Ý chính của sách (chỉ lá bài kế tiếp tính cho pot odds tức thời) vẫn đúng.
+- **Ví dụ 4.7, bảng có hai lỗi in:** dòng "No flush" ghi kỳ vọng có trọng số "$60.55" thiếu dấu âm (đúng là −60,55 USD) và ghi "(844)" thay cho (8/44); dòng tổng ghi "$32.43" trong khi lời văn ghi 32,73 USD. Người tổng hợp tính: 50,67 + 42,61 − 60,55 = 32,73 USD, lời văn đúng.
+- **Ví dụ 4.8, số lá flush (nhận xét của người tổng hợp):** sách nói còn 40 lá, trong đó 8 lá bích, nên B ra flush 1/5. Với các lá đang ngửa, B giữ 4 lá bích (7♠ 8♠ 9♠ K♠) và A không có lá bích nào, nên còn 13 − 4 = 9 lá bích trong 40 lá, tức 22,5%. Có lẽ tác giả ngầm coi một lá bích đã bị người khác fold; sách không nói. Với 9/40, ngưỡng bluff của B để A bàng quan là 18 / 735 ≈ 2,45% thay vì 2,2%; ngưỡng call 89,1% của A không đổi. Bản tổng hợp giữ số của sách (1/5) trong phần trình bày.
+- **Ví dụ 4.8, "A's value bet … will never extract value from B's hand, because B can't make a hand better than the open aces":** ý là ngoài flush, B không có bài nào thắng đôi A đang ngửa, nên B chỉ call khi có flush — bet của A chỉ thua thêm tiền.
+- **Lớp chữ:** "whining" là "winning"; "tiling" là "thing"; "Bush" là "flush"; "86543 b sing" là "86543 being"; "ran anticipate" là "can anticipate"; "income" là "incomplete"; "the pat" là "the pot". Ở trang 54 lớp chữ cắt mất cuối dòng ("straightfor[ward]", "some[times]"); bản tổng hợp đọc lại từ ảnh trang. Hình 4.1 không có nhãn trục tung; giá trị đọc được (−0,2 tại x = 0) suy từ công thức.
+- **Quy ước:** sách gọi người chơi là A và B trong chương này (chưa dùng X và Y); bản tổng hợp giữ nguyên. Số tiền ghi "USD"; mức cược "30–60 USD" nghĩa là cược nhỏ 30 USD (flop) và cược lớn 60 USD (turn, river). "Equity" được giữ tiếng Anh (phần pot mà một tay bài "sở hữu" theo xác suất thắng).

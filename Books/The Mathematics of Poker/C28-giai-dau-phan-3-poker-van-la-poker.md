@@ -1,20 +1,22 @@
 # Chương 28 — Poker vẫn là poker: Giải đấu, phần III (Poker's Still Poker: Tournaments, Part III)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 28 "Poker's Still Poker: Tournaments, Part III", trang 361–371.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 26 ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) xây Lý thuyết Nhân đôi (Theory of Doubling Up), E = C^N, để định giá chip theo kỹ năng ở đầu và giữa giải, và định nghĩa cỡ giải hiệu dụng (effective tournament size). Chương 27 ([C27-giai-dau-phan-2-chip-khong-phai-tien.md](C27-giai-dau-phan-2-chip-khong-phai-tien.md)) đưa ra các công thức chuyển chip thành equity giải thưởng ở cuối giải (Malmuth-Harville, Malmuth-Weitzman…) và bội số phương sai giải đấu k = n·Σv_i² − 1. Chương 28 là chương "ứng dụng" của ba chương giải đấu: nó dùng hai công cụ trên cho từng thể thức giải cụ thể (bubble, sit-and-go, supersatellite, rebuy, chơi với chồng chip ngắn, ante) và cho việc đánh giá thỏa thuận tài trợ giải đấu, nối lại với phần thỏa thuận tài trợ cash game ở Chương 25 ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)). Ý tưởng "người vào pot all-in trước có lợi" dựa trên lời giải jam-or-fold của Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)) và khái niệm cân bằng trong trò chơi không tổng hằng của Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)). Chương 29 ([C29-tro-choi-nhieu-nguoi.md](C29-tro-choi-nhieu-nguoi.md)) tiếp tục chủ đề "có hơn hai người chơi thì lý thuyết trò chơi khác đi" một cách tổng quát, với các liên minh ngầm.
-**Ý chính:** **Trong giải đấu có nhiều hạng trả thưởng, một ván đối đầu giữa hai người không còn là trò chơi tổng hằng: khi hai người all-in với nhau, cả hai cùng mất equity và những người ngồi ngoài được lợi; vì vậy người đầu tiên đẩy hết chip vào pot có lợi thế kiểu "trò chơi gà" (game of chicken), và mỗi thể thức giải đòi hỏi những điều chỉnh riêng — nhưng ở phần lớn các giải nhiều bàn, poker vẫn là poker: gom chip vẫn gần như đồng nghĩa với gom tiền.** Mục đầu cho thấy ngay ở cash game, người call sau một cú jam phải có bài chặt hơn người jam (AJo chỉ có 42,8% equity, theo sách, trước dải bài {55+, A9+, KJ+}); ở giải đấu, cái giá của cuộc đối đầu làm hiệu ứng này mạnh hơn. Ví dụ 28.1 (trò chơi gà) có ba điểm cân bằng: hai cân bằng thuần (một người lao thẳng, người kia tránh) và một cân bằng hỗn hợp; trong poker, người hành động trước "tuyên bố lao thẳng" bằng cách jam. Mục bubble: ở giải nhiều bàn, nhiều người chơi quá chặt gần vùng có thưởng nên nên raise blind của họ; nhưng ở sit-and-go thưởng 5-3-2, bước nhảy từ 0 (hạng 4) lên 2 (hạng 3) lớn tới mức người ở big blind cần khoảng 61% equity để call all-in thay vì 42% nếu chỉ tính chip (Ví dụ 28.2). Mẹo tại bàn: quy giá trị lên thêm một hạng ra chip (ví dụ 120 đô la thành 1.200 chip) và cộng vào khoản thua khi bị call và thua. Shootout và satellite một bàn không có bước nhảy vào vùng tiền, nên chỉ cần thắng bàn; match play thì người có nhiều chip hơn nên coi như hai bên có cùng số chip bằng chồng nhỏ hơn. Sit-and-go có ba tình huống bubble điển hình (một chồng lớn; bốn chồng bằng nhau; "kẻ bắt nạt và người bị bắt nạt"), trong đó người call cần khoảng 62,5% và 65,8% equity. Supersatellite (mọi suất thưởng bằng nhau) làm chip vượt ngưỡng an toàn gần như vô giá trị: người có AA vẫn nên bỏ bài trước cú all-in của chồng lớn còn lại. Giải nhiều bàn thì gần với cash game. Ở giải rebuy, người thắng đủ để tham gia nên rebuy ngay khi thua sạch đầu giải; với C = 0,54, add-on 1.500 chip giá 100 đô la đáng giá khoảng 209 đô la ở chồng 6.000, và luôn đáng mua tới tận nửa tổng chip. Khi chồng chip ngắn: nếu chồng nhỏ hơn sáu lần pot trước flop thì nên jam thay vì raise nhỏ; ưu tiên bài có equity showdown cao và bài có lá chặn (blocker). Ante tạo phần thưởng phụ (overlay) cho chồng rất ngắn ở stud và làm raise mọi bài có lời trước đối thủ quá chặt ở no-limit hold'em. Cuối cùng, một thỏa thuận tài trợ 70 giải cho người chơi thắng 1 buyin mỗi giải chỉ mang lại cho người tài trợ khoảng 30,13 buyin thay vì 35, và nếu cho phép thanh toán mỗi khi người chơi đang lời thì chỉ còn khoảng 27 buyin, vì kết quả giải đấu lệch rất mạnh.
+## Ý chính
 
-> **Lưu ý:**
-> - **"Khoảng 7% số bài" phải là khoảng 9,8% (trang 364):** dải bài {66+, A9s+, AT+, KJs+} gồm 9 đôi × 6 = 54 tổ hợp, A9s–AKs 5 × 4 = 20, ATo–AKo 4 × 12 = 48, KJs–KQs 2 × 4 = 8, tổng 130 trên 1.326 tổ hợp, tức 9,8%. Dải {77+, AJs+} ở trang 364–365 có 8 × 6 + 3 × 4 = 60 tổ hợp, tức 4,5%, khớp với "khoảng 5%" của sách.
-> - **AJs có lẽ không đạt ngưỡng 65,8% (nhận xét của người tổng hợp, tính bằng mô phỏng Monte Carlo 300.000 lần mỗi tay bài, sai số chuẩn khoảng 0,1 điểm phần trăm):** equity trước một tay bài ngẫu nhiên: 77 là 66,2%, AKs 67,0%, AQs 66,2%, AJs 65,5%, AKo 65,4%, 66 là 63,2%. Vậy với ngưỡng 65,8%, dải call đúng là {77+, AQs+} (56 tổ hợp, 4,2%), không phải {77+, AJs+}. Kết luận của sách không đổi: chỉ khoảng 4–5% số bài call được, kể cả AKo cũng bỏ. Với ngưỡng 62,5%, mô phỏng xác nhận đúng dải của sách: ATo 62,7%, A9s 62,9%, KJs 62,6% vừa vượt ngưỡng; A9o 60,7%, KQo 61,5%, KTs 61,7% thì không.
-> - **AJo trước dải {55+, A9+, KJ+} có khoảng 48%, không phải 42,8% (nhận xét của người tổng hợp, Monte Carlo 600.000 lần, có tính việc AJo chặn bớt tổ hợp của dải):** chia theo nhóm, AJo có khoảng 45% trước 55–TT (36 tổ hợp), 25% trước JJ–AA (18), 72% trước A9–AT (24), 49% trước AJ (9), 26% trước AQ–AK (24), 65% trước KJ–KQ (28); trung bình theo trọng số là 48,1%. Ý của sách (AJo vẫn yếu hơn dải của người jam dù nằm trên ngưỡng jam) vẫn đúng, nhưng mức chênh nhỏ hơn sách nói.
-> - **"Equity của chồng lớn" phải là equity của big blind (trang 364):** trong tình huống Một chồng lớn (5.500/1.500/1.500/1.500), các xác suất "khi call và thắng", "khi bỏ bài" là của người ở big blind có 1.500 chip đang cân nhắc call cú jam của chồng lớn, không phải của chồng lớn. Câu tiếp theo "he needs 2/3.2" xác nhận điều này.
-> - **Tham chiếu "Phương trình 27.4" phải là Phương trình 27.5 (trang 369):** bội số phương sai giải đấu là k = n·Σv_i² − 1, được đánh số 27.5 ở Chương 27; phương trình 27.4 là nghiệm của mô hình Malmuth-Weitzman.
-> - **Các phép tính được kiểm tra và khớp:** Ví dụ 28.2: 0,5 × 5 + 0,5 × 2,5 = 3,75; 0,21 × 5 + 0,5 × 2,5 = 2,30; 2,3/3,75 = 61,33%; 2.100/5.000 = 42%. Mẹo bubble: 25% × 65% = 16,25%, nhân 1.200 chip được 195 chip (sách làm tròn 200). Một chồng lớn: 3,2 và 2,0 buyin, 2/3,2 = 62,5%. Bốn chồng bằng nhau: 3,8 và 2,5 buyin, 2,5/3,8 = 65,79%. Rebuy: N(6.000) = 7,381, N(7.500) = 7,059, E(6.000) = 953,0 đô la, E(7.500) = 1.162,1 đô la, chênh 209 đô la; với C = 0,51 và giá 150 đô la, điểm hòa vốn là 8.325 chip, đúng như sách. Ante: 200 + 400 + 9 × 50 = 1.050. Bảng tài trợ: mọi xác suất nhị thức, kết quả, phần của người tài trợ và tổng 30,13 đều khớp (tính chính xác 30,127); 35 − 30,13 = 4,87, sách làm tròn 4,9. AA trước JJ: mô phỏng cho 81,1%, khớp "81%".
-> - **Xác suất về các hạng trong Ví dụ 28.2 và các tình huống sit-and-go là ước lượng thô của sách.** Người tổng hợp so với mô hình Malmuth-Harville của Chương 27 (thưởng 5-3-2): Ví dụ 28.2, khi call và thắng (5.000 chip trước hai chồng 2.500) equity là 3,83 buyin; khi bỏ bài (2.100 chip, các chồng 2.900/2.500/2.500) là 2,23 buyin; equity cần là 2,23/3,83 = 58,2%, thấp hơn 61,33% của sách nhưng vẫn cao xa 42%. Tình huống Một chồng lớn: 3,01 và 1,83 buyin, cần 60,9% (sách: 62,5%). Kết luận định tính không đổi.
-> - **Lỗi in và lỗi lớp chữ:** "despite the face" (fact, trang 361); "2,500 m chips" (in chips, trang 362); "playing a hard" (hand, trang 363); "then-decision" (their decision, trang 367); "log²" in thay cho log₂ ở hai dòng N(no add-on), N(add-on) (trang 367); câu "indifferent to taking the rebuy" thực ra nói về add-on (trang 367); "Tile backer's share" (The, trang 370); "seeded at the end of 70 tournaments" (settled, trang 370); "One specific recommendation ... is six that if" có chữ "six" thừa (trang 371).
-> - **Quy ước:** "buyin" là một đơn vị phí tham gia; equity giải thưởng (prize equity) tính bằng buyin hoặc đô la; "chip EV" là kỳ vọng tính bằng chip. Người chơi A và B trong Ví dụ 28.1 giữ đúng tên của sách (không phải X và Y). "Lý thuyết Nhân đôi" và "bội số phương sai giải đấu" theo cách gọi ở bản tổng hợp Chương 26–27.
+**Trong giải đấu có nhiều hạng trả thưởng, một ván đối đầu giữa hai người không còn là trò chơi tổng hằng: khi hai người all-in với nhau, cả hai cùng mất equity và những người ngồi ngoài được lợi; vì vậy người đầu tiên đẩy hết chip vào pot có lợi thế kiểu "trò chơi gà" (game of chicken), và mỗi thể thức giải đòi hỏi những điều chỉnh riêng — nhưng ở phần lớn các giải nhiều bàn, poker vẫn là poker: gom chip vẫn gần như đồng nghĩa với gom tiền.**
+
+Mục đầu cho thấy ngay ở cash game, người call sau một cú jam phải có bài chặt hơn người jam (AJo chỉ có 42,8% equity, theo sách, trước dải bài {55+, A9+, KJ+}); ở giải đấu, cái giá của cuộc đối đầu làm hiệu ứng này mạnh hơn. Ví dụ 28.1 (trò chơi gà) có ba điểm cân bằng: hai cân bằng thuần (một người lao thẳng, người kia tránh) và một cân bằng hỗn hợp; trong poker, người hành động trước "tuyên bố lao thẳng" bằng cách jam.
+
+Mục bubble: ở giải nhiều bàn, nhiều người chơi quá chặt gần vùng có thưởng nên nên raise blind của họ; nhưng ở sit-and-go thưởng 5-3-2, bước nhảy từ 0 (hạng 4) lên 2 (hạng 3) lớn tới mức người ở big blind cần khoảng 61% equity để call all-in thay vì 42% nếu chỉ tính chip (Ví dụ 28.2). Mẹo tại bàn: quy giá trị lên thêm một hạng ra chip (ví dụ 120 đô la thành 1.200 chip) và cộng vào khoản thua khi bị call và thua.
+
+Shootout và satellite một bàn không có bước nhảy vào vùng tiền, nên chỉ cần thắng bàn; match play thì người có nhiều chip hơn nên coi như hai bên có cùng số chip bằng chồng nhỏ hơn. Sit-and-go có ba tình huống bubble điển hình (một chồng lớn; bốn chồng bằng nhau; "kẻ bắt nạt và người bị bắt nạt"), trong đó người call cần khoảng 62,5% và 65,8% equity.
+
+Supersatellite (mọi suất thưởng bằng nhau) làm chip vượt ngưỡng an toàn gần như vô giá trị: người có AA vẫn nên bỏ bài trước cú all-in của chồng lớn còn lại. Giải nhiều bàn thì gần với cash game.
+
+Ở giải rebuy, người thắng đủ để tham gia nên rebuy ngay khi thua sạch đầu giải; với C = 0,54, add-on 1.500 chip giá 100 đô la đáng giá khoảng 209 đô la ở chồng 6.000, và luôn đáng mua tới tận nửa tổng chip.
+
+Khi chồng chip ngắn: nếu chồng nhỏ hơn sáu lần pot trước flop thì nên jam thay vì raise nhỏ; ưu tiên bài có equity showdown cao và bài có lá chặn (blocker). Ante tạo phần thưởng phụ (overlay) cho chồng rất ngắn ở stud và làm raise mọi bài có lời trước đối thủ quá chặt ở no-limit hold'em.
+
+Cuối cùng, một thỏa thuận tài trợ 70 giải cho người chơi thắng 1 buyin mỗi giải chỉ mang lại cho người tài trợ khoảng 30,13 buyin thay vì 35, và nếu cho phép thanh toán mỗi khi người chơi đang lời thì chỉ còn khoảng 27 buyin, vì kết quả giải đấu lệch rất mạnh.
 
 ## Sơ đồ
 
@@ -351,7 +353,9 @@
 
 #### Ván đối đầu trong giải không phải trò chơi tổng hằng
 
-Từ góc nhìn lý thuyết trò chơi, giải đấu có một tính chất quan trọng ảnh hưởng tới lối chơi, vượt ra ngoài các cân nhắc poker thông thường, kể cả giữa những người chơi ngang tài: **trong giải đấu, mỗi người chơi đều có phần lợi ích trong mọi ván bài, vì ai cũng được thêm equity (phần giá trị kỳ vọng của mình trong quỹ thưởng) khi người khác bị loại.** Vì vậy, các ván bài chơi đối đầu hai người (headsup) không còn là trò chơi tổng hằng (constant-sum) như ở các hình thức poker khác. Khi xảy ra một cuộc đối đầu all-in (đẩy hết chip), cả hai người cùng mất một phần equity. Phần mất này có thể từ không đáng kể (ở ván đầu tiên của giải) tới cực kỳ lớn (ở bubble — giai đoạn ngay trước vùng có thưởng — của một supersatellite). Một hệ quả là người đầu tiên vào pot có lợi thế, đặc biệt là người đầu tiên vào pot bằng toàn bộ chip. Vì blind (khoản cược bắt buộc) của giải đấu tăng dần, những cơ hội như vậy xảy ra khá thường xuyên trong no-limit hold'em (hold'em không giới hạn mức cược).
+Từ góc nhìn lý thuyết trò chơi, giải đấu có một tính chất quan trọng ảnh hưởng tới lối chơi, vượt ra ngoài các cân nhắc poker thông thường, kể cả giữa những người chơi ngang tài: **trong giải đấu, mỗi người chơi đều có phần lợi ích trong mọi ván bài, vì ai cũng được thêm equity (phần giá trị kỳ vọng của mình trong quỹ thưởng) khi người khác bị loại.** Vì vậy, các ván bài chơi đối đầu hai người (headsup) không còn là trò chơi tổng hằng (constant-sum) như ở các hình thức poker khác.
+
+Khi xảy ra một cuộc đối đầu all-in (đẩy hết chip), cả hai người cùng mất một phần equity. Phần mất này có thể từ không đáng kể (ở ván đầu tiên của giải) tới cực kỳ lớn (ở bubble — giai đoạn ngay trước vùng có thưởng — của một supersatellite). Một hệ quả là người đầu tiên vào pot có lợi thế, đặc biệt là người đầu tiên vào pot bằng toàn bộ chip. Vì blind (khoản cược bắt buộc) của giải đấu tăng dần, những cơ hội như vậy xảy ra khá thường xuyên trong no-limit hold'em (hold'em không giới hạn mức cược).
 
 #### Ngay ở cash game, người call phải chặt hơn người jam
 
@@ -390,13 +394,17 @@ Trò chơi này không phải tổng bằng không (zero-sum), nên không có m
 
 #### Áp dụng vào poker: hành động lần lượt
 
-Trong trò chơi con này, poker được chơi **lần lượt**. Vì vậy, khi mọi người bỏ bài (fold) tới hai người ở blind và chồng chip đang ở mức jam, người chơi A (người hành động trước) có thể đơn giản "tuyên bố lao thẳng" (jam), và phản ứng tốt nhất của B là "tránh" (fold). Dĩ nhiên trong poker, cái giá của cuộc đối đầu không lớn gấp mười lần cái giá của việc bỏ blind, và có nhiều tình huống equity của người thứ hai cao đến mức bỏ qua hẳn được khoản phạt thêm này. Nhưng ý tưởng là: trong chừng mực trò chơi gà có hiện diện, người thứ nhất nên cố thiết lập cân bằng jam-fold có lợi cho mình nếu có thể. **Điều này nghĩa là chơi hơi rộng hơn chiến lược jam-or-fold (đẩy hết hoặc bỏ bài) thông thường**, vì khoản phạt equity của cuộc đối đầu làm đối thủ khó khai thác mình hơn.
+Trong trò chơi con này, poker được chơi **lần lượt**. Vì vậy, khi mọi người bỏ bài (fold) tới hai người ở blind và chồng chip đang ở mức jam, người chơi A (người hành động trước) có thể đơn giản "tuyên bố lao thẳng" (jam), và phản ứng tốt nhất của B là "tránh" (fold). Dĩ nhiên trong poker, cái giá của cuộc đối đầu không lớn gấp mười lần cái giá của việc bỏ blind, và có nhiều tình huống equity của người thứ hai cao đến mức bỏ qua hẳn được khoản phạt thêm này.
+
+Nhưng ý tưởng là: trong chừng mực trò chơi gà có hiện diện, người thứ nhất nên cố thiết lập cân bằng jam-fold có lợi cho mình nếu có thể. **Điều này nghĩa là chơi hơi rộng hơn chiến lược jam-or-fold (đẩy hết hoặc bỏ bài) thông thường**, vì khoản phạt equity của cuộc đối đầu làm đối thủ khó khai thác mình hơn.
 
 ### 2. Chơi ở bubble (Play On the Bubble, trang 362–363)
 
 #### Khai thác người chơi quá chặt
 
-Bubble của giải đấu, nhất là các giải nhiều bàn lớn, thường là cơ hội tuyệt vời để khai thác lối chơi chặt (tight — chỉ chơi ít bài mạnh). Nhiều người gắn một giá trị tâm lý quá mức vào việc "về đích trong vùng có thưởng", khiến họ chơi cực kỳ chặt đúng lúc sắp bước vào vùng tiền, hoặc khi có một bước nhảy trong cơ cấu thưởng (ví dụ từ ba bàn xuống hai bàn, khi cả bàn thứ ba được trả cùng một mức). Tác giả khai thác hiện tượng này bằng cách raise blind của những người này thật thoải mái và dùng giai đoạn này để gom chip nhanh. Đây là một lý do khiến phân phối kết quả giải đấu của tác giả hơi "nặng đầu": có một lượng lớn bất thường các lần "bị loại ngay sát vùng có thưởng", và một lượng lớn bất thường các lần về hạng cao.
+Bubble của giải đấu, nhất là các giải nhiều bàn lớn, thường là cơ hội tuyệt vời để khai thác lối chơi chặt (tight — chỉ chơi ít bài mạnh). Nhiều người gắn một giá trị tâm lý quá mức vào việc "về đích trong vùng có thưởng", khiến họ chơi cực kỳ chặt đúng lúc sắp bước vào vùng tiền, hoặc khi có một bước nhảy trong cơ cấu thưởng (ví dụ từ ba bàn xuống hai bàn, khi cả bàn thứ ba được trả cùng một mức).
+
+Tác giả khai thác hiện tượng này bằng cách raise blind của những người này thật thoải mái và dùng giai đoạn này để gom chip nhanh. Đây là một lý do khiến phân phối kết quả giải đấu của tác giả hơi "nặng đầu": có một lượng lớn bất thường các lần "bị loại ngay sát vùng có thưởng", và một lượng lớn bất thường các lần về hạng cao.
 
 #### Khi chơi chặt là đúng
 
@@ -429,7 +437,11 @@ Theo mô hình này equity cần là 2,23/3,83 = 58,2%, thấp hơn 61,33% của
 
 #### Mẹo quy giá trị lên hạng ra chip (trang 363)
 
-Điều chỉnh cho bubble ngay tại bàn có thể khó. Một mẹo tác giả hay dùng thay cho việc tính equity là ước lượng giá trị tính bằng chip của việc lên thêm một hạng, rồi đưa giá trị đó vào phép tính equity chip. Ví dụ, giả sử đang ở bubble của một giải 500 người, phí 100 + 9 đô la (100 đô la vào quỹ, 9 đô la phí cho nhà tổ chức), có 500.000 chip trong giải (tức 1.000 chip cho mỗi 100 đô la, hay 10 chip cho 1 đô la). Hạng 50 được 120 đô la. Equity của việc lên thêm một hạng khoảng 1.200 chip. Khi jam, có thể coi khoản phạt thêm khi bị call và bị loại là 1.200 chip (120 đô la đã bỏ lỡ vì jam thay vì bỏ bài). Khoản này thường không đáng kể, vì nó đòi hỏi cùng lúc bị call và thua (chẳng hạn 25% bị call và 65% thua khi bị call, tổng hợp lại 0,25 × 0,65 = 16,25%, tức khoảng 16,25% × 1.200 = 195 chip, sách làm tròn thành 200 chip). Nhưng nếu chỉ 10 hạng có thưởng, chẳng hạn hạng 10 được 1.200 đô la còn hạng 11 không được gì, thì khoản phạt lớn hơn hẳn (người tổng hợp tính với cùng xác suất: 16,25% × 12.000 chip = 1.950 chip) và lối chơi đúng phải chặt hơn.
+Điều chỉnh cho bubble ngay tại bàn có thể khó. Một mẹo tác giả hay dùng thay cho việc tính equity là ước lượng giá trị tính bằng chip của việc lên thêm một hạng, rồi đưa giá trị đó vào phép tính equity chip.
+
+Ví dụ, giả sử đang ở bubble của một giải 500 người, phí 100 + 9 đô la (100 đô la vào quỹ, 9 đô la phí cho nhà tổ chức), có 500.000 chip trong giải (tức 1.000 chip cho mỗi 100 đô la, hay 10 chip cho 1 đô la). Hạng 50 được 120 đô la. Equity của việc lên thêm một hạng khoảng 1.200 chip. Khi jam, có thể coi khoản phạt thêm khi bị call và bị loại là 1.200 chip (120 đô la đã bỏ lỡ vì jam thay vì bỏ bài).
+
+Khoản này thường không đáng kể, vì nó đòi hỏi cùng lúc bị call và thua (chẳng hạn 25% bị call và 65% thua khi bị call, tổng hợp lại 0,25 × 0,65 = 16,25%, tức khoảng 16,25% × 1.200 = 195 chip, sách làm tròn thành 200 chip). Nhưng nếu chỉ 10 hạng có thưởng, chẳng hạn hạng 10 được 1.200 đô la còn hạng 11 không được gì, thì khoản phạt lớn hơn hẳn (người tổng hợp tính với cùng xác suất: 16,25% × 12.000 chip = 1.950 chip) và lối chơi đúng phải chặt hơn.
 
 ### 3. Shootout và satellite một bàn (Shootouts and Single-Table Satellites, trang 363)
 
@@ -463,7 +475,7 @@ Ngoài ra, có nhiều chỗ để áp dụng kỹ năng vì sự méo do cơ c�
 
 #### Tình huống 1: Một chồng lớn (One Big Stack: 5.500/1.500/1.500/1.500, blind 150-300)
 
-Chồng lớn có lợi thế rất lớn chừng nào tỷ lệ chồng chip này còn được giữ và giải vẫn còn bốn người. Ví dụ, nếu chồng lớn đơn giản jam mọi ván, những người khác sẽ gặp bài toán khó, vì họ cần bài khá mạnh mới đáng call all-in. Chẳng hạn, nếu chồng lớn jam và người ở big blind (1.500 chip) là người duy nhất có thể call, có thể xấp xỉ equity của người big blind này (sách viết nhầm "của chồng lớn", xem khối Lưu ý):
+Chồng lớn có lợi thế rất lớn chừng nào tỷ lệ chồng chip này còn được giữ và giải vẫn còn bốn người. Ví dụ, nếu chồng lớn đơn giản jam mọi ván, những người khác sẽ gặp bài toán khó, vì họ cần bài khá mạnh mới đáng call all-in. Chẳng hạn, nếu chồng lớn jam và người ở big blind (1.500 chip) là người duy nhất có thể call, có thể xấp xỉ equity của người big blind này (sách viết nhầm "của chồng lớn", xem mục Lưu ý cuối chương):
 
 - Call và thua: 0.
 - Call và thắng: (30%)(5) + (40%)(3) + (25%)(2) + (5%)(0) = 1,5 + 1,2 + 0,5 + 0 = **3,2** buyin.
@@ -499,7 +511,9 @@ Giả sử người under-the-gun jam "mù" (không cần nhìn bài). Khi đó 
 
 Equity cần còn cao hơn: 2,5/3,8 = **65,8%**, giới hạn dải call ở {77+, AJs+}. Đây chỉ khoảng 5% số bài (người tổng hợp đếm 60 tổ hợp, 4,5%). Lưu ý rằng ngay cả AKo cũng phải bỏ (AKo có 65,4% trước bài ngẫu nhiên). Theo bảng mô phỏng ở trên, AJs (65,5%) cũng nằm dưới ngưỡng, nên dải đúng là {77+, AQs+} (56 tổ hợp, 4,2%).
 
-Nếu ba người còn lại mỗi người chỉ call 5% số lần (bỏ qua khả năng hai người cùng call), người jam đầu tiên chắc chắn có lời từ việc lấy 600 chip blind khi không bị call, kể cả khi trung bình chỉ có 25% equity khi bị call. Kiểm tra của người tổng hợp: xác suất không ai call là 0,95³ = 0,857. Theo chip: 0,857 × 600 + 0,143 × (0,25 × 5.200 − 2.500) = 514 − 171 = khoảng +343 chip (giả sử người call là big blind, pot 5.200 gồm cả small blind 200). Theo equity giải thưởng (Malmuth-Harville): khi không bị call, người jam có 3.100 chip trước 2.500/2.300/2.100, equity 2,86 buyin; khi bị call, thắng 25% với khoảng 3,9 buyin; kỳ vọng 0,857 × 2,86 + 0,143 × 0,25 × 3,9 = khoảng 2,59 buyin, cao hơn 2,5 buyin lúc đầu.
+Nếu ba người còn lại mỗi người chỉ call 5% số lần (bỏ qua khả năng hai người cùng call), người jam đầu tiên chắc chắn có lời từ việc lấy 600 chip blind khi không bị call, kể cả khi trung bình chỉ có 25% equity khi bị call. Kiểm tra của người tổng hợp: xác suất không ai call là 0,95³ = 0,857. Theo chip: 0,857 × 600 + 0,143 × (0,25 × 5.200 − 2.500) = 514 − 171 = khoảng +343 chip (giả sử người call là big blind, pot 5.200 gồm cả small blind 200).
+
+Theo equity giải thưởng (Malmuth-Harville): khi không bị call, người jam có 3.100 chip trước 2.500/2.300/2.100, equity 2,86 buyin; khi bị call, thắng 25% với khoảng 3,9 buyin; kỳ vọng 0,857 × 2,86 + 0,143 × 0,25 × 3,9 = khoảng 2,59 buyin, cao hơn 2,5 buyin lúc đầu.
 
 Vậy trong loại tình huống này, ta thấy kết quả của một trò chơi gà lần lượt: người đầu tiên tuyên bố lao thẳng, và mọi người khác chỉ có thể "bắt" người đó bằng bài rất mạnh.
 
@@ -539,7 +553,9 @@ Lối chơi ở giải nhiều bàn trong phần lớn trường hợp khá gi�
 
 #### Cơ cấu
 
-Giải rebuy và add-on cho phép làm quỹ thưởng lớn hơn mức buyin ban đầu bằng cách cho người chơi mua thêm chip (với một số hạn chế) trong một khoảng thời gian. Cơ cấu thường gặp: buyin X đô la cộng phí (ví dụ 100 + 9 đô la), nhận N chip. Người chơi được "rebuy" (mua lại) khi chồng chip nhỏ hơn hoặc bằng N; vì vậy ngay đầu giải họ có thể mua N chip với giá X đô la. Họ được làm vậy trong ba mức cược đầu tiên. Sau mức thứ ba, thời gian rebuy kết thúc, người chơi được rebuy lần cuối và lấy một "add-on" (mua thêm), không có hạn chế nào ngoài việc mỗi người chỉ được một lần. Chip add-on thường rẻ hơn giá gốc. Ví dụ, nếu mỗi người bắt đầu với 1.000 chip, add-on có thể là 1.500 chip với giá 100 đô la.
+Giải rebuy và add-on cho phép làm quỹ thưởng lớn hơn mức buyin ban đầu bằng cách cho người chơi mua thêm chip (với một số hạn chế) trong một khoảng thời gian. Cơ cấu thường gặp: buyin X đô la cộng phí (ví dụ 100 + 9 đô la), nhận N chip. Người chơi được "rebuy" (mua lại) khi chồng chip nhỏ hơn hoặc bằng N; vì vậy ngay đầu giải họ có thể mua N chip với giá X đô la. Họ được làm vậy trong ba mức cược đầu tiên.
+
+Sau mức thứ ba, thời gian rebuy kết thúc, người chơi được rebuy lần cuối và lấy một "add-on" (mua thêm), không có hạn chế nào ngoài việc mỗi người chỉ được một lần. Chip add-on thường rẻ hơn giá gốc. Ví dụ, nếu mỗi người bắt đầu với 1.000 chip, add-on có thể là 1.500 chip với giá 100 đô la.
 
 Câu hỏi tự nhiên: có nên rebuy không? Tác giả xét vài trường hợp. Trong mọi trường hợp, bỏ qua rủi ro và phương sai, và giả định người chơi có đủ bankroll cho giải và mục tiêu là tối đa equity của phần tiền bỏ vào. Đặc biệt, quyết định vào giải của họ là hợp lý (họ có lợi thế đủ lớn).
 
@@ -584,23 +600,31 @@ Một đặc điểm phân biệt của giải đấu là nói chung, một số
 
 Có hai loại điều chỉnh lớn.
 
-**Điều chỉnh thứ nhất** chủ yếu ảnh hưởng tới no-limit. Ở tỷ lệ chồng chip trên blind nhỏ, tới một lúc thay vì raise một khoản nhỏ, ta đơn giản all-in. Ngưỡng này thường xuất hiện ở chồng chip mà một cú raise nhỏ hợp lý đã trói ta vào pot, vì ta sẽ được tỷ lệ ít nhất 2 ăn 1 khi call một cú re-raise all-in. **Quy tắc kinh nghiệm: nếu chồng chip của ta từ sáu lần pot trước flop (gồm cả ante và blind) trở lên, nên raise một khoản nhỏ hợp lý; dưới mức đó, nên jam all-in.** Điều này gần với khuyến nghị ở phần jam-or-fold (Chương 12), nơi ngưỡng để chơi jam-or-fold là khoảng mười blind: pot trước flop không có ante là 1,5 big blind (small blind 0,5 cộng big blind 1), nên sáu lần pot là 6 × 1,5 = 9 big blind.
+**Điều chỉnh thứ nhất** chủ yếu ảnh hưởng tới no-limit. Ở tỷ lệ chồng chip trên blind nhỏ, tới một lúc thay vì raise một khoản nhỏ, ta đơn giản all-in. Ngưỡng này thường xuất hiện ở chồng chip mà một cú raise nhỏ hợp lý đã trói ta vào pot, vì ta sẽ được tỷ lệ ít nhất 2 ăn 1 khi call một cú re-raise all-in.
+
+**Quy tắc kinh nghiệm: nếu chồng chip của ta từ sáu lần pot trước flop (gồm cả ante và blind) trở lên, nên raise một khoản nhỏ hợp lý; dưới mức đó, nên jam all-in.** Điều này gần với khuyến nghị ở phần jam-or-fold (Chương 12), nơi ngưỡng để chơi jam-or-fold là khoảng mười blind: pot trước flop không có ante là 1,5 big blind (small blind 0,5 cộng big blind 1), nên sáu lần pot là 6 × 1,5 = 9 big blind.
 
 Minh họa của người tổng hợp về lý do "trói vào pot": với chồng 9 big blind, raise lên 2,5 big blind; pot có 1,5 big blind. Nếu một đối thủ không ở blind re-raise all-in (đối thủ có từ 9 big blind trở lên), pot trước khi ta call có 1,5 (blind) + 2,5 (cú raise của ta) + 9 (cú all-in) = 13 big blind, và ta chỉ phải call thêm 9 − 2,5 = 6,5 big blind: tỷ lệ 13 ăn 6,5, tức 2 ăn 1 — mức mà gần như mọi bài đều buộc phải call (cần chưa tới 33% equity). Vậy raise nhỏ không giữ được lựa chọn bỏ bài, nên jam ngay tốt hơn.
 
-**Điều chỉnh thứ hai:** việc chọn bài khi chồng ngắn khác khi chồng lớn. Bài có equity showdown cao được ưu tiên hơn bài có tiềm năng implied odds (tỷ lệ cược ngầm — khoản thắng thêm ở các vòng sau) cao, và bài chứa "lá chặn" (blocker) thường có giá trị vì chúng làm đối thủ ít có khả năng có bài đủ mạnh để call. Hiệu ứng thứ nhất đã thấy ở phần jam-or-fold, nơi những tay như T9s là bài jam tới mức blind rất cao: khi bị call, các tay này có equity cao trước dải bài call. Hiệu ứng thứ hai làm việc raise với các tay như Ax (A cộng một lá bất kỳ) đáng làm hơn, vì cầm một lá A làm giảm một lá A khỏi các tay bài đối thủ có thể có. Ở no-limit, hiệu ứng thứ hai rất mạnh khi raise ở vị trí cuối vì có ít người phía sau có thể call.
+**Điều chỉnh thứ hai:** việc chọn bài khi chồng ngắn khác khi chồng lớn. Bài có equity showdown cao được ưu tiên hơn bài có tiềm năng implied odds (tỷ lệ cược ngầm — khoản thắng thêm ở các vòng sau) cao, và bài chứa "lá chặn" (blocker) thường có giá trị vì chúng làm đối thủ ít có khả năng có bài đủ mạnh để call.
+
+Hiệu ứng thứ nhất đã thấy ở phần jam-or-fold, nơi những tay như T9s là bài jam tới mức blind rất cao: khi bị call, các tay này có equity cao trước dải bài call. Hiệu ứng thứ hai làm việc raise với các tay như Ax (A cộng một lá bất kỳ) đáng làm hơn, vì cầm một lá A làm giảm một lá A khỏi các tay bài đối thủ có thể có. Ở no-limit, hiệu ứng thứ hai rất mạnh khi raise ở vị trí cuối vì có ít người phía sau có thể call.
 
 ### 10. Chơi khi có ante (Playing with Antes, trang 368–369)
 
 Ở stud (thể loại poker chia bài ngửa và úp, không có lá chung), và ở giai đoạn giữa và cuối của nhiều giải no-limit hold'em, có ante (khoản cược bắt buộc của mọi người). Ante ảnh hưởng mạnh tới lối chơi của chồng ngắn vì nó tạo thêm phần thưởng phụ (overlay) cho người có chồng rất ngắn.
 
-Xét một tình huống stud người chơi chỉ còn ba hoặc bốn ante. Khi người này đẩy chip vào, họ thường chỉ gặp một hoặc hai đối thủ nhưng được tỷ lệ 8 ăn 1 trên phần chip ante (tám người khác cũng bỏ ante vào pot), cộng tỷ lệ 1 ăn 1 trên phần chip còn lại. Chồng nhỏ càng "cao" (nhiều chip), overlay này càng kém rõ. Ngược lại, ví dụ ở limit hold'em, một chồng ngắn chỉ còn hai blind thường chỉ gặp người ở big blind khi quyết định đẩy chip, và chỉ có overlay của small blind giúp họ được tốt hơn tỷ lệ 1 ăn 1. **Điều này nghĩa là ở giải stud, người chơi nên sẵn lòng bỏ qua những tay bài rất tệ khi chồng rất nhỏ hơn một chút, vì khi chồng co lại, overlay tiềm năng của họ tăng lên.**
+Xét một tình huống stud người chơi chỉ còn ba hoặc bốn ante. Khi người này đẩy chip vào, họ thường chỉ gặp một hoặc hai đối thủ nhưng được tỷ lệ 8 ăn 1 trên phần chip ante (tám người khác cũng bỏ ante vào pot), cộng tỷ lệ 1 ăn 1 trên phần chip còn lại. Chồng nhỏ càng "cao" (nhiều chip), overlay này càng kém rõ.
+
+Ngược lại, ví dụ ở limit hold'em, một chồng ngắn chỉ còn hai blind thường chỉ gặp người ở big blind khi quyết định đẩy chip, và chỉ có overlay của small blind giúp họ được tốt hơn tỷ lệ 1 ăn 1. **Điều này nghĩa là ở giải stud, người chơi nên sẵn lòng bỏ qua những tay bài rất tệ khi chồng rất nhỏ hơn một chút, vì khi chồng co lại, overlay tiềm năng của họ tăng lên.**
 
 Minh họa của người tổng hợp: bàn 9 người (người này được 8 ăn 1 trên ante của mình), chồng tổng cộng 3 ante, đẩy hết vào và gặp đúng một đối thủ. Pot gồm 9 ante của mọi người cộng 2 ante còn lại của người này và 2 ante đối thủ bỏ thêm, tổng 13 ante; người này bỏ vào 3 ante, nên nếu thắng được lời 10: tỷ lệ 10 ăn 3, khoảng 3,3 ăn 1. Với chồng 10 ante: pot 9 + 9 + 9 = 27 ante, bỏ vào 10, lời 17: tỷ lệ 1,7 ăn 1. Chồng càng ngắn, tỷ lệ trả thưởng càng tốt.
 
 Điều này đôi khi cũng cho phép điều chỉnh ở giải nhiều thể loại (mixed-game): đôi khi đúng là nên bỏ qua bài biên ở các vòng thể loại có flop khi chồng nhỏ, nếu vòng stud sắp tới, để hưởng overlay này.
 
-Ở no-limit hold'em, ante tạo ra pot lớn hơn mà không tăng blind. Điều này làm raise đầu tiên hấp dẫn hơn, vì lấy được blind (và ante) bằng một cú raise nhỏ thường có lời ngay. Xét về khai thác, rất thường gặp trường hợp người chơi chơi quá chặt trong một số tình huống có ante, nhất là khi ante lớn, đến mức raise mọi ván đều có lời. Ví dụ, mức cược 200-400 với ante 50 ở bàn 9 người, và raise lên 1.000 thì dự kiến lấy được blind 50% số lần. Khi đó có thể raise với hai lá bất kỳ, vì khi mọi người bỏ bài ta thắng ngay 200 + 400 + 9 × 50 = 1.050. Người tổng hợp kiểm tra: kể cả khi mỗi lần bị call ta đều mất trọn 1.000, kỳ vọng vẫn là 0,5 × 1.050 − 0,5 × 1.000 = +25. Ngoài ra, khi có người chơi với ta, đôi khi ta có bài mạnh. Các tình huống này xảy ra thường xuyên, và xét về khai thác rất đáng để ý những người bỏ bài quá thường trước cú raise khi có ante.
+Ở no-limit hold'em, ante tạo ra pot lớn hơn mà không tăng blind. Điều này làm raise đầu tiên hấp dẫn hơn, vì lấy được blind (và ante) bằng một cú raise nhỏ thường có lời ngay. Xét về khai thác, rất thường gặp trường hợp người chơi chơi quá chặt trong một số tình huống có ante, nhất là khi ante lớn, đến mức raise mọi ván đều có lời.
+
+Ví dụ, mức cược 200-400 với ante 50 ở bàn 9 người, và raise lên 1.000 thì dự kiến lấy được blind 50% số lần. Khi đó có thể raise với hai lá bất kỳ, vì khi mọi người bỏ bài ta thắng ngay 200 + 400 + 9 × 50 = 1.050. Người tổng hợp kiểm tra: kể cả khi mỗi lần bị call ta đều mất trọn 1.000, kỳ vọng vẫn là 0,5 × 1.050 − 0,5 × 1.000 = +25. Ngoài ra, khi có người chơi với ta, đôi khi ta có bài mạnh. Các tình huống này xảy ra thường xuyên, và xét về khai thác rất đáng để ý những người bỏ bài quá thường trước cú raise khi có ante.
 
 ### 11. Thỏa thuận tài trợ giải đấu (Tournament Backing Agreements, trang 369–371)
 
@@ -724,7 +748,9 @@ Trong giải đấu có nhiều hạng thưởng, giá trị của chip không t
 
 ### Trong ngôn ngữ lý thuyết trò chơi và xác suất
 
-Ván đối đầu trong giải đấu là trò chơi hai người không tổng hằng (thực ra là một phần của trò chơi nhiều người, nơi người thứ ba là "người hưởng lợi" thụ động). Trò chơi gà có hai cân bằng Nash thuần (bất đối xứng) và một cân bằng hỗn hợp đối xứng (mỗi người lao thẳng với xác suất 1/10, thưởng −0,1). Khi trò chơi được chơi lần lượt (dạng mở rộng), quy nạp ngược chọn cân bằng có lợi cho người đi trước — một dạng lợi thế người đi trước (first-mover advantage) hay cam kết (commitment). Ánh xạ chip sang equity là một hàm lõm (giống hàm hữu dụng sợ rủi ro), nên người chơi nên từ chối một số cược có kỳ vọng chip dương. Phân tích tài trợ là phép tính kỳ vọng trên phân phối nhị thức của một khoản thưởng phi tuyến 0,5·max(X, 0), tương tự định giá quyền chọn.
+Ván đối đầu trong giải đấu là trò chơi hai người không tổng hằng (thực ra là một phần của trò chơi nhiều người, nơi người thứ ba là "người hưởng lợi" thụ động). Trò chơi gà có hai cân bằng Nash thuần (bất đối xứng) và một cân bằng hỗn hợp đối xứng (mỗi người lao thẳng với xác suất 1/10, thưởng −0,1). Khi trò chơi được chơi lần lượt (dạng mở rộng), quy nạp ngược chọn cân bằng có lợi cho người đi trước — một dạng lợi thế người đi trước (first-mover advantage) hay cam kết (commitment).
+
+Ánh xạ chip sang equity là một hàm lõm (giống hàm hữu dụng sợ rủi ro), nên người chơi nên từ chối một số cược có kỳ vọng chip dương. Phân tích tài trợ là phép tính kỳ vọng trên phân phối nhị thức của một khoản thưởng phi tuyến 0,5·max(X, 0), tương tự định giá quyền chọn.
 
 ## Thuật ngữ
 
@@ -850,7 +876,7 @@ Chương nối ba chương giải đấu thành một bộ công cụ dùng đư
 
 - **Xác suất về các hạng là ước lượng thô.** Sách dùng các con số như "21% / 29% / 50%" mà không nêu mô hình; người tổng hợp so với Malmuth-Harville thì các ngưỡng equity cần thấp hơn vài điểm phần trăm (58,2% thay vì 61,33%; 60,9% thay vì 62,5%). Kết luận định tính không đổi.
 - **Phép tính call so với tay bài ngẫu nhiên.** Ở tình huống bốn chồng bằng nhau, sách giả định người jam jam "mù", nên so với tay ngẫu nhiên là đúng. Nhưng khi người jam chọn bài, người call phải so với dải jam thật, thường cần bài chặt hơn nữa.
-- **Một số chỗ đếm và equity lệch:** 7% thay vì 9,8%; AJs nằm dưới ngưỡng 65,8%; AJo 42,8% thay vì khoảng 48% (xem khối Lưu ý).
+- **Một số chỗ đếm và equity lệch:** 7% thay vì 9,8%; AJs nằm dưới ngưỡng 65,8%; AJo 42,8% thay vì khoảng 48% (xem mục Lưu ý cuối chương).
 - **Bỏ qua nhiều người cùng call** và vị trí (ai ở blind) khi tính lợi nhuận của cú jam mù.
 - **Lý thuyết Nhân đôi** giả định C không đổi tới tận khi có nửa tổng chip; tác giả tự thừa nhận lý thuyết không còn đúng ở mức đó, nên câu "luôn mua add-on" chỉ chắc chắn cho các chồng chip thông thường.
 - **Mô hình giải ảo winner-take-all** bỏ qua cấu trúc nhiều hạng thưởng thật; tác giả tự kiểm tra bằng mô phỏng (30,13 so với 32 buyin), một cách làm đáng học.
@@ -876,5 +902,176 @@ Chương nối ba chương giải đấu thành một bộ công cụ dùng đư
 ### Vận dụng
 
 - **Cho người chơi poker:** tính equity cần để call all-in bằng equity giải thưởng (ICM), không bằng chip; ở bubble sit-and-go, ngưỡng có thể lên tới 60–66%. Hãy là người jam trước. Dùng mẹo "quy giá trị lên hạng ra chip" khi không có thời gian tính. Ở supersatellite đã chắc suất, bỏ mọi bài. Luôn lấy add-on giảm giá nếu bạn là người thắng.
-- **Cho người làm tài chính và đầu tư:** (1) Câu chuyện AA là bài học về hàm giá trị lõm: khi mục tiêu là vượt một ngưỡng (giữ hạng tín nhiệm, đạt mức vốn tối thiểu, đủ quỹ hưu trí), một cược có kỳ vọng dương vẫn có thể sai nếu nó đe dọa ngưỡng — giống quỹ hưu trí đã đủ tài trợ nên giảm rủi ro thay vì tối đa lợi suất. (2) Thỏa thuận tài trợ chia lời, không chia lỗ giống phí thưởng hiệu quả (performance fee) của quỹ đầu cơ: người quản lý có một quyền chọn mua trên kết quả; phí trả mỗi năm mà không có "high-water mark" (ngưỡng đỉnh cũ) hay cơ chế thu hồi tương tự việc "thanh toán khi đang lời" và làm nhà đầu tư thiệt khoảng 5/70 lợi nhuận trong ví dụ của chương. Điều khoản makeup trong poker chính là high-water mark. (3) Lợi thế người đi trước trong trò chơi gà xuất hiện trong cạnh tranh doanh nghiệp (cam kết đầu tư công suất trước để đối thủ rút lui) và trong đàm phán.
+- **Cho người làm tài chính và đầu tư:**
+  - (1) Câu chuyện AA là bài học về hàm giá trị lõm: khi mục tiêu là vượt một ngưỡng (giữ hạng tín nhiệm, đạt mức vốn tối thiểu, đủ quỹ hưu trí), một cược có kỳ vọng dương vẫn có thể sai nếu nó đe dọa ngưỡng — giống quỹ hưu trí đã đủ tài trợ nên giảm rủi ro thay vì tối đa lợi suất.
+  - (2) Thỏa thuận tài trợ chia lời, không chia lỗ giống phí thưởng hiệu quả (performance fee) của quỹ đầu cơ: người quản lý có một quyền chọn mua trên kết quả; phí trả mỗi năm mà không có "high-water mark" (ngưỡng đỉnh cũ) hay cơ chế thu hồi tương tự việc "thanh toán khi đang lời" và làm nhà đầu tư thiệt khoảng 5/70 lợi nhuận trong ví dụ của chương. Điều khoản makeup trong poker chính là high-water mark.
+  - (3) Lợi thế người đi trước trong trò chơi gà xuất hiện trong cạnh tranh doanh nghiệp (cam kết đầu tư công suất trước để đối thủ rút lui) và trong đàm phán.
 - **Cho người ra quyết định nói chung:** khi có bên thứ ba hưởng lợi từ xung đột giữa hai bên, cả hai bên nên tránh đối đầu nhiều hơn so với khi chỉ có hai bên — đây là lý do các đối thủ cạnh tranh đôi khi tránh "chiến tranh giá".
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 28 trên một trang: năm nhánh lớn đi theo các mục 1–11 trong phần Nội dung chi tiết (ván đối đầu không tổng hằng và trò chơi gà; bubble và các thể thức một bàn; supersatellite và giải nhiều bàn; rebuy, chồng chip ngắn và ante; thỏa thuận tài trợ giải đấu), mỗi nhánh ghi định nghĩa, công thức, ngưỡng equity và con số then chốt của sách; nhánh cuối là thông điệp xuyên suốt theo Mục 12.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 28: ở giải nhiều hạng thưởng, all-in đối đầu làm cả hai mất equity cho người ngồi ngoài, nhưng ở giải nhiều bàn poker vẫn là poker`"]
+  n1["`Mục 1 — Ván đối đầu trong giải không còn là trò chơi tổng hằng`"]
+  n0 --- n1
+  n2["`Ai cũng được thêm equity khi người khác bị loại, nên khi hai người all-in cả hai cùng mất equity`"]
+  n1 --- n2
+  n3["`Phần mất từ không đáng kể ở ván đầu giải tới cực lớn ở bubble của supersatellite`"]
+  n1 --- n3
+  n4["`Ngay ở cash game người call phải chặt hơn người jam: AJo có 42,8% (theo sách) trước {55+, A9+, KJ+}`"]
+  n1 --- n4
+  n5["`Người tổng hợp mô phỏng được khoảng 48,1%: AJo vẫn yếu hơn dải của người jam`"]
+  n4 --- n5
+  n6["`Trò chơi gà: cả hai lao thẳng (−10, −10), một người tránh (1, −1), cả hai tránh (0, 0)`"]
+  n1 --- n6
+  n7["`Ba cân bằng: hai cân bằng thuần (một người lao thẳng, người kia tránh) và một cân bằng hỗn hợp`"]
+  n6 --- n7
+  n8["`Cân bằng hỗn hợp: mỗi người lao thẳng với xác suất 1/10, mỗi người được −0,1`"]
+  n6 --- n8
+  n9["`Poker hành động lần lượt: người đi trước jam là tuyên bố lao thẳng, phản ứng tốt nhất của người sau là fold`"]
+  n1 --- n9
+  n10["`Hàm ý: người đi trước nên jam hơi rộng hơn chiến lược jam-or-fold thông thường`"]
+  n9 --- n10
+  n11["`Mục 2–5 — Bubble và các thể thức không có hay có bước nhảy thưởng`"]
+  n0 --- n11
+  n12["`Giải nhiều bàn: nhiều người chơi quá chặt sát vùng có thưởng, nên raise blind của họ để gom chip`"]
+  n11 --- n12
+  n13["`Sit-and-go thưởng 5-3-2: bước nhảy từ 0 (hạng 4) lên 2 buyin (hạng 3) làm chơi chặt khi call all-in là đúng`"]
+  n11 --- n13
+  n14["`Ví dụ 28.2: 4 người mỗi người 2.500 chip, blind 200-400#59; call và thắng 3,75 buyin, bỏ bài 2,3 buyin`"]
+  n11 --- n14
+  n15["`Big blind cần 2,3/3,75 = 61,33% equity, so với 42% nếu chỉ tính chip`"]
+  n14 --- n15
+  n16["`Theo mô hình Malmuth-Harville chỉ cần 58,2%, vẫn cao xa 42%`"]
+  n14 --- n16
+  n17["`Mẹo tại bàn: quy giá trị lên một hạng ra chip (120 đô la thành 1.200 chip), cộng vào khoản thua khi bị call và thua`"]
+  n11 --- n17
+  n18["`25% bị call × 65% thua × 1.200 ≈ 200 chip#59; nếu hạng 10 được 1.200 đô la thì khoản phạt lớn hơn hẳn`"]
+  n17 --- n18
+  n19["`Shootout, satellite một bàn: không có bước nhảy vào vùng tiền nên chỉ cần thắng bàn#59; chia tiền theo tỷ lệ chip`"]
+  n11 --- n19
+  n20["`Match play: trận có hai chồng khác nhau tương đương trận mà cả hai có số chip bằng chồng nhỏ hơn`"]
+  n11 --- n20
+  n21["`Sit-and-go một chồng lớn 5.500 và ba chồng 1.500: big blind call thắng 3,2, bỏ bài 2 buyin, cần 62,5%`"]
+  n11 --- n21
+  n22["`Dải call {66+, A9s+, AT+, KJs+}: sách nói khoảng 7%, người tổng hợp đếm 9,8%`"]
+  n21 --- n22
+  n23["`Bốn chồng 2.500 bằng nhau: call thắng 3,8, bỏ bài 2,5, cần 65,8%, chỉ khoảng 5% số bài, AKo cũng bỏ`"]
+  n11 --- n23
+  n24["`Người jam mù vẫn có lời dù chỉ 25% equity khi bị call: khoảng +343 chip theo tính của người tổng hợp`"]
+  n23 --- n24
+  n25["`Kẻ bắt nạt 6.000 jam liên tục vào chồng 2.500#59; chồng này khó call khi còn hai chồng 750`"]
+  n11 --- n25
+  n26["`Mục 6–7 — Supersatellite và giải nhiều bàn`"]
+  n0 --- n26
+  n27["`Supersatellite chia quỹ thành các suất bằng nhau: trả 11 suất thì chip vượt khoảng 1/4 tổng chip gần như vô giá trị`"]
+  n26 --- n27
+  n28["`Chồng lớn đã chắc suất thường nên bỏ mọi ván bài`"]
+  n27 --- n28
+  n29["`Còn 10 người, 8 suất: chồng lớn cầm AA call cú all-in, gặp JJ và thua#59; call vẫn là sai`"]
+  n26 --- n29
+  n30["`Người cầm AA cược equity của một suất, không cược chip: 81% thắng pot vẫn không đủ`"]
+  n29 --- n30
+  n31["`Minh họa giả định: bỏ bài có suất 99%, call chỉ khoảng 81%`"]
+  n29 --- n31
+  n32["`Giải nhiều bàn: cơ cấu thưởng tăng đều, không có bước nhảy lớn, nên chơi gần như cash game`"]
+  n26 --- n32
+  n33["`Gom equity chip gắn trực tiếp với gom equity tiền, trừ những tình huống sát biên nhất`"]
+  n32 --- n33
+  n34["`Gom chip chủ động không nên nhường chỗ cho cố sống sót thụ động chỉ vì chip không mua lại được`"]
+  n32 --- n34
+  n35["`Mục 8–10 — Rebuy, chồng chip ngắn và ante`"]
+  n0 --- n35
+  n36["`Thua sạch ở ván đầu: rebuy như mua vào một giải khác không phí, đã đáng trả phí thì nên rebuy`"]
+  n35 --- n36
+  n37["`Lý thuyết Nhân đôi: E = C^N với N = log₂(tổng chip / chồng chip)`"]
+  n35 --- n37
+  n38["`300 người, C = 0,54, quỹ 90.000 đô la, 1.000.000 chip: E(6.000) = 953, E(7.500) = 1.162 đô la`"]
+  n37 --- n38
+  n39["`Add-on 1.500 chip giá 100 đô la đáng giá 209 đô la: nên mua, và vẫn đáng mua tới tận nửa tổng chip`"]
+  n37 --- n39
+  n40["`Với C = 0,51, mua 1.500 chip giá gốc 150 đô la chỉ có lời khi chồng dưới khoảng 8.325 chip`"]
+  n37 --- n40
+  n41["`Chồng ≥ 6 lần pot trước flop (gồm blind và ante) thì raise nhỏ#59; dưới mức đó thì jam`"]
+  n35 --- n41
+  n42["`Raise nhỏ đã trói vào pot vì sẽ được ít nhất 2 ăn 1 khi call cú re-raise all-in`"]
+  n41 --- n42
+  n43["`Gần ngưỡng 10 blind của jam-or-fold: 6 × 1,5 = 9 big blind`"]
+  n41 --- n43
+  n44["`Chồng ngắn ưu tiên bài có equity showdown cao (như T9s) và bài có lá chặn (như Ax)`"]
+  n41 --- n44
+  n45["`Stud: chồng 3–4 ante được 8 ăn 1 trên phần ante, tạo overlay#59; chồng càng ngắn tỷ lệ trả càng tốt`"]
+  n35 --- n45
+  n46["`Chồng 3 ante thắng được 10 ăn 3, chồng 10 ante chỉ 1,7 ăn 1`"]
+  n45 --- n46
+  n47["`No-limit có ante: blind 200-400, ante 50, 9 người, pot 1.050#59; raise lên 1.000 thành công 50% thì raise mọi bài vẫn có lời`"]
+  n35 --- n47
+  n48["`Mục 11 — Thỏa thuận tài trợ giải đấu`"]
+  n0 --- n48
+  n49["`Thỏa thuận mở với bankroll cố định, lời bị rút ra: xác suất mất hết bankroll là 100%, nhưng chưa chắc lỗ`"]
+  n48 --- n49
+  n50["`70 giải khoảng 400 người, người chơi thắng 1 buyin mỗi giải#59; người tài trợ chịu hết lỗ, lời chia đôi`"]
+  n48 --- n50
+  n51["`Thay mỗi giải bằng giải winner-take-all ảo k = n·Σv#95;i² − 1 ≈ 72 người#59; xác suất thắng p = 1/36`"]
+  n50 --- n51
+  n52["`Số lần thắng N theo nhị thức(70#59; 1/36), kết quả 72N − 70 buyin#59; 13,92% số chuỗi lỗ 70 buyin`"]
+  n50 --- n52
+  n53["`Người tài trợ nhận 30,13 buyin thay vì 35, mất khoảng 4,9 buyin`"]
+  n50 --- n53
+  n54["`Mô phỏng 10.000 chuỗi: thanh toán cuối kỳ khoảng 32 buyin, thanh toán mỗi khi đang lời khoảng 27`"]
+  n48 --- n54
+  n55["`Như một quyền chọn: người chơi nhận 0,5·max(kết quả, 0)#59; kết quả càng phân tán, phần người chơi càng lớn`"]
+  n48 --- n55
+  n56["`Thỏa thuận càng ngắn, thanh toán càng thường xuyên thì kỳ vọng của người tài trợ càng giảm`"]
+  n48 --- n56
+  n57["`Thông điệp xuyên suốt (Mục 12)`"]
+  n0 --- n57
+  n58["`Quyết định đúng trong giải tối đa equity giải thưởng, không phải chip EV`"]
+  n57 --- n58
+  n59["`Ánh xạ chip sang equity là hàm lõm, phi tuyến nhất khi chồng chip gần các ngưỡng`"]
+  n57 --- n59
+  n60["`Người đầu tiên all-in thường có lợi hơn nhiều người thứ hai#59; người call ở bubble phải rất chặt`"]
+  n57 --- n60
+  n61["`Mỗi thể thức đòi hỏi điều chỉnh riêng, nhưng ở phần lớn giải nhiều bàn gom chip vẫn là gom tiền`"]
+  n57 --- n61
+  class n0 root
+  class n1,n11,n26,n35,n48,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 28 "Poker's Still Poker: Tournaments, Part III", trang 361–371.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 26 ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) xây Lý thuyết Nhân đôi (Theory of Doubling Up), E = C^N, để định giá chip theo kỹ năng ở đầu và giữa giải, và định nghĩa cỡ giải hiệu dụng (effective tournament size). Chương 27 ([C27-giai-dau-phan-2-chip-khong-phai-tien.md](C27-giai-dau-phan-2-chip-khong-phai-tien.md)) đưa ra các công thức chuyển chip thành equity giải thưởng ở cuối giải (Malmuth-Harville, Malmuth-Weitzman…) và bội số phương sai giải đấu k = n·Σv_i² − 1.
+
+Chương 28 là chương "ứng dụng" của ba chương giải đấu: nó dùng hai công cụ trên cho từng thể thức giải cụ thể (bubble, sit-and-go, supersatellite, rebuy, chơi với chồng chip ngắn, ante) và cho việc đánh giá thỏa thuận tài trợ giải đấu, nối lại với phần thỏa thuận tài trợ cash game ở Chương 25 ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)).
+
+Ý tưởng "người vào pot all-in trước có lợi" dựa trên lời giải jam-or-fold của Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)) và khái niệm cân bằng trong trò chơi không tổng hằng của Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)). Chương 29 ([C29-tro-choi-nhieu-nguoi.md](C29-tro-choi-nhieu-nguoi.md)) tiếp tục chủ đề "có hơn hai người chơi thì lý thuyết trò chơi khác đi" một cách tổng quát, với các liên minh ngầm.
+
+## Lưu ý
+
+- **"Khoảng 7% số bài" phải là khoảng 9,8% (trang 364):** dải bài {66+, A9s+, AT+, KJs+} gồm 9 đôi × 6 = 54 tổ hợp, A9s–AKs 5 × 4 = 20, ATo–AKo 4 × 12 = 48, KJs–KQs 2 × 4 = 8, tổng 130 trên 1.326 tổ hợp, tức 9,8%. Dải {77+, AJs+} ở trang 364–365 có 8 × 6 + 3 × 4 = 60 tổ hợp, tức 4,5%, khớp với "khoảng 5%" của sách.
+- **AJs có lẽ không đạt ngưỡng 65,8% (nhận xét của người tổng hợp, tính bằng mô phỏng Monte Carlo 300.000 lần mỗi tay bài, sai số chuẩn khoảng 0,1 điểm phần trăm):** equity trước một tay bài ngẫu nhiên: 77 là 66,2%, AKs 67,0%, AQs 66,2%, AJs 65,5%, AKo 65,4%, 66 là 63,2%. Vậy với ngưỡng 65,8%, dải call đúng là {77+, AQs+} (56 tổ hợp, 4,2%), không phải {77+, AJs+}. Kết luận của sách không đổi: chỉ khoảng 4–5% số bài call được, kể cả AKo cũng bỏ. Với ngưỡng 62,5%, mô phỏng xác nhận đúng dải của sách: ATo 62,7%, A9s 62,9%, KJs 62,6% vừa vượt ngưỡng; A9o 60,7%, KQo 61,5%, KTs 61,7% thì không.
+- **AJo trước dải {55+, A9+, KJ+} có khoảng 48%, không phải 42,8% (nhận xét của người tổng hợp, Monte Carlo 600.000 lần, có tính việc AJo chặn bớt tổ hợp của dải):** chia theo nhóm, AJo có khoảng 45% trước 55–TT (36 tổ hợp), 25% trước JJ–AA (18), 72% trước A9–AT (24), 49% trước AJ (9), 26% trước AQ–AK (24), 65% trước KJ–KQ (28); trung bình theo trọng số là 48,1%. Ý của sách (AJo vẫn yếu hơn dải của người jam dù nằm trên ngưỡng jam) vẫn đúng, nhưng mức chênh nhỏ hơn sách nói.
+- **"Equity của chồng lớn" phải là equity của big blind (trang 364):** trong tình huống Một chồng lớn (5.500/1.500/1.500/1.500), các xác suất "khi call và thắng", "khi bỏ bài" là của người ở big blind có 1.500 chip đang cân nhắc call cú jam của chồng lớn, không phải của chồng lớn. Câu tiếp theo "he needs 2/3.2" xác nhận điều này.
+- **Tham chiếu "Phương trình 27.4" phải là Phương trình 27.5 (trang 369):** bội số phương sai giải đấu là k = n·Σv_i² − 1, được đánh số 27.5 ở Chương 27; phương trình 27.4 là nghiệm của mô hình Malmuth-Weitzman.
+- **Các phép tính được kiểm tra và khớp:** Ví dụ 28.2: 0,5 × 5 + 0,5 × 2,5 = 3,75; 0,21 × 5 + 0,5 × 2,5 = 2,30; 2,3/3,75 = 61,33%; 2.100/5.000 = 42%. Mẹo bubble: 25% × 65% = 16,25%, nhân 1.200 chip được 195 chip (sách làm tròn 200). Một chồng lớn: 3,2 và 2,0 buyin, 2/3,2 = 62,5%. Bốn chồng bằng nhau: 3,8 và 2,5 buyin, 2,5/3,8 = 65,79%.
+
+  Rebuy: N(6.000) = 7,381, N(7.500) = 7,059, E(6.000) = 953,0 đô la, E(7.500) = 1.162,1 đô la, chênh 209 đô la; với C = 0,51 và giá 150 đô la, điểm hòa vốn là 8.325 chip, đúng như sách. Ante: 200 + 400 + 9 × 50 = 1.050. Bảng tài trợ: mọi xác suất nhị thức, kết quả, phần của người tài trợ và tổng 30,13 đều khớp (tính chính xác 30,127); 35 − 30,13 = 4,87, sách làm tròn 4,9. AA trước JJ: mô phỏng cho 81,1%, khớp "81%".
+- **Xác suất về các hạng trong Ví dụ 28.2 và các tình huống sit-and-go là ước lượng thô của sách.** Người tổng hợp so với mô hình Malmuth-Harville của Chương 27 (thưởng 5-3-2): Ví dụ 28.2, khi call và thắng (5.000 chip trước hai chồng 2.500) equity là 3,83 buyin; khi bỏ bài (2.100 chip, các chồng 2.900/2.500/2.500) là 2,23 buyin; equity cần là 2,23/3,83 = 58,2%, thấp hơn 61,33% của sách nhưng vẫn cao xa 42%. Tình huống Một chồng lớn: 3,01 và 1,83 buyin, cần 60,9% (sách: 62,5%). Kết luận định tính không đổi.
+- **Lỗi in và lỗi lớp chữ:** "despite the face" (fact, trang 361); "2,500 m chips" (in chips, trang 362); "playing a hard" (hand, trang 363); "then-decision" (their decision, trang 367); "log²" in thay cho log₂ ở hai dòng N(no add-on), N(add-on) (trang 367); câu "indifferent to taking the rebuy" thực ra nói về add-on (trang 367); "Tile backer's share" (The, trang 370); "seeded at the end of 70 tournaments" (settled, trang 370); "One specific recommendation ... is six that if" có chữ "six" thừa (trang 371).
+- **Quy ước:** "buyin" là một đơn vị phí tham gia; equity giải thưởng (prize equity) tính bằng buyin hoặc đô la; "chip EV" là kỳ vọng tính bằng chip. Người chơi A và B trong Ví dụ 28.1 giữ đúng tên của sách (không phải X và Y). "Lý thuyết Nhân đôi" và "bội số phương sai giải đấu" theo cách gọi ở bản tổng hợp Chương 26–27.

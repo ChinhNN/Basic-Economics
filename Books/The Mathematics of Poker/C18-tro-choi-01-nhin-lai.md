@@ -1,25 +1,24 @@
 # Chương 18 — Bài học và giá trị: nhìn lại trò chơi [0,1] (Lessons and Values: The [0,1] Game Redux)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 18 "Lessons and Values: The [0,1] Game Redux", trang 224–242.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Phần III (Chơi tối ưu) đã giải mười hai trò chơi [0,1] khác nhau, mỗi trò chơi thêm hoặc bớt một yếu tố của poker thật: trò chơi số 1 và số 2 nửa vòng cược ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)), trò chơi số 3 no-limit nửa vòng ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md), nơi hằng số r = √2 − 1 được đặt tên "tỷ lệ vàng của poker"), các trò chơi số 4–8 trọn vòng không được bỏ bài ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md)) và các trò chơi số 9–12 trọn vòng với pot hữu hạn, có bỏ bài và bluff ([C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md)). Các chương đó tập trung vào **lời giải** (chiến lược tối ưu). Chương 18 chuyển sang **giá trị** của mỗi trò chơi — người chơi ở vị trí sau (Y) được bao nhiêu khi cả hai chơi tối ưu — rồi so các giá trị đó với nhau để rút ra bài học: lựa chọn chiến lược không bao giờ có giá trị âm, tần suất raise khoảng 41% (giá trị r), chiến lược "dẻo" và chiến lược "giòn", và tư duy chia bài thành vùng để chơi cân bằng. Chương khép lại loạt trò chơi [0,1] bằng trò chơi high-low hai chiều [0,1] × [0,1]. Nguyên lý "lựa chọn chiến lược có giá trị không âm" được phát biểu lần đầu ở [C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md) và dùng lại ở [C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md), [C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md). Sau chương này, sách chuyển từ các trò chơi một vòng cược sang trò chơi nhiều vòng cược: tĩnh ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md)) rồi động ([C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)), và cuối Phần III là các nghiên cứu tình huống ([C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)).
-**Ý chính:** **So sánh giá trị của các trò chơi [0,1] cho thấy mỗi yếu tố của poker đáng bao nhiêu: lợi thế vị trí là thật và lớn, mỗi lựa chọn chiến lược thêm cho một người chơi không bao giờ làm người đó thiệt, nhưng nhiều lựa chọn (như check-raise hay raise không giới hạn) đáng ít hơn ta tưởng.** Giá trị của trò chơi là kỳ vọng của một người chơi khi cả hai chơi chiến lược tối ưu; sách quy ước tính theo Y (người hành động sau) và theo kiểu ex-showdown (chỉ tính phần thắng thua do cược, không tính phần pot mà người có bài tốt hơn vốn sẽ thắng khi lật bài). Có hai cách tính. Cách vét cạn liệt kê mọi cặp vùng bài và cộng kỳ vọng có trọng số; với trò chơi số 1 (nửa vòng, không bỏ bài) cách này cho ngay 1/4. Cách thông minh hơn là giữ cố định chiến lược tối ưu của Y và cho X chơi một chiến lược đáp trả tốt nhất (best response) bất kỳ: X không thể làm tốt hơn giá trị trò chơi, và ở các vùng X bàng quan giữa hai hành động, ta được chọn hành động dễ tính nhất. Kết quả (tính theo Y): trò chơi số 4 (một cược, trọn vòng) bằng 0; số 5 (hai cược, không check-raise) bằng 1/8 — Y đặt trung bình đúng một cược vào pot mỗi ván và lời 12,5% trên số tiền đó, hoàn toàn nhờ vị trí; số 7 (thêm check-raise) bằng 1/9, nên check-raise chỉ đáng 1/72 cược cho X; số 6 (raise không giới hạn, không check-raise) sách ghi ≈ 0,1143 nhưng thực ra bằng r/(2(1 + 2r)) ≈ 0,1133 (sách thế nhầm ngưỡng của trò chơi số 5); số 8 (raise không giới hạn có check-raise) bằng r/4 ≈ 0,1036. Với pot hữu hạn, trò chơi số 2 có giá trị G = (1 − α)y₁/2 với α = 1/(P + 1), trò chơi số 9 có G = α(1 − α)²/(2(1 + α)), và trò chơi số 10 có một công thức theo y₁, y₂, α, α₂; trò chơi số 11 dùng cùng công thức với ngưỡng khác. Khi pot tiến ra vô hạn (α → 0), mỗi trò chơi pot hữu hạn tiến về trò chơi không bỏ bài tương ứng. Ba bài học được rút ra: (1) **lựa chọn chiến lược có giá trị không âm** — mỗi lần một bên có thêm quyền bỏ bài, cược, raise, reraise hay check-raise, giá trị của bên đó không giảm; (2) **giá trị r ≈ 41%**: ở river, khi đối thủ không thể bỏ bài, hãy raise với khoảng 41% số bài mà đối thủ sẽ cược (khoảng 35% nếu đối thủ có thể bỏ bài), minh hoạ bằng một ván hold'em với bàn J♥ 9♣ 8♠ 3♦ 2♣ và 1.081 tổ hợp bài; (3) **chiến lược dẻo (flexible) và chiến lược giòn (brittle)**: X thường có thể lệch quanh ngưỡng mà ít mất giá trị, còn Y thì mất ngay, nên trong poker thật cần chia bài thành vùng hành động rõ ràng, ít dùng chiến lược hỗn hợp, và với mỗi vùng value bet luôn hỏi vùng bluff tương ứng ở đâu và có đúng tỷ lệ không. Ví dụ 18.1 (trò chơi [0,1] × [0,1], high-low không bỏ bài, hai cược, không check-raise) cho chiến lược hình "quả bóng bầu dục": X cược khi tổng hai số nhỏ hơn 1, Y raise bên trong một phần tư đường tròn tâm (1, 1) và cược bên trong một phần tư đường tròn tâm (0, 0), nên Y cược π/4 ≈ 78,5% số bài khi X check.
+## Ý chính
 
-> **Lưu ý:**
-> - **Giá trị trò chơi số 6 bị tính sai (lỗi đáng kể).** Sách viết ⟨Y⟩ = (1 − y₁)(y₁ − x₁) + rx₁²/2 (công thức đúng) rồi thế (1/4)(1/4) + r(1/8) = 1/16 + r/8 ≈ 0,11428. Các số 1/4, 1/4 và x₁² = 1/4 là ngưỡng của trò chơi số 5 (x₁ = 1/2, y₁ = 3/4), không phải của trò chơi số 6. Với trò chơi số 6, x₁ = 1/(1 + 2r) ≈ 0,5469 và y₁ = (1 + r)/(1 + 2r) ≈ 0,7735, nên y₁ − x₁ = 1 − y₁ = r/(1 + 2r) ≈ 0,2265 và x₁² ≈ 0,2991. Giá trị đúng: ⟨Y⟩ = r²/(1 + 2r)² + r/(2(1 + 2r)²) = r/(2(1 + 2r)) ≈ 0,05132 + 0,06195 ≈ **0,1133**. Người tổng hợp kiểm tra bằng tích phân số trên lưới 1.500 × 1.500 với chiến lược tối ưu của cả hai bên (raise đến 60 lần): kết quả 0,11327. Hệ quả: câu "check-raise đưa equity của Y từ khoảng 0,114 xuống khoảng 0,104" phải đọc là từ khoảng 0,113 xuống khoảng 0,104. Thứ tự các giá trị không đổi: 1/8 = 0,125 > 0,1133 (số 6) > 1/9 ≈ 0,1111 (số 7) > 0,1036 (số 8).
-> - **Ngưỡng x₁ của trò chơi số 5 in sai.** Trang 226 ghi lời giải "x₁ = 1/4, y₁ = 3/4, y₂ = 1/4"; lời giải ở Chương 16 là x₁ = 1/2 (X cược nửa số bài), y₁ = 3/4, y₂ = 1/4. Chính trang 228 cũng ngầm dùng x₁ = 1/2 khi tính "khi X cược (một nửa số lần)…". Bảng giá trị của trang 226–227 không bị ảnh hưởng vì nó dùng chiến lược đáp trả tốt nhất của X chứ không dùng x₁.
-> - **Số hiệu ví dụ bị nhầm:** trò chơi số 4 được gọi là "Example 15.1" (đúng là Ví dụ 16.1; Ví dụ 15.1 là trò chơi AKQ số 4); trò chơi số 5 lần đầu được gọi là "Example 15.2" (đúng là 16.2, sách tự sửa ở trang 228); trò chơi số 8 (raise không giới hạn có check-raise) được ghi "see Example 16.4" (đúng là Ví dụ 16.5; 16.4 là trò chơi số 7).
-> - **Phương trình tìm g thiếu hệ số.** Dòng đầu "g = y₂(x₁ − y₂) − gy₂²" phải là g·x₁² = y₂(x₁ − y₂) − g·y₂², vì g là equity bình quân trên mỗi đơn vị xác suất trong vùng có diện tích x₁²; bước "gr² + g = r − r²" của sách chỉ đúng khi đã chia hai vế cho x₁², tức là vế trái phải có x₁². Dòng thứ hai "g = rx₁(x₁ − rx₃)" in nhầm x₃ thay cho x₁. Kết quả g = r/2 vẫn đúng.
-> - **"Y phải ở trên y₂, khoảng 22% số lần":** "trên" ở đây nghĩa là mạnh hơn (số nhỏ hơn). y₂ = r/(1 + 2r) ≈ 0,2265, tức khoảng 23% (sách làm tròn xuống 22%). X đặt cược thứ ba khi X < x₃ ≈ 0,0938; "xác suất kép" 0,2265 × 0,0938 ≈ 0,021, khoảng 2% như sách.
-> - **Ký hiệu α² và α₂ bị lẫn.** Trong khung lời giải trò chơi số 9 (trang 235), "y₀ = (1 + a₂)/(1 + a)" và "(a − a₂)" có chữ 2 in dưới dòng, nhưng phải là bình phương: y₀ = (1 + α²)/(1 + α), (α − α²). Ngay sau đó, trong trò chơi số 10, "a₂" lại thật sự là α₂ = 1/(P + 3), một đại lượng khác. Bản tổng hợp viết α² cho bình phương và α₂ cho 1/(P + 3). Sách cũng dùng chữ "a" thay cho α ở trang 235–236.
-> - **Lỗi in khác ở phần trò chơi số 10:** "For G₂, the case where X is on [y₁, y₂]" phải là [y₂, y₁]; dòng đầu của G₃ viết "⟨X on [0, y₂]⟩ − (y₁* − y₂)…" phải là dấu "=" thay cho dấu "−" đầu tiên; dòng thứ hai "G₃ = y₂ − y₂# − (y₂# − y₁)" phải là (y₂# − y₁*). Người tổng hợp kiểm tra công thức cuối của ⟨Y⟩ bằng tích phân số với chiến lược tối ưu đầy đủ của trò chơi số 10: P = 1 cho 0,04470 (công thức 0,04472); P = 4 cho 0,08707 (công thức 0,08702); P = 1.000 cho 0,1243 (công thức 0,1247, tiến về 1/8). Công thức đúng.
-> - **Ký hiệu chỉ số dưới khác:** "xₙ = rⁿ⁻¹x₁ (for odd x > 1)" phải là "với n lẻ, n > 1". Lớp chữ của PDF còn làm hỏng "Y raises ¼ of the time" thành "Vi of the time", "checking" thành "diecking", "are" thành "axe", "For" thành "Fox", "little" thành "litde"; người tổng hợp đọc lại từ ảnh trang.
-> - **Bảng tay bài hold'em (trang 238) có ba chỗ sai (người tổng hợp tự đếm lại):** (1) bộ ba (set) JJ, 99, 88, 33, 22 chỉ có 5 × C(3, 2) = 15 tổ hợp, không phải 30, vì mỗi lá đã có một lá trên bàn; (2) dòng "A9–Q9, T9, 97–94, 96 tổ hợp" bị in hai lần — dòng thứ hai phải là đôi thứ ba "A8–Q8, T8, 87–84" (cũng 8 × 12 = 96 tổ hợp); (3) bảng bỏ sót các đôi lớn hơn bàn AA, KK, QQ (18 tổ hợp, mạnh hơn đôi J) và đôi TT (6 tổ hợp, nằm giữa đôi J và đôi 9). Dòng "JT, J7, J4" nghĩa là JT, J7, J6, J5, J4 (5 × 12 = 60 tổ hợp). Đếm lại, số tổ hợp cộng dồn là 16, 32, 47, 65, 137, 155 (thêm AA–QQ), 191, 251, 257 (thêm TT), 353, 449. Kết luận về ngưỡng cược gần như không đổi (xem mục 11).
-> - **Hình 18.7 minh hoạ trường hợp y₁, không phải y₂.** Lời văn dẫn Hình 18.7 khi bàn về đường y₂, nhưng hình vẽ đường cong tâm (0, 0) và lấy điểm (0,6; 0,8) nằm trên đường tròn x² + y² = 1: hình chữ nhật "Scoop" [0,6; 1] × [0,8; 1] có diện tích 0,4 × 0,2 = 0,08 và tam giác "Lose" với ba đỉnh (0,2; 0,8), (0,6; 0,8), (0,6; 0,4) có diện tích 0,4 × 0,4/2 = 0,08 — đúng phép so sánh của ngưỡng y₁.
-> - **Thứ tự ba đường cong trong Ví dụ 18.1 bị viết ngược.** Sách ghi "(0, 0) < y₁ < x₁ < y₂ < (1, 1)" với quy ước "dưới" là gần (0, 0) hơn. Nhưng y₂ (ngưỡng raise, bài mạnh nhất) là một phần tư đường tròn tâm (1, 1), nằm giữa (0, 0) và đường chéo; y₁ là một phần tư đường tròn tâm (0, 0), nằm giữa đường chéo và (1, 1). Thứ tự đúng là (0, 0) < y₂ < x₁ < y₁ < (1, 1), giống trò chơi số 5 một chiều (y₂ = 1/4 < x₁ = 1/2 < y₁ = 3/4). Một dòng khai triển cũng có lỗi dấu: "2xy = 1 − y − x − y + xy + y² − x − x² + xy" phải là "+ x²"; dòng tiếp theo của sách lại đúng.
-> - **"Semi-bluff" được định nghĩa khác Chương 4.** Trang 240 nói đây là "loại cược ta chưa bàn tới" và định nghĩa là cược với kỳ vọng thường thắng nửa pot khi bị call. Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) đã định nghĩa semi-bluff là cược với bài có thể chưa tốt nhất nhưng có cơ hội cải thiện (ví dụ draw thùng). Hai nghĩa có chung ý "cược với bài không chắc thắng trọn", nhưng không trùng nhau (nhận xét của người tổng hợp).
-> - **Số đọc từ Hình 18.6 là ước lượng.** Hình không ghi số; người tổng hợp tính các giá trị bằng công thức và đối chiếu với các đường trong hình.
-> - **Quy ước:** mọi giá trị trong chương là equity của Y (người hành động thứ hai), tính bằng số cược, theo kiểu ex-showdown. α = 1/(P + 1) với P là pot tính bằng số cược; α₂ = 1/(P + 3); r = √2 − 1 ≈ 0,4142. Trong mọi trò chơi [0,1], số nhỏ là bài mạnh.
+**So sánh giá trị của các trò chơi [0,1] cho thấy mỗi yếu tố của poker đáng bao nhiêu: lợi thế vị trí là thật và lớn, mỗi lựa chọn chiến lược thêm cho một người chơi không bao giờ làm người đó thiệt, nhưng nhiều lựa chọn (như check-raise hay raise không giới hạn) đáng ít hơn ta tưởng.**
+
+Giá trị của trò chơi là kỳ vọng của một người chơi khi cả hai chơi chiến lược tối ưu; sách quy ước tính theo Y (người hành động sau) và theo kiểu ex-showdown (chỉ tính phần thắng thua do cược, không tính phần pot mà người có bài tốt hơn vốn sẽ thắng khi lật bài).
+
+Có hai cách tính. Cách vét cạn liệt kê mọi cặp vùng bài và cộng kỳ vọng có trọng số; với trò chơi số 1 (nửa vòng, không bỏ bài) cách này cho ngay 1/4. Cách thông minh hơn là giữ cố định chiến lược tối ưu của Y và cho X chơi một chiến lược đáp trả tốt nhất (best response) bất kỳ: X không thể làm tốt hơn giá trị trò chơi, và ở các vùng X bàng quan giữa hai hành động, ta được chọn hành động dễ tính nhất.
+
+Kết quả (tính theo Y): trò chơi số 4 (một cược, trọn vòng) bằng 0; số 5 (hai cược, không check-raise) bằng 1/8 — Y đặt trung bình đúng một cược vào pot mỗi ván và lời 12,5% trên số tiền đó, hoàn toàn nhờ vị trí; số 7 (thêm check-raise) bằng 1/9, nên check-raise chỉ đáng 1/72 cược cho X; số 6 (raise không giới hạn, không check-raise) sách ghi ≈ 0,1143 nhưng thực ra bằng r/(2(1 + 2r)) ≈ 0,1133 (sách thế nhầm ngưỡng của trò chơi số 5); số 8 (raise không giới hạn có check-raise) bằng r/4 ≈ 0,1036.
+
+Với pot hữu hạn, trò chơi số 2 có giá trị G = (1 − α)y₁/2 với α = 1/(P + 1), trò chơi số 9 có G = α(1 − α)²/(2(1 + α)), và trò chơi số 10 có một công thức theo y₁, y₂, α, α₂; trò chơi số 11 dùng cùng công thức với ngưỡng khác. Khi pot tiến ra vô hạn (α → 0), mỗi trò chơi pot hữu hạn tiến về trò chơi không bỏ bài tương ứng.
+
+Ba bài học được rút ra:
+
+- **Lựa chọn chiến lược có giá trị không âm** — mỗi lần một bên có thêm quyền bỏ bài, cược, raise, reraise hay check-raise, giá trị của bên đó không giảm.
+- **Giá trị r ≈ 41%**: ở river, khi đối thủ không thể bỏ bài, hãy raise với khoảng 41% số bài mà đối thủ sẽ cược (khoảng 35% nếu đối thủ có thể bỏ bài), minh hoạ bằng một ván hold'em với bàn J♥ 9♣ 8♠ 3♦ 2♣ và 1.081 tổ hợp bài.
+- **Chiến lược dẻo (flexible) và chiến lược giòn (brittle)**: X thường có thể lệch quanh ngưỡng mà ít mất giá trị, còn Y thì mất ngay, nên trong poker thật cần chia bài thành vùng hành động rõ ràng, ít dùng chiến lược hỗn hợp, và với mỗi vùng value bet luôn hỏi vùng bluff tương ứng ở đâu và có đúng tỷ lệ không.
+
+Ví dụ 18.1 (trò chơi [0,1] × [0,1], high-low không bỏ bài, hai cược, không check-raise) cho chiến lược hình "quả bóng bầu dục": X cược khi tổng hai số nhỏ hơn 1, Y raise bên trong một phần tư đường tròn tâm (1, 1) và cược bên trong một phần tư đường tròn tâm (0, 0), nên Y cược π/4 ≈ 78,5% số bài khi X check.
 
 ## Sơ đồ
 
@@ -384,7 +383,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Một trò chơi [0,1] đáng bao nhiêu cho người hành động sau, và tính bằng cách nào?** Giá trị là equity của Y khi cả hai chơi tối ưu, tính kiểu ex-showdown. Có thể vét cạn mọi cặp vùng bài (trò chơi số 1: 1/4), hoặc giữ chiến lược tối ưu của Y cố định và cho X chơi một chiến lược đáp trả tốt nhất, chọn hành động dễ tính nhất ở những vùng X bàng quan. Các giá trị: số 4 bằng 0, số 5 bằng 1/8 (lợi thế 12,5% trên một cược trung bình, chỉ do vị trí), số 7 bằng 1/9, số 6 bằng r/(2(1 + 2r)) ≈ 0,1133 (sách ghi nhầm 0,1143), số 8 bằng r/4 ≈ 0,1036; với pot hữu hạn, số 2 bằng (1 − α)y₁/2, số 9 bằng α(1 − α)²/(2(1 + α)), số 10 có công thức theo y₁, y₂, α, α₂.
+1. **Một trò chơi [0,1] đáng bao nhiêu cho người hành động sau, và tính bằng cách nào?** Giá trị là equity của Y khi cả hai chơi tối ưu, tính kiểu ex-showdown. Có thể vét cạn mọi cặp vùng bài (trò chơi số 1: 1/4), hoặc giữ chiến lược tối ưu của Y cố định và cho X chơi một chiến lược đáp trả tốt nhất, chọn hành động dễ tính nhất ở những vùng X bàng quan.
+
+   Các giá trị: số 4 bằng 0, số 5 bằng 1/8 (lợi thế 12,5% trên một cược trung bình, chỉ do vị trí), số 7 bằng 1/9, số 6 bằng r/(2(1 + 2r)) ≈ 0,1133 (sách ghi nhầm 0,1143), số 8 bằng r/4 ≈ 0,1036; với pot hữu hạn, số 2 bằng (1 − α)y₁/2, số 9 bằng α(1 − α)²/(2(1 + α)), số 10 có công thức theo y₁, y₂, α, α₂.
 2. **So sánh các giá trị đó dạy gì?** Mỗi lựa chọn chiến lược thêm cho một bên không làm bên đó thiệt (quyền bỏ bài, cược, raise, reraise, check-raise đều có giá trị không âm). Nhưng độ lớn rất khác nhau: quyền cược của X giảm giá trị cho Y một nửa (1/4 xuống 1/8), còn check-raise chỉ đáng 1/72 cược và raise không giới hạn chỉ đáng khoảng 0,012 cược. Trò chơi pot hữu hạn tiến về trò chơi không bỏ bài khi pot tiến ra vô hạn.
 3. **Bài học nào dùng được trong poker thật?** Raise ở river với khoảng 41% số bài đối thủ sẽ cược khi đối thủ không thể bỏ bài (khoảng 35% nếu có thể); chia bài thành các vùng hành động rõ ràng vì chiến lược thường "giòn"; ít dùng chiến lược hỗn hợp; với mỗi vùng value bet luôn có vùng bluff đúng tỷ lệ; trong high-low không bỏ bài ở vòng cuối, người ở vị trí sau nên cược rất rộng (π/4 ≈ 78,5% trong mô hình).
 
@@ -441,9 +442,11 @@ Tác giả nhấn mạnh: điều này **không** có nghĩa là X có thể ch�
 
 **Trò chơi số 4** (Ví dụ 16.1: trọn vòng, không ai được bỏ bài, chỉ một cược) giống một bài tập về tính suy biến hơn là một trò chơi đúng nghĩa: lời giải là X cược mọi bài và Y call mọi bài. Cả hai luôn đặt đúng một cược, nên giá trị ex-showdown bằng 0.
 
-**Trò chơi số 5** (Ví dụ 16.2: không bỏ bài, cho phép một lần raise, không check-raise). Lời giải ở Chương 16 là x₁ = 1/2 (X cược với [0, 1/2]), y₁ = 3/4 (khi X check, Y cược với [0, 3/4]) và y₂ = 1/4 (khi X cược, Y raise với [0, 1/4] và call với phần còn lại). Sách in nhầm x₁ = 1/4 (xem Lưu ý).
+**Trò chơi số 5** (Ví dụ 16.2: không bỏ bài, cho phép một lần raise, không check-raise). Lời giải ở Chương 16 là x₁ = 1/2 (X cược với [0, 1/2]), y₁ = 3/4 (khi X check, Y cược với [0, 3/4]) và y₂ = 1/4 (khi X cược, Y raise với [0, 1/4] và call với phần còn lại). Sách in nhầm x₁ = 1/4 (xem mục Lưu ý cuối chương).
 
-Chìa khoá của chiến lược đáp trả tốt nhất: trước chiến lược tối ưu của Y, X có thể check hoặc cược với bất kỳ bài nào giữa 1/4 và 3/4 mà được cùng giá trị. So với check, nếu X cược thì X lời thêm một cược từ những bài của Y trên [3/4, 1] (Y phải call, còn nếu X check thì Y sẽ check theo), nhưng mất thêm một cược cho bài của Y trên [0, 1/4] (Y raise). Hai vùng đều dài 1/4, nên cược và check cho cùng equity; vì vậy có thể cho X check với mọi bài trên [1/4, 3/4]. Khi đó, Y cược với [0, 3/4] và X call: Y luôn thắng khi Y trên [0, 1/4], hai bên ngang nhau khi Y trên [1/4, 3/4], và không có cược khi Y trên [3/4, 1]. Equity bình quân của Y là +1/4 khi X ở vùng này.
+Chìa khoá của chiến lược đáp trả tốt nhất: trước chiến lược tối ưu của Y, X có thể check hoặc cược với bất kỳ bài nào giữa 1/4 và 3/4 mà được cùng giá trị. So với check, nếu X cược thì X lời thêm một cược từ những bài của Y trên [3/4, 1] (Y phải call, còn nếu X check thì Y sẽ check theo), nhưng mất thêm một cược cho bài của Y trên [0, 1/4] (Y raise).
+
+Hai vùng đều dài 1/4, nên cược và check cho cùng equity; vì vậy có thể cho X check với mọi bài trên [1/4, 3/4]. Khi đó, Y cược với [0, 3/4] và X call: Y luôn thắng khi Y trên [0, 1/4], hai bên ngang nhau khi Y trên [1/4, 3/4], và không có cược khi Y trên [3/4, 1]. Equity bình quân của Y là +1/4 khi X ở vùng này.
 
 **Bảng: giá trị của trò chơi [0,1] số 5 tính theo Y (X cược [0, 1/4], check-call [1/4, 1])**
 
@@ -533,7 +536,7 @@ Hình 18.5 phóng to vùng này (trục từ 0 tới khoảng 0,55, chia ở kho
 
 Vì sao ô cuối là −g? Sau một lần raise nữa, trò chơi con giống hệt trò chơi trong vùng *, chỉ có vai trò bị đảo: cả hai người đều có bài trên một đoạn (lần này là [0, y₂]), và người vừa raise sau cùng (Y) có equity −g. Lý do sâu hơn là tính tự đồng dạng: các ngưỡng tiếp theo x₃ = ry₂, y₄ = rx₃… cách nhau đúng tỷ lệ r như y₂ = rx₁; còn những cược mà cả hai đã đặt chung thì bình quân bằng 0 vì hai bài phân bố như nhau trên cùng một đoạn.
 
-Cộng các tích (người tổng hợp sửa vế trái thành g·x₁², xem Lưu ý):
+Cộng các tích (người tổng hợp sửa vế trái thành g·x₁², xem mục Lưu ý cuối chương):
 
 ```text
 g·x₁² = 2y₂(x₁ − y₂) − y₂(x₁ − y₂) − g·y₂²
@@ -597,7 +600,7 @@ x₁ = y₁, x₃ = y₃, … (X cược mọi bài dưới y₁, không check-r
 Với y₁² = 1/2: ⟨Y⟩ = r/4 ≈ 0,10355
 ```
 
-Một lần nữa, việc thêm check-raise chỉ giúp người thứ nhất một ít, đưa equity của Y từ khoảng 0,113 (sách: 0,114, xem Lưu ý) xuống khoảng 0,104. Ngược lại, việc cho X quyền cược ngay đã giảm equity của Y từ 1/4 xuống 1/8.
+Một lần nữa, việc thêm check-raise chỉ giúp người thứ nhất một ít, đưa equity của Y từ khoảng 0,113 (sách: 0,114, xem mục Lưu ý cuối chương) xuống khoảng 0,104. Ngược lại, việc cho X quyền cược ngay đã giảm equity của Y từ 1/4 xuống 1/8.
 
 ### 7. Trò chơi số 2: nửa vòng, pot hữu hạn (trang 233–234)
 
@@ -772,7 +775,9 @@ Tác giả dừng việc dẫn giá trị ở đây: giá trị và quá trình 
 | Số 10 (hai cược, pot hữu hạn) | đường chấm, giảm dần | 0,125 khi α = 0; 0,103 khi α = 0,1; 0,087 khi α = 0,2; 0,045 khi α = 0,5 |
 | Số 11 (hai cược có check-raise, pot hữu hạn) | đường chấm gạch, giảm dần | khoảng 0,111 khi α = 0, về 0 khi α = 1 (sách không cho số) |
 
-Hình cho thấy một số trò chơi thực ra là trường hợp riêng của trò chơi khác. Chẳng hạn trò chơi số 1 là trường hợp riêng của trò chơi số 2 tổng quát hơn: để được trò chơi số 1, chỉ cần cho pot lớn tuỳ ý, tức là α tiến về 0. Quan hệ này đúng giữa mọi trò chơi pot hữu hạn và trò chơi không bỏ bài tương ứng: tìm giá trị trò chơi pot hữu hạn rồi lấy giới hạn khi pot tiến ra vô hạn thì được giá trị trò chơi không bỏ bài. Ngoài ra còn quan hệ khác: một số trò chơi có được bằng cách thêm lựa chọn chiến lược vào trò chơi khác. Ví dụ, trò chơi số 7 chính là trò chơi số 5 cộng thêm quyền check-raise cho X. So sánh equity của các trò chơi, ta thấy được kiểm chứng một nguyên lý đã nêu (ở Chương 10):
+Hình cho thấy một số trò chơi thực ra là trường hợp riêng của trò chơi khác. Chẳng hạn trò chơi số 1 là trường hợp riêng của trò chơi số 2 tổng quát hơn: để được trò chơi số 1, chỉ cần cho pot lớn tuỳ ý, tức là α tiến về 0. Quan hệ này đúng giữa mọi trò chơi pot hữu hạn và trò chơi không bỏ bài tương ứng: tìm giá trị trò chơi pot hữu hạn rồi lấy giới hạn khi pot tiến ra vô hạn thì được giá trị trò chơi không bỏ bài.
+
+Ngoài ra còn quan hệ khác: một số trò chơi có được bằng cách thêm lựa chọn chiến lược vào trò chơi khác. Ví dụ, trò chơi số 7 chính là trò chơi số 5 cộng thêm quyền check-raise cho X. So sánh equity của các trò chơi, ta thấy được kiểm chứng một nguyên lý đã nêu (ở Chương 10):
 
 > **Lựa chọn chiến lược có giá trị không âm.**
 
@@ -864,7 +869,7 @@ Chương kết thúc với trò chơi [0,1] cuối cùng của sách, cho một 
 
 **Semi-bluff.** Một tỷ lệ cao các cược trong trò chơi này là một loại cược sách gọi là **semi-bluff**: người chơi cược với kỳ vọng thường được nửa pot khi bị call. Loại cược này rất phổ biến trong trò chơi high-low nhưng cũng có trong hold'em. Ví dụ: ở river trên bàn có hai đôi, người cầm A-high thường cược với kỳ vọng thường chia nửa pot khi bị một A-high khác call. Trong trò chơi high-low, những cược mà người chơi có bài khá mạnh một chiều và bài trung bình chiều kia chiếm phần đáng kể trong mọi cược.
 
-**Tham số hoá.** Có thể nhìn trò chơi như các cặp toạ độ (x, y) trên mặt phẳng. Thay vì một ngưỡng duy nhất, chiến lược của mỗi người là một đường biên bao quanh vùng cho một hành động. Ban đầu tham số hoá bằng ba đường cong, gọi là x₁, y₁ và y₂ theo tương tự với trò chơi số 5 (Ví dụ 16.2): x₁ chia vùng X cược và X check; y₁ chia vùng Y cược và Y check sau khi X check; y₂ chia vùng Y raise và Y call khi X cược. "Dưới" một đường cong là vùng gần (0, 0) (bài mạnh), "trên" là vùng gần (1, 1). Thứ tự đúng của ba đường là (0, 0) < y₂ < x₁ < y₁ < (1, 1) (sách in ngược, xem Lưu ý).
+**Tham số hoá.** Có thể nhìn trò chơi như các cặp toạ độ (x, y) trên mặt phẳng. Thay vì một ngưỡng duy nhất, chiến lược của mỗi người là một đường biên bao quanh vùng cho một hành động. Ban đầu tham số hoá bằng ba đường cong, gọi là x₁, y₁ và y₂ theo tương tự với trò chơi số 5 (Ví dụ 16.2): x₁ chia vùng X cược và X check; y₁ chia vùng Y cược và Y check sau khi X check; y₂ chia vùng Y raise và Y call khi X cược. "Dưới" một đường cong là vùng gần (0, 0) (bài mạnh), "trên" là vùng gần (1, 1). Thứ tự đúng của ba đường là (0, 0) < y₂ < x₁ < y₁ < (1, 1) (sách in ngược, xem mục Lưu ý cuối chương).
 
 Mỗi đường biên có một phương trình bàng quan, nhưng lập chúng phức tạp hơn trước. Tác giả bắt đầu bằng cách giả định chiến lược của X, suy ra chiến lược của Y, rồi thử cải thiện equity của X bằng cách thay đổi chiến lược của X để chứng minh chiến lược giả định là tối ưu.
 
@@ -960,7 +965,9 @@ Giá trị của trò chơi khi cả hai chơi tối ưu là thước đo để 
 
 ### Trong ngôn ngữ lý thuyết trò chơi
 
-Chương dùng định lý minimax cho trò chơi tổng bằng không hai người: giá trị v thoả max_σX min_σY = min_σY max_σX; khi σY* tối ưu, mọi đáp trả tốt nhất của X trước σY* đều đạt đúng v, nên có thể chọn đáp trả thuần tuý đơn giản nhất. Nguyên lý "lựa chọn chiến lược có giá trị không âm" là hệ quả của việc mở rộng tập chiến lược: nếu S_X ⊆ S'_X thì max trên S'_X không nhỏ hơn max trên S_X, nên giá trị cho X không giảm. Chiến lược "dẻo" tương ứng với tập đáp trả tốt nhất lớn (nhiều chiến lược thuần cho cùng kỳ vọng trước σY*); "giòn" tương ứng với đáp trả tốt nhất duy nhất, nơi kỳ vọng giảm bậc một khi lệch ngưỡng. Trò chơi raise không giới hạn có cấu trúc tự đồng dạng (ngưỡng là cấp số nhân công bội r), cho phép tính tổng vô hạn bằng một phương trình điểm bất động.
+Chương dùng định lý minimax cho trò chơi tổng bằng không hai người: giá trị v thoả max_σX min_σY = min_σY max_σX; khi σY* tối ưu, mọi đáp trả tốt nhất của X trước σY* đều đạt đúng v, nên có thể chọn đáp trả thuần tuý đơn giản nhất. Nguyên lý "lựa chọn chiến lược có giá trị không âm" là hệ quả của việc mở rộng tập chiến lược: nếu S_X ⊆ S'_X thì max trên S'_X không nhỏ hơn max trên S_X, nên giá trị cho X không giảm.
+
+Chiến lược "dẻo" tương ứng với tập đáp trả tốt nhất lớn (nhiều chiến lược thuần cho cùng kỳ vọng trước σY*); "giòn" tương ứng với đáp trả tốt nhất duy nhất, nơi kỳ vọng giảm bậc một khi lệch ngưỡng. Trò chơi raise không giới hạn có cấu trúc tự đồng dạng (ngưỡng là cấp số nhân công bội r), cho phép tính tổng vô hạn bằng một phương trình điểm bất động.
 
 ## Thuật ngữ
 
@@ -1071,7 +1078,9 @@ Chương dùng định lý minimax cho trò chơi tổng bằng không hai ngư�
 
 ### Sức mạnh của chương
 
-Chương này biến một loạt lời giải rời rạc thành một bức tranh so sánh. Thay vì chỉ biết "trò chơi số 7 có x₁ = 5/9", người đọc biết check-raise đáng 1/72 cược, quyền cược của người đi trước đáng 1/8 cược, và vị trí đáng 12,5% trên tiền đặt. Phương pháp giữ cố định một bên và cho bên kia đáp trả tốt nhất là kỹ thuật chuẩn của lý thuyết trò chơi, được trình bày cụ thể và dễ dùng: nó biến trò chơi số 9 thành trò chơi số 2, trò chơi số 8 thành một ma trận 2 × 2. Lập luận tự đồng dạng cho trò chơi raise không giới hạn (g = r/2) là một mẹo đẹp. Ba bài học cuối (giá trị không âm, 41%, dẻo/giòn và cân bằng) là phần dễ mang ra bàn chơi nhất của cả Phần III.
+Chương này biến một loạt lời giải rời rạc thành một bức tranh so sánh. Thay vì chỉ biết "trò chơi số 7 có x₁ = 5/9", người đọc biết check-raise đáng 1/72 cược, quyền cược của người đi trước đáng 1/8 cược, và vị trí đáng 12,5% trên tiền đặt.
+
+Phương pháp giữ cố định một bên và cho bên kia đáp trả tốt nhất là kỹ thuật chuẩn của lý thuyết trò chơi, được trình bày cụ thể và dễ dùng: nó biến trò chơi số 9 thành trò chơi số 2, trò chơi số 8 thành một ma trận 2 × 2. Lập luận tự đồng dạng cho trò chơi raise không giới hạn (g = r/2) là một mẹo đẹp. Ba bài học cuối (giá trị không âm, 41%, dẻo/giòn và cân bằng) là phần dễ mang ra bàn chơi nhất của cả Phần III.
 
 Người tổng hợp nhận xét rằng phép thử "ván hold'em một vòng cược" còn chặt hơn tác giả nói: khi người thứ nhất chỉ được cược hoặc lật bài, tỷ lệ cược tối ưu của người thứ nhất đúng bằng r (nghiệm của f(2 + r) = 1), nên dãy r, r², r³… là chính xác trong mô hình đều, không chỉ "gần đúng".
 
@@ -1080,7 +1089,9 @@ Người tổng hợp nhận xét rằng phép thử "ván hold'em một vòng c
 - **Lỗi tính giá trị trò chơi số 6** (0,1143 thay vì 0,1133) cho thấy chương được viết vội; may là không đổi kết luận định tính. Cùng với các lỗi số hiệu ví dụ, ký hiệu α²/α₂ và bảng tay bài hold'em (bộ ba 30 thay vì 15, dòng in lặp, thiếu AA–QQ và TT), người đọc nên tự kiểm lại mọi con số.
 - **Trò chơi [0,1] không có hiệu ứng loại bài và chỉ có một vòng cược.** Trong hold'em thật, phân phối bài ở river bị các vòng trước "uốn" rất mạnh; tác giả thừa nhận 41% chỉ là điểm xuất phát.
 - **Bảng xếp hạng bài hold'em giả định mọi tổ hợp đều có thể có**, trong khi thực tế dải bài của đối thủ ở river đã bị lọc mạnh; và quy tắc "chỉ raise với r của dải cược" bỏ qua việc trong poker thật không bao giờ ngừng raise với nuts (tác giả có nhắc).
-- **Khái niệm dẻo/giòn chỉ được minh hoạ bằng lời**, không có phép tính cho thấy Y mất bao nhiêu khi lệch ngưỡng. Người tổng hợp tính cho trò chơi số 5: nếu khi X check, Y chỉ cược với [0, 3/4 − d] thay vì [0, 3/4], thì với mỗi bài b của Y trong đoạn bị bỏ, cược đáng (1 − b) − (b − 1/2) = 2(3/4 − b) cược so với check; cộng trên đoạn dài d được tổn thất d² (d = 0,1 mất 0,01 cược mỗi ván, d = 0,25 mất 0,0625 — một nửa giá trị trò chơi). Ngược lại, X có thể dời ngưỡng cược tới bất kỳ đâu trong [1/4, 3/4] mà không mất gì. Như vậy "giòn" không có nghĩa là tổn thất lớn ngay với lệch rất nhỏ (tổn thất tăng theo bình phương độ lệch), mà là mọi độ lệch đều tốn, trong khi chiến lược "dẻo" có cả một khoảng lệch miễn phí.
+- **Khái niệm dẻo/giòn chỉ được minh hoạ bằng lời**, không có phép tính cho thấy Y mất bao nhiêu khi lệch ngưỡng. Người tổng hợp tính cho trò chơi số 5: nếu khi X check, Y chỉ cược với [0, 3/4 − d] thay vì [0, 3/4], thì với mỗi bài b của Y trong đoạn bị bỏ, cược đáng (1 − b) − (b − 1/2) = 2(3/4 − b) cược so với check; cộng trên đoạn dài d được tổn thất d² (d = 0,1 mất 0,01 cược mỗi ván, d = 0,25 mất 0,0625 — một nửa giá trị trò chơi).
+
+  Ngược lại, X có thể dời ngưỡng cược tới bất kỳ đâu trong [1/4, 3/4] mà không mất gì. Như vậy "giòn" không có nghĩa là tổn thất lớn ngay với lệch rất nhỏ (tổn thất tăng theo bình phương độ lệch), mà là mọi độ lệch đều tốn, trong khi chiến lược "dẻo" có cả một khoảng lệch miễn phí.
 - **Ví dụ 18.1** giả định cực mạnh (không bỏ bài, không qualifier, hai chiều độc lập); "chứng minh" giả định x₁ trên đường chéo chỉ dựa vào trực giác đối xứng, không lập phương trình diện tích A = B.
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp, không tra cứu)
@@ -1106,4 +1117,181 @@ Người tổng hợp nhận xét rằng phép thử "ván hold'em một vòng c
 ### Vận dụng
 
 - **Người chơi poker:** dùng 41% làm điểm xuất phát cho tần suất raise-for-value ở river khi đối thủ đã cam kết (pot lớn, không có draw hụt), giảm về khoảng 35% khi đối thủ có thể bỏ bài. Trước mỗi ván quan trọng, chia dải bài của mình thành vùng: value bet, check-call, check-bỏ, bluff, và trong vùng value thì bài nào call raise. Khi ở vị trí "giòn" (thường là người hành động sau ở river), chọn ngưỡng cẩn thận; khi ở vị trí "dẻo", đừng phí sức tối ưu từng tay bài gần ngưỡng. Trong stud high-low ở vòng cuối, cân nhắc cược rộng hơn khi ở vị trí sau.
-- **Người làm tài chính và ra quyết định:** nguyên lý "lựa chọn có giá trị không âm" là nền của định giá quyền chọn — một quyền (không phải nghĩa vụ) không bao giờ có giá âm, và giá trị của nó tính được bằng cách so kịch bản có và không có quyền. Chương này cũng nhắc rằng giá trị của một quyền có thể nhỏ hơn nhiều so với trực giác (check-raise chỉ đáng 1/72) khi đối phương điều chỉnh chiến lược. Kỹ thuật "giữ đối phương cố định, cho mình đáp trả tốt nhất" tương ứng với phân tích kịch bản và stress test trước chiến lược của đối thủ cạnh tranh. Phân biệt chiến lược "dẻo" và "giòn" hữu ích khi thiết kế quy trình: ở khâu giòn (sai nhỏ mất lớn) cần quy tắc rõ ràng và kiểm soát chặt; ở khâu dẻo có thể giao quyền tự quyết.
+- **Người làm tài chính và ra quyết định:** nguyên lý "lựa chọn có giá trị không âm" là nền của định giá quyền chọn — một quyền (không phải nghĩa vụ) không bao giờ có giá âm, và giá trị của nó tính được bằng cách so kịch bản có và không có quyền. Chương này cũng nhắc rằng giá trị của một quyền có thể nhỏ hơn nhiều so với trực giác (check-raise chỉ đáng 1/72) khi đối phương điều chỉnh chiến lược.
+
+  Kỹ thuật "giữ đối phương cố định, cho mình đáp trả tốt nhất" tương ứng với phân tích kịch bản và stress test trước chiến lược của đối thủ cạnh tranh. Phân biệt chiến lược "dẻo" và "giòn" hữu ích khi thiết kế quy trình: ở khâu giòn (sai nhỏ mất lớn) cần quy tắc rõ ràng và kiểm soát chặt; ở khâu dẻo có thể giao quyền tự quyết.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 18 trên một trang: sáu nhánh lớn đi theo các mục 1–14 của phần Nội dung chi tiết (cách tính giá trị trò chơi, các trò chơi không bỏ bài số 4–8, các trò chơi pot hữu hạn số 2 và 9–11, nguyên lý lựa chọn chiến lược có giá trị không âm, ba bài học thực hành về r, chiến lược dẻo và giòn, và trò chơi [0,1] × [0,1]), mỗi nhánh ghi công thức, giá trị và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 18: so giá trị các trò chơi [0,1] cho biết mỗi yếu tố của poker đáng bao nhiêu cho người hành động sau (Y)`"]
+  n1["`Mục 1–2 — Giá trị trò chơi và hai cách tính`"]
+  n0 --- n1
+  n2["`Giá trị G là kỳ vọng của Y khi cả hai chơi tối ưu, tính kiểu ex-showdown`"]
+  n1 --- n2
+  n3["`Ex-showdown: chỉ tính thắng thua do cược và bỏ bài, không tính phần pot thắng khi lật bài`"]
+  n1 --- n3
+  n4["`Vét cạn trò chơi số 1: chỉ ô X trên [1/2, 1], Y trên [0, 1/2] (xác suất 1/4) cho Y +1 ⇒ G = 1/4`"]
+  n1 --- n4
+  n5["`Giữ Y tối ưu, cho X đáp trả tốt nhất: X không vượt được giá trị trò chơi`"]
+  n1 --- n5
+  n6["`Ở vùng X bàng quan, chọn hành động dễ tính nhất (check mù, không check-raise, check-call)`"]
+  n5 --- n6
+  n7["`Đáp trả đó chỉ để tính giá trị, không phải để chơi: Y khai thác được`"]
+  n5 --- n7
+  n8["`Mục 3–6 — Trò chơi không bỏ bài số 4–8`"]
+  n0 --- n8
+  n9["`Số 4 (một cược, trọn vòng): cả hai luôn đặt đúng một cược ⇒ G = 0`"]
+  n8 --- n9
+  n10["`Số 5 (hai cược): x₁ = 1/2, y₁ = 3/4, y₂ = 1/4 ⇒ G = 1/8`"]
+  n8 --- n10
+  n11["`Y đặt trung bình 5/8 + 3/8 = 1 cược mỗi ván, lời 12,5%, hoàn toàn nhờ vị trí`"]
+  n10 --- n11
+  n12["`X cược hay check trên [1/4, 3/4] như nhau ⇒ cho X check, Y được +1/4 ở vùng này`"]
+  n10 --- n12
+  n13["`Số 7 (thêm check-raise): x₁ = 5/9, y₁ = 2/3, x₂ = 1/9, y₂ = 1/3 ⇒ G = 1/9`"]
+  n8 --- n13
+  n14["`Check-raise chỉ đáng 1/8 − 1/9 = 1/72 cược cho X#59; tác giả từng đoán nó giảm giá trị một nửa`"]
+  n13 --- n14
+  n15["`Y chỉ đổi ít: raise rộng hơn 1/4 → 1/3, cược sau check chặt hơn 3/4 → 2/3`"]
+  n13 --- n15
+  n16["`Số 6 (raise không giới hạn): ⟨Y⟩ = (1 − y₁)(y₁ − x₁) + r·x₁²/2, với x₁ = 1/(1 + 2r)`"]
+  n8 --- n16
+  n17["`Vùng cả hai dưới x₁ tự đồng dạng theo tỷ lệ r, vai trò đảo ⇒ g = r/2 ≈ 0,207`"]
+  n16 --- n17
+  n18["`Giá trị đúng r/(2(1 + 2r)) ≈ 0,1133#59; sách thế nhầm ngưỡng số 5 nên ra 0,1143`"]
+  n16 --- n18
+  n19["`Cược thứ ba cần Y dưới y₂ ≈ 0,2265 và X dưới x₃ ≈ 0,094: chỉ khoảng 2% số ván`"]
+  n16 --- n19
+  n20["`Số 8 (có check-raise): X cược mọi bài dưới y₁ = 1/√2 ⇒ ⟨Y⟩ = r·y₁²/2 = r/4 ≈ 0,1036`"]
+  n8 --- n20
+  n21["`Mục 7–9 — Trò chơi pot hữu hạn số 2, 9, 10, 11`"]
+  n0 --- n21
+  n22["`α = 1/(P + 1) là tỷ lệ bluff trên value bet#59; α₂ = 1/(P + 3) cho cược thứ hai`"]
+  n21 --- n22
+  n23["`Số 2: G₂ = −αy₁, G₁ = (1 − α)y₁, G₀ = (1 − α)y₁/2 theo vùng bài của X`"]
+  n21 --- n23
+  n24["`Phương trình 18.1: G = (1 − α)y₁ − (2 − α)(1 + α)y₁²/2`"]
+  n23 --- n24
+  n25["`Thế y₁ ⇒ G = (1 − α)y₁/2#59; P = 4 cho G ≈ 0,148#59; P → ∞ cho 1/4`"]
+  n23 --- n25
+  n26["`Số 9: X bàng quan check/cược trên [0, y₁] vì y₁#42; − y₁ = αy₁ = 1 − y₀`"]
+  n21 --- n26
+  n27["`Quy về số 2 với y₁ = (1 − α)/(1 + α) ⇒ G = α(1 − α)²/(2(1 + α))`"]
+  n26 --- n27
+  n28["`Đỉnh khoảng 0,057 ở α ≈ 0,28 (pot khoảng 2,6 cược)#59; về 0 khi pot vô hạn`"]
+  n26 --- n28
+  n29["`Số 10: bàng quan ba chiều giữa check-call, cược-rồi-bỏ, cược-rồi-call trên [y₂, y₁]`"]
+  n21 --- n29
+  n30["`G₂ = y₂ − αy₁ và G₃ = (1 − α₂)y₂ − 1 + α`"]
+  n29 --- n30
+  n31["`P = 4 cho ⟨Y⟩ ≈ 0,087#59; P → ∞ cho 1/8, đúng giá trị số 5`"]
+  n29 --- n31
+  n32["`Số 11: X bàng quan check-raise và cược-call trên [0, y₂] ⇒ cùng công thức số 10, equity của Y giảm`"]
+  n21 --- n32
+  n33["`Mục 10 — Lựa chọn chiến lược có giá trị không âm`"]
+  n0 --- n33
+  n34["`Pot → ∞ (α → 0): trò chơi pot hữu hạn thành trò chơi không bỏ bài tương ứng`"]
+  n33 --- n34
+  n35["`Số 1 → số 2, X được bỏ bài: 0,25 giảm còn (1 − α)y₁/2`"]
+  n33 --- n35
+  n36["`Số 1 → số 4, X được cược: 0,25 giảm còn 0`"]
+  n33 --- n36
+  n37["`Số 4 → số 5, Y được raise: 0 tăng lên 0,125`"]
+  n33 --- n37
+  n38["`Số 5 → số 6 (reraise) còn khoảng 0,113#59; số 5 → số 7 (check-raise) còn khoảng 0,111`"]
+  n33 --- n38
+  n39["`Người có thêm lựa chọn luôn được thêm hoặc giữ nguyên equity, vì luôn có thể không dùng nó`"]
+  n33 --- n39
+  n40["`Mục 11–12 — Ba bài học thực hành`"]
+  n0 --- n40
+  n41["`r = √2 − 1 ≈ 0,4142, nghiệm r² + 2r − 1 = 0`"]
+  n40 --- n41
+  n42["`Ở river, raise với khoảng 41% số bài đối thủ cược khi đối thủ không bỏ bài được#59; khoảng 35% nếu bỏ được`"]
+  n41 --- n42
+  n43["`Bàn J♥ 9♣ 8♠ 3♦ 2♣, 1.081 tổ hợp: cược 448, raise 185, reraise 77, rồi 32, 13`"]
+  n41 --- n43
+  n44["`Ngưỡng cược thứ 1–5: đôi thứ ba, QJ, thú J8, sảnh T7, nuts QT`"]
+  n43 --- n44
+  n45["`Chiến lược dẻo (X): lệch quanh ngưỡng ít mất, X check nhầm thì Y thường cược thay`"]
+  n40 --- n45
+  n46["`Chiến lược giòn (Y): không cược bài hơi mạnh hơn y₁ là mất equity ngay`"]
+  n40 --- n46
+  n47["`Số 5: Y bớt cược một đoạn d thì mất d² cược mỗi ván (d = 0,25 mất 0,0625)`"]
+  n46 --- n47
+  n48["`Chia bài thành vùng hành động rõ ràng#59; ít dùng chiến lược hỗn hợp, trừ ở biên`"]
+  n40 --- n48
+  n49["`Với mỗi value bet hỏi: vùng bluff tương ứng ở đâu, lớn bao nhiêu, tỷ lệ có đúng không`"]
+  n40 --- n49
+  n50["`Mục 13 — Ví dụ 18.1: trò chơi [0,1] × [0,1] high-low`"]
+  n0 --- n50
+  n51["`Mỗi người hai số high và low#59; không bỏ bài, hai cược, không check-raise`"]
+  n50 --- n51
+  n52["`X cược khi tổng hai số nhỏ hơn 1 (biên x₁ là y = 1 − x)`"]
+  n50 --- n52
+  n53["`Y raise dưới cung (x − 1)² + (y − 1)² = 1, từ xy = (1 − x − y)²/2`"]
+  n50 --- n53
+  n54["`Khi X check, Y cược dưới cung x² + y² = 1`"]
+  n50 --- n54
+  n55["`Y cược π/4 ≈ 78,5% số bài, so với 75% ở trò chơi số 5`"]
+  n50 --- n55
+  n56["`Semi-bluff ở đây: cược với kỳ vọng thường được nửa pot khi bị call`"]
+  n50 --- n56
+  n57["`Stud high-low vòng cuối: cược nhiều hơn thường nghĩ, nhất là ở vị trí sau`"]
+  n50 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Vị trí là lợi thế lớn và bền: 12,5% trên tiền đặt trong mô hình đối xứng`"]
+  n58 --- n59
+  n60["`Quyền cược của người đi trước đáng nhiều (giảm giá trị của Y một nửa)#59; check-raise, raise không giới hạn đáng ít`"]
+  n58 --- n60
+  n61["`Giữ một bên tối ưu, cho bên kia đáp trả tốt nhất là cách tính giá trị của bất kỳ trò chơi nào`"]
+  n58 --- n61
+  class n0 root
+  class n1,n8,n21,n33,n40,n50,n58 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 18 "Lessons and Values: The [0,1] Game Redux", trang 224–242.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần III (Chơi tối ưu) đã giải mười hai trò chơi [0,1] khác nhau, mỗi trò chơi thêm hoặc bớt một yếu tố của poker thật: trò chơi số 1 và số 2 nửa vòng cược ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)), trò chơi số 3 no-limit nửa vòng ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md), nơi hằng số r = √2 − 1 được đặt tên "tỷ lệ vàng của poker"), các trò chơi số 4–8 trọn vòng không được bỏ bài ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md)) và các trò chơi số 9–12 trọn vòng với pot hữu hạn, có bỏ bài và bluff ([C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md)).
+
+Các chương đó tập trung vào **lời giải** (chiến lược tối ưu). Chương 18 chuyển sang **giá trị** của mỗi trò chơi — người chơi ở vị trí sau (Y) được bao nhiêu khi cả hai chơi tối ưu — rồi so các giá trị đó với nhau để rút ra bài học: lựa chọn chiến lược không bao giờ có giá trị âm, tần suất raise khoảng 41% (giá trị r), chiến lược "dẻo" và chiến lược "giòn", và tư duy chia bài thành vùng để chơi cân bằng. Chương khép lại loạt trò chơi [0,1] bằng trò chơi high-low hai chiều [0,1] × [0,1].
+
+Nguyên lý "lựa chọn chiến lược có giá trị không âm" được phát biểu lần đầu ở [C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md) và dùng lại ở [C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md), [C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md). Sau chương này, sách chuyển từ các trò chơi một vòng cược sang trò chơi nhiều vòng cược: tĩnh ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md)) rồi động ([C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)), và cuối Phần III là các nghiên cứu tình huống ([C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)).
+
+## Lưu ý
+
+- **Giá trị trò chơi số 6 bị tính sai (lỗi đáng kể).** Sách viết ⟨Y⟩ = (1 − y₁)(y₁ − x₁) + rx₁²/2 (công thức đúng) rồi thế (1/4)(1/4) + r(1/8) = 1/16 + r/8 ≈ 0,11428. Các số 1/4, 1/4 và x₁² = 1/4 là ngưỡng của trò chơi số 5 (x₁ = 1/2, y₁ = 3/4), không phải của trò chơi số 6. Với trò chơi số 6, x₁ = 1/(1 + 2r) ≈ 0,5469 và y₁ = (1 + r)/(1 + 2r) ≈ 0,7735, nên y₁ − x₁ = 1 − y₁ = r/(1 + 2r) ≈ 0,2265 và x₁² ≈ 0,2991. Giá trị đúng: ⟨Y⟩ = r²/(1 + 2r)² + r/(2(1 + 2r)²) = r/(2(1 + 2r)) ≈ 0,05132 + 0,06195 ≈ **0,1133**.
+
+  Người tổng hợp kiểm tra bằng tích phân số trên lưới 1.500 × 1.500 với chiến lược tối ưu của cả hai bên (raise đến 60 lần): kết quả 0,11327. Hệ quả: câu "check-raise đưa equity của Y từ khoảng 0,114 xuống khoảng 0,104" phải đọc là từ khoảng 0,113 xuống khoảng 0,104. Thứ tự các giá trị không đổi: 1/8 = 0,125 > 0,1133 (số 6) > 1/9 ≈ 0,1111 (số 7) > 0,1036 (số 8).
+- **Ngưỡng x₁ của trò chơi số 5 in sai.** Trang 226 ghi lời giải "x₁ = 1/4, y₁ = 3/4, y₂ = 1/4"; lời giải ở Chương 16 là x₁ = 1/2 (X cược nửa số bài), y₁ = 3/4, y₂ = 1/4. Chính trang 228 cũng ngầm dùng x₁ = 1/2 khi tính "khi X cược (một nửa số lần)…". Bảng giá trị của trang 226–227 không bị ảnh hưởng vì nó dùng chiến lược đáp trả tốt nhất của X chứ không dùng x₁.
+- **Số hiệu ví dụ bị nhầm:** trò chơi số 4 được gọi là "Example 15.1" (đúng là Ví dụ 16.1; Ví dụ 15.1 là trò chơi AKQ số 4); trò chơi số 5 lần đầu được gọi là "Example 15.2" (đúng là 16.2, sách tự sửa ở trang 228); trò chơi số 8 (raise không giới hạn có check-raise) được ghi "see Example 16.4" (đúng là Ví dụ 16.5; 16.4 là trò chơi số 7).
+- **Phương trình tìm g thiếu hệ số.** Dòng đầu "g = y₂(x₁ − y₂) − gy₂²" phải là g·x₁² = y₂(x₁ − y₂) − g·y₂², vì g là equity bình quân trên mỗi đơn vị xác suất trong vùng có diện tích x₁²; bước "gr² + g = r − r²" của sách chỉ đúng khi đã chia hai vế cho x₁², tức là vế trái phải có x₁². Dòng thứ hai "g = rx₁(x₁ − rx₃)" in nhầm x₃ thay cho x₁. Kết quả g = r/2 vẫn đúng.
+- **"Y phải ở trên y₂, khoảng 22% số lần":** "trên" ở đây nghĩa là mạnh hơn (số nhỏ hơn). y₂ = r/(1 + 2r) ≈ 0,2265, tức khoảng 23% (sách làm tròn xuống 22%). X đặt cược thứ ba khi X < x₃ ≈ 0,0938; "xác suất kép" 0,2265 × 0,0938 ≈ 0,021, khoảng 2% như sách.
+- **Ký hiệu α² và α₂ bị lẫn.** Trong khung lời giải trò chơi số 9 (trang 235), "y₀ = (1 + a₂)/(1 + a)" và "(a − a₂)" có chữ 2 in dưới dòng, nhưng phải là bình phương: y₀ = (1 + α²)/(1 + α), (α − α²). Ngay sau đó, trong trò chơi số 10, "a₂" lại thật sự là α₂ = 1/(P + 3), một đại lượng khác. Bản tổng hợp viết α² cho bình phương và α₂ cho 1/(P + 3). Sách cũng dùng chữ "a" thay cho α ở trang 235–236.
+- **Lỗi in khác ở phần trò chơi số 10:** "For G₂, the case where X is on [y₁, y₂]" phải là [y₂, y₁]; dòng đầu của G₃ viết "⟨X on [0, y₂]⟩ − (y₁* − y₂)…" phải là dấu "=" thay cho dấu "−" đầu tiên; dòng thứ hai "G₃ = y₂ − y₂# − (y₂# − y₁)" phải là (y₂# − y₁*). Người tổng hợp kiểm tra công thức cuối của ⟨Y⟩ bằng tích phân số với chiến lược tối ưu đầy đủ của trò chơi số 10: P = 1 cho 0,04470 (công thức 0,04472); P = 4 cho 0,08707 (công thức 0,08702); P = 1.000 cho 0,1243 (công thức 0,1247, tiến về 1/8). Công thức đúng.
+- **Ký hiệu chỉ số dưới khác:** "xₙ = rⁿ⁻¹x₁ (for odd x > 1)" phải là "với n lẻ, n > 1". Lớp chữ của PDF còn làm hỏng "Y raises ¼ of the time" thành "Vi of the time", "checking" thành "diecking", "are" thành "axe", "For" thành "Fox", "little" thành "litde"; người tổng hợp đọc lại từ ảnh trang.
+- **Bảng tay bài hold'em (trang 238) có ba chỗ sai (người tổng hợp tự đếm lại):** (1) bộ ba (set) JJ, 99, 88, 33, 22 chỉ có 5 × C(3, 2) = 15 tổ hợp, không phải 30, vì mỗi lá đã có một lá trên bàn; (2) dòng "A9–Q9, T9, 97–94, 96 tổ hợp" bị in hai lần — dòng thứ hai phải là đôi thứ ba "A8–Q8, T8, 87–84" (cũng 8 × 12 = 96 tổ hợp); (3) bảng bỏ sót các đôi lớn hơn bàn AA, KK, QQ (18 tổ hợp, mạnh hơn đôi J) và đôi TT (6 tổ hợp, nằm giữa đôi J và đôi 9).
+
+  Dòng "JT, J7, J4" nghĩa là JT, J7, J6, J5, J4 (5 × 12 = 60 tổ hợp). Đếm lại, số tổ hợp cộng dồn là 16, 32, 47, 65, 137, 155 (thêm AA–QQ), 191, 251, 257 (thêm TT), 353, 449. Kết luận về ngưỡng cược gần như không đổi (xem mục 11).
+- **Hình 18.7 minh hoạ trường hợp y₁, không phải y₂.** Lời văn dẫn Hình 18.7 khi bàn về đường y₂, nhưng hình vẽ đường cong tâm (0, 0) và lấy điểm (0,6; 0,8) nằm trên đường tròn x² + y² = 1: hình chữ nhật "Scoop" [0,6; 1] × [0,8; 1] có diện tích 0,4 × 0,2 = 0,08 và tam giác "Lose" với ba đỉnh (0,2; 0,8), (0,6; 0,8), (0,6; 0,4) có diện tích 0,4 × 0,4/2 = 0,08 — đúng phép so sánh của ngưỡng y₁.
+- **Thứ tự ba đường cong trong Ví dụ 18.1 bị viết ngược.** Sách ghi "(0, 0) < y₁ < x₁ < y₂ < (1, 1)" với quy ước "dưới" là gần (0, 0) hơn. Nhưng y₂ (ngưỡng raise, bài mạnh nhất) là một phần tư đường tròn tâm (1, 1), nằm giữa (0, 0) và đường chéo; y₁ là một phần tư đường tròn tâm (0, 0), nằm giữa đường chéo và (1, 1). Thứ tự đúng là (0, 0) < y₂ < x₁ < y₁ < (1, 1), giống trò chơi số 5 một chiều (y₂ = 1/4 < x₁ = 1/2 < y₁ = 3/4). Một dòng khai triển cũng có lỗi dấu: "2xy = 1 − y − x − y + xy + y² − x − x² + xy" phải là "+ x²"; dòng tiếp theo của sách lại đúng.
+- **"Semi-bluff" được định nghĩa khác Chương 4.** Trang 240 nói đây là "loại cược ta chưa bàn tới" và định nghĩa là cược với kỳ vọng thường thắng nửa pot khi bị call. Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) đã định nghĩa semi-bluff là cược với bài có thể chưa tốt nhất nhưng có cơ hội cải thiện (ví dụ draw thùng). Hai nghĩa có chung ý "cược với bài không chắc thắng trọn", nhưng không trùng nhau (nhận xét của người tổng hợp).
+- **Số đọc từ Hình 18.6 là ước lượng.** Hình không ghi số; người tổng hợp tính các giá trị bằng công thức và đối chiếu với các đường trong hình.
+- **Quy ước:** mọi giá trị trong chương là equity của Y (người hành động thứ hai), tính bằng số cược, theo kiểu ex-showdown. α = 1/(P + 1) với P là pot tính bằng số cược; α₂ = 1/(P + 3); r = √2 − 1 ≈ 0,4142. Trong mọi trò chơi [0,1], số nhỏ là bài mạnh.

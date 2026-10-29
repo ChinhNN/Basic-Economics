@@ -1,24 +1,22 @@
 # Chương 2 — Dự báo tương lai: phương sai và kết quả mẫu (Predicting the Future: Variance and Sample Outcomes)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 2 "Predicting the Future: Variance and Sample Outcomes", trang 26–36.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)) định nghĩa xác suất, phân phối và kỳ vọng, và đặt kỳ vọng làm tiêu chí ra quyết định. Chương 2 thêm đặc trưng thứ hai của một phân phối có giá trị: **phương sai**, đo kết quả thực tế có thể lệch khỏi kỳ vọng bao xa. Chương giới thiệu độ lệch chuẩn, quy luật căn bậc hai (độ lệch chuẩn của N lần thử bằng σ√N), phân phối chuẩn, định lý giới hạn trung tâm và điểm z, rồi dùng chúng để trả lời "bao lâu thì có một phiên thắng?" và để kiểm tra một khẳng định khả nghi về AK đấu AQ. Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) đi theo chiều ngược lại — từ kết quả quan sát suy ra tham số (tỷ lệ thắng thật) — và dùng lại độ lệch chuẩn của mẫu ở đây. Phương sai chỉ được dùng để *mô tả* cho tới Phần IV, nơi nó trở thành yếu tố quyết định trong mô hình rủi ro phá sản ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), [C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)) và tiêu chuẩn Kelly ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)).
-**Ý chính:** **Kỳ vọng cho biết trung bình ta thắng bao nhiêu, phương sai cho biết kết quả cụ thể có thể cách kỳ vọng bao xa; vì phương sai cộng dồn theo số lần thử, độ lệch chuẩn chỉ tăng theo căn bậc hai của số lần thử, nên trong dài hạn kết quả tính theo mỗi ván dồn dần về kỳ vọng, và nhờ định lý giới hạn trung tâm có thể dùng phân phối chuẩn để tính xác suất của các kết quả mẫu.** Phương sai V = Σ pᵢ(xᵢ − ⟨P⟩)²: tung đồng xu ăn thua 1 đơn vị có phương sai 1, cược 5 ăn 1 vào mặt sáu của xúc xắc (cũng kỳ vọng 0) có phương sai 5. Ván chơi lỏng và hung hăng có phương sai cao hơn ván chặt và thụ động; value bet mỏng và semi-bluff raise làm tăng phương sai; nhưng ngoài Phần IV, sách coi phương sai chỉ là đại lượng mô tả, không phải tiêu chí quyết định. Độ lệch chuẩn σ = √V; với N lần thử, σ²_N = Nσ² và σ_N = σ√N (100 lần tung đồng xu có độ lệch chuẩn 5 chứ không phải 50). Định lý giới hạn trung tâm nói tổng của một mẫu đủ lớn có phân phối gần chuẩn; điểm z = (x − μ)/σ và hàm phân phối chuẩn tích luỹ Φ(z) cho xác suất; 68%, 95,5% và 99,7% kết quả nằm trong 1, 2, 3 độ lệch chuẩn quanh trung bình. Ví dụ trò xúc xắc D₂ (thua 1, thắng 6 khi ra mặt sáu): kỳ vọng 1/6 mỗi lần, phương sai ≈ 6,806; sau 200 lần, xấp xỉ chuẩn cho xác suất đang thắng 81,69% (tính trực tiếp 81,96%), thắng ít nhất 40 đơn vị 42,83% (trực tiếp 40,46%), ít nhất 100 đơn vị 3,54% (trực tiếp 4,44%). Người chơi có tỷ lệ thắng 0,015 bet mỗi tay và độ lệch chuẩn 2 bet mỗi tay sẽ có phiên 300 tay thắng khoảng 55,17% số lần. Khẳng định "AK và AQ chia nhau 50–50 sau 2.000 lần all-in" nằm cách kỳ vọng (73,5%, tức 1.470 lần AK thắng) khoảng 23,8 độ lệch chuẩn — gần như không thể; nhiều khả năng do thiên lệch nhận thức. Bảng cuối chương cho người chơi thắng 75 đô la mỗi 100 tay với độ lệch chuẩn 80 đô la mỗi tay: sau 100 tay, khoảng 95,5% là từ lỗ 1.525 tới lãi 1.675 đô la; phải tới khoảng 50.000 tay, cận dưới mới dương; sau 1 triệu tay, khoảng là 590.000 tới 910.000 đô la — đó là luật số lớn.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phạm vi trang:** mục lục in trong sách ghi Chương 2 ở trang 24; theo chân trang của PDF này là trang 26–36 (trang 36 chỉ có nửa câu cuối của mục Key Concepts).
-> - **Lỗi in "1/16" (trang 27):** câu về cược 5 ăn 1 vào xúc xắc viết "1/16 số lần, bạn nhận khoản trả cách kỳ vọng 5 đơn vị"; đúng là **1/6** (xác suất ra mặt sáu), như phép tính phương sai ngay sau dùng 1/6.
-> - **Công thức (2.1) bị vỡ trong bản PDF:** trên ảnh trang chỉ còn các mảnh "xᵢ − ¿P>¿", "pᵢ¿", "V_p = Σ ¿". Công thức đúng, khớp với lời mô tả và các phép tính của sách, là V_P = Σ (i = 1..n) pᵢ(xᵢ − ⟨P⟩)².
-> - **"Phương sai luôn dương" (trang 27):** đúng ra là luôn **không âm**: phương sai bằng 0 khi mọi kết cục bằng nhau (ví dụ "không cược", luôn được 0).
-> - **Thiếu dấu trừ trong công thức mật độ chuẩn (2.5), trang 29:** sách in N(x, μ, σ) = [1/(σ√(2π))] exp((x − μ)²/(2σ²)); đúng là exp(−(x − μ)²/(2σ²)). Không có dấu trừ, hàm tăng vô hạn ở hai đầu và không phải hình chuông như hình vẽ ngay trên. Công thức (2.7) cũng thiếu "dx" sau hàm dưới dấu tích phân.
-> - **Công thức (2.8), trang 30, đảo thứ tự hai số hạng:** sách in p = Φ((x₁ − μ)/σ) − Φ((x₂ − μ)/σ). Với x₁ < x₂ (như Hình 2.1 vẽ), biểu thức này âm; đúng là p = Φ((x₂ − μ)/σ) − Φ((x₁ − μ)/σ). Câu dẫn cũng gọi x₁, x₂ là "hai điểm z" trong khi chúng là hai giá trị chưa chuẩn hoá.
-> - **Diễn giải sai Φ(0,1807) (trang 32):** sách viết Φ(0,1807) "là xác suất kết quả nằm bên trái 40 đơn vị, *hay là ta thua ít nhất 40 đơn vị*". Phần sau sai: Φ(0,1807) là xác suất kết quả nhỏ hơn +40 đơn vị (gồm cả thắng ít hơn 40 và thua); con số 0,4283 sau đó vẫn đúng.
-> - **Đơn vị của phương sai (nhận xét của người tổng hợp):** sách nói phương sai đo bằng "đơn vị kỳ vọng bình phương trên số lần thử bình phương" và ghi 6,806 units²/trial². Vì phương sai cộng dồn tuyến tính theo số lần thử (sách vừa nói), đơn vị hợp lý là units² trên *một* lần thử; chỉ độ lệch chuẩn mới tăng theo √N. Tương tự, "phương sai 6.400 đô la mỗi tay" (trang 35) đúng ra là 6.400 (đô la)² mỗi tay, tức độ lệch chuẩn 80 đô la mỗi tay.
-> - **Cách nói "nhỏ hơn hơn một trăm lần" (trang 35) không chính xác:** so 1 triệu tay với 100 tay, độ lệch chuẩn lớn gấp đúng 100 lần (80.000 / 800) và độ lệch chuẩn tính trên mỗi tay nhỏ đi **đúng** 100 lần (800/100 = 8 đô la mỗi tay so với 80.000/1.000.000 = 0,08 đô la mỗi tay), không phải "hơn một trăm lần".
-> - **Kiểm tra lại các con số:** người tổng hợp đã tính lại toàn bộ: phương sai D₂ = 1.470/216 ≈ 6,8056; σ = 2,6087; σ₂₀₀ = 36,89; các điểm z −0,9035; 0,1807; 1,8070 và các giá trị Φ 0,1831; 0,5717; 0,9646; ba xác suất "tính trực tiếp" 81,96%, 40,46%, 4,44% (bằng phân phối nhị thức 200 lần, p = 1/6); phiên 300 tay (σ₃₀₀ = 34,64, z = −0,1299, 55,17%); ví dụ AK–AQ (V = 0,194775, σ = 0,4413, σ₂₀₀₀ = 19,737, z ≈ −23,81); và cả tám dòng bảng cuối chương. Tất cả khớp sách. Các giá trị chuẩn 0,68; 0,955; 0,997 chính xác hơn là 0,6827; 0,9545; 0,9973.
-> - **Lỗi đánh máy và định dạng:** "Greek letter a (sigma)" là σ; "additiveю" thừa ký tự; "flip a com" là "coin"; "p = 0.55171" thừa chữ số (0,5517); "Φ(0,1807) = 0,5717" và "3,54%" dùng dấu phẩy thập phân lẫn với dấu chấm; "Fust" là "First"; "cither" là "either"; "docs" là "does"; "whining a big pot" là "winning"; "S75" là "$75"; trong bảng cuối chương "$590.000.00" là $590,000.00 và hai ô "$37500.00", "$17888.54" thiếu dấu phân cách hàng nghìn. Chú thích Hình 2.1 bị cắt ("A = p(event between x, and"), ý đầy đủ là "A = p(sự kiện nằm giữa x₁ và x₂)". Trang 34 có "my spreadsheet program" — ngôi thứ nhất số ít trong một sách hai tác giả.
-> - **Đuôi xa của phân phối chuẩn (nhận xét của người tổng hợp):** với z ≈ −23,8, xấp xỉ chuẩn cho xác suất cỡ 10⁻¹²⁵, còn phân phối nhị thức chính xác (2.000 lần, p = 0,735, không quá 1.000 lần AK thắng) cho khoảng 10⁻¹¹⁰. Xấp xỉ chuẩn sai hàng chục bậc độ lớn ở đuôi xa, nhưng kết luận của sách — xác suất nhỏ tới mức có thể bỏ qua — không đổi.
-> - **Quy ước:** sách gọi tổng của nhiều lần thử là "mẫu" (sample) và gọi phân phối của tổng đó là "phân phối lấy mẫu"; bản tổng hợp giữ cách gọi này. Số thập phân viết bằng dấu phẩy; hình đọc từ ảnh trang ghi là ước lượng.
+**Kỳ vọng cho biết trung bình ta thắng bao nhiêu, phương sai cho biết kết quả cụ thể có thể cách kỳ vọng bao xa; vì phương sai cộng dồn theo số lần thử, độ lệch chuẩn chỉ tăng theo căn bậc hai của số lần thử, nên trong dài hạn kết quả tính theo mỗi ván dồn dần về kỳ vọng, và nhờ định lý giới hạn trung tâm có thể dùng phân phối chuẩn để tính xác suất của các kết quả mẫu.**
+
+Phương sai V = Σ pᵢ(xᵢ − ⟨P⟩)²: tung đồng xu ăn thua 1 đơn vị có phương sai 1, cược 5 ăn 1 vào mặt sáu của xúc xắc (cũng kỳ vọng 0) có phương sai 5. Ván chơi lỏng và hung hăng có phương sai cao hơn ván chặt và thụ động; value bet mỏng và semi-bluff raise làm tăng phương sai; nhưng ngoài Phần IV, sách coi phương sai chỉ là đại lượng mô tả, không phải tiêu chí quyết định.
+
+Độ lệch chuẩn σ = √V; với N lần thử, σ²_N = Nσ² và σ_N = σ√N (100 lần tung đồng xu có độ lệch chuẩn 5 chứ không phải 50).
+
+Định lý giới hạn trung tâm nói tổng của một mẫu đủ lớn có phân phối gần chuẩn; điểm z = (x − μ)/σ và hàm phân phối chuẩn tích luỹ Φ(z) cho xác suất; 68%, 95,5% và 99,7% kết quả nằm trong 1, 2, 3 độ lệch chuẩn quanh trung bình.
+
+Ví dụ trò xúc xắc D₂ (thua 1, thắng 6 khi ra mặt sáu): kỳ vọng 1/6 mỗi lần, phương sai ≈ 6,806; sau 200 lần, xấp xỉ chuẩn cho xác suất đang thắng 81,69% (tính trực tiếp 81,96%), thắng ít nhất 40 đơn vị 42,83% (trực tiếp 40,46%), ít nhất 100 đơn vị 3,54% (trực tiếp 4,44%).
+
+Người chơi có tỷ lệ thắng 0,015 bet mỗi tay và độ lệch chuẩn 2 bet mỗi tay sẽ có phiên 300 tay thắng khoảng 55,17% số lần.
+
+Khẳng định "AK và AQ chia nhau 50–50 sau 2.000 lần all-in" nằm cách kỳ vọng (73,5%, tức 1.470 lần AK thắng) khoảng 23,8 độ lệch chuẩn — gần như không thể; nhiều khả năng do thiên lệch nhận thức.
+
+Bảng cuối chương cho người chơi thắng 75 đô la mỗi 100 tay với độ lệch chuẩn 80 đô la mỗi tay: sau 100 tay, khoảng 95,5% là từ lỗ 1.525 tới lãi 1.675 đô la; phải tới khoảng 50.000 tay, cận dưới mới dương; sau 1 triệu tay, khoảng là 590.000 tới 910.000 đô la — đó là luật số lớn.
 
 ## Sơ đồ
 
@@ -275,7 +273,9 @@ Cách nhìn này khá thực dụng, nhất là với người chơi chuyên ngh
 
 Phần lớn giáo trình thống kê trình bày xác suất cùng hàng loạt phương pháp lấy mẫu, kiểm định giả thuyết, hệ số tương quan… Khi phân tích poker, tác giả dùng nhiều khái niệm xác suất và thỉnh thoảng dùng các phương pháp thống kê khác. Phần sau là một tổng quan "nhanh và thô" về một số khái niệm thống kê hữu ích cho poker, nhất là để phân tích kết quả quan sát được; nhiều thông tin được coi là không liên quan đã bị lược bỏ, và người đọc được khuyến khích tham khảo giáo trình thống kê.
 
-Một câu hỏi hay gặp trong poker là "Tôi nên kỳ vọng có phiên thắng thường xuyên đến mức nào?". Diễn đạt lại: "xác suất một mẫu cụ thể lấy từ tổng thể gồm các phiên của tôi trong một ván có kết quả lớn hơn 0 là bao nhiêu?". Cách trả lời trực tiếp nhất là xem phân phối xác suất của các phiên trong ván đó và cộng xác suất của mọi kết quả lớn hơn 0. Tiếc là ta không có phân phối đó: dù đã thu thập bao nhiêu dữ liệu về lối chơi của mình trong quá khứ, ta chỉ có một mẫu. Tuy nhiên, giả sử bằng cách nào đó ta biết kỳ vọng và phương sai mỗi tay của mình trong ván đó, và biết phiên đang quan tâm dài bao nhiêu; khi đó có thể dùng phương pháp thống kê để ước lượng xác suất có một phiên thắng. Đại lượng thứ nhất, kỳ vọng (còn gọi là **trung bình** — mean — của phân phối), đã quen thuộc từ Chương 1.
+Một câu hỏi hay gặp trong poker là "Tôi nên kỳ vọng có phiên thắng thường xuyên đến mức nào?". Diễn đạt lại: "xác suất một mẫu cụ thể lấy từ tổng thể gồm các phiên của tôi trong một ván có kết quả lớn hơn 0 là bao nhiêu?". Cách trả lời trực tiếp nhất là xem phân phối xác suất của các phiên trong ván đó và cộng xác suất của mọi kết quả lớn hơn 0. Tiếc là ta không có phân phối đó: dù đã thu thập bao nhiêu dữ liệu về lối chơi của mình trong quá khứ, ta chỉ có một mẫu.
+
+Tuy nhiên, giả sử bằng cách nào đó ta biết kỳ vọng và phương sai mỗi tay của mình trong ván đó, và biết phiên đang quan tâm dài bao nhiêu; khi đó có thể dùng phương pháp thống kê để ước lượng xác suất có một phiên thắng. Đại lượng thứ nhất, kỳ vọng (còn gọi là **trung bình** — mean — của phân phối), đã quen thuộc từ Chương 1.
 
 ### 2. Phương sai (Variance, trang 26–27)
 
@@ -303,7 +303,9 @@ V_D = (5/6)(−1 − 0)² + (1/6)(5 − 0)²
 V_D = 5/6 + 25/6 = 5
 ```
 
-**Phương sai trong poker.** Một ván lỏng–hung hăng (loose-wild, nhiều người vào pot và cược mạnh) có phương sai cao hơn nhiều so với một ván chặt–thụ động (tight-passive), vì kết quả cách trung bình xa hơn: pot bạn thắng lớn hơn, nhưng tiền mất ở pot thua cũng lớn hơn. Phong cách chơi cũng ảnh hưởng phương sai: value bet mỏng và semi-bluff raise là ví dụ của nước đi phương sai cao, có thể làm tăng phương sai, tăng kỳ vọng, hoặc cả hai. Ngược lại, người chơi lỏng kiểu "điên" (loose-maniacal) có thể có những nước đi làm tăng phương sai trong khi giảm kỳ vọng; còn chơi quá chặt có thể làm giảm cả hai. Ở Phần IV, sách sẽ xét các cân nhắc về bankroll và rủi ro, và đưa ra khuôn khổ trong đó phương sai ảnh hưởng tới giá trị thoả dụng của tiền. Ngoài phần đó, sách bỏ qua phương sai như một tiêu chí ra quyết định poker; với sách, phương sai chỉ là đại lượng **mô tả**, không phải đại lượng **chỉ định** hành động như kỳ vọng.
+**Phương sai trong poker.** Một ván lỏng–hung hăng (loose-wild, nhiều người vào pot và cược mạnh) có phương sai cao hơn nhiều so với một ván chặt–thụ động (tight-passive), vì kết quả cách trung bình xa hơn: pot bạn thắng lớn hơn, nhưng tiền mất ở pot thua cũng lớn hơn. Phong cách chơi cũng ảnh hưởng phương sai: value bet mỏng và semi-bluff raise là ví dụ của nước đi phương sai cao, có thể làm tăng phương sai, tăng kỳ vọng, hoặc cả hai. Ngược lại, người chơi lỏng kiểu "điên" (loose-maniacal) có thể có những nước đi làm tăng phương sai trong khi giảm kỳ vọng; còn chơi quá chặt có thể làm giảm cả hai.
+
+Ở Phần IV, sách sẽ xét các cân nhắc về bankroll và rủi ro, và đưa ra khuôn khổ trong đó phương sai ảnh hưởng tới giá trị thoả dụng của tiền. Ngoài phần đó, sách bỏ qua phương sai như một tiêu chí ra quyết định poker; với sách, phương sai chỉ là đại lượng **mô tả**, không phải đại lượng **chỉ định** hành động như kỳ vọng.
 
 **Phương sai cộng dồn.** Phương sai cho thông tin về khoảng cách kỳ vọng tới trung bình của phân phối. Tính chất quan trọng nhất của phương sai là nó cộng dồn trực tiếp qua các lần thử, giống như kỳ vọng. Vậy nếu nhận cược xúc xắc trên hai lần, phương sai của hai cược gộp lại lớn gấp đôi, bằng 10. (Người tổng hợp bổ sung: tính cộng của phương sai đòi hỏi các lần thử độc lập, điều đúng với các lần gieo xúc xắc và các tay poker khác nhau.)
 
@@ -377,7 +379,7 @@ Diện tích giữa hai giá trị x₁ < x₂ tìm bằng cách tính điểm z
 p = Φ((x₂ − μ)/σ) − Φ((x₁ − μ)/σ)                                   (2.8)
 ```
 
-(Sách in hai số hạng theo thứ tự ngược lại; xem khối Lưu ý.)
+(Sách in hai số hạng theo thứ tự ngược lại; xem mục Lưu ý cuối chương.)
 
 Các nhà thống kê đã lập bảng giá trị Φ(z), và bảng tính cũng tính được. Vài giá trị then chốt: diện tích giữa z = −1 và z = +1 xấp xỉ 0,68; giữa −2 và +2 xấp xỉ 0,955; giữa −3 và +3 xấp xỉ 0,997. Nghĩa là giá trị của một mẫu từ phân phối chuẩn sẽ rơi vào:
 
@@ -545,11 +547,19 @@ z₁₀₀₀ = −23,815
 
 Kết quả này cách trung bình khoảng 23,8 độ lệch chuẩn. Những giá trị nhỏ như vậy không dễ tính vì quá nhỏ — thực tế chương trình bảng tính của tác giả tính Φ(−23,815) bằng đúng 0. Chỉ cần nói đây là một xác suất thấp đến kinh ngạc. (Người tổng hợp ước lượng: xấp xỉ chuẩn cho khoảng 10⁻¹²⁵; phân phối nhị thức chính xác cho khoảng 10⁻¹¹⁰.)
 
-Điều có khả năng hơn là người chơi đó phóng đại, nói dối, hoặc có lẽ mắc lỗi thường gặp là quên để ý những lần AK thắng AQ, vì đó là kết quả "được chờ đợi". Điều này liên quan tới một hiệu ứng tâm lý gọi là **thiên lệch nhận thức** (perception bias): ta để ý những chuyện bất thường và bỏ qua những chuyện bình thường. Hoặc có lẽ trang online thực sự "gian lận". Khi ví dụ này được đưa lên một danh sách thư điện tử, một số người phản ứng bằng cách viện dẫn phương sai cao của poker và cho rằng 2.000 tay có thể cho rất nhiều kết quả khác nhau. Nhưng làm vậy là lẫn hai vấn đề hoàn toàn khác: kết quả thắng thua (tiền) trong 2.000 tay poker — vốn có phương sai khá cao — với kết quả của một tay poker (ai thắng) — có phương sai thấp hơn nhiều. Phương sai của một tay tính theo big bet (đơn vị cược lớn) trong hầu hết thể loại poker cao hơn nhiều so với phương sai của biến "ai thắng một lần all-in trước flop". Một bài học của ví dụ là không được lẫn phương sai cao của kết quả tiền trong poker với phương sai tương đối thấp của các loại phân phối khác.
+Điều có khả năng hơn là người chơi đó phóng đại, nói dối, hoặc có lẽ mắc lỗi thường gặp là quên để ý những lần AK thắng AQ, vì đó là kết quả "được chờ đợi". Điều này liên quan tới một hiệu ứng tâm lý gọi là **thiên lệch nhận thức** (perception bias): ta để ý những chuyện bất thường và bỏ qua những chuyện bình thường. Hoặc có lẽ trang online thực sự "gian lận".
+
+Khi ví dụ này được đưa lên một danh sách thư điện tử, một số người phản ứng bằng cách viện dẫn phương sai cao của poker và cho rằng 2.000 tay có thể cho rất nhiều kết quả khác nhau. Nhưng làm vậy là lẫn hai vấn đề hoàn toàn khác: kết quả thắng thua (tiền) trong 2.000 tay poker — vốn có phương sai khá cao — với kết quả của một tay poker (ai thắng) — có phương sai thấp hơn nhiều.
+
+Phương sai của một tay tính theo big bet (đơn vị cược lớn) trong hầu hết thể loại poker cao hơn nhiều so với phương sai của biến "ai thắng một lần all-in trước flop". Một bài học của ví dụ là không được lẫn phương sai cao của kết quả tiền trong poker với phương sai tương đối thấp của các loại phân phối khác.
 
 ### 9. Định lý giới hạn trung tâm áp vào kết quả poker và luật số lớn (trang 34–35)
 
-Khi chơi poker, rất nhiều sự kiện ngẫu nhiên xảy ra. Ta và những người khác được chia bài ngẫu nhiên từ một phân phối gồm mọi tổ hợp hai lá. Có các vòng cược, thường có cơ hội đổi bài hoặc giá trị tay bài thay đổi khi chia thêm lá… Mỗi tay cho ta một kết quả: thắng một pot lớn, "ăn trộm" blind (cược để mọi người bỏ bài và nhận các khoản cược bắt buộc), mất một hai bet, hay mất một pot lớn. Kết quả này chịu ảnh hưởng của mọi sự kiện ngẫu nhiên nhỏ trong tay đó, cùng những sự kiện không hẳn ngẫu nhiên — chẳng hạn bắt được tell của đối thủ giúp thắng một pot lẽ ra không thắng, hoặc tiết kiệm một bet khi đang thua. Dù vậy, sức mạnh của định lý giới hạn trung tâm là kết quả từng tay hoạt động gần như các biến ngẫu nhiên rút từ phân phối "kết quả tay bài" của ta. Tương tự, kết quả của các phiên, tuần, tháng và cả sự nghiệp poker hoạt động như các mẫu có kích thước tương ứng rút từ phân phối đó.
+Khi chơi poker, rất nhiều sự kiện ngẫu nhiên xảy ra. Ta và những người khác được chia bài ngẫu nhiên từ một phân phối gồm mọi tổ hợp hai lá. Có các vòng cược, thường có cơ hội đổi bài hoặc giá trị tay bài thay đổi khi chia thêm lá…
+
+Mỗi tay cho ta một kết quả: thắng một pot lớn, "ăn trộm" blind (cược để mọi người bỏ bài và nhận các khoản cược bắt buộc), mất một hai bet, hay mất một pot lớn. Kết quả này chịu ảnh hưởng của mọi sự kiện ngẫu nhiên nhỏ trong tay đó, cùng những sự kiện không hẳn ngẫu nhiên — chẳng hạn bắt được tell của đối thủ giúp thắng một pot lẽ ra không thắng, hoặc tiết kiệm một bet khi đang thua.
+
+Dù vậy, sức mạnh của định lý giới hạn trung tâm là kết quả từng tay hoạt động gần như các biến ngẫu nhiên rút từ phân phối "kết quả tay bài" của ta. Tương tự, kết quả của các phiên, tuần, tháng và cả sự nghiệp poker hoạt động như các mẫu có kích thước tương ứng rút từ phân phối đó.
 
 Quan hệ căn bậc hai giữa số lần thử và độ lệch chuẩn làm điều này đặc biệt hữu ích: khi số lần thử tăng, xác suất kết quả của ta cách xa kỳ vọng **tính tương đối** giảm đi.
 
@@ -568,7 +578,7 @@ Quan hệ căn bậc hai giữa số lần thử và độ lệch chuẩn làm �
 
 (Người tổng hợp đã tính lại cả tám dòng; tất cả khớp sách.)
 
-Với số tay nhỏ, kết quả dao động rộng giữa lỗ và lãi. Nhưng khi cỡ mẫu tăng, kết quả mẫu ngày càng gần kỳ vọng tính tương đối — dù độ lớn tuyệt đối của độ lệch vẫn tiếp tục tăng. So độ lệch chuẩn của 1 triệu tay với 100 tay: tính tuyệt đối, độ lệch chuẩn lớn gấp 100 lần, nhưng tính tương đối so với số tay thì nhỏ đi 100 lần (sách viết "hơn một trăm lần"; xem khối Lưu ý). Đó là **luật số lớn**: mẫu càng lớn, kết quả của mẫu càng gần kỳ vọng tính tương đối.
+Với số tay nhỏ, kết quả dao động rộng giữa lỗ và lãi. Nhưng khi cỡ mẫu tăng, kết quả mẫu ngày càng gần kỳ vọng tính tương đối — dù độ lớn tuyệt đối của độ lệch vẫn tiếp tục tăng. So độ lệch chuẩn của 1 triệu tay với 100 tay: tính tuyệt đối, độ lệch chuẩn lớn gấp 100 lần, nhưng tính tương đối so với số tay thì nhỏ đi 100 lần (sách viết "hơn một trăm lần"; xem mục Lưu ý cuối chương). Đó là **luật số lớn**: mẫu càng lớn, kết quả của mẫu càng gần kỳ vọng tính tương đối.
 
 Người tổng hợp bổ sung hai nhận xét từ bảng:
 
@@ -712,7 +722,9 @@ Chương dùng: phương sai Var(X) = E[(X − E[X])²]; tính cộng Var(ΣXᵢ
 
 ### Sức mạnh của chương
 
-Chương trình bày một bộ công cụ thống kê tối thiểu nhưng đủ dùng, và mỗi công cụ đều đi kèm một câu hỏi poker thật: "bao lâu thì có phiên thắng?", "câu chuyện AK–AQ có tin được không?", "cần bao nhiêu tay để thấy lợi thế?". Bảng so sánh xấp xỉ chuẩn với tính trực tiếp cho trò D₂ là một chi tiết trung thực hiếm thấy: tác giả không chỉ dùng xấp xỉ mà còn cho thấy nó sai bao nhiêu và vì sao (tính rời rạc). Ví dụ AK–AQ dạy hai bài học quan trọng cùng lúc: phân biệt phương sai của các biến khác nhau, và nghi ngờ dữ liệu do trí nhớ con người thu thập. Bảng tám cỡ mẫu cuối chương là minh hoạ trực quan nhất cho luật số lớn: cùng một người chơi có lợi thế có thể lỗ hơn 7.500 đô la sau 5.000 tay.
+Chương trình bày một bộ công cụ thống kê tối thiểu nhưng đủ dùng, và mỗi công cụ đều đi kèm một câu hỏi poker thật: "bao lâu thì có phiên thắng?", "câu chuyện AK–AQ có tin được không?", "cần bao nhiêu tay để thấy lợi thế?". Bảng so sánh xấp xỉ chuẩn với tính trực tiếp cho trò D₂ là một chi tiết trung thực hiếm thấy: tác giả không chỉ dùng xấp xỉ mà còn cho thấy nó sai bao nhiêu và vì sao (tính rời rạc).
+
+Ví dụ AK–AQ dạy hai bài học quan trọng cùng lúc: phân biệt phương sai của các biến khác nhau, và nghi ngờ dữ liệu do trí nhớ con người thu thập. Bảng tám cỡ mẫu cuối chương là minh hoạ trực quan nhất cho luật số lớn: cùng một người chơi có lợi thế có thể lỗ hơn 7.500 đô la sau 5.000 tay.
 
 ### Những chỗ đơn giản hoá
 
@@ -720,7 +732,7 @@ Chương trình bày một bộ công cụ thống kê tối thiểu nhưng đ�
 - **Giả định các tay độc lập, cùng phân phối.** Tỷ lệ thắng thay đổi theo đối thủ, mức cược, trạng thái tâm lý (tilt); chính tác giả thừa nhận điều này trong ví dụ phiên 300 tay.
 - **Xấp xỉ chuẩn kém ở đuôi.** Với phân phối lệch như kết quả tay poker (thường thua ít, thỉnh thoảng thắng lớn), xác suất của các chuỗi thua dài theo xấp xỉ chuẩn có thể sai đáng kể; ví dụ AK–AQ cho thấy xấp xỉ chuẩn và nhị thức chính xác chênh nhau khoảng 15 bậc độ lớn ở z ≈ −24.
 - **Coi phương sai chỉ để mô tả** là quy ước thuận tiện, nhưng với người chơi không đủ vốn, phương sai ảnh hưởng trực tiếp tới quyết định (chọn mức cược, chọn ván) — điều Phần IV sẽ bàn.
-- **Một số lỗi công thức trong bản in** (thiếu dấu trừ ở (2.5), đảo thứ tự ở (2.8), 1/16 thay cho 1/6) có thể làm người đọc mới học bối rối; xem khối Lưu ý.
+- **Một số lỗi công thức trong bản in** (thiếu dấu trừ ở (2.5), đảo thứ tự ở (2.8), 1/16 thay cho 1/6) có thể làm người đọc mới học bối rối; xem mục Lưu ý cuối chương.
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp, không tra cứu)
 
@@ -743,3 +755,155 @@ Chương trình bày một bộ công cụ thống kê tối thiểu nhưng đ�
 - **Người chơi poker:** ghi lại kỳ vọng và độ lệch chuẩn mỗi tay (hoặc mỗi 100 tay) của mình, rồi dùng σ√N để biết một chuỗi thua có "bình thường" hay không trước khi kết luận mình chơi kém hay ván không còn có lợi. Một quy tắc nhanh: kết quả nằm trong ±2σ√N quanh Nμ là chuyện bình thường. Khi nghe chuyện bất thường (bài "gian lận", "AA luôn thua"), hãy tính điểm z trước khi tin.
 - **Người làm tài chính và đầu tư:** quy luật căn bậc hai chính là lý do biến động (volatility) hằng năm bằng biến động hằng ngày nhân khoảng √252 (số ngày giao dịch), và lý do một chiến lược có tỷ số Sharpe thấp cần nhiều năm dữ liệu mới phân biệt được với may rủi: tỷ số kỳ vọng trên độ lệch chuẩn của N kỳ tăng theo √N, đúng như bảng cuối chương. Ví dụ phiên 300 tay (thắng 55% số phiên dù có lợi thế) tương ứng với việc một quỹ tốt vẫn có nhiều tháng lỗ. Bài học về đuôi xa (xấp xỉ chuẩn sai hàng chục bậc ở z ≈ −24) là lời nhắc rằng mô hình chuẩn đánh giá thấp rủi ro cực đoan trên thị trường.
 - **Người ra quyết định nói chung:** đánh giá một người, một chiến lược hay một chính sách cần đủ dữ liệu để kỳ vọng vượt độ nhiễu; trước khi kết luận từ một chuỗi kết quả, hãy hỏi kết quả đó cách kỳ vọng bao nhiêu độ lệch chuẩn, và dữ liệu có bị chọn lọc bởi trí nhớ hay không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (phương sai và độ lệch chuẩn, quy luật căn bậc hai và phân phối chuẩn, trò xúc xắc D₂, phiên 300 tay và ví dụ AK đấu AQ, bảng cỡ mẫu và luật số lớn), mỗi nhánh ghi định nghĩa, công thức và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: phương sai cộng dồn nên độ lệch chuẩn chỉ tăng theo √N, kết quả mỗi ván dồn dần về kỳ vọng`"]
+  n1["`Mục 1–3 — Phương sai đo kết quả có thể cách kỳ vọng bao xa`"]
+  n0 --- n1
+  n2["`Kỳ vọng đo trung bình thắng bao nhiêu, phương sai đo kết quả cụ thể cách kỳ vọng bao xa`"]
+  n1 --- n2
+  n3["`Trong poker variance hay bị hiểu là chuỗi thua, khiến người chơi coi chuỗi thắng là tỷ lệ thắng thật`"]
+  n1 --- n3
+  n4["`Tổng thể là phân phối kết quả thật, mẫu là kết quả quan sát được, ta chỉ có mẫu`"]
+  n1 --- n4
+  n5["`V#95;P = Σ pᵢ(xᵢ − ⟨P⟩)², luôn không âm, bằng 0 khi mọi kết cục như nhau`"]
+  n1 --- n5
+  n6["`Cùng kỳ vọng 0: đồng xu ăn thua 1 có V = 1, xúc xắc trả 5 ăn 1 mặt sáu có V = 5`"]
+  n1 --- n6
+  n7["`Ván lỏng–hung hăng có phương sai cao hơn ván chặt–thụ động`"]
+  n1 --- n7
+  n8["`Value bet mỏng, semi-bluff raise tăng phương sai, kỳ vọng hoặc cả hai, chơi quá chặt có thể giảm cả hai`"]
+  n1 --- n8
+  n9["`Ngoài Phần IV, phương sai chỉ là đại lượng mô tả, không chỉ định hành động như kỳ vọng`"]
+  n1 --- n9
+  n10["`Phương sai cộng dồn qua các lần thử độc lập: nhận cược xúc xắc hai lần thì V = 10`"]
+  n1 --- n10
+  n11["`Độ lệch chuẩn σ = √V cùng đơn vị với kỳ vọng, cược xúc xắc có σ = √5 ≈ 2,24`"]
+  n1 --- n11
+  n12["`Mục 4–5 — Quy luật căn bậc hai, định lý giới hạn trung tâm, điểm z`"]
+  n0 --- n12
+  n13["`Biến ngẫu nhiên là một kết quả rút từ phân phối, mẫu (theo cách gọi của sách) là tổng nhiều lần thử`"]
+  n12 --- n13
+  n14["`σ²#95;N = Nσ², σ#95;N = σ√N: độ lệch chuẩn không cộng dồn mà tăng theo √N`"]
+  n12 --- n14
+  n15["`Một lần tung đồng xu σ = 1/2, 100 lần có phương sai 25, σ = 5 chứ không phải 50`"]
+  n12 --- n15
+  n16["`Định lý giới hạn trung tâm: cỡ mẫu càng lớn, phân phối lấy mẫu càng gần phân phối chuẩn`"]
+  n12 --- n16
+  n17["`Mật độ chuẩn N(x, μ, σ) = [1/(σ√(2π))]·exp(−(x − μ)²/(2σ²)), hình chuông, tổng diện tích 1`"]
+  n12 --- n17
+  n18["`Điểm z = (x − μ)/σ là số độ lệch chuẩn x cách trung bình`"]
+  n12 --- n18
+  n19["`Φ(z) là diện tích bên trái z dưới đường chuẩn tắc, Φ(0) = 0,5`"]
+  n12 --- n19
+  n20["`Xác suất giữa x₁ #lt; x₂ là Φ((x₂ − μ)/σ) − Φ((x₁ − μ)/σ)`"]
+  n12 --- n20
+  n21["`Khoảng μ ± σ, μ ± 2σ, μ ± 3σ chứa khoảng 68%, 95,5%, 99,7% kết quả`"]
+  n12 --- n21
+  n22["`Mục 6 — Trò xúc xắc D₂ qua 200 lần gieo`"]
+  n0 --- n22
+  n23["`D₂: ra 1–5 thua 1, ra 6 thắng 6, kỳ vọng 1/6 đơn vị mỗi lần`"]
+  n22 --- n23
+  n24["`V = 1.470/216 ≈ 6,806, σ ≈ 2,61, sau 200 lần μ ≈ 33,33 và σ₂₀₀ ≈ 36,89`"]
+  n22 --- n24
+  n25["`Đang thắng: z = −0,9035, xấp xỉ chuẩn 81,69%, tính trực tiếp 81,96%`"]
+  n22 --- n25
+  n26["`Thắng ít nhất 40 đơn vị: z = 0,1807, xấp xỉ chuẩn 42,83%, tính trực tiếp 40,46%`"]
+  n22 --- n26
+  n27["`Thắng ít nhất 100 đơn vị: z = 1,8070, xấp xỉ chuẩn 3,54%, tính trực tiếp 4,44%`"]
+  n22 --- n27
+  n28["`Chênh lệch do kết quả rời rạc 7W − 200: có +38, +45 nhưng không có +39 hay +42`"]
+  n22 --- n28
+  n29["`Mục 7–8 — Dùng σ√N trả lời câu hỏi poker thật`"]
+  n0 --- n29
+  n30["`Phiên 300 tay của người thắng 0,015 bet/tay, σ = 2 bet/tay chỉ thắng 55,17% số phiên`"]
+  n29 --- n30
+  n31["`μ₃₀₀ = 4,5 bet, σ₃₀₀ ≈ 34,6 bet, z₀ = −0,1299, Φ = 44,83%`"]
+  n30 --- n31
+  n32["`Kỳ vọng phiên chỉ khoảng 0,13 độ lệch chuẩn: cứ khoảng 9 phiên có 4 phiên thua`"]
+  n30 --- n32
+  n33["`Thực tế người chơi đổi thói quen vì tâm lý, tỷ lệ thắng dao động theo điều kiện ván`"]
+  n30 --- n33
+  n34["`AK đấu AQ chia 50–50 sau 2.000 lần all-in nằm cách kỳ vọng khoảng 23,8 độ lệch chuẩn`"]
+  n29 --- n34
+  n35["`AK thắng AQ khoảng 73,5%: V = 0,1948, σ = 0,4413`"]
+  n34 --- n35
+  n36["`μ₂₀₀₀ = 1.470, σ₂₀₀₀ = 19,737, z = (1.000 − 1.470)/19,737 ≈ −23,8, bảng tính trả về 0`"]
+  n34 --- n36
+  n37["`Giải thích hợp lý: phóng đại, nói dối, thiên lệch nhận thức hoặc trang web gian lận`"]
+  n34 --- n37
+  n38["`Đừng lẫn phương sai cao của tiền thắng thua với phương sai thấp của biến ai thắng một lần all-in`"]
+  n34 --- n38
+  n39["`Mục 9–10 — Định lý giới hạn trung tâm áp vào poker và luật số lớn`"]
+  n0 --- n39
+  n40["`Kết quả mỗi tay như một biến ngẫu nhiên, phiên, tháng, cả sự nghiệp là các mẫu`"]
+  n39 --- n40
+  n41["`Người thắng 75 đô la/100 tay, σ = 80 đô la/tay, khoảng 95,5% là μ#95;N ± 2σ#95;N`"]
+  n39 --- n41
+  n42["`Sau 100 tay: từ lỗ 1.525 tới lãi 1.675 đô la`"]
+  n41 --- n42
+  n43["`Sau 5.000 tay cận dưới xấu nhất: lỗ 7.563,71 đô la`"]
+  n41 --- n43
+  n44["`Sau 50.000 tay cận dưới mới dương (1.722,91), sau 1 triệu tay là 590.000 tới 910.000 đô la`"]
+  n41 --- n44
+  n45["`Cận dưới bằng 0 khi 0,75N = 2 × 80√N, tức N ≈ 45.500 tay`"]
+  n41 --- n45
+  n46["`Luật số lớn: σ tuyệt đối tăng 100 lần nhưng tính trên mỗi tay giảm 100 lần, từ 8 xuống 0,08 đô la`"]
+  n39 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Kỳ vọng tăng theo N, độ lệch chuẩn chỉ theo √N, nên về dài hạn kỳ vọng thắng thế`"]
+  n47 --- n48
+  n49["`Đừng đánh giá trình độ qua vài nghìn tay, phương sai có hai phía`"]
+  n47 --- n49
+  n50["`Gặp câu chuyện bất thường, tính điểm z trước khi tin, cẩn thận với trí nhớ thiên lệch`"]
+  n47 --- n50
+  n51["`Xấp xỉ chuẩn kém ở đuôi xa: z ≈ −23,8 cho khoảng 10⁻¹²⁵, nhị thức chính xác khoảng 10⁻¹¹⁰`"]
+  n47 --- n51
+  n52["`Giả định biết trước μ, σ và các tay độc lập, Chương 3 và 23 mới xử lý độ bất định`"]
+  n47 --- n52
+  class n0 root
+  class n1,n12,n22,n29,n39,n47 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 2 "Predicting the Future: Variance and Sample Outcomes", trang 26–36.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)) định nghĩa xác suất, phân phối và kỳ vọng, và đặt kỳ vọng làm tiêu chí ra quyết định. Chương 2 thêm đặc trưng thứ hai của một phân phối có giá trị: **phương sai**, đo kết quả thực tế có thể lệch khỏi kỳ vọng bao xa.
+
+Chương giới thiệu độ lệch chuẩn, quy luật căn bậc hai (độ lệch chuẩn của N lần thử bằng σ√N), phân phối chuẩn, định lý giới hạn trung tâm và điểm z, rồi dùng chúng để trả lời "bao lâu thì có một phiên thắng?" và để kiểm tra một khẳng định khả nghi về AK đấu AQ.
+
+Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) đi theo chiều ngược lại — từ kết quả quan sát suy ra tham số (tỷ lệ thắng thật) — và dùng lại độ lệch chuẩn của mẫu ở đây. Phương sai chỉ được dùng để *mô tả* cho tới Phần IV, nơi nó trở thành yếu tố quyết định trong mô hình rủi ro phá sản ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), [C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)) và tiêu chuẩn Kelly ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)).
+
+## Lưu ý
+
+- **Phạm vi trang:** mục lục in trong sách ghi Chương 2 ở trang 24; theo chân trang của PDF này là trang 26–36 (trang 36 chỉ có nửa câu cuối của mục Key Concepts).
+- **Lỗi in "1/16" (trang 27):** câu về cược 5 ăn 1 vào xúc xắc viết "1/16 số lần, bạn nhận khoản trả cách kỳ vọng 5 đơn vị"; đúng là **1/6** (xác suất ra mặt sáu), như phép tính phương sai ngay sau dùng 1/6.
+- **Công thức (2.1) bị vỡ trong bản PDF:** trên ảnh trang chỉ còn các mảnh "xᵢ − ¿P>¿", "pᵢ¿", "V_p = Σ ¿". Công thức đúng, khớp với lời mô tả và các phép tính của sách, là V_P = Σ (i = 1..n) pᵢ(xᵢ − ⟨P⟩)².
+- **"Phương sai luôn dương" (trang 27):** đúng ra là luôn **không âm**: phương sai bằng 0 khi mọi kết cục bằng nhau (ví dụ "không cược", luôn được 0).
+- **Thiếu dấu trừ trong công thức mật độ chuẩn (2.5), trang 29:** sách in N(x, μ, σ) = [1/(σ√(2π))] exp((x − μ)²/(2σ²)); đúng là exp(−(x − μ)²/(2σ²)). Không có dấu trừ, hàm tăng vô hạn ở hai đầu và không phải hình chuông như hình vẽ ngay trên. Công thức (2.7) cũng thiếu "dx" sau hàm dưới dấu tích phân.
+- **Công thức (2.8), trang 30, đảo thứ tự hai số hạng:** sách in p = Φ((x₁ − μ)/σ) − Φ((x₂ − μ)/σ). Với x₁ < x₂ (như Hình 2.1 vẽ), biểu thức này âm; đúng là p = Φ((x₂ − μ)/σ) − Φ((x₁ − μ)/σ). Câu dẫn cũng gọi x₁, x₂ là "hai điểm z" trong khi chúng là hai giá trị chưa chuẩn hoá.
+- **Diễn giải sai Φ(0,1807) (trang 32):** sách viết Φ(0,1807) "là xác suất kết quả nằm bên trái 40 đơn vị, *hay là ta thua ít nhất 40 đơn vị*". Phần sau sai: Φ(0,1807) là xác suất kết quả nhỏ hơn +40 đơn vị (gồm cả thắng ít hơn 40 và thua); con số 0,4283 sau đó vẫn đúng.
+- **Đơn vị của phương sai (nhận xét của người tổng hợp):** sách nói phương sai đo bằng "đơn vị kỳ vọng bình phương trên số lần thử bình phương" và ghi 6,806 units²/trial². Vì phương sai cộng dồn tuyến tính theo số lần thử (sách vừa nói), đơn vị hợp lý là units² trên *một* lần thử; chỉ độ lệch chuẩn mới tăng theo √N. Tương tự, "phương sai 6.400 đô la mỗi tay" (trang 35) đúng ra là 6.400 (đô la)² mỗi tay, tức độ lệch chuẩn 80 đô la mỗi tay.
+- **Cách nói "nhỏ hơn hơn một trăm lần" (trang 35) không chính xác:** so 1 triệu tay với 100 tay, độ lệch chuẩn lớn gấp đúng 100 lần (80.000 / 800) và độ lệch chuẩn tính trên mỗi tay nhỏ đi **đúng** 100 lần (800/100 = 8 đô la mỗi tay so với 80.000/1.000.000 = 0,08 đô la mỗi tay), không phải "hơn một trăm lần".
+- **Kiểm tra lại các con số:** người tổng hợp đã tính lại toàn bộ: phương sai D₂ = 1.470/216 ≈ 6,8056; σ = 2,6087; σ₂₀₀ = 36,89; các điểm z −0,9035; 0,1807; 1,8070 và các giá trị Φ 0,1831; 0,5717; 0,9646; ba xác suất "tính trực tiếp" 81,96%, 40,46%, 4,44% (bằng phân phối nhị thức 200 lần, p = 1/6); phiên 300 tay (σ₃₀₀ = 34,64, z = −0,1299, 55,17%); ví dụ AK–AQ (V = 0,194775, σ = 0,4413, σ₂₀₀₀ = 19,737, z ≈ −23,81); và cả tám dòng bảng cuối chương. Tất cả khớp sách. Các giá trị chuẩn 0,68; 0,955; 0,997 chính xác hơn là 0,6827; 0,9545; 0,9973.
+- **Lỗi đánh máy và định dạng:** "Greek letter a (sigma)" là σ; "additiveю" thừa ký tự; "flip a com" là "coin"; "p = 0.55171" thừa chữ số (0,5517); "Φ(0,1807) = 0,5717" và "3,54%" dùng dấu phẩy thập phân lẫn với dấu chấm; "Fust" là "First"; "cither" là "either"; "docs" là "does"; "whining a big pot" là "winning"; "S75" là "$75"; trong bảng cuối chương "$590.000.00" là $590,000.00 và hai ô "$37500.00", "$17888.54" thiếu dấu phân cách hàng nghìn. Chú thích Hình 2.1 bị cắt ("A = p(event between x, and"), ý đầy đủ là "A = p(sự kiện nằm giữa x₁ và x₂)". Trang 34 có "my spreadsheet program" — ngôi thứ nhất số ít trong một sách hai tác giả.
+- **Đuôi xa của phân phối chuẩn (nhận xét của người tổng hợp):** với z ≈ −23,8, xấp xỉ chuẩn cho xác suất cỡ 10⁻¹²⁵, còn phân phối nhị thức chính xác (2.000 lần, p = 0,735, không quá 1.000 lần AK thắng) cho khoảng 10⁻¹¹⁰. Xấp xỉ chuẩn sai hàng chục bậc độ lớn ở đuôi xa, nhưng kết luận của sách — xác suất nhỏ tới mức có thể bỏ qua — không đổi.
+- **Quy ước:** sách gọi tổng của nhiều lần thử là "mẫu" (sample) và gọi phân phối của tổng đó là "phân phối lấy mẫu"; bản tổng hợp giữ cách gọi này. Số thập phân viết bằng dấu phẩy; hình đọc từ ảnh trang ghi là ước lượng.

@@ -1,20 +1,26 @@
 # Chương 5 — "Bói bài Tarot một cách khoa học": đọc bài và đọc chiến lược (Scientific Tarot: Reading Hands and Strategies)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 5 "Scientific Tarot: Reading Hands and Strategies", trang 62–72.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) đã giới thiệu định lý Bayes và khẳng định suy luận Bayes là "trái tim của việc đọc bài và chơi khai thác". Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) mở Phần II, định nghĩa chơi khai thác là tối đa hoá kỳ vọng trước chiến lược của đối thủ, và mô tả nó là quy trình hai bước: (1) thu thập thông tin về bài và chiến lược đối thủ, (2) chọn hành động. Chương 5 là bước (1): đọc bài là suy luận Bayes về **phân phối tay bài** của đối thủ; đọc chiến lược là ước lượng đối thủ chơi từng tay trong phân phối đó ra sao; đọc tell là thêm một lớp Bayes. Chương 6 ([C06-poker-truc-tuyen.md](C06-poker-truc-tuyen.md)) bàn thông tin có được khi chơi online. Chương 7–9 ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md), [C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md), [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) là bước (2): chơi chính xác trước bài lật ngửa, trước một phân phối, rồi thích nghi; Chương 8 quay lại đúng ván stud của Ví dụ 5.1 để quyết định bet hay check ở sixth street.
-**Ý chính:** **"Đọc" đối thủ không phải là phép màu đoán đúng một lá bài, mà chủ yếu là suy luận Bayes dựa trên cách cược (cộng một điều chỉnh, thường nhỏ, cho tell): ta không bao giờ gán cho đối thủ một tay bài duy nhất mà duy trì một phân phối xác suất trên mọi tay họ có thể cầm, rồi thu hẹp nó theo từng lá bài lộ ra và từng hành động; còn việc đọc chiến lược của đối thủ khó hơn nhiều so với người chơi thường nghĩ, vì dữ liệu quan sát được rất ít.** Phần mở đầu kể ván satellite no-limit: tác giả call all-in 2.100 chip với A♥8♥ không phải vì "đoán" đối thủ cầm bài gì, mà vì trước phân phối "mọi lá A, mọi đôi, vài lá K tốt, T9 cùng chất…" A♥8♥ có gần 50% equity (người tổng hợp mô phỏng: 48–50%, trong khi chỉ cần khoảng 41%), dù đối thủ thực ra cầm AK khác chất. Mục "Advanced Hand Reading" nêu phương pháp: bắt đầu từ phân phối đều trên mọi cặp lá kín (đã trừ các lá ta thấy), cập nhật theo lá lộ ra và theo xác suất đối thủ hành động như vậy với từng tay, giữ một xác suất nhỏ "mất trí" cho hành động bất thường, và thêm tell như một lớp Bayes nữa. Ví dụ 5.1 (stud tám-hoặc-tốt-hơn, 30–60 USD) dựng phân phối của đối thủ qua từng vòng, từ danh sách bài raise ở third street tới 16 tổ hợp lá kín ở sixth street (AA 1, Q♣Qx 3, QxQy 3, J♣Jx 2, JxJy 1, hai lá chuồn nhỏ 6). Mục "Reading Strategies" liệt kê bốn nguồn thông tin (bằng chứng trực tiếp ở showdown, bài đối thủ tự lật, tần suất hành động, phân loại người chơi) và chỉ ra giới hạn: sau 1.000 tay chỉ khoảng 100 tay được lật; 121 tay ở vị trí under the gun với tỷ lệ raise 10% cho khoảng tin cậy 95% từ 4% tới 16%; người chơi đổi chiến lược; não người thấy mẫu hình ở cả dữ liệu ngẫu nhiên; thấy người chơi chặt lật AA không chứng minh họ chặt. Mục "Reading Tells" coi đọc tell như chẩn đoán bệnh: giá trị của tell phụ thuộc vào xác suất dương tính giả. Cuối chương mô tả ba kiểu người chơi yếu dễ nhận ra và cách khai thác: maniac, rock, calling station.
+## Ý chính
 
-> **Lưu ý:**
-> - **Ví dụ 5.1, lá A trong tay bị đổi chất:** ở third street và fifth street, lá kín của ta là (5♣ A♥); ở bảng tóm tắt sixth street sách ghi (5♣ A♠) trong khi lá ngửa mới cũng là A♠, nên A♠ xuất hiện hai lần. Đúng là (5♣ A♥) 4♥ 8♠ J♥ A♠. Phép đếm "AA của đối thủ chỉ còn một tổ hợp A♣A♦" khớp với cách đọc này.
-> - **Ví dụ 5.1, ký hiệu "-1", "-3"… trong bảng tổ hợp:** dấu gạch là dấu phân cách, không phải dấu âm; các số là số tổ hợp lá kín (AA: 1; Q♣Qx: 3; …).
-> - **Câu "All AA hands contain the ace of clubs, of course — we have the other aces in our hand!":** ta chỉ giữ hai lá A (A♥ kín và A♠ ngửa); ý đúng là hai lá A còn lại là A♣ và A♦, nên đôi AA duy nhất có thể là A♣A♦ và tất nhiên chứa A♣.
-> - **Các công thức ở mục "Reading Tells" bị viết rối (đã đối chiếu ảnh trang 70–71):** sách viết "p(T | A) = p(A ∩ T) / p(A)" gọi là định lý Bayes (phương trình 3.1), rồi "p(A ∩ T) = p(T) p(A ∨ T)" — ký hiệu "∨" ở đây là cách dựng chữ của dấu "|" nên vế phải là p(T) p(A | T). Câu then chốt "We also know that p(A | T) = p(A ∩ T) + p(Ā + T)" sai hai chỗ: vế trái phải là **p(T)** (chính lời giải thích ngay sau nói "xác suất T xảy ra"), và "Ā + T" phải là **Ā ∩ T** (A không xảy ra nhưng T xảy ra). Công thức đúng: p(T) = p(A ∩ T) + p(Ā ∩ T), nên p(A | T) = p(A ∩ T) / [p(A ∩ T) + p(Ā ∩ T)]. Lỗi "p(Ā + T)" lặp lại ở trang 71. Sách cũng dùng lẫn ký hiệu τ và T cho cùng một tell.
-> - **Satellite: số liệu do người tổng hợp tính:** sách chỉ nói A♥8♥ có "gần 50% equity" trước phân phối đối thủ. Người tổng hợp mô phỏng (8.000 ván mỗi phân phối): trước "mọi lá A, mọi đôi, KQ, KJ" A♥8♥ có khoảng 48%; thêm KT và T9s, 98s, 87s, JTs thì khoảng 50%; trước riêng AK khác chất (9 tổ hợp) chỉ khoảng 30%. Ngưỡng hoà vốn theo chip: call 1.800 (đã có 300 big blind) vào pot cuối 2.100 + 2.100 + 150 = 4.350, tức cần 41,4%. Sách không bàn yếu tố đặc thù của satellite (giá trị chip không tuyến tính), sẽ được bàn ở Phần V.
-> - **Khoảng tin cậy cho tỷ lệ raise 10% trên 121 tay:** sai số chuẩn √(0,1 × 0,9 / 121) ≈ 2,7%, nên khoảng ±2 sai số chuẩn là 4,5%–15,5%, sách làm tròn thành 4%–16%. Phân phối {TT+, AK, AQs} có 50 tổ hợp, tức 3,8% của 1.326 tổ hợp; {66+, AT+, KJ+, QJ, JT, T9} có 198 tổ hợp, tức 14,9% — sách ghi 16% "hoặc biến thể nào đó" (người tổng hợp tính).
-> - **Pot 345 USD ở sixth street:** sách không nói số người chơi; người tổng hợp kiểm tra rằng con số khớp với bàn bảy người (năm người fold cộng ta và đối thủ): ante 7 × 5 = 35; third street 10 (bring-in) + 60 + 60 = 130; fourth street 2 × 30 = 60; fifth street 2 × 60 = 120; tổng 345 USD.
-> - **Lớp chữ:** "mat" là "that"; "theft" là "their"; "-elated" là "related"; "'normally small)" là "(normally small)"; "single -and that" là "single hand that"; "litde" là "little"; "send-automatically" là "semi-automatically"; "dearly" là "clearly"; "ran firming" là "confirming"; "mates for" là "makes for"; "Hushes" là "flushes"; "imitations" là "limitations"; "horn" là "from"; "ethers" là "others". Bản tổng hợp đọc lại các danh sách tay bài và công thức từ ảnh trang.
-> - **Quy ước:** trong stud, lá trong ngoặc là lá kín (úp), lá ngoài ngoặc là lá ngửa; "X♣Y♣" là hai lá chuồn nhỏ bất kỳ; "Qx", "Qy" là lá Q không phải chuồn. "Range" (phạm vi bài) được dịch là "phân phối tay bài" theo cách sách dùng "distribution".
+**"Đọc" đối thủ không phải là phép màu đoán đúng một lá bài, mà chủ yếu là suy luận Bayes dựa trên cách cược (cộng một điều chỉnh, thường nhỏ, cho tell): ta không bao giờ gán cho đối thủ một tay bài duy nhất mà duy trì một phân phối xác suất trên mọi tay họ có thể cầm, rồi thu hẹp nó theo từng lá bài lộ ra và từng hành động; còn việc đọc chiến lược của đối thủ khó hơn nhiều so với người chơi thường nghĩ, vì dữ liệu quan sát được rất ít.**
+
+Phần mở đầu kể ván satellite no-limit: tác giả call all-in 2.100 chip với A♥8♥ không phải vì "đoán" đối thủ cầm bài gì, mà vì trước phân phối "mọi lá A, mọi đôi, vài lá K tốt, T9 cùng chất…" A♥8♥ có gần 50% equity (người tổng hợp mô phỏng: 48–50%, trong khi chỉ cần khoảng 41%), dù đối thủ thực ra cầm AK khác chất.
+
+Mục "Advanced Hand Reading" nêu phương pháp: bắt đầu từ phân phối đều trên mọi cặp lá kín (đã trừ các lá ta thấy), cập nhật theo lá lộ ra và theo xác suất đối thủ hành động như vậy với từng tay, giữ một xác suất nhỏ "mất trí" cho hành động bất thường, và thêm tell như một lớp Bayes nữa.
+
+Ví dụ 5.1 (stud tám-hoặc-tốt-hơn, 30–60 USD) dựng phân phối của đối thủ qua từng vòng, từ danh sách bài raise ở third street tới 16 tổ hợp lá kín ở sixth street (AA 1, Q♣Qx 3, QxQy 3, J♣Jx 2, JxJy 1, hai lá chuồn nhỏ 6).
+
+Mục "Reading Strategies" liệt kê bốn nguồn thông tin (bằng chứng trực tiếp ở showdown, bài đối thủ tự lật, tần suất hành động, phân loại người chơi) và chỉ ra giới hạn:
+
+- sau 1.000 tay chỉ khoảng 100 tay được lật
+- 121 tay ở vị trí under the gun với tỷ lệ raise 10% cho khoảng tin cậy 95% từ 4% tới 16%
+- người chơi đổi chiến lược
+- não người thấy mẫu hình ở cả dữ liệu ngẫu nhiên
+- thấy người chơi chặt lật AA không chứng minh họ chặt
+
+Mục "Reading Tells" coi đọc tell như chẩn đoán bệnh: giá trị của tell phụ thuộc vào xác suất dương tính giả.
+
+Cuối chương mô tả ba kiểu người chơi yếu dễ nhận ra và cách khai thác: maniac, rock, calling station.
 
 ## Sơ đồ
 
@@ -389,10 +395,10 @@ Giả sử đối thủ call. Ta tạm thu hẹp tay của họ xuống các đ�
 
 Ta rút A♠, đối thủ rút 3♣. Ta có một quyết định.
 
-- Ta: (5♣ A♥) 4♥ 8♠ J♥ A♠ (sách in nhầm lá kín thành A♠; xem khối Lưu ý)
+- Ta: (5♣ A♥) 4♥ 8♠ J♥ A♠ (sách in nhầm lá kín thành A♠; xem mục Lưu ý cuối chương)
 - Đối thủ: (??) 6♣ T♦ K♣ 3♣
 
-Pot có 345 USD (người tổng hợp kiểm tra: khớp với bàn bảy người, xem khối Lưu ý). Câu hỏi: có nên bet? Nhiều người sẽ gần như tự động bet với đôi A và draw thấp. Nhưng với các giả định trên, tay này mạnh đến đâu? Và quan trọng không kém, quyết định sát đến đâu — nếu đổi giả định một chút, toàn bộ phân tích có đổi không? Để trả lời, phải xét phân phối giả định của đối thủ và EV của ta trước toàn bộ phân phối đó (Chương 8).
+Pot có 345 USD (người tổng hợp kiểm tra: khớp với bàn bảy người, xem mục Lưu ý cuối chương). Câu hỏi: có nên bet? Nhiều người sẽ gần như tự động bet với đôi A và draw thấp. Nhưng với các giả định trên, tay này mạnh đến đâu? Và quan trọng không kém, quyết định sát đến đâu — nếu đổi giả định một chút, toàn bộ phân tích có đổi không? Để trả lời, phải xét phân phối giả định của đối thủ và EV của ta trước toàn bộ phân phối đó (Chương 8).
 
 Trước hết, xác định các tay đối thủ có thể cầm, tạm bỏ qua nhóm "mất trí" (sẽ kiểm tra lại kết quả với các phân phối có thêm tay thuộc nhóm này). Dựa trên cách đối thủ chơi suốt ván, có bốn nhóm: (AA), (X♣Y♣), (QQ), (JJ), cùng với 6♣ T♦ K♣ 3♣ ngửa. Giờ phải chia nhỏ QQ và JJ thành tay có lá chuồn tương ứng và tay không có:
 
@@ -461,7 +467,11 @@ Do đó, có vẻ nguồn thông tin chính về lối chơi của đối thủ 
 
 **Não người thấy mẫu hình không có thật.** Bộ óc con người rất giỏi thấy mẫu hình, kể cả trong chuỗi ngẫu nhiên. Nhiều nghiên cứu tâm lý học xác nhận rằng người ta thường mô tả mẫu hình nền trong dữ liệu được đưa cho họ, ngay cả khi dữ liệu được sinh ngẫu nhiên và không có mẫu hình nào. Vì vậy ta nên chủ động tìm thông tin xác nhận hoặc bác bỏ giả thuyết của mình; nhưng như đã thấy, thông tin đó thường khó có vì ít cơ hội quan sát.
 
-**Đừng coi bằng chứng không xác nhận là bằng chứng xác nhận.** Ví dụ: một người chơi hold'em fold mọi tay trong vài vòng đầu, rồi chơi một tay và ở showdown lật AA. Nhiều người sẽ coi đó là bằng chứng xác nhận người này chơi chặt trước flop. Nhưng việc họ chơi AA không phải bằng chứng họ chặt — chỉ là bằng chứng họ được chia AA, vì mọi chiến lược hợp lý đều chơi AA trước flop. Ba mươi tay họ fold trước đó mới là bằng chứng về sự chặt; việc lật AA không thêm gì vào bằng chứng có sẵn, dù nó tạo nên một câu chuyện hay ("Gã này fold ba mươi tay liền. Rồi chơi một tay, và đó là đôi A"). Người tổng hợp diễn giải bằng ngôn ngữ Bayes: tỷ số hợp lý p(chơi AA | chặt) / p(chơi AA | lỏng) xấp xỉ 1, nên quan sát này không làm dịch chuyển xác suất hậu nghiệm.
+**Đừng coi bằng chứng không xác nhận là bằng chứng xác nhận.** Ví dụ: một người chơi hold'em fold mọi tay trong vài vòng đầu, rồi chơi một tay và ở showdown lật AA. Nhiều người sẽ coi đó là bằng chứng xác nhận người này chơi chặt trước flop.
+
+Nhưng việc họ chơi AA không phải bằng chứng họ chặt — chỉ là bằng chứng họ được chia AA, vì mọi chiến lược hợp lý đều chơi AA trước flop. Ba mươi tay họ fold trước đó mới là bằng chứng về sự chặt; việc lật AA không thêm gì vào bằng chứng có sẵn, dù nó tạo nên một câu chuyện hay ("Gã này fold ba mươi tay liền. Rồi chơi một tay, và đó là đôi A").
+
+Người tổng hợp diễn giải bằng ngôn ngữ Bayes: tỷ số hợp lý p(chơi AA | chặt) / p(chơi AA | lỏng) xấp xỉ 1, nên quan sát này không làm dịch chuyển xác suất hậu nghiệm.
 
 Đoạn này có thể tạo ấn tượng tác giả rất bi quan về việc đọc chiến lược. Không phải vậy: tác giả cho rằng công sức đòi hỏi cao và giá trị đôi khi đáng ngờ của thông tin trái ngược hẳn với nhận thức của nhiều người chơi, những người tin rằng có thể đánh giá nhanh và chính xác chiến lược của một người chơi hợp lý chỉ sau vài giờ ngồi cùng bàn. Việc mô tả lối chơi của một người từ dữ liệu rất hạn chế thường chỉ cho một cảm nhận mơ hồ về cách họ có thể chơi, thiếu các chi tiết làm cho việc khai thác thật sự có lời.
 
@@ -486,7 +496,7 @@ Kỹ năng nằm ở chỗ đảo ngược mạng Bayes và đánh giá chính x
 - p(A | T) = p(A ∩ T) / p(T);
 - p(T) = p(A ∩ T) + p(Ā ∩ T): xác suất T xảy ra bằng xác suất A và T cùng xảy ra cộng xác suất A không xảy ra nhưng T xảy ra.
 
-Vậy p(A | T) = p(A ∩ T) / [p(A ∩ T) + p(Ā ∩ T)] = p(T | A)p(A) / [p(T | A)p(A) + p(T | Ā)p(Ā)]. (Sách viết các công thức này với vài ký hiệu sai; xem khối Lưu ý.)
+Vậy p(A | T) = p(A ∩ T) / [p(A ∩ T) + p(Ā ∩ T)] = p(T | A)p(A) / [p(T | A)p(A) + p(T | Ā)p(Ā)]. (Sách viết các công thức này với vài ký hiệu sai; xem mục Lưu ý cuối chương.)
 
 Số hạng thứ hai, p(Ā ∩ T), rất quan trọng: nó là xác suất **dương tính giả** — tần suất ta thấy tell mà nó không mang nghĩa ta gán cho nó. Tell rất hiếm khi dương tính giả thì rất giá trị, vì p(A | T) tiến tới 100%. Ví dụ: một người chưa hành động không giữ bài và, chẳng hạn, quay đi khỏi bàn. Tell này hầu như không bao giờ dương tính giả, vì người có bài mạnh sẽ không làm vậy.
 
@@ -504,7 +514,9 @@ Tin tốt hơn cho chơi khai thác: có những kiểu người chơi phổ bi�
 - **Rock:** người chơi cực kỳ chặt và thường khá thụ động, chỉ vào pot với bài rất mạnh và thường không lấy được giá trị từ các bài đó. Rock hiếm khi bluff, thích sự an toàn của bài mạnh. Khai thác rock về cơ bản là cướp blind của họ và cướp pot trên flop khi cả hai cùng trượt.
 - **Calling station:** người chơi lỏng nhưng thụ động, thường call nhiều hoặc mọi vòng với bài yếu hoặc draw yếu. Họ có sự bền bỉ của người chơi giỏi nhưng không lấy giá trị từ bài của mình đúng cách. Khai thác thường là value bet thêm những bài yếu hơn hẳn phạm vi bet bình thường, vì các bet này nay có giá trị trước phạm vi call rộng của calling station.
 
-Các chiến lược này dễ nhận ra và mô tả vì chúng thể hiện khá nhanh trong các nguồn thông tin chính đã bàn. Sau 100 tay, người raise 8% số tay ở một vị trí gần như không phân biệt được với người raise 12% (người tổng hợp tính: sai số chuẩn khoảng 2,7% và 3,2%, nên khoảng ±2 sai số chuẩn của hai người chồng lên nhau gần hết); nhưng dễ nhận ra người raise, chẳng hạn, 50% số tay. Còn với người chỉ raise một tay trong một trăm, đi tới showdown và tay đó tình cờ là đôi A kín, ta dùng được định lý Bayes để kết luận về xu hướng của họ. Dĩ nhiên người chơi theo các chiến lược này ở các mức độ khác nhau: maniac cực đoan có thể là "raise-bot", raise nhiều chip nhất có thể ở mọi cơ hội — tương đối dễ thắng. Maniac càng tiết chế sự hung hãn ở những chỗ rõ ràng là cửa dưới, càng tiến gần tới chơi tốt, càng khó khai thác, và việc khai thác càng kém giá trị.
+Các chiến lược này dễ nhận ra và mô tả vì chúng thể hiện khá nhanh trong các nguồn thông tin chính đã bàn. Sau 100 tay, người raise 8% số tay ở một vị trí gần như không phân biệt được với người raise 12% (người tổng hợp tính: sai số chuẩn khoảng 2,7% và 3,2%, nên khoảng ±2 sai số chuẩn của hai người chồng lên nhau gần hết); nhưng dễ nhận ra người raise, chẳng hạn, 50% số tay. Còn với người chỉ raise một tay trong một trăm, đi tới showdown và tay đó tình cờ là đôi A kín, ta dùng được định lý Bayes để kết luận về xu hướng của họ.
+
+Dĩ nhiên người chơi theo các chiến lược này ở các mức độ khác nhau: maniac cực đoan có thể là "raise-bot", raise nhiều chip nhất có thể ở mọi cơ hội — tương đối dễ thắng. Maniac càng tiết chế sự hung hãn ở những chỗ rõ ràng là cửa dưới, càng tiến gần tới chơi tốt, càng khó khai thác, và việc khai thác càng kém giá trị.
 
 #### Thận trọng khi kết luận đối thủ chơi tệ
 
@@ -699,3 +711,155 @@ Chương biến khái niệm mơ hồ "đọc đối thủ" thành một quy tr�
 - **Người chơi poker:** trước mỗi quyết định lớn, viết ra (trong đầu) phân phối của đối thủ theo nhóm và đếm tổ hợp như Ví dụ 5.1; hỏi equity trước cả phân phối. Chơi "trò chơi đọc bài" để hiệu chỉnh sự tự tin. Ghi chú về đối thủ kèm ngày, và nghi ngờ các ghi chú cũ.
 - **Người làm tài chính và đầu tư:** đọc thị trường cũng là đọc phân phối: thay vì "đoán" một kịch bản (lãi suất sẽ giảm), hãy gán xác suất cho nhiều kịch bản và chọn vị thế tốt trước cả phân phối. Bài học "lật AA" áp dụng cho đánh giá nhà quản lý quỹ: một thương vụ thành công mà mọi nhà quản lý đều làm (mua cổ phiếu lớn trong thị trường tăng) không phải bằng chứng về kỹ năng; bằng chứng là những quyết định khác biệt so với số đông và được kiểm chứng. Thiên lệch chọn mẫu ở showdown giống thiên lệch người sống sót (survivorship bias) trong dữ liệu quỹ.
 - **Người ra quyết định nói chung:** một tín hiệu chỉ có giá trị khi tỷ lệ dương tính giả của nó thấp (như chương trước về xét nghiệm); hãy hỏi "tín hiệu này có xuất hiện ngay cả khi điều tôi nghi ngờ là sai không?". Và đừng loại hẳn khả năng nào — luôn để một xác suất nhỏ cho "đối phương mất trí".
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (đọc đối thủ là suy luận Bayes qua ván satellite, phương pháp đọc bài nâng cao, Ví dụ 5.1 về stud tám-hoặc-tốt-hơn, đọc chiến lược, đọc tell và ba kiểu người chơi yếu), mỗi nhánh ghi phương pháp, công thức, phép đếm tổ hợp và con số then chốt; nhánh cuối là thông điệp xuyên suốt, gom từ phần Các ý then chốt và Luận điểm cốt lõi.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: đọc đối thủ là suy luận Bayes trên phân phối tay bài, không phải đoán một tay`"]
+  n1["`Mục 1 — Đọc đối thủ là suy luận Bayes, không phải đoán một tay`"]
+  n0 --- n1
+  n2["`Đọc đối thủ phần lớn là suy luận Bayes theo cách cược, cộng điều chỉnh thường nhỏ cho tell`"]
+  n1 --- n2
+  n3["`Đoán một tay là sai: reraise bằng đôi nhỏ vì #quot;đối thủ cầm AX#quot; bỏ quên các đôi lớn, mất equity`"]
+  n1 --- n3
+  n4["`Satellite, blind 150–300: đối thủ all-in khoảng 2.100 từ under the gun, tác giả call bằng A♥ 8♥ ở big blind`"]
+  n1 --- n4
+  n5["`Trước phân phối mọi lá A, mọi đôi, vài lá K tốt, T9 cùng chất, A♥ 8♥ có gần 50% equity`"]
+  n1 --- n5
+  n6["`Cần 1.800 / 4.350 ≈ 41,4% equity nên call có lợi, dù trước riêng AK khác chất chỉ khoảng 30%`"]
+  n1 --- n6
+  n7["`Mô phỏng của người tổng hợp: khoảng 48% trước 245 tổ hợp, khoảng 50% trước 275 tổ hợp`"]
+  n5 --- n7
+  n8["`Mục 2 — Phương pháp đọc bài nâng cao`"]
+  n0 --- n8
+  n9["`Không gán một tay bài, mỗi đối thủ có một phân phối xác suất trên mọi tay có thể`"]
+  n8 --- n9
+  n10["`Đầu ván: phân phối đều trên mọi cặp lá kín, đã trừ các lá trong tay ta (hiệu ứng loại lá bài)`"]
+  n8 --- n10
+  n11["`Mỗi hành động: cập nhật theo lá mới lộ ra và theo ước lượng đối thủ làm gì với từng tay`"]
+  n8 --- n11
+  n12["`Giữ xác suất #quot;mất trí#quot;: coi hành động bất thường có xác suất 0 dẫn tới fold lớn sai hoặc call, raise tồi`"]
+  n8 --- n12
+  n13["`Tell là thêm một lớp Bayes: với mỗi tay trong phân phối, xác suất đối thủ để lộ tell này là bao nhiêu`"]
+  n8 --- n13
+  n14["`Đọc bài là quá trình giảm và loại, lý tưởng còn một tay nhưng thực tế thường không thể`"]
+  n8 --- n14
+  n15["`Mục 3 — Ví dụ 5.1: stud tám-hoặc-tốt-hơn, ante 5 USD, cược 30–60 USD`"]
+  n0 --- n15
+  n16["`Third street: ta (5♣ A♥) 4♥ complete lên 30 USD, đối thủ ngửa 6♣ raise lên 60 USD`"]
+  n15 --- n16
+  n17["`Hầu như ai cũng reraise với (AA)6, (KK)6, (66)6 và ba lá chuồn nhỏ có lá A`"]
+  n16 --- n17
+  n18["`T♣ T♠ đã fold nên (TT)6 còn 1 tổ hợp thay vì 6, tức khả năng chỉ bằng 1/6`"]
+  n16 --- n18
+  n19["`Fourth street ít thông tin: đối thủ check rồi call, mức cược sắp gấp đôi nên có thể hoãn raise`"]
+  n15 --- n19
+  n20["`Fifth street sau K♣: (66), (KK) có lẽ raise, (AA), bốn lá chuồn, (QQ), (JJ) có lẽ call, (A2), (A3) có lẽ fold`"]
+  n15 --- n20
+  n21["`Đối thủ call nên phân phối thu hẹp còn các đôi lớn và bốn lá chuồn`"]
+  n20 --- n21
+  n22["`Sixth street, pot 345 USD: còn 16 tổ hợp lá kín`"]
+  n15 --- n22
+  n23["`AA 1, Q♣Qx 3, QxQy 3, J♣Jx 2, JxJy 1, hai lá chuồn nhỏ 6`"]
+  n22 --- n23
+  n24["`Chuồn thấp còn A♣ 4♣ 7♣ 8♣ nên C(4, 2) = 6 cặp, tức 37,5% nếu mọi tổ hợp đồng khả năng`"]
+  n22 --- n24
+  n25["`Bốn nhóm: đôi A, đôi lớn có flush draw, đôi lớn không flush draw, flush thấp đã thành`"]
+  n22 --- n25
+  n26["`Tell vui khi thấy 3♣ có thể giúp tiết kiệm ít nhất một bet nếu đối thủ đã có flush`"]
+  n22 --- n26
+  n27["`Quyết định bet hay check ở sixth street được giải ở Chương 8`"]
+  n15 --- n27
+  n28["`Mục 4 — Đọc chiến lược: bốn nguồn tin và giới hạn`"]
+  n0 --- n28
+  n29["`Bằng chứng trực tiếp ở showdown giá trị nhất vì chắc chắn đúng`"]
+  n28 --- n29
+  n30["`Bài đối thủ tự lật là thật nhưng có thể nhằm tạo hiệu ứng tâm lý`"]
+  n28 --- n30
+  n31["`Bằng chứng gián tiếp là tần suất hành động, kể cả với các tay không lật`"]
+  n28 --- n31
+  n32["`Phân loại người chơi (lỏng–chặt, thụ động–hung hãn) cho suy ra lối chơi cả ở tình huống chưa từng thấy`"]
+  n28 --- n32
+  n33["`1.000 tay limit đủ bàn chỉ khoảng 100 tay được lật, chia lệch cho 9 vị trí`"]
+  n28 --- n33
+  n34["`121 tay under the gun, raise 10%: khoảng tin cậy 95% là 4%–16%, từ {TT+, AK, AQs} tới {66+, AT+, KJ+, QJ, JT, T9}`"]
+  n28 --- n34
+  n35["`Đối thủ đổi chiến lược trong ngắn hạn lẫn dài hạn, và hiếm cơ hội kiểm chứng một nhận định`"]
+  n28 --- n35
+  n36["`Fold 30 tay rồi lật AA: 30 tay fold mới là bằng chứng chặt, AA chỉ chứng minh họ được chia AA`"]
+  n28 --- n36
+  n37["`Mục 5 — Đọc tell và ba kiểu người chơi yếu`"]
+  n0 --- n37
+  n38["`Trò chơi đọc bài: đoán tay ở showdown của ván mình không chơi để biết mình sai thường đến đâu`"]
+  n37 --- n38
+  n39["`Đọc tell như chẩn đoán bệnh: mệt mỏi ít khi là ung thư vì có nhiều nguyên nhân khả dĩ hơn`"]
+  n37 --- n39
+  n40["`p(A | T) = p(A ∩ T) / [p(A ∩ T) + p(Ā ∩ T)], trong đó p(Ā ∩ T) là dương tính giả`"]
+  n37 --- n40
+  n41["`Quay đi khỏi bàn khi chưa hành động hầu như không dương tính giả nên gần chắc là bài yếu`"]
+  n40 --- n41
+  n42["`Đẩy chip nhanh có nhiều nghĩa trái ngược nên p(A | T) không gần 0 hay 1`"]
+  n40 --- n42
+  n43["`Minh họa của người tổng hợp: tiên nghiệm bluff 20%, tell 50% khi bluff, 5% khi không thì p(bluff | T) ≈ 71%`"]
+  n40 --- n43
+  n44["`Maniac: lùi khi bị raise thì chỉ call bài khá mạnh để họ bluff, không lùi thì đẩy mạnh bài mạnh`"]
+  n37 --- n44
+  n45["`Rock: cướp blind và cướp pot trên flop khi cả hai cùng trượt`"]
+  n37 --- n45
+  n46["`Calling station: value bet cả những bài yếu hơn hẳn phạm vi bet bình thường`"]
+  n37 --- n46
+  n47["`Sau 100 tay, người raise 8% gần như không phân biệt được với người raise 12%, nhưng 50% thì dễ nhận ra`"]
+  n37 --- n47
+  n48["`Thận trọng: có thể chỉ là lỗi không đặc trưng, đối thủ đã tiến bộ, hoặc lối lỏng–hung hãn thật ra mạnh`"]
+  n37 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Đừng hỏi có hơn tay X không, hãy hỏi equity trước cả phân phối là bao nhiêu`"]
+  n49 --- n50
+  n51["`Đừng loại hẳn tay bài nào, luôn giữ xác suất nhỏ cho bất ngờ`"]
+  n49 --- n51
+  n52["`Quan sát mà mọi tay bài đều cho cùng hành động thì gần như không mang thông tin`"]
+  n49 --- n52
+  n53["`Game yếu thì đọc và khai thác người chơi tệ, trước người chơi tốt thì sửa lỗ hổng của chính mình`"]
+  n49 --- n53
+  class n0 root
+  class n1,n8,n15,n28,n37,n49 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 5 "Scientific Tarot: Reading Hands and Strategies", trang 62–72.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) đã giới thiệu định lý Bayes và khẳng định suy luận Bayes là "trái tim của việc đọc bài và chơi khai thác". Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) mở Phần II, định nghĩa chơi khai thác là tối đa hoá kỳ vọng trước chiến lược của đối thủ, và mô tả nó là quy trình hai bước: (1) thu thập thông tin về bài và chiến lược đối thủ, (2) chọn hành động.
+
+Chương 5 là bước (1): đọc bài là suy luận Bayes về **phân phối tay bài** của đối thủ; đọc chiến lược là ước lượng đối thủ chơi từng tay trong phân phối đó ra sao; đọc tell là thêm một lớp Bayes.
+
+Chương 6 ([C06-poker-truc-tuyen.md](C06-poker-truc-tuyen.md)) bàn thông tin có được khi chơi online. Chương 7–9 ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md), [C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md), [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) là bước (2): chơi chính xác trước bài lật ngửa, trước một phân phối, rồi thích nghi; Chương 8 quay lại đúng ván stud của Ví dụ 5.1 để quyết định bet hay check ở sixth street.
+
+## Lưu ý
+
+- **Ví dụ 5.1, lá A trong tay bị đổi chất:** ở third street và fifth street, lá kín của ta là (5♣ A♥); ở bảng tóm tắt sixth street sách ghi (5♣ A♠) trong khi lá ngửa mới cũng là A♠, nên A♠ xuất hiện hai lần. Đúng là (5♣ A♥) 4♥ 8♠ J♥ A♠. Phép đếm "AA của đối thủ chỉ còn một tổ hợp A♣A♦" khớp với cách đọc này.
+- **Ví dụ 5.1, ký hiệu "-1", "-3"… trong bảng tổ hợp:** dấu gạch là dấu phân cách, không phải dấu âm; các số là số tổ hợp lá kín (AA: 1; Q♣Qx: 3; …).
+- **Câu "All AA hands contain the ace of clubs, of course — we have the other aces in our hand!":** ta chỉ giữ hai lá A (A♥ kín và A♠ ngửa); ý đúng là hai lá A còn lại là A♣ và A♦, nên đôi AA duy nhất có thể là A♣A♦ và tất nhiên chứa A♣.
+- **Các công thức ở mục "Reading Tells" bị viết rối (đã đối chiếu ảnh trang 70–71):** sách viết "p(T | A) = p(A ∩ T) / p(A)" gọi là định lý Bayes (phương trình 3.1), rồi "p(A ∩ T) = p(T) p(A ∨ T)" — ký hiệu "∨" ở đây là cách dựng chữ của dấu "|" nên vế phải là p(T) p(A | T). Câu then chốt "We also know that p(A | T) = p(A ∩ T) + p(Ā + T)" sai hai chỗ: vế trái phải là **p(T)** (chính lời giải thích ngay sau nói "xác suất T xảy ra"), và "Ā + T" phải là **Ā ∩ T** (A không xảy ra nhưng T xảy ra).
+
+  Công thức đúng: p(T) = p(A ∩ T) + p(Ā ∩ T), nên p(A | T) = p(A ∩ T) / [p(A ∩ T) + p(Ā ∩ T)]. Lỗi "p(Ā + T)" lặp lại ở trang 71. Sách cũng dùng lẫn ký hiệu τ và T cho cùng một tell.
+- **Satellite: số liệu do người tổng hợp tính:** sách chỉ nói A♥8♥ có "gần 50% equity" trước phân phối đối thủ. Người tổng hợp mô phỏng (8.000 ván mỗi phân phối): trước "mọi lá A, mọi đôi, KQ, KJ" A♥8♥ có khoảng 48%; thêm KT và T9s, 98s, 87s, JTs thì khoảng 50%; trước riêng AK khác chất (9 tổ hợp) chỉ khoảng 30%. Ngưỡng hoà vốn theo chip: call 1.800 (đã có 300 big blind) vào pot cuối 2.100 + 2.100 + 150 = 4.350, tức cần 41,4%. Sách không bàn yếu tố đặc thù của satellite (giá trị chip không tuyến tính), sẽ được bàn ở Phần V.
+- **Khoảng tin cậy cho tỷ lệ raise 10% trên 121 tay:** sai số chuẩn √(0,1 × 0,9 / 121) ≈ 2,7%, nên khoảng ±2 sai số chuẩn là 4,5%–15,5%, sách làm tròn thành 4%–16%. Phân phối {TT+, AK, AQs} có 50 tổ hợp, tức 3,8% của 1.326 tổ hợp; {66+, AT+, KJ+, QJ, JT, T9} có 198 tổ hợp, tức 14,9% — sách ghi 16% "hoặc biến thể nào đó" (người tổng hợp tính).
+- **Pot 345 USD ở sixth street:** sách không nói số người chơi; người tổng hợp kiểm tra rằng con số khớp với bàn bảy người (năm người fold cộng ta và đối thủ): ante 7 × 5 = 35; third street 10 (bring-in) + 60 + 60 = 130; fourth street 2 × 30 = 60; fifth street 2 × 60 = 120; tổng 345 USD.
+- **Lớp chữ:** "mat" là "that"; "theft" là "their"; "-elated" là "related"; "'normally small)" là "(normally small)"; "single -and that" là "single hand that"; "litde" là "little"; "send-automatically" là "semi-automatically"; "dearly" là "clearly"; "ran firming" là "confirming"; "mates for" là "makes for"; "Hushes" là "flushes"; "imitations" là "limitations"; "horn" là "from"; "ethers" là "others". Bản tổng hợp đọc lại các danh sách tay bài và công thức từ ảnh trang.
+- **Quy ước:** trong stud, lá trong ngoặc là lá kín (úp), lá ngoài ngoặc là lá ngửa; "X♣Y♣" là hai lá chuồn nhỏ bất kỳ; "Qx", "Qy" là lá Q không phải chuồn. "Range" (phạm vi bài) được dịch là "phân phối tay bài" theo cách sách dùng "distribution".

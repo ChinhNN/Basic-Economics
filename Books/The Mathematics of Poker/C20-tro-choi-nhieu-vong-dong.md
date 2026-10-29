@@ -1,24 +1,22 @@
 # Chương 20 — Thắng nhờ lá bài ra sau; trò chơi nhiều vòng cược có sức mạnh bài thay đổi (Drawing Out; Non-Static Multi-Street Games)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 20 "Drawing Out; Non-Static Multi-Street Games", trang 259–276.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) giải trò chơi thấu thị (clairvoyance game) một vòng cược và rút ra hằng số α = 1/(P + 1): người chơi biết bài bluff α lần số tay bài value bet, người kia fold đúng α số tay bài. Phần II, nhất là Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)), đã giới thiệu pot odds và implied odds khi một người có draw. Chương 19 ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md)) mở rộng trò chơi thấu thị ra nhiều vòng cược nhưng giữ sức mạnh bài cố định ("tĩnh"): người không biết bài chỉ cần check và call ở mỗi vòng như thể đó là trò chơi một vòng, còn người biết bài "xếp chồng" bluff rồi bỏ dần qua các vòng. Chương 20 bỏ giả định tĩnh: thêm các draw, tức các tay bài có xác suất trở thành bài tốt nhất sau lá bài kế tiếp. Kết quả chính là hai nguyên lý: bluff chỉ đáng tin khi đến từ một phân phối có cả bài mạnh, và trò chơi nhiều vòng không phải là các trò chơi một vòng nối với nhau. Chương 21 ([C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)) khép Phần III bằng các nghiên cứu tình huống áp dụng những ý này vào ván bài thật, và Chương 30 ([C30-ket-hop-tat-ca.md](C30-ket-hop-tat-ca.md)) tổng kết các nguyên lý của cả cuốn sách.
+## Ý chính
 
-**Ý chính:** **Khi sức mạnh bài thay đổi giữa các vòng cược, lời giải tối ưu của cả ván khác hẳn việc giải riêng từng vòng: người có tay bài lộ (marked made hand) đã thu giá trị ở vòng trước có thể call ít hơn nhiều ở river, và một draw chỉ đáng giá khi nó nằm trong một phân phối có thể chứa bài mạnh.** Ví dụ 20.1 nhắc lại trò chơi thấu thị ở river: pot 6 big bet, X có đôi A lộ, Y có 7/8 flush và 1/8 bài chết; Y bet mọi flush cộng 1/7 số đó bài chết, X fold 1/7 và call 6/7. Ví dụ 20.2 lùi lại một vòng: ở turn pot 4 big bet, Y có 1/10 flush draw và 9/10 bài chết, flush ra 20% số lần. X bet, Y call với flush draw và 1/70 tổng số tay bài là bài chết để có đủ bluff khi flush ra. Đến river tình huống trông y hệt Ví dụ 20.1, nhưng X chỉ cần call 1/7 thay vì 6/7: X không cần làm flush bàng quan, mà làm cho bài chết bàng quan với cả chuỗi "call turn, chờ flush, bluff river", và kỳ vọng của chuỗi đó là x(−7/5) + 1/5, bằng 0 khi x = 1/7. Từ đây sách nêu hai nguyên lý cốt lõi của phân tích nhiều vòng. Ví dụ 20.3 thêm draw kín yếu (đôi nhỏ chờ set, ra 4%): khi Y không có bài chết, X phải call 6/7 khi flush không ra và (theo sách) 3/7 khi flush ra, gấp ba lần Ví dụ 20.2; Y chỉ cần chơi khoảng 9/550 tổng số tay bài là draw kín yếu. Ví dụ 20.4 xây công cụ tổng quát: với tay bài lộ của X (A♠ 4♣, board A♥ J♠ 8♦ 7♣) và phân phối của Y {99+, AQ+}, mỗi tay bài của Y được thay bằng xác suất thắng của nó, rồi định nghĩa hàm y(t) (xác suất thắng của tay bài xếp hạng t), hàm yθ(t) (xác suất thắng trung bình của t phần tay bài mạnh nhất) và "pot ngầm" P^t = P + P/(P + 1) — giá trị một tay bài thắng nhận được khi river chơi tối ưu. Ví dụ 20.5 giải trò chơi thấu thị một vòng rưỡi: ba trường hợp tuỳ phân phối của Y — Y bet hết và X fold (yθ(1) ≥ (P + 1)/(P + 2)^t), Y bet bài tốt và X luôn call, hoặc trường hợp hỗn hợp nơi Y bet nhóm bài T sao cho yθ(T) = (P + 1)/(P + 2)^t và X fold α = (1 − y(T)[(P + 2)^t − P^t])/(P + 1 − y(T)(P + 2)^t). Với ví dụ bằng số (pot 5), Y bet khoảng 59,8% tay bài tốt nhất; sách tính X fold khoảng 19,65%, nhưng người tổng hợp tính lại được khoảng 14,65% (xem Lưu ý). Phần cuối nêu thêm: dồn equity vào ít tay bài mạnh tốt hơn rải đều; trong trò chơi hai vòng đầy đủ xuất hiện semi-bluff raise; và draw kín mạnh hơn draw mở nhiều.
+**Khi sức mạnh bài thay đổi giữa các vòng cược, lời giải tối ưu của cả ván khác hẳn việc giải riêng từng vòng: người có tay bài lộ (marked made hand) đã thu giá trị ở vòng trước có thể call ít hơn nhiều ở river, và một draw chỉ đáng giá khi nó nằm trong một phân phối có thể chứa bài mạnh.**
 
-> **Lưu ý:**
-> - **Ví dụ 20.5, tần suất fold α tính sai (trang 274–275):** sách thay số α = (1 − (6/44)(15/64))/(6 − (6/44)(63/8)) ≈ 0,19651. Đại lượng đứng sau y(T) phải là (P + 2)^t − P^t. Với P = 5: (P + 2)^t = 7 + 7/8 = 63/8 và P^t = 5 + 5/6 = 35/6 (chính sách đã tính P^t = 35/6 ở trang 266), nên hiệu là 63/8 − 35/6 = 49/24 ≈ 2,042, không phải 15/64. Tính lại: α = (1 − (6/44)(49/24))/(6 − (6/44)(63/8)) = 0,72159/4,92614 = 127/867 ≈ **0,1465**. Vì vậy câu ở trang 275 "X fold gần 1/5 số tay bài (thay vì 1/6)" không đúng với chính ví dụ này: X fold khoảng 14,65%, **ít hơn** 1/6 ≈ 16,7%. Ý chung "lời giải của từng vòng khác lời giải khi xét riêng" vẫn đúng (0,1465 khác 1/6), nhưng chiều lệch ngược với lời giải thích của sách (nhận xét của người tổng hợp).
-> - **Ví dụ 20.5, ngưỡng t₀ (trang 273):** sách viết 1/((P + 2)^t − P^t) = 8/15. Đúng là 1/(49/24) = 24/49 ≈ 0,4898 (khớp với nhận xét của chính sách rằng biểu thức này "hơi nhỏ hơn 1/2", ví dụ 0,48 tại P = 3). Con số 8/15 ứng với việc lấy 63/8 − 6 = 15/8, tức dùng nhầm P + 1 = 6 thay cho P^t. Sai số này không đổi kết luận: cả 24/49 và 8/15 đều nằm giữa 6/44 và 41/44, nên vẫn có T[ngưỡng] = 18/39.
-> - **Ví dụ 20.5, công thức ngưỡng Trường hợp 1 (trang 268):** sách viết "(P+1)/(P+3)/(P+2)(P+4)". Vì (P + 2)^t = (P + 2) + (P + 2)/(P + 3) = (P + 2)(P + 4)/(P + 3), biểu thức đúng là (P + 1)(P + 3)/[(P + 2)(P + 4)]; với P = 5: 6 · 8/(7 · 9) = 48/63, khớp số sách dùng sau đó.
-> - **Ví dụ 20.4, bảng tần suất các loại bài của Y sai số tổ hợp (trang 265, lặp lại trang 273):** X giữ A♠ 4♣, board A♥ J♠ 8♦ 7♣. Không có lá Q nào lộ, nên QQ có C(4,2) = 6 tổ hợp chứ không phải 3; AQ có 2 lá A còn lại × 4 lá Q = 8 tổ hợp chứ không phải 6. Các dòng khác đúng (AA 1, KK 6, JJ 3, TT 6, 99 6, AK 8). Tổng đúng là 44 tổ hợp, không phải 39. Phân phối đúng là {(1; 4/44), (41/44; 16/44), (6/44; 12/44), (2/44; 12/44)}. Các xác suất thắng trong bảng đều đúng (người tổng hợp kiểm tra từng loại: TT và 99 có 6 lá ra, KK và QQ có 2, AK và AQ chỉ thua khi river là một trong 3 lá 4). Bản tổng hợp chép và tính theo số của sách; với phân phối đúng: yθ(1) ≈ 0,4793, yθ(20/44) ≈ 0,9455, T ≈ 0,588, còn α không đổi (vì chỉ phụ thuộc y(T) = 6/44) ≈ 0,1465.
-> - **Ví dụ 20.3, giá trị của [F//] không cùng gốc với các hàng khác (trang 263, nhận xét của người tổng hợp):** các hàng "call" tính tiền thắng thua ròng từ thời điểm Y quyết định (thắng 5 khi ra set, mất 1 khi call rồi bỏ), nên theo cùng cách tính, fold phải có kỳ vọng 0. Sách lại ghi fold = −(1/25)(4) = −0,16 (phần pot Y bỏ lại), rồi đặt [C/B/K] bằng −0,16 để giải ra x_f = 3/7. Nếu dùng gốc 0 nhất quán, phương trình (4/100)V_set + (19/100)(5 − 7x_f) − 77/100 = 0 cho x_f = 71/231 ≈ 0,307, tức X call khi flush ra khoảng 2,15 lần (thay vì 3 lần) so với 1/7 của Ví dụ 20.2. Kết luận định tính "draw kín buộc X call nhiều hơn" không đổi. Ngoài ra dòng đầu của hệ phương trình in vế phải là "16/100", nhưng dòng sau (vế phải 61/100 = 77/100 − 16/100) cho thấy ý sách là −16/100.
-> - **Ví dụ 20.3, cột "Y's equity assuming x_n = 1 and x_f = 1":** sách chỉ điền ô [C/K/K] là "72/100", thiếu dấu trừ (lời văn ngay sau ghi đúng −72/100). Người tổng hợp điền các ô còn lại trong phần Nội dung chi tiết.
-> - **Ví dụ 20.3, các xác suất 1/25, 19/100, 77/100 và giả định "độc lập":** sách nói hai sự kiện flush ra (20%) và set ra (4%) độc lập, nhưng lại giả định set đến từ lá cơ 1/4 số lần (độc lập thì phải là 1/5). Ba xác suất 4/100, 19/100, 77/100 khớp với giả định 1/4 (0,2 − 0,04 × 1/4 = 0,19; 0,8 − 0,04 × 3/4 = 0,77); nếu độc lập thật thì là 4/100, 19,2/100, 76,8/100. Câu "draw chỉ mạnh bằng 1/4 flush draw" cũng lệch: 4%/20% = 1/5.
-> - **Ví dụ 20.3, phương trình tính y (trang 264):** sách viết "(8/9)y = 1/63 + 1/70" rồi ra y = 9/550. Phép biến đổi đúng từ (1/7)(y/9 + 1/10) = (8/9)y là (8/9 − 1/63)y = 1/70, tức (55/63)y = 1/70, cho y = 63/3.850 = 9/550 ≈ 0,0164 — kết quả của sách đúng, chỉ dòng trung gian in sai. Người tổng hợp không tái tạo được hệ số "1/9" (tỷ lệ draw kín có set khi lá cơ ra): theo giả định của chính sách, xác suất có set khi biết river là lá cơ là (1/25 × 1/4)/(1/5) = 1/20; dùng 1/20 thì (1/7)(y/20 + 1/10) = (19/20)y cho y = 1/66 ≈ 0,0152. Cả hai đều "hơi lớn hơn 1/70 ≈ 0,0143" như sách nói.
-> - **Ví dụ 20.5, các điều kiện dấu của bất phương trình (trang 270–271):** sách viết vế phải 1 − α(P + 1) "dương khi α > 1/(P + 1)"; đúng là dương khi α < 1/(P + 1) (kết luận ngay sau của sách — α > 1/(P + 1) thì Y bet mọi lúc — khớp với cách hiểu đúng). Sách viết vế trái dương "khi αP < 2, tức α < 2/P"; điều kiện chính xác là (1 − α)(P + 2)^t > P^t, tức α < 1 − P^t/(P + 2)^t (P = 5: α < 1 − (35/6)/(63/8) ≈ 0,259, trong khi 2/P = 0,4); điều kiện của sách chỉ là xấp xỉ thô. Cũng ở trang 270, sách viết "applying the typical α = P/(P+1) is incorrect" — tần suất fold quen thuộc là 1/(P + 1), còn P/(P + 1) là tần suất call. Trang 266 viết "X will bet his winning hands" — người bet là Y.
-> - **Lỗi đánh máy và ký hiệu:** trang 262 "call a bet on the flop" — trò chơi diễn ra ở turn; trang 265 "A's hand" thay cho "X's hand"; trang 268 Ví dụ 20.5 ghi "Y's hand is exposed", đúng là tay bài của X lộ; trang 270 "Y bets and B calls" (B là X); trang 271 "(P \ 1)" là (P + 1); trang 273 "Case 1 doesn't hold because yθ(1) ≥ (P+1)/(P+2)^t" phải là dấu "<" (0,48 < 0,762); công thức α ở trang 271–272 có mẫu số "y(t)" phải là y(T); trang 275 "y(1) for both of them is 0.25" phải là yθ(1) (xác suất thắng trung bình), vì y(1) là tay bài yếu nhất (0 với phân phối nuts/bài chết); trang 269 "1/5 hands that always win, and the remaining 2/5" — 1/5 + 2/5 không đủ 1, chữ "remaining" nên là 4/5 hoặc ví dụ thiếu phần còn lại.
-> - **Lớp chữ PDF:** các phân số bị làm phẳng ("4144" là 41/44, "1839" là 18/39, "9550" là 9/550), ký hiệu mũ P^t bị in thành "Pt", "(P+2)t", chỉ số x_f, x_n thành "xf", "xn", ký hiệu yθ(t) đôi khi thành "y -(t)" hoặc "y-(t)". Người tổng hợp đọc lại mọi công thức và bảng từ ảnh trang.
-> - **Quy ước ký hiệu trong bản tổng hợp:** sách dùng chữ "t" vừa làm chỉ số mũ của "pot ngầm" P^t (đọc là "P t", tác giả không giải thích chữ t), vừa làm biến thứ hạng trong y(t). Bản tổng hợp viết P^t, (P + 2)^t cho pot ngầm và y(t), yθ(t) cho hàm thứ hạng. Ký hiệu T (sách in chữ T nghiêng có gạch) là ngưỡng thứ hạng; T[y₀] là tỷ lệ tay bài có xác suất thắng ít nhất y₀.
+Ví dụ 20.1 nhắc lại trò chơi thấu thị ở river: pot 6 big bet, X có đôi A lộ, Y có 7/8 flush và 1/8 bài chết; Y bet mọi flush cộng 1/7 số đó bài chết, X fold 1/7 và call 6/7.
+
+Ví dụ 20.2 lùi lại một vòng: ở turn pot 4 big bet, Y có 1/10 flush draw và 9/10 bài chết, flush ra 20% số lần. X bet, Y call với flush draw và 1/70 tổng số tay bài là bài chết để có đủ bluff khi flush ra.
+
+Đến river tình huống trông y hệt Ví dụ 20.1, nhưng X chỉ cần call 1/7 thay vì 6/7: X không cần làm flush bàng quan, mà làm cho bài chết bàng quan với cả chuỗi "call turn, chờ flush, bluff river", và kỳ vọng của chuỗi đó là x(−7/5) + 1/5, bằng 0 khi x = 1/7. Từ đây sách nêu hai nguyên lý cốt lõi của phân tích nhiều vòng.
+
+Ví dụ 20.3 thêm draw kín yếu (đôi nhỏ chờ set, ra 4%): khi Y không có bài chết, X phải call 6/7 khi flush không ra và (theo sách) 3/7 khi flush ra, gấp ba lần Ví dụ 20.2; Y chỉ cần chơi khoảng 9/550 tổng số tay bài là draw kín yếu.
+
+Ví dụ 20.4 xây công cụ tổng quát: với tay bài lộ của X (A♠ 4♣, board A♥ J♠ 8♦ 7♣) và phân phối của Y {99+, AQ+}, mỗi tay bài của Y được thay bằng xác suất thắng của nó, rồi định nghĩa hàm y(t) (xác suất thắng của tay bài xếp hạng t), hàm yθ(t) (xác suất thắng trung bình của t phần tay bài mạnh nhất) và "pot ngầm" P^t = P + P/(P + 1) — giá trị một tay bài thắng nhận được khi river chơi tối ưu.
+
+Ví dụ 20.5 giải trò chơi thấu thị một vòng rưỡi: ba trường hợp tuỳ phân phối của Y — Y bet hết và X fold (yθ(1) ≥ (P + 1)/(P + 2)^t), Y bet bài tốt và X luôn call, hoặc trường hợp hỗn hợp nơi Y bet nhóm bài T sao cho yθ(T) = (P + 1)/(P + 2)^t và X fold α = (1 − y(T)[(P + 2)^t − P^t])/(P + 1 − y(T)(P + 2)^t). Với ví dụ bằng số (pot 5), Y bet khoảng 59,8% tay bài tốt nhất; sách tính X fold khoảng 19,65%, nhưng người tổng hợp tính lại được khoảng 14,65% (xem Lưu ý).
+
+Phần cuối nêu thêm: dồn equity vào ít tay bài mạnh tốt hơn rải đều; trong trò chơi hai vòng đầy đủ xuất hiện semi-bluff raise; và draw kín mạnh hơn draw mở nhiều.
 
 ## Sơ đồ
 
@@ -240,7 +238,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Khi tay bài có thể thay đổi giữa các vòng, có thể giải từng vòng riêng rồi ghép lại không?** Không. Trong Ví dụ 20.2, tình huống ở river y hệt Ví dụ 20.1, nhưng lời giải một vòng bảo X call 6/7, còn lời giải hai vòng chỉ cần X call 1/7: Y đã trả 1 bet ở turn cho mỗi bài chết mang theo, và 4/5 số lần không có cơ hội bluff. X không làm flush bàng quan ở river, mà làm bài chết bàng quan với cả chuỗi hành động từ turn. Ở Ví dụ 20.5, tần suất fold của X ở turn cũng khác 1/(P + 1) = 1/6 của trò chơi một vòng (sách tính 0,1965, người tổng hợp tính lại 0,1465). Lịch sử ván bài luôn quan trọng, khác với cờ vua hay cờ tào cáo.
+1. **Khi tay bài có thể thay đổi giữa các vòng, có thể giải từng vòng riêng rồi ghép lại không?** Không. Trong Ví dụ 20.2, tình huống ở river y hệt Ví dụ 20.1, nhưng lời giải một vòng bảo X call 6/7, còn lời giải hai vòng chỉ cần X call 1/7: Y đã trả 1 bet ở turn cho mỗi bài chết mang theo, và 4/5 số lần không có cơ hội bluff. X không làm flush bàng quan ở river, mà làm bài chết bàng quan với cả chuỗi hành động từ turn.
+
+   Ở Ví dụ 20.5, tần suất fold của X ở turn cũng khác 1/(P + 1) = 1/6 của trò chơi một vòng (sách tính 0,1965, người tổng hợp tính lại 0,1465). Lịch sử ván bài luôn quan trọng, khác với cờ vua hay cờ tào cáo.
 2. **Vì sao có một draw lộ là rất tệ, và draw kín khác draw mở thế nào?** Một bluff chỉ đáng tin khi phân phối của người bluff có cả bài mạnh. Người chỉ có flush draw và bài chết (Ví dụ 20.2) không đe doạ có bài mạnh khi flush không ra, nên X đã thu giá trị ở turn và có thể fold 6/7 ở river khi flush ra. Khi Y có thêm draw kín (đôi nhỏ chờ set) mà X không nhìn thấy, X phải call 6/7 khi flush không ra và nhiều hơn hẳn khi flush ra (3/7 theo sách). Draw kín buộc đối thủ trả tiền value bet thường xuyên hơn; Pudaite phỏng đoán rằng trong chiến lược tối ưu mỗi chuỗi hành động phải có xác suất dương chứa tay bài là nuts với mọi lá bài sẽ ra.
 3. **Làm sao giải tổng quát một tay bài lộ đấu với một phân phối khi còn lá bài để ra?** Thay mỗi tay bài của người biết bài bằng xác suất thắng, xếp hạng để có hàm y(t) và hàm trung bình yθ(t), và gói toàn bộ river tối ưu vào pot ngầm P^t = P + P/(P + 1). Khi đó trò chơi một vòng rưỡi có ba trường hợp: phân phối rất mạnh (yθ(1) ≥ (P + 1)/(P + 2)^t) thì bet và đối thủ fold; phân phối yếu thì bet các tay bài có y ≥ 1/((P + 2)^t − P^t) và đối thủ luôn call; ở giữa thì người biết bài bet nhóm T với yθ(T) = (P + 1)/(P + 2)^t và người kia fold α = (1 − y(T)[(P + 2)^t − P^t])/(P + 1 − y(T)(P + 2)^t).
 
@@ -306,7 +306,9 @@ Phần II đã xét các trò chơi kiểu này: đôi A sẽ bet. Y không có 
 
 River ra 8♥. Ta đã tới đúng tình huống của Ví dụ 20.1: pot 6 bet, phân phối của Y là hỗn hợp flush và bài chết theo tỷ lệ 7:1 (1/10 so với 1/70), board giống hệt. Y vui vẻ bet mọi flush và bluff với 1/7 lần số đó là bài chết — tức mọi bài chết đã mang tới river. Lời giải một vòng nói X nên call 6/7 số lần. Nhưng việc sách dừng lại đặt câu hỏi là dấu hiệu đáp án đó có lẽ sai.
 
-Giả sử X quyết định không bao giờ call. Dù sao Y đã bet một lượng khiến X bàng quan giữa call và fold. Tuy nhiên, nếu X luôn fold, Y có thể khai thác điều đó. Vì Y chỉ còn đúng tập tay bài cần cho chiến lược river tối ưu, muốn có thêm bluff Y phải đổi cách chơi ở vòng trước để mang thêm bluff tới river. Vấn đề là: để mang một bluff tới river, Y phải call một bet ở turn với bài chết. Nhưng 4/5 số lần flush không ra, Y không thể bluff vì không có mối đe doạ đáng tin là có bài mạnh, và chỉ mất 1 bet. Hoá ra Y vẫn làm được điều này nếu X không bao giờ call khi flush ra: mất 1 bet với xác suất 4/5, thắng 5 bet với xác suất 1/5, lãi ròng (1/5)(5) − (4/5)(1) = 1/5 bet.
+Giả sử X quyết định không bao giờ call. Dù sao Y đã bet một lượng khiến X bàng quan giữa call và fold. Tuy nhiên, nếu X luôn fold, Y có thể khai thác điều đó.
+
+Vì Y chỉ còn đúng tập tay bài cần cho chiến lược river tối ưu, muốn có thêm bluff Y phải đổi cách chơi ở vòng trước để mang thêm bluff tới river. Vấn đề là: để mang một bluff tới river, Y phải call một bet ở turn với bài chết. Nhưng 4/5 số lần flush không ra, Y không thể bluff vì không có mối đe doạ đáng tin là có bài mạnh, và chỉ mất 1 bet. Hoá ra Y vẫn làm được điều này nếu X không bao giờ call khi flush ra: mất 1 bet với xác suất 4/5, thắng 5 bet với xác suất 1/5, lãi ròng (1/5)(5) − (4/5)(1) = 1/5 bet.
 
 #### X làm bài chết bàng quan với cả chuỗi hành động
 
@@ -397,7 +399,7 @@ x_n = 6/7
 x_f = 3/7
 ```
 
-Người tổng hợp kiểm tra: (3/4)(41/7) = 123/28 và (1/4)(5 + x_f) = 35/28 + x_f/4, nên V_set = 158/28 + x_f/4. Nhân 100 hai vế: 632/28 + x_f + 95 − 133x_f = 61, suy ra 132x_f = 396/7 và x_f = 3/7. Đúng với phương trình của sách. Tại x_n = 6/7, x_f = 3/7: V_set = 5,75 và <[C/B/K]> = <[C/B/B]> = −0,16, <[C/K/B]> = <[C/K/K]> ≈ −0,73. Như khối Lưu ý đã nêu, nếu fold được tính là 0 cho cùng gốc với các hàng khác thì x_f = 71/231 ≈ 0,307 (khi đó <[C/B/K]> = <[C/B/B]> = 0).
+Người tổng hợp kiểm tra: (3/4)(41/7) = 123/28 và (1/4)(5 + x_f) = 35/28 + x_f/4, nên V_set = 158/28 + x_f/4. Nhân 100 hai vế: 632/28 + x_f + 95 − 133x_f = 61, suy ra 132x_f = 396/7 và x_f = 3/7. Đúng với phương trình của sách. Tại x_n = 6/7, x_f = 3/7: V_set = 5,75 và <[C/B/K]> = <[C/B/B]> = −0,16, <[C/K/B]> = <[C/K/K]> ≈ −0,73. Như mục Lưu ý cuối chương đã nêu, nếu fold được tính là 0 cho cùng gốc với các hàng khác thì x_f = 71/231 ≈ 0,307 (khi đó <[C/B/K]> = <[C/B/B]> = 0).
 
 **Ý nghĩa.** Kết quả này khá thú vị: chỉ bằng cách thêm những draw có sức mạnh bằng khoảng 1/4 flush draw (theo xác suất ra thì 4%/20% = 1/5), Y buộc X call ở river nhiều gấp ba (3/7 so với 1/7). Đây là sức mạnh của draw kín. Khi chỉ có draw kín (flush không ra), X phải call 6/7 số lần để Y bàng quan. Khi flush ra (draw mở), X không cần call nhiều như vậy, chỉ 3/7.
 
@@ -412,7 +414,7 @@ Y chỉ cần chơi đủ draw yếu để có đúng số tay bài bluff khi fl
 y = 63/3.850 = 9/550 ≈ 0,0164
 ```
 
-Giá trị này hơi lớn hơn 1/70 ≈ 0,0143, tổng số bài chết Y chơi trong trò chơi trước. (Như khối Lưu ý đã nêu, theo giả định của sách thì tỷ lệ có set khi lá cơ ra là 1/20, cho y = 1/66 ≈ 0,0152.)
+Giá trị này hơi lớn hơn 1/70 ≈ 0,0143, tổng số bài chết Y chơi trong trò chơi trước. (Như mục Lưu ý cuối chương đã nêu, theo giả định của sách thì tỷ lệ có set khi lá cơ ra là 1/20, cho y = 1/66 ≈ 0,0152.)
 
 #### Trường hợp tổng quát: chọn loại tay bài ngưỡng
 
@@ -585,7 +587,9 @@ Người tổng hợp rút gọn: (P + 2)^t − P^t = 2 + (P + 2)/(P + 3) − P/
 |---|---|---|---|---|---|
 | 1/((P + 2)^t − P^t) | 0,444 | 0,469 | 0,480 | 0,490 (= 24/49) | 0,497 |
 
-**Ký hiệu T[y₀].** Thường cần chỉ "tập tay bài có y lớn hơn một giá trị y₀" theo số lượng hay tỷ lệ tay bài. Tập {y | y ≥ y₀} tương ứng với tập {y(t) | t ≤ T} với một giá trị T nào đó; sách gọi giá trị này là T[y₀]. Với phân phối ví dụ Y′, tập tay bài có y ≥ y₀ = 1/2 gồm mọi tay bài thắng chắc và mọi tay bài 41/44 ({AA, JJ, AK, AQ}), chiếm 18/39 tổng số, nên T[1/2] = 18/39. Đây là giá trị t sao cho y(t) ≥ 1/2 với mọi t nhỏ hơn T[1/2]; nói thẳng hơn, đó là tỷ lệ tay bài có equity ít nhất 1/2. Sách nhấn mạnh: y(t) là tay bài tốt nhất còn lại sau khi bỏ t phần tay bài tốt nhất; T[x] như hàm ngược của nó — cho một mức *equity* x, T[x] là tỷ lệ tay bài có ít nhất mức equity đó.
+**Ký hiệu T[y₀].** Thường cần chỉ "tập tay bài có y lớn hơn một giá trị y₀" theo số lượng hay tỷ lệ tay bài. Tập {y | y ≥ y₀} tương ứng với tập {y(t) | t ≤ T} với một giá trị T nào đó; sách gọi giá trị này là T[y₀].
+
+Với phân phối ví dụ Y′, tập tay bài có y ≥ y₀ = 1/2 gồm mọi tay bài thắng chắc và mọi tay bài 41/44 ({AA, JJ, AK, AQ}), chiếm 18/39 tổng số, nên T[1/2] = 18/39. Đây là giá trị t sao cho y(t) ≥ 1/2 với mọi t nhỏ hơn T[1/2]; nói thẳng hơn, đó là tỷ lệ tay bài có equity ít nhất 1/2. Sách nhấn mạnh: y(t) là tay bài tốt nhất còn lại sau khi bỏ t phần tay bài tốt nhất; T[x] như hàm ngược của nó — cho một mức *equity* x, T[x] là tỷ lệ tay bài có ít nhất mức equity đó.
 
 Định nghĩa:
 
@@ -683,7 +687,13 @@ Sách kết luận "X fold khoảng 19,6% số tay bài". Theo tính lại của
 
 #### Ba đặc điểm quan trọng của trò chơi này
 
-1. **Implied odds là một phần quan trọng của chiến lược tối ưu trong trò chơi nhiều vòng.** Những trò chơi này thường khó giải hơn vì phức tạp hơn, nên ví dụ lý thuyết trò chơi thường chỉ xét một vòng và cho thấy cách làm đối thủ bàng quan ở vòng đó. Ở trò chơi này, ý tưởng P^t cho một thước đo định lượng của implied odds. Chiến lược của từng vòng không giống chiến lược của vòng đó khi xét riêng. Ví dụ, ở turn pot có 5 bet; thông thường nếu một người fold nhiều hơn 1/(P + 1) số lần thì bị khai thác bằng bluff. Sách viết rằng ở đây, với pot 5, X fold đúng là gần 1/5 số tay bài (thay vì 1/6), vì X bất lợi không chỉ ở vòng này mà cả ở các vòng sau: khi fold, X không phải trả tiền ở river, nên có thể fold nhiều hơn một cách tối ưu. (Theo tính lại của người tổng hợp, α ≈ 0,1465 nhỏ hơn 1/6, nên trong chính ví dụ này X fold **ít** hơn 1/6: tay bài ngưỡng 6/44 không phải bluff thuần mà có equity và implied odds, nên X phải call nhiều hơn. Ý chính vẫn đứng: tần suất đúng khác 1/(P + 1).) Tác giả nhấn mạnh: *trò chơi nhiều vòng không phải các trò chơi một vòng nối lại; lời giải của cả trò chơi thường khác hẳn lời giải của từng vòng.*
+1. **Implied odds là một phần quan trọng của chiến lược tối ưu trong trò chơi nhiều vòng.** Những trò chơi này thường khó giải hơn vì phức tạp hơn, nên ví dụ lý thuyết trò chơi thường chỉ xét một vòng và cho thấy cách làm đối thủ bàng quan ở vòng đó.
+
+   Ở trò chơi này, ý tưởng P^t cho một thước đo định lượng của implied odds. Chiến lược của từng vòng không giống chiến lược của vòng đó khi xét riêng.
+
+   Ví dụ, ở turn pot có 5 bet; thông thường nếu một người fold nhiều hơn 1/(P + 1) số lần thì bị khai thác bằng bluff. Sách viết rằng ở đây, với pot 5, X fold đúng là gần 1/5 số tay bài (thay vì 1/6), vì X bất lợi không chỉ ở vòng này mà cả ở các vòng sau: khi fold, X không phải trả tiền ở river, nên có thể fold nhiều hơn một cách tối ưu. (Theo tính lại của người tổng hợp, α ≈ 0,1465 nhỏ hơn 1/6, nên trong chính ví dụ này X fold **ít** hơn 1/6: tay bài ngưỡng 6/44 không phải bluff thuần mà có equity và implied odds, nên X phải call nhiều hơn. Ý chính vẫn đứng: tần suất đúng khác 1/(P + 1).)
+
+   Tác giả nhấn mạnh: *trò chơi nhiều vòng không phải các trò chơi một vòng nối lại; lời giải của cả trò chơi thường khác hẳn lời giải của từng vòng.*
 2. **Phân phối của hai người làm cách chơi khác hẳn.** Khi Y rất mạnh, X chỉ cần fold; khi Y yếu hơn, X cứ call. X đôi khi có thể chơi chính xác trước phân phối của Y.
 3. **Hai người không thể làm nhau bàng quan với mọi hành động cho mọi tay bài.** Thường chỉ có một ngưỡng nơi họ bàng quan, nhưng ngưỡng đó là trục của cả chiến lược; ở đây T và α là các ngưỡng ấy. X có thể thay đổi α khá rộng mà không mất giá trị chừng nào Y vẫn chơi tối ưu; nhưng nếu X lệch khỏi α tối ưu, Y khai thác bằng cách bluff nhiều hơn hoặc ít hơn tuỳ hướng lệch.
 
@@ -691,7 +701,9 @@ Sách kết luận "X fold khoảng 19,6% số tay bài". Theo tính lại của
 
 Trò chơi vừa rồi là một trường hợp khá tổng quát của trò chơi mà X không thể bet ở turn. Tác giả đã giải các trò chơi phức tạp hơn nhưng không trình bày vì khó hơn nhiều và thường có nhiều trường hợp tuỳ hình dạng phân phối; chỉ nêu vài nguyên lý.
 
-**Dồn equity vào ít tay bài tốt hơn có nhiều draw trung bình.** So sánh hai phân phối: một gồm 25% nuts và 75% bài chết, một gồm 100% tay bài có 25% equity. Về equity ở showdown, hai phân phối giống hệt: equity trung bình của cả hai là 0,25 (sách viết "y(1)", đúng ra là yθ(1)). Nhưng phân phối có nuts chơi hiệu quả hơn nhiều trong trò chơi hai vòng, thu thêm giá trị từ tay bài thắng. Người giữ một tập draw đồng nhất về cơ bản phải đợi draw thành hay trượt mới bet và bluff hiệu quả được. Phân phối có nhiều tay bài giá trị showdown cao nói chung giống thấu thị hơn phân phối gồm các tay bài sức mạnh trung bình — và thấu thị thực chất là giới hạn của việc chơi tốt đến đâu. Vì thế, như đã nói, cần giữ phân phối cân bằng với nhiều loại tay bài, và để tay bài nuts cân bằng cho draw bất cứ khi nào có thể khi quyết định mang tay bài nào qua vòng sau.
+**Dồn equity vào ít tay bài tốt hơn có nhiều draw trung bình.** So sánh hai phân phối: một gồm 25% nuts và 75% bài chết, một gồm 100% tay bài có 25% equity. Về equity ở showdown, hai phân phối giống hệt: equity trung bình của cả hai là 0,25 (sách viết "y(1)", đúng ra là yθ(1)). Nhưng phân phối có nuts chơi hiệu quả hơn nhiều trong trò chơi hai vòng, thu thêm giá trị từ tay bài thắng. Người giữ một tập draw đồng nhất về cơ bản phải đợi draw thành hay trượt mới bet và bluff hiệu quả được.
+
+Phân phối có nhiều tay bài giá trị showdown cao nói chung giống thấu thị hơn phân phối gồm các tay bài sức mạnh trung bình — và thấu thị thực chất là giới hạn của việc chơi tốt đến đâu. Vì thế, như đã nói, cần giữ phân phối cân bằng với nhiều loại tay bài, và để tay bài nuts cân bằng cho draw bất cứ khi nào có thể khi quyết định mang tay bài nào qua vòng sau.
 
 Minh hoạ của người tổng hợp: với pot P = 6 và một bet ở river, phân phối "25% nuts, 75% bài chết" khi đã lộ kết quả có thể bet nuts và bluff (1/7)(25%) ≈ 3,6% số tay bài, thu thêm từ X; phân phối "100% tay bài 25% equity" ở turn không biết mình thắng hay thua nên không thể value bet hay bluff có chọn lọc.
 
@@ -891,4 +903,191 @@ Cặp Ví dụ 20.1–20.2 là một minh hoạ xuất sắc: hai tình huống 
 ### Vận dụng
 
 - **Người chơi poker:** khi bạn có tay bài thành và đối thủ chỉ có thể đang draw mở (flush, sảnh lộ), bet ở turn để bắt họ trả tiền; khi draw ra ở river, bạn không cần call nhiều như pot odds một vòng gợi ý — đối thủ đã trả giá cho cơ hội bluff. Ngược lại, khi bạn đang draw, đừng để hành động của mình chỉ ra rằng bạn "chỉ có draw": chơi các draw theo cùng cách với một số tay bài mạnh, và ưu tiên draw kín (khó đọc) hơn draw mở. Khi cần thêm tay bài để cân bằng bluff, chọn tay bài có chút equity trước bài chết.
-- **Người làm tài chính, đầu tư và ra quyết định:** ý "trò chơi nhiều kỳ không phải các trò chơi một kỳ nối lại" tương ứng với việc quyết định động khác quyết định tĩnh: một lựa chọn có vẻ "bàng quan" khi xét riêng một kỳ (như mua thêm một quyền chọn, giữ một vị thế) phải được đánh giá cùng chi phí đã trả để tới được kỳ đó và giá trị quyền chọn ở các kỳ sau (giống P^t). Nguyên lý "bluff chỉ đáng tin khi đi cùng bài mạnh" giống uy tín của một cam kết chính sách hay một lời đe doạ trong đàm phán: nó chỉ có tác dụng nếu bên kia tin rằng bạn thật sự có thể có "bài mạnh". Và phân phối "dồn equity" (25% thắng lớn, 75% mất trắng) so với "rải đều" cho thấy cùng kỳ vọng nhưng cấu trúc khác nhau cho giá trị quyền chọn khác nhau — tương tự vì sao tài sản có độ lồi cao có giá trị cao hơn khi còn các quyết định về sau.
+- **Người làm tài chính, đầu tư và ra quyết định:** ý "trò chơi nhiều kỳ không phải các trò chơi một kỳ nối lại" tương ứng với việc quyết định động khác quyết định tĩnh: một lựa chọn có vẻ "bàng quan" khi xét riêng một kỳ (như mua thêm một quyền chọn, giữ một vị thế) phải được đánh giá cùng chi phí đã trả để tới được kỳ đó và giá trị quyền chọn ở các kỳ sau (giống P^t).
+
+  Nguyên lý "bluff chỉ đáng tin khi đi cùng bài mạnh" giống uy tín của một cam kết chính sách hay một lời đe doạ trong đàm phán: nó chỉ có tác dụng nếu bên kia tin rằng bạn thật sự có thể có "bài mạnh". Và phân phối "dồn equity" (25% thắng lớn, 75% mất trắng) so với "rải đều" cho thấy cùng kỳ vọng nhưng cấu trúc khác nhau cho giá trị quyền chọn khác nhau — tương tự vì sao tài sản có độ lồi cao có giá trị cao hơn khi còn các quyết định về sau.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 20 trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (thêm draw và Ví dụ 20.1, Ví dụ 20.2 với hai nguyên lý cốt lõi, Ví dụ 20.3 về hỗn hợp draw, Ví dụ 20.4 về xác suất thắng và pot ngầm, Ví dụ 20.5 về trò chơi thấu thị một vòng rưỡi, các chủ đề nâng cao), mỗi nhánh ghi thiết lập, công thức, nghiệm và con số then chốt; nhánh cuối gom thông điệp xuyên suốt của chương.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 20: khi sức mạnh bài đổi giữa các vòng, lời giải cả ván khác hẳn giải riêng từng vòng`"]
+  n1["`Mục 1–2 — Thêm draw#59; Ví dụ 20.1 giải riêng river: X call 6/7`"]
+  n0 --- n1
+  n2["`Chương 19 giữ sức mạnh bài cố định#59; Chương 20 thêm draw, tay bài có thể thành tốt nhất sau lá kế`"]
+  n1 --- n2
+  n3["`Draw mở: cả hai thấy lá vừa ra (hold'em)#59; draw kín: chỉ người có draw biết (stud)`"]
+  n1 --- n3
+  n4["`Ví dụ 20.1: river, pot 6, X đôi A lộ, Y có 7/8 flush và 1/8 bài chết`"]
+  n1 --- n4
+  n5["`α = 1/(P+1) = 1/7: Y bet mọi flush cộng 1/7 số đó là bài chết, tức toàn bộ bài chết`"]
+  n1 --- n5
+  n6["`X fold 1/7, call 6/7#59; khi đó cả X lẫn bluff của Y đều bàng quan`"]
+  n1 --- n6
+  n7["`Mục 3 — Ví dụ 20.2 lùi về turn: cùng river nhưng X chỉ call 1/7`"]
+  n0 --- n7
+  n8["`Turn pot 4, Y có 1/10 flush draw và 9/10 bài chết, flush ra 20%`"]
+  n7 --- n8
+  n9["`X bet#59; Y call mọi flush draw và 1/70 tổng số tay bài là bài chết để có bluff`"]
+  n7 --- n9
+  n10["`River 8♥ y hệt Ví dụ 20.1, nhưng call 6/7 không phải đáp án`"]
+  n7 --- n10
+  n11["`Nếu X không bao giờ call, mang bài chết qua turn lãi (1/5)(5) − (4/5)(1) = 1/5 bet`"]
+  n7 --- n11
+  n12["`X làm bài chết bàng quan với cả chuỗi call turn, chờ flush, bluff river`"]
+  n7 --- n12
+  n13["`x(1/5)(−2) + (1/5)(1−x)(5) + (4/5)(−1) = x(−7/5) + 1/5 = 0 → x = 1/7`"]
+  n12 --- n13
+  n14["`Nguyên lý 1: bluff chỉ đáng tin khi đến từ phân phối có cả bài mạnh`"]
+  n7 --- n14
+  n15["`Draw mở bị lộ là rất tệ: tay bài thành đã thu giá trị ở turn nên được call ít ở river`"]
+  n14 --- n15
+  n16["`Pudaite phỏng đoán mọi chuỗi hành động tối ưu phải có xác suất dương chứa nuts`"]
+  n14 --- n16
+  n17["`Nguyên lý 2: trò chơi nhiều vòng không phải các trò chơi một vòng nối lại`"]
+  n7 --- n17
+  n18["`Khác cờ vua, cờ tào cáo: trong poker lịch sử ván bài quyết định cách chơi tiếp`"]
+  n17 --- n18
+  n19["`Chỉ gọi một cách chơi là tối ưu khi lấy từ lời giải đầy đủ của trò chơi`"]
+  n17 --- n19
+  n20["`Mục 4 — Ví dụ 20.3 hỗn hợp draw: draw kín buộc X call nhiều hơn`"]
+  n0 --- n20
+  n21["`Y có x% flush draw (ra 20%), y% draw kín yếu như đôi nhỏ chờ set (ra 4%), z% bài chết`"]
+  n20 --- n21
+  n22["`Draw kín yếu thiếu pot odds, nhưng Y call chúng trước, bài chết sau, để cân bằng bluff`"]
+  n20 --- n22
+  n23["`Chiến lược [turn/river khi flush ra/river khi flush trượt]#59; có set thì luôn value bet`"]
+  n20 --- n23
+  n24["`V#95;set = (3/4)(5 + x#95;n) + (1/4)(5 + x#95;f)`"]
+  n23 --- n24
+  n25["`[C/K/K] bị trội: kể cả khi X luôn call, kỳ vọng là −72/100`"]
+  n20 --- n25
+  n26["`[C/B/B] = [C/B/K] cho (77/100)(5 − 7x#95;n) = −77/100, nên x#95;n = 6/7`"]
+  n20 --- n26
+  n27["`Đặt [C/B/K] bằng fold (−16/100, theo sách) cho x#95;f = 3/7, gấp ba 1/7 của Ví dụ 20.2`"]
+  n20 --- n27
+  n28["`Tính fold bằng 0 cho cùng gốc thì x#95;f = 71/231 ≈ 0,307 (người tổng hợp)`"]
+  n27 --- n28
+  n29["`Y chỉ cần y = 9/550 ≈ 0,0164 tay bài là draw kín yếu, hơi hơn 1/70`"]
+  n20 --- n29
+  n30["`Trường hợp tổng quát giống trò chơi [0,1]: có một tay bài ngưỡng chơi hỗn hợp`"]
+  n20 --- n30
+  n31["`x=30%, y=1%, z=69%: X làm bài chết bàng quan, Y call mọi draw kín`"]
+  n30 --- n31
+  n32["`x=30%, y=50%, z=20%: X làm draw kín yếu bàng quan`"]
+  n30 --- n32
+  n33["`Làm bàng quan #quot;draw mạnh nhất mà bạn có thể#quot;`"]
+  n30 --- n33
+  n34["`Mục 5 — Ví dụ 20.4: quy mỗi tay bài về xác suất thắng`"]
+  n0 --- n34
+  n35["`Y biết bài X và mọi lá có thể ra, nên mỗi tay bài thay bằng xác suất thắng ở showdown`"]
+  n34 --- n35
+  n36["`X A♠ 4♣, board A♥ J♠ 8♦ 7♣, Y {99+, AQ+}`"]
+  n34 --- n36
+  n37["`Theo sách Y′ = {(1#59; 4/39), (41/44#59; 14/39), (6/44#59; 12/39), (2/44#59; 9/39)}`"]
+  n36 --- n37
+  n38["`Đếm lại: QQ có 6 và AQ có 8 tổ hợp, tổng 44 chứ không phải 39`"]
+  n36 --- n38
+  n39["`Pot ngầm P^t = P + P/(P+1): giá trị tay bài thắng khi river chơi tối ưu#59; P = 5 cho 35/6`"]
+  n34 --- n39
+  n40["`y(t): xác suất thắng của tay tốt nhất còn lại sau khi bỏ t phần tốt nhất, hàm nhảy bậc`"]
+  n34 --- n40
+  n41["`y(0) = 1, y(1/4) = 41/44, y(1/2) = 6/44, y(1) = 2/44`"]
+  n40 --- n41
+  n42["`yθ(t) = (∫₀ᵗ y(s) ds)/t: xác suất thắng trung bình của t phần tốt nhất, liên tục và giảm`"]
+  n34 --- n42
+  n43["`yθ(1/4) ≈ 0,960, yθ(1/2) ≈ 0,885, yθ(1) ≈ 0,490`"]
+  n42 --- n43
+  n44["`T[y₀]: tỷ lệ tay bài có xác suất thắng ít nhất y₀#59; T[1/2] = 18/39`"]
+  n34 --- n44
+  n45["`Mục 6 — Ví dụ 20.5: trò chơi thấu thị một vòng rưỡi có ba trường hợp`"]
+  n0 --- n45
+  n46["`Turn là half-street (X check không xem bài), river là full-street, không raise`"]
+  n45 --- n46
+  n47["`Giá trị cho Y: check được y·P^t#59; bet bị call được y·(P+2)^t − 1#59; X fold thì Y được P`"]
+  n45 --- n47
+  n48["`Trường hợp 1: yθ(1) ≥ (P+1)/(P+2)^t thì Y bet mọi tay bài và X fold`"]
+  n45 --- n48
+  n49["`Đã buộc phải bỏ cả pot thì về sau fold trước mọi hành động ít nhất tối ưu ngang bằng`"]
+  n48 --- n49
+  n50["`Trường hợp 2: Y bet tay có y ≥ 1/((P+2)^t − P^t), hơi dưới 1/2, và X luôn call`"]
+  n45 --- n50
+  n51["`Trường hợp 3: Y bet nhóm T với yθ(T) = (P+1)/(P+2)^t, X bàng quan`"]
+  n45 --- n51
+  n52["`X fold α = (1 − y(T)[(P+2)^t − P^t]) / (P + 1 − y(T)(P+2)^t)`"]
+  n51 --- n52
+  n53["`P = 5: (P+2)^t = 63/8, P^t = 35/6, ngưỡng (P+1)/(P+2)^t = 48/63 ≈ 0,762`"]
+  n45 --- n53
+  n54["`yθ(1) ≈ 0,49 #lt; 0,762 và yθ(18/39) ≈ 0,947 #gt; 0,762, nên rơi vào Trường hợp 3`"]
+  n53 --- n54
+  n55["`Y bet T ≈ 0,598: mọi AA, JJ, AK, AQ và khoảng 44% số TT, 99`"]
+  n53 --- n55
+  n56["`Sách tính α ≈ 0,1965#59; tính lại 127/867 ≈ 0,1465, ít hơn 1/6`"]
+  n53 --- n56
+  n57["`Ba bài học: P^t đo implied odds#59; phân phối quyết định cách chơi#59; ngưỡng T và α làm trục chiến lược`"]
+  n45 --- n57
+  n58["`Mục 7–8 — Chủ đề nâng cao và thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`25% nuts và 75% bài chết mạnh hơn 100% tay bài 25% equity, dù cùng equity trung bình`"]
+  n58 --- n59
+  n60["`Thấu thị là giới hạn của việc chơi tốt#59; giữ nuts trong phân phối để cân bằng cho draw`"]
+  n58 --- n60
+  n61["`Trò chơi hai vòng đầy đủ: Y raise bài mạnh, cân bằng bằng semi-bluff raise, call draw yếu hơn`"]
+  n58 --- n61
+  n62["`Draw kín buộc người không biết bài chỉ fold α#59; draw mở cho phép fold hơn nửa số tay bài`"]
+  n58 --- n62
+  n63["`Implied odds tác động mạnh tới tần suất#59; trò chơi xoay quanh equity trong pot ngầm`"]
+  n58 --- n63
+  n64["`Tác giả chỉ gọt từng mảnh nhỏ khỏi cây trò chơi poker khổng lồ, từng tình huống một`"]
+  n58 --- n64
+  class n0 root
+  class n1,n7,n20,n34,n45,n58 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 20 "Drawing Out; Non-Static Multi-Street Games", trang 259–276.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) giải trò chơi thấu thị (clairvoyance game) một vòng cược và rút ra hằng số α = 1/(P + 1): người chơi biết bài bluff α lần số tay bài value bet, người kia fold đúng α số tay bài. Phần II, nhất là Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)), đã giới thiệu pot odds và implied odds khi một người có draw.
+
+Chương 19 ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md)) mở rộng trò chơi thấu thị ra nhiều vòng cược nhưng giữ sức mạnh bài cố định ("tĩnh"): người không biết bài chỉ cần check và call ở mỗi vòng như thể đó là trò chơi một vòng, còn người biết bài "xếp chồng" bluff rồi bỏ dần qua các vòng. Chương 20 bỏ giả định tĩnh: thêm các draw, tức các tay bài có xác suất trở thành bài tốt nhất sau lá bài kế tiếp. Kết quả chính là hai nguyên lý: bluff chỉ đáng tin khi đến từ một phân phối có cả bài mạnh, và trò chơi nhiều vòng không phải là các trò chơi một vòng nối với nhau.
+
+Chương 21 ([C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)) khép Phần III bằng các nghiên cứu tình huống áp dụng những ý này vào ván bài thật, và Chương 30 ([C30-ket-hop-tat-ca.md](C30-ket-hop-tat-ca.md)) tổng kết các nguyên lý của cả cuốn sách.
+
+## Lưu ý
+
+- **Ví dụ 20.5, tần suất fold α tính sai (trang 274–275):** sách thay số α = (1 − (6/44)(15/64))/(6 − (6/44)(63/8)) ≈ 0,19651. Đại lượng đứng sau y(T) phải là (P + 2)^t − P^t. Với P = 5: (P + 2)^t = 7 + 7/8 = 63/8 và P^t = 5 + 5/6 = 35/6 (chính sách đã tính P^t = 35/6 ở trang 266), nên hiệu là 63/8 − 35/6 = 49/24 ≈ 2,042, không phải 15/64. Tính lại: α = (1 − (6/44)(49/24))/(6 − (6/44)(63/8)) = 0,72159/4,92614 = 127/867 ≈ **0,1465**.
+
+  Vì vậy câu ở trang 275 "X fold gần 1/5 số tay bài (thay vì 1/6)" không đúng với chính ví dụ này: X fold khoảng 14,65%, **ít hơn** 1/6 ≈ 16,7%. Ý chung "lời giải của từng vòng khác lời giải khi xét riêng" vẫn đúng (0,1465 khác 1/6), nhưng chiều lệch ngược với lời giải thích của sách (nhận xét của người tổng hợp).
+- **Ví dụ 20.5, ngưỡng t₀ (trang 273):** sách viết 1/((P + 2)^t − P^t) = 8/15. Đúng là 1/(49/24) = 24/49 ≈ 0,4898 (khớp với nhận xét của chính sách rằng biểu thức này "hơi nhỏ hơn 1/2", ví dụ 0,48 tại P = 3). Con số 8/15 ứng với việc lấy 63/8 − 6 = 15/8, tức dùng nhầm P + 1 = 6 thay cho P^t. Sai số này không đổi kết luận: cả 24/49 và 8/15 đều nằm giữa 6/44 và 41/44, nên vẫn có T[ngưỡng] = 18/39.
+- **Ví dụ 20.5, công thức ngưỡng Trường hợp 1 (trang 268):** sách viết "(P+1)/(P+3)/(P+2)(P+4)". Vì (P + 2)^t = (P + 2) + (P + 2)/(P + 3) = (P + 2)(P + 4)/(P + 3), biểu thức đúng là (P + 1)(P + 3)/[(P + 2)(P + 4)]; với P = 5: 6 · 8/(7 · 9) = 48/63, khớp số sách dùng sau đó.
+- **Ví dụ 20.4, bảng tần suất các loại bài của Y sai số tổ hợp (trang 265, lặp lại trang 273):** X giữ A♠ 4♣, board A♥ J♠ 8♦ 7♣. Không có lá Q nào lộ, nên QQ có C(4,2) = 6 tổ hợp chứ không phải 3; AQ có 2 lá A còn lại × 4 lá Q = 8 tổ hợp chứ không phải 6. Các dòng khác đúng (AA 1, KK 6, JJ 3, TT 6, 99 6, AK 8). Tổng đúng là 44 tổ hợp, không phải 39. Phân phối đúng là {(1; 4/44), (41/44; 16/44), (6/44; 12/44), (2/44; 12/44)}.
+
+  Các xác suất thắng trong bảng đều đúng (người tổng hợp kiểm tra từng loại: TT và 99 có 6 lá ra, KK và QQ có 2, AK và AQ chỉ thua khi river là một trong 3 lá 4). Bản tổng hợp chép và tính theo số của sách; với phân phối đúng: yθ(1) ≈ 0,4793, yθ(20/44) ≈ 0,9455, T ≈ 0,588, còn α không đổi (vì chỉ phụ thuộc y(T) = 6/44) ≈ 0,1465.
+- **Ví dụ 20.3, giá trị của [F//] không cùng gốc với các hàng khác (trang 263, nhận xét của người tổng hợp):** các hàng "call" tính tiền thắng thua ròng từ thời điểm Y quyết định (thắng 5 khi ra set, mất 1 khi call rồi bỏ), nên theo cùng cách tính, fold phải có kỳ vọng 0. Sách lại ghi fold = −(1/25)(4) = −0,16 (phần pot Y bỏ lại), rồi đặt [C/B/K] bằng −0,16 để giải ra x_f = 3/7.
+
+  Nếu dùng gốc 0 nhất quán, phương trình (4/100)V_set + (19/100)(5 − 7x_f) − 77/100 = 0 cho x_f = 71/231 ≈ 0,307, tức X call khi flush ra khoảng 2,15 lần (thay vì 3 lần) so với 1/7 của Ví dụ 20.2. Kết luận định tính "draw kín buộc X call nhiều hơn" không đổi. Ngoài ra dòng đầu của hệ phương trình in vế phải là "16/100", nhưng dòng sau (vế phải 61/100 = 77/100 − 16/100) cho thấy ý sách là −16/100.
+- **Ví dụ 20.3, cột "Y's equity assuming x_n = 1 and x_f = 1":** sách chỉ điền ô [C/K/K] là "72/100", thiếu dấu trừ (lời văn ngay sau ghi đúng −72/100). Người tổng hợp điền các ô còn lại trong phần Nội dung chi tiết.
+- **Ví dụ 20.3, các xác suất 1/25, 19/100, 77/100 và giả định "độc lập":** sách nói hai sự kiện flush ra (20%) và set ra (4%) độc lập, nhưng lại giả định set đến từ lá cơ 1/4 số lần (độc lập thì phải là 1/5). Ba xác suất 4/100, 19/100, 77/100 khớp với giả định 1/4 (0,2 − 0,04 × 1/4 = 0,19; 0,8 − 0,04 × 3/4 = 0,77); nếu độc lập thật thì là 4/100, 19,2/100, 76,8/100. Câu "draw chỉ mạnh bằng 1/4 flush draw" cũng lệch: 4%/20% = 1/5.
+- **Ví dụ 20.3, phương trình tính y (trang 264):** sách viết "(8/9)y = 1/63 + 1/70" rồi ra y = 9/550. Phép biến đổi đúng từ (1/7)(y/9 + 1/10) = (8/9)y là (8/9 − 1/63)y = 1/70, tức (55/63)y = 1/70, cho y = 63/3.850 = 9/550 ≈ 0,0164 — kết quả của sách đúng, chỉ dòng trung gian in sai. Người tổng hợp không tái tạo được hệ số "1/9" (tỷ lệ draw kín có set khi lá cơ ra): theo giả định của chính sách, xác suất có set khi biết river là lá cơ là (1/25 × 1/4)/(1/5) = 1/20; dùng 1/20 thì (1/7)(y/20 + 1/10) = (19/20)y cho y = 1/66 ≈ 0,0152. Cả hai đều "hơi lớn hơn 1/70 ≈ 0,0143" như sách nói.
+- **Ví dụ 20.5, các điều kiện dấu của bất phương trình (trang 270–271):** sách viết vế phải 1 − α(P + 1) "dương khi α > 1/(P + 1)"; đúng là dương khi α < 1/(P + 1) (kết luận ngay sau của sách — α > 1/(P + 1) thì Y bet mọi lúc — khớp với cách hiểu đúng).
+
+  Sách viết vế trái dương "khi αP < 2, tức α < 2/P"; điều kiện chính xác là (1 − α)(P + 2)^t > P^t, tức α < 1 − P^t/(P + 2)^t (P = 5: α < 1 − (35/6)/(63/8) ≈ 0,259, trong khi 2/P = 0,4); điều kiện của sách chỉ là xấp xỉ thô. Cũng ở trang 270, sách viết "applying the typical α = P/(P+1) is incorrect" — tần suất fold quen thuộc là 1/(P + 1), còn P/(P + 1) là tần suất call. Trang 266 viết "X will bet his winning hands" — người bet là Y.
+- **Lỗi đánh máy và ký hiệu:** trang 262 "call a bet on the flop" — trò chơi diễn ra ở turn; trang 265 "A's hand" thay cho "X's hand"; trang 268 Ví dụ 20.5 ghi "Y's hand is exposed", đúng là tay bài của X lộ; trang 270 "Y bets and B calls" (B là X).
+
+  Trang 271 "(P \ 1)" là (P + 1); trang 273 "Case 1 doesn't hold because yθ(1) ≥ (P+1)/(P+2)^t" phải là dấu "<" (0,48 < 0,762); công thức α ở trang 271–272 có mẫu số "y(t)" phải là y(T); trang 275 "y(1) for both of them is 0.25" phải là yθ(1) (xác suất thắng trung bình), vì y(1) là tay bài yếu nhất (0 với phân phối nuts/bài chết); trang 269 "1/5 hands that always win, and the remaining 2/5" — 1/5 + 2/5 không đủ 1, chữ "remaining" nên là 4/5 hoặc ví dụ thiếu phần còn lại.
+- **Lớp chữ PDF:** các phân số bị làm phẳng ("4144" là 41/44, "1839" là 18/39, "9550" là 9/550), ký hiệu mũ P^t bị in thành "Pt", "(P+2)t", chỉ số x_f, x_n thành "xf", "xn", ký hiệu yθ(t) đôi khi thành "y -(t)" hoặc "y-(t)". Người tổng hợp đọc lại mọi công thức và bảng từ ảnh trang.
+- **Quy ước ký hiệu trong bản tổng hợp:** sách dùng chữ "t" vừa làm chỉ số mũ của "pot ngầm" P^t (đọc là "P t", tác giả không giải thích chữ t), vừa làm biến thứ hạng trong y(t). Bản tổng hợp viết P^t, (P + 2)^t cho pot ngầm và y(t), yθ(t) cho hàm thứ hạng. Ký hiệu T (sách in chữ T nghiêng có gạch) là ngưỡng thứ hạng; T[y₀] là tỷ lệ tay bài có xác suất thắng ít nhất y₀.

@@ -1,20 +1,22 @@
 # Chương 29 — Ba người thì thành đám đông: Trò chơi nhiều người (Three's a Crowd: Multiplayer Games)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 29 "Three's a Crowd: Multiplayer Games", trang 372–382 (Chương 30 bắt đầu giữa trang 382).
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Toàn bộ Phần III ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md) tới [C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)) giải các trò chơi hai người tổng bằng không, nơi chiến lược tối ưu tồn tại và người lệch khỏi nó chỉ có thể tự thiệt. Chương 28 ([C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)) đã cho thấy ván đối đầu trong giải đấu không còn tổng hằng vì có người ngồi ngoài hưởng lợi, qua "trò chơi gà". Chương 29 tổng quát hóa: khi có ba người trở lên, cân bằng Nash vẫn tồn tại nhưng có thể có nhiều cân bằng rất khác nhau, và người chơi có thể tạo các **liên minh ngầm** (implicit alliance) mà không vi phạm luật; một người cố ý lệch khỏi cân bằng có thể được lợi nếu người khác phản ứng để tối đa equity của chính họ. Chương dùng lại các công cụ của trò chơi nửa vòng (half-street) [0,1] ở Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) và trò chơi người chơi nhìn thấu bài (clairvoyant). Vì vậy tác giả tránh dùng từ "tối ưu" cho chiến lược nhiều người — một lý do Chương 30 ([C30-ket-hop-tat-ca.md](C30-ket-hop-tat-ca.md)) nói rằng trong poker nhiều người không tồn tại chiến lược tối ưu, chỉ có thể xấp xỉ.
-**Ý chính:** **Trò chơi nhiều người khác về bản chất trò chơi hai người tổng bằng không: cân bằng Nash luôn tồn tại (định lý Nash), nhưng nó không đủ để mô tả lối chơi tốt nhất, vì người chơi có thể liên minh — công khai (gian lận, bị cấm) hoặc ngầm (được phép và là một phần của trò chơi) — và một người phá cân bằng thường được lợi khi những người khác chạy theo lợi ích riêng.** Mục mở đầu nhắc định nghĩa cân bằng Nash, và cho thấy trò chơi gà không tổng bằng không có thể đổi thành trò chơi ba người tổng bằng không bằng cách thêm người chơi thụ động G nhận phần âm của tổng hai người kia. Tác giả chia thông đồng thành "cứng" (chia sẻ thông tin bí mật hoặc hành động ngược lợi ích riêng, bị luật cấm) và "mềm" (ví dụ cả bàn ngầm chơi lỏng và thụ động ở limit thấp, gọi là thông đồng ngầm). Ví dụ 29.1: ba người, mỗi người ante 10 đô la và nhận một lá; hai đối thủ công bố chiến lược "rock" (chỉ check, chỉ call khi có A hoặc K) và "maniac" (luôn bet, luôn call); phản ứng tốt nhất của ta vẫn có kỳ vọng −0,707 đô la mỗi ván — hai chiến lược yếu tạo thành một liên minh ngầm khiến người thứ ba không thể thắng. Một tình huống hold'em ngửa bài (A♠A♣, A♥Q♥, 8♥7♥ trên 9♥6♥2♦) cho thấy ba liên minh khả dĩ, mỗi cái dẫn tới lối chơi khác. Lý thuyết trò chơi hợp tác và giá trị Shapley được nhắc qua. Ba ví dụ do Chris Ferguson gợi ý về pot phụ trống (dry side pot — khi một người all-in và không còn tiền phụ để tranh): ở Ví dụ 29.2 (stud), Y bluff một chút chỉ chuyển equity từ X sang người all-in Z, và nếu X call nhiều hơn để chống lại thì Y lời; ở ví dụ thứ hai (sách cũng đánh số 29.2), trò chơi [0,1] nửa vòng có pot 9, sách cho X call với ngưỡng x ≈ 0,2848 thay vì 0,9 khi không có Z; ở Ví dụ 29.4, người chơi nhìn thấu bài Z có nhiều cân bằng, và nếu bluff gấp ba mức cân bằng thì Y có lời khi overcall, nên Z tăng lời mỗi value bet từ 9/10 lên 17/10 bet. Bài học chung: người phá cân bằng có thể được lợi mà không cần khai thác lại ai — điều không thể xảy ra trong trò chơi hai người tổng bằng không.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lời giải của ví dụ pot phụ trống thứ hai không thỏa chính phương trình của sách (nhận xét của người tổng hợp, trang 378–379):** sách giải hệ w = y₁/(10 − 9x), y₁ = x/2, w = √((1 + x)² − 40x/9) và báo x ≈ 0,2848. Nhưng tại x = 0,2848, vế trái x/(20 − 18x) = 0,0191 trong khi vế phải √((1,2848)² − 40 × 0,2848/9) = √0,3849 = 0,6204; hai vế không bằng nhau. Nghiệm đúng của phương trình là **x ≈ 0,5178**, nên y₁ ≈ 0,2589, vùng bluff có tâm (1 + x)/2 ≈ 0,7589, rộng w ≈ 0,0485, tức từ khoảng 0,7347 tới 0,7832. Kiểm tra: tại các đầu mút 0,7347 và 0,7832, kỳ vọng bluff của Y, −x + 9(y − x)(1 − y), bằng 0; tại x, kỳ vọng call của X, −y₁ + w(x + 10(1 − x)), bằng 0. Với các số của sách, Y có hand 0,6424 (tâm vùng bluff) được lời 0,87 bet khi bluff so với check, nên các số của sách không phải cân bằng. Hệ quả: Y value bet khoảng 25,9% và bluff khoảng 4,85% số tay (tỷ lệ bluff trên value 0,187 thay vì 0,133 của sách và 0,1 khi không có Z); X call 51,8% thay vì 28,5%. Kết luận định tính của sách giữ nguyên: sự có mặt của Z làm X call ít hơn hẳn (51,8% so với 90%) và Y bluff nhiều hơn tỷ lệ α = 1/10.
-> - **Đánh số ví dụ:** sách có hai "Example 29.2" (Dry Side Pot Game #1 ở trang 376 và Game #2 ở trang 377) và không có 29.3; ví dụ tiếp theo là 29.4. Bản tổng hợp gọi ví dụ thứ hai là "Ví dụ 29.3 (sách in nhầm 29.2)".
-> - **"Giá trị của trò chơi cho Y là 9/10 bet" phải là cho Z (trang 381):** trong trò chơi người chơi nhìn thấu bài, người được 9/10 bet mỗi lần có hand value bet là Z (value bet bị call 9/10 số lần, bluff có kỳ vọng 0). Câu ngay sau ("Z gains a total of 17/10 bets per value bet instead of only 9/10") xác nhận điều này.
-> - **"79% equity" của liên minh A♠A♣ và A♥Q♥ không tái tạo được (trang 376):** người tổng hợp liệt kê đủ 903 cặp lá turn–river: A♠A♣ có 46,5%, A♥Q♥ 21,0%, 8♥7♥ 32,4% equity, nên hai tay kia có 67,6%. Nếu chỉ tính một lá (turn), 8♥7♥ thắng với 8 trên 43 lá, hai tay kia có 81,4%. Con số 79% nằm giữa hai cách tính. Các số "năm outs" (2♥, 3♥, 4♥, J♥, K♥) của A♥Q♥ và "tám outs" (bốn lá 5, bốn lá T) của 8♥7♥ đúng; "a little less than 2-1": xác suất trúng ít nhất một trong 8 outs qua hai lá là 1 − (35/43)(34/42) = 34,1%, tức tỷ lệ 1,93 ăn 1, đúng.
-> - **Ví dụ 29.1 được kiểm tra và khớp từng dòng:** xác suất ta có A hoặc K là 8/52; 43/51 × 42/50 = 70,82%; ⟨call⟩ = 0,7082 × 45 − 30 = 1,87; bảng sáu dòng có tổng −0,707 (chính xác −781/1.105 = −0,7068 đô la). Người tổng hợp tính thêm: với chiến lược đó (call mọi bet, tức chơi giống maniac), rock được +1,414, maniac −0,707; nếu ta chơi giống rock, maniac được +4,579, ta và rock mỗi người −2,290 — đúng như lời văn của sách.
-> - **Trò chơi người chơi nhìn thấu bài được kiểm tra:** X call 50% và Y call 80% khi X bỏ cho tổng tỷ lệ bị call 0,5 + 0,5 × 0,8 = 0,9; khi Z bluff 1/10 mức value bet, overcall của Y có kỳ vọng (1/11)(5) − (10/11)(1) = −5/11; khi Z bluff 3/10, (3/13)(5) − (10/13)(1) = +5/13; Z được 2 − 3/10 = 17/10 bet mỗi value bet. Với mức bluff 1/8, người tổng hợp tính Z được 1 − 1/8 = 7/8 = 0,875 bet, ít hơn 0,9 (sách nói "tệ cho Z" mà không ghi số).
-> - **Câu "X và Z liên minh chống Y" khi Z bluff hơi nhiều (nhận xét của người tổng hợp):** với mức bluff 1/8, so với cân bằng, X được thêm 0,1375 bet, Y mất 0,1125, Z mất 0,025 (tính trên mỗi đơn vị tần suất Z có hand value bet). Vậy chỉ X được lợi; Z tự làm mình thiệt. Chữ "liên minh" ở đây chỉ có nghĩa là hành động của Z chuyển equity từ Y sang X.
-> - **Lỗi in và lỗi lớp chữ:** "horn an exploitive point of view" (from, trang 373); "verily" (verify, trang 374); "Our's hand" (Our hand, trang 375); "improve then joint equity" (their, trang 376); "repeated ploy" (play, trang 376); quân A thứ tư của X ở Ví dụ 29.2 in là A♥ lần hai (phải là A♠, vì A♥ đã xuất hiện); "than Y's hand will still beat Z's" (that, trang 377); "and its call its width w" (trang 377); "his expectation will he lower" (be, trang 379); "redistribute some of it to T" (Y, trang 380); "Y can never overall" (overcall, trang 381); "docs not gain" (does, trang 381); "alliances arc formed" (are, trang 381). Ký hiệu "a" ở trang 378–380 là α (chữ Hy Lạp) bị mất phông. Lớp chữ làm hỏng căn thức √((1 + x)² − 40x/9) và các phân số 1/10, 1/8, 3/10, 3/13, 10/13, 17/10, 9/10; người tổng hợp đọc lại từ ảnh trang.
-> - **Quy ước:** trong các trò chơi [0,1] của chương, số càng nhỏ là bài càng mạnh (0 là bài tốt nhất), như Chương 11. "Bet" vừa là hành động vừa là đơn vị cược. Người chơi X, Y, Z giữ đúng tên của sách; trong Ví dụ 29.1 sách gọi hai đối thủ là "rock" (người chơi rất chặt) và "maniac" (người chơi cực kỳ hung hăng), bản tổng hợp giữ nguyên hai tên này.
+**Trò chơi nhiều người khác về bản chất trò chơi hai người tổng bằng không: cân bằng Nash luôn tồn tại (định lý Nash), nhưng nó không đủ để mô tả lối chơi tốt nhất, vì người chơi có thể liên minh — công khai (gian lận, bị cấm) hoặc ngầm (được phép và là một phần của trò chơi) — và một người phá cân bằng thường được lợi khi những người khác chạy theo lợi ích riêng.**
+
+Mục mở đầu nhắc định nghĩa cân bằng Nash, và cho thấy trò chơi gà không tổng bằng không có thể đổi thành trò chơi ba người tổng bằng không bằng cách thêm người chơi thụ động G nhận phần âm của tổng hai người kia. Tác giả chia thông đồng thành "cứng" (chia sẻ thông tin bí mật hoặc hành động ngược lợi ích riêng, bị luật cấm) và "mềm" (ví dụ cả bàn ngầm chơi lỏng và thụ động ở limit thấp, gọi là thông đồng ngầm).
+
+Ví dụ 29.1: ba người, mỗi người ante 10 đô la và nhận một lá; hai đối thủ công bố chiến lược "rock" (chỉ check, chỉ call khi có A hoặc K) và "maniac" (luôn bet, luôn call); phản ứng tốt nhất của ta vẫn có kỳ vọng −0,707 đô la mỗi ván — hai chiến lược yếu tạo thành một liên minh ngầm khiến người thứ ba không thể thắng.
+
+Một tình huống hold'em ngửa bài (A♠A♣, A♥Q♥, 8♥7♥ trên 9♥6♥2♦) cho thấy ba liên minh khả dĩ, mỗi cái dẫn tới lối chơi khác. Lý thuyết trò chơi hợp tác và giá trị Shapley được nhắc qua.
+
+Ba ví dụ do Chris Ferguson gợi ý về pot phụ trống (dry side pot — khi một người all-in và không còn tiền phụ để tranh):
+
+- Ở Ví dụ 29.2 (stud), Y bluff một chút chỉ chuyển equity từ X sang người all-in Z, và nếu X call nhiều hơn để chống lại thì Y lời.
+- Ở ví dụ thứ hai (sách cũng đánh số 29.2), trò chơi [0,1] nửa vòng có pot 9, sách cho X call với ngưỡng x ≈ 0,2848 thay vì 0,9 khi không có Z.
+- Ở Ví dụ 29.4, người chơi nhìn thấu bài Z có nhiều cân bằng, và nếu bluff gấp ba mức cân bằng thì Y có lời khi overcall, nên Z tăng lời mỗi value bet từ 9/10 lên 17/10 bet.
+
+Bài học chung: người phá cân bằng có thể được lợi mà không cần khai thác lại ai — điều không thể xảy ra trong trò chơi hai người tổng bằng không.
 
 ## Sơ đồ
 
@@ -332,7 +334,9 @@ Như trong các trò chơi chiến thuật trên bàn cờ, người chơi có t
 
 Có thể chia các liên minh thông đồng thành loại "cứng" và "mềm", phân biệt bởi việc người chơi có chia sẻ thông tin bí mật về trò chơi hay không, và họ hành động để tối đa kỳ vọng chung hay kỳ vọng riêng.
 
-**Thông đồng "cứng"** xảy ra khi người chơi chia sẻ thông tin bí mật về trò chơi, hoặc hành động ngược lợi ích riêng vì lợi ích chung của liên minh; nó bị luật chơi cấm trực tiếp. Ví dụ, một đội gian lận ra hiệu cho đồng bọn về lá bài úp của mình và thao túng việc cược có lợi cho họ. Hoặc người chơi có thể thỏa thuận chia equity giải đấu rồi chơi nhẹ tay với nhau hay tìm cách cân bằng chip giữa họ, nhằm tối đa kỳ vọng chung trong giải. Hành vi này phá hỏng trò chơi vì các cá nhân không còn hành động theo lợi ích riêng (trong phạm vi trò chơi). Hai hay nhiều người thông đồng có năng lực sẽ không khó lấy thêm một lượng kỳ vọng đáng kể so với khi chơi riêng. Về phân tích, tác giả thường bỏ qua thông đồng cứng, coi nó nằm ngoài luật chơi; nhưng người chơi cần biết nó có tồn tại và thường rất khó phát hiện.
+**Thông đồng "cứng"** xảy ra khi người chơi chia sẻ thông tin bí mật về trò chơi, hoặc hành động ngược lợi ích riêng vì lợi ích chung của liên minh; nó bị luật chơi cấm trực tiếp. Ví dụ, một đội gian lận ra hiệu cho đồng bọn về lá bài úp của mình và thao túng việc cược có lợi cho họ. Hoặc người chơi có thể thỏa thuận chia equity giải đấu rồi chơi nhẹ tay với nhau hay tìm cách cân bằng chip giữa họ, nhằm tối đa kỳ vọng chung trong giải.
+
+Hành vi này phá hỏng trò chơi vì các cá nhân không còn hành động theo lợi ích riêng (trong phạm vi trò chơi). Hai hay nhiều người thông đồng có năng lực sẽ không khó lấy thêm một lượng kỳ vọng đáng kể so với khi chơi riêng. Về phân tích, tác giả thường bỏ qua thông đồng cứng, coi nó nằm ngoài luật chơi; nhưng người chơi cần biết nó có tồn tại và thường rất khó phát hiện.
 
 **Thông đồng "mềm"**, ngược lại, thường không vi phạm luật và là một phần không thể thiếu của poker nhiều người. Ví dụ kinh điển là lối chơi cực kỳ lỏng (loose — chơi nhiều bài) và thụ động ở các bàn limit thấp. Điều thường xảy ra ở các bàn này là phần lớn, nếu không phải tất cả, người chơi có một thỏa thuận không chính thức, không nói ra, rằng họ sẽ chơi rất lỏng và thụ động ở các vòng cược đầu. Nhờ thỏa thuận ngầm này, những nước đi vốn là thảm họa equity ở bàn chặt và hung hăng (như limp — chỉ call blind — ở vị trí under-the-gun trong limit hold'em với 7-5 khác chất) chỉ còn là lỗi nhẹ. Các tác giả khác gọi khái niệm này là "thông đồng ngầm" (implicit collusion), một tên gọi hợp lý.
 
@@ -481,7 +485,9 @@ Sau khi X check mà không nhìn bài (check dark), xét chiến lược của Y
 
 Vậy Y chỉ còn cách bet lấy giá trị? Nếu vậy, có vẻ X có thể khai thác Y bằng cách bỏ các hand trung bình thay vì call. Y cần ngăn điều này bằng cách nào đó. Nhưng một điều rõ ràng: X sẽ có một ngưỡng duy nhất để call bet của Y.
 
-Gọi ngưỡng call của X là **x** (X call với [0, x]), ngưỡng value bet của Y là **y₁** (Y value bet với [0, y₁]). Giả sử Y sẽ bet một số hand tệ hơn y₁ (cách vùng value bet bởi một vùng check). Gọi các bet này là "bluff", dù chúng không giống các hand tệ nhất mà Y bet ở các trò chơi trước. Thực ra chúng là **nửa bluff** (semi-bluff): mong X bỏ một hand tốt hơn hand của Y nhưng hand của Y vẫn thắng hand của Z. X sẽ call bất cứ khi nào call có equity dương. Rõ ràng X không bao giờ call với hand không thắng được các "bluff" của Y, nên ngưỡng x nằm giữa y₁ và vùng bluff của Y. Gọi vùng bluff là **YB**, độ rộng **w**. Ở trò chơi này, độ rộng vùng bluff **không** bằng α lần độ rộng vùng value bet (như ở trò chơi hai người), vì người all-in làm giảm equity của một cú bluff thành công.
+Gọi ngưỡng call của X là **x** (X call với [0, x]), ngưỡng value bet của Y là **y₁** (Y value bet với [0, y₁]). Giả sử Y sẽ bet một số hand tệ hơn y₁ (cách vùng value bet bởi một vùng check). Gọi các bet này là "bluff", dù chúng không giống các hand tệ nhất mà Y bet ở các trò chơi trước. Thực ra chúng là **nửa bluff** (semi-bluff): mong X bỏ một hand tốt hơn hand của Y nhưng hand của Y vẫn thắng hand của Z.
+
+X sẽ call bất cứ khi nào call có equity dương. Rõ ràng X không bao giờ call với hand không thắng được các "bluff" của Y, nên ngưỡng x nằm giữa y₁ và vùng bluff của Y. Gọi vùng bluff là **YB**, độ rộng **w**. Ở trò chơi này, độ rộng vùng bluff **không** bằng α lần độ rộng vùng value bet (như ở trò chơi hai người), vì người all-in làm giảm equity của một cú bluff thành công.
 
 #### Phương trình bàng quan thứ nhất: X tại ngưỡng x
 
@@ -578,7 +584,9 @@ X được một phần nhỏ giá trị này khi call, vì Y có bluff thườn
 
 #### X phản ứng bằng cách call rộng hơn
 
-X có thể đổi chiến lược để cố tăng equity (cân bằng Nash đã bị phá vỡ bởi thay đổi của Y). Giả sử X call với nhiều hand ở giữa hơn, tức tăng ngưỡng call x. Khi đó X giành lại được nhiều pot mà X "đáng được" khi X < Z < Y (X tốt nhất, Y tệ nhất), nhưng X cũng trả cho Y thường hơn khi Y có value bet. Từ góc nhìn của Y, việc X call nhiều hơn thực ra rất đáng hoan nghênh. Theo sách: Y được thêm một bet (value) khoảng 14,2% số lần, mất một bet khoảng 3% số lần, và mất khoảng một phần ba pot 9 đơn vị; đôi khi Y bluff khiến X bỏ khi Z có hand yếu và thắng cả pot. Cộng lại, Y được lời ròng khoảng 2% một bet khi X call thêm hand. Bằng cách này X lấy lại phần lớn equity "đã mất" từ Z — nhưng phải chia một phần cho Y.
+X có thể đổi chiến lược để cố tăng equity (cân bằng Nash đã bị phá vỡ bởi thay đổi của Y). Giả sử X call với nhiều hand ở giữa hơn, tức tăng ngưỡng call x. Khi đó X giành lại được nhiều pot mà X "đáng được" khi X < Z < Y (X tốt nhất, Y tệ nhất), nhưng X cũng trả cho Y thường hơn khi Y có value bet. Từ góc nhìn của Y, việc X call nhiều hơn thực ra rất đáng hoan nghênh.
+
+Theo sách: Y được thêm một bet (value) khoảng 14,2% số lần, mất một bet khoảng 3% số lần, và mất khoảng một phần ba pot 9 đơn vị; đôi khi Y bluff khiến X bỏ khi Z có hand yếu và thắng cả pot. Cộng lại, Y được lời ròng khoảng 2% một bet khi X call thêm hand. Bằng cách này X lấy lại phần lớn equity "đã mất" từ Z — nhưng phải chia một phần cho Y.
 
 Người tổng hợp kiểm tra bằng tích phân số (chia lưới 1.500 × 1.500 cho hand của X và Y, tính chính xác theo Z), kỳ vọng mỗi người tính bằng bet trên tổng pot 9:
 
@@ -592,7 +600,9 @@ Theo cân bằng đã sửa, các hiệu ứng nhỏ hơn số của sách (dư�
 
 #### Bài học ngược trực giác
 
-Ý ngược trực giác ở đây là: **khi Y bluff quá mức và X chơi để tối đa kỳ vọng của mình, Y được lợi.** Thực ra Y có lợi nhất khi chắc chắn X biết Y sẽ bluff quá mức. Nếu không, X có thể chỉ chơi chiến lược cân bằng Nash và Y sẽ mất equity vì bluff quá mức. Vậy Y tốt hơn nhiều nếu công bố chiến lược của mình cho X, với hy vọng X sẽ khai thác nó. Bằng cách bluff quá mức, Y tự mình đơn phương tham gia một liên minh với Z: liên minh này bluff X ra khỏi pot và cho Z equity. Nhưng bằng cách công bố chiến lược, Y mời X vào một liên minh khác — lần này X và Y chống Z. Điều kiện duy nhất là X phải cho Y một phần equity để vào liên minh này. Lựa chọn còn lại là X liên minh với Z (X tự chịu thiệt) để trừng phạt Y vì hành vi thao túng.
+Ý ngược trực giác ở đây là: **khi Y bluff quá mức và X chơi để tối đa kỳ vọng của mình, Y được lợi.** Thực ra Y có lợi nhất khi chắc chắn X biết Y sẽ bluff quá mức. Nếu không, X có thể chỉ chơi chiến lược cân bằng Nash và Y sẽ mất equity vì bluff quá mức. Vậy Y tốt hơn nhiều nếu công bố chiến lược của mình cho X, với hy vọng X sẽ khai thác nó.
+
+Bằng cách bluff quá mức, Y tự mình đơn phương tham gia một liên minh với Z: liên minh này bluff X ra khỏi pot và cho Z equity. Nhưng bằng cách công bố chiến lược, Y mời X vào một liên minh khác — lần này X và Y chống Z. Điều kiện duy nhất là X phải cho Y một phần equity để vào liên minh này. Lựa chọn còn lại là X liên minh với Z (X tự chịu thiệt) để trừng phạt Y vì hành vi thao túng.
 
 **Lưu ý quan trọng của tác giả:** bluff vào pot phụ trống trái lệ thường, và có lý do mạnh để không làm vậy vì khía cạnh thông đồng lộ liễu của nó. Người chơi nên cân nhắc kỹ liệu chút equity tiềm năng thu được có đủ bù cho khả năng bị trả đũa ở các ván hay các giải sau. Những vấn đề này khá mơ hồ. Tác giả nêu ví dụ này để cho thấy một tình huống hoàn toàn ngược trực giác chỉ tồn tại vì có người all-in và vì Y có cơ hội chuyển equity từ X sang Z.
 
@@ -617,7 +627,9 @@ Lấy làm ứng viên cân bằng: X call 50% số lần, và Y call 80% số l
 
 #### Z bluff hơi nhiều: 1/8 thay vì 1/10
 
-Như đã thấy, Z có thể cố phá cân bằng bằng cách bluff thường hơn. Giả sử Z công bố sẽ bluff 1/8 số lần so với value bet thay vì 1/10. Khi đó phản ứng khai thác của X là call mọi lúc, bắt các cú bluff của Z (kỳ vọng call của X: Z bluff 1/9 số lần bet, X thắng 10 khi Z bluff, thua 1 khi Z value bet: (1/9)(10) − (8/9)(1) = 2/9 > 0). Nhưng Y vẫn không thể overcall vì thiếu pot odds ((1/9)(5) − (8/9)(1) = −1/3 < 0). Điều này thực ra tệ cho Z: Z mất thêm equity ở các cú bluff thất bại và không lấy lại đủ từ việc value bet bị call nhiều hơn. Người tổng hợp tính: mỗi value bet, Z được +1 (luôn bị call) trừ 1/8 (bluff luôn bị call), tức 7/8 = 0,875 bet, ít hơn 0,9.
+Như đã thấy, Z có thể cố phá cân bằng bằng cách bluff thường hơn. Giả sử Z công bố sẽ bluff 1/8 số lần so với value bet thay vì 1/10. Khi đó phản ứng khai thác của X là call mọi lúc, bắt các cú bluff của Z (kỳ vọng call của X: Z bluff 1/9 số lần bet, X thắng 10 khi Z bluff, thua 1 khi Z value bet: (1/9)(10) − (8/9)(1) = 2/9 > 0). Nhưng Y vẫn không thể overcall vì thiếu pot odds ((1/9)(5) − (8/9)(1) = −1/3 < 0).
+
+Điều này thực ra tệ cho Z: Z mất thêm equity ở các cú bluff thất bại và không lấy lại đủ từ việc value bet bị call nhiều hơn. Người tổng hợp tính: mỗi value bet, Z được +1 (luôn bị call) trừ 1/8 (bluff luôn bị call), tức 7/8 = 0,875 bet, ít hơn 0,9.
 
 #### Z bluff gấp ba: 3/10
 
@@ -690,7 +702,9 @@ Trong trò chơi có từ ba người trở lên, cân bằng Nash luôn tồn t
 
 ### Trong ngôn ngữ lý thuyết trò chơi
 
-Chương phân biệt trò chơi hai người tổng bằng không (giá trị duy nhất, chiến lược cân bằng có thể thay thế cho nhau, nên "tối ưu" có nghĩa rõ ràng) với trò chơi n người (định lý tồn tại của Nash nhưng không có tính duy nhất hay tính thay thế được giữa các cân bằng). Thêm một người chơi "giả" nhận âm tổng biến mọi trò chơi thành tổng bằng không, cho thấy tính tổng bằng không không phải điều làm trò chơi hai người dễ, mà là việc chỉ có hai người. Các ví dụ minh họa rằng một người chơi có thể có lợi khi cam kết (commitment) trước một chiến lược ngoài cân bằng — giống lợi thế người dẫn đầu trong mô hình Stackelberg — khi những người khác phản ứng tốt nhất. Liên minh và giá trị Shapley thuộc lý thuyết trò chơi hợp tác.
+Chương phân biệt trò chơi hai người tổng bằng không (giá trị duy nhất, chiến lược cân bằng có thể thay thế cho nhau, nên "tối ưu" có nghĩa rõ ràng) với trò chơi n người (định lý tồn tại của Nash nhưng không có tính duy nhất hay tính thay thế được giữa các cân bằng). Thêm một người chơi "giả" nhận âm tổng biến mọi trò chơi thành tổng bằng không, cho thấy tính tổng bằng không không phải điều làm trò chơi hai người dễ, mà là việc chỉ có hai người.
+
+Các ví dụ minh họa rằng một người chơi có thể có lợi khi cam kết (commitment) trước một chiến lược ngoài cân bằng — giống lợi thế người dẫn đầu trong mô hình Stackelberg — khi những người khác phản ứng tốt nhất. Liên minh và giá trị Shapley thuộc lý thuyết trò chơi hợp tác.
 
 ## Thuật ngữ
 
@@ -830,4 +844,170 @@ Chương ngắn nhưng đặt đúng giới hạn của toàn bộ Phần III: m
 ### Vận dụng
 
 - **Cho người chơi poker:** ở bàn nhiều người, đánh giá cả "ai được lợi" khi mình phản ứng với một đối thủ, không chỉ kỳ vọng trực tiếp. Khi có người all-in, quan niệm "check tới cuối" là điểm khởi đầu tốt, nhưng hãy cảnh giác với người bluff quá mức có chủ ý. Ở các bàn có nhiều người lỏng và thụ động, các lỗi lỏng bị phạt nhẹ hơn; ngược lại, ở bàn có hai kiểu đối thủ đối lập (một người cực chặt, một người cực hung hăng), có thể chính cấu trúc bàn làm mình khó thắng.
-- **Cho người làm kinh tế, tài chính và ra quyết định:** (1) Thị trường có nhiều người tham gia không có "chiến lược tối ưu" độc lập với người khác; kết quả phụ thuộc vào liên minh ngầm. Ví dụ, các nhà tạo lập thị trường hay các hãng trong một ngành độc quyền nhóm có thể "thông đồng ngầm" (giữ giá cao mà không trao đổi) — điều luật cạnh tranh gọi là phối hợp ngầm (tacit collusion) và rất khó xử lý vì không có thỏa thuận nào bị vi phạm. (2) Một bên có thể có lợi khi công khai cam kết một hành vi "kém tối ưu" (ví dụ ngân hàng trung ương cam kết chính sách, doanh nghiệp công bố sẽ đáp trả mọi đợt giảm giá) để thay đổi phản ứng của người khác. (3) Trong đàm phán nhiều bên (chia nợ khi tái cấu trúc, liên minh chính trị), giá trị Shapley là một chuẩn để chia lợi ích, và việc "ai liên minh với ai" thường quan trọng hơn sức mạnh riêng của từng bên. (4) Ví dụ 29.1 là lời nhắc rằng hai đối tác có chiến lược bổ sung nhau (một bên rất thận trọng, một bên rất mạo hiểm) có thể khiến bên thứ ba khó có lời dù hiểu rõ cả hai.
+- **Cho người làm kinh tế, tài chính và ra quyết định:**
+  - Thị trường có nhiều người tham gia không có "chiến lược tối ưu" độc lập với người khác; kết quả phụ thuộc vào liên minh ngầm. Ví dụ, các nhà tạo lập thị trường hay các hãng trong một ngành độc quyền nhóm có thể "thông đồng ngầm" (giữ giá cao mà không trao đổi) — điều luật cạnh tranh gọi là phối hợp ngầm (tacit collusion) và rất khó xử lý vì không có thỏa thuận nào bị vi phạm.
+  - Một bên có thể có lợi khi công khai cam kết một hành vi "kém tối ưu" (ví dụ ngân hàng trung ương cam kết chính sách, doanh nghiệp công bố sẽ đáp trả mọi đợt giảm giá) để thay đổi phản ứng của người khác.
+  - Trong đàm phán nhiều bên (chia nợ khi tái cấu trúc, liên minh chính trị), giá trị Shapley là một chuẩn để chia lợi ích, và việc "ai liên minh với ai" thường quan trọng hơn sức mạnh riêng của từng bên.
+  - Ví dụ 29.1 là lời nhắc rằng hai đối tác có chiến lược bổ sung nhau (một bên rất thận trọng, một bên rất mạo hiểm) có thể khiến bên thứ ba khó có lời dù hiểu rõ cả hai.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 29 trên một trang: sáu nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (cân bằng Nash và trò chơi gà ba người, thông đồng và Ví dụ 29.1, ván hold'em ngửa bài và lý thuyết trò chơi hợp tác, pot phụ trống ở Ví dụ 29.2 và 29.3, trò chơi maniac nhìn thấu bài ở Ví dụ 29.4), mỗi nhánh ghi định nghĩa, phương trình, nghiệm và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 29: cân bằng Nash luôn tồn tại nhưng không đủ khi có ba người, vì liên minh và người phá cân bằng thường được lợi`"]
+  n1["`Mục 1 — Cân bằng Nash không đủ: trò chơi gà thành trò chơi ba người`"]
+  n0 --- n1
+  n2["`Cân bằng Nash: bộ chiến lược mà không người nào tự đổi chiến lược mà tăng được kỳ vọng`"]
+  n1 --- n2
+  n3["`Nash (thập niên 1950): mọi trò chơi có hữu hạn người chơi, tổng bằng không hay không, đều có ít nhất một cân bằng`"]
+  n1 --- n3
+  n4["`Hai người tổng bằng không: các cân bằng giống nhau, chỉ khác ở lựa chọn bị trội#59; nhiều người: có thể rất khác nhau`"]
+  n1 --- n4
+  n5["`Thêm người thụ động G nhận âm tổng của A và B: trò chơi gà thành tổng bằng không ba người`"]
+  n1 --- n5
+  n6["`Ba cân bằng: cả hai tránh 90%, lao thẳng 10%#59; A lao thẳng, B tránh#59; B lao thẳng, A tránh`"]
+  n5 --- n6
+  n7["`Thưởng của A ở ba cân bằng là −0,1, +1 và −1`"]
+  n6 --- n7
+  n8["`Tìm cân bằng Nash là bước đầu, nhưng không đủ mô tả lối chơi tốt nhất, chủ yếu vì có liên minh`"]
+  n1 --- n8
+  n9["`Mục 2–3 — Thông đồng và Ví dụ 29.1: rock và maniac`"]
+  n0 --- n9
+  n10["`Thông đồng cứng: chia sẻ thông tin bí mật hoặc hành động ngược lợi ích riêng#59; bị luật cấm, khó phát hiện`"]
+  n9 --- n10
+  n11["`Thông đồng mềm (ngầm): cả bàn limit thấp chơi lỏng, thụ động, nên limp under-the-gun với 7-5 khác chất chỉ còn là lỗi nhẹ`"]
+  n9 --- n11
+  n12["`Ví dụ 29.1: ba người ante 10 đô la, mỗi người một lá, bet 30 đô la#59; A hoặc K là lá thắng`"]
+  n9 --- n12
+  n13["`Rock luôn check, chỉ call khi có A hoặc K#59; maniac luôn bet, luôn call`"]
+  n12 --- n13
+  n14["`Có lá thua vẫn nên call: không đối thủ nào có A/K với xác suất (43/51)(42/50) = 70,8%`"]
+  n12 --- n14
+  n15["`⟨call⟩ = 0,708 × 45 − 30 = +1,87 đô la #gt; ⟨fold⟩ = 0`"]
+  n14 --- n15
+  n16["`Phản ứng tốt nhất vẫn có kỳ vọng −0,707 đô la mỗi ván (chính xác −781/1.105)`"]
+  n9 --- n16
+  n17["`Hai chiến lược yếu thành liên minh ngầm chống người ở giữa, không cần trao đổi thông tin`"]
+  n16 --- n17
+  n18["`Ta chơi như maniac: rock +1,414, maniac −0,707#59; chơi như rock: maniac +4,579, ta và rock −2,290`"]
+  n16 --- n18
+  n19["`Mục 4–5 — Hold'em ngửa bài và lý thuyết trò chơi hợp tác`"]
+  n0 --- n19
+  n20["`Flop 9♥6♥2♦: A có A♠A♣ (bài đã thành), B có A♥Q♥ (draw thùng lớn nhất), C có 8♥7♥ (draw thùng phá sảnh)`"]
+  n19 --- n20
+  n21["`A + C liên minh: C bet, A raise#59; B chỉ còn 5 outs, không đủ tỷ lệ, bỏ bài, liên minh lấy cả pot`"]
+  n20 --- n21
+  n22["`A + B liên minh: C có 8 outs, gần 2 ăn 1, đủ tỷ lệ call#59; liên minh lấy bốn bet từ C`"]
+  n20 --- n22
+  n23["`Người tổng hợp: equity 46,5% / 21,0% / 32,4%, A và B có 67,6%#59; không tái tạo được 79% của sách`"]
+  n22 --- n23
+  n24["`B + C liên minh: B bỏ bài, C nhận mọi outs của B, liên minh chỉ trả một bet`"]
+  n20 --- n24
+  n25["`Ngay cả khi bài ngửa, không rõ ván nên diễn ra thế nào vì có nhiều liên minh khả dĩ`"]
+  n19 --- n25
+  n26["`Lý thuyết trò chơi hợp tác: khoản trả bên ngoài (trong poker bị cấm) và trò chơi lặp lại`"]
+  n19 --- n26
+  n27["`Giá trị Shapley: trung bình có trọng số giá trị mọi liên minh mà một người có thể tham gia`"]
+  n19 --- n27
+  n28["`Ba người, mọi liên minh từ hai người có giá trị 1: giá trị Shapley mỗi người là 1/3`"]
+  n27 --- n28
+  n29["`Mục 6–8 — Pot phụ trống: Ví dụ 29.2 và 29.3`"]
+  n0 --- n29
+  n30["`Quan niệm phổ biến: có người all-in và pot phụ trống thì check tới cuối, ít nhất đừng bluff`"]
+  n29 --- n30
+  n31["`Ví dụ 29.2 (stud): X tứ quý A, Z all-in tứ quý K, Y có thể có thùng phá sảnh`"]
+  n29 --- n31
+  n32["`Cân bằng Nash: Y chỉ value bet thùng phá sảnh, X luôn bỏ bài trước bet`"]
+  n31 --- n32
+  n33["`Y bluff một chút chuyển equity từ X sang Z#59; X call để chống thì trả cả value bet: Y không thể bị thiệt`"]
+  n31 --- n33
+  n34["`Ví dụ 29.3: hand đều trên [0,1], pot 9, nửa vòng#59; Y nửa bluff một vùng rộng w ở giữa`"]
+  n29 --- n34
+  n35["`Ba phương trình bàng quan: w = y₁/(10 − 9x), y₁ = x/2, w = √((1 + x)² − 40x/9)`"]
+  n34 --- n35
+  n36["`Sách: x ≈ 0,2848, X call 28,5% thay vì 90%#59; người tổng hợp: số này không thỏa phương trình`"]
+  n34 --- n36
+  n37["`Nghiệm đúng: x ≈ 0,5178, y₁ ≈ 0,2589, vùng bluff 0,7347–0,7832, bluff/value 0,187 #gt; α = 1/10`"]
+  n34 --- n37
+  n38["`Y bluff quá mức (w từ 1,9% lên 3%): X giữ ngưỡng thì Z hưởng#59; X call rộng hơn thì Y lời`"]
+  n29 --- n38
+  n39["`Y nên công bố chiến lược để mời X vào liên minh X + Y chống Z`"]
+  n38 --- n39
+  n40["`Bluff vào pot phụ trống trái lệ thường, có thể bị trả đũa ở các ván hay giải sau`"]
+  n38 --- n40
+  n41["`Mục 9 — Ví dụ 29.4: trò chơi maniac nhìn thấu bài`"]
+  n0 --- n41
+  n42["`Z nhìn thấu bài, pot 9 nên α = 1/10#59; X và Y chỉ được check và call/fold`"]
+  n41 --- n42
+  n43["`Có nhiều cân bằng Nash: mọi chiến lược làm tổng tỷ lệ Z bị call là 9/10 và Y không overcall`"]
+  n41 --- n43
+  n44["`Z bluff 1/10: overcall của Y có kỳ vọng (1/11)(5) − (10/11)(1) = −5/11 bet`"]
+  n43 --- n44
+  n45["`Ví dụ: X call 50%, Y call 80% khi X bỏ#59; Z được 9/10 bet mỗi value bet`"]
+  n43 --- n45
+  n46["`Z bluff 1/8: X luôn call, Y vẫn không overcall#59; Z chỉ được 7/8 #lt; 9/10, chỉ X có lợi`"]
+  n41 --- n46
+  n47["`Z bluff 3/10 (gấp ba): overcall của Y lời (3/13)(5) − (10/13)(1) = +5/13`"]
+  n41 --- n47
+  n48["`Z được 2 − 3/10 = 17/10 bet mỗi value bet thay vì 9/10: Y và Z liên minh chống X`"]
+  n47 --- n48
+  n49["`So với cân bằng: X −0,40, Y −0,40, Z +0,80 bet`"]
+  n47 --- n49
+  n50["`Mục 10 — Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Người phá cân bằng được lợi mà không cần khai thác lại ai, khi người khác tối đa equity riêng`"]
+  n50 --- n51
+  n52["`Không thể có ở hai người tổng bằng không: equity người này được là do người kia mất`"]
+  n50 --- n52
+  n53["`Vì vậy tác giả không dùng từ #quot;tối ưu#quot; cho chiến lược nhiều người`"]
+  n50 --- n53
+  n54["`Mỗi người phải chọn liên minh và dụ người khác liên minh với mình`"]
+  n50 --- n54
+  n55["`Chỉ khi người khác chấp nhận hành động kỳ vọng âm để trừng phạt, người phá cân bằng mới không được lợi`"]
+  n50 --- n55
+  n56["`Cách phá cân bằng tốt nhất thường là bluff nhiều hơn hẳn`"]
+  n50 --- n56
+  class n0 root
+  class n1,n9,n19,n29,n41,n50 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 29 "Three's a Crowd: Multiplayer Games", trang 372–382 (Chương 30 bắt đầu giữa trang 382).
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Toàn bộ Phần III ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md) tới [C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)) giải các trò chơi hai người tổng bằng không, nơi chiến lược tối ưu tồn tại và người lệch khỏi nó chỉ có thể tự thiệt. Chương 28 ([C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)) đã cho thấy ván đối đầu trong giải đấu không còn tổng hằng vì có người ngồi ngoài hưởng lợi, qua "trò chơi gà".
+
+Chương 29 tổng quát hóa: khi có ba người trở lên, cân bằng Nash vẫn tồn tại nhưng có thể có nhiều cân bằng rất khác nhau, và người chơi có thể tạo các **liên minh ngầm** (implicit alliance) mà không vi phạm luật; một người cố ý lệch khỏi cân bằng có thể được lợi nếu người khác phản ứng để tối đa equity của chính họ. Chương dùng lại các công cụ của trò chơi nửa vòng (half-street) [0,1] ở Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) và trò chơi người chơi nhìn thấu bài (clairvoyant).
+
+Vì vậy tác giả tránh dùng từ "tối ưu" cho chiến lược nhiều người — một lý do Chương 30 ([C30-ket-hop-tat-ca.md](C30-ket-hop-tat-ca.md)) nói rằng trong poker nhiều người không tồn tại chiến lược tối ưu, chỉ có thể xấp xỉ.
+
+## Lưu ý
+
+- **Lời giải của ví dụ pot phụ trống thứ hai không thỏa chính phương trình của sách (nhận xét của người tổng hợp, trang 378–379):** sách giải hệ w = y₁/(10 − 9x), y₁ = x/2, w = √((1 + x)² − 40x/9) và báo x ≈ 0,2848. Nhưng tại x = 0,2848, vế trái x/(20 − 18x) = 0,0191 trong khi vế phải √((1,2848)² − 40 × 0,2848/9) = √0,3849 = 0,6204; hai vế không bằng nhau.
+
+  Nghiệm đúng của phương trình là **x ≈ 0,5178**, nên y₁ ≈ 0,2589, vùng bluff có tâm (1 + x)/2 ≈ 0,7589, rộng w ≈ 0,0485, tức từ khoảng 0,7347 tới 0,7832. Kiểm tra: tại các đầu mút 0,7347 và 0,7832, kỳ vọng bluff của Y, −x + 9(y − x)(1 − y), bằng 0; tại x, kỳ vọng call của X, −y₁ + w(x + 10(1 − x)), bằng 0.
+
+  Với các số của sách, Y có hand 0,6424 (tâm vùng bluff) được lời 0,87 bet khi bluff so với check, nên các số của sách không phải cân bằng. Hệ quả: Y value bet khoảng 25,9% và bluff khoảng 4,85% số tay (tỷ lệ bluff trên value 0,187 thay vì 0,133 của sách và 0,1 khi không có Z); X call 51,8% thay vì 28,5%. Kết luận định tính của sách giữ nguyên: sự có mặt của Z làm X call ít hơn hẳn (51,8% so với 90%) và Y bluff nhiều hơn tỷ lệ α = 1/10.
+- **Đánh số ví dụ:** sách có hai "Example 29.2" (Dry Side Pot Game #1 ở trang 376 và Game #2 ở trang 377) và không có 29.3; ví dụ tiếp theo là 29.4. Bản tổng hợp gọi ví dụ thứ hai là "Ví dụ 29.3 (sách in nhầm 29.2)".
+- **"Giá trị của trò chơi cho Y là 9/10 bet" phải là cho Z (trang 381):** trong trò chơi người chơi nhìn thấu bài, người được 9/10 bet mỗi lần có hand value bet là Z (value bet bị call 9/10 số lần, bluff có kỳ vọng 0). Câu ngay sau ("Z gains a total of 17/10 bets per value bet instead of only 9/10") xác nhận điều này.
+- **"79% equity" của liên minh A♠A♣ và A♥Q♥ không tái tạo được (trang 376):** người tổng hợp liệt kê đủ 903 cặp lá turn–river: A♠A♣ có 46,5%, A♥Q♥ 21,0%, 8♥7♥ 32,4% equity, nên hai tay kia có 67,6%. Nếu chỉ tính một lá (turn), 8♥7♥ thắng với 8 trên 43 lá, hai tay kia có 81,4%. Con số 79% nằm giữa hai cách tính. Các số "năm outs" (2♥, 3♥, 4♥, J♥, K♥) của A♥Q♥ và "tám outs" (bốn lá 5, bốn lá T) của 8♥7♥ đúng; "a little less than 2-1": xác suất trúng ít nhất một trong 8 outs qua hai lá là 1 − (35/43)(34/42) = 34,1%, tức tỷ lệ 1,93 ăn 1, đúng.
+- **Ví dụ 29.1 được kiểm tra và khớp từng dòng:** xác suất ta có A hoặc K là 8/52; 43/51 × 42/50 = 70,82%; ⟨call⟩ = 0,7082 × 45 − 30 = 1,87; bảng sáu dòng có tổng −0,707 (chính xác −781/1.105 = −0,7068 đô la). Người tổng hợp tính thêm: với chiến lược đó (call mọi bet, tức chơi giống maniac), rock được +1,414, maniac −0,707; nếu ta chơi giống rock, maniac được +4,579, ta và rock mỗi người −2,290 — đúng như lời văn của sách.
+- **Trò chơi người chơi nhìn thấu bài được kiểm tra:** X call 50% và Y call 80% khi X bỏ cho tổng tỷ lệ bị call 0,5 + 0,5 × 0,8 = 0,9; khi Z bluff 1/10 mức value bet, overcall của Y có kỳ vọng (1/11)(5) − (10/11)(1) = −5/11; khi Z bluff 3/10, (3/13)(5) − (10/13)(1) = +5/13; Z được 2 − 3/10 = 17/10 bet mỗi value bet. Với mức bluff 1/8, người tổng hợp tính Z được 1 − 1/8 = 7/8 = 0,875 bet, ít hơn 0,9 (sách nói "tệ cho Z" mà không ghi số).
+- **Câu "X và Z liên minh chống Y" khi Z bluff hơi nhiều (nhận xét của người tổng hợp):** với mức bluff 1/8, so với cân bằng, X được thêm 0,1375 bet, Y mất 0,1125, Z mất 0,025 (tính trên mỗi đơn vị tần suất Z có hand value bet). Vậy chỉ X được lợi; Z tự làm mình thiệt. Chữ "liên minh" ở đây chỉ có nghĩa là hành động của Z chuyển equity từ Y sang X.
+- **Lỗi in và lỗi lớp chữ:** "horn an exploitive point of view" (from, trang 373); "verily" (verify, trang 374); "Our's hand" (Our hand, trang 375); "improve then joint equity" (their, trang 376); "repeated ploy" (play, trang 376); quân A thứ tư của X ở Ví dụ 29.2 in là A♥ lần hai (phải là A♠, vì A♥ đã xuất hiện); "than Y's hand will still beat Z's" (that, trang 377); "and its call its width w" (trang 377); "his expectation will he lower" (be, trang 379); "redistribute some of it to T" (Y, trang 380); "Y can never overall" (overcall, trang 381); "docs not gain" (does, trang 381); "alliances arc formed" (are, trang 381).
+
+  Ký hiệu "a" ở trang 378–380 là α (chữ Hy Lạp) bị mất phông. Lớp chữ làm hỏng căn thức √((1 + x)² − 40x/9) và các phân số 1/10, 1/8, 3/10, 3/13, 10/13, 17/10, 9/10; người tổng hợp đọc lại từ ảnh trang.
+- **Quy ước:** trong các trò chơi [0,1] của chương, số càng nhỏ là bài càng mạnh (0 là bài tốt nhất), như Chương 11. "Bet" vừa là hành động vừa là đơn vị cược. Người chơi X, Y, Z giữ đúng tên của sách; trong Ví dụ 29.1 sách gọi hai đối thủ là "rock" (người chơi rất chặt) và "maniac" (người chơi cực kỳ hung hăng), bản tổng hợp giữ nguyên hai tên này.

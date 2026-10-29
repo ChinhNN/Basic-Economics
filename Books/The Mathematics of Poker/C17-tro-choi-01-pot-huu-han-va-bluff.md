@@ -1,29 +1,22 @@
 # Chương 17 — Trộn bluff vào: các trò chơi [0,1] với pot hữu hạn (Mixing in Bluffs: Finite Pot [0,1] Games)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 17 "Mixing in Bluffs: Finite Pot [0,1] Games", trang 204–223.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương này thuộc Phần III "Chơi tối ưu" (Optimal Play). Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) đã giải trò chơi [0,1] half-street có pot hữu hạn (trò chơi số 2), đưa ra tỷ lệ α = 1/(P + 1) giữa vùng bluff và vùng value bet và quy tắc người bị bet phải call với 1 − α số tay. Chương 16 ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md)) giải các trò chơi [0,1] full-street không bỏ bài (số 4 tới số 8), nơi không có bluff và tỷ lệ raise là 1/2 hoặc r = √2 − 1. Chương 17 ghép hai mạch đó: giữ cấu trúc full-street của Chương 16 nhưng cho pot hữu hạn và cho phép bỏ bài, nên mỗi vùng value bet hay value raise đều có một vùng bluff tương ứng. Chương giải trò chơi số 9 (một bet), số 10 (hai bet, không check-raise), phác thảo số 11 (hai bet, có check-raise) và số 12 (raise không giới hạn, không check-raise). Chương 18 ([C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) nhìn lại toàn bộ họ trò chơi [0,1] và tính giá trị trò chơi; các chương 19–20 ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md), [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)) đưa phân tích sang nhiều vòng cược.
-**Ý chính:** **Khi pot hữu hạn và người chơi được bỏ bài, mọi vùng value (bet, raise, check-raise) phải đi kèm một vùng bluff có độ rộng bằng αₙ lần vùng value, với αₙ = 1/(P + 2n − 1); các vùng call và fold khi đó được suy ra từ các vùng value, nên toàn bộ trò chơi xoay quanh việc xác định các ngưỡng value.** Trò chơi số 9 (một bet): X value bet với [0, x₁], bluff với một vùng có độ rộng αx₁ ở cuối; Y bet sau khi X check với mọi tay X lẽ ra đã bet cộng một nửa số tay X sẽ check-call, bluff với vùng αy₁; mỗi người call với 1 − α tay có thể thắng bluff. Lời giải: y₁ = (1 − α)/(1 + α), x₁ = (1 − α)²/(1 + α), x₁* = y₁* = 1 − α, y₀ = 1 − αy₁, x₀ = 1 − αx₁; với pot 4 bet (α = 1/5): y₁ = 2/3, x₁ = 8/15, x₁* = y₁* = 4/5. Nguyên lý rút ra: nếu đối thủ có thể bet nhưng check, bạn không thể bị raise và đối thủ có thể call hoặc fold, hãy value bet mọi tay đối thủ lẽ ra đã value bet và một nửa số tay đối thủ sẽ call. Trò chơi số 10 (hai bet, không check-raise) đưa vào raise-bluff và ký hiệu mới yₙ*, yₙ#, α₂ = 1/(P + 3); Y raise với nửa số tay X sẽ call raise, X bet rồi fold trước raise với tỷ lệ α₂ số tay bet, Y raise-bluff với vùng α₂y₂ ngay dưới vùng call; chín phương trình bàng quan cho lời giải đóng (ví dụ x₁ = 2(1 − α)²(1 + 2α)²/[(1 + α)(7α² + 9α + 4)]) và công thức then chốt x₁ = (1 − α)²/[1 + α + (2 − α)(1 − α₂)R] với R = (1 − α₂)/2. Trò chơi số 11 cho thấy check-raise biến tỷ lệ y₂/x₁ thành tỷ lệ y₂/y₁, và y₁ = (1 − α)/[1 + α + (1 − α₂)R]. Trò chơi số 12 thay R bằng một hệ số R_P phụ thuộc kích thước pot, thoả hệ thức truy hồi R_P = [(P + 2)/(P + 3)] / [2 + R_{P+2}(P + 4)/(P + 5)] và tiến tới r = √2 − 1 khi pot tiến tới vô hạn.
+## Ý chính
 
-> **Lưu ý:**
-> - **Tham chiếu sai số ví dụ của Chương 11 (trang 204):** sách hai lần ghi "Example 11.2" cho trò chơi [0,1] pot hữu hạn đầu tiên và cho "[0,1] Game #2"; trò chơi số 2 thực ra là Ví dụ 11.3 (Ví dụ 11.2 là trò chơi số 1, không bỏ bài). Chính sách ở trang 206 và 213 ghi đúng "Game #2 (Example 11.3)".
-> - **Ký hiệu in sai trong Ví dụ 17.1:** trang 204 viết ngưỡng call/fold mới của Y là "y₀*", nhưng mọi chỗ sau gọi là y₁*. Trang 205 ghi thứ tự "0 < x₁ < y₁ < x₁*, y₁* < y₀ < x₁ < 1"; ngưỡng cuối đúng là x₀. Trang 205 ghi tiêu đề bảng tại y₁* là "indifference between checking and betting"; đúng là giữa call và fold.
-> - **Lỗi trong bảng tại x₀ của Ví dụ 17.1 (trang 207):** cột đầu ghi "X check-calls", đúng là "X check-folds"; dòng cuối ghi khoảng "[y₀, 1]", đúng là [x₀, 1]. Tổng (P + 1)y₁* − P đúng.
-> - **Lỗi trong bảng tại x₁ của Ví dụ 17.1 (trang 207):** dòng [0, x₁] có hiệu 0 nhưng ghi tích "x₁", đúng là 0; dòng [y₀, 1] có hiệu −1 nhưng ghi tích "(1 − y₀)", đúng là −(1 − y₀). Tổng y₁* − y₁ − (1 − y₀) của sách đúng.
-> - **Lỗi trong lời giải của Ví dụ 17.1 (trang 208):** sách ghi y₀ = (1 + α)²/(1 + α) (tức 1 + α, lớn hơn 1, vô lý). Đúng là y₀ = 1 − αy₁ = **(1 + α²)/(1 + α)**. Kiểm với P = 4: (1 + 1/25)/(6/5) = 13/15, khớp 1 − (1/5)(2/3) = 13/15.
-> - **Lỗi chỉ số trong phần giải thích trực giác của Ví dụ 17.1 (trang 208):** sách viết X bet "thắng một bet khi bài Y nằm giữa y₂ và y₁*"; trò chơi một bet không có y₂, đúng là giữa y₁ và y₁* (chính câu sau của sách viết đúng "[y₁, y₁*]").
-> - **Lỗi trong phần tính tay với pot 4 (trang 209):** (1) sách nói x₁* nằm ở 4/5 quãng đường "từ x₁ tới x₀" và x₀ là "1 − (1/5)x₁"; theo chính phương trình x₁* = (1 − α)(y₀ − x₁) + x₁, đúng là 4/5 quãng đường **từ x₁ tới y₀** (chỉ các tay tốt hơn y₀ mới thắng được bluff của Y), với y₀ = 1 − (1/5)y₁. Kiểm: 8/15 + (4/5)(13/15 − 8/15) = 8/15 + 4/15 = 4/5; còn 4/5 quãng từ x₁ = 8/15 tới x₀ = 67/75 cho 0,8213, không phải 0,8. (2) Sách định nghĩa c là khoảng cách từ x₁ tới x₀ rồi kết luận c = 1/3; thực tế x₀ − x₁ = 67/75 − 40/75 = 9/25 = 0,36, còn 1/3 là khoảng cách y₀ − x₁. (3) Sách dùng ký hiệu α cho khoảng cách a (từ x₁ tới y₁), trùng ký hiệu với α = 1/(P + 1); kết quả "α = 2/15" của phép tính này là a = y₁ − x₁ = 2/15, không phải α. (4) Dòng "1 = (4/5)b + (5/2)α" sai hệ số; đúng là 1 = (5/4)b + (5/2)a (tương đương b + 2a = 4/5, tức x₁* = 4/5), dòng sau "b = (4/5)(1 − (5/2)a) = 4/5 − 2a" của sách khớp với dạng đúng này. (5) Sách viết "With pot size 4, y₂ = 2/3"; đúng là y₁ = 2/3.
-> - **Tham chiếu sai trò chơi tương ứng (trang 209, 211, 216, 221):** sách gọi trò chơi số 10 là "bản tương ứng của trò chơi số 6 (Ví dụ 16.3)"; trò chơi số 10 (hai bet, không check-raise) thực ra tương ứng với trò chơi số 5 (Ví dụ 16.2). Trang 211 viết "we parameterize [0,1] Game #6 this way", đúng là Game #10. Trang 216 viết R = (1 − α₂)/2 tiến tới 1/2 "là giá trị trong trò chơi số 6"; R = 1/2 là của trò chơi số 5 (trò chơi số 6 có R = r). Trang 221 viết "ngưỡng thấp nhất mà trò chơi này khác [0,1] Game #6", đúng là khác Game #10.
-> - **Lỗi trong bảng tại x₂* của Ví dụ 17.2 (trang 215):** dòng [0, y₂] ghi "X bet-calls −1, X bet-folds −2"; hai giá trị bị đảo: bet rồi call trước value raise của Y mất 2 bet, bet rồi fold mất 1 bet. Phương trình y₂ = (P + 3)(y₂# − y₁*) của sách đúng với giá trị đã sửa. Câu ngay sau gọi vùng raise-bluff là "y₂* − y₁#"; đúng là y₂# − y₁*.
-> - **Ký hiệu trong phép biến đổi tại y₂# (trang 214):** các dòng "2x₂* = (P + 1)(x₁ − x₂) + …" và "αx₂ = α₂(x₁ + 1 − x₀)" thiếu dấu sao, đúng là x₂*.
-> - **Tham chiếu "y₁#" ở trang 216:** sách viết kết quả y₂# = 1 − α "tương tự phương trình cho y₁# trong trò chơi số 9"; trò chơi số 9 không có y₁#, đúng là y₁*.
-> - **Lỗi trong bảng các ngưỡng của Ví dụ 17.2 (trang 217–218):** cột P = ε (pot gần 0) ghi y₀ = 0 và x₀ = 0. Theo chính công thức của sách, khi α → 1 thì y₀ → 1 và x₀ → 1 (không còn vùng bluff nào, vì không có pot để giành). Người tổng hợp kiểm bằng số: với P = 0,001, y₀ ≈ 0,9995 và x₀ ≈ 1,0000. Các cột P = 1, P = 2, P = 9, P = ∞ được người tổng hợp tính lại bằng phân số đúng và khớp toàn bộ (ví dụ P = 1: y₁ = 76/246 = 38/123; P = 2: y₁ = 279/630 = 31/70).
-> - **Lỗi trong Ví dụ 17.3 (trang 218–219):** (1) sách nói Y "folds 1 − α₂ of his value bets to a raise"; đúng là Y fold với tỷ lệ **α₂** số tay value bet (và call với 1 − α₂), như chính kết quả y₂* = (1 − α₂)y₁ ngay sau đó. (2) Bảng "tại x₂#" có dòng [y₂*, y₁] ghi "X check-raise-bluffs −(P + 1)"; đúng là +(P + 1) (Y bet rồi fold trước check-raise, X giành pot P cộng bet của Y). Phương trình y₂* = (P + 2)(y₁ − y₂*) của sách chỉ đúng với dấu cộng. Người tổng hợp nhận xét thêm: bảng này so sánh check-call với check-raise-bluff, tức là phương trình bàng quan tại ranh giới giữa vùng check-call và vùng check-raise-bluff (x₁*), không phải tại x₂# (ranh giới giữa check-raise-bluff và check-fold). (3) Dòng "y₁* − y₁ = (P + 1) + (y₂# − y₁*) + (1 − y₀)" in nhầm dấu cộng; đúng là (P + 1)(y₂# − y₁*).
-> - **Lỗi trong Ví dụ 17.4 (trang 221–222):** (1) sách viết "trò chơi không bỏ bài (Example 16.4) … y₂ was 1/2 and x₁ was 1/2. Hence, R was 1/2"; trò chơi không bỏ bài với hai bet và không check-raise là Ví dụ 16.2 (trò chơi số 5), trong đó **y₂ = 1/4** và x₁ = 1/2, nên R = 1/2. (2) Sách nói R_P tiến tới r khi P → ∞ "vì đây là xấp xỉ của trò chơi không bỏ bài ở Ví dụ 16.4"; trò chơi tương ứng là Ví dụ 16.3 (trò chơi số 6, raise không giới hạn, không check-raise). (3) Ký hiệu "x₃ = R_p+2y₂" trong lớp chữ nghĩa là x₃ = R_{P+2}·y₂.
-> - **Kiểm chứng độc lập (người tổng hợp):** người tổng hợp viết chương trình tính kỳ vọng thật của từng hành động trên cây trò chơi hai bet (có và không có check-raise), rồi kiểm rằng lời giải của sách cho trò chơi số 10 thoả mọi phương trình bàng quan (sai số dưới 10⁻¹⁵), và giải số trò chơi số 11 để kiểm các khẳng định y₂ = y₁(1 − α₂)/2, y₂* = (1 − α₂)y₁, vùng check-raise-bluff rộng α₂x₂ và công thức 17.13; tất cả đều đúng. Các bảng số của trò chơi số 11 và số 12 trong bản tổng hợp là kết quả tính của người tổng hợp, sách không in.
-> - **Hình 17.1 và 17.2 là sơ đồ minh hoạ:** sách không ghi P cho hai hình; vị trí các ngưỡng đọc từ trục chỉ là ước lượng và không khớp đúng với một giá trị P nào (Hình 17.1 gần với P = 2).
-> - **Lớp chữ OCR:** "l" thay số 1, "a" thay α trong khung lời giải của trò chơi số 10, "15" là 1/5, "45" là 4/5, "23" là 2/3, "m" thay "in", "hi" thay "In", "+i" là +1. Mọi công thức đã được đọc lại từ ảnh trang.
-> - **Quy ước:** P là kích thước pot tính bằng số bet; bet bằng 1 đơn vị; bài 0 là nuts. Các bảng kỳ vọng tính ex-showdown như Chương 16: chỉ ghi phần thay đổi so với kết quả showdown nếu không ai bet (ví dụ người đang thua showdown mà bluff thành công được +P; người đang thắng showdown mà bỏ bài mất −P). Số thập phân dùng dấu phẩy.
+**Khi pot hữu hạn và người chơi được bỏ bài, mọi vùng value (bet, raise, check-raise) phải đi kèm một vùng bluff có độ rộng bằng αₙ lần vùng value, với αₙ = 1/(P + 2n − 1); các vùng call và fold khi đó được suy ra từ các vùng value, nên toàn bộ trò chơi xoay quanh việc xác định các ngưỡng value.**
+
+Trò chơi số 9 (một bet): X value bet với [0, x₁], bluff với một vùng có độ rộng αx₁ ở cuối. Y bet sau khi X check với mọi tay X lẽ ra đã bet cộng một nửa số tay X sẽ check-call, bluff với vùng αy₁. Mỗi người call với 1 − α tay có thể thắng bluff.
+
+Lời giải: y₁ = (1 − α)/(1 + α), x₁ = (1 − α)²/(1 + α), x₁* = y₁* = 1 − α, y₀ = 1 − αy₁, x₀ = 1 − αx₁; với pot 4 bet (α = 1/5): y₁ = 2/3, x₁ = 8/15, x₁* = y₁* = 4/5.
+
+Nguyên lý rút ra: nếu đối thủ có thể bet nhưng check, bạn không thể bị raise và đối thủ có thể call hoặc fold, hãy value bet mọi tay đối thủ lẽ ra đã value bet và một nửa số tay đối thủ sẽ call.
+
+Trò chơi số 10 (hai bet, không check-raise) đưa vào raise-bluff và ký hiệu mới yₙ*, yₙ#, α₂ = 1/(P + 3). Y raise với nửa số tay X sẽ call raise, X bet rồi fold trước raise với tỷ lệ α₂ số tay bet, Y raise-bluff với vùng α₂y₂ ngay dưới vùng call.
+
+Chín phương trình bàng quan cho lời giải đóng (ví dụ x₁ = 2(1 − α)²(1 + 2α)²/[(1 + α)(7α² + 9α + 4)]) và công thức then chốt x₁ = (1 − α)²/[1 + α + (2 − α)(1 − α₂)R] với R = (1 − α₂)/2.
+
+Trò chơi số 11 cho thấy check-raise biến tỷ lệ y₂/x₁ thành tỷ lệ y₂/y₁, và y₁ = (1 − α)/[1 + α + (1 − α₂)R].
+
+Trò chơi số 12 thay R bằng một hệ số R_P phụ thuộc kích thước pot, thoả hệ thức truy hồi R_P = [(P + 2)/(P + 3)] / [2 + R_{P+2}(P + 4)/(P + 5)] và tiến tới r = √2 − 1 khi pot tiến tới vô hạn.
 
 ## Sơ đồ
 
@@ -310,7 +303,7 @@ x₁* = (1 − α)(y₀ − x₁) + x₁
 
 Ở trò chơi số 2 (Ví dụ 11.3), ta đã thấy rằng cũng như tỷ lệ bluff trên value bet là α, người bị bet call với 1 − α số tay có thể thắng bluff. Ở đây X đã bet với một số tay, nên các tay X check là [x₁, x₀], và trong số đó chỉ các tay tốt hơn y₀ mới thắng được bluff. Vậy x₁* bằng x₁ cộng (1 − α) lần độ rộng vùng tay của X có thể thắng bluff.
 
-*X tại x₀ (check-fold hay bluff).* (Bảng đã sửa nhãn, xem khối Lưu ý.)
+*X tại x₀ (check-fold hay bluff).* (Bảng đã sửa nhãn, xem mục Lưu ý cuối chương.)
 
 | Bài của Y | X check-fold | X bluff | Hiệu | Tích |
 |---|---|---|---|---|
@@ -345,7 +338,7 @@ y₁* = 1 − α
 y₁* − y₁ = 1 − y₀
 ```
 
-**Lời giải** (đã sửa y₀, xem khối Lưu ý):
+**Lời giải** (đã sửa y₀, xem mục Lưu ý cuối chương):
 
 | Ngưỡng | Công thức | P = 1 (α = 1/2) | P = 2 (α = 1/3) | P = 4 (α = 1/5) | P = 9 (α = 1/10) |
 |---|---|---|---|---|---|
@@ -360,7 +353,9 @@ y₁* − y₁ = 1 − y₀
 
 **Giải thích trực giác với pot 4 bet** (α = 1/5, theo Phương trình 11.1). X value bet một phần số tay. Y call với số tay bằng vùng X bluff (hoà vốn trên phần đó), nhưng còn phải call thêm để X bàng quan khi bluff: khi X bluff và Y call, X mất một bet; khi Y fold, X được 4 bet. Để X bàng quan, Y phải call nhiều gấp bốn lần fold. Vì Y có cả đoạn [0, 1] để chọn, Y call với 4/5 tổng số tay, tức 1 − α.
 
-Ngược lại, X cũng phải cân bằng value bet và bluff để Y không khai thác được bằng cách call nhiều hơn hay ít hơn. Ví dụ, nếu X không bao giờ bluff, Y chỉ cần call với ít tay hơn vùng X value bet và thắng giá trị từ mỗi tay đó. X muốn rút giá trị từ value bet, nên phải bluff để buộc Y call với một số tay nằm giữa vùng value bet và vùng bluff của X. X phải bluff đủ để Y bàng quan khi call với các tay giữa x₁ và x₀: với pot 4, X được 4 bet khi Y fold và mất một bet khi Y call; để Y bàng quan, X phải value bet nhiều gấp bốn lần bluff, tức bluff với 1/5 so với số tay value bet, hay αx₁. Cũng theo lập luận đó, các tay Y value bet sau khi X check phải được "đỡ" bởi một tỷ lệ bluff tương ứng trong vùng [y₀, 1].
+Ngược lại, X cũng phải cân bằng value bet và bluff để Y không khai thác được bằng cách call nhiều hơn hay ít hơn. Ví dụ, nếu X không bao giờ bluff, Y chỉ cần call với ít tay hơn vùng X value bet và thắng giá trị từ mỗi tay đó.
+
+X muốn rút giá trị từ value bet, nên phải bluff để buộc Y call với một số tay nằm giữa vùng value bet và vùng bluff của X. X phải bluff đủ để Y bàng quan khi call với các tay giữa x₁ và x₀: với pot 4, X được 4 bet khi Y fold và mất một bet khi Y call; để Y bàng quan, X phải value bet nhiều gấp bốn lần bluff, tức bluff với 1/5 so với số tay value bet, hay αx₁. Cũng theo lập luận đó, các tay Y value bet sau khi X check phải được "đỡ" bởi một tỷ lệ bluff tương ứng trong vùng [y₀, 1].
 
 Tiếp theo, X nên value bet bao nhiêu? Tại ngưỡng giữa bet và check-call, X có hai lựa chọn: bet thì thắng thêm một bet khi bài Y nằm giữa y₁ và y₁* (Y call với bài kém hơn nhưng sẽ không bet nếu được check); check thì thắng thêm một bet khi dụ được Y bluff, tức bài Y nằm giữa y₀ và 1. X bàng quan nên hai vùng [y₁, y₁*] và [y₀, 1] bằng nhau. Vùng thứ hai rộng αy₁, vùng thứ nhất rộng 1 − α − y₁, nên y₁ = (1 − α)/(1 + α). Với pot 4: y₁* = 4/5 và 1 − y₀ = (1/5)y₁, nên 4/5 − y₁ = (1/5)y₁, tức **y₁ = 2/3**.
 
@@ -370,7 +365,7 @@ Như vậy đã giải thích trực giác y₁, y₁*, y₀ và quan hệ giữ
 
 Nguyên lý này khớp với nguyên lý cũ: trong trường hợp không bỏ bài, đối thủ luôn phải call, nên value bet một nửa số tay là đúng; khi đối thủ có thể fold, ý tưởng là bet với một nửa số tay đối thủ sẽ call.
 
-Ngoài ra, X phải chọn x₁* để phòng thủ trước bluff của Y như cách Y phòng thủ trước bluff của X. Nhưng X không có cả phân phối [0, 1] để phòng thủ, mà chỉ có tập con [x₁, x₀], vì X đã bet các tay ngoài khoảng này (bluff hoặc value bet). Sách viết rằng X phải call với 1 − α của khoảng [x₁, x₀], nên x₁* nằm ở 1 − α quãng đường từ x₁ tới x₀; theo phương trình bàng quan đã lập, đúng ra là 1 − α quãng đường **từ x₁ tới y₀**, vì chỉ các tay tốt hơn y₀ mới thắng được bluff (xem khối Lưu ý).
+Ngoài ra, X phải chọn x₁* để phòng thủ trước bluff của Y như cách Y phòng thủ trước bluff của X. Nhưng X không có cả phân phối [0, 1] để phòng thủ, mà chỉ có tập con [x₁, x₀], vì X đã bet các tay ngoài khoảng này (bluff hoặc value bet). Sách viết rằng X phải call với 1 − α của khoảng [x₁, x₀], nên x₁* nằm ở 1 − α quãng đường từ x₁ tới x₀; theo phương trình bàng quan đã lập, đúng ra là 1 − α quãng đường **từ x₁ tới y₀**, vì chỉ các tay tốt hơn y₀ mới thắng được bluff (xem mục Lưu ý cuối chương).
 
 **Tính tay với pot 4 (sách, đã sửa).** Gọi b là khoảng từ 0 tới x₁ (tức x₁), a là khoảng từ x₁ tới y₁, c là khoảng từ x₁ tới y₀. Vì y₁ = 2/3 là trung điểm của x₁ và x₁* = 4/5:
 
@@ -473,7 +468,7 @@ Biến đổi đại số:
 
 *Y tại y₀:* giống trò chơi số 9 vì X vẫn không check-raise được: **x₁* = (1 − α)(y₀ − x₁) + x₁**.
 
-*X tại x₂* (bet rồi call hay bet rồi fold khi Y raise).* (Đã sửa dòng đầu, xem khối Lưu ý.)
+*X tại x₂* (bet rồi call hay bet rồi fold khi Y raise).* (Đã sửa dòng đầu, xem mục Lưu ý cuối chương.)
 
 | Bài của Y | X bet-call | X bet-fold |
 |---|---|---|
@@ -601,7 +596,9 @@ Từ đây tác giả thường bỏ việc liệt kê toàn bộ lời giải v
 
 **Các ngưỡng bổ sung, phần lớn suy ra dễ dàng.** X có một vùng **check-raise bluff** giữa x₂# và x₁*; độ rộng vùng này bằng vùng value check-raise (x₂) nhân α₂. Tương tự, thay vì chỉ có một vùng value bet bên trái y₁, Y có vùng "bet-call" bên trái y₂* và vùng "bet-fold" giữa y₂* và y₁, với tỷ lệ sao cho Y fold α₂ số tay value bet trước check-raise (sách in nhầm "1 − α₂"), để X bàng quan khi check-raise bluff; và cứ thế.
 
-**Điều quan trọng là sự thay đổi của các vùng value.** Thay đổi ở vùng value lan sang mọi ngưỡng khác và ảnh hưởng chiến lược cả hai người, nhưng quan hệ giữa các ngưỡng khác với vùng value khá đơn giản. Thay vì viết phương trình cho mọi ngưỡng, tác giả chỉ ra các ngưỡng quan trọng. Ta biết chiến lược value bet của Y sau khi X check bị ảnh hưởng bởi khả năng check-raise của X; chiến lược value raise của Y bị ảnh hưởng vì X check một số tay mạnh và có lẽ bet rộng hơn một chút so với khi không có check-raise. Đây đúng là các dịch chuyển chính trong trò chơi không bỏ bài (Chương 16, trò chơi số 7 so với số 5): Y bet chặt hơn sau khi X check (sợ check-raise), X bet rộng hơn (để lấy lại phần giá trị mất do không dụ được tay yếu bet), Y raise rộng hơn (vì X bet rộng hơn).
+**Điều quan trọng là sự thay đổi của các vùng value.** Thay đổi ở vùng value lan sang mọi ngưỡng khác và ảnh hưởng chiến lược cả hai người, nhưng quan hệ giữa các ngưỡng khác với vùng value khá đơn giản. Thay vì viết phương trình cho mọi ngưỡng, tác giả chỉ ra các ngưỡng quan trọng.
+
+Ta biết chiến lược value bet của Y sau khi X check bị ảnh hưởng bởi khả năng check-raise của X; chiến lược value raise của Y bị ảnh hưởng vì X check một số tay mạnh và có lẽ bet rộng hơn một chút so với khi không có check-raise. Đây đúng là các dịch chuyển chính trong trò chơi không bỏ bài (Chương 16, trò chơi số 7 so với số 5): Y bet chặt hơn sau khi X check (sợ check-raise), X bet rộng hơn (để lấy lại phần giá trị mất do không dụ được tay yếu bet), Y raise rộng hơn (vì X bet rộng hơn).
 
 **Bàng quan tại x₂ (check-raise hay bet rồi call).**
 
@@ -619,7 +616,7 @@ Từ đây tác giả thường bỏ việc liệt kê toàn bộ lời giải v
 y₂* − y₂ + (1 − y₀) = 2(y₂# − y₁*) + y₁* − y₁
 ```
 
-**Tìm y₂*.** Sách xét bàng quan giữa check-call và check-raise-bluff của X (sách gọi là "tại x₂#"; xem khối Lưu ý):
+**Tìm y₂*.** Sách xét bàng quan giữa check-call và check-raise-bluff của X (sách gọi là "tại x₂#"; xem mục Lưu ý cuối chương):
 
 | Bài của Y | X check-call | X check-raise-bluff |
 |---|---|---|
@@ -894,14 +891,16 @@ Mỗi trò chơi là trò chơi tổng bằng hằng số hai người, thông t
 
 ### Sức mạnh của chương
 
-Chương cho thấy một cấu trúc rất gọn ẩn sau các lời giải đại số rối rắm: mọi vùng phi value đều tỷ lệ với một vùng value qua αₙ, nên chỉ cần tìm các ngưỡng value. Trò chơi số 9 được giải hai lần — bằng đại số và bằng lập luận trực giác với pot 4 — giúp người đọc thấy mỗi phương trình nói điều gì về poker. Nguyên lý "value bet mọi tay đối thủ lẽ ra đã bet và một nửa số tay đối thủ sẽ call" là một quy tắc thực hành rõ ràng. Phân tích raise-bluff (lấy từ tay mạnh nhất trong vùng không đủ call, không phải tay tệ nhất) là một điểm tinh tế mà nhiều người chơi không tự nghĩ ra. Kết quả công thức 17.12 dùng chung cho mọi trò chơi không check-raise, và truy hồi R_P nối liền với r = √2 − 1 của Chương 14 và Chương 16.
+Chương cho thấy một cấu trúc rất gọn ẩn sau các lời giải đại số rối rắm: mọi vùng phi value đều tỷ lệ với một vùng value qua αₙ, nên chỉ cần tìm các ngưỡng value. Trò chơi số 9 được giải hai lần — bằng đại số và bằng lập luận trực giác với pot 4 — giúp người đọc thấy mỗi phương trình nói điều gì về poker.
+
+Nguyên lý "value bet mọi tay đối thủ lẽ ra đã bet và một nửa số tay đối thủ sẽ call" là một quy tắc thực hành rõ ràng. Phân tích raise-bluff (lấy từ tay mạnh nhất trong vùng không đủ call, không phải tay tệ nhất) là một điểm tinh tế mà nhiều người chơi không tự nghĩ ra. Kết quả công thức 17.12 dùng chung cho mọi trò chơi không check-raise, và truy hồi R_P nối liền với r = √2 − 1 của Chương 14 và Chương 16.
 
 ### Những chỗ đơn giản hoá
 
 - **Một vòng cược và phân phối đều độc lập**: không có lá bài tiếp theo, không có draw, không có liên hệ giữa phân phối bài và hành động ở các vòng trước.
 - **Limit với bet cố định**: kích thước bet không phải là biến quyết định (Chương 14 mới xét no-limit).
 - **Phần trò chơi số 11 và số 12 chỉ được phác thảo**: sách không in lời giải đầy đủ, và một số bước ("We can follow this chain of logic to find…") bị bỏ qua; người tổng hợp phải tự giải số để kiểm.
-- **Nhiều lỗi in và tham chiếu sai** (đã liệt kê ở khối Lưu ý), đặc biệt ở phần tính tay với pot 4 và trong việc gọi tên các trò chơi tương ứng của Chương 16; người đọc tự kiểm sẽ dễ bị lạc.
+- **Nhiều lỗi in và tham chiếu sai** (đã liệt kê ở mục Lưu ý cuối chương), đặc biệt ở phần tính tay với pot 4 và trong việc gọi tên các trò chơi tương ứng của Chương 16; người đọc tự kiểm sẽ dễ bị lạc.
 - **Thứ tự vùng được giả định**: vùng raise-bluff được đặt ngay dưới vùng call vì chiến lược khác bị trội; lời giải không chứng minh rằng mọi cân bằng đều có dạng này.
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp)
@@ -920,3 +919,189 @@ Các solver GTO hiện đại giải trực tiếp những tình huống river n
 
 - **Cho người chơi poker:** trước mỗi value bet hay value raise, hãy hỏi "vùng bluff tương ứng của mình là gì?". Với bet bằng pot (P = 1 nếu tính pot bằng một bet), tỷ lệ bluff trên value bet là 1:2; với pot 4 bet là 1:5; càng ít bluff khi pot càng lớn so với bet. Khi bị bet, fold không quá α số tay có thể thắng bluff (pot 4: fold không quá 1/5). Khi chọn tay để raise-bluff, ưu tiên tay vừa dưới ngưỡng call, không phải tay tệ nhất. Ở vị trí sau, khi đối thủ check, value bet với mọi tay đối thủ lẽ ra đã bet và nửa số tay đối thủ sẽ call — không phải nửa số tay đối thủ có thể có.
 - **Cho người làm tài chính và ra quyết định:** cấu trúc "mỗi cam kết thật (value) phải đi kèm một tỷ lệ cam kết giả (bluff) để đối phương không thể suy ra thông tin từ hành động" xuất hiện trong đàm phán, đấu giá và chiến lược cạnh tranh: nếu chỉ hành động mạnh khi thực sự mạnh, đối phương sẽ luôn nhượng bộ đúng lúc và không bao giờ trả giá cho sự yếu thế của mình. Tỷ lệ cân bằng phụ thuộc vào "pot" (giá trị đang tranh chấp) so với chi phí mỗi hành động — cùng logic với α = 1/(P + 1). Phương pháp lập phương trình bàng quan tại các ngưỡng và khử dần ẩn là công cụ chung khi thiết kế quy tắc quyết định trước một đối thủ thông minh.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 17 trên một trang: sáu nhánh lớn đi theo các mục 1–5 của phần Nội dung chi tiết (phần mở đầu về pot hữu hạn, trò chơi số 9 một bet, trò chơi số 10 hai bet không check-raise, trò chơi số 11 có check-raise, trò chơi số 12 raise không giới hạn), mỗi nhánh ghi các phương trình bàng quan, lời giải, công thức 17.11–17.14 và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt, lấy từ Khái niệm then chốt và phần Đánh giá.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 17: khi pot hữu hạn và được bỏ bài, mỗi vùng value đi kèm vùng bluff rộng αₙ lần, αₙ = 1/(P + 2n − 1)`"]
+  n1["`Mục 1 — Từ không bỏ bài sang pot hữu hạn`"]
+  n0 --- n1
+  n2["`Chương 16 cấm bỏ bài (xấp xỉ pot rất lớn) nên không có bluff, vùng bet chỉ gồm bài mạnh nhất`"]
+  n1 --- n2
+  n3["`Bluff là thành phần then chốt của poker: trò chơi phức tạp hơn nhưng gần poker thật hơn`"]
+  n1 --- n3
+  n4["`Quy ước: pot P bet, bet 1 đơn vị, bài 0 là nuts, kỳ vọng tính ex-showdown`"]
+  n1 --- n4
+  n5["`α = 1/(P + 1) là tỷ lệ vùng bluff trên vùng value, cũng là tỷ lệ tay được fold, P = 4 cho α = 1/5`"]
+  n1 --- n5
+  n6["`Mục 2 — Trò chơi số 9: một bet, sáu ngưỡng, lời giải đóng`"]
+  n0 --- n6
+  n7["`Thứ tự ngưỡng: 0 #lt; x₁ #lt; y₁ #lt; x₁#42;, y₁#42; #lt; y₀ #lt; x₀ #lt; 1`"]
+  n6 --- n7
+  n8["`Sáu phương trình bàng quan`"]
+  n6 --- n8
+  n9["`Tại y₁: y₁ = (x₁ + x₁#42;)/2, Y bet tới trung điểm vùng bet và vùng call của X`"]
+  n8 --- n9
+  n10["`Tại y₁#42;: 1 − x₀ = αx₁, vùng bluff của X bằng α lần vùng value bet`"]
+  n8 --- n10
+  n11["`Tại x₁#42;: 1 − y₀ = αy₁, vùng bluff của Y bằng α lần vùng value bet`"]
+  n8 --- n11
+  n12["`Tại x₀: y₁#42; = 1 − α, Y call 1 − α số tay`"]
+  n8 --- n12
+  n13["`Tại x₁: y₁#42; − y₁ = 1 − y₀, bet thắng tay Y call mà không bet, check dụ Y bluff, hai vùng bằng nhau`"]
+  n8 --- n13
+  n14["`Tại y₀: x₁#42; = (1 − α)(y₀ − x₁) + x₁, X call 1 − α phần tay từ x₁ tới y₀`"]
+  n8 --- n14
+  n15["`Lời giải: y₁ = (1 − α)/(1 + α), x₁ = (1 − α)²/(1 + α), x₁#42; = y₁#42; = 1 − α`"]
+  n6 --- n15
+  n16["`y₀ = 1 − αy₁ = (1 + α²)/(1 + α), x₀ = 1 − αx₁`"]
+  n15 --- n16
+  n17["`Pot 4: y₁ = 2/3, x₁ = 8/15, x₁#42; = y₁#42; = 4/5, y₀ = 13/15, x₀ = 67/75`"]
+  n15 --- n17
+  n18["`Pot 4: bluff mất 1 khi bị call, được 4 khi Y fold, nên Y call 4/5 số tay để X bàng quan`"]
+  n6 --- n18
+  n19["`X value bet gấp bốn lần bluff: vùng bluff 8/75 bằng 1/5 vùng value bet 8/15`"]
+  n6 --- n19
+  n20["`Nguyên lý: đối thủ check, bạn không thể bị raise thì value bet mọi tay đối thủ lẽ ra đã bet cộng nửa số tay đối thủ sẽ call`"]
+  n6 --- n20
+  n21["`Mục 3 — Trò chơi số 10: hai bet, không check-raise, có raise-bluff`"]
+  n0 --- n21
+  n22["`Chỉ value raise mà không raise-bluff thì X fold mọi tay kém hơn ngưỡng raise của Y`"]
+  n21 --- n22
+  n23["`Raise-bluff lấy từ tay mạnh nhất trong nhóm không đủ call (ngay dưới vùng call), không phải tay tệ nhất`"]
+  n21 --- n23
+  n24["`yₙ#42; là ngưỡng call / raise-bluff hoặc fold, yₙ#35; là ngưỡng bluff bet thứ n / fold`"]
+  n21 --- n24
+  n25["`α₂ = 1/(P + 3) vì raise-bluff tốn hai bet nhưng pot đã lớn hơn, P = 4 cho α₂ = 1/7`"]
+  n21 --- n25
+  n26["`Chín phương trình (17.2)–(17.10), các phương trình mới`"]
+  n21 --- n26
+  n27["`y₂ = x₂#42;/2: Y raise với nửa số tay X sẽ call raise`"]
+  n26 --- n27
+  n28["`x₂#42; = (1 − α₂)x₁: X bet rồi fold trước raise với tỷ lệ α₂ số tay đã bet`"]
+  n26 --- n28
+  n29["`y₂#35; − y₁#42; = α₂y₂: vùng raise-bluff bằng α₂ lần vùng value raise`"]
+  n26 --- n29
+  n30["`y₂#35; = 1 − α: tổng số tay Y fold trước bet của X là α`"]
+  n26 --- n30
+  n31["`y₂ = R·x₁ với R = (1 − α₂)/2 (17.11), P → ∞ cho R = 1/2 như trò chơi số 5`"]
+  n21 --- n31
+  n32["`17.12: x₁ = (1 − α)²/[1 + α + (2 − α)(1 − α₂)R], đúng cho mọi trò chơi không check-raise`"]
+  n21 --- n32
+  n33["`Bảng ngưỡng theo kích thước pot`"]
+  n21 --- n33
+  n34["`P = 1: x₁ = 16/123, y₁ = 38/123, y₂ = 2/41, y₂#35; = 1/2`"]
+  n33 --- n34
+  n35["`P = ∞ trở về trò chơi số 5: x₁ = 1/2, y₁ = 3/4, y₂ = 1/4`"]
+  n33 --- n35
+  n36["`P → 0: không value bet (x₁, y₁ → 0) và không bluff (x₀, y₀ → 1)`"]
+  n33 --- n36
+  n37["`Tác giả: lời giải đóng không hữu ích lắm, phương pháp và nguyên lý mới hữu ích`"]
+  n21 --- n37
+  n38["`Mục 4 — Trò chơi số 11: hai bet, có check-raise`"]
+  n0 --- n38
+  n39["`X thêm vùng check-raise bluff rộng α₂ lần vùng value check-raise [0, x₂]`"]
+  n38 --- n39
+  n40["`Y fold α₂ số tay value bet trước check-raise: y₂#42; = (1 − α₂)y₁`"]
+  n38 --- n40
+  n41["`Như trò chơi số 7 so với số 5: Y bet chặt hơn sau khi X check, X bet rộng hơn, Y raise rộng hơn`"]
+  n38 --- n41
+  n42["`Bàng quan tại x₂ (check-raise hay bet-call) cho y₂ = y₁(1 − α₂)/2`"]
+  n38 --- n42
+  n43["`Tỷ lệ ngưỡng Y trên ngưỡng X khi không check-raise thành tỷ lệ các ngưỡng Y liên tiếp khi có check-raise`"]
+  n38 --- n43
+  n44["`17.13: y₁ = (1 − α)/[1 + α + (1 − α₂)R]`"]
+  n38 --- n44
+  n45["`Pot 4 (người tổng hợp tính): y₁ 0,561 xuống 0,510, x₁ 0,344 lên 0,397, y₂ 0,147 lên 0,219`"]
+  n38 --- n45
+  n46["`Mục 5 — Trò chơi số 12: raise không giới hạn, không check-raise`"]
+  n0 --- n46
+  n47["`Chỉ phương trình tại y₂ đổi vì X có thể reraise, mọi vùng bluff thứ n: αₙyₙ = yₙ#35; − yₙ₋₁#42;`"]
+  n46 --- n47
+  n48["`17.12 vẫn đúng, chỉ R đổi: R = 1/2 cho trò chơi số 5, R = 0 cho trò chơi số 9`"]
+  n46 --- n48
+  n49["`Vùng reraise-bluff x₃#35; − x₂#42; = α₃x₃, và x₃#35; = (1 − α₂)x₁`"]
+  n46 --- n49
+  n50["`17.14: x₁(P + 2)/(P + 3) = 2y₂ + x₃(P + 4)/(P + 5)`"]
+  n46 --- n50
+  n51["`Hệ số phụ thuộc pot: y₂ = R#95;P·x₁, x₃ = R#95;{P+2}·y₂, y₄ = R#95;{P+4}·x₃`"]
+  n46 --- n51
+  n52["`R#95;P = [(P + 2)/(P + 3)] / [2 + R#95;{P+2}(P + 4)/(P + 5)]`"]
+  n46 --- n52
+  n53["`R#95;P → r = √2 − 1 khi P → ∞, truy hồi ngược hội tụ rất nhanh`"]
+  n46 --- n53
+  n54["`R#95;P ≈ 0,326 (P = 1), 0,367 (P = 4), 0,414 (pot vô hạn), luôn nhỏ hơn R của trò chơi số 10`"]
+  n46 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Chìa khoá luôn là các ngưỡng value: bluff, call, fold, raise-bluff suy ra từ pot và vùng value`"]
+  n55 --- n56
+  n57["`Không check-raise: truy hồi nối các ngưỡng X và Y xen kẽ x₁ → y₂ → x₃`"]
+  n55 --- n57
+  n58["`Có check-raise: truy hồi tương tự nối các ngưỡng Y liên tiếp`"]
+  n55 --- n58
+  n59["`Bị bet thì fold không quá α số tay có thể thắng bluff (pot 4: không quá 1/5)`"]
+  n55 --- n59
+  n60["`Pot 1 bet: 1 bluff cho 2 value bet, pot 4 bet: 1 bluff cho 5, pot càng lớn càng ít bluff`"]
+  n55 --- n60
+  n61["`Giới hạn: một vòng cược, limit, trò chơi số 11 và 12 chỉ phác thảo, sách nhiều lỗi in`"]
+  n55 --- n61
+  class n0 root
+  class n1,n6,n21,n38,n46,n55 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 17 "Mixing in Bluffs: Finite Pot [0,1] Games", trang 204–223.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương này thuộc Phần III "Chơi tối ưu" (Optimal Play). Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) đã giải trò chơi [0,1] half-street có pot hữu hạn (trò chơi số 2), đưa ra tỷ lệ α = 1/(P + 1) giữa vùng bluff và vùng value bet và quy tắc người bị bet phải call với 1 − α số tay. Chương 16 ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md)) giải các trò chơi [0,1] full-street không bỏ bài (số 4 tới số 8), nơi không có bluff và tỷ lệ raise là 1/2 hoặc r = √2 − 1.
+
+Chương 17 ghép hai mạch đó: giữ cấu trúc full-street của Chương 16 nhưng cho pot hữu hạn và cho phép bỏ bài, nên mỗi vùng value bet hay value raise đều có một vùng bluff tương ứng. Chương giải trò chơi số 9 (một bet), số 10 (hai bet, không check-raise), phác thảo số 11 (hai bet, có check-raise) và số 12 (raise không giới hạn, không check-raise).
+
+Chương 18 ([C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) nhìn lại toàn bộ họ trò chơi [0,1] và tính giá trị trò chơi; các chương 19–20 ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md), [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)) đưa phân tích sang nhiều vòng cược.
+
+## Lưu ý
+
+- **Tham chiếu sai số ví dụ của Chương 11 (trang 204):** sách hai lần ghi "Example 11.2" cho trò chơi [0,1] pot hữu hạn đầu tiên và cho "[0,1] Game #2"; trò chơi số 2 thực ra là Ví dụ 11.3 (Ví dụ 11.2 là trò chơi số 1, không bỏ bài). Chính sách ở trang 206 và 213 ghi đúng "Game #2 (Example 11.3)".
+- **Ký hiệu in sai trong Ví dụ 17.1:** trang 204 viết ngưỡng call/fold mới của Y là "y₀*", nhưng mọi chỗ sau gọi là y₁*. Trang 205 ghi thứ tự "0 < x₁ < y₁ < x₁*, y₁* < y₀ < x₁ < 1"; ngưỡng cuối đúng là x₀. Trang 205 ghi tiêu đề bảng tại y₁* là "indifference between checking and betting"; đúng là giữa call và fold.
+- **Lỗi trong bảng tại x₀ của Ví dụ 17.1 (trang 207):** cột đầu ghi "X check-calls", đúng là "X check-folds"; dòng cuối ghi khoảng "[y₀, 1]", đúng là [x₀, 1]. Tổng (P + 1)y₁* − P đúng.
+- **Lỗi trong bảng tại x₁ của Ví dụ 17.1 (trang 207):** dòng [0, x₁] có hiệu 0 nhưng ghi tích "x₁", đúng là 0; dòng [y₀, 1] có hiệu −1 nhưng ghi tích "(1 − y₀)", đúng là −(1 − y₀). Tổng y₁* − y₁ − (1 − y₀) của sách đúng.
+- **Lỗi trong lời giải của Ví dụ 17.1 (trang 208):** sách ghi y₀ = (1 + α)²/(1 + α) (tức 1 + α, lớn hơn 1, vô lý). Đúng là y₀ = 1 − αy₁ = **(1 + α²)/(1 + α)**. Kiểm với P = 4: (1 + 1/25)/(6/5) = 13/15, khớp 1 − (1/5)(2/3) = 13/15.
+- **Lỗi chỉ số trong phần giải thích trực giác của Ví dụ 17.1 (trang 208):** sách viết X bet "thắng một bet khi bài Y nằm giữa y₂ và y₁*"; trò chơi một bet không có y₂, đúng là giữa y₁ và y₁* (chính câu sau của sách viết đúng "[y₁, y₁*]").
+- **Lỗi trong phần tính tay với pot 4 (trang 209):**
+  - Sách nói x₁* nằm ở 4/5 quãng đường "từ x₁ tới x₀" và x₀ là "1 − (1/5)x₁"; theo chính phương trình x₁* = (1 − α)(y₀ − x₁) + x₁, đúng là 4/5 quãng đường **từ x₁ tới y₀** (chỉ các tay tốt hơn y₀ mới thắng được bluff của Y), với y₀ = 1 − (1/5)y₁. Kiểm: 8/15 + (4/5)(13/15 − 8/15) = 8/15 + 4/15 = 4/5; còn 4/5 quãng từ x₁ = 8/15 tới x₀ = 67/75 cho 0,8213, không phải 0,8.
+  - Sách định nghĩa c là khoảng cách từ x₁ tới x₀ rồi kết luận c = 1/3; thực tế x₀ − x₁ = 67/75 − 40/75 = 9/25 = 0,36, còn 1/3 là khoảng cách y₀ − x₁.
+  - Sách dùng ký hiệu α cho khoảng cách a (từ x₁ tới y₁), trùng ký hiệu với α = 1/(P + 1); kết quả "α = 2/15" của phép tính này là a = y₁ − x₁ = 2/15, không phải α.
+  - Dòng "1 = (4/5)b + (5/2)α" sai hệ số; đúng là 1 = (5/4)b + (5/2)a (tương đương b + 2a = 4/5, tức x₁* = 4/5), dòng sau "b = (4/5)(1 − (5/2)a) = 4/5 − 2a" của sách khớp với dạng đúng này.
+  - Sách viết "With pot size 4, y₂ = 2/3"; đúng là y₁ = 2/3.
+- **Tham chiếu sai trò chơi tương ứng (trang 209, 211, 216, 221):** sách gọi trò chơi số 10 là "bản tương ứng của trò chơi số 6 (Ví dụ 16.3)"; trò chơi số 10 (hai bet, không check-raise) thực ra tương ứng với trò chơi số 5 (Ví dụ 16.2). Trang 211 viết "we parameterize [0,1] Game #6 this way", đúng là Game #10. Trang 216 viết R = (1 − α₂)/2 tiến tới 1/2 "là giá trị trong trò chơi số 6"; R = 1/2 là của trò chơi số 5 (trò chơi số 6 có R = r). Trang 221 viết "ngưỡng thấp nhất mà trò chơi này khác [0,1] Game #6", đúng là khác Game #10.
+- **Lỗi trong bảng tại x₂* của Ví dụ 17.2 (trang 215):** dòng [0, y₂] ghi "X bet-calls −1, X bet-folds −2"; hai giá trị bị đảo: bet rồi call trước value raise của Y mất 2 bet, bet rồi fold mất 1 bet. Phương trình y₂ = (P + 3)(y₂# − y₁*) của sách đúng với giá trị đã sửa. Câu ngay sau gọi vùng raise-bluff là "y₂* − y₁#"; đúng là y₂# − y₁*.
+- **Ký hiệu trong phép biến đổi tại y₂# (trang 214):** các dòng "2x₂* = (P + 1)(x₁ − x₂) + …" và "αx₂ = α₂(x₁ + 1 − x₀)" thiếu dấu sao, đúng là x₂*.
+- **Tham chiếu "y₁#" ở trang 216:** sách viết kết quả y₂# = 1 − α "tương tự phương trình cho y₁# trong trò chơi số 9"; trò chơi số 9 không có y₁#, đúng là y₁*.
+- **Lỗi trong bảng các ngưỡng của Ví dụ 17.2 (trang 217–218):** cột P = ε (pot gần 0) ghi y₀ = 0 và x₀ = 0. Theo chính công thức của sách, khi α → 1 thì y₀ → 1 và x₀ → 1 (không còn vùng bluff nào, vì không có pot để giành). Người tổng hợp kiểm bằng số: với P = 0,001, y₀ ≈ 0,9995 và x₀ ≈ 1,0000. Các cột P = 1, P = 2, P = 9, P = ∞ được người tổng hợp tính lại bằng phân số đúng và khớp toàn bộ (ví dụ P = 1: y₁ = 76/246 = 38/123; P = 2: y₁ = 279/630 = 31/70).
+- **Lỗi trong Ví dụ 17.3 (trang 218–219):**
+  - Sách nói Y "folds 1 − α₂ of his value bets to a raise"; đúng là Y fold với tỷ lệ **α₂** số tay value bet (và call với 1 − α₂), như chính kết quả y₂* = (1 − α₂)y₁ ngay sau đó.
+  - Bảng "tại x₂#" có dòng [y₂*, y₁] ghi "X check-raise-bluffs −(P + 1)"; đúng là +(P + 1) (Y bet rồi fold trước check-raise, X giành pot P cộng bet của Y). Phương trình y₂* = (P + 2)(y₁ − y₂*) của sách chỉ đúng với dấu cộng. Người tổng hợp nhận xét thêm: bảng này so sánh check-call với check-raise-bluff, tức là phương trình bàng quan tại ranh giới giữa vùng check-call và vùng check-raise-bluff (x₁*), không phải tại x₂# (ranh giới giữa check-raise-bluff và check-fold).
+  - Dòng "y₁* − y₁ = (P + 1) + (y₂# − y₁*) + (1 − y₀)" in nhầm dấu cộng; đúng là (P + 1)(y₂# − y₁*).
+- **Lỗi trong Ví dụ 17.4 (trang 221–222):**
+  - Sách viết "trò chơi không bỏ bài (Example 16.4) … y₂ was 1/2 and x₁ was 1/2. Hence, R was 1/2"; trò chơi không bỏ bài với hai bet và không check-raise là Ví dụ 16.2 (trò chơi số 5), trong đó **y₂ = 1/4** và x₁ = 1/2, nên R = 1/2.
+  - Sách nói R_P tiến tới r khi P → ∞ "vì đây là xấp xỉ của trò chơi không bỏ bài ở Ví dụ 16.4"; trò chơi tương ứng là Ví dụ 16.3 (trò chơi số 6, raise không giới hạn, không check-raise).
+  - Ký hiệu "x₃ = R_p+2y₂" trong lớp chữ nghĩa là x₃ = R_{P+2}·y₂.
+- **Kiểm chứng độc lập (người tổng hợp):** người tổng hợp viết chương trình tính kỳ vọng thật của từng hành động trên cây trò chơi hai bet (có và không có check-raise), rồi kiểm rằng lời giải của sách cho trò chơi số 10 thoả mọi phương trình bàng quan (sai số dưới 10⁻¹⁵), và giải số trò chơi số 11 để kiểm các khẳng định y₂ = y₁(1 − α₂)/2, y₂* = (1 − α₂)y₁, vùng check-raise-bluff rộng α₂x₂ và công thức 17.13; tất cả đều đúng. Các bảng số của trò chơi số 11 và số 12 trong bản tổng hợp là kết quả tính của người tổng hợp, sách không in.
+- **Hình 17.1 và 17.2 là sơ đồ minh hoạ:** sách không ghi P cho hai hình; vị trí các ngưỡng đọc từ trục chỉ là ước lượng và không khớp đúng với một giá trị P nào (Hình 17.1 gần với P = 2).
+- **Lớp chữ OCR:** "l" thay số 1, "a" thay α trong khung lời giải của trò chơi số 10, "15" là 1/5, "45" là 4/5, "23" là 2/3, "m" thay "in", "hi" thay "In", "+i" là +1. Mọi công thức đã được đọc lại từ ảnh trang.
+- **Quy ước:** P là kích thước pot tính bằng số bet; bet bằng 1 đơn vị; bài 0 là nuts. Các bảng kỳ vọng tính ex-showdown như Chương 16: chỉ ghi phần thay đổi so với kết quả showdown nếu không ai bet (ví dụ người đang thua showdown mà bluff thành công được +P; người đang thắng showdown mà bỏ bài mất −P). Số thập phân dùng dấu phẩy.

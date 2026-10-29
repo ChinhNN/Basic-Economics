@@ -1,25 +1,22 @@
 # Chương 27 — Chip không phải tiền: Giải đấu, phần II (Chips Aren't Cash: Tournaments, Part II)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 27 "Chips Aren't Cash: Tournaments, Part II", trang 346–360.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 26 ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) nêu hai nguồn làm giá trị chip giải đấu lệch khỏi tỷ lệ chip — kỹ năng và cơ cấu trả thưởng — và xử lý nguồn thứ nhất bằng Lý thuyết Nhân đôi (E = C^N), dùng cho đầu và giữa giải. Chương 27 xử lý nguồn thứ hai ở cuối giải: khảo sát bốn công thức chuyển số chip thành equity giải thưởng cho người chơi ngang tài (chia theo tỷ lệ chip, Landrum-Burns, Malmuth-Harville, Malmuth-Weitzman) và chỉ ra thiên lệch của từng công thức. Phần thứ hai của chương quay lại chủ đề khoảng tin cậy cho tỷ lệ thắng ở Phần I ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md), [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) và Phần IV ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), nơi độ lệch phân phối được giới thiệu), nhưng cho kết quả giải đấu — một phân phối lệch phải rất mạnh. Chương 28 ([C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)) dùng các công thức equity này trong các quyết định cụ thể (thoả thuận chia tiền, rebuy, chơi gần bubble).
-**Ý chính:** **Ở cuối giải, chip không phải tiền: cơ cấu trả thưởng làm chồng chip lớn đáng ít hơn tỷ lệ chip và chồng chip nhỏ đáng nhiều hơn; không có công thức chính xác, chỉ có các mô hình, mỗi mô hình có thiên lệch riêng; và vì kết quả giải đấu lệch phải rất mạnh, khoảng tin cậy cho tỷ lệ thắng giải phải được xây khác với cash game.** Phần đầu định nghĩa ký hiệu: phần chip s_i = S_i/T, quỹ còn lại V_n, quỹ tăng thêm W_n = V_n − n·v_n, xác suất về nhất x_i (bằng s_i nếu ngang tài). Công thức **chia theo tỷ lệ chip** ⟨X_i⟩ = v_n + s_i·W_n (27.1) cho quá nhiều tiền cho chồng lớn: với chồng 48.000 / 4.000 / 4.000 / 4.000 và thưởng 2.000 / 1.400 / 900 / 700 đô la, người dẫn đầu được 2.460 đô la, hơn cả giải nhất. Công thức **Landrum-Burns** (27.2) cho rằng khi không về nhất thì về các hạng còn lại đều nhau, nên thiên vị chồng nhỏ (người dẫn đầu được 1.800 đô la); hai công thức này cho cận trên và cận dưới. Công thức **Malmuth-Harville** (27.3) lấy xác suất về hạng j bằng tỷ số xác suất thắng của người đó trên tổng xác suất thắng của những người còn lại, chính xác hơn nhưng khó tính tại bàn. Công thức **Malmuth-Weitzman** giả định chip của người bị loại chia đều cho những người còn lại; tác giả chứng minh hệ phương trình của nó có nghiệm đơn giản: xác suất bị loại tiếp theo tỷ lệ nghịch với số chip (27.4); đây là công thức tác giả ưa dùng khi tính thoả thuận ở bàn chung kết. Phần sau giới thiệu tỷ lệ thắng chuẩn hoá ω, kết quả chuẩn hoá Z = (X − s)/s, và với giả định thắng nhiều hơn đều ở mọi hạng có thưởng, phương sai mỗi giải là (k − ω)(1 + ω) với **bội số phương sai giải đấu** k = n·Σv_i² − 1 (27.5); trung bình m giải có phương sai (k̄ − ω)(1 + ω)/m (27.6). Người chơi giả định T với 800 giải (ω ≈ 1,07, k̄ ≈ 34,9) có độ lệch chuẩn 0,296 buyin theo công thức này, so với 0,347 quan sát được; dùng phân phối chuẩn cho khoảng [0,38; 1,77] là sai ở cả hai phía; tác giả đề xuất loại bỏ các tỷ lệ thắng cao bằng kiểm định z thông thường và chặn phía dưới bằng bất đẳng thức Chebyshev.
+## Ý chính
 
-> **Lưu ý:**
-> - **"$2,600" phải là 2.200 đô la (trang 347):** quỹ còn lại 5.000 đô la, đảm bảo 4 × 700 = 2.800 đô la, phần chia theo chip là 5.000 − 2.800 = 2.200 đô la. Chính các phép tính ngay sau dùng 2.200.
-> - **p_{1,3} = 1/16 phải là 1/6 (trang 348):** với m = 2, p_{1,3} = 1 − 2 × 5/12 = 1/6. Phép tính equity ngay sau dùng 1/6 và cho đúng 1.566,67 đô la.
-> - **Ví dụ Landrum-Burns thứ nhất có hai lỗi (trang 349):** (a) giải nhất in là "(2200)" trong cả bốn dòng; đúng là v₁ = 2.000 (các kết quả 1.416,67; 1.333,33; 1.083,33 chỉ đúng khi dùng 2.000). (b) Kết quả của người chơi 3 in là 1.066,67 đô la; đúng là (1/6)(2.000) + (5/18)(1.400 + 900 + 700) = 333,33 + 833,33 = **1.166,67** đô la. Kiểm tra: 1.416,67 + 1.333,33 + 1.166,67 + 1.083,33 = 5.000, đúng bằng quỹ; với 1.066,67 thì tổng chỉ là 4.900.
-> - **Định nghĩa bubble bị ngược chỉ số (trang 347):** sách viết bubble là khi v_n = 0 nhưng v_{n+1} > 0. Vì thưởng không tăng khi hạng thấp hơn (v_{n+1} ≤ v_n), điều kiện này không bao giờ xảy ra; đúng phải là v_n = 0 nhưng v_{n−1} > 0 (người bị loại tiếp theo không có tiền, người sau đó có). Cũng trên trang 346–347, "mỗi người trong i người chơi còn lại" phải là n người, và giới hạn tổng "j = 1, N" phải là n.
-> - **Hệ phương trình Malmuth-Weitzman (trang 351–352):** phương trình thứ tư của ví dụ bốn người in (x₁ + x₁/3)p₁; đúng là (x₄ + x₁/3)p₁. Ở bước thay nghiệm, dòng thứ ba in Σ(x_i/x_k + 1); đúng là Σ(x_i/x_k + 1/(n − 1)), vì tổng của n − 1 số hạng 1/(n − 1) mới bằng 1 như bước cuối dùng. Câu "the summation of 1/x_k, for all k not equal to I" in chữ I hoa thay cho i. Phương trình 27.3 in dấu "∨" (hoặc) thay cho dấu "|" (với điều kiện).
-> - **Dấu của phí tham gia ε_b bị sai (trang 354):** với giải 100 + 10 đô la, bảo đảm quỹ 50.000 đô la, 300 người: s = 50.000/300 = 166,67 đô la, b_c = 110 đô la, nên ε_b = b_c − s = 110 − 166,67 = **−56,67** đô la (âm, vì sòng bài bù tiền vào quỹ — đúng trường hợp "phí âm" mà chính sách vừa mô tả). Sách in +56,67.
-> - **Công thức phương sai một giải (trang 355):** dòng σ_x² = Σp_iV_i² − (ω + b)² phải là Σp_iV_i² − ((1 + ω)b)², vì ⟨X⟩ = (1 + ω)b; dòng kế tiếp của sách đã dùng đúng (1 + ω)²b². Trong phần này sách đổi ký hiệu cỡ giải từ s sang b mà không báo (và ngầm giả định không có phí, b_c = s). Dòng "⟨Z⟩² = σ_x²/b²" phải là σ_Z² = σ_x²/b².
-> - **"(1 + 1.75)" phải là (1 + 1,07) (trang 359):** σ² = (34,875 − 1,07)(1 + 1,07)/800 = 0,0875, khớp với 0,0876 của sách; nếu dùng 1,75 thì được 0,1162.
-> - **k của giải buổi tối hơi lệch (trang 359, người tổng hợp tính lại):** với n = 400 và bảng thưởng đã cho, Σv_i² = 0,135658, nên k = 400 × 0,135658 − 1 = 53,26, không phải 53,6456; k trung bình là (16,105 + 53,26)/2 = 34,68 thay vì 34,875. Người tổng hợp không tìm được cách đọc bảng thưởng nào cho ra 53,6456. Ảnh hưởng nhỏ: σ² = (34,68 − 1,07)(2,07)/800 = 0,0870, σ = 0,295 thay vì 0,296. Sách cũng viết gọn "k = (0,30)² + … + (0,04)² = 16,105", thiếu thừa số n và số hạng −1; con số 16,105 đúng là 100 × 0,17105 − 1.
-> - **"Phương sai mẫu quan sát khoảng 0,3468 buyin" (trang 359):** con số 0,3468 thực ra là **độ lệch chuẩn của trung bình mẫu** (sai số chuẩn), không phải phương sai. Người tổng hợp dựng lại 800 kết quả từ hai bảng: phương sai mỗi giải 96,36, sai số chuẩn √(96,36/800) = 0,347. Khoảng [0,3802; 1,7675] của sách đúng bằng 1,0739 ± 2 × 0,3468 (dùng ±2 độ lệch chuẩn, không phải ±1,96).
-> - **Dấu bất đẳng thức ở phần kiểm định (trang 357):** câu thứ hai "However, for ω > ω̂, we have to be more careful" phải là ω < ω̂ (các tỷ lệ thắng thật thấp hơn kết quả quan sát). Bất đẳng thức Chebyshev được sách viết cho một phía, P(z > a) < 1/a²; bất đẳng thức gốc là cho hai phía, P(|z| ≥ a) ≤ 1/a², nên dạng một phía của sách đúng nhưng lỏng (dạng một phía chặt hơn là 1/(1 + a²) theo bất đẳng thức Cantelli — nhận xét của người tổng hợp).
-> - **Các con số khác khớp khi tính lại:** bốn kết quả chia theo chip (1.616,67; 1.433,33; 1.066,67; 883,33), 2.460 và 846,67; 1.566,67; Landrum-Burns ví dụ hai 1.800 và 1.066,67; hai bảng kết quả của người chơi T (tổng 315,5 và 543,6 buyin, tỷ lệ 0,79 và 1,36; ω chung 859,1/800 = 1,0739); bảng thưởng buổi tối (27,5% × 400 = 110 buyin…); 1,0739 + 2 × 0,2957 = 1,665 và 1,0739 − 2 × 0,2957 = 0,482; xác suất đuôi chuẩn P(z > 4) = 0,0000317; độ lệch của giải winner-take-all 1.000 người khoảng √1.000 = 31,6.
-> - **Lớp chữ:** nhiều công thức của trang 351–356 bị hỏng cả trong lớp chữ lẫn ảnh trang (ký tự "¿" thay cho dấu ngoặc nhọn ⟨ ⟩ của kỳ vọng). Người tổng hợp dựng lại từ ngữ cảnh và kiểm tra bằng số. Các lỗi chính tả: "then chip count" (their), "Landrum-Buras", "Malmuth-Weitznan", "prize poof", "is be independent".
-> - **Quy ước:** ⟨X⟩ là giá trị kỳ vọng của X (ký hiệu của sách). "Buyin" là phí tham gia; equity tính bằng buyin. "Equity" giữ nguyên tiếng Anh.
+**Ở cuối giải, chip không phải tiền: cơ cấu trả thưởng làm chồng chip lớn đáng ít hơn tỷ lệ chip và chồng chip nhỏ đáng nhiều hơn; không có công thức chính xác, chỉ có các mô hình, mỗi mô hình có thiên lệch riêng; và vì kết quả giải đấu lệch phải rất mạnh, khoảng tin cậy cho tỷ lệ thắng giải phải được xây khác với cash game.**
+
+Phần đầu định nghĩa ký hiệu: phần chip s_i = S_i/T, quỹ còn lại V_n, quỹ tăng thêm W_n = V_n − n·v_n, xác suất về nhất x_i (bằng s_i nếu ngang tài).
+
+Công thức **chia theo tỷ lệ chip** ⟨X_i⟩ = v_n + s_i·W_n (27.1) cho quá nhiều tiền cho chồng lớn: với chồng 48.000 / 4.000 / 4.000 / 4.000 và thưởng 2.000 / 1.400 / 900 / 700 đô la, người dẫn đầu được 2.460 đô la, hơn cả giải nhất.
+
+Công thức **Landrum-Burns** (27.2) cho rằng khi không về nhất thì về các hạng còn lại đều nhau, nên thiên vị chồng nhỏ (người dẫn đầu được 1.800 đô la); hai công thức này cho cận trên và cận dưới.
+
+Công thức **Malmuth-Harville** (27.3) lấy xác suất về hạng j bằng tỷ số xác suất thắng của người đó trên tổng xác suất thắng của những người còn lại, chính xác hơn nhưng khó tính tại bàn.
+
+Công thức **Malmuth-Weitzman** giả định chip của người bị loại chia đều cho những người còn lại; tác giả chứng minh hệ phương trình của nó có nghiệm đơn giản: xác suất bị loại tiếp theo tỷ lệ nghịch với số chip (27.4); đây là công thức tác giả ưa dùng khi tính thoả thuận ở bàn chung kết.
+
+Phần sau giới thiệu tỷ lệ thắng chuẩn hoá ω, kết quả chuẩn hoá Z = (X − s)/s, và với giả định thắng nhiều hơn đều ở mọi hạng có thưởng, phương sai mỗi giải là (k − ω)(1 + ω) với **bội số phương sai giải đấu** k = n·Σv_i² − 1 (27.5); trung bình m giải có phương sai (k̄ − ω)(1 + ω)/m (27.6).
+
+Người chơi giả định T với 800 giải (ω ≈ 1,07, k̄ ≈ 34,9) có độ lệch chuẩn 0,296 buyin theo công thức này, so với 0,347 quan sát được; dùng phân phối chuẩn cho khoảng [0,38; 1,77] là sai ở cả hai phía; tác giả đề xuất loại bỏ các tỷ lệ thắng cao bằng kiểm định z thông thường và chặn phía dưới bằng bất đẳng thức Chebyshev.
 
 ## Sơ đồ
 
@@ -340,7 +337,7 @@ W_n = Σ_{j=1}^{n} w_j = V_n − n·v_n
 
 Vì v_n là hằng số (ai cũng chắc chắn nhận ít nhất v_n), quá trình ra quyết định trong giải với quỹ gộp và với quỹ tăng thêm là như nhau.
 
-Giải được coi là **vào vùng có thưởng** (in the money) nếu v_n > 0, tức người bị loại tiếp theo vẫn nhận tiền. Giải ở **bubble** khi v_n = 0 nhưng hạng ngay trên có tiền, v_{n−1} > 0 (sách in v_{n+1}, xem khối Lưu ý).
+Giải được coi là **vào vùng có thưởng** (in the money) nếu v_n > 0, tức người bị loại tiếp theo vẫn nhận tiền. Giải ở **bubble** khi v_n = 0 nhưng hạng ngay trên có tiền, v_{n−1} > 0 (sách in v_{n+1}, xem mục Lưu ý cuối chương).
 
 Gọi p_{i,j} là xác suất người i về hạng j. Công thức equity giải thưởng cơ bản:
 
@@ -425,7 +422,7 @@ Mô hình thứ hai do Stephen Landrum và Jazbo Burns đề xuất trên nhóm 
 | 4 | 1/12 | 11/36 | 166,67 + 916,67 = 1.083,33 |
 | Tổng | | | 5.000,00 |
 
-(Sách in v₁ là "2200" trong các dòng này; giá trị đúng là 2.000, xem khối Lưu ý.)
+(Sách in v₁ là "2200" trong các dòng này; giá trị đúng là 2.000, xem mục Lưu ý cuối chương.)
 
 **Ví dụ 2** (48.000 / 4.000 / 4.000 / 4.000):
 
@@ -455,7 +452,9 @@ Khi đó xác suất về nhì (theo công thức xác suất toàn phần, cộ
 p_{i,2} = Σ_{k≠i} p(X_{i,2} | X_{k,1})·p(X_{k,1}) = Σ_{k≠i} x_i·x_k / (1 − x_k)
 ```
 
-Công thức này ban đầu được phát triển để đặt cược cho ngựa được ưa chuộng trong các pool "show" hoặc "place" (cược ngựa về trong top ba hoặc top hai) của đua ngựa. Tuy nhiên, theo một ý mà Jeff Yass chỉ ra cho tác giả, công thức thực ra còn hợp với poker giải đấu hơn. Trong đua ngựa, nếu một con ngựa được cực kỳ ưa chuộng (x gần 1), phần lớn những lần nó không thắng là do một trục trặc cũng ngăn nó về nhì, như chấn thương hay bị truất quyền. Chẳng hạn, khó tin rằng một con ngựa có 80% khả năng thắng vẫn có hơn 80% khả năng về nhì nếu không thắng, và càng khó tin rằng nó có hơn 99% khả năng về top ba. Nhưng trong poker giải đấu, hiệu ứng này nhỏ: nếu chồng chip lớn không thắng, người đó vẫn rất có thể về nhì và rất khó về chót.
+Công thức này ban đầu được phát triển để đặt cược cho ngựa được ưa chuộng trong các pool "show" hoặc "place" (cược ngựa về trong top ba hoặc top hai) của đua ngựa. Tuy nhiên, theo một ý mà Jeff Yass chỉ ra cho tác giả, công thức thực ra còn hợp với poker giải đấu hơn.
+
+Trong đua ngựa, nếu một con ngựa được cực kỳ ưa chuộng (x gần 1), phần lớn những lần nó không thắng là do một trục trặc cũng ngăn nó về nhì, như chấn thương hay bị truất quyền. Chẳng hạn, khó tin rằng một con ngựa có 80% khả năng thắng vẫn có hơn 80% khả năng về nhì nếu không thắng, và càng khó tin rằng nó có hơn 99% khả năng về top ba. Nhưng trong poker giải đấu, hiệu ứng này nhỏ: nếu chồng chip lớn không thắng, người đó vẫn rất có thể về nhì và rất khó về chót.
 
 Tổng quát hoá quy tắc:
 
@@ -673,7 +672,7 @@ z = (ω̂ − ω)/σ(ω) < −2
 
 Nếu bất đẳng thức đúng, có thể kết luận ω không qua kiểm định, vì phân phối lệch dương nên xác suất có một biến cố âm (kết quả thấp hơn kỳ vọng quá hai độ lệch chuẩn) thực ra còn nhỏ hơn phân phối chuẩn chỉ ra. Như vậy có thể loại một số tỷ lệ thắng rất cao dựa trên dữ liệu.
 
-Nhưng với ω < ω̂ (sách in ω > ω̂, xem khối Lưu ý), phải cẩn thận hơn. Phân phối chuẩn không phù hợp, vì do độ lệch, kết quả quan sát là một biến cố dương có khả năng cao hơn phân phối chuẩn chỉ ra. Có thể dùng **bất đẳng thức Chebyshev** (Tchebyshev's Rule):
+Nhưng với ω < ω̂ (sách in ω > ω̂, xem mục Lưu ý cuối chương), phải cẩn thận hơn. Phân phối chuẩn không phù hợp, vì do độ lệch, kết quả quan sát là một biến cố dương có khả năng cao hơn phân phối chuẩn chỉ ra. Có thể dùng **bất đẳng thức Chebyshev** (Tchebyshev's Rule):
 
 ```text
 P(z = (ω̂ − ω)/σ(ω) > a) < 1/a²
@@ -758,7 +757,9 @@ Phương sai của trung bình mẫu 800 giải, nửa sáng nửa tối, xấp 
 
 tức độ lệch chuẩn 0,296 buyin cho một mẫu 800 giải.
 
-**So với số quan sát.** Sai số chuẩn quan sát được từ chính mẫu là khoảng 0,3468 buyin (sách gọi là "phương sai mẫu"; xem khối Lưu ý). Chênh lệch xảy ra vì mẫu hơi tập trung vào các lần về nhất (11 lần nhất ở giải sáng, so với kỳ vọng 400 × (1 + 0,79)/100 ≈ 7,2 nếu mọi hạng có tiền như nhau với tỷ lệ thắng 0,79 của giải sáng — người tổng hợp tính). Người đọc có thể phản bác rằng xu hướng về nhất nhiều hơn của T làm lệch phân phối thật. Trong thực tế điều đó có thể đúng, dù ảnh hưởng không lớn. Nhưng vì chính tác giả viết chương trình sinh ngẫu nhiên các kết quả trên, họ biết xác suất về nhất của T bằng xác suất về bất kỳ hạng có tiền nào khác. Đây lại là một trường hợp bị nhiễu ngẫu nhiên đánh lừa. (Người tổng hợp tính thêm: phương sai quan sát mỗi giải là 96,4, trong khi công thức cho (34,9 − 1,07)(2,07) ≈ 70; nếu dùng cách ước lượng ngược k = ω̂ + m·σ̂²/(1 + ω̂) = 1,07 + 800 × 0,1204/2,07 ≈ 47,5, lớn hơn hẳn k̄ ≈ 34,9 tính từ cơ cấu thưởng — minh hoạ vì sao tác giả chỉ khuyên dùng cách này khi m rất lớn.)
+**So với số quan sát.** Sai số chuẩn quan sát được từ chính mẫu là khoảng 0,3468 buyin (sách gọi là "phương sai mẫu"; xem mục Lưu ý cuối chương). Chênh lệch xảy ra vì mẫu hơi tập trung vào các lần về nhất (11 lần nhất ở giải sáng, so với kỳ vọng 400 × (1 + 0,79)/100 ≈ 7,2 nếu mọi hạng có tiền như nhau với tỷ lệ thắng 0,79 của giải sáng — người tổng hợp tính).
+
+Người đọc có thể phản bác rằng xu hướng về nhất nhiều hơn của T làm lệch phân phối thật. Trong thực tế điều đó có thể đúng, dù ảnh hưởng không lớn. Nhưng vì chính tác giả viết chương trình sinh ngẫu nhiên các kết quả trên, họ biết xác suất về nhất của T bằng xác suất về bất kỳ hạng có tiền nào khác. Đây lại là một trường hợp bị nhiễu ngẫu nhiên đánh lừa. (Người tổng hợp tính thêm: phương sai quan sát mỗi giải là 96,4, trong khi công thức cho (34,9 − 1,07)(2,07) ≈ 70; nếu dùng cách ước lượng ngược k = ω̂ + m·σ̂²/(1 + ω̂) = 1,07 + 800 × 0,1204/2,07 ≈ 47,5, lớn hơn hẳn k̄ ≈ 34,9 tính từ cơ cấu thưởng — minh hoạ vì sao tác giả chỉ khuyên dùng cách này khi m rất lớn.)
 
 **Khoảng tin cậy.** Áp phân phối chuẩn vào tỷ lệ thắng và độ lệch chuẩn quan sát cho khoảng tin cậy 95% là [0,3802; 1,7675] (= 1,0739 ± 2 × 0,3468). Khoảng này chắc chắn không chính xác ở phía trên: vì phân phối lệch dương, khả năng tỷ lệ thắng thật cao hơn 1,7675 mà T gặp một biến cố rất âm thực ra thấp hơn phân phối chuẩn chỉ ra. Ở phía dưới, dùng phân phối chuẩn hoàn toàn không phù hợp, vì khả năng kết quả quan sát thực ra là một biến cố dương từ một tỷ lệ thắng thấp hơn cao hơn nhiều.
 
@@ -809,7 +810,9 @@ Dùng công thức phương sai dựa trên tỷ lệ thắng, T thực ra có p
 
 ### Trong ngôn ngữ xác suất và thống kê
 
-Bốn công thức equity là bốn mô hình xác suất cho thứ tự về đích (một phân phối trên các hoán vị) với biên duy nhất cho trước là xác suất về nhất x_i. Malmuth-Harville là mô hình Plackett-Luce (chọn tuần tự không hoàn lại với trọng số x_i), quen thuộc trong thống kê xếp hạng (nhận xét của người tổng hợp). Phần thứ hai là bài toán suy luận cho trung bình của một biến có phân phối lệch nặng: định lý giới hạn trung tâm hội tụ chậm (độ lệch giảm theo 1/√m), nên tác giả dùng (a) một ước lượng phương sai dựa trên mô hình thay cho phương sai mẫu kém ổn định, (b) kiểm định một phía dựa trên phân phối chuẩn ở phía mà độ lệch làm cho kiểm định bảo thủ, và (c) bất đẳng thức Chebyshev, không phụ thuộc phân phối, ở phía còn lại.
+Bốn công thức equity là bốn mô hình xác suất cho thứ tự về đích (một phân phối trên các hoán vị) với biên duy nhất cho trước là xác suất về nhất x_i. Malmuth-Harville là mô hình Plackett-Luce (chọn tuần tự không hoàn lại với trọng số x_i), quen thuộc trong thống kê xếp hạng (nhận xét của người tổng hợp).
+
+Phần thứ hai là bài toán suy luận cho trung bình của một biến có phân phối lệch nặng: định lý giới hạn trung tâm hội tụ chậm (độ lệch giảm theo 1/√m), nên tác giả dùng (a) một ước lượng phương sai dựa trên mô hình thay cho phương sai mẫu kém ổn định, (b) kiểm định một phía dựa trên phân phối chuẩn ở phía mà độ lệch làm cho kiểm định bảo thủ, và (c) bất đẳng thức Chebyshev, không phụ thuộc phân phối, ở phía còn lại.
 
 ## Thuật ngữ
 
@@ -912,7 +915,11 @@ Bốn công thức equity là bốn mô hình xác suất cho thứ tự về đ
 
 ### Sức mạnh của chương
 
-Chương trình bày gọn bốn công thức equity phổ biến nhất thời đó, đánh giá từng công thức bằng phản ví dụ cụ thể và bằng một tiêu chuẩn rõ (equity phải bằng nhau khi chip bằng nhau; không ai được hơn giải nhất). Ý tưởng dùng hai công thức lệch ngược chiều làm cận trên và cận dưới là thực dụng cho thương lượng tại bàn. Chứng minh rằng hệ Malmuth-Weitzman có nghiệm đóng p_k ∝ 1/x_k là một đóng góp riêng của tác giả, biến một công thức "phải giải hệ phương trình" thành công thức tính nhẩm được. Phần khoảng tin cậy đặt đúng vấn đề mà nhiều người chơi giải bỏ qua: với độ lệch khoảng √n, vài trăm giải gần như không nói gì chắc chắn về tỷ lệ thắng; công thức k = n·Σv_i² − 1 cho một cách nhanh để biết cần bao nhiêu giải. Ví dụ người chơi T, do chính tác giả mô phỏng, là một minh hoạ trung thực về việc nhiễu tạo ra hình mẫu giả.
+Chương trình bày gọn bốn công thức equity phổ biến nhất thời đó, đánh giá từng công thức bằng phản ví dụ cụ thể và bằng một tiêu chuẩn rõ (equity phải bằng nhau khi chip bằng nhau; không ai được hơn giải nhất). Ý tưởng dùng hai công thức lệch ngược chiều làm cận trên và cận dưới là thực dụng cho thương lượng tại bàn.
+
+Chứng minh rằng hệ Malmuth-Weitzman có nghiệm đóng p_k ∝ 1/x_k là một đóng góp riêng của tác giả, biến một công thức "phải giải hệ phương trình" thành công thức tính nhẩm được.
+
+Phần khoảng tin cậy đặt đúng vấn đề mà nhiều người chơi giải bỏ qua: với độ lệch khoảng √n, vài trăm giải gần như không nói gì chắc chắn về tỷ lệ thắng; công thức k = n·Σv_i² − 1 cho một cách nhanh để biết cần bao nhiêu giải. Ví dụ người chơi T, do chính tác giả mô phỏng, là một minh hoạ trung thực về việc nhiễu tạo ra hình mẫu giả.
 
 ### Những chỗ đơn giản hoá
 
@@ -943,5 +950,172 @@ Chương trình bày gọn bốn công thức equity phổ biến nhất thời 
 ### Vận dụng
 
 - **Cho người chơi poker:** ở bàn chung kết, tính nhanh hai cận (tỷ lệ chip và Landrum-Burns) để biết vùng thương lượng; dùng ICM (Malmuth-Harville) trên máy khi phân tích lại. Đánh giá phong độ giải đấu bằng k: giải 100 người trả 9 hạng có k ≈ 16, giải 400 người trả 27 hạng có k ≈ 53, giải winner-take-all n người có k = n − 1; vì σ² ≈ k/m, muốn sai số chuẩn khoảng 0,5 buyin cần khoảng 4k giải.
-- **Cho người làm tài chính và đầu tư:** chồng chip giải đấu giống một tài sản có lợi nhuận lồi bị giới hạn trên (không ai được hơn giải nhất) — giá trị của nó không tuyến tính theo "số lượng", giống phân chia giá trị giữa các lớp vốn có thứ tự ưu tiên trong thanh lý (waterfall). Việc kẹp giá trị giữa hai mô hình lệch ngược chiều là kỹ thuật định giá quen thuộc khi không có mô hình đúng. Phần thống kê áp dụng trực tiếp cho đánh giá các chiến lược có lợi nhuận lệch phải (đầu tư mạo hiểm, mua quyền chọn xa tiền): vài năm kết quả tốt có thể chỉ là một hai "lần về nhất"; phương sai mẫu không ổn định, nên nên dùng phương sai suy từ cấu trúc lợi nhuận và các bất đẳng thức không phụ thuộc phân phối như Chebyshev thay cho khoảng chuẩn.
+- **Cho người làm tài chính và đầu tư:** chồng chip giải đấu giống một tài sản có lợi nhuận lồi bị giới hạn trên (không ai được hơn giải nhất) — giá trị của nó không tuyến tính theo "số lượng", giống phân chia giá trị giữa các lớp vốn có thứ tự ưu tiên trong thanh lý (waterfall). Việc kẹp giá trị giữa hai mô hình lệch ngược chiều là kỹ thuật định giá quen thuộc khi không có mô hình đúng.
+
+  Phần thống kê áp dụng trực tiếp cho đánh giá các chiến lược có lợi nhuận lệch phải (đầu tư mạo hiểm, mua quyền chọn xa tiền): vài năm kết quả tốt có thể chỉ là một hai "lần về nhất"; phương sai mẫu không ổn định, nên nên dùng phương sai suy từ cấu trúc lợi nhuận và các bất đẳng thức không phụ thuộc phân phối như Chebyshev thay cho khoảng chuẩn.
 - **Cho người ra quyết định nói chung:** khi chia một tài sản có giá trị phụ thuộc thứ hạng (giải thưởng, cổ phần trong cuộc thi), chia theo "đóng góp tuyến tính" sẽ ưu ái người dẫn đầu quá mức; cần mô hình hoá xác suất của từng thứ hạng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 27 trên một trang: sáu nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (ký hiệu và lý do cần ánh xạ chip sang tiền, hai công thức lệch ngược chiều là tỷ lệ chip và Landrum-Burns, hai công thức của Malmuth, độ lệch và các đại lượng chuẩn hoá, phương sai theo tỷ lệ thắng và kiểm định, ví dụ người chơi T), mỗi nhánh ghi công thức, ví dụ số và kết luận then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 27: ở cuối giải chip không phải tiền — cơ cấu thưởng làm chồng lớn đáng ít hơn tỷ lệ chip, chồng nhỏ đáng nhiều hơn`"]
+  n1["`Mục 1 — Vì sao cần ánh xạ chip sang tiền, và ký hiệu`"]
+  n0 --- n1
+  n2["`Lý thuyết Nhân đôi không dành cho bàn chung kết, nhưng cần ánh xạ chip → tiền để thoả thuận và ra quyết định`"]
+  n1 --- n2
+  n3["`Đầu giải kỹ năng tác động mạnh nhất#59; cuối giải blind cao nên cơ cấu thưởng tác động mạnh nhất`"]
+  n1 --- n3
+  n4["`Phần chip s#95;i = S#95;i/T#59; người ngang tài có xác suất về nhất x#95;i = s#95;i`"]
+  n1 --- n4
+  n5["`Quỹ tăng thêm W#95;n = V#95;n − n·v#95;n, ví dụ 5.000 − 4 × 700 = 2.200 đô la`"]
+  n1 --- n5
+  n6["`Vào vùng có thưởng khi v#95;n #gt; 0#59; bubble khi v#95;n = 0 nhưng v#95;{n−1} #gt; 0`"]
+  n1 --- n6
+  n7["`Equity giải thưởng ⟨X#95;i⟩ = Σ p#95;{i,j}·v#95;j#59; mọi công thức lấy x#95;i làm đầu vào rồi gán xác suất các hạng còn lại`"]
+  n1 --- n7
+  n8["`Mục 2–3 — Hai công thức lệch ngược chiều: tỷ lệ chip và Landrum-Burns`"]
+  n0 --- n8
+  n9["`Tỷ lệ chip (27.1): ⟨X#95;i⟩ = v#95;n + s#95;i·W#95;n — ai cũng nhận v#95;n, phần còn lại chia theo chip`"]
+  n8 --- n9
+  n10["`Chip 25.000 / 20.000 / 10.000 / 5.000, thưởng 2.000 / 1.400 / 900 / 700: được 1.616,67 / 1.433,33 / 1.066,67 / 883,33`"]
+  n9 --- n10
+  n11["`Chip 48.000 / 4.000 / 4.000 / 4.000: người dẫn đầu được 2.460 đô la, hơn cả giải nhất 2.000`"]
+  n9 --- n11
+  n12["`Nguyên nhân: tương đương p#95;{i,j} = s#95;i ở mọi hạng, tổng n·s#95;i vượt 1 khi s#95;i #gt; 1/n`"]
+  n9 --- n12
+  n13["`Bản sửa m = ⌊1/x#95;i⌋ cho người dẫn đầu 1.566,67 nhưng tổng equity không còn bằng quỹ`"]
+  n9 --- n13
+  n14["`Landrum-Burns (27.2): không về nhất thì về các hạng còn lại đều nhau, mỗi hạng (1 − p#95;{i,1})/(n − 1)`"]
+  n8 --- n14
+  n15["`Ví dụ 1: 1.416,67 / 1.333,33 / 1.166,67 / 1.083,33 (sách in nhầm 1.066,67 cho người 3)`"]
+  n14 --- n15
+  n16["`Chip 48.000 / 4.000 × 3: người dẫn đầu 1.800, mỗi chồng nhỏ 1.066,67`"]
+  n14 --- n16
+  n17["`Thiên vị chồng nhỏ: chồng lớn hiếm khi về chót, chồng rất nhỏ ít về nhì hơn về chót`"]
+  n14 --- n17
+  n18["`Hai công thức lệch ngược chiều nên cho cận trên và cận dưới#59; giá trị công bằng nằm giữa`"]
+  n8 --- n18
+  n19["`Mục 4–5 — Hai công thức của Malmuth, chính xác hơn nhưng khó tính tại bàn`"]
+  n0 --- n19
+  n20["`Malmuth-Harville (27.3): xác suất về hạng j = x#95;i chia tổng x của những người chưa có hạng`"]
+  n19 --- n20
+  n21["`Về nhì khi người k về nhất: x#95;i/(1 − x#95;k)#59; gốc là công thức Harville cược đua ngựa`"]
+  n20 --- n21
+  n22["`Jeff Yass: hợp poker hơn đua ngựa — chồng lớn không thắng vẫn rất hay về nhì, rất hiếm về chót`"]
+  n20 --- n22
+  n23["`Người tổng hợp tính 24 hoán vị: người dẫn đầu ví dụ 1 được 1.511,17#59; ví dụ 2 được 1.865,27`"]
+  n20 --- n23
+  n24["`Nhiều người thì n! hoán vị, khó tính tại bàn#59; dùng phân tích ngoài bàn và giải sit-and-go`"]
+  n20 --- n24
+  n25["`Malmuth-Weitzman: chip của người bị loại chia đều cho những người còn lại`"]
+  n19 --- n25
+  n26["`Nghiệm (27.4): p#95;{k,n} = (1/x#95;k)/b với b = Σ 1/x#95;i — xác suất bị loại tiếp tỷ lệ nghịch với chip`"]
+  n25 --- n26
+  n27["`Tác giả chứng minh nghiệm đóng nên không cần giải hệ phương trình tuyến tính mỗi lần`"]
+  n25 --- n27
+  n28["`Phản đối: hai chồng ngắn ở hai bàn khác nhau, chồng gấp đôi lại có nửa xác suất bị loại`"]
+  n25 --- n28
+  n29["`Công thức tác giả ưa nhất gần vùng có thưởng, làm mốc ngang tài khi thoả thuận ở bàn chung kết`"]
+  n25 --- n29
+  n30["`Người dẫn đầu ví dụ 1: tỷ lệ chip 1.616,67, Malmuth-Harville 1.511,17, Malmuth-Weitzman 1.487,18, Landrum-Burns 1.416,67`"]
+  n19 --- n30
+  n31["`Mục 6–7 — Kết quả giải đấu lệch phải mạnh, và các đại lượng chuẩn hoá`"]
+  n0 --- n31
+  n32["`Cash game là tổng nhiều ván nên khoảng tin cậy thông thường dùng được#59; giải đấu thì không`"]
+  n31 --- n32
+  n33["`Giải winner-take-all 1.000 người: người thắng trải qua sự kiện cỡ 30 độ lệch chuẩn, mà lần nào cũng có người thắng`"]
+  n31 --- n33
+  n34["`Phương sai tương quan mạnh với tỷ lệ thắng: biến cố lớn đều dương, biến cố âm chỉ là −1 buyin`"]
+  n31 --- n34
+  n35["`Độ lệch S = ⟨(X − μ)³⟩/σ³ ≈ √n, trung bình m giải chia √m: cần m #gt; n giải để S #lt; 1`"]
+  n31 --- n35
+  n36["`Phí ε#95;b = b#95;c − s với cỡ giải s = V/n: giải 100 + 10, bảo đảm 50.000, 300 người cho ε#95;b = −56,67`"]
+  n31 --- n36
+  n37["`Tỷ lệ thắng chuẩn hoá ω = Σ (n·p#95;i)·v#95;i − 1#59; người chơi trung bình có ω = 0`"]
+  n31 --- n37
+  n38["`Kết quả chuẩn hoá Z = (X − s)/s có ⟨Z⟩ = ω, giá trị hay gặp nhất là −1`"]
+  n31 --- n38
+  n39["`Mục 8–9 — Phương sai theo tỷ lệ thắng, kiểm định và bất đẳng thức Chebyshev`"]
+  n0 --- n39
+  n40["`Giả định p#95;i = (1 + ω)/n cho mọi hạng có thưởng — trái Lý thuyết Nhân đôi nhưng là xấp xỉ chấp nhận được`"]
+  n39 --- n40
+  n41["`Bội số phương sai giải đấu k = n·Σ v#95;i² − 1 (27.5)#59; winner-take-all có k = n − 1`"]
+  n39 --- n41
+  n42["`Phương sai một giải σ#95;Z² = (k − ω)(1 + ω), xấp xỉ tỷ lệ với 1 + ω`"]
+  n39 --- n42
+  n43["`Trung bình m giải: σ² = (k̄ − ω)(1 + ω)/m (27.6) ≈ k/m, nên cần khoảng k giải để σ² = 1`"]
+  n39 --- n43
+  n44["`Tốt hơn phương sai quan sát trừ khi mẫu cực lớn#59; khi đó ước lượng ngược k = ω̂ + m·σ̂²/(1 + ω̂)`"]
+  n39 --- n44
+  n45["`ω thật lớn hơn ω̂: loại ω nếu z = (ω̂ − ω)/σ(ω) #lt; −2, an toàn vì đuôi trái mỏng`"]
+  n39 --- n45
+  n46["`ω thật nhỏ hơn ω̂: dùng Chebyshev P(z #gt; a) #lt; 1/a²#59; a = 4 cho 1/16, chuẩn chỉ 0,00003`"]
+  n39 --- n46
+  n47["`Mục 10 — Người chơi T: 800 giải 50 + 5 đô la mô phỏng`"]
+  n0 --- n47
+  n48["`Giải sáng 100 người trả 9 hạng: 400 giải, có tiền 13%, lãi 315,5 buyin (0,79 mỗi giải)`"]
+  n47 --- n48
+  n49["`Giải tối 400 người trả 27 hạng: 400 giải, có tiền 51 lần, lãi 543,6 buyin (1,36 mỗi giải)`"]
+  n47 --- n49
+  n50["`ω = 859,1/800 = 1,0739#59; k sáng 16,105, k tối 53,26 (sách in 53,6456), k̄ = 34,875`"]
+  n47 --- n50
+  n51["`σ² = (34,875 − 1,07)(1 + 1,07)/800 = 0,0876 nên σ = 0,296 buyin, so với 0,347 quan sát`"]
+  n47 --- n51
+  n52["`11 lần về nhất ở giải sáng so với kỳ vọng 7,2 dù xác suất mọi hạng như nhau — bị nhiễu ngẫu nhiên đánh lừa`"]
+  n47 --- n52
+  n53["`Khoảng chuẩn [0,3802#59; 1,7675] = 1,0739 ± 2 × 0,3468 sai ở cả hai phía`"]
+  n47 --- n53
+  n54["`Cận trên 1,0739 + 2 × 0,296 = 1,666#59; Chebyshev: khả năng tỷ lệ thắng thật dưới 0,4818 không quá 1/4`"]
+  n47 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Mọi công thức equity đều là mô hình nên có thiên lệch#59; hiểu thiên lệch giúp quyết định và thoả thuận tốt hơn`"]
+  n55 --- n56
+  n57["`Gần vùng có thưởng hãy quyết định và thương lượng theo ⟨X#95;i⟩, không theo số chip`"]
+  n55 --- n57
+  n58["`Kết quả giải đấu rất nhiễu: đừng suy ra phong cách như hay về nhất từ vài trăm giải`"]
+  n55 --- n58
+  class n0 root
+  class n1,n8,n19,n31,n39,n47,n55 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 27 "Chips Aren't Cash: Tournaments, Part II", trang 346–360.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 26 ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) nêu hai nguồn làm giá trị chip giải đấu lệch khỏi tỷ lệ chip — kỹ năng và cơ cấu trả thưởng — và xử lý nguồn thứ nhất bằng Lý thuyết Nhân đôi (E = C^N), dùng cho đầu và giữa giải.
+
+Chương 27 xử lý nguồn thứ hai ở cuối giải: khảo sát bốn công thức chuyển số chip thành equity giải thưởng cho người chơi ngang tài (chia theo tỷ lệ chip, Landrum-Burns, Malmuth-Harville, Malmuth-Weitzman) và chỉ ra thiên lệch của từng công thức.
+
+Phần thứ hai của chương quay lại chủ đề khoảng tin cậy cho tỷ lệ thắng ở Phần I ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md), [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) và Phần IV ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), nơi độ lệch phân phối được giới thiệu), nhưng cho kết quả giải đấu — một phân phối lệch phải rất mạnh. Chương 28 ([C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)) dùng các công thức equity này trong các quyết định cụ thể (thoả thuận chia tiền, rebuy, chơi gần bubble).
+
+## Lưu ý
+
+- **"$2,600" phải là 2.200 đô la (trang 347):** quỹ còn lại 5.000 đô la, đảm bảo 4 × 700 = 2.800 đô la, phần chia theo chip là 5.000 − 2.800 = 2.200 đô la. Chính các phép tính ngay sau dùng 2.200.
+- **p_{1,3} = 1/16 phải là 1/6 (trang 348):** với m = 2, p_{1,3} = 1 − 2 × 5/12 = 1/6. Phép tính equity ngay sau dùng 1/6 và cho đúng 1.566,67 đô la.
+- **Ví dụ Landrum-Burns thứ nhất có hai lỗi (trang 349):** (a) giải nhất in là "(2200)" trong cả bốn dòng; đúng là v₁ = 2.000 (các kết quả 1.416,67; 1.333,33; 1.083,33 chỉ đúng khi dùng 2.000). (b) Kết quả của người chơi 3 in là 1.066,67 đô la; đúng là (1/6)(2.000) + (5/18)(1.400 + 900 + 700) = 333,33 + 833,33 = **1.166,67** đô la. Kiểm tra: 1.416,67 + 1.333,33 + 1.166,67 + 1.083,33 = 5.000, đúng bằng quỹ; với 1.066,67 thì tổng chỉ là 4.900.
+- **Định nghĩa bubble bị ngược chỉ số (trang 347):** sách viết bubble là khi v_n = 0 nhưng v_{n+1} > 0. Vì thưởng không tăng khi hạng thấp hơn (v_{n+1} ≤ v_n), điều kiện này không bao giờ xảy ra; đúng phải là v_n = 0 nhưng v_{n−1} > 0 (người bị loại tiếp theo không có tiền, người sau đó có). Cũng trên trang 346–347, "mỗi người trong i người chơi còn lại" phải là n người, và giới hạn tổng "j = 1, N" phải là n.
+- **Hệ phương trình Malmuth-Weitzman (trang 351–352):** phương trình thứ tư của ví dụ bốn người in (x₁ + x₁/3)p₁; đúng là (x₄ + x₁/3)p₁. Ở bước thay nghiệm, dòng thứ ba in Σ(x_i/x_k + 1); đúng là Σ(x_i/x_k + 1/(n − 1)), vì tổng của n − 1 số hạng 1/(n − 1) mới bằng 1 như bước cuối dùng. Câu "the summation of 1/x_k, for all k not equal to I" in chữ I hoa thay cho i. Phương trình 27.3 in dấu "∨" (hoặc) thay cho dấu "|" (với điều kiện).
+- **Dấu của phí tham gia ε_b bị sai (trang 354):** với giải 100 + 10 đô la, bảo đảm quỹ 50.000 đô la, 300 người: s = 50.000/300 = 166,67 đô la, b_c = 110 đô la, nên ε_b = b_c − s = 110 − 166,67 = **−56,67** đô la (âm, vì sòng bài bù tiền vào quỹ — đúng trường hợp "phí âm" mà chính sách vừa mô tả). Sách in +56,67.
+- **Công thức phương sai một giải (trang 355):** dòng σ_x² = Σp_iV_i² − (ω + b)² phải là Σp_iV_i² − ((1 + ω)b)², vì ⟨X⟩ = (1 + ω)b; dòng kế tiếp của sách đã dùng đúng (1 + ω)²b². Trong phần này sách đổi ký hiệu cỡ giải từ s sang b mà không báo (và ngầm giả định không có phí, b_c = s). Dòng "⟨Z⟩² = σ_x²/b²" phải là σ_Z² = σ_x²/b².
+- **"(1 + 1.75)" phải là (1 + 1,07) (trang 359):** σ² = (34,875 − 1,07)(1 + 1,07)/800 = 0,0875, khớp với 0,0876 của sách; nếu dùng 1,75 thì được 0,1162.
+- **k của giải buổi tối hơi lệch (trang 359, người tổng hợp tính lại):** với n = 400 và bảng thưởng đã cho, Σv_i² = 0,135658, nên k = 400 × 0,135658 − 1 = 53,26, không phải 53,6456; k trung bình là (16,105 + 53,26)/2 = 34,68 thay vì 34,875. Người tổng hợp không tìm được cách đọc bảng thưởng nào cho ra 53,6456. Ảnh hưởng nhỏ: σ² = (34,68 − 1,07)(2,07)/800 = 0,0870, σ = 0,295 thay vì 0,296. Sách cũng viết gọn "k = (0,30)² + … + (0,04)² = 16,105", thiếu thừa số n và số hạng −1; con số 16,105 đúng là 100 × 0,17105 − 1.
+- **"Phương sai mẫu quan sát khoảng 0,3468 buyin" (trang 359):** con số 0,3468 thực ra là **độ lệch chuẩn của trung bình mẫu** (sai số chuẩn), không phải phương sai. Người tổng hợp dựng lại 800 kết quả từ hai bảng: phương sai mỗi giải 96,36, sai số chuẩn √(96,36/800) = 0,347. Khoảng [0,3802; 1,7675] của sách đúng bằng 1,0739 ± 2 × 0,3468 (dùng ±2 độ lệch chuẩn, không phải ±1,96).
+- **Dấu bất đẳng thức ở phần kiểm định (trang 357):** câu thứ hai "However, for ω > ω̂, we have to be more careful" phải là ω < ω̂ (các tỷ lệ thắng thật thấp hơn kết quả quan sát). Bất đẳng thức Chebyshev được sách viết cho một phía, P(z > a) < 1/a²; bất đẳng thức gốc là cho hai phía, P(|z| ≥ a) ≤ 1/a², nên dạng một phía của sách đúng nhưng lỏng (dạng một phía chặt hơn là 1/(1 + a²) theo bất đẳng thức Cantelli — nhận xét của người tổng hợp).
+- **Các con số khác khớp khi tính lại:** bốn kết quả chia theo chip (1.616,67; 1.433,33; 1.066,67; 883,33), 2.460 và 846,67; 1.566,67; Landrum-Burns ví dụ hai 1.800 và 1.066,67; hai bảng kết quả của người chơi T (tổng 315,5 và 543,6 buyin, tỷ lệ 0,79 và 1,36; ω chung 859,1/800 = 1,0739); bảng thưởng buổi tối (27,5% × 400 = 110 buyin…); 1,0739 + 2 × 0,2957 = 1,665 và 1,0739 − 2 × 0,2957 = 0,482; xác suất đuôi chuẩn P(z > 4) = 0,0000317; độ lệch của giải winner-take-all 1.000 người khoảng √1.000 = 31,6.
+- **Lớp chữ:** nhiều công thức của trang 351–356 bị hỏng cả trong lớp chữ lẫn ảnh trang (ký tự "¿" thay cho dấu ngoặc nhọn ⟨ ⟩ của kỳ vọng). Người tổng hợp dựng lại từ ngữ cảnh và kiểm tra bằng số. Các lỗi chính tả: "then chip count" (their), "Landrum-Buras", "Malmuth-Weitznan", "prize poof", "is be independent".
+- **Quy ước:** ⟨X⟩ là giá trị kỳ vọng của X (ký hiệu của sách). "Buyin" là phí tham gia; equity tính bằng buyin. "Equity" giữ nguyên tiếng Anh.

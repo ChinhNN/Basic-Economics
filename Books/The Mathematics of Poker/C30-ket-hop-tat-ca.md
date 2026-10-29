@@ -1,17 +1,20 @@
 # Chương 30 — Kết hợp tất cả: Dùng toán học để chơi tốt hơn (Putting It All Together: Using Math to Improve Play)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 30 "Putting It All Together: Using Math to Improve Play", trang 382–387 (chương bắt đầu giữa trang 382, ngay sau phần "Key Concepts" của Chương 29).
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương kết của Phần V và của cả cuốn sách. Phần I ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md) tới [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) đặt nền xác suất, kỳ vọng, phương sai và suy luận Bayes; Phần II ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md) tới [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) dạy lối chơi khai thác; Phần III ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md) tới [C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)) giải các trò chơi mẫu để tìm chiến lược tối ưu; Phần IV ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md) tới [C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)) bàn về rủi ro và bankroll; Phần V bàn về giải đấu ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md) tới [C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)) và trò chơi nhiều người ([C29-tro-choi-nhieu-nguoi.md](C29-tro-choi-nhieu-nguoi.md)). Chương 29 vừa kết luận rằng trong poker nhiều người không tồn tại chiến lược tối ưu; Chương 30 nhận lấy hệ quả đó: dùng lý thuyết trò chơi trong thực tế là cố gắng **xấp xỉ** lối chơi tối ưu, và tác giả trình bày triết lý chơi của mình thành bốn nguyên tắc rút ra từ toàn bộ cuốn sách. Chương khép lại bằng lời khuyên đã nêu ở phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)): tối đa lợi nhuận trung bình.
-**Ý chính:** **Vì không có chiến lược tối ưu cho các thể loại poker phổ biến (và với nhiều người thì không tồn tại), áp dụng lý thuyết trò chơi nghĩa là cố gắng xấp xỉ lối chơi tối ưu, theo bốn nguyên tắc: chơi hung hăng, chơi cân bằng, chơi có chiến lược, và dựa vào phân tích thay vì kinh nghiệm cảm tính.** (1) **Hung hăng:** các lời giải trò chơi mẫu hung hăng hơn người chơi thường nghĩ — ở jam-or-fold với chồng 10 blind, người đi trước jam 58,3% số tay; ở trò chơi thấu bài một vòng rưỡi, tay bài ẩn nửa bluff với bài kém xa; ở trò chơi [0,1] cao–thấp, người thứ hai bet hơn 75% số tay khi được check. Bỏ bài quá nhiều đắt hơn nhiều so với bet thừa một chút, và hung hăng tự động khai thác lỗi phổ biến nhất của đối thủ là bỏ bài quá nhiều. (2) **Cân bằng:** một chiến lược cân bằng không mất giá trị vì bị khai thác; sự cân bằng là thuộc tính của chiến lược (cả dải bài), không phải của một tay bài; mỗi hành động cần chứa những tay hưởng lợi từ từng phản ứng của đối thủ, đủ đa dạng để che giấu thông tin, gán mỗi tay vào cách chơi có lời nhất, và giữ mối đe dọa có nuts ở vòng sau. Cách tập luyện: tưởng tượng phải công bố chiến lược của mình trước mỗi hành động. (3) **Chơi có chiến lược:** nhìn cả ván (thậm chí cả bankroll) như một thể thống nhất ít điểm quyết định; ví dụ với 3.600 chip và blind 200-400, raise lên 1.200 đã tự trói mình vào pot, nên jam ngay tốt hơn; tính trước một hai vòng, kể cả chiến lược "bức tường" ở river; "đọc bài của chính mình" (Pudaite và Ferguson) quan trọng hơn đọc bài đối thủ. (4) **Dựa vào phân tích:** bằng chứng thực nghiệm trong poker rất dễ đánh lừa và lời khuyên của người khác thường sai hoặc bị hiểu sai; phân tích đúng thì đúng với giả định của nó, và cho sự vững tâm để không tilt — jam T8s ba lần thua liền vẫn không lùi bước. Lời cuối: cuốn sách chỉ là "điềm báo sớm" của một cuộc cách mạng định lượng trong poker.
+## Ý chính
 
-> **Lưu ý:**
-> - **"Bảng jam-or-fold ở Chương 13" phải là Chương 12 (trang 387):** bảng jam-or-fold (lời giải tối ưu của trò chơi jam-or-fold cho mọi cỡ chồng chip) nằm ở Chương 12 "Headsup With High Blinds: The Jam-or-Fold Game"; Chương 13 là trò chơi AKQ. Chính trang 382 nói đúng "the jam-or-fold game in Chapter 12".
-> - **Các con số được kiểm tra:** 58,3% là 774/1.326 = 58,37% số tổ hợp tay bài, khớp với Chương 12 (ở đó người phòng thủ call 494/1.326 = 37,3%); sách in "58,3%" với dấu phẩy thập phân, khác cách viết dấu chấm ở các trang khác. "Người thứ hai bet hơn 75% số tay" ở Ví dụ 18.1: Chương 18 cho kết quả π/4 ≈ 78,5%. Ví dụ 3.600 chip: nếu raise lên 1.200 và big blind jam 3.600, pot trước khi call là 200 + 3.600 + 1.200 = 5.000 chip, phải call thêm 2.400: tỷ lệ 2,08 ăn 1; nếu small blind jam thì 400 + 3.600 + 1.200 = 5.200 so với 2.400, tức 2,17 ăn 1 — đúng "ít nhất 2 ăn 1".
-> - **Tên Ví dụ 18.1:** sách gọi là "trò chơi [0,1] cao–thấp" (high-low [0,1] game); tên ở Chương 18 là "The [0,1] x [0,1] Game" — cùng một trò chơi (mỗi người có một số cho phần "cao" và một số cho phần "thấp"), với các hạn chế: không ai được bỏ bài, tối đa hai bet, không check-raise.
-> - **Một số khẳng định là kinh nghiệm cá nhân, không có số liệu:** "chúng tôi luôn vượt kỳ vọng theo giá trị chip khi đối đầu hai người"; "người chơi ám ảnh với việc bỏ bài lớn rất phổ biến ở mức cược trung bình và cao". Bản tổng hợp ghi lại như ý kiến của tác giả.
-> - **Lỗi in và lỗi lớp chữ:** "in it's own right" (its, trang 383); "surrenders tile entire pot" (the, trang 383); "all fie following criteria" (the, trang 384); "who are used to drinking that" (thinking, trang 385); "If you're previous play" (your, trang 385); "initially raised By raising" (thiếu dấu chấm, trang 385); "at each point in the hand that is the set of hands is consistent" (thiếu dấu phẩy: "that is, the set of hands consistent", trang 386); "asking then talented or successful friends" (their, trang 386); "{a bluffs for each value bet}" — chữ "a" là α bị mất phông, và dấu ngoặc nhọn là ngoặc tròn (trang 384).
-> - **Quy ước:** "near-optimal" dịch là "gần tối ưu"; "balance" là "cân bằng" theo nghĩa của chiến lược (không nhầm với "cân bằng Nash" ở Chương 29, dù hai ý liên quan); "T3600" trong sách là 3.600 chip giải đấu (chữ T là tournament chips).
+**Vì không có chiến lược tối ưu cho các thể loại poker phổ biến (và với nhiều người thì không tồn tại), áp dụng lý thuyết trò chơi nghĩa là cố gắng xấp xỉ lối chơi tối ưu, theo bốn nguyên tắc: chơi hung hăng, chơi cân bằng, chơi có chiến lược, và dựa vào phân tích thay vì kinh nghiệm cảm tính.**
+
+**Hung hăng:** các lời giải trò chơi mẫu hung hăng hơn người chơi thường nghĩ — ở jam-or-fold với chồng 10 blind, người đi trước jam 58,3% số tay; ở trò chơi thấu bài một vòng rưỡi, tay bài ẩn nửa bluff với bài kém xa; ở trò chơi [0,1] cao–thấp, người thứ hai bet hơn 75% số tay khi được check.
+
+Bỏ bài quá nhiều đắt hơn nhiều so với bet thừa một chút, và hung hăng tự động khai thác lỗi phổ biến nhất của đối thủ là bỏ bài quá nhiều.
+
+**Cân bằng:** một chiến lược cân bằng không mất giá trị vì bị khai thác. Sự cân bằng là thuộc tính của chiến lược (cả dải bài), không phải của một tay bài. Mỗi hành động cần chứa những tay hưởng lợi từ từng phản ứng của đối thủ, đủ đa dạng để che giấu thông tin, gán mỗi tay vào cách chơi có lời nhất, và giữ mối đe dọa có nuts ở vòng sau. Cách tập luyện: tưởng tượng phải công bố chiến lược của mình trước mỗi hành động.
+
+**Chơi có chiến lược:** nhìn cả ván (thậm chí cả bankroll) như một thể thống nhất ít điểm quyết định; ví dụ với 3.600 chip và blind 200-400, raise lên 1.200 đã tự trói mình vào pot, nên jam ngay tốt hơn; tính trước một hai vòng, kể cả chiến lược "bức tường" ở river; "đọc bài của chính mình" (Pudaite và Ferguson) quan trọng hơn đọc bài đối thủ.
+
+**Dựa vào phân tích:** bằng chứng thực nghiệm trong poker rất dễ đánh lừa và lời khuyên của người khác thường sai hoặc bị hiểu sai; phân tích đúng thì đúng với giả định của nó, và cho sự vững tâm để không tilt — jam T8s ba lần thua liền vẫn không lùi bước.
+
+Lời cuối: cuốn sách chỉ là "điềm báo sớm" của một cuộc cách mạng định lượng trong poker.
 
 ## Sơ đồ
 
@@ -275,7 +278,9 @@ Minh họa số của người tổng hợp bằng trò chơi thấu bài nửa 
 
 Lưu ý rằng cân bằng chỉ áp dụng cho chiến lược, không cho tay bài. Lý do là ta hiếm khi xét cách chơi tay bài đang cầm một cách riêng lẻ. Thay vào đó, ở mỗi điểm quyết định, ta xây dựng một chiến lược: mỗi tay bài có thể đang cầm (dựa trên hành động trước đó) được gán một hành động. Lý tưởng, các phép gán này thỏa mọi tiêu chí sau:
 
-1. **Mỗi hành động chứa những tay hưởng lợi lớn từ một phản ứng cụ thể của đối thủ.** Ví dụ, ta cân nhắc raise bet của đối thủ ở turn trong hold'em. Đối thủ có ba phản ứng: re-raise, call hoặc fold. Các tay đã thành mạnh nhất của ta hưởng lợi nhiều nhất khi đối thủ re-raise, nên phải có mặt trong dải raise. Tương tự, các tay đã thành khá mạnh hưởng lợi khi đối thủ call, và các nửa bluff yếu hơn hưởng lợi nhất khi đối thủ fold. Vậy ta có thể xây dải raise sao cho mỗi loại tay này có mặt với tỷ lệ thích hợp. Làm đúng, đối thủ không thể khai thác ta bằng cách chọn một phản ứng thường hơn các phản ứng khác; giá trị mất ở loại tay này sẽ được bù bởi loại tay khác.
+1. **Mỗi hành động chứa những tay hưởng lợi lớn từ một phản ứng cụ thể của đối thủ.** Ví dụ, ta cân nhắc raise bet của đối thủ ở turn trong hold'em. Đối thủ có ba phản ứng: re-raise, call hoặc fold. Các tay đã thành mạnh nhất của ta hưởng lợi nhiều nhất khi đối thủ re-raise, nên phải có mặt trong dải raise.
+
+   Tương tự, các tay đã thành khá mạnh hưởng lợi khi đối thủ call, và các nửa bluff yếu hơn hưởng lợi nhất khi đối thủ fold. Vậy ta có thể xây dải raise sao cho mỗi loại tay này có mặt với tỷ lệ thích hợp. Làm đúng, đối thủ không thể khai thác ta bằng cách chọn một phản ứng thường hơn các phản ứng khác; giá trị mất ở loại tay này sẽ được bù bởi loại tay khác.
 2. **Tập tay chơi theo một cách cụ thể đủ đa dạng để tránh bị khai thác.** Điều này thỏa nguyên tắc che giấu thông tin.
 3. **Gán tay vào hành động sao cho các tay được chơi theo cách có lời nhất càng thường càng tốt.** Nhớ lại ở Chương 9, khi bàn về cách chơi AA và AK trước flop trước một người raise trong hold'em: chênh lệch giữa chơi AA cách này hay cách khác (khi xét riêng) là nhỏ, nhưng với AK thì lớn (AK có equity rất tốt khi all-in trước flop, nhưng chịu thiệt khi chỉ cược một phần ba chồng chip; AA thì tốt ở cả hai). Vì vậy tác giả chọn jam với cả hai tay, vì chiến lược đó lợi cho AK nhiều hơn hẳn. Tương tự, ta xây dải bài sao cho tối đa giá trị của các tay chính trong dải.
 4. **Khi còn nhiều cược phía sau** (thường gặp ở poker cược lớn — big bet poker, tức no-limit và pot-limit), **luôn cố có một mối đe dọa đáng tin là có nuts ở vòng sau.** Nếu cách chơi trước đó trong một tình huống cho thấy dải bài của ta không có tay nuts, thì đó là cơ hội chín muồi để bị khai thác.
@@ -286,7 +291,9 @@ Như vậy, chơi cân bằng chủ yếu là để không bị khai thác. Kế
 
 #### Luyện cân bằng: tưởng tượng công bố chiến lược
 
-Người chơi cân bằng hoàn hảo không thể bị "đọc" về mặt chiến lược. Trong thực tế, không thể xác định "hoàn hảo" là thế nào. Tuy vậy, một cách hữu ích là **giả vờ rằng mình phải công bố chiến lược cho đối thủ trước mỗi hành động.** Với người chơi thông thường, quen nghĩ rằng mô tả chiến lược của mình là thông tin cực kỳ quý, điều này có vẻ vô lý. Nhưng khi xét rằng đó chính là bản chất của chiến lược tối ưu — người chơi tối ưu có thể công bố toàn bộ chiến lược và đối thủ không dùng được thông tin đó vào việc gì ngoài tránh mắc lỗi — thì cách tiếp cận này hợp lý hơn nhiều. Đánh giá và phơi bày toàn bộ chiến lược buộc ta xét những phần có thể bị khai thác, và trong việc tìm cân bằng, lối nghĩ này rất có giá trị. Nó dẫn tự nhiên sang lĩnh vực thứ ba: chơi có chiến lược.
+Người chơi cân bằng hoàn hảo không thể bị "đọc" về mặt chiến lược. Trong thực tế, không thể xác định "hoàn hảo" là thế nào. Tuy vậy, một cách hữu ích là **giả vờ rằng mình phải công bố chiến lược cho đối thủ trước mỗi hành động.** Với người chơi thông thường, quen nghĩ rằng mô tả chiến lược của mình là thông tin cực kỳ quý, điều này có vẻ vô lý.
+
+Nhưng khi xét rằng đó chính là bản chất của chiến lược tối ưu — người chơi tối ưu có thể công bố toàn bộ chiến lược và đối thủ không dùng được thông tin đó vào việc gì ngoài tránh mắc lỗi — thì cách tiếp cận này hợp lý hơn nhiều. Đánh giá và phơi bày toàn bộ chiến lược buộc ta xét những phần có thể bị khai thác, và trong việc tìm cân bằng, lối nghĩ này rất có giá trị. Nó dẫn tự nhiên sang lĩnh vực thứ ba: chơi có chiến lược.
 
 ### 4. Chơi có chiến lược (Playing Strategically, trang 385–386)
 
@@ -304,7 +311,9 @@ Người tổng hợp kiểm tra tỷ lệ: nếu big blind jam 3.600 (giả s�
 
 #### Tính trước nhiều vòng
 
-Tương tự, nghĩ có chiến lược là nhìn các vòng cược của ván như một thể thống nhất càng nhiều càng tốt. Tác giả thường quyết định trước ít nhất một và đôi khi hai vòng, thường có điều kiện theo lá bài ra. Ví dụ, có thể call ở turn với ý định chơi "bức tường" ở river nếu ra lá vô hại (blank), và bỏ bài trước bet hoặc check theo nếu lá hoàn thành draw thùng xuất hiện. Chiến lược **"bức tường"** (wall) là thuật ngữ tác giả hay dùng cho cách chơi ở river: người chơi "bức tường" call nếu bị bet và bet nếu được check, nhờ vậy đảm bảo 1–2 bet vào pot ở river. Một ưu điểm của cách nghĩ về ván như vậy là đảm bảo ta tính đúng implied odds và chi phí tương lai tiềm năng của các hành động.
+Tương tự, nghĩ có chiến lược là nhìn các vòng cược của ván như một thể thống nhất càng nhiều càng tốt. Tác giả thường quyết định trước ít nhất một và đôi khi hai vòng, thường có điều kiện theo lá bài ra. Ví dụ, có thể call ở turn với ý định chơi "bức tường" ở river nếu ra lá vô hại (blank), và bỏ bài trước bet hoặc check theo nếu lá hoàn thành draw thùng xuất hiện.
+
+Chiến lược **"bức tường"** (wall) là thuật ngữ tác giả hay dùng cho cách chơi ở river: người chơi "bức tường" call nếu bị bet và bet nếu được check, nhờ vậy đảm bảo 1–2 bet vào pot ở river. Một ưu điểm của cách nghĩ về ván như vậy là đảm bảo ta tính đúng implied odds và chi phí tương lai tiềm năng của các hành động.
 
 Tương tự, khi bàn về cân bằng, yếu tố chiến lược này cũng có mặt. Ta cố chơi dải bài thay vì từng tay riêng lẻ bất cứ khi nào có thể. Cũng vậy, ta thường chơi dải bài theo cách tương tự cách chơi nhiều vòng trong trò chơi thấu bài: bet và bluff theo một tỷ lệ ở mỗi vòng, và bỏ một số bluff ở mỗi vòng tiếp theo. Dĩ nhiên trong poker thật, các bluff thực ra là nửa bluff, và tính không tĩnh của trò chơi làm giá trị của các tay value bet thay đổi qua các vòng. Nhưng nguyên tắc vẫn vậy. Làm điều này chính xác đòi hỏi biết toàn bộ dải bài của mình ở mỗi thời điểm trong ván, tức tập tay phù hợp với các hành động trước đó.
 
@@ -314,7 +323,9 @@ Các nhà lý thuyết poker Paul R. Pudaite và Chris Ferguson gọi quá trìn
 
 #### Khó khăn và thỏa hiệp
 
-Có một khó khăn ở đây, và đó là khó khăn của mọi suy nghĩ chiến lược về poker, khiến nhiều người không theo cách tiếp cận này: poker phức tạp, có rất nhiều nút quyết định (game nodes). Nói chung, coi toàn bộ trò chơi như một thể thống nhất chiến lược vượt quá giới hạn của trí óc con người. Thay vào đó, ta thỏa hiệp, tìm hiểu biết sâu qua việc giải những trò chơi đơn giản hơn và qua việc tự mình cố khai thác các chiến lược được đề xuất để tìm điểm yếu của chúng. Ngoài ra, ta cố hết sức thống nhất các khía cạnh của trò chơi trong đầu — nhưng dù vậy, có nhiều lúc thực tế ta chỉ đơn giản quy tình huống poker về một phép tính kỳ vọng. Làm được điều đó tại bàn (ước lượng chính xác dải bài của đối thủ và equity của mình trước dải đó) là một kỹ năng quý.
+Có một khó khăn ở đây, và đó là khó khăn của mọi suy nghĩ chiến lược về poker, khiến nhiều người không theo cách tiếp cận này: poker phức tạp, có rất nhiều nút quyết định (game nodes). Nói chung, coi toàn bộ trò chơi như một thể thống nhất chiến lược vượt quá giới hạn của trí óc con người. Thay vào đó, ta thỏa hiệp, tìm hiểu biết sâu qua việc giải những trò chơi đơn giản hơn và qua việc tự mình cố khai thác các chiến lược được đề xuất để tìm điểm yếu của chúng.
+
+Ngoài ra, ta cố hết sức thống nhất các khía cạnh của trò chơi trong đầu — nhưng dù vậy, có nhiều lúc thực tế ta chỉ đơn giản quy tình huống poker về một phép tính kỳ vọng. Làm được điều đó tại bàn (ước lượng chính xác dải bài của đối thủ và equity của mình trước dải đó) là một kỹ năng quý.
 
 ### 5. Dựa vào phân tích (Reliance on Analysis, trang 386–387)
 
@@ -337,7 +348,9 @@ Minh họa của người tổng hợp: T8s có khoảng 35–40% equity khi b�
 
 ### 6. Lời cuối (A Final Word, trang 387)
 
-Qua cuốn sách, tác giả đã cố đưa ra một nhập môn về việc áp dụng toán học vào poker. Họ đã trình bày các kết quả và công thức, một số có thể dùng ngay. Riêng các bảng jam-or-fold (sách ghi nhầm là ở Chương 13; thực ra ở Chương 12) có thể đáng giá bằng giá cuốn sách **mỗi ngày** với một người chơi sit-and-go chuyên nghiệp chưa có thông tin này. Ngoài ra, tác giả đã cố trình bày một cách nghĩ về poker từ bỏ trò đoán xem đối thủ cầm bài gì, thay bằng cách tiếp cận tinh tế hơn dùng phân phối bài và lối chơi cân bằng để lấy giá trị. Cuốn sách không đầy đủ; thực ra nó chỉ là **điềm báo sớm của điều tác giả kỳ vọng sẽ là một cuộc cách mạng định lượng** trong cách poker được nghiên cứu và chơi ở trình độ cao nhất. Tác giả mong đợi những công trình thú vị sẽ được làm trong lĩnh vực này.
+Qua cuốn sách, tác giả đã cố đưa ra một nhập môn về việc áp dụng toán học vào poker. Họ đã trình bày các kết quả và công thức, một số có thể dùng ngay. Riêng các bảng jam-or-fold (sách ghi nhầm là ở Chương 13; thực ra ở Chương 12) có thể đáng giá bằng giá cuốn sách **mỗi ngày** với một người chơi sit-and-go chuyên nghiệp chưa có thông tin này.
+
+Ngoài ra, tác giả đã cố trình bày một cách nghĩ về poker từ bỏ trò đoán xem đối thủ cầm bài gì, thay bằng cách tiếp cận tinh tế hơn dùng phân phối bài và lối chơi cân bằng để lấy giá trị. Cuốn sách không đầy đủ; thực ra nó chỉ là **điềm báo sớm của điều tác giả kỳ vọng sẽ là một cuộc cách mạng định lượng** trong cách poker được nghiên cứu và chơi ở trình độ cao nhất. Tác giả mong đợi những công trình thú vị sẽ được làm trong lĩnh vực này.
 
 Ngay từ đầu, tác giả đã nói ý tưởng của họ có thể gói trong một lời khuyên chơi đơn giản: **Tối đa lợi nhuận trung bình** (Maximize average profit). Tác giả hy vọng qua cuốn sách, họ đã đưa ra được những cách nhìn mới về ý nghĩa của câu này và những phương pháp mới để dùng tại bàn, để người đọc thực sự kiếm được nhiều tiền hơn từ poker.
 
@@ -529,4 +542,166 @@ Chương ngắn nhưng biến hàng trăm trang lời giải thành bốn nguyê
 ### Vận dụng
 
 - **Cho người chơi poker:** (1) Khi hai lựa chọn gần ngang nhau, chọn cách hung hăng hơn. (2) Ở mỗi điểm quyết định, liệt kê dải bài của mình và kiểm tra xem dải bet/raise có đủ ba loại tay (muốn bị re-raise, muốn được call, muốn đối thủ bỏ) không. (3) Với chồng ngắn, so sánh "số lựa chọn của mình và của đối thủ" trước khi chọn kích thước raise. (4) Ghi lại quyết định và lý do, đánh giá theo phân tích chứ không theo kết quả.
-- **Cho người làm tài chính, đầu tư và ra quyết định:** (1) **Đánh giá quyết định, không đánh giá kết quả:** một nhà đầu tư có chiến lược kỳ vọng dương vẫn có thể thua ba quý liền; như ví dụ T8s, nếu phân tích đúng thì không nên thay đổi chỉ vì kết quả ngắn hạn — đây cũng là lý do đánh giá quỹ cần chuỗi thời gian dài và cần tách kỹ năng khỏi may rủi. (2) **Chi phí không đối xứng của sai lầm:** trong nhiều quyết định (ví dụ bỏ lỡ một cơ hội có kỳ vọng dương so với chịu một khoản lỗ nhỏ có giới hạn), quá thận trọng có thể tốn kém hơn hơi mạo hiểm — nhưng chỉ khi khoản lỗ có giới hạn và vốn đủ lớn. (3) **Cân bằng và che giấu thông tin:** trong đàm phán, đấu thầu hay giao dịch lớn, hành vi dễ đoán bị khai thác (ví dụ lệnh lớn luôn chia theo một kiểu bị các thuật toán khác nhận ra); chiến lược tốt là chiến lược vẫn an toàn khi đối thủ biết nó. (4) **Ít điểm quyết định:** cam kết sớm một cách rõ ràng (như jam thay vì raise nhỏ) có thể tốt hơn để ngỏ nhiều lựa chọn mà thực ra mình buộc phải chọn một hướng — đồng thời giảm lựa chọn của đối thủ. (5) **Dựa vào mô hình thay vì lời khuyên:** lời khuyên đầu tư từ người "thành công" thường bị lệch do thiên lệch người sống sót và tư duy theo kết quả; một mô hình có giả định rõ ràng kiểm tra được đáng tin hơn.
+- **Cho người làm tài chính, đầu tư và ra quyết định:**
+  - **Đánh giá quyết định, không đánh giá kết quả:** một nhà đầu tư có chiến lược kỳ vọng dương vẫn có thể thua ba quý liền; như ví dụ T8s, nếu phân tích đúng thì không nên thay đổi chỉ vì kết quả ngắn hạn — đây cũng là lý do đánh giá quỹ cần chuỗi thời gian dài và cần tách kỹ năng khỏi may rủi.
+  - **Chi phí không đối xứng của sai lầm:** trong nhiều quyết định (ví dụ bỏ lỡ một cơ hội có kỳ vọng dương so với chịu một khoản lỗ nhỏ có giới hạn), quá thận trọng có thể tốn kém hơn hơi mạo hiểm — nhưng chỉ khi khoản lỗ có giới hạn và vốn đủ lớn.
+  - **Cân bằng và che giấu thông tin:** trong đàm phán, đấu thầu hay giao dịch lớn, hành vi dễ đoán bị khai thác (ví dụ lệnh lớn luôn chia theo một kiểu bị các thuật toán khác nhận ra); chiến lược tốt là chiến lược vẫn an toàn khi đối thủ biết nó.
+  - **Ít điểm quyết định:** cam kết sớm một cách rõ ràng (như jam thay vì raise nhỏ) có thể tốt hơn để ngỏ nhiều lựa chọn mà thực ra mình buộc phải chọn một hướng — đồng thời giảm lựa chọn của đối thủ.
+  - **Dựa vào mô hình thay vì lời khuyên:** lời khuyên đầu tư từ người "thành công" thường bị lệch do thiên lệch người sống sót và tư duy theo kết quả; một mô hình có giả định rõ ràng kiểm tra được đáng tin hơn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 30 trên một trang: năm nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (từ lý thuyết tới bàn chơi, hung hăng, cân bằng, chơi có chiến lược, dựa vào phân tích và lời cuối), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt của tác giả; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 30: không có chiến lược tối ưu cho poker thật, nên dùng lý thuyết trò chơi là xấp xỉ lối chơi tối ưu theo bốn nguyên tắc`"]
+  n1["`Mục 1 — Từ lý thuyết tới bàn chơi`"]
+  n0 --- n1
+  n2["`Sách đã giải nhiều trò chơi mẫu và giải trọn một tình huống thật: jam-or-fold ở Chương 12`"]
+  n1 --- n2
+  n3["`Mục đích cuối cùng là kiếm tiền từ poker, không phải thỏa mãn thú giải đố toán học`"]
+  n1 --- n3
+  n4["`Không có chiến lược tối ưu cho các thể loại phổ biến#59; với nhiều người chơi thì không tồn tại (Chương 29)`"]
+  n1 --- n4
+  n5["`Bốn lĩnh vực: hung hăng, chơi cân bằng, chơi có chiến lược, dựa vào phân tích — chồng lấn nhau nhiều`"]
+  n1 --- n5
+  n6["`Mục 2 — Hung hăng: lời giải tối ưu hung hăng hơn ta tưởng`"]
+  n0 --- n6
+  n7["`Mỗi người dừng ở mức hung hăng mình thấy thoải mái: thụ động hơn là yếu, hung hăng hơn là điên`"]
+  n6 --- n7
+  n8["`Quá thụ động cực kỳ phổ biến ở mức cược thấp#59; quá hung hăng phổ biến hơn ở mức cược cao`"]
+  n7 --- n8
+  n9["`Bằng chứng từ trò chơi mẫu`"]
+  n6 --- n9
+  n10["`Jam-or-fold chồng 10 blind: người đi trước jam 58,3% số tay (774/1.326 tổ hợp), không bị khai thác`"]
+  n9 --- n10
+  n11["`Trò chơi thấu bài một vòng rưỡi (Ví dụ 20.5): tay bài ẩn nửa bluff với bài kém xa`"]
+  n9 --- n11
+  n12["`Trò chơi [0,1] cao–thấp (Ví dụ 18.1): người thứ hai bet hơn 75% số tay khi được check, chính xác π/4 ≈ 78,5%`"]
+  n9 --- n12
+  n13["`Ngoại lệ: khi ante nhỏ so với mức cược, lối chơi mạnh hơi thụ động hơn`"]
+  n9 --- n13
+  n14["`Chi phí sai lầm không đối xứng: bỏ bài quá thường dâng cả pot, bet thừa chỉ mất đúng bet đó`"]
+  n6 --- n14
+  n15["`Pot 9 bet, α = 1/10: bluff thành công lấy trọn 9 bet, bluff thừa bị call chỉ mất 1 bet`"]
+  n14 --- n15
+  n16["`Đối thủ ám ảnh với bỏ bài lớn ở mức cược trung bình và cao, nên hung hăng tự động khai thác lỗi này`"]
+  n14 --- n16
+  n17["`Khác oẳn tù tì (tối ưu chỉ được kỳ vọng 0), lối chơi gần tối ưu còn lấy nhiều giá trị từ lỗi đối thủ`"]
+  n14 --- n17
+  n18["`Thực hành của tác giả`"]
+  n6 --- n18
+  n19["`Gần như luôn raise khi vào pot đầu tiên, bảo vệ blind thoải mái, chơi các vòng sau mạnh mẽ`"]
+  n18 --- n19
+  n20["`Hai lựa chọn ngang kỳ vọng thì chọn cách hung hăng hơn như một nguyên tắc`"]
+  n18 --- n20
+  n21["`Không đẩy tới khai thác thuần túy vì đối thủ có thể khai thác lại`"]
+  n18 --- n21
+  n22["`Mục 3 — Cân bằng: không mất giá trị vì bị khai thác`"]
+  n0 --- n22
+  n23["`Trò chơi [0,1] nửa vòng: hai cách người thứ hai chơi kém tối ưu`"]
+  n22 --- n23
+  n24["`Bluff ít hơn, value bet như cũ: người đầu chặt tiêu chuẩn call và khai thác được`"]
+  n23 --- n24
+  n25["`Bet và bluff đều ít hơn nhưng giữ α bluff cho mỗi value bet: người đầu vẫn bàng quan, chỉ được lợi thụ động`"]
+  n23 --- n25
+  n26["`Pot 9 bet: tối ưu được 0,45 bet mỗi ván, cân bằng thụ động 0,36 (mất 0,09), bluff 2% không cân bằng 0,18 (mất 0,27)`"]
+  n23 --- n26
+  n27["`Cân bằng là thuộc tính của chiến lược, không của tay bài: gán mỗi tay có thể có vào một hành động`"]
+  n22 --- n27
+  n28["`Mỗi hành động chứa tay hưởng lợi từ từng phản ứng: raise ở turn gồm bài rất mạnh, bài khá mạnh, nửa bluff`"]
+  n27 --- n28
+  n29["`Nhóm tay cho mỗi hành động đủ đa dạng để che giấu thông tin`"]
+  n27 --- n29
+  n30["`Mỗi tay chơi theo cách có lời nhất: jam cả AA và AK trước flop vì AK hưởng lợi nhiều (Chương 9)`"]
+  n27 --- n30
+  n31["`Còn nhiều cược phía sau (no-limit, pot-limit) thì luôn giữ mối đe dọa đáng tin là có nuts ở vòng sau`"]
+  n27 --- n31
+  n32["`Tối ưu = cân bằng hoàn hảo + mức hung hăng đúng chuẩn#59; gần tối ưu = đến gần nhất trong giới hạn đo lường`"]
+  n22 --- n32
+  n33["`Luyện tập: tưởng tượng phải công bố chiến lược trước mỗi hành động#59; người chơi tối ưu công bố được mà đối thủ không dùng được`"]
+  n22 --- n33
+  n34["`Mục 4 — Chơi có chiến lược: nhìn cả ván như một thể thống nhất`"]
+  n0 --- n34
+  n35["`Coi ván bài là trò chơi ít điểm quyết định: quyết định bây giờ ảnh hưởng mọi quyết định sau`"]
+  n34 --- n35
+  n36["`3.600 chip, blind 200-400, ở button: raise lên 1.200 thì gặp jam được ít nhất 2 ăn 1, buộc phải call`"]
+  n35 --- n36
+  n37["`Big blind jam: 5.000 ăn 2.400 ≈ 2,08 ăn 1, chỉ cần equity 32,4%#59; small blind jam: 2,17 ăn 1, cần 31,6%`"]
+  n36 --- n37
+  n38["`Jam ngay tốt hơn: ta có cùng số lựa chọn chiến lược, còn đối thủ có ít lựa chọn hơn`"]
+  n35 --- n38
+  n39["`Tính trước một hai vòng, có điều kiện theo lá bài ra#59; giúp tính đúng implied odds và chi phí tương lai`"]
+  n34 --- n39
+  n40["`Chiến lược bức tường ở river: call nếu bị bet, bet nếu được check, đảm bảo 1–2 bet vào pot`"]
+  n39 --- n40
+  n41["`Chơi dải bài như trò chơi thấu bài nhiều vòng: bet và bluff theo tỷ lệ, bỏ dần một số bluff ở vòng sau`"]
+  n39 --- n41
+  n42["`Đọc bài của chính mình (Pudaite và Ferguson): biết toàn bộ dải bài phù hợp với hành động trước đó`"]
+  n34 --- n42
+  n43["`Theo lý thuyết trò chơi, dải bài của đối thủ (trừ lúc bắt đầu ván) không quan trọng`"]
+  n42 --- n43
+  n44["`Đối thủ khai thác được ta bằng cách chơi một tập tay khác dự kiến thì lối chơi của ta chưa tối ưu`"]
+  n42 --- n44
+  n45["`Poker có quá nhiều nút quyết định nên phải thỏa hiệp: giải trò chơi đơn giản, tự thử khai thác chiến lược, tại bàn quy về phép tính kỳ vọng`"]
+  n34 --- n45
+  n46["`Mục 5–6 — Dựa vào phân tích, và lời cuối`"]
+  n0 --- n46
+  n47["`Bằng chứng thực nghiệm dễ đánh lừa: cỡ mẫu khó đủ lớn, người giỏi vẫn có chuỗi thua khủng khiếp`"]
+  n46 --- n47
+  n48["`Lời khuyên từ sách hay bạn giỏi: thật lòng nhưng hay sai, bị hiểu sai, hoặc lệch do tư duy theo kết quả`"]
+  n46 --- n48
+  n49["`Phân tích hoàn chỉnh đúng cách thì đúng với bộ giả định cho trước, và tự phân tích thì hiểu sâu hơn`"]
+  n46 --- n49
+  n50["`Toán học là nguồn thông tin vững như đá: jam T8s ba giải liền, bị call và thua cả ba, vẫn không lùi về chơi chặt`"]
+  n46 --- n50
+  n51["`T8s có khoảng 35–40% equity khi bị call, thua cả ba lần ≈ 0,6³ ≈ 0,22, hoàn toàn bình thường`"]
+  n50 --- n51
+  n52["`Bảng jam-or-fold đáng giá bằng giá cuốn sách mỗi ngày với người chơi sit-and-go chưa có thông tin này`"]
+  n46 --- n52
+  n53["`Cuốn sách chỉ là điềm báo sớm của một cuộc cách mạng định lượng trong poker`"]
+  n46 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Thay trò đoán bài đối thủ bằng phân phối bài và lối chơi cân bằng để lấy giá trị`"]
+  n54 --- n55
+  n56["`Đánh giá quyết định bằng phân tích, không bằng kết quả ngắn hạn#59; nhờ vậy chống tilt`"]
+  n54 --- n56
+  n57["`Lời khuyên gói gọn của cả cuốn sách: tối đa lợi nhuận trung bình`"]
+  n54 --- n57
+  class n0 root
+  class n1,n6,n22,n34,n46,n54 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 30 "Putting It All Together: Using Math to Improve Play", trang 382–387 (chương bắt đầu giữa trang 382, ngay sau phần "Key Concepts" của Chương 29).
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương kết của Phần V và của cả cuốn sách. Phần I ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md) tới [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) đặt nền xác suất, kỳ vọng, phương sai và suy luận Bayes; Phần II ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md) tới [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) dạy lối chơi khai thác.
+
+Phần III ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md) tới [C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)) giải các trò chơi mẫu để tìm chiến lược tối ưu; Phần IV ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md) tới [C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)) bàn về rủi ro và bankroll; Phần V bàn về giải đấu ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md) tới [C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)) và trò chơi nhiều người ([C29-tro-choi-nhieu-nguoi.md](C29-tro-choi-nhieu-nguoi.md)).
+
+Chương 29 vừa kết luận rằng trong poker nhiều người không tồn tại chiến lược tối ưu; Chương 30 nhận lấy hệ quả đó: dùng lý thuyết trò chơi trong thực tế là cố gắng **xấp xỉ** lối chơi tối ưu, và tác giả trình bày triết lý chơi của mình thành bốn nguyên tắc rút ra từ toàn bộ cuốn sách.
+
+Chương khép lại bằng lời khuyên đã nêu ở phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)): tối đa lợi nhuận trung bình.
+
+## Lưu ý
+
+- **"Bảng jam-or-fold ở Chương 13" phải là Chương 12 (trang 387):** bảng jam-or-fold (lời giải tối ưu của trò chơi jam-or-fold cho mọi cỡ chồng chip) nằm ở Chương 12 "Headsup With High Blinds: The Jam-or-Fold Game"; Chương 13 là trò chơi AKQ. Chính trang 382 nói đúng "the jam-or-fold game in Chapter 12".
+- **Các con số được kiểm tra:** 58,3% là 774/1.326 = 58,37% số tổ hợp tay bài, khớp với Chương 12 (ở đó người phòng thủ call 494/1.326 = 37,3%); sách in "58,3%" với dấu phẩy thập phân, khác cách viết dấu chấm ở các trang khác. "Người thứ hai bet hơn 75% số tay" ở Ví dụ 18.1: Chương 18 cho kết quả π/4 ≈ 78,5%. Ví dụ 3.600 chip: nếu raise lên 1.200 và big blind jam 3.600, pot trước khi call là 200 + 3.600 + 1.200 = 5.000 chip, phải call thêm 2.400: tỷ lệ 2,08 ăn 1; nếu small blind jam thì 400 + 3.600 + 1.200 = 5.200 so với 2.400, tức 2,17 ăn 1 — đúng "ít nhất 2 ăn 1".
+- **Tên Ví dụ 18.1:** sách gọi là "trò chơi [0,1] cao–thấp" (high-low [0,1] game); tên ở Chương 18 là "The [0,1] x [0,1] Game" — cùng một trò chơi (mỗi người có một số cho phần "cao" và một số cho phần "thấp"), với các hạn chế: không ai được bỏ bài, tối đa hai bet, không check-raise.
+- **Một số khẳng định là kinh nghiệm cá nhân, không có số liệu:** "chúng tôi luôn vượt kỳ vọng theo giá trị chip khi đối đầu hai người"; "người chơi ám ảnh với việc bỏ bài lớn rất phổ biến ở mức cược trung bình và cao". Bản tổng hợp ghi lại như ý kiến của tác giả.
+- **Lỗi in và lỗi lớp chữ:** "in it's own right" (its, trang 383); "surrenders tile entire pot" (the, trang 383); "all fie following criteria" (the, trang 384); "who are used to drinking that" (thinking, trang 385); "If you're previous play" (your, trang 385); "initially raised By raising" (thiếu dấu chấm, trang 385); "at each point in the hand that is the set of hands is consistent" (thiếu dấu phẩy: "that is, the set of hands consistent", trang 386); "asking then talented or successful friends" (their, trang 386); "{a bluffs for each value bet}" — chữ "a" là α bị mất phông, và dấu ngoặc nhọn là ngoặc tròn (trang 384).
+- **Quy ước:** "near-optimal" dịch là "gần tối ưu"; "balance" là "cân bằng" theo nghĩa của chiến lược (không nhầm với "cân bằng Nash" ở Chương 29, dù hai ý liên quan); "T3600" trong sách là 3.600 chip giải đấu (chữ T là tournament chips).

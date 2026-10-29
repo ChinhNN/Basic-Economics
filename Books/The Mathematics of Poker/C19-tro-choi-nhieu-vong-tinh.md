@@ -1,25 +1,20 @@
 # Chương 19 — Con đường tới poker: trò chơi nhiều vòng cược tĩnh (The Road to Poker: Static Multi-Street Games)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 19 "The Road to Poker: Static Multi-Street Games", trang 243–258.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Các chương trước của Phần III chỉ xét trò chơi một vòng cược: nửa vòng (half-street, chỉ một người được cược) và trọn vòng (full-street). Trò chơi "nhìn thấu bài" (clairvoyant game) một vòng cược ở [C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md) cho tỷ lệ bluff α = 1/(P + 1); [C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md) giải bài toán chọn mức cược no-limit cho một vòng; [C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md) tổng kết giá trị các trò chơi [0,1] một vòng. Chương 19 bước sang trò chơi **nhiều vòng cược** nhưng giữ bài "tĩnh" (static: giá trị bài không đổi giữa các vòng, không có draw), để thấy bluff vận hành qua nhiều vòng mà chưa phải lo về draw. Kết quả chính — người không nhìn thấu chơi mỗi vòng như một trò chơi một vòng; người nhìn thấu "mang" một tập bài qua từng vòng và bluff nhiều hơn ở vòng đầu; và mức cược tối ưu trong no-limit là **tăng pot theo cấp số nhân** (geometric growth of pot) — trở thành nền tảng của cách chọn mức cược no-limit hold'em ở [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md), nơi bài thay đổi giữa các vòng. Ý tưởng "trò chơi đấu giá" và việc gán cho mỗi tay bài một mức sẵn sàng đặt cược cũng được dùng lại trong các nghiên cứu tình huống ở [C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md).
-**Ý chính:** **Khi có nhiều vòng cược và giá trị bài không đổi, người nhìn thấu bài (Y) bluff ở các vòng đầu nhiều hơn hẳn so với trò chơi một vòng, rồi bỏ dần một phần bluff ở mỗi vòng; người không nhìn thấu (X) chỉ cần chơi mỗi vòng như một trò chơi một vòng độc lập; và trong no-limit, Y nên cược sao cho pot tăng cùng một tỷ lệ ở mỗi vòng và hết stack ở vòng cuối.** Ví dụ 19.1 (hai vòng, limit, pot P): X bỏ α = 1/(P + 1) số bài ở vòng đầu và α₂ = 1/(P + 3) số bài còn lại ở vòng hai; Y giữ tỷ lệ bluff α₂ ở vòng cuối, và ở vòng đầu coi toàn bộ tập bài sẽ cược ở vòng cuối là "bài giá trị" rồi bluff thêm α lần số đó. Với pot 2 cược, số bài chết Y cược ở vòng đầu bằng 3/5 số bài thắng, trong đó 2/3 bị bỏ sau vòng đầu. Với ba vòng (ante 2, cược 1 – 2 – 2, Y thắng nửa số ván), Y cược 7/8 số bài ở flop và lời 1,5 đơn vị mỗi ván. Ví dụ 19.2 (hai vòng no-limit): quan hệ α vẫn đúng với mức cược bất kỳ; gọi rₙ là tỷ số pot sau và trước vòng n thì số bài cược mỗi vòng là Bₙ = 2Mₙrₙ/(1 + rₙ), và tối đa hoá số bài cược B₁ = 4y·r₁r₂/[(1 + r₁)(1 + r₂)] với r₁r₂ = 1 + 2N cố định cho r₁ = r₂ (bất đẳng thức trung bình cộng – trung bình nhân). Ví dụ 19.3 (stack 185 đô la, ante 5 đô la, ba vòng, Y thắng 2/13 số ván) cho thấy cược cấp số nhân (11,66; 38,86; 129,48 đô la) lời 26,41 đô la mỗi tay bài thắng, so với 19,16 đô la khi cược đều 60 đô la mỗi vòng — đủ để đổi trò chơi từ lỗ khoảng 0,51 đô la sang lời khoảng 0,60 đô la mỗi ván. Phần "trò chơi đấu giá" xét số vòng cược tiến ra vô hạn: chiến lược gán mỗi tay bài một ngưỡng sₓ và cược đều từng phần nhỏ ε = S/M chỉ mất tối đa ε, nên giá trị mọi trò chơi tĩnh hội tụ về giá trị của trò chơi đấu giá (hai người cùng bỏ giá kín). Trong trò chơi đấu giá nhìn thấu, X bỏ giá ít nhất s với tỷ lệ x(s) = 1/√(1 + 2s) và Y với tỷ lệ y(s) = y√[(1 + 2S)/(1 + 2s)] (tối đa 1) — đúng là giới hạn của lời giải M vòng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Câu "bỏ 1/12 số bài chết sau flop" sai (trò chơi ba vòng, trang 246).** Theo chính phép tính của sách, Y cược 42/48 số bài ở flop, 35/48 ở turn, 28/48 = 7/12 ở river. Vậy Y bỏ 42/48 − 35/48 = **7/48** số bài sau flop và 35/48 − 28/48 = 7/48 sau turn, rồi bluff 1/12 (= 4/48) số bài ở river. Sách ghi "gives up on 1/12 of his dead hands after the flop and 7/48 after the turn": con số 1/12 là lượng bluff còn lại ở river, không phải lượng bị bỏ sau flop. Kiểm tra: tổng bluff 7/48 + 7/48 + 4/48 = 18/48 = 3/8, đúng bằng 7/8 − 1/2. (Các phân số tính theo toàn bộ số bài, không phải "theo số bài chết".)
-> - **Trò chơi ba vòng: "pot will be 6 bets" ở turn** phải đọc là 6 đơn vị (ante 2 + 2 cộng cược flop 1 + 1); cược ở turn là 2 đơn vị. Câu "1/8 of the time, X wins the pot for a net to Y of 1.5 units" viết lủng củng: Y thắng pot 4 đơn vị với 7/8 số bài và thua với 1/8, nên Y lời 4 × 7/8 − 2 = 1,5 đơn vị mỗi ván.
-> - **Định nghĩa r₂ bị viết ngược (trang 248):** sách viết r₂ là "(1 + 2s₁)/(1 + 2s₁ + 2s₂)"; đúng là (1 + 2s₁ + 2s₂)/(1 + 2s₁), như chính công thức tổng quát rₙ = (pₙ + 2sₙ)/pₙ và phép tính r₂ ở trang 250.
-> - **Phép tính giá trị chiến lược cược cấp số nhân trong Ví dụ 19.3 in sai các thừa số.** Sách viết ⟨Y₂⟩ = (46,17%)(8,34 đô la) + (21,31%)(22,26 đô la) + (9,84%)(59,40 đô la) = 26,41 đô la; nhưng tổng các tích này chỉ là 14,44 đô la. Các thừa số đúng là các mức cược 11,66; 38,86; 129,48 đô la: 0,4617 × 11,66 + 0,2131 × 38,86 + 0,0984 × 129,48 ≈ 5,38 + 8,28 + 12,74 = 26,40 đô la (khớp 26,41 của sách, sai số làm tròn).
-> - **Dòng "Total" của bảng Ví dụ 19.3 không nhất quán:** sách ghi "60 đô la, 7,88%" cho cược đều và "90 đô la, 4,06%" cho cược cấp số nhân. Tổng số tiền cược của cả hai chiến lược đều là 180 đô la; xác suất X call tới cuối là 7,88% và 9,84%. Người tổng hợp đoán con số 4,06 là lợi nhuận ex-showdown mỗi ván của cược cấp số nhân: (2/13) × 26,41 ≈ 4,06 đô la (với cược đều: (2/13) × 19,16 ≈ 2,95 đô la). Trừ phần lỗ khi lật bài 3,46 đô la, Y lời khoảng +0,60 đô la mỗi ván với cược cấp số nhân và lỗ khoảng −0,51 đô la với cược đều; sách chỉ nói "đủ đổi trò chơi từ âm sang dương" mà không ghi hai số này.
-> - **"Stack bằng 3,5 lần pot thì cược nửa pot là đủ"** chỉ đúng cho ba vòng cược (r = 2 nên 1 + 2S = 2³ = 8, S = 3,5); với hai vòng, stack chỉ cần 1,5 lần pot. Sách không nói rõ.
-> - **Lỗi dấu và ký hiệu trong lời giải trò chơi đấu giá nhìn thấu (trang 256):** định nghĩa "−Δx = x(s + Δs) − x(s)" ngược dấu với lời giải thích (x giảm khi s tăng nên phải là −Δx = x(s) − x(s + Δs) > 0); dòng "(1 + 2s + Δs)" rồi "(1 + 2s − Δs)" không khớp nhau (không ảnh hưởng giới hạn); dòng tích phân "ln(Cx²) = ln(1 + 2s)" phải là ln(C/x²) = ln(1 + 2s); với Y, "dy/y = ds/(1 + 2s)" thiếu dấu trừ (phải là −dy/y = ds/(1 + 2s), nếu không nghiệm sẽ tăng theo s); "y(S) = y₀" phải là y(S) = y (số bài thắng); điều kiện "(or 0 if y(√(1 + 2s)) > 1)" in lỗi, nghĩa là X không tranh (bỏ giá 0) khi Y không đủ bài bluff. Kết quả cuối x(s) = 1/√(1 + 2s), y(s) = y√[(1 + 2S)/(1 + 2s)] là đúng.
-> - **Ký hiệu trong phần chứng minh giới hạn (trang 257–258):** "xₘ = (1 + s₁)⁻ᵐ" và "1 + 2s₁ = Gᵐ" dùng s₁ cho hai nghĩa: lần đầu là mức cược mỗi vòng sₙ = (G − 1)/2, lần sau là tổng số đã cược sau m vòng. Bản tổng hợp viết sₙ và s cho hai đại lượng này.
-> - **Số mũ trong Ví dụ 19.4 bị đổi dấu (trang 253–254).** Sách viết yₘ = y₀·r_bᵐ và y₀ = y·r_b^(−M), tức số bài cược ở vòng đầu nhỏ hơn số bài nuts — mâu thuẫn với chính ví dụ hai vòng của sách (1,268²y ở vòng đầu, 1,268y ở river) và với điều kiện "y₀ > 1" ngay sau đó. Đúng là y₀ = y·r_b^M và yₘ = y·r_b^(M − m).
-> - **"Nemesis biết sₓ nhỏ hơn x − ε" (trang 255)** phải là "lớn hơn": ta còn cược nghĩa là chưa đạt ngưỡng khi tổng đã cược là x − ε.
-> - **Câu "giá trị cho nemesis… nhiều nhất là G − ε" (trang 255) diễn đạt không rõ.** Ý đúng của lập luận: chiến lược đấu giá chỉ thua chiến lược tối ưu tối đa ε, tức đảm bảo ít nhất G − ε (nhận xét của người tổng hợp).
-> - **"Đặt cược nhỏ so với pot là tối ưu trong trò chơi tĩnh" (Key Concepts)** chỉ đúng khi số vòng lớn so với độ sâu stack. Chính Ví dụ 19.3 có mức cược khoảng 117% pot mỗi vòng (s/p = (r − 1)/2 ≈ 1,166) (nhận xét của người tổng hợp).
-> - **Lớp chữ PDF:** "Υ" (chữ Y Hy Lạp) thay cho Y; "a" và "a2" là α và α₂; "stack 5" là "stack S"; "clairvoyrance" là "clairvoyance"; "hi a similar fashion" là "in a similar fashion"; "ерe hands" là "the hands"; công thức y(1), y(5) ở trang 257 bị vỡ thành ký tự "¿". Người tổng hợp đọc lại từ ảnh trang.
-> - **Quy ước:** α = 1/(P + 1) khi cược 1 vào pot P, hay tổng quát α = s/(1 + s) khi cược s (tính theo pot hiện tại); α₂ là tỷ lệ tương ứng ở vòng thứ hai. Mọi giá trị là ex-showdown và tính theo Y trừ khi nói khác. Chữ r trong chương này (tỷ số tăng pot) khác hằng số r = √2 − 1 của các chương trước.
+**Khi có nhiều vòng cược và giá trị bài không đổi, người nhìn thấu bài (Y) bluff ở các vòng đầu nhiều hơn hẳn so với trò chơi một vòng, rồi bỏ dần một phần bluff ở mỗi vòng; người không nhìn thấu (X) chỉ cần chơi mỗi vòng như một trò chơi một vòng độc lập; và trong no-limit, Y nên cược sao cho pot tăng cùng một tỷ lệ ở mỗi vòng và hết stack ở vòng cuối.**
+
+Ví dụ 19.1 (hai vòng, limit, pot P): X bỏ α = 1/(P + 1) số bài ở vòng đầu và α₂ = 1/(P + 3) số bài còn lại ở vòng hai; Y giữ tỷ lệ bluff α₂ ở vòng cuối, và ở vòng đầu coi toàn bộ tập bài sẽ cược ở vòng cuối là "bài giá trị" rồi bluff thêm α lần số đó.
+
+Với pot 2 cược, số bài chết Y cược ở vòng đầu bằng 3/5 số bài thắng, trong đó 2/3 bị bỏ sau vòng đầu. Với ba vòng (ante 2, cược 1 – 2 – 2, Y thắng nửa số ván), Y cược 7/8 số bài ở flop và lời 1,5 đơn vị mỗi ván.
+
+Ví dụ 19.2 (hai vòng no-limit): quan hệ α vẫn đúng với mức cược bất kỳ; gọi rₙ là tỷ số pot sau và trước vòng n thì số bài cược mỗi vòng là Bₙ = 2Mₙrₙ/(1 + rₙ), và tối đa hoá số bài cược B₁ = 4y·r₁r₂/[(1 + r₁)(1 + r₂)] với r₁r₂ = 1 + 2N cố định cho r₁ = r₂ (bất đẳng thức trung bình cộng – trung bình nhân).
+
+Ví dụ 19.3 (stack 185 đô la, ante 5 đô la, ba vòng, Y thắng 2/13 số ván) cho thấy cược cấp số nhân (11,66; 38,86; 129,48 đô la) lời 26,41 đô la mỗi tay bài thắng, so với 19,16 đô la khi cược đều 60 đô la mỗi vòng — đủ để đổi trò chơi từ lỗ khoảng 0,51 đô la sang lời khoảng 0,60 đô la mỗi ván.
+
+Phần "trò chơi đấu giá" xét số vòng cược tiến ra vô hạn: chiến lược gán mỗi tay bài một ngưỡng sₓ và cược đều từng phần nhỏ ε = S/M chỉ mất tối đa ε, nên giá trị mọi trò chơi tĩnh hội tụ về giá trị của trò chơi đấu giá (hai người cùng bỏ giá kín).
+
+Trong trò chơi đấu giá nhìn thấu, X bỏ giá ít nhất s với tỷ lệ x(s) = 1/√(1 + 2s) và Y với tỷ lệ y(s) = y√[(1 + 2S)/(1 + 2s)] (tối đa 1) — đúng là giới hạn của lời giải M vòng.
 
 ## Sơ đồ
 
@@ -270,7 +265,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Bluff vận hành thế nào khi có nhiều vòng cược mà bài không đổi?** Người không nhìn thấu (X) chơi mỗi vòng như trò chơi một vòng: bỏ α = 1/(P + 1) ở vòng đầu, rồi bỏ α₂ = 1/(P + 3) số bài còn lại ở vòng hai. Người nhìn thấu (Y) đi ngược từ vòng cuối: ở vòng cuối bluff đúng tỷ lệ với pot lúc đó; ở mỗi vòng trước, coi mọi bài sẽ cược ở vòng sau là "bài giá trị" và bluff thêm theo tỷ lệ α của pot hiện tại; các bluff thêm đó bị bỏ ở vòng sau. Kết quả là Y bluff nhiều hơn hẳn ở vòng đầu: pot 2 cược hai vòng thì số bài chết cược ở vòng đầu bằng 3/5 số bài thắng; ba vòng với ante 2 và cược 1 – 2 – 2 thì Y cược 7/8 số bài ở flop dù chỉ thắng 1/2.
+1. **Bluff vận hành thế nào khi có nhiều vòng cược mà bài không đổi?** Người không nhìn thấu (X) chơi mỗi vòng như trò chơi một vòng: bỏ α = 1/(P + 1) ở vòng đầu, rồi bỏ α₂ = 1/(P + 3) số bài còn lại ở vòng hai. Người nhìn thấu (Y) đi ngược từ vòng cuối: ở vòng cuối bluff đúng tỷ lệ với pot lúc đó; ở mỗi vòng trước, coi mọi bài sẽ cược ở vòng sau là "bài giá trị" và bluff thêm theo tỷ lệ α của pot hiện tại; các bluff thêm đó bị bỏ ở vòng sau.
+
+   Kết quả là Y bluff nhiều hơn hẳn ở vòng đầu: pot 2 cược hai vòng thì số bài chết cược ở vòng đầu bằng 3/5 số bài thắng; ba vòng với ante 2 và cược 1 – 2 – 2 thì Y cược 7/8 số bài ở flop dù chỉ thắng 1/2.
 2. **Trong no-limit, người có lợi thế thông tin nên cược bao nhiêu mỗi vòng?** Đủ để pot tăng cùng một tỷ lệ r mỗi vòng và hết stack ở vòng cuối: rᴹ = (pot + 2 × stack)/pot. Lý do: X bàng quan nên giá trị của Y tỷ lệ với số bài Y cược ở vòng đầu, B₁ = 2ᴹy·∏rₙ/∏(1 + rₙ); tích ∏rₙ cố định nên cần cực tiểu tổng rₙ, đạt khi mọi rₙ bằng nhau. Với stack 180 đô la và pot 10 đô la qua ba vòng, cược 11,66 – 38,86 – 129,48 đô la lời 26,41 đô la mỗi bài thắng, hơn 7 đô la so với cược đều 60 đô la mỗi vòng, đủ đổi trò chơi từ lỗ sang lời.
 3. **Điều gì xảy ra khi số vòng cược rất lớn?** Trò chơi hội tụ về trò chơi đấu giá: mỗi người chọn kín một mức sẵn sàng đặt cược. Chiến lược "gán mỗi tay bài một ngưỡng sₓ, cược đều từng phần nhỏ ε = S/M" chỉ mất tối đa ε so với tối ưu. Trong trò chơi đấu giá nhìn thấu, X bỏ giá ít nhất s với tỷ lệ 1/√(1 + 2s) và Y với tỷ lệ y√[(1 + 2S)/(1 + 2s)], đúng là giới hạn của lời giải M vòng; giá trị vị trí biến mất vì đấu giá đối xứng.
 
@@ -417,7 +414,7 @@ Flop: pot 4, cược 1 ⇒ α = 1/(4 + 1) = 1/5
   tổng 35/48 + 7/48 = 42/48 = 7/8
 ```
 
-Lời giải: Y cược 7/8 số bài ở flop; bỏ 7/48 số bài sau flop và 7/48 sau turn; bluff 1/12 số bài ở river (sách ghi nhầm "bỏ 1/12 sau flop", xem Lưu ý). X chỉ cần bỏ α số bài (của vòng đó) ở mỗi vòng.
+Lời giải: Y cược 7/8 số bài ở flop; bỏ 7/48 số bài sau flop và 7/48 sau turn; bluff 1/12 số bài ở river (sách ghi nhầm "bỏ 1/12 sau flop", xem mục Lưu ý cuối chương). X chỉ cần bỏ α số bài (của vòng đó) ở mỗi vòng.
 
 Giá trị trò chơi dễ tìm bằng cách giả định X bỏ ngay (vì X bàng quan): Y lấy pot 4 với 7/8 số bài và mất pot với 1/8 số bài, nên Y lời 4 × 7/8 − 2 = 1,5 đơn vị mỗi ván (tức 3/8 pot). Tác giả bình luận: thật đáng kinh ngạc là X còn giữ được chút equity nào trong một trò chơi thiên lệch như vậy.
 
@@ -577,7 +574,7 @@ X chơi chiến lược tối ưu: call với tỷ lệ pₙ/(pₙ + sₙ) ở m
 | 3 | 60 đô la | 250/310 = 80,6% → 7,88% | 129,48 đô la | 46,17% → 9,84% |
 | Tổng tiền cược | 180 đô la | X call tới cuối 7,88% | 180 đô la | X call tới cuối 9,84% |
 
-(Dòng "Total" của sách ghi "60 đô la, 7,88%" và "90 đô la, 4,06%"; bản tổng hợp thay bằng số nhất quán, xem Lưu ý.) Với Y₂, tỷ lệ call mỗi vòng là 1/(1 + s/p) = 1/(1 + (r − 1)/2) = 2/(1 + r) ≈ 0,4617, như nhau ở mọi vòng — đặc điểm của cược cấp số nhân.
+(Dòng "Total" của sách ghi "60 đô la, 7,88%" và "90 đô la, 4,06%"; bản tổng hợp thay bằng số nhất quán, xem mục Lưu ý cuối chương.) Với Y₂, tỷ lệ call mỗi vòng là 1/(1 + s/p) = 1/(1 + (r − 1)/2) = 2/(1 + r) ≈ 0,4617, như nhau ở mọi vòng — đặc điểm của cược cấp số nhân.
 
 Y hoà vốn trên các bluff — ở mỗi vòng Y bluff đúng tỷ lệ với số bài sẽ mang sang vòng sau. Vậy giá trị nằm ở bài thắng. Với mỗi bài thắng, Y được số tiền cược ở mỗi vòng nhân xác suất X vẫn còn call tới vòng đó:
 
@@ -588,7 +585,9 @@ Y hoà vốn trên các bluff — ở mỗi vòng Y bluff đúng tỷ lệ với
 
 (sách in các thừa số của ⟨Y₂⟩ là 8,34; 22,26; 59,40 đô la — sai; người tổng hợp tính lại ra 26,40 đô la với các mức cược đúng.)
 
-Vậy cược cấp số nhân lời hơn 7 đô la mỗi bài thắng. Tính theo mỗi ván, chênh lệch này đủ để đổi trò chơi từ âm (dùng Y₁) sang dương (dùng Y₂). Người tổng hợp tính: lợi nhuận ex-showdown mỗi ván bằng (2/13) × 19,16 ≈ 2,95 đô la với Y₁ và (2/13) × 26,41 ≈ 4,06 đô la với Y₂; trừ khoản lỗ lật bài 3,46 đô la, Y₁ lỗ khoảng 0,51 đô la mỗi ván còn Y₂ lời khoảng 0,60 đô la mỗi ván. Kiểm tra chéo bằng cách "cho X bỏ ngay": số bài Y cược ở vòng đầu là (2/13) × (2r/(1 + r))³ ≈ 0,560 với Y₂, nên Y được 10 × 0,560 − 5 ≈ +0,60 đô la; với Y₁ là (2/13) × (130/70)(250/190)(370/310) ≈ 0,449, nên Y được 10 × 0,449 − 5 ≈ −0,51 đô la.
+Vậy cược cấp số nhân lời hơn 7 đô la mỗi bài thắng. Tính theo mỗi ván, chênh lệch này đủ để đổi trò chơi từ âm (dùng Y₁) sang dương (dùng Y₂). Người tổng hợp tính: lợi nhuận ex-showdown mỗi ván bằng (2/13) × 19,16 ≈ 2,95 đô la với Y₁ và (2/13) × 26,41 ≈ 4,06 đô la với Y₂; trừ khoản lỗ lật bài 3,46 đô la, Y₁ lỗ khoảng 0,51 đô la mỗi ván còn Y₂ lời khoảng 0,60 đô la mỗi ván.
+
+Kiểm tra chéo bằng cách "cho X bỏ ngay": số bài Y cược ở vòng đầu là (2/13) × (2r/(1 + r))³ ≈ 0,560 với Y₂, nên Y được 10 × 0,560 − 5 ≈ +0,60 đô la; với Y₁ là (2/13) × (130/70)(250/190)(370/310) ≈ 0,449, nên Y được 10 × 0,449 − 5 ≈ −0,51 đô la.
 
 Đáng chú ý: giới hạn của giá trị ex-showdown (dù còn bao nhiêu tiền để cược) phải bằng giá trị lật bài của X; nếu Y lấy được nhiều hơn, X chỉ việc bỏ ngay và mất 5 đô la ante.
 
@@ -652,7 +651,7 @@ Trò chơi này không giống poker lắm. Nhưng hãy trừu tượng một ch
 
 **Nemesis khai thác được bao nhiêu?** Để biết ngưỡng của ta, nemesis phải call các cược dẫn tới lúc ta check. Vì vậy nemesis không thể khai thác bằng cách call theo rồi bluff ta ra khỏi pot. Lợi ích duy nhất nemesis có là khi chiến lược buộc ta cược một lượng hơi lớn hơn sₓ. Ví dụ: 100 vòng, stack 1, sₓ = 0,601. Trong 60 vòng đầu ta cược 0,01 pot ban đầu mỗi vòng. Ở vòng 61, ta vẫn chưa đạt ngưỡng; không thể cược lượng nhỏ hơn mà không bị khai thác, nên ta lại cược 0,01, tổng cộng 0,61. Số này nhiều hơn mức ta thật sự muốn mạo hiểm 0,009, và trước gần như mọi tay bài còn lại tới lúc này, ta mất thêm 0,009 giá trị.
 
-**Giá trị của raise đối với nemesis.** Giả sử ta cược ở một vòng, nâng tổng số đã cược lên x. Vì ta đã cược vòng này (chưa đạt ngưỡng khi mới cược x − ε), nemesis biết sₓ của ta lớn hơn x − ε (sách viết "nhỏ hơn", xem Lưu ý). Giả sử nemesis raise lên y đơn vị. Ba trường hợp:
+**Giá trị của raise đối với nemesis.** Giả sử ta cược ở một vòng, nâng tổng số đã cược lên x. Vì ta đã cược vòng này (chưa đạt ngưỡng khi mới cược x − ε), nemesis biết sₓ của ta lớn hơn x − ε (sách viết "nhỏ hơn", xem mục Lưu ý cuối chương). Giả sử nemesis raise lên y đơn vị. Ba trường hợp:
 
 - **sₓ < y:** ta bỏ. Nhưng nemesis lẽ ra đã kiếm được nhiều hơn (ít nhất sₓ − x) chỉ bằng cách call theo cho tới khi ta bỏ cuộc.
 - **sₓ > y:** ta call. Nhưng sau raise, mức cược mỗi vòng của ta giảm: thay vì (S − x)/M_cur mỗi vòng cho đến hết (M_cur là số vòng còn lại), ta cược (S − y)/M_cur, một lượng nhỏ hơn. Vì nemesis chỉ lời được tối đa ε nhờ độ "thô" của mức cược, nemesis không muốn làm nó nhỏ đi.
@@ -660,7 +659,7 @@ Trò chơi này không giống poker lắm. Nhưng hãy trừu tượng một ch
 
 Trong mọi trường hợp, nemesis không lời gì bằng cách raise — thực ra nemesis nên chỉ call theo.
 
-**Một cách nhìn khác:** xét hai người cùng chơi chiến lược này với nhau. Một kết quả của lý thuyết trò chơi: nếu có một cặp chiến lược (X, Y) và biết giá trị của nemesis của X và nemesis của Y, thì giá trị trò chơi phải nằm giữa hai giá trị đó — vì chiến lược tối ưu của X phải làm kém hơn nemesis của Y trước Y, và ngược lại. Vậy dùng cấu trúc cược này thay cho cấu trúc tối ưu chỉ mất tối đa ε so với giá trị trò chơi G (sách viết "nhiều nhất là G − ε", xem Lưu ý).
+**Một cách nhìn khác:** xét hai người cùng chơi chiến lược này với nhau. Một kết quả của lý thuyết trò chơi: nếu có một cặp chiến lược (X, Y) và biết giá trị của nemesis của X và nemesis của Y, thì giá trị trò chơi phải nằm giữa hai giá trị đó — vì chiến lược tối ưu của X phải làm kém hơn nemesis của Y trước Y, và ngược lại. Vậy dùng cấu trúc cược này thay cho cấu trúc tối ưu chỉ mất tối đa ε so với giá trị trò chơi G (sách viết "nhiều nhất là G − ε", xem mục Lưu ý cuối chương).
 
 Khi số vòng M tiến ra vô hạn, ε tiến về 0 vì M ở mẫu số của ε = S/M. Vậy giá trị của mọi trò chơi (tĩnh) hội tụ về giá trị của trò chơi đấu giá tương ứng với các tham số của nó. Tương tự, với số vòng bất kỳ, chơi chiến lược đấu giá chỉ mất tối đa ε = S/M.
 
@@ -798,7 +797,9 @@ Trong trò chơi nhiều vòng cược với bài tĩnh, cấu trúc tối ưu �
 
 ### Trong ngôn ngữ lý thuyết trò chơi
 
-Trò chơi nhiều vòng tĩnh là trò chơi dạng mở rộng với thông tin không đối xứng một phía; cân bằng được tìm bằng quy nạp ngược trên các phương trình bàng quan. Tính chất "X chơi mỗi vòng độc lập" phản ánh việc X không có thông tin riêng nên chiến lược hành vi của X ở mỗi nút chỉ phụ thuộc kích thước pot. Bài toán chọn mức cược là cực đại hoá ∏rₙ/∏(1 + rₙ) với ràng buộc ∏rₙ = 1 + 2N, tương đương cực tiểu Σ ln(1 + rₙ) với Σ ln rₙ cố định; vì ln(1 + eᵘ) lồi theo u = ln r, nghiệm đối xứng (mọi rₙ bằng nhau) là tối ưu (bất đẳng thức Jensen, tổng quát hoá AM–GM). Trò chơi đấu giá là trò chơi liên tục (continuous game) với chiến lược hỗn hợp có hàm phân phối x(s), y(s) thoả phương trình vi phân bàng quan; việc giá trị trò chơi nằm giữa giá trị của hai nemesis là hệ quả của định lý minimax.
+Trò chơi nhiều vòng tĩnh là trò chơi dạng mở rộng với thông tin không đối xứng một phía; cân bằng được tìm bằng quy nạp ngược trên các phương trình bàng quan. Tính chất "X chơi mỗi vòng độc lập" phản ánh việc X không có thông tin riêng nên chiến lược hành vi của X ở mỗi nút chỉ phụ thuộc kích thước pot.
+
+Bài toán chọn mức cược là cực đại hoá ∏rₙ/∏(1 + rₙ) với ràng buộc ∏rₙ = 1 + 2N, tương đương cực tiểu Σ ln(1 + rₙ) với Σ ln rₙ cố định; vì ln(1 + eᵘ) lồi theo u = ln r, nghiệm đối xứng (mọi rₙ bằng nhau) là tối ưu (bất đẳng thức Jensen, tổng quát hoá AM–GM). Trò chơi đấu giá là trò chơi liên tục (continuous game) với chiến lược hỗn hợp có hàm phân phối x(s), y(s) thoả phương trình vi phân bàng quan; việc giá trị trò chơi nằm giữa giá trị của hai nemesis là hệ quả của định lý minimax.
 
 ## Thuật ngữ
 
@@ -891,13 +892,15 @@ Trò chơi nhiều vòng tĩnh là trò chơi dạng mở rộng với thông ti
 
 ### Sức mạnh của chương
 
-Chương này là cầu nối từ các mô hình đồ chơi sang poker thật, và cho hai kết quả có giá trị thực hành lớn. Thứ nhất, quy nạp ngược của bluff: bluff ở vòng đầu được "tài trợ" bởi tập bài sẽ cược ở vòng sau, nên người có lợi thế thông tin bluff nhiều hơn hẳn ở các vòng đầu (7/8 số bài ở flop khi chỉ thắng 1/2). Thứ hai, nguyên lý tăng pot cấp số nhân với chứng minh gọn bằng AM–GM, minh hoạ bằng một ví dụ có số đô la cụ thể cho thấy chọn sai mức cược có thể đổi một trò chơi có lời thành lỗ. Phần trò chơi đấu giá là một kết quả lý thuyết đẹp: giới hạn của vô số vòng cược là một trò chơi bỏ giá kín, và lời giải dạng 1/√(1 + 2s) khớp với giới hạn của lời giải rời rạc.
+Chương này là cầu nối từ các mô hình đồ chơi sang poker thật, và cho hai kết quả có giá trị thực hành lớn. Thứ nhất, quy nạp ngược của bluff: bluff ở vòng đầu được "tài trợ" bởi tập bài sẽ cược ở vòng sau, nên người có lợi thế thông tin bluff nhiều hơn hẳn ở các vòng đầu (7/8 số bài ở flop khi chỉ thắng 1/2). Thứ hai, nguyên lý tăng pot cấp số nhân với chứng minh gọn bằng AM–GM, minh hoạ bằng một ví dụ có số đô la cụ thể cho thấy chọn sai mức cược có thể đổi một trò chơi có lời thành lỗ.
+
+Phần trò chơi đấu giá là một kết quả lý thuyết đẹp: giới hạn của vô số vòng cược là một trò chơi bỏ giá kín, và lời giải dạng 1/√(1 + 2s) khớp với giới hạn của lời giải rời rạc.
 
 ### Những chỗ đơn giản hoá
 
 - **Bài tĩnh và nhìn thấu** là giả định rất mạnh: trong hold'em, bài thay đổi ở turn và river, và không ai biết chắc mình thắng. Tác giả biết điều đó và để Chương 20 xử lý; nhưng các con số như "bluff 7/8 số bài ở flop" không nên áp dụng trực tiếp.
 - **X không bao giờ cược** chỉ đúng vì Y nhìn thấu và bài tĩnh.
-- **Phần trò chơi đấu giá viết vội**: nhiều lỗi dấu và ký hiệu (xem Lưu ý), chỉ số yₘ đánh ngược chiều, và câu "giá trị vị trí tiến về 0" được nêu ở Key Concepts mà không chứng minh trong chương.
+- **Phần trò chơi đấu giá viết vội**: nhiều lỗi dấu và ký hiệu (xem mục Lưu ý cuối chương), chỉ số yₘ đánh ngược chiều, và câu "giá trị vị trí tiến về 0" được nêu ở Key Concepts mà không chứng minh trong chương.
 - **"Cược nhỏ so với pot là tối ưu trong trò chơi tĩnh"** dễ gây hiểu lầm: mức cược cấp số nhân phụ thuộc tỷ lệ stack/pot và số vòng; với stack sâu và ít vòng, cược lớn hơn pot (Ví dụ 19.3: khoảng 117% pot mỗi vòng).
 - **Ví dụ 19.3 có lỗi in ở các thừa số và dòng tổng**, nhưng kết luận (cược cấp số nhân hơn cược đều) đúng khi tính lại.
 
@@ -920,4 +923,181 @@ Chương này là cầu nối từ các mô hình đồ chơi sang poker thật,
 ### Vận dụng
 
 - **Người chơi poker:** khi có bài rất mạnh và còn nhiều vòng, tính trước mức cược mỗi vòng để stack vào hết pot ở river với tỷ lệ tăng pot đều: r = (1 + 2 × stack/pot)^(1/số vòng còn lại), mức cược = (r − 1)/2 lần pot. Ví dụ stack bằng 4 lần pot, hai vòng: r = 3, cược bằng pot ở cả hai vòng. Khi bluff ở vòng đầu, xác định trước bài nào sẽ tiếp tục ở vòng sau và bài nào sẽ bỏ; tổng số bài bluff ở mỗi vòng nên theo tỷ lệ α của pot lúc đó so với tập bài mang sang vòng sau. Khi ở thế phòng thủ, bảo đảm ở mỗi vòng không bỏ quá α = cược/(pot + cược).
-- **Người làm tài chính và ra quyết định:** nguyên lý tăng pot cấp số nhân là một trường hợp của bài toán phân bổ theo tỷ lệ đều khi kết quả là tích của các hệ số tăng trưởng — giống như với lợi suất nhiều kỳ, cùng một tổng tăng trưởng được "chia đều" theo trung bình nhân cho kết quả tốt nhất khi mục tiêu là tối đa hoá một hàm của tích. Ý tưởng "mang bluff qua nhiều vòng và bỏ dần" tương ứng với chiến lược đàm phán hay đấu thầu nhiều vòng: đưa ra nhiều đề nghị mạnh ở vòng đầu và rút dần những đề nghị không có thực lực, sao cho đối phương không thể phân biệt. Trò chơi đấu giá là mô hình gần với chiến tranh tiêu hao (ai chịu "đốt tiền" lâu hơn thắng) trong cạnh tranh giữa doanh nghiệp: chiến lược hợp lý là gán trước cho mỗi tình huống một mức sẵn sàng chi và dừng đúng lúc, thay vì tăng chi theo cảm xúc.
+- **Người làm tài chính và ra quyết định:** nguyên lý tăng pot cấp số nhân là một trường hợp của bài toán phân bổ theo tỷ lệ đều khi kết quả là tích của các hệ số tăng trưởng — giống như với lợi suất nhiều kỳ, cùng một tổng tăng trưởng được "chia đều" theo trung bình nhân cho kết quả tốt nhất khi mục tiêu là tối đa hoá một hàm của tích.
+
+  Ý tưởng "mang bluff qua nhiều vòng và bỏ dần" tương ứng với chiến lược đàm phán hay đấu thầu nhiều vòng: đưa ra nhiều đề nghị mạnh ở vòng đầu và rút dần những đề nghị không có thực lực, sao cho đối phương không thể phân biệt. Trò chơi đấu giá là mô hình gần với chiến tranh tiêu hao (ai chịu "đốt tiền" lâu hơn thắng) trong cạnh tranh giữa doanh nghiệp: chiến lược hợp lý là gán trước cho mỗi tình huống một mức sẵn sàng chi và dừng đúng lúc, thay vì tăng chi theo cảm xúc.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 19 trên một trang: tám nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (trò chơi nhìn thấu hai vòng limit, mở rộng ba vòng, hai vòng no-limit và tăng pot cấp số nhân, so sánh cược đều với cược cấp số nhân, trò chơi M vòng, trò chơi đấu giá, trò chơi đấu giá nhìn thấu), mỗi nhánh ghi lời giải, công thức và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 19: bài tĩnh qua nhiều vòng — X chơi từng vòng như trò chơi một vòng, Y bluff nhiều ở vòng đầu, no-limit cược tăng pot cấp số nhân`"]
+  n1["`Mục 1–2 — Ví dụ 19.1: nhìn thấu hai vòng, limit, pot P`"]
+  n0 --- n1
+  n2["`Trò chơi tĩnh: nhiều vòng cược nhưng giá trị bài không đổi, chưa có draw`"]
+  n1 --- n2
+  n3["`X chỉ check và call: Y nhìn thấu khai thác được mọi cược của X vì bài tĩnh`"]
+  n1 --- n3
+  n4["`Y chọn check hai vòng, cược một lần rồi bỏ, hoặc cược hai vòng, check rồi cược bị trội`"]
+  n1 --- n4
+  n5["`Y bàng quan ⇒ X bỏ x₀ = α = 1/(P + 1) ở vòng đầu`"]
+  n1 --- n5
+  n6["`x₂ = (P + 2)x₁ ⇒ x₁ = α₂(1 − α), α₂ = 1/(P + 3): X bỏ α₂ số bài còn lại ở vòng hai`"]
+  n1 --- n6
+  n7["`X bàng quan ⇒ y₁ = α·y₂: bài bluff một lần rồi bỏ bằng α lần tổng số bài cược ở vòng hai`"]
+  n1 --- n7
+  n8["`Vòng hai bluff đúng tỷ lệ y#95;b = α₂·y#95;v`"]
+  n1 --- n8
+  n9["`Ở vòng trước, Y coi mọi bài sẽ cược ở vòng sau là bài giá trị và bluff thêm theo pot hiện tại`"]
+  n1 --- n9
+  n10["`Pot 2 cược: river bluff V/5, vòng đầu bluff thêm 2V/5 ⇒ cược 3V/5 bài chết, bỏ 2/3 sau vòng đầu`"]
+  n1 --- n10
+  n11["`Y thắng 20%: cược 32% số bài ở vòng đầu, 24% ở vòng hai, so với 26,7% trong trò chơi một vòng`"]
+  n10 --- n11
+  n12["`Mục 3 — Ba vòng: ante 2, cược 1 – 2 – 2, Y thắng 1/2`"]
+  n0 --- n12
+  n13["`River pot 10, α = 1/6: 1/2 giá trị cộng 1/12 bluff = 7/12`"]
+  n12 --- n13
+  n14["`Turn pot 6, α = 1/4: 7/12 + 7/48 = 35/48`"]
+  n12 --- n14
+  n15["`Flop pot 4, α = 1/5: 35/48 + 7/48 = 7/8 số bài`"]
+  n12 --- n15
+  n16["`Y bỏ 7/48 sau flop, 7/48 sau turn, bluff 1/12 ở river (sách ghi nhầm bỏ 1/12 sau flop)`"]
+  n12 --- n16
+  n17["`X bàng quan nên coi như X bỏ ngay: Y lời 4 × 7/8 − 2 = 1,5 đơn vị mỗi ván`"]
+  n12 --- n17
+  n18["`Mục 4 — Ví dụ 19.2: hai vòng no-limit, pot 1, stack N`"]
+  n0 --- n18
+  n19["`Cấu trúc α đúng với mọi mức cược: x₀ = s₁/(1 + s₁), α₂ = s₂/(1 + 2s₁ + s₂)`"]
+  n18 --- n19
+  n20["`Tỷ số tăng pot rₙ = (pₙ + 2sₙ)/pₙ, pot vào vòng bằng 1 thì r = 1 + 2s`"]
+  n18 --- n20
+  n21["`Số bài cược ở vòng n: Bₙ = 2Mₙrₙ/(1 + rₙ), Mₙ là bài mang sang vòng sau hoặc bài nuts`"]
+  n18 --- n21
+  n22["`X bàng quan nên Y tối đa hoá B₁ = 4y·r₁r₂/[(1 + r₁)(1 + r₂)]`"]
+  n18 --- n22
+  n23["`Y cược hết stack: r₁r₂ = 1 + 2N cố định ⇒ cực tiểu r₁ + r₂ ⇒ r₁ = r₂ (AM–GM)`"]
+  n18 --- n23
+  n24["`N = 4: cược bằng pot hai lần cho B₁ = 2,25y, cược nửa pot rồi phần còn lại chỉ ≈ 2,18y`"]
+  n23 --- n24
+  n25["`Tăng pot theo cấp số nhân: pot tăng cùng tỷ lệ mỗi vòng, hết stack ở vòng cuối, đúng cho mọi số vòng`"]
+  n18 --- n25
+  n26["`B₁ ≥ 1 nghĩa là Y không đủ bài bluff: Y cược mọi bài, X bỏ mọi bài`"]
+  n18 --- n26
+  n27["`Mục 5 — Ví dụ 19.3: stack 185 đô la, ante 5 đô la, ba vòng, Y thắng 2/13`"]
+  n0 --- n27
+  n28["`Không cược: Y được 10 × 2/13 ≈ 1,54 đô la, lỗ 3,46 đô la mỗi ván`"]
+  n27 --- n28
+  n29["`Cược đều 60 – 60 – 60 đô la: X call tới cuối 7,88%, lời 19,16 đô la mỗi bài thắng`"]
+  n27 --- n29
+  n30["`Cấp số nhân r = ∛37 ≈ 3,3322: cược 11,66 – 38,86 – 129,48 đô la`"]
+  n27 --- n30
+  n31["`X call 46,17% mỗi vòng, tới cuối 9,84%, lời 26,41 đô la mỗi bài thắng`"]
+  n30 --- n31
+  n32["`Bluff hoà vốn nên chênh lệch nằm ở bài thắng: cược đều lỗ ≈ 0,51, cấp số nhân lời ≈ 0,60 đô la mỗi ván`"]
+  n27 --- n32
+  n33["`Hai vòng r = √(1 + 2S), ba vòng r = ∛(1 + 2S): cược bằng pot ba vòng cần stack 13 lần pot`"]
+  n27 --- n33
+  n34["`Cược nửa pot (r = 2) đưa hết stack 3,5 lần pot trong ba vòng, 1,5 lần pot trong hai vòng`"]
+  n33 --- n34
+  n35["`Mục 7 — Ví dụ 19.4: M vòng no-limit, pot 1, stack S`"]
+  n0 --- n35
+  n36["`Pot cuối P = 1 + 2S, tỷ lệ tăng G = P^(1/M), cược mỗi vòng s = (G − 1)/2`"]
+  n35 --- n36
+  n37["`Hệ số nhân bluff r#95;b = (1 + 2s)/(1 + s): số bài cược vòng trước bằng r#95;b lần vòng sau`"]
+  n35 --- n37
+  n38["`Hai vòng, stack 1: G = √3, s ≈ 0,366, r#95;b ≈ 1,268, river 1,268y, vòng đầu 1,608y`"]
+  n37 --- n38
+  n39["`y₀ = y·r#95;b^M (sách in số mũ ngược dấu), y₀ #gt; 1 thì Y thiếu bài bluff`"]
+  n35 --- n39
+  n40["`X call r#95;c = 1/(1 + s) mỗi vòng: xₘ = r#95;cᵐ`"]
+  n35 --- n40
+  n41["`Giá trị trò chơi = y₀ − y: với y = 0,3 hai vòng được ≈ 0,182 pot`"]
+  n35 --- n41
+  n42["`Mục 6, 8 — Ví dụ 19.5: trò chơi đấu giá, giới hạn khi số vòng tiến ra vô hạn`"]
+  n0 --- n42
+  n43["`Hai người bỏ giá kín trong [0, S], cả hai giá vào pot, giá cao hơn thắng, bằng nhau thì lật bài`"]
+  n42 --- n43
+  n44["`Chiến lược đấu giá: gán mỗi tay bài ngưỡng sₓ, cược đều ε = S/M tới ngưỡng rồi check và bỏ`"]
+  n42 --- n44
+  n45["`Bị raise dưới sₓ thì call rồi chia đều stack còn lại, raise trên sₓ thì bỏ`"]
+  n42 --- n45
+  n46["`Nemesis phải call theo mới biết ngưỡng, chỉ lời phần ta cược vượt sₓ, tối đa ε`"]
+  n42 --- n46
+  n47["`100 vòng, sₓ = 0,601: cược 0,01 × 61 = 0,61, vượt mức muốn 0,009`"]
+  n46 --- n47
+  n48["`Raise không giúp nemesis cả ba trường hợp sₓ #lt; y, sₓ #gt; y, sₓ = y`"]
+  n42 --- n48
+  n49["`M → ∞ thì ε → 0: giá trị mọi trò chơi tĩnh hội tụ về giá trị trò chơi đấu giá`"]
+  n42 --- n49
+  n50["`Mục 9 — Ví dụ 19.6: trò chơi đấu giá nhìn thấu, stack S`"]
+  n0 --- n50
+  n51["`Y bỏ giá S với mọi bài thắng, bỏ dần bài bluff cho tới y(S) = y`"]
+  n50 --- n51
+  n52["`Y bàng quan: −dx/x = ds/(1 + 2s) ⇒ x(s) = 1/√(1 + 2s)`"]
+  n50 --- n52
+  n53["`X bàng quan ⇒ y(s) = y·√[(1 + 2S)/(1 + 2s)], tối đa 1`"]
+  n50 --- n53
+  n54["`S = 10, y = 0,5: y(1) ≈ 1,323 #gt; 1 nên mọi bài bỏ giá ít nhất 1, y(5) ≈ 0,691`"]
+  n53 --- n54
+  n55["`Đúng là giới hạn M → ∞ của trò chơi M vòng: xₘ ≈ P^(−m/(2M)) = (1 + 2s)^(−1/2)`"]
+  n50 --- n55
+  n56["`Mục 10 — Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Người nhìn thấu mang một tập bài qua từng vòng, bluff nhiều ở vòng đầu, bỏ dần ở mỗi vòng`"]
+  n56 --- n57
+  n58["`Người thiếu thông tin chỉ cần mỗi vòng không bỏ quá α = cược/(pot + cược)`"]
+  n56 --- n58
+  n59["`Cược đều theo số tiền như 1/3 stack mỗi vòng có thể đổi trò chơi có lời thành lỗ`"]
+  n56 --- n59
+  n60["`Số vòng tăng thì giá trị vị trí tiến về 0 vì trò chơi đấu giá đối xứng`"]
+  n56 --- n60
+  n61["`Gán mỗi tay bài một mức sẵn sàng đặt, làm kích thước pot tương quan với sức mạnh bài`"]
+  n56 --- n61
+  n62["`Bài tĩnh và nhìn thấu là giả định mạnh, Chương 20 mới xét draw`"]
+  n56 --- n62
+  class n0 root
+  class n1,n12,n18,n27,n35,n42,n50,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n62 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 19 "The Road to Poker: Static Multi-Street Games", trang 243–258.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương trước của Phần III chỉ xét trò chơi một vòng cược: nửa vòng (half-street, chỉ một người được cược) và trọn vòng (full-street). Trò chơi "nhìn thấu bài" (clairvoyant game) một vòng cược ở [C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md) cho tỷ lệ bluff α = 1/(P + 1); [C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md) giải bài toán chọn mức cược no-limit cho một vòng; [C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md) tổng kết giá trị các trò chơi [0,1] một vòng.
+
+Chương 19 bước sang trò chơi **nhiều vòng cược** nhưng giữ bài "tĩnh" (static: giá trị bài không đổi giữa các vòng, không có draw), để thấy bluff vận hành qua nhiều vòng mà chưa phải lo về draw.
+
+Kết quả chính — người không nhìn thấu chơi mỗi vòng như một trò chơi một vòng; người nhìn thấu "mang" một tập bài qua từng vòng và bluff nhiều hơn ở vòng đầu; và mức cược tối ưu trong no-limit là **tăng pot theo cấp số nhân** (geometric growth of pot) — trở thành nền tảng của cách chọn mức cược no-limit hold'em ở [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md), nơi bài thay đổi giữa các vòng. Ý tưởng "trò chơi đấu giá" và việc gán cho mỗi tay bài một mức sẵn sàng đặt cược cũng được dùng lại trong các nghiên cứu tình huống ở [C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md).
+
+## Lưu ý
+
+- **Câu "bỏ 1/12 số bài chết sau flop" sai (trò chơi ba vòng, trang 246).** Theo chính phép tính của sách, Y cược 42/48 số bài ở flop, 35/48 ở turn, 28/48 = 7/12 ở river. Vậy Y bỏ 42/48 − 35/48 = **7/48** số bài sau flop và 35/48 − 28/48 = 7/48 sau turn, rồi bluff 1/12 (= 4/48) số bài ở river. Sách ghi "gives up on 1/12 of his dead hands after the flop and 7/48 after the turn": con số 1/12 là lượng bluff còn lại ở river, không phải lượng bị bỏ sau flop. Kiểm tra: tổng bluff 7/48 + 7/48 + 4/48 = 18/48 = 3/8, đúng bằng 7/8 − 1/2. (Các phân số tính theo toàn bộ số bài, không phải "theo số bài chết".)
+- **Trò chơi ba vòng: "pot will be 6 bets" ở turn** phải đọc là 6 đơn vị (ante 2 + 2 cộng cược flop 1 + 1); cược ở turn là 2 đơn vị. Câu "1/8 of the time, X wins the pot for a net to Y of 1.5 units" viết lủng củng: Y thắng pot 4 đơn vị với 7/8 số bài và thua với 1/8, nên Y lời 4 × 7/8 − 2 = 1,5 đơn vị mỗi ván.
+- **Định nghĩa r₂ bị viết ngược (trang 248):** sách viết r₂ là "(1 + 2s₁)/(1 + 2s₁ + 2s₂)"; đúng là (1 + 2s₁ + 2s₂)/(1 + 2s₁), như chính công thức tổng quát rₙ = (pₙ + 2sₙ)/pₙ và phép tính r₂ ở trang 250.
+- **Phép tính giá trị chiến lược cược cấp số nhân trong Ví dụ 19.3 in sai các thừa số.** Sách viết ⟨Y₂⟩ = (46,17%)(8,34 đô la) + (21,31%)(22,26 đô la) + (9,84%)(59,40 đô la) = 26,41 đô la; nhưng tổng các tích này chỉ là 14,44 đô la. Các thừa số đúng là các mức cược 11,66; 38,86; 129,48 đô la: 0,4617 × 11,66 + 0,2131 × 38,86 + 0,0984 × 129,48 ≈ 5,38 + 8,28 + 12,74 = 26,40 đô la (khớp 26,41 của sách, sai số làm tròn).
+- **Dòng "Total" của bảng Ví dụ 19.3 không nhất quán:** sách ghi "60 đô la, 7,88%" cho cược đều và "90 đô la, 4,06%" cho cược cấp số nhân. Tổng số tiền cược của cả hai chiến lược đều là 180 đô la; xác suất X call tới cuối là 7,88% và 9,84%. Người tổng hợp đoán con số 4,06 là lợi nhuận ex-showdown mỗi ván của cược cấp số nhân: (2/13) × 26,41 ≈ 4,06 đô la (với cược đều: (2/13) × 19,16 ≈ 2,95 đô la). Trừ phần lỗ khi lật bài 3,46 đô la, Y lời khoảng +0,60 đô la mỗi ván với cược cấp số nhân và lỗ khoảng −0,51 đô la với cược đều; sách chỉ nói "đủ đổi trò chơi từ âm sang dương" mà không ghi hai số này.
+- **"Stack bằng 3,5 lần pot thì cược nửa pot là đủ"** chỉ đúng cho ba vòng cược (r = 2 nên 1 + 2S = 2³ = 8, S = 3,5); với hai vòng, stack chỉ cần 1,5 lần pot. Sách không nói rõ.
+- **Lỗi dấu và ký hiệu trong lời giải trò chơi đấu giá nhìn thấu (trang 256):** định nghĩa "−Δx = x(s + Δs) − x(s)" ngược dấu với lời giải thích (x giảm khi s tăng nên phải là −Δx = x(s) − x(s + Δs) > 0); dòng "(1 + 2s + Δs)" rồi "(1 + 2s − Δs)" không khớp nhau (không ảnh hưởng giới hạn); dòng tích phân "ln(Cx²) = ln(1 + 2s)" phải là ln(C/x²) = ln(1 + 2s).
+
+  Với Y, "dy/y = ds/(1 + 2s)" thiếu dấu trừ (phải là −dy/y = ds/(1 + 2s), nếu không nghiệm sẽ tăng theo s); "y(S) = y₀" phải là y(S) = y (số bài thắng); điều kiện "(or 0 if y(√(1 + 2s)) > 1)" in lỗi, nghĩa là X không tranh (bỏ giá 0) khi Y không đủ bài bluff. Kết quả cuối x(s) = 1/√(1 + 2s), y(s) = y√[(1 + 2S)/(1 + 2s)] là đúng.
+- **Ký hiệu trong phần chứng minh giới hạn (trang 257–258):** "xₘ = (1 + s₁)⁻ᵐ" và "1 + 2s₁ = Gᵐ" dùng s₁ cho hai nghĩa: lần đầu là mức cược mỗi vòng sₙ = (G − 1)/2, lần sau là tổng số đã cược sau m vòng. Bản tổng hợp viết sₙ và s cho hai đại lượng này.
+- **Số mũ trong Ví dụ 19.4 bị đổi dấu (trang 253–254).** Sách viết yₘ = y₀·r_bᵐ và y₀ = y·r_b^(−M), tức số bài cược ở vòng đầu nhỏ hơn số bài nuts — mâu thuẫn với chính ví dụ hai vòng của sách (1,268²y ở vòng đầu, 1,268y ở river) và với điều kiện "y₀ > 1" ngay sau đó. Đúng là y₀ = y·r_b^M và yₘ = y·r_b^(M − m).
+- **"Nemesis biết sₓ nhỏ hơn x − ε" (trang 255)** phải là "lớn hơn": ta còn cược nghĩa là chưa đạt ngưỡng khi tổng đã cược là x − ε.
+- **Câu "giá trị cho nemesis… nhiều nhất là G − ε" (trang 255) diễn đạt không rõ.** Ý đúng của lập luận: chiến lược đấu giá chỉ thua chiến lược tối ưu tối đa ε, tức đảm bảo ít nhất G − ε (nhận xét của người tổng hợp).
+- **"Đặt cược nhỏ so với pot là tối ưu trong trò chơi tĩnh" (Key Concepts)** chỉ đúng khi số vòng lớn so với độ sâu stack. Chính Ví dụ 19.3 có mức cược khoảng 117% pot mỗi vòng (s/p = (r − 1)/2 ≈ 1,166) (nhận xét của người tổng hợp).
+- **Lớp chữ PDF:** "Υ" (chữ Y Hy Lạp) thay cho Y; "a" và "a2" là α và α₂; "stack 5" là "stack S"; "clairvoyrance" là "clairvoyance"; "hi a similar fashion" là "in a similar fashion"; "ерe hands" là "the hands"; công thức y(1), y(5) ở trang 257 bị vỡ thành ký tự "¿". Người tổng hợp đọc lại từ ảnh trang.
+- **Quy ước:** α = 1/(P + 1) khi cược 1 vào pot P, hay tổng quát α = s/(1 + s) khi cược s (tính theo pot hiện tại); α₂ là tỷ lệ tương ứng ở vòng thứ hai. Mọi giá trị là ex-showdown và tính theo Y trừ khi nói khác. Chữ r trong chương này (tỷ số tăng pot) khác hằng số r = √2 − 1 của các chương trước.

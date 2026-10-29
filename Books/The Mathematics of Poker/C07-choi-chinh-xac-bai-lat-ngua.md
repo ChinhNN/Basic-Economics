@@ -1,24 +1,18 @@
 # Chương 7 — Chơi chính xác, phần I: các tình huống bài lật ngửa (Playing Accurately, Part I: Cards Exposed Situations)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 7 "Playing Accurately, Part I: Cards Exposed Situations", trang 77–88.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Phần II "Chơi khai thác" (Exploitive Play) mô tả chơi khai thác là một quy trình hai bước. Bước một — đọc bài và chiến lược của đối thủ, tức là ước lượng phân phối bài của họ — được trình bày ở Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)), và Chương 6 ([C06-poker-truc-tuyen.md](C06-poker-truc-tuyen.md)) bàn về dữ liệu trực tuyến cho bước này. Chương 7 mở đầu bước hai: khi đã biết (hoặc đã ước lượng) bài của đối thủ, chọn hành động có kỳ vọng cao nhất. Để tách bước hai khỏi bước một, chương xét trường hợp đơn giản nhất: hai người chơi lật ngửa bài. Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) đã cho quy tắc cơ bản "tay bài đã thành (made hand) cược, tay bài đang chờ (draw) call hoặc fold theo pot odds"; Chương 7 chỉ ra những tình huống quy tắc này sai, chủ yếu vì độ sâu stack giới hạn số tiền có thể cược ở các vòng sau. Chương 8 ([C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md)) mở rộng sang một tay bài đấu với cả một phân phối bài, và Chương 9 ([C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) sang phân phối đấu với phân phối. Ý tưởng "draw tốt muốn đưa hết tiền vào sớm" và vai trò của độ sâu stack còn quay lại trong trò chơi jam-or-fold ở Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)) và trong việc chọn mức cược no-limit ở Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)).
+## Ý chính
 
-**Ý chính:** **Ngay cả khi cả hai người chơi đều thấy bài của nhau, cách chơi đúng vẫn có thể trái trực giác, vì độ sâu stack (số tiền còn lại phía sau) quyết định tiền có thể cược ở các vòng sau; tay bài đang chờ tốt muốn đưa hết tiền vào sớm hoặc đưa vào càng ít càng tốt, còn tay bài đã thành muốn giữ lại đủ tiền để "phạt" tay bài đang chờ ở vòng sau khi nó trượt.** Ví dụ 7.1 (stud bảy lá $30–$60): X có sảnh A-K-Q-J-T, Y có bốn lá bích và chỉ còn $120, pot $400. Tác giả liệt kê năm phương án của X (check-fold, check-call, check-raise, bet-call, bet-fold), loại bet-fold (−$60 so với khoảng $297) và check-fold ($0 so với ít nhất $297), rồi tính được: check-call và check-raise đều $290,24, bet-call $308,43 nếu Y chỉ call. Vì Y raise thì X chỉ còn khoảng $297, Y nên raise dù Y thua khoảng 2 ăn 1; cách chơi đúng là X bet, Y raise, X call. Ví dụ 7.2 (pot-limit hold'em "cứng", chỉ được cược đúng bằng pot): X có A♥ A♦, Y có 8♣ 7♣, flop 9♣ 6♣ 2♦, Y có 15 outs và 56,06% equity, pot $100. Với stack $50, Y cược để buộc hết tiền vào, X chỉ được $37,88 (ít hơn equity $43,94 khi lật bài ngay). Với stack $400, không ai cược ở flop: X bet thì Y raise all-in (X còn −$4,55), Y bet thì X call (X được $95,45), nên check-check cho X $65,15. Với stack $1.300 (ba lần cược pot), X bet $100 và Y call, X được $95,45 — hơn gấp đôi equity ban đầu. Nếu Y chỉ có 14 outs, Y phải fold dù đang là người có cửa thắng cao hơn (53%). Ví dụ 7.3 (pot-limit thật, stack $400): kỳ vọng của X là hàm gấp khúc của số tiền x mỗi người đưa vào ở flop, 10x/33 + $65,15 khi x ≤ $100 và −x/3 + $128,79 khi x ≥ $100; X nên cược $23,26 để được ít nhất $72,20. Ví dụ 7.4 (no-limit, A♥ K♦ đấu Q♥ Q♣, X raise lên $300): với stack $800, Y call rồi tùy flop (khoảng $220) tốt hơn chút ít so với all-in ngay ($214,72); với stack $1.800, all-in ngay ($358,12) tốt hơn hẳn — stack sâu hơn thì QQ càng muốn đưa hết tiền vào, ngược với trực giác phổ biến.
+**Ngay cả khi cả hai người chơi đều thấy bài của nhau, cách chơi đúng vẫn có thể trái trực giác, vì độ sâu stack (số tiền còn lại phía sau) quyết định tiền có thể cược ở các vòng sau; tay bài đang chờ tốt muốn đưa hết tiền vào sớm hoặc đưa vào càng ít càng tốt, còn tay bài đã thành muốn giữ lại đủ tiền để "phạt" tay bài đang chờ ở vòng sau khi nó trượt.**
 
-> **Lưu ý:**
-> - **Ví dụ 7.2, trường hợp 3, tiểu trường hợp c tính sai (lỗi đáng kể của sách):** sách viết ⟨X, hai cược ở flop⟩ = (15/45)(−$400) + (30/45)[($2.700)(29/44) − $1.300] = $346,21. Tính đúng: (29/44)(2.700) − 1.300 = 1.779,55 − 1.300 = 479,55; nhân 30/45 được 319,70; cộng (15/45)(−400) = −133,33 được **$186,36**. Con số $346,21 của sách bằng −133,33 + 479,55, tức sách quên nhân 479,55 với xác suất 30/45. Kiểm tra chéo từ phía Y: Y được (1/3)(500) + (2/3)[(15/44)(2.700) − 1.300] = 166,67 − 253,03 = −86,36, và X + Y phải bằng pot ban đầu $100: 186,36 + (−86,36) = 100. Kết luận của sách không đổi, vì $186,36 vẫn là kết quả tốt nhất cho X và tệ nhất cho Y trong bốn tiểu trường hợp.
-> - **Ví dụ 7.2, trường hợp 2, công thức in sai:** sách viết ⟨X, check; Y check⟩ = (15/45)($0) + (30/45)[(29/44)($300 − $100)] = $65,15. Biểu thức như in cho (2/3)(29/44)(200) = $87,88. Công thức đúng là (30/45)[(29/44)($300) − $100] = (2/3)(197,73 − 100) = $65,15: ở turn X cược $100 vào pot $100, Y call, pot thành $300, X có 29/44 khả năng thắng $300 và đã bỏ ra $100.
-> - **Ví dụ 7.2, phần chênh lệch nhỏ:** sách viết X được lợi "$65,15 − $43,94, tức $21,19"; hiệu đúng là $21,21. Sách viết tiểu trường hợp d là −$113,62 (do làm tròn 0,4394 × 2.700); chính xác là (870/1.980) × 2.700 − 1.300 = −$113,64. Sách nói giá trị tay bài của X "gần như gấp đôi" từ $43,94 lên $95,45; thực ra là gấp 2,17 lần, tức hơn gấp đôi.
-> - **Ví dụ 7.1, hai lỗi in trong công thức bet-call:** dòng thứ hai viết (8/42)($60) thay vì (8/42)(−$60), và dòng thứ ba viết "1 − [8/42 − (8/41)(34/42)]" thay vì "1 − [8/42 + (8/41)(34/42)]". Kết quả $308,43 của sách đúng với công thức đúng: (8/42)(−60) + (8/41)(34/42)(−120) + (0,65157)(520) = −11,43 − 18,96 + 338,82 = 308,43.
-> - **Ví dụ 7.3, lỗi in:** dòng đầu của công thức cho x ∈ [$100, $400] viết số hạng cuối là (15/44)(400) và dòng thứ hai viết (2/3 − 5/22)(400); số đúng là (2/3 − 5/22)($500) như dòng thứ ba và bảng kết quả. Dòng tóm tắt viết "⟨X, $100⟩ = $94,45" ở nhánh thứ hai; đúng là −100/3 + 128,79 = $95,45 (hai nhánh phải gặp nhau tại x = $100). Sách viết cược $5 làm tăng kỳ vọng "$1,50"; đúng là (10/33)(5) = $1,52 (từ $65,15 lên $66,67, như chính sách ghi).
-> - **Ví dụ 7.4, "getting 3 to 2 on his money":** với stack $800, khi Y all-in thì X phải call thêm $500 để giành pot $1.100 ($300 của X + $800 của Y), tức tỷ lệ 2,2 ăn 1, không phải 3 ăn 2 (người tổng hợp tính). Tỷ lệ gần 3 ăn 2 (1,4 ăn 1: call $1.500 để giành $2.100) là của trường hợp stack $1.800; khi đó X cần 41,7% equity và có khoảng 42,8%, nên call nhưng rất sát.
-> - **Ví dụ 7.4, xác suất 30% được làm tròn:** xác suất flop có A hoặc K mà không có Q là (C(46,3) − C(40,3)) / C(48,3) = (15.180 − 9.880) / 17.296 = 30,64%. Dùng số chính xác, ⟨Y, call⟩ = 0,3064 × (−200) + 0,6936 × 400 = $216,14 thay cho $220; vẫn lớn hơn $214,72 nên kết luận với stack $800 không đổi, nhưng chênh lệch chỉ còn khoảng $1,4. Câu "AK chỉ ra đôi khoảng một phần ba số lần ở flop" đúng: 1 − C(42,3)/C(48,3) = 33,6%.
-> - **Ví dụ 7.4, equity 57,17% của QQ hơi cao:** người tổng hợp liệt kê đủ 1.712.304 bộ năm lá chung cho Q♥ Q♣ đấu A♥ K♦ và được QQ thắng 56,55%, hòa 0,42%, tức equity khoảng 56,76% (AK khoảng 43,24%, khớp câu "AK thắng khoảng 43%" của sách). Với 56,76%, ⟨Y, all-in⟩ là 0,5676 × 1.600 − 700 ≈ $208 (stack $800) và 0,5676 × 3.600 − 1.700 ≈ $343 (stack $1.800); so với ⟨Y, call⟩ khoảng $216–220, kết luận của sách ở cả hai độ sâu stack không đổi.
-> - **Equity được làm tròn theo mô hình đơn giản hoá:** Ví dụ 7.2 và 7.3 bỏ qua trường hợp AA ra cù lũ hay 87 ra hai đôi nhờ hai lá cuối (runner-runner), nên Y có 1 − (30/45)(29/44) = 56,06%. Người tổng hợp liệt kê đủ 990 cặp turn–river và được equity chính xác của 8♣ 7♣ trước A♥ A♦ trên flop 9♣ 6♣ 2♦ là 56,26%; chênh lệch không ảnh hưởng tới lập luận. Ví dụ 7.2 ghi flop 9♣ 6♣ 2♦, Ví dụ 7.3 ghi 9♣ 6♣ 2♠; khác biệt không ảnh hưởng gì vì cả hai lá 2 đều không phải chuồn.
-> - **Hình 7.1 (đồ thị kỳ vọng của X theo số tiền đưa vào ở flop):** trục hoành ghi "pot size" nhưng thực ra là x, số tiền mỗi người đưa vào ở flop; nhãn số trên trục hoành của bản PDF dựng lại bị lệch so với vạch chia (đỉnh gấp khúc trông như ở khoảng $150 trong khi theo công thức phải ở $100). Các giá trị đọc được khớp công thức: khoảng $65 tại x = 0, đỉnh khoảng $95 tại x = $100, khoảng −$5 tại x = $400.
-> - **Lỗi chữ của bản PDF:** "Yearly Player Y will call" là "clearly"; "the receding case" là "the preceding case"; "the small snack case" là "small stack"; "the last bet hum the straight" là "from the straight"; "the Hop" là "the flop"; "mere" là "there"; "upshot of all tills" là "this"; "A simply gets" (tiểu trường hợp d) là "X simply gets".
-> - **Quy ước tính kỳ vọng của sách:** mọi giá trị ⟨X, …⟩ là (phần pot X kỳ vọng nhận được) trừ (số tiền X bỏ thêm từ thời điểm đang xét), tức là coi pot hiện có như tài sản có thể giành được. Vì hai người chơi tổng hai phía luôn bằng pot ban đầu, Y tối đa hoá kỳ vọng của mình cũng chính là tối thiểu hoá kỳ vọng của X. Tiền tệ ghi theo sách (đô la Mỹ).
+Ví dụ 7.1 (stud bảy lá $30–$60): X có sảnh A-K-Q-J-T, Y có bốn lá bích và chỉ còn $120, pot $400. Tác giả liệt kê năm phương án của X (check-fold, check-call, check-raise, bet-call, bet-fold), loại bet-fold (−$60 so với khoảng $297) và check-fold ($0 so với ít nhất $297), rồi tính được: check-call và check-raise đều $290,24, bet-call $308,43 nếu Y chỉ call. Vì Y raise thì X chỉ còn khoảng $297, Y nên raise dù Y thua khoảng 2 ăn 1; cách chơi đúng là X bet, Y raise, X call.
+
+Ví dụ 7.2 (pot-limit hold'em "cứng", chỉ được cược đúng bằng pot): X có A♥ A♦, Y có 8♣ 7♣, flop 9♣ 6♣ 2♦, Y có 15 outs và 56,06% equity, pot $100. Với stack $50, Y cược để buộc hết tiền vào, X chỉ được $37,88 (ít hơn equity $43,94 khi lật bài ngay).
+
+Với stack $400, không ai cược ở flop: X bet thì Y raise all-in (X còn −$4,55), Y bet thì X call (X được $95,45), nên check-check cho X $65,15. Với stack $1.300 (ba lần cược pot), X bet $100 và Y call, X được $95,45 — hơn gấp đôi equity ban đầu. Nếu Y chỉ có 14 outs, Y phải fold dù đang là người có cửa thắng cao hơn (53%).
+
+Ví dụ 7.3 (pot-limit thật, stack $400): kỳ vọng của X là hàm gấp khúc của số tiền x mỗi người đưa vào ở flop, 10x/33 + $65,15 khi x ≤ $100 và −x/3 + $128,79 khi x ≥ $100; X nên cược $23,26 để được ít nhất $72,20.
+
+Ví dụ 7.4 (no-limit, A♥ K♦ đấu Q♥ Q♣, X raise lên $300): với stack $800, Y call rồi tùy flop (khoảng $220) tốt hơn chút ít so với all-in ngay ($214,72); với stack $1.800, all-in ngay ($358,12) tốt hơn hẳn — stack sâu hơn thì QQ càng muốn đưa hết tiền vào, ngược với trực giác phổ biến.
 
 ## Sơ đồ
 
@@ -307,7 +301,7 @@ Vậy loại check-fold: ở bất cứ đâu X định check-fold, thay bằng 
 ⟨X, bet-call⟩ = (8/42)(−$60) + (8/41)(34/42)(−$120) + {1 − [8/42 + (8/41)(34/42)]}($520)
 = −11,43 − 18,96 + 338,82 ≈ **$308,43**.
 
-(Sách in hai lỗi dấu trong công thức này; xem Lưu ý.) Dựa vào đó, X nên bet.
+(Sách in hai lỗi dấu trong công thức này; xem mục Lưu ý cuối chương.) Dựa vào đó, X nên bet.
 
 #### Kiểm tra lại chiến lược của Y
 
@@ -325,7 +319,11 @@ Vậy ở lá thứ năm, nếu cả hai tối đa hoá kỳ vọng: **X bet, Y 
 
 #### Vì sao draw lại raise
 
-Điều này trông hơi lạ, vì tay bài đang chờ raise cược của tay bài đã thành. X (tay bài đã thành) bet để bắt Y trả tiền cho việc chờ bài — nhưng đến lượt Y, raise lại đúng, dù Y thua khoảng 2 ăn 1 (65,16% so với 34,84%, tức 1,87 ăn 1). Lý do là stack bị giới hạn: Y sẽ all-in và không thể bị "phạt" bằng các cược thêm. Vì Y đủ pot odds để call ở lá thứ năm chỉ cho riêng lá thứ sáu (call $60 để giành $460, tức 7,7 ăn 1, trong khi tỷ lệ trượt lá thứ sáu là 34 ăn 8, tức 4,25 ăn 1), Y nên chắc chắn rằng toàn bộ tiền vào pot ngay ở lá thứ năm. Như vậy nếu Y ra thùng ở lá thứ sáu, Y vẫn lấy được cược cuối từ sảnh. Điều này xảy ra vì draw của Y là **draw mở**: X biết khi nào mình bị thua. Trong các trường hợp draw **đóng**, X có thể vẫn phải trả tiền ở lá thứ sáu nếu Y ra thùng.
+Điều này trông hơi lạ, vì tay bài đang chờ raise cược của tay bài đã thành. X (tay bài đã thành) bet để bắt Y trả tiền cho việc chờ bài — nhưng đến lượt Y, raise lại đúng, dù Y thua khoảng 2 ăn 1 (65,16% so với 34,84%, tức 1,87 ăn 1).
+
+Lý do là stack bị giới hạn: Y sẽ all-in và không thể bị "phạt" bằng các cược thêm. Vì Y đủ pot odds để call ở lá thứ năm chỉ cho riêng lá thứ sáu (call $60 để giành $460, tức 7,7 ăn 1, trong khi tỷ lệ trượt lá thứ sáu là 34 ăn 8, tức 4,25 ăn 1), Y nên chắc chắn rằng toàn bộ tiền vào pot ngay ở lá thứ năm. Như vậy nếu Y ra thùng ở lá thứ sáu, Y vẫn lấy được cược cuối từ sảnh.
+
+Điều này xảy ra vì draw của Y là **draw mở**: X biết khi nào mình bị thua. Trong các trường hợp draw **đóng**, X có thể vẫn phải trả tiền ở lá thứ sáu nếu Y ra thùng.
 
 ### 3. Ví dụ 7.2 — Pot-limit cứng: AA đấu draw thùng phá sảnh với ba độ sâu stack (Example 7.2, trang 79–83)
 
@@ -376,7 +374,7 @@ Các kỳ vọng tính theo phía X. Vì đây là trò chơi hai người và k
 
 **Nếu X check,** Y có thể check hoặc bet.
 
-- Y check: 15/45 số lần Y trúng ở turn và X được $0; 30/45 số lần Y trượt, X cược pot ($100) và được call. ⟨X, check; Y check⟩ = (15/45)($0) + (30/45)[(29/44)($300) − $100] = (2/3)(197,73 − 100) = **$65,15**. (Sách in "(29/44)($300 − $100)"; xem Lưu ý.)
+- Y check: 15/45 số lần Y trúng ở turn và X được $0; 30/45 số lần Y trượt, X cược pot ($100) và được call. ⟨X, check; Y check⟩ = (15/45)($0) + (30/45)[(29/44)($300) − $100] = (2/3)(197,73 − 100) = **$65,15**. (Sách in "(29/44)($300 − $100)"; xem mục Lưu ý cuối chương.)
 - Y bet $100: nếu X raise all-in, X lại được −$4,55; nếu X call, X lại được $95,45.
 
 Bảng kỳ vọng của X (trường hợp 2, stack $400), hàng là phương án của X, cột là hành động của Y; ô trống là tổ hợp không xảy ra:
@@ -399,7 +397,7 @@ Trường hợp pot-limit cứng cuối cùng: stack $1.300, tức ba lần cư�
 - **a) Không có tiền vào ở flop.** Không ai raise ở turn, nên kỳ vọng của X như trường hợp trước khi không có tiền vào ở flop: **$65,15**.
 - **b) Một cược pot ($100 mỗi người) vào ở flop.** Tương tự trường hợp trước: **$95,45**. (Y trượt turn thì X cược $300 vào pot $300, Y call; đến river không còn gì thay đổi.)
 - **c) Hai cược pot ($400 mỗi người) vào ở flop.** Pot $900. Nếu Y trúng ở turn, X mất $400. Nếu Y trượt, X cược $900 và Y call (cần 33,3%, có 34,1%); 29/44 số lần X giành pot $2.700, còn lại Y giành.
-  ⟨X, hai cược ở flop⟩ = (15/45)(−$400) + (30/45)[($2.700)(29/44) − $1.300] = −133,33 + (2/3)(479,55) = −133,33 + 319,70 = **$186,36**. (Sách ghi $346,21 do quên nhân 479,55 với 30/45; xem Lưu ý.)
+  ⟨X, hai cược ở flop⟩ = (15/45)(−$400) + (30/45)[($2.700)(29/44) − $1.300] = −133,33 + (2/3)(479,55) = −133,33 + 319,70 = **$186,36**. (Sách ghi $346,21 do quên nhân 479,55 với 30/45; xem mục Lưu ý cuối chương.)
 - **d) Ba cược pot ($1.300 mỗi người) vào ở flop.** X chỉ nhận equity showdown: ⟨X, ba cược ở flop⟩ = (1 − 0,5606)($2.700) − $1.300 = 0,4394 × 2.700 − 1.300 = **−$113,64** (sách ghi −$113,62 do làm tròn).
 
 | Tiểu trường hợp | Tiền mỗi người vào ở flop | Kỳ vọng của X (tính lại) | Theo sách | Kỳ vọng của Y (= $100 − X) |
@@ -532,7 +530,7 @@ AK hưởng lợi khi được xem đủ năm lá chung: nó chỉ ra đôi kho�
 
 #### Stack nông ($800)
 
-QQ của Y thắng hơn 57% (sách dùng 57,17%; người tổng hợp liệt kê đủ các bộ bài chung được khoảng 56,76%, xem Lưu ý; phần dưới giữ số của sách). Nếu Y raise lên $800 (all-in), X buộc phải call (sách nói X được 3 ăn 2; tính đúng là call $500 để giành $1.100, tức 2,2 ăn 1, X cần 31,25% và có khoảng 43%). Raise một mức nhỏ hơn không tốt hơn, vì X có thể re-raise lên $800 để bảo đảm equity của mình. All-in tốn Y thêm $700 (blind $100 đã ở trong pot).
+QQ của Y thắng hơn 57% (sách dùng 57,17%; người tổng hợp liệt kê đủ các bộ bài chung được khoảng 56,76%, xem mục Lưu ý cuối chương; phần dưới giữ số của sách). Nếu Y raise lên $800 (all-in), X buộc phải call (sách nói X được 3 ăn 2; tính đúng là call $500 để giành $1.100, tức 2,2 ăn 1, X cần 31,25% và có khoảng 43%). Raise một mức nhỏ hơn không tốt hơn, vì X có thể re-raise lên $800 để bảo đảm equity của mình. All-in tốn Y thêm $700 (blind $100 đã ở trong pot).
 
 ⟨Y, all-in⟩ = 0,5717 × ($800 + $800) − $700 = 914,72 − 700 = **$214,72**.
 
@@ -708,7 +706,11 @@ Các ví dụ là trò chơi hai người tổng không đổi (tổng kỳ vọ
 
 ### Sức mạnh của chương
 
-Chương cho thấy rõ một cách làm có hệ thống: liệt kê phương án có ý định, loại phương án bị trội, đoán phản ứng của đối thủ rồi kiểm tra lại — đây chính là quy nạp ngược trên cây trò chơi, trình bày bằng ví dụ cụ thể. Ba ví dụ AA đấu 87 chuồn với cùng bài nhưng stack khác nhau là minh hoạ rất mạnh: chỉ riêng stack đổi cách chơi đúng từ "X check, Y bet" sang "check-check" sang "X bet, Y call", và giá trị tay bài của X từ $37,88 lên $95,45. Hàm kỳ vọng gấp khúc ở Ví dụ 7.3 và mức cược $23,26 là một kết quả đẹp: cược nhỏ hơn nhiều so với pot lại tốt nhất cho tay bài mạnh, vì nó không cho draw cơ hội raise với giá rẻ. Ví dụ 7.4 thách thức trực tiếp một niềm tin phổ biến của người chơi.
+Chương cho thấy rõ một cách làm có hệ thống: liệt kê phương án có ý định, loại phương án bị trội, đoán phản ứng của đối thủ rồi kiểm tra lại — đây chính là quy nạp ngược trên cây trò chơi, trình bày bằng ví dụ cụ thể.
+
+Ba ví dụ AA đấu 87 chuồn với cùng bài nhưng stack khác nhau là minh hoạ rất mạnh: chỉ riêng stack đổi cách chơi đúng từ "X check, Y bet" sang "check-check" sang "X bet, Y call", và giá trị tay bài của X từ $37,88 lên $95,45.
+
+Hàm kỳ vọng gấp khúc ở Ví dụ 7.3 và mức cược $23,26 là một kết quả đẹp: cược nhỏ hơn nhiều so với pot lại tốt nhất cho tay bài mạnh, vì nó không cho draw cơ hội raise với giá rẻ. Ví dụ 7.4 thách thức trực tiếp một niềm tin phổ biến của người chơi.
 
 ### Những chỗ đơn giản hoá
 
@@ -739,3 +741,156 @@ Chương cho thấy rõ một cách làm có hệ thống: liệt kê phương �
 - **Người chơi poker:** đếm stack theo số lần cược pot trước khi quyết định. Cầm draw mạnh với stack vừa đủ thì tìm cách all-in; cầm tay bài đã thành trước draw thì cân nhắc cược nhỏ hoặc check để giữ "đạn" cho turn, thay vì cược pot mặc định.
 - **Người làm tài chính và đầu tư:** bài học "bên có lợi thế muốn giữ lại vốn cho vòng sau, bên có lợi thế tạm thời muốn khoá kết quả ngay" tương tự việc chọn thời điểm cam kết vốn theo giai đoạn (đầu tư mạo hiểm theo vòng): nhà đầu tư giữ quyền rót tiếp có thể "phạt" dự án thất bại bằng cách không rót, còn bên cần tiền muốn huy động hết sớm. Cách giải bằng cây quyết định và quy nạp ngược là công cụ chuẩn trong định giá quyền chọn thực (real options).
 - **Người ra quyết định nói chung:** khi chọn một hành động, hãy xác định trước phản ứng của mình với mỗi phản ứng của đối phương; nhiều phương án sẽ tự bị loại vì bị trội. Và đừng mặc định "dồn hết sức" là tốt nhất khi đang có lợi thế: mức cam kết tối ưu thường là mức làm đối phương không còn phản ứng có lợi.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (mở đầu và Ví dụ 7.1 stud bảy lá, Ví dụ 7.2 pot-limit cứng với ba độ sâu stack, Ví dụ 7.3 mức cược tối ưu trong pot-limit thật, Ví dụ 7.4 QQ đấu AK trong no-limit, phần kết và các ý then chốt), mỗi nhánh ghi phương pháp, công thức, nghiệm và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: khi bài lật ngửa, độ sâu stack vẫn làm cách chơi đúng trái trực giác`"]
+  n1["`Mục 1–2 — Chơi khai thác bước hai và Ví dụ 7.1 stud bảy lá`"]
+  n0 --- n1
+  n2["`Chơi khai thác gồm hai bước: đọc bài đối thủ, rồi chọn hành động có kỳ vọng cao nhất`"]
+  n1 --- n2
+  n3["`Kỳ vọng trước một phân phối bài là trung bình có trọng số kỳ vọng trước từng tay bài lật ngửa`"]
+  n1 --- n3
+  n4["`Đề: X có sảnh A-K-Q-J-T, Y có bốn lá bích và chỉ còn $120, pot $400, mức $30–$60`"]
+  n1 --- n4
+  n5["`p(X thắng) = 1 − [8/42 + (34/42)(8/41)] = 65,16%`"]
+  n4 --- n5
+  n6["`Năm phương án có ý định: check-fold, check-call, check-raise, bet-call, bet-fold`"]
+  n1 --- n6
+  n7["`Loại bet-fold (−$60) vì bet-call khi Y raise cho 0,6516 × $640 − $120 ≈ $297`"]
+  n6 --- n7
+  n8["`Loại check-fold ($0) vì check-raise cho ít nhất $297, hoặc $460 nếu Y fold`"]
+  n6 --- n8
+  n9["`Y check theo / call: check-call = check-raise ≈ $290,24, bet-call ≈ $308,43`"]
+  n6 --- n9
+  n10["`Kiểm tra lại: Y raise thì X chỉ còn ≈ $297, nên cách chơi là X bet, Y raise, X call`"]
+  n1 --- n10
+  n11["`Draw raise dù thua khoảng 2 ăn 1, vì đã all-in thì không bị cược thêm phạt ở vòng sau`"]
+  n10 --- n11
+  n12["`Y đủ pot odds chỉ cho lá thứ sáu (7,7 ăn 1 so với 4,25 ăn 1), nên đưa hết tiền vào ngay`"]
+  n10 --- n12
+  n13["`Draw mở: X thấy khi mình bị thua#59; với draw đóng X có thể vẫn phải trả tiền ở lá thứ sáu`"]
+  n10 --- n13
+  n14["`Mục 3 — Ví dụ 7.2 pot-limit cứng: A♥ A♦ đấu 8♣ 7♣ trên 9♣ 6♣ 2♦`"]
+  n0 --- n14
+  n15["`Pot-limit cứng chỉ cho cược đúng bằng pot#59; pot $100, X hành động trước`"]
+  n14 --- n15
+  n16["`Y có 15 outs, equity 1 − (30/45)(29/44) = 56,06%#59; X có $43,94 nếu lật bài ngay`"]
+  n14 --- n16
+  n17["`Stack $50: X check, Y bet, X call#59; X được $37,88, cược sau flop làm X mất $6,06`"]
+  n14 --- n17
+  n18["`X muốn check-check để bet turn ($54,55) nhưng Y bet để giới hạn X ở $37,88`"]
+  n17 --- n18
+  n19["`Stack $400: flop đi check-check, X được $65,15, lợi $21,21 so với equity`"]
+  n14 --- n19
+  n20["`X bet $100 thì Y raise all-in, X còn −$4,55#59; Y bet thì X call, X được $95,45`"]
+  n19 --- n20
+  n21["`Stack $1.300 (ba lần cược pot): X bet $100, Y call, X được $95,45, gấp 2,17 lần $43,94`"]
+  n14 --- n21
+  n22["`Không ai đặt cược thứ hai: X được $186,36 (sách in nhầm $346,21) là tệ nhất cho Y, ba cược cho X −$113,64`"]
+  n21 --- n22
+  n23["`Draw tốt muốn hết tiền vào sớm#59; tay bài đã thành chỉ đưa vào vừa đủ để còn tiền phạt draw ở vòng sau`"]
+  n14 --- n23
+  n24["`14 outs, ba lần cược pot: Y có 53,03% equity nhưng phải fold vì 14/44 = 31,8% #lt; 1/3`"]
+  n14 --- n24
+  n25["`Mục 4 — Ví dụ 7.3 pot-limit thật, stack $400: AA nên cược bao nhiêu`"]
+  n0 --- n25
+  n26["`Turn đã xác định: Y trúng thì hết cược, Y trượt thì X cược pot hoặc all-in và Y call`"]
+  n25 --- n26
+  n27["`Kỳ vọng của X theo x, số tiền mỗi người đưa vào ở flop, là hàm gấp khúc`"]
+  n25 --- n27
+  n28["`0 ≤ x ≤ 100: ⟨X⟩ = 10x/33 + $65,15, tăng tới đỉnh $95,45 tại x = $100`"]
+  n27 --- n28
+  n29["`100 ≤ x ≤ 400: ⟨X⟩ = −x/3 + $128,79, giảm tới −$4,55 tại x = $400`"]
+  n27 --- n29
+  n30["`Y chỉ chọn call hoặc raise tối đa lên tổng 3x + 100#59; cược $5 thì call cho $66,67, raise cho $90,46`"]
+  n25 --- n30
+  n31["`Cược tối ưu: 10x/33 + 65,15 = −(3x + 100)/3 + 128,79, nên x = $23,26`"]
+  n25 --- n31
+  n32["`X được ít nhất $72,20 dù Y làm gì, hơn check ($65,15) và cược pot (−$4,55)`"]
+  n31 --- n32
+  n33["`Stack sâu có lợi cho tay bài đã thành, trái quan niệm draw hưởng lợi nhờ implied odds`"]
+  n25 --- n33
+  n34["`Mục 5 — Ví dụ 7.4 no-limit: A♥ K♦ raise lên $300, Q♥ Q♣ all-in hay call`"]
+  n0 --- n34
+  n35["`QQ thắng 57,17% theo sách#59; AK ra đôi ở flop 33,6%, flop có A hoặc K không có Q khoảng 30%`"]
+  n34 --- n35
+  n36["`Call $200 rồi bên trúng flop all-in, bên kia fold: ⟨Y, call⟩ = 0,3 × (−$200) + 0,7 × $400 = $220`"]
+  n34 --- n36
+  n37["`Stack $800: all-in 0,5717 × $1.600 − $700 = $214,72, nên Y call (chính xác $216,14)`"]
+  n34 --- n37
+  n38["`Stack $1.800: all-in 0,5717 × $3.600 − $1.700 = $358,12, nên Y all-in ngay`"]
+  n34 --- n38
+  n39["`Stack càng sâu QQ càng muốn hết tiền vào#59; kết luận hơi giả tạo vì thực tế QQ phải sợ AA, KK`"]
+  n34 --- n39
+  n40["`Mục 6–7 — Phần kết và các ý then chốt`"]
+  n0 --- n40
+  n41["`Giả thuyết tay bài đã thành cược, draw call hoặc fold theo pot odds sai trong nhiều tình huống`"]
+  n40 --- n41
+  n42["`Pot-limit và limit: stack còn lại ảnh hưởng sâu sắc#59; no-limit: stack quyết định all-in hay call`"]
+  n40 --- n42
+  n43["`Với lần raise all-in cuối, draw nên hung hăng hơn mức pot odds đơn giản gợi ý`"]
+  n40 --- n43
+  n44["`Có lúc người có cửa thắng cao hơn phải fold trước cược của người có cửa thấp hơn`"]
+  n40 --- n44
+  n45["`Kỹ năng đọc bài vô dụng nếu không chơi chính xác khi bài đã lật ngửa`"]
+  n40 --- n45
+  n46["`Thông điệp xuyên suốt`"]
+  n0 --- n46
+  n47["`Liệt kê phương án có ý định, loại phương án bị trội, tính kỳ vọng theo phản ứng tốt nhất của đối thủ`"]
+  n46 --- n47
+  n48["`Đếm stack theo số lần cược pot: hai hay ba lần cược pot cho cách chơi rất khác nhau`"]
+  n46 --- n48
+  n49["`Draw tốt equity gần 50% muốn hết tiền vào ở flop, nếu không thì đưa vào càng ít càng tốt`"]
+  n46 --- n49
+  n50["`Tay bài đã thành giữ lại đủ một cược lớn cho vòng sau vì thu nhiều khi draw trượt`"]
+  n46 --- n50
+  n51["`Lời giải là quy nạp ngược và minimax: chọn mức cược làm hai phản ứng tốt nhất của đối thủ bằng nhau`"]
+  n46 --- n51
+  class n0 root
+  class n1,n14,n25,n34,n40,n46 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 7 "Playing Accurately, Part I: Cards Exposed Situations", trang 77–88.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần II "Chơi khai thác" (Exploitive Play) mô tả chơi khai thác là một quy trình hai bước. Bước một — đọc bài và chiến lược của đối thủ, tức là ước lượng phân phối bài của họ — được trình bày ở Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)), và Chương 6 ([C06-poker-truc-tuyen.md](C06-poker-truc-tuyen.md)) bàn về dữ liệu trực tuyến cho bước này. Chương 7 mở đầu bước hai: khi đã biết (hoặc đã ước lượng) bài của đối thủ, chọn hành động có kỳ vọng cao nhất. Để tách bước hai khỏi bước một, chương xét trường hợp đơn giản nhất: hai người chơi lật ngửa bài.
+
+Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) đã cho quy tắc cơ bản "tay bài đã thành (made hand) cược, tay bài đang chờ (draw) call hoặc fold theo pot odds"; Chương 7 chỉ ra những tình huống quy tắc này sai, chủ yếu vì độ sâu stack giới hạn số tiền có thể cược ở các vòng sau.
+
+Chương 8 ([C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md)) mở rộng sang một tay bài đấu với cả một phân phối bài, và Chương 9 ([C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) sang phân phối đấu với phân phối. Ý tưởng "draw tốt muốn đưa hết tiền vào sớm" và vai trò của độ sâu stack còn quay lại trong trò chơi jam-or-fold ở Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)) và trong việc chọn mức cược no-limit ở Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)).
+
+## Lưu ý
+
+- **Ví dụ 7.2, trường hợp 3, tiểu trường hợp c tính sai (lỗi đáng kể của sách):** sách viết ⟨X, hai cược ở flop⟩ = (15/45)(−$400) + (30/45)[($2.700)(29/44) − $1.300] = $346,21.
+
+  Tính đúng: (29/44)(2.700) − 1.300 = 1.779,55 − 1.300 = 479,55; nhân 30/45 được 319,70; cộng (15/45)(−400) = −133,33 được **$186,36**. Con số $346,21 của sách bằng −133,33 + 479,55, tức sách quên nhân 479,55 với xác suất 30/45.
+
+  Kiểm tra chéo từ phía Y: Y được (1/3)(500) + (2/3)[(15/44)(2.700) − 1.300] = 166,67 − 253,03 = −86,36, và X + Y phải bằng pot ban đầu $100: 186,36 + (−86,36) = 100. Kết luận của sách không đổi, vì $186,36 vẫn là kết quả tốt nhất cho X và tệ nhất cho Y trong bốn tiểu trường hợp.
+- **Ví dụ 7.2, trường hợp 2, công thức in sai:** sách viết ⟨X, check; Y check⟩ = (15/45)($0) + (30/45)[(29/44)($300 − $100)] = $65,15. Biểu thức như in cho (2/3)(29/44)(200) = $87,88. Công thức đúng là (30/45)[(29/44)($300) − $100] = (2/3)(197,73 − 100) = $65,15: ở turn X cược $100 vào pot $100, Y call, pot thành $300, X có 29/44 khả năng thắng $300 và đã bỏ ra $100.
+- **Ví dụ 7.2, phần chênh lệch nhỏ:** sách viết X được lợi "$65,15 − $43,94, tức $21,19"; hiệu đúng là $21,21. Sách viết tiểu trường hợp d là −$113,62 (do làm tròn 0,4394 × 2.700); chính xác là (870/1.980) × 2.700 − 1.300 = −$113,64. Sách nói giá trị tay bài của X "gần như gấp đôi" từ $43,94 lên $95,45; thực ra là gấp 2,17 lần, tức hơn gấp đôi.
+- **Ví dụ 7.1, hai lỗi in trong công thức bet-call:** dòng thứ hai viết (8/42)($60) thay vì (8/42)(−$60), và dòng thứ ba viết "1 − [8/42 − (8/41)(34/42)]" thay vì "1 − [8/42 + (8/41)(34/42)]". Kết quả $308,43 của sách đúng với công thức đúng: (8/42)(−60) + (8/41)(34/42)(−120) + (0,65157)(520) = −11,43 − 18,96 + 338,82 = 308,43.
+- **Ví dụ 7.3, lỗi in:** dòng đầu của công thức cho x ∈ [$100, $400] viết số hạng cuối là (15/44)(400) và dòng thứ hai viết (2/3 − 5/22)(400); số đúng là (2/3 − 5/22)($500) như dòng thứ ba và bảng kết quả. Dòng tóm tắt viết "⟨X, $100⟩ = $94,45" ở nhánh thứ hai; đúng là −100/3 + 128,79 = $95,45 (hai nhánh phải gặp nhau tại x = $100). Sách viết cược $5 làm tăng kỳ vọng "$1,50"; đúng là (10/33)(5) = $1,52 (từ $65,15 lên $66,67, như chính sách ghi).
+- **Ví dụ 7.4, "getting 3 to 2 on his money":** với stack $800, khi Y all-in thì X phải call thêm $500 để giành pot $1.100 ($300 của X + $800 của Y), tức tỷ lệ 2,2 ăn 1, không phải 3 ăn 2 (người tổng hợp tính). Tỷ lệ gần 3 ăn 2 (1,4 ăn 1: call $1.500 để giành $2.100) là của trường hợp stack $1.800; khi đó X cần 41,7% equity và có khoảng 42,8%, nên call nhưng rất sát.
+- **Ví dụ 7.4, xác suất 30% được làm tròn:** xác suất flop có A hoặc K mà không có Q là (C(46,3) − C(40,3)) / C(48,3) = (15.180 − 9.880) / 17.296 = 30,64%. Dùng số chính xác, ⟨Y, call⟩ = 0,3064 × (−200) + 0,6936 × 400 = $216,14 thay cho $220; vẫn lớn hơn $214,72 nên kết luận với stack $800 không đổi, nhưng chênh lệch chỉ còn khoảng $1,4. Câu "AK chỉ ra đôi khoảng một phần ba số lần ở flop" đúng: 1 − C(42,3)/C(48,3) = 33,6%.
+- **Ví dụ 7.4, equity 57,17% của QQ hơi cao:** người tổng hợp liệt kê đủ 1.712.304 bộ năm lá chung cho Q♥ Q♣ đấu A♥ K♦ và được QQ thắng 56,55%, hòa 0,42%, tức equity khoảng 56,76% (AK khoảng 43,24%, khớp câu "AK thắng khoảng 43%" của sách). Với 56,76%, ⟨Y, all-in⟩ là 0,5676 × 1.600 − 700 ≈ $208 (stack $800) và 0,5676 × 3.600 − 1.700 ≈ $343 (stack $1.800); so với ⟨Y, call⟩ khoảng $216–220, kết luận của sách ở cả hai độ sâu stack không đổi.
+- **Equity được làm tròn theo mô hình đơn giản hoá:** Ví dụ 7.2 và 7.3 bỏ qua trường hợp AA ra cù lũ hay 87 ra hai đôi nhờ hai lá cuối (runner-runner), nên Y có 1 − (30/45)(29/44) = 56,06%. Người tổng hợp liệt kê đủ 990 cặp turn–river và được equity chính xác của 8♣ 7♣ trước A♥ A♦ trên flop 9♣ 6♣ 2♦ là 56,26%; chênh lệch không ảnh hưởng tới lập luận. Ví dụ 7.2 ghi flop 9♣ 6♣ 2♦, Ví dụ 7.3 ghi 9♣ 6♣ 2♠; khác biệt không ảnh hưởng gì vì cả hai lá 2 đều không phải chuồn.
+- **Hình 7.1 (đồ thị kỳ vọng của X theo số tiền đưa vào ở flop):** trục hoành ghi "pot size" nhưng thực ra là x, số tiền mỗi người đưa vào ở flop; nhãn số trên trục hoành của bản PDF dựng lại bị lệch so với vạch chia (đỉnh gấp khúc trông như ở khoảng $150 trong khi theo công thức phải ở $100). Các giá trị đọc được khớp công thức: khoảng $65 tại x = 0, đỉnh khoảng $95 tại x = $100, khoảng −$5 tại x = $400.
+- **Lỗi chữ của bản PDF:** "Yearly Player Y will call" là "clearly"; "the receding case" là "the preceding case"; "the small snack case" là "small stack"; "the last bet hum the straight" là "from the straight"; "the Hop" là "the flop"; "mere" là "there"; "upshot of all tills" là "this"; "A simply gets" (tiểu trường hợp d) là "X simply gets".
+- **Quy ước tính kỳ vọng của sách:** mọi giá trị ⟨X, …⟩ là (phần pot X kỳ vọng nhận được) trừ (số tiền X bỏ thêm từ thời điểm đang xét), tức là coi pot hiện có như tài sản có thể giành được. Vì hai người chơi tổng hai phía luôn bằng pot ban đầu, Y tối đa hoá kỳ vọng của mình cũng chính là tối thiểu hoá kỳ vọng của X. Tiền tệ ghi theo sách (đô la Mỹ).

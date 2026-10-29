@@ -1,27 +1,33 @@
 # Chương 22 — Ở lại bàn chơi: rủi ro phá sản (Staying in Action: Risk of Ruin)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), trang mở Phần IV "Risk" (trang 291) và Chương 22 "Staying in Action: Risk of Ruin", trang 292–307 (Chương 23 bắt đầu ở nửa dưới trang 307).
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)) tới Chương 21 ([C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)), sách dùng kỳ vọng (expectation, EV) làm thước đo duy nhất của cách chơi đúng, với giả định nêu từ đầu rằng mọi người chơi có đủ bankroll (vốn dành riêng để chơi poker) nên chỉ cần tối đa hoá kỳ vọng. Chương 22 mở Phần IV "Rủi ro" và tạm bỏ giả định đó để hỏi: thế nào là đủ bankroll cho một trò chơi? Chương dựng mô hình rủi ro phá sản (risk of ruin, RoR), dùng các khái niệm phương sai và độ lệch chuẩn của Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) và Định lý Giới hạn Trung tâm. Chương 23 ([C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)) ghép công thức rủi ro phá sản cho phân phối chuẩn của chương này với sự bất định về tỷ lệ thắng thật (dùng phương pháp ước lượng tham số của Chương 3, [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)); Chương 24 ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)) bỏ giả định "chơi một trò chơi cố định mãi mãi" để bàn tiêu chuẩn Kelly và việc chọn mức cược; Chương 25 ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)) đưa nhiều trò chơi vào một danh mục và bàn thoả thuận tài trợ (backing). Phần V ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) quay lại giải đấu, nơi tính lệch phải của phân phối kết quả mà chương này nêu là trung tâm.
-**Ý chính:** **Với một trò chơi có kỳ vọng dương được chơi lặp lại vô hạn lần và mọi tiền thắng được giữ lại trong bankroll, xác suất mất hết bankroll ban đầu b có dạng mũ R(b) = e^(−αb), trong đó hằng số rủi ro phá sản α > 0 là nghiệm khác 0 duy nhất của phương trình ⟨e^(−αx)⟩ = 1 (kỳ vọng lấy theo phân phối kết quả X của một lần chơi); khi kết quả có phân phối chuẩn với trung bình μ và độ lệch chuẩn σ, α = 2μ/σ², nên R(b) = exp(−2μb/σ²).** Mô hình giả định chơi lặp lại một trò chơi cố định, các lần chơi độc lập, bankroll ban đầu b thay đổi theo kết quả mỗi lần, và chơi mãi cho tới khi bankroll về 0. Sáu tính chất được nêu: không có kết quả âm thì R = 0; kỳ vọng âm thì R = 1; có kết quả âm thì R > 0; kỳ vọng dương và khoản thua bị chặn thì R < 1; R(a + b) = R(a)R(b) (phương trình 22.1) vì mất bankroll a + b nghĩa là mất lần lượt hai bankroll độc lập; và R(B) bằng kỳ vọng của R(B + x) sau một lần chơi. Tính chất 5 cho thấy ln R là hàm tuyến tính, nên R(b) = e^(−αb); tính chất 6 cho phương trình 22.2 ⟨e^(−αx)⟩ = 1 để tìm α trực tiếp từ phân phối kết quả. Ví dụ 22.1–22.2 là trò tung xúc xắc thắng 1 đơn vị với xác suất 2/3, thua 1 đơn vị với xác suất 1/3: R(1) = 1/2, α = ln 2. Ví dụ 22.3 là người chơi giải sit-and-go $200+15 có kỳ vọng $35 mỗi giải: sách cho α ≈ 0,000632 và bảng rủi ro từ 72,9% (bankroll $500) tới 0,2% ($10.000); người tổng hợp tính lại được α ≈ 0,000606 nên mọi rủi ro trong bảng cao hơn một chút (ví dụ 54,6% thay vì 53,2% với $1.000). Mục "Lời cảnh báo" nhấn mạnh: nếu đều đặn rút mọi khoản lãi vượt một mức bankroll cố định thì rủi ro phá sản là 100%. Mục "Nửa bankroll" (half-bankroll) định nghĩa bankroll có rủi ro phá sản đúng 1/2, bằng ln 2/α; k nửa bankroll có rủi ro (1/2)^k. Mục phân phối chuẩn dẫn công thức 22.4 bằng phép hoàn thành bình phương, rồi so công thức chuẩn với lời giải trực tiếp cho ba loại phân phối: giải đấu "người thắng lấy hết" 100 người với người chơi thắng 2% số giải (công thức chuẩn cho 36,2% với 100 buy-in, lời giải trực tiếp 18,6% theo sách, 19,9% theo người tổng hợp) — sai lệch lớn do độ lệch dương (skew); phân phối ván bài limit (32,89% so với 32,17% với 300 small bet) — sai lệch nhỏ; và phân phối no-limit đơn giản hoá có đuôi dày (9,19% so với 9,12% với 500 big blind) — sai lệch nhỏ. Kết luận: dùng công thức chuẩn cho cash game limit và no-limit, giải trực tiếp phương trình 22.2 cho giải đấu.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phạm vi trang:** trang 291 là trang mở Phần IV (chỉ có câu đề từ của Shakespeare); Chương 22 chiếm trang 292–307, trong đó trang 307 chứa nửa cuối "Key Concepts" của Chương 22 và phần đầu Chương 23. Phần đầu Chương 23 trên trang 307 được tổng hợp trong file của Chương 23.
-> - **Sai dấu cộng ở Ví dụ 22.1 (trang 294):** sách viết "We know from Property 5 above that R(a + b) = R(a) + R(b)"; đúng phải là tích R(a + b) = R(a)R(b), như chính phương trình 22.1 và như dòng tiếp theo R(2) = R(1)R(1).
-> - **Sai dấu ở định nghĩa α (trang 295):** sách viết "α is actually equal to the natural logarithm of the risk of ruin of a bankroll of 1 unit" và "a = ln(R(1))". Vì R(x) = e^(−αx), ta có α = −ln R(1). Với Ví dụ 22.1, R(1) = 1/2 nên α = −ln(1/2) = ln 2 ≈ 0,693 > 0, khớp với chính kết luận "α = ln 2" của sách. Câu "This causes α to be positive" trong sách bị đặt sai chỗ (đứng trước lời giải thích về dấu âm quy ước).
-> - **Sai dấu ở đạo hàm bậc hai (trang 297):** sách viết g″(α) = ⟨−x²e^(−αx)⟩ rồi nói "giá trị này luôn dương". Đạo hàm đúng là g″(α) = ⟨x²e^(−αx)⟩, và chính nó mới luôn dương (x² ≥ 0, e^(−αx) > 0). Cũng ở đó, sách viết "g(0) then = ⟨−x⟩", đúng phải là g′(0) = ⟨−x⟩ (g(0) = 1).
-> - **Tham chiếu sai phương trình:** ở Ví dụ 22.3 (trang 299), ở ví dụ limit (trang 305) và ví dụ no-limit (trang 306), sách viết "set up / solving Equation 22.1"; phương trình được giải thực ra là phương trình 22.2 ⟨e^(−αx)⟩ = 1 (phương trình 22.1 là R(a + b) = R(a)R(b)).
-> - **Ví dụ 22.3: hằng số α của sách không thoả phương trình (người tổng hợp tính lại bằng phương pháp chia đôi):** với α = 0,000632, vế trái 0,12e^(−785α) + 0,13e^(−385α) + 0,13e^(−185α) + 0,62e^(215α) bằng 1,00088, không bằng 1. Nghiệm đúng là α ≈ 0,000606 (vế trái lệch khỏi 1 dưới 0,00002). Bảng rủi ro của sách được tính đúng từ α = 0,000632 của sách, nhưng với α đúng, rủi ro là: $500: 73,9% (sách 72,9%); $1.000: 54,6% (53,2%); $2.000: 29,8% (28,3%); $3.000: 16,3% (15,0%); $4.000: 8,9% (8,0%); $5.000: 4,8% (4,3%); $7.500: 1,1% (0,9%); $10.000: 0,2% (0,2%).
-> - **Nửa bankroll của Ví dụ 22.3 (trang 300):** sách viết "a was about 0.00632" — thiếu một chữ số 0 sau dấu thập phân; giá trị đã dùng ở trang 299 là 0,000632. Với 0,000632, nửa bankroll là ln 2 / 0,000632 ≈ $1.097, khớp với "khoảng $1.100" của sách; với α đúng 0,000606, nửa bankroll là ≈ $1.144.
-> - **Ví dụ giải đấu 100 người (trang 304):** (1) Sách cho σ = 14,036 buy-in và R(b) = e^(−2b/197), tức dùng σ² = 197. Phương sai đúng của kết quả (+99 với xác suất 0,02, −1 với xác suất 0,98) là 0,02 × 99² + 0,98 × 1² − 1² = 196,02 + 0,98 − 1 = 196, nên σ = 14,0; con số 197 là mômen bậc hai ⟨x²⟩ chưa trừ bình phương trung bình. Công thức chuẩn đúng cho R(100) = e^(−200/196) ≈ 36,0% (sách 36,2%). (2) Nghiệm trực tiếp của (1/50)e^(−99α) + (49/50)e^(α) = 1 là α ≈ 0,01615, không phải 0,01683 (với 0,01683 vế trái bằng khoảng 1,0004); do đó R(100) = e^(−1,615) ≈ 19,9%, không phải 18,6%. Kết luận định tính của sách (công thức chuẩn phóng đại rủi ro gần gấp đôi) vẫn đúng.
-> - **Câu văn ngược với số liệu ở ví dụ no-limit (trang 306):** sách viết "the normal distribution understates the risk of ruin", nhưng ngay sau đó công thức chuẩn cho 9,19% còn lời giải trực tiếp cho 9,12%, và sách tự kết luận "rủi ro thấp hơn khi tính trực tiếp". Vậy công thức chuẩn *phóng đại nhẹ* (overstates), không phải đánh giá thấp. Người tổng hợp tính lại: α = 0,0047886 và R(500) = 9,12%, khớp sách.
-> - **Làm tròn nhỏ trong bảng phân phối limit (trang 304–305):** cột "đóng góp có trọng số" (kết quả × xác suất) có vài ô lệch ở chữ số cuối so với tích của hai cột kia: −2 × 8,14% = −0,1628 (sách −0,1627); −4 × 4,41% = −0,1764 (−0,1763); −6 × 2,03% = −0,1218 (−0,1220); −8 × 1,01% = −0,0808 (−0,0814); +16 × 0,94% = 0,1504 (0,15); +32 × 0,31% = 0,0992 (0,1). Có lẽ tác giả làm tròn xác suất từ các số chính xác hơn. Tổng vẫn ≈ 0,0201 SB/ván; phương sai tính lại 10,78 SB² (sách 10,80); α trực tiếp ≈ 0,003787 (sách 0,00378), R(300) ≈ 32,1% (sách 32,17%). Tương tự, "phương sai 50,27 BB²" của ví dụ no-limit thực ra là ⟨x²⟩ = 50,28; phương sai đúng là 50,28 − 0,12² = 50,27 — trùng khi làm tròn.
-> - **Xác suất ở Tính chất 3 (trang 293):** ảnh trang ghi xác suất thua liên tiếp là p^(B/v) (p mũ B/v); lớp chữ làm phẳng thành "pB/v". Nói chặt, cần thua ⌈B/v⌉ lần liên tiếp (làm tròn lên) nếu B/v không nguyên (nhận xét của người tổng hợp).
-> - **Phương trình 22.3 bị hỏng trong lớp chữ và ảnh (trang 301):** bản PDF hiển thị "¿v(x)≥∫ p(x)v(x)dx"; đây là lỗi chuyển ký hiệu ngoặc nhọn kỳ vọng. Nội dung đúng là ⟨v(x)⟩ = ∫ p(x)v(x)dx (kỳ vọng của hàm giá trị bằng tích phân của hàm mật độ nhân hàm giá trị). Tương tự, phép biến đổi ở trang 301 viết "x² − 2xμ + 2ασ² + μ²" thiếu biến x (đúng: x² − 2xμ + 2ασ²x + μ²), và dòng sau phép hoàn thành bình phương ở trang 302 bị vỡ ký hiệu; bản tổng hợp chép lại phép dẫn đúng.
-> - **Ký hiệu α và a:** sách dùng lẫn chữ Hy Lạp α và chữ La-tinh a cho cùng hằng số rủi ro phá sản (do chuyển đổi phông chữ); bản tổng hợp dùng α thống nhất. Sách nhắc rằng α này khác α của Chương 11 (tỷ lệ bluff so với value bet).
-> - **Lỗi chính tả và OCR:** "if the the comes up 1 or 2" (thừa "the", thiếu "die"), "Remming to Equation 22.1" ("Returning"), "risk of rum/rain" ("ruin"), "one dial at a time" ("trial"), "motley" ("money"), "half-fives" ("half-lives"), "Part TV" ("Part IV"), "flayer" ("player"), "play very rightly in big pots" ("tightly"), và hằng số e "xấp xỉ 2.71" (chính xác hơn 2,718).
-> - **Ví dụ 22.1 có điểm dừng thắng (nhận xét của người tổng hợp):** sách gợi ý thử nghiệm bằng cách chơi tới khi mất $100 hoặc thắng tới $1.000. Với điểm dừng 10 đơn vị, xác suất phá sản theo công thức "gambler's ruin" là (r − r¹⁰)/(1 − r¹⁰) với r = (1/3)/(2/3) = 1/2, tức 0,4995 — rất sát 1/2, nên thử nghiệm đó đúng là hội tụ về gần 1/2.
-> - **Quy ước thuật ngữ:** "bankroll" giữ nguyên tiếng Anh (vốn dành riêng để chơi poker); "risk of ruin" dịch là "rủi ro phá sản"; "half-bankroll" dịch là "nửa bankroll"; "skew" dịch là "độ lệch" (hệ số bất đối xứng), "kurtosis" là "độ nhọn"; "buyin" (phí tham gia giải) viết "buy-in"; SB là small bet (mức cược nhỏ trong limit), BB là big blind.
+**Với một trò chơi có kỳ vọng dương được chơi lặp lại vô hạn lần và mọi tiền thắng được giữ lại trong bankroll, xác suất mất hết bankroll ban đầu b có dạng mũ R(b) = e^(−αb), trong đó hằng số rủi ro phá sản α > 0 là nghiệm khác 0 duy nhất của phương trình ⟨e^(−αx)⟩ = 1 (kỳ vọng lấy theo phân phối kết quả X của một lần chơi); khi kết quả có phân phối chuẩn với trung bình μ và độ lệch chuẩn σ, α = 2μ/σ², nên R(b) = exp(−2μb/σ²).**
+
+Mô hình giả định chơi lặp lại một trò chơi cố định, các lần chơi độc lập, bankroll ban đầu b thay đổi theo kết quả mỗi lần, và chơi mãi cho tới khi bankroll về 0. Sáu tính chất được nêu:
+
+- không có kết quả âm thì R = 0;
+- kỳ vọng âm thì R = 1;
+- có kết quả âm thì R > 0;
+- kỳ vọng dương và khoản thua bị chặn thì R < 1;
+- R(a + b) = R(a)R(b) (phương trình 22.1) vì mất bankroll a + b nghĩa là mất lần lượt hai bankroll độc lập;
+- và R(B) bằng kỳ vọng của R(B + x) sau một lần chơi.
+
+Tính chất 5 cho thấy ln R là hàm tuyến tính, nên R(b) = e^(−αb). Tính chất 6 cho phương trình 22.2 ⟨e^(−αx)⟩ = 1 để tìm α trực tiếp từ phân phối kết quả.
+
+Ví dụ 22.1–22.2 là trò tung xúc xắc thắng 1 đơn vị với xác suất 2/3, thua 1 đơn vị với xác suất 1/3: R(1) = 1/2, α = ln 2.
+
+Ví dụ 22.3 là người chơi giải sit-and-go $200+15 có kỳ vọng $35 mỗi giải: sách cho α ≈ 0,000632 và bảng rủi ro từ 72,9% (bankroll $500) tới 0,2% ($10.000); người tổng hợp tính lại được α ≈ 0,000606 nên mọi rủi ro trong bảng cao hơn một chút (ví dụ 54,6% thay vì 53,2% với $1.000).
+
+Mục "Lời cảnh báo" nhấn mạnh: nếu đều đặn rút mọi khoản lãi vượt một mức bankroll cố định thì rủi ro phá sản là 100%. Mục "Nửa bankroll" (half-bankroll) định nghĩa bankroll có rủi ro phá sản đúng 1/2, bằng ln 2/α; k nửa bankroll có rủi ro (1/2)^k.
+
+Mục phân phối chuẩn dẫn công thức 22.4 bằng phép hoàn thành bình phương, rồi so công thức chuẩn với lời giải trực tiếp cho ba loại phân phối:
+
+- giải đấu "người thắng lấy hết" 100 người với người chơi thắng 2% số giải (công thức chuẩn cho 36,2% với 100 buy-in, lời giải trực tiếp 18,6% theo sách, 19,9% theo người tổng hợp) — sai lệch lớn do độ lệch dương (skew);
+- phân phối ván bài limit (32,89% so với 32,17% với 300 small bet) — sai lệch nhỏ;
+- và phân phối no-limit đơn giản hoá có đuôi dày (9,19% so với 9,12% với 500 big blind) — sai lệch nhỏ.
+
+Kết luận: dùng công thức chuẩn cho cash game limit và no-limit, giải trực tiếp phương trình 22.2 cho giải đấu.
 
 ## Sơ đồ
 
@@ -384,7 +390,9 @@ Với các giả định này, sau vô hạn lần chơi chỉ có hai khả nă
 
 **Tính chất 2.** Nếu trò chơi có kỳ vọng âm thì R(b) = 1 với mọi b. Lý do là trò chơi được chơi mãi: khi kỳ vọng âm, khoản thua kỳ vọng tăng không giới hạn khi số lần chơi tiến ra vô cùng. Ngược lại, khi kỳ vọng dương, khoản thắng tăng không giới hạn, trừ trường hợp ta mất hết bankroll trước. (Người tổng hợp bổ sung: trò chơi có kỳ vọng đúng bằng 0 nhưng có kết quả âm cũng có R(b) = 1, vì bước ngẫu nhiên có trung bình 0 sớm muộn sẽ chạm mọi mức.)
 
-**Tính chất 3.** Nếu trò chơi có bất kỳ kết quả âm nào trong X thì R(b) > 0 với mọi b. Giả sử một kết quả âm X_L có xác suất p và giá trị (độ lớn khoản thua) v. Với bankroll B, ta có thể mất hết ngay nếu X_L xảy ra B/v lần liên tiếp; xác suất của chuỗi đó là p^(B/v). Xác suất này có thể cực nhỏ, nhưng chỉ cần có kết quả âm thì nó dương, nên R(b) > 0. Ví dụ của người tổng hợp: trò xúc xắc có p = 1/3, v = 1 đơn vị; với B = 10 đơn vị, xác suất thua 10 lần liên tiếp là (1/3)¹⁰ ≈ 0,0000169 — nhỏ nhưng dương (rủi ro phá sản thật với B = 10 là (1/2)¹⁰ ≈ 0,001, lớn hơn nhiều vì còn vô số đường đi khác dẫn tới phá sản).
+**Tính chất 3.** Nếu trò chơi có bất kỳ kết quả âm nào trong X thì R(b) > 0 với mọi b. Giả sử một kết quả âm X_L có xác suất p và giá trị (độ lớn khoản thua) v. Với bankroll B, ta có thể mất hết ngay nếu X_L xảy ra B/v lần liên tiếp; xác suất của chuỗi đó là p^(B/v). Xác suất này có thể cực nhỏ, nhưng chỉ cần có kết quả âm thì nó dương, nên R(b) > 0.
+
+Ví dụ của người tổng hợp: trò xúc xắc có p = 1/3, v = 1 đơn vị; với B = 10 đơn vị, xác suất thua 10 lần liên tiếp là (1/3)¹⁰ ≈ 0,0000169 — nhỏ nhưng dương (rủi ro phá sản thật với B = 10 là (1/2)¹⁰ ≈ 0,001, lớn hơn nhiều vì còn vô số đường đi khác dẫn tới phá sản).
 
 **Tính chất 4.** Nếu trò chơi có kỳ vọng dương và các khoản thua bị chặn thì R(b) < 1 với mọi b. Chứng minh phác thảo của sách: gọi X_n là dãy các lần chơi độc lập và định nghĩa kết quả tích luỹ
 
@@ -398,7 +406,9 @@ $$R(a + b) = R(a)R(b) \qquad (22.1)$$
 
 Tính chất này là nền tảng để dẫn ra hàm rủi ro phá sản. Giả sử có bankroll $500 với một rủi ro phá sản nào đó; xác suất phá sản với $1.000 là bao nhiêu? Sau khi mất $500 đầu tiên (xảy ra với một xác suất xác định), ta có một bankroll $500 khác để chơi tiếp. Vì việc mất hai bankroll là hai biến cố độc lập, xác suất mất cả hai bankroll $500 (tương đương mất một bankroll $1.000) đơn giản là bình phương xác suất mất một bankroll $500.
 
-Có vài vấn đề định nghĩa với phát biểu này. Chẳng hạn, trò chơi là một ván cược $100 mà ta chỉ có $50: theo một nghĩa, ta đã "phá sản" rồi. Nhưng tác giả quy ước rằng, về mặt rủi ro phá sản, vì có thể ghép hai bankroll $50 thành $100 để chơi, nên $50 có rủi ro phá sản thấp hơn $0. Trong poker, phân biệt này thực tế không bao giờ xuất hiện, nên được bỏ qua. (Nhận xét của người tổng hợp: tính chất 5 đúng chính xác khi bankroll chạm đúng mức 0, chẳng hạn khi mọi khoản thua là 1 đơn vị; khi một lần thua có thể "vượt quá" mức còn lại, phá sản ở mức a không để lại đúng bankroll b, và R(b) = e^(−αb) khi đó là một xấp xỉ — thực chất là cận trên — của rủi ro thật.)
+Có vài vấn đề định nghĩa với phát biểu này. Chẳng hạn, trò chơi là một ván cược $100 mà ta chỉ có $50: theo một nghĩa, ta đã "phá sản" rồi. Nhưng tác giả quy ước rằng, về mặt rủi ro phá sản, vì có thể ghép hai bankroll $50 thành $100 để chơi, nên $50 có rủi ro phá sản thấp hơn $0.
+
+Trong poker, phân biệt này thực tế không bao giờ xuất hiện, nên được bỏ qua. (Nhận xét của người tổng hợp: tính chất 5 đúng chính xác khi bankroll chạm đúng mức 0, chẳng hạn khi mọi khoản thua là 1 đơn vị; khi một lần thua có thể "vượt quá" mức còn lại, phá sản ở mức a không để lại đúng bankroll b, và R(b) = e^(−αb) khi đó là một xấp xỉ — thực chất là cận trên — của rủi ro thật.)
 
 ### 4. Ví dụ 22.1 — trò xúc xắc (Example 22.1, trang 293–294)
 
@@ -408,13 +418,13 @@ Ta tung một con xúc xắc: ra 1 hoặc 2 thì thua $100; ra 3 tới 6 thì th
 
 $$R(1) = \tfrac{1}{3} + \tfrac{2}{3}R(2).$$
 
-Theo tính chất 5 (sách in nhầm thành tổng R(a) + R(b), xem Lưu ý), R(2) = R(1)R(1). Thay vào và giải:
+Theo tính chất 5 (sách in nhầm thành tổng R(a) + R(b), xem mục Lưu ý cuối chương), R(2) = R(1)R(1). Thay vào và giải:
 
 $$R(1) = \tfrac{1}{3} + \tfrac{2}{3}R(1)^2 \;\Rightarrow\; 2R^2 - 3R + 1 = 0 \;\Rightarrow\; (2R - 1)(R - 1) = 0.$$
 
 (Nhân hai vế với 3: 3R = 1 + 2R², chuyển vế được 2R² − 3R + 1 = 0.) Phương trình cho hai giá trị khả dĩ là 1/2 và 1. Trò chơi có kỳ vọng dương nên theo tính chất 4 rủi ro phá sản phải nhỏ hơn 1. Vậy R(1) = 1/2.
 
-Người đọc có thể kiểm chứng bằng thử nghiệm: tung xúc xắc và chơi tới khi mất $100 ban đầu hoặc thắng tới $1.000; lặp lại đủ nhiều lần, tỷ lệ phá sản sẽ hội tụ về 1/2. (Như Lưu ý đã tính, với điểm dừng $1.000, xác suất phá sản chính xác là 0,4995.)
+Người đọc có thể kiểm chứng bằng thử nghiệm: tung xúc xắc và chơi tới khi mất $100 ban đầu hoặc thắng tới $1.000; lặp lại đủ nhiều lần, tỷ lệ phá sản sẽ hội tụ về 1/2. (Như mục Lưu ý cuối chương đã tính, với điểm dừng $1.000, xác suất phá sản chính xác là 0,4995.)
 
 ### 5. Dạng mũ của hàm rủi ro phá sản (trang 294–295)
 
@@ -428,7 +438,7 @@ $$\ln R(a + b) = \ln R(a) + \ln R(b).$$
 - f(2 + 1) = f(2) + f(1), tức f(3) = 3f(1);
 - tổng quát f(n) = n·f(1).
 
-Vậy f có dạng f(x) = −αx với α là một hằng số. (Không nhầm với α của phương trình 11.1, tỷ lệ bluff trên value bet.) Rủi ro phá sản của mọi trò chơi có dạng này, và α được gọi là **hằng số rủi ro phá sản** (risk of ruin constant). Vì R(x) nằm giữa 0 và 1 với mọi x, ln R(x) âm, nên quy ước đặt dấu âm phía trước để α dương; nói cách khác α = −ln R(1) (sách in thiếu dấu trừ, xem Lưu ý).
+Vậy f có dạng f(x) = −αx với α là một hằng số. (Không nhầm với α của phương trình 11.1, tỷ lệ bluff trên value bet.) Rủi ro phá sản của mọi trò chơi có dạng này, và α được gọi là **hằng số rủi ro phá sản** (risk of ruin constant). Vì R(x) nằm giữa 0 và 1 với mọi x, ln R(x) âm, nên quy ước đặt dấu âm phía trước để α dương; nói cách khác α = −ln R(1) (sách in thiếu dấu trừ, xem mục Lưu ý cuối chương).
 
 α cho biết một đơn vị bankroll "đáng giá" bao nhiêu về mặt rủi ro phá sản. Có một đơn vị bankroll thì rủi ro phá sản là e^(−α) (e là hằng số toán học xấp xỉ 2,718, xuất hiện nhiều trong Phần IV; sách viết exp(x) và eˣ thay cho nhau). Có hai đơn vị thì rủi ro là e^(−α) nhân e^(−α), tức e^(−2α). Có N đơn vị thì rủi ro là e^(−Nα). Tóm lại:
 
@@ -474,7 +484,7 @@ Tác giả xét hàm g(α) = ⟨e^(−αx)⟩ cho một trò chơi kỳ vọng d
 
 1. g(0) = 1.
 2. Đạo hàm theo α: g′(α) = ⟨−x e^(−αx)⟩, nên g′(0) = ⟨−x⟩ = −⟨x⟩. Vì trò chơi có kỳ vọng dương, g′(0) luôn âm: tại 0, g bằng 1 và đang đi xuống.
-3. Đạo hàm bậc hai: g″(α) = ⟨x² e^(−αx)⟩, luôn dương (sách in nhầm dấu trừ, xem Lưu ý). Vậy g lồi.
+3. Đạo hàm bậc hai: g″(α) = ⟨x² e^(−αx)⟩, luôn dương (sách in nhầm dấu trừ, xem mục Lưu ý cuối chương). Vậy g lồi.
 4. Nếu X có kết quả âm, g(α) tiến ra vô cùng khi α tiến ra vô cùng, vì các số hạng ứng với kết quả dương tiến về 0 còn các số hạng ứng với kết quả âm tăng không giới hạn.
 
 Gộp lại: đồ thị của g bắt đầu ở 1, đi xuống nhưng cong lên (lồi), rồi tăng không giới hạn khi α tiến ra vô cùng. Do đó phương trình 22.2 có một nghiệm α > 0 và nghiệm đó duy nhất. Điều này loại bỏ khó khăn tiềm ẩn nếu có nhiều giá trị α cùng thoả phương trình 22.2: hễ tìm được một nghiệm khác 0 thì đó là giá trị đúng.
@@ -509,7 +519,7 @@ Rủi ro phá sản của anh ta với các mức bankroll khác nhau là bao nh
 
 $$0{,}12e^{-785\alpha} + 0{,}13e^{-385\alpha} + 0{,}13e^{-185\alpha} + 0{,}62e^{215\alpha} = 1.$$
 
-Phương trình này không dễ giải bằng tay, nhưng nhiều công cụ như Microsoft Excel có chức năng "solver" hội tụ về nghiệm. Sách cho α ≈ 0,000632 và R(b) = exp(−0,000632b). Người tổng hợp giải lại bằng phương pháp chia đôi và được α ≈ 0,000606 (xem Lưu ý). Bảng dưới chép số của sách và thêm cột tính lại:
+Phương trình này không dễ giải bằng tay, nhưng nhiều công cụ như Microsoft Excel có chức năng "solver" hội tụ về nghiệm. Sách cho α ≈ 0,000632 và R(b) = exp(−0,000632b). Người tổng hợp giải lại bằng phương pháp chia đôi và được α ≈ 0,000606 (xem mục Lưu ý cuối chương). Bảng dưới chép số của sách và thêm cột tính lại:
 
 | Bankroll | Rủi ro phá sản (sách, α = 0,000632) | Rủi ro phá sản (tính lại, α = 0,000606) |
 |---:|---:|---:|
@@ -622,7 +632,7 @@ Phân phối chuẩn có độ lệch bằng 0 vì đối xứng quanh trung bì
 
 Phân phối lệch nhiều gây khó cho phương pháp xấp xỉ chuẩn. Tác giả tính rủi ro phá sản của giải này theo hai cách. Vì rủi ro phá sản chỉ có ý nghĩa với trò chơi kỳ vọng dương, xét người chơi có lợi thế trọn một buy-in: thắng 2% số giải tham gia. Khi đó kỳ vọng = 0,02 × 99 − 0,98 × 1 = +1 buy-in/giải.
 
-**Cách 1 — xấp xỉ chuẩn.** Sách cho: w = 1 buy-in/giải, σ = 14,036 buy-in/giải, R(b) = e^(−2b/197); với bankroll 100 buy-in, rủi ro phá sản khoảng 36,2%. (Người tổng hợp tính lại: phương sai đúng là 196, σ = 14,0, R(100) = e^(−200/196) ≈ 36,0%; xem Lưu ý.)
+**Cách 1 — xấp xỉ chuẩn.** Sách cho: w = 1 buy-in/giải, σ = 14,036 buy-in/giải, R(b) = e^(−2b/197); với bankroll 100 buy-in, rủi ro phá sản khoảng 36,2%. (Người tổng hợp tính lại: phương sai đúng là 196, σ = 14,0, R(100) = e^(−200/196) ≈ 36,0%; xem mục Lưu ý cuối chương.)
 
 **Cách 2 — giải trực tiếp α.** Phương trình 22.2:
 
@@ -675,7 +685,9 @@ Tóm lại tới đây: với giải đấu, đặc điểm chính là lệch ph
 
 ### 14. Cash game no-limit và độ nhọn; bảng tổng kết (trang 305–306)
 
-Loại phân phối thứ ba phổ biến và ngày càng thịnh hành là phân phối của cash game no-limit. Ở đây có những khoản thắng lớn từ các ván cả stack vào pot và ta thắng, nhưng cũng có những khoản thua lớn khi mất cả stack. Do đó công thức chuẩn lại là một xấp xỉ bị lệch. Đặc điểm quan trọng nhất ở đây là **độ nhọn** (kurtosis): xu hướng đuôi phân phối "dày", tức các kết quả xa trung bình xảy ra thường hơn phân phối chuẩn cho thấy. Chẳng hạn, với phân phối chuẩn, biến cố cách trung bình hơn ba độ lệch chuẩn chỉ xảy ra khoảng 0,3% thời gian; trong no-limit, các biến cố cách xa vài độ lệch chuẩn xảy ra thường hơn. Tuy nhiên, hoá ra hiệu ứng này ảnh hưởng khá ít tới rủi ro phá sản với hầu hết phân phối. Xét phân phối rất đơn giản hoá sau:
+Loại phân phối thứ ba phổ biến và ngày càng thịnh hành là phân phối của cash game no-limit. Ở đây có những khoản thắng lớn từ các ván cả stack vào pot và ta thắng, nhưng cũng có những khoản thua lớn khi mất cả stack. Do đó công thức chuẩn lại là một xấp xỉ bị lệch.
+
+Đặc điểm quan trọng nhất ở đây là **độ nhọn** (kurtosis): xu hướng đuôi phân phối "dày", tức các kết quả xa trung bình xảy ra thường hơn phân phối chuẩn cho thấy. Chẳng hạn, với phân phối chuẩn, biến cố cách trung bình hơn ba độ lệch chuẩn chỉ xảy ra khoảng 0,3% thời gian; trong no-limit, các biến cố cách xa vài độ lệch chuẩn xảy ra thường hơn. Tuy nhiên, hoá ra hiệu ứng này ảnh hưởng khá ít tới rủi ro phá sản với hầu hết phân phối. Xét phân phối rất đơn giản hoá sau:
 
 | Kết quả (big blind) | Xác suất | Đóng góp có trọng số |
 |---:|---:|---:|
@@ -692,7 +704,7 @@ $$R(500) = e^{-2(0{,}12)(500)/50{,}27} = e^{-2{,}387} = 9{,}19\%.$$
 
 Giải phương trình 22.2 cho phân phối này (0,70 + 0,15e^(−α) + 0,13e^(α) + 0,011e^(−50α) + 0,009e^(50α) = 1), được α = 0,004789; rủi ro tương ứng e^(−0,004789 × 500) = 9,12%. (Người tổng hợp tính lại: α = 0,0047886, R = 9,12%; độ nhọn của phân phối ≈ 49, so với 3 của phân phối chuẩn; độ lệch ≈ +0,65.)
 
-Vậy với phân phối này độ nhọn ảnh hưởng rất ít; thực ra rủi ro tính trực tiếp còn thấp hơn rủi ro theo phân phối chuẩn (sách viết nhầm "phân phối chuẩn đánh giá thấp rủi ro", xem Lưu ý). Từ phép tính này và các phép tính khác, tác giả cho rằng phân phối chuẩn là xấp xỉ có sai số chấp nhận được cho cả cash game no-limit.
+Vậy với phân phối này độ nhọn ảnh hưởng rất ít; thực ra rủi ro tính trực tiếp còn thấp hơn rủi ro theo phân phối chuẩn (sách viết nhầm "phân phối chuẩn đánh giá thấp rủi ro", xem mục Lưu ý cuối chương). Từ phép tính này và các phép tính khác, tác giả cho rằng phân phối chuẩn là xấp xỉ có sai số chấp nhận được cho cả cash game no-limit.
 
 Tuy nhiên, kết quả cash game no-limit cũng có thể lệch phải như giải đấu, nhất là với người chơi rất chặt chẽ (tight) trong các pot lớn. Nếu do phong cách chơi, một người thua nhiều pot nhỏ nhưng thắng phần lớn các pot lớn mình tham gia, độ nhọn ảnh hưởng ít nhưng độ lệch sẽ khiến công thức chuẩn phóng đại khả năng phá sản.
 
@@ -880,3 +892,176 @@ Chương dẫn ra công thức rủi ro phá sản chỉ từ vài tính chất 
 - **Người chơi poker:** ước lượng μ và σ của mình theo cùng một đơn vị (ví dụ bet/giờ hoặc BB/100 ván), rồi tính bankroll cần cho mức rủi ro chấp nhận được: b = σ² ln(1/r)/(2μ). Ví dụ μ = 1 bet/giờ, σ = 12 bet/giờ: rủi ro 5% cần 144 × 3,0/2 ≈ 216 bet, rủi ro 1% cần ≈ 332 bet. Với giải đấu, lập bảng xác suất về từng hạng và giải phương trình 22.2 (bằng Excel Goal Seek hay vài dòng mã). Nếu sống bằng poker và rút tiền đều đặn, hãy coi phần tiền rút như một khoản "thua" cố định mỗi kỳ, trừ vào μ, rồi tính lại.
 - **Người làm tài chính và đầu tư:** cùng cấu trúc xuất hiện trong xác suất vỡ nợ của công ty bảo hiểm (mô hình Cramér–Lundberg), rủi ro cạn vốn của quỹ giao dịch dùng đòn bẩy cố định, và rủi ro "cạn tiền" của kế hoạch rút tiền hưu trí. Bài học trực tiếp: (1) rủi ro phụ thuộc vào tỷ số σ²/μ, không chỉ vào lợi nhuận kỳ vọng; (2) rút đều đặn phần lãi khỏi một vốn cố định dẫn tới cạn vốn chắc chắn nếu chiến lược có thua lỗ; (3) trung bình và phương sai không đủ khi phân phối lệch — chiến lược bán quyền chọn (thắng nhỏ đều, thua lớn hiếm, lệch âm) nguy hiểm hơn nhiều so với công thức chuẩn gợi ý, ngược với giải đấu poker (lệch dương) nơi công thức chuẩn quá bi quan.
 - **Người ra quyết định nói chung:** một dự án kỳ vọng dương vẫn có thể làm phá sản nếu đặt quá nhiều vốn vào nó; quy mô cam kết phải tính theo khả năng chịu chuỗi thua, không chỉ theo kỳ vọng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 22 trên một trang: sáu nhánh lớn đi theo các mục 1–14 của phần Nội dung chi tiết (câu hỏi đủ bankroll và mô hình rủi ro phá sản, năm tính chất đầu và trò xúc xắc, dạng mũ và phương trình 22.2, ví dụ sit-and-go cùng lời cảnh báo rút tiền và nửa bankroll, công thức 22.4 cho phân phối chuẩn, giới hạn của công thức chuẩn với giải đấu, limit và no-limit), mỗi nhánh ghi định nghĩa, công thức và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 22: chơi mãi một trò kỳ vọng dương và giữ lại mọi khoản thắng thì rủi ro phá sản R(b) = e^(−αb), α giải từ ⟨e^(−αx)⟩ = 1`"]
+  n1["`Mục 1–2 — Phần IV hỏi thế nào là đủ bankroll`"]
+  n0 --- n1
+  n2["`Đề từ Shakespeare: không dồn mọi chuyến buôn vào một con tàu, chủ đề đa dạng hoá của Phần IV`"]
+  n1 --- n2
+  n3["`Chương 1–21 giả định mọi người đủ bankroll và chỉ tối đa hoá kỳ vọng, chương này bỏ giả định đó`"]
+  n1 --- n3
+  n4["`Mức chịu rủi ro khác nhau: có người không chấp nhận mất bankroll, có người coi poker như khởi nghiệp`"]
+  n1 --- n4
+  n5["`Mô hình rủi ro phá sản: một trò chơi cố định, các lần chơi độc lập, chơi mãi hoặc tới khi bankroll về 0`"]
+  n1 --- n5
+  n6["`Sau vô hạn lần chơi chỉ có hai khả năng: bankroll tăng không giới hạn hoặc mất hết`"]
+  n1 --- n6
+  n7["`Hàm rủi ro phá sản R(b) là xác suất mất hết bankroll ban đầu b`"]
+  n1 --- n7
+  n8["`Mục 3–4 — Năm tính chất đầu và trò xúc xắc`"]
+  n0 --- n8
+  n9["`Tính chất 1: không có kết quả âm thì R(b) = 0`"]
+  n8 --- n9
+  n10["`Tính chất 2: kỳ vọng âm thì R(b) = 1 vì khoản thua kỳ vọng tăng không giới hạn`"]
+  n8 --- n10
+  n11["`Tính chất 3: có kết quả âm thì R(b) #gt; 0, vì thua liên tiếp B/v lần có xác suất p^(B/v) #gt; 0`"]
+  n8 --- n11
+  n12["`Tính chất 4: kỳ vọng dương và khoản thua bị chặn thì R(b) #lt; 1`"]
+  n8 --- n12
+  n13["`Tính chất 5: R(a + b) = R(a)R(b), mất $1.000 là mất $500 rồi mất tiếp $500, hai biến cố độc lập`"]
+  n8 --- n13
+  n14["`Ví dụ 22.1: xúc xắc ra 1–2 thua $100, ra 3–6 thắng $100, kỳ vọng ≈ $33,3 mỗi lần`"]
+  n8 --- n14
+  n15["`R(1) = 1/3 + (2/3)R(1)² cho 2R² − 3R + 1 = 0, hai nghiệm 1/2 và 1`"]
+  n14 --- n15
+  n16["`Kỳ vọng dương nên theo tính chất 4 R #lt; 1, vậy R(1) = 1/2`"]
+  n14 --- n16
+  n17["`Chơi tới khi mất $100 hoặc thắng tới $1.000: xác suất phá sản chính xác 0,4995`"]
+  n14 --- n17
+  n18["`Mục 5–7 — Dạng mũ và phương trình tìm α`"]
+  n0 --- n18
+  n19["`ln R(a + b) = ln R(a) + ln R(b) nên ln R tuyến tính, R(x) = e^(−αx)`"]
+  n18 --- n19
+  n20["`Hằng số rủi ro phá sản α = −ln R(1) #gt; 0, N đơn vị bankroll có rủi ro e^(−Nα)`"]
+  n18 --- n20
+  n21["`Trò xúc xắc: R(1) = 1/2 = e^(−α) nên α = ln 2 ≈ 0,693`"]
+  n18 --- n21
+  n22["`Tính chất 6: R(B) = ⟨R(B + x)⟩, rủi ro hiện tại bằng trung bình rủi ro sau một lần chơi`"]
+  n18 --- n22
+  n23["`Thay R(B) = e^(−αB), phần bankroll triệt tiêu: ⟨e^(−αx)⟩ = 1 (phương trình 22.2)`"]
+  n18 --- n23
+  n24["`α tính thẳng từ phân phối kết quả, không cần giải rủi ro phá sản cho trường hợp cụ thể nào`"]
+  n23 --- n24
+  n25["`α = 0 luôn là nghiệm, đúng khi kỳ vọng âm, kỳ vọng dương thì lấy nghiệm còn lại`"]
+  n23 --- n25
+  n26["`g(α) = ⟨e^(−αx)⟩: g(0) = 1, g′(0) = −⟨x⟩ #lt; 0, g″(α) #gt; 0, tăng vô hạn khi có kết quả âm`"]
+  n18 --- n26
+  n27["`Nên phương trình 22.2 có đúng một nghiệm α #gt; 0`"]
+  n26 --- n27
+  n28["`Mục 8–10 — Sit-and-go, lời cảnh báo, nửa bankroll`"]
+  n0 --- n28
+  n29["`Sit-and-go $200+15, 10 người: hạng 1 +$785 (12%), hạng 2 +$385, hạng 3 +$185, hạng 4–10 −$215 (62%)`"]
+  n28 --- n29
+  n30["`Kỳ vọng $35 mỗi giải, độ lệch chuẩn ≈ $354`"]
+  n29 --- n30
+  n31["`Giải phương trình 22.2 bằng solver: sách α ≈ 0,000632, tính lại α ≈ 0,000606`"]
+  n29 --- n31
+  n32["`Rủi ro tính lại: $500 73,9%, $1.000 54,6%, $2.000 29,8%, $5.000 4,8%, $10.000 0,2%`"]
+  n29 --- n32
+  n33["`Rủi ro dưới 5% cần khoảng $5.000, tức khoảng 23 lần phí tham gia`"]
+  n29 --- n33
+  n34["`Giữ bankroll ở mức cố định và rút hết lãi vượt mức đó thì rủi ro phá sản là 100%`"]
+  n28 --- n34
+  n35["`Rút bất kỳ khoản nào, kể cả từ lãi, đều làm tăng rủi ro phá sản`"]
+  n28 --- n35
+  n36["`Nửa bankroll = ln 2/α có rủi ro đúng 1/2, giống chu kỳ bán rã phóng xạ`"]
+  n28 --- n36
+  n37["`k nửa bankroll có rủi ro (1/2)^k: 7 nửa bankroll cho 0,78%, dưới 1%`"]
+  n28 --- n37
+  n38["`Sit-and-go: nửa bankroll ≈ $1.100 theo α của sách, ≈ $1.144 với α đúng`"]
+  n28 --- n38
+  n39["`Mục 11 — Công thức cho phân phối chuẩn`"]
+  n0 --- n39
+  n40["`Thay mật độ chuẩn vào ∫ e^(−αx)N(x)dx = 1 rồi hoàn thành bình phương với tâm mới μ − ασ²`"]
+  n39 --- n40
+  n41["`Còn lại (μ − ασ²)² = μ², nghiệm α = 0 hoặc α = 2μ/σ²`"]
+  n39 --- n41
+  n42["`Công thức 22.4: R(b) = exp(−2μb/σ²)`"]
+  n39 --- n42
+  n43["`Nửa bankroll σ² ln 2/(2μ), bankroll cho rủi ro r là b = σ² ln(1/r)/(2μ)`"]
+  n42 --- n43
+  n44["`μ = 1 bet/giờ, σ = 12 bet/giờ: 300 bet có rủi ro ≈ 1,5%, rủi ro 1% cần ≈ 332 bet`"]
+  n42 --- n44
+  n45["`Bankroll cần tỷ lệ với σ²/μ: phương sai gấp đôi hay tỷ lệ thắng giảm một nửa thì cần gấp đôi`"]
+  n42 --- n45
+  n46["`Mục 12–14 — Khi nào công thức chuẩn sai lệch`"]
+  n0 --- n46
+  n47["`Kết quả từng ván không chuẩn, Định lý Giới hạn Trung tâm chỉ cho tổng mẫu đủ lớn gần chuẩn`"]
+  n46 --- n47
+  n48["`Độ lệch (skew) = Σ p(x − μ)³/σ³, phân phối chuẩn có độ lệch 0`"]
+  n46 --- n48
+  n49["`Giải 100 người, người thắng lấy hết: người chơi trung bình có phương sai 99, độ lệch ≈ +9,84`"]
+  n46 --- n49
+  n50["`Người thắng 2% số giải, 100 buy-in: công thức chuẩn ≈ 36%, trực tiếp 18,6% theo sách, 19,9% tính lại`"]
+  n49 --- n50
+  n51["`Công thức chuẩn giả định có khoản thua −5, −10 buy-in vốn không tồn tại, nên phóng đại rủi ro gần gấp đôi`"]
+  n49 --- n51
+  n52["`Limit: 0,02 SB/ván, phương sai 10,80 SB², bankroll 300 SB: chuẩn 32,89%, trực tiếp 32,17%`"]
+  n46 --- n52
+  n53["`No-limit đuôi dày ±50 BB: bankroll 500 BB cho 9,19% theo chuẩn, 9,12% trực tiếp`"]
+  n46 --- n53
+  n54["`Độ nhọn ảnh hưởng ít, nhưng người chơi chặt chẽ trong pot lớn có kết quả lệch phải như giải đấu`"]
+  n53 --- n54
+  n55["`Bảng tổng kết: cash game limit và no-limit dùng công thức chuẩn, giải đấu tính trực tiếp`"]
+  n46 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Kỳ vọng dương chưa đủ: quy mô cam kết phải tính theo khả năng chịu chuỗi thua`"]
+  n56 --- n57
+  n58["`Rủi ro phụ thuộc tỷ số σ²/μ và hình dạng phân phối, không chỉ vào lợi nhuận kỳ vọng`"]
+  n56 --- n58
+  n59["`Mô hình coi tỷ lệ thắng biết chắc và mức cược cố định, Chương 23–24 nới các giả định này`"]
+  n56 --- n59
+  n60["`Đây là bài toán gambler's ruin, ⟨e^(−αx)⟩ = 1 là điều kiện hệ số điều chỉnh Lundberg trong toán bảo hiểm`"]
+  n56 --- n60
+  class n0 root
+  class n1,n8,n18,n28,n39,n46,n56 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), trang mở Phần IV "Risk" (trang 291) và Chương 22 "Staying in Action: Risk of Ruin", trang 292–307 (Chương 23 bắt đầu ở nửa dưới trang 307).
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)) tới Chương 21 ([C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)), sách dùng kỳ vọng (expectation, EV) làm thước đo duy nhất của cách chơi đúng, với giả định nêu từ đầu rằng mọi người chơi có đủ bankroll (vốn dành riêng để chơi poker) nên chỉ cần tối đa hoá kỳ vọng. Chương 22 mở Phần IV "Rủi ro" và tạm bỏ giả định đó để hỏi: thế nào là đủ bankroll cho một trò chơi? Chương dựng mô hình rủi ro phá sản (risk of ruin, RoR), dùng các khái niệm phương sai và độ lệch chuẩn của Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) và Định lý Giới hạn Trung tâm.
+
+Chương 23 ([C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)) ghép công thức rủi ro phá sản cho phân phối chuẩn của chương này với sự bất định về tỷ lệ thắng thật (dùng phương pháp ước lượng tham số của Chương 3, [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)).
+
+Chương 24 ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)) bỏ giả định "chơi một trò chơi cố định mãi mãi" để bàn tiêu chuẩn Kelly và việc chọn mức cược; Chương 25 ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)) đưa nhiều trò chơi vào một danh mục và bàn thoả thuận tài trợ (backing). Phần V ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) quay lại giải đấu, nơi tính lệch phải của phân phối kết quả mà chương này nêu là trung tâm.
+
+## Lưu ý
+
+- **Phạm vi trang:** trang 291 là trang mở Phần IV (chỉ có câu đề từ của Shakespeare); Chương 22 chiếm trang 292–307, trong đó trang 307 chứa nửa cuối "Key Concepts" của Chương 22 và phần đầu Chương 23. Phần đầu Chương 23 trên trang 307 được tổng hợp trong file của Chương 23.
+- **Sai dấu cộng ở Ví dụ 22.1 (trang 294):** sách viết "We know from Property 5 above that R(a + b) = R(a) + R(b)"; đúng phải là tích R(a + b) = R(a)R(b), như chính phương trình 22.1 và như dòng tiếp theo R(2) = R(1)R(1).
+- **Sai dấu ở định nghĩa α (trang 295):** sách viết "α is actually equal to the natural logarithm of the risk of ruin of a bankroll of 1 unit" và "a = ln(R(1))". Vì R(x) = e^(−αx), ta có α = −ln R(1). Với Ví dụ 22.1, R(1) = 1/2 nên α = −ln(1/2) = ln 2 ≈ 0,693 > 0, khớp với chính kết luận "α = ln 2" của sách. Câu "This causes α to be positive" trong sách bị đặt sai chỗ (đứng trước lời giải thích về dấu âm quy ước).
+- **Sai dấu ở đạo hàm bậc hai (trang 297):** sách viết g″(α) = ⟨−x²e^(−αx)⟩ rồi nói "giá trị này luôn dương". Đạo hàm đúng là g″(α) = ⟨x²e^(−αx)⟩, và chính nó mới luôn dương (x² ≥ 0, e^(−αx) > 0). Cũng ở đó, sách viết "g(0) then = ⟨−x⟩", đúng phải là g′(0) = ⟨−x⟩ (g(0) = 1).
+- **Tham chiếu sai phương trình:** ở Ví dụ 22.3 (trang 299), ở ví dụ limit (trang 305) và ví dụ no-limit (trang 306), sách viết "set up / solving Equation 22.1"; phương trình được giải thực ra là phương trình 22.2 ⟨e^(−αx)⟩ = 1 (phương trình 22.1 là R(a + b) = R(a)R(b)).
+- **Ví dụ 22.3: hằng số α của sách không thoả phương trình (người tổng hợp tính lại bằng phương pháp chia đôi):** với α = 0,000632, vế trái 0,12e^(−785α) + 0,13e^(−385α) + 0,13e^(−185α) + 0,62e^(215α) bằng 1,00088, không bằng 1. Nghiệm đúng là α ≈ 0,000606 (vế trái lệch khỏi 1 dưới 0,00002). Bảng rủi ro của sách được tính đúng từ α = 0,000632 của sách, nhưng với α đúng, rủi ro là: $500: 73,9% (sách 72,9%); $1.000: 54,6% (53,2%); $2.000: 29,8% (28,3%); $3.000: 16,3% (15,0%); $4.000: 8,9% (8,0%); $5.000: 4,8% (4,3%); $7.500: 1,1% (0,9%); $10.000: 0,2% (0,2%).
+- **Nửa bankroll của Ví dụ 22.3 (trang 300):** sách viết "a was about 0.00632" — thiếu một chữ số 0 sau dấu thập phân; giá trị đã dùng ở trang 299 là 0,000632. Với 0,000632, nửa bankroll là ln 2 / 0,000632 ≈ $1.097, khớp với "khoảng $1.100" của sách; với α đúng 0,000606, nửa bankroll là ≈ $1.144.
+- **Ví dụ giải đấu 100 người (trang 304):**
+  - Sách cho σ = 14,036 buy-in và R(b) = e^(−2b/197), tức dùng σ² = 197. Phương sai đúng của kết quả (+99 với xác suất 0,02, −1 với xác suất 0,98) là 0,02 × 99² + 0,98 × 1² − 1² = 196,02 + 0,98 − 1 = 196, nên σ = 14,0; con số 197 là mômen bậc hai ⟨x²⟩ chưa trừ bình phương trung bình. Công thức chuẩn đúng cho R(100) = e^(−200/196) ≈ 36,0% (sách 36,2%).
+  - Nghiệm trực tiếp của (1/50)e^(−99α) + (49/50)e^(α) = 1 là α ≈ 0,01615, không phải 0,01683 (với 0,01683 vế trái bằng khoảng 1,0004); do đó R(100) = e^(−1,615) ≈ 19,9%, không phải 18,6%. Kết luận định tính của sách (công thức chuẩn phóng đại rủi ro gần gấp đôi) vẫn đúng.
+- **Câu văn ngược với số liệu ở ví dụ no-limit (trang 306):** sách viết "the normal distribution understates the risk of ruin", nhưng ngay sau đó công thức chuẩn cho 9,19% còn lời giải trực tiếp cho 9,12%, và sách tự kết luận "rủi ro thấp hơn khi tính trực tiếp". Vậy công thức chuẩn *phóng đại nhẹ* (overstates), không phải đánh giá thấp. Người tổng hợp tính lại: α = 0,0047886 và R(500) = 9,12%, khớp sách.
+- **Làm tròn nhỏ trong bảng phân phối limit (trang 304–305):** cột "đóng góp có trọng số" (kết quả × xác suất) có vài ô lệch ở chữ số cuối so với tích của hai cột kia: −2 × 8,14% = −0,1628 (sách −0,1627); −4 × 4,41% = −0,1764 (−0,1763); −6 × 2,03% = −0,1218 (−0,1220); −8 × 1,01% = −0,0808 (−0,0814); +16 × 0,94% = 0,1504 (0,15); +32 × 0,31% = 0,0992 (0,1). Có lẽ tác giả làm tròn xác suất từ các số chính xác hơn. Tổng vẫn ≈ 0,0201 SB/ván; phương sai tính lại 10,78 SB² (sách 10,80); α trực tiếp ≈ 0,003787 (sách 0,00378), R(300) ≈ 32,1% (sách 32,17%). Tương tự, "phương sai 50,27 BB²" của ví dụ no-limit thực ra là ⟨x²⟩ = 50,28; phương sai đúng là 50,28 − 0,12² = 50,27 — trùng khi làm tròn.
+- **Xác suất ở Tính chất 3 (trang 293):** ảnh trang ghi xác suất thua liên tiếp là p^(B/v) (p mũ B/v); lớp chữ làm phẳng thành "pB/v". Nói chặt, cần thua ⌈B/v⌉ lần liên tiếp (làm tròn lên) nếu B/v không nguyên (nhận xét của người tổng hợp).
+- **Phương trình 22.3 bị hỏng trong lớp chữ và ảnh (trang 301):** bản PDF hiển thị "¿v(x)≥∫ p(x)v(x)dx"; đây là lỗi chuyển ký hiệu ngoặc nhọn kỳ vọng. Nội dung đúng là ⟨v(x)⟩ = ∫ p(x)v(x)dx (kỳ vọng của hàm giá trị bằng tích phân của hàm mật độ nhân hàm giá trị). Tương tự, phép biến đổi ở trang 301 viết "x² − 2xμ + 2ασ² + μ²" thiếu biến x (đúng: x² − 2xμ + 2ασ²x + μ²), và dòng sau phép hoàn thành bình phương ở trang 302 bị vỡ ký hiệu; bản tổng hợp chép lại phép dẫn đúng.
+- **Ký hiệu α và a:** sách dùng lẫn chữ Hy Lạp α và chữ La-tinh a cho cùng hằng số rủi ro phá sản (do chuyển đổi phông chữ); bản tổng hợp dùng α thống nhất. Sách nhắc rằng α này khác α của Chương 11 (tỷ lệ bluff so với value bet).
+- **Lỗi chính tả và OCR:** "if the the comes up 1 or 2" (thừa "the", thiếu "die"), "Remming to Equation 22.1" ("Returning"), "risk of rum/rain" ("ruin"), "one dial at a time" ("trial"), "motley" ("money"), "half-fives" ("half-lives"), "Part TV" ("Part IV"), "flayer" ("player"), "play very rightly in big pots" ("tightly"), và hằng số e "xấp xỉ 2.71" (chính xác hơn 2,718).
+- **Ví dụ 22.1 có điểm dừng thắng (nhận xét của người tổng hợp):** sách gợi ý thử nghiệm bằng cách chơi tới khi mất $100 hoặc thắng tới $1.000. Với điểm dừng 10 đơn vị, xác suất phá sản theo công thức "gambler's ruin" là (r − r¹⁰)/(1 − r¹⁰) với r = (1/3)/(2/3) = 1/2, tức 0,4995 — rất sát 1/2, nên thử nghiệm đó đúng là hội tụ về gần 1/2.
+- **Quy ước thuật ngữ:** "bankroll" giữ nguyên tiếng Anh (vốn dành riêng để chơi poker); "risk of ruin" dịch là "rủi ro phá sản"; "half-bankroll" dịch là "nửa bankroll"; "skew" dịch là "độ lệch" (hệ số bất đối xứng), "kurtosis" là "độ nhọn"; "buyin" (phí tham gia giải) viết "buy-in"; SB là small bet (mức cược nhỏ trong limit), BB là big blind.

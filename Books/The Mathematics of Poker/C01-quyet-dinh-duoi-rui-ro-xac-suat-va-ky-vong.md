@@ -1,21 +1,22 @@
 # Chương 1 — Quyết định dưới rủi ro: xác suất và kỳ vọng (Decisions Under Risk: Probability and Expectation)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), trang mở Phần I "Basics" (trang 15) và Chương 1 "Decisions Under Risk: Probability and Expectation", trang 16–25.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đã nêu lời khuyên duy nhất xuyên suốt cuốn sách là "tối đa hoá lợi nhuận trung bình" và hứa rằng Phần I sẽ đặt nền xác suất, phân phối và kỳ vọng. Chương 1 làm đúng việc đó: giải thích vì sao sách dùng tiền thắng trong ván thay cho độ thoả dụng, định nghĩa xác suất, các quy tắc cộng và nhân xác suất, phân phối xác suất, và **kỳ vọng** — đại lượng mà mọi phân tích về sau tìm cách tối đa hoá. Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) bổ sung phương sai và độ lệch chuẩn để đo kết quả thực tế lệch khỏi kỳ vọng bao xa; Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) dùng xác suất có điều kiện của chương này để dựng định lý Bayes. Ký hiệu phân phối tay bài (ví dụ {AA, KK, QQ, AKs, AKo}) và ký hiệu kỳ vọng ⟨X⟩, ⟨A, B⟩ được dùng ở mọi chương sau, đặc biệt Phần II ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md), [C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md), [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)). Các khái niệm rủi ro phá sản, tiêu chuẩn Kelly và giá trị tương đương chắc chắn được nhắc ở đầu chương được để dành cho Phần IV ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), [C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)).
-**Ý chính:** **Trong poker, mọi quyết định đều được đưa ra trước khi kết quả được biết, nên công cụ đúng để đánh giá quyết định là kỳ vọng — tổng giá trị các kết cục nhân xác suất của chúng; kỳ vọng có tính cộng, nên người chơi giỏi thắng bằng cách liên tục nhận các "ván cược nhỏ" có kỳ vọng dương.** Chương mở đầu bằng việc thừa nhận người ta chơi poker vì nhiều lý do (giao lưu, giải trí, thi đấu, nghiện, tiền tài trợ) và độ thoả dụng của tiền không tuyến tính — với đa số người, chắc chắn có 5 triệu đô la đáng giá hơn nhiều so với 50% cơ hội có 10 triệu. Nhưng vì mỗi người có đường thoả dụng riêng, sách dùng tiền thắng trong ván làm thước đo thay thế và giả định người chơi có đủ vốn. **Xác suất** được định nghĩa là giới hạn của tỷ lệ số lần sự kiện xảy ra trên số lần thử khi số lần thử tiến tới vô cùng, p(x) = lim n₀/n. Từ các giả định 52 lá bài và mỗi lá có khả năng như nhau, sách tính p(lá bài là át) = 4 × 1/52 = 1/13 (cộng được vì các sự kiện **xung khắc**). Sự kiện **độc lập** thì xác suất đồng thời bằng tích: p(cơ và át) = (1/13)(1/4) = 1/52; với hai sự kiện bất kỳ, p(A hoặc B) = p(A) + p(B) − p(A và B), nên p(cơ hoặc át) = 1/4 + 1/13 − 1/52 = 4/13. Sự kiện **phụ thuộc** cần **xác suất có điều kiện**: p(A và B) = p(A) p(B|A); vì vậy xác suất được chia đôi át là (1/13)(3/51) = 1/221. Các ví dụ khác: hai con sáu khi gieo hai xúc xắc 1/36; được chia AA, KK hoặc QQ là 3/221; hai lá cùng chất ra flush ngay ở flop là (11/50)(10/49)(9/48) = 33/3920, dưới 1% một chút (0,84%). **Phân phối xác suất** là danh sách đầy đủ các kết cục xung khắc kèm xác suất; trong poker, tay bài của đối thủ được biểu diễn bằng một phân phối. **Kỳ vọng** ⟨P⟩ = Σ pᵢxᵢ: tung đồng xu ăn thua 10 đô la có kỳ vọng 0; được trả 11 đô la khi thắng và mất 10 khi thua có kỳ vọng +0,50 đô la mỗi lần; cược 30 ăn 1 vào hai con sáu có kỳ vọng −5/36 đô la, khoảng −14 xu. Chương kết thúc bằng ký hiệu kỳ vọng giữa hai phân phối ⟨A, B⟩, quy tắc nhân và cộng hằng số vào kỳ vọng, và khái niệm **odds** (tỷ lệ cược) — tỷ số giữa xác suất sự kiện không xảy ra và xác suất nó xảy ra.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phạm vi trang:** mục lục in trong sách ghi Chương 1 bắt đầu ở trang 15; theo chân trang của bản PDF này, trang 15 là trang mở Phần I (câu đề từ của Einstein), Chương 1 ở trang 16–25.
-> - **Ký hiệu "cho biết" bị hỏng trong bản PDF dựng lại:** khắp chương, dấu gạch đứng "|" của xác suất có điều kiện p(B|A) bị in thành dấu "∨" (p(B∨A)), và ở vài chỗ thành ký tự "¿"; câu "Likewise, ¿ is the symbol for 'given'" (trang 19) vốn là "| là ký hiệu của 'cho biết'". Các tích hai phân số, như (1/13)(1/4) ở trang 18, cũng in thành "(1/13 ¿ (1/4)". Công thức (1.11) in thành "¿P≥Σ pᵢxᵢ", đúng ra là ⟨P⟩ = Σ pᵢxᵢ; dòng chữ đi kèm "has a value xᵢ and a probability then pᵢ then P's expected value" bị xáo trộn, ý đúng là "có giá trị xᵢ và xác suất pᵢ, thì kỳ vọng của P là". Công thức (1.9) và (1.10) dùng gạch ngang trên đầu (Ā) cho biến cố bù; lớp chữ làm mất gạch ngang. Bản tổng hợp viết lại tất cả theo ký hiệu chuẩn.
-> - **Lỗi tính trong sách (in sai, kết quả đúng):** ở ví dụ flush trên flop (trang 22), dòng thứ hai in p(A∩B) = (1/50)(10/49); đúng là (11/50)(10/49), vì p(A) = 11/50 như vừa nêu ở trang 21. Tích in sai cho 10/2450 = 1/245, còn tích đúng cho 110/2450 = 11/245 — khớp với kết quả 11/245 sách ghi ở dòng sau. Kết quả cuối 33/3920 ≈ 0,84% là đúng (người tổng hợp kiểm tra thêm bằng tổ hợp: C(11,3)/C(50,3) = 165/19.600 = 33/3920).
-> - **Lỗi tính trong sách (in sai, kết quả đúng):** kỳ vọng của trò tung đồng xu 11 ăn 10 (trang 24) in là ⟨Bₙ⟩ = (1/2)(+$11) + (1/2)(−$11); đúng là (1/2)(+$11) + (1/2)(−$10) = $5,50 − $5,00 = $0,50. Biểu thức in sai cho kết quả 0, mâu thuẫn với kết quả $0,50 sách ghi ở dòng sau.
-> - **Lỗi trong mục Key Concepts (trang 25):** gạch đầu dòng thứ ba viết "kỳ vọng là tổng của các *xác suất* của kết cục nhân với xác suất của chúng"; đúng là tổng các *giá trị* của kết cục nhân xác suất (gạch đầu dòng thứ năm nói đúng ý này).
-> - **Lỗi đánh máy khác (có trên ảnh trang):** câu đề từ của Einstein in "As for as" hai lần, đúng là "As far as" (trang 15); "produce *no* occurrences" trong định nghĩa xác suất (trang 17) đúng là "produce n₀ occurrences" (n₀ lần xảy ra), vì công thức (1.1) dùng n₀; "fifty-cards" (trang 18) thiếu "two"; "Probability of A or 8 occurring" (trang 18) đúng là "A or B"; "Equation 1.9 can also be restarted" (trang 21) đúng là "restated"; "hi terms of probability" đúng là "In terms"; "⟨A, QO|B⟩" (trang 25) đúng là "⟨A, QQ|B⟩"; "-lay", "tiring", "deterrnine", "Tins", "Tire", "50°/o" lần lượt là "play", "thing", "determine", "This", "The", "50%".
-> - **Nhãn "For dependent events" của công thức (1.5) hẹp hơn thực tế (nhận xét của người tổng hợp):** p(A∩B) = p(A) p(B|A) đúng với mọi cặp sự kiện có p(A) > 0, không chỉ sự kiện phụ thuộc — chính sách cũng nói (1.3) là trường hợp riêng của (1.5). Tương tự, khẳng định "nếu p(B|A) = p(B) thì p(A|B) = p(A)" cần p(A) > 0 và p(B) > 0.
-> - **Hai quy ước odds trái chiều (nhận xét của người tổng hợp):** sách định nghĩa odds là tỷ số (xác suất không xảy ra) : (xác suất xảy ra), tức "odds chống lại", nên "7 to 5" nghĩa là xác suất xảy ra 5/12 ≈ 41,7%. Nhưng ngay sau đó, ví dụ "7 to 3 favorite" được giải thích là 70% thắng, tức tỷ số (xảy ra) : (không xảy ra). Cả hai cách nói đều phổ biến trong poker; chữ "favorite" (cửa trên) báo hiệu thứ tự thứ hai. Bản tổng hợp ghi rõ thứ tự mỗi khi dùng odds.
-> - **Trùng ký hiệu:** chữ A và B được dùng cho sự kiện (A: lá đầu là át), cho tên người chơi, và cho tên phân phối tay bài của họ (A = {AA, KK, QQ, JJ, AKo, AKs}); chữ C vừa là "sự kiện chắc chắn" (1.7) vừa là phân phối của đồng xu; chữ D vừa là phân phối xúc xắc vừa là sự kiện A∩B trong ví dụ flush. Bản tổng hợp giữ ký hiệu của sách nhưng nói rõ nghĩa ở từng chỗ.
-> - **Quy ước:** số thập phân viết bằng dấu phẩy (0,50 đô la); "$" giữ nguyên trong công thức chép từ sách.
+**Trong poker, mọi quyết định đều được đưa ra trước khi kết quả được biết, nên công cụ đúng để đánh giá quyết định là kỳ vọng — tổng giá trị các kết cục nhân xác suất của chúng; kỳ vọng có tính cộng, nên người chơi giỏi thắng bằng cách liên tục nhận các "ván cược nhỏ" có kỳ vọng dương.**
+
+Chương mở đầu bằng việc thừa nhận người ta chơi poker vì nhiều lý do (giao lưu, giải trí, thi đấu, nghiện, tiền tài trợ) và độ thoả dụng của tiền không tuyến tính — với đa số người, chắc chắn có 5 triệu đô la đáng giá hơn nhiều so với 50% cơ hội có 10 triệu. Nhưng vì mỗi người có đường thoả dụng riêng, sách dùng tiền thắng trong ván làm thước đo thay thế và giả định người chơi có đủ vốn.
+
+**Xác suất** được định nghĩa là giới hạn của tỷ lệ số lần sự kiện xảy ra trên số lần thử khi số lần thử tiến tới vô cùng, p(x) = lim n₀/n. Từ các giả định 52 lá bài và mỗi lá có khả năng như nhau, sách tính p(lá bài là át) = 4 × 1/52 = 1/13 (cộng được vì các sự kiện **xung khắc**).
+
+Sự kiện **độc lập** thì xác suất đồng thời bằng tích: p(cơ và át) = (1/13)(1/4) = 1/52; với hai sự kiện bất kỳ, p(A hoặc B) = p(A) + p(B) − p(A và B), nên p(cơ hoặc át) = 1/4 + 1/13 − 1/52 = 4/13.
+
+Sự kiện **phụ thuộc** cần **xác suất có điều kiện**: p(A và B) = p(A) p(B|A); vì vậy xác suất được chia đôi át là (1/13)(3/51) = 1/221. Các ví dụ khác: hai con sáu khi gieo hai xúc xắc 1/36; được chia AA, KK hoặc QQ là 3/221; hai lá cùng chất ra flush ngay ở flop là (11/50)(10/49)(9/48) = 33/3920, dưới 1% một chút (0,84%).
+
+**Phân phối xác suất** là danh sách đầy đủ các kết cục xung khắc kèm xác suất; trong poker, tay bài của đối thủ được biểu diễn bằng một phân phối.
+
+**Kỳ vọng** ⟨P⟩ = Σ pᵢxᵢ: tung đồng xu ăn thua 10 đô la có kỳ vọng 0; được trả 11 đô la khi thắng và mất 10 khi thua có kỳ vọng +0,50 đô la mỗi lần; cược 30 ăn 1 vào hai con sáu có kỳ vọng −5/36 đô la, khoảng −14 xu.
+
+Chương kết thúc bằng ký hiệu kỳ vọng giữa hai phân phối ⟨A, B⟩, quy tắc nhân và cộng hằng số vào kỳ vọng, và khái niệm **odds** (tỷ lệ cược) — tỷ số giữa xác suất sự kiện không xảy ra và xác suất nó xảy ra.
 
 ## Sơ đồ
 
@@ -350,7 +351,9 @@ Kết quả 16/52 khớp với cách đếm trực tiếp: 13 lá cơ cộng 3 �
 
 ### 5. Sự kiện phụ thuộc và các công thức xác suất (Dependent Events, trang 18–20)
 
-Ngược lại, có những sự kiện ảnh hưởng tới nhau. Ví dụ bóng chày: trước trận, một cầu thủ ném bóng (pitcher) tài năng có thể có 3% khả năng ném trọn chín hiệp mà không để đối phương ghi điểm nào (một "shutout"), còn đội của anh ta có 60% khả năng thắng trận. Khả năng đội thắng VÀ anh ta ném shutout rõ ràng không phải 60% × 3% (bằng 1,8%). Thay vào đó, nó rất gần chính 3%, vì khi cầu thủ này làm được điều đó, đội anh ta gần như luôn thắng. Các sự kiện như vậy gọi là **phụ thuộc**. Ta cũng xét **xác suất có điều kiện** của A khi biết B: khả năng A xảy ra nếu B xảy ra. Xác suất cả A và B cùng xảy ra với sự kiện phụ thuộc bằng xác suất của A nhân với xác suất có điều kiện của B khi biết A. Hai sự kiện độc lập khi xác suất có điều kiện của A khi biết B bằng xác suất của riêng A.
+Ngược lại, có những sự kiện ảnh hưởng tới nhau. Ví dụ bóng chày: trước trận, một cầu thủ ném bóng (pitcher) tài năng có thể có 3% khả năng ném trọn chín hiệp mà không để đối phương ghi điểm nào (một "shutout"), còn đội của anh ta có 60% khả năng thắng trận. Khả năng đội thắng VÀ anh ta ném shutout rõ ràng không phải 60% × 3% (bằng 1,8%). Thay vào đó, nó rất gần chính 3%, vì khi cầu thủ này làm được điều đó, đội anh ta gần như luôn thắng. Các sự kiện như vậy gọi là **phụ thuộc**.
+
+Ta cũng xét **xác suất có điều kiện** của A khi biết B: khả năng A xảy ra nếu B xảy ra. Xác suất cả A và B cùng xảy ra với sự kiện phụ thuộc bằng xác suất của A nhân với xác suất có điều kiện của B khi biết A. Hai sự kiện độc lập khi xác suất có điều kiện của A khi biết B bằng xác suất của riêng A.
 
 Ký hiệu (bản PDF in dấu "|" thành "∨"):
 
@@ -438,7 +441,7 @@ p(C|A ∩ B) = 9/48    (đã bỏ ra hai lá chất flush trên flop; tổng c�
 p(A ∩ B) = p(A) p(B|A) = (11/50)(10/49) = 110/2450 = 11/245
 ```
 
-(Sách in nhầm dòng giữa thành (1/50)(10/49); xem khối Lưu ý.) Đặt D = A ∩ B rồi dùng (1.5) lần nữa:
+(Sách in nhầm dòng giữa thành (1/50)(10/49); xem mục Lưu ý cuối chương.) Đặt D = A ∩ B rồi dùng (1.5) lần nữa:
 
 ```text
 p(D ∩ C)     = p(D) p(C|D)
@@ -515,7 +518,7 @@ Cốt lõi của việc thắng trong poker hay bất kỳ loại cờ bạc nà
 ⟨Bₙ⟩ = $0,50
 ```
 
-(Sách in nhầm số hạng thứ hai thành −$11; xem khối Lưu ý.) Trung bình ta thắng 50 xu mỗi lần tung. Tất nhiên đây không phải thắng chắc; thực tế không lần tung nào ta thắng đúng 50 xu. Con số kỳ vọng chỉ tồn tại khi tính gộp; nhưng làm như vậy, trung bình ta hơn 50 xu so với từ chối.
+(Sách in nhầm số hạng thứ hai thành −$11; xem mục Lưu ý cuối chương.) Trung bình ta thắng 50 xu mỗi lần tung. Tất nhiên đây không phải thắng chắc; thực tế không lần tung nào ta thắng đúng 50 xu. Con số kỳ vọng chỉ tồn tại khi tính gộp; nhưng làm như vậy, trung bình ta hơn 50 xu so với từ chối.
 
 **Ván cược thứ ba — hai con sáu trả 30.** Người bạn đề nghị: gieo một cặp xúc xắc một lần; nếu ra hai con sáu, bạn trả ta 30 đô la; nếu ra bất cứ kết quả nào khác, ta trả bạn 1 đô la. Kỳ vọng:
 
@@ -527,7 +530,9 @@ Cốt lõi của việc thắng trong poker hay bất kỳ loại cờ bạc nà
 
 khoảng −14 xu (5/36 ≈ 0,139). Giá trị của ván cược này với ta là khoảng âm 14 xu; kỳ vọng của việc không chơi là 0, nên đây là cược xấu và không nên nhận. Tác giả đùa: hãy bảo bạn quay lại với đề nghị 11 ăn 10 khi tung đồng xu. Cũng lưu ý rằng đúng cược này có trên bàn craps khắp thế giới. (Người tổng hợp bổ sung: odds thật của hai con sáu là 35 to 1, nhưng sòng chỉ trả 30 to 1; phần chênh lệch là lợi thế của sòng, 5/36 ≈ 13,9% số tiền cược.)
 
-**Tính cộng của kỳ vọng.** Một tính chất rất quan trọng của kỳ vọng là nó **có tính cộng**: kỳ vọng của sáu ván cược khác nhau liên tiếp bằng tổng kỳ vọng của từng ván. Hầu hết trò cờ bạc — và thực ra hầu hết mọi thứ trong đời — đều như vậy. Ta liên tục được mời những ván tung đồng xu hay gieo xúc xắc nhỏ, có ván kỳ vọng dương, có ván kỳ vọng âm. Đôi khi sự kiện không phải là gieo xúc xắc hay tung đồng xu mà là một hợp đồng bảo hiểm hay một quỹ trái phiếu. Đồ uống miễn phí và đèn neon ở Las Vegas được trả bằng tổng của hàng triệu ván tung đồng xu nhỏ, mỗi ván sòng bạc có một lợi thế nhỏ. Người chơi poker giỏi tận dụng tính cộng này bằng cách liên tục nắm lấy các tình huống có kỳ vọng thuận lợi.
+**Tính cộng của kỳ vọng.** Một tính chất rất quan trọng của kỳ vọng là nó **có tính cộng**: kỳ vọng của sáu ván cược khác nhau liên tiếp bằng tổng kỳ vọng của từng ván. Hầu hết trò cờ bạc — và thực ra hầu hết mọi thứ trong đời — đều như vậy. Ta liên tục được mời những ván tung đồng xu hay gieo xúc xắc nhỏ, có ván kỳ vọng dương, có ván kỳ vọng âm. Đôi khi sự kiện không phải là gieo xúc xắc hay tung đồng xu mà là một hợp đồng bảo hiểm hay một quỹ trái phiếu.
+
+Đồ uống miễn phí và đèn neon ở Las Vegas được trả bằng tổng của hàng triệu ván tung đồng xu nhỏ, mỗi ván sòng bạc có một lợi thế nhỏ. Người chơi poker giỏi tận dụng tính cộng này bằng cách liên tục nắm lấy các tình huống có kỳ vọng thuận lợi.
 
 ### 9. Ký hiệu phân phối tay bài, phép toán trên kỳ vọng và odds (Probability Distributions, phần cuối, trang 24–25)
 
@@ -575,7 +580,9 @@ tức kỳ vọng tổng là trung bình có trọng số của kỳ vọng đ�
 
 **Phép toán trên phân phối.** Có thể làm vài phép toán cơ bản trên các phần tử của phân phối. Nếu nhân mọi giá trị kết cục với một hằng số thực, kỳ vọng của phân phối mới bằng kỳ vọng ban đầu nhân hằng số đó. Nếu cộng một hằng số vào mọi giá trị kết cục, kỳ vọng mới bằng kỳ vọng ban đầu cộng hằng số đó. (Ví dụ của người tổng hợp: nhân đôi tiền cược của ván 11 ăn 10 thành 22 ăn 20 thì kỳ vọng thành 2 × 0,50 = 1 đô la; viết dưới dạng công thức: ⟨kX + c⟩ = k⟨X⟩ + c.)
 
-**Odds.** Sách mô tả một cách biểu diễn xác suất phổ biến: **odds**, định nghĩa là tỷ số giữa xác suất sự kiện không xảy ra và xác suất sự kiện xảy ra. Odds có thể quy về bất kỳ cơ số tiện lợi nào và thường được nói như "7 to 5", "3 to 2"… Odds **ngắn hơn** là khi sự kiện dễ xảy ra hơn; odds **dài hơn** là khi sự kiện khó xảy ra hơn. Giá trị tương đối của hai tay bài thường được nói theo kiểu: "Tay đó là cửa trên (favorite) 7 to 3 so với tay kia", nghĩa là nó có 70% khả năng thắng. (Người tổng hợp lưu ý: theo định nghĩa của sách, odds "7 to 5" chống lại một sự kiện ứng với xác suất 5/(7 + 5) = 5/12 ≈ 41,7%; còn "cửa trên 7 to 3" đọc theo thứ tự ngược lại, xác suất thắng 7/(7 + 3) = 70%.)
+**Odds.** Sách mô tả một cách biểu diễn xác suất phổ biến: **odds**, định nghĩa là tỷ số giữa xác suất sự kiện không xảy ra và xác suất sự kiện xảy ra. Odds có thể quy về bất kỳ cơ số tiện lợi nào và thường được nói như "7 to 5", "3 to 2"… Odds **ngắn hơn** là khi sự kiện dễ xảy ra hơn; odds **dài hơn** là khi sự kiện khó xảy ra hơn.
+
+Giá trị tương đối của hai tay bài thường được nói theo kiểu: "Tay đó là cửa trên (favorite) 7 to 3 so với tay kia", nghĩa là nó có 70% khả năng thắng. (Người tổng hợp lưu ý: theo định nghĩa của sách, odds "7 to 5" chống lại một sự kiện ứng với xác suất 5/(7 + 5) = 5/12 ≈ 41,7%; còn "cửa trên 7 to 3" đọc theo thứ tự ngược lại, xác suất thắng 7/(7 + 3) = 70%.)
 
 Odds thường khó dùng hơn xác suất trong tính toán, vì không thể nhân thẳng odds với kết cục để ra kỳ vọng. Dân cờ bạc thực thụ hay dùng odds, vì odds tương ứng với cách họ được trả tiền khi thắng cược. Xác suất mang tính khái niệm toán học hơn. Người chơi cờ bạc biết dùng toán có thể dùng cả hai, nhưng thường thích xác suất hơn vì dễ chuyển thành kỳ vọng.
 
@@ -724,14 +731,16 @@ Chương trình bày cách hiểu xác suất theo tần suất (frequentist), c
 
 ### Sức mạnh của chương
 
-Chương đặt nền tối thiểu nhưng đủ cho cả cuốn sách, và làm điều đó bằng ví dụ poker ngay từ đầu (đôi át, flush ở flop, phân phối tay bài của người chơi chặt). Điểm đáng giá nhất là chương nói rõ giả định "dùng tiền thay cho độ thoả dụng, người chơi đủ vốn" ngay trang đầu, thay vì ngầm giả định như nhiều sách poker; chính giả định này về sau được nới ra ở Phần IV. Ký hiệu ⟨A, B⟩ và cách viết phân phối tay bài như một tập hợp với tỷ lệ "như lúc chia" là công cụ gọn sẽ dùng suốt Phần II và III. Ví dụ ba ván cược với người bạn cho thấy hai bài học tách bạch: một cược có kỳ vọng dương vẫn có thể thua ở mỗi lần, và một cược có giải thưởng lớn (30 đô la) vẫn có thể có kỳ vọng âm.
+Chương đặt nền tối thiểu nhưng đủ cho cả cuốn sách, và làm điều đó bằng ví dụ poker ngay từ đầu (đôi át, flush ở flop, phân phối tay bài của người chơi chặt). Điểm đáng giá nhất là chương nói rõ giả định "dùng tiền thay cho độ thoả dụng, người chơi đủ vốn" ngay trang đầu, thay vì ngầm giả định như nhiều sách poker; chính giả định này về sau được nới ra ở Phần IV.
+
+Ký hiệu ⟨A, B⟩ và cách viết phân phối tay bài như một tập hợp với tỷ lệ "như lúc chia" là công cụ gọn sẽ dùng suốt Phần II và III. Ví dụ ba ván cược với người bạn cho thấy hai bài học tách bạch: một cược có kỳ vọng dương vẫn có thể thua ở mỗi lần, và một cược có giải thưởng lớn (30 đô la) vẫn có thể có kỳ vọng âm.
 
 ### Những chỗ đơn giản hoá
 
 - **Định nghĩa xác suất theo tần suất** không áp dụng tự nhiên cho những điều chỉ xảy ra một lần, như "đối thủ này đang bluff ván này". Chương 3 sẽ dùng định lý Bayes, nơi xác suất được hiểu như mức tin, để xử lý loại câu hỏi đó.
 - **Bỏ qua ảnh hưởng của lá bài đã biết** khi viết phân phối tay bài "như lúc chia". Nếu ta cầm một lá át, số tổ hợp AA của đối thủ giảm từ 6 xuống 3 và AK cũng giảm; các chương sau mới tính tới hiệu ứng này (card removal).
 - **Giả định đủ vốn** không đúng với nhiều người chơi thật, nhất là ở giải đấu, nơi giá trị của chip không tuyến tính (Phần V).
-- **Odds** được trình bày rất ngắn và với hai quy ước trái chiều (xem khối Lưu ý); Chương 4 sẽ dùng odds nhiều hơn khi bàn về pot odds.
+- **Odds** được trình bày rất ngắn và với hai quy ước trái chiều (xem mục Lưu ý cuối chương); Chương 4 sẽ dùng odds nhiều hơn khi bàn về pot odds.
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp, không tra cứu)
 
@@ -752,3 +761,162 @@ Nội dung xác suất của chương không thay đổi. Điều thay đổi l�
 - **Người chơi poker:** trước mỗi quyết định lớn, hãy hỏi "kỳ vọng của từng phương án là bao nhiêu, kể cả fold (kỳ vọng 0 từ thời điểm này)?". Học thuộc vài xác suất nền: được chia AA 1/221, một đôi bất kỳ 1/17, flush ngay ở flop với hai lá cùng chất khoảng 0,84%. Khi đoán bài đối thủ, liệt kê dải bài và đếm tổ hợp: trong {AA, KK, QQ, AK}, AK chiếm 16/34 ≈ 47%, gần một nửa, dù chỉ là "một trong bốn loại".
 - **Người làm tài chính và đầu tư:** kỳ vọng và độ thoả dụng tách bạch đúng như trong lý thuyết danh mục: một khoản đầu tư có kỳ vọng dương chưa chắc nên nhận nếu nó có thể làm mất phần lớn vốn. Ví dụ bàn craps (trả 30 cho một sự kiện có odds thật 35 to 1) là hình mẫu của nhiều sản phẩm có "giải thưởng lớn, xác suất nhỏ" như xổ số hay quyền chọn rất xa giá; hãy tính kỳ vọng thay vì nhìn vào khoản thắng tối đa. Tính cộng của kỳ vọng giải thích vì sao các chiến lược có lợi thế nhỏ nhưng lặp lại nhiều lần (tạo lập thị trường, bảo hiểm) có thể rất có lãi.
 - **Người ra quyết định nói chung:** đánh giá một quyết định theo thông tin có lúc quyết định, không theo kết quả may rủi sau đó; và luôn có phương án "không làm gì" với kỳ vọng 0 để so sánh.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: sáu nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (giả định dùng tiền thay cho độ thoả dụng, xác suất và các sự kiện xung khắc, độc lập, sự kiện phụ thuộc cùng ba bài tập, phân phối xác suất và kỳ vọng, ký hiệu phân phối tay bài và odds), mỗi nhánh ghi định nghĩa, công thức và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: quyết định đưa ra trước khi biết kết quả nên được đo bằng kỳ vọng ⟨P⟩ = Σ pᵢxᵢ, và kỳ vọng có tính cộng`"]
+  n1["`Mục 1–2 — Tiền thắng trong ván thay cho độ thoả dụng`"]
+  n0 --- n1
+  n2["`Đề từ của Einstein: toán chắc chắn trong mô hình, nhưng mô hình luôn đơn giản hơn ván thật`"]
+  n1 --- n2
+  n3["`Người ta chơi poker vì giao lưu, giải trí, thi đấu, nghiện, cả tiền tài trợ ngoài ván`"]
+  n1 --- n3
+  n4["`Tiền không tuyến tính: chắc có 5 triệu đô la đáng hơn nhiều 50% cơ hội có 10 triệu`"]
+  n1 --- n4
+  n5["`Hai lựa chọn cùng kỳ vọng 5 triệu, chỉ khác độ thoả dụng vì giá trị biên giảm`"]
+  n4 --- n5
+  n6["`Mỗi người có đường thoả dụng riêng nên phân tích tổng quát theo độ thoả dụng cực kỳ khó`"]
+  n1 --- n6
+  n7["`Quy ước của sách: dùng tiền thắng làm thước đo, giả định người chơi đủ vốn`"]
+  n1 --- n7
+  n8["`Rủi ro phá sản, tiêu chuẩn Kelly, giá trị tương đương chắc chắn để dành cho Phần IV`"]
+  n1 --- n8
+  n9["`Tối đa hoá tổng tiền thắng đòi hỏi tối đa hoá kỳ vọng của từng quyết định`"]
+  n1 --- n9
+  n10["`Mục 3–4 — Xác suất, sự kiện xung khắc và độc lập`"]
+  n0 --- n10
+  n11["`Xác suất là giới hạn tần suất: p(x) = lim n₀/n khi số lần thử n → ∞`"]
+  n10 --- n11
+  n12["`Chia rất nhiều tay hold'em, tỷ lệ tay AA hội tụ về 1/221`"]
+  n10 --- n12
+  n13["`Giả định 52 lá, mỗi lá khả năng như nhau, nên p(át bích) = 1/52`"]
+  n10 --- n13
+  n14["`Xung khắc thì cộng: p(át) = 4 × 1/52 = 1/13`"]
+  n10 --- n14
+  n15["`Độc lập: xác suất đồng thời bằng tích, p(cơ và át) = (1/13)(1/4) = 1/52`"]
+  n10 --- n15
+  n16["`Sự kiện độc lập không xung khắc, trừ khi một sự kiện có xác suất 0`"]
+  n10 --- n16
+  n17["`Mọi sự kiện: p(A ∪ B) = p(A) + p(B) − p(A ∩ B), trừ phần đếm hai lần`"]
+  n10 --- n17
+  n18["`p(cơ hoặc át) = 1/4 + 1/13 − 1/52 = 16/52 = 4/13, tức 13 lá cơ và 3 át khác`"]
+  n17 --- n18
+  n19["`Mục 5–6 — Sự kiện phụ thuộc, xác suất có điều kiện và ba bài tập`"]
+  n0 --- n19
+  n20["`Shutout 3%, đội thắng 60%: p(cả hai) gần 3%, không phải 60% × 3% = 1,8%`"]
+  n19 --- n20
+  n21["`Xác suất có điều kiện p(B|A): khả năng B xảy ra khi biết A đã xảy ra`"]
+  n19 --- n21
+  n22["`Quy tắc nhân (1.5): p(A ∩ B) = p(A) p(B|A), độc lập là trường hợp p(B|A) = p(B)`"]
+  n19 --- n22
+  n23["`Bài chia không hoàn lại nên các lá bài phụ thuộc nhau`"]
+  n19 --- n23
+  n24["`Đôi át: p(B|A) = 3/51 = 1/17, nên p(AA) = (1/13)(1/17) = 1/221 ≈ 0,45%`"]
+  n23 --- n24
+  n25["`Tính chất: 0 ≤ p(A) ≤ 1, sự kiện chắc chắn có p = 1, không thể có p = 0`"]
+  n19 --- n25
+  n26["`Biến cố bù: p(A) + p(Ā) = 1, ví dụ p(không được chia AA) = 220/221`"]
+  n19 --- n26
+  n27["`Ba bài tập cho thấy các quy tắc dùng được cho gần như mọi tình huống`"]
+  n19 --- n27
+  n28["`Hai con sáu, độc lập: (1/6)(1/6) = 1/36 ≈ 2,78%`"]
+  n27 --- n28
+  n29["`AA, KK hoặc QQ, xung khắc: 3 × 1/221 = 3/221 ≈ 1,36%`"]
+  n27 --- n29
+  n30["`Hai lá cùng chất ra flush ngay ở flop: (11/50)(10/49)(9/48) = 33/3920 ≈ 0,84%`"]
+  n27 --- n30
+  n31["`Mục 7–8 — Phân phối xác suất và kỳ vọng`"]
+  n0 --- n31
+  n32["`Phân phối xác suất: danh sách đầy đủ, xung khắc các kết cục kèm xác suất`"]
+  n31 --- n32
+  n33["`Cùng một xúc xắc cho D theo mặt (mỗi mặt 1/6) và D' theo lẻ, chẵn (mỗi bên 1/2)`"]
+  n32 --- n33
+  n34["`Bài của đối thủ được biểu diễn bằng phân phối tay bài, chỉnh liên tục theo hành động và bài chung`"]
+  n31 --- n34
+  n35["`Kỳ vọng ⟨P⟩ = Σ pᵢxᵢ: tổng giá trị các kết cục nhân xác suất`"]
+  n31 --- n35
+  n36["`Cược đồng xu 10 ăn 10 có kỳ vọng 0, bằng kỳ vọng của việc từ chối`"]
+  n31 --- n36
+  n37["`Cược 11 ăn 10 có kỳ vọng +0,50 đô la mỗi lần, dù không lần nào thắng đúng 50 xu`"]
+  n31 --- n37
+  n38["`Hai con sáu trả 30, thua 1: kỳ vọng −5/36 ≈ −0,14 đô la, nên từ chối`"]
+  n31 --- n38
+  n39["`Odds thật 35 to 1 mà bàn craps chỉ trả 30 to 1, phần chênh là lợi thế của sòng`"]
+  n38 --- n39
+  n40["`Kỳ vọng có tính cộng: kỳ vọng của nhiều ván bằng tổng kỳ vọng từng ván`"]
+  n31 --- n40
+  n41["`Đồ uống miễn phí ở Las Vegas được trả bằng hàng triệu ván mà sòng có lợi thế nhỏ`"]
+  n40 --- n41
+  n42["`Mục 9 — Ký hiệu phân phối tay bài, phép toán trên kỳ vọng và odds`"]
+  n0 --- n42
+  n43["`Phân phối tay bài không ghi xác suất thì tỷ lệ giữa các tay giữ như lúc chia`"]
+  n42 --- n43
+  n44["`Người chơi chặt raise với H = {AA, KK, QQ, AKs, AKo}: 34 tổ hợp, AKo chiếm 12/34 ≈ 35,3%`"]
+  n43 --- n44
+  n45["`⟨A, B⟩ là kỳ vọng khi chơi phân phối A đấu phân phối B`"]
+  n42 --- n45
+  n46["`⟨A, B⟩ = p(AA)⟨A, AA|B⟩ + p(KK)⟨A, KK|B⟩ + p(QQ)⟨A, QQ|B⟩`"]
+  n45 --- n46
+  n47["`Nhân mọi giá trị với k thì kỳ vọng nhân k, cộng c thì kỳ vọng cộng c`"]
+  n42 --- n47
+  n48["`Odds là xác suất không xảy ra so với xác suất xảy ra: 7 to 5 ứng với 5/12 ≈ 41,7%`"]
+  n42 --- n48
+  n49["`Cửa trên 7 to 3 đọc theo chiều ngược lại: thắng 70%`"]
+  n42 --- n49
+  n50["`Odds khó dùng để tính kỳ vọng, dân cờ bạc dùng vì tiền thắng được trả theo odds`"]
+  n42 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Đánh giá quyết định bằng kỳ vọng, không bằng kết quả của một ván`"]
+  n51 --- n52
+  n53["`Luôn so với phương án không tham gia, có kỳ vọng 0`"]
+  n51 --- n53
+  n54["`Nghĩ về bài đối thủ như một phân phối và đếm tổ hợp lá`"]
+  n51 --- n54
+  n55["`Nhiều quyết định nhỏ có lợi thế nhỏ cộng lại thành lợi nhuận lớn, như sòng bạc`"]
+  n51 --- n55
+  n56["`Cách tiếp cận toán học với poker chủ yếu quan tâm tới việc tối đa hoá kỳ vọng`"]
+  n51 --- n56
+  class n0 root
+  class n1,n10,n19,n31,n42,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), trang mở Phần I "Basics" (trang 15) và Chương 1 "Decisions Under Risk: Probability and Expectation", trang 16–25.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần Giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đã nêu lời khuyên duy nhất xuyên suốt cuốn sách là "tối đa hoá lợi nhuận trung bình" và hứa rằng Phần I sẽ đặt nền xác suất, phân phối và kỳ vọng. Chương 1 làm đúng việc đó: giải thích vì sao sách dùng tiền thắng trong ván thay cho độ thoả dụng, định nghĩa xác suất, các quy tắc cộng và nhân xác suất, phân phối xác suất, và **kỳ vọng** — đại lượng mà mọi phân tích về sau tìm cách tối đa hoá.
+
+Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) bổ sung phương sai và độ lệch chuẩn để đo kết quả thực tế lệch khỏi kỳ vọng bao xa; Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) dùng xác suất có điều kiện của chương này để dựng định lý Bayes.
+
+Ký hiệu phân phối tay bài (ví dụ {AA, KK, QQ, AKs, AKo}) và ký hiệu kỳ vọng ⟨X⟩, ⟨A, B⟩ được dùng ở mọi chương sau, đặc biệt Phần II ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md), [C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md), [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)). Các khái niệm rủi ro phá sản, tiêu chuẩn Kelly và giá trị tương đương chắc chắn được nhắc ở đầu chương được để dành cho Phần IV ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), [C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)).
+
+## Lưu ý
+
+- **Phạm vi trang:** mục lục in trong sách ghi Chương 1 bắt đầu ở trang 15; theo chân trang của bản PDF này, trang 15 là trang mở Phần I (câu đề từ của Einstein), Chương 1 ở trang 16–25.
+- **Ký hiệu "cho biết" bị hỏng trong bản PDF dựng lại:** khắp chương, dấu gạch đứng "|" của xác suất có điều kiện p(B|A) bị in thành dấu "∨" (p(B∨A)), và ở vài chỗ thành ký tự "¿"; câu "Likewise, ¿ is the symbol for 'given'" (trang 19) vốn là "| là ký hiệu của 'cho biết'".
+
+  Các tích hai phân số, như (1/13)(1/4) ở trang 18, cũng in thành "(1/13 ¿ (1/4)". Công thức (1.11) in thành "¿P≥Σ pᵢxᵢ", đúng ra là ⟨P⟩ = Σ pᵢxᵢ; dòng chữ đi kèm "has a value xᵢ and a probability then pᵢ then P's expected value" bị xáo trộn, ý đúng là "có giá trị xᵢ và xác suất pᵢ, thì kỳ vọng của P là". Công thức (1.9) và (1.10) dùng gạch ngang trên đầu (Ā) cho biến cố bù; lớp chữ làm mất gạch ngang. Bản tổng hợp viết lại tất cả theo ký hiệu chuẩn.
+- **Lỗi tính trong sách (in sai, kết quả đúng):** ở ví dụ flush trên flop (trang 22), dòng thứ hai in p(A∩B) = (1/50)(10/49); đúng là (11/50)(10/49), vì p(A) = 11/50 như vừa nêu ở trang 21. Tích in sai cho 10/2450 = 1/245, còn tích đúng cho 110/2450 = 11/245 — khớp với kết quả 11/245 sách ghi ở dòng sau. Kết quả cuối 33/3920 ≈ 0,84% là đúng (người tổng hợp kiểm tra thêm bằng tổ hợp: C(11,3)/C(50,3) = 165/19.600 = 33/3920).
+- **Lỗi tính trong sách (in sai, kết quả đúng):** kỳ vọng của trò tung đồng xu 11 ăn 10 (trang 24) in là ⟨Bₙ⟩ = (1/2)(+$11) + (1/2)(−$11); đúng là (1/2)(+$11) + (1/2)(−$10) = $5,50 − $5,00 = $0,50. Biểu thức in sai cho kết quả 0, mâu thuẫn với kết quả $0,50 sách ghi ở dòng sau.
+- **Lỗi trong mục Key Concepts (trang 25):** gạch đầu dòng thứ ba viết "kỳ vọng là tổng của các *xác suất* của kết cục nhân với xác suất của chúng"; đúng là tổng các *giá trị* của kết cục nhân xác suất (gạch đầu dòng thứ năm nói đúng ý này).
+- **Lỗi đánh máy khác (có trên ảnh trang):** câu đề từ của Einstein in "As for as" hai lần, đúng là "As far as" (trang 15); "produce *no* occurrences" trong định nghĩa xác suất (trang 17) đúng là "produce n₀ occurrences" (n₀ lần xảy ra), vì công thức (1.1) dùng n₀; "fifty-cards" (trang 18) thiếu "two"; "Probability of A or 8 occurring" (trang 18) đúng là "A or B"; "Equation 1.9 can also be restarted" (trang 21) đúng là "restated"; "hi terms of probability" đúng là "In terms"; "⟨A, QO|B⟩" (trang 25) đúng là "⟨A, QQ|B⟩"; "-lay", "tiring", "deterrnine", "Tins", "Tire", "50°/o" lần lượt là "play", "thing", "determine", "This", "The", "50%".
+- **Nhãn "For dependent events" của công thức (1.5) hẹp hơn thực tế (nhận xét của người tổng hợp):** p(A∩B) = p(A) p(B|A) đúng với mọi cặp sự kiện có p(A) > 0, không chỉ sự kiện phụ thuộc — chính sách cũng nói (1.3) là trường hợp riêng của (1.5). Tương tự, khẳng định "nếu p(B|A) = p(B) thì p(A|B) = p(A)" cần p(A) > 0 và p(B) > 0.
+- **Hai quy ước odds trái chiều (nhận xét của người tổng hợp):** sách định nghĩa odds là tỷ số (xác suất không xảy ra) : (xác suất xảy ra), tức "odds chống lại", nên "7 to 5" nghĩa là xác suất xảy ra 5/12 ≈ 41,7%. Nhưng ngay sau đó, ví dụ "7 to 3 favorite" được giải thích là 70% thắng, tức tỷ số (xảy ra) : (không xảy ra). Cả hai cách nói đều phổ biến trong poker; chữ "favorite" (cửa trên) báo hiệu thứ tự thứ hai. Bản tổng hợp ghi rõ thứ tự mỗi khi dùng odds.
+- **Trùng ký hiệu:** chữ A và B được dùng cho sự kiện (A: lá đầu là át), cho tên người chơi, và cho tên phân phối tay bài của họ (A = {AA, KK, QQ, JJ, AKo, AKs}); chữ C vừa là "sự kiện chắc chắn" (1.7) vừa là phân phối của đồng xu; chữ D vừa là phân phối xúc xắc vừa là sự kiện A∩B trong ví dụ flush. Bản tổng hợp giữ ký hiệu của sách nhưng nói rõ nghĩa ở từng chỗ.
+- **Quy ước:** số thập phân viết bằng dấu phẩy (0,50 đô la); "$" giữ nguyên trong công thức chép từ sách.

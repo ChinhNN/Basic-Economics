@@ -1,18 +1,24 @@
 # Chương 10 — Đối mặt với nemesis: lý thuyết trò chơi (Facing The Nemesis: Game Theory)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), trang mở Phần III "Optimal Play" (trang 103) và Chương 10 "Facing The Nemesis: Game Theory", trang 104–113.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Phần II (Chương 4–9) dạy cách chơi khai thác (exploitive): đoán chiến lược của đối thủ rồi chọn chiến lược trả đũa tối đa (maximally exploitive) chống lại nó, từ pot odds ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) tới các trò chơi bài lật ngửa và phân phối đấu phân phối ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md), [C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md)); Chương 9 ([C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) đã cho thấy khi cả hai bên cùng thích nghi thì các chiến lược khai thác đuổi nhau mãi. Chương 10 mở Phần III "Chơi tối ưu" (Optimal Play): thay vì khai thác, người chơi tìm chiến lược không thể bị khai thác. Chương đặt toàn bộ bộ từ vựng lý thuyết trò chơi mà mười một chương sau dùng: ma trận thưởng, trò chơi tổng bằng không, thông tin ẩn, chiến lược hỗn hợp, cặp chiến lược tối ưu, nemesis, cân bằng Nash, điểm bàng quan, chiến lược bị trội, chiến lược đồng tối ưu, và phép loại bỏ chiến lược bị trội. Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) áp ngay phương pháp "làm cho đối thủ bàng quan" vào trò chơi poker đầu tiên — trò chơi thấu thị (clairvoyance game) một half-street, mà người tổng hợp cho là trò chơi poker "có cùng cấu trúc" với Cảnh sát và Kẻ trộm như cuối Example 10.5 hứa — rồi Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)), Chương 13 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)) và các trò chơi [0,1] ở Chương 15–18 phát triển tiếp.
-**Ý chính:** **Khi không chắc mình khai thác được đối thủ — vì đối thủ mạnh, vì chưa biết đối thủ, hoặc vì đối thủ cũng thích nghi — người chơi nên tìm chiến lược tối ưu: chiến lược có kỳ vọng cao nhất khi đối thủ là một "nemesis" luôn biết chiến lược của ta và luôn chơi chiến lược trả đũa tối đa chống lại nó.** Chương mở bằng định nghĩa trò chơi (hai người trở lên, ít nhất một người có lựa chọn, có tập kết quả, kết quả phụ thuộc lựa chọn), chiến lược và khoản thưởng (payoff). Ba thuộc tính của trò chơi được phân biệt: tổng không đổi hay tổng bằng không (poker không có phí rake là tổng bằng không); chơi lần lượt hay đồng thời; có thông tin ẩn hay không (cờ vua và backgammon không có, poker có). Trò chơi có thông tin ẩn có thể có chiến lược tối ưu hỗn hợp. Trong trò chơi tổng bằng không hai người, một cặp chiến lược là tối ưu nếu không ai tăng được kỳ vọng bằng cách đơn phương đổi chiến lược; tương đương, hai chiến lược khai thác tối đa lẫn nhau. Hai tính chất toán học được nêu: nếu cho phép chiến lược hỗn hợp thì chiến lược tối ưu luôn tồn tại; và nếu chiến lược tối ưu trộn nhiều hành động thì mọi hành động được trộn có cùng kỳ vọng trước chiến lược tối ưu của đối thủ — nên chơi tối ưu không bao giờ "chịu lỗ để đánh lừa". Năm ví dụ minh hoạ: **Chẵn Lẻ** (Odds and Evens) — chiến lược tối ưu 50/50, kỳ vọng 0; **Oẳn tù tì** (Roshambo) — {1/3, 1/3, 1/3}; **Roshambo-S** (thắng bằng kéo được 2 đơn vị) — chiến lược tối ưu chuyển sang {1/2 búa, 1/4 bao, 1/4 kéo}, tức là *ít* kéo hơn khi kéo được thưởng nhiều hơn, giống việc bluff ít hơn khi pot lớn hơn; **Roshambo-F** (thêm "hoa") — hoa bị bao trội nên bị loại, thêm "kéo an toàn" thì kéo an toàn bị kéo trội nhưng vẫn đồng tối ưu; loại dần các chiến lược bị trội đưa trò chơi năm lựa chọn về Oẳn tù tì cơ bản; **Cảnh sát và Kẻ trộm** — cảnh sát tuần tra 1/3 thời gian, kẻ trộm đi trộm 1/3 thời gian, tìm được bằng cách đặt kỳ vọng hai lựa chọn của đối phương bằng nhau. Khi các chiến lược thuần khai thác lẫn nhau theo vòng tròn (X chơi A, Y đáp bằng B, X đáp bằng C, Y đáp bằng D, X lại về A), chiến lược tối ưu sẽ là hỗn hợp. Trong trò chơi tổng khác không hoặc nhiều người, điều kiện "không ai đơn phương cải thiện được" định nghĩa cân bằng Nash; mọi trò chơi có ma trận thưởng hữu hạn đều có ít nhất một cân bằng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lỗi trong ma trận năm lựa chọn (Roshambo-F thêm kéo an toàn, trang 110–111):** ô hàng Rock (búa), cột Safety (kéo an toàn) in là **−1**; đúng phải là **+1**. Lý do: theo lời văn, kéo an toàn "chơi y như kéo thường (thua búa, cắt bao) nhưng thua hoa", và chính hàng Safety của bảng ghi Safety đấu Rock là −1; trong trò chơi tổng bằng không, ô (Rock, Safety) phải bằng trừ ô (Safety, Rock), tức +1. Nếu giữ −1 thì cả búa lẫn kéo an toàn cùng thua khi gặp nhau, trò chơi không còn tổng bằng không, và người chơi B dùng kéo an toàn sẽ được +2/3 trước chiến lược {1/3, 1/3, 1/3} của A (tính từ cột Safety: (−1 − 1 + 0)/3 = −2/3 cho A), làm hỏng kết luận rằng nghiệm của trò chơi mở rộng giống Oẳn tù tì cơ bản. Với giá trị đúng +1, cột Safety cho A (+1 − 1 + 0)/3 = 0, đúng như sách nói kéo an toàn đồng tối ưu.
-> - **"Chỉ trò chơi có thông tin ẩn hoặc chơi lần lượt mới có chiến lược tối ưu hỗn hợp" (trang 105) — có lẽ phải là "chơi đồng thời" (nhận xét của người tổng hợp):** chính ví dụ của sách (Chẵn Lẻ, Oẳn tù tì) là trò chơi đồng thời có chiến lược tối ưu hỗn hợp, còn theo hiểu biết của người tổng hợp, trò chơi lần lượt có thông tin hoàn hảo (như cờ vua, cờ đam) luôn có chiến lược tối ưu thuần (định lý Zermelo–Kuhn). Chơi đồng thời thực chất là một dạng thông tin ẩn (không thấy nước đi của đối thủ).
-> - **"Chuyển trò chơi tổng không đổi thành tổng bằng không bằng cách *nhân* (scaling) khoản thưởng" (trang 105) — đúng ra là *trừ* hằng số** (dịch chuyển khoản thưởng), không phải nhân; nhân không đổi tổng khác không thành không (nhận xét của người tổng hợp).
-> - **Nhãn trục Hình 10.1:** trục hoành ghi "p(X plays 0 pennies)", trong khi lời văn gọi người chơi là B và tỷ lệ là x; các số chia trục bị in dính thành "00.20.40.60.8 1.0" (ý là 0; 0,2; 0,4; 0,6; 0,8; 1,0). Lời văn cũng ghi "His EV for 1 penny > 0.5" nhưng công thức kèm theo là trường hợp x < 0,5 (B chơi 1 đồng xu nhiều hơn 50%) — ý đúng.
-> - **Lỗi đánh máy:** "scission" (thay cho scissors, trang 108), "srategy" (trang 107), "satisify" (trang 106 và Key Concepts), "hut loses" (thay cho "but loses", trang 111), "milted strategies" (thay cho "mixed", Key Concepts), "if we have 1 strategic option" (ý là "một lựa chọn"), "Mixed strategies… Yi of the time" là lỗi OCR của 1/3 (trang 108). Các phân số 1/3, 1/2, 1/4 trong lớp chữ bị in thành "13", "12", "14"; đã đọc lại từ ảnh trang.
-> - **Sách không nêu giá trị của trò chơi Cảnh sát và Kẻ trộm.** Người tổng hợp tính: khi cảnh sát tuần tra 1/3, kỳ vọng của kẻ trộm là 1 − 2 × 1/3 = 1/3 (nếu trộm) và 1/3 (nếu ở nhà), nên trò chơi có giá trị **+1/3 đơn vị cho kẻ trộm** mỗi lượt, −1/3 cho cảnh sát. Đây là trò chơi không đối xứng, nên giá trị tối ưu không phải 0.
-> - **Quy ước thuật ngữ:** "nemesis" giữ nguyên tiếng Anh như sách; "optimal" dịch là "tối ưu" và chỉ dùng theo nghĩa hẹp sách định nghĩa (một phần của cặp chiến lược tối ưu); "indifference threshold" dịch là "ngưỡng bàng quan"; "co-optimal" dịch là "đồng tối ưu". Trong chương này sách gọi hai người chơi là A và B (và cảnh sát, kẻ trộm); tên X và Y chỉ xuất hiện ở đoạn về khai thác vòng tròn. Ký hiệu ⟨P, s⟩ (sách viết <P, s>) là kỳ vọng của người chơi P khi chọn s.
+**Khi không chắc mình khai thác được đối thủ — vì đối thủ mạnh, vì chưa biết đối thủ, hoặc vì đối thủ cũng thích nghi — người chơi nên tìm chiến lược tối ưu: chiến lược có kỳ vọng cao nhất khi đối thủ là một "nemesis" luôn biết chiến lược của ta và luôn chơi chiến lược trả đũa tối đa chống lại nó.**
+
+Chương mở bằng định nghĩa trò chơi (hai người trở lên, ít nhất một người có lựa chọn, có tập kết quả, kết quả phụ thuộc lựa chọn), chiến lược và khoản thưởng (payoff). Ba thuộc tính của trò chơi được phân biệt: tổng không đổi hay tổng bằng không (poker không có phí rake là tổng bằng không); chơi lần lượt hay đồng thời; có thông tin ẩn hay không (cờ vua và backgammon không có, poker có). Trò chơi có thông tin ẩn có thể có chiến lược tối ưu hỗn hợp.
+
+Trong trò chơi tổng bằng không hai người, một cặp chiến lược là tối ưu nếu không ai tăng được kỳ vọng bằng cách đơn phương đổi chiến lược; tương đương, hai chiến lược khai thác tối đa lẫn nhau. Hai tính chất toán học được nêu: nếu cho phép chiến lược hỗn hợp thì chiến lược tối ưu luôn tồn tại; và nếu chiến lược tối ưu trộn nhiều hành động thì mọi hành động được trộn có cùng kỳ vọng trước chiến lược tối ưu của đối thủ — nên chơi tối ưu không bao giờ "chịu lỗ để đánh lừa".
+
+Năm ví dụ minh hoạ:
+
+- **Chẵn Lẻ** (Odds and Evens) — chiến lược tối ưu 50/50, kỳ vọng 0.
+- **Oẳn tù tì** (Roshambo) — {1/3, 1/3, 1/3}.
+- **Roshambo-S** (thắng bằng kéo được 2 đơn vị) — chiến lược tối ưu chuyển sang {1/2 búa, 1/4 bao, 1/4 kéo}, tức là *ít* kéo hơn khi kéo được thưởng nhiều hơn, giống việc bluff ít hơn khi pot lớn hơn.
+- **Roshambo-F** (thêm "hoa") — hoa bị bao trội nên bị loại, thêm "kéo an toàn" thì kéo an toàn bị kéo trội nhưng vẫn đồng tối ưu; loại dần các chiến lược bị trội đưa trò chơi năm lựa chọn về Oẳn tù tì cơ bản.
+- **Cảnh sát và Kẻ trộm** — cảnh sát tuần tra 1/3 thời gian, kẻ trộm đi trộm 1/3 thời gian, tìm được bằng cách đặt kỳ vọng hai lựa chọn của đối phương bằng nhau.
+
+Khi các chiến lược thuần khai thác lẫn nhau theo vòng tròn (X chơi A, Y đáp bằng B, X đáp bằng C, Y đáp bằng D, X lại về A), chiến lược tối ưu sẽ là hỗn hợp.
+
+Trong trò chơi tổng khác không hoặc nhiều người, điều kiện "không ai đơn phương cải thiện được" định nghĩa cân bằng Nash; mọi trò chơi có ma trận thưởng hữu hạn đều có ít nhất một cân bằng.
 
 ## Sơ đồ
 
@@ -281,13 +287,15 @@ Hai người chơi. Mỗi người giấu trong tay một đồng xu hoặc khô
 
 #### Ba thuộc tính của trò chơi
 
-**Tổng không đổi và tổng bằng không.** Một số trò chơi, như Chẵn Lẻ hay poker không có rake (phí nhà cái thu từ pot), là trò chơi **tổng không đổi** (constant-sum): tổng khoản thưởng của mọi người luôn bằng một hằng số. Trong poker hằng số đó là 0, nên thường nói trò chơi **tổng bằng không** (zero-sum). Mọi trò chơi tổng không đổi đều đưa được về tổng bằng không (sách nói bằng cách "nhân" khoản thưởng cho phù hợp; đúng ra là trừ đi hằng số, xem Lưu ý).
+**Tổng không đổi và tổng bằng không.** Một số trò chơi, như Chẵn Lẻ hay poker không có rake (phí nhà cái thu từ pot), là trò chơi **tổng không đổi** (constant-sum): tổng khoản thưởng của mọi người luôn bằng một hằng số. Trong poker hằng số đó là 0, nên thường nói trò chơi **tổng bằng không** (zero-sum). Mọi trò chơi tổng không đổi đều đưa được về tổng bằng không (sách nói bằng cách "nhân" khoản thưởng cho phù hợp; đúng ra là trừ đi hằng số, xem mục Lưu ý cuối chương).
 
 **Chơi lần lượt hay đồng thời.** Chẵn Lẻ là trò chơi đồng thời; cờ đam là trò chơi lần lượt — một người đi rồi người kia đi. Theo một nghĩa nào đó, có thể biến mọi trò chơi thành đồng thời bằng cách bắt mỗi người khai báo trước toàn bộ chiến lược, kể cả cho mọi nhánh của cây trò chơi. Tuy vậy, phân biệt đồng thời và lần lượt vẫn hữu ích vì nó cho biết điều gì đó về chiến lược hỗn hợp.
 
-**Thông tin ẩn.** Thông tin ẩn là thông tin một người có mà người kia không có. Cờ vua không có thông tin ẩn: toàn bộ thế cờ hiện ra cho cả hai bên, và trò chơi hoàn toàn tất định — một người hay máy tính đủ sức tính có thể xét mọi nhánh của cây trò chơi để tìm nước đi tốt nhất. Backgammon không có thông tin ẩn nhưng không tất định: mỗi lần gieo xúc xắc cây trò chơi rẽ nhánh, nhưng cơ chế ngẫu nhiên đó cả hai cùng biết; dù chơi hoàn hảo cũng không bảo đảm thắng, nhưng không ai có thông tin mà người kia không có. Poker thì dựa vào thông tin ẩn: mỗi người biết bài của mình, và biết bài của đối thủ sẽ là lợi thế rất lớn. Vì vậy nhiệm vụ của poker là rút giá trị bằng cách tận dụng thông tin ẩn.
+**Thông tin ẩn.** Thông tin ẩn là thông tin một người có mà người kia không có. Cờ vua không có thông tin ẩn: toàn bộ thế cờ hiện ra cho cả hai bên, và trò chơi hoàn toàn tất định — một người hay máy tính đủ sức tính có thể xét mọi nhánh của cây trò chơi để tìm nước đi tốt nhất.
 
-Về mặt lý thuyết trò chơi, điều quan trọng nhất ở trò chơi có thông tin ẩn là chiến lược tối ưu của nó có thể chứa **chiến lược hỗn hợp** (mixed strategy) — tức là trong cùng một tình huống, chiến lược gồm hai hay nhiều hành động. Ví dụ: "với AA trong bàn đông người, raise một nửa số lần, limp (chỉ call blind) rồi re-raise nửa kia" là một chiến lược hỗn hợp. Sách viết rằng chỉ trò chơi có thông tin ẩn hoặc chơi lần lượt mới có chiến lược tối ưu hỗn hợp; như Lưu ý đã nêu, ý đúng có lẽ là "chơi đồng thời".
+Backgammon không có thông tin ẩn nhưng không tất định: mỗi lần gieo xúc xắc cây trò chơi rẽ nhánh, nhưng cơ chế ngẫu nhiên đó cả hai cùng biết; dù chơi hoàn hảo cũng không bảo đảm thắng, nhưng không ai có thông tin mà người kia không có. Poker thì dựa vào thông tin ẩn: mỗi người biết bài của mình, và biết bài của đối thủ sẽ là lợi thế rất lớn. Vì vậy nhiệm vụ của poker là rút giá trị bằng cách tận dụng thông tin ẩn.
+
+Về mặt lý thuyết trò chơi, điều quan trọng nhất ở trò chơi có thông tin ẩn là chiến lược tối ưu của nó có thể chứa **chiến lược hỗn hợp** (mixed strategy) — tức là trong cùng một tình huống, chiến lược gồm hai hay nhiều hành động. Ví dụ: "với AA trong bàn đông người, raise một nửa số lần, limp (chỉ call blind) rồi re-raise nửa kia" là một chiến lược hỗn hợp. Sách viết rằng chỉ trò chơi có thông tin ẩn hoặc chơi lần lượt mới có chiến lược tối ưu hỗn hợp; như mục Lưu ý cuối chương đã nêu, ý đúng có lẽ là "chơi đồng thời".
 
 #### Chiến lược tối ưu, nemesis và cân bằng Nash
 
@@ -393,7 +401,9 @@ Biến thể Roshambo-F thêm lựa chọn "hoa": hoa thua búa và kéo, hoà b
 
 Không chiến lược nào có hoa lại tốt bằng chính chiến lược đó khi thay hoa bằng bao với cùng tần suất: so hàng Bao (+1, 0, −1, 0) với hàng Hoa (−1, 0, −1, 0), bao không kém ở mọi cột và hơn hẳn ở cột Búa. Vậy **hoa bị bao trội**.
 
-**Bị trội chặt** (strictly dominated): S' tốt hơn hẳn S (không phải bằng) trước mọi chiến lược đối thủ. Điều này hay xảy ra khi đã hết lựa chọn chiến lược; ví dụ poker: trong cash game có blind trong pot, đối thủ đẩy all-in preflop và bạn là người cuối cùng còn lại trong ván, cầm AA. Dù chiến lược của đối thủ là gì, call cũng có kỳ vọng cao hơn fold (fold được 0; theo hiểu biết của người tổng hợp, AA có equity khoảng 77% trở lên trước mọi tay bài khác, nên với pot gồm hai phần cược bằng nhau cộng tiền blind, call luôn có kỳ vọng dương). Vậy call trội chặt fold. Chiến lược tối ưu không thể chứa lựa chọn bị trội chặt: nếu có, người chơi chỉ cần thay bằng lựa chọn kỳ vọng cao hơn là đơn phương cải thiện được.
+**Bị trội chặt** (strictly dominated): S' tốt hơn hẳn S (không phải bằng) trước mọi chiến lược đối thủ. Điều này hay xảy ra khi đã hết lựa chọn chiến lược; ví dụ poker: trong cash game có blind trong pot, đối thủ đẩy all-in preflop và bạn là người cuối cùng còn lại trong ván, cầm AA.
+
+Dù chiến lược của đối thủ là gì, call cũng có kỳ vọng cao hơn fold (fold được 0; theo hiểu biết của người tổng hợp, AA có equity khoảng 77% trở lên trước mọi tay bài khác, nên với pot gồm hai phần cược bằng nhau cộng tiền blind, call luôn có kỳ vọng dương). Vậy call trội chặt fold. Chiến lược tối ưu không thể chứa lựa chọn bị trội chặt: nếu có, người chơi chỉ cần thay bằng lựa chọn kỳ vọng cao hơn là đơn phương cải thiện được.
 
 **Lựa chọn chiến lược có giá trị không âm.** Trong trò chơi tổng bằng không hai người, thêm một lựa chọn chiến lược cho một người không thể làm giảm kỳ vọng của họ trong trò chơi, vì họ có thể làm như lựa chọn đó không tồn tại và chơi chiến lược cũ để được kỳ vọng cũ; thường thì họ còn đưa được lựa chọn mới vào chiến lược để tăng giá trị.
 
@@ -407,7 +417,7 @@ Tuy vậy, khi tìm chiến lược tối ưu trong poker, tác giả chủ yế
 
 #### Loại dần chiến lược bị trội
 
-Khi có lựa chọn bị trội, có thể dùng một quy trình lặp để đơn giản hoá trò chơi. Bắt đầu từ ma trận đầy đủ năm lựa chọn (khoản thưởng của A; ô Búa–Kéo an toàn đã sửa từ −1 thành +1, xem Lưu ý):
+Khi có lựa chọn bị trội, có thể dùng một quy trình lặp để đơn giản hoá trò chơi. Bắt đầu từ ma trận đầy đủ năm lựa chọn (khoản thưởng của A; ô Búa–Kéo an toàn đã sửa từ −1 thành +1, xem mục Lưu ý cuối chương):
 
 | A \ B | Búa | Bao | Kéo | Hoa | Kéo an toàn |
 |---|---|---|---|---|---|
@@ -625,7 +635,7 @@ Chương dạy lý thuyết trò chơi tổng bằng không bằng năm trò ch�
 
 - Định nghĩa "tối ưu" chỉ đúng nghĩa cho trò chơi tổng bằng không hai người; poker thật có rake (tổng âm) và thường nhiều người. Sách thừa nhận và hẹn Phần V.
 - Chương không chứng minh sự tồn tại của chiến lược tối ưu (định lý minimax), chỉ phát biểu.
-- Câu về "thông tin ẩn hoặc chơi lần lượt" và "nhân khoản thưởng" không chính xác (xem Lưu ý); bảng năm lựa chọn có một ô sai dấu.
+- Câu về "thông tin ẩn hoặc chơi lần lượt" và "nhân khoản thưởng" không chính xác (xem mục Lưu ý cuối chương); bảng năm lựa chọn có một ô sai dấu.
 - Chiến lược tối ưu được trình bày như chiến lược "phòng thủ" có kỳ vọng 0 trong trò chơi đối xứng; trong poker thật, chiến lược tối ưu vẫn thắng đối thủ mắc lỗi (vì đối thủ chơi lựa chọn bị trội), điều chương chỉ ngụ ý ở đoạn về chiến lược không bị trội.
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp)
@@ -644,4 +654,180 @@ Thuật ngữ cộng đồng ngày nay gọi chiến lược tối ưu theo ngh�
 ### Vận dụng
 
 - **Người chơi poker:** khi gặp đối thủ lạ hoặc mạnh, hãy dùng chiến lược cân bằng làm mặc định rồi chỉ lệch khỏi nó khi có bằng chứng về điểm yếu cụ thể. Khi trộn hành động (bluff hay check, raise hay limp), dùng một nguồn ngẫu nhiên — ví dụ màu lá bài tẩy hay kim giây đồng hồ — thay vì cảm giác. Đừng chơi một tay bài "cho có hình ảnh" nếu kỳ vọng của nó thấp hơn cách chơi khác.
-- **Người làm tài chính, ra quyết định:** nemesis tương ứng với cách nghĩ "kịch bản xấu nhất do một đối thủ có chủ đích tạo ra" — ví dụ thiết kế kiểm toán, thanh tra thuế, an ninh. Cảnh sát và Kẻ trộm chính là mô hình kiểm tra ngẫu nhiên: cơ quan kiểm tra không thể kiểm tra mọi lúc (tốn kém) và không thể không kiểm tra (bị lợi dụng), nên kiểm tra ngẫu nhiên với tỷ lệ làm đối phương bàng quan giữa tuân thủ và vi phạm. Bài học Roshambo-S cũng áp dụng: khi phần thưởng cho vi phạm tăng, tỷ lệ vi phạm cân bằng lại *giảm* còn tỷ lệ kiểm tra cân bằng *tăng* — người tổng hợp nhận xét đây là kết quả quen thuộc trong mô hình kiểm tra (inspection games). Trong đàm phán và định giá cạnh tranh, phép loại bỏ chiến lược bị trội giúp thu hẹp số phương án phải phân tích.
+- **Người làm tài chính, ra quyết định:** nemesis tương ứng với cách nghĩ "kịch bản xấu nhất do một đối thủ có chủ đích tạo ra" — ví dụ thiết kế kiểm toán, thanh tra thuế, an ninh. Cảnh sát và Kẻ trộm chính là mô hình kiểm tra ngẫu nhiên: cơ quan kiểm tra không thể kiểm tra mọi lúc (tốn kém) và không thể không kiểm tra (bị lợi dụng), nên kiểm tra ngẫu nhiên với tỷ lệ làm đối phương bàng quan giữa tuân thủ và vi phạm.
+
+  Bài học Roshambo-S cũng áp dụng: khi phần thưởng cho vi phạm tăng, tỷ lệ vi phạm cân bằng lại *giảm* còn tỷ lệ kiểm tra cân bằng *tăng* — người tổng hợp nhận xét đây là kết quả quen thuộc trong mô hình kiểm tra (inspection games). Trong đàm phán và định giá cạnh tranh, phép loại bỏ chiến lược bị trội giúp thu hẹp số phương án phải phân tích.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: bảy nhánh lớn đi theo các mục 1–8 và phần Luận điểm cốt lõi trong Nội dung chi tiết (vì sao cần chơi tối ưu, Chẵn Lẻ với các định nghĩa nemesis và cân bằng Nash, Oẳn tù tì và Roshambo-S với ngưỡng bàng quan, Roshambo-F với chiến lược bị trội và đồng tối ưu, Cảnh sát và Kẻ trộm, quy trình giải một trò chơi nhỏ), mỗi nhánh ghi định nghĩa, công thức, nghiệm và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: khi không chắc khai thác được đối thủ, hãy chơi chiến lược tối ưu, có kỳ vọng cao nhất trước nemesis`"]
+  n1["`Mục 1–2 — Vì sao cần chơi tối ưu thay vì khai thác`"]
+  n0 --- n1
+  n2["`Bàn có cả người mạnh, giải đấu không cho chọn đối thủ, có khi đối thủ giỏi hơn ta`"]
+  n1 --- n2
+  n3["`Gặp đối thủ mới, người ta thường khai thác mặc định theo hồ sơ điển hình và nhường lợi thế cho người giỏi hơn`"]
+  n1 --- n3
+  n4["`Đề xuất: chiến lược vững về nền tảng, bỏ một ít lợi nhuận khai thác để đổi lấy không bị khai thác`"]
+  n1 --- n4
+  n5["`Trò chơi: hai người trở lên, có lựa chọn, kết quả phụ thuộc lựa chọn và gọi là khoản thưởng (payoff)`"]
+  n1 --- n5
+  n6["`Chiến lược là bản quy định mọi lựa chọn tại mọi điểm quyết định khả dĩ`"]
+  n1 --- n6
+  n7["`Đề từ Tôn Tử: tính nhiều trước trận thì thắng, nên chiến lược tối ưu được tính trước`"]
+  n1 --- n7
+  n8["`Mục 3 — Chẵn Lẻ: thuộc tính trò chơi, nemesis, cân bằng Nash`"]
+  n0 --- n8
+  n9["`Mỗi người giấu 0 hoặc 1 xu#59; tổng chẵn A thắng 1 đơn vị, tổng lẻ B thắng 1 đơn vị`"]
+  n8 --- n9
+  n10["`Ba thuộc tính: tổng bằng không hay không, đồng thời hay lần lượt, có thông tin ẩn hay không`"]
+  n8 --- n10
+  n11["`Poker không rake là trò chơi tổng bằng không`"]
+  n10 --- n11
+  n12["`Cờ vua tất định, backgammon có xúc xắc nhưng không ẩn, poker có thông tin ẩn vì mỗi người chỉ biết bài mình`"]
+  n10 --- n12
+  n13["`Thông tin ẩn cho phép chiến lược tối ưu hỗn hợp, như với AA raise một nửa, limp rồi re-raise nửa kia`"]
+  n10 --- n13
+  n14["`Cặp chiến lược tối ưu: không ai tăng được kỳ vọng bằng cách đơn phương đổi chiến lược`"]
+  n8 --- n14
+  n15["`Nemesis luôn biết chiến lược của ta và luôn trả đũa tối đa#59; tối ưu là kỳ vọng cao nhất trước nemesis`"]
+  n14 --- n15
+  n16["`Cặp chiến lược tối ưu gồm hai chiến lược khai thác tối đa lẫn nhau`"]
+  n14 --- n16
+  n17["`Trò chơi tổng khác không hoặc nhiều người: cùng điều kiện gọi là cân bằng Nash, ma trận hữu hạn có ít nhất một`"]
+  n14 --- n17
+  n18["`Cho phép chiến lược hỗn hợp thì chiến lược tối ưu luôn tồn tại`"]
+  n8 --- n18
+  n19["`Mọi hành động được trộn có cùng kỳ vọng, nên chơi tối ưu không có nước chịu lỗ để quảng cáo (loss leader)`"]
+  n8 --- n19
+  n20["`B giấu 0 xu tỷ lệ x: x #gt; 0,5 cho kỳ vọng 1 − 2x, x #lt; 0,5 cho 2x − 1, đều âm`"]
+  n8 --- n20
+  n21["`Đồ thị kỳ vọng hình Λ, đỉnh 0 tại x = 0,5, nên tối ưu là 50/50 bằng nguồn ngẫu nhiên bên ngoài`"]
+  n20 --- n21
+  n22["`Trò chơi đối xứng thì chiến lược tối ưu cho kỳ vọng 0`"]
+  n20 --- n22
+  n23["`Mục 4–5 — Oẳn tù tì, ngưỡng bàng quan, Roshambo-S`"]
+  n0 --- n23
+  n24["`Oẳn tù tì: B chơi {1/3, 1/3, 1/3}, thắng, hoà, thua mỗi thứ 1/3 số lần, kỳ vọng 0`"]
+  n23 --- n24
+  n25["`B ra búa 40%, bao 30%, kéo 30% thì nemesis luôn ra bao, được 0,1 mỗi ván`"]
+  n23 --- n25
+  n26["`Ngưỡng bàng quan: chiến lược S làm nemesis bàng quan giữa các lựa chọn khai thác là chiến lược tối ưu`"]
+  n23 --- n26
+  n27["`Roshambo-S: thắng bằng kéo được 2#59; {1/3, 1/3, 1/3} bị phá vì luôn ra kéo thắng 1/3 mỗi ván`"]
+  n23 --- n27
+  n28["`A chơi {a, b, c}, đặt kỳ vọng ba lựa chọn của B bằng nhau: c − b = a − 2c = 2b − a`"]
+  n27 --- n28
+  n29["`Nghiệm a = 2b = 2c, tức {1/2 búa, 1/4 bao, 1/4 kéo}, kỳ vọng 0`"]
+  n27 --- n29
+  n30["`Kéo được thưởng nhiều thì dùng kéo ít đi (1/4 thay vì 1/3) và tăng búa để chống kéo`"]
+  n27 --- n30
+  n31["`Trong poker: pot càng lớn thì bluff càng ít, vì bluff thành công càng có lời`"]
+  n30 --- n31
+  n32["`Mục 6 — Roshambo-F: bị trội, bị trội chặt, đồng tối ưu`"]
+  n0 --- n32
+  n33["`S bị S' trội nếu ⟨S'⟩ ≥ ⟨S⟩ trước mọi chiến lược đối thủ và ⟨S'⟩ #gt; ⟨S⟩ trước ít nhất một`"]
+  n32 --- n33
+  n34["`Hoa thua búa và kéo, hoà bao và hoa, nên hoa bị bao trội`"]
+  n32 --- n34
+  n35["`Bị trội chặt: S' hơn hẳn S trước mọi chiến lược#59; chiến lược tối ưu không chứa lựa chọn bị trội chặt`"]
+  n32 --- n35
+  n36["`Cầm AA, người cuối còn lại, đối thủ all-in preflop trong cash game có blind: call trội chặt fold`"]
+  n35 --- n36
+  n37["`Trong trò chơi tổng bằng không hai người, thêm lựa chọn không làm giảm kỳ vọng`"]
+  n32 --- n37
+  n38["`Kéo an toàn bị kéo trội nhưng vẫn đồng tối ưu, vì cặp tối ưu không bao giờ có hoa`"]
+  n32 --- n38
+  n39["`B chơi {1/3 búa, 1/3 bao, 1/6 kéo, 1/6 kéo an toàn} thì A không có lựa chọn nào dương`"]
+  n38 --- n39
+  n40["`Ô (Búa, Kéo an toàn) sách in −1, đúng phải là +1 để trò chơi tổng bằng không`"]
+  n38 --- n40
+  n41["`Loại dần: bỏ kéo an toàn rồi bỏ hoa, về Oẳn tù tì với nghiệm {1/3, 1/3, 1/3}`"]
+  n32 --- n41
+  n42["`Phải bỏ kéo an toàn trước, vì trong trò chơi năm lựa chọn hoa thắng kéo an toàn còn bao thua`"]
+  n41 --- n42
+  n43["`Cặp chiến lược tối ưu của trò chơi con G' cũng là cặp tối ưu của G`"]
+  n41 --- n43
+  n44["`Với poker, tác giả ưu tiên chiến lược không bị trội để vẫn thu lợi từ sai lầm của đối thủ`"]
+  n32 --- n44
+  n45["`Mục 7 — Cảnh sát và Kẻ trộm: vòng khai thác dẫn tới hỗn hợp`"]
+  n0 --- n45
+  n46["`Trộm được 1 nếu không tuần tra, mất 1 nếu bị bắt#59; ở nhà mà cảnh sát tuần tra thì cảnh sát mất 1`"]
+  n45 --- n46
+  n47["`Cảnh sát tuần tra x: kẻ trộm đi trộm được 1 − 2x, ở nhà được x, bằng nhau khi x = 1/3`"]
+  n45 --- n47
+  n48["`Kẻ trộm đi trộm x: cảnh sát tuần tra được 2x − 1, không tuần tra được −x, bằng nhau khi x = 1/3`"]
+  n45 --- n48
+  n49["`Người tổng hợp tính: giá trị trò chơi +1/3 cho kẻ trộm mỗi lượt, vì trò chơi không đối xứng`"]
+  n45 --- n49
+  n50["`Luôn trộm, cảnh sát luôn tuần tra, kẻ trộm luôn ở nhà, cảnh sát thôi tuần tra: khai thác vòng tròn`"]
+  n45 --- n50
+  n51["`Tổng quát: X chơi A, Y đáp B, X đáp C, Y đáp D, X về A, nên X trộn A với C, Y trộn B với D`"]
+  n50 --- n51
+  n52["`Không biết lựa chọn nào được trộn thì tham số hoá: đoán cấu trúc nghiệm, dùng lại ở trò chơi [0,1]`"]
+  n45 --- n52
+  n53["`Cùng cấu trúc với trò chơi thấu thị Chương 11: bluff như đi trộm, call như tuần tra`"]
+  n45 --- n53
+  n54["`Mục 8 và Luận điểm — Quy trình giải một trò chơi nhỏ`"]
+  n0 --- n54
+  n55["`Giả định: tổng bằng không hai người, ngẫu nhiên hoá chính xác, trung lập rủi ro, nemesis biết chiến lược`"]
+  n54 --- n55
+  n56["`Viết ma trận thưởng, rồi loại dần các lựa chọn bị trội của cả hai bên`"]
+  n54 --- n56
+  n57["`Thấy các chiến lược thuần khai thác nhau theo vòng tròn thì đoán chiến lược tối ưu trộn các lựa chọn trong vòng`"]
+  n54 --- n57
+  n58["`Đặt kỳ vọng các lựa chọn của đối thủ bằng nhau, giải ra tỷ lệ trộn của mình`"]
+  n54 --- n58
+  n59["`Kiểm tra: không ai cải thiện được bằng cách đơn phương thay đổi`"]
+  n54 --- n59
+  n60["`Định lý minimax: max#95;p min#95;q pᵀAq = min#95;q max#95;p pᵀAq#59; nemesis là phép lấy min theo q`"]
+  n54 --- n60
+  n61["`Thông điệp xuyên suốt`"]
+  n0 --- n61
+  n62["`Chơi tối ưu là bảo hiểm: không thắng nhiều nhất trước người yếu, nhưng không thua trước người mạnh`"]
+  n61 --- n62
+  n63["`Muốn trộn đúng tỷ lệ cần nguồn ngẫu nhiên như màu lá bài tẩy hay kim giây, không dựa vào cảm giác`"]
+  n61 --- n63
+  n64["`Solver từ 2015, Libratus 2017 và Pluribus 2019 chơi chiến lược hỗn hợp gần cân bằng bằng CFR`"]
+  n61 --- n64
+  n65["`Kiểm tra ngẫu nhiên trong thuế, kiểm toán là Cảnh sát và Kẻ trộm: thưởng cho vi phạm tăng thì tỷ lệ vi phạm giảm, tỷ lệ kiểm tra tăng`"]
+  n61 --- n65
+  class n0 root
+  class n1,n8,n23,n32,n45,n54,n61 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n62,n63,n64,n65 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), trang mở Phần III "Optimal Play" (trang 103) và Chương 10 "Facing The Nemesis: Game Theory", trang 104–113.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần II (Chương 4–9) dạy cách chơi khai thác (exploitive): đoán chiến lược của đối thủ rồi chọn chiến lược trả đũa tối đa (maximally exploitive) chống lại nó, từ pot odds ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) tới các trò chơi bài lật ngửa và phân phối đấu phân phối ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md), [C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md)); Chương 9 ([C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) đã cho thấy khi cả hai bên cùng thích nghi thì các chiến lược khai thác đuổi nhau mãi.
+
+Chương 10 mở Phần III "Chơi tối ưu" (Optimal Play): thay vì khai thác, người chơi tìm chiến lược không thể bị khai thác. Chương đặt toàn bộ bộ từ vựng lý thuyết trò chơi mà mười một chương sau dùng: ma trận thưởng, trò chơi tổng bằng không, thông tin ẩn, chiến lược hỗn hợp, cặp chiến lược tối ưu, nemesis, cân bằng Nash, điểm bàng quan, chiến lược bị trội, chiến lược đồng tối ưu, và phép loại bỏ chiến lược bị trội.
+
+Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) áp ngay phương pháp "làm cho đối thủ bàng quan" vào trò chơi poker đầu tiên — trò chơi thấu thị (clairvoyance game) một half-street, mà người tổng hợp cho là trò chơi poker "có cùng cấu trúc" với Cảnh sát và Kẻ trộm như cuối Example 10.5 hứa — rồi Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)), Chương 13 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)) và các trò chơi [0,1] ở Chương 15–18 phát triển tiếp.
+
+## Lưu ý
+
+- **Lỗi trong ma trận năm lựa chọn (Roshambo-F thêm kéo an toàn, trang 110–111):** ô hàng Rock (búa), cột Safety (kéo an toàn) in là **−1**; đúng phải là **+1**. Lý do: theo lời văn, kéo an toàn "chơi y như kéo thường (thua búa, cắt bao) nhưng thua hoa", và chính hàng Safety của bảng ghi Safety đấu Rock là −1; trong trò chơi tổng bằng không, ô (Rock, Safety) phải bằng trừ ô (Safety, Rock), tức +1.
+
+  Nếu giữ −1 thì cả búa lẫn kéo an toàn cùng thua khi gặp nhau, trò chơi không còn tổng bằng không, và người chơi B dùng kéo an toàn sẽ được +2/3 trước chiến lược {1/3, 1/3, 1/3} của A (tính từ cột Safety: (−1 − 1 + 0)/3 = −2/3 cho A), làm hỏng kết luận rằng nghiệm của trò chơi mở rộng giống Oẳn tù tì cơ bản. Với giá trị đúng +1, cột Safety cho A (+1 − 1 + 0)/3 = 0, đúng như sách nói kéo an toàn đồng tối ưu.
+- **"Chỉ trò chơi có thông tin ẩn hoặc chơi lần lượt mới có chiến lược tối ưu hỗn hợp" (trang 105) — có lẽ phải là "chơi đồng thời" (nhận xét của người tổng hợp):** chính ví dụ của sách (Chẵn Lẻ, Oẳn tù tì) là trò chơi đồng thời có chiến lược tối ưu hỗn hợp, còn theo hiểu biết của người tổng hợp, trò chơi lần lượt có thông tin hoàn hảo (như cờ vua, cờ đam) luôn có chiến lược tối ưu thuần (định lý Zermelo–Kuhn). Chơi đồng thời thực chất là một dạng thông tin ẩn (không thấy nước đi của đối thủ).
+- **"Chuyển trò chơi tổng không đổi thành tổng bằng không bằng cách *nhân* (scaling) khoản thưởng" (trang 105) — đúng ra là *trừ* hằng số** (dịch chuyển khoản thưởng), không phải nhân; nhân không đổi tổng khác không thành không (nhận xét của người tổng hợp).
+- **Nhãn trục Hình 10.1:** trục hoành ghi "p(X plays 0 pennies)", trong khi lời văn gọi người chơi là B và tỷ lệ là x; các số chia trục bị in dính thành "00.20.40.60.8 1.0" (ý là 0; 0,2; 0,4; 0,6; 0,8; 1,0). Lời văn cũng ghi "His EV for 1 penny > 0.5" nhưng công thức kèm theo là trường hợp x < 0,5 (B chơi 1 đồng xu nhiều hơn 50%) — ý đúng.
+- **Lỗi đánh máy:** "scission" (thay cho scissors, trang 108), "srategy" (trang 107), "satisify" (trang 106 và Key Concepts), "hut loses" (thay cho "but loses", trang 111), "milted strategies" (thay cho "mixed", Key Concepts), "if we have 1 strategic option" (ý là "một lựa chọn"), "Mixed strategies… Yi of the time" là lỗi OCR của 1/3 (trang 108). Các phân số 1/3, 1/2, 1/4 trong lớp chữ bị in thành "13", "12", "14"; đã đọc lại từ ảnh trang.
+- **Sách không nêu giá trị của trò chơi Cảnh sát và Kẻ trộm.** Người tổng hợp tính: khi cảnh sát tuần tra 1/3, kỳ vọng của kẻ trộm là 1 − 2 × 1/3 = 1/3 (nếu trộm) và 1/3 (nếu ở nhà), nên trò chơi có giá trị **+1/3 đơn vị cho kẻ trộm** mỗi lượt, −1/3 cho cảnh sát. Đây là trò chơi không đối xứng, nên giá trị tối ưu không phải 0.
+- **Quy ước thuật ngữ:** "nemesis" giữ nguyên tiếng Anh như sách; "optimal" dịch là "tối ưu" và chỉ dùng theo nghĩa hẹp sách định nghĩa (một phần của cặp chiến lược tối ưu); "indifference threshold" dịch là "ngưỡng bàng quan"; "co-optimal" dịch là "đồng tối ưu". Trong chương này sách gọi hai người chơi là A và B (và cảnh sát, kẻ trộm); tên X và Y chỉ xuất hiện ở đoạn về khai thác vòng tròn. Ký hiệu ⟨P, s⟩ (sách viết <P, s>) là kỳ vọng của người chơi P khi chọn s.

@@ -1,18 +1,20 @@
 # Chương 6 — Dấu hiệu nằm trong dữ liệu: các chủ đề về poker trực tuyến (The Tells are in the Data: Topics in Online Poker)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 6 "The Tells are in the Data: Topics in Online Poker", trang 73–76.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 6 nằm trong Phần II "Chơi khai thác" (Exploitive Play, Chương 4–9). Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) đã cho công cụ phương sai, độ lệch chuẩn và khoảng tin cậy của tỷ lệ thắng; Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) bàn về ước lượng tham số và cách nhìn Bayes; Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)) mô tả việc "đọc bài" đối thủ như một quá trình suy luận Bayes dựa trên kiểu cược và tell. Chương 6 là một chương ngắn, ít toán, áp dụng những ý đó vào môi trường poker trực tuyến: ở đây gần như không có tell thể chất, nhưng lại có lịch sử ván bài (hand history) đầy đủ. Chương dùng lại công thức độ lệch chuẩn của Chương 2 để tính cần bao nhiêu ván bài mới biết được tỷ lệ thắng. Sau chương này, sách quay lại cốt lõi kỹ thuật của chơi khai thác: Chương 7 ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md)) phân tích các tình huống bài lật ngửa, Chương 8 ([C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md)) và Chương 9 ([C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) xét một tay bài đấu với một phân phối bài và phân phối đấu với phân phối.
+## Ý chính
 
-**Ý chính:** **Poker trực tuyến thay tell thể chất bằng dữ liệu: người chơi có thể thu thập lịch sử ván bài đầy đủ, nhưng dữ liệu về đối thủ thường bị thiên lệch chọn mẫu và quá ít so với độ biến động của poker, nên lợi ích chính của việc thu thập dữ liệu là phân tích ván bài của chính mình; đồng thời tốc độ chơi trực tuyến làm cho các bàn trực tuyến khó hơn bàn sòng bài cùng mức cược.** Mục đầu chỉ ra rằng khi chơi trực tuyến, người chơi chỉ thấy một biểu tượng hoặc ảnh đại diện, nhịp độ hành động là tín hiệu kém tin cậy, nên kiểu cược (betting pattern) là nguồn thông tin chính để chơi khai thác. Bù lại, hầu hết các trang cho phép lấy lịch sử mọi ván bài, kể cả bài bị úp bỏ ở showdown, và các phần mềm thương mại quản lý cơ sở dữ liệu này, thậm chí hiện số liệu thống kê ngay trong lúc chơi. Tuy nhiên, thu thập dữ liệu thô là phần dễ nhất của phân tích. Với 10.000 ván bài của một đối thủ hòa vốn có phương sai 4 BB² mỗi ván, sách nói khoảng tin cậy 95% của tỷ lệ thắng là −0,02 tới +0,02 big bet mỗi ván (người tổng hợp tính lại được khoảng −0,04 tới +0,04, xem Lưu ý). Dữ liệu về đối thủ còn bị lệch: người chơi giỏi ít khi có mặt ở những ván đối thủ thắng nhiều nhất, nên "người chơi duy nhất mà bạn có hồ sơ không thiên lệch về mọi ván bài là chính bạn". Các thống kê như VPIP (tỷ lệ tự nguyện bỏ tiền vào pot) chịu ảnh hưởng của số người ở bàn và cỡ mẫu (5 trên 20 ván khác hẳn 500 trên 2.000 ván); các thống kê theo vòng cược như "tỷ lệ cược ở turn" bỏ qua ngữ cảnh, còn nếu lọc đúng ngữ cảnh thì mẫu lại quá nhỏ. Về tốc độ: muốn biết tỷ lệ thắng của mình trong phạm vi ±0,01 BB mỗi ván với độ tin cậy 95% khi phương sai là 4 BB², cần 160.000 ván; ở sòng bài (35 ván một giờ, 2.000 giờ một năm) mất hơn hai năm, trực tuyến (khoảng 350 ván một giờ khi chơi bốn bàn) chỉ mất khoảng ba tháng. Cuối cùng, bàn trực tuyến khó hơn vì người thua lỗ nhanh chóng chạm ngưỡng bỏ cuộc, vì rào cản chuyển tiền, vì số "cá voi" (người thua lớn) ít hơn, và vì người chơi vì lợi nhuận tập trung trực tuyến để có "khối lượng".
+**Poker trực tuyến thay tell thể chất bằng dữ liệu: người chơi có thể thu thập lịch sử ván bài đầy đủ, nhưng dữ liệu về đối thủ thường bị thiên lệch chọn mẫu và quá ít so với độ biến động của poker, nên lợi ích chính của việc thu thập dữ liệu là phân tích ván bài của chính mình; đồng thời tốc độ chơi trực tuyến làm cho các bàn trực tuyến khó hơn bàn sòng bài cùng mức cược.**
 
-> **Lưu ý:**
-> - **Khoảng tin cậy 95% của tỷ lệ thắng sau 10.000 ván bị tính hẹp đi một nửa:** sách viết khoảng tin cậy 95% là −0,02 BB tới +0,02 BB mỗi ván. Với phương sai 4 BB² mỗi ván, độ lệch chuẩn mỗi ván là σ = √4 = 2 BB; độ lệch chuẩn của tổng sau N = 10.000 ván là 2 × √10.000 = 200 BB; chia cho 10.000 ván được sai số chuẩn của tỷ lệ thắng là 0,02 BB mỗi ván. Khoảng ±0,02 chỉ là ±1 sai số chuẩn (độ tin cậy khoảng 68%). Khoảng 95% đúng là ±1,96 × 0,02 ≈ ±0,039, tức khoảng −0,04 tới +0,04 BB mỗi ván. Chính ví dụ sau đó của sách (cần 160.000 ván) dùng đúng quy tắc 95% ≈ ±2 sai số chuẩn, nên hai ví dụ trong chương không nhất quán với nhau.
-> - **Lời văn "2√N = 0,005" thiếu dấu chia:** sách viết công thức Chương 2, σ_N = σ√N (độ lệch chuẩn của *tổng* thắng thua sau N ván), rồi viết "độ lệch chuẩn cho N ván là 2√N" và "2√N = 0,005, hay N = 160.000". Phương trình đúng là 2/√N = 0,005: độ lệch chuẩn của *tỷ lệ thắng mỗi ván* là σ√N / N = σ/√N. Từ 2/√N = 0,005 suy ra √N = 400 và N = 160.000, khớp với đáp số của sách. Con số 0,005 đến từ việc muốn ±2 sai số chuẩn bằng ±0,01 BB. Nếu dùng hệ số chính xác 1,96 thì N = (1,96 × 2 / 0,01)² = 153.664 ván.
-> - **Đơn vị không nhất quán:** cùng đoạn đó sách viết "0,01 BB/h" và "4 BB²/h²" (theo giờ) nhưng lập tức tính "σ = 2 BB/hand" (theo ván). Ý của sách rõ ràng là theo ván; bản tổng hợp dùng "mỗi ván" xuyên suốt.
-> - **Kiểm tra các phép tính khác (khớp với sách):** 35 ván/giờ × 2.000 giờ = 70.000 ván/năm, nên 160.000 ván mất 160.000 / 70.000 ≈ 2,29 năm ("hơn hai năm một chút"). Trực tuyến: 4 bàn × 90 ván/giờ = 360 ván/giờ (sách làm tròn xuống 350); 160.000 / 350 ≈ 457 giờ, tức 457 / 2.000 ≈ 0,23 năm ≈ 2,7 tháng ("chỉ ba tháng"). Tỷ số 350 / 35 = 10 cho câu "thắng nhiều gấp mười lần".
-> - **Lỗi chữ của bản PDF dựng lại (có cả trên ảnh trang, không chỉ ở lớp chữ):** "reliable data naming" ở đoạn mở đầu là "data mining" (khai phá dữ liệu); "hi" thay cho "in" (nhiều chỗ); "mould" thay cho "would"; "mat" thay cho "that"; "hill tables" thay cho "full tables" (bàn đủ người); "connsider", "gatiher". Người tổng hợp đọc theo nghĩa đúng.
-> - **Quy ước thuật ngữ:** BB trong chương này là "big bet" (mức cược lớn của trò limit, bằng hai lần mức cược nhỏ), không phải "big blind". "Brick and mortar" (nghĩa đen "gạch và vữa") chỉ sòng bài hay phòng chơi thật; bản tổng hợp gọi là "sòng bài truyền thống" hay "chơi trực tiếp".
+Mục đầu chỉ ra rằng khi chơi trực tuyến, người chơi chỉ thấy một biểu tượng hoặc ảnh đại diện, nhịp độ hành động là tín hiệu kém tin cậy, nên kiểu cược (betting pattern) là nguồn thông tin chính để chơi khai thác. Bù lại, hầu hết các trang cho phép lấy lịch sử mọi ván bài, kể cả bài bị úp bỏ ở showdown, và các phần mềm thương mại quản lý cơ sở dữ liệu này, thậm chí hiện số liệu thống kê ngay trong lúc chơi.
+
+Tuy nhiên, thu thập dữ liệu thô là phần dễ nhất của phân tích. Với 10.000 ván bài của một đối thủ hòa vốn có phương sai 4 BB² mỗi ván, sách nói khoảng tin cậy 95% của tỷ lệ thắng là −0,02 tới +0,02 big bet mỗi ván (người tổng hợp tính lại được khoảng −0,04 tới +0,04, xem mục Lưu ý cuối chương).
+
+Dữ liệu về đối thủ còn bị lệch: người chơi giỏi ít khi có mặt ở những ván đối thủ thắng nhiều nhất, nên "người chơi duy nhất mà bạn có hồ sơ không thiên lệch về mọi ván bài là chính bạn".
+
+Các thống kê như VPIP (tỷ lệ tự nguyện bỏ tiền vào pot) chịu ảnh hưởng của số người ở bàn và cỡ mẫu (5 trên 20 ván khác hẳn 500 trên 2.000 ván); các thống kê theo vòng cược như "tỷ lệ cược ở turn" bỏ qua ngữ cảnh, còn nếu lọc đúng ngữ cảnh thì mẫu lại quá nhỏ.
+
+Về tốc độ: muốn biết tỷ lệ thắng của mình trong phạm vi ±0,01 BB mỗi ván với độ tin cậy 95% khi phương sai là 4 BB², cần 160.000 ván; ở sòng bài (35 ván một giờ, 2.000 giờ một năm) mất hơn hai năm, trực tuyến (khoảng 350 ván một giờ khi chơi bốn bàn) chỉ mất khoảng ba tháng.
+
+Cuối cùng, bàn trực tuyến khó hơn vì người thua lỗ nhanh chóng chạm ngưỡng bỏ cuộc, vì rào cản chuyển tiền, vì số "cá voi" (người thua lớn) ít hơn, và vì người chơi vì lợi nhuận tập trung trực tuyến để có "khối lượng".
 
 ## Sơ đồ
 
@@ -192,7 +194,9 @@ Khoảng ±0,02 mà sách ghi chỉ là ±1 sai số chuẩn (độ tin cậy kh
 
 #### Thống kê đơn lẻ: VPIP và "tỷ lệ cược ở turn"
 
-Mấu chốt của việc dùng dữ liệu lịch sử ván bài là tìm ra những thống kê hữu ích, không thiên lệch, giúp ra quyết định chính xác; nhưng tìm ra chúng không hề đơn giản. Lấy ví dụ một thống kê hay được nhắc tới: **VPIP**, "tỷ lệ tự nguyện bỏ tiền vào pot". Đây là một con số phần trăm duy nhất cho biết người chơi bỏ tiền vào pot (ngoài tiền blind, tức tiền cược bắt buộc trước khi chia bài) thường xuyên đến đâu. Nó có thể là một chỉ dẫn rất thô về độ "lỏng" của người chơi, nhưng nhiều yếu tố có thể ảnh hưởng tới con số này. Một tác giả có cơ sở dữ liệu khoảng 15.000 ván của chính mình với VPIP trên 50%, chủ yếu vì phần lớn các ván này chơi hai người (heads-up) hoặc ba người. Chơi lỏng như vậy ở một bàn đủ người sẽ thua lỗ nặng.
+Mấu chốt của việc dùng dữ liệu lịch sử ván bài là tìm ra những thống kê hữu ích, không thiên lệch, giúp ra quyết định chính xác; nhưng tìm ra chúng không hề đơn giản. Lấy ví dụ một thống kê hay được nhắc tới: **VPIP**, "tỷ lệ tự nguyện bỏ tiền vào pot". Đây là một con số phần trăm duy nhất cho biết người chơi bỏ tiền vào pot (ngoài tiền blind, tức tiền cược bắt buộc trước khi chia bài) thường xuyên đến đâu.
+
+Nó có thể là một chỉ dẫn rất thô về độ "lỏng" của người chơi, nhưng nhiều yếu tố có thể ảnh hưởng tới con số này. Một tác giả có cơ sở dữ liệu khoảng 15.000 ván của chính mình với VPIP trên 50%, chủ yếu vì phần lớn các ván này chơi hai người (heads-up) hoặc ba người. Chơi lỏng như vậy ở một bàn đủ người sẽ thua lỗ nặng.
 
 Việc phải ra quyết định nhanh khi chơi trực tuyến ngăn ta đánh giá chính xác những bất thường như trên. Ngoài ra, dùng một con số duy nhất bỏ qua vấn đề cỡ mẫu nhỏ: quan sát một người 20 ván và thấy họ vào pot 5 lần hoàn toàn khác với quan sát một người 2.000 ván và thấy họ vào pot 500 lần, dù cả hai đều là 25%. Người tổng hợp minh hoạ bằng khoảng tin cậy 95% xấp xỉ của một tỷ lệ, p ± 1,96 × √(p(1 − p)/n):
 
@@ -203,7 +207,9 @@ Việc phải ra quyết định nhanh khi chơi trực tuyến ngăn ta đánh 
 
 Ngay cả với mẫu lớn, ta vẫn phải cẩn thận hiểu ảnh hưởng của vị trí ngồi và bản chất của dữ liệu đã thu: những người thường xuyên chơi lẫn lộn bàn ít người và bàn đủ người tạo ra sự mù mờ trong các thống kê tổng mà rất khó khắc phục.
 
-Vấn đề còn tệ hơn khi muốn xem cách chơi ở một vòng cược cụ thể (street: preflop, flop, turn hay river). Rất khó tìm một phương pháp ghép tốt các tình huống trong các ván cũ với tình huống hiện tại, sao cho các ván có cùng đặc điểm với ván hiện tại (số người còn trong ván, độ lớn pot, chuỗi hành động…) được trọng số cao hơn. Rõ ràng "tỷ lệ số lần người chơi cược ở turn" là một thước đo gây hiểu nhầm nghiêm trọng, vì nó bỏ qua ngữ cảnh của ván bài: độ mạnh của các phân phối bài, các hành động trước đó, v.v. Một thống kê như vậy chỉ có ích trong những hoàn cảnh cực đoan nhất, ví dụ khi đối đầu với một người chơi điên cuồng (maniac, người cược và raise gần như mọi lúc). Nhưng nếu lọc dữ liệu cũ cho khớp với tình huống hiện tại, ta thường thu hẹp cỡ mẫu tới mức không còn rút ra được thông tin gì hữu ích.
+Vấn đề còn tệ hơn khi muốn xem cách chơi ở một vòng cược cụ thể (street: preflop, flop, turn hay river). Rất khó tìm một phương pháp ghép tốt các tình huống trong các ván cũ với tình huống hiện tại, sao cho các ván có cùng đặc điểm với ván hiện tại (số người còn trong ván, độ lớn pot, chuỗi hành động…) được trọng số cao hơn.
+
+Rõ ràng "tỷ lệ số lần người chơi cược ở turn" là một thước đo gây hiểu nhầm nghiêm trọng, vì nó bỏ qua ngữ cảnh của ván bài: độ mạnh của các phân phối bài, các hành động trước đó, v.v. Một thống kê như vậy chỉ có ích trong những hoàn cảnh cực đoan nhất, ví dụ khi đối đầu với một người chơi điên cuồng (maniac, người cược và raise gần như mọi lúc). Nhưng nếu lọc dữ liệu cũ cho khớp với tình huống hiện tại, ta thường thu hẹp cỡ mẫu tới mức không còn rút ra được thông tin gì hữu ích.
 
 Điều này không có nghĩa là không thể học được gì từ lịch sử ván bài; nó có nghĩa là việc đó rõ ràng không đơn giản. Tác giả đã gặp nhiều người chơi nghĩ rằng một khi đã có lịch sử ván bài thì khai thác ra thông tin có ý nghĩa về cách chơi của đối thủ là dễ. Tác giả cho rằng những người này bỏ qua các khó khăn của khai phá dữ liệu, và phần lớn người chơi thu được rất ít lợi thế thêm khi cố dùng các kỹ thuật này.
 
@@ -220,7 +226,7 @@ Với người chơi thắng, một trong những điều tốt nhất của ch�
 **Cần bao nhiêu ván?** Giả sử ta muốn biết tỷ lệ thắng của mình trong phạm vi 0,01 BB mỗi ván với độ tin cậy 95%, khi phương sai là 4 BB² mỗi ván.
 
 1. Theo phương trình 2.2 của Chương 2, σ = √V, nên σ = √4 = 2 BB mỗi ván.
-2. Theo phương trình 2.4, σ_N = σ√N là độ lệch chuẩn của tổng sau N ván; chia cho N được độ lệch chuẩn của tỷ lệ thắng mỗi ván: 2√N / N = 2/√N. (Sách in "2√N", thiếu dấu chia; xem Lưu ý.)
+2. Theo phương trình 2.4, σ_N = σ√N là độ lệch chuẩn của tổng sau N ván; chia cho N được độ lệch chuẩn của tỷ lệ thắng mỗi ván: 2√N / N = 2/√N. (Sách in "2√N", thiếu dấu chia; xem mục Lưu ý cuối chương.)
 3. Độ tin cậy 95% tương ứng xấp xỉ ±2 độ lệch chuẩn; muốn ±2 × (2/√N) = ±0,01 thì 2/√N = 0,005.
 4. Suy ra √N = 2 / 0,005 = 400 và N = 160.000 ván.
 
@@ -389,7 +395,9 @@ Chương áp dụng công thức sai số chuẩn của trung bình, SE = σ/√
 
 ### Sức mạnh của chương
 
-Chương ngắn nhưng nêu đúng một bài học thống kê mà nhiều người chơi (và nhiều người làm dữ liệu) bỏ qua: dữ liệu nhiều chưa chắc là thông tin nhiều. Ví dụ 10.000 ván cụ thể hoá trực giác "tôi đã chơi với người này rất nhiều": ngay cả khi sửa lỗi tính của sách, khoảng tin cậy ±0,04 BB mỗi ván vẫn rộng hơn nhiều tỷ lệ thắng của một người chơi giỏi ở trò limit (thường quanh 0,01–0,02 BB mỗi ván, theo hiểu biết của người tổng hợp — khoảng 1 big bet mỗi 100 ván). Nhận xét về thiên lệch chọn mẫu (ta chỉ thấy những ván có mặt mình) là một điểm tinh tế. Phép tính 160.000 ván cho thấy rõ vì sao poker trực tuyến đã thay đổi nghề chơi poker: kết quả có ý nghĩa thống kê đến trong vài tháng thay vì vài năm.
+Chương ngắn nhưng nêu đúng một bài học thống kê mà nhiều người chơi (và nhiều người làm dữ liệu) bỏ qua: dữ liệu nhiều chưa chắc là thông tin nhiều. Ví dụ 10.000 ván cụ thể hoá trực giác "tôi đã chơi với người này rất nhiều": ngay cả khi sửa lỗi tính của sách, khoảng tin cậy ±0,04 BB mỗi ván vẫn rộng hơn nhiều tỷ lệ thắng của một người chơi giỏi ở trò limit (thường quanh 0,01–0,02 BB mỗi ván, theo hiểu biết của người tổng hợp — khoảng 1 big bet mỗi 100 ván).
+
+Nhận xét về thiên lệch chọn mẫu (ta chỉ thấy những ván có mặt mình) là một điểm tinh tế. Phép tính 160.000 ván cho thấy rõ vì sao poker trực tuyến đã thay đổi nghề chơi poker: kết quả có ý nghĩa thống kê đến trong vài tháng thay vì vài năm.
 
 ### Những chỗ đơn giản hoá
 
@@ -418,3 +426,150 @@ Chương ngắn nhưng nêu đúng một bài học thống kê mà nhiều ngư
 - **Người chơi poker:** dùng phần mềm lịch sử ván bài trước hết để tự kiểm tra; khi nhìn thống kê đối thủ, luôn xem số ván đã quan sát và loại bàn. Đừng kết luận mình là người thắng sau vài nghìn ván.
 - **Người làm tài chính và đầu tư:** cùng bài toán xuất hiện khi đánh giá một quỹ hay một chiến lược giao dịch. Với lợi nhuận vượt trội trung bình nhỏ so với độ biến động, cần chuỗi dữ liệu rất dài mới phân biệt được kỹ năng với may mắn (cỡ mẫu tỷ lệ với (σ/E)²). Dữ liệu về quỹ khác cũng có thiên lệch chọn mẫu (thiên lệch sống sót: quỹ thua đã đóng cửa không còn trong cơ sở dữ liệu); dữ liệu duy nhất đầy đủ là dữ liệu giao dịch của chính mình.
 - **Người ra quyết định nói chung:** "nhiều dữ liệu" khác "đủ dữ liệu cho câu hỏi cụ thể". Khi lọc dữ liệu cho khớp bối cảnh, hãy đếm lại số quan sát còn lại trước khi tin vào kết quả.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn đi theo các mục 1–4 của phần Nội dung chi tiết (mất tell thể chất nhưng có lịch sử ván bài, dữ liệu thô về đối thủ quá ít và thiên lệch, thống kê đơn lẻ như VPIP, phân tích chính mình, phép tính 160.000 ván, vì sao bàn trực tuyến khó hơn), mỗi nhánh ghi định nghĩa, công thức và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: trực tuyến thay tell thể chất bằng dữ liệu, nhưng dữ liệu đối thủ ít và lệch, giá trị thật là phân tích chính mình`"]
+  n1["`Mục 1–2 — Trực tuyến mất tell thể chất nhưng có lịch sử ván bài`"]
+  n0 --- n1
+  n2["`Trên mạng chỉ thấy biểu tượng nhấp nháy hoặc ảnh đại diện`"]
+  n1 --- n2
+  n3["`Nhịp độ hành động kém tin cậy vì người chơi hay bị xao nhãng bởi việc ngoài ván bài`"]
+  n1 --- n3
+  n4["`Kiểu cược thành nguồn thông tin chính để chơi khai thác trực tuyến`"]
+  n1 --- n4
+  n5["`Hầu hết các trang cho lấy lịch sử mọi ván, kể cả bài bị úp bỏ ở showdown`"]
+  n1 --- n5
+  n6["`Phần mềm thương mại quản lý cơ sở dữ liệu, có thể hiện tỷ lệ raise trước flop, tỷ lệ xem flop ngay lúc chơi`"]
+  n1 --- n6
+  n7["`Dữ liệu thật thay cho trí nhớ, giảm vấn đề mẫu nhỏ và thiên lệch nhận thức`"]
+  n1 --- n7
+  n8["`Mục 2 — Dữ liệu thô là phần dễ nhất: dữ liệu đối thủ quá ít và thiên lệch`"]
+  n0 --- n8
+  n9["`Đối thủ hòa vốn, 10.000 ván, phương sai 4 BB² mỗi ván`"]
+  n8 --- n9
+  n10["`σ = √4 = 2 BB mỗi ván, độ lệch chuẩn của tổng là 2 × √10.000 = 200 BB`"]
+  n9 --- n10
+  n11["`Sai số chuẩn của tỷ lệ thắng σ/√N = 200 / 10.000 = 0,02 BB mỗi ván`"]
+  n9 --- n11
+  n12["`Sách ghi khoảng 95% là ±0,02 BB, tính lại đúng là ±1,96 × 0,02 ≈ ±0,04 BB`"]
+  n9 --- n12
+  n13["`Sau 10.000 ván vẫn không phân biệt được người hòa vốn với người thắng hay thua 0,03 BB mỗi ván`"]
+  n9 --- n13
+  n14["`Thiên lệch chọn mẫu: ta chỉ có những ván mình ngồi cùng bàn`"]
+  n8 --- n14
+  n15["`Người chơi giỏi lấy tiền đối thủ, nên tỷ lệ thắng của đối thủ trước ta thấp hơn tỷ lệ thắng tổng thể`"]
+  n14 --- n15
+  n16["`Người duy nhất ta có hồ sơ không thiên lệch về mọi ván bài là chính ta`"]
+  n14 --- n16
+  n17["`Thu dữ liệu toàn cục bị một số trang cấm, và vẫn sót nhiều ván`"]
+  n14 --- n17
+  n18["`BB là big bet của trò limit, bằng hai lần mức cược nhỏ, không phải big blind`"]
+  n8 --- n18
+  n19["`Mục 2 — Thống kê đơn lẻ như VPIP dễ gây hiểu nhầm`"]
+  n0 --- n19
+  n20["`VPIP: tỷ lệ ván tự nguyện bỏ tiền vào pot ngoài tiền blind, thước đo thô độ lỏng`"]
+  n19 --- n20
+  n21["`Một tác giả có 15.000 ván với VPIP trên 50% vì chủ yếu chơi hai hoặc ba người`"]
+  n19 --- n21
+  n22["`Chơi lỏng như vậy ở bàn đủ người sẽ thua lỗ nặng`"]
+  n21 --- n22
+  n23["`5 trên 20 ván và 500 trên 2.000 ván đều là 25% nhưng khác hẳn nhau`"]
+  n19 --- n23
+  n24["`Khoảng 95% theo p ± 1,96 × √(p(1 − p)/n): 6%–44% so với 23%–27%`"]
+  n23 --- n24
+  n25["`Tỷ lệ cược ở turn bỏ qua ngữ cảnh: độ mạnh phân phối bài, các hành động trước đó`"]
+  n19 --- n25
+  n26["`Lọc cho khớp tình huống hiện tại thì mẫu thu hẹp tới mức không rút ra được gì`"]
+  n25 --- n26
+  n27["`Thống kê như vậy chỉ có ích trong hoàn cảnh cực đoan, như gặp người chơi điên cuồng (maniac)`"]
+  n25 --- n27
+  n28["`Mục 2 — Lợi ích lớn nhất: phân tích ván bài của chính mình`"]
+  n0 --- n28
+  n29["`Không thiên lệch, cỡ mẫu lớn nhất và tập ván bài đầy đủ nhất`"]
+  n28 --- n29
+  n30["`Mua phần mềm thương mại hoặc tự viết chương trình để thu thập và phân tích lịch sử ván bài`"]
+  n28 --- n30
+  n31["`Chia nhỏ theo tay bài, vị trí, mức cược, rồi đào sâu xuống từng ván`"]
+  n28 --- n31
+  n32["`Xem lại từng ván để tìm lỗ hổng (leak) và khuôn mẫu trong cách chơi`"]
+  n28 --- n32
+  n33["`Khoảng cách giữa cách ta định chơi và cách ta thực sự chơi thường lớn hơn ta tưởng`"]
+  n28 --- n33
+  n34["`Mục 3 — Trực tuyến thu đủ dữ liệu về chính mình trong vài tháng thay vì vài năm`"]
+  n0 --- n34
+  n35["`Mục tiêu: biết tỷ lệ thắng trong phạm vi ±0,01 BB mỗi ván, độ tin cậy 95%, phương sai 4 BB²`"]
+  n34 --- n35
+  n36["`Sai số chuẩn 2/√N, đặt ±2 sai số chuẩn bằng ±0,01: 2/√N = 0,005, √N = 400, N = 160.000 ván`"]
+  n34 --- n36
+  n37["`Sách in 2√N thiếu dấu chia, dùng hệ số 1,96 thì N ≈ 153.664 ván`"]
+  n36 --- n37
+  n38["`Sòng bài: 35 ván/giờ × 2.000 giờ = 70.000 ván/năm, mất khoảng 2,3 năm`"]
+  n34 --- n38
+  n39["`Trực tuyến: 4 bàn × 90 ván/giờ, khoảng 350 ván/giờ, mất khoảng 457 giờ, tức khoảng 3 tháng`"]
+  n34 --- n39
+  n40["`Cùng tỷ lệ thắng mỗi ván thì trực tuyến kiếm gấp 350/35 = 10 lần, nhưng không nhất thiết làm được`"]
+  n34 --- n40
+  n41["`Mục 4 — Bàn trực tuyến khó hơn bàn sòng bài cùng mức cược`"]
+  n0 --- n41
+  n42["`Có người thắng và phí nhà cái (rake) thì nền kinh tế poker cần nhiều người thua ròng`"]
+  n41 --- n42
+  n43["`Người thua ròng có ngưỡng chịu thua, trực tuyến chơi nhiều ván nên họ chạm ngưỡng và bỏ cuộc nhanh hơn`"]
+  n41 --- n43
+  n44["`Rào cản: chuyển tiền lớn qua phương tiện điện tử, liên tục nạp thêm, khó tự huyễn hoặc là vẫn ổn`"]
+  n41 --- n44
+  n45["`Ít cá voi hơn, người thua nhỏ chạm tới dài hạn sớm, phá sản hoặc bị đẩy xuống mức cược thấp hơn`"]
+  n41 --- n45
+  n46["`Người chơi vì lợi nhuận tập trung trực tuyến: kiếm tiền từ poker là kinh doanh theo khối lượng`"]
+  n41 --- n46
+  n47["`Hai môi trường đề cao những kỹ năng khác nhau`"]
+  n41 --- n47
+  n48["`Thông điệp xuyên suốt`"]
+  n0 --- n48
+  n49["`Nhiều dữ liệu khác đủ dữ liệu: luôn hỏi bao nhiêu ván, ở loại bàn nào, ở vị trí nào`"]
+  n48 --- n49
+  n50["`Mười nghìn ván vẫn chưa đủ để biết một người, kể cả chính mình, thắng hay thua ở trò limit`"]
+  n48 --- n50
+  n51["`Dùng phần mềm lịch sử ván bài chủ yếu để tự kiểm tra`"]
+  n48 --- n51
+  n52["`Tỷ lệ thắng mỗi ván trực tuyến có thể thấp hơn, nhưng khối lượng bù lại`"]
+  n48 --- n52
+  n53["`Lọc càng chặt thì phương sai ước lượng càng lớn: đánh đổi giữa độ chệch và phương sai`"]
+  n48 --- n53
+  class n0 root
+  class n1,n8,n19,n28,n34,n41,n48 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 6 "The Tells are in the Data: Topics in Online Poker", trang 73–76.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 6 nằm trong Phần II "Chơi khai thác" (Exploitive Play, Chương 4–9). Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) đã cho công cụ phương sai, độ lệch chuẩn và khoảng tin cậy của tỷ lệ thắng; Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) bàn về ước lượng tham số và cách nhìn Bayes; Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)) mô tả việc "đọc bài" đối thủ như một quá trình suy luận Bayes dựa trên kiểu cược và tell.
+
+Chương 6 là một chương ngắn, ít toán, áp dụng những ý đó vào môi trường poker trực tuyến: ở đây gần như không có tell thể chất, nhưng lại có lịch sử ván bài (hand history) đầy đủ. Chương dùng lại công thức độ lệch chuẩn của Chương 2 để tính cần bao nhiêu ván bài mới biết được tỷ lệ thắng.
+
+Sau chương này, sách quay lại cốt lõi kỹ thuật của chơi khai thác: Chương 7 ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md)) phân tích các tình huống bài lật ngửa, Chương 8 ([C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md)) và Chương 9 ([C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) xét một tay bài đấu với một phân phối bài và phân phối đấu với phân phối.
+
+## Lưu ý
+
+- **Khoảng tin cậy 95% của tỷ lệ thắng sau 10.000 ván bị tính hẹp đi một nửa:** sách viết khoảng tin cậy 95% là −0,02 BB tới +0,02 BB mỗi ván. Với phương sai 4 BB² mỗi ván, độ lệch chuẩn mỗi ván là σ = √4 = 2 BB; độ lệch chuẩn của tổng sau N = 10.000 ván là 2 × √10.000 = 200 BB; chia cho 10.000 ván được sai số chuẩn của tỷ lệ thắng là 0,02 BB mỗi ván. Khoảng ±0,02 chỉ là ±1 sai số chuẩn (độ tin cậy khoảng 68%). Khoảng 95% đúng là ±1,96 × 0,02 ≈ ±0,039, tức khoảng −0,04 tới +0,04 BB mỗi ván. Chính ví dụ sau đó của sách (cần 160.000 ván) dùng đúng quy tắc 95% ≈ ±2 sai số chuẩn, nên hai ví dụ trong chương không nhất quán với nhau.
+- **Lời văn "2√N = 0,005" thiếu dấu chia:** sách viết công thức Chương 2, σ_N = σ√N (độ lệch chuẩn của *tổng* thắng thua sau N ván), rồi viết "độ lệch chuẩn cho N ván là 2√N" và "2√N = 0,005, hay N = 160.000". Phương trình đúng là 2/√N = 0,005: độ lệch chuẩn của *tỷ lệ thắng mỗi ván* là σ√N / N = σ/√N. Từ 2/√N = 0,005 suy ra √N = 400 và N = 160.000, khớp với đáp số của sách. Con số 0,005 đến từ việc muốn ±2 sai số chuẩn bằng ±0,01 BB. Nếu dùng hệ số chính xác 1,96 thì N = (1,96 × 2 / 0,01)² = 153.664 ván.
+- **Đơn vị không nhất quán:** cùng đoạn đó sách viết "0,01 BB/h" và "4 BB²/h²" (theo giờ) nhưng lập tức tính "σ = 2 BB/hand" (theo ván). Ý của sách rõ ràng là theo ván; bản tổng hợp dùng "mỗi ván" xuyên suốt.
+- **Kiểm tra các phép tính khác (khớp với sách):** 35 ván/giờ × 2.000 giờ = 70.000 ván/năm, nên 160.000 ván mất 160.000 / 70.000 ≈ 2,29 năm ("hơn hai năm một chút"). Trực tuyến: 4 bàn × 90 ván/giờ = 360 ván/giờ (sách làm tròn xuống 350); 160.000 / 350 ≈ 457 giờ, tức 457 / 2.000 ≈ 0,23 năm ≈ 2,7 tháng ("chỉ ba tháng"). Tỷ số 350 / 35 = 10 cho câu "thắng nhiều gấp mười lần".
+- **Lỗi chữ của bản PDF dựng lại (có cả trên ảnh trang, không chỉ ở lớp chữ):** "reliable data naming" ở đoạn mở đầu là "data mining" (khai phá dữ liệu); "hi" thay cho "in" (nhiều chỗ); "mould" thay cho "would"; "mat" thay cho "that"; "hill tables" thay cho "full tables" (bàn đủ người); "connsider", "gatiher". Người tổng hợp đọc theo nghĩa đúng.
+- **Quy ước thuật ngữ:** BB trong chương này là "big bet" (mức cược lớn của trò limit, bằng hai lần mức cược nhỏ), không phải "big blind". "Brick and mortar" (nghĩa đen "gạch và vữa") chỉ sòng bài hay phòng chơi thật; bản tổng hợp gọi là "sòng bài truyền thống" hay "chơi trực tiếp".

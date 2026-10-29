@@ -1,21 +1,22 @@
 # Chương 14 — Không cần đoán: chọn mức cược trong no-limit (You Don't Have To Guess: No-Limit Bet Sizing)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 14 "You Don't Have To Guess: No-Limit Bet Sizing", trang 153–162.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) giải trò chơi biết trước bài (clairvoyance game) và các trò chơi [0,1] half-street với cược limit, rút ra hằng số α: α = 1/(P + 1) khi cược 1 vào pot P, và α = s/(1 + s) khi cược s lần pot. Chương 13 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)) giải trò chơi AKQ limit. Chương 14 chuyển sang no-limit, nơi người bet còn phải chọn **bao nhiêu**: lời đáp là viết kỳ vọng như một hàm của mức cược s rồi để người kiểm soát s chọn s làm cực đại kỳ vọng đó. Kết quả nổi bật là hằng số r = √2 − 1 ≈ 0,414, được tác giả gọi là "tỷ lệ vàng của poker", sẽ còn xuất hiện ở nhiều chương sau. Chương 15 ([C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md)) mở rộng sang trò chơi full-street, và phụ lục của nó giải trò chơi AKQ no-limit khi X cũng được bet; các Chương 16–18 ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md), [C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md), [C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) dùng lại kỹ thuật chọn mức cược cho các trò chơi [0,1].
-**Ý chính:** **Mức cược tối ưu trong no-limit có thể tìm bằng phân tích chứ không phải đoán: giải trò chơi với mức cược s như một biến, tính kỳ vọng của người bet theo s, rồi người bet chọn s làm kỳ vọng lớn nhất.** Ví dụ 14.1 (trò chơi biết trước bài no-limit half-street, pot 1): Y biết chắc mình thắng hay thua; nếu một nửa số tay là thắng, kỳ vọng của Y là f(s) = ys/(1 + s), tăng mãi theo s, nên Y nên đẩy cả stack. Khi phân phối của Y quá mạnh (y = 3/5, stack 5 pot), Y không có đủ tay bài chết để bluff theo đúng tỷ lệ α = 5/6, và X tối ưu là **fold mọi tay bài** — kể cả khi Y chỉ bet 1% pot. Ví dụ 14.2 (trò chơi AKQ #3, no-limit): Y không nên bet quá pot; với mỗi s, X call K với tần suất (1 − s)/(1 + s), Y bluff Q với tần suất s/(1 + s), kỳ vọng của Y là f(s) = s(1 − s)/[6(1 + s)], đạt cực đại tại **s = √2 − 1 ≈ 0,414 pot**; khi đó Y bluff 1 − 1/√2 ≈ 29,3% số Q, X call tổng cộng 1/√2 ≈ 70,7% số tay bài bắt được bluff, và giá trị trò chơi với Y là (√2 − 1)²/6 ≈ 0,0286 pot (người tổng hợp tính). Ví dụ 14.3 (trò chơi [0,1] #3, no-limit half-street): Y bet một mức khác nhau với mỗi tay bài; X call một cược s với tay tốt hơn x(s) = x₀/(1 + s); Y value bet s với tay y(s) = x₀/[2(1 + s)²]; ghép miền bluff với miền value bet cho x₀ = 6/7, nên X không bao giờ call với tay tệ hơn 6/7, Y value bet với tay tốt hơn 3/7 và bluff với 1/7 tay bài tệ nhất. Ba bài học: mức cược có thể phân tích được; khi một bên quá mạnh, bên kia nên bỏ cuộc dù cược nhỏ đến đâu; che giấu thông tin đặc biệt quan trọng khi có nhiều mức cược.
+## Ý chính
 
-> **Lưu ý:**
-> - **Tính sai giá trị √2 − 1 (trang 158):** sách viết "the value √2 − 1 or approximately 0.114". Đúng là √2 − 1 ≈ 1,41421 − 1 = **0,414**. Ngay đoạn sau sách viết đúng "a little more than 41%".
-> - **Đánh số hình sai (trang 157):** hình đồ thị kỳ vọng của trò chơi AKQ #3 mang nhãn "Figure 13.3. Equity of the NL clairvoyance game". Hình nằm ở Chương 14 và là hình thứ ba của chương, nên phải là "Figure 14.3"; tên hình cũng sai — đồ thị vẽ f(s) = s(1 − s)/[6(1 + s)] của trò chơi AKQ #3, không phải của trò chơi biết trước bài.
-> - **Trích dẫn sai số phương trình:** hai lần (trang 153 và 156) sách viết "Recall from Equation 11.2" / "See Equation 11.2" cho công thức α = s/(1 + s). Ở Chương 11, Phương trình 11.2 là 1 − α = 1 − 1/(P + 1); công thức α = s/(1 + s) là Phương trình **11.3**.
-> - **Vi phân của hàm value bet in sai số mũ (trang 160):** sách viết dy = x₀/(1 + s)² ds. Lấy đạo hàm y(s) = x₀/[2(1 + s)²] được dy/ds = −x₀/(1 + s)³, nên độ lớn đúng là **dy = x₀/(1 + s)³ ds**. Dòng tiếp theo của sách ("bluffing differential" s·x₀/(1 + s)⁴ ds) lại khớp với số mũ 3 (vì s/(1 + s) × x₀/(1 + s)³ = s·x₀/(1 + s)⁴), nên chỉ dòng dy bị in sai; kết quả x₀ = 6/7 đúng.
-> - **Công thức chiến lược cuối Ví dụ 14.3 in mơ hồ (trang 161):** sách in "x(s) = 6/7 (1+s)" và "y(s) = 3/7 (1+s)²", dễ đọc thành nhân. Theo Phương trình 14.2 và hàm value bet, đúng là **x(s) = 6/[7(1 + s)]** và **y(s) = 3/[7(1 + s)²]**.
-> - **Điều kiện bàng quan của Y trong Ví dụ 14.3 (nhận xét của người tổng hợp):** sách viết mọi mức cược t₁, t₂, t₃ … "có equity bằng check". Thực ra từ y − x(s) − s·x(s) = k với k là hằng số, equity của một tay bluff y bằng y − x₀ với mọi s: như nhau giữa các mức cược (đó là điều cần cho lời giải), nhưng chỉ bằng 0 (bằng check) với tay ở đúng ngưỡng y = x₀; tay tệ hơn x₀ bluff có lời dương y − x₀, vì X không bao giờ call với tay tệ hơn x₀. Chính vì vậy Y bluff với toàn bộ miền [x₀, 1].
-> - **Trục hoành của Hình 14.1 và 14.2 ghi "Stack size":** đại lượng trên trục là mức cược s (tính theo pot) mà Y đặt bằng cả stack; vì Y đẩy cả stack nên hai đại lượng trùng nhau.
-> - **Thuật ngữ và quy ước:** trong limit, sách cho cược bằng 1 và pot bằng P; trong no-limit, pot bằng 1 và cược bằng s (cược s đơn vị là cược s lần pot). Trong trò chơi [0,1], số càng nhỏ là tay bài càng mạnh (0 là tay tốt nhất). Giá trị luôn tính ngoài showdown (chỉ phần thắng thua do cược tạo ra).
-> - **Lỗi chính tả và OCR:** "whirling hands" là "winning hands"; "corned" là "coined"; "AKO game" là "AKQ game"; "Y betting j", "the value of j" là "s"; "ratio of bluffs to bets will be a" là α; "handy", "mdifferent" là "hand y", "indifferent"; "discard ah bet amounts" là "all"; "sx2(s)" là s·x′(s) (đạo hàm). Mọi công thức đã được đọc lại từ ảnh trang.
-> - **Danh sách tổng kết các trò chơi half-street (trang 161–162) gom hai trò chơi jam-or-fold** của Chương 12 thành hai mục và dòng "The [0,1] game" ở cuối là trò chơi [0,1] #3 của chính chương này; trong lớp chữ hai mục jam-or-fold bị ngắt dòng thành bốn dấu đầu dòng.
+**Mức cược tối ưu trong no-limit có thể tìm bằng phân tích chứ không phải đoán: giải trò chơi với mức cược s như một biến, tính kỳ vọng của người bet theo s, rồi người bet chọn s làm kỳ vọng lớn nhất.**
+
+Ví dụ 14.1 (trò chơi biết trước bài no-limit half-street, pot 1): Y biết chắc mình thắng hay thua; nếu một nửa số tay là thắng, kỳ vọng của Y là f(s) = ys/(1 + s), tăng mãi theo s, nên Y nên đẩy cả stack.
+
+Khi phân phối của Y quá mạnh (y = 3/5, stack 5 pot), Y không có đủ tay bài chết để bluff theo đúng tỷ lệ α = 5/6, và X tối ưu là **fold mọi tay bài** — kể cả khi Y chỉ bet 1% pot.
+
+Ví dụ 14.2 (trò chơi AKQ #3, no-limit): Y không nên bet quá pot; với mỗi s, X call K với tần suất (1 − s)/(1 + s), Y bluff Q với tần suất s/(1 + s), kỳ vọng của Y là f(s) = s(1 − s)/[6(1 + s)], đạt cực đại tại **s = √2 − 1 ≈ 0,414 pot**.
+
+Khi đó Y bluff 1 − 1/√2 ≈ 29,3% số Q, X call tổng cộng 1/√2 ≈ 70,7% số tay bài bắt được bluff, và giá trị trò chơi với Y là (√2 − 1)²/6 ≈ 0,0286 pot (người tổng hợp tính).
+
+Ví dụ 14.3 (trò chơi [0,1] #3, no-limit half-street): Y bet một mức khác nhau với mỗi tay bài; X call một cược s với tay tốt hơn x(s) = x₀/(1 + s); Y value bet s với tay y(s) = x₀/[2(1 + s)²].
+
+Ghép miền bluff với miền value bet cho x₀ = 6/7, nên X không bao giờ call với tay tệ hơn 6/7, Y value bet với tay tốt hơn 3/7 và bluff với 1/7 tay bài tệ nhất.
+
+Ba bài học: mức cược có thể phân tích được; khi một bên quá mạnh, bên kia nên bỏ cuộc dù cược nhỏ đến đâu; che giấu thông tin đặc biệt quan trọng khi có nhiều mức cược.
 
 ## Sơ đồ
 
@@ -252,7 +253,9 @@ Với một tay bluff, Y lấy pot 1 trong 5/6 số lần, tổng được 5/6, 
 
 Nhưng nếu X luôn fold thì sao? Y lấy cả pot với các tay bluff, chiếm 2/5 tổng số tay, và không được gì thêm với các tay khác. Equity của Y chỉ còn **2/5** đơn vị. Vậy cặp chiến lược trên không thể tối ưu: X tự cải thiện đơn phương bằng cách fold hết. Y có thể đáp lại bằng cách bluff mọi tay chết; khi đó Y không được gì với tay value và lấy cả pot với tay chết, tổng 2/5; trước chiến lược này của Y, đáp trả tốt nhất của X vẫn là fold.
 
-Đây là một kết quả quan trọng: **chiến lược tối ưu của X trong tình huống này là fold mọi tay, dù Y đang bluff mọi tay chết.** Lý do là phân phối của Y mạnh đến mức Y chỉ cần bet và "nhận" pot với mọi tay, vì X mất tiền khi call bất cứ lúc nào. Người tổng hợp giải thích thêm: để bluff đúng tỷ lệ α với cược 5, Y cần số tay bluff bằng (5/6) ÷ (1/6) = 5 lần số tay value bet, tức 5 × 3/5 = 3, nhưng Y chỉ có 2/5 tay chết. Tổng quát, ràng buộc y·s/(1 + s) ≤ 1 − y bị vi phạm khi s > (1 − y)/(2y − 1); với y = 3/5 thì ngưỡng là s = 0,4/0,2 = 2 pot. Tác giả hứa bàn thêm loại tình huống này ở chương về chơi nhiều vòng cược ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md), [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)).
+Đây là một kết quả quan trọng: **chiến lược tối ưu của X trong tình huống này là fold mọi tay, dù Y đang bluff mọi tay chết.** Lý do là phân phối của Y mạnh đến mức Y chỉ cần bet và "nhận" pot với mọi tay, vì X mất tiền khi call bất cứ lúc nào.
+
+Người tổng hợp giải thích thêm: để bluff đúng tỷ lệ α với cược 5, Y cần số tay bluff bằng (5/6) ÷ (1/6) = 5 lần số tay value bet, tức 5 × 3/5 = 3, nhưng Y chỉ có 2/5 tay chết. Tổng quát, ràng buộc y·s/(1 + s) ≤ 1 − y bị vi phạm khi s > (1 − y)/(2y − 1); với y = 3/5 thì ngưỡng là s = 0,4/0,2 = 2 pot. Tác giả hứa bàn thêm loại tình huống này ở chương về chơi nhiều vòng cược ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md), [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)).
 
 #### Hình 14.2 — trò chơi biết trước bài no-limit half-street, y = 0,6 (trang 155)
 
@@ -343,7 +346,7 @@ s² + 2s − 1 = 0
 s = −1 ± √2
 ```
 
-Nghiệm −1 − √2 là nghiệm ngoại lai vì không thể bet số âm. Vậy **mức cược đúng là √2 − 1 ≈ 0,414 pot** (sách in nhầm "approximately 0.114", xem Lưu ý).
+Nghiệm −1 − √2 là nghiệm ngoại lai vì không thể bet số âm. Vậy **mức cược đúng là √2 − 1 ≈ 0,414 pot** (sách in nhầm "approximately 0.114", xem mục Lưu ý cuối chương).
 
 #### Tỷ lệ vàng của poker
 
@@ -364,7 +367,9 @@ Trong một trò chơi có các điều kiện sau:
 
 thì chiến lược tối ưu là **bet √2 − 1 lần pot (hơn 41% một chút) với mọi tay nuts**, và bluff với tần suất tương ứng 1 − 1/√2 ≈ 29,3% số tay bluff. Đối thủ call với mọi tay nuts và đủ tay ở giữa để tổng tần suất call là 1/√2 ≈ 70,7%.
 
-Người tổng hợp kiểm tra: α = r/(1 + r) = (√2 − 1)/√2 = 1 − 1/√2; tổng call 1/(1 + r) = 1/√2; tỷ lệ call K = (1 − r)/(1 + r) = (2 − √2)/√2 = √2 − 1 = r — tức X call đúng r ≈ 41,4% số K. Giá trị trò chơi với Y: f(r) = r(1 − r)/[6(1 + r)] = (3√2 − 4)/(6√2) = (3 − 2√2)/6 = r²/6 ≈ 0,0286 pot. Đối chiếu với Chương 13: cược s vào pot 1 tương đương cược 1 vào pot P = 1/s; giá trị trò chơi AKQ limit (P − 1)/[6(P + 1)] cược, đổi sang đơn vị pot bằng cách nhân s, cho s·(1/s − 1)/[6(1/s + 1)] = s(1 − s)/[6(1 + s)] — đúng f(s) ở trên. Cược bằng pot (s = 1, tức P = 1) cho giá trị 0, khớp với kết luận "lời giải chỉ đúng khi P > 1" của Chương 13.
+Người tổng hợp kiểm tra: α = r/(1 + r) = (√2 − 1)/√2 = 1 − 1/√2; tổng call 1/(1 + r) = 1/√2; tỷ lệ call K = (1 − r)/(1 + r) = (2 − √2)/√2 = √2 − 1 = r — tức X call đúng r ≈ 41,4% số K. Giá trị trò chơi với Y: f(r) = r(1 − r)/[6(1 + r)] = (3√2 − 4)/(6√2) = (3 − 2√2)/6 = r²/6 ≈ 0,0286 pot.
+
+Đối chiếu với Chương 13: cược s vào pot 1 tương đương cược 1 vào pot P = 1/s; giá trị trò chơi AKQ limit (P − 1)/[6(P + 1)] cược, đổi sang đơn vị pot bằng cách nhân s, cho s·(1/s − 1)/[6(1/s + 1)] = s(1 − s)/[6(1 + s)] — đúng f(s) ở trên. Cược bằng pot (s = 1, tức P = 1) cho giá trị 0, khớp với kết luận "lời giải chỉ đúng khi P > 1" của Chương 13.
 
 ### 4. Ví dụ 14.3 — Trò chơi [0,1] số 3 (Example 14.3 [0,1] Game #3, trang 158–161)
 
@@ -408,7 +413,7 @@ Vì x(0) = x₀ nên y − k = x₀, do đó:
 x(s) = x₀/(1 + s)                                                    (14.2)
 ```
 
-Tóm lại: sau khi X check, nếu Y bet mức s, X call với tay tốt hơn x₀/(1 + s). Lúc này chưa biết x₀ bằng bao nhiêu, chỉ biết X không bao giờ call với tay tệ hơn x₀, dù Y bet ít đến đâu. (Nhận xét của người tổng hợp, xem Lưu ý: với tay bluff y > x₀, equity khi bluff là k = y − x₀ ≥ 0, như nhau ở mọi mức cược.)
+Tóm lại: sau khi X check, nếu Y bet mức s, X call với tay tốt hơn x₀/(1 + s). Lúc này chưa biết x₀ bằng bao nhiêu, chỉ biết X không bao giờ call với tay tệ hơn x₀, dù Y bet ít đến đâu. (Nhận xét của người tổng hợp, xem mục Lưu ý cuối chương: với tay bluff y > x₀, equity khi bluff là k = y − x₀ ≥ 0, như nhau ở mọi mức cược.)
 
 #### Chiến lược value bet của Y: hàm y(s)
 
@@ -438,7 +443,7 @@ Tóm tắt chiến lược đã có:
 
 #### Ghép miền bluff với miền value bet và tìm x₀
 
-Hàm value bet đã biết: y(s) = x₀/[2(1 + s)²]. Xét "vi phân value bet": độ dài miền tay bài bet trong khoảng mức cược từ s tới s + ds. Lấy đạo hàm (sách in nhầm số mũ 2, xem Lưu ý):
+Hàm value bet đã biết: y(s) = x₀/[2(1 + s)²]. Xét "vi phân value bet": độ dài miền tay bài bet trong khoảng mức cược từ s tới s + ds. Lấy đạo hàm (sách in nhầm số mũ 2, xem mục Lưu ý cuối chương):
 
 ```text
 dy = x₀/(1 + s)³ ds
@@ -668,4 +673,159 @@ Solver hiện đại cho phép chọn nhiều mức cược (ví dụ 33%, 50%, 
 ### Vận dụng
 
 - **Cho người chơi poker:** trước khi chọn mức cược, hỏi: phạm vi của tôi có bao nhiêu tay value, bao nhiêu tay bluff, và đối thủ có bao nhiêu tay nuts so với tay bắt bluff? Khi đối thủ có nhiều tay bắt bluff và một ít nuts, cược nhỏ (khoảng 40% pot) để được call nhiều hơn. Khi phạm vi của bạn gần như toàn tay mạnh, cược lớn. Khi phòng thủ trước cược s, fold không quá s/(1 + s) tay bắt bluff — trừ khi phạm vi của đối thủ quá mạnh so với số bluff có thể có, lúc đó fold nhiều hơn là đúng.
-- **Cho người làm tài chính và ra quyết định:** kỹ thuật "giải theo biến mình kiểm soát rồi tối ưu" tương tự cách định giá một quyết định có tham số liên tục (mức chào giá trong đấu thầu, quy mô một lệnh trong thị trường có người tạo lập thị trường): mỗi mức tạo ra một phản ứng cân bằng khác của đối tác, và ta chọn mức cho kỳ vọng lớn nhất sau khi tính phản ứng đó, thay vì giả định đối tác đứng yên. Bài học "fold hết trước cược 1% pot" nhắc rằng một giao dịch có "tỷ lệ hấp dẫn" vẫn có thể là bẫy nếu đối tác có thông tin vượt trội và có thể chọn cách ra giá để khai thác (vấn đề lựa chọn bất lợi — adverse selection). Ví dụ [0,1] #3 cũng gợi ý: để lộ thông tin qua quy mô giao dịch chỉ vô hại khi đối tác không có công cụ phản ứng (như không được raise).
+- **Cho người làm tài chính và ra quyết định:** kỹ thuật "giải theo biến mình kiểm soát rồi tối ưu" tương tự cách định giá một quyết định có tham số liên tục (mức chào giá trong đấu thầu, quy mô một lệnh trong thị trường có người tạo lập thị trường): mỗi mức tạo ra một phản ứng cân bằng khác của đối tác, và ta chọn mức cho kỳ vọng lớn nhất sau khi tính phản ứng đó, thay vì giả định đối tác đứng yên.
+
+  Bài học "fold hết trước cược 1% pot" nhắc rằng một giao dịch có "tỷ lệ hấp dẫn" vẫn có thể là bẫy nếu đối tác có thông tin vượt trội và có thể chọn cách ra giá để khai thác (vấn đề lựa chọn bất lợi — adverse selection). Ví dụ [0,1] #3 cũng gợi ý: để lộ thông tin qua quy mô giao dịch chỉ vô hại khi đối tác không có công cụ phản ứng (như không được raise).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 14 trên một trang: năm nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết và phần Đánh giá (trò chơi biết trước bài no-limit, trò chơi AKQ #3, trò chơi [0,1] #3, tổng kết các trò chơi half-street và khái niệm then chốt, chỗ đơn giản hoá và những gì đã thay đổi từ 2006), mỗi nhánh ghi công thức, nghiệm cân bằng kèm tham số và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 14: mức cược no-limit tìm bằng phân tích — viết kỳ vọng f(s) theo mức cược s rồi người bet chọn s cực đại`"]
+  n1["`Mục 1–2 — Trò chơi biết trước bài no-limit: cược càng lớn càng tốt, phân phối quá mạnh thì X fold hết`"]
+  n0 --- n1
+  n2["`Sách vở khuyên cược bằng pot, underbet, cược theo sức mạnh tay — dựa trên kinh nghiệm và đồng thuận`"]
+  n1 --- n2
+  n3["`Quy ước no-limit: pot = 1, cược = s, tức cược s lần pot`"]
+  n1 --- n3
+  n4["`Y bluff α = s/(1 + s) lần số value bet, X fold α số tay bắt được bluff`"]
+  n1 --- n4
+  n5["`Lối tắt: Y chơi đúng thì X bàng quan, nên giả sử X call mọi cược để tính kỳ vọng của Y`"]
+  n1 --- n5
+  n6["`f(s) = ys/(1 + s) tăng mãi theo s, không có cực đại → Y đẩy cả stack`"]
+  n1 --- n6
+  n7["`y = 0,5: X call 1/(1 + s), tỷ lệ bluff của Y và giá trị trò chơi 0,5s/(1 + s), hai đường cắt nhau tại s = 2`"]
+  n6 --- n7
+  n8["`y = 3/5, stack 5 pot: X call 1/6 cho Y 1/2, X fold hết chỉ cho Y 2/5 → X fold mọi tay`"]
+  n1 --- n8
+  n9["`Y cần bluff 3 nhưng chỉ có 2/5 tay chết, ràng buộc vỡ khi s #gt; (1 − y)/(2y − 1) = 2 pot`"]
+  n8 --- n9
+  n10["`Y bet pot hay chỉ 1% pot X vẫn fold hết: X call cược nhỏ thì Y value bet nhỏ, bluff cả stack`"]
+  n8 --- n10
+  n11["`X call nửa số tay trước cược pot, fold trước cược cả stack → Y được 0,7 #gt; 0,4`"]
+  n8 --- n11
+  n12["`Mục 3 — AKQ #35;3 no-limit: mức cược tối ưu r = √2 − 1 ≈ 0,414 pot`"]
+  n0 --- n12
+  n13["`Không bet quá pot: X chỉ call bằng A, fold mọi K, Y không được gì từ A và bluff Q lỗ`"]
+  n12 --- n13
+  n14["`Value bet và bluff phải cùng mức, nếu không X fold K trước mức value và call mức bluff`"]
+  n12 --- n14
+  n15["`Mức s lời hơn mức t thì chuyển hết sang s → một mức duy nhất hoặc nhiều mức cùng equity`"]
+  n12 --- n15
+  n16["`Với mỗi s: Y bluff s/(1 + s) số Q, X call K với tần suất c(K) = (1 − s)/(1 + s)`"]
+  n12 --- n16
+  n17["`Bluff hoà vốn, Y chỉ lời khi cầm A gặp K call (xác suất 1/6): f(s) = s(1 − s)/[6(1 + s)]`"]
+  n12 --- n17
+  n18["`f(0,25) = 0,025, f(0,414) ≈ 0,0286, f(0,5) ≈ 0,0278, f(1) = 0`"]
+  n17 --- n18
+  n19["`f′(s) = 0 ⇒ s² + 2s − 1 = 0 ⇒ (1 + s)² = 2 ⇒ s = √2 − 1, nghiệm −1 − √2 bị loại`"]
+  n12 --- n19
+  n20["`r = √2 − 1 được gọi là tỷ lệ vàng của poker, theo tinh thần Định lý cơ bản của poker của Sklansky`"]
+  n12 --- n20
+  n21["`Lời giải: bet ≈ 41,4% pot với mọi A, bluff 1 − 1/√2 ≈ 29,3% số Q`"]
+  n12 --- n21
+  n22["`X call tổng 1/√2 ≈ 70,7%, tức call r ≈ 41,4% số K, giá trị với Y r²/6 ≈ 0,0286 pot`"]
+  n21 --- n22
+  n23["`Tổng quát: bạn có nuts hoặc tay bluff, đối thủ nửa nuts nửa tay bắt bluff → bet √2 − 1 lần pot với mọi nuts`"]
+  n12 --- n23
+  n24["`Khớp AKQ limit: thay P = 1/s vào (P − 1)/[6(P + 1)] rồi nhân s ra đúng f(s)`"]
+  n12 --- n24
+  n25["`Mục 4 — [0,1] #35;3 no-limit: mỗi tay một mức cược, x₀ = 6/7`"]
+  n0 --- n25
+  n26["`Mỗi người một số đều trên [0,1], số nhỏ thắng, X check, Y chọn mức cược cho từng tay`"]
+  n25 --- n26
+  n27["`X call cược s với tay tốt hơn x(s) = x₀/(1 + s), làm Y bàng quan giữa mọi mức bluff`"]
+  n25 --- n27
+  n28["`Từ y − x(s) − s·x(s) = k với k hằng số, X không bao giờ call với tay tệ hơn x₀`"]
+  n27 --- n28
+  n29["`Y value bet tay y ở mức cực đại s·x(s) − 2sy ⇒ y(s) = x₀/[2(1 + s)²]`"]
+  n25 --- n29
+  n30["`Tay càng mạnh cược càng lớn, X không khai thác được vì mỗi mức có bluff và X không được raise`"]
+  n29 --- n30
+  n31["`Vi phân value bet dy = x₀/(1 + s)³ ds, vi phân bluff s·x₀/(1 + s)⁴ ds`"]
+  n25 --- n31
+  n32["`Tổng miền bluff ∫₀^∞ s·x₀/(1 + s)⁴ ds = x₀/6, nên x₀ + x₀/6 = 1 ⇒ x₀ = 6/7`"]
+  n25 --- n32
+  n33["`Y value bet [0, 3/7], check [3/7, 6/7], bluff [6/7, 1] — tỷ lệ bluff so với value bet 1/3`"]
+  n25 --- n33
+  n34["`x(s) = 6/[7(1 + s)], y(s) = 3/[7(1 + s)²]: trước cược bằng pot X call với tay tốt hơn 3/7`"]
+  n25 --- n34
+  n35["`Giá trị với Y (người tổng hợp tính): 3/49 + 1/98 = 1/14 ≈ 0,071 pot`"]
+  n25 --- n35
+  n36["`Mục 5–6 — Tổng kết bốn chương half-street và khái niệm then chốt`"]
+  n0 --- n36
+  n37["`Trò chơi biết trước bài và AKQ limit → tỷ lệ bet và bluff, AKQ limit thêm loại bỏ lá bài`"]
+  n36 --- n37
+  n38["`[0,1] #35;1 → miền chiến lược và ngưỡng, [0,1] #35;2 → tỷ lệ bet và bluff với phân phối liên tục, đối xứng`"]
+  n36 --- n38
+  n39["`Jam-or-fold [0,1]: bất định ở showdown làm jam-or-fold preflop rộng hơn nhiều`"]
+  n36 --- n39
+  n40["`AKQ no-limit → tính mức cược tối ưu, [0,1] no-limit → hàm cược phức tạp từ phân phối liên tục`"]
+  n36 --- n40
+  n41["`Khi một bên có phân phối rất mạnh hoặc biết trước bài, bên kia có thể nên bỏ cuộc dù cược nhỏ đến đâu`"]
+  n36 --- n41
+  n42["`Che giấu thông tin đặc biệt quan trọng khi có nhiều mức cược`"]
+  n36 --- n42
+  n43["`Đánh giá — chỗ đơn giản hoá và những gì đã thay đổi từ 2006`"]
+  n0 --- n43
+  n44["`r = √2 − 1 nhỏ hơn hẳn mức cược bằng pot mà sách vở thời đó hay khuyên`"]
+  n43 --- n44
+  n45["`Cược theo sức mạnh tay chỉ an toàn vì X không thể raise, poker thật có check-raise`"]
+  n43 --- n45
+  n46["`r chỉ đúng khi đối thủ có đúng nửa nuts, nửa tay bắt bluff, đổi tỷ lệ này thì mức tối ưu đổi`"]
+  n43 --- n46
+  n47["`Solver hiện đại: phạm vi phân cực dùng overbet khi có lợi thế nuts, khác với không cược quá pot của Ví dụ 14.2`"]
+  n43 --- n47
+  n48["`Phòng thủ trước cược s: fold không quá s/(1 + s) tay bắt bluff, tần suất phòng thủ tối thiểu là 1 − α`"]
+  n43 --- n48
+  n49["`Tài chính: giao dịch có tỷ lệ hấp dẫn vẫn có thể là bẫy khi đối tác có thông tin vượt trội (lựa chọn bất lợi)`"]
+  n43 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Không có mức cược chuẩn: mức tối ưu phụ thuộc hình dạng phạm vi bài của cả hai bên`"]
+  n50 --- n51
+  n52["`Kỹ thuật: giải theo biến một người kiểm soát, rồi người đó chọn giá trị cực đại kỳ vọng`"]
+  n50 --- n52
+  n53["`Mỗi mức cược phải có bluff đi kèm đúng tỷ lệ α, nếu không mức cược sẽ lộ tay bài`"]
+  n50 --- n53
+  n54["`Bị bluff không luôn là lỗi của người phòng thủ: trước phạm vi quá mạnh, fold hết là đúng`"]
+  n50 --- n54
+  class n0 root
+  class n1,n12,n25,n36,n43,n50 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 14 "You Don't Have To Guess: No-Limit Bet Sizing", trang 153–162.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) giải trò chơi biết trước bài (clairvoyance game) và các trò chơi [0,1] half-street với cược limit, rút ra hằng số α: α = 1/(P + 1) khi cược 1 vào pot P, và α = s/(1 + s) khi cược s lần pot. Chương 13 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)) giải trò chơi AKQ limit.
+
+Chương 14 chuyển sang no-limit, nơi người bet còn phải chọn **bao nhiêu**: lời đáp là viết kỳ vọng như một hàm của mức cược s rồi để người kiểm soát s chọn s làm cực đại kỳ vọng đó. Kết quả nổi bật là hằng số r = √2 − 1 ≈ 0,414, được tác giả gọi là "tỷ lệ vàng của poker", sẽ còn xuất hiện ở nhiều chương sau.
+
+Chương 15 ([C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md)) mở rộng sang trò chơi full-street, và phụ lục của nó giải trò chơi AKQ no-limit khi X cũng được bet; các Chương 16–18 ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md), [C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md), [C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) dùng lại kỹ thuật chọn mức cược cho các trò chơi [0,1].
+
+## Lưu ý
+
+- **Tính sai giá trị √2 − 1 (trang 158):** sách viết "the value √2 − 1 or approximately 0.114". Đúng là √2 − 1 ≈ 1,41421 − 1 = **0,414**. Ngay đoạn sau sách viết đúng "a little more than 41%".
+- **Đánh số hình sai (trang 157):** hình đồ thị kỳ vọng của trò chơi AKQ #3 mang nhãn "Figure 13.3. Equity of the NL clairvoyance game". Hình nằm ở Chương 14 và là hình thứ ba của chương, nên phải là "Figure 14.3"; tên hình cũng sai — đồ thị vẽ f(s) = s(1 − s)/[6(1 + s)] của trò chơi AKQ #3, không phải của trò chơi biết trước bài.
+- **Trích dẫn sai số phương trình:** hai lần (trang 153 và 156) sách viết "Recall from Equation 11.2" / "See Equation 11.2" cho công thức α = s/(1 + s). Ở Chương 11, Phương trình 11.2 là 1 − α = 1 − 1/(P + 1); công thức α = s/(1 + s) là Phương trình **11.3**.
+- **Vi phân của hàm value bet in sai số mũ (trang 160):** sách viết dy = x₀/(1 + s)² ds. Lấy đạo hàm y(s) = x₀/[2(1 + s)²] được dy/ds = −x₀/(1 + s)³, nên độ lớn đúng là **dy = x₀/(1 + s)³ ds**. Dòng tiếp theo của sách ("bluffing differential" s·x₀/(1 + s)⁴ ds) lại khớp với số mũ 3 (vì s/(1 + s) × x₀/(1 + s)³ = s·x₀/(1 + s)⁴), nên chỉ dòng dy bị in sai; kết quả x₀ = 6/7 đúng.
+- **Công thức chiến lược cuối Ví dụ 14.3 in mơ hồ (trang 161):** sách in "x(s) = 6/7 (1+s)" và "y(s) = 3/7 (1+s)²", dễ đọc thành nhân. Theo Phương trình 14.2 và hàm value bet, đúng là **x(s) = 6/[7(1 + s)]** và **y(s) = 3/[7(1 + s)²]**.
+- **Điều kiện bàng quan của Y trong Ví dụ 14.3 (nhận xét của người tổng hợp):** sách viết mọi mức cược t₁, t₂, t₃ … "có equity bằng check". Thực ra từ y − x(s) − s·x(s) = k với k là hằng số, equity của một tay bluff y bằng y − x₀ với mọi s: như nhau giữa các mức cược (đó là điều cần cho lời giải), nhưng chỉ bằng 0 (bằng check) với tay ở đúng ngưỡng y = x₀; tay tệ hơn x₀ bluff có lời dương y − x₀, vì X không bao giờ call với tay tệ hơn x₀. Chính vì vậy Y bluff với toàn bộ miền [x₀, 1].
+- **Trục hoành của Hình 14.1 và 14.2 ghi "Stack size":** đại lượng trên trục là mức cược s (tính theo pot) mà Y đặt bằng cả stack; vì Y đẩy cả stack nên hai đại lượng trùng nhau.
+- **Thuật ngữ và quy ước:** trong limit, sách cho cược bằng 1 và pot bằng P; trong no-limit, pot bằng 1 và cược bằng s (cược s đơn vị là cược s lần pot). Trong trò chơi [0,1], số càng nhỏ là tay bài càng mạnh (0 là tay tốt nhất). Giá trị luôn tính ngoài showdown (chỉ phần thắng thua do cược tạo ra).
+- **Lỗi chính tả và OCR:** "whirling hands" là "winning hands"; "corned" là "coined"; "AKO game" là "AKQ game"; "Y betting j", "the value of j" là "s"; "ratio of bluffs to bets will be a" là α; "handy", "mdifferent" là "hand y", "indifferent"; "discard ah bet amounts" là "all"; "sx2(s)" là s·x′(s) (đạo hàm). Mọi công thức đã được đọc lại từ ảnh trang.
+- **Danh sách tổng kết các trò chơi half-street (trang 161–162) gom hai trò chơi jam-or-fold** của Chương 12 thành hai mục và dòng "The [0,1] game" ở cuối là trò chơi [0,1] #3 của chính chương này; trong lớp chữ hai mục jam-or-fold bị ngắt dòng thành bốn dấu đầu dòng.

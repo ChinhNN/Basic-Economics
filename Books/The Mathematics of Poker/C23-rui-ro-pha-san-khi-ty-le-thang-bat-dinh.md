@@ -1,21 +1,18 @@
 # Chương 23 — Thêm bất định: rủi ro phá sản khi tỷ lệ thắng bất định (Adding Uncertainty: Risk of Ruin with Uncertain Win Rates)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 23 "Adding Uncertainty: Risk of Ruin with Uncertain Win Rates", trang 307–317 (bắt đầu ở nửa dưới trang 307, sau phần "Key Concepts" của Chương 22).
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 22 ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md)) dựng mô hình rủi ro phá sản (risk of ruin) với một tỷ lệ thắng (win rate) đã biết chắc, và cho công thức của phân phối chuẩn R(b) = exp(−2μb/σ²). Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) đã dạy cách ước lượng tham số, sai số chuẩn, khoảng tin cậy và cảnh báo về việc chỉ áp phân phối chuẩn lên kết quả quan sát mà bỏ qua phân phối tiên nghiệm (cách nhìn Bayes). Chương 23 ghép hai thứ đó: thay một tỷ lệ thắng duy nhất bằng một phân phối chuẩn của các tỷ lệ thắng khả dĩ quanh giá trị quan sát, rồi lấy kỳ vọng của rủi ro phá sản theo phân phối đó, được công thức "rủi ro phá sản dưới bất định" (RoRU). Phần cuối chương bàn các lý do thực tế khiến người chơi phóng đại tỷ lệ thắng (thuế, chi phí sinh hoạt, mức thua chịu được), chuẩn bị cho Chương 24 ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)) về việc xuống mức cược thấp hơn và tiêu chuẩn Kelly, và Chương 25 ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)) về danh mục trò chơi và tài trợ.
-**Ý chính:** **Vì tỷ lệ thắng thật không bao giờ biết chắc mà chỉ ước lượng được với sai số chuẩn lớn, rủi ro phá sản đúng đắn là trung bình có trọng số của rủi ro phá sản trên mọi tỷ lệ thắng khả dĩ; với phân phối tỷ lệ thắng chuẩn quanh giá trị quan sát w, độ lệch chuẩn σ_w = s/√N, kết quả có dạng đóng RoRU = R(w,b)·exp(2b²σ_w²/σ⁴)·Φ((w − 2bσ_w²/σ²)/σ_w) + Φ(−w/σ_w), và nó luôn lớn hơn đáng kể rủi ro phá sản "đơn giản" khi dữ liệu ít.** Ví dụ mở đầu: người chơi có tỷ lệ thắng thật 1 bet/giờ, độ lệch chuẩn 12 bet/giờ, chơi 100 giờ sẽ quan sát tỷ lệ thắng dao động rất rộng; với bankroll 200 bet, rủi ro phá sản là 100% nếu tỷ lệ thắng là 0, chỉ 0,387% nếu là 2 bet/giờ, 10,84% nếu 0,8 và 6,22% nếu 1 — gần như toàn bộ khoảng 0–100%. Số hạng cuối Φ(−w/σ_w) là xác suất người chơi thực chất là người thua; không bankroll nào bảo vệ được khỏi phần rủi ro này. Hai hình (bankroll 100 và 300 bet, độ lệch chuẩn 10 bet) cho thấy khi σ_w lớn, rủi ro ở tỷ lệ thắng thấp giảm xuống dưới 100% (có thể chỉ là kém may), nhưng rủi ro ở tỷ lệ thắng trung bình và cao tăng lên nhiều. Mục "Bankroll Considerations" nêu bốn lý do người chơi phóng đại tỷ lệ thắng (thành công ban đầu, cái tôi, thông tin sai, điều kiện trò chơi thay đổi) và ba lý do "tỷ lệ thắng" và "bankroll" dùng trong công thức khác với con số thô: thuế (có thể giảm tỷ lệ thắng 30% trở lên ở Mỹ), bankroll hiệu dụng là số tiền sẵn sàng thua ở một mức cược (ví dụ $12.000 nhưng sẽ bỏ sau khi thua $6.000 thì chỉ có 150 bet ở mức $20-40), và chi phí sinh hoạt phải trừ khỏi tỷ lệ thắng như một khoản "lương". Ví dụ người chơi 40.000 ván thắng 2,5 bet/100 ván, độ lệch chuẩn 18 bet/100 ván, bankroll 300 bet: RoRU 3,67% so với rủi ro đơn giản 0,98%; khi rút 1 bet/100 ván để sống, tỷ lệ thắng còn 1,5 và RoRU nhảy lên 17,25% (rủi ro đơn giản 6,22%). Mục "Virtual Bankroll" bổ sung nguồn tiền ngoài poker (lương, đầu tư) như bankroll ảo, và nhấn mạnh tính bất đối xứng: phóng đại nhẹ tỷ lệ thắng làm đánh giá thấp rủi ro rất nhiều, còn đánh giá thấp nhẹ chỉ làm phóng đại rủi ro một chút.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phạm vi trang:** Chương 23 bắt đầu ở nửa dưới trang 307 (nửa trên là phần cuối "Key Concepts" của Chương 22, đã tổng hợp trong file Chương 22) và kết thúc ở trang 317. **Trang 312 trong PDF này để trắng**: sách viết ở cuối trang 311 "Here's a table which looks at some risk of ruin calculations, using the normal distribution RoR and also this RoRU" nhưng bảng không có trong bản PDF (có lẽ bị mất khi dựng lại bằng LibreOffice). Bản tổng hợp không bịa bảng; thay vào đó, người tổng hợp tự tính một bảng RoRU theo công thức 23.1 với đúng thông số của hai hình 23.1 và 23.2 (ghi rõ là số của người tổng hợp).
-> - **Ví dụ 100 giờ ở trang 307 có số sai:** sách nói với μ = 1 bet/giờ, σ = 12 bet/giờ và mẫu 100 giờ, kết quả "68% khả năng nằm giữa 0 và 200 bet" và "32% thời gian kết quả lệch quá 1 bet/giờ khỏi trung bình". Sai số chuẩn của tỷ lệ thắng 100 giờ là 12/√100 = 1,2 bet/giờ (tổng thắng có độ lệch chuẩn 120 bet), nên khoảng 68% là 100 ± 120 bet, tức từ −20 tới 220 bet (−0,2 tới 2,2 bet/giờ). Xác suất lệch quá 1 bet/giờ là 2Φ(−1/1,2) ≈ 40,5%, không phải 32%. Các số của sách chỉ đúng nếu σ = 10 bet/giờ. Kết luận định tính (tỷ lệ thắng quan sát dao động rất rộng) vẫn đúng, và còn mạnh hơn.
-> - **Đơn vị lẫn lộn:** trang 307–308 viết lúc "bets/hr", lúc "BB/hr" ("at 2 BB/hr", "0.8 BB/hr and 1 BB/hr") cho cùng một đại lượng; các phép tính đều dùng bet/giờ. Bản tổng hợp dùng "bet/giờ".
-> - **Thiếu ký hiệu Φ ở công thức 23.1 (trang 311):** sách in số hạng cuối là "+(−w/σ_w)"; đúng phải là +Φ(−w/σ_w), xác suất tỷ lệ thắng âm, như chính lời giải thích ngay sau ("số hạng cuối là phân phối chuẩn tích luỹ cho các tỷ lệ thắng âm, nhân với rủi ro phá sản bằng 1") và như dòng trước đó "+ p(w < 0)". Người tổng hợp kiểm tra bằng tích phân số trực tiếp: công thức có Φ cho đúng 3,67% và 17,25% của ví dụ ở trang 315–316; bỏ Φ thì kết quả vô nghĩa (số hạng âm).
-> - **Ký hiệu dấu trong phép dẫn (trang 309–311):** sau khi gộp số mũ, sách viết tử số "−x² − 2x(2bσ_w²/σ² − w) + w²"; đúng phải là −[x² + 2x(2bσ_w²/σ² − w) + w²] (dấu trừ áp cho cả ngoặc). Sách viết thừa số còn lại là "exp((−w² − u²)/(2σ_w²))" và ở dòng khai triển viết "−w² − (4b²σ_w⁴/σ⁴ − 4bwσ_w²/σ² + w²)"; đúng phải là exp(−(w² − u²)/(2σ_w²)) = exp((u² − w²)/(2σ_w²)). Kết quả cuối 2b²σ_w²/σ⁴ − 2bw/σ² của sách là đúng (khớp với (u² − w²)/(2σ_w²)), nên đây chỉ là lỗi viết dấu trung gian. Các dòng ở trang 310 bị vỡ ký hiệu ("¿") trong cả lớp chữ lẫn ảnh; bản tổng hợp chép lại phép dẫn đầy đủ.
-> - **Phương trình 22.3 bị hỏng ký hiệu:** như ở Chương 22, bản PDF in "¿v(x)≥∫…" thay cho ⟨v(x)⟩ = ∫ v(x)p(x)dx. Định nghĩa Φ(z) ở trang 311 cũng thiếu "dx" và lời văn gọi lẫn Φ(t), "bên trái x" thay vì Φ(z), "bên trái z"; lời văn viết "integrands of −∞ and ∞" thay vì "cận tích phân" (limits of integration).
-> - **Chú thích hình in sai:** Hình 23.1 ghi "bankroll -100, std. dev. -10 bets" và Hình 23.2 ghi "bankroll + 300 bets"; đúng là "bankroll = 100" và "= 300", "std. dev. = 10 bets". Trục hoành của Hình 23.1 bị dàn lại sai trong PDF: các nhãn 0 … 2 nằm dưới khung hình và dồn về bên trái, không khớp với lưới; người tổng hợp đọc hình theo các đường lưới (mỗi ô 0,2, từ 0 tới 2), và kiểm tra lại bằng công thức 23.1 thấy khớp. Mọi số đọc từ hai hình là ước lượng.
-> - **Lỗi chính tả và OCR:** "wor дd" ("world"), "Tire first" ("The first"), "100°/o" ("100%"), "overestimate then win rates" ("their"), "outer players" ("other"), "hi terms" ("in terms"), "fiving expenses" ("living"), "The same tiling" ("thing"), "40.000 hands" (dấu chấm phân cách hàng nghìn kiểu châu Âu, tức 40 nghìn ván), "of200 bets" (thiếu khoảng trắng).
-> - **Các con số ví dụ chính đã được kiểm tra:** e^(−800/144) = 0,387%; e^(−320/144) = 10,84%; e^(−400/144) = 6,22%; với 40.000 ván, σ_w = 18/√400 = 0,9 bet/100 ván, RoR đơn giản e^(−2·2,5·300/324) = 0,98%, RoRU = 3,67%, chênh 2,69 điểm phần trăm; với 1,5 bet/100 ván, RoR đơn giản 6,22%, RoRU = 17,25%. Tất cả khớp sách.
-> - **Quy ước thuật ngữ:** "win rate" dịch là "tỷ lệ thắng" (số tiền thắng trung bình mỗi giờ hoặc mỗi 100 ván, không phải tỷ lệ phần trăm ván thắng); "risk of ruin under uncertainty (RoRU)" là "rủi ro phá sản dưới bất định"; "standard error" là "sai số chuẩn"; "virtual bankroll" là "bankroll ảo"; "bet" là một đơn vị cược lớn của limit (ví dụ $40 ở mức $20-40).
+**Vì tỷ lệ thắng thật không bao giờ biết chắc mà chỉ ước lượng được với sai số chuẩn lớn, rủi ro phá sản đúng đắn là trung bình có trọng số của rủi ro phá sản trên mọi tỷ lệ thắng khả dĩ; với phân phối tỷ lệ thắng chuẩn quanh giá trị quan sát w, độ lệch chuẩn σ_w = s/√N, kết quả có dạng đóng RoRU = R(w,b)·exp(2b²σ_w²/σ⁴)·Φ((w − 2bσ_w²/σ²)/σ_w) + Φ(−w/σ_w), và nó luôn lớn hơn đáng kể rủi ro phá sản "đơn giản" khi dữ liệu ít.**
+
+Ví dụ mở đầu: người chơi có tỷ lệ thắng thật 1 bet/giờ, độ lệch chuẩn 12 bet/giờ, chơi 100 giờ sẽ quan sát tỷ lệ thắng dao động rất rộng; với bankroll 200 bet, rủi ro phá sản là 100% nếu tỷ lệ thắng là 0, chỉ 0,387% nếu là 2 bet/giờ, 10,84% nếu 0,8 và 6,22% nếu 1 — gần như toàn bộ khoảng 0–100%.
+
+Số hạng cuối Φ(−w/σ_w) là xác suất người chơi thực chất là người thua; không bankroll nào bảo vệ được khỏi phần rủi ro này. Hai hình (bankroll 100 và 300 bet, độ lệch chuẩn 10 bet) cho thấy khi σ_w lớn, rủi ro ở tỷ lệ thắng thấp giảm xuống dưới 100% (có thể chỉ là kém may), nhưng rủi ro ở tỷ lệ thắng trung bình và cao tăng lên nhiều.
+
+Mục "Bankroll Considerations" nêu bốn lý do người chơi phóng đại tỷ lệ thắng (thành công ban đầu, cái tôi, thông tin sai, điều kiện trò chơi thay đổi) và ba lý do "tỷ lệ thắng" và "bankroll" dùng trong công thức khác với con số thô: thuế (có thể giảm tỷ lệ thắng 30% trở lên ở Mỹ), bankroll hiệu dụng là số tiền sẵn sàng thua ở một mức cược (ví dụ $12.000 nhưng sẽ bỏ sau khi thua $6.000 thì chỉ có 150 bet ở mức $20-40), và chi phí sinh hoạt phải trừ khỏi tỷ lệ thắng như một khoản "lương".
+
+Ví dụ người chơi 40.000 ván thắng 2,5 bet/100 ván, độ lệch chuẩn 18 bet/100 ván, bankroll 300 bet: RoRU 3,67% so với rủi ro đơn giản 0,98%; khi rút 1 bet/100 ván để sống, tỷ lệ thắng còn 1,5 và RoRU nhảy lên 17,25% (rủi ro đơn giản 6,22%).
+
+Mục "Virtual Bankroll" bổ sung nguồn tiền ngoài poker (lương, đầu tư) như bankroll ảo, và nhấn mạnh tính bất đối xứng: phóng đại nhẹ tỷ lệ thắng làm đánh giá thấp rủi ro rất nhiều, còn đánh giá thấp nhẹ chỉ làm phóng đại rủi ro một chút.
 
 ## Sơ đồ
 
@@ -233,11 +230,13 @@
 
 ### 1. Mở đầu: tỷ lệ thắng thật không quan sát được (trang 307–308)
 
-Một trong hai tác giả có một hình dung lặp đi lặp lại về một thế giới nơi các hình chiếu ba chiều nhỏ hiện trên đầu mỗi người chơi, cho thấy kỳ vọng "thật" chính xác của người đó trong ván, trận, buổi chơi hiện tại — tính cả những người cùng bàn, trạng thái tâm lý của người chơi, v.v. Tiếc là không có những hình chiếu như vậy, nên ta phải ước lượng và suy luận. Phần I đã bàn việc ước lượng tham số. Chương này kết hợp công thức rủi ro phá sản của chương trước, vốn dựa trên một tỷ lệ thắng chắc chắn và biết trước, với một phân phối bất định của tỷ lệ thắng suy ra từ dữ liệu quan sát. Suốt chương, tác giả tập trung vào poker limit, dù các nguyên tắc áp dụng như nhau cho cash game no-limit. Tuy nhiên, vì phân tích dựa vào công thức rủi ro phá sản cho phân phối chuẩn, nó không dùng nguyên dạng được cho giải đấu (Chương 22 đã chỉ ra công thức chuẩn sai lệch lớn với phân phối lệch dương của giải đấu).
+Một trong hai tác giả có một hình dung lặp đi lặp lại về một thế giới nơi các hình chiếu ba chiều nhỏ hiện trên đầu mỗi người chơi, cho thấy kỳ vọng "thật" chính xác của người đó trong ván, trận, buổi chơi hiện tại — tính cả những người cùng bàn, trạng thái tâm lý của người chơi, v.v. Tiếc là không có những hình chiếu như vậy, nên ta phải ước lượng và suy luận.
+
+Phần I đã bàn việc ước lượng tham số. Chương này kết hợp công thức rủi ro phá sản của chương trước, vốn dựa trên một tỷ lệ thắng chắc chắn và biết trước, với một phân phối bất định của tỷ lệ thắng suy ra từ dữ liệu quan sát. Suốt chương, tác giả tập trung vào poker limit, dù các nguyên tắc áp dụng như nhau cho cash game no-limit. Tuy nhiên, vì phân tích dựa vào công thức rủi ro phá sản cho phân phối chuẩn, nó không dùng nguyên dạng được cho giải đấu (Chương 22 đã chỉ ra công thức chuẩn sai lệch lớn với phân phối lệch dương của giải đấu).
 
 Xét một người chơi đã chơi N giờ với tỷ lệ thắng w và độ lệch chuẩn s. Trước hết, độ lệch chuẩn mẫu hội tụ khá nhanh về độ lệch chuẩn tổng thể, nên suốt phân tích ta dùng s làm độ lệch chuẩn σ của trò chơi. Nhưng kinh nghiệm cho thấy w hội tụ về tỷ lệ thắng "thật" μ của người chơi rất chậm, vì s lớn so với w.
 
-Để thấy điều này, giả sử ta biết μ = 1 bet/giờ và σ = 12 bet/giờ, lấy mẫu 100 giờ và gọi kết quả là w. Sách nói w có 68% khả năng nằm giữa 0 và 200 bet (tổng thắng), và 32% thời gian lệch quá 1 bet/giờ khỏi trung bình. (Người tổng hợp tính lại: sai số chuẩn của w là 12/√100 = 1,2 bet/giờ, nên khoảng 68% của tổng thắng là 100 ± 120 bet, tức −20 tới 220 bet; xác suất lệch quá 1 bet/giờ là 2Φ(−1/1,2) ≈ 40,5% — xem Lưu ý.) Giả sử người chơi có bankroll 200 bet. Chênh lệch rủi ro phá sản giữa tỷ lệ thắng 0 và 2 bet/giờ là rất lớn:
+Để thấy điều này, giả sử ta biết μ = 1 bet/giờ và σ = 12 bet/giờ, lấy mẫu 100 giờ và gọi kết quả là w. Sách nói w có 68% khả năng nằm giữa 0 và 200 bet (tổng thắng), và 32% thời gian lệch quá 1 bet/giờ khỏi trung bình. (Người tổng hợp tính lại: sai số chuẩn của w là 12/√100 = 1,2 bet/giờ, nên khoảng 68% của tổng thắng là 100 ± 120 bet, tức −20 tới 220 bet; xác suất lệch quá 1 bet/giờ là 2Φ(−1/1,2) ≈ 40,5% — xem mục Lưu ý cuối chương.) Giả sử người chơi có bankroll 200 bet. Chênh lệch rủi ro phá sản giữa tỷ lệ thắng 0 và 2 bet/giờ là rất lớn:
 
 - Tỷ lệ thắng 0: R(200) = 1 (theo Chương 22, kỳ vọng không dương thì chắc chắn phá sản).
 - Tỷ lệ thắng 2 bet/giờ: R(200) = e^(−2·2·200/144) = e^(−800/144) = e^(−5,556) = 0,387%.
@@ -315,7 +314,7 @@ Biểu thức thành exp(2b²σ_w²/σ⁴ − 2bw/σ²)·Φ(−u/σ_w) + p(w < 0
 
 $$\text{RoRU} = R(w,b)\,\exp\!\left(2b^2\frac{\sigma_w^2}{\sigma^4}\right)\Phi\!\left(\left(w - 2b\frac{\sigma_w^2}{\sigma^2}\right)\Big/\sigma_w\right) + \Phi(-w/\sigma_w) \qquad (23.1)$$
 
-(Sách in số hạng cuối thiếu chữ Φ, xem Lưu ý.) Đây là công thức **rủi ro phá sản dưới bất định** (risk of ruin under uncertainty, RoRU). Nó gồm bốn thành phần:
+(Sách in số hạng cuối thiếu chữ Φ, xem mục Lưu ý cuối chương.) Đây là công thức **rủi ro phá sản dưới bất định** (risk of ruin under uncertainty, RoRU). Nó gồm bốn thành phần:
 
 1. R(w, b): rủi ro phá sản theo phân phối chuẩn tại tỷ lệ thắng quan sát gốc.
 2. Một hàm mũ chứa bình phương bankroll và độ lệch chuẩn của cả trò chơi lẫn của ước lượng tỷ lệ thắng; nó luôn ≥ 1, làm tăng rủi ro.
@@ -375,7 +374,9 @@ RoRU là một cách mạnh để đưa bất định về tỷ lệ thắng và
 
 Tác giả tin rằng phần lớn người chơi phóng đại tỷ lệ thắng của mình khi tính rủi ro phá sản, vì một số lý do:
 
-**1) Thành công ban đầu (Initial Success).** Người bắt đầu sự nghiệp poker bằng một chuỗi thắng dễ chơi tiếp hơn; người bắt đầu bằng chuỗi thua dễ bỏ hẳn hơn nhiều. Hiệu ứng này có lẽ chọn lọc nhẹ về phía người có kỳ vọng cao hơn, nhưng bị phương sai lấn át. Nếu nhìn tập hợp mọi người chơi bắt đầu bằng thắng, ta sẽ thấy khá nhiều người tương đối kém chỉ gặp các biến cố phương sai dương. Họ sẽ dựa vào tỷ lệ thắng quá khứ (bị thổi phồng) để dự báo tỷ lệ thắng tương lai (kỳ vọng), và do đó đánh giá quá cao triển vọng. Hiệu ứng này đặc biệt rõ ở người đang tính chơi chuyên nghiệp: thời điểm dễ nhất để người chơi nghĩ tới việc chơi toàn thời gian là sau một giai đoạn đi lên. Các giai đoạn đi lên đó có thể là thật, nhưng thường là dao động thống kê dương không phản ánh thay đổi nào về kỳ vọng.
+**1) Thành công ban đầu (Initial Success).** Người bắt đầu sự nghiệp poker bằng một chuỗi thắng dễ chơi tiếp hơn; người bắt đầu bằng chuỗi thua dễ bỏ hẳn hơn nhiều. Hiệu ứng này có lẽ chọn lọc nhẹ về phía người có kỳ vọng cao hơn, nhưng bị phương sai lấn át. Nếu nhìn tập hợp mọi người chơi bắt đầu bằng thắng, ta sẽ thấy khá nhiều người tương đối kém chỉ gặp các biến cố phương sai dương. Họ sẽ dựa vào tỷ lệ thắng quá khứ (bị thổi phồng) để dự báo tỷ lệ thắng tương lai (kỳ vọng), và do đó đánh giá quá cao triển vọng.
+
+Hiệu ứng này đặc biệt rõ ở người đang tính chơi chuyên nghiệp: thời điểm dễ nhất để người chơi nghĩ tới việc chơi toàn thời gian là sau một giai đoạn đi lên. Các giai đoạn đi lên đó có thể là thật, nhưng thường là dao động thống kê dương không phản ánh thay đổi nào về kỳ vọng.
 
 **2) Cái tôi (Ego).** Poker là trò chơi bị cái tôi chi phối. Nhiều người tin chắc mình mạnh hơn thực tế nhiều, rằng kết quả tới nay chủ yếu do xui chứ không do chơi kém. Điều này đôi khi đúng, nhưng thường là kết hợp của cả hai.
 
@@ -388,7 +389,9 @@ Rất ít người chơi poker, nhất là những người đã bỏ thời gia
 **Tỷ lệ thắng và bankroll dùng trong công thức khác với con số thô.** Còn một lý do nữa khiến tỷ lệ thắng dùng để tính rủi ro phá sản thường bị phóng đại: phần lớn người chơi không đưa toàn bộ tiền thắng poker vào bankroll. Vào lúc viết sách, một tác giả chơi chuyên nghiệp, nên tiêu tiền cho trả góp nhà, thức ăn, v.v. Ta nói "tỷ lệ thắng" và "bankroll" trong rủi ro phá sản bằng cùng những từ dùng để mô tả tốc độ thắng ở một trò chơi và tổng số tiền có để chơi poker, nhưng chúng hoàn toàn không giống nhau:
 
 - **Thứ nhất, thuế.** Ở Mỹ, tiền thắng poker phải chịu thuế, có thể làm giảm "tỷ lệ thắng" 30% trở lên tuỳ mức độ thành công của người chơi.
-- **Thứ hai, bankroll hiệu dụng.** "Bankroll" thực ra nên được coi là số tiền ta sẵn sàng thua khi chơi một trò chơi ở một mức cược cụ thể. Ví dụ, người chơi mức $20-40 có $12.000 dành để chơi poker có thể được coi là có bankroll 300 bet ($12.000/$40). Nhưng nếu anh ta sẽ bỏ poker sau khi thua $6.000, hoặc sẽ xuống mức cược thấp hơn (chủ đề sẽ bàn sau), thì bankroll hiệu dụng cho mức $20-40 chỉ là 150 bet. Anh ta không "phá sản" theo nghĩa hết khả năng chơi khi thua số đó, nhưng xét xác suất anh ta thua $12.000 ở mức $20-40 là phi lý — thực tế anh ta sẽ không bao giờ thua $12.000 ở trò chơi này. Rủi ro phá sản "thật" của anh ta là sự kết hợp của rủi ro thua, ở mỗi mức cược, số tiền anh ta chịu được trước khi xuống mức thấp hơn nữa, hoặc bỏ poker hẳn.
+- **Thứ hai, bankroll hiệu dụng.** "Bankroll" thực ra nên được coi là số tiền ta sẵn sàng thua khi chơi một trò chơi ở một mức cược cụ thể. Ví dụ, người chơi mức $20-40 có $12.000 dành để chơi poker có thể được coi là có bankroll 300 bet ($12.000/$40). Nhưng nếu anh ta sẽ bỏ poker sau khi thua $6.000, hoặc sẽ xuống mức cược thấp hơn (chủ đề sẽ bàn sau), thì bankroll hiệu dụng cho mức $20-40 chỉ là 150 bet.
+
+  Anh ta không "phá sản" theo nghĩa hết khả năng chơi khi thua số đó, nhưng xét xác suất anh ta thua $12.000 ở mức $20-40 là phi lý — thực tế anh ta sẽ không bao giờ thua $12.000 ở trò chơi này. Rủi ro phá sản "thật" của anh ta là sự kết hợp của rủi ro thua, ở mỗi mức cược, số tiền anh ta chịu được trước khi xuống mức thấp hơn nữa, hoặc bỏ poker hẳn.
 - **Thứ ba, chi phí sinh hoạt.** Người chơi chuyên nghiệp có chi phí sống phải trả dù thắng hay thua: một dòng tiền ra đều đặn phải tính vào bankroll và tiền thắng. Ngay cả người thắng không chơi chuyên nghiệp cũng thường không để 100% tiền thắng trong bankroll, mà tiêu vào kỳ nghỉ, trang sức hay TV plasma. Có vài chiến lược hợp lý để rút tiền thắng chi tiêu, dù cho nhu cầu xa xỉ hay thiết yếu; tác giả thích một cách giúp tiếp tục đánh giá rủi ro hợp lý trong khi có dòng tiền ra đều: **tự trả lương cho mình theo một đơn vị thời gian và giảm tỷ lệ thắng đúng bằng khoản đó**. Cách này khá giống khởi sự một doanh nghiệp nhỏ.
 
 Điều này có thể làm vài độc giả nhíu mày: "Trừ lương khỏi tỷ lệ thắng! Nếu số tiền tôi cần gần bằng số tôi kiếm được thì sao?" Đó chính là mấu chốt. Nếu tỷ lệ thắng đã điều chỉnh (sau khi trừ tiền rút ra chi tiêu) gần 0 (hay thậm chí âm!), thì **rủi ro phá sản của người chơi tăng vọt và thường gần 100%**. Vô số người chơi chuyên nghiệp đã bỏ qua nguyên tắc này, hớt phần lớn lợi nhuận khỏi bankroll, và cuối cùng phá sản khi gặp một đợt đi xuống nặng. Ngay cả khi không phá sản, người chơi thường phải bỏ lỡ thu nhập vì buộc phải xuống mức cược thấp hơn.
@@ -423,11 +426,15 @@ Việc giảm từ 2,5 xuống 1,5 bet/100 ván (do rút 1 bet/100 ván chi tiê
 
 ### 6. Bankroll ảo, tính bất đối xứng và điều kiện thay đổi (Virtual Bankroll, trang 316)
 
-Điều trên áp dụng cả với người chơi không chuyên chỉ rút tiền khỏi bankroll sau chuỗi thắng: làm vậy giảm khả năng bankroll chịu được các đợt đi xuống tương lai và tăng rủi ro phá sản. Nhưng điều này dẫn tới một cân nhắc quan trọng khác: khái niệm **bankroll ảo** (virtual bankroll). Ta không chơi trong chân không; với người không chuyên và cả một số người chuyên, có thể có tiền chảy vào bankroll từ lương công việc khác, đầu tư hay nguồn thu nhập khác. Phân tích đầy đủ rủi ro phá sản poker cần xét mọi yếu tố này; nhưng trong một số trường hợp, điều chỉnh đại thể là đủ. Ví dụ, một người chơi nghiêm túc có việc làm lương $300.000 một năm có bankroll ảo lớn hơn nhiều bankroll hiện tại, trong khi người không có việc và rất ít kỹ năng để kiếm việc nên giữ bankroll poker cẩn thận hơn một chút, vì nó không dễ thay thế.
+Điều trên áp dụng cả với người chơi không chuyên chỉ rút tiền khỏi bankroll sau chuỗi thắng: làm vậy giảm khả năng bankroll chịu được các đợt đi xuống tương lai và tăng rủi ro phá sản.
+
+Nhưng điều này dẫn tới một cân nhắc quan trọng khác: khái niệm **bankroll ảo** (virtual bankroll). Ta không chơi trong chân không; với người không chuyên và cả một số người chuyên, có thể có tiền chảy vào bankroll từ lương công việc khác, đầu tư hay nguồn thu nhập khác. Phân tích đầy đủ rủi ro phá sản poker cần xét mọi yếu tố này; nhưng trong một số trường hợp, điều chỉnh đại thể là đủ. Ví dụ, một người chơi nghiêm túc có việc làm lương $300.000 một năm có bankroll ảo lớn hơn nhiều bankroll hiện tại, trong khi người không có việc và rất ít kỹ năng để kiếm việc nên giữ bankroll poker cẩn thận hơn một chút, vì nó không dễ thay thế.
 
 Điểm mấu chốt là **tác động lên rủi ro phá sản không đối xứng: phóng đại nhẹ tỷ lệ thắng khiến ta đánh giá thấp rủi ro phá sản rất nhiều, còn đánh giá thấp nhẹ tỷ lệ thắng chỉ khiến ta phóng đại rủi ro một chút.** (Minh hoạ của người tổng hợp với bankroll 300 bet, σ = 18 bet/100 ván: người chơi tin mình thắng 2,5 bet/100 ván nên tính rủi ro 0,98%. Nếu thật ra chỉ thắng 2,0, rủi ro thật là 2,46% — cao hơn 1,5 điểm phần trăm; nếu thật ra thắng 3,0, rủi ro thật là 0,39% — chỉ thấp hơn 0,6 điểm. Sai cùng 0,5 bet/100 ván nhưng thiệt hại khi lạc quan lớn hơn khoảng 2,5 lần.)
 
-Một cân nhắc phải chi phối toàn bộ phân tích này theo cách rất quan trọng là điều kiện trò chơi không tĩnh. Trò chơi lúc lên lúc xuống, tốt hơn rồi tệ đi. Với sự xuất hiện của poker truyền hình, thế giới người chơi poker đã lớn lên rất nhiều. Đây có thể là thay đổi lâu dài, nhưng chắc chắn không được bảo đảm; poker online cũng vậy. Những điều này cũng có thể dẫn tới hiệu ứng đã bàn ở trên: các giai đoạn lợi nhuận đi lên tương quan với thay đổi thuận lợi của điều kiện. Thường khi người chơi tính chuyện chơi chuyên nghiệp, họ vừa trải qua một chuỗi thắng, có thể do điều kiện ở trò chơi ưa thích của họ thay đổi — có thể lâu dài, có thể không. Việc điều kiện thay đổi khiến phần lớn người chơi nên coi rủi ro phá sản tổng thể của mình hơi cao hơn các công thức gợi ý, vì rủi ro bị tác động mạnh hơn khi điều kiện xấu đi so với khi điều kiện tốt lên.
+Một cân nhắc phải chi phối toàn bộ phân tích này theo cách rất quan trọng là điều kiện trò chơi không tĩnh. Trò chơi lúc lên lúc xuống, tốt hơn rồi tệ đi. Với sự xuất hiện của poker truyền hình, thế giới người chơi poker đã lớn lên rất nhiều. Đây có thể là thay đổi lâu dài, nhưng chắc chắn không được bảo đảm; poker online cũng vậy. Những điều này cũng có thể dẫn tới hiệu ứng đã bàn ở trên: các giai đoạn lợi nhuận đi lên tương quan với thay đổi thuận lợi của điều kiện.
+
+Thường khi người chơi tính chuyện chơi chuyên nghiệp, họ vừa trải qua một chuỗi thắng, có thể do điều kiện ở trò chơi ưa thích của họ thay đổi — có thể lâu dài, có thể không. Việc điều kiện thay đổi khiến phần lớn người chơi nên coi rủi ro phá sản tổng thể của mình hơi cao hơn các công thức gợi ý, vì rủi ro bị tác động mạnh hơn khi điều kiện xấu đi so với khi điều kiện tốt lên.
 
 ### 7. Các khái niệm then chốt (Key Concepts, trang 316–317)
 
@@ -557,7 +564,9 @@ RoRU là kỳ vọng hậu nghiệm (posterior expectation) của xác suất ph
 
 ### Sức mạnh của chương
 
-Chương biến một nhận xét quen thuộc ("ta không biết chắc tỷ lệ thắng của mình") thành một công thức đóng có thể tính bằng bảng tính, và cho thấy bằng số rằng bất định không phải chi tiết nhỏ: với 40.000 ván dữ liệu — nhiều hơn phần lớn người chơi nghiệp dư thời đó có — rủi ro thật vẫn gần gấp bốn rủi ro đơn giản; sau khi rút tiền sống, gần gấp ba. Phần "Bankroll Considerations" là lời khuyên thực tế hiếm có trong sách poker thời đó: tách bạch tiền thắng ở bàn với tiền đưa lại vào bankroll, coi chi tiêu như lương trừ vào tỷ lệ thắng, và định nghĩa bankroll theo số tiền sẵn sàng thua ở một mức cược. Phân tích về thiên lệch chọn mẫu ("thành công ban đầu") là một ứng dụng đúng của thống kê vào tâm lý người chơi.
+Chương biến một nhận xét quen thuộc ("ta không biết chắc tỷ lệ thắng của mình") thành một công thức đóng có thể tính bằng bảng tính, và cho thấy bằng số rằng bất định không phải chi tiết nhỏ: với 40.000 ván dữ liệu — nhiều hơn phần lớn người chơi nghiệp dư thời đó có — rủi ro thật vẫn gần gấp bốn rủi ro đơn giản; sau khi rút tiền sống, gần gấp ba.
+
+Phần "Bankroll Considerations" là lời khuyên thực tế hiếm có trong sách poker thời đó: tách bạch tiền thắng ở bàn với tiền đưa lại vào bankroll, coi chi tiêu như lương trừ vào tỷ lệ thắng, và định nghĩa bankroll theo số tiền sẵn sàng thua ở một mức cược. Phân tích về thiên lệch chọn mẫu ("thành công ban đầu") là một ứng dụng đúng của thống kê vào tâm lý người chơi.
 
 ### Những chỗ đơn giản hoá
 
@@ -587,3 +596,158 @@ Chương biến một nhận xét quen thuộc ("ta không biết chắc tỷ l�
 - **Người chơi poker:** tính σ_w = s/√N từ dữ liệu của mình; nếu w/σ_w < 2, coi như chưa chắc mình là người thắng. Dùng tỷ lệ thắng sau thuế, sau rake và sau chi tiêu; tính RoRU (vài ô Excel với NORM.S.DIST). Trước khi bỏ việc để chơi chuyên nghiệp, đặt ngưỡng: RoRU với tỷ lệ thắng sau chi tiêu dưới vài phần trăm, và tỷ lệ thắng sau chi tiêu cách 0 ít nhất 2–3 sai số chuẩn.
 - **Người làm tài chính và đầu tư:** bài học trực tiếp là rủi ro tham số (parameter risk). Một quỹ có lợi nhuận vượt trội ước lượng từ 3 năm dữ liệu có sai số chuẩn rất lớn; tính xác suất cạn vốn hay vỡ hạn mức thua lỗ tại ước lượng điểm sẽ đánh giá thấp rủi ro, và sai về phía lạc quan đắt hơn sai về phía bi quan. Hiệu ứng "thành công ban đầu" chính là thiên lệch sống sót (survivorship bias) trong đánh giá nhà quản lý quỹ: người được giao thêm vốn thường là người vừa gặp may. Nguyên tắc "trừ lương khỏi tỷ lệ thắng" tương ứng với việc tính tỷ lệ rút vốn bền vững của quỹ hưu trí hay quỹ tài trợ (endowment): nếu tỷ lệ rút gần bằng lợi nhuận kỳ vọng, xác suất cạn vốn tăng vọt.
 - **Người ra quyết định nói chung:** khi một quyết định không đảo ngược được (bỏ việc, dồn vốn) dựa trên một ước lượng từ dữ liệu ngắn, hãy tính kết quả trên cả phân phối các giá trị khả dĩ, đặc biệt là đuôi xấu, và nhớ rằng thời điểm ta muốn mạo hiểm nhất thường là ngay sau giai đoạn may mắn nhất.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 23 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (tỷ lệ thắng quan sát hội tụ chậm, dẫn công thức RoRU, rủi ro theo tỷ lệ thắng ở các mức bất định, bốn lý do phóng đại tỷ lệ thắng cùng thuế, bankroll hiệu dụng và chi phí sinh hoạt, ví dụ người chơi 40.000 ván định chuyển sang chuyên nghiệp, bankroll ảo và tính bất đối xứng), mỗi nhánh ghi công thức, quy tắc và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 23: tỷ lệ thắng thật chỉ ước lượng được, nên rủi ro phá sản đúng là trung bình trên mọi tỷ lệ thắng khả dĩ (RoRU)`"]
+  n1["`Mục 1 — Tỷ lệ thắng quan sát w hội tụ rất chậm về tỷ lệ thắng thật μ`"]
+  n0 --- n1
+  n2["`Độ lệch chuẩn mẫu s hội tụ nhanh nên dùng s làm σ#59; w hội tụ chậm vì s lớn so với w`"]
+  n1 --- n2
+  n3["`μ = 1 bet/giờ, σ = 12 bet/giờ, mẫu 100 giờ: sai số chuẩn của w là 12/√100 = 1,2 bet/giờ`"]
+  n1 --- n3
+  n4["`Bankroll 200 bet, R = exp(−2wb/σ²): 100% ở w = 0, chỉ 0,387% ở w = 2 bet/giờ`"]
+  n1 --- n4
+  n5["`w = 0,8 cho 10,84%, w = 1 cho 6,22%, nhưng phân biệt hai mức này bằng dữ liệu rất gian nan`"]
+  n4 --- n5
+  n6["`Muốn sai số chuẩn còn 0,1 bet/giờ cần 14.400 giờ, khoảng 7 năm toàn thời gian (người tổng hợp tính)`"]
+  n4 --- n6
+  n7["`Áp cho limit và cash game no-limit#59; không dùng nguyên dạng cho giải đấu vì dựa vào công thức chuẩn`"]
+  n1 --- n7
+  n8["`Mục 2–3 — RoRU: kỳ vọng rủi ro phá sản theo phân phối chuẩn của tỷ lệ thắng`"]
+  n0 --- n8
+  n9["`Tỷ lệ thắng thật có phân phối chuẩn, trung bình w, độ lệch chuẩn σ#95;w = s/√N (sai số chuẩn)`"]
+  n8 --- n9
+  n10["`⟨R⟩ = ∫ R(x)p(x)dx#59; với x ≤ 0 thì R = 1, nên tách tích phân tại 0`"]
+  n8 --- n10
+  n11["`Số hạng p(w #lt; 0) = Φ(−w/σ#95;w): bankroll lớn bao nhiêu cũng không che được rủi ro là người thua`"]
+  n10 --- n11
+  n12["`Hai hàm mũ gộp được: đặt u = 2bσ#95;w²/σ² − w, hoàn thành bình phương`"]
+  n8 --- n12
+  n13["`RoRU = R(w,b)·exp(2b²σ#95;w²/σ⁴)·Φ((w − 2bσ#95;w²/σ²)/σ#95;w) + Φ(−w/σ#95;w) (23.1)`"]
+  n8 --- n13
+  n14["`Hệ số mũ luôn ≥ 1#59; tích ba thành phần đầu là rủi ro ứng với các tỷ lệ thắng dương`"]
+  n13 --- n14
+  n15["`Khi σ#95;w → 0 và w #gt; 0, RoRU về đúng R(w, b) (người tổng hợp kiểm tra)`"]
+  n13 --- n15
+  n16["`Dùng được cả khi ít dữ liệu: phân phối khi đó rộng, và độ rộng σ#95;w là đại lượng then chốt`"]
+  n8 --- n16
+  n17["`Hạn chế: bỏ qua phân phối tiên nghiệm, phân tích Bayes sẽ kéo w rất cao xuống#59; sai lệch ở đuôi phải nên nhỏ`"]
+  n8 --- n17
+  n18["`Mục 4 — RoRU theo tỷ lệ thắng: bất định đổi chiều tác động tại một tỷ lệ thắng nhỏ`"]
+  n0 --- n18
+  n19["`Độ lệch chuẩn 10 bet, bankroll 100 và 300 bet, năm đường σ#95;w = 0#59; 0,25#59; 0,5#59; 0,75#59; 1`"]
+  n18 --- n19
+  n20["`Bên trái điểm cắt: σ#95;w lớn cho rủi ro dưới 100% dù w ≈ 0, vì mẫu có thể chỉ kém may`"]
+  n18 --- n20
+  n21["`Bankroll 100, w = 0: RoRU 85,0% khi σ#95;w = 0,25 và 66,8% khi σ#95;w = 1`"]
+  n20 --- n21
+  n22["`Bên phải điểm cắt: σ#95;w lớn làm rủi ro tăng gấp nhiều lần, vì mẫu có thể chỉ gặp may`"]
+  n18 --- n22
+  n23["`Bankroll 300, w = 1: 0,2% khi σ#95;w = 0#59; 5,8% khi σ#95;w = 0,5#59; 20,5% khi σ#95;w = 1`"]
+  n22 --- n23
+  n24["`Các đường cắt nhau quanh w ≈ 0,3 (bankroll 100) và w ≈ 0,1–0,2 (bankroll 300)`"]
+  n18 --- n24
+  n25["`RoRU điều chỉnh định lượng cho khả năng tới giờ chỉ gặp may, chống xu hướng dùng tỷ lệ thắng quá cao`"]
+  n18 --- n25
+  n26["`Mục 5 — Người chơi phóng đại tỷ lệ thắng, và con số đưa vào công thức khác con số thô`"]
+  n0 --- n26
+  n27["`Bốn lý do phóng đại tỷ lệ thắng gần như phổ quát ở người chơi poker`"]
+  n26 --- n27
+  n28["`Thành công ban đầu: người thắng lúc đầu chơi tiếp, nên nhóm còn lại chứa nhiều người kém chỉ gặp may`"]
+  n27 --- n28
+  n29["`Cái tôi: tin mình mạnh hơn thực tế, đổ kết quả xấu cho xui`"]
+  n27 --- n29
+  n30["`Thông tin sai: diễn đàn, báo chí thổi phồng tỷ lệ thắng#59; sách dựa vào câu sáo #quot;1 big bet mỗi giờ#quot;`"]
+  n27 --- n30
+  n31["`Điều kiện trò chơi thay đổi: trò chơi cạn, lowball nhường chỗ hold'em#59; người chơi cũng tiến bộ`"]
+  n27 --- n31
+  n32["`Thuế ở Mỹ có thể giảm tỷ lệ thắng 30% trở lên`"]
+  n26 --- n32
+  n33["`Bankroll hiệu dụng là số tiền sẵn sàng thua ở một mức cược cụ thể`"]
+  n26 --- n33
+  n34["`$12.000 ở mức $20-40 là 300 bet, nhưng sẽ bỏ sau khi thua $6.000 thì chỉ có 150 bet`"]
+  n33 --- n34
+  n35["`Chi phí sinh hoạt: tự trả lương theo đơn vị thời gian và giảm tỷ lệ thắng đúng bằng khoản đó`"]
+  n26 --- n35
+  n36["`Tỷ lệ thắng sau chi tiêu gần 0 hay âm thì rủi ro phá sản tăng vọt, thường gần 100%`"]
+  n35 --- n36
+  n37["`Tỷ lệ thắng đúng là số tiền đưa lại vào bankroll, không phải số tiền thắng được`"]
+  n26 --- n37
+  n38["`Mục 5 — Ví dụ người chơi định chuyển sang chuyên nghiệp`"]
+  n0 --- n38
+  n39["`40.000 ván, 2,5 bet/100 ván, độ lệch chuẩn 18 bet/100 ván, bankroll 300 bet: σ#95;w = 18/√400 = 0,9`"]
+  n38 --- n39
+  n40["`RoR đơn giản exp(−1.500/324) = 0,98%#59; RoRU = 3,67%`"]
+  n38 --- n40
+  n41["`Chỉ chênh 2,69 điểm phần trăm vì w cách 0 gần ba sai số chuẩn (w/σ#95;w = 2,78)`"]
+  n40 --- n41
+  n42["`Rút 1 bet/100 ván để sống: tỷ lệ thắng điều chỉnh còn 1,5, w/σ#95;w = 1,67`"]
+  n38 --- n42
+  n43["`RoR đơn giản 6,22%, RoRU 17,25%#59; xác suất tỷ lệ thắng thật #lt; 0 khoảng 4,8%`"]
+  n42 --- n43
+  n44["`Rút tiền không chỉ tăng rủi ro mà còn tăng mạnh khả năng là người thua sau chi phí`"]
+  n38 --- n44
+  n45["`Mục 6 — Bankroll ảo, tính bất đối xứng và điều kiện trò chơi không tĩnh`"]
+  n0 --- n45
+  n46["`Bankroll ảo: tiền chảy vào từ lương, đầu tư#59; người lương $300.000/năm có bankroll ảo lớn hơn nhiều`"]
+  n45 --- n46
+  n47["`Người không việc và ít kỹ năng nên giữ bankroll cẩn thận hơn vì nó khó thay thế`"]
+  n45 --- n47
+  n48["`Phóng đại nhẹ tỷ lệ thắng làm đánh giá thấp rủi ro rất nhiều#59; đánh giá thấp nhẹ chỉ phóng đại rủi ro một chút`"]
+  n45 --- n48
+  n49["`Bankroll 300, σ = 18: tin 2,5 nên tính 0,98%#59; thật 2,0 là 2,46%, thật 3,0 là 0,39% (người tổng hợp tính)`"]
+  n48 --- n49
+  n50["`Poker truyền hình, poker online làm số người chơi bùng nổ, chưa chắc lâu dài#59; chuỗi thắng hay đi cùng điều kiện tốt tạm thời`"]
+  n45 --- n50
+  n51["`Nên coi rủi ro thật hơi cao hơn công thức, vì điều kiện xấu đi tác động mạnh hơn điều kiện tốt lên`"]
+  n50 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Rủi ro phá sản là hàm lồi của tỷ lệ thắng, nên trung bình trên phân phối lớn hơn giá trị tại w (Jensen)`"]
+  n52 --- n53
+  n54["`Phần rủi ro Φ(−w/σ#95;w) chỉ giảm bằng thêm dữ liệu hoặc chơi tốt hơn, không bằng thêm tiền`"]
+  n52 --- n54
+  n55["`Trước khi chơi chuyên nghiệp, tỷ lệ thắng sau chi phí phải cách 0 nhiều sai số chuẩn`"]
+  n52 --- n55
+  class n0 root
+  class n1,n8,n18,n26,n38,n45,n52 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n53,n54,n55 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 23 "Adding Uncertainty: Risk of Ruin with Uncertain Win Rates", trang 307–317 (bắt đầu ở nửa dưới trang 307, sau phần "Key Concepts" của Chương 22).
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 22 ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md)) dựng mô hình rủi ro phá sản (risk of ruin) với một tỷ lệ thắng (win rate) đã biết chắc, và cho công thức của phân phối chuẩn R(b) = exp(−2μb/σ²). Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) đã dạy cách ước lượng tham số, sai số chuẩn, khoảng tin cậy và cảnh báo về việc chỉ áp phân phối chuẩn lên kết quả quan sát mà bỏ qua phân phối tiên nghiệm (cách nhìn Bayes).
+
+Chương 23 ghép hai thứ đó: thay một tỷ lệ thắng duy nhất bằng một phân phối chuẩn của các tỷ lệ thắng khả dĩ quanh giá trị quan sát, rồi lấy kỳ vọng của rủi ro phá sản theo phân phối đó, được công thức "rủi ro phá sản dưới bất định" (RoRU).
+
+Phần cuối chương bàn các lý do thực tế khiến người chơi phóng đại tỷ lệ thắng (thuế, chi phí sinh hoạt, mức thua chịu được), chuẩn bị cho Chương 24 ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)) về việc xuống mức cược thấp hơn và tiêu chuẩn Kelly, và Chương 25 ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)) về danh mục trò chơi và tài trợ.
+
+## Lưu ý
+
+- **Phạm vi trang:** Chương 23 bắt đầu ở nửa dưới trang 307 (nửa trên là phần cuối "Key Concepts" của Chương 22, đã tổng hợp trong file Chương 22) và kết thúc ở trang 317. **Trang 312 trong PDF này để trắng**: sách viết ở cuối trang 311 "Here's a table which looks at some risk of ruin calculations, using the normal distribution RoR and also this RoRU" nhưng bảng không có trong bản PDF (có lẽ bị mất khi dựng lại bằng LibreOffice). Bản tổng hợp không bịa bảng; thay vào đó, người tổng hợp tự tính một bảng RoRU theo công thức 23.1 với đúng thông số của hai hình 23.1 và 23.2 (ghi rõ là số của người tổng hợp).
+- **Ví dụ 100 giờ ở trang 307 có số sai:** sách nói với μ = 1 bet/giờ, σ = 12 bet/giờ và mẫu 100 giờ, kết quả "68% khả năng nằm giữa 0 và 200 bet" và "32% thời gian kết quả lệch quá 1 bet/giờ khỏi trung bình". Sai số chuẩn của tỷ lệ thắng 100 giờ là 12/√100 = 1,2 bet/giờ (tổng thắng có độ lệch chuẩn 120 bet), nên khoảng 68% là 100 ± 120 bet, tức từ −20 tới 220 bet (−0,2 tới 2,2 bet/giờ). Xác suất lệch quá 1 bet/giờ là 2Φ(−1/1,2) ≈ 40,5%, không phải 32%. Các số của sách chỉ đúng nếu σ = 10 bet/giờ. Kết luận định tính (tỷ lệ thắng quan sát dao động rất rộng) vẫn đúng, và còn mạnh hơn.
+- **Đơn vị lẫn lộn:** trang 307–308 viết lúc "bets/hr", lúc "BB/hr" ("at 2 BB/hr", "0.8 BB/hr and 1 BB/hr") cho cùng một đại lượng; các phép tính đều dùng bet/giờ. Bản tổng hợp dùng "bet/giờ".
+- **Thiếu ký hiệu Φ ở công thức 23.1 (trang 311):** sách in số hạng cuối là "+(−w/σ_w)"; đúng phải là +Φ(−w/σ_w), xác suất tỷ lệ thắng âm, như chính lời giải thích ngay sau ("số hạng cuối là phân phối chuẩn tích luỹ cho các tỷ lệ thắng âm, nhân với rủi ro phá sản bằng 1") và như dòng trước đó "+ p(w < 0)". Người tổng hợp kiểm tra bằng tích phân số trực tiếp: công thức có Φ cho đúng 3,67% và 17,25% của ví dụ ở trang 315–316; bỏ Φ thì kết quả vô nghĩa (số hạng âm).
+- **Ký hiệu dấu trong phép dẫn (trang 309–311):** sau khi gộp số mũ, sách viết tử số "−x² − 2x(2bσ_w²/σ² − w) + w²"; đúng phải là −[x² + 2x(2bσ_w²/σ² − w) + w²] (dấu trừ áp cho cả ngoặc). Sách viết thừa số còn lại là "exp((−w² − u²)/(2σ_w²))" và ở dòng khai triển viết "−w² − (4b²σ_w⁴/σ⁴ − 4bwσ_w²/σ² + w²)"; đúng phải là exp(−(w² − u²)/(2σ_w²)) = exp((u² − w²)/(2σ_w²)). Kết quả cuối 2b²σ_w²/σ⁴ − 2bw/σ² của sách là đúng (khớp với (u² − w²)/(2σ_w²)), nên đây chỉ là lỗi viết dấu trung gian. Các dòng ở trang 310 bị vỡ ký hiệu ("¿") trong cả lớp chữ lẫn ảnh; bản tổng hợp chép lại phép dẫn đầy đủ.
+- **Phương trình 22.3 bị hỏng ký hiệu:** như ở Chương 22, bản PDF in "¿v(x)≥∫…" thay cho ⟨v(x)⟩ = ∫ v(x)p(x)dx. Định nghĩa Φ(z) ở trang 311 cũng thiếu "dx" và lời văn gọi lẫn Φ(t), "bên trái x" thay vì Φ(z), "bên trái z"; lời văn viết "integrands of −∞ and ∞" thay vì "cận tích phân" (limits of integration).
+- **Chú thích hình in sai:** Hình 23.1 ghi "bankroll -100, std. dev. -10 bets" và Hình 23.2 ghi "bankroll + 300 bets"; đúng là "bankroll = 100" và "= 300", "std. dev. = 10 bets". Trục hoành của Hình 23.1 bị dàn lại sai trong PDF: các nhãn 0 … 2 nằm dưới khung hình và dồn về bên trái, không khớp với lưới; người tổng hợp đọc hình theo các đường lưới (mỗi ô 0,2, từ 0 tới 2), và kiểm tra lại bằng công thức 23.1 thấy khớp. Mọi số đọc từ hai hình là ước lượng.
+- **Lỗi chính tả và OCR:** "wor дd" ("world"), "Tire first" ("The first"), "100°/o" ("100%"), "overestimate then win rates" ("their"), "outer players" ("other"), "hi terms" ("in terms"), "fiving expenses" ("living"), "The same tiling" ("thing"), "40.000 hands" (dấu chấm phân cách hàng nghìn kiểu châu Âu, tức 40 nghìn ván), "of200 bets" (thiếu khoảng trắng).
+- **Các con số ví dụ chính đã được kiểm tra:** e^(−800/144) = 0,387%; e^(−320/144) = 10,84%; e^(−400/144) = 6,22%; với 40.000 ván, σ_w = 18/√400 = 0,9 bet/100 ván, RoR đơn giản e^(−2·2,5·300/324) = 0,98%, RoRU = 3,67%, chênh 2,69 điểm phần trăm; với 1,5 bet/100 ván, RoR đơn giản 6,22%, RoRU = 17,25%. Tất cả khớp sách.
+- **Quy ước thuật ngữ:** "win rate" dịch là "tỷ lệ thắng" (số tiền thắng trung bình mỗi giờ hoặc mỗi 100 ván, không phải tỷ lệ phần trăm ván thắng); "risk of ruin under uncertainty (RoRU)" là "rủi ro phá sản dưới bất định"; "standard error" là "sai số chuẩn"; "virtual bankroll" là "bankroll ảo"; "bet" là một đơn vị cược lớn của limit (ví dụ $40 ở mức $20-40).

@@ -1,19 +1,20 @@
 # Chương 24 — Làm bankroll tăng trưởng: tiêu chuẩn Kelly và chọn trò chơi hợp lý (Growing Bankrolls: The Kelly Criterion and Rational Game Selection)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 24 "Growing Bankrolls: The Kelly Criterion and Rational Game Selection", trang 318–323.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 22 ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md)) và Chương 23 ([C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)) đo rủi ro phá sản (risk of ruin) với giả định chơi mãi một trò chơi ở một mức cược cố định; Chương 23 đã nhiều lần hứa bàn việc "xuống mức cược thấp hơn" khi bankroll giảm. Chương 24 bỏ giả định mức cược cố định: thay vì tối đa hoá kỳ vọng tính bằng đô la, người chơi tối đa hoá hàm hữu dụng logarit U(x) = ln x — tiêu chuẩn Kelly — để bankroll tăng nhanh nhất; khái niệm hữu dụng (utility) đã được nhắc ở Phần I ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)). Chương dùng lại trò xúc xắc của Chương 22 và các khái niệm phương sai, độ lệch chuẩn của Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)), rồi áp vào "quyết định ngoài ván bài" (metagame): chơi bàn nào, mức cược nào. Chương 25 ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)) mở rộng sang chơi nhiều trò chơi cùng lúc như một danh mục và đánh giá thoả thuận tài trợ cũng bằng hữu dụng Kelly; Phần V ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) quay lại giải đấu, nơi công thức xấp xỉ của chương này không dùng được.
-**Ý chính:** **Khi mục tiêu là làm bankroll tăng nhanh nhất, người chơi nên tối đa hoá kỳ vọng của ln(bankroll) thay vì kỳ vọng của bankroll; áp vào việc chọn giữa hai trò chơi có tỷ lệ thắng μ₁ > μ₂ và độ lệch chuẩn σ₁ > σ₂, điều này cho một ngưỡng bankroll c = [μ₁ + μ₂ + (σ₁² − σ₂²)/(μ₁ − μ₂)]/2 ≈ (σ₁² − σ₂²)/(2(μ₁ − μ₂)): trên ngưỡng chơi trò lớn, dưới ngưỡng chơi trò nhỏ.** Chương mở bằng khái niệm hữu dụng: hàm U(x) tăng, thường lõm (đồng tiền thêm vào có giá trị ít hơn khi đã giàu), coi như liên tục; giá trị chắc chắn tương đương (certainty equivalent) của một vụ cược là số tiền X có U(X) bằng hữu dụng kỳ vọng của vụ cược. Tối đa hoá kỳ vọng đô la đòi đặt cả bankroll vào mọi vụ cược có lợi, nhưng thua là hết vốn để tăng tiếp; hàm ln x tối đa hoá tốc độ tăng trưởng mỗi lần chơi. Đặt cược theo Kelly tối đa hoá trung vị bankroll sau một số lần chơi, tối thiểu hoá thời gian trung bình để đạt một mức bankroll, và cho phân phối bankroll log-chuẩn. Ví dụ 24.1: người cá cược thể thao thắng 51,5%, trả ngang (even money), bankroll $5.000, đặt cược tối ưu $150, tức 3% bankroll — bằng đúng lợi thế. Cược Kelly có rủi ro phá sản bằng 0 nếu chia nhỏ bankroll tuỳ ý, nhưng poker không có đủ mọi mức cược; tính logarit khiến gấp đôi bankroll và mất một nửa bankroll có giá trị tuyệt đối bằng nhau; người sẵn sàng lên xuống mức cược theo bankroll có thể chơi mức cao với bankroll nhỏ hơn nhiều. Tác giả nhận xét người chơi thường quá ngại rủi ro (muốn rủi ro phá sản chỉ 5%, trong khi doanh nhân sẽ mừng với 5% thất bại) và mất nhiều lợi nhuận vì chơi mức thấp quá lâu. Chương cũng đảo bài toán: với cược cố định, tìm bankroll tối ưu; với trò xúc xắc thắng/thua 1 đơn vị (2/3 và 1/3), bankroll tối ưu là 3. Khai triển Taylor ln(1 + x/B) ≈ x/B − x²/(2B²) cho hữu dụng Kelly của một giờ chơi U ≈ μ/B − (μ² + σ²)/(2B²), từ đó ra công thức ngưỡng (24.1). Ví dụ 24.2 so $20-40 hold'em ($35/giờ, độ lệch chuẩn $400/giờ) với $40-80 ($60/giờ, $800/giờ): sách cho ngưỡng $19.295, nhưng người tổng hợp tính lại thấy đó là giá trị của 2c; ngưỡng đúng là c ≈ $9.648. Công thức không dùng được khi có kết quả cỡ bankroll, như giải đấu đông người.
+## Ý chính
 
-> **Lưu ý:**
-> - **Ví dụ 24.2 tính sai ngưỡng bankroll gấp đôi (trang 323):** sách viết 2c = 60 + 35 + (800² − 400²)/(60 − 35) rồi kết luận "c = $19,295". Tính: (640.000 − 160.000)/25 = 19.200, cộng 95 được **2c = 19.295**, nên **c = $9.647,50**. Công thức xấp xỉ 24.1 cho c ≈ 480.000/(2 × 25) = $9.600, khớp với $9.647,50 chứ không khớp $19.295. Kiểm tra trực tiếp: tại B = $9.647,50, hữu dụng Kelly mỗi giờ của hai trò chơi bằng nhau (cùng 0,00276); tại B = $19.295, trò $40-80 cho 0,00225 còn $20-40 chỉ cho 0,00160, tức trò lớn đã tốt hơn rõ. Vậy theo đúng mô hình của sách, người có bankroll khoảng $9.650 trở lên nên chơi $40-80, không phải $19.295.
-> - **Khai triển Taylor của ln(1 + t) in sai (trang 321–322):** sách viết ln(1 + t) = t − t²/2! + t³/3! − t⁴/4! + …, và do đó ln(1 + x/B) = x/B − x²/(2!B²) + x³/(3!B³) − …; rồi lập luận các số hạng bậc cao có "(n!)(Bⁿ) ở mẫu nên tiến về 0 cực nhanh". Khai triển đúng là ln(1 + t) = t − t²/2 + t³/3 − t⁴/4 + … (mẫu là n, không phải n!; các giai thừa thuộc khai triển của eᵗ). Vì 2! = 2, hai số hạng đầu trùng nhau nên kết quả U ≈ x/B − x²/(2B²) và công thức 24.1 không bị ảnh hưởng; nhưng lý do bỏ các số hạng bậc cao là xⁿ/(nBⁿ) nhỏ khi x nhỏ so với B, không phải vì giai thừa. Sách cũng nói "bỏ số hạng thứ ba trở đi" — đúng, giữ hai số hạng đầu.
-> - **Thiếu dấu bằng (trang 322):** dòng "⟨(x² − 2xμ + μ²)⟩ σ²" thiếu "=": đúng là ⟨x² − 2xμ + μ²⟩ = σ². Dòng "⟨(x − μ)²⟩ = σ2" là σ².
-> - **Các tính chất của cược Kelly là tính chất tiệm cận (nhận xét của người tổng hợp):** "tối đa hoá trung vị bankroll sau một số lần chơi cho trước" và "tối thiểu hoá thời gian trung bình để đạt một mức bankroll" đúng theo nghĩa tiệm cận (khi số lần chơi lớn, hoặc mục tiêu xa), theo hiểu biết của người tổng hợp; với số lần chơi hữu hạn nhỏ, chiến lược khác có thể có trung vị cao hơn đôi chút. "Phân phối bankroll log-chuẩn" cũng là xấp xỉ khi số lần chơi lớn.
-> - **"Giá trị chắc chắn tương đương" và ký hiệu (trang 318):** sách dùng chữ B cho vụ cược và b cho các kết quả của nó, rồi ở phần sau dùng B cho bankroll. Bản tổng hợp gọi vụ cược là "vụ cược B" ở mục 1 và dùng B cho bankroll từ mục 4 trở đi.
-> - **Ví dụ đồng xu triệu đô (trang 318):** sách nói "50% thời gian ta nhận hữu dụng của một triệu, 50% hữu dụng của 0". Với hàm ln x của Kelly, hữu dụng của bankroll 0 là −∞, nên người dùng Kelly thuần tuý không bao giờ chọn tung đồng xu nếu đó là toàn bộ tài sản; ví dụ này minh hoạ hàm hữu dụng lõm nói chung, chưa phải hàm Kelly (nhận xét của người tổng hợp).
-> - **Lỗi chính tả và OCR:** "the lust bet" ("last"), "risk of rum" ("ruin"), "hi general" ("in general"), "increase out-Kelly utility" ("our Kelly utility"), "which game to play ill a quantitative manner" ("in"), "quantify'" ("quantify"), "< In (B + x) >" ("ln").
-> - **Quy ước thuật ngữ:** "utility" dịch là "hữu dụng" (độ thoả dụng); "Kelly criterion" là "tiêu chuẩn Kelly"; "Kelly betting" là "cược theo Kelly"; "certainty equivalent" là "giá trị chắc chắn tương đương"; "metagame decisions" là "quyết định ngoài ván bài" (chọn trò chơi, chọn mức cược, có chơi hay không); "cutoff bankroll" là "ngưỡng bankroll"; "even money" là "trả ngang" (thắng bao nhiêu nhận bấy nhiêu); "juice" là phí của nhà cái. "$20-40" là mức cược limit: small bet $20, big bet $40.
+**Khi mục tiêu là làm bankroll tăng nhanh nhất, người chơi nên tối đa hoá kỳ vọng của ln(bankroll) thay vì kỳ vọng của bankroll; áp vào việc chọn giữa hai trò chơi có tỷ lệ thắng μ₁ > μ₂ và độ lệch chuẩn σ₁ > σ₂, điều này cho một ngưỡng bankroll c = [μ₁ + μ₂ + (σ₁² − σ₂²)/(μ₁ − μ₂)]/2 ≈ (σ₁² − σ₂²)/(2(μ₁ − μ₂)): trên ngưỡng chơi trò lớn, dưới ngưỡng chơi trò nhỏ.**
+
+Chương mở bằng khái niệm hữu dụng: hàm U(x) tăng, thường lõm (đồng tiền thêm vào có giá trị ít hơn khi đã giàu), coi như liên tục; giá trị chắc chắn tương đương (certainty equivalent) của một vụ cược là số tiền X có U(X) bằng hữu dụng kỳ vọng của vụ cược.
+
+Tối đa hoá kỳ vọng đô la đòi đặt cả bankroll vào mọi vụ cược có lợi, nhưng thua là hết vốn để tăng tiếp; hàm ln x tối đa hoá tốc độ tăng trưởng mỗi lần chơi. Đặt cược theo Kelly tối đa hoá trung vị bankroll sau một số lần chơi, tối thiểu hoá thời gian trung bình để đạt một mức bankroll, và cho phân phối bankroll log-chuẩn.
+
+Ví dụ 24.1: người cá cược thể thao thắng 51,5%, trả ngang (even money), bankroll $5.000, đặt cược tối ưu $150, tức 3% bankroll — bằng đúng lợi thế.
+
+Cược Kelly có rủi ro phá sản bằng 0 nếu chia nhỏ bankroll tuỳ ý, nhưng poker không có đủ mọi mức cược; tính logarit khiến gấp đôi bankroll và mất một nửa bankroll có giá trị tuyệt đối bằng nhau; người sẵn sàng lên xuống mức cược theo bankroll có thể chơi mức cao với bankroll nhỏ hơn nhiều. Tác giả nhận xét người chơi thường quá ngại rủi ro (muốn rủi ro phá sản chỉ 5%, trong khi doanh nhân sẽ mừng với 5% thất bại) và mất nhiều lợi nhuận vì chơi mức thấp quá lâu.
+
+Chương cũng đảo bài toán: với cược cố định, tìm bankroll tối ưu; với trò xúc xắc thắng/thua 1 đơn vị (2/3 và 1/3), bankroll tối ưu là 3. Khai triển Taylor ln(1 + x/B) ≈ x/B − x²/(2B²) cho hữu dụng Kelly của một giờ chơi U ≈ μ/B − (μ² + σ²)/(2B²), từ đó ra công thức ngưỡng (24.1).
+
+Ví dụ 24.2 so $20-40 hold'em ($35/giờ, độ lệch chuẩn $400/giờ) với $40-80 ($60/giờ, $800/giờ): sách cho ngưỡng $19.295, nhưng người tổng hợp tính lại thấy đó là giá trị của 2c; ngưỡng đúng là c ≈ $9.648. Công thức không dùng được khi có kết quả cỡ bankroll, như giải đấu đông người.
 
 ## Sơ đồ
 
@@ -286,7 +287,9 @@ Về điểm cuối, tác giả cho rằng người chơi điển hình thườn
 
 ### 5. Chọn giữa hai trò chơi và bankroll tối ưu (trang 320–321)
 
-Cược Kelly cho một khung đánh giá dựa trên rủi ro về hữu dụng của việc làm bankroll tăng; có thể áp khung này vào việc chọn giữa các trò chơi ở các mức cược khác nhau. Ta có số lựa chọn hữu hạn: sòng bài địa phương, dù là sòng thật hay phòng poker online, chỉ có một số mức cược và số bàn nhất định; hoặc không đủ người lấp các bàn trống ở mức ta muốn. Vì vậy ta thường phải chọn giữa hai trò chơi. Đôi khi quyết định hoàn toàn rõ: nếu một trò vừa có kỳ vọng cao hơn vừa có phương sai thấp hơn, chọn trò đó. Nhưng thường không như vậy, và ta phải chọn giữa một trò lợi nhuận cao, phương sai cao (tính bằng đô la tuyệt đối) và một trò lợi nhuận thấp, phương sai thấp.
+Cược Kelly cho một khung đánh giá dựa trên rủi ro về hữu dụng của việc làm bankroll tăng; có thể áp khung này vào việc chọn giữa các trò chơi ở các mức cược khác nhau. Ta có số lựa chọn hữu hạn: sòng bài địa phương, dù là sòng thật hay phòng poker online, chỉ có một số mức cược và số bàn nhất định; hoặc không đủ người lấp các bàn trống ở mức ta muốn. Vì vậy ta thường phải chọn giữa hai trò chơi.
+
+Đôi khi quyết định hoàn toàn rõ: nếu một trò vừa có kỳ vọng cao hơn vừa có phương sai thấp hơn, chọn trò đó. Nhưng thường không như vậy, và ta phải chọn giữa một trò lợi nhuận cao, phương sai cao (tính bằng đô la tuyệt đối) và một trò lợi nhuận thấp, phương sai thấp.
 
 Có thể dùng hữu dụng Kelly làm hướng dẫn, với giả định ta chưa chắc chơi trò nào và sẵn sàng lên xuống giữa hai trò. Khi đó ta xem mỗi trò tác động tới hàm hữu dụng ra sao và quyết định chơi trò nào ở mỗi mức bankroll.
 
@@ -328,7 +331,7 @@ $$U = \langle\ln(B + x)\rangle - \ln B = \langle\ln B(1 + x/B)\rangle - \ln B = 
 
 ⟨ln B⟩ là hằng số bằng ln B, nên U = ⟨ln(1 + x/B)⟩.
 
-Dùng khai triển Taylor của ln(1 + t) (sách in nhầm mẫu là giai thừa, xem Lưu ý):
+Dùng khai triển Taylor của ln(1 + t) (sách in nhầm mẫu là giai thừa, xem mục Lưu ý cuối chương):
 
 $$\ln(1 + t) = t - \frac{t^2}{2} + \frac{t^3}{3} - \frac{t^4}{4} + \dots$$
 
@@ -541,3 +544,168 @@ Chương nối poker với một công cụ trung tâm của tài chính và c�
 - **Người chơi poker:** ước lượng μ và σ mỗi giờ (hay mỗi 100 ván) ở hai mức cược đang cân nhắc, tính c = [μ₁ + μ₂ + (σ₁² − σ₂²)/(μ₁ − μ₂)]/2; dùng tỷ lệ thắng thận trọng (Chương 23) và cân nhắc nhân c lên 2 (nửa Kelly) cho an toàn. Đặt quy tắc xuống mức cược khi bankroll dưới c và tuân thủ.
 - **Người làm tài chính và đầu tư:** Kelly cho tỷ trọng tối ưu của một tài sản rủi ro là khoảng μ/σ² (lợi nhuận vượt trội chia phương sai); ví dụ lợi nhuận vượt trội 5%/năm, độ biến động 20%/năm cho tỷ trọng 0,05/0,04 = 125%, nghĩa là Kelly đầy đủ đòi đòn bẩy — một lý do để dùng Kelly phân số. Bài học "cược gấp đôi Kelly cho tăng trưởng bằng 0" giải thích vì sao đòn bẩy quá mức phá huỷ lợi nhuận dài hạn dù mỗi khoản đầu tư đều có kỳ vọng dương. Cách so sánh hai trò chơi tương ứng với so sánh hai chiến lược theo tốc độ tăng trưởng logarit μ − σ²/2 thay vì theo lợi nhuận trung bình.
 - **Người ra quyết định nói chung:** khi một quyết định lặp đi lặp lại và kết quả cộng dồn theo kiểu nhân (vốn kinh doanh, danh mục), hãy so các lựa chọn bằng tăng trưởng logarit; quy mô cam kết nên tăng giảm theo vốn hiện có.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 24 trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (hữu dụng và giá trị chắc chắn tương đương, tiêu chuẩn Kelly và Ví dụ 24.1, bốn nhận xét về cược Kelly, bankroll tối ưu và trò xúc xắc, dẫn công thức ngưỡng 24.1, Ví dụ 24.2), mỗi nhánh ghi định nghĩa, công thức, nghiệm và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 24: tối đa hoá kỳ vọng ln(bankroll) cho ngưỡng bankroll c để chọn giữa trò lớn và trò nhỏ`"]
+  n1["`Mục 1 — Hữu dụng và giá trị chắc chắn tương đương`"]
+  n0 --- n1
+  n2["`Hữu dụng là mức ưa thích tiền đã điều chỉnh: hữu dụng của 1 triệu đô không gấp đôi của nửa triệu`"]
+  n1 --- n2
+  n3["`Đa số chọn $500.000 chắc chắn thay vì tung đồng xu công bằng lấy $1.000.000`"]
+  n1 --- n3
+  n4["`Hàm U(x) tăng với mọi x #gt; 0, thường lõm, coi như liên tục`"]
+  n1 --- n4
+  n5["`Lõm: một đô la nhặt được đáng với người nghèo hơn với triệu phú`"]
+  n4 --- n5
+  n6["`Giá trị chắc chắn tương đương: số tiền X có U(X) = ⟨U(b)⟩ với b là các kết quả của vụ cược`"]
+  n1 --- n6
+  n7["`Khoản nhỏ: X gần ⟨B⟩ vì hữu dụng gần tuyến tính`"]
+  n6 --- n7
+  n8["`Hàm ln, tài sản $100.000, cược ±$50.000: X = √(150.000 × 50.000) ≈ $86.603`"]
+  n6 --- n8
+  n9["`Mục 2–3 — Tiêu chuẩn Kelly và Ví dụ 24.1`"]
+  n0 --- n9
+  n10["`Tối đa hoá kỳ vọng đô la đòi đặt cả bankroll vào mọi vụ cược +EV, thua là mất nền để tăng`"]
+  n9 --- n10
+  n11["`Kelly: tối đa hoá ⟨U⟩ với U(x) = ln x, tức tốc độ tăng trưởng mỗi lần chơi`"]
+  n9 --- n11
+  n12["`ln Bₙ = ln B₀ + Σ ln rᵢ nên tăng trưởng dài hạn là ⟨ln r⟩`"]
+  n11 --- n12
+  n13["`Cược Kelly tối đa hoá trung vị bankroll, tối thiểu hoá thời gian trung bình đạt một mức bankroll`"]
+  n9 --- n13
+  n14["`Bankroll theo Kelly có phân phối log-chuẩn (xấp xỉ khi số lần chơi lớn)`"]
+  n9 --- n14
+  n15["`Ví dụ 24.1: thắng 51,5% trả ngang, bankroll $5.000, lợi thế 3%`"]
+  n9 --- n15
+  n16["`0,515/(5.000 + x) − 0,485/(5.000 − x) = 0 cho x = $150 = 3% bankroll`"]
+  n15 --- n16
+  n17["`Vụ cược trả ngang: tỷ lệ cược x/B = 2p − 1, đúng bằng lợi thế`"]
+  n15 --- n17
+  n18["`Thắng thì cược $154,50, thua thì cược $145,50`"]
+  n15 --- n18
+  n19["`Cược $150 tăng 0,000450 mỗi vụ, cược gấp đôi Kelly ($300) tăng trưởng gần 0`"]
+  n15 --- n19
+  n20["`Ý then chốt: thay kỳ vọng đô la bằng hữu dụng ln x cho quyết định ngoài ván bài`"]
+  n9 --- n20
+  n21["`Mục 4 — Bốn nhận xét về cược Kelly`"]
+  n0 --- n21
+  n22["`Rủi ro phá sản bằng 0 nếu chia nhỏ bankroll tuỳ ý: thua giảm cược, thắng tăng cược ngay`"]
+  n21 --- n22
+  n23["`Không áp thẳng cho poker: sòng bài không mở mức $1,02-$2,04 hay $12,46-$24,92`"]
+  n21 --- n23
+  n24["`Gấp đôi bankroll được +ln 2, mất một nửa bị −ln 2: hai việc có giá trị tuyệt đối bằng nhau`"]
+  n21 --- n24
+  n25["`Người sẵn sàng lên xuống mức cược theo bankroll chơi mức cao với bankroll ngắn hơn nhiều`"]
+  n21 --- n25
+  n26["`Người chơi thường quá ngại rủi ro`"]
+  n21 --- n26
+  n27["`Muốn chỉ 5% khả năng mất vốn, trong khi doanh nhân mừng rỡ với 5% khả năng thất bại`"]
+  n26 --- n27
+  n28["`Ở mức thấp quá lâu so với hoàn cảnh cho phép là bỏ lỡ nhiều lợi nhuận`"]
+  n26 --- n28
+  n29["`Mục 5 — Chọn giữa hai trò chơi và bankroll tối ưu`"]
+  n0 --- n29
+  n30["`Sòng bài có ít mức cược nên thường phải chọn giữa trò lớn lãi cao phương sai cao và trò nhỏ`"]
+  n29 --- n30
+  n31["`Trò vừa kỳ vọng cao hơn vừa phương sai thấp hơn thì chọn ngay, khó là khi không như vậy`"]
+  n29 --- n31
+  n32["`Đảo bài toán Kelly: cược cố định, tìm bankroll làm hữu dụng Kelly tăng nhiều nhất`"]
+  n29 --- n32
+  n33["`Hữu dụng Kelly của việc chơi: ⟨ln(B + x)⟩ − ln B`"]
+  n29 --- n33
+  n34["`Trò xúc xắc ±1 (2/3, 1/3): U(B) = (1/3)ln(B − 1) + (2/3)ln(B + 1) − ln B`"]
+  n29 --- n34
+  n35["`U′(B) = 0 rút gọn thành 3 − B = 0, bankroll tối ưu B = 3`"]
+  n34 --- n35
+  n36["`U(3) ≈ 0,0566, còn U(1,5) ≈ −0,0257: bankroll quá nhỏ thì chơi làm giảm hữu dụng`"]
+  n34 --- n36
+  n37["`Khớp Kelly: lợi thế 1/3 nên cược 1 đơn vị khi bankroll là 3`"]
+  n34 --- n37
+  n38["`Mục 6 — Dẫn công thức ngưỡng bankroll (24.1)`"]
+  n0 --- n38
+  n39["`Giả định: biết μ₁ #gt; μ₂ và σ₁, σ₂, tỷ lệ thắng dương, phương sai hữu hạn`"]
+  n38 --- n39
+  n40["`U = ⟨ln(1 + x/B)⟩, Taylor ln(1 + t) = t − t²/2 + t³/3 − …, bỏ từ số hạng thứ ba khi B ≫ x`"]
+  n38 --- n40
+  n41["`⟨x⟩ = μ và ⟨x²⟩ = μ² + σ² nên U ≈ μ/B − (μ² + σ²)/(2B²)`"]
+  n38 --- n41
+  n42["`U lớn nhất khi B = (μ² + σ²)/μ, dương khi B #gt; (μ² + σ²)/(2μ)`"]
+  n41 --- n42
+  n43["`Ngưỡng c: hữu dụng hai trò bằng nhau, trên c chơi trò lớn, dưới c chơi trò nhỏ`"]
+  n38 --- n43
+  n44["`2c = μ₁ + μ₂ + (σ₁² − σ₂²)/(μ₁ − μ₂)`"]
+  n43 --- n44
+  n45["`μ rất nhỏ so với phương sai: c ≈ (σ₁² − σ₂²)/(2(μ₁ − μ₂))`"]
+  n43 --- n45
+  n46["`Phạt phương sai giảm theo 1/B², lợi ích kỳ vọng giảm theo 1/B, nên bankroll lớn thì trò kỳ vọng cao thắng`"]
+  n38 --- n46
+  n47["`Sách in mẫu Taylor là n! thay vì n, kết quả hai số hạng đầu không đổi`"]
+  n38 --- n47
+  n48["`Mục 7 — Ví dụ 24.2: $20-40 hay $40-80 hold'em`"]
+  n0 --- n48
+  n49["`$20-40: μ = $35/giờ, σ = $400/giờ#59; $40-80: μ = $60/giờ, σ = $800/giờ`"]
+  n48 --- n49
+  n50["`2c = 95 + (640.000 − 160.000)/25 = 19.295`"]
+  n48 --- n50
+  n51["`Sách ghi c = $19.295 là sai, đó là 2c`"]
+  n50 --- n51
+  n52["`Đúng: c = $9.647,50, xấp xỉ 24.1 cho $9.600`"]
+  n50 --- n52
+  n53["`Tại B = $9.647,50 hai trò cùng cho 0,276% mỗi giờ#59; tại $5.000 trò $40-80 cho −0,087%`"]
+  n48 --- n53
+  n54["`$40-80 chỉ làm tăng hữu dụng khi B #gt; ≈ $5.363, lớn nhất ở B ≈ $10.727`"]
+  n48 --- n54
+  n55["`Công thức sai khi có kết quả cỡ bankroll, như giải đấu đông người có giải nhất trên 500 buy-in`"]
+  n48 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Quyết định thực tế không thể chỉ dựa vào kỳ vọng, phải đánh giá kết quả theo hữu dụng`"]
+  n56 --- n57
+  n58["`Chọn mức cược theo hữu dụng Kelly của bankroll hiện tại, lập trước quy tắc lên xuống quanh c`"]
+  n56 --- n58
+  n59["`Kelly đầy đủ rất biến động, nửa Kelly tương đương nhân ngưỡng c lên khoảng 2 lần`"]
+  n56 --- n59
+  n60["`Tỷ lệ thắng ước lượng thường bị thổi phồng, cược theo nó là cược quá tay`"]
+  n56 --- n60
+  class n0 root
+  class n1,n9,n21,n29,n38,n48,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 24 "Growing Bankrolls: The Kelly Criterion and Rational Game Selection", trang 318–323.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 22 ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md)) và Chương 23 ([C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)) đo rủi ro phá sản (risk of ruin) với giả định chơi mãi một trò chơi ở một mức cược cố định; Chương 23 đã nhiều lần hứa bàn việc "xuống mức cược thấp hơn" khi bankroll giảm. Chương 24 bỏ giả định mức cược cố định: thay vì tối đa hoá kỳ vọng tính bằng đô la, người chơi tối đa hoá hàm hữu dụng logarit U(x) = ln x — tiêu chuẩn Kelly — để bankroll tăng nhanh nhất; khái niệm hữu dụng (utility) đã được nhắc ở Phần I ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)).
+
+Chương dùng lại trò xúc xắc của Chương 22 và các khái niệm phương sai, độ lệch chuẩn của Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)), rồi áp vào "quyết định ngoài ván bài" (metagame): chơi bàn nào, mức cược nào.
+
+Chương 25 ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)) mở rộng sang chơi nhiều trò chơi cùng lúc như một danh mục và đánh giá thoả thuận tài trợ cũng bằng hữu dụng Kelly; Phần V ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) quay lại giải đấu, nơi công thức xấp xỉ của chương này không dùng được.
+
+## Lưu ý
+
+- **Ví dụ 24.2 tính sai ngưỡng bankroll gấp đôi (trang 323):** sách viết 2c = 60 + 35 + (800² − 400²)/(60 − 35) rồi kết luận "c = $19,295". Tính: (640.000 − 160.000)/25 = 19.200, cộng 95 được **2c = 19.295**, nên **c = $9.647,50**. Công thức xấp xỉ 24.1 cho c ≈ 480.000/(2 × 25) = $9.600, khớp với $9.647,50 chứ không khớp $19.295. Kiểm tra trực tiếp: tại B = $9.647,50, hữu dụng Kelly mỗi giờ của hai trò chơi bằng nhau (cùng 0,00276); tại B = $19.295, trò $40-80 cho 0,00225 còn $20-40 chỉ cho 0,00160, tức trò lớn đã tốt hơn rõ. Vậy theo đúng mô hình của sách, người có bankroll khoảng $9.650 trở lên nên chơi $40-80, không phải $19.295.
+- **Khai triển Taylor của ln(1 + t) in sai (trang 321–322):** sách viết ln(1 + t) = t − t²/2! + t³/3! − t⁴/4! + …, và do đó ln(1 + x/B) = x/B − x²/(2!B²) + x³/(3!B³) − …; rồi lập luận các số hạng bậc cao có "(n!)(Bⁿ) ở mẫu nên tiến về 0 cực nhanh". Khai triển đúng là ln(1 + t) = t − t²/2 + t³/3 − t⁴/4 + … (mẫu là n, không phải n!; các giai thừa thuộc khai triển của eᵗ).
+
+  Vì 2! = 2, hai số hạng đầu trùng nhau nên kết quả U ≈ x/B − x²/(2B²) và công thức 24.1 không bị ảnh hưởng; nhưng lý do bỏ các số hạng bậc cao là xⁿ/(nBⁿ) nhỏ khi x nhỏ so với B, không phải vì giai thừa. Sách cũng nói "bỏ số hạng thứ ba trở đi" — đúng, giữ hai số hạng đầu.
+- **Thiếu dấu bằng (trang 322):** dòng "⟨(x² − 2xμ + μ²)⟩ σ²" thiếu "=": đúng là ⟨x² − 2xμ + μ²⟩ = σ². Dòng "⟨(x − μ)²⟩ = σ2" là σ².
+- **Các tính chất của cược Kelly là tính chất tiệm cận (nhận xét của người tổng hợp):** "tối đa hoá trung vị bankroll sau một số lần chơi cho trước" và "tối thiểu hoá thời gian trung bình để đạt một mức bankroll" đúng theo nghĩa tiệm cận (khi số lần chơi lớn, hoặc mục tiêu xa), theo hiểu biết của người tổng hợp; với số lần chơi hữu hạn nhỏ, chiến lược khác có thể có trung vị cao hơn đôi chút. "Phân phối bankroll log-chuẩn" cũng là xấp xỉ khi số lần chơi lớn.
+- **"Giá trị chắc chắn tương đương" và ký hiệu (trang 318):** sách dùng chữ B cho vụ cược và b cho các kết quả của nó, rồi ở phần sau dùng B cho bankroll. Bản tổng hợp gọi vụ cược là "vụ cược B" ở mục 1 và dùng B cho bankroll từ mục 4 trở đi.
+- **Ví dụ đồng xu triệu đô (trang 318):** sách nói "50% thời gian ta nhận hữu dụng của một triệu, 50% hữu dụng của 0". Với hàm ln x của Kelly, hữu dụng của bankroll 0 là −∞, nên người dùng Kelly thuần tuý không bao giờ chọn tung đồng xu nếu đó là toàn bộ tài sản; ví dụ này minh hoạ hàm hữu dụng lõm nói chung, chưa phải hàm Kelly (nhận xét của người tổng hợp).
+- **Lỗi chính tả và OCR:** "the lust bet" ("last"), "risk of rum" ("ruin"), "hi general" ("in general"), "increase out-Kelly utility" ("our Kelly utility"), "which game to play ill a quantitative manner" ("in"), "quantify'" ("quantify"), "< In (B + x) >" ("ln").
+- **Quy ước thuật ngữ:** "utility" dịch là "hữu dụng" (độ thoả dụng); "Kelly criterion" là "tiêu chuẩn Kelly"; "Kelly betting" là "cược theo Kelly"; "certainty equivalent" là "giá trị chắc chắn tương đương"; "metagame decisions" là "quyết định ngoài ván bài" (chọn trò chơi, chọn mức cược, có chơi hay không); "cutoff bankroll" là "ngưỡng bankroll"; "even money" là "trả ngang" (thắng bao nhiêu nhận bấy nhiêu); "juice" là phí của nhà cái. "$20-40" là mức cược limit: small bet $20, big bet $40.

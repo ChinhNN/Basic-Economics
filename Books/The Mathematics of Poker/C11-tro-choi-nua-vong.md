@@ -1,22 +1,24 @@
 # Chương 11 — Một phía của vòng cược: các trò chơi half-street (One Side of the Street: Half-Street Games)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 11 "One Side of the Street: Half-Street Games", trang 114–124.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)) đặt khái niệm chiến lược tối ưu, nemesis, nguyên lý bàng quan và chỉ ra rằng khi các chiến lược thuần khai thác nhau theo vòng tròn thì chiến lược tối ưu là hỗn hợp, minh hoạ bằng trò chơi Cảnh sát và Kẻ trộm. Chương 11 là chương đầu tiên giải các "trò chơi đồ chơi" (toy games) poker: loại đơn giản nhất, trò chơi half-street, trong đó chỉ một người được cược. Chương giới thiệu ba công cụ dùng suốt Phần III: hằng số **α = 1/(P + 1)** (vừa là tỷ lệ bluff trên value bet, vừa là tần suất fold đúng của người bị cược), **phân phối [0,1]** (bài là một số thực ngẫu nhiên từ 0 đến 1, số nhỏ hơn thắng), và kỹ thuật **tham số hoá + phương trình bàng quan tại các ngưỡng**. Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)) áp các ý này vào trò chơi jam-or-fold no-limit; Chương 13 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)) dùng phân phối rời rạc ba lá A, K, Q; Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) tổng quát α = s/(1 + s) cho việc chọn mức cược no-limit; Chương 15–18 ([C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md), [C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md), [C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md)) mở rộng [0,1] Game #2 của chương này sang full-street và nhiều lần raise.
-**Ý chính:** **Trong trò chơi half-street, người được cược (Y) phải trộn value bet với bluff theo đúng tỷ lệ α = 1/(P + 1) để người bị cược (X) bàng quan giữa call và fold, còn X phải fold đúng α tay bài có thể thắng bluff để Y bàng quan giữa bluff và check; pot càng lớn thì Y càng bluff ít và X càng call nhiều.** Chương mở bằng định nghĩa trò chơi half-street (X check bắt buộc, Y check hoặc cược, X call hoặc fold, không raise), giá trị của trò chơi (kỳ vọng của Y khi cả hai chơi tối ưu) và giá trị ex-showdown (chỉ tính tiền đổi chủ do cược trong trò chơi; Y không bao giờ có giá trị âm vì luôn có thể check). **Ví dụ 11.1 — trò chơi thấu thị** (Y thấy bài X; một nửa số lần Y có nuts, một nửa có bài chết; pot P cược, limit): các chiến lược thuần đuổi nhau nên nghiệm là hỗn hợp; X call c = P/(P + 1), Y bluff b = 1/(P + 1) bài chết; định nghĩa α = 1/(P + 1) (11.1), 1 − α = P/(P + 1) (11.2), và với cược kích thước s tính theo pot, α = s/(1 + s) (11.3). Giá trị của Y là P/(2(P + 1)), luôn dưới nửa cược. Bluff trong chơi tối ưu không tự nó có lời; nó tồn tại để value bet được trả tiền. **Phân phối [0,1]** và kỹ thuật giải: đoán cấu trúc (tham số hoá), viết phương trình bàng quan tại mỗi ngưỡng, giải, rồi kiểm tra. **Ví dụ 11.2 — [0,1] Game #1** (X buộc phải call): Y cược mọi bài y ≤ 1/2, giá trị 1/4. **Ví dụ 11.3 — [0,1] Game #2** (X được fold): nếu Y chỉ value bet thì X chỉ call với (P + 1)/(P + 2) phần dải cược của Y và Y có lợi hơn khi chuyển bài biên sang bluff; nghiệm tối ưu có cấu trúc "cược bài tốt nhất [0, y₁], check [y₁, y₀], bluff bài tệ nhất [y₀, 1]", với 1 − y₀ = αy₁ (11.4), y₁ = x₁*/2 (11.5), x₁* = (1 − α)(1 − αy₁) (11.6), nghiệm y₁ = (1 − α)/((2 − α)(1 + α)), x₁* = 2y₁. Với pot 1 cược (α = 1/2): y₁ = 2/9, x₁* = 4/9, y₀ = 8/9. Bluff với bài tệ nhất có giá trị dương so với check; chỉ bài đúng tại ngưỡng mới bàng quan.
+## Ý chính
 
-> **Lưu ý:**
-> - **Sai chiều bất đẳng thức (Example 11.3, trang 120):** sách viết (P + 1)y₁ − (P + 2)x₁* > 0 rồi suy ra "x₁* > y₁(P + 1)/(P + 2)". Chia hai vế cho (P + 2) phải được **x₁* < y₁(P + 1)/(P + 2)**: X call với mọi bài mạnh hơn ngưỡng y₁(P + 1)/(P + 2), nên ngưỡng call là x₁* = y₁(P + 1)/(P + 2). Câu tiếp theo "tỷ lệ giữa số cược của Y và số call của X là (P + 1)/(P + 2)" cũng đảo: đúng là tỷ lệ dải call của X trên dải cược của Y, x₁*/y₁ = (P + 1)/(P + 2). Ví dụ của chính sách (pot 1, ngưỡng nằm ở 2/3 quãng từ 0 tới y₁) khớp với cách hiểu đúng.
-> - **Thiếu dấu trừ (bảng của Example 11.2, trang 118):** dòng "[0, y] — 1 (Y cược và X call với bài tốt hơn)" phải là **−1**; phép tính ngay dưới dùng đúng (−1).
-> - **Bảng bàng quan tại y₀ (trang 123):** cột xác suất của dòng [y₀, 1] in "1 − x₁*", đúng phải là **1 − y₀**; ô tích của dòng [0, x₁*] in "−x₁", đúng là −x₁*. Cả hai không ảnh hưởng kết quả vì dòng [y₀, 1] có kỳ vọng 0.
-> - **Trích sai số phương trình (trang 123):** "Recalling from Equation 11.3 that 1 − y₀ = αy₁" — đẳng thức này là **Phương trình 11.4**; Phương trình 11.3 là α = s/(1 + s).
-> - **Câu khó hiểu về bluff ở bài 1 (trang 124):** sách nói kỳ vọng của Y khi bluff với bài 1 "bằng kỳ vọng tại y₀ vì X chỉ call với bài *trên* x₁*". X call với bài *mạnh hơn* x₁*, tức trong [0, x₁*] (trên hình của sách là phần *dưới* x₁*). Ý đúng: khi cược, Y với bài 1 và Y với bài y₀ gặp cùng tập bài call của X nên kết quả cược như nhau; nhưng nếu check, bài y₀ còn thắng showdown trước bài X tệ hơn y₀ (trong khi bài 1 không thắng gì), nên so với check, bluff bằng bài 1 có lợi hơn. Người tổng hợp tính: so với check, cược với bài y ∈ [y₀, 1] có giá trị −x₁* + P(y − x₁*), tăng theo y, bằng 0 tại y₀ và bằng P(1 − y₀) tại y = 1.
-> - **Tên sách của von Neumann và Morgenstern (trang 123):** sách in "John von Neumann and Oskar Morganstern … *Gam Theory and Economic Behavior* (1944)". Đúng là Oskar **Morgenstern**, *Theory of Games and Economic Behavior* (1944).
-> - **Ký hiệu ngưỡng (trang 120):** lớp chữ và cả bản in viết "X₀" và "Xₙ*" bằng chữ hoa ở hai gạch đầu dòng; theo ngữ cảnh là x₀ (ngưỡng giữa bluff và check) và xₙ* (ngưỡng giữa call cược thứ n và fold). Câu "Game #1 strategy … y₁, since Y is betting hands above that for value" dùng "above" theo nghĩa ngược với trục: Y value bet các bài *mạnh hơn* (số nhỏ hơn) y₁.
-> - **Lỗi đánh máy và lớp chữ:** "hands that b cat X's hand" (beat), "Y wins p bets" (P), "both then opponent's cards" (their), "Anon-optimal" (A non-optimal), "Key Concepts: α = 1(P+ 1)" (1/(P + 1)), "calls to often" (too often), "hi a precise ratio" (in). Lớp chữ làm phẳng chỉ số (y1, x1*, α2y1 là y₁, x₁*, α²y₁) và phân số (12, 13, 23, 14 là 1/2, 1/3, 2/3, 1/4); đã đọc lại từ ảnh trang.
-> - **Hình vẽ không ghi số:** Hình 11.1 vẽ y₁ = 0,5. Người tổng hợp đọc từ trục: Hình 11.2 (chiến lược không tối ưu) có y₁ ≈ 0,5 và x₁* ≈ 0,33, khớp với pot P = 1 (x₁* = y₁ × 2/3); Hình 11.3 (chiến lược tối ưu) có y₁ ≈ 0,3, x₁* ≈ 0,6, y₀ ≈ 0,9, khớp chính xác với nghiệm khi P = 2 (y₁ = 0,3; x₁* = 0,6; y₀ = 0,9), tức hình được vẽ cho pot 2 cược, dù lời văn không nói.
-> - **Sách không tính giá trị của [0,1] Game #2.** Người tổng hợp tính (bảng ở mục 7): với P = 1 giá trị là 1/18 ≈ 0,056 cược; P = 2 là 0,1 cược.
-> - **Quy ước:** "bet" là cược; "value bet" giữ nguyên; bài thắng chắc gọi là nuts, bài thua chắc gọi là bài chết (dead hand). Trong phân phối [0,1], số **nhỏ** là bài **mạnh**. P là kích thước pot tính theo đơn vị cược (limit); s là kích thước cược tính theo đơn vị pot (no-limit).
+**Trong trò chơi half-street, người được cược (Y) phải trộn value bet với bluff theo đúng tỷ lệ α = 1/(P + 1) để người bị cược (X) bàng quan giữa call và fold, còn X phải fold đúng α tay bài có thể thắng bluff để Y bàng quan giữa bluff và check; pot càng lớn thì Y càng bluff ít và X càng call nhiều.**
+
+Chương mở bằng định nghĩa trò chơi half-street (X check bắt buộc, Y check hoặc cược, X call hoặc fold, không raise), giá trị của trò chơi (kỳ vọng của Y khi cả hai chơi tối ưu) và giá trị ex-showdown (chỉ tính tiền đổi chủ do cược trong trò chơi; Y không bao giờ có giá trị âm vì luôn có thể check).
+
+**Ví dụ 11.1 — trò chơi thấu thị** (Y thấy bài X; một nửa số lần Y có nuts, một nửa có bài chết; pot P cược, limit): các chiến lược thuần đuổi nhau nên nghiệm là hỗn hợp; X call c = P/(P + 1), Y bluff b = 1/(P + 1) bài chết; định nghĩa α = 1/(P + 1) (11.1), 1 − α = P/(P + 1) (11.2), và với cược kích thước s tính theo pot, α = s/(1 + s) (11.3).
+
+Giá trị của Y là P/(2(P + 1)), luôn dưới nửa cược. Bluff trong chơi tối ưu không tự nó có lời; nó tồn tại để value bet được trả tiền.
+
+**Phân phối [0,1]** và kỹ thuật giải: đoán cấu trúc (tham số hoá), viết phương trình bàng quan tại mỗi ngưỡng, giải, rồi kiểm tra.
+
+**Ví dụ 11.2 — [0,1] Game #1** (X buộc phải call): Y cược mọi bài y ≤ 1/2, giá trị 1/4.
+
+**Ví dụ 11.3 — [0,1] Game #2** (X được fold): nếu Y chỉ value bet thì X chỉ call với (P + 1)/(P + 2) phần dải cược của Y và Y có lợi hơn khi chuyển bài biên sang bluff.
+
+Nghiệm tối ưu có cấu trúc "cược bài tốt nhất [0, y₁], check [y₁, y₀], bluff bài tệ nhất [y₀, 1]", với 1 − y₀ = αy₁ (11.4), y₁ = x₁*/2 (11.5), x₁* = (1 − α)(1 − αy₁) (11.6), nghiệm y₁ = (1 − α)/((2 − α)(1 + α)), x₁* = 2y₁. Với pot 1 cược (α = 1/2): y₁ = 2/9, x₁* = 4/9, y₀ = 8/9.
+
+Bluff với bài tệ nhất có giá trị dương so với check; chỉ bài đúng tại ngưỡng mới bàng quan.
 
 ## Sơ đồ
 
@@ -335,7 +337,9 @@ Một phỏng đoán cấu trúc nghiệm gọi là **tham số hoá** (paramete
 
 Với tham số hoá đã chọn, ta lập phương trình dựa trên nguyên lý **bàng quan tại mọi ngưỡng**. Thay cho sự bàng quan trên các tay bài dùng chiến lược hỗn hợp (như ở trò chơi thấu thị), ở đây tại ngưỡng giữa hai hành động, người chơi bàng quan.
 
-Lập luận trực quan vì sao: khi dịch một khoảng rất nhỏ trên đoạn (từ một bài sang bài mạnh hơn một chút), equity khi lật bài thay đổi liên tục — equity của một bài rất gần equity của các bài lân cận. Vậy giá trị khi chơi bài cũng liên tục, vì giá trị một bài gồm equity khi có showdown cộng equity khi không có showdown (một hằng số). Ví dụ, giá trị check-call với bài 0,6 phải rất gần giá trị check-call với bài 0,60001. Giờ xét ngưỡng: giả sử tại ngưỡng một hành động có equity cao hơn hành động kia. Khi đó trong vùng của hành động kém hơn, ta tìm được một khoảng rất nhỏ sát ngưỡng mà chuyển sang hành động tốt hơn sẽ tăng equity. Nếu làm được vậy thì chiến lược chưa tối ưu. Vậy **chiến lược tối ưu bàng quan tại các ngưỡng**.
+Lập luận trực quan vì sao: khi dịch một khoảng rất nhỏ trên đoạn (từ một bài sang bài mạnh hơn một chút), equity khi lật bài thay đổi liên tục — equity của một bài rất gần equity của các bài lân cận. Vậy giá trị khi chơi bài cũng liên tục, vì giá trị một bài gồm equity khi có showdown cộng equity khi không có showdown (một hằng số). Ví dụ, giá trị check-call với bài 0,6 phải rất gần giá trị check-call với bài 0,60001.
+
+Giờ xét ngưỡng: giả sử tại ngưỡng một hành động có equity cao hơn hành động kia. Khi đó trong vùng của hành động kém hơn, ta tìm được một khoảng rất nhỏ sát ngưỡng mà chuyển sang hành động tốt hơn sẽ tăng equity. Nếu làm được vậy thì chiến lược chưa tối ưu. Vậy **chiến lược tối ưu bàng quan tại các ngưỡng**.
 
 Trong đa số tham số hoá có một số ngưỡng cố định. Với mỗi ngưỡng, ta viết một phương trình liên hệ các thành phần chiến lược buộc ngưỡng đó bàng quan, gọi là **phương trình bàng quan** (indifference equations). Giải hệ phương trình này cho ra các ngưỡng và chiến lược tối ưu của tham số hoá đó. Đôi khi một chiến lược tốt hơn dùng tham số hoá khác; thường khi giải hệ phương trình từ một tham số hoá sai, ta gặp mâu thuẫn (ví dụ ngưỡng vô lý, như nằm ngoài [0,1] hay sai thứ tự). Vì vậy sau khi giải phải kiểm chứng chiến lược để chắc nó thực sự tốt nhất.
 
@@ -398,7 +402,7 @@ X call khi giá trị này dương:
 (P + 1)y₁ − (P + 2)x > 0
 x < y₁(P + 1)/(P + 2)
 
-Vậy x₁* = y₁(P + 1)/(P + 2). (Sách in "x₁* > …", sai chiều; xem Lưu ý.) X call với một phần dải cược của Y, sao cho dải call của X bằng (P + 1)/(P + 2) lần dải cược của Y.
+Vậy x₁* = y₁(P + 1)/(P + 2). (Sách in "x₁* > …", sai chiều; xem mục Lưu ý cuối chương.) X call với một phần dải cược của Y, sao cho dải call của X bằng (P + 1)/(P + 2) lần dải cược của Y.
 
 Điều này hợp trực giác. Giả sử pot là 1, tức cược bằng pot. X phải trả 1 để có thể thắng 2 (pot 1 + cược 1), nên cần 1/3 cơ hội có bài tốt nhất để call. Ngưỡng cho X đúng cơ hội đó nằm ở 2/3 quãng đường từ 0 tới y₁: với x = 2y₁/3, Y nằm trong [x, y₁] với xác suất có điều kiện (y₁ − 2y₁/3)/y₁ = 1/3.
 
@@ -526,7 +530,9 @@ Thứ nhất, khả năng fold hay call của X làm thay đổi cấu trúc cơ
 
 Thứ hai, α đóng vai trò nổi bật. Giống trò chơi thấu thị, X fold α số bài thắng được bluff, làm Y bàng quan với bluff; và Y giữ tỷ lệ bluff trên cược là α để X bàng quan khi call với các bài trong khoảng giữa y₁ và y₀.
 
-Thứ ba: giá trị của bluff là bao nhiêu? Trong trò chơi thấu thị, câu trả lời là 0 — nếu Y check bài chết thì chỉ đơn giản mất pot. Trong trò chơi này câu trả lời không đơn giản như vậy. Tại y₀, Y bàng quan giữa bluff và check — tình huống giống trò chơi thấu thị (theo góc nhìn ex-showdown). Nhưng với bài, chẳng hạn, 1, kết quả của cú cược giống như với bài y₀ (vì X chỉ call với bài mạnh hơn x₁*, đánh bại cả hai), trong khi check bằng bài 1 thì thua mọi showdown còn check bằng y₀ thì còn thắng các bài tệ hơn y₀. Vậy Y không bàng quan với bluff tại bài 1 — thực ra, với mọi bài bluff tệ hơn y₀, Y tăng equity khi bluff! (Người tổng hợp tính: so với check, cược bài y ∈ [y₀, 1] được −x₁* + P(y − x₁*), tăng tuyến tính từ 0 tại y₀ tới P(1 − y₀) tại y = 1; với P = 1 là 1/9 cược.)
+Thứ ba: giá trị của bluff là bao nhiêu? Trong trò chơi thấu thị, câu trả lời là 0 — nếu Y check bài chết thì chỉ đơn giản mất pot. Trong trò chơi này câu trả lời không đơn giản như vậy.
+
+Tại y₀, Y bàng quan giữa bluff và check — tình huống giống trò chơi thấu thị (theo góc nhìn ex-showdown). Nhưng với bài, chẳng hạn, 1, kết quả của cú cược giống như với bài y₀ (vì X chỉ call với bài mạnh hơn x₁*, đánh bại cả hai), trong khi check bằng bài 1 thì thua mọi showdown còn check bằng y₀ thì còn thắng các bài tệ hơn y₀. Vậy Y không bàng quan với bluff tại bài 1 — thực ra, với mọi bài bluff tệ hơn y₀, Y tăng equity khi bluff! (Người tổng hợp tính: so với check, cược bài y ∈ [y₀, 1] được −x₁* + P(y − x₁*), tăng tuyến tính từ 0 tại y₀ tới P(1 − y₀) tại y = 1; với P = 1 là 1/9 cược.)
 
 #### Tóm tắt chương
 
@@ -671,7 +677,7 @@ Chương rút ra từ hai trò chơi rất nhỏ một hằng số — α — m�
 - Không có raise: trong poker thật X có thể check-raise, làm đổi cấu trúc nghiệm (Chương 15–18).
 - Phân phối bài của hai người độc lập và giống nhau; trên river thật, dải bài hai bên thường khác nhau rõ rệt sau các vòng cược trước.
 - Giá trị ex-showdown bỏ qua phần pot mỗi người "sở hữu" trước khi cược; điều này đúng cho so sánh hành động nhưng cần cẩn thận khi so giá trị trò chơi giữa các kích thước pot.
-- Bảng và bất đẳng thức có vài lỗi in (xem Lưu ý), không ảnh hưởng nghiệm cuối.
+- Bảng và bất đẳng thức có vài lỗi in (xem mục Lưu ý cuối chương), không ảnh hưởng nghiệm cuối.
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp)
 
@@ -689,4 +695,176 @@ Công thức α = s/(1 + s) ngày nay được cộng đồng gọi là "minimum
 ### Vận dụng
 
 - **Người chơi poker:** trên river, trước khi fold, so tần suất fold của mình với α = s/(1 + s) của cú cược đối thủ: cược bằng pot thì chỉ được fold tối đa một nửa số bài có thể thắng bluff, cược nửa pot thì một phần ba. Khi tự cược, giữ khoảng 1 bluff cho mỗi 2 value bet với cược bằng pot (1 cho 3 với cược nửa pot), và chọn bluff từ những bài không có giá trị showdown. Trước đối thủ fold quá nhiều, tăng bluff; trước đối thủ call quá nhiều, bỏ bluff và value bet mỏng hơn.
-- **Người làm tài chính, ra quyết định:** cấu trúc "value bet và bluff" xuất hiện trong mọi tình huống phát tín hiệu có thể bị nghi ngờ: một bên đưa ra đề nghị mạnh (đấu thầu, đàm phán, báo cáo kết quả kinh doanh tích cực) mà bên kia không kiểm chứng ngay được. Bài học α nói rằng nếu bên nhận tín hiệu luôn tin, bên gửi có động cơ phóng đại; nếu luôn nghi, tín hiệu thật bị lãng phí; tỷ lệ "kiểm tra" hợp lý tăng theo mức thiệt hại khi bị lừa so với chi phí kiểm tra (pot so với cược). Ý "bluff bằng bài tệ nhất, check bài trung bình" tương ứng với việc chỉ đưa ra tín hiệu mạnh khi mình hoặc rất mạnh hoặc không còn gì để mất, còn khi ở vị trí trung bình thì chọn phương án thận trọng — nhận xét của người tổng hợp.
+- **Người làm tài chính, ra quyết định:** cấu trúc "value bet và bluff" xuất hiện trong mọi tình huống phát tín hiệu có thể bị nghi ngờ: một bên đưa ra đề nghị mạnh (đấu thầu, đàm phán, báo cáo kết quả kinh doanh tích cực) mà bên kia không kiểm chứng ngay được.
+
+  Bài học α nói rằng nếu bên nhận tín hiệu luôn tin, bên gửi có động cơ phóng đại; nếu luôn nghi, tín hiệu thật bị lãng phí; tỷ lệ "kiểm tra" hợp lý tăng theo mức thiệt hại khi bị lừa so với chi phí kiểm tra (pot so với cược). Ý "bluff bằng bài tệ nhất, check bài trung bình" tương ứng với việc chỉ đưa ra tín hiệu mạnh khi mình hoặc rất mạnh hoặc không còn gì để mất, còn khi ở vị trí trung bình thì chọn phương án thận trọng — nhận xét của người tổng hợp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (trò chơi half-street và giá trị ex-showdown, trò chơi thấu thị và hằng số α, phân phối [0,1] và kỹ thuật giải bằng ngưỡng, [0,1] Game #1, [0,1] Game #2 với ba phương trình bàng quan và nghiệm, các khái niệm then chốt cùng phần Đánh giá), mỗi nhánh ghi định nghĩa, công thức, nghiệm và ví dụ số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: khi chỉ một người được cược, bluff/value bet = α = 1/(P + 1) và người bị cược fold đúng α`"]
+  n1["`Mục 1 — Trò chơi half-street và giá trị ex-showdown`"]
+  n0 --- n1
+  n2["`X check bắt buộc, Y check hoặc cược, X call hoặc fold, không ai được raise`"]
+  n1 --- n2
+  n3["`Giá trị của trò chơi là kỳ vọng của Y khi cả hai chơi tối ưu`"]
+  n1 --- n3
+  n4["`Giá trị ex-showdown chỉ tính tiền đổi chủ do cược, kể cả pot giành được nhờ bluff`"]
+  n1 --- n4
+  n5["`Y không bao giờ có giá trị âm vì luôn có thể check để được 0`"]
+  n1 --- n5
+  n6["`Hầu như mọi trò chơi half-street đều giải được, trò chơi nhiều vòng thường không`"]
+  n1 --- n6
+  n7["`Thấu thị một phần: thấy bài đối thủ#59; thấu thị: thấy cả bài đối thủ lẫn lá sắp ra`"]
+  n1 --- n7
+  n8["`Mục 2 — Ví dụ 11.1, trò chơi thấu thị`"]
+  n0 --- n8
+  n9["`Luật: pot P cược, limit, Y thấy bài X, một nửa bài Y là nuts, một nửa là bài chết`"]
+  n8 --- n9
+  n10["`Ex-showdown: nuts cược bị call +1#59; bluff bị call −1, bluff được fold +P`"]
+  n8 --- n10
+  n11["`Chiến lược thuần đuổi nhau theo vòng (luôn fold → cược mọi bài → luôn call) nên nghiệm là hỗn hợp`"]
+  n8 --- n11
+  n12["`Y luôn cược nuts vì cược trội check (+1 hoặc 0)`"]
+  n8 --- n12
+  n13["`X làm Y bàng quan với bluff: P(1 − c) = c → c = P/(P + 1)`"]
+  n8 --- n13
+  n14["`Y làm X bàng quan với call: 1 = (P + 1)b → b = 1/(P + 1)`"]
+  n8 --- n14
+  n15["`Hằng số α`"]
+  n8 --- n15
+  n16["`α = 1/(P + 1) (11.1): tần suất fold của X và tỷ lệ bluff trên value bet của Y`"]
+  n15 --- n16
+  n17["`1 − α = P/(P + 1) (11.2) là tần suất call, mở rộng nguyên lý pot odds`"]
+  n15 --- n17
+  n18["`Cược s pot: α = s/(1 + s) (11.3)#59; cược bằng pot α = 1/2, nửa pot α = 1/3`"]
+  n15 --- n18
+  n19["`Pot càng lớn α càng nhỏ: Y bluff ít hơn vào pot lớn hơn`"]
+  n15 --- n19
+  n20["`Nghiệm: Y cược mọi nuts, bluff α bài chết (α/2 tổng số bài), X call 1 − α`"]
+  n8 --- n20
+  n21["`Giá trị của Y = P/(2(P + 1)), luôn dưới nửa cược#59; P = 1 → 1/4, P = 9 → 0,45`"]
+  n8 --- n21
+  n22["`Bluff tự nó có kỳ vọng 0#59; mọi lợi nhuận đến từ value bet được call`"]
+  n8 --- n22
+  n23["`Mục 3 — Phân phối [0,1] và kỹ thuật giải bằng ngưỡng`"]
+  n0 --- n23
+  n24["`Mỗi người nhận một số thực đều trong [0,1]#59; số nhỏ hơn thắng, 0 là nuts`"]
+  n23 --- n24
+  n25["`Vô số tay bài nên không cần trộn: chiến lược là các vùng thuần ngăn cách bởi ngưỡng`"]
+  n23 --- n25
+  n26["`Ba bước: đoán cấu trúc (tham số hoá), giải như thể đúng, kiểm tra không ai đơn phương cải thiện được`"]
+  n23 --- n26
+  n27["`Giá trị tay bài liên tục theo bài (0,6 và 0,60001 gần như nhau) nên tại ngưỡng người chơi bàng quan`"]
+  n23 --- n27
+  n28["`Mỗi ngưỡng cho một phương trình bàng quan#59; tham số hoá sai thường cho ngưỡng vô lý`"]
+  n23 --- n28
+  n29["`Mục 4 — Ví dụ 11.2, [0,1] Game #1: X buộc phải call`"]
+  n0 --- n29
+  n30["`Không ai lấy pot bằng bluff được nên kích thước pot không quan trọng`"]
+  n29 --- n30
+  n31["`Y cược bài y: ⟨Y, cược⟩ = −y + (1 − y) = 1 − 2y ≥ 0 khi y ≤ 1/2`"]
+  n29 --- n31
+  n32["`Y cược nửa bài tốt nhất [0, 1/2], check phần còn lại#59; giá trị 1/4 cược`"]
+  n29 --- n32
+  n33["`Đối thủ không có lựa chọn thì chỉ cần tối đa hoá kỳ vọng trước chiến lược cố định của họ`"]
+  n29 --- n33
+  n34["`Cùng phân phối, không bị raise, đối thủ luôn call → cược nửa số bài`"]
+  n29 --- n34
+  n35["`Mục 5 — Ví dụ 11.3, [0,1] Game #2: X được fold`"]
+  n0 --- n35
+  n36["`Pot P, cược 1#59; X call [0, x₁#42;], fold [x₁#42;, 1]`"]
+  n35 --- n36
+  n37["`Chỉ value bet thì không tối ưu`"]
+  n35 --- n37
+  n38["`Y chỉ cược [0, y₁] thì X call khi (P + 1)(y₁ − x) − x #gt; 0, tức x₁#42; = y₁(P + 1)/(P + 2)`"]
+  n37 --- n38
+  n39["`P = 1: X call 2/3 dải cược của Y, đúng 1/3 cơ hội cần để trả 1 thắng 2`"]
+  n37 --- n39
+  n40["`Y có lợi hơn khi check bài trong [x₁#42;, y₁] và đem bài gần 1 đi bluff → Y phải có vùng bluff`"]
+  n37 --- n40
+  n41["`Tham số hoá: Y cược [0, y₁], check [y₁, y₀], bluff [y₀, 1]#59; 0 #lt; y₁ #lt; x₁#42; #lt; y₀ #lt; 1`"]
+  n35 --- n41
+  n42["`Ba phương trình bàng quan`"]
+  n35 --- n42
+  n43["`Tại x₁#42;: 1 − y₀ = αy₁ (11.4), dải bluff bằng α lần dải value bet`"]
+  n42 --- n43
+  n44["`Tại y₁: x₁#42; − 2y₁ = 0, y₁ = x₁#42;/2 (11.5), X call gấp đôi dải value bet`"]
+  n42 --- n44
+  n45["`Tại y₀: x₁#42; = (1 − α)(1 − αy₁) (11.6), X fold α số bài thắng được bluff`"]
+  n42 --- n45
+  n46["`Nghiệm: y₁ = (1 − α)/((2 − α)(1 + α)), x₁#42; = 2y₁, 1 − y₀ = αy₁`"]
+  n35 --- n46
+  n47["`P = 1: y₁ = 2/9, x₁#42; = 4/9, y₀ = 8/9, giá trị 1/18 ≈ 0,056 cược (người tổng hợp tính)`"]
+  n35 --- n47
+  n48["`P = 2: y₁ = 0,3, x₁#42; = 0,6, y₀ = 0,9, giá trị 0,1 cược`"]
+  n35 --- n48
+  n49["`P lớn dần: y₁ → 1/2, x₁#42; → 1, dải bluff → 0, trò chơi tiến về Game #1`"]
+  n35 --- n49
+  n50["`Bluff bằng bài y ∈ [y₀, 1] được −x₁#42; + P(y − x₁#42;) so với check, dương khi y #gt; y₀`"]
+  n35 --- n50
+  n51["`Trò chơi von Neumann và Morgenstern đã giải trong Theory of Games and Economic Behavior (1944)`"]
+  n35 --- n51
+  n52["`Mục 6 và Đánh giá — Hàm ý cho người chơi`"]
+  n0 --- n52
+  n53["`Bị cược bằng pot chỉ được fold tối đa 1/2 số bài thắng được bluff#59; nửa pot thì 1/3`"]
+  n52 --- n53
+  n54["`Khi cược bằng pot giữ 1 bluff cho mỗi 2 value bet#59; nửa pot 1 cho 3`"]
+  n52 --- n54
+  n55["`Dải cược phân cực: cược bài mạnh nhất và bluff bài tệ nhất, check bài trung bình`"]
+  n52 --- n55
+  n56["`Ngày nay 1 − α = 1/(1 + s) được gọi là minimum defense frequency`"]
+  n52 --- n56
+  n57["`Giới hạn: không có raise, tỷ lệ nuts:bài chết 1:1, hai dải bài độc lập và giống nhau`"]
+  n52 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Bluff và value bet là một gói: đối thủ fold nhiều quá thua cho bluff, call nhiều quá thua cho value bet`"]
+  n58 --- n59
+  n60["`Chỉ bài tại ngưỡng mới bàng quan#59; các bluff yếu nhất thường có giá trị dương so với check`"]
+  n58 --- n60
+  n61["`Kỹ thuật tham số hoá và bàng quan tại ngưỡng được dùng lại ở mọi trò chơi [0,1] của Phần III`"]
+  n58 --- n61
+  class n0 root
+  class n1,n8,n23,n29,n35,n52,n58 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 11 "One Side of the Street: Half-Street Games", trang 114–124.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)) đặt khái niệm chiến lược tối ưu, nemesis, nguyên lý bàng quan và chỉ ra rằng khi các chiến lược thuần khai thác nhau theo vòng tròn thì chiến lược tối ưu là hỗn hợp, minh hoạ bằng trò chơi Cảnh sát và Kẻ trộm.
+
+Chương 11 là chương đầu tiên giải các "trò chơi đồ chơi" (toy games) poker: loại đơn giản nhất, trò chơi half-street, trong đó chỉ một người được cược. Chương giới thiệu ba công cụ dùng suốt Phần III: hằng số **α = 1/(P + 1)** (vừa là tỷ lệ bluff trên value bet, vừa là tần suất fold đúng của người bị cược), **phân phối [0,1]** (bài là một số thực ngẫu nhiên từ 0 đến 1, số nhỏ hơn thắng), và kỹ thuật **tham số hoá + phương trình bàng quan tại các ngưỡng**.
+
+Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)) áp các ý này vào trò chơi jam-or-fold no-limit; Chương 13 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)) dùng phân phối rời rạc ba lá A, K, Q; Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) tổng quát α = s/(1 + s) cho việc chọn mức cược no-limit; Chương 15–18 ([C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md), [C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md), [C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md)) mở rộng [0,1] Game #2 của chương này sang full-street và nhiều lần raise.
+
+## Lưu ý
+
+- **Sai chiều bất đẳng thức (Example 11.3, trang 120):** sách viết (P + 1)y₁ − (P + 2)x₁* > 0 rồi suy ra "x₁* > y₁(P + 1)/(P + 2)". Chia hai vế cho (P + 2) phải được **x₁* < y₁(P + 1)/(P + 2)**: X call với mọi bài mạnh hơn ngưỡng y₁(P + 1)/(P + 2), nên ngưỡng call là x₁* = y₁(P + 1)/(P + 2). Câu tiếp theo "tỷ lệ giữa số cược của Y và số call của X là (P + 1)/(P + 2)" cũng đảo: đúng là tỷ lệ dải call của X trên dải cược của Y, x₁*/y₁ = (P + 1)/(P + 2). Ví dụ của chính sách (pot 1, ngưỡng nằm ở 2/3 quãng từ 0 tới y₁) khớp với cách hiểu đúng.
+- **Thiếu dấu trừ (bảng của Example 11.2, trang 118):** dòng "[0, y] — 1 (Y cược và X call với bài tốt hơn)" phải là **−1**; phép tính ngay dưới dùng đúng (−1).
+- **Bảng bàng quan tại y₀ (trang 123):** cột xác suất của dòng [y₀, 1] in "1 − x₁*", đúng phải là **1 − y₀**; ô tích của dòng [0, x₁*] in "−x₁", đúng là −x₁*. Cả hai không ảnh hưởng kết quả vì dòng [y₀, 1] có kỳ vọng 0.
+- **Trích sai số phương trình (trang 123):** "Recalling from Equation 11.3 that 1 − y₀ = αy₁" — đẳng thức này là **Phương trình 11.4**; Phương trình 11.3 là α = s/(1 + s).
+- **Câu khó hiểu về bluff ở bài 1 (trang 124):** sách nói kỳ vọng của Y khi bluff với bài 1 "bằng kỳ vọng tại y₀ vì X chỉ call với bài *trên* x₁*". X call với bài *mạnh hơn* x₁*, tức trong [0, x₁*] (trên hình của sách là phần *dưới* x₁*). Ý đúng: khi cược, Y với bài 1 và Y với bài y₀ gặp cùng tập bài call của X nên kết quả cược như nhau; nhưng nếu check, bài y₀ còn thắng showdown trước bài X tệ hơn y₀ (trong khi bài 1 không thắng gì), nên so với check, bluff bằng bài 1 có lợi hơn.
+
+  Người tổng hợp tính: so với check, cược với bài y ∈ [y₀, 1] có giá trị −x₁* + P(y − x₁*), tăng theo y, bằng 0 tại y₀ và bằng P(1 − y₀) tại y = 1.
+- **Tên sách của von Neumann và Morgenstern (trang 123):** sách in "John von Neumann and Oskar Morganstern … *Gam Theory and Economic Behavior* (1944)". Đúng là Oskar **Morgenstern**, *Theory of Games and Economic Behavior* (1944).
+- **Ký hiệu ngưỡng (trang 120):** lớp chữ và cả bản in viết "X₀" và "Xₙ*" bằng chữ hoa ở hai gạch đầu dòng; theo ngữ cảnh là x₀ (ngưỡng giữa bluff và check) và xₙ* (ngưỡng giữa call cược thứ n và fold). Câu "Game #1 strategy … y₁, since Y is betting hands above that for value" dùng "above" theo nghĩa ngược với trục: Y value bet các bài *mạnh hơn* (số nhỏ hơn) y₁.
+- **Lỗi đánh máy và lớp chữ:** "hands that b cat X's hand" (beat), "Y wins p bets" (P), "both then opponent's cards" (their), "Anon-optimal" (A non-optimal), "Key Concepts: α = 1(P+ 1)" (1/(P + 1)), "calls to often" (too often), "hi a precise ratio" (in). Lớp chữ làm phẳng chỉ số (y1, x1*, α2y1 là y₁, x₁*, α²y₁) và phân số (12, 13, 23, 14 là 1/2, 1/3, 2/3, 1/4); đã đọc lại từ ảnh trang.
+- **Hình vẽ không ghi số:** Hình 11.1 vẽ y₁ = 0,5. Người tổng hợp đọc từ trục: Hình 11.2 (chiến lược không tối ưu) có y₁ ≈ 0,5 và x₁* ≈ 0,33, khớp với pot P = 1 (x₁* = y₁ × 2/3); Hình 11.3 (chiến lược tối ưu) có y₁ ≈ 0,3, x₁* ≈ 0,6, y₀ ≈ 0,9, khớp chính xác với nghiệm khi P = 2 (y₁ = 0,3; x₁* = 0,6; y₀ = 0,9), tức hình được vẽ cho pot 2 cược, dù lời văn không nói.
+- **Sách không tính giá trị của [0,1] Game #2.** Người tổng hợp tính (bảng ở mục 7): với P = 1 giá trị là 1/18 ≈ 0,056 cược; P = 2 là 0,1 cược.
+- **Quy ước:** "bet" là cược; "value bet" giữ nguyên; bài thắng chắc gọi là nuts, bài thua chắc gọi là bài chết (dead hand). Trong phân phối [0,1], số **nhỏ** là bài **mạnh**. P là kích thước pot tính theo đơn vị cược (limit); s là kích thước cược tính theo đơn vị pot (no-limit).

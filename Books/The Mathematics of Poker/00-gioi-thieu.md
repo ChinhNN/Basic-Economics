@@ -1,19 +1,26 @@
 # Giới thiệu — Lời cảm ơn, Lời tựa và Giới thiệu (Acknowledgments, Foreword, Introduction)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), phần "Acknowledgments" (trang 6), "Foreword" của Chris Ferguson (trang 7), trang đề từ của phần "Introduction" (trang 8) và phần "Introduction" (trang 9–14). Số trang ghi theo số in ở chân trang của bản PDF 390 trang dựng lại bằng LibreOffice (2016); các trang 1–5 là bìa, danh sách sách cùng nhà xuất bản, trang bản quyền và mục lục.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006). Lời tựa do Chris "Jesus" Ferguson viết, nhà vô địch giải chính (Main Event) World Series of Poker năm 2000.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là phần mở cửa của cả cuốn sách. Lời tựa của Ferguson nói rằng chưa có cuốn sách nào nối lý thuyết trò chơi với poker; phần Giới thiệu nêu lập trường của hai tác giả: mọi người chơi poker đều đang dùng một mô hình, dù có ý thức hay không, nên tốt hơn hết là dùng toán học để làm mô hình đó chính xác. Phần Giới thiệu bác bỏ năm ngộ nhận về cách chơi bằng toán, xác định phạm vi (bỏ qua tell vật lý, chỉ dùng toán cấp trung học là chủ yếu), và trình bày lộ trình năm phần của sách: Phần I Cơ bản — xác suất, kỳ vọng, phương sai, định lý Bayes ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md), [C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md), [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)); Phần II Chơi khai thác — trò chơi đồ chơi, bài lật ngửa, tay bài đấu phân phối, phân phối đấu phân phối ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md) tới [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)); Phần III Chơi tối ưu — lý thuyết trò chơi, trò chơi AKQ, trò chơi [0,1], lời giải jam-or-fold cho no-limit hold'em hai người chồng chip ngắn ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md) tới [C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)); Phần IV Rủi ro — rủi ro phá sản, tiêu chuẩn Kelly, lý thuyết danh mục ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md) tới [C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)); Phần V Chủ đề khác — giải đấu, trò chơi nhiều người và triết lý chơi của tác giả ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md) tới [C30-ket-hop-tat-ca.md](C30-ket-hop-tat-ca.md)). Chương 1 bắt đầu ngay bằng việc chọn tiền thắng trong ván làm thước đo thay cho độ thoả dụng, đúng với lời khuyên "tối đa hoá lợi nhuận trung bình" của phần Giới thiệu.
-**Ý chính:** **Poker đang đi qua cùng cuộc chuyển đổi mà thị trường trái phiếu, quyền chọn và môn backgammon đã trải qua: người chơi dựa vào kinh nghiệm và trực giác bị thay thế dần bởi người dùng phân tích định lượng; vì mọi quyết định poker đều ngầm chứa một mô hình, cách tốt nhất là làm mô hình đó tường minh bằng toán học, và lời khuyên duy nhất không đổi qua mọi điều kiện ván chơi là "tối đa hoá lợi nhuận trung bình".** Lời cảm ơn kể nguồn gốc cuốn sách: ý tưởng ban đầu của Bill Chen, Chuck Weinstock và Andrew Latto là một cuốn giáo trình hình thức, về sau đổi thành một cuốn dễ đọc hơn cho người có nền toán vừa phải. Lời tựa của Chris Ferguson nhấn mạnh rằng "toán không nói dối" (hai tác giả có bảy lần vào vùng có thưởng ở WSOP 2006, trong đó Bill Chen thắng hai giải và Jerrod Ankenman về nhì một giải), rằng tranh cãi sẽ không phải là tác giả có giỏi toán không mà là toán có quan trọng không, và rằng đây là cuốn đầu tiên nối poker với lý thuyết trò chơi. Phần Giới thiệu bác bỏ năm ngộ nhận: (1) phân tích quá khứ của đối thủ cho lợi thế vĩnh viễn — sai, vì đối thủ thích nghi (tác giả gọi đây là "lý thuyết PlayStation về poker"); (2) chơi theo toán thì dễ đoán và thiếu sáng tạo — sai, vì chiến lược tối ưu được **cân bằng** (balance) nên dễ đoán không có nghĩa là bị khai thác được; (3) có lúc "con số phải vứt ra cửa sổ" — sai, vì định lý Bayes cho phép đưa "read" vào tính toán chính xác hơn cảm giác; (4) chiến lược tối ưu của poker thật không giải được nên chỉ cần chơi khai thác — chưa đúng, vì vẫn có thể chơi gần tối ưu và đo khoảng cách tới tối ưu bằng chiến lược trả đũa tối đa; (5) mỗi loại ván (online, giải đấu, mức cược cao, mức cược thấp) đòi chiến lược khác hẳn — sai, vì hành động thay đổi theo đối thủ nhưng chiến lược tổng quát vẫn là chọn hành động có lợi nhất (ví dụ A9s ở button: raise khi sáu người limp ở ván limit nhỏ, fold khi có raise từ vị trí giữa ở ván cao, raise khi mọi người fold tới mình ở giải đấu). Về tâm lý, tác giả không phủ nhận giá trị của tâm lý học mà coi nó là nguồn giả định đưa vào mô hình; một khi giả định đã được đặt ra, toán học quyết định hành động. Sách nhắm tới người đã có kinh nghiệm chơi, từ người chơi khá tới người cầm nhiều vòng WSOP, chỉ đòi đại số trung học là chủ yếu, có ký hiệu đánh dấu đoạn toán khó để bỏ qua và hộp nền xám cho lời giải ví dụ. Sách khác các sách poker khác ở ba điểm: nhấn mạnh phương pháp định lượng, nhìn **chiến lược** cả ván thay vì từng quyết định riêng lẻ ("đọc bài của chính mình"), và dạy cách *nghĩ* về poker chứ không dạy cách chơi; công cụ chính là **trò chơi đồ chơi** (toy game) — trò chơi nhỏ, giải được, mỗi trò chơi tách riêng một khía cạnh của poker.
+## Ý chính
 
-> **Lưu ý:**
-> - **Số trang:** mục lục in trong sách (trang 4–5) dùng số trang của bản in gốc 2006 và lệch so với chân trang của bản PDF này: mục lục ghi Lời cảm ơn ở trang 5, Lời tựa trang 6, Giới thiệu trang 8 và Chương 1 trang 15, còn chân trang của PDF cho Lời cảm ơn ở trang 6, Lời tựa trang 7, trang đề từ Giới thiệu trang 8, phần chữ Giới thiệu trang 9–14, trang mở Phần I trang 15 và Chương 1 trang 16. Độ lệch tăng dần ở các chương sau (mục lục ghi Chương 30 ở trang 359, chân trang của PDF ghi 382), vì bản dựng lại dàn trang thưa hơn bản in. Bản tổng hợp này luôn dùng số ở chân trang.
-> - **Ký hiệu đánh dấu đoạn toán khó bị mất:** trang 11 viết "Just look for this icon for guidance" (hãy tìm biểu tượng này), nhưng trong bản PDF dựng lại không có biểu tượng nào ở chỗ đó (người tổng hợp đã xem ảnh trang). Hộp nền xám có viền gạch đứt cho lời giải ("Solution:") thì vẫn còn.
-> - **Lỗi chính tả của bản dựng lại hoặc của sách:** trang 11 viết "Mike Garo"; đúng là Mike Caro, người được nhắc lại đúng tên ở trang 12 là tác giả của trò chơi AKQ trên tạp chí *Card Player*. Trang 12–13 viết "Oskar Morganstem"; đúng là Oskar Morgenstern, đồng tác giả cuốn *Theory of Games and Economic Behavior* (1944) với John von Neumann; dấu ngoặc kép quanh tên sách cũng không được đóng.
-> - **Tên Phần IV không thống nhất:** mục lục gọi là "Part IV: Risk", phần Giới thiệu (trang 13) gọi là "Part IV: Bankroll and Risk". Trang mở Phần IV ở trang 291 thuộc phạm vi của [C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md).
-> - **Lỗi nhận dạng chữ nằm ngay trong bản PDF:** bản dựng lại được chép từ một bản quét qua nhận dạng ký tự, nên nhiều lỗi có mặt cả trên ảnh trang chứ không chỉ trong lớp chữ: "wc" là "we", "*The Mathematics of' Poker*" thừa dấu nháy, "in a short period of rime" là "time", "Conjelco" là "ConJelCo" (trang 6); "stored m an information retrieval system" là "stored in" (trang 3); "you arc dealt" là "you are dealt" (trang 10). Tên "Path Beadles" (trang 6) có lẽ là "Patti Beadles"; người tổng hợp không chắc nên giữ nguyên như bản PDF.
-> - **"*ARG community":** trang 6 nhắc tới "cộng đồng *ARG" mà không giải thích; người tổng hợp giữ nguyên tên này, không đoán nghĩa.
-> - **Câu "chiến lược tối ưu không tồn tại trong trò chơi nhiều người" (ngộ nhận 4, trang 10) là cách nói mạnh (nhận xét của người tổng hợp):** theo định lý Nash (1950), mọi trò chơi hữu hạn, kể cả nhiều người, đều có ít nhất một cân bằng Nash. Điều không còn đúng khi có từ ba người trở lên là: cân bằng có thể không duy nhất, và chơi theo một cân bằng không bảo đảm kết quả kỳ vọng không âm, vì hai đối thủ có thể (cố ý hoặc vô tình) phối hợp với nhau. Sách sẽ giải thích ý này ở [C29-tro-choi-nhieu-nguoi.md](C29-tro-choi-nhieu-nguoi.md).
-> - **Quy ước thuật ngữ:** "exploitive play" dịch là "chơi khai thác"; "optimal play" dịch là "chơi tối ưu" và "optimal strategy" là "chiến lược tối ưu" (trong sách nghĩa là chiến lược của một cân bằng Nash trong trò chơi hai người tổng bằng không); "maximally exploiting" là "khai thác tối đa", và chiến lược làm việc đó là "chiến lược trả đũa tối đa"; "toy game" dịch là "trò chơi đồ chơi" (trò chơi thu nhỏ để phân tích).
+**Poker đang đi qua cùng cuộc chuyển đổi mà thị trường trái phiếu, quyền chọn và môn backgammon đã trải qua: người chơi dựa vào kinh nghiệm và trực giác bị thay thế dần bởi người dùng phân tích định lượng; vì mọi quyết định poker đều ngầm chứa một mô hình, cách tốt nhất là làm mô hình đó tường minh bằng toán học, và lời khuyên duy nhất không đổi qua mọi điều kiện ván chơi là "tối đa hoá lợi nhuận trung bình".**
+
+Lời cảm ơn kể nguồn gốc cuốn sách: ý tưởng ban đầu của Bill Chen, Chuck Weinstock và Andrew Latto là một cuốn giáo trình hình thức, về sau đổi thành một cuốn dễ đọc hơn cho người có nền toán vừa phải.
+
+Lời tựa của Chris Ferguson nhấn mạnh rằng "toán không nói dối" (hai tác giả có bảy lần vào vùng có thưởng ở WSOP 2006, trong đó Bill Chen thắng hai giải và Jerrod Ankenman về nhì một giải), rằng tranh cãi sẽ không phải là tác giả có giỏi toán không mà là toán có quan trọng không, và rằng đây là cuốn đầu tiên nối poker với lý thuyết trò chơi.
+
+Phần Giới thiệu bác bỏ năm ngộ nhận:
+
+- Phân tích quá khứ của đối thủ cho lợi thế vĩnh viễn — sai, vì đối thủ thích nghi (tác giả gọi đây là "lý thuyết PlayStation về poker").
+- Chơi theo toán thì dễ đoán và thiếu sáng tạo — sai, vì chiến lược tối ưu được **cân bằng** (balance) nên dễ đoán không có nghĩa là bị khai thác được.
+- Có lúc "con số phải vứt ra cửa sổ" — sai, vì định lý Bayes cho phép đưa "read" vào tính toán chính xác hơn cảm giác.
+- Chiến lược tối ưu của poker thật không giải được nên chỉ cần chơi khai thác — chưa đúng, vì vẫn có thể chơi gần tối ưu và đo khoảng cách tới tối ưu bằng chiến lược trả đũa tối đa.
+- Mỗi loại ván (online, giải đấu, mức cược cao, mức cược thấp) đòi chiến lược khác hẳn — sai, vì hành động thay đổi theo đối thủ nhưng chiến lược tổng quát vẫn là chọn hành động có lợi nhất (ví dụ A9s ở button: raise khi sáu người limp ở ván limit nhỏ, fold khi có raise từ vị trí giữa ở ván cao, raise khi mọi người fold tới mình ở giải đấu).
+
+Về tâm lý, tác giả không phủ nhận giá trị của tâm lý học mà coi nó là nguồn giả định đưa vào mô hình; một khi giả định đã được đặt ra, toán học quyết định hành động.
+
+Sách nhắm tới người đã có kinh nghiệm chơi, từ người chơi khá tới người cầm nhiều vòng WSOP, chỉ đòi đại số trung học là chủ yếu, có ký hiệu đánh dấu đoạn toán khó để bỏ qua và hộp nền xám cho lời giải ví dụ.
+
+Sách khác các sách poker khác ở ba điểm: nhấn mạnh phương pháp định lượng, nhìn **chiến lược** cả ván thay vì từng quyết định riêng lẻ ("đọc bài của chính mình"), và dạy cách *nghĩ* về poker chứ không dạy cách chơi. Công cụ chính là **trò chơi đồ chơi** (toy game) — trò chơi nhỏ, giải được, mỗi trò chơi tách riêng một khía cạnh của poker.
 
 ## Sơ đồ
 
@@ -317,7 +324,9 @@ Hai tác giả mở đầu bằng việc nói rằng một cuốn sách như th�
 
 Những người đọc bản thảo và góp ý nhiều nhất là Andrew Bloch, Andrew Prock và Andrew Latto, những người rà kỹ từng phần, phê bình và đề xuất cải tiến. Công cụ PokerStove của Andrew Prock được dùng để tính nhiều phép tính equity (phần pot mà mỗi tay bài được hưởng trung bình nếu chơi tới showdown — lúc lật bài so thắng thua). Paul R. Pudaite và Michael Maurer cũng đọc bản thảo. Jeff Yass ở Susquehanna International Group (SIG) được cảm ơn vì đã cho Bill Chen thời gian làm việc về poker và tham gia World Series; các đồng nghiệp ở SIG là Doug Costa, Dan Loeb, Jay Siplestien và Alexei Dvoretskii góp ý.
 
-Tác giả học được nhiều qua trò chuyện với cộng đồng poker, đặc biệt là Matt Hawrilenko (bạn và đối tác) và Chris Ferguson (cựu vô địch WSOP), cùng các thành viên cộng đồng *ARG trong các buổi thảo luận bàn tròn: Sabyl Cohen, Jack Mahalingam, JP Massar, Path Beadles, Steve Landrum và Spencer Sun (người thắng giải Tournament of Champions năm 1999). Biên tập viên Sarah Jennings cải thiện cuốn sách đáng kể trong thời gian ngắn nhờ chịu khó đọc các phương trình và phàn nàn về những bước tính bị bỏ qua quá thường xuyên. Chuck Weinstock ở ConJelCo kiên nhẫn với các lần chậm hạn của những tác giả mà viết lách chỉ là nghề phụ. Cuối cùng là lời cảm ơn gia đình: cha của Bill Chen, tiến sĩ An-Ban Chen (nhà vật lý chất rắn), mẹ của Jerrod là Judy, Michelle Lancaster (người ủng hộ Jerrod) và Patricia Walters (người ủng hộ Bill; sách hoàn thành trong ba năm bà quen Bill).
+Tác giả học được nhiều qua trò chuyện với cộng đồng poker, đặc biệt là Matt Hawrilenko (bạn và đối tác) và Chris Ferguson (cựu vô địch WSOP), cùng các thành viên cộng đồng *ARG trong các buổi thảo luận bàn tròn: Sabyl Cohen, Jack Mahalingam, JP Massar, Path Beadles, Steve Landrum và Spencer Sun (người thắng giải Tournament of Champions năm 1999).
+
+Biên tập viên Sarah Jennings cải thiện cuốn sách đáng kể trong thời gian ngắn nhờ chịu khó đọc các phương trình và phàn nàn về những bước tính bị bỏ qua quá thường xuyên. Chuck Weinstock ở ConJelCo kiên nhẫn với các lần chậm hạn của những tác giả mà viết lách chỉ là nghề phụ. Cuối cùng là lời cảm ơn gia đình: cha của Bill Chen, tiến sĩ An-Ban Chen (nhà vật lý chất rắn), mẹ của Jerrod là Judy, Michelle Lancaster (người ủng hộ Jerrod) và Patricia Walters (người ủng hộ Bill; sách hoàn thành trong ba năm bà quen Bill).
 
 ### 2. Lời tựa của Chris Ferguson (Foreword, trang 7)
 
@@ -353,13 +362,21 @@ Lập luận nền tảng: **mọi người chơi poker đều đang dùng một
 
 Tác giả thường gặp những người gạt bỏ cách tiếp cận toán học ngay từ đầu vì hiểu sai nó; các ngộ nhận dưới đây được chính những người chơi khá hiểu biết nói ra. Tác giả phản bác ngắn từng ngộ nhận, và hứa sẽ phản bác thêm qua các phân tích trong sách.
 
-**Ngộ nhận 1: Phân tích những gì đã xảy ra — đối thủ, xu hướng của họ… — cho ta một lợi thế lâu dài và lặp lại.** Ngộ nhận này nguy hiểm vì nghe rất hợp lý: đúng là ta có lợi thế khi biết chiến lược của đối thủ và khai thác nó. Nhưng lợi thế đó chỉ tạm thời: đối thủ, kể cả những người ta cho là chơi kém, thích nghi và tiến hoá bằng cách giảm số lượng và mức độ của các lỗi rõ ràng và tìm cách khai thác ngược lại ta. Tác giả đặt tên cho ngộ nhận này là **"lý thuyết PlayStation™ về poker"** — niềm tin rằng thế giới poker đầy những người chơi một chiến lược cố định, giống nhân vật trong trò chơi điện tử, và mục tiêu chỉ là tối đa hoá lợi nhuận trước các chiến lược cố định đó. Thực ra chiến lược của đối thủ thay đổi liên tục, nên ta cũng phải thay đổi; không lợi thế nào nhất thiết là vĩnh viễn.
+**Ngộ nhận 1: Phân tích những gì đã xảy ra — đối thủ, xu hướng của họ… — cho ta một lợi thế lâu dài và lặp lại.** Ngộ nhận này nguy hiểm vì nghe rất hợp lý: đúng là ta có lợi thế khi biết chiến lược của đối thủ và khai thác nó. Nhưng lợi thế đó chỉ tạm thời: đối thủ, kể cả những người ta cho là chơi kém, thích nghi và tiến hoá bằng cách giảm số lượng và mức độ của các lỗi rõ ràng và tìm cách khai thác ngược lại ta.
 
-**Ngộ nhận 2: Chơi theo toán thì dễ đoán và thiếu sáng tạo.** Theo một nghĩa nào đó thì đúng: nếu một người chơi theo chiến lược tối ưu của một trò chơi, chiến lược của họ là "dễ đoán" — nhưng đối thủ không làm được gì với thông tin đó. Ở các phần sau, sách giới thiệu khái niệm **cân bằng**: mỗi chuỗi hành động chứa một hỗn hợp tay bài khiến đối thủ không khai thác được chiến lược. Chơi tối ưu bao gồm một hỗn hợp được hiệu chỉnh chính xác giữa **bluff** (cược với tay yếu để đối thủ bỏ bài tốt hơn), **semi-bluff** (cược với tay chưa mạnh nhưng có cơ hội cải thiện) và **value bet** (cược với tay mạnh để được tay yếu hơn call), làm nó trông hoàn toàn khó đoán. "Dễ đoán" thường được hiểu là "khai thác được", nhưng không nhất thiết như vậy. Nếu một người chơi mỗi lần raise đều có AA, điều đó dễ đoán và khai thác được. Còn nếu một người chơi luôn raise khi có AA, điều đó không nhất thiết khai thác được, miễn là họ cũng raise với một số tay khác: đối thủ không khai thác được các chuỗi hành động có chứa tay khác, vì không biết người đó có AA hay không.
+Tác giả đặt tên cho ngộ nhận này là **"lý thuyết PlayStation™ về poker"** — niềm tin rằng thế giới poker đầy những người chơi một chiến lược cố định, giống nhân vật trong trò chơi điện tử, và mục tiêu chỉ là tối đa hoá lợi nhuận trước các chiến lược cố định đó. Thực ra chiến lược của đối thủ thay đổi liên tục, nên ta cũng phải thay đổi; không lợi thế nào nhất thiết là vĩnh viễn.
 
-**Ngộ nhận 3: Toán không phải lúc nào cũng áp dụng được; đôi khi "con số phải vứt ra cửa sổ".** Ngộ nhận này gắn với ý nghĩ rằng mỗi tình huống chỉ có một nước đi đúng về mặt toán học: người chơi cho rằng ngay cả khi chơi khai thác vẫn có một nước đi toán học đúng, nhưng họ có một "read" khiến họ thích nước đi khác. Đó chỉ là định nghĩa hẹp của "chơi theo toán". Đưa thông tin mới vào hiểu biết của ta về phân phối tay bài của đối thủ và dùng nó để chơi chính xác hơn chính là chủ đề lớn của Phần II. Toán học có công cụ — đáng chú ý là **định lý Bayes** — để đo chính xác thông tin mới tác động đến suy nghĩ của ta bao nhiêu; chơi bằng toán đưa "read" vào quyết định chính xác hơn chơi bằng "cảm giác".
+**Ngộ nhận 2: Chơi theo toán thì dễ đoán và thiếu sáng tạo.** Theo một nghĩa nào đó thì đúng: nếu một người chơi theo chiến lược tối ưu của một trò chơi, chiến lược của họ là "dễ đoán" — nhưng đối thủ không làm được gì với thông tin đó. Ở các phần sau, sách giới thiệu khái niệm **cân bằng**: mỗi chuỗi hành động chứa một hỗn hợp tay bài khiến đối thủ không khai thác được chiến lược. Chơi tối ưu bao gồm một hỗn hợp được hiệu chỉnh chính xác giữa **bluff** (cược với tay yếu để đối thủ bỏ bài tốt hơn), **semi-bluff** (cược với tay chưa mạnh nhưng có cơ hội cải thiện) và **value bet** (cược với tay mạnh để được tay yếu hơn call), làm nó trông hoàn toàn khó đoán.
 
-**Ngộ nhận 4: Chơi tối ưu là bài toán không giải được với poker thật, nên chỉ cần chơi khai thác.** Tác giả coi đây là ý quan trọng. Đúng là hiện chưa có đủ sức tính toán để giải hold'em hai người (headsup) hay các trò chơi phức tạp tương tự (Phần III sẽ nói "giải" một trò chơi nghĩa là gì). Có những phương pháp được biết là tìm ra đáp án, nhưng chúng không chạy xong trên máy tính hiện đại trong thời gian hợp lý. Theo sách, chơi "tối ưu" thậm chí không tồn tại trong trò chơi nhiều người (xem khối Lưu ý về cách nói này). Nhưng điều đó không ngăn ta làm hai việc: (a) xây dựng chiến lược có nhiều tính chất của chiến lược tối ưu, nhờ đó chơi "gần tối ưu"; (b) đánh giá các chiến lược ứng viên và tìm xem chúng cách tối ưu bao xa bằng cách khai thác tối đa chúng.
+"Dễ đoán" thường được hiểu là "khai thác được", nhưng không nhất thiết như vậy. Nếu một người chơi mỗi lần raise đều có AA, điều đó dễ đoán và khai thác được. Còn nếu một người chơi luôn raise khi có AA, điều đó không nhất thiết khai thác được, miễn là họ cũng raise với một số tay khác: đối thủ không khai thác được các chuỗi hành động có chứa tay khác, vì không biết người đó có AA hay không.
+
+**Ngộ nhận 3: Toán không phải lúc nào cũng áp dụng được; đôi khi "con số phải vứt ra cửa sổ".** Ngộ nhận này gắn với ý nghĩ rằng mỗi tình huống chỉ có một nước đi đúng về mặt toán học: người chơi cho rằng ngay cả khi chơi khai thác vẫn có một nước đi toán học đúng, nhưng họ có một "read" khiến họ thích nước đi khác. Đó chỉ là định nghĩa hẹp của "chơi theo toán".
+
+Đưa thông tin mới vào hiểu biết của ta về phân phối tay bài của đối thủ và dùng nó để chơi chính xác hơn chính là chủ đề lớn của Phần II. Toán học có công cụ — đáng chú ý là **định lý Bayes** — để đo chính xác thông tin mới tác động đến suy nghĩ của ta bao nhiêu; chơi bằng toán đưa "read" vào quyết định chính xác hơn chơi bằng "cảm giác".
+
+**Ngộ nhận 4: Chơi tối ưu là bài toán không giải được với poker thật, nên chỉ cần chơi khai thác.** Tác giả coi đây là ý quan trọng. Đúng là hiện chưa có đủ sức tính toán để giải hold'em hai người (headsup) hay các trò chơi phức tạp tương tự (Phần III sẽ nói "giải" một trò chơi nghĩa là gì). Có những phương pháp được biết là tìm ra đáp án, nhưng chúng không chạy xong trên máy tính hiện đại trong thời gian hợp lý. Theo sách, chơi "tối ưu" thậm chí không tồn tại trong trò chơi nhiều người (xem mục Lưu ý cuối bài về cách nói này).
+
+Nhưng điều đó không ngăn ta làm hai việc: (a) xây dựng chiến lược có nhiều tính chất của chiến lược tối ưu, nhờ đó chơi "gần tối ưu"; (b) đánh giá các chiến lược ứng viên và tìm xem chúng cách tối ưu bao xa bằng cách khai thác tối đa chúng.
 
 **Ngộ nhận 5: Khi chơi [online, trong giải đấu, ở ván mức cược cao, ở ván mức cược thấp…], phải thay đổi chiến lược hoàn toàn mới thắng được.** Ngộ nhận này là một phần của sự hiểu lầm rộng hơn về "chiến lược". Đúng là trong một số tình huống phải hành động khác để thành công, nhất là khi chơi khai thác. Nhưng nguyên nhân không phải các trò chơi khác nhau về bản chất, mà là người chơi khác nhau chơi khác nhau, nên cách ta đáp lại họ mang hình thức khác nhau. Ví dụ: ta được chia **A9s** (át và chín cùng chất) ở vị trí **button** (vị trí người chia bài, hành động sau cùng ở các vòng sau flop) trong một ván hold'em bàn đầy:
 
@@ -377,7 +394,9 @@ Tác giả tóm lại: sách bàn rất nhiều chủ đề poker, nhưng toàn 
 
 Khi gặp câu hỏi khó, các tác giả sách poker hay lùi về câu quen thuộc "Còn tuỳ" — tuỳ đối thủ, tuỳ "read"… Chắc chắn hành động có lợi nhất trong nhiều tình huống phụ thuộc vào cảm nhận, dù bằng trực giác hay toán học, về việc đối thủ đang cầm gì (hoặc có thể cầm gì). Nhưng lối lập luận định tính đi kèm câu "Còn tuỳ" thường thiếu một câu trả lời thật hoặc một phương pháp đi tới hành động. Thực tế câu trả lời đúng là phụ thuộc vào giả định, và xu hướng cùng tell của đối thủ là điều những người hợp lý có thể bất đồng. **Nhưng một khi đã mô tả lối chơi của đối thủ thành các giả định, phương pháp toán học tiếp quản, và trực giác không còn là kim chỉ nam cho cách chơi đúng.**
 
-Có người có thể hiểu khẳng định "lập luận định lượng vượt trực giác" thành "tâm lý học trong poker vô giá trị". Tác giả không nghĩ vậy. Tâm lý học có thể là công cụ vô giá cho chơi khai thác, và các giả định đưa vào mô hình toán thường mang tính tâm lý mạnh. Điều sách quan tâm là cách dùng thông tin mà trực giác hoặc khả năng đọc người đem lại. Sách cũng dành thời gian cho câu hỏi nên làm gì khi không thu được thông tin đó, và vạch ra một số giả định sai thường làm hỏng nỗ lực thu thập thông tin bằng trực giác. Ngoài vài mục cụ thể, sách bỏ qua tell vật lý và việc phân loại đối thủ, vì cho rằng các chủ đề này nằm ngoài phạm vi và đã được các tác giả khác trình bày đầy đủ hơn, nhất là Mike Caro.
+Có người có thể hiểu khẳng định "lập luận định lượng vượt trực giác" thành "tâm lý học trong poker vô giá trị". Tác giả không nghĩ vậy. Tâm lý học có thể là công cụ vô giá cho chơi khai thác, và các giả định đưa vào mô hình toán thường mang tính tâm lý mạnh.
+
+Điều sách quan tâm là cách dùng thông tin mà trực giác hoặc khả năng đọc người đem lại. Sách cũng dành thời gian cho câu hỏi nên làm gì khi không thu được thông tin đó, và vạch ra một số giả định sai thường làm hỏng nỗ lực thu thập thông tin bằng trực giác. Ngoài vài mục cụ thể, sách bỏ qua tell vật lý và việc phân loại đối thủ, vì cho rằng các chủ đề này nằm ngoài phạm vi và đã được các tác giả khác trình bày đầy đủ hơn, nhất là Mike Caro.
 
 ### 6. Về cuốn sách này (About This Book, trang 11–12)
 
@@ -400,9 +419,13 @@ Sách hướng tới nhiều loại người chơi, từ người có ít kinh n
 
 **Phần I: Cơ bản (Basics)** giới thiệu các khái niệm chung áp dụng cho mọi hình thức cờ bạc và mọi tình huống ra quyết định dưới rủi ro. Sách bắt đầu bằng **xác suất**, khái niệm cốt lõi của poker; rồi **phân phối xác suất**, một trừu tượng hoá cho phép phân tích tình huống có rất nhiều kết cục, mỗi kết cục có xác suất riêng; từ đó định nghĩa **kỳ vọng** (expected value), đại lượng cần tối đa hoá trong poker. Phần này cũng giới thiệu các khái niệm thống kê có ứng dụng cụ thể trong poker, trong đó có một trong những khái niệm mạnh nhất của thống kê: **định lý Bayes**.
 
-**Phần II: Chơi khai thác (Exploitive Play)** bắt đầu phân tích poker. Sách giới thiệu khái niệm **trò chơi đồ chơi** — một trò chơi nhỏ hơn, đơn giản hơn, giải được, để có hiểu biết về các trò chơi tương tự nhưng phức tạp hơn. Trước tiên là poker với bài lật ngửa: trong nhiều tình huống cách chơi khá hiển nhiên, nhưng cũng có những tình huống thú vị với tính chất ngược trực giác giúp hiểu trò chơi đầy đủ. Tiếp theo là điều nhiều tác giả coi là trái tim của poker: chơi một tay bài đấu một phân phối tay bài của đối thủ và cố khai thác chiến lược của họ, tức tối đa hoá phần thắng trước lối chơi của họ — chủ đề của tuyệt đại đa số sách poker. Sách đi xa hơn tới trường hợp mà tác giả coi là quan trọng hơn nhiều: không chỉ chơi một tay bài đấu đối thủ, mà chơi **cả một phân phối tay bài của mình đấu phân phối tay bài của đối thủ**. Tác giả khẳng định chính cách nhìn này dẫn tới lối chơi thực sự mạnh.
+**Phần II: Chơi khai thác (Exploitive Play)** bắt đầu phân tích poker. Sách giới thiệu khái niệm **trò chơi đồ chơi** — một trò chơi nhỏ hơn, đơn giản hơn, giải được, để có hiểu biết về các trò chơi tương tự nhưng phức tạp hơn. Trước tiên là poker với bài lật ngửa: trong nhiều tình huống cách chơi khá hiển nhiên, nhưng cũng có những tình huống thú vị với tính chất ngược trực giác giúp hiểu trò chơi đầy đủ. Tiếp theo là điều nhiều tác giả coi là trái tim của poker: chơi một tay bài đấu một phân phối tay bài của đối thủ và cố khai thác chiến lược của họ, tức tối đa hoá phần thắng trước lối chơi của họ — chủ đề của tuyệt đại đa số sách poker.
 
-**Phần III: Chơi tối ưu (Optimal Play)** là phần lớn nhất và quan trọng nhất. Phần này giới thiệu **lý thuyết trò chơi**, nhánh toán cho phép tìm chiến lược tối ưu của trò chơi đơn giản và suy ra đặc điểm của chiến lược tối ưu trong trò chơi phức tạp hơn dù không giải trực tiếp được. Sách làm việc với nhiều biến thể của **trò chơi AKQ** — một trò chơi đồ chơi đơn giản mà Mike Caro giới thiệu với tác giả qua tạp chí *Card Player*. Sau đó sách dành nhiều thời gian giới thiệu và giải các **trò chơi [0,1]**, loại trò chơi do John von Neumann và Oskar Morgenstern đưa ra trong cuốn sách kinh điển về lý thuyết trò chơi *Theory of Games and Economic Behavior* (1944), nhưng phức tạp hơn nhiều và sát poker thật hơn. Sách cũng giải thích và đưa ra lời giải chơi tối ưu của **no-limit hold'em hai người với chồng chip ngắn** (short-stack headsup no-limit hold'em; no-limit là thể thức cho phép cược bất kỳ số tiền nào tới hết chồng chip).
+Sách đi xa hơn tới trường hợp mà tác giả coi là quan trọng hơn nhiều: không chỉ chơi một tay bài đấu đối thủ, mà chơi **cả một phân phối tay bài của mình đấu phân phối tay bài của đối thủ**. Tác giả khẳng định chính cách nhìn này dẫn tới lối chơi thực sự mạnh.
+
+**Phần III: Chơi tối ưu (Optimal Play)** là phần lớn nhất và quan trọng nhất. Phần này giới thiệu **lý thuyết trò chơi**, nhánh toán cho phép tìm chiến lược tối ưu của trò chơi đơn giản và suy ra đặc điểm của chiến lược tối ưu trong trò chơi phức tạp hơn dù không giải trực tiếp được.
+
+Sách làm việc với nhiều biến thể của **trò chơi AKQ** — một trò chơi đồ chơi đơn giản mà Mike Caro giới thiệu với tác giả qua tạp chí *Card Player*. Sau đó sách dành nhiều thời gian giới thiệu và giải các **trò chơi [0,1]**, loại trò chơi do John von Neumann và Oskar Morgenstern đưa ra trong cuốn sách kinh điển về lý thuyết trò chơi *Theory of Games and Economic Behavior* (1944), nhưng phức tạp hơn nhiều và sát poker thật hơn. Sách cũng giải thích và đưa ra lời giải chơi tối ưu của **no-limit hold'em hai người với chồng chip ngắn** (short-stack headsup no-limit hold'em; no-limit là thể thức cho phép cược bất kỳ số tiền nào tới hết chồng chip).
 
 **Phần IV: Vốn và rủi ro (Bankroll and Risk)** gồm nội dung quan trọng với bất kỳ ai chơi poker nghiêm túc. Sách trình bày mô hình **rủi ro phá sản** — phương pháp ước lượng xác suất mất một khoản cố định khi chơi một trò có kỳ vọng dương nhưng có phương sai — rồi mở rộng mô hình theo cách mới để tính cả độ bất định quanh mọi quan sát về tỷ lệ thắng. Phần này cũng bàn **tiêu chuẩn Kelly**, cách chọn mức cược phù hợp, và việc áp **lý thuyết danh mục** vào "metagame" của poker (các quyết định bên ngoài ván bài, như chơi ván nào, góp vốn với ai).
 
@@ -414,15 +437,23 @@ Sách hướng tới nhiều loại người chơi, từ người có ít kinh n
 
 Mỗi quyết định poker có thể xem là quy trình hai phần: **thu thập thông tin**, rồi **tổng hợp thông tin và chọn hành động đúng**. Tác giả khẳng định trực giác không có chỗ trong phần thứ hai. Khi đã có tập giả định về tình huống — đối thủ chơi thế nào, bài của ta là gì, pot lớn bao nhiêu… — việc tìm hành động đúng chỉ là tính kỳ vọng của từng phương án và chọn phương án lớn nhất.
 
-**Khác biệt thứ hai: nhấn mạnh chiến lược thay vì quyết định.** Nhiều sách poker chia ván bài thành các phần "chơi preflop" (trước khi lật ba lá chung đầu tiên), "chơi flop" (ba lá chung đầu tiên), "chơi turn" (lá chung thứ tư)… Làm vậy khó nắm được cách mà lối chơi preflop, flop, turn và river của một người gắn bó mật thiết và rốt cuộc là một phần của cùng một chiến lược. Tác giả cố nhìn ván bài theo cách "hữu cơ" hơn, trong đó việc đánh giá kỳ vọng diễn ra, trong chừng mực có thể, không phải ở từng điểm quyết định mà ở đầu ván, khi chọn trọn một chiến lược cho cả trò chơi. Tiếc là hold'em và các thể loại poker phổ biến khác cực kỳ phức tạp theo nghĩa này, nên đôi khi phải hy sinh nguyên tắc vì không tính nổi. Nhưng ý tưởng mang một chiến lược xuyên qua các vòng cược và luôn ý thức về các tay bài mình có thể đang cầm — điều mà Chris Ferguson và Paul R. Pudaite gọi là **"đọc bài của chính mình"** — là cốt yếu trong cách tác giả nhìn poker.
+**Khác biệt thứ hai: nhấn mạnh chiến lược thay vì quyết định.** Nhiều sách poker chia ván bài thành các phần "chơi preflop" (trước khi lật ba lá chung đầu tiên), "chơi flop" (ba lá chung đầu tiên), "chơi turn" (lá chung thứ tư)… Làm vậy khó nắm được cách mà lối chơi preflop, flop, turn và river của một người gắn bó mật thiết và rốt cuộc là một phần của cùng một chiến lược. Tác giả cố nhìn ván bài theo cách "hữu cơ" hơn, trong đó việc đánh giá kỳ vọng diễn ra, trong chừng mực có thể, không phải ở từng điểm quyết định mà ở đầu ván, khi chọn trọn một chiến lược cho cả trò chơi.
+
+Tiếc là hold'em và các thể loại poker phổ biến khác cực kỳ phức tạp theo nghĩa này, nên đôi khi phải hy sinh nguyên tắc vì không tính nổi. Nhưng ý tưởng mang một chiến lược xuyên qua các vòng cược và luôn ý thức về các tay bài mình có thể đang cầm — điều mà Chris Ferguson và Paul R. Pudaite gọi là **"đọc bài của chính mình"** — là cốt yếu trong cách tác giả nhìn poker.
 
 **Khác biệt thứ ba: không phải sách dạy cách chơi poker mà là sách dạy cách nghĩ về poker.** Sách đưa ra rất ít khuyến nghị cụ thể về cách chơi từng thể loại; thay vào đó, sách xem xét những vấn đề quan trọng khi xác định một chiến lược. Thay vì bản đồ chỉ đường tới cách chơi tối ưu, sách đưa ra bản đồ để nghĩ về poker tối ưu.
 
-Cách nghiên cứu cũng khác: tác giả thường làm việc với **trò chơi đồ chơi** — trò chơi nhỏ, giải được, từ đó hy vọng hiểu được trò chơi lớn và phức tạp hơn. Theo một nghĩa nào đó, trò chơi đồ chơi giúp xem xét từng "chiều" của poker và cách chiều đó ảnh hưởng tới chiến lược. Trò chơi thay đổi thế nào khi chuyển từ bài lật ngửa sang bài úp? Từ trò chơi người chơi không được fold sang trò chơi được fold? Từ trò chơi người thứ nhất luôn check (không cược, nhường lượt) sang trò chơi cả hai đều được bet (cược)? Từ một vòng cược sang hai vòng? Tác giả xem xét các tình huống này qua trò chơi đồ chơi — vì khác với poker thật, chúng giải được trên thực tế — và cố rút ra cách tiếp cận trò chơi lớn.
+Cách nghiên cứu cũng khác: tác giả thường làm việc với **trò chơi đồ chơi** — trò chơi nhỏ, giải được, từ đó hy vọng hiểu được trò chơi lớn và phức tạp hơn. Theo một nghĩa nào đó, trò chơi đồ chơi giúp xem xét từng "chiều" của poker và cách chiều đó ảnh hưởng tới chiến lược.
+
+Trò chơi thay đổi thế nào khi chuyển từ bài lật ngửa sang bài úp? Từ trò chơi người chơi không được fold sang trò chơi được fold? Từ trò chơi người thứ nhất luôn check (không cược, nhường lượt) sang trò chơi cả hai đều được bet (cược)? Từ một vòng cược sang hai vòng? Tác giả xem xét các tình huống này qua trò chơi đồ chơi — vì khác với poker thật, chúng giải được trên thực tế — và cố rút ra cách tiếp cận trò chơi lớn.
 
 ### 9. Mục tiêu của tác giả (Our Goals, trang 14)
 
-Tác giả hy vọng cách trình bày đem lại ít nhất hai điều: giúp người đọc chơi mạnh hơn và nghĩ về các tình huống poker theo cách mới; và làm điểm xuất phát cho khối lượng khổng lồ công việc nghiêm túc còn phải làm trong lĩnh vực này. Lúc viết sách, poker đang ở giai đoạn tăng trưởng then chốt: số người chơi và mức độ được xã hội chấp nhận chưa bao giờ lớn như vậy. Thế nhưng người ta vẫn phần lớn tin rằng trực giác và kinh nghiệm quyết định chất lượng lối chơi — giống thị trường trái phiếu và quyền chọn đầu thập niên 1980, khi giao dịch do các lão làng giàu cả hai phẩm chất đó thống trị. Mười năm sau, các nhà phân tích định lượng đã nắm quyền kiểm soát thị trường, còn phong cách và trực giác đi xuống. Tương tự, ngay những người được coi là mạnh nhất thế giới cũng mắc lỗi nghiêm trọng và lệch khỏi chiến lược tối ưu. Đây không phải lời chê bai mà là lời nhắc rằng khoảng cách giữa lối chơi của người giỏi nhất và lối chơi tốt nhất có thể vẫn còn lớn, nên có nhiều lợi nhuận dành cho ai lấp được khoảng cách đó.
+Tác giả hy vọng cách trình bày đem lại ít nhất hai điều: giúp người đọc chơi mạnh hơn và nghĩ về các tình huống poker theo cách mới; và làm điểm xuất phát cho khối lượng khổng lồ công việc nghiêm túc còn phải làm trong lĩnh vực này. Lúc viết sách, poker đang ở giai đoạn tăng trưởng then chốt: số người chơi và mức độ được xã hội chấp nhận chưa bao giờ lớn như vậy.
+
+Thế nhưng người ta vẫn phần lớn tin rằng trực giác và kinh nghiệm quyết định chất lượng lối chơi — giống thị trường trái phiếu và quyền chọn đầu thập niên 1980, khi giao dịch do các lão làng giàu cả hai phẩm chất đó thống trị. Mười năm sau, các nhà phân tích định lượng đã nắm quyền kiểm soát thị trường, còn phong cách và trực giác đi xuống.
+
+Tương tự, ngay những người được coi là mạnh nhất thế giới cũng mắc lỗi nghiêm trọng và lệch khỏi chiến lược tối ưu. Đây không phải lời chê bai mà là lời nhắc rằng khoảng cách giữa lối chơi của người giỏi nhất và lối chơi tốt nhất có thể vẫn còn lớn, nên có nhiều lợi nhuận dành cho ai lấp được khoảng cách đó.
 
 ## Luận điểm cốt lõi
 
@@ -464,7 +495,9 @@ Quyết định poker nên được đưa ra bằng mô hình toán học tườ
 
 ### Trong ngôn ngữ lý thuyết trò chơi và ra quyết định
 
-Phần Giới thiệu phân biệt hai bài toán: **phản ứng tốt nhất** (best response) trước một chiến lược cố định của đối thủ — chơi khai thác — và **cân bằng** của trò chơi hai người tổng bằng không — chơi tối ưu, nơi mỗi người chơi chiến lược minimax. Ngộ nhận 1 tương ứng với việc coi đối thủ là một "môi trường" cố định thay vì một tác nhân chiến lược. Ngộ nhận 2 tương ứng với khái niệm chiến lược hỗn hợp (mixed strategy): biết xác suất trộn của đối thủ không giúp khai thác được họ nếu họ đang ở cân bằng. Ngộ nhận 3 tương ứng với cập nhật Bayes cho niềm tin về loại đối thủ. Ngộ nhận 4 nêu ý "độ khai thác được" (exploitability) của một chiến lược: phần thắng kỳ vọng của phản ứng tốt nhất chống lại nó so với giá trị của trò chơi.
+Phần Giới thiệu phân biệt hai bài toán: **phản ứng tốt nhất** (best response) trước một chiến lược cố định của đối thủ — chơi khai thác — và **cân bằng** của trò chơi hai người tổng bằng không — chơi tối ưu, nơi mỗi người chơi chiến lược minimax.
+
+Ngộ nhận 1 tương ứng với việc coi đối thủ là một "môi trường" cố định thay vì một tác nhân chiến lược. Ngộ nhận 2 tương ứng với khái niệm chiến lược hỗn hợp (mixed strategy): biết xác suất trộn của đối thủ không giúp khai thác được họ nếu họ đang ở cân bằng. Ngộ nhận 3 tương ứng với cập nhật Bayes cho niềm tin về loại đối thủ. Ngộ nhận 4 nêu ý "độ khai thác được" (exploitability) của một chiến lược: phần thắng kỳ vọng của phản ứng tốt nhất chống lại nó so với giá trị của trò chơi.
 
 ## Thuật ngữ
 
@@ -578,18 +611,22 @@ Phần Giới thiệu phân biệt hai bài toán: **phản ứng tốt nhất**
 
 ### Sức mạnh của phần Giới thiệu
 
-Phần Giới thiệu đặt lập trường rất rõ và nhất quán: mọi quyết định đều ngầm chứa mô hình, nên làm mô hình tường minh là cách duy nhất để kiểm tra và cải thiện nó. Cách tách quyết định thành hai bước — thu thập thông tin (nơi trực giác và tâm lý có chỗ) và chọn hành động (chỉ dùng tính toán) — hoá giải được cuộc tranh cãi "toán hay cảm giác" một cách gọn gàng. Phản bác ngộ nhận 2 bằng khái niệm cân bằng là ý sâu nhất của phần này: nó báo trước rằng chiến lược tối ưu không phải "chơi theo sách" cứng nhắc mà là hỗn hợp có tính toán, và chiến lược đó có thể công khai mà vẫn không bị khai thác. Ví dụ A9s ở button trong ba loại ván là minh hoạ dễ nhớ cho sự khác nhau giữa hành động và chiến lược.
+Phần Giới thiệu đặt lập trường rất rõ và nhất quán: mọi quyết định đều ngầm chứa mô hình, nên làm mô hình tường minh là cách duy nhất để kiểm tra và cải thiện nó. Cách tách quyết định thành hai bước — thu thập thông tin (nơi trực giác và tâm lý có chỗ) và chọn hành động (chỉ dùng tính toán) — hoá giải được cuộc tranh cãi "toán hay cảm giác" một cách gọn gàng.
+
+Phản bác ngộ nhận 2 bằng khái niệm cân bằng là ý sâu nhất của phần này: nó báo trước rằng chiến lược tối ưu không phải "chơi theo sách" cứng nhắc mà là hỗn hợp có tính toán, và chiến lược đó có thể công khai mà vẫn không bị khai thác. Ví dụ A9s ở button trong ba loại ván là minh hoạ dễ nhớ cho sự khác nhau giữa hành động và chiến lược.
 
 ### Những chỗ đơn giản hoá
 
 - **"Tối đa hoá lợi nhuận trung bình" bỏ qua rủi ro.** Chính Chương 1 thừa nhận độ thoả dụng của tiền không tuyến tính, và Phần IV của sách bàn rủi ro phá sản và tiêu chuẩn Kelly. Lời khuyên này chỉ đúng khi người chơi có đủ vốn so với mức cược — giả định mà Chương 1 nêu rõ.
 - **"Trực giác không có chỗ trong bước chọn hành động" là lý tưởng.** Trong ván thật, người chơi có vài giây để quyết định và không thể tính kỳ vọng đầy đủ; thứ được dùng thực tế là trực giác đã được huấn luyện lại bằng tính toán ngoài bàn — điều tác giả cũng nói tới khi bàn việc "huấn luyện lại trực giác".
-- **Câu về trò chơi nhiều người** (xem khối Lưu ý) gộp hai ý khác nhau: cân bằng vẫn tồn tại nhưng mất các tính chất bảo đảm của trường hợp hai người.
+- **Câu về trò chơi nhiều người** (xem mục Lưu ý cuối bài) gộp hai ý khác nhau: cân bằng vẫn tồn tại nhưng mất các tính chất bảo đảm của trường hợp hai người.
 - **So sánh với thị trường tài chính chỉ là phép tương tự.** Thị trường có hàng nghìn bên tham gia và giá do cung cầu quyết định; poker là trò chơi tổng bằng không (trừ phí của sòng) giữa vài người. Phép so sánh minh hoạ xu hướng định lượng hoá, không phải sự giống nhau về cấu trúc.
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp, không tra cứu)
 
-- **Ngộ nhận 4 đã bị vượt qua một phần.** Năm 2006 tác giả viết chưa đủ sức máy để giải hold'em hai người. Theo hiểu biết của người tổng hợp: năm 2015 nhóm nghiên cứu ở Đại học Alberta công bố Cepheus, gần như giải được limit hold'em hai người; năm 2017 các chương trình Libratus (Đại học Carnegie Mellon) và DeepStack (Đại học Alberta) đánh bại người chơi chuyên nghiệp ở no-limit hold'em hai người; năm 2019 Pluribus (Carnegie Mellon và Facebook AI) thắng người chơi chuyên nghiệp ở bàn sáu người no-limit hold'em, dù lý thuyết cho trò chơi nhiều người vẫn không có bảo đảm như trường hợp hai người. Từ khoảng giữa thập niên 2010, các phần mềm "solver" thương mại tính chiến lược gần tối ưu cho từng tình huống sau flop trở thành công cụ học tập phổ biến, đúng hướng "chơi gần tối ưu và đo khoảng cách tới tối ưu" mà tác giả mô tả.
+- **Ngộ nhận 4 đã bị vượt qua một phần.** Năm 2006 tác giả viết chưa đủ sức máy để giải hold'em hai người. Theo hiểu biết của người tổng hợp: năm 2015 nhóm nghiên cứu ở Đại học Alberta công bố Cepheus, gần như giải được limit hold'em hai người; năm 2017 các chương trình Libratus (Đại học Carnegie Mellon) và DeepStack (Đại học Alberta) đánh bại người chơi chuyên nghiệp ở no-limit hold'em hai người. Năm 2019 Pluribus (Carnegie Mellon và Facebook AI) thắng người chơi chuyên nghiệp ở bàn sáu người no-limit hold'em, dù lý thuyết cho trò chơi nhiều người vẫn không có bảo đảm như trường hợp hai người.
+
+  Từ khoảng giữa thập niên 2010, các phần mềm "solver" thương mại tính chiến lược gần tối ưu cho từng tình huống sau flop trở thành công cụ học tập phổ biến, đúng hướng "chơi gần tối ưu và đo khoảng cách tới tối ưu" mà tác giả mô tả.
 - **Dự đoán "nhà phân tích định lượng sẽ thắng" đã thành hiện thực.** Theo hiểu biết của người tổng hợp, cách chơi dựa trên lý thuyết trò chơi (thường gọi là "GTO", game theory optimal) trở thành ngôn ngữ chung của người chơi chuyên nghiệp; khái niệm cân bằng, phân phối đấu phân phối, khai thác tối đa trong sách là tiền thân của cách nghĩ đó.
 - **Về người viết lời tựa:** theo hiểu biết của người tổng hợp, năm 2011 Chris Ferguson, khi đó là một lãnh đạo của trang poker Full Tilt Poker, bị Bộ Tư pháp Hoa Kỳ nêu tên trong một vụ kiện dân sự liên quan tới việc trang này không trả được tiền của người chơi. Chi tiết này không ảnh hưởng tới nội dung toán của sách, nhưng là bối cảnh khi đọc câu "Đừng tin một lời nào tôi nói".
 - Backgammon: chương trình mạng nơ-ron mà tác giả nhắc tới thuộc dòng TD-Gammon (đầu thập niên 1990) và các chương trình kế tiếp (theo hiểu biết của người tổng hợp); về sau cờ vua và cờ vây cũng đi qua cùng một chuyển đổi.
@@ -611,3 +648,150 @@ Phần Giới thiệu đặt lập trường rất rõ và nhất quán: mọi q
 - **Người chơi poker:** viết ra (dù chỉ trong đầu) mô hình về đối thủ trước khi quyết định: họ cầm những tay nào, họ làm gì với từng loại tay. Khi thắng nhờ khai thác một đối thủ, nhớ rằng lợi thế đó sẽ mất khi họ điều chỉnh. Khi lo mình "dễ đoán", hãy kiểm tra xem mỗi hành động của mình có chứa hỗn hợp tay bài không, chứ không phải xem hành động có đều đặn không.
 - **Người làm tài chính và đầu tư:** bài học ngộ nhận 1 tương ứng với việc một chiến lược giao dịch có lợi nhuận vượt trội thường mất dần lợi thế khi bị nhiều người phát hiện và sao chép, vì thị trường cũng là tập hợp đối thủ thích nghi. Cách tách "thu thập thông tin" và "ra quyết định" tương ứng với quy trình đầu tư có kỷ luật: nhận định của chuyên gia là đầu vào của mô hình định giá, còn quyết định mua bán dựa trên kết quả mô hình. Câu chuyện thị trường trái phiếu và quyền chọn trong phần Giới thiệu cũng là lời nhắc rằng lợi nhuận lớn nhất thường nằm ở khoảng cách giữa cách làm phổ biến và cách làm tốt nhất có thể.
 - **Người ra quyết định nói chung:** câu hỏi hữu ích trước mỗi quyết định quan trọng là "mô hình ngầm của tôi ở đây là gì, và giả định nào trong đó có thể sai?". Lời khuyên "tối đa hoá giá trị kỳ vọng" chỉ áp dụng khi các rủi ro đủ nhỏ so với nguồn lực; khi không phải vậy, cần tới các công cụ của Phần IV.
+
+## Bản đồ tư duy
+
+Toàn cảnh phần mở đầu trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (Lời cảm ơn và Lời tựa, cuộc cách mạng định lượng, năm ngộ nhận, tâm lý học và đối tượng sách, lộ trình năm phần, ba điểm khác biệt và mục tiêu), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Giới thiệu: mọi quyết định poker ngầm chứa một mô hình, nên hãy làm mô hình đó tường minh bằng toán học`"]
+  n1["`Mục 1–2 — Lời cảm ơn và Lời tựa của Chris Ferguson`"]
+  n0 --- n1
+  n2["`Ý tưởng đầu của Chen, Weinstock và Latto là giáo trình hình thức, sau thành sách cho người có nền toán vừa phải`"]
+  n1 --- n2
+  n3["`Công cụ PokerStove của Andrew Prock tính phần lớn các con số equity trong sách`"]
+  n1 --- n3
+  n4["`Ferguson: toán không nói dối, và kết quả cũng không nói dối`"]
+  n1 --- n4
+  n5["`WSOP 2006: hai tác giả vào vùng có thưởng bảy lần, Chen thắng hai giải, Ankenman về nhì một giải`"]
+  n4 --- n5
+  n6["`Tranh cãi sẽ không phải tác giả có giỏi toán không, mà là toán có quan trọng trong poker không`"]
+  n1 --- n6
+  n7["`Trước đây không sách nào nối poker với lý thuyết trò chơi, nếu dạy ở khoa toán UCLA Ferguson chỉ dùng cuốn này`"]
+  n1 --- n7
+  n8["`Mục 3 — Cuộc cách mạng định lượng và vai trò của mô hình`"]
+  n0 --- n8
+  n9["`Trái phiếu và quyền chọn: nhà giao dịch theo kinh nghiệm cuối thập niên 1970 bị nhà phân tích định lượng thay thế giữa thập niên 1990`"]
+  n8 --- n9
+  n10["`Backgammon: chương trình mạng nơ-ron thành lời phán cuối cùng, dù năm 1979 sẽ bị chê là hung hăng và yếu`"]
+  n8 --- n10
+  n11["`Poker: dân cờ bạc đi đường dựa vào trực giác và tell nhường chỗ thế hệ dùng máy tính, toán, Internet`"]
+  n8 --- n11
+  n12["`Mỗi lần call, raise hay fold là ngầm khẳng định hành động đó có giá trị hơn các hành động khác`"]
+  n8 --- n12
+  n13["`Từ chối toán học là phó mặc quyết định cho sự phỏng đoán`"]
+  n12 --- n13
+  n14["`Mục 4 — Năm ngộ nhận về cách chơi bằng toán`"]
+  n0 --- n14
+  n15["`Ngộ nhận 1: phân tích quá khứ của đối thủ cho lợi thế vĩnh viễn`"]
+  n14 --- n15
+  n16["`Sai: đối thủ thích nghi nên lợi thế khai thác chỉ tạm thời, tác giả gọi ngộ nhận này là lý thuyết PlayStation về poker`"]
+  n15 --- n16
+  n17["`Ngộ nhận 2: chơi theo toán thì dễ đoán và thiếu sáng tạo`"]
+  n14 --- n17
+  n18["`Chiến lược cân bằng trộn bluff, semi-bluff và value bet nên dễ đoán vẫn không khai thác được`"]
+  n17 --- n18
+  n19["`Chỉ raise khi có AA thì bị khai thác, luôn raise với AA và cả với tay khác thì không`"]
+  n17 --- n19
+  n20["`Ngộ nhận 3: có lúc con số phải vứt ra cửa sổ vì đã có read`"]
+  n14 --- n20
+  n21["`Định lý Bayes đưa read vào phân phối tay bài của đối thủ chính xác hơn cảm giác`"]
+  n20 --- n21
+  n22["`Ngộ nhận 4: không giải được chiến lược tối ưu của poker thật nên chỉ cần chơi khai thác`"]
+  n14 --- n22
+  n23["`Vẫn dựng được chiến lược gần tối ưu, và đo khoảng cách tới tối ưu bằng cách khai thác tối đa chiến lược đó`"]
+  n22 --- n23
+  n24["`Ngộ nhận 5: online, giải đấu, mức cược cao hay thấp đòi chiến lược khác hẳn`"]
+  n14 --- n24
+  n25["`A9s ở button: raise khi sáu người limp, fold khi có raise từ vị trí giữa, raise khi mọi người fold tới mình ở giải đấu`"]
+  n24 --- n25
+  n26["`Hành động đổi theo đối thủ, chiến lược tổng quát vẫn là chọn hành động có lợi nhất`"]
+  n24 --- n26
+  n27["`Mục 5–6 — Tâm lý học và cuốn sách dành cho ai`"]
+  n0 --- n27
+  n28["`Câu trả lời còn tuỳ của sách poker thường thiếu câu trả lời thật hoặc phương pháp đi tới hành động`"]
+  n27 --- n28
+  n29["`Tâm lý học là nguồn giả định cho mô hình, khi đã có giả định thì toán học quyết định hành động`"]
+  n27 --- n29
+  n30["`Tell vật lý và việc phân loại đối thủ nằm ngoài phạm vi sách, xem các tác phẩm của Mike Caro`"]
+  n27 --- n30
+  n31["`Phần lớn sách chỉ cần đại số trung học, lời giải ví dụ đặt trong hộp nền xám Solution`"]
+  n27 --- n31
+  n32["`Không dành cho người chưa từng chơi, mà cho người chơi thắng ổn định tới người cầm nhiều vòng WSOP`"]
+  n27 --- n32
+  n33["`Mục 7 — Lộ trình năm phần của sách`"]
+  n0 --- n33
+  n34["`Phần I Cơ bản: xác suất, phân phối xác suất, kỳ vọng là đại lượng cần tối đa hoá, định lý Bayes`"]
+  n33 --- n34
+  n35["`Phần II Chơi khai thác: bài lật ngửa, một tay bài đấu phân phối, rồi phân phối đấu phân phối`"]
+  n33 --- n35
+  n36["`Phần III Chơi tối ưu, phần lớn nhất: trò chơi AKQ, trò chơi [0,1], no-limit hold'em hai người chồng chip ngắn`"]
+  n33 --- n36
+  n37["`Phần IV Vốn và rủi ro: rủi ro phá sản kể cả khi tỷ lệ thắng bất định, tiêu chuẩn Kelly, lý thuyết danh mục`"]
+  n33 --- n37
+  n38["`Phần V Chủ đề khác: giải đấu, trò chơi nhiều người, khi nào chơi tối ưu và khi nào chơi khai thác`"]
+  n33 --- n38
+  n39["`Mục 8–9 — Ba điểm khác biệt và mục tiêu của tác giả`"]
+  n0 --- n39
+  n40["`Quyết định gồm thu thập thông tin rồi chọn hành động, trực giác không có chỗ ở bước chọn`"]
+  n39 --- n40
+  n41["`Khi đã có giả định, chỉ cần tính kỳ vọng của từng phương án và chọn phương án lớn nhất`"]
+  n40 --- n41
+  n42["`Não người ước lượng xác suất kém, nhất là với sự kiện tần suất thấp`"]
+  n40 --- n42
+  n43["`Chọn trọn chiến lược từ đầu ván thay vì từng quyết định, luôn đọc bài của chính mình qua các vòng cược`"]
+  n39 --- n43
+  n44["`Sách dạy cách nghĩ chứ không dạy cách chơi: trò chơi đồ chơi tách từng chiều như bài ngửa hay úp, có fold không, một hay hai vòng cược`"]
+  n39 --- n44
+  n45["`Người giỏi nhất vẫn lệch khỏi chiến lược tối ưu, khoảng cách đó là lợi nhuận cho ai lấp được`"]
+  n39 --- n45
+  n46["`Thông điệp xuyên suốt`"]
+  n0 --- n46
+  n47["`Lời khuyên duy nhất không đổi qua mọi điều kiện ván: tối đa hoá lợi nhuận trung bình`"]
+  n46 --- n47
+  n48["`Read và tâm lý là đầu vào cho toán, không phải lý do bỏ toán`"]
+  n46 --- n48
+  n49["`Chiến lược tối ưu là chuẩn để đo mọi chiến lược khác, vì lợi thế khai thác mất dần khi đối thủ học`"]
+  n46 --- n49
+  class n0 root
+  class n1,n8,n14,n27,n33,n39,n46 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n47,n48,n49 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), phần "Acknowledgments" (trang 6), "Foreword" của Chris Ferguson (trang 7), trang đề từ của phần "Introduction" (trang 8) và phần "Introduction" (trang 9–14). Số trang ghi theo số in ở chân trang của bản PDF 390 trang dựng lại bằng LibreOffice (2016); các trang 1–5 là bìa, danh sách sách cùng nhà xuất bản, trang bản quyền và mục lục.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006). Lời tựa do Chris "Jesus" Ferguson viết, nhà vô địch giải chính (Main Event) World Series of Poker năm 2000.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là phần mở cửa của cả cuốn sách. Lời tựa của Ferguson nói rằng chưa có cuốn sách nào nối lý thuyết trò chơi với poker; phần Giới thiệu nêu lập trường của hai tác giả: mọi người chơi poker đều đang dùng một mô hình, dù có ý thức hay không, nên tốt hơn hết là dùng toán học để làm mô hình đó chính xác.
+
+Phần Giới thiệu bác bỏ năm ngộ nhận về cách chơi bằng toán, xác định phạm vi (bỏ qua tell vật lý, chỉ dùng toán cấp trung học là chủ yếu), và trình bày lộ trình năm phần của sách:
+
+- Phần I Cơ bản — xác suất, kỳ vọng, phương sai, định lý Bayes ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md), [C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md), [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)).
+- Phần II Chơi khai thác — trò chơi đồ chơi, bài lật ngửa, tay bài đấu phân phối, phân phối đấu phân phối ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md) tới [C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)).
+- Phần III Chơi tối ưu — lý thuyết trò chơi, trò chơi AKQ, trò chơi [0,1], lời giải jam-or-fold cho no-limit hold'em hai người chồng chip ngắn ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md) tới [C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md](C21-nghien-cuu-tinh-huong-ly-thuyet-tro-choi.md)).
+- Phần IV Rủi ro — rủi ro phá sản, tiêu chuẩn Kelly, lý thuyết danh mục ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md) tới [C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)).
+- Phần V Chủ đề khác — giải đấu, trò chơi nhiều người và triết lý chơi của tác giả ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md) tới [C30-ket-hop-tat-ca.md](C30-ket-hop-tat-ca.md)).
+
+Chương 1 bắt đầu ngay bằng việc chọn tiền thắng trong ván làm thước đo thay cho độ thoả dụng, đúng với lời khuyên "tối đa hoá lợi nhuận trung bình" của phần Giới thiệu.
+
+## Lưu ý
+
+- **Số trang:** mục lục in trong sách (trang 4–5) dùng số trang của bản in gốc 2006 và lệch so với chân trang của bản PDF này: mục lục ghi Lời cảm ơn ở trang 5, Lời tựa trang 6, Giới thiệu trang 8 và Chương 1 trang 15, còn chân trang của PDF cho Lời cảm ơn ở trang 6, Lời tựa trang 7, trang đề từ Giới thiệu trang 8, phần chữ Giới thiệu trang 9–14, trang mở Phần I trang 15 và Chương 1 trang 16. Độ lệch tăng dần ở các chương sau (mục lục ghi Chương 30 ở trang 359, chân trang của PDF ghi 382), vì bản dựng lại dàn trang thưa hơn bản in. Bản tổng hợp này luôn dùng số ở chân trang.
+- **Ký hiệu đánh dấu đoạn toán khó bị mất:** trang 11 viết "Just look for this icon for guidance" (hãy tìm biểu tượng này), nhưng trong bản PDF dựng lại không có biểu tượng nào ở chỗ đó (người tổng hợp đã xem ảnh trang). Hộp nền xám có viền gạch đứt cho lời giải ("Solution:") thì vẫn còn.
+- **Lỗi chính tả của bản dựng lại hoặc của sách:** trang 11 viết "Mike Garo"; đúng là Mike Caro, người được nhắc lại đúng tên ở trang 12 là tác giả của trò chơi AKQ trên tạp chí *Card Player*. Trang 12–13 viết "Oskar Morganstem"; đúng là Oskar Morgenstern, đồng tác giả cuốn *Theory of Games and Economic Behavior* (1944) với John von Neumann; dấu ngoặc kép quanh tên sách cũng không được đóng.
+- **Tên Phần IV không thống nhất:** mục lục gọi là "Part IV: Risk", phần Giới thiệu (trang 13) gọi là "Part IV: Bankroll and Risk". Trang mở Phần IV ở trang 291 thuộc phạm vi của [C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md).
+- **Lỗi nhận dạng chữ nằm ngay trong bản PDF:** bản dựng lại được chép từ một bản quét qua nhận dạng ký tự, nên nhiều lỗi có mặt cả trên ảnh trang chứ không chỉ trong lớp chữ: "wc" là "we", "*The Mathematics of' Poker*" thừa dấu nháy, "in a short period of rime" là "time", "Conjelco" là "ConJelCo" (trang 6); "stored m an information retrieval system" là "stored in" (trang 3); "you arc dealt" là "you are dealt" (trang 10). Tên "Path Beadles" (trang 6) có lẽ là "Patti Beadles"; người tổng hợp không chắc nên giữ nguyên như bản PDF.
+- **"*ARG community":** trang 6 nhắc tới "cộng đồng *ARG" mà không giải thích; người tổng hợp giữ nguyên tên này, không đoán nghĩa.
+- **Câu "chiến lược tối ưu không tồn tại trong trò chơi nhiều người" (ngộ nhận 4, trang 10) là cách nói mạnh (nhận xét của người tổng hợp):** theo định lý Nash (1950), mọi trò chơi hữu hạn, kể cả nhiều người, đều có ít nhất một cân bằng Nash. Điều không còn đúng khi có từ ba người trở lên là: cân bằng có thể không duy nhất, và chơi theo một cân bằng không bảo đảm kết quả kỳ vọng không âm, vì hai đối thủ có thể (cố ý hoặc vô tình) phối hợp với nhau. Sách sẽ giải thích ý này ở [C29-tro-choi-nhieu-nguoi.md](C29-tro-choi-nhieu-nguoi.md).
+- **Quy ước thuật ngữ:** "exploitive play" dịch là "chơi khai thác"; "optimal play" dịch là "chơi tối ưu" và "optimal strategy" là "chiến lược tối ưu" (trong sách nghĩa là chiến lược của một cân bằng Nash trong trò chơi hai người tổng bằng không); "maximally exploiting" là "khai thác tối đa", và chiến lược làm việc đó là "chiến lược trả đũa tối đa"; "toy game" dịch là "trò chơi đồ chơi" (trò chơi thu nhỏ để phân tích).

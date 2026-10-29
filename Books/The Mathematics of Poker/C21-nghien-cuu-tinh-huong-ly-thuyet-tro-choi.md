@@ -1,22 +1,20 @@
 # Chương 21 — Một nghiên cứu tình huống: dùng lý thuyết trò chơi (A Case Study: Using Game Theory)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 21 "A Case Study: Using Game Theory", trang 277–290.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương cuối của Phần III (Chơi tối ưu — Optimal Play). Các chương trước của Phần III giải các trò chơi đồ chơi: lý thuyết trò chơi cơ bản ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)), trò chơi half-street và hằng số α = 1/(P + 1) ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)), trò chơi jam-or-fold và giá trị không âm của lựa chọn chiến lược ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)), trò chơi AKQ có giới hạn và không giới hạn ([C13-tro-choi-akq.md](C13-tro-choi-akq.md), [C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md)), chọn mức cược no-limit và "tăng trưởng hình học của pot" ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)), các trò chơi [0,1] ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md), [C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md), [C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) và các trò chơi nhiều vòng tĩnh và động ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md), [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)). Chương 21 không giải thêm trò chơi nào; nó cho thấy cách tác giả áp dụng các kết quả đó vào no-limit hold'em thật, từ preflop tới river. Phần IV tiếp theo chuyển sang rủi ro và quản lý bankroll ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md)); Phần V ([C29-tro-choi-nhieu-nguoi.md](C29-tro-choi-nhieu-nguoi.md)) giải thích vì sao poker nhiều người không có chiến lược tối ưu — lý do chương này chỉ nói "gần tối ưu".
+## Ý chính
 
-**Ý chính:** **Khi chơi no-limit hold'em thật, tác giả không chọn hành động theo từng tay bài mà theo từng chuỗi hành động: với mỗi chuỗi, họ chọn một phân phối tay bài cân bằng (có cả bài mạnh, bài trung bình, semi-bluff và bluff) và mức độ hung hãn phù hợp cho các hành động lấy giá trị.** Ở preflop khi vào pot đầu tiên, tác giả chỉ raise, không bao giờ limp (ngoài blind), vì phân phối của người vào trước mạnh hơn các tay bài ngẫu nhiên phía sau, vì muốn gây áp lực lên big blind, và vì một chiến lược đồng nhất giấu thông tin. Phân phối được xây bằng cách thêm dần các tay bài có kỳ vọng dương; thêm tay bài yếu hơn thường làm tăng giá trị của tay bài mạnh sẵn có (AA đáng giá hơn trong {99+, AQ+} so với trong {KK+}). Mức raise thay đổi theo vị trí (không theo tay bài): gấp đôi big blind ở xa button tới gấp ba ở button; có ante thì tăng để giữ tỷ lệ pot odds cho blind (ví dụ 1.200 thành khoảng 1.350, người tổng hợp tính được 1.360). Với stack ngắn, jam (all-in) thay cho raise nhỏ, để tước của đối thủ lựa chọn chiến lược; phép tính với phân phối {77+, AJs+, AQ+, KQs} và tay bài yếu nhất có 31,88% equity cho ngưỡng khoảng 6,84 big blind; các phép thử với stack 6, 8 và 10 đơn vị đưa tới khuyến nghị jam với stack khoảng 6 lần pot trước khi raise ở vị trí đầu và 7 lần ở gần button. Ở flop, hai yếu tố chính là ai là người hung hãn trước đó và kết cấu (texture) của board; phân phối hai bên gần như luôn bất đối xứng, người raise sớm thường "autobet" và big blind nên check mọi tay bài; big blind chia tay bài thành năm nhóm và check-raise với draw rất yếu, bài rất mạnh và draw rất mạnh, call với phần còn lại. Mức cược ở flop dựa trên tăng trưởng hình học của pot qua ba vòng (board tĩnh), tăng lên khi board có nhiều draw (tới mức hai vòng), vì draw mở cho người có phân phối yếu lợi thế "thấu thị" ở river. Ở turn, khi draw không ra, người tiếp tục cược phải trộn bài mạnh vào cả nhánh check; khi draw ra, giá trị các tay bài dịch chuyển. Ở river, chơi giống trò chơi [0,1] bất đối xứng, dùng "cược phủ đầu" (preemptive bet) 1/10 tới 1/6 pot, và dùng hiệu ứng loại bài (card removal) khi chọn bluff và khi bắt bluff.
+**Khi chơi no-limit hold'em thật, tác giả không chọn hành động theo từng tay bài mà theo từng chuỗi hành động: với mỗi chuỗi, họ chọn một phân phối tay bài cân bằng (có cả bài mạnh, bài trung bình, semi-bluff và bluff) và mức độ hung hãn phù hợp cho các hành động lấy giá trị.**
 
-> **Lưu ý:**
-> - **Phép giải ngưỡng stack ngắn ngược dấu (trang 282):** sách viết (0,3188)(2x + 1,5) > x − 2 rồi "x > 6,83". Giải đúng: 0,6376x + 0,4782 > x − 2, tức 0,3624x < 2,4782, nên **x < 6,838**. Nghĩa là khi stack nhỏ hơn khoảng 6,84 big blind, ta buộc phải call một lần reraise all-in với mọi tay bài; ngưỡng là khoảng 6,84 (sách làm tròn xuống 6,83 và đổi chiều bất đẳng thức). Lời văn "a little less than seven big blinds" vẫn đúng về con số.
-> - **Ví dụ ante (trang 280):** sách giải (x + 800)/(x − 400) = 1.800/800 được "x = 1.350" và "raise thêm khoảng 150". Tính lại: x + 800 = 2,25(x − 400), tức 1,25x = 1.700, x = **1.360**, raise thêm 160. Sai lệch nhỏ, không đổi kết luận.
-> - **Phần Key Concepts ghi sai tần suất (trang 290):** câu "tay bài lộ chỉ cần call 1/6 số lần ở river vì đối thủ đã phải call một bet ở turn" nhắc lại Ví dụ 20.2, nơi tay bài lộ call **1/7** (pot 6 big bet ở river, x(−7/5) + 1/5 = 0 cho x = 1/7).
-> - **Ví dụ A♣ K♦ trên flop K♣ 7♣ 2♥ (trang 289):** sách nói nếu ta cầm A♥ (thay vì A♣), phân phối của đối thủ có thể gồm A♣X♣ "thường có 12 outs khi bị call (9 lá chuồn và 3 lá A)". Người tổng hợp nhận xét: nếu ta cầm A♥ và đối thủ cầm A♣ thì chỉ còn 2 lá A, không phải 3; hơn nữa với tay bài A♥ K♦ của ta, lá A ra cho ta hai đôi A và K nên không giúp đối thủ. Con số 12 outs chỉ hợp khi đối thủ đấu với một tay bài một đôi K không có A. Ý chính (cầm A♣ làm giảm khả năng đối thủ có flush draw mạnh nhất) không đổi.
-> - **Phân phối raise ghi không thống nhất (trang 281–282):** lần đầu sách ghi {77+, AJs+, AQ+, KQs}, lần sau (khi tính jam stack 6) ghi (77+, AJs+, KQs), thiếu AQ+. Người tổng hợp tính lại bằng mô phỏng với phân phối có AQ+ và thấy các ngưỡng khớp với sách.
-> - **Board ví dụ không thống nhất:** trang 284 dùng 9♦ 8♦ 7♣ làm ví dụ board nhiều draw, trang 287 nhắc lại "board đã nói ở trên" nhưng ghi 9♠ 8♠ 7♦. Hai board có cùng cấu trúc (hai lá cùng chất, ba lá liên tiếp), không ảnh hưởng nội dung.
-> - **Khuyến nghị jam "6 lần pot trước khi raise" (trang 284, nhận xét của người tổng hợp):** pot trước khi raise (không ante) là 1,5 big blind, nên 6 lần pot là 9 big blind và 7 lần pot là 10,5 big blind. Phép tính ngay trước đó lại cho ngưỡng 6–8 big blind ở vị trí đầu. Có thể tác giả cộng thêm "các lợi ích khác của jam" (tránh khó khăn sau flop) để nâng ngưỡng; sách không nói rõ.
-> - **Kiểm tra các con số equity bằng mô phỏng (người tổng hợp):** người tổng hợp viết một chương trình mô phỏng Monte Carlo (25.000–40.000 ván mỗi cặp, sai số chuẩn khoảng 0,25 điểm phần trăm) và được: {77+, AJs+, AQ+, KQs} so với {TT+, AQs+, AK+}: 41,9% (sách 41,9%); 77: 33,1% (sách 33,0%); AJs: 32,3% (sách 32,0%); KQs: 32,0% (sách 31,88%); 77 so với {99+, AK}: 29,8% (sách 29,91%); 77 so với {TT+, AK}: 31,2% (sách 31,41%); K8o so với phân phối reraise của button: 33,3% (sách 33,4%). Các tay bài ở biên của phân phối reraise cũng khớp: 99 có khoảng 45,5% trước phân phối jam (trên ngưỡng 44,44%, dưới ngưỡng 45,7%), 88 khoảng 41,4%, AQs khoảng 43,2%; trước phân phối raise của button, 33 khoảng 47,8% (vào), 22 khoảng 46,1% (không vào, ngưỡng 46,5%), A5o khoảng 46,5% (biên), A4o khoảng 45,4%, K9o khoảng 43,9%. Tất cả khớp với sách trong phạm vi sai số mô phỏng.
-> - **Lỗi đánh máy và lớp chữ:** "Part H" (trang 286) là "Part II"; "Ako" là AKo; "{99+. AQ+]" là {99+, AQ+}; "liis", "thaw" (trang 283, 287) là "his", "draw"; "Bush draw" (trang 288) là "flush draw"; "La fact", "hi a raise-only" là "In fact", "in a raise-only"; "unproved" (trang 288) là "improved"; "information biding" là "information hiding"; "a bluffer semi-bluff" (trang 287) có lẽ là "a bluff or semi-bluff"; câu cuối của ví dụ seven-card stud (trang 290) "an appropriate additional fraction of the otherwise" thiếu chữ ("of the time otherwise"). Các phân số trong lớp chữ bị làm phẳng ("4 12" là 4½, "1227" là 12/27, "2043" là 20/43, "110 to 16" là 1/10 tới 1/6).
-> - **Quy ước đơn vị:** trong phần jam, sách dùng "đơn vị" (unit) bằng một big blind, small blind 0,5 đơn vị, nên pot trước khi raise là 1,5 đơn vị. Cụm "k off the button" (ví dụ "six off the button") chỉ vị trí cách button k ghế về phía trước, tức càng lớn càng ở đầu bàn; bản tổng hợp dịch là "cách button k ghế" hoặc "k ghế trước button".
+Ở preflop khi vào pot đầu tiên, tác giả chỉ raise, không bao giờ limp (ngoài blind), vì phân phối của người vào trước mạnh hơn các tay bài ngẫu nhiên phía sau, vì muốn gây áp lực lên big blind, và vì một chiến lược đồng nhất giấu thông tin. Phân phối được xây bằng cách thêm dần các tay bài có kỳ vọng dương; thêm tay bài yếu hơn thường làm tăng giá trị của tay bài mạnh sẵn có (AA đáng giá hơn trong {99+, AQ+} so với trong {KK+}).
+
+Mức raise thay đổi theo vị trí (không theo tay bài): gấp đôi big blind ở xa button tới gấp ba ở button; có ante thì tăng để giữ tỷ lệ pot odds cho blind (ví dụ 1.200 thành khoảng 1.350, người tổng hợp tính được 1.360).
+
+Với stack ngắn, jam (all-in) thay cho raise nhỏ, để tước của đối thủ lựa chọn chiến lược; phép tính với phân phối {77+, AJs+, AQ+, KQs} và tay bài yếu nhất có 31,88% equity cho ngưỡng khoảng 6,84 big blind. Các phép thử với stack 6, 8 và 10 đơn vị đưa tới khuyến nghị jam với stack khoảng 6 lần pot trước khi raise ở vị trí đầu và 7 lần ở gần button.
+
+Ở flop, hai yếu tố chính là ai là người hung hãn trước đó và kết cấu (texture) của board. Phân phối hai bên gần như luôn bất đối xứng, người raise sớm thường "autobet" và big blind nên check mọi tay bài. Big blind chia tay bài thành năm nhóm và check-raise với draw rất yếu, bài rất mạnh và draw rất mạnh, call với phần còn lại.
+
+Mức cược ở flop dựa trên tăng trưởng hình học của pot qua ba vòng (board tĩnh), tăng lên khi board có nhiều draw (tới mức hai vòng), vì draw mở cho người có phân phối yếu lợi thế "thấu thị" ở river.
+
+Ở turn, khi draw không ra, người tiếp tục cược phải trộn bài mạnh vào cả nhánh check; khi draw ra, giá trị các tay bài dịch chuyển. Ở river, chơi giống trò chơi [0,1] bất đối xứng, dùng "cược phủ đầu" (preemptive bet) 1/10 tới 1/6 pot, và dùng hiệu ứng loại bài (card removal) khi chọn bluff và khi bắt bluff.
 
 ## Sơ đồ
 
@@ -287,7 +285,9 @@
 ## Ba câu hỏi chương này trả lời
 
 1. **Làm sao biến lý thuyết trò chơi đồ chơi thành cách chơi no-limit hold'em thật?** Bằng cách suy nghĩ theo chuỗi hành động thay vì theo tay bài: với mỗi chuỗi (vào pot đầu tiên, check-raise ở flop, tiếp tục cược ở turn, cược ở river), chọn một phân phối tay bài cân bằng sao cho đối thủ không lợi khi dịch ngưỡng của họ, và mỗi chuỗi đều có khả năng chứa bài mạnh. Cố định một biến (ví dụ: chỉ raise, mức raise chỉ theo vị trí), xây phân phối bằng cách thêm dần tay bài có kỳ vọng dương, và chấp nhận rằng kết quả chỉ gần tối ưu.
-2. **Khi nào nên jam thay vì raise nhỏ preflop?** Khi stack đủ ngắn để sau một lần raise nhỏ ta vẫn buộc phải call reraise all-in với mọi tay bài: lúc đó raise nhỏ chỉ trao cho đối thủ một lựa chọn chiến lược miễn phí. Với phân phối {77+, AJs+, AQ+, KQs} và tay bài yếu nhất KQs có 31,88% equity trước {TT+, AQs+, AK+}, điều kiện (0,3188)(2x + 1,5) > x − 2 đúng khi x < 6,84 big blind; thử với N tối ưu cho ngưỡng giữa 6 và 8 big blind ở vị trí đầu; ở button với stack 10 vẫn buộc call (0,334 × 21,5 − 7 > 0). Thêm khó khăn khi chơi sau flop với stack ngắn (AXo chỉ có A cao), tác giả khuyên jam mọi tay bài khi stack khoảng 6 lần pot trước khi raise ở vị trí đầu và 7 lần ở gần button.
+2. **Khi nào nên jam thay vì raise nhỏ preflop?** Khi stack đủ ngắn để sau một lần raise nhỏ ta vẫn buộc phải call reraise all-in với mọi tay bài: lúc đó raise nhỏ chỉ trao cho đối thủ một lựa chọn chiến lược miễn phí. Với phân phối {77+, AJs+, AQ+, KQs} và tay bài yếu nhất KQs có 31,88% equity trước {TT+, AQs+, AK+}, điều kiện (0,3188)(2x + 1,5) > x − 2 đúng khi x < 6,84 big blind; thử với N tối ưu cho ngưỡng giữa 6 và 8 big blind ở vị trí đầu; ở button với stack 10 vẫn buộc call (0,334 × 21,5 − 7 > 0).
+
+   Thêm khó khăn khi chơi sau flop với stack ngắn (AXo chỉ có A cao), tác giả khuyên jam mọi tay bài khi stack khoảng 6 lần pot trước khi raise ở vị trí đầu và 7 lần ở gần button.
 3. **Kết cấu board và vị trí người hung hãn thay đổi cách cược sau flop ra sao?** Người raise preflop có phân phối mạnh hơn nên thường autobet, và big blind check mọi tay bài. Trên board tĩnh, người raise cược theo tăng trưởng hình học qua ba (hoặc bốn) vòng và không overbet; trên board nhiều draw, họ cược lớn hơn (tới mức hai vòng) vì draw mở cho người có phân phối yếu lợi thế thấu thị ở river. Big blind check-raise với draw rất yếu, bài rất mạnh và draw rất mạnh, call với phần còn lại. Ở river, dùng cược phủ đầu 1/10–1/6 pot và hiệu ứng loại bài.
 
 ## Khái niệm cần biết
@@ -322,7 +322,9 @@
 
 ### 1. Phần mở đầu chương (trang 277)
 
-Suốt Phần III, tác giả đã dành nhiều thời gian xem xét các trò chơi đồ chơi và trò chơi thật, cố hiểu các chiều khác nhau của trò chơi ảnh hưởng thế nào tới chiến lược tối ưu. Một trong những việc khó nhất là đưa các khái niệm phần lớn mang tính lý thuyết này vào thực hành tại bàn chơi. Ngay từ đầu sách, tác giả đã nói sẽ không viết cẩm nang chơi thực tế, và ngay cả trong chương này họ vẫn chủ yếu nói chung chung (đặc biệt vì có quá nhiều yếu tố ảnh hưởng tới quyết định ở mỗi thời điểm). Tuy nhiên, cách tốt nhất để minh hoạ quá trình áp dụng lý thuyết vào thực hành có lẽ là đưa ra tổng quan và vài ví dụ về cách chính tác giả chơi một số tình huống trong một trò chơi cụ thể.
+Suốt Phần III, tác giả đã dành nhiều thời gian xem xét các trò chơi đồ chơi và trò chơi thật, cố hiểu các chiều khác nhau của trò chơi ảnh hưởng thế nào tới chiến lược tối ưu. Một trong những việc khó nhất là đưa các khái niệm phần lớn mang tính lý thuyết này vào thực hành tại bàn chơi. Ngay từ đầu sách, tác giả đã nói sẽ không viết cẩm nang chơi thực tế, và ngay cả trong chương này họ vẫn chủ yếu nói chung chung (đặc biệt vì có quá nhiều yếu tố ảnh hưởng tới quyết định ở mỗi thời điểm).
+
+Tuy nhiên, cách tốt nhất để minh hoạ quá trình áp dụng lý thuyết vào thực hành có lẽ là đưa ra tổng quan và vài ví dụ về cách chính tác giả chơi một số tình huống trong một trò chơi cụ thể.
 
 Tác giả không khẳng định chiến lược của mình là tối ưu, không thể bị khai thác hay cân bằng hoàn hảo; thực ra họ biết là không, vì biết chơi hoàn toàn cân bằng khó đến đâu ngay cả trong những trò chơi đơn giản nhất. Nhưng người đọc sẽ thấy các quyết định của họ chịu ảnh hưởng chủ yếu từ hai khái niệm: **chơi cân bằng** và **có mức hung hãn phù hợp cho các hành động lấy giá trị**. Trò chơi được chọn là trò chơi poker phổ biến nhất vào thời điểm viết sách: no-limit hold'em.
 
@@ -380,7 +382,9 @@ Tiếp tục thêm QQ, AKs, AKo… Tới một lúc phân phối đủ yếu đ�
 
 #### Hiệu ứng loại bài và bài chung: giá trị tay bài không đơn điệu
 
-Khi làm việc này phải tính tới hiệu ứng loại bài và ảnh hưởng của bài chung tới cách chơi sau. Trong phần lớn trò chơi đã xét (như trò chơi [0,1]), giá trị tay bài đơn điệu: một tay bài hoặc mạnh hơn hoặc yếu hơn tay bài khác. Bài chung trong hold'em làm yếu giả định này. Lấy AJs và 98s: trước một tay bài ngẫu nhiên (và trước hầu hết phân phối thông thường), AJs mạnh hơn. Nhưng flop ảnh hưởng rất lớn tới giá trị tay bài: có nhiều flop mà khả năng ta cầm 98s làm tăng giá trị cách chơi của cả phân phối. Điều này đúng với nhiều loại tay bài. Các chương về trò chơi nhiều vòng (19 và 20) cho thấy đe doạ có bài mạnh quan trọng thế nào. Hiệu ứng này càng rõ khi stack càng sâu: stack sâu hơn thì thêm ngày càng nhiều tay bài (đặc biệt theo từng phần, bằng chiến lược hỗn hợp) vào phân phối raise — các tay bài đe doạ có hoặc làm thành nuts trên các flop điển hình: đôi nhỏ, AXs (A với một lá cùng chất bất kỳ), suited connector (hai lá liên tiếp cùng chất)…
+Khi làm việc này phải tính tới hiệu ứng loại bài và ảnh hưởng của bài chung tới cách chơi sau. Trong phần lớn trò chơi đã xét (như trò chơi [0,1]), giá trị tay bài đơn điệu: một tay bài hoặc mạnh hơn hoặc yếu hơn tay bài khác. Bài chung trong hold'em làm yếu giả định này. Lấy AJs và 98s: trước một tay bài ngẫu nhiên (và trước hầu hết phân phối thông thường), AJs mạnh hơn. Nhưng flop ảnh hưởng rất lớn tới giá trị tay bài: có nhiều flop mà khả năng ta cầm 98s làm tăng giá trị cách chơi của cả phân phối. Điều này đúng với nhiều loại tay bài.
+
+Các chương về trò chơi nhiều vòng (19 và 20) cho thấy đe doạ có bài mạnh quan trọng thế nào. Hiệu ứng này càng rõ khi stack càng sâu: stack sâu hơn thì thêm ngày càng nhiều tay bài (đặc biệt theo từng phần, bằng chiến lược hỗn hợp) vào phân phối raise — các tay bài đe doạ có hoặc làm thành nuts trên các flop điển hình: đôi nhỏ, AXs (A với một lá cùng chất bất kỳ), suited connector (hai lá liên tiếp cùng chất)…
 
 Nhưng điều này nói chung không mở rộng tới việc chơi bài yếu để "đánh lừa". Chơi tối ưu hay gần tối ưu không có những nước chơi "bán lỗ" kiểu đó. Khả năng đe doạ có nuts trong một tình huống đáng một phần equity cho mọi tay bài trong phân phối, nhưng chơi một tay bài có tiềm năng showdown kém cũng tốn equity. Với stack khổng lồ (ví dụ một triệu lần blind), quả thật nên chơi 52s (5 và 2 cùng chất) ở vị trí đầu tiên (under the gun) với xác suất dương nào đó, để đe doạ có nuts (thùng phá sảnh nhỏ nhất) trên các board A34 cùng chất. Nhưng không bao giờ nên chơi 52o (khác chất) từ vị trí đầu.
 
@@ -443,7 +447,7 @@ Nếu ta raise lên 2 và một người phía sau raise lên x, ta phải call 
 x < 6,838
 ```
 
-Sách in kết quả "x > 6,83" và nói đây là một cận dưới trực tiếp của x, "hơi nhỏ hơn bảy big blind". Như khối Lưu ý đã nêu, bất đẳng thức đúng là x < 6,84: với stack dưới khoảng 6,84 big blind ta buộc phải call reraise với mọi tay bài, nên ngưỡng nằm ở khoảng 6,84. Tất nhiên điều này chỉ áp dụng cho phân phối raise và phân phối reraise cụ thể này.
+Sách in kết quả "x > 6,83" và nói đây là một cận dưới trực tiếp của x, "hơi nhỏ hơn bảy big blind". Như mục Lưu ý cuối chương đã nêu, bất đẳng thức đúng là x < 6,84: với stack dưới khoảng 6,84 big blind ta buộc phải call reraise với mọi tay bài, nên ngưỡng nằm ở khoảng 6,84. Tất nhiên điều này chỉ áp dụng cho phân phối raise và phân phối reraise cụ thể này.
 
 #### Tổng quát hơn: hai ý lý thuyết trò chơi
 
@@ -492,7 +496,9 @@ Vậy ở stack 10 nên call mọi tay bài sau một lần reraise. (Người t
 
 Quá trình này có nhiều khó khăn. Một là khó ước lượng chính xác equity trước một phân phối khi còn chơi sau flop. Hai là nhiều tay bài có đủ equity showdown để chơi được lại rất khó chơi sau flop. Ví dụ cơ bản nhất: AX khác chất. Giả sử ta raise nhỏ, như lên 3 từ stack 12. Ở flop, pot là 7,5 và ta còn 9, hơn một cược bằng pot một chút.
 
-Stack này ít chỗ xoay xở; sau khi đối thủ check, ta gặp khó. Rõ ràng nếu flop có A ta sẵn sàng cam kết mọi chip; tương tự nếu lá kicker (lá thứ hai) thành đôi. Nhưng còn rất nhiều flop mà ta chỉ có A cao? Trên các flop đó ta có lượng equity đáng kể — quá nhiều để bỏ — nhưng không thể chơi theo cách có lợi cho implied odds. Đối thủ sẽ có đôi ở flop khoảng 1/3 số lần (người tổng hợp tính: xác suất ít nhất một lá trong hai lá khác giá trị của đối thủ thành đôi trên flop là 1 − C(44,3)/C(50,3) ≈ 0,324) và có một loại draw đáng để cam kết thêm khoảng 1/6 số lần. Do đó đối thủ có thể cam kết chính xác với khoảng 50% tay bài tốt nhất của họ. Theo nghĩa này, đối thủ "thấu thị" tốt hơn ta, và có vị trí hiệu dụng: vì họ có thể tự động check, họ thực chất buộc ta hành động trước ở flop. Mọi chiến lược ta dùng trong tình huống này đều có nhược điểm:
+Stack này ít chỗ xoay xở; sau khi đối thủ check, ta gặp khó. Rõ ràng nếu flop có A ta sẵn sàng cam kết mọi chip; tương tự nếu lá kicker (lá thứ hai) thành đôi. Nhưng còn rất nhiều flop mà ta chỉ có A cao? Trên các flop đó ta có lượng equity đáng kể — quá nhiều để bỏ — nhưng không thể chơi theo cách có lợi cho implied odds.
+
+Đối thủ sẽ có đôi ở flop khoảng 1/3 số lần (người tổng hợp tính: xác suất ít nhất một lá trong hai lá khác giá trị của đối thủ thành đôi trên flop là 1 − C(44,3)/C(50,3) ≈ 0,324) và có một loại draw đáng để cam kết thêm khoảng 1/6 số lần. Do đó đối thủ có thể cam kết chính xác với khoảng 50% tay bài tốt nhất của họ. Theo nghĩa này, đối thủ "thấu thị" tốt hơn ta, và có vị trí hiệu dụng: vì họ có thể tự động check, họ thực chất buộc ta hành động trước ở flop. Mọi chiến lược ta dùng trong tình huống này đều có nhược điểm:
 
 - **Check lại:** có nguy cơ cho đối thủ lá miễn phí đánh bại ta khi ta đang có bài tốt nhất, và để ta bị bluff ra ở turn. Bù lại, ta có thêm một lá để thử thành đôi, và lấy lại vị trí hiệu dụng.
 - **Bet nhỏ rồi fold trước check-raise all-in:** để đối thủ cướp pot rất thường xuyên với các tay bài ta đang hơn; họ biến 40 hay 50% equity của mình (với draw) thành toàn bộ pot.
@@ -502,7 +508,7 @@ Jam preflop tránh được mọi khó khăn này. Nhưng ở một kích thư�
 
 *Nhưng trên thực tế, tác giả khuyên jam với mọi tay bài (thay cho raise ít hơn) khi stack khoảng 6 lần pot trước khi raise ở vị trí đầu và 7 lần pot ở gần button.*
 
-(Như khối Lưu ý đã nêu: không có ante, pot trước khi raise là 1,5 big blind, nên khuyến nghị này tương ứng khoảng 9 và 10,5 big blind.)
+(Như mục Lưu ý cuối chương đã nêu: không có ante, pot trước khi raise là 1,5 big blind, nên khuyến nghị này tương ứng khoảng 9 và 10,5 big blind.)
 
 ### 4. Chơi ở flop: người hung hãn trước đó, kết cấu board và chiến lược của big blind (Play on the Flop, trang 284–286)
 
@@ -519,7 +525,9 @@ Ví dụ, board 9♦ 8♦ 7♣ có rất nhiều draw tiềm năng; hình dạng
 
 Ý tưởng người hung hãn trước đó làm nổi bật một khía cạnh: phân phối trong poker thật ở flop (hoặc sau khi đã có hành động) gần như luôn **bất đối xứng** — khác với nhiều trò chơi đồ chơi, hai người giữ các tập tay bài khác nhau. Xét người raise ở vị trí đầu đấu với người call ở big blind. Big blind có phân phối yếu hơn đáng kể ở flop, vì đã call với tập tay bài rộng hơn nhiều nhờ giá vào pot rẻ. Ngay cả khi stack sâu và người raise có tập tay bài rộng hơn, phân phối của big blind vẫn yếu hơn nhiều.
 
-Thực ra phân phối của người raise ở vị trí này mạnh tới mức họ có lẽ có **autobet** trên hầu hết flop: nên bet với mọi tay bài nếu được check tới. Khi đó big blind nên check mọi tay bài (tác giả nói có thể chứng minh, nhưng bỏ qua chứng minh, rằng nếu người raise có autobet thì check ở vị trí hành động trước ít nhất cũng co-optimal). Điều này dẫn tới một lối chơi "nhường" người hung hãn trước đó. Có thể phản đối rằng người raise có thể khai thác việc autocheck này bằng cách check lại, nhưng tác giả tin người raise có equity cao hơn khi autobet so với khi cố khai thác bằng check lại, vì phân phối của họ mạnh tới mức họ muốn hoặc thu giá trị hoặc lấy pot. Tình huống này tương tự (một cách lỏng lẻo) với tình huống một người có ít bluff, nên đối thủ có thể fold một phần lớn tay bài (nhiều hơn α) mà không sợ bị khai thác.
+Thực ra phân phối của người raise ở vị trí này mạnh tới mức họ có lẽ có **autobet** trên hầu hết flop: nên bet với mọi tay bài nếu được check tới. Khi đó big blind nên check mọi tay bài (tác giả nói có thể chứng minh, nhưng bỏ qua chứng minh, rằng nếu người raise có autobet thì check ở vị trí hành động trước ít nhất cũng co-optimal). Điều này dẫn tới một lối chơi "nhường" người hung hãn trước đó.
+
+Có thể phản đối rằng người raise có thể khai thác việc autocheck này bằng cách check lại, nhưng tác giả tin người raise có equity cao hơn khi autobet so với khi cố khai thác bằng check lại, vì phân phối của họ mạnh tới mức họ muốn hoặc thu giá trị hoặc lấy pot. Tình huống này tương tự (một cách lỏng lẻo) với tình huống một người có ít bluff, nên đối thủ có thể fold một phần lớn tay bài (nhiều hơn α) mà không sợ bị khai thác.
 
 #### Các lựa chọn của big blind sau khi check và bị bet
 
@@ -601,7 +609,9 @@ Cách chọn không tuyệt đối: board, thứ hạng các lá trên board… 
 
 **Khi draw ra.** Nhiều nguyên tắc vẫn đúng. Nhưng vì nhiều semi-bluff giờ đã thành bài mạnh, nhiều tay bài lẽ ra check-call bị hạ xuống thành bet yếu hơn, còn tay bài lẽ ra bet yếu có thể bị hạ xuống check-fold. Ngoài ra, khi draw ra thường tạo thêm một draw mới. Nếu lá làm thành draw ở turn là lá cùng chất, lá A đơn của chất đó (không kèm lá cùng chất thứ hai) được nâng lên thành nut draw (draw tới thùng lớn nhất) trước các thùng đã thành và các tay bài đã thành khác.
 
-**Backdoor nut flush draw.** Trong chiến lược tối ưu, cầm backdoor nut flush draw ở flop (lá A của chất có hai lá trên board) có tầm quan trọng thật. Lá này có hai tác dụng. Thứ nhất, tạo khả năng có nut draw runner-runner (cần cả turn và river cùng chất), quan trọng cho equity. Thứ hai, giảm khả năng đối thủ có flush draw mạnh khi họ đẩy all-in ở flop. Giả sử ta cầm A♣ K♦ trên flop K♣ 7♣ 2♥ và đối thủ đẩy all-in với một lần raise lớn ở flop. Nếu ta cầm A♥ (thay vì A♣), phân phối của đối thủ có thể gồm một số flush draw A♣X♣, mà theo sách thường có 12 outs khi bị call (9 lá chuồn và 3 lá A; như khối Lưu ý đã nêu, con số này không chính xác khi ta cầm A♥ K♦). Nhưng vì ta cầm A♣, có thể nghiêng thêm một chút về fold, vì phân phối của đối thủ không chứa các tay bài này — dù đối thủ không biết điều đó.
+**Backdoor nut flush draw.** Trong chiến lược tối ưu, cầm backdoor nut flush draw ở flop (lá A của chất có hai lá trên board) có tầm quan trọng thật. Lá này có hai tác dụng. Thứ nhất, tạo khả năng có nut draw runner-runner (cần cả turn và river cùng chất), quan trọng cho equity. Thứ hai, giảm khả năng đối thủ có flush draw mạnh khi họ đẩy all-in ở flop.
+
+Giả sử ta cầm A♣ K♦ trên flop K♣ 7♣ 2♥ và đối thủ đẩy all-in với một lần raise lớn ở flop. Nếu ta cầm A♥ (thay vì A♣), phân phối của đối thủ có thể gồm một số flush draw A♣X♣, mà theo sách thường có 12 outs khi bị call (9 lá chuồn và 3 lá A; như mục Lưu ý cuối chương đã nêu, con số này không chính xác khi ta cầm A♥ K♦). Nhưng vì ta cầm A♣, có thể nghiêng thêm một chút về fold, vì phân phối của đối thủ không chứa các tay bài này — dù đối thủ không biết điều đó.
 
 Hiệu ứng loại bài như vậy còn có hàm ý sâu sắc cho cách chơi ở river.
 
@@ -801,7 +811,7 @@ Chương là cầu nối hiếm thấy giữa lý thuyết và thực hành tron
 - Ngưỡng jam được tính chỉ dựa trên equity showdown, bỏ qua những người hành động sau người reraise và bỏ qua chơi sau flop; tác giả thừa nhận điều này.
 - Chương giả định các đối thủ gần tối ưu và không xét tell; trong thực tế đối thủ có thể lệch xa, và lối chơi khai thác có thể lời hơn.
 - Phân tích flop chỉ xét một điểm quyết định (big blind trước người autobet) và không định mức cược cụ thể.
-- Khuyến nghị "6–7 lần pot" được đưa ra không kèm phép tính cuối cùng, và hơi lệch với phép tính 6–8 big blind ngay trước đó (xem Lưu ý).
+- Khuyến nghị "6–7 lần pot" được đưa ra không kèm phép tính cuối cùng, và hơi lệch với phép tính 6–8 big blind ngay trước đó (xem mục Lưu ý cuối chương).
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp)
 
@@ -823,4 +833,171 @@ Chương là cầu nối hiếm thấy giữa lý thuyết và thực hành tron
 ### Vận dụng
 
 - **Người chơi poker:** xây chiến lược theo chuỗi hành động: mỗi khi định bet, raise hay check, tự hỏi "nhóm tay bài nào của mình đi theo đường này, và nhóm đó có đủ bài mạnh không?". Với stack ngắn, kiểm tra tay bài yếu nhất trong phân phối raise có buộc phải call reraise không — nếu có, jam. Chọn mức cược theo kết cấu board; ở river, để ý lá trong tay khi chọn bluff.
-- **Người làm tài chính, đầu tư và ra quyết định:** ý "giá trị của lựa chọn chiến lược không âm, nên đừng cho đối phương lựa chọn miễn phí" tương ứng với giá trị quyền chọn: một cam kết từng phần (raise nhỏ) có thể trao cho đối tác quyền chọn lúc nào buộc mình cam kết hết; khi đã chắc sẽ phải đi tới cùng, cam kết toàn bộ ngay (jam) loại bỏ quyền chọn đó. Ý "tay bài yếu nhất quyết định" giống phân tích rủi ro biên: khi một danh mục phải chịu cùng một kịch bản xấu, điều quan trọng là tài sản yếu nhất có chịu được không, chứ không phải trung bình danh mục. Ý "thêm tay bài yếu làm tăng giá trị tay bài mạnh" giống việc giữ một mức không chắc chắn hợp lý trong tín hiệu thị trường (đối thủ cạnh tranh không biết chính xác sức mạnh của bạn), còn "mức raise theo vị trí, không theo tay bài" là nguyên tắc truyền thông nhất quán để không để lộ thông tin riêng qua quy mô hành động.
+- **Người làm tài chính, đầu tư và ra quyết định:** ý "giá trị của lựa chọn chiến lược không âm, nên đừng cho đối phương lựa chọn miễn phí" tương ứng với giá trị quyền chọn: một cam kết từng phần (raise nhỏ) có thể trao cho đối tác quyền chọn lúc nào buộc mình cam kết hết; khi đã chắc sẽ phải đi tới cùng, cam kết toàn bộ ngay (jam) loại bỏ quyền chọn đó.
+
+  Ý "tay bài yếu nhất quyết định" giống phân tích rủi ro biên: khi một danh mục phải chịu cùng một kịch bản xấu, điều quan trọng là tài sản yếu nhất có chịu được không, chứ không phải trung bình danh mục. Ý "thêm tay bài yếu làm tăng giá trị tay bài mạnh" giống việc giữ một mức không chắc chắn hợp lý trong tín hiệu thị trường (đối thủ cạnh tranh không biết chính xác sức mạnh của bạn), còn "mức raise theo vị trí, không theo tay bài" là nguyên tắc truyền thông nhất quán để không để lộ thông tin riêng qua quy mô hành động.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 21 trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (preflop khi vào pot đầu tiên, jam với stack ngắn, flop theo người hung hãn trước đó và kết cấu board, chọn mức cược ở flop, turn và river), mỗi nhánh ghi quy tắc chơi, phép tính và ví dụ số then chốt của tác giả; nhánh cuối là thông điệp xuyên suốt rút từ phần Key Concepts.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 21: chơi no-limit hold'em gần tối ưu theo chuỗi hành động, mỗi chuỗi một phân phối cân bằng và mức hung hãn phù hợp`"]
+  n1["`Mục 1–2 — Preflop khi vào pot đầu tiên: chỉ raise, mức raise theo vị trí`"]
+  n0 --- n1
+  n2["`Chiến lược preflop là một phân phối xác suất raise, call, fold cho mỗi tay bài`"]
+  n1 --- n2
+  n3["`88 cách button sáu ghế, stack 20 big blind: có lãi nếu mọi tay đều limp, lỗ nếu mọi tay raise gấp 4 blind`"]
+  n2 --- n3
+  n4["`Không bao giờ limp khi vào đầu tiên: phân phối mạnh hơn bài ngẫu nhiên phía sau, ép big blind, giấu thông tin`"]
+  n1 --- n4
+  n5["`Đầu bàn còn sáu người phía sau nên chọn lọc, càng gần button càng mở rộng`"]
+  n1 --- n5
+  n6["`Thêm dần tay bài có kỳ vọng dương: AA trong {99+, AQ+} đáng giá hơn trong {KK+}, nơi nó chỉ thắng tiền blind`"]
+  n1 --- n6
+  n7["`Giá trị tay bài không đơn điệu: 98s có lúc giúp cả phân phối hơn AJs vì đe doạ bài mạnh trên nhiều flop`"]
+  n6 --- n7
+  n8["`Không chơi bài yếu để đánh lừa: 52s ở đầu bàn chỉ hợp khi stack gấp một triệu lần blind, 52o không bao giờ`"]
+  n6 --- n8
+  n9["`Mức raise theo vị trí, không theo tay bài: gấp 2 big blind từ năm ghế trước button tới gấp 3 ở button`"]
+  n1 --- n9
+  n10["`Có ante thì giữ tỷ lệ pot odds cho blind: (x + 800)/(x − 400) = 2,25 cho x = 1.360, sách ghi khoảng 1.350`"]
+  n9 --- n10
+  n11["`Mục 3 — Jam khi vào đầu tiên với stack ngắn`"]
+  n0 --- n11
+  n12["`Stack 3, raise lên 2: pot 4,5 mà ta còn 1, đối thủ được chọn lúc bắt ta all-in`"]
+  n11 --- n12
+  n13["`Lựa chọn chiến lược có giá trị không âm (Chương 12) nên jam để tước lựa chọn miễn phí của đối thủ`"]
+  n12 --- n13
+  n14["`Raise {77+, AJs+, AQ+, KQs} trước reraise {TT+, AQs+, AK+}: cả phân phối 41,9% nhưng phải xét tay bài yếu nhất`"]
+  n11 --- n14
+  n15["`Tay bài yếu nhất mỗi loại: 77 có 33,0%, AJs 32,0%, KQs 31,88% equity`"]
+  n14 --- n15
+  n16["`(0,3188)(2x + 1,5) #gt; x − 2 cho x #lt; 6,84 big blind: dưới mức này buộc phải call reraise, sách in nhầm x #gt; 6,83`"]
+  n14 --- n16
+  n17["`Ở stack ngưỡng, đối thủ gần tối ưu phải reraise all-in với cùng phân phối N dù ta jam hay raise nhỏ`"]
+  n11 --- n17
+  n18["`Stack 6: N cần 12/27 ≈ 44,44%, N = {99+, AK}, 77 có 29,91%, 0,2991 × 13,5 − 4 #gt; 0 nên vẫn phải call`"]
+  n17 --- n18
+  n19["`Stack 8: N cần 16/35 ≈ 45,7%, N = {TT+, AK}, 77 có 31,41%, 0,3141 × 17,5 − 6 #lt; 0 nên không phải call`"]
+  n17 --- n19
+  n20["`Button, stack 10, raise 3: N = {33+, A2s+, A5o+, KTs+, KTo+, QJs}, K8o có 33,4%, 0,334 × 21,5 − 7 #gt; 0`"]
+  n17 --- n20
+  n21["`AXo raise 3 với stack 12: flop chỉ có A cao, đối thủ có đôi khoảng 1/3, draw thêm 1/6, mọi cách chơi đều có nhược điểm`"]
+  n11 --- n21
+  n22["`Khuyến nghị: jam mọi tay bài khi stack khoảng 6 lần pot trước khi raise ở đầu bàn, 7 lần gần button (khoảng 9 và 10,5 big blind)`"]
+  n11 --- n22
+  n23["`Mục 4 — Flop: người hung hãn trước đó, kết cấu board, chiến lược của big blind`"]
+  n0 --- n23
+  n24["`Người hung hãn trước đó (bet hoặc raise cuối ở preflop) thường có phân phối mạnh hơn, kèm bài yếu để cân bằng`"]
+  n23 --- n24
+  n25["`Board động 9♦ 8♦ 7♣ nhiều draw, board tĩnh K♠ 8♣ 2♦ chủ yếu draw 5–6 outs, A♥ A♣ A♦ cực tĩnh`"]
+  n23 --- n25
+  n26["`Phân phối bất đối xứng: big blind call với giá rẻ nên yếu hơn nhiều so với người raise sớm`"]
+  n23 --- n26
+  n27["`Người raise sớm autobet trên hầu hết flop, big blind check mọi tay bài (ít nhất co-optimal)`"]
+  n26 --- n27
+  n28["`Mỗi bên hành động theo vùng có tay bài ngưỡng, chia vùng sao cho đối thủ dịch ngưỡng không có lợi`"]
+  n23 --- n28
+  n29["`Tay bài có giá trị hiện tại (sức mạnh lúc này) và giá trị draw (sức mạnh ở river)`"]
+  n28 --- n29
+  n30["`Năm nhóm của big blind: bài mạnh, một đôi, bài yếu draw rất mạnh, draw trung bình, bài yếu không draw`"]
+  n28 --- n30
+  n31["`Đối thủ fold nhiều thì draw yếu được lợi, reraise nhiều thì bài mạnh và draw rất mạnh được lợi`"]
+  n28 --- n31
+  n32["`Check-raise: draw rất yếu, một phần bài rất mạnh, draw rất mạnh như straight flush draw hai đầu`"]
+  n23 --- n32
+  n33["`Check-call: bài trung bình, một số bài mạnh, draw yếu hơn như flush draw có A cao, cả hai nhánh cùng cân bằng`"]
+  n23 --- n33
+  n34["`Mục 5 — Flop: chọn mức cược theo kết cấu board`"]
+  n0 --- n34
+  n35["`Tăng trưởng hình học: cược cùng tỷ lệ f của pot mỗi vòng, (1 + 2f)ⁿ = 1 + 2S/P`"]
+  n34 --- n35
+  n36["`Pot 10, stack 50: f ≈ 0,41 với bốn vòng, 0,61 với ba vòng, 1,16 với hai vòng`"]
+  n35 --- n36
+  n37["`Board tĩnh như KK4: cược theo hình học ba vòng (giữa 1/3 pot và 1 pot), không bao giờ overbet`"]
+  n34 --- n37
+  n38["`Stack lớn hơn: dùng hình học bốn vòng, chừa một vòng cho lần raise của đối thủ`"]
+  n37 --- n38
+  n39["`Draw hiển nhiên cho người có phân phối yếu lợi thế thấu thị ở river, nên cược lớn hơn ở vòng sớm`"]
+  n34 --- n39
+  n40["`Board draw vừa phải K♠ 7♥ 2♥: tăng khoảng một nửa, 1/2 pot thành 3/4 pot`"]
+  n39 --- n40
+  n41["`Board cực nhiều draw 9♠ 8♠ 7♦ hoặc ba lá cùng chất: cược theo hình học hai vòng`"]
+  n39 --- n41
+  n42["`Cược lớn thì cược ít tay hơn: trên K♣ 7♣ 4♣ check lại AQ không có chuồn và cả A♣Ax, A♣Kx`"]
+  n34 --- n42
+  n43["`Mục 6–7 — Turn và river`"]
+  n0 --- n43
+  n44["`Draw hiển nhiên không ra: draw trượt chỉ còn khoảng 20%, phân phối mạnh hơn có lợi`"]
+  n43 --- n44
+  n45["`Turn check vài bài rất mạnh, bài vừa thành hai đôi, bài check-call, check-fold, bet bài giá trị và semi-bluff`"]
+  n44 --- n45
+  n46["`Lỗi phổ biến: raise preflop, bet flop rồi check-fold ở turn quá thường, sửa bằng check thêm bài mạnh`"]
+  n44 --- n46
+  n47["`Draw ra: check-call hạ thành bet nhỏ, bet nhỏ hạ thành check-fold, A đơn của chất đó thành nut draw`"]
+  n43 --- n47
+  n48["`A♣ K♦ trên K♣ 7♣ 2♥: cầm A♣ loại A♣X♣ khỏi phân phối đối thủ, nghiêng thêm về fold trước all-in`"]
+  n43 --- n48
+  n49["`River giống trò chơi [0,1] bất đối xứng nhưng rời rạc và có hiệu ứng loại bài: value bet theo hình học`"]
+  n43 --- n49
+  n50["`Cược phủ đầu 1/10 tới 1/6 pot với bài trung bình và bài rất mạnh, ép đối thủ raise bằng bluff hoặc bỏ bluff`"]
+  n49 --- n50
+  n51["`Seven-card stud: aces up trước flush draw lộ, cầm một lá chất đó thì luôn call, không cầm thì call theo tỷ lệ`"]
+  n49 --- n51
+  n52["`Thông điệp xuyên suốt (Mục 8 — Key Concepts)`"]
+  n0 --- n52
+  n53["`Mỗi chuỗi hành động có vùng giá trị, semi-bluff và bluff đi cùng nhau`"]
+  n52 --- n53
+  n54["`Còn nhiều hành động phía sau thì mọi chuỗi phải đe doạ có bài mạnh, tránh bị overbet tuỳ tiện`"]
+  n52 --- n54
+  n55["`Bị khai thác ở một vòng có thể do đối thủ đã hy sinh equity vòng trước (Ví dụ 20.2: call 1/7, sách in 1/6)`"]
+  n52 --- n55
+  n56["`Mục tiêu ván bài: tới river với hỗn hợp bài mạnh, trung bình, yếu và pot tương xứng sức mạnh phân phối`"]
+  n52 --- n56
+  n57["`Poker nhiều người không có chiến lược tối ưu, nên nhắm gần tối ưu, có lãi trước nhiều kiểu đối thủ`"]
+  n52 --- n57
+  class n0 root
+  class n1,n11,n23,n34,n43,n52 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 21 "A Case Study: Using Game Theory", trang 277–290.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương cuối của Phần III (Chơi tối ưu — Optimal Play).
+
+Các chương trước của Phần III giải các trò chơi đồ chơi: lý thuyết trò chơi cơ bản ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)), trò chơi half-street và hằng số α = 1/(P + 1) ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)), trò chơi jam-or-fold và giá trị không âm của lựa chọn chiến lược ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)), trò chơi AKQ có giới hạn và không giới hạn ([C13-tro-choi-akq.md](C13-tro-choi-akq.md), [C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md)), chọn mức cược no-limit và "tăng trưởng hình học của pot" ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)), các trò chơi [0,1] ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md), [C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md), [C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) và các trò chơi nhiều vòng tĩnh và động ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md), [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)).
+
+Chương 21 không giải thêm trò chơi nào; nó cho thấy cách tác giả áp dụng các kết quả đó vào no-limit hold'em thật, từ preflop tới river.
+
+Phần IV tiếp theo chuyển sang rủi ro và quản lý bankroll ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md)); Phần V ([C29-tro-choi-nhieu-nguoi.md](C29-tro-choi-nhieu-nguoi.md)) giải thích vì sao poker nhiều người không có chiến lược tối ưu — lý do chương này chỉ nói "gần tối ưu".
+
+## Lưu ý
+
+- **Phép giải ngưỡng stack ngắn ngược dấu (trang 282):** sách viết (0,3188)(2x + 1,5) > x − 2 rồi "x > 6,83". Giải đúng: 0,6376x + 0,4782 > x − 2, tức 0,3624x < 2,4782, nên **x < 6,838**. Nghĩa là khi stack nhỏ hơn khoảng 6,84 big blind, ta buộc phải call một lần reraise all-in với mọi tay bài; ngưỡng là khoảng 6,84 (sách làm tròn xuống 6,83 và đổi chiều bất đẳng thức). Lời văn "a little less than seven big blinds" vẫn đúng về con số.
+- **Ví dụ ante (trang 280):** sách giải (x + 800)/(x − 400) = 1.800/800 được "x = 1.350" và "raise thêm khoảng 150". Tính lại: x + 800 = 2,25(x − 400), tức 1,25x = 1.700, x = **1.360**, raise thêm 160. Sai lệch nhỏ, không đổi kết luận.
+- **Phần Key Concepts ghi sai tần suất (trang 290):** câu "tay bài lộ chỉ cần call 1/6 số lần ở river vì đối thủ đã phải call một bet ở turn" nhắc lại Ví dụ 20.2, nơi tay bài lộ call **1/7** (pot 6 big bet ở river, x(−7/5) + 1/5 = 0 cho x = 1/7).
+- **Ví dụ A♣ K♦ trên flop K♣ 7♣ 2♥ (trang 289):** sách nói nếu ta cầm A♥ (thay vì A♣), phân phối của đối thủ có thể gồm A♣X♣ "thường có 12 outs khi bị call (9 lá chuồn và 3 lá A)". Người tổng hợp nhận xét: nếu ta cầm A♥ và đối thủ cầm A♣ thì chỉ còn 2 lá A, không phải 3; hơn nữa với tay bài A♥ K♦ của ta, lá A ra cho ta hai đôi A và K nên không giúp đối thủ. Con số 12 outs chỉ hợp khi đối thủ đấu với một tay bài một đôi K không có A. Ý chính (cầm A♣ làm giảm khả năng đối thủ có flush draw mạnh nhất) không đổi.
+- **Phân phối raise ghi không thống nhất (trang 281–282):** lần đầu sách ghi {77+, AJs+, AQ+, KQs}, lần sau (khi tính jam stack 6) ghi (77+, AJs+, KQs), thiếu AQ+. Người tổng hợp tính lại bằng mô phỏng với phân phối có AQ+ và thấy các ngưỡng khớp với sách.
+- **Board ví dụ không thống nhất:** trang 284 dùng 9♦ 8♦ 7♣ làm ví dụ board nhiều draw, trang 287 nhắc lại "board đã nói ở trên" nhưng ghi 9♠ 8♠ 7♦. Hai board có cùng cấu trúc (hai lá cùng chất, ba lá liên tiếp), không ảnh hưởng nội dung.
+- **Khuyến nghị jam "6 lần pot trước khi raise" (trang 284, nhận xét của người tổng hợp):** pot trước khi raise (không ante) là 1,5 big blind, nên 6 lần pot là 9 big blind và 7 lần pot là 10,5 big blind. Phép tính ngay trước đó lại cho ngưỡng 6–8 big blind ở vị trí đầu. Có thể tác giả cộng thêm "các lợi ích khác của jam" (tránh khó khăn sau flop) để nâng ngưỡng; sách không nói rõ.
+- **Kiểm tra các con số equity bằng mô phỏng (người tổng hợp):** người tổng hợp viết một chương trình mô phỏng Monte Carlo (25.000–40.000 ván mỗi cặp, sai số chuẩn khoảng 0,25 điểm phần trăm) và được: {77+, AJs+, AQ+, KQs} so với {TT+, AQs+, AK+}: 41,9% (sách 41,9%); 77: 33,1% (sách 33,0%); AJs: 32,3% (sách 32,0%); KQs: 32,0% (sách 31,88%); 77 so với {99+, AK}: 29,8% (sách 29,91%); 77 so với {TT+, AK}: 31,2% (sách 31,41%); K8o so với phân phối reraise của button: 33,3% (sách 33,4%).
+
+  Các tay bài ở biên của phân phối reraise cũng khớp: 99 có khoảng 45,5% trước phân phối jam (trên ngưỡng 44,44%, dưới ngưỡng 45,7%), 88 khoảng 41,4%, AQs khoảng 43,2%; trước phân phối raise của button, 33 khoảng 47,8% (vào), 22 khoảng 46,1% (không vào, ngưỡng 46,5%), A5o khoảng 46,5% (biên), A4o khoảng 45,4%, K9o khoảng 43,9%. Tất cả khớp với sách trong phạm vi sai số mô phỏng.
+- **Lỗi đánh máy và lớp chữ:** "Part H" (trang 286) là "Part II"; "Ako" là AKo; "{99+. AQ+]" là {99+, AQ+}; "liis", "thaw" (trang 283, 287) là "his", "draw"; "Bush draw" (trang 288) là "flush draw"; "La fact", "hi a raise-only" là "In fact", "in a raise-only"; "unproved" (trang 288) là "improved"; "information biding" là "information hiding"; "a bluffer semi-bluff" (trang 287) có lẽ là "a bluff or semi-bluff"; câu cuối của ví dụ seven-card stud (trang 290) "an appropriate additional fraction of the otherwise" thiếu chữ ("of the time otherwise").
+
+  Các phân số trong lớp chữ bị làm phẳng ("4 12" là 4½, "1227" là 12/27, "2043" là 20/43, "110 to 16" là 1/10 tới 1/6).
+- **Quy ước đơn vị:** trong phần jam, sách dùng "đơn vị" (unit) bằng một big blind, small blind 0,5 đơn vị, nên pot trước khi raise là 1,5 đơn vị. Cụm "k off the button" (ví dụ "six off the button") chỉ vị trí cách button k ghế về phía trước, tức càng lớn càng ở đầu bàn; bản tổng hợp dịch là "cách button k ghế" hoặc "k ghế trước button".

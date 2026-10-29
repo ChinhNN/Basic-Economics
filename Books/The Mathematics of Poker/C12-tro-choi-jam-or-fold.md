@@ -1,28 +1,22 @@
 # Chương 12 — Heads-up với blind cao: trò chơi jam-or-fold (Headsup With High Blinds: The Jam-or-Fold Game)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 12 "Headsup With High Blinds: The Jam-or-Fold Game", trang 125–142.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)) đặt khái niệm chiến lược tối ưu, nemesis, nguyên lý bàng quan; Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) giải ba trò chơi half-street, giới thiệu phân phối [0,1] và kỹ thuật phương trình bàng quan tại ngưỡng. Chương 12 dùng đúng các công cụ đó cho một trò chơi có ích ngay trong thực tế: heads-up no-limit hold'em khi người ở button chỉ được all-in (jam) hoặc fold. Trò chơi này không hẳn là half-street, nhưng nếu tính tổng giá trị (gồm cả blind) thì người hành động trước có vai trò giống Y của Chương 11: fold (tương tự check) cho giá trị cố định, hoặc cược một khoản rồi người kia call hay fold. Chương cũng giới thiệu thuật toán **fictitious play** (chơi giả tưởng) để giải trò chơi bằng máy tính, khái niệm **card removal** (lá bài trong tay làm giảm xác suất đối thủ có những tay bài dùng lá đó), và **cỡ stack hiệu dụng**. Chương 13 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)) quay lại trò chơi đồ chơi với ba lá A, K, Q; Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) bàn chọn mức cược no-limit; Phần V ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md), [C27-giai-dau-phan-2-chip-khong-phai-tien.md](C27-giai-dau-phan-2-chip-khong-phai-tien.md)) bàn giải đấu, nơi tình huống heads-up blind cao thường gặp.
-**Ý chính:** **Khi stack chỉ còn khoảng 10 big blind trở xuống trong heads-up no-limit hold'em, chiến lược "jam hoặc fold" gần như tối ưu, và chiến lược tối ưu của nó rộng hơn nhiều so với trực giác: với stack 8 big blind, button jam khoảng 62% số tay bài.** Chương đi qua ba bước. **Ví dụ 12.1 — [0,1] Jam-or-Fold Game #1** (bài tốt hơn luôn thắng; stack S; attacker Y ở button đặt 0,5, defender X đặt 1): mỗi người chỉ có một ngưỡng; bàng quan cho x = 3/(2 + 2S) (12.1) và y = 2Sx/(S + 1) (12.2), tức y = 3S/(1 + S)² (12.3); giá trị cho attacker là 9S/(4(1 + S)²) − 1/2, dương chỉ khi S < 2; trò chơi khá chặt và có lợi cho defender. **Ví dụ 12.2 — [0,1] Jam-or-Fold Game #2** (bài tệ hơn vẫn có 1/3 equity): với S < 3 defender call mọi bài và attacker jam khi y < (2S + 3)/(4S); với S > 3 nghiệm là Game #1 với "cỡ stack hiệu dụng" S/3: x = 9/(2(S + 3)) (12.5), y = 9S/(S + 3)² (12.6); giá trị cho attacker dương tới tận S = 6; tại S = 10 attacker jam 90/169 ≈ 53% bài. **Ví dụ 12.3 — Jam-or-Fold No-limit Hold'em**: với stack cực lớn chỉ AA được chơi, rồi tay đầu tiên thêm vào là ATs (do card removal) ở S = 833,25, rồi A5s ở 833,12 — chiến lược nhảy rời rạc như chuyển pha trong vật lý; với stack cực nhỏ (S = 1,1) cả hai chơi mọi bài, ở S = 2 attacker bỏ 13 loại bài tệ nhất còn defender vẫn call mọi bài. Thuật toán fictitious play cho ra **bảng jam-or-fold** — với mỗi loại bài, stack lớn nhất (tính theo big blind) mà attacker nên jam và defender nên call; tại S = 10 attacker jam 774/1.326 (58,3%), defender call 494/1.326 (37,3%), gần với Game #2. Lá đồng chất và equity trước dải bài call (không phải trước bài ngẫu nhiên) quyết định bài nào được jam: 97s jam tới khoảng 36 big blind. Phân tích so sánh "raise lên 2 rồi fold khi bị jam lại" với "jam" cho thấy jam-or-fold gần tối ưu tới khoảng 10 big blind (có thể 12–13 nếu attacker sẽ ở thế bất lợi vị trí sau flop).
+## Ý chính
 
-> **Lưu ý:**
-> - **Sai chiều (Example 12.2 Case 1, trang 130):** sau khi giải được y₁ < (2S + 3)/(4S), sách viết "vì attacker jam khi giá trị bài y₁ *lớn hơn* số này". Đúng là *nhỏ hơn* (bài số nhỏ là bài mạnh); ngưỡng y = (2S + 3)/(4S) không đổi.
-> - **Dấu (trang 130):** "For X, the expectation of folding to a jam is 1 unit" — đúng là **−1** đơn vị (defender mất big blind); phương trình ngay sau dùng đúng ⟨X, fold⟩ = −1.
-> - **Công thức call của defender (trang 131):** sách viết "the defender to defend with 9S/(S+3) of his hands"; đúng là **9/(2(S + 3))** như Phương trình 12.5 (với S = 10 cho 9/26, đúng số sách dùng ngay sau đó). Biểu thức 9S/(S + 3) lớn hơn 1 với mọi S > 3/8, không thể là một tần suất.
-> - **Công thức ngưỡng ATs (trang 134):** sách viết ⟨ATs, jam x⟩ = 1,5(1222/1225) + (3/1225)((0,13336)(x) − x) và ra x = 833,25. Thay số đúng như in thì được x ≈ 705,0. Kết quả 833,25 chỉ đúng khi pot là **2x**: 1,5 × 1222 = 3 × (1 − 2 × 0,13336) × x, x = 1833/2,19984 ≈ 833,24 — khớp với phép tính ở stack 2000 ngay trước đó (pot 4000). Vậy công thức in thiếu hệ số 2.
-> - **Lỗi số học (trang 135):** từ 0,8353·ATs% + 0,8085·A5s% = 1,5447 với A5s% = 100%, sách ghi 0,8353·ATs% = 0,70935 và ATs% = 87,73%. Đúng là 1,5447 − 0,8085 = **0,7362**, nên ATs% = 0,7362/0,8353 ≈ **88,1%**. (Ngay cả với số 0,70935 của sách, 0,70935/0,8353 = 84,9%, không phải 87,73%.)
-> - **Mâu thuẫn trong lời văn (trang 136):** ngay sau khi tính attacker jam ATs khoảng 88% số lần ở S = 833, sách viết "trước đó ta jam 100% ATs; giờ … ta jam nó chỉ hơn 25% một chút". Con số 25% không khớp với phép tính nào trong sách; theo phép tính, ATs giảm từ 100% xuống khoảng 88%.
-> - **Sai chiều (trang 136):** "0,323 > (S − 0,5)/(2S), S > 1,412" — giải ra phải là **S < 1,412**: 32o chỉ đáng jam khi stack nhỏ hơn 1,412; lời văn ngay sau ("khi stack lên tới 1,412 thì không còn jam 32o có lời") đúng.
-> - **Lỗi số học làm yếu lập luận ở mục ứng dụng (trang 141):** ⟨raise lên 2, Q3o⟩ = (0,454)(−2) + (0,546)(+1) = −0,908 + 0,546 = **−0,362**, không phải −0,638 như sách in. Với số đúng, raise lên 2 rồi fold khi bị jam lại (−0,362) *tốt hơn* jam (−0,558) và tốt hơn fold (−0,5) với Q3o ở S = 8 (khi defender chơi chiến lược J₂). Điều này có nghĩa là trước J₂, ngưỡng "raise nhỏ bắt đầu có lời" nằm *dưới* 8 big blind, chứ không phải "xấp xỉ bằng" như sách nói. Kết luận thực hành của sách (jam-or-fold đến khoảng 10 big blind) dựa thêm vào việc defender còn được call raise nhỏ, nên người tổng hợp không đánh giá được mức sai lệch cuối cùng (nhận xét của người tổng hợp).
-> - **Nhầm ký hiệu (trang 141):** "The defender is not restricted to playing J₁" — J₁ là chiến lược raise lên 2 của attacker; ý đúng là **J₂**.
-> - **Khung tính không nhất quán, sai số không đáng kể:** ở các phép tính stack rất lớn (AA, ATs, A5s), sách cộng +1,5 khi defender fold (lợi so với fold) nhưng khi bị call lại dùng equity × pot − S (không cộng lại 0,5 đã mất nếu fold); tương tự bảng chênh lệch của AKs bỏ +1. Tính nhất quán thì ngưỡng ATs là 833,92 thay vì 833,25 và các chênh lệch AKs là −1,5422; 0,8377; 0,8110 thay vì −1,5447; 0,8353; 0,8085. Kết luận không đổi.
-> - **Thiếu công thức trộn (trang 133):** đoạn mô tả fictitious play viết "với mỗi điểm quyết định, ta kết hợp chiến lược cũ S_old và chiến lược trả đũa mới S_new" nhưng công thức bị mất trong bản PDF này. Theo hiểu biết của người tổng hợp, công thức chuẩn là S = (1 − m)·S_old + m·S_new.
-> - **Các con số không khớp được với bảng jam-or-fold (người tổng hợp đếm từ bảng chép ở mục 6):** (a) ở S = 8 (câu hỏi 16 chip, blind 1/2 chip), các ô có số lớn hơn 8 cộng hai tay "gãy" 53s, 43s cho 838/1.326 ≈ 63,2% (không tính hai tay gãy: 830, 62,6%), trong khi sách nói 61,7% (818 tổ hợp); (b) sách nói ở S = 4 defender jam lại với "115 trên 169 loại bài, 838/1.326 (63%)", nhưng bảng defender ở S = 4 cho 130 loại bài, 954 tổ hợp (72%); 115 loại bài ứng với S khoảng 4,7–4,8. Các số khác khớp: S = 10 attacker 774 (khi tính 43s, mốc 10,0), defender 494; S = 8 defender 602 (tính ô Q7o = 8); S = 2 khớp đúng 13 loại bài attacker bỏ; S = 3 khớp danh sách jam của attacker, còn danh sách fold của defender khớp trừ cách xử lý ba ô bằng đúng 3 (63o bị fold, 43o và 92o được call).
-> - **Bảng attacker thiếu tiêu đề cột:** hàng tiêu đề của bảng attacker chỉ in A, K, Q, J, T, 9, 8, 7, 6; bốn cột cuối (5, 4, 3, 2) không có nhãn. Bảng defender có đủ. Số trong bảng là ảnh độ phân giải thấp; người tổng hợp phóng to để đọc; một vài số (ví dụ defender A4o = 18,6, A5o = 20,9) đọc khó, đã kiểm tra bằng tính đơn điệu và các số đếm ở trên.
-> - **Mô hình Game #1 chỉ đúng khi S ≥ 1:** nghiệm giả định x ≤ y; 3/(2(1 + S)) ≤ 3S/(1 + S)² tương đương S ≥ 1. Tại S = 1, x = y = 3/4 (đúng như sách nói ở Example 12.2). Sách không nêu điều kiện này (nhận xét của người tổng hợp).
-> - **Equity AKs:** sách cho AKs có 41,442% trước {AA, ATs} và 50,9% trước {AA, ATs, A5s}; trung bình đơn giản các equity sách cho (12,141%; 70,473%; 69,817%, mỗi tay 3 tổ hợp) là 41,31% và 50,81%. Chênh lệch nhỏ có thể do chất của lá bài; người tổng hợp không có bộ đánh giá bài để tính lại các equity hold'em.
-> - **Lỗi đánh máy và lớp chữ:** "Viewed in this fight" (light), "ox X" (or X), "raise all-in to 5units" (S units), "favors tire attacker" (the), "relatively right" (tight), "no-lmit", "t is." (It is.), "chat strategies" (that), "for (fee defender)" (the), "be maximizes" (he), "Tb do this" (To), "hi the pot" (in), "janmiing", "for chose stack sizes" (those), "drought to apply" (thought); câu "At a stack size of 1.1, then, he will call when his equity…" nói về attacker nên là "jam". "Figure 12.2" là hình duy nhất của chương (không có Hình 12.1). Trong công thức giá trị vùng 3/2–3, dấu "≥" là lỗi in của "=". Key Concepts nói "khoảng 10 hoặc 11 blind", lời văn nói "10, có thể 12 hoặc 13".
-> - **Quy ước:** "jam" (đẩy hết stack, all-in) giữ nguyên; attacker là người ở button (đặt small blind 0,5, hành động trước), defender là big blind (đặt 1). S là stack của mỗi người *trước khi* đặt blind, tính theo big blind. Ký hiệu bài: "s" đồng chất (suited), "o" khác chất (offsuit); 1.326 là số tổ hợp hai lá; 169 là số loại bài.
+**Khi stack chỉ còn khoảng 10 big blind trở xuống trong heads-up no-limit hold'em, chiến lược "jam hoặc fold" gần như tối ưu, và chiến lược tối ưu của nó rộng hơn nhiều so với trực giác: với stack 8 big blind, button jam khoảng 62% số tay bài.**
+
+Chương đi qua ba bước. **Ví dụ 12.1 — [0,1] Jam-or-Fold Game #1** (bài tốt hơn luôn thắng; stack S; attacker Y ở button đặt 0,5, defender X đặt 1): mỗi người chỉ có một ngưỡng; bàng quan cho x = 3/(2 + 2S) (12.1) và y = 2Sx/(S + 1) (12.2), tức y = 3S/(1 + S)² (12.3); giá trị cho attacker là 9S/(4(1 + S)²) − 1/2, dương chỉ khi S < 2; trò chơi khá chặt và có lợi cho defender.
+
+**Ví dụ 12.2 — [0,1] Jam-or-Fold Game #2** (bài tệ hơn vẫn có 1/3 equity): với S < 3 defender call mọi bài và attacker jam khi y < (2S + 3)/(4S); với S > 3 nghiệm là Game #1 với "cỡ stack hiệu dụng" S/3: x = 9/(2(S + 3)) (12.5), y = 9S/(S + 3)² (12.6); giá trị cho attacker dương tới tận S = 6; tại S = 10 attacker jam 90/169 ≈ 53% bài.
+
+**Ví dụ 12.3 — Jam-or-Fold No-limit Hold'em**: với stack cực lớn chỉ AA được chơi, rồi tay đầu tiên thêm vào là ATs (do card removal) ở S = 833,25, rồi A5s ở 833,12 — chiến lược nhảy rời rạc như chuyển pha trong vật lý.
+
+Với stack cực nhỏ (S = 1,1) cả hai chơi mọi bài, ở S = 2 attacker bỏ 13 loại bài tệ nhất còn defender vẫn call mọi bài.
+
+Thuật toán fictitious play cho ra **bảng jam-or-fold** — với mỗi loại bài, stack lớn nhất (tính theo big blind) mà attacker nên jam và defender nên call; tại S = 10 attacker jam 774/1.326 (58,3%), defender call 494/1.326 (37,3%), gần với Game #2.
+
+Lá đồng chất và equity trước dải bài call (không phải trước bài ngẫu nhiên) quyết định bài nào được jam: 97s jam tới khoảng 36 big blind.
+
+Phân tích so sánh "raise lên 2 rồi fold khi bị jam lại" với "jam" cho thấy jam-or-fold gần tối ưu tới khoảng 10 big blind (có thể 12–13 nếu attacker sẽ ở thế bất lợi vị trí sau flop).
 
 ## Sơ đồ
 
@@ -345,7 +339,7 @@ Vì (1 + S)x = 3/2 nên ngoặc vuông bằng 0:
 ⟨Y⟩ = −1/2 + y[3/2 − 3/2] + 9S/(4(1 + S)²)
 **⟨Y⟩ = 9S/(4(1 + S)²) − 1/2**
 
-Sách viết: với stack từ 1 đến 2, trò chơi có lợi cho attacker; trên 2 đơn vị, có lợi cho defender. Người tổng hợp kiểm tra: ⟨Y⟩ > 0 khi 9S > 2(1 + S)², tức 2S² − 5S + 2 < 0, tức (2S − 1)(S − 2) < 0, tức 1/2 < S < 2 (mô hình chỉ đúng khi S ≥ 1, xem Lưu ý). Khi stack tiến tới vô cùng, lợi thế của defender tiến tới 0,5 đơn vị anh ta được khi attacker fold, vì attacker phải fold rất thường xuyên. Tổng thể, đây là trò chơi khá tệ cho attacker.
+Sách viết: với stack từ 1 đến 2, trò chơi có lợi cho attacker; trên 2 đơn vị, có lợi cho defender. Người tổng hợp kiểm tra: ⟨Y⟩ > 0 khi 9S > 2(1 + S)², tức 2S² − 5S + 2 < 0, tức (2S − 1)(S − 2) < 0, tức 1/2 < S < 2 (mô hình chỉ đúng khi S ≥ 1, xem mục Lưu ý cuối chương). Khi stack tiến tới vô cùng, lợi thế của defender tiến tới 0,5 đơn vị anh ta được khi attacker fold, vì attacker phải fold rất thường xuyên. Tổng thể, đây là trò chơi khá tệ cho attacker.
 
 Hình 12.2 của sách vẽ ba đường theo stack từ 0 đến 20: ngưỡng jam y (chấm), ngưỡng call x (liền), equity của Y (đậm). Người tổng hợp lập bảng giá trị chính xác từ công thức:
 
@@ -388,7 +382,7 @@ S/3 − 2Sy₁/3 > −1/2
 2S − 4Sy₁ > −3
 y₁ < (2S + 3)/(4S)
 
-Vậy attacker jam khi bài y₁ *nhỏ hơn* (mạnh hơn) số này (sách viết "lớn hơn", xem Lưu ý), và ngưỡng là:
+Vậy attacker jam khi bài y₁ *nhỏ hơn* (mạnh hơn) số này (sách viết "lớn hơn", xem mục Lưu ý cuối chương), và ngưỡng là:
 
 **y = (2S + 3)/(4S)**
 
@@ -410,7 +404,7 @@ Một đồng nhất thức hữu ích: nếu có showdown (jam và call), ngư�
 xS + 3x = 9/2
 **x = 9/(2(S + 3))** (12.5)
 
-Với X, kỳ vọng fold trước jam là −1 (sách in "1", xem Lưu ý). Như ở Ví dụ 12.1, attacker jam y bài (x < y), trong đó (y − x)/y tệ hơn ngưỡng call x và x/y tốt hơn:
+Với X, kỳ vọng fold trước jam là −1 (sách in "1", xem mục Lưu ý cuối chương). Như ở Ví dụ 12.1, attacker jam y bài (x < y), trong đó (y − x)/y tệ hơn ngưỡng call x và x/y tốt hơn:
 
 ⟨X, call | x⟩ = p(attacker tốt hơn)(−S/3) + p(attacker tệ hơn)(+S/3) = (−S/3)(x/y) + (S/3)(y − x)/y = (S/3)(y − 2x)/y
 ⟨X, fold⟩ = −1
@@ -523,7 +517,7 @@ Nếu attacker jam ATs (tay đầu tiên được thêm) ở stack 2000, equity 
 
 Giải thích: khi cầm ATs (ví dụ A♠T♠), còn 50 lá, tức 1.225 tổ hợp cho defender; chỉ còn 3 lá A nên defender có AA trong 3 tổ hợp. ATs có 13,336% equity trước AA. Tức là mất khoảng 2 đơn vị mỗi lần jam (người tổng hợp tính lại: 1,49633 − 3,59158 = −2,09525 ✓).
 
-Từ công thức này tìm được kích thước stack chính xác x mà ATs bắt đầu có lời khi jam trước defender chỉ call AA (sách in thiếu hệ số 2 ở pot, xem Lưu ý):
+Từ công thức này tìm được kích thước stack chính xác x mà ATs bắt đầu có lời khi jam trước defender chỉ call AA (sách in thiếu hệ số 2 ở pot, xem mục Lưu ý cuối chương):
 
 1,5(1222/1225) + (3/1225)((0,13336)(2x) − x) = 0
 **x = 833,25**
@@ -534,7 +528,9 @@ Xét lựa chọn của defender khi attacker jam cả ATs lẫn AA. Defender c�
 
 #### Chuyển pha
 
-Hiện tượng thú vị này tương tự **chuyển pha** trong vật lý: tại một nhiệt độ tới hạn, chất đột ngột chuyển từ rắn sang lỏng — cấu hình thay đổi mạnh chỉ vì nhiệt độ thay đổi một chút. Lý do là trạng thái cân bằng có thể thay đổi lớn ngay cả khi hệ bị nhiễu nhỏ. Có thể thấy điều này ngay trong hệ đơn giản nhất, một chiều: nhiễu f(x) một chút thì có những điểm tới hạn nơi điểm cực tiểu "nhảy" từ chỗ này sang chỗ khác. Tương tự, có thể coi tỷ số giữa kích thước pot và stack trong trò chơi này là nhiệt độ — tăng tỷ số thì trò chơi "ấm" lên. Chơi với blind 0,5 và 1 và stack 800 là trò chơi nhiệt độ rất thấp. Blind bằng 0 (khi đồng tối ưu là fold mọi bài) tương tự độ không tuyệt đối — không có chuyển động nào.
+Hiện tượng thú vị này tương tự **chuyển pha** trong vật lý: tại một nhiệt độ tới hạn, chất đột ngột chuyển từ rắn sang lỏng — cấu hình thay đổi mạnh chỉ vì nhiệt độ thay đổi một chút. Lý do là trạng thái cân bằng có thể thay đổi lớn ngay cả khi hệ bị nhiễu nhỏ. Có thể thấy điều này ngay trong hệ đơn giản nhất, một chiều: nhiễu f(x) một chút thì có những điểm tới hạn nơi điểm cực tiểu "nhảy" từ chỗ này sang chỗ khác.
+
+Tương tự, có thể coi tỷ số giữa kích thước pot và stack trong trò chơi này là nhiệt độ — tăng tỷ số thì trò chơi "ấm" lên. Chơi với blind 0,5 và 1 và stack 800 là trò chơi nhiệt độ rất thấp. Blind bằng 0 (khi đồng tối ưu là fold mọi bài) tương tự độ không tuyệt đối — không có chuyển động nào.
 
 #### A5s và việc làm defender bàng quan với AKs
 
@@ -694,7 +690,11 @@ Hầu hết tình huống thực tế không như các ví dụ trên — không
 
 So với Jam-or-Fold Game #2 (bài yếu hơn có 1/3 equity): ở stack 10, trong Game #2 attacker jam 90/169 (53,2%) và defender call 9/26 (34,6%). Trong jam-or-fold no-limit hold'em, ở stack 10, attacker jam 774/1.326 (58,3%) và defender call 494/1.326 (37,3%). Kết quả khá gần nhau — chiến lược trong no-limit thật hung hăng hơn một chút vì nhiều cuộc đấu còn sát hơn 2:1.
 
-Loại bài nào được đưa vào chiến lược jam đặc biệt đáng chú ý. Thường các bài có nhiều giá trị showdown nhất trước bài ngẫu nhiên nằm ở phần trên của dải (tức là kể cả ở stack rất lớn, jam đôi lớn được khuyên). Nhưng khi stack giảm qua các mức thường gặp, nhiều bài được thêm vào dù equity trước bài ngẫu nhiên thấp hơn đáng kể. Ví dụ 97s được jam tới stack khoảng 36 đơn vị (bảng: 36,1), dù nó là cửa dưới trước một bài ngẫu nhiên. Lý do: với attacker, equity của bài jam trước bài ngẫu nhiên không quan trọng; chỉ equity trước dải bài đối thủ sẽ call mới quan trọng. Các bài đồng chất liền nhau ở giữa làm khá tốt (tương đối) trước những loại bài chiếm tỷ lệ lớn trong dải call, như đôi lớn và A lớn. Bảng attacker cũng làm nổi bật tầm quan trọng của lá đồng chất — khoảng 2,5% equity thêm nhờ đồng chất làm cho jam bài đồng chất hấp dẫn hơn hẳn bài khác chất tương ứng (ví dụ K7s 49,2 so với K7o 16,1).
+Loại bài nào được đưa vào chiến lược jam đặc biệt đáng chú ý. Thường các bài có nhiều giá trị showdown nhất trước bài ngẫu nhiên nằm ở phần trên của dải (tức là kể cả ở stack rất lớn, jam đôi lớn được khuyên).
+
+Nhưng khi stack giảm qua các mức thường gặp, nhiều bài được thêm vào dù equity trước bài ngẫu nhiên thấp hơn đáng kể. Ví dụ 97s được jam tới stack khoảng 36 đơn vị (bảng: 36,1), dù nó là cửa dưới trước một bài ngẫu nhiên. Lý do: với attacker, equity của bài jam trước bài ngẫu nhiên không quan trọng; chỉ equity trước dải bài đối thủ sẽ call mới quan trọng. Các bài đồng chất liền nhau ở giữa làm khá tốt (tương đối) trước những loại bài chiếm tỷ lệ lớn trong dải call, như đôi lớn và A lớn.
+
+Bảng attacker cũng làm nổi bật tầm quan trọng của lá đồng chất — khoảng 2,5% equity thêm nhờ đồng chất làm cho jam bài đồng chất hấp dẫn hơn hẳn bài khác chất tương ứng (ví dụ K7s 49,2 so với K7o 16,1).
 
 #### Khi nào jam-or-fold áp dụng được
 
@@ -730,17 +730,19 @@ Equity của raise lên 2 với Q3o (vẫn bỏ qua card removal):
 ⟨raise lên 2, Q3o⟩ = p(defender jam lại)(mất số đã raise) + p(defender fold)(được blind)
 ⟨raise lên 2, Q3o⟩ = (0,454)(−2) + (0,546)(+1) = −0,908 + 0,546 = **−0,362** (sách in −0,638)
 
-Sách kết luận: ở stack 8, ta bắt đầu xấp xỉ tình huống cần tìm — attacker bàng quan giữa jam S đơn vị và raise lên 2 rồi fold trước jam với bài yếu hơn dải jam; nên xấp xỉ bậc nhất, có thể dùng 8 đơn vị làm ngưỡng bắt đầu chơi jam-or-fold. (Với số đã sửa, raise lên 2 rồi fold có lợi hơn jam khoảng 0,2 đơn vị ở S = 8 trước J₂ — xem Lưu ý.)
+Sách kết luận: ở stack 8, ta bắt đầu xấp xỉ tình huống cần tìm — attacker bàng quan giữa jam S đơn vị và raise lên 2 rồi fold trước jam với bài yếu hơn dải jam; nên xấp xỉ bậc nhất, có thể dùng 8 đơn vị làm ngưỡng bắt đầu chơi jam-or-fold. (Với số đã sửa, raise lên 2 rồi fold có lợi hơn jam khoảng 0,2 đơn vị ở S = 8 trước J₂ — xem mục Lưu ý cuối chương.)
 
 Nhưng còn một hiệu ứng quan trọng phân tích trên bỏ qua: defender không bị giới hạn ở J₂ — thực ra làm vậy là dại. Defender có thể đơn giản call raise 2 đơn vị, được pot odds 3:1 (pot 3, call 1), nên equity của raise 2 đơn vị giảm. Vì vậy tác giả cộng thêm vài đơn vị vào ngưỡng stack bắt đầu chơi jam-or-fold.
 
-**Kết luận của tác giả:** có lẽ tối ưu khi chơi jam-or-fold trong heads-up no-limit ở stack 10 đơn vị trở xuống, và có thể tới 12 hoặc 13 đơn vị khi attacker sẽ ở thế bất lợi vị trí sau flop. Khi blind không theo cấu trúc 0,5–1 (ví dụ blind 2 hoặc 3 chip) hoặc có ante (ví dụ cả bàn đã đặt ante và ván thành heads-up vì mọi người khác fold), ta gộp ante vào blind: hai phần ba số tiền trong pot được quy về 1 đơn vị để dùng bảng jam-or-fold. (Người tổng hợp minh hoạ: pot gồm blind 1 + 2 chip và ante tổng 3 chip là 6 chip; 2/3 × 6 = 4 chip là 1 đơn vị; stack 40 chip tương ứng S = 10.) Đây chỉ là xấp xỉ nhưng hữu ích trong thực hành. Cũng lưu ý khi chơi jam-or-fold, chỉ stack nhỏ hơn trong hai stack cần dưới ngưỡng 10 blind — stack của bạn lớn bao nhiêu không quan trọng nếu stack đối thủ nhỏ, và ngược lại.
+**Kết luận của tác giả:** có lẽ tối ưu khi chơi jam-or-fold trong heads-up no-limit ở stack 10 đơn vị trở xuống, và có thể tới 12 hoặc 13 đơn vị khi attacker sẽ ở thế bất lợi vị trí sau flop.
+
+Khi blind không theo cấu trúc 0,5–1 (ví dụ blind 2 hoặc 3 chip) hoặc có ante (ví dụ cả bàn đã đặt ante và ván thành heads-up vì mọi người khác fold), ta gộp ante vào blind: hai phần ba số tiền trong pot được quy về 1 đơn vị để dùng bảng jam-or-fold. (Người tổng hợp minh hoạ: pot gồm blind 1 + 2 chip và ante tổng 3 chip là 6 chip; 2/3 × 6 = 4 chip là 1 đơn vị; stack 40 chip tương ứng S = 10.) Đây chỉ là xấp xỉ nhưng hữu ích trong thực hành. Cũng lưu ý khi chơi jam-or-fold, chỉ stack nhỏ hơn trong hai stack cần dưới ngưỡng 10 blind — stack của bạn lớn bao nhiêu không quan trọng nếu stack đối thủ nhỏ, và ngược lại.
 
 #### Đáp án câu đố
 
 Quay lại câu hỏi đầu chương: hai người ngang tài, heads-up jam-or-fold no-limit hold'em freezeout, mỗi người 16 chip, blind 1 chip (button) và 2 chip (big blind). Button nên all-in với bao nhiêu phần trăm số bài?
 
-Stack tính theo big blind là 16/2 = 8. Dùng bảng jam-or-fold, tập bài jam xấp xỉ **61,7%** mọi bài (người tổng hợp đếm từ bảng chép ở trên được khoảng 62,6–63,2%, xem Lưu ý). Con số này làm nhiều người giật mình: ai lại nghĩ nên bỏ 16 chip để thắng 3 với hơn ba phần năm số bài? Đây là một ý tưởng mạnh mà nhiều người chơi không biết.
+Stack tính theo big blind là 16/2 = 8. Dùng bảng jam-or-fold, tập bài jam xấp xỉ **61,7%** mọi bài (người tổng hợp đếm từ bảng chép ở trên được khoảng 62,6–63,2%, xem mục Lưu ý cuối chương). Con số này làm nhiều người giật mình: ai lại nghĩ nên bỏ 16 chip để thắng 3 với hơn ba phần năm số bài? Đây là một ý tưởng mạnh mà nhiều người chơi không biết.
 
 Các chiến lược này rất có giá trị ở giai đoạn heads-up của giải đấu và trong tình huống blind đấu blind khi blind tương đối lớn — thường gặp, chẳng hạn, trong giải một bàn online có blind tăng nhanh. Ngoài ra, jam-or-fold cho thấy giá trị lớn của việc jam trước flop trong no-limit hold'em: bằng cách chơi jam-or-fold kể cả ở stack lớn, người chơi yếu hơn có thể vô hiệu hoá khá hiệu quả kỹ năng sau flop của người mạnh hơn, chỉ chịu mất một lượng equity vừa phải.
 
@@ -887,7 +889,7 @@ Chương đi từ mô hình đồ chơi tới một sản phẩm dùng được 
 
 ### Những chỗ đơn giản hoá
 
-- Giả định button chỉ được jam hoặc fold; thực tế còn limp và raise nhỏ. Phần ứng dụng chỉ lập luận xấp xỉ (và có một lỗi số học, xem Lưu ý) về ngưỡng 10 big blind.
+- Giả định button chỉ được jam hoặc fold; thực tế còn limp và raise nhỏ. Phần ứng dụng chỉ lập luận xấp xỉ (và có một lỗi số học, xem mục Lưu ý cuối chương) về ngưỡng 10 big blind.
 - Tối đa hoá chip kỳ vọng; trong giải đấu, giá trị tiền thưởng không tuyến tính theo chip (mô hình ICM), làm defender nên call chặt hơn khi có tiền thưởng khác nhau — sách bàn ở Phần V.
 - Bảng không cho tần suất trộn cho bài ở ngưỡng và bỏ qua các dải hẹp nơi bài xuất hiện rồi biến mất.
 - Các mô hình [0,1] giả định equity cố định 1 hoặc 2/3, trong khi equity hold'em thay đổi theo cặp bài.
@@ -895,7 +897,7 @@ Chương đi từ mô hình đồ chơi tới một sản phẩm dùng được 
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp)
 
-Bảng jam-or-fold kiểu này (thường gọi là "bảng push/fold" hay "Nash push/fold charts", ví dụ các bảng của SAGE, HoldemResources) đã trở thành công cụ chuẩn cho giải một bàn và giai đoạn heads-up; các phần mềm tính được bảng tương tự với ante, nhiều người chơi, và ICM. Lối chơi heads-up hiện đại theo solver cho thấy ở 10–15 big blind, chiến lược tối ưu thật (khi được limp và raise nhỏ) dùng nhiều min-raise và limp hơn so với kết luận "jam-or-fold đến 10–13 big blind" của sách; jam-or-fold thuần thường chỉ gần tối ưu ở khoảng 8 big blind trở xuống (hoặc thấp hơn nữa khi có ante). Kết quả này khớp với nhận xét ở Lưu ý rằng raise lên 2 có lời hơn sách tính.
+Bảng jam-or-fold kiểu này (thường gọi là "bảng push/fold" hay "Nash push/fold charts", ví dụ các bảng của SAGE, HoldemResources) đã trở thành công cụ chuẩn cho giải một bàn và giai đoạn heads-up; các phần mềm tính được bảng tương tự với ante, nhiều người chơi, và ICM. Lối chơi heads-up hiện đại theo solver cho thấy ở 10–15 big blind, chiến lược tối ưu thật (khi được limp và raise nhỏ) dùng nhiều min-raise và limp hơn so với kết luận "jam-or-fold đến 10–13 big blind" của sách; jam-or-fold thuần thường chỉ gần tối ưu ở khoảng 8 big blind trở xuống (hoặc thấp hơn nữa khi có ante). Kết quả này khớp với nhận xét ở mục Lưu ý cuối chương rằng raise lên 2 có lời hơn sách tính.
 
 ### Liên hệ các chương khác
 
@@ -910,4 +912,179 @@ Bảng jam-or-fold kiểu này (thường gọi là "bảng push/fold" hay "Nash
 ### Vận dụng
 
 - **Người chơi poker:** khi heads-up hoặc blind đấu blind với stack hiệu dụng (stack nhỏ hơn) dưới khoảng 10 big blind, tra bảng jam-or-fold: ở 8 big blind jam khoảng 60%+ bài từ button; ở big blind, call chặt hơn (khoảng 45% ở 8 big blind, 37% ở 10). Quy đổi ante bằng cách lấy 2/3 tổng tiền trong pot làm 1 big blind. Chọn bài jam theo equity trước dải call: bài có A, bài đồng chất, bài liền nhau ở giữa. Khi có tiền thưởng giải đấu (ICM), call chặt hơn bảng.
-- **Người làm tài chính, ra quyết định:** bài học "rủi ro thật là phần equity thiếu, không phải toàn bộ số tiền bỏ ra" tương tự việc đánh giá một khoản đầu tư theo phân phối kết quả chứ không theo số vốn danh nghĩa: một quyết định "đặt cược lớn để giành khoản nhỏ" có thể đúng nếu khi thua vẫn thu hồi được phần lớn giá trị. Hiện tượng chuyển pha nhắc rằng chính sách tối ưu có thể thay đổi đột ngột khi một tham số (như tỷ lệ chi phí/quy mô) vượt ngưỡng, nên cần theo dõi các ngưỡng đó thay vì ngoại suy tuyến tính. Fictitious play là một hình thức "mô phỏng phản ứng của đối thủ lặp lại cho tới khi ổn định", dùng được để kiểm tra độ bền của chiến lược định giá hay đấu thầu trước phản ứng tối ưu của đối thủ (nhận xét của người tổng hợp).
+- **Người làm tài chính, ra quyết định:** bài học "rủi ro thật là phần equity thiếu, không phải toàn bộ số tiền bỏ ra" tương tự việc đánh giá một khoản đầu tư theo phân phối kết quả chứ không theo số vốn danh nghĩa: một quyết định "đặt cược lớn để giành khoản nhỏ" có thể đúng nếu khi thua vẫn thu hồi được phần lớn giá trị.
+
+  Hiện tượng chuyển pha nhắc rằng chính sách tối ưu có thể thay đổi đột ngột khi một tham số (như tỷ lệ chi phí/quy mô) vượt ngưỡng, nên cần theo dõi các ngưỡng đó thay vì ngoại suy tuyến tính. Fictitious play là một hình thức "mô phỏng phản ứng của đối thủ lặp lại cho tới khi ổn định", dùng được để kiểm tra độ bền của chiến lược định giá hay đấu thầu trước phản ứng tối ưu của đối thủ (nhận xét của người tổng hợp).
+
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: năm nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (Game #1 với bài tốt hơn luôn thắng, Game #2 với bài tệ hơn còn 1/3 equity, hold'em stack rất lớn với fictitious play và card removal, stack rất nhỏ và bảng jam-or-fold, ứng dụng thực tế và ngưỡng 10 big blind), mỗi nhánh ghi công thức nghiệm, điều kiện bàng quan và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: ở ≤ 10 big blind heads-up, jam-or-fold gần tối ưu và rộng hơn trực giác, 8 big blind jam khoảng 62% số bài`"]
+  n1["`Mục 1–2 — Game #35;1: bài tốt hơn luôn thắng, chiến lược chặt và có lợi cho defender`"]
+  n0 --- n1
+  n2["`Luật: stack S, bài đều trên [0,1], attacker Y đặt 0,5 rồi jam hoặc fold, defender X đặt 1 rồi call hoặc fold`"]
+  n1 --- n2
+  n3["`Chỉ có bỏ tiền hoặc fold nên mỗi người một ngưỡng, bỏ tiền với bài tệ hơn bài mình fold là bị trội`"]
+  n1 --- n3
+  n4["`Y bàng quan tại y: −xS + 1 − x = −1/2, suy ra x = 3/(2 + 2S)`"]
+  n1 --- n4
+  n5["`X bàng quan tại x: S(y − 2x)/y = −1, suy ra y = 2Sx/(S + 1) = 3S/(1 + S)²`"]
+  n1 --- n5
+  n6["`S = 5: Y jam 15/36, X call 1/4. S = 10: Y jam 30/121, X call 3/22`"]
+  n5 --- n6
+  n7["`Giá trị cho Y: 9S/(4(1 + S)²) − 1/2, dương chỉ khi S #lt; 2, cực đại 1/16 tại S = 1`"]
+  n1 --- n7
+  n8["`S → ∞: defender được 0,5 mỗi ván vì attacker gần như luôn fold`"]
+  n7 --- n8
+  n9["`Mô hình chỉ đúng khi S ≥ 1 (cần x ≤ y), tại S = 1 thì x = y = 3/4`"]
+  n1 --- n9
+  n10["`Mục 3 — Game #35;2: bài tệ hơn còn 1/3 equity, chiến lược rộng hơn nhiều`"]
+  n0 --- n10
+  n11["`S #lt; 3: defender được pot odds ít nhất 2:1 và luôn có ≥ 1/3 nên call mọi bài (x = 1)`"]
+  n10 --- n11
+  n12["`Attacker jam khi y #lt; (2S + 3)/(4S): S ≤ 1,5 jam mọi bài, S = 3 jam 3/4`"]
+  n11 --- n12
+  n13["`S #gt; 3: nghiệm Game #35;1 với cỡ stack hiệu dụng S/3, lượng bài tốt hơn giành được khi lật bài`"]
+  n10 --- n13
+  n14["`x = 9/(2(S + 3)), y = 9S/(S + 3)²`"]
+  n13 --- n14
+  n15["`S = 10: attacker jam 90/169 ≈ 53%, defender call 9/26 ≈ 35%`"]
+  n13 --- n15
+  n16["`Bị call attacker chỉ mất S/3, không phải S: bỏ 3⅓ để thắng 1,5 tiền chết`"]
+  n10 --- n16
+  n17["`Giá trị cho Y: 0 khi S ≤ 3/2, (2S − 3)²/(48S) khi 3/2 ≤ S ≤ 3, −1/2 + 27S/(4(S + 3)²) khi S ≥ 3`"]
+  n10 --- n17
+  n18["`Giá trị liên tục và dương tới tận S = 6: attacker có lợi`"]
+  n17 --- n18
+  n19["`Ngưỡng x nhảy từ 1 xuống 3/4 ngay khi S vượt 3: chiến lược không liên tục theo stack`"]
+  n10 --- n19
+  n20["`Mục 4–5 — Hold'em stack rất lớn: fictitious play, card removal, chuyển pha`"]
+  n0 --- n20
+  n21["`Bài hold'em không như [0,1]: không bài nào gần 0 equity, quan hệ hơn kém không bắc cầu (AKo, 22, JTs)`"]
+  n20 --- n21
+  n22["`Fictitious play: tính chiến lược trả đũa tối đa rồi trộn S = (1 − m)·S#95;old + m·S#95;new, m giảm dần như 1/n`"]
+  n20 --- n22
+  n23["`Đã chứng minh hội tụ về chiến lược tối ưu, là cách tạo ra bảng jam-or-fold`"]
+  n22 --- n23
+  n24["`S cực lớn: cả hai chỉ chơi AA, defender ăn pot 1,5 trong 220/221 số ván`"]
+  n20 --- n24
+  n25["`Tay thêm đầu tiên là ATs chứ không phải KK: cầm một lá A làm xác suất đối thủ có AA giảm một nửa`"]
+  n20 --- n25
+  n26["`ATs có 13,336% trước AA, bắt đầu có lời ở S = 833,25, ở S = 2000 jam mất khoảng 2,1 đơn vị`"]
+  n25 --- n26
+  n27["`Tại 833,25 attacker nhảy từ {AA} sang {AA, ATs} 100%: chuyển pha, tỷ số pot/stack đóng vai nhiệt độ`"]
+  n20 --- n27
+  n28["`S ≈ 833,12 thêm A5s, nhưng trước {AA, ATs, A5s} defender call AKs có lời (50,9%)`"]
+  n20 --- n28
+  n29["`Làm defender bàng quan với AKs: −1,5447·AA% + 0,8353·ATs% + 0,8085·A5s% = 0`"]
+  n28 --- n29
+  n30["`Ở S = 833: jam AA 100%, A5s 100%, ATs khoảng 88% (sách in 87,73%)`"]
+  n28 --- n30
+  n31["`Mục 6 — Stack rất nhỏ và bảng jam-or-fold`"]
+  n0 --- n31
+  n32["`Defender call khi equity #gt; (S − 1)/(2S), attacker jam khi equity #gt; (S − 0,5)/(2S)`"]
+  n31 --- n32
+  n33["`S = 1,1: bài tệ nhất 32o có 32,3% trước mọi bài nên cả hai chơi mọi bài`"]
+  n31 --- n33
+  n34["`32o hết đáng jam khi S ≥ 1,412: attacker gặp giới hạn trước defender`"]
+  n33 --- n34
+  n35["`S = 2: attacker bỏ 13 loại bài (jam 89,4%), defender vẫn call mọi bài vì 32o còn 31,72%`"]
+  n31 --- n35
+  n36["`0,5 chip thêm của attacker đáng kể khi stack nhỏ nên defender chơi nhiều bài hơn attacker`"]
+  n35 --- n36
+  n37["`S = 3: attacker jam khoảng 78,6%, defender chỉ fold 9 loại bài như 32o, 42o, 52o, 62o–63o`"]
+  n31 --- n37
+  n38["`Bảng jam-or-fold: mỗi loại bài một stack tối đa để attacker jam và để defender call, tới S = 50`"]
+  n31 --- n38
+  n39["`K7s: attacker jam dưới 49,2, defender call dưới 15,3`"]
+  n38 --- n39
+  n40["`Attacker jam mọi đôi tới 50, defender call 22 chỉ dưới 15,1`"]
+  n38 --- n40
+  n41["`Chiến lược gãy: 53s jam khi S #lt; 2,4 và khi 4,1 #lt; S #lt; 12,9`"]
+  n38 --- n41
+  n42["`Đếm từ bảng: S = 8 jam 63,2%, call 45,4%. S = 16 jam 45,1%, call 26,2%`"]
+  n38 --- n42
+  n43["`Mục 7 — Ứng dụng: chọn bài jam và ngưỡng khoảng 10 big blind`"]
+  n0 --- n43
+  n44["`S = 10: hold'em jam 58,3%, call 37,3%, gần Game #35;2 (53,2% và 34,6%)`"]
+  n43 --- n44
+  n45["`Chọn bài theo equity trước dải call, không trước bài ngẫu nhiên: 97s jam tới khoảng 36 big blind`"]
+  n43 --- n45
+  n46["`Đồng chất thêm khoảng 2,5% equity: K7s jam dưới 49,2 so với K7o dưới 16,1`"]
+  n45 --- n46
+  n47["`So J (jam-or-fold) với J₁ (raise lên 2) khi defender chơi J₂: jam lại bài lẽ ra call, fold phần còn lại`"]
+  n43 --- n47
+  n48["`S = 4: defender jam lại 63% nên raise lên 2 tương đương jam mà cho defender thêm lựa chọn call`"]
+  n47 --- n48
+  n49["`S = 8, Q3o: jam −0,558, fold −0,5, raise lên 2 rồi fold −0,362 (sách in −0,638)`"]
+  n47 --- n49
+  n50["`Defender còn được call raise nhỏ với pot odds 3:1 nên cộng thêm vài đơn vị vào ngưỡng`"]
+  n47 --- n50
+  n51["`Kết luận: jam-or-fold ở ≤ 10 big blind, có thể 12–13 khi attacker bất lợi vị trí sau flop`"]
+  n43 --- n51
+  n52["`Ante: quy 2/3 tiền trong pot thành 1 đơn vị, chỉ stack nhỏ hơn cần dưới ngưỡng`"]
+  n51 --- n52
+  n53["`Đáp án câu đố 16 chip (8 big blind): button jam khoảng 61,7% số bài (bảng cho 62,6–63,2%)`"]
+  n43 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Rủi ro thật của cú jam là phần equity thiếu khi bị call, không phải cả stack`"]
+  n54 --- n55
+  n56["`Bài tệ hơn còn equity thì chiến lược tối ưu rộng ra nhiều`"]
+  n54 --- n56
+  n57["`Chiến lược nhảy rời rạc khi stack đổi chút ít, trong khi giá trị trò chơi vẫn liên tục`"]
+  n54 --- n57
+  n58["`Người yếu hơn dùng jam-or-fold để vô hiệu kỹ năng sau flop của người mạnh hơn`"]
+  n54 --- n58
+  class n0 root
+  class n1,n10,n20,n31,n43,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 12 "Headsup With High Blinds: The Jam-or-Fold Game", trang 125–142.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)) đặt khái niệm chiến lược tối ưu, nemesis, nguyên lý bàng quan; Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) giải ba trò chơi half-street, giới thiệu phân phối [0,1] và kỹ thuật phương trình bàng quan tại ngưỡng.
+
+Chương 12 dùng đúng các công cụ đó cho một trò chơi có ích ngay trong thực tế: heads-up no-limit hold'em khi người ở button chỉ được all-in (jam) hoặc fold. Trò chơi này không hẳn là half-street, nhưng nếu tính tổng giá trị (gồm cả blind) thì người hành động trước có vai trò giống Y của Chương 11: fold (tương tự check) cho giá trị cố định, hoặc cược một khoản rồi người kia call hay fold. Chương cũng giới thiệu thuật toán **fictitious play** (chơi giả tưởng) để giải trò chơi bằng máy tính, khái niệm **card removal** (lá bài trong tay làm giảm xác suất đối thủ có những tay bài dùng lá đó), và **cỡ stack hiệu dụng**.
+
+Chương 13 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)) quay lại trò chơi đồ chơi với ba lá A, K, Q; Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) bàn chọn mức cược no-limit; Phần V ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md), [C27-giai-dau-phan-2-chip-khong-phai-tien.md](C27-giai-dau-phan-2-chip-khong-phai-tien.md)) bàn giải đấu, nơi tình huống heads-up blind cao thường gặp.
+
+## Lưu ý
+
+- **Sai chiều (Example 12.2 Case 1, trang 130):** sau khi giải được y₁ < (2S + 3)/(4S), sách viết "vì attacker jam khi giá trị bài y₁ *lớn hơn* số này". Đúng là *nhỏ hơn* (bài số nhỏ là bài mạnh); ngưỡng y = (2S + 3)/(4S) không đổi.
+- **Dấu (trang 130):** "For X, the expectation of folding to a jam is 1 unit" — đúng là **−1** đơn vị (defender mất big blind); phương trình ngay sau dùng đúng ⟨X, fold⟩ = −1.
+- **Công thức call của defender (trang 131):** sách viết "the defender to defend with 9S/(S+3) of his hands"; đúng là **9/(2(S + 3))** như Phương trình 12.5 (với S = 10 cho 9/26, đúng số sách dùng ngay sau đó). Biểu thức 9S/(S + 3) lớn hơn 1 với mọi S > 3/8, không thể là một tần suất.
+- **Công thức ngưỡng ATs (trang 134):** sách viết ⟨ATs, jam x⟩ = 1,5(1222/1225) + (3/1225)((0,13336)(x) − x) và ra x = 833,25. Thay số đúng như in thì được x ≈ 705,0. Kết quả 833,25 chỉ đúng khi pot là **2x**: 1,5 × 1222 = 3 × (1 − 2 × 0,13336) × x, x = 1833/2,19984 ≈ 833,24 — khớp với phép tính ở stack 2000 ngay trước đó (pot 4000). Vậy công thức in thiếu hệ số 2.
+- **Lỗi số học (trang 135):** từ 0,8353·ATs% + 0,8085·A5s% = 1,5447 với A5s% = 100%, sách ghi 0,8353·ATs% = 0,70935 và ATs% = 87,73%. Đúng là 1,5447 − 0,8085 = **0,7362**, nên ATs% = 0,7362/0,8353 ≈ **88,1%**. (Ngay cả với số 0,70935 của sách, 0,70935/0,8353 = 84,9%, không phải 87,73%.)
+- **Mâu thuẫn trong lời văn (trang 136):** ngay sau khi tính attacker jam ATs khoảng 88% số lần ở S = 833, sách viết "trước đó ta jam 100% ATs; giờ … ta jam nó chỉ hơn 25% một chút". Con số 25% không khớp với phép tính nào trong sách; theo phép tính, ATs giảm từ 100% xuống khoảng 88%.
+- **Sai chiều (trang 136):** "0,323 > (S − 0,5)/(2S), S > 1,412" — giải ra phải là **S < 1,412**: 32o chỉ đáng jam khi stack nhỏ hơn 1,412; lời văn ngay sau ("khi stack lên tới 1,412 thì không còn jam 32o có lời") đúng.
+- **Lỗi số học làm yếu lập luận ở mục ứng dụng (trang 141):** ⟨raise lên 2, Q3o⟩ = (0,454)(−2) + (0,546)(+1) = −0,908 + 0,546 = **−0,362**, không phải −0,638 như sách in. Với số đúng, raise lên 2 rồi fold khi bị jam lại (−0,362) *tốt hơn* jam (−0,558) và tốt hơn fold (−0,5) với Q3o ở S = 8 (khi defender chơi chiến lược J₂). Điều này có nghĩa là trước J₂, ngưỡng "raise nhỏ bắt đầu có lời" nằm *dưới* 8 big blind, chứ không phải "xấp xỉ bằng" như sách nói. Kết luận thực hành của sách (jam-or-fold đến khoảng 10 big blind) dựa thêm vào việc defender còn được call raise nhỏ, nên người tổng hợp không đánh giá được mức sai lệch cuối cùng (nhận xét của người tổng hợp).
+- **Nhầm ký hiệu (trang 141):** "The defender is not restricted to playing J₁" — J₁ là chiến lược raise lên 2 của attacker; ý đúng là **J₂**.
+- **Khung tính không nhất quán, sai số không đáng kể:** ở các phép tính stack rất lớn (AA, ATs, A5s), sách cộng +1,5 khi defender fold (lợi so với fold) nhưng khi bị call lại dùng equity × pot − S (không cộng lại 0,5 đã mất nếu fold); tương tự bảng chênh lệch của AKs bỏ +1. Tính nhất quán thì ngưỡng ATs là 833,92 thay vì 833,25 và các chênh lệch AKs là −1,5422; 0,8377; 0,8110 thay vì −1,5447; 0,8353; 0,8085. Kết luận không đổi.
+- **Thiếu công thức trộn (trang 133):** đoạn mô tả fictitious play viết "với mỗi điểm quyết định, ta kết hợp chiến lược cũ S_old và chiến lược trả đũa mới S_new" nhưng công thức bị mất trong bản PDF này. Theo hiểu biết của người tổng hợp, công thức chuẩn là S = (1 − m)·S_old + m·S_new.
+- **Các con số không khớp được với bảng jam-or-fold (người tổng hợp đếm từ bảng chép ở mục 6):** (a) ở S = 8 (câu hỏi 16 chip, blind 1/2 chip), các ô có số lớn hơn 8 cộng hai tay "gãy" 53s, 43s cho 838/1.326 ≈ 63,2% (không tính hai tay gãy: 830, 62,6%), trong khi sách nói 61,7% (818 tổ hợp).
+
+  (b) sách nói ở S = 4 defender jam lại với "115 trên 169 loại bài, 838/1.326 (63%)", nhưng bảng defender ở S = 4 cho 130 loại bài, 954 tổ hợp (72%); 115 loại bài ứng với S khoảng 4,7–4,8.
+
+  Các số khác khớp: S = 10 attacker 774 (khi tính 43s, mốc 10,0), defender 494; S = 8 defender 602 (tính ô Q7o = 8); S = 2 khớp đúng 13 loại bài attacker bỏ; S = 3 khớp danh sách jam của attacker, còn danh sách fold của defender khớp trừ cách xử lý ba ô bằng đúng 3 (63o bị fold, 43o và 92o được call).
+- **Bảng attacker thiếu tiêu đề cột:** hàng tiêu đề của bảng attacker chỉ in A, K, Q, J, T, 9, 8, 7, 6; bốn cột cuối (5, 4, 3, 2) không có nhãn. Bảng defender có đủ. Số trong bảng là ảnh độ phân giải thấp; người tổng hợp phóng to để đọc; một vài số (ví dụ defender A4o = 18,6, A5o = 20,9) đọc khó, đã kiểm tra bằng tính đơn điệu và các số đếm ở trên.
+- **Mô hình Game #1 chỉ đúng khi S ≥ 1:** nghiệm giả định x ≤ y; 3/(2(1 + S)) ≤ 3S/(1 + S)² tương đương S ≥ 1. Tại S = 1, x = y = 3/4 (đúng như sách nói ở Example 12.2). Sách không nêu điều kiện này (nhận xét của người tổng hợp).
+- **Equity AKs:** sách cho AKs có 41,442% trước {AA, ATs} và 50,9% trước {AA, ATs, A5s}; trung bình đơn giản các equity sách cho (12,141%; 70,473%; 69,817%, mỗi tay 3 tổ hợp) là 41,31% và 50,81%. Chênh lệch nhỏ có thể do chất của lá bài; người tổng hợp không có bộ đánh giá bài để tính lại các equity hold'em.
+- **Lỗi đánh máy và lớp chữ:** "Viewed in this fight" (light), "ox X" (or X), "raise all-in to 5units" (S units), "favors tire attacker" (the), "relatively right" (tight), "no-lmit", "t is." (It is.), "chat strategies" (that), "for (fee defender)" (the), "be maximizes" (he), "Tb do this" (To), "hi the pot" (in), "janmiing", "for chose stack sizes" (those), "drought to apply" (thought); câu "At a stack size of 1.1, then, he will call when his equity…" nói về attacker nên là "jam". "Figure 12.2" là hình duy nhất của chương (không có Hình 12.1). Trong công thức giá trị vùng 3/2–3, dấu "≥" là lỗi in của "=". Key Concepts nói "khoảng 10 hoặc 11 blind", lời văn nói "10, có thể 12 hoặc 13".
+- **Quy ước:** "jam" (đẩy hết stack, all-in) giữ nguyên; attacker là người ở button (đặt small blind 0,5, hành động trước), defender là big blind (đặt 1). S là stack của mỗi người *trước khi* đặt blind, tính theo big blind. Ký hiệu bài: "s" đồng chất (suited), "o" khác chất (offsuit); 1.326 là số tổ hợp hai lá; 169 là số loại bài.

@@ -1,20 +1,22 @@
 # Chương 13 — Poker được làm cho đơn giản: trò chơi AKQ (Poker Made Simple: The AKQ Game)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 13 "Poker Made Simple: The AKQ Game", trang 143–152.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)) đặt nền lý thuyết trò chơi: ma trận lợi ích, chiến lược trội, chiến lược hỗn hợp, cân bằng và trò chơi "Cảnh sát và Kẻ trộm" (Cops and Robbers). Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) giải các trò chơi half-street (nửa vòng cược: chỉ một người được bet) và rút ra hằng số α = 1/(P + 1) — tỷ lệ bluff so với value bet và tần suất fold của người bị bet. Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)) giải các trò chơi jam-or-fold. Chương 13 đưa ra trò chơi AKQ — bộ bài chỉ có ba lá A, K, Q — làm dạng poker đối xứng đơn giản nhất mà vẫn không tầm thường, và lần đầu đưa vào hiện tượng **loại bỏ lá bài** (card removal): lá bài của mình làm thay đổi phân phối lá bài của đối thủ. Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) dùng các trò chơi cùng loại để bàn chuyện chọn mức cược trong no-limit; Chương 15 ([C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md)) mở rộng trò chơi AKQ lên full-street (cả hai người được bet) và phụ lục của nó giải trò chơi AKQ no-limit — chính là "điều bất ngờ về no-limit" mà phần mở đầu chương này hứa hẹn.
-**Ý chính:** **Khi mỗi bên chỉ có ba loại tay bài rõ ràng — nuts (bài chắc thắng), tay bài ở giữa, tay bài chết — thì cách chơi tối ưu được quyết định hoàn toàn bởi tỷ lệ giữa số lần bet lấy giá trị và số lần bluff, và tỷ lệ đó vẫn là hằng số α = 1/(P + 1) của Chương 11.** Trò chơi AKQ #1 (Ví dụ 13.1) có pot 2 đơn vị, một half-street, cược limit 1 đơn vị; X check, Y được bet hoặc check, X call hoặc fold. Loại các chiến lược bị trội (X luôn call với A, luôn fold Q; Y luôn bet A, luôn check K), trò chơi còn đúng hai câu hỏi: Y có bluff với Q không, X có call với K không. Ma trận 2×2 còn lại, với giá trị theo phía Y là −1/6, +1/6, +1/6, 0, nhân với −6 thì trùng khớp với trò chơi Cảnh sát và Kẻ trộm của Chương 10. Giải bằng điều kiện bàng quan: X call với 1/3 số K, Y bluff với 1/3 số Q; giá trị trò chơi với Y là 1/18 cược. Trò chơi AKQ #2 (Ví dụ 13.2) tổng quát cho pot P: X call với tỷ lệ (P − 1)/(P + 1) số K (tức tổng cộng fold α = 1/(P + 1) số tay bài bắt được bluff), Y bluff với tỷ lệ α = 1/(P + 1) số Q, giá trị trò chơi với Y là (P − 1)/[6(P + 1)], tiến tới 1/6 khi pot rất lớn. Lời giải chỉ đúng khi P > 1: khi pot nhỏ hơn 1 thì bluff luôn lỗ (vì một nửa số lần X cầm A), nên không ai bluff và không ai call. Ba bài học then chốt: tỷ lệ bet/bluff là chìa khoá khi giá trị tay bài rõ ràng; trong limit hầu như luôn sai khi ở vị trí thứ hai trên river mà bet một tay bài chỉ thắng được bluff và chỉ bị tay bài tốt hơn call; loại bỏ lá bài có thể thay đổi đáng kể hình dạng phân phối của đối thủ.
+## Ý chính
 
-> **Lưu ý:**
-> - **Tự tham chiếu sai số chương:** trang 144 viết "this game is a 2x2 matrix, just as games in Chapter 13 were" và "the oscillation of strategies ... as we described there". Chương này chính là Chương 13; ma trận 2×2 và hiện tượng "dao động" giữa các chiến lược thuần được mô tả ở Chương 10 (trò chơi Cảnh sát và Kẻ trộm, Ví dụ 10.5). Đúng phải là "Chapter 10".
-> - **Tiêu đề phép ghép cặp in sai (trang 145):** phép ghép cặp thứ hai được đặt tiêu đề "Y₂ vs. X₂", nhưng nội dung (Y check Q, X call K) và kết quả "<Y₂, X₁> = +1/6" cho thấy đây là Y₂ gặp X₁. Phép ghép cặp Y₂ gặp X₂ thật sự là mục thứ tư.
-> - **Tỷ lệ bluff tại P = 1,1 in sai (trang 150):** sách viết "at 1.1 it's 10/11". Theo công thức b = 1/(P + 1) của chính sách, tại P = 1,1 thì b = 1/2,1 = 10/21 ≈ 0,476 (con số 10/11 ≈ 0,909 vượt quá cả 1/2, mâu thuẫn với câu sau rằng Y bluff "một nửa" ở sát P = 1). Hai giá trị kia đúng: P = 2 cho 1/3, P = 1,5 cho 1/(2,5) = 2/5.
-> - **Hai câu mâu thuẫn về điểm P = 1 (trang 150–151):** trang 150 viết "tại đúng P = 1, Y ngừng bluff", trang 151 viết "tại P = 1, Y chuyển từ không bao giờ bluff sang bluff một nửa số tay bài". Người tổng hợp tính: khi P giảm dần về 1 (từ phía lớn hơn), b = 1/(P + 1) tăng dần tới 1/2 và c = (P − 1)/(P + 1) giảm về 0; tại đúng P = 1, với X không call K, EV của bluff là (1/2)(−1) + (1/2)(P) = 0, nên Y bàng quan giữa bluff và check; khi P < 1 thì bluff lỗ chắc chắn và Y không bluff. Vậy tại P = 1 chiến lược của Y nhảy gián đoạn: phía trên 1 là gần 1/2, phía dưới 1 là 0. Cả hai câu đều mô tả cùng một bước nhảy, chỉ khác cách nói.
-> - **Bảng giá trị trò chơi AKQ #2 dùng "lối tắt" mà không nói rõ (trang 150):** cột "Value to second player" ghi 0 cho cặp (K, A) — X cầm K, Y cầm A — và +P/(P + 1) cho cặp (K, Q). Đây là giá trị khi giả định X fold mọi K (lối tắt sách dùng ở Ví dụ 13.1: vì X bàng quan giữa call và fold K, có thể giả vờ X luôn fold mà không đổi giá trị trò chơi). Với chiến lược tối ưu thật c = (P − 1)/(P + 1), hai ô này là (P − 1)/(P + 1) và 1/(P + 1); tổng vẫn bằng (P − 1)/(P + 1) như lối tắt, nên tổng (P − 1)/[6(P + 1)] đúng. Ô "Weighted Value" của cặp (A, Q) in là "−1/6 (P+1)", dễ đọc nhầm thành −(P + 1)/6; đúng là −1/[6(P + 1)]. Thứ tự trong cặp là (lá của X, lá của Y).
-> - **Trục hoành của hình 13.1 lệch nhãn:** các nhãn số "02 4 6 … 18 20" in dịch sang phải so với vạch chia (nhãn "0" và "2" dính nhau), nên điểm gãy của đồ thị — đúng ra ở P = 1 — trông như nằm gần nhãn "4". Bản tổng hợp đọc hình theo công thức chứ không theo vị trí nhãn.
-> - **Lỗi lớp chữ/OCR:** "We End Y's equity" là "We find"; "Icings" là "kings"; "-f-" là "+"; "(-l)" là "(−1)"; "P/6(P+ I)" là P/[6(P + 1)]; ký hiệu phân số bị làm phẳng ("12" là 1/2, "16" là 1/6, "118" là 1/18, "1011" là 10/11). Mọi công thức trong bản tổng hợp được đọc lại từ ảnh trang.
-> - **"Ex-showdown" (quy ước của sách):** mọi giá trị trong chương được tính "ngoài showdown", tức chỉ tính phần thắng thua do hành động cược gây ra so với việc lật bài ngay; phần pot ban đầu mà người có bài cao hơn sẽ nhận khi lật bài không được tính. Vì vậy fold một K trước A có giá trị 0 (dù mất pot), còn fold một K trước Q bluff có giá trị −P đối với X (mất pot lẽ ra thắng khi lật bài).
-> - **Thuật ngữ (nhận xét của người tổng hợp):** sách gọi α là "ratio of bluffs to bets"; theo định nghĩa ở Chương 11 (Phương trình 11.1, α = 1/(P + 1) trong trường hợp limit), α là tỷ lệ số tay bluff so với số tay value bet, đồng thời là tỷ lệ tay bài chết mà Y đem đi bluff và tỷ lệ tay bài bắt được bluff mà X fold. Trong trò chơi AKQ, số A và số Q bằng nhau nên ba cách hiểu cho cùng con số. Bản tổng hợp dùng "tỷ lệ bluff so với value bet".
+**Khi mỗi bên chỉ có ba loại tay bài rõ ràng — nuts (bài chắc thắng), tay bài ở giữa, tay bài chết — thì cách chơi tối ưu được quyết định hoàn toàn bởi tỷ lệ giữa số lần bet lấy giá trị và số lần bluff, và tỷ lệ đó vẫn là hằng số α = 1/(P + 1) của Chương 11.**
+
+Trò chơi AKQ #1 (Ví dụ 13.1) có pot 2 đơn vị, một half-street, cược limit 1 đơn vị; X check, Y được bet hoặc check, X call hoặc fold. Loại các chiến lược bị trội (X luôn call với A, luôn fold Q; Y luôn bet A, luôn check K), trò chơi còn đúng hai câu hỏi: Y có bluff với Q không, X có call với K không.
+
+Ma trận 2×2 còn lại, với giá trị theo phía Y là −1/6, +1/6, +1/6, 0, nhân với −6 thì trùng khớp với trò chơi Cảnh sát và Kẻ trộm của Chương 10. Giải bằng điều kiện bàng quan: X call với 1/3 số K, Y bluff với 1/3 số Q; giá trị trò chơi với Y là 1/18 cược.
+
+Trò chơi AKQ #2 (Ví dụ 13.2) tổng quát cho pot P: X call với tỷ lệ (P − 1)/(P + 1) số K (tức tổng cộng fold α = 1/(P + 1) số tay bài bắt được bluff), Y bluff với tỷ lệ α = 1/(P + 1) số Q, giá trị trò chơi với Y là (P − 1)/[6(P + 1)], tiến tới 1/6 khi pot rất lớn.
+
+Lời giải chỉ đúng khi P > 1: khi pot nhỏ hơn 1 thì bluff luôn lỗ (vì một nửa số lần X cầm A), nên không ai bluff và không ai call.
+
+Ba bài học then chốt:
+
+- Tỷ lệ bet/bluff là chìa khoá khi giá trị tay bài rõ ràng.
+- Trong limit hầu như luôn sai khi ở vị trí thứ hai trên river mà bet một tay bài chỉ thắng được bluff và chỉ bị tay bài tốt hơn call.
+- Loại bỏ lá bài có thể thay đổi đáng kể hình dạng phân phối của đối thủ.
 
 ## Sơ đồ
 
@@ -238,7 +240,7 @@ Trên ma trận đã thu gọn: khi Y cầm K, bet cho −1 (gặp A call) hoặ
 
 X luôn làm ít nhất bằng khi call với A và khi fold Q trước một cược. Điều này hiển nhiên: không bao giờ fold nuts trước một cược trên river, và không call khi có thể fold một tay bài hoàn toàn vô vọng. Vì X không bao giờ làm hai việc đó và không bao giờ được lợi khi làm, ta xoá chúng khỏi ma trận. Với Y: cầm K thì Y biết không bao giờ bluff được A của X bỏ bài, cũng không bao giờ được Q của X call; cầm A thì Y không bao giờ thua khi bet và có thể được một K call.
 
-Sau khi loại các chiến lược bị trội, xét theo các lựa chọn chiến lược, trò chơi chỉ còn là ma trận 2×2, giống các trò chơi ở Chương 10 (sách in nhầm là "Chương 13", xem Lưu ý). Có thể thấy hiện tượng các chiến lược thuần "dao động" như đã tả ở đó:
+Sau khi loại các chiến lược bị trội, xét theo các lựa chọn chiến lược, trò chơi chỉ còn là ma trận 2×2, giống các trò chơi ở Chương 10 (sách in nhầm là "Chương 13", xem mục Lưu ý cuối chương). Có thể thấy hiện tượng các chiến lược thuần "dao động" như đã tả ở đó:
 
 - Nếu X luôn call với K, đáp trả tốt nhất của Y là không bao giờ bluff, chỉ value bet A.
 - X đáp lại bằng cách fold mọi K.
@@ -315,9 +317,13 @@ Cặp chiến lược tối ưu: **X call 1/3 số lần khi cầm K; Y bluff 1/
 
 #### Giải thích trực giác
 
-**Phía Y.** Y muốn lấy giá trị từ tập tay bài của mình. Nếu biết X sẽ làm gì với K, Y có thể bet hoặc bluff theo đó (cách chơi khai thác). Nhưng giả sử Y không biết và muốn lấy trọn giá trị của mình bất kể đối thủ làm gì. Y có hai nguồn giá trị: cướp pot bằng Q và được trả tiền khi cầm A. Y muốn hai nguồn này có giá trị cân bằng để đối thủ không khai thác được; tức là bluff với tần suất sao cho giá trị cả chiến lược không đổi dù X call K hay không. Hoá ra tỷ lệ đúng giữa A và Q đem bluff là **3 so với 1**: Y bet mọi A, và bluff 1/3 số Q. Ở Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) tỷ lệ bluff so với value bet này được gọi là α và có giá trị α = 1/(P + 1) (Phương trình 11.1, trường hợp limit); với pot 2 cược, α = 1/3, khớp.
+**Phía Y.** Y muốn lấy giá trị từ tập tay bài của mình. Nếu biết X sẽ làm gì với K, Y có thể bet hoặc bluff theo đó (cách chơi khai thác). Nhưng giả sử Y không biết và muốn lấy trọn giá trị của mình bất kể đối thủ làm gì. Y có hai nguồn giá trị: cướp pot bằng Q và được trả tiền khi cầm A. Y muốn hai nguồn này có giá trị cân bằng để đối thủ không khai thác được; tức là bluff với tần suất sao cho giá trị cả chiến lược không đổi dù X call K hay không.
 
-**Phía X.** X muốn call đủ thường xuyên để Y bàng quan khi bluff Q. Bluff thành công thì Y được 2 cược (pot), bluff thất bại chỉ mất 1 cược. Vậy X phải call gấp đôi số lần fold để Y bàng quan: gọi f là tỷ lệ fold trong số tay bài bắt được bluff, cần 2f = 1 × (1 − f), tức f = 1/3 và tỷ lệ call là **2/3**. Nhưng khi đối thủ bluff, một nửa số lần X cầm A (luôn call). Vậy X cần call thêm một phần tay bài bằng 2/3 − 1/2 = 1/6. Khi đối thủ cầm Q, K chiếm 1/2 số tay bài của X, nên X cần call với (1/6)/(1/2) = 2/6 = **1/3 số K**. Ở Chương 11, sách đã chỉ ra rằng X fold α số tay bài có thể thắng bluff; ở đây cũng vậy, X fold 1/3 tổng số tay bài thắng được bluff (A và K): tổng tỷ lệ fold = (1/2)·0 + (1/2)·(2/3) = 1/3.
+Hoá ra tỷ lệ đúng giữa A và Q đem bluff là **3 so với 1**: Y bet mọi A, và bluff 1/3 số Q. Ở Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) tỷ lệ bluff so với value bet này được gọi là α và có giá trị α = 1/(P + 1) (Phương trình 11.1, trường hợp limit); với pot 2 cược, α = 1/3, khớp.
+
+**Phía X.** X muốn call đủ thường xuyên để Y bàng quan khi bluff Q. Bluff thành công thì Y được 2 cược (pot), bluff thất bại chỉ mất 1 cược. Vậy X phải call gấp đôi số lần fold để Y bàng quan: gọi f là tỷ lệ fold trong số tay bài bắt được bluff, cần 2f = 1 × (1 − f), tức f = 1/3 và tỷ lệ call là **2/3**.
+
+Nhưng khi đối thủ bluff, một nửa số lần X cầm A (luôn call). Vậy X cần call thêm một phần tay bài bằng 2/3 − 1/2 = 1/6. Khi đối thủ cầm Q, K chiếm 1/2 số tay bài của X, nên X cần call với (1/6)/(1/2) = 2/6 = **1/3 số K**. Ở Chương 11, sách đã chỉ ra rằng X fold α số tay bài có thể thắng bluff; ở đây cũng vậy, X fold 1/3 tổng số tay bài thắng được bluff (A và K): tổng tỷ lệ fold = (1/2)·0 + (1/2)·(2/3) = 1/3.
 
 #### Giá trị trò chơi
 
@@ -412,7 +418,7 @@ Một lần nữa, tỷ lệ bluff so với value bet của Y bằng α.
 
 #### Giá trị trò chơi với Y
 
-Bảng của sách (cặp ghi theo thứ tự lá của X, lá của Y; giá trị tính theo lối tắt "X luôn fold K", xem Lưu ý):
+Bảng của sách (cặp ghi theo thứ tự lá của X, lá của Y; giá trị tính theo lối tắt "X luôn fold K", xem mục Lưu ý cuối chương):
 
 | Cặp (X, Y) | Giá trị với người thứ hai (Y) | p(cặp) | Giá trị có trọng số |
 |---|---|---|---|
@@ -445,7 +451,7 @@ Bảng tính lại của người tổng hợp cho một số mức pot:
 
 #### Lời giải chỉ đúng khi P > 1
 
-Lời giải trên chỉ đúng khi pot lớn hơn 1 (lớn hơn cỡ cược). Khi pot nhỏ hơn 1, Y lỗ khi bluff Q: X call với A, mà A chiếm một nửa số tay bài của X. Y lấy pot P khi X fold K và mất trọn 1 cược khi X call bằng A, nên kể cả khi X fold mọi K, EV bluff là (1/2)(P) + (1/2)(−1) = (P − 1)/2 < 0. Toàn bộ trò chơi thay đổi ở điểm đó. Khi pot giảm dần về 1 từ phía lớn hơn, tỷ lệ bluff tăng: tại P = 2 là 1/3, tại P = 1,5 là 2/5, tại P = 1,1 là 10/21 (sách in nhầm 10/11, xem Lưu ý); và khi pot xuống tới 1 thì Y ngừng bluff.
+Lời giải trên chỉ đúng khi pot lớn hơn 1 (lớn hơn cỡ cược). Khi pot nhỏ hơn 1, Y lỗ khi bluff Q: X call với A, mà A chiếm một nửa số tay bài của X. Y lấy pot P khi X fold K và mất trọn 1 cược khi X call bằng A, nên kể cả khi X fold mọi K, EV bluff là (1/2)(P) + (1/2)(−1) = (P − 1)/2 < 0. Toàn bộ trò chơi thay đổi ở điểm đó. Khi pot giảm dần về 1 từ phía lớn hơn, tỷ lệ bluff tăng: tại P = 2 là 1/3, tại P = 1,5 là 2/5, tại P = 1,1 là 10/21 (sách in nhầm 10/11, xem mục Lưu ý cuối chương); và khi pot xuống tới 1 thì Y ngừng bluff.
 
 #### Hình 13.1 — chiến lược tối ưu của trò chơi AKQ limit theo kích thước pot (trang 152)
 
@@ -455,7 +461,7 @@ Lời giải trên chỉ đúng khi pot lớn hơn 1 (lớn hơn cỡ cược). 
 - **Tần suất X call K (đường mảnh liền):** bằng 0 khi P ≤ 1, tăng nhanh rồi chậm dần theo (P − 1)/(P + 1): 1/3 tại P = 2, khoảng 0,82 tại P = 10, khoảng 0,9 tại P = 20.
 - **Giá trị trò chơi với Y (đường đậm):** bằng 0 khi P ≤ 1, tăng theo (P − 1)/[6(P + 1)], chậm dần về 1/6 ≈ 0,167; khoảng 0,15 tại P = 20.
 
-Đường bluff và đường call cắt nhau tại P = 2 (cùng bằng 1/3); đường bluff cắt đường giá trị trò chơi tại P = 7 (cùng bằng 1/8), theo tính toán của người tổng hợp (các nhãn trục hoành trên hình in lệch, xem Lưu ý).
+Đường bluff và đường call cắt nhau tại P = 2 (cùng bằng 1/3); đường bluff cắt đường giá trị trò chơi tại P = 7 (cùng bằng 1/8), theo tính toán của người tổng hợp (các nhãn trục hoành trên hình in lệch, xem mục Lưu ý cuối chương).
 
 Đồ thị đổi đột ngột tại P = 1: Y chuyển từ không bao giờ bluff sang bluff một nửa số Q. Điều này xảy ra vì call đột nhiên trở thành chiến lược hỗn hợp, và bluff cũng vậy. Dưới mức pot này, không bên nào bluff hay call; điều này không bị khai thác được vì tần suất của A trong phân phối của đối thủ. Ở các pot lớn, X phải call thường xuyên trong khi Y chỉ cần bluff ít, nên trò chơi càng có lợi cho Y khi pot tăng.
 
@@ -598,7 +604,9 @@ Trò chơi AKQ half-street là trò chơi tổng bằng 0, hai người, thông 
 
 ### Sức mạnh của chương
 
-Chương cho thấy một lời giải lý thuyết trò chơi hoàn chỉnh chỉ bằng đại số lớp 8: liệt kê, loại chiến lược bị trội, giải hai phương trình bàng quan. Cách trình bày bằng hai con đường — quy về trò chơi Cảnh sát và Kẻ trộm đã biết, và giải trực tiếp — giúp người đọc thấy rằng "tỷ lệ bluff" của poker và "tần suất tuần tra" là cùng một cấu trúc toán. Phần giải thích trực giác (3 A so với 1 Q bluff; call 2/3 tay bắt bluff, trừ phần A đã chiếm) là thứ người chơi có thể nhẩm tại bàn. Việc tổng quát hoá sang pot P cho thấy hằng số α của Chương 11 không phải ngẫu nhiên mà xuất hiện lại ngay khi có loại bỏ lá bài. Lối tắt tính giá trị trò chơi ("đối thủ bàng quan nên cho họ luôn fold") là một kỹ thuật đáng nhớ, được dùng lại nhiều lần ở các chương sau.
+Chương cho thấy một lời giải lý thuyết trò chơi hoàn chỉnh chỉ bằng đại số lớp 8: liệt kê, loại chiến lược bị trội, giải hai phương trình bàng quan. Cách trình bày bằng hai con đường — quy về trò chơi Cảnh sát và Kẻ trộm đã biết, và giải trực tiếp — giúp người đọc thấy rằng "tỷ lệ bluff" của poker và "tần suất tuần tra" là cùng một cấu trúc toán. Phần giải thích trực giác (3 A so với 1 Q bluff; call 2/3 tay bắt bluff, trừ phần A đã chiếm) là thứ người chơi có thể nhẩm tại bàn.
+
+Việc tổng quát hoá sang pot P cho thấy hằng số α của Chương 11 không phải ngẫu nhiên mà xuất hiện lại ngay khi có loại bỏ lá bài. Lối tắt tính giá trị trò chơi ("đối thủ bàng quan nên cho họ luôn fold") là một kỹ thuật đáng nhớ, được dùng lại nhiều lần ở các chương sau.
 
 ### Những chỗ đơn giản hoá
 
@@ -624,4 +632,148 @@ Trò chơi AKQ trở thành ví dụ nhập môn tiêu chuẩn trong sách và k
 ### Vận dụng
 
 - **Cho người chơi poker:** với cược limit 1 vào pot 2 cược, công thức của chương cho 1 bluff trên mỗi 3 value bet, và người phòng thủ fold không quá 1/3 số tay bài bắt được bluff; với pot 5 cược thì 1 bluff trên mỗi 6 value bet và fold không quá 1/6. Pot càng lớn so với cược, càng ít bluff và càng phải call nhiều. Khi tính phần phải call bằng tay bài bắt bluff, trừ đi phần tay bài mạnh hơn mà mình chắc chắn call (như A trong trò chơi này). Với tay bài ở giữa trên river ở vị trí cuối, ưu tiên check theo.
-- **Cho người làm tài chính và ra quyết định:** cấu trúc "bluff/call" xuất hiện trong kiểm tra, kiểm toán và đàm phán: một cơ quan giám sát không thể kiểm tra mọi hồ sơ (như cảnh sát không thể tuần tra mọi đêm), và người bị giám sát không thể gian lận mọi lúc; tần suất kiểm tra tối ưu phụ thuộc tỷ lệ giữa lợi ích của gian lận thành công (pot) và mức phạt khi bị bắt (cược), giống công thức c = (P − 1)/(P + 1). Bài học "lối tắt bàng quan" cũng hữu ích: khi đối thủ ở trạng thái cân bằng, giá trị của mình không phụ thuộc lựa chọn của họ, nên có thể tính giá trị theo kịch bản đơn giản nhất. Cuối cùng, "loại bỏ lá bài" tương ứng với việc thông tin mình đang nắm (vị thế, dữ liệu riêng) làm thay đổi phân phối khả năng của đối tác — một ý tưởng gần với cập nhật Bayes ở Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)).
+- **Cho người làm tài chính và ra quyết định:** cấu trúc "bluff/call" xuất hiện trong kiểm tra, kiểm toán và đàm phán: một cơ quan giám sát không thể kiểm tra mọi hồ sơ (như cảnh sát không thể tuần tra mọi đêm), và người bị giám sát không thể gian lận mọi lúc; tần suất kiểm tra tối ưu phụ thuộc tỷ lệ giữa lợi ích của gian lận thành công (pot) và mức phạt khi bị bắt (cược), giống công thức c = (P − 1)/(P + 1).
+
+  Bài học "lối tắt bàng quan" cũng hữu ích: khi đối thủ ở trạng thái cân bằng, giá trị của mình không phụ thuộc lựa chọn của họ, nên có thể tính giá trị theo kịch bản đơn giản nhất. Cuối cùng, "loại bỏ lá bài" tương ứng với việc thông tin mình đang nắm (vị thế, dữ liệu riêng) làm thay đổi phân phối khả năng của đối tác — một ý tưởng gần với cập nhật Bayes ở Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 13 trên một trang: sáu nhánh lớn đi theo các mục 1–4 của phần Nội dung chi tiết (luật trò chơi AKQ và loại bỏ lá bài; Ví dụ 13.1 tách làm hai nhánh là loại chiến lược bị trội và nghiệm cân bằng; Ví dụ 13.2 tách làm hai nhánh là nghiệm với pot P và ngưỡng P > 1 cùng Hình 13.1; Khái niệm then chốt), mỗi nhánh ghi luật, công thức, nghiệm và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 13: với nuts, tay bài ở giữa và tay bài chết, cách chơi tối ưu do tỷ lệ bluff so với value bet α = 1/(P + 1) quyết định`"]
+  n1["`Mục 1 — Luật trò chơi AKQ và loại bỏ lá bài`"]
+  n0 --- n1
+  n2["`Bộ bài ba lá A, K, Q#59; mỗi người một lá, có ante, một vòng cược, lá cao thắng`"]
+  n1 --- n2
+  n3["`Có 6 cặp lá (X, Y), mỗi cặp xác suất 1/6`"]
+  n1 --- n3
+  n4["`Loại bỏ lá bài: cầm Q thì đối thủ cầm A một nửa số lần, K một nửa số lần`"]
+  n1 --- n4
+  n5["`Khác trò chơi [0,1], nơi lá của người này không ảnh hưởng lá của người kia`"]
+  n1 --- n5
+  n6["`Giá trị ngoài showdown: chỉ tính thắng thua do cược gây ra, mọi ô check bằng 0`"]
+  n1 --- n6
+  n7["`Chương chỉ xét half-street, cược limit#59; no-limit có kết quả bất ngờ ở phụ lục Chương 15`"]
+  n1 --- n7
+  n8["`Mục 2 — Ví dụ 13.1 (pot 2, cược 1): loại chiến lược bị trội`"]
+  n0 --- n8
+  n9["`X luôn call A và luôn fold Q: không fold nuts, không call bằng tay bài vô vọng`"]
+  n8 --- n9
+  n10["`Y luôn check K: bet K không làm A fold, không được Q call`"]
+  n8 --- n10
+  n11["`Y luôn bet A: không bao giờ lỗ, có thể được K call`"]
+  n8 --- n11
+  n12["`Còn hai câu hỏi: Y có bluff Q không, X có call K không`"]
+  n8 --- n12
+  n13["`Chiến lược thuần đuổi nhau thành vòng, nên cân bằng là chiến lược hỗn hợp`"]
+  n8 --- n13
+  n14["`Ma trận 2×2 theo phía Y: bluff/call −1/6, check/call +1/6, bluff/fold +1/6, check/fold 0`"]
+  n8 --- n14
+  n15["`Nhân với −6 ra đúng Cảnh sát và Kẻ trộm (+1, −1#59; −1, 0), nghiệm 1/3 và 1/3`"]
+  n14 --- n15
+  n16["`Mục 2 — Ví dụ 13.1: nghiệm cân bằng và trực giác`"]
+  n0 --- n16
+  n17["`Y bàng quan khi bluff Q: 1/2 − (3/2)c = 0, nên X call c = 1/3 số K`"]
+  n16 --- n17
+  n18["`X bàng quan khi cầm K: −1/2 + b/2 = −b, nên Y bluff b = 1/3 số Q`"]
+  n16 --- n18
+  n19["`Tỷ lệ A so với Q đem bluff là 3 so với 1, tức α = 1/(P + 1) = 1/3`"]
+  n16 --- n19
+  n20["`Bluff thành công được 2, thất bại mất 1, nên X call gấp đôi fold: call 2/3 tay bắt bluff`"]
+  n16 --- n20
+  n21["`A đã chiếm 1/2, K góp thêm 1/6, tức X call 1/3 số K`"]
+  n20 --- n21
+  n22["`Giá trị với Y là 1/18 cược, như nhau với mọi tần suất call K của X`"]
+  n16 --- n22
+  n23["`Lối tắt: X bàng quan giữa call và fold K nên giả vờ X luôn fold K để tính giá trị`"]
+  n22 --- n23
+  n24["`Mục 3 — Ví dụ 13.2: nghiệm với pot P tuỳ ý`"]
+  n0 --- n24
+  n25["`Y bàng quan: (P + 1)c = P − 1, nên X call K với c = (P − 1)/(P + 1)`"]
+  n24 --- n25
+  n26["`Tổng tay A và K mà X call là P/(P + 1), X fold đúng α = 1/(P + 1)`"]
+  n25 --- n26
+  n27["`X bàng quan: b(1 + P) = 1, nên Y bluff Q với b = 1/(P + 1) = α`"]
+  n24 --- n27
+  n28["`Giá trị với Y là (P − 1)/[6(P + 1)]: P = 2 cho 1/18, P = 7 cho 1/8`"]
+  n24 --- n28
+  n29["`P → ∞: giá trị tiến tới 1/6, X call gần mọi K, Y gần như không bluff`"]
+  n28 --- n29
+  n30["`P = 3: b = 1/4, c = 1/2#59; P = 10: b = 1/11, c = 9/11`"]
+  n24 --- n30
+  n31["`Pot càng lớn X càng phải call nhiều trong khi Y chỉ cần bluff ít, nên càng có lợi cho Y`"]
+  n24 --- n31
+  n32["`Mục 3 — Ngưỡng P #gt; 1 và Hình 13.1`"]
+  n0 --- n32
+  n33["`P #lt; 1: kể cả khi X fold mọi K, EV bluff là (P − 1)/2 #lt; 0 vì X cầm A một nửa số lần`"]
+  n32 --- n33
+  n34["`Dưới P = 1 không ai bluff, không ai call#59; không bị khai thác vì tần suất của A`"]
+  n32 --- n34
+  n35["`P giảm về 1 từ phía trên: b tăng tới 1/2, c giảm về 0#59; dưới 1 thì b nhảy xuống 0`"]
+  n32 --- n35
+  n36["`P = 1,1 cho b = 10/21 ≈ 0,476 (sách in nhầm 10/11)#59; P = 1,5 cho b = 2/5`"]
+  n35 --- n36
+  n37["`Hình 13.1: đường bluff Q và đường call K cắt nhau tại P = 2, cùng bằng 1/3`"]
+  n32 --- n37
+  n38["`Kích thước pot thay đổi cả chiến lược lẫn equity#59; từ đây sách giải với pot P tổng quát`"]
+  n32 --- n38
+  n39["`Mục 4 — Khái niệm then chốt (Key Concepts)`"]
+  n0 --- n39
+  n40["`Khi giá trị tay bài rõ ràng (nuts, ở giữa, chết), tỷ lệ value bet và bluff là chìa khoá`"]
+  n39 --- n40
+  n41["`Limit, vị trí thứ hai trên river: không bet tay chỉ thắng bluff mà chỉ bị bài tốt hơn call, như K của Y`"]
+  n39 --- n41
+  n42["`Loại bỏ lá bài có thể thay đổi đáng kể hình dạng phân phối tay bài của đối thủ`"]
+  n39 --- n42
+  n43["`Thông điệp xuyên suốt`"]
+  n0 --- n43
+  n44["`Hằng số α của Chương 11 xuất hiện lại: tỷ lệ bluff của Y và tỷ lệ fold của X`"]
+  n43 --- n44
+  n45["`Tính phần call bằng tay bắt bluff phải trừ phần tay mạnh hơn chắc chắn call, như A`"]
+  n43 --- n45
+  n46["`Loại bỏ lá bài là tiền thân của khái niệm blocker trong poker hiện đại`"]
+  n43 --- n46
+  n47["`Khi được chọn mức cược (Chương 14), α trở thành s/(1 + s) với s là cỡ cược so với pot`"]
+  n43 --- n47
+  class n0 root
+  class n1,n8,n16,n24,n32,n39,n43 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n40,n41,n42,n44,n45,n46,n47 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 13 "Poker Made Simple: The AKQ Game", trang 143–152.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)) đặt nền lý thuyết trò chơi: ma trận lợi ích, chiến lược trội, chiến lược hỗn hợp, cân bằng và trò chơi "Cảnh sát và Kẻ trộm" (Cops and Robbers). Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) giải các trò chơi half-street (nửa vòng cược: chỉ một người được bet) và rút ra hằng số α = 1/(P + 1) — tỷ lệ bluff so với value bet và tần suất fold của người bị bet. Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)) giải các trò chơi jam-or-fold.
+
+Chương 13 đưa ra trò chơi AKQ — bộ bài chỉ có ba lá A, K, Q — làm dạng poker đối xứng đơn giản nhất mà vẫn không tầm thường, và lần đầu đưa vào hiện tượng **loại bỏ lá bài** (card removal): lá bài của mình làm thay đổi phân phối lá bài của đối thủ.
+
+Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) dùng các trò chơi cùng loại để bàn chuyện chọn mức cược trong no-limit; Chương 15 ([C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md)) mở rộng trò chơi AKQ lên full-street (cả hai người được bet) và phụ lục của nó giải trò chơi AKQ no-limit — chính là "điều bất ngờ về no-limit" mà phần mở đầu chương này hứa hẹn.
+
+## Lưu ý
+
+- **Tự tham chiếu sai số chương:** trang 144 viết "this game is a 2x2 matrix, just as games in Chapter 13 were" và "the oscillation of strategies ... as we described there". Chương này chính là Chương 13; ma trận 2×2 và hiện tượng "dao động" giữa các chiến lược thuần được mô tả ở Chương 10 (trò chơi Cảnh sát và Kẻ trộm, Ví dụ 10.5). Đúng phải là "Chapter 10".
+- **Tiêu đề phép ghép cặp in sai (trang 145):** phép ghép cặp thứ hai được đặt tiêu đề "Y₂ vs. X₂", nhưng nội dung (Y check Q, X call K) và kết quả "<Y₂, X₁> = +1/6" cho thấy đây là Y₂ gặp X₁. Phép ghép cặp Y₂ gặp X₂ thật sự là mục thứ tư.
+- **Tỷ lệ bluff tại P = 1,1 in sai (trang 150):** sách viết "at 1.1 it's 10/11". Theo công thức b = 1/(P + 1) của chính sách, tại P = 1,1 thì b = 1/2,1 = 10/21 ≈ 0,476 (con số 10/11 ≈ 0,909 vượt quá cả 1/2, mâu thuẫn với câu sau rằng Y bluff "một nửa" ở sát P = 1). Hai giá trị kia đúng: P = 2 cho 1/3, P = 1,5 cho 1/(2,5) = 2/5.
+- **Hai câu mâu thuẫn về điểm P = 1 (trang 150–151):** trang 150 viết "tại đúng P = 1, Y ngừng bluff", trang 151 viết "tại P = 1, Y chuyển từ không bao giờ bluff sang bluff một nửa số tay bài".
+
+  Người tổng hợp tính: khi P giảm dần về 1 (từ phía lớn hơn), b = 1/(P + 1) tăng dần tới 1/2 và c = (P − 1)/(P + 1) giảm về 0; tại đúng P = 1, với X không call K, EV của bluff là (1/2)(−1) + (1/2)(P) = 0, nên Y bàng quan giữa bluff và check; khi P < 1 thì bluff lỗ chắc chắn và Y không bluff. Vậy tại P = 1 chiến lược của Y nhảy gián đoạn: phía trên 1 là gần 1/2, phía dưới 1 là 0. Cả hai câu đều mô tả cùng một bước nhảy, chỉ khác cách nói.
+- **Bảng giá trị trò chơi AKQ #2 dùng "lối tắt" mà không nói rõ (trang 150):** cột "Value to second player" ghi 0 cho cặp (K, A) — X cầm K, Y cầm A — và +P/(P + 1) cho cặp (K, Q). Đây là giá trị khi giả định X fold mọi K (lối tắt sách dùng ở Ví dụ 13.1: vì X bàng quan giữa call và fold K, có thể giả vờ X luôn fold mà không đổi giá trị trò chơi). Với chiến lược tối ưu thật c = (P − 1)/(P + 1), hai ô này là (P − 1)/(P + 1) và 1/(P + 1); tổng vẫn bằng (P − 1)/(P + 1) như lối tắt, nên tổng (P − 1)/[6(P + 1)] đúng.
+
+  Ô "Weighted Value" của cặp (A, Q) in là "−1/6 (P+1)", dễ đọc nhầm thành −(P + 1)/6; đúng là −1/[6(P + 1)]. Thứ tự trong cặp là (lá của X, lá của Y).
+- **Trục hoành của hình 13.1 lệch nhãn:** các nhãn số "02 4 6 … 18 20" in dịch sang phải so với vạch chia (nhãn "0" và "2" dính nhau), nên điểm gãy của đồ thị — đúng ra ở P = 1 — trông như nằm gần nhãn "4". Bản tổng hợp đọc hình theo công thức chứ không theo vị trí nhãn.
+- **Lỗi lớp chữ/OCR:** "We End Y's equity" là "We find"; "Icings" là "kings"; "-f-" là "+"; "(-l)" là "(−1)"; "P/6(P+ I)" là P/[6(P + 1)]; ký hiệu phân số bị làm phẳng ("12" là 1/2, "16" là 1/6, "118" là 1/18, "1011" là 10/11). Mọi công thức trong bản tổng hợp được đọc lại từ ảnh trang.
+- **"Ex-showdown" (quy ước của sách):** mọi giá trị trong chương được tính "ngoài showdown", tức chỉ tính phần thắng thua do hành động cược gây ra so với việc lật bài ngay; phần pot ban đầu mà người có bài cao hơn sẽ nhận khi lật bài không được tính. Vì vậy fold một K trước A có giá trị 0 (dù mất pot), còn fold một K trước Q bluff có giá trị −P đối với X (mất pot lẽ ra thắng khi lật bài).
+- **Thuật ngữ (nhận xét của người tổng hợp):** sách gọi α là "ratio of bluffs to bets"; theo định nghĩa ở Chương 11 (Phương trình 11.1, α = 1/(P + 1) trong trường hợp limit), α là tỷ lệ số tay bluff so với số tay value bet, đồng thời là tỷ lệ tay bài chết mà Y đem đi bluff và tỷ lệ tay bài bắt được bluff mà X fold. Trong trò chơi AKQ, số A và số Q bằng nhau nên ba cách hiểu cho cùng con số. Bản tổng hợp dùng "tỷ lệ bluff so với value bet".

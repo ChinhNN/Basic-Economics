@@ -1,28 +1,20 @@
 # Chương 16 — Cược nhỏ, pot lớn: các trò chơi [0,1] không bỏ bài (Small Bets, Big Pots: No-Fold [0,1] Games)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 16 "Small Bets, Big Pots: No-Fold [0,1] Games", trang 183–200, cùng Phụ lục Chương 16 "Solving the Difference Equations", trang 201–203.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương này thuộc Phần III "Chơi tối ưu" (Optimal Play). Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) đã giới thiệu trò chơi [0,1] ở dạng half-street (chỉ một người được bet), trong đó có trò chơi [0,1] số 1 không cho bỏ bài, và đặt quy ước đặt tên ngưỡng x₁, y₁, x₂…. Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) đặt tên hằng số r = √2 − 1 là "tỷ lệ vàng của poker" (golden mean of poker). Chương 15 ([C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md)) giải trò chơi full-street đầu tiên (cả hai người đều có quyền bet) trên trò chơi AKQ. Chương 16 đưa trò chơi [0,1] sang full-street nhưng giữ luật "không ai được bỏ bài", nên không có bluff; chương giải năm trò chơi [0,1] số 4 tới số 8, từ một bet duy nhất tới raise không giới hạn có check-raise, và cho thấy r = √2 − 1 là tỷ lệ raise đúng khi đối thủ có thể raise lại. Chương 17 ([C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md)) giải lại đúng các cấu trúc này nhưng với pot hữu hạn (có bỏ bài, có bluff), và nhiều lần so sánh với các trò chơi số 6 và số 7 của chương này; Chương 18 ([C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) tính giá trị trò chơi (game value) mà chương này mới chỉ nhắc tới.
-**Ý chính:** **Khi không ai được bỏ bài, poker chỉ còn là bài toán rút đúng lượng giá trị từ bài mạnh: mỗi người bet hoặc raise với một tỷ lệ cố định của những tay bài mà đối thủ còn có thể đang cầm, và tỷ lệ đó là 1/2 khi không thể bị raise lại, là r = √2 − 1 ≈ 0,414 khi việc raise qua lại không giới hạn.** Luật "không bỏ bài" mô phỏng tình huống pot rất lớn so với một bet, nên mọi chiến lược tối ưu đều không có bluff. Mọi trò chơi được giải bằng cùng một phương pháp: tham số hoá chiến lược bằng các ngưỡng, rồi viết một phương trình bàng quan (indifference equation) tại mỗi ngưỡng. **Trò chơi số 4** (một bet, không raise): X bet mọi tay bài (x₁ = 1), Y luôn call, giá trị trò chơi bằng 0. **Trò chơi số 5** (hai bet, không check-raise): x₁ = 1/2, y₂ = 1/4, y₁ = 3/4; Y raise với một nửa số tay X bet, bet sau khi X check với một nửa số tay X check, và vùng raise của Y rộng bằng vùng check của Y; Y có lợi thế vị trí (người tổng hợp tính được 1/8 bet). **Trò chơi số 6** (raise không giới hạn, không check-raise): mỗi ngưỡng raise bằng R lần ngưỡng trước, và phương trình bàng quan tại y₂ cho R² + 2R − 1 = 0, tức R = √2 − 1; x₁ ≈ 0,5469, y₁ ≈ 0,7735, y₂ ≈ 0,2265, x₃ ≈ 0,0938. **Trò chơi số 7** (hai bet, có check-raise): x₂ = 1/9, y₂ = 1/3, x₁ = 5/9, y₁ = 2/3; so với trò chơi số 5, Y bet ít tay hơn sau khi X check (vì sợ bị check-raise), X bet thêm các tay trung bình, Y raise rộng hơn. **Trò chơi số 8** (raise không giới hạn, có check-raise): phương trình bàng quan dẫn tới phương trình sai phân y_{k+2} + 2y_{k+1} − y_k = 0 và x_k + 2x_{k+1} − x_{k+2} = 2r^k; nghiệm là yₙ = rⁿ/(1 − r) và xₙ = rⁿ⁻¹[(2r − 1)(−1)ⁿ + 1]/2, tức xₙ = rⁿ khi n chẵn và rⁿ⁻¹(1 − r) khi n lẻ; X check đúng một nửa số tay, trong đó r ≈ 0,414 là check rồi call và khoảng 0,086 là check-raise. Phụ lục trình bày cách giải hai phương trình sai phân bằng phương trình đặc trưng và nghiệm riêng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lỗi trong bảng bàng quan tại x₁ của Ví dụ 16.1 (trang 184):** bảng ghi tiêu đề cột "X's hand", "<Y, bet>", "<Y, check>", nhưng nội dung là bài của **Y** và kỳ vọng của **X** khi X bet hoặc check (X đang ở ngưỡng x₁ và cân nhắc hành động của chính mình). Ô "Product" ở dòng [0, x₁] ghi "x₁" cho cả hai cột; đúng ra là −x₁ (xác suất x₁ nhân với −1). Các tổng 1 − 2x₁ và y₁ − 2x₁ của sách chỉ đúng khi dùng −x₁: (−x₁) + (y₁ − x₁) + (1 − y₁) = 1 − 2x₁ và (−x₁) + (y₁ − x₁) + 0 = y₁ − 2x₁.
-> - **Lỗi chỉ số trong bảng tại y₁ của Ví dụ 16.2 (trang 187):** tổng ghi "2y₂ − x₁ − 1" và phương trình ghi "2y₂ − x₁ − 1 = 0"; đúng là 2y₁ − x₁ − 1, vì (y₁ − x₁) − (1 − y₁) = 2y₁ − x₁ − 1. Kết luận y₁ = (1 + x₁)/2 của sách đúng.
-> - **Dấu sai trong bảng tại x₁ của Ví dụ 16.2 (trang 186):** dòng [x₁, y₁] (bài Y yếu hơn X) ghi −1 cho cả check-call và bet; đúng là +1 cho cả hai (X thắng một bet). Hiệu vẫn bằng 0 nên phương trình y₂ = 1 − y₁ không đổi. Bảng tương tự ở Ví dụ 16.4 (trang 193) gộp hai khoảng [y₂, x₁] và [x₁, y₁] thành một dòng ghi −1, cùng lỗi này.
-> - **Nhãn không nhất quán ở phần kiểm tra lời giải của Ví dụ 16.2 (trang 188):** sách viết "<y, x bets>" và "<x, check>" cho hai đại lượng cùng là kỳ vọng của Y; các phép tính 4x − 5/4 và 2x − 3/4 đều đúng.
-> - **Lỗi chỉ số trong bảng tại y₂ của Ví dụ 16.3 (trang 190):** dòng [y₂, x₁] ghi tích "−1(x₁ − y₁)"; đúng là −(x₁ − y₂). Tổng x₃ + 2y₂ − x₁ của sách đúng với y₂: 2x₃ + (y₂ − x₃) − (x₁ − y₂) = x₃ + 2y₂ − x₁.
-> - **Ký hiệu R và r trong Ví dụ 16.3:** sách gọi tỷ lệ raise là R trong toàn bộ lời giải, rồi trong khung "Solution" chuyển sang r (hằng số √2 − 1 của Chương 14). Hai ký hiệu chỉ cùng một số sau khi giải ra R = √2 − 1.
-> - **Lỗi trong bảng tại y₁ của Ví dụ 16.4 (trang 193):** tiêu đề cột ghi "Y raises / Y calls", đúng là "Y check / Y bets". Hai dòng [x₁, y₁] và [y₁, 1] bị đảo dấu ở cột chênh lệch: với hiệu (check − bet), dòng [x₁, y₁] là 0 − (−1) = +1, tích +(y₁ − x₁); dòng [y₁, 1] là 0 − (+1) = −1, tích −(1 − y₁). Tổng sách ghi "2x₂ + 2y₂ − x₁ + 1"; đúng là 2x₂ + 2y₁ − x₁ − 1. Phương trình cuối 2y₁ = 1 + x₁ − 2x₂ của sách đúng (kiểm bằng lời giải: 2/9 + 4/3 − 5/9 − 1 = 0), nên lỗi chỉ nằm trong bảng.
-> - **Lỗi trong Ví dụ 16.5, bảng tại x₂ (trang 195):** tổng ghi "−y₃ + 1 − 2y₁ − y₂"; đúng là −y₃ − 1 + 2y₁ − y₂ (từ −y₃ + (y₁ − y₂) − (1 − y₁)). Dòng sau của sách, y₃ + y₂ + 1 = 2y₁, lại đúng. Bước thế y₂ = 1 − y₁ của sách cho "y₃ + 2 = 2y₁"; đúng là **y₃ + 2 = 3y₁** (vì y₃ + (1 − y₁) + 1 = 2y₁). Kiểm bằng lời giải cuối: y₃ + 2 = 0,12132 + 2 = 2,12132 và 3y₁ = 3 × 0,70711 = 2,12132. Bảng cũng bỏ qua các khoảng bài của Y có chênh lệch bằng 0 (ví dụ [y₃, y₂]); việc bỏ này không sai nhưng làm bảng khó theo dõi.
-> - **Lỗi trong Ví dụ 16.5, bảng tại x₄ (trang 196):** tiêu đề cột ghi "X bet-reraises / X check-raises", nhưng cột thứ nhất thực ra là "check-raise rồi raise tiếp" và cột thứ hai là "bet rồi reraise" (đúng như câu dẫn của sách). Tổng ghi "… + 2y₁ + 1"; đúng là −y₅ + 2y₃ − y₄ − 2y₂ + 2y₁ − 1. Dạng sắp xếp lại ngay sau đó, (y₃ − y₄) + (y₁ − y₂) = y₅ + (y₂ − y₃) + (1 − y₁), đúng (kiểm số: hai vế cùng bằng 0,48528).
-> - **Lỗi trong lời giải của Y ở Ví dụ 16.5 (trang 196):** sách viết "yₙ = rⁿ/(1 − r) (for y > 0)", đúng là "với n ≥ 1" (công thức cho n = 0 ra 1,707, không phải ngưỡng). Sách viết "y₁ is 1/(1 − r)"; đúng là y₁ = r/(1 − r) = 1/√2 ≈ 0,7071, như chính bảng ngưỡng của sách và câu "Y puts in the first bet if checked to with hands below r/(1 − r)" ở trang 199.
-> - **Lỗi chỉ số khi cộng hai phương trình của X (trang 199):** dòng đầu ghi "x_{k+1} − y_k + x_k − y_{k+1} = …"; số hạng đầu đúng là x_{k−1} (lấy từ phương trình tại y_k: x_{k−1} − y_k = …). Dòng tiếp theo của sách, x_{k−1} + 2x_k − x_{k+1} = 2y_k + 2y_{k+1}, đúng.
-> - **Bảng ở phương trình tại y₂ của Ví dụ 16.5 (trang 198):** các ô "0 / −2" là phần chênh lệch thêm, không phải kỳ vọng thật của mỗi hành động (ví dụ X cầm bài trong [x₄, x₃] thì Y raise mất 3 bet, Y call mất 1 bet; chênh lệch 2). Số hạng cuối của tổng ghi "2(x₂ₖ − x₂ₖ₊₁)", đúng ra phải là 2(x₂ₖ₊₁ − x₂ₖ₊₂) cho phương trình tại y₂. Không ảnh hưởng kết quả.
-> - **Lỗi trong tổng các vùng check của X (trang 200):** sách viết tổng là r Σ_{n=1}^{∞} (r²)ⁿ; chỉ số đúng phải bắt đầu từ n = 0 (các vùng có độ rộng r, r³, r⁵, …). Với n = 1 tổng chỉ là r³/(1 − r²) ≈ 0,0858. Sách sau đó dùng đúng công thức r/(1 − r²). Dòng "r² = 2·2√2 + 1 = 3 − 2√2" in hỏng; đúng là r² = 2 − 2√2 + 1 = 3 − 2√2 ≈ 0,1716.
-> - **Lỗi trong Phụ lục (trang 201–203):** (1) "yₙ = arⁿ + b(−1 − √2)qⁿ" đúng là yₙ = arⁿ + b(−1 − √2)ⁿ. (2) Dòng "a(1 − r) − 1" thiếu "= 0". (3) "This equation, like Equation 20.1" đúng là Phương trình 16.1. (4) **Hằng số của nghiệm riêng tính sai:** từ c(1 + 2r − r²) = 2 và r² = 1 − 2r được c · 4r = 2, nên c = 1/(2r) ≈ 1,2071, không phải c = r/2 ≈ 0,2071 như sách viết; nghiệm riêng đúng là Z = rⁿ/(2r) = rⁿ⁻¹/2. Các dòng tiếp theo của sách ("½r", "a = (2r − 1)/2r") và công thức cuối xₙ = rⁿ⁻¹[(2r − 1)(−1)ⁿ + 1]/2 chỉ đúng khi hiểu hằng số là 1/(2r); nếu dùng r/2 thì sẽ ra a = 1 − r/2 và công thức sai. (5) Định nghĩa "nghiệm riêng là một nghiệm cho một giá trị k nào đó" không chính xác: nghiệm riêng là một dãy thoả phương trình không thuần nhất với **mọi** k (nhận xét của người tổng hợp).
-> - **Các hình chiến lược (Hình 16.1–16.4) là sơ đồ minh hoạ, không vẽ đúng tỷ lệ:** ngưỡng của X luôn được ghi là "x₁*" trong khi theo quy ước của Chương 11, dấu sao dành cho ngưỡng giữa call và fold; ở đây đúng ra là x₁. Hình 16.3 (trò chơi số 7) vẽ y₁ khoảng 0,77 và y₂ khoảng 0,22 (đọc từ trục, ước lượng) trong khi lời giải là y₁ = 2/3, y₂ = 1/3; Hình 16.4 (trò chơi số 8) vẽ y₁ khoảng 0,77 và x₁ khoảng 0,55 trong khi lời giải là 0,7071 và 0,5858. Bản tổng hợp dùng giá trị của lời giải, không dùng vị trí trên hình.
-> - **Lớp chữ OCR:** chữ "l" thay số 1 ("l/(l+2r)"), phân số 1/2, 1/4, 3/4 bị làm phẳng thành "12", "14", "34"; "m" thay "in" ("no x 2 m this game"); "rn-1" là rⁿ⁻¹. Mọi công thức đã được đọc lại từ ảnh trang.
-> - **Quy ước:** "kỳ vọng" trong chương là kỳ vọng ex-showdown, chỉ tính số bet thắng hay thua trên vòng cược đang xét, không tính phần pot có sẵn. Bài 0 là bài mạnh nhất (nuts), bài 1 là bài yếu nhất. Số thập phân dùng dấu phẩy; phân số giữ dạng a/b.
+**Khi không ai được bỏ bài, poker chỉ còn là bài toán rút đúng lượng giá trị từ bài mạnh: mỗi người bet hoặc raise với một tỷ lệ cố định của những tay bài mà đối thủ còn có thể đang cầm, và tỷ lệ đó là 1/2 khi không thể bị raise lại, là r = √2 − 1 ≈ 0,414 khi việc raise qua lại không giới hạn.**
+
+Luật "không bỏ bài" mô phỏng tình huống pot rất lớn so với một bet, nên mọi chiến lược tối ưu đều không có bluff. Mọi trò chơi được giải bằng cùng một phương pháp: tham số hoá chiến lược bằng các ngưỡng, rồi viết một phương trình bàng quan (indifference equation) tại mỗi ngưỡng.
+
+**Trò chơi số 4** (một bet, không raise): X bet mọi tay bài (x₁ = 1), Y luôn call, giá trị trò chơi bằng 0.
+
+**Trò chơi số 5** (hai bet, không check-raise): x₁ = 1/2, y₂ = 1/4, y₁ = 3/4. Y raise với một nửa số tay X bet, bet sau khi X check với một nửa số tay X check, và vùng raise của Y rộng bằng vùng check của Y. Y có lợi thế vị trí (người tổng hợp tính được 1/8 bet).
+
+**Trò chơi số 6** (raise không giới hạn, không check-raise): mỗi ngưỡng raise bằng R lần ngưỡng trước, và phương trình bàng quan tại y₂ cho R² + 2R − 1 = 0, tức R = √2 − 1; x₁ ≈ 0,5469, y₁ ≈ 0,7735, y₂ ≈ 0,2265, x₃ ≈ 0,0938.
+
+**Trò chơi số 7** (hai bet, có check-raise): x₂ = 1/9, y₂ = 1/3, x₁ = 5/9, y₁ = 2/3. So với trò chơi số 5, Y bet ít tay hơn sau khi X check (vì sợ bị check-raise), X bet thêm các tay trung bình, Y raise rộng hơn.
+
+**Trò chơi số 8** (raise không giới hạn, có check-raise): phương trình bàng quan dẫn tới phương trình sai phân y_{k+2} + 2y_{k+1} − y_k = 0 và x_k + 2x_{k+1} − x_{k+2} = 2r^k. Nghiệm là yₙ = rⁿ/(1 − r) và xₙ = rⁿ⁻¹[(2r − 1)(−1)ⁿ + 1]/2, tức xₙ = rⁿ khi n chẵn và rⁿ⁻¹(1 − r) khi n lẻ. X check đúng một nửa số tay, trong đó r ≈ 0,414 là check rồi call và khoảng 0,086 là check-raise. Phụ lục trình bày cách giải hai phương trình sai phân bằng phương trình đặc trưng và nghiệm riêng.
 
 ## Sơ đồ
 
@@ -306,7 +298,7 @@ Vì Y chỉ kiếm được giá trị khi bet sau khi X check (mọi hành đ�
 
 Như ở Ví dụ 11.3 của Chương 11, ta cộng cột "Tích" và cho hai kỳ vọng bằng nhau: 0 = x₁ − 2y₁ + 1, tức **2y₁ = x₁ + 1**.
 
-*Bàng quan tại x₁* (X cầm bài đúng bằng x₁, cân nhắc bet hay check). Bảng dưới đây ghi kỳ vọng của X theo bài của Y (sách ghi nhầm tiêu đề cột và dấu ô đầu, xem khối Lưu ý):
+*Bàng quan tại x₁* (X cầm bài đúng bằng x₁, cân nhắc bet hay check). Bảng dưới đây ghi kỳ vọng của X theo bài của Y (sách ghi nhầm tiêu đề cột và dấu ô đầu, xem mục Lưu ý cuối chương):
 
 | Bài của Y | Xác suất | X bet | Tích | X check | Tích |
 |---|---|---|---|---|---|
@@ -467,7 +459,9 @@ Kiểm tra: y₂ + y₁ = 0,2265 + 0,7735 = 1, đúng điều kiện y₂ = 1 �
 
 **Luật.** Một vòng full-street; còn hai bet; được check-raise; không được bỏ bài.
 
-Ở trò chơi số 5 không có ngưỡng x₂ vì không chuỗi hành động nào cho X bỏ bet thứ hai. Khi cho X quyền check-raise, ta có cùng trò chơi nhưng thêm một ngưỡng cần giải. Điểm then chốt là xác định X check-raise với tay nào. Hiển nhiên X chỉ muốn bỏ bet thứ hai với tay tốt hơn y₁ (tay tệ hơn sẽ mất giá trị khi check-raise), và X không bỏ bet thứ hai với tay yếu hơn tay bỏ bet thứ nhất (đã chứng minh là bị trội). Theo trực giác X muốn tự mình bỏ hai bet với các tay mạnh nhất; thực ra các chiến lược của X đều đồng tối ưu (co-optimal) miễn là X chọn đúng **độ rộng** vùng check-raise trong các tay tốt hơn y₂. Để đơn giản, và vì cách này tiện khi có nhiều bet hơn, sách tham số hoá:
+Ở trò chơi số 5 không có ngưỡng x₂ vì không chuỗi hành động nào cho X bỏ bet thứ hai. Khi cho X quyền check-raise, ta có cùng trò chơi nhưng thêm một ngưỡng cần giải. Điểm then chốt là xác định X check-raise với tay nào. Hiển nhiên X chỉ muốn bỏ bet thứ hai với tay tốt hơn y₁ (tay tệ hơn sẽ mất giá trị khi check-raise), và X không bỏ bet thứ hai với tay yếu hơn tay bỏ bet thứ nhất (đã chứng minh là bị trội).
+
+Theo trực giác X muốn tự mình bỏ hai bet với các tay mạnh nhất; thực ra các chiến lược của X đều đồng tối ưu (co-optimal) miễn là X chọn đúng **độ rộng** vùng check-raise trong các tay tốt hơn y₂. Để đơn giản, và vì cách này tiện khi có nhiều bet hơn, sách tham số hoá:
 
 ```text
 0 < x₂ < y₂ < x₁ < y₁ < 1
@@ -479,7 +473,7 @@ Kiểm tra: y₂ + y₁ = 0,2265 + 0,7735 = 1, đúng điều kiện y₂ = 1 �
 - Y khi X bet: raise for value trên [0, y₂]; call trên [y₂, 1].
 - Y khi X check: bet for value trên [0, y₁]; check trên [y₁, 1].
 
-(Hình vẽ các ngưỡng của Y ở vị trí khoảng 0,77 và 0,22, không đúng với lời giải 2/3 và 1/3; xem khối Lưu ý.)
+(Hình vẽ các ngưỡng của Y ở vị trí khoảng 0,77 và 0,22, không đúng với lời giải 2/3 và 1/3; xem mục Lưu ý cuối chương.)
 
 **Bốn phương trình bàng quan.**
 
@@ -517,7 +511,7 @@ Nên **y₂ = (x₁ + x₂)/2**: Y raise với nửa tốt hơn của vùng bet 
 
 Nên **y₂ = 1 − y₁**.
 
-*Y tại y₁ (check hay bet khi X check)* — bảng đã sửa dấu (sách in nhầm, xem khối Lưu ý). X check với [0, x₂] (để check-raise) và [x₁, 1] (để check-call):
+*Y tại y₁ (check hay bet khi X check)* — bảng đã sửa dấu (sách in nhầm, xem mục Lưu ý cuối chương). X check với [0, x₂] (để check-raise) và [x₁, 1] (để check-call):
 
 | Bài của X | Y check | Y bet | Hiệu (check − bet) | Tích |
 |---|---|---|---|---|
@@ -540,7 +534,11 @@ x₁ = 2/3 − 1/9 = 5/9
 
 **Lời giải: x₁ = 5/9, y₁ = 2/3, x₂ = 1/9, y₂ = 1/3.** Người tổng hợp kiểm cả bốn phương trình: 2·(2/3) − 1/3 − 1 = 0; 2·(1/3) − 5/9 − 1/9 = 0; 1/3 − 1 + 2/3 = 0; 2/9 + 4/3 − 5/9 − 1 = 0.
 
-**So sánh với trò chơi số 5.** Trước khi nhìn số, tác giả dự đoán: thứ nhất, Y sẽ bet ít tay hơn khi X check, vì ở trò chơi số 5 bet của Y chỉ đặt rủi ro một bet, còn ở trò chơi số 7 bet của Y đặt rủi ro thêm bet thứ hai do X đôi khi check-raise. Điều này lại gây khó cho X: ở trò chơi số 5, X check-call với các tay hơi tệ hơn 1/2 và kiếm giá trị check-call vì Y bet cả những tay yếu tới 3/4; nay Y không còn value bet những tay trung bình đó, nên các tay này của X mất một phần giá trị, và X có lẽ sẽ bet thêm các tay tệ hơn 1/2. Đến lượt mình, điều này cho Y nới ngưỡng raise vì hai lẽ: X đang check một số tay mạnh nhất nên Y không phải sợ X cầm chúng khi X bet; và X đang bet thêm các tay trung bình quanh 1/2. Vậy Y raise for value được với tay hơi yếu hơn so với trò chơi số 5. Lời giải xác nhận cả ba dự đoán:
+**So sánh với trò chơi số 5.** Trước khi nhìn số, tác giả dự đoán: thứ nhất, Y sẽ bet ít tay hơn khi X check, vì ở trò chơi số 5 bet của Y chỉ đặt rủi ro một bet, còn ở trò chơi số 7 bet của Y đặt rủi ro thêm bet thứ hai do X đôi khi check-raise.
+
+Điều này lại gây khó cho X: ở trò chơi số 5, X check-call với các tay hơi tệ hơn 1/2 và kiếm giá trị check-call vì Y bet cả những tay yếu tới 3/4; nay Y không còn value bet những tay trung bình đó, nên các tay này của X mất một phần giá trị, và X có lẽ sẽ bet thêm các tay tệ hơn 1/2.
+
+Đến lượt mình, điều này cho Y nới ngưỡng raise vì hai lẽ: X đang check một số tay mạnh nhất nên Y không phải sợ X cầm chúng khi X bet; và X đang bet thêm các tay trung bình quanh 1/2. Vậy Y raise for value được với tay hơi yếu hơn so với trò chơi số 5. Lời giải xác nhận cả ba dự đoán:
 
 | Ngưỡng | Trò chơi số 5 | Trò chơi số 7 |
 |---|---|---|
@@ -769,7 +767,7 @@ x₄ → x₅:   r⁴ − r⁴(1 − r) = r⁵
 x₂ₙ → x₂ₙ₊₁:  r²ⁿ − r²ⁿ(1 − r) = r²ⁿ⁺¹
 ```
 
-Tổng độ rộng là r Σ_{n=0}^{∞} (r²)ⁿ (sách ghi chỉ số bắt đầu từ 1, xem khối Lưu ý). Vì r² < 1, tổng của chuỗi hình học là r/(1 − r²). Với r² = 2 − 2√2 + 1 = 3 − 2√2:
+Tổng độ rộng là r Σ_{n=0}^{∞} (r²)ⁿ (sách ghi chỉ số bắt đầu từ 1, xem mục Lưu ý cuối chương). Vì r² < 1, tổng của chuỗi hình học là r/(1 − r²). Với r² = 2 − 2√2 + 1 = 3 − 2√2:
 
 ```text
 (√2 − 1)/(1 − (3 − 2√2)) = (√2 − 1)/(2√2 − 2) = 1/2
@@ -868,7 +866,7 @@ Vì (1 + 2λ − λ²) là hằng số, chọn λ = r thì với một giá tr�
 c·rⁿ(1 + 2r − r²) = 2rⁿ
 c(1 + 2r − (1 − 2r)) = 2
 c(4r) = 2
-c = 1/(2r)        (sách in "c = r/2", sai; xem khối Lưu ý)
+c = 1/(2r)        (sách in "c = r/2", sai; xem mục Lưu ý cuối chương)
 ```
 
 Vậy nghiệm riêng là Z = rⁿ/(2r) = rⁿ⁻¹/2. Khi n → ∞, Z hội tụ về 0. Theo đúng lập luận khi giải 16.1, số hạng thứ hai của nghiệm tổng quát chỉ hội tụ về 0 khi b = 0 (vì 1 + √2 > 1). Do đó:
@@ -1033,7 +1031,9 @@ Mỗi trò chơi là một trò chơi tổng bằng không hai người với th
 
 ### Sức mạnh của chương
 
-Chương xây một chuỗi năm trò chơi tăng dần độ phức tạp, mỗi trò chơi chỉ thêm một luật (thêm bet thứ hai, raise không giới hạn, check-raise, cả hai), nên người đọc thấy rõ mỗi luật thay đổi chiến lược thế nào. Bảng so sánh trò chơi số 5 và số 7 là một ví dụ tốt về "dự đoán trước, kiểm bằng toán sau": cả ba dự đoán định tính của tác giả đều được lời giải xác nhận. Kết quả R = √2 − 1 trả lời một câu hỏi thực hành cụ thể ("nên raise bao thường xuyên khi đối thủ có thể raise lại?") bằng một con số gọn. Việc giải trò chơi số 8 bằng phương trình sai phân cho thấy phương pháp bàng quan mở rộng được tới vô số ngưỡng, và kết quả "X check đúng một nửa số tay" là một phát hiện đẹp.
+Chương xây một chuỗi năm trò chơi tăng dần độ phức tạp, mỗi trò chơi chỉ thêm một luật (thêm bet thứ hai, raise không giới hạn, check-raise, cả hai), nên người đọc thấy rõ mỗi luật thay đổi chiến lược thế nào. Bảng so sánh trò chơi số 5 và số 7 là một ví dụ tốt về "dự đoán trước, kiểm bằng toán sau": cả ba dự đoán định tính của tác giả đều được lời giải xác nhận. Kết quả R = √2 − 1 trả lời một câu hỏi thực hành cụ thể ("nên raise bao thường xuyên khi đối thủ có thể raise lại?") bằng một con số gọn.
+
+Việc giải trò chơi số 8 bằng phương trình sai phân cho thấy phương pháp bàng quan mở rộng được tới vô số ngưỡng, và kết quả "X check đúng một nửa số tay" là một phát hiện đẹp.
 
 ### Những chỗ đơn giản hoá
 
@@ -1041,7 +1041,7 @@ Chương xây một chuỗi năm trò chơi tăng dần độ phức tạp, mỗ
 - **Phân phối bài đều và độc lập** khác poker thật, nơi phân phối bài của hai người phụ thuộc vào hành động trước đó và vào bài chung; trong hold'em, equity của hai tay bài thay đổi theo các lá chưa lật, còn ở đây bài đã cố định (không có draw).
 - **Một vòng cược duy nhất**: không có vòng sau, nên không có implied odds hay việc giữ bài để bluff vòng sau.
 - **Raise không giới hạn và stack vô hạn** trong trò chơi số 6 và số 8; ở limit thật thường có giới hạn ba hoặc bốn bet mỗi vòng, nên tỷ lệ raise thực nằm giữa 1/2 (bet cuối) và r.
-- **Bảng tính của sách có nhiều lỗi in** (đã liệt kê ở khối Lưu ý); kết quả cuối đúng, nhưng người đọc tự kiểm từng bảng sẽ bị bối rối. Phương pháp "chỉ ghi hiệu" khiến các bảng bỏ qua những khoảng có hiệu bằng 0, làm khó theo dõi ở trò chơi số 8.
+- **Bảng tính của sách có nhiều lỗi in** (đã liệt kê ở mục Lưu ý cuối chương); kết quả cuối đúng, nhưng người đọc tự kiểm từng bảng sẽ bị bối rối. Phương pháp "chỉ ghi hiệu" khiến các bảng bỏ qua những khoảng có hiệu bằng 0, làm khó theo dõi ở trò chơi số 8.
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp)
 
@@ -1060,3 +1060,160 @@ Các solver GTO hiện đại (ví dụ PioSOLVER, GTO Wizard và các công c�
 
 - **Cho người chơi poker:** khi pot đã lớn và đối thủ gần như chắc chắn call (river trong pot nhiều người, hoặc đối thủ không bao giờ bỏ bài), hãy bỏ hẳn bluff và value bet rộng: khoảng một nửa số tay đối thủ có thể đang cầm. Khi cân nhắc raise một đối thủ có thể reraise, chỉ raise với khoảng 40% đầu của dải bài đối thủ đang bet. Ở vị trí đầu, đừng bet mọi tay mạnh: giữ một phần nhỏ (khoảng một phần năm số tay mạnh, như trò chơi số 7: 1/9 trong 5/9 tay tốt nhất được check-raise, phần còn lại được bet) để check-raise, buộc đối thủ không dám value bet mỏng sau khi bạn check.
 - **Cho người làm tài chính và ra quyết định:** cấu trúc "mỗi bước tăng cam kết chỉ với một tỷ lệ cố định của phần đối thủ còn lại" giống các tình huống đấu giá hay đàm phán leo thang, nơi mỗi lần nâng giá đều có thể bị nâng lại; mô hình cho thấy khả năng bị phản ứng lại làm giảm tần suất nên leo thang (từ 1/2 xuống khoảng 0,41). Phương pháp "đặt ngưỡng, rồi buộc bên kia bàng quan tại ngưỡng" là công cụ chung khi thiết kế chiến lược trước một đối thủ thông minh. Kỹ thuật phương trình sai phân của Phụ lục cũng là kỹ thuật cơ bản trong tài chính (dòng tiền truy hồi, mô hình lãi kép, mô hình cây nhị phân).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 16 trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (luật không bỏ bài và phương pháp ngưỡng, trò chơi số 4 và số 5, trò chơi số 6, trò chơi số 7, trò chơi số 8 kèm Phụ lục), mỗi nhánh ghi luật, phương trình bàng quan, nghiệm và con số then chốt; nhánh cuối là thông điệp xuyên suốt theo Khái niệm then chốt ở Mục 7.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 16: khi không ai được bỏ bài, mỗi người bet hoặc raise với tỷ lệ cố định của các tay đối thủ còn cầm: 1/2, hoặc r = √2 − 1 khi raise không giới hạn`"]
+  n1["`Mục 1 — Luật không bỏ bài loại bluff, lời giải tìm bằng ngưỡng và bàng quan`"]
+  n0 --- n1
+  n2["`Trò chơi [0,1]: mỗi người nhận một số đều trên [0, 1], số nhỏ thắng, 0 là nuts`"]
+  n1 --- n2
+  n3["`Không ai được bỏ bài: luật này xấp xỉ pot cực lớn so với một bet`"]
+  n1 --- n3
+  n4["`Không chiến lược nào có bluff, vì bluff chỉ có ích khi đối thủ có thể bỏ bài`"]
+  n1 --- n4
+  n5["`Kỳ vọng ex-showdown: chỉ tính số bet thắng thua trên vòng đang xét, không tính pot sẵn có`"]
+  n1 --- n5
+  n6["`Tại mỗi ngưỡng, người chơi phải bàng quan: hai hành động hai bên ngưỡng có cùng kỳ vọng`"]
+  n1 --- n6
+  n7["`Bảng hiệu kỳ vọng: hiệu mỗi khoảng bài của đối thủ nhân độ dài khoảng, tổng cho bằng 0`"]
+  n1 --- n7
+  n8["`Mục 2–3 — Trò chơi số 4 và số 5: một bet rồi hai bet, chưa có check-raise`"]
+  n0 --- n8
+  n9["`Số 4 (một bet): x₁ = y₁ = 1, X bet mọi tay, Y call mọi tay, giá trị trò chơi bằng 0`"]
+  n8 --- n9
+  n10["`Y chỉ kiếm giá trị khi bet sau lúc X check, nên X chặn bằng cách bet mọi tay`"]
+  n9 --- n10
+  n11["`Số 5 (hai bet, không check-raise): x₁ = 1/2, y₂ = 1/4, y₁ = 3/4`"]
+  n8 --- n11
+  n12["`Tại y₂: y₂ = x₁/2, Y raise với một nửa số tay X bet`"]
+  n11 --- n12
+  n13["`Tại x₁: y₂ = 1 − y₁, vùng raise của Y rộng bằng vùng Y check sau khi X check`"]
+  n11 --- n13
+  n14["`Tại y₁: y₁ = (1 + x₁)/2#59; viết y₂ = R·x₁ thì giải ra x₁ = 1/(1 + 2R)`"]
+  n11 --- n14
+  n15["`R = 1/2 với bet cuối: khi một người không thể bị raise lại và người kia không thể bỏ bài`"]
+  n8 --- n15
+  n16["`Kiểm tra với x trong [0, 1/4]: kỳ vọng của Y là 4x − 5/4 khi X bet, 2x − 3/4 khi X check`"]
+  n8 --- n16
+  n17["`Y lời 1/8 bet mỗi ván nhờ lợi thế vị trí (người tổng hợp tính)`"]
+  n8 --- n17
+  n18["`Mục 4 — Trò chơi số 6: raise không giới hạn, không check-raise, tỷ lệ raise là r`"]
+  n0 --- n18
+  n19["`Tính đối xứng: mỗi người raise cùng tỷ lệ R các tay đối thủ, yₙ = R·xₙ₋₁ và xₙ = R·yₙ₋₁`"]
+  n18 --- n19
+  n20["`Như số 5: y₁ = (1 + x₁)/2 và y₂ = 1 − y₁, nên x₁ = 1/(2R + 1)`"]
+  n18 --- n20
+  n21["`Bàng quan tại y₂: x₃ + 2y₂ − x₁ = 0, tức R² + 2R − 1 = 0`"]
+  n18 --- n21
+  n22["`R = √2 − 1 = r ≈ 0,4142, tỷ lệ vàng của poker đặt tên ở Chương 14`"]
+  n21 --- n22
+  n23["`Lời giải: x₁ ≈ 0,5469, y₁ ≈ 0,7735, y₂ ≈ 0,2265, x₃ ≈ 0,0938`"]
+  n18 --- n23
+  n24["`Raise đối thủ không bỏ bài nhưng có thể raise lại với tỷ lệ r ≈ 41% các tay đối thủ có thể đang cầm`"]
+  n18 --- n24
+  n25["`Mục 5 — Trò chơi số 7: hai bet, có check-raise, Y phải bet chặt hơn sau khi X check`"]
+  n0 --- n25
+  n26["`Thứ tự 0 #lt; x₂ #lt; y₂ #lt; x₁ #lt; y₁ #lt; 1: X check-raise trên [0, x₂], bet trên [x₂, x₁], check-call trên [x₁, 1]`"]
+  n25 --- n26
+  n27["`Vùng check-raise xếp chỗ khác cũng đồng tối ưu nếu đúng độ rộng`"]
+  n26 --- n27
+  n28["`Bốn phương trình: y₂ = 2y₁ − 1, y₂ = (x₁ + x₂)/2, y₂ = 1 − y₁, 2y₁ = 1 + x₁ − 2x₂`"]
+  n25 --- n28
+  n29["`Lời giải: x₂ = 1/9, y₂ = 1/3, x₁ = 5/9, y₁ = 2/3`"]
+  n25 --- n29
+  n30["`y₁ giảm từ 3/4 xuống 2/3: bet của Y có thể bị check-raise và mất thêm một bet`"]
+  n25 --- n30
+  n31["`x₁ tăng từ 1/2 lên 5/9: tay trung bình của X mất giá trị check-call nên được bet`"]
+  n25 --- n31
+  n32["`y₂ tăng từ 1/4 lên 1/3: X đã rút tay mạnh nhất sang check và bet thêm tay trung bình`"]
+  n25 --- n32
+  n33["`Mục 6 và 8 — Trò chơi số 8 và Phụ lục: vô số ngưỡng, giải bằng phương trình sai phân`"]
+  n0 --- n33
+  n34["`Thứ tự 0 #lt; xₙ₊₁ #lt; yₙ₊₁ #lt; xₙ #lt; yₙ #lt; 1#59; X xen kẽ vùng mở bằng check và vùng mở bằng bet`"]
+  n33 --- n34
+  n35["`Chiến lược Y: trừ hai phương trình bàng quan liên tiếp được y#95;{k+2} + 2y#95;{k+1} − y#95;k = 0 (16.1)`"]
+  n33 --- n35
+  n36["`Phương trình đặc trưng x² + 2x − 1 = 0 cho r và −1 − √2#59; loại −1 − √2 vì không hội tụ`"]
+  n35 --- n36
+  n37["`yₙ = rⁿ/(1 − r) với n ≥ 1, tức yₙ = r·yₙ₋₁#59; y₁ = r/(1 − r) ≈ 0,7071`"]
+  n35 --- n37
+  n38["`Chiến lược X: cộng hai phương trình liên tiếp, với x₀ = 1, được x#95;k + 2x#95;{k+1} − x#95;{k+2} = 2r^k (16.2)`"]
+  n33 --- n38
+  n39["`Nghiệm riêng Z = rⁿ⁻¹/2, vì c = 1/(2r)#59; sách in nhầm c = r/2`"]
+  n38 --- n39
+  n40["`xₙ = rⁿ⁻¹[(2r − 1)(−1)ⁿ + 1]/2: xₙ = rⁿ khi n chẵn, rⁿ⁻¹(1 − r) khi n lẻ`"]
+  n38 --- n40
+  n41["`Ngưỡng: y₁ ≈ 0,7071, x₁ ≈ 0,5858, y₂ ≈ 0,2929, x₂ ≈ 0,1716, y₃ ≈ 0,1213, x₃ ≈ 0,1005`"]
+  n33 --- n41
+  n42["`Ngưỡng của X không nằm đều giữa ngưỡng của Y: với bài rất mạnh X thường muốn bet vì chuỗi bet rồi call mang nhiều giá trị`"]
+  n41 --- n42
+  n43["`Tổng các vùng X check: r + r³ + r⁵ + … = r/(1 − r²) = 1/2, X check đúng một nửa số tay`"]
+  n33 --- n43
+  n44["`Trong một nửa đó, r ≈ 0,414 là check rồi call, khoảng 0,086 là check-raise`"]
+  n43 --- n44
+  n45["`Thông điệp xuyên suốt (Mục 7 — Khái niệm then chốt)`"]
+  n0 --- n45
+  n46["`Trò chơi không bỏ bài là bài tập rút đúng lượng giá trị từ bài mạnh`"]
+  n45 --- n46
+  n47["`Không thể bị raise và đối thủ không thể bỏ bài: bet hoặc raise với 1/2 số tay đối thủ đã bet hoặc check`"]
+  n45 --- n47
+  n48["`Đối thủ có thể raise lại thì tỷ lệ này nhỏ đi#59; raise không giới hạn thì tỷ lệ là r ≈ 0,414`"]
+  n45 --- n48
+  n49["`Quyền check-raise của người đi trước buộc người đi sau value bet chặt hơn sau khi bị check`"]
+  n45 --- n49
+  n50["`Chương 17 giải lại các cấu trúc này với pot hữu hạn, có bỏ bài và bluff`"]
+  n45 --- n50
+  class n0 root
+  class n1,n8,n18,n25,n33,n45 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 16 "Small Bets, Big Pots: No-Fold [0,1] Games", trang 183–200, cùng Phụ lục Chương 16 "Solving the Difference Equations", trang 201–203.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương này thuộc Phần III "Chơi tối ưu" (Optimal Play). Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)) đã giới thiệu trò chơi [0,1] ở dạng half-street (chỉ một người được bet), trong đó có trò chơi [0,1] số 1 không cho bỏ bài, và đặt quy ước đặt tên ngưỡng x₁, y₁, x₂…. Chương 14 ([C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) đặt tên hằng số r = √2 − 1 là "tỷ lệ vàng của poker" (golden mean of poker). Chương 15 ([C15-tro-choi-tron-vong.md](C15-tro-choi-tron-vong.md)) giải trò chơi full-street đầu tiên (cả hai người đều có quyền bet) trên trò chơi AKQ.
+
+Chương 16 đưa trò chơi [0,1] sang full-street nhưng giữ luật "không ai được bỏ bài", nên không có bluff; chương giải năm trò chơi [0,1] số 4 tới số 8, từ một bet duy nhất tới raise không giới hạn có check-raise, và cho thấy r = √2 − 1 là tỷ lệ raise đúng khi đối thủ có thể raise lại.
+
+Chương 17 ([C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md)) giải lại đúng các cấu trúc này nhưng với pot hữu hạn (có bỏ bài, có bluff), và nhiều lần so sánh với các trò chơi số 6 và số 7 của chương này; Chương 18 ([C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) tính giá trị trò chơi (game value) mà chương này mới chỉ nhắc tới.
+
+## Lưu ý
+
+- **Lỗi trong bảng bàng quan tại x₁ của Ví dụ 16.1 (trang 184):** bảng ghi tiêu đề cột "X's hand", "<Y, bet>", "<Y, check>", nhưng nội dung là bài của **Y** và kỳ vọng của **X** khi X bet hoặc check (X đang ở ngưỡng x₁ và cân nhắc hành động của chính mình). Ô "Product" ở dòng [0, x₁] ghi "x₁" cho cả hai cột; đúng ra là −x₁ (xác suất x₁ nhân với −1). Các tổng 1 − 2x₁ và y₁ − 2x₁ của sách chỉ đúng khi dùng −x₁: (−x₁) + (y₁ − x₁) + (1 − y₁) = 1 − 2x₁ và (−x₁) + (y₁ − x₁) + 0 = y₁ − 2x₁.
+- **Lỗi chỉ số trong bảng tại y₁ của Ví dụ 16.2 (trang 187):** tổng ghi "2y₂ − x₁ − 1" và phương trình ghi "2y₂ − x₁ − 1 = 0"; đúng là 2y₁ − x₁ − 1, vì (y₁ − x₁) − (1 − y₁) = 2y₁ − x₁ − 1. Kết luận y₁ = (1 + x₁)/2 của sách đúng.
+- **Dấu sai trong bảng tại x₁ của Ví dụ 16.2 (trang 186):** dòng [x₁, y₁] (bài Y yếu hơn X) ghi −1 cho cả check-call và bet; đúng là +1 cho cả hai (X thắng một bet). Hiệu vẫn bằng 0 nên phương trình y₂ = 1 − y₁ không đổi. Bảng tương tự ở Ví dụ 16.4 (trang 193) gộp hai khoảng [y₂, x₁] và [x₁, y₁] thành một dòng ghi −1, cùng lỗi này.
+- **Nhãn không nhất quán ở phần kiểm tra lời giải của Ví dụ 16.2 (trang 188):** sách viết "<y, x bets>" và "<x, check>" cho hai đại lượng cùng là kỳ vọng của Y; các phép tính 4x − 5/4 và 2x − 3/4 đều đúng.
+- **Lỗi chỉ số trong bảng tại y₂ của Ví dụ 16.3 (trang 190):** dòng [y₂, x₁] ghi tích "−1(x₁ − y₁)"; đúng là −(x₁ − y₂). Tổng x₃ + 2y₂ − x₁ của sách đúng với y₂: 2x₃ + (y₂ − x₃) − (x₁ − y₂) = x₃ + 2y₂ − x₁.
+- **Ký hiệu R và r trong Ví dụ 16.3:** sách gọi tỷ lệ raise là R trong toàn bộ lời giải, rồi trong khung "Solution" chuyển sang r (hằng số √2 − 1 của Chương 14). Hai ký hiệu chỉ cùng một số sau khi giải ra R = √2 − 1.
+- **Lỗi trong bảng tại y₁ của Ví dụ 16.4 (trang 193):** tiêu đề cột ghi "Y raises / Y calls", đúng là "Y check / Y bets". Hai dòng [x₁, y₁] và [y₁, 1] bị đảo dấu ở cột chênh lệch: với hiệu (check − bet), dòng [x₁, y₁] là 0 − (−1) = +1, tích +(y₁ − x₁); dòng [y₁, 1] là 0 − (+1) = −1, tích −(1 − y₁). Tổng sách ghi "2x₂ + 2y₂ − x₁ + 1"; đúng là 2x₂ + 2y₁ − x₁ − 1. Phương trình cuối 2y₁ = 1 + x₁ − 2x₂ của sách đúng (kiểm bằng lời giải: 2/9 + 4/3 − 5/9 − 1 = 0), nên lỗi chỉ nằm trong bảng.
+- **Lỗi trong Ví dụ 16.5, bảng tại x₂ (trang 195):** tổng ghi "−y₃ + 1 − 2y₁ − y₂"; đúng là −y₃ − 1 + 2y₁ − y₂ (từ −y₃ + (y₁ − y₂) − (1 − y₁)). Dòng sau của sách, y₃ + y₂ + 1 = 2y₁, lại đúng. Bước thế y₂ = 1 − y₁ của sách cho "y₃ + 2 = 2y₁"; đúng là **y₃ + 2 = 3y₁** (vì y₃ + (1 − y₁) + 1 = 2y₁). Kiểm bằng lời giải cuối: y₃ + 2 = 0,12132 + 2 = 2,12132 và 3y₁ = 3 × 0,70711 = 2,12132. Bảng cũng bỏ qua các khoảng bài của Y có chênh lệch bằng 0 (ví dụ [y₃, y₂]); việc bỏ này không sai nhưng làm bảng khó theo dõi.
+- **Lỗi trong Ví dụ 16.5, bảng tại x₄ (trang 196):** tiêu đề cột ghi "X bet-reraises / X check-raises", nhưng cột thứ nhất thực ra là "check-raise rồi raise tiếp" và cột thứ hai là "bet rồi reraise" (đúng như câu dẫn của sách). Tổng ghi "… + 2y₁ + 1"; đúng là −y₅ + 2y₃ − y₄ − 2y₂ + 2y₁ − 1. Dạng sắp xếp lại ngay sau đó, (y₃ − y₄) + (y₁ − y₂) = y₅ + (y₂ − y₃) + (1 − y₁), đúng (kiểm số: hai vế cùng bằng 0,48528).
+- **Lỗi trong lời giải của Y ở Ví dụ 16.5 (trang 196):** sách viết "yₙ = rⁿ/(1 − r) (for y > 0)", đúng là "với n ≥ 1" (công thức cho n = 0 ra 1,707, không phải ngưỡng). Sách viết "y₁ is 1/(1 − r)"; đúng là y₁ = r/(1 − r) = 1/√2 ≈ 0,7071, như chính bảng ngưỡng của sách và câu "Y puts in the first bet if checked to with hands below r/(1 − r)" ở trang 199.
+- **Lỗi chỉ số khi cộng hai phương trình của X (trang 199):** dòng đầu ghi "x_{k+1} − y_k + x_k − y_{k+1} = …"; số hạng đầu đúng là x_{k−1} (lấy từ phương trình tại y_k: x_{k−1} − y_k = …). Dòng tiếp theo của sách, x_{k−1} + 2x_k − x_{k+1} = 2y_k + 2y_{k+1}, đúng.
+- **Bảng ở phương trình tại y₂ của Ví dụ 16.5 (trang 198):** các ô "0 / −2" là phần chênh lệch thêm, không phải kỳ vọng thật của mỗi hành động (ví dụ X cầm bài trong [x₄, x₃] thì Y raise mất 3 bet, Y call mất 1 bet; chênh lệch 2). Số hạng cuối của tổng ghi "2(x₂ₖ − x₂ₖ₊₁)", đúng ra phải là 2(x₂ₖ₊₁ − x₂ₖ₊₂) cho phương trình tại y₂. Không ảnh hưởng kết quả.
+- **Lỗi trong tổng các vùng check của X (trang 200):** sách viết tổng là r Σ_{n=1}^{∞} (r²)ⁿ; chỉ số đúng phải bắt đầu từ n = 0 (các vùng có độ rộng r, r³, r⁵, …). Với n = 1 tổng chỉ là r³/(1 − r²) ≈ 0,0858. Sách sau đó dùng đúng công thức r/(1 − r²). Dòng "r² = 2·2√2 + 1 = 3 − 2√2" in hỏng; đúng là r² = 2 − 2√2 + 1 = 3 − 2√2 ≈ 0,1716.
+- **Lỗi trong Phụ lục (trang 201–203):**
+  - "yₙ = arⁿ + b(−1 − √2)qⁿ" đúng là yₙ = arⁿ + b(−1 − √2)ⁿ.
+  - Dòng "a(1 − r) − 1" thiếu "= 0".
+  - "This equation, like Equation 20.1" đúng là Phương trình 16.1.
+  - **Hằng số của nghiệm riêng tính sai:** từ c(1 + 2r − r²) = 2 và r² = 1 − 2r được c · 4r = 2, nên c = 1/(2r) ≈ 1,2071, không phải c = r/2 ≈ 0,2071 như sách viết; nghiệm riêng đúng là Z = rⁿ/(2r) = rⁿ⁻¹/2. Các dòng tiếp theo của sách ("½r", "a = (2r − 1)/2r") và công thức cuối xₙ = rⁿ⁻¹[(2r − 1)(−1)ⁿ + 1]/2 chỉ đúng khi hiểu hằng số là 1/(2r); nếu dùng r/2 thì sẽ ra a = 1 − r/2 và công thức sai.
+  - Định nghĩa "nghiệm riêng là một nghiệm cho một giá trị k nào đó" không chính xác: nghiệm riêng là một dãy thoả phương trình không thuần nhất với **mọi** k (nhận xét của người tổng hợp).
+- **Các hình chiến lược (Hình 16.1–16.4) là sơ đồ minh hoạ, không vẽ đúng tỷ lệ:** ngưỡng của X luôn được ghi là "x₁*" trong khi theo quy ước của Chương 11, dấu sao dành cho ngưỡng giữa call và fold; ở đây đúng ra là x₁. Hình 16.3 (trò chơi số 7) vẽ y₁ khoảng 0,77 và y₂ khoảng 0,22 (đọc từ trục, ước lượng) trong khi lời giải là y₁ = 2/3, y₂ = 1/3; Hình 16.4 (trò chơi số 8) vẽ y₁ khoảng 0,77 và x₁ khoảng 0,55 trong khi lời giải là 0,7071 và 0,5858. Bản tổng hợp dùng giá trị của lời giải, không dùng vị trí trên hình.
+- **Lớp chữ OCR:** chữ "l" thay số 1 ("l/(l+2r)"), phân số 1/2, 1/4, 3/4 bị làm phẳng thành "12", "14", "34"; "m" thay "in" ("no x 2 m this game"); "rn-1" là rⁿ⁻¹. Mọi công thức đã được đọc lại từ ảnh trang.
+- **Quy ước:** "kỳ vọng" trong chương là kỳ vọng ex-showdown, chỉ tính số bet thắng hay thua trên vòng cược đang xét, không tính phần pot có sẵn. Bài 0 là bài mạnh nhất (nuts), bài 1 là bài yếu nhất. Số thập phân dùng dấu phẩy; phân số giữ dạng a/b.

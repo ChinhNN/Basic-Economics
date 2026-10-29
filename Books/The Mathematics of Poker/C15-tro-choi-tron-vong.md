@@ -1,33 +1,20 @@
 # Chương 15 — Người chơi X phản công: các trò chơi full-street (Player X Strikes Back: Full-Street Games)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 15 "Player X Strikes Back: Full-Street Games", trang 163–175, và Phụ lục Chương 15 "The No-Limit AKQ Game", trang 176–182.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Các Chương 11–14 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md), [C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md), [C13-tro-choi-akq.md](C13-tro-choi-akq.md), [C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) giải các trò chơi half-street: X bắt buộc check, chỉ Y được bet. Hai kết quả mang sang chương này là hằng số α (tỷ lệ bluff so với value bet và tỷ lệ fold của người bị bet: α = 1/(P + 1) trong limit, α = s/(1 + s) trong no-limit) và kỹ thuật chọn mức cược với hằng số r = √2 − 1 của Chương 14. Chương 15 mở đầu các trò chơi **full-street** (một vòng cược đầy đủ): X được chọn bet hay check. Chương cho thấy quyền bet của X không bao giờ làm X mất giá trị, rằng chiến lược phải được viết thành các "kế hoạch trọn vẹn" (bet / check-call / check-fold), và — bất ngờ nhất — rằng khi có hai mức cược, X có thể bet một tay bài ở giữa (K) chỉ để **chặn trước** (preemptive bet) cú bluff của Y. Phụ lục giải trò chơi AKQ no-limit đầy đủ. Các Chương 16–18 ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md), [C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md), [C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) đưa các ý tưởng full-street vào trò chơi [0,1]; Chương 19–20 ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md), [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)) mở rộng ra nhiều vòng cược.
-**Ý chính:** **Khi người hành động trước (X) được quyền bet, X không bao giờ thiệt (vì luôn có thể check như trong half-street), các tỷ lệ α vẫn đúng cho cả hai phía, nhưng lựa chọn sớm làm thay đổi phân phối tay bài ở các nút sau, và khi có nhiều mức cược thì xuất hiện những nước đi không phải value bet cũng không phải bluff.** Ví dụ 15.1 (AKQ #4, limit, pot P, cược 1, không raise): sau khi loại chiến lược bị trội, X chỉ còn chọn tỷ lệ x số A đem bet; X bluff Q theo tỷ lệ b/x = α (Phương trình 15.1), check-call với tỷ lệ c = 1 − 2α + αx số K (Phương trình 15.2); Y call với 1 − 2α số K khi bị bet, bet mọi A và α số Q khi X check. Giá trị trò chơi với Y là [x(3α − 1) + 1 − 2α]/6; X chọn x = 0 (check mọi tay) khi 1 < P < 2 và x = 1 (bet mọi A) khi P > 2. Ví dụ 15.2 (AKQ #5, pot 4, được bet hoặc raise 1 hoặc 2 đơn vị): lời giải "ngây thơ" (cả hai bỏ qua cược 1 đơn vị, giá trị với Y là 1/9) không tối ưu vì X cầm K mà bet 1 đơn vị thì chỉ mất 1/2 thay vì 2/3. Y đáp lại bằng raise với A và raise-bluff 1/15 số Q; X lại thấy bet 1 với A lời hơn check (11/30 so với 1/3); cân bằng mới: X bet 1 với mọi A, 40% K, 20% Q, giá trị với Y giảm còn 1/10. Cú bet K đó là **cược chặn trước** (preemptive bet): EV âm nhưng ít âm hơn check. Phụ lục (AKQ no-limit): nếu X không được bet K, X bet r = √2 − 1 với 21,7% số A, Y bet 0,5088 pot khi X check, giá trị với Y khoảng 0,02761; khi X được bet K, X bet τ ≈ 0,2521 pot với 38,8% số A, 15,6% số K và 7,8% số Q, Y bet s₀ ≈ 0,5422 pot khi X check, raise lên 2τ với A và raise-bluff khoảng 7,9% số Q; giá trị với Y giảm còn khoảng 0,02682.
+## Ý chính
 
-> **Lưu ý:**
-> - **Trích dẫn sai ví dụ và chương:** trang 169 viết "Recall that AKQ Game #3 (Example 14.1)"; trò chơi AKQ #3 là **Ví dụ 14.2** (Ví dụ 14.1 là trò chơi biết trước bài). Đầu phụ lục (trang 176) viết lời giải AKQ no-limit "surprisingly close to the solution to the spread-limit game from Chapter 17"; trò chơi spread-limit là **Ví dụ 15.2 của Chương 15**. Trang 164 viết P > 1 "for the same reason as in AKQ Game #1 – Example 13.1"; lý do (bluff Q lỗ khi P < 1) được nêu ở Ví dụ 13.2 (AKQ #2).
-> - **Dấu sai trong ma trận rút gọn lần hai của AKQ #4 (trang 164):** ô "X cầm K, Chk/Fold; Y cầm Q, Fold/Bet" in **−P**; theo hai ma trận trước, Y bluff Q và X fold K thì Y lấy pot, nên giá trị theo phía Y là **+P**.
-> - **"Fold" thay vì "call" (trang 165):** sách viết ở AKQ #2 "the fraction of his kings he would fold is (P − 1)/(P + 1)"; (P − 1)/(P + 1) là tỷ lệ K mà X **call** (tỷ lệ fold là 2/(P + 1)), như chính công thức 15.2 tại x = 0 xác nhận.
-> - **Kiểm tra công thức 15.2 tại x = 0 in lộn xộn (trang 166):** sách viết "c = 1 − 2α[1/(P+1)]" và kết thúc bằng "α = (P − 1)/(P + 1)". Đúng là c = 1 − 2·[1/(P + 1)] = (P − 1)/(P + 1); dòng cuối phải là **c** = (P − 1)/(P + 1), không phải α.
-> - **Bảng giá trị AKQ #5 (trang 174) có ba ô sai:** bảng ghi giá trị theo phía X (người hành động trước). Hàng (X: K, Y: Q, "chk – b2 – f") in giá trị **4**, đúng là **−4** (X fold K trước cú bluff 2 đơn vị, mất pot 4); trọng số −2/45 in đúng. Hàng (X: Q, Y: K, "b1 – call") in giá trị **1**, đúng là **−1** (X bluff bị K call); trọng số −1/50 in đúng. Hàng (X: Q, Y: K, "b1 – fold") in giá trị **1** và trọng số **+1/75**, đúng là giá trị **4** (X lấy pot 4) và trọng số **+4/75**. Cộng các trọng số in trong bảng được −7/50, không phải −1/10; sau khi sửa ô cuối, tổng đúng bằng **−1/10** như dòng Total của sách (người tổng hợp kiểm tra bằng phân số chính xác; tổng xác suất bằng 1).
-> - **Giá trị của chiến lược "ngây thơ" in sai (trang 174):** sách viết "The value of the naive strategy ... was 1/6 ... a difference of 1/90". Giá trị đó đã được tính ở trang 170 là f(s = 2, P = 4) = **1/9** với Y (tức −1/9 với X); 1/9 − 1/10 = 1/90 khớp với "chênh lệch 1/90", nên "1/6" là in nhầm của 1/9.
-> - **Lời văn AKQ #5 không nhất quán về mức raise-bluff (trang 172):** sách định nghĩa q là tần suất raise-bluff "khi raise thêm một đơn vị" rồi viết "If the raise amount is two units, Y bluff-raises 1/15"; lời giải cuối ghi "raise one unit with aces and 1/15 of queens". Như sách nói ngay sau đó, khi X cầm K thì mức raise không quan trọng (K fold), còn khi X cầm A thì Y muốn raise mức nhỏ; nên mức đúng trong lời giải là raise một đơn vị (lên tổng 2).
-> - **Các lỗi công thức trong phụ lục (trang 178–182), người tổng hợp đã tính lại:**
->   - "⟨A vs. K, bet t⟩ = (t − t)²/(t + 1)" phải là **(t − t²)/(1 + t)**.
->   - "Y will then call with (t − 1)/(t + 1) of his kings" phải là **(1 − t)/(1 + t)** (với t = r giá trị này bằng r ≈ 0,414).
->   - "⟨A, check⟩ = (s(1 + s))(s)(1/2)" phải là **(s/(1 + s))·s·(1/2)** = s²/[2(1 + s)].
->   - "bets r (about 41.2% of the pot)" phải là **41,4%**.
->   - "Y responds to a bet of t ... total calling frequency ... equal to 1/(1 + s)" phải là **1/(1 + t)**.
->   - "X calls an s size bet with about 39.8% of his kings": tính lại được 39,86% (làm tròn 39,9%); đáng chú ý là tỷ lệ này đúng bằng q·A_k.
->   - "We define α₀ = s₀(1 + s₀)" phải là **s₀/(1 + s₀)**; hai lần "β = (α₀ − t)(1 + t)" trong phần dẫn giải phải là **(α₀ − t)/(1 + t)** (phần tóm tắt lời giải in đúng); "p can be zero" là "β can be zero".
->   - Trong phép lấy đạo hàm A′(t), ba dòng giữa in sai dấu: đúng là 0 = 1 − 6t − 3t² + 2α₀, tức **3t² + 6t − 2α₀ − 1 = 0** và t² + 2t − (2/3)α₀ − 1/3 = 0; dòng kết quả (t + 1)² = (2/3)α₀ + 4/3 của sách thì đúng.
->   - Điểm mà mức raise lý thuyết bằng mức raise tối thiểu 2t: sách ghi "close to 0.2001"; giải 4t² + (2 − 3α₀)t − α₀ = 0 với α₀ ≈ 0,35159 được **t ≈ 0,2010**.
->   - Hệ hai phương trình cuối cho kết quả "b ≈ 1.45595, c ≈ 0.55405" với b là tổng lượng tay đem bet, c là tổng lượng tay check. Giải lại được **b ≈ 0,54406, c ≈ 1,45594** (hai giá trị bị đổi chỗ, và 0,55405 sai một chữ số). Các tỷ lệ cuối A_k = 61,213%, A_b = 38,787%, K_k = 84,382%, K_b = 15,618% của sách chỉ khớp với cặp đã sửa (ví dụ A_k = 0,42043 × 1,45594 = 0,61212).
-> - **Ký hiệu q bị dùng lại trong phụ lục:** q lần lượt là mức Y bet khi X check (trang 178, 182) và mức raise của Y (trang 182, q = 2τ ≈ 0,5042). Bảng "Second player's hand" ở trang 181 trộn giá trị tuyệt đối và tương đối (hàng A ghi chênh lệch call so với fold, hàng Q ghi giá trị tuyệt đối), nhưng phương trình t₂ − t = β(t₂ + 1 + t) rút ra từ nó là đúng.
-> - **Kiểm tra số của phụ lục (nhận xét của người tổng hợp):** người tổng hợp lập trình lại cả hai chiến lược (trò chơi rút gọn và trò chơi đầy đủ), kiểm tra mọi điều kiện bàng quan (X cầm K bàng quan giữa check và bet τ, X cầm A bàng quan giữa check và bet τ, X bluff Q hoà vốn, Y raise-bluff Q hoà vốn, Y bluff Q sau khi X check hoà vốn, Y call K hoà vốn) và tính lại giá trị trò chơi: 0,02761 cho trò chơi rút gọn và 0,02682 cho trò chơi đầy đủ, khớp với sách. Các số s ≈ 0,50879, A_k ≈ 0,78342, s₀ ≈ 0,54224, α₀ ≈ 0,35159, τ ≈ 0,25209, k ≈ 0,57957, tỷ lệ K/(A + K) khi bet ≈ 0,28707 đều đúng.
-> - **Lỗi OCR và chính tả:** "including a bluff" là "inducing a bluff"; "AXQ", "AKO" là "AKQ"; "we can end that" là "we can find that"; "lungs", "Icing" là "kings"; "hw kings" là "his kings"; "hi half-street" là "In half-street"; "turm" là "turn"; "bl", "rl" trong bảng là "b1", "r1" (bet 1, raise 1). Phân số làm phẳng ("115" là 1/15, "1130" là 11/30, "1516" là 15/16) đã đọc lại từ ảnh.
-> - **Quy ước:** giá trị tính ngoài showdown. Ở Ví dụ 15.1 và phần lớn chương, ma trận và giá trị ghi theo phía Y ("người chơi thứ hai"); riêng bảng giá trị của Ví dụ 15.2 ghi theo phía X ("P1"). Trong limit, cược bằng 1 và pot bằng P; trong no-limit (phụ lục), pot bằng 1 và cược tính theo phần của pot.
+**Khi người hành động trước (X) được quyền bet, X không bao giờ thiệt (vì luôn có thể check như trong half-street), các tỷ lệ α vẫn đúng cho cả hai phía, nhưng lựa chọn sớm làm thay đổi phân phối tay bài ở các nút sau, và khi có nhiều mức cược thì xuất hiện những nước đi không phải value bet cũng không phải bluff.**
+
+Ví dụ 15.1 (AKQ #4, limit, pot P, cược 1, không raise): sau khi loại chiến lược bị trội, X chỉ còn chọn tỷ lệ x số A đem bet. X bluff Q theo tỷ lệ b/x = α (Phương trình 15.1), check-call với tỷ lệ c = 1 − 2α + αx số K (Phương trình 15.2). Y call với 1 − 2α số K khi bị bet, bet mọi A và α số Q khi X check.
+
+Giá trị trò chơi với Y là [x(3α − 1) + 1 − 2α]/6. X chọn x = 0 (check mọi tay) khi 1 < P < 2 và x = 1 (bet mọi A) khi P > 2.
+
+Ví dụ 15.2 (AKQ #5, pot 4, được bet hoặc raise 1 hoặc 2 đơn vị): lời giải "ngây thơ" (cả hai bỏ qua cược 1 đơn vị, giá trị với Y là 1/9) không tối ưu vì X cầm K mà bet 1 đơn vị thì chỉ mất 1/2 thay vì 2/3.
+
+Y đáp lại bằng raise với A và raise-bluff 1/15 số Q. X lại thấy bet 1 với A lời hơn check (11/30 so với 1/3). Cân bằng mới: X bet 1 với mọi A, 40% K, 20% Q, giá trị với Y giảm còn 1/10. Cú bet K đó là **cược chặn trước** (preemptive bet): EV âm nhưng ít âm hơn check.
+
+Phụ lục (AKQ no-limit): nếu X không được bet K, X bet r = √2 − 1 với 21,7% số A, Y bet 0,5088 pot khi X check, giá trị với Y khoảng 0,02761.
+
+Khi X được bet K, X bet τ ≈ 0,2521 pot với 38,8% số A, 15,6% số K và 7,8% số Q, Y bet s₀ ≈ 0,5422 pot khi X check, raise lên 2τ với A và raise-bluff khoảng 7,9% số Q. Giá trị với Y giảm còn khoảng 0,02682.
 
 ## Sơ đồ
 
@@ -357,7 +344,7 @@ Trong trò chơi đơn giản hơn này, bet K bị trội với cả hai ngư�
 | Q | Bet | +1 | +1 | −P | — | — |
 | Q | Chk/Fold | 0 | 0 | 0 | — | — |
 
-(Sách in ô "K Chk/Fold – Q Fold/Bet" là −P; đúng là +P, xem Lưu ý.)
+(Sách in ô "K Chk/Fold – Q Fold/Bet" là −P; đúng là +P, xem mục Lưu ý cuối chương.)
 
 #### Các biến chiến lược
 
@@ -369,7 +356,9 @@ Chiến lược của X gồm ba giá trị: **x** = tần suất bet với A; *
 
 #### Khi X bet
 
-X chỉ bet khi cầm A hoặc Q. Y phải làm X bàng quan khi bluff bằng cách call với một tỷ lệ K nhất định, và điều này đúng dù X bet mọi A hay không. Như trong các trò chơi half-street, khi một người bet một tập "hai cực" gồm A và Q, đối thủ phải fold đúng α số tay bài thắng được bluff. Theo cùng lập luận như trò chơi AKQ #2 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)), khi X bet, **Y phải call với (P − 1)/(P + 1) số K** để X bàng quan khi bluff Q. (Người tổng hợp viết rõ: khi X cầm Q, Y cầm A hoặc K mỗi loại một nửa; Y call mọi A; tổng tỷ lệ call phải là 1 − α = P/(P + 1), nên tỷ lệ K là 2[P/(P + 1) − 1/2] = (P − 1)/(P + 1) = 1 − 2α.) Điều này bảo đảm Y fold α số tay thắng được bluff.
+X chỉ bet khi cầm A hoặc Q. Y phải làm X bàng quan khi bluff bằng cách call với một tỷ lệ K nhất định, và điều này đúng dù X bet mọi A hay không. Như trong các trò chơi half-street, khi một người bet một tập "hai cực" gồm A và Q, đối thủ phải fold đúng α số tay bài thắng được bluff.
+
+Theo cùng lập luận như trò chơi AKQ #2 ([C13-tro-choi-akq.md](C13-tro-choi-akq.md)), khi X bet, **Y phải call với (P − 1)/(P + 1) số K** để X bàng quan khi bluff Q. (Người tổng hợp viết rõ: khi X cầm Q, Y cầm A hoặc K mỗi loại một nửa; Y call mọi A; tổng tỷ lệ call phải là 1 − α = P/(P + 1), nên tỷ lệ K là 2[P/(P + 1) − 1/2] = (P − 1)/(P + 1) = 1 − 2α.) Điều này bảo đảm Y fold α số tay thắng được bluff.
 
 X thì phải chọn tỷ lệ Q bluff so với A value bet sao cho Y bàng quan khi call với K. Xét chênh lệch giá trị ngoài showdown giữa hai lựa chọn của Y. Khi Y call cược của X bằng K, X có thể có hai tay. X có A: X được 1 cược khi Y call, so với 0 nếu Y fold. X có Q: Y được không chỉ cược đã call mà cả pot, vì nếu fold thì Y để X cướp pot. Vì Y được P + 1 cược khi call một Q và mất 1 cược khi call một A, X phải bet một Q cho mỗi P + 1 A:
 
@@ -565,7 +554,9 @@ X bàng quan giữa check và bet K, nhưng kỳ vọng của các hành động
 
 #### Nhìn lại quá trình
 
-Ban đầu, ý định là giải như các trò chơi trước: K không bao giờ bet, phần còn lại chỉ là cực đại hoá có tính tỷ lệ bet/bluff. Kết quả là cả hai bỏ qua mức cược nhỏ và bet A, Q theo tỷ lệ như AKQ #4 với pot 2. Rồi vấn đề xuất hiện khi rà lại: X tăng được equity bằng cách bet mức nhỏ với K, một lựa chọn trước đây bị trội (khi chỉ có một mức cược). Sau đó phải tìm cú raise lấy giá trị cho Y để không bị khai thác; tìm được raise và bluff tương ứng khiến X bàng quan khi chơi như vậy với K. Nhưng rồi một lựa chọn mới có lời cho X: bet mức nhỏ với A và một số Q, lấy được gần hết equity lẽ ra có khi check (nhờ K của Y call) và thêm equity nhờ bắt raise-bluff.
+Ban đầu, ý định là giải như các trò chơi trước: K không bao giờ bet, phần còn lại chỉ là cực đại hoá có tính tỷ lệ bet/bluff. Kết quả là cả hai bỏ qua mức cược nhỏ và bet A, Q theo tỷ lệ như AKQ #4 với pot 2.
+
+Rồi vấn đề xuất hiện khi rà lại: X tăng được equity bằng cách bet mức nhỏ với K, một lựa chọn trước đây bị trội (khi chỉ có một mức cược). Sau đó phải tìm cú raise lấy giá trị cho Y để không bị khai thác; tìm được raise và bluff tương ứng khiến X bàng quan khi chơi như vậy với K. Nhưng rồi một lựa chọn mới có lời cho X: bet mức nhỏ với A và một số Q, lấy được gần hết equity lẽ ra có khi check (nhờ K của Y call) và thêm equity nhờ bắt raise-bluff.
 
 Trong mọi chiến lược này, X chỉ bet Q vừa đủ để bảo vệ A (để A được K call), và để X hoà vốn với các cú bluff bằng Q.
 
@@ -613,7 +604,7 @@ Ký hiệu hành động: b1 = bet 1; r1, r2 = raise thêm 1 hoặc 2 đơn vị
 
 Ví dụ cách tính xác suất: (K, Q, b1 – r1 – f) = (1/6) × (X bet K 0,4) × (Y raise-bluff 1/15) = 0,4/90 = 1/225; (Q, K, b1 – fold) = (1/6)(0,2)(2/5) = 1/75.
 
-Giá trị của chiến lược ngây thơ (không bet K) là −1/9 với X (sách in "1/6", xem Lưu ý); giá trị của chiến lược mới là −1/10, chênh lệch 1/90 có lợi cho X.
+Giá trị của chiến lược ngây thơ (không bet K) là −1/9 với X (sách in "1/6", xem mục Lưu ý cuối chương); giá trị của chiến lược mới là −1/10, chênh lệch 1/90 có lợi cho X.
 
 Đây là một ví dụ rõ ràng về **che giấu thông tin**: nếu X biết chiến lược của đối thủ cố định, X sẽ thích bet 2 đơn vị với A hơn 1 đơn vị. Nhưng với K, X thích bet mức nhỏ. Vì X phải chọn một mức cược duy nhất nếu không muốn bị khai thác, X chọn mức nhỏ, vì (trong trường hợp này) cược chặn trước có giá trị hơn việc bet lớn với A.
 
@@ -680,7 +671,7 @@ Với Y, tỷ lệ tay call là K bằng 1/(1 + t) − 1/2 (trên tổng số ta
 <A gặp K, bet t> = t·(2/(1 + t) − 1) = (t − t²)/(1 + t)
 ```
 
-(sách in "(t − t)²/(t + 1)", xem Lưu ý). Cực đại theo t:
+(sách in "(t − t)²/(t + 1)", xem mục Lưu ý cuối chương). Cực đại theo t:
 
 ```text
 [(t + 1)(1 − 2t) − (t − t²)(1)]/(t + 1)² = 0
@@ -820,7 +811,7 @@ t² + 2t − (2/3)α₀ − 1/3 = 0
 t = √(4/3 + (2/3)α₀) − 1
 ```
 
-(Ba dòng giữa của sách in sai dấu của α₀, xem Lưu ý; dòng kết quả đúng.) Giá trị t này đặc biệt: nếu Y đáp lại cú check bằng cược s₀, mức tối ưu để X bet với K là t này (phụ thuộc s₀ qua α₀). Gọi là **τ**.
+(Ba dòng giữa của sách in sai dấu của α₀, xem mục Lưu ý cuối chương; dòng kết quả đúng.) Giá trị t này đặc biệt: nếu Y đáp lại cú check bằng cược s₀, mức tối ưu để X bet với K là t này (phụ thuộc s₀ qua α₀). Gọi là **τ**.
 
 #### Tìm s₀ từ A(0) = A(τ)
 
@@ -894,7 +885,7 @@ q/(1 + τ + q) = 2τ/(1 + 3τ) ≈ 0,50418/1,75627 ≈ 0,28707
 0,71293b + 0,42043c = 1      (mọi A hoặc bet hoặc check)
 ```
 
-Cộng hai phương trình được b + c = 2. Giải: **b ≈ 0,54406, c ≈ 1,45594** (sách in đổi chỗ "b ≈ 1,45595, c ≈ 0,55405", xem Lưu ý). Từ đó:
+Cộng hai phương trình được b + c = 2. Giải: **b ≈ 0,54406, c ≈ 1,45594** (sách in đổi chỗ "b ≈ 1,45595, c ≈ 0,55405", xem mục Lưu ý cuối chương). Từ đó:
 
 | | Check | Bet τ |
 |---|---|---|
@@ -1030,7 +1021,9 @@ Chương chuyển từ trò chơi một nút quyết định cho mỗi người 
 
 ### Sức mạnh của chương
 
-Chương làm hai việc lớn. Thứ nhất, nó đặt khung cho mọi trò chơi nhiều nút về sau: chiến lược là kế hoạch trọn vẹn, quyền thêm không bao giờ thiệt, và phân phối ở mỗi nút phụ thuộc lựa chọn trước đó. Lời giải AKQ #4 rất gọn và cho một kết quả trực giác đẹp: ngưỡng P = 2 quyết định X nên dụ bluff hay bet thẳng, và khi pot lớn, quyền bet trước của X triệt tiêu gần hết lợi thế vị trí của Y. Thứ hai, AKQ #5 là một bài học phương pháp hiếm thấy trong sách poker: tác giả kể lại chính quá trình mình tưởng đã giải xong, rồi phát hiện một lệch đơn phương, rồi chuỗi phản ứng dẫn tới một khái niệm mới — cược chặn trước. Phụ lục cho thấy khái niệm này sống sót trong no-limit thật sự (X bet ≈ 25% pot với một phần K), với lời giải số mà người tổng hợp đã kiểm tra lại toàn bộ các điều kiện bàng quan.
+Chương làm hai việc lớn. Thứ nhất, nó đặt khung cho mọi trò chơi nhiều nút về sau: chiến lược là kế hoạch trọn vẹn, quyền thêm không bao giờ thiệt, và phân phối ở mỗi nút phụ thuộc lựa chọn trước đó. Lời giải AKQ #4 rất gọn và cho một kết quả trực giác đẹp: ngưỡng P = 2 quyết định X nên dụ bluff hay bet thẳng, và khi pot lớn, quyền bet trước của X triệt tiêu gần hết lợi thế vị trí của Y.
+
+Thứ hai, AKQ #5 là một bài học phương pháp hiếm thấy trong sách poker: tác giả kể lại chính quá trình mình tưởng đã giải xong, rồi phát hiện một lệch đơn phương, rồi chuỗi phản ứng dẫn tới một khái niệm mới — cược chặn trước. Phụ lục cho thấy khái niệm này sống sót trong no-limit thật sự (X bet ≈ 25% pot với một phần K), với lời giải số mà người tổng hợp đã kiểm tra lại toàn bộ các điều kiện bàng quan.
 
 ### Những chỗ đơn giản hoá
 
@@ -1041,7 +1034,9 @@ Chương làm hai việc lớn. Thứ nhất, nó đặt khung cho mọi trò ch
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp)
 
-Các solver hiện đại xác nhận rộng rãi hiện tượng mà chương gọi là cược chặn trước: trong cộng đồng poker ngày nay nó được gọi là **"blocking bet"** (bet chặn) — người hành động trước bet nhỏ trên river với tay bài trung bình để "đặt giá" cho showdown và ngăn đối thủ bet lớn. Solver cũng cho thấy chiến lược "donk bet" (người không có lợi thế vị trí bet trước) với mức nhỏ là một phần của cân bằng ở một số cấu trúc bàn bài, đúng tinh thần AKQ #5. Đồng thời, solver xác nhận ý thứ hai của Key Concepts: khi bị raise sau một blocking bet, phạm vi bài trung bình thường fold nhiều, vì phạm vi bet đã có các tay mạnh đảm nhận việc bắt bluff. Các AI poker như Libratus (2017) và Pluribus (2019) dùng nhiều mức cược và được ghi nhận là có các cú bet nhỏ và lớn bất thường so với thói quen của người chơi — phù hợp với thông điệp "kiểm tra mọi lệch, đừng tin trực giác".
+Các solver hiện đại xác nhận rộng rãi hiện tượng mà chương gọi là cược chặn trước: trong cộng đồng poker ngày nay nó được gọi là **"blocking bet"** (bet chặn) — người hành động trước bet nhỏ trên river với tay bài trung bình để "đặt giá" cho showdown và ngăn đối thủ bet lớn. Solver cũng cho thấy chiến lược "donk bet" (người không có lợi thế vị trí bet trước) với mức nhỏ là một phần của cân bằng ở một số cấu trúc bàn bài, đúng tinh thần AKQ #5.
+
+Đồng thời, solver xác nhận ý thứ hai của Key Concepts: khi bị raise sau một blocking bet, phạm vi bài trung bình thường fold nhiều, vì phạm vi bet đã có các tay mạnh đảm nhận việc bắt bluff. Các AI poker như Libratus (2017) và Pluribus (2019) dùng nhiều mức cược và được ghi nhận là có các cú bet nhỏ và lớn bất thường so với thói quen của người chơi — phù hợp với thông điệp "kiểm tra mọi lệch, đừng tin trực giác".
 
 ### Liên hệ các chương khác
 
@@ -1056,4 +1051,195 @@ Các solver hiện đại xác nhận rộng rãi hiện tượng mà chương g
 ### Vận dụng
 
 - **Cho người chơi poker:** (1) Khi ra tay trước trên river với phạm vi phân cực, pot lớn so với cược thì bet thẳng tay mạnh; pot nhỏ thì check để dụ bluff. (2) Nếu bạn hay bet tay mạnh, tập check của bạn yếu đi — hãy call rộng hơn với tay bắt bluff khi check, hoặc giữ vài tay mạnh trong tập check. (3) Với tay trung bình mà đối thủ hay bet lớn khi bạn check, cân nhắc bet nhỏ chặn trước; bị raise thì thường fold. (4) Dùng chung một mức cược cho cả tay mạnh, tay chặn và bluff.
-- **Cho người làm tài chính và ra quyết định:** cược chặn trước tương tự một "nước đi phòng thủ có chi phí": chấp nhận một khoản lỗ nhỏ chắc chắn (EV âm) để tránh một khoản lỗ kỳ vọng lớn hơn do đối thủ chủ động (ví dụ: đưa ra một đề nghị giá sớm ở mức vừa phải trong đàm phán để chặn đối tác "neo" một mức cực đoan; mua bảo hiểm hoặc phòng hộ với chi phí xác định). Tiêu chí đúng là so với phương án thay thế, không phải EV dương. Bài học phương pháp — "đừng dừng ở lời giải trông hợp lý; kiểm tra mọi lệch đơn phương, kể cả những lựa chọn trước đây bị loại" — áp dụng trực tiếp cho kiểm định chiến lược kinh doanh và mô hình định giá: khi thị trường thêm một công cụ mới (một mức giá, một sản phẩm phái sinh), các chiến lược từng bị loại có thể trở thành tối ưu, và cân bằng cũ cần được kiểm tra lại.
+- **Cho người làm tài chính và ra quyết định:** cược chặn trước tương tự một "nước đi phòng thủ có chi phí": chấp nhận một khoản lỗ nhỏ chắc chắn (EV âm) để tránh một khoản lỗ kỳ vọng lớn hơn do đối thủ chủ động (ví dụ: đưa ra một đề nghị giá sớm ở mức vừa phải trong đàm phán để chặn đối tác "neo" một mức cực đoan; mua bảo hiểm hoặc phòng hộ với chi phí xác định). Tiêu chí đúng là so với phương án thay thế, không phải EV dương.
+
+  Bài học phương pháp — "đừng dừng ở lời giải trông hợp lý; kiểm tra mọi lệch đơn phương, kể cả những lựa chọn trước đây bị loại" — áp dụng trực tiếp cho kiểm định chiến lược kinh doanh và mô hình định giá: khi thị trường thêm một công cụ mới (một mức giá, một sản phẩm phái sinh), các chiến lược từng bị loại có thể trở thành tối ưu, và cân bằng cũ cần được kiểm tra lại.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 15 trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (ba ý tưởng khi chuyển sang full-street, Ví dụ 15.1 AKQ #4, Ví dụ 15.2 AKQ #5, Khái niệm then chốt, hai phần dẫn giải của phụ lục AKQ no-limit), mỗi nhánh ghi luật, công thức, nghiệm và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 15: được quyền bet, X không bao giờ thiệt, α vẫn đúng, và nhiều mức cược sinh ra cược chặn trước`"]
+  n1["`Mục 1 — Từ half-street sang full-street: ba ý tưởng`"]
+  n0 --- n1
+  n2["`Full-street: X được bet hoặc check, X bet thì Y call, đôi khi raise hoặc fold`"]
+  n1 --- n2
+  n3["`Tỷ lệ bet/bluff α vẫn đúng cho X, nhưng quyền bet đổi phân phối tay X có khi check`"]
+  n1 --- n3
+  n4["`X không thể mất giá trị: tệ nhất X check dark như half-street, vì lựa chọn có giá trị không âm`"]
+  n1 --- n4
+  n5["`Chiến lược là kế hoạch trọn vẹn: bet, check-call, check-fold, ma trận lập theo kế hoạch`"]
+  n1 --- n5
+  n6["`Mục 2 — Ví dụ 15.1, AKQ #35;4: limit, pot P #gt; 1, cược 1, không raise`"]
+  n0 --- n6
+  n7["`Loại bị trội: check-fold A, check-call Q, rồi bet K bị trội với cả hai người`"]
+  n6 --- n7
+  n8["`Khi X bet (chỉ A và Q)`"]
+  n6 --- n8
+  n9["`Y call (P − 1)/(P + 1) = 1 − 2α số K để X bàng quan khi bluff Q`"]
+  n8 --- n9
+  n10["`X bluff b/x = α = 1/(P + 1) (Phương trình 15.1): Y call K được P + 1 khi gặp Q, mất 1 khi gặp A`"]
+  n8 --- n10
+  n11["`Khi X check`"]
+  n6 --- n11
+  n12["`Y bet mọi A và α số Q`"]
+  n11 --- n12
+  n13["`X check-call c = 1 − 2α + αx số K (Phương trình 15.2): x = 0 cho (P − 1)/(P + 1), x = 1 cho 1 − α`"]
+  n11 --- n13
+  n14["`Giá trị với Y = [x(3α − 1) + 1 − 2α]/6`"]
+  n6 --- n14
+  n15["`1 #lt; P #lt; 2: x = 0, X check mọi tay như half-street`"]
+  n14 --- n15
+  n16["`P #gt; 2: x = 1, X bet mọi A và 1/(P + 1) số Q, call P/(P + 1) số K`"]
+  n14 --- n16
+  n17["`P = 2: X bàng quan, mọi đường giá trị cắt nhau tại x = 2/3, f = 1/18`"]
+  n14 --- n17
+  n18["`P #gt; 2: giá trị Y giảm từ (P − 1)/[6(P + 1)] xuống 1/[6(P + 1)], P = 3 từ 1/12 còn 1/24`"]
+  n14 --- n18
+  n19["`Cho phép raise không ai cải thiện được, nên đây cũng là lời giải trò chơi có raise`"]
+  n6 --- n19
+  n20["`Mục 3 — Ví dụ 15.2, AKQ #35;5: pot 4, bet hoặc raise 1 hay 2 đơn vị`"]
+  n0 --- n20
+  n21["`Lời giải ngây thơ: cả hai chỉ dùng mức 2, giá trị với Y 1/9`"]
+  n20 --- n21
+  n22["`X bet 1 với A được 3/10, kém 1/3 khi check`"]
+  n21 --- n22
+  n23["`Y bet 1 khi X check: f(1, 4) = 1/10 #lt; 1/9, không lợi`"]
+  n21 --- n23
+  n24["`Phép thử X cầm K: lời giải ngây thơ không tối ưu`"]
+  n20 --- n24
+  n25["`Check K mất 2/3 đơn vị: Y value bet A và bluff 1/3 số Q mức 2`"]
+  n24 --- n25
+  n26["`Bet 1 với K: Y cầm A call, Y cầm Q fold, chỉ mất 1/2, X lời 1/6`"]
+  n24 --- n26
+  n27["`Chuỗi phản ứng của hai bên`"]
+  n20 --- n27
+  n28["`Y raise với A và raise-bluff Q: (5)(1/2)q = 1/6 cho q = 1/15`"]
+  n27 --- n28
+  n29["`X cầm K fold mọi lần bị raise vì 15/16 số lần Y có A`"]
+  n27 --- n29
+  n30["`X bet 1 với A được 3/10 + 1/15 = 11/30, hơn check 1/3 = 10/30`"]
+  n27 --- n30
+  n31["`Tỷ lệ A : K khi bet = 5 : 2 (raise-bluff thắng 5, mất 2), nên X bet 40% số K`"]
+  n27 --- n31
+  n32["`Lời giải AKQ #35;5`"]
+  n20 --- n32
+  n33["`X bet 1 với mọi A, 40% K, 20% Q, bị raise thì A raise lại, K fold`"]
+  n32 --- n33
+  n34["`X check K còn lại, call cược 1 với 4/5 số K, cược 2 với 2/3 số K`"]
+  n32 --- n34
+  n35["`Y: X bet 1 thì raise 1 với A và 1/15 số Q, call 3/5 số K`"]
+  n32 --- n35
+  n36["`Y: X check thì bet 2 với A và 1/3 số Q`"]
+  n32 --- n36
+  n37["`Giá trị với Y 1/10, X lời 1/90 so với 1/9`"]
+  n32 --- n37
+  n38["`Che giấu thông tin: phải dùng một mức chung, chọn mức nhỏ vì cược chặn trước bằng K đáng giá hơn bet 2 với A`"]
+  n32 --- n38
+  n39["`Mục 4 — Khái niệm then chốt: cược chặn trước`"]
+  n0 --- n39
+  n40["`Đừng dừng giải sớm: lời giải trông hợp lý chỉ lộ sai khi so equity của từng lựa chọn`"]
+  n39 --- n40
+  n41["`Chiến lược chỉ tối ưu khi không bên nào cải thiện được bằng lệch đơn phương`"]
+  n39 --- n41
+  n42["`Cược chặn trước không phải value bet hay bluff: bet nhỏ để tước khả năng bluff hiệu quả của đối thủ`"]
+  n39 --- n42
+  n43["`Xuất hiện khi có nhiều mức cược và người đi trước bet được mức nhỏ hơn mức người đi sau muốn`"]
+  n39 --- n43
+  n44["`EV âm nhưng ít âm hơn check, có lẽ có trong chiến lược tối ưu no-limit hold'em trên river`"]
+  n39 --- n44
+  n45["`Sau cược chặn trước bằng K, X fold mọi raise vì đã có thừa A để bắt bluff`"]
+  n39 --- n45
+  n46["`Mục 5–6 — Phụ lục, AKQ no-limit (pot = 1) khi X không được bet K`"]
+  n0 --- n46
+  n47["`X bet mọi A thì bị khai thác: Y bet 100 pot với A và 100/101 số Q, X mất 100/101 mỗi lần K gặp A`"]
+  n46 --- n47
+  n48["`Mức X bet: cực đại (t − t²)/(1 + t) cho t = r = √2 − 1 ≈ 0,414, Y call r số K`"]
+  n46 --- n48
+  n49["`Mức Y bet khi X check: s²/[2(1 + s)] = 3/2 − √2 cho s ≈ 0,50879`"]
+  n46 --- n49
+  n50["`X check A#95;k ≈ 0,78342 số A để (q + 1)² = 1/A#95;k + 1 cho q tối ưu đúng bằng s`"]
+  n46 --- n50
+  n51["`Giá trị với Y ≈ 0,02761, thấp hơn half-street AKQ #35;3 là r²/6 ≈ 0,0286`"]
+  n46 --- n51
+  n52["`Mục 5, 7 — Phụ lục, AKQ no-limit khi X được bet K`"]
+  n0 --- n52
+  n53["`X check K có EV −α₀/2, với α₀ = s₀/(1 + s₀)`"]
+  n52 --- n53
+  n54["`Y raise với A và raise-bluff β = (α₀ − t)/(1 + t) số Q để X bàng quan với K`"]
+  n52 --- n54
+  n55["`A(t) ≥ t(1 − 3t + 2α₀)/[2(1 + t)] cực đại tại τ = √(4/3 + 2α₀/3) − 1`"]
+  n52 --- n55
+  n56["`A(0) = A(τ) cho s₀ ≈ 0,54224, α₀ ≈ 0,35159, τ ≈ 0,25209, β ≈ 0,0795`"]
+  n52 --- n56
+  n57["`Mức raise lý thuyết t₂ = α₀/(1 − β) ≈ 0,382 nhỏ hơn 2τ, nên Y raise tối thiểu lên 2τ ≈ 0,504`"]
+  n52 --- n57
+  n58["`Tỷ lệ K trong tập check k ≈ 0,57957, trong tập bet 2τ/(1 + 3τ) ≈ 0,28707`"]
+  n52 --- n58
+  n59["`X check 61,2% A và 84,4% K, bet τ ≈ 0,2521 pot với 38,8% A, 15,6% K, 7,8% Q`"]
+  n52 --- n59
+  n60["`Y bet s₀ ≈ 0,5422 pot với mọi A và 35,16% số Q khi X check`"]
+  n52 --- n60
+  n61["`Giá trị với Y ≈ 0,02682, giảm từ 0,02761`"]
+  n52 --- n61
+  n62["`Thông điệp xuyên suốt`"]
+  n0 --- n62
+  n63["`Mỗi quyền thêm cho X làm giá trị của Y giảm: 0,0286 → 0,02761 → 0,02682`"]
+  n62 --- n63
+  n64["`Thêm hành động mới thì chiến lược từng bị trội có thể vào cân bằng, phải kiểm tra lại mọi lệch đơn phương`"]
+  n62 --- n64
+  n65["`Dùng chung một mức cược cho tay mạnh, tay ở giữa và bluff để không lộ thông tin`"]
+  n62 --- n65
+  class n0 root
+  class n1,n6,n20,n39,n46,n52,n62 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n61,n63,n64,n65 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 15 "Player X Strikes Back: Full-Street Games", trang 163–175, và Phụ lục Chương 15 "The No-Limit AKQ Game", trang 176–182.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các Chương 11–14 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md), [C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md), [C13-tro-choi-akq.md](C13-tro-choi-akq.md), [C14-chon-muc-cuoc-no-limit.md](C14-chon-muc-cuoc-no-limit.md)) giải các trò chơi half-street: X bắt buộc check, chỉ Y được bet. Hai kết quả mang sang chương này là hằng số α (tỷ lệ bluff so với value bet và tỷ lệ fold của người bị bet: α = 1/(P + 1) trong limit, α = s/(1 + s) trong no-limit) và kỹ thuật chọn mức cược với hằng số r = √2 − 1 của Chương 14.
+
+Chương 15 mở đầu các trò chơi **full-street** (một vòng cược đầy đủ): X được chọn bet hay check. Chương cho thấy quyền bet của X không bao giờ làm X mất giá trị, rằng chiến lược phải được viết thành các "kế hoạch trọn vẹn" (bet / check-call / check-fold), và — bất ngờ nhất — rằng khi có hai mức cược, X có thể bet một tay bài ở giữa (K) chỉ để **chặn trước** (preemptive bet) cú bluff của Y. Phụ lục giải trò chơi AKQ no-limit đầy đủ.
+
+Các Chương 16–18 ([C16-tro-choi-01-khong-bo-bai.md](C16-tro-choi-01-khong-bo-bai.md), [C17-tro-choi-01-pot-huu-han-va-bluff.md](C17-tro-choi-01-pot-huu-han-va-bluff.md), [C18-tro-choi-01-nhin-lai.md](C18-tro-choi-01-nhin-lai.md)) đưa các ý tưởng full-street vào trò chơi [0,1]; Chương 19–20 ([C19-tro-choi-nhieu-vong-tinh.md](C19-tro-choi-nhieu-vong-tinh.md), [C20-tro-choi-nhieu-vong-dong.md](C20-tro-choi-nhieu-vong-dong.md)) mở rộng ra nhiều vòng cược.
+
+## Lưu ý
+
+- **Trích dẫn sai ví dụ và chương:** trang 169 viết "Recall that AKQ Game #3 (Example 14.1)"; trò chơi AKQ #3 là **Ví dụ 14.2** (Ví dụ 14.1 là trò chơi biết trước bài). Đầu phụ lục (trang 176) viết lời giải AKQ no-limit "surprisingly close to the solution to the spread-limit game from Chapter 17"; trò chơi spread-limit là **Ví dụ 15.2 của Chương 15**. Trang 164 viết P > 1 "for the same reason as in AKQ Game #1 – Example 13.1"; lý do (bluff Q lỗ khi P < 1) được nêu ở Ví dụ 13.2 (AKQ #2).
+- **Dấu sai trong ma trận rút gọn lần hai của AKQ #4 (trang 164):** ô "X cầm K, Chk/Fold; Y cầm Q, Fold/Bet" in **−P**; theo hai ma trận trước, Y bluff Q và X fold K thì Y lấy pot, nên giá trị theo phía Y là **+P**.
+- **"Fold" thay vì "call" (trang 165):** sách viết ở AKQ #2 "the fraction of his kings he would fold is (P − 1)/(P + 1)"; (P − 1)/(P + 1) là tỷ lệ K mà X **call** (tỷ lệ fold là 2/(P + 1)), như chính công thức 15.2 tại x = 0 xác nhận.
+- **Kiểm tra công thức 15.2 tại x = 0 in lộn xộn (trang 166):** sách viết "c = 1 − 2α[1/(P+1)]" và kết thúc bằng "α = (P − 1)/(P + 1)". Đúng là c = 1 − 2·[1/(P + 1)] = (P − 1)/(P + 1); dòng cuối phải là **c** = (P − 1)/(P + 1), không phải α.
+- **Bảng giá trị AKQ #5 (trang 174) có ba ô sai:** bảng ghi giá trị theo phía X (người hành động trước). Hàng (X: K, Y: Q, "chk – b2 – f") in giá trị **4**, đúng là **−4** (X fold K trước cú bluff 2 đơn vị, mất pot 4); trọng số −2/45 in đúng. Hàng (X: Q, Y: K, "b1 – call") in giá trị **1**, đúng là **−1** (X bluff bị K call); trọng số −1/50 in đúng. Hàng (X: Q, Y: K, "b1 – fold") in giá trị **1** và trọng số **+1/75**, đúng là giá trị **4** (X lấy pot 4) và trọng số **+4/75**.
+
+  Cộng các trọng số in trong bảng được −7/50, không phải −1/10; sau khi sửa ô cuối, tổng đúng bằng **−1/10** như dòng Total của sách (người tổng hợp kiểm tra bằng phân số chính xác; tổng xác suất bằng 1).
+- **Giá trị của chiến lược "ngây thơ" in sai (trang 174):** sách viết "The value of the naive strategy ... was 1/6 ... a difference of 1/90". Giá trị đó đã được tính ở trang 170 là f(s = 2, P = 4) = **1/9** với Y (tức −1/9 với X); 1/9 − 1/10 = 1/90 khớp với "chênh lệch 1/90", nên "1/6" là in nhầm của 1/9.
+- **Lời văn AKQ #5 không nhất quán về mức raise-bluff (trang 172):** sách định nghĩa q là tần suất raise-bluff "khi raise thêm một đơn vị" rồi viết "If the raise amount is two units, Y bluff-raises 1/15"; lời giải cuối ghi "raise one unit with aces and 1/15 of queens". Như sách nói ngay sau đó, khi X cầm K thì mức raise không quan trọng (K fold), còn khi X cầm A thì Y muốn raise mức nhỏ; nên mức đúng trong lời giải là raise một đơn vị (lên tổng 2).
+- **Các lỗi công thức trong phụ lục (trang 178–182), người tổng hợp đã tính lại:**
+  - "⟨A vs. K, bet t⟩ = (t − t)²/(t + 1)" phải là **(t − t²)/(1 + t)**.
+  - "Y will then call with (t − 1)/(t + 1) of his kings" phải là **(1 − t)/(1 + t)** (với t = r giá trị này bằng r ≈ 0,414).
+  - "⟨A, check⟩ = (s(1 + s))(s)(1/2)" phải là **(s/(1 + s))·s·(1/2)** = s²/[2(1 + s)].
+  - "bets r (about 41.2% of the pot)" phải là **41,4%**.
+  - "Y responds to a bet of t ... total calling frequency ... equal to 1/(1 + s)" phải là **1/(1 + t)**.
+  - "X calls an s size bet with about 39.8% of his kings": tính lại được 39,86% (làm tròn 39,9%); đáng chú ý là tỷ lệ này đúng bằng q·A_k.
+  - "We define α₀ = s₀(1 + s₀)" phải là **s₀/(1 + s₀)**; hai lần "β = (α₀ − t)(1 + t)" trong phần dẫn giải phải là **(α₀ − t)/(1 + t)** (phần tóm tắt lời giải in đúng); "p can be zero" là "β can be zero".
+  - Trong phép lấy đạo hàm A′(t), ba dòng giữa in sai dấu: đúng là 0 = 1 − 6t − 3t² + 2α₀, tức **3t² + 6t − 2α₀ − 1 = 0** và t² + 2t − (2/3)α₀ − 1/3 = 0; dòng kết quả (t + 1)² = (2/3)α₀ + 4/3 của sách thì đúng.
+  - Điểm mà mức raise lý thuyết bằng mức raise tối thiểu 2t: sách ghi "close to 0.2001"; giải 4t² + (2 − 3α₀)t − α₀ = 0 với α₀ ≈ 0,35159 được **t ≈ 0,2010**.
+  - Hệ hai phương trình cuối cho kết quả "b ≈ 1.45595, c ≈ 0.55405" với b là tổng lượng tay đem bet, c là tổng lượng tay check. Giải lại được **b ≈ 0,54406, c ≈ 1,45594** (hai giá trị bị đổi chỗ, và 0,55405 sai một chữ số). Các tỷ lệ cuối A_k = 61,213%, A_b = 38,787%, K_k = 84,382%, K_b = 15,618% của sách chỉ khớp với cặp đã sửa (ví dụ A_k = 0,42043 × 1,45594 = 0,61212).
+- **Ký hiệu q bị dùng lại trong phụ lục:** q lần lượt là mức Y bet khi X check (trang 178, 182) và mức raise của Y (trang 182, q = 2τ ≈ 0,5042). Bảng "Second player's hand" ở trang 181 trộn giá trị tuyệt đối và tương đối (hàng A ghi chênh lệch call so với fold, hàng Q ghi giá trị tuyệt đối), nhưng phương trình t₂ − t = β(t₂ + 1 + t) rút ra từ nó là đúng.
+- **Kiểm tra số của phụ lục (nhận xét của người tổng hợp):** người tổng hợp lập trình lại cả hai chiến lược (trò chơi rút gọn và trò chơi đầy đủ), kiểm tra mọi điều kiện bàng quan (X cầm K bàng quan giữa check và bet τ, X cầm A bàng quan giữa check và bet τ, X bluff Q hoà vốn, Y raise-bluff Q hoà vốn, Y bluff Q sau khi X check hoà vốn, Y call K hoà vốn) và tính lại giá trị trò chơi: 0,02761 cho trò chơi rút gọn và 0,02682 cho trò chơi đầy đủ, khớp với sách. Các số s ≈ 0,50879, A_k ≈ 0,78342, s₀ ≈ 0,54224, α₀ ≈ 0,35159, τ ≈ 0,25209, k ≈ 0,57957, tỷ lệ K/(A + K) khi bet ≈ 0,28707 đều đúng.
+- **Lỗi OCR và chính tả:** "including a bluff" là "inducing a bluff"; "AXQ", "AKO" là "AKQ"; "we can end that" là "we can find that"; "lungs", "Icing" là "kings"; "hw kings" là "his kings"; "hi half-street" là "In half-street"; "turm" là "turn"; "bl", "rl" trong bảng là "b1", "r1" (bet 1, raise 1). Phân số làm phẳng ("115" là 1/15, "1130" là 11/30, "1516" là 15/16) đã đọc lại từ ảnh.
+- **Quy ước:** giá trị tính ngoài showdown. Ở Ví dụ 15.1 và phần lớn chương, ma trận và giá trị ghi theo phía Y ("người chơi thứ hai"); riêng bảng giá trị của Ví dụ 15.2 ghi theo phía X ("P1"). Trong limit, cược bằng 1 và pot bằng P; trong no-limit (phụ lục), pot bằng 1 và cược tính theo phần của pot.

@@ -1,19 +1,21 @@
 # Chương 9 — Chơi thích nghi: phân phối đấu với phân phối (Adaptive Play: Distribution vs. Distribution)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 9 "Adaptive Play: Distribution vs. Distribution", trang 98–102.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 9 là chương cuối của Phần II "Chơi khai thác" (Exploitive Play). Bốn chương trước đã xây một quy trình: gán cho đối thủ một phân phối bài, suy ra chiến lược của họ với từng tay bài, rồi tối đa hoá kỳ vọng — từ pot odds ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)), đọc bài ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)), dữ liệu trực tuyến ([C06-poker-truc-tuyen.md](C06-poker-truc-tuyen.md)), tới chơi chính xác khi bài lật ngửa ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md)) và khi một tay bài đấu với một phân phối ([C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md)). Chương 9 chỉ ra giới hạn của quy trình đó: nếu đối thủ cũng giỏi, họ cũng đọc ta và khai thác ngược lại (counter-exploitation). Vì vậy phân phối bài của chính ta và cách ta chơi cả phân phối trở nên quan trọng. Chương giới thiệu hai nguyên tắc — giấu thông tin và chơi chung các tay bài theo cách mà tay bài "được lợi nhiều" thích — và định nghĩa khái niệm **cân bằng** (balance) qua **giá trị phòng thủ** của một chiến lược. Đây là chiếc cầu sang Phần III "Chơi tối ưu", bắt đầu từ Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)) và trò chơi half-street ở Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)), nơi tỷ lệ bluff tối ưu như 5% trong ví dụ cuối chương này được rút ra một cách chặt chẽ.
+## Ý chính
 
-**Ý chính:** **Khai thác tối đa một đối thủ thường đòi hỏi những cú đổi chiến lược cực đoan, và một đối thủ tinh ý sẽ nhận ra và khai thác ngược lại; vì thế khi đối đầu người giỏi, ta nên xây chiến lược cho cả phân phối bài sao cho khó bị khai thác — giấu thông tin bằng cách chơi nhiều tay bài khác nhau theo cùng một cách — và đo mức "khó bị khai thác" bằng giá trị phòng thủ, tức kỳ vọng của chiến lược trước chiến lược trả đũa tối đa của đối thủ.** Phần mở đầu minh hoạ vòng xoáy khai thác: đối thủ bluff ít hơn khoảng 10% so với mức đúng, nên phản ứng khai thác tối đa là fold mọi tay chỉ thắng được bluff; đối thủ nhận ra và bluff nhiều hơn hẳn; ta lại quay về call; cứ thế. Có hai lựa chọn: điều chỉnh từng chút một (chậm bị phát hiện nhưng lợi ít hơn) hoặc chơi trò khai thác và khai thác ngược, ai đi trước một bước sẽ thắng. Ví dụ "chơi draw mạnh" (no-limit hold'em): draw thùng có thêm draw phụ (12–15 outs, 12 outs có khoảng 45% equity ở flop) mất nhiều giá trị nếu cược nhỏ và bị call, nên tốt nhất thường là jam, kể cả với stack khoảng ba lần pot mà ta không jam với tay khác. Jam 3 vào pot 1 với 33% equity khi bị call vẫn có lời nếu đối thủ chỉ call với 25% tay tốt nhất. Nhưng chiến lược "jam draw, cược nhỏ tay đã thành" lại bị khai thác (đối thủ call jam rộng hơn); ta đáp lại bằng cách thêm tay rất mạnh (set, hai đôi) vào phân phối jam, và khi đó đối thủ không còn cách khai thác rõ ràng. Hai nguyên tắc rút ra: (1) giấu thông tin là phần quan trọng nhất để chống bị khai thác ngược; (2) nếu hai loại tay bài A, B nhiều như nhau phải chơi chung một cách, chọn cách mà tay bài được lợi nhiều thích (AA và AK trước flop: cùng jam). Cuối cùng, ví dụ river với pot 3 cược, A có thùng 20% số lần: chiến lược trả đũa tối đa của B là fold nếu A bluff dưới 5% số tay (B được −3x ngoài showdown) và call nếu trên 5% (B được x − 0,2); A bluff đúng 5% là tối ưu, và lệch nhẹ (4,8% hay 5,2%) chỉ mất rất ít.
+**Khai thác tối đa một đối thủ thường đòi hỏi những cú đổi chiến lược cực đoan, và một đối thủ tinh ý sẽ nhận ra và khai thác ngược lại; vì thế khi đối đầu người giỏi, ta nên xây chiến lược cho cả phân phối bài sao cho khó bị khai thác — giấu thông tin bằng cách chơi nhiều tay bài khác nhau theo cùng một cách — và đo mức "khó bị khai thác" bằng giá trị phòng thủ, tức kỳ vọng của chiến lược trước chiến lược trả đũa tối đa của đối thủ.**
 
-> **Lưu ý:**
-> - **Dấu của ⟨B, fold⟩ in sai:** sách viết "chiến lược trả đũa tối đa của B là fold mọi lúc nếu A bluff dưới 5%, đạt equity ngoài showdown 3x" và ⟨B, fold⟩ = 3x. Nếu B fold, mỗi khi A bluff (tần suất x) B mất pot 3 cược mà lẽ ra B thắng ở showdown, nên ⟨B, fold⟩ = **−3x**. Bảng của chính sách dùng giá trị âm (2% cho −0,06; 4,8% cho −0,144; 5% cho −0,15), xác nhận dấu trừ. Công thức ⟨B, call⟩ = x − 0,2 đúng: call mất 1 cược trước thùng (20% số lần), thắng 1 cược trước bluff (x).
-> - **Kiểm tra bảng (khớp với sách):** B chọn cách tốt hơn cho mình, tức max(−3x; x − 0,2). Hai biểu thức bằng nhau khi −3x = x − 0,2, tức x = 0,05. Các dòng 0%, 2%, 4,8%, 5% dùng −3x; các dòng 5,2%, 10%, 20%, 50%, 80% dùng x − 0,2 (5,2% cho −0,148; 50% cho 0,3; 80% cho 0,6). Các giá trị là của B; kỳ vọng ngoài showdown của A là số đối (A bluff 5% được +0,15 cược).
-> - **Ví dụ jam draw (trang 99):** jam 3 vào pot 1 với 33% equity khi bị call, đối thủ call với 25% tay tốt nhất: kỳ vọng = 0,75 × 1 + 0,25 × (0,33 × 7 − 3) = 0,75 − 0,1725 = +0,58 pot (người tổng hợp tính; sách chỉ nói "vẫn được lợi"). Sách nói khi bị call ta "mất ít hơn hai phần ba đơn vị"; với đúng 33% thì mất 3 − 0,33 × 7 = 0,69, hơi hơn 2/3; với 1/3 thì đúng bằng 2/3. Đối thủ phải call hơn 60% số lần thì cú jam (với 1/3 equity khi bị call) mới hết lời: (1 − c) × 1 = c × 2/3 cho c = 0,6.
-> - **Ví dụ "30% giá trị, 10% bluff" so với "50% giá trị, 17% bluff":** sách không nói mức cược; cả hai cùng tỷ lệ bluff trên value bet là 1 : 3 (10/30 và khoảng 16,7/50), nên cả hai đều "cân bằng" theo nghĩa đối thủ bàng quan giữa call và fold; chiến lược thứ nhất chỉ mất giá trị vì value bet quá ít tay. Theo hiểu biết của người tổng hợp, tỷ lệ 1 : 3 ứng với mức cược bằng nửa pot (bluff chiếm s/(1 + 2s) = 1/4 phân phối cược khi s = 1/2).
-> - **"12 outs khoảng 45% equity":** 1 − (35/47)(34/46) = 44,96%, khớp. Với 15 outs: 1 − (32/47)(31/46) = 54,1% (người tổng hợp tính).
-> - **Lỗi chữ của bản PDF:** "expectation gamed" là "gained"; "strrategies"; "Bushes" là "flushes"; "it prevent;" là "it prevents"; "occured". Câu "(in a vacuum being played by betting a smaller amount" thiếu dấu đóng ngoặc.
-> - **Quy ước thuật ngữ:** "maximally exploitive strategy (MES)" dịch là "chiến lược trả đũa tối đa" (thống nhất với các chương trước của bản tổng hợp); "counter-exploitation" là "khai thác ngược"; "information hiding" là "giấu thông tin"; "defensive value" là "giá trị phòng thủ"; "balance" là "cân bằng". Tác giả nhấn mạnh "cân bằng" không phải thuật ngữ kỹ thuật của lý thuyết trò chơi, còn "giá trị của một chiến lược" (value of a strategy) thì có.
+Phần mở đầu minh hoạ vòng xoáy khai thác: đối thủ bluff ít hơn khoảng 10% so với mức đúng, nên phản ứng khai thác tối đa là fold mọi tay chỉ thắng được bluff; đối thủ nhận ra và bluff nhiều hơn hẳn; ta lại quay về call; cứ thế. Có hai lựa chọn: điều chỉnh từng chút một (chậm bị phát hiện nhưng lợi ít hơn) hoặc chơi trò khai thác và khai thác ngược, ai đi trước một bước sẽ thắng.
+
+Ví dụ "chơi draw mạnh" (no-limit hold'em): draw thùng có thêm draw phụ (12–15 outs, 12 outs có khoảng 45% equity ở flop) mất nhiều giá trị nếu cược nhỏ và bị call, nên tốt nhất thường là jam, kể cả với stack khoảng ba lần pot mà ta không jam với tay khác. Jam 3 vào pot 1 với 33% equity khi bị call vẫn có lời nếu đối thủ chỉ call với 25% tay tốt nhất.
+
+Nhưng chiến lược "jam draw, cược nhỏ tay đã thành" lại bị khai thác (đối thủ call jam rộng hơn); ta đáp lại bằng cách thêm tay rất mạnh (set, hai đôi) vào phân phối jam, và khi đó đối thủ không còn cách khai thác rõ ràng.
+
+Hai nguyên tắc rút ra:
+
+- Giấu thông tin là phần quan trọng nhất để chống bị khai thác ngược.
+- Nếu hai loại tay bài A, B nhiều như nhau phải chơi chung một cách, chọn cách mà tay bài được lợi nhiều thích (AA và AK trước flop: cùng jam).
+
+Cuối cùng, ví dụ river với pot 3 cược, A có thùng 20% số lần: chiến lược trả đũa tối đa của B là fold nếu A bluff dưới 5% số tay (B được −3x ngoài showdown) và call nếu trên 5% (B được x − 0,2); A bluff đúng 5% là tối ưu, và lệch nhẹ (4,8% hay 5,2%) chỉ mất rất ít.
 
 ## Sơ đồ
 
@@ -221,7 +223,9 @@ Nhắc lại phần bài lật ngửa (Chương 7): draw equity cao thường đ
 
 #### Một nguyên tắc về cỡ cược
 
-Các chương sau sẽ xét kỹ việc chọn cỡ cược (Chương 14). Ở đây tác giả chỉ nêu một nguyên tắc và biện minh bằng trực giác. Trước hết, thường không nên value bet gấp nhiều lần pot: đối thủ có thể chờ tay rất mạnh mới call và fold mọi tay yếu hơn. Nếu ta mạo hiểm, chẳng hạn, mười pot để thắng một, đối thủ chỉ cần call thỉnh thoảng là đủ làm cách chơi của ta thua lỗ. (Người tổng hợp tính: đặt 10 để được 1 khi đối thủ fold; nếu mỗi lần bị call ta mất trọn 10, cú cược hết lời khi đối thủ call quá 1/11 ≈ 9% số lần.) Có lẽ người đọc đã gặp những người chơi hay jam ở các vòng đầu của giải no-limit với số tiền gấp hàng trăm lần blind, với tay như AJ. Bắt những người đó bằng tay mạnh là phản ứng khai thác hiển nhiên và đúng. Tác giả cho rằng thay vào đó người cược nên cược số tiền nhỏ hơn với một phân phối tay bài rộng hơn, rồi khi bị raise thì jam với một phần các tay đó, v.v.
+Các chương sau sẽ xét kỹ việc chọn cỡ cược (Chương 14). Ở đây tác giả chỉ nêu một nguyên tắc và biện minh bằng trực giác. Trước hết, thường không nên value bet gấp nhiều lần pot: đối thủ có thể chờ tay rất mạnh mới call và fold mọi tay yếu hơn. Nếu ta mạo hiểm, chẳng hạn, mười pot để thắng một, đối thủ chỉ cần call thỉnh thoảng là đủ làm cách chơi của ta thua lỗ. (Người tổng hợp tính: đặt 10 để được 1 khi đối thủ fold; nếu mỗi lần bị call ta mất trọn 10, cú cược hết lời khi đối thủ call quá 1/11 ≈ 9% số lần.)
+
+Có lẽ người đọc đã gặp những người chơi hay jam ở các vòng đầu của giải no-limit với số tiền gấp hàng trăm lần blind, với tay như AJ. Bắt những người đó bằng tay mạnh là phản ứng khai thác hiển nhiên và đúng. Tác giả cho rằng thay vào đó người cược nên cược số tiền nhỏ hơn với một phân phối tay bài rộng hơn, rồi khi bị raise thì jam với một phần các tay đó, v.v.
 
 #### Draw mạnh mất giá trị khi cược nhỏ
 
@@ -263,9 +267,13 @@ Một cách khác để thấy tầm quan trọng của giấu thông tin là x�
 
 Minh hoạ của người tổng hợp với số giả định: A được 10 khi chơi X và 9 khi chơi Y; B được 2 khi chơi X và 8 khi chơi Y. Chơi chung theo X: trung bình (10 + 2)/2 = 6; chơi chung theo Y: (9 + 8)/2 = 8,5. Mất 1 ở A để được 6 ở B.
 
-Điều này đã xảy ra trong ví dụ trên khi ta xét các tay đã thành mạnh. Các tay này có lẽ làm tốt hơn một chút (nếu xét riêng lẻ) khi chơi bằng cách cược số tiền nhỏ hơn. Tuy nhiên, khi ta jam chúng (trong bối cảnh cả phân phối), toàn bộ phân phối có thêm giá trị vì đối thủ không còn khai thác được ta. Một ví dụ hay khác là cách chơi AK hay AA trước flop. Trong nhiều tình huống (nhất là ở giai đoạn sau của giải đấu), AK có equity rất tốt khi all-in trước flop nhưng có thể chịu thiệt khi chơi với một phần ba stack. AA thì ngược lại, làm tốt trong cả hai kịch bản. Nếu ta quyết định muốn chơi AA và AK giống nhau trước flop, thì theo nguyên tắc này ta nên jam với cả hai.
+Điều này đã xảy ra trong ví dụ trên khi ta xét các tay đã thành mạnh. Các tay này có lẽ làm tốt hơn một chút (nếu xét riêng lẻ) khi chơi bằng cách cược số tiền nhỏ hơn. Tuy nhiên, khi ta jam chúng (trong bối cảnh cả phân phối), toàn bộ phân phối có thêm giá trị vì đối thủ không còn khai thác được ta.
 
-**Giới hạn của trò khai thác ngược.** Cố chơi trò khai thác ngược thường giả định ta có thông tin khá tốt về chiến lược của đối thủ. Trong thực tế, chơi khai thác dựa trên thông tin rất không đầy đủ: phải cân đối giữa việc cố khai thác các điểm yếu cụ thể trong chiến lược đối thủ và việc chơi theo cách rút giá trị từ nhiều loại chiến lược khác nhau khi chưa biết điểm yếu cụ thể nào, hoặc khi chưa đủ thông tin để biện minh cho việc chơi thuần khai thác. Phần III sẽ nghiên cứu quá trình tìm **chiến lược tối ưu**, tức các chiến lược tối đa hoá equity trước các chiến lược đối phương khai thác tối đa chúng. Nhưng không cần giải trọn một trò chơi mới tạo được cái mà tác giả gọi là **chiến lược cân bằng**.
+Một ví dụ hay khác là cách chơi AK hay AA trước flop. Trong nhiều tình huống (nhất là ở giai đoạn sau của giải đấu), AK có equity rất tốt khi all-in trước flop nhưng có thể chịu thiệt khi chơi với một phần ba stack. AA thì ngược lại, làm tốt trong cả hai kịch bản. Nếu ta quyết định muốn chơi AA và AK giống nhau trước flop, thì theo nguyên tắc này ta nên jam với cả hai.
+
+**Giới hạn của trò khai thác ngược.** Cố chơi trò khai thác ngược thường giả định ta có thông tin khá tốt về chiến lược của đối thủ. Trong thực tế, chơi khai thác dựa trên thông tin rất không đầy đủ: phải cân đối giữa việc cố khai thác các điểm yếu cụ thể trong chiến lược đối thủ và việc chơi theo cách rút giá trị từ nhiều loại chiến lược khác nhau khi chưa biết điểm yếu cụ thể nào, hoặc khi chưa đủ thông tin để biện minh cho việc chơi thuần khai thác.
+
+Phần III sẽ nghiên cứu quá trình tìm **chiến lược tối ưu**, tức các chiến lược tối đa hoá equity trước các chiến lược đối phương khai thác tối đa chúng. Nhưng không cần giải trọn một trò chơi mới tạo được cái mà tác giả gọi là **chiến lược cân bằng**.
 
 ### 4. Cân bằng (Balance, trang 100–102)
 
@@ -279,7 +287,7 @@ Xét một trò chơi ở river: người chơi A hoặc đã hoàn thành draw 
 
 Xét một số chiến lược ứng viên của A và tính kỳ vọng của chiến lược trả đũa tối đa của B trước chúng. Gọi x là tần suất bluff của A, tính bằng phần trăm trên tổng số tay của A (không phải trên số lần A bet). Kỳ vọng tính "ngoài showdown", tức so với việc lật bài ngay (khi đó B thắng mọi lần A không có thùng).
 
-- **B luôn fold khi A bet:** mỗi lần A bluff (tần suất x), B mất pot 3 cược mà lẽ ra B thắng ở showdown; khi A có thùng, B mất pot dù fold hay không, không đổi so với showdown. Vậy ⟨B, fold⟩ = −3x. (Sách in "3x"; xem Lưu ý.)
+- **B luôn fold khi A bet:** mỗi lần A bluff (tần suất x), B mất pot 3 cược mà lẽ ra B thắng ở showdown; khi A có thùng, B mất pot dù fold hay không, không đổi so với showdown. Vậy ⟨B, fold⟩ = −3x. (Sách in "3x"; xem mục Lưu ý cuối chương.)
 - **B luôn call khi A bet:** khi A có thùng (0,2), B mất thêm 1 cược; khi A bluff (x), B thắng thêm 1 cược. Vậy ⟨B, call⟩ = x − 0,2.
 
 Chiến lược trả đũa tối đa của B là fold mọi lúc nếu A bluff ít hơn 5%, và chuyển sang call mọi lúc nếu A bluff nhiều hơn 5%. Ngưỡng 5% đến từ −3x = x − 0,2, tức 4x = 0,2, x = 0,05. (Người tổng hợp nhận xét: tại x = 5%, A bluff 5 trong mỗi 25 lần bet, tức 1/5 số lần bet là bluff; B call 1 cược để giành pot 3 + 1 = 4 cược, nên cần thắng ít nhất 1/5 số lần — khớp.)
@@ -354,7 +362,9 @@ Trước đối thủ cũng biết đọc và thích nghi, chiến lược tốt
 
 ### Trong ngôn ngữ lý thuyết trò chơi
 
-"Giá trị" của một chiến lược σ là min theo chiến lược đối thủ τ của kỳ vọng E(σ, τ) — giá trị bảo đảm (security level) của σ; chiến lược tối ưu là chiến lược maximin, tức tối đa hoá giá trị bảo đảm, và trong trò chơi hai người tổng bằng không nó tạo thành cân bằng Nash (Nash equilibrium) với chiến lược tối ưu của đối thủ (Chương 10). "Cân bằng" theo nghĩa của sách đo khoảng cách giữa giá trị bảo đảm của σ và giá trị của trò chơi. Ví dụ river cho thấy hàm giá trị bảo đảm của A theo x là min(3x; 0,2 − x), một hàm hình mái nhà đạt đỉnh tại x = 5%; quanh đỉnh hàm thay đổi tuyến tính với độ dốc 3 và −1, nên sai lệch nhỏ chỉ mất ít. Vòng xoáy khai thác và khai thác ngược trong phần mở đầu là động lực "phản ứng tốt nhất lặp lại" (best-response dynamics), thường dao động quanh cân bằng chiến lược hỗn hợp (mixed strategy) thay vì hội tụ.
+"Giá trị" của một chiến lược σ là min theo chiến lược đối thủ τ của kỳ vọng E(σ, τ) — giá trị bảo đảm (security level) của σ; chiến lược tối ưu là chiến lược maximin, tức tối đa hoá giá trị bảo đảm, và trong trò chơi hai người tổng bằng không nó tạo thành cân bằng Nash (Nash equilibrium) với chiến lược tối ưu của đối thủ (Chương 10). "Cân bằng" theo nghĩa của sách đo khoảng cách giữa giá trị bảo đảm của σ và giá trị của trò chơi.
+
+Ví dụ river cho thấy hàm giá trị bảo đảm của A theo x là min(3x; 0,2 − x), một hàm hình mái nhà đạt đỉnh tại x = 5%; quanh đỉnh hàm thay đổi tuyến tính với độ dốc 3 và −1, nên sai lệch nhỏ chỉ mất ít. Vòng xoáy khai thác và khai thác ngược trong phần mở đầu là động lực "phản ứng tốt nhất lặp lại" (best-response dynamics), thường dao động quanh cân bằng chiến lược hỗn hợp (mixed strategy) thay vì hội tụ.
 
 ## Thuật ngữ
 
@@ -451,7 +461,9 @@ Trước đối thủ cũng biết đọc và thích nghi, chiến lược tốt
 
 ### Sức mạnh của chương
 
-Chương ngắn nhưng là bước ngoặt về khái niệm của cả cuốn sách: chuyển từ "tối đa hoá trước một đối thủ đã biết" sang "chiến lược khó bị khai thác trước đối thủ cũng biết suy nghĩ". Ví dụ draw thùng mạnh cho thấy quá trình xây chiến lược từng bước — mỗi chiến lược tạm bị khai thác ở đâu và vá thế nào — rất gần với cách người chơi giỏi thực sự suy nghĩ, và kết thúc ở ý "đưa tay mạnh vào cùng cách chơi với draw" (ngày nay gọi là "bảo vệ phân phối"). Nguyên tắc thứ hai (chơi chung theo cách tay được lợi nhiều thích) là một quan sát sắc sảo mà người chơi ít khi phát biểu rõ. Bảng river cho thấy bằng số một sự thật quan trọng: quanh chiến lược tối ưu, kỳ vọng thay đổi chậm, nên một chiến lược "gần tối ưu" đã giữ được gần hết giá trị phòng thủ.
+Chương ngắn nhưng là bước ngoặt về khái niệm của cả cuốn sách: chuyển từ "tối đa hoá trước một đối thủ đã biết" sang "chiến lược khó bị khai thác trước đối thủ cũng biết suy nghĩ". Ví dụ draw thùng mạnh cho thấy quá trình xây chiến lược từng bước — mỗi chiến lược tạm bị khai thác ở đâu và vá thế nào — rất gần với cách người chơi giỏi thực sự suy nghĩ, và kết thúc ở ý "đưa tay mạnh vào cùng cách chơi với draw" (ngày nay gọi là "bảo vệ phân phối").
+
+Nguyên tắc thứ hai (chơi chung theo cách tay được lợi nhiều thích) là một quan sát sắc sảo mà người chơi ít khi phát biểu rõ. Bảng river cho thấy bằng số một sự thật quan trọng: quanh chiến lược tối ưu, kỳ vọng thay đổi chậm, nên một chiến lược "gần tối ưu" đã giữ được gần hết giá trị phòng thủ.
 
 ### Những chỗ đơn giản hoá
 
@@ -482,3 +494,153 @@ Chương ngắn nhưng là bước ngoặt về khái niệm của cả cuốn s
 - **Người chơi poker:** với mỗi tình huống thường gặp, hỏi: "Nếu đối thủ biết chính xác phân phối của mình khi mình làm hành động này, họ sẽ khai thác thế nào?" Nếu câu trả lời là dễ (ví dụ mình chỉ jam khi có draw), hãy đưa thêm tay mạnh vào hành động đó. Khi khai thác một đối thủ, điều chỉnh vừa phải và theo dõi phản ứng.
 - **Người làm tài chính và đầu tư:** một chiến lược giao dịch khai thác một bất thường thị trường càng cực đoan và dễ đoán thì càng dễ bị "front-run" hoặc bị các bên khác khai thác ngược (tương tự khai thác ngược); các quỹ lớn thường chia nhỏ lệnh và ngẫu nhiên hoá thời điểm để giấu thông tin. Khái niệm giá trị phòng thủ tương ứng với việc đánh giá chiến lược theo kịch bản xấu nhất (stress test) thay vì kịch bản kỳ vọng.
 - **Người ra quyết định nói chung (đàm phán, cạnh tranh):** một hành vi nhất quán theo từng loại "bài" (luôn nhượng bộ khi yếu, luôn cứng rắn khi mạnh) làm lộ vị thế; trộn các trường hợp vào cùng một cách hành xử giữ được sức mặc cả. Và gần mức tối ưu thường đã đủ tốt: lệch nhỏ khỏi chiến lược tối ưu chỉ mất ít, miễn là không để lộ một điểm yếu lớn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: năm nhánh lớn đi theo các mục 1–5 của phần Nội dung chi tiết (khai thác và khai thác ngược, ví dụ chơi draw thùng mạnh, hai nguyên tắc giấu thông tin và chọn cách chơi chung, cân bằng và giá trị phòng thủ qua ví dụ bluff ở river, các ý then chốt), mỗi nhánh ghi định nghĩa, công thức, nghiệm và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: trước đối thủ cũng thích nghi, chơi chiến lược cân bằng cho cả phân phối bài thay vì khai thác cực đoan`"]
+  n1["`Mục 1 — Khai thác tối đa mở cửa cho khai thác ngược`"]
+  n0 --- n1
+  n2["`Quy trình bốn chương trước: gán phân phối bài, suy ra chiến lược đối thủ, tối đa hoá kỳ vọng`"]
+  n1 --- n2
+  n3["`Quy trình đó lấy tối đa từ đối thủ tĩnh hoặc thay đổi theo cách đoán trước được`"]
+  n1 --- n3
+  n4["`Đối thủ bluff ít hơn mức đúng khoảng 10% → ta fold mọi tay chỉ thắng được bluff`"]
+  n1 --- n4
+  n5["`Đối thủ thấy ta fold quá nhiều → bluff nhiều hơn hẳn → ta quay về call, cứ thế`"]
+  n1 --- n5
+  n6["`Chiến lược trả đũa tối đa là cú đổi cực đoan (call mọi lúc ↔ không bao giờ call) nên dễ bị khai thác ngược`"]
+  n1 --- n6
+  n7["`Điều chỉnh ít một: chậm bị phát hiện nhưng lợi ít hơn`"]
+  n1 --- n7
+  n8["`Hoặc chơi trò đi trước đối thủ một bước: ai giỏi hơn thì được, người kia mất`"]
+  n1 --- n8
+  n9["`Mục 2 — Draw thùng mạnh trong no-limit nên jam, và phân phối jam phải có cả tay rất mạnh`"]
+  n0 --- n9
+  n10["`Draw thùng mạnh: draw thùng kèm overcards, draw sảnh giữa hoặc hai đầu, 12–15 outs trước top pair`"]
+  n9 --- n10
+  n11["`12 outs: 1 − (35/47)(34/46) ≈ 45% equity ở flop#59; 15 outs ≈ 54,1%`"]
+  n10 --- n11
+  n12["`Draw equity cao muốn hết tiền vào sớm (Chương 7): trượt lá đầu thì bị tay đã thành phạt`"]
+  n10 --- n12
+  n13["`Không value bet gấp nhiều lần pot: đặt 10 để thắng 1 hết lời khi đối thủ call quá 1/11 ≈ 9%`"]
+  n9 --- n13
+  n14["`Cược nhỏ với phân phối rộng làm draw mất giá trị: đối thủ chỉ call flop rồi phạt draw ở turn`"]
+  n9 --- n14
+  n15["`Jam 3 vào pot 1, 33% equity khi bị call, đối thủ call 25% tay tốt nhất → kỳ vọng ≈ +0,58 pot`"]
+  n9 --- n15
+  n16["`Khi bị call: pot 7, ta nhận 0,33 × 7 = 2,31, đã bỏ 3, mất 0,69`"]
+  n15 --- n16
+  n17["`Đối thủ phải call hơn 60% số lần thì jam với 1/3 equity mới hết lời`"]
+  n15 --- n17
+  n18["`Call bằng set hoặc sảnh, draw vẫn có ít nhất 30% equity#59; call rộng bằng một đôi thì equity draw tăng`"]
+  n15 --- n18
+  n19["`Ba bước xây chiến lược ở stack khoảng ba lần pot`"]
+  n9 --- n19
+  n20["`Bước 1: cược nhỏ cả draw → đối thủ call flop, phạt draw ở turn`"]
+  n19 --- n20
+  n21["`Bước 2: jam draw, cược nhỏ tay đã thành → đối thủ call jam với mọi tay thắng draw`"]
+  n19 --- n21
+  n22["`Bước 3: thêm set, hai đôi vào phân phối jam → đối thủ không còn cách khai thác rõ ràng`"]
+  n19 --- n22
+  n23["`Mục 3 — Hai nguyên tắc chơi phân phối đấu với phân phối`"]
+  n0 --- n23
+  n24["`Nguyên tắc 1, giấu thông tin: chơi nhiều tay bài theo cùng một cách`"]
+  n23 --- n24
+  n25["`Chơi mỗi tay một kiểu thì đối thủ tỉa cây đọc bài hiệu quả hơn nhiều`"]
+  n24 --- n25
+  n26["`Phân phối càng hẹp, chiến lược càng lộ thì càng dễ tìm chiến lược khai thác`"]
+  n24 --- n26
+  n27["`Giấu thông tin là phần quan trọng nhất của việc ngăn bị khai thác ngược`"]
+  n24 --- n27
+  n28["`Nguyên tắc 2: A tốt hơn chút ở X, B tốt hơn rất nhiều ở Y → chơi chung cả hai theo Y`"]
+  n23 --- n28
+  n29["`Minh hoạ số giả định: A được 10 hay 9, B được 2 hay 8 → chung theo X là 6, theo Y là 8,5`"]
+  n28 --- n29
+  n30["`Tay rất mạnh cược nhỏ tốt hơn chút, nhưng jam cùng draw làm cả phân phối có giá trị hơn`"]
+  n28 --- n30
+  n31["`AK tốt khi all-in trước flop, kém khi chơi một phần ba stack#59; AA tốt cả hai → jam cả hai`"]
+  n28 --- n31
+  n32["`Thông tin thực tế rất thiếu: cân đối khai thác điểm yếu cụ thể với cách chơi lấy giá trị từ nhiều kiểu chiến lược`"]
+  n23 --- n32
+  n33["`Mục 4 — Cân bằng đo mức một chiến lược có thể bị khai thác`"]
+  n0 --- n33
+  n34["`Giá trị (giá trị phòng thủ) của chiến lược = kỳ vọng trước chiến lược trả đũa tối đa của đối thủ`"]
+  n33 --- n34
+  n35["`Chiến lược cân bằng: giá trị phòng thủ gần kỳ vọng của nó trước chiến lược tối ưu`"]
+  n33 --- n35
+  n36["`Cân bằng không phải thuật ngữ kỹ thuật của lý thuyết trò chơi, giá trị của chiến lược thì có`"]
+  n35 --- n36
+  n37["`Ví dụ river: pot 3 cược, A có thùng 20% số lần, B có hai đôi, draw đóng, A bluff x tổng số tay`"]
+  n33 --- n37
+  n38["`⟨B, fold⟩ = −3x (sách in sai dấu thành 3x)#59; ⟨B, call⟩ = x − 0,2`"]
+  n37 --- n38
+  n39["`−3x = x − 0,2 cho x = 5%: B fold nếu x #lt; 5%, call nếu x #gt; 5%`"]
+  n37 --- n39
+  n40["`A bluff 5% được 0,15 cược#59; lệch nhẹ 4,8% hay 5,2% vẫn được 0,144 hay 0,148`"]
+  n37 --- n40
+  n41["`A bluff 0% hay 20% (bằng số tay thùng) thì B lấy hết phần lợi, A được 0`"]
+  n37 --- n41
+  n42["`Tại x = 5%, 1/5 số lần bet là bluff, đúng ngưỡng B cần khi call 1 để giành 4`"]
+  n37 --- n42
+  n43["`Nhiều biến: value bet 30%, bluff 10% vẫn cân bằng dù tối ưu là 50% và 17%#59; cùng tỷ lệ 1 : 3`"]
+  n33 --- n43
+  n44["`Chiến lược cân bằng khi thiếu thông tin lấy phần lớn giá trị khai thác#59; đối thủ cố khai thác thì mất equity`"]
+  n33 --- n44
+  n45["`Theo lý thuyết trò chơi: giá trị là giá trị bảo đảm, tối ưu là maximin#59; giá trị của A là min(3x#59; 0,2 − x), đỉnh tại 5%`"]
+  n33 --- n45
+  n46["`Mục 5 — Các ý then chốt cuối chương`"]
+  n0 --- n46
+  n47["`Khai thác tối đa đòi hỏi dao động cực đoan#59; khi xây chiến lược phải tính tới khai thác ngược`"]
+  n46 --- n47
+  n48["`Chiến lược tối ưu không luôn lấy tối đa giá trị nhưng không bị khai thác dù đối thủ biết trước`"]
+  n46 --- n48
+  n49["`Cân bằng không luôn đi cùng lợi nhuận nhưng thường mạnh#59; chiến lược tối ưu cân bằng hoàn hảo`"]
+  n46 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Thông tin chắc chắn về điểm yếu của đối thủ yếu thì khai thác#59; đối thủ giỏi hoặc thông tin ít thì chơi cân bằng`"]
+  n50 --- n51
+  n52["`Mỗi cách chơi nên chứa cả tay mạnh lẫn tay yếu (draw, bluff)`"]
+  n50 --- n52
+  n53["`Quanh chiến lược tối ưu kỳ vọng thay đổi chậm: gần tối ưu đã giữ gần hết giá trị phòng thủ`"]
+  n50 --- n53
+  n54["`Cầu sang Phần III: tỷ lệ bluff tối ưu như 5% được rút ra chặt chẽ ở Chương 11`"]
+  n50 --- n54
+  class n0 root
+  class n1,n9,n23,n33,n46,n50 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n51,n52,n53,n54 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 9 "Adaptive Play: Distribution vs. Distribution", trang 98–102.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 9 là chương cuối của Phần II "Chơi khai thác" (Exploitive Play). Bốn chương trước đã xây một quy trình: gán cho đối thủ một phân phối bài, suy ra chiến lược của họ với từng tay bài, rồi tối đa hoá kỳ vọng — từ pot odds ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)), đọc bài ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)), dữ liệu trực tuyến ([C06-poker-truc-tuyen.md](C06-poker-truc-tuyen.md)), tới chơi chính xác khi bài lật ngửa ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md)) và khi một tay bài đấu với một phân phối ([C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md](C08-choi-chinh-xac-tay-bai-dau-phan-phoi.md)).
+
+Chương 9 chỉ ra giới hạn của quy trình đó: nếu đối thủ cũng giỏi, họ cũng đọc ta và khai thác ngược lại (counter-exploitation). Vì vậy phân phối bài của chính ta và cách ta chơi cả phân phối trở nên quan trọng. Chương giới thiệu hai nguyên tắc — giấu thông tin và chơi chung các tay bài theo cách mà tay bài "được lợi nhiều" thích — và định nghĩa khái niệm **cân bằng** (balance) qua **giá trị phòng thủ** của một chiến lược.
+
+Đây là chiếc cầu sang Phần III "Chơi tối ưu", bắt đầu từ Chương 10 ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)) và trò chơi half-street ở Chương 11 ([C11-tro-choi-nua-vong.md](C11-tro-choi-nua-vong.md)), nơi tỷ lệ bluff tối ưu như 5% trong ví dụ cuối chương này được rút ra một cách chặt chẽ.
+
+## Lưu ý
+
+- **Dấu của ⟨B, fold⟩ in sai:** sách viết "chiến lược trả đũa tối đa của B là fold mọi lúc nếu A bluff dưới 5%, đạt equity ngoài showdown 3x" và ⟨B, fold⟩ = 3x. Nếu B fold, mỗi khi A bluff (tần suất x) B mất pot 3 cược mà lẽ ra B thắng ở showdown, nên ⟨B, fold⟩ = **−3x**. Bảng của chính sách dùng giá trị âm (2% cho −0,06; 4,8% cho −0,144; 5% cho −0,15), xác nhận dấu trừ. Công thức ⟨B, call⟩ = x − 0,2 đúng: call mất 1 cược trước thùng (20% số lần), thắng 1 cược trước bluff (x).
+- **Kiểm tra bảng (khớp với sách):** B chọn cách tốt hơn cho mình, tức max(−3x; x − 0,2). Hai biểu thức bằng nhau khi −3x = x − 0,2, tức x = 0,05. Các dòng 0%, 2%, 4,8%, 5% dùng −3x; các dòng 5,2%, 10%, 20%, 50%, 80% dùng x − 0,2 (5,2% cho −0,148; 50% cho 0,3; 80% cho 0,6). Các giá trị là của B; kỳ vọng ngoài showdown của A là số đối (A bluff 5% được +0,15 cược).
+- **Ví dụ jam draw (trang 99):** jam 3 vào pot 1 với 33% equity khi bị call, đối thủ call với 25% tay tốt nhất: kỳ vọng = 0,75 × 1 + 0,25 × (0,33 × 7 − 3) = 0,75 − 0,1725 = +0,58 pot (người tổng hợp tính; sách chỉ nói "vẫn được lợi"). Sách nói khi bị call ta "mất ít hơn hai phần ba đơn vị"; với đúng 33% thì mất 3 − 0,33 × 7 = 0,69, hơi hơn 2/3; với 1/3 thì đúng bằng 2/3. Đối thủ phải call hơn 60% số lần thì cú jam (với 1/3 equity khi bị call) mới hết lời: (1 − c) × 1 = c × 2/3 cho c = 0,6.
+- **Ví dụ "30% giá trị, 10% bluff" so với "50% giá trị, 17% bluff":** sách không nói mức cược; cả hai cùng tỷ lệ bluff trên value bet là 1 : 3 (10/30 và khoảng 16,7/50), nên cả hai đều "cân bằng" theo nghĩa đối thủ bàng quan giữa call và fold; chiến lược thứ nhất chỉ mất giá trị vì value bet quá ít tay. Theo hiểu biết của người tổng hợp, tỷ lệ 1 : 3 ứng với mức cược bằng nửa pot (bluff chiếm s/(1 + 2s) = 1/4 phân phối cược khi s = 1/2).
+- **"12 outs khoảng 45% equity":** 1 − (35/47)(34/46) = 44,96%, khớp. Với 15 outs: 1 − (32/47)(31/46) = 54,1% (người tổng hợp tính).
+- **Lỗi chữ của bản PDF:** "expectation gamed" là "gained"; "strrategies"; "Bushes" là "flushes"; "it prevent;" là "it prevents"; "occured". Câu "(in a vacuum being played by betting a smaller amount" thiếu dấu đóng ngoặc.
+- **Quy ước thuật ngữ:** "maximally exploitive strategy (MES)" dịch là "chiến lược trả đũa tối đa" (thống nhất với các chương trước của bản tổng hợp); "counter-exploitation" là "khai thác ngược"; "information hiding" là "giấu thông tin"; "defensive value" là "giá trị phòng thủ"; "balance" là "cân bằng". Tác giả nhấn mạnh "cân bằng" không phải thuật ngữ kỹ thuật của lý thuyết trò chơi, còn "giá trị của một chiến lược" (value of a strategy) thì có.

@@ -1,25 +1,22 @@
 # Chương 3 — Dùng hết thông tin: ước lượng tham số và định lý Bayes (Using All the Information: Estimating Parameters and Bayes' Theorem)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 3 "Using All the Information: Estimating Parameters and Bayes' Theorem", trang 37–48.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)) đặt nền xác suất và kỳ vọng, trong đó có quy tắc nhân p(A ∩ B) = p(A) · p(B | A) (phương trình 1.5 của sách). Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) giả định đã biết trung bình và độ lệch chuẩn của kết quả mỗi tay bài, rồi dùng chúng để dự báo phân phối kết quả của nhiều tay (độ lệch chuẩn của N tay là σ√N). Chương 3 đi theo chiều ngược lại: từ kết quả quan sát được, suy ra **tham số chưa biết** — chủ yếu là win rate thật của một người chơi — bằng hai cách: thống kê cổ điển (ước lượng hợp lý cực đại, khoảng tin cậy) và thống kê Bayes (kết hợp thông tin có sẵn về phân phối win rate của mọi người chơi với dữ liệu mẫu). Định lý Bayes được giới thiệu ở đây là công cụ nền của Phần II "Chơi khai thác": Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) mở Phần II bằng pot odds, và Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)) dùng suy luận Bayes để "đọc bài" (cập nhật phân phối tay bài của đối thủ theo hành động của họ). Phần IV về rủi ro phá sản, đặc biệt Chương 23 ([C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)), quay lại đúng câu hỏi win rate bất định của chương này.
-**Ý chính:** **Một mẫu kết quả poker, dù dài hàng chục nghìn tay, vẫn để lại rất nhiều bất định về win rate thật; muốn ước lượng tốt hơn, người chơi phải dùng hết mọi thông tin có sẵn, kể cả thông tin có từ trước khi quan sát (thông tin tiên nghiệm), và định lý Bayes là cách kết hợp hai nguồn thông tin đó.** Mục "Estimating Parameters: Classical Statistics" xét một người chơi limit đã chơi 16.900 tay, đạt win rate 1,15 big bet trên 100 tay (BB/100) với độ lệch chuẩn 2,1 BB mỗi tay. Nếu coi mọi win rate là có khả năng như nhau, ước lượng hợp lý cực đại của win rate thật chính là trung bình mẫu 1,15 BB/100. Nhưng độ lệch chuẩn của kết quả trên 16.900 tay, quy về 100 tay, là 2,1 × √16.900 / 169 ≈ 1,61 BB/100, lớn hơn chính win rate; khoảng tin cậy 95% là [−2,07; 4,37] BB/100, nên dữ liệu gần như không phân biệt được người này thắng 1,15 BB/100 hay hoà vốn. Mục "Bayes' theorem" rút ra công thức p(B | A) = p(A | B)p(B) / [p(A | B)p(B) + p(A | B̄)p(B̄)] và minh hoạ bằng ví dụ xét nghiệm y khoa: xét nghiệm phát hiện đúng 80% người bệnh, báo nhầm 10% người khoẻ, tỷ lệ mắc 5%, thì người có kết quả dương tính chỉ có khoảng 29,6% khả năng mắc bệnh. Trong poker, một người mới vào bàn được đánh giá tiên nghiệm 10% là "maniac" (raise 80% tay ở vị trí cutoff) và 90% là người chơi chặt (raise 10%); chỉ cần thấy họ raise tay đầu tiên, xác suất họ là maniac tăng lên 47,1%, và raise thêm tay thứ hai thì lên khoảng 87,7%. Mục "Estimating Parameters: Bayesian Statistics" dựng một phân phối tiên nghiệm rời rạc của win rate mọi người chơi (trung bình −1 BB/100, do rake), rồi tính lại cho người chơi 16.900 tay: win rate có xác suất hậu nghiệm cao nhất là −1 BB/100 (36,25%), hoà vốn 34,54%, và chỉ khoảng 21,9% khả năng người này thực sự thắng. Một người quan sát được 5 BB/100 bị "kéo về" mức +1 đến +2 BB/100; với 100.000 tay quan sát 1,15 BB/100, xác suất win rate +1 BB/100 lên 58,37%. Chương kết bằng hiện tượng hồi quy về trung bình: kết quả quan sát tốt hơn trung bình tổng thể có xu hướng đi kèm may mắn, nên dự báo tốt nhất là pha trộn kết quả quan sát với trung bình của mọi người chơi.
+## Ý chính
 
-> **Lưu ý:**
-> - **"Mức ý nghĩa 95%" là cách nói sai thuật ngữ (nhận xét của người tổng hợp):** sách viết "we choose a significance level of 95%" và định nghĩa khoảng tin cậy là tập các trung bình tổng thể "sao cho xác suất kết quả quan sát xảy ra *nhỏ hơn* mức ý nghĩa đã chọn". Trong thống kê chuẩn, mức ý nghĩa là 5% (xác suất sai mà ta chấp nhận), còn 95% là *mức tin cậy*; và khoảng tin cậy gồm các giá trị μ mà kết quả quan sát *không* rơi vào vùng có xác suất nhỏ hơn 5%. Phép tính của sách (μ ± 2σ) vẫn đúng với cách hiểu chuẩn. Ngay sau đó sách cũng viết "we can find a confidence level for our player" trong khi ý là "confidence interval". Phần Key Concepts lặp lại cách nói "observed result is inside the significance level".
-> - **Hệ số 2 thay cho 1,96:** sách dùng μ ± 2σ cho mức 95%; chính xác thì ±2σ ứng với khoảng 95,45%, và ±1,96σ ứng với 95%. Với 1,96, khoảng là [−2,02; 4,32] BB/100 (người tổng hợp tính: 1,96 × 1,615 = 3,17).
-> - **Sách viết "In Chapter 2, we stated the basic principle of probability (equation 1.5)":** theo cách đánh số, phương trình 1.5 thuộc Chương 1, không phải Chương 2.
-> - **Câu diễn giải p(A) thiếu dấu gạch trên:** sách viết p(A) bằng "xác suất của A khi có B khi B xảy ra, cộng xác suất của A khi có B khi B xảy ra"; vế thứ hai phải là B̄ (B không xảy ra): p(A) = p(A | B)p(B) + p(A | B̄)p(B̄).
-> - **Ví dụ xét nghiệm, hai lỗi in:** dòng đầu của danh sách dữ kiện ghi "p(B | A) = 0,8", phải là p(A | B) = 0,8 (xác suất dương tính khi có bệnh); câu "Of the 95,000 who have the condition" phải là "who do *not* have the condition" (95.000 người không mắc bệnh).
-> - **"Nearly 87%":** sau hai lần raise, người tổng hợp tính được (0,8 × 0,8 × 0,1) / (0,64 × 0,1 + 0,01 × 0,9) = 0,064 / 0,073 ≈ 87,7%, tức "gần 88%" chính xác hơn "gần 87%".
-> - **Bảng tính Bayes cho win rate, ba lỗi in (đã đối chiếu ảnh trang 46–47):** (1) tiêu đề hai cột p(B̄) và p(B) bị đổi chỗ: cột ghi "p(B̄)" thực ra chứa xác suất tiên nghiệm p(B) (0,25%, 2%, …), còn cột cuối ghi "p(B)" chứa 1 − p(B) (99,75%, 98%, …); (2) ba dòng win rate dương in là "- 1 BB/100", "- 2 BB/100", "- 3 BB/100" thay vì +1, +2, +3 (bảng tiên nghiệm ở trang 45 in đúng dấu +); (3) ba bảng kết quả có tiêu đề cột "p(A | B)" trong khi số trong cột là xác suất hậu nghiệm p(B | A).
-> - **Mọi con số trong bảng Bayes đã được tính lại và khớp với sách**, kể cả hai trường hợp phụ: quan sát 5 BB/100 sau 16.900 tay, và quan sát 1,15 BB/100 sau 100.000 tay (sách không nói rõ trường hợp 100.000 tay giữ win rate quan sát 1,15; người tổng hợp kiểm tra và thấy đúng là 1,15, với độ lệch chuẩn 2,1 × √100.000 / 1.000 ≈ 0,664 BB/100).
-> - **"Ước lượng hợp lý cực đại" trong phần Bayes:** sách gọi −1 BB/100 là "maximum likelihood estimate given these assumptions". Đúng thuật ngữ thì đây là *mode hậu nghiệm* (ước lượng hậu nghiệm cực đại, maximum a posteriori); ước lượng hợp lý cực đại thì vẫn là giá trị làm p(A | B) lớn nhất, tức +1 BB/100 trong lưới rời rạc này (cột p(A | B) lớn nhất là 0,004918 ở +1).
-> - **Câu "nearly as likely to be a losing player who has gotten lucky as he is to have a positive win rate" nói nhẹ hơn số liệu (nhận xét của người tổng hợp):** cộng bảng hậu nghiệm, xác suất người chơi thua (win rate ≤ −1) là 0,00 + 0,03 + 0,66 + 6,65 + 36,25 = 43,59%, gấp đôi xác suất thắng (win rate ≥ +1) là 17,72 + 3,87 + 0,29 = 21,88%.
-> - **Phân phối tiên nghiệm rời rạc hẹp hơn giả định liên tục:** sách giả định độ lệch chuẩn của win rate các người chơi là 0,015 BB/tay, tức 1,5 BB/100; bảng rời rạc mà sách dùng có trung bình đúng −1 BB/100 nhưng độ lệch chuẩn √1,48 ≈ 1,22 BB/100 (người tổng hợp tính).
-> - **Hình 3.1 vẽ các đường chuẩn hẹp hơn σ = 1,61:** đỉnh các đường cao khoảng 0,32 (đọc từ trục), ứng với độ lệch chuẩn khoảng 1,25; một đường chuẩn với σ = 1,61 có đỉnh 1 / (1,61 √(2π)) ≈ 0,248. Hình chỉ có tính minh hoạ.
-> - **Lớp chữ:** chỉ số dưới bị làm phẳng (σN là σ_N, σ16,900 là σ của 16.900 tay); dấu gạch trên của B̄ thường mất; "rumple mean" là lỗi của "sample mean"; "Bayer's theorem" là "Bayes' theorem"; "slayer" là "player"; "chat" là "that". Bản tổng hợp đã đọc lại các công thức và bảng từ ảnh trang.
-> - **Quy ước:** "win rate" (tỷ lệ thắng, đo bằng big bet trên 100 tay, viết BB/100) được giữ tiếng Anh; "BB" trong chương này là big bet (mức cược lớn của limit poker), không phải big blind. Số thập phân dùng dấu phẩy cả trong công thức.
+**Một mẫu kết quả poker, dù dài hàng chục nghìn tay, vẫn để lại rất nhiều bất định về win rate thật; muốn ước lượng tốt hơn, người chơi phải dùng hết mọi thông tin có sẵn, kể cả thông tin có từ trước khi quan sát (thông tin tiên nghiệm), và định lý Bayes là cách kết hợp hai nguồn thông tin đó.**
+
+Mục "Estimating Parameters: Classical Statistics" xét một người chơi limit đã chơi 16.900 tay, đạt win rate 1,15 big bet trên 100 tay (BB/100) với độ lệch chuẩn 2,1 BB mỗi tay. Nếu coi mọi win rate là có khả năng như nhau, ước lượng hợp lý cực đại của win rate thật chính là trung bình mẫu 1,15 BB/100.
+
+Nhưng độ lệch chuẩn của kết quả trên 16.900 tay, quy về 100 tay, là 2,1 × √16.900 / 169 ≈ 1,61 BB/100, lớn hơn chính win rate; khoảng tin cậy 95% là [−2,07; 4,37] BB/100, nên dữ liệu gần như không phân biệt được người này thắng 1,15 BB/100 hay hoà vốn.
+
+Mục "Bayes' theorem" rút ra công thức p(B | A) = p(A | B)p(B) / [p(A | B)p(B) + p(A | B̄)p(B̄)] và minh hoạ bằng ví dụ xét nghiệm y khoa: xét nghiệm phát hiện đúng 80% người bệnh, báo nhầm 10% người khoẻ, tỷ lệ mắc 5%, thì người có kết quả dương tính chỉ có khoảng 29,6% khả năng mắc bệnh.
+
+Trong poker, một người mới vào bàn được đánh giá tiên nghiệm 10% là "maniac" (raise 80% tay ở vị trí cutoff) và 90% là người chơi chặt (raise 10%); chỉ cần thấy họ raise tay đầu tiên, xác suất họ là maniac tăng lên 47,1%, và raise thêm tay thứ hai thì lên khoảng 87,7%.
+
+Mục "Estimating Parameters: Bayesian Statistics" dựng một phân phối tiên nghiệm rời rạc của win rate mọi người chơi (trung bình −1 BB/100, do rake), rồi tính lại cho người chơi 16.900 tay: win rate có xác suất hậu nghiệm cao nhất là −1 BB/100 (36,25%), hoà vốn 34,54%, và chỉ khoảng 21,9% khả năng người này thực sự thắng.
+
+Một người quan sát được 5 BB/100 bị "kéo về" mức +1 đến +2 BB/100; với 100.000 tay quan sát 1,15 BB/100, xác suất win rate +1 BB/100 lên 58,37%.
+
+Chương kết bằng hiện tượng hồi quy về trung bình: kết quả quan sát tốt hơn trung bình tổng thể có xu hướng đi kèm may mắn, nên dự báo tốt nhất là pha trộn kết quả quan sát với trung bình của mọi người chơi.
 
 ## Sơ đồ
 
@@ -291,7 +288,7 @@ Biết win rate khả dĩ nhất là trung bình mẫu chưa nói gì về bất
 
 #### Khoảng tin cậy
 
-Để nắm bắt bất định, ta dựng **khoảng tin cậy**. Trước hết phải chọn một mức chịu đựng sai số. Vì đây là quá trình ngẫu nhiên, ta không thể nói xác suất trung bình tổng thể có một giá trị nào đó bằng 0 — có thể ta đã cực kỳ may hoặc cực kỳ rủi. Nhưng ta có thể chọn **mức ý nghĩa**, một giá trị xác suất thể hiện mức chịu đựng sai số. Khoảng tin cậy khi đó trả lời câu hỏi: "những giá trị trung bình tổng thể nào làm cho kết quả quan sát không rơi vào vùng có xác suất nhỏ hơn mức đã chọn?" (sách diễn đạt câu này lộn và gọi mức là "significance level 95%"; xem khối Lưu ý).
+Để nắm bắt bất định, ta dựng **khoảng tin cậy**. Trước hết phải chọn một mức chịu đựng sai số. Vì đây là quá trình ngẫu nhiên, ta không thể nói xác suất trung bình tổng thể có một giá trị nào đó bằng 0 — có thể ta đã cực kỳ may hoặc cực kỳ rủi. Nhưng ta có thể chọn **mức ý nghĩa**, một giá trị xác suất thể hiện mức chịu đựng sai số. Khoảng tin cậy khi đó trả lời câu hỏi: "những giá trị trung bình tổng thể nào làm cho kết quả quan sát không rơi vào vùng có xác suất nhỏ hơn mức đã chọn?" (sách diễn đạt câu này lộn và gọi mức là "significance level 95%"; xem mục Lưu ý cuối chương).
 
 Với mức 95%: nếu trung bình tổng thể là μ, một mẫu cỡ này sẽ nằm giữa μ − 2σ và μ + 2σ khoảng 95% số lần. Vậy ta tìm mọi μ sao cho giá trị quan sát x̄ = 1,15 nằm giữa hai biên đó, với σ = 1,61 BB/100 như đã tính:
 
@@ -366,11 +363,15 @@ Then chốt của định lý Bayes là có một xác suất tiên nghiệm và
 
 #### Người có stack gấp bảy lần
 
-Có vô số cách dùng suy luận Bayes, và nhiều người chơi dùng nó một cách vô thức. Trong một giải đấu, một người chơi ngồi ở bàn bị giải tán rất sớm và được chuyển sang bàn mới, nơi người ngồi bên phải đã có stack (lượng chip) gấp bảy lần stack khởi đầu, trong khi phần lớn người chơi khác vẫn quanh mức khởi đầu. Phần đông sẽ kết luận có hai khả năng: người có stack lớn hoặc là người chơi cực kỳ loose (chơi nhiều tay) và hung hãn, hoặc là người chơi bình thường nhưng cực kỳ may. Xu hướng tự nhiên tin rằng người đó nhiều khả năng loose và hung hãn hơn là rất may chính là hệ quả trực tiếp của định lý Bayes, dù người chơi có biết khái niệm này hay không. (Người tổng hợp giải thích: một người chơi bình thường hiếm khi đạt stack gấp bảy lần sớm như vậy, tức p(stack lớn | bình thường) rất nhỏ, còn người loose-hung hãn thì dễ có biến động lớn, nên hậu nghiệm nghiêng về giả thuyết thứ nhất.)
+Có vô số cách dùng suy luận Bayes, và nhiều người chơi dùng nó một cách vô thức. Trong một giải đấu, một người chơi ngồi ở bàn bị giải tán rất sớm và được chuyển sang bàn mới, nơi người ngồi bên phải đã có stack (lượng chip) gấp bảy lần stack khởi đầu, trong khi phần lớn người chơi khác vẫn quanh mức khởi đầu. Phần đông sẽ kết luận có hai khả năng: người có stack lớn hoặc là người chơi cực kỳ loose (chơi nhiều tay) và hung hãn, hoặc là người chơi bình thường nhưng cực kỳ may.
+
+Xu hướng tự nhiên tin rằng người đó nhiều khả năng loose và hung hãn hơn là rất may chính là hệ quả trực tiếp của định lý Bayes, dù người chơi có biết khái niệm này hay không. (Người tổng hợp giải thích: một người chơi bình thường hiếm khi đạt stack gấp bảy lần sớm như vậy, tức p(stack lớn | bình thường) rất nhỏ, còn người loose-hung hãn thì dễ có biến động lớn, nên hậu nghiệm nghiêng về giả thuyết thứ nhất.)
 
 #### Người chơi maniac
 
-Định lượng được hiệu ứng này bằng định lý Bayes, và điều đó có thể giúp ta chơi mạnh tay hơn ngay cả khi chưa có thông tin chắc chắn. Một người chơi mới ngồi vào bàn. Dùng mọi thông tin quan sát có được (sách nhắc cả việc rập khuôn theo dân tộc, giới tính, cử chỉ, trang phục, vẻ ngoài…), ta kết luận họ có 10% khả năng là "maniac" — người raise 80% số tay từ vị trí cutoff (ghế ngay bên phải button) — và 90% khả năng là người chơi chặt, chỉ raise 10% số tay từ ghế đó. Tay đầu tiên họ chơi, họ raise từ cutoff (giả định không có việc "post" blind khi mới vào bàn). Xác suất họ là maniac là bao nhiêu? Tác giả mời người đọc tự ước lượng trước, vì thử thách trực giác là một trong những cách tốt nhất để rèn khả năng ước lượng — kỹ năng vô giá cả trong poker lẫn trong đời sống.
+Định lượng được hiệu ứng này bằng định lý Bayes, và điều đó có thể giúp ta chơi mạnh tay hơn ngay cả khi chưa có thông tin chắc chắn. Một người chơi mới ngồi vào bàn. Dùng mọi thông tin quan sát có được (sách nhắc cả việc rập khuôn theo dân tộc, giới tính, cử chỉ, trang phục, vẻ ngoài…), ta kết luận họ có 10% khả năng là "maniac" — người raise 80% số tay từ vị trí cutoff (ghế ngay bên phải button) — và 90% khả năng là người chơi chặt, chỉ raise 10% số tay từ ghế đó.
+
+Tay đầu tiên họ chơi, họ raise từ cutoff (giả định không có việc "post" blind khi mới vào bàn). Xác suất họ là maniac là bao nhiêu? Tác giả mời người đọc tự ước lượng trước, vì thử thách trực giác là một trong những cách tốt nhất để rèn khả năng ước lượng — kỹ năng vô giá cả trong poker lẫn trong đời sống.
 
 Đặt A = đối thủ raise tay đầu tiên từ cutoff; B = đối thủ là maniac.
 
@@ -439,7 +440,7 @@ p(A | B) = Φ((1,16 − r) / 1,61) − Φ((1,14 − r) / 1,61),
 
 trong đó Φ là hàm phân phối tích luỹ chuẩn tắc (sách đọc giá trị "từ bảng xác suất"). p(A | B̄) là trung bình có trọng số (theo xác suất tiên nghiệm) của p(A | B) ở mọi dòng khác dòng đang xét: p(A | B̄) = Σ_{r' ≠ r} p(A | r')p(r') / (1 − p(r)).
 
-Bảng đầu vào (dấu của win rate dương và tiêu đề cột đã sửa; xem khối Lưu ý):
+Bảng đầu vào (dấu của win rate dương và tiêu đề cột đã sửa; xem mục Lưu ý cuối chương):
 
 | Win rate | p(B) | p(A \| B) | p(A \| B̄) | p(B̄) |
 |---|---:|---:|---:|---:|
@@ -468,7 +469,9 @@ Bảng đầu vào (dấu của win rate dương và tiêu đề cột đã sử
 | +3 BB/100 | 0,29% |
 | Cộng | 100% |
 
-Giống như thống kê cổ điển cho ước lượng hợp lý cực đại, ở đây ta xác định −1 BB/100 là giá trị khả dĩ nhất theo các giả định này (sách gọi là "maximum likelihood estimate"; đúng thuật ngữ là mode hậu nghiệm). Dĩ nhiên các giả định này không phải sự thật — win rate thực tế gần như liên tục — nhưng nếu dùng phân phối liên tục và làm phép toán phức tạp hơn, ta sẽ được phân phối tương tự. **Hàm ý then chốt: vì người thắng tương đối hiếm, nhân vật giả định của ta gần như có khả năng là người thua đã gặp may ngang với khả năng có win rate dương.** Người tổng hợp cộng bảng: khả năng thua (≤ −1) là 43,59%, hoà vốn 34,54%, thắng (≥ +1) là 21,88%; kỳ vọng hậu nghiệm của win rate khoảng −0,25 BB/100. Số liệu còn mạnh hơn lời văn: thua có khả năng gấp đôi thắng.
+Giống như thống kê cổ điển cho ước lượng hợp lý cực đại, ở đây ta xác định −1 BB/100 là giá trị khả dĩ nhất theo các giả định này (sách gọi là "maximum likelihood estimate"; đúng thuật ngữ là mode hậu nghiệm). Dĩ nhiên các giả định này không phải sự thật — win rate thực tế gần như liên tục — nhưng nếu dùng phân phối liên tục và làm phép toán phức tạp hơn, ta sẽ được phân phối tương tự.
+
+**Hàm ý then chốt: vì người thắng tương đối hiếm, nhân vật giả định của ta gần như có khả năng là người thua đã gặp may ngang với khả năng có win rate dương.** Người tổng hợp cộng bảng: khả năng thua (≤ −1) là 43,59%, hoà vốn 34,54%, thắng (≥ +1) là 21,88%; kỳ vọng hậu nghiệm của win rate khoảng −0,25 BB/100. Số liệu còn mạnh hơn lời văn: thua có khả năng gấp đôi thắng.
 
 #### Người chơi quan sát được 5 BB/100
 
@@ -518,11 +521,15 @@ So sánh ba trường hợp (người tổng hợp tổng hợp từ ba bảng):
 
 #### Người theo tần suất và người theo Bayes
 
-Có một sự chia rẽ giữa các nhà thống kê cổ điển (đôi khi gọi là người theo tần suất, frequentist) và các nhà thống kê Bayes. Bất đồng xoay quanh ý tưởng của Bayes rằng tham số tổng thể nên được xem như phân phối xác suất: người theo Bayes ước lượng một phân phối tiên nghiệm, quan sát một mẫu, rồi điều chỉnh phân phối tiên nghiệm theo bằng chứng mới. Người theo tần suất bác bỏ cách này, muốn mô tả tham số tổng thể là giá trị cố định, không đổi, dù ta không biết giá trị đó. Tác giả nghiêng hẳn về quan điểm Bayes vì tính hữu ích của nó trong phân tích poker. Phương pháp dùng ở đây thậm chí chưa phải kỹ thuật Bayes đầy đủ, chỉ là bản đơn giản hoá để ý tưởng dễ tiếp cận; tác giả khuyên đọc các sách thống kê nâng cao có trình bày kỹ về ước lượng điểm và phương pháp Bayes.
+Có một sự chia rẽ giữa các nhà thống kê cổ điển (đôi khi gọi là người theo tần suất, frequentist) và các nhà thống kê Bayes. Bất đồng xoay quanh ý tưởng của Bayes rằng tham số tổng thể nên được xem như phân phối xác suất: người theo Bayes ước lượng một phân phối tiên nghiệm, quan sát một mẫu, rồi điều chỉnh phân phối tiên nghiệm theo bằng chứng mới. Người theo tần suất bác bỏ cách này, muốn mô tả tham số tổng thể là giá trị cố định, không đổi, dù ta không biết giá trị đó.
+
+Tác giả nghiêng hẳn về quan điểm Bayes vì tính hữu ích của nó trong phân tích poker. Phương pháp dùng ở đây thậm chí chưa phải kỹ thuật Bayes đầy đủ, chỉ là bản đơn giản hoá để ý tưởng dễ tiếp cận; tác giả khuyên đọc các sách thống kê nâng cao có trình bày kỹ về ước lượng điểm và phương pháp Bayes.
 
 #### Hồi quy về trung bình
 
-Một chủ đề nảy sinh từ phân tích này là **hồi quy về trung bình**. Giả sử ta quan sát win rate trên một mẫu nhỏ. Win rate quan sát cao hơn trung bình sẽ có xu hướng thấp hơn nếu quan sát lại trong tương lai, và win rate thấp hơn trung bình sẽ có xu hướng tốt lên. Nguyên nhân không phải là một kiểu "bù trừ" thống kê, trong đó các lần thử cực đoan trong quá khứ được bù bằng các lần thử cực đoan theo chiều ngược lại trong tương lai — các sự kiện này độc lập. Nguyên lý thật là: nếu bạn vượt trung bình của cả tổng thể, thì nhiều khả năng bạn cũng đã vượt kỳ vọng của chính mình; nếu bạn dưới trung bình, nhiều khả năng bạn cũng đã dưới kỳ vọng của mình. Do đó bạn sẽ có xu hướng (đôi khi rất nhẹ) quay về gần trung bình của mọi người chơi; nói cách khác, dự báo tốt nhất pha một phần nhỏ trung bình tổng thể vào kết quả quan sát. Phân tích Bayes ở trên cho thấy điều này: sau 16.900 tay, dự báo win rate điều chỉnh của người chơi vẫn bị phân phối tổng thể chi phối mạnh, kéo xuống phía trung bình tổng thể −1 BB/100.
+Một chủ đề nảy sinh từ phân tích này là **hồi quy về trung bình**. Giả sử ta quan sát win rate trên một mẫu nhỏ. Win rate quan sát cao hơn trung bình sẽ có xu hướng thấp hơn nếu quan sát lại trong tương lai, và win rate thấp hơn trung bình sẽ có xu hướng tốt lên. Nguyên nhân không phải là một kiểu "bù trừ" thống kê, trong đó các lần thử cực đoan trong quá khứ được bù bằng các lần thử cực đoan theo chiều ngược lại trong tương lai — các sự kiện này độc lập.
+
+Nguyên lý thật là: nếu bạn vượt trung bình của cả tổng thể, thì nhiều khả năng bạn cũng đã vượt kỳ vọng của chính mình; nếu bạn dưới trung bình, nhiều khả năng bạn cũng đã dưới kỳ vọng của mình. Do đó bạn sẽ có xu hướng (đôi khi rất nhẹ) quay về gần trung bình của mọi người chơi; nói cách khác, dự báo tốt nhất pha một phần nhỏ trung bình tổng thể vào kết quả quan sát. Phân tích Bayes ở trên cho thấy điều này: sau 16.900 tay, dự báo win rate điều chỉnh của người chơi vẫn bị phân phối tổng thể chi phối mạnh, kéo xuống phía trung bình tổng thể −1 BB/100.
 
 ### 6. Các ý then chốt (Key Concepts, trang 48)
 
@@ -679,7 +686,7 @@ Chương đặt cạnh nhau hai cách suy luận trên cùng một bộ dữ li�
 - **Tiên nghiệm chín điểm rời rạc** cắt mất đuôi: không ai được phép có win rate trên +3 BB/100, nên người quan sát 5 BB/100 không thể được ước lượng cao hơn +3 dù có bao nhiêu dữ liệu. Với 100.000 tay, lưới bước 1 BB/100 cũng thô: giá trị +1 "thắng" chỉ vì gần 1,15 nhất.
 - **Tiên nghiệm là của "người chơi thường xuyên nói chung"** chứ không phải của người chơi cụ thể; nếu đã biết người này chơi chăm chỉ, học nhiều, tiên nghiệm phù hợp sẽ khác.
 - **Ví dụ maniac** giả định hai kiểu người chơi và tần suất raise cố định; sách tự thừa nhận điều này.
-- **Thuật ngữ thống kê** (mức ý nghĩa 95%, "ước lượng hợp lý cực đại" cho mode hậu nghiệm) được dùng lỏng; người đọc có nền thống kê nên đọc kèm khối Lưu ý.
+- **Thuật ngữ thống kê** (mức ý nghĩa 95%, "ước lượng hợp lý cực đại" cho mode hậu nghiệm) được dùng lỏng; người đọc có nền thống kê nên đọc kèm mục Lưu ý cuối chương.
 
 ### Những gì đã thay đổi từ 2006 (theo hiểu biết của người tổng hợp)
 
@@ -701,3 +708,167 @@ Chương đặt cạnh nhau hai cách suy luận trên cùng một bộ dữ li�
 - **Người chơi poker:** trước khi lên mức cược hay bỏ việc để chơi chuyên nghiệp, hãy tính khoảng bất định của win rate và "chiết khấu" nó về trung bình tổng thể; một win rate ấn tượng trên mẫu nhỏ hầu như chắc chắn bị phóng đại. Ở bàn chơi, cập nhật nhận định về đối thủ ngay từ quan sát đầu tiên, nhưng giữ nhận định ở dạng xác suất chứ không dán nhãn cứng.
 - **Người làm tài chính và đầu tư:** cùng một bài toán xuất hiện khi đánh giá quỹ đầu tư hay nhà quản lý quỹ: lợi nhuận vượt trội (alpha) quan sát vài năm có độ lệch chuẩn lớn hơn chính nó, và vì sau phí, trung bình các nhà quản lý chủ động có alpha âm (tương tự rake), một thành tích tốt trên mẫu ngắn nhiều khả năng một phần là may. Ước lượng co về trung bình (shrinkage) theo kiểu Bayes là cách thực hành tốt khi ước lượng lợi nhuận kỳ vọng hay xếp hạng nhà quản lý.
 - **Người ra quyết định nói chung:** ví dụ xét nghiệm là bài học về tỷ lệ nền: khi điều cần phát hiện hiếm (gian lận, vỡ nợ, bệnh), ngay cả công cụ khá chính xác cũng cho nhiều cảnh báo sai hơn cảnh báo đúng; giảm tỷ lệ báo nhầm thường quan trọng hơn tăng tỷ lệ phát hiện.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: năm nhánh lớn đi theo các mục 1–6 trong phần Nội dung chi tiết (bài toán ước lượng và thống kê cổ điển, định lý Bayes với ví dụ xét nghiệm, suy luận Bayes ở bàn chơi, ước lượng Bayes cho win rate, hồi quy về trung bình và hai trường phái thống kê), mỗi nhánh ghi công thức, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: mẫu hàng chục nghìn tay vẫn để lại nhiều bất định về win rate, phải kết hợp thông tin tiên nghiệm bằng định lý Bayes`"]
+  n1["`Mục 1–2 — Thống kê cổ điển: ước lượng hợp lý cực đại và khoảng tin cậy`"]
+  n0 --- n1
+  n2["`Chương 2 biết tham số rồi dự báo mẫu, Chương 3 đi ngược: từ mẫu suy ra trung bình và phương sai tổng thể`"]
+  n1 --- n2
+  n3["`Dữ liệu: người chơi limit 16.900 tay, win rate mẫu 1,15 BB/100, độ lệch chuẩn 2,1 BB mỗi tay`"]
+  n1 --- n3
+  n4["`Coi mọi win rate có khả năng như nhau thì ước lượng hợp lý cực đại bằng trung bình mẫu 1,15 BB/100`"]
+  n1 --- n4
+  n5["`Theo Định lý Giới hạn Trung tâm, mọi đường chuẩn cùng σ#95;N chỉ tịnh tiến, cao nhất tại x̄ khi μ = 1,15`"]
+  n4 --- n5
+  n6["`σ#95;16.900 = 2,1 × √16.900 = 273 BB, quy về 100 tay là 273 / 169 ≈ 1,61 BB/100, lớn hơn cả win rate`"]
+  n1 --- n6
+  n7["`Nếu win rate thật là 1,15, khoảng 32% mẫu khác rơi ngoài −0,46 đến 2,76 BB/100`"]
+  n6 --- n7
+  n8["`Win rate thật bằng 0 thì 1,15 vẫn nằm trong 1σ: không phân biệt được với hoà vốn`"]
+  n6 --- n8
+  n9["`Khoảng tin cậy 95%: mọi μ thoả μ − 2σ #lt; 1,15 #lt; μ + 2σ, ra [−2,07#59; 4,37] BB/100`"]
+  n1 --- n9
+  n10["`Không có nghĩa 95% khả năng win rate nằm trong khoảng: theo cổ điển, win rate thật cố định, hoặc trong hoặc không`"]
+  n9 --- n10
+  n11["`Thắng 10 BB/100 sau 5.000 tay cho ước lượng 10, trong khi người thắng nhiều nhất chỉ khoảng 3–4 BB/100`"]
+  n1 --- n11
+  n12["`Mục 3 — Định lý Bayes và ví dụ xét nghiệm y khoa`"]
+  n0 --- n12
+  n13["`Từ quy tắc nhân p(A ∩ B) = p(A) p(B | A) rút ra p(B | A) = p(A ∩ B) / p(A)`"]
+  n12 --- n13
+  n14["`Công thức 3.2: p(B | A) = p(A | B)p(B) / [p(A | B)p(B) + p(A | B̄)p(B̄)]`"]
+  n12 --- n14
+  n15["`Xét nghiệm phát hiện 80% người bệnh, báo nhầm 10% người khoẻ, 5% dân số mắc bệnh`"]
+  n12 --- n15
+  n16["`Dương tính thì chỉ 0,04 / 0,135 ≈ 29,6% khả năng mắc bệnh, không phải khoảng 80%`"]
+  n15 --- n16
+  n17["`Trên 100.000 người: 4.000 dương tính thật so với 9.500 dương tính giả`"]
+  n15 --- n17
+  n18["`Phát hiện 100% người bệnh nâng lên 34,5%, giảm báo nhầm còn 6% nâng lên 41,2%`"]
+  n15 --- n18
+  n19["`Suy luận Bayes: xác suất tiên nghiệm cộng thông tin mới cho xác suất hậu nghiệm, trái tim của đọc bài và chơi khai thác`"]
+  n12 --- n19
+  n20["`Mục 4 — Suy luận Bayes ở bàn chơi`"]
+  n0 --- n20
+  n21["`Người có stack gấp 7 lần sớm trong giải: trực giác nghiêng về loose và hung hãn hơn là cực kỳ may`"]
+  n20 --- n21
+  n22["`Tiên nghiệm: 10% là maniac raise 80% tay ở cutoff, 90% là người chơi chặt raise 10%`"]
+  n20 --- n22
+  n23["`Raise tay đầu tiên: 0,08 / 0,17 ≈ 47,1% là maniac`"]
+  n22 --- n23
+  n24["`Raise thêm tay thứ hai: 0,064 / 0,073 ≈ 87,7% (sách ghi gần 87%)`"]
+  n22 --- n24
+  n25["`Giới hạn: thực tế không chỉ có hai kiểu người chơi với tần suất raise cố định`"]
+  n22 --- n25
+  n26["`Tối đa hoá EV là dùng ngay mọi thông tin đang có, chờ thêm xác nhận rồi mới điều chỉnh là quá thụ động`"]
+  n20 --- n26
+  n27["`Cảnh báo: đối thủ có thể cố tình chơi khác thói quen lúc mới vào bàn để ta điều chỉnh sai`"]
+  n20 --- n27
+  n28["`Mục 5 — Ước lượng Bayes cho win rate`"]
+  n0 --- n28
+  n29["`Rake 3–4 USD mỗi tay, khoảng 0,1 BB/tay, chia cho khoảng 10 người là 1 BB/100 mỗi người`"]
+  n28 --- n29
+  n30["`Trung bình win rate mọi người chơi là −1 BB/100, độ lệch chuẩn khoảng 1,5 BB/100`"]
+  n29 --- n30
+  n31["`Tiên nghiệm rời rạc −5 đến +3 BB/100: 0,25 / 2 / 8 / 20 / 39,5 / 20 / 8 / 2 / 0,25%`"]
+  n29 --- n31
+  n32["`Chỉ 10,25% người chơi có win rate từ +1 BB/100 trở lên`"]
+  n31 --- n32
+  n33["`p(A | B) là xác suất quan sát win rate trong khoảng 1,14–1,16 khi win rate thật là r, với σ = 1,61`"]
+  n28 --- n33
+  n34["`Hậu nghiệm bằng tích p(A | B)p(B) chuẩn hoá cho tổng bằng 1, mẫu số chung p(A) ≈ 0,00222`"]
+  n33 --- n34
+  n35["`16.900 tay, quan sát 1,15: khả dĩ nhất là −1 BB/100 (36,25%), hoà vốn 34,54%`"]
+  n28 --- n35
+  n36["`Khả năng thua 43,59%, thắng chỉ 21,88%, kỳ vọng hậu nghiệm khoảng −0,25 BB/100`"]
+  n35 --- n36
+  n37["`Sách gọi −1 là ước lượng hợp lý cực đại, đúng thuật ngữ là mode hậu nghiệm`"]
+  n35 --- n37
+  n38["`Quan sát 5 BB/100: bị kéo về +1 (35,40%) và +2 (33,84%), kỳ vọng hậu nghiệm khoảng 1,32`"]
+  n28 --- n38
+  n39["`Win rate 5 BB/100 không có trong tổng thể, nên bị điều chỉnh về mức của 10% người chơi giỏi nhất`"]
+  n38 --- n39
+  n40["`100.000 tay, quan sát 1,15: σ ≈ 0,664 BB/100, +1 BB/100 lên 58,37%, khả năng thắng 65,01%`"]
+  n28 --- n40
+  n41["`Càng nhiều dữ liệu, hàm hợp lý càng chi phối và ước lượng hội tụ về kết quả quan sát`"]
+  n40 --- n41
+  n42["`Mục 5–6 — Hai trường phái thống kê và hồi quy về trung bình`"]
+  n0 --- n42
+  n43["`Người theo tần suất coi tham số cố định, người theo Bayes coi tham số có phân phối xác suất`"]
+  n42 --- n43
+  n44["`Tác giả nghiêng hẳn về Bayes vì hữu ích cho poker, phương pháp ở đây chỉ là bản đơn giản hoá`"]
+  n43 --- n44
+  n45["`Hồi quy về trung bình: ai vượt trung bình tổng thể thì nhiều khả năng cũng đã vượt kỳ vọng của chính mình`"]
+  n42 --- n45
+  n46["`Không phải do may rủi bù trừ về sau: các tay bài độc lập`"]
+  n45 --- n46
+  n47["`Dự báo tốt nhất pha một phần trung bình tổng thể vào kết quả quan sát`"]
+  n45 --- n47
+  n48["`Tiên nghiệm chuẩn N(m₀, τ²) cho trung bình hậu nghiệm là trung bình có trọng số, trọng số dữ liệu ≈ 0,46`"]
+  n47 --- n48
+  n49["`Key Concepts: ước lượng Bayes tốt hơn cổ điển khi thông tin tiên nghiệm chính xác`"]
+  n42 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Lịch sử tay bài chỉ là một mẫu, không phải win rate thật`"]
+  n50 --- n51
+  n52["`Vì rake làm phần lớn người chơi thua, kết quả dương khiêm tốn nhiều khả năng một phần là may`"]
+  n50 --- n52
+  n53["`Cập nhật đánh giá đối thủ từ hành động đầu tiên, giữ ở dạng xác suất chứ không dán nhãn cứng`"]
+  n50 --- n53
+  n54["`Tiên nghiệm sai cho kết luận sai, nên chất lượng kết luận phụ thuộc trực tiếp vào tiên nghiệm`"]
+  n50 --- n54
+  n55["`Khi điều cần phát hiện hiếm, công cụ khá chính xác vẫn cho nhiều cảnh báo sai hơn cảnh báo đúng`"]
+  n50 --- n55
+  class n0 root
+  class n1,n12,n20,n28,n42,n50 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 3 "Using All the Information: Estimating Parameters and Bayes' Theorem", trang 37–48.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)) đặt nền xác suất và kỳ vọng, trong đó có quy tắc nhân p(A ∩ B) = p(A) · p(B | A) (phương trình 1.5 của sách). Chương 2 ([C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md](C02-du-bao-tuong-lai-phuong-sai-va-ket-qua-mau.md)) giả định đã biết trung bình và độ lệch chuẩn của kết quả mỗi tay bài, rồi dùng chúng để dự báo phân phối kết quả của nhiều tay (độ lệch chuẩn của N tay là σ√N).
+
+Chương 3 đi theo chiều ngược lại: từ kết quả quan sát được, suy ra **tham số chưa biết** — chủ yếu là win rate thật của một người chơi — bằng hai cách: thống kê cổ điển (ước lượng hợp lý cực đại, khoảng tin cậy) và thống kê Bayes (kết hợp thông tin có sẵn về phân phối win rate của mọi người chơi với dữ liệu mẫu).
+
+Định lý Bayes được giới thiệu ở đây là công cụ nền của Phần II "Chơi khai thác": Chương 4 ([C04-pot-odds-va-implied-odds.md](C04-pot-odds-va-implied-odds.md)) mở Phần II bằng pot odds, và Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)) dùng suy luận Bayes để "đọc bài" (cập nhật phân phối tay bài của đối thủ theo hành động của họ). Phần IV về rủi ro phá sản, đặc biệt Chương 23 ([C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)), quay lại đúng câu hỏi win rate bất định của chương này.
+
+## Lưu ý
+
+- **"Mức ý nghĩa 95%" là cách nói sai thuật ngữ (nhận xét của người tổng hợp):** sách viết "we choose a significance level of 95%" và định nghĩa khoảng tin cậy là tập các trung bình tổng thể "sao cho xác suất kết quả quan sát xảy ra *nhỏ hơn* mức ý nghĩa đã chọn". Trong thống kê chuẩn, mức ý nghĩa là 5% (xác suất sai mà ta chấp nhận), còn 95% là *mức tin cậy*; và khoảng tin cậy gồm các giá trị μ mà kết quả quan sát *không* rơi vào vùng có xác suất nhỏ hơn 5%.
+
+  Phép tính của sách (μ ± 2σ) vẫn đúng với cách hiểu chuẩn. Ngay sau đó sách cũng viết "we can find a confidence level for our player" trong khi ý là "confidence interval". Phần Key Concepts lặp lại cách nói "observed result is inside the significance level".
+- **Hệ số 2 thay cho 1,96:** sách dùng μ ± 2σ cho mức 95%; chính xác thì ±2σ ứng với khoảng 95,45%, và ±1,96σ ứng với 95%. Với 1,96, khoảng là [−2,02; 4,32] BB/100 (người tổng hợp tính: 1,96 × 1,615 = 3,17).
+- **Sách viết "In Chapter 2, we stated the basic principle of probability (equation 1.5)":** theo cách đánh số, phương trình 1.5 thuộc Chương 1, không phải Chương 2.
+- **Câu diễn giải p(A) thiếu dấu gạch trên:** sách viết p(A) bằng "xác suất của A khi có B khi B xảy ra, cộng xác suất của A khi có B khi B xảy ra"; vế thứ hai phải là B̄ (B không xảy ra): p(A) = p(A | B)p(B) + p(A | B̄)p(B̄).
+- **Ví dụ xét nghiệm, hai lỗi in:** dòng đầu của danh sách dữ kiện ghi "p(B | A) = 0,8", phải là p(A | B) = 0,8 (xác suất dương tính khi có bệnh); câu "Of the 95,000 who have the condition" phải là "who do *not* have the condition" (95.000 người không mắc bệnh).
+- **"Nearly 87%":** sau hai lần raise, người tổng hợp tính được (0,8 × 0,8 × 0,1) / (0,64 × 0,1 + 0,01 × 0,9) = 0,064 / 0,073 ≈ 87,7%, tức "gần 88%" chính xác hơn "gần 87%".
+- **Bảng tính Bayes cho win rate, ba lỗi in (đã đối chiếu ảnh trang 46–47):**
+  - tiêu đề hai cột p(B̄) và p(B) bị đổi chỗ: cột ghi "p(B̄)" thực ra chứa xác suất tiên nghiệm p(B) (0,25%, 2%, …), còn cột cuối ghi "p(B)" chứa 1 − p(B) (99,75%, 98%, …)
+  - ba dòng win rate dương in là "- 1 BB/100", "- 2 BB/100", "- 3 BB/100" thay vì +1, +2, +3 (bảng tiên nghiệm ở trang 45 in đúng dấu +)
+  - ba bảng kết quả có tiêu đề cột "p(A | B)" trong khi số trong cột là xác suất hậu nghiệm p(B | A).
+- **Mọi con số trong bảng Bayes đã được tính lại và khớp với sách**, kể cả hai trường hợp phụ: quan sát 5 BB/100 sau 16.900 tay, và quan sát 1,15 BB/100 sau 100.000 tay (sách không nói rõ trường hợp 100.000 tay giữ win rate quan sát 1,15; người tổng hợp kiểm tra và thấy đúng là 1,15, với độ lệch chuẩn 2,1 × √100.000 / 1.000 ≈ 0,664 BB/100).
+- **"Ước lượng hợp lý cực đại" trong phần Bayes:** sách gọi −1 BB/100 là "maximum likelihood estimate given these assumptions". Đúng thuật ngữ thì đây là *mode hậu nghiệm* (ước lượng hậu nghiệm cực đại, maximum a posteriori); ước lượng hợp lý cực đại thì vẫn là giá trị làm p(A | B) lớn nhất, tức +1 BB/100 trong lưới rời rạc này (cột p(A | B) lớn nhất là 0,004918 ở +1).
+- **Câu "nearly as likely to be a losing player who has gotten lucky as he is to have a positive win rate" nói nhẹ hơn số liệu (nhận xét của người tổng hợp):** cộng bảng hậu nghiệm, xác suất người chơi thua (win rate ≤ −1) là 0,00 + 0,03 + 0,66 + 6,65 + 36,25 = 43,59%, gấp đôi xác suất thắng (win rate ≥ +1) là 17,72 + 3,87 + 0,29 = 21,88%.
+- **Phân phối tiên nghiệm rời rạc hẹp hơn giả định liên tục:** sách giả định độ lệch chuẩn của win rate các người chơi là 0,015 BB/tay, tức 1,5 BB/100; bảng rời rạc mà sách dùng có trung bình đúng −1 BB/100 nhưng độ lệch chuẩn √1,48 ≈ 1,22 BB/100 (người tổng hợp tính).
+- **Hình 3.1 vẽ các đường chuẩn hẹp hơn σ = 1,61:** đỉnh các đường cao khoảng 0,32 (đọc từ trục), ứng với độ lệch chuẩn khoảng 1,25; một đường chuẩn với σ = 1,61 có đỉnh 1 / (1,61 √(2π)) ≈ 0,248. Hình chỉ có tính minh hoạ.
+- **Lớp chữ:** chỉ số dưới bị làm phẳng (σN là σ_N, σ16,900 là σ của 16.900 tay); dấu gạch trên của B̄ thường mất; "rumple mean" là lỗi của "sample mean"; "Bayer's theorem" là "Bayes' theorem"; "slayer" là "player"; "chat" là "that". Bản tổng hợp đã đọc lại các công thức và bảng từ ảnh trang.
+- **Quy ước:** "win rate" (tỷ lệ thắng, đo bằng big bet trên 100 tay, viết BB/100) được giữ tiếng Anh; "BB" trong chương này là big bet (mức cược lớn của limit poker), không phải big blind. Số thập phân dùng dấu phẩy cả trong công thức.

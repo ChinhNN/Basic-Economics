@@ -1,20 +1,22 @@
 # Chương 25 — Tài chính poker: lý thuyết danh mục và thoả thuận tài trợ (Poker Finance: Portfolio Theory and Backing Agreements)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 25 "Poker Finance: Portfolio Theory and Backing Agreements", trang 324–331.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 22–23 ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), [C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)) đo rủi ro phá sản của một bankroll; Chương 24 ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)) mượn tiêu chuẩn Kelly của tài chính để chọn mức cược. Chương 25, chương cuối của Phần IV "Rủi ro", tiếp tục mượn hai công cụ tài chính khác: lý thuyết danh mục (tỷ số Sharpe, đa dạng hoá, hoán đổi phần trăm kết quả giữa hai người chơi) và định giá quyền chọn (để định giá thoả thuận tài trợ — backing — giữa người chơi và người bỏ vốn). Chương dùng phân phối chuẩn và hàm phân phối chuẩn tích luỹ Φ như ở Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) và Chương 23. Phần V ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) chuyển sang giải đấu, nơi hoán đổi phần trăm (swap) và tài trợ đặc biệt phổ biến.
-**Ý chính:** **Bankroll poker có thể quản lý như một danh mục đầu tư: hoán đổi một phần kết quả với người chơi khác (kể cả người kém hơn) làm tăng tỷ số Sharpe, còn chơi nhiều loại trò chơi xen kẽ không phải là đa dạng hoá; và thoả thuận tài trợ thực chất là một quyền chọn mua, nên giá trị của nó với người chơi tính được bằng công thức kỳ vọng phần dương của một biến chuẩn σφ(w/σ) + wΦ(w/σ).** Mục "Portfolio Theory": tỷ số Sharpe S = μ/σ (25.1); hai khoản đầu tư độc lập A, B cùng kỳ vọng $10, độ lệch chuẩn $100, chia đôi vốn thì độ lệch chuẩn giảm còn $100/√2 ≈ $70,7, tỷ số Sharpe tăng từ 0,1 lên khoảng 0,14; ngay cả trộn 20% một khoản tệ hơn C (kỳ vọng $5) vào A cũng tăng tỷ số Sharpe lên 0,1091. Hai người chơi giải đấu cùng kỳ vọng 1 buy-in mỗi giải, độ lệch chuẩn 9 và 12 buy-in: người thứ nhất nên hoán đổi 36% (giữ 64%) để tỷ số Sharpe lớn nhất; tổng quát a₁ = σ₂²/(σ₂² + s₁²) (25.2), a₂ = s₁²/(σ₂² + s₁²) (25.3). Chơi xen kẽ nhiều loại trò (sit-and-go, giải nhiều bàn, limit) giống như mua một cổ phiếu nửa thời gian rồi đổi sang cổ phiếu khác, không giảm phương sai; chơi nhiều bàn nhỏ cùng lúc (hai bàn $10-20 thay vì một bàn $20-40) thì có. Mục "Backing Agreements": người chơi thắng $40/giờ, độ lệch chuẩn $600/giờ, chơi 100 giờ bằng tiền người tài trợ, lãi chia đôi, lỗ người tài trợ chịu hết; kết quả 100 giờ có phân phối chuẩn trung bình $4.000, độ lệch chuẩn $6.000; giá trị phần thắng (quyền chọn mua với giá thực hiện 0) là $4.906,72 (25.6), nên người chơi nhận kỳ vọng $2.453,36 (khoảng 61%), người tài trợ $1.546,64 (sách in $1.547,64). Công thức mở rộng với ngưỡng a (25.7), một chiến thuật thương lượng (chỉ chia lãi trên $4.000 nhưng với tỷ lệ 55,8%), và một cơ cấu chia lãi theo bậc (25% tới 75%) được sách định giá tương đương 60,4% lãi. Người tổng hợp phát hiện công thức 25.7 thực ra tính kỳ vọng của *toàn bộ* kết quả khi kết quả vượt ngưỡng, không phải phần vượt ngưỡng; vì vậy cách định giá cơ cấu bậc của sách mâu thuẫn với chính ví dụ $1.500 của sách, và giá trị đúng với người chơi là $978,15 (43,1%) thay vì $1.374,19 (60,4%). Hai vấn đề lớn của tài trợ: lợi ích lệch nhau gần ngày đáo hạn (người chơi bị lỗ xa ngưỡng có động cơ đánh cược phương sai lớn, như đẩy $3.000 với QQ vào AA) và chia lợi nhuận công bằng (phần bù rủi ro cho người tài trợ, chi phí cơ hội của người chơi, bất định về tỷ lệ thắng có lợi cho người chơi).
+## Ý chính
 
-> **Lưu ý:**
-> - **Định giá cơ cấu chia lãi theo bậc mâu thuẫn với định nghĩa của chính sách (trang 329–330; người tổng hợp tính lại):** sách định nghĩa rõ: "nếu kết quả là $1.500, người chơi nhận 25% của $1.000 đầu và 40% phần còn lại, tức $450" — tức chia theo *lớp lũy tiến* (giống thuế thu nhập). Nhưng "giá trị bậc" sách tính bằng hiệu hai giá trị của công thức 25.7, tức E[X; a < X < b] — kỳ vọng của *toàn bộ* kết quả X khi X rơi vào bậc — rồi nhân với tỷ lệ của bậc. Cách đó ngầm cho người chơi nhận tỷ lệ của bậc trên *toàn bộ* kết quả (với $1.500 sẽ là 40% × $1.500 = $600, không phải $450). Định giá đúng theo cơ cấu lũy tiến dùng các lớp E[(X − a)⁺] − E[(X − b)⁺]: giá trị các lớp là $732,54; $581,93; $418,07; $267,46; $224,35; $47,58 (tổng vẫn $2.271,93), giá trị cho người chơi là $183,13 + $232,77 + $209,03 + $160,48 + $157,04 + $35,69 = **$978,15**, tức **43,1%** lợi nhuận dương, không phải $1.374,19 và 60,4% như sách. Đây là khác biệt lớn khi thương lượng.
-> - **Cùng vấn đề ở công thức 25.7 và ví dụ thương lượng (trang 328–329):** công thức 25.7, σ/√(2π)·e^(−(w − a)²/(2σ²)) + wΦ((w − a)/σ), là E[X·1{X > a}]: kỳ vọng của toàn bộ kết quả trong những trường hợp kết quả vượt a. Nó đúng cho một thoả thuận kiểu "vượt ngưỡng a thì người chơi được chia trên toàn bộ kết quả", không đúng cho "người chơi được chia phần vượt a" như lời văn ("người chơi chỉ được chia khi vượt kỳ vọng… phần lợi nhuận *trên* kỳ vọng"). Với ngưỡng $4.000: theo cách hiểu thứ nhất, giá trị là $4.393,65 và 55,8% cho ngang giá (khớp sách); theo cách hiểu thứ hai, giá trị phần vượt là E[(X − 4.000)⁺] = $4.393,65 − 4.000 × 0,5 = $2.393,65, và để ngang $2.453,36 người chơi cần **102,5%** phần vượt — tức đề nghị đó không bao giờ ngang giá được. Tương tự, ngưỡng $1.000 cho $4.878,24 theo cách hiểu thứ nhất và $4.186,78 theo cách hiểu thứ hai.
-> - **Số in sai nhỏ:** phần của người tài trợ ở ví dụ đầu là $4.000 − $2.453,36 = **$1.546,64**, sách in $1.547,64. Giá trị bậc $4.000–$6.000 là **$746,92** (sách in $746,02; cột "giá trị cho người chơi" $522,84 = 70% × $746,92 cho thấy sách đã dùng đúng $746,92). Nhãn bậc cuối in "$60000+" (đúng: $6.000+), "S17.75" và "S4000" (chữ S thay $).
-> - **Đạo hàm ở phép dẫn tổng quát (trang 325):** sách viết "0 = 2a₁s₁² − 2(1 − a₁)²(σ₂²)"; đạo hàm đúng của (1 − a₁)²σ₂² theo a₁ là −2(1 − a₁)σ₂² (không có bình phương). Dòng tiếp theo và kết quả 25.2 của sách đúng.
-> - **Ký hiệu không thống nhất:** ở ví dụ hoán đổi, sách dùng cả α và a cho cùng tỷ lệ giữ lại; ở ví dụ bậc, sách viết "Z(5/6)", "Z(5/12)" thay cho Φ(5/6), Φ(5/12). Phép thế ở trang 327 viết "du = −(x − w)" thiếu dx. Sách gọi $6.000 là "standard error" của kết quả 100 giờ; đúng hơn là độ lệch chuẩn của tổng kết quả 100 giờ ($600 × √100).
-> - **Tỷ số Sharpe được đơn giản hoá (nhận xét của người tổng hợp):** trong tài chính, tỷ số Sharpe là (lợi nhuận kỳ vọng − lãi suất phi rủi ro)/độ lệch chuẩn; sách bỏ lãi suất phi rủi ro (hợp lý với poker, nơi μ đã là lợi nhuận ròng). Câu "tối đa hoá tỷ số Sharpe cho lợi nhuận điều chỉnh rủi ro tốt nhất khi khoản đầu tư co giãn vô hạn" là đúng theo lý thuyết danh mục cổ điển (trộn danh mục Sharpe cao nhất với tiền mặt hoặc vay).
-> - **Các phép tính đã kiểm tra khớp sách:** 100/√2 = 70,71, Sharpe 0,1414; √(80² + 20²) = 82,46, Sharpe 9/82,46 = 0,1091; a = 288/450 = 0,64; e^(−0,2222) và tổng $4.906,72; phần thua −$906,72; tỷ lệ 2.453,36/4.000 = 61,3%; $4.878,24; $4.393,65; 55,8%; $2.271,93; $2.200,93; hiệu $71,00; tổng $1.374,19 và 60,5% (sách làm tròn 60,4%); tỷ lệ 81,3% ở ví dụ bất định.
-> - **Lỗi chính tả và OCR:** "hi this chapter" ("In"), "then separately" ("than"), "particular'" , "hi general", "arc at the core" ("are"), "hi this fair division" ("in"), "100 hours of player" ("play").
-> - **Quy ước thuật ngữ:** "backing agreement" dịch là "thoả thuận tài trợ", "backer" là "người tài trợ" (người bỏ vốn), "swap" là "hoán đổi phần trăm kết quả"; "option" là "quyền chọn", "call option" là "quyền chọn mua", "strike price" là "giá thực hiện", "expiry date" là "ngày đáo hạn"; "Sharpe ratio" là "tỷ số Sharpe"; "risk premium" là "phần bù rủi ro"; "at par" là "ngang giá" (đổi một phần trăm của mình lấy đúng một phần trăm của người kia).
+**Bankroll poker có thể quản lý như một danh mục đầu tư: hoán đổi một phần kết quả với người chơi khác (kể cả người kém hơn) làm tăng tỷ số Sharpe, còn chơi nhiều loại trò chơi xen kẽ không phải là đa dạng hoá; và thoả thuận tài trợ thực chất là một quyền chọn mua, nên giá trị của nó với người chơi tính được bằng công thức kỳ vọng phần dương của một biến chuẩn σφ(w/σ) + wΦ(w/σ).**
+
+Mục "Portfolio Theory": tỷ số Sharpe S = μ/σ (25.1); hai khoản đầu tư độc lập A, B cùng kỳ vọng $10, độ lệch chuẩn $100, chia đôi vốn thì độ lệch chuẩn giảm còn $100/√2 ≈ $70,7, tỷ số Sharpe tăng từ 0,1 lên khoảng 0,14; ngay cả trộn 20% một khoản tệ hơn C (kỳ vọng $5) vào A cũng tăng tỷ số Sharpe lên 0,1091.
+
+Hai người chơi giải đấu cùng kỳ vọng 1 buy-in mỗi giải, độ lệch chuẩn 9 và 12 buy-in: người thứ nhất nên hoán đổi 36% (giữ 64%) để tỷ số Sharpe lớn nhất; tổng quát a₁ = σ₂²/(σ₂² + s₁²) (25.2), a₂ = s₁²/(σ₂² + s₁²) (25.3).
+
+Chơi xen kẽ nhiều loại trò (sit-and-go, giải nhiều bàn, limit) giống như mua một cổ phiếu nửa thời gian rồi đổi sang cổ phiếu khác, không giảm phương sai; chơi nhiều bàn nhỏ cùng lúc (hai bàn $10-20 thay vì một bàn $20-40) thì có.
+
+Mục "Backing Agreements": người chơi thắng $40/giờ, độ lệch chuẩn $600/giờ, chơi 100 giờ bằng tiền người tài trợ, lãi chia đôi, lỗ người tài trợ chịu hết; kết quả 100 giờ có phân phối chuẩn trung bình $4.000, độ lệch chuẩn $6.000; giá trị phần thắng (quyền chọn mua với giá thực hiện 0) là $4.906,72 (25.6), nên người chơi nhận kỳ vọng $2.453,36 (khoảng 61%), người tài trợ $1.546,64 (sách in $1.547,64).
+
+Công thức mở rộng với ngưỡng a (25.7), một chiến thuật thương lượng (chỉ chia lãi trên $4.000 nhưng với tỷ lệ 55,8%), và một cơ cấu chia lãi theo bậc (25% tới 75%) được sách định giá tương đương 60,4% lãi.
+
+Người tổng hợp phát hiện công thức 25.7 thực ra tính kỳ vọng của *toàn bộ* kết quả khi kết quả vượt ngưỡng, không phải phần vượt ngưỡng; vì vậy cách định giá cơ cấu bậc của sách mâu thuẫn với chính ví dụ $1.500 của sách, và giá trị đúng với người chơi là $978,15 (43,1%) thay vì $1.374,19 (60,4%).
+
+Hai vấn đề lớn của tài trợ: lợi ích lệch nhau gần ngày đáo hạn (người chơi bị lỗ xa ngưỡng có động cơ đánh cược phương sai lớn, như đẩy $3.000 với QQ vào AA) và chia lợi nhuận công bằng (phần bù rủi ro cho người tài trợ, chi phí cơ hội của người chơi, bất định về tỷ lệ thắng có lợi cho người chơi).
 
 ## Sơ đồ
 
@@ -269,13 +271,15 @@ $$\sigma_P^2 = a_1^2 s_1^2 + a_2^2\sigma_2^2.$$
 
 Sách lưu ý đã bỏ vài bước khi dẫn phương sai; phương trình chỉ đúng với các biến cố độc lập, không tương quan. Khi phân tích chứng khoán, tương quan rất quan trọng; nhưng chơi giải đông người, kể cả cùng một giải, với người chơi đều tối đa hoá kỳ vọng của mình, chỉ tương quan rất ít, nên bỏ qua trong thảo luận này.
 
-Thay a₂ = 1 − a₁: σ_P² = a₁²s₁² + (1 − a₁)²σ₂². Đạo hàm theo a₁ và cho bằng 0 (sách in nhầm bình phương ở số hạng thứ hai, xem Lưu ý):
+Thay a₂ = 1 − a₁: σ_P² = a₁²s₁² + (1 − a₁)²σ₂². Đạo hàm theo a₁ và cho bằng 0 (sách in nhầm bình phương ở số hạng thứ hai, xem mục Lưu ý cuối chương):
 
 $$0 = 2a_1 s_1^2 - 2(1 - a_1)\sigma_2^2 \;\Rightarrow\; 2\sigma_2^2 = 2a_1 s_1^2 + 2a_1\sigma_2^2,$$
 
 $$a_1 = \frac{\sigma_2^2}{\sigma_2^2 + s_1^2} \qquad (25.2) \qquad\qquad a_2 = \frac{s_1^2}{\sigma_2^2 + s_1^2} \qquad (25.3)$$
 
-Kiểm tra với ví dụ: a₁ = 144/(144 + 81) = 0,64. Đây là tỷ trọng mỗi khoản để tối đa hoá tỷ số Sharpe. Trong tài chính, phân tích này mở rộng cho số khoản đầu tư bất kỳ để dựng danh mục tối ưu. Tương tự, người chơi poker có thể giảm biến động mà giữ tỷ số Sharpe bằng cách hoán đổi, trong giải đấu hay cash game. Điều này đúng cả khi một người có kỳ vọng cao hơn: người đó vẫn được lợi về tỷ số Sharpe khi hoán đổi với người kia. (Minh hoạ của người tổng hợp: nếu B chỉ có kỳ vọng 0,8 buy-in, độ lệch chuẩn 12, thì A nên giữ khoảng 69%; kỳ vọng của A giảm từ 1 còn khoảng 0,94 nhưng độ lệch chuẩn giảm từ 9 còn khoảng 7,24, tỷ số Sharpe tăng từ 0,111 lên khoảng 0,130.)
+Kiểm tra với ví dụ: a₁ = 144/(144 + 81) = 0,64. Đây là tỷ trọng mỗi khoản để tối đa hoá tỷ số Sharpe. Trong tài chính, phân tích này mở rộng cho số khoản đầu tư bất kỳ để dựng danh mục tối ưu.
+
+Tương tự, người chơi poker có thể giảm biến động mà giữ tỷ số Sharpe bằng cách hoán đổi, trong giải đấu hay cash game. Điều này đúng cả khi một người có kỳ vọng cao hơn: người đó vẫn được lợi về tỷ số Sharpe khi hoán đổi với người kia. (Minh hoạ của người tổng hợp: nếu B chỉ có kỳ vọng 0,8 buy-in, độ lệch chuẩn 12, thì A nên giữ khoảng 69%; kỳ vọng của A giảm từ 1 còn khoảng 0,94 nhưng độ lệch chuẩn giảm từ 9 còn khoảng 7,24, tỷ số Sharpe tăng từ 0,111 lên khoảng 0,130.)
 
 ### 4. Chơi nhiều loại trò chơi không phải đa dạng hoá (trang 326)
 
@@ -340,7 +344,7 @@ Phương pháp này dùng được cho mọi thoả thuận kiểu này. Có th�
 
 $$\langle\text{wins}\rangle = \frac{\sigma}{\sqrt{2\pi}}e^{-\frac{(w-a)^2}{2\sigma^2}} + w\,\Phi\!\left(\frac{w-a}{\sigma}\right) \qquad (25.7)$$
 
-(Như khối Lưu ý đã nêu, biểu thức này là E[X·1{X > a}]: kỳ vọng của *toàn bộ* kết quả X trong các trường hợp X > a. Phần vượt ngưỡng E[(X − a)⁺] nhỏ hơn đúng a·Φ((w − a)/σ).)
+(Như mục Lưu ý cuối chương đã nêu, biểu thức này là E[X·1{X > a}]: kỳ vọng của *toàn bộ* kết quả X trong các trường hợp X > a. Phần vượt ngưỡng E[(X − a)⁺] nhỏ hơn đúng a·Φ((w − a)/σ).)
 
 Với cùng thoả thuận nhưng người chơi chỉ được chia khi thắng từ $1.000 trở lên: (w − a)/σ = 3.000/6.000 = 1/2, (w − a)²/(2σ²) = 0,125:
 
@@ -417,7 +421,9 @@ Tổng giá trị vẫn là $2.271,93, nhưng phần của người chơi chỉ 
 
 Ví dụ cuối cho thấy một cách cấu trúc thoả thuận khác, có thể hiệu quả hơn chút ít trong việc giải quyết một trong hai vấn đề lớn của thoả thuận tài trợ nói chung. Hai vấn đề này là cốt lõi khi quyết định cấu trúc thoả thuận.
 
-**Vấn đề thứ nhất: làm cho lợi ích của người chơi trùng với lợi ích của người tài trợ.** Một vấn đề rất thường gặp với thoả thuận có thời hạn cố định: khi gần ngày đáo hạn của quyền chọn (kết thúc thoả thuận), nếu người chơi còn cách ngưỡng khá xa, anh ta có động cơ trực tiếp nhận thật nhiều phương sai. Ví dụ cực đoan: đây là ván cuối trước khi thoả thuận hết hạn. Người chơi còn thiếu $2.000 mới tới ngưỡng bắt đầu được chia lãi. Anh ta có cơ hội bỏ $3.000 vào pot với QQ trước flop (preflop) đấu AA (giả sử người cầm AA vô tình để lộ bài). Đây là nước đi tồi tệ với người tài trợ, và trong điều kiện thường, cũng tồi với người chơi. Nhưng kỳ vọng của người chơi khi đánh cược ở đây là khoảng 18% phần chia của $1.000 (nếu thắng, anh ta vượt ngưỡng $1.000), trong khi bỏ bài thì kỳ vọng bằng 0. Ở đây hàm kỳ vọng của người chơi khác hẳn, và trong trường hợp cực đoan này thực chất đối nghịch, với hàm kỳ vọng của người tài trợ. (Người tổng hợp tính: với xác suất thắng khoảng 18%, kỳ vọng của cả ván với người tài trợ là 0,18 × $3.000 − 0,82 × $3.000 = −$1.920; nếu phần chia là 50%, kỳ vọng của người chơi là 0,18 × $500 = +$90.)
+**Vấn đề thứ nhất: làm cho lợi ích của người chơi trùng với lợi ích của người tài trợ.** Một vấn đề rất thường gặp với thoả thuận có thời hạn cố định: khi gần ngày đáo hạn của quyền chọn (kết thúc thoả thuận), nếu người chơi còn cách ngưỡng khá xa, anh ta có động cơ trực tiếp nhận thật nhiều phương sai. Ví dụ cực đoan: đây là ván cuối trước khi thoả thuận hết hạn. Người chơi còn thiếu $2.000 mới tới ngưỡng bắt đầu được chia lãi. Anh ta có cơ hội bỏ $3.000 vào pot với QQ trước flop (preflop) đấu AA (giả sử người cầm AA vô tình để lộ bài).
+
+Đây là nước đi tồi tệ với người tài trợ, và trong điều kiện thường, cũng tồi với người chơi. Nhưng kỳ vọng của người chơi khi đánh cược ở đây là khoảng 18% phần chia của $1.000 (nếu thắng, anh ta vượt ngưỡng $1.000), trong khi bỏ bài thì kỳ vọng bằng 0. Ở đây hàm kỳ vọng của người chơi khác hẳn, và trong trường hợp cực đoan này thực chất đối nghịch, với hàm kỳ vọng của người tài trợ. (Người tổng hợp tính: với xác suất thắng khoảng 18%, kỳ vọng của cả ván với người tài trợ là 0,18 × $3.000 − 0,82 × $3.000 = −$1.920; nếu phần chia là 50%, kỳ vọng của người chơi là 0,18 × $500 = +$90.)
 
 Một cách đã được dùng là trả cho người chơi một khoản lương nhận được dù thắng hay thua, đồng thời giảm phần chia kết quả. Nhưng cách này lại làm giảm giá trị của việc chơi tốt và cố gắng thắng đối với người chơi. Vấn đề này quen thuộc với các nhà quản lý trong nhiều ngành bán hàng: một số đại lý ô tô đã thử nghiệm nhân viên hưởng hoa hồng và nhân viên hưởng lương, v.v.
 
@@ -425,7 +431,9 @@ Một cách đã được dùng là trả cho người chơi một khoản lươ
 
 - **Phần bù rủi ro cho người tài trợ.** Người tài trợ chịu toàn bộ rủi ro nên đáng được một phần bù cho việc chấp nhận rủi ro đó.
 - **Người chơi không nhất thiết cần tài trợ.** Người được tài trợ thường có thể chơi ở mức thấp hơn với lợi nhuận thấp hơn. Người chơi có thể cho rằng phần lợi từ thoả thuận nên phản ánh điều này. Nhìn cách khác, đây giống như trả công cho thời gian của người chơi, thời gian có thể dùng vào việc khác. Vì người tài trợ thực chất kiếm tiền một cách thụ động, người chơi có thể đòi phần lãi lớn hơn.
-- **Bất định về tỷ lệ thắng của người chơi.** Khi lập thoả thuận, người ta thường dùng (ngầm hay công khai) một tỷ lệ thắng và độ lệch chuẩn. Nhưng nếu tỷ lệ thắng thật *thấp hơn* hai bên tin, phần của người chơi trong tổng giá trị quyền chọn tăng lên. Ví dụ: 100 giờ chơi với w = $20/giờ, σ = $200/giờ, so với w = $15/giờ, σ = $200/giờ. Tổng giá trị chơi của người chơi giờ chỉ bằng 3/4. Nhưng giá trị quyền chọn ngưỡng 0 với w = $15 bằng 81,3% giá trị với w = $20. Người chơi giữ được tỷ lệ cao hơn trong phần của mình so với người tài trợ nếu tỷ lệ thắng thật thấp hơn hai bên tin từ trước. (Người tổng hợp tính: với kết quả 100 giờ có trung bình $2.000 và độ lệch chuẩn $2.000, giá trị quyền chọn là $2.166,63; với trung bình $1.500, là $1.762,33; tỷ số 81,3%, khớp sách. Phần của người chơi trong kỳ vọng tổng, với chia đôi, tăng từ 1.083,3/2.000 = 54,2% lên 881,2/1.500 = 58,7%.)
+- **Bất định về tỷ lệ thắng của người chơi.** Khi lập thoả thuận, người ta thường dùng (ngầm hay công khai) một tỷ lệ thắng và độ lệch chuẩn. Nhưng nếu tỷ lệ thắng thật *thấp hơn* hai bên tin, phần của người chơi trong tổng giá trị quyền chọn tăng lên.
+
+  Ví dụ: 100 giờ chơi với w = $20/giờ, σ = $200/giờ, so với w = $15/giờ, σ = $200/giờ. Tổng giá trị chơi của người chơi giờ chỉ bằng 3/4. Nhưng giá trị quyền chọn ngưỡng 0 với w = $15 bằng 81,3% giá trị với w = $20. Người chơi giữ được tỷ lệ cao hơn trong phần của mình so với người tài trợ nếu tỷ lệ thắng thật thấp hơn hai bên tin từ trước. (Người tổng hợp tính: với kết quả 100 giờ có trung bình $2.000 và độ lệch chuẩn $2.000, giá trị quyền chọn là $2.166,63; với trung bình $1.500, là $1.762,33; tỷ số 81,3%, khớp sách. Phần của người chơi trong kỳ vọng tổng, với chia đôi, tăng từ 1.083,3/2.000 = 54,2% lên 881,2/1.500 = 58,7%.)
 
 Các cân nhắc trên chưa tính các yếu tố như rủi ro vỡ nợ hay gian lận, khi người chơi ôm tiền của người tài trợ bỏ trốn hoặc báo kết quả không chính xác. Dĩ nhiên tài trợ là hoạt động rủi ro cao; nhưng lợi nhuận từ một thoả thuận tài trợ tốt, ổn định có thể vượt xa lợi nhuận từ các loại đầu tư khác. Một vấn đề khác: người chơi thắng thường không cần được tài trợ lâu; ngược lại, người chơi hoà vốn hay thắng ít thường cần được tài trợ lâu hơn mới có lãi.
 
@@ -563,7 +571,7 @@ Chương cho thấy hai công cụ tài chính quen thuộc có ý nghĩa cụ t
 
 ### Những chỗ đơn giản hoá
 
-- **Sai sót trong định giá ngưỡng và bậc.** Như Lưu ý đã nêu, công thức 25.7 tính kỳ vọng của toàn bộ kết quả khi vượt ngưỡng, không phải phần vượt ngưỡng; vì vậy con số 60,4% của cơ cấu bậc mâu thuẫn với định nghĩa lũy tiến của chính sách (đúng là 43,1%), và lời đề nghị "chỉ chia phần vượt $4.000" thực ra không thể ngang giá. Người dùng các con số của chương để thương lượng sẽ bị sai lệch lớn.
+- **Sai sót trong định giá ngưỡng và bậc.** Như mục Lưu ý cuối chương đã nêu, công thức 25.7 tính kỳ vọng của toàn bộ kết quả khi vượt ngưỡng, không phải phần vượt ngưỡng; vì vậy con số 60,4% của cơ cấu bậc mâu thuẫn với định nghĩa lũy tiến của chính sách (đúng là 43,1%), và lời đề nghị "chỉ chia phần vượt $4.000" thực ra không thể ngang giá. Người dùng các con số của chương để thương lượng sẽ bị sai lệch lớn.
 - **Thoả thuận một kỳ.** Thực tế tài trợ thường kéo dài nhiều kỳ với điều khoản bù lỗ cũ (makeup) chuyển sang kỳ sau; khi đó thoả thuận là chuỗi quyền chọn phụ thuộc đường đi, và giá trị cho người chơi thấp hơn nhiều so với một quyền chọn một kỳ.
 - **Phân phối chuẩn.** Với tài trợ giải đấu (dạng phổ biến nhất), kết quả lệch dương rất mạnh; công thức chuẩn không dùng được, như Chương 22 đã cảnh báo.
 - **Tỷ lệ thắng biết chắc.** Chương chỉ bàn bất định ở dạng định tính ở cuối; theo tinh thần Chương 23, nên lấy trung bình giá trị quyền chọn trên phân phối tỷ lệ thắng.
@@ -588,3 +596,151 @@ Chương cho thấy hai công cụ tài chính quen thuộc có ý nghĩa cụ t
 - **Người chơi poker:** khi chơi giải, cân nhắc hoán đổi 20–40% với người chơi có trình độ tương đương ở giải khác hoặc cùng giải đông người; với kỳ vọng bằng nhau, tỷ lệ giữ lại tối ưu là σ₂²/(σ₁² + σ₂²). Khi được tài trợ, tính giá trị thoả thuận như quyền chọn: E[max(X, 0)] × phần chia, với X là tổng kết quả kỳ hạn; với cơ cấu bậc, tính theo từng lớp E[(X − a)⁺] − E[(X − b)⁺], đừng dùng công thức 25.7 nguyên dạng.
 - **Người tài trợ / nhà đầu tư:** giá trị của bạn = kỳ vọng tổng − giá trị quyền chọn của người chơi; nó giảm khi phương sai tăng, nên điều khoản giới hạn mức cược và tránh thời hạn ngắn, đứt đoạn là quan trọng. Cảnh giác với lựa chọn ngược: người cần tài trợ lâu thường là người thắng ít.
 - **Người làm tài chính:** chương là ví dụ dễ hiểu về ba ý lớn: (1) đa dạng hoá với tài sản độc lập làm tăng tỷ số Sharpe kể cả khi thêm tài sản kém hơn — tỷ trọng tối ưu ∝ μ/σ²; (2) phí thành tích của quỹ đầu tư (ví dụ 20% lãi, không chịu lỗ) là quyền chọn mua mà nhà đầu tư bán cho nhà quản lý, và giá trị của nó tăng theo biến động — tức nhà quản lý có động cơ tăng rủi ro, đặc biệt khi đang dưới ngưỡng nước cao gần kỳ tính phí, đúng như ví dụ QQ đấu AA; (3) cơ cấu phí lũy tiến phải định giá theo lớp, và một cơ cấu "tỷ lệ cao ở bậc cao" có thể rẻ hơn nhiều so với vẻ ngoài vì xác suất đạt bậc cao thấp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 25 trên một trang: năm nhánh lớn đi theo các mục 2–8 của phần Nội dung chi tiết (tỷ số Sharpe và đa dạng hoá, hoán đổi phần trăm và chơi nhiều bàn, thoả thuận tài trợ là quyền chọn mua, ngưỡng và cơ cấu bậc kèm phần tính lại của người tổng hợp, hai vấn đề lớn của tài trợ), mỗi nhánh ghi định nghĩa, công thức và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 25: bankroll poker quản lý được như danh mục, còn thoả thuận tài trợ là một quyền chọn mua định giá được`"]
+  n1["`Mục 2 — Tỷ số Sharpe và đa dạng hoá: trộn khoản độc lập làm rủi ro giảm nhanh hơn kỳ vọng`"]
+  n0 --- n1
+  n2["`Tỷ số Sharpe S = μ/σ (25.1)#59; tối đa hoá S là tốt nhất khi khoản đầu tư co giãn vô hạn`"]
+  n1 --- n2
+  n3["`A, B độc lập, mỗi khoản kỳ vọng $10, độ lệch chuẩn $100: 100% A cho S = 0,1`"]
+  n1 --- n3
+  n4["`Chia đôi A và B: kỳ vọng vẫn $10, độ lệch chuẩn $100/√2 ≈ $70,71, S ≈ 0,14`"]
+  n3 --- n4
+  n5["`C kỳ vọng $5, độ lệch chuẩn $100, rõ ràng tệ hơn A`"]
+  n1 --- n5
+  n6["`80% A + 20% C: kỳ vọng $9, độ lệch chuẩn √(80² + 20²) = $82,46, S = 0,1091 #gt; 0,1`"]
+  n5 --- n6
+  n7["`Tối ưu (người tổng hợp tính): tỷ trọng ∝ μ/σ², tức 2/3 A + 1/3 C, S ≈ 0,1118`"]
+  n5 --- n7
+  n8["`Trộn thêm một khoản tệ hơn nhưng độc lập vẫn tăng tỷ số Sharpe`"]
+  n1 --- n8
+  n9["`Mục 3–4 — Hoán đổi phần trăm là đa dạng hoá thật, chơi xen kẽ nhiều loại trò thì không`"]
+  n0 --- n9
+  n10["`Hai người chơi giải cùng kỳ vọng 1 buy-in/giải, độ lệch chuẩn 9 và 12 buy-in`"]
+  n9 --- n10
+  n11["`Cực tiểu σ#95;P² = 81a² + 144(1 − a)²: 162a − 288(1 − a) = 0 nên a = 0,64`"]
+  n10 --- n11
+  n12["`Người thứ nhất giữ 64%, hoán đổi 36%: độ lệch chuẩn 9 xuống 7,2, S từ 0,111 lên 0,139`"]
+  n10 --- n12
+  n13["`Tổng quát s₁ = σ₁·w₂/w₁: a₁ = σ₂²/(σ₂² + s₁²) (25.2), a₂ = s₁²/(σ₂² + s₁²) (25.3)`"]
+  n9 --- n13
+  n14["`Công thức chỉ đúng khi độc lập#59; giải đấu đông người gần như không tương quan`"]
+  n13 --- n14
+  n15["`Người mạnh hơn hoán đổi ngang giá với người 0,8 buy-in vẫn tăng S từ 0,111 lên khoảng 0,130`"]
+  n9 --- n15
+  n16["`Chơi xen kẽ sit-and-go, giải nhiều bàn, limit giống giữ một cổ phiếu nửa thời gian rồi đổi: không giảm phương sai`"]
+  n9 --- n16
+  n17["`Hai bàn $10-20 cùng lúc thay vì một bàn $20-40: kỳ vọng tương tự, độ lệch chuẩn ≈ 0,71σ, S tăng khoảng 41%`"]
+  n9 --- n17
+  n18["`Mục 5 — Thoả thuận tài trợ là quyền chọn mua với giá thực hiện 0`"]
+  n0 --- n18
+  n19["`Thường gặp: người tài trợ bỏ vốn, lãi chia theo tỷ lệ định trước, lỗ người tài trợ chịu, người chơi phải bù lỗ cũ trước khi rút lãi`"]
+  n18 --- n19
+  n20["`Mẫu: thắng $40/giờ, độ lệch chuẩn $600/giờ, 100 giờ, lãi chia đôi, lỗ người tài trợ chịu hết`"]
+  n18 --- n20
+  n21["`Kết quả 100 giờ có phân phối chuẩn, w = $4.000, σ = $600 × √100 = $6.000`"]
+  n20 --- n21
+  n22["`Giá trị phần thắng = σ/√(2π)·e^(−w²/(2σ²)) + wΦ(w/σ) (25.6)`"]
+  n18 --- n22
+  n23["`Số: 2.393,65 × 0,8007 + 4.000 × Φ(2/3) = $4.906,72#59; phần thua −$906,72`"]
+  n22 --- n23
+  n24["`Người chơi nhận $2.453,36 (61,3% kỳ vọng), người tài trợ $1.546,64 (sách in $1.547,64)`"]
+  n22 --- n24
+  n25["`Lãi được chia mà lỗ không chịu nên giá trị với người chơi phụ thuộc cả vào phương sai`"]
+  n18 --- n25
+  n26["`Mục 6–7 — Ngưỡng, thương lượng và cơ cấu bậc: sách tính sai phần của người chơi`"]
+  n0 --- n26
+  n27["`Ngưỡng a (25.7): σ/√(2π)·e^(−(w − a)²/(2σ²)) + wΦ((w − a)/σ)`"]
+  n26 --- n27
+  n28["`Người tổng hợp: 25.7 là E[X·1{X #gt; a}], kỳ vọng toàn bộ kết quả khi vượt a, không phải phần vượt a`"]
+  n27 --- n28
+  n29["`Ngưỡng $1.000: $4.878,24 theo sách, $4.186,78 nếu tính phần vượt ngưỡng`"]
+  n27 --- n29
+  n30["`Đề nghị chỉ chia trên kỳ vọng $4.000: sách ra $4.393,65 nên 55,8% là ngang giá`"]
+  n26 --- n30
+  n31["`Nếu chỉ chia phần vượt $4.000, giá trị $2.393,65, cần 102,5%: không thể ngang giá`"]
+  n30 --- n31
+  n32["`Cơ cấu bậc: $20/giờ, σ $240/giờ, 100 giờ (w = $2.000, σ = $2.400), người chơi 25% tới 75% theo bậc`"]
+  n26 --- n32
+  n33["`Định nghĩa lũy tiến của sách: lãi $1.500 thì người chơi được 25% × 1.000 + 40% × 500 = $450`"]
+  n32 --- n33
+  n34["`Sách: người chơi $1.374,19 trên tổng $2.271,93, khoảng 60,4% lãi`"]
+  n32 --- n34
+  n35["`Tính đúng theo lớp E[(X − a)⁺] − E[(X − b)⁺]: $978,15, tức 43,1%`"]
+  n32 --- n35
+  n36["`Cơ cấu bậc trông hào phóng (tới 75%) có thể cho người chơi ít hơn chia đôi đơn giản`"]
+  n32 --- n36
+  n37["`Mục 8 — Hai vấn đề lớn của thoả thuận tài trợ`"]
+  n0 --- n37
+  n38["`Lệch lợi ích: gần ngày đáo hạn, người chơi còn xa ngưỡng có động cơ nhận nhiều phương sai`"]
+  n37 --- n38
+  n39["`Ván cuối thiếu $2.000 tới ngưỡng, đẩy $3.000 với QQ vào AA: người chơi được khoảng 18% phần chia của $1.000`"]
+  n38 --- n39
+  n40["`Người tổng hợp tính: người tài trợ −$1.920, người chơi (chia 50%) +$90, bỏ bài thì 0`"]
+  n39 --- n40
+  n41["`Trả lương bất kể thắng thua kèm giảm phần chia làm giảm động cơ chơi tốt, như hoa hồng hay lương ở đại lý ô tô`"]
+  n38 --- n41
+  n42["`Chia công bằng: phần bù rủi ro cho người tài trợ vì chịu toàn bộ phần thua`"]
+  n37 --- n42
+  n43["`Người chơi có thể chơi mức thấp hơn không cần tài trợ, nên đòi trả cho thời gian của mình`"]
+  n42 --- n43
+  n44["`Tỷ lệ thắng thật thấp hơn dự tính thì phần của người chơi tăng: $15 so với $20/giờ, tổng còn 3/4, quyền chọn còn 81,3%`"]
+  n42 --- n44
+  n45["`Chưa tính vỡ nợ, gian lận#59; người thắng lớn sớm không cần tài trợ, người hoà vốn cần tài trợ lâu`"]
+  n37 --- n45
+  n46["`Thông điệp xuyên suốt`"]
+  n0 --- n46
+  n47["`Công cụ tài chính chuẩn (tỷ số Sharpe, đa dạng hoá, định giá quyền chọn) áp dụng trực tiếp cho poker`"]
+  n46 --- n47
+  n48["`Hoán đổi phần trăm với người chơi độc lập là cách rẻ để giảm biến động, kể cả cho người mạnh hơn`"]
+  n46 --- n48
+  n49["`Định giá thoả thuận tài trợ như quyền chọn: E[max(X, 0)] × phần chia, tính bậc theo từng lớp`"]
+  n46 --- n49
+  n50["`Hạn chế: một kỳ, phân phối chuẩn (giải đấu lệch mạnh), tỷ lệ thắng coi như biết chắc`"]
+  n46 --- n50
+  class n0 root
+  class n1,n9,n18,n26,n37,n46 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 25 "Poker Finance: Portfolio Theory and Backing Agreements", trang 324–331.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 22–23 ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), [C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)) đo rủi ro phá sản của một bankroll; Chương 24 ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)) mượn tiêu chuẩn Kelly của tài chính để chọn mức cược.
+
+Chương 25, chương cuối của Phần IV "Rủi ro", tiếp tục mượn hai công cụ tài chính khác: lý thuyết danh mục (tỷ số Sharpe, đa dạng hoá, hoán đổi phần trăm kết quả giữa hai người chơi) và định giá quyền chọn (để định giá thoả thuận tài trợ — backing — giữa người chơi và người bỏ vốn).
+
+Chương dùng phân phối chuẩn và hàm phân phối chuẩn tích luỹ Φ như ở Chương 3 ([C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)) và Chương 23. Phần V ([C26-giai-dau-phan-1-nhan-doi.md](C26-giai-dau-phan-1-nhan-doi.md)) chuyển sang giải đấu, nơi hoán đổi phần trăm (swap) và tài trợ đặc biệt phổ biến.
+
+## Lưu ý
+
+- **Định giá cơ cấu chia lãi theo bậc mâu thuẫn với định nghĩa của chính sách (trang 329–330; người tổng hợp tính lại):** sách định nghĩa rõ: "nếu kết quả là $1.500, người chơi nhận 25% của $1.000 đầu và 40% phần còn lại, tức $450" — tức chia theo *lớp lũy tiến* (giống thuế thu nhập). Nhưng "giá trị bậc" sách tính bằng hiệu hai giá trị của công thức 25.7, tức E[X; a < X < b] — kỳ vọng của *toàn bộ* kết quả X khi X rơi vào bậc — rồi nhân với tỷ lệ của bậc. Cách đó ngầm cho người chơi nhận tỷ lệ của bậc trên *toàn bộ* kết quả (với $1.500 sẽ là 40% × $1.500 = $600, không phải $450).
+
+  Định giá đúng theo cơ cấu lũy tiến dùng các lớp E[(X − a)⁺] − E[(X − b)⁺]: giá trị các lớp là $732,54; $581,93; $418,07; $267,46; $224,35; $47,58 (tổng vẫn $2.271,93), giá trị cho người chơi là $183,13 + $232,77 + $209,03 + $160,48 + $157,04 + $35,69 = **$978,15**, tức **43,1%** lợi nhuận dương, không phải $1.374,19 và 60,4% như sách. Đây là khác biệt lớn khi thương lượng.
+- **Cùng vấn đề ở công thức 25.7 và ví dụ thương lượng (trang 328–329):** công thức 25.7, σ/√(2π)·e^(−(w − a)²/(2σ²)) + wΦ((w − a)/σ), là E[X·1{X > a}]: kỳ vọng của toàn bộ kết quả trong những trường hợp kết quả vượt a. Nó đúng cho một thoả thuận kiểu "vượt ngưỡng a thì người chơi được chia trên toàn bộ kết quả", không đúng cho "người chơi được chia phần vượt a" như lời văn ("người chơi chỉ được chia khi vượt kỳ vọng… phần lợi nhuận *trên* kỳ vọng").
+
+  Với ngưỡng $4.000: theo cách hiểu thứ nhất, giá trị là $4.393,65 và 55,8% cho ngang giá (khớp sách); theo cách hiểu thứ hai, giá trị phần vượt là E[(X − 4.000)⁺] = $4.393,65 − 4.000 × 0,5 = $2.393,65, và để ngang $2.453,36 người chơi cần **102,5%** phần vượt — tức đề nghị đó không bao giờ ngang giá được. Tương tự, ngưỡng $1.000 cho $4.878,24 theo cách hiểu thứ nhất và $4.186,78 theo cách hiểu thứ hai.
+- **Số in sai nhỏ:** phần của người tài trợ ở ví dụ đầu là $4.000 − $2.453,36 = **$1.546,64**, sách in $1.547,64. Giá trị bậc $4.000–$6.000 là **$746,92** (sách in $746,02; cột "giá trị cho người chơi" $522,84 = 70% × $746,92 cho thấy sách đã dùng đúng $746,92). Nhãn bậc cuối in "$60000+" (đúng: $6.000+), "S17.75" và "S4000" (chữ S thay $).
+- **Đạo hàm ở phép dẫn tổng quát (trang 325):** sách viết "0 = 2a₁s₁² − 2(1 − a₁)²(σ₂²)"; đạo hàm đúng của (1 − a₁)²σ₂² theo a₁ là −2(1 − a₁)σ₂² (không có bình phương). Dòng tiếp theo và kết quả 25.2 của sách đúng.
+- **Ký hiệu không thống nhất:** ở ví dụ hoán đổi, sách dùng cả α và a cho cùng tỷ lệ giữ lại; ở ví dụ bậc, sách viết "Z(5/6)", "Z(5/12)" thay cho Φ(5/6), Φ(5/12). Phép thế ở trang 327 viết "du = −(x − w)" thiếu dx. Sách gọi $6.000 là "standard error" của kết quả 100 giờ; đúng hơn là độ lệch chuẩn của tổng kết quả 100 giờ ($600 × √100).
+- **Tỷ số Sharpe được đơn giản hoá (nhận xét của người tổng hợp):** trong tài chính, tỷ số Sharpe là (lợi nhuận kỳ vọng − lãi suất phi rủi ro)/độ lệch chuẩn; sách bỏ lãi suất phi rủi ro (hợp lý với poker, nơi μ đã là lợi nhuận ròng). Câu "tối đa hoá tỷ số Sharpe cho lợi nhuận điều chỉnh rủi ro tốt nhất khi khoản đầu tư co giãn vô hạn" là đúng theo lý thuyết danh mục cổ điển (trộn danh mục Sharpe cao nhất với tiền mặt hoặc vay).
+- **Các phép tính đã kiểm tra khớp sách:** 100/√2 = 70,71, Sharpe 0,1414; √(80² + 20²) = 82,46, Sharpe 9/82,46 = 0,1091; a = 288/450 = 0,64; e^(−0,2222) và tổng $4.906,72; phần thua −$906,72; tỷ lệ 2.453,36/4.000 = 61,3%; $4.878,24; $4.393,65; 55,8%; $2.271,93; $2.200,93; hiệu $71,00; tổng $1.374,19 và 60,5% (sách làm tròn 60,4%); tỷ lệ 81,3% ở ví dụ bất định.
+- **Lỗi chính tả và OCR:** "hi this chapter" ("In"), "then separately" ("than"), "particular'" , "hi general", "arc at the core" ("are"), "hi this fair division" ("in"), "100 hours of player" ("play").
+- **Quy ước thuật ngữ:** "backing agreement" dịch là "thoả thuận tài trợ", "backer" là "người tài trợ" (người bỏ vốn), "swap" là "hoán đổi phần trăm kết quả"; "option" là "quyền chọn", "call option" là "quyền chọn mua", "strike price" là "giá thực hiện", "expiry date" là "ngày đáo hạn"; "Sharpe ratio" là "tỷ số Sharpe"; "risk premium" là "phần bù rủi ro"; "at par" là "ngang giá" (đổi một phần trăm của mình lấy đúng một phần trăm của người kia).

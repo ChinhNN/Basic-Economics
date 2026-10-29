@@ -1,21 +1,16 @@
 # Chương 8 — Chơi chính xác, phần II: một tay bài đấu với một phân phối (Playing Accurately, Part II: Hand vs. Distribution)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 8 "Playing Accurately, Part II: Hand vs. Distribution", trang 89–97.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 7 ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md)) đã luyện bước hai của chơi khai thác — chọn hành động có kỳ vọng cao nhất — trong trường hợp đơn giản nhất là hai bên lật ngửa bài. Chương 8 bỏ bớt một giả định: chỉ bài của ta được biết, còn đối thủ cầm một phân phối bài (distribution) với chiến lược chơi đã ước lượng được cho từng tay bài trong phân phối. Cách làm là tính kỳ vọng của mỗi phương án trước từng loại tay bài, rồi lấy trung bình có trọng số theo xác suất đã điều chỉnh bằng định lý Bayes (Chương 3, [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)). Ví dụ 8.3 quay lại ván stud tám-hoặc-tốt-hơn của Ví dụ 5.1 ở Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)), nơi phân phối bài của đối thủ đã được thu hẹp bằng suy luận Bayes. Chương này vẫn giả định đối thủ không đổi chiến lược; Chương 9 ([C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) xét phân phối đấu với phân phối và việc hai bên cùng thích nghi, dẫn sang chiến lược tối ưu ở Phần III ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)). Tình huống "button mở rộng, blind lớn jam" của Ví dụ 8.1 được phân tích có hệ thống trong trò chơi jam-or-fold ở Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)).
+## Ý chính
 
-**Ý chính:** **Khi đối thủ cầm một phân phối bài mà ta ước lượng được cách họ chơi từng tay bài, ta tìm cách chơi khai thác bằng cách tính kỳ vọng của từng chiến lược ứng viên trước từng loại tay bài rồi lấy trung bình có trọng số; cách này thường tìm ra lỗ hổng trong chiến lược của đối thủ và cho kết luận trái với "cách chơi tự động".** Phần mở đầu định nghĩa hai thành phần của kỳ vọng sau một lần call: equity showdown (kỳ vọng nếu dừng cược và chia hết bài ngay) và equity ngoài showdown (ex-showdown equity, kỳ vọng từ các vòng cược sau), có thể trái dấu nhau. Ví dụ 8.1 (no-limit $5–$10, stack $200): button mở $30 với 350 trên 1.326 tổ hợp bài nhưng chỉ call jam với 40 tổ hợp (AA–JJ, AK), nên blind lớn jam với bất kỳ hai lá nào được $29,69 (với 3♦ 2♣ vẫn được $28,24); muốn call tốt bằng jam, blind lớn phải có hơn 76,45% pot sau flop khi ở thế bất lợi vị trí — điều không thể. Với AA, jam được $56,16 và call chỉ tốt hơn nếu được hơn 117% pot. Ví dụ 8.2 (limit hold'em): 99 gặp re-raise từ phân phối AA–TT, AK, AQs, flop A-7-2; trực giác bảo check-fold (kỳ vọng 0), nhưng check-raise flop rồi bet turn được 3,71 small bet, vì đối thủ fold KK–TT (4/7 phân phối) trước sự hung hăng. Ví dụ 8.3 (stud tám-hoặc-tốt-hơn): bet ở lá thứ sáu tốt hơn check $24 trước Q♣Qx hoặc J♣Jx và $10 trước QxQy hoặc JxJy, nhưng kém $48 trước thùng đã thành X♣Y♣; lấy trung bình theo xác suất 1/16, 5/16, 4/16, 6/16, bet kém check khoảng $8 mỗi ván.
+**Khi đối thủ cầm một phân phối bài mà ta ước lượng được cách họ chơi từng tay bài, ta tìm cách chơi khai thác bằng cách tính kỳ vọng của từng chiến lược ứng viên trước từng loại tay bài rồi lấy trung bình có trọng số; cách này thường tìm ra lỗ hổng trong chiến lược của đối thủ và cho kết luận trái với "cách chơi tự động".**
 
-> **Lưu ý:**
-> - **Ví dụ 8.3, công thức check trước X♣Y♣ in sai:** sách viết ⟨check⟩ = (0,13)($345 + $240) − $180 = $43,95. Biểu thức như in cho 76,05 − 180 = −$103,95. Đúng phải là (0,13)($585) − **$120** = 76,05 − 120 = **−$43,95**: khi check, ta call một cược $60 ở lá thứ sáu và một cược $60 ở lá thứ bảy, tổng chi phí $120 (pot thêm $240). Chính sách dùng −$43,95 ở bước lấy trung bình, nên kết quả −$47,73 đúng.
-> - **Ví dụ 8.3, nhãn xác suất bị đảo:** dòng lấy trung bình viết ⟨bet⟩ = p(không trúng lá để call) × … + p(trúng lá để call) × …, nhưng con số đi kèm là 26/34 cho trường hợp trúng (−$88,35) và 8/34 cho trường hợp trượt (−$120). Con số đúng, nhãn bị đảo.
-> - **Ví dụ 8.3, các số "−1, −3, −3, −2, −1, −6" sau tên tay bài là trọng số, không phải số âm:** lớp chữ và cả ảnh trang in dấu gạch nối như dấu trừ. Đó là số tổ hợp tương đối của từng loại tay bài (AA: 1, Q♣Qx: 3, QxQy: 3, J♣Jx: 2, JxJy: 1, X♣Y♣: 6; tổng 16), khớp với cột xác suất 1/16, 5/16, 4/16, 6/16 của bảng tổng kết. Bảng tổng kết in "+1$0" là "+$10".
-> - **Ví dụ 8.2, chiến lược 2 trước KK–QQ:** sách ghi −3 small bet nhưng không giải thích. Theo bảng chiến lược turn của đối thủ, sau khi ta check-call flop và check ở turn, KK/QQ check theo; nếu ta bỏ cuộc ngay thì chỉ mất 1 small bet (cược flop). Con số −3 ngụ ý ta mất thêm một big bet (2 small bet) ở river, ví dụ ta bet river và bị call (nhận xét của người tổng hợp). Nếu dùng −1, kỳ vọng chiến lược 2 là (3/7)(−5) + (2/7)(10,5) + (2/7)(−1) = 0,57 thay vì 0; kết luận chiến lược 3 tốt nhất không đổi.
-> - **Ví dụ 8.2, bảng chiến lược turn không có dòng cho trường hợp ta bet flop (chiến lược 4):** sách chỉ cho hai dòng (ta check-raise flop; ta check-call flop). Kết quả của chiến lược 4 (+8,5 trước JJ/TT, −3 trước mọi tay khác) ngụ ý rằng sau khi ta bet flop và bị call, JJ/TT fold trước cược turn còn AA, KK, QQ, AK, AQs tiếp tục; sách không nói rõ.
-> - **Ví dụ 8.1, số nhỏ:** sách ghi điều kiện call với AA là x > "117,20%"; tính đúng là (56,16 + 20)/65 = 117,17%. Câu "người này raise 25% số tay bài" là làm tròn của 350/1.326 = 26,4%. Câu "đặt khoảng 4 pot để thắng 1" là 190/45 = 4,2; "nếu họ call ít hơn một phần năm số lần thì jam có lời ngay" đúng: jam không có equity hòa vốn khi đối thủ fold 190/(190 + 45) = 80,9% số lần, tức call dưới 19,1%; ở đây họ call 40/350 = 11,4%.
-> - **Kiểm tra equity bằng mô phỏng (người tổng hợp):** ba con số equity của Ví dụ 8.1 là dữ liệu đầu vào sách lấy từ phần mềm tính equity. Người tổng hợp mô phỏng 150.000 ván cho mỗi trường hợp (sai số chuẩn khoảng 0,1 điểm phần trăm) và được: tay ngẫu nhiên trước {AA–JJ, AK} khoảng 24,9% (sách 24,95%); 3–2 khác chất khoảng 21,7% (sách 21,81%); AA trước phân phối call đã điều chỉnh khoảng 83,2% (sách 83,43%). Các số của sách khớp trong phạm vi sai số mô phỏng.
-> - **Lỗi chữ của bản PDF:** "ex-sbowdown" là "ex-showdown"; "chance of whining" là "winning"; "Oher" là "Other"; "titan half" là "than half"; "rattier than" là "rather than"; "hi all likelihood" là "in all likelihood"; "it's dear that" là "it's clear that"; "cither" là "either".
-> - **Quy ước:** trong Ví dụ 8.2 đơn vị là small bet (mức cược nhỏ của limit hold'em; ở turn và river mỗi cược bằng 2 small bet). Kỳ vọng tính theo quy ước như Chương 7: phần pot nhận được trừ số tiền bỏ thêm từ thời điểm quyết định.
+Phần mở đầu định nghĩa hai thành phần của kỳ vọng sau một lần call: equity showdown (kỳ vọng nếu dừng cược và chia hết bài ngay) và equity ngoài showdown (ex-showdown equity, kỳ vọng từ các vòng cược sau), có thể trái dấu nhau.
+
+Ví dụ 8.1 (no-limit $5–$10, stack $200): button mở $30 với 350 trên 1.326 tổ hợp bài nhưng chỉ call jam với 40 tổ hợp (AA–JJ, AK), nên blind lớn jam với bất kỳ hai lá nào được $29,69 (với 3♦ 2♣ vẫn được $28,24). Muốn call tốt bằng jam, blind lớn phải có hơn 76,45% pot sau flop khi ở thế bất lợi vị trí — điều không thể. Với AA, jam được $56,16 và call chỉ tốt hơn nếu được hơn 117% pot.
+
+Ví dụ 8.2 (limit hold'em): 99 gặp re-raise từ phân phối AA–TT, AK, AQs, flop A-7-2; trực giác bảo check-fold (kỳ vọng 0), nhưng check-raise flop rồi bet turn được 3,71 small bet, vì đối thủ fold KK–TT (4/7 phân phối) trước sự hung hăng.
+
+Ví dụ 8.3 (stud tám-hoặc-tốt-hơn): bet ở lá thứ sáu tốt hơn check $24 trước Q♣Qx hoặc J♣Jx và $10 trước QxQy hoặc JxJy, nhưng kém $48 trước thùng đã thành X♣Y♣; lấy trung bình theo xác suất 1/16, 5/16, 4/16, 6/16, bet kém check khoảng $8 mỗi ván.
 
 ## Sơ đồ
 
@@ -174,7 +169,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao chọn hành động khi đối thủ cầm một phân phối bài?** Đếm số tổ hợp của từng loại tay bài trong phân phối (điều chỉnh theo bài ta cầm và bài đã lộ — hiệu ứng loại bỏ lá bài, card removal), xác định đối thủ sẽ chơi mỗi loại thế nào, tính kỳ vọng của từng chiến lược ứng viên trước mỗi loại, rồi lấy trung bình có trọng số. Ở Ví dụ 8.2, phân phối 42 tổ hợp được nhóm thành 3/7 (AA, AK, AQs), 2/7 (KK, QQ), 2/7 (JJ, TT); check-raise flop rồi bet turn được (3/7)(−4) + (4/7)(9,5) = 3,71 small bet. Ở Ví dụ 8.3, trung bình các chênh lệch +$24, +$10, −$48, 0 theo xác suất 5/16, 4/16, 6/16, 1/16 cho bet kém check $8.
+1. **Làm sao chọn hành động khi đối thủ cầm một phân phối bài?** Đếm số tổ hợp của từng loại tay bài trong phân phối (điều chỉnh theo bài ta cầm và bài đã lộ — hiệu ứng loại bỏ lá bài, card removal), xác định đối thủ sẽ chơi mỗi loại thế nào, tính kỳ vọng của từng chiến lược ứng viên trước mỗi loại, rồi lấy trung bình có trọng số.
+
+   Ở Ví dụ 8.2, phân phối 42 tổ hợp được nhóm thành 3/7 (AA, AK, AQs), 2/7 (KK, QQ), 2/7 (JJ, TT); check-raise flop rồi bet turn được (3/7)(−4) + (4/7)(9,5) = 3,71 small bet. Ở Ví dụ 8.3, trung bình các chênh lệch +$24, +$10, −$48, 0 theo xác suất 5/16, 4/16, 6/16, 1/16 cho bet kém check $8.
 2. **Lỗ hổng nào trong chiến lược của đối thủ thường bị khai thác?** Sự mất cân đối giữa số tay bài dùng để hành động mạnh và số tay bài chịu được phản đòn. Ở Ví dụ 8.1, button raise 350 tổ hợp nhưng chỉ call jam với 40, nên jam với mọi hai lá được ít nhất khoảng $28; ở Ví dụ 8.2, người re-raise trước flop fold KK–TT trước chỉ bốn small bet hung hăng sau flop có lá A. Cách vá là thu hẹp phân phối hành động mạnh hoặc mở rộng phân phối chịu phản đòn.
 3. **Equity showdown và equity ngoài showdown khác nhau thế nào?** Equity showdown là kỳ vọng nếu dừng cược và chia hết bài ngay; equity ngoài showdown là kỳ vọng do các vòng cược sau đem lại (phụ thuộc vị trí, trình độ, hình dạng phân phối). Hai thứ có thể trái dấu: draw rất yếu gặp cược có equity showdown dương nhưng phải fold, nên equity ngoài showdown âm đúng bằng nó và tổng bằng 0. Khi so sánh "call" với "raise tiếp" trước flop, cần tính cả hai; ví dụ AA có thể có hơn 100% pot nếu cược sau flop đem lại thêm tiền.
 
@@ -199,7 +196,9 @@
 
 ### 1. Mở đầu chương: một tay bài đấu với một phân phối (trang 89)
 
-Bài giấu kín làm cho trò chơi hay hơn nhiều; vì thế các trò poker có thông tin ẩn mới phổ biến. Chương này xét các tình huống trong đó chỉ một tay bài được lộ, còn tay bài kia là một phân phối nào đó. Trong các trường hợp này, có thể dùng các kỹ thuật kỳ vọng đã bàn để tìm cách chơi tốt nhất, nếu ta mô tả chính xác được chiến lược của đối thủ. Tạm thời tác giả không quan tâm tới việc đối thủ thay đổi chiến lược, mà giả định ta ước lượng được một cách đáng tin cậy đối thủ sẽ chơi từng tay bài thế nào. Ý tưởng người chơi điều chỉnh chiến lược, và giá trị của cả phân phối thay đổi theo các chiến lược khác nhau với từng tay bài, sẽ được bàn kỹ ở các chương sau.
+Bài giấu kín làm cho trò chơi hay hơn nhiều; vì thế các trò poker có thông tin ẩn mới phổ biến. Chương này xét các tình huống trong đó chỉ một tay bài được lộ, còn tay bài kia là một phân phối nào đó. Trong các trường hợp này, có thể dùng các kỹ thuật kỳ vọng đã bàn để tìm cách chơi tốt nhất, nếu ta mô tả chính xác được chiến lược của đối thủ.
+
+Tạm thời tác giả không quan tâm tới việc đối thủ thay đổi chiến lược, mà giả định ta ước lượng được một cách đáng tin cậy đối thủ sẽ chơi từng tay bài thế nào. Ý tưởng người chơi điều chỉnh chiến lược, và giá trị của cả phân phối thay đổi theo các chiến lược khác nhau với từng tay bài, sẽ được bàn kỹ ở các chương sau.
 
 ### 2. Equity showdown và equity ngoài showdown (trang 89–90)
 
@@ -366,7 +365,7 @@ Gộp lại: {AA, AK, AQs} = 18/42 = 3/7; {KK, QQ} = 12/42 = 2/7; {JJ, TT} = 12/
 
 - Trước AA, AK, AQs: −5 (call 1 ở flop; ở turn họ bet, ta raise lên 4, họ reraise hoặc call, ta bỏ cuộc: tổng 1 + 4).
 - Trước JJ–TT: +10,5 (họ bet turn, ta raise, họ fold; ta giành 7,5 trong pot, 1 họ bet ở flop, 2 họ bet ở turn).
-- Trước KK–QQ: −3 (sách không giải thích; xem Lưu ý).
+- Trước KK–QQ: −3 (sách không giải thích; xem mục Lưu ý cuối chương).
 
 ⟨chiến lược 2⟩ = p({AA, AK, AQs})(−5) + p({JJ, TT})(10,5) + p({KK, QQ})(−3) = (3/7)(−5) + (2/7)(10,5) + (2/7)(−3) = (−15 + 21 − 6)/7 = **0**.
 
@@ -395,7 +394,9 @@ Gộp lại: {AA, AK, AQs} = 18/42 = 3/7; {KK, QQ} = 12/42 = 2/7; {JJ, TT} = 12/
 
 Thú vị là giải pháp trực giác tức thời có vẻ có kỳ vọng tệ nhất trong các khả năng này (ngang chiến lược 2). Người thắng rõ ràng là check-raise flop rồi bet turn, với giá trị (trước chiến lược này của đối thủ) gần 4 small bet. Trước một đối thủ chơi như vậy, check-fold ở flop là một sai lầm khổng lồ; ta biết điều đó vì đã tính equity.
 
-Trực giác giải thích: người re-raise đã làm pot thành sáu cược trước flop. Nhưng sau flop, khi lá A ra, họ fold hơn một nửa số tay bài (4/7) trước chỉ bốn small bet hung hăng. Người raise ban đầu đặt bốn small bet để thắng sáu, và người re-raise fold hơn một nửa số lần. (Kiểm tra của người tổng hợp: một bluff đặt 4 để giành khoảng 9,5 hòa vốn khi đối thủ fold 4/13,5 = 30% số lần; ở đây họ fold 57%.) Điều đã xảy ra là một flop thoạt nhìn có vẻ xấu cho đôi 9 (và sẽ xấu thật nếu bài lật ngửa) thực ra là flop tốt **vì hình dạng phân phối bài của người re-raise và cách họ chơi các tay bài đó**. Nếu người re-raise muốn ngăn kiểu khai thác này, họ phải call tới cùng với các tay như KK và QQ thay vì fold.
+Trực giác giải thích: người re-raise đã làm pot thành sáu cược trước flop. Nhưng sau flop, khi lá A ra, họ fold hơn một nửa số tay bài (4/7) trước chỉ bốn small bet hung hăng. Người raise ban đầu đặt bốn small bet để thắng sáu, và người re-raise fold hơn một nửa số lần. (Kiểm tra của người tổng hợp: một bluff đặt 4 để giành khoảng 9,5 hòa vốn khi đối thủ fold 4/13,5 = 30% số lần; ở đây họ fold 57%.)
+
+Điều đã xảy ra là một flop thoạt nhìn có vẻ xấu cho đôi 9 (và sẽ xấu thật nếu bài lật ngửa) thực ra là flop tốt **vì hình dạng phân phối bài của người re-raise và cách họ chơi các tay bài đó**. Nếu người re-raise muốn ngăn kiểu khai thác này, họ phải call tới cùng với các tay như KK và QQ thay vì fold.
 
 ### 6. Ví dụ 8.3 — Nhìn lại ván stud tám-hoặc-tốt-hơn của Ví dụ 5.1 (Example 8.3, trang 94–97)
 
@@ -455,7 +456,7 @@ Trường hợp này, nếu bet ta gặp khó. Đối thủ có thùng đã thà
 Ta có khoảng 13% equity trước các tay bài của đối thủ khi trúng lá để call. Các lá để call là hai lá A, ba lá mỗi hạng từ 2 tới 8, và ba lá J (2 + 7 × 3 + 3 = 26 lá). Ta fold khi ra hai lá 10, hai lá K và bốn lá Q (8 lá). Vậy 26/34 số lần:
 
 - ⟨bet⟩ = 0,13 × ($345 + $360) − $180 = 91,65 − 180 = **−$88,35** (mỗi bên hai cược $60 ở lá thứ sáu và một cược $60 ở lá thứ bảy: pot thêm $360, ta bỏ $180).
-- ⟨check⟩ = 0,13 × ($345 + $240) − $120 = 76,05 − 120 = **−$43,95** (mỗi bên một cược ở lá thứ sáu và một ở lá thứ bảy: pot thêm $240, ta bỏ $120; sách in sai, xem Lưu ý).
+- ⟨check⟩ = 0,13 × ($345 + $240) − $120 = 76,05 − 120 = **−$43,95** (mỗi bên một cược ở lá thứ sáu và một ở lá thứ bảy: pot thêm $240, ta bỏ $120; sách in sai, xem mục Lưu ý cuối chương).
 
 8/34 số lần còn lại (trượt hoàn toàn):
 
@@ -481,7 +482,9 @@ Bet kém check khoảng **$48** trước tay bài này.
 
 Vậy theo phân tích này, bet thực ra kém check khoảng $8 mỗi ván ở tình huống này! Có thể thêm các tay bài vào nhóm "mất trí" (đối thủ re-raise với tay vô lý); với phần lớn các tay đó, bet tốt hơn check. Nhưng mọi phân phối hợp lý vẫn cho kết luận rằng cú bet "tự động" mà nhiều người chơi sẽ làm thực ra kém hơn chiến lược check. (Người tổng hợp tính: muốn bet hòa với check, nhóm thùng X♣Y♣ phải giảm sao cho 48 × p = 7,5 + 2,5 khi các nhóm khác giữ nguyên, tức trọng số thùng phải giảm từ 6 xuống khoảng 3,3 trên 16.)
 
-Ví dụ này có nhiều giả định xuyên suốt. Người đọc có thể không đồng ý với cách tác giả mô tả cách người chơi sẽ chơi, các kết quả có thể kỳ vọng, v.v. Điểm chính không phải là tranh cãi về cách chơi một ván stud tám-hoặc-tốt-hơn cụ thể. Ví dụ được trình bày trước dưới chủ đề đọc bài (Chương 5) để cho thấy khung Bayes theo đó một ván bài diễn ra: thêm đúng cách từng mẩu thông tin mới lộ ra trong ván bài, suy luận đúng dựa trên các vòng đã qua và dự báo hành động ở các vòng sau có thể cung cấp thông tin. Chương này tiếp tục ví dụ dưới chủ đề chơi chính xác, dùng thông tin đó để phân tích kỳ vọng đúng cho tay bài của ta trước phân phối đã giả định của đối thủ.
+Ví dụ này có nhiều giả định xuyên suốt. Người đọc có thể không đồng ý với cách tác giả mô tả cách người chơi sẽ chơi, các kết quả có thể kỳ vọng, v.v.
+
+Điểm chính không phải là tranh cãi về cách chơi một ván stud tám-hoặc-tốt-hơn cụ thể. Ví dụ được trình bày trước dưới chủ đề đọc bài (Chương 5) để cho thấy khung Bayes theo đó một ván bài diễn ra: thêm đúng cách từng mẩu thông tin mới lộ ra trong ván bài, suy luận đúng dựa trên các vòng đã qua và dự báo hành động ở các vòng sau có thể cung cấp thông tin. Chương này tiếp tục ví dụ dưới chủ đề chơi chính xác, dùng thông tin đó để phân tích kỳ vọng đúng cho tay bài của ta trước phân phối đã giả định của đối thủ.
 
 ### 7. Các ý then chốt (Key Concepts, trang 97)
 
@@ -650,3 +653,157 @@ Chương chuyển phương pháp của Chương 7 sang poker thật một cách 
 - **Người chơi poker:** với mỗi đối thủ quen, hãy ước lượng hai con số: tỷ lệ tay bài họ mở hoặc raise, và tỷ lệ tay bài họ chịu được phản đòn. Khoảng cách lớn giữa hai con số là cơ hội re-raise hoặc bluff. Trên flop trông xấu, hãy hỏi: "Phân phối của họ có bao nhiêu phần sẽ bỏ cuộc trước sự hung hăng?"
 - **Người làm tài chính và đầu tư:** cách tính "trung bình kỳ vọng theo các kịch bản có xác suất" là cùng logic với phân tích kịch bản trong định giá: một quyết định có lời ở phần lớn kịch bản vẫn có thể sai nếu nó lỗ nặng ở một kịch bản đủ xác suất (Ví dụ 8.3). Câu tính nhẩm "mạo hiểm B để được P thì cần xác suất thành công hơn B/(B + P)" áp dụng cho mọi quyết định nhị phân có lợi nhuận và rủi ro bất đối xứng, như đặt lệnh dừng lỗ hay chào mua với điều kiện.
 - **Người ra quyết định nói chung:** đánh giá một tình huống không chỉ theo vị thế của mình mà theo cách bên kia sẽ phản ứng với từng khả năng họ đang có; điểm yếu thường nằm ở chỗ họ cam kết rộng nhưng không bảo vệ được cam kết đó.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (một tay bài đấu phân phối và hai thành phần equity, Ví dụ 8.1 jam từ blind lớn, Ví dụ 8.2 đôi 99 trên flop A-7-2, Ví dụ 8.3 stud tám-hoặc-tốt-hơn, phương pháp chung và giới hạn), mỗi nhánh ghi định nghĩa, công thức kỳ vọng và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: trước một phân phối bài, chọn hành động có kỳ vọng trung bình cao nhất theo xác suất Bayes của từng loại tay bài`"]
+  n1["`Mục 1–3 — Đối thủ cầm một phân phối: tính kỳ vọng từng phương án`"]
+  n0 --- n1
+  n2["`Chỉ bài ta được biết#59; đối thủ cầm phân phối bài, giả định ta ước lượng được cách họ chơi từng tay`"]
+  n1 --- n2
+  n3["`Equity showdown: kỳ vọng nếu dừng cược ngay và chia hết bài`"]
+  n1 --- n3
+  n4["`Equity ngoài showdown (ex-showdown): kỳ vọng từ các vòng cược sau, ngoài pot hiện có`"]
+  n1 --- n4
+  n5["`Hai thành phần có thể trái dấu: draw rất yếu gặp cược có showdown dương, ngoài showdown âm bằng nó, tổng 0`"]
+  n4 --- n5
+  n6["`Hai bên ngang nhau: equity showdown bằng nhau, người có button hơn nhờ vị trí`"]
+  n4 --- n6
+  n7["`AA ở button trước blind lớn giỏi (limit) có thể đáng 4–5 small bet ngoài showdown`"]
+  n4 --- n7
+  n8["`Phân phối mạnh [AA, KK, QQ, AK] có lợi thế ngoài showdown nhỏ hơn khi cầm cùng tay trong phân phối rộng`"]
+  n1 --- n8
+  n9["`X% pot sau khi call: all-in trước flop thì là equity showdown, nếu không thì tính cả cược về sau`"]
+  n1 --- n9
+  n10["`Khai thác đơn giản: đối thủ bluff nhiều ở river thì call thêm, fold nhiều thì bluff tay yếu`"]
+  n1 --- n10
+  n11["`Mục 4 — Ví dụ 8.1: blind lớn jam trước button mở rộng`"]
+  n0 --- n11
+  n12["`No-limit $5–$10, stack $200#59; button mở $30, pot $45, ta còn $190 sau blind`"]
+  n11 --- n12
+  n13["`Button raise 350/1.326 tổ hợp (26,4%) nhưng chỉ call jam với AA–JJ, AK: 40 tổ hợp`"]
+  n11 --- n13
+  n14["`Jam mọi tay: button fold 310/350 = 88,57%#59; tay ngẫu nhiên vẫn có 24,95% khi bị call`"]
+  n11 --- n14
+  n15["`⟨jam⟩ = 0,8857 × 45 + 0,1143 × (0,2495 × 405 − 190) = $29,69`"]
+  n14 --- n15
+  n16["`Với 3–2 khác chất (21,81%): ⟨jam⟩ = $28,24`"]
+  n14 --- n16
+  n17["`Call $20 vào pot $65 chỉ tốt bằng jam nếu có hơn 76,45% pot — không thể khi bất lợi vị trí`"]
+  n11 --- n17
+  n18["`Cầm AA (Bayes bỏ hai lá A): button raise 249, call 27, ta có 83,43%, ⟨jam⟩ = $56,16`"]
+  n11 --- n18
+  n19["`Call với AA chỉ tốt hơn nếu có hơn 117,2% pot — trường hợp tốt nhất cho call`"]
+  n18 --- n19
+  n20["`Lỗ hổng: raise rộng nhưng chịu re-raise quá ít#59; vá bằng raise chặt hơn hoặc call jam rộng hơn`"]
+  n11 --- n20
+  n21["`Tính nhẩm: jam đặt khoảng 4 pot để thắng 1, họ call dưới 1/5 số lần là có lời ngay (thực tế 11,4%)`"]
+  n11 --- n21
+  n22["`Mục 5 — Ví dụ 8.2: 99 gặp re-raise, flop A-7-2`"]
+  n0 --- n22
+  n23["`Limit hold'em: 99 raise ở vị trí đầu, đối thủ re-raise với AA–TT, AK, AQs#59; pot 7,5 small bet`"]
+  n22 --- n23
+  n24["`Sau khi biết 99 và flop: 42 tổ hợp, {AA, AK, AQs} 3/7, {KK, QQ} 2/7, {JJ, TT} 2/7`"]
+  n22 --- n24
+  n25["`Trực giác: 99 không bao giờ dẫn, chỉ 2 outs, nên check-fold với kỳ vọng 0`"]
+  n22 --- n25
+  n26["`Bốn chiến lược (small bet)`"]
+  n22 --- n26
+  n27["`Check-fold flop: 0`"]
+  n26 --- n27
+  n28["`Check-call flop, check-raise turn: (3/7)(−5) + (2/7)(10,5) + (2/7)(−3) = 0`"]
+  n26 --- n28
+  n29["`Check-raise flop, bet turn: (3/7)(−4) + (4/7)(9,5) = 3,71`"]
+  n26 --- n29
+  n30["`Bet flop, bet turn: (5/7)(−3) + (2/7)(8,5) = 0,29`"]
+  n26 --- n30
+  n31["`Then chốt: sau check-raise flop và bet turn, KK, QQ, JJ, TT đều fold — 4/7 phân phối`"]
+  n22 --- n31
+  n32["`Bỏ 4 small bet để giành khoảng 9,5#59; hòa vốn khi đối thủ fold 30%, thực tế fold 57%`"]
+  n22 --- n32
+  n33["`Flop trông xấu lại tốt vì hình dạng phân phối người re-raise#59; muốn vá, KK và QQ phải call tới cùng`"]
+  n22 --- n33
+  n34["`Mục 6 — Ví dụ 8.3: stud tám-hoặc-tốt-hơn, bet hay check ở lá thứ sáu`"]
+  n0 --- n34
+  n35["`Ta có đôi A và draw low A-4-5-8#59; đối thủ ba lá chuồn ngửa#59; pot $345, cược $30–$60`"]
+  n34 --- n35
+  n36["`Phân phối đối thủ (trọng số/16): AA 1, Q♣Qx 3, QxQy 3, J♣Jx 2, JxJy 1, thùng X♣Y♣ 6`"]
+  n34 --- n36
+  n37["`Chỉ cần so chênh lệch ⟨bet⟩ − ⟨check⟩, không cần kỳ vọng tuyệt đối`"]
+  n34 --- n37
+  n38["`Trước AA: bet hay check đều đưa một cược vào pot, chênh 0`"]
+  n34 --- n38
+  n39["`Trước Q♣Qx, J♣Jx: ta có khoảng 70%, bet $265,50 so với check $241,50, hơn $24`"]
+  n34 --- n39
+  n40["`Trước QxQy, JxJy: bet thì đối thủ fold, lấy $345#59; check được $335,25#59; hơn khoảng $10`"]
+  n34 --- n40
+  n41["`Trước thùng X♣Y♣: bet bị raise#59; ⟨bet⟩ −$95,80, ⟨check⟩ −$47,73, bet kém $48`"]
+  n34 --- n41
+  n42["`Trúng lá để call 26/34 lần với 13% equity#59; trượt 8/34 lần thì bỏ`"]
+  n41 --- n42
+  n43["`Trung bình: 24 × 5/16 + 10 × 4/16 − 48 × 6/16 = −$8 mỗi ván, check tốt hơn bet tự động`"]
+  n34 --- n43
+  n44["`Bet chỉ hòa check nếu trọng số nhóm thùng giảm từ 6 xuống khoảng 3,3 trên 16`"]
+  n34 --- n44
+  n45["`Mục 7 — Phương pháp chung và giới hạn`"]
+  n0 --- n45
+  n46["`Đếm tổ hợp có tính hiệu ứng loại bỏ lá bài (định lý Bayes)`"]
+  n45 --- n46
+  n47["`Tính kỳ vọng mỗi chiến lược ứng viên trước từng loại tay bài, rồi lấy trung bình theo xác suất Bayes`"]
+  n45 --- n47
+  n48["`Đây là phản ứng tốt nhất (best response) trước một chiến lược cố định của đối thủ`"]
+  n45 --- n48
+  n49["`Quy tắc nhẩm: bluff mạo hiểm B để giành P có lời khi đối thủ fold hơn B/(B + P) số lần`"]
+  n45 --- n49
+  n50["`Giả định: chiến lược đối thủ biết chính xác và không đổi#59; Chương 9 và Phần III xét khi họ điều chỉnh`"]
+  n45 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Tìm điểm yếu trong chiến lược đối thủ là cốt lõi của chơi khai thác`"]
+  n51 --- n52
+  n53["`Lỗ hổng thường là mất cân đối giữa số tay hành động mạnh và số tay chịu được phản đòn`"]
+  n51 --- n53
+  n54["`Đánh giá tình huống theo cách đối thủ chơi phân phối của họ, không theo sức mạnh tuyệt đối của bài mình`"]
+  n51 --- n54
+  n55["`Một cú bet lợi trước phần lớn phân phối vẫn sai nếu thua đậm trước một phần đủ lớn`"]
+  n51 --- n55
+  class n0 root
+  class n1,n11,n22,n34,n45,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n52,n53,n54,n55 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Chương 8 "Playing Accurately, Part II: Hand vs. Distribution", trang 89–97.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 7 ([C07-choi-chinh-xac-bai-lat-ngua.md](C07-choi-chinh-xac-bai-lat-ngua.md)) đã luyện bước hai của chơi khai thác — chọn hành động có kỳ vọng cao nhất — trong trường hợp đơn giản nhất là hai bên lật ngửa bài. Chương 8 bỏ bớt một giả định: chỉ bài của ta được biết, còn đối thủ cầm một phân phối bài (distribution) với chiến lược chơi đã ước lượng được cho từng tay bài trong phân phối. Cách làm là tính kỳ vọng của mỗi phương án trước từng loại tay bài, rồi lấy trung bình có trọng số theo xác suất đã điều chỉnh bằng định lý Bayes (Chương 3, [C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md](C03-dung-het-thong-tin-uoc-luong-tham-so-va-dinh-ly-bayes.md)).
+
+Ví dụ 8.3 quay lại ván stud tám-hoặc-tốt-hơn của Ví dụ 5.1 ở Chương 5 ([C05-doc-bai-va-chien-luoc.md](C05-doc-bai-va-chien-luoc.md)), nơi phân phối bài của đối thủ đã được thu hẹp bằng suy luận Bayes.
+
+Chương này vẫn giả định đối thủ không đổi chiến lược; Chương 9 ([C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md](C09-choi-thich-nghi-phan-phoi-dau-phan-phoi.md)) xét phân phối đấu với phân phối và việc hai bên cùng thích nghi, dẫn sang chiến lược tối ưu ở Phần III ([C10-ly-thuyet-tro-choi.md](C10-ly-thuyet-tro-choi.md)). Tình huống "button mở rộng, blind lớn jam" của Ví dụ 8.1 được phân tích có hệ thống trong trò chơi jam-or-fold ở Chương 12 ([C12-tro-choi-jam-or-fold.md](C12-tro-choi-jam-or-fold.md)).
+
+## Lưu ý
+
+- **Ví dụ 8.3, công thức check trước X♣Y♣ in sai:** sách viết ⟨check⟩ = (0,13)($345 + $240) − $180 = $43,95. Biểu thức như in cho 76,05 − 180 = −$103,95. Đúng phải là (0,13)($585) − **$120** = 76,05 − 120 = **−$43,95**: khi check, ta call một cược $60 ở lá thứ sáu và một cược $60 ở lá thứ bảy, tổng chi phí $120 (pot thêm $240). Chính sách dùng −$43,95 ở bước lấy trung bình, nên kết quả −$47,73 đúng.
+- **Ví dụ 8.3, nhãn xác suất bị đảo:** dòng lấy trung bình viết ⟨bet⟩ = p(không trúng lá để call) × … + p(trúng lá để call) × …, nhưng con số đi kèm là 26/34 cho trường hợp trúng (−$88,35) và 8/34 cho trường hợp trượt (−$120). Con số đúng, nhãn bị đảo.
+- **Ví dụ 8.3, các số "−1, −3, −3, −2, −1, −6" sau tên tay bài là trọng số, không phải số âm:** lớp chữ và cả ảnh trang in dấu gạch nối như dấu trừ. Đó là số tổ hợp tương đối của từng loại tay bài (AA: 1, Q♣Qx: 3, QxQy: 3, J♣Jx: 2, JxJy: 1, X♣Y♣: 6; tổng 16), khớp với cột xác suất 1/16, 5/16, 4/16, 6/16 của bảng tổng kết. Bảng tổng kết in "+1$0" là "+$10".
+- **Ví dụ 8.2, chiến lược 2 trước KK–QQ:** sách ghi −3 small bet nhưng không giải thích. Theo bảng chiến lược turn của đối thủ, sau khi ta check-call flop và check ở turn, KK/QQ check theo; nếu ta bỏ cuộc ngay thì chỉ mất 1 small bet (cược flop). Con số −3 ngụ ý ta mất thêm một big bet (2 small bet) ở river, ví dụ ta bet river và bị call (nhận xét của người tổng hợp). Nếu dùng −1, kỳ vọng chiến lược 2 là (3/7)(−5) + (2/7)(10,5) + (2/7)(−1) = 0,57 thay vì 0; kết luận chiến lược 3 tốt nhất không đổi.
+- **Ví dụ 8.2, bảng chiến lược turn không có dòng cho trường hợp ta bet flop (chiến lược 4):** sách chỉ cho hai dòng (ta check-raise flop; ta check-call flop). Kết quả của chiến lược 4 (+8,5 trước JJ/TT, −3 trước mọi tay khác) ngụ ý rằng sau khi ta bet flop và bị call, JJ/TT fold trước cược turn còn AA, KK, QQ, AK, AQs tiếp tục; sách không nói rõ.
+- **Ví dụ 8.1, số nhỏ:** sách ghi điều kiện call với AA là x > "117,20%"; tính đúng là (56,16 + 20)/65 = 117,17%. Câu "người này raise 25% số tay bài" là làm tròn của 350/1.326 = 26,4%. Câu "đặt khoảng 4 pot để thắng 1" là 190/45 = 4,2; "nếu họ call ít hơn một phần năm số lần thì jam có lời ngay" đúng: jam không có equity hòa vốn khi đối thủ fold 190/(190 + 45) = 80,9% số lần, tức call dưới 19,1%; ở đây họ call 40/350 = 11,4%.
+- **Kiểm tra equity bằng mô phỏng (người tổng hợp):** ba con số equity của Ví dụ 8.1 là dữ liệu đầu vào sách lấy từ phần mềm tính equity. Người tổng hợp mô phỏng 150.000 ván cho mỗi trường hợp (sai số chuẩn khoảng 0,1 điểm phần trăm) và được: tay ngẫu nhiên trước {AA–JJ, AK} khoảng 24,9% (sách 24,95%); 3–2 khác chất khoảng 21,7% (sách 21,81%); AA trước phân phối call đã điều chỉnh khoảng 83,2% (sách 83,43%). Các số của sách khớp trong phạm vi sai số mô phỏng.
+- **Lỗi chữ của bản PDF:** "ex-sbowdown" là "ex-showdown"; "chance of whining" là "winning"; "Oher" là "Other"; "titan half" là "than half"; "rattier than" là "rather than"; "hi all likelihood" là "in all likelihood"; "it's dear that" là "it's clear that"; "cither" là "either".
+- **Quy ước:** trong Ví dụ 8.2 đơn vị là small bet (mức cược nhỏ của limit hold'em; ở turn và river mỗi cược bằng 2 small bet). Kỳ vọng tính theo quy ước như Chương 7: phần pot nhận được trừ số tiền bỏ thêm từ thời điểm quyết định.

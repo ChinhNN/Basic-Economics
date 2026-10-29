@@ -1,21 +1,22 @@
 # Chương 26 — Nhân đôi: Giải đấu, phần I (Doubling Up: Tournaments, Part I)
 
-**Nguồn:** Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Phần V "Other Topics" (trang mở phần, trang 332), Chương 26 "Doubling Up: Tournaments, Part I", trang 333–345.
-**Tác giả:** Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
-**Vị trí trong lập luận của cả cuốn sách:** Phần IV (Rủi ro) đã xây dựng mô hình rủi ro phá sản cho bankroll ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), [C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)), tiêu chuẩn Kelly với hàm hữu dụng logarit ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)) và lý thuyết danh mục ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)); điểm chung của các chương đó là tiền mất đi thì không thay thế được ngay, nên giá trị của tiền không còn tuyến tính. Phần V mở đầu bằng giải đấu (tournament), nơi tính phi tuyến này xuất hiện ở dạng rõ nhất: chip giải đấu không mua lại được và giải thưởng chia theo thứ tự bị loại. Chương 26 xử lý hệ quả thứ nhất — kỹ năng làm chip có giá trị phi tuyến — bằng **Lý thuyết Nhân đôi** (Theory of Doubling Up), dùng cho giai đoạn đầu và giữa giải. Chương 27 ([C27-giai-dau-phan-2-chip-khong-phai-tien.md](C27-giai-dau-phan-2-chip-khong-phai-tien.md)) xử lý hệ quả thứ hai — cơ cấu trả thưởng — bằng các mô hình chuyển chip thành tiền gần vùng có thưởng (công thức chia theo tỷ lệ chip, công thức Landrum-Burns, công thức Malmuth-Harville và công thức Malmuth-Weitzman) và bàn cách tính khoảng tin cậy cho tỷ lệ thắng giải, và Chương 28 ([C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)) đưa các mô hình này vào quyết định cụ thể. Ý tưởng "đổi một phân phối kết quả thành một con số kỳ vọng rồi tối đa hoá con số đó" là cách làm xuyên suốt sách từ Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)).
-**Ý chính:** **Trong giải đấu, mục tiêu không phải là tối đa hoá số chip kỳ vọng mà là tối đa hoá tiền thưởng kỳ vọng; vì chip không thay thế được và người giỏi còn nhiều cơ hội dùng kỹ năng về sau, chip của người giỏi có giá trị lõm (mỗi chip thêm đáng ít hơn chip trước), và Lý thuyết Nhân đôi đo lường hiệu ứng này bằng một công thức đơn giản E = C^N.** Mở đầu chương nêu hai nguyên tắc của mọi giải đấu: chip không thay thế được (dẫn tới điều chỉnh do kỹ năng), và giải thưởng chia theo thứ tự bị loại chứ không theo số chip (dẫn tới sự tách rời giữa equity chip và equity giải thưởng). Ví dụ 19 người còn lại trong giải 200 người: một chip T100, lúc đầu giải chỉ đáng 6,67 đô la, nay đáng ít nhất 210 đô la vì người giữ nó có 84% khả năng lọt vào vùng có thưởng 250 đô la. Tác giả cảnh báo việc phóng đại "chơi để sống sót" sang đầu giải là sai. Lý thuyết Nhân đôi giả định xác suất C để một người nhân đôi chồng chip trước khi bị loại là hằng số suốt giải; khi đó xác suất thắng giải winner-take-all (người nhất lấy hết) là E = C^N (26.1), với N = log₂(số chồng chip ban đầu cần gom). Người chơi ngang tài có C = 0,5 và chip tuyến tính; người thắng 1 buyin ròng mỗi giải 100 người có C = 0,555. Ví dụ tay Q♠T♠ trên flop K♠8♣2♠: gọi 2.050 để thắng 4.025 với 36% equity lời 137 chip, nhưng với người có lợi thế 3/4 buyin (C = 0,5364), fold (equity 0,009269 buyin) tốt hơn call (0,008857 buyin). Bài toán "coinflip" ở ván đầu cho ngưỡng W = C; ai từ chối QQ đấu AK (57–43) thì ngầm cho rằng mình có khoảng 2,8 buyin mỗi giải. Người chơi lỗ nên chấp nhận phương sai; người thứ ba vào một pot all-in cần 30,25% thay vì 25% nếu C = 0,55. Công thức viết lại thành E = S^β với β = −log₂C (26.2). Cuối cùng, khi giải thưởng chia cho nhiều hạng, ảnh hưởng của kỹ năng giảm; tác giả định nghĩa **cỡ giải hiệu dụng** k (effective tournament size) qua (2C)^{log₂k} = E_N (26.3): giải đấu đối kháng 256 người trả 154 và 102 buyin cho nhất và nhì có k ≈ 147,7, và công thức xấp xỉ tổng quát N − D = Σ i·w_i·log₂ i cho k = 256/2^{204/256} ≈ 147,35.
+## Ý chính
 
-> **Lưu ý:**
-> - **"20% giải thưởng" ở ví dụ 19 người là sai số (sách, trang 334):** sách viết rằng gom toàn bộ chip "chỉ đáng 20% quỹ thưởng", nhưng giải nhất được mô tả là 6.000 đô la trên quỹ 20.000 đô la, tức 6.000 / 20.000 = 30%. Người tổng hợp ghi 30%. (Có thể tác giả nghĩ tới mức "20–25% cho giải nhất" mà họ nhắc ở đoạn sau.)
-> - **"Nhân đôi bảy lần" ở giải đối kháng 256 người (trang 338):** sách viết equity là (256)(C⁸), "tức là xác suất nhân đôi bảy lần (thắng bảy trận)". Vì 256 = 2⁸, người chơi phải nhân đôi tám lần (thắng tám trận); số mũ 8 trong công thức đúng, chữ "bảy" sai.
-> - **2,85 buyin trong bài toán QQ đấu AK (trang 337):** sách tính E = 0,57⁸ = 0,01114 rồi nói "khoảng 2,85 buyin mỗi giải" cho giải 250 người. Với 250 người: 0,01114 × 250 = 2,79 buyin. Con số 2,85 khớp với 0,01114 × 256 = 2,85 (coi giải có 256 người, tức đúng 8 lần nhân đôi), hoặc với N = log₂250 = 7,966 chính xác: 0,57^7,966 × 250 = 2,84. Kết luận "gần gấp ba equity trung bình" không đổi.
-> - **Nhận xét "w_i tính bằng buyin, không phải phần của quỹ thưởng" bị ngược (trang 343, nhận xét của người tổng hợp):** phương trình xác định k là 2^N · Σ q_i·w_i = (2C)^D. Ở bước sau tác giả dùng Σ i·w_i = 1, điều chỉ đúng khi w_i là **phần của quỹ thưởng** (vì Σ i·w_i = P, tổng quỹ). Thừa số 2^N = X đổi phần quỹ thưởng ra buyin. Vậy để đạo hàm đúng, w_i phải là phần của quỹ, và chính ví dụ kiểm tra cuối chương cũng dùng w₁ = 154/256, w₂ = 102/256 (phần của quỹ).
-> - **Đơn vị "buyin" trong ví dụ Q♠T♠ (trang 337, nhận xét của người tổng hợp):** sách ghi 0,024603, 0,009269, 0,008857 "buyins", nhưng các số này là xác suất thắng giải winner-take-all (phần của quỹ thưởng), vì chúng được tính từ 1,75/250. Muốn đổi ra buyin phải nhân với 250: 6,15; 2,32; 2,21 buyin. Kết luận fold tốt hơn call không đổi.
-> - **Tham chiếu sai chỗ (trang 333):** sách hứa bàn việc mua rebuy "ở phần sau của chương này", nhưng mục về giải rebuy nằm ở Chương 28 ([C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)).
-> - **Ký hiệu không nhất quán và lỗi in trong phần đạo hàm (trang 341–345):** (a) định nghĩa q_i được in là Σ_{i=1}^{X} p_i; đúng phải là q_i = Σ_{j=1}^{i} p_j (cộng dồn tới hạng i). (b) định nghĩa w_i được in là Σ_{i=1}^{X} (v_i − v_{i+1}); đúng phải là w_i = v_i − v_{i+1} (không có dấu tổng). (c) trong chứng minh Σ i·w_i = P, dòng đầu in "v_{i−v}" thay cho v_i. (d) ví dụ ba mức thưởng và ví dụ kiểm tra cuối chương đổi tên w thành g (g₁ = v₁ − v₂…) mà không báo. (e) chữ N vừa là số lần nhân đôi (N = log₂X) vừa là số thứ hạng trong giả định "về hạng N" và trong "q_N". (f) câu "giả sử e đủ gần 0,5" phải là "giả sử ε đủ gần 0" (vì ε = 2C − 1, và C gần 0,5). (g) phép khai triển (1 + ε)^x ≈ 1 + xε là xấp xỉ bậc một, sách viết dấu "=".
-> - **Lớp chữ và ảnh trang:** các công thức ở trang 340 (tính d), 343–344 (phương trình xác định k và bốn bước biến đổi) bị hỏng cả trong lớp chữ lẫn trong ảnh trang (bản dựng lại bằng LibreOffice in ra các ký tự "¿" thay cho vế phải). Người tổng hợp dựng lại các công thức từ ngữ cảnh và kiểm tra bằng số: d = ln(2(0,02·(2·154/256 − 1) + 0,5)) / ln(1,04) + 7 = 7,2063, k = 2^d = 147,68, khớp với sách. Lớp chữ cũng in "E — 1/X" (đúng là E = 1/X), "values of A"" (đúng là giá trị của X), "symbol 5" (đúng là δ), "13000" (đúng là 1/3000), "34 of a buyin" (đúng là 3/4), "'/4 chance" (đúng là 1/4), "brushing" (đúng là busting), "hi fact" (in fact), "whining player" (winning player).
-> - **Tính lại:** mọi con số khác của chương đều khớp khi tính lại: C = 0,02^{1/log₂100} = 0,5550; C^{log₂50} = 0,0360; C = (1,75/250)^{1/log₂250} = 0,5364; 0,5364^{log₂(250/4,05)} = 0,024603; 0,5364^{log₂(250/1,36667)} = 0,009269; 0,36 × 0,024603 = 0,008857; 0,36 × 6.075 − 2.050 = 137; 0,55² = 0,3025; 0,53^{log₂(147,68/16)} × 147,68 = 19,287; 0,53³ × (0,53 × 154 + 0,47 × 102) = 19,288; 256 / 2^{204/256} = 147,35.
-> - **Quy ước thuật ngữ:** "equity" giữ nguyên tiếng Anh (phần giá trị kỳ vọng của người chơi trong pot hoặc trong quỹ thưởng); "chip equity" dịch là equity chip (số chip giữ trong tay), "prize equity" là equity giải thưởng (giá trị tiền kỳ vọng của số chip đó). "Buyin" là phí tham gia giải; equity tính bằng buyin. Chip giải đấu ghi T100, T400 như sách (T là "tournament").
+**Trong giải đấu, mục tiêu không phải là tối đa hoá số chip kỳ vọng mà là tối đa hoá tiền thưởng kỳ vọng; vì chip không thay thế được và người giỏi còn nhiều cơ hội dùng kỹ năng về sau, chip của người giỏi có giá trị lõm (mỗi chip thêm đáng ít hơn chip trước), và Lý thuyết Nhân đôi đo lường hiệu ứng này bằng một công thức đơn giản E = C^N.**
+
+Mở đầu chương nêu hai nguyên tắc của mọi giải đấu: chip không thay thế được (dẫn tới điều chỉnh do kỹ năng), và giải thưởng chia theo thứ tự bị loại chứ không theo số chip (dẫn tới sự tách rời giữa equity chip và equity giải thưởng).
+
+Ví dụ 19 người còn lại trong giải 200 người: một chip T100, lúc đầu giải chỉ đáng 6,67 đô la, nay đáng ít nhất 210 đô la vì người giữ nó có 84% khả năng lọt vào vùng có thưởng 250 đô la. Tác giả cảnh báo việc phóng đại "chơi để sống sót" sang đầu giải là sai.
+
+Lý thuyết Nhân đôi giả định xác suất C để một người nhân đôi chồng chip trước khi bị loại là hằng số suốt giải; khi đó xác suất thắng giải winner-take-all (người nhất lấy hết) là E = C^N (26.1), với N = log₂(số chồng chip ban đầu cần gom). Người chơi ngang tài có C = 0,5 và chip tuyến tính; người thắng 1 buyin ròng mỗi giải 100 người có C = 0,555.
+
+Ví dụ tay Q♠T♠ trên flop K♠8♣2♠: gọi 2.050 để thắng 4.025 với 36% equity lời 137 chip, nhưng với người có lợi thế 3/4 buyin (C = 0,5364), fold (equity 0,009269 buyin) tốt hơn call (0,008857 buyin).
+
+Bài toán "coinflip" ở ván đầu cho ngưỡng W = C; ai từ chối QQ đấu AK (57–43) thì ngầm cho rằng mình có khoảng 2,8 buyin mỗi giải. Người chơi lỗ nên chấp nhận phương sai; người thứ ba vào một pot all-in cần 30,25% thay vì 25% nếu C = 0,55.
+
+Công thức viết lại thành E = S^β với β = −log₂C (26.2).
+
+Cuối cùng, khi giải thưởng chia cho nhiều hạng, ảnh hưởng của kỹ năng giảm; tác giả định nghĩa **cỡ giải hiệu dụng** k (effective tournament size) qua (2C)^{log₂k} = E_N (26.3): giải đấu đối kháng 256 người trả 154 và 102 buyin cho nhất và nhì có k ≈ 147,7, và công thức xấp xỉ tổng quát N − D = Σ i·w_i·log₂ i cho k = 256/2^{204/256} ≈ 147,35.
 
 ## Sơ đồ
 
@@ -300,7 +301,9 @@ Tác giả mở chương bằng nhận định rằng mảng tăng trưởng l�
 
 **Nguyên tắc thứ nhất: chip giải đấu không thay thế được** — khi người chơi hết chip giải đấu, họ bị loại. Nguyên tắc này dẫn tới những điều chỉnh chiến lược liên quan đến kỹ năng: người có lợi thế so với cả giải nên bỏ qua những lợi thế nhỏ đặt cả chồng chip vào rủi ro, vì họ cho rằng về sau sẽ có những tình huống lợi thế lớn hơn. Họ nên ít sẵn sàng đặt hết chip cho một lợi thế mỏng, vì nếu thua thì không thể mua lại chip bằng tiền mặt như ở cash game. Ngược lại, người có EV âm trong giải nên sẵn sàng all-in hơn trong các tình huống có kỳ vọng chip hơi âm.
 
-Tuy nhiên, theo tác giả, "điều chỉnh do kỹ năng" này đã bị một số người chơi làm quá mức: có giới hạn cho loại tình huống mà người ta có thể bỏ qua và vẫn thật sự có lợi thế như thế về sau. Khi blind tăng dần, càng ngày càng khó tìm được tình huống lời lớn; thỉnh thoảng đối thủ cũng có bài mạnh cùng lúc với ta. Nhưng điều chỉnh này có thật, và có thể định lượng gần đúng. Tác giả mô hình hoá lợi thế kỹ năng như một hiệu ứng đệ quy (nhân đôi lặp lại) và trình bày mô hình ở phần sau của chương. Giải rebuy (cho phép mua lại chip trong một giai đoạn) là ngoại lệ tạm thời của nguyên tắc này, nhưng mọi giải rebuy cuối cùng đều trở thành giải thoả nguyên tắc. (Tác giả hứa quay lại chủ đề mua rebuy "ở phần sau của chương này", nhưng Chương 26 không có mục nào về rebuy; chủ đề này thực ra nằm ở Chương 28, mục "Rebuy Tournaments" — nhận xét của người tổng hợp.)
+Tuy nhiên, theo tác giả, "điều chỉnh do kỹ năng" này đã bị một số người chơi làm quá mức: có giới hạn cho loại tình huống mà người ta có thể bỏ qua và vẫn thật sự có lợi thế như thế về sau. Khi blind tăng dần, càng ngày càng khó tìm được tình huống lời lớn; thỉnh thoảng đối thủ cũng có bài mạnh cùng lúc với ta. Nhưng điều chỉnh này có thật, và có thể định lượng gần đúng. Tác giả mô hình hoá lợi thế kỹ năng như một hiệu ứng đệ quy (nhân đôi lặp lại) và trình bày mô hình ở phần sau của chương.
+
+Giải rebuy (cho phép mua lại chip trong một giai đoạn) là ngoại lệ tạm thời của nguyên tắc này, nhưng mọi giải rebuy cuối cùng đều trở thành giải thoả nguyên tắc. (Tác giả hứa quay lại chủ đề mua rebuy "ở phần sau của chương này", nhưng Chương 26 không có mục nào về rebuy; chủ đề này thực ra nằm ở Chương 28, mục "Rebuy Tournaments" — nhận xét của người tổng hợp.)
 
 **Nguyên tắc thứ hai: quỹ thưởng được chia theo một cơ cấu trả thưởng gắn với thứ tự bị loại**, không theo số chip tích lũy. Đây là đặc trưng toán học chính phân biệt giai đoạn cuối giải với cash game. Ở cash game, tối đa hoá EV tiền nghĩa là tối đa hoá EV chip, vì chip là tiền. Trong giải đấu thì không luôn như vậy. Vị trí chip và equity giải thưởng có tương quan mạnh, nhưng sự tách rời giữa **equity chip** (số chip giải đấu một người giữ) và **equity giải thưởng** (EV của số chip đó tính theo quỹ thưởng) có thể đòi hỏi những điều chỉnh đáng kể.
 
@@ -310,7 +313,11 @@ Một giải limit hold'em 200 người, mọi người ngang tài, đã còn 19
 
 Ba người có chồng chip cực ngắn. Người chơi A chỉ còn một chip T100 nhưng đang ở button tại bàn của mình. Người chơi B còn T400 và ở vị trí under the gun (người hành động đầu tiên trước flop). Người chơi C còn T500 và cũng ở under the gun.
 
-Ở đầu giải, chip mỗi người giữ đáng một phần quỹ thưởng tỷ lệ với số chip: T100 của A đáng 100/300.000 = 1/3.000 quỹ 20.000 đô la, tức khoảng 6,67 đô la. Nhưng trong tình huống này, chip T100 của A đã tăng giá trị đáng kể. Nếu A fold ván tiếp theo, cả hai đối thủ chồng ngắn sẽ phải all-in vì blind. Giả sử mỗi người có 40% khả năng thắng ván trước (có lẽ là) tay mạnh nhất trong số các tay đấu với họ. A chỉ bị loại ở hạng 19 nếu cả B lẫn C đều thắng, xác suất 0,4 × 0,4 = 0,16; vậy A có 1 − 0,16 = 84% khả năng sống sót vào vùng có thưởng và nhận 250 đô la. Kể cả khi không tính khả năng A thật sự nhân đôi và xây chip thành một chồng, T100 của A đáng ít nhất 0,84 × 250 = 210 đô la — gấp hơn 31 lần giá trị tiên nghiệm 6,67 đô la. Cơ cấu trả thưởng đã cho chip của A thêm giá trị. Giá trị này dĩ nhiên bị lấy đi từ giá trị chip của các chồng lớn: gom toàn bộ chip trong giải chỉ đáng giải nhất 6.000 đô la, tức 30% quỹ (sách ghi 20%, xem khối Lưu ý).
+Ở đầu giải, chip mỗi người giữ đáng một phần quỹ thưởng tỷ lệ với số chip: T100 của A đáng 100/300.000 = 1/3.000 quỹ 20.000 đô la, tức khoảng 6,67 đô la.
+
+Nhưng trong tình huống này, chip T100 của A đã tăng giá trị đáng kể. Nếu A fold ván tiếp theo, cả hai đối thủ chồng ngắn sẽ phải all-in vì blind. Giả sử mỗi người có 40% khả năng thắng ván trước (có lẽ là) tay mạnh nhất trong số các tay đấu với họ. A chỉ bị loại ở hạng 19 nếu cả B lẫn C đều thắng, xác suất 0,4 × 0,4 = 0,16; vậy A có 1 − 0,16 = 84% khả năng sống sót vào vùng có thưởng và nhận 250 đô la.
+
+Kể cả khi không tính khả năng A thật sự nhân đôi và xây chip thành một chồng, T100 của A đáng ít nhất 0,84 × 250 = 210 đô la — gấp hơn 31 lần giá trị tiên nghiệm 6,67 đô la. Cơ cấu trả thưởng đã cho chip của A thêm giá trị. Giá trị này dĩ nhiên bị lấy đi từ giá trị chip của các chồng lớn: gom toàn bộ chip trong giải chỉ đáng giải nhất 6.000 đô la, tức 30% quỹ (sách ghi 20%, xem mục Lưu ý cuối chương).
 
 Đây có lẽ là một ví dụ khá cực đoan, nhưng các tình huống cùng tính chất xảy ra ở gần như mọi giải. Trong những trường hợp này, sống sót thật sự có giá trị — tiền thật. Điều này thường đúng với các chồng chip rất nhỏ gần bubble: "chiếc ghế" của họ thật sự đáng giá hơn số chip. Thêm nữa, ở các bậc tăng tiền thưởng trong vùng có thưởng, chồng chip nhỏ có động cơ chơi chặt hơn để leo hạng, dù chỉ đúng tới một mức.
 
@@ -401,7 +408,7 @@ tức gần một phần mười buyin lời (137/1.500 = 0,091 buyin). Theo pot
 C = 0,5364
 ```
 
-Giờ tính equity E của ba kịch bản. E ở đây là xác suất thắng giải, tức phần của quỹ thưởng; sách gọi đơn vị này là "buyin", nhưng muốn ra buyin phải nhân với 250 (xem khối Lưu ý).
+Giờ tính equity E của ba kịch bản. E ở đây là xác suất thắng giải, tức phần của quỹ thưởng; sách gọi đơn vị này là "buyin", nhưng muốn ra buyin phải nhân với 250 (xem mục Lưu ý cuối chương).
 
 | Kịch bản | Chip của B | Số chồng ban đầu | Equity |
 |---|---:|---:|---|
@@ -431,15 +438,19 @@ Nhiều người chơi nói họ sẽ từ chối đối đầu QQ đấu AK (57
 E = C^N = 0,57⁸ = 0,01114
 ```
 
-hay khoảng 2,8 buyin mỗi giải (0,01114 × 250 = 2,79; sách ghi 2,85, xem khối Lưu ý). Muốn từ chối một cuộc đối đầu 57–43 mà không có tiền chết (dead money) trong pot là đúng, người ta phải có gần gấp ba equity trung bình trong giải. Theo quan sát của tác giả, tỷ lệ thắng như vậy trong một giải bình thường sẽ đặt người đó vào hàng những người chơi giỏi nhất thế giới.
+hay khoảng 2,8 buyin mỗi giải (0,01114 × 250 = 2,79; sách ghi 2,85, xem mục Lưu ý cuối chương). Muốn từ chối một cuộc đối đầu 57–43 mà không có tiền chết (dead money) trong pot là đúng, người ta phải có gần gấp ba equity trung bình trong giải. Theo quan sát của tác giả, tỷ lệ thắng như vậy trong một giải bình thường sẽ đặt người đó vào hàng những người chơi giỏi nhất thế giới.
 
 #### Người chơi có kỳ vọng âm
 
-Một hệ quả thú vị khác liên quan đến người chơi có kỳ vọng âm. Tác giả đùa rằng độc giả của họ đều là người thắng, nhưng kết quả trung bình của mọi người trong một giải là mất phí tham gia, nên phải có người thua. Lý thuyết Nhân đôi chỉ ra rằng người chơi thua nên sẵn sàng đặt hết chip ngay cả trong tình huống hơi bất lợi. Lý do là người thua nên khuyến khích phương sai, vì đó là cơ hội tốt nhất để họ thắng: người khác càng có nhiều dịp dùng kỹ năng, người thua càng thiệt. Do đó họ nên sẵn sàng đặt hết chip trong tình huống EV bằng 0, thậm chí hơi âm. (Trong ngôn ngữ công thức: C < 0,5 thì β = −log₂C > 1, equity là hàm lồi của số chip; nhận xét của người tổng hợp.)
+Một hệ quả thú vị khác liên quan đến người chơi có kỳ vọng âm. Tác giả đùa rằng độc giả của họ đều là người thắng, nhưng kết quả trung bình của mọi người trong một giải là mất phí tham gia, nên phải có người thua.
+
+Lý thuyết Nhân đôi chỉ ra rằng người chơi thua nên sẵn sàng đặt hết chip ngay cả trong tình huống hơi bất lợi. Lý do là người thua nên khuyến khích phương sai, vì đó là cơ hội tốt nhất để họ thắng: người khác càng có nhiều dịp dùng kỹ năng, người thua càng thiệt. Do đó họ nên sẵn sàng đặt hết chip trong tình huống EV bằng 0, thậm chí hơi âm. (Trong ngôn ngữ công thức: C < 0,5 thì β = −log₂C > 1, equity là hàm lồi của số chip; nhận xét của người tổng hợp.)
 
 #### Người thứ ba vào pot all-in
 
-Lý thuyết Nhân đôi cũng có hàm ý quan trọng cho đối đầu nhiều người. Trong poker nói chung, "người thứ ba vào" một cuộc đối đầu all-in cần tay bài khá mạnh; cấu trúc giải đấu làm hiệu ứng này mạnh thêm. Xét một tình huống trên flop: hai người đã all-in với một cược bằng pot, và một người chơi cân nhắc call all-in làm cược thứ ba. Nếu chip tuyến tính, người đó chỉ cần 1/4 khả năng thắng để hoà vốn (đặt 1 đơn vị vào pot tổng cộng 4 đơn vị: pot ban đầu 1, hai cược 1 + 1, và cược của mình 1). Nhưng nếu thắng, số chip của người đó gấp bốn lần so với khi fold — tức bớt được 2 lần nhân đôi. Nếu xác suất nhân đôi ban đầu là, chẳng hạn, 55%, người đó cần
+Lý thuyết Nhân đôi cũng có hàm ý quan trọng cho đối đầu nhiều người. Trong poker nói chung, "người thứ ba vào" một cuộc đối đầu all-in cần tay bài khá mạnh; cấu trúc giải đấu làm hiệu ứng này mạnh thêm.
+
+Xét một tình huống trên flop: hai người đã all-in với một cược bằng pot, và một người chơi cân nhắc call all-in làm cược thứ ba. Nếu chip tuyến tính, người đó chỉ cần 1/4 khả năng thắng để hoà vốn (đặt 1 đơn vị vào pot tổng cộng 4 đơn vị: pot ban đầu 1, hai cược 1 + 1, và cược của mình 1). Nhưng nếu thắng, số chip của người đó gấp bốn lần so với khi fold — tức bớt được 2 lần nhân đôi. Nếu xác suất nhân đôi ban đầu là, chẳng hạn, 55%, người đó cần
 
 ```text
 C² = 0,55² = 0,3025 = 30,25%
@@ -625,7 +636,7 @@ p_i = C^{log₂(X/i)} − C^{log₂(X/(i−1))}
 p_i = C^{N − log₂i} − C^{N − log₂(i−1)}     với i > 1;   p₁ = C^N
 ```
 
-**Xác suất cộng dồn.** Định nghĩa q_i là xác suất về trong top i (sách in sai giới hạn tổng, xem khối Lưu ý):
+**Xác suất cộng dồn.** Định nghĩa q_i là xác suất về trong top i (sách in sai giới hạn tổng, xem mục Lưu ý cuối chương):
 
 ```text
 q_i = Σ_{j=1}^{i} p_j
@@ -680,7 +691,7 @@ q₁w₁ + q₂w₂ + q₃w₃
 2^N · Σ q_i·w_i = (2C)^D,      D = log₂k
 ```
 
-(Sách nói phương trình này "giả định w_i tính bằng buyin chứ không phải phần của quỹ"; điều đó ngược với bước rút gọn phía sau, xem khối Lưu ý. Phương trình gốc trong sách bị in hỏng; người tổng hợp dựng lại từ các bước tiếp theo.) Thay q_i = C^{N − log₂i} và biến đổi:
+(Sách nói phương trình này "giả định w_i tính bằng buyin chứ không phải phần của quỹ"; điều đó ngược với bước rút gọn phía sau, xem mục Lưu ý cuối chương. Phương trình gốc trong sách bị in hỏng; người tổng hợp dựng lại từ các bước tiếp theo.) Thay q_i = C^{N − log₂i} và biến đổi:
 
 ```text
 2^N · Σ C^{N − log₂i}·w_i = (2C)^D
@@ -768,7 +779,9 @@ Trong giải đấu, giá trị của chip không tỷ lệ với số chip. Ở
 
 ### Trong ngôn ngữ xác suất và lý thuyết hữu dụng
 
-Lý thuyết Nhân đôi là một mô hình chuỗi phép thử Bernoulli độc lập: thắng giải là thành công liên tiếp N lần với xác suất C mỗi lần, nên P(thắng) = C^N. Viết theo phần chip, E = S^β là một hàm hữu dụng lũy thừa (dạng CRRA, hệ số ngại rủi ro tương đối không đổi 1 − β) của tài sản S, và chính cấu trúc trò chơi (không mua lại chip, người giỏi còn nhiều lần dùng kỹ năng) tạo ra sự "ngại rủi ro" đó, không phải sở thích cá nhân (nhận xét của người tổng hợp). Điều kiện chấp nhận coinflip W = C và điều kiện người thứ ba W = C² là các điểm bàng quan (indifference point) của hàm hữu dụng này. Cỡ giải hiệu dụng là một phép đổi biến để đưa bài toán nhiều hạng về bài toán một hạng có cùng "lượng kỹ năng" (cùng số mũ), và công thức N − D = Σ i·w_i·log₂i là khai triển bậc một theo ε = 2C − 1.
+Lý thuyết Nhân đôi là một mô hình chuỗi phép thử Bernoulli độc lập: thắng giải là thành công liên tiếp N lần với xác suất C mỗi lần, nên P(thắng) = C^N. Viết theo phần chip, E = S^β là một hàm hữu dụng lũy thừa (dạng CRRA, hệ số ngại rủi ro tương đối không đổi 1 − β) của tài sản S, và chính cấu trúc trò chơi (không mua lại chip, người giỏi còn nhiều lần dùng kỹ năng) tạo ra sự "ngại rủi ro" đó, không phải sở thích cá nhân (nhận xét của người tổng hợp).
+
+Điều kiện chấp nhận coinflip W = C và điều kiện người thứ ba W = C² là các điểm bàng quan (indifference point) của hàm hữu dụng này. Cỡ giải hiệu dụng là một phép đổi biến để đưa bài toán nhiều hạng về bài toán một hạng có cùng "lượng kỹ năng" (cùng số mũ), và công thức N − D = Σ i·w_i·log₂i là khai triển bậc một theo ε = 2C − 1.
 
 ## Thuật ngữ
 
@@ -903,3 +916,165 @@ Chương biến một lời khuyên mơ hồ và phổ biến trong cộng đồ
 - **Cho người chơi giải đấu:** trước khi từ chối một tình huống có EV chip dương ở đầu giải, ước lượng C của mình một cách trung thực (từ ROI dài hạn: C = (1 + ROI)/X lấy căn bậc log₂X) và tính lại; với phần lớn người chơi, C chỉ khoảng 0,51–0,53, và điều chỉnh gần như không đáng kể. Gần bubble, chuyển sang các mô hình của Chương 27.
 - **Cho người làm tài chính và đầu tư:** nguyên tắc "vốn không thay thế được" xuất hiện ở mọi quỹ có giới hạn lỗ hay nhà giao dịch bị cắt vốn khi sụt giảm quá ngưỡng: một khoản đầu tư có kỳ vọng dương nhỏ có thể không đáng làm nếu thua sẽ mất quyền chơi tiếp, khi người đầu tư có lợi thế lặp lại được. Ngược lại, như "người chơi kỳ vọng âm" của chương, người quản lý đang thua xa mục tiêu có động cơ tăng rủi ro — một vấn đề động cơ (risk-shifting) quen thuộc trong quản trị quỹ.
 - **Cho người thiết kế cơ chế thưởng:** cơ cấu thưởng dàn trải (nhiều người nhận một phần) làm giảm phần thưởng cho năng lực vượt trội; công thức cỡ giải hiệu dụng cho cách đo mức giảm đó. Cùng ý tưởng áp dụng cho các cuộc thi, chương trình thưởng bán hàng theo thứ hạng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 26 trên một trang: năm nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (hai nguyên tắc của giải đấu và ví dụ chồng T100; Lý thuyết Nhân đôi E = C^N và dạng E = S^β; các quyết định Q♠T♠, coinflip, người chơi lỗ, người thứ ba vào pot; cơ cấu trả thưởng và cỡ giải hiệu dụng k trong giải đối kháng 256 người; công thức tổng quát N − D = Σ i·w_i·log₂i), mỗi nhánh ghi giả định, công thức và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 26: trong giải đấu phải tối đa hoá tiền thưởng kỳ vọng, không phải chip kỳ vọng, và chip của người giỏi có giá trị lõm`"]
+  n1["`Mục 1–3 — Hai nguyên tắc của giải đấu và chồng chip T100`"]
+  n0 --- n1
+  n2["`Nguyên tắc 1: chip giải đấu không thay thế được, hết chip là bị loại (giải rebuy chỉ là ngoại lệ tạm thời)`"]
+  n1 --- n2
+  n3["`Hệ quả: người có lợi thế bỏ qua lợi thế mỏng, người có EV âm nên sẵn sàng all-in hơn`"]
+  n2 --- n3
+  n4["`Điều chỉnh do kỹ năng có thật nhưng bị nhiều người làm quá mức`"]
+  n2 --- n4
+  n5["`Nguyên tắc 2: quỹ thưởng chia theo thứ tự bị loại, nên equity chip tách rời equity giải thưởng`"]
+  n1 --- n5
+  n6["`Giải 200 người còn 19, hạng 10–18 nhận 250 đô la: T100 đầu giải đáng 6,67 đô la`"]
+  n1 --- n6
+  n7["`B và C phải all-in vì blind, mỗi người thắng 40%: A vào vùng thưởng với 1 − 0,4 × 0,4 = 84%`"]
+  n6 --- n7
+  n8["`T100 đáng ít nhất 0,84 × 250 = 210 đô la, gấp hơn 31 lần, lấy từ chồng chip lớn`"]
+  n6 --- n8
+  n9["`Gần bubble, chiếc ghế của chồng chip nhỏ đáng giá hơn số chip`"]
+  n6 --- n9
+  n10["`Sai khi kéo sống sót bằng mọi giá về đầu giải: lúc đó equity chip và equity giải thưởng gắn chặt`"]
+  n1 --- n10
+  n11["`Mô hình giải đấu hữu ích nhất ở chỗ ánh xạ equity chip sang equity giải thưởng, rồi lại tối đa hoá EV tiền`"]
+  n1 --- n11
+  n12["`Mục 4 và 7 — Lý thuyết Nhân đôi: E = C^N và E = S^β`"]
+  n0 --- n12
+  n13["`Giả định: xác suất C nhân đôi chồng chip trước khi bị loại không đổi suốt giải`"]
+  n12 --- n13
+  n14["`Hiệu ứng chọn lọc và blind tăng làm C thay đổi, nhưng đều yếu`"]
+  n13 --- n14
+  n15["`Giải winner-take-all X người: E = C^N (26.1), N = log₂X, 128 người thì E = C⁷`"]
+  n12 --- n15
+  n16["`Người ngang tài: 1/X = C^{log₂X} nên C = 0,5 và giá trị chip tuyến tính`"]
+  n12 --- n16
+  n17["`Người thắng 1 buyin ròng mỗi giải 100 người: 0,02 = C^{6,643856}, C = 0,5550`"]
+  n12 --- n17
+  n18["`Với 2 chồng chip: E = 0,5550^{log₂50} = 0,0360, lớn hơn 0,02 nhưng nhỏ hơn 0,04`"]
+  n17 --- n18
+  n19["`Phần chip S: E = S^β với β = −log₂C (26.2)`"]
+  n12 --- n19
+  n20["`C = 0,555 cho β = 0,849 #lt; 1: equity là hàm lõm của số chip`"]
+  n19 --- n20
+  n21["`Tỷ số E/S giảm từ 2,00 ở S = 0,01 xuống 1,11 ở S = 0,5`"]
+  n19 --- n21
+  n22["`Mục 5–6 — Quyết định: Q♠T♠, coinflip, người chơi lỗ, người thứ ba vào pot`"]
+  n0 --- n22
+  n23["`Q♠T♠ trên K♠8♣2♠, 250 người: call 2.050 để thắng 4.025 với equity 36%`"]
+  n22 --- n23
+  n24["`Theo chip: 0,36 × 6.075 − 2.050 = +137 chip, ngưỡng pot odds 33,7%`"]
+  n23 --- n24
+  n25["`Lợi thế 3/4 buyin: 1,75/250 = C^{log₂250}, C = 0,5364`"]
+  n23 --- n25
+  n26["`Fold 0,009269 #gt; call 0,36 × 0,024603 = 0,008857: fold đúng hơn`"]
+  n23 --- n26
+  n27["`Ngưỡng hoà call/fold 37,7%: điều chỉnh có thật nhưng không lớn`"]
+  n23 --- n27
+  n28["`Coinflip ván đầu: C^N = W·C^{N−1}, bàng quan khi W = C`"]
+  n22 --- n28
+  n29["`Từ chối QQ đấu AK 57–43 ngầm đòi E #gt; 0,57⁸ = 0,01114, khoảng 2,8 buyin, gần gấp ba trung bình`"]
+  n28 --- n29
+  n30["`Người chơi lỗ (C #lt; 0,5) nên ưa phương sai, đặt hết chip cả khi EV bằng 0 hay hơi âm`"]
+  n22 --- n30
+  n31["`Người thứ ba vào pot all-in: thắng thì gấp bốn chip, bớt 2 lần nhân đôi`"]
+  n22 --- n31
+  n32["`Cần W = C² = 0,55² = 30,25% thay vì 25% theo chip`"]
+  n31 --- n32
+  n33["`Mục 8 — Cơ cấu trả thưởng và cỡ giải hiệu dụng k`"]
+  n0 --- n33
+  n34["`Giải đối kháng 256 người winner-take-all: equity = 256·C⁸ = (2C)⁸ buyin`"]
+  n33 --- n34
+  n35["`Chia đều nhất và nhì: (2C)⁷, thiệt một thừa số 2C khi C #gt; 1/2, như giải 128 người`"]
+  n33 --- n35
+  n36["`Định nghĩa k: (2C)^{log₂k} = E#95;N (26.3), E#95;N là số buyin kỳ vọng với cơ cấu thật`"]
+  n33 --- n36
+  n37["`Nhất phần f, nhì 1 − f: E = 256·C⁷·(δ(2f − 1) + 1/2), δ = C − 0,5`"]
+  n33 --- n37
+  n38["`δ(2f − 1) là phần thêm nhờ kỹ năng, 1/2 là phần cơ bản`"]
+  n37 --- n38
+  n39["`f = 154/256, C = 0,52: d = 7,2063, k = 147,68, nhỏ hơn cỡ thật khoảng 108 người`"]
+  n33 --- n39
+  n40["`k ít nhạy với C: 147,52 ở C = 0,51, 148,92 ở C = 0,60`"]
+  n39 --- n40
+  n41["`Kiểm tra C = 0,53, đã thắng 4 trận: 19,287 theo k, 19,288 buyin tính trực tiếp`"]
+  n39 --- n41
+  n42["`Mục 9–10 — Tổng quát hoá cho mọi cơ cấu trả thưởng`"]
+  n0 --- n42
+  n43["`Giả định: xác suất về hạng i bằng xác suất nhân đôi tới 1/i tổng chip trừ xác suất về hạng cao hơn`"]
+  n42 --- n43
+  n44["`Xác suất vào top i: q#95;i = C^{N − log₂i}, p₁ = C^N`"]
+  n42 --- n44
+  n45["`w#95;i = v#95;i − v#95;{i+1}: Σ i·w#95;i = P và E#95;N = Σ q#95;i·w#95;i`"]
+  n42 --- n45
+  n46["`Đặt 2C = 1 + ε, xấp xỉ bậc một: N − D = Σ i·w#95;i·log₂i, k = X / 2^{N−D}`"]
+  n42 --- n46
+  n47["`N − D là số lần nhân đôi bị mất do chia thưởng, tính được mà không cần biết C`"]
+  n46 --- n47
+  n48["`Giải 256 người trả 154/102: N − D = 204/256, k = 147,35`"]
+  n46 --- n48
+  n49["`Giải 64 người trả 50/30/20%: N − D = 1,151, k ≈ 28,8`"]
+  n46 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Đổi phân phối kết quả thành tiền kỳ vọng rồi tối đa hoá, như từ Chương 1`"]
+  n50 --- n51
+  n52["`Ở đầu giải chơi gần như cash game, chỉ từ chối tình huống biên rất mỏng`"]
+  n50 --- n52
+  n53["`Mức điều chỉnh tăng theo C và theo số lần nhân đôi còn lại`"]
+  n50 --- n53
+  n54["`Trả thưởng dàn trải làm giảm giá trị kỹ năng, người giỏi lợi nhất ở giải trả tập trung cho hạng đầu`"]
+  n50 --- n54
+  class n0 root
+  class n1,n12,n22,n33,n42,n50 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54 leaf
+```
+
+## Nguồn
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker*, ConJelCo 2006 (ấn bản đầu tiên), Phần V "Other Topics" (trang mở phần, trang 332), Chương 26 "Doubling Up: Tournaments, Part I", trang 333–345.
+
+## Tác giả
+
+Bill Chen (tiến sĩ toán, Đại học California tại Berkeley, 1999; làm ở Susquehanna International Group; vô địch hai giải World Series of Poker 2006) và Jerrod Ankenman (cử nhân quản trị kinh doanh, Pepperdine 2004; người chơi poker chuyên nghiệp; á quân một giải WSOP 2006).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần IV (Rủi ro) đã xây dựng mô hình rủi ro phá sản cho bankroll ([C22-rui-ro-pha-san.md](C22-rui-ro-pha-san.md), [C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md](C23-rui-ro-pha-san-khi-ty-le-thang-bat-dinh.md)), tiêu chuẩn Kelly với hàm hữu dụng logarit ([C24-tieu-chuan-kelly-va-chon-van-choi.md](C24-tieu-chuan-kelly-va-chon-van-choi.md)) và lý thuyết danh mục ([C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md](C25-ly-thuyet-danh-muc-va-thoa-thuan-tai-tro.md)); điểm chung của các chương đó là tiền mất đi thì không thay thế được ngay, nên giá trị của tiền không còn tuyến tính.
+
+Phần V mở đầu bằng giải đấu (tournament), nơi tính phi tuyến này xuất hiện ở dạng rõ nhất: chip giải đấu không mua lại được và giải thưởng chia theo thứ tự bị loại. Chương 26 xử lý hệ quả thứ nhất — kỹ năng làm chip có giá trị phi tuyến — bằng **Lý thuyết Nhân đôi** (Theory of Doubling Up), dùng cho giai đoạn đầu và giữa giải.
+
+Chương 27 ([C27-giai-dau-phan-2-chip-khong-phai-tien.md](C27-giai-dau-phan-2-chip-khong-phai-tien.md)) xử lý hệ quả thứ hai — cơ cấu trả thưởng — bằng các mô hình chuyển chip thành tiền gần vùng có thưởng (công thức chia theo tỷ lệ chip, công thức Landrum-Burns, công thức Malmuth-Harville và công thức Malmuth-Weitzman) và bàn cách tính khoảng tin cậy cho tỷ lệ thắng giải, và Chương 28 ([C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)) đưa các mô hình này vào quyết định cụ thể. Ý tưởng "đổi một phân phối kết quả thành một con số kỳ vọng rồi tối đa hoá con số đó" là cách làm xuyên suốt sách từ Chương 1 ([C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md](C01-quyet-dinh-duoi-rui-ro-xac-suat-va-ky-vong.md)).
+
+## Lưu ý
+
+- **"20% giải thưởng" ở ví dụ 19 người là sai số (sách, trang 334):** sách viết rằng gom toàn bộ chip "chỉ đáng 20% quỹ thưởng", nhưng giải nhất được mô tả là 6.000 đô la trên quỹ 20.000 đô la, tức 6.000 / 20.000 = 30%. Người tổng hợp ghi 30%. (Có thể tác giả nghĩ tới mức "20–25% cho giải nhất" mà họ nhắc ở đoạn sau.)
+- **"Nhân đôi bảy lần" ở giải đối kháng 256 người (trang 338):** sách viết equity là (256)(C⁸), "tức là xác suất nhân đôi bảy lần (thắng bảy trận)". Vì 256 = 2⁸, người chơi phải nhân đôi tám lần (thắng tám trận); số mũ 8 trong công thức đúng, chữ "bảy" sai.
+- **2,85 buyin trong bài toán QQ đấu AK (trang 337):** sách tính E = 0,57⁸ = 0,01114 rồi nói "khoảng 2,85 buyin mỗi giải" cho giải 250 người. Với 250 người: 0,01114 × 250 = 2,79 buyin. Con số 2,85 khớp với 0,01114 × 256 = 2,85 (coi giải có 256 người, tức đúng 8 lần nhân đôi), hoặc với N = log₂250 = 7,966 chính xác: 0,57^7,966 × 250 = 2,84. Kết luận "gần gấp ba equity trung bình" không đổi.
+- **Nhận xét "w_i tính bằng buyin, không phải phần của quỹ thưởng" bị ngược (trang 343, nhận xét của người tổng hợp):** phương trình xác định k là 2^N · Σ q_i·w_i = (2C)^D. Ở bước sau tác giả dùng Σ i·w_i = 1, điều chỉ đúng khi w_i là **phần của quỹ thưởng** (vì Σ i·w_i = P, tổng quỹ). Thừa số 2^N = X đổi phần quỹ thưởng ra buyin. Vậy để đạo hàm đúng, w_i phải là phần của quỹ, và chính ví dụ kiểm tra cuối chương cũng dùng w₁ = 154/256, w₂ = 102/256 (phần của quỹ).
+- **Đơn vị "buyin" trong ví dụ Q♠T♠ (trang 337, nhận xét của người tổng hợp):** sách ghi 0,024603, 0,009269, 0,008857 "buyins", nhưng các số này là xác suất thắng giải winner-take-all (phần của quỹ thưởng), vì chúng được tính từ 1,75/250. Muốn đổi ra buyin phải nhân với 250: 6,15; 2,32; 2,21 buyin. Kết luận fold tốt hơn call không đổi.
+- **Tham chiếu sai chỗ (trang 333):** sách hứa bàn việc mua rebuy "ở phần sau của chương này", nhưng mục về giải rebuy nằm ở Chương 28 ([C28-giai-dau-phan-3-poker-van-la-poker.md](C28-giai-dau-phan-3-poker-van-la-poker.md)).
+- **Ký hiệu không nhất quán và lỗi in trong phần đạo hàm (trang 341–345):**
+  - (a) định nghĩa q_i được in là Σ_{i=1}^{X} p_i; đúng phải là q_i = Σ_{j=1}^{i} p_j (cộng dồn tới hạng i).
+  - (b) định nghĩa w_i được in là Σ_{i=1}^{X} (v_i − v_{i+1}); đúng phải là w_i = v_i − v_{i+1} (không có dấu tổng).
+  - (c) trong chứng minh Σ i·w_i = P, dòng đầu in "v_{i−v}" thay cho v_i.
+  - (d) ví dụ ba mức thưởng và ví dụ kiểm tra cuối chương đổi tên w thành g (g₁ = v₁ − v₂…) mà không báo.
+  - (e) chữ N vừa là số lần nhân đôi (N = log₂X) vừa là số thứ hạng trong giả định "về hạng N" và trong "q_N".
+  - (f) câu "giả sử e đủ gần 0,5" phải là "giả sử ε đủ gần 0" (vì ε = 2C − 1, và C gần 0,5).
+  - (g) phép khai triển (1 + ε)^x ≈ 1 + xε là xấp xỉ bậc một, sách viết dấu "=".
+- **Lớp chữ và ảnh trang:** các công thức ở trang 340 (tính d), 343–344 (phương trình xác định k và bốn bước biến đổi) bị hỏng cả trong lớp chữ lẫn trong ảnh trang (bản dựng lại bằng LibreOffice in ra các ký tự "¿" thay cho vế phải). Người tổng hợp dựng lại các công thức từ ngữ cảnh và kiểm tra bằng số: d = ln(2(0,02·(2·154/256 − 1) + 0,5)) / ln(1,04) + 7 = 7,2063, k = 2^d = 147,68, khớp với sách.
+
+  Lớp chữ cũng in "E — 1/X" (đúng là E = 1/X), "values of A"" (đúng là giá trị của X), "symbol 5" (đúng là δ), "13000" (đúng là 1/3000), "34 of a buyin" (đúng là 3/4), "'/4 chance" (đúng là 1/4), "brushing" (đúng là busting), "hi fact" (in fact), "whining player" (winning player).
+- **Tính lại:** mọi con số khác của chương đều khớp khi tính lại: C = 0,02^{1/log₂100} = 0,5550; C^{log₂50} = 0,0360; C = (1,75/250)^{1/log₂250} = 0,5364; 0,5364^{log₂(250/4,05)} = 0,024603; 0,5364^{log₂(250/1,36667)} = 0,009269; 0,36 × 0,024603 = 0,008857; 0,36 × 6.075 − 2.050 = 137; 0,55² = 0,3025; 0,53^{log₂(147,68/16)} × 147,68 = 19,287; 0,53³ × (0,53 × 154 + 0,47 × 102) = 19,288; 256 / 2^{204/256} = 147,35.
+- **Quy ước thuật ngữ:** "equity" giữ nguyên tiếng Anh (phần giá trị kỳ vọng của người chơi trong pot hoặc trong quỹ thưởng); "chip equity" dịch là equity chip (số chip giữ trong tay), "prize equity" là equity giải thưởng (giá trị tiền kỳ vọng của số chip đó). "Buyin" là phí tham gia giải; equity tính bằng buyin. Chip giải đấu ghi T100, T400 như sách (T là "tournament").
