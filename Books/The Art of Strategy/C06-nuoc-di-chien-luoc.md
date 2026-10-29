@@ -1,11 +1,14 @@
 # Chương 6 — Nước đi chiến lược (Strategic Moves)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 6 (Phần II).
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I (chương 1 đến 4; các công cụ nằm ở chương 2 đến 4) dạy cách tìm lời giải của một trò chơi **đã cho sẵn**: suy luận ngược trong trò chơi tuần tự, chiến lược trội và cân bằng Nash trong trò chơi đồng thời, thế lưỡng nan của người tù. Chương 5 mở Phần II bằng chiến lược hỗn hợp, tức cách hành động khi muốn đối thủ không đoán được mình. Chương 6 đổi câu hỏi: thay vì chơi giỏi trong luật chơi có sẵn, người chơi có thể **thay đổi chính trò chơi** để kết quả nghiêng về phía mình không? Chương này trình bày phần "cái gì" (what) của nước đi chiến lược: cam kết, đe doạ, hứa hẹn, cùng các biến thể như răn đe, cưỡng ép và chiến lược bên bờ vực. Chương 7 sẽ trình bày phần "làm thế nào" (how), tức các cách làm cho nước đi chiến lược đáng tin. Phần III dùng lại các khái niệm này cho thông tin, mặc cả, đấu giá và động cơ khuyến khích.
-**Ý chính:** Hai tác giả muốn người đọc hiểu rằng một người chơi có thể tự làm lợi cho mình bằng cách **hạn chế chính sự lựa chọn của mình** hoặc **cam kết trước một quy tắc phản ứng**, miễn là đối thủ thấy và tin điều đó. Ví dụ trung tâm là trò chơi kẻ nhát gan (chicken) giữa hai thanh niên lái xe lao vào nhau: người tháo vô lăng ném ra ngoài cửa sổ cho đối thủ thấy thì không thể né nữa, nên đối thủ buộc phải né; "tự do lựa chọn là tự do để thua". Tương tự, bản thân buổi tối đặt đồng hồ báo thức ở góc phòng để buộc bản thân buổi sáng phải dậy, dù đặt báo thức là một chiến lược bị trội. Chương phân biệt cam kết (vô điều kiện) với đe doạ và hứa hẹn (có điều kiện), phân biệt răn đe với cưỡng ép, phân biệt đe doạ thật với lời cảnh báo đơn thuần, và kết bằng chiến lược bên bờ vực: cố ý tạo ra một rủi ro mà cả hai bên đều sợ, như Kennedy làm trong khủng hoảng tên lửa Cuba năm 1962.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008. Một số chi tiết mở đầu là số liệu thời điểm đó: 2,12 triệu kết quả tìm kiếm Google cho cụm "New Year's resolutions", định nghĩa trên Wikipedia, khảo sát của CNN. Các con số này chắc chắn đã khác nhiều. Chương có 5 chú thích chân trang của tác giả (đồng hồ Clocky; chi phí cam kết quá cao; đe doạ có thể rút lại và ví dụ de Gaulle; cách nói sai "brinksmanship"; khủng hoảng Cuba như trò chơi nhiều người theo Graham Allison), tất cả được đưa vào phần Nội dung chi tiết, đúng chỗ, ghi "Chú thích của tác giả". Chương có 5 hình (hai cây trò chơi, một bảng kết quả, một sơ đồ phân loại nước đi chiến lược, một bảng tóm tắt răn đe/cưỡng ép); tất cả được dựng lại. Chương có bài tập ngắn "(Mini) Trip to the Gym No. 4" về Chiến tranh Lạnh; đáp án của sách (phần Workouts, gồm hai cây trò chơi) được đưa vào ngay sau đề bài. Về lỗi nhỏ của sách: câu "the response rule must put be in place" bị thừa chữ; tên con tàu Liban đầu tiên bị khám xét trong vụ phong toả Cuba được sách viết là *Marcula*, trong khi tài liệu lịch sử thường ghi là *Marucla* (có lẽ là lỗi chính tả). Các câu trích là bản dịch của người tổng hợp.
+Hai tác giả muốn người đọc hiểu rằng một người chơi có thể tự làm lợi cho mình bằng cách **hạn chế chính sự lựa chọn của mình** hoặc **cam kết trước một quy tắc phản ứng**, miễn là đối thủ thấy và tin điều đó.
+
+Ví dụ trung tâm là trò chơi kẻ nhát gan (chicken) giữa hai thanh niên lái xe lao vào nhau: người tháo vô lăng ném ra ngoài cửa sổ cho đối thủ thấy thì không thể né nữa, nên đối thủ buộc phải né; "tự do lựa chọn là tự do để thua".
+
+Tương tự, bản thân buổi tối đặt đồng hồ báo thức ở góc phòng để buộc bản thân buổi sáng phải dậy, dù đặt báo thức là một chiến lược bị trội.
+
+Chương phân biệt cam kết (vô điều kiện) với đe doạ và hứa hẹn (có điều kiện), phân biệt răn đe với cưỡng ép, phân biệt đe doạ thật với lời cảnh báo đơn thuần, và kết bằng chiến lược bên bờ vực: cố ý tạo ra một rủi ro mà cả hai bên đều sợ, như Kennedy làm trong khủng hoảng tên lửa Cuba năm 1962.
 
 ## Sơ đồ
 
@@ -609,7 +612,9 @@ Theo hai tác giả, cuộc chiến giảm cân (hay tiết kiệm) là trò ch�
 
 Hai tác giả định nghĩa: những hành động thay đổi trò chơi để bảo đảm kết quả tốt hơn cho người hành động gọi là **nước đi chiến lược**. Có hai mặt cần xét: cần làm gì, và làm như thế nào. Mặt thứ nhất thuộc khoa học lý thuyết trò chơi; mặt thứ hai tuỳ từng tình huống, nghệ thuật nhiều hơn khoa học. Hai tác giả hứa trang bị phần khoa học và truyền đạt một phần nghệ thuật qua ví dụ, phần còn lại người đọc phải tự phát triển dựa trên hiểu biết về tình huống của mình.
 
-**Trò chơi kẻ nhát gan (chicken).** Ví dụ thứ hai về việc thay đổi trò chơi cho thấy tự bớt lựa chọn có thể giúp mình thắng. Bạn là một thiếu niên Mỹ ở thị trấn nhỏ thập niên 1950, tối thứ Bảy cùng nhóm bạn chơi các trò tranh xem ai là "con đực đầu đàn". Trò đầu tiên là trò chơi kẻ nhát gan: hai người lái xe lao thẳng vào nhau, ai né trước là kẻ nhát gan (chữ "chicken", con gà, trong tiếng lóng Mỹ), tức kẻ thua. Nếu cả hai cùng muốn thắng, cả hai có thể vào viện hoặc tệ hơn. Chương 4 đã phân tích trò chơi này (qua hai thợ săn thời đồ đá Fred và Barney) và thấy nó có hai cân bằng Nash: bạn đi thẳng còn đối thủ né, hoặc bạn né còn đối thủ đi thẳng. Bạn thích cân bằng thứ nhất. Câu hỏi mới: bạn có làm gì được để đạt cân bằng mình thích không?
+**Trò chơi kẻ nhát gan (chicken).** Ví dụ thứ hai về việc thay đổi trò chơi cho thấy tự bớt lựa chọn có thể giúp mình thắng. Bạn là một thiếu niên Mỹ ở thị trấn nhỏ thập niên 1950, tối thứ Bảy cùng nhóm bạn chơi các trò tranh xem ai là "con đực đầu đàn". Trò đầu tiên là trò chơi kẻ nhát gan: hai người lái xe lao thẳng vào nhau, ai né trước là kẻ nhát gan (chữ "chicken", con gà, trong tiếng lóng Mỹ), tức kẻ thua.
+
+Nếu cả hai cùng muốn thắng, cả hai có thể vào viện hoặc tệ hơn. Chương 4 đã phân tích trò chơi này (qua hai thợ săn thời đồ đá Fred và Barney) và thấy nó có hai cân bằng Nash: bạn đi thẳng còn đối thủ né, hoặc bạn né còn đối thủ đi thẳng. Bạn thích cân bằng thứ nhất. Câu hỏi mới: bạn có làm gì được để đạt cân bằng mình thích không?
 
 Bạn có thể xây danh tiếng là người không bao giờ né, nhưng muốn vậy bạn phải thắng các ván trước, nên câu hỏi chỉ chuyển sang các ván đó. Một cách viển vông nhưng hiệu quả: tháo vô lăng khỏi trục lái và ném ra ngoài cửa sổ sao cho đối thủ thấy rõ. Giờ đối thủ biết bạn *không thể* né; toàn bộ trách nhiệm tránh va chạm thuộc về anh ta. Trong trò chơi mới, bạn chỉ có một chiến lược là đi thẳng, và phản ứng tốt nhất (đúng hơn là ít tệ nhất) của đối thủ là né. Bạn bất lực khi cầm lái, nhưng chính sự bất lực đó làm bạn thắng.
 
@@ -621,7 +626,9 @@ Ví dụ này cũng là lời cảnh báo: nước đi chiến lược không ch
 
 Con người và các quốc gia đã dùng cam kết, đe doạ và hứa hẹn hàng nghìn năm, hiểu bằng trực giác rằng độ tin cậy là quan trọng, và đã nghĩ ra cả chiến lược đối phó. Odysseus trong sử thi của Homer tự trói mình vào cột buồm là đưa ra một cam kết đáng tin rằng sẽ không bị tiếng hát của các nàng Siren dụ dỗ. Cha mẹ hiểu rằng đe doạ phạt con một cách lạnh lùng thì khó tin, nhưng câu "Con muốn mẹ nổi giận à?" thì đáng tin hơn nhiều. Các vị vua trong lịch sử hiểu rằng tự nguyện trao đổi con tin, tức gửi con cái hay người thân yêu quý sang sống trong gia đình vua đối thủ, giúp lời hứa chung sống hoà bình của hai bên đáng tin.
 
-Lý thuyết trò chơi giúp hiểu và thống nhất khung khái niệm của các chiến lược đó. Nhưng trong thập kỷ đầu, lý thuyết trò chơi chỉ tập trung mô tả các loại cân bằng trong một trò chơi *cho sẵn* (suy luận ngược trong trò chơi tuần tự, minimax trong trò chơi tổng bằng không hai người, cân bằng Nash trong trò chơi đồng thời nói chung) và minh hoạ chúng bằng thế lưỡng nan của người tù, trò chơi bảo đảm (assurance), trận chiến giới tính (battle of the sexes) và trò chơi kẻ nhát gan. Thomas Schelling là người đầu tiên đưa ý tưởng rằng một hoặc cả hai người chơi có thể hành động để *thay đổi trò chơi* thành chủ đề trung tâm của lý thuyết trò chơi. Các bài viết của ông cuối thập niên 1950 và đầu 1960, tập hợp và phát triển trong *The Strategy of Conflict* (1960) và *Arms and Influence* (1965), đã cho định nghĩa chính xác về cam kết, đe doạ và hứa hẹn, làm rõ điều kiện cần cho độ tin cậy, và phân tích chiến lược bên bờ vực, vốn bị hiểu sai nhiều trước đó.
+Lý thuyết trò chơi giúp hiểu và thống nhất khung khái niệm của các chiến lược đó. Nhưng trong thập kỷ đầu, lý thuyết trò chơi chỉ tập trung mô tả các loại cân bằng trong một trò chơi *cho sẵn* (suy luận ngược trong trò chơi tuần tự, minimax trong trò chơi tổng bằng không hai người, cân bằng Nash trong trò chơi đồng thời nói chung) và minh hoạ chúng bằng thế lưỡng nan của người tù, trò chơi bảo đảm (assurance), trận chiến giới tính (battle of the sexes) và trò chơi kẻ nhát gan.
+
+Thomas Schelling là người đầu tiên đưa ý tưởng rằng một hoặc cả hai người chơi có thể hành động để *thay đổi trò chơi* thành chủ đề trung tâm của lý thuyết trò chơi. Các bài viết của ông cuối thập niên 1950 và đầu 1960, tập hợp và phát triển trong *The Strategy of Conflict* (1960) và *Arms and Influence* (1965), đã cho định nghĩa chính xác về cam kết, đe doạ và hứa hẹn, làm rõ điều kiện cần cho độ tin cậy, và phân tích chiến lược bên bờ vực, vốn bị hiểu sai nhiều trước đó.
 
 Vài năm sau, Reinhard Selten phát triển độ tin cậy một cách hình thức chặt chẽ hơn qua khái niệm cân bằng hoàn hảo trong trò chơi con, một sự mở rộng của cân bằng suy luận ngược ở Chương 2. Năm 1994, Selten nằm trong nhóm nhà lý thuyết trò chơi đầu tiên nhận giải Nobel, cùng John Nash và John Harsanyi.
 
@@ -670,7 +677,9 @@ Bản thân buổi tối có thể đổi trò chơi thành như sau:
                                        └══ Dậy ═════► Tối: 8    Sáng: −1
 ```
 
-Lúc này con số có ý nghĩa hơn một chút. Ở nhánh trên (không báo thức), cây giống như trước. Ở nhánh dưới, bản thân buổi tối tốn một chi phí nhỏ, 2 điểm, để đặt báo thức. Nếu bản thân buổi sáng nghe chuông và dậy, bản thân buổi tối được 8 điểm thay vì 10. Nếu bản thân buổi sáng lờ chuông đi, bản thân buổi tối được −2 điểm vì công đặt báo thức thành vô ích. Bản thân buổi sáng chịu phiền vì nghe chuông: chỉ 1 điểm nếu dậy tắt ngay, nhưng tới 15 điểm, không chịu nổi, nếu nằm tiếp trong khi chuông cứ kêu, biến niềm vui nằm giường (10) thành −5 (10 − 15). Khi đã có báo thức, bản thân buổi sáng thích −1 hơn −5 nên dậy. Bản thân buổi tối nhìn trước điều đó và thấy rằng đặt báo thức cho mình 8 điểm, hơn 0 điểm của trò chơi gốc. Vậy trong cân bằng suy luận ngược, bản thân buổi tối đặt báo thức và bản thân buổi sáng dậy nếu có báo thức.
+Lúc này con số có ý nghĩa hơn một chút. Ở nhánh trên (không báo thức), cây giống như trước. Ở nhánh dưới, bản thân buổi tối tốn một chi phí nhỏ, 2 điểm, để đặt báo thức. Nếu bản thân buổi sáng nghe chuông và dậy, bản thân buổi tối được 8 điểm thay vì 10. Nếu bản thân buổi sáng lờ chuông đi, bản thân buổi tối được −2 điểm vì công đặt báo thức thành vô ích.
+
+Bản thân buổi sáng chịu phiền vì nghe chuông: chỉ 1 điểm nếu dậy tắt ngay, nhưng tới 15 điểm, không chịu nổi, nếu nằm tiếp trong khi chuông cứ kêu, biến niềm vui nằm giường (10) thành −5 (10 − 15). Khi đã có báo thức, bản thân buổi sáng thích −1 hơn −5 nên dậy. Bản thân buổi tối nhìn trước điều đó và thấy rằng đặt báo thức cho mình 8 điểm, hơn 0 điểm của trò chơi gốc. Vậy trong cân bằng suy luận ngược, bản thân buổi tối đặt báo thức và bản thân buổi sáng dậy nếu có báo thức.
 
 > **Chú thích của tác giả:** Nếu chi phí của hành động quá cao, chẳng hạn bản thân buổi tối phải đặt một thiết bị hẹn giờ gây cháy trên giường để đuổi bản thân buổi sáng dậy, thì cam kết đó không còn là lựa chọn tối ưu của bản thân buổi tối.
 
@@ -685,7 +694,9 @@ Bảng dựng lại từ sách. Mỗi ô ghi (kết quả của bản thân bu�
 
 Với mỗi chiến lược cho sẵn của bản thân buổi sáng, kết quả của bản thân buổi tối khi đặt báo thức luôn thấp hơn khi không đặt: −2 nhỏ hơn 0, và 8 nhỏ hơn 10. Như vậy với bản thân buổi tối, "Đặt báo thức" là chiến lược bị trội bởi "Không báo thức". Vậy mà bản thân buổi tối vẫn thấy nên cam kết đặt báo thức.
 
-Hai tác giả giải thích bằng cách làm rõ khái niệm trội. "Không báo thức" trội hơn "Đặt báo thức" vì với mỗi chiến lược *cho sẵn* của bản thân buổi sáng, nó cho bản thân buổi tối kết quả cao hơn. Nếu hai bên đi đồng thời, hoặc bản thân buổi tối đi sau, thì bản thân buổi tối không thể tác động tới lựa chọn của bản thân buổi sáng và phải coi nó là cho sẵn. Nhưng mục đích của nước đi chiến lược chính là *thay đổi* lựa chọn của người kia, không phải coi nó là cho sẵn. Nếu bản thân buổi tối đặt báo thức, bản thân buổi sáng sẽ dậy và bản thân buổi tối được 8; nếu không đặt, bản thân buổi sáng nằm tiếp và bản thân buổi tối được 0; và 8 lớn hơn 0. Các kết quả 10 và −2, cùng việc so sánh chúng với 8 và 0, trở nên không còn liên quan. Do đó, với người đi trước trong trò chơi tuần tự, khái niệm trội mất ý nghĩa.
+Hai tác giả giải thích bằng cách làm rõ khái niệm trội. "Không báo thức" trội hơn "Đặt báo thức" vì với mỗi chiến lược *cho sẵn* của bản thân buổi sáng, nó cho bản thân buổi tối kết quả cao hơn. Nếu hai bên đi đồng thời, hoặc bản thân buổi tối đi sau, thì bản thân buổi tối không thể tác động tới lựa chọn của bản thân buổi sáng và phải coi nó là cho sẵn. Nhưng mục đích của nước đi chiến lược chính là *thay đổi* lựa chọn của người kia, không phải coi nó là cho sẵn.
+
+Nếu bản thân buổi tối đặt báo thức, bản thân buổi sáng sẽ dậy và bản thân buổi tối được 8; nếu không đặt, bản thân buổi sáng nằm tiếp và bản thân buổi tối được 0; và 8 lớn hơn 0. Các kết quả 10 và −2, cùng việc so sánh chúng với 8 và 0, trở nên không còn liên quan. Do đó, với người đi trước trong trò chơi tuần tự, khái niệm trội mất ý nghĩa.
 
 Hai tác giả cho biết phần lớn ví dụ còn lại của chương sẽ chỉ được trình bày bằng lời, nhưng người đọc có thể tự vẽ cây hoặc bảng để củng cố hiểu biết.
 
@@ -718,7 +729,9 @@ Mục đích chung của đe doạ và hứa hẹn giống cam kết: khiến ng
 
 Tên cướp ngân hàng giữ nhân viên làm con tin và đặt quy tắc rằng sẽ giết họ nếu yêu sách bị từ chối là đưa ra một đe doạ cưỡng ép. Trong Chiến tranh Lạnh, Mỹ doạ đáp trả bằng vũ khí hạt nhân nếu Liên Xô tấn công bất kỳ nước NATO nào là một đe doạ răn đe. Hai lời đe doạ có chung một đặc điểm: *cả hai* bên đều chịu thêm chi phí nếu đe doạ phải được thực hiện. Tên cướp sẽ bị phạt nặng hơn khi bị bắt nếu thêm tội giết người vào tội cướp có vũ trang; Mỹ sẽ chịu thiệt hại khủng khiếp trong chiến tranh hạt nhân, trong khi nước này vẫn có thể sống được với một châu Âu do Liên Xô chi phối.
 
-Hứa hẹn cũng có thể là cưỡng ép hoặc răn đe. Hứa hẹn cưỡng ép nhằm khiến ai đó làm một việc có lợi cho bạn: công tố viên cần nhân chứng để củng cố vụ án hứa giảm án cho một bị cáo nếu người đó làm chứng chống các đồng phạm. Hứa hẹn răn đe nhằm ngăn ai đó làm điều trái lợi ích của bạn: bọn mafia hứa bảo vệ một đồng bọn nếu hắn giữ im lặng. Giống hai loại đe doạ, hai loại hứa hẹn cũng có chung một đặc điểm: sau khi người kia đã làm theo, người hứa không còn cần trả chi phí thưởng và bị cám dỗ nuốt lời. Chẳng hạn, sau khi các trùm mafia bị xử được trắng án vì thiếu chứng cứ, chúng có thể vẫn giết người đồng bọn để tránh mọi rắc rối hay bị tống tiền về sau.
+Hứa hẹn cũng có thể là cưỡng ép hoặc răn đe. Hứa hẹn cưỡng ép nhằm khiến ai đó làm một việc có lợi cho bạn: công tố viên cần nhân chứng để củng cố vụ án hứa giảm án cho một bị cáo nếu người đó làm chứng chống các đồng phạm. Hứa hẹn răn đe nhằm ngăn ai đó làm điều trái lợi ích của bạn: bọn mafia hứa bảo vệ một đồng bọn nếu hắn giữ im lặng.
+
+Giống hai loại đe doạ, hai loại hứa hẹn cũng có chung một đặc điểm: sau khi người kia đã làm theo, người hứa không còn cần trả chi phí thưởng và bị cám dỗ nuốt lời. Chẳng hạn, sau khi các trùm mafia bị xử được trắng án vì thiếu chứng cứ, chúng có thể vẫn giết người đồng bọn để tránh mọi rắc rối hay bị tống tiền về sau.
 
 **Bài tập (Mini) Trip to the Gym No. 4.** Đề bài: dựng cây trò chơi Chiến tranh Lạnh và chỉ ra lời đe doạ của Mỹ thay đổi kết quả cân bằng như thế nào.
 
@@ -736,7 +749,9 @@ Hứa hẹn cũng có thể là cưỡng ép hoặc răn đe. Hứa hẹn cưỡ
                    └── Giữ hiện trạng ─────────────────────►   0;    0
 ```
 
-Nếu Liên Xô xâm lược Tây Âu, Mỹ sẽ mất một ít uy tín nếu không đáp trả và chấp nhận việc đã rồi. Nhưng Mỹ sẽ thua về quân sự, thương vong nặng và có thể mất uy tín còn lớn hơn nếu đáp trả bằng vũ khí thông thường, vì quân đội Liên Xô đông hơn nhiều và họ ít quan tâm tới thương vong hơn. Mỹ sẽ thiệt hại còn nặng hơn nhiều nếu đáp trả bằng vũ khí hạt nhân, vì Liên Xô sẽ phản công thẳng vào lãnh thổ Mỹ bằng vũ khí hạt nhân. Do đó, sau khi sự việc đã xảy ra, phản ứng ít tệ nhất của Mỹ là bỏ mặc Tây Âu. Nếu người đọc thấy kịch bản này khó xảy ra, thì các thành viên châu Âu của NATO lại thấy nó rất có thể xảy ra, và họ muốn Mỹ cam kết đáng tin về việc đáp trả. Lời đe doạ của Mỹ "chúng tôi sẽ đáp trả bằng vũ khí hạt nhân nếu các ông tấn công Tây Âu" loại bỏ hai nhánh đầu tại điểm Mỹ chọn hành động, và biến trò chơi thành:
+Nếu Liên Xô xâm lược Tây Âu, Mỹ sẽ mất một ít uy tín nếu không đáp trả và chấp nhận việc đã rồi. Nhưng Mỹ sẽ thua về quân sự, thương vong nặng và có thể mất uy tín còn lớn hơn nếu đáp trả bằng vũ khí thông thường, vì quân đội Liên Xô đông hơn nhiều và họ ít quan tâm tới thương vong hơn. Mỹ sẽ thiệt hại còn nặng hơn nhiều nếu đáp trả bằng vũ khí hạt nhân, vì Liên Xô sẽ phản công thẳng vào lãnh thổ Mỹ bằng vũ khí hạt nhân.
+
+Do đó, sau khi sự việc đã xảy ra, phản ứng ít tệ nhất của Mỹ là bỏ mặc Tây Âu. Nếu người đọc thấy kịch bản này khó xảy ra, thì các thành viên châu Âu của NATO lại thấy nó rất có thể xảy ra, và họ muốn Mỹ cam kết đáng tin về việc đáp trả. Lời đe doạ của Mỹ "chúng tôi sẽ đáp trả bằng vũ khí hạt nhân nếu các ông tấn công Tây Âu" loại bỏ hai nhánh đầu tại điểm Mỹ chọn hành động, và biến trò chơi thành:
 
 ```text
        Hình dựng lại từ sách (phần Workouts) — sau lời đe doạ hạt nhân.
@@ -792,7 +807,9 @@ Khi bạn vốn có lợi khi thực hiện một "lời đe doạ", hai tác gi
 
 Trong kinh doanh: việc B. B. Lean bằng giá Rainbow's End khi đối thủ hạ giá là đe doạ hay lời cảnh báo? Ở Chương 4, hai tác giả đã tìm phản ứng tốt nhất của B. B. Lean với các mức giá Rainbow's End có thể đặt, và thấy nó nằm giữa không phản ứng và phản ứng toàn phần. Nếu B. B. Lean giữ nguyên giá khi Rainbow's End hạ giá, nó mất quá nhiều khách; nếu bằng từng đồng mức hạ của Rainbow's End, biên lợi nhuận của nó bị ép quá mức. Trong ví dụ đó, B. B. Lean cân bằng tối ưu hai yếu tố bằng cách hạ 40 xu cho mỗi 1 USD Rainbow's End hạ.
 
-Nhưng nếu B. B. Lean muốn đe doạ để răn đe Rainbow's End không khởi xướng hạ giá, nó có thể cần doạ một phản ứng lớn hơn 40 xu cho mỗi USD, tức lớn hơn mức tối ưu khi Rainbow's End thật sự hạ giá. Thậm chí nó có thể muốn doạ một phản ứng siêu quyết liệt, hơn 1 USD cho mỗi USD, bằng cách in **điều khoản thấp hơn giá đối thủ** (beat-the-competition clause) thay vì chỉ điều khoản bằng giá đối thủ. Theo thuật ngữ của hai tác giả, những công cụ này là đe doạ thật: B. B. Lean sẽ chịu tốn kém nếu Rainbow's End thử thách. Lời đe doạ đáng tin vì chính sách được in trong catalog, khách hàng coi đó như luật, và B. B. Lean không thể nuốt lời. Ngược lại, nếu catalog của B. B. Lean ghi: "Cứ mỗi USD giá của Rainbow's End thấp hơn 80 USD, chúng tôi sẽ bán thấp hơn giá catalog 80 USD của mình 40 xu", thì đó chỉ là lời cảnh báo gửi Rainbow's End; nếu bị thử thách, B. B. Lean vẫn muốn làm đúng như vậy.
+Nhưng nếu B. B. Lean muốn đe doạ để răn đe Rainbow's End không khởi xướng hạ giá, nó có thể cần doạ một phản ứng lớn hơn 40 xu cho mỗi USD, tức lớn hơn mức tối ưu khi Rainbow's End thật sự hạ giá. Thậm chí nó có thể muốn doạ một phản ứng siêu quyết liệt, hơn 1 USD cho mỗi USD, bằng cách in **điều khoản thấp hơn giá đối thủ** (beat-the-competition clause) thay vì chỉ điều khoản bằng giá đối thủ.
+
+Theo thuật ngữ của hai tác giả, những công cụ này là đe doạ thật: B. B. Lean sẽ chịu tốn kém nếu Rainbow's End thử thách. Lời đe doạ đáng tin vì chính sách được in trong catalog, khách hàng coi đó như luật, và B. B. Lean không thể nuốt lời. Ngược lại, nếu catalog của B. B. Lean ghi: "Cứ mỗi USD giá của Rainbow's End thấp hơn 80 USD, chúng tôi sẽ bán thấp hơn giá catalog 80 USD của mình 40 xu", thì đó chỉ là lời cảnh báo gửi Rainbow's End; nếu bị thử thách, B. B. Lean vẫn muốn làm đúng như vậy.
 
 Khi bạn vốn có lợi khi thực hiện một lời hứa, hai tác giả gọi đó là lời trấn an. Trong ví dụ giá áo, B. B. Lean có thể muốn ngầm cho Rainbow's End biết rằng nếu họ giữ mức giá cấu kết 80 USD thì B. B. Lean cũng giữ. Nếu trò chơi chỉ chơi một lần, làm vậy không có lợi cho B. B. Lean sau khi sự việc đã xảy ra, nên đó là nước đi chiến lược thật, tức một lời hứa. Nếu trò chơi lặp lại, khiến hợp tác liên tục là một cân bằng như ở Chương 3, thì tuyên bố của B. B. Lean là lời trấn an, chỉ nhằm cho Rainbow's End biết rằng B. B. Lean hiểu rõ bản chất của trò chơi lặp lại và lối thoát nó mở ra cho thế lưỡng nan.
 
@@ -810,7 +827,9 @@ Người ta tự nhiên nghĩ tới lợi ích mình có được từ nước �
 2. Chờ một lời đe doạ trước khi hành động.
 3. Chờ một lời hứa hẹn trước khi hành động.
 
-**Để người khác cam kết trước.** Đã có ví dụ người có thể đi trước nhưng lại được lợi hơn khi từ bỏ quyền đó và để bên kia đi nước vô điều kiện. Điều này đúng mỗi khi đi sau tốt hơn đi trước, như câu chuyện đua thuyền America's Cup ở Chương 1 (và tình huống cá cược ở dạ hội Cambridge May Ball ở Chương 14). Tổng quát hơn, nếu trò chơi tuần tự có lợi thế đi sau, bạn được lợi khi sắp xếp để người kia phải đi trước, tức phải cam kết vô điều kiện. Nhưng nhường thế chủ động không phải quy tắc chung. Có khi mục tiêu của bạn lại là ngăn đối thủ cam kết vô điều kiện. Đó là ý của nhà chiến lược quân sự Trung Hoa Tôn Tử khi khuyên chừa cho địch một đường thoát: để địch không cam kết chiến đấu đến chết.
+**Để người khác cam kết trước.** Đã có ví dụ người có thể đi trước nhưng lại được lợi hơn khi từ bỏ quyền đó và để bên kia đi nước vô điều kiện. Điều này đúng mỗi khi đi sau tốt hơn đi trước, như câu chuyện đua thuyền America's Cup ở Chương 1 (và tình huống cá cược ở dạ hội Cambridge May Ball ở Chương 14).
+
+Tổng quát hơn, nếu trò chơi tuần tự có lợi thế đi sau, bạn được lợi khi sắp xếp để người kia phải đi trước, tức phải cam kết vô điều kiện. Nhưng nhường thế chủ động không phải quy tắc chung. Có khi mục tiêu của bạn lại là ngăn đối thủ cam kết vô điều kiện. Đó là ý của nhà chiến lược quân sự Trung Hoa Tôn Tử khi khuyên chừa cho địch một đường thoát: để địch không cam kết chiến đấu đến chết.
 
 **Không bao giờ nên để người khác đe doạ mình.** Bạn luôn có thể làm điều họ muốn mà không cần bị đe doạ. Việc họ có thể làm bạn thiệt nếu bạn không hợp tác không thể giúp bạn, vì nó thu hẹp các lựa chọn của bạn. Nhưng châm ngôn này chỉ áp dụng cho đe doạ.
 
@@ -824,7 +843,9 @@ Câu chuyện cho thấy sự phân biệt giữa đe doạ và hứa hẹn ch�
 
 Vậy nên dùng đe doạ hay hứa hẹn? Câu trả lời phụ thuộc hai yếu tố.
 
-**Yếu tố thứ nhất là chi phí.** Đe doạ có thể rẻ hơn; thực ra nó không tốn gì nếu thành công. Nếu nó thay đổi hành vi của người kia theo ý bạn, bạn không phải thực hiện hành động tốn kém đã doạ. Hứa hẹn, nếu thành công, thì phải thực hiện: người kia làm theo ý bạn thì bạn phải trao phần thưởng tốn kém đã hứa. Một công ty nếu có thể doạ nhân viên bằng hậu quả khủng khiếp khi thành tích không xuất sắc sẽ tiết kiệm được nhiều tiền thường phải trả cho các khoản thưởng đã hứa. Thực tế Stalin đã thử chỉ dùng gậy mà không dùng cà rốt, tức doạ đày tới trại Gulag ở Siberia thay vì hứa lương hay điều kiện sống tốt hơn, để công nhân Liên Xô làm việc tốt. Nhưng hệ thống của ông không hiệu quả vì cách đánh giá thành tích thiếu chính xác, tuỳ tiện và tham nhũng (điểm này được bàn tiếp ở mục sau).
+**Yếu tố thứ nhất là chi phí.** Đe doạ có thể rẻ hơn; thực ra nó không tốn gì nếu thành công. Nếu nó thay đổi hành vi của người kia theo ý bạn, bạn không phải thực hiện hành động tốn kém đã doạ. Hứa hẹn, nếu thành công, thì phải thực hiện: người kia làm theo ý bạn thì bạn phải trao phần thưởng tốn kém đã hứa.
+
+Một công ty nếu có thể doạ nhân viên bằng hậu quả khủng khiếp khi thành tích không xuất sắc sẽ tiết kiệm được nhiều tiền thường phải trả cho các khoản thưởng đã hứa. Thực tế Stalin đã thử chỉ dùng gậy mà không dùng cà rốt, tức doạ đày tới trại Gulag ở Siberia thay vì hứa lương hay điều kiện sống tốt hơn, để công nhân Liên Xô làm việc tốt. Nhưng hệ thống của ông không hiệu quả vì cách đánh giá thành tích thiếu chính xác, tuỳ tiện và tham nhũng (điểm này được bàn tiếp ở mục sau).
 
 **Yếu tố thứ hai là mục đích răn đe hay cưỡng ép.** Hai mục đích có chiều thời gian khác nhau. Răn đe không nhất thiết cần hạn chót: nó chỉ là bảo người kia đừng làm việc gì đó và truyền đạt một cách đáng tin hậu quả xấu nếu họ làm. Mỹ nói với Liên Xô: "Đừng xâm lược Tây Âu"; Chúa nói với Adam và Eva: "Đừng ăn quả táo." "Khi nào?" "Không bao giờ."
 
@@ -850,7 +871,9 @@ Chắc chắn cũng không đòi hỏi mọi thứ xảy ra cùng lúc. Đe do�
 
 Nếu đe doạ thành công thì không phải thực hiện hành động đã doạ; dù thực hiện nó tốn kém, vì không phải làm nên chi phí không liên quan. Vậy sao không dùng một lời đe doạ khổng lồ để người kia khiếp sợ mà làm theo? Thay vì lịch sự nhờ người ngồi cạnh trong bữa tối đưa lọ muối, sao không doạ: "Không đưa lọ muối thì tôi đập vỡ đầu anh"? Thay vì kiên nhẫn đàm phán với các đối tác thương mại để họ hạ rào cản với hàng xuất khẩu của Mỹ, sao Mỹ không doạ ném bom hạt nhân nếu họ không mua thêm thịt bò, lúa mì hay cam của Mỹ?
 
-Đây rõ ràng là ý tưởng kinh khủng; những lời doạ này quá lớn để dùng được hay để người ta tin. Một phần vì chúng gây kinh hoàng và ghê tởm do vi phạm thô bạo mọi chuẩn mực xã hội. Nhưng phần khác là vì giả định "bạn sẽ không bao giờ phải thực hiện" không đúng 100%. Giả sử có gì đó trục trặc: người ngồi cạnh có thể là người cứng đầu, phản kháng mọi sự bắt nạt, hoặc một tay anh chị thích có dịp đánh nhau. Nếu anh ta từ chối, bạn phải hoặc thực hiện điều đã doạ, hoặc lùi bước và chịu nhục, mất danh tiếng. Mỹ cũng gặp tình thế tương tự nếu doạ một nước khác bằng hành động quân sự khắc nghiệt trong một tranh chấp kinh tế. Chỉ cần rủi ro nhỏ của những sai lầm cực kỳ tốn kém như vậy cũng là lý lẽ mạnh để giữ đe doạ ở mức nhỏ nhất còn đủ hiệu quả.
+Đây rõ ràng là ý tưởng kinh khủng; những lời doạ này quá lớn để dùng được hay để người ta tin. Một phần vì chúng gây kinh hoàng và ghê tởm do vi phạm thô bạo mọi chuẩn mực xã hội. Nhưng phần khác là vì giả định "bạn sẽ không bao giờ phải thực hiện" không đúng 100%. Giả sử có gì đó trục trặc: người ngồi cạnh có thể là người cứng đầu, phản kháng mọi sự bắt nạt, hoặc một tay anh chị thích có dịp đánh nhau.
+
+Nếu anh ta từ chối, bạn phải hoặc thực hiện điều đã doạ, hoặc lùi bước và chịu nhục, mất danh tiếng. Mỹ cũng gặp tình thế tương tự nếu doạ một nước khác bằng hành động quân sự khắc nghiệt trong một tranh chấp kinh tế. Chỉ cần rủi ro nhỏ của những sai lầm cực kỳ tốn kém như vậy cũng là lý lẽ mạnh để giữ đe doạ ở mức nhỏ nhất còn đủ hiệu quả.
 
 Thường bạn không biết chính xác cần đe doạ lớn tới đâu để răn đe hay cưỡng ép đối thủ. Bạn muốn giữ mức đe doạ thấp nhất có thể để giảm chi phí cho mình nếu mọi việc trục trặc và bạn phải thực hiện. Vì vậy bạn bắt đầu nhỏ rồi nâng dần. Đó là chiến lược tinh tế mang tên chiến lược bên bờ vực.
 
@@ -862,13 +885,19 @@ Rõ ràng White đe doạ Fontaine để buộc hắn khai. Nhưng đe doạ ở
 
 Phim *The Gods Must Be Crazy* có tình huống tương tự. Sau một vụ ám sát hụt tổng thống một nước châu Phi, đội cận vệ bắt được một kẻ tấn công và thẩm vấn hắn về đồng bọn. Hắn bị bịt mắt, đứng quay lưng ra cửa mở của một chiếc trực thăng đang quay cánh. Viên sĩ quan hỏi: "Thủ lĩnh của mày là ai? Sào huyệt ở đâu?" Không trả lời, viên sĩ quan đẩy hắn ra khỏi cửa. Cảnh chuyển ra ngoài: trực thăng thật ra chỉ lơ lửng cách mặt đất 1 foot (khoảng 30 cm), và người kia ngã ngửa. Viên sĩ quan xuất hiện ở cửa, cười và nói: "Lần sau sẽ cao hơn một chút." Kẻ kia sợ hãi khai ra thông tin.
 
-Mục đích của những lời đe doạ rủi ro tăng dần là gì? Mục trước đã nêu lý do để giữ đe doạ ở mức nhỏ nhất còn hiệu quả, nhưng bạn có thể không biết trước mức đó. Vì vậy hợp lý là bắt đầu nhỏ và tăng dần để tìm ra lúc nó có tác dụng. Khi quy mô hành động đe doạ tăng, chi phí thực hiện nó cũng tăng. Trong các ví dụ trên, cách tăng quy mô đe doạ là tăng *rủi ro* điều xấu xảy ra. Người đe doạ và người bị đe doạ cùng tham gia một trò chơi thăm dò sức chịu đựng chi phí, hay rủi ro, của nhau. Xác suất một phần tư Fontaine bị giết có quá lớn với Fontaine hay với White không? Nếu chưa, thử một phần ba. Họ tiếp tục đối đầu mắt nhìn mắt cho tới khi một bên chớp mắt, hoặc cho tới khi kết cục cả hai cùng sợ xảy ra.
+Mục đích của những lời đe doạ rủi ro tăng dần là gì? Mục trước đã nêu lý do để giữ đe doạ ở mức nhỏ nhất còn hiệu quả, nhưng bạn có thể không biết trước mức đó. Vì vậy hợp lý là bắt đầu nhỏ và tăng dần để tìm ra lúc nó có tác dụng. Khi quy mô hành động đe doạ tăng, chi phí thực hiện nó cũng tăng.
+
+Trong các ví dụ trên, cách tăng quy mô đe doạ là tăng *rủi ro* điều xấu xảy ra. Người đe doạ và người bị đe doạ cùng tham gia một trò chơi thăm dò sức chịu đựng chi phí, hay rủi ro, của nhau. Xác suất một phần tư Fontaine bị giết có quá lớn với Fontaine hay với White không? Nếu chưa, thử một phần ba. Họ tiếp tục đối đầu mắt nhìn mắt cho tới khi một bên chớp mắt, hoặc cho tới khi kết cục cả hai cùng sợ xảy ra.
 
 Schelling gọi đây là **chiến lược bên bờ vực** (brinkmanship).
 
 > **Chú thích của tác giả:** Nhiều người nói "brinks-manship", nghe giống nghệ thuật cướp xe chở tiền hơn. (Người tổng hợp giải thích: câu đùa chơi chữ với Brink's, tên một công ty xe bọc thép chở tiền nổi tiếng ở Mỹ.)
 
-Thuật ngữ này thường được hiểu là đưa đối thủ tới bờ vực thảm hoạ để họ chớp mắt trước: đứng ở mép vực, bạn doạ đẩy họ xuống nếu họ không làm theo ý bạn. Tất nhiên họ sẽ kéo bạn rơi theo. Vì vậy, theo Schelling, lời doạ thuần tuý lạnh lùng đẩy đối thủ khỏi bờ vực là không đáng tin. Hai tác giả dẫn lại lập luận của Schelling: nếu bờ vực được đánh dấu rõ, chỗ đứng vững chắc, không có đá lở dưới chân, không có gió giật bất ngờ, và mỗi người leo núi hoàn toàn tự chủ, không bao giờ chóng mặt, thì không ai có thể tạo rủi ro cho người kia bằng cách tiến sát mép. Dù ai cũng có thể cố ý nhảy xuống, không ai có thể giả vờ một cách đáng tin rằng mình sắp nhảy. Mọi nỗ lực đe doạ hay răn đe người kia đều dựa vào mối đe doạ trượt chân hay vấp ngã: người ta có thể đe doạ một cách đáng tin rằng mình sẽ vô tình rơi xuống bằng cách đứng gần mép. Răn đe phải được hiểu trong quan hệ với sự bất định đó. Một phản ứng mang theo một rủi ro chiến tranh nào đó (qua chuỗi hành động và phản ứng chồng chất, tính toán và tính sai, báo động thật và báo động nhầm) có thể hợp lý, thậm chí đúng đắn, vào lúc mà một quyết định cuối cùng gây chiến tranh toàn diện là không hợp lý.
+Thuật ngữ này thường được hiểu là đưa đối thủ tới bờ vực thảm hoạ để họ chớp mắt trước: đứng ở mép vực, bạn doạ đẩy họ xuống nếu họ không làm theo ý bạn. Tất nhiên họ sẽ kéo bạn rơi theo. Vì vậy, theo Schelling, lời doạ thuần tuý lạnh lùng đẩy đối thủ khỏi bờ vực là không đáng tin.
+
+Hai tác giả dẫn lại lập luận của Schelling: nếu bờ vực được đánh dấu rõ, chỗ đứng vững chắc, không có đá lở dưới chân, không có gió giật bất ngờ, và mỗi người leo núi hoàn toàn tự chủ, không bao giờ chóng mặt, thì không ai có thể tạo rủi ro cho người kia bằng cách tiến sát mép. Dù ai cũng có thể cố ý nhảy xuống, không ai có thể giả vờ một cách đáng tin rằng mình sắp nhảy. Mọi nỗ lực đe doạ hay răn đe người kia đều dựa vào mối đe doạ trượt chân hay vấp ngã: người ta có thể đe doạ một cách đáng tin rằng mình sẽ vô tình rơi xuống bằng cách đứng gần mép.
+
+Răn đe phải được hiểu trong quan hệ với sự bất định đó. Một phản ứng mang theo một rủi ro chiến tranh nào đó (qua chuỗi hành động và phản ứng chồng chất, tính toán và tính sai, báo động thật và báo động nhầm) có thể hợp lý, thậm chí đúng đắn, vào lúc mà một quyết định cuối cùng gây chiến tranh toàn diện là không hợp lý.
 
 **Khủng hoảng tên lửa Cuba năm 1962** có lẽ là ví dụ nổi tiếng nhất về chiến lược bên bờ vực.
 
@@ -888,11 +917,17 @@ Chìa khoá để hiểu chiến lược bên bờ vực là nhận ra bờ vự
 
 > **Chú thích của tác giả:** Tất nhiên sẽ là sai lầm nếu coi khủng hoảng tên lửa Cuba là trò chơi chỉ có hai người chơi là Kennedy và Khrushchev. Ở mỗi bên còn có một trò chơi chính trị nội bộ, với giới dân sự và quân sự bất đồng trong nội bộ và với nhau. Cuốn *Essence of Decision* của Graham Allison (Boston: Little, Brown, 1971) lập luận thuyết phục rằng nên coi cuộc khủng hoảng là một trò chơi nhiều người phức tạp như vậy.
 
-Bản chất của chiến lược bên bờ vực là cố ý tạo ra rủi ro. Rủi ro này phải đủ khó chịu với đối thủ để họ loại bỏ nó bằng cách làm theo ý bạn. Trò chơi kẻ nhát gan ở các chương trước thuộc loại này. Các phân tích trước giả định mỗi tài xế chỉ có hai lựa chọn, né hay đi thẳng. Nhưng trong thực tế, lựa chọn không phải có né hay không mà là *khi nào* né. Hai bên càng đi thẳng lâu, rủi ro va chạm càng lớn. Tới một lúc hai xe gần nhau đến mức dù một tài xế thấy nguy hiểm quá và né thì cũng có thể đã quá muộn. Nói cách khác, chiến lược bên bờ vực là "trò chơi kẻ nhát gan trong thời gian thực": một trò chơi rủi ro tăng dần, đúng như các trò thẩm vấn trong phim.
+Bản chất của chiến lược bên bờ vực là cố ý tạo ra rủi ro. Rủi ro này phải đủ khó chịu với đối thủ để họ loại bỏ nó bằng cách làm theo ý bạn. Trò chơi kẻ nhát gan ở các chương trước thuộc loại này. Các phân tích trước giả định mỗi tài xế chỉ có hai lựa chọn, né hay đi thẳng.
 
-Nhận ra điều này rồi thì thấy chiến lược bên bờ vực ở khắp nơi. Trong phần lớn các cuộc đối đầu, như giữa công ty và công đoàn, vợ và chồng, cha mẹ và con cái, tổng thống và Quốc hội, một hoặc cả hai bên không chắc về mục tiêu và năng lực của bên kia. Do đó phần lớn đe doạ mang rủi ro sai lầm, và gần như mọi đe doạ đều chứa yếu tố bên bờ vực. Hiểu tiềm năng và rủi ro của nước đi này có thể rất quan trọng trong đời bạn. Hãy dùng nó cẩn thận, và hiểu rằng dù cẩn thận nhất nó vẫn có thể thất bại, vì điều xấu mà bạn và người kia cùng sợ có thể xảy ra trong lúc bạn nâng cược. Nếu bạn đánh giá rằng trong cuộc đối đầu này bạn sẽ "chớp mắt trước", tức xác suất điều xấu xảy ra sẽ vượt sức chịu đựng của bạn trước khi tới giới hạn của người kia, thì tốt hơn đừng bước lên con đường này ngay từ đầu.
+Nhưng trong thực tế, lựa chọn không phải có né hay không mà là *khi nào* né. Hai bên càng đi thẳng lâu, rủi ro va chạm càng lớn. Tới một lúc hai xe gần nhau đến mức dù một tài xế thấy nguy hiểm quá và né thì cũng có thể đã quá muộn. Nói cách khác, chiến lược bên bờ vực là "trò chơi kẻ nhát gan trong thời gian thực": một trò chơi rủi ro tăng dần, đúng như các trò thẩm vấn trong phim.
 
-Hai tác giả hẹn quay lại nghệ thuật thực hành chiến lược bên bờ vực ở Chương 7, và kết mục này bằng một lời cảnh tỉnh: với mọi lần dùng chiến lược bên bờ vực, luôn có nguy cơ rơi khỏi bờ vực. Ngày nay người ta nhìn lại khủng hoảng Cuba như một lần dùng chiến lược bên bờ vực thành công, nhưng đánh giá sẽ rất khác nếu rủi ro chiến tranh giữa hai siêu cường đã thành hiện thực; những người sống sót sẽ nguyền rủa Kennedy vì đã liều lĩnh và không cần thiết thổi bùng một cuộc khủng hoảng thành đám cháy lớn. Trong mọi lần dùng chiến lược bên bờ vực, rủi ro rơi xuống đều có thể thành hiện thực. Vụ thảm sát sinh viên Trung Quốc chiếm Quảng trường Thiên An Môn ở Bắc Kinh tháng 6/1989 là một ví dụ bi thảm. Sinh viên đi vào thế va chạm với phái cứng rắn trong chính phủ. Một bên phải thua: hoặc phái cứng rắn nhường quyền cho những lãnh đạo thiên về cải cách, hoặc sinh viên thoả hiệp yêu sách. Trong suốt cuộc đối đầu luôn có rủi ro phái cứng rắn phản ứng thái quá và dùng vũ lực dập tắt phong trào dân chủ. Khi hai bên chơi trò bên bờ vực và không bên nào lùi, có khả năng tình hình vượt khỏi tầm kiểm soát, với hậu quả bi thảm.
+Nhận ra điều này rồi thì thấy chiến lược bên bờ vực ở khắp nơi. Trong phần lớn các cuộc đối đầu, như giữa công ty và công đoàn, vợ và chồng, cha mẹ và con cái, tổng thống và Quốc hội, một hoặc cả hai bên không chắc về mục tiêu và năng lực của bên kia. Do đó phần lớn đe doạ mang rủi ro sai lầm, và gần như mọi đe doạ đều chứa yếu tố bên bờ vực. Hiểu tiềm năng và rủi ro của nước đi này có thể rất quan trọng trong đời bạn.
+
+Hãy dùng nó cẩn thận, và hiểu rằng dù cẩn thận nhất nó vẫn có thể thất bại, vì điều xấu mà bạn và người kia cùng sợ có thể xảy ra trong lúc bạn nâng cược. Nếu bạn đánh giá rằng trong cuộc đối đầu này bạn sẽ "chớp mắt trước", tức xác suất điều xấu xảy ra sẽ vượt sức chịu đựng của bạn trước khi tới giới hạn của người kia, thì tốt hơn đừng bước lên con đường này ngay từ đầu.
+
+Hai tác giả hẹn quay lại nghệ thuật thực hành chiến lược bên bờ vực ở Chương 7, và kết mục này bằng một lời cảnh tỉnh: với mọi lần dùng chiến lược bên bờ vực, luôn có nguy cơ rơi khỏi bờ vực. Ngày nay người ta nhìn lại khủng hoảng Cuba như một lần dùng chiến lược bên bờ vực thành công, nhưng đánh giá sẽ rất khác nếu rủi ro chiến tranh giữa hai siêu cường đã thành hiện thực; những người sống sót sẽ nguyền rủa Kennedy vì đã liều lĩnh và không cần thiết thổi bùng một cuộc khủng hoảng thành đám cháy lớn.
+
+Trong mọi lần dùng chiến lược bên bờ vực, rủi ro rơi xuống đều có thể thành hiện thực. Vụ thảm sát sinh viên Trung Quốc chiếm Quảng trường Thiên An Môn ở Bắc Kinh tháng 6/1989 là một ví dụ bi thảm. Sinh viên đi vào thế va chạm với phái cứng rắn trong chính phủ. Một bên phải thua: hoặc phái cứng rắn nhường quyền cho những lãnh đạo thiên về cải cách, hoặc sinh viên thoả hiệp yêu sách. Trong suốt cuộc đối đầu luôn có rủi ro phái cứng rắn phản ứng thái quá và dùng vũ lực dập tắt phong trào dân chủ. Khi hai bên chơi trò bên bờ vực và không bên nào lùi, có khả năng tình hình vượt khỏi tầm kiểm soát, với hậu quả bi thảm.
 
 Sau Thiên An Môn, các nhà lãnh đạo chính phủ nhận thức rõ hơn nguy cơ của chiến lược bên bờ vực, cho cả hai phía. Trước các cuộc biểu tình dân chủ tương tự ở Đông Đức và Tiệp Khắc, lãnh đạo cộng sản quyết định nhượng bộ yêu cầu của dân chúng. Ở Romania, chính phủ tìm cách đứng vững trước phong trào cải cách bằng đàn áp bạo lực để giữ quyền lực; bạo lực leo thang gần tới mức nội chiến, và cuối cùng Tổng thống Nicolae Ceauşescu bị xử tử vì tội ác chống lại nhân dân mình.
 
@@ -902,7 +937,9 @@ Sau Thiên An Môn, các nhà lãnh đạo chính phủ nhận thức rõ hơn n
 
 **Thảo luận của hai tác giả.** Với hai cha mẹ và một đứa con, đây là trò chơi ba người, và làm việc theo nhóm giúp cha mẹ đưa ra một lời doạ thật lòng. Giả sử đứa con trai hư và người bố là người được phân công thi hành hình phạt. Nếu đứa con tìm cách thoát bằng cách chỉ ra sự "phi lý" trong hành động của bố, người bố có thể đáp rằng nếu được chọn, bố cũng không muốn phạt con; nhưng nếu bố không thi hành hình phạt thì bố phá vỡ thoả thuận với mẹ, và phá vỡ thoả thuận đó còn tệ hơn chi phí của việc phạt con. Nhờ vậy lời doạ phạt trở nên đáng tin.
 
-Cha hoặc mẹ đơn thân cũng chơi được trò này, nhưng lập luận rắc rối hơn nhiều, vì thoả thuận về hình phạt phải được lập với chính đứa con. Nếu đứa con tìm cách thoát bằng cách chỉ ra sự "phi lý" của bố, người bố đáp rằng nếu được chọn, bố cũng không muốn phạt; nhưng nếu bố không thi hành hình phạt thì đó là một lỗi của bố, một lỗi đáng bị phạt. Như vậy bố phạt con chỉ để tránh bị phạt. Nhưng ai phạt bố? Chính đứa con! Đứa con đáp rằng nếu bố tha cho con thì con cũng sẽ tha cho bố, không phạt bố vì đã không phạt con. Người bố đáp lại rằng nếu con không phạt bố vì bố dễ dãi thì đó là lỗi *thứ hai* đáng phạt của con trong cùng một ngày! Cứ thế hai bên giữ cho nhau trung thực. Hai tác giả thừa nhận điều này nghe hơi gượng ép, nhưng không rắc rối hơn phần lớn các lý lẽ thực tế người ta dùng để biện minh cho việc phạt con hư.
+Cha hoặc mẹ đơn thân cũng chơi được trò này, nhưng lập luận rắc rối hơn nhiều, vì thoả thuận về hình phạt phải được lập với chính đứa con. Nếu đứa con tìm cách thoát bằng cách chỉ ra sự "phi lý" của bố, người bố đáp rằng nếu được chọn, bố cũng không muốn phạt; nhưng nếu bố không thi hành hình phạt thì đó là một lỗi của bố, một lỗi đáng bị phạt. Như vậy bố phạt con chỉ để tránh bị phạt.
+
+Nhưng ai phạt bố? Chính đứa con! Đứa con đáp rằng nếu bố tha cho con thì con cũng sẽ tha cho bố, không phạt bố vì đã không phạt con. Người bố đáp lại rằng nếu con không phạt bố vì bố dễ dãi thì đó là lỗi *thứ hai* đáng phạt của con trong cùng một ngày! Cứ thế hai bên giữ cho nhau trung thực. Hai tác giả thừa nhận điều này nghe hơi gượng ép, nhưng không rắc rối hơn phần lớn các lý lẽ thực tế người ta dùng để biện minh cho việc phạt con hư.
 
 Một ví dụ thuyết phục về việc hai người giữ nhau trung thực đến từ nhà kinh tế Dean Karlan của Đại học Yale. Dean muốn giảm cân nên ký hợp đồng với một người bạn: nếu ai trong hai người vượt quá 175 pound (khoảng 79 kg), người thừa cân phải trả người kia 1.000 USD cho mỗi pound vượt. Dean là giáo sư, nên đó là một hình phạt tài chính lớn treo trên đầu. Lời đe doạ hiệu quả với cả Dean và người bạn. Nhưng luôn có câu hỏi liệu hai người bạn có thật sự lấy tiền của nhau không.
 
@@ -910,7 +947,9 @@ Người bạn của Dean lười dần và lên tới 190 pound (khoảng 86 kg
 
 Hai tác giả kết chương: đây là phác thảo ngắn về phần "cái gì" của đe doạ và hứa hẹn (có thể luyện thêm với tình huống "Arms Across the Ocean" ở Chương 14). Dù đã phải nói đôi điều về độ tin cậy, đó chưa phải trọng tâm. Chương 7 chuyển sang vấn đề làm cho nước đi chiến lược đáng tin. Hai tác giả chỉ đưa ra được một hướng dẫn chung, vì phần lớn đó là nghệ thuật mà người đọc phải tự học bằng cách suy nghĩ thấu đáo về động lực của tình huống cụ thể của mình.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một chuỗi siêu thị điện máy niêm yết chính sách "Nếu khách tìm được giá thấp hơn ở cửa hàng khác trong vòng 7 ngày, chúng tôi hoàn lại chênh lệch". Giả sử một chiếc tivi bán 20 triệu đồng, chi phí 16 triệu đồng, và đối thủ đang cân nhắc hạ xuống 18 triệu để giành khách. Nếu không có chính sách, đối thủ có thể giành thêm 30% khách của chuỗi, đủ bù phần biên lợi nhuận mất đi. Khi chuỗi đã in chính sách hoàn chênh lệch, đối thủ biết hạ giá chỉ làm giảm lợi nhuận của chính mình mà gần như không giành được khách, vì khách cũ của chuỗi chỉ cần mang hoá đơn tới đòi 2 triệu chênh lệch. Đây là lời đe doạ có điều kiện "anh hạ thì tôi cũng hạ", được làm cho đáng tin bằng một cam kết công khai với khách hàng; kết quả là cả hai giữ giá 20 triệu. Lưu ý chính sách này phục vụ người bán, không nhất thiết phục vụ người mua, đúng như ví dụ B. B. Lean và Rainbow's End.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một chuỗi siêu thị điện máy niêm yết chính sách "Nếu khách tìm được giá thấp hơn ở cửa hàng khác trong vòng 7 ngày, chúng tôi hoàn lại chênh lệch". Giả sử một chiếc tivi bán 20 triệu đồng, chi phí 16 triệu đồng, và đối thủ đang cân nhắc hạ xuống 18 triệu để giành khách. Nếu không có chính sách, đối thủ có thể giành thêm 30% khách của chuỗi, đủ bù phần biên lợi nhuận mất đi.
+
+Khi chuỗi đã in chính sách hoàn chênh lệch, đối thủ biết hạ giá chỉ làm giảm lợi nhuận của chính mình mà gần như không giành được khách, vì khách cũ của chuỗi chỉ cần mang hoá đơn tới đòi 2 triệu chênh lệch. Đây là lời đe doạ có điều kiện "anh hạ thì tôi cũng hạ", được làm cho đáng tin bằng một cam kết công khai với khách hàng; kết quả là cả hai giữ giá 20 triệu. Lưu ý chính sách này phục vụ người bán, không nhất thiết phục vụ người mua, đúng như ví dụ B. B. Lean và Rainbow's End.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1042,7 +1081,9 @@ Hai tác giả trình bày điều khoản bằng giá đối thủ như một c
 
 ### Chiến lược bên bờ vực được đánh giá thận trọng hơn nhiều so với cách người ta thường dùng từ này
 
-Điểm đáng giá của mục này là cách hai tác giả định nghĩa lại khái niệm theo Schelling: không phải doạ đẩy người khác xuống vực (không đáng tin), mà là đứng gần mép để tạo ra rủi ro cả hai cùng rơi. Họ không tô vẽ: khủng hoảng Cuba chỉ được coi là thành công vì nó kết thúc tốt, và Thiên An Môn là ví dụ cùng chiến lược ấy dẫn tới thảm kịch. Lời khuyên "nếu bạn sẽ chớp mắt trước, đừng bắt đầu" là một phép thử thực tế. Có thể phản biện rằng việc đưa Thiên An Môn vào khung "hai bên chơi trò bên bờ vực" đặt sinh viên tay không và chính quyền có quân đội vào thế đối xứng hơn thực tế; hai tác giả gọi đây là "thảm sát" nhưng không bàn tới sự bất cân xứng về sức mạnh này, nên người đọc cần tự lưu ý giới hạn của cách nhìn chiến lược thuần tuý.
+Điểm đáng giá của mục này là cách hai tác giả định nghĩa lại khái niệm theo Schelling: không phải doạ đẩy người khác xuống vực (không đáng tin), mà là đứng gần mép để tạo ra rủi ro cả hai cùng rơi. Họ không tô vẽ: khủng hoảng Cuba chỉ được coi là thành công vì nó kết thúc tốt, và Thiên An Môn là ví dụ cùng chiến lược ấy dẫn tới thảm kịch.
+
+Lời khuyên "nếu bạn sẽ chớp mắt trước, đừng bắt đầu" là một phép thử thực tế. Có thể phản biện rằng việc đưa Thiên An Môn vào khung "hai bên chơi trò bên bờ vực" đặt sinh viên tay không và chính quyền có quân đội vào thế đối xứng hơn thực tế; hai tác giả gọi đây là "thảm sát" nhưng không bàn tới sự bất cân xứng về sức mạnh này, nên người đọc cần tự lưu ý giới hạn của cách nhìn chiến lược thuần tuý.
 
 ### Từ 2008, khái niệm công cụ cam kết đã đi từ giai thoại tới chính sách và sản phẩm
 
@@ -1058,3 +1099,123 @@ Hai tác giả nhấn mạnh giá trị của việc tự trói tay, nhưng chí
 - **Trong đầu tư.** Đọc các tuyên bố của ban lãnh đạo doanh nghiệp hay của cơ quan điều hành chính sách bằng phép thử cảnh báo/đe doạ: tuyên bố nào chỉ nói điều họ vốn có lợi khi làm (ít giá trị thông tin mới), tuyên bố nào đi kèm cơ chế ràng buộc (cam kết chi trả cổ tức bằng văn bản, mục tiêu lạm phát có trách nhiệm giải trình). Trong cuộc chiến giá giữa các hãng, chính sách bằng giá đối thủ thường là dấu hiệu ngành đang giữ giá, không phải sắp có chiến tranh giá.
 - **Trong nghề nghiệp.** Trong đàm phán lương hay hợp đồng, một lời đe doạ "tôi sẽ nghỉ" chỉ hiệu quả khi đáng tin (bạn có lời mời khác thật) và vừa đủ lớn; doạ quá lớn rồi phải lùi sẽ mất uy tín. Với thói quen cá nhân, hãy dùng công cụ cam kết: công bố mục tiêu, đặt cược với bạn bè như Dean Karlan, đặt đồng hồ báo thức ở góc phòng. Và đừng tự đặt mình vào thế để người khác có thể đe doạ.
 - **Khi đọc tin chính sách.** Các cuộc đối đầu thương mại, ngoại giao hay đàm phán giữa doanh nghiệp và cơ quan quản lý thường mang dạng chiến lược bên bờ vực: hai bên nâng dần mức căng thẳng và rủi ro mất kiểm soát là có thật. Ở Việt Nam, khi đọc tin về các cam kết quốc tế (hiệp định thương mại, mục tiêu khí hậu) hay cam kết của cơ quan điều hành (lộ trình điều chỉnh giá, mục tiêu lạm phát), câu hỏi đáng đặt ra là cam kết đó có cơ chế ràng buộc gì để đáng tin, hay chỉ là lời cảnh báo về điều vốn sẽ làm. Khi doanh nghiệp quảng cáo "cam kết giá thấp nhất", cũng nên nghĩ tới khả năng đó là công cụ giữ giá giữa các hãng hơn là lợi ích cho người mua.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: năm nhánh lớn đi theo các mục 1–13 của phần Nội dung chi tiết (thay đổi trò chơi và cam kết, đe dọa và hứa hẹn cùng răn đe và cưỡng ép, cảnh báo và trấn an với điểm giống khác nhau, rõ ràng và mức độ của đe dọa, chiến lược bên bờ vực và tình huống cuối chương), mỗi nhánh ghi định nghĩa, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: có thể tự làm lợi cho mình bằng cách hạn chế lựa chọn hoặc cam kết trước một quy tắc phản ứng, miễn đối thủ thấy và tin`"]
+  n1["`Mục 1–3 — Thay đổi trò chơi và cam kết`"]
+  n0 --- n1
+  n2["`Mục tiêu năm mới: 30% bỏ trước tháng Hai, chỉ 1/5 giữ được sáu tháng`"]
+  n1 --- n2
+  n3["`Trò kẻ nhát gan: tháo vô lăng ném ra ngoài cho đối thủ thấy thì đối thủ buộc phải né`"]
+  n1 --- n3
+  n4["`Tự do lựa chọn là tự do để thua`"]
+  n1 --- n4
+  n5["`Odysseus trói mình vào cột buồm, các vua xưa trao đổi con tin để giữ lời`"]
+  n1 --- n5
+  n6["`Đặt đồng hồ báo thức ở góc phòng là chiến lược bị trội nhưng buộc bản thân buổi sáng phải dậy`"]
+  n1 --- n6
+  n7["`Với người đi trước, khái niệm chiến lược trội mất ý nghĩa`"]
+  n1 --- n7
+  n8["`Cam kết thành công cần được quan sát thấy và không đảo ngược được`"]
+  n1 --- n8
+  n9["`Mục 4–6 — Đe dọa, hứa hẹn, răn đe và cưỡng ép`"]
+  n0 --- n9
+  n10["`Cam kết là vô điều kiện, đe dọa và hứa hẹn là quy tắc phản ứng có điều kiện`"]
+  n9 --- n10
+  n11["`Quy tắc phản ứng phải đặt trước nhưng thực hiện sau, khi lúc đó nó trái lợi ích ngắn hạn của mình`"]
+  n9 --- n11
+  n12["`Điều khoản bằng giá đối thủ biến trò chơi đồng thời thành phản ứng tự động, giữ giá 80 USD thay vì 40 USD`"]
+  n9 --- n12
+  n13["`Răn đe ngăn người khác làm một việc, cưỡng ép buộc họ làm một việc`"]
+  n9 --- n13
+  n14["`Đe dọa hợp với răn đe vì không cần hạn chót và không tốn gì nếu thành công`"]
+  n9 --- n14
+  n15["`Hứa hẹn hợp với cưỡng ép, cần hạn chót và nên thưởng cho làm sớm`"]
+  n9 --- n15
+  n16["`Mục 7–9 — Cảnh báo, trấn an, nước đi của người khác, giống và khác giữa đe dọa và hứa hẹn`"]
+  n0 --- n16
+  n17["`Lời cảnh báo chỉ báo trước điều mình vốn muốn làm, nên không phải nước đi chiến lược`"]
+  n16 --- n17
+  n18["`Lời trấn an là lời hứa làm điều mình vốn có lợi khi làm`"]
+  n16 --- n18
+  n19["`Đừng để người khác có khả năng đe dọa mình, nhưng có thể khuyến khích họ hứa đáng tin`"]
+  n16 --- n19
+  n20["`Tôn Tử khuyên chừa đường thoát cho địch để địch không cam kết liều chết`"]
+  n16 --- n20
+  n21["`Thế lưỡng nan của người tù: lời hứa im lặng của bên kia có thể làm cả hai cùng lợi`"]
+  n16 --- n21
+  n22["`Đe dọa thành công thì không tốn gì, hứa hẹn thành công thì phải trả`"]
+  n16 --- n22
+  n23["`Ranh giới mờ: kẻ trấn lột ở New York hứa không làm hại nếu được cho mượn 20 USD`"]
+  n16 --- n23
+  n24["`Mục 10–11 — Rõ ràng, chắc chắn và đe dọa quá lớn`"]
+  n0 --- n24
+  n25["`Đe dọa phải rõ ràng và chắc chắn, mức độ đủ răn đe nhưng nhỏ nhất có thể`"]
+  n24 --- n25
+  n26["`Đe dọa đập đầu vì lọ muối hay ném bom hạt nhân vì tranh chấp thương mại là không đáng tin`"]
+  n24 --- n26
+  n27["`Chia đe dọa thành nhiều bước nhỏ để chống chiến thuật salami, như trừ điểm theo từng phút nộp bài trễ`"]
+  n24 --- n27
+  n28["`Mục 12–13 — Chiến lược bên bờ vực và tình huống Hai cái sai giữ cho mọi việc đúng`"]
+  n0 --- n28
+  n29["`Bên bờ vực là cố ý tạo rủi ro mà cả hai đều sợ và không ai kiểm soát hoàn toàn`"]
+  n28 --- n29
+  n30["`L.A. Confidential tăng dần rủi ro 1/6, 1/4, 1/3, The Gods Must Be Crazy treo người trên trực thăng`"]
+  n28 --- n30
+  n31["`Khủng hoảng Cuba 1962: Kennedy ước xác suất chiến tranh từ một phần ba đến một nửa`"]
+  n28 --- n31
+  n32["`Kennedy muốn lùi vòng phong tỏa từ 800 về 500 dặm để Khrushchev có thêm thời gian`"]
+  n28 --- n32
+  n33["`Hai bên thăm dò sức chịu đựng tới khi một bên lùi hoặc thảm họa xảy ra`"]
+  n28 --- n33
+  n34["`Thiên An Môn 1989 đàn áp, Đông Đức và Tiệp Khắc nhượng bộ, Romania lật đổ Ceauşescu`"]
+  n28 --- n34
+  n35["`Nếu bạn sẽ chớp mắt trước thì đừng bắt đầu`"]
+  n28 --- n35
+  n36["`Hai cha mẹ phân công nhau phạt con để lời đe dọa đáng tin`"]
+  n28 --- n36
+  n37["`Thông điệp xuyên suốt`"]
+  n0 --- n37
+  n38["`Trước mỗi đối đầu hỏi xem có thay đổi được luật chơi, thứ tự đi hay kết quả của chính mình không`"]
+  n37 --- n38
+  n39["`Linh hoạt không phải lúc nào cũng là tài sản, tự trói tay công khai có thể là sức mạnh`"]
+  n37 --- n39
+  n40["`Điều khoản bằng giá đối thủ nghe có lợi cho người mua nhưng có thể duy trì giá cao`"]
+  n37 --- n40
+  class n0 root
+  class n1,n9,n16,n24,n28,n37 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 6 (Phần II).
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I (chương 1 đến 4; các công cụ nằm ở chương 2 đến 4) dạy cách tìm lời giải của một trò chơi **đã cho sẵn**: suy luận ngược trong trò chơi tuần tự, chiến lược trội và cân bằng Nash trong trò chơi đồng thời, thế lưỡng nan của người tù. Chương 5 mở Phần II bằng chiến lược hỗn hợp, tức cách hành động khi muốn đối thủ không đoán được mình.
+
+Chương 6 đổi câu hỏi: thay vì chơi giỏi trong luật chơi có sẵn, người chơi có thể **thay đổi chính trò chơi** để kết quả nghiêng về phía mình không? Chương này trình bày phần "cái gì" (what) của nước đi chiến lược: cam kết, đe doạ, hứa hẹn, cùng các biến thể như răn đe, cưỡng ép và chiến lược bên bờ vực. Chương 7 sẽ trình bày phần "làm thế nào" (how), tức các cách làm cho nước đi chiến lược đáng tin. Phần III dùng lại các khái niệm này cho thông tin, mặc cả, đấu giá và động cơ khuyến khích.
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008.
+- Một số chi tiết mở đầu là số liệu thời điểm đó: 2,12 triệu kết quả tìm kiếm Google cho cụm "New Year's resolutions", định nghĩa trên Wikipedia, khảo sát của CNN. Các con số này chắc chắn đã khác nhiều.
+- Chương có 5 chú thích chân trang của tác giả (đồng hồ Clocky; chi phí cam kết quá cao; đe doạ có thể rút lại và ví dụ de Gaulle; cách nói sai "brinksmanship"; khủng hoảng Cuba như trò chơi nhiều người theo Graham Allison), tất cả được đưa vào phần Nội dung chi tiết, đúng chỗ, ghi "Chú thích của tác giả".
+- Chương có 5 hình (hai cây trò chơi, một bảng kết quả, một sơ đồ phân loại nước đi chiến lược, một bảng tóm tắt răn đe/cưỡng ép); tất cả được dựng lại.
+- Chương có bài tập ngắn "(Mini) Trip to the Gym No. 4" về Chiến tranh Lạnh; đáp án của sách (phần Workouts, gồm hai cây trò chơi) được đưa vào ngay sau đề bài.
+- Về lỗi nhỏ của sách: câu "the response rule must put be in place" bị thừa chữ; tên con tàu Liban đầu tiên bị khám xét trong vụ phong toả Cuba được sách viết là *Marcula*, trong khi tài liệu lịch sử thường ghi là *Marucla* (có lẽ là lỗi chính tả).
+- Các câu trích là bản dịch của người tổng hợp.

@@ -1,11 +1,12 @@
 # Chương 1 — Mười câu chuyện chiến lược (Ten Tales of Strategy)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 1, mở đầu Phần I.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Cuốn sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Phần Giới thiệu ("How Should People Behave in Society?") đặt câu hỏi chung về cách con người nên hành xử khi kết quả của mình phụ thuộc vào hành động của người khác. Chương 1 chưa đưa ra công cụ nào; hai tác giả gọi nó là "món tráng miệng trước bữa chính", tức mười tình huống ngắn để người đọc thấy tư duy chiến lược có mặt khắp nơi và các tình huống ấy tạo thành một bộ câu hỏi có hệ thống. Mỗi câu chuyện là lời giới thiệu cho một chương sau, và hai tác giả tự ghi rõ phần lớn các mối nối: câu chuyện *Survivor* dẫn sang suy luận ngược ở Chương 2; câu chuyện đề xuất của Buffett và vụ án *In Cold Blood* dẫn sang thế lưỡng nan của người tù ở Chương 3; câu chuyện "bàn tay nóng" và trò Oẳn tù tì dẫn sang chiến lược hỗn hợp ở Chương 5; câu chuyện giảm cân trước ống kính dẫn sang nước đi chiến lược ở Chương 6; câu chuyện Luther và de Gaulle dẫn sang độ tin cậy và cam kết ở Chương 7; câu chuyện cá cược với người có thông tin dẫn sang thông tin ở Chương 8 và đấu giá ở Chương 10. Chương 2 bắt đầu phần công cụ, với cây trò chơi và suy luận ngược.
-**Ý chính:** Hai tác giả muốn người đọc hiểu điều gì biến một quyết định thành một **trò chơi (game)**: kết quả của bạn phụ thuộc vào lựa chọn của những người chơi khác, và họ cũng đang suy tính về bạn. Vì vậy bài học then chốt của lý thuyết trò chơi là đặt mình vào vị trí của người chơi kia. Ví dụ trung tâm là trò đoán số mở đầu chương: người đọc đoán một số từ 1 đến 100 theo cách chia đôi khoảng (50, 25, 37, 42...), cách tối ưu nếu con số được chọn ngẫu nhiên; nhưng hai tác giả không chọn ngẫu nhiên mà cố tình chọn số khó đoán nhất với cách chia đôi, và cuối cùng đặt bẫy để người đọc đoán 49 trong khi con số là 48. Chín câu chuyện còn lại cho thấy những nguyên tắc sẽ được phát triển trong cả cuốn sách: nhìn trước các nước đi của đối thủ (*Survivor*), mỗi hành động gây ra phản ứng ("bàn tay nóng"), người dẫn đầu bắt chước người theo sau (đua thuyền buồm), sức mạnh của sự cứng rắn (Luther, de Gaulle), tự trói tay mình để buộc bản thân hành động (giảm cân trước ống kính, Cortés), thế lưỡng nan của người tù (đề xuất của Buffett), giá trị của việc không thể đoán trước (Oẳn tù tì), sự nguy hiểm khi nhận cược từ người biết nhiều hơn (*Guys and Dolls*, hợp đồng tương lai, poker), và việc người chơi là con người có tự trọng và cảm xúc (chuyến taxi ở Jerusalem).
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008, nên các ví dụ mang dấu ấn thời điểm đó: Yao Ming và LeBron James (khi còn chơi cho Cleveland Cavaliers), Dell là hãng máy tính cá nhân dẫn đầu thị trường, Sun là một hãng công nghệ độc lập, Richard Hatch vừa bị kết án năm 2006. Một số chi tiết đã đổi từ đó: Sun Microsystems đã bị Oracle mua lại; nghiên cứu "bàn tay nóng" mà hai tác giả dẫn đã bị các nghiên cứu sau này phản biện về phương pháp (xem phần Đánh giá); quy định tài trợ tranh cử ở Mỹ đã thay đổi lớn sau khi sách ra (xem phần Đánh giá). Chương có 13 chú thích chân trang của tác giả (đánh số FN3 đến FN15 trong bản text), tất cả đã đưa vào phần Nội dung chi tiết ở đúng chỗ, ghi rõ "Chú thích của tác giả". Chương có một đoạn "Trip to the Gym" (đoạn bàn thêm về chi tiết nâng cao) không đánh số và không có đáp án trong phần Workouts của sách; đoạn này nằm trong câu chuyện số 2. Chương không có hình hay bảng nào. Có vài chỗ sách có vẻ nhầm hoặc số liệu không khớp: (1) sàn giao dịch hợp đồng tương lai đậu tương ở Chicago thường gọi là Chicago Board of Trade, sách viết "Chicago Board of Exchange"; (2) trong chuyện taxi, 2.500 shekel tương đương 2,75 USD, nên khoản chênh 300 shekel là khoảng 33 cent, trong khi sách nói "hai hào" (hai mươi cent); (3) lần phủ quyết thứ hai của de Gaulle với việc Anh gia nhập Cộng đồng Kinh tế châu Âu thường được ghi là cuối năm 1967, sách ghi 1968; (4) trong chú thích về tiền hoa hồng của Christie's, áp quy tắc phí mà sách nêu (20% cho 800.000 USD đầu tiên, 12% cho phần còn lại) vào tổng 17,8 triệu USD chỉ ra khoảng 2,2 triệu USD, không phải 2,84 triệu USD như sách ghi. Ký hiệu "∏" trong bản text là chữ π (số pi). Các câu trích là bản dịch của người tổng hợp.
+Hai tác giả muốn người đọc hiểu điều gì biến một quyết định thành một **trò chơi (game)**: kết quả của bạn phụ thuộc vào lựa chọn của những người chơi khác, và họ cũng đang suy tính về bạn. Vì vậy bài học then chốt của lý thuyết trò chơi là đặt mình vào vị trí của người chơi kia.
+
+Ví dụ trung tâm là trò đoán số mở đầu chương: người đọc đoán một số từ 1 đến 100 theo cách chia đôi khoảng (50, 25, 37, 42...), cách tối ưu nếu con số được chọn ngẫu nhiên; nhưng hai tác giả không chọn ngẫu nhiên mà cố tình chọn số khó đoán nhất với cách chia đôi, và cuối cùng đặt bẫy để người đọc đoán 49 trong khi con số là 48.
+
+Chín câu chuyện còn lại cho thấy những nguyên tắc sẽ được phát triển trong cả cuốn sách: nhìn trước các nước đi của đối thủ (*Survivor*), mỗi hành động gây ra phản ứng ("bàn tay nóng"), người dẫn đầu bắt chước người theo sau (đua thuyền buồm), sức mạnh của sự cứng rắn (Luther, de Gaulle), tự trói tay mình để buộc bản thân hành động (giảm cân trước ống kính, Cortés), thế lưỡng nan của người tù (đề xuất của Buffett), giá trị của việc không thể đoán trước (Oẳn tù tì), sự nguy hiểm khi nhận cược từ người biết nhiều hơn (*Guys and Dolls*, hợp đồng tương lai, poker), và việc người chơi là con người có tự trọng và cảm xúc (chuyến taxi ở Jerusalem).
 
 ## Sơ đồ
 
@@ -726,7 +727,9 @@ Hai tác giả mời người đọc chơi một trò chơi với họ. Họ ch�
 
 Vì không thể chơi trực tiếp qua trang sách (người đọc có thể chơi trên trang artofstrategy.info), hai tác giả đoán trước cách người đọc chơi. Lần đầu đoán 50, cách phổ biến nhất: cao quá. Lần hai đoán 25: thấp quá. Lần ba 37: thấp quá. Lần bốn 42: lại thấp quá. Đến lần cuối, con số nằm trong bảy khả năng từ 43 đến 49.
 
-Hai tác giả dừng lại phân tích. Người đọc đã chia đôi khoảng rồi chọn điểm giữa, đó là chiến lược lý tưởng nếu con số được chọn ngẫu nhiên: mỗi lần đoán thu được nhiều thông tin nhất nên tới đích nhanh nhất. (Chú thích của tác giả: thuật ngữ kỹ thuật cho cách tìm kiếm này là cực tiểu hoá entropy, tức giảm độ bất định nhanh nhất.) Steve Ballmer, CEO Microsoft, được cho là dùng trò này làm câu hỏi phỏng vấn, và đáp án đúng với ông là 50, 25, 37, 42..., vì ông muốn xem ứng viên có tiếp cận bài toán tìm kiếm một cách logic và hiệu quả nhất không. Với bài toán của Ballmer, con số được chọn ngẫu nhiên, nên cách "chia đôi rồi chinh phục" của kỹ sư là hoàn toàn đúng: nó tối thiểu hoá số lần đoán kỳ vọng và vì vậy tối đa hoá tiền thưởng.
+Hai tác giả dừng lại phân tích. Người đọc đã chia đôi khoảng rồi chọn điểm giữa, đó là chiến lược lý tưởng nếu con số được chọn ngẫu nhiên: mỗi lần đoán thu được nhiều thông tin nhất nên tới đích nhanh nhất. (Chú thích của tác giả: thuật ngữ kỹ thuật cho cách tìm kiếm này là cực tiểu hoá entropy, tức giảm độ bất định nhanh nhất.) Steve Ballmer, CEO Microsoft, được cho là dùng trò này làm câu hỏi phỏng vấn, và đáp án đúng với ông là 50, 25, 37, 42..., vì ông muốn xem ứng viên có tiếp cận bài toán tìm kiếm một cách logic và hiệu quả nhất không.
+
+Với bài toán của Ballmer, con số được chọn ngẫu nhiên, nên cách "chia đôi rồi chinh phục" của kỹ sư là hoàn toàn đúng: nó tối thiểu hoá số lần đoán kỳ vọng và vì vậy tối đa hoá tiền thưởng.
 
 Nhưng trong trò của hai tác giả, con số không được chọn ngẫu nhiên. Họ chơi như thể phải trả tiền thật, không ai hoàn lại cho họ, và dù quý người đọc vì đã mua sách, họ quý bản thân hơn. Họ cố tình chọn một số khó tìm; chọn 50 sẽ là tốn kém nhất. Đặt mình vào vị trí người đọc và đoán trước chuỗi 50, 25, 37, 42 giúp họ giảm mạnh khả năng phải trả tiền. Hai tác giả gọi đây là bài học then chốt của lý thuyết trò chơi: hãy đặt mình vào vị trí của người chơi kia.
 
@@ -752,7 +755,9 @@ Từ góc nhìn của Richard, thử thách có ba kết cục:
 
 So sánh ba kết cục, Richard có lợi nhất nếu chịu thua: ông muốn Rudy bị loại, nhưng tốt hơn là để Kelly làm "việc bẩn" đó. Người hiểu chuyện đều đặt cược Kelly thắng: cô đã thắng ba trong bốn thử thách trước và, nhờ nghề hướng dẫn viên ngoài trời, có thể lực tốt nhất. Thêm nữa, bỏ cuộc còn giúp Richard khỏi phải đứng trên cột dưới nắng. Từ sớm, người dẫn chương trình Jeff Probst mời một lát cam cho ai chịu bỏ cuộc; Richard bước xuống cột và nhận lát cam.
 
-**Trip to the Gym** (đoạn bàn thêm về chi tiết nâng cao; trong cả sách, các đoạn "Trip to the Gym" xem xét những điểm mà phần chính lướt qua; đoạn này không có bài tập đánh số và không có đáp án trong phần Workouts). Richard lẽ ra có thể chờ xem ai rơi trước. Nếu Kelly rơi sớm, ông có thể muốn tự đánh bại Rudy rồi chọn Kelly, thay vì để Rudy thắng và phải gặp Rudy ở chung kết. Ông cũng có thể lo rằng Kelly đủ tinh để tính ra điều tương tự và bỏ cuộc sớm. Hai tác giả nói các chương sau sẽ đưa ra cách giải trò chơi có hệ thống hơn; mục tiêu cuối cùng là thay đổi cách người đọc tiếp cận các tình huống chiến lược, dù không phải lúc nào cũng có thời gian phân tích mọi lựa chọn.
+**Trip to the Gym** (đoạn bàn thêm về chi tiết nâng cao; trong cả sách, các đoạn "Trip to the Gym" xem xét những điểm mà phần chính lướt qua; đoạn này không có bài tập đánh số và không có đáp án trong phần Workouts). Richard lẽ ra có thể chờ xem ai rơi trước.
+
+Nếu Kelly rơi sớm, ông có thể muốn tự đánh bại Rudy rồi chọn Kelly, thay vì để Rudy thắng và phải gặp Rudy ở chung kết. Ông cũng có thể lo rằng Kelly đủ tinh để tính ra điều tương tự và bỏ cuộc sớm. Hai tác giả nói các chương sau sẽ đưa ra cách giải trò chơi có hệ thống hơn; mục tiêu cuối cùng là thay đổi cách người đọc tiếp cận các tình huống chiến lược, dù không phải lúc nào cũng có thời gian phân tích mọi lựa chọn.
 
 Sau 4 giờ 11 phút, Rudy lóng ngóng khi đổi tư thế, buông tượng và thua. Kelly chọn Richard vào chung kết, Rudy bỏ lá phiếu quyết định cho Richard, và Richard Hatch thành nhà vô địch *Survivor* đầu tiên. Nhìn lại thì mọi chuyện có vẻ dễ, nhưng điều ấn tượng là Richard đã nhìn trước được mọi nước đi trước khi chúng xảy ra. (Chú thích của tác giả: Richard lẽ ra cũng nên nhìn trước hậu quả của việc không nộp thuế cho khoản thắng 1 triệu USD; ngày 16/5/2006 ông bị kết án 51 tháng tù vì trốn thuế.) Chương 2 sẽ đưa ra công cụ để đoán trước diễn biến của trò chơi, kèm một trò chơi *Survivor* khác để người đọc thử sức.
 
@@ -762,7 +767,9 @@ Có những lúc Yao Ming dường như không thể ném trượt, hay Sachin T
 
 Họ đề xuất một phép thử chặt chẽ hơn: với mỗi cầu thủ, tính tỷ lệ cú ném ngay sau một cú trúng cũng trúng, và tỷ lệ cú ném ngay sau một cú trượt mà trúng. Nếu trúng dễ đến sau trúng hơn là sau trượt, thuyết bàn tay nóng có cơ sở. Kết quả với đội Philadelphia 76ers ngược lại: khi vừa ném trúng, cầu thủ ít có khả năng trúng cú tiếp theo hơn; khi vừa trượt, lại dễ trúng hơn. Điều này đúng cả với Andrew Toney, người nổi tiếng hay ném trúng liên tiếp. Hai tác giả đùa: vậy có nên nói về "bàn tay nhấp nháy" như đèn nhấp nháy bật tắt luân phiên không?
 
-Lý thuyết trò chơi gợi một cách hiểu khác. Bằng chứng thống kê bác bỏ chuyện ném trúng theo chuỗi, nhưng không bác bỏ khả năng một cầu thủ "nóng tay" làm trận đấu nóng lên theo cách khác. Khác biệt giữa ném trúng theo chuỗi và bàn tay nóng nằm ở tương tác giữa chiến lược tấn công và phòng thủ. Giả sử Toney thật sự nóng tay: đội bạn chắc chắn sẽ dồn người kèm anh, và điều đó dễ làm tỷ lệ ném trúng của anh giảm. Không chỉ vậy, khi hàng thủ tập trung vào Toney, một đồng đội của anh bị bỏ trống và dễ ghi điểm hơn. Bàn tay nóng của Toney cải thiện thành tích của cả đội 76ers, dù thành tích cá nhân của anh có thể giảm. Vì vậy nên kiểm tra bàn tay nóng bằng cách tìm chuỗi thành công của đội.
+Lý thuyết trò chơi gợi một cách hiểu khác. Bằng chứng thống kê bác bỏ chuyện ném trúng theo chuỗi, nhưng không bác bỏ khả năng một cầu thủ "nóng tay" làm trận đấu nóng lên theo cách khác. Khác biệt giữa ném trúng theo chuỗi và bàn tay nóng nằm ở tương tác giữa chiến lược tấn công và phòng thủ.
+
+Giả sử Toney thật sự nóng tay: đội bạn chắc chắn sẽ dồn người kèm anh, và điều đó dễ làm tỷ lệ ném trúng của anh giảm. Không chỉ vậy, khi hàng thủ tập trung vào Toney, một đồng đội của anh bị bỏ trống và dễ ghi điểm hơn. Bàn tay nóng của Toney cải thiện thành tích của cả đội 76ers, dù thành tích cá nhân của anh có thể giảm. Vì vậy nên kiểm tra bàn tay nóng bằng cách tìm chuỗi thành công của đội.
 
 Hiện tượng tương tự có ở nhiều môn đồng đội khác. Trong bóng bầu dục Mỹ, một hậu vệ chạy xuất sắc giúp lối chuyền bóng của đội và một cầu thủ bắt bóng giỏi giúp lối chạy, vì đối thủ buộc phải dồn lực kèm ngôi sao. Ở chung kết World Cup 1986, Diego Maradona không ghi bàn nào, nhưng các đường chuyền của anh xuyên qua vòng vây hậu vệ Tây Đức dẫn tới hai bàn thắng của Argentina. Giá trị của một ngôi sao không thể đánh giá chỉ bằng thành tích ghi điểm của riêng anh ta; đóng góp vào thành tích của đồng đội là then chốt, và số liệu kiến tạo giúp đo phần đó. Trong khúc côn cầu trên băng, kiến tạo và bàn thắng được tính ngang nhau khi xếp hạng cá nhân.
 
@@ -792,11 +799,15 @@ Tương tự, Charles de Gaulle dùng sức mạnh của sự cứng rắn để
 
 Sự cứng rắn cho ông quyền lực đàm phán như thế nào? Khi de Gaulle đưa ra một lập trường thật sự không thể đảo ngược, các bên khác chỉ còn hai lựa chọn: chấp nhận hoặc bỏ đi. Chẳng hạn, ông một mình ngăn Anh gia nhập EEC, lần đầu năm 1963 và lần nữa năm 1968 (theo sách; lần phủ quyết thứ hai thường được ghi là cuối năm 1967); các nước khác buộc phải chấp nhận quyền phủ quyết của ông hoặc giải tán EEC. De Gaulle cân nhắc kỹ lập trường để chắc chắn nó sẽ được chấp nhận, nhưng như vậy thường dành phần lớn hơn, và không công bằng, cho Pháp. Sự cứng rắn của ông tước đi cơ hội để bên kia đưa ra một đề nghị ngược lại có thể chấp nhận được.
 
-Trên thực tế, điều này nói dễ hơn làm, vì hai loại lý do. Loại thứ nhất: đàm phán thường liên quan tới nhiều thứ hơn chiếc bánh trên bàn hôm nay. Bị coi là quá tham lam có thể khiến người khác ít muốn đàm phán với bạn trong tương lai, hoặc lần sau họ cứng rắn hơn để đòi lại phần họ cho là đã mất. Ở mức cá nhân, một chiến thắng không công bằng có thể làm hỏng quan hệ làm ăn, thậm chí quan hệ riêng. Người viết tiểu sử David Schoenbrun phê phán chủ nghĩa sô-vanh của de Gaulle: trong quan hệ con người, ai không yêu thì hiếm khi được yêu, ai không chịu làm bạn rốt cuộc sẽ không có bạn, và việc de Gaulle khước từ tình bạn đã làm hại nước Pháp. Thoả hiệp trong ngắn hạn có thể là chiến lược tốt hơn về lâu dài.
+Trên thực tế, điều này nói dễ hơn làm, vì hai loại lý do. Loại thứ nhất: đàm phán thường liên quan tới nhiều thứ hơn chiếc bánh trên bàn hôm nay. Bị coi là quá tham lam có thể khiến người khác ít muốn đàm phán với bạn trong tương lai, hoặc lần sau họ cứng rắn hơn để đòi lại phần họ cho là đã mất.
+
+Ở mức cá nhân, một chiến thắng không công bằng có thể làm hỏng quan hệ làm ăn, thậm chí quan hệ riêng. Người viết tiểu sử David Schoenbrun phê phán chủ nghĩa sô-vanh của de Gaulle: trong quan hệ con người, ai không yêu thì hiếm khi được yêu, ai không chịu làm bạn rốt cuộc sẽ không có bạn, và việc de Gaulle khước từ tình bạn đã làm hại nước Pháp. Thoả hiệp trong ngắn hạn có thể là chiến lược tốt hơn về lâu dài.
 
 Loại thứ hai: khó đạt được mức cứng rắn cần thiết. Luther và de Gaulle đạt được nhờ tính cách, nhưng điều đó có giá: tính cách cứng nhắc không phải thứ có thể bật tắt tuỳ ý. Sự cứng rắn có lúc làm đối thủ nản và buộc họ nhượng bộ, nhưng cũng có thể để những tổn thất nhỏ phình thành thảm hoạ lớn.
 
-Ferdinand de Lesseps là một kỹ sư chỉ ở mức khá nhưng có tầm nhìn và quyết tâm phi thường. Ông nổi tiếng vì xây kênh đào Suez trong những điều kiện tưởng như không thể; ông không thừa nhận điều không thể, và nhờ vậy đã làm được. Sau đó ông dùng đúng cách ấy để xây kênh Panama, và kết cục là thảm hoạ. (Chú thích của tác giả: kênh Suez là một lối đi ngang mực nước biển; việc đào tương đối dễ vì đất vốn thấp và là sa mạc. Panama có địa hình cao hơn nhiều, có các hồ dọc đường và rừng rậm. Nỗ lực đào xuống ngang mực nước biển của Lesseps thất bại. Rất lâu sau, Công binh Lục quân Mỹ làm được bằng một phương pháp rất khác: một chuỗi âu tàu, tận dụng các hồ dọc đường.) Cát sông Nile chịu khuất phục ý chí của ông, còn bệnh sốt rét nhiệt đới thì không. Vấn đề của de Lesseps là tính cách cứng nhắc khiến ông không thể chấp nhận thất bại ngay cả khi trận chiến đã thua.
+Ferdinand de Lesseps là một kỹ sư chỉ ở mức khá nhưng có tầm nhìn và quyết tâm phi thường. Ông nổi tiếng vì xây kênh đào Suez trong những điều kiện tưởng như không thể; ông không thừa nhận điều không thể, và nhờ vậy đã làm được.
+
+Sau đó ông dùng đúng cách ấy để xây kênh Panama, và kết cục là thảm hoạ. (Chú thích của tác giả: kênh Suez là một lối đi ngang mực nước biển; việc đào tương đối dễ vì đất vốn thấp và là sa mạc. Panama có địa hình cao hơn nhiều, có các hồ dọc đường và rừng rậm. Nỗ lực đào xuống ngang mực nước biển của Lesseps thất bại. Rất lâu sau, Công binh Lục quân Mỹ làm được bằng một phương pháp rất khác: một chuỗi âu tàu, tận dụng các hồ dọc đường.) Cát sông Nile chịu khuất phục ý chí của ông, còn bệnh sốt rét nhiệt đới thì không. Vấn đề của de Lesseps là tính cách cứng nhắc khiến ông không thể chấp nhận thất bại ngay cả khi trận chiến đã thua.
 
 Vậy làm sao để cứng rắn có chọn lọc? Không có giải pháp lý tưởng, nhưng có nhiều cách để tạo ra và duy trì cam kết; đó là chủ đề của Chương 7.
 
@@ -804,7 +815,9 @@ Vậy làm sao để cứng rắn có chọn lọc? Không có giải pháp lý 
 
 Cindy Nacson-Schechter muốn giảm cân. Cô biết rõ phải làm gì: ăn ít, tập nhiều; cô biết tháp dinh dưỡng và lượng calo ẩn trong nước ngọt. Vậy mà không cách nào hiệu quả. Cô đã tăng 40 pound (khoảng 18 kg) sau lần sinh con thứ hai và số cân đó không chịu giảm. Vì vậy cô nhận lời đài ABC giúp mình giảm cân. Ngày 9/12/2005, cô tới một studio chụp ảnh ở khu West Side của Manhattan và thay một bộ bikini màu xanh chanh bé xíu, thứ cô chưa mặc từ năm chín tuổi. Khung cảnh giống hậu trường buổi chụp số áo tắm của tạp chí *Sports Illustrated*: đèn và máy quay khắp nơi, nhà sản xuất chu đáo đặt sẵn một máy sưởi giấu kín để cô khỏi lạnh.
 
-Nếu mọi việc như cô mong, sẽ không ai thấy những bức ảnh đó. Thoả thuận với chương trình *Primetime* của ABC là đài sẽ huỷ ảnh nếu cô giảm 15 pound (khoảng 6,8 kg) trong hai tháng tới. Họ không giúp gì khác: không huấn luyện viên, không chế độ ăn đặc biệt. Cô đã biết phải làm gì; cô chỉ cần thêm động lực và một lý do để bắt đầu từ hôm nay thay vì ngày mai. Nếu không giảm đủ số cân đã hứa, ABC sẽ phát ảnh và video vào giờ vàng trên truyền hình; cô đã ký giấy cho phép. Mười lăm pound trong hai tháng là mức giảm an toàn nhưng không dễ, nhất là với một loạt tiệc cuối năm và bữa tối Giáng sinh; cô không thể chờ sang năm mới. Cindy biết rõ nguy cơ của thừa cân (tiểu đường, đau tim, tử vong), nhưng chừng đó không đủ khiến cô hành động. Điều cô sợ nhất là bạn trai cũ thấy cô mặc bikini trên truyền hình toàn quốc, và gần như chắc anh ta sẽ xem, vì bạn thân của cô sẽ báo cho anh ta nếu cô thất bại.
+Nếu mọi việc như cô mong, sẽ không ai thấy những bức ảnh đó. Thoả thuận với chương trình *Primetime* của ABC là đài sẽ huỷ ảnh nếu cô giảm 15 pound (khoảng 6,8 kg) trong hai tháng tới. Họ không giúp gì khác: không huấn luyện viên, không chế độ ăn đặc biệt. Cô đã biết phải làm gì; cô chỉ cần thêm động lực và một lý do để bắt đầu từ hôm nay thay vì ngày mai. Nếu không giảm đủ số cân đã hứa, ABC sẽ phát ảnh và video vào giờ vàng trên truyền hình; cô đã ký giấy cho phép.
+
+Mười lăm pound trong hai tháng là mức giảm an toàn nhưng không dễ, nhất là với một loạt tiệc cuối năm và bữa tối Giáng sinh; cô không thể chờ sang năm mới. Cindy biết rõ nguy cơ của thừa cân (tiểu đường, đau tim, tử vong), nhưng chừng đó không đủ khiến cô hành động. Điều cô sợ nhất là bạn trai cũ thấy cô mặc bikini trên truyền hình toàn quốc, và gần như chắc anh ta sẽ xem, vì bạn thân của cô sẽ báo cho anh ta nếu cô thất bại.
 
 Laurie Edwards không thích vẻ ngoài và cảm giác của mình, nhất là khi cô làm bán thời gian ở quầy bar giữa những người ngoài hai mươi tuổi hấp dẫn. Cô đã thử Weight Watchers, South Beach, Slim-Fast và đủ thứ khác, nhưng vẫn đi sai hướng. Khi cô kể với bạn bè về chương trình, họ bảo đó là việc ngớ ngẩn nhất cô từng làm.
 
@@ -814,7 +827,11 @@ Tổng cộng bốn phụ nữ và một cặp vợ chồng phơi mình trước
 
 Hai tác giả giải thích: họ đang chơi một trò chơi với con người tương lai của chính mình. Con người hôm nay muốn con người tương lai ăn kiêng và tập luyện; con người tương lai muốn kem và ti vi. Phần lớn thời gian, con người tương lai thắng vì được đi nước sau cùng. Mẹo là thay đổi động cơ khuyến khích của con người tương lai để thay đổi hành vi của nó.
 
-Trong thần thoại Hy Lạp, Odysseus muốn nghe tiếng hát của các nàng Siren, nhưng biết rằng nếu để con người tương lai của mình nghe, nó sẽ lái tàu vào đá. Nên ông tự trói tay mình theo đúng nghĩa đen: ông bảo thuỷ thủ trói mình vào cột buồm, còn họ tự bịt tai. Trong ăn kiêng, cách này gọi là chiến lược "tủ lạnh trống". Cindy, Laurie và Ray đi xa hơn một bước: họ tự đặt mình vào một thế khó mà chỉ có ăn kiêng mới thoát ra được. Ta có thể nghĩ có thêm lựa chọn luôn là điều tốt, nhưng khi suy nghĩ có chiến lược, ta thường làm tốt hơn bằng cách cắt bớt lựa chọn. Thomas Schelling kể rằng tướng Xenophon của Athens đã đánh trận khi sau lưng là một khe núi không thể vượt qua; ông cố ý sắp đặt để binh lính không còn đường rút, và họ chiến đấu kiên cường rồi chiến thắng. Tương tự, Cortés cho đánh đắm tàu khi tới Mexico, với sự ủng hộ của quân lính. Bị áp đảo về quân số, 600 binh lính của ông quyết định hoặc đánh bại người Aztec hoặc chết. Người Aztec có thể rút vào nội địa, còn lính của Cortés không có cách nào đào ngũ hay rút lui. Bằng cách làm cho thất bại tồi tệ hơn, Cortés tăng cơ hội chiến thắng, và ông đã chinh phục được. (Chú thích của tác giả: Cortés còn được giúp nhờ người Aztec lầm tưởng ông là Quetzalcoatl, một vị thần da trắng.)
+Trong thần thoại Hy Lạp, Odysseus muốn nghe tiếng hát của các nàng Siren, nhưng biết rằng nếu để con người tương lai của mình nghe, nó sẽ lái tàu vào đá. Nên ông tự trói tay mình theo đúng nghĩa đen: ông bảo thuỷ thủ trói mình vào cột buồm, còn họ tự bịt tai. Trong ăn kiêng, cách này gọi là chiến lược "tủ lạnh trống". Cindy, Laurie và Ray đi xa hơn một bước: họ tự đặt mình vào một thế khó mà chỉ có ăn kiêng mới thoát ra được.
+
+Ta có thể nghĩ có thêm lựa chọn luôn là điều tốt, nhưng khi suy nghĩ có chiến lược, ta thường làm tốt hơn bằng cách cắt bớt lựa chọn. Thomas Schelling kể rằng tướng Xenophon của Athens đã đánh trận khi sau lưng là một khe núi không thể vượt qua; ông cố ý sắp đặt để binh lính không còn đường rút, và họ chiến đấu kiên cường rồi chiến thắng.
+
+Tương tự, Cortés cho đánh đắm tàu khi tới Mexico, với sự ủng hộ của quân lính. Bị áp đảo về quân số, 600 binh lính của ông quyết định hoặc đánh bại người Aztec hoặc chết. Người Aztec có thể rút vào nội địa, còn lính của Cortés không có cách nào đào ngũ hay rút lui. Bằng cách làm cho thất bại tồi tệ hơn, Cortés tăng cơ hội chiến thắng, và ông đã chinh phục được. (Chú thích của tác giả: Cortés còn được giúp nhờ người Aztec lầm tưởng ông là Quetzalcoatl, một vị thần da trắng.)
 
 Điều hiệu quả với Cortés và Xenophon cũng hiệu quả với ba người tham gia. Hai tháng sau, vừa kịp ngày Valentine:
 
@@ -832,7 +849,9 @@ Trong một bài bình luận ủng hộ cải cách tài trợ tranh cử, Warr
 
 Cải cách tài trợ tranh cử khó thông qua vì những người phải bỏ phiếu phê chuẩn, các nghị sĩ đương nhiệm, là những người mất nhiều nhất: lợi thế gây quỹ chính là thứ giữ ghế cho họ. (Chú thích của tác giả: từ 1992 đến 2000, Dan Rostenkowski là trường hợp duy nhất một nghị sĩ Hạ viện đương nhiệm thua khi tranh cử lại; tỷ lệ thành công của người đương nhiệm là 604 trên 605, tức 99,8%. Khi thua, Rostenkowski đang bị truy tố 17 tội danh, gồm tống tiền, cản trở công lý và lạm dụng ngân quỹ.)
 
-Làm sao khiến người ta làm điều trái lợi ích của mình? Đặt họ vào cái gọi là thế lưỡng nan của người tù. (Chú thích của tác giả: cách viết "prisoner's dilemma", số ít, phổ biến hơn, nhưng hai tác giả thích dùng số nhiều "prisoners' dilemma", vì phải có từ hai người tù trở lên mới có thế lưỡng nan.) Buffett hình dung: giả sử một tỷ phú lập dị nào đó (ông nhấn mạnh không phải ông) tuyên bố rằng nếu dự luật bị bác, người này sẽ tặng 1 tỷ USD (theo cách hợp pháp, vì "tiền mềm" cho phép mọi thứ) cho đảng đã đóng góp nhiều phiếu nhất để thông qua nó. Với cách áp dụng lý thuyết trò chơi "quỷ quyệt" này, dự luật sẽ qua Quốc hội dễ dàng, và tỷ phú không mất đồng nào (nên hoá ra cũng không lập dị lắm).
+Làm sao khiến người ta làm điều trái lợi ích của mình? Đặt họ vào cái gọi là thế lưỡng nan của người tù. (Chú thích của tác giả: cách viết "prisoner's dilemma", số ít, phổ biến hơn, nhưng hai tác giả thích dùng số nhiều "prisoners' dilemma", vì phải có từ hai người tù trở lên mới có thế lưỡng nan.) Buffett hình dung: giả sử một tỷ phú lập dị nào đó (ông nhấn mạnh không phải ông) tuyên bố rằng nếu dự luật bị bác, người này sẽ tặng 1 tỷ USD (theo cách hợp pháp, vì "tiền mềm" cho phép mọi thứ) cho đảng đã đóng góp nhiều phiếu nhất để thông qua nó.
+
+Với cách áp dụng lý thuyết trò chơi "quỷ quyệt" này, dự luật sẽ qua Quốc hội dễ dàng, và tỷ phú không mất đồng nào (nên hoá ra cũng không lập dị lắm).
 
 Xét từ vị trí một nghị sĩ Dân chủ (bảng do người tổng hợp lập từ lập luận của sách; sách không có bảng):
 
@@ -845,13 +864,19 @@ Dù Cộng hoà làm gì, Dân chủ cũng nên ủng hộ dự luật, tức �
 
 Tình huống này được gọi là thế lưỡng nan của người tù vì cả hai bên bị dẫn tới một hành động đi ngược lợi ích chung của họ. (Chú thích của tác giả: những người chơi trực tiếp trong trò chơi là bên thua, nhưng người ngoài có thể được lợi; các chính trị gia đương nhiệm có thể không vui với cải cách tài trợ tranh cử, nhưng phần còn lại của xã hội sẽ khá hơn.) Trong phiên bản kinh điển, cảnh sát thẩm vấn riêng hai nghi phạm. Mỗi người được hứa hẹn nhẹ tội nếu khai trước, và bị phạt nặng hơn nhiều nếu im lặng trong khi người kia khai. Vì vậy mỗi người đều thấy khai là có lợi, dù cả hai cùng im lặng thì tốt hơn cho cả hai.
 
-Tiểu thuyết phi hư cấu *In Cold Blood* của Truman Capote minh hoạ sống động. Richard "Dick" Hickock và Perry Edward Smith bị bắt vì vụ giết hại vô nghĩa cả gia đình Clutter. Không có nhân chứng, nhưng một kẻ chỉ điểm trong tù đã khai tên họ với cảnh sát. Trong lúc thẩm vấn, cảnh sát đẩy người này chống lại người kia. Capote đưa người đọc vào đầu Perry: anh nghi chuyện "một nhân chứng sống" chỉ là trò bịa để làm anh rối trí; anh ước được nói chuyện với Dick, nhưng hai người bị giam riêng ở hai tầng; anh đoán cảnh sát cũng dùng mánh đó với Dick, và lo rằng Dick tuy thông minh, diễn giỏi, nhưng "gan" không vững, dễ hoảng. Còn Dick, thức trắng trong xà lim tầng dưới, cũng (theo lời kể lại sau này) nóng lòng không kém muốn nói chuyện với Perry để biết Perry đã khai gì. Cuối cùng Dick khai, rồi Perry. (Chú thích của tác giả: dù cả hai nghĩ khai sẽ được đối xử nhẹ hơn, điều đó đã không xảy ra trong vụ này: cả hai bị kết án tử hình.) Bản chất của trò chơi là như vậy.
+Tiểu thuyết phi hư cấu *In Cold Blood* của Truman Capote minh hoạ sống động. Richard "Dick" Hickock và Perry Edward Smith bị bắt vì vụ giết hại vô nghĩa cả gia đình Clutter. Không có nhân chứng, nhưng một kẻ chỉ điểm trong tù đã khai tên họ với cảnh sát. Trong lúc thẩm vấn, cảnh sát đẩy người này chống lại người kia. Capote đưa người đọc vào đầu Perry: anh nghi chuyện "một nhân chứng sống" chỉ là trò bịa để làm anh rối trí; anh ước được nói chuyện với Dick, nhưng hai người bị giam riêng ở hai tầng; anh đoán cảnh sát cũng dùng mánh đó với Dick, và lo rằng Dick tuy thông minh, diễn giỏi, nhưng "gan" không vững, dễ hoảng.
 
-Vấn đề hành động tập thể là một biến thể của thế lưỡng nan của người tù, với nhiều người tù hơn hai. Trong truyện thiếu nhi về việc đeo chuông cho mèo, lũ chuột quyết định rằng cuộc sống sẽ an toàn hơn nhiều nếu con mèo đeo chuông ở cổ. Vấn đề là: con chuột nào sẽ liều mạng đi đeo chuông? Điều này đúng với cả chuột lẫn người. Vì sao những bạo chúa bị ghét vẫn khống chế được dân chúng đông đảo trong thời gian dài? Vì sao một kẻ bắt nạt đơn độc có thể khủng bố cả sân trường? Trong cả hai trường hợp, nếu số đông cùng hành động một lúc thì rất có khả năng thành công. Nhưng việc liên lạc và phối hợp cần cho hành động như vậy rất khó, và kẻ áp bức, biết sức mạnh của số đông, chủ động giữ cho nó khó. Khi mỗi người phải hành động riêng lẻ và hy vọng phong trào sẽ lớn dần, câu hỏi là: ai sẽ đứng lên đầu tiên? Người đó sẽ trả giá đắt, có thể là gãy mũi hoặc mất mạng, và phần thưởng có thể chỉ là vinh danh hay lòng biết ơn sau khi chết. Có những người hành động vì bổn phận hay danh dự, nhưng phần lớn thấy chi phí lớn hơn lợi ích.
+Còn Dick, thức trắng trong xà lim tầng dưới, cũng (theo lời kể lại sau này) nóng lòng không kém muốn nói chuyện với Perry để biết Perry đã khai gì. Cuối cùng Dick khai, rồi Perry. (Chú thích của tác giả: dù cả hai nghĩ khai sẽ được đối xử nhẹ hơn, điều đó đã không xảy ra trong vụ này: cả hai bị kết án tử hình.) Bản chất của trò chơi là như vậy.
+
+Vấn đề hành động tập thể là một biến thể của thế lưỡng nan của người tù, với nhiều người tù hơn hai. Trong truyện thiếu nhi về việc đeo chuông cho mèo, lũ chuột quyết định rằng cuộc sống sẽ an toàn hơn nhiều nếu con mèo đeo chuông ở cổ. Vấn đề là: con chuột nào sẽ liều mạng đi đeo chuông? Điều này đúng với cả chuột lẫn người. Vì sao những bạo chúa bị ghét vẫn khống chế được dân chúng đông đảo trong thời gian dài? Vì sao một kẻ bắt nạt đơn độc có thể khủng bố cả sân trường? Trong cả hai trường hợp, nếu số đông cùng hành động một lúc thì rất có khả năng thành công.
+
+Nhưng việc liên lạc và phối hợp cần cho hành động như vậy rất khó, và kẻ áp bức, biết sức mạnh của số đông, chủ động giữ cho nó khó. Khi mỗi người phải hành động riêng lẻ và hy vọng phong trào sẽ lớn dần, câu hỏi là: ai sẽ đứng lên đầu tiên? Người đó sẽ trả giá đắt, có thể là gãy mũi hoặc mất mạng, và phần thưởng có thể chỉ là vinh danh hay lòng biết ơn sau khi chết. Có những người hành động vì bổn phận hay danh dự, nhưng phần lớn thấy chi phí lớn hơn lợi ích.
 
 Khrushchev lần đầu tố cáo các cuộc thanh trừng của Stalin tại Đại hội 20 Đảng Cộng sản Liên Xô. Sau bài phát biểu chấn động đó, có người trong hội trường hét lên hỏi lúc ấy Khrushchev đã làm gì. Khrushchev đáp bằng cách mời người hỏi đứng dậy và xưng tên. Cả hội trường im lặng. Khrushchev nói: "Tôi cũng đã làm như thế."
 
-Mỗi người hành động vì lợi ích riêng, và kết quả là thảm hoạ cho cả nhóm. Thế lưỡng nan của người tù có lẽ là trò chơi nổi tiếng và đáng lo ngại nhất của lý thuyết trò chơi, và Chương 3 sẽ bàn có thể làm gì với nó. Hai tác giả nhấn mạnh ngay từ đầu rằng họ không mặc định kết quả của một trò chơi sẽ tốt cho người chơi. Nhiều nhà kinh tế, kể cả hai tác giả, đề cao ưu điểm của thị trường tự do, nhưng lý thuyết đằng sau kết luận đó dựa vào một hệ thống giá cả dẫn dắt hành vi cá nhân. Trong phần lớn các tương tác chiến lược, không có "bàn tay vô hình" của giá cả dẫn dắt người thợ làm bánh, người bán thịt hay bất kỳ ai. Vì vậy không có lý do gì để kỳ vọng kết quả của trò chơi sẽ tốt cho người chơi hay cho xã hội. Chơi giỏi một trò chơi có thể chưa đủ; bạn còn phải chắc mình đang chơi đúng trò chơi.
+Mỗi người hành động vì lợi ích riêng, và kết quả là thảm hoạ cho cả nhóm. Thế lưỡng nan của người tù có lẽ là trò chơi nổi tiếng và đáng lo ngại nhất của lý thuyết trò chơi, và Chương 3 sẽ bàn có thể làm gì với nó. Hai tác giả nhấn mạnh ngay từ đầu rằng họ không mặc định kết quả của một trò chơi sẽ tốt cho người chơi. Nhiều nhà kinh tế, kể cả hai tác giả, đề cao ưu điểm của thị trường tự do, nhưng lý thuyết đằng sau kết luận đó dựa vào một hệ thống giá cả dẫn dắt hành vi cá nhân.
+
+Trong phần lớn các tương tác chiến lược, không có "bàn tay vô hình" của giá cả dẫn dắt người thợ làm bánh, người bán thịt hay bất kỳ ai. Vì vậy không có lý do gì để kỳ vọng kết quả của trò chơi sẽ tốt cho người chơi hay cho xã hội. Chơi giỏi một trò chơi có thể chưa đủ; bạn còn phải chắc mình đang chơi đúng trò chơi.
 
 ### 9. Câu chuyện #8: Trộn các nước đi (Mix Your Plays)
 
@@ -871,35 +896,55 @@ Hãy hình dung cơ quan thuế Mỹ (IRS) có một công thức công khai đ�
 
 Tầm quan trọng của chiến lược ngẫu nhiên là một trong những phát hiện sớm của lý thuyết trò chơi. Ý tưởng đơn giản và trực giác, nhưng cần tinh chỉnh mới dùng được. Một tay vợt biết mình nên trộn cú đánh giữa thuận tay và trái tay của đối thủ là chưa đủ; anh cần biết nên đánh vào thuận tay 30% hay 64% số lần, và tỷ lệ đó phụ thuộc thế nào vào điểm mạnh tương đối của hai bên. Chương 5 phát triển phương pháp trả lời những câu hỏi như vậy.
 
-Bình luận cuối của hai tác giả: người thua lớn nhất trong ván Oẳn tù tì không phải Sotheby's mà là ông Hashiyama. Quyết định dùng Oẳn tù tì cho mỗi nhà đấu giá 50% cơ hội giành tiền hoa hồng, tức thực chất để hai bên thoả thuận chia nhau khoản hoa hồng. Lẽ ra ông nên tự tổ chức một cuộc đấu giá: cả hai nhà đều sẵn lòng, thậm chí háo hức, nhận việc với mức hoa hồng 12%, và nhà thắng sẽ là nhà chấp nhận mức phí thấp nhất. "Có ai trả 11% không? Một lần, hai lần..." (Chú thích của tác giả: mức hoa hồng chuẩn là 20% cho 800.000 USD đầu tiên và 12% cho phần còn lại. Bốn bức tranh của ông Hashiyama bán được tổng cộng 17,8 triệu USD, theo sách tương ứng tổng hoa hồng 2,84 triệu USD. Như đã nói trong phần Lưu ý, áp quy tắc này vào tổng 17,8 triệu USD chỉ ra khoảng 2,2 triệu USD; sách không giải thích chênh lệch.)
+Bình luận cuối của hai tác giả: người thua lớn nhất trong ván Oẳn tù tì không phải Sotheby's mà là ông Hashiyama. Quyết định dùng Oẳn tù tì cho mỗi nhà đấu giá 50% cơ hội giành tiền hoa hồng, tức thực chất để hai bên thoả thuận chia nhau khoản hoa hồng. Lẽ ra ông nên tự tổ chức một cuộc đấu giá: cả hai nhà đều sẵn lòng, thậm chí háo hức, nhận việc với mức hoa hồng 12%, và nhà thắng sẽ là nhà chấp nhận mức phí thấp nhất.
+
+"Có ai trả 11% không? Một lần, hai lần..." (Chú thích của tác giả: mức hoa hồng chuẩn là 20% cho 800.000 USD đầu tiên và 12% cho phần còn lại. Bốn bức tranh của ông Hashiyama bán được tổng cộng 17,8 triệu USD, theo sách tương ứng tổng hoa hồng 2,84 triệu USD. Như đã nói trong mục Lưu ý cuối chương, áp quy tắc này vào tổng 17,8 triệu USD chỉ ra khoảng 2,2 triệu USD; sách không giải thích chênh lệch.)
 
 ### 10. Câu chuyện #9: Đừng bao giờ nhận cược ngang tay với kẻ lão luyện (Never Give a Sucker an Even Bet)
 
-Trong vở nhạc kịch *Guys and Dolls*, con bạc Sky Masterson nhắc lời khuyên quý giá của cha: rồi sẽ có ngày, trên đường đời, một gã đưa ra bộ bài mới nguyên tem chưa bóc và cược rằng hắn có thể làm con J bích nhảy ra khỏi bộ bài mới đó và phun rượu táo vào tai con; con trai, đừng nhận cược, vì chắc chắn như con đang đứng đây, con sẽ bị đầy tai rượu táo. Bối cảnh là Nathan Detroit rủ Sky cược xem tiệm Mindy's bán bánh strudel hay bánh phô mai nhiều hơn. Nathan vừa tìm ra câu trả lời (strudel) và sẵn lòng cược nếu Sky chọn bánh phô mai. (Chú thích của tác giả: Sky chưa bao giờ thật sự học được bài học của cha. Một phút sau, anh đề nghị cược rằng Nathan không biết màu chiếc nơ cổ của chính mình. Sky không thể thắng: nếu Nathan biết màu, anh ta nhận cược và thắng. Hoá ra Nathan không biết nên không nhận cược. Và đó mới là canh bạc thật: Sky đang cược rằng Nathan sẽ không nhận lời.)
+Trong vở nhạc kịch *Guys and Dolls*, con bạc Sky Masterson nhắc lời khuyên quý giá của cha: rồi sẽ có ngày, trên đường đời, một gã đưa ra bộ bài mới nguyên tem chưa bóc và cược rằng hắn có thể làm con J bích nhảy ra khỏi bộ bài mới đó và phun rượu táo vào tai con; con trai, đừng nhận cược, vì chắc chắn như con đang đứng đây, con sẽ bị đầy tai rượu táo. Bối cảnh là Nathan Detroit rủ Sky cược xem tiệm Mindy's bán bánh strudel hay bánh phô mai nhiều hơn.
 
-Ví dụ này nghe có vẻ cực đoan; ai lại nhận một vụ cược ngớ ngẩn như vậy? Nhưng hãy nhìn thị trường hợp đồng tương lai ở Chicago. Nếu một nhà đầu cơ khác đề nghị bán cho bạn một hợp đồng tương lai, người đó chỉ kiếm được tiền nếu bạn mất tiền. (Chú thích của tác giả: mua cổ phiếu khác với cược một hợp đồng tương lai. Với cổ phiếu, vốn bạn góp giúp doanh nghiệp lớn nhanh hơn, nên cả bạn và doanh nghiệp đều có thể thắng.) Nếu bạn là nông dân có đậu tương để bán trong tương lai, hợp đồng giúp bạn phòng ngừa biến động giá; nếu bạn bán sữa đậu nành và cần mua đậu tương sau này, hợp đồng là bảo hiểm, không phải cá cược. Nhưng khối lượng hợp đồng giao dịch trên sàn cho thấy phần lớn người mua bán là nhà đầu cơ, không phải nông dân hay nhà sản xuất. Với họ, giao dịch là một trò chơi tổng bằng không: khi hai bên đồng ý giao dịch, mỗi bên đều nghĩ mình sẽ kiếm tiền, và một trong hai phải sai. Cả hai không thể cùng thắng.
+Nathan vừa tìm ra câu trả lời (strudel) và sẵn lòng cược nếu Sky chọn bánh phô mai. (Chú thích của tác giả: Sky chưa bao giờ thật sự học được bài học của cha. Một phút sau, anh đề nghị cược rằng Nathan không biết màu chiếc nơ cổ của chính mình. Sky không thể thắng: nếu Nathan biết màu, anh ta nhận cược và thắng. Hoá ra Nathan không biết nên không nhận cược. Và đó mới là canh bạc thật: Sky đang cược rằng Nathan sẽ không nhận lời.)
+
+Ví dụ này nghe có vẻ cực đoan; ai lại nhận một vụ cược ngớ ngẩn như vậy? Nhưng hãy nhìn thị trường hợp đồng tương lai ở Chicago. Nếu một nhà đầu cơ khác đề nghị bán cho bạn một hợp đồng tương lai, người đó chỉ kiếm được tiền nếu bạn mất tiền. (Chú thích của tác giả: mua cổ phiếu khác với cược một hợp đồng tương lai. Với cổ phiếu, vốn bạn góp giúp doanh nghiệp lớn nhanh hơn, nên cả bạn và doanh nghiệp đều có thể thắng.) Nếu bạn là nông dân có đậu tương để bán trong tương lai, hợp đồng giúp bạn phòng ngừa biến động giá; nếu bạn bán sữa đậu nành và cần mua đậu tương sau này, hợp đồng là bảo hiểm, không phải cá cược.
+
+Nhưng khối lượng hợp đồng giao dịch trên sàn cho thấy phần lớn người mua bán là nhà đầu cơ, không phải nông dân hay nhà sản xuất. Với họ, giao dịch là một trò chơi tổng bằng không: khi hai bên đồng ý giao dịch, mỗi bên đều nghĩ mình sẽ kiếm tiền, và một trong hai phải sai. Cả hai không thể cùng thắng.
 
 Đây là một nghịch lý. Làm sao cả hai bên đều nghĩ mình khôn hơn bên kia? Giả sử bạn không có thông tin nội bộ. Nếu ai đó sẵn lòng bán cho bạn một hợp đồng tương lai, mọi đồng bạn kiếm được là đồng họ mất. Vì sao bạn nghĩ mình khôn hơn họ, khi chính việc họ sẵn lòng giao dịch cho thấy họ nghĩ họ khôn hơn bạn?
 
-Người chơi poker vật lộn với nghịch lý này khi quyết định có nâng cược không. Một người chỉ tố khi có bài mạnh sẽ sớm bị người khác nhận ra. Khi anh ta tố, phần lớn người khác bỏ bài, nên anh ta không bao giờ thắng được ván lớn; còn những ai dám tố lại sẽ có bài mạnh hơn nữa, nên rốt cuộc anh ta thua đậm. Muốn người khác dám cược chống lại một tay bài mạnh, họ phải nghĩ bạn có thể đang tố lừa (bluff). Để họ tin điều đó, bạn cần tố đủ thường xuyên để chắc chắn có lúc bạn đang tố lừa. Từ đó nảy sinh một thế khó: bạn muốn người khác bỏ bài trước những lần tố lừa để thắng với bài yếu, nhưng như vậy không mang lại ván thắng lớn; muốn người khác tố theo, bạn cũng cần thỉnh thoảng bị bắt quả tang tố lừa.
+Người chơi poker vật lộn với nghịch lý này khi quyết định có nâng cược không. Một người chỉ tố khi có bài mạnh sẽ sớm bị người khác nhận ra. Khi anh ta tố, phần lớn người khác bỏ bài, nên anh ta không bao giờ thắng được ván lớn; còn những ai dám tố lại sẽ có bài mạnh hơn nữa, nên rốt cuộc anh ta thua đậm.
 
-Khi người chơi càng tinh vi, thuyết phục họ đặt cược lớn chống lại bạn càng khó. Hai tác giả kể ván đấu trí mức cược cao giữa Erick Lindgren và Daniel Negreanu, hai tay poker hàng đầu thế giới. Negreanu đoán Lindgren có bài yếu nên tố thêm 200.000 USD; Negreanu kể anh đã bỏ vào 270.000 USD và còn lại 200.000 USD. Lindgren nhìn chồng phỉnh của Negreanu, hỏi còn bao nhiêu, rồi đặt tất cả (all in). Theo luật cược đặc biệt của giải, Negreanu chỉ có 90 giây để quyết định theo, chấp nhận nguy cơ mất hết nếu Lindgren không tố lừa, hay bỏ bài và mất khoản tiền lớn đã bỏ vào. Negreanu kể lại: anh không nghĩ Lindgren có thể ngốc đến thế, nhưng đó không phải ngốc mà là "cao hơn một bậc": Lindgren biết rằng Negreanu biết Lindgren sẽ không làm điều ngốc như vậy, nên chính việc làm một điều "ngốc" lại thành nước đi tuyệt vời.
+Muốn người khác dám cược chống lại một tay bài mạnh, họ phải nghĩ bạn có thể đang tố lừa (bluff). Để họ tin điều đó, bạn cần tố đủ thường xuyên để chắc chắn có lúc bạn đang tố lừa. Từ đó nảy sinh một thế khó: bạn muốn người khác bỏ bài trước những lần tố lừa để thắng với bài yếu, nhưng như vậy không mang lại ván thắng lớn; muốn người khác tố theo, bạn cũng cần thỉnh thoảng bị bắt quả tang tố lừa.
 
-Rõ ràng không nên cược với những nhà vô địch poker như vậy, nhưng khi nào thì nên nhận một vụ cược? Groucho Marx từng nói ông không muốn làm hội viên của bất kỳ câu lạc bộ nào chịu nhận ông. Vì lý do tương tự, có thể bạn không nên nhận bất kỳ vụ cược nào người khác đưa ra. Bạn thậm chí nên lo khi thắng một cuộc đấu giá: chính việc bạn trả giá cao nhất cho thấy mọi người khác nghĩ món hàng đáng giá thấp hơn bạn nghĩ. Thắng đấu giá rồi phát hiện mình trả quá cao được gọi là lời nguyền của người thắng (winner's curse). Mỗi hành động của một người nói lên điều gì đó về những gì người ấy biết, và bạn nên dùng những suy luận đó cùng với hiểu biết sẵn có để định hướng hành động. Cách đặt giá để không bị nguyền khi thắng được bàn ở Chương 10.
+Khi người chơi càng tinh vi, thuyết phục họ đặt cược lớn chống lại bạn càng khó. Hai tác giả kể ván đấu trí mức cược cao giữa Erick Lindgren và Daniel Negreanu, hai tay poker hàng đầu thế giới. Negreanu đoán Lindgren có bài yếu nên tố thêm 200.000 USD; Negreanu kể anh đã bỏ vào 270.000 USD và còn lại 200.000 USD. Lindgren nhìn chồng phỉnh của Negreanu, hỏi còn bao nhiêu, rồi đặt tất cả (all in).
 
-Có những luật chơi giúp hai bên bình đẳng hơn. Một cách cho phép giao dịch khi thông tin lệch nhau là để bên ít thông tin chọn phe cược. Nếu Nathan Detroit đồng ý từ trước rằng sẽ nhận cược dù Sky chọn phe nào, thông tin nội bộ của Nathan sẽ vô dụng. Trên thị trường chứng khoán, ngoại hối và các thị trường tài chính khác, người ta được tự do chọn phe nào cũng được. Ở một số sàn, kể cả sàn chứng khoán London, khi bạn hỏi giá một cổ phiếu, nhà tạo lập thị trường phải báo cả giá mua lẫn giá bán trước khi biết bạn muốn mua hay bán. Không có biện pháp bảo vệ như vậy, nhà tạo lập thị trường có thể kiếm lời từ thông tin riêng, và nỗi sợ bị lừa của nhà đầu tư bên ngoài có thể khiến cả thị trường sụp đổ. Giá mua và giá bán không hoàn toàn bằng nhau; khoảng chênh gọi là chênh lệch giá mua-bán (bid-ask spread). Trong thị trường thanh khoản, chênh lệch này rất nhỏ, cho thấy mỗi lệnh mua hay bán chứa rất ít thông tin. Vai trò của thông tin được bàn lại ở Chương 8.
+Theo luật cược đặc biệt của giải, Negreanu chỉ có 90 giây để quyết định theo, chấp nhận nguy cơ mất hết nếu Lindgren không tố lừa, hay bỏ bài và mất khoản tiền lớn đã bỏ vào. Negreanu kể lại: anh không nghĩ Lindgren có thể ngốc đến thế, nhưng đó không phải ngốc mà là "cao hơn một bậc": Lindgren biết rằng Negreanu biết Lindgren sẽ không làm điều ngốc như vậy, nên chính việc làm một điều "ngốc" lại thành nước đi tuyệt vời.
+
+Rõ ràng không nên cược với những nhà vô địch poker như vậy, nhưng khi nào thì nên nhận một vụ cược? Groucho Marx từng nói ông không muốn làm hội viên của bất kỳ câu lạc bộ nào chịu nhận ông. Vì lý do tương tự, có thể bạn không nên nhận bất kỳ vụ cược nào người khác đưa ra. Bạn thậm chí nên lo khi thắng một cuộc đấu giá: chính việc bạn trả giá cao nhất cho thấy mọi người khác nghĩ món hàng đáng giá thấp hơn bạn nghĩ.
+
+Thắng đấu giá rồi phát hiện mình trả quá cao được gọi là lời nguyền của người thắng (winner's curse). Mỗi hành động của một người nói lên điều gì đó về những gì người ấy biết, và bạn nên dùng những suy luận đó cùng với hiểu biết sẵn có để định hướng hành động. Cách đặt giá để không bị nguyền khi thắng được bàn ở Chương 10.
+
+Có những luật chơi giúp hai bên bình đẳng hơn. Một cách cho phép giao dịch khi thông tin lệch nhau là để bên ít thông tin chọn phe cược. Nếu Nathan Detroit đồng ý từ trước rằng sẽ nhận cược dù Sky chọn phe nào, thông tin nội bộ của Nathan sẽ vô dụng. Trên thị trường chứng khoán, ngoại hối và các thị trường tài chính khác, người ta được tự do chọn phe nào cũng được. Ở một số sàn, kể cả sàn chứng khoán London, khi bạn hỏi giá một cổ phiếu, nhà tạo lập thị trường phải báo cả giá mua lẫn giá bán trước khi biết bạn muốn mua hay bán.
+
+Không có biện pháp bảo vệ như vậy, nhà tạo lập thị trường có thể kiếm lời từ thông tin riêng, và nỗi sợ bị lừa của nhà đầu tư bên ngoài có thể khiến cả thị trường sụp đổ. Giá mua và giá bán không hoàn toàn bằng nhau; khoảng chênh gọi là chênh lệch giá mua-bán (bid-ask spread). Trong thị trường thanh khoản, chênh lệch này rất nhỏ, cho thấy mỗi lệnh mua hay bán chứa rất ít thông tin. Vai trò của thông tin được bàn lại ở Chương 8.
 
 ### 11. Câu chuyện #10: Lý thuyết trò chơi có thể nguy hại cho sức khoẻ (Game Theory Can Be Dangerous to Your Health)
 
-Một đêm khuya sau hội nghị ở Jerusalem, hai nhà kinh tế Mỹ, trong đó có một tác giả của cuốn sách (Barry Nalebuff), bắt taxi và chỉ đường về khách sạn. Nhận ra ngay họ là du khách Mỹ, tài xế không bật đồng hồ tính tiền; thay vào đó anh tuyên bố yêu người Mỹ và hứa lấy giá thấp hơn đồng hồ. Hai người hơi nghi ngờ: vì sao một người lạ lại đề nghị lấy rẻ hơn đồng hồ khi họ sẵn lòng trả theo đồng hồ, và làm sao biết mình có bị chặt chém không? Mặt khác, họ chưa hứa trả gì hơn số tiền trên đồng hồ. Họ "đội mũ lý thuyết trò chơi": nếu bắt đầu mặc cả ngay và đàm phán đổ vỡ, họ phải tìm xe khác, mà taxi thì hiếm; nếu chờ tới khách sạn, thế mặc cả của họ sẽ mạnh hơn nhiều.
+Một đêm khuya sau hội nghị ở Jerusalem, hai nhà kinh tế Mỹ, trong đó có một tác giả của cuốn sách (Barry Nalebuff), bắt taxi và chỉ đường về khách sạn. Nhận ra ngay họ là du khách Mỹ, tài xế không bật đồng hồ tính tiền; thay vào đó anh tuyên bố yêu người Mỹ và hứa lấy giá thấp hơn đồng hồ.
+
+Hai người hơi nghi ngờ: vì sao một người lạ lại đề nghị lấy rẻ hơn đồng hồ khi họ sẵn lòng trả theo đồng hồ, và làm sao biết mình có bị chặt chém không? Mặt khác, họ chưa hứa trả gì hơn số tiền trên đồng hồ. Họ "đội mũ lý thuyết trò chơi": nếu bắt đầu mặc cả ngay và đàm phán đổ vỡ, họ phải tìm xe khác, mà taxi thì hiếm; nếu chờ tới khách sạn, thế mặc cả của họ sẽ mạnh hơn nhiều.
 
 Tới nơi, tài xế đòi 2.500 shekel Israel (2,75 USD). Không biết giá nào là công bằng, và vì người Israel thường mặc cả, Barry phản đối và trả 2.200 shekel. Tài xế nổi giận, nói không thể đi quãng đường đó với số tiền ấy. Trước khi đàm phán kịp tiếp tục, anh khoá tự động mọi cửa xe và phóng ngược lại tuyến đường với tốc độ chóng mặt, bất chấp đèn giao thông và người đi bộ. Họ có bị bắt cóc tới Beirut không? Không. Anh quay về điểm xuất phát, thô bạo đuổi hai người xuống xe và hét: "Xem 2.200 shekel của các anh đưa các anh đi được bao xa." Hai người tìm được xe khác; tài xế này bật đồng hồ, và họ về tới nơi với đúng 2.200 shekel.
 
 Hai tác giả rút ra hai bài học. Thứ nhất, thời gian mất thêm chắc chắn không đáng 300 shekel, dù câu chuyện thì đáng. Câu chuyện cho thấy sự nguy hiểm khi mặc cả với người chưa đọc sách của họ; rộng hơn, không thể bỏ qua lòng tự trọng và sự phi lý của con người, và đôi khi chịu bị "chặt chém" còn tốt hơn khi cái giá chỉ là vài hào. Thứ hai, họ chưa nghĩ đủ xa: thế mặc cả sẽ mạnh hơn bao nhiêu nếu họ bàn giá sau khi đã ra khỏi xe. (Dĩ nhiên, khi gọi taxi thì logic này phải đảo lại: nếu nói điểm đến trước khi lên xe, có thể chiếc taxi sẽ bỏ bạn để đi đón khách khác. Hãy lên xe trước rồi mới nói muốn đi đâu.)
 
-Vài năm sau khi câu chuyện được xuất bản lần đầu (trong *Thinking Strategically*), hai tác giả kể họ nhận được một lá thư. Người viết từng là sinh viên ở Jerusalem, chạy taxi ban đêm kiếm thêm, nay là chuyên gia tư vấn và tình cờ đọc bản tiếng Hebrew của sách; anh cũng hay kể chuyện này với khách hàng, nhưng nhớ khác. Vì vừa học vừa chạy xe đêm, anh gần như không có thời gian cho vợ mới cưới, nên cho cô ngồi ghế trước; cô im lặng suốt, và hai giáo sư đã sai lầm lớn khi bỏ cô ra khỏi câu chuyện. Đồng hồ của anh hỏng thật, nhưng họ không tin, và anh quá mệt để cãi. Tới nơi anh đòi 2.500 shekel, một giá công bằng, thậm chí còn mong họ làm tròn lên 3.000, vì người Mỹ giàu thừa sức boa 50 cent. Anh không tin nổi họ định lừa anh; việc họ không chịu trả giá công bằng làm anh mất mặt trước vợ, và dù nghèo, anh không cần nhận số tiền bố thí ấy. Người Mỹ nghĩ người khác phải vui vẻ nhận bất cứ mẩu vụn nào họ cho; anh muốn dạy họ một bài học trong trò chơi cuộc đời. Hai mươi năm sau, vợ chồng anh vẫn cười hai người Mỹ ngốc mất nửa giờ đi taxi tới lui để tiết kiệm hai mươi cent.
+Vài năm sau khi câu chuyện được xuất bản lần đầu (trong *Thinking Strategically*), hai tác giả kể họ nhận được một lá thư. Người viết từng là sinh viên ở Jerusalem, chạy taxi ban đêm kiếm thêm, nay là chuyên gia tư vấn và tình cờ đọc bản tiếng Hebrew của sách; anh cũng hay kể chuyện này với khách hàng, nhưng nhớ khác. Vì vừa học vừa chạy xe đêm, anh gần như không có thời gian cho vợ mới cưới, nên cho cô ngồi ghế trước; cô im lặng suốt, và hai giáo sư đã sai lầm lớn khi bỏ cô ra khỏi câu chuyện. Đồng hồ của anh hỏng thật, nhưng họ không tin, và anh quá mệt để cãi.
 
-Rồi hai tác giả thú nhận: thật ra họ chưa bao giờ nhận được lá thư đó. Họ tự viết ra để minh hoạ một bài học then chốt của lý thuyết trò chơi: phải hiểu góc nhìn của người chơi kia, gồm họ biết gì, điều gì thúc đẩy họ, và thậm chí họ nghĩ gì về bạn. George Bernard Shaw từng đùa về "khuôn vàng thước ngọc" (hãy làm cho người khác điều bạn muốn họ làm cho mình) rằng đừng làm như vậy, vì khẩu vị của họ có thể khác bạn. Khi suy nghĩ chiến lược, phải nỗ lực gấp đôi để hiểu góc nhìn và tương tác của mọi người chơi khác trong trò chơi, kể cả những người im lặng. Điểm cuối cùng: bạn có thể nghĩ mình đang chơi một trò chơi, nhưng đó chỉ là một phần của một trò chơi lớn hơn. Luôn có một trò chơi lớn hơn.
+Tới nơi anh đòi 2.500 shekel, một giá công bằng, thậm chí còn mong họ làm tròn lên 3.000, vì người Mỹ giàu thừa sức boa 50 cent. Anh không tin nổi họ định lừa anh; việc họ không chịu trả giá công bằng làm anh mất mặt trước vợ, và dù nghèo, anh không cần nhận số tiền bố thí ấy. Người Mỹ nghĩ người khác phải vui vẻ nhận bất cứ mẩu vụn nào họ cho; anh muốn dạy họ một bài học trong trò chơi cuộc đời. Hai mươi năm sau, vợ chồng anh vẫn cười hai người Mỹ ngốc mất nửa giờ đi taxi tới lui để tiết kiệm hai mươi cent.
+
+Rồi hai tác giả thú nhận: thật ra họ chưa bao giờ nhận được lá thư đó. Họ tự viết ra để minh hoạ một bài học then chốt của lý thuyết trò chơi: phải hiểu góc nhìn của người chơi kia, gồm họ biết gì, điều gì thúc đẩy họ, và thậm chí họ nghĩ gì về bạn. George Bernard Shaw từng đùa về "khuôn vàng thước ngọc" (hãy làm cho người khác điều bạn muốn họ làm cho mình) rằng đừng làm như vậy, vì khẩu vị của họ có thể khác bạn.
+
+Khi suy nghĩ chiến lược, phải nỗ lực gấp đôi để hiểu góc nhìn và tương tác của mọi người chơi khác trong trò chơi, kể cả những người im lặng. Điểm cuối cùng: bạn có thể nghĩ mình đang chơi một trò chơi, nhưng đó chỉ là một phần của một trò chơi lớn hơn. Luôn có một trò chơi lớn hơn.
 
 ### 12. Những gì sẽ đến (The Shape of Things to Come)
 
@@ -954,7 +999,9 @@ Giả sử ngược lại, đáp án đúng là 4π (tức r = 2). Với lỗi p
 
 Đến đây hai tác giả tự tin rằng đáp án là 16π, và họ đúng. Bằng cách nghĩ về mục tiêu của người ra đề, có thể tìm ra đáp án đúng mà thậm chí không cần thấy đề bài. Hai tác giả không khuyên người đọc đi thi GMAT mà không đọc câu hỏi; ai đủ thông minh để lập luận như trên thì gần như chắc biết công thức diện tích hình tròn. Nhưng sẽ có lúc bạn không hiểu nghĩa của một phương án, hoặc nội dung câu hỏi nằm ngoài chương trình đã học; khi đó, nghĩ về trò chơi ra đề có thể dẫn bạn tới đáp án đúng.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một công ty sản xuất cần thuê đơn vị vận chuyển cho lô hàng xuất khẩu trị giá 100 tỷ đồng mỗi năm. Hai công ty logistics A và B đều muốn nhận hợp đồng với mức phí 6% giá trị hàng, tức 6 tỷ đồng mỗi năm. Nếu giám đốc làm như ông Hashiyama, bốc thăm chọn một bên, mỗi bên có 50% cơ hội và chắc chắn được 6%, còn công ty mất 6 tỷ đồng. Nếu thay vào đó tổ chức chào giá cạnh tranh, mỗi bên biết đối thủ có thể hạ giá, và giả sử bên thắng chấp nhận 5%, công ty tiết kiệm 1 tỷ đồng mỗi năm, nhiều hơn hẳn mọi khoản "đàm phán khéo" trong một ván bốc thăm. Thêm một lớp nữa từ câu chuyện taxi: nếu đơn vị A là đối tác lâu năm, ép giá quá mức trước mặt cả đội của họ có thể khiến dịch vụ năm sau kém đi; hợp đồng năm nay chỉ là một phần của trò chơi lớn hơn kéo dài nhiều năm.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một công ty sản xuất cần thuê đơn vị vận chuyển cho lô hàng xuất khẩu trị giá 100 tỷ đồng mỗi năm. Hai công ty logistics A và B đều muốn nhận hợp đồng với mức phí 6% giá trị hàng, tức 6 tỷ đồng mỗi năm. Nếu giám đốc làm như ông Hashiyama, bốc thăm chọn một bên, mỗi bên có 50% cơ hội và chắc chắn được 6%, còn công ty mất 6 tỷ đồng.
+
+Nếu thay vào đó tổ chức chào giá cạnh tranh, mỗi bên biết đối thủ có thể hạ giá, và giả sử bên thắng chấp nhận 5%, công ty tiết kiệm 1 tỷ đồng mỗi năm, nhiều hơn hẳn mọi khoản "đàm phán khéo" trong một ván bốc thăm. Thêm một lớp nữa từ câu chuyện taxi: nếu đơn vị A là đối tác lâu năm, ép giá quá mức trước mặt cả đội của họ có thể khiến dịch vụ năm sau kém đi; hợp đồng năm nay chỉ là một phần của trò chơi lớn hơn kéo dài nhiều năm.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1087,11 +1134,15 @@ Gần như mỗi câu chuyện gắn với một chương sau, và hai tác gi�
 
 ### Nghiên cứu bàn tay nóng mà hai tác giả dẫn đã bị phản biện mạnh sau khi sách ra
 
-Hai tác giả chấp nhận kết luận của Gilovich, Vallone và Tversky (1985) rằng không có ném trúng theo chuỗi, rồi đưa ra cách giải thích theo lý thuyết trò chơi (hàng thủ dồn người kèm). Khoảng giữa thập niên 2010, các nhà kinh tế Joshua Miller và Adam Sanjurjo chỉ ra rằng phép thử gốc có một thiên lệch thống kê: trong một chuỗi hữu hạn, tỷ lệ "trúng ngay sau trúng" của một quá trình hoàn toàn ngẫu nhiên có xu hướng thấp hơn tỷ lệ trúng chung, nên dữ liệu gốc khi hiệu chỉnh lại có thể cho thấy bàn tay nóng có tồn tại. Điều thú vị là cách giải thích của hai tác giả vẫn đứng vững và thậm chí bổ sung cho phát hiện mới: nếu bàn tay nóng có thật, phản ứng của hàng thủ sẽ che bớt nó trong số liệu cá nhân, đúng như họ lập luận. Bài học chung vẫn là: số liệu quan sát được đã chứa phản ứng chiến lược của đối thủ.
+Hai tác giả chấp nhận kết luận của Gilovich, Vallone và Tversky (1985) rằng không có ném trúng theo chuỗi, rồi đưa ra cách giải thích theo lý thuyết trò chơi (hàng thủ dồn người kèm). Khoảng giữa thập niên 2010, các nhà kinh tế Joshua Miller và Adam Sanjurjo chỉ ra rằng phép thử gốc có một thiên lệch thống kê: trong một chuỗi hữu hạn, tỷ lệ "trúng ngay sau trúng" của một quá trình hoàn toàn ngẫu nhiên có xu hướng thấp hơn tỷ lệ trúng chung, nên dữ liệu gốc khi hiệu chỉnh lại có thể cho thấy bàn tay nóng có tồn tại.
+
+Điều thú vị là cách giải thích của hai tác giả vẫn đứng vững và thậm chí bổ sung cho phát hiện mới: nếu bàn tay nóng có thật, phản ứng của hàng thủ sẽ che bớt nó trong số liệu cá nhân, đúng như họ lập luận. Bài học chung vẫn là: số liệu quan sát được đã chứa phản ứng chiến lược của đối thủ.
 
 ### Đề xuất của Buffett là một ví dụ hay về thiết kế trò chơi, nhưng khó áp dụng thật
 
-Ý tưởng "tỷ phú lập dị" cho thấy một bên thứ ba có thể thay đổi kết quả bằng một lời hứa mà nếu thành công thì không bao giờ phải thực hiện. Nhưng nó dựa vào nhiều giả định: hai đảng không thể phối hợp với nhau để cùng chống dự luật (nếu cả hai cùng bỏ phiếu chống hoàn toàn thì không đảng nào góp phiếu thuận, và lời hứa 1 tỷ USD mất tác dụng); lời hứa đáng tin; và việc tặng 1 tỷ USD cho một đảng là hợp pháp. Trong thực tế, các nghị sĩ tương tác lặp lại nhiều năm và có thể hợp tác ngầm, đúng loại cách thoát khỏi thế lưỡng nan mà Chương 3 sẽ bàn. Về bối cảnh, nói định tính: sau khi sách ra, luật tài trợ tranh cử ở Mỹ thay đổi lớn theo chiều ngược với đề xuất của Buffett, khi các phán quyết của Toà án Tối cao Mỹ từ năm 2010 mở đường cho chi tiêu chính trị độc lập không giới hạn.
+Ý tưởng "tỷ phú lập dị" cho thấy một bên thứ ba có thể thay đổi kết quả bằng một lời hứa mà nếu thành công thì không bao giờ phải thực hiện. Nhưng nó dựa vào nhiều giả định: hai đảng không thể phối hợp với nhau để cùng chống dự luật (nếu cả hai cùng bỏ phiếu chống hoàn toàn thì không đảng nào góp phiếu thuận, và lời hứa 1 tỷ USD mất tác dụng); lời hứa đáng tin; và việc tặng 1 tỷ USD cho một đảng là hợp pháp.
+
+Trong thực tế, các nghị sĩ tương tác lặp lại nhiều năm và có thể hợp tác ngầm, đúng loại cách thoát khỏi thế lưỡng nan mà Chương 3 sẽ bàn. Về bối cảnh, nói định tính: sau khi sách ra, luật tài trợ tranh cử ở Mỹ thay đổi lớn theo chiều ngược với đề xuất của Buffett, khi các phán quyết của Toà án Tối cao Mỹ từ năm 2010 mở đường cho chi tiêu chính trị độc lập không giới hạn.
 
 ### Chuyện Hashiyama cho thấy người thiết kế luật chơi thường quan trọng hơn người chơi
 
@@ -1111,3 +1162,150 @@ Câu "Tôi đứng đây, tôi không thể làm khác" của Luther được nh
 - **Trong đầu tư.** Trước mỗi giao dịch đầu cơ thuần tuý, hãy hỏi câu của câu chuyện #9: nếu người bên kia sẵn lòng bán cho mình, họ biết điều gì mà mình không biết? Khi thắng một cuộc đấu giá tài sản (đất, cổ phần, dự án), nhớ tới lời nguyền của người thắng: việc mọi người khác trả thấp hơn là một thông tin. Ưu tiên thị trường thanh khoản với chênh lệch giá mua-bán nhỏ, nơi lợi thế thông tin của bên kia ít hơn.
 - **Trong nghề nghiệp.** Khi đàm phán lương hay hợp đồng, sự cứng rắn kiểu de Gaulle có thể giành phần lớn hơn hôm nay nhưng làm hỏng quan hệ lâu dài; luôn có một trò chơi lớn hơn. Với mục tiêu cá nhân khó giữ (học thêm, tập thể dục, tiết kiệm), dùng nước đi chiến lược kiểu Cindy: tạo một cam kết có cái giá thật nếu thất bại, như đặt cọc, công bố với người mình nể, hay hẹn với đồng nghiệp. Khi làm bài thi hay phỏng vấn, nghĩ về mục tiêu của người ra đề như trong câu hỏi GMAT.
 - **Khi đọc tin chính sách.** Khi một chính sách đòi hỏi những người hưởng lợi từ hiện trạng tự bỏ phiếu xoá bỏ lợi ích của mình, như cải cách tài trợ tranh cử với nghị sĩ đương nhiệm, hãy chờ đợi sự trì hoãn, trừ khi có ai đó thay đổi luật chơi. Ở Việt Nam, các tin về thanh tra, kiểm tra thuế hay kiểm tra chuyên ngành có thể đọc qua câu chuyện IRS: kiểm tra theo kế hoạch công bố trước và hoàn toàn đoán được sẽ kém hiệu quả hơn việc kết hợp với kiểm tra ngẫu nhiên hoặc dựa trên rủi ro. Với các vấn đề cần hành động tập thể (khiếu nại chung của cư dân một khu, phản ánh của một nhóm doanh nghiệp nhỏ), câu chuyện đeo chuông cho mèo giải thích vì sao ai cũng muốn thay đổi mà không ai đứng ra trước.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: năm nhánh lớn đi theo các mục 2–13 của phần Nội dung chi tiết (câu chuyện #1–#2 về nhìn trước đối thủ, số 3–#5 về phản ứng, bắt chước và sự cứng rắn, số 6–#7 về tự trói tay và thế lưỡng nan, số 8–#10 về không thể đoán trước, thông tin và cảm xúc, phần tóm bài học và tình huống GMAT), mỗi nhánh ghi ví dụ, con số và bài học mà hai tác giả rút ra, kèm chương sau sẽ phát triển nó; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: một quyết định thành trò chơi khi kết quả phụ thuộc người khác, nên phải đặt mình vào vị trí người chơi kia`"]
+  n1["`Mục 2–3 — Câu chuyện số 1 Đoán số và số 2 Survivor`"]
+  n0 --- n1
+  n2["`Đoán số 1–100 bằng chia đôi (50, 25, 37, 42) là tối ưu khi con số được chọn ngẫu nhiên`"]
+  n1 --- n2
+  n3["`Hai tác giả cố tình chọn số khó tìm, rồi gài bẫy để người đọc đoán 49 trong khi số là 48`"]
+  n1 --- n3
+  n4["`Con số ngẫu nhiên không trốn bạn, còn người chơi kia thì có`"]
+  n1 --- n4
+  n5["`Richard Hatch chủ động bỏ cuộc trên cột để Kelly làm việc loại Rudy, người được yêu mến nhất`"]
+  n1 --- n5
+  n6["`Kelly chọn Hatch vào chung kết, Rudy bỏ lá phiếu quyết định, Hatch thắng 1 triệu USD`"]
+  n1 --- n6
+  n7["`Bài học: diễn tập trong đầu mọi nước đi tương lai, công cụ ở Chương 2`"]
+  n1 --- n7
+  n8["`Mục 4–6 — Câu chuyện số 3 Bàn tay nóng, số 4 Đua thuyền, số 5 Tôi đứng đây`"]
+  n0 --- n8
+  n9["`Gilovich, Vallone, Tversky: cầu thủ 76ers vừa ném trúng lại ít trúng cú tiếp theo hơn`"]
+  n8 --- n9
+  n10["`Lý thuyết trò chơi: cầu thủ nóng tay bị kèm chặt, đồng đội được bỏ trống, nên hãy đo chuỗi thành công của đội`"]
+  n8 --- n10
+  n11["`LeBron James tập tay trái giỏi hơn thì tay phải được tự do hơn`"]
+  n8 --- n11
+  n12["`America's Cup 1983: Liberty dẫn 3–1 nhưng không bám theo Australia II và thua cả loạt`"]
+  n8 --- n12
+  n13["`Thuyền dẫn đầu bắt chước thuyền theo sau, nhà dự báo hàng đầu đi theo số đông`"]
+  n8 --- n13
+  n14["`Trong kinh doanh người dẫn đầu chờ xem đổi mới thành hay bại rồi mới theo, như Dell, Procter và Gamble`"]
+  n8 --- n14
+  n15["`Luther và tiếng Non của de Gaulle: lập trường không đảo ngược buộc bên kia chấp nhận hoặc bỏ đi`"]
+  n8 --- n15
+  n16["`Cứng rắn có giá: de Lesseps thành công ở Suez nhưng thất bại ở Panama vì không chịu nhận thua`"]
+  n8 --- n16
+  n17["`Mục 7–8 — Câu chuyện số 6 Giảm cân và số 7 Thế lưỡng nan của Buffett`"]
+  n0 --- n17
+  n18["`Cindy ký giấy cho ABC phát ảnh bikini nếu không giảm 15 pound trong 2 tháng`"]
+  n17 --- n18
+  n19["`Kết quả: Cindy giảm 17 pound, Ray 22 pound, Laurie 28 pound`"]
+  n17 --- n19
+  n20["`Con người hôm nay chơi với con người tương lai, kẻ được đi nước sau cùng`"]
+  n17 --- n20
+  n21["`Odysseus tự trói vào cột buồm, Xenophon đánh trận khi sau lưng là khe núi, Cortés đánh đắm tàu`"]
+  n17 --- n21
+  n22["`Cắt bớt lựa chọn có thể làm mình tốt hơn, chủ đề của Chương 6`"]
+  n17 --- n22
+  n23["`Buffett: tỷ phú hứa tặng 1 tỷ USD cho đảng góp nhiều phiếu thuận nhất nếu dự luật tài trợ tranh cử bị bác`"]
+  n17 --- n23
+  n24["`Ủng hộ thành chiến lược trội của cả hai đảng, dự luật qua mà tỷ phú không mất đồng nào`"]
+  n17 --- n24
+  n25["`In Cold Blood: Hickock và Smith bị thẩm vấn riêng, cả hai khai và cả hai bị tử hình`"]
+  n17 --- n25
+  n26["`Đeo chuông cho mèo: hành động tập thể khó vì ai đứng lên đầu tiên sẽ trả giá đắt`"]
+  n17 --- n26
+  n27["`Không có bàn tay vô hình trong phần lớn trò chơi, kết quả không chắc tốt cho người chơi hay xã hội`"]
+  n17 --- n27
+  n28["`Mục 9–11 — Câu chuyện số 8 Oẳn tù tì, số 9 Cược với người biết nhiều hơn, số 10 Taxi Jerusalem`"]
+  n0 --- n28
+  n29["`Hashiyama cho Christie's và Sotheby's chơi Oẳn tù tì chọn nhà đấu giá bộ tranh 18 triệu USD`"]
+  n28 --- n29
+  n30["`Christie's nghe trẻ con khuyên ra Kéo, Sotheby's coi là may rủi và ra Bao, Christie's thắng`"]
+  n28 --- n30
+  n31["`Không được để bị đoán trước, xoay vòng có quy luật cũng bị khai thác, chủ đề của Chương 5`"]
+  n28 --- n31
+  n32["`IRS dùng công thức kiểm tra công khai thì chỉ kiểm tra đúng người đã khai trung thực`"]
+  n28 --- n32
+  n33["`Hashiyama lẽ ra nên đấu giá mức hoa hồng thay vì chia đôi cơ hội bằng trò chơi`"]
+  n28 --- n33
+  n34["`Sky Masterson: đừng nhận cược với người đưa ra bộ bài còn nguyên tem`"]
+  n28 --- n34
+  n35["`Hợp đồng tương lai giữa hai nhà đầu cơ là tổng bằng không, việc bên kia chịu giao dịch đã là thông tin`"]
+  n28 --- n35
+  n36["`Poker: phải thỉnh thoảng tố lừa và bị bắt quả tang thì tay bài mạnh mới được theo`"]
+  n28 --- n36
+  n37["`Lời nguyền của người thắng: thắng đấu giá nghĩa là người khác định giá thấp hơn mình, bàn ở Chương 10`"]
+  n28 --- n37
+  n38["`Nalebuff mặc cả 2.200 thay vì 2.500 shekel, tài xế khóa cửa chở ngược về điểm xuất phát`"]
+  n28 --- n38
+  n39["`Lá thư của tài xế do hai tác giả tự viết: phải hiểu góc nhìn người kia, kể cả người im lặng`"]
+  n28 --- n39
+  n40["`Luôn có một trò chơi lớn hơn trò chơi bạn tưởng mình đang chơi`"]
+  n28 --- n40
+  n41["`Mục 12–13 — Những gì sẽ đến và tình huống câu hỏi trắc nghiệm`"]
+  n0 --- n41
+  n42["`Mỗi câu chuyện mở đường cho một chương: suy luận ngược, lưỡng nan, hỗn hợp, cam kết, thông tin`"]
+  n41 --- n42
+  n43["`Từ đây sách đi theo từng nguyên tắc, mỗi chương kết bằng một tình huống nghiên cứu`"]
+  n41 --- n43
+  n44["`Câu GMAT không in đề, năm phương án 4π, 8π, 16, 16π, 32π`"]
+  n41 --- n44
+  n45["`Nghĩ như người ra đề: đáp án sai phải hấp dẫn người không chắc chắn`"]
+  n41 --- n45
+  n46["`Với 16π (diện tích πr², r bằng 4) mọi phương án sai đều có một lỗi công thức hợp lý dẫn tới`"]
+  n41 --- n46
+  n47["`4π là đáp án đúng tồi vì nhầm sang 2πr với r bằng 2 cũng ra 4π`"]
+  n41 --- n47
+  n48["`Thông điệp xuyên suốt`"]
+  n0 --- n48
+  n49["`Bài học then chốt: đặt mình vào vị trí người chơi kia, nhìn họ như chính họ chứ không như mình`"]
+  n48 --- n49
+  n50["`Mỗi hành động gây ra phản ứng, không thể giả định mọi thứ khác đứng yên`"]
+  n48 --- n50
+  n51["`Hạn chế lựa chọn, sự cứng rắn và sự không thể đoán trước đều có thể là lợi thế`"]
+  n48 --- n51
+  class n0 root
+  class n1,n8,n17,n28,n41,n48 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 1, mở đầu Phần I.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Cuốn sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần Giới thiệu ("How Should People Behave in Society?") đặt câu hỏi chung về cách con người nên hành xử khi kết quả của mình phụ thuộc vào hành động của người khác. Chương 1 chưa đưa ra công cụ nào; hai tác giả gọi nó là "món tráng miệng trước bữa chính", tức mười tình huống ngắn để người đọc thấy tư duy chiến lược có mặt khắp nơi và các tình huống ấy tạo thành một bộ câu hỏi có hệ thống.
+
+Mỗi câu chuyện là lời giới thiệu cho một chương sau, và hai tác giả tự ghi rõ phần lớn các mối nối: câu chuyện *Survivor* dẫn sang suy luận ngược ở Chương 2; câu chuyện đề xuất của Buffett và vụ án *In Cold Blood* dẫn sang thế lưỡng nan của người tù ở Chương 3; câu chuyện "bàn tay nóng" và trò Oẳn tù tì dẫn sang chiến lược hỗn hợp ở Chương 5; câu chuyện giảm cân trước ống kính dẫn sang nước đi chiến lược ở Chương 6; câu chuyện Luther và de Gaulle dẫn sang độ tin cậy và cam kết ở Chương 7; câu chuyện cá cược với người có thông tin dẫn sang thông tin ở Chương 8 và đấu giá ở Chương 10. Chương 2 bắt đầu phần công cụ, với cây trò chơi và suy luận ngược.
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008, nên các ví dụ mang dấu ấn thời điểm đó: Yao Ming và LeBron James (khi còn chơi cho Cleveland Cavaliers), Dell là hãng máy tính cá nhân dẫn đầu thị trường, Sun là một hãng công nghệ độc lập, Richard Hatch vừa bị kết án năm 2006.
+- Một số chi tiết đã đổi từ đó: Sun Microsystems đã bị Oracle mua lại; nghiên cứu "bàn tay nóng" mà hai tác giả dẫn đã bị các nghiên cứu sau này phản biện về phương pháp (xem phần Đánh giá); quy định tài trợ tranh cử ở Mỹ đã thay đổi lớn sau khi sách ra (xem phần Đánh giá).
+- Chương có 13 chú thích chân trang của tác giả (đánh số FN3 đến FN15 trong bản text), tất cả đã đưa vào phần Nội dung chi tiết ở đúng chỗ, ghi rõ "Chú thích của tác giả".
+- Chương có một đoạn "Trip to the Gym" (đoạn bàn thêm về chi tiết nâng cao) không đánh số và không có đáp án trong phần Workouts của sách; đoạn này nằm trong câu chuyện số 2.
+- Chương không có hình hay bảng nào.
+- Có vài chỗ sách có vẻ nhầm hoặc số liệu không khớp:
+  - sàn giao dịch hợp đồng tương lai đậu tương ở Chicago thường gọi là Chicago Board of Trade, sách viết "Chicago Board of Exchange"
+  - trong chuyện taxi, 2.500 shekel tương đương 2,75 USD, nên khoản chênh 300 shekel là khoảng 33 cent, trong khi sách nói "hai hào" (hai mươi cent)
+  - lần phủ quyết thứ hai của de Gaulle với việc Anh gia nhập Cộng đồng Kinh tế châu Âu thường được ghi là cuối năm 1967, sách ghi 1968
+  - trong chú thích về tiền hoa hồng của Christie's, áp quy tắc phí mà sách nêu (20% cho 800.000 USD đầu tiên, 12% cho phần còn lại) vào tổng 17,8 triệu USD chỉ ra khoảng 2,2 triệu USD, không phải 2,84 triệu USD như sách ghi.
+- Ký hiệu "∏" trong bản text là chữ π (số pi).
+- Các câu trích là bản dịch của người tổng hợp.

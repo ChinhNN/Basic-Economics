@@ -1,11 +1,14 @@
 # Lời nói đầu và Lời giới thiệu (Preface; Introduction: How Should People Behave in Society?)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Lời nói đầu (Preface, hai tác giả ký tháng 10/2007) và Lời giới thiệu (Introduction: How Should People Behave in Society?). Sách đề tặng: "Tặng tất cả sinh viên của chúng tôi, những người đã dạy chúng tôi rất nhiều (đặc biệt là Seth — BJN)"; dòng trong ngoặc là lời riêng của Barry J. Nalebuff.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Hai ông từng viết chung *Thinking Strategically* (1991), cuốn sách mà *The Art of Strategy* thay thế.
-**Vị trí trong lập luận của cả cuốn sách:** Hai phần mở đầu này chưa dạy một công cụ lý thuyết trò chơi nào. Lời nói đầu giải thích vì sao một bản sửa đổi của *Thinking Strategically* lại thành một cuốn sách mới, và nói rõ góc nhìn mới: chiến lược tốt phải pha trộn cạnh tranh với hợp tác. Lời giới thiệu xác định đối tượng của sách là hành vi chiến lược (strategic behavior), tức là cách ra quyết định khi người khác cũng đang tính toán và phản ứng lại mình, rồi trình bày lộ trình của sách (số chương từ 5 trở đi do người tổng hợp đối chiếu mục lục, Lời giới thiệu chỉ nêu số Chương 1 và 2–4): Chương 1 kể các câu chuyện thực tế về chiến lược; Chương 2–4 xây nền khoa học (suy luận ngược ở Chương 2, cân bằng Nash ở Chương 4); Chương 5–8 bàn các khái niệm chuyên biệt (chiến lược hỗn hợp, nước đi chiến lược, xử lý thông tin); Chương 9–14 áp dụng vào hợp tác, đấu giá, mặc cả, bầu cử, thiết kế động cơ khuyến khích và các tình huống nghiên cứu.
-**Ý chính:** Ai cũng là nhà chiến lược, dù muốn hay không, vì hầu hết các quyết định quan trọng trong đời (chọn nghề, điều hành doanh nghiệp, kết hôn, nuôi con, ra tranh cử) đều diễn ra giữa những người khác cũng đang tự ra quyết định. Ví dụ trung tâm là phép so sánh giữa người tiều phu và vị tướng: người tiều phu chặt gỗ không phải lo khúc gỗ đánh trả, còn vị tướng muốn hạ quân địch phải đoán trước và vượt qua sự kháng cự của đối phương. Ngành khoa học nghiên cứu loại quyết định này là lý thuyết trò chơi (game theory). Khoa học đó cho các nguyên tắc chung, nhưng vận dụng vào từng tình huống vẫn là một nghệ thuật, chỉ học được qua ví dụ và luyện tập; vì vậy sách đưa rất nhiều ví dụ và tình huống nghiên cứu thay cho toán học.
+## Ý chính
 
-> **Lưu ý:** Lời nói đầu ký tháng 10/2007, nên các con số phản ánh thời điểm đó: *Thinking Strategically* đã bán 250.000 bản; tìm "game theory" trên Google ra hơn 6 triệu trang; đã có hai giải Nobel Kinh tế cho lý thuyết trò chơi (1994 và 2005) và ba giải cho các lĩnh vực gần (1996, 2001, 2007). Từ đó đến nay đã có thêm các giải Nobel Kinh tế gắn chặt với lý thuyết trò chơi, như giải 2012 (Alvin Roth và Lloyd Shapley, thiết kế thị trường và ghép cặp) và giải 2020 (Paul Milgrom và Robert Wilson, lý thuyết đấu giá); John Nash mất năm 2015 và Thomas Schelling mất năm 2016. Câu "lý thuyết trò chơi mới hơn bảy mươi năm tuổi" không nói mốc tính; nếu tính từ bài báo năm 1928 của John von Neumann thì đến 2007 là gần tám mươi năm, còn tính từ cuốn *Theory of Games and Economic Behavior* (von Neumann và Morgenstern, 1944) thì chỉ hơn sáu mươi năm, nên con số của sách chỉ nên hiểu là ước chừng. Lời nói đầu có 2 chú thích chân trang của tác giả, đã đưa vào mục 2 và mục 4 phần Nội dung chi tiết; Lời giới thiệu không có chú thích nào. Hai phần này không có hình hay bảng. Các câu trích là bản dịch của người tổng hợp.
+Ai cũng là nhà chiến lược, dù muốn hay không, vì hầu hết các quyết định quan trọng trong đời (chọn nghề, điều hành doanh nghiệp, kết hôn, nuôi con, ra tranh cử) đều diễn ra giữa những người khác cũng đang tự ra quyết định.
+
+Ví dụ trung tâm là phép so sánh giữa người tiều phu và vị tướng: người tiều phu chặt gỗ không phải lo khúc gỗ đánh trả, còn vị tướng muốn hạ quân địch phải đoán trước và vượt qua sự kháng cự của đối phương.
+
+Ngành khoa học nghiên cứu loại quyết định này là lý thuyết trò chơi (game theory).
+
+Khoa học đó cho các nguyên tắc chung, nhưng vận dụng vào từng tình huống vẫn là một nghệ thuật, chỉ học được qua ví dụ và luyện tập; vì vậy sách đưa rất nhiều ví dụ và tình huống nghiên cứu thay cho toán học.
 
 ## Sơ đồ
 
@@ -260,7 +263,9 @@ Giống Menard, hai tác giả cũng có một góc nhìn mới. Khi viết *Thi
 
 > **Chú thích của tác giả:** Theo đuổi hướng suy nghĩ này đã dẫn một trong hai tác giả viết hẳn một cuốn sách về nó: Adam Brandenburger và Barry J. Nalebuff, *Co-opetition* (New York: Doubleday, 1996).
 
-Lời nói đầu bản 1991 mở đầu bằng câu: tư duy chiến lược là nghệ thuật vượt mặt đối thủ khi biết rằng đối thủ cũng đang cố làm điều đó với mình. Năm 2008, hai tác giả thêm vào bốn vế. Tư duy chiến lược còn là nghệ thuật tìm cách hợp tác ngay cả khi người khác hành động vì tư lợi chứ không vì lòng tốt; nghệ thuật thuyết phục người khác, và cả chính mình, làm đúng điều mình nói; nghệ thuật diễn giải và tiết lộ thông tin; và nghệ thuật đặt mình vào vị trí người khác để đoán và tác động đến việc họ sẽ làm. Theo người tổng hợp (đối chiếu với mục lục), bốn vế này báo trước các phần sau của sách: hợp tác (Chương 3, 9), cam kết và độ tin cậy (Chương 6, 7), thông tin (Chương 8), và tư duy từ góc của đối phương xuyên suốt cả cuốn.
+Lời nói đầu bản 1991 mở đầu bằng câu: tư duy chiến lược là nghệ thuật vượt mặt đối thủ khi biết rằng đối thủ cũng đang cố làm điều đó với mình. Năm 2008, hai tác giả thêm vào bốn vế. Tư duy chiến lược còn là nghệ thuật tìm cách hợp tác ngay cả khi người khác hành động vì tư lợi chứ không vì lòng tốt; nghệ thuật thuyết phục người khác, và cả chính mình, làm đúng điều mình nói; nghệ thuật diễn giải và tiết lộ thông tin; và nghệ thuật đặt mình vào vị trí người khác để đoán và tác động đến việc họ sẽ làm.
+
+Theo người tổng hợp (đối chiếu với mục lục), bốn vế này báo trước các phần sau của sách: hợp tác (Chương 3, 9), cam kết và độ tin cậy (Chương 6, 7), thông tin (Chương 8), và tư duy từ góc của đối phương xuyên suốt cả cuốn.
 
 ### 3. Lời nói đầu: điều không đổi là dạy nguyên tắc chung thay cho công thức
 
@@ -274,7 +279,9 @@ Với phản biện rằng không thể áp logic và khoa học vào một th�
 
 ### 4. Lời nói đầu: vì sao viết sách phổ thông, và lý thuyết trò chơi đã phổ biến đến đâu
 
-Lý thuyết trò chơi là một khoa học còn trẻ (sách nói "mới hơn bảy mươi năm tuổi") nhưng đã cho nhiều hiểu biết hữu ích cho người làm chiến lược thực tế. Giống mọi khoa học, nó bị bọc trong biệt ngữ và toán học. Biệt ngữ và toán học là công cụ nghiên cứu thiết yếu, nhưng chúng khiến chỉ giới chuyên môn hiểu được ý tưởng cơ bản. Động cơ chính để viết *Thinking Strategically* là niềm tin rằng lý thuyết trò chơi quá thú vị và quan trọng để chỉ nằm trong các tạp chí học thuật, vì hiểu biết của nó có ích trong kinh doanh, chính trị, thể thao và giao tiếp xã hội hằng ngày. Vì vậy hai tác giả "dịch" các ý tưởng quan trọng trở lại tiếng Anh thông thường và thay lập luận lý thuyết bằng ví dụ minh hoạ và tình huống nghiên cứu.
+Lý thuyết trò chơi là một khoa học còn trẻ (sách nói "mới hơn bảy mươi năm tuổi") nhưng đã cho nhiều hiểu biết hữu ích cho người làm chiến lược thực tế. Giống mọi khoa học, nó bị bọc trong biệt ngữ và toán học. Biệt ngữ và toán học là công cụ nghiên cứu thiết yếu, nhưng chúng khiến chỉ giới chuyên môn hiểu được ý tưởng cơ bản.
+
+Động cơ chính để viết *Thinking Strategically* là niềm tin rằng lý thuyết trò chơi quá thú vị và quan trọng để chỉ nằm trong các tạp chí học thuật, vì hiểu biết của nó có ích trong kinh doanh, chính trị, thể thao và giao tiếp xã hội hằng ngày. Vì vậy hai tác giả "dịch" các ý tưởng quan trọng trở lại tiếng Anh thông thường và thay lập luận lý thuyết bằng ví dụ minh hoạ và tình huống nghiên cứu.
 
 Đến năm 2007, quan điểm này đã thành dòng chính:
 
@@ -300,7 +307,9 @@ Sách không giới hạn ý tưởng vào một bối cảnh nào, mà đưa nh
 
 ### 6. Lời nói đầu: lời cảm ơn và nguồn gốc của "Trip to the Gym"
 
-Ý tưởng viết sách ở mức phổ thông hơn giáo trình đến từ Hal Varian (khi đó ở Google và Đại học California, Berkeley), người cũng góp nhiều ý kiến cho các bản thảo. Drake McFeely ở W. W. Norton là biên tập viên xuất sắc nhưng khắt khe của *Thinking Strategically*, đã cố gắng phi thường để biến văn phong học thuật thành văn sống động. Jack Repcheck là biên tập viên luôn ủng hộ và tinh tế của *The Art of Strategy*; hai biên tập viên bản thảo Janet Byrne và Catherine Pichotta được cảm ơn bằng câu đùa: mỗi lần bạn không tìm thấy lỗi, hãy cảm ơn họ. Các đồng tác giả ở những dự án sách khác (Ian Ayres, Adam Brandenburger, Robert Pindyck, David Reiley, Susan Skeath) đã góp nhiều ý kiến; những người khác có ảnh hưởng còn lại trong sách mới gồm David Austen-Smith, Alan Blinder, Peter Grant, Seth Masters, Benjamin Polak, Carl Shapiro, Terry Vaughn và Robert Willig.
+Ý tưởng viết sách ở mức phổ thông hơn giáo trình đến từ Hal Varian (khi đó ở Google và Đại học California, Berkeley), người cũng góp nhiều ý kiến cho các bản thảo. Drake McFeely ở W. W. Norton là biên tập viên xuất sắc nhưng khắt khe của *Thinking Strategically*, đã cố gắng phi thường để biến văn phong học thuật thành văn sống động.
+
+Jack Repcheck là biên tập viên luôn ủng hộ và tinh tế của *The Art of Strategy*; hai biên tập viên bản thảo Janet Byrne và Catherine Pichotta được cảm ơn bằng câu đùa: mỗi lần bạn không tìm thấy lỗi, hãy cảm ơn họ. Các đồng tác giả ở những dự án sách khác (Ian Ayres, Adam Brandenburger, Robert Pindyck, David Reiley, Susan Skeath) đã góp nhiều ý kiến; những người khác có ảnh hưởng còn lại trong sách mới gồm David Austen-Smith, Alan Blinder, Peter Grant, Seth Masters, Benjamin Polak, Carl Shapiro, Terry Vaughn và Robert Willig.
 
 Hai tác giả cảm ơn riêng Andrew St. George, nhà phê bình sách của *Financial Times*. Khi chọn *Thinking Strategically* là cuốn ông đọc thích nhất năm 1991, ông viết rằng nó là "một buổi tập gym cho khả năng suy luận" (*FT Weekend*, 7–8/12/1991). Câu này cho hai tác giả ý tưởng đặt tên các thử thách dành cho người đọc trong ấn bản này là "Trips to the Gym" (đáp án nằm ở phần Workouts cuối sách). Cuối cùng, John Morgan (Đại học California, Berkeley) đã cho họ một động cơ khuyến khích mạnh bằng lời đe doạ: "Nếu các anh không viết bản sửa đổi, tôi sẽ viết một cuốn sách cạnh tranh." Sau khi được hai tác giả "giúp" khỏi phải làm việc đó, ông góp nhiều ý tưởng và gợi ý.
 
@@ -331,7 +340,9 @@ Lý thuyết trò chơi còn xa mới hoàn chỉnh, và phần lớn tư duy ch
 | Các chương tiếp theo | Khái niệm và chiến lược cho tình huống cụ thể: trộn nước đi khi mọi hành động có quy luật đều bị đối phương khai thác; thay đổi trò chơi có lợi cho mình; thao túng thông tin trong tương tác chiến lược |
 | Các chương cuối | Các nhóm tình huống lớn: mặc cả, đấu giá, bầu cử, thiết kế động cơ khuyến khích; chương cuối cùng là tuyển tập tình huống nghiên cứu |
 
-Khoa học và nghệ thuật khác nhau về bản chất: khoa học học được một cách có hệ thống và logic, còn tay nghề nghệ thuật phải có được qua ví dụ, kinh nghiệm và luyện tập. Phần khoa học của sách tạo ra các nguyên tắc và quy tắc chung, ví dụ ý tưởng và phương pháp suy luận ngược ở Chương 2 và khái niệm cân bằng Nash ở Chương 4. Còn nghệ thuật chiến lược, trong mọi tình huống đa dạng mà người đọc có thể cần đến, đòi hỏi làm thêm việc: mỗi tình huống có nét riêng cần được tính đến và kết hợp với nguyên tắc chung. Cách duy nhất để giỏi nghệ thuật này là con đường quy nạp, tức xem người khác đã làm thế nào trong tình huống tương tự. Vì thế hai tác giả nâng "chỉ số IQ chiến lược" của người đọc bằng rất nhiều ví dụ, một tình huống nghiên cứu trong mỗi chương, và một tuyển tập tình huống ở chương cuối.
+Khoa học và nghệ thuật khác nhau về bản chất: khoa học học được một cách có hệ thống và logic, còn tay nghề nghệ thuật phải có được qua ví dụ, kinh nghiệm và luyện tập. Phần khoa học của sách tạo ra các nguyên tắc và quy tắc chung, ví dụ ý tưởng và phương pháp suy luận ngược ở Chương 2 và khái niệm cân bằng Nash ở Chương 4.
+
+Còn nghệ thuật chiến lược, trong mọi tình huống đa dạng mà người đọc có thể cần đến, đòi hỏi làm thêm việc: mỗi tình huống có nét riêng cần được tính đến và kết hợp với nguyên tắc chung. Cách duy nhất để giỏi nghệ thuật này là con đường quy nạp, tức xem người khác đã làm thế nào trong tình huống tương tự. Vì thế hai tác giả nâng "chỉ số IQ chiến lược" của người đọc bằng rất nhiều ví dụ, một tình huống nghiên cứu trong mỗi chương, và một tuyển tập tình huống ở chương cuối.
 
 ### 11. Lời giới thiệu: ví dụ, tình huống nghiên cứu và lời cảnh báo
 
@@ -341,7 +352,9 @@ Các tình huống nghiên cứu giống những gì người học gặp ở l�
 
 Đọc xong sách, hai tác giả hy vọng người đọc sẽ thành nhà quản lý, nhà đàm phán, vận động viên, chính khách hay cha mẹ hiệu quả hơn. Họ cảnh báo rằng một số chiến lược tốt để đạt các mục tiêu này có thể không làm đối thủ quý mình, và đùa: nếu muốn công bằng, hãy kể cho đối thủ về cuốn sách này.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số là giả định). Một quán cà phê bán 200 ly mỗi ngày, giá 30.000 đồng, lãi 10.000 đồng mỗi ly, tức 2 triệu đồng mỗi ngày. Chủ quán nghĩ như người tiều phu: giảm giá còn 25.000 đồng (lãi 5.000 đồng mỗi ly) thì khách của quán đối diện sẽ sang, số ly tăng lên 450, lãi thành 2,25 triệu đồng. Nhưng quán đối diện không phải khúc gỗ. Nếu họ cũng giảm giá theo, khách quay về chia đôi như cũ, mỗi quán chỉ bán khoảng 220 ly (giá thấp kéo thêm ít khách mới) với lãi 5.000 đồng, tức 1,1 triệu đồng mỗi ngày, gần một nửa mức ban đầu. Tư duy như vị tướng nghĩa là hỏi trước "đối thủ sẽ phản ứng thế nào", và theo góc nhìn mới của hai tác giả, hỏi thêm "có cách nào cả hai cùng có lợi không", chẳng hạn mỗi quán chọn một nhóm khách khác nhau thay vì cùng phá giá. Các chương sau (thế lưỡng nan của người tù, cân bằng Nash) sẽ phân tích kiểu tình huống này một cách có hệ thống.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số là giả định). Một quán cà phê bán 200 ly mỗi ngày, giá 30.000 đồng, lãi 10.000 đồng mỗi ly, tức 2 triệu đồng mỗi ngày. Chủ quán nghĩ như người tiều phu: giảm giá còn 25.000 đồng (lãi 5.000 đồng mỗi ly) thì khách của quán đối diện sẽ sang, số ly tăng lên 450, lãi thành 2,25 triệu đồng. Nhưng quán đối diện không phải khúc gỗ.
+
+Nếu họ cũng giảm giá theo, khách quay về chia đôi như cũ, mỗi quán chỉ bán khoảng 220 ly (giá thấp kéo thêm ít khách mới) với lãi 5.000 đồng, tức 1,1 triệu đồng mỗi ngày, gần một nửa mức ban đầu. Tư duy như vị tướng nghĩa là hỏi trước "đối thủ sẽ phản ứng thế nào", và theo góc nhìn mới của hai tác giả, hỏi thêm "có cách nào cả hai cùng có lợi không", chẳng hạn mỗi quán chọn một nhóm khách khác nhau thay vì cùng phá giá. Các chương sau (thế lưỡng nan của người tù, cân bằng Nash) sẽ phân tích kiểu tình huống này một cách có hệ thống.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -450,3 +463,126 @@ Con số 6 triệu trang Google và danh sách Nobel đến 2007 nay đã lạc 
 - **Trong đầu tư.** Giá thị trường là kết quả của rất nhiều người chơi cùng tính toán. Một cơ hội "hiển nhiên" cần được hỏi lại: vì sao những người chơi khác chưa tận dụng nó, và họ sẽ làm gì khi mình hành động.
 - **Trong nghề nghiệp.** Kỹ năng chuyên môn (như hiểu luật, giỏi kỹ thuật) là kỹ năng cơ bản; tư duy chiến lược là biết dùng chúng thế nào trước sếp, đồng nghiệp, khách hàng có mục tiêu riêng. Trong đàm phán lương hay thăng tiến, hãy đặt mình vào vị trí bên kia trước khi đưa ra đề nghị, và nhớ rằng đôi khi chiến lược tốt nhất là không tham gia một cuộc chơi.
 - **Khi đọc tin chính sách.** Ở Việt Nam cũng như nơi khác, một chính sách thường được trình bày như thể người dân và doanh nghiệp sẽ đứng yên. Hãy đọc tin với câu hỏi của hai tác giả: những người chịu tác động của chính sách sẽ phản ứng thế nào, có ai tìm cách lách hay điều chỉnh hành vi không, và kết quả cuối cùng có còn giống dự định ban đầu không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời nói đầu và Lời giới thiệu trên một trang: bốn nhánh lớn đi theo trình tự các mục 1–11 của phần Nội dung chi tiết (Lời nói đầu mục 1–3 về sách mới và góc nhìn hợp tác, Lời nói đầu mục 4–6 về lý do viết và những người được ghi công, Lời giới thiệu mục 7–9 về hành vi chiến lược, Lời giới thiệu mục 10–11 về khoa học, nghệ thuật và cách đọc sách), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời nói đầu và Lời giới thiệu: ai cũng là nhà chiến lược, chiến lược tốt pha trộn cạnh tranh với hợp tác`"]
+  n1["`Mục 1–3 Lời nói đầu — Bản sửa đổi Thinking Strategically (1991) thành sách mới`"]
+  n0 --- n1
+  n2["`Pierre Menard của Borges chép lại Don Quixote đúng từng chữ mà ý nghĩa khác hẳn`"]
+  n1 --- n2
+  n3["`Hai tác giả thì ngược lại: chữ mới gần hết, ý định giữ nguyên, nên đặt tên sách mới`"]
+  n1 --- n3
+  n4["`Góc nhìn mới: thấy rõ vai trò của hợp tác, chiến lược tốt pha trộn cạnh tranh và hợp tác`"]
+  n1 --- n4
+  n5["`Chú thích của tác giả: hướng này dẫn tới cuốn Co-opetition (Brandenburger và Nalebuff, 1996)`"]
+  n4 --- n5
+  n6["`Định nghĩa 1991: tư duy chiến lược là vượt mặt đối thủ khi đối thủ cũng tìm cách vượt mặt mình`"]
+  n1 --- n6
+  n7["`Năm 2008 thêm bốn vế: hợp tác vì tư lợi, thuyết phục người khác và chính mình, xử lý thông tin, đặt mình vào vị trí người khác`"]
+  n1 --- n7
+  n8["`Không phải sách sân bay hứa bảy bước chắc thắng, mà dạy nguyên tắc chung để tự điều chỉnh`"]
+  n1 --- n8
+  n9["`Cha mẹ là nhà chiến lược nghiệp dư, còn con cái là dân chuyên`"]
+  n1 --- n9
+  n10["`Phản biện con người phi lý trí: cái điên có quy luật, lý thuyết trò chơi hành vi mô tả con người như họ vốn là`"]
+  n1 --- n10
+  n11["`Mục 4–6 Lời nói đầu — Vì sao viết sách phổ thông và ai được ghi công`"]
+  n0 --- n11
+  n12["`Lý thuyết trò chơi bị bọc trong biệt ngữ và toán học, nên sách thay toán bằng ví dụ và tình huống`"]
+  n11 --- n12
+  n13["`Năm 2007 đã thành dòng chính: môn tự chọn đông nhất ở Princeton, Yale, có trong MBA, Google ra hơn 6 triệu trang`"]
+  n11 --- n13
+  n14["`Thinking Strategically bán 250.000 bản, bản tiếng Nhật và tiếng Do Thái là sách bán chạy`"]
+  n11 --- n14
+  n15["`Nobel Kinh tế 1994 (Harsanyi, Nash, Selten) và 2005 (Aumann, Schelling)`"]
+  n11 --- n15
+  n16["`Chú thích của tác giả: thêm ba giải cho thiết kế cơ chế và kinh tế học thông tin 1996, 2001, 2007`"]
+  n15 --- n16
+  n17["`Mang ơn Schelling (The Strategy of Conflict, Arms and Influence) và Porter (Competitive Strategy)`"]
+  n11 --- n17
+  n18["`Andrew St. George khen sách 1991 là buổi tập gym cho khả năng suy luận → tên bài tập Trip to the Gym`"]
+  n11 --- n18
+  n19["`John Morgan dọa viết sách cạnh tranh nếu không có bản sửa đổi → một động cơ khuyến khích mạnh`"]
+  n11 --- n19
+  n20["`Mục 7–9 Lời giới thiệu — Hành vi chiến lược là gì`"]
+  n0 --- n20
+  n21["`Câu hỏi con người nên hành xử thế nào không bàn đạo đức mà bàn hành vi chiến lược`"]
+  n20 --- n21
+  n22["`Chọn nghề, cưới ai, nuôi con, tranh cử: ta không hành động trong chân không`"]
+  n20 --- n22
+  n23["`Người tiều phu chặt gỗ không lo khúc gỗ đánh trả, môi trường trung tính`"]
+  n20 --- n23
+  n24["`Vị tướng phải đoán trước và vượt qua sự kháng cự của quân địch`"]
+  n20 --- n24
+  n25["`Đối thủ, người bạn đời và con cái đều là người chơi, mục tiêu vừa xung đột vừa có thể trùng`"]
+  n20 --- n25
+  n26["`Lý thuyết trò chơi là khoa học xã hội về ra quyết định chiến lược, từ cờ vua đến kiểm soát vũ khí`"]
+  n20 --- n26
+  n27["`George Mikes: người lục địa coi đời là trò chơi, người Anh coi cricket là trò chơi, cả hai đều đúng`"]
+  n20 --- n27
+  n28["`Kỹ năng cơ bản (ném rổ, thuộc án lệ, mặt lạnh khi chơi poker) khác tư duy chiến lược`"]
+  n20 --- n28
+  n29["`Huấn luyện viên chọn chuyền hay chạy dựa trên sức mạnh đội mình và phòng thủ đội bạn`"]
+  n20 --- n29
+  n30["`Với chiến lược bên bờ vực hạt nhân, đôi khi tư duy chiến lược là biết khi nào không chơi`"]
+  n20 --- n30
+  n31["`Mục 10–11 Lời giới thiệu — Khoa học, nghệ thuật và lộ trình của sách`"]
+  n0 --- n31
+  n32["`Khoa học cho nguyên tắc chung: suy luận ngược (Chương 2), cân bằng Nash (Chương 4)`"]
+  n31 --- n32
+  n33["`Nghệ thuật chỉ học được theo lối quy nạp, qua ví dụ, kinh nghiệm và luyện tập`"]
+  n31 --- n33
+  n34["`Lộ trình: Chương 1 kể chuyện, Chương 2–4 xây nền khoa học, rồi chiến lược hỗn hợp, nước đi chiến lược, thông tin`"]
+  n31 --- n34
+  n35["`Các chương cuối: mặc cả, đấu giá, bầu cử, thiết kế động cơ khuyến khích và tuyển tập tình huống`"]
+  n31 --- n35
+  n36["`Chiến tranh Lạnh đã qua nên có thể xét logic chạy đua vũ trang và khủng hoảng Cuba bớt cảm xúc`"]
+  n31 --- n36
+  n37["`Tự nghĩ kỹ tình huống trước khi đọc lời bàn thì hiểu hơn mọi lượng đọc thuần túy`"]
+  n31 --- n37
+  n38["`Cảnh báo: vài chiến lược tốt không làm đối thủ quý mình, muốn công bằng thì kể cho họ về cuốn sách`"]
+  n31 --- n38
+  n39["`Thông điệp xuyên suốt`"]
+  n0 --- n39
+  n40["`Trước mỗi quyết định hãy hỏi bên kia là khúc gỗ hay quân địch, và họ sẽ phản ứng thế nào`"]
+  n39 --- n40
+  n41["`Chiến lược không chỉ là đánh bại đối phương mà còn là tìm cách cùng làm to chiếc bánh`"]
+  n39 --- n41
+  n42["`Không có công thức chung: học nguyên tắc khoa học rồi luyện nghệ thuật vận dụng qua tình huống`"]
+  n39 --- n42
+  class n0 root
+  class n1,n11,n20,n31,n39 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Lời nói đầu (Preface, hai tác giả ký tháng 10/2007) và Lời giới thiệu (Introduction: How Should People Behave in Society?). Sách đề tặng: "Tặng tất cả sinh viên của chúng tôi, những người đã dạy chúng tôi rất nhiều (đặc biệt là Seth — BJN)"; dòng trong ngoặc là lời riêng của Barry J. Nalebuff.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Hai ông từng viết chung *Thinking Strategically* (1991), cuốn sách mà *The Art of Strategy* thay thế.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Hai phần mở đầu này chưa dạy một công cụ lý thuyết trò chơi nào. Lời nói đầu giải thích vì sao một bản sửa đổi của *Thinking Strategically* lại thành một cuốn sách mới, và nói rõ góc nhìn mới: chiến lược tốt phải pha trộn cạnh tranh với hợp tác.
+
+Lời giới thiệu xác định đối tượng của sách là hành vi chiến lược (strategic behavior), tức là cách ra quyết định khi người khác cũng đang tính toán và phản ứng lại mình, rồi trình bày lộ trình của sách (số chương từ 5 trở đi do người tổng hợp đối chiếu mục lục, Lời giới thiệu chỉ nêu số Chương 1 và 2–4): Chương 1 kể các câu chuyện thực tế về chiến lược; Chương 2–4 xây nền khoa học (suy luận ngược ở Chương 2, cân bằng Nash ở Chương 4); Chương 5–8 bàn các khái niệm chuyên biệt (chiến lược hỗn hợp, nước đi chiến lược, xử lý thông tin); Chương 9–14 áp dụng vào hợp tác, đấu giá, mặc cả, bầu cử, thiết kế động cơ khuyến khích và các tình huống nghiên cứu.
+
+## Lưu ý
+
+- Lời nói đầu ký tháng 10/2007, nên các con số phản ánh thời điểm đó: *Thinking Strategically* đã bán 250.000 bản; tìm "game theory" trên Google ra hơn 6 triệu trang; đã có hai giải Nobel Kinh tế cho lý thuyết trò chơi (1994 và 2005) và ba giải cho các lĩnh vực gần (1996, 2001, 2007).
+- Từ đó đến nay đã có thêm các giải Nobel Kinh tế gắn chặt với lý thuyết trò chơi, như giải 2012 (Alvin Roth và Lloyd Shapley, thiết kế thị trường và ghép cặp) và giải 2020 (Paul Milgrom và Robert Wilson, lý thuyết đấu giá); John Nash mất năm 2015 và Thomas Schelling mất năm 2016.
+- Câu "lý thuyết trò chơi mới hơn bảy mươi năm tuổi" không nói mốc tính; nếu tính từ bài báo năm 1928 của John von Neumann thì đến 2007 là gần tám mươi năm, còn tính từ cuốn *Theory of Games and Economic Behavior* (von Neumann và Morgenstern, 1944) thì chỉ hơn sáu mươi năm, nên con số của sách chỉ nên hiểu là ước chừng.
+- Lời nói đầu có 2 chú thích chân trang của tác giả, đã đưa vào mục 2 và mục 4 phần Nội dung chi tiết; Lời giới thiệu không có chú thích nào.
+- Hai phần này không có hình hay bảng.
+- Các câu trích là bản dịch của người tổng hợp.

@@ -1,11 +1,12 @@
 # Chương 2 — Những trò chơi giải được bằng suy luận ngược (Games Solvable by Backward Reasoning)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 2.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Cuốn sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 kể mười câu chuyện chiến lược để người đọc làm quen với các ý tưởng, chưa đưa ra công cụ nào. Chương 2 là chương "công cụ" đầu tiên của Phần I: nó chia các tương tác chiến lược thành hai loại, tuần tự (người chơi đi lần lượt) và đồng thời (người chơi đi cùng lúc), rồi trao công cụ cho loại thứ nhất: cây trò chơi và suy luận ngược. Chương 3 (thế lưỡng nan của người tù) và Chương 4 (cân bằng Nash) sẽ xử lý loại thứ hai. Những ý chương này mới nêu sơ bộ, như việc tự trói tay mình có thể có lợi và vấn đề làm cho lời hứa đáng tin, sẽ được phát triển đầy đủ ở Chương 6 (nước đi chiến lược) và Chương 7 (làm cho chiến lược đáng tin); trò chơi tối hậu thư sẽ quay lại ở Chương 11 về mặc cả.
-**Ý chính:** Hai tác giả muốn người đọc nắm **Quy tắc 1 của chiến lược: nhìn về phía trước và suy luận ngược lại** (look forward and reason backward). Trong một trò chơi mà người chơi đi lần lượt, người đi trước phải dự đoán người đi sau sẽ phản ứng thế nào ở mọi tình huống có thể xảy ra, rồi dùng dự đoán đó để chọn nước đi hiện tại. Ví dụ trung tâm là trò chơi 21 lá cờ trong chương trình truyền hình *Survivor: Thailand*: hai đội lần lượt nhổ 1, 2 hoặc 3 lá cờ, đội nhổ lá cuối cùng thắng; đội nào luôn để lại cho đối thủ một số cờ chia hết cho 4 (20, 16, 12, 8, 4) thì chắc thắng, nhưng cả hai đội đều chơi sai gần hết các nước. Từ đó chương đi tiếp ba hướng: thí nghiệm trò chơi tối hậu thư cho thấy con người không chỉ quan tâm tới tiền của mình; cờ vua cho thấy với cây quá phức tạp, cần kết hợp suy luận ngược với kinh nghiệm đánh giá thế cờ; và trận Orange Bowl 1984 cho thấy suy luận ngược giúp sắp xếp đúng thứ tự các nước đi mạo hiểm.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008, nên các mốc về cờ vua máy tính dừng ở trận Kasparov gặp X3D Fritz (2003) và Hydra thắng Michael Adams (2005). Từ đó máy tính đã vượt hẳn các kỳ thủ hàng đầu, đúng như hai tác giả dự đoán; còn việc giải trọn vẹn cờ vua bằng cây trò chơi vẫn chưa ai làm được. Về quyền phủ quyết từng khoản (line-item veto) mà Reagan đòi năm 1987: Quốc hội Mỹ đã trao quyền này cho tổng thống năm 1996, nhưng Toà án Tối cao tuyên bố luật đó vi hiến năm 1998; sách không nhắc diễn biến này vì ví dụ chỉ dùng tình huống năm 1987. Chương có 5 chú thích chân trang của tác giả (dấu `*`), đã đưa vào Nội dung chi tiết ở mục 6 (hai chú thích, về trò 21 lá cờ), mục 8 (trò chơi tối hậu thư), mục 11 (cờ vua) và mục 13 (trận Orange Bowl), có ghi "Chú thích của tác giả". Chương có 9 hình và bảng (một trang truyện tranh *Peanuts*, sáu cây quyết định và cây trò chơi, bảng xếp hạng ngân sách, bảng các nước đi trong trò chơi 21 lá cờ), tất cả đã được dựng lại. Một chỗ không khớp trong sách: phần lời nói rằng trong trò chơi 21 lá cờ "gần như mọi lựa chọn đều sai, trừ nước của Chuay Gahn khi còn 13 lá", nhưng chính bảng của sách cho thấy Chuay Gahn cũng đi đúng khi còn 6 lá (nhổ 2) và khi còn 1 lá (nhổ 1); phần lời ở đoạn trước cũng khen nước đi khi còn 6 lá là đúng. Các câu trích là bản dịch của người tổng hợp.
+Hai tác giả muốn người đọc nắm **Quy tắc 1 của chiến lược: nhìn về phía trước và suy luận ngược lại** (look forward and reason backward). Trong một trò chơi mà người chơi đi lần lượt, người đi trước phải dự đoán người đi sau sẽ phản ứng thế nào ở mọi tình huống có thể xảy ra, rồi dùng dự đoán đó để chọn nước đi hiện tại.
+
+Ví dụ trung tâm là trò chơi 21 lá cờ trong chương trình truyền hình *Survivor: Thailand*: hai đội lần lượt nhổ 1, 2 hoặc 3 lá cờ, đội nhổ lá cuối cùng thắng; đội nào luôn để lại cho đối thủ một số cờ chia hết cho 4 (20, 16, 12, 8, 4) thì chắc thắng, nhưng cả hai đội đều chơi sai gần hết các nước.
+
+Từ đó chương đi tiếp ba hướng: thí nghiệm trò chơi tối hậu thư cho thấy con người không chỉ quan tâm tới tiền của mình; cờ vua cho thấy với cây quá phức tạp, cần kết hợp suy luận ngược với kinh nghiệm đánh giá thế cờ; và trận Orange Bowl 1984 cho thấy suy luận ngược giúp sắp xếp đúng thứ tự các nước đi mạo hiểm.
 
 ## Sơ đồ
 
@@ -808,13 +809,19 @@ Phiên bản kinh doanh: Charlie, nay đã trưởng thành, đi nghỉ ở Free
                                                 Fredo:   0
 ```
 
-Nếu Fredo giữ hợp đồng, anh ta trả Charlie 250.000 USD; trừ 100.000 USD vốn ban đầu, Charlie lãi 150.000 USD. Không có lý do rõ ràng và mạnh để tin lời hứa, Charlie nên dự đoán Fredo bỏ trốn, giống như Charlie hồi nhỏ lẽ ra phải chắc chắn Lucy giật bóng. Hai cây giống nhau ở mọi điểm cốt yếu, vậy mà hai tác giả hỏi: đã có bao nhiêu "Charlie" suy luận sai trong những trò chơi như thế? Lời hứa của Fredo có thể đáng tin nếu anh ta còn nhiều việc làm ăn khác cần vốn từ Mỹ hoặc xuất hàng sang Mỹ: khi đó Charlie có thể trả đũa bằng cách huỷ danh tiếng của Fredo ở Mỹ hoặc tịch thu hàng của anh ta. Trò chơi này lúc đó là một phần của một trò chơi lớn hơn, có thể là một quan hệ lâu dài, đủ để giữ Fredo trung thực. Nhưng trong phiên bản chơi một lần như cây trên, logic suy luận ngược là rõ ràng.
+Nếu Fredo giữ hợp đồng, anh ta trả Charlie 250.000 USD; trừ 100.000 USD vốn ban đầu, Charlie lãi 150.000 USD. Không có lý do rõ ràng và mạnh để tin lời hứa, Charlie nên dự đoán Fredo bỏ trốn, giống như Charlie hồi nhỏ lẽ ra phải chắc chắn Lucy giật bóng. Hai cây giống nhau ở mọi điểm cốt yếu, vậy mà hai tác giả hỏi: đã có bao nhiêu "Charlie" suy luận sai trong những trò chơi như thế?
 
-Hai tác giả rút ra ba nhận xét. **Thứ nhất**, các trò chơi khác nhau có thể có dạng toán học giống hệt hoặc rất giống nhau (cùng cây, hoặc cùng bảng như ở các chương sau). Suy nghĩ bằng các hình thức đó làm lộ ra điểm tương đồng và giúp chuyển hiểu biết từ tình huống này sang tình huống khác. Đây là chức năng quan trọng của "lý thuyết" trong mọi lĩnh vực: chắt lọc điểm chung cốt yếu của những bối cảnh trông khác nhau để suy nghĩ về chúng một cách thống nhất và đơn giản hơn. Nhiều người có ác cảm bản năng với lý thuyết; hai tác giả cho rằng đó là phản ứng sai. Lý thuyết có giới hạn, và bối cảnh cụ thể cùng kinh nghiệm thường bổ sung hoặc điều chỉnh đáng kể các khuyến nghị của nó, nhưng bỏ hẳn lý thuyết là bỏ một điểm xuất phát quý giá, có thể là bàn đạp để giải quyết vấn đề. Hai tác giả khuyên hãy coi lý thuyết trò chơi là bạn, không phải ông kẹ.
+Lời hứa của Fredo có thể đáng tin nếu anh ta còn nhiều việc làm ăn khác cần vốn từ Mỹ hoặc xuất hàng sang Mỹ: khi đó Charlie có thể trả đũa bằng cách huỷ danh tiếng của Fredo ở Mỹ hoặc tịch thu hàng của anh ta. Trò chơi này lúc đó là một phần của một trò chơi lớn hơn, có thể là một quan hệ lâu dài, đủ để giữ Fredo trung thực. Nhưng trong phiên bản chơi một lần như cây trên, logic suy luận ngược là rõ ràng.
+
+Hai tác giả rút ra ba nhận xét. **Thứ nhất**, các trò chơi khác nhau có thể có dạng toán học giống hệt hoặc rất giống nhau (cùng cây, hoặc cùng bảng như ở các chương sau). Suy nghĩ bằng các hình thức đó làm lộ ra điểm tương đồng và giúp chuyển hiểu biết từ tình huống này sang tình huống khác. Đây là chức năng quan trọng của "lý thuyết" trong mọi lĩnh vực: chắt lọc điểm chung cốt yếu của những bối cảnh trông khác nhau để suy nghĩ về chúng một cách thống nhất và đơn giản hơn.
+
+Nhiều người có ác cảm bản năng với lý thuyết; hai tác giả cho rằng đó là phản ứng sai. Lý thuyết có giới hạn, và bối cảnh cụ thể cùng kinh nghiệm thường bổ sung hoặc điều chỉnh đáng kể các khuyến nghị của nó, nhưng bỏ hẳn lý thuyết là bỏ một điểm xuất phát quý giá, có thể là bàn đạp để giải quyết vấn đề. Hai tác giả khuyên hãy coi lý thuyết trò chơi là bạn, không phải ông kẹ.
 
 **Thứ hai**, Fredo phải hiểu rằng một Charlie biết suy nghĩ chiến lược sẽ nghi ngờ lời mời và không đầu tư, làm Fredo mất cơ hội kiếm 250.000 USD. Vì thế Fredo có động cơ mạnh để làm lời hứa của mình đáng tin. Là một doanh nhân đơn lẻ, Fredo không thể cải thiện hệ thống pháp luật yếu kém của Freedonia; anh ta phải tìm cách khác. Vấn đề độ tin cậy và các công cụ tạo ra nó được bàn ở Chương 6 và 7.
 
-**Thứ ba**, và có lẽ quan trọng nhất: khi so sánh các kết cục, không phải lúc nào một bên được nhiều hơn cũng có nghĩa bên kia được ít hơn. Kết cục "Charlie đầu tư, Fredo giữ hợp đồng" tốt cho cả hai hơn kết cục "Charlie không đầu tư". Khác với thể thao hay thi đấu, trò chơi không nhất thiết có người thắng kẻ thua; theo thuật ngữ lý thuyết trò chơi, chúng không nhất thiết là **trò chơi tổng bằng không**. Trò chơi có thể có kết cục cùng thắng hoặc cùng thua. Trong phần lớn trò chơi kinh doanh, chính trị và xã hội, lợi ích chung (cả Charlie và Fredo đều được nếu Fredo có cách cam kết đáng tin) và xung đột (Fredo có thể kiếm lợi trên lưng Charlie bằng cách bỏ trốn sau khi Charlie đã đầu tư) cùng tồn tại, và chính điều đó làm việc phân tích chúng thú vị và khó.
+**Thứ ba**, và có lẽ quan trọng nhất: khi so sánh các kết cục, không phải lúc nào một bên được nhiều hơn cũng có nghĩa bên kia được ít hơn. Kết cục "Charlie đầu tư, Fredo giữ hợp đồng" tốt cho cả hai hơn kết cục "Charlie không đầu tư". Khác với thể thao hay thi đấu, trò chơi không nhất thiết có người thắng kẻ thua; theo thuật ngữ lý thuyết trò chơi, chúng không nhất thiết là **trò chơi tổng bằng không**.
+
+Trò chơi có thể có kết cục cùng thắng hoặc cùng thua. Trong phần lớn trò chơi kinh doanh, chính trị và xã hội, lợi ích chung (cả Charlie và Fredo đều được nếu Fredo có cách cam kết đáng tin) và xung đột (Fredo có thể kiếm lợi trên lưng Charlie bằng cách bỏ trốn sau khi Charlie đã đầu tư) cùng tồn tại, và chính điều đó làm việc phân tích chúng thú vị và khó.
 
 ### 5. Những cây phức tạp hơn: quyền phủ quyết từng khoản (More Complex Trees)
 
@@ -829,7 +836,9 @@ Thoạt nhìn, được tự do phủ quyết một phần dự luật chỉ có
 | Chỉ M | 1 | 4 |
 | Không khoản nào | 2 | 2 |
 
-**Khi tổng thống không có quyền phủ quyết từng khoản**, ông chỉ có thể ký hoặc phủ quyết cả dự luật. Ông sẽ ký dự luật có cả U và M (điểm 3 hơn 2) hoặc chỉ có M (4 hơn 2), nhưng phủ quyết dự luật chỉ có U (2 hơn 1). Biết vậy, Quốc hội so sánh: gói U+M cho mình 3, chỉ U bị phủ quyết cho 2, chỉ M được ký cho 1, không gì cho 2; nên Quốc hội thông qua gói. Hai tác giả nhấn mạnh rằng phải ghi lựa chọn của tổng thống ở mọi điểm rẽ, kể cả những điểm trên thực tế không xảy ra vì Quốc hội đã chọn khác, vì lựa chọn thật của Quốc hội phụ thuộc vào việc tổng thống *sẽ* làm gì nếu Quốc hội chọn khác. Kết cục: mỗi bên được lựa chọn tốt thứ hai (điểm 3). Hình dựng lại từ sách (điểm ghi theo thứ tự Quốc hội, Tổng thống):
+**Khi tổng thống không có quyền phủ quyết từng khoản**, ông chỉ có thể ký hoặc phủ quyết cả dự luật. Ông sẽ ký dự luật có cả U và M (điểm 3 hơn 2) hoặc chỉ có M (4 hơn 2), nhưng phủ quyết dự luật chỉ có U (2 hơn 1). Biết vậy, Quốc hội so sánh: gói U+M cho mình 3, chỉ U bị phủ quyết cho 2, chỉ M được ký cho 1, không gì cho 2; nên Quốc hội thông qua gói.
+
+Hai tác giả nhấn mạnh rằng phải ghi lựa chọn của tổng thống ở mọi điểm rẽ, kể cả những điểm trên thực tế không xảy ra vì Quốc hội đã chọn khác, vì lựa chọn thật của Quốc hội phụ thuộc vào việc tổng thống *sẽ* làm gì nếu Quốc hội chọn khác. Kết cục: mỗi bên được lựa chọn tốt thứ hai (điểm 3). Hình dựng lại từ sách (điểm ghi theo thứ tự Quốc hội, Tổng thống):
 
 ```text
        Quốc hội thông qua    Tổng thống quyết định        Điểm
@@ -842,7 +851,9 @@ Thoạt nhìn, được tự do phủ quyết một phần dự luật chỉ có
        ╚─── Không khoản nào ─────────────────────────────  2, 2
 ```
 
-**Khi tổng thống có quyền phủ quyết từng khoản**, trước gói U+M ông có bốn lựa chọn: ký cả hai (3), phủ quyết riêng U (4), phủ quyết riêng M (1), phủ quyết cả hai (2). Ông sẽ phủ quyết riêng U, chỉ giữ M, cho Quốc hội điểm 1. Biết trước điều đó, Quốc hội không thông qua gói nữa; lựa chọn tốt nhất còn lại là thông qua chỉ U để bị phủ quyết, hoặc không thông qua gì (cả hai cho điểm 2). Có thể Quốc hội thích cách thứ nhất nếu kiếm được điểm chính trị khi tổng thống phủ quyết, nhưng tổng thống cũng có thể kiếm điểm vì thể hiện kỷ luật ngân sách; giả sử hai hiệu ứng triệt tiêu nhau, Quốc hội bàng quan giữa hai cách. Cách nào thì mỗi bên cũng chỉ được lựa chọn tốt thứ ba (điểm 2). Chính tổng thống cũng thiệt vì có thêm quyền. Hình dựng lại từ sách:
+**Khi tổng thống có quyền phủ quyết từng khoản**, trước gói U+M ông có bốn lựa chọn: ký cả hai (3), phủ quyết riêng U (4), phủ quyết riêng M (1), phủ quyết cả hai (2). Ông sẽ phủ quyết riêng U, chỉ giữ M, cho Quốc hội điểm 1. Biết trước điều đó, Quốc hội không thông qua gói nữa; lựa chọn tốt nhất còn lại là thông qua chỉ U để bị phủ quyết, hoặc không thông qua gì (cả hai cho điểm 2).
+
+Có thể Quốc hội thích cách thứ nhất nếu kiếm được điểm chính trị khi tổng thống phủ quyết, nhưng tổng thống cũng có thể kiếm điểm vì thể hiện kỷ luật ngân sách; giả sử hai hiệu ứng triệt tiêu nhau, Quốc hội bàng quan giữa hai cách. Cách nào thì mỗi bên cũng chỉ được lựa chọn tốt thứ ba (điểm 2). Chính tổng thống cũng thiệt vì có thêm quyền. Hình dựng lại từ sách:
 
 ```text
        Quốc hội thông qua    Tổng thống quyết định        Điểm
@@ -860,19 +871,25 @@ Thoạt nhìn, được tự do phủ quyết một phần dự luật chỉ có
 
 Ví dụ này minh hoạ một điểm khái niệm quan trọng. Trong quyết định của một người, thêm tự do hành động không bao giờ có hại. Trong trò chơi, nó có thể có hại vì sự tồn tại của nó ảnh hưởng tới hành động của người chơi khác. Ngược lại, tự trói tay mình có thể có lợi; hai tác giả gọi đây là "lợi thế của cam kết" và bàn ở Chương 6 và 7.
 
-Phương pháp suy luận ngược đã được dùng cho một trò chơi rất đơn giản (Charlie Brown) và một trò phức tạp hơn chút (quyền phủ quyết từng khoản). Nguyên tắc vẫn áp dụng được dù trò chơi phức tạp tới đâu, nhưng khi mỗi người có nhiều lựa chọn ở mỗi điểm và được đi nhiều lượt, cây nhanh chóng trở nên quá lớn để vẽ hay dùng. Trong cờ vua, từ gốc đã có 20 nhánh: quân trắng có thể đẩy một trong 8 con tốt lên 1 hoặc 2 ô, hoặc đi một trong 2 con mã theo một trong 2 cách. Với mỗi nước đó quân đen có 20 nước, nên đã có 400 đường đi khác nhau, và các nút về sau còn có nhiều nhánh hơn. Giải trọn cờ vua bằng cây vượt quá khả năng của máy tính mạnh nhất hiện có hoặc có thể có trong vài thập kỷ tới; phải tìm cách phân tích từng phần (bàn ở mục 11).
+Phương pháp suy luận ngược đã được dùng cho một trò chơi rất đơn giản (Charlie Brown) và một trò phức tạp hơn chút (quyền phủ quyết từng khoản). Nguyên tắc vẫn áp dụng được dù trò chơi phức tạp tới đâu, nhưng khi mỗi người có nhiều lựa chọn ở mỗi điểm và được đi nhiều lượt, cây nhanh chóng trở nên quá lớn để vẽ hay dùng.
+
+Trong cờ vua, từ gốc đã có 20 nhánh: quân trắng có thể đẩy một trong 8 con tốt lên 1 hoặc 2 ô, hoặc đi một trong 2 con mã theo một trong 2 cách. Với mỗi nước đó quân đen có 20 nước, nên đã có 400 đường đi khác nhau, và các nút về sau còn có nhiều nhánh hơn. Giải trọn cờ vua bằng cây vượt quá khả năng của máy tính mạnh nhất hiện có hoặc có thể có trong vài thập kỷ tới; phải tìm cách phân tích từng phần (bàn ở mục 11).
 
 Giữa hai thái cực là rất nhiều trò chơi phức tạp vừa phải trong kinh doanh, chính trị, đời sống. Có hai cách xử lý: dùng phần mềm máy tính dựng cây và tính lời giải, hoặc giải bằng logic của cây mà không cần vẽ cây ra. Hai tác giả minh hoạ cách thứ hai bằng một trò chơi trong chương trình truyền hình mà khẩu hiệu là "chơi giỏi hơn, khôn hơn và trụ lâu hơn" người khác.
 
 ### 6. Chiến lược cho những "người sống sót" (Strategies for "Survivors")
 
-Chương trình *Survivor* của đài CBS có nhiều trò chơi chiến lược thú vị. Trong tập 6 của *Survivor: Thailand*, hai đội (gọi là hai "bộ lạc") chơi một trò minh hoạ rất tốt việc nhìn trước và suy luận ngược, cả về lý thuyết lẫn thực tế. 21 lá cờ được cắm giữa sân; hai đội lần lượt nhổ cờ, mỗi lượt phải nhổ 1, 2 hoặc 3 lá (không được bỏ lượt, không được nhổ từ 4 lá trở lên). Đội nhổ lá cuối cùng, dù lá đó đứng một mình hay nằm trong nhóm 2–3 lá, thắng. Đội thua phải bỏ phiếu loại một thành viên của mình, làm đội yếu đi ở các thử thách sau. Trận thua này hoá ra quyết định: một thành viên của đội thắng về sau giành giải lớn 1 triệu USD. Hiểu đúng chiến lược của trò này vì thế đáng giá rất nhiều.
+Chương trình *Survivor* của đài CBS có nhiều trò chơi chiến lược thú vị. Trong tập 6 của *Survivor: Thailand*, hai đội (gọi là hai "bộ lạc") chơi một trò minh hoạ rất tốt việc nhìn trước và suy luận ngược, cả về lý thuyết lẫn thực tế. 21 lá cờ được cắm giữa sân; hai đội lần lượt nhổ cờ, mỗi lượt phải nhổ 1, 2 hoặc 3 lá (không được bỏ lượt, không được nhổ từ 4 lá trở lên).
+
+Đội nhổ lá cuối cùng, dù lá đó đứng một mình hay nằm trong nhóm 2–3 lá, thắng. Đội thua phải bỏ phiếu loại một thành viên của mình, làm đội yếu đi ở các thử thách sau. Trận thua này hoá ra quyết định: một thành viên của đội thắng về sau giành giải lớn 1 triệu USD. Hiểu đúng chiến lược của trò này vì thế đáng giá rất nhiều.
 
 Hai đội tên là Sook Jai và Chuay Gahn; Sook Jai đi trước và nhổ 2 lá, để lại 19. Hai tác giả đề nghị người đọc dừng lại, tự chọn và ghi lại con số của mình trước khi đọc tiếp.
 
 Hai sự cố giúp thấy rõ cách chơi đúng. Sự cố thứ nhất: trước trận, mỗi đội có vài phút bàn bạc. Trong đội Chuay Gahn, Ted Rogers, một kỹ sư phần mềm người Mỹ gốc Phi, nói: "Đến cuối, ta phải để lại cho họ 4 lá cờ." Điều này đúng: nếu Sook Jai gặp 4 lá, họ phải nhổ 1, 2 hoặc 3, và Chuay Gahn nhổ nốt 3, 2 hoặc 1 lá còn lại để thắng. Chuay Gahn thực sự có và tận dụng đúng cơ hội này: gặp 6 lá, họ nhổ 2.
 
-Sự cố thứ hai: ở lượt ngay trước đó, Sook Jai gặp 9 lá và nhổ 3. Vừa quay về, Shii Ann, một đấu thủ sắc sảo, ăn nói lưu loát và tự hào về khả năng phân tích, nhận ra: "Nếu Chuay Gahn nhổ 2 bây giờ thì chúng ta tiêu." Nước đi vừa rồi của Sook Jai đã sai. Lẽ ra Shii Ann hoặc đồng đội phải lập luận như Ted rồi đẩy thêm một bước: làm sao bảo đảm đối thủ gặp 4 lá ở lượt sau của họ? Bằng cách để họ gặp 8 lá ở lượt này. Khi họ nhổ 1, 2 hoặc 3 trong 8 lá, ta nhổ 3, 2 hoặc 1 ở lượt sau và để lại 4 như dự tính. Vậy gặp 9 lá, Sook Jai lẽ ra phải nhổ đúng 1 lá và lật ngược thế cờ. Khả năng phân tích của Shii Ann bật lên chậm mất một nước.
+Sự cố thứ hai: ở lượt ngay trước đó, Sook Jai gặp 9 lá và nhổ 3. Vừa quay về, Shii Ann, một đấu thủ sắc sảo, ăn nói lưu loát và tự hào về khả năng phân tích, nhận ra: "Nếu Chuay Gahn nhổ 2 bây giờ thì chúng ta tiêu." Nước đi vừa rồi của Sook Jai đã sai. Lẽ ra Shii Ann hoặc đồng đội phải lập luận như Ted rồi đẩy thêm một bước: làm sao bảo đảm đối thủ gặp 4 lá ở lượt sau của họ? Bằng cách để họ gặp 8 lá ở lượt này.
+
+Khi họ nhổ 1, 2 hoặc 3 trong 8 lá, ta nhổ 3, 2 hoặc 1 ở lượt sau và để lại 4 như dự tính. Vậy gặp 9 lá, Sook Jai lẽ ra phải nhổ đúng 1 lá và lật ngược thế cờ. Khả năng phân tích của Shii Ann bật lên chậm mất một nước.
 
 Ted Rogers có lẽ sâu sắc hơn, nhưng cũng chưa đủ. Sook Jai gặp 9 lá vì ở lượt trước Chuay Gahn gặp 11 lá và nhổ 2. Nếu Ted đẩy lập luận của chính mình thêm một bước, Chuay Gahn đã nhổ 3, để Sook Jai gặp 8 lá, một thế thua.
 
@@ -901,13 +918,15 @@ Bảng dựng lại từ sách so sánh nước đi thực tế với nước đ
 | Sook Jai | 4 | 3 | Không có nước thắng |
 | Chuay Gahn | 1 | 1 | 1 |
 
-Hai tác giả viết rằng gần như mọi lựa chọn đều sai, trừ nước của Chuay Gahn khi gặp 13 lá, và nước đó hẳn là ngẫu nhiên vì ở lượt sau, gặp 11 lá, họ lại nhổ 2 thay vì 3. (Ghi chú của người tổng hợp, như ở phần Lưu ý: chính bảng của sách cho thấy Chuay Gahn cũng đi đúng khi gặp 6 lá (nhổ 2, đúng như Ted đã tính) và khi gặp 1 lá (nhổ 1); phần lời của sách bỏ sót hai nước này.)
+Hai tác giả viết rằng gần như mọi lựa chọn đều sai, trừ nước của Chuay Gahn khi gặp 13 lá, và nước đó hẳn là ngẫu nhiên vì ở lượt sau, gặp 11 lá, họ lại nhổ 2 thay vì 3. (Ghi chú của người tổng hợp, như ở mục Lưu ý cuối chương: chính bảng của sách cho thấy Chuay Gahn cũng đi đúng khi gặp 6 lá (nhổ 2, đúng như Ted đã tính) và khi gặp 1 lá (nhổ 1); phần lời của sách bỏ sót hai nước này.)
 
 Trước khi chê hai đội, nên nhớ rằng học chơi cả những trò rất đơn giản cũng cần thời gian và kinh nghiệm. Hai tác giả cho từng cặp sinh viên hoặc từng nhóm sinh viên trong lớp chơi trò này, và thấy sinh viên năm nhất các trường Ivy League cần ba, thậm chí bốn ván mới hiểu trọn lập luận và chơi đúng từ nước đầu tiên. Người ta có vẻ học nhanh hơn khi xem người khác chơi so với khi tự chơi; có lẽ người quan sát dễ nhìn toàn cục và suy nghĩ bình tĩnh hơn người trong cuộc.
 
 **Bài tập số 1 (Trip to the Gym No. 1).** Biến trò chơi cờ thành trò "củ khoai nóng": bây giờ đội nào buộc đội kia phải nhổ lá cuối cùng thì thắng. Đến lượt bạn và còn 21 lá; bạn nhổ mấy lá?
 
-*Đáp án của sách (phần Workouts).* Bạn thắng nếu để đối thủ gặp 1 lá, vì họ buộc phải nhổ nó. Vậy bắt đầu một lượt với 2, 3 hoặc 4 lá là thế thắng. Người gặp 5 lá thua, vì nhổ thế nào cũng để lại cho đối thủ 2, 3 hoặc 4 lá. Đẩy thêm một vòng, người gặp 9 lá thua; tiếp tục như vậy, người bắt đầu với 21 lá ở thế thua (nếu đối thủ chơi đúng và luôn đưa tổng số giảm theo từng nhóm 4 lá). Một cách nhìn khác: người nhổ lá áp chót là người thắng, vì đối thủ chỉ còn 1 lá buộc phải nhổ; nhổ lá áp chót giống như nhổ lá cuối trong trò chơi bớt đi 1 lá. Với 21 lá, bạn coi như đang chơi trò 20 lá theo luật cũ và cố nhổ lá cuối cùng trong 20, và đó là thế thua nếu đối thủ hiểu trò chơi. Bài tập này cũng cho thấy người đi trước không phải lúc nào cũng có lợi, đúng như chú thích của tác giả ở trên.
+*Đáp án của sách (phần Workouts).* Bạn thắng nếu để đối thủ gặp 1 lá, vì họ buộc phải nhổ nó. Vậy bắt đầu một lượt với 2, 3 hoặc 4 lá là thế thắng. Người gặp 5 lá thua, vì nhổ thế nào cũng để lại cho đối thủ 2, 3 hoặc 4 lá. Đẩy thêm một vòng, người gặp 9 lá thua; tiếp tục như vậy, người bắt đầu với 21 lá ở thế thua (nếu đối thủ chơi đúng và luôn đưa tổng số giảm theo từng nhóm 4 lá).
+
+Một cách nhìn khác: người nhổ lá áp chót là người thắng, vì đối thủ chỉ còn 1 lá buộc phải nhổ; nhổ lá áp chót giống như nhổ lá cuối trong trò chơi bớt đi 1 lá. Với 21 lá, bạn coi như đang chơi trò 20 lá theo luật cũ và cố nhổ lá cuối cùng trong 20, và đó là thế thua nếu đối thủ hiểu trò chơi. Bài tập này cũng cho thấy người đi trước không phải lúc nào cũng có lợi, đúng như chú thích của tác giả ở trên.
 
 ### 7. Điều gì làm một trò chơi giải trọn được bằng suy luận ngược? (What Makes a Game Fully Solvable by Backward Reasoning?)
 
@@ -915,9 +934,13 @@ Trò 21 lá cờ giải trọn được nhờ một tính chất đặc biệt: 
 
 **Bất định tự nhiên.** Trong trò 21 lá cờ, đội đến lượt luôn biết chính xác tình hình, tức còn bao nhiêu lá. Nhiều trò chơi có yếu tố may rủi thuần tuý: trong nhiều trò chơi bài, người chơi không biết chắc bài của người khác, dù các nước đi trước có thể cho căn cứ để suy đoán. Nhiều chương sau sẽ phân tích trò chơi có yếu tố này.
 
-**Bất định về mục tiêu của người khác.** Đội đến lượt cũng biết mục tiêu của đội kia là thắng; Charlie Brown cũng phải biết Lucy thích thấy anh ngã. Trong nhiều trò chơi và môn thể thao đơn giản, người chơi biết rõ mục tiêu của nhau, nhưng trong kinh doanh, chính trị và quan hệ xã hội thì không. Động cơ ở đó là sự pha trộn phức tạp giữa ích kỷ và vị tha, quan tâm tới công lý hay công bằng, cân nhắc ngắn hạn và dài hạn. Muốn đoán người khác sẽ chọn gì ở các điểm sau, phải biết mục tiêu của họ, và nếu họ có nhiều mục tiêu thì họ đánh đổi giữa chúng thế nào. Gần như không bao giờ biết chắc được, nên phải đoán có căn cứ. Không được giả định người khác có cùng sở thích với mình, hay với một "người duy lý" giả định, mà phải thật sự nghĩ về hoàn cảnh của họ. Đặt mình vào vị trí người khác là việc khó, càng khó khi mình dính líu cảm xúc vào mục tiêu của chính mình. Với loại bất định này, có thể nên hỏi ý kiến một bên thứ ba khách quan, tức một nhà tư vấn chiến lược.
+**Bất định về mục tiêu của người khác.** Đội đến lượt cũng biết mục tiêu của đội kia là thắng; Charlie Brown cũng phải biết Lucy thích thấy anh ngã. Trong nhiều trò chơi và môn thể thao đơn giản, người chơi biết rõ mục tiêu của nhau, nhưng trong kinh doanh, chính trị và quan hệ xã hội thì không. Động cơ ở đó là sự pha trộn phức tạp giữa ích kỷ và vị tha, quan tâm tới công lý hay công bằng, cân nhắc ngắn hạn và dài hạn.
 
-**Bất định chiến lược (strategic uncertainty).** Trong nhiều trò chơi, người chơi không biết người khác đã chọn gì; đây là bất định chiến lược, khác với các yếu tố may rủi tự nhiên như cách chia bài hay quả bóng nảy trên mặt sân gồ ghề. Trò 21 lá cờ không có loại bất định này vì mỗi đội thấy rõ đội kia vừa làm gì. Nhưng trong nhiều trò chơi, người chơi hành động cùng lúc hoặc nối nhau quá nhanh để kịp quan sát và phản ứng. Thủ môn đối mặt quả phạt đền phải quyết định đổ sang phải hay trái khi chưa biết cầu thủ sẽ sút hướng nào; cầu thủ giỏi giấu ý định tới phần nghìn giây cuối, khi thủ môn không còn kịp phản ứng. Giao bóng và cú đánh bóng qua người trong quần vợt cũng vậy; người tham gia đấu giá kín phải ra giá mà không biết người khác ra giá bao nhiêu. Cách suy nghĩ cần cho các trò chơi đồng thời này khác, và ở một số mặt khó hơn, suy luận ngược thuần tuý: mỗi người phải biết rằng người khác cũng đang lựa chọn có ý thức và đang nghĩ về điều mình nghĩ, và cứ thế. Các chương sau sẽ trình bày công cụ cho loại trò chơi đó; chương này chỉ tập trung vào trò chơi tuần tự, từ trò 21 lá cờ tới cờ vua ở mức phức tạp cao hơn nhiều.
+Muốn đoán người khác sẽ chọn gì ở các điểm sau, phải biết mục tiêu của họ, và nếu họ có nhiều mục tiêu thì họ đánh đổi giữa chúng thế nào. Gần như không bao giờ biết chắc được, nên phải đoán có căn cứ. Không được giả định người khác có cùng sở thích với mình, hay với một "người duy lý" giả định, mà phải thật sự nghĩ về hoàn cảnh của họ. Đặt mình vào vị trí người khác là việc khó, càng khó khi mình dính líu cảm xúc vào mục tiêu của chính mình. Với loại bất định này, có thể nên hỏi ý kiến một bên thứ ba khách quan, tức một nhà tư vấn chiến lược.
+
+**Bất định chiến lược (strategic uncertainty).** Trong nhiều trò chơi, người chơi không biết người khác đã chọn gì; đây là bất định chiến lược, khác với các yếu tố may rủi tự nhiên như cách chia bài hay quả bóng nảy trên mặt sân gồ ghề. Trò 21 lá cờ không có loại bất định này vì mỗi đội thấy rõ đội kia vừa làm gì. Nhưng trong nhiều trò chơi, người chơi hành động cùng lúc hoặc nối nhau quá nhanh để kịp quan sát và phản ứng. Thủ môn đối mặt quả phạt đền phải quyết định đổ sang phải hay trái khi chưa biết cầu thủ sẽ sút hướng nào; cầu thủ giỏi giấu ý định tới phần nghìn giây cuối, khi thủ môn không còn kịp phản ứng.
+
+Giao bóng và cú đánh bóng qua người trong quần vợt cũng vậy; người tham gia đấu giá kín phải ra giá mà không biết người khác ra giá bao nhiêu. Cách suy nghĩ cần cho các trò chơi đồng thời này khác, và ở một số mặt khó hơn, suy luận ngược thuần tuý: mỗi người phải biết rằng người khác cũng đang lựa chọn có ý thức và đang nghĩ về điều mình nghĩ, và cứ thế. Các chương sau sẽ trình bày công cụ cho loại trò chơi đó; chương này chỉ tập trung vào trò chơi tuần tự, từ trò 21 lá cờ tới cờ vua ở mức phức tạp cao hơn nhiều.
 
 ### 8. Con người có thật sự giải trò chơi bằng suy luận ngược không? (Do People Actually Solve Games by Backward Reasoning?)
 
@@ -950,27 +973,43 @@ Kết quả ban đầu nghiêng về lý do thứ ba. Al Roth (Harvard) và cộ
 
 Nghiên cứu sau đó, nhằm tách lý do thứ hai khỏi thứ ba, dẫn tới một ý khác. Để phân biệt vị tha với tính toán chiến lược, người ta dùng biến thể gọi là **trò chơi độc tài**: người đề nghị quyết định cách chia, người kia hoàn toàn không có quyền lên tiếng. Người chia trong trò độc tài cho đi ít hơn đáng kể so với trong trò tối hậu thư, nhưng vẫn cho nhiều hơn 0 rõ rệt. Vậy cả hai lời giải thích đều có phần đúng: hành vi trong trò tối hậu thư vừa có mặt hào phóng vừa có mặt chiến lược.
 
-Sự hào phóng xuất phát từ vị tha hay từ quan tâm tới công bằng? Cả hai là những khía cạnh khác nhau của cái có thể gọi là sự quan tâm tới người khác trong sở thích của con người. Một biến thể khác giúp tách chúng. Thông thường, vai người đề nghị và người đáp được phân bằng cơ chế ngẫu nhiên như tung đồng xu, điều có thể gợi lên ý niệm bình đẳng trong đầu người chơi. Để loại bỏ yếu tố đó, một biến thể tổ chức một cuộc thi sơ bộ, như kiểm tra kiến thức chung, và cho người thắng làm người đề nghị. Người đề nghị khi đó thấy mình "xứng đáng", và đề nghị trung bình thấp hơn khoảng 10%. Nhưng đề nghị vẫn xa trên 0, cho thấy có yếu tố vị tha. Người đề nghị không biết người đáp là ai, nên đây phải là lòng vị tha chung chung, không phải quan tâm tới một người cụ thể.
+Sự hào phóng xuất phát từ vị tha hay từ quan tâm tới công bằng? Cả hai là những khía cạnh khác nhau của cái có thể gọi là sự quan tâm tới người khác trong sở thích của con người. Một biến thể khác giúp tách chúng. Thông thường, vai người đề nghị và người đáp được phân bằng cơ chế ngẫu nhiên như tung đồng xu, điều có thể gợi lên ý niệm bình đẳng trong đầu người chơi.
 
-Còn một khả năng thứ ba trong sở thích cá nhân: phần đóng góp có thể xuất phát từ cảm giác xấu hổ. Jason Dana (Đại học Illinois), Daylian Cain (Trường Quản trị Yale) và Robyn Dawes (Đại học Carnegie-Mellon) làm thí nghiệm với một biến thể của trò độc tài. Người chia được giao 10 USD. Sau khi chia xong, nhưng trước khi tiền được giao cho người kia, người chia được đề nghị: bạn có thể lấy 9 USD, người kia không được gì và sẽ không bao giờ biết mình là một phần của thí nghiệm. Phần lớn người chia nhận đề nghị này. Họ thà mất 1 USD để người kia không bao giờ biết họ tham lam tới mức nào. (Một người vị tha sẽ thích giữ 9 USD và cho đi 1 USD hơn là giữ 9 USD mà người kia không được gì.) Ngay cả người chia đã định cho 3 USD cũng thà rút lại để người kia không biết. Hai tác giả so sánh việc này với chuyện chịu tốn công băng qua đường chỉ để khỏi phải cho người ăn xin một khoản nhỏ.
+Để loại bỏ yếu tố đó, một biến thể tổ chức một cuộc thi sơ bộ, như kiểm tra kiến thức chung, và cho người thắng làm người đề nghị. Người đề nghị khi đó thấy mình "xứng đáng", và đề nghị trung bình thấp hơn khoảng 10%. Nhưng đề nghị vẫn xa trên 0, cho thấy có yếu tố vị tha. Người đề nghị không biết người đáp là ai, nên đây phải là lòng vị tha chung chung, không phải quan tâm tới một người cụ thể.
+
+Còn một khả năng thứ ba trong sở thích cá nhân: phần đóng góp có thể xuất phát từ cảm giác xấu hổ. Jason Dana (Đại học Illinois), Daylian Cain (Trường Quản trị Yale) và Robyn Dawes (Đại học Carnegie-Mellon) làm thí nghiệm với một biến thể của trò độc tài. Người chia được giao 10 USD. Sau khi chia xong, nhưng trước khi tiền được giao cho người kia, người chia được đề nghị: bạn có thể lấy 9 USD, người kia không được gì và sẽ không bao giờ biết mình là một phần của thí nghiệm.
+
+Phần lớn người chia nhận đề nghị này. Họ thà mất 1 USD để người kia không bao giờ biết họ tham lam tới mức nào. (Một người vị tha sẽ thích giữ 9 USD và cho đi 1 USD hơn là giữ 9 USD mà người kia không được gì.) Ngay cả người chia đã định cho 3 USD cũng thà rút lại để người kia không biết. Hai tác giả so sánh việc này với chuyện chịu tốn công băng qua đường chỉ để khỏi phải cho người ăn xin một khoản nhỏ.
 
 Hai tác giả lưu ý hai điều về các thí nghiệm này. Thứ nhất, chúng theo đúng phương pháp khoa học: kiểm định giả thuyết bằng các biến thể có kiểm soát được thiết kế phù hợp (nhiều biến thể khác được bàn trong cuốn sách của Colin Camerer về lý thuyết trò chơi hành vi). Thứ hai, trong khoa học xã hội, nhiều nguyên nhân thường cùng tồn tại, mỗi nguyên nhân giải thích một phần của cùng một hiện tượng; giả thuyết không nhất thiết đúng hoàn toàn hay sai hoàn toàn, và chấp nhận giả thuyết này không có nghĩa phải bác bỏ mọi giả thuyết khác.
 
-Bây giờ xét hành vi của người đáp. Vì sao họ từ chối một đề nghị khi biết rằng từ chối thì được còn ít hơn? Lý do không thể là để tạo tiếng là người mặc cả cứng rắn nhằm có lợi trong những lần chơi sau, vì cùng một cặp không chơi lại với nhau và không ai được xem lịch sử hành vi của người khác. Nếu có động cơ danh tiếng ngầm, nó phải ở dạng sâu hơn: một quy tắc hành động chung mà người đáp làm theo mà không cần tính toán ở từng lần, tức một hành động bản năng hay một phản ứng do cảm xúc chi phối. Và thực tế đúng như vậy. Trong một hướng nghiên cứu thực nghiệm mới gọi là **kinh tế học thần kinh** (neuroeconomics), hoạt động não của người tham gia được chụp bằng cộng hưởng từ chức năng (fMRI) hoặc chụp cắt lớp phát xạ positron (PET) khi họ ra các quyết định kinh tế. Khi chơi trò tối hậu thư trong điều kiện đó, thuỳ đảo trước (anterior insula) của người đáp hoạt động mạnh hơn khi đề nghị càng bất bình đẳng. Thuỳ đảo trước hoạt động khi có các cảm xúc như giận dữ và ghê tởm, nên kết quả này giúp giải thích vì sao người đi sau từ chối đề nghị bất bình đẳng. Ngược lại, vỏ não trước trán bên trái hoạt động mạnh hơn khi người đáp vẫn chấp nhận một đề nghị bất bình đẳng, cho thấy họ đang kiểm soát có ý thức để cân giữa việc làm theo cảm giác ghê tởm và việc lấy thêm tiền.
+Bây giờ xét hành vi của người đáp. Vì sao họ từ chối một đề nghị khi biết rằng từ chối thì được còn ít hơn? Lý do không thể là để tạo tiếng là người mặc cả cứng rắn nhằm có lợi trong những lần chơi sau, vì cùng một cặp không chơi lại với nhau và không ai được xem lịch sử hành vi của người khác.
+
+Nếu có động cơ danh tiếng ngầm, nó phải ở dạng sâu hơn: một quy tắc hành động chung mà người đáp làm theo mà không cần tính toán ở từng lần, tức một hành động bản năng hay một phản ứng do cảm xúc chi phối. Và thực tế đúng như vậy. Trong một hướng nghiên cứu thực nghiệm mới gọi là **kinh tế học thần kinh** (neuroeconomics), hoạt động não của người tham gia được chụp bằng cộng hưởng từ chức năng (fMRI) hoặc chụp cắt lớp phát xạ positron (PET) khi họ ra các quyết định kinh tế.
+
+Khi chơi trò tối hậu thư trong điều kiện đó, thuỳ đảo trước (anterior insula) của người đáp hoạt động mạnh hơn khi đề nghị càng bất bình đẳng. Thuỳ đảo trước hoạt động khi có các cảm xúc như giận dữ và ghê tởm, nên kết quả này giúp giải thích vì sao người đi sau từ chối đề nghị bất bình đẳng. Ngược lại, vỏ não trước trán bên trái hoạt động mạnh hơn khi người đáp vẫn chấp nhận một đề nghị bất bình đẳng, cho thấy họ đang kiểm soát có ý thức để cân giữa việc làm theo cảm giác ghê tởm và việc lấy thêm tiền.
 
 Nhiều người, nhất là các nhà kinh tế, cho rằng người đáp có thể từ chối phần nhỏ của những khoản tiền nhỏ trong phòng thí nghiệm, nhưng ngoài đời, khi tiền đặt cược lớn hơn nhiều, việc từ chối hẳn rất hiếm. Để kiểm tra, người ta làm thí nghiệm ở các nước nghèo với số tiền bằng vài tháng thu nhập của người tham gia. Việc từ chối giảm đi đôi chút, nhưng đề nghị không bớt hào phóng đáng kể. Hậu quả của việc bị từ chối nặng hơn với người đề nghị cũng như với người đáp, nên người đề nghị sợ bị từ chối sẽ thận trọng hơn.
 
-Hành vi có phần do bản năng, hormone hay cảm xúc gắn sẵn trong não, nhưng có phần thay đổi theo văn hoá. Trong các thí nghiệm ở nhiều nước, quan niệm về một đề nghị hợp lý chênh nhau tới 10% giữa các nền văn hoá, còn những đặc điểm như độ hung hăng hay cứng rắn chênh ít hơn. Chỉ một nhóm khác hẳn phần còn lại: người Machiguenga ở vùng Amazon thuộc Peru đưa đề nghị thấp hơn nhiều (trung bình 26%) và chỉ một đề nghị bị từ chối. Các nhà nhân học giải thích rằng người Machiguenga sống thành đơn vị gia đình nhỏ, ít gắn kết xã hội và không có chuẩn mực chia sẻ. Ngược lại, ở hai nền văn hoá, đề nghị vượt quá 50%; họ có tục cho tặng hào phóng khi gặp may, điều buộc người nhận phải đáp lại còn hào phóng hơn về sau. Chuẩn mực hay thói quen này dường như được mang vào thí nghiệm, dù người chơi không biết mình cho ai hay nhận từ ai.
+Hành vi có phần do bản năng, hormone hay cảm xúc gắn sẵn trong não, nhưng có phần thay đổi theo văn hoá. Trong các thí nghiệm ở nhiều nước, quan niệm về một đề nghị hợp lý chênh nhau tới 10% giữa các nền văn hoá, còn những đặc điểm như độ hung hăng hay cứng rắn chênh ít hơn. Chỉ một nhóm khác hẳn phần còn lại: người Machiguenga ở vùng Amazon thuộc Peru đưa đề nghị thấp hơn nhiều (trung bình 26%) và chỉ một đề nghị bị từ chối.
+
+Các nhà nhân học giải thích rằng người Machiguenga sống thành đơn vị gia đình nhỏ, ít gắn kết xã hội và không có chuẩn mực chia sẻ. Ngược lại, ở hai nền văn hoá, đề nghị vượt quá 50%; họ có tục cho tặng hào phóng khi gặp may, điều buộc người nhận phải đáp lại còn hào phóng hơn về sau. Chuẩn mực hay thói quen này dường như được mang vào thí nghiệm, dù người chơi không biết mình cho ai hay nhận từ ai.
 
 ### 10. Sự tiến hoá của lòng vị tha và tính công bằng (Evolution of Altruism and Fairness)
 
 Nên rút ra bài học gì từ các thí nghiệm tối hậu thư và những thí nghiệm tương tự? Nhiều kết quả khác đáng kể so với dự đoán của lý thuyết suy luận ngược với giả định mỗi người chỉ quan tâm tới phần thưởng của mình. Trong hai giả định (người chơi suy luận ngược đúng, và người chơi ích kỷ thuần tuý), giả định nào sai, hay cả hai? Và hệ quả là gì?
 
-**Về suy luận ngược.** Người chơi *Survivor* không làm đúng hoặc làm chưa trọn trong trò 21 lá cờ, nhưng họ chơi lần đầu, và cuộc bàn bạc của họ đã lộ ra những mảnh của lập luận đúng. Kinh nghiệm lớp học cho thấy sinh viên học được chiến lược đầy đủ sau ba, bốn lần chơi hoặc xem người khác chơi. Nhiều thí nghiệm, gần như tất yếu và có chủ ý, dùng người mới, mà hành động của họ thường là các bước trong quá trình học trò chơi. Ngoài đời, trong kinh doanh, chính trị, thể thao chuyên nghiệp, người ta có kinh nghiệm với trò chơi mình tham gia, nên có thể kỳ vọng họ đã tích luỹ nhiều hiểu biết hơn và nói chung chơi chiến lược tốt, bằng tính toán hoặc bằng bản năng đã rèn luyện. Với trò chơi phức tạp hơn một chút, người chơi có ý thức chiến lược có thể dùng máy tính hoặc thuê tư vấn để tính; việc này còn hiếm nhưng chắc chắn sẽ phổ biến. Vì vậy hai tác giả cho rằng suy luận ngược vẫn nên là điểm xuất phát để phân tích và dự đoán kết cục các trò chơi đó, rồi điều chỉnh khi cần trong từng bối cảnh để tính tới việc người mới có thể mắc lỗi và một số trò chơi quá phức tạp để tự giải.
+**Về suy luận ngược.** Người chơi *Survivor* không làm đúng hoặc làm chưa trọn trong trò 21 lá cờ, nhưng họ chơi lần đầu, và cuộc bàn bạc của họ đã lộ ra những mảnh của lập luận đúng. Kinh nghiệm lớp học cho thấy sinh viên học được chiến lược đầy đủ sau ba, bốn lần chơi hoặc xem người khác chơi. Nhiều thí nghiệm, gần như tất yếu và có chủ ý, dùng người mới, mà hành động của họ thường là các bước trong quá trình học trò chơi. Ngoài đời, trong kinh doanh, chính trị, thể thao chuyên nghiệp, người ta có kinh nghiệm với trò chơi mình tham gia, nên có thể kỳ vọng họ đã tích luỹ nhiều hiểu biết hơn và nói chung chơi chiến lược tốt, bằng tính toán hoặc bằng bản năng đã rèn luyện.
 
-**Về sở thích.** Hai tác giả cho rằng bài học quan trọng hơn từ nghiên cứu thực nghiệm là con người đưa vào lựa chọn của mình nhiều cân nhắc và sở thích ngoài phần thưởng của chính họ. Điều này vượt ra ngoài phạm vi lý thuyết kinh tế truyền thống. Các nhà lý thuyết trò chơi nên đưa vào phân tích mối quan tâm của người chơi tới công bằng hay vị tha. Hai tác giả dẫn Colin Camerer: lý thuyết trò chơi hành vi *mở rộng* tính duy lý chứ không từ bỏ nó. Đây là điều tốt: hiểu động cơ con người tốt hơn làm giàu thêm hiểu biết về cả quyết định kinh tế lẫn tương tác chiến lược. Và điều đó đang diễn ra: nghiên cứu tiên phong trong lý thuyết trò chơi ngày càng đưa vào mục tiêu của người chơi mối quan tâm tới công bằng, vị tha và những điều tương tự (thậm chí cả mối quan tâm "vòng hai": thưởng hoặc phạt người có hành vi tôn trọng hoặc vi phạm các chuẩn mực đó).
+Với trò chơi phức tạp hơn một chút, người chơi có ý thức chiến lược có thể dùng máy tính hoặc thuê tư vấn để tính; việc này còn hiếm nhưng chắc chắn sẽ phổ biến. Vì vậy hai tác giả cho rằng suy luận ngược vẫn nên là điểm xuất phát để phân tích và dự đoán kết cục các trò chơi đó, rồi điều chỉnh khi cần trong từng bối cảnh để tính tới việc người mới có thể mắc lỗi và một số trò chơi quá phức tạp để tự giải.
 
-**Vì sao các chuẩn mực này bám rễ sâu.** Hai tác giả đi thêm một bước: vì sao mối quan tâm tới vị tha và công bằng, cùng sự giận dữ hay ghê tởm khi người khác vi phạm chúng, lại có sức mạnh lớn với con người như vậy? Đây là vùng suy đoán, nhưng tâm lý học tiến hoá đưa ra một giải thích hợp lý. Nhóm nào gieo vào thành viên chuẩn mực công bằng và vị tha sẽ ít xung đột nội bộ hơn nhóm gồm toàn cá nhân ích kỷ. Vì thế họ thành công hơn trong hành động tập thể, như cung cấp những thứ có lợi cho cả nhóm và giữ gìn tài nguyên chung, và tốn ít công sức, nguồn lực hơn cho xung đột nội bộ. Kết quả là họ làm tốt hơn, cả xét tuyệt đối lẫn khi cạnh tranh với các nhóm không có chuẩn mực tương tự. Nói cách khác, một mức độ công bằng và vị tha nhất định có thể có giá trị sống còn về mặt tiến hoá.
+**Về sở thích.** Hai tác giả cho rằng bài học quan trọng hơn từ nghiên cứu thực nghiệm là con người đưa vào lựa chọn của mình nhiều cân nhắc và sở thích ngoài phần thưởng của chính họ. Điều này vượt ra ngoài phạm vi lý thuyết kinh tế truyền thống. Các nhà lý thuyết trò chơi nên đưa vào phân tích mối quan tâm của người chơi tới công bằng hay vị tha. Hai tác giả dẫn Colin Camerer: lý thuyết trò chơi hành vi *mở rộng* tính duy lý chứ không từ bỏ nó.
+
+Đây là điều tốt: hiểu động cơ con người tốt hơn làm giàu thêm hiểu biết về cả quyết định kinh tế lẫn tương tác chiến lược. Và điều đó đang diễn ra: nghiên cứu tiên phong trong lý thuyết trò chơi ngày càng đưa vào mục tiêu của người chơi mối quan tâm tới công bằng, vị tha và những điều tương tự (thậm chí cả mối quan tâm "vòng hai": thưởng hoặc phạt người có hành vi tôn trọng hoặc vi phạm các chuẩn mực đó).
+
+**Vì sao các chuẩn mực này bám rễ sâu.** Hai tác giả đi thêm một bước: vì sao mối quan tâm tới vị tha và công bằng, cùng sự giận dữ hay ghê tởm khi người khác vi phạm chúng, lại có sức mạnh lớn với con người như vậy? Đây là vùng suy đoán, nhưng tâm lý học tiến hoá đưa ra một giải thích hợp lý. Nhóm nào gieo vào thành viên chuẩn mực công bằng và vị tha sẽ ít xung đột nội bộ hơn nhóm gồm toàn cá nhân ích kỷ.
+
+Vì thế họ thành công hơn trong hành động tập thể, như cung cấp những thứ có lợi cho cả nhóm và giữ gìn tài nguyên chung, và tốn ít công sức, nguồn lực hơn cho xung đột nội bộ. Kết quả là họ làm tốt hơn, cả xét tuyệt đối lẫn khi cạnh tranh với các nhóm không có chuẩn mực tương tự. Nói cách khác, một mức độ công bằng và vị tha nhất định có thể có giá trị sống còn về mặt tiến hoá.
 
 Một bằng chứng sinh học cho việc từ chối đề nghị bất công đến từ thí nghiệm của Terry Burnham:
 
@@ -994,7 +1033,9 @@ Về nguyên tắc, cờ vua là trò chơi tuần tự lý tưởng để giả
 
 Các chuyên gia cờ vua đã mô tả thành công chiến lược tối ưu ở gần cuối ván. Khi trên bàn chỉ còn ít quân, họ có thể nhìn tới cuối ván và bằng suy luận ngược xác định một bên có chắc thắng hay bên kia có giữ được hoà không. Trung cuộc, khi còn nhiều quân, khó hơn nhiều: nhìn trước năm cặp nước, mức tối đa chuyên gia làm được trong thời gian hợp lý, không đủ để đưa tình huống tới một thế tàn cuộc giải được trọn vẹn.
 
-Lời giải thực dụng là kết hợp phân tích nhìn trước với phán đoán giá trị. Phần thứ nhất là khoa học của lý thuyết trò chơi: nhìn trước và suy luận ngược. Phần thứ hai là nghệ thuật của người chơi: đánh giá giá trị một thế cờ từ số lượng và mối liên kết giữa các quân, không cần tìm lời giải tường minh từ đó tới cuối ván. Kỳ thủ thường gọi đó là "tri thức", nhưng cũng có thể gọi là kinh nghiệm, bản năng hay nghệ thuật; kỳ thủ giỏi nhất thường nổi bật ở chiều sâu và độ tinh tế của tri thức. Tri thức có thể được chắt lọc từ quan sát nhiều ván cờ, nhiều kỳ thủ và ghi thành quy tắc; việc này được làm nhiều nhất cho khai cuộc, tức 10 hay thậm chí 15 nước đầu, với hàng trăm cuốn sách phân tích ưu nhược điểm của các thế khai cuộc.
+Lời giải thực dụng là kết hợp phân tích nhìn trước với phán đoán giá trị. Phần thứ nhất là khoa học của lý thuyết trò chơi: nhìn trước và suy luận ngược. Phần thứ hai là nghệ thuật của người chơi: đánh giá giá trị một thế cờ từ số lượng và mối liên kết giữa các quân, không cần tìm lời giải tường minh từ đó tới cuối ván.
+
+Kỳ thủ thường gọi đó là "tri thức", nhưng cũng có thể gọi là kinh nghiệm, bản năng hay nghệ thuật; kỳ thủ giỏi nhất thường nổi bật ở chiều sâu và độ tinh tế của tri thức. Tri thức có thể được chắt lọc từ quan sát nhiều ván cờ, nhiều kỳ thủ và ghi thành quy tắc; việc này được làm nhiều nhất cho khai cuộc, tức 10 hay thậm chí 15 nước đầu, với hàng trăm cuốn sách phân tích ưu nhược điểm của các thế khai cuộc.
 
 Máy tính ở đâu trong bức tranh này? Có thời, việc lập trình máy chơi cờ được coi là một phần của khoa học trí tuệ nhân tạo đang hình thành, với mục tiêu thiết kế máy suy nghĩ như người; nhiều năm không thành công. Rồi trọng tâm chuyển sang để máy làm việc nó giỏi nhất: tính toán. Máy có thể nhìn trước nhiều nước hơn và nhanh hơn người.
 
@@ -1045,11 +1086,17 @@ Cụ thể, khi kém 14 điểm, ông biết mình cần hai touchdown cộng t�
 
 > **Chú thích của tác giả:** Hơn nữa, trận hoà này sẽ là kết quả của một lần cố thắng bất thành, nên không ai chỉ trích Osborne vì chơi để hoà.
 
-Hai tác giả từng nghe phản bác: nếu Osborne thử 2 điểm trước và trượt, đội sẽ phải chơi để hoà, kém hứng khởi hơn và có thể không ghi được touchdown thứ hai; còn nếu chờ tới cuối và tung pha 2 điểm quyết định thắng thua, các cầu thủ sẽ vượt lên chính mình vì biết mọi thứ được đặt cược. Hai tác giả cho rằng lập luận này sai vì nhiều lý do. Nếu chờ tới touchdown thứ hai rồi mới trượt lần 2 điểm, Nebraska thua; nếu trượt ở lần thử đầu, vẫn còn cơ hội hoà, và dù cơ hội có giảm, có còn hơn không. Lập luận về "đà" cũng có vấn đề: hàng công Nebraska có thể vượt lên trong một pha quyết định chức vô địch, nhưng hàng thủ Miami cũng vậy, vì pha bóng quan trọng với cả hai. Nếu có hiệu ứng đà thật, thì thành công 2 điểm ở touchdown thứ nhất càng làm tăng cơ hội ghi touchdown thứ hai; nó còn cho phép Nebraska hoà bằng hai cú đá ghi điểm (field goal, mỗi cú 3 điểm).
+Hai tác giả từng nghe phản bác: nếu Osborne thử 2 điểm trước và trượt, đội sẽ phải chơi để hoà, kém hứng khởi hơn và có thể không ghi được touchdown thứ hai; còn nếu chờ tới cuối và tung pha 2 điểm quyết định thắng thua, các cầu thủ sẽ vượt lên chính mình vì biết mọi thứ được đặt cược. Hai tác giả cho rằng lập luận này sai vì nhiều lý do.
 
-Bài học chung: nếu phải chấp nhận rủi ro, thường nên làm càng sớm càng tốt. Người chơi quần vợt đều biết điều này: mạo hiểm hơn ở quả giao bóng thứ nhất và giao quả thứ hai thận trọng hơn. Như vậy nếu thất bại ở lần thử đầu, trò chơi chưa kết thúc, và bạn còn thời gian cho những lựa chọn khác có thể đưa bạn về lại, thậm chí vượt lên, vị trí cũ. Sự khôn ngoan của việc chấp nhận rủi ro sớm áp dụng cho hầu hết các mặt của cuộc sống: chọn nghề, đầu tư hay hẹn hò. Để luyện thêm nguyên tắc nhìn trước, suy luận ngược, hai tác giả giới thiệu các tình huống ở Chương 14: "Here's Mud in Your Eye", "Red I Win, Black You Lose", "The Shark Repellent That Backfired", "Tough Guy, Tender Offer", "The Three-Way Duel" và "Winning without Knowing How".
+Nếu chờ tới touchdown thứ hai rồi mới trượt lần 2 điểm, Nebraska thua; nếu trượt ở lần thử đầu, vẫn còn cơ hội hoà, và dù cơ hội có giảm, có còn hơn không. Lập luận về "đà" cũng có vấn đề: hàng công Nebraska có thể vượt lên trong một pha quyết định chức vô địch, nhưng hàng thủ Miami cũng vậy, vì pha bóng quan trọng với cả hai. Nếu có hiệu ứng đà thật, thì thành công 2 điểm ở touchdown thứ nhất càng làm tăng cơ hội ghi touchdown thứ hai; nó còn cho phép Nebraska hoà bằng hai cú đá ghi điểm (field goal, mỗi cú 3 điểm).
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số là giả định). Một công ty khởi nghiệp sắp hết tiền và gặp một nhà đầu tư thiên thần. Nhà đầu tư đề nghị rót 2 tỷ đồng nếu nhà sáng lập nhường 40% cổ phần; nếu từ chối, nhà sáng lập có thể đi gọi vốn quỹ khác, mất 4 tháng, với xác suất thành công khoảng một nửa. Suy luận ngược bắt đầu từ cuối: nếu gọi vốn quỹ khác thất bại, công ty đóng cửa và cổ phần của nhà sáng lập bằng 0; nếu thành công, giả sử quỹ mới chỉ lấy 20%. Nhìn trước như vậy, giá trị kỳ vọng của việc từ chối là một nửa của 80% công ty, tức khoảng 40%, thấp hơn mức 60% nhà sáng lập giữ lại nếu nhận lời ngay. Nhưng nhà đầu tư thiên thần cũng suy luận ngược: họ biết nhà sáng lập sắp hết tiền nên không cần hạ điều kiện. Nhà sáng lập muốn có thế mạnh hơn phải thay đổi điểm cuối của cây (chẳng hạn cắt giảm chi phí để kéo dài thời gian còn tiền lên 8 tháng) trước khi ngồi vào bàn. Và theo bài học Orange Bowl, nếu định thử một hướng đi rủi ro (như thử ra mắt một sản phẩm mới để chứng minh thị trường), nên làm sớm, khi vẫn còn tiền để làm lại nếu thất bại.
+Bài học chung: nếu phải chấp nhận rủi ro, thường nên làm càng sớm càng tốt. Người chơi quần vợt đều biết điều này: mạo hiểm hơn ở quả giao bóng thứ nhất và giao quả thứ hai thận trọng hơn. Như vậy nếu thất bại ở lần thử đầu, trò chơi chưa kết thúc, và bạn còn thời gian cho những lựa chọn khác có thể đưa bạn về lại, thậm chí vượt lên, vị trí cũ.
+
+Sự khôn ngoan của việc chấp nhận rủi ro sớm áp dụng cho hầu hết các mặt của cuộc sống: chọn nghề, đầu tư hay hẹn hò. Để luyện thêm nguyên tắc nhìn trước, suy luận ngược, hai tác giả giới thiệu các tình huống ở Chương 14: "Here's Mud in Your Eye", "Red I Win, Black You Lose", "The Shark Repellent That Backfired", "Tough Guy, Tender Offer", "The Three-Way Duel" và "Winning without Knowing How".
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số là giả định). Một công ty khởi nghiệp sắp hết tiền và gặp một nhà đầu tư thiên thần. Nhà đầu tư đề nghị rót 2 tỷ đồng nếu nhà sáng lập nhường 40% cổ phần; nếu từ chối, nhà sáng lập có thể đi gọi vốn quỹ khác, mất 4 tháng, với xác suất thành công khoảng một nửa. Suy luận ngược bắt đầu từ cuối: nếu gọi vốn quỹ khác thất bại, công ty đóng cửa và cổ phần của nhà sáng lập bằng 0; nếu thành công, giả sử quỹ mới chỉ lấy 20%. Nhìn trước như vậy, giá trị kỳ vọng của việc từ chối là một nửa của 80% công ty, tức khoảng 40%, thấp hơn mức 60% nhà sáng lập giữ lại nếu nhận lời ngay.
+
+Nhưng nhà đầu tư thiên thần cũng suy luận ngược: họ biết nhà sáng lập sắp hết tiền nên không cần hạ điều kiện. Nhà sáng lập muốn có thế mạnh hơn phải thay đổi điểm cuối của cây (chẳng hạn cắt giảm chi phí để kéo dài thời gian còn tiền lên 8 tháng) trước khi ngồi vào bàn. Và theo bài học Orange Bowl, nếu định thử một hướng đi rủi ro (như thử ra mắt một sản phẩm mới để chứng minh thị trường), nên làm sớm, khi vẫn còn tiền để làm lại nếu thất bại.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1177,7 +1224,7 @@ Hai tác giả không né bằng chứng bất lợi cho lý thuyết mà đặt
 
 ### Chỗ sách tự mâu thuẫn nhẹ và chỗ trình bày chưa rõ
 
-Như đã ghi ở phần Lưu ý, phần lời nói chỉ một nước đi của Chuay Gahn đúng, trong khi bảng của chính cuốn sách cho thấy ba nước đúng (khi còn 13, 6 và 1 lá). Bài tập "trò chơi tối hậu thư đảo ngược" cũng được trình bày chưa rõ: sách nói theo logic của cây, A sẽ đề nghị tới 99:1, rồi khuyên B đừng cố giữ đòi 99:1, mà không giải thích vì sao (người tổng hợp đoán rằng có thể vì A thật ngoài đời sẽ ngừng đề nghị khi thấy bị coi thường, giống người đáp trong trò thường từ chối đề nghị thấp). Người đọc nên coi đây là một câu đố để suy nghĩ hơn là một bài có lời giải chặt chẽ.
+Như đã ghi ở mục Lưu ý cuối chương, phần lời nói chỉ một nước đi của Chuay Gahn đúng, trong khi bảng của chính cuốn sách cho thấy ba nước đúng (khi còn 13, 6 và 1 lá). Bài tập "trò chơi tối hậu thư đảo ngược" cũng được trình bày chưa rõ: sách nói theo logic của cây, A sẽ đề nghị tới 99:1, rồi khuyên B đừng cố giữ đòi 99:1, mà không giải thích vì sao (người tổng hợp đoán rằng có thể vì A thật ngoài đời sẽ ngừng đề nghị khi thấy bị coi thường, giống người đáp trong trò thường từ chối đề nghị thấp). Người đọc nên coi đây là một câu đố để suy nghĩ hơn là một bài có lời giải chặt chẽ.
 
 ### Từ 2008, cờ vua máy tính đã đi xa hơn dự đoán của sách
 
@@ -1193,3 +1240,143 @@ Một số nhà lý thuyết trò chơi chỉ ra những trò chơi mà suy lu�
 - **Trong đầu tư.** Một cơ hội "lợi nhuận gấp đôi trong một năm" cần được phân tích bằng câu hỏi: khi đã cầm tiền, bên kia có lợi gì để trả lại? Nếu câu trả lời chỉ là "vì họ đã hứa", đó là cây của Charlie và Lucy. Bài học Orange Bowl cũng áp dụng: nếu muốn thử một khoản đầu tư mạo hiểm, nên thử sớm, khi danh mục còn đủ thời gian và nguồn lực để phục hồi nếu thất bại.
 - **Trong nghề nghiệp.** Khi đàm phán lương hay đề nghị chia lợi ích, nhớ thí nghiệm tối hậu thư: một đề nghị bị coi là bất công có thể bị từ chối dù từ chối làm người kia thiệt. Khi chọn hướng đi sự nghiệp, chấp nhận rủi ro (đổi ngành, khởi nghiệp, học thêm) sớm thường tốt hơn để muộn, vì còn thời gian làm lại.
 - **Khi đọc tin chính sách.** Khi một cơ quan được trao thêm quyền (phê duyệt, cấp phép, phủ quyết), hãy hỏi các bên khác sẽ thay đổi hành vi thế nào để thích nghi với quyền đó, như Quốc hội đổi cách soạn dự luật trước quyền phủ quyết từng khoản. Ở Việt Nam, những tranh luận về phân cấp, phân quyền giữa trung ương và địa phương, hay về thủ tục phê duyệt dự án, có thể được nhìn qua lăng kính này: thêm một tầng phê duyệt không chỉ thêm một lần kiểm soát mà còn làm các bên đổi cách đề xuất ngay từ đầu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: năm nhánh lớn đi theo các mục 1–13 của phần Nội dung chi tiết (Quy tắc 1 và cây trò chơi qua Charlie Brown và Fredo, quyền phủ quyết từng khoản, trò 21 lá cờ và điều kiện giải trọn, thí nghiệm tối hậu thư và nguồn gốc của công bằng, cờ vua và trận Orange Bowl 1984), mỗi nhánh ghi kỹ thuật, kết quả và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: trong trò chơi tuần tự, nhìn về phía trước và suy luận ngược lại (Quy tắc 1)`"]
+  n1["`Mục 1–4 — Hai loại tương tác, Quy tắc 1 và cây trò chơi`"]
+  n0 --- n1
+  n2["`Lucy luôn giật bóng, nên Charlie phải dự đoán điều đó và từ chối chơi`"]
+  n1 --- n2
+  n3["`Tương tác tuần tự (đi lần lượt) giải bằng suy luận ngược, tương tác đồng thời để sang Chương 3–4`"]
+  n1 --- n3
+  n4["`Quy tắc 1: dự đoán quyết định ban đầu dẫn tới đâu rồi dùng nó chọn nước đi hiện tại`"]
+  n1 --- n4
+  n5["`Cây quyết định cho một người (đi từ Princeton tới New York), cây trò chơi khi có nhiều người chơi`"]
+  n1 --- n5
+  n6["`Cách dùng sai: chọn nhánh hấp dẫn nhất rồi tới cầu Verrazano hãy tính`"]
+  n1 --- n6
+  n7["`Fredo hứa biến 100.000 USD thành 500.000 USD chia đôi, nhưng không có gì buộc anh ta giữ lời`"]
+  n1 --- n7
+  n8["`Charlie nên dự đoán Fredo ôm tiền bỏ trốn và không đầu tư, giống trò Lucy giật bóng`"]
+  n7 --- n8
+  n9["`Hai trò chơi khác bối cảnh có thể cùng một cây, đó là giá trị của lý thuyết`"]
+  n7 --- n9
+  n10["`Fredo có động cơ làm lời hứa đáng tin, công cụ ở Chương 6–7`"]
+  n7 --- n10
+  n11["`Trò chơi không nhất thiết tổng bằng không: đầu tư và giữ lời tốt cho cả hai`"]
+  n7 --- n11
+  n12["`Mục 5 — Cây phức tạp hơn: quyền phủ quyết từng khoản`"]
+  n0 --- n12
+  n13["`Reagan năm 1987 đòi quyền phủ quyết từng khoản mà 43 thống đốc bang đang có`"]
+  n12 --- n13
+  n14["`Hai khoản chi: cải tạo đô thị U (Quốc hội thích) và tên lửa M (tổng thống thích)`"]
+  n12 --- n14
+  n15["`Không có quyền này: Quốc hội thông qua gói U và M, mỗi bên được lựa chọn tốt thứ hai`"]
+  n12 --- n15
+  n16["`Có quyền này: tổng thống sẽ gạch U, nên Quốc hội không thông qua gói, mỗi bên chỉ được tốt thứ ba`"]
+  n12 --- n16
+  n17["`Thêm tự do hành động không hại người quyết định một mình nhưng có thể hại trong trò chơi`"]
+  n12 --- n17
+  n18["`Cờ vua có 20 nước đi đầu, 400 đường sau một cặp nước, cây nhanh chóng quá lớn để vẽ`"]
+  n12 --- n18
+  n19["`Mục 6–7 — Trò 21 lá cờ trong Survivor Thailand`"]
+  n0 --- n19
+  n20["`Hai đội lần lượt nhổ 1, 2 hoặc 3 lá cờ, đội nhổ lá cuối cùng thắng`"]
+  n19 --- n20
+  n21["`Luôn để đối thủ gặp số cờ chia hết cho 4 (20, 16, 12, 8, 4) thì chắc thắng`"]
+  n19 --- n21
+  n22["`Sook Jai lẽ ra phải mở đầu bằng nhổ 1 lá, họ nhổ 2`"]
+  n19 --- n22
+  n23["`Ted Rogers thấy cần để lại 4 lá, Shii Ann nhận ra sai lầm chậm mất một nước`"]
+  n19 --- n23
+  n24["`Gần như mọi nước đi của cả hai đội đều sai`"]
+  n19 --- n24
+  n25["`Sinh viên Ivy League cần 3–4 ván mới chơi đúng từ nước đầu, người xem học nhanh hơn người chơi`"]
+  n19 --- n25
+  n26["`Trò củ khoai nóng 21 lá (ai nhổ lá cuối thì thua): người đi trước ở thế thua`"]
+  n19 --- n26
+  n27["`Giải trọn được vì không có bất định tự nhiên, bất định về mục tiêu hay bất định chiến lược`"]
+  n19 --- n27
+  n28["`Mục 8–10 — Con người có thật sự suy luận ngược: trò chơi tối hậu thư`"]
+  n0 --- n28
+  n29["`Lý thuyết dự đoán người đề nghị đưa 1 xu và người đáp nhận`"]
+  n28 --- n29
+  n30["`Thực tế: đề nghị trung vị 40–50%, phổ biến nhất là chia đôi, dưới 20% bị từ chối khoảng một nửa`"]
+  n28 --- n30
+  n31["`Trò chơi độc tài: người chia cho ít hơn nhưng vẫn trên 0, nên có cả hào phóng lẫn tính toán`"]
+  n28 --- n31
+  n32["`Dana, Cain, Dawes: phần lớn thà nhận 9 USD trên 10 USD để người kia không bao giờ biết`"]
+  n28 --- n32
+  n33["`fMRI: thùy đảo trước, vùng của giận dữ và ghê tởm, hoạt động mạnh khi đề nghị bất bình đẳng`"]
+  n28 --- n33
+  n34["`Người Machiguenga ở Peru đề nghị trung bình 26%, hai nền văn hóa khác đề nghị trên 50%`"]
+  n28 --- n34
+  n35["`Burnham: 6 người từ chối 5 USD trên 40 USD có testosterone cao hơn 50%`"]
+  n28 --- n35
+  n36["`Camerer: lý thuyết trò chơi hành vi mở rộng tính duy lý chứ không từ bỏ nó`"]
+  n28 --- n36
+  n37["`Nhóm có chuẩn mực công bằng và vị tha ít xung đột nội bộ hơn nên có lợi thế tiến hóa`"]
+  n28 --- n37
+  n38["`Mục 11–13 — Cây rất phức tạp và tình huống Orange Bowl 1984`"]
+  n0 --- n38
+  n39["`Cờ vua có khoảng 10^120 nút, siêu máy tính cần 10^103 năm để xét hết`"]
+  n38 --- n39
+  n40["`Lời giải thực dụng: nhìn trước vài nước kết hợp tri thức để đánh giá thế cờ trung gian`"]
+  n38 --- n40
+  n41["`Kasparov hòa X3D Fritz năm 2003, Hydra thắng Michael Adams 5 ván hòa 1 năm 2005`"]
+  n38 --- n41
+  n42["`Phải dự đoán đối thủ sẽ làm gì, không phải mình sẽ làm gì nếu ở vị trí họ`"]
+  n38 --- n42
+  n43["`Doanh nghiệp thuê người ngoài đóng vai đối thủ để họ không biết quá nhiều`"]
+  n38 --- n43
+  n44["`Nebraska kém 17–31, Osborne đá 1 điểm trước rồi thử 2 điểm ở cuối, trượt và thua 30–31`"]
+  n38 --- n44
+  n45["`Thử 2 điểm trước: nếu trượt vẫn còn cơ hội hòa ở touchdown sau`"]
+  n38 --- n45
+  n46["`Bài học: nếu phải chấp nhận rủi ro thì làm càng sớm càng tốt, như quả giao bóng thứ nhất`"]
+  n38 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Ghi lựa chọn của đối thủ ở mọi điểm rẽ, kể cả nhánh không xảy ra, vì chúng quyết định nước đi thật`"]
+  n47 --- n48
+  n49["`Tự trói tay có thể có lợi, lời hứa không có cơ chế ràng buộc thì không đáng tin`"]
+  n47 --- n49
+  n50["`Suy luận ngược là điểm xuất phát, rồi điều chỉnh cho công bằng, cảm xúc và giới hạn tính toán`"]
+  n47 --- n50
+  class n0 root
+  class n1,n12,n19,n28,n38,n47 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 2.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Cuốn sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 kể mười câu chuyện chiến lược để người đọc làm quen với các ý tưởng, chưa đưa ra công cụ nào. Chương 2 là chương "công cụ" đầu tiên của Phần I: nó chia các tương tác chiến lược thành hai loại, tuần tự (người chơi đi lần lượt) và đồng thời (người chơi đi cùng lúc), rồi trao công cụ cho loại thứ nhất: cây trò chơi và suy luận ngược.
+
+Chương 3 (thế lưỡng nan của người tù) và Chương 4 (cân bằng Nash) sẽ xử lý loại thứ hai. Những ý chương này mới nêu sơ bộ, như việc tự trói tay mình có thể có lợi và vấn đề làm cho lời hứa đáng tin, sẽ được phát triển đầy đủ ở Chương 6 (nước đi chiến lược) và Chương 7 (làm cho chiến lược đáng tin); trò chơi tối hậu thư sẽ quay lại ở Chương 11 về mặc cả.
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008, nên các mốc về cờ vua máy tính dừng ở trận Kasparov gặp X3D Fritz (2003) và Hydra thắng Michael Adams (2005).
+- Từ đó máy tính đã vượt hẳn các kỳ thủ hàng đầu, đúng như hai tác giả dự đoán; còn việc giải trọn vẹn cờ vua bằng cây trò chơi vẫn chưa ai làm được.
+- Về quyền phủ quyết từng khoản (line-item veto) mà Reagan đòi năm 1987: Quốc hội Mỹ đã trao quyền này cho tổng thống năm 1996, nhưng Toà án Tối cao tuyên bố luật đó vi hiến năm 1998; sách không nhắc diễn biến này vì ví dụ chỉ dùng tình huống năm 1987.
+- Chương có 5 chú thích chân trang của tác giả (dấu `*`), đã đưa vào Nội dung chi tiết ở mục 6 (hai chú thích, về trò 21 lá cờ), mục 8 (trò chơi tối hậu thư), mục 11 (cờ vua) và mục 13 (trận Orange Bowl), có ghi "Chú thích của tác giả".
+- Chương có 9 hình và bảng (một trang truyện tranh *Peanuts*, sáu cây quyết định và cây trò chơi, bảng xếp hạng ngân sách, bảng các nước đi trong trò chơi 21 lá cờ), tất cả đã được dựng lại.
+- Một chỗ không khớp trong sách: phần lời nói rằng trong trò chơi 21 lá cờ "gần như mọi lựa chọn đều sai, trừ nước của Chuay Gahn khi còn 13 lá", nhưng chính bảng của sách cho thấy Chuay Gahn cũng đi đúng khi còn 6 lá (nhổ 2) và khi còn 1 lá (nhổ 1); phần lời ở đoạn trước cũng khen nước đi khi còn 6 lá là đúng.
+- Các câu trích là bản dịch của người tổng hợp.

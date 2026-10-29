@@ -1,11 +1,12 @@
 # Chương 3 — Thế lưỡng nan của người tù và cách giải quyết (Prisoners' Dilemmas and How to Resolve Them)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 3 (Phần I).
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 đã giải các trò chơi tuần tự (sequential game), nơi người chơi đi lần lượt và có thể dùng suy luận ngược (Quy tắc 1: nhìn về phía trước, suy luận ngược lại). Chương 3 bước sang trò chơi đồng thời (simultaneous game), nơi không ai biết người kia đã chọn gì, nên công cụ phải đổi từ cây trò chơi sang bảng kết quả. Hai tác giả bắt đầu bằng loại trò chơi đồng thời đặc biệt và quan trọng nhất: thế lưỡng nan của người tù, trong đó mọi người chơi đều có chiến lược trội, và khi ai cũng dùng chiến lược trội thì tất cả cùng thiệt. Chương này đưa ra Quy tắc 2 ("Nếu có chiến lược trội, hãy dùng nó"). Chương 4 sẽ trả lời những câu hỏi mà Chương 3 để ngỏ: điều gì xảy ra khi chỉ một người, hoặc không ai, có chiến lược trội, và đưa ra khái niệm tổng quát hơn là cân bằng Nash. Các chương sau của Phần III (đặc biệt Chương 9 về hợp tác và phối hợp) quay lại những cơ chế duy trì hợp tác được giới thiệu ở đây.
-**Ý chính:** Dixit và Nalebuff muốn người đọc nhận ra rằng rất nhiều tình huống tưởng như không liên quan (cuộc chiến giá giữa hai cây xăng, hai đảng cùng chạy về trung tâm, nghề cá New England bị khai thác cạn kiệt, người lính không muốn chết trong những ngày cuối chiến tranh) có chung một cấu trúc: mỗi người có động cơ cá nhân làm một việc mà khi tất cả cùng làm thì kết cục xấu cho tất cả. Ví dụ trung tâm là hai hãng bán quần áo qua catalogue, Rainbow's End và B. B. Lean: mỗi hãng đều có lợi khi hạ giá áo sơ mi từ 80 USD xuống 70 USD bất kể hãng kia làm gì, nhưng khi cả hai cùng hạ giá, mỗi hãng chỉ lãi 70.000 USD thay vì 72.000 USD. Phần lớn chương bàn cách thoát khỏi thế lưỡng nan: thưởng và phạt, chiến lược ăn miếng trả miếng, các điều kiện để hình phạt có hiệu quả (phát hiện, rõ ràng, chắc chắn, mức độ vừa phải, quan hệ lặp lại), cách các cartel lách luật chống độc quyền, cách cộng đồng tự quản tài nguyên chung theo nghiên cứu của Elinor Ostrom, và hợp tác trong thế giới động vật.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008, nên các ví dụ và số liệu thuộc giai đoạn đó: chương trình truyền hình *Friend or Foe* (đầu thập niên 2000), các phiên đấu giá tần số vô tuyến 1996–1997, nghiên cứu bóng chày dựa trên khác biệt luật giữa hai giải American League và National League. Một số điều đã thay đổi từ đó: Elinor Ostrom, người được nhắc ở mục bi kịch của mảnh đất chung, nhận giải Nobel Kinh tế năm 2009; giải bóng chày nhà nghề Mỹ đã áp dụng luật cầu thủ đánh chỉ định (designated hitter) cho cả hai giải từ năm 2022, nên "thí nghiệm tự nhiên" mà nghiên cứu của Drinen và Bradbury dựa vào không còn tồn tại; cơ quan phúc thẩm giải quyết tranh chấp của WTO bị tê liệt từ cuối năm 2019, làm lời phê phán của hai tác giả về tính thiếu chắc chắn của cơ chế trừng phạt trong WTO càng đúng hơn; và Ủy ban Truyền thông Liên bang Mỹ (FCC) về sau đã thay đổi luật đấu giá để hạn chế việc dùng chữ số cuối của giá thầu làm tín hiệu ngầm. Chương có **18 chú thích chân trang** của tác giả; tất cả đã được đưa vào phần Nội dung chi tiết, ngay chỗ chúng xuất hiện trong sách, dưới dạng khối trích dẫn ghi "Chú thích của tác giả". Hai lỗi nhỏ của sách: tên nhà sinh học viết sai là "Garrett Harding" (đúng là Garrett Hardin); hãng thứ ba trong vụ thông đồng tua-bin viết là "Allied-Chalmers" (tên đúng là Allis-Chalmers). Người đọc cũng nên biết rằng trên đồ thị của trò chơi lớp học Texas A&M, đường "tiền cho mỗi sinh viên viết 2" được vẽ kéo dài tới 1,58 USD ở mức 27 sinh viên viết 1, dù ở mức đó không còn ai viết 2 (bảng số liệu dừng ở 1,54 USD khi 26 người viết 1); đây là cách vẽ cho dễ nhìn, không phải lỗi. Các câu trích là bản dịch của người tổng hợp.
+Dixit và Nalebuff muốn người đọc nhận ra rằng rất nhiều tình huống tưởng như không liên quan (cuộc chiến giá giữa hai cây xăng, hai đảng cùng chạy về trung tâm, nghề cá New England bị khai thác cạn kiệt, người lính không muốn chết trong những ngày cuối chiến tranh) có chung một cấu trúc: mỗi người có động cơ cá nhân làm một việc mà khi tất cả cùng làm thì kết cục xấu cho tất cả.
+
+Ví dụ trung tâm là hai hãng bán quần áo qua catalogue, Rainbow's End và B. B. Lean: mỗi hãng đều có lợi khi hạ giá áo sơ mi từ 80 USD xuống 70 USD bất kể hãng kia làm gì, nhưng khi cả hai cùng hạ giá, mỗi hãng chỉ lãi 70.000 USD thay vì 72.000 USD.
+
+Phần lớn chương bàn cách thoát khỏi thế lưỡng nan: thưởng và phạt, chiến lược ăn miếng trả miếng, các điều kiện để hình phạt có hiệu quả (phát hiện, rõ ràng, chắc chắn, mức độ vừa phải, quan hệ lặp lại), cách các cartel lách luật chống độc quyền, cách cộng đồng tự quản tài nguyên chung theo nghiên cứu của Elinor Ostrom, và hợp tác trong thế giới động vật.
 
 ## Sơ đồ
 
@@ -653,7 +654,9 @@
 
 ### 1. Nhiều bối cảnh, một khái niệm (Many Contexts, One Concept)
 
-Hai tác giả mở chương bằng bốn tình huống và hỏi điểm chung của chúng. Thứ nhất, hai cây xăng ở cùng một ngã tư hay hai siêu thị trong cùng một khu phố đôi khi lao vào chiến tranh giá khốc liệt. Thứ hai, trong các cuộc tổng tuyển cử, cả Đảng Dân chủ lẫn Đảng Cộng hoà Mỹ thường theo chính sách trung dung để kéo cử tri lưng chừng, bỏ mặc cử tri nòng cốt có quan điểm cực tả hoặc cực hữu. Thứ ba, nghề cá New England từng phong phú và năng suất vô song, nhưng suốt thế kỷ qua hết loài này tới loài khác bị khai thác quá mức rồi sụp đổ; cá bơn Đại Tây Dương, cá rô biển, cá tuyết chấm đen và cá bơn đuôi vàng đã bị xếp vào danh sách "tuyệt chủng về mặt thương mại". Thứ tư, gần cuối tiểu thuyết *Catch-22* của Joseph Heller, Thế chiến II gần như đã thắng; Yossarian không muốn là một trong những người chết cuối cùng, vì cái chết đó chẳng thay đổi kết cục. Khi Thiếu tá Danby hỏi "nhưng nếu ai cũng nghĩ như vậy thì sao?", Yossarian đáp rằng khi đó anh càng ngu ngốc nếu nghĩ khác.
+Hai tác giả mở chương bằng bốn tình huống và hỏi điểm chung của chúng. Thứ nhất, hai cây xăng ở cùng một ngã tư hay hai siêu thị trong cùng một khu phố đôi khi lao vào chiến tranh giá khốc liệt. Thứ hai, trong các cuộc tổng tuyển cử, cả Đảng Dân chủ lẫn Đảng Cộng hoà Mỹ thường theo chính sách trung dung để kéo cử tri lưng chừng, bỏ mặc cử tri nòng cốt có quan điểm cực tả hoặc cực hữu.
+
+Thứ ba, nghề cá New England từng phong phú và năng suất vô song, nhưng suốt thế kỷ qua hết loài này tới loài khác bị khai thác quá mức rồi sụp đổ; cá bơn Đại Tây Dương, cá rô biển, cá tuyết chấm đen và cá bơn đuôi vàng đã bị xếp vào danh sách "tuyệt chủng về mặt thương mại". Thứ tư, gần cuối tiểu thuyết *Catch-22* của Joseph Heller, Thế chiến II gần như đã thắng; Yossarian không muốn là một trong những người chết cuối cùng, vì cái chết đó chẳng thay đổi kết cục. Khi Thiếu tá Danby hỏi "nhưng nếu ai cũng nghĩ như vậy thì sao?", Yossarian đáp rằng khi đó anh càng ngu ngốc nếu nghĩ khác.
 
 Đáp án: tất cả đều là thế lưỡng nan của người tù.
 
@@ -661,7 +664,9 @@ Hai tác giả mở chương bằng bốn tình huống và hỏi điểm chung 
 
 Giống cuộc thẩm vấn Dick Hickock và Perry Smith trong *In Cold Blood* (đã kể ở Chương 1), mỗi người có động cơ cá nhân làm một việc mà khi ai cũng làm theo lợi ích riêng thì kết cục xấu cho tất cả. Nếu người kia khai, mình nên khai để tránh mức án đặc biệt nặng dành cho kẻ ngoan cố; nếu người kia im lặng, mình khai sẽ được thoả thuận tốt hơn nhiều. Sức ép này mạnh tới mức cám dỗ khai tồn tại dù hai người có tội thật (như trong *In Cold Blood*) hay vô tội và bị cảnh sát gài bẫy (như trong phim *L.A. Confidential*).
 
-Chiến tranh giá cũng vậy. Nếu cây xăng Nexon bán giá thấp, cây xăng Lunaco nên hạ giá theo để khỏi mất quá nhiều khách; nếu Nexon bán giá cao, Lunaco hạ giá sẽ hút được nhiều khách. Nhưng khi cả hai cùng bán rẻ thì không ai có lãi (dù khách hàng được lợi). Trong chính trị, nếu Đảng Dân chủ đưa ra cương lĩnh hấp dẫn cử tri ở giữa, Đảng Cộng hoà chỉ chiều cử tri nòng cốt thuộc cánh hữu kinh tế và xã hội sẽ mất số cử tri đó và thua; nếu Đảng Dân chủ chỉ chiều cử tri nòng cốt của mình trong các nhóm thiểu số và công đoàn, Đảng Cộng hoà chạy về trung tâm sẽ chiếm được cử tri ở giữa và thắng đậm. Với ngư dân, nếu những người khác đánh bắt dè dặt thì một người đánh bắt nhiều hơn không làm cạn nguồn cá đáng kể; nếu những người khác đánh bắt ồ ạt thì một người tự mình giữ gìn là dại dột. Kết quả là đánh bắt quá mức và tuyệt chủng. Logic của Yossarian cũng là thứ khiến rất khó tiếp tục ủng hộ một cuộc chiến đã thất bại.
+Chiến tranh giá cũng vậy. Nếu cây xăng Nexon bán giá thấp, cây xăng Lunaco nên hạ giá theo để khỏi mất quá nhiều khách; nếu Nexon bán giá cao, Lunaco hạ giá sẽ hút được nhiều khách. Nhưng khi cả hai cùng bán rẻ thì không ai có lãi (dù khách hàng được lợi). Trong chính trị, nếu Đảng Dân chủ đưa ra cương lĩnh hấp dẫn cử tri ở giữa, Đảng Cộng hoà chỉ chiều cử tri nòng cốt thuộc cánh hữu kinh tế và xã hội sẽ mất số cử tri đó và thua; nếu Đảng Dân chủ chỉ chiều cử tri nòng cốt của mình trong các nhóm thiểu số và công đoàn, Đảng Cộng hoà chạy về trung tâm sẽ chiếm được cử tri ở giữa và thắng đậm.
+
+Với ngư dân, nếu những người khác đánh bắt dè dặt thì một người đánh bắt nhiều hơn không làm cạn nguồn cá đáng kể; nếu những người khác đánh bắt ồ ạt thì một người tự mình giữ gìn là dại dột. Kết quả là đánh bắt quá mức và tuyệt chủng. Logic của Yossarian cũng là thứ khiến rất khó tiếp tục ủng hộ một cuộc chiến đã thất bại.
 
 ### 2. Lịch sử của trò chơi (A Little History)
 
@@ -691,7 +696,9 @@ Nếu một hãng hạ xuống 70 USD trong khi hãng kia vẫn giữ 80 USD, h�
 | Hãng hạ giá xuống 70 USD, hãng kia giữ 80 USD | 2.200 / 400 | 50 USD / 60 USD | 110.000 USD / 24.000 USD |
 | Cả hai hạ xuống 70 USD | mỗi hãng 1.400 | 50 USD | mỗi hãng 70.000 USD |
 
-Không thể biểu diễn các kết quả này bằng cây trò chơi như ở Chương 2, vì hai người chơi đi đồng thời: không ai biết người kia đã làm gì hay dự đoán được người kia sẽ phản ứng thế nào. Thay vào đó, mỗi người phải nghĩ xem người kia đang nghĩ gì vào cùng lúc. Điểm xuất phát của "suy nghĩ về suy nghĩ" là liệt kê kết quả của mọi tổ hợp lựa chọn. Mỗi hãng có hai lựa chọn nên có bốn tổ hợp, trình bày dễ nhất dưới dạng bảng hàng và cột giống bảng tính, gọi là bảng trò chơi hay bảng kết quả. Lựa chọn của RE nằm theo hàng, của BB theo cột. Trong mỗi ô có hai con số, là lợi nhuận tính bằng nghìn USD; trong sách, số ở góc dưới bên trái thuộc người chơi theo hàng, số ở góc trên bên phải thuộc người chơi theo cột, và hai con số còn được in hai sắc xám khác nhau cho dễ phân biệt.
+Không thể biểu diễn các kết quả này bằng cây trò chơi như ở Chương 2, vì hai người chơi đi đồng thời: không ai biết người kia đã làm gì hay dự đoán được người kia sẽ phản ứng thế nào. Thay vào đó, mỗi người phải nghĩ xem người kia đang nghĩ gì vào cùng lúc. Điểm xuất phát của "suy nghĩ về suy nghĩ" là liệt kê kết quả của mọi tổ hợp lựa chọn.
+
+Mỗi hãng có hai lựa chọn nên có bốn tổ hợp, trình bày dễ nhất dưới dạng bảng hàng và cột giống bảng tính, gọi là bảng trò chơi hay bảng kết quả. Lựa chọn của RE nằm theo hàng, của BB theo cột. Trong mỗi ô có hai con số, là lợi nhuận tính bằng nghìn USD; trong sách, số ở góc dưới bên trái thuộc người chơi theo hàng, số ở góc trên bên phải thuộc người chơi theo cột, và hai con số còn được in hai sắc xám khác nhau cho dễ phân biệt.
 
 > **Chú thích của tác giả:** Thomas Schelling là người phát minh cách biểu diễn kết quả của cả hai người chơi trong cùng một bảng mà vẫn rõ kết quả nào thuộc ai. Ông khiêm tốn quá mức khi viết rằng nếu có ai hỏi ông từng đóng góp gì cho lý thuyết trò chơi không, ông sẽ trả lời là có, đó là phát minh ra cách ghi kết quả so le trong ma trận. Thực ra Schelling đã phát triển nhiều khái niệm quan trọng nhất của lý thuyết trò chơi: điểm tiêu điểm, độ tin cậy, cam kết, đe doạ và hứa hẹn, điểm bùng phát và nhiều thứ khác. Sách sẽ thường xuyên nhắc tới ông ở các chương sau.
 
@@ -724,7 +731,9 @@ Một hãng tự mình giữ 80 USD thì không đủ, vì hãng đó sẽ thi�
 
 > **Chú thích của tác giả:** Người được lợi từ việc các hãng hạ giá dĩ nhiên là người tiêu dùng, vốn không phải người chơi chủ động trong trò chơi này. Vì vậy xã hội nói chung thường có lợi khi ngăn hai hãng giải được thế lưỡng nan về giá của họ. Đó là vai trò của chính sách chống độc quyền ở Mỹ và các nước khác.
 
-Điều này mở ra nhiều câu hỏi thuộc lý thuyết trò chơi nói chung: điều gì xảy ra nếu chỉ một người chơi có chiến lược trội, hoặc không ai có? Khi lựa chọn tốt nhất của mỗi người phụ thuộc vào điều người kia đang đồng thời chọn, họ có thể nhìn thấu lựa chọn của nhau và đi tới lời giải không? Chương 4 sẽ trả lời bằng khái niệm tổng quát hơn là cân bằng Nash; Chương 3 chỉ tập trung vào bản thân thế lưỡng nan của người tù. Theo thói quen chung, hai chiến lược của mỗi người được gọi là "Hợp tác" (Cooperate) và "Phản bội" (Defect, đôi khi gọi là Cheat, tức gian lận). Phản bội là chiến lược trội của mỗi người, và tổ hợp cả hai cùng Phản bội cho kết quả tệ hơn cho cả hai so với khi cả hai cùng Hợp tác.
+Điều này mở ra nhiều câu hỏi thuộc lý thuyết trò chơi nói chung: điều gì xảy ra nếu chỉ một người chơi có chiến lược trội, hoặc không ai có? Khi lựa chọn tốt nhất của mỗi người phụ thuộc vào điều người kia đang đồng thời chọn, họ có thể nhìn thấu lựa chọn của nhau và đi tới lời giải không?
+
+Chương 4 sẽ trả lời bằng khái niệm tổng quát hơn là cân bằng Nash; Chương 3 chỉ tập trung vào bản thân thế lưỡng nan của người tù. Theo thói quen chung, hai chiến lược của mỗi người được gọi là "Hợp tác" (Cooperate) và "Phản bội" (Defect, đôi khi gọi là Cheat, tức gian lận). Phản bội là chiến lược trội của mỗi người, và tổ hợp cả hai cùng Phản bội cho kết quả tệ hơn cho cả hai so với khi cả hai cùng Hợp tác.
 
 ### 5. Vài ý tưởng ban đầu để giải thế lưỡng nan (Some Preliminary Ideas for Resolving the Dilemma)
 
@@ -732,13 +741,19 @@ Những người bị kẹt trong thế lưỡng nan có động cơ mạnh đ�
 
 Đạt được hợp tác cũng có nghĩa là tránh được phản bội. Có thể khuyến khích người chơi chọn Hợp tác thay vì chiến lược trội ban đầu là Phản bội bằng cách thưởng thích đáng, hoặc răn đe việc phản bội bằng viễn cảnh bị phạt thích đáng.
 
-**Phần thưởng** có nhiều vấn đề. Phần thưởng có thể là nội bộ (một người chơi trả cho người kia để người kia hợp tác) hoặc từ bên ngoài (một bên thứ ba cũng được lợi khi hai người chơi hợp tác trả tiền cho họ). Trong cả hai trường hợp, không thể trao thưởng trước khi người chơi lựa chọn, vì người đó sẽ bỏ túi phần thưởng rồi vẫn phản bội. Còn nếu chỉ hứa thưởng, lời hứa có thể không đáng tin: sau khi người được hứa đã hợp tác, người hứa có thể nuốt lời. Dù vậy, phần thưởng đôi khi khả thi và hữu ích. Ở mức sáng tạo cực đoan, hai người chơi có thể hứa thưởng cho nhau đồng thời và làm cho lời hứa đáng tin bằng cách ký quỹ khoản thưởng vào tài khoản do bên thứ ba quản lý. Thực tế hơn, người chơi thường tương tác trên nhiều mặt, nên hợp tác ở mặt này có thể được đáp lại ở mặt khác: trong các nhóm tinh tinh cái, việc giúp chải lông được đáp lại bằng chia thức ăn hoặc giúp trông con. Đôi khi bên thứ ba có lợi ích đủ lớn trong việc thúc đẩy hợp tác: Mỹ và Liên minh châu Âu nhiều lần hứa viện trợ kinh tế cho các bên xung đột như phần thưởng cho việc giải quyết tranh chấp hoà bình; Mỹ đã thưởng cho Israel và Ai Cập theo cách này vì họ hợp tác ký Hiệp định Trại David năm 1978.
+**Phần thưởng** có nhiều vấn đề. Phần thưởng có thể là nội bộ (một người chơi trả cho người kia để người kia hợp tác) hoặc từ bên ngoài (một bên thứ ba cũng được lợi khi hai người chơi hợp tác trả tiền cho họ). Trong cả hai trường hợp, không thể trao thưởng trước khi người chơi lựa chọn, vì người đó sẽ bỏ túi phần thưởng rồi vẫn phản bội.
+
+Còn nếu chỉ hứa thưởng, lời hứa có thể không đáng tin: sau khi người được hứa đã hợp tác, người hứa có thể nuốt lời. Dù vậy, phần thưởng đôi khi khả thi và hữu ích. Ở mức sáng tạo cực đoan, hai người chơi có thể hứa thưởng cho nhau đồng thời và làm cho lời hứa đáng tin bằng cách ký quỹ khoản thưởng vào tài khoản do bên thứ ba quản lý. Thực tế hơn, người chơi thường tương tác trên nhiều mặt, nên hợp tác ở mặt này có thể được đáp lại ở mặt khác: trong các nhóm tinh tinh cái, việc giúp chải lông được đáp lại bằng chia thức ăn hoặc giúp trông con.
+
+Đôi khi bên thứ ba có lợi ích đủ lớn trong việc thúc đẩy hợp tác: Mỹ và Liên minh châu Âu nhiều lần hứa viện trợ kinh tế cho các bên xung đột như phần thưởng cho việc giải quyết tranh chấp hoà bình; Mỹ đã thưởng cho Israel và Ai Cập theo cách này vì họ hợp tác ký Hiệp định Trại David năm 1978.
 
 **Hình phạt** là cách giải thế lưỡng nan phổ biến hơn. Hình phạt có thể đến ngay: trong một cảnh của phim *L.A. Confidential*, Trung sĩ Ed Exley hứa với nghi phạm Leroy Fontaine rằng nếu làm nhân chứng cho bên công tố, anh ta sẽ bị án nhẹ hơn hai người còn lại là Sugar Ray Coates và Tyrone Jones. Nhưng Leroy biết rằng khi ra tù, bạn bè của hai người kia có thể đang chờ anh ta. Tuy nhiên, hình phạt tự nhiên nhất đến từ việc hầu hết các trò chơi như vậy là một phần của mối quan hệ lâu dài. Gian lận có thể đem lại lợi thế ngắn hạn nhưng làm hỏng quan hệ và gây chi phí dài hạn; nếu chi phí đó đủ lớn, nó răn đe việc gian lận ngay từ đầu.
 
 > **Chú thích của tác giả:** Robert Aumann nhận giải Nobel Kinh tế năm 2005 nhờ công trình then chốt trong việc phát triển lý thuyết tổng quát về hợp tác ngầm trong các trò chơi lặp lại.
 
-Một ví dụ nổi bật đến từ bóng chày. Cầu thủ đánh ở giải American League bị bóng ném trúng người nhiều hơn 11 tới 17% so với đồng nghiệp ở National League. Theo hai giáo sư Doug Drinen và John-Charles Bradbury ở Đại học Sewanee, phần lớn chênh lệch này được giải thích bởi luật cầu thủ đánh chỉ định (designated hitter): ở American League, người ném bóng không phải ra đánh, nên người ném bóng ném trúng đối thủ không phải sợ bị người ném bóng của đội kia ném trả đũa trực tiếp. Người ném bóng vốn hiếm khi bị ném trúng, nhưng khả năng đó tăng gấp bốn lần nếu nửa hiệp trước họ vừa ném trúng ai đó. Nỗi sợ bị trả đũa là rõ ràng. Như người ném bóng hàng đầu Curt Schilling giải thích: anh định ném vào người ta thật khi phải đối mặt với Randy Johnson sao?
+Một ví dụ nổi bật đến từ bóng chày. Cầu thủ đánh ở giải American League bị bóng ném trúng người nhiều hơn 11 tới 17% so với đồng nghiệp ở National League. Theo hai giáo sư Doug Drinen và John-Charles Bradbury ở Đại học Sewanee, phần lớn chênh lệch này được giải thích bởi luật cầu thủ đánh chỉ định (designated hitter): ở American League, người ném bóng không phải ra đánh, nên người ném bóng ném trúng đối thủ không phải sợ bị người ném bóng của đội kia ném trả đũa trực tiếp.
+
+Người ném bóng vốn hiếm khi bị ném trúng, nhưng khả năng đó tăng gấp bốn lần nếu nửa hiệp trước họ vừa ném trúng ai đó. Nỗi sợ bị trả đũa là rõ ràng. Như người ném bóng hàng đầu Curt Schilling giải thích: anh định ném vào người ta thật khi phải đối mặt với Randy Johnson sao?
 
 Khi nghĩ tới chuyện một người chơi trừng phạt người kia vì gian lận trong quá khứ, hầu hết mọi người nghĩ tới một dạng ăn miếng trả miếng. Đó cũng chính là phát hiện của thí nghiệm có lẽ nổi tiếng nhất về thế lưỡng nan của người tù.
 
@@ -814,9 +829,13 @@ Người chơi mùa 1 không được xem kết quả các cặp khác trước 
 
 **Thứ ba,** nếu cùng một cặp chơi lặp lại, họ thường xây dựng được một chuỗi hợp tác dài, cho tới khi một người phản bội gần cuối. Điều này xảy ra ngay trong thí nghiệm đầu tiên: gần như ngay sau khi nghĩ ra trò chơi, Flood và Dresher mời hai đồng nghiệp chơi 100 lượt. Trong 60 lượt, cả hai cùng Hợp tác; một chuỗi hợp tác dài kéo từ lượt 83 tới lượt 98, rồi một người lén Phản bội ở lượt 99.
 
-Theo logic chặt chẽ của lý thuyết trò chơi, điều này lẽ ra không xảy ra. Khi trò chơi lặp đúng 100 lần, nó là một chuỗi trò chơi đồng thời, và có thể áp dụng suy luận ngược. Ở lượt 100 không còn lượt nào sau đó, nên phản bội không thể bị trừng phạt; tính toán chiến lược trội cho thấy cả hai nên Phản bội ở lượt cuối. Khi điều đó đã chắc chắn, lượt 99 thực chất trở thành lượt cuối: dù còn một lượt nữa, phản bội ở lượt 99 sẽ không bị người kia trừng phạt riêng ở lượt 100, vì lựa chọn ở lượt 100 đã định sẵn. Vậy logic chiến lược trội áp dụng cho lượt 99, và cứ lùi dần như thế tới lượt 1. Nhưng trong thực tế, cả trong phòng thí nghiệm lẫn ngoài đời, người chơi dường như bỏ qua logic này và hưởng lợi từ hợp tác. Điều thoạt nhìn có vẻ phi lý trí (rời bỏ chiến lược trội) lại là lựa chọn tốt, miễn là những người khác cũng "phi lý trí" như vậy.
+Theo logic chặt chẽ của lý thuyết trò chơi, điều này lẽ ra không xảy ra. Khi trò chơi lặp đúng 100 lần, nó là một chuỗi trò chơi đồng thời, và có thể áp dụng suy luận ngược. Ở lượt 100 không còn lượt nào sau đó, nên phản bội không thể bị trừng phạt; tính toán chiến lược trội cho thấy cả hai nên Phản bội ở lượt cuối.
 
-Các nhà lý thuyết trò chơi giải thích hiện tượng này như sau. Thế giới có một số "người đáp trả" (reciprocator), những người hợp tác chừng nào người kia còn hợp tác. Giả sử bạn không phải người tử tế như vậy. Nếu bạn hành xử đúng bản chất trong một thế lưỡng nan lặp lại hữu hạn, bạn sẽ gian lận ngay, và như thế là để lộ bản chất. Để che giấu (ít nhất một thời gian), bạn phải cư xử tử tế. Nếu bạn khởi đầu tử tế, người kia, kể cả khi không phải người đáp trả, sẽ nghĩ bạn có thể là một trong số ít người tử tế. Hợp tác một thời gian đem lại lợi ích thật, nên người kia sẽ đáp lại sự tử tế của bạn để hưởng lợi ích đó, và điều này cũng có lợi cho bạn. Dĩ nhiên bạn định lén phản bội gần cuối, người kia cũng vậy, nhưng hai bên vẫn có một giai đoạn đầu hợp tác cùng có lợi. Trong khi mỗi bên chờ lợi dụng bên kia, cả hai cùng hưởng lợi từ sự lừa dối lẫn nhau.
+Khi điều đó đã chắc chắn, lượt 99 thực chất trở thành lượt cuối: dù còn một lượt nữa, phản bội ở lượt 99 sẽ không bị người kia trừng phạt riêng ở lượt 100, vì lựa chọn ở lượt 100 đã định sẵn. Vậy logic chiến lược trội áp dụng cho lượt 99, và cứ lùi dần như thế tới lượt 1. Nhưng trong thực tế, cả trong phòng thí nghiệm lẫn ngoài đời, người chơi dường như bỏ qua logic này và hưởng lợi từ hợp tác. Điều thoạt nhìn có vẻ phi lý trí (rời bỏ chiến lược trội) lại là lựa chọn tốt, miễn là những người khác cũng "phi lý trí" như vậy.
+
+Các nhà lý thuyết trò chơi giải thích hiện tượng này như sau. Thế giới có một số "người đáp trả" (reciprocator), những người hợp tác chừng nào người kia còn hợp tác. Giả sử bạn không phải người tử tế như vậy. Nếu bạn hành xử đúng bản chất trong một thế lưỡng nan lặp lại hữu hạn, bạn sẽ gian lận ngay, và như thế là để lộ bản chất. Để che giấu (ít nhất một thời gian), bạn phải cư xử tử tế.
+
+Nếu bạn khởi đầu tử tế, người kia, kể cả khi không phải người đáp trả, sẽ nghĩ bạn có thể là một trong số ít người tử tế. Hợp tác một thời gian đem lại lợi ích thật, nên người kia sẽ đáp lại sự tử tế của bạn để hưởng lợi ích đó, và điều này cũng có lợi cho bạn. Dĩ nhiên bạn định lén phản bội gần cuối, người kia cũng vậy, nhưng hai bên vẫn có một giai đoạn đầu hợp tác cùng có lợi. Trong khi mỗi bên chờ lợi dụng bên kia, cả hai cùng hưởng lợi từ sự lừa dối lẫn nhau.
 
 ### 8. Thế lưỡng nan nhiều người: trò chơi lớp học Texas A&M và trò chơi đóng góp (thuộc tiểu mục More Recent Experiments)
 
@@ -837,11 +856,15 @@ Trong một số thí nghiệm, thay vì ghép từng cặp, cả nhóm cùng th
 
 **Hình dựng lại từ sách:** đồ thị có trục hoành là số sinh viên viết 1 (từ 0 tới 27) và trục tung là số tiền. Hai đường thẳng song song cùng đi lên: đường "tiền cho mỗi sinh viên viết 2" bắt đầu ở 0,50 USD khi không ai viết 1 và (được kéo dài) tới 1,58 USD ở mức 27; đường "tiền cho mỗi sinh viên viết 1" nằm thấp hơn đúng 0,50 USD và kết thúc ở 1,08 USD khi cả 27 người viết 1.
 
-Trò chơi được "sắp đặt" sao cho người viết 2 (Phản bội) luôn được nhiều hơn người viết 1 (Hợp tác) 50 xu, nhưng càng nhiều người viết 2 thì tổng tiền của cả nhóm càng ít. Giả sử cả 27 người định viết 1, mỗi người sẽ được 1,08 USD. Một người nghĩ tới chuyện lén đổi sang 2: khi đó có 26 người viết 1, mỗi người được 1,04 USD (ít hơn 4 xu), còn người đổi được 1,54 USD (nhiều hơn 46 xu). Điều này đúng bất kể ban đầu có bao nhiêu người định viết 1, nên viết 2 là chiến lược trội. Mỗi người đổi từ 1 sang 2 tăng tiền của mình 46 xu nhưng giảm tiền của mỗi người trong 26 người kia 4 xu, nên cả nhóm mất 0,46 − 26 × 0,04 = −0,58 USD, tức 58 xu. Khi ai cũng ích kỷ, mỗi người chỉ được 50 xu; nếu họ "âm mưu" thành công và hành động như thể tối thiểu hoá phần của riêng mình, mỗi người được 1,08 USD.
+Trò chơi được "sắp đặt" sao cho người viết 2 (Phản bội) luôn được nhiều hơn người viết 1 (Hợp tác) 50 xu, nhưng càng nhiều người viết 2 thì tổng tiền của cả nhóm càng ít. Giả sử cả 27 người định viết 1, mỗi người sẽ được 1,08 USD. Một người nghĩ tới chuyện lén đổi sang 2: khi đó có 26 người viết 1, mỗi người được 1,04 USD (ít hơn 4 xu), còn người đổi được 1,54 USD (nhiều hơn 46 xu).
+
+Điều này đúng bất kể ban đầu có bao nhiêu người định viết 1, nên viết 2 là chiến lược trội. Mỗi người đổi từ 1 sang 2 tăng tiền của mình 46 xu nhưng giảm tiền của mỗi người trong 26 người kia 4 xu, nên cả nhóm mất 0,46 − 26 × 0,04 = −0,58 USD, tức 58 xu. Khi ai cũng ích kỷ, mỗi người chỉ được 50 xu; nếu họ "âm mưu" thành công và hành động như thể tối thiểu hoá phần của riêng mình, mỗi người được 1,08 USD.
 
 Trong các lượt tập, lúc đầu không bàn bạc rồi sau đó có bàn bạc để lập "âm mưu", số sinh viên hợp tác viết 1 dao động từ 3 tới tối đa 14. Ở lượt chơi cuối có giá trị ràng buộc, con số là 4. Tổng tiền trả là 15,82 USD (4 người viết 1 nhận mỗi người 0,16 USD, 23 người viết 2 nhận mỗi người 0,66 USD), ít hơn 13,34 USD so với mức 29,16 USD nếu thông đồng thành công hoàn toàn. Thủ lĩnh âm mưu lẩm bẩm rằng cả đời anh sẽ không bao giờ tin ai nữa; được hỏi anh đã viết gì, anh đáp: "Ồ, tôi viết 2." Hai tác giả bình: Yossarian hẳn sẽ hiểu.
 
-Các thí nghiệm gần đây hơn về thế lưỡng nan nhiều người dùng dạng **trò chơi đóng góp**. Mỗi người chơi được một khoản ban đầu, chẳng hạn 10 USD, và có thể giữ một phần, góp một phần vào quỹ chung. Người làm thí nghiệm nhân đôi quỹ chung rồi chia đều cho mọi người chơi, người góp cũng như người không góp. Giả sử nhóm có bốn người A, B, C và D. Bất kể người khác làm gì, nếu A góp 1 USD, quỹ tăng 2 USD sau khi nhân đôi, nhưng 1,50 USD trong số đó về tay B, C và D, A chỉ nhận 50 xu. Vậy A thiệt khi góp thêm và được lợi khi góp bớt, bất kể người khác góp bao nhiêu: không góp gì là chiến lược trội của A, và của cả B, C, D. Logic này nói rằng mỗi người nên mong làm "kẻ đi xe không trả tiền" (free rider) trên công sức của người khác. Nếu cả bốn dùng chiến lược trội, quỹ chung trống rỗng và mỗi người chỉ giữ 10 USD ban đầu; như hai tác giả viết, khi ai cũng muốn đi xe không trả tiền thì xe buýt nằm trong gara. Nếu ai cũng góp hết, quỹ sau khi nhân đôi là 80 USD và mỗi người được 20 USD. Nhưng mỗi người đều có động cơ cá nhân gian lận thoả thuận đó; đó là thế lưỡng nan của họ.
+Các thí nghiệm gần đây hơn về thế lưỡng nan nhiều người dùng dạng **trò chơi đóng góp**. Mỗi người chơi được một khoản ban đầu, chẳng hạn 10 USD, và có thể giữ một phần, góp một phần vào quỹ chung. Người làm thí nghiệm nhân đôi quỹ chung rồi chia đều cho mọi người chơi, người góp cũng như người không góp. Giả sử nhóm có bốn người A, B, C và D. Bất kể người khác làm gì, nếu A góp 1 USD, quỹ tăng 2 USD sau khi nhân đôi, nhưng 1,50 USD trong số đó về tay B, C và D, A chỉ nhận 50 xu.
+
+Vậy A thiệt khi góp thêm và được lợi khi góp bớt, bất kể người khác góp bao nhiêu: không góp gì là chiến lược trội của A, và của cả B, C, D. Logic này nói rằng mỗi người nên mong làm "kẻ đi xe không trả tiền" (free rider) trên công sức của người khác. Nếu cả bốn dùng chiến lược trội, quỹ chung trống rỗng và mỗi người chỉ giữ 10 USD ban đầu; như hai tác giả viết, khi ai cũng muốn đi xe không trả tiền thì xe buýt nằm trong gara. Nếu ai cũng góp hết, quỹ sau khi nhân đôi là 80 USD và mỗi người được 20 USD. Nhưng mỗi người đều có động cơ cá nhân gian lận thoả thuận đó; đó là thế lưỡng nan của họ.
 
 | Tình huống (bốn người, mỗi người 10 USD) | Quỹ sau nhân đôi | Mỗi người nhận |
 |---|---|---|
@@ -849,23 +872,39 @@ Các thí nghiệm gần đây hơn về thế lưỡng nan nhiều người dù
 | Cả bốn góp hết | 80 USD | 20 USD |
 | A góp thêm 1 USD | quỹ tăng 2 USD | A nhận thêm 0,50 USD nhưng mất 1 USD đã góp |
 
-Trò chơi đóng góp không chỉ là trò lạ trong phòng thí nghiệm hay lý thuyết. Nó diễn ra ngoài đời ở mọi chỗ mà một lợi ích chung có thể đạt được nhờ đóng góp tự nguyện, nhưng không thể loại người không đóng góp khỏi lợi ích đó. Chống lũ ở một ngôi làng hay bảo tồn tài nguyên thiên nhiên là ví dụ: không thể đắp đê hay xây đập sao cho nước lũ chỉ tràn vào ruộng những người không góp công, và không thể không cho người đã dùng quá nhiều khí đốt hay cá trong quá khứ được dùng trong tương lai. Mỗi người bị cám dỗ trốn việc hoặc không đóng góp, mong hưởng thành quả đóng góp của người khác; khi ai cũng nghĩ vậy, tổng đóng góp ít ỏi hoặc bằng không và tất cả cùng chịu thiệt. Những tình huống này phổ biến và lớn tới mức toàn bộ lý thuyết và chính sách xã hội cần hiểu rõ cách giải chúng.
+Trò chơi đóng góp không chỉ là trò lạ trong phòng thí nghiệm hay lý thuyết. Nó diễn ra ngoài đời ở mọi chỗ mà một lợi ích chung có thể đạt được nhờ đóng góp tự nguyện, nhưng không thể loại người không đóng góp khỏi lợi ích đó. Chống lũ ở một ngôi làng hay bảo tồn tài nguyên thiên nhiên là ví dụ: không thể đắp đê hay xây đập sao cho nước lũ chỉ tràn vào ruộng những người không góp công, và không thể không cho người đã dùng quá nhiều khí đốt hay cá trong quá khứ được dùng trong tương lai.
 
-Biến thể có lẽ thú vị nhất cho người chơi cơ hội trừng phạt những ai gian lận "khế ước xã hội" ngầm về hợp tác, nhưng phải tự chịu chi phí. Sau trò chơi đóng góp, người chơi được biết từng người đã góp bao nhiêu. Rồi đến vòng hai, mỗi người có thể giảm tiền của người khác, chịu chi phí (thường là 33 xu) cho mỗi đô la giảm; chẳng hạn A giảm của B 3 USD thì A mất 1 USD. Khoản bị giảm không chia lại cho ai mà trả về quỹ của người làm thí nghiệm. Kết quả cho thấy người ta trừng phạt "kẻ gian lận xã hội" khá nhiều, và viễn cảnh bị phạt làm đóng góp ở vòng đầu tăng mạnh. Trừng phạt dường như là cơ chế hiệu quả để đạt hợp tác có lợi cho cả nhóm. Nhưng việc cá nhân chịu làm điều đó thoạt nhìn đáng ngạc nhiên: trừng phạt người khác bằng chi phí của mình tự nó là một đóng góp cho lợi ích chung và là chiến lược bị trội; nếu nó khiến kẻ gian lận cư xử tốt hơn về sau, lợi ích thuộc về cả nhóm và người trừng phạt chỉ hưởng phần nhỏ của mình. Vậy trừng phạt phải đến từ thứ gì đó khác với tính toán ích kỷ. Quả thật, các thí nghiệm chụp não người chơi bằng PET cho thấy hành động phạt kích hoạt một vùng não gọi là thể vân lưng (dorsal striatum), vùng liên quan tới cảm giác khoái cảm hay thoả mãn. Nói cách khác, người ta thật sự có được lợi ích tâm lý, niềm vui, từ việc trừng phạt kẻ gian lận xã hội. Bản năng như vậy hẳn có gốc rễ sinh học sâu xa và có thể đã được tiến hoá chọn lọc vì đem lại lợi thế.
+Mỗi người bị cám dỗ trốn việc hoặc không đóng góp, mong hưởng thành quả đóng góp của người khác; khi ai cũng nghĩ vậy, tổng đóng góp ít ỏi hoặc bằng không và tất cả cùng chịu thiệt. Những tình huống này phổ biến và lớn tới mức toàn bộ lý thuyết và chính sách xã hội cần hiểu rõ cách giải chúng.
+
+Biến thể có lẽ thú vị nhất cho người chơi cơ hội trừng phạt những ai gian lận "khế ước xã hội" ngầm về hợp tác, nhưng phải tự chịu chi phí. Sau trò chơi đóng góp, người chơi được biết từng người đã góp bao nhiêu. Rồi đến vòng hai, mỗi người có thể giảm tiền của người khác, chịu chi phí (thường là 33 xu) cho mỗi đô la giảm; chẳng hạn A giảm của B 3 USD thì A mất 1 USD. Khoản bị giảm không chia lại cho ai mà trả về quỹ của người làm thí nghiệm.
+
+Kết quả cho thấy người ta trừng phạt "kẻ gian lận xã hội" khá nhiều, và viễn cảnh bị phạt làm đóng góp ở vòng đầu tăng mạnh. Trừng phạt dường như là cơ chế hiệu quả để đạt hợp tác có lợi cho cả nhóm. Nhưng việc cá nhân chịu làm điều đó thoạt nhìn đáng ngạc nhiên: trừng phạt người khác bằng chi phí của mình tự nó là một đóng góp cho lợi ích chung và là chiến lược bị trội; nếu nó khiến kẻ gian lận cư xử tốt hơn về sau, lợi ích thuộc về cả nhóm và người trừng phạt chỉ hưởng phần nhỏ của mình.
+
+Vậy trừng phạt phải đến từ thứ gì đó khác với tính toán ích kỷ. Quả thật, các thí nghiệm chụp não người chơi bằng PET cho thấy hành động phạt kích hoạt một vùng não gọi là thể vân lưng (dorsal striatum), vùng liên quan tới cảm giác khoái cảm hay thoả mãn. Nói cách khác, người ta thật sự có được lợi ích tâm lý, niềm vui, từ việc trừng phạt kẻ gian lận xã hội. Bản năng như vậy hẳn có gốc rễ sinh học sâu xa và có thể đã được tiến hoá chọn lọc vì đem lại lợi thế.
 
 ### 9. Cách đạt được hợp tác (How to Achieve Cooperation)
 
 Các ví dụ và thí nghiệm trên gợi ra một số điều kiện tiên quyết và chiến lược cho hợp tác thành công. Hai tác giả hệ thống hoá thành các yêu cầu mà một cơ chế trừng phạt thành công phải đáp ứng.
 
-**Phát hiện gian lận (Detection of cheating).** Trước khi phạt, phải phát hiện được gian lận. Nếu phát hiện nhanh và chính xác, hình phạt có thể đến ngay và đúng chỗ; điều đó vừa giảm lợi ích vừa tăng chi phí của gian lận, nên tăng cơ hội hợp tác. Chẳng hạn các hãng hàng không liên tục theo dõi giá vé của nhau: nếu American hạ giá vé New York – Chicago, United có thể phản ứng trong chưa đầy năm phút. Nhưng ở chỗ khác, hãng muốn hạ giá có thể làm bí mật với khách hàng, hoặc giấu việc hạ giá trong một thoả thuận phức tạp gồm nhiều mặt như thời hạn giao hàng, chất lượng, bảo hành. Trong trường hợp cực đoan, mỗi hãng chỉ quan sát được doanh số và lợi nhuận của chính mình, vốn phụ thuộc cả vào yếu tố ngẫu nhiên lẫn hành động của hãng khác; doanh số của một hãng có thể giảm vì cầu thất thường chứ không phải vì đối thủ lén hạ giá. Khi đó việc phát hiện và trừng phạt không chỉ chậm mà còn thiếu chính xác, làm tăng cám dỗ gian lận. Cuối cùng, khi có từ ba hãng trở lên, họ không chỉ phải biết có gian lận hay không mà còn phải biết ai gian lận; nếu không, hình phạt không nhắm được vào kẻ có lỗi mà phải dùng biện pháp thô, chẳng hạn phát động chiến tranh giá làm hại tất cả.
+**Phát hiện gian lận (Detection of cheating).** Trước khi phạt, phải phát hiện được gian lận. Nếu phát hiện nhanh và chính xác, hình phạt có thể đến ngay và đúng chỗ; điều đó vừa giảm lợi ích vừa tăng chi phí của gian lận, nên tăng cơ hội hợp tác. Chẳng hạn các hãng hàng không liên tục theo dõi giá vé của nhau: nếu American hạ giá vé New York – Chicago, United có thể phản ứng trong chưa đầy năm phút.
 
-**Bản chất hình phạt (Nature of punishment).** Đôi khi người chơi có sẵn những hành động gây hại cho người khác, dùng được sau khi bị gian lận kể cả trong tương tác một lần. Như trong *L.A. Confidential*, bạn bè của Sugar và Tyrone sẽ trừng phạt Leroy khi anh ta ra tù sau mức án nhẹ nhờ làm nhân chứng. Trong thí nghiệm lớp học Texas A&M, nếu sinh viên phát hiện được ai đã phản bội âm mưu cùng viết 1, họ có thể áp dụng chế tài xã hội như tẩy chay; ít sinh viên dám liều vì thêm 50 xu. Các loại hình phạt khác nảy sinh ngay trong cấu trúc trò chơi, thường vì trò chơi lặp lại và lợi ích gian lận ở một lượt dẫn tới thiệt hại ở các lượt sau. Điều đó có đủ răn đe hay không phụ thuộc vào độ lớn của lợi ích và thiệt hại, và vào tầm quan trọng của tương lai so với hiện tại (xem yêu cầu "Lặp lại" bên dưới).
+Nhưng ở chỗ khác, hãng muốn hạ giá có thể làm bí mật với khách hàng, hoặc giấu việc hạ giá trong một thoả thuận phức tạp gồm nhiều mặt như thời hạn giao hàng, chất lượng, bảo hành. Trong trường hợp cực đoan, mỗi hãng chỉ quan sát được doanh số và lợi nhuận của chính mình, vốn phụ thuộc cả vào yếu tố ngẫu nhiên lẫn hành động của hãng khác; doanh số của một hãng có thể giảm vì cầu thất thường chứ không phải vì đối thủ lén hạ giá.
 
-**Rõ ràng (Clarity).** Ranh giới của hành vi chấp nhận được và hậu quả của gian lận phải rõ đối với kẻ định gian lận. Nếu chúng phức tạp hay khó hiểu, người chơi có thể gian lận do nhầm, hoặc không tính toán được và chơi theo linh cảm. Ví dụ, giả sử Rainbow's End và B. B. Lean chơi trò định giá lặp lại, và RE quyết định sẽ coi BB đã gian lận nếu trung bình chiết khấu lợi nhuận của RE trong 17 tháng gần nhất thấp hơn 10% so với suất sinh lợi thực trung bình của vốn công nghiệp trong cùng kỳ. BB không biết trực tiếp quy tắc này mà phải suy ra từ hành động của RE, và quy tắc trên quá phức tạp để BB đoán ra, nên nó không răn đe được. Một quy tắc như ăn miếng trả miếng thì rất rõ: nếu BB gian lận, ngay lần sau BB sẽ thấy RE hạ giá.
+Khi đó việc phát hiện và trừng phạt không chỉ chậm mà còn thiếu chính xác, làm tăng cám dỗ gian lận. Cuối cùng, khi có từ ba hãng trở lên, họ không chỉ phải biết có gian lận hay không mà còn phải biết ai gian lận; nếu không, hình phạt không nhắm được vào kẻ có lỗi mà phải dùng biện pháp thô, chẳng hạn phát động chiến tranh giá làm hại tất cả.
+
+**Bản chất hình phạt (Nature of punishment).** Đôi khi người chơi có sẵn những hành động gây hại cho người khác, dùng được sau khi bị gian lận kể cả trong tương tác một lần. Như trong *L.A. Confidential*, bạn bè của Sugar và Tyrone sẽ trừng phạt Leroy khi anh ta ra tù sau mức án nhẹ nhờ làm nhân chứng.
+
+Trong thí nghiệm lớp học Texas A&M, nếu sinh viên phát hiện được ai đã phản bội âm mưu cùng viết 1, họ có thể áp dụng chế tài xã hội như tẩy chay; ít sinh viên dám liều vì thêm 50 xu. Các loại hình phạt khác nảy sinh ngay trong cấu trúc trò chơi, thường vì trò chơi lặp lại và lợi ích gian lận ở một lượt dẫn tới thiệt hại ở các lượt sau. Điều đó có đủ răn đe hay không phụ thuộc vào độ lớn của lợi ích và thiệt hại, và vào tầm quan trọng của tương lai so với hiện tại (xem yêu cầu "Lặp lại" bên dưới).
+
+**Rõ ràng (Clarity).** Ranh giới của hành vi chấp nhận được và hậu quả của gian lận phải rõ đối với kẻ định gian lận. Nếu chúng phức tạp hay khó hiểu, người chơi có thể gian lận do nhầm, hoặc không tính toán được và chơi theo linh cảm.
+
+Ví dụ, giả sử Rainbow's End và B. B. Lean chơi trò định giá lặp lại, và RE quyết định sẽ coi BB đã gian lận nếu trung bình chiết khấu lợi nhuận của RE trong 17 tháng gần nhất thấp hơn 10% so với suất sinh lợi thực trung bình của vốn công nghiệp trong cùng kỳ. BB không biết trực tiếp quy tắc này mà phải suy ra từ hành động của RE, và quy tắc trên quá phức tạp để BB đoán ra, nên nó không răn đe được. Một quy tắc như ăn miếng trả miếng thì rất rõ: nếu BB gian lận, ngay lần sau BB sẽ thấy RE hạ giá.
 
 **Chắc chắn (Certainty).** Người chơi phải tin rằng phản bội sẽ bị phạt và hợp tác sẽ được thưởng. Đây là vấn đề lớn của một số thoả thuận quốc tế như tự do hoá thương mại trong Tổ chức Thương mại Thế giới (WTO). Khi một nước khiếu nại nước khác gian lận hiệp định, WTO mở một thủ tục hành chính kéo dài hàng tháng hoặc hàng năm, và phán quyết ít phụ thuộc vào sự thật của vụ việc mà thường phụ thuộc nhiều hơn vào chính trị và ngoại giao quốc tế. Cơ chế thực thi như vậy khó có hiệu quả.
 
-**Mức độ (Size).** Hình phạt nên nặng tới đâu? Có vẻ như không có giới hạn: nếu đủ nặng để răn đe thì không bao giờ phải dùng, vậy cứ đặt thật cao cho chắc. Chẳng hạn WTO có thể quy định thả bom hạt nhân xuống nước nào vi phạm cam kết giữ thuế quan bảo hộ ở mức thấp đã thoả thuận. Người đọc hẳn rùng mình trước đề xuất này, và một phần lý do là ta nghĩ có thể có sai sót khiến điều đó xảy ra thật. Khi có thể có sai sót, như luôn có trong thực tế, mức phạt nên thấp nhất có thể miễn là vẫn răn đe thành công trong phần lớn trường hợp. Thậm chí có thể tối ưu khi tha thứ cho phản bội thỉnh thoảng trong hoàn cảnh cực đoan, chẳng hạn một hãng rõ ràng đang chiến đấu để tồn tại có thể được phép hạ giá đôi chút mà đối thủ không phản ứng.
+**Mức độ (Size).** Hình phạt nên nặng tới đâu? Có vẻ như không có giới hạn: nếu đủ nặng để răn đe thì không bao giờ phải dùng, vậy cứ đặt thật cao cho chắc. Chẳng hạn WTO có thể quy định thả bom hạt nhân xuống nước nào vi phạm cam kết giữ thuế quan bảo hộ ở mức thấp đã thoả thuận. Người đọc hẳn rùng mình trước đề xuất này, và một phần lý do là ta nghĩ có thể có sai sót khiến điều đó xảy ra thật.
+
+Khi có thể có sai sót, như luôn có trong thực tế, mức phạt nên thấp nhất có thể miễn là vẫn răn đe thành công trong phần lớn trường hợp. Thậm chí có thể tối ưu khi tha thứ cho phản bội thỉnh thoảng trong hoàn cảnh cực đoan, chẳng hạn một hãng rõ ràng đang chiến đấu để tồn tại có thể được phép hạ giá đôi chút mà đối thủ không phản ứng.
 
 **Lặp lại (Repetition).** Quay lại trò chơi định giá. Giả sử RE và BB vui vẻ giữ mức giá tốt nhất cho cả hai, 80 USD, năm này qua năm khác. Một năm, ban lãnh đạo RE cân nhắc hạ xuống 70 USD. Họ tính sẽ được thêm 110.000 − 72.000 = 38.000 USD lợi nhuận. Nhưng điều đó có thể làm sụp đổ lòng tin: RE nên dự đoán rằng những năm sau BB cũng sẽ chọn 70 USD và mỗi hãng chỉ lãi 70.000 USD mỗi năm, thay vì 72.000 USD nếu giữ thoả thuận ban đầu. Vậy việc hạ giá sẽ làm RE mất 72.000 − 70.000 = 2.000 USD mỗi năm về sau. Khoản lợi một lần 38.000 USD có đáng để đổi lấy khoản mất 2.000 USD mỗi năm mãi về sau không?
 
@@ -904,7 +943,9 @@ Hai tác giả nhấn mạnh điều này hoàn toàn sai: hành động của m
 
 Khi biết bên kia đã hợp tác, đa số sinh viên vẫn ích kỷ, nhưng nhiều người sẵn sàng đáp lại sự hợp tác dù phải chịu thiệt. Còn khi không được cho biết gì, người ta có thể đoán tỷ lệ sẽ nằm giữa 3% và 16%, nhưng thực tế nó tăng lên 37%. Xét ở một mức nào đó, điều này vô nghĩa: nếu bạn không hợp tác khi biết bên kia đã phản bội, và cũng không hợp tác khi biết bên kia đã hợp tác, thì tại sao bạn lại hợp tác khi không biết bên kia đã làm gì?
 
-Shafir và Tversky gọi đây là "tư duy gần như ma thuật" (quasi-magical thinking): ý nghĩ rằng bằng một hành động nào đó, mình có thể ảnh hưởng tới điều bên kia sẽ làm. Người ta hiểu rằng mình không thể thay đổi điều bên kia đã làm khi đã được cho biết. Nhưng nếu điều đó còn để ngỏ, họ tưởng tượng rằng hành động của mình có thể có ảnh hưởng, hoặc bên kia cũng sẽ dùng cùng chuỗi suy luận và đi tới cùng kết cục. Vì cả hai cùng Hợp tác được ưa thích hơn cả hai cùng Phản bội, họ chọn Hợp tác. Hai tác giả muốn nói rõ rằng logic này hoàn toàn phi logic: điều bạn làm và cách bạn đi tới đó không hề tác động tới suy nghĩ và hành động của bên kia, vì họ phải quyết định mà không đọc được ý nghĩ hay thấy được nước đi của bạn. Tuy vậy, sự thật vẫn là nếu người trong một xã hội có lối tư duy gần như ma thuật này, họ sẽ không rơi vào nhiều thế lưỡng nan và tất cả sẽ được kết quả cao hơn từ tương tác với nhau. Hai tác giả đặt câu hỏi: phải chăng các xã hội loài người cố ý gieo lối nghĩ này vào các thành viên chính vì mục đích đó?
+Shafir và Tversky gọi đây là "tư duy gần như ma thuật" (quasi-magical thinking): ý nghĩ rằng bằng một hành động nào đó, mình có thể ảnh hưởng tới điều bên kia sẽ làm. Người ta hiểu rằng mình không thể thay đổi điều bên kia đã làm khi đã được cho biết. Nhưng nếu điều đó còn để ngỏ, họ tưởng tượng rằng hành động của mình có thể có ảnh hưởng, hoặc bên kia cũng sẽ dùng cùng chuỗi suy luận và đi tới cùng kết cục. Vì cả hai cùng Hợp tác được ưa thích hơn cả hai cùng Phản bội, họ chọn Hợp tác.
+
+Hai tác giả muốn nói rõ rằng logic này hoàn toàn phi logic: điều bạn làm và cách bạn đi tới đó không hề tác động tới suy nghĩ và hành động của bên kia, vì họ phải quyết định mà không đọc được ý nghĩ hay thấy được nước đi của bạn. Tuy vậy, sự thật vẫn là nếu người trong một xã hội có lối tư duy gần như ma thuật này, họ sẽ không rơi vào nhiều thế lưỡng nan và tất cả sẽ được kết quả cao hơn từ tương tác với nhau. Hai tác giả đặt câu hỏi: phải chăng các xã hội loài người cố ý gieo lối nghĩ này vào các thành viên chính vì mục đích đó?
 
 ### 11. Thế lưỡng nan trong kinh doanh (Dilemmas in Business)
 
@@ -937,7 +978,9 @@ Phổ biến hơn, các hãng trong ngành cố đạt và duy trì thoả thu�
 
 ### 12. Bi kịch của mảnh đất chung (Tragedies of the Commons)
 
-Trong các ví dụ đầu chương có những vấn đề như đánh bắt quá mức, nảy sinh vì mỗi người được lợi khi lấy thêm, còn chi phí hành động của họ đổ lên nhiều người khác hoặc thế hệ sau. Nhà sinh học Garrett Hardin (sách viết là Harding) ở Đại học California gọi đó là "bi kịch của mảnh đất chung", với ví dụ gồm cả việc chăn thả quá mức trên đất công ở Anh thế kỷ 15 và 16. Vấn đề trở nên nổi tiếng dưới tên này. Ngày nay nóng lên toàn cầu là ví dụ còn nghiêm trọng hơn: không ai có đủ lợi ích riêng từ việc giảm phát thải carbon, nhưng tất cả sẽ chịu hậu quả nghiêm trọng khi mỗi người theo lợi ích riêng. Đây chỉ là một thế lưỡng nan của người tù nhiều người, giống thế lưỡng nan Yossarian gặp trong *Catch-22* khi phải liều mạng thời chiến. Các xã hội nhận ra cái giá của việc để những thế lưỡng nan này không được giải và tìm cách đạt kết quả tốt hơn. Điều gì quyết định những nỗ lực đó thành công?
+Trong các ví dụ đầu chương có những vấn đề như đánh bắt quá mức, nảy sinh vì mỗi người được lợi khi lấy thêm, còn chi phí hành động của họ đổ lên nhiều người khác hoặc thế hệ sau. Nhà sinh học Garrett Hardin (sách viết là Harding) ở Đại học California gọi đó là "bi kịch của mảnh đất chung", với ví dụ gồm cả việc chăn thả quá mức trên đất công ở Anh thế kỷ 15 và 16. Vấn đề trở nên nổi tiếng dưới tên này.
+
+Ngày nay nóng lên toàn cầu là ví dụ còn nghiêm trọng hơn: không ai có đủ lợi ích riêng từ việc giảm phát thải carbon, nhưng tất cả sẽ chịu hậu quả nghiêm trọng khi mỗi người theo lợi ích riêng. Đây chỉ là một thế lưỡng nan của người tù nhiều người, giống thế lưỡng nan Yossarian gặp trong *Catch-22* khi phải liều mạng thời chiến. Các xã hội nhận ra cái giá của việc để những thế lưỡng nan này không được giải và tìm cách đạt kết quả tốt hơn. Điều gì quyết định những nỗ lực đó thành công?
 
 Nhà khoa học chính trị Elinor Ostrom ở Đại học Indiana cùng cộng sự và học trò đã thực hiện một loạt nghiên cứu tình huống ấn tượng về các nỗ lực giải bi kịch của mảnh đất chung, tức dùng và bảo tồn tài nguyên chung vì lợi ích chung, tránh khai thác quá mức và cạn kiệt nhanh. Họ nghiên cứu cả trường hợp thành công lẫn thất bại và rút ra các điều kiện tiên quyết cho hợp tác.
 
@@ -947,9 +990,13 @@ Nhà khoa học chính trị Elinor Ostrom ở Đại học Indiana cùng cộng
 
 **Thứ hai,** phải có luật rõ ràng về hành động được phép và bị cấm. Các luật này gồm hạn chế về thời gian sử dụng (mùa mở và mùa cấm săn bắt, đánh cá; loại cây được trồng và yêu cầu để đất nghỉ trong một số năm), địa điểm (vị trí cố định hay luân phiên theo quy định cho đánh cá gần bờ), công nghệ (cỡ lưới đánh cá), và cuối cùng là số lượng hay tỷ lệ tài nguyên (lượng gỗ mỗi người được nhặt và mang khỏi rừng).
 
-**Thứ ba,** hệ thống phạt vi phạm phải rõ ràng và mọi bên đều hiểu. Không cần một bộ luật thành văn phức tạp; chuẩn mực chung trong cộng đồng ổn định cũng có thể rõ ràng và hiệu quả như vậy. Chế tài áp dụng cho người phạm luật trải từ khiển trách bằng lời hay tẩy chay xã hội tới phạt tiền, mất quyền trong tương lai, và trong trường hợp cực đoan là giam giữ. Mức nặng của từng loại chế tài cũng có thể điều chỉnh. Một nguyên tắc quan trọng là tăng dần: lần đầu bị nghi gian lận thường chỉ được xử lý bằng cách gặp trực tiếp người vi phạm và đề nghị giải quyết vấn đề; tiền phạt cho lần vi phạm thứ nhất hay thứ hai thấp và chỉ tăng lên nếu vi phạm tiếp diễn hoặc trở nên trắng trợn, nghiêm trọng hơn.
+**Thứ ba,** hệ thống phạt vi phạm phải rõ ràng và mọi bên đều hiểu. Không cần một bộ luật thành văn phức tạp; chuẩn mực chung trong cộng đồng ổn định cũng có thể rõ ràng và hiệu quả như vậy. Chế tài áp dụng cho người phạm luật trải từ khiển trách bằng lời hay tẩy chay xã hội tới phạt tiền, mất quyền trong tương lai, và trong trường hợp cực đoan là giam giữ.
 
-**Thứ tư,** phải có hệ thống phát hiện gian lận tốt. Cách tốt nhất là làm cho việc phát hiện diễn ra tự động trong sinh hoạt bình thường của người chơi. Chẳng hạn một ngư trường có chỗ tốt chỗ xấu có thể luân phiên quyền dùng chỗ tốt; ai được phân chỗ tốt sẽ tự nhận ra nếu có kẻ vi phạm dùng chỗ đó và có động cơ mạnh nhất để báo cho người khác và yêu cầu nhóm áp dụng chế tài. Một ví dụ khác là yêu cầu khai thác rừng hay khu vực chung tương tự phải làm theo nhóm, giúp giám sát lẫn nhau và không cần thuê người canh. Đôi khi luật về điều được phép phải thiết kế dựa trên các cách phát hiện khả thi. Chẳng hạn sản lượng cá của một ngư dân thường khó giám sát chính xác, và ngay cả ngư dân thiện chí cũng khó kiểm soát chính xác, nên luật dựa trên hạn ngạch số lượng cá hiếm khi được dùng. Hạn ngạch số lượng hiệu quả hơn khi số lượng dễ quan sát chính xác, như nước cấp từ hồ chứa hay khai thác lâm sản.
+Mức nặng của từng loại chế tài cũng có thể điều chỉnh. Một nguyên tắc quan trọng là tăng dần: lần đầu bị nghi gian lận thường chỉ được xử lý bằng cách gặp trực tiếp người vi phạm và đề nghị giải quyết vấn đề; tiền phạt cho lần vi phạm thứ nhất hay thứ hai thấp và chỉ tăng lên nếu vi phạm tiếp diễn hoặc trở nên trắng trợn, nghiêm trọng hơn.
+
+**Thứ tư,** phải có hệ thống phát hiện gian lận tốt. Cách tốt nhất là làm cho việc phát hiện diễn ra tự động trong sinh hoạt bình thường của người chơi. Chẳng hạn một ngư trường có chỗ tốt chỗ xấu có thể luân phiên quyền dùng chỗ tốt; ai được phân chỗ tốt sẽ tự nhận ra nếu có kẻ vi phạm dùng chỗ đó và có động cơ mạnh nhất để báo cho người khác và yêu cầu nhóm áp dụng chế tài.
+
+Một ví dụ khác là yêu cầu khai thác rừng hay khu vực chung tương tự phải làm theo nhóm, giúp giám sát lẫn nhau và không cần thuê người canh. Đôi khi luật về điều được phép phải thiết kế dựa trên các cách phát hiện khả thi. Chẳng hạn sản lượng cá của một ngư dân thường khó giám sát chính xác, và ngay cả ngư dân thiện chí cũng khó kiểm soát chính xác, nên luật dựa trên hạn ngạch số lượng cá hiếm khi được dùng. Hạn ngạch số lượng hiệu quả hơn khi số lượng dễ quan sát chính xác, như nước cấp từ hồ chứa hay khai thác lâm sản.
 
 **Thứ năm,** khi thiết kế các loại luật và hệ thống thực thi trên, thông tin sẵn có của những người sẽ dùng tài nguyên đặc biệt có giá trị. Dù sau đó mỗi người có thể bị cám dỗ gian lận, trước đó họ có chung lợi ích thiết kế một hệ thống tốt. Họ có thể tận dụng tốt nhất hiểu biết về tài nguyên và công nghệ khai thác, về khả năng phát hiện các loại vi phạm, và về độ tin cậy của các loại chế tài trong nhóm. Quản lý tập trung từ trên xuống đã được chứng minh là làm sai nhiều điều trong số này và vì vậy hoạt động kém.
 
@@ -961,7 +1008,9 @@ Dù Ostrom và cộng sự nhìn chung lạc quan về khả năng tìm ra giả
 
 Nhà sinh học Anh J. B. S. Haldane từng được hỏi có liều mạng cứu một người khác không, và ông trả lời: vì hơn hai anh em ruột, hoặc hơn tám anh em họ, thì có. Bạn chung một nửa số gen với anh em ruột (trừ sinh đôi cùng trứng) và một phần tám với anh em họ, nên hy sinh như vậy làm tăng số bản sao kỳ vọng của gen bạn được truyền sang thế hệ sau. Hành vi đó rất hợp lý về mặt sinh học và được tiến hoá ưu tiên. Cơ sở thuần tuý di truyền này cho hành vi hợp tác giữa họ hàng gần giải thích sự hợp tác phức tạp đáng kinh ngạc trong tổ kiến và tổ ong.
 
-Ở loài vật, vị tha không có ràng buộc di truyền là hiếm. Nhưng vị tha đáp trả có thể hình thành và tồn tại giữa các thành viên của một nhóm ít chung gen hơn nhiều, nếu tương tác giữa chúng đủ ổn định và lâu dài; các bầy sói săn mồi là ví dụ. Một ví dụ hơi rùng rợn nhưng hấp dẫn: dơi hút máu ở Costa Rica sống thành đàn khoảng một chục con nhưng săn riêng lẻ. Mỗi ngày, có con may mắn, có con không. Con may mắn trở về hốc cây nơi cả đàn sống và có thể chia sẻ may mắn bằng cách ợ ra phần máu đã kiếm được. Một con dơi không có bữa máu trong ba ngày có nguy cơ chết, và các đàn phát triển cơ chế "bảo hiểm" lẫn nhau hiệu quả chống lại rủi ro này qua việc chia sẻ.
+Ở loài vật, vị tha không có ràng buộc di truyền là hiếm. Nhưng vị tha đáp trả có thể hình thành và tồn tại giữa các thành viên của một nhóm ít chung gen hơn nhiều, nếu tương tác giữa chúng đủ ổn định và lâu dài; các bầy sói săn mồi là ví dụ. Một ví dụ hơi rùng rợn nhưng hấp dẫn: dơi hút máu ở Costa Rica sống thành đàn khoảng một chục con nhưng săn riêng lẻ.
+
+Mỗi ngày, có con may mắn, có con không. Con may mắn trở về hốc cây nơi cả đàn sống và có thể chia sẻ may mắn bằng cách ợ ra phần máu đã kiếm được. Một con dơi không có bữa máu trong ba ngày có nguy cơ chết, và các đàn phát triển cơ chế "bảo hiểm" lẫn nhau hiệu quả chống lại rủi ro này qua việc chia sẻ.
 
 Nhà sinh học Gerald Wilkinson ở Đại học Maryland tìm hiểu cơ sở của hành vi này bằng cách gom dơi từ nhiều nơi khác nhau vào cùng một chỗ, rồi có hệ thống không cho một số con có máu và xem con khác có chia cho chúng không. Ông thấy việc chia sẻ chỉ diễn ra khi con dơi sắp chết, không sớm hơn; dơi dường như phân biệt được nhu cầu thật với vận rủi tạm thời. Thú vị hơn, việc chia sẻ chỉ diễn ra giữa những con đã quen nhau từ đàn cũ, và một con dơi có khả năng chia cho con từng giúp mình trong quá khứ cao hơn nhiều. Nói cách khác, dơi nhận ra được từng cá thể và ghi nhớ hành vi quá khứ của chúng để xây dựng một hệ thống vị tha đáp trả hiệu quả.
 
@@ -975,9 +1024,13 @@ Quần đảo Galápagos là quê hương của các loài sẻ Darwin. Đời s
 
 Mỗi đảo có nguồn thức ăn khác nhau, và mỏ chim sẻ phản ánh sự khác biệt đó. Trên đảo Daphne Major, nguồn thức ăn chính là một loài xương rồng, và loài sẻ xương rồng (đúng như tên gọi) đã tiến hoá để có mỏ lý tưởng cho việc lấy phấn và mật hoa xương rồng. Chim không chơi trò chơi với nhau một cách có ý thức, nhưng mỗi thích nghi của mỏ chim có thể xem là chiến lược sống của nó. Chiến lược nào giúp kiếm ăn tốt hơn sẽ dẫn tới sống sót, có lựa chọn bạn đời và nhiều con cháu hơn; mỏ chim sẻ là kết quả kết hợp của chọn lọc tự nhiên và chọn lọc giới tính.
 
-Ngay cả khi mọi thứ có vẻ ổn, di truyền vẫn có những cú bất ngờ. Tục ngữ nói chim dậy sớm bắt được sâu; trên Daphne Major, chim sẻ dậy sớm lấy được mật. Thay vì chờ tới 9 giờ sáng khi hoa xương rồng tự nở, khoảng một chục con sẻ thử một cách mới: cạy hoa ra để lấy trước. Thoạt nhìn, điều này cho chúng lợi thế so với những đối thủ đến muộn. Vấn đề duy nhất là khi cạy hoa, chúng thường cắt đứt đầu nhụy. Theo mô tả của Weiner, đầu nhụy là đỉnh của một ống rỗng nhô lên như chiếc ống hút thẳng và cao ở giữa mỗi bông hoa; khi đầu nhụy bị cắt, hoa bị triệt sản, tế bào sinh dục đực trong phấn hoa không thể tới tế bào sinh dục cái trong hoa, và hoa xương rồng héo mà không ra quả. Khi hoa héo, nguồn thức ăn chính của sẻ xương rồng biến mất. Kết cục có thể dự đoán: không mật, không phấn, không hạt, không quả, rồi không còn sẻ xương rồng. Phải chăng tiến hoá đã dẫn loài sẻ vào một thế lưỡng nan của người tù mà kết cục là tuyệt chủng?
+Ngay cả khi mọi thứ có vẻ ổn, di truyền vẫn có những cú bất ngờ. Tục ngữ nói chim dậy sớm bắt được sâu; trên Daphne Major, chim sẻ dậy sớm lấy được mật. Thay vì chờ tới 9 giờ sáng khi hoa xương rồng tự nở, khoảng một chục con sẻ thử một cách mới: cạy hoa ra để lấy trước. Thoạt nhìn, điều này cho chúng lợi thế so với những đối thủ đến muộn. Vấn đề duy nhất là khi cạy hoa, chúng thường cắt đứt đầu nhụy.
 
-**Thảo luận tình huống (Case Discussion).** Hai tác giả trả lời: chưa hẳn, vì hai lẽ. Thứ nhất, chim sẻ có lãnh thổ, nên những con (và con cháu của chúng) làm hỏng cây xương rồng trong vùng mình có thể là kẻ thua cuộc: giết nguồn thức ăn năm sau của chính khu mình không đáng để đổi lấy thêm một ngụm phấn hôm nay. Vì vậy những con sẻ lệch chuẩn này có vẻ không có lợi thế thích nghi so với những con khác. Thứ hai, kết luận đó thay đổi nếu chiến lược này trở nên phổ biến. Những con sẻ lệch chuẩn sẽ mở rộng phạm vi kiếm ăn, và ngay cả những con biết chờ cũng không cứu được đầu nhụy của cây xương rồng nhà mình. Trong nạn đói chắc chắn sẽ xảy ra sau đó, những con có khả năng sống sót cao nhất là những con khởi đầu ở vị thế mạnh nhất, và ngụm mật thêm có thể tạo nên khác biệt.
+Theo mô tả của Weiner, đầu nhụy là đỉnh của một ống rỗng nhô lên như chiếc ống hút thẳng và cao ở giữa mỗi bông hoa; khi đầu nhụy bị cắt, hoa bị triệt sản, tế bào sinh dục đực trong phấn hoa không thể tới tế bào sinh dục cái trong hoa, và hoa xương rồng héo mà không ra quả. Khi hoa héo, nguồn thức ăn chính của sẻ xương rồng biến mất. Kết cục có thể dự đoán: không mật, không phấn, không hạt, không quả, rồi không còn sẻ xương rồng. Phải chăng tiến hoá đã dẫn loài sẻ vào một thế lưỡng nan của người tù mà kết cục là tuyệt chủng?
+
+**Thảo luận tình huống (Case Discussion).** Hai tác giả trả lời: chưa hẳn, vì hai lẽ. Thứ nhất, chim sẻ có lãnh thổ, nên những con (và con cháu của chúng) làm hỏng cây xương rồng trong vùng mình có thể là kẻ thua cuộc: giết nguồn thức ăn năm sau của chính khu mình không đáng để đổi lấy thêm một ngụm phấn hôm nay. Vì vậy những con sẻ lệch chuẩn này có vẻ không có lợi thế thích nghi so với những con khác.
+
+Thứ hai, kết luận đó thay đổi nếu chiến lược này trở nên phổ biến. Những con sẻ lệch chuẩn sẽ mở rộng phạm vi kiếm ăn, và ngay cả những con biết chờ cũng không cứu được đầu nhụy của cây xương rồng nhà mình. Trong nạn đói chắc chắn sẽ xảy ra sau đó, những con có khả năng sống sót cao nhất là những con khởi đầu ở vị thế mạnh nhất, và ngụm mật thêm có thể tạo nên khác biệt.
 
 Hai tác giả gọi đây là một kiểu thích nghi "ung thư". Nếu nó còn nhỏ, nó có thể tự lụi tàn. Nhưng nếu nó lớn quá mức, nó sẽ thành chiến lược thích nghi nhất trên một con tàu đang chìm. Một khi nó có lợi thế dù chỉ tương đối, cách duy nhất để loại bỏ nó là toàn bộ quần thể biến mất và bắt đầu lại. Khi không còn con sẻ nào trên Daphne Major, sẽ không còn ai cắt đầu nhụy và xương rồng sẽ nở hoa trở lại; khi hai con sẻ may mắn đậu xuống đảo, chúng có cơ hội bắt đầu lại quá trình từ đầu.
 
@@ -985,11 +1038,17 @@ Trò chơi ở đây là họ hàng của thế lưỡng nan của người tù:
 
 > **Chú thích của tác giả:** Có những cách hiểu khác về trò chơi săn hươu của Rousseau; hai tác giả sẽ quay lại trong phần lịch sử của chương sau.
 
-Trong trò săn hươu, nếu mọi người cùng phối hợp bắt con hươu, họ thành công và ai cũng được ăn no. Vấn đề nảy sinh nếu một số thợ săn gặp một con thỏ trên đường. Nếu quá nhiều thợ săn bỏ đi đuổi thỏ, sẽ không còn đủ người bắt hươu, và khi đó ai cũng làm tốt hơn nếu đi đuổi thỏ. Chiến lược tốt nhất là đuổi hươu khi và chỉ khi bạn tin chắc rằng hầu hết mọi người cũng làm như vậy; bạn không có lý do gì để không đuổi hươu, trừ khi không tin vào điều người khác sẽ làm. Kết quả là một trò chơi lòng tin, với hai cách diễn ra: mọi người cùng làm và cuộc sống tốt đẹp; hoặc mỗi người lo thân và cuộc sống "tồi tệ, tàn bạo và ngắn ngủi" (người tổng hợp chú thích: đây là cụm từ của Thomas Hobbes). Đây không phải thế lưỡng nan của người tù kinh điển, nơi mỗi người có động cơ gian lận bất kể người khác làm gì. Ở đây không có động cơ gian lận, chừng nào bạn tin người khác cũng làm như bạn. Nhưng bạn có tin họ được không? Và nếu tin, bạn có tin họ tin bạn không? Hay tin rằng họ tin rằng bạn tin họ? Như Franklin D. Roosevelt từng nói (trong một bối cảnh khác), điều duy nhất ta phải sợ là chính nỗi sợ.
+Trong trò săn hươu, nếu mọi người cùng phối hợp bắt con hươu, họ thành công và ai cũng được ăn no. Vấn đề nảy sinh nếu một số thợ săn gặp một con thỏ trên đường. Nếu quá nhiều thợ săn bỏ đi đuổi thỏ, sẽ không còn đủ người bắt hươu, và khi đó ai cũng làm tốt hơn nếu đi đuổi thỏ. Chiến lược tốt nhất là đuổi hươu khi và chỉ khi bạn tin chắc rằng hầu hết mọi người cũng làm như vậy; bạn không có lý do gì để không đuổi hươu, trừ khi không tin vào điều người khác sẽ làm.
+
+Kết quả là một trò chơi lòng tin, với hai cách diễn ra: mọi người cùng làm và cuộc sống tốt đẹp; hoặc mỗi người lo thân và cuộc sống "tồi tệ, tàn bạo và ngắn ngủi" (người tổng hợp chú thích: đây là cụm từ của Thomas Hobbes). Đây không phải thế lưỡng nan của người tù kinh điển, nơi mỗi người có động cơ gian lận bất kể người khác làm gì. Ở đây không có động cơ gian lận, chừng nào bạn tin người khác cũng làm như bạn. Nhưng bạn có tin họ được không? Và nếu tin, bạn có tin họ tin bạn không? Hay tin rằng họ tin rằng bạn tin họ? Như Franklin D. Roosevelt từng nói (trong một bối cảnh khác), điều duy nhất ta phải sợ là chính nỗi sợ.
 
 Để luyện thêm về thế lưỡng nan của người tù, hai tác giả giới thiệu hai tình huống ở Chương 14: "What Price a Dollar?" và "The King Lear Problem".
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Hai chuỗi nhà thuốc A và B có cửa hàng đối diện nhau trên cùng một con phố, cùng bán một loại thực phẩm chức năng nhập khẩu với giá vốn 200.000 đồng/hộp. Nếu cả hai cùng bán 350.000 đồng, mỗi bên bán 1.000 hộp/tháng và lãi 150 triệu đồng. Nếu một bên hạ xuống 300.000 đồng còn bên kia giữ giá, bên hạ giá bán 2.000 hộp (lãi 200 triệu đồng), bên kia chỉ bán 300 hộp (lãi 45 triệu đồng). Nếu cả hai cùng hạ, mỗi bên bán 1.400 hộp và lãi 140 triệu đồng. Hạ giá là chiến lược trội của mỗi bên (200 triệu hơn 150 triệu khi đối thủ giữ giá; 140 triệu hơn 45 triệu khi đối thủ hạ giá), và kết cục là cả hai cùng lãi 140 triệu thay vì 150 triệu. Nếu quan hệ lặp lại hằng tháng, bên định hạ giá được lợi ngay 50 triệu đồng nhưng mất 10 triệu đồng mỗi tháng sau đó; chỉ sau 5 tháng khoản lợi đã bị bù hết (chưa tính lãi suất), nên cả hai có lý do để không phá giá. Nhưng nếu một chuỗi thứ ba sắp mở cửa hàng ở đầu phố, theo lập luận của Dixit và Nalebuff về thành phần người chơi, cả A lẫn B đều có động cơ phá giá ngay để lấy được gì thì lấy. Còn nếu cả hai cùng tuyên bố "hoàn tiền chênh lệch nếu khách thấy giá rẻ hơn", người hưởng lợi có thể không phải khách hàng mà là chính hai chuỗi, vì khách hàng sẽ báo ngay cho bên kia mỗi khi một bên lén hạ giá.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Hai chuỗi nhà thuốc A và B có cửa hàng đối diện nhau trên cùng một con phố, cùng bán một loại thực phẩm chức năng nhập khẩu với giá vốn 200.000 đồng/hộp. Nếu cả hai cùng bán 350.000 đồng, mỗi bên bán 1.000 hộp/tháng và lãi 150 triệu đồng. Nếu một bên hạ xuống 300.000 đồng còn bên kia giữ giá, bên hạ giá bán 2.000 hộp (lãi 200 triệu đồng), bên kia chỉ bán 300 hộp (lãi 45 triệu đồng).
+
+Nếu cả hai cùng hạ, mỗi bên bán 1.400 hộp và lãi 140 triệu đồng. Hạ giá là chiến lược trội của mỗi bên (200 triệu hơn 150 triệu khi đối thủ giữ giá; 140 triệu hơn 45 triệu khi đối thủ hạ giá), và kết cục là cả hai cùng lãi 140 triệu thay vì 150 triệu. Nếu quan hệ lặp lại hằng tháng, bên định hạ giá được lợi ngay 50 triệu đồng nhưng mất 10 triệu đồng mỗi tháng sau đó; chỉ sau 5 tháng khoản lợi đã bị bù hết (chưa tính lãi suất), nên cả hai có lý do để không phá giá.
+
+Nhưng nếu một chuỗi thứ ba sắp mở cửa hàng ở đầu phố, theo lập luận của Dixit và Nalebuff về thành phần người chơi, cả A lẫn B đều có động cơ phá giá ngay để lấy được gì thì lấy. Còn nếu cả hai cùng tuyên bố "hoàn tiền chênh lệch nếu khách thấy giá rẻ hơn", người hưởng lợi có thể không phải khách hàng mà là chính hai chuỗi, vì khách hàng sẽ báo ngay cho bên kia mỗi khi một bên lén hạ giá.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1117,15 +1176,21 @@ Nhiều sách phổ thông tôn vinh ăn miếng trả miếng như chiến lư�
 
 ### Phần thông đồng cho thấy rõ mặt trái của việc giải thế lưỡng nan
 
-Một điểm tinh tế của chương là hai tác giả không coi hợp tác luôn là tốt. Họ dành một tiểu mục cho cartel và nhấn mạnh rằng luật chống độc quyền cố ý giữ các hãng trong thế lưỡng nan, vì người tiêu dùng là bên được lợi từ chiến tranh giá. Phân tích về cam kết "bằng hoặc thấp hơn giá đối thủ" và điều khoản khách hàng ưu đãi nhất là ví dụ hay về cách lý thuyết trò chơi đảo ngược trực giác. Tuy vậy, chính chú thích về ý kiến phản đối của James Miller cho thấy đây là vấn đề còn tranh cãi: các điều khoản này có thể vừa giúp cartel vừa giúp khách hàng giảm chi phí tìm kiếm, và hiệu ứng ròng tuỳ thị trường. Theo người tổng hợp (sách không bàn điểm này), ở thị trường bán lẻ có nhiều người bán, cam kết hoàn tiền chênh lệch có lẽ ít nguy hiểm hơn điều khoản khách hàng ưu đãi nhất trong hợp đồng giữa doanh nghiệp với nhau.
+Một điểm tinh tế của chương là hai tác giả không coi hợp tác luôn là tốt. Họ dành một tiểu mục cho cartel và nhấn mạnh rằng luật chống độc quyền cố ý giữ các hãng trong thế lưỡng nan, vì người tiêu dùng là bên được lợi từ chiến tranh giá. Phân tích về cam kết "bằng hoặc thấp hơn giá đối thủ" và điều khoản khách hàng ưu đãi nhất là ví dụ hay về cách lý thuyết trò chơi đảo ngược trực giác.
+
+Tuy vậy, chính chú thích về ý kiến phản đối của James Miller cho thấy đây là vấn đề còn tranh cãi: các điều khoản này có thể vừa giúp cartel vừa giúp khách hàng giảm chi phí tìm kiếm, và hiệu ứng ròng tuỳ thị trường. Theo người tổng hợp (sách không bàn điểm này), ở thị trường bán lẻ có nhiều người bán, cam kết hoàn tiền chênh lệch có lẽ ít nguy hiểm hơn điều khoản khách hàng ưu đãi nhất trong hợp đồng giữa doanh nghiệp với nhau.
 
 ### Từ 2008, nhiều diễn biến xác nhận và làm phong phú thêm các luận điểm của chương
 
-Đây là nhận xét của người tổng hợp, không có trong sách. Elinor Ostrom nhận giải Nobel Kinh tế năm 2009, ngay sau khi sách ra đời, cho chính các nghiên cứu về quản trị tài nguyên chung mà chương giới thiệu. Cơ quan phúc thẩm của WTO ngừng hoạt động từ cuối năm 2019 vì thiếu thành viên, làm cơ chế giải quyết tranh chấp càng thiếu "chắc chắn" đúng như lời phê phán của hai tác giả. Các thoả thuận khí hậu sau này (như Hiệp định Paris 2015) chuyển sang mô hình cam kết tự nguyện và minh bạch thay vì trừng phạt, phản ánh đúng khó khăn mà chú thích về quyền tài sản với khí thải CO₂ đã nêu. Luật cầu thủ đánh chỉ định được áp dụng cho cả hai giải bóng chày từ năm 2022, nên ví dụ bóng chày giờ là một ví dụ lịch sử. Và việc các thuật toán định giá tự động lan rộng trong thương mại điện tử đã làm nóng lại câu hỏi về thông đồng ngầm: khi máy theo dõi và phản ứng với giá đối thủ trong vài giây, yêu cầu "phát hiện gian lận" và "trả đũa tức thì" mà hai tác giả mô tả được đáp ứng gần như tự động.
+Đây là nhận xét của người tổng hợp, không có trong sách. Elinor Ostrom nhận giải Nobel Kinh tế năm 2009, ngay sau khi sách ra đời, cho chính các nghiên cứu về quản trị tài nguyên chung mà chương giới thiệu. Cơ quan phúc thẩm của WTO ngừng hoạt động từ cuối năm 2019 vì thiếu thành viên, làm cơ chế giải quyết tranh chấp càng thiếu "chắc chắn" đúng như lời phê phán của hai tác giả. Các thoả thuận khí hậu sau này (như Hiệp định Paris 2015) chuyển sang mô hình cam kết tự nguyện và minh bạch thay vì trừng phạt, phản ánh đúng khó khăn mà chú thích về quyền tài sản với khí thải CO₂ đã nêu.
+
+Luật cầu thủ đánh chỉ định được áp dụng cho cả hai giải bóng chày từ năm 2022, nên ví dụ bóng chày giờ là một ví dụ lịch sử. Và việc các thuật toán định giá tự động lan rộng trong thương mại điện tử đã làm nóng lại câu hỏi về thông đồng ngầm: khi máy theo dõi và phản ứng với giá đối thủ trong vài giây, yêu cầu "phát hiện gian lận" và "trả đũa tức thì" mà hai tác giả mô tả được đáp ứng gần như tự động.
 
 ### Quan điểm trái chiều: không phải tình huống nào trong chương cũng là thế lưỡng nan thuần tuý
 
-Chính hai tác giả thừa nhận trò chơi của sẻ xương rồng gần với săn hươu hơn thế lưỡng nan, và phân biệt hai loại: trong thế lưỡng nan, gian lận luôn có lợi; trong săn hươu, hợp tác có lợi nếu tin được người khác. Sự phân biệt này quan trọng cho chính sách: thế lưỡng nan cần hình phạt hoặc thay đổi kết quả, còn săn hươu chỉ cần xây dựng lòng tin và phối hợp (công bố thông tin, cam kết công khai). Một số học giả cho rằng nhiều vấn đề được gọi là "thế lưỡng nan" (chẳng hạn chính trị trung dung hay một số trường hợp tài nguyên chung) thực chất gần với trò chơi phối hợp hơn. Ví dụ các đảng chạy về trung tâm cũng thường được giải thích bằng mô hình cử tri trung vị (median voter), trong đó việc chạy về trung tâm có thể phản ánh đúng ý muốn của cử tri, không hẳn là kết cục xấu cho tất cả.
+Chính hai tác giả thừa nhận trò chơi của sẻ xương rồng gần với săn hươu hơn thế lưỡng nan, và phân biệt hai loại: trong thế lưỡng nan, gian lận luôn có lợi; trong săn hươu, hợp tác có lợi nếu tin được người khác. Sự phân biệt này quan trọng cho chính sách: thế lưỡng nan cần hình phạt hoặc thay đổi kết quả, còn săn hươu chỉ cần xây dựng lòng tin và phối hợp (công bố thông tin, cam kết công khai).
+
+Một số học giả cho rằng nhiều vấn đề được gọi là "thế lưỡng nan" (chẳng hạn chính trị trung dung hay một số trường hợp tài nguyên chung) thực chất gần với trò chơi phối hợp hơn. Ví dụ các đảng chạy về trung tâm cũng thường được giải thích bằng mô hình cử tri trung vị (median voter), trong đó việc chạy về trung tâm có thể phản ánh đúng ý muốn của cử tri, không hẳn là kết cục xấu cho tất cả.
 
 ### Vận dụng: trước mỗi quyết định có đối thủ, hãy kiểm tra xem mình có đang ở trong thế lưỡng nan không, và điều kiện nào giữ được hợp tác
 
@@ -1133,3 +1198,156 @@ Chính hai tác giả thừa nhận trò chơi của sẻ xương rồng gần v
 - **Trong đầu tư.** Khi phân tích một ngành có ít doanh nghiệp, hãy xem các điều kiện duy trì kỷ luật giá mà chương nêu: số doanh nghiệp, mức minh bạch giá, tăng trưởng hay suy giảm của cầu, nguy cơ có người mới vào. Ngành đang chững lại hoặc sắp có đối thủ lớn gia nhập là ngành dễ nổ ra chiến tranh giá, làm biên lợi nhuận của cả ngành giảm mạnh. Một doanh nghiệp đang vật lộn sống còn có thể là ngòi nổ, nhưng theo lập luận "mức độ" của hai tác giả, đối thủ khôn ngoan đôi khi chọn bỏ qua.
 - **Trong nghề nghiệp.** Phần lớn quan hệ công việc (với đồng nghiệp, đối tác, khách hàng) là trò chơi lặp lại; danh tiếng là "bóng của tương lai" giúp giữ hợp tác. Hãy bắt đầu tử tế, đáp trả khi bị lợi dụng, nhưng đừng để một sự cố đơn lẻ khởi động vòng trả đũa: kiểm tra xem đó là lỗi vô tình hay cố ý trước khi phản ứng, và sẵn sàng làm lành. Khi làm việc nhóm, nhớ tới trò chơi đóng góp: nếu thành quả chia đều mà đóng góp không minh bạch, nhiều người sẽ đi xe không trả tiền; ghi nhận đóng góp cá nhân một cách rõ ràng là cách giảm vấn đề này.
 - **Khi đọc tin chính sách.** Ở Việt Nam, các vấn đề như khai thác thuỷ sản quá mức, ô nhiễm sông chung giữa các địa phương, hay khai thác cát có thể được nhìn qua lăng kính bi kịch của mảnh đất chung; câu hỏi đáng đặt ra là luật có rõ ai được dùng tài nguyên, được làm gì, phạt ra sao và ai phát hiện vi phạm, và cộng đồng sử dụng có được tham gia thiết kế luật hay không. Với các thông tin về doanh nghiệp cùng ngành "bình ổn giá" hay "thống nhất giá sàn", nên nhớ rằng khi các hãng giải được thế lưỡng nan về giá thì người tiêu dùng thường là bên chịu thiệt, và đó là lý do luật cạnh tranh tồn tại.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: sáu nhánh lớn đi theo các mục 1–14 của phần Nội dung chi tiết (cấu trúc và lịch sử thế lưỡng nan với bảng giá áo sơ mi, thưởng phạt và ăn miếng trả miếng, các thí nghiệm, điều kiện để hình phạt có hiệu quả và tư duy gần như ma thuật, thông đồng trong kinh doanh, mảnh đất chung và thế giới động vật), mỗi nhánh ghi quy tắc, thí nghiệm và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: khi mỗi người dùng chiến lược trội của mình thì tất cả cùng thiệt, và hợp tác cần thưởng phạt đáng tin`"]
+  n1["`Mục 1–4 — Cấu trúc, lịch sử và Quy tắc 2`"]
+  n0 --- n1
+  n2["`Cùng một cấu trúc: chiến tranh giá cây xăng, hai đảng chạy về trung tâm, nghề cá New England, Yossarian`"]
+  n1 --- n2
+  n3["`Al Tucker kể câu chuyện người tù năm 1950 cho phần toán của Flood và Dresher ở Rand`"]
+  n1 --- n3
+  n4["`Trò chơi đồng thời biểu diễn bằng bảng kết quả, cách ghi so le do Schelling đặt ra`"]
+  n1 --- n4
+  n5["`Rainbow's End và B. B. Lean: cùng giá 80 USD mỗi hãng lãi 72.000 USD`"]
+  n1 --- n5
+  n6["`Hạ xuống 70 USD khi hãng kia giữ 80 USD được 110.000 USD, hãng kia còn 24.000 USD`"]
+  n1 --- n6
+  n7["`Hạ giá là chiến lược trội của cả hai, kết cục mỗi hãng chỉ lãi 70.000 USD`"]
+  n1 --- n7
+  n8["`Quy tắc 2: nếu có chiến lược trội, hãy dùng nó`"]
+  n1 --- n8
+  n9["`Người tiêu dùng được lợi, nên luật chống độc quyền ngăn các hãng giải thế lưỡng nan về giá`"]
+  n1 --- n9
+  n10["`Mục 5–6 — Thưởng, phạt và ăn miếng trả miếng`"]
+  n0 --- n10
+  n11["`Phần thưởng khó vì trao trước thì bị bỏ túi, hứa sau thì có thể nuốt lời`"]
+  n10 --- n11
+  n12["`Mỹ thưởng Israel và Ai Cập vì ký Hiệp định Trại David năm 1978`"]
+  n10 --- n12
+  n13["`Hình phạt tự nhiên nhất đến từ quan hệ lâu dài, Aumann nhận Nobel 2005 về hợp tác ngầm`"]
+  n10 --- n13
+  n14["`Luật cầu thủ đánh chỉ định khiến cầu thủ American League bị ném trúng nhiều hơn 11–17%`"]
+  n10 --- n14
+  n15["`Ăn miếng trả miếng của Rapoport thắng cả hai giải đấu máy tính của Axelrod`"]
+  n10 --- n15
+  n16["`Bốn phẩm chất theo Axelrod: rõ ràng, tử tế, dễ bị kích động, biết tha thứ`"]
+  n10 --- n16
+  n17["`Chưa từng thắng một trận đối đầu nào nhưng luôn sát nút nên có tổng điểm cao nhất`"]
+  n10 --- n17
+  n18["`Khuyết tật: một sai sót gây vòng trả đũa luân phiên, như mối thù Hatfield và McCoy`"]
+  n10 --- n18
+  n19["`Khỉ tamarin hợp tác bền vững theo kiểu hai miếng mới trả một miếng`"]
+  n10 --- n19
+  n20["`Mục 7–8 — Bằng chứng thí nghiệm`"]
+  n0 --- n20
+  n21["`Friend or Foe: gần một nửa người chơi viết bạn dù viết thù luôn ít nhất bằng`"]
+  n20 --- n21
+  n22["`Quỹ dưới 3.000 USD hay trên 5.000 USD không làm đổi tỷ lệ hợp tác`"]
+  n20 --- n22
+  n23["`Ghép cặp ngẫu nhiên lặp lại thì hợp tác giảm dần nhưng không về 0`"]
+  n20 --- n23
+  n24["`Lặp đúng 100 lượt thì suy luận ngược dẫn tới phản bội từ lượt 1, nhưng người chơi vẫn hợp tác lâu`"]
+  n20 --- n24
+  n25["`Người không tử tế giả làm người đáp trả để hưởng giai đoạn hợp tác rồi lén phản bội gần cuối`"]
+  n20 --- n25
+  n26["`Lớp Texas A và M 27 người: viết 2 luôn hơn viết 1 là 50 xu, chỉ 4 người viết 1 ở lượt thật`"]
+  n20 --- n26
+  n27["`Trò chơi đóng góp: không góp là chiến lược trội, ai cũng muốn đi xe không trả tiền`"]
+  n20 --- n27
+  n28["`Được phép phạt kẻ không góp dù tốn tiền thì đóng góp tăng mạnh, phạt kích hoạt vùng khoái cảm`"]
+  n20 --- n28
+  n29["`Mục 9–10 — Sáu yêu cầu của cơ chế trừng phạt và giải pháp Kant`"]
+  n0 --- n29
+  n30["`Phát hiện gian lận nhanh và chính xác, với ba hãng trở lên phải biết ai gian lận`"]
+  n29 --- n30
+  n31["`Bản chất hình phạt: chế tài xã hội hoặc thiệt hại ở các lượt chơi sau`"]
+  n29 --- n31
+  n32["`Rõ ràng như ăn miếng trả miếng, chắc chắn chứ không như thủ tục kéo dài của WTO`"]
+  n29 --- n32
+  n33["`Mức phạt thấp nhất vẫn đủ răn đe vì luôn có sai sót`"]
+  n29 --- n33
+  n34["`Lặp lại: gian lận lợi 38.000 USD một lần nhưng mất 2.000 USD mỗi năm, hòa vốn ở lãi suất khoảng 5,26%`"]
+  n29 --- n34
+  n35["`Ngành tăng trưởng, nhóm ổn định giữ hợp tác tốt, bùng nổ tạm thời và người mới gia nhập làm nó yếu đi`"]
+  n29 --- n35
+  n36["`Shafir và Tversky: hợp tác 3% khi biết bên kia phản bội, 16% khi biết bên kia hợp tác, 37% khi không biết`"]
+  n29 --- n36
+  n37["`Tư duy gần như ma thuật là phi logic nhưng giúp xã hội tránh nhiều thế lưỡng nan`"]
+  n29 --- n37
+  n38["`Mục 11–12 — Thông đồng trong kinh doanh và bi kịch của mảnh đất chung`"]
+  n0 --- n38
+  n39["`Adam Smith: người cùng nghề gặp nhau hiếm khi không kết thúc bằng âm mưu tăng giá`"]
+  n38 --- n39
+  n40["`Luật Sherman cấm mọi sắp xếp công khai hay ngầm có tác dụng ấn định giá`"]
+  n38 --- n40
+  n41["`ADM và Ajinomoto ấn định giá lysine, lộ vì một người của ADM làm chỉ điểm cho FBI`"]
+  n38 --- n41
+  n42["`GE, Westinghouse, Allis-Chalmers chia gói thầu tua-bin theo chu kỳ mặt trăng`"]
+  n38 --- n42
+  n43["`Thông đồng ngầm: chia thị trường, cam kết bằng giá đối thủ, điều khoản khách hàng ưu đãi nhất`"]
+  n38 --- n43
+  n44["`Cam kết bằng giá đối thủ giao việc phát hiện gian lận cho khách hàng nên giữ giá cao`"]
+  n38 --- n44
+  n45["`Hardin: chăn thả quá mức, đánh bắt quá mức, nóng lên toàn cầu là thế lưỡng nan nhiều người`"]
+  n38 --- n45
+  n46["`Ostrom: luật rõ về thành viên, hành động được phép, chế tài tăng dần, phát hiện tự động, dùng hiểu biết tại chỗ`"]
+  n38 --- n46
+  n47["`Hệ thống quản trị tốt chỉ đối phó với bi kịch tốt hơn chứ không xóa bỏ được nó`"]
+  n38 --- n47
+  n48["`Mục 13–14 — Thế giới động vật và tình huống chim sẻ xương rồng`"]
+  n0 --- n48
+  n49["`Haldane: liều mạng vì hơn hai anh em ruột hoặc hơn tám anh em họ`"]
+  n48 --- n49
+  n50["`Dơi hút máu chia máu cho con sắp chết, chỉ cho con quen và từng giúp mình`"]
+  n48 --- n50
+  n51["`Sẻ Daphne Major cạy hoa xương rồng lấy mật sớm, cắt đầu nhụy và phá nguồn thức ăn năm sau`"]
+  n48 --- n51
+  n52["`Khi ít con làm thì kiểu thích nghi này tự lụi, khi lan rộng nó thành chiến lược tốt nhất trên con tàu đang chìm`"]
+  n48 --- n52
+  n53["`Trò săn hươu của Rousseau là trò chơi lòng tin chứ không có động cơ gian lận bất kể người khác`"]
+  n48 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Theo đuổi lợi ích riêng không tự động dẫn tới kết quả tốt cho cả nhóm`"]
+  n54 --- n55
+  n56["`Hợp tác bền khi gian lận bị phát hiện, hình phạt rõ, chắc chắn, vừa phải và tương lai đủ quan trọng`"]
+  n54 --- n56
+  n57["`Giải được thế lưỡng nan có thể hại người ngoài cuộc, như người tiêu dùng trước cartel`"]
+  n54 --- n57
+  class n0 root
+  class n1,n10,n20,n29,n38,n48,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 3 (Phần I).
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 đã giải các trò chơi tuần tự (sequential game), nơi người chơi đi lần lượt và có thể dùng suy luận ngược (Quy tắc 1: nhìn về phía trước, suy luận ngược lại). Chương 3 bước sang trò chơi đồng thời (simultaneous game), nơi không ai biết người kia đã chọn gì, nên công cụ phải đổi từ cây trò chơi sang bảng kết quả. Hai tác giả bắt đầu bằng loại trò chơi đồng thời đặc biệt và quan trọng nhất: thế lưỡng nan của người tù, trong đó mọi người chơi đều có chiến lược trội, và khi ai cũng dùng chiến lược trội thì tất cả cùng thiệt.
+
+Chương này đưa ra Quy tắc 2 ("Nếu có chiến lược trội, hãy dùng nó"). Chương 4 sẽ trả lời những câu hỏi mà Chương 3 để ngỏ: điều gì xảy ra khi chỉ một người, hoặc không ai, có chiến lược trội, và đưa ra khái niệm tổng quát hơn là cân bằng Nash. Các chương sau của Phần III (đặc biệt Chương 9 về hợp tác và phối hợp) quay lại những cơ chế duy trì hợp tác được giới thiệu ở đây.
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008, nên các ví dụ và số liệu thuộc giai đoạn đó: chương trình truyền hình *Friend or Foe* (đầu thập niên 2000), các phiên đấu giá tần số vô tuyến 1996–1997, nghiên cứu bóng chày dựa trên khác biệt luật giữa hai giải American League và National League.
+- Một số điều đã thay đổi từ đó: Elinor Ostrom, người được nhắc ở mục bi kịch của mảnh đất chung, nhận giải Nobel Kinh tế năm 2009; giải bóng chày nhà nghề Mỹ đã áp dụng luật cầu thủ đánh chỉ định (designated hitter) cho cả hai giải từ năm 2022, nên "thí nghiệm tự nhiên" mà nghiên cứu của Drinen và Bradbury dựa vào không còn tồn tại; cơ quan phúc thẩm giải quyết tranh chấp của WTO bị tê liệt từ cuối năm 2019, làm lời phê phán của hai tác giả về tính thiếu chắc chắn của cơ chế trừng phạt trong WTO càng đúng hơn; và Ủy ban Truyền thông Liên bang Mỹ (FCC) về sau đã thay đổi luật đấu giá để hạn chế việc dùng chữ số cuối của giá thầu làm tín hiệu ngầm.
+- Chương có **18 chú thích chân trang** của tác giả; tất cả đã được đưa vào phần Nội dung chi tiết, ngay chỗ chúng xuất hiện trong sách, dưới dạng khối trích dẫn ghi "Chú thích của tác giả".
+- Hai lỗi nhỏ của sách: tên nhà sinh học viết sai là "Garrett Harding" (đúng là Garrett Hardin); hãng thứ ba trong vụ thông đồng tua-bin viết là "Allied-Chalmers" (tên đúng là Allis-Chalmers).
+- Người đọc cũng nên biết rằng trên đồ thị của trò chơi lớp học Texas A&M, đường "tiền cho mỗi sinh viên viết 2" được vẽ kéo dài tới 1,58 USD ở mức 27 sinh viên viết 1, dù ở mức đó không còn ai viết 2 (bảng số liệu dừng ở 1,54 USD khi 26 người viết 1); đây là cách vẽ cho dễ nhìn, không phải lỗi.
+- Các câu trích là bản dịch của người tổng hợp.
