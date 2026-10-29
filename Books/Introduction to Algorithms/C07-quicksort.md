@@ -1011,7 +1011,7 @@ Mọi biến thể đều giữ lõi của chương — phân hoạch tại ch�
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 7 trên một trang: năm nhánh lớn theo Mục 7.1–7.4 và các bài toán cuối chương 7-1 đến 7-6, mỗi nhánh ghi thủ tục, truy hồi và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt cho người lập trình.
+Toàn cảnh Chương 7 trên một trang: sáu nhánh lớn theo Mục 7.1–7.4, các bài tập và bài toán cuối chương, và ghi chú chương, mỗi nhánh ghi thủ tục, truy hồi và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt cho người lập trình.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1024,103 +1024,121 @@ flowchart LR
   n0 --- n1
   n2["`Chia để trị với việc nặng nằm ở bước chia`"]
   n1 --- n2
-  n3["`Chọn chốt x, phân hoạch A[p..r] thành phần ≤ x và phần lớn hơn x, chốt về đúng vị trí q`"]
+  n3["`Chia: phân hoạch A[p..r] thành A[p..q − 1] ≤ A[q] ≤ A[q + 1..r]`"]
   n2 --- n3
   n4["`Đệ quy hai phía, không cần bước kết hợp – ngược với sắp xếp trộn`"]
   n2 --- n4
-  n5["`Phân hoạch Lomuto: chốt là phần tử cuối A[r]`"]
+  n5["`Phân hoạch Lomuto: chốt x = A[r]`"]
   n1 --- n5
-  n6["`Bốn vùng: ≤ x, lớn hơn x, chưa xét, chốt`"]
+  n6["`Bốn vùng: ≤ x, #gt; x, chưa xét, chốt`"]
   n5 --- n6
   n7["`Bất biến vòng lặp được chứng minh qua khởi tạo, duy trì, kết thúc`"]
   n5 --- n7
-  n8["`PARTITION chạy Θ(n), đúng n − 1 phép so sánh`"]
+  n8["`PARTITION chạy Θ(n), đúng n − 1 phép so sánh, không ổn định`"]
   n5 --- n8
   n9["`Ví dụ chạy tay của sách`"]
   n1 --- n9
   n10["`⟨2, 8, 7, 1, 3, 5, 6, 4⟩ thành ⟨2, 1, 3, 4, 7, 5, 6, 8⟩, trả về q = 4`"]
   n9 --- n10
-  n11["`Mục 7.2 — Hiệu năng phụ thuộc độ cân của phép chia`"]
-  n0 --- n11
-  n12["`Chia lệch tối đa 0 và n − 1 ở mọi tầng`"]
-  n11 --- n12
-  n13["`T(n) = T(n − 1) + Θ(n) = Θ(n²)`"]
+  n11["`Chạy hết QUICKSORT trên mảng này tốn 15 phép so sánh, xấu nhất là 28`"]
+  n9 --- n11
+  n12["`Mục 7.2 — Hiệu năng phụ thuộc độ cân của phép chia`"]
+  n0 --- n12
+  n13["`Chia lệch tối đa 0 và n − 1 ở mọi tầng`"]
   n12 --- n13
-  n14["`Xảy ra cả khi mảng đã sắp xếp sẵn – n = 1.000 tốn khoảng 499.500 phép so sánh`"]
-  n12 --- n14
-  n15["`Chia đôi: T(n) = 2T(n/2) + Θ(n) = Θ(n lg n)`"]
-  n11 --- n15
-  n16["`Mọi tỷ lệ chia cố định đều cho O(n lg n)`"]
-  n11 --- n16
-  n17["`Chia 9:1 với n = 1.000: nhánh dài nhất sâu log₁₀/₉ n ≈ 65,6 tầng, mỗi tầng tốn ≤ cn`"]
-  n16 --- n17
-  n18["`Kể cả 99:1, cây đệ quy vẫn sâu Θ(lg n)`"]
-  n16 --- n18
-  n19["`Chia xấu xen chia tốt vẫn O(n lg n)`"]
-  n11 --- n19
-  n20["`Chi phí lần chia xấu được hấp thụ vào lần chia tốt, chỉ làm hằng số lớn hơn chút`"]
-  n19 --- n20
-  n21["`Khoảng 80% phép phân hoạch trên đầu vào ngẫu nhiên cân hơn 9:1`"]
-  n19 --- n21
-  n22["`Mục 7.3 — Phiên bản ngẫu nhiên`"]
-  n0 --- n22
-  n23["`RANDOMIZED-PARTITION đổi A[r] với A[RANDOM(p, r)] rồi mới phân hoạch`"]
-  n22 --- n23
-  n24["`Không đầu vào cụ thể nào luôn gây ra trường hợp xấu nhất`"]
-  n22 --- n24
-  n25["`Mảng đã sắp xếp ⟨1..8⟩: chốt 8 chỉ bị chọn với xác suất 1/8 ở lần đầu`"]
-  n24 --- n25
-  n26["`Ngẫu nhiên nằm trong thuật toán, không giả định gì về phân phối đầu vào`"]
-  n22 --- n26
-  n27["`Mục 7.4 — Phân tích chặt`"]
-  n0 --- n27
-  n28["`7.4.1 Xấu nhất Θ(n²) bằng phương pháp thế`"]
-  n27 --- n28
-  n29["`T(n) = max theo q của T(q) + T(n − q − 1) + Θ(n), đoán T(n) ≤ cn²`"]
+  n14["`T(n) = T(n − 1) + Θ(n) = Θ(n²)`"]
+  n13 --- n14
+  n15["`Xảy ra cả khi mảng đã sắp xếp sẵn – lúc đó sắp xếp chèn chỉ cần O(n)`"]
+  n13 --- n15
+  n16["`Chia đôi: T(n) = 2T(n/2) + Θ(n) = Θ(n lg n) theo định lý thợ`"]
+  n12 --- n16
+  n17["`Mọi tỷ lệ chia cố định đều cho O(n lg n)`"]
+  n12 --- n17
+  n18["`Chia 9:1: mỗi tầng tốn ≤ cn, cây sâu log₁₀/₉ n = Θ(lg n)`"]
+  n17 --- n18
+  n19["`Kể cả 99:1 vẫn O(n lg n)`"]
+  n17 --- n19
+  n20["`Chia xấu xen chia tốt vẫn O(n lg n)`"]
+  n12 --- n20
+  n21["`Chi phí Θ(n − 1) của lần chia xấu được hấp thụ vào Θ(n) của lần chia tốt`"]
+  n20 --- n21
+  n22["`Khoảng 80% phép phân hoạch trên đầu vào ngẫu nhiên cân hơn 9:1`"]
+  n20 --- n22
+  n23["`Mục 7.3 — Phiên bản ngẫu nhiên`"]
+  n0 --- n23
+  n24["`Giả định mọi hoán vị đồng khả năng thường sai, ví dụ sao kê ngân hàng gần như đã sắp`"]
+  n23 --- n24
+  n25["`RANDOMIZED-PARTITION đổi A[r] với A[RANDOM(p, r)] rồi mới phân hoạch`"]
+  n23 --- n25
+  n26["`Lấy mẫu ngẫu nhiên cho phân tích đơn giản hơn xáo trộn cả đầu vào`"]
+  n23 --- n26
+  n27["`Không đầu vào cụ thể nào luôn gây ra trường hợp xấu nhất`"]
+  n23 --- n27
+  n28["`Mục 7.4 — Phân tích chặt`"]
+  n0 --- n28
+  n29["`7.4.1 Xấu nhất Θ(n²) bằng phương pháp thế`"]
   n28 --- n29
-  n30["`Mấu chốt: q² + (n − q − 1)² ≤ (n − 1)²`"]
-  n28 --- n30
-  n31["`7.4.2 Kỳ vọng O(n lg n) bằng cách đếm phép so sánh X`"]
-  n27 --- n31
-  n32["`Thời gian chạy là O(n + X) – Bổ đề 7.1`"]
-  n31 --- n32
-  n33["`zᵢ gặp zⱼ khi và chỉ khi một trong hai là chốt đầu tiên trong Zᵢⱼ, xác suất 2/(j − i + 1)`"]
-  n31 --- n33
-  n34["`Ví dụ 1..10 với chốt đầu 7: 7 và 9 được so sánh, 2 và 9 không bao giờ`"]
-  n31 --- n34
-  n35["`E[X] = tổng các 2/(j − i + 1) ≤ n · O(lg n) nhờ chuỗi điều hoà`"]
-  n31 --- n35
-  n36["`Chính xác E[X] = 2(n + 1)Hₙ − 4n ≈ 1,39 n lg n`"]
-  n31 --- n36
-  n37["`Cùng cận dưới Ω(n lg n) của Chương 8, kỳ vọng là Θ(n lg n)`"]
-  n27 --- n37
-  n38["`Bài toán 7-1 đến 7-6 — Biến thể thực tế`"]
-  n0 --- n38
-  n39["`7-1 Phân hoạch Hoare gốc: chốt A[p], hai chỉ số đi từ hai đầu, ít đổi chỗ hơn`"]
-  n38 --- n39
-  n40["`7-2 Phần tử bằng nhau làm PARTITION suy biến Θ(n²) – sửa bằng phân hoạch ba vùng`"]
-  n38 --- n40
-  n41["`7-3 Phân tích thay thế qua truy hồi kỳ vọng E[T(n)] vẫn ra Θ(n lg n)`"]
-  n38 --- n41
-  n42["`7-4 Đệ quy đuôi sâu Θ(n) xấu nhất – đệ quy trên phần nhỏ thì ngăn xếp còn Θ(lg n)`"]
-  n38 --- n42
-  n43["`7-5 Chốt trung vị của ba chỉ cải thiện hằng số, không đổi bậc`"]
-  n38 --- n43
-  n44["`7-6 Sắp xếp mờ các khoảng: Θ(n) khi mọi khoảng cùng chứa một điểm`"]
-  n38 --- n44
-  n45["`Thông điệp xuyên suốt`"]
-  n0 --- n45
-  n46["`Phân tích kỳ vọng bằng biến chỉ thị và tuyến tính kỳ vọng thay cho truy hồi nặng`"]
-  n45 --- n46
-  n47["`Không dùng phần tử đầu hay cuối làm chốt cố định – dữ liệu gần sắp xếp rất phổ biến`"]
-  n45 --- n47
-  n48["`Thư viện chuẩn ghép các ý của chương: introsort chuyển sang heapsort khi đệ quy quá sâu`"]
-  n45 --- n48
-  n49["`Quicksort không ổn định – cần ổn định thì dùng sắp xếp trộn hoặc Timsort`"]
-  n45 --- n49
+  n30["`T(n) = max₀≤q≤n−1 (T(q) + T(n − q − 1)) + Θ(n), đoán T(n) ≤ cn²`"]
+  n29 --- n30
+  n31["`Hàm q² + (n − q − 1)² lồi nên đạt max (n − 1)² ở đầu mút`"]
+  n29 --- n31
+  n32["`7.4.2 Kỳ vọng O(n lg n) bằng cách đếm phép so sánh X`"]
+  n28 --- n32
+  n33["`Bổ đề 7.1: thời gian chạy là O(n + X)`"]
+  n32 --- n33
+  n34["`Mỗi cặp so sánh nhiều nhất một lần vì chỉ so với chốt, chốt không dùng lại`"]
+  n32 --- n34
+  n35["`zᵢ gặp zⱼ khi và chỉ khi một trong hai là chốt đầu tiên chọn từ Zᵢⱼ, xác suất 2/(j − i + 1)`"]
+  n32 --- n35
+  n36["`Ví dụ 1..10 với chốt đầu 7: 7 và 9 được so sánh, 2 và 9 không bao giờ`"]
+  n32 --- n36
+  n37["`E[X] = Σᵢ Σⱼ 2/(j − i + 1) #lt; Σᵢ Σₖ 2/k = O(n lg n) nhờ chuỗi điều hoà`"]
+  n32 --- n37
+  n38["`Chính xác E[X] = 2(n + 1)Hₙ − 4n ≈ 1,39 n lg n, với n = 3 là 8/3`"]
+  n32 --- n38
+  n39["`Cùng cận Ω(n lg n) của trường hợp tốt nhất, kỳ vọng là Θ(n lg n)`"]
+  n28 --- n39
+  n40["`Bài tập và bài toán cuối chương`"]
+  n0 --- n40
+  n41["`7.2-3 Mảng giảm dần cũng tốn Θ(n²): chốt luân phiên là min và max`"]
+  n40 --- n41
+  n42["`7.4-5 Dừng ở mảng con dưới k phần tử rồi sắp xếp chèn cả mảng: O(nk + n lg(n/k))`"]
+  n40 --- n42
+  n43["`7.4-6 Chốt trung vị của ba: xác suất chia tốt hơn 9:1 tăng từ 0,8 lên khoảng 0,944`"]
+  n40 --- n43
+  n44["`7-1 Phân hoạch Hoare gốc: chốt A[p], hai chỉ số đi từ hai đầu, chốt nằm trong một phần`"]
+  n40 --- n44
+  n45["`7-2 Phần tử bằng nhau làm PARTITION suy biến Θ(n²) – sửa bằng phân hoạch ba vùng`"]
+  n40 --- n45
+  n46["`7-3 Phân tích thay thế qua truy hồi E[T(n)] = (2/n) Σ E[T(q)] + Θ(n) vẫn ra Θ(n lg n)`"]
+  n40 --- n46
+  n47["`7-4 Đệ quy đuôi sâu Θ(n) xấu nhất – đệ quy trên phần nhỏ hơn thì ngăn xếp còn Θ(lg n)`"]
+  n40 --- n47
+  n48["`7-5 Chốt trung vị của ba chỉ cải thiện hằng số, không đổi bậc`"]
+  n40 --- n48
+  n49["`7-6 Sắp xếp mờ các khoảng: Θ(n lg n) nói chung, Θ(n) khi mọi khoảng cùng chứa một điểm`"]
+  n40 --- n49
+  n50["`Ghi chú chương`"]
+  n0 --- n50
+  n51["`Hoare phát minh quicksort, PARTITION của Mục 7.1 là của N. Lomuto`"]
+  n50 --- n51
+  n52["`Phép phân tích đếm cặp được so sánh là của Avrim Blum`"]
+  n50 --- n52
+  n53["`McIlroy dựng đối thủ sát thủ ép hầu như mọi cài đặt quicksort tốn Θ(n²)`"]
+  n50 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Phân tích kỳ vọng bằng biến chỉ thị và tuyến tính kỳ vọng thay cho truy hồi nặng`"]
+  n54 --- n55
+  n56["`Không dùng phần tử đầu hay cuối làm chốt cố định – dữ liệu gần sắp xếp rất phổ biến`"]
+  n54 --- n56
+  n57["`Thư viện chuẩn ghép các ý của chương: introsort chuyển sang heapsort khi đệ quy quá sâu`"]
+  n54 --- n57
+  n58["`Quicksort không ổn định – cần ổn định thì dùng sắp xếp trộn hoặc Timsort`"]
+  n54 --- n58
   class n0 root
-  class n1,n11,n22,n27,n38,n45 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49 leaf
+  class n1,n12,n23,n28,n40,n50,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n55,n56,n57,n58 leaf
 ```
 
 ## Nguồn

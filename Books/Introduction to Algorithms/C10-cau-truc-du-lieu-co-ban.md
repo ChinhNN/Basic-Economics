@@ -1086,7 +1086,7 @@ Kỹ thuật "phân tích một thuật toán phụ dễ hơn rồi so sánh v�
 
 ## Bản đồ tư duy
 
-Toàn cảnh lời giới thiệu Phần III và Chương 10 trên một trang: sáu nhánh lớn theo lời giới thiệu Phần III, Mục 10.1–10.4 và các bài toán 10-1 đến 10-3, mỗi nhánh ghi cách cài đặt và thời gian của từng phép toán; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh lời giới thiệu Phần III và Chương 10 trên một trang: bảy nhánh lớn theo lời giới thiệu Phần III, Mục 10.1–10.4, các bài tập và bài toán 10-1 đến 10-3, và ghi chú chương, mỗi nhánh ghi cách cài đặt và thời gian của từng phép toán; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1099,87 +1099,107 @@ flowchart LR
   n0 --- n1
   n2["`Tập động lớn lên và thu nhỏ theo thời gian, phần tử có khoá và dữ liệu vệ tinh`"]
   n1 --- n2
-  n3["`Truy vấn SEARCH, MINIMUM, MAXIMUM, SUCCESSOR, PREDECESSOR – sửa đổi INSERT, DELETE`"]
+  n3["`Từ điển chỉ cần INSERT, DELETE, SEARCH – cách cài tốt nhất tuỳ nhóm phép toán cần hỗ trợ`"]
   n1 --- n3
-  n4["`DELETE nhận con trỏ tới phần tử, không nhận khoá – quy ước dùng cho cả Phần III`"]
+  n4["`Truy vấn SEARCH, MINIMUM, MAXIMUM, SUCCESSOR, PREDECESSOR – sửa đổi INSERT, DELETE`"]
   n1 --- n4
-  n5["`Chương 10–14 cài cùng giao diện này với hiệu năng ngày càng tốt`"]
+  n5["`DELETE nhận con trỏ tới phần tử, không nhận khoá – quy ước dùng cho cả Phần III`"]
   n1 --- n5
-  n6["`Mục 10.1 — Ngăn xếp và hàng đợi`"]
-  n0 --- n6
-  n7["`Ngăn xếp LIFO trên mảng S[1..n] với chỉ số S.top`"]
-  n6 --- n7
-  n8["`PUSH tăng top rồi ghi, POP giảm top rồi trả – đều O(1)`"]
+  n6["`Lộ trình: bảng băm O(1) kỳ vọng, cây tìm kiếm O(lg n) kỳ vọng, cây đỏ-đen O(lg n) xấu nhất`"]
+  n1 --- n6
+  n7["`Mục 10.1 — Ngăn xếp và hàng đợi`"]
+  n0 --- n7
+  n8["`Ngăn xếp LIFO trên mảng S[1..n] với chỉ số S.top`"]
   n7 --- n8
-  n9["`Ví dụ ⟨15, 6, 2, 9⟩ qua PUSH 17, PUSH 3, POP trả về 3`"]
-  n7 --- n9
-  n10["`Hàng đợi FIFO trên mảng vòng Q[1..n] với Q.head và Q.tail`"]
-  n6 --- n10
-  n11["`ENQUEUE, DEQUEUE đều O(1), quay về ô 1 sau ô n`"]
-  n10 --- n11
-  n12["`Rỗng khi head = tail, đầy khi head = (tail mod n) + 1, nên chứa tối đa n − 1 phần tử`"]
-  n10 --- n12
-  n13["`Mục 10.2 — Danh sách liên kết đôi`"]
-  n0 --- n13
-  n14["`LIST-SEARCH duyệt tuyến tính, Θ(n) xấu nhất`"]
-  n13 --- n14
-  n15["`LIST-INSERT chèn vào đầu O(1), LIST-DELETE O(1) khi đã có con trỏ`"]
-  n13 --- n15
-  n16["`Xoá theo khoá vẫn Θ(n) vì phải tìm trước`"]
-  n13 --- n16
-  n17["`Lính canh L.nil biến danh sách thành vòng`"]
-  n13 --- n17
-  n18["`LIST-DELETE chỉ còn hai lệnh gán, không xét phần tử đầu hay cuối`"]
-  n17 --- n18
-  n19["`Chỉ giảm hằng số, không giảm bậc, tốn thêm một đối tượng mỗi danh sách`"]
-  n17 --- n19
-  n20["`Mục 10.3 — Tự dựng con trỏ và đối tượng từ mảng`"]
-  n0 --- n20
-  n21["`Biểu diễn nhiều mảng: mỗi thuộc tính một mảng key, next, prev, con trỏ là chỉ số chung`"]
-  n20 --- n21
-  n22["`Biểu diễn một mảng: mỗi đối tượng là một đoạn liên tiếp, thuộc tính là độ lệch`"]
-  n20 --- n22
-  n23["`Danh sách tự do quản lý ô trống như một ngăn xếp`"]
-  n20 --- n23
-  n24["`ALLOCATE-OBJECT là POP, FREE-OBJECT là PUSH – đều O(1)`"]
-  n23 --- n24
-  n25["`Nhiều danh sách và danh sách tự do có thể đan xen trong cùng các mảng`"]
-  n23 --- n25
-  n26["`Mục 10.4 — Biểu diễn cây có gốc`"]
-  n0 --- n26
-  n27["`Cây nhị phân: mỗi nút có ba con trỏ p, left, right`"]
-  n26 --- n27
-  n28["`Số con không giới hạn: con trái nhất – anh em bên phải`"]
-  n26 --- n28
-  n29["`Mỗi nút chỉ cần ba con trỏ, cả cây O(n) bộ nhớ`"]
+  n9["`PUSH tăng top rồi ghi, POP giảm top rồi trả – đều O(1)`"]
+  n8 --- n9
+  n10["`Ví dụ ⟨15, 6, 2, 9⟩ qua PUSH 17, PUSH 3, POP trả về 3 – số 3 vẫn trong mảng nhưng không thuộc ngăn xếp`"]
+  n8 --- n10
+  n11["`Hàng đợi FIFO trên mảng vòng Q[1..n] với Q.head và Q.tail`"]
+  n7 --- n11
+  n12["`ENQUEUE, DEQUEUE đều O(1), quay về ô 1 sau ô n`"]
+  n11 --- n12
+  n13["`Rỗng khi head = tail, chứa tối đa n − 1 phần tử để phân biệt đầy với rỗng`"]
+  n11 --- n13
+  n14["`Điều kiện đầy head = tail + 1 của sách bỏ sót trường hợp head = 1, tail = n`"]
+  n11 --- n14
+  n15["`Mục 10.2 — Danh sách liên kết đôi`"]
+  n0 --- n15
+  n16["`LIST-SEARCH duyệt tuyến tính, Θ(n) xấu nhất`"]
+  n15 --- n16
+  n17["`LIST-INSERT chèn vào đầu O(1), LIST-DELETE O(1) khi đã có con trỏ`"]
+  n15 --- n17
+  n18["`Xoá theo khoá vẫn Θ(n) vì phải tìm trước`"]
+  n15 --- n18
+  n19["`Lính canh L.nil biến danh sách thành vòng`"]
+  n15 --- n19
+  n20["`LIST-DELETE chỉ còn hai lệnh gán, LIST-INSERT không cần lệnh if`"]
+  n19 --- n20
+  n21["`Chỉ giảm hằng số, không giảm bậc – nhiều danh sách nhỏ thì tốn bộ nhớ`"]
+  n19 --- n21
+  n22["`Mục 10.3 — Tự dựng con trỏ và đối tượng từ mảng`"]
+  n0 --- n22
+  n23["`Biểu diễn nhiều mảng: mỗi thuộc tính một mảng key, next, prev, con trỏ là chỉ số chung`"]
+  n22 --- n23
+  n24["`Biểu diễn một mảng: mỗi đối tượng là một đoạn liên tiếp, thuộc tính là độ lệch như bộ nhớ máy thật`"]
+  n22 --- n24
+  n25["`Danh sách tự do quản lý ô trống như một ngăn xếp`"]
+  n22 --- n25
+  n26["`ALLOCATE-OBJECT là POP, FREE-OBJECT là PUSH – đều O(1)`"]
+  n25 --- n26
+  n27["`Ví dụ danh sách tự do 4 → 8 → 6 → 1: cấp phát trả về 4, giải phóng 5 thì 5 thành đầu`"]
+  n25 --- n27
+  n28["`Mục 10.4 — Biểu diễn cây có gốc`"]
+  n0 --- n28
+  n29["`Cây nhị phân: mỗi nút có ba con trỏ p, left, right, gốc ở T.root`"]
   n28 --- n29
-  n30["`Đến cha O(1), liệt kê con tốn thời gian tỷ lệ số con`"]
+  n30["`Số con không giới hạn: con trái nhất – anh em bên phải`"]
   n28 --- n30
-  n31["`Đống của Chương 6 là cây lưu trong mảng không dùng con trỏ`"]
-  n26 --- n31
-  n32["`Bài toán 10-1 đến 10-3`"]
-  n0 --- n32
-  n33["`10-1 So sánh giá các phép toán trên bốn loại danh sách đơn, đôi, có và không sắp xếp`"]
-  n32 --- n33
-  n34["`10-2 Đống gộp được cài bằng danh sách liên kết`"]
-  n32 --- n34
-  n35["`10-3 Danh sách gọn đã sắp xếp: nhảy ngẫu nhiên cho tìm kiếm kỳ vọng O(√n)`"]
-  n32 --- n35
-  n36["`Thời gian O(t + n/t) với mọi t, cân bằng hai vế cho √n`"]
-  n35 --- n36
-  n37["`Thông điệp xuyên suốt`"]
-  n0 --- n37
-  n38["`Chọn cấu trúc theo nhóm phép toán cần hỗ trợ`"]
-  n37 --- n38
-  n39["`Cần tìm theo khoá nhanh thì danh sách không đủ – sang bảng băm hoặc cây tìm kiếm`"]
-  n37 --- n39
-  n40["`Con trỏ chỉ là chỉ số vào bộ nhớ`"]
-  n37 --- n40
-  n41["`Lính canh dùng lại ở nút T.nil của cây đỏ-đen`"]
-  n37 --- n41
+  n31["`Mỗi nút chỉ cần ba con trỏ, cả cây O(n) bộ nhớ`"]
+  n30 --- n31
+  n32["`Đến cha O(1), liệt kê con tốn thời gian tỷ lệ số con`"]
+  n30 --- n32
+  n33["`Cách khác: đống của Chương 6 lưu trong mảng, cây tập rời nhau của Chương 21 chỉ có con trỏ cha`"]
+  n28 --- n33
+  n34["`Bài tập và bài toán cuối chương`"]
+  n0 --- n34
+  n35["`10.1-2 Hai ngăn xếp trong một mảng, một mọc từ đầu, một mọc từ cuối`"]
+  n34 --- n35
+  n36["`10.1-6 Hàng đợi từ hai ngăn xếp: xấu nhất Θ(n) nhưng khấu hao O(1)`"]
+  n34 --- n36
+  n37["`10.2-7 Đảo ngược danh sách liên kết đơn trong Θ(n) với bộ nhớ phụ hằng số`"]
+  n34 --- n37
+  n38["`10.2-8 Danh sách đôi chỉ dùng một con trỏ np = next XOR prev`"]
+  n34 --- n38
+  n39["`10-1 Danh sách sắp xếp, đôi có SUCCESSOR, PREDECESSOR, MINIMUM O(1) nhưng INSERT Θ(n)`"]
+  n34 --- n39
+  n40["`10-2 Đống gộp được bằng danh sách: không sắp xếp và tập rời nhau thì UNION O(1)`"]
+  n34 --- n40
+  n41["`10-3 Danh sách gọn đã sắp xếp: nhảy ngẫu nhiên cho tìm kiếm kỳ vọng O(√n)`"]
+  n34 --- n41
+  n42["`Thời gian O(t + n/t) với mọi t, chọn t = √n`"]
+  n41 --- n42
+  n43["`Khoá trùng nhau thì nhảy ngẫu nhiên không còn giúp, vẫn Θ(n)`"]
+  n41 --- n43
+  n44["`Ghi chú chương`"]
+  n0 --- n44
+  n45["`Turing dùng ngăn xếp để liên kết chương trình con năm 1947`"]
+  n44 --- n45
+  n46["`Con trỏ là phát minh dân gian: A-1 của Hopper năm 1951 biểu diễn biểu thức bằng cây nhị phân, IPL-II năm 1956 đề cao con trỏ`"]
+  n44 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Chọn cấu trúc theo nhóm phép toán cần hỗ trợ`"]
+  n47 --- n48
+  n49["`Cần tìm theo khoá nhanh thì danh sách không đủ – sang bảng băm hoặc cây tìm kiếm`"]
+  n47 --- n49
+  n50["`Con trỏ chỉ là chỉ số vào bộ nhớ`"]
+  n47 --- n50
+  n51["`Lính canh dùng lại ở nút T.nil của cây đỏ-đen`"]
+  n47 --- n51
   class n0 root
-  class n1,n6,n13,n20,n26,n32,n37 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n36,n38,n39,n40,n41 leaf
+  class n1,n7,n15,n22,n28,n34,n44,n47 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n48,n49,n50,n51 leaf
 ```
 
 ## Nguồn

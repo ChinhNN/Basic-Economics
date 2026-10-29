@@ -1505,7 +1505,7 @@ Ngoài ra còn các biến thể sách không nhắc như cuckoo hashing (tìm k
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 11 trên một trang: sáu nhánh lớn theo Mục 11.1–11.2, Mục 11.3, Mục 11.4, Mục 11.5 và các bài toán 11-1 đến 11-4, mỗi nhánh ghi cách làm, định lý và cận thời gian then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 11 trên một trang: bảy nhánh lớn theo Mục 11.1–11.2, Mục 11.3, Mục 11.4, Mục 11.5, các bài tập và bài toán 11-1 đến 11-4, và ghi chú chương, mỗi nhánh ghi cách làm, định lý và cận thời gian then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1518,93 +1518,113 @@ flowchart LR
   n0 --- n1
   n2["`Bảng địa chỉ trực tiếp T[k]: mọi phép toán O(1) xấu nhất nhưng tốn bộ nhớ Θ(|U|)`"]
   n1 --- n2
-  n3["`Bảng băm đặt khoá k ở ô h(k), với m ô nhỏ hơn nhiều so với |U|`"]
+  n3["`Bảng băm đặt khoá k ở ô h(k), bộ nhớ chỉ Θ(|K|) nhưng O(1) là thời gian trung bình`"]
   n1 --- n3
-  n4["`Vì |U| lớn hơn m nên va chạm là không tránh khỏi`"]
+  n4["`Vì |U| #gt; m nên va chạm là không tránh khỏi`"]
   n3 --- n4
-  n5["`Nối chuỗi: mỗi ô trỏ tới một danh sách liên kết đôi, chèn và xoá O(1)`"]
+  n5["`Nối chuỗi: mỗi ô trỏ tới một danh sách liên kết đôi, chèn và xoá O(1) xấu nhất`"]
   n3 --- n5
   n6["`Hệ số tải α = n/m và giả định băm đều đơn giản`"]
   n1 --- n6
-  n7["`Định lý 11.1–11.2: tìm thất bại và tìm thành công đều Θ(1 + α) trung bình`"]
+  n7["`Định lý 11.1: tìm thất bại Θ(1 + α) trung bình`"]
   n6 --- n7
-  n8["`Ví dụ 2000 chuỗi trong m = 701 ô: α ≈ 2,85, tìm thất bại xem khoảng 3 phần tử`"]
+  n8["`Định lý 11.2: tìm thành công xem 1 + α/2 − α/(2n) phần tử, cũng Θ(1 + α)`"]
   n6 --- n8
-  n9["`Mục 11.3 — Hàm băm`"]
-  n0 --- n9
-  n10["`Hàm tốt xấp xỉ băm đều đơn giản, khoá được diễn giải thành số tự nhiên`"]
-  n9 --- n10
-  n11["`Phương pháp chia h(k) = k mod m`"]
-  n9 --- n11
-  n12["`Chọn m nguyên tố, không gần luỹ thừa của 2`"]
-  n11 --- n12
-  n13["`Phương pháp nhân h(k) = ⌊m(kA mod 1)⌋`"]
-  n9 --- n13
-  n14["`m được là luỹ thừa của 2, Knuth gợi ý A ≈ (√5 − 1)/2 ≈ 0,618`"]
-  n13 --- n14
-  n15["`Mục 11.3.3 — Băm phổ quát, có dấu sao`"]
-  n9 --- n15
-  n16["`Mọi hàm cố định đều có n khoá cùng rơi vào một ô`"]
+  n9["`Giữ n = O(m) thì α = O(1) và cả ba phép toán O(1) trung bình`"]
+  n6 --- n9
+  n10["`Mục 11.3 — Hàm băm`"]
+  n0 --- n10
+  n11["`Hàm tốt xấp xỉ băm đều đơn giản, khoá được diễn giải thành số tự nhiên – chuỗi pt là 14452 trong cơ số 128`"]
+  n10 --- n11
+  n12["`Phương pháp chia h(k) = k mod m`"]
+  n10 --- n12
+  n13["`Tránh m = 2ᵖ vì chỉ lấy p bit thấp, chọn m nguyên tố xa luỹ thừa của 2`"]
+  n12 --- n13
+  n14["`Ví dụ 2000 chuỗi, chấp nhận khoảng 3 phần tử mỗi lần tìm thất bại, chọn m = 701`"]
+  n12 --- n14
+  n15["`Phương pháp nhân h(k) = ⌊m(kA mod 1)⌋`"]
+  n10 --- n15
+  n16["`m được là 2ᵖ, cài bằng một phép nhân số nguyên rồi lấy p bit cao của nửa thấp`"]
   n15 --- n16
-  n17["`Chọn h ngẫu nhiên từ lớp mà mọi cặp khoá va chạm với xác suất ≤ 1/m`"]
+  n17["`Knuth gợi ý A ≈ (√5 − 1)/2 – ví dụ k = 123456 cho h(k) = 67`"]
   n15 --- n17
-  n18["`Lớp các hàm ((ak + b) mod p) mod m, p nguyên tố, là phổ quát – Định lý 11.5`"]
-  n15 --- n18
-  n19["`Hệ quả 11.4: n phép toán với O(m) lần chèn tốn Θ(n) kỳ vọng với mọi tập khoá`"]
-  n15 --- n19
-  n20["`Mục 11.4 — Địa chỉ mở`"]
-  n0 --- n20
-  n21["`Mọi phần tử nằm ngay trong bảng, chèn bằng cách dò theo dãy dò riêng của khoá`"]
-  n20 --- n21
-  n22["`Ba cách sinh dãy dò`"]
-  n20 --- n22
-  n23["`Dò tuyến tính bị tụ cụm sơ cấp`"]
-  n22 --- n23
-  n24["`Dò bậc hai bị tụ cụm thứ cấp – cả hai chỉ có m dãy dò`"]
-  n22 --- n24
-  n25["`Băm kép tốt nhất với Θ(m²) dãy dò`"]
-  n22 --- n25
-  n26["`Giả định băm đều cho cận số lần dò`"]
-  n20 --- n26
-  n27["`Định lý 11.6: tìm thất bại ≤ 1/(1 − α) lần dò`"]
-  n26 --- n27
-  n28["`Định lý 11.8: tìm thành công ≤ (1/α) ln(1/(1 − α))`"]
-  n26 --- n28
-  n29["`Đầy 50% cần ≤ 2 và dưới 1,387 lần dò – đầy 90% cần ≤ 10 và dưới 2,559`"]
-  n26 --- n29
-  n30["`Xoá phải ghi DELETED thay NIL, nên khi cần xoá thường dùng nối chuỗi`"]
-  n20 --- n30
-  n31["`Mục 11.5 — Băm hoàn hảo cho tập khoá tĩnh, có dấu sao`"]
-  n0 --- n31
-  n32["`Hai tầng băm phổ quát: tầng một n ô, ô j có bảng phụ cỡ nⱼ²`"]
-  n31 --- n32
-  n33["`Bảng n² ô cho n khoá không va chạm với xác suất lớn hơn 1/2 – nghịch lý ngày sinh`"]
-  n31 --- n33
-  n34["`Tìm kiếm O(1) xấu nhất, tổng bộ nhớ kỳ vọng các bảng phụ dưới 2n`"]
-  n31 --- n34
-  n35["`Ví dụ chín khoá với p = 101 – người tổng hợp phát hiện khoá 40 bị in sai vị trí`"]
-  n31 --- n35
-  n36["`Bài toán 11-1 đến 11-4`"]
-  n0 --- n36
-  n37["`11-1 Địa chỉ mở với n ≤ m/2: dãy dò dài nhất kỳ vọng O(lg n)`"]
-  n36 --- n37
-  n38["`11-2 Nối chuỗi n khoá vào n ô: chuỗi dài nhất kỳ vọng O(lg n / lg lg n)`"]
-  n36 --- n38
-  n39["`11-3 Dò bậc hai với m = 2ᵖ và c₁ = c₂ = 1/2 xét đủ mọi ô`"]
-  n36 --- n39
-  n40["`11-4 Họ 2-phổ quát cho thẻ xác thực mà đối thủ chỉ lừa được với xác suất ≤ 1/p`"]
-  n36 --- n40
-  n41["`Thông điệp xuyên suốt`"]
-  n0 --- n41
-  n42["`Chỉ cần tra theo khoá chính xác thì dùng bảng băm, cần thứ tự thì dùng cây tìm kiếm`"]
-  n41 --- n42
-  n43["`Giữ hệ số tải bị chặn bằng cách nhân đôi bảng – bảng động ở Chương 17`"]
-  n41 --- n43
-  n44["`Đầu vào không tin cậy cần hàm băm có khoá ngẫu nhiên bí mật để chống tấn công`"]
-  n41 --- n44
+  n18["`Mục 11.3.3 — Băm phổ quát, có dấu sao`"]
+  n10 --- n18
+  n19["`Mọi hàm cố định đều có n khoá cùng rơi vào một ô do đối thủ chọn`"]
+  n18 --- n19
+  n20["`Chọn h ngẫu nhiên từ lớp mà mọi cặp khoá va chạm với xác suất ≤ 1/m`"]
+  n18 --- n20
+  n21["`Định lý 11.3: chuỗi chứa k có độ dài kỳ vọng ≤ 1 + α với mọi tập khoá`"]
+  n18 --- n21
+  n22["`Định lý 11.5: lớp h#95;ab(k) = ((ak + b) mod p) mod m có p(p − 1) hàm và là phổ quát`"]
+  n18 --- n22
+  n23["`Mục 11.4 — Địa chỉ mở`"]
+  n0 --- n23
+  n24["`Mọi phần tử nằm ngay trong bảng nên α ≤ 1, chèn bằng cách dò theo dãy dò riêng của khoá`"]
+  n23 --- n24
+  n25["`Ba cách sinh dãy dò`"]
+  n23 --- n25
+  n26["`Dò tuyến tính bị tụ cụm sơ cấp: ô rỗng sau i ô đầy bị lấp với xác suất (i + 1)/m`"]
+  n25 --- n26
+  n27["`Dò bậc hai bị tụ cụm thứ cấp – cả hai chỉ có m dãy dò`"]
+  n25 --- n27
+  n28["`Băm kép có Θ(m²) dãy dò, cần h₂(k) nguyên tố cùng nhau với m`"]
+  n25 --- n28
+  n29["`Giả định băm đều cho cận số lần dò`"]
+  n23 --- n29
+  n30["`Định lý 11.6 và Hệ quả 11.7: tìm thất bại và chèn ≤ 1/(1 − α) lần dò`"]
+  n29 --- n30
+  n31["`Định lý 11.8: tìm thành công ≤ (1/α) ln(1/(1 − α))`"]
+  n29 --- n31
+  n32["`Đầy 50% cần ≤ 2 và #lt; 1,387 lần dò – đầy 90% cần ≤ 10 và #lt; 2,559`"]
+  n29 --- n32
+  n33["`Xoá phải ghi DELETED thay NIL, khi đó thời gian tìm không còn phụ thuộc α`"]
+  n23 --- n33
+  n34["`Mục 11.5 — Băm hoàn hảo cho tập khoá tĩnh, có dấu sao`"]
+  n0 --- n34
+  n35["`Hai tầng băm phổ quát: tầng một n ô, ô j có bảng phụ S#95;j cỡ n#95;j²`"]
+  n34 --- n35
+  n36["`Định lý 11.9: bảng n² ô cho n khoá có va chạm với xác suất #lt; 1/2 – như nghịch lý ngày sinh`"]
+  n34 --- n36
+  n37["`Định lý 11.10: E[Σ n#95;j²] #lt; 2n nên tổng bộ nhớ kỳ vọng O(n)`"]
+  n34 --- n37
+  n38["`Tìm kiếm O(1) xấu nhất, dựng trong thời gian kỳ vọng O(n)`"]
+  n34 --- n38
+  n39["`Ví dụ chín khoá với p = 101, m = 9 – người tổng hợp phát hiện khoá 40 bị in sai vị trí`"]
+  n34 --- n39
+  n40["`Bài tập và bài toán cuối chương`"]
+  n0 --- n40
+  n41["`11.1-4 Địa chỉ trực tiếp trên mảng khổng lồ chưa khởi tạo, dùng ngăn xếp phụ để kiểm tra ô hợp lệ`"]
+  n40 --- n41
+  n42["`11.4-1 Chèn chín khoá vào 11 ô: dò tuyến tính tạo cụm dài, băm kép phân tán tốt nhất`"]
+  n40 --- n42
+  n43["`11-1 Địa chỉ mở với n ≤ m/2: dãy dò dài nhất kỳ vọng O(lg n)`"]
+  n40 --- n43
+  n44["`11-2 Nối chuỗi n khoá vào n ô: chuỗi dài nhất kỳ vọng O(lg n / lg lg n)`"]
+  n40 --- n44
+  n45["`11-3 Dò bậc hai với m = 2ᵖ và c₁ = c₂ = 1/2 xét đủ mọi ô`"]
+  n40 --- n45
+  n46["`11-4 Họ 2-phổ quát cho thẻ xác thực mà đối thủ chỉ lừa được với xác suất ≤ 1/p`"]
+  n40 --- n46
+  n47["`Ghi chú chương`"]
+  n0 --- n47
+  n48["`Luhn phát minh bảng băm và nối chuỗi năm 1953, Amdahl khởi xướng địa chỉ mở`"]
+  n47 --- n48
+  n49["`Carter và Wegman đưa ra băm phổ quát năm 1979`"]
+  n47 --- n49
+  n50["`Fredman, Komlós, Szemerédi dựng băm hoàn hảo cho tập tĩnh, Dietzfelbinger mở rộng cho tập động`"]
+  n47 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Chỉ cần tra theo khoá chính xác thì dùng bảng băm, cần thứ tự thì dùng cây tìm kiếm`"]
+  n51 --- n52
+  n53["`Giữ hệ số tải bị chặn bằng cách nhân đôi bảng – bảng động ở Chương 17`"]
+  n51 --- n53
+  n54["`Đầu vào không tin cậy cần hàm băm chọn ngẫu nhiên để đối thủ không ép được trường hợp xấu nhất`"]
+  n51 --- n54
   class n0 root
-  class n1,n9,n20,n31,n36,n41 branch
-  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n37,n38,n39,n40,n42,n43,n44 leaf
+  class n1,n10,n23,n34,n40,n47,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n48,n49,n50,n52,n53,n54 leaf
 ```
 
 ## Nguồn
@@ -1628,8 +1648,18 @@ Hai chương kế tiếp, Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-ti
 ## Lưu ý
 
 - **Mục có dấu sao (★) trong chương:** Mục 11.3.3 "Universal hashing" (băm phổ quát) và Mục 11.5 "Perfect hashing" (băm hoàn hảo). **Bài tập có dấu sao:** 11.1-4, 11.3-5, 11.3-6, 11.4-4, 11.4-5, 11.5-1. Không bài toán cuối chương (Problem) nào có dấu sao.
-- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương, đã đọc lại từ ảnh trang:** `‚` là Θ, `˛` là α, `TŒ k` là T[k], `/NUL` là dấu trừ, `hW U!f0; ...g` là h : U → {0, …}, các dấu ≤, ≈, ≠, ∉, ⌊ ⌋, √ bị mất (ví dụ `h.k/Dbkmc` là h(k) = ⌊km⌋, `A .p5/NUL 1/=2` là A ≈ (√5 − 1)/2, `PrfX ig` là Pr{X ≥ i}); chữ ℋ (lớp hàm băm) bị trích thành H; các tổng và tích trong chứng minh Định lý 11.2, 11.3, 11.6, 11.8, 11.10, 11.12 và Bài toán 11-2 bị vỡ thành nhiều dòng. Mọi pseudocode, công thức, chứng minh và nội dung Hình 11.1–11.6 trong bản tổng hợp này được đối chiếu với ảnh trang 254, 256–260, 264–268, 270–276, 278–284. Các hình mũi tên (11.1, 11.2, 11.3, 11.5) và hình hai tầng (11.6) không có trong lớp chữ hoặc bị trích lộn xộn; người tổng hợp đọc trên ảnh (phóng to riêng Hình 11.6 trang 278) và tái hiện thành bảng/sơ đồ text.
-- **Lỗi trong Hình 11.6, trang 278 (nhận xét của người tổng hợp, đã tự tính lại):** bảng phụ S₇ có m₇ = 16, a₇ = 23, b₇ = 88 và p = 101. Hình đặt khoá 40 ở ô 7 của S₇. Tính lại: 23 · 40 + 88 = 1008; 1008 mod 101 = 1008 − 909 = 99; 99 mod 16 = 3. Vậy khoá 40 phải nằm ở **ô 3** của S₇, không phải ô 7. Ba khoá còn lại của S₇ khớp với hình: h₇(52) = ((1196 + 88) mod 101) mod 16 = 72 mod 16 = 8; h₇(22) = ((506 + 88) mod 101) mod 16 = 89 mod 16 = 9; h₇(37) = ((851 + 88) mod 101) mod 16 = 30 mod 16 = 14. Kết luận "không có va chạm trong bảng phụ nào" vẫn đúng (các ô 3, 8, 9, 14 khác nhau). Người tổng hợp không chắc lỗi này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
-- **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):** (1) Chú thích cuối trang 279 nói khi n_j = m_j = 1 thì dùng a = b = 0; nhưng lớp ℋ_{p,m_j} đòi a ∈ ℤ*_p, tức a ≠ 0, nên hàm "a = b = 0" về hình thức không thuộc lớp — vô hại vì bảng một ô thì mọi hàm đều trả về 0. (2) Trang 271 viết "cả ba kỹ thuật (dò tuyến tính, dò bậc hai, băm kép) đều bảo đảm dãy dò là một hoán vị của ⟨0, 1, …, m − 1⟩", nhưng chính trang 272 nói dò bậc hai chỉ dùng hết bảng khi c₁, c₂, m bị ràng buộc, và trang 273 nói băm kép cần h₂(k) nguyên tố cùng nhau với m. Câu ở trang 271 cần hiểu là "với tham số được chọn đúng". (3) Trong Hệ quả 11.4, chữ n vừa là số phép toán trong dãy, vừa được dùng trong α = n/m như số khoá đang lưu; lập luận đúng vì số khoá đang lưu không vượt quá số lần INSERT, tức O(m). (4) Trong Bài toán 11-4(d), chữ m vừa là thông điệp (message) vừa là ký hiệu kích thước bảng ở đầu bài toán.
-- **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đúng** (trừ vị trí khoá 40 trong Hình 11.6 nêu ở trên): chuỗi `pt` trong cơ số 128 là 112 · 128 + 116 = 14452; 100 mod 12 = 4; ví dụ phương pháp nhân k = 123456, s = 2654435769 cho k · s = 327706022297664 = 76300 · 2³² + 17612864 và 14 bit cao của r₀ là 67; h₃,₄(8) = ((24 + 4) mod 17) mod 6 = 11 mod 6 = 5; băm kép k = 123456, m = 701, m′ = 700 cho h₁(k) = 80, h₂(k) = 257; Hình 11.5 (khoá 14 dò ô 1, ô 5 rồi vào ô 9); các con số 1,387 và 2,559 của Định lý 11.8 (giá trị đúng là 2 ln 2 ≈ 1,3863 và (10/9) ln 10 ≈ 2,5584); trong Hình 11.6 các giá trị h(75) = 2, h₂(75) = 7 và cách chia chín khoá vào các ô 0, 2, 5, 7 của bảng T.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương, đã đọc lại từ ảnh trang:** `‚` là Θ, `˛` là α, `TŒ k` là T[k], `/NUL` là dấu trừ, `hW U!f0; ...g` là h : U → {0, …}, các dấu ≤, ≈, ≠, ∉, ⌊ ⌋, √ bị mất (ví dụ `h.k/Dbkmc` là h(k) = ⌊km⌋, `A .p5/NUL 1/=2` là A ≈ (√5 − 1)/2, `PrfX ig` là Pr{X ≥ i}); chữ ℋ (lớp hàm băm) bị trích thành H; các tổng và tích trong chứng minh Định lý 11.2, 11.3, 11.6, 11.8, 11.10, 11.12 và Bài toán 11-2 bị vỡ thành nhiều dòng.
+
+  Mọi pseudocode, công thức, chứng minh và nội dung Hình 11.1–11.6 trong bản tổng hợp này được đối chiếu với ảnh trang 254, 256–260, 264–268, 270–276, 278–284. Các hình mũi tên (11.1, 11.2, 11.3, 11.5) và hình hai tầng (11.6) không có trong lớp chữ hoặc bị trích lộn xộn; người tổng hợp đọc trên ảnh (phóng to riêng Hình 11.6 trang 278) và tái hiện thành bảng/sơ đồ text.
+- **Lỗi trong Hình 11.6, trang 278 (nhận xét của người tổng hợp, đã tự tính lại):** bảng phụ S₇ có m₇ = 16, a₇ = 23, b₇ = 88 và p = 101. Hình đặt khoá 40 ở ô 7 của S₇. Tính lại: 23 · 40 + 88 = 1008; 1008 mod 101 = 1008 − 909 = 99; 99 mod 16 = 3. Vậy khoá 40 phải nằm ở **ô 3** của S₇, không phải ô 7.
+
+  Ba khoá còn lại của S₇ khớp với hình: h₇(52) = ((1196 + 88) mod 101) mod 16 = 72 mod 16 = 8; h₇(22) = ((506 + 88) mod 101) mod 16 = 89 mod 16 = 9; h₇(37) = ((851 + 88) mod 101) mod 16 = 30 mod 16 = 14. Kết luận "không có va chạm trong bảng phụ nào" vẫn đúng (các ô 3, 8, 9, 14 khác nhau). Người tổng hợp không chắc lỗi này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):** (1) Chú thích cuối trang 279 nói khi n_j = m_j = 1 thì dùng a = b = 0; nhưng lớp ℋ_{p,m_j} đòi a ∈ ℤ*_p, tức a ≠ 0, nên hàm "a = b = 0" về hình thức không thuộc lớp — vô hại vì bảng một ô thì mọi hàm đều trả về 0.
+
+  (2) Trang 271 viết "cả ba kỹ thuật (dò tuyến tính, dò bậc hai, băm kép) đều bảo đảm dãy dò là một hoán vị của ⟨0, 1, …, m − 1⟩", nhưng chính trang 272 nói dò bậc hai chỉ dùng hết bảng khi c₁, c₂, m bị ràng buộc, và trang 273 nói băm kép cần h₂(k) nguyên tố cùng nhau với m. Câu ở trang 271 cần hiểu là "với tham số được chọn đúng".
+
+  (3) Trong Hệ quả 11.4, chữ n vừa là số phép toán trong dãy, vừa được dùng trong α = n/m như số khoá đang lưu; lập luận đúng vì số khoá đang lưu không vượt quá số lần INSERT, tức O(m). (4) Trong Bài toán 11-4(d), chữ m vừa là thông điệp (message) vừa là ký hiệu kích thước bảng ở đầu bài toán.
+- **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đúng** (trừ vị trí khoá 40 trong Hình 11.6 nêu ở trên): chuỗi `pt` trong cơ số 128 là 112 · 128 + 116 = 14452; 100 mod 12 = 4; ví dụ phương pháp nhân k = 123456, s = 2654435769 cho k · s = 327706022297664 = 76300 · 2³² + 17612864 và 14 bit cao của r₀ là 67; h₃,₄(8) = ((24 + 4) mod 17) mod 6 = 11 mod 6 = 5.
+
+  Băm kép k = 123456, m = 701, m′ = 700 cho h₁(k) = 80, h₂(k) = 257; Hình 11.5 (khoá 14 dò ô 1, ô 5 rồi vào ô 9); các con số 1,387 và 2,559 của Định lý 11.8 (giá trị đúng là 2 ln 2 ≈ 1,3863 và (10/9) ln 10 ≈ 2,5584); trong Hình 11.6 các giá trị h(75) = 2, h₂(75) = 7 và cách chia chín khoá vào các ô 0, 2, 5, 7 của bảng T.
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Bảng băm vẫn là Chương 11 nhưng được viết lại khá nhiều. Mục băm hoàn hảo (11.5 của ấn bản 3) bị bỏ. Phần hàm băm được tổ chức lại quanh ý "băm tĩnh" và "băm ngẫu nhiên", trình bày phương pháp nhân dưới dạng cài đặt nhân-dịch bit (multiply-shift) và có thêm phần về băm đầu vào dài (vector, chuỗi), có nhắc tới hàm băm mật mã. Có thêm một mục về các cân nhắc thực tế (bộ nhớ đệm, hệ thống bộ nhớ phân cấp), trong đó dò tuyến tính được đánh giá lại tích cực hơn và có thủ tục xoá cho dò tuyến tính không cần giá trị DELETED. Các chi tiết khác người tổng hợp không nhớ chắc nên không liệt kê.

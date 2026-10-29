@@ -1379,7 +1379,7 @@ Cũng đáng nói là sách viết tắt nhánh đối xứng bằng câu "same 
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 13 trên một trang: sáu nhánh lớn theo Mục 13.1–13.4 và các bài toán 13-1 đến 13-4, mỗi nhánh ghi tính chất, thủ tục, các trường hợp sửa cây và cận thời gian; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 13 trên một trang: bảy nhánh lớn theo Mục 13.1–13.4, các bài tập và bài toán 13-1 đến 13-4, và ghi chú chương, mỗi nhánh ghi tính chất, thủ tục, các trường hợp sửa cây và cận thời gian; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1398,79 +1398,95 @@ flowchart LR
   n2 --- n4
   n5["`Mọi đường đi xuống từ một nút tới lá có cùng số nút đen bh(x)`"]
   n2 --- n5
-  n6["`Một nút canh T.nil màu đen dùng chung thay mọi NIL`"]
+  n6["`Một nút canh T.nil màu đen dùng chung thay mọi NIL và cha của gốc`"]
   n1 --- n6
   n7["`Bổ đề 13.1: h ≤ 2 lg(n + 1)`"]
   n1 --- n7
-  n8["`Cây con gốc x có ít nhất 2 mũ bh(x) − 1 nút trong, chứng minh bằng quy nạp`"]
+  n8["`Cây con gốc x có ít nhất 2^bh(x) − 1 nút trong, chứng minh bằng quy nạp`"]
   n7 --- n8
   n9["`Ít nhất nửa số nút trên đường từ gốc xuống là đen nên bh(gốc) ≥ h/2`"]
   n7 --- n9
-  n10["`n = 10⁶ thì chiều cao ≤ 39,9, so với tối đa 999.999 của cây không cân bằng`"]
+  n10["`Cây ví dụ 20 khoá cao 5, cận cho phép 8,78 – n = 10⁶ thì chiều cao ≤ 39,9`"]
   n7 --- n10
-  n11["`Mục 13.2 — Phép quay`"]
-  n0 --- n11
-  n12["`LEFT-ROTATE và RIGHT-ROTATE đổi O(1) con trỏ, giữ nguyên thứ tự khoá`"]
-  n11 --- n12
-  n13["`Ví dụ LEFT-ROTATE tại nút 11 trên cây 14 nút, thứ tự trung thứ tự không đổi`"]
-  n11 --- n13
-  n14["`Mục 13.3 — Chèn`"]
-  n0 --- n14
-  n15["`RB-INSERT chèn như cây thường và tô nút mới z đỏ`"]
-  n14 --- n15
-  n16["`Chỉ có thể vi phạm tính chất 2 khi z là gốc, hoặc tính chất 4 khi cha z đỏ`"]
+  n11["`Truy vấn của Chương 12 chạy ngay O(lg n), còn chèn và xoá cần thủ tục riêng`"]
+  n1 --- n11
+  n12["`Mục 13.2 — Phép quay`"]
+  n0 --- n12
+  n13["`LEFT-ROTATE và RIGHT-ROTATE đổi O(1) con trỏ, giữ nguyên thứ tự khoá`"]
+  n12 --- n13
+  n14["`Quay trái tại x: con phải y lên làm gốc cây con, cây con trái của y sang làm con phải của x`"]
+  n12 --- n14
+  n15["`Mục 13.3 — Chèn`"]
+  n0 --- n15
+  n16["`RB-INSERT chèn như cây thường và tô nút mới z đỏ`"]
   n15 --- n16
-  n17["`RB-INSERT-FIXUP xét chú bác y của z`"]
-  n14 --- n17
-  n18["`Trường hợp 1, y đỏ: tô cha và y đen, ông đỏ, đẩy z lên hai tầng`"]
-  n17 --- n18
-  n19["`Trường hợp 2, y đen và z là con phải: quay trái tại cha để về trường hợp 3`"]
-  n17 --- n19
-  n20["`Trường hợp 3: tô cha đen, ông đỏ, quay phải tại ông rồi dừng`"]
-  n17 --- n20
-  n21["`Tính đúng chứng minh bằng bất biến vòng lặp ba phần`"]
-  n14 --- n21
-  n22["`Tổng O(lg n), tối đa 2 phép quay`"]
-  n14 --- n22
-  n23["`Mục 13.4 — Xoá`"]
-  n0 --- n23
-  n24["`RB-DELETE dựa trên TREE-DELETE, theo dõi nút y bị gỡ và nút x thế chỗ y`"]
-  n23 --- n24
-  n25["`Nếu y đen thì x mang một màu đen thừa, thành đen kép hoặc đỏ-và-đen`"]
-  n23 --- n25
-  n26["`RB-DELETE-FIXUP xét anh em w của x qua bốn trường hợp`"]
-  n23 --- n26
-  n27["`Trường hợp 1, w đỏ: quay để w thành đen`"]
-  n26 --- n27
-  n28["`Trường hợp 2, w đen có hai con đen: tô w đỏ, đẩy màu đen thừa lên cha – trường hợp duy nhất lặp`"]
-  n26 --- n28
-  n29["`Trường hợp 3 và 4: một hoặc hai phép quay rồi màu đen thừa biến mất`"]
-  n26 --- n29
-  n30["`Mỗi phép biến đổi giữ nguyên số nút đen tới từng cây con α…ζ`"]
-  n23 --- n30
-  n31["`Tổng O(lg n), tối đa 3 phép quay`"]
-  n23 --- n31
-  n32["`Bài toán 13-1 đến 13-4`"]
-  n0 --- n32
-  n33["`13-1 Tập động bền vững: chép đường đi, mỗi lần cập nhật chỉ chép O(lg n) nút nếu bỏ con trỏ cha`"]
-  n32 --- n33
-  n34["`13-2 Phép nối hai cây đỏ-đen trong O(lg n) nhờ theo dõi chiều cao đen`"]
-  n32 --- n34
-  n35["`13-3 Cây AVL cao O(lg n), khoảng 1,44 lg n, chèn chỉ cần O(1) phép quay`"]
-  n32 --- n35
-  n36["`13-4 Treap trùng với cây dựng ngẫu nhiên, số phép quay kỳ vọng khi chèn nhỏ hơn 2`"]
-  n32 --- n36
-  n37["`Thông điệp xuyên suốt`"]
-  n0 --- n37
-  n38["`Cây đỏ-đen là cách mã hoá nhị phân của cây 2-3-4 – nhìn vậy các trường hợp trở nên tự nhiên`"]
-  n37 --- n38
-  n39["`O(1) phép quay mỗi lần cập nhật cho phép mở rộng cấu trúc ở Chương 14`"]
-  n37 --- n39
-  n40["`Cần từ điển có thứ tự với cận xấu nhất thì dùng cây cân bằng của thư viện`"]
-  n37 --- n40
+  n17["`Tô đỏ chỉ có thể hỏng tính chất 2 hoặc 4 – tô đen sẽ hỏng tính chất 5 khó sửa hơn`"]
+  n16 --- n17
+  n18["`RB-INSERT-FIXUP xét chú bác y của z`"]
+  n15 --- n18
+  n19["`Trường hợp 1, y đỏ: tô cha và y đen, ông đỏ, đẩy z lên hai tầng`"]
+  n18 --- n19
+  n20["`Trường hợp 2, y đen và z là con phải: quay trái tại cha để về trường hợp 3`"]
+  n18 --- n20
+  n21["`Trường hợp 3: tô cha đen, ông đỏ, quay phải tại ông rồi dừng`"]
+  n18 --- n21
+  n22["`Tính đúng chứng minh bằng bất biến vòng lặp ba phần`"]
+  n15 --- n22
+  n23["`Tổng O(lg n), tối đa 2 phép quay – ví dụ chèn 41, 38, 31, 12, 19, 8 tốn 3 phép quay`"]
+  n15 --- n23
+  n24["`Mục 13.4 — Xoá`"]
+  n0 --- n24
+  n25["`RB-DELETE dựa trên TREE-DELETE, theo dõi nút y bị gỡ, màu ban đầu của y và nút x thế chỗ y`"]
+  n24 --- n25
+  n26["`Nếu y đen thì x mang một màu đen thừa, thành đen kép hoặc đỏ-và-đen`"]
+  n24 --- n26
+  n27["`RB-DELETE-FIXUP xét anh em w của x qua bốn trường hợp`"]
+  n24 --- n27
+  n28["`Trường hợp 1, w đỏ: quay để w thành đen`"]
+  n27 --- n28
+  n29["`Trường hợp 2, w đen có hai con đen: tô w đỏ, đẩy màu đen thừa lên cha – trường hợp duy nhất lặp`"]
+  n27 --- n29
+  n30["`Trường hợp 3 và 4: một hoặc hai phép quay rồi màu đen thừa biến mất`"]
+  n27 --- n30
+  n31["`Mỗi phép biến đổi giữ nguyên số nút đen tới từng cây con α…ζ`"]
+  n24 --- n31
+  n32["`Tổng O(lg n), tối đa 3 phép quay`"]
+  n24 --- n32
+  n33["`Bài tập và bài toán cuối chương`"]
+  n0 --- n33
+  n34["`13.1-4 Hút nút đỏ vào cha đen cho cây 2-3-4 có mọi lá cùng độ sâu`"]
+  n33 --- n34
+  n35["`13.1-6 Chiều cao đen k: ít nhất 2^k − 1 và nhiều nhất 2^(2k) − 1 nút trong`"]
+  n33 --- n35
+  n36["`13.4-7 Chèn rồi xoá ngay cùng một khoá không nhất thiết trả về cây ban đầu`"]
+  n33 --- n36
+  n37["`13-1 Tập động bền vững: chép đường đi, chỉ chép O(lg n) nút nếu bỏ con trỏ cha`"]
+  n33 --- n37
+  n38["`13-2 Phép nối hai cây đỏ-đen trong O(lg n) nhờ theo dõi chiều cao đen`"]
+  n33 --- n38
+  n39["`13-3 Cây AVL cao O(lg n), khoảng 1,44 lg n, chèn chỉ cần O(1) phép quay`"]
+  n33 --- n39
+  n40["`13-4 Treap trùng với cây dựng ngẫu nhiên, số phép quay kỳ vọng khi chèn #lt; 2`"]
+  n33 --- n40
+  n41["`Ghi chú chương`"]
+  n0 --- n41
+  n42["`Adel'son-Vel'skiĭ và Landis đưa ra cây AVL năm 1962, Hopcroft đưa ra cây 2-3 năm 1970`"]
+  n41 --- n42
+  n43["`Bayer phát minh cây đỏ-đen dưới tên cây B nhị phân đối xứng, Guibas và Sedgewick đặt quy ước màu`"]
+  n41 --- n43
+  n44["`Biến thể khác: cây AA, treap, cây splay khấu hao O(lg n), danh sách nhảy kỳ vọng O(lg n)`"]
+  n41 --- n44
+  n45["`Thông điệp xuyên suốt`"]
+  n0 --- n45
+  n46["`Cây đỏ-đen là cách mã hoá nhị phân của cây 2-3-4 – nhìn vậy các trường hợp trở nên tự nhiên`"]
+  n45 --- n46
+  n47["`O(1) phép quay mỗi lần cập nhật cho phép mở rộng cấu trúc ở Chương 14`"]
+  n45 --- n47
+  n48["`Cần từ điển có thứ tự với cận xấu nhất thì dùng cây cân bằng của thư viện`"]
+  n45 --- n48
   class n0 root
-  class n1,n11,n14,n23,n32,n37 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n38,n39,n40 leaf
+  class n1,n12,n15,n24,n33,n41,n45 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n46,n47,n48 leaf
 ```
 
 ## Nguồn

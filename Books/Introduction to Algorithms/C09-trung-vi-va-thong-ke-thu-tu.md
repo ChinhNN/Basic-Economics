@@ -821,7 +821,7 @@ Sách thẳng thắn gọi SELECT là thuật toán "có ý nghĩa lý thuyết 
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 9 trên một trang: năm nhánh lớn theo phần mở đầu và Mục 9.1–9.3 cùng các bài toán 9-1 đến 9-4 và ghi chú chương, mỗi nhánh ghi thuật toán, số phép so sánh hoặc truy hồi then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 9 trên một trang: bảy nhánh lớn theo phần mở đầu, Mục 9.1–9.3, các bài tập và bài toán 9-1 đến 9-4, và ghi chú chương, mỗi nhánh ghi thuật toán, số phép so sánh hoặc truy hồi then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -834,7 +834,7 @@ flowchart LR
   n0 --- n1
   n2["`Thống kê thứ tự thứ i là phần tử nhỏ thứ i, trung vị là trường hợp đặc biệt`"]
   n1 --- n2
-  n3["`Quy ước trung vị dưới khi n chẵn`"]
+  n3["`Trung vị dưới ở vị trí ⌊(n + 1)/2⌋, trung vị trên ở ⌈(n + 1)/2⌉ – sách quy ước trung vị là trung vị dưới`"]
   n1 --- n3
   n4["`Sắp xếp rồi lấy phần tử thứ i tốn O(n lg n) – chương cho cách nhanh hơn`"]
   n1 --- n4
@@ -846,9 +846,9 @@ flowchart LR
   n6 --- n7
   n8["`Tìm đồng thời nhỏ nhất và lớn nhất theo từng cặp`"]
   n5 --- n8
-  n9["`3 phép so sánh cho 2 phần tử, tổng tối đa 3⌊n/2⌋`"]
+  n9["`So hai phần tử của cặp trước, rồi phần tử nhỏ với min, phần tử lớn với max`"]
   n8 --- n9
-  n10["`n = 100 chỉ cần 148 phép so sánh thay vì 198`"]
+  n10["`Tối đa 3⌊n/2⌋ phép so sánh thay vì 2n − 2 – ví dụ n = 8 tốn 10 thay vì 14`"]
   n8 --- n10
   n11["`Cận dưới ⌈3n/2⌉ − 2 bằng lập luận đối thủ – Bài tập 9.1-2`"]
   n8 --- n11
@@ -856,57 +856,77 @@ flowchart LR
   n0 --- n12
   n13["`Mượn RANDOMIZED-PARTITION của quicksort nhưng chỉ đệ quy vào phía chứa đáp án`"]
   n12 --- n13
-  n14["`Thời gian kỳ vọng Θ(n), xấu nhất vẫn Θ(n²)`"]
-  n12 --- n14
-  n15["`Phân tích bằng biến chỉ báo Xₖ và phương pháp thế`"]
+  n14["`Chốt có hạng k: i = k thì trả về chốt, i #lt; k sang phía thấp, i #gt; k tìm phần tử thứ i − k ở phía cao`"]
+  n13 --- n14
+  n15["`Xấu nhất Θ(n²) khi chốt luôn là phần tử lớn nhất còn lại`"]
   n12 --- n15
-  n16["`E[T(n)] ≤ (2/n) nhân tổng E[T(k)] với k từ ⌊n/2⌋ tới n − 1, cộng O(n)`"]
-  n15 --- n16
-  n17["`Đoán E[T(n)] ≤ cn, đúng khi c lớn hơn 4a và n ≥ 2c/(c − 4a)`"]
-  n15 --- n17
-  n18["`Thuật toán do Hoare đưa ra`"]
-  n12 --- n18
-  n19["`Mục 9.3 — SELECT, tuyến tính trong trường hợp xấu nhất`"]
-  n0 --- n19
-  n20["`Năm bước`"]
-  n19 --- n20
-  n21["`Chia thành các nhóm 5 phần tử, lấy trung vị mỗi nhóm bằng sắp xếp chèn`"]
+  n16["`Phân tích kỳ vọng bằng biến chỉ báo X#95;k với E[X#95;k] = 1/n`"]
+  n12 --- n16
+  n17["`E[T(n)] ≤ (2/n) Σ E[T(k)] với k từ ⌊n/2⌋ tới n − 1, cộng O(n)`"]
+  n16 --- n17
+  n18["`Phương pháp thế: E[T(n)] ≤ cn khi c #gt; 4a và n ≥ 2c/(c − 4a)`"]
+  n16 --- n18
+  n19["`Thuật toán do Hoare đưa ra, thường gọi là quickselect`"]
+  n12 --- n19
+  n20["`Mục 9.3 — SELECT, tuyến tính trong trường hợp xấu nhất`"]
+  n0 --- n20
+  n21["`Năm bước`"]
   n20 --- n21
-  n22["`Đệ quy tìm trung vị của các trung vị làm chốt x, rồi phân hoạch quanh x`"]
-  n20 --- n22
-  n23["`Chốt x luôn lớn hơn và nhỏ hơn ít nhất 3n/10 − 6 phần tử`"]
-  n19 --- n23
-  n24["`Truy hồi T(n) ≤ T(⌈n/5⌉) + T(7n/10 + 6) + O(n)`"]
-  n19 --- n24
-  n25["`Tổng tỷ lệ 1/5 + 7/10 = 9/10 nhỏ hơn 1 nên T(n) = O(n)`"]
+  n22["`Chia thành các nhóm 5 phần tử, lấy trung vị mỗi nhóm bằng sắp xếp chèn`"]
+  n21 --- n22
+  n23["`Đệ quy tìm trung vị của các trung vị làm chốt x, phân hoạch quanh x rồi đệ quy một phía`"]
+  n21 --- n23
+  n24["`Chốt x luôn lớn hơn và nhỏ hơn ít nhất 3n/10 − 6 phần tử`"]
+  n20 --- n24
+  n25["`Ví dụ n = 28, sáu nhóm: chắc chắn có 10 phần tử lớn hơn x`"]
   n24 --- n25
-  n26["`Chứng minh dùng c ≥ 20a với n ≥ 140`"]
-  n24 --- n26
-  n27["`Của Blum, Floyd, Pratt, Rivest, Tarjan – ý nghĩa lý thuyết hơn thực hành vì hằng số lớn`"]
-  n19 --- n27
-  n28["`Bài toán 9-1 đến 9-4 và Ghi chú chương`"]
-  n0 --- n28
-  n29["`9-1 Tìm i số lớn nhất theo thứ tự: SELECT rồi sắp i số tốn O(n + i lg i)`"]
-  n28 --- n29
-  n30["`9-2 Trung vị có trọng số tính trong Θ(n), là lời giải tối ưu cho bài toán đặt bưu điện`"]
-  n28 --- n30
-  n31["`9-3 Thống kê thứ tự nhỏ: i hằng số chỉ cần n + O(lg n) phép so sánh`"]
-  n28 --- n31
-  n32["`9-4 Phân tích khác của RANDOMIZED-SELECT cho E[Xₖ] ≤ 4n`"]
-  n28 --- n32
-  n33["`Câu hỏi mở: số phép so sánh tối ưu cho trung vị nằm giữa (2 + ε)n và khoảng 2,95n`"]
-  n28 --- n33
-  n34["`Thông điệp xuyên suốt`"]
-  n0 --- n34
-  n35["`Đừng sắp xếp cả mảng chỉ để lấy trung vị, phân vị hay k phần tử lớn nhất`"]
-  n34 --- n35
-  n36["`Thực tế dùng quickselect, giữ trung vị của các trung vị làm phương án dự phòng`"]
-  n34 --- n36
-  n37["`Chốt có bảo đảm giúp quicksort đạt O(n lg n) xấu nhất – Bài tập 9.3-3`"]
-  n34 --- n37
+  n26["`Truy hồi T(n) ≤ T(⌈n/5⌉) + T(7n/10 + 6) + O(n)`"]
+  n20 --- n26
+  n27["`Tổng tỷ lệ 1/5 + 7/10 = 9/10 nhỏ hơn 1 nên T(n) = O(n)`"]
+  n26 --- n27
+  n28["`Chứng minh dùng c ≥ 20a với n ≥ 140 – mọi ngưỡng lớn hơn 70 đều được`"]
+  n26 --- n28
+  n29["`Không bị cận Ω(n lg n) chi phối vì giải bài toán chọn mà không sắp xếp`"]
+  n20 --- n29
+  n30["`Bài tập và bài toán cuối chương`"]
+  n0 --- n30
+  n31["`9.1-1 Tìm phần tử nhỏ thứ hai bằng n + ⌈lg n⌉ − 2 phép so sánh nhờ giải đấu loại trực tiếp`"]
+  n30 --- n31
+  n32["`9.3-1 Nhóm 7 vẫn tuyến tính, nhóm 3 chỉ cho Θ(n lg n)`"]
+  n30 --- n32
+  n33["`9.3-3 Dùng SELECT lấy trung vị làm chốt thì quicksort đạt O(n lg n) xấu nhất`"]
+  n30 --- n33
+  n34["`9.3-8 Trung vị của hai mảng đã sắp, mỗi mảng n phần tử, tìm được trong O(lg n)`"]
+  n30 --- n34
+  n35["`9.3-9 Đặt đường ống dầu chính tại trung vị toạ độ y của các giếng`"]
+  n30 --- n35
+  n36["`9-1 Tìm i số lớn nhất theo thứ tự: SELECT rồi sắp i số tốn O(n + i lg i), tốt hơn dùng heap`"]
+  n30 --- n36
+  n37["`9-2 Trung vị có trọng số tính trong Θ(n), là lời giải tối ưu cho bài toán đặt bưu điện`"]
+  n30 --- n37
+  n38["`9-3 Thống kê thứ tự nhỏ: i hằng số chỉ cần n + O(lg n) phép so sánh`"]
+  n30 --- n38
+  n39["`9-4 Phân tích khác của RANDOMIZED-SELECT cho E[X#95;k] ≤ 4n`"]
+  n30 --- n39
+  n40["`Ghi chú chương`"]
+  n0 --- n40
+  n41["`SELECT là của Blum, Floyd, Pratt, Rivest, Tarjan – bản ngẫu nhiên nhanh là của Hoare`"]
+  n40 --- n41
+  n42["`Floyd và Rivest chọn chốt đệ quy từ một mẫu nhỏ các phần tử`"]
+  n40 --- n42
+  n43["`Số phép so sánh tối ưu cho trung vị chưa biết: nằm giữa (2 + ε)n và khoảng 2,95n`"]
+  n40 --- n43
+  n44["`Thông điệp xuyên suốt`"]
+  n0 --- n44
+  n45["`Đừng sắp xếp cả mảng chỉ để lấy trung vị, phân vị hay k phần tử lớn nhất`"]
+  n44 --- n45
+  n46["`Thực tế dùng quickselect, giữ trung vị của các trung vị làm phương án dự phòng`"]
+  n44 --- n46
+  n47["`Đệ quy với tổng tỷ lệ kích thước nhỏ hơn 1 vẫn cho thời gian tuyến tính`"]
+  n44 --- n47
   class n0 root
-  class n1,n5,n12,n19,n28,n34 branch
-  class n2,n3,n4,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37 leaf
+  class n1,n5,n12,n20,n30,n40,n44 branch
+  class n2,n3,n4,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n45,n46,n47 leaf
 ```
 
 ## Nguồn

@@ -1131,7 +1131,7 @@ Kỹ thuật "chiều cao mũ" là điểm sáng: thay vì làm việc với max
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 12 trên một trang: sáu nhánh lớn theo Mục 12.1–12.4 và các bài toán 12-1 đến 12-4, mỗi nhánh ghi thủ tục, định lý và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 12 trên một trang: bảy nhánh lớn theo Mục 12.1–12.4, các bài tập và bài toán 12-1 đến 12-4, và ghi chú chương, mỗi nhánh ghi thủ tục, định lý và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1142,13 +1142,13 @@ flowchart LR
   n0["`Chương 12: cây tìm kiếm nhị phân làm mọi thao tác tập động trong O(h), h là chiều cao chứ không phải số nút`"]
   n1["`Mục 12.1 — Cây tìm kiếm nhị phân là gì`"]
   n0 --- n1
-  n2["`Nút có khoá và ba con trỏ left, right, p`"]
+  n2["`Nút có khoá, dữ liệu vệ tinh và ba con trỏ left, right, p`"]
   n1 --- n2
-  n3["`Tính chất: khoá cây con trái ≤ x.key ≤ khoá cây con phải`"]
+  n3["`Tính chất: mọi khoá cây con trái ≤ x.key ≤ mọi khoá cây con phải – áp dụng cho cả cây con, không chỉ con trực tiếp`"]
   n1 --- n3
   n4["`Định lý 12.1: duyệt trung thứ tự in mọi khoá tăng dần trong Θ(n)`"]
   n1 --- n4
-  n5["`Cùng tập khoá có thể dựng cây cao 2 hoặc cao 4`"]
+  n5["`Cùng tập {2, 5, 5, 6, 7, 8} có thể dựng cây cao 2 hoặc cao 4`"]
   n1 --- n5
   n6["`Mục 12.2 — Truy vấn, Định lý 12.2: tất cả O(h)`"]
   n0 --- n6
@@ -1156,67 +1156,83 @@ flowchart LR
   n6 --- n7
   n8["`Ví dụ tìm 13 chỉ thăm 15 → 6 → 7 → 13 trong cây 11 nút`"]
   n7 --- n8
-  n9["`TREE-MINIMUM đi trái mãi, TREE-MAXIMUM đi phải mãi`"]
-  n6 --- n9
-  n10["`TREE-SUCCESSOR không cần so sánh khoá`"]
+  n9["`Bản vòng lặp ITERATIVE-TREE-SEARCH thường nhanh hơn bản đệ quy`"]
+  n7 --- n9
+  n10["`TREE-MINIMUM đi trái mãi, TREE-MAXIMUM đi phải mãi`"]
   n6 --- n10
-  n11["`Có cây con phải thì lấy nút nhỏ nhất của nó`"]
-  n10 --- n11
-  n12["`Không thì đi lên tới tổ tiên đầu tiên mà ta tới từ con trái`"]
-  n10 --- n12
-  n13["`Mục 12.3 — Chèn và xoá, Định lý 12.3: O(h)`"]
-  n0 --- n13
-  n14["`TREE-INSERT đi xuống như tìm kiếm rồi gắn nút mới làm lá`"]
-  n13 --- n14
-  n15["`TREE-DELETE dùng TRANSPLANT thay một cây con bằng cây con khác`"]
-  n13 --- n15
-  n16["`z thiếu một con: đưa con còn lại lên thay z`"]
-  n15 --- n16
-  n17["`z có hai con: đưa nút kế tiếp y = TREE-MINIMUM(z.right) lên thay z`"]
-  n15 --- n17
-  n18["`Nếu y không phải con phải của z thì trước hết thay y bằng con phải của y`"]
-  n15 --- n18
-  n19["`Ấn bản 3 di chuyển nút thay vì chép khoá để con trỏ bên ngoài vẫn hợp lệ`"]
-  n13 --- n19
-  n20["`Mục 12.4 — Cây dựng ngẫu nhiên, có dấu sao`"]
-  n0 --- n20
-  n21["`Chiều cao từ ⌊lg n⌋ tới n − 1 – chèn khoá đã sắp xếp cho một chuỗi`"]
-  n20 --- n21
-  n22["`Định lý 12.4: chèn theo hoán vị ngẫu nhiên đều thì chiều cao kỳ vọng O(lg n)`"]
-  n20 --- n22
-  n23["`Kỹ thuật chiều cao mũ Yₙ = 2 mũ Xₙ để chặn max bằng tổng`"]
-  n20 --- n23
-  n24["`Truy hồi E[Yₙ] ≤ (4/n) nhân tổng E[Yᵢ]`"]
-  n23 --- n24
-  n25["`E[Yₙ] ≤ (1/4)C(n + 3, 3) = (n³ + 6n² + 11n + 6)/24`"]
-  n23 --- n25
-  n26["`Bất đẳng thức Jensen cho E[Xₙ] ≤ 3 lg n + O(1)`"]
-  n23 --- n26
-  n27["`Chỉ đúng khi dựng bằng phép chèn, không có kết quả khi xen kẽ xoá`"]
-  n20 --- n27
-  n28["`Bài toán 12-1 đến 12-4`"]
-  n0 --- n28
-  n29["`12-1 Khoá bằng nhau làm TREE-INSERT suy biến – sửa bằng cờ luân phiên, danh sách hoặc chọn ngẫu nhiên`"]
-  n28 --- n29
-  n30["`12-2 Cây cơ số sắp tập xâu bit theo thứ tự từ điển trong Θ(n), n là tổng độ dài các xâu`"]
-  n28 --- n30
-  n31["`12-3 Độ sâu trung bình của nút trong cây dựng ngẫu nhiên là O(lg n), cùng truy hồi với quicksort`"]
-  n28 --- n31
-  n32["`12-4 Số cây nhị phân n nút là số Catalan C(2n, n)/(n + 1)`"]
-  n28 --- n32
-  n33["`Thông điệp xuyên suốt`"]
-  n0 --- n33
-  n34["`Muốn bảo đảm hiệu năng phải kiểm soát chiều cao – lý do có cây đỏ-đen ở Chương 13`"]
-  n33 --- n34
-  n35["`Dữ liệu thực thường có thứ tự nên cây không cân bằng rủi ro trong sản phẩm`"]
-  n33 --- n35
-  n36["`Cần truy vấn có thứ tự thì cây tìm kiếm thắng bảng băm`"]
-  n33 --- n36
-  n37["`Chương 13 dùng lại nguyên TRANSPLANT và khung TREE-DELETE, chỉ thêm sửa màu`"]
-  n33 --- n37
+  n11["`TREE-SUCCESSOR không cần so sánh khoá`"]
+  n6 --- n11
+  n12["`Có cây con phải thì lấy nút nhỏ nhất của nó – kế tiếp của 15 là 17`"]
+  n11 --- n12
+  n13["`Không thì đi lên tới tổ tiên đầu tiên mà ta tới từ con trái – kế tiếp của 13 là 15`"]
+  n11 --- n13
+  n14["`Mục 12.3 — Chèn và xoá, Định lý 12.3: O(h)`"]
+  n0 --- n14
+  n15["`TREE-INSERT đi xuống như tìm kiếm với con trỏ theo sau y rồi gắn nút mới làm lá`"]
+  n14 --- n15
+  n16["`TREE-DELETE dùng TRANSPLANT thay một cây con bằng cây con khác`"]
+  n14 --- n16
+  n17["`z thiếu con trái hoặc thiếu con phải: đưa con còn lại lên thay z`"]
+  n16 --- n17
+  n18["`z có hai con: đưa nút kế tiếp y = TREE-MINIMUM(z.right) lên thay z, y không có con trái`"]
+  n16 --- n18
+  n19["`Nếu y không phải con phải của z thì trước hết thay y bằng con phải của y`"]
+  n16 --- n19
+  n20["`Ấn bản 3 di chuyển nút thay vì chép khoá để con trỏ bên ngoài vẫn hợp lệ`"]
+  n14 --- n20
+  n21["`Mục 12.4 — Cây dựng ngẫu nhiên, có dấu sao`"]
+  n0 --- n21
+  n22["`Chiều cao từ ⌊lg n⌋ tới n − 1 – chèn khoá đã sắp xếp cho một chuỗi`"]
+  n21 --- n22
+  n23["`Cây dựng ngẫu nhiên: chèn theo hoán vị chọn đều trong n! – khác chọn đều trong mọi hình dạng cây`"]
+  n21 --- n23
+  n24["`Định lý 12.4: chiều cao kỳ vọng O(lg n)`"]
+  n21 --- n24
+  n25["`Chiều cao mũ Yₙ = 2^Xₙ để chặn max bằng tổng`"]
+  n24 --- n25
+  n26["`Truy hồi E[Yₙ] ≤ (4/n) Σ E[Yᵢ] cho E[Yₙ] ≤ (1/4)C(n + 3, 3) = (n³ + 6n² + 11n + 6)/24`"]
+  n24 --- n26
+  n27["`Bất đẳng thức Jensen cho E[Xₙ] ≤ 3 lg n + O(1)`"]
+  n24 --- n27
+  n28["`Chỉ đúng khi dựng bằng phép chèn, không có kết quả khi xen kẽ xoá`"]
+  n21 --- n28
+  n29["`Bài tập và bài toán cuối chương`"]
+  n0 --- n29
+  n30["`12.1-2 Tính chất đống chỉ ràng buộc cha–con nên không in được khoá theo thứ tự trong O(n)`"]
+  n29 --- n30
+  n31["`12.3-3 Sắp xếp bằng cây rồi duyệt: xấu nhất Θ(n²), tốt nhất Θ(n lg n)`"]
+  n29 --- n31
+  n32["`12.3-4 Phép xoá không giao hoán: xoá x rồi y có thể cho cây khác xoá y rồi x`"]
+  n29 --- n32
+  n33["`12-1 Khoá bằng nhau làm TREE-INSERT tốn Θ(n²) – cờ luân phiên cho Θ(n lg n), danh sách tại nút cho Θ(n)`"]
+  n29 --- n33
+  n34["`12-2 Cây cơ số sắp tập xâu bit theo thứ tự từ điển trong Θ(n), n là tổng độ dài các xâu`"]
+  n29 --- n34
+  n35["`12-3 Độ sâu trung bình của nút trong cây dựng ngẫu nhiên là O(lg n), cùng truy hồi với quicksort`"]
+  n29 --- n35
+  n36["`12-4 Số cây nhị phân n nút là số Catalan C(2n, n)/(n + 1)`"]
+  n29 --- n36
+  n37["`Ghi chú chương`"]
+  n0 --- n37
+  n38["`Cây tìm kiếm nhị phân được nhiều người phát hiện độc lập cuối thập niên 1950`"]
+  n37 --- n38
+  n39["`Trie lấy từ các chữ giữa của retrieval`"]
+  n37 --- n39
+  n40["`Chứng minh Mục 12.4 là của Aslam, Martínez và Roura cho chèn xoá ngẫu nhiên giữ cây luôn ngẫu nhiên`"]
+  n37 --- n40
+  n41["`Thông điệp xuyên suốt`"]
+  n0 --- n41
+  n42["`Muốn bảo đảm hiệu năng phải kiểm soát chiều cao – lý do có cây đỏ-đen ở Chương 13`"]
+  n41 --- n42
+  n43["`Dữ liệu thực thường có thứ tự nên cây không cân bằng rủi ro trong sản phẩm`"]
+  n41 --- n43
+  n44["`Cần truy vấn có thứ tự thì cây tìm kiếm thắng bảng băm`"]
+  n41 --- n44
+  n45["`Chương 13 dùng lại nguyên TRANSPLANT và khung TREE-DELETE, chỉ thêm sửa màu`"]
+  n41 --- n45
   class n0 root
-  class n1,n6,n13,n20,n28,n33 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n34,n35,n36,n37 leaf
+  class n1,n6,n14,n21,n29,n37,n41 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n42,n43,n44,n45 leaf
 ```
 
 ## Nguồn

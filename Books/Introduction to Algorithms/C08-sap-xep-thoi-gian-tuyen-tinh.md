@@ -884,7 +884,9 @@ Giải thích vài bước: ở (c), cột thứ nhất của (b) là 4, 8, 10, 
 - **g.** Giả sử s không chia hết r. Chứng minh sau bước 1–3 mảng gồm các hàng sạch toàn 0 ở trên, các hàng sạch toàn 1 ở dưới, và nhiều nhất 2s − 1 hàng bẩn ở giữa. r phải lớn cỡ nào so với s để columnsort đúng khi s không chia hết r?
 - **h.** Đề xuất một thay đổi đơn giản ở bước 1 để vẫn chỉ cần r ≥ 2s² khi s không chia hết r, và chứng minh columnsort đúng với thay đổi đó.
 
-Lời giải của người tổng hợp (ý chính, phần g–h không chắc chắn hoàn toàn): (a) nếu A[q] < A[p] thì A[q] là giá trị nhỏ hơn A[p] cũng bị đặt sai (nó nằm ở vị trí của A[p]), trái với tính nhỏ nhất của A[p]; các giá trị khác nhau nên A[q] > A[p]. (b) hàm f(x) = 0 nếu x ≤ A[p], 1 nếu ngược lại, đơn điệu không giảm, nên COMPARE-EXCHANGE "giao hoán" với f: chạy X trên B = f(A) cho đúng f của kết quả chạy X trên A. Vị trí lẽ ra của A[p] nhận A[q], tức nhận 1 trong B; nhưng B có đúng số số 0 bằng số giá trị ≤ A[p], đủ để lấp mọi vị trí tới vị trí đó, nên có một số 0 nằm sau một số 1 — B chưa được sắp. (c) mỗi bước sắp cột có thể thay bằng một mạng sắp xếp mù (ví dụ INSERTION-SORT dạng trên), còn các bước chẵn là hoán vị chỉ số cố định.
+Lời giải của người tổng hợp (ý chính, phần g–h không chắc chắn hoàn toàn): (a) nếu A[q] < A[p] thì A[q] là giá trị nhỏ hơn A[p] cũng bị đặt sai (nó nằm ở vị trí của A[p]), trái với tính nhỏ nhất của A[p]; các giá trị khác nhau nên A[q] > A[p].
+
+(b) hàm f(x) = 0 nếu x ≤ A[p], 1 nếu ngược lại, đơn điệu không giảm, nên COMPARE-EXCHANGE "giao hoán" với f: chạy X trên B = f(A) cho đúng f của kết quả chạy X trên A. Vị trí lẽ ra của A[p] nhận A[q], tức nhận 1 trong B; nhưng B có đúng số số 0 bằng số giá trị ≤ A[p], đủ để lấp mọi vị trí tới vị trí đó, nên có một số 0 nằm sau một số 1 — B chưa được sắp. (c) mỗi bước sắp cột có thể thay bằng một mạng sắp xếp mù (ví dụ INSERTION-SORT dạng trên), còn các bước chẵn là hoán vị chỉ số cố định.
 
 (d) sau bước 1, mỗi cột là 0 rồi 1; bước 2 biến mỗi cột thành r/s hàng liền nhau, nên mỗi cột cũ góp nhiều nhất một hàng lẫn 0-1; sau bước 3, mỗi cột mới nhận cùng số lượng phần tử từ mỗi cột cũ, nên số 0 trong các cột chênh nhau không quá s, cho nhiều nhất s hàng bẩn. (e) bước 4 đọc s hàng bẩn mỗi hàng s phần tử theo thứ tự cột, được vùng bẩn liên tiếp ≤ s².
 
@@ -1076,7 +1078,7 @@ Chương ngắn nhưng chứa một trong những bài học khái niệm quan t
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 8 trên một trang: năm nhánh lớn theo Mục 8.1–8.4 và các bài toán cuối chương 8-1 đến 8-7, mỗi nhánh ghi định lý, thuật toán, thời gian chạy và giả định đi kèm; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 8 trên một trang: bảy nhánh lớn theo Mục 8.1–8.4, các bài tập và bài toán 8-1 đến 8-7, và ghi chú chương, mỗi nhánh ghi định lý, thuật toán, thời gian chạy và giả định đi kèm; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1087,77 +1089,109 @@ flowchart LR
   n0["`Chương 8: cận n lg n chỉ đúng trong mô hình so sánh – dùng giá trị khoá thì sắp được trong thời gian tuyến tính`"]
   n1["`Mục 8.1 — Cận dưới cho sắp xếp so sánh`"]
   n0 --- n1
-  n2["`Mô hình cây quyết định`"]
+  n2["`Sắp xếp so sánh chỉ biết thứ tự qua phép thử aᵢ ≤ aⱼ, không đọc giá trị`"]
   n1 --- n2
-  n3["`Mỗi nút trong là một phép so sánh aᵢ ≤ aⱼ, mỗi lá là một hoán vị kết luận`"]
-  n2 --- n3
-  n4["`Cây của sắp xếp chèn trên 3 phần tử có 6 lá, cao 3`"]
-  n2 --- n4
-  n5["`Định lý 8.1: cần Ω(n lg n) phép so sánh trong trường hợp xấu nhất`"]
-  n1 --- n5
-  n6["`Thuật toán đúng phải có ≥ n! lá, cây cao h có ≤ 2ʰ lá, nên h ≥ lg(n!)`"]
-  n5 --- n6
-  n7["`n = 10⁶ cần khoảng 18,5 triệu phép so sánh`"]
-  n5 --- n7
-  n8["`Hệ quả 8.2: heapsort và sắp xếp trộn tối ưu tiệm cận`"]
-  n1 --- n8
-  n9["`Mục 8.2 — Sắp xếp đếm`"]
-  n0 --- n9
-  n10["`Khoá nguyên trong 0..k: đếm tần suất, cộng dồn ra vị trí cuối của mỗi giá trị`"]
-  n9 --- n10
-  n11["`Thời gian và bộ nhớ Θ(n + k), tuyến tính khi k = O(n)`"]
-  n9 --- n11
-  n12["`Ổn định nhờ duyệt A từ cuối về đầu ở vòng lặp cuối`"]
-  n9 --- n12
-  n13["`Ví dụ ⟨2, 5, 3, 0, 2, 3, 0, 3⟩ ra ⟨0, 0, 2, 2, 3, 3, 3, 5⟩`"]
-  n9 --- n13
-  n14["`Mục 8.3 — Sắp xếp cơ số`"]
-  n0 --- n14
-  n15["`Sắp theo chữ số thấp nhất trước bằng một thuật toán sắp ổn định`"]
-  n14 --- n15
-  n16["`Bổ đề 8.3: d chữ số, mỗi chữ số k giá trị → Θ(d(n + k))`"]
-  n15 --- n16
-  n17["`Tính ổn định giữ thứ tự đã đúng theo các chữ số thấp hơn`"]
-  n15 --- n17
-  n18["`Bổ đề 8.4: khoá b bit chia nhóm r bit → Θ((b/r)(n + 2ʳ))`"]
-  n14 --- n18
-  n19["`Chọn r ≈ lg n cho Θ(bn / lg n), tuyến tính khi b = O(lg n)`"]
+  n3["`Mô hình cây quyết định`"]
+  n1 --- n3
+  n4["`Nút trong i:j là phép so sánh, lá là một hoán vị, một lần chạy là một đường từ gốc tới lá`"]
+  n3 --- n4
+  n5["`Cây của sắp xếp chèn trên 3 phần tử có 6 lá, cao 3 – đầu vào ⟨6, 8, 5⟩ tới lá ⟨3, 1, 2⟩`"]
+  n3 --- n5
+  n6["`Định lý 8.1: cần Ω(n lg n) phép so sánh trong trường hợp xấu nhất`"]
+  n1 --- n6
+  n7["`n! ≤ l ≤ 2ʰ nên h ≥ lg(n!) = Ω(n lg n)`"]
+  n6 --- n7
+  n8["`n = 10 cần ít nhất 22 phép so sánh, n = 10⁶ cần khoảng 18,5 triệu`"]
+  n6 --- n8
+  n9["`Hệ quả 8.2: heapsort và sắp xếp trộn tối ưu tiệm cận`"]
+  n1 --- n9
+  n10["`Mục 8.2 — Sắp xếp đếm`"]
+  n0 --- n10
+  n11["`Khoá nguyên trong 0..k: đếm tần suất, cộng dồn ra số phần tử ≤ i, đặt từng phần tử vào B`"]
+  n10 --- n11
+  n12["`Thời gian Θ(n + k), tuyến tính khi k = O(n) – không có phép so sánh nào giữa các phần tử`"]
+  n10 --- n12
+  n13["`Ổn định nhờ duyệt A từ cuối về đầu – điều kiện để làm thủ tục con của sắp xếp cơ số`"]
+  n10 --- n13
+  n14["`Ví dụ ⟨2, 5, 3, 0, 2, 3, 0, 3⟩: đếm ⟨2, 0, 2, 3, 0, 1⟩, cộng dồn ⟨2, 2, 4, 7, 7, 8⟩`"]
+  n10 --- n14
+  n15["`k lớn thì vô lý: 1.000 số 32 bit cần mảng đếm khoảng 4,3 tỷ ô`"]
+  n10 --- n15
+  n16["`Mục 8.3 — Sắp xếp cơ số`"]
+  n0 --- n16
+  n17["`Nguồn gốc là máy sắp phiếu đục lỗ 80 cột, mỗi cột 12 vị trí`"]
+  n16 --- n17
+  n18["`Sắp theo chữ số thấp nhất trước, mỗi lượt phải ổn định`"]
+  n16 --- n18
+  n19["`Ví dụ 329, 457, 657, 839, 436, 720, 355 qua ba lượt đơn vị, chục, trăm`"]
   n18 --- n19
-  n20["`Nguồn gốc là máy sắp phiếu đục lỗ 80 cột`"]
-  n14 --- n20
-  n21["`Hằng số, bộ nhớ đệm và việc không sắp tại chỗ có thể khiến quicksort vẫn thắng`"]
-  n14 --- n21
-  n22["`Mục 8.4 — Sắp xếp theo thùng`"]
-  n0 --- n22
-  n23["`Chia [0, 1) thành n thùng bằng nhau, sắp chèn từng thùng rồi nối lại`"]
-  n22 --- n23
-  n24["`Trung bình Θ(n) khi đầu vào phân phối đều, vì E[nᵢ²] = 2 − 1/n`"]
-  n22 --- n24
-  n25["`Xấu nhất Θ(n²) khi mọi phần tử rơi vào một thùng`"]
-  n22 --- n25
-  n26["`Bài toán 8-1 đến 8-7 — Mở rộng cận dưới và biến thể`"]
-  n0 --- n26
-  n27["`8-1 Cả trung bình và thuật toán ngẫu nhiên hoá vẫn cần Ω(n lg n)`"]
-  n26 --- n27
-  n28["`8-2 Khoá 0 và 1: chỉ đạt được hai trong ba tiêu chí O(n), ổn định, tại chỗ`"]
-  n26 --- n28
-  n29["`8-4 Bình nước đỏ–xanh: cận dưới Ω(n lg n), ngẫu nhiên kiểu quicksort O(n lg n) kỳ vọng`"]
-  n26 --- n29
-  n30["`8-6 Trộn hai danh sách n phần tử cần ít nhất 2n − 1 phép so sánh`"]
-  n26 --- n30
-  n31["`8-7 Bổ đề 0-1: thuật toán so sánh–hoán đổi mù sắp đúng mọi dãy 0/1 thì sắp đúng mọi đầu vào`"]
-  n26 --- n31
-  n32["`Thông điệp xuyên suốt`"]
+  n20["`Sắp ngày ổn định theo ngày, rồi tháng, rồi năm`"]
+  n18 --- n20
+  n21["`Sắp theo chữ số cao trước phải chia nhỏ đệ quy, sinh nhiều chồng phiếu trung gian`"]
+  n18 --- n21
+  n22["`Bổ đề 8.3: d chữ số, mỗi chữ số k giá trị → Θ(d(n + k))`"]
+  n16 --- n22
+  n23["`Bổ đề 8.4: khoá b bit chia nhóm r bit → Θ((b/r)(n + 2ʳ))`"]
+  n16 --- n23
+  n24["`b #lt; ⌊lg n⌋ thì chọn r = b cho Θ(n), ngược lại r = ⌊lg n⌋ cho Θ(bn / lg n)`"]
+  n23 --- n24
+  n25["`Ví dụ b = 32, n = 2²⁰: r = 16 tốn khoảng 2,1n, ít hơn r = 20 tốn 4n`"]
+  n23 --- n25
+  n26["`Hằng số, bộ nhớ đệm và việc không sắp tại chỗ có thể khiến quicksort vẫn thắng`"]
+  n16 --- n26
+  n27["`Mục 8.4 — Sắp xếp theo thùng`"]
+  n0 --- n27
+  n28["`Đầu vào phân phối đều và độc lập trên [0, 1): chia thành n thùng, A[i] vào thùng ⌊n·A[i]⌋`"]
+  n27 --- n28
+  n29["`Sắp chèn từng thùng rồi nối lại – ví dụ 10 số .78, .17, … ra .12 … .94`"]
+  n27 --- n29
+  n30["`T(n) = Θ(n) + Σ O(nᵢ²), và E[nᵢ²] = 2 − 1/n nhờ biến chỉ báo nên trung bình Θ(n)`"]
+  n27 --- n30
+  n31["`Xấu nhất Θ(n²) khi mọi phần tử rơi vào một thùng – thay sắp chèn bằng thuật toán O(n lg n) để chặn`"]
+  n27 --- n31
+  n32["`Bài tập và bài toán cuối chương`"]
   n0 --- n32
-  n33["`Một cận dưới chỉ có nghĩa trong một mô hình tính toán`"]
+  n33["`8.3-4 Sắp n số trong 0..n³ − 1 trong O(n) bằng sắp xếp cơ số cơ số n`"]
   n32 --- n33
-  n34["`Tốc độ tuyến tính trả bằng giả định về đầu vào và thường bộ nhớ phụ Θ(n)`"]
+  n34["`8-1 Cả trung bình và thuật toán ngẫu nhiên hoá vẫn cần Ω(n lg n), qua độ dài đường ngoài`"]
   n32 --- n34
-  n35["`Tính ổn định là tính chất thiết kế, cho phép ghép nhiều lượt sắp theo các khoá khác nhau`"]
+  n35["`8-2 Khoá 0 và 1: chỉ đạt được hai trong ba tiêu chí O(n), ổn định, tại chỗ`"]
   n32 --- n35
+  n36["`8-3 Sắp số nguyên hoặc xâu có độ dài thay đổi trong O(tổng số chữ số hoặc ký tự)`"]
+  n32 --- n36
+  n37["`8-4 Bình nước đỏ–xanh: tất định Θ(n²), cận dưới Ω(n lg n), ngẫu nhiên kiểu quicksort O(n lg n) kỳ vọng`"]
+  n32 --- n37
+  n38["`8-5 k-sắp xếp tương đương A[i] ≤ A[i + k], tạo trong O(n lg(n/k)), sắp nốt trong O(n lg k)`"]
+  n32 --- n38
+  n39["`8-6 Trộn hai danh sách n phần tử cần ít nhất 2n − 1 phép so sánh, MERGE đạt đúng`"]
+  n32 --- n39
+  n40["`8-7 Bổ đề 0-1 và columnsort`"]
+  n32 --- n40
+  n41["`Thuật toán so sánh–hoán đổi mù sắp đúng mọi dãy 0/1 thì sắp đúng mọi đầu vào`"]
+  n40 --- n41
+  n42["`Columnsort 8 bước trên mảng r × s, đúng khi r chẵn, s chia hết r, r ≥ 2s²`"]
+  n40 --- n42
+  n43["`Ghi chú chương`"]
+  n0 --- n43
+  n44["`Cây quyết định do Ford và Johnson đưa ra, Ben-Or mở rộng mô hình`"]
+  n43 --- n44
+  n45["`Seward phát minh sắp xếp đếm năm 1954, Comrie mô tả sắp xếp cơ số năm 1929, sắp xếp theo thùng từ 1956`"]
+  n43 --- n45
+  n46["`Sắp số nguyên b bit trong o(n lg n): Fredman–Willard tới Han O(n lg lg n lg lg lg n), chưa dùng được thực tế`"]
+  n43 --- n46
+  n47["`Columnsort là của Leighton`"]
+  n43 --- n47
+  n48["`Thông điệp xuyên suốt`"]
+  n0 --- n48
+  n49["`Một cận dưới chỉ có nghĩa trong một mô hình tính toán`"]
+  n48 --- n49
+  n50["`Tốc độ tuyến tính trả bằng giả định về đầu vào và thường bộ nhớ phụ Θ(n)`"]
+  n48 --- n50
+  n51["`Tính ổn định là tính chất thiết kế, cho phép ghép nhiều lượt sắp theo các khoá khác nhau`"]
+  n48 --- n51
   class n0 root
-  class n1,n9,n14,n22,n26,n32 branch
-  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35 leaf
+  class n1,n10,n16,n27,n32,n43,n48 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n49,n50,n51 leaf
 ```
 
 ## Nguồn
