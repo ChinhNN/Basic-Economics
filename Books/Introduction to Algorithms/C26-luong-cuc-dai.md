@@ -1809,13 +1809,13 @@ flowchart LR
   n7 --- n9
   n10["`Mục 26.2 — Ford-Fulkerson và định lý luồng cực đại – lát cắt cực tiểu`"]
   n0 --- n10
-  n11["`Mạng thặng dư`"]
+  n11["`Mạng thặng dư G#95;f, có |E#95;f| ≤ 2|E|`"]
   n10 --- n11
-  n12["`Cạnh thuận còn thêm được c − f, cạnh ngược trả lại được f, nhờ đó thuật toán sửa được lựa chọn cũ`"]
+  n12["`c#95;f(u, v) = c − f trên cạnh thuận (còn thêm được), = f(v, u) trên cạnh ngược (trả lại được), nhờ đó thuật toán sửa được lựa chọn cũ`"]
   n11 --- n12
   n13["`Bổ đề 26.1: tăng luồng f ↑ f′ là luồng có giá trị |f| + |f′|`"]
   n11 --- n13
-  n14["`Đường tăng luồng là đường đơn s ⇝ t trong mạng thặng dư, tăng thêm đúng sức chứa thặng dư nhỏ nhất trên đường`"]
+  n14["`Đường tăng luồng p là đường đơn s ⇝ t trong G#95;f, tăng thêm đúng c#95;f(p), sức chứa thặng dư nhỏ nhất trên p`"]
   n10 --- n14
   n15["`Lát cắt (S, T) cho cận trên`"]
   n10 --- n15
@@ -1827,89 +1827,103 @@ flowchart LR
   n15 --- n18
   n19["`Định lý 26.6: f cực đại ⇔ không còn đường tăng luồng ⇔ |f| = c(S, T) với một lát cắt nào đó`"]
   n10 --- n19
-  n20["`FORD-FULKERSON chạy O(E × giá trị luồng cực đại) khi sức chứa nguyên`"]
+  n20["`FORD-FULKERSON chạy O(E|f#42;|) khi sức chứa nguyên`"]
   n10 --- n20
-  n21["`Năm vòng trên mạng Lucky Puck cho luồng 4, 8, 12, 19, 23`"]
+  n21["`Năm vòng trên mạng Lucky Puck cho luồng 4, 8, 12, 19, 23, vòng thứ ba triệt tiêu luồng trên hai cạnh ngược`"]
   n20 --- n21
-  n22["`Chọn đường tồi thì mạng 4 đỉnh cần 2.000.000 lần tăng, sức chứa vô tỷ có thể không dừng`"]
+  n22["`Luồng cực đại 23 khớp lát cắt cực tiểu ({s, v₁, v₂, v₄}, {v₃, t}) sức chứa 12 + 7 + 4 = 23`"]
   n20 --- n22
-  n23["`Edmonds-Karp tìm đường tăng luồng ít cạnh nhất bằng BFS`"]
-  n10 --- n23
-  n24["`Bổ đề 26.7: khoảng cách từ s trong mạng thặng dư không giảm qua các lần tăng`"]
-  n23 --- n24
-  n25["`Định lý 26.8: mỗi cạnh tới hạn tối đa |V|/2 lần, nên O(VE) lần tăng và thời gian O(VE²)`"]
-  n23 --- n25
-  n26["`Mục 26.3 — Cặp ghép cực đại trên đồ thị hai phía, O(VE)`"]
-  n0 --- n26
-  n27["`Cặp ghép là tập cạnh mà mỗi đỉnh thuộc nhiều nhất một cạnh, ví dụ ghép máy với việc`"]
-  n26 --- n27
-  n28["`Mạng tương ứng: s nối mọi đỉnh bên L, cạnh hướng từ L sang R, mọi đỉnh bên R nối t, mọi sức chứa bằng 1`"]
-  n26 --- n28
-  n29["`Bổ đề 26.9: mỗi cặp ghép M ứng với một luồng nguyên có |f| = |M|`"]
-  n26 --- n29
-  n30["`Định lý 26.10 (tính nguyên): sức chứa nguyên thì Ford-Fulkerson cho luồng cực đại nguyên trên mọi cạnh`"]
-  n26 --- n30
-  n31["`Hệ quả 26.11: cỡ cặp ghép cực đại bằng giá trị luồng cực đại, tối đa min(|L|, |R|) lần tăng`"]
-  n26 --- n31
-  n32["`Mục ★26.4 — Đẩy–nâng nhãn của Goldberg, O(V²E)`"]
-  n0 --- n32
-  n33["`Làm việc cục bộ trên tiền luồng: tại mỗi đỉnh luồng vào ≥ luồng ra, đỉnh tràn có luồng dư dương`"]
-  n32 --- n33
-  n34["`Trực giác: luồng chỉ chảy xuống dốc, đỉnh bị kẹt thì được nâng lên, luồng thừa cuối cùng chảy về nguồn`"]
-  n32 --- n34
-  n35["`Hàm độ cao: h(s) = |V|, h(t) = 0, h(u) ≤ h(v) + 1 trên mọi cạnh thặng dư`"]
-  n32 --- n35
-  n36["`PUSH đẩy luồng dư xuống đỉnh thấp hơn đúng 1 bậc, RELABEL nâng u lên 1 + độ cao thấp nhất của láng giềng thặng dư`"]
-  n32 --- n36
-  n37["`Định lý 26.18: hàm độ cao chặn mọi đường s ⇝ t, nên khi hết đỉnh tràn thì tiền luồng là luồng cực đại`"]
-  n32 --- n37
-  n38["`Đếm từng loại thao tác`"]
-  n32 --- n38
-  n39["`Độ cao không vượt 2|V| − 1 vì mỗi đỉnh tràn có đường thặng dư về s`"]
-  n38 --- n39
-  n40["`Nâng nhãn dưới 2|V|² lần, đẩy bão hoà dưới 2|V||E| lần`"]
-  n38 --- n40
-  n41["`Đẩy không bão hoà dưới 4|V|²(|V| + |E|) lần, chứng minh bằng hàm thế của Chương 17`"]
-  n38 --- n41
-  n42["`Mục ★26.5 — Relabel-to-front, O(V³)`"]
-  n0 --- n42
-  n43["`Cạnh chấp nhận được có sức chứa thặng dư dương và h(u) = h(v) + 1, mạng các cạnh này không có chu trình`"]
-  n42 --- n43
-  n44["`DISCHARGE(u) duyệt danh sách đỉnh kề bằng con trỏ current, đẩy hoặc nâng nhãn đến khi u hết luồng dư`"]
-  n42 --- n44
-  n45["`Danh sách L luôn là sắp xếp topo của mạng chấp nhận được, đỉnh vừa nâng nhãn được chuyển lên đầu`"]
-  n42 --- n45
-  n46["`Định lý 26.30: O(V²) pha, mỗi pha tối đa |V| lần xả, tổng O(V³), tốt hơn O(V²E) khi mạng dày`"]
-  n42 --- n46
-  n47["`Ví dụ của sách: xả đỉnh y mất 15 vòng lặp, chạy trên mạng 5 đỉnh cho luồng 20`"]
-  n42 --- n47
-  n48["`Bài toán cuối chương và ghi chú chương`"]
+  n23["`Chọn đường tồi thì mạng 4 đỉnh cần 2.000.000 lần tăng, sức chứa vô tỷ có thể không dừng`"]
+  n20 --- n23
+  n24["`Edmonds-Karp tìm đường tăng luồng ít cạnh nhất bằng BFS`"]
+  n10 --- n24
+  n25["`Bổ đề 26.7: δ#95;f(s, v) trong mạng thặng dư không giảm qua các lần tăng`"]
+  n24 --- n25
+  n26["`Định lý 26.8: mỗi cạnh tới hạn tối đa |V|/2 lần, nên O(VE) lần tăng và thời gian O(VE²)`"]
+  n24 --- n26
+  n27["`Trên Lucky Puck chỉ cần 3 lần tăng (12, 4, 7), trên mạng 4 đỉnh xấu chỉ cần 2`"]
+  n24 --- n27
+  n28["`Mục 26.3 — Cặp ghép cực đại trên đồ thị hai phía, O(VE)`"]
+  n0 --- n28
+  n29["`Cặp ghép là tập cạnh mà mỗi đỉnh thuộc nhiều nhất một cạnh, ví dụ ghép máy với việc`"]
+  n28 --- n29
+  n30["`Ví dụ của sách: L có 5 đỉnh, R có 4, cặp ghép cực đại cỡ 3 vì bốn đỉnh bên L chỉ kề hai đỉnh bên R`"]
+  n28 --- n30
+  n31["`Mạng tương ứng: s nối mọi đỉnh bên L, cạnh hướng từ L sang R, mọi đỉnh bên R nối t, mọi sức chứa bằng 1`"]
+  n28 --- n31
+  n32["`Bổ đề 26.9: mỗi cặp ghép M ứng với một luồng nguyên có |f| = |M|`"]
+  n28 --- n32
+  n33["`Định lý 26.10 (tính nguyên): sức chứa nguyên thì Ford-Fulkerson cho luồng cực đại nguyên trên mọi cạnh`"]
+  n28 --- n33
+  n34["`Hệ quả 26.11: cỡ cặp ghép cực đại bằng giá trị luồng cực đại, tối đa min(|L|, |R|) lần tăng`"]
+  n28 --- n34
+  n35["`Bài tập 26.3-4 ★: định lý Hall, có cặp ghép hoàn hảo khi và chỉ khi |A| ≤ |N(A)| với mọi A ⊆ L`"]
+  n28 --- n35
+  n36["`Mục ★26.4 — Đẩy–nâng nhãn của Goldberg, O(V²E)`"]
+  n0 --- n36
+  n37["`Làm việc cục bộ trên tiền luồng: tại mỗi đỉnh luồng vào ≥ luồng ra, đỉnh tràn có luồng dư dương`"]
+  n36 --- n37
+  n38["`Trực giác: luồng chỉ chảy xuống dốc, đỉnh bị kẹt thì được nâng lên, luồng thừa cuối cùng chảy về nguồn`"]
+  n36 --- n38
+  n39["`Hàm độ cao: h(s) = |V|, h(t) = 0, h(u) ≤ h(v) + 1 trên mọi cạnh thặng dư`"]
+  n36 --- n39
+  n40["`PUSH đẩy luồng dư xuống đỉnh thấp hơn đúng 1 bậc, RELABEL nâng u lên 1 + độ cao thấp nhất của láng giềng thặng dư`"]
+  n36 --- n40
+  n41["`Bổ đề 26.17: có hàm độ cao thì G#95;f không có đường s ⇝ t, vì đường đơn chỉ hạ được dưới |V| bậc`"]
+  n36 --- n41
+  n42["`Định lý 26.18: khi hết đỉnh tràn thì tiền luồng là luồng cực đại`"]
+  n36 --- n42
+  n43["`Ford-Fulkerson giữ luồng hợp lệ và tiến tới hết đường, đẩy–nâng nhãn giữ hết đường và tiến tới luồng hợp lệ`"]
+  n36 --- n43
+  n44["`Đếm từng loại thao tác`"]
+  n36 --- n44
+  n45["`Độ cao không vượt 2|V| − 1 vì mỗi đỉnh tràn có đường thặng dư về s`"]
+  n44 --- n45
+  n46["`Nâng nhãn dưới 2|V|² lần, đẩy bão hoà dưới 2|V||E| lần`"]
+  n44 --- n46
+  n47["`Đẩy không bão hoà dưới 4|V|²(|V| + |E|) lần, chứng minh bằng hàm thế Φ = tổng độ cao các đỉnh tràn (Chương 17)`"]
+  n44 --- n47
+  n48["`Mục ★26.5 — Relabel-to-front, O(V³)`"]
   n0 --- n48
-  n49["`26-1 Thoát hiểm trên lưới: tách đỉnh để đặt sức chứa đỉnh bằng 1`"]
+  n49["`Cạnh chấp nhận được có sức chứa thặng dư dương và h(u) = h(v) + 1, mạng các cạnh này không có chu trình`"]
   n48 --- n49
-  n50["`26-2 Phủ đường tối thiểu của DAG: số đường bằng n trừ giá trị luồng cực đại`"]
+  n50["`DISCHARGE(u) duyệt danh sách đỉnh kề bằng con trỏ current, đẩy hoặc nâng nhãn đến khi u hết luồng dư`"]
   n48 --- n50
-  n51["`26-3 Tư vấn thuật toán: lợi nhuận lớn nhất bằng tổng tiền dự án trừ sức chứa lát cắt cực tiểu`"]
+  n51["`Danh sách L luôn là sắp xếp topo của mạng chấp nhận được, đỉnh vừa nâng nhãn được chuyển lên đầu`"]
   n48 --- n51
-  n52["`26-5 Co giãn: chỉ tăng dọc đường có sức chứa ≥ K, K giảm một nửa mỗi pha, O(E² lg C)`"]
+  n52["`Định lý 26.30: O(V²) pha, mỗi pha tối đa |V| lần xả, tổng O(V³), tốt hơn O(V²E) khi mạng dày`"]
   n48 --- n52
-  n53["`26-6 Hopcroft-Karp: tăng theo tập đường ngắn nhất rời nhau, O(√V E)`"]
+  n53["`Ví dụ của sách: xả đỉnh y mất 15 vòng lặp, chạy trên mạng 5 đỉnh cho luồng 20`"]
   n48 --- n53
-  n54["`Ghi chú: trong thực tế đẩy–nâng nhãn thống trị nhờ heuristic BFS định kỳ và heuristic khe hở`"]
-  n48 --- n54
-  n55["`Thông điệp xuyên suốt`"]
-  n0 --- n55
-  n56["`Mạng thặng dư biến câu hỏi tối ưu thành câu hỏi còn đường s ⇝ t hay không`"]
-  n55 --- n56
-  n57["`Có luồng cực đại thì lát cắt cực tiểu có ngay bằng một lần BFS trên mạng thặng dư`"]
-  n55 --- n57
-  n58["`Nhiều bài toán phân bổ, ghép, chọn tập con quy về luồng nhờ siêu nguồn, tách đỉnh, cạnh ∞`"]
-  n55 --- n58
-  n59["`Chọn đường khéo (BFS, co giãn) hoặc làm cục bộ (đẩy–nâng nhãn) để thời gian không phụ thuộc giá trị luồng`"]
-  n55 --- n59
+  n54["`Bài toán cuối chương và ghi chú chương`"]
+  n0 --- n54
+  n55["`26-1 Thoát hiểm trên lưới n × n: tách đỉnh để đặt sức chứa đỉnh bằng 1, có lối thoát khi luồng cực đại bằng m`"]
+  n54 --- n55
+  n56["`26-2 Phủ đường tối thiểu của DAG: số đường bằng n − |f#42;|, sai khi đồ thị có chu trình`"]
+  n54 --- n56
+  n57["`26-3 Tư vấn thuật toán: cạnh ∞ ép chọn dự án thì phải thuê chuyên gia, lợi nhuận lớn nhất = Σ p#95;i − lát cắt cực tiểu`"]
+  n54 --- n57
+  n58["`26-5 Co giãn: chỉ tăng dọc đường có sức chứa ≥ K, K giảm một nửa mỗi pha, O(E² lg C)`"]
+  n54 --- n58
+  n59["`26-6 Hopcroft-Karp: tăng theo tập đường ngắn nhất rời nhau, O(√V E)`"]
+  n54 --- n59
+  n60["`Ghi chú: Edmonds–Karp và Dinic độc lập tìm ra BFS cho thời gian đa thức, nhanh nhất về tiệm cận là Goldberg–Rao dựa trên luồng chặn`"]
+  n54 --- n60
+  n61["`Ghi chú: trong thực tế đẩy–nâng nhãn thống trị nhờ heuristic BFS định kỳ và heuristic khe hở`"]
+  n54 --- n61
+  n62["`Thông điệp xuyên suốt`"]
+  n0 --- n62
+  n63["`Mạng thặng dư biến câu hỏi tối ưu thành câu hỏi còn đường s ⇝ t hay không`"]
+  n62 --- n63
+  n64["`Có luồng cực đại thì lát cắt cực tiểu có ngay bằng một lần BFS trên mạng thặng dư`"]
+  n62 --- n64
+  n65["`Nhiều bài toán phân bổ, ghép, chọn tập con quy về luồng nhờ siêu nguồn, tách đỉnh, cạnh ∞`"]
+  n62 --- n65
+  n66["`Chọn đường khéo (BFS, co giãn) hoặc làm cục bộ (đẩy–nâng nhãn) để thời gian không phụ thuộc |f#42;|`"]
+  n62 --- n66
   class n0 root
-  class n1,n10,n26,n32,n42,n48,n55 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59 leaf
+  class n1,n10,n28,n36,n48,n54,n62 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n63,n64,n65,n66 leaf
 ```
 
 ## Nguồn

@@ -2,7 +2,11 @@
 
 ## Ý chính
 
-Tác giả muốn người đọc thấy rằng **chỉ cần thêm ba từ khoá — spawn, sync và parallel — vào mã giả tuần tự là mô tả được một thuật toán song song trên máy nhiều nhân bộ nhớ chung; hiệu năng của nó được đo bằng hai con số độc lập với máy là khối lượng công việc T₁ (work, thời gian chạy trên một bộ xử lý) và độ dài đường găng T∞ (span, thời gian chạy khi có vô hạn bộ xử lý); hai con số này cho cận dưới T_P ≥ max(T₁/P, T∞), và bất kỳ bộ lập lịch tham lam nào cũng đạt T_P ≤ T₁/P + T∞ — tức là trong phạm vi hệ số 2 của tối ưu, và gần tăng tốc tuyến tính hoàn hảo khi độ song song T₁/T∞ lớn hơn nhiều so với số bộ xử lý P. Vì vậy mục tiêu thiết kế là giữ khối lượng công việc bằng bản tuần tự tốt nhất và làm đường găng càng ngắn càng tốt.**
+Tác giả muốn người đọc thấy rằng **chỉ cần thêm ba từ khoá — spawn, sync và parallel — vào mã giả tuần tự là mô tả được một thuật toán song song trên máy nhiều nhân bộ nhớ chung.**
+
+**Hiệu năng của nó được đo bằng hai con số độc lập với máy là khối lượng công việc T₁ (work, thời gian chạy trên một bộ xử lý) và độ dài đường găng T∞ (span, thời gian chạy khi có vô hạn bộ xử lý). Hai con số này cho cận dưới T_P ≥ max(T₁/P, T∞), và bất kỳ bộ lập lịch tham lam nào cũng đạt T_P ≤ T₁/P + T∞ — tức là trong phạm vi hệ số 2 của tối ưu, và gần tăng tốc tuyến tính hoàn hảo khi độ song song T₁/T∞ lớn hơn nhiều so với số bộ xử lý P.**
+
+**Vì vậy mục tiêu thiết kế là giữ khối lượng công việc bằng bản tuần tự tốt nhất và làm đường găng càng ngắn càng tốt.**
 
 Mục 27.1 xây mô hình qua ví dụ P-FIB: song song lồng nhau (spawn/sync), đồ thị tính toán (dag) gồm các mạch (strand) với bốn loại cạnh, máy tính song song lý tưởng có bộ nhớ nhất quán tuần tự, luật khối lượng công việc T_P ≥ T₁/P, luật đường găng T_P ≥ T∞, hệ số tăng tốc, độ song song, độ dư song song; Định lý 27.1 về lập lịch tham lam và hai hệ quả; quy tắc ghép nối tiếp (cộng span) và song song (lấy max span); vòng lặp **parallel for** được biên dịch thành cây chia đôi nên tốn thêm Θ(lg n) span; tranh chấp tất định (determinacy race) và câu chuyện chương trình cờ vua ★Socrates cho thấy "nhanh hơn trên 32 bộ xử lý" có thể "chậm hơn trên 512 bộ xử lý".
 
@@ -1704,13 +1708,13 @@ flowchart LR
   n12 --- n15
   n16["`Work T₁ là thời gian trên 1 bộ xử lý, span T∞ là đường găng, thời gian khi có vô hạn bộ xử lý`"]
   n15 --- n16
-  n17["`Luật work Tₚ ≥ T₁/P và luật span Tₚ ≥ T∞`"]
+  n17["`Luật work T#95;P ≥ T₁/P và luật span T#95;P ≥ T∞`"]
   n15 --- n17
   n18["`Độ song song T₁/T∞ là tăng tốc tối đa, ví dụ P-FIB(4) có 17 mạch, đường găng 8, độ song song 2,125`"]
   n15 --- n18
   n19["`Lập lịch tham lam`"]
   n12 --- n19
-  n20["`Định lý 27.1: mọi bộ lập lịch tham lam đạt Tₚ ≤ T₁/P + T∞`"]
+  n20["`Định lý 27.1: mọi bộ lập lịch tham lam đạt T#95;P ≤ T₁/P + T∞`"]
   n19 --- n20
   n21["`Hệ quả 27.2: trong phạm vi hệ số 2 của lịch tối ưu`"]
   n19 --- n21
@@ -1762,7 +1766,7 @@ flowchart LR
   n41 --- n44
   n45["`27-6 Thuật toán ngẫu nhiên: luật work, span và cận tham lam theo kỳ vọng, P-RANDOMIZED-QUICKSORT`"]
   n41 --- n45
-  n46["`Ghi chú: Blumofe và Leiserson chứng minh lập lịch đánh cắp việc ngẫu nhiên đạt E[Tₚ] ≤ T₁/P + O(T∞)`"]
+  n46["`Ghi chú: Blumofe và Leiserson chứng minh lập lịch đánh cắp việc ngẫu nhiên đạt E[T#95;P] ≤ T₁/P + O(T∞)`"]
   n41 --- n46
   n47["`Mã giả và mô hình lấy cảm hứng từ Cilk của MIT`"]
   n41 --- n47
@@ -1802,7 +1806,9 @@ Bài toán cuối chương nhìn về phía trước: song song hoá phân tích
 ## Lưu ý
 
 - **Không có mục có dấu sao (★) trong chương này.** Dấu sao chỉ có ở hai bài tập: Exercise 27.3-5 (song song hoá RANDOMIZED-SELECT) và Exercise 27.3-6 (song song hoá SELECT). Ký hiệu "★" trong tên chương trình cờ vua "★Socrates" (trang 790) là một phần của tên riêng, không phải dấu bài khó.
-- **Lớp chữ PDF hỏng nặng ký hiệu toán của chương, đã đọc lại từ ảnh trang:** "T1" của lớp chữ dùng chung cho cả T₁ (work) lẫn T∞ (span) — ký hiệu ∞ mất hoàn toàn, nên các công thức "T1=T1" thực ra là T₁/T∞; "‚.n/" là Θ(φⁿ) (ký hiệu φ mất); "PM1", "PMS1", "MS01", "M1" lẫn lộn chỉ số 1 và ∞; mọi dấu ≤, ≥, ≪ bị mất (ví dụ "TP T1=P" là T_P ≥ T₁/P); "˛" là α, "˝" là ⊗; "AŒq3" là A[q₃]; dòng 3 của P-MERGE mất chú thích "// ensure that n₁ ≥ n₂". Toàn bộ pseudocode, công thức (27.1)–(27.11), Định lý 27.1, Hệ quả 27.2–27.3 và Hình 27.1–27.6 trong bản tổng hợp này được đối chiếu với ảnh các trang 774–812. Hình 27.1, 27.2, 27.4, 27.5, 27.6 gần như không còn gì trong lớp chữ; người tổng hợp đọc trên ảnh và vẽ lại bằng sơ đồ text/bảng.
+- **Lớp chữ PDF hỏng nặng ký hiệu toán của chương, đã đọc lại từ ảnh trang:** "T1" của lớp chữ dùng chung cho cả T₁ (work) lẫn T∞ (span) — ký hiệu ∞ mất hoàn toàn, nên các công thức "T1=T1" thực ra là T₁/T∞; "‚.n/" là Θ(φⁿ) (ký hiệu φ mất); "PM1", "PMS1", "MS01", "M1" lẫn lộn chỉ số 1 và ∞; mọi dấu ≤, ≥, ≪ bị mất (ví dụ "TP T1=P" là T_P ≥ T₁/P); "˛" là α, "˝" là ⊗; "AŒq3" là A[q₃]; dòng 3 của P-MERGE mất chú thích "// ensure that n₁ ≥ n₂".
+
+  Toàn bộ pseudocode, công thức (27.1)–(27.11), Định lý 27.1, Hệ quả 27.2–27.3 và Hình 27.1–27.6 trong bản tổng hợp này được đối chiếu với ảnh các trang 774–812. Hình 27.1, 27.2, 27.4, 27.5, 27.6 gần như không còn gì trong lớp chữ; người tổng hợp đọc trên ảnh và vẽ lại bằng sơ đồ text/bảng.
 - **Lỗi in và chỗ chưa chặt của sách (nhận xét của người tổng hợp):**
   - Trang 800, lời giải thích dòng 10 của P-MERGE viết "all the elements in T[q₂ .. p₂] are at least as large as T[q₁]"; đúng phải là **T[q₂ .. r₂]**.
   - Trang 774 thiếu chữ: "as well how the underlying concurrency platform…" (đúng: "as well as how"). Trang 790 "processsors" (thừa chữ s). Trang 792 "straighforward" (thiếu chữ t). Trang 795 "add the products from T into C in using…" (thừa chữ "in").

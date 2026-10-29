@@ -513,7 +513,17 @@ Mục 31.8 (★) bàn mật độ số nguyên tố (định lý số nguyên t�
 
 Chương mở đầu bằng một nhận xét lịch sử: lý thuyết số từng bị coi là một môn toán thuần túy đẹp nhưng phần lớn vô dụng. Ngày nay các thuật toán số học được dùng rộng rãi, phần lớn nhờ sự ra đời của các hệ mật mã dựa trên số nguyên tố lớn. Những hệ này **khả thi** vì ta tìm được số nguyên tố lớn một cách dễ dàng, và **an toàn** vì ta không biết cách phân tích hiệu quả tích của các số nguyên tố lớn (hay giải hiệu quả các bài toán liên quan, như tính logarit rời rạc). Chương trình bày phần lý thuyết số và các thuật toán nằm dưới những ứng dụng như vậy.
 
-Trình tự chương được nêu trước: Mục 31.1 giới thiệu khái niệm cơ bản (chia hết, đồng dư, phân tích duy nhất); Mục 31.2 nghiên cứu một trong những thuật toán cổ nhất thế giới — thuật toán Euclid tính ước chung lớn nhất; Mục 31.3 ôn số học modulo; Mục 31.4 nghiên cứu tập bội của một số a modulo n và chỉ cách tìm mọi nghiệm của ax ≡ b (mod n) bằng thuật toán Euclid; Mục 31.5 trình bày định lý số dư Trung Hoa; Mục 31.6 xét lũy thừa của a modulo n và thuật toán bình phương lặp tính aᵇ mod n — phép toán nằm ở trung tâm của phép thử nguyên tố hiệu quả và của phần lớn mật mã hiện đại; Mục 31.7 mô tả hệ mật mã khóa công khai RSA; Mục 31.8 xét một phép thử nguyên tố ngẫu nhiên, dùng để tìm số nguyên tố lớn khi tạo khóa RSA; cuối cùng Mục 31.9 bàn một heuristic đơn giản mà hiệu quả để phân tích thừa số các số nhỏ.
+Trình tự chương được nêu trước:
+
+- Mục 31.1 giới thiệu khái niệm cơ bản (chia hết, đồng dư, phân tích duy nhất)
+- Mục 31.2 nghiên cứu một trong những thuật toán cổ nhất thế giới — thuật toán Euclid tính ước chung lớn nhất
+- Mục 31.3 ôn số học modulo
+- Mục 31.4 nghiên cứu tập bội của một số a modulo n và chỉ cách tìm mọi nghiệm của ax ≡ b (mod n) bằng thuật toán Euclid
+- Mục 31.5 trình bày định lý số dư Trung Hoa
+- Mục 31.6 xét lũy thừa của a modulo n và thuật toán bình phương lặp tính aᵇ mod n — phép toán nằm ở trung tâm của phép thử nguyên tố hiệu quả và của phần lớn mật mã hiện đại
+- Mục 31.7 mô tả hệ mật mã khóa công khai RSA
+- Mục 31.8 xét một phép thử nguyên tố ngẫu nhiên, dùng để tìm số nguyên tố lớn khi tạo khóa RSA
+- Cuối cùng Mục 31.9 bàn một heuristic đơn giản mà hiệu quả để phân tích thừa số các số nhỏ.
 
 Tác giả ghi nhận một điều thú vị: phân tích thừa số là một bài toán mà người ta có thể **mong** nó khó, vì độ an toàn của RSA phụ thuộc vào việc phân tích số lớn là khó.
 
@@ -2464,9 +2474,9 @@ flowchart LR
   n0 --- n13
   n14["`Số học modulo đặt vào khuôn lý thuyết nhóm`"]
   n13 --- n14
-  n15["`Nhóm cộng modulo n và nhóm nhân modulo n gồm các số nguyên tố cùng nhau với n`"]
+  n15["`Nhóm cộng (ℤₙ, +ₙ) và nhóm nhân (ℤₙ#42;, ·ₙ) gồm các số nguyên tố cùng nhau với n`"]
   n14 --- n15
-  n16["`Hàm phi Euler φ(n) là số phần tử của nhóm nhân modulo n, ví dụ φ(45) = 24, φ(p) = p − 1`"]
+  n16["`Hàm phi Euler φ(n) = |ℤₙ#42;|, ví dụ φ(45) = 24, φ(p) = p − 1`"]
   n14 --- n16
   n17["`Định lý Lagrange: cỡ nhóm con chia hết cỡ nhóm, nhóm con thực sự có tối đa một nửa số phần tử`"]
   n14 --- n17
@@ -2488,7 +2498,7 @@ flowchart LR
   n0 --- n25
   n26["`Định lý Euler a^φ(n) ≡ 1 và định lý Fermat a^(p−1) ≡ 1 (mod p)`"]
   n25 --- n26
-  n27["`Căn nguyên thủy sinh cả nhóm nhân modulo n, ví dụ 3 modulo 7, logarit rời rạc là số mũ ngược lại`"]
+  n27["`Căn nguyên thủy sinh cả nhóm ℤₙ#42;, ví dụ 3 modulo 7, logarit rời rạc là số mũ ngược lại`"]
   n25 --- n27
   n28["`Hệ quả 31.35: có căn bậc hai không tầm thường của 1 modulo n thì n là hợp số, ví dụ 6 modulo 35`"]
   n25 --- n28
@@ -2578,12 +2588,18 @@ Chương 32 ([C32-so-khop-chuoi.md](C32-so-khop-chuoi.md)) dùng ngay số học
 ## Lưu ý
 
 - **Hai mục có dấu sao (★) trong chương:** Mục 31.8 "Primality testing" và Mục 31.9 "Integer factorization". Các bài tập có dấu sao: Exercise 31.1-11, 31.4-4, 31.7-3, 31.8-2, 31.9-4. Không có Problem nào mang dấu sao.
-- **Lớp chữ PDF hỏng gần như mọi ký hiệu toán của chương:** β thành `ˇ`, Θ thành `‚`, φ (hàm phi) và π (hàm đếm số nguyên tố) mất hẳn (ví dụ `.n/D n` là `φ(n) = n`, `.10/D 4` là `π(10) = 4`), dấu ≡ mất (ví dụ `ax b. mod n/` là `ax ≡ b (mod n)`), ≤ và ≥ mất, ⟨a⟩ thành `hai`, ℤₙ* thành `Zn` (không phân biệt được với ℤₙ), chỉ số trên dưới dính nhau (`pe11 pe22` là `p₁^e₁ p₂^e₂`, `x2i /NUL1` là `x²ᵢ₋₁`), dấu ⊕ thành `˚`, σ (chữ ký số) mất hẳn, các bảng của Hình 31.2, 31.3 và hình rho (Hình 31.7) vỡ thành chuỗi số rời. Mọi pseudocode (EUCLID, EXTENDED-EUCLID, MODULAR-LINEAR-EQUATION-SOLVER, MODULAR-EXPONENTIATION, PSEUDOPRIME, WITNESS, MILLER-RABIN, POLLARD-RHO), mọi công thức (31.1)–(31.44), các Hình 31.1–31.7 và tất cả định lý, hệ quả trong bản tổng hợp này được đọc lại từ ảnh của toàn bộ 59 trang 926–984.
+- **Lớp chữ PDF hỏng gần như mọi ký hiệu toán của chương:** β thành `ˇ`, Θ thành `‚`, φ (hàm phi) và π (hàm đếm số nguyên tố) mất hẳn (ví dụ `.n/D n` là `φ(n) = n`, `.10/D 4` là `π(10) = 4`), dấu ≡ mất (ví dụ `ax b. mod n/` là `ax ≡ b (mod n)`), ≤ và ≥ mất, ⟨a⟩ thành `hai`, ℤₙ* thành `Zn` (không phân biệt được với ℤₙ), chỉ số trên dưới dính nhau (`pe11 pe22` là `p₁^e₁ p₂^e₂`, `x2i /NUL1` là `x²ᵢ₋₁`), dấu ⊕ thành `˚`, σ (chữ ký số) mất hẳn, các bảng của Hình 31.2, 31.3 và hình rho (Hình 31.7) vỡ thành chuỗi số rời.
+
+  Mọi pseudocode (EUCLID, EXTENDED-EUCLID, MODULAR-LINEAR-EQUATION-SOLVER, MODULAR-EXPONENTIATION, PSEUDOPRIME, WITNESS, MILLER-RABIN, POLLARD-RHO), mọi công thức (31.1)–(31.44), các Hình 31.1–31.7 và tất cả định lý, hệ quả trong bản tổng hợp này được đọc lại từ ảnh của toàn bộ 59 trang 926–984.
 - **Chỗ sách viết chưa chặt hoặc có lỗi nhỏ (nhận xét của người tổng hợp):**
   - Mục 31.9, trang 977: sách viết "k follows the sequence 1, 2, 4, 8, …", nhưng dòng 4 của POLLARD-RHO khởi tạo k = 2, nên giá trị của biến k thực ra là 2, 4, 8, 16, …; dãy 1, 2, 4, 8, … là dãy CHỈ SỐ của các giá trị được lưu vào y (x₁ được lưu ở dòng 3, trước khi có k).
   - Ghi chú chương, trang 983: tên đồng tác giả thuật toán AKS bị in là "Saxema"; đúng là Nitin **Saxena** (theo hiểu biết của người tổng hợp).
   - Problem 31-4, trang 982: phương trình định nghĩa thặng dư bậc hai in là "x² = a (mod p)" — đúng ra phải là dấu đồng dư "≡"; câu (b) lặp lại giả thiết "If p is prime" dù p đã được cho là số nguyên tố lẻ.
   - Mục 31.7, trang 963: câu "After two decades of research, however, no easier method has been found to break the RSA public-key cryptosystem" — RSA ra đời năm 1977, nên tới ấn bản 2009 đã hơn ba thập kỷ; câu này nhiều khả năng giữ nguyên từ ấn bản 1990 hoặc 2001.
   - Mục 31.5 mở đầu nói Tôn Tử (Sun-Tsŭ) giải bài toán "khoảng năm 100 sau Công nguyên", còn Ghi chú chương lại nói ông sống "trong khoảng 200 TCN tới 200 SCN — niên đại rất không chắc chắn". Hai câu không mâu thuẫn hẳn nhưng nên hiểu năm 100 chỉ là ước đoán.
-- **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đều đúng:** gcd(30, 21) = 3 qua ba lần gọi đệ quy; bảng EXTENDED-EUCLID(99, 78) cho (3, −11, 14) (Hình 31.1); bảng nhân của ℤ₁₅* (Hình 31.2(b)); φ(45) = 24; 5⁻¹ ≡ 9 (mod 11), 7⁻¹ ≡ 13 (mod 15), 4/7 ≡ 7 (mod 15); 14x ≡ 30 (mod 100) có hai nghiệm 95 và 45; bảng định lý số dư Trung Hoa mod 65 (Hình 31.3) và a ≡ 42 (mod 65); bảng lũy thừa của 3 và 2 modulo 7; bảng MODULAR-EXPONENTIATION(7, 560, 561) (Hình 31.4); 6 là căn bậc hai không tầm thường của 1 modulo 35; dãy WITNESS(7, 561) = ⟨241, 298, 166, 67, 1⟩; 22 giả nguyên tố cơ số 2 nhỏ hơn 10.000, bốn số đầu 341, 561, 645, 1105; ln 2¹⁰²⁴ ≈ 709,8 ≈ 710; λ(561) = lcm(2, 10, 16) = 80; dãy rho modulo 1387, 19, 73 (Hình 31.7) và thừa số 19 tìm được ở x₇ = 177. Các đáp số bài tập do người tổng hợp đưa ra (ví dụ EXTENDED-EUCLID(899, 493) = (29, −6, 11); khóa RSA d = 187 và bản mã 254 ở Exercise 31.7-1; thừa số 73 được in ở bước i = 12 ở Exercise 31.9-1) cũng đã được tính lại.
+- **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đều đúng:** gcd(30, 21) = 3 qua ba lần gọi đệ quy; bảng EXTENDED-EUCLID(99, 78) cho (3, −11, 14) (Hình 31.1); bảng nhân của ℤ₁₅* (Hình 31.2(b)); φ(45) = 24; 5⁻¹ ≡ 9 (mod 11), 7⁻¹ ≡ 13 (mod 15), 4/7 ≡ 7 (mod 15); 14x ≡ 30 (mod 100) có hai nghiệm 95 và 45.
+
+  Bảng định lý số dư Trung Hoa mod 65 (Hình 31.3) và a ≡ 42 (mod 65); bảng lũy thừa của 3 và 2 modulo 7; bảng MODULAR-EXPONENTIATION(7, 560, 561) (Hình 31.4); 6 là căn bậc hai không tầm thường của 1 modulo 35; dãy WITNESS(7, 561) = ⟨241, 298, 166, 67, 1⟩; 22 giả nguyên tố cơ số 2 nhỏ hơn 10.000, bốn số đầu 341, 561, 645, 1105; ln 2¹⁰²⁴ ≈ 709,8 ≈ 710; λ(561) = lcm(2, 10, 16) = 80; dãy rho modulo 1387, 19, 73 (Hình 31.7) và thừa số 19 tìm được ở x₇ = 177.
+
+  Các đáp số bài tập do người tổng hợp đưa ra (ví dụ EXTENDED-EUCLID(899, 493) = (29, −6, 11); khóa RSA d = 187 và bản mã 254 ở Exercise 31.7-1; thừa số 73 được in ở bước i = 12 ở Exercise 31.9-1) cũng đã được tính lại.
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương vẫn là Chương 31 "Number-Theoretic Algorithms" với cùng mạch nội dung (Euclid, số học modulo, định lý số dư Trung Hoa, lũy thừa, RSA, Miller-Rabin). Người tổng hợp nhớ rằng ấn bản 4 cập nhật lời văn về độ dài khóa RSA và về các thuật toán nhân số nguyên nhanh, nhưng không nhớ chắc chi tiết nào khác (ví dụ Mục 31.9 có được giữ nguyên hay không), nên không liệt kê.

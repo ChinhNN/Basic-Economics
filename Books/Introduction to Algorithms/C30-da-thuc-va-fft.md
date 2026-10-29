@@ -2,7 +2,11 @@
 
 ## Ý chính
 
-Tác giả muốn người đọc hiểu rằng **nhân hai đa thức bậc nhỏ hơn n theo cách "nhân từng hạng tử" tốn Θ(n²), nhưng có thể hạ xuống Θ(n lg n) bằng cách đổi cách biểu diễn: chuyển hai đa thức từ dạng hệ số sang dạng giá trị tại các điểm (đánh giá), nhân từng cặp giá trị (Θ(n)), rồi chuyển ngược về dạng hệ số (nội suy); hai bước chuyển đổi chỉ nhanh được nếu chọn các điểm là các căn phức bậc 2n của đơn vị, vì khi đó bình phương các điểm lại là các căn đơn vị bậc thấp hơn một nửa (bổ đề chia đôi), cho phép chia để trị với truy hồi T(n) = 2T(n/2) + Θ(n); thuật toán đó là biến đổi Fourier nhanh (FFT), và phép nội suy ngược lại cũng chỉ là một FFT với ωₙ thay bằng ωₙ⁻¹ rồi chia cho n.**
+Tác giả muốn người đọc hiểu rằng **nhân hai đa thức bậc nhỏ hơn n theo cách "nhân từng hạng tử" tốn Θ(n²), nhưng có thể hạ xuống Θ(n lg n) bằng cách đổi cách biểu diễn: chuyển hai đa thức từ dạng hệ số sang dạng giá trị tại các điểm (đánh giá), nhân từng cặp giá trị (Θ(n)), rồi chuyển ngược về dạng hệ số (nội suy).**
+
+**Hai bước chuyển đổi chỉ nhanh được nếu chọn các điểm là các căn phức bậc 2n của đơn vị, vì khi đó bình phương các điểm lại là các căn đơn vị bậc thấp hơn một nửa (bổ đề chia đôi), cho phép chia để trị với truy hồi T(n) = 2T(n/2) + Θ(n).**
+
+**Thuật toán đó là biến đổi Fourier nhanh (FFT), và phép nội suy ngược lại cũng chỉ là một FFT với ωₙ thay bằng ωₙ⁻¹ rồi chia cho n.**
 
 Phần mở đầu định nghĩa đa thức, hệ số, bậc, cận bậc (degree-bound), phép cộng (Θ(n)) và phép nhân (công thức tích chập cⱼ = Σₖ aₖbⱼ₋ₖ, Θ(n²)).
 
@@ -1460,7 +1464,7 @@ flowchart LR
   n15 --- n16
   n17["`Ba bổ đề then chốt`"]
   n15 --- n17
-  n18["`Bổ đề 30.3 (triệt tiêu): ω của dn mũ dk bằng ωₙᵏ, nên ωₙ^(n/2) = −1`"]
+  n18["`Bổ đề 30.3 (triệt tiêu): ω#95;(dn)^(dk) = ωₙᵏ, nên ωₙ^(n/2) = −1`"]
   n17 --- n18
   n19["`Bổ đề 30.5 (chia đôi): bình phương n căn bậc n là n/2 căn bậc n/2, mỗi căn xuất hiện hai lần`"]
   n17 --- n19
@@ -1468,9 +1472,9 @@ flowchart LR
   n17 --- n20
   n21["`DFT là vectơ giá trị yₖ = A(ωₙᵏ), tính thẳng tốn Θ(n²)`"]
   n15 --- n21
-  n22["`FFT tách hệ số chỉ số chẵn và lẻ: A(x) = A0(x²) + x·A1(x²)`"]
+  n22["`FFT tách hệ số chỉ số chẵn và lẻ: A(x) = A^[0](x²) + x·A^[1](x²)`"]
   n15 --- n22
-  n23["`Nhờ bổ đề chia đôi chỉ còn hai DFT cỡ n/2, ghép bằng yₖ = y0ₖ ± ωₙᵏ·y1ₖ`"]
+  n23["`Nhờ bổ đề chia đôi chỉ còn hai DFT cỡ n/2, ghép bằng yₖ = yₖ^[0] ± ωₙᵏ·yₖ^[1]`"]
   n22 --- n23
   n24["`T(n) = 2T(n/2) + Θ(n) = Θ(n lg n), ωₙᵏ gọi là hệ số xoay`"]
   n22 --- n24
@@ -1480,7 +1484,7 @@ flowchart LR
   n15 --- n26
   n27["`Mục 30.3 — Cài đặt FFT hiệu quả`"]
   n0 --- n27
-  n28["`Phép con bướm lưu biểu thức con chung t = ω·y1ₖ rồi ra y0ₖ + t và y0ₖ − t`"]
+  n28["`Phép con bướm lưu biểu thức con chung t = ω·yₖ^[1] rồi ra yₖ^[0] + t và yₖ^[0] − t`"]
   n27 --- n28
   n29["`Thứ tự lá của cây đệ quy với n = 8 là 0, 4, 2, 6, 1, 5, 3, 7, tức hoán vị đảo bit`"]
   n27 --- n29
@@ -1540,7 +1544,11 @@ Phụ lục D ([PD-ma-tran.md](PD-ma-tran.md)) cho định thức Vandermonde (P
 ## Lưu ý
 
 - **Không có mục có dấu sao (★) trong chương này.** Dấu sao chỉ xuất hiện ở ba bài tập: Exercise 30.2-6 (FFT trên vành Zₘ với m = 2^(tn/2) + 1), Exercise 30.2-8 (biến đổi chirp) và Exercise 30.3-4 (tìm bộ cộng hỏng trong mạch FFT).
-- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương; mọi công thức, pseudocode và hình trong bản tổng hợp được đọc lại từ ảnh trang 898–925.** Cụ thể: ω bị thành "!" (ví dụ `!kn` là ωₙᵏ, `!D !! n` ở dòng 13 RECURSIVE-FFT là ω = ω·ωₙ); Θ thành "‚"; chỉ số trên [0], [1] thành `AŒ0`, `yŒ1k`; dấu trừ thành `/NUL`; dấu ≤ mất trong tích Vandermonde ("0j< kn/NUL1" là 0 ≤ j < k ≤ n − 1) và trong Bài toán 30-4, 30-5; ⊗ (tích chập) thành "˝"; dấu nhân từng thành phần "·" trong Định lý 30.8 mất hẳn ("and denotes the componentwise product"); dấu sao trong Z*ₚ của Problem 30-6 mất (lớp chữ chỉ còn "Zp"); ký hiệu z trong Exercise 30.2-7, 30.2-8 và Problem 30-5 thành "´"; công thức gợi ý của Exercise 30.2-8 vỡ thành nhiều mảnh. Các hình 30.1 (sơ đồ nhân nhanh), 30.2 (tám căn bậc 8 trên mặt phẳng phức), 30.3 (con bướm), 30.4 (cây lời gọi RECURSIVE-FFT với n = 8), 30.5 (mạch FFT song song n = 8) được mô tả lại từ ảnh trang 904, 907, 916, 919.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương; mọi công thức, pseudocode và hình trong bản tổng hợp được đọc lại từ ảnh trang 898–925.**
+
+  Cụ thể: ω bị thành "!" (ví dụ `!kn` là ωₙᵏ, `!D !! n` ở dòng 13 RECURSIVE-FFT là ω = ω·ωₙ); Θ thành "‚"; chỉ số trên [0], [1] thành `AŒ0`, `yŒ1k`; dấu trừ thành `/NUL`; dấu ≤ mất trong tích Vandermonde ("0j< kn/NUL1" là 0 ≤ j < k ≤ n − 1) và trong Bài toán 30-4, 30-5; ⊗ (tích chập) thành "˝"; dấu nhân từng thành phần "·" trong Định lý 30.8 mất hẳn ("and denotes the componentwise product"); dấu sao trong Z*ₚ của Problem 30-6 mất (lớp chữ chỉ còn "Zp"); ký hiệu z trong Exercise 30.2-7, 30.2-8 và Problem 30-5 thành "´"; công thức gợi ý của Exercise 30.2-8 vỡ thành nhiều mảnh.
+
+  Các hình 30.1 (sơ đồ nhân nhanh), 30.2 (tám căn bậc 8 trên mặt phẳng phức), 30.3 (con bướm), 30.4 (cây lời gọi RECURSIVE-FFT với n = 8), 30.5 (mạch FFT song song n = 8) được mô tả lại từ ảnh trang 904, 907, 916, 919.
 - **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):**
   - Bổ đề triệt tiêu (Lemma 30.3, trang 907) phát biểu "với mọi số nguyên n ≥ 0", nhưng ωₙ = e^(2πi/n) không xác định khi n = 0; điều kiện đúng phải là n > 0 (người tổng hợp nhớ mang máng đây là một mục trong danh sách lỗi chính thức, nhưng không tra cứu).
   - Câu mở đầu đoạn "Interpolation at the complex roots of unity" (trang 912) viết "interpolate the complex roots of unity by a polynomial" — đảo ngược ý; ý đúng là nội suy một đa thức từ các giá trị của nó tại các căn đơn vị.
