@@ -1572,102 +1572,203 @@ Tốc độ và chi phí suy luận quyết định một mô hình có dùng đ
 Toàn cảnh Chương 9 trên một trang: sáu nhánh lớn theo các mục chính của chương gốc — điểm nghẽn (mục 3–4), chỉ số (mục 5), bộ tăng tốc (mục 6), tối ưu mức mô hình (mục 7–9 và 10–11), tối ưu mức dịch vụ (mục 12–15) — mỗi nhánh ghi cơ chế, quy tắc chọn và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
-mindmap
-  root((Chương 9: tìm điểm nghẽn rồi tối ưu ở mức mô hình và mức dịch vụ để suy luận nhanh hơn, rẻ hơn))
-    Mục 3–4 — Điểm nghẽn quyết định cách tối ưu
-      Hai loại điểm nghẽn
-        Compute-bound: bị chặn bởi số phép tính → cần chip nhiều FLOP/s hoặc nhiều chip
-        Bandwidth-bound: bị chặn bởi tốc độ chuyển dữ liệu bộ nhớ → cần chip băng thông cao
-        Cường độ số học, tức số phép tính trên mỗi byte, cho biết phép toán thuộc vùng nào
-      Hai bước suy luận của LLM
-        Prefill xử lý song song token đầu vào → compute-bound, quyết định TTFT
-        Decode sinh từng token, mỗi bước nạp toàn bộ trọng số → bandwidth-bound, quyết định TPOT
-        Hai bước khác đặc tính nên trong sản xuất thường chạy trên máy riêng
-      API trực tuyến và API theo lô
-        Trực tuyến ưu tiên độ trễ thấp; theo lô ưu tiên throughput, rẻ hơn 50%, trả kết quả sau vài giờ
-        Hợp batch API: sinh dữ liệu tổng hợp, báo cáo định kỳ, đánh chỉ mục lại dữ liệu
-        Streaming giảm thời gian chờ token đầu nhưng không chấm được câu trả lời trước khi hiển thị
-    Mục 5 — Đo đúng chỉ số trước khi tối ưu
-      Độ trễ tách thành TTFT và TPOT
-        Độ trễ tổng = TTFT + TPOT × số token đầu ra
-        Người đọc nhanh khoảng 120 ms/token → TPOT cỡ 6–8 token/giây là đủ
-        Agent và CoT: đo time to publish, tức token đầu người dùng thực sự nhìn thấy
-      Xem độ trễ theo phân vị, không theo trung bình
-        Mười TTFT quanh 100 ms cùng một yêu cầu 3.000 ms → trung bình 390 ms, trung vị 100 ms
-        Theo dõi p90, p95, p99 để phát hiện ngoại lai và lỗi
-      Throughput quyết định chi phí
-        Máy 2 USD/giờ sinh 100 token/giây → khoảng 5,556 USD mỗi triệu token đầu ra
-        1.000 yêu cầu: 1,11 USD decode cộng 0,33 USD prefill = 1,44 USD
-        Batching tăng throughput nhưng làm độ trễ xấu đi; LinkedIn tăng throughput 2–3 lần khi hy sinh TTFT, TPOT
-        Goodput chỉ đếm yêu cầu đạt SLO: 100 yêu cầu/phút, 30 đạt SLO → goodput 30
-      Mức sử dụng phần cứng
-        GPU utilization của nvidia-smi chỉ đo thời gian GPU bận, dễ gây hiểu lầm nhất
-        MFU = throughput thực chia throughput ở FLOP/s đỉnh; huấn luyện trên 50% là tốt, PaLM đạt 46,2%
-        MBU: 7B FP16 sinh 100 token/giây dùng 1,4 TB/s → 70% băng thông A100
-        Mục tiêu là xong việc nhanh hơn, rẻ hơn, không phải mức sử dụng chip cao nhất
-    Mục 6 — Bộ tăng tốc AI
-      GPU thắng nhờ xử lý song song
-        CPU vài nhân mạnh cho việc tuần tự; GPU hàng nghìn nhân nhỏ cho nhân ma trận
-        Nhân ma trận chiếm hơn 90% phép tính dấu phẩy động của mạng nơ-ron
-        Suy luận chiếm tới 90% chi phí học máy → chip chuyên suy luận ưu tiên độ chính xác thấp, bộ nhớ nhanh
-      Ba con số lớn khi chọn chip
-        FLOP/s gấp đôi mỗi lần giảm nửa độ chính xác: H100 có 989 TF32, 1.979 FP16, 3.958 FP8 teraFLOP/s
-        Thứ bậc bộ nhớ: CPU DRAM 25–50 GB/s, HBM 256 GB/s tới hơn 1,5 TB/s, SRAM hơn 10 TB/s nhưng chỉ khoảng 40 MB
-        Phần lớn tối ưu GPU là tận dụng tốt thứ bậc bộ nhớ này
-      Điện năng và chi phí
-        Một H100 chạy đỉnh cả năm tiêu khoảng 7.000 kWh, một hộ gia đình Mỹ tiêu 10.000 kWh
-        Ba câu hỏi khi mua chip: chạy được tải không, mất bao lâu, tốn bao nhiêu
-    Mục 7–9 — Mức mô hình: nén và vượt giải mã tuần tự
-      Tối ưu mức mô hình có thể đổi chất lượng
-        Cùng mô hình Llama ở bốn nhà cung cấp chênh 1–2 điểm benchmark, có chỗ khoảng 7 điểm
-      Nén mô hình
-        Lượng tử hoá chỉ trọng số phổ biến nhất: dễ, chạy ngay; 32 xuống 16 bit giảm nửa bộ nhớ
-        Chưng cất cho mô hình nhỏ có hành vi gần mô hình lớn cho nhu cầu cụ thể
-        Tỉa bỏ được hơn 90% tham số khác 0 nhưng ít dùng: khó làm, phần cứng ít khai thác tính thưa
-      Speculative decoding
-        Mô hình nháp sinh K token, mô hình đích kiểm tra song song, giữ đoạn dài nhất được chấp nhận
-        Dùng FLOP rảnh của decode, không đổi chất lượng, có sẵn trong vLLM, TensorRT-LLM, llama.cpp
-        DeepMind: nháp 4B nhanh gấp 8 lần Chinchilla-70B → độ trễ giảm hơn một nửa
-      Inference with reference và parallel decoding
-        Chép token nháp từ đầu vào, không cần mô hình phụ → nhanh gấp 2 với truy xuất, code, hội thoại nhiều lượt
-        Parallel decoding sinh nhiều token tương lai cùng lúc rồi kiểm tra: Lookahead, Medusa
-        Medusa thêm các đầu giải mã nhỏ, tăng tốc Llama 3.1 tới 1,9 lần nhưng khó triển khai
-    Mục 10–11 — Mức mô hình: attention, kernel và compiler
-      KV cache tái dùng key, value của các token trước
-        Kích thước = 2 × batch × độ dài chuỗi × số lớp × chiều mô hình × byte mỗi giá trị
-        Tăng tuyến tính theo chuỗi và batch: Llama 2 13B, batch 32, chuỗi 2.048 cần 54 GB
-        Mô hình hơn 500B, batch 512 → KV cache 3 TB, gấp ba trọng số
-      Ba cách giảm gánh nặng attention
-        Thiết kế lại: cửa sổ cục bộ, multi-query, grouped-query, cross-layer — chỉ làm được khi huấn luyện hoặc finetune
-        Character.AI giảm KV cache hơn 20 lần, bộ nhớ hết là điểm nghẽn cho batch lớn
-        Quản lý cache: PagedAttention của vLLM chia KV cache thành khối, giảm phân mảnh
-        Kernel FlashAttention gộp năm phép toán: khoảng 17 ms xuống khoảng 2 ms trên GPT-2
-      Kernel và compiler
-        Kernel là code tối ưu cho một chip, viết bằng CUDA, Triton, ROCm; chip mới cần kernel mới
-        Bốn kỹ thuật viết kernel: vectơ hoá, song song hoá, chia ô vòng lặp, gộp toán tử
-        Compiler chuyển mô hình thành mã cho phần cứng: torch.compile, XLA, TensorRT, TVM
-        PyTorch: Llama-7B từ 25,5 lên 244,7 token/giây/người dùng nhờ compile, int8, int4, speculative decoding
-    Mục 12–15 — Mức dịch vụ: quản lý tài nguyên, không sửa mô hình
-      Batching
-        Tĩnh: đợi đủ lô → yêu cầu đầu phải chờ yêu cầu cuối
-        Động: chạy khi đủ lô hoặc hết cửa sổ thời gian, ví dụ 4 yêu cầu hoặc 100 ms
-        Liên tục: trả ngay phản hồi đã xong và nạp yêu cầu mới vào chỗ trống
-      Tách prefill và decode
-        Chạy chung thì prefill của truy vấn mới chen ngang, làm chậm TPOT của decode đang chạy
-        Tỷ lệ máy prefill/decode 2:1 tới 4:1 khi đầu vào dài, ưu tiên TTFT; 1:2 tới 1:1 khi đầu vào ngắn, ưu tiên TPOT
-      Prompt caching
-        Lưu đoạn prompt trùng như system prompt, tài liệu dài, lịch sử hội thoại để chỉ xử lý một lần
-        Anthropic: hỏi đáp trên sách 100.000 token, TTFT 11,5 s xuống 2,4 s, chi phí giảm 90%
-        Gemini: token lưu đệm rẻ hơn 75% nhưng tính thêm phí lưu trữ cache
-      Song song hoá
-        Bản sao: dễ nhất, thêm bản sao để giảm độ trễ; xếp mô hình lên chip là bài toán xếp thùng
-        Tensor: chia toán tử cho nhiều thiết bị → phục vụ mô hình lớn và giảm độ trễ
-        Pipeline: chia các lớp cho thiết bị, tăng độ trễ nên thường dùng khi huấn luyện
-        Ngữ cảnh và chuỗi: chia chuỗi đầu vào hoặc chia toán tử để xử lý đầu vào dài
-    Thông điệp xuyên suốt
-      Chọn kỹ thuật theo tải: KV cache quan trọng với ngữ cảnh dài, prompt caching với prompt trùng lặp
-      Bốn kỹ thuật tác động lớn nhất: lượng tử hoá, song song tensor, song song bản sao, tối ưu attention
-      Phần lớn dùng API; hiểu kỹ thuật để so nhà cung cấp bằng chi phí mỗi yêu cầu và kiểm tra lại chất lượng
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: tìm điểm nghẽn rồi tối ưu ở mức mô hình và mức dịch vụ để suy luận nhanh hơn, rẻ hơn`"]
+  n1["`Mục 3–4 — Điểm nghẽn quyết định cách tối ưu`"]
+  n0 --- n1
+  n2["`Hai loại điểm nghẽn`"]
+  n1 --- n2
+  n3["`Compute-bound: bị chặn bởi số phép tính → cần chip nhiều FLOP/s hoặc nhiều chip`"]
+  n2 --- n3
+  n4["`Bandwidth-bound: bị chặn bởi tốc độ chuyển dữ liệu bộ nhớ → cần chip băng thông cao`"]
+  n2 --- n4
+  n5["`Cường độ số học, tức số phép tính trên mỗi byte, cho biết phép toán thuộc vùng nào`"]
+  n2 --- n5
+  n6["`Hai bước suy luận của LLM`"]
+  n1 --- n6
+  n7["`Prefill xử lý song song token đầu vào → compute-bound, quyết định TTFT`"]
+  n6 --- n7
+  n8["`Decode sinh từng token, mỗi bước nạp toàn bộ trọng số → bandwidth-bound, quyết định TPOT`"]
+  n6 --- n8
+  n9["`Hai bước khác đặc tính nên trong sản xuất thường chạy trên máy riêng`"]
+  n6 --- n9
+  n10["`API trực tuyến và API theo lô`"]
+  n1 --- n10
+  n11["`Trực tuyến ưu tiên độ trễ thấp; theo lô ưu tiên throughput, rẻ hơn 50%, trả kết quả sau vài giờ`"]
+  n10 --- n11
+  n12["`Hợp batch API: sinh dữ liệu tổng hợp, báo cáo định kỳ, đánh chỉ mục lại dữ liệu`"]
+  n10 --- n12
+  n13["`Streaming giảm thời gian chờ token đầu nhưng không chấm được câu trả lời trước khi hiển thị`"]
+  n10 --- n13
+  n14["`Mục 5 — Đo đúng chỉ số trước khi tối ưu`"]
+  n0 --- n14
+  n15["`Độ trễ tách thành TTFT và TPOT`"]
+  n14 --- n15
+  n16["`Độ trễ tổng = TTFT + TPOT × số token đầu ra`"]
+  n15 --- n16
+  n17["`Người đọc nhanh khoảng 120 ms/token → TPOT cỡ 6–8 token/giây là đủ`"]
+  n15 --- n17
+  n18["`Agent và CoT: đo time to publish, tức token đầu người dùng thực sự nhìn thấy`"]
+  n15 --- n18
+  n19["`Xem độ trễ theo phân vị, không theo trung bình`"]
+  n14 --- n19
+  n20["`Mười TTFT quanh 100 ms cùng một yêu cầu 3.000 ms → trung bình 390 ms, trung vị 100 ms`"]
+  n19 --- n20
+  n21["`Theo dõi p90, p95, p99 để phát hiện ngoại lai và lỗi`"]
+  n19 --- n21
+  n22["`Throughput quyết định chi phí`"]
+  n14 --- n22
+  n23["`Máy 2 USD/giờ sinh 100 token/giây → khoảng 5,556 USD mỗi triệu token đầu ra`"]
+  n22 --- n23
+  n24["`1.000 yêu cầu: 1,11 USD decode cộng 0,33 USD prefill = 1,44 USD`"]
+  n22 --- n24
+  n25["`Batching tăng throughput nhưng làm độ trễ xấu đi; LinkedIn tăng throughput 2–3 lần khi hy sinh TTFT, TPOT`"]
+  n22 --- n25
+  n26["`Goodput chỉ đếm yêu cầu đạt SLO: 100 yêu cầu/phút, 30 đạt SLO → goodput 30`"]
+  n22 --- n26
+  n27["`Mức sử dụng phần cứng`"]
+  n14 --- n27
+  n28["`GPU utilization của nvidia-smi chỉ đo thời gian GPU bận, dễ gây hiểu lầm nhất`"]
+  n27 --- n28
+  n29["`MFU = throughput thực chia throughput ở FLOP/s đỉnh; huấn luyện trên 50% là tốt, PaLM đạt 46,2%`"]
+  n27 --- n29
+  n30["`MBU: 7B FP16 sinh 100 token/giây dùng 1,4 TB/s → 70% băng thông A100`"]
+  n27 --- n30
+  n31["`Mục tiêu là xong việc nhanh hơn, rẻ hơn, không phải mức sử dụng chip cao nhất`"]
+  n27 --- n31
+  n32["`Mục 6 — Bộ tăng tốc AI`"]
+  n0 --- n32
+  n33["`GPU thắng nhờ xử lý song song`"]
+  n32 --- n33
+  n34["`CPU vài nhân mạnh cho việc tuần tự; GPU hàng nghìn nhân nhỏ cho nhân ma trận`"]
+  n33 --- n34
+  n35["`Nhân ma trận chiếm hơn 90% phép tính dấu phẩy động của mạng nơ-ron`"]
+  n33 --- n35
+  n36["`Suy luận chiếm tới 90% chi phí học máy → chip chuyên suy luận ưu tiên độ chính xác thấp, bộ nhớ nhanh`"]
+  n33 --- n36
+  n37["`Ba con số lớn khi chọn chip`"]
+  n32 --- n37
+  n38["`FLOP/s gấp đôi mỗi lần giảm nửa độ chính xác: H100 có 989 TF32, 1.979 FP16, 3.958 FP8 teraFLOP/s`"]
+  n37 --- n38
+  n39["`Thứ bậc bộ nhớ: CPU DRAM 25–50 GB/s, HBM 256 GB/s tới hơn 1,5 TB/s, SRAM hơn 10 TB/s nhưng chỉ khoảng 40 MB`"]
+  n37 --- n39
+  n40["`Phần lớn tối ưu GPU là tận dụng tốt thứ bậc bộ nhớ này`"]
+  n37 --- n40
+  n41["`Điện năng và chi phí`"]
+  n32 --- n41
+  n42["`Một H100 chạy đỉnh cả năm tiêu khoảng 7.000 kWh, một hộ gia đình Mỹ tiêu 10.000 kWh`"]
+  n41 --- n42
+  n43["`Ba câu hỏi khi mua chip: chạy được tải không, mất bao lâu, tốn bao nhiêu`"]
+  n41 --- n43
+  n44["`Mục 7–9 — Mức mô hình: nén và vượt giải mã tuần tự`"]
+  n0 --- n44
+  n45["`Tối ưu mức mô hình có thể đổi chất lượng`"]
+  n44 --- n45
+  n46["`Cùng mô hình Llama ở bốn nhà cung cấp chênh 1–2 điểm benchmark, có chỗ khoảng 7 điểm`"]
+  n45 --- n46
+  n47["`Nén mô hình`"]
+  n44 --- n47
+  n48["`Lượng tử hoá chỉ trọng số phổ biến nhất: dễ, chạy ngay; 32 xuống 16 bit giảm nửa bộ nhớ`"]
+  n47 --- n48
+  n49["`Chưng cất cho mô hình nhỏ có hành vi gần mô hình lớn cho nhu cầu cụ thể`"]
+  n47 --- n49
+  n50["`Tỉa bỏ được hơn 90% tham số khác 0 nhưng ít dùng: khó làm, phần cứng ít khai thác tính thưa`"]
+  n47 --- n50
+  n51["`Speculative decoding`"]
+  n44 --- n51
+  n52["`Mô hình nháp sinh K token, mô hình đích kiểm tra song song, giữ đoạn dài nhất được chấp nhận`"]
+  n51 --- n52
+  n53["`Dùng FLOP rảnh của decode, không đổi chất lượng, có sẵn trong vLLM, TensorRT-LLM, llama.cpp`"]
+  n51 --- n53
+  n54["`DeepMind: nháp 4B nhanh gấp 8 lần Chinchilla-70B → độ trễ giảm hơn một nửa`"]
+  n51 --- n54
+  n55["`Inference with reference và parallel decoding`"]
+  n44 --- n55
+  n56["`Chép token nháp từ đầu vào, không cần mô hình phụ → nhanh gấp 2 với truy xuất, code, hội thoại nhiều lượt`"]
+  n55 --- n56
+  n57["`Parallel decoding sinh nhiều token tương lai cùng lúc rồi kiểm tra: Lookahead, Medusa`"]
+  n55 --- n57
+  n58["`Medusa thêm các đầu giải mã nhỏ, tăng tốc Llama 3.1 tới 1,9 lần nhưng khó triển khai`"]
+  n55 --- n58
+  n59["`Mục 10–11 — Mức mô hình: attention, kernel và compiler`"]
+  n0 --- n59
+  n60["`KV cache tái dùng key, value của các token trước`"]
+  n59 --- n60
+  n61["`Kích thước = 2 × batch × độ dài chuỗi × số lớp × chiều mô hình × byte mỗi giá trị`"]
+  n60 --- n61
+  n62["`Tăng tuyến tính theo chuỗi và batch: Llama 2 13B, batch 32, chuỗi 2.048 cần 54 GB`"]
+  n60 --- n62
+  n63["`Mô hình hơn 500B, batch 512 → KV cache 3 TB, gấp ba trọng số`"]
+  n60 --- n63
+  n64["`Ba cách giảm gánh nặng attention`"]
+  n59 --- n64
+  n65["`Thiết kế lại: cửa sổ cục bộ, multi-query, grouped-query, cross-layer — chỉ làm được khi huấn luyện hoặc finetune`"]
+  n64 --- n65
+  n66["`Character.AI giảm KV cache hơn 20 lần, bộ nhớ hết là điểm nghẽn cho batch lớn`"]
+  n64 --- n66
+  n67["`Quản lý cache: PagedAttention của vLLM chia KV cache thành khối, giảm phân mảnh`"]
+  n64 --- n67
+  n68["`Kernel FlashAttention gộp năm phép toán: khoảng 17 ms xuống khoảng 2 ms trên GPT-2`"]
+  n64 --- n68
+  n69["`Kernel và compiler`"]
+  n59 --- n69
+  n70["`Kernel là code tối ưu cho một chip, viết bằng CUDA, Triton, ROCm; chip mới cần kernel mới`"]
+  n69 --- n70
+  n71["`Bốn kỹ thuật viết kernel: vectơ hoá, song song hoá, chia ô vòng lặp, gộp toán tử`"]
+  n69 --- n71
+  n72["`Compiler chuyển mô hình thành mã cho phần cứng: torch.compile, XLA, TensorRT, TVM`"]
+  n69 --- n72
+  n73["`PyTorch: Llama-7B từ 25,5 lên 244,7 token/giây/người dùng nhờ compile, int8, int4, speculative decoding`"]
+  n69 --- n73
+  n74["`Mục 12–15 — Mức dịch vụ: quản lý tài nguyên, không sửa mô hình`"]
+  n0 --- n74
+  n75["`Batching`"]
+  n74 --- n75
+  n76["`Tĩnh: đợi đủ lô → yêu cầu đầu phải chờ yêu cầu cuối`"]
+  n75 --- n76
+  n77["`Động: chạy khi đủ lô hoặc hết cửa sổ thời gian, ví dụ 4 yêu cầu hoặc 100 ms`"]
+  n75 --- n77
+  n78["`Liên tục: trả ngay phản hồi đã xong và nạp yêu cầu mới vào chỗ trống`"]
+  n75 --- n78
+  n79["`Tách prefill và decode`"]
+  n74 --- n79
+  n80["`Chạy chung thì prefill của truy vấn mới chen ngang, làm chậm TPOT của decode đang chạy`"]
+  n79 --- n80
+  n81["`Tỷ lệ máy prefill/decode 2:1 tới 4:1 khi đầu vào dài, ưu tiên TTFT; 1:2 tới 1:1 khi đầu vào ngắn, ưu tiên TPOT`"]
+  n79 --- n81
+  n82["`Prompt caching`"]
+  n74 --- n82
+  n83["`Lưu đoạn prompt trùng như system prompt, tài liệu dài, lịch sử hội thoại để chỉ xử lý một lần`"]
+  n82 --- n83
+  n84["`Anthropic: hỏi đáp trên sách 100.000 token, TTFT 11,5 s xuống 2,4 s, chi phí giảm 90%`"]
+  n82 --- n84
+  n85["`Gemini: token lưu đệm rẻ hơn 75% nhưng tính thêm phí lưu trữ cache`"]
+  n82 --- n85
+  n86["`Song song hoá`"]
+  n74 --- n86
+  n87["`Bản sao: dễ nhất, thêm bản sao để giảm độ trễ; xếp mô hình lên chip là bài toán xếp thùng`"]
+  n86 --- n87
+  n88["`Tensor: chia toán tử cho nhiều thiết bị → phục vụ mô hình lớn và giảm độ trễ`"]
+  n86 --- n88
+  n89["`Pipeline: chia các lớp cho thiết bị, tăng độ trễ nên thường dùng khi huấn luyện`"]
+  n86 --- n89
+  n90["`Ngữ cảnh và chuỗi: chia chuỗi đầu vào hoặc chia toán tử để xử lý đầu vào dài`"]
+  n86 --- n90
+  n91["`Thông điệp xuyên suốt`"]
+  n0 --- n91
+  n92["`Chọn kỹ thuật theo tải: KV cache quan trọng với ngữ cảnh dài, prompt caching với prompt trùng lặp`"]
+  n91 --- n92
+  n93["`Bốn kỹ thuật tác động lớn nhất: lượng tử hoá, song song tensor, song song bản sao, tối ưu attention`"]
+  n91 --- n93
+  n94["`Phần lớn dùng API; hiểu kỹ thuật để so nhà cung cấp bằng chi phí mỗi yêu cầu và kiểm tra lại chất lượng`"]
+  n91 --- n94
+  class n0 root
+  class n1,n14,n32,n44,n59,n74,n91 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n60,n61,n62,n63,n64,n65,n66,n67,n68,n69,n70,n71,n72,n73,n75,n76,n77,n78,n79,n80,n81,n82,n83,n84,n85,n86,n87,n88,n89,n90,n92,n93,n94 leaf
 ```
 
 ## Nguồn

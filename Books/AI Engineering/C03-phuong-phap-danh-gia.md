@@ -1597,96 +1597,191 @@ Chương bao quát gần đủ bộ công cụ đánh giá tự động mà mộ
 Toàn cảnh Chương 3 trên một trang: năm nhánh lớn theo năm mục chính của chương gốc (mục 2–6: thách thức, độ đo mô hình ngôn ngữ, đánh giá chính xác, AI làm giám khảo, đánh giá so sánh), mỗi nhánh ghi cơ chế, quy tắc dùng, giới hạn và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
-mindmap
-  root((Chương 3: đánh giá là điểm nghẽn lớn nhất, không phương pháp tự động nào đủ, phải hiểu giới hạn từng cách và kết hợp))
-    Mục 2 — Vì sao mô hình nền tảng khó đánh giá
-      Năm lý do
-        Mô hình càng giỏi càng khó chấm: bản tóm tắt mạch lạc mà sai phải đọc cả cuốn sách mới biết
-        Đầu ra mở có vô số câu đúng, không lập được danh sách đáp án để so
-        Mô hình là hộp đen, chỉ đánh giá được qua đầu ra
-        Benchmark bão hoà nhanh: GLUE ra 2018 bão hoà sau một năm, MMLU thay bằng MMLU-Pro
-        Mô hình đa năng buộc đánh giá phải khám phá cả năng lực mới
-      Đánh giá bị đầu tư thiếu
-        Bài báo về đánh giá LLM tăng từ 2 lên 33 mỗi tháng nửa đầu 2023
-        Trong 1.000 kho AI phổ biến: khoảng 40 kho đánh giá so với khoảng 121 kho mô hình hoá và huấn luyện
-        Nhiều đội chỉ nhìn qua kết quả: đủ để khởi động, không đủ để lặp cải tiến
-    Mục 3 — Độ đo mô hình hoá ngôn ngữ đo khả năng đoán token kế tiếp
-      Bốn độ đo liên hệ chặt, biết một suy ra ba
-        Entropy: số bit trung bình mỗi token mang, càng thấp càng dễ đoán
-        Cross entropy = entropy của dữ liệu + độ lệch KL giữa phân phối mô hình và phân phối thật
-        BPC và BPB chia theo ký tự, byte để so mô hình khác tokenizer: 6 bit/token, 2 ký tự/token → BPC 3, BPB ≈ 3,43
-        Perplexity = 2 mũ cross entropy, là số lựa chọn hiệu dụng: 2 bit → perplexity 4
-      Đọc perplexity
-        Dữ liệu càng có cấu trúc, context càng dài → perplexity càng thấp
-        Bộ từ vựng càng lớn → perplexity càng cao
-        Mô hình lớn hơn có perplexity thấp hơn: GPT-2 trên LAMBADA từ 35,13 ở 117M xuống 8,63 ở 1,5 tỷ
-      Công dụng thực hành
-        Perplexity thấp bất thường trên benchmark → nghi nhiễm dữ liệu
-        Khử trùng lặp: chỉ thêm dữ liệu mới khi perplexity của nó cao
-        Perplexity cao → phát hiện văn bản bất thường hoặc vô nghĩa
-      Giới hạn
-        Kém tin cậy sau post-training SFT, RLHF và sau lượng tử hoá
-        Cần logprob, mà nhiều mô hình thương mại không công bố
-    Mục 4 — Đánh giá chính xác cho phán xét không mơ hồ
-      Functional correctness là độ đo tối hậu
-        Kiểm tra đầu ra có làm đúng chức năng: code qua unit test, SQL, điểm game, năng lượng tiết kiệm
-        pass@k: bài được giải nếu một trong k mẫu qua hết test; 5 trên 10 bài với k = 3 → pass@3 = 50%
-        k càng lớn điểm càng cao nên luôn phải ghi rõ k
-      So với dữ liệu tham chiếu
-        Bị giới hạn bởi số lượng và chất lượng tham chiếu, thường do người hoặc AI tạo
-        Khớp chính xác chỉ hợp câu trả lời ngắn; biến thể chứa đáp án có thể nhận nhầm câu sai
-      Tương đồng từ vựng: trông giống nhau đến đâu
-        Đếm token hoặc n-gram chung, edit distance; BLEU thiên về precision, ROUGE thiên về recall
-        Mô tả đúng Big Ben vẫn bị CIDEr 0,4 vì tham chiếu thiếu
-        BLEU của code đúng và sai trên HumanEval tương tự nhau
-      Tương đồng ngữ nghĩa: cùng nghĩa đến đâu
-        Đổi văn bản thành embedding 100–10.000 chiều rồi tính cosine, từ −1 đến 1
-        Bắt được What's up và How are you cùng nghĩa dù khác từ
-        Độ tin cậy phụ thuộc mô hình embedding và tốn tính toán
-        CLIP đưa ảnh và văn bản vào chung một không gian embedding
-    Mục 5 — AI làm giám khảo: nhanh, rẻ, không cần tham chiếu nhưng chủ quan
-      Vì sao phổ biến
-        58% lượt đánh giá trên LangChain năm 2023 do AI chấm
-        GPT-4 đồng ý với người 85%, cao hơn người với người 81%
-        Chấm được theo tiêu chí bất kỳ và giải thích được lý do
-      Cách dùng
-        Ba kiểu: chấm một câu tự thân, so với tham chiếu, chọn câu tốt hơn trong hai câu
-        Prompt nêu rõ nhiệm vụ, tiêu chí, hệ thống điểm và có ví dụ cho từng mức điểm
-        Phân loại tốt hơn điểm số; điểm rời rạc 1–5 tốt hơn điểm liên tục
-        Giám khảo là hệ thống mô hình + prompt + tham số lấy mẫu; đổi một phần là đổi giám khảo
-      Bốn giới hạn
-        Không nhất quán: thêm ví dụ nâng từ 65% lên 77,5% nhưng chi phí GPT-4 gấp bốn
-        Tiêu chí không chuẩn hoá: faithfulness của MLflow chấm 1–5, Ragas 0 hoặc 1, LlamaIndex YES/NO
-        Tốn chi phí và độ trễ: ba tiêu chí chấm → số lượt gọi API gấp bốn; giảm bằng spot-check
-        Thiên lệch: tự thiên vị GPT-4 10%, Claude-v1 25%; thích vị trí đầu; thích câu dài
-      Chọn mô hình làm giám khảo
-        Mạnh hơn: chấm một phần nhỏ như 1% câu trả lời vì chi phí, độ trễ
-        Tự đánh giá giúp kiểm tra hợp lý và tự sửa: 10+3 = 30 → tự phê → 13
-        Giám khảo nhỏ chuyên biệt: reward model như Cappy 360 triệu tham số, Prometheus, PandaLM
-      Quy tắc dùng
-        Không tin giám khảo nào khi không xem được mô hình và prompt của nó
-        Luôn bổ sung bằng đánh giá chính xác hoặc đánh giá của người
-    Mục 6 — Đánh giá so sánh xếp hạng mô hình từ các trận đấu cặp
-      Cách làm
-        So hai câu trả lời dễ hơn cho mỗi câu một điểm cụ thể
-        Tỷ lệ thắng từng cặp đưa vào Elo, Bradley–Terry, TrueSkill để tính điểm
-        Chatbot Arena bỏ Elo sang Bradley–Terry vì Elo nhạy với thứ tự trận
-        Thứ hạng đúng khi mô hình xếp trên thắng mô hình xếp dưới quá nửa số trận
-      Không dùng cho câu hỏi cần tính đúng
-        Bỏ phiếu sở thích chỉ hiệu quả khi người bầu hiểu chủ đề
-        Khác A/B test: người dùng thấy nhiều đầu ra cùng lúc
-      Ba thách thức
-        Tốn dữ liệu: 57 mô hình, 1.596 cặp, 244.000 lượt chỉ được khoảng 153 lượt mỗi cặp
-        Giả định bắc cầu có thể sai, mô hình mới làm đổi thứ hạng cũ
-        Khó chuẩn hoá: 180 trong 33.000 prompt chỉ là hello hoặc hi
-        Chỉ biết tốt hơn, không biết đủ tốt: B thắng A 51% không cho biết giải thêm bao nhiêu ticket
-      Vì sao vẫn có tương lai
-        Không bão hoà, khó gian lận, nắm sát sở thích người
-        Khi mô hình vượt người, so sánh có thể là cách chấm duy nhất còn lại
-    Thông điệp xuyên suốt
-      Thiết kế đánh giá từ chỗ hệ thống dễ hỏng, không dựa truyền miệng hay nhìn qua
-      Mỗi phương pháp đo một thứ khác nhau, phải kết hợp chính xác, chủ quan và người
-      Lọc sơ bộ bằng bảng xếp hạng công khai, quyết định bằng đánh giá tuyệt đối trên dữ liệu của mình
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: đánh giá là điểm nghẽn lớn nhất, không phương pháp tự động nào đủ, phải hiểu giới hạn từng cách và kết hợp`"]
+  n1["`Mục 2 — Vì sao mô hình nền tảng khó đánh giá`"]
+  n0 --- n1
+  n2["`Năm lý do`"]
+  n1 --- n2
+  n3["`Mô hình càng giỏi càng khó chấm: bản tóm tắt mạch lạc mà sai phải đọc cả cuốn sách mới biết`"]
+  n2 --- n3
+  n4["`Đầu ra mở có vô số câu đúng, không lập được danh sách đáp án để so`"]
+  n2 --- n4
+  n5["`Mô hình là hộp đen, chỉ đánh giá được qua đầu ra`"]
+  n2 --- n5
+  n6["`Benchmark bão hoà nhanh: GLUE ra 2018 bão hoà sau một năm, MMLU thay bằng MMLU-Pro`"]
+  n2 --- n6
+  n7["`Mô hình đa năng buộc đánh giá phải khám phá cả năng lực mới`"]
+  n2 --- n7
+  n8["`Đánh giá bị đầu tư thiếu`"]
+  n1 --- n8
+  n9["`Bài báo về đánh giá LLM tăng từ 2 lên 33 mỗi tháng nửa đầu 2023`"]
+  n8 --- n9
+  n10["`Trong 1.000 kho AI phổ biến: khoảng 40 kho đánh giá so với khoảng 121 kho mô hình hoá và huấn luyện`"]
+  n8 --- n10
+  n11["`Nhiều đội chỉ nhìn qua kết quả: đủ để khởi động, không đủ để lặp cải tiến`"]
+  n8 --- n11
+  n12["`Mục 3 — Độ đo mô hình hoá ngôn ngữ đo khả năng đoán token kế tiếp`"]
+  n0 --- n12
+  n13["`Bốn độ đo liên hệ chặt, biết một suy ra ba`"]
+  n12 --- n13
+  n14["`Entropy: số bit trung bình mỗi token mang, càng thấp càng dễ đoán`"]
+  n13 --- n14
+  n15["`Cross entropy = entropy của dữ liệu + độ lệch KL giữa phân phối mô hình và phân phối thật`"]
+  n13 --- n15
+  n16["`BPC và BPB chia theo ký tự, byte để so mô hình khác tokenizer: 6 bit/token, 2 ký tự/token → BPC 3, BPB ≈ 3,43`"]
+  n13 --- n16
+  n17["`Perplexity = 2 mũ cross entropy, là số lựa chọn hiệu dụng: 2 bit → perplexity 4`"]
+  n13 --- n17
+  n18["`Đọc perplexity`"]
+  n12 --- n18
+  n19["`Dữ liệu càng có cấu trúc, context càng dài → perplexity càng thấp`"]
+  n18 --- n19
+  n20["`Bộ từ vựng càng lớn → perplexity càng cao`"]
+  n18 --- n20
+  n21["`Mô hình lớn hơn có perplexity thấp hơn: GPT-2 trên LAMBADA từ 35,13 ở 117M xuống 8,63 ở 1,5 tỷ`"]
+  n18 --- n21
+  n22["`Công dụng thực hành`"]
+  n12 --- n22
+  n23["`Perplexity thấp bất thường trên benchmark → nghi nhiễm dữ liệu`"]
+  n22 --- n23
+  n24["`Khử trùng lặp: chỉ thêm dữ liệu mới khi perplexity của nó cao`"]
+  n22 --- n24
+  n25["`Perplexity cao → phát hiện văn bản bất thường hoặc vô nghĩa`"]
+  n22 --- n25
+  n26["`Giới hạn`"]
+  n12 --- n26
+  n27["`Kém tin cậy sau post-training SFT, RLHF và sau lượng tử hoá`"]
+  n26 --- n27
+  n28["`Cần logprob, mà nhiều mô hình thương mại không công bố`"]
+  n26 --- n28
+  n29["`Mục 4 — Đánh giá chính xác cho phán xét không mơ hồ`"]
+  n0 --- n29
+  n30["`Functional correctness là độ đo tối hậu`"]
+  n29 --- n30
+  n31["`Kiểm tra đầu ra có làm đúng chức năng: code qua unit test, SQL, điểm game, năng lượng tiết kiệm`"]
+  n30 --- n31
+  n32["`pass@k: bài được giải nếu một trong k mẫu qua hết test; 5 trên 10 bài với k = 3 → pass@3 = 50%`"]
+  n30 --- n32
+  n33["`k càng lớn điểm càng cao nên luôn phải ghi rõ k`"]
+  n30 --- n33
+  n34["`So với dữ liệu tham chiếu`"]
+  n29 --- n34
+  n35["`Bị giới hạn bởi số lượng và chất lượng tham chiếu, thường do người hoặc AI tạo`"]
+  n34 --- n35
+  n36["`Khớp chính xác chỉ hợp câu trả lời ngắn; biến thể chứa đáp án có thể nhận nhầm câu sai`"]
+  n34 --- n36
+  n37["`Tương đồng từ vựng: trông giống nhau đến đâu`"]
+  n29 --- n37
+  n38["`Đếm token hoặc n-gram chung, edit distance; BLEU thiên về precision, ROUGE thiên về recall`"]
+  n37 --- n38
+  n39["`Mô tả đúng Big Ben vẫn bị CIDEr 0,4 vì tham chiếu thiếu`"]
+  n37 --- n39
+  n40["`BLEU của code đúng và sai trên HumanEval tương tự nhau`"]
+  n37 --- n40
+  n41["`Tương đồng ngữ nghĩa: cùng nghĩa đến đâu`"]
+  n29 --- n41
+  n42["`Đổi văn bản thành embedding 100–10.000 chiều rồi tính cosine, từ −1 đến 1`"]
+  n41 --- n42
+  n43["`Bắt được What's up và How are you cùng nghĩa dù khác từ`"]
+  n41 --- n43
+  n44["`Độ tin cậy phụ thuộc mô hình embedding và tốn tính toán`"]
+  n41 --- n44
+  n45["`CLIP đưa ảnh và văn bản vào chung một không gian embedding`"]
+  n41 --- n45
+  n46["`Mục 5 — AI làm giám khảo: nhanh, rẻ, không cần tham chiếu nhưng chủ quan`"]
+  n0 --- n46
+  n47["`Vì sao phổ biến`"]
+  n46 --- n47
+  n48["`58% lượt đánh giá trên LangChain năm 2023 do AI chấm`"]
+  n47 --- n48
+  n49["`GPT-4 đồng ý với người 85%, cao hơn người với người 81%`"]
+  n47 --- n49
+  n50["`Chấm được theo tiêu chí bất kỳ và giải thích được lý do`"]
+  n47 --- n50
+  n51["`Cách dùng`"]
+  n46 --- n51
+  n52["`Ba kiểu: chấm một câu tự thân, so với tham chiếu, chọn câu tốt hơn trong hai câu`"]
+  n51 --- n52
+  n53["`Prompt nêu rõ nhiệm vụ, tiêu chí, hệ thống điểm và có ví dụ cho từng mức điểm`"]
+  n51 --- n53
+  n54["`Phân loại tốt hơn điểm số; điểm rời rạc 1–5 tốt hơn điểm liên tục`"]
+  n51 --- n54
+  n55["`Giám khảo là hệ thống mô hình + prompt + tham số lấy mẫu; đổi một phần là đổi giám khảo`"]
+  n51 --- n55
+  n56["`Bốn giới hạn`"]
+  n46 --- n56
+  n57["`Không nhất quán: thêm ví dụ nâng từ 65% lên 77,5% nhưng chi phí GPT-4 gấp bốn`"]
+  n56 --- n57
+  n58["`Tiêu chí không chuẩn hoá: faithfulness của MLflow chấm 1–5, Ragas 0 hoặc 1, LlamaIndex YES/NO`"]
+  n56 --- n58
+  n59["`Tốn chi phí và độ trễ: ba tiêu chí chấm → số lượt gọi API gấp bốn; giảm bằng spot-check`"]
+  n56 --- n59
+  n60["`Thiên lệch: tự thiên vị GPT-4 10%, Claude-v1 25%; thích vị trí đầu; thích câu dài`"]
+  n56 --- n60
+  n61["`Chọn mô hình làm giám khảo`"]
+  n46 --- n61
+  n62["`Mạnh hơn: chấm một phần nhỏ như 1% câu trả lời vì chi phí, độ trễ`"]
+  n61 --- n62
+  n63["`Tự đánh giá giúp kiểm tra hợp lý và tự sửa: 10+3 = 30 → tự phê → 13`"]
+  n61 --- n63
+  n64["`Giám khảo nhỏ chuyên biệt: reward model như Cappy 360 triệu tham số, Prometheus, PandaLM`"]
+  n61 --- n64
+  n65["`Quy tắc dùng`"]
+  n46 --- n65
+  n66["`Không tin giám khảo nào khi không xem được mô hình và prompt của nó`"]
+  n65 --- n66
+  n67["`Luôn bổ sung bằng đánh giá chính xác hoặc đánh giá của người`"]
+  n65 --- n67
+  n68["`Mục 6 — Đánh giá so sánh xếp hạng mô hình từ các trận đấu cặp`"]
+  n0 --- n68
+  n69["`Cách làm`"]
+  n68 --- n69
+  n70["`So hai câu trả lời dễ hơn cho mỗi câu một điểm cụ thể`"]
+  n69 --- n70
+  n71["`Tỷ lệ thắng từng cặp đưa vào Elo, Bradley–Terry, TrueSkill để tính điểm`"]
+  n69 --- n71
+  n72["`Chatbot Arena bỏ Elo sang Bradley–Terry vì Elo nhạy với thứ tự trận`"]
+  n69 --- n72
+  n73["`Thứ hạng đúng khi mô hình xếp trên thắng mô hình xếp dưới quá nửa số trận`"]
+  n69 --- n73
+  n74["`Không dùng cho câu hỏi cần tính đúng`"]
+  n68 --- n74
+  n75["`Bỏ phiếu sở thích chỉ hiệu quả khi người bầu hiểu chủ đề`"]
+  n74 --- n75
+  n76["`Khác A/B test: người dùng thấy nhiều đầu ra cùng lúc`"]
+  n74 --- n76
+  n77["`Ba thách thức`"]
+  n68 --- n77
+  n78["`Tốn dữ liệu: 57 mô hình, 1.596 cặp, 244.000 lượt chỉ được khoảng 153 lượt mỗi cặp`"]
+  n77 --- n78
+  n79["`Giả định bắc cầu có thể sai, mô hình mới làm đổi thứ hạng cũ`"]
+  n77 --- n79
+  n80["`Khó chuẩn hoá: 180 trong 33.000 prompt chỉ là hello hoặc hi`"]
+  n77 --- n80
+  n81["`Chỉ biết tốt hơn, không biết đủ tốt: B thắng A 51% không cho biết giải thêm bao nhiêu ticket`"]
+  n77 --- n81
+  n82["`Vì sao vẫn có tương lai`"]
+  n68 --- n82
+  n83["`Không bão hoà, khó gian lận, nắm sát sở thích người`"]
+  n82 --- n83
+  n84["`Khi mô hình vượt người, so sánh có thể là cách chấm duy nhất còn lại`"]
+  n82 --- n84
+  n85["`Thông điệp xuyên suốt`"]
+  n0 --- n85
+  n86["`Thiết kế đánh giá từ chỗ hệ thống dễ hỏng, không dựa truyền miệng hay nhìn qua`"]
+  n85 --- n86
+  n87["`Mỗi phương pháp đo một thứ khác nhau, phải kết hợp chính xác, chủ quan và người`"]
+  n85 --- n87
+  n88["`Lọc sơ bộ bằng bảng xếp hạng công khai, quyết định bằng đánh giá tuyệt đối trên dữ liệu của mình`"]
+  n85 --- n88
+  class n0 root
+  class n1,n12,n29,n46,n68,n85 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n69,n70,n71,n72,n73,n74,n75,n76,n77,n78,n79,n80,n81,n82,n83,n84,n86,n87,n88 leaf
 ```
 
 ## Nguồn

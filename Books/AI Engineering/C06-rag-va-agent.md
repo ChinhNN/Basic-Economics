@@ -1763,111 +1763,221 @@ Chương gom hai chủ đề nóng nhất của 2023–2024 vào một khung chu
 Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn theo các mục chính của chương gốc (mục 1–3 về RAG, mục 4 về thuật toán truy xuất, mục 5–6 về tối ưu truy xuất và RAG ngoài văn bản, mục 7–9 về agent và công cụ, mục 10 về lập kế hoạch, mục 11–12 về kiểu hỏng và bộ nhớ), mỗi nhánh ghi luận điểm, quy tắc chọn lựa và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
-mindmap
-  root((Chương 6: mô hình cần context riêng cho từng truy vấn, dựng bằng RAG và agent))
-    Mục 1–3 — RAG dựng context và vẫn cần dù context dài ra
-      Chỉ dẫn chung cho mọi truy vấn, context riêng cho từng truy vấn
-        Thiếu context, mô hình dễ trả lời sai và bịa
-        Dựng context tương đương feature engineering của học máy cổ điển
-      Nguồn gốc
-        Chen và cộng sự 2017: lấy 5 trang Wikipedia liên quan nhất rồi đọc để trả lời
-        Lewis và cộng sự 2020 đặt tên RAG, thấy mô hình trả lời chi tiết hơn và bớt bịa
-      Context dài không xoá bỏ RAG
-        Dữ liệu luôn tăng nhanh hơn độ dài context
-        Context càng dài mô hình càng dễ chú ý nhầm, mỗi token thêm tốn tiền và độ trễ
-        Anthropic: kho tri thức dưới 200.000 token, khoảng 500 trang, thì đưa thẳng vào prompt
-      Kiến trúc hai thành phần
-        Retriever lấy thông tin, generator sinh câu trả lời từ thông tin đó
-        Retriever có hai việc: lập chỉ mục trước và truy vấn khi cần
-        Thành bại của RAG phụ thuộc chất lượng retriever
-    Mục 4 — Truy xuất là xếp hạng tài liệu theo độ liên quan
-      Truy xuất dựa trên từ khoá
-        TF đếm số lần từ xuất hiện, IDF = log của N chia số tài liệu chứa từ
-        Chỉ mục ngược của Elasticsearch ánh xạ từ sang tài liệu chứa nó
-        BM25 chuẩn hoá theo độ dài tài liệu, là mốc so sánh rất khó vượt
-        Nhanh, rẻ, mạnh ngay từ đầu nhưng khó cải thiện và nhầm khi từ đa nghĩa
-      Truy xuất dựa trên embedding
-        Truy vấn và tài liệu thành embedding, lấy k đoạn gần nhất trong cơ sở dữ liệu vector
-        k-NN chính xác nhưng chậm, kho lớn dùng ANN: LSH, HNSW, product quantization, IVF, Annoy
-        Hiểu nghĩa và cải thiện được bằng finetuning nhưng làm mờ từ khoá như mã lỗi
-        Chi tiêu cho cơ sở dữ liệu vector có thể bằng 1/5 tới 1/2 chi tiêu API mô hình
-      Đánh giá retriever
-        Context precision: bao nhiêu phần trăm tài liệu lấy về có liên quan
-        Context recall: bao nhiêu phần trăm tài liệu liên quan được lấy về, khó đo vì phải gán nhãn cả kho
-        Đánh giá ba lớp: truy xuất, embedding, đầu ra cuối
-      Kết hợp thành hybrid search
-        Nối tiếp: retriever rẻ lọc ứng viên rồi cơ chế chính xác hơn xếp hạng lại
-        Song song: gộp các bảng xếp hạng bằng RRF, cộng 1 chia cho k cộng hạng, k thường là 60
-    Mục 5–6 — Bốn chiến thuật tối ưu truy xuất và RAG ngoài văn bản
-      Chia đoạn
-        Chia đều, chia đệ quy theo mục rồi đoạn văn rồi câu, chia theo token
-        Chồng lấn giữ thông tin ở ranh giới, ví dụ đoạn 2.048 ký tự chồng 20 ký tự
-        Đoạn nhỏ cho thông tin đa dạng nhưng dễ mất ý và gấp đôi số vector phải lưu
-        Không có kích thước tốt nhất, phải thử nghiệm
-      Xếp hạng lại
-        Giảm số tài liệu cho vừa context, có thể ưu tiên dữ liệu mới hơn
-        Trong context, thứ tự ít quan trọng hơn trong tìm kiếm, miễn tài liệu được đưa vào
-      Viết lại truy vấn
-        Biến câu phụ thuộc hội thoại thành câu tự đủ nghĩa, như Còn Emily Doe thì sao
-        Thiếu thông tin để giải thì phải thừa nhận, không bịa ra tên
-      Truy xuất có ngữ cảnh
-        Thêm metadata, thực thể như mã lỗi, câu hỏi mà đoạn trả lời được
-        Anthropic cho mô hình viết 50–100 token mô tả vị trí đoạn trong tài liệu gốc
-      RAG ngoài văn bản
-        Đa phương thức: dùng embedding CLIP chung cho ảnh và văn bản
-        Dữ liệu bảng: text-to-SQL → chạy SQL → sinh câu trả lời từ kết quả
-    Mục 7–9 — Agent là thứ cảm nhận và tác động lên môi trường
-      Định nghĩa
-        Agent được xác định bởi môi trường và tập hành động mà công cụ mở ra
-        AI là bộ não: lập kế hoạch, gọi công cụ, quyết định đã xong chưa
-        RAG là agent đơn giản, retriever và bộ chạy SQL là công cụ
-      Agent cần mô hình mạnh
-        Lỗi cộng dồn: đúng 95% mỗi bước còn khoảng 60% sau 10 bước, 0,6% sau 100 bước
-        Có công cụ thì tác động lớn hơn nên thất bại cũng nặng hơn
-      Ba nhóm công cụ
-        Tăng cường tri thức: truy xuất, SQL, duyệt web giúp mô hình không lỗi thời
-        Mở rộng năng lực: máy tính, trình thông dịch mã, sinh ảnh; Chameleon 13 công cụ +11,37% ScienceQA, +17% TabMWP
-        Hành động ghi: sửa dữ liệu, gửi email, chuyển tiền, cần niềm tin và bảo mật cao nhất
-    Mục 10 — Lập kế hoạch quyết định agent làm có hiệu quả không
-      Tách lập kế hoạch khỏi thực thi
-        Sinh kế hoạch → kiểm định bằng heuristic hoặc AI judge → thực thi → đánh giá đầu ra
-        Tránh agent chạy hàng giờ một kế hoạch vô ích
-        Con người phê duyệt các thao tác rủi ro như cập nhật cơ sở dữ liệu
-      Mô hình có lập kế hoạch được không
-        LeCun và Kambhampati cho là không, câu hỏi vẫn còn mở
-        Lập kế hoạch là tìm kiếm có quay lui, cần biết kết quả của mỗi hành động
-      Sinh kế hoạch và function calling
-        Khai báo công cụ gồm tên, tham số, mô tả; chế độ required, none, auto
-        API đảm bảo hàm hợp lệ nhưng không đảm bảo giá trị tham số đúng, luôn kiểm tra tham số
-        Kế hoạch bằng ngôn ngữ tự nhiên bền trước thay đổi API nhưng cần bộ dịch sang lệnh
-      Luồng điều khiển
-        Tuần tự, song song, rẽ nhánh, vòng lặp; song song giảm độ trễ
-        Kế hoạch chi tiết khó sinh dễ thực thi, lập kế hoạch phân cấp để cân bằng
-      Phản tư và chọn công cụ
-        ReAct xen kẽ suy nghĩ, hành động, quan sát; Reflexion tách bộ đánh giá và tự phản tư
-        Phản tư không bắt buộc để chạy nhưng cần để thành công, đổi lại tốn token và độ trễ
-        Chọn công cụ bằng thực nghiệm: ablation, phân bố lời gọi; Toolformer 5, Gorilla 1.645 API
-    Mục 11–12 — Ba kiểu hỏng của agent và bộ nhớ ba tầng
-      Lỗi lập kế hoạch
-        Gọi công cụ không có, sai tham số, sai giá trị tham số
-        Sai mục tiêu hoặc ràng buộc, kể cả quá hạn thời gian
-        Phản tư sai: xếp 40 trong 50 người mà khăng khăng đã xong
-      Lỗi công cụ và kém hiệu quả
-        Công cụ cho đầu ra sai, dịch sai, hoặc thiếu công cụ cần thiết
-        In ra mọi lời gọi công cụ và đầu ra, kiểm thử từng công cụ độc lập
-        Đo số bước, chi phí, thời gian mỗi nhiệm vụ so với mốc là agent khác hoặc người
-      Ba tầng bộ nhớ theo tần suất dùng
-        Tri thức nội tại trong trọng số cho thông tin thiết yếu mọi nhiệm vụ
-        Bộ nhớ ngắn hạn là context, nhanh nhưng hạn chế
-        Bộ nhớ dài hạn là nguồn ngoài truy xuất được, xoá được mà không sửa mô hình
-      Quản lý bộ nhớ ngắn hạn
-        Dành 30% context cho truy xuất thì ngắn hạn tối đa 70%, phần tràn chuyển ra dài hạn
-        FIFO dễ làm nhưng có thể xoá mất tin nhắn đầu nêu mục đích hội thoại
-        Tóm tắt loại dư thừa, phản tư để chèn, gộp hay thay thông tin mâu thuẫn
-    Thông điệp xuyên suốt
-      RAG là trường hợp riêng của agent, retriever chỉ là một công cụ
-      Agent càng tự động, thất bại càng có thể thảm khốc, cần phòng thủ chặt
-      RAG và agent chỉ tác động qua đầu vào, Chương 7 chuyển sang sửa chính mô hình
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: mô hình cần context riêng cho từng truy vấn, dựng bằng RAG và agent`"]
+  n1["`Mục 1–3 — RAG dựng context và vẫn cần dù context dài ra`"]
+  n0 --- n1
+  n2["`Chỉ dẫn chung cho mọi truy vấn, context riêng cho từng truy vấn`"]
+  n1 --- n2
+  n3["`Thiếu context, mô hình dễ trả lời sai và bịa`"]
+  n2 --- n3
+  n4["`Dựng context tương đương feature engineering của học máy cổ điển`"]
+  n2 --- n4
+  n5["`Nguồn gốc`"]
+  n1 --- n5
+  n6["`Chen và cộng sự 2017: lấy 5 trang Wikipedia liên quan nhất rồi đọc để trả lời`"]
+  n5 --- n6
+  n7["`Lewis và cộng sự 2020 đặt tên RAG, thấy mô hình trả lời chi tiết hơn và bớt bịa`"]
+  n5 --- n7
+  n8["`Context dài không xoá bỏ RAG`"]
+  n1 --- n8
+  n9["`Dữ liệu luôn tăng nhanh hơn độ dài context`"]
+  n8 --- n9
+  n10["`Context càng dài mô hình càng dễ chú ý nhầm, mỗi token thêm tốn tiền và độ trễ`"]
+  n8 --- n10
+  n11["`Anthropic: kho tri thức dưới 200.000 token, khoảng 500 trang, thì đưa thẳng vào prompt`"]
+  n8 --- n11
+  n12["`Kiến trúc hai thành phần`"]
+  n1 --- n12
+  n13["`Retriever lấy thông tin, generator sinh câu trả lời từ thông tin đó`"]
+  n12 --- n13
+  n14["`Retriever có hai việc: lập chỉ mục trước và truy vấn khi cần`"]
+  n12 --- n14
+  n15["`Thành bại của RAG phụ thuộc chất lượng retriever`"]
+  n12 --- n15
+  n16["`Mục 4 — Truy xuất là xếp hạng tài liệu theo độ liên quan`"]
+  n0 --- n16
+  n17["`Truy xuất dựa trên từ khoá`"]
+  n16 --- n17
+  n18["`TF đếm số lần từ xuất hiện, IDF = log của N chia số tài liệu chứa từ`"]
+  n17 --- n18
+  n19["`Chỉ mục ngược của Elasticsearch ánh xạ từ sang tài liệu chứa nó`"]
+  n17 --- n19
+  n20["`BM25 chuẩn hoá theo độ dài tài liệu, là mốc so sánh rất khó vượt`"]
+  n17 --- n20
+  n21["`Nhanh, rẻ, mạnh ngay từ đầu nhưng khó cải thiện và nhầm khi từ đa nghĩa`"]
+  n17 --- n21
+  n22["`Truy xuất dựa trên embedding`"]
+  n16 --- n22
+  n23["`Truy vấn và tài liệu thành embedding, lấy k đoạn gần nhất trong cơ sở dữ liệu vector`"]
+  n22 --- n23
+  n24["`k-NN chính xác nhưng chậm, kho lớn dùng ANN: LSH, HNSW, product quantization, IVF, Annoy`"]
+  n22 --- n24
+  n25["`Hiểu nghĩa và cải thiện được bằng finetuning nhưng làm mờ từ khoá như mã lỗi`"]
+  n22 --- n25
+  n26["`Chi tiêu cho cơ sở dữ liệu vector có thể bằng 1/5 tới 1/2 chi tiêu API mô hình`"]
+  n22 --- n26
+  n27["`Đánh giá retriever`"]
+  n16 --- n27
+  n28["`Context precision: bao nhiêu phần trăm tài liệu lấy về có liên quan`"]
+  n27 --- n28
+  n29["`Context recall: bao nhiêu phần trăm tài liệu liên quan được lấy về, khó đo vì phải gán nhãn cả kho`"]
+  n27 --- n29
+  n30["`Đánh giá ba lớp: truy xuất, embedding, đầu ra cuối`"]
+  n27 --- n30
+  n31["`Kết hợp thành hybrid search`"]
+  n16 --- n31
+  n32["`Nối tiếp: retriever rẻ lọc ứng viên rồi cơ chế chính xác hơn xếp hạng lại`"]
+  n31 --- n32
+  n33["`Song song: gộp các bảng xếp hạng bằng RRF, cộng 1 chia cho k cộng hạng, k thường là 60`"]
+  n31 --- n33
+  n34["`Mục 5–6 — Bốn chiến thuật tối ưu truy xuất và RAG ngoài văn bản`"]
+  n0 --- n34
+  n35["`Chia đoạn`"]
+  n34 --- n35
+  n36["`Chia đều, chia đệ quy theo mục rồi đoạn văn rồi câu, chia theo token`"]
+  n35 --- n36
+  n37["`Chồng lấn giữ thông tin ở ranh giới, ví dụ đoạn 2.048 ký tự chồng 20 ký tự`"]
+  n35 --- n37
+  n38["`Đoạn nhỏ cho thông tin đa dạng nhưng dễ mất ý và gấp đôi số vector phải lưu`"]
+  n35 --- n38
+  n39["`Không có kích thước tốt nhất, phải thử nghiệm`"]
+  n35 --- n39
+  n40["`Xếp hạng lại`"]
+  n34 --- n40
+  n41["`Giảm số tài liệu cho vừa context, có thể ưu tiên dữ liệu mới hơn`"]
+  n40 --- n41
+  n42["`Trong context, thứ tự ít quan trọng hơn trong tìm kiếm, miễn tài liệu được đưa vào`"]
+  n40 --- n42
+  n43["`Viết lại truy vấn`"]
+  n34 --- n43
+  n44["`Biến câu phụ thuộc hội thoại thành câu tự đủ nghĩa, như Còn Emily Doe thì sao`"]
+  n43 --- n44
+  n45["`Thiếu thông tin để giải thì phải thừa nhận, không bịa ra tên`"]
+  n43 --- n45
+  n46["`Truy xuất có ngữ cảnh`"]
+  n34 --- n46
+  n47["`Thêm metadata, thực thể như mã lỗi, câu hỏi mà đoạn trả lời được`"]
+  n46 --- n47
+  n48["`Anthropic cho mô hình viết 50–100 token mô tả vị trí đoạn trong tài liệu gốc`"]
+  n46 --- n48
+  n49["`RAG ngoài văn bản`"]
+  n34 --- n49
+  n50["`Đa phương thức: dùng embedding CLIP chung cho ảnh và văn bản`"]
+  n49 --- n50
+  n51["`Dữ liệu bảng: text-to-SQL → chạy SQL → sinh câu trả lời từ kết quả`"]
+  n49 --- n51
+  n52["`Mục 7–9 — Agent là thứ cảm nhận và tác động lên môi trường`"]
+  n0 --- n52
+  n53["`Định nghĩa`"]
+  n52 --- n53
+  n54["`Agent được xác định bởi môi trường và tập hành động mà công cụ mở ra`"]
+  n53 --- n54
+  n55["`AI là bộ não: lập kế hoạch, gọi công cụ, quyết định đã xong chưa`"]
+  n53 --- n55
+  n56["`RAG là agent đơn giản, retriever và bộ chạy SQL là công cụ`"]
+  n53 --- n56
+  n57["`Agent cần mô hình mạnh`"]
+  n52 --- n57
+  n58["`Lỗi cộng dồn: đúng 95% mỗi bước còn khoảng 60% sau 10 bước, 0,6% sau 100 bước`"]
+  n57 --- n58
+  n59["`Có công cụ thì tác động lớn hơn nên thất bại cũng nặng hơn`"]
+  n57 --- n59
+  n60["`Ba nhóm công cụ`"]
+  n52 --- n60
+  n61["`Tăng cường tri thức: truy xuất, SQL, duyệt web giúp mô hình không lỗi thời`"]
+  n60 --- n61
+  n62["`Mở rộng năng lực: máy tính, trình thông dịch mã, sinh ảnh; Chameleon 13 công cụ +11,37% ScienceQA, +17% TabMWP`"]
+  n60 --- n62
+  n63["`Hành động ghi: sửa dữ liệu, gửi email, chuyển tiền, cần niềm tin và bảo mật cao nhất`"]
+  n60 --- n63
+  n64["`Mục 10 — Lập kế hoạch quyết định agent làm có hiệu quả không`"]
+  n0 --- n64
+  n65["`Tách lập kế hoạch khỏi thực thi`"]
+  n64 --- n65
+  n66["`Sinh kế hoạch → kiểm định bằng heuristic hoặc AI judge → thực thi → đánh giá đầu ra`"]
+  n65 --- n66
+  n67["`Tránh agent chạy hàng giờ một kế hoạch vô ích`"]
+  n65 --- n67
+  n68["`Con người phê duyệt các thao tác rủi ro như cập nhật cơ sở dữ liệu`"]
+  n65 --- n68
+  n69["`Mô hình có lập kế hoạch được không`"]
+  n64 --- n69
+  n70["`LeCun và Kambhampati cho là không, câu hỏi vẫn còn mở`"]
+  n69 --- n70
+  n71["`Lập kế hoạch là tìm kiếm có quay lui, cần biết kết quả của mỗi hành động`"]
+  n69 --- n71
+  n72["`Sinh kế hoạch và function calling`"]
+  n64 --- n72
+  n73["`Khai báo công cụ gồm tên, tham số, mô tả; chế độ required, none, auto`"]
+  n72 --- n73
+  n74["`API đảm bảo hàm hợp lệ nhưng không đảm bảo giá trị tham số đúng, luôn kiểm tra tham số`"]
+  n72 --- n74
+  n75["`Kế hoạch bằng ngôn ngữ tự nhiên bền trước thay đổi API nhưng cần bộ dịch sang lệnh`"]
+  n72 --- n75
+  n76["`Luồng điều khiển`"]
+  n64 --- n76
+  n77["`Tuần tự, song song, rẽ nhánh, vòng lặp; song song giảm độ trễ`"]
+  n76 --- n77
+  n78["`Kế hoạch chi tiết khó sinh dễ thực thi, lập kế hoạch phân cấp để cân bằng`"]
+  n76 --- n78
+  n79["`Phản tư và chọn công cụ`"]
+  n64 --- n79
+  n80["`ReAct xen kẽ suy nghĩ, hành động, quan sát; Reflexion tách bộ đánh giá và tự phản tư`"]
+  n79 --- n80
+  n81["`Phản tư không bắt buộc để chạy nhưng cần để thành công, đổi lại tốn token và độ trễ`"]
+  n79 --- n81
+  n82["`Chọn công cụ bằng thực nghiệm: ablation, phân bố lời gọi; Toolformer 5, Gorilla 1.645 API`"]
+  n79 --- n82
+  n83["`Mục 11–12 — Ba kiểu hỏng của agent và bộ nhớ ba tầng`"]
+  n0 --- n83
+  n84["`Lỗi lập kế hoạch`"]
+  n83 --- n84
+  n85["`Gọi công cụ không có, sai tham số, sai giá trị tham số`"]
+  n84 --- n85
+  n86["`Sai mục tiêu hoặc ràng buộc, kể cả quá hạn thời gian`"]
+  n84 --- n86
+  n87["`Phản tư sai: xếp 40 trong 50 người mà khăng khăng đã xong`"]
+  n84 --- n87
+  n88["`Lỗi công cụ và kém hiệu quả`"]
+  n83 --- n88
+  n89["`Công cụ cho đầu ra sai, dịch sai, hoặc thiếu công cụ cần thiết`"]
+  n88 --- n89
+  n90["`In ra mọi lời gọi công cụ và đầu ra, kiểm thử từng công cụ độc lập`"]
+  n88 --- n90
+  n91["`Đo số bước, chi phí, thời gian mỗi nhiệm vụ so với mốc là agent khác hoặc người`"]
+  n88 --- n91
+  n92["`Ba tầng bộ nhớ theo tần suất dùng`"]
+  n83 --- n92
+  n93["`Tri thức nội tại trong trọng số cho thông tin thiết yếu mọi nhiệm vụ`"]
+  n92 --- n93
+  n94["`Bộ nhớ ngắn hạn là context, nhanh nhưng hạn chế`"]
+  n92 --- n94
+  n95["`Bộ nhớ dài hạn là nguồn ngoài truy xuất được, xoá được mà không sửa mô hình`"]
+  n92 --- n95
+  n96["`Quản lý bộ nhớ ngắn hạn`"]
+  n83 --- n96
+  n97["`Dành 30% context cho truy xuất thì ngắn hạn tối đa 70%, phần tràn chuyển ra dài hạn`"]
+  n96 --- n97
+  n98["`FIFO dễ làm nhưng có thể xoá mất tin nhắn đầu nêu mục đích hội thoại`"]
+  n96 --- n98
+  n99["`Tóm tắt loại dư thừa, phản tư để chèn, gộp hay thay thông tin mâu thuẫn`"]
+  n96 --- n99
+  n100["`Thông điệp xuyên suốt`"]
+  n0 --- n100
+  n101["`RAG là trường hợp riêng của agent, retriever chỉ là một công cụ`"]
+  n100 --- n101
+  n102["`Agent càng tự động, thất bại càng có thể thảm khốc, cần phòng thủ chặt`"]
+  n100 --- n102
+  n103["`RAG và agent chỉ tác động qua đầu vào, Chương 7 chuyển sang sửa chính mô hình`"]
+  n100 --- n103
+  class n0 root
+  class n1,n16,n34,n52,n64,n83,n100 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68,n69,n70,n71,n72,n73,n74,n75,n76,n77,n78,n79,n80,n81,n82,n84,n85,n86,n87,n88,n89,n90,n91,n92,n93,n94,n95,n96,n97,n98,n99,n101,n102,n103 leaf
 ```
 
 ## Nguồn

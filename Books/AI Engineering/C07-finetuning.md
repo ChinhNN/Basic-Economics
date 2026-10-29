@@ -1719,92 +1719,183 @@ Finetuning là công cụ mạnh nhưng đắt để sửa *hành vi* của mô 
 Toàn cảnh Chương 7 trên một trang: năm nhánh lớn theo năm mục chính của chương gốc (mục 2–6), mỗi nhánh ghi luận điểm, quy tắc chọn và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
-mindmap
-  root((Chương 7: finetuning sửa hành vi chứ không thêm kiến thức, và mọi kỹ thuật đều nhằm giảm bộ nhớ))
-    Mục 2 — Finetuning là học chuyển giao
-      Bắt đầu từ mô hình nền đã có phần lớn năng lực
-        Finetuning thay đổi trọng số, prompt thì không
-        Tiết kiệm mẫu: vài trăm ví dụ thay vì hàng triệu khi huấn luyện từ đầu
-        Finetuning mở khoá năng lực có sẵn mà prompt khó khai thác
-      Nhiều dạng finetuning
-        Continued pre-training trên văn bản thô rẻ, trước khi dùng dữ liệu gán nhãn đắt
-        Supervised finetuning với cặp chỉ dẫn–phản hồi; preference finetuning với phản hồi thắng và thua
-        Infilling để sửa mã ở giữa tệp; long-context có thể làm kém ở chuỗi ngắn
-      Code Llama làm từ Llama 2
-        500 tỷ token mã, 20 tỷ token long-context, 5 tỷ token chỉ dẫn
-        Context tăng từ 4.096 lên 16.384 token
-    Mục 3 — Khi nào nên finetune
-      Lý do nên finetune
-        Nhiệm vụ riêng mô hình chưa học đủ, như phương ngữ SQL ít gặp; đầu ra JSON, YAML
-        Giảm thiên lệch bằng dữ liệu chọn lọc
-        Mô hình nhỏ finetune vượt mô hình lớn: Flan-T5 nhỏ hơn 60 lần vượt GPT-3, chỉ 82.000 cặp
-      Lý do chưa nên finetune
-        Tốt lên ở nhiệm vụ này có thể kém đi ở nhiệm vụ khác
-        Tốn dữ liệu, kỹ năng huấn luyện, phục vụ và bảo trì khi mô hình nền mới ra liên tục
-        BloombergGPT 50 tỷ tham số, 1,3–2,6 triệu USD vẫn thua GPT-4 zero-shot: ConvFinQA 43,41 so với 76,48
-        Phải thử prompt có hệ thống trước; nhiều nhu cầu finetune biến mất khi prompt làm đúng
-      Lỗi thông tin dùng RAG, lỗi hành vi dùng finetuning
-        Thiếu thông tin hoặc lỗi thời → RAG: Mistral-7B từ 0,481 lên 0,875, finetune chỉ 0,504–0,588
-        Sai định dạng, sai trọng tâm, cú pháp hiếm → finetune
-        Có cả hai loại lỗi → bắt đầu RAG, truy xuất từ khoá như BM25
-      Quy trình gợi ý
-        Prompt → thêm 1–50 ví dụ → RAG đơn giản → RAG nâng cao hoặc finetune → kết hợp cả hai
-        Có pipeline đánh giá trước mọi bước
-    Mục 4 — Nút thắt bộ nhớ
-      Ba yếu tố quyết định bộ nhớ
-        Số tham số, số tham số huấn luyện được, số bit mỗi giá trị
-      Suy luận ≈ N × M × 1,2
-        Mô hình 13B ở 2 byte: 26 GB trọng số, 31,2 GB tổng
-      Huấn luyện tốn hơn nhiều suy luận
-        Mỗi tham số huấn luyện được cần thêm gradient và 2 trạng thái Adam
-        Full finetuning 7B: 14 + 42 = 56 GB, vượt GPU tiêu dùng 12–24 GB
-        Activation có thể lớn hơn cả trọng số; gradient checkpointing tính lại thay vì lưu
-      Định dạng số
-        FP32 4 byte, FP16 và BF16 2 byte, INT8 1 byte, INT4 nửa byte
-        FP16 tối đa 65.504; BF16 cùng khoảng giá trị FP32 nhưng kém chính xác hơn
-        Nạp Llama 2 BF16 vào FP16 làm chất lượng giảm rõ
-      Lượng tử hoá
-        PTQ sau huấn luyện là chuẩn cho suy luận ở 16, 8, 4 bit
-        BitNet b1.58 dùng 1,58 bit ngang Llama 2 16-bit tới 3,9 tỷ tham số
-        Huấn luyện nhạy sai số hơn → mixed precision hoặc QAT
-    Mục 5 — Kỹ thuật finetuning tiết kiệm bộ nhớ
-      PEFT: huấn luyện ít tham số mà gần bằng full finetuning
-        Adapter Houlsby: cách full finetuning 0,4% với 3% tham số
-        Partial finetuning cần khoảng 25% tham số mới ngang, kém hiệu quả hơn
-        Soft prompt: vector huấn luyện được đưa vào cùng token đầu vào
-      LoRA phân rã cập nhật thành A nhân B
-        A cỡ n × r, B cỡ r × m; thêm r × n + m tham số mỗi ma trận
-        GPT-3 175B chỉ cần khoảng 4,7 triệu tham số huấn luyện, 0,0027%
-        Hiệu quả vì chiều nội tại của LLM sau pre-training rất thấp
-        Rank 4–64 thường đủ; áp cho cả bốn ma trận attention, thêm feedforward càng tốt
-      Phục vụ LoRA
-        Gộp adapter vào trọng số → không thêm độ trễ
-        Giữ tách cho nhiều khách hàng: 100 khách cần 23,3 triệu thay vì 1,68 tỷ tham số
-        Nhược điểm: chất lượng thường kém full finetuning
-      QLoRA lưu trọng số 4 bit NF4
-        Finetune mô hình 65B trên một GPU 48 GB
-        Guanaco 65B Elo 1022 so với ChatGPT 966; đổi lại huấn luyện chậm hơn
-      Gộp mô hình thay cho finetune đa nhiệm
-        Finetune song song từng nhiệm vụ rồi gộp, tránh quên thảm khốc
-        Cộng: trung bình, SLERP, vector nhiệm vụ; TIES giữ 20% tham số ngang giữ 100%
-        Xếp lớp tăng cỡ mô hình: SOLAR 10.7B có 32 × 2 − 16 = 48 lớp
-        Nối adapter không giảm bộ nhớ nên không được khuyến nghị
-    Mục 6 — Chiến thuật finetuning
-      Chọn mô hình nền
-        Lộ trình tiến dần: thử mã trên mô hình rẻ, dữ liệu trên mô hình vừa, rồi mô hình tốt nhất
-        Lộ trình distillation: mô hình mạnh nhất sinh dữ liệu để huấn luyện mô hình rẻ hơn
-      Chọn phương pháp và framework
-        Mới bắt đầu dùng LoRA; full finetuning cần ít nhất hàng nghìn ví dụ
-        API finetuning dễ nhưng ít núm vặn; tự làm với PEFT, Axolotl, unsloth, LitGPT
-      Siêu tham số
-        Learning rate 1e-7 tới 1e-3; loss dao động → giảm, loss giảm chậm → tăng
-        Batch dưới 8 dễ bất ổn; gradient accumulation cộng dồn qua nhiều batch
-        Epoch: 1–2 cho hàng triệu ví dụ, 4–10 cho hàng nghìn; loss kiểm định tăng → overfit
-        Prompt loss weight mặc định 10%: học chủ yếu từ phản hồi
-    Thông điệp xuyên suốt
-      Finetuning cho hình thức, RAG cho sự kiện
-      Giảm tham số huấn luyện được hoặc giảm số bit là hai đòn bẩy bộ nhớ
-      Finetune thì dễ, có dữ liệu để finetune mới khó
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: finetuning sửa hành vi chứ không thêm kiến thức, và mọi kỹ thuật đều nhằm giảm bộ nhớ`"]
+  n1["`Mục 2 — Finetuning là học chuyển giao`"]
+  n0 --- n1
+  n2["`Bắt đầu từ mô hình nền đã có phần lớn năng lực`"]
+  n1 --- n2
+  n3["`Finetuning thay đổi trọng số, prompt thì không`"]
+  n2 --- n3
+  n4["`Tiết kiệm mẫu: vài trăm ví dụ thay vì hàng triệu khi huấn luyện từ đầu`"]
+  n2 --- n4
+  n5["`Finetuning mở khoá năng lực có sẵn mà prompt khó khai thác`"]
+  n2 --- n5
+  n6["`Nhiều dạng finetuning`"]
+  n1 --- n6
+  n7["`Continued pre-training trên văn bản thô rẻ, trước khi dùng dữ liệu gán nhãn đắt`"]
+  n6 --- n7
+  n8["`Supervised finetuning với cặp chỉ dẫn–phản hồi; preference finetuning với phản hồi thắng và thua`"]
+  n6 --- n8
+  n9["`Infilling để sửa mã ở giữa tệp; long-context có thể làm kém ở chuỗi ngắn`"]
+  n6 --- n9
+  n10["`Code Llama làm từ Llama 2`"]
+  n1 --- n10
+  n11["`500 tỷ token mã, 20 tỷ token long-context, 5 tỷ token chỉ dẫn`"]
+  n10 --- n11
+  n12["`Context tăng từ 4.096 lên 16.384 token`"]
+  n10 --- n12
+  n13["`Mục 3 — Khi nào nên finetune`"]
+  n0 --- n13
+  n14["`Lý do nên finetune`"]
+  n13 --- n14
+  n15["`Nhiệm vụ riêng mô hình chưa học đủ, như phương ngữ SQL ít gặp; đầu ra JSON, YAML`"]
+  n14 --- n15
+  n16["`Giảm thiên lệch bằng dữ liệu chọn lọc`"]
+  n14 --- n16
+  n17["`Mô hình nhỏ finetune vượt mô hình lớn: Flan-T5 nhỏ hơn 60 lần vượt GPT-3, chỉ 82.000 cặp`"]
+  n14 --- n17
+  n18["`Lý do chưa nên finetune`"]
+  n13 --- n18
+  n19["`Tốt lên ở nhiệm vụ này có thể kém đi ở nhiệm vụ khác`"]
+  n18 --- n19
+  n20["`Tốn dữ liệu, kỹ năng huấn luyện, phục vụ và bảo trì khi mô hình nền mới ra liên tục`"]
+  n18 --- n20
+  n21["`BloombergGPT 50 tỷ tham số, 1,3–2,6 triệu USD vẫn thua GPT-4 zero-shot: ConvFinQA 43,41 so với 76,48`"]
+  n18 --- n21
+  n22["`Phải thử prompt có hệ thống trước; nhiều nhu cầu finetune biến mất khi prompt làm đúng`"]
+  n18 --- n22
+  n23["`Lỗi thông tin dùng RAG, lỗi hành vi dùng finetuning`"]
+  n13 --- n23
+  n24["`Thiếu thông tin hoặc lỗi thời → RAG: Mistral-7B từ 0,481 lên 0,875, finetune chỉ 0,504–0,588`"]
+  n23 --- n24
+  n25["`Sai định dạng, sai trọng tâm, cú pháp hiếm → finetune`"]
+  n23 --- n25
+  n26["`Có cả hai loại lỗi → bắt đầu RAG, truy xuất từ khoá như BM25`"]
+  n23 --- n26
+  n27["`Quy trình gợi ý`"]
+  n13 --- n27
+  n28["`Prompt → thêm 1–50 ví dụ → RAG đơn giản → RAG nâng cao hoặc finetune → kết hợp cả hai`"]
+  n27 --- n28
+  n29["`Có pipeline đánh giá trước mọi bước`"]
+  n27 --- n29
+  n30["`Mục 4 — Nút thắt bộ nhớ`"]
+  n0 --- n30
+  n31["`Ba yếu tố quyết định bộ nhớ`"]
+  n30 --- n31
+  n32["`Số tham số, số tham số huấn luyện được, số bit mỗi giá trị`"]
+  n31 --- n32
+  n33["`Suy luận ≈ N × M × 1,2`"]
+  n30 --- n33
+  n34["`Mô hình 13B ở 2 byte: 26 GB trọng số, 31,2 GB tổng`"]
+  n33 --- n34
+  n35["`Huấn luyện tốn hơn nhiều suy luận`"]
+  n30 --- n35
+  n36["`Mỗi tham số huấn luyện được cần thêm gradient và 2 trạng thái Adam`"]
+  n35 --- n36
+  n37["`Full finetuning 7B: 14 + 42 = 56 GB, vượt GPU tiêu dùng 12–24 GB`"]
+  n35 --- n37
+  n38["`Activation có thể lớn hơn cả trọng số; gradient checkpointing tính lại thay vì lưu`"]
+  n35 --- n38
+  n39["`Định dạng số`"]
+  n30 --- n39
+  n40["`FP32 4 byte, FP16 và BF16 2 byte, INT8 1 byte, INT4 nửa byte`"]
+  n39 --- n40
+  n41["`FP16 tối đa 65.504; BF16 cùng khoảng giá trị FP32 nhưng kém chính xác hơn`"]
+  n39 --- n41
+  n42["`Nạp Llama 2 BF16 vào FP16 làm chất lượng giảm rõ`"]
+  n39 --- n42
+  n43["`Lượng tử hoá`"]
+  n30 --- n43
+  n44["`PTQ sau huấn luyện là chuẩn cho suy luận ở 16, 8, 4 bit`"]
+  n43 --- n44
+  n45["`BitNet b1.58 dùng 1,58 bit ngang Llama 2 16-bit tới 3,9 tỷ tham số`"]
+  n43 --- n45
+  n46["`Huấn luyện nhạy sai số hơn → mixed precision hoặc QAT`"]
+  n43 --- n46
+  n47["`Mục 5 — Kỹ thuật finetuning tiết kiệm bộ nhớ`"]
+  n0 --- n47
+  n48["`PEFT: huấn luyện ít tham số mà gần bằng full finetuning`"]
+  n47 --- n48
+  n49["`Adapter Houlsby: cách full finetuning 0,4% với 3% tham số`"]
+  n48 --- n49
+  n50["`Partial finetuning cần khoảng 25% tham số mới ngang, kém hiệu quả hơn`"]
+  n48 --- n50
+  n51["`Soft prompt: vector huấn luyện được đưa vào cùng token đầu vào`"]
+  n48 --- n51
+  n52["`LoRA phân rã cập nhật thành A nhân B`"]
+  n47 --- n52
+  n53["`A cỡ n × r, B cỡ r × m; thêm r × n + m tham số mỗi ma trận`"]
+  n52 --- n53
+  n54["`GPT-3 175B chỉ cần khoảng 4,7 triệu tham số huấn luyện, 0,0027%`"]
+  n52 --- n54
+  n55["`Hiệu quả vì chiều nội tại của LLM sau pre-training rất thấp`"]
+  n52 --- n55
+  n56["`Rank 4–64 thường đủ; áp cho cả bốn ma trận attention, thêm feedforward càng tốt`"]
+  n52 --- n56
+  n57["`Phục vụ LoRA`"]
+  n47 --- n57
+  n58["`Gộp adapter vào trọng số → không thêm độ trễ`"]
+  n57 --- n58
+  n59["`Giữ tách cho nhiều khách hàng: 100 khách cần 23,3 triệu thay vì 1,68 tỷ tham số`"]
+  n57 --- n59
+  n60["`Nhược điểm: chất lượng thường kém full finetuning`"]
+  n57 --- n60
+  n61["`QLoRA lưu trọng số 4 bit NF4`"]
+  n47 --- n61
+  n62["`Finetune mô hình 65B trên một GPU 48 GB`"]
+  n61 --- n62
+  n63["`Guanaco 65B Elo 1022 so với ChatGPT 966; đổi lại huấn luyện chậm hơn`"]
+  n61 --- n63
+  n64["`Gộp mô hình thay cho finetune đa nhiệm`"]
+  n47 --- n64
+  n65["`Finetune song song từng nhiệm vụ rồi gộp, tránh quên thảm khốc`"]
+  n64 --- n65
+  n66["`Cộng: trung bình, SLERP, vector nhiệm vụ; TIES giữ 20% tham số ngang giữ 100%`"]
+  n64 --- n66
+  n67["`Xếp lớp tăng cỡ mô hình: SOLAR 10.7B có 32 × 2 − 16 = 48 lớp`"]
+  n64 --- n67
+  n68["`Nối adapter không giảm bộ nhớ nên không được khuyến nghị`"]
+  n64 --- n68
+  n69["`Mục 6 — Chiến thuật finetuning`"]
+  n0 --- n69
+  n70["`Chọn mô hình nền`"]
+  n69 --- n70
+  n71["`Lộ trình tiến dần: thử mã trên mô hình rẻ, dữ liệu trên mô hình vừa, rồi mô hình tốt nhất`"]
+  n70 --- n71
+  n72["`Lộ trình distillation: mô hình mạnh nhất sinh dữ liệu để huấn luyện mô hình rẻ hơn`"]
+  n70 --- n72
+  n73["`Chọn phương pháp và framework`"]
+  n69 --- n73
+  n74["`Mới bắt đầu dùng LoRA; full finetuning cần ít nhất hàng nghìn ví dụ`"]
+  n73 --- n74
+  n75["`API finetuning dễ nhưng ít núm vặn; tự làm với PEFT, Axolotl, unsloth, LitGPT`"]
+  n73 --- n75
+  n76["`Siêu tham số`"]
+  n69 --- n76
+  n77["`Learning rate 1e-7 tới 1e-3; loss dao động → giảm, loss giảm chậm → tăng`"]
+  n76 --- n77
+  n78["`Batch dưới 8 dễ bất ổn; gradient accumulation cộng dồn qua nhiều batch`"]
+  n76 --- n78
+  n79["`Epoch: 1–2 cho hàng triệu ví dụ, 4–10 cho hàng nghìn; loss kiểm định tăng → overfit`"]
+  n76 --- n79
+  n80["`Prompt loss weight mặc định 10%: học chủ yếu từ phản hồi`"]
+  n76 --- n80
+  n81["`Thông điệp xuyên suốt`"]
+  n0 --- n81
+  n82["`Finetuning cho hình thức, RAG cho sự kiện`"]
+  n81 --- n82
+  n83["`Giảm tham số huấn luyện được hoặc giảm số bit là hai đòn bẩy bộ nhớ`"]
+  n81 --- n83
+  n84["`Finetune thì dễ, có dữ liệu để finetune mới khó`"]
+  n81 --- n84
+  class n0 root
+  class n1,n13,n30,n47,n69,n81 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n70,n71,n72,n73,n74,n75,n76,n77,n78,n79,n80,n82,n83,n84 leaf
 ```
 
 ## Nguồn

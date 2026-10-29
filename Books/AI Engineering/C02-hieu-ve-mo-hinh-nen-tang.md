@@ -1661,103 +1661,205 @@ Chương chọn đúng góc nhìn của người xây ứng dụng: không dạy
 Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn theo các mục chính của chương gốc — dữ liệu (mục 2), kiến trúc (mục 3), kích thước (mục 4), post-training (mục 5), sampling và đầu ra (mục 6.1–6.4), bản chất xác suất (mục 6.5) — mỗi nhánh ghi luận điểm, cơ chế và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
-mindmap
-  root((Chương 2: khác biệt giữa các mô hình đến từ dữ liệu, kiến trúc và quy mô, post-training; sampling quyết định hành vi đầu ra))
-    Mục 2 — Mô hình chỉ tốt bằng dữ liệu huấn luyện
-      Dùng dữ liệu sẵn có, không phải dữ liệu mình cần
-        Hầu hết mô hình dùng biến thể Common Crawl, 2–3 tỷ trang mỗi tháng, nhiều tin giả
-        Ít dữ liệu chất lượng cao có thể thắng nhiều dữ liệu kém
-        Mô hình 1,3 tỷ tham số học 7 tỷ token code tốt vượt mô hình lớn hơn nhiều
-      Tiếng Anh thống trị, ngôn ngữ ít tài nguyên chịu thiệt
-        Tiếng Anh 45,88% Common Crawl, tiếng Việt chỉ 1,03%; Punjabi bị đại diện thiếu 231,5 lần
-        GPT-4 đạt 85,5% MMLU tiếng Anh nhưng chỉ 62% tiếng Telugu
-        Dịch sang tiếng Anh rồi dịch lại làm mất thông tin, ví dụ đại từ quan hệ tiếng Việt
-      Token hoá kém làm chậm và đắt hơn
-        Cùng nội dung: trung vị 7 token tiếng Anh, 72 token tiếng Miến Điện → đắt và chậm gấp khoảng 10 lần
-      Việc chuyên sâu cần mô hình chuyên lĩnh vực
-        Dữ liệu protein, ảnh y khoa hiếm trên internet công khai
-        AlphaFold học khoảng 100.000 protein đã biết cấu trúc
-    Mục 3 — Transformer thống trị nhờ attention
-      Vì sao transformer thay seq2seq dùng RNN
-        Seq2seq chỉ dùng trạng thái ẩn cuối của input và xử lý tuần tự nên chậm
-        Attention cho mỗi token đầu ra nhìn mọi token trước với trọng số khác nhau
-      Prefill song song, decode tuần tự
-        Prefill xử lý toàn bộ input một lượt; decode sinh từng token một
-        Hai bước có đặc tính khác nhau nên được tối ưu khác nhau
-      Query, key, value
-        Điểm chú ý là tích vô hướng query với key, rồi softmax, rồi lấy trung bình có trọng số các value
-        Mỗi token trước phải lưu key và value → context dài tốn bộ nhớ
-        Llama 2-7B: chiều ẩn 4.096, 32 head mỗi head 128 chiều
-      Kích thước do chiều mô hình, số khối, chiều feedforward, cỡ từ vựng quyết định
-        Mỗi khối gồm attention 4 ma trận Q, K, V, O và MLP xen hàm kích hoạt như ReLU
-      Kiến trúc thay thế còn đang thử
-        RWKV huấn luyện song song được; SSM như Mamba có chi phí tăng tuyến tính theo độ dài chuỗi
-        Mamba-3B ngang transformer 6B; Jamba lai transformer–Mamba, context 256K token
-    Mục 4 — Quy mô đo bằng ba con số và bị giới hạn bởi ngân sách
-      Ba con số quy mô
-        Số tham số ≈ năng lực học; số token huấn luyện ≈ lượng đã học; số FLOPs ≈ chi phí
-        7 tỷ tham số × 2 byte → ít nhất 14 GB bộ nhớ GPU
-        MoE: Mixtral 8x7B có 46,7 tỷ tham số nhưng mỗi token chỉ dùng 12,9 tỷ
-      Đổi FLOPs ra thời gian và tiền
-        GPT-3-175B cần 3,14 × 10²³ FLOPs ≈ 236 ngày trên 256 H100
-        Ở mức sử dụng 70% và 2 USD mỗi giờ GPU → hơn 4 triệu USD
-      Luật Chinchilla cho mô hình tối ưu tính toán
-        Số token huấn luyện ≈ 20 lần số tham số, hai đại lượng tăng cùng tỷ lệ
-        GPT-3 chỉ 1,7 token mỗi tham số → huấn luyện thiếu dữ liệu
-        Llama cố ý chọn mô hình nhỏ hơn mức tối ưu, học lâu hơn để suy luận rẻ
-      Cải thiện biên ngày càng đắt
-        Lỗi 2% cần tài nguyên gấp khoảng 10 lần lỗi 3%
-        Mô hình lớn chỉ huấn luyện được một lần → phải ngoại suy siêu tham số từ mô hình nhỏ
-      Hai nút thắt: dữ liệu và điện
-        Dữ liệu internet dự báo dùng hết khoảng 2027–2028; tới 45% C4 đã bị hạn chế
-        Trung tâm dữ liệu dùng 1–2% điện thế giới, có thể 4–20% năm 2030
-    Mục 5 — Post-training biến mô hình viết tiếp thành trợ lý
-      Vì sao cần
-        Pre-training tối ưu từng token cho viết tiếp, người dùng cần cả câu trả lời tốt
-        Chỉ tốn khoảng 2% compute ở InstructGPT nhưng quyết định mô hình có dùng được không
-      SFT bằng dữ liệu minh hoạ prompt và response
-        Mô hình bắt chước hành vi người gán nhãn viết
-        InstructGPT dùng 13.000 cặp; khoảng 90% người gán nhãn có bằng đại học
-      Preference finetuning bằng RLHF
-        Huấn luyện reward model trên dữ liệu so sánh câu thắng và câu thua
-        So sánh rẻ hơn viết: 3,50 USD mỗi so sánh so với 25 USD mỗi câu trả lời
-        Rồi tối ưu mô hình bằng PPO để đạt điểm reward cao nhất
-      Lựa chọn đơn giản hơn
-        DPO bỏ reward model riêng, Llama 3 dùng
-        Best of N: sinh nhiều đầu ra, chọn câu reward model chấm cao nhất, Stitch Fix và Grab dùng
-    Mục 6.1–6.4 — Sampling quyết định đầu ra
-      Từ logit tới xác suất
-        Mô hình xuất logit cho mọi token trong từ vựng, softmax đổi thành xác suất
-        Greedy luôn chọn token xác suất cao nhất → hợp phân loại, văn bản nhàm chán
-      Các biến sampling
-        Nhiệt độ thấp → nhất quán hơn; nhiệt độ cao → sáng tạo hơn nhưng kém mạch lạc
-        Temperature 0 luôn chọn token có logit lớn nhất; 0,7 thường dùng cho việc sáng tạo
-        Top-k chỉ xét k token lớn nhất; top-p 0,9–0,95 xét tập nhỏ nhất có tổng xác suất vượt p
-        Điều kiện dừng giảm chi phí nhưng dừng sớm có thể làm hỏng JSON
-      Test time compute: sinh nhiều đầu ra rồi chọn
-        Chọn theo logprob trung bình, verifier, đa số phiếu, hoặc câu hợp lệ đầu tiên
-        Verifier hiệu quả ngang tăng 30 lần cỡ mô hình
-        Chi phí tăng theo số mẫu; OpenAI thấy hiệu năng đỉnh ở khoảng 400 mẫu
-      Đầu ra có cấu trúc theo bậc
-        Prompt và hậu xử lý rẻ nhưng không bảo đảm; LinkedIn nâng YAML đúng từ 90% lên 99,99%
-        Constrained sampling lọc logit chỉ giữ token hợp ngữ pháp → bảo đảm định dạng
-        Finetuning là cách tổng quát và đáng tin nhất; JSON mode chỉ bảo đảm JSON hợp lệ, không bảo đảm nội dung
-    Mục 6.5 — Bản chất xác suất gây thiếu nhất quán và hallucination
-      Mọi điều có xác suất khác 0 đều có thể được sinh ra
-        Tốt cho sáng tạo, phiền cho việc cần đúng sự thật
-      Thiếu nhất quán
-        Cùng bài luận chấm hai lần được 3/5 rồi 5/5
-        Giảm bằng cache, cố định temperature, top-p, top-k, seed — vẫn không bảo đảm 100%
-      Hallucination: hai giả thuyết bổ sung nhau
-        Tự lừa mình: mô hình coi chữ nó tự sinh là sự thật rồi bịa tiếp để biện minh
-        Lệch kiến thức: SFT dạy mô hình bắt chước câu trả lời dùng kiến thức nó không có
-        RLHF làm hallucination InstructGPT tăng từ 0,078 lên 0,172 nhưng cải thiện các mặt khác
-      Cách giảm
-        Prompt cho phép trả lời không biết, yêu cầu ngắn gọn, đòi nguồn, reward phạt bịa
-    Thông điệp xuyên suốt
-      Không cần tự huấn luyện, nhưng cần hiểu mô hình để chọn và điều chỉnh
-      Biến sampling là thiết lập sản phẩm, chọn theo từng việc với rất ít công sức
-      Xây quy trình quanh bản chất xác suất, bắt đầu từ đánh giá ở Chương 3–4
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: khác biệt giữa các mô hình đến từ dữ liệu, kiến trúc và quy mô, post-training; sampling quyết định hành vi đầu ra`"]
+  n1["`Mục 2 — Mô hình chỉ tốt bằng dữ liệu huấn luyện`"]
+  n0 --- n1
+  n2["`Dùng dữ liệu sẵn có, không phải dữ liệu mình cần`"]
+  n1 --- n2
+  n3["`Hầu hết mô hình dùng biến thể Common Crawl, 2–3 tỷ trang mỗi tháng, nhiều tin giả`"]
+  n2 --- n3
+  n4["`Ít dữ liệu chất lượng cao có thể thắng nhiều dữ liệu kém`"]
+  n2 --- n4
+  n5["`Mô hình 1,3 tỷ tham số học 7 tỷ token code tốt vượt mô hình lớn hơn nhiều`"]
+  n2 --- n5
+  n6["`Tiếng Anh thống trị, ngôn ngữ ít tài nguyên chịu thiệt`"]
+  n1 --- n6
+  n7["`Tiếng Anh 45,88% Common Crawl, tiếng Việt chỉ 1,03%; Punjabi bị đại diện thiếu 231,5 lần`"]
+  n6 --- n7
+  n8["`GPT-4 đạt 85,5% MMLU tiếng Anh nhưng chỉ 62% tiếng Telugu`"]
+  n6 --- n8
+  n9["`Dịch sang tiếng Anh rồi dịch lại làm mất thông tin, ví dụ đại từ quan hệ tiếng Việt`"]
+  n6 --- n9
+  n10["`Token hoá kém làm chậm và đắt hơn`"]
+  n1 --- n10
+  n11["`Cùng nội dung: trung vị 7 token tiếng Anh, 72 token tiếng Miến Điện → đắt và chậm gấp khoảng 10 lần`"]
+  n10 --- n11
+  n12["`Việc chuyên sâu cần mô hình chuyên lĩnh vực`"]
+  n1 --- n12
+  n13["`Dữ liệu protein, ảnh y khoa hiếm trên internet công khai`"]
+  n12 --- n13
+  n14["`AlphaFold học khoảng 100.000 protein đã biết cấu trúc`"]
+  n12 --- n14
+  n15["`Mục 3 — Transformer thống trị nhờ attention`"]
+  n0 --- n15
+  n16["`Vì sao transformer thay seq2seq dùng RNN`"]
+  n15 --- n16
+  n17["`Seq2seq chỉ dùng trạng thái ẩn cuối của input và xử lý tuần tự nên chậm`"]
+  n16 --- n17
+  n18["`Attention cho mỗi token đầu ra nhìn mọi token trước với trọng số khác nhau`"]
+  n16 --- n18
+  n19["`Prefill song song, decode tuần tự`"]
+  n15 --- n19
+  n20["`Prefill xử lý toàn bộ input một lượt; decode sinh từng token một`"]
+  n19 --- n20
+  n21["`Hai bước có đặc tính khác nhau nên được tối ưu khác nhau`"]
+  n19 --- n21
+  n22["`Query, key, value`"]
+  n15 --- n22
+  n23["`Điểm chú ý là tích vô hướng query với key, rồi softmax, rồi lấy trung bình có trọng số các value`"]
+  n22 --- n23
+  n24["`Mỗi token trước phải lưu key và value → context dài tốn bộ nhớ`"]
+  n22 --- n24
+  n25["`Llama 2-7B: chiều ẩn 4.096, 32 head mỗi head 128 chiều`"]
+  n22 --- n25
+  n26["`Kích thước do chiều mô hình, số khối, chiều feedforward, cỡ từ vựng quyết định`"]
+  n15 --- n26
+  n27["`Mỗi khối gồm attention 4 ma trận Q, K, V, O và MLP xen hàm kích hoạt như ReLU`"]
+  n26 --- n27
+  n28["`Kiến trúc thay thế còn đang thử`"]
+  n15 --- n28
+  n29["`RWKV huấn luyện song song được; SSM như Mamba có chi phí tăng tuyến tính theo độ dài chuỗi`"]
+  n28 --- n29
+  n30["`Mamba-3B ngang transformer 6B; Jamba lai transformer–Mamba, context 256K token`"]
+  n28 --- n30
+  n31["`Mục 4 — Quy mô đo bằng ba con số và bị giới hạn bởi ngân sách`"]
+  n0 --- n31
+  n32["`Ba con số quy mô`"]
+  n31 --- n32
+  n33["`Số tham số ≈ năng lực học; số token huấn luyện ≈ lượng đã học; số FLOPs ≈ chi phí`"]
+  n32 --- n33
+  n34["`7 tỷ tham số × 2 byte → ít nhất 14 GB bộ nhớ GPU`"]
+  n32 --- n34
+  n35["`MoE: Mixtral 8x7B có 46,7 tỷ tham số nhưng mỗi token chỉ dùng 12,9 tỷ`"]
+  n32 --- n35
+  n36["`Đổi FLOPs ra thời gian và tiền`"]
+  n31 --- n36
+  n37["`GPT-3-175B cần 3,14 × 10²³ FLOPs ≈ 236 ngày trên 256 H100`"]
+  n36 --- n37
+  n38["`Ở mức sử dụng 70% và 2 USD mỗi giờ GPU → hơn 4 triệu USD`"]
+  n36 --- n38
+  n39["`Luật Chinchilla cho mô hình tối ưu tính toán`"]
+  n31 --- n39
+  n40["`Số token huấn luyện ≈ 20 lần số tham số, hai đại lượng tăng cùng tỷ lệ`"]
+  n39 --- n40
+  n41["`GPT-3 chỉ 1,7 token mỗi tham số → huấn luyện thiếu dữ liệu`"]
+  n39 --- n41
+  n42["`Llama cố ý chọn mô hình nhỏ hơn mức tối ưu, học lâu hơn để suy luận rẻ`"]
+  n39 --- n42
+  n43["`Cải thiện biên ngày càng đắt`"]
+  n31 --- n43
+  n44["`Lỗi 2% cần tài nguyên gấp khoảng 10 lần lỗi 3%`"]
+  n43 --- n44
+  n45["`Mô hình lớn chỉ huấn luyện được một lần → phải ngoại suy siêu tham số từ mô hình nhỏ`"]
+  n43 --- n45
+  n46["`Hai nút thắt: dữ liệu và điện`"]
+  n31 --- n46
+  n47["`Dữ liệu internet dự báo dùng hết khoảng 2027–2028; tới 45% C4 đã bị hạn chế`"]
+  n46 --- n47
+  n48["`Trung tâm dữ liệu dùng 1–2% điện thế giới, có thể 4–20% năm 2030`"]
+  n46 --- n48
+  n49["`Mục 5 — Post-training biến mô hình viết tiếp thành trợ lý`"]
+  n0 --- n49
+  n50["`Vì sao cần`"]
+  n49 --- n50
+  n51["`Pre-training tối ưu từng token cho viết tiếp, người dùng cần cả câu trả lời tốt`"]
+  n50 --- n51
+  n52["`Chỉ tốn khoảng 2% compute ở InstructGPT nhưng quyết định mô hình có dùng được không`"]
+  n50 --- n52
+  n53["`SFT bằng dữ liệu minh hoạ prompt và response`"]
+  n49 --- n53
+  n54["`Mô hình bắt chước hành vi người gán nhãn viết`"]
+  n53 --- n54
+  n55["`InstructGPT dùng 13.000 cặp; khoảng 90% người gán nhãn có bằng đại học`"]
+  n53 --- n55
+  n56["`Preference finetuning bằng RLHF`"]
+  n49 --- n56
+  n57["`Huấn luyện reward model trên dữ liệu so sánh câu thắng và câu thua`"]
+  n56 --- n57
+  n58["`So sánh rẻ hơn viết: 3,50 USD mỗi so sánh so với 25 USD mỗi câu trả lời`"]
+  n56 --- n58
+  n59["`Rồi tối ưu mô hình bằng PPO để đạt điểm reward cao nhất`"]
+  n56 --- n59
+  n60["`Lựa chọn đơn giản hơn`"]
+  n49 --- n60
+  n61["`DPO bỏ reward model riêng, Llama 3 dùng`"]
+  n60 --- n61
+  n62["`Best of N: sinh nhiều đầu ra, chọn câu reward model chấm cao nhất, Stitch Fix và Grab dùng`"]
+  n60 --- n62
+  n63["`Mục 6.1–6.4 — Sampling quyết định đầu ra`"]
+  n0 --- n63
+  n64["`Từ logit tới xác suất`"]
+  n63 --- n64
+  n65["`Mô hình xuất logit cho mọi token trong từ vựng, softmax đổi thành xác suất`"]
+  n64 --- n65
+  n66["`Greedy luôn chọn token xác suất cao nhất → hợp phân loại, văn bản nhàm chán`"]
+  n64 --- n66
+  n67["`Các biến sampling`"]
+  n63 --- n67
+  n68["`Nhiệt độ thấp → nhất quán hơn; nhiệt độ cao → sáng tạo hơn nhưng kém mạch lạc`"]
+  n67 --- n68
+  n69["`Temperature 0 luôn chọn token có logit lớn nhất; 0,7 thường dùng cho việc sáng tạo`"]
+  n67 --- n69
+  n70["`Top-k chỉ xét k token lớn nhất; top-p 0,9–0,95 xét tập nhỏ nhất có tổng xác suất vượt p`"]
+  n67 --- n70
+  n71["`Điều kiện dừng giảm chi phí nhưng dừng sớm có thể làm hỏng JSON`"]
+  n67 --- n71
+  n72["`Test time compute: sinh nhiều đầu ra rồi chọn`"]
+  n63 --- n72
+  n73["`Chọn theo logprob trung bình, verifier, đa số phiếu, hoặc câu hợp lệ đầu tiên`"]
+  n72 --- n73
+  n74["`Verifier hiệu quả ngang tăng 30 lần cỡ mô hình`"]
+  n72 --- n74
+  n75["`Chi phí tăng theo số mẫu; OpenAI thấy hiệu năng đỉnh ở khoảng 400 mẫu`"]
+  n72 --- n75
+  n76["`Đầu ra có cấu trúc theo bậc`"]
+  n63 --- n76
+  n77["`Prompt và hậu xử lý rẻ nhưng không bảo đảm; LinkedIn nâng YAML đúng từ 90% lên 99,99%`"]
+  n76 --- n77
+  n78["`Constrained sampling lọc logit chỉ giữ token hợp ngữ pháp → bảo đảm định dạng`"]
+  n76 --- n78
+  n79["`Finetuning là cách tổng quát và đáng tin nhất; JSON mode chỉ bảo đảm JSON hợp lệ, không bảo đảm nội dung`"]
+  n76 --- n79
+  n80["`Mục 6.5 — Bản chất xác suất gây thiếu nhất quán và hallucination`"]
+  n0 --- n80
+  n81["`Mọi điều có xác suất khác 0 đều có thể được sinh ra`"]
+  n80 --- n81
+  n82["`Tốt cho sáng tạo, phiền cho việc cần đúng sự thật`"]
+  n81 --- n82
+  n83["`Thiếu nhất quán`"]
+  n80 --- n83
+  n84["`Cùng bài luận chấm hai lần được 3/5 rồi 5/5`"]
+  n83 --- n84
+  n85["`Giảm bằng cache, cố định temperature, top-p, top-k, seed — vẫn không bảo đảm 100%`"]
+  n83 --- n85
+  n86["`Hallucination: hai giả thuyết bổ sung nhau`"]
+  n80 --- n86
+  n87["`Tự lừa mình: mô hình coi chữ nó tự sinh là sự thật rồi bịa tiếp để biện minh`"]
+  n86 --- n87
+  n88["`Lệch kiến thức: SFT dạy mô hình bắt chước câu trả lời dùng kiến thức nó không có`"]
+  n86 --- n88
+  n89["`RLHF làm hallucination InstructGPT tăng từ 0,078 lên 0,172 nhưng cải thiện các mặt khác`"]
+  n86 --- n89
+  n90["`Cách giảm`"]
+  n80 --- n90
+  n91["`Prompt cho phép trả lời không biết, yêu cầu ngắn gọn, đòi nguồn, reward phạt bịa`"]
+  n90 --- n91
+  n92["`Thông điệp xuyên suốt`"]
+  n0 --- n92
+  n93["`Không cần tự huấn luyện, nhưng cần hiểu mô hình để chọn và điều chỉnh`"]
+  n92 --- n93
+  n94["`Biến sampling là thiết lập sản phẩm, chọn theo từng việc với rất ít công sức`"]
+  n92 --- n94
+  n95["`Xây quy trình quanh bản chất xác suất, bắt đầu từ đánh giá ở Chương 3–4`"]
+  n92 --- n95
+  class n0 root
+  class n1,n15,n31,n49,n63,n80,n92 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67,n68,n69,n70,n71,n72,n73,n74,n75,n76,n77,n78,n79,n81,n82,n83,n84,n85,n86,n87,n88,n89,n90,n91,n93,n94,n95 leaf
 ```
 
 ## Nguồn

@@ -1761,71 +1761,141 @@ Kỹ thuật AI là một ngành mới vì cách xây ứng dụng AI đã đổ
 Toàn cảnh Chương 1 trên một trang: bốn nhánh lớn theo bốn mục chính của chương gốc (mục 2–5), mỗi nhánh ghi luận điểm và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
-mindmap
-  root((Chương 1: xây ứng dụng trên mô hình có sẵn, trọng tâm chuyển từ huấn luyện sang thích nghi và đánh giá))
-    Mục 2 — Vì sao kỹ thuật AI bùng nổ
-      Mô hình ngôn ngữ đoán token kế tiếp
-        Token là đơn vị đọc và tính tiền: 100 token ≈ 75 từ với GPT-4
-        Mô hình tự hồi quy sinh được văn bản mở, bản chất là viết tiếp prompt theo xác suất
-      Tự giám sát xoá nút thắt gán nhãn
-        Mỗi câu văn tự tạo nhãn: “I love street food.” cho sáu mẫu huấn luyện
-        Gán nhãn tay 1 triệu ảnh tốn khoảng 50.000 USD
-        Nhờ vậy mô hình lớn lên từ 117 triệu tham số năm 2018 tới trên 100 tỷ
-      Thêm ảnh, video biến LLM thành mô hình nền tảng
-        CLIP học từ 400 triệu cặp ảnh–chữ trên internet, không gán nhãn tay
-        Một mô hình đa dụng thay nhiều mô hình chuyên một nhiệm vụ
-      Ba lực đẩy thành ngành riêng
-        Năng lực đa dụng mở ra ứng dụng mới
-        Đầu tư tăng vọt: dự báo 200 tỷ USD toàn cầu năm 2025
-        Rào cản thấp: dùng mô hình mạnh nhất chỉ bằng một lời gọi API
-    Mục 3 — Dùng mô hình nền tảng vào việc gì
-      Tám nhóm ứng dụng đã được kiểm chứng
-        Lập trình 30,4% và bot hội thoại 26,5% trong 205 ứng dụng mã nguồn mở
-        Còn lại: tổng hợp thông tin, ảnh và video, tự động hoá quy trình, viết, giáo dục, tổ chức dữ liệu
-      Doanh nghiệp làm ứng dụng nội bộ trước
-        Rủi ro thấp hơn: 62% triển khai tóm tắt văn bản, chỉ 39% chatbot cho khách bên ngoài
-      Độ phơi nhiễm nghề nghiệp
-        Nhiệm vụ phơi nhiễm khi AI giảm ít nhất 50% thời gian làm
-        Phiên dịch, khai thuế, phân tích tài chính phơi nhiễm cao; đầu bếp, thợ đá gần 0%
-    Mục 4 — Có nên xây và lập kế hoạch thế nào
-      Vì sao xây: ba mức rủi ro
-        Đe doạ sống còn → tự làm, ưu tiên cao nhất
-        Cơ hội tăng lợi nhuận, năng suất → cân nhắc mua giải pháp có sẵn
-        Sợ bị bỏ lại → thăm dò nếu đủ nguồn lực
-      Vai trò của AI và con người
-        AI thiết yếu cần chính xác hơn AI bổ trợ
-        Tính năng chủ động cần chất lượng cao hơn tính năng phản ứng
-        Crawl–Walk–Run: bắt buộc có người → AI làm với nhân viên → AI làm thẳng với khách
-      Phòng thủ sản phẩm
-        Ba lợi thế: công nghệ, dữ liệu, phân phối
-        Công nghệ dễ giống nhau, phân phối nghiêng về công ty lớn, startup thắng bằng dữ liệu sử dụng
-        Rủi ro bị chính mô hình nền tảng nuốt mất tính năng
-      Đo thành công
-        Chỉ số kinh doanh đặt trước chỉ số mô hình
-        Ngưỡng hữu dụng: chất lượng, độ trễ TTFT và TPOT, chi phí mỗi yêu cầu
-      Dặm cuối và bảo trì
-        LinkedIn: 1 tháng đạt 80%, thêm 4 tháng mới vượt 95%
-        Giá cho cùng năng lực giảm hàng trăm lần → lựa chọn hôm nay có thể sai ngày mai
-        Quy định, nguồn GPU và sở hữu trí tuệ có thể đổi qua một đêm
-    Mục 5 — Ngăn xếp kỹ thuật AI
-      Ba tầng
-        Phát triển ứng dụng: prompt, ngữ cảnh, đánh giá, giao diện
-        Phát triển mô hình: huấn luyện, finetuning, kỹ thuật dữ liệu, tối ưu suy luận
-        Hạ tầng: phục vụ mô hình, quản lý dữ liệu và tính toán, giám sát
-      Ba khác biệt so với kỹ thuật học máy
-        Dùng mô hình người khác huấn luyện → trọng tâm là thích nghi mô hình
-        Mô hình lớn hơn → tối ưu suy luận quan trọng hơn: 10 ms mỗi token thì 100 token mất 1 giây
-        Đầu ra mở → đánh giá khó hơn: Gemini Ultra được 90,04% hay 83,7% MMLU tuỳ cách prompt
-      Hai nhóm kỹ thuật thích nghi
-        Dựa trên prompt, không đổi trọng số: dễ bắt đầu, ít dữ liệu
-        Finetuning, đổi trọng số: phức tạp hơn nhưng cải thiện chất lượng, độ trễ, chi phí
-      Quy trình đảo ngược
-        Học máy: dữ liệu → mô hình → sản phẩm
-        Kỹ thuật AI: sản phẩm → dữ liệu → mô hình, gần với full-stack hơn
-    Thông điệp xuyên suốt
-      Demo thì dễ, sản phẩm có lãi thì khó
-      Nguyên tắc cũ vẫn đúng: gắn chỉ số kinh doanh, thử nghiệm có hệ thống, vòng phản hồi
-      Đánh giá là thách thức lớn nhất, xuyên suốt Chương 3–4
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: xây ứng dụng trên mô hình có sẵn, trọng tâm chuyển từ huấn luyện sang thích nghi và đánh giá`"]
+  n1["`Mục 2 — Vì sao kỹ thuật AI bùng nổ`"]
+  n0 --- n1
+  n2["`Mô hình ngôn ngữ đoán token kế tiếp`"]
+  n1 --- n2
+  n3["`Token là đơn vị đọc và tính tiền: 100 token ≈ 75 từ với GPT-4`"]
+  n2 --- n3
+  n4["`Mô hình tự hồi quy sinh được văn bản mở, bản chất là viết tiếp prompt theo xác suất`"]
+  n2 --- n4
+  n5["`Tự giám sát xoá nút thắt gán nhãn`"]
+  n1 --- n5
+  n6["`Mỗi câu văn tự tạo nhãn: “I love street food.” cho sáu mẫu huấn luyện`"]
+  n5 --- n6
+  n7["`Gán nhãn tay 1 triệu ảnh tốn khoảng 50.000 USD`"]
+  n5 --- n7
+  n8["`Nhờ vậy mô hình lớn lên từ 117 triệu tham số năm 2018 tới trên 100 tỷ`"]
+  n5 --- n8
+  n9["`Thêm ảnh, video biến LLM thành mô hình nền tảng`"]
+  n1 --- n9
+  n10["`CLIP học từ 400 triệu cặp ảnh–chữ trên internet, không gán nhãn tay`"]
+  n9 --- n10
+  n11["`Một mô hình đa dụng thay nhiều mô hình chuyên một nhiệm vụ`"]
+  n9 --- n11
+  n12["`Ba lực đẩy thành ngành riêng`"]
+  n1 --- n12
+  n13["`Năng lực đa dụng mở ra ứng dụng mới`"]
+  n12 --- n13
+  n14["`Đầu tư tăng vọt: dự báo 200 tỷ USD toàn cầu năm 2025`"]
+  n12 --- n14
+  n15["`Rào cản thấp: dùng mô hình mạnh nhất chỉ bằng một lời gọi API`"]
+  n12 --- n15
+  n16["`Mục 3 — Dùng mô hình nền tảng vào việc gì`"]
+  n0 --- n16
+  n17["`Tám nhóm ứng dụng đã được kiểm chứng`"]
+  n16 --- n17
+  n18["`Lập trình 30,4% và bot hội thoại 26,5% trong 205 ứng dụng mã nguồn mở`"]
+  n17 --- n18
+  n19["`Còn lại: tổng hợp thông tin, ảnh và video, tự động hoá quy trình, viết, giáo dục, tổ chức dữ liệu`"]
+  n17 --- n19
+  n20["`Doanh nghiệp làm ứng dụng nội bộ trước`"]
+  n16 --- n20
+  n21["`Rủi ro thấp hơn: 62% triển khai tóm tắt văn bản, chỉ 39% chatbot cho khách bên ngoài`"]
+  n20 --- n21
+  n22["`Độ phơi nhiễm nghề nghiệp`"]
+  n16 --- n22
+  n23["`Nhiệm vụ phơi nhiễm khi AI giảm ít nhất 50% thời gian làm`"]
+  n22 --- n23
+  n24["`Phiên dịch, khai thuế, phân tích tài chính phơi nhiễm cao; đầu bếp, thợ đá gần 0%`"]
+  n22 --- n24
+  n25["`Mục 4 — Có nên xây và lập kế hoạch thế nào`"]
+  n0 --- n25
+  n26["`Vì sao xây: ba mức rủi ro`"]
+  n25 --- n26
+  n27["`Đe doạ sống còn → tự làm, ưu tiên cao nhất`"]
+  n26 --- n27
+  n28["`Cơ hội tăng lợi nhuận, năng suất → cân nhắc mua giải pháp có sẵn`"]
+  n26 --- n28
+  n29["`Sợ bị bỏ lại → thăm dò nếu đủ nguồn lực`"]
+  n26 --- n29
+  n30["`Vai trò của AI và con người`"]
+  n25 --- n30
+  n31["`AI thiết yếu cần chính xác hơn AI bổ trợ`"]
+  n30 --- n31
+  n32["`Tính năng chủ động cần chất lượng cao hơn tính năng phản ứng`"]
+  n30 --- n32
+  n33["`Crawl–Walk–Run: bắt buộc có người → AI làm với nhân viên → AI làm thẳng với khách`"]
+  n30 --- n33
+  n34["`Phòng thủ sản phẩm`"]
+  n25 --- n34
+  n35["`Ba lợi thế: công nghệ, dữ liệu, phân phối`"]
+  n34 --- n35
+  n36["`Công nghệ dễ giống nhau, phân phối nghiêng về công ty lớn, startup thắng bằng dữ liệu sử dụng`"]
+  n34 --- n36
+  n37["`Rủi ro bị chính mô hình nền tảng nuốt mất tính năng`"]
+  n34 --- n37
+  n38["`Đo thành công`"]
+  n25 --- n38
+  n39["`Chỉ số kinh doanh đặt trước chỉ số mô hình`"]
+  n38 --- n39
+  n40["`Ngưỡng hữu dụng: chất lượng, độ trễ TTFT và TPOT, chi phí mỗi yêu cầu`"]
+  n38 --- n40
+  n41["`Dặm cuối và bảo trì`"]
+  n25 --- n41
+  n42["`LinkedIn: 1 tháng đạt 80%, thêm 4 tháng mới vượt 95%`"]
+  n41 --- n42
+  n43["`Giá cho cùng năng lực giảm hàng trăm lần → lựa chọn hôm nay có thể sai ngày mai`"]
+  n41 --- n43
+  n44["`Quy định, nguồn GPU và sở hữu trí tuệ có thể đổi qua một đêm`"]
+  n41 --- n44
+  n45["`Mục 5 — Ngăn xếp kỹ thuật AI`"]
+  n0 --- n45
+  n46["`Ba tầng`"]
+  n45 --- n46
+  n47["`Phát triển ứng dụng: prompt, ngữ cảnh, đánh giá, giao diện`"]
+  n46 --- n47
+  n48["`Phát triển mô hình: huấn luyện, finetuning, kỹ thuật dữ liệu, tối ưu suy luận`"]
+  n46 --- n48
+  n49["`Hạ tầng: phục vụ mô hình, quản lý dữ liệu và tính toán, giám sát`"]
+  n46 --- n49
+  n50["`Ba khác biệt so với kỹ thuật học máy`"]
+  n45 --- n50
+  n51["`Dùng mô hình người khác huấn luyện → trọng tâm là thích nghi mô hình`"]
+  n50 --- n51
+  n52["`Mô hình lớn hơn → tối ưu suy luận quan trọng hơn: 10 ms mỗi token thì 100 token mất 1 giây`"]
+  n50 --- n52
+  n53["`Đầu ra mở → đánh giá khó hơn: Gemini Ultra được 90,04% hay 83,7% MMLU tuỳ cách prompt`"]
+  n50 --- n53
+  n54["`Hai nhóm kỹ thuật thích nghi`"]
+  n45 --- n54
+  n55["`Dựa trên prompt, không đổi trọng số: dễ bắt đầu, ít dữ liệu`"]
+  n54 --- n55
+  n56["`Finetuning, đổi trọng số: phức tạp hơn nhưng cải thiện chất lượng, độ trễ, chi phí`"]
+  n54 --- n56
+  n57["`Quy trình đảo ngược`"]
+  n45 --- n57
+  n58["`Học máy: dữ liệu → mô hình → sản phẩm`"]
+  n57 --- n58
+  n59["`Kỹ thuật AI: sản phẩm → dữ liệu → mô hình, gần với full-stack hơn`"]
+  n57 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Demo thì dễ, sản phẩm có lãi thì khó`"]
+  n60 --- n61
+  n62["`Nguyên tắc cũ vẫn đúng: gắn chỉ số kinh doanh, thử nghiệm có hệ thống, vòng phản hồi`"]
+  n60 --- n62
+  n63["`Đánh giá là thách thức lớn nhất, xuyên suốt Chương 3–4`"]
+  n60 --- n63
+  class n0 root
+  class n1,n16,n25,n45,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63 leaf
 ```
 
 ## Nguồn

@@ -1619,109 +1619,217 @@ Nhiều thách thức AI, về cốt lõi, là bài toán hệ thống. Để gi
 Toàn cảnh Chương 10 trên một trang: ba nhánh đầu là phần kiến trúc năm bước (mục 2–7 của chương gốc), một nhánh cho giám sát và điều phối (mục 8–9), hai nhánh cho phản hồi người dùng (mục 10–13); mỗi nhánh ghi luận điểm, cơ chế, đánh đổi và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
-mindmap
-  root((Chương 10: ứng dụng AI là bài toán hệ thống, dựng dần từng thành phần và học từ phản hồi người dùng))
-    Mục 2–3 — Bắt đầu đơn giản, rồi thêm ngữ cảnh
-      Kiến trúc đơn giản nhất
-        Truy vấn → Model API → câu trả lời, chưa có ngữ cảnh, guardrail hay tối ưu
-        Model API gồm cả API bên thứ ba lẫn mô hình tự host
-      Lộ trình năm bước, thêm khi có nhu cầu
-        Ngữ cảnh → guardrail → router và gateway → cache → agent và hành động ghi
-        Thứ tự là thứ tác giả hay gặp, không phải quy tắc
-      Bước 1: dựng ngữ cảnh là feature engineering của mô hình nền tảng
-        Truy xuất văn bản, ảnh, bảng; công cụ chỉ đọc như tìm web, chạy SQL
-        Nhà cung cấp khác nhau về số tài liệu tải lên, thuật toán truy xuất, chunk size, gọi hàm song song
-    Mục 4 — Guardrail: giảm rủi ro, đổi lại độ trễ
-      Guardrail đầu vào chống lộ dữ liệu ra API ngoài
-        Nguồn rò: nhân viên dán bí mật vào prompt, prompt hệ thống chứa dữ liệu nội bộ, công cụ kéo dữ liệu riêng
-        Phát hiện dữ liệu nhạy cảm rồi chặn cả truy vấn hoặc che bằng nhãn như ACCESS_TOKEN
-        Bảng tra ngược PII đặt lại giá trị gốc, API ngoài không bao giờ thấy token thật
-        Rủi ro giảm được nhưng không bao giờ về 0
-      Guardrail đầu ra bắt hỏng và quy định cách xử lý
-        Hỏng chất lượng: sai định dạng JSON, bịa, câu trả lời dở
-        Hỏng an ninh: độc hại, lộ thông tin, kích hoạt chạy code từ xa, rủi ro thương hiệu
-        Đo cả tỷ lệ từ chối nhầm vì hệ thống quá an toàn làm người dùng bực
-      Chính sách xử lý
-        Thử lại sau khi hỏng làm độ trễ cảm nhận tăng gấp đôi
-        Gọi song song hai lần rồi chọn câu tốt hơn: giữ độ trễ, tốn thêm lượt gọi
-        Chuyển cho người khi phát hiện người dùng giận hoặc sau một số lượt
-      Đánh đổi khi triển khai
-        Một số đội bỏ guardrail vì độ trễ quan trọng hơn
-        Chế độ stream: nội dung xấu có thể tới người dùng trước khi guardrail kịp chặn
-        Dùng API ngoài thì nhà cung cấp lo bớt guardrail; tự host thì bớt cần guardrail đầu vào
-    Mục 5–7 — Router, gateway, cache, agent
-      Router đưa mỗi truy vấn tới giải pháp phù hợp
-        Phân loại ý định: mật khẩu → FAQ, lỗi hoá đơn → nhân viên, sự cố kỹ thuật → bot chuyên
-        Từ chối câu ngoài phạm vi bằng câu soạn sẵn, không tốn lượt gọi API; hỏi lại câu mơ hồ
-        Router phải nhỏ, nhanh, rẻ: thường là GPT-2, BERT, Llama 7B hoặc bộ phân loại nhỏ hơn
-        Mẫu phổ biến nhất: định tuyến → truy xuất → sinh → chấm điểm
-      Gateway là một cửa thống nhất tới mọi mô hình
-        API nhà cung cấp đổi thì chỉ sửa gateway, không sửa mọi ứng dụng
-        Giữ khoá API tập trung, phân quyền ai dùng mô hình nào, giới hạn lượt gọi để quản chi phí
-        Dự phòng khi API sập hoặc chạm giới hạn tốc độ: chuyển mô hình khác hoặc thử lại
-      Cache chính xác: chỉ dùng lại khi truy vấn trùng hệt
-        Hợp với truy vấn nhiều bước hoặc tốn thời gian như truy xuất, SQL, tìm web
-        Không cache truy vấn riêng từng người hay nhạy thời gian; dọn cache bằng LRU, LFU, FIFO
-        Cảnh báo: cache câu trả lời chứa thông tin của X rồi trả cho Y làm lộ dữ liệu
-      Cache ngữ nghĩa: dùng lại khi truy vấn gần nghĩa
-        Embedding + tìm kiếm vector + ngưỡng tương đồng; nhầm giống nhau thì trả sai
-        Giá trị đáng ngờ hơn, chỉ đáng dùng khi tỷ lệ trúng cao
-      Bước 5: vòng lặp agent và hành động ghi
-        Đầu ra chưa đủ thì quay lại truy xuất thêm ngữ cảnh
-        Hành động ghi như gửi email, đặt hàng, chuyển tiền: mạnh hơn nhiều nhưng rủi ro hơn nhiều
-    Mục 8–9 — Quan sát từ đầu, điều phối sau
-      Khả năng quan sát là phần của thiết kế, không làm sau cùng
-        Đo bằng MTTD phát hiện, MTTR xử lý xong, CFR tỷ lệ thay đổi gây lỗi
-        Không biết CFR của mình là lúc thiết kế lại nền tảng
-        Quan sát được: suy ra lỗi bên trong từ log và chỉ số, không cần đưa code mới lên
-      Chỉ số thiết kế quanh kiểu hỏng cụ thể
-        Định dạng, sự thật, an toàn, tín hiệu hội thoại, độ trễ TTFT và TPOT, chi phí token
-        Chia nhỏ theo người dùng, phiên bản prompt, thời gian; đo tương quan với chỉ số sao Bắc Đẩu
-      Log và trace
-        Chỉ số báo có chuyện, log cho biết chuyện gì, trace chỉ ra bước nào hỏng
-        Ghi log mọi thứ: cấu hình, prompt cuối, đầu ra trung gian, lời gọi công cụ
-        Trace LangSmith: 13,57 giây, 5.271 token, hai lần tìm kiếm chiếm gần nửa thời gian
-      Trôi dạt xảy ra âm thầm
-        Prompt hệ thống bị sửa, người dùng đổi cách hỏi, mô hình sau API được cập nhật
-        Voiceflow giảm 10% hiệu năng khi đổi từ GPT-3.5-turbo-0301 sang 1106
-      Điều phối pipeline
-        Hai việc: định nghĩa thành phần và nối chuỗi các bước
-        Chạy song song càng nhiều càng tốt, ví dụ định tuyến và xoá PII cùng lúc
-        Chưa vội dùng LangChain, LlamaIndex lúc đầu vì che chi tiết, khó gỡ lỗi
-    Mục 10–12 — Phản hồi người dùng là dữ liệu độc quyền
-      Vì sao quan trọng hơn với AI
-        Phản hồi là nhiên liệu cho bánh đà dữ liệu, giúp ra mắt sớm thì khó bị đuổi kịp
-        Phản hồi là dữ liệu người dùng: tôn trọng riêng tư, cần sự đồng ý
-      Tường minh và ngầm định
-        Tường minh như thích, sao: dễ hiểu nhưng thưa, người không vui hay phàn nàn hơn
-        Ngầm định suy từ hành động: dồi dào nhưng nhiễu, khó diễn giải
-      Tín hiệu từ hội thoại
-        Dừng sớm, sửa lỗi kiểu “Không, ý tôi là…”, đòi xác nhận, phàn nàn, cảm xúc tiêu cực
-        Bộ FITS 13.947 mẫu: nói lại yêu cầu chiếm 26,5%, nhóm lớn nhất
-        Người dùng sửa câu trả lời tạo dữ liệu ưu tiên: bản sửa thắng, bản gốc thua
-        Tạo lại, xoá hay đổi tên hội thoại, độ dài và độ đa dạng hội thoại
-      Khi nào thu
-        Lúc bắt đầu để hiệu chỉnh; khi có sự cố; khi mô hình thiếu tự tin thì đưa hai phương án
-        Khi có điều tốt: chỉ hỏi khoảng 1% người dùng mỗi lúc để không làm phiền
-      Thu thế nào
-        Lồng vào luồng công việc: Midjourney U1–U4, V1–V4, tạo lại; Copilot Tab để nhận
-        Ứng dụng độc lập như ChatGPT khó biết email có thực sự được gửi không
-        Giải thích phản hồi dùng vào đâu; đừng bắt chọn khi người dùng không hiểu; tránh thang điểm gây nhầm
-    Mục 13 — Phản hồi có thiên lệch và có thể tự khuếch đại
-      Thiên lệch cần soi trước khi dùng
-        Dễ dãi: điểm tài xế Uber 2015 trung bình 4,8, dưới 4,6 có nguy cơ bị khoá
-        Ngẫu nhiên vì lười đọc; vị trí: bấm gợi ý đầu nhiều hơn → đổi chỗ ngẫu nhiên
-        Thích câu dài hơn dù kém chính xác, thích câu thấy sau cùng
-      Vòng phản hồi thoái hoá
-        Dự đoán ảnh hưởng phản hồi, phản hồi ảnh hưởng mô hình sau, thiên lệch phình to
-        Video xếp cao hơn chút được bấm nhiều hơn rồi bỏ xa; ứng dụng thành thiên đường ảnh mèo
-      Thói nịnh
-        Huấn luyện theo phản hồi dạy mô hình nói điều người dùng muốn nghe
-        Sharma và cộng sự 2023: mô hình dễ đồng ý với quan điểm người dùng
-    Thông điệp xuyên suốt
-      Bắt đầu đơn giản; mỗi thành phần thêm năng lực nhưng cũng thêm kiểu hỏng
-      Nhiều thách thức AI về cốt lõi là bài toán hệ thống
-      Thiết kế phản hồi giờ là việc của kỹ sư AI, kỹ thuật AI tiến gần sản phẩm hơn
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: ứng dụng AI là bài toán hệ thống, dựng dần từng thành phần và học từ phản hồi người dùng`"]
+  n1["`Mục 2–3 — Bắt đầu đơn giản, rồi thêm ngữ cảnh`"]
+  n0 --- n1
+  n2["`Kiến trúc đơn giản nhất`"]
+  n1 --- n2
+  n3["`Truy vấn → Model API → câu trả lời, chưa có ngữ cảnh, guardrail hay tối ưu`"]
+  n2 --- n3
+  n4["`Model API gồm cả API bên thứ ba lẫn mô hình tự host`"]
+  n2 --- n4
+  n5["`Lộ trình năm bước, thêm khi có nhu cầu`"]
+  n1 --- n5
+  n6["`Ngữ cảnh → guardrail → router và gateway → cache → agent và hành động ghi`"]
+  n5 --- n6
+  n7["`Thứ tự là thứ tác giả hay gặp, không phải quy tắc`"]
+  n5 --- n7
+  n8["`Bước 1: dựng ngữ cảnh là feature engineering của mô hình nền tảng`"]
+  n1 --- n8
+  n9["`Truy xuất văn bản, ảnh, bảng; công cụ chỉ đọc như tìm web, chạy SQL`"]
+  n8 --- n9
+  n10["`Nhà cung cấp khác nhau về số tài liệu tải lên, thuật toán truy xuất, chunk size, gọi hàm song song`"]
+  n8 --- n10
+  n11["`Mục 4 — Guardrail: giảm rủi ro, đổi lại độ trễ`"]
+  n0 --- n11
+  n12["`Guardrail đầu vào chống lộ dữ liệu ra API ngoài`"]
+  n11 --- n12
+  n13["`Nguồn rò: nhân viên dán bí mật vào prompt, prompt hệ thống chứa dữ liệu nội bộ, công cụ kéo dữ liệu riêng`"]
+  n12 --- n13
+  n14["`Phát hiện dữ liệu nhạy cảm rồi chặn cả truy vấn hoặc che bằng nhãn như ACCESS_TOKEN`"]
+  n12 --- n14
+  n15["`Bảng tra ngược PII đặt lại giá trị gốc, API ngoài không bao giờ thấy token thật`"]
+  n12 --- n15
+  n16["`Rủi ro giảm được nhưng không bao giờ về 0`"]
+  n12 --- n16
+  n17["`Guardrail đầu ra bắt hỏng và quy định cách xử lý`"]
+  n11 --- n17
+  n18["`Hỏng chất lượng: sai định dạng JSON, bịa, câu trả lời dở`"]
+  n17 --- n18
+  n19["`Hỏng an ninh: độc hại, lộ thông tin, kích hoạt chạy code từ xa, rủi ro thương hiệu`"]
+  n17 --- n19
+  n20["`Đo cả tỷ lệ từ chối nhầm vì hệ thống quá an toàn làm người dùng bực`"]
+  n17 --- n20
+  n21["`Chính sách xử lý`"]
+  n11 --- n21
+  n22["`Thử lại sau khi hỏng làm độ trễ cảm nhận tăng gấp đôi`"]
+  n21 --- n22
+  n23["`Gọi song song hai lần rồi chọn câu tốt hơn: giữ độ trễ, tốn thêm lượt gọi`"]
+  n21 --- n23
+  n24["`Chuyển cho người khi phát hiện người dùng giận hoặc sau một số lượt`"]
+  n21 --- n24
+  n25["`Đánh đổi khi triển khai`"]
+  n11 --- n25
+  n26["`Một số đội bỏ guardrail vì độ trễ quan trọng hơn`"]
+  n25 --- n26
+  n27["`Chế độ stream: nội dung xấu có thể tới người dùng trước khi guardrail kịp chặn`"]
+  n25 --- n27
+  n28["`Dùng API ngoài thì nhà cung cấp lo bớt guardrail; tự host thì bớt cần guardrail đầu vào`"]
+  n25 --- n28
+  n29["`Mục 5–7 — Router, gateway, cache, agent`"]
+  n0 --- n29
+  n30["`Router đưa mỗi truy vấn tới giải pháp phù hợp`"]
+  n29 --- n30
+  n31["`Phân loại ý định: mật khẩu → FAQ, lỗi hoá đơn → nhân viên, sự cố kỹ thuật → bot chuyên`"]
+  n30 --- n31
+  n32["`Từ chối câu ngoài phạm vi bằng câu soạn sẵn, không tốn lượt gọi API; hỏi lại câu mơ hồ`"]
+  n30 --- n32
+  n33["`Router phải nhỏ, nhanh, rẻ: thường là GPT-2, BERT, Llama 7B hoặc bộ phân loại nhỏ hơn`"]
+  n30 --- n33
+  n34["`Mẫu phổ biến nhất: định tuyến → truy xuất → sinh → chấm điểm`"]
+  n30 --- n34
+  n35["`Gateway là một cửa thống nhất tới mọi mô hình`"]
+  n29 --- n35
+  n36["`API nhà cung cấp đổi thì chỉ sửa gateway, không sửa mọi ứng dụng`"]
+  n35 --- n36
+  n37["`Giữ khoá API tập trung, phân quyền ai dùng mô hình nào, giới hạn lượt gọi để quản chi phí`"]
+  n35 --- n37
+  n38["`Dự phòng khi API sập hoặc chạm giới hạn tốc độ: chuyển mô hình khác hoặc thử lại`"]
+  n35 --- n38
+  n39["`Cache chính xác: chỉ dùng lại khi truy vấn trùng hệt`"]
+  n29 --- n39
+  n40["`Hợp với truy vấn nhiều bước hoặc tốn thời gian như truy xuất, SQL, tìm web`"]
+  n39 --- n40
+  n41["`Không cache truy vấn riêng từng người hay nhạy thời gian; dọn cache bằng LRU, LFU, FIFO`"]
+  n39 --- n41
+  n42["`Cảnh báo: cache câu trả lời chứa thông tin của X rồi trả cho Y làm lộ dữ liệu`"]
+  n39 --- n42
+  n43["`Cache ngữ nghĩa: dùng lại khi truy vấn gần nghĩa`"]
+  n29 --- n43
+  n44["`Embedding + tìm kiếm vector + ngưỡng tương đồng; nhầm giống nhau thì trả sai`"]
+  n43 --- n44
+  n45["`Giá trị đáng ngờ hơn, chỉ đáng dùng khi tỷ lệ trúng cao`"]
+  n43 --- n45
+  n46["`Bước 5: vòng lặp agent và hành động ghi`"]
+  n29 --- n46
+  n47["`Đầu ra chưa đủ thì quay lại truy xuất thêm ngữ cảnh`"]
+  n46 --- n47
+  n48["`Hành động ghi như gửi email, đặt hàng, chuyển tiền: mạnh hơn nhiều nhưng rủi ro hơn nhiều`"]
+  n46 --- n48
+  n49["`Mục 8–9 — Quan sát từ đầu, điều phối sau`"]
+  n0 --- n49
+  n50["`Khả năng quan sát là phần của thiết kế, không làm sau cùng`"]
+  n49 --- n50
+  n51["`Đo bằng MTTD phát hiện, MTTR xử lý xong, CFR tỷ lệ thay đổi gây lỗi`"]
+  n50 --- n51
+  n52["`Không biết CFR của mình là lúc thiết kế lại nền tảng`"]
+  n50 --- n52
+  n53["`Quan sát được: suy ra lỗi bên trong từ log và chỉ số, không cần đưa code mới lên`"]
+  n50 --- n53
+  n54["`Chỉ số thiết kế quanh kiểu hỏng cụ thể`"]
+  n49 --- n54
+  n55["`Định dạng, sự thật, an toàn, tín hiệu hội thoại, độ trễ TTFT và TPOT, chi phí token`"]
+  n54 --- n55
+  n56["`Chia nhỏ theo người dùng, phiên bản prompt, thời gian; đo tương quan với chỉ số sao Bắc Đẩu`"]
+  n54 --- n56
+  n57["`Log và trace`"]
+  n49 --- n57
+  n58["`Chỉ số báo có chuyện, log cho biết chuyện gì, trace chỉ ra bước nào hỏng`"]
+  n57 --- n58
+  n59["`Ghi log mọi thứ: cấu hình, prompt cuối, đầu ra trung gian, lời gọi công cụ`"]
+  n57 --- n59
+  n60["`Trace LangSmith: 13,57 giây, 5.271 token, hai lần tìm kiếm chiếm gần nửa thời gian`"]
+  n57 --- n60
+  n61["`Trôi dạt xảy ra âm thầm`"]
+  n49 --- n61
+  n62["`Prompt hệ thống bị sửa, người dùng đổi cách hỏi, mô hình sau API được cập nhật`"]
+  n61 --- n62
+  n63["`Voiceflow giảm 10% hiệu năng khi đổi từ GPT-3.5-turbo-0301 sang 1106`"]
+  n61 --- n63
+  n64["`Điều phối pipeline`"]
+  n49 --- n64
+  n65["`Hai việc: định nghĩa thành phần và nối chuỗi các bước`"]
+  n64 --- n65
+  n66["`Chạy song song càng nhiều càng tốt, ví dụ định tuyến và xoá PII cùng lúc`"]
+  n64 --- n66
+  n67["`Chưa vội dùng LangChain, LlamaIndex lúc đầu vì che chi tiết, khó gỡ lỗi`"]
+  n64 --- n67
+  n68["`Mục 10–12 — Phản hồi người dùng là dữ liệu độc quyền`"]
+  n0 --- n68
+  n69["`Vì sao quan trọng hơn với AI`"]
+  n68 --- n69
+  n70["`Phản hồi là nhiên liệu cho bánh đà dữ liệu, giúp ra mắt sớm thì khó bị đuổi kịp`"]
+  n69 --- n70
+  n71["`Phản hồi là dữ liệu người dùng: tôn trọng riêng tư, cần sự đồng ý`"]
+  n69 --- n71
+  n72["`Tường minh và ngầm định`"]
+  n68 --- n72
+  n73["`Tường minh như thích, sao: dễ hiểu nhưng thưa, người không vui hay phàn nàn hơn`"]
+  n72 --- n73
+  n74["`Ngầm định suy từ hành động: dồi dào nhưng nhiễu, khó diễn giải`"]
+  n72 --- n74
+  n75["`Tín hiệu từ hội thoại`"]
+  n68 --- n75
+  n76["`Dừng sớm, sửa lỗi kiểu “Không, ý tôi là…”, đòi xác nhận, phàn nàn, cảm xúc tiêu cực`"]
+  n75 --- n76
+  n77["`Bộ FITS 13.947 mẫu: nói lại yêu cầu chiếm 26,5%, nhóm lớn nhất`"]
+  n75 --- n77
+  n78["`Người dùng sửa câu trả lời tạo dữ liệu ưu tiên: bản sửa thắng, bản gốc thua`"]
+  n75 --- n78
+  n79["`Tạo lại, xoá hay đổi tên hội thoại, độ dài và độ đa dạng hội thoại`"]
+  n75 --- n79
+  n80["`Khi nào thu`"]
+  n68 --- n80
+  n81["`Lúc bắt đầu để hiệu chỉnh; khi có sự cố; khi mô hình thiếu tự tin thì đưa hai phương án`"]
+  n80 --- n81
+  n82["`Khi có điều tốt: chỉ hỏi khoảng 1% người dùng mỗi lúc để không làm phiền`"]
+  n80 --- n82
+  n83["`Thu thế nào`"]
+  n68 --- n83
+  n84["`Lồng vào luồng công việc: Midjourney U1–U4, V1–V4, tạo lại; Copilot Tab để nhận`"]
+  n83 --- n84
+  n85["`Ứng dụng độc lập như ChatGPT khó biết email có thực sự được gửi không`"]
+  n83 --- n85
+  n86["`Giải thích phản hồi dùng vào đâu; đừng bắt chọn khi người dùng không hiểu; tránh thang điểm gây nhầm`"]
+  n83 --- n86
+  n87["`Mục 13 — Phản hồi có thiên lệch và có thể tự khuếch đại`"]
+  n0 --- n87
+  n88["`Thiên lệch cần soi trước khi dùng`"]
+  n87 --- n88
+  n89["`Dễ dãi: điểm tài xế Uber 2015 trung bình 4,8, dưới 4,6 có nguy cơ bị khoá`"]
+  n88 --- n89
+  n90["`Ngẫu nhiên vì lười đọc; vị trí: bấm gợi ý đầu nhiều hơn → đổi chỗ ngẫu nhiên`"]
+  n88 --- n90
+  n91["`Thích câu dài hơn dù kém chính xác, thích câu thấy sau cùng`"]
+  n88 --- n91
+  n92["`Vòng phản hồi thoái hoá`"]
+  n87 --- n92
+  n93["`Dự đoán ảnh hưởng phản hồi, phản hồi ảnh hưởng mô hình sau, thiên lệch phình to`"]
+  n92 --- n93
+  n94["`Video xếp cao hơn chút được bấm nhiều hơn rồi bỏ xa; ứng dụng thành thiên đường ảnh mèo`"]
+  n92 --- n94
+  n95["`Thói nịnh`"]
+  n87 --- n95
+  n96["`Huấn luyện theo phản hồi dạy mô hình nói điều người dùng muốn nghe`"]
+  n95 --- n96
+  n97["`Sharma và cộng sự 2023: mô hình dễ đồng ý với quan điểm người dùng`"]
+  n95 --- n97
+  n98["`Thông điệp xuyên suốt`"]
+  n0 --- n98
+  n99["`Bắt đầu đơn giản; mỗi thành phần thêm năng lực nhưng cũng thêm kiểu hỏng`"]
+  n98 --- n99
+  n100["`Nhiều thách thức AI về cốt lõi là bài toán hệ thống`"]
+  n98 --- n100
+  n101["`Thiết kế phản hồi giờ là việc của kỹ sư AI, kỹ thuật AI tiến gần sản phẩm hơn`"]
+  n98 --- n101
+  class n0 root
+  class n1,n11,n29,n49,n68,n87,n98 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n69,n70,n71,n72,n73,n74,n75,n76,n77,n78,n79,n80,n81,n82,n83,n84,n85,n86,n88,n89,n90,n91,n92,n93,n94,n95,n96,n97,n99,n100,n101 leaf
 ```
 
 ## Nguồn

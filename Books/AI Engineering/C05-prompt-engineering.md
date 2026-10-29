@@ -1701,97 +1701,193 @@ Prompt engineering là kỹ thuật thích nghi mô hình rẻ và nhanh nhất,
 Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn theo các mục chính của chương gốc — bản chất của prompt (mục 2–3), cấu trúc và độ dài prompt (mục 4–5), cách viết prompt tốt (mục 7–10), quản lý prompt như sản phẩm kỹ thuật (mục 11–13), ba loại tấn công qua prompt (mục 14–17) và phòng thủ ba tầng (mục 18); nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
-mindmap
-  root((Chương 5: prompt là cách thích nghi mô hình rẻ nhất, phải làm có kỷ luật và phải phòng thủ))
-    Mục 2–3 — Prompt đổi hành vi mô hình mà không đổi trọng số
-      Ba phần của một prompt
-        Mô tả nhiệm vụ gồm vai và định dạng đầu ra, ví dụ mẫu, nhiệm vụ cụ thể
-        Điều kiện: mô hình phải làm theo chỉ dẫn được, nếu không prompt tốt cũng vô ích
-      Độ bền trước nhiễu prompt quyết định công sức
-        Viết 5 thay five, thêm dòng trống không nên đổi hẳn câu trả lời
-        Mô hình càng mạnh càng bền → dùng mô hình mạnh đỡ phải loay hoay
-      In-context learning: học từ ví dụ trong prompt
-        Phát hiện qua GPT-3 năm 2020: chỉ đoán token kế tiếp mà học được dịch, toán, đọc hiểu
-        Đưa thông tin mới vào context thay vì huấn luyện lại → một dạng học liên tục
-      Zero-shot và few-shot
-        Mỗi ví dụ là một shot; nhiều ví dụ học tốt hơn nhưng tốn token và bị giới hạn context
-        Với GPT-4, few-shot chỉ hơn zero-shot chút ít; vẫn hữu ích ở miền hiếm như API Ibis
-    Mục 4–5 — Vị trí và khuôn của prompt quan trọng
-      System prompt và user prompt
-        System chứa mô tả nhiệm vụ của nhà phát triển, user chứa nhiệm vụ của người dùng
-        Hai phần bị nối thành một chuỗi; system có lợi vì đứng đầu và được post-train để ưu tiên
-      Chat template riêng từng mô hình
-        Llama 2 và Llama 3 dùng token đặc biệt khác nhau
-        Sai template là lỗi im lặng: mô hình vẫn trả lời hợp lý nhưng kém đi
-        In prompt cuối cùng ra kiểm tra trước khi gửi
-      Context dài nhưng giữa prompt bị bỏ sót
-        Context length tăng 2.000 lần trong 5 năm: 1K token của GPT-2 lên 2M của Gemini 1.5 Pro
-        Kiểm tra kim trong đống rơm cho đường cong chữ U: đầu và cuối tốt, giữa kém
-        gpt-3.5-turbo với 20 tài liệu: khoảng 75% khi đáp án ở đầu, 53–55% khi ở giữa
-    Mục 7–10 — Bốn nhóm thực hành viết prompt tốt
-      Viết chỉ dẫn rõ ràng
-        Nói rõ thang điểm, có cho điểm lẻ không, khi không chắc thì làm gì
-        Persona giáo viên lớp 1 đổi điểm cùng bài luận từ 2/5 lên 4/5
-        Ví dụ định hướng giọng trả lời; định dạng ví dụ gọn tiết kiệm 11 trên 38 token
-        Chỉ định định dạng đầu ra và dấu kết thúc, thiếu dấu thì mô hình viết tiếp đầu vào
-      Cung cấp đủ context
-        Context giúp trả lời tốt hơn và giảm ảo giác; thu thập bằng RAG hay tìm web
-        Giới hạn mô hình chỉ dùng context là khó, chỉ prompt thì không đáng tin
-      Chia nhiệm vụ phức tạp thành chuỗi prompt con
-        Chatbot: prompt phân loại ý định rồi prompt trả lời riêng cho từng ý định
-        Lợi ích: dễ giám sát, gỡ lỗi, song song hoá, dùng mô hình rẻ cho bước dễ
-        Đổi lại: latency cảm nhận tăng; GoDaddy chia prompt 1.500 token thì tốt hơn và rẻ hơn
-      Cho mô hình thời gian suy nghĩ
-        Chain-of-thought: thêm câu nghĩ từng bước, hoặc chỉ định sẵn các bước, hoặc cho lời giải mẫu
-        CoT nâng PaLM 540B trên GSM8K từ khoảng 18% lên 57%; mô hình dưới khoảng 10B gần như không lợi
-        Self-critique: mô hình tự kiểm tra đầu ra; cả hai đều tăng latency và chi phí
-    Mục 11–13 — Quản lý prompt như sản phẩm kỹ thuật
-      Lặp có hệ thống
-        Mỗi mô hình có tật riêng, phải thử nhiều prompt và đọc hướng dẫn của nhà làm mô hình
-        Đánh số phiên bản, chuẩn hoá thước đo và dữ liệu đánh giá, đánh giá trong toàn hệ thống
-      Dùng công cụ tự động một cách thận trọng
-        DSPy, OpenPrompt tự tìm prompt tối đa hoá thước đo, giống autoML
-        Lời gọi API ẩn: 30 ví dụ × 10 biến thể là 300 lời gọi
-        Công cụ cũng sai: prompt mặc định LangChain từng có lỗi chính tả → nên tự viết trước
-      Tách prompt khỏi code
-        Lợi: tái sử dụng, kiểm thử riêng, dễ đọc, chuyên gia nghiệp vụ cùng viết được
-        Gắn metadata: mô hình, ngày tạo, ứng dụng, người tạo, tham số lấy mẫu, schema đầu ra
-      Prompt catalog thay vì chỉ dùng git
-        Git ép mọi ứng dụng dùng chung lên bản prompt mới cùng lúc
-        Catalog đánh phiên bản từng prompt, cho mỗi ứng dụng giữ bản riêng và báo khi có bản mới
-    Mục 14–17 — Ba loại tấn công qua prompt
-      Gốc rễ: mô hình làm theo chỉ dẫn càng giỏi thì càng giỏi làm theo chỉ dẫn độc
-        Sáu rủi ro: thực thi code từ xa, rò rỉ dữ liệu, tác hại xã hội, thông tin sai, gián đoạn dịch vụ, thương hiệu
-      Trích xuất prompt và context
-        Lừa mô hình lặp lại system prompt; prompt lộ ra thường do mô hình bịa
-        Brex: cấm tiết lộ vị trí nhưng hỏi đường tới Portland vẫn lộ người dùng ở Seattle
-        Viết system prompt như thể sẽ bị công khai; prompt độc quyền là gánh nặng bảo trì
-      Jailbreak và prompt injection
-        Thủ công: viết sai từ khoá, đổi định dạng thành thơ, nhập vai DAN hay bà ngoại
-        Tự động: PAIR dùng AI tấn công sửa prompt lặp lại, thường thành công dưới 20 lần hỏi
-        Gián tiếp: lệnh độc nằm trong web, email, cơ sở dữ liệu mà mô hình đọc qua công cụ, nguy hiểm nhất
-      Trích xuất thông tin
-        Mục đích: ăn cắp dữ liệu huấn luyện, xâm phạm riêng tư, vi phạm bản quyền
-        Lặp từ poem mãi mãi làm ChatGPT nhả dữ liệu huấn luyện; tỷ lệ ghi nhớ gần 1%
-        Mô hình lớn ghi nhớ nhiều hơn; Stable Diffusion nhả hơn 1.000 ảnh gần trùng
-    Mục 18 — Phòng thủ ba tầng, không có an toàn tuyệt đối
-      Hai thước đo phải đo cùng nhau
-        Tỷ lệ vi phạm: phần tấn công thành công trên tổng số lần tấn công
-        Tỷ lệ từ chối sai: từ chối câu lẽ ra trả lời an toàn; từ chối mọi thứ là vô dụng
-      Tầng mô hình: phân cấp chỉ dẫn
-        Ưu tiên: system prompt > user prompt > đầu ra mô hình > đầu ra công cụ
-        Finetune theo phân cấp tăng độ bền tới 63%, giảm năng lực rất ít
-        Câu hỏi ranh giới: gợi ý gọi thợ khoá thay vì từ chối hay chỉ cách đột nhập
-      Tầng prompt
-        Nói rõ điều cấm, lặp chỉ dẫn trước và sau dữ liệu, báo trước kiểu tấn công đã biết
-        Template mặc định LangChain để tấn công injection thành công 100%
-      Tầng hệ thống
-        Chạy code sinh ra trong máy ảo cô lập; lệnh DELETE, DROP, UPDATE phải có người duyệt
-        Guardrail cả đầu vào lẫn đầu ra, định nghĩa chủ đề ngoài phạm vi, theo dõi mẫu sử dụng bất thường
-    Thông điệp xuyên suốt
-      Khai thác hết prompt trước khi chuyển sang RAG hay finetuning
-      Viết prompt thì dễ, viết prompt hiệu quả đòi thí nghiệm và đánh giá như học máy
-      Mọi văn bản lọt vào context đều có thể thành chỉ dẫn → an toàn phải xếp lớp
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: prompt là cách thích nghi mô hình rẻ nhất, phải làm có kỷ luật và phải phòng thủ`"]
+  n1["`Mục 2–3 — Prompt đổi hành vi mô hình mà không đổi trọng số`"]
+  n0 --- n1
+  n2["`Ba phần của một prompt`"]
+  n1 --- n2
+  n3["`Mô tả nhiệm vụ gồm vai và định dạng đầu ra, ví dụ mẫu, nhiệm vụ cụ thể`"]
+  n2 --- n3
+  n4["`Điều kiện: mô hình phải làm theo chỉ dẫn được, nếu không prompt tốt cũng vô ích`"]
+  n2 --- n4
+  n5["`Độ bền trước nhiễu prompt quyết định công sức`"]
+  n1 --- n5
+  n6["`Viết 5 thay five, thêm dòng trống không nên đổi hẳn câu trả lời`"]
+  n5 --- n6
+  n7["`Mô hình càng mạnh càng bền → dùng mô hình mạnh đỡ phải loay hoay`"]
+  n5 --- n7
+  n8["`In-context learning: học từ ví dụ trong prompt`"]
+  n1 --- n8
+  n9["`Phát hiện qua GPT-3 năm 2020: chỉ đoán token kế tiếp mà học được dịch, toán, đọc hiểu`"]
+  n8 --- n9
+  n10["`Đưa thông tin mới vào context thay vì huấn luyện lại → một dạng học liên tục`"]
+  n8 --- n10
+  n11["`Zero-shot và few-shot`"]
+  n1 --- n11
+  n12["`Mỗi ví dụ là một shot; nhiều ví dụ học tốt hơn nhưng tốn token và bị giới hạn context`"]
+  n11 --- n12
+  n13["`Với GPT-4, few-shot chỉ hơn zero-shot chút ít; vẫn hữu ích ở miền hiếm như API Ibis`"]
+  n11 --- n13
+  n14["`Mục 4–5 — Vị trí và khuôn của prompt quan trọng`"]
+  n0 --- n14
+  n15["`System prompt và user prompt`"]
+  n14 --- n15
+  n16["`System chứa mô tả nhiệm vụ của nhà phát triển, user chứa nhiệm vụ của người dùng`"]
+  n15 --- n16
+  n17["`Hai phần bị nối thành một chuỗi; system có lợi vì đứng đầu và được post-train để ưu tiên`"]
+  n15 --- n17
+  n18["`Chat template riêng từng mô hình`"]
+  n14 --- n18
+  n19["`Llama 2 và Llama 3 dùng token đặc biệt khác nhau`"]
+  n18 --- n19
+  n20["`Sai template là lỗi im lặng: mô hình vẫn trả lời hợp lý nhưng kém đi`"]
+  n18 --- n20
+  n21["`In prompt cuối cùng ra kiểm tra trước khi gửi`"]
+  n18 --- n21
+  n22["`Context dài nhưng giữa prompt bị bỏ sót`"]
+  n14 --- n22
+  n23["`Context length tăng 2.000 lần trong 5 năm: 1K token của GPT-2 lên 2M của Gemini 1.5 Pro`"]
+  n22 --- n23
+  n24["`Kiểm tra kim trong đống rơm cho đường cong chữ U: đầu và cuối tốt, giữa kém`"]
+  n22 --- n24
+  n25["`gpt-3.5-turbo với 20 tài liệu: khoảng 75% khi đáp án ở đầu, 53–55% khi ở giữa`"]
+  n22 --- n25
+  n26["`Mục 7–10 — Bốn nhóm thực hành viết prompt tốt`"]
+  n0 --- n26
+  n27["`Viết chỉ dẫn rõ ràng`"]
+  n26 --- n27
+  n28["`Nói rõ thang điểm, có cho điểm lẻ không, khi không chắc thì làm gì`"]
+  n27 --- n28
+  n29["`Persona giáo viên lớp 1 đổi điểm cùng bài luận từ 2/5 lên 4/5`"]
+  n27 --- n29
+  n30["`Ví dụ định hướng giọng trả lời; định dạng ví dụ gọn tiết kiệm 11 trên 38 token`"]
+  n27 --- n30
+  n31["`Chỉ định định dạng đầu ra và dấu kết thúc, thiếu dấu thì mô hình viết tiếp đầu vào`"]
+  n27 --- n31
+  n32["`Cung cấp đủ context`"]
+  n26 --- n32
+  n33["`Context giúp trả lời tốt hơn và giảm ảo giác; thu thập bằng RAG hay tìm web`"]
+  n32 --- n33
+  n34["`Giới hạn mô hình chỉ dùng context là khó, chỉ prompt thì không đáng tin`"]
+  n32 --- n34
+  n35["`Chia nhiệm vụ phức tạp thành chuỗi prompt con`"]
+  n26 --- n35
+  n36["`Chatbot: prompt phân loại ý định rồi prompt trả lời riêng cho từng ý định`"]
+  n35 --- n36
+  n37["`Lợi ích: dễ giám sát, gỡ lỗi, song song hoá, dùng mô hình rẻ cho bước dễ`"]
+  n35 --- n37
+  n38["`Đổi lại: latency cảm nhận tăng; GoDaddy chia prompt 1.500 token thì tốt hơn và rẻ hơn`"]
+  n35 --- n38
+  n39["`Cho mô hình thời gian suy nghĩ`"]
+  n26 --- n39
+  n40["`Chain-of-thought: thêm câu nghĩ từng bước, hoặc chỉ định sẵn các bước, hoặc cho lời giải mẫu`"]
+  n39 --- n40
+  n41["`CoT nâng PaLM 540B trên GSM8K từ khoảng 18% lên 57%; mô hình dưới khoảng 10B gần như không lợi`"]
+  n39 --- n41
+  n42["`Self-critique: mô hình tự kiểm tra đầu ra; cả hai đều tăng latency và chi phí`"]
+  n39 --- n42
+  n43["`Mục 11–13 — Quản lý prompt như sản phẩm kỹ thuật`"]
+  n0 --- n43
+  n44["`Lặp có hệ thống`"]
+  n43 --- n44
+  n45["`Mỗi mô hình có tật riêng, phải thử nhiều prompt và đọc hướng dẫn của nhà làm mô hình`"]
+  n44 --- n45
+  n46["`Đánh số phiên bản, chuẩn hoá thước đo và dữ liệu đánh giá, đánh giá trong toàn hệ thống`"]
+  n44 --- n46
+  n47["`Dùng công cụ tự động một cách thận trọng`"]
+  n43 --- n47
+  n48["`DSPy, OpenPrompt tự tìm prompt tối đa hoá thước đo, giống autoML`"]
+  n47 --- n48
+  n49["`Lời gọi API ẩn: 30 ví dụ × 10 biến thể là 300 lời gọi`"]
+  n47 --- n49
+  n50["`Công cụ cũng sai: prompt mặc định LangChain từng có lỗi chính tả → nên tự viết trước`"]
+  n47 --- n50
+  n51["`Tách prompt khỏi code`"]
+  n43 --- n51
+  n52["`Lợi: tái sử dụng, kiểm thử riêng, dễ đọc, chuyên gia nghiệp vụ cùng viết được`"]
+  n51 --- n52
+  n53["`Gắn metadata: mô hình, ngày tạo, ứng dụng, người tạo, tham số lấy mẫu, schema đầu ra`"]
+  n51 --- n53
+  n54["`Prompt catalog thay vì chỉ dùng git`"]
+  n43 --- n54
+  n55["`Git ép mọi ứng dụng dùng chung lên bản prompt mới cùng lúc`"]
+  n54 --- n55
+  n56["`Catalog đánh phiên bản từng prompt, cho mỗi ứng dụng giữ bản riêng và báo khi có bản mới`"]
+  n54 --- n56
+  n57["`Mục 14–17 — Ba loại tấn công qua prompt`"]
+  n0 --- n57
+  n58["`Gốc rễ: mô hình làm theo chỉ dẫn càng giỏi thì càng giỏi làm theo chỉ dẫn độc`"]
+  n57 --- n58
+  n59["`Sáu rủi ro: thực thi code từ xa, rò rỉ dữ liệu, tác hại xã hội, thông tin sai, gián đoạn dịch vụ, thương hiệu`"]
+  n58 --- n59
+  n60["`Trích xuất prompt và context`"]
+  n57 --- n60
+  n61["`Lừa mô hình lặp lại system prompt; prompt lộ ra thường do mô hình bịa`"]
+  n60 --- n61
+  n62["`Brex: cấm tiết lộ vị trí nhưng hỏi đường tới Portland vẫn lộ người dùng ở Seattle`"]
+  n60 --- n62
+  n63["`Viết system prompt như thể sẽ bị công khai; prompt độc quyền là gánh nặng bảo trì`"]
+  n60 --- n63
+  n64["`Jailbreak và prompt injection`"]
+  n57 --- n64
+  n65["`Thủ công: viết sai từ khoá, đổi định dạng thành thơ, nhập vai DAN hay bà ngoại`"]
+  n64 --- n65
+  n66["`Tự động: PAIR dùng AI tấn công sửa prompt lặp lại, thường thành công dưới 20 lần hỏi`"]
+  n64 --- n66
+  n67["`Gián tiếp: lệnh độc nằm trong web, email, cơ sở dữ liệu mà mô hình đọc qua công cụ, nguy hiểm nhất`"]
+  n64 --- n67
+  n68["`Trích xuất thông tin`"]
+  n57 --- n68
+  n69["`Mục đích: ăn cắp dữ liệu huấn luyện, xâm phạm riêng tư, vi phạm bản quyền`"]
+  n68 --- n69
+  n70["`Lặp từ poem mãi mãi làm ChatGPT nhả dữ liệu huấn luyện; tỷ lệ ghi nhớ gần 1%`"]
+  n68 --- n70
+  n71["`Mô hình lớn ghi nhớ nhiều hơn; Stable Diffusion nhả hơn 1.000 ảnh gần trùng`"]
+  n68 --- n71
+  n72["`Mục 18 — Phòng thủ ba tầng, không có an toàn tuyệt đối`"]
+  n0 --- n72
+  n73["`Hai thước đo phải đo cùng nhau`"]
+  n72 --- n73
+  n74["`Tỷ lệ vi phạm: phần tấn công thành công trên tổng số lần tấn công`"]
+  n73 --- n74
+  n75["`Tỷ lệ từ chối sai: từ chối câu lẽ ra trả lời an toàn; từ chối mọi thứ là vô dụng`"]
+  n73 --- n75
+  n76["`Tầng mô hình: phân cấp chỉ dẫn`"]
+  n72 --- n76
+  n77["`Ưu tiên: system prompt > user prompt > đầu ra mô hình > đầu ra công cụ`"]
+  n76 --- n77
+  n78["`Finetune theo phân cấp tăng độ bền tới 63%, giảm năng lực rất ít`"]
+  n76 --- n78
+  n79["`Câu hỏi ranh giới: gợi ý gọi thợ khoá thay vì từ chối hay chỉ cách đột nhập`"]
+  n76 --- n79
+  n80["`Tầng prompt`"]
+  n72 --- n80
+  n81["`Nói rõ điều cấm, lặp chỉ dẫn trước và sau dữ liệu, báo trước kiểu tấn công đã biết`"]
+  n80 --- n81
+  n82["`Template mặc định LangChain để tấn công injection thành công 100%`"]
+  n80 --- n82
+  n83["`Tầng hệ thống`"]
+  n72 --- n83
+  n84["`Chạy code sinh ra trong máy ảo cô lập; lệnh DELETE, DROP, UPDATE phải có người duyệt`"]
+  n83 --- n84
+  n85["`Guardrail cả đầu vào lẫn đầu ra, định nghĩa chủ đề ngoài phạm vi, theo dõi mẫu sử dụng bất thường`"]
+  n83 --- n85
+  n86["`Thông điệp xuyên suốt`"]
+  n0 --- n86
+  n87["`Khai thác hết prompt trước khi chuyển sang RAG hay finetuning`"]
+  n86 --- n87
+  n88["`Viết prompt thì dễ, viết prompt hiệu quả đòi thí nghiệm và đánh giá như học máy`"]
+  n86 --- n88
+  n89["`Mọi văn bản lọt vào context đều có thể thành chỉ dẫn → an toàn phải xếp lớp`"]
+  n86 --- n89
+  class n0 root
+  class n1,n14,n26,n43,n57,n72,n86 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n69,n70,n71,n73,n74,n75,n76,n77,n78,n79,n80,n81,n82,n83,n84,n85,n87,n88,n89 leaf
 ```
 
 ## Nguồn

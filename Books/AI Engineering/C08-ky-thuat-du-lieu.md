@@ -1504,110 +1504,219 @@ Khi mô hình nền tảng trở thành hàng hoá dùng chung, dữ liệu là 
 Toàn cảnh Chương 8 trên một trang: sáu nhánh lớn theo các mục của chương gốc — mở đầu và chọn lọc dữ liệu (mục 1–3), chất lượng và độ bao phủ (mục 4–5), số lượng (mục 6), thu thập và gán nhãn (mục 7), tổng hợp dữ liệu (mục 8–15), xử lý dữ liệu (mục 16–20) — mỗi nhánh ghi luận điểm và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt theo mục 21.
 
 ```mermaid
-mindmap
-  root((Chương 8: dữ liệu là chỗ tạo khác biệt, xây theo chất lượng, độ bao phủ, số lượng))
-    Mục 1–3 — Cần dữ liệu gì cho hành vi gì
-      Dữ liệu thay mô hình làm lợi thế
-        Ít công ty tự huấn luyện từ đầu nên cạnh tranh bằng dữ liệu
-        Đội dữ liệu GPT-3 có 2 người, GPT-4 có 80 người
-        Data-centric AI cố định mô hình, cải thiện dữ liệu; thực tế cần cả hai
-      Định dạng theo kiểu huấn luyện
-        Finetuning tự giám sát: dãy văn bản
-        Instruction finetuning: cặp chỉ dẫn – câu trả lời
-        Preference finetuning: chỉ dẫn, câu trả lời thắng, câu trả lời thua
-      Hành vi phức tạp cần dữ liệu đắt
-        Thêm câu trả lời CoT từng bước gần gấp đôi độ chính xác một số nhiệm vụ
-        Tool use: nhãn do người làm chưa tối ưu cho AI nên hay dùng mô phỏng
-        Tool use cần định dạng nhiều thông điệp mỗi lượt, có header nguồn và đích
-        Dữ liệu nhiều lượt dạy giải nhiệm vụ qua hỏi lại, sửa sai nhưng khó lấy
-      Xoá dữ liệu để bỏ hành vi xấu
-        Chatbot tự viết lại câu không ai yêu cầu → xoá ví dụ có gợi ý thừa
-    Mục 4–5 — Chất lượng và độ bao phủ
-      Ít mà tốt thắng nhiều mà nhiễu
-        Yi: 10.000 chỉ dẫn chọn kỹ tốt hơn hàng trăm nghìn chỉ dẫn nhiễu
-        LIMA: Llama 65B trên 1.000 ví dụ ngang hoặc hơn GPT-4 ở 43% trường hợp
-      Sáu đặc tính dữ liệu chất lượng cao
-        Liên quan, khớp yêu cầu nhiệm vụ, nhất quán giữa người gán nhãn
-        Đúng định dạng, đủ độc nhất, tuân thủ quy định như không chứa PII
-      Độ bao phủ theo trục của người dùng thật
-        Người dùng hay gõ sai chính tả → dữ liệu phải có lỗi chính tả
-        Llama 3 gần như giữ kiến trúc, tiến bộ chủ yếu nhờ chất lượng và đa dạng dữ liệu
-      Tỷ lệ miền khác nhau theo giai đoạn
-        Toán và code chiếm 42% pre-training, 36% SFT, chỉ 12,82% preference
-        Chọn tỷ lệ theo cách dùng thật hoặc thử trên mô hình nhỏ rồi ngoại suy
-      Cần cả chất lượng lẫn đa dạng
-        Mô hình 7B, 2.000 ví dụ: cả hai đạt 3,83; chỉ chất lượng 3,49; chỉ đa dạng 3,33
-    Mục 6 — Cần bao nhiêu dữ liệu
-      Ba yếu tố quyết định số lượng
-        Full finetuning cần nhiều hơn PEFT hàng bậc độ lớn
-        Nhiệm vụ phức tạp như hỏi đáp báo cáo tài chính cần nhiều hơn phân loại cảm xúc
-        Mô hình gốc càng mạnh càng cần ít ví dụ
-      Ít dữ liệu thì mô hình mạnh thắng, nhiều dữ liệu thì mọi mô hình ngang nhau
-        SNLI 100 ví dụ: mô hình yếu khoảng 57%, mạnh khoảng 88%
-        SNLI 550.000 ví dụ: mọi mô hình khoảng 89–93%
-        Ít dữ liệu → PEFT trên mô hình mạnh; nhiều → full finetuning mô hình nhỏ hơn
-      Bắt đầu nhỏ, đo lợi ích giảm dần
-        Thử 50–100 ví dụ làm kỹ; không cải thiện thì bộ lớn hiếm khi cứu được
-        Finetune trên 25%, 50%, 100% dữ liệu để vẽ đường hiệu năng
-        Đa dạng nhiệm vụ tăng mạnh từ 9 lên 282 nhiệm vụ, sau đó chững lại
-      Giảm nhu cầu dữ liệu tốt và ràng buộc ngân sách
-        Finetune trước trên dữ liệu kém liên quan hoặc tổng hợp, rồi trên dữ liệu thật
-        Ngân sách 10.000 USD, 2 USD mỗi ví dụ → tối đa 5.000 ví dụ
-    Mục 7 — Thu thập và gán nhãn
-      Nguồn tốt nhất là chính ứng dụng
-        Data flywheel: dữ liệu người dùng khớp đúng phân phối cần học
-      Phối hợp nhiều nguồn
-        Lọc bộ có sẵn, viết lại câu trả lời kém, tổng hợp thêm chủ đề còn thiếu
-        Dữ liệu công khai: luôn kiểm giấy phép và nguồn gốc, không tin hoàn toàn
-      Hướng dẫn gán nhãn là phần khó nhất
-        Phải nói rõ câu trả lời tốt trông thế nào, 3 điểm khác 4 điểm ở đâu
-        Dùng chung với hướng dẫn cho dữ liệu đánh giá
-    Mục 8–15 — Tổng hợp dữ liệu: mạnh nhưng có giới hạn
-      Năm lý do tổng hợp
-        Tăng số lượng, độ bao phủ, đôi khi cả chất lượng
-        Bảo vệ quyền riêng tư và chưng cất mô hình
-      Kỹ thuật truyền thống
-        Theo luật và mẫu: AlphaGeometry học từ 100 triệu ví dụ hình học tổng hợp
-        Biến đổi và nhiễu loạn: đổi một pixel làm phân loại sai 67,97% ảnh CIFAR-10
-        Mô phỏng: rẻ, an toàn, tạo được sự kiện hiếm cho xe tự lái và robot
-      Kỹ thuật dùng AI
-        Diễn đạt lại: MetaMath biến 15.000 bài toán thành gần 400.000 ví dụ
-        Alpaca sinh 52.000 cặp chỉ dẫn từ 175 ví dụ mồi
-        Chỉ dẫn ngược: người viết câu trả lời dài, AI sinh prompt → tránh ảo giác
-        Llama 3 sinh hơn 2,7 triệu ví dụ code qua unit test và dịch ngược
-      Chỉ dùng được dữ liệu kiểm tra được
-        Tính đúng chức năng: parser, linter, unit test, dịch ngược
-        AI verifier chấm điểm; heuristic bỏ ví dụ rỗng, quá dài, trùng lặp
-      Bốn giới hạn
-        Khó kiểm soát chất lượng: rác vào, rác ra
-        Học trò bắt chước phong cách thầy và học cách viết thứ trông như lời giải
-        Huấn luyện đệ quy gây sụp đổ mô hình, mất ca hiếm; trộn dữ liệu thật để tránh
-        Mất dấu nguồn gốc: rủi ro bản quyền và nhiễm benchmark
-      Chưng cất mô hình
-        DistilBERT nhỏ hơn BERT 40%, giữ 97% năng lực, nhanh hơn 60%
-        Học trò có thể mạnh hơn thầy: Nemotron-4-340B-Instruct thắng Mixtral
-        Nhiều giấy phép cấm dùng đầu ra để huấn luyện mô hình cạnh tranh
-    Mục 16–20 — Xử lý dữ liệu thô
-      Nguyên tắc làm
-        Sắp thứ tự bước cho rẻ, chạy thử script, luôn giữ bản gốc
-      Kiểm tra bằng thống kê và bằng mắt
-        Vẽ phân phối token, độ dài, chủ đề, điểm theo từng người gán nhãn
-        Nhìn dữ liệu 15 phút thường tiết kiệm hàng giờ đau đầu
-      Khử trùng lặp
-        Lặp 0,1% dữ liệu 100 lần làm mô hình 800 triệu tham số tụt ngang 400 triệu
-        Trùng lặp gây thiên lệch và nhiễm tập kiểm tra
-        So từng cặp quá đắt → băm MinHash, Bloom filter hoặc giảm chiều
-      Làm sạch và lọc
-        Bỏ HTML, Markdown thừa: Databricks tăng 20% độ chính xác, giảm 60% token
-        Bỏ PII, dữ liệu có bản quyền, độc hại và dữ liệu kém
-      Định dạng đúng chat template
-        Prompt 3-shot dài rút còn đầu vào kèm mũi tên sau khi finetune → giảm chi phí
-        Prompt khi dùng phải khớp từng ký tự với định dạng finetune, kể cả dấu cách
-    Thông điệp xuyên suốt
-      Nghĩ kỹ hành vi muốn dạy rồi thiết kế dữ liệu thể hiện hành vi đó
-      Chất lượng và đa dạng thường đáng giá hơn số lượng thô
-      Tổng hợp tạo thêm dữ liệu nhưng không tự động hoá việc nghĩ cần dữ liệu gì
-      Phép thử tối hậu của dữ liệu là mô hình có tốt lên không
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: dữ liệu là chỗ tạo khác biệt, xây theo chất lượng, độ bao phủ, số lượng`"]
+  n1["`Mục 1–3 — Cần dữ liệu gì cho hành vi gì`"]
+  n0 --- n1
+  n2["`Dữ liệu thay mô hình làm lợi thế`"]
+  n1 --- n2
+  n3["`Ít công ty tự huấn luyện từ đầu nên cạnh tranh bằng dữ liệu`"]
+  n2 --- n3
+  n4["`Đội dữ liệu GPT-3 có 2 người, GPT-4 có 80 người`"]
+  n2 --- n4
+  n5["`Data-centric AI cố định mô hình, cải thiện dữ liệu; thực tế cần cả hai`"]
+  n2 --- n5
+  n6["`Định dạng theo kiểu huấn luyện`"]
+  n1 --- n6
+  n7["`Finetuning tự giám sát: dãy văn bản`"]
+  n6 --- n7
+  n8["`Instruction finetuning: cặp chỉ dẫn – câu trả lời`"]
+  n6 --- n8
+  n9["`Preference finetuning: chỉ dẫn, câu trả lời thắng, câu trả lời thua`"]
+  n6 --- n9
+  n10["`Hành vi phức tạp cần dữ liệu đắt`"]
+  n1 --- n10
+  n11["`Thêm câu trả lời CoT từng bước gần gấp đôi độ chính xác một số nhiệm vụ`"]
+  n10 --- n11
+  n12["`Tool use: nhãn do người làm chưa tối ưu cho AI nên hay dùng mô phỏng`"]
+  n10 --- n12
+  n13["`Tool use cần định dạng nhiều thông điệp mỗi lượt, có header nguồn và đích`"]
+  n10 --- n13
+  n14["`Dữ liệu nhiều lượt dạy giải nhiệm vụ qua hỏi lại, sửa sai nhưng khó lấy`"]
+  n10 --- n14
+  n15["`Xoá dữ liệu để bỏ hành vi xấu`"]
+  n1 --- n15
+  n16["`Chatbot tự viết lại câu không ai yêu cầu → xoá ví dụ có gợi ý thừa`"]
+  n15 --- n16
+  n17["`Mục 4–5 — Chất lượng và độ bao phủ`"]
+  n0 --- n17
+  n18["`Ít mà tốt thắng nhiều mà nhiễu`"]
+  n17 --- n18
+  n19["`Yi: 10.000 chỉ dẫn chọn kỹ tốt hơn hàng trăm nghìn chỉ dẫn nhiễu`"]
+  n18 --- n19
+  n20["`LIMA: Llama 65B trên 1.000 ví dụ ngang hoặc hơn GPT-4 ở 43% trường hợp`"]
+  n18 --- n20
+  n21["`Sáu đặc tính dữ liệu chất lượng cao`"]
+  n17 --- n21
+  n22["`Liên quan, khớp yêu cầu nhiệm vụ, nhất quán giữa người gán nhãn`"]
+  n21 --- n22
+  n23["`Đúng định dạng, đủ độc nhất, tuân thủ quy định như không chứa PII`"]
+  n21 --- n23
+  n24["`Độ bao phủ theo trục của người dùng thật`"]
+  n17 --- n24
+  n25["`Người dùng hay gõ sai chính tả → dữ liệu phải có lỗi chính tả`"]
+  n24 --- n25
+  n26["`Llama 3 gần như giữ kiến trúc, tiến bộ chủ yếu nhờ chất lượng và đa dạng dữ liệu`"]
+  n24 --- n26
+  n27["`Tỷ lệ miền khác nhau theo giai đoạn`"]
+  n17 --- n27
+  n28["`Toán và code chiếm 42% pre-training, 36% SFT, chỉ 12,82% preference`"]
+  n27 --- n28
+  n29["`Chọn tỷ lệ theo cách dùng thật hoặc thử trên mô hình nhỏ rồi ngoại suy`"]
+  n27 --- n29
+  n30["`Cần cả chất lượng lẫn đa dạng`"]
+  n17 --- n30
+  n31["`Mô hình 7B, 2.000 ví dụ: cả hai đạt 3,83; chỉ chất lượng 3,49; chỉ đa dạng 3,33`"]
+  n30 --- n31
+  n32["`Mục 6 — Cần bao nhiêu dữ liệu`"]
+  n0 --- n32
+  n33["`Ba yếu tố quyết định số lượng`"]
+  n32 --- n33
+  n34["`Full finetuning cần nhiều hơn PEFT hàng bậc độ lớn`"]
+  n33 --- n34
+  n35["`Nhiệm vụ phức tạp như hỏi đáp báo cáo tài chính cần nhiều hơn phân loại cảm xúc`"]
+  n33 --- n35
+  n36["`Mô hình gốc càng mạnh càng cần ít ví dụ`"]
+  n33 --- n36
+  n37["`Ít dữ liệu thì mô hình mạnh thắng, nhiều dữ liệu thì mọi mô hình ngang nhau`"]
+  n32 --- n37
+  n38["`SNLI 100 ví dụ: mô hình yếu khoảng 57%, mạnh khoảng 88%`"]
+  n37 --- n38
+  n39["`SNLI 550.000 ví dụ: mọi mô hình khoảng 89–93%`"]
+  n37 --- n39
+  n40["`Ít dữ liệu → PEFT trên mô hình mạnh; nhiều → full finetuning mô hình nhỏ hơn`"]
+  n37 --- n40
+  n41["`Bắt đầu nhỏ, đo lợi ích giảm dần`"]
+  n32 --- n41
+  n42["`Thử 50–100 ví dụ làm kỹ; không cải thiện thì bộ lớn hiếm khi cứu được`"]
+  n41 --- n42
+  n43["`Finetune trên 25%, 50%, 100% dữ liệu để vẽ đường hiệu năng`"]
+  n41 --- n43
+  n44["`Đa dạng nhiệm vụ tăng mạnh từ 9 lên 282 nhiệm vụ, sau đó chững lại`"]
+  n41 --- n44
+  n45["`Giảm nhu cầu dữ liệu tốt và ràng buộc ngân sách`"]
+  n32 --- n45
+  n46["`Finetune trước trên dữ liệu kém liên quan hoặc tổng hợp, rồi trên dữ liệu thật`"]
+  n45 --- n46
+  n47["`Ngân sách 10.000 USD, 2 USD mỗi ví dụ → tối đa 5.000 ví dụ`"]
+  n45 --- n47
+  n48["`Mục 7 — Thu thập và gán nhãn`"]
+  n0 --- n48
+  n49["`Nguồn tốt nhất là chính ứng dụng`"]
+  n48 --- n49
+  n50["`Data flywheel: dữ liệu người dùng khớp đúng phân phối cần học`"]
+  n49 --- n50
+  n51["`Phối hợp nhiều nguồn`"]
+  n48 --- n51
+  n52["`Lọc bộ có sẵn, viết lại câu trả lời kém, tổng hợp thêm chủ đề còn thiếu`"]
+  n51 --- n52
+  n53["`Dữ liệu công khai: luôn kiểm giấy phép và nguồn gốc, không tin hoàn toàn`"]
+  n51 --- n53
+  n54["`Hướng dẫn gán nhãn là phần khó nhất`"]
+  n48 --- n54
+  n55["`Phải nói rõ câu trả lời tốt trông thế nào, 3 điểm khác 4 điểm ở đâu`"]
+  n54 --- n55
+  n56["`Dùng chung với hướng dẫn cho dữ liệu đánh giá`"]
+  n54 --- n56
+  n57["`Mục 8–15 — Tổng hợp dữ liệu: mạnh nhưng có giới hạn`"]
+  n0 --- n57
+  n58["`Năm lý do tổng hợp`"]
+  n57 --- n58
+  n59["`Tăng số lượng, độ bao phủ, đôi khi cả chất lượng`"]
+  n58 --- n59
+  n60["`Bảo vệ quyền riêng tư và chưng cất mô hình`"]
+  n58 --- n60
+  n61["`Kỹ thuật truyền thống`"]
+  n57 --- n61
+  n62["`Theo luật và mẫu: AlphaGeometry học từ 100 triệu ví dụ hình học tổng hợp`"]
+  n61 --- n62
+  n63["`Biến đổi và nhiễu loạn: đổi một pixel làm phân loại sai 67,97% ảnh CIFAR-10`"]
+  n61 --- n63
+  n64["`Mô phỏng: rẻ, an toàn, tạo được sự kiện hiếm cho xe tự lái và robot`"]
+  n61 --- n64
+  n65["`Kỹ thuật dùng AI`"]
+  n57 --- n65
+  n66["`Diễn đạt lại: MetaMath biến 15.000 bài toán thành gần 400.000 ví dụ`"]
+  n65 --- n66
+  n67["`Alpaca sinh 52.000 cặp chỉ dẫn từ 175 ví dụ mồi`"]
+  n65 --- n67
+  n68["`Chỉ dẫn ngược: người viết câu trả lời dài, AI sinh prompt → tránh ảo giác`"]
+  n65 --- n68
+  n69["`Llama 3 sinh hơn 2,7 triệu ví dụ code qua unit test và dịch ngược`"]
+  n65 --- n69
+  n70["`Chỉ dùng được dữ liệu kiểm tra được`"]
+  n57 --- n70
+  n71["`Tính đúng chức năng: parser, linter, unit test, dịch ngược`"]
+  n70 --- n71
+  n72["`AI verifier chấm điểm; heuristic bỏ ví dụ rỗng, quá dài, trùng lặp`"]
+  n70 --- n72
+  n73["`Bốn giới hạn`"]
+  n57 --- n73
+  n74["`Khó kiểm soát chất lượng: rác vào, rác ra`"]
+  n73 --- n74
+  n75["`Học trò bắt chước phong cách thầy và học cách viết thứ trông như lời giải`"]
+  n73 --- n75
+  n76["`Huấn luyện đệ quy gây sụp đổ mô hình, mất ca hiếm; trộn dữ liệu thật để tránh`"]
+  n73 --- n76
+  n77["`Mất dấu nguồn gốc: rủi ro bản quyền và nhiễm benchmark`"]
+  n73 --- n77
+  n78["`Chưng cất mô hình`"]
+  n57 --- n78
+  n79["`DistilBERT nhỏ hơn BERT 40%, giữ 97% năng lực, nhanh hơn 60%`"]
+  n78 --- n79
+  n80["`Học trò có thể mạnh hơn thầy: Nemotron-4-340B-Instruct thắng Mixtral`"]
+  n78 --- n80
+  n81["`Nhiều giấy phép cấm dùng đầu ra để huấn luyện mô hình cạnh tranh`"]
+  n78 --- n81
+  n82["`Mục 16–20 — Xử lý dữ liệu thô`"]
+  n0 --- n82
+  n83["`Nguyên tắc làm`"]
+  n82 --- n83
+  n84["`Sắp thứ tự bước cho rẻ, chạy thử script, luôn giữ bản gốc`"]
+  n83 --- n84
+  n85["`Kiểm tra bằng thống kê và bằng mắt`"]
+  n82 --- n85
+  n86["`Vẽ phân phối token, độ dài, chủ đề, điểm theo từng người gán nhãn`"]
+  n85 --- n86
+  n87["`Nhìn dữ liệu 15 phút thường tiết kiệm hàng giờ đau đầu`"]
+  n85 --- n87
+  n88["`Khử trùng lặp`"]
+  n82 --- n88
+  n89["`Lặp 0,1% dữ liệu 100 lần làm mô hình 800 triệu tham số tụt ngang 400 triệu`"]
+  n88 --- n89
+  n90["`Trùng lặp gây thiên lệch và nhiễm tập kiểm tra`"]
+  n88 --- n90
+  n91["`So từng cặp quá đắt → băm MinHash, Bloom filter hoặc giảm chiều`"]
+  n88 --- n91
+  n92["`Làm sạch và lọc`"]
+  n82 --- n92
+  n93["`Bỏ HTML, Markdown thừa: Databricks tăng 20% độ chính xác, giảm 60% token`"]
+  n92 --- n93
+  n94["`Bỏ PII, dữ liệu có bản quyền, độc hại và dữ liệu kém`"]
+  n92 --- n94
+  n95["`Định dạng đúng chat template`"]
+  n82 --- n95
+  n96["`Prompt 3-shot dài rút còn đầu vào kèm mũi tên sau khi finetune → giảm chi phí`"]
+  n95 --- n96
+  n97["`Prompt khi dùng phải khớp từng ký tự với định dạng finetune, kể cả dấu cách`"]
+  n95 --- n97
+  n98["`Thông điệp xuyên suốt`"]
+  n0 --- n98
+  n99["`Nghĩ kỹ hành vi muốn dạy rồi thiết kế dữ liệu thể hiện hành vi đó`"]
+  n98 --- n99
+  n100["`Chất lượng và đa dạng thường đáng giá hơn số lượng thô`"]
+  n98 --- n100
+  n101["`Tổng hợp tạo thêm dữ liệu nhưng không tự động hoá việc nghĩ cần dữ liệu gì`"]
+  n98 --- n101
+  n102["`Phép thử tối hậu của dữ liệu là mô hình có tốt lên không`"]
+  n98 --- n102
+  class n0 root
+  class n1,n17,n32,n48,n57,n82,n98 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n69,n70,n71,n72,n73,n74,n75,n76,n77,n78,n79,n80,n81,n83,n84,n85,n86,n87,n88,n89,n90,n91,n92,n93,n94,n95,n96,n97,n99,n100,n101,n102 leaf
 ```
 
 ## Nguồn

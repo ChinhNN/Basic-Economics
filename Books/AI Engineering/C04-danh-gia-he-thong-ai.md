@@ -1870,100 +1870,199 @@ Giá trị của một mô hình nền tảng chỉ xác định được trong 
 Toàn cảnh Chương 4 trên một trang: năm nhánh lớn theo các khối nội dung chính của chương gốc — tiêu chí đánh giá (mục 2), bốn nhóm tiêu chí (mục 3–10), chọn mô hình và API hay tự host (mục 11–14), benchmark công khai (mục 15–18), quy trình đánh giá riêng (mục 19–22) — mỗi nhánh ghi luận điểm, quy tắc và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
-mindmap
-  root((Chương 4: không hỏi mô hình nào tốt nhất, mà mô hình nào tốt nhất cho ứng dụng của mình))
-    Mục 2 — Định nghĩa tiêu chí đánh giá trước khi xây
-      Ứng dụng không đánh giá được còn tệ hơn không triển khai
-        Vẫn tốn tiền duy trì, gỡ đi có khi còn tốn hơn
-        Nhiều chatbot hỗ trợ khách hàng đến nay không biết giúp hay hại
-      Phát triển hướng theo đánh giá
-        Giống viết test trước khi viết code: định nghĩa tiêu chí trước khi xây
-        Ứng dụng phổ biến nhất là ứng dụng đo được: hệ gợi ý, chống gian lận, sinh code
-        Đánh giá là nút cổ chai lớn nhất của việc áp dụng AI
-      Bốn nhóm tiêu chí
-        Năng lực theo lĩnh vực, năng lực sinh, làm theo chỉ dẫn, chi phí và độ trễ
-    Mục 3–10 — Đo từng nhóm tiêu chí thế nào
-      Năng lực theo lĩnh vực: đo bằng đánh giá chính xác
-        Mô hình chưa từng thấy tiếng Latin thì không dịch được Latin, không kỹ thuật nào cứu
-        Code đo bằng tính đúng chức năng; kiến thức đo bằng câu hỏi trắc nghiệm
-        75% tác vụ lm-evaluation-harness là trắc nghiệm, mốc chọn bừa 25% với 4 lựa chọn
-        Trắc nghiệm đo khả năng phân biệt, không đo khả năng sinh
-      Năng lực sinh: trọng tâm là nhất quán sự kiện
-        Trôi chảy, mạch lạc của NLG cũ ít quan trọng dần vì mô hình đã viết tốt
-        Cục bộ: khớp ngữ cảnh cho trước, tiêu chí then chốt của RAG; toàn cục: khớp kiến thức chung
-        Đo bằng AI giám khảo, SelfCheckGPT sinh thêm N câu, SAFE tách mệnh đề rồi tra Google
-        Suy diễn văn bản: kéo theo, mâu thuẫn, trung tính; bộ chấm DeBERTa 184 triệu tham số
-        TruthfulQA 817 câu: chuyên gia người 94%, GPT-4 khoảng 60%
-      An toàn: sáu nhóm nội dung độc hại
-        Ngôn ngữ không phù hợp, hướng dẫn có hại, thù ghét, bạo lực, định kiến, thiên lệch chính trị tôn giáo
-        Đo bằng bộ phân loại độc hại rẻ và benchmark RealToxicityPrompts 100.000 prompt
-      Làm theo chỉ dẫn: tách khỏi hiểu lĩnh vực
-        Hiểu cảm xúc nhưng trả HAPPY thay vì POSITIVE là làm theo chỉ dẫn kém, làm hỏng hệ thống sau
-        IFEval: 25 loại chỉ dẫn kiểm tra tự động bằng chương trình đơn giản
-        INFOBench: chấm bằng danh sách câu hỏi có hoặc không
-        Đóng vai chiếm 5,83% hội thoại LMSYS, phải đúng cả phong cách lẫn điều nhân vật không biết
-      Chi phí và độ trễ: tối ưu Pareto
-        Xác định mục tiêu không được nhân nhượng, lọc theo nó, rồi chọn mô hình tốt nhất còn lại
-        Phân biệt bắt buộc với nên có: độ trễ cao thường chỉ gây khó chịu
-        API: giá mỗi token gần như cố định; tự host: càng nhiều token càng rẻ mỗi token
-        Bảng mẫu: dưới 30 USD mỗi 1 triệu token, TTFT P90 dưới 200 ms, Elo trên 1.200
-    Mục 11–14 — Chọn mô hình và quyết định API hay tự host
-      Quy trình bốn bước, lặp lại
-        Lọc theo thuộc tính cứng → thu hẹp bằng benchmark công khai → tự thử nghiệm → giám sát khi vận hành
-        Thuộc tính cứng như giấy phép, quyền riêng tư không đổi được; thuộc tính mềm như độ chính xác cải thiện được
-        Tách tác vụ thành hai bước nâng độ chính xác từ 20% lên 70%
-      Open source thực chất đa số là open weight
-        Open weight công bố trọng số, open model công bố cả dữ liệu huấn luyện
-        Ba câu hỏi giấy phép: dùng thương mại, hạn chế gì, dùng đầu ra để huấn luyện mô hình khác
-        Llama 2, 3 đòi xin phép riêng khi trên 700 triệu người dùng hoạt động hằng tháng
-      Bảy trục quyết định API hay tự host
-        Quyền riêng tư: Samsung cấm ChatGPT 5/2023 sau khi nhân viên làm lộ bí mật
-        Hiệu năng: mô hình mạnh nhất nhiều khả năng vẫn đóng, khoảng cách MMLU đang thu hẹp
-        Chức năng: API có sẵn function calling, đầu ra JSON, nhưng ít mở logprobs
-        Kiểm soát là lý do chính chọn mô hình mở với 60%; API có rate limit, đổi phiên bản không báo
-        Chạy trên thiết bị hoặc không có internet thì loại API
-      API đắt, nhưng kỹ thuật có thể còn đắt hơn
-        Tự host cần nhân tài để tối ưu, mở rộng, bảo trì dịch vụ suy luận, dựng guardrail
-        Đánh giá lại ở mỗi quy mô; ưu tiên mô hình theo API chuẩn và có cộng đồng lớn
-    Mục 15–18 — Benchmark công khai chỉ để loại mô hình kém
-      Bảng xếp hạng chọn benchmark tùy ý
-        Hugging Face dùng 6, HELM dùng 10, chỉ trùng 2, không rõ lý do chọn
-        Gộp điểm tùy tiện: lấy trung bình coi 80% TruthfulQA ngang 80% GSM-8K
-      Benchmark tương quan mạnh
-        MMLU và WinoGrande tương quan 0,9011; tương quan hoàn toàn thì chỉ cần một
-        Tương quan mạnh khuếch đại thiên lệch của bảng xếp hạng
-      Nhiễm dữ liệu làm điểm cao giả tạo
-        Mô hình 1 triệu tham số học thẳng trên benchmark đạt điểm gần tuyệt đối
-        Đa số nhiễm là vô ý do thu thập dữ liệu internet; GPT-3 có 13 benchmark nhiễm ít nhất 40%
-        Phát hiện bằng trùng n-gram 13 token, chính xác nhưng đắt, hoặc perplexity thấp bất thường, rẻ hơn
-      Tự dựng bảng xếp hạng riêng
-        Chọn mô hình giống dựng bảng xếp hạng theo nhu cầu của mình
-        Cập nhật mô hình có thể làm tốt việc này, hỏng việc kia: GPT-4 sinh code 52% xuống 10%
-    Mục 19–22 — Dựng quy trình đánh giá riêng
-      Bước 1: đánh giá từng thành phần
-        Trích CV từ PDF: đo riêng bước trích chữ và bước trích tên công ty để biết hỏng ở đâu
-        Theo tác vụ quan trọng hơn theo lượt: sửa lỗi sau 2 lượt khác xa sau 20 lượt
-      Bước 2: hướng dẫn đánh giá là bước quan trọng nhất
-        Định nghĩa tốt là gì, cả điều không nên làm và đầu vào ngoài phạm vi
-        Câu đúng chưa chắc tốt: LinkedIn, câu Bạn hoàn toàn không phù hợp đúng nhưng vô ích
-        Thang chấm điểm có ví dụ cho từng mức, thử với người chấm đến khi hết mơ hồ
-        Gắn chỉ số kinh doanh: nhất quán sự kiện 80%, 90%, 98% → tự động hóa 30%, 50%, 90% yêu cầu
-      Bước 3: phương pháp và dữ liệu
-        Phối hợp rẻ và đắt: bộ phân loại rẻ trên 100% dữ liệu, AI giám khảo đắt trên 1%
-        Có logprobs thì dùng; người chấm vẫn là chỉ số Bắc Đẩu, LinkedIn chấm tay 500 hội thoại mỗi ngày
-        Phân lát dữ liệu để tránh nghịch lý Simpson: A thắng mọi nhóm nhưng thua ở tổng 78% so với 83%
-        Nếu quan tâm điều gì, hãy đặt một tập kiểm tra cho điều đó
-      Cỡ mẫu đủ lớn
-        Bootstrap: rút lại có hoàn lại, kết quả dao động 90% và 70% thì tập quá nhỏ
-        Chênh lệch nhỏ đi 3 lần cần gấp 10 lần mẫu: 30% cần ~10, 1% cần ~10.000
-        Inverse Scaling: 300 ví dụ là tối thiểu tuyệt đối, muốn ít nhất 1.000
-      Đánh giá chính quy trình và lặp lại
-        Hỏi: đúng tín hiệu, lặp lại được, các chỉ số tương quan, thêm bao nhiêu chi phí độ trễ
-        Đặt temperature giám khảo bằng 0; theo dõi thí nghiệm ghi mọi biến: dữ liệu, thang điểm, prompt
-    Thông điệp xuyên suốt
-      Không định nghĩa được thế nào là tốt thì chưa nên xây
-      Không có phương pháp đánh giá hoàn hảo, phối hợp nhiều phương pháp để giảm sai lệch
-      Mỗi lần đổi mô hình hay phiên bản, chạy lại toàn bộ quy trình đánh giá
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: không hỏi mô hình nào tốt nhất, mà mô hình nào tốt nhất cho ứng dụng của mình`"]
+  n1["`Mục 2 — Định nghĩa tiêu chí đánh giá trước khi xây`"]
+  n0 --- n1
+  n2["`Ứng dụng không đánh giá được còn tệ hơn không triển khai`"]
+  n1 --- n2
+  n3["`Vẫn tốn tiền duy trì, gỡ đi có khi còn tốn hơn`"]
+  n2 --- n3
+  n4["`Nhiều chatbot hỗ trợ khách hàng đến nay không biết giúp hay hại`"]
+  n2 --- n4
+  n5["`Phát triển hướng theo đánh giá`"]
+  n1 --- n5
+  n6["`Giống viết test trước khi viết code: định nghĩa tiêu chí trước khi xây`"]
+  n5 --- n6
+  n7["`Ứng dụng phổ biến nhất là ứng dụng đo được: hệ gợi ý, chống gian lận, sinh code`"]
+  n5 --- n7
+  n8["`Đánh giá là nút cổ chai lớn nhất của việc áp dụng AI`"]
+  n5 --- n8
+  n9["`Bốn nhóm tiêu chí`"]
+  n1 --- n9
+  n10["`Năng lực theo lĩnh vực, năng lực sinh, làm theo chỉ dẫn, chi phí và độ trễ`"]
+  n9 --- n10
+  n11["`Mục 3–10 — Đo từng nhóm tiêu chí thế nào`"]
+  n0 --- n11
+  n12["`Năng lực theo lĩnh vực: đo bằng đánh giá chính xác`"]
+  n11 --- n12
+  n13["`Mô hình chưa từng thấy tiếng Latin thì không dịch được Latin, không kỹ thuật nào cứu`"]
+  n12 --- n13
+  n14["`Code đo bằng tính đúng chức năng; kiến thức đo bằng câu hỏi trắc nghiệm`"]
+  n12 --- n14
+  n15["`75% tác vụ lm-evaluation-harness là trắc nghiệm, mốc chọn bừa 25% với 4 lựa chọn`"]
+  n12 --- n15
+  n16["`Trắc nghiệm đo khả năng phân biệt, không đo khả năng sinh`"]
+  n12 --- n16
+  n17["`Năng lực sinh: trọng tâm là nhất quán sự kiện`"]
+  n11 --- n17
+  n18["`Trôi chảy, mạch lạc của NLG cũ ít quan trọng dần vì mô hình đã viết tốt`"]
+  n17 --- n18
+  n19["`Cục bộ: khớp ngữ cảnh cho trước, tiêu chí then chốt của RAG; toàn cục: khớp kiến thức chung`"]
+  n17 --- n19
+  n20["`Đo bằng AI giám khảo, SelfCheckGPT sinh thêm N câu, SAFE tách mệnh đề rồi tra Google`"]
+  n17 --- n20
+  n21["`Suy diễn văn bản: kéo theo, mâu thuẫn, trung tính; bộ chấm DeBERTa 184 triệu tham số`"]
+  n17 --- n21
+  n22["`TruthfulQA 817 câu: chuyên gia người 94%, GPT-4 khoảng 60%`"]
+  n17 --- n22
+  n23["`An toàn: sáu nhóm nội dung độc hại`"]
+  n11 --- n23
+  n24["`Ngôn ngữ không phù hợp, hướng dẫn có hại, thù ghét, bạo lực, định kiến, thiên lệch chính trị tôn giáo`"]
+  n23 --- n24
+  n25["`Đo bằng bộ phân loại độc hại rẻ và benchmark RealToxicityPrompts 100.000 prompt`"]
+  n23 --- n25
+  n26["`Làm theo chỉ dẫn: tách khỏi hiểu lĩnh vực`"]
+  n11 --- n26
+  n27["`Hiểu cảm xúc nhưng trả HAPPY thay vì POSITIVE là làm theo chỉ dẫn kém, làm hỏng hệ thống sau`"]
+  n26 --- n27
+  n28["`IFEval: 25 loại chỉ dẫn kiểm tra tự động bằng chương trình đơn giản`"]
+  n26 --- n28
+  n29["`INFOBench: chấm bằng danh sách câu hỏi có hoặc không`"]
+  n26 --- n29
+  n30["`Đóng vai chiếm 5,83% hội thoại LMSYS, phải đúng cả phong cách lẫn điều nhân vật không biết`"]
+  n26 --- n30
+  n31["`Chi phí và độ trễ: tối ưu Pareto`"]
+  n11 --- n31
+  n32["`Xác định mục tiêu không được nhân nhượng, lọc theo nó, rồi chọn mô hình tốt nhất còn lại`"]
+  n31 --- n32
+  n33["`Phân biệt bắt buộc với nên có: độ trễ cao thường chỉ gây khó chịu`"]
+  n31 --- n33
+  n34["`API: giá mỗi token gần như cố định; tự host: càng nhiều token càng rẻ mỗi token`"]
+  n31 --- n34
+  n35["`Bảng mẫu: dưới 30 USD mỗi 1 triệu token, TTFT P90 dưới 200 ms, Elo trên 1.200`"]
+  n31 --- n35
+  n36["`Mục 11–14 — Chọn mô hình và quyết định API hay tự host`"]
+  n0 --- n36
+  n37["`Quy trình bốn bước, lặp lại`"]
+  n36 --- n37
+  n38["`Lọc theo thuộc tính cứng → thu hẹp bằng benchmark công khai → tự thử nghiệm → giám sát khi vận hành`"]
+  n37 --- n38
+  n39["`Thuộc tính cứng như giấy phép, quyền riêng tư không đổi được; thuộc tính mềm như độ chính xác cải thiện được`"]
+  n37 --- n39
+  n40["`Tách tác vụ thành hai bước nâng độ chính xác từ 20% lên 70%`"]
+  n37 --- n40
+  n41["`Open source thực chất đa số là open weight`"]
+  n36 --- n41
+  n42["`Open weight công bố trọng số, open model công bố cả dữ liệu huấn luyện`"]
+  n41 --- n42
+  n43["`Ba câu hỏi giấy phép: dùng thương mại, hạn chế gì, dùng đầu ra để huấn luyện mô hình khác`"]
+  n41 --- n43
+  n44["`Llama 2, 3 đòi xin phép riêng khi trên 700 triệu người dùng hoạt động hằng tháng`"]
+  n41 --- n44
+  n45["`Bảy trục quyết định API hay tự host`"]
+  n36 --- n45
+  n46["`Quyền riêng tư: Samsung cấm ChatGPT 5/2023 sau khi nhân viên làm lộ bí mật`"]
+  n45 --- n46
+  n47["`Hiệu năng: mô hình mạnh nhất nhiều khả năng vẫn đóng, khoảng cách MMLU đang thu hẹp`"]
+  n45 --- n47
+  n48["`Chức năng: API có sẵn function calling, đầu ra JSON, nhưng ít mở logprobs`"]
+  n45 --- n48
+  n49["`Kiểm soát là lý do chính chọn mô hình mở với 60%; API có rate limit, đổi phiên bản không báo`"]
+  n45 --- n49
+  n50["`Chạy trên thiết bị hoặc không có internet thì loại API`"]
+  n45 --- n50
+  n51["`API đắt, nhưng kỹ thuật có thể còn đắt hơn`"]
+  n36 --- n51
+  n52["`Tự host cần nhân tài để tối ưu, mở rộng, bảo trì dịch vụ suy luận, dựng guardrail`"]
+  n51 --- n52
+  n53["`Đánh giá lại ở mỗi quy mô; ưu tiên mô hình theo API chuẩn và có cộng đồng lớn`"]
+  n51 --- n53
+  n54["`Mục 15–18 — Benchmark công khai chỉ để loại mô hình kém`"]
+  n0 --- n54
+  n55["`Bảng xếp hạng chọn benchmark tùy ý`"]
+  n54 --- n55
+  n56["`Hugging Face dùng 6, HELM dùng 10, chỉ trùng 2, không rõ lý do chọn`"]
+  n55 --- n56
+  n57["`Gộp điểm tùy tiện: lấy trung bình coi 80% TruthfulQA ngang 80% GSM-8K`"]
+  n55 --- n57
+  n58["`Benchmark tương quan mạnh`"]
+  n54 --- n58
+  n59["`MMLU và WinoGrande tương quan 0,9011; tương quan hoàn toàn thì chỉ cần một`"]
+  n58 --- n59
+  n60["`Tương quan mạnh khuếch đại thiên lệch của bảng xếp hạng`"]
+  n58 --- n60
+  n61["`Nhiễm dữ liệu làm điểm cao giả tạo`"]
+  n54 --- n61
+  n62["`Mô hình 1 triệu tham số học thẳng trên benchmark đạt điểm gần tuyệt đối`"]
+  n61 --- n62
+  n63["`Đa số nhiễm là vô ý do thu thập dữ liệu internet; GPT-3 có 13 benchmark nhiễm ít nhất 40%`"]
+  n61 --- n63
+  n64["`Phát hiện bằng trùng n-gram 13 token, chính xác nhưng đắt, hoặc perplexity thấp bất thường, rẻ hơn`"]
+  n61 --- n64
+  n65["`Tự dựng bảng xếp hạng riêng`"]
+  n54 --- n65
+  n66["`Chọn mô hình giống dựng bảng xếp hạng theo nhu cầu của mình`"]
+  n65 --- n66
+  n67["`Cập nhật mô hình có thể làm tốt việc này, hỏng việc kia: GPT-4 sinh code 52% xuống 10%`"]
+  n65 --- n67
+  n68["`Mục 19–22 — Dựng quy trình đánh giá riêng`"]
+  n0 --- n68
+  n69["`Bước 1: đánh giá từng thành phần`"]
+  n68 --- n69
+  n70["`Trích CV từ PDF: đo riêng bước trích chữ và bước trích tên công ty để biết hỏng ở đâu`"]
+  n69 --- n70
+  n71["`Theo tác vụ quan trọng hơn theo lượt: sửa lỗi sau 2 lượt khác xa sau 20 lượt`"]
+  n69 --- n71
+  n72["`Bước 2: hướng dẫn đánh giá là bước quan trọng nhất`"]
+  n68 --- n72
+  n73["`Định nghĩa tốt là gì, cả điều không nên làm và đầu vào ngoài phạm vi`"]
+  n72 --- n73
+  n74["`Câu đúng chưa chắc tốt: LinkedIn, câu Bạn hoàn toàn không phù hợp đúng nhưng vô ích`"]
+  n72 --- n74
+  n75["`Thang chấm điểm có ví dụ cho từng mức, thử với người chấm đến khi hết mơ hồ`"]
+  n72 --- n75
+  n76["`Gắn chỉ số kinh doanh: nhất quán sự kiện 80%, 90%, 98% → tự động hóa 30%, 50%, 90% yêu cầu`"]
+  n72 --- n76
+  n77["`Bước 3: phương pháp và dữ liệu`"]
+  n68 --- n77
+  n78["`Phối hợp rẻ và đắt: bộ phân loại rẻ trên 100% dữ liệu, AI giám khảo đắt trên 1%`"]
+  n77 --- n78
+  n79["`Có logprobs thì dùng; người chấm vẫn là chỉ số Bắc Đẩu, LinkedIn chấm tay 500 hội thoại mỗi ngày`"]
+  n77 --- n79
+  n80["`Phân lát dữ liệu để tránh nghịch lý Simpson: A thắng mọi nhóm nhưng thua ở tổng 78% so với 83%`"]
+  n77 --- n80
+  n81["`Nếu quan tâm điều gì, hãy đặt một tập kiểm tra cho điều đó`"]
+  n77 --- n81
+  n82["`Cỡ mẫu đủ lớn`"]
+  n68 --- n82
+  n83["`Bootstrap: rút lại có hoàn lại, kết quả dao động 90% và 70% thì tập quá nhỏ`"]
+  n82 --- n83
+  n84["`Chênh lệch nhỏ đi 3 lần cần gấp 10 lần mẫu: 30% cần ~10, 1% cần ~10.000`"]
+  n82 --- n84
+  n85["`Inverse Scaling: 300 ví dụ là tối thiểu tuyệt đối, muốn ít nhất 1.000`"]
+  n82 --- n85
+  n86["`Đánh giá chính quy trình và lặp lại`"]
+  n68 --- n86
+  n87["`Hỏi: đúng tín hiệu, lặp lại được, các chỉ số tương quan, thêm bao nhiêu chi phí độ trễ`"]
+  n86 --- n87
+  n88["`Đặt temperature giám khảo bằng 0; theo dõi thí nghiệm ghi mọi biến: dữ liệu, thang điểm, prompt`"]
+  n86 --- n88
+  n89["`Thông điệp xuyên suốt`"]
+  n0 --- n89
+  n90["`Không định nghĩa được thế nào là tốt thì chưa nên xây`"]
+  n89 --- n90
+  n91["`Không có phương pháp đánh giá hoàn hảo, phối hợp nhiều phương pháp để giảm sai lệch`"]
+  n89 --- n91
+  n92["`Mỗi lần đổi mô hình hay phiên bản, chạy lại toàn bộ quy trình đánh giá`"]
+  n89 --- n92
+  class n0 root
+  class n1,n11,n36,n54,n68,n89 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n69,n70,n71,n72,n73,n74,n75,n76,n77,n78,n79,n80,n81,n82,n83,n84,n85,n86,n87,n88,n90,n91,n92 leaf
 ```
 
 ## Nguồn
