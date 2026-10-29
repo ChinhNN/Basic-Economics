@@ -508,7 +508,9 @@ Sách đưa một bảng các thống kê tóm tắt cho số kẹo đoán, gồ
 
 - **Khoảng biến thiên** (range) là lựa chọn tự nhiên, nhưng rõ ràng rất nhạy với các giá trị cực đoan như lần đoán có vẻ kỳ quặc 31.337 hạt. Chú thích của tác giả: đây gần như chắc chắn là gõ nhầm của 1.337 — cách viết bằng số của chữ "leet", tiếng lóng trên mạng nghĩa là "giỏi, sành" — và có 9 người đoán đúng 1.337.
 - Ngược lại, **khoảng tứ phân vị** (IQR) không bị cực trị ảnh hưởng. Đó là khoảng cách giữa phân vị thứ 25 và phân vị thứ 75 của dữ liệu, nên chứa "nửa giữa" của các con số — ở đây từ 1.109 tới 2.599 hạt. Cái "hộp" giữa của biểu đồ hộp và râu chính là khoảng tứ phân vị. (Người tổng hợp tính thêm: độ rộng của nó là 2.599 − 1.109 = 1.490 hạt.)
-- Cuối cùng, **độ lệch chuẩn** là thước đo độ phân tán được dùng rộng rãi. Nó phức tạp nhất về kỹ thuật, nhưng chỉ thật sự thích hợp với dữ liệu đối xứng, "ngoan ngoãn", vì nó cũng bị các giá trị ngoại lai ảnh hưởng quá mức. Sách lấy ví dụ: bỏ riêng giá trị 31.337 (gần như chắc chắn là nhầm) thì độ lệch chuẩn giảm từ 2.422 xuống 1.398. (Nhận xét của người tổng hợp: con số 1.398 không thể có nếu chỉ bỏ một điểm. Từ chính số liệu của sách, tổng bình phương độ lệch quanh trung bình cộng là khoảng 2.422² × 914 ≈ 5.362 triệu; riêng điểm 31.337 đóng góp khoảng (31.337 − 2.408)² × 915/914 ≈ 838 triệu; bỏ điểm này, phần còn lại khoảng 4.524 triệu, chia cho 913 được khoảng 4,96 triệu, căn bậc hai được khoảng **2.226**. Như vậy bỏ một điểm chỉ làm độ lệch chuẩn giảm khoảng 8%, chưa tới 42% như sách nói; con số 1.398 nhiều khả năng ứng với việc bỏ nhiều giá trị cao hơn — có thể là 33 lần đoán từ 9.999 trở lên — nhưng đây chỉ là phỏng đoán.)
+- Cuối cùng, **độ lệch chuẩn** là thước đo độ phân tán được dùng rộng rãi. Nó phức tạp nhất về kỹ thuật, nhưng chỉ thật sự thích hợp với dữ liệu đối xứng, "ngoan ngoãn", vì nó cũng bị các giá trị ngoại lai ảnh hưởng quá mức. Sách lấy ví dụ: bỏ riêng giá trị 31.337 (gần như chắc chắn là nhầm) thì độ lệch chuẩn giảm từ 2.422 xuống 1.398.
+
+  (Nhận xét của người tổng hợp: con số 1.398 không thể có nếu chỉ bỏ một điểm. Từ chính số liệu của sách, tổng bình phương độ lệch quanh trung bình cộng là khoảng 2.422² × 914 ≈ 5.362 triệu; riêng điểm 31.337 đóng góp khoảng (31.337 − 2.408)² × 915/914 ≈ 838 triệu; bỏ điểm này, phần còn lại khoảng 4.524 triệu, chia cho 913 được khoảng 4,96 triệu, căn bậc hai được khoảng **2.226**. Như vậy bỏ một điểm chỉ làm độ lệch chuẩn giảm khoảng 8%, chưa tới 42% như sách nói; con số 1.398 nhiều khả năng ứng với việc bỏ nhiều giá trị cao hơn — có thể là 33 lần đoán từ 9.999 trở lên — nhưng đây chỉ là phỏng đoán.)
 
 Hai chú thích của tác giả bổ sung: **chỉ số Gini** là một thước đo độ phân tán cho dữ liệu rất lệch như thu nhập, được dùng rộng rãi để đo bất bình đẳng, nhưng có dạng phức tạp và khó hiểu theo trực giác; bình phương của độ lệch chuẩn gọi là **phương sai** — khó diễn giải trực tiếp nhưng hữu ích về mặt toán học.
 
@@ -992,13 +994,13 @@ flowchart LR
   n0["`Chương 2: tóm tắt dữ liệu bằng vài con số nhưng vẫn phải nhìn biểu đồ, và truyền đạt trung thực`"]
   n1["`Mục “Can we trust the wisdom of crowds?” (trang PDF 39–46) — vẽ một tập số và chọn số trung bình`"]
   n0 --- n1
-  n2["`Galton 1907: trung vị 787 phiếu đoán thịt bò là 1.207 pound, thật là 1.198 pound`"]
+  n2["`Galton 1907: trung vị 787 phiếu đoán thịt bò là 1.207 pound, thật là 1.198 pound, ông gọi là Vox Populi`"]
   n1 --- n2
   n3["`Thí nghiệm hũ kẹo: 915 lần đoán từ 219 tới 31.337, phân phối lệch phải rất mạnh`"]
   n1 --- n3
   n4["`Ba cách vẽ: biểu đồ dải điểm, biểu đồ hộp và râu, histogram`"]
   n1 --- n4
-  n5["`Thang logarit làm phân phối số kẹo đoán gần đối xứng`"]
+  n5["`Thang logarit làm phân phối số kẹo đoán gần đối xứng mà không phải bỏ điểm nào, hợp khi người đoán sai theo tỷ lệ`"]
   n1 --- n5
   n6["`Biến đếm nhận số nguyên, biến liên tục đo với độ chính xác tùy ý`"]
   n1 --- n6
@@ -1006,71 +1008,87 @@ flowchart LR
   n1 --- n7
   n8["`Trung vị 1.775 lệch số thật 1.616 khoảng 10%, gần đúng hơn 90% số người đoán`"]
   n1 --- n8
-  n9["`Mục “Describing the Spread of a Data Distribution” (trang PDF 46–47) — đo độ phân tán`"]
-  n0 --- n9
-  n10["`Khoảng biến thiên rất nhạy với lần đoán kỳ quặc 31.337`"]
-  n9 --- n10
-  n11["`Khoảng tứ phân vị 1.109 đến 2.599 chứa nửa giữa dữ liệu, không bị cực trị ảnh hưởng`"]
-  n9 --- n11
-  n12["`Độ lệch chuẩn 2.422 chỉ thật sự hợp với dữ liệu đối xứng`"]
-  n9 --- n12
-  n13["`Thước đo vững như trung vị và khoảng tứ phân vị chịu được dữ liệu bẩn mà không cần loại điểm`"]
-  n9 --- n13
-  n14["`Mục “Describing Differences between Groups of Numbers” (trang PDF 47–49) — so sánh nhóm và kiểm tra tính hợp lý`"]
-  n0 --- n14
-  n15["`Natsal-3, 35–44 tuổi: nam khai trung bình 14,3 bạn tình, nữ 8,5, trung vị 8 và 5`"]
-  n14 --- n15
-  n16["`Trong tổng thể khép kín, tổng số quan hệ của nam và nữ phải bằng nhau, nên khác biệt gợi ý khai báo sai lệch`"]
-  n14 --- n16
-  n17["`Biểu đồ dữ liệu thô lộ thói quen khai số tròn từ 10 trở lên`"]
-  n14 --- n17
-  n18["`Mục “Describing Relationships Between Variables” (trang PDF 50–55) — biểu đồ phân tán và hệ số tương quan`"]
+  n9["`Trung bình nhân sau khi bỏ 33 lần đoán từ 9.999 trở lên là 1.680, gần số thật nhất`"]
+  n8 --- n9
+  n10["`Thu nhập £400, £500, £600 thêm hai người £5.000: trung bình cộng lên £2.300, trung vị chỉ lên £600`"]
+  n1 --- n10
+  n11["`Chỉ số giá nhà dùng trung vị nhưng hay được gọi là giá nhà trung bình`"]
+  n1 --- n11
+  n12["`Mục “Describing the Spread of a Data Distribution” (trang PDF 46–47) — đo độ phân tán`"]
+  n0 --- n12
+  n13["`Khoảng biến thiên rất nhạy với lần đoán 31.337, có lẽ gõ nhầm 1.337 (tiếng lóng leet)`"]
+  n12 --- n13
+  n14["`Khoảng tứ phân vị 1.109 đến 2.599 chứa nửa giữa dữ liệu, không bị cực trị ảnh hưởng`"]
+  n12 --- n14
+  n15["`Độ lệch chuẩn 2.422 chỉ thật sự hợp với dữ liệu đối xứng, bình phương của nó là phương sai`"]
+  n12 --- n15
+  n16["`Sách nói bỏ riêng 31.337 thì còn 1.398, người tổng hợp tính lại chỉ khoảng 2.226`"]
+  n15 --- n16
+  n17["`Thước đo vững như trung vị và khoảng tứ phân vị chịu được dữ liệu bẩn mà không cần loại điểm`"]
+  n12 --- n17
+  n18["`Mục “Describing Differences between Groups of Numbers” (trang PDF 47–49) — so sánh nhóm và kiểm tra tính hợp lý`"]
   n0 --- n18
-  n19["`Pearson đo mức gần một đường thẳng, Spearman chỉ dùng thứ hạng`"]
+  n19["`Khảo sát Natsal ra đời vì dịch AIDS và số liệu Kinsey không đại diện, Natsal-3 khoảng 2010 tốn £7 triệu`"]
   n18 --- n19
-  n20["`Mổ tim trẻ dưới 1 tuổi 1991–1995: Pearson 0,59, Spearman 0,85 giữa số ca mổ và tỷ lệ sống`"]
+  n20["`Natsal-3, 806 nam và 1.215 nữ 35–44 tuổi: trung bình 14,3 và 8,5 bạn tình, trung vị 8 và 5, yếu vị 1`"]
   n18 --- n20
-  n21["`2012–2015: Pearson 0,17, Spearman −0,03, bỏ bệnh viện nhỏ nhất thì Pearson lên 0,42`"]
+  n21["`Trong tổng thể khép kín, tổng số quan hệ của nam và nữ phải bằng nhau, nên khác biệt gợi ý khai báo sai lệch`"]
   n18 --- n21
-  n22["`Datasaurus: hình khủng long và dải xiên đều có Pearson khoảng 0 dù có cấu trúc rõ`"]
+  n22["`Biểu đồ dữ liệu thô lộ thói quen khai số tròn từ 10 trở lên, trừ một người đàn ông khai chính xác 47`"]
   n18 --- n22
-  n23["`Tương quan chỉ tóm tắt mức liên kết, không chứng minh nhân quả`"]
+  n23["`Thí nghiệm máy phát hiện nói dối giả: nữ khai nhiều bạn tình hơn khi tưởng bị kiểm tra`"]
   n18 --- n23
-  n24["`Mục “Describing Trends” và tên David (trang PDF 55–60) — đồ thị đường và thang logarit`"]
+  n24["`Mục “Describing Relationships Between Variables” (trang PDF 50–55) — biểu đồ phân tán và hệ số tương quan`"]
   n0 --- n24
-  n25["`Dân số thế giới 1951–2015 tăng khoảng 3 lần, lên gần 7,5 tỷ`"]
+  n25["`Pearson (Galton đề xuất, Karl Pearson công bố 1895) đo mức gần một đường thẳng, Spearman chỉ dùng thứ hạng`"]
   n24 --- n25
-  n26["`Thang logarit và chia theo châu lục làm lộ châu Phi tăng nhanh, châu Âu phẳng`"]
+  n26["`Mổ tim trẻ dưới 1 tuổi 1991–1995: Pearson 0,59 (bỏ ngoại lai Bristol 71% thì 0,67), Spearman 0,85`"]
   n24 --- n26
-  n27["`Rút mỗi nước thành một con số tăng tương đối: Ả Rập Xê Út gần 10 lần`"]
+  n27["`2012–2015: Pearson 0,17, Spearman −0,03, bỏ bệnh viện nhỏ nhất thì Pearson lên 0,42`"]
   n24 --- n27
-  n28["`Tên David hạng 1 năm 1953, năm 2016 chỉ 1.461 bé, Oliver đi lên ngược chiều`"]
+  n28["`Datasaurus: hình khủng long và dải xiên đều có Pearson khoảng 0 dù có cấu trúc rõ`"]
   n24 --- n28
-  n29["`Mục “Communication” và “Storytelling with Statistics” (trang PDF 61–63) — truyền đạt có chủ đích`"]
-  n0 --- n29
-  n30["`Quy tắc thứ nhất: im lặng và lắng nghe để hiểu khán giả`"]
-  n29 --- n30
-  n31["`Quy tắc thứ hai: biết mình muốn đạt điều gì, cố không chen ý kiến cá nhân`"]
-  n29 --- n31
-  n32["`Hội Thống kê London 1834 tuyên bố loại bỏ ý kiến nhưng vi phạm ngay từ đầu`"]
-  n29 --- n32
-  n33["`Đồ họa Natsal-3: khoảng cách tuổi quan hệ lần đầu và sinh con đầu tăng từ khoảng 4 lên khoảng 12 năm`"]
-  n29 --- n33
-  n34["`Hans Rosling dùng đồ thị động bong bóng giàu có và sức khỏe các nước từ 1800`"]
-  n29 --- n34
-  n35["`Thông điệp xuyên suốt`"]
-  n0 --- n35
-  n36["`Gặp chữ trung bình, hỏi đó là trung bình cộng hay trung vị`"]
-  n35 --- n36
-  n37["`Đừng loại ngoại lai chỉ vì bất tiện, hãy dùng thước đo vững hoặc biến đổi dữ liệu`"]
-  n35 --- n37
-  n38["`Luôn đòi xem biểu đồ dữ liệu thô, vì số tóm tắt luôn che bớt chi tiết`"]
-  n35 --- n38
-  n39["`Con số không tự nói, cách trình bày luôn là một lựa chọn kể chuyện`"]
-  n35 --- n39
+  n29["`Tương quan chỉ tóm tắt mức liên kết, không chứng minh nhân quả, có thể bệnh viện tốt thu hút nhiều bệnh nhân hơn`"]
+  n24 --- n29
+  n30["`Mục “Describing Trends” và tên David (trang PDF 55–60) — đồ thị đường và thang logarit`"]
+  n0 --- n30
+  n31["`Dân số thế giới 1951–2015 tăng khoảng 3 lần, lên gần 7,5 tỷ`"]
+  n30 --- n31
+  n32["`Thang logarit và chia theo châu lục làm lộ châu Phi tăng nhanh, châu Âu phẳng`"]
+  n30 --- n32
+  n33["`Rút mỗi nước thành một con số tăng tương đối: Ả Rập Xê Út gần 10 lần`"]
+  n30 --- n33
+  n34["`Alberto Cairo: hình tốt có thông tin tin cậy, làm nổi mẫu hình, hấp dẫn mà trung thực, cho người xem khám phá`"]
+  n30 --- n34
+  n35["`Đồ thị tương tác tên bé trai: David hạng 1 năm 1953, năm 2016 chỉ 1.461 bé, Oliver đi lên ngược chiều`"]
+  n30 --- n35
+  n36["`Mục “Communication” và “Storytelling with Statistics” (trang PDF 61–63) — truyền đạt có chủ đích`"]
+  n0 --- n36
+  n37["`Quy tắc thứ nhất: im lặng và lắng nghe để hiểu khán giả`"]
+  n36 --- n37
+  n38["`Quy tắc thứ hai: biết mình muốn đạt điều gì, cố không chen ý kiến cá nhân`"]
+  n36 --- n38
+  n39["`Hội Thống kê London 1834 tuyên bố loại bỏ ý kiến nhưng vi phạm ngay từ đầu`"]
+  n36 --- n39
+  n40["`Dataviz giúp hiểu và khám phá, đồ họa thông tin dùng khi đã biết thông điệp để kể chuyện`"]
+  n36 --- n40
+  n41["`Đồ họa Natsal-3: khoảng cách tuổi quan hệ lần đầu và sinh con đầu tăng từ khoảng 4 lên khoảng 12 năm`"]
+  n36 --- n41
+  n42["`Hans Rosling dùng đồ thị động bong bóng giàu có và sức khỏe các nước từ 1800`"]
+  n36 --- n42
+  n43["`Thông điệp xuyên suốt`"]
+  n0 --- n43
+  n44["`Gặp chữ trung bình, hỏi đó là trung bình cộng hay trung vị`"]
+  n43 --- n44
+  n45["`Đừng loại ngoại lai chỉ vì bất tiện, hãy dùng thước đo vững hoặc biến đổi dữ liệu`"]
+  n43 --- n45
+  n46["`Luôn đòi xem biểu đồ dữ liệu thô, vì số tóm tắt luôn che bớt chi tiết`"]
+  n43 --- n46
+  n47["`Con số không tự nói, cách trình bày luôn là một lựa chọn kể chuyện`"]
+  n43 --- n47
   class n0 root
-  class n1,n9,n14,n18,n24,n29,n35 branch
-  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n15,n16,n17,n19,n20,n21,n22,n23,n25,n26,n27,n28,n30,n31,n32,n33,n34,n36,n37,n38,n39 leaf
+  class n1,n12,n18,n24,n30,n36,n43 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47 leaf
 ```
 
 ## Nguồn
@@ -1091,14 +1109,18 @@ Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) hỏi c�
 
 ## Lưu ý
 
-- **Con số độ lệch chuẩn sau khi bỏ giá trị 31.337 không thể đúng (nhận xét của người tổng hợp):** sách nói bỏ riêng một giá trị 31.337 thì độ lệch chuẩn giảm từ 2.422 xuống 1.398. Người tổng hợp tính lại từ chính các số của sách (915 lần đoán, trung bình cộng 2.408, độ lệch chuẩn 2.422): tổng bình phương độ lệch khoảng 2.422² × 914 ≈ 5.362 triệu; riêng giá trị 31.337 đóng góp khoảng (31.337 − 2.408)² × 915/914 ≈ 838 triệu; phần còn lại khoảng 4.524 triệu chia cho 913 rồi lấy căn bậc hai được khoảng **2.226**, không phải 1.398. Bỏ một điểm duy nhất không thể làm độ lệch chuẩn giảm tới mức 1.398. Có lẽ con số 1.398 là độ lệch chuẩn sau khi bỏ nhiều giá trị cao (ví dụ 33 lần đoán từ 9.999 trở lên mà chú thích cuối chương nhắc tới), nhưng sách không nói vậy — đây là phỏng đoán.
+- **Con số độ lệch chuẩn sau khi bỏ giá trị 31.337 không thể đúng (nhận xét của người tổng hợp):** sách nói bỏ riêng một giá trị 31.337 thì độ lệch chuẩn giảm từ 2.422 xuống 1.398. Người tổng hợp tính lại từ chính các số của sách (915 lần đoán, trung bình cộng 2.408, độ lệch chuẩn 2.422): tổng bình phương độ lệch khoảng 2.422² × 914 ≈ 5.362 triệu; riêng giá trị 31.337 đóng góp khoảng (31.337 − 2.408)² × 915/914 ≈ 838 triệu; phần còn lại khoảng 4.524 triệu chia cho 913 rồi lấy căn bậc hai được khoảng **2.226**, không phải 1.398.
+
+  Bỏ một điểm duy nhất không thể làm độ lệch chuẩn giảm tới mức 1.398. Có lẽ con số 1.398 là độ lệch chuẩn sau khi bỏ nhiều giá trị cao (ví dụ 33 lần đoán từ 9.999 trở lên mà chú thích cuối chương nhắc tới), nhưng sách không nói vậy — đây là phỏng đoán.
 - **Ngưỡng loại bỏ giá trị cao không thống nhất:** lời văn nói khi phân tích lần đầu tác giả "khá tuỳ tiện loại mọi giá trị trên 9.000"; chú thích cuối chương số 2 nói đã loại "33 lần đoán cao nhất, từ 9.999 trở lên". Hai ngưỡng khác nhau, dù vì không có ai đoán giữa 9.000 và 9.999 nên có thể chúng cho cùng kết quả — sách không cho đủ dữ liệu để kiểm tra.
 - **"Khoảng 60% cho cả trung bình cộng lẫn trung vị" là viết chưa chặt:** với dữ liệu Natsal-3, trung vị của nam cao hơn nữ 8/5 − 1 = **60%**, nhưng trung bình cộng cao hơn 14,3/8,5 − 1 = **68%**. Chênh lệch tuyệt đối 14,3 − 8,5 = 5,8 (sách làm tròn thành 6) và 8 − 5 = 3 thì đúng.
 - **Khoảng biến thiên của nữ không khớp giữa bảng và chú thích hình:** Table 2.2 ghi khoảng biến thiên của nữ là 0 đến 550, nhưng chú thích Figure 2.4 nói "tổng số lên tới 500 cho cả nam lẫn nữ".
 - **Nhãn sai trong Figure 2.7:** đồ thị dân số ghi một đường là "Latin America and Canada". Theo cách phân vùng của Phòng Dân số Liên Hợp Quốc mà sách dùng (theo hiểu biết của người tổng hợp), vùng này là "Mỹ Latinh và Caribe" (Latin America and the Caribbean); Canada thuộc "Bắc Mỹ" (Northern America), đường có nhãn riêng trên cùng hình. Lời văn chương nói chuỗi số "từ 1951", còn chú thích hình và trục hoành bắt đầu từ 1950.
 - **Figure 2.6 (Datasaurus) — chi tiết cần biết thêm (theo hiểu biết của người tổng hợp, không tra cứu):** hình "con khủng long" do Alberto Cairo tạo; bộ "Datasaurus Dozen" (13 tập dữ liệu cùng số tóm tắt) do Justin Matejka và George Fitzmaurice (Autodesk) phát triển năm 2017 từ hình của Cairo, nên gọi là "Datasaurus Dozen của Alberto Cairo" chưa thật chính xác. Hệ số tương quan Pearson của các tập này xấp xỉ −0,06 chứ không đúng bằng 0; điều đó không ảnh hưởng tới luận điểm.
 - **Tham chiếu chương trong chú thích:** chú thích về tỷ lệ sống sót có mẫu số khác nhau nói "tôi sẽ chỉ cách làm ở Chương 6", nhưng mô hình hồi quy logistic cho chính dữ liệu phẫu thuật tim 1991–1995 nằm ở Chương 5 (Figure 5.2); cách xử lý tỷ lệ có mẫu số khác nhau bằng biểu đồ phễu (funnel plot) nằm ở Chương 9. "Chương 6" có lẽ là nhầm.
-- **Các phép tính đã kiểm tra lại và đúng:** 1.207 pound ≈ 547 kg, 1.198 pound ≈ 543 kg; ví dụ thu nhập (£1.500/3 = £500; £11.500/5 = £2.300; trung vị mới £600); trung vị đoán kẹo vượt số thật 1.775 − 1.616 = 159, tức 159/1.616 = 9,8% ("khoảng 10%"); dân số thế giới tăng từ khoảng 2,55 lên khoảng 7,35 tỷ, gấp khoảng 2,9 lần ("khoảng ba lần"). Với dữ liệu 13 bệnh viện giai đoạn 2012–2015 chép từ Chương 1 (số ca và số sống sót), người tổng hợp tính được tương quan Pearson ≈ 0,17, tương quan hạng Spearman ≈ −0,03 (dùng tỷ lệ sống sót chưa làm tròn), và bỏ bệnh viện nhỏ nhất (London Harley Street) thì Pearson ≈ 0,42 — khớp hoàn toàn với sách. Với dữ liệu 1991–1995, sách không in bảng số; tương quan hạng tính từ các điểm đọc trên đồ thị được khoảng 0,85, khớp với sách; hệ số Pearson 0,59 và 0,67 (bỏ Bristol) không tự kiểm tra được vì không có số chính xác.
+- **Các phép tính đã kiểm tra lại và đúng:** 1.207 pound ≈ 547 kg, 1.198 pound ≈ 543 kg; ví dụ thu nhập (£1.500/3 = £500; £11.500/5 = £2.300; trung vị mới £600); trung vị đoán kẹo vượt số thật 1.775 − 1.616 = 159, tức 159/1.616 = 9,8% ("khoảng 10%"); dân số thế giới tăng từ khoảng 2,55 lên khoảng 7,35 tỷ, gấp khoảng 2,9 lần ("khoảng ba lần").
+
+  Với dữ liệu 13 bệnh viện giai đoạn 2012–2015 chép từ Chương 1 (số ca và số sống sót), người tổng hợp tính được tương quan Pearson ≈ 0,17, tương quan hạng Spearman ≈ −0,03 (dùng tỷ lệ sống sót chưa làm tròn), và bỏ bệnh viện nhỏ nhất (London Harley Street) thì Pearson ≈ 0,42 — khớp hoàn toàn với sách. Với dữ liệu 1991–1995, sách không in bảng số; tương quan hạng tính từ các điểm đọc trên đồ thị được khoảng 0,85, khớp với sách; hệ số Pearson 0,59 và 0,67 (bỏ Bristol) không tự kiểm tra được vì không có số chính xác.
 - **Một chỗ lệch trong bảng 13 bệnh viện mượn từ Chương 1:** Glasgow có 733 trẻ sống trên 760 ca, tức 96,4% (tử vong 27/760 = 3,6%), nhưng bảng ghi 96,3% và 3,7%. Lỗi nhỏ, không ảnh hưởng tới các hệ số tương quan.
 - **Hình là đồ thị không ghi số:** Figure 2.2, 2.3 (phân phối số lần đoán kẹo), 2.4 (phân phối số bạn tình), 2.5(a) (bệnh viện 1991–1995), 2.7, 2.8 (dân số), 2.9 (thứ hạng tên David và Oliver) và 2.10 (tuổi trung vị trong Natsal-3) đều không in số liệu; mọi con số đọc từ trục trong bản tổng hợp này là **ước lượng** của người tổng hợp và được ghi "khoảng". Figure 2.1 chỉ là ảnh chụp hũ kẹo. Figure 2.6 là hai đám điểm hư cấu, không có trục số.
 - **Lớp chữ của ebook:** chữ tốt; vài chỗ dấu sao chú thích bị đặt lệch (ví dụ dấu sao dưới hai bảng 2.1 và 2.2), và chú thích về thí nghiệm máy phát hiện nói dối (thuộc phần số bạn tình) bị liệt kê sau chú thích về Hans Rosling trong danh sách chú thích. Bản tổng hợp đặt mỗi chú thích về đúng đoạn văn có liên quan.

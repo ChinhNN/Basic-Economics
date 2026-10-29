@@ -389,8 +389,12 @@ Nhưng ông sẽ không bao giờ biết nghi thức hằng ngày này có giúp
 Mục đích của thử nghiệm lâm sàng là thực hiện một "phép thử công bằng" (fair test), xác định đúng nhân quả và ước lượng hiệu quả trung bình của một điều trị mới, mà không đưa vào những thiên lệch có thể cho ta ý niệm sai về hiệu quả. Một thử nghiệm y khoa đúng nghĩa lý tưởng nên tuân thủ các nguyên tắc sau:
 
 1. **Có đối chứng.** Muốn nghiên cứu tác dụng của statin trên một tổng thể, không thể chỉ cho vài người uống statin rồi, nếu họ không bị đau tim, tuyên bố đó là nhờ thuốc (bất chấp những trang web dùng kiểu lập luận dựa trên giai thoại này để bán sản phẩm). Cần một nhóm can thiệp được dùng statin và một **nhóm đối chứng** được dùng viên đường, tức **giả dược** (placebo).
-2. **Phân bổ điều trị.** Phải so sánh những thứ tương đương nhau, nên nhóm điều trị và nhóm so sánh phải giống nhau nhất có thể. Cách tốt nhất để bảo đảm điều này là phân bổ ngẫu nhiên người tham gia vào nhóm được điều trị hay không, rồi xem điều gì xảy ra với họ — gọi là **thử nghiệm ngẫu nhiên có đối chứng** (randomized controlled trial, RCT). Các thử nghiệm statin làm việc này với đủ nhiều người để hai nhóm giống nhau ở mọi yếu tố có thể ảnh hưởng tới kết cục, kể cả — và điều này cực kỳ quan trọng — *những yếu tố mà ta không biết*. Các nghiên cứu này có thể rất lớn: trong Nghiên cứu Bảo vệ Tim (Heart Protection Study, HPS) ở Anh cuối thập niên 1990, 20.536 người có nguy cơ đau tim hay đột quỵ cao được phân bổ ngẫu nhiên dùng 40 mg simvastatin mỗi ngày hoặc một viên giả. (Kết quả công bố trên *The Lancet* năm 2002.)
-3. **Tính mỗi người vào nhóm mà họ được phân bổ.** Những người được phân vào nhóm "statin" trong HPS được đưa vào phân tích cuối cùng *ngay cả khi họ không uống statin*. Đây là nguyên tắc **ý định điều trị** (intention to treat), nghe có vẻ khá kỳ lạ. Nó có nghĩa là ước lượng cuối cùng về tác dụng của statin thực ra đo tác dụng của việc *được kê* statin chứ không phải việc thực sự uống. Trên thực tế, người tham gia được khuyến khích mạnh mẽ uống thuốc suốt thời gian nghiên cứu, nhưng sau 5 năm trong HPS, 18% số người được phân vào nhóm statin đã ngừng uống, trong khi tới 32% số người ban đầu được phân vào nhóm giả dược lại bắt đầu dùng statin trong thời gian thử nghiệm. Vì những người đổi điều trị này làm nhoè khác biệt giữa hai nhóm, có thể kỳ vọng hiệu ứng thấy được trong phân tích theo ý định điều trị nhỏ hơn hiệu ứng của việc thực sự dùng thuốc.
+2. **Phân bổ điều trị.** Phải so sánh những thứ tương đương nhau, nên nhóm điều trị và nhóm so sánh phải giống nhau nhất có thể. Cách tốt nhất để bảo đảm điều này là phân bổ ngẫu nhiên người tham gia vào nhóm được điều trị hay không, rồi xem điều gì xảy ra với họ — gọi là **thử nghiệm ngẫu nhiên có đối chứng** (randomized controlled trial, RCT).
+
+   Các thử nghiệm statin làm việc này với đủ nhiều người để hai nhóm giống nhau ở mọi yếu tố có thể ảnh hưởng tới kết cục, kể cả — và điều này cực kỳ quan trọng — *những yếu tố mà ta không biết*. Các nghiên cứu này có thể rất lớn: trong Nghiên cứu Bảo vệ Tim (Heart Protection Study, HPS) ở Anh cuối thập niên 1990, 20.536 người có nguy cơ đau tim hay đột quỵ cao được phân bổ ngẫu nhiên dùng 40 mg simvastatin mỗi ngày hoặc một viên giả. (Kết quả công bố trên *The Lancet* năm 2002.)
+3. **Tính mỗi người vào nhóm mà họ được phân bổ.** Những người được phân vào nhóm "statin" trong HPS được đưa vào phân tích cuối cùng *ngay cả khi họ không uống statin*. Đây là nguyên tắc **ý định điều trị** (intention to treat), nghe có vẻ khá kỳ lạ. Nó có nghĩa là ước lượng cuối cùng về tác dụng của statin thực ra đo tác dụng của việc *được kê* statin chứ không phải việc thực sự uống.
+
+   Trên thực tế, người tham gia được khuyến khích mạnh mẽ uống thuốc suốt thời gian nghiên cứu, nhưng sau 5 năm trong HPS, 18% số người được phân vào nhóm statin đã ngừng uống, trong khi tới 32% số người ban đầu được phân vào nhóm giả dược lại bắt đầu dùng statin trong thời gian thử nghiệm. Vì những người đổi điều trị này làm nhoè khác biệt giữa hai nhóm, có thể kỳ vọng hiệu ứng thấy được trong phân tích theo ý định điều trị nhỏ hơn hiệu ứng của việc thực sự dùng thuốc.
 4. **Nếu có thể, người tham gia không nên biết mình ở nhóm nào.** Trong các thử nghiệm statin, viên statin thật và viên giả dược trông giống hệt nhau, nên người tham gia bị **làm mù** (blinded) về điều trị họ nhận.
 5. **Đối xử với các nhóm như nhau.** Nếu nhóm statin được mời quay lại bệnh viện thường xuyên hơn hay được khám kỹ hơn, sẽ không thể tách lợi ích của thuốc khỏi lợi ích của việc được chăm sóc chung nhiều hơn. Trong HPS, nhân viên làm việc ở các phòng khám theo dõi không biết bệnh nhân dùng statin thật hay giả dược, nên họ cũng bị làm mù.
 6. **Nếu có thể, người đánh giá kết cục cuối cùng không nên biết đối tượng ở nhóm nào.** Nếu một bác sĩ tin một điều trị có hiệu quả, họ có thể phóng đại lợi ích cho nhóm điều trị do thiên lệch vô thức.
@@ -792,85 +796,103 @@ flowchart LR
   n0["`Chương 4: tương quan không chứng minh nhân quả, thử nghiệm ngẫu nhiên có đối chứng là cách đáng tin nhất để xác lập nó`"]
   n1["`Phần mở đầu và mục “Correlation Does Not Imply Causation” (trang PDF 80–81) — một liên hệ bị nâng cấp thành tít báo`"]
   n0 --- n1
-  n2["`Hơn 4 triệu người Thụy Điển: địa vị kinh tế xã hội cao đi kèm tỷ lệ chẩn đoán u não hơi cao`"]
+  n2["`Bắc Âu là giấc mơ của nhà dịch tễ học: mã định danh nối hồ sơ thuế, y tế, giáo dục`"]
   n1 --- n2
-  n3["`Tít báo thành “học đại học làm tăng nguy cơ u não”, tác giả nghiên cứu lại nghĩ tới thiên lệch phát hiện`"]
+  n3["`Hơn 4 triệu người Thụy Điển theo dõi 18 năm: địa vị kinh tế xã hội cao đi kèm tỷ lệ chẩn đoán u não hơi cao`"]
   n1 --- n3
-  n4["`Câu thần chú tương quan không phải nhân quả có từ năm 1900`"]
+  n4["`Tít báo thành “học đại học làm tăng nguy cơ u não”, tác giả nghiên cứu lại nghĩ tới thiên lệch phát hiện`"]
   n1 --- n4
-  n5["`Mozzarella và số tiến sĩ xây dựng dân dụng ở Mỹ tương quan 0,96`"]
+  n5["`Câu thần chú tương quan không phải nhân quả có từ năm 1900`"]
   n1 --- n5
-  n6["`Mục “What Is Causation Anyway?” (trang PDF 81–85) — nhân quả theo can thiệp và chín nguyên tắc thử nghiệm`"]
-  n0 --- n6
-  n7["`X gây ra Y nghĩa là can thiệp để X xảy ra thì Y có xu hướng xảy ra thường hơn`"]
-  n6 --- n7
-  n8["`Hút thuốc gây ung thư phổi dù phần lớn người hút không mắc`"]
-  n6 --- n8
-  n9["`Không bao giờ nói được X đã gây ra Y cho một người cụ thể, vì phản thực tế không quan sát được`"]
-  n6 --- n9
-  n10["`Chín nguyên tắc: đối chứng, ngẫu nhiên hóa, ý định điều trị, làm mù, đối xử như nhau, đo mọi người, nhiều nghiên cứu, tổng quan hệ thống`"]
-  n6 --- n10
-  n11["`Nghiên cứu Bảo vệ Tim, 20.536 người: statin giảm đau tim 5 năm từ 11,8% xuống 8,7%`"]
-  n6 --- n11
-  n12["`Khoảng 30 người dùng statin 5 năm để ngăn một ca đau tim`"]
-  n11 --- n12
-  n13["`Phân tích gộp 27 thử nghiệm, hơn 170.000 người: giảm 21% biến cố mạch máu lớn mỗi 1 mmol/L LDL`"]
-  n11 --- n13
-  n14["`Streptomycin 1948, phân khối của Fisher, tin nhắn hỗ trợ học sinh thi lại tăng tỷ lệ đỗ 27%`"]
-  n6 --- n14
-  n15["`STEP hơn 1.800 bệnh nhân: cầu nguyện thay không có tác dụng`"]
-  n6 --- n15
-  n16["`Kiểm định A/B trong thiết kế web là thí nghiệm ngẫu nhiên trên người dùng không hề biết`"]
-  n6 --- n16
-  n17["`Mục “What Do We Do When We Can't Randomize?” (trang PDF 85–86) — các thiết kế nghiên cứu quan sát`"]
-  n0 --- n17
-  n18["`Vì sao đàn ông già có tai to: nghiên cứu cắt ngang ở Anh và Nhật thấy tương quan dương giữa tuổi và chiều dài tai`"]
-  n17 --- n18
-  n19["`Ba giải thích: tai dài thêm theo tuổi, hiệu ứng thế hệ, hay đàn ông tai nhỏ chết sớm hơn`"]
-  n17 --- n19
-  n20["`Đoàn hệ tiến cứu theo dõi người về sau, đoàn hệ hồi cứu dùng hồ sơ quá khứ`"]
-  n17 --- n20
-  n21["`Nghiên cứu bệnh–chứng so người có bệnh với người không có bệnh`"]
-  n17 --- n21
-  n22["`Mục “What Can We Do When We Observe an Association?” (trang PDF 86–88) — các lời giải thích khác ngoài nhân quả`"]
+  n6["`Mozzarella và số tiến sĩ xây dựng dân dụng ở Mỹ tương quan 0,96, con người có nhu cầu dựng câu chuyện nhân quả`"]
+  n1 --- n6
+  n7["`Mục “What Is Causation Anyway?” (trang PDF 81–85) — nhân quả theo can thiệp và chín nguyên tắc thử nghiệm`"]
+  n0 --- n7
+  n8["`X gây ra Y nghĩa là can thiệp để X xảy ra thì Y có xu hướng xảy ra thường hơn`"]
+  n7 --- n8
+  n9["`Hút thuốc gây ung thư phổi dù phần lớn người hút không mắc`"]
+  n7 --- n9
+  n10["`Không bao giờ nói được X đã gây ra Y cho một người cụ thể, vì phản thực tế không quan sát được`"]
+  n7 --- n10
+  n11["`Tác giả uống statin mỗi ngày nhưng không bao giờ biết nó có giúp chính ông, chỉ biết nguy cơ 10 năm khoảng 13% xuống khoảng 7%`"]
+  n10 --- n11
+  n12["`Chín nguyên tắc: đối chứng, ngẫu nhiên hóa, ý định điều trị, làm mù, đối xử như nhau, đo mọi người, nhiều nghiên cứu, tổng quan hệ thống`"]
+  n7 --- n12
+  n13["`Nghiên cứu Bảo vệ Tim, 20.536 người: statin giảm đau tim 5 năm từ 11,8% xuống 8,7%`"]
+  n7 --- n13
+  n14["`Khoảng 30 người dùng statin 5 năm để ngăn một ca đau tim`"]
+  n13 --- n14
+  n15["`Ý định điều trị: 18% nhóm statin bỏ thuốc, 32% nhóm giả dược tự dùng statin, vẫn tính theo nhóm được phân bổ, theo dõi 99,6%`"]
+  n13 --- n15
+  n16["`Phân tích gộp 27 thử nghiệm, hơn 170.000 người: giảm 21% biến cố mạch máu lớn mỗi 1 mmol/L LDL`"]
+  n13 --- n16
+  n17["`Thử nghiệm streptomycin chữa lao năm 1948 là thử nghiệm lâm sàng đúng nghĩa đầu tiên`"]
+  n7 --- n17
+  n18["`Phân khối của Fisher trên cánh đồng, tác giả chia bệnh nhân mổ thoát vị thành khối 4 và 6 người`"]
+  n7 --- n18
+  n19["`Tin nhắn cho người hỗ trợ học sinh thi lại GCSE tăng tỷ lệ đỗ 27%`"]
+  n7 --- n19
+  n20["`STEP hơn 1.800 bệnh nhân bắc cầu mạch vành: cầu nguyện thay không có tác dụng, nhóm biết được cầu nguyện biến chứng nhiều hơn chút`"]
+  n7 --- n20
+  n21["`Kiểm định A/B trong thiết kế web là thí nghiệm ngẫu nhiên trên người dùng không hề biết`"]
+  n7 --- n21
+  n22["`Mục “What Do We Do When We Can't Randomize?” (trang PDF 85–86) — các thiết kế nghiên cứu quan sát`"]
   n0 --- n22
-  n23["`Biến gây nhiễu là nguyên nhân chung của X và Y, điều chỉnh bằng phân tầng hay hồi quy`"]
+  n23["`Vì sao đàn ông già có tai to: nghiên cứu cắt ngang ở Anh và Nhật thấy tương quan dương giữa tuổi và chiều dài tai`"]
   n22 --- n23
-  n24["`Nghịch lý Simpson, tuyển sinh Cambridge 1996: tổng thể nam đỗ 24%, nữ 23%, nhưng nữ đỗ cao hơn ở bốn trong năm ngành`"]
+  n24["`Ba giải thích: tai dài thêm theo tuổi, hiệu ứng thế hệ, hay đàn ông tai nhỏ chết sớm hơn`"]
   n22 --- n24
-  n25["`Nhân quả ngược: Waitrose mở ở nơi giàu chứ không làm giá nhà tăng 36.000 bảng`"]
+  n25["`Đoàn hệ tiến cứu theo dõi người về sau, đoàn hệ hồi cứu dùng hồ sơ quá khứ`"]
   n22 --- n25
-  n26["`Người không uống rượu chết nhiều hơn có thể vì người ốm đã bỏ rượu`"]
+  n26["`Nghiên cứu bệnh–chứng so người có bệnh với người không có bệnh`"]
   n22 --- n26
-  n27["`Yếu tố ẩn không đo được thì không điều chỉnh được`"]
-  n22 --- n27
-  n28["`Trùng hợp thời gian: tự kỷ chẩn đoán sau tiêm chủng vì xảy ra cùng độ tuổi`"]
-  n22 --- n28
-  n29["`Thiên lệch chọn: giáo hoàng sống lâu vì được chọn từ người chưa chết trẻ`"]
-  n22 --- n29
-  n30["`Mục “Can We Ever Conclude Causation from Observational Data?” (trang PDF 88–90) — phán đoán có hệ thống`"]
-  n0 --- n30
-  n31["`Tiêu chí Bradford Hill: độ lớn hiệu ứng, thời gian, đáp ứng liều, cơ chế, phù hợp, lặp lại`"]
-  n30 --- n31
-  n32["`Aspirin gây loét miệng đạt năm trên bảy tiêu chí`"]
-  n30 --- n32
-  n33["`Tòa án dùng ngưỡng nguy cơ tương đối lớn hơn 2: amiăng 10 thành 25 ca trên 1.000, tức 60% số ca do amiăng`"]
-  n30 --- n33
-  n34["`Ngẫu nhiên hóa Mendel dùng gen làm giảm dung nạp rượu như một phân bổ ngẫu nhiên tự nhiên`"]
-  n30 --- n34
-  n35["`Thông điệp xuyên suốt`"]
-  n0 --- n35
-  n36["`Thấy X liên quan tới Y, hỏi trước tiên dữ liệu đến từ thí nghiệm hay quan sát`"]
-  n35 --- n36
-  n37["`Đọc cả giảm nguy cơ tuyệt đối và số người cần điều trị, không chỉ giảm tương đối`"]
-  n35 --- n37
-  n38["`Tác dụng trung bình trên nhóm không cho biết điều trị có giúp bạn hay không`"]
-  n35 --- n38
-  n39["`Không phương pháp nào thay được phán đoán về mức tin cậy khi khẳng định nhân quả`"]
-  n35 --- n39
+  n27["`Mục “What Can We Do When We Observe an Association?” (trang PDF 86–88) — các lời giải thích khác ngoài nhân quả`"]
+  n0 --- n27
+  n28["`Biến gây nhiễu là nguyên nhân chung quan sát được của X và Y, như thời tiết với kem và chết đuối, điều chỉnh bằng phân tầng`"]
+  n27 --- n28
+  n29["`Nữ nộp nhiều vào ngành cạnh tranh như y, thú y nên tỷ lệ đỗ chung thấp hơn`"]
+  n27 --- n29
+  n30["`Nghịch lý Simpson, tuyển sinh Cambridge 1996: tổng thể nam đỗ 24%, nữ 23%, nhưng nữ đỗ cao hơn ở bốn trong năm ngành`"]
+  n27 --- n30
+  n31["`Nhân quả ngược: Waitrose mở ở nơi giàu chứ không làm giá nhà tăng 36.000 bảng`"]
+  n27 --- n31
+  n32["`Người không uống rượu chết nhiều hơn có thể vì người ốm đã bỏ rượu`"]
+  n27 --- n32
+  n33["`Yếu tố ẩn không đo được thì không điều chỉnh được, như nhóm bạn bè với nước ngọt và bạo lực ở thiếu niên`"]
+  n27 --- n33
+  n34["`Trùng hợp thời gian: tự kỷ chẩn đoán sau tiêm chủng vì xảy ra cùng độ tuổi`"]
+  n27 --- n34
+  n35["`Thiên lệch chọn: giáo hoàng sống lâu vì được chọn từ người chưa chết trẻ`"]
+  n27 --- n35
+  n36["`Hiệu ứng thế hệ: ít người thuận tay trái trong số người chết vì thế hệ trước bị ép đổi tay`"]
+  n27 --- n36
+  n37["`Mục “Can We Ever Conclude Causation from Observational Data?” (trang PDF 88–90) — phán đoán có hệ thống`"]
+  n0 --- n37
+  n38["`Bradford Hill thiết kế thử nghiệm streptomycin và cùng Richard Doll chứng minh hút thuốc gây ung thư phổi`"]
+  n37 --- n38
+  n39["`Tiêu chí Bradford Hill: độ lớn hiệu ứng, thời gian, đáp ứng liều, cơ chế, phù hợp, lặp lại`"]
+  n37 --- n39
+  n40["`Aspirin gây loét miệng đạt năm trên bảy tiêu chí`"]
+  n37 --- n40
+  n41["`Tòa án dùng ngưỡng nguy cơ tương đối lớn hơn 2: amiăng 10 thành 25 ca trên 1.000, tức 60% số ca do amiăng`"]
+  n37 --- n41
+  n42["`Tỷ lệ số ca do phơi nhiễm là (RR − 1) / RR, vượt 50% khi RR #gt; 2, mở ra dịch tễ học pháp y`"]
+  n41 --- n42
+  n43["`Ngẫu nhiên hóa Mendel dùng gen làm giảm dung nạp rượu như một phân bổ ngẫu nhiên tự nhiên`"]
+  n37 --- n43
+  n44["`Thông điệp xuyên suốt`"]
+  n0 --- n44
+  n45["`Thấy X liên quan tới Y, hỏi trước tiên dữ liệu đến từ thí nghiệm hay quan sát`"]
+  n44 --- n45
+  n46["`Đọc cả giảm nguy cơ tuyệt đối và số người cần điều trị, không chỉ giảm tương đối`"]
+  n44 --- n46
+  n47["`Tác dụng trung bình trên nhóm không cho biết điều trị có giúp bạn hay không`"]
+  n44 --- n47
+  n48["`Không phương pháp nào thay được phán đoán về mức tin cậy khi khẳng định nhân quả`"]
+  n44 --- n48
   class n0 root
-  class n1,n6,n17,n22,n30,n35 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n36,n37,n38,n39 leaf
+  class n1,n7,n22,n27,n37,n44 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48 leaf
 ```
 
 ## Nguồn

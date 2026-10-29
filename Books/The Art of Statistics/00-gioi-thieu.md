@@ -676,93 +676,109 @@ flowchart LR
   n1 --- n2
   n3["`Bác sĩ gia đình Shipman giết ít nhất 215 bệnh nhân trong 1975–1998 bằng liều thuốc phiện cực lớn`"]
   n1 --- n3
-  n4["`Biểu đồ phân tán tuổi theo năm chết: nạn nhân chủ yếu là phụ nữ 70–90 tuổi`"]
-  n1 --- n4
-  n5["`Số vụ tăng tốc sau khi mở phòng khám riêng năm 1992: khoảng 5 lên khoảng 18 ca mỗi năm (ước lượng từ hình)`"]
-  n1 --- n5
-  n6["`Giờ chết: khoảng 45% số ca trong 13–17 giờ, so với khoảng 16% ở bệnh nhân bác sĩ khác`"]
+  n4["`Bị lộ vì giả mạo di chúc một nạn nhân, mọi lần sửa hồ sơ bệnh án trên máy tính đều ghi giờ`"]
+  n3 --- n4
+  n5["`Điều tra công khai kết luận chắc chắn giết 215 người, có thể thêm 45 người`"]
+  n3 --- n5
+  n6["`Biểu đồ phân tán tuổi theo năm chết: nạn nhân chủ yếu là phụ nữ 70–90 tuổi`"]
   n1 --- n6
-  n7["`Dữ liệu không nói vì sao, điều tra thêm cho thấy ông đi khám tại nhà sau bữa trưa`"]
-  n6 --- n7
-  n8["`Kết luận “inter-ocular”: mẫu hình đập vào giữa hai mắt, không cần phân tích tinh vi`"]
-  n6 --- n8
-  n9["`Tác giả gọi kiểu khảo sát lặp lại, chỉ tìm mẫu hình này là thống kê “điều tra” (forensic)`"]
-  n1 --- n9
-  n10["`Mục “Turning the World Into Data” (trang PDF 18–20) — dữ liệu được dựng từ phán đoán về định nghĩa và đo lường`"]
-  n0 --- n10
-  n11["`Thế nào là một cái cây: đường kính thân ngang ngực ít nhất 10 cm`"]
-  n10 --- n11
-  n12["`Crowther và cộng sự (Nature, 2015) đếm cây theo quần xã, nhân diện tích từ ảnh vệ tinh`"]
-  n11 --- n12
-  n13["`Kết quả 3,04 nghìn tỷ cây (2,94–3,14), 15 tỷ cây bị chặt mỗi năm`"]
-  n11 --- n13
-  n14["`Định nghĩa thất nghiệp ở Anh đổi ít nhất 31 lần trong 1979–1996`"]
-  n10 --- n14
-  n15["`GDP của Anh tính cả ma túy và mại dâm từ năm 2014`"]
-  n10 --- n15
-  n16["`Khảo sát 150.000 người Anh: điểm hạnh phúc trung bình 7,5/10`"]
-  n10 --- n16
-  n17["`Định nghĩa pháp lý về cái chết khác nhau giữa các bang của Mỹ`"]
-  n10 --- n17
-  n18["`Hai giới hạn của dữ liệu: đo không trọn điều ta quan tâm, và biến thiên theo nơi, người, thời điểm`"]
-  n10 --- n18
-  n19["`Thống kê bắt đầu từ Pascal và Fermat những năm 1650, thế kỷ 20 thành “túi công cụ” toán học`"]
-  n10 --- n19
-  n20["`Khoa học dữ liệu và khủng hoảng tái lập thách thức quan niệm túi công cụ`"]
-  n10 --- n20
-  n21["`Dữ liệu nhiều hơn làm tăng phát hiện sai do thiên lệch nguồn và đào bới dữ liệu, nên cần nhiều kỹ năng hơn`"]
-  n10 --- n21
-  n22["`Mục “Teaching Statistics” (trang PDF 20–23) — chu trình PPDAC làm khung cho mọi cuộc điều tra`"]
-  n0 --- n22
-  n23["`Dạy thống kê chuyển từ học kỹ thuật toán sang giải quyết vấn đề thật`"]
-  n22 --- n23
-  n24["`Vấn đề: điều tra luôn bắt đầu bằng một câu hỏi, như mẫu hình án mạng của Shipman`"]
-  n22 --- n24
-  n25["`Kế hoạch: người đếm cây chú ý tỉ mỉ tới định nghĩa và cách đo`"]
-  n22 --- n25
-  n26["`Dữ liệu: cần kỹ năng tổ chức, lập trình và làm sạch dữ liệu thường nhật`"]
-  n22 --- n26
-  n27["`Phân tích: đôi khi chỉ cần một hình trực quan hữu ích`"]
-  n22 --- n27
-  n28["`Kết luận: rút kết luận kèm giới hạn của bằng chứng, truyền đạt rõ, rồi nảy câu hỏi mới`"]
-  n22 --- n28
-  n29["`Mục “This Book” và lời cảm ơn (trang PDF 12, 23–24) — cách tiếp cận của cuốn sách`"]
-  n0 --- n29
-  n30["`Bắt đầu từ câu hỏi thật, chú trọng khái niệm hơn kỹ thuật, gần như không có công thức`"]
-  n29 --- n30
-  n31["`Không dạy phần mềm, dành cho cả sinh viên thống kê lẫn người đọc phổ thông`"]
-  n29 --- n31
-  n32["`Mục tiêu: giúp mọi người dám đặt câu hỏi về những con số họ gặp`"]
-  n29 --- n32
-  n33["`Sáu chương đầu làm việc với dữ liệu chưa cần xác suất, Chương 8–11 mới dựng nền suy luận`"]
-  n29 --- n33
-  n34["`Mã R và dữ liệu để tái lập phần lớn phân tích được công bố trên GitHub`"]
-  n29 --- n34
-  n35["`Mục “Summary” (trang PDF 25) — sáu ý khép phần Giới thiệu`"]
+  n7["`Số vụ tăng tốc sau khi mở phòng khám riêng năm 1992: khoảng 5 lên khoảng 18 ca mỗi năm (ước lượng từ hình)`"]
+  n1 --- n7
+  n8["`Giờ chết: khoảng 45% số ca trong 13–17 giờ, so với khoảng 16% ở bệnh nhân bác sĩ khác`"]
+  n1 --- n8
+  n9["`Dữ liệu không nói vì sao, điều tra thêm cho thấy ông đi khám tại nhà sau bữa trưa`"]
+  n8 --- n9
+  n10["`Kết luận “inter-ocular”: mẫu hình đập vào giữa hai mắt, không cần phân tích tinh vi`"]
+  n8 --- n10
+  n11["`Tác giả gọi kiểu khảo sát lặp lại, chỉ tìm mẫu hình này là thống kê “điều tra” (forensic)`"]
+  n1 --- n11
+  n12["`Chương 10 sẽ hỏi phân tích thống kê chính thức có bắt được ông sớm hơn không: gần như chắc chắn là có`"]
+  n1 --- n12
+  n13["`Mục “Turning the World Into Data” (trang PDF 18–20) — dữ liệu được dựng từ phán đoán về định nghĩa và đo lường`"]
+  n0 --- n13
+  n14["`Thế nào là một cái cây: đường kính thân ngang ngực ít nhất 10 cm`"]
+  n13 --- n14
+  n15["`Crowther và cộng sự (Nature, 2015) đếm cây theo quần xã, nhân diện tích từ ảnh vệ tinh`"]
+  n14 --- n15
+  n16["`Kết quả 3,04 nghìn tỷ cây (2,94–3,14), 15 tỷ cây bị chặt mỗi năm`"]
+  n14 --- n16
+  n17["`Tác giả nghi khoảng ±0,1 nghìn tỷ là hơi quá chính xác so với nhiều giả định của mô hình`"]
+  n14 --- n17
+  n18["`Định nghĩa thất nghiệp ở Anh đổi ít nhất 31 lần trong 1979–1996`"]
+  n13 --- n18
+  n19["`GDP của Anh tính cả ma túy và mại dâm từ năm 2014`"]
+  n13 --- n19
+  n20["`Khảo sát 150.000 người Anh: điểm hạnh phúc trung bình 7,5/10`"]
+  n13 --- n20
+  n21["`Định nghĩa pháp lý về cái chết khác nhau giữa các bang của Mỹ`"]
+  n13 --- n21
+  n22["`Người đã tuyên bố chết ở Alabama có thể chưa chết về pháp lý ở Florida, nơi cần hai bác sĩ xác nhận`"]
+  n21 --- n22
+  n23["`Hai giới hạn của dữ liệu: đo không trọn điều ta quan tâm, và biến thiên theo nơi, người, thời điểm`"]
+  n13 --- n23
+  n24["`Thống kê bắt đầu từ Pascal và Fermat những năm 1650, rồi lương hưu, thiên văn, di truyền, thế kỷ 20 thành “túi công cụ” toán học`"]
+  n13 --- n24
+  n25["`Khoa học dữ liệu và khủng hoảng tái lập (như tranh cãi tư thế quyền lực) thách thức quan niệm túi công cụ`"]
+  n13 --- n25
+  n26["`Dữ liệu nhiều hơn làm tăng phát hiện sai do thiên lệch nguồn và đào bới dữ liệu, nên cần nhiều kỹ năng hơn`"]
+  n13 --- n26
+  n27["`Mục “Teaching Statistics” (trang PDF 20–23) — chu trình PPDAC làm khung cho mọi cuộc điều tra`"]
+  n0 --- n27
+  n28["`Dạy thống kê chuyển từ học kỹ thuật toán sang giải quyết vấn đề thật`"]
+  n27 --- n28
+  n29["`Vấn đề: điều tra luôn bắt đầu bằng một câu hỏi, như mẫu hình án mạng của Shipman`"]
+  n27 --- n29
+  n30["`Kế hoạch: người đếm cây chú ý tỉ mỉ tới định nghĩa và cách đo`"]
+  n27 --- n30
+  n31["`Dữ liệu: cần kỹ năng tổ chức, lập trình và làm sạch dữ liệu thường nhật`"]
+  n27 --- n31
+  n32["`Dữ liệu nhặt được từ nguồn thường nhật lộn xộn như thứ nhặt ngoài đường`"]
+  n31 --- n32
+  n33["`Phân tích: đôi khi chỉ cần một hình trực quan hữu ích`"]
+  n27 --- n33
+  n34["`Kết luận: rút kết luận kèm giới hạn của bằng chứng, truyền đạt rõ, rồi nảy câu hỏi mới`"]
+  n27 --- n34
+  n35["`Mục “This Book” và lời cảm ơn (trang PDF 12, 23–24) — cách tiếp cận của cuốn sách`"]
   n0 --- n35
-  n36["`Biến trải nghiệm thành dữ liệu không đơn giản, dữ liệu tất yếu bị giới hạn`"]
+  n36["`Bắt đầu từ câu hỏi thật, chú trọng khái niệm hơn kỹ thuật, gần như không có công thức`"]
   n35 --- n36
-  n37["`Thống kê có lịch sử dài, nay thay đổi trước sự gia tăng dữ liệu sẵn có`"]
+  n37["`Thay sách Pelican cũ của Moroney (1951) và Huff (1954) bằng cách dạy dựa trên vấn đề`"]
   n35 --- n37
-  n38["`Phương pháp thống kê là phần quan trọng của nghề khoa học dữ liệu`"]
+  n38["`Câu hỏi đóng khung: hạt Higgs, ngoại cảm, sàng lọc ung thư buồng trứng, bộ xương Richard III ở Leicester`"]
   n35 --- n38
-  n39["`PPDAC: Vấn đề — Kế hoạch — Dữ liệu — Phân tích — Kết luận và truyền đạt`"]
+  n39["`Không dạy phần mềm, dành cho cả sinh viên thống kê lẫn người đọc phổ thông`"]
   n35 --- n39
-  n40["`Năng lực đọc hiểu dữ liệu là kỹ năng then chốt của thế giới hiện đại`"]
+  n40["`Mục tiêu: giúp mọi người dám đặt câu hỏi về những con số họ gặp`"]
   n35 --- n40
-  n41["`Thông điệp xuyên suốt`"]
-  n0 --- n41
-  n42["`Trước khi tin một con số, hỏi nó được định nghĩa và đo như thế nào`"]
-  n41 --- n42
-  n43["`Nhìn dữ liệu bằng đồ thị trước khi chạy mô hình`"]
-  n41 --- n43
-  n44["`Dữ liệu cho biết cái gì và khi nào tốt hơn nhiều so với vì sao`"]
-  n41 --- n44
-  n45["`Một nghiên cứu đơn lẻ không nên được diễn giải quá mức, hỏi đã có ai lặp lại chưa`"]
-  n41 --- n45
+  n41["`Sáu chương đầu làm việc với dữ liệu chưa cần xác suất, Chương 8–11 mới dựng nền suy luận`"]
+  n35 --- n41
+  n42["`Mã R và dữ liệu để tái lập phần lớn phân tích được công bố trên GitHub`"]
+  n35 --- n42
+  n43["`Mục “Summary” (trang PDF 25) — sáu ý khép phần Giới thiệu`"]
+  n0 --- n43
+  n44["`Biến trải nghiệm thành dữ liệu không đơn giản, dữ liệu tất yếu bị giới hạn`"]
+  n43 --- n44
+  n45["`Thống kê có lịch sử dài, nay thay đổi trước sự gia tăng dữ liệu sẵn có`"]
+  n43 --- n45
+  n46["`Phương pháp thống kê là phần quan trọng của nghề khoa học dữ liệu`"]
+  n43 --- n46
+  n47["`PPDAC: Vấn đề — Kế hoạch — Dữ liệu — Phân tích — Kết luận và truyền đạt`"]
+  n43 --- n47
+  n48["`Năng lực đọc hiểu dữ liệu là kỹ năng then chốt của thế giới hiện đại`"]
+  n43 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Trước khi tin một con số, hỏi nó được định nghĩa và đo như thế nào`"]
+  n49 --- n50
+  n51["`Nhìn dữ liệu bằng đồ thị trước khi chạy mô hình`"]
+  n49 --- n51
+  n52["`Dữ liệu cho biết cái gì và khi nào tốt hơn nhiều so với vì sao`"]
+  n49 --- n52
+  n53["`Một nghiên cứu đơn lẻ không nên được diễn giải quá mức, hỏi đã có ai lặp lại chưa`"]
+  n49 --- n53
   class n0 root
-  class n1,n10,n22,n29,n35,n41 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n42,n43,n44,n45 leaf
+  class n1,n13,n27,n35,n43,n49 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
 ```
 
 ## Nguồn
@@ -790,7 +806,9 @@ Chương 5 ([C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-ba
 - **Phần này không có bảng; cả ba hình đều là ảnh, và hai đồ thị không ghi số trên cột hay trên điểm.** Số liệu đọc từ Figure 0.1 (biểu đồ phân tán Shipman) và Figure 0.2 (giờ chết trong ngày) trong bản tổng hợp đều là **ước lượng của người tổng hợp** theo vạch chia trục. Riêng biểu đồ cột theo năm ở cạnh trên Figure 0.1 không có trục tung; người tổng hợp quy đổi chiều cao cột ra số nạn nhân bằng cách giả định tổng các cột bằng 215, nên các con số theo năm chỉ là gần đúng (sai số có thể vài ca mỗi năm). Biểu đồ cột tuổi ở cạnh phải Figure 0.1 có các cột không khớp gọn với vạch chia trục tuổi, nên bản tổng hợp chỉ mô tả hình dạng, không gán số cho từng khoảng tuổi.
 - **"Khoảng trống quanh năm 1992" (nhận xét của người tổng hợp):** lời văn nói biểu đồ cột phía trên cho thấy một khoảng trống "quanh năm 1992" không có vụ giết nào. Đọc hình, năm duy nhất không có cột là khoảng 1991; năm 1990 và 1992 mỗi năm chỉ có một cột rất thấp (khoảng 1 ca). Cách nói "quanh năm 1992" vì vậy vẫn chấp nhận được nhưng không chính xác tới từng năm. Ngoài ra không có cột cho khoảng 1976–1977.
 - **"Ban đầu họ đều là người già" (nhận xét của người tổng hợp):** lời văn nói ban đầu nạn nhân đều cao tuổi, những ca trẻ hơn chỉ "len vào" theo thời gian. Hình cho thấy đúng như vậy về xu hướng, nhưng đã có một nữ nạn nhân khoảng 51 tuổi năm 1984 và một nam nạn nhân khoảng 41 tuổi năm 1985; phần lớn các ca dưới 60 tuổi dồn vào 1993–1998.
-- **"Trước đây có gấp đôi số cây" so với chú thích "mất 46%":** lời văn nói các nhà nghiên cứu cho rằng trước kia Trái Đất có gấp đôi 3,04 nghìn tỷ cây; chú thích dấu sao lại nói hành tinh đã mất 46% số cây từ khi bắt đầu nền văn minh. Người tổng hợp kiểm tra: nếu mất 46% thì số cây ban đầu là 3,04 / (1 − 0,46) = 3,04 / 0,54 ≈ 5,63 nghìn tỷ, tức khoảng **1,85 lần** hiện nay — "gấp đôi" là cách làm tròn khá rộng tay. Các phép tính khác trong phần đã được kiểm tra và khớp: khoảng sai số ±0,1 nghìn tỷ cho 2,94–3,14 nghìn tỷ; 5 inch = 12,7 cm; 10 cm ≈ 3,94 inch (sách ghi "4 inches", làm tròn); 15 tỷ cây bị chặt mỗi năm tương đương khoảng 15 / 3.040 ≈ 0,49% số cây hiện có mỗi năm (người tổng hợp tự tính); từ 1951 và 1954 (hai cuốn sách Pelican cũ) tới 2019 là 68 và 65 năm, khớp với "sáu mươi lăm năm" nếu tính từ cuốn của Huff.
+- **"Trước đây có gấp đôi số cây" so với chú thích "mất 46%":** lời văn nói các nhà nghiên cứu cho rằng trước kia Trái Đất có gấp đôi 3,04 nghìn tỷ cây; chú thích dấu sao lại nói hành tinh đã mất 46% số cây từ khi bắt đầu nền văn minh. Người tổng hợp kiểm tra: nếu mất 46% thì số cây ban đầu là 3,04 / (1 − 0,46) = 3,04 / 0,54 ≈ 5,63 nghìn tỷ, tức khoảng **1,85 lần** hiện nay — "gấp đôi" là cách làm tròn khá rộng tay.
+
+  Các phép tính khác trong phần đã được kiểm tra và khớp: khoảng sai số ±0,1 nghìn tỷ cho 2,94–3,14 nghìn tỷ; 5 inch = 12,7 cm; 10 cm ≈ 3,94 inch (sách ghi "4 inches", làm tròn); 15 tỷ cây bị chặt mỗi năm tương đương khoảng 15 / 3.040 ≈ 0,49% số cây hiện có mỗi năm (người tổng hợp tự tính); từ 1951 và 1954 (hai cuốn sách Pelican cũ) tới 2019 là 68 và 65 năm, khớp với "sáu mươi lăm năm" nếu tính từ cuốn của Huff.
 - **Chú thích về nguồn gốc PPDAC (theo hiểu biết của người tổng hợp, không tra cứu):** Notes số 9 ghi chu trình PPDAC "được phát triển" trong bài của MacKay và Oldford năm 2000, đồng thời dẫn bài của Wild và Pfannkuch năm 1999 — tức bài trích dẫn ra đời trước bài được coi là nguồn gốc. Theo hiểu biết của người tổng hợp, MacKay và Oldford đã dùng PPDAC trong tài liệu giảng dạy ở Đại học Waterloo từ những năm 1990, trước khi xuất bản năm 2000; Wild và Pfannkuch dẫn lại từ đó. Đây không phải lỗi nội dung, chỉ là cách ghi nguồn chưa chặt. Hình PPDAC (Figure 0.3) được chuyển thể từ hình của Chris Wild, theo lời cảm ơn ở đầu sách.
 - **Về cái chết của Shipman:** sách viết ông tự sát trong tù "vừa kịp lúc để vợ ông nhận lương hưu". Theo hiểu biết của người tổng hợp, Shipman tự sát tháng 1/2004, một ngày trước sinh nhật 58 tuổi; nếu chết sau tuổi 60 thì vợ ông sẽ mất quyền hưởng một phần lương hưu. Sách không giải thích chi tiết này.
 - **Lớp chữ ebook:** lời văn tốt; chỉ có vài chỗ vỡ dòng ở chữ in nghiêng và các số chú thích nằm lẫn vào câu. Không có chỗ mất chữ ảnh hưởng tới nội dung.

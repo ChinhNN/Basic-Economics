@@ -457,8 +457,12 @@ Mục "Challenges of Algorithms" nêu bốn mối lo: thiếu độ vững (Goog
 ## Ba câu hỏi chương này trả lời
 
 1. **Thuật toán học từ dữ liệu khác gì với phân tích thống kê để hiểu thế giới, và nó được xây dựng thế nào?** Thuật toán là công nghệ: một công thức máy móc dùng dữ liệu quá khứ để tự động phân loại hoặc dự báo từng ca mới, được đánh giá chỉ bằng việc nó làm tốt nhiệm vụ hẹp đến đâu. Quy trình vẫn theo chu trình PPDAC: chia dữ liệu thành tập huấn luyện (với *Titanic*: 897 hành khách) và tập kiểm tra để riêng (412 hành khách), tiền xử lý dữ liệu, dựng mốc ngây thơ ("không ai sống" đúng 61%; "phụ nữ sống, đàn ông chết" đúng 78%), rồi thử các phương pháp như cây phân loại, hồi quy logistic, rừng ngẫu nhiên, mạng nơ-ron.
-2. **Làm sao biết một thuật toán tốt đến đâu, và vì sao phức tạp hơn chưa chắc tốt hơn?** Phải đo trên tập kiểm tra chưa dùng để xây thuật toán, và bằng nhiều thước đo: độ chính xác (cây đơn giản 81%), độ nhạy và độ đặc hiệu, diện tích dưới đường cong ROC cho khả năng phân biệt (0,82), đồ thị hiệu chuẩn cho độ tin cậy của xác suất, và điểm Brier gộp cả hai (0,139, giảm 40% so với mức không có kỹ năng 0,232). Thuật toán quá phức tạp khớp vào nhiễu của tập huấn luyện: cây rậm đúng 83% trên tập huấn luyện nhưng điểm Brier trên tập kiểm tra xấu đi thành 0,150. Phòng chống bằng kiểm định chéo mười phần để chọn độ phức tạp. Trong mười phương pháp, không có người thắng rõ ràng: cây đơn giản có điểm Brier tốt nhất, rừng ngẫu nhiên có diện tích ROC cao nhất.
-3. **Thuật toán có thể gây hại ra sao khi được dùng trong xã hội, và cần đòi hỏi gì ở chúng?** Bốn mối lo: thiếu độ vững khi thế giới thay đổi (Google Flu Trends dự báo cúm quá cao từ năm 2013), bỏ qua biến thiên thống kê (xếp hạng giáo viên theo lớp dưới 30 học sinh; ở Virginia một phần tư giáo viên dao động hơn 40 điểm trên thang 100 giữa hai năm), thiên lệch ngầm (mã bưu chính làm đại diện cho chủng tộc) và thiếu minh bạch (thuật toán tái phạm COMPAS). Cần đòi thuật toán giải thích được, kiểm soát được, khiếu nại được; khi hiệu năng đã đủ tốt, nên ưu tiên sự đơn giản. Predict 2.1 cho ung thư vú là mẫu hình tích cực: mã nguồn mở, được kiểm định trên 27.000 phụ nữ, và truyền đạt kết quả bằng tỷ lệ phụ nữ tương tự còn sống sau 10 năm (64% nếu chỉ phẫu thuật, 79% nếu thêm ba liệu pháp bổ trợ).
+2. **Làm sao biết một thuật toán tốt đến đâu, và vì sao phức tạp hơn chưa chắc tốt hơn?** Phải đo trên tập kiểm tra chưa dùng để xây thuật toán, và bằng nhiều thước đo: độ chính xác (cây đơn giản 81%), độ nhạy và độ đặc hiệu, diện tích dưới đường cong ROC cho khả năng phân biệt (0,82), đồ thị hiệu chuẩn cho độ tin cậy của xác suất, và điểm Brier gộp cả hai (0,139, giảm 40% so với mức không có kỹ năng 0,232).
+
+   Thuật toán quá phức tạp khớp vào nhiễu của tập huấn luyện: cây rậm đúng 83% trên tập huấn luyện nhưng điểm Brier trên tập kiểm tra xấu đi thành 0,150. Phòng chống bằng kiểm định chéo mười phần để chọn độ phức tạp. Trong mười phương pháp, không có người thắng rõ ràng: cây đơn giản có điểm Brier tốt nhất, rừng ngẫu nhiên có diện tích ROC cao nhất.
+3. **Thuật toán có thể gây hại ra sao khi được dùng trong xã hội, và cần đòi hỏi gì ở chúng?** Bốn mối lo: thiếu độ vững khi thế giới thay đổi (Google Flu Trends dự báo cúm quá cao từ năm 2013), bỏ qua biến thiên thống kê (xếp hạng giáo viên theo lớp dưới 30 học sinh; ở Virginia một phần tư giáo viên dao động hơn 40 điểm trên thang 100 giữa hai năm), thiên lệch ngầm (mã bưu chính làm đại diện cho chủng tộc) và thiếu minh bạch (thuật toán tái phạm COMPAS).
+
+   Cần đòi thuật toán giải thích được, kiểm soát được, khiếu nại được; khi hiệu năng đã đủ tốt, nên ưu tiên sự đơn giản. Predict 2.1 cho ung thư vú là mẫu hình tích cực: mã nguồn mở, được kiểm định trên 27.000 phụ nữ, và truyền đạt kết quả bằng tỷ lệ phụ nữ tương tự còn sống sau 10 năm (64% nếu chỉ phẫu thuật, 79% nếu thêm ba liệu pháp bổ trợ).
 
 ## Khái niệm cần biết
 
@@ -1169,85 +1173,105 @@ flowchart LR
   n1 --- n2
   n3["`Thuật toán thuộc trí tuệ nhân tạo hẹp, chỉ làm tốt một nhiệm vụ cụ thể`"]
   n1 --- n3
-  n4["`Dữ liệu lớn theo hai chiều: số ca n và số đặc trưng p`"]
+  n4["`Từ Edmund Halley thập niên 1690, thống kê luôn tạo thuật toán giúp ra quyết định`"]
   n1 --- n4
-  n5["`Phân cụm là học không giám sát, giảm chiều dữ liệu là kỹ thuật đặc trưng`"]
+  n5["`DeepMind tự học trò chơi, đánh bại vô địch cờ vua và cờ vây`"]
   n1 --- n5
-  n6["`Mục “Classification and Prediction” và “Classification Trees” (trang PDF 106–114) — ví dụ Titanic`"]
-  n0 --- n6
-  n7["`1.309 hành khách, chia ngẫu nhiên 897 vào tập huấn luyện và 412 vào tập kiểm tra để riêng`"]
-  n6 --- n7
-  n8["`Tiền xử lý: điền giá vé thiếu bằng trung vị hạng vé, gộp quy mô gia đình, gộp danh xưng hiếm`"]
-  n6 --- n8
-  n9["`Mốc ngây thơ: “không ai sống” đúng 61%, “phụ nữ sống, đàn ông chết” đúng 78%`"]
-  n6 --- n9
-  n10["`Cây phân loại là chuỗi câu hỏi có hoặc không, mỗi câu trả lời quyết định câu hỏi tiếp theo`"]
-  n6 --- n10
-  n11["`Cây bốn câu hỏi cho Francis Somerton, người cùng quê Ilfracombe với tác giả, danh xưng Mr, 16% cơ hội sống`"]
-  n6 --- n11
-  n12["`Hai mục đánh giá hiệu năng và điểm Brier (trang PDF 114–121) — đo trên tập kiểm tra bằng nhiều thước đo`"]
-  n0 --- n12
-  n13["`Ma trận sai số: cây đơn giản đúng 82% trên tập huấn luyện, 81% trên tập kiểm tra`"]
-  n12 --- n13
-  n14["`Độ nhạy là tỷ lệ người sống được nhận đúng, độ đặc hiệu là tỷ lệ người chết được nhận đúng`"]
-  n12 --- n14
-  n15["`Đường cong ROC xét mọi ngưỡng, diện tích dưới đường cong 0,82 đo khả năng phân biệt`"]
-  n12 --- n15
-  n16["`Hiệu chuẩn lấy từ dự báo thời tiết: trong các ngày báo 70% mưa thì khoảng 70% có mưa`"]
-  n12 --- n16
-  n17["`Điểm Brier là sai số bình phương trung bình của xác suất, gộp phân biệt và hiệu chuẩn`"]
-  n12 --- n17
-  n18["`Cây đơn giản Brier 0,139, giảm 40% so với mốc ai cũng có 39% cơ hội (0,232)`"]
-  n17 --- n18
-  n19["`Dự báo mưa thật có điểm kỹ năng khoảng 0,4 cho ngày mai và 0,2 cho một tuần`"]
-  n17 --- n19
-  n20["`Mục “Over-fitting”, “Regression Models” và “More Complex Techniques” (trang PDF 121–127) — khớp vào nhiễu và so sánh mười phương pháp`"]
-  n0 --- n20
-  n21["`Cây rậm đúng 83% trên tập huấn luyện nhưng Brier kiểm tra xấu đi thành 0,150`"]
-  n20 --- n21
-  n22["`Các quy luật bầu cử Mỹ quá tinh chỉnh bị phá lần lượt: Eisenhower 1952, Kennedy 1960, Reagan 1980`"]
-  n20 --- n22
-  n23["`Đánh đổi độ chệch và phương sai: khớp quá sát hoàn cảnh cục bộ thì ước lượng dao động mạnh`"]
-  n20 --- n23
-  n24["`Chống quá khớp bằng điều chuẩn và kiểm định chéo mười phần để chọn độ phức tạp`"]
-  n20 --- n24
-  n25["`Hồi quy logistic cho Somerton 13% cơ hội sống`"]
-  n20 --- n25
-  n26["`Rừng ngẫu nhiên, máy vectơ hỗ trợ, mạng nơ-ron, K láng giềng gần nhất`"]
-  n20 --- n26
-  n27["`Không có người thắng rõ ràng: rừng ngẫu nhiên có ROC cao nhất 0,850, cây đơn giản có Brier tốt nhất 0,139`"]
-  n20 --- n27
-  n28["`Netflix không dùng bài thắng giải 1 triệu USD vì quá phức tạp để triển khai`"]
-  n20 --- n28
-  n29["`Mục “Challenges of Algorithms” và “Artificial Intelligence” (trang PDF 127–131) — bốn mối lo khi dùng trong xã hội`"]
-  n0 --- n29
-  n30["`Thiếu độ vững: Google Flu Trends dự báo cúm quá cao từ năm 2013`"]
-  n29 --- n30
-  n31["`Bỏ qua biến thiên: ở Virginia một phần tư giáo viên dao động hơn 40 điểm trên thang 100 giữa hai năm`"]
-  n29 --- n31
-  n32["`Thiên lệch ngầm: thuật toán husky nhận ra tuyết, mã bưu chính làm đại diện cho chủng tộc`"]
-  n29 --- n32
-  n33["`Thiếu minh bạch: COMPAS chấm điểm rủi ro tái phạm dùng trong tuyên án nhưng không công khai trọng số`"]
-  n29 --- n33
-  n34["`Predict 2.1 cho ung thư vú là mẫu tích cực: xây trên 5.700 ca, kiểm định trên 27.000 ca, mã nguồn mở`"]
-  n29 --- n34
-  n35["`Phụ nữ 65 tuổi còn sống sau 10 năm: 64% nếu chỉ phẫu thuật, 79% nếu thêm ba liệu pháp bổ trợ`"]
-  n34 --- n35
-  n36["`Hiệu quả điều trị lấy từ thử nghiệm lâm sàng, vì thuật toán dựa trên liên hệ không trả lời câu hỏi can thiệp`"]
-  n34 --- n36
-  n37["`Thông điệp xuyên suốt`"]
+  n6["`Dữ liệu lớn theo hai chiều: số ca n và số đặc trưng p (hệ gen học có p rất lớn)`"]
+  n1 --- n6
+  n7["`Phân cụm là học không giám sát, giảm chiều dữ liệu là kỹ thuật đặc trưng, học sâu có thể bỏ qua bước giảm chiều`"]
+  n1 --- n7
+  n8["`Mục “Classification and Prediction” và “Classification Trees” (trang PDF 106–114) — ví dụ Titanic`"]
+  n0 --- n8
+  n9["`Đêm 14 rạng 15/4/1912 chỉ khoảng 700 trong hơn 2.200 người sống sót`"]
+  n8 --- n9
+  n10["`1.309 hành khách, chia ngẫu nhiên 897 vào tập huấn luyện và 412 vào tập kiểm tra để riêng, như cuộc thi trên Kaggle`"]
+  n8 --- n10
+  n11["`Tiền xử lý: điền giá vé thiếu bằng trung vị hạng vé, gộp quy mô gia đình, gộp danh xưng hiếm`"]
+  n8 --- n11
+  n12["`Mốc ngây thơ: “không ai sống” đúng 61%, “phụ nữ sống, đàn ông chết” đúng 78%`"]
+  n8 --- n12
+  n13["`Cây phân loại là chuỗi câu hỏi có hoặc không, mỗi câu trả lời quyết định câu hỏi tiếp theo`"]
+  n8 --- n13
+  n14["`Cây bốn câu hỏi cho Francis Somerton, người cùng quê Ilfracombe với tác giả, danh xưng Mr, 16% cơ hội sống`"]
+  n8 --- n14
+  n15["`Hai nhóm hơn 50% sống: phụ nữ và trẻ em hạng nhất, hạng hai (93%), phụ nữ và trẻ em hạng ba gia đình dưới 5 người (60%)`"]
+  n8 --- n15
+  n16["`Hai mục đánh giá hiệu năng và điểm Brier (trang PDF 114–121) — đo trên tập kiểm tra bằng nhiều thước đo`"]
+  n0 --- n16
+  n17["`Ma trận sai số: cây đơn giản đúng 82% trên tập huấn luyện, 81% trên tập kiểm tra`"]
+  n16 --- n17
+  n18["`Độ nhạy là tỷ lệ người sống được nhận đúng, độ đặc hiệu là tỷ lệ người chết được nhận đúng`"]
+  n16 --- n18
+  n19["`Đường cong ROC xét mọi ngưỡng, diện tích dưới đường cong 0,84 huấn luyện và 0,82 kiểm tra đo khả năng phân biệt`"]
+  n16 --- n19
+  n20["`Ngưỡng 70%: độ đặc hiệu 0,98 nhưng độ nhạy chỉ 0,50`"]
+  n19 --- n20
+  n21["`Hiệu chuẩn lấy từ dự báo thời tiết: trong các ngày báo 70% mưa thì khoảng 70% có mưa`"]
+  n16 --- n21
+  n22["`Điểm Brier là sai số bình phương trung bình của xác suất, gộp phân biệt và hiệu chuẩn`"]
+  n16 --- n22
+  n23["`Cây đơn giản Brier 0,139, giảm 40% so với mốc ai cũng có 39% cơ hội (0,232)`"]
+  n22 --- n23
+  n24["`Dự báo mưa hư cấu Brier 0,11 so với khí hậu 0,28, điểm kỹ năng 0,61, dự báo thật khoảng 0,4 cho ngày mai`"]
+  n22 --- n24
+  n25["`Phải dùng bình phương vì sai số tuyệt đối không phải quy tắc chấm điểm thích đáng`"]
+  n22 --- n25
+  n26["`Mục “Over-fitting”, “Regression Models” và “More Complex Techniques” (trang PDF 121–127) — khớp vào nhiễu và so sánh mười phương pháp`"]
+  n0 --- n26
+  n27["`Cây rậm đúng 83% trên tập huấn luyện nhưng Brier kiểm tra xấu đi thành 0,150`"]
+  n26 --- n27
+  n28["`Các quy luật bầu cử Mỹ quá tinh chỉnh bị phá lần lượt: Eisenhower 1952, Kennedy 1960, Reagan 1980`"]
+  n26 --- n28
+  n29["`Đánh đổi độ chệch và phương sai: khớp quá sát hoàn cảnh cục bộ thì ước lượng dao động mạnh`"]
+  n26 --- n29
+  n30["`Chống quá khớp bằng điều chuẩn và kiểm định chéo mười phần để chọn độ phức tạp`"]
+  n26 --- n30
+  n31["`Hồi quy logistic huấn luyện bằng boosting, có tương tác: Somerton tổng điểm −1,91, xác suất p = 1 / (1 + e^(−S)) khoảng 13%`"]
+  n26 --- n31
+  n32["`Rừng ngẫu nhiên, máy vectơ hỗ trợ, mạng nơ-ron, K láng giềng gần nhất`"]
+  n26 --- n32
+  n33["`Không có người thắng rõ ràng: rừng ngẫu nhiên có ROC cao nhất 0,850, cây đơn giản có Brier tốt nhất 0,139`"]
+  n26 --- n33
+  n34["`Quy tắc theo giới tính đạt 0,786, vượt máy vectơ hỗ trợ và theo sát hồi quy logistic`"]
+  n26 --- n34
+  n35["`Hộp đen: Netflix không dùng bài thắng giải 1 triệu USD vì quá phức tạp để triển khai`"]
+  n26 --- n35
+  n36["`Người sống sót bất ngờ nhất là Karl Dahl, thợ mộc 45 tuổi hạng ba`"]
+  n26 --- n36
+  n37["`Mục “Challenges of Algorithms” và “Artificial Intelligence” (trang PDF 127–131) — bốn mối lo khi dùng trong xã hội`"]
   n0 --- n37
-  n38["`Thuật toán khoe chính xác 90%, hỏi đo trên tập nào và so với mốc ngây thơ nào`"]
+  n38["`Thiếu độ vững: Google Flu Trends dự báo cúm quá cao từ năm 2013`"]
   n37 --- n38
-  n39["`Với dự báo xác suất, đòi cả khả năng phân biệt lẫn hiệu chuẩn`"]
+  n39["`Bỏ qua biến thiên: ở Virginia một phần tư giáo viên dao động hơn 40 điểm trên thang 100 giữa hai năm`"]
   n37 --- n39
-  n40["`Chênh lệch nhỏ giữa các thuật toán có thể chỉ là may rủi khi chia dữ liệu`"]
+  n40["`Thiên lệch ngầm: thuật toán husky nhận ra tuyết, mã bưu chính làm đại diện cho chủng tộc`"]
   n37 --- n40
-  n41["`Với thuật toán ảnh hưởng đời sống, cần giải thích được, kiểm soát được, khiếu nại được, nên ưu tiên sự đơn giản`"]
+  n41["`Thiếu minh bạch: COMPAS chấm điểm rủi ro tái phạm dùng trong tuyên án nhưng không công khai trọng số`"]
   n37 --- n41
+  n42["`Có thể dò thuật toán kín bằng cách đổi đầu vào, như thử báo giá bảo hiểm trực tuyến`"]
+  n37 --- n42
+  n43["`Predict 2.1 cho ung thư vú là mẫu tích cực: xây trên 5.700 ca, kiểm định trên 27.000 ca, mã nguồn mở`"]
+  n37 --- n43
+  n44["`Phụ nữ 65 tuổi còn sống sau 10 năm: 64% nếu chỉ phẫu thuật, 79% nếu thêm ba liệu pháp bổ trợ`"]
+  n43 --- n44
+  n45["`Hiệu quả điều trị lấy từ thử nghiệm lâm sàng, vì thuật toán dựa trên liên hệ không trả lời câu hỏi can thiệp`"]
+  n43 --- n45
+  n46["`Judea Pearl: AI cần mô hình nhân quả, thuật toán chỉ mô hình hóa liên hệ`"]
+  n37 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Thuật toán khoe chính xác 90%, hỏi đo trên tập nào và so với mốc ngây thơ nào`"]
+  n47 --- n48
+  n49["`Với dự báo xác suất, đòi cả khả năng phân biệt lẫn hiệu chuẩn`"]
+  n47 --- n49
+  n50["`Chênh lệch nhỏ giữa các thuật toán có thể chỉ là may rủi khi chia dữ liệu`"]
+  n47 --- n50
+  n51["`Với thuật toán ảnh hưởng đời sống, cần giải thích được, kiểm soát được, khiếu nại được, nên ưu tiên sự đơn giản`"]
+  n47 --- n51
   class n0 root
-  class n1,n6,n12,n20,n29,n37 branch
-  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41 leaf
+  class n1,n8,n16,n26,n37,n47 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
 ```
 
 ## Nguồn
@@ -1267,9 +1291,15 @@ Chương này giới thiệu tập huấn luyện và tập kiểm tra, cây ph�
 ## Lưu ý
 
 - **Mâu thuẫn trong lời văn về cây phân loại (nhận xét của người tổng hợp):** lời văn nói nhóm phụ nữ và trẻ em hạng ba có 60% sống sót là nhóm "đến từ gia đình đông người" (*provided they come from large families*). Nhưng chính sơ đồ cây (Figure 6.3) cho thấy câu hỏi "Gia đình có ít nhất 5 người?" trả lời **Không** mới dẫn tới 60%, còn trả lời Có dẫn tới 3%; chú thích hình cũng viết "từ các gia đình nhỏ hơn" (*from smaller families*). Bản tổng hợp theo sơ đồ: gia đình dưới 5 người.
-- **Ma trận sai số (Table 6.1) có thể bị đặt nhãn ngược (suy luận của người tổng hợp, chưa chắc chắn):** theo nhãn của bảng, tập huấn luyện có 568 người chết và 329 người sống (tỷ lệ chết 63,3%), tập kiểm tra có 273 người chết và 139 người sống. Nhưng lời văn nói "61% hành khách chết" trong tập huấn luyện và "39% sống" là tỷ lệ sống chung của tập huấn luyện, khớp với **tổng theo cột** chứ không phải tổng theo hàng: 546 / 897 = 60,9% và 351 / 897 = 39,1%. Bảng so sánh thuật toán (Table 6.4) cũng khớp với cách đọc theo cột: quy tắc "ai cũng có 39% cơ hội" có độ chính xác 0,639 trên tập kiểm tra, đúng bằng 263 / 412 = 0,638, chứ không phải 273 / 412 = 0,663; điểm Brier 0,232 của quy tắc này khớp với tỷ lệ sống 149 / 412 = 36,2% (0,362 × 0,61² + 0,638 × 0,39² = 0,232), còn với 139 / 412 thì ra 0,226. Thêm nữa, 351 + 149 = 500, đúng bằng tổng số người sống trong bộ dữ liệu 1.309 hành khách (theo hiểu biết của người tổng hợp về bộ dữ liệu titanic3). Nếu nhãn bị đảo, độ chính xác không đổi (82% và 81%) nhưng độ nhạy và độ đặc hiệu sẽ là 258 / 351 = 73,5% và 475 / 546 = 87,0% (huấn luyện), 104 / 149 = 69,8% và 228 / 263 = 86,7% (kiểm tra), thay cho 78%, 84%, 75%, 84% mà sách ghi. Bản tổng hợp chép bảng đúng như sách và nêu cách đọc khác này ở phần nội dung.
+- **Ma trận sai số (Table 6.1) có thể bị đặt nhãn ngược (suy luận của người tổng hợp, chưa chắc chắn):** theo nhãn của bảng, tập huấn luyện có 568 người chết và 329 người sống (tỷ lệ chết 63,3%), tập kiểm tra có 273 người chết và 139 người sống. Nhưng lời văn nói "61% hành khách chết" trong tập huấn luyện và "39% sống" là tỷ lệ sống chung của tập huấn luyện, khớp với **tổng theo cột** chứ không phải tổng theo hàng: 546 / 897 = 60,9% và 351 / 897 = 39,1%.
+
+  Bảng so sánh thuật toán (Table 6.4) cũng khớp với cách đọc theo cột: quy tắc "ai cũng có 39% cơ hội" có độ chính xác 0,639 trên tập kiểm tra, đúng bằng 263 / 412 = 0,638, chứ không phải 273 / 412 = 0,663; điểm Brier 0,232 của quy tắc này khớp với tỷ lệ sống 149 / 412 = 36,2% (0,362 × 0,61² + 0,638 × 0,39² = 0,232), còn với 139 / 412 thì ra 0,226.
+
+  Thêm nữa, 351 + 149 = 500, đúng bằng tổng số người sống trong bộ dữ liệu 1.309 hành khách (theo hiểu biết của người tổng hợp về bộ dữ liệu titanic3). Nếu nhãn bị đảo, độ chính xác không đổi (82% và 81%) nhưng độ nhạy và độ đặc hiệu sẽ là 258 / 351 = 73,5% và 475 / 546 = 87,0% (huấn luyện), 104 / 149 = 69,8% và 228 / 263 = 86,7% (kiểm tra), thay cho 78%, 84%, 75%, 84% mà sách ghi. Bản tổng hợp chép bảng đúng như sách và nêu cách đọc khác này ở phần nội dung.
 - **Lỗi số học trong bảng dự báo mưa (Table 6.2):** tổng bình phương sai số là 0,01 + 0,04 + 0,25 + 0,16 + 0,09 = **0,55**, không phải 0,54 như sách ghi; điểm Brier đúng là 0,55 / 5 = 0,110 (sách ghi 0,54 / 5 = 0,11, mà 0,54 / 5 = 0,108). Sai số khí hậu của thứ Sáu ghi 0,2, đúng ra là 0 − 0,2 = **−0,2** (bình phương vẫn là 0,04 nên kết quả không đổi). Chú thích bảng định nghĩa sai số là "hiệu giữa giá trị dự báo và giá trị quan sát", nhưng mọi con số trong bảng và lời văn ("0 − 0,1 = −0,1") đều tính theo chiều quan sát trừ dự báo; với điểm Brier, chiều nào cũng cho cùng kết quả vì sai số được bình phương.
-- **Một con số khó lý giải trong Table 6.4 (nhận xét của người tổng hợp, chưa chắc chắn):** quy tắc "mọi phụ nữ sống, mọi đàn ông chết" có độ chính xác 0,786 và điểm Brier 0,214; vì 0,214 = 1 − 0,786, quy tắc này gán xác suất 1 hoặc 0. Với một quy tắc chỉ cho hai giá trị như vậy, diện tích dưới đường cong ROC bằng trung bình cộng của độ nhạy và độ đặc hiệu; con số 0,578 của sách khi đó đòi hỏi độ nhạy cộng độ đặc hiệu bằng 1,156, và người tổng hợp tính ra rằng khi đó độ chính xác (bình quân gia quyền của độ nhạy và độ đặc hiệu, với trọng số là tỷ lệ người sống và người chết trong tập kiểm tra, khoảng 34–36% và 64–66%) không thể vượt khoảng 0,72 — mâu thuẫn với 0,786. Có thể sách tính diện tích ROC của dòng này theo cách khác không nêu ra. Kết luận chính của sách (độ chính xác thô không đủ để đánh giá thuật toán) vẫn đứng vững.
+- **Một con số khó lý giải trong Table 6.4 (nhận xét của người tổng hợp, chưa chắc chắn):** quy tắc "mọi phụ nữ sống, mọi đàn ông chết" có độ chính xác 0,786 và điểm Brier 0,214; vì 0,214 = 1 − 0,786, quy tắc này gán xác suất 1 hoặc 0.
+
+  Với một quy tắc chỉ cho hai giá trị như vậy, diện tích dưới đường cong ROC bằng trung bình cộng của độ nhạy và độ đặc hiệu; con số 0,578 của sách khi đó đòi hỏi độ nhạy cộng độ đặc hiệu bằng 1,156, và người tổng hợp tính ra rằng khi đó độ chính xác (bình quân gia quyền của độ nhạy và độ đặc hiệu, với trọng số là tỷ lệ người sống và người chết trong tập kiểm tra, khoảng 34–36% và 64–66%) không thể vượt khoảng 0,72 — mâu thuẫn với 0,786. Có thể sách tính diện tích ROC của dòng này theo cách khác không nêu ra. Kết luận chính của sách (độ chính xác thô không đủ để đánh giá thuật toán) vẫn đứng vững.
 - **Làm tròn trong bảng Predict 2.1 (Table 6.5):** sống sót sau phẫu thuật đơn thuần 64%, cộng lợi ích của liệu pháp hormone 7% thì phải ra 71%, nhưng bảng ghi 70%; các bước sau khớp (70 + 6 = 76; 76 + 3 = 79). Chênh lệch 1 điểm do làm tròn từng số.
 - **Lệch giữa lời văn và nguồn trích về ví dụ chó husky:** lời văn nói thuật toán học phân biệt chó husky với chó chăn cừu Đức (*German Shepherds*), nhưng đường dẫn trong chú thích cuối chương có tên "husky-or-wolf" (husky hay sói). Theo hiểu biết của người tổng hợp, thí nghiệm nổi tiếng về "nhận ra tuyết thay vì nhận ra con vật" là phân biệt husky với sói.
 - **Lỗi chính tả nhỏ:** "Trastuzamab" trong Table 6.5 đúng ra là trastuzumab (chú giải của Figure 6.7 viết đúng); "Huntingdon's disease" đúng ra là bệnh Huntington (Huntington's disease); lời văn có một chỗ viết "Figure 6–2" thay vì "Figure 6.2".

@@ -695,75 +695,89 @@ flowchart LR
   n0["`Chương 5: hồi quy là mô hình đơn giản hóa, hệ số mô tả liên hệ quan sát chứ chưa phải tác động, và giá trị cực đoan có xu hướng quay về trung bình`"]
   n1["`Phần mở đầu và mục “Regression Lines Are Models” (trang PDF 92–96) — Galton và gốc của chữ hồi quy`"]
   n0 --- n1
-  n2["`Galton 1886: 197 cặp cha mẹ, 465 con trai, 433 con gái`"]
+  n2["`Galton, anh họ Darwin, hỏi: dùng chiều cao cha mẹ dự báo chiều cao con thế nào`"]
   n1 --- n2
-  n3["`Đường bình phương nhỏ nhất: chiều cao con trai = 69,2 + 0,45 × (chiều cao cha − 69,3) inch`"]
+  n3["`Galton 1886: 197 cặp cha mẹ, 465 con trai, 433 con gái`"]
   n1 --- n3
-  n4["`Độ dốc 0,45 chứ không phải 1: cha cao có con trai hơi thấp hơn mình, cha thấp có con trai hơi cao hơn`"]
+  n4["`Đường bình phương nhỏ nhất: chiều cao con trai = 69,2 + 0,45 × (chiều cao cha − 69,3) inch`"]
   n1 --- n4
-  n5["`Galton gọi là hồi quy về mức tầm thường, nay gọi là hồi quy về giá trị trung bình`"]
+  n5["`Độ dốc 0,45 chứ không phải 1: cha cao có con trai hơi thấp hơn mình, cha thấp có con trai hơi cao hơn`"]
   n1 --- n5
-  n6["`Độ dốc bằng hệ số tương quan nhân tỷ số hai độ lệch chuẩn, tương quan cha–con trai 0,39`"]
+  n6["`Galton gọi là hồi quy về mức tầm thường, nay gọi là hồi quy về giá trị trung bình`"]
   n1 --- n6
-  n7["`Hệ số hồi quy cho biết thay đổi khi quan sát biến giải thích khác đi, không cho biết khi can thiệp`"]
-  n1 --- n7
-  n8["`Mô hình: quan sát = mô hình tất định + sai số phần dư, tức tín hiệu cộng nhiễu`"]
+  n7["`Cha cao hơn trung bình 6 inch có con trai dự báo chỉ cao hơn trung bình 2,7 inch`"]
+  n6 --- n7
+  n8["`Đường bình phương nhỏ nhất: ŷ − ȳ = b × (x − x̄) với b = r × s#95;y / s#95;x, tương quan cha–con trai 0,39`"]
   n1 --- n8
-  n9["`Hộp “Do speed cameras reduce accidents?” (trang PDF 96–97) — hồi quy về giá trị trung bình tạo ra tác động ảo`"]
-  n0 --- n9
-  n10["`Một phần mọi giá trị cực đoan là may rủi, mà may rủi không lặp lại đúng như cũ`"]
-  n9 --- n10
-  n11["`Camera đặt ở nơi vừa có nhiều tai nạn: khoảng hai phần ba lợi ích bề ngoài là hồi quy về trung bình`"]
-  n9 --- n11
-  n12["`HLV bị sa thải sau chuỗi thua, quỹ đầu tư được giới thiệu rồi sa sút, lời nguyền bìa Sports Illustrated`"]
-  n9 --- n12
-  n13["`PISA 2003–2012: tương quan thay đổi thứ hạng với thứ hạng ban đầu −0,60, gần mức −0,71 nếu chỉ do may rủi`"]
-  n9 --- n13
-  n14["`Một phần hiệu ứng giả dược là bệnh nhân tự quay về mức thường`"]
-  n9 --- n14
-  n15["`Cách chữa: so với nhóm đối chứng được chọn ngẫu nhiên`"]
-  n9 --- n15
-  n16["`Mục “Dealing With More Than One Explanatory Variable” (trang PDF 97–99) — hồi quy tuyến tính bội và hiệu chỉnh`"]
-  n0 --- n16
-  n17["`Hồi quy mở rộng cho nhiều biến giải thích, biến phân loại, quan hệ cong, biến phản hồi không liên tục`"]
-  n16 --- n17
-  n18["`Con trai = 69,2 + 0,33 × mẹ + 0,41 × cha, con gái = 64,1 + 0,30 × mẹ + 0,40 × cha`"]
-  n16 --- n18
-  n19["`Hiệu chỉnh: hệ số cha–con trai giảm từ 0,45 xuống 0,41, mẹ–con gái từ 0,33 xuống 0,30`"]
-  n16 --- n19
-  n20["`U não Thụy Điển: đã hiệu chỉnh tuổi, vùng, thu nhập nhưng vẫn nghi thiên lệch chẩn đoán, hiệu chỉnh không bao giờ hoàn hảo`"]
-  n16 --- n20
-  n21["`Mục “Different Types of Response Variables” (trang PDF 99–101) — mỗi loại biến phản hồi một dạng hồi quy`"]
+  n9["`Phần dư là khoảng cách dọc từ điểm tới đường, đường tốt nhất làm tổng bình phương phần dư nhỏ nhất`"]
+  n1 --- n9
+  n10["`Hệ số hồi quy cho biết thay đổi khi quan sát biến giải thích khác đi, không cho biết khi can thiệp`"]
+  n1 --- n10
+  n11["`Alice cao hơn Betty 1 inch thì con gái Alice dự báo cao hơn 0,33 inch, nhưng không ai làm mẹ cao thêm được`"]
+  n10 --- n11
+  n12["`Mô hình: quan sát = mô hình tất định + sai số phần dư, tức tín hiệu cộng nhiễu`"]
+  n1 --- n12
+  n13["`Hộp “Do speed cameras reduce accidents?” (trang PDF 96–97) — hồi quy về giá trị trung bình tạo ra tác động ảo`"]
+  n0 --- n13
+  n14["`Một phần mọi giá trị cực đoan là may rủi, mà may rủi không lặp lại đúng như cũ`"]
+  n13 --- n14
+  n15["`Camera đặt ở nơi vừa có nhiều tai nạn: khoảng hai phần ba lợi ích bề ngoài là hồi quy về trung bình`"]
+  n13 --- n15
+  n16["`HLV bị sa thải sau chuỗi thua, quỹ đầu tư được giới thiệu rồi sa sút, lời nguyền bìa Sports Illustrated`"]
+  n13 --- n16
+  n17["`PISA 2003–2012: tương quan thay đổi thứ hạng với thứ hạng ban đầu −0,60, gần mức −0,71 nếu chỉ do may rủi`"]
+  n13 --- n17
+  n18["`Một phần hiệu ứng giả dược là bệnh nhân tự quay về mức thường`"]
+  n13 --- n18
+  n19["`Thay đổi so với giá trị ban đầu tương quan −1/√2 = −0,71 ngay cả khi quá trình không đổi gì`"]
+  n13 --- n19
+  n20["`Cách chữa: phân bổ camera ngẫu nhiên như đánh giá thuốc, so với nhóm đối chứng`"]
+  n13 --- n20
+  n21["`Mục “Dealing With More Than One Explanatory Variable” (trang PDF 97–99) — hồi quy tuyến tính bội và hiệu chỉnh`"]
   n0 --- n21
-  n22["`Tỷ lệ dùng hồi quy logistic, hệ số là log tỷ số odds, đường cong không vượt 100%`"]
+  n22["`Hồi quy mở rộng cho nhiều biến giải thích, biến phân loại, quan hệ cong, biến phản hồi không liên tục`"]
   n21 --- n22
-  n23["`Số đếm dùng hồi quy Poisson, hệ số là log tỷ số tỷ suất`"]
+  n23["`Con trai = 69,2 + 0,33 × mẹ + 0,41 × cha, con gái = 64,1 + 0,30 × mẹ + 0,40 × cha`"]
   n21 --- n23
-  n24["`Thời gian sống còn dùng hồi quy Cox, hệ số là log tỷ số nguy cơ`"]
+  n24["`Hiệu chỉnh: hệ số cha–con trai giảm từ 0,45 xuống 0,41, mẹ–con gái từ 0,33 xuống 0,30`"]
   n21 --- n24
-  n25["`Mổ tim trẻ dưới 1 tuổi 1991–1995, bỏ Bristol: hệ số 0,001, mỗi 100 ca thêm thì odds tử vong giảm khoảng 10%`"]
+  n25["`U não Thụy Điển: đã hiệu chỉnh tuổi, vùng, thu nhập nhưng vẫn nghi thiên lệch chẩn đoán, hiệu chỉnh không bao giờ hoàn hảo`"]
   n21 --- n25
-  n26["`Mục “Beyond Basic Regression Modelling” (trang PDF 101–102) — mô hình là bản đồ, không phải vùng đất`"]
+  n26["`Mục “Different Types of Response Variables” (trang PDF 99–101) — mỗi loại biến phản hồi một dạng hồi quy`"]
   n0 --- n26
-  n27["`Bốn chiến lược: công thức đơn giản, mô hình tất định khoa học, thuật toán từ dữ liệu lớn, hồi quy nhân quả của kinh tế học`"]
+  n27["`Tỷ lệ dùng hồi quy logistic, hệ số là log tỷ số odds, đường cong không vượt 100%`"]
   n26 --- n27
-  n28["`George Box: mọi mô hình đều sai, một số có ích`"]
+  n28["`Số đếm dùng hồi quy Poisson, hệ số là log tỷ số tỷ suất`"]
   n26 --- n28
-  n29["`Khủng hoảng 2007–2008: mô hình rủi ro thế chấp đánh giá thấp tương quan vỡ nợ`"]
+  n29["`Thời gian sống còn dùng hồi quy Cox, hệ số là log tỷ số nguy cơ`"]
   n26 --- n29
-  n30["`Thông điệp xuyên suốt`"]
-  n0 --- n30
-  n31["`Đọc X tăng 1 thì Y tăng b, hỏi đây là liên hệ quan sát hay tác động của can thiệp`"]
+  n30["`Mổ tim trẻ dưới 1 tuổi 1991–1995, bỏ Bristol: hệ số 0,001, mỗi 100 ca thêm thì tử vong thấp hơn khoảng 10%`"]
+  n26 --- n30
+  n31["`Log odds giảm 0,1 nên odds nhân e^(−0,1) = 0,905, Bristol khoảng 71% so với khoảng 87% đường khớp dự báo`"]
   n30 --- n31
-  n32["`Chính sách áp dụng đúng lúc tình hình xấu nhất, hãy nghi hồi quy về trung bình trước khi khen`"]
-  n30 --- n32
-  n33["`Nghiên cứu nói đã hiệu chỉnh yếu tố gây nhiễu, hỏi còn yếu tố nào chưa đo`"]
-  n30 --- n33
-  n34["`Mô hình nguy hiểm khi người dùng quên các giả định đơn giản hóa của nó`"]
-  n30 --- n34
+  n32["`Mục “Beyond Basic Regression Modelling” (trang PDF 101–102) — mô hình là bản đồ, không phải vùng đất`"]
+  n0 --- n32
+  n33["`Bốn chiến lược: công thức đơn giản, mô hình tất định khoa học, thuật toán từ dữ liệu lớn, hồi quy nhân quả của kinh tế học`"]
+  n32 --- n33
+  n34["`Mô hình là bản đồ, không phải vùng đất: bản đồ đơn giản đủ đi giữa các thành phố, đi bộ cần bản đồ chi tiết`"]
+  n32 --- n34
+  n35["`George Box: mọi mô hình đều sai, nhưng một số có ích`"]
+  n32 --- n35
+  n36["`Khủng hoảng 2007–2008: mô hình thành lời sấm, đánh giá thấp tương quan vỡ nợ thế chấp nên rủi ro bị đánh giá thấp nghiêm trọng`"]
+  n32 --- n36
+  n37["`Thông điệp xuyên suốt`"]
+  n0 --- n37
+  n38["`Đọc X tăng 1 thì Y tăng b, hỏi đây là liên hệ quan sát hay tác động của can thiệp`"]
+  n37 --- n38
+  n39["`Chính sách áp dụng đúng lúc tình hình xấu nhất, hãy nghi hồi quy về trung bình trước khi khen`"]
+  n37 --- n39
+  n40["`Nghiên cứu nói đã hiệu chỉnh yếu tố gây nhiễu, hỏi còn yếu tố nào chưa đo`"]
+  n37 --- n40
+  n41["`Mô hình nguy hiểm khi người dùng quên các giả định đơn giản hóa của nó`"]
+  n37 --- n41
   class n0 root
-  class n1,n9,n16,n21,n26,n30 branch
-  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n22,n23,n24,n25,n27,n28,n29,n31,n32,n33,n34 leaf
+  class n1,n13,n21,n26,n32,n37 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n36,n38,n39,n40,n41 leaf
 ```
 
 ## Nguồn
@@ -782,8 +796,12 @@ Chương 5 đưa ra công cụ đầu tiên để mô tả quan hệ giữa mộ
 
 ## Lưu ý
 
-- **Độ dốc trong Table 5.2 không khớp với độ lệch chuẩn trong Table 5.1 (nhận xét của người tổng hợp):** sách viết rằng độ dốc hồi quy bằng hệ số tương quan nhân với tỷ số độ lệch chuẩn của biến phụ thuộc và biến độc lập, và "nếu hai độ lệch chuẩn bằng nhau thì độ dốc chính là hệ số tương quan, điều này giải thích sự gần nhau" trong Table 5.2. Nhưng theo Table 5.1, cha và con trai có cùng độ lệch chuẩn 2,6 inch, mẹ và con gái cùng 2,4 inch, nên công thức cho độ dốc 0,39 và 0,31, không phải 0,45 và 0,33 như bảng ghi. Muốn ra 0,45 thì tỷ số độ lệch chuẩn phải khoảng 0,45 / 0,39 = 1,15; muốn ra 0,33 thì tỷ số phải khoảng 1,06. Một cách giải thích khả dĩ (người tổng hợp suy đoán, không kiểm chứng được từ sách): Table 5.1 tính độ lệch chuẩn trên 197 người cha, mỗi người một lần, còn hồi quy dùng 465 cặp cha–con trai, trong đó một người cha có nhiều con trai bị đếm nhiều lần, nên độ lệch chuẩn của chiều cao cha trong 465 cặp có thể nhỏ hơn 2,6. Dù lý do là gì, câu "giải thích sự gần nhau" chỉ đúng một cách lỏng lẻo.
-- **Chú thích dấu sao về hồi quy logistic dùng đơn vị khác lời văn:** lời văn nói hệ số 0,001 nghĩa là tử vong thấp hơn khoảng 10% với mỗi 100 ca mổ thêm "trong giai đoạn bốn năm"; chú thích dấu sao lại nói log của odds tử vong giảm 0,001 "cho mỗi bệnh nhân thêm mỗi năm". Hai cách nói này không tương đương (100 ca thêm mỗi năm là 400 ca thêm trong bốn năm). Người tổng hợp đọc xấp xỉ đường cong trên đồ thị (Figure 5.2): tỷ lệ sống khoảng 84,8% ở 0 ca và khoảng 90,6% ở 640 ca, tức log odds tử vong giảm khoảng 0,085 cho mỗi 100 ca trên trục hoành — trục hoành là tổng số ca của cả giai đoạn. Vậy cách nói của lời văn ("mỗi 100 ca trong giai đoạn bốn năm") khớp với đồ thị; chữ "mỗi năm" trong chú thích có lẽ là lỡ lời. Các số đọc từ đồ thị chỉ là ước lượng.
+- **Độ dốc trong Table 5.2 không khớp với độ lệch chuẩn trong Table 5.1 (nhận xét của người tổng hợp):** sách viết rằng độ dốc hồi quy bằng hệ số tương quan nhân với tỷ số độ lệch chuẩn của biến phụ thuộc và biến độc lập, và "nếu hai độ lệch chuẩn bằng nhau thì độ dốc chính là hệ số tương quan, điều này giải thích sự gần nhau" trong Table 5.2. Nhưng theo Table 5.1, cha và con trai có cùng độ lệch chuẩn 2,6 inch, mẹ và con gái cùng 2,4 inch, nên công thức cho độ dốc 0,39 và 0,31, không phải 0,45 và 0,33 như bảng ghi.
+
+  Muốn ra 0,45 thì tỷ số độ lệch chuẩn phải khoảng 0,45 / 0,39 = 1,15; muốn ra 0,33 thì tỷ số phải khoảng 1,06. Một cách giải thích khả dĩ (người tổng hợp suy đoán, không kiểm chứng được từ sách): Table 5.1 tính độ lệch chuẩn trên 197 người cha, mỗi người một lần, còn hồi quy dùng 465 cặp cha–con trai, trong đó một người cha có nhiều con trai bị đếm nhiều lần, nên độ lệch chuẩn của chiều cao cha trong 465 cặp có thể nhỏ hơn 2,6. Dù lý do là gì, câu "giải thích sự gần nhau" chỉ đúng một cách lỏng lẻo.
+- **Chú thích dấu sao về hồi quy logistic dùng đơn vị khác lời văn:** lời văn nói hệ số 0,001 nghĩa là tử vong thấp hơn khoảng 10% với mỗi 100 ca mổ thêm "trong giai đoạn bốn năm"; chú thích dấu sao lại nói log của odds tử vong giảm 0,001 "cho mỗi bệnh nhân thêm mỗi năm". Hai cách nói này không tương đương (100 ca thêm mỗi năm là 400 ca thêm trong bốn năm).
+
+  Người tổng hợp đọc xấp xỉ đường cong trên đồ thị (Figure 5.2): tỷ lệ sống khoảng 84,8% ở 0 ca và khoảng 90,6% ở 640 ca, tức log odds tử vong giảm khoảng 0,085 cho mỗi 100 ca trên trục hoành — trục hoành là tổng số ca của cả giai đoạn. Vậy cách nói của lời văn ("mỗi 100 ca trong giai đoạn bốn năm") khớp với đồ thị; chữ "mỗi năm" trong chú thích có lẽ là lỡ lời. Các số đọc từ đồ thị chỉ là ước lượng.
 - **"Khoảng 10% thấp hơn" là xấp xỉ cho odds, không đúng hẳn cho rủi ro:** log odds giảm 0,1 tương ứng odds nhân với e^(−0,1) = 0,905, tức odds giảm khoảng 9,5%. Với tỷ lệ tử vong quanh 10–15% như trong dữ liệu, rủi ro tử vong giảm tương đối khoảng 8–9% (ví dụ người tổng hợp tự tính: rủi ro 15% có odds 0,176; nhân 0,905 được 0,160, tức rủi ro 13,8%, giảm tương đối 8,2%). Chữ "around 10%" của sách vì vậy chấp nhận được như một con số tròn.
 - **Mâu thuẫn nhỏ với Chương 4 về nghiên cứu u não Thuỵ Điển:** Chương 4 nhấn mạnh nghiên cứu này thực ra nói về vị thế kinh tế – xã hội chứ không phải học vấn, và chính thông cáo báo chí đã đổi thành "học vấn". Chương 5 lại mô tả phân tích hồi quy có "học vấn" là biến giải thích chính, và thu nhập là một biến gây nhiễu được hiệu chỉnh. Theo hiểu biết của người tổng hợp, nghiên cứu gốc dùng nhiều thước đo vị thế kinh tế – xã hội, trong đó có học vấn và thu nhập, nên cả hai cách nói đều có phần đúng, nhưng sách không nói rõ điều này.
 - **Ví dụ camera bắn tốc độ viết chưa chặt:** câu "khi những nghiên cứu như vậy đã được tiến hành" đọc như thể đã có thử nghiệm phân bổ camera ngẫu nhiên. Nguồn sách dẫn là bài của L. Mountain trên tạp chí *Significance* (2006). Theo hiểu biết của người tổng hợp, các ước tính "khoảng hai phần ba lợi ích bề ngoài là do hồi quy về giá trị trung bình" ở Anh chủ yếu đến từ phân tích thống kê dữ liệu trước–sau có hiệu chỉnh cho hồi quy về giá trị trung bình, chứ không phải từ thử nghiệm ngẫu nhiên đúng nghĩa. Người đọc nên coi lời kêu gọi "phân bổ camera ngẫu nhiên" là khuyến nghị về thiết kế, và con số hai phần ba là ước tính từ mô hình.

@@ -709,85 +709,101 @@ flowchart LR
   n0["`Chương 1: một tỷ lệ phần trăm không tự nói lên ý nghĩa, cách trình bày thay đổi cảm nhận của khán giả`"]
   n1["`Phần mở đầu (trang PDF 26–27) — Bristol 1984–1995: ngay việc đếm ca mổ và ca tử vong cũng khó`"]
   n0 --- n1
-  n2["`Phải định nghĩa trước: trẻ em dưới 16 tuổi, tim hở, tử vong trong 30 ngày sau mổ`"]
+  n2["`Bé Joshua 16 tháng tuổi tử vong trên bàn mổ ở Bristol ngày 12/1/1995, dù đã có tin đồn về tỷ lệ sống thấp`"]
   n1 --- n2
-  n3["`Hai nguồn chính thức lệch nhau: HES 62 tử vong trên 505 ca, CSR 71 trên 563 ca (1991–1995)`"]
+  n3["`1998 Hội đồng Y khoa kết luận hai bác sĩ phẫu thuật và cựu giám đốc sai phạm nghiêm trọng, nhóm thống kê do Spiegelhalter dẫn đầu`"]
   n1 --- n3
-  n4["`Kỳ vọng 32 ca nếu Bristol có rủi ro bình quân, tức khoảng 30 ca tử vong vượt mức`"]
+  n4["`Phải định nghĩa trước: trẻ em dưới 16 tuổi, tim hở, tử vong trong 30 ngày sau mổ`"]
   n1 --- n4
-  n5["`Không gọi phần chênh là tránh được, vì khoảng một nửa đơn vị vượt kỳ vọng chỉ do ngẫu nhiên`"]
+  n5["`Hai nguồn chính thức lệch nhau: HES 62 tử vong trên 505 ca, CSR 71 trên 563 ca (1991–1995)`"]
   n1 --- n5
-  n6["`Hậu quả: Anh công bố công khai số liệu sống sót của các bệnh viện`"]
-  n1 --- n6
-  n7["`Mục “Communicating Counts and Proportions” (trang PDF 27–31) — khung, đơn vị và trục biểu đồ đổi ấn tượng`"]
-  n0 --- n7
-  n8["`Dữ liệu nhị phân ghi một sự kiện có hay không xảy ra, tóm tắt bằng số đếm và tỷ lệ`"]
-  n7 --- n8
-  n9["`12.933 trẻ mổ tim ở 13 bệnh viện Anh và Ireland 2012–2015: tỷ lệ sống 30 ngày 98%`"]
-  n7 --- n9
-  n10["`Dao động từ 96,3% (Glasgow) tới 99,0% (Great Ormond Street)`"]
-  n9 --- n10
-  n11["`Không có bằng chứng tốt về khác biệt có hệ thống khi đã tính mức độ nặng ca bệnh`"]
-  n9 --- n11
-  n12["`Khung tiêu cực “5% tử vong” nghe tệ hơn khung tích cực “95% sống”`"]
-  n7 --- n12
-  n13["`Quảng cáo tàu điện ngầm London 2011: “99% thanh niên không bạo lực” thành “10.000 thanh niên bạo lực”`"]
-  n7 --- n13
-  n14["`Xếp hàng theo tỷ lệ tử vong ngầm tạo bảng xếp hạng, nên xếp theo số ca mổ`"]
-  n7 --- n14
-  n15["`Trục từ 0% làm các bệnh viện giống nhau, từ 95% làm khác biệt kịch tính, tác giả chọn 86%`"]
-  n7 --- n15
-  n16["`Mục “Categorical Variables” (trang PDF 31–33) — phân loại biến và chọn biểu đồ`"]
-  n0 --- n16
-  n17["`Biến nhị phân là câu hỏi có hay không, như còn sống hay đã chết`"]
-  n16 --- n17
-  n18["`Biến phân loại: nhóm không thứ tự (bệnh viện), có thứ tự (cấp bậc quân nhân), số đã chia nhóm (BMI)`"]
-  n16 --- n18
-  n19["`Biểu đồ tròn ba chiều kiểu Excel làm méo diện tích và rối mắt`"]
-  n16 --- n19
-  n20["`Biểu đồ thanh ngang cùng số liệu rõ hơn nhiều`"]
-  n16 --- n20
-  n21["`Mục “Comparing a Pair of Proportions” (trang PDF 31, 34–37) — rủi ro tương đối, tuyệt đối và tỷ số chênh`"]
+  n6["`Bristol ngập trong dữ liệu nhưng không nguồn nào là sự thật, không ai chịu trách nhiệm phân tích`"]
+  n5 --- n6
+  n7["`Kỳ vọng 32 ca nếu Bristol có rủi ro bình quân, tức khoảng 30 ca tử vong vượt mức`"]
+  n1 --- n7
+  n8["`Tác giả hối tiếc chữ “vượt mức” vì báo chí hiểu thành tránh được, trong khi khoảng một nửa bệnh viện vượt kỳ vọng chỉ do ngẫu nhiên`"]
+  n1 --- n8
+  n9["`Hậu quả: Anh công bố công khai số liệu sống sót của các bệnh viện`"]
+  n1 --- n9
+  n10["`Mục “Communicating Counts and Proportions” (trang PDF 27–31) — khung, đơn vị và trục biểu đồ đổi ấn tượng`"]
+  n0 --- n10
+  n11["`Dữ liệu nhị phân ghi một sự kiện có hay không xảy ra, tóm tắt bằng số đếm và tỷ lệ`"]
+  n10 --- n11
+  n12["`12.933 trẻ mổ tim ở 13 bệnh viện Anh và Ireland 2012–2015: tỷ lệ sống 30 ngày 98%`"]
+  n10 --- n12
+  n13["`Dao động từ 96,3% (Glasgow) tới 99,0% (Great Ormond Street)`"]
+  n12 --- n13
+  n14["`Không có bằng chứng tốt về khác biệt có hệ thống khi đã tính mức độ nặng ca bệnh`"]
+  n12 --- n14
+  n15["`Khung tiêu cực “5% tử vong” nghe tệ hơn khung tích cực “95% sống”, Mỹ báo tỷ lệ tử vong còn Anh báo tỷ lệ sống`"]
+  n10 --- n15
+  n16["`Quảng cáo tàu điện ngầm London 2011: “99% thanh niên không bạo lực” thành “10.000 thanh niên bạo lực”`"]
+  n10 --- n16
+  n17["`Xếp hàng theo tỷ lệ tử vong ngầm tạo bảng xếp hạng, nên xếp theo số ca mổ`"]
+  n10 --- n17
+  n18["`Birmingham có tỷ lệ sống 97,5% nhưng có thể nhận các ca nặng nhất`"]
+  n17 --- n18
+  n19["`Trục từ 0% làm các bệnh viện giống nhau, từ 95% làm khác biệt kịch tính, tác giả chọn 86%`"]
+  n10 --- n19
+  n20["`Alberto Cairo khuyên chọn đường cơ sở hợp lý và có ý nghĩa`"]
+  n19 --- n20
+  n21["`Mục “Categorical Variables” (trang PDF 31–33) — phân loại biến và chọn biểu đồ`"]
   n0 --- n21
-  n22["`IARC 2015: 50g thịt chế biến mỗi ngày làm rủi ro ung thư ruột tăng 18% (rủi ro tương đối)`"]
+  n22["`Biến nhị phân là câu hỏi có hay không, như còn sống hay đã chết`"]
   n21 --- n22
-  n23["`Rủi ro tuyệt đối: từ 6 lên 7 trên 100 người, cần 100 người ăn cả đời để thêm một ca`"]
-  n22 --- n23
-  n24["`Tần số kỳ vọng và mảng biểu tượng 100 hình người giúp hiểu đúng độ lớn`"]
-  n22 --- n24
-  n25["`Tránh nhiều câu “1 trên X” cùng lúc: khoảng một phần tư người được hỏi so sánh sai`"]
+  n23["`Biến phân loại: nhóm không thứ tự (bệnh viện), có thứ tự (cấp bậc quân nhân), số đã chia nhóm (BMI)`"]
+  n21 --- n23
+  n24["`BMI của Quetelet = cân nặng (kg) / chiều cao (m)², ở Anh béo phì từ 30, thiếu cân dưới 18,5`"]
+  n23 --- n24
+  n25["`Biểu đồ tròn ba chiều kiểu Excel làm méo diện tích và rối mắt`"]
   n21 --- n25
-  n26["`Tỷ lệ cược là khả năng xảy ra chia khả năng không xảy ra, tỷ số chênh là tỷ số hai tỷ lệ cược`"]
+  n26["`Biểu đồ thanh ngang rõ hơn: Great Ormond Street 14,6% số ca, gần gấp năm Harley Street 3,2%`"]
   n21 --- n26
-  n27["`Tỷ số chênh chỉ gần rủi ro tương đối khi sự kiện hiếm (thịt xông khói: hệ số 1,011)`"]
-  n21 --- n27
-  n28["`Statin 2013: đau cơ 87% so với 85%, rủi ro tương đối 1,02 nhưng tỷ số chênh 1,18`"]
-  n21 --- n28
-  n29["`Báo chí đọc tỷ số chênh thành “tăng rủi ro tới 20%”`"]
-  n28 --- n29
-  n30["`Mục “Summary” (trang PDF 38) — sáu ý khép chương`"]
-  n0 --- n30
-  n31["`Tập hợp biến nhị phân được tóm tắt bằng tỷ lệ`"]
-  n30 --- n31
-  n32["`Đóng khung tích cực hay tiêu cực thay đổi tác động cảm xúc`"]
-  n30 --- n32
-  n33["`Rủi ro tương đối phóng đại tầm quan trọng, nên cung cấp rủi ro tuyệt đối`"]
-  n30 --- n33
-  n34["`Tần số kỳ vọng thúc đẩy hiểu đúng mức, tỷ số chênh chỉ nên dừng trong nghiên cứu khoa học`"]
-  n30 --- n34
-  n35["`Thông điệp xuyên suốt`"]
-  n0 --- n35
-  n36["`Gặp con số phần trăm, tự hỏi khung ngược lại nói gì và đó là bao nhiêu người`"]
-  n35 --- n36
-  n37["`Gặp “rủi ro tăng X%”, hỏi ngay tăng từ bao nhiêu lên bao nhiêu`"]
-  n35 --- n37
-  n38["`Gặp bảng xếp hạng, hỏi khác biệt có vượt mức ngẫu nhiên và các đơn vị có nhận cùng loại ca không`"]
-  n35 --- n38
-  n39["`Truyền đạt là một bước nghiêm túc của thống kê, có thể kiểm chứng bằng thực nghiệm tâm lý`"]
-  n35 --- n39
+  n27["`Mục “Comparing a Pair of Proportions” (trang PDF 31, 34–37) — rủi ro tương đối, tuyệt đối và tỷ số chênh`"]
+  n0 --- n27
+  n28["`IARC 11/2015 xếp thịt chế biến vào Nhóm 1 cùng thuốc lá, nhưng Nhóm 1 nói độ chắc chắn chứ không nói độ lớn rủi ro`"]
+  n27 --- n28
+  n29["`50g thịt chế biến mỗi ngày làm rủi ro ung thư ruột tăng 18% (rủi ro tương đối)`"]
+  n27 --- n29
+  n30["`Rủi ro tuyệt đối: 6 × 1,18 = 7,08, tức từ 6 lên 7 trên 100 người`"]
+  n29 --- n30
+  n31["`Số người cần điều trị NNT = 1 / (0,07 − 0,06) = 100, tác giả đùa gọi là số người cần ăn`"]
+  n29 --- n31
+  n32["`Tần số kỳ vọng và mảng biểu tượng 100 hình người giúp hiểu đúng độ lớn`"]
+  n29 --- n32
+  n33["`Tránh nhiều câu “1 trên X” cùng lúc: khoảng một phần tư người được hỏi so sánh sai`"]
+  n27 --- n33
+  n34["`Tỷ lệ cược p / (1 − p), như 6/94, tỷ số chênh (7/93) / (6/94) = 1,18 là tỷ số hai tỷ lệ cược`"]
+  n27 --- n34
+  n35["`Tỷ số chênh chỉ gần rủi ro tương đối khi sự kiện hiếm (thịt xông khói: hệ số 1,011)`"]
+  n27 --- n35
+  n36["`Statin 2013: đau cơ 87% so với 85%, rủi ro tương đối 1,02 nhưng tỷ số chênh 1,18`"]
+  n27 --- n36
+  n37["`Daily Mail đọc tỷ số chênh thành “tăng rủi ro tới 20%”, nhưng tóm tắt bài báo gốc cũng chỉ nêu tỷ số chênh`"]
+  n36 --- n37
+  n38["`Mục “Summary” (trang PDF 38) — sáu ý khép chương`"]
+  n0 --- n38
+  n39["`Tập hợp biến nhị phân được tóm tắt bằng tỷ lệ`"]
+  n38 --- n39
+  n40["`Đóng khung tích cực hay tiêu cực thay đổi tác động cảm xúc`"]
+  n38 --- n40
+  n41["`Rủi ro tương đối phóng đại tầm quan trọng, nên cung cấp rủi ro tuyệt đối`"]
+  n38 --- n41
+  n42["`Tần số kỳ vọng thúc đẩy hiểu đúng mức, tỷ số chênh chỉ nên dừng trong nghiên cứu khoa học`"]
+  n38 --- n42
+  n43["`Thông điệp xuyên suốt`"]
+  n0 --- n43
+  n44["`Gặp con số phần trăm, tự hỏi khung ngược lại nói gì và đó là bao nhiêu người`"]
+  n43 --- n44
+  n45["`Gặp “rủi ro tăng X%”, hỏi ngay tăng từ bao nhiêu lên bao nhiêu`"]
+  n43 --- n45
+  n46["`Gặp bảng xếp hạng, hỏi khác biệt có vượt mức ngẫu nhiên và các đơn vị có nhận cùng loại ca không`"]
+  n43 --- n46
+  n47["`Truyền đạt là một bước nghiêm túc của thống kê, có thể kiểm chứng bằng thực nghiệm tâm lý`"]
+  n43 --- n47
   class n0 root
-  class n1,n7,n16,n21,n30,n35 branch
-  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n36,n37,n38,n39 leaf
+  class n1,n10,n21,n27,n38,n43 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n44,n45,n46,n47 leaf
 ```
 
 ## Nguồn
@@ -809,11 +825,15 @@ Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) chuyển
 ## Lưu ý
 
 - **Tỷ lệ tử vong theo HES bị ghi sai (nhận xét của người tổng hợp):** sách viết HES ghi nhận "62 deaths out of 505 open operations (14%)". Tính lại: 62 / 505 = 12,3%, không phải 14%. Con số của CSR đúng: 71 / 563 = 12,6%, làm tròn 13%. Lỗi này đáng chú ý vì với số đúng, tỷ lệ theo HES (12,3%) lại *thấp hơn* tỷ lệ theo CSR (12,6%), ngược với ấn tượng mà hai con số 14% và 13% của sách tạo ra. Thông điệp chính của đoạn văn — hai nguồn được cho là ghi cùng một thực tế nhưng lệch nhau cả về số ca mổ (505 so với 563) lẫn số ca tử vong (62 so với 71) — không bị ảnh hưởng.
-- **Các phép tính khác đã tự kiểm tra:** 62 − 32 = 30 ca tử vong vượt mức; số tử vong kỳ vọng 32 trên 505 ca mổ ứng với tỷ lệ tử vong khoảng 6,3% (người tổng hợp suy ra; sách không nêu), tức Bristol có số tử vong gần gấp đôi kỳ vọng (62 / 32 = 1,94). Toàn bộ các hàng của bảng kết quả phẫu thuật tim trẻ em 2012–2015 (Table 1.1) đều khớp: số sống cộng số chết bằng số ca mổ ở cả 13 bệnh viện; tổng 12.933 = 12.670 + 263; tỷ lệ sống chung 12.670 / 12.933 = 97,97%, làm tròn 98,0%. 1% của 1 triệu thanh niên London là 10.000 người, đúng. Ví dụ thịt xông khói: 6% × 1,18 = 7,08% (sách tự ghi trong chú thích); số người cần ăn để có thêm một ca ung thư là 100 / (7 − 6) = 100, đúng; tỷ số chênh (7/93) / (6/94) = 0,07527 / 0,06383 = 1,179, làm tròn 1,18, đúng. Ví dụ statin: tỷ lệ cược 0,87 / 0,13 = 6,69 và 0,85 / 0,15 = 5,67; tỷ số chênh 6,69 / 5,67 = 1,18, đúng.
+- **Các phép tính khác đã tự kiểm tra:** 62 − 32 = 30 ca tử vong vượt mức; số tử vong kỳ vọng 32 trên 505 ca mổ ứng với tỷ lệ tử vong khoảng 6,3% (người tổng hợp suy ra; sách không nêu), tức Bristol có số tử vong gần gấp đôi kỳ vọng (62 / 32 = 1,94). Toàn bộ các hàng của bảng kết quả phẫu thuật tim trẻ em 2012–2015 (Table 1.1) đều khớp: số sống cộng số chết bằng số ca mổ ở cả 13 bệnh viện; tổng 12.933 = 12.670 + 263; tỷ lệ sống chung 12.670 / 12.933 = 97,97%, làm tròn 98,0%. 1% của 1 triệu thanh niên London là 10.000 người, đúng.
+
+  Ví dụ thịt xông khói: 6% × 1,18 = 7,08% (sách tự ghi trong chú thích); số người cần ăn để có thêm một ca ung thư là 100 / (7 − 6) = 100, đúng; tỷ số chênh (7/93) / (6/94) = 0,07527 / 0,06383 = 1,179, làm tròn 1,18, đúng. Ví dụ statin: tỷ lệ cược 0,87 / 0,13 = 6,69 và 0,85 / 0,15 = 5,67; tỷ số chênh 6,69 / 5,67 = 1,18, đúng.
 - **Sai lệch nhỏ khi làm tròn trong Table 1.1 (nhận xét của người tổng hợp):** dòng Glasgow ghi tỷ lệ sống 96,3% và tử vong 3,7%, nhưng 733 / 760 = 96,45% (làm tròn một chữ số thập phân là 96,4%) và 27 / 760 = 3,55% (làm tròn 3,6%). Mọi dòng khác khớp với phép chia. Có thể bảng gốc dùng số liệu chi tiết hơn; chênh lệch chỉ 0,1 điểm phần trăm.
 - **Nhãn biểu đồ tròn (Figure 1.2):** biểu đồ ghi London Brompton chiếm 9% số ca, nhưng 1.094 / 12.933 = 8,46%, làm tròn là 8%. Nhiều khả năng nhãn đã được điều chỉnh để tổng các nhãn bằng 100% (với 8% thì tổng là 99%). Các nhãn khác khớp khi làm tròn tới số nguyên.
 - **"1 in 16" cho rủi ro 6% (Table 1.2) là làm tròn khá thô:** 1 / 16 = 6,25%, còn 6% ứng với 1 trên 16,7, gần "1 in 17" hơn. Với 7%: 100 / 7 = 14,3, nên "1 in 14" hợp lý.
-- **Rủi ro tương đối của statin và sự trùng hợp "exactly the same as for bacon":** sách ghi rủi ro tương đối 0,87 / 0,85 = 1,02; chính xác là 1,0235, tức tăng tương đối khoảng 2,4%. Sách nói tỷ số chênh 1,18 của statin "đúng bằng" con số của thịt xông khói. Người tổng hợp lưu ý: tỷ số chênh 1,18 trong ví dụ thịt xông khói được tính từ các rủi ro đã làm tròn 6% và 7%; nếu dùng 7,08% thì tỷ số chênh là (0,0708 / 0,9292) / (0,06 / 0,94) = 1,19, còn rủi ro tương đối "chuẩn" là 1,18 (từ IARC), trong khi tỷ số 7% / 6% của hai con số làm tròn chỉ là 1,17. Các sai khác này không làm thay đổi kết luận: với sự kiện hiếm, tỷ số chênh xấp xỉ rủi ro tương đối (1,19 so với 1,18); với sự kiện phổ biến như đau cơ, hai thước đo vênh nhau rất xa (1,18 so với 1,02).
+- **Rủi ro tương đối của statin và sự trùng hợp "exactly the same as for bacon":** sách ghi rủi ro tương đối 0,87 / 0,85 = 1,02; chính xác là 1,0235, tức tăng tương đối khoảng 2,4%. Sách nói tỷ số chênh 1,18 của statin "đúng bằng" con số của thịt xông khói.
+
+  Người tổng hợp lưu ý: tỷ số chênh 1,18 trong ví dụ thịt xông khói được tính từ các rủi ro đã làm tròn 6% và 7%; nếu dùng 7,08% thì tỷ số chênh là (0,0708 / 0,9292) / (0,06 / 0,94) = 1,19, còn rủi ro tương đối "chuẩn" là 1,18 (từ IARC), trong khi tỷ số 7% / 6% của hai con số làm tròn chỉ là 1,17. Các sai khác này không làm thay đổi kết luận: với sự kiện hiếm, tỷ số chênh xấp xỉ rủi ro tương đối (1,19 so với 1,18); với sự kiện phổ biến như đau cơ, hai thước đo vênh nhau rất xa (1,18 so với 1,02).
 - **Cách viết không thống nhất:** cùng một đoạn, sách viết "Group I carcinogen" rồi "Group 1 classification"; tên chính thức của IARC là Nhóm 1 (Group 1). Tiêu đề báo ở phần lời văn ghi là *Daily Mail*, còn chú thích cuối chương dẫn nguồn là bản trực tuyến *Mail Online*, ngày 3/6/2013, với tiêu đề đầy đủ "Statins Can Weaken Muscles and Joints: Cholesterol Drug Raises Risk of Problems by up to 20 per cent". Chú thích cuối chương cho thấy nghiên cứu gốc (Mansi và cộng sự, *JAMA Internal Medicine*, 2013) là về các bệnh cơ xương khớp nói chung, rộng hơn chữ "muscle pains" (đau cơ) trong lời văn.
 - **Hình là ảnh, không ghi số:** Figure 1.1 (tỷ lệ sống 30 ngày theo bệnh viện) và Figure 1.3 (tỷ trọng số ca mổ theo bệnh viện) là biểu đồ thanh không ghi số trên thanh; bản tổng hợp dùng số liệu tính từ bảng của chính sách, và đã đối chiếu với độ dài thanh đọc trên trục — khớp. Figure 1.2 (biểu đồ tròn ba chiều) có ghi nhãn phần trăm làm tròn tới số nguyên. Figure 1.4 (mảng biểu tượng) được đếm trực tiếp trên ảnh: mỗi mảng 100 hình người xếp 5 hàng × 20 cột; mảng trên có 6 hình tô đen, mảng dưới có 6 hình tô đen ở đúng các vị trí đó cộng 1 hình kẻ sọc ở hàng cuối.
 - **Dấu sao dưới hai bảng:** trong ebook, dấu `*` dưới Table 1.1 và Table 1.2 là liên kết tới phiên bản chữ của bảng (dành cho trình đọc màn hình) ở cuối sách, không phải chú thích. Chương có đúng năm chú thích dấu sao thật (về "excess deaths", về sự khác biệt giữa các bệnh viện, về chỉ số BMI, về phép tính 7,08%, về vị trí các biểu tượng); cả năm đã được đưa vào phần Nội dung chi tiết.

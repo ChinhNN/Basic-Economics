@@ -533,11 +533,11 @@ flowchart LR
   n0["`Chương 7: mọi con số từ mẫu chỉ là ước lượng và phải đi kèm khoảng bất định, bootstrap đo được độ bất định đó chỉ bằng máy tính`"]
   n1["`Hộp mở đầu và phần tiếp theo (trang PDF 133–134) — một ước lượng không kèm biên sai số là thông tin không đầy đủ`"]
   n0 --- n1
-  n2["`BBC tháng 1/2018: thất nghiệp ở Anh giảm 3.000 xuống 1,44 triệu, nhưng biên sai số ±77.000`"]
+  n2["`BBC tháng 1/2018: thất nghiệp ở Anh giảm 3.000 xuống 1,44 triệu, nhưng đó là ước lượng từ khảo sát khoảng 100.000 người, biên sai số ±77.000`"]
   n1 --- n2
   n3["`Thay đổi thật có thể từ giảm 80.000 tới tăng 74.000, nên dữ liệu không cho biết tăng hay giảm`"]
   n1 --- n3
-  n4["`Ở Mỹ, mức tăng 108.000 người thất nghiệp có biên sai số ±300.000`"]
+  n4["`Ở Mỹ, mức tăng 108.000 người thất nghiệp từ mẫu khoảng 60.000 hộ có biên sai số ±300.000`"]
   n1 --- n4
   n5["`Theo sách, thay đổi tính từ dữ liệu bảng lương ở Mỹ chính xác hơn, biên sai số khoảng ±100.000`"]
   n1 --- n5
@@ -549,59 +549,69 @@ flowchart LR
   n1 --- n8
   n9["`Mục “Numbers of Sexual Partners” phần 1 (trang PDF 134–136) — mẫu con lớn dần và vòng luẩn quẩn`"]
   n0 --- n9
-  n10["`Natsal-3, 796 đàn ông 35–44 tuổi tạm coi là tổng thể, phân phối số bạn tình lệch phải mạnh`"]
+  n10["`Natsal-3, 796 đàn ông 35–44 tuổi tạm coi là tổng thể, rút nối tiếp mẫu con lồng nhau 10, 50, 200 người`"]
   n9 --- n10
-  n11["`Mẫu con 10, 50, 200 người có trung bình 21,1, 18,8, 15,4, tiến dần tới 14,9 của cả 796 người`"]
+  n11["`Mẫu nhỏ lổn nhổn hơn, hình dạng dần tiến tới phân phối lệch phải của cả 796 người`"]
   n9 --- n11
-  n12["`Trung vị của các mẫu con ổn định hơn: 12, 9, 8, 8`"]
+  n12["`Mẫu con 10, 50, 200 người có trung bình 21,1, 18,8, 15,4, tiến dần tới 14,9 của cả 796 người`"]
   n9 --- n12
-  n13["`Muốn biết ước lượng dao động bao nhiêu khi lấy mẫu lại thì lại phải biết tổng thể`"]
+  n13["`Trung vị của các mẫu con ổn định hơn: 12, 9, 8, 8`"]
   n9 --- n13
-  n14["`Cách truyền thống giả định hình dạng tổng thể và dùng lý thuyết xác suất (Chương 9)`"]
+  n14["`Muốn biết ước lượng dao động bao nhiêu khi lấy mẫu lại thì lại phải biết tổng thể`"]
   n9 --- n14
-  n15["`Cách thay thế giả định tổng thể trông giống mẫu và lấy mẫu lại từ chính mẫu`"]
+  n15["`Cách truyền thống giả định hình dạng tổng thể và dùng lý thuyết xác suất (Chương 9)`"]
   n9 --- n15
-  n16["`Mục “Numbers of Sexual Partners” phần 2 (trang PDF 136–140) — bootstrap trung bình`"]
-  n0 --- n16
-  n17["`Bootstrap: rút có hoàn lại một mẫu cùng cỡ từ dữ liệu, tính lại thống kê, lặp 1.000 lần`"]
-  n16 --- n17
-  n18["`Ba mẫu bootstrap của mẫu 50 người cho trung bình 14,5, 26,5, 22,5`"]
-  n16 --- n18
-  n19["`Phân phối bootstrap hẹp dần khi cỡ mẫu tăng`"]
-  n16 --- n19
-  n20["`Phân phối 1.000 trung bình gần đối xứng dù dữ liệu gốc lệch mạnh, dấu hiệu của Định lý Giới hạn Trung tâm`"]
-  n16 --- n20
-  n21["`Khoảng chứa 95% trung bình bootstrap là khoảng bất định 95%`"]
-  n16 --- n21
-  n22["`Từ 10,4–34,6 với 10 người thu hẹp xuống 13,4–16,6 với 796 người`"]
-  n21 --- n22
-  n23["`Mọi khoảng đều chứa 14,9, độ rộng giảm gần theo căn bậc hai cỡ mẫu`"]
-  n21 --- n23
-  n24["`Mục “Numbers of Sexual Partners” phần 3 (trang PDF 140–142) — bootstrap đường hồi quy và giới hạn`"]
-  n0 --- n24
-  n25["`Độ dốc hồi quy chiều cao mẹ–con gái của Galton là 0,33, từ 433 cặp`"]
+  n16["`Định lý Giới hạn Trung tâm cho khoảng 95% là trung bình ± 1,96 s/√n`"]
+  n15 --- n16
+  n17["`Cách thay thế giả định tổng thể trông giống mẫu và lấy mẫu lại từ chính mẫu`"]
+  n9 --- n17
+  n18["`Mục “Numbers of Sexual Partners” phần 2 (trang PDF 136–140) — bootstrap trung bình`"]
+  n0 --- n18
+  n19["`Bootstrap: rút có hoàn lại một mẫu cùng cỡ từ dữ liệu, tính lại thống kê, lặp 1.000 lần`"]
+  n18 --- n19
+  n20["`Ba mẫu bootstrap của mẫu 50 người cho trung bình 14,5, 26,5, 22,5, tùy có rút trúng người khai 45 bạn tình hay không`"]
+  n18 --- n20
+  n21["`Tên gọi từ ý tưởng tự nâng mình lên bằng chính dây giày của mình`"]
+  n18 --- n21
+  n22["`Phân phối bootstrap hẹp dần khi cỡ mẫu tăng`"]
+  n18 --- n22
+  n23["`Phân phối 1.000 trung bình gần đối xứng dù dữ liệu gốc lệch mạnh, dấu hiệu của Định lý Giới hạn Trung tâm`"]
+  n18 --- n23
+  n24["`Khoảng chứa 95% trung bình bootstrap là khoảng bất định 95%, sách nói cũng có thể gọi là biên sai số`"]
+  n18 --- n24
+  n25["`Từ 10,4–34,6 với 10 người thu hẹp xuống 13,4–16,6 với 796 người`"]
   n24 --- n25
-  n26["`1.000 mẫu bootstrap cho khoảng 95% của độ dốc là 0,22–0,44`"]
+  n26["`Mọi khoảng đều chứa 14,9, độ rộng giảm gần theo căn bậc hai cỡ mẫu`"]
   n24 --- n26
-  n27["`Bootstrap trực quan, dựa sức máy tính, không cần giả định dạng tổng thể hay lý thuyết xác suất`"]
-  n24 --- n27
-  n28["`Thống kê từ mẫu bootstrap có xu hướng theo phân phối chuẩn khi dữ liệu lớn hơn, bất kể dạng phân phối gốc`"]
-  n24 --- n28
-  n29["`Bootstrap cồng kềnh với dữ liệu rất lớn, nơi lý thuyết xác suất cho công thức sẵn (Chương 8–9)`"]
-  n24 --- n29
-  n30["`Thông điệp xuyên suốt`"]
-  n0 --- n30
-  n31["`Thấy con số từ khảo sát, tìm biên sai số trước khi tin vào hướng thay đổi`"]
-  n30 --- n31
-  n32["`Đừng đồng nhất x% người trong mẫu với x% dân số`"]
-  n30 --- n32
-  n33["`Tăng cỡ mẫu 4 lần chỉ làm khoảng hẹp đi khoảng 2 lần`"]
-  n30 --- n33
-  n34["`Khoảng bất định chỉ đo may rủi khi chọn mẫu, không sửa được thiên lệch`"]
-  n30 --- n34
+  n27["`Mục “Numbers of Sexual Partners” phần 3 (trang PDF 140–142) — bootstrap đường hồi quy và giới hạn`"]
+  n0 --- n27
+  n28["`Độ dốc hồi quy chiều cao mẹ–con gái của Galton là 0,33, từ 433 cặp`"]
+  n27 --- n28
+  n29["`1.000 mẫu bootstrap cho khoảng 95% của độ dốc là 0,22–0,44`"]
+  n27 --- n29
+  n30["`Bootstrap trực quan, dựa sức máy tính, không cần giả định dạng tổng thể hay lý thuyết xác suất`"]
+  n27 --- n30
+  n31["`Thống kê từ mẫu bootstrap có xu hướng theo phân phối chuẩn khi dữ liệu lớn hơn, bất kể dạng phân phối gốc`"]
+  n27 --- n31
+  n32["`Bootstrap cồng kềnh với dữ liệu rất lớn, nơi lý thuyết xác suất cho công thức sẵn (Chương 8–9)`"]
+  n27 --- n32
+  n33["`Thông điệp xuyên suốt`"]
+  n0 --- n33
+  n34["`Chương dạy khoảng bất định trước xác suất, ngược thứ tự thường gặp của sách giáo khoa`"]
+  n33 --- n34
+  n35["`Thấy con số từ khảo sát, tìm biên sai số trước khi tin vào hướng thay đổi`"]
+  n33 --- n35
+  n36["`Đừng đồng nhất x% người trong mẫu với x% dân số`"]
+  n33 --- n36
+  n37["`Tăng cỡ mẫu 4 lần chỉ làm khoảng hẹp đi khoảng 2 lần`"]
+  n33 --- n37
+  n38["`Khoảng bất định chỉ đo may rủi khi chọn mẫu, không sửa được thiên lệch`"]
+  n33 --- n38
+  n39["`Ước lượng thì ai cũng đưa được, đánh giá thực tế sai số có thể có mới là then chốt của khoa học thống kê`"]
+  n33 --- n39
   class n0 root
-  class n1,n9,n16,n24,n30 branch
-  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n31,n32,n33,n34 leaf
+  class n1,n9,n18,n27,n33 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39 leaf
 ```
 
 ## Nguồn
@@ -624,7 +634,9 @@ Chương 7 đặt câu hỏi then chốt của suy luận thống kê: **một c
 - **Tên cơ quan:** sách viết "UK Office of National Statistics"; tên chính thức là Office *for* National Statistics (ONS) (theo hiểu biết của người tổng hợp).
 - **Chú thích dấu sao về dữ liệu bảng lương ở Mỹ viết chưa chặt:** chú thích nói "thay đổi thất nghiệp tính từ dữ liệu bảng lương" chính xác hơn, biên sai số khoảng ±100.000. Theo hiểu biết của người tổng hợp, khảo sát bảng lương của doanh nghiệp (khảo sát CES) đo thay đổi số *việc làm*, không đo số người thất nghiệp; số người thất nghiệp đến từ khảo sát hộ gia đình (khoảng 60.000 hộ) mà lời văn nhắc tới.
 - **"Table 2–2":** lời văn trang PDF 134 viết "Table 2–2" (dấu gạch) thay vì "Table 2.2" như cách đánh số ở các chương khác — lỗi đánh máy nhỏ.
-- **"Khoảng bất định gần như đối xứng" chỉ đúng tương đối:** sách nói tính đối xứng của phân phối bootstrap làm cho khoảng bất định gần đối xứng quanh ước lượng gốc. Người tổng hợp tính từ bảng khoảng bất định: với mẫu 10 người, khoảng 10,4–34,6 nằm dưới ước lượng 21,1 là 10,7 và trên 13,5; với 50 người: 6,6 và 8,4; với 200 người: 2,7 và 3,2; với 796 người: 1,5 và 1,7. Phía trên luôn dài hơn, phản ánh dữ liệu lệch phải; sự lệch giảm dần khi cỡ mẫu tăng. Tương tự, câu "hình dạng phân phối của thống kê không phụ thuộc vào hình dạng phân phối gốc" là cách nói mạnh: Định lý Giới hạn Trung tâm chỉ nói hình dạng *tiến dần* tới phân phối chuẩn khi cỡ mẫu tăng; với 10 người, phân phối bootstrap vẫn còn đuôi phải (đọc từ đồ thị: kéo dài tới khoảng 40 trong khi phía trái dừng ở khoảng 8).
+- **"Khoảng bất định gần như đối xứng" chỉ đúng tương đối:** sách nói tính đối xứng của phân phối bootstrap làm cho khoảng bất định gần đối xứng quanh ước lượng gốc. Người tổng hợp tính từ bảng khoảng bất định: với mẫu 10 người, khoảng 10,4–34,6 nằm dưới ước lượng 21,1 là 10,7 và trên 13,5; với 50 người: 6,6 và 8,4; với 200 người: 2,7 và 3,2; với 796 người: 1,5 và 1,7.
+
+  Phía trên luôn dài hơn, phản ánh dữ liệu lệch phải; sự lệch giảm dần khi cỡ mẫu tăng. Tương tự, câu "hình dạng phân phối của thống kê không phụ thuộc vào hình dạng phân phối gốc" là cách nói mạnh: Định lý Giới hạn Trung tâm chỉ nói hình dạng *tiến dần* tới phân phối chuẩn khi cỡ mẫu tăng; với 10 người, phân phối bootstrap vẫn còn đuôi phải (đọc từ đồ thị: kéo dài tới khoảng 40 trong khi phía trái dừng ở khoảng 8).
 - **"Khoảng bất định" và "biên sai số" được dùng như một:** sách gọi khoảng 95% là "uncertainty interval" và nói nó "cũng có thể gọi là margins of error". Trong cách dùng thông thường (và chính bảng thuật ngữ cuối sách), biên sai số thường chỉ *nửa độ rộng* (ví dụ ±77.000), còn khoảng là toàn bộ đoạn (ước lượng ± biên sai số). Bản tổng hợp giữ hai từ tách bạch.
 - **"Ít biến động" của độ dốc là tương đối:** sách nói các đường hồi quy bootstrap của dữ liệu mẹ–con gái "biến động tương đối ít" vì mẫu lớn, nhưng khoảng 95% của độ dốc là 0,22–0,44, tức cận trên gấp đôi cận dưới. Ít biến động ở đây là so với độ tản rất lớn của dữ liệu, không phải là độ dốc đã được xác định chính xác.
 - **Mẫu con lồng nhau:** các mẫu 10, 50, 200 được lấy *nối tiếp* ("tạm dừng khi đạt 10, 50 và 200"), nên mẫu 50 chứa mẫu 10, mẫu 200 chứa mẫu 50 (chú thích bảng khoảng bất định gọi là "nested random samples"). Vì vậy bốn ước lượng không độc lập với nhau.
