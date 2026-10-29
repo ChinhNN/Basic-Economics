@@ -1,18 +1,16 @@
 # Chương 1 — Vai trò của thuật toán trong tính toán (The Role of Algorithms in Computing)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần I "Foundations" (Nền tảng) — phần giới thiệu của Phần I (trang 1–4), và Chương 1 "The Role of Algorithms in Computing" (trang 5–15).
-**Tác giả:** Cormen (Đại học Dartmouth), Leiserson và Rivest (MIT), Stein (Đại học Columbia) — bốn nhà khoa học máy tính viết cuốn giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là "CLRS" theo chữ cái đầu tên bốn người.
-**Vị trí trong lập luận của cả cuốn sách:** Lời nói đầu ([00-loi-noi-dau.md](00-loi-noi-dau.md)) giới thiệu mục đích, cách tổ chức và cách dùng cuốn sách cho giảng viên, sinh viên và người làm nghề. Phần giới thiệu của Phần I cho người đọc bản đồ của năm chương nền tảng (Chương 1–5) và các Phụ lục A–D. Chương 1 không có thuật toán cụ thể nào: nó định nghĩa thuật toán là gì, bài toán tính toán và thực thể của bài toán là gì, thế nào là thuật toán đúng; liệt kê các loại bài toán mà thuật toán giải và chỉ tới các chương sẽ giải chúng; rồi lập luận rằng thuật toán là một **công nghệ** ngang hàng với phần cứng nhanh, bằng ví dụ sắp xếp 10 triệu số trên hai máy tính. Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) viết ra hai thuật toán sắp xếp đầu tiên — sắp xếp chèn và sắp xếp trộn — mà Chương 1 mới chỉ nêu thời gian chạy (khoảng c₁n² và c₂n lg n), và chứng minh tính đúng, phân tích thời gian chạy của chúng. Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) định nghĩa chặt chẽ ký hiệu tiệm cận (Θ, O, Ω) để nói chính xác điều mà Chương 1 nói bằng lời: "hệ số n lớn hơn hẳn hệ số lg n, hằng số nhân không quan trọng bằng".
-**Ý chính:** Tác giả muốn người đọc hiểu ba điều. (1) **Thuật toán** là một thủ tục tính toán được định nghĩa rõ ràng, nhận **đầu vào** và trả **đầu ra**; nó là công cụ giải một **bài toán tính toán** — ví dụ bài toán sắp xếp: nhận dãy n số ⟨a₁, a₂, …, aₙ⟩, trả một hoán vị ⟨a′₁, a′₂, …, a′ₙ⟩ sao cho a′₁ ≤ a′₂ ≤ ⋯ ≤ a′ₙ; thuật toán **đúng** khi với mọi thực thể đầu vào nó dừng với đầu ra đúng. (2) Thuật toán có mặt khắp nơi — giải mã gen người, định tuyến và tìm kiếm trên Internet, mật mã khoá công khai cho thương mại điện tử, quy hoạch tuyến tính để phân bổ tài nguyên, đường đi ngắn nhất, dãy con chung dài nhất, sắp xếp tô-pô, bao lồi, biến đổi Fourier nhanh — và các bài toán thú vị thường có rất nhiều lời giải ứng viên (2ᵐ, n!, 2ⁿ khả năng) nên không thể thử hết; một số bài toán (NP-đầy đủ, như bài toán người du lịch) chưa ai biết có thuật toán hiệu quả hay không, và chip nhiều lõi buộc ta thiết kế thuật toán song song. (3) Vì máy tính không nhanh vô hạn và bộ nhớ không miễn phí, **hiệu quả** của thuật toán quan trọng không kém phần cứng: máy A chạy 10 tỷ lệnh/giây dùng sắp xếp chèn (2n² lệnh) cần 20.000 giây (hơn 5,5 giờ) để sắp xếp 10 triệu số, còn máy B chậm hơn 1.000 lần (10 triệu lệnh/giây) dùng sắp xếp trộn (50 n lg n lệnh) chỉ cần khoảng 1.163 giây (dưới 20 phút) — nhanh hơn hơn 17 lần; với 100 triệu số, chênh lệch là hơn 23 ngày so với dưới 4 giờ. Kết luận: thuật toán là một công nghệ, và kiến thức thuật toán là điều phân biệt lập trình viên giỏi với người mới vào nghề.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chương 1 không có mục khó (mục đánh dấu sao `?` trong mục lục)**, không có pseudocode, không có định lý. Chỉ có một bảng (bảng trống của Problem 1-1, người đọc phải tự điền) và hai phép tính so sánh máy A với máy B.
-> - **Tên Phần I là "Foundations" (Nền tảng)**; trong bảng tên file của bộ tổng hợp này gọi là "Phần I Introduction" vì file gồm phần giới thiệu (Introduction) của Phần I. Trang 1–2 là trang tên sách và trang tên phần; nội dung phần giới thiệu nằm ở trang 3–4.
-> - **Chỗ lớp chữ PDF hỏng mà người tổng hợp đọc từ ảnh trang:** định nghĩa bài toán sắp xếp (trang 5: ⟨a₁, a₂, …, aₙ⟩ và a′₁ ≤ a′₂ ≤ ⋯ ≤ a′ₙ, lớp chữ mất dấu ≤ và dấu phẩy trên); hai phép tính máy A, máy B (trang 12–13: 2·(10⁷)² / 10¹⁰ = 20.000 giây và 50·10⁷ lg 10⁷ / 10⁷ ≈ 1.163 giây, lớp chữ mất dấu nhân, dấu ≈ và số mũ); thời gian chạy "c₁n · n" và "c₂n · lg n" (trang 12); các ký hiệu 2ᵐ, 2ⁿ, n! (trang 7–9, lớp chữ in "2m", "2n", "nŠ"); hàng √n của bảng Problem 1-1 (lớp chữ in "pn").
-> - **Mọi phép tính số trong chương đã được người tổng hợp kiểm tra lại và đều đúng:** 2·10¹⁴ / 10¹⁰ = 20.000 giây ≈ 5,56 giờ; 50 × lg 10⁷ = 50 × 23,25 ≈ 1.162,7 giây ≈ 19,4 phút; tỷ lệ 20.000 / 1.162,7 ≈ 17,2; với 10⁸ số: 2·10¹⁶ / 10¹⁰ = 2·10⁶ giây ≈ 23,1 ngày, và 50·10⁸·lg 10⁸ / 10⁷ = 500 × 26,58 ≈ 13.288 giây ≈ 3,7 giờ; lg 1000 ≈ 9,97 ≈ 10; lg 10⁶ ≈ 19,93 ≈ 20.
-> - **Số liệu đã lỗi thời (theo hiểu biết của người tổng hợp, không tra cứu):** sách nói Dự án Bộ gen người nhằm xác định "toàn bộ 100.000 gen" trong DNA người. Con số 100.000 là ước tính phổ biến trước khi dự án hoàn thành; sau khi giải trình tự xong (khoảng 2003–2004), số gen mã hoá protein được ước tính chỉ khoảng 20.000–25.000. Con số 3 tỷ cặp base vẫn đúng. Câu "máy 10 tỷ lệnh/giây nhanh hơn mọi máy tuần tự đơn lẻ lúc viết sách" cũng đã cũ: một lõi CPU hiện đại thực hiện được vài tỷ đến vài chục tỷ lệnh mỗi giây nhờ thực thi nhiều lệnh mỗi chu kỳ.
-> - **Thay đổi ở ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu và không chắc chi tiết:** Chương 1 vẫn giữ cấu trúc hai mục 1.1 và 1.2 cùng ví dụ máy A/máy B; các ví dụ ứng dụng được cập nhật và văn bản nhắc thêm tới học máy (machine learning) như một lĩnh vực mà bản thân nó là một tập hợp thuật toán. Pseudocode của ấn bản 4 đổi một số quy ước (ví dụ dùng chỉ số bắt đầu từ 1 kèm khai báo rõ hơn, in màu), nhưng điều đó không ảnh hưởng chương này vì chương không có pseudocode.
-> - **Một tham chiếu chéo trong sách được thay bằng nội dung:** sách gửi người đọc tới "Figure 33.6 trang 1029" để xem ví dụ bao lồi; bản tổng hợp tự đưa một ví dụ bao lồi có toạ độ cụ thể.
+Tác giả muốn người đọc hiểu ba điều.
+
+(1) **Thuật toán** là một thủ tục tính toán được định nghĩa rõ ràng, nhận **đầu vào** và trả **đầu ra**; nó là công cụ giải một **bài toán tính toán** — ví dụ bài toán sắp xếp: nhận dãy n số ⟨a₁, a₂, …, aₙ⟩, trả một hoán vị ⟨a′₁, a′₂, …, a′ₙ⟩ sao cho a′₁ ≤ a′₂ ≤ ⋯ ≤ a′ₙ; thuật toán **đúng** khi với mọi thực thể đầu vào nó dừng với đầu ra đúng.
+
+(2) Thuật toán có mặt khắp nơi — giải mã gen người, định tuyến và tìm kiếm trên Internet, mật mã khoá công khai cho thương mại điện tử, quy hoạch tuyến tính để phân bổ tài nguyên, đường đi ngắn nhất, dãy con chung dài nhất, sắp xếp tô-pô, bao lồi, biến đổi Fourier nhanh — và các bài toán thú vị thường có rất nhiều lời giải ứng viên (2ᵐ, n!, 2ⁿ khả năng) nên không thể thử hết; một số bài toán (NP-đầy đủ, như bài toán người du lịch) chưa ai biết có thuật toán hiệu quả hay không, và chip nhiều lõi buộc ta thiết kế thuật toán song song.
+
+(3) Vì máy tính không nhanh vô hạn và bộ nhớ không miễn phí, **hiệu quả** của thuật toán quan trọng không kém phần cứng: máy A chạy 10 tỷ lệnh/giây dùng sắp xếp chèn (2n² lệnh) cần 20.000 giây (hơn 5,5 giờ) để sắp xếp 10 triệu số, còn máy B chậm hơn 1.000 lần (10 triệu lệnh/giây) dùng sắp xếp trộn (50 n lg n lệnh) chỉ cần khoảng 1.163 giây (dưới 20 phút) — nhanh hơn hơn 17 lần; với 100 triệu số, chênh lệch là hơn 23 ngày so với dưới 4 giờ.
+
+Kết luận: thuật toán là một công nghệ, và kiến thức thuật toán là điều phân biệt lập trình viên giỏi với người mới vào nghề.
 
 ## Sơ đồ
 
@@ -409,7 +407,9 @@ Các danh sách này còn xa mới đầy đủ, nhưng thể hiện **hai đặ
 1. **Chúng có nhiều lời giải ứng viên**, và tuyệt đại đa số ứng viên không giải được bài toán đang xét. Tìm một lời giải đúng, hoặc lời giải "tốt nhất", có thể là thách thức lớn.
 2. **Chúng có ứng dụng thực tế.** Trong danh sách trên, đường đi ngắn nhất cho ví dụ dễ thấy nhất. Một công ty vận tải (xe tải hay đường sắt) có lợi ích tài chính khi tìm đường ngắn nhất qua mạng đường bộ hay đường sắt, vì đường ngắn hơn nghĩa là chi phí nhân công và nhiên liệu thấp hơn. Một nút định tuyến trên Internet có thể cần tìm đường ngắn nhất qua mạng để chuyển thông điệp nhanh. Một người muốn lái xe từ New York tới Boston có thể tìm chỉ dẫn trên một trang web hoặc dùng GPS khi lái.
 
-Không phải bài toán nào giải bằng thuật toán cũng có tập lời giải ứng viên dễ nhận ra. Ví dụ: cho một tập giá trị số là các mẫu của một tín hiệu, cần tính **biến đổi Fourier rời rạc (discrete Fourier transform)** của các mẫu. Biến đổi này chuyển từ miền thời gian sang miền tần số, tạo ra một tập hệ số số học cho phép xác định cường độ của các tần số trong tín hiệu đã lấy mẫu. Ngoài vai trò trung tâm trong xử lý tín hiệu, biến đổi Fourier rời rạc còn dùng trong nén dữ liệu và nhân đa thức, số nguyên lớn. Chương 30 đưa ra thuật toán hiệu quả, **biến đổi Fourier nhanh (FFT)**, và phác thảo thiết kế một mạch phần cứng tính FFT. (Ví dụ chạy tay với 4 mẫu (1, 0, −1, 0) cho hệ số (0, 2, 0, 2) — xem mục Khái niệm cần biết ở trên.)
+Không phải bài toán nào giải bằng thuật toán cũng có tập lời giải ứng viên dễ nhận ra. Ví dụ: cho một tập giá trị số là các mẫu của một tín hiệu, cần tính **biến đổi Fourier rời rạc (discrete Fourier transform)** của các mẫu. Biến đổi này chuyển từ miền thời gian sang miền tần số, tạo ra một tập hệ số số học cho phép xác định cường độ của các tần số trong tín hiệu đã lấy mẫu.
+
+Ngoài vai trò trung tâm trong xử lý tín hiệu, biến đổi Fourier rời rạc còn dùng trong nén dữ liệu và nhân đa thức, số nguyên lớn. Chương 30 đưa ra thuật toán hiệu quả, **biến đổi Fourier nhanh (FFT)**, và phác thảo thiết kế một mạch phần cứng tính FFT. (Ví dụ chạy tay với 4 mẫu (1, 0, −1, 0) cho hệ số (0, 2, 0, 2) — xem mục Khái niệm cần biết ở trên.)
 
 #### Cấu trúc dữ liệu (Data structures, trang 9)
 
@@ -438,11 +438,17 @@ Ví dụ cụ thể: một công ty giao hàng có kho trung tâm. Mỗi ngày, 
 
 #### Song song (Parallelism, trang 10)
 
-Trong nhiều năm, người ta có thể trông vào việc tốc độ xung nhịp của bộ xử lý tăng đều đặn. Nhưng giới hạn vật lý là rào cản cơ bản cho việc tăng mãi xung nhịp: vì **mật độ công suất tăng nhanh hơn tuyến tính (superlinearly)** theo xung nhịp, chip có nguy cơ chảy khi xung nhịp đủ cao. Vì vậy, để thực hiện nhiều phép tính hơn mỗi giây, chip được thiết kế chứa không chỉ một mà nhiều **"lõi" (cores)** xử lý. Có thể ví các máy tính **đa lõi (multicore)** này như nhiều máy tính tuần tự trên cùng một chip; nói cách khác, chúng là một loại **"máy tính song song" (parallel computer)**. Để khai thác hiệu năng tốt nhất của máy đa lõi, cần thiết kế thuật toán có tính đến song song. Chương 27 trình bày một mô hình cho thuật toán **"đa luồng" (multithreaded)**, tận dụng nhiều lõi. Mô hình này có ưu điểm về lý thuyết và là nền tảng của nhiều chương trình máy tính thành công, trong đó có một chương trình cờ vua vô địch.
+Trong nhiều năm, người ta có thể trông vào việc tốc độ xung nhịp của bộ xử lý tăng đều đặn. Nhưng giới hạn vật lý là rào cản cơ bản cho việc tăng mãi xung nhịp: vì **mật độ công suất tăng nhanh hơn tuyến tính (superlinearly)** theo xung nhịp, chip có nguy cơ chảy khi xung nhịp đủ cao.
+
+Vì vậy, để thực hiện nhiều phép tính hơn mỗi giây, chip được thiết kế chứa không chỉ một mà nhiều **"lõi" (cores)** xử lý. Có thể ví các máy tính **đa lõi (multicore)** này như nhiều máy tính tuần tự trên cùng một chip; nói cách khác, chúng là một loại **"máy tính song song" (parallel computer)**.
+
+Để khai thác hiệu năng tốt nhất của máy đa lõi, cần thiết kế thuật toán có tính đến song song. Chương 27 trình bày một mô hình cho thuật toán **"đa luồng" (multithreaded)**, tận dụng nhiều lõi. Mô hình này có ưu điểm về lý thuyết và là nền tảng của nhiều chương trình máy tính thành công, trong đó có một chương trình cờ vua vô địch.
 
 #### Ví dụ hôm nay
 
-Mọi bài toán trong Mục 1.1 đều đang chạy hằng ngày: đường đi ngắn nhất trong ứng dụng bản đồ và giao thức định tuyến mạng; dãy con chung dài nhất (và họ hàng của nó, khoảng cách chỉnh sửa) trong công cụ so sánh tệp `diff`, hệ quản lý phiên bản và căn chỉnh chuỗi gen; sắp xếp tô-pô trong hệ thống build (make, các trình quản lý gói) để biết biên dịch hay cài đặt thứ gì trước; bao lồi trong đồ hoạ máy tính, phát hiện va chạm và hệ thông tin địa lý; FFT trong nén âm thanh, ảnh, xử lý tín hiệu không dây; quy hoạch tuyến tính trong lập lịch hàng không và chuỗi cung ứng; mật mã khoá công khai trong mọi kết nối HTTPS. Bài toán người du lịch và các biến thể (định tuyến xe) là bài toán thường ngày của các công ty giao hàng, được giải bằng heuristic và thuật toán xấp xỉ. Còn song song thì nay là mặc định: điện thoại có nhiều lõi, và GPU có hàng nghìn lõi (theo hiểu biết của người tổng hợp).
+Mọi bài toán trong Mục 1.1 đều đang chạy hằng ngày: đường đi ngắn nhất trong ứng dụng bản đồ và giao thức định tuyến mạng; dãy con chung dài nhất (và họ hàng của nó, khoảng cách chỉnh sửa) trong công cụ so sánh tệp `diff`, hệ quản lý phiên bản và căn chỉnh chuỗi gen; sắp xếp tô-pô trong hệ thống build (make, các trình quản lý gói) để biết biên dịch hay cài đặt thứ gì trước; bao lồi trong đồ hoạ máy tính, phát hiện va chạm và hệ thông tin địa lý; FFT trong nén âm thanh, ảnh, xử lý tín hiệu không dây; quy hoạch tuyến tính trong lập lịch hàng không và chuỗi cung ứng; mật mã khoá công khai trong mọi kết nối HTTPS.
+
+Bài toán người du lịch và các biến thể (định tuyến xe) là bài toán thường ngày của các công ty giao hàng, được giải bằng heuristic và thuật toán xấp xỉ. Còn song song thì nay là mặc định: điện thoại có nhiều lõi, và GPU có hàng nghìn lõi (theo hiểu biết của người tổng hợp).
 
 ### 4. Thuật toán như một công nghệ (1.2 Algorithms as a technology, trang 11–14)
 
@@ -460,7 +466,9 @@ Các thuật toán được nghĩ ra để giải cùng một bài toán thườ
 
 Ví dụ, ở Chương 2 sẽ gặp hai thuật toán sắp xếp. Thuật toán thứ nhất, **sắp xếp chèn (insertion sort)**, mất thời gian xấp xỉ c₁n² để sắp xếp n phần tử, trong đó c₁ là hằng số không phụ thuộc n — tức thời gian xấp xỉ tỷ lệ với n². Thuật toán thứ hai, **sắp xếp trộn (merge sort)**, mất thời gian xấp xỉ c₂n lg n, trong đó lg n là log₂ n và c₂ là một hằng số khác cũng không phụ thuộc n. Sắp xếp chèn thường có hệ số hằng nhỏ hơn sắp xếp trộn, nên c₁ < c₂.
 
-Sách sẽ cho thấy hệ số hằng ảnh hưởng tới thời gian chạy ít hơn rất nhiều so với sự phụ thuộc vào cỡ đầu vào n. Viết thời gian chạy của sắp xếp chèn là c₁n · n và của sắp xếp trộn là c₂n · lg n. Khi đó thấy rằng ở chỗ sắp xếp chèn có thừa số n, sắp xếp trộn có thừa số lg n, nhỏ hơn rất nhiều. (Ví dụ, khi n = 1000 thì lg n xấp xỉ 10, và khi n bằng một triệu thì lg n chỉ xấp xỉ 20.) Dù sắp xếp chèn thường chạy nhanh hơn sắp xếp trộn với đầu vào nhỏ, một khi n đủ lớn, lợi thế lg n so với n của sắp xếp trộn sẽ bù dư cho chênh lệch hệ số hằng. Dù c₁ nhỏ hơn c₂ bao nhiêu, luôn có một **điểm giao (crossover point)** mà vượt qua đó sắp xếp trộn nhanh hơn.
+Sách sẽ cho thấy hệ số hằng ảnh hưởng tới thời gian chạy ít hơn rất nhiều so với sự phụ thuộc vào cỡ đầu vào n. Viết thời gian chạy của sắp xếp chèn là c₁n · n và của sắp xếp trộn là c₂n · lg n. Khi đó thấy rằng ở chỗ sắp xếp chèn có thừa số n, sắp xếp trộn có thừa số lg n, nhỏ hơn rất nhiều. (Ví dụ, khi n = 1000 thì lg n xấp xỉ 10, và khi n bằng một triệu thì lg n chỉ xấp xỉ 20.)
+
+Dù sắp xếp chèn thường chạy nhanh hơn sắp xếp trộn với đầu vào nhỏ, một khi n đủ lớn, lợi thế lg n so với n của sắp xếp trộn sẽ bù dư cho chênh lệch hệ số hằng. Dù c₁ nhỏ hơn c₂ bao nhiêu, luôn có một **điểm giao (crossover point)** mà vượt qua đó sắp xếp trộn nhanh hơn.
 
 Lý do điểm giao luôn tồn tại (lập luận của người tổng hợp, làm rõ câu của sách): sắp xếp chèn nhanh hơn khi c₁n² < c₂n lg n, tức khi n / lg n < c₂ / c₁. Vế trái n / lg n tăng không giới hạn khi n tăng, còn vế phải là hằng số; nên với mọi c₁, c₂ dương, tồn tại n₀ mà mọi n ≥ n₀ đều có n / lg n > c₂ / c₁, tức sắp xếp trộn nhanh hơn.
 
@@ -526,7 +534,9 @@ Có nền tảng vững về kiến thức và kỹ thuật thuật toán là m�
 
 #### Ví dụ hôm nay
 
-Ví dụ máy A/máy B vẫn đúng y nguyên về bản chất. Thư viện chuẩn của các ngôn ngữ hiện đại (theo hiểu biết của người tổng hợp) đều dùng thuật toán sắp xếp O(n lg n) cho mảng lớn — Timsort trong Python và Java (cho đối tượng), introsort hoặc pdqsort trong C++ và Rust — nhưng lại chuyển sang sắp xếp chèn cho đoạn con ngắn (cỡ vài chục phần tử), đúng vì sắp xếp chèn có hệ số hằng nhỏ hơn dưới điểm giao. Những sự cố hiệu năng phổ biến trong phần mềm thực tế thường là một vòng lặp bậc hai vô tình (ví dụ tìm kiếm tuyến tính trong danh sách bên trong một vòng lặp) chạy tốt khi thử với dữ liệu nhỏ rồi sập khi dữ liệu lớn lên — chính bài học "khác biệt chỉ lộ ra ở cỡ lớn" của Mục 1.2.
+Ví dụ máy A/máy B vẫn đúng y nguyên về bản chất. Thư viện chuẩn của các ngôn ngữ hiện đại (theo hiểu biết của người tổng hợp) đều dùng thuật toán sắp xếp O(n lg n) cho mảng lớn — Timsort trong Python và Java (cho đối tượng), introsort hoặc pdqsort trong C++ và Rust — nhưng lại chuyển sang sắp xếp chèn cho đoạn con ngắn (cỡ vài chục phần tử), đúng vì sắp xếp chèn có hệ số hằng nhỏ hơn dưới điểm giao.
+
+Những sự cố hiệu năng phổ biến trong phần mềm thực tế thường là một vòng lặp bậc hai vô tình (ví dụ tìm kiếm tuyến tính trong danh sách bên trong một vòng lặp) chạy tốt khi thử với dữ liệu nhỏ rồi sập khi dữ liệu lớn lên — chính bài học "khác biệt chỉ lộ ra ở cỡ lớn" của Mục 1.2.
 
 ## Bài tập và bài toán cuối chương
 
@@ -616,7 +626,11 @@ Thuật toán — thủ tục tính toán được định nghĩa rõ ràng bi�
 
 ### Trong ngôn ngữ khoa học máy tính
 
-Bài toán là một quan hệ giữa tập đầu vào và tập đầu ra; thuật toán đúng là thủ tục dừng với mọi đầu vào và trả một đầu ra thoả quan hệ. Bài toán sắp xếp: đầu vào ⟨a₁, …, aₙ⟩, đầu ra hoán vị π sao cho a_π(1) ≤ a_π(2) ≤ ⋯ ≤ a_π(n). So sánh hiệu quả: T_chèn(n) ≈ c₁n² = Θ(n²), T_trộn(n) ≈ c₂n lg n = Θ(n lg n) (ký hiệu Θ định nghĩa ở Chương 3); vì lim (c₂n lg n) / (c₁n²) = 0 khi n → ∞ với mọi c₁, c₂ > 0, tồn tại n₀ để T_trộn(n) < T_chèn(n) với mọi n ≥ n₀. Ví dụ số: 2(10⁷)² / 10¹⁰ = 2 × 10⁴ giây so với 50 · 10⁷ lg 10⁷ / 10⁷ ≈ 1,163 × 10³ giây. Không gian tìm kiếm vét cạn: 2ᵐ (dãy con), n! (thứ tự tô-pô), 2ⁿ (tập đỉnh bao lồi), (n − 1)!/2 (vòng người du lịch). Bài toán NP-đầy đủ: chưa biết có thuật toán thời gian đa thức; nếu một bài toán NP-đầy đủ thuộc P thì P = NP.
+Bài toán là một quan hệ giữa tập đầu vào và tập đầu ra; thuật toán đúng là thủ tục dừng với mọi đầu vào và trả một đầu ra thoả quan hệ. Bài toán sắp xếp: đầu vào ⟨a₁, …, aₙ⟩, đầu ra hoán vị π sao cho a_π(1) ≤ a_π(2) ≤ ⋯ ≤ a_π(n).
+
+So sánh hiệu quả: T_chèn(n) ≈ c₁n² = Θ(n²), T_trộn(n) ≈ c₂n lg n = Θ(n lg n) (ký hiệu Θ định nghĩa ở Chương 3); vì lim (c₂n lg n) / (c₁n²) = 0 khi n → ∞ với mọi c₁, c₂ > 0, tồn tại n₀ để T_trộn(n) < T_chèn(n) với mọi n ≥ n₀. Ví dụ số: 2(10⁷)² / 10¹⁰ = 2 × 10⁴ giây so với 50 · 10⁷ lg 10⁷ / 10⁷ ≈ 1,163 × 10³ giây.
+
+Không gian tìm kiếm vét cạn: 2ᵐ (dãy con), n! (thứ tự tô-pô), 2ⁿ (tập đỉnh bao lồi), (n − 1)!/2 (vòng người du lịch). Bài toán NP-đầy đủ: chưa biết có thuật toán thời gian đa thức; nếu một bài toán NP-đầy đủ thuộc P thì P = NP.
 
 ## Thuật ngữ
 
@@ -738,7 +752,9 @@ Tác giả không so hai thuật toán trên cùng một máy, mà cho sắp x�
 
 ### Điểm yếu: mô hình "số lệnh chia tốc độ" bỏ qua bộ nhớ đệm và phần cứng hiện đại
 
-Mô hình thời gian = số lệnh / lệnh mỗi giây là đúng tinh thần nhưng đơn giản hoá. Trên phần cứng hiện đại (theo hiểu biết của người tổng hợp), thời gian thực phụ thuộc nhiều vào cách truy cập bộ nhớ: một lần trượt bộ nhớ đệm có thể tốn hàng trăm chu kỳ. Sắp xếp chèn truy cập bộ nhớ tuần tự, rất thân thiện với bộ nhớ đệm, nên điểm giao thực tế với sắp xếp trộn cao hơn mô hình đơn giản dự đoán — đó là lý do thư viện chuẩn dùng sắp xếp chèn cho đoạn con tới vài chục phần tử. Tuy nhiên điều này chỉ dịch chuyển điểm giao, không phủ nhận luận điểm: với n hàng triệu, không mẹo bộ nhớ đệm nào cứu được thuật toán n². Chương 18 (B-cây) và Chương 27 (đa luồng) là hai chỗ sách thừa nhận rằng mô hình máy đơn giản cần mở rộng.
+Mô hình thời gian = số lệnh / lệnh mỗi giây là đúng tinh thần nhưng đơn giản hoá. Trên phần cứng hiện đại (theo hiểu biết của người tổng hợp), thời gian thực phụ thuộc nhiều vào cách truy cập bộ nhớ: một lần trượt bộ nhớ đệm có thể tốn hàng trăm chu kỳ. Sắp xếp chèn truy cập bộ nhớ tuần tự, rất thân thiện với bộ nhớ đệm, nên điểm giao thực tế với sắp xếp trộn cao hơn mô hình đơn giản dự đoán — đó là lý do thư viện chuẩn dùng sắp xếp chèn cho đoạn con tới vài chục phần tử.
+
+Tuy nhiên điều này chỉ dịch chuyển điểm giao, không phủ nhận luận điểm: với n hàng triệu, không mẹo bộ nhớ đệm nào cứu được thuật toán n². Chương 18 (B-cây) và Chương 27 (đa luồng) là hai chỗ sách thừa nhận rằng mô hình máy đơn giản cần mở rộng.
 
 ### Chương đóng vai trò mục lục có lý do: mỗi ví dụ là lời hứa của một chương sau
 
@@ -757,3 +773,141 @@ Bài tập 1.2-2 (2 ≤ n ≤ 43) và 1.2-3 (n = 15) là hai phép tính điểm
 - **Phỏng vấn kỹ thuật:** câu hỏi "độ phức tạp của lời giải này là gì, có làm tốt hơn được không" chính là câu hỏi của Mục 1.2. Thói quen phát biểu rõ đầu vào, đầu ra, ràng buộc (như sách phát biểu bài toán sắp xếp) và hỏi lại các trường hợp biên (phần tử trùng nhau, dãy rỗng) là điểm cộng.
 - **Lập trình thi đấu:** quy tắc kinh nghiệm phổ biến là máy chấm thực hiện cỡ 10⁸ phép tính đơn giản mỗi giây; với n = 10⁵, lời giải n² (10¹⁰) bị quá thời gian, n lg n (khoảng 1,7 × 10⁶) thì thoải mái — một phiên bản đời thường của bảng Problem 1-1.
 - **Kỹ thuật phần mềm:** trước khi tối ưu vi mô hay mở rộng phần cứng, hãy đo cỡ dữ liệu và tìm thành phần có tốc độ tăng cao nhất; một thay đổi thuật toán thường đem lại nhiều hơn mọi cải tiến khác. Khi gặp bài toán lập lịch, phân bổ hay định tuyến có vẻ "đơn giản", hãy nghĩ tới khả năng nó là NP-đầy đủ trước khi hứa một lời giải tối ưu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Phần I (phần giới thiệu) và Chương 1 trên một trang: sáu nhánh lớn đi theo trình tự bản gốc — bản đồ năm chương nền tảng, định nghĩa thuật toán và tính đúng (Mục 1.1), các loại bài toán thuật toán giải, cấu trúc dữ liệu, kỹ thuật, bài toán khó và song song, ví dụ máy A với máy B (Mục 1.2), thuật toán như một công nghệ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: thuật toán là một công nghệ ngang hàng phần cứng — khác biệt giữa thuật toán thường lớn hơn khác biệt giữa các máy`"]
+  n1["`Phần I giới thiệu (trang 1–4) — bản đồ năm chương nền tảng`"]
+  n0 --- n1
+  n2["`Chương 1 định nghĩa thuật toán và lập luận nó là một công nghệ`"]
+  n1 --- n2
+  n3["`Chương 2: sắp xếp chèn (tăng dần) và sắp xếp trộn (chia để trị) viết bằng mã giả`"]
+  n1 --- n3
+  n4["`Chương 3: ký hiệu tiệm cận Θ, O, Ω để chặn trên và chặn dưới thời gian chạy`"]
+  n1 --- n4
+  n5["`Chương 4: phương trình truy hồi, phương pháp chính, nhân ma trận Strassen`"]
+  n1 --- n5
+  n6["`Chương 5: phân tích xác suất và thuật toán ngẫu nhiên, dùng để không đầu vào nào luôn gây chạy chậm`"]
+  n1 --- n6
+  n7["`Phụ lục A–D là tài liệu toán tham khảo: tổng, tập hợp, đếm và xác suất, ma trận`"]
+  n1 --- n7
+  n8["`Mục 1.1 — Thuật toán là gì và khi nào là đúng`"]
+  n0 --- n8
+  n9["`Thuật toán: thủ tục tính toán định nghĩa rõ, biến đầu vào thành đầu ra`"]
+  n8 --- n9
+  n10["`Bài toán tính toán nêu quan hệ đầu vào–đầu ra, thuật toán là cách cụ thể đạt quan hệ đó`"]
+  n8 --- n10
+  n11["`Bài toán sắp xếp: dãy n số → hoán vị thỏa a′₁ ≤ a′₂ ≤ ⋯ ≤ a′ₙ`"]
+  n8 --- n11
+  n12["`Thực thể ⟨31, 41, 59, 26, 41, 58⟩ cho ⟨26, 31, 41, 41, 58, 59⟩, thứ tự không giảm vì có hai số 41`"]
+  n8 --- n12
+  n13["`Thuật toán đúng: với MỌI thực thể đầu vào, nó dừng với đầu ra đúng`"]
+  n8 --- n13
+  n14["`Thuật toán sai vẫn hữu ích nếu kiểm soát được tỷ lệ sai, ví dụ kiểm tra số nguyên tố ở Chương 31`"]
+  n8 --- n14
+  n15["`Thuật toán sắp xếp tốt nhất tùy số phần tử, mức đã sắp xếp, giới hạn giá trị, kiến trúc máy, loại bộ nhớ`"]
+  n8 --- n15
+  n16["`Mục 1.1 — Thuật toán giải những loại bài toán nào`"]
+  n0 --- n16
+  n17["`Bốn lĩnh vực: Bộ gen người, Internet, thương mại điện tử (mật mã khóa công khai), phân bổ tài nguyên bằng quy hoạch tuyến tính`"]
+  n16 --- n17
+  n18["`Đường đi ngắn nhất trên bản đồ mô hình hóa bằng đồ thị (Chương 24)`"]
+  n16 --- n18
+  n19["`Dãy con chung dài nhất: 2ᵐ và 2ⁿ dãy con nên phải dùng quy hoạch động (Chương 15)`"]
+  n16 --- n19
+  n20["`Sắp xếp tô-pô các chi tiết máy: n! thứ tự, không thể thử hết (Chương 22)`"]
+  n16 --- n20
+  n21["`Bao lồi của n điểm: 2ⁿ tập con có thể là tập đỉnh (Chương 33)`"]
+  n16 --- n21
+  n22["`Biến đổi Fourier rời rạc không có tập lời giải ứng viên rõ ràng, giải bằng FFT (Chương 30)`"]
+  n16 --- n22
+  n23["`Đặc điểm chung: rất nhiều lời giải ứng viên, đại đa số sai, và có ứng dụng thực tế`"]
+  n16 --- n23
+  n24["`Mục 1.1 — Cấu trúc dữ liệu, kỹ thuật, bài toán khó, song song`"]
+  n0 --- n24
+  n25["`Không cấu trúc dữ liệu nào tốt cho mọi mục đích, phải biết điểm mạnh và giới hạn của nhiều cấu trúc`"]
+  n24 --- n25
+  n26["`Sách dạy kỹ thuật thiết kế và phân tích chứ không chỉ là sách công thức nấu ăn`"]
+  n24 --- n26
+  n27["`NP-đầy đủ: chưa ai tìm ra thuật toán hiệu quả, cũng chưa ai chứng minh không tồn tại`"]
+  n24 --- n27
+  n28["`Nếu một bài toán NP-đầy đủ có thuật toán hiệu quả thì tất cả đều có`"]
+  n24 --- n28
+  n29["`Xe giao hàng về kho với quãng đường nhỏ nhất là bài toán người du lịch, dùng thuật toán xấp xỉ (Chương 35)`"]
+  n24 --- n29
+  n30["`Xung nhịp không tăng mãi vì mật độ công suất tăng nhanh hơn tuyến tính → chip đa lõi, thuật toán đa luồng (Chương 27)`"]
+  n24 --- n30
+  n31["`Mục 1.2 — Hiệu quả: máy A chạy sắp xếp chèn so với máy B chạy sắp xếp trộn`"]
+  n0 --- n31
+  n32["`Máy nhanh vô hạn vẫn cần thuật toán để chứng minh dừng và đúng, nhưng thời gian và bộ nhớ là tài nguyên có hạn`"]
+  n31 --- n32
+  n33["`Sắp xếp chèn khoảng c₁n², sắp xếp trộn khoảng c₂n lg n, thường c₁ nhỏ hơn c₂`"]
+  n31 --- n33
+  n34["`Dù c₁ nhỏ hơn c₂ bao nhiêu, luôn có điểm giao mà vượt qua đó sắp xếp trộn nhanh hơn`"]
+  n31 --- n34
+  n35["`Máy A 10¹⁰ lệnh/giây, 2n² lệnh: 10 triệu số mất 20 nghìn giây, hơn 5,5 giờ`"]
+  n31 --- n35
+  n36["`Máy B chậm hơn 1000 lần, 50 n lg n lệnh: khoảng 1163 giây, dưới 20 phút, nhanh hơn A hơn 17 lần`"]
+  n31 --- n36
+  n37["`Với 100 triệu số: hơn 23 ngày so với dưới 4 giờ — bài toán càng lớn, lợi thế càng lớn`"]
+  n31 --- n37
+  n38["`Problem 1-1: từ 1 giây lên 1 thế kỷ, thuật toán 2ⁿ chỉ tăng cỡ bài toán từ 19 lên 51, n! từ 9 lên 17`"]
+  n31 --- n38
+  n39["`Mục 1.2 — Thuật toán và các công nghệ khác`"]
+  n0 --- n39
+  n40["`Hiệu năng cả hệ thống phụ thuộc chọn thuật toán hiệu quả không kém chọn phần cứng nhanh`"]
+  n39 --- n40
+  n41["`Dịch vụ Web chỉ đường cần thuật toán đường đi ngắn nhất, vẽ bản đồ, nội suy địa chỉ`"]
+  n39 --- n41
+  n42["`Ứng dụng không cần thuật toán vẫn dựa vào thuật toán qua phần cứng, giao diện đồ họa, định tuyến mạng, trình biên dịch`"]
+  n39 --- n42
+  n43["`Máy càng mạnh thì bài toán càng lớn, và khác biệt thuật toán lộ rõ nhất ở cỡ lớn`"]
+  n39 --- n43
+  n44["`Nền tảng thuật toán vững phân biệt lập trình viên thực sự giỏi với người mới`"]
+  n39 --- n44
+  n45["`Thông điệp xuyên suốt`"]
+  n0 --- n45
+  n46["`Phát biểu bài toán chính xác trước, rồi chứng minh thuật toán đúng với mọi đầu vào`"]
+  n45 --- n46
+  n47["`Tốc độ tăng theo n quan trọng hơn hệ số hằng — tiền đề cho ký hiệu tiệm cận ở Chương 3`"]
+  n45 --- n47
+  n48["`Không gian lời giải khổng lồ là lý do cần ngành thuật toán thay cho thử hết`"]
+  n45 --- n48
+  class n0 root
+  class n1,n8,n16,n24,n31,n39,n45 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n46,n47,n48 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần I "Foundations" (Nền tảng) — phần giới thiệu của Phần I (trang 1–4), và Chương 1 "The Role of Algorithms in Computing" (trang 5–15).
+
+## Tác giả
+
+Cormen (Đại học Dartmouth), Leiserson và Rivest (MIT), Stein (Đại học Columbia) — bốn nhà khoa học máy tính viết cuốn giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là "CLRS" theo chữ cái đầu tên bốn người.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Lời nói đầu ([00-loi-noi-dau.md](00-loi-noi-dau.md)) giới thiệu mục đích, cách tổ chức và cách dùng cuốn sách cho giảng viên, sinh viên và người làm nghề. Phần giới thiệu của Phần I cho người đọc bản đồ của năm chương nền tảng (Chương 1–5) và các Phụ lục A–D.
+
+Chương 1 không có thuật toán cụ thể nào: nó định nghĩa thuật toán là gì, bài toán tính toán và thực thể của bài toán là gì, thế nào là thuật toán đúng; liệt kê các loại bài toán mà thuật toán giải và chỉ tới các chương sẽ giải chúng; rồi lập luận rằng thuật toán là một **công nghệ** ngang hàng với phần cứng nhanh, bằng ví dụ sắp xếp 10 triệu số trên hai máy tính.
+
+Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) viết ra hai thuật toán sắp xếp đầu tiên — sắp xếp chèn và sắp xếp trộn — mà Chương 1 mới chỉ nêu thời gian chạy (khoảng c₁n² và c₂n lg n), và chứng minh tính đúng, phân tích thời gian chạy của chúng. Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) định nghĩa chặt chẽ ký hiệu tiệm cận (Θ, O, Ω) để nói chính xác điều mà Chương 1 nói bằng lời: "hệ số n lớn hơn hẳn hệ số lg n, hằng số nhân không quan trọng bằng".
+
+## Lưu ý
+
+- **Chương 1 không có mục khó (mục đánh dấu sao `?` trong mục lục)**, không có pseudocode, không có định lý. Chỉ có một bảng (bảng trống của Problem 1-1, người đọc phải tự điền) và hai phép tính so sánh máy A với máy B.
+- **Tên Phần I là "Foundations" (Nền tảng)**; trong bảng tên file của bộ tổng hợp này gọi là "Phần I Introduction" vì file gồm phần giới thiệu (Introduction) của Phần I. Trang 1–2 là trang tên sách và trang tên phần; nội dung phần giới thiệu nằm ở trang 3–4.
+- **Chỗ lớp chữ PDF hỏng mà người tổng hợp đọc từ ảnh trang:** định nghĩa bài toán sắp xếp (trang 5: ⟨a₁, a₂, …, aₙ⟩ và a′₁ ≤ a′₂ ≤ ⋯ ≤ a′ₙ, lớp chữ mất dấu ≤ và dấu phẩy trên); hai phép tính máy A, máy B (trang 12–13: 2·(10⁷)² / 10¹⁰ = 20.000 giây và 50·10⁷ lg 10⁷ / 10⁷ ≈ 1.163 giây, lớp chữ mất dấu nhân, dấu ≈ và số mũ); thời gian chạy "c₁n · n" và "c₂n · lg n" (trang 12); các ký hiệu 2ᵐ, 2ⁿ, n! (trang 7–9, lớp chữ in "2m", "2n", "nŠ"); hàng √n của bảng Problem 1-1 (lớp chữ in "pn").
+- **Mọi phép tính số trong chương đã được người tổng hợp kiểm tra lại và đều đúng:** 2·10¹⁴ / 10¹⁰ = 20.000 giây ≈ 5,56 giờ; 50 × lg 10⁷ = 50 × 23,25 ≈ 1.162,7 giây ≈ 19,4 phút; tỷ lệ 20.000 / 1.162,7 ≈ 17,2; với 10⁸ số: 2·10¹⁶ / 10¹⁰ = 2·10⁶ giây ≈ 23,1 ngày, và 50·10⁸·lg 10⁸ / 10⁷ = 500 × 26,58 ≈ 13.288 giây ≈ 3,7 giờ; lg 1000 ≈ 9,97 ≈ 10; lg 10⁶ ≈ 19,93 ≈ 20.
+- **Số liệu đã lỗi thời (theo hiểu biết của người tổng hợp, không tra cứu):** sách nói Dự án Bộ gen người nhằm xác định "toàn bộ 100.000 gen" trong DNA người. Con số 100.000 là ước tính phổ biến trước khi dự án hoàn thành; sau khi giải trình tự xong (khoảng 2003–2004), số gen mã hoá protein được ước tính chỉ khoảng 20.000–25.000. Con số 3 tỷ cặp base vẫn đúng. Câu "máy 10 tỷ lệnh/giây nhanh hơn mọi máy tuần tự đơn lẻ lúc viết sách" cũng đã cũ: một lõi CPU hiện đại thực hiện được vài tỷ đến vài chục tỷ lệnh mỗi giây nhờ thực thi nhiều lệnh mỗi chu kỳ.
+- **Thay đổi ở ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu và không chắc chi tiết:** Chương 1 vẫn giữ cấu trúc hai mục 1.1 và 1.2 cùng ví dụ máy A/máy B; các ví dụ ứng dụng được cập nhật và văn bản nhắc thêm tới học máy (machine learning) như một lĩnh vực mà bản thân nó là một tập hợp thuật toán. Pseudocode của ấn bản 4 đổi một số quy ước (ví dụ dùng chỉ số bắt đầu từ 1 kèm khai báo rõ hơn, in màu), nhưng điều đó không ảnh hưởng chương này vì chương không có pseudocode.
+- **Một tham chiếu chéo trong sách được thay bằng nội dung:** sách gửi người đọc tới "Figure 33.6 trang 1029" để xem ví dụ bao lồi; bản tổng hợp tự đưa một ví dụ bao lồi có toạ độ cụ thể.

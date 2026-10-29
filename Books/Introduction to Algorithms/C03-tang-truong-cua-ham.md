@@ -1,17 +1,16 @@
 # Chương 3 — Tăng trưởng của hàm (Growth of Functions)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần I "Foundations", Chương 3 "Growth of Functions", trang 43–64.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia); cuốn sách thường được gọi tắt là "CLRS", giáo trình thuật toán phổ biến nhất ở bậc đại học và sau đại học.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) phân tích sắp xếp chèn (insertion sort) và sắp xếp trộn (merge sort), rút ra rằng thời gian chạy xấu nhất của sắp xếp chèn có dạng an² + bn + c, của sắp xếp trộn là Θ(n lg n), và dùng ký hiệu Θ một cách không chính thức: "bỏ các số hạng bậc thấp và bỏ hệ số của số hạng bậc cao nhất". Chương 3 đặt nền toán học chặt chẽ cho cách nói đó: định nghĩa chính xác năm ký hiệu tiệm cận Θ, O, Ω, o, ω, các quy ước khi dùng chúng trong phương trình, và ôn lại các hàm hay gặp khi phân tích thuật toán (đa thức, mũ, logarit, giai thừa, phần nguyên, logarit lặp, số Fibonacci). Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) dùng ngay bộ công cụ này để giải các truy hồi dạng T(n) = aT(n/b) + f(n) (phương pháp thế, cây đệ quy, định lý thợ — master theorem); các chương sau đều phát biểu kết quả bằng ký hiệu tiệm cận, và Phụ lục A ([PA-tong.md](PA-tong.md)) bổ sung kỹ thuật tính tổng.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **khi so sánh thuật toán, điều quyết định là bậc tăng trưởng (order of growth) của thời gian chạy khi kích thước đầu vào n tiến ra vô cùng, chứ không phải hằng số nhân hay các số hạng bậc thấp; và để nói về bậc tăng trưởng một cách chính xác, ta cần các ký hiệu tiệm cận được định nghĩa như tập hợp hàm.** Θ(g(n)) là tập các hàm bị "kẹp" giữa c₁g(n) và c₂g(n) với mọi n ≥ n₀ (cận chặt); O(g(n)) chỉ đòi chặn trên 0 ≤ f(n) ≤ cg(n); Ω(g(n)) chỉ đòi chặn dưới 0 ≤ cg(n) ≤ f(n); o và ω là phiên bản "không chặt" (bất đẳng thức chặt đúng với MỌI hằng số c > 0, tương đương lim f/g = 0 hoặc ∞). Định lý 3.1: f = Θ(g) khi và chỉ khi f = O(g) và f = Ω(g). Dấu "=" trong f(n) = O(g(n)) nghĩa là "thuộc"; ký hiệu tiệm cận trong một công thức đại diện cho một "hàm vô danh"; vế phải của phương trình thô hơn vế trái. Các ký hiệu có tính bắc cầu, phản xạ, đối xứng (Θ), đối xứng chuyển vị (O ↔ Ω, o ↔ ω) và giống phép so sánh số thực (O như ≤, Θ như =, o như <…), nhưng **không có tính tam phân**: có những cặp hàm không so sánh được (n và n^(1+sin n)). Mục 3.2 đưa ra các sự kiện cần nhớ: mọi hàm mũ cơ số > 1 tăng nhanh hơn mọi đa thức (n^b = o(aⁿ)); mọi đa thức dương tăng nhanh hơn mọi đa-logarit (lg^b n = o(nᵃ)); đổi cơ số logarit chỉ đổi hằng số nên viết "lg n" trong O; công thức Stirling n! = √(2πn)(n/e)ⁿ(1 + Θ(1/n)) cho lg(n!) = Θ(n lg n); logarit lặp lg* n tăng cực chậm (lg* 65536 = 4); số Fibonacci Fᵢ = (φⁱ − φ̂ⁱ)/√5 tăng theo hàm mũ với cơ số tỷ lệ vàng φ ≈ 1,618.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chương này không có mục đánh dấu sao (★)**; chỉ có hai bài tập khó được đánh dấu sao là 3.2-4 và 3.2-5. Chương cũng không có pseudocode nào.
-> - **Lớp chữ PDF làm mất hoặc hỏng gần hết ký hiệu của chương**, toàn bộ công thức trong bản tổng hợp được đọc lại từ ảnh trang: chữ Ω biến mất hẳn (dòng "f(n) = Ω(g(n))" thành "f .n/D .g.n//"), ω thành "!", Θ thành "‚", φ biến mất, dấu sao của lg* bị mất (lg* n hiện thành "lg n"), các dấu ≤, ≥, ∈ biến mất (định nghĩa Θ hiện thành "0 c1g.n/ f .n/ c2g.n/"), phân số và căn bị tách dòng (công thức Stirling, (3.4)–(3.7), (3.25)), bảng của Bài toán 3-2, 3-3, 3-6 bị trộn chữ. Ký hiệu "omega vô cùng" Ω̃^∞ của Bài toán 3-5 (chữ Ω có dấu ∞ phía trên) và "soft-oh" Õ cũng chỉ đọc được từ ảnh. Trong bản tổng hợp, "omega vô cùng" được viết là Ω^∞.
-> - **Một chỗ thiếu chặt nhỏ (người tổng hợp tự kiểm tra):** ở phần số Fibonacci (trang 59), sách viết |φ̂ⁱ|/√5 < 1/√5 < 1/2 mà không nói điều kiện; bất đẳng thức đầu chỉ chặt khi i ≥ 1 (với i = 0 thì |φ̂⁰|/√5 = 1/√5). Kết luận Fᵢ = ⌊φⁱ/√5 + 1/2⌋ vẫn đúng với mọi i ≥ 0 vì 1/√5 ≈ 0,447 < 1/2.
-> - **Một chỗ thiếu chặt nhỏ khác:** với hàm bậc hai an² + bn + c, sách chọn n₀ = 2·max(|b|/a, √(|c|/a)) (trang 46). Người tổng hợp đã kiểm tra các hằng số c₁ = a/4, c₂ = 7a/4 đúng là chạy được, nhưng khi b = c = 0 thì n₀ = 0, trong khi định nghĩa đòi n₀ dương; chỉ cần lấy n₀ = max(1, …).
-> - **Bài tập 3.1-8** định nghĩa O(g(n, m)) với điều kiện "với mọi n ≥ n₀ **hoặc** m ≥ m₀" (or). Đây là một định nghĩa rất chặt (đòi bất đẳng thức đúng cả khi chỉ một biến lớn); nhiều tài liệu khác dùng "và" (and). Theo hiểu biết của người tổng hợp, không tra cứu: chữ "or" này từng được người đọc chỉ ra là gây tranh cãi; bản tổng hợp chép đúng như sách.
-> - **Điều đã thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** ở ấn bản thứ tư (2022), chương 3 đổi tên thành "Characterizing Running Times"; mục đầu tiên giới thiệu O, Ω, Θ một cách trực quan qua sắp xếp chèn trước khi đưa định nghĩa hình thức, và phần "Standard notations and common functions" được giữ nhưng chuyển thành mục 3.3. Nội dung toán học cốt lõi (định nghĩa, định lý 3.1, các tính chất) không đổi.
+Tác giả muốn người đọc hiểu rằng **khi so sánh thuật toán, điều quyết định là bậc tăng trưởng (order of growth) của thời gian chạy khi kích thước đầu vào n tiến ra vô cùng, chứ không phải hằng số nhân hay các số hạng bậc thấp; và để nói về bậc tăng trưởng một cách chính xác, ta cần các ký hiệu tiệm cận được định nghĩa như tập hợp hàm.**
+
+Θ(g(n)) là tập các hàm bị "kẹp" giữa c₁g(n) và c₂g(n) với mọi n ≥ n₀ (cận chặt); O(g(n)) chỉ đòi chặn trên 0 ≤ f(n) ≤ cg(n); Ω(g(n)) chỉ đòi chặn dưới 0 ≤ cg(n) ≤ f(n); o và ω là phiên bản "không chặt" (bất đẳng thức chặt đúng với MỌI hằng số c > 0, tương đương lim f/g = 0 hoặc ∞). Định lý 3.1: f = Θ(g) khi và chỉ khi f = O(g) và f = Ω(g).
+
+Dấu "=" trong f(n) = O(g(n)) nghĩa là "thuộc"; ký hiệu tiệm cận trong một công thức đại diện cho một "hàm vô danh"; vế phải của phương trình thô hơn vế trái.
+
+Các ký hiệu có tính bắc cầu, phản xạ, đối xứng (Θ), đối xứng chuyển vị (O ↔ Ω, o ↔ ω) và giống phép so sánh số thực (O như ≤, Θ như =, o như <…), nhưng **không có tính tam phân**: có những cặp hàm không so sánh được (n và n^(1+sin n)).
+
+Mục 3.2 đưa ra các sự kiện cần nhớ: mọi hàm mũ cơ số > 1 tăng nhanh hơn mọi đa thức (n^b = o(aⁿ)); mọi đa thức dương tăng nhanh hơn mọi đa-logarit (lg^b n = o(nᵃ)); đổi cơ số logarit chỉ đổi hằng số nên viết "lg n" trong O; công thức Stirling n! = √(2πn)(n/e)ⁿ(1 + Θ(1/n)) cho lg(n!) = Θ(n lg n); logarit lặp lg* n tăng cực chậm (lg* 65536 = 4); số Fibonacci Fᵢ = (φⁱ − φ̂ⁱ)/√5 tăng theo hàm mũ với cơ số tỷ lệ vàng φ ≈ 1,618.
 
 ## Sơ đồ
 
@@ -510,11 +509,15 @@ Vì các tính chất này đúng, ta có thể so sánh tiệm cận hai hàm f
 
 Ta nói f(n) **nhỏ hơn tiệm cận** g(n) nếu f(n) = o(g(n)), và **lớn hơn tiệm cận** nếu f(n) = ω(g(n)).
 
-Một tính chất của số thực không chuyển sang được: **tam phân (trichotomy)** — với hai số thực a, b, đúng một trong ba điều a < b, a = b, a > b xảy ra. Hai số thực luôn so sánh được, nhưng không phải hai hàm nào cũng so sánh được về tiệm cận: có thể cả f(n) = O(g(n)) lẫn f(n) = Ω(g(n)) đều sai. Ví dụ: không thể so sánh n với n^(1+sin n), vì số mũ 1 + sin n dao động giữa 0 và 2, đi qua mọi giá trị ở giữa. (Người tổng hợp giải thích: vì sin n nhận giá trị gần −1 với vô hạn số nguyên n, n^(1+sin n)/n = n^(sin n) tiến gần 0 ở vô hạn điểm, nên không có c > 0 nào để n^(1+sin n) ≥ cn mọi n lớn; và vì sin n gần 1 vô hạn lần, tỷ số đó lớn tuỳ ý, nên cũng không có cận O.)
+Một tính chất của số thực không chuyển sang được: **tam phân (trichotomy)** — với hai số thực a, b, đúng một trong ba điều a < b, a = b, a > b xảy ra. Hai số thực luôn so sánh được, nhưng không phải hai hàm nào cũng so sánh được về tiệm cận: có thể cả f(n) = O(g(n)) lẫn f(n) = Ω(g(n)) đều sai. Ví dụ: không thể so sánh n với n^(1+sin n), vì số mũ 1 + sin n dao động giữa 0 và 2, đi qua mọi giá trị ở giữa.
+
+(Người tổng hợp giải thích: vì sin n nhận giá trị gần −1 với vô hạn số nguyên n, n^(1+sin n)/n = n^(sin n) tiến gần 0 ở vô hạn điểm, nên không có c > 0 nào để n^(1+sin n) ≥ cn mọi n lớn; và vì sin n gần 1 vô hạn lần, tỷ số đó lớn tuỳ ý, nên cũng không có cận O.)
 
 #### Ví dụ hôm nay
 
-Ký hiệu O là ngôn ngữ chung để mô tả cam kết hiệu năng trong phần mềm: tài liệu chuẩn C++ ghi độ phức tạp bắt buộc của từng thao tác (ví dụ, từ C++11 std::sort phải là O(n log n) phép so sánh, std::map tìm kiếm O(log n)); tài liệu Java Collections, Python, Go, Rust đều ghi độ phức tạp tương tự. Phỏng vấn kỹ thuật hầu như luôn hỏi "độ phức tạp là bao nhiêu" — và câu trả lời mong đợi thường là cận chặt (Θ) dù người ta nói "O", đúng thói quen mà Knuth phê phán ở Ghi chú chương. Việc phân biệt "xấu nhất" với "mọi đầu vào" vẫn quan trọng: bảng băm có thời gian tra cứu kỳ vọng O(1) nhưng xấu nhất O(n), và nhiều cuộc tấn công từ chối dịch vụ (hash flooding) khai thác chính khoảng cách đó (theo hiểu biết của người tổng hợp).
+Ký hiệu O là ngôn ngữ chung để mô tả cam kết hiệu năng trong phần mềm: tài liệu chuẩn C++ ghi độ phức tạp bắt buộc của từng thao tác (ví dụ, từ C++11 std::sort phải là O(n log n) phép so sánh, std::map tìm kiếm O(log n)); tài liệu Java Collections, Python, Go, Rust đều ghi độ phức tạp tương tự.
+
+Phỏng vấn kỹ thuật hầu như luôn hỏi "độ phức tạp là bao nhiêu" — và câu trả lời mong đợi thường là cận chặt (Θ) dù người ta nói "O", đúng thói quen mà Knuth phê phán ở Ghi chú chương. Việc phân biệt "xấu nhất" với "mọi đầu vào" vẫn quan trọng: bảng băm có thời gian tra cứu kỳ vọng O(1) nhưng xấu nhất O(n), và nhiều cuộc tấn công từ chối dịch vụ (hash flooding) khai thác chính khoảng cách đó (theo hiểu biết của người tổng hợp).
 
 ### 3. Ký hiệu chuẩn và các hàm thường gặp (3.2 Standard notations and common functions, trang 53–60)
 
@@ -788,7 +791,7 @@ chứng minh được bằng quy nạp (Bài tập 3.2-7; ý chính: kiểm tra 
 |φ̂ⁱ|/√5 < 1/√5 < 1/2
 ```
 
-(chặt khi i ≥ 1; xem khối Lưu ý), suy ra
+(chặt khi i ≥ 1; xem mục Lưu ý cuối chương), suy ra
 
 ```text
 Fᵢ = ⌊ φⁱ/√5 + 1/2 ⌋                                               (3.25)
@@ -800,7 +803,11 @@ Ví dụ (người tổng hợp tính): φ¹⁰ ≈ 122,992; chia √5 ≈ 2,236
 
 #### Ví dụ hôm nay
 
-Thứ bậc "logarit ≺ đa thức ≺ mũ" vẫn là kim chỉ nam khi chọn cấu trúc dữ liệu và đánh giá khả thi: cơ sở dữ liệu dùng B-cây vì tra cứu O(log n) với cơ số rất lớn; bài toán chỉ có thuật toán mũ (như nhiều bài tối ưu tổ hợp) được xử lý bằng heuristic hoặc giải xấp xỉ. Hàm mũ cũng là nền của mật mã: an toàn của khoá 128 bit dựa vào việc thử 2¹²⁸ khoá là bất khả. Phép mod có mặt ở bảng băm (chỉ số = khoá mod m), bộ đệm vòng (ring buffer) và mật mã khoá công khai. lg(n!) = Θ(n lg n) là lý do không thuật toán sắp xếp dựa trên so sánh nào (kể cả std::sort, Timsort của Python/Java) vượt được n lg n phép so sánh trong trường hợp xấu nhất. lg* n và hàm Ackermann nghịch đảo α(n) xuất hiện trong phân tích cấu trúc tập rời nhau (union–find), dùng trong thuật toán Kruskal, trình biên dịch và xử lý ảnh (theo hiểu biết của người tổng hợp).
+Thứ bậc "logarit ≺ đa thức ≺ mũ" vẫn là kim chỉ nam khi chọn cấu trúc dữ liệu và đánh giá khả thi: cơ sở dữ liệu dùng B-cây vì tra cứu O(log n) với cơ số rất lớn; bài toán chỉ có thuật toán mũ (như nhiều bài tối ưu tổ hợp) được xử lý bằng heuristic hoặc giải xấp xỉ.
+
+Hàm mũ cũng là nền của mật mã: an toàn của khoá 128 bit dựa vào việc thử 2¹²⁸ khoá là bất khả. Phép mod có mặt ở bảng băm (chỉ số = khoá mod m), bộ đệm vòng (ring buffer) và mật mã khoá công khai.
+
+lg(n!) = Θ(n lg n) là lý do không thuật toán sắp xếp dựa trên so sánh nào (kể cả std::sort, Timsort của Python/Java) vượt được n lg n phép so sánh trong trường hợp xấu nhất. lg* n và hàm Ackermann nghịch đảo α(n) xuất hiện trong phân tích cấu trúc tập rời nhau (union–find), dùng trong thuật toán Kruskal, trình biên dịch và xử lý ảnh (theo hiểu biết của người tổng hợp).
 
 ### 4. Bài toán (Problems for Chapter 3, trang 61–63)
 
@@ -1123,7 +1130,9 @@ Mục 3.2 gần như là một danh sách công thức. Những kết quả quan
 
 ### So với thực tế: hằng số, bộ nhớ đệm và phần cứng
 
-Chương khẳng định thuật toán hiệu quả tiệm cận hơn là lựa chọn tốt nhất "trừ với đầu vào rất nhỏ". Trên phần cứng hiện đại, "rất nhỏ" có thể khá lớn: các thư viện chuẩn (introsort trong C++, Timsort trong Python/Java) đều chuyển sang sắp xếp chèn cho đoạn con cỡ vài chục phần tử; duyệt mảng liên tục O(n) có thể nhanh hơn cây cân bằng O(lg n) với n vài trăm vì bộ nhớ đệm (cache); và có những "thuật toán thiên hà" (galactic algorithms) tốt nhất về tiệm cận nhưng hằng số lớn tới mức không bao giờ dùng được (ví dụ một số thuật toán nhân ma trận nhanh, theo hiểu biết của người tổng hợp). Mô hình RAM ở Chương 2 giả định mọi truy cập bộ nhớ tốn như nhau — giả định mà phân tích tiệm cận kế thừa và thực tế không tuân theo. Tuy vậy, khi n thật sự lớn (dữ liệu hàng triệu, hàng tỷ phần tử), thứ bậc tiệm cận luôn thắng.
+Chương khẳng định thuật toán hiệu quả tiệm cận hơn là lựa chọn tốt nhất "trừ với đầu vào rất nhỏ". Trên phần cứng hiện đại, "rất nhỏ" có thể khá lớn: các thư viện chuẩn (introsort trong C++, Timsort trong Python/Java) đều chuyển sang sắp xếp chèn cho đoạn con cỡ vài chục phần tử; duyệt mảng liên tục O(n) có thể nhanh hơn cây cân bằng O(lg n) với n vài trăm vì bộ nhớ đệm (cache); và có những "thuật toán thiên hà" (galactic algorithms) tốt nhất về tiệm cận nhưng hằng số lớn tới mức không bao giờ dùng được (ví dụ một số thuật toán nhân ma trận nhanh, theo hiểu biết của người tổng hợp).
+
+Mô hình RAM ở Chương 2 giả định mọi truy cập bộ nhớ tốn như nhau — giả định mà phân tích tiệm cận kế thừa và thực tế không tuân theo. Tuy vậy, khi n thật sự lớn (dữ liệu hàng triệu, hàng tỷ phần tử), thứ bậc tiệm cận luôn thắng.
 
 ### Liên hệ với các chương khác
 
@@ -1138,10 +1147,151 @@ Chương khẳng định thuật toán hiệu quả tiệm cận hơn là lựa 
 
 ### Lỗi và chỗ thiếu chặt trong sách
 
-Không tìm thấy lỗi nội dung nghiêm trọng. Các chỗ thiếu chặt nhỏ đã nêu trong khối Lưu ý: bất đẳng thức |φ̂ⁱ|/√5 < 1/√5 không chặt khi i = 0; n₀ trong ví dụ hàm bậc hai có thể bằng 0; chữ "or" trong định nghĩa O hai biến (Bài tập 3.1-8). Người tổng hợp đã kiểm tra lại các hằng số c₁ = 1/14, c₂ = 1/2, n₀ = 7; c₁ = a/4, c₂ = 7a/4; c = a + |b|, n₀ = max(1, −b/a); các giá trị lg*; và (3.4)–(3.7) trên ví dụ số — đều đúng.
+Không tìm thấy lỗi nội dung nghiêm trọng. Các chỗ thiếu chặt nhỏ đã nêu trong mục Lưu ý cuối chương: bất đẳng thức |φ̂ⁱ|/√5 < 1/√5 không chặt khi i = 0; n₀ trong ví dụ hàm bậc hai có thể bằng 0; chữ "or" trong định nghĩa O hai biến (Bài tập 3.1-8). Người tổng hợp đã kiểm tra lại các hằng số c₁ = 1/14, c₂ = 1/2, n₀ = 7; c₁ = a/4, c₂ = 7a/4; c = a + |b|, n₀ = max(1, −b/a); các giá trị lg*; và (3.4)–(3.7) trên ví dụ số — đều đúng.
 
 ### Cách vận dụng
 
 - **Phỏng vấn:** trả lời độ phức tạp bằng Θ khi biết cận chặt, nói rõ trường hợp (xấu nhất, trung bình, kỳ vọng, khấu hao). Phân biệt "O(n) phép so sánh" với "O(n) thời gian".
 - **Lập trình thi đấu:** dùng thang tăng trưởng để ước lượng nhanh: với khoảng 10⁸ phép tính đơn giản mỗi giây, n = 10⁵ cho phép O(n lg n) hoặc O(n√n) nhưng không cho O(n²); n ≤ 20 cho phép O(2ⁿ·n); n ≤ 10 cho phép O(n!) (quy tắc kinh nghiệm phổ biến, không có trong sách).
 - **Kỹ thuật phần mềm:** ghi độ phức tạp vào tài liệu API như một cam kết (giống chuẩn C++), kiểm tra hiệu năng ở nhiều kích thước để phát hiện thuật toán bậc hai ẩn (như nối chuỗi lặp đi lặp lại), và nhớ rằng với n nhỏ, đo đạc quan trọng hơn ký hiệu tiệm cận.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: sáu nhánh nội dung đi theo thứ tự bản gốc (phần mở đầu, hai phần của Mục 3.1, hai phần của Mục 3.2, rồi bài toán cuối chương và ghi chú), mỗi nhánh ghi định nghĩa, hằng số ví dụ, công thức và kết quả then chốt; nhánh cuối là thông điệp xuyên suốt của chương.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: so sánh thuật toán bằng bậc tăng trưởng khi n → ∞, diễn đạt chính xác bằng năm ký hiệu tiệm cận định nghĩa như tập hàm`"]
+  n1["`Phần mở đầu chương — vì sao chỉ xét bậc tăng trưởng`"]
+  n0 --- n1
+  n2["`Khi n đủ lớn, hằng số nhân và số hạng bậc thấp bị ảnh hưởng của chính n lấn át`"]
+  n1 --- n2
+  n3["`Tính chính xác an² + bn + c được nhưng thường không đáng công sức`"]
+  n1 --- n3
+  n4["`Hiệu quả tiệm cận: thuật toán tốt hơn về tiệm cận thắng, trừ đầu vào rất nhỏ`"]
+  n1 --- n4
+  n5["`Sắp xếp trộn Θ(n lg n) thắng sắp xếp chèn Θ(n²) khi n đủ lớn`"]
+  n1 --- n5
+  n6["`Mục 3.1 phần 1 — Θ, O, Ω và Định lý 3.1`"]
+  n0 --- n6
+  n7["`Θ(g): f bị kẹp giữa c₁g(n) và c₂g(n) với mọi n ≥ n₀, g là cận chặt tiệm cận`"]
+  n6 --- n7
+  n8["`n²/2 − 3n = Θ(n²) với c₁ = 1/14, c₂ = 1/2, n₀ = 7, còn 6n³ ≠ Θ(n²)`"]
+  n6 --- n8
+  n9["`Đa thức bậc d với hệ số đầu dương là Θ(n^d), hằng số là Θ(1)`"]
+  n6 --- n9
+  n10["`O(g) chỉ chặn trên 0 ≤ f(n) ≤ c·g(n), không hàm ý chặt nên n = O(n²) đúng`"]
+  n6 --- n10
+  n11["`Ω(g) chỉ chặn dưới 0 ≤ c·g(n) ≤ f(n), tương đương chặn dưới thời gian tốt nhất`"]
+  n6 --- n11
+  n12["`Định lý 3.1: f = Θ(g) khi và chỉ khi f = O(g) và f = Ω(g)`"]
+  n6 --- n12
+  n13["`Sắp xếp chèn: thời gian chạy Ω(n) và O(n²), xấu nhất Θ(n²), nhưng không phải Θ(n²) cho mọi đầu vào`"]
+  n6 --- n13
+  n14["`Mục 3.1 phần 2 — ký hiệu trong phương trình, o, ω và so sánh hàm`"]
+  n0 --- n14
+  n15["`Đứng một mình ở vế phải, dấu = nghĩa là thuộc tập`"]
+  n14 --- n15
+  n16["`Trong công thức, ký hiệu là một hàm vô danh: 2n² + 3n + 1 = 2n² + Θ(n)`"]
+  n14 --- n16
+  n17["`Truy hồi sắp xếp trộn T(n) = 2T(n/2) + Θ(n) giấu số hạng bậc thấp vào Θ(n)`"]
+  n14 --- n17
+  n18["`Ở vế trái: mọi cách chọn bên trái đều có cách chọn bên phải, vế phải thô hơn vế trái`"]
+  n14 --- n18
+  n19["`o(g): f nhỏ hơn c·g(n) với mọi c dương, tương đương lim f/g = 0, ví dụ 2n = o(n²)`"]
+  n14 --- n19
+  n20["`ω(g): lim f/g = ∞, ví dụ n²/2 = ω(n) nhưng n²/2 ≠ ω(n²)`"]
+  n14 --- n20
+  n21["`Bắc cầu, phản xạ, đối xứng, đối xứng chuyển vị: O như ≤, Θ như =, o như nhỏ hơn hẳn`"]
+  n14 --- n21
+  n22["`Không có tính tam phân: n và n^(1+sin n) không so sánh được`"]
+  n14 --- n22
+  n23["`Mục 3.2 phần 1 — phần nguyên, đồng dư, đa thức, mũ, logarit`"]
+  n0 --- n23
+  n24["`Phần nguyên: ⌈n/2⌉ + ⌊n/2⌋ = n, chia hai lần bằng chia một lần cho tích`"]
+  n23 --- n24
+  n25["`a mod n = a − n⌊a/n⌋ luôn trong khoảng 0 đến n − 1, ví dụ −7 mod 3 = 2`"]
+  n23 --- n25
+  n26["`Bị chặn đa thức: f = O(n^k) với k nào đó`"]
+  n23 --- n26
+  n27["`Mọi hàm mũ cơ số lớn hơn 1 tăng nhanh hơn mọi đa thức: nᵇ = o(aⁿ)`"]
+  n23 --- n27
+  n28["`eˣ ≥ 1 + x, và lim (1 + x/n)ⁿ = eˣ`"]
+  n23 --- n28
+  n29["`Đổi cơ số logarit chỉ đổi hằng số nhân nên viết lg n trong O`"]
+  n23 --- n29
+  n30["`Mọi đa thức dương thắng mọi đa-logarit: lg^b n = o(nᵃ), nhưng lg³ n chỉ thua √n khi n ≈ 10⁹`"]
+  n23 --- n30
+  n31["`Mục 3.2 phần 2 — giai thừa, logarit lặp, số Fibonacci`"]
+  n0 --- n31
+  n32["`Stirling: n! = √(2πn)(n/e)ⁿ(1 + Θ(1/n)), với n = 10 sai lệch khoảng 0,83%`"]
+  n31 --- n32
+  n33["`Suy ra lg(n!) = Θ(n lg n), n! = o(nⁿ), n! = ω(2ⁿ)`"]
+  n31 --- n33
+  n34["`Logarit lặp lg∗ n: số lần lấy lg tới khi ≤ 1, lg∗ 65536 = 4`"]
+  n31 --- n34
+  n35["`Vũ trụ chỉ có khoảng 10⁸⁰ nguyên tử nên thực tế lg∗ n ≤ 5`"]
+  n31 --- n35
+  n36["`Fᵢ = (φⁱ − φ̂ⁱ)/√5 = φⁱ/√5 làm tròn, φ ≈ 1,618 là tỷ lệ vàng`"]
+  n31 --- n36
+  n37["`Số Fibonacci tăng theo hàm mũ, Fᵢ = Θ(φⁱ)`"]
+  n31 --- n37
+  n38["`Bài toán 3-1 đến 3-6 và Ghi chú chương`"]
+  n0 --- n38
+  n39["`3-1: đa thức bậc d so với n^k cho O, Ω, Θ, o, ω tùy k so với d`"]
+  n38 --- n39
+  n40["`3-3: xếp 30 hàm theo bậc tăng trưởng, từ 2^(2ⁿ⁺¹) xuống hằng số 1`"]
+  n38 --- n40
+  n41["`3-4: f = O(g) không kéo theo 2^f = O(2^g), ví dụ 4ⁿ ≠ O(2ⁿ)`"]
+  n38 --- n41
+  n42["`3-5: biến thể Ω vô cùng, O′ và soft-oh Õ bỏ qua thừa số logarit`"]
+  n38 --- n42
+  n43["`3-6: hàm lặp, ví dụ √n lặp xuống 2 cần Θ(lg lg n) lần`"]
+  n38 --- n43
+  n44["`O từ Bachmann 1892, o từ Landau 1909, Knuth cổ vũ dùng Ω và Θ`"]
+  n38 --- n44
+  n45["`Nhiều người vẫn dùng O ở chỗ Θ mới chính xác`"]
+  n38 --- n45
+  n46["`Thông điệp xuyên suốt`"]
+  n0 --- n46
+  n47["`Mỗi ký hiệu tiệm cận là một tập hàm, dấu = là cách viết lạm dụng của thuộc`"]
+  n46 --- n47
+  n48["`Luôn nói rõ cận gì (O, Ω, Θ) và cho trường hợp nào (xấu nhất, tốt nhất, mọi đầu vào)`"]
+  n46 --- n48
+  n49["`Thang tăng trưởng: 1 ≺ lg∗ n ≺ lg lg n ≺ đa-logarit ≺ đa thức ≺ mũ ≺ n! ≺ nⁿ`"]
+  n46 --- n49
+  n50["`Tiệm cận là phát biểu khi n → ∞, với n thực tế hằng số vẫn có thể quyết định`"]
+  n46 --- n50
+  class n0 root
+  class n1,n6,n14,n23,n31,n38,n46 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần I "Foundations", Chương 3 "Growth of Functions", trang 43–64.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (MIT, Dartmouth, Columbia); cuốn sách thường được gọi tắt là "CLRS", giáo trình thuật toán phổ biến nhất ở bậc đại học và sau đại học.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) phân tích sắp xếp chèn (insertion sort) và sắp xếp trộn (merge sort), rút ra rằng thời gian chạy xấu nhất của sắp xếp chèn có dạng an² + bn + c, của sắp xếp trộn là Θ(n lg n), và dùng ký hiệu Θ một cách không chính thức: "bỏ các số hạng bậc thấp và bỏ hệ số của số hạng bậc cao nhất".
+
+Chương 3 đặt nền toán học chặt chẽ cho cách nói đó: định nghĩa chính xác năm ký hiệu tiệm cận Θ, O, Ω, o, ω, các quy ước khi dùng chúng trong phương trình, và ôn lại các hàm hay gặp khi phân tích thuật toán (đa thức, mũ, logarit, giai thừa, phần nguyên, logarit lặp, số Fibonacci).
+
+Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) dùng ngay bộ công cụ này để giải các truy hồi dạng T(n) = aT(n/b) + f(n) (phương pháp thế, cây đệ quy, định lý thợ — master theorem); các chương sau đều phát biểu kết quả bằng ký hiệu tiệm cận, và Phụ lục A ([PA-tong.md](PA-tong.md)) bổ sung kỹ thuật tính tổng.
+
+## Lưu ý
+
+- **Chương này không có mục đánh dấu sao (★)**; chỉ có hai bài tập khó được đánh dấu sao là 3.2-4 và 3.2-5. Chương cũng không có pseudocode nào.
+- **Lớp chữ PDF làm mất hoặc hỏng gần hết ký hiệu của chương**, toàn bộ công thức trong bản tổng hợp được đọc lại từ ảnh trang: chữ Ω biến mất hẳn (dòng "f(n) = Ω(g(n))" thành "f .n/D .g.n//"), ω thành "!", Θ thành "‚", φ biến mất, dấu sao của lg* bị mất (lg* n hiện thành "lg n"), các dấu ≤, ≥, ∈ biến mất (định nghĩa Θ hiện thành "0 c1g.n/ f .n/ c2g.n/"), phân số và căn bị tách dòng (công thức Stirling, (3.4)–(3.7), (3.25)), bảng của Bài toán 3-2, 3-3, 3-6 bị trộn chữ. Ký hiệu "omega vô cùng" Ω̃^∞ của Bài toán 3-5 (chữ Ω có dấu ∞ phía trên) và "soft-oh" Õ cũng chỉ đọc được từ ảnh. Trong bản tổng hợp, "omega vô cùng" được viết là Ω^∞.
+- **Một chỗ thiếu chặt nhỏ (người tổng hợp tự kiểm tra):** ở phần số Fibonacci (trang 59), sách viết |φ̂ⁱ|/√5 < 1/√5 < 1/2 mà không nói điều kiện; bất đẳng thức đầu chỉ chặt khi i ≥ 1 (với i = 0 thì |φ̂⁰|/√5 = 1/√5). Kết luận Fᵢ = ⌊φⁱ/√5 + 1/2⌋ vẫn đúng với mọi i ≥ 0 vì 1/√5 ≈ 0,447 < 1/2.
+- **Một chỗ thiếu chặt nhỏ khác:** với hàm bậc hai an² + bn + c, sách chọn n₀ = 2·max(|b|/a, √(|c|/a)) (trang 46). Người tổng hợp đã kiểm tra các hằng số c₁ = a/4, c₂ = 7a/4 đúng là chạy được, nhưng khi b = c = 0 thì n₀ = 0, trong khi định nghĩa đòi n₀ dương; chỉ cần lấy n₀ = max(1, …).
+- **Bài tập 3.1-8** định nghĩa O(g(n, m)) với điều kiện "với mọi n ≥ n₀ **hoặc** m ≥ m₀" (or). Đây là một định nghĩa rất chặt (đòi bất đẳng thức đúng cả khi chỉ một biến lớn); nhiều tài liệu khác dùng "và" (and). Theo hiểu biết của người tổng hợp, không tra cứu: chữ "or" này từng được người đọc chỉ ra là gây tranh cãi; bản tổng hợp chép đúng như sách.
+- **Điều đã thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** ở ấn bản thứ tư (2022), chương 3 đổi tên thành "Characterizing Running Times"; mục đầu tiên giới thiệu O, Ω, Θ một cách trực quan qua sắp xếp chèn trước khi đưa định nghĩa hình thức, và phần "Standard notations and common functions" được giữ nhưng chuyển thành mục 3.3. Nội dung toán học cốt lõi (định nghĩa, định lý 3.1, các tính chất) không đổi.

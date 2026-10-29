@@ -1,23 +1,18 @@
 # Chương 4 — Chia để trị (Divide-and-Conquer)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần I "Foundations", Chương 4 "Divide-and-Conquer", trang 65–113.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) giới thiệu mô hình chia để trị qua sắp xếp trộn (MERGE-SORT), viết ra truy hồi T(n) = 2T(n/2) + Θ(n) và "giải" nó bằng một cây đệ quy vẽ tay. Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) cho ngôn ngữ để nói về nghiệm: các ký hiệu Θ, O, Ω, o, ω, cùng hàm sàn, trần, logarit, lũy thừa. Chương 4 làm hai việc: đưa thêm ba thuật toán chia để trị (mảng con lớn nhất, nhân ma trận đệ quy đơn giản, thuật toán Strassen) và — quan trọng hơn — trang bị ba công cụ giải truy hồi (phương pháp thế, cây đệ quy, định lý thợ) mà mọi chương sau đều dùng. Chương 7 ([C07-quicksort.md](C07-quicksort.md)) dùng phương pháp thế để chứng minh quicksort xấu nhất Θ(n²) và cây đệ quy để giải thích vì sao chia 9:1 vẫn O(n lg n). Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) dùng phương pháp thế cho truy hồi T(n) ≤ T(⌈n/5⌉) + T(7n/10 + 6) + O(n) của thuật toán SELECT. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) đối lập chia để trị (bài toán con rời nhau) với quy hoạch động (bài toán con chồng lấn). Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) song song hoá chính các thuật toán nhân ma trận của chương này; Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) và Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)) tiếp tục dòng thuật toán đại số chia để trị; Phụ lục A ([PA-tong.md](PA-tong.md)) cung cấp các công thức tổng (chuỗi hình học (A.5), (A.6)) dùng liên tục trong Mục 4.4 và 4.6.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **thời gian chạy của một thuật toán chia để trị được mô tả tự nhiên bằng một truy hồi (recurrence), và có ba cách giải truy hồi: phương pháp thế (đoán rồi chứng minh bằng quy nạp), phương pháp cây đệ quy (cộng chi phí từng tầng để có dự đoán hoặc chứng minh), và phương pháp thợ (tra ba trường hợp của định lý thợ cho truy hồi T(n) = aT(n/b) + f(n)); việc so sánh f(n) với n^(log_b a) — tức là so chi phí ở gốc với chi phí ở các lá — quyết định nghiệm, và giảm số bài toán con dù chỉ một (8 xuống 7 ở Strassen) đổi được bậc tiệm cận từ Θ(n³) xuống Θ(n^(lg 7)) ≈ Θ(n^2,81).** Phần mở đầu nhắc ba bước chia, trị, kết hợp và định nghĩa truy hồi, cùng các "chi tiết kỹ thuật" thường bỏ qua (sàn, trần, điều kiện biên). Mục 4.1 giải bài toán mảng con lớn nhất (maximum-subarray) — xuất phát từ bài toán mua bán cổ phiếu — bằng chia để trị: mảng con tốt nhất nằm hẳn bên trái, hẳn bên phải, hoặc vắt qua điểm giữa; phần vắt qua điểm giữa tìm được trong Θ(n), nên tổng là Θ(n lg n), tốt hơn vét cạn Θ(n²). Mục 4.2 nhân ma trận n × n: cách thông thường Θ(n³); chia mỗi ma trận thành bốn khối n/2 × n/2 với 8 phép nhân đệ quy vẫn Θ(n³); thuật toán Strassen dùng 10 tổng/hiệu Sᵢ và chỉ 7 tích Pᵢ, cho Θ(n^(lg 7)). Mục 4.3 trình bày phương pháp thế, cách đoán tốt, mẹo trừ đi số hạng bậc thấp, lỗi thường gặp khi dùng ký hiệu tiệm cận, và phép đổi biến. Mục 4.4 dùng cây đệ quy cho T(n) = 3T(n/4) + cn² (nghiệm Θ(n²)) và T(n) = T(n/3) + T(2n/3) + cn (nghiệm O(n lg n)). Mục 4.5 phát biểu định lý thợ (Định lý 4.1) với ba trường hợp và các khoảng trống giữa chúng, rồi áp dụng cho mọi truy hồi đã gặp. Mục ★4.6 chứng minh định lý thợ: trước cho n là lũy thừa đúng của b (Bổ đề 4.2, 4.3, 4.4), sau mở rộng cho mọi số nguyên có sàn và trần.
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục có dấu sao (★):** Mục 4.6 "Proof of the master theorem" (trang 97–106) là mục nâng cao; tác giả nói rõ không cần hiểu chứng minh để áp dụng định lý. **Bài tập có dấu sao:** Exercise 4.5-5, 4.6-1, 4.6-2, 4.6-3. Không có Problem nào đánh dấu sao.
-> - **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương** (ví dụ `‚.n3/` là `Θ(n³)`, `left-sumD/NUL1` là `left-sum = −∞`, `T.bn=bc/` là `T(⌊n/b⌋)`, `S1 D B12/NUL B22` là `S₁ = B₁₂ − B₂₂`, `nlogb a` là `n^(log_b a)`; các chỉ số trên như lũy thừa, các ký hiệu ⌊ ⌋ ⌈ ⌉, √, ≤, ≥, ∞, Σ và mọi phân số bị vỡ hoặc mất). Mọi pseudocode (FIND-MAX-CROSSING-SUBARRAY, FIND-MAXIMUM-SUBARRAY, SQUARE-MATRIX-MULTIPLY, SQUARE-MATRIX-MULTIPLY-RECURSIVE), mọi công thức (4.1)–(4.30), các khai triển Sᵢ, Pᵢ, Cᵢⱼ của Strassen, các cây đệ quy trong Hình 4.5–4.8, bảng giá cổ phiếu Hình 4.1–4.3, bảng kết quả kiểm tra chip (Problem 4-5) và hai mảng Monge (Problem 4-6) trong bản tổng hợp này được đối chiếu với ảnh của **tất cả** các trang 65–113.
-> - **Chỗ sách sai hoặc chưa chặt (nhận xét của người tổng hợp):**
->   - Trang 68, câu đầu Mục 4.1: "Suppose that you been offered" thiếu chữ "have" (lỗi đánh máy).
->   - Trang 69–70: sách nói phép biến đổi sang mảng thay đổi giá trị vẫn phải kiểm tra C(n − 1, 2) = Θ(n²) mảng con "cho một khoảng n ngày". Với n ngày (ngày 0 tới n − 1) có n − 1 giá trị thay đổi, và số mảng con khác rỗng liên tiếp của mảng n − 1 phần tử là (n − 1)n/2 = C(n, 2), không phải C(n − 1, 2) (ví dụ của sách: 17 ngày, 16 giá trị thay đổi, có 136 = C(17, 2) mảng con, còn C(16, 2) = 120). Kết luận Θ(n²) vẫn đúng.
->   - Trang 78, đoạn bàn về hằng số trong (4.16): sách viết "adding two n²/4 × n²/4 matrices takes Θ(n²)"; các ma trận được cộng có kích thước n/2 × n/2 (tức có n²/4 phần tử), không phải n²/4 × n²/4. Kết luận Θ(n²) vẫn đúng.
->   - Trang 87, Exercise 4.3-8: đề nói truy hồi T(n) = 4T(n/2) + n² có nghiệm Θ(n²). Điều này **sai**: a = 4, b = 2, n^(log₂ 4) = n² và f(n) = n², rơi vào trường hợp 2 của định lý thợ, nghiệm là Θ(n² lg n). Có lẽ đề định viết T(n) = 4T(n/2) + n (nghiệm Θ(n²)); phần lời giải bên dưới xử lý theo cách hiểu này và ghi rõ cả hai. Theo hiểu biết của người tổng hợp, không tra cứu, lỗi này có trong danh sách lỗi chính thức (errata) của ấn bản 3.
->   - Trang 113, công thức nghiệm Akra–Bazzi: vế trái viết "T(n) = Θ(x^p(1 + ∫₁ˣ f(u)/u^(p+1) du))" trong khi biến là x; đúng ra là T(x).
->   - Trang 94, phát biểu Định lý 4.1 chỉ nói "f(n) là một hàm", còn câu dẫn trước đó (trang 93) yêu cầu f(n) dương tiệm cận (asymptotically positive); điều kiện này cần cho cả ba trường hợp.
->   - Mục 4.6.2 chỉ chứng minh chi tiết cận trên cho trường hợp 2 và 3 khi có trần; trường hợp 1 được nói là "gần như giống hệt, đại số phức tạp hơn", và cận dưới "chứng minh tương tự" — đây là chỗ sách để người đọc tự hoàn tất, không phải lỗi.
-> - **Mọi phép tính và ví dụ trong sách đã được tự kiểm tra lại và đúng:** mảng con lớn nhất A[8..11] với tổng 43 trên mảng 16 giá trị thay đổi (kể cả lần chạy FIND-MAXIMUM-SUBARRAY: nửa trái cho A[4..4] tổng 20, nửa phải cho A[9..11] tổng 25, phần vắt qua giữa A[8..11] tổng 18 + 25 = 43); ví dụ phản chứng 5 ngày giá 10, 11, 7, 10, 6 (lãi tối đa 3); các khai triển C₁₁ = P₅ + P₄ − P₂ + P₆, C₁₂ = P₁ + P₂, C₂₁ = P₃ + P₄, C₂₂ = P₅ + P₁ − P₃ − P₇ của Strassen; T(2) = 4 và T(3) = 5 cho truy hồi (4.19) với T(1) = 1 và c ≥ 2 đủ cho hai trường hợp cơ sở; hệ số 16/13 của cây 3T(n/4) + cn²; hằng số d ≥ c/(lg 3 − 2/3) ≈ 1,089c của cây T(n/3) + T(2n/3) + cn; các giá trị ε ≈ 0,2 (vì log₄ 3 ≈ 0,793) và ε = 0,8 (vì lg 7 ≈ 2,807) trong các ví dụ của định lý thợ. Mảng Monge ví dụ ở Problem 4-6 đúng là Monge; mảng ở Problem 4-6(b) vi phạm đúng một chỗ (hàng 1–2, cột 2–3: 23 + 7 = 30 > 22 + 6 = 28).
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Chương 4 vẫn tên "Divide-and-Conquer" nhưng bài toán mảng con lớn nhất không còn là một mục riêng; chương mở đầu bằng nhân ma trận vuông (thủ tục cộng dồn C = C + A · B), rồi Strassen, phương pháp thế, cây đệ quy, phương pháp thợ. Định lý thợ ở ấn bản 4 mở rộng trường hợp 2 thành f(n) = Θ(n^(log_b a) lg^k n) với k ≥ 0, cho nghiệm Θ(n^(log_b a) lg^(k+1) n) — chính là nội dung Exercise 4.6-2 ở ấn bản này. Truy hồi được xét trên số thực ("algorithmic recurrences"), mục chứng minh định lý thợ (★) chứng minh "định lý thợ liên tục", và có thêm một mục ★ riêng về truy hồi Akra–Bazzi (ở ấn bản 3 chỉ nằm trong ghi chú chương). Các khác biệt nhỏ hơn, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **thời gian chạy của một thuật toán chia để trị được mô tả tự nhiên bằng một truy hồi (recurrence), và có ba cách giải truy hồi: phương pháp thế (đoán rồi chứng minh bằng quy nạp), phương pháp cây đệ quy (cộng chi phí từng tầng để có dự đoán hoặc chứng minh), và phương pháp thợ (tra ba trường hợp của định lý thợ cho truy hồi T(n) = aT(n/b) + f(n)); việc so sánh f(n) với n^(log_b a) — tức là so chi phí ở gốc với chi phí ở các lá — quyết định nghiệm, và giảm số bài toán con dù chỉ một (8 xuống 7 ở Strassen) đổi được bậc tiệm cận từ Θ(n³) xuống Θ(n^(lg 7)) ≈ Θ(n^2,81).**
+
+Phần mở đầu nhắc ba bước chia, trị, kết hợp và định nghĩa truy hồi, cùng các "chi tiết kỹ thuật" thường bỏ qua (sàn, trần, điều kiện biên).
+
+Mục 4.1 giải bài toán mảng con lớn nhất (maximum-subarray) — xuất phát từ bài toán mua bán cổ phiếu — bằng chia để trị: mảng con tốt nhất nằm hẳn bên trái, hẳn bên phải, hoặc vắt qua điểm giữa; phần vắt qua điểm giữa tìm được trong Θ(n), nên tổng là Θ(n lg n), tốt hơn vét cạn Θ(n²).
+
+Mục 4.2 nhân ma trận n × n: cách thông thường Θ(n³); chia mỗi ma trận thành bốn khối n/2 × n/2 với 8 phép nhân đệ quy vẫn Θ(n³); thuật toán Strassen dùng 10 tổng/hiệu Sᵢ và chỉ 7 tích Pᵢ, cho Θ(n^(lg 7)).
+
+Mục 4.3 trình bày phương pháp thế, cách đoán tốt, mẹo trừ đi số hạng bậc thấp, lỗi thường gặp khi dùng ký hiệu tiệm cận, và phép đổi biến. Mục 4.4 dùng cây đệ quy cho T(n) = 3T(n/4) + cn² (nghiệm Θ(n²)) và T(n) = T(n/3) + T(2n/3) + cn (nghiệm O(n lg n)).
+
+Mục 4.5 phát biểu định lý thợ (Định lý 4.1) với ba trường hợp và các khoảng trống giữa chúng, rồi áp dụng cho mọi truy hồi đã gặp. Mục ★4.6 chứng minh định lý thợ: trước cho n là lũy thừa đúng của b (Bổ đề 4.2, 4.3, 4.4), sau mở rộng cho mọi số nguyên có sàn và trần.
 
 ## Sơ đồ
 
@@ -435,7 +430,7 @@ A     [13, −3,−25, 20, −3,−16,−23, 18, 20, −7, 12, −5,−22, 15, �
 
 Bây giờ ta muốn tìm mảng con khác rỗng, liên tiếp của A có tổng các giá trị lớn nhất. Mảng con liên tiếp này gọi là **mảng con lớn nhất** (maximum subarray). Trong mảng trên, mảng con lớn nhất của A[1..16] là A[8..11] với tổng 43: ta nên mua ngay trước ngày 8 (tức là sau ngày 7, giá 63) và bán sau ngày 11 (giá 106), lãi 43 USD mỗi cổ phiếu. Kiểm tra: 18 + 20 − 7 + 12 = 43 = 106 − 63.
 
-Thoạt nhìn phép biến đổi này không giúp gì: vẫn phải kiểm tra Θ(n²) mảng con với n ngày (xem khối Lưu ý về con số chính xác). Exercise 4.1-2 yêu cầu chỉ ra rằng tuy tính tổng một mảng con có thể mất thời gian tỷ lệ với độ dài, khi tính tất cả Θ(n²) tổng, ta có thể tổ chức để mỗi tổng mất O(1) dựa trên các tổng đã tính trước, nên vét cạn mất Θ(n²).
+Thoạt nhìn phép biến đổi này không giúp gì: vẫn phải kiểm tra Θ(n²) mảng con với n ngày (xem mục Lưu ý cuối chương về con số chính xác). Exercise 4.1-2 yêu cầu chỉ ra rằng tuy tính tổng một mảng con có thể mất thời gian tỷ lệ với độ dài, khi tính tất cả Θ(n²) tổng, ta có thể tổ chức để mỗi tổng mất O(1) dựa trên các tổng đã tính trước, nên vét cạn mất Θ(n²).
 
 Vậy ta tìm cách hiệu quả hơn. Ta thường nói "một" mảng con lớn nhất chứ không nói "mảng con lớn nhất", vì có thể có nhiều mảng con cùng đạt tổng lớn nhất. Bài toán chỉ thú vị khi mảng có số âm: nếu mọi phần tử không âm, cả mảng cho tổng lớn nhất.
 
@@ -490,7 +485,9 @@ FIND-MAX-CROSSING-SUBARRAY(A, low, mid, high)
 15  return (max-left, max-right, left-sum + right-sum)
 ```
 
-Cách thủ tục chạy: dòng 1–7 tìm mảng con lớn nhất của nửa trái A[low..mid]. Vì mảng con này phải chứa A[mid], vòng for dòng 3–7 cho chỉ số i bắt đầu từ mid và giảm dần tới low, nên mọi mảng con được xét đều có dạng A[i..mid]. Dòng 1–2 khởi tạo left-sum (tổng lớn nhất tìm được tới giờ) và sum (tổng các phần tử trong A[i..mid]). Mỗi khi dòng 5 gặp một mảng con A[i..mid] có tổng lớn hơn left-sum, dòng 6 cập nhật left-sum thành tổng đó và dòng 7 ghi chỉ số i vào max-left. Dòng 8–14 làm tương tự cho nửa phải A[mid + 1..high]: vòng for dòng 10–14 cho j bắt đầu từ mid + 1 tăng dần tới high, nên mọi mảng con được xét có dạng A[mid + 1..j]. Cuối cùng dòng 15 trả về max-left và max-right giới hạn một mảng con lớn nhất vắt qua điểm giữa, cùng tổng left-sum + right-sum của A[max-left..max-right].
+Cách thủ tục chạy: dòng 1–7 tìm mảng con lớn nhất của nửa trái A[low..mid]. Vì mảng con này phải chứa A[mid], vòng for dòng 3–7 cho chỉ số i bắt đầu từ mid và giảm dần tới low, nên mọi mảng con được xét đều có dạng A[i..mid]. Dòng 1–2 khởi tạo left-sum (tổng lớn nhất tìm được tới giờ) và sum (tổng các phần tử trong A[i..mid]). Mỗi khi dòng 5 gặp một mảng con A[i..mid] có tổng lớn hơn left-sum, dòng 6 cập nhật left-sum thành tổng đó và dòng 7 ghi chỉ số i vào max-left.
+
+Dòng 8–14 làm tương tự cho nửa phải A[mid + 1..high]: vòng for dòng 10–14 cho j bắt đầu từ mid + 1 tăng dần tới high, nên mọi mảng con được xét có dạng A[mid + 1..j]. Cuối cùng dòng 15 trả về max-left và max-right giới hạn một mảng con lớn nhất vắt qua điểm giữa, cùng tổng left-sum + right-sum của A[max-left..max-right].
 
 Nếu A[low..high] có n phần tử (n = high − low + 1), lời gọi FIND-MAX-CROSSING-SUBARRAY(A, low, mid, high) mất Θ(n). Mỗi vòng lặp của mỗi vòng for mất Θ(1), nên chỉ cần đếm tổng số vòng lặp. Vòng for dòng 3–7 chạy mid − low + 1 lần, vòng for dòng 10–14 chạy high − mid lần, tổng là
 
@@ -520,7 +517,11 @@ FIND-MAXIMUM-SUBARRAY(A, low, high)
 
 (Chú thích ở dòng 2: "trường hợp cơ sở: chỉ một phần tử".) Lời gọi ban đầu FIND-MAXIMUM-SUBARRAY(A, 1, A.length) tìm mảng con lớn nhất của A[1..n].
 
-Giống FIND-MAX-CROSSING-SUBARRAY, thủ tục đệ quy trả về bộ ba gồm hai chỉ số giới hạn và tổng. Dòng 1 kiểm tra trường hợp cơ sở: mảng con chỉ có một phần tử chỉ có một mảng con là chính nó, nên dòng 2 trả về chỉ số đầu, cuối của phần tử đó cùng giá trị của nó. Dòng 3–11 xử lý trường hợp đệ quy. Dòng 3 là bước chia, tính chỉ số giữa mid. Gọi A[low..mid] là **mảng con trái** (left subarray) và A[mid + 1..high] là **mảng con phải** (right subarray). Vì A[low..high] có ít nhất hai phần tử, mỗi mảng con trái và phải có ít nhất một phần tử. Dòng 4 và 5 là bước trị, tìm đệ quy mảng con lớn nhất trong mảng con trái và phải. Dòng 6–11 là bước kết hợp. Dòng 6 tìm mảng con lớn nhất vắt qua điểm giữa (vì dòng 6 giải một bài toán con không phải bản nhỏ hơn của bài gốc, nó được tính vào bước kết hợp). Dòng 7 kiểm tra mảng con trái có chứa mảng con tổng lớn nhất không, nếu có dòng 8 trả về nó. Nếu không, dòng 9 kiểm tra mảng con phải, dòng 10 trả về. Nếu cả hai không chứa mảng con đạt tổng lớn nhất, thì mảng con lớn nhất phải vắt qua điểm giữa, và dòng 11 trả về nó.
+Giống FIND-MAX-CROSSING-SUBARRAY, thủ tục đệ quy trả về bộ ba gồm hai chỉ số giới hạn và tổng. Dòng 1 kiểm tra trường hợp cơ sở: mảng con chỉ có một phần tử chỉ có một mảng con là chính nó, nên dòng 2 trả về chỉ số đầu, cuối của phần tử đó cùng giá trị của nó.
+
+Dòng 3–11 xử lý trường hợp đệ quy. Dòng 3 là bước chia, tính chỉ số giữa mid. Gọi A[low..mid] là **mảng con trái** (left subarray) và A[mid + 1..high] là **mảng con phải** (right subarray). Vì A[low..high] có ít nhất hai phần tử, mỗi mảng con trái và phải có ít nhất một phần tử. Dòng 4 và 5 là bước trị, tìm đệ quy mảng con lớn nhất trong mảng con trái và phải.
+
+Dòng 6–11 là bước kết hợp. Dòng 6 tìm mảng con lớn nhất vắt qua điểm giữa (vì dòng 6 giải một bài toán con không phải bản nhỏ hơn của bài gốc, nó được tính vào bước kết hợp). Dòng 7 kiểm tra mảng con trái có chứa mảng con tổng lớn nhất không, nếu có dòng 8 trả về nó. Nếu không, dòng 9 kiểm tra mảng con phải, dòng 10 trả về. Nếu cả hai không chứa mảng con đạt tổng lớn nhất, thì mảng con lớn nhất phải vắt qua điểm giữa, và dòng 11 trả về nó.
 
 **Chạy tay trên mảng 16 phần tử (người tổng hợp):** lời gọi FIND-MAXIMUM-SUBARRAY(A, 1, 16) có mid = 8.
 
@@ -592,7 +593,9 @@ Vậy phương pháp chia để trị cho thuật toán nhanh hơn vét cạn v�
 
 #### Ví dụ hôm nay
 
-Bài toán mảng con lớn nhất là một câu phỏng vấn kinh điển ("best time to buy and sell stock", "maximum subarray sum") và lời giải tuyến tính của nó thường gọi là thuật toán Kadane — theo hiểu biết của người tổng hợp. Dạng hai chiều (hình chữ nhật con có tổng lớn nhất) xuất hiện trong xử lý ảnh, phát hiện vùng sáng nhất; dạng có trọng số xuất hiện trong phân tích chuỗi gen (đoạn có mật độ một loại nucleotide cao nhất). Lời giải chia để trị Θ(n lg n) của sách lại có ưu điểm riêng: các nửa độc lập nên dễ song song hoá, và nếu mỗi nút cây lưu thêm "tổng, tiền tố lớn nhất, hậu tố lớn nhất, đoạn lớn nhất" thì ta có cây phân đoạn (segment tree) trả lời truy vấn "mảng con lớn nhất trong đoạn [l, r]" và cập nhật phần tử trong O(lg n) — một kỹ thuật thường gặp trong lập trình thi đấu.
+Bài toán mảng con lớn nhất là một câu phỏng vấn kinh điển ("best time to buy and sell stock", "maximum subarray sum") và lời giải tuyến tính của nó thường gọi là thuật toán Kadane — theo hiểu biết của người tổng hợp. Dạng hai chiều (hình chữ nhật con có tổng lớn nhất) xuất hiện trong xử lý ảnh, phát hiện vùng sáng nhất; dạng có trọng số xuất hiện trong phân tích chuỗi gen (đoạn có mật độ một loại nucleotide cao nhất).
+
+Lời giải chia để trị Θ(n lg n) của sách lại có ưu điểm riêng: các nửa độc lập nên dễ song song hoá, và nếu mỗi nút cây lưu thêm "tổng, tiền tố lớn nhất, hậu tố lớn nhất, đoạn lớn nhất" thì ta có cây phân đoạn (segment tree) trả lời truy vấn "mảng con lớn nhất trong đoạn [l, r]" và cập nhật phần tử trong O(lg n) — một kỹ thuật thường gặp trong lập trình thi đấu.
 
 ### 3. Thuật toán Strassen cho nhân ma trận (4.2 Strassen's algorithm for matrix multiplication, trang 75–83)
 
@@ -812,7 +815,9 @@ C₁₁ = 48 − 10 − 8 − 12 = 18; C₁₂ = 6 + 8 = 14; C₂₁ = 72 − 10
 
 #### Ví dụ hôm nay
 
-Nhân ma trận là lõi tính toán của học sâu, đồ hoạ, mô phỏng vật lý — theo hiểu biết của người tổng hợp. Các thư viện BLAS hiện đại (OpenBLAS, MKL, cuBLAS) gần như không dùng Strassen mà dùng thuật toán Θ(n³) được chia khối cực kỹ cho bộ nhớ đệm và đơn vị vector; Strassen chỉ có lợi ở ma trận rất lớn và có vấn đề ổn định số với số thực dấu phẩy động. Tuy vậy, ý tưởng "đổi phép nhân lấy phép cộng" vẫn sống: thuật toán Karatsuba nhân số nguyên lớn (3 phép nhân thay vì 4, Θ(n^(lg 3))) dùng trong các thư viện số học bội chính xác, và thuật toán Winograd cho tích chập nhỏ trong mạng nơ-ron tích chập. Gần đây (2022), hệ thống AlphaTensor dùng học tăng cường tìm ra các cách nhân ma trận nhỏ với ít phép nhân hơn trong một số trường hợp đặc biệt.
+Nhân ma trận là lõi tính toán của học sâu, đồ hoạ, mô phỏng vật lý — theo hiểu biết của người tổng hợp. Các thư viện BLAS hiện đại (OpenBLAS, MKL, cuBLAS) gần như không dùng Strassen mà dùng thuật toán Θ(n³) được chia khối cực kỹ cho bộ nhớ đệm và đơn vị vector; Strassen chỉ có lợi ở ma trận rất lớn và có vấn đề ổn định số với số thực dấu phẩy động.
+
+Tuy vậy, ý tưởng "đổi phép nhân lấy phép cộng" vẫn sống: thuật toán Karatsuba nhân số nguyên lớn (3 phép nhân thay vì 4, Θ(n^(lg 3))) dùng trong các thư viện số học bội chính xác, và thuật toán Winograd cho tích chập nhỏ trong mạng nơ-ron tích chập. Gần đây (2022), hệ thống AlphaTensor dùng học tăng cường tìm ra các cách nhân ma trận nhỏ với ít phép nhân hơn trong một số trường hợp đặc biệt.
 
 ### 4. Phương pháp thế (4.3 The substitution method for solving recurrences, trang 83–88)
 
@@ -845,7 +850,9 @@ bước cuối đúng khi c ≥ 1.
 
 **Điều kiện biên.** Quy nạp toán học còn đòi hỏi chứng minh nghiệm đúng ở điều kiện biên — thường bằng cách chỉ ra điều kiện biên dùng được làm trường hợp cơ sở của phép quy nạp. Với (4.19), phải chọn c đủ lớn để T(n) ≤ cn lg n cũng đúng ở điều kiện biên. Điều này đôi khi gây rắc rối. Giả sử, để lập luận, T(1) = 1 là điều kiện biên duy nhất. Khi n = 1, cận T(n) ≤ cn lg n cho T(1) ≤ c · 1 · lg 1 = 0, mâu thuẫn với T(1) = 1. Trường hợp cơ sở của chứng minh quy nạp hỏng.
 
-Vượt qua trở ngại này chỉ tốn chút công. Ký hiệu tiệm cận chỉ yêu cầu chứng minh T(n) ≤ cn lg n với n ≥ n₀, trong đó n₀ là hằng số **ta được tự chọn**. Giữ điều kiện biên phiền phức T(1) = 1, nhưng bỏ nó ra khỏi phép quy nạp. Quan sát rằng với n > 3, truy hồi không phụ thuộc trực tiếp vào T(1) (vì ⌊n/2⌋ ≥ 2). Vậy thay T(1) bằng T(2) và T(3) làm các trường hợp cơ sở của quy nạp, đặt n₀ = 2. Cần phân biệt trường hợp cơ sở của **truy hồi** (n = 1) với trường hợp cơ sở của **chứng minh quy nạp** (n = 2 và n = 3). Với T(1) = 1, từ truy hồi có T(2) = 2 · 1 + 2 = 4 và T(3) = 2 · 1 + 3 = 5. Hoàn tất chứng minh T(n) ≤ cn lg n với c ≥ 1 bằng cách chọn c đủ lớn để T(2) ≤ c · 2 lg 2 và T(3) ≤ c · 3 lg 3. Thực ra mọi c ≥ 2 đều đủ: 4 ≤ 2 · 2 · 1 = 4 và 5 ≤ 2 · 3 · 1,585 ≈ 9,51. Với hầu hết truy hồi trong sách, mở rộng điều kiện biên để giả thiết quy nạp đúng với n nhỏ là thẳng thắn, nên tác giả không luôn viết chi tiết.
+Vượt qua trở ngại này chỉ tốn chút công. Ký hiệu tiệm cận chỉ yêu cầu chứng minh T(n) ≤ cn lg n với n ≥ n₀, trong đó n₀ là hằng số **ta được tự chọn**. Giữ điều kiện biên phiền phức T(1) = 1, nhưng bỏ nó ra khỏi phép quy nạp. Quan sát rằng với n > 3, truy hồi không phụ thuộc trực tiếp vào T(1) (vì ⌊n/2⌋ ≥ 2). Vậy thay T(1) bằng T(2) và T(3) làm các trường hợp cơ sở của quy nạp, đặt n₀ = 2.
+
+Cần phân biệt trường hợp cơ sở của **truy hồi** (n = 1) với trường hợp cơ sở của **chứng minh quy nạp** (n = 2 và n = 3). Với T(1) = 1, từ truy hồi có T(2) = 2 · 1 + 2 = 4 và T(3) = 2 · 1 + 3 = 5. Hoàn tất chứng minh T(n) ≤ cn lg n với c ≥ 1 bằng cách chọn c đủ lớn để T(2) ≤ c · 2 lg 2 và T(3) ≤ c · 3 lg 3. Thực ra mọi c ≥ 2 đều đủ: 4 ≤ 2 · 2 · 1 = 4 và 5 ≤ 2 · 3 · 1,585 ≈ 9,51. Với hầu hết truy hồi trong sách, mở rộng điều kiện biên để giả thiết quy nạp đúng với n nhỏ là thẳng thắn, nên tác giả không luôn viết chi tiết.
 
 Kiểm tra số (người tổng hợp): T(4) = 2T(2) + 4 = 12 ≤ 2 · 4 · 2 = 16; T(5) = 2T(2) + 5 = 13 ≤ 2 · 5 · lg 5 ≈ 23,2; T(8) = 2T(4) + 8 = 32 ≤ 2 · 8 · 3 = 48.
 
@@ -1031,7 +1038,9 @@ Ví dụ phức tạp hơn (lại bỏ sàn và trần cho đơn giản). Gọi 
 
 Cộng giá trị theo các tầng của cây, ta được cn ở mỗi tầng. Đường đi đơn dài nhất từ gốc tới lá là n → (2/3)n → (2/3)²n → ⋯ → 1. Vì (2/3)ᵏ n = 1 khi k = log₃/₂ n, chiều cao cây là log₃/₂ n.
 
-Trực giác: nghiệm tối đa bằng số tầng nhân chi phí mỗi tầng, tức O(cn log₃/₂ n) = O(n lg n). Cây vẽ ở trên chỉ có các tầng trên cùng, và không phải tầng nào cũng góp đủ cn. Xét chi phí các lá. Nếu cây là cây nhị phân đầy đủ cao log₃/₂ n, sẽ có 2^(log₃/₂ n) = n^(log₃/₂ 2) lá. Vì mỗi lá tốn hằng số, tổng chi phí lá sẽ là Θ(n^(log₃/₂ 2)), mà log₃/₂ 2 là hằng số lớn hẳn hơn 1 (≈ 1,71), nên đó là ω(n lg n). Nhưng cây này không phải cây nhị phân đầy đủ, nên có ít hơn n^(log₃/₂ 2) lá. Hơn nữa, càng xuống xa gốc, càng nhiều nút trong vắng mặt (nhánh n/3 chạm đáy sau log₃ n tầng, sớm hơn nhánh 2n/3). Do đó các tầng gần đáy góp ít hơn cn. Có thể tính chính xác mọi chi phí, nhưng nhớ rằng ta chỉ đang tìm dự đoán cho phương pháp thế. Chấp nhận cẩu thả và thử chứng minh dự đoán O(n lg n) là cận trên.
+Trực giác: nghiệm tối đa bằng số tầng nhân chi phí mỗi tầng, tức O(cn log₃/₂ n) = O(n lg n). Cây vẽ ở trên chỉ có các tầng trên cùng, và không phải tầng nào cũng góp đủ cn.
+
+Xét chi phí các lá. Nếu cây là cây nhị phân đầy đủ cao log₃/₂ n, sẽ có 2^(log₃/₂ n) = n^(log₃/₂ 2) lá. Vì mỗi lá tốn hằng số, tổng chi phí lá sẽ là Θ(n^(log₃/₂ 2)), mà log₃/₂ 2 là hằng số lớn hẳn hơn 1 (≈ 1,71), nên đó là ω(n lg n). Nhưng cây này không phải cây nhị phân đầy đủ, nên có ít hơn n^(log₃/₂ 2) lá. Hơn nữa, càng xuống xa gốc, càng nhiều nút trong vắng mặt (nhánh n/3 chạm đáy sau log₃ n tầng, sớm hơn nhánh 2n/3). Do đó các tầng gần đáy góp ít hơn cn. Có thể tính chính xác mọi chi phí, nhưng nhớ rằng ta chỉ đang tìm dự đoán cho phương pháp thế. Chấp nhận cẩu thả và thử chứng minh dự đoán O(n lg n) là cận trên.
 
 Thật vậy, dùng phương pháp thế: chứng minh T(n) ≤ dn lg n với d là hằng dương thích hợp:
 
@@ -1489,7 +1498,7 @@ Ghi chú của sách: dù Exercise 4.2-3, 4.2-4, 4.2-5 nói về biến thể c�
 - **4.3-5:** Chứng minh Θ(n lg n) là nghiệm của truy hồi "chính xác" (4.3) của sắp xếp trộn. (*Người tổng hợp:* cách gọn nhất là chứng minh T đơn điệu tăng rồi kẹp n giữa hai lũy thừa của 2: 2^k ≤ n < 2^(k+1), T(n) ≤ T(2^(k+1)) = Θ(2^(k+1)(k + 1)) = O(n lg n), tương tự cận dưới với T(2^k). Tính đơn điệu chứng minh bằng quy nạp nếu Θ(n) được thay bằng một hàm tăng như cn.)
 - **4.3-6:** Chứng minh nghiệm của T(n) = 2T(⌊n/2⌋ + 17) + n là O(n lg n). (*Người tổng hợp:* đoán T(n) ≤ c(n − 34)lg(n − 34). Vì ⌊n/2⌋ + 17 − 34 ≤ (n − 34)/2: T(n) ≤ 2c((n − 34)/2)lg((n − 34)/2) + n = c(n − 34)lg(n − 34) − c(n − 34) + n ≤ c(n − 34)lg(n − 34) khi c(n − 34) ≥ n, chẳng hạn c ≥ 2 và n ≥ 68. Và c(n − 34)lg(n − 34) ≤ cn lg n.)
 - **4.3-7:** Theo phương pháp thợ, T(n) = 4T(n/3) + n có nghiệm Θ(n^(log₃ 4)). Chứng minh phép thế với giả thiết T(n) ≤ cn^(log₃ 4) thất bại, rồi chỉ cách trừ số hạng bậc thấp để phép thế đi qua. (*Người tổng hợp:* 4c(n/3)^(log₃ 4) + n = cn^(log₃ 4) + n, không ≤ cn^(log₃ 4). Đoán T(n) ≤ cn^(log₃ 4) − dn: 4(c(n/3)^(log₃ 4) − dn/3) + n = cn^(log₃ 4) − (4d/3)n + n ≤ cn^(log₃ 4) − dn khi d ≥ 3.)
-- **4.3-8:** Theo phương pháp thợ, "T(n) = 4T(n/2) + n² có nghiệm Θ(n²)". Chứng minh phép thế với T(n) ≤ cn² thất bại, rồi trừ số hạng bậc thấp. (*Người tổng hợp:* như khối Lưu ý đã nêu, đề **sai**: 4T(n/2) + n² có nghiệm Θ(n² lg n) theo trường hợp 2, nên không phép thế nào chứng minh được O(n²). Với đề có lẽ định viết, T(n) = 4T(n/2) + n: giả thiết cn² cho 4c(n/2)² + n = cn² + n (hỏng); giả thiết cn² − dn cho 4(c(n/2)² − dn/2) + n = cn² − 2dn + n ≤ cn² − dn khi d ≥ 1.)
+- **4.3-8:** Theo phương pháp thợ, "T(n) = 4T(n/2) + n² có nghiệm Θ(n²)". Chứng minh phép thế với T(n) ≤ cn² thất bại, rồi trừ số hạng bậc thấp. (*Người tổng hợp:* như mục Lưu ý cuối chương đã nêu, đề **sai**: 4T(n/2) + n² có nghiệm Θ(n² lg n) theo trường hợp 2, nên không phép thế nào chứng minh được O(n²). Với đề có lẽ định viết, T(n) = 4T(n/2) + n: giả thiết cn² cho 4c(n/2)² + n = cn² + n (hỏng); giả thiết cn² − dn cho 4(c(n/2)² − dn/2) + n = cn² − 2dn + n ≤ cn² − dn khi d ≥ 1.)
 - **4.3-9:** Giải T(n) = 3T(√n) + log n bằng đổi biến; nghiệm phải chặt tiệm cận; không cần lo giá trị nguyên. (*Người tổng hợp:* m = lg n, S(m) = T(2^m): S(m) = 3S(m/2) + Θ(m); theo trường hợp 1 (log₂ 3 ≈ 1,585 > 1), S(m) = Θ(m^(lg 3)); vậy T(n) = Θ((lg n)^(lg 3)).)
 
 ### Bài tập Mục 4.4 (trang 92–93)
@@ -1663,7 +1672,7 @@ Nói cách khác, mỗi khi chọn hai hàng và hai cột của mảng Monge v�
   T(x) = Θ( x^p ( 1 + ∫₁ˣ f(u)/u^(p+1) du ) )
   ```
 
-  (sách in vế trái là T(n); xem khối Lưu ý). Phương pháp Akra–Bazzi có thể hơi khó dùng, nhưng nó giải được các truy hồi mô hình hoá việc chia bài toán thành các bài toán con kích thước khác nhau đáng kể. Phương pháp thợ dễ dùng hơn, nhưng chỉ áp dụng khi các bài toán con cùng kích thước.
+  (sách in vế trái là T(n); xem mục Lưu ý cuối chương). Phương pháp Akra–Bazzi có thể hơi khó dùng, nhưng nó giải được các truy hồi mô hình hoá việc chia bài toán thành các bài toán con kích thước khác nhau đáng kể. Phương pháp thợ dễ dùng hơn, nhưng chỉ áp dụng khi các bài toán con cùng kích thước.
 - Ví dụ của người tổng hợp: T(x) = T(x/2) + T(x/4) + x: tìm p với (1/2)^p + (1/4)^p = 1; đặt y = (1/2)^p thì y + y² = 1, y = (√5 − 1)/2 ≈ 0,618, p ≈ 0,694 < 1; tích phân ∫₁ˣ u/u^(p+1) du = ∫₁ˣ u^(−p) du = Θ(x^(1−p)); nghiệm Θ(x^p · x^(1−p)) = Θ(x).
 
 ## Luận điểm cốt lõi
@@ -1811,7 +1820,9 @@ Mục 4.3 dành chỗ cho những thất bại có chủ đích: điều kiện 
 
 ### So với cách làm thực tế
 
-Theo hiểu biết của người tổng hợp: nhân ma trận dày trong thư viện số (BLAS, LAPACK, cuBLAS cho GPU) dùng thuật toán Θ(n³) được chia khối nhiều tầng theo bộ nhớ đệm và thanh ghi, đạt gần đỉnh hiệu năng phần cứng; Strassen chỉ xuất hiện trong một số thư viện chuyên dụng cho ma trận rất lớn, và các thuật toán có số mũ nhỏ hơn (Coppersmith–Winograd và hậu duệ) là "thuật toán thiên hà" — hằng số khổng lồ, không dùng thực tế. Ngược lại, ý tưởng giảm số phép nhân con rất thực tế ở nhân số nguyên lớn (Karatsuba, Toom–Cook, rồi FFT) trong GMP và các thư viện mật mã. Với mảng con lớn nhất, thực tế luôn dùng quét tuyến tính; chia để trị chỉ có ích khi cần trả lời truy vấn trên đoạn (cây phân đoạn) hoặc song song hoá. Về giải truy hồi, người làm thực tế gần như chỉ dùng định lý thợ (dạng mở rộng có lgᵏ n) và Akra–Bazzi khi bài toán con lệch cỡ.
+Theo hiểu biết của người tổng hợp: nhân ma trận dày trong thư viện số (BLAS, LAPACK, cuBLAS cho GPU) dùng thuật toán Θ(n³) được chia khối nhiều tầng theo bộ nhớ đệm và thanh ghi, đạt gần đỉnh hiệu năng phần cứng; Strassen chỉ xuất hiện trong một số thư viện chuyên dụng cho ma trận rất lớn, và các thuật toán có số mũ nhỏ hơn (Coppersmith–Winograd và hậu duệ) là "thuật toán thiên hà" — hằng số khổng lồ, không dùng thực tế.
+
+Ngược lại, ý tưởng giảm số phép nhân con rất thực tế ở nhân số nguyên lớn (Karatsuba, Toom–Cook, rồi FFT) trong GMP và các thư viện mật mã. Với mảng con lớn nhất, thực tế luôn dùng quét tuyến tính; chia để trị chỉ có ích khi cần trả lời truy vấn trên đoạn (cây phân đoạn) hoặc song song hoá. Về giải truy hồi, người làm thực tế gần như chỉ dùng định lý thợ (dạng mở rộng có lgᵏ n) và Akra–Bazzi khi bài toán con lệch cỡ.
 
 ### Liên hệ các chương khác
 
@@ -1830,3 +1841,156 @@ Theo hiểu biết của người tổng hợp: nhân ma trận dày trong thư 
 - **Phỏng vấn:** mảng con tổng lớn nhất (đưa cả lời giải Θ(n) và giải thích vì sao chia để trị cho Θ(n lg n)); mua bán cổ phiếu một lần; "độ phức tạp của hàm đệ quy này" — viết a, b, f(n) và áp định lý thợ; nhân số phức bằng ba phép nhân (Exercise 4.2-7) là câu đố mở màn cho Karatsuba.
 - **Lập trình thi đấu:** cây phân đoạn lưu (tổng, tiền tố max, hậu tố max, đoạn max) trả lời truy vấn mảng con lớn nhất trên đoạn với cập nhật; tối ưu hoá chia để trị cho quy hoạch động (divide-and-conquer optimization) và thuật toán SMAWK đều dựa trên tính chất Monge và tính đơn điệu của vị trí min (Problem 4-6(c)) — theo hiểu biết của người tổng hợp.
 - **Kỹ thuật phần mềm:** đừng tự viết nhân ma trận, dùng BLAS; tránh chép mảng khi truyền vào hàm đệ quy (dùng chỉ số, slice, span); đặt ngưỡng chuyển sang thuật toán đơn giản cho bài toán con nhỏ; khi ước lượng chi phí một thủ tục đệ quy trong mã thật, vẽ nhanh cây đệ quy để biết chi phí dồn ở đâu (ở lá: tối ưu trường hợp cơ sở; ở gốc: tối ưu bước chia/kết hợp).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn theo thứ tự của bản gốc — phần mở đầu chương về chia để trị và truy hồi, hai thuật toán mới (Mục 4.1 mảng con lớn nhất, Mục 4.2 Strassen), ba công cụ giải truy hồi (Mục 4.3 phương pháp thế, Mục 4.4 cây đệ quy, Mục 4.5–4.6 định lý thợ và chứng minh), bài toán và ghi chú cuối chương; mỗi nhánh ghi thuật toán, truy hồi, thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: thời gian chạy của thuật toán chia để trị là một truy hồi, giải bằng phương pháp thế, cây đệ quy hoặc định lý thợ`"]
+  n1["`Phần mở đầu chương (trang 65–67) — chia để trị và truy hồi`"]
+  n0 --- n1
+  n2["`Ba bước ở mỗi tầng đệ quy: chia thành bài toán con cùng dạng, trị bằng đệ quy, kết hợp lời giải`"]
+  n1 --- n2
+  n3["`Bài toán con khác dạng bài gốc được tính vào bước kết hợp`"]
+  n1 --- n3
+  n4["`Truy hồi là phương trình mô tả một hàm qua giá trị của nó ở đầu vào nhỏ hơn, ví dụ sắp xếp trộn T(n) = 2T(n/2) + Θ(n)`"]
+  n1 --- n4
+  n5["`Thường bỏ sàn, trần và điều kiện biên T(n) = Θ(1) vì chúng chỉ đổi nghiệm một hằng số`"]
+  n1 --- n5
+  n6["`Mục 4.1 — Mảng con lớn nhất, từ bài toán mua bán cổ phiếu`"]
+  n0 --- n6
+  n7["`Mua ở giá thấp nhất hay bán ở giá cao nhất không luôn đúng: giá 10, 11, 7, 10, 6 cho lãi tối đa 3 (mua 7, bán 10)`"]
+  n6 --- n7
+  n8["`Đổi giá thành thay đổi giá hằng ngày, tìm mảng con liên tiếp có tổng lớn nhất`"]
+  n6 --- n8
+  n9["`Ví dụ 17 ngày: mảng con lớn nhất A[8..11] = 18, 20, −7, 12, tổng 43, tức mua giá 63 bán giá 106`"]
+  n6 --- n9
+  n10["`Vét cạn thử mọi cặp ngày mua và bán: Θ(n²)`"]
+  n6 --- n10
+  n11["`Chia đôi tại mid: mảng con tốt nhất nằm hẳn bên trái, hẳn bên phải, hoặc vắt qua điểm giữa`"]
+  n6 --- n11
+  n12["`FIND-MAX-CROSSING-SUBARRAY quét từ mid ra hai phía trong Θ(n)`"]
+  n6 --- n12
+  n13["`FIND-MAXIMUM-SUBARRAY: T(n) = 2T(n/2) + Θ(n) = Θ(n lg n), cùng truy hồi với sắp xếp trộn`"]
+  n6 --- n13
+  n14["`Exercise 4.1-5: có thuật toán quét một lượt Θ(n), không dùng chia để trị`"]
+  n6 --- n14
+  n15["`Mục 4.2 — Nhân ma trận và thuật toán Strassen`"]
+  n0 --- n15
+  n16["`Cách thông thường SQUARE-MATRIX-MULTIPLY: ba vòng lặp lồng nhau, Θ(n³)`"]
+  n15 --- n16
+  n17["`Chia mỗi ma trận thành bốn khối n/2 × n/2 với 8 phép nhân đệ quy: T(n) = 8T(n/2) + Θ(n²) = Θ(n³), không nhanh hơn`"]
+  n15 --- n17
+  n18["`Cắt khối bằng tính chỉ số chỉ mất Θ(1), không cần chép phần tử`"]
+  n15 --- n18
+  n19["`Ký hiệu tiệm cận nuốt hằng số nhân, nhưng hệ số 8 trước T(n/2) thì không vì nó quyết định số nút con`"]
+  n15 --- n19
+  n20["`Strassen: lập 10 ma trận tổng hoặc hiệu S1 đến S10, chỉ 7 tích đệ quy P1 đến P7, ghép lại C bằng cộng trừ`"]
+  n15 --- n20
+  n21["`Strassen chạy T(n) = 7T(n/2) + Θ(n²) = Θ(n^(lg 7)) ≈ O(n^2,81)`"]
+  n15 --- n21
+  n22["`Tác giả: phương pháp Strassen hoàn toàn không hiển nhiên, có lẽ là câu nói giảm nói tránh lớn nhất cuốn sách`"]
+  n15 --- n22
+  n23["`Mục 4.3–4.4 — Phương pháp thế và cây đệ quy`"]
+  n0 --- n23
+  n24["`Phương pháp thế: đoán dạng nghiệm rồi chứng minh bằng quy nạp, tìm hằng số`"]
+  n23 --- n24
+  n25["`Với T(n) = 2T(⌊n/2⌋) + n, đoán T(n) ≤ cn lg n đúng khi c ≥ 1, chọn cơ sở quy nạp n = 2, 3 vì T(1) = 1 làm hỏng cơ sở`"]
+  n23 --- n25
+  n26["`Khi quy nạp vướng, trừ một số hạng bậc thấp: đoán T(n) ≤ cn − d cho T(⌊n/2⌋) + T(⌈n/2⌉) + 1`"]
+  n23 --- n26
+  n27["`Cạm bẫy: viết T(n) ≤ cn + n = O(n) là sai, phải chứng minh đúng dạng chính xác T(n) ≤ cn`"]
+  n23 --- n27
+  n28["`Đổi biến m = lg n đưa T(n) = 2T(√n) + lg n về S(m) = 2S(m/2) + m, nghiệm O(lg n lg lg n)`"]
+  n23 --- n28
+  n29["`Cây đệ quy: cộng chi phí từng tầng rồi cộng các tầng, dùng tốt nhất để sinh dự đoán rồi kiểm bằng phép thế`"]
+  n23 --- n29
+  n30["`Cây của 3T(n/4) + cn²: tầng i tốn (3/16)ⁱ cn², chuỗi giảm, tổng tối đa (16/13)cn², nghiệm Θ(n²)`"]
+  n23 --- n30
+  n31["`Cây của T(n/3) + T(2n/3) + cn: mỗi tầng tốn tối đa cn, cao log₃/₂ n tầng, nghiệm O(n lg n)`"]
+  n23 --- n31
+  n32["`Mục 4.5–★4.6 — Định lý thợ cho T(n) = aT(n/b) + f(n)`"]
+  n0 --- n32
+  n33["`So f(n) với n^p, trong đó p = log cơ số b của a, chính là số lá của cây đệ quy`"]
+  n32 --- n33
+  n34["`Trường hợp 1: f nhỏ hơn n^p theo nghĩa đa thức thì nghiệm Θ(n^p), chi phí dồn ở lá`"]
+  n32 --- n34
+  n35["`Trường hợp 2: f cùng cỡ n^p thì nghiệm Θ(n^p lg n), chi phí chia đều các tầng`"]
+  n32 --- n35
+  n36["`Trường hợp 3: f lớn hơn n^p theo nghĩa đa thức và thoả điều kiện chính quy af(n/b) ≤ cf(n), c nhỏ hơn 1, thì nghiệm Θ(f(n)), gốc chi phối`"]
+  n32 --- n36
+  n37["`Có khoảng trống giữa các trường hợp: 2T(n/2) + n lg n không dùng được định lý, nghiệm thật là Θ(n lg² n)`"]
+  n32 --- n37
+  n38["`Ví dụ áp dụng: 9T(n/3) + n cho Θ(n²), T(2n/3) + 1 cho Θ(lg n), 3T(n/4) + n lg n cho Θ(n lg n)`"]
+  n32 --- n38
+  n39["`Chứng minh ★4.6: Bổ đề 4.2 viết T(n) thành chi phí lá cộng tổng aʲ f(n/bʲ), Bổ đề 4.3 chặn tổng bằng chuỗi tăng, hằng hoặc giảm`"]
+  n32 --- n39
+  n40["`Sàn và trần chỉ làm kích thước bài toán con lệch tối đa hằng số b/(b − 1), định lý đúng cho mọi số nguyên n`"]
+  n32 --- n40
+  n41["`Bài toán và ghi chú cuối chương (trang 107–113)`"]
+  n0 --- n41
+  n42["`Problem 4-2: chép cả mảng khi truyền tham số làm sắp xếp trộn thành Θ(N²)`"]
+  n41 --- n42
+  n43["`Problem 4-4: hàm sinh cho Fibonacci Fᵢ = φⁱ/√5 làm tròn tới số nguyên gần nhất`"]
+  n41 --- n43
+  n44["`Problem 4-5: nếu hơn nửa số chip tốt, tìm mọi chip tốt bằng Θ(n) lần thử từng cặp`"]
+  n41 --- n44
+  n45["`Problem 4-6: min trái nhất các hàng của mảng Monge có chỉ số cột không giảm, tìm được trong O(m + n lg m)`"]
+  n41 --- n45
+  n46["`Chia để trị có từ Karatsuba và Ofman 1962, có thể từ Gauss 1805, Strassen công bố 1969`"]
+  n41 --- n46
+  n47["`Coppersmith–Winograd đạt O(n^2,376), cận dưới chỉ là Ω(n²) hiển nhiên`"]
+  n41 --- n47
+  n48["`Thực tế Strassen ít được chọn: hằng số lớn, kém ổn định số, tốn bộ nhớ, nên chỉ dùng trên điểm giao rồi chuyển về cách thường`"]
+  n41 --- n48
+  n49["`Akra–Bazzi giải truy hồi có bài toán con khác cỡ, kể cả T(n/3) + T(2n/3) + O(n)`"]
+  n41 --- n49
+  n50["`Thông điệp xuyên suốt`"]
+  n0 --- n50
+  n51["`Muốn chia để trị nhanh hơn: giảm số lời gọi đệ quy a (Strassen, Karatsuba) hoặc giảm chi phí kết hợp khi nó đang chi phối`"]
+  n50 --- n51
+  n52["`Tầng nào của cây đệ quy tốn nhiều nhất thì quyết định nghiệm`"]
+  n50 --- n52
+  n53["`Tiệm cận tốt hơn chưa chắc nhanh hơn ở mọi kích thước, cần ngưỡng chuyển sang thuật toán đơn giản cho bài toán con nhỏ`"]
+  n50 --- n53
+  class n0 root
+  class n1,n6,n15,n23,n32,n41,n50 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần I "Foundations", Chương 4 "Divide-and-Conquer", trang 65–113.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) giới thiệu mô hình chia để trị qua sắp xếp trộn (MERGE-SORT), viết ra truy hồi T(n) = 2T(n/2) + Θ(n) và "giải" nó bằng một cây đệ quy vẽ tay. Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) cho ngôn ngữ để nói về nghiệm: các ký hiệu Θ, O, Ω, o, ω, cùng hàm sàn, trần, logarit, lũy thừa.
+
+Chương 4 làm hai việc: đưa thêm ba thuật toán chia để trị (mảng con lớn nhất, nhân ma trận đệ quy đơn giản, thuật toán Strassen) và — quan trọng hơn — trang bị ba công cụ giải truy hồi (phương pháp thế, cây đệ quy, định lý thợ) mà mọi chương sau đều dùng.
+
+Chương 7 ([C07-quicksort.md](C07-quicksort.md)) dùng phương pháp thế để chứng minh quicksort xấu nhất Θ(n²) và cây đệ quy để giải thích vì sao chia 9:1 vẫn O(n lg n). Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) dùng phương pháp thế cho truy hồi T(n) ≤ T(⌈n/5⌉) + T(7n/10 + 6) + O(n) của thuật toán SELECT. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) đối lập chia để trị (bài toán con rời nhau) với quy hoạch động (bài toán con chồng lấn). Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) song song hoá chính các thuật toán nhân ma trận của chương này; Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) và Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)) tiếp tục dòng thuật toán đại số chia để trị; Phụ lục A ([PA-tong.md](PA-tong.md)) cung cấp các công thức tổng (chuỗi hình học (A.5), (A.6)) dùng liên tục trong Mục 4.4 và 4.6.
+
+## Lưu ý
+
+- **Mục có dấu sao (★):** Mục 4.6 "Proof of the master theorem" (trang 97–106) là mục nâng cao; tác giả nói rõ không cần hiểu chứng minh để áp dụng định lý. **Bài tập có dấu sao:** Exercise 4.5-5, 4.6-1, 4.6-2, 4.6-3. Không có Problem nào đánh dấu sao.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương** (ví dụ `‚.n3/` là `Θ(n³)`, `left-sumD/NUL1` là `left-sum = −∞`, `T.bn=bc/` là `T(⌊n/b⌋)`, `S1 D B12/NUL B22` là `S₁ = B₁₂ − B₂₂`, `nlogb a` là `n^(log_b a)`; các chỉ số trên như lũy thừa, các ký hiệu ⌊ ⌋ ⌈ ⌉, √, ≤, ≥, ∞, Σ và mọi phân số bị vỡ hoặc mất). Mọi pseudocode (FIND-MAX-CROSSING-SUBARRAY, FIND-MAXIMUM-SUBARRAY, SQUARE-MATRIX-MULTIPLY, SQUARE-MATRIX-MULTIPLY-RECURSIVE), mọi công thức (4.1)–(4.30), các khai triển Sᵢ, Pᵢ, Cᵢⱼ của Strassen, các cây đệ quy trong Hình 4.5–4.8, bảng giá cổ phiếu Hình 4.1–4.3, bảng kết quả kiểm tra chip (Problem 4-5) và hai mảng Monge (Problem 4-6) trong bản tổng hợp này được đối chiếu với ảnh của **tất cả** các trang 65–113.
+- **Chỗ sách sai hoặc chưa chặt (nhận xét của người tổng hợp):**
+  - Trang 68, câu đầu Mục 4.1: "Suppose that you been offered" thiếu chữ "have" (lỗi đánh máy).
+  - Trang 69–70: sách nói phép biến đổi sang mảng thay đổi giá trị vẫn phải kiểm tra C(n − 1, 2) = Θ(n²) mảng con "cho một khoảng n ngày". Với n ngày (ngày 0 tới n − 1) có n − 1 giá trị thay đổi, và số mảng con khác rỗng liên tiếp của mảng n − 1 phần tử là (n − 1)n/2 = C(n, 2), không phải C(n − 1, 2) (ví dụ của sách: 17 ngày, 16 giá trị thay đổi, có 136 = C(17, 2) mảng con, còn C(16, 2) = 120). Kết luận Θ(n²) vẫn đúng.
+  - Trang 78, đoạn bàn về hằng số trong (4.16): sách viết "adding two n²/4 × n²/4 matrices takes Θ(n²)"; các ma trận được cộng có kích thước n/2 × n/2 (tức có n²/4 phần tử), không phải n²/4 × n²/4. Kết luận Θ(n²) vẫn đúng.
+  - Trang 87, Exercise 4.3-8: đề nói truy hồi T(n) = 4T(n/2) + n² có nghiệm Θ(n²). Điều này **sai**: a = 4, b = 2, n^(log₂ 4) = n² và f(n) = n², rơi vào trường hợp 2 của định lý thợ, nghiệm là Θ(n² lg n). Có lẽ đề định viết T(n) = 4T(n/2) + n (nghiệm Θ(n²)); phần lời giải bên dưới xử lý theo cách hiểu này và ghi rõ cả hai. Theo hiểu biết của người tổng hợp, không tra cứu, lỗi này có trong danh sách lỗi chính thức (errata) của ấn bản 3.
+  - Trang 113, công thức nghiệm Akra–Bazzi: vế trái viết "T(n) = Θ(x^p(1 + ∫₁ˣ f(u)/u^(p+1) du))" trong khi biến là x; đúng ra là T(x).
+  - Trang 94, phát biểu Định lý 4.1 chỉ nói "f(n) là một hàm", còn câu dẫn trước đó (trang 93) yêu cầu f(n) dương tiệm cận (asymptotically positive); điều kiện này cần cho cả ba trường hợp.
+  - Mục 4.6.2 chỉ chứng minh chi tiết cận trên cho trường hợp 2 và 3 khi có trần; trường hợp 1 được nói là "gần như giống hệt, đại số phức tạp hơn", và cận dưới "chứng minh tương tự" — đây là chỗ sách để người đọc tự hoàn tất, không phải lỗi.
+- **Mọi phép tính và ví dụ trong sách đã được tự kiểm tra lại và đúng:** mảng con lớn nhất A[8..11] với tổng 43 trên mảng 16 giá trị thay đổi (kể cả lần chạy FIND-MAXIMUM-SUBARRAY: nửa trái cho A[4..4] tổng 20, nửa phải cho A[9..11] tổng 25, phần vắt qua giữa A[8..11] tổng 18 + 25 = 43); ví dụ phản chứng 5 ngày giá 10, 11, 7, 10, 6 (lãi tối đa 3); các khai triển C₁₁ = P₅ + P₄ − P₂ + P₆, C₁₂ = P₁ + P₂, C₂₁ = P₃ + P₄, C₂₂ = P₅ + P₁ − P₃ − P₇ của Strassen; T(2) = 4 và T(3) = 5 cho truy hồi (4.19) với T(1) = 1 và c ≥ 2 đủ cho hai trường hợp cơ sở; hệ số 16/13 của cây 3T(n/4) + cn²; hằng số d ≥ c/(lg 3 − 2/3) ≈ 1,089c của cây T(n/3) + T(2n/3) + cn; các giá trị ε ≈ 0,2 (vì log₄ 3 ≈ 0,793) và ε = 0,8 (vì lg 7 ≈ 2,807) trong các ví dụ của định lý thợ. Mảng Monge ví dụ ở Problem 4-6 đúng là Monge; mảng ở Problem 4-6(b) vi phạm đúng một chỗ (hàng 1–2, cột 2–3: 23 + 7 = 30 > 22 + 6 = 28).
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Chương 4 vẫn tên "Divide-and-Conquer" nhưng bài toán mảng con lớn nhất không còn là một mục riêng; chương mở đầu bằng nhân ma trận vuông (thủ tục cộng dồn C = C + A · B), rồi Strassen, phương pháp thế, cây đệ quy, phương pháp thợ. Định lý thợ ở ấn bản 4 mở rộng trường hợp 2 thành f(n) = Θ(n^(log_b a) lg^k n) với k ≥ 0, cho nghiệm Θ(n^(log_b a) lg^(k+1) n) — chính là nội dung Exercise 4.6-2 ở ấn bản này. Truy hồi được xét trên số thực ("algorithmic recurrences"), mục chứng minh định lý thợ (★) chứng minh "định lý thợ liên tục", và có thêm một mục ★ riêng về truy hồi Akra–Bazzi (ở ấn bản 3 chỉ nằm trong ghi chú chương). Các khác biệt nhỏ hơn, người tổng hợp không nhớ chắc nên không liệt kê.

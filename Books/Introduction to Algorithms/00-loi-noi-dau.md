@@ -1,18 +1,16 @@
 # Lời nói đầu (Preface)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), mục lục "Contents" (trang v–xi) và "Preface" (trang xiii–xix; trang xx để trắng). Lời nói đầu ký ngày tháng 2 năm 2009.
-**Tác giả:** Thomas H. Cormen (Dartmouth College, Lebanon, New Hampshire), Charles E. Leiserson và Ronald L. Rivest (MIT, Cambridge, Massachusetts), Clifford Stein (Columbia University, New York); bốn tác giả thường được gọi tắt theo chữ cái đầu là "CLRS".
-**Vị trí trong lập luận của cả cuốn sách:** Lời nói đầu đứng trước mọi chương. Nó không dạy thuật toán nào, mà nêu cuốn sách định làm gì (giới thiệu đầy đủ việc nghiên cứu thuật toán hiện đại, vừa sâu vừa dễ tiếp cận), dành cho ai (giảng viên, sinh viên, người làm nghề, đồng nghiệp nghiên cứu), dùng ra sao (chọn chương như chọn món, mục có dấu ★ dành cho sau đại học), và ấn bản thứ ba khác ấn bản thứ hai ở đâu. Mục lục chép ở cuối file cho thấy tám phần của sách: Phần I "Nền tảng" (Chương 1–5, bắt đầu bằng [Chương 1 — Vai trò của thuật toán trong tính toán](C01-vai-tro-cua-thuat-toan.md)) dạy ngôn ngữ phân tích; Phần II–III (Chương 6–14) là sắp xếp và cấu trúc dữ liệu cơ bản; Phần IV (Chương 15–17) là ba kỹ thuật thiết kế và phân tích nâng cao; Phần V (Chương 18–21) là cấu trúc dữ liệu nâng cao; Phần VI (Chương 22–26) là thuật toán đồ thị; Phần VII (Chương 27–35) là các chủ đề chọn lọc; Phần VIII (Phụ lục A–D, bắt đầu bằng [Phụ lục A — Tổng](PA-tong.md)) là nền toán học.
-**Ý chính:** Lời nói đầu mở bằng câu "trước khi có máy tính đã có thuật toán, và khi có máy tính thì thuật toán càng nhiều hơn; thuật toán nằm ở trung tâm của tính toán". Cuốn sách muốn **trình bày nhiều thuật toán ở độ sâu đáng kể mà vẫn dễ tiếp cận cho mọi trình độ, giữ giải thích ở mức sơ cấp nhưng không hy sinh độ sâu hay tính chặt chẽ toán học**. Mỗi chương trình bày một thuật toán, một kỹ thuật thiết kế, một lĩnh vực ứng dụng hoặc một chủ đề liên quan; thuật toán được mô tả bằng tiếng Anh và bằng mã giả (pseudocode) mà ai lập trình chút ít cũng đọc được; sách có 244 hình, 957 bài tập (exercises) và 158 bài toán (problems); vì coi hiệu quả là tiêu chí thiết kế, mọi thuật toán đều có phân tích thời gian chạy cẩn thận. Sách tổ chức theo kiểu "lai" (hybrid): vừa có chương theo kỹ thuật (chia để trị, quy hoạch động, tham lam, phân tích khấu hao, NP-đầy đủ, xấp xỉ), vừa có phần theo lĩnh vực bài toán (sắp xếp, cấu trúc dữ liệu cho tập động, đồ thị), vì theo tác giả "bài toán hiếm khi tự báo cho bạn kỹ thuật nào hợp để giải nó". Ấn bản thứ ba thêm hai chương mới (cây van Emde Boas, thuật toán đa luồng) và một phụ lục mới (ma trận), bỏ hai chương ít được dạy (đống nhị thức, mạng sắp xếp), viết lại chương truy hồi thành chương chia để trị, viết lại phần mở đầu quy hoạch động (bài toán cắt thanh) và tham lam, đổi cách xoá nút trong cây tìm kiếm nhị phân, định nghĩa luồng hoàn toàn trên cạnh, đổi cú pháp mã giả cho gần C/Java/Python (`=` là gán, `==` là so sánh bằng, `//` là chú thích, `x.key` là thuộc tính), và thêm 100 bài tập, 28 bài toán.
+## Ý chính
 
-> **Lưu ý:**
-> - **Dấu sao.** Trong sách in, mục khó được đánh dấu bằng ngôi sao đặc (★) ở lề trái mục lục và ở tiêu đề mục. Lớp chữ trích từ PDF hiển thị ký hiệu này thành dấu "?"; bản tổng hợp dùng ★. Mục lục có **13 mục ★**: 4.6, 5.4, 11.5, 12.4, 16.4, 16.5, 21.4, 26.4, 26.5, 31.8, 31.9, 32.4 và C.5. Theo Lời nói đầu, ★ nghĩa là "hợp với sinh viên sau đại học hơn là đại học", không nhất thiết khó hơn, nhưng có thể cần toán nâng cao hơn; bài tập có ★ có thể cần nền tảng nâng cao hoặc sáng tạo hơn mức trung bình.
-> - **Lớp chữ PDF làm hỏng ký hiệu trong đoạn về cú pháp mã giả** (trang xvii): dấu gán "=" bị trích thành "D", ký hiệu chú thích "//" bị trích thành "/ /". Bản tổng hợp đọc lại từ ảnh trang. Tên "LaTeX 2ε" và "BibTeX" (trang xviii) cũng bị trích sai thành "L ATEX2 "" và "B IBTEX". Tên chương 6 trong mục lục bị trích thành "6H eapsort".
-> - **Mục lục chỉ ghi trang bắt đầu.** Mục lục không liệt kê phần "Problems" (bài toán cuối chương) và "Chapter notes" (ghi chú chương) của từng chương; trang kết thúc của mỗi chương trong bảng file ở cuối là ước lượng (trang trước chương hoặc phần kế tiếp). Mỗi phần có một trang tiêu đề phần không đánh số trong mục lục, đứng ngay trước trang "Introduction" (ví dụ Phần II: trang tiêu đề 146, "Introduction" 147; trang 145 vẫn là ghi chú của Chương 5).
-> - **Đoạn "một chương và một mục bị bỏ, hai mục mới".** Lời nói đầu nói ấn bản ba "bỏ hai chương và một mục, thêm ba chương mới và hai mục mới ngoài các chương mới", nhưng chỉ nêu tên hai chương bị bỏ (đống nhị thức, mạng sắp xếp), không nêu tên mục bị bỏ và hai mục mới. Theo hiểu biết của người tổng hợp, không tra cứu: mục bị bỏ là "Assembly-line scheduling" (lập lịch dây chuyền lắp ráp, mục 15.1 của ấn bản hai), được thay bằng 15.1 "Rod cutting"; trong số mục mới có 4.1 "The maximum-subarray problem". "Ba chương mới" gồm Chương 20 (van Emde Boas), Chương 27 (đa luồng) và Phụ lục D (ma trận) — Lời nói đầu tự gọi phụ lục này là "appendix chapter".
-> - **Trang web và lời giải.** Địa chỉ http://mitpress.mit.edu/algorithms/ là địa chỉ năm 2009. Theo hiểu biết của người tổng hợp, không tra cứu: trang này về sau đã đổi cấu trúc; danh sách lỗi (errata) của ấn bản ba được các tác giả duy trì trên trang riêng, và lời giải chính thức chỉ có cho một phần bài tập.
-> - **Điều đã thay đổi sau 2009.** Theo hiểu biết của người tổng hợp, không tra cứu: ấn bản thứ tư (MIT Press, 2022) in hình màu, thêm các chương mới về ghép cặp trong đồ thị hai phía (matchings in bipartite graphs), thuật toán trực tuyến (online algorithms) và thuật toán học máy (machine-learning algorithms), đổi chương đa luồng thành "Parallel Algorithms", và chuyển một số chương của ấn bản ba ra khỏi sách in (đưa lên mạng), trong đó có đống Fibonacci, cây van Emde Boas và hình học tính toán. Đánh số chương của ấn bản bốn vì thế khác ấn bản ba; mọi số chương, số mục, số trang trong repo này theo ấn bản ba.
-> - Lời nói đầu có một chú thích cuối trang (footnote 1, trang xviii) về phần mềm vẽ hình; nội dung được đưa vào mục "How we produced this book" bên dưới.
+Lời nói đầu mở bằng câu "trước khi có máy tính đã có thuật toán, và khi có máy tính thì thuật toán càng nhiều hơn; thuật toán nằm ở trung tâm của tính toán".
+
+Cuốn sách muốn **trình bày nhiều thuật toán ở độ sâu đáng kể mà vẫn dễ tiếp cận cho mọi trình độ, giữ giải thích ở mức sơ cấp nhưng không hy sinh độ sâu hay tính chặt chẽ toán học**.
+
+Mỗi chương trình bày một thuật toán, một kỹ thuật thiết kế, một lĩnh vực ứng dụng hoặc một chủ đề liên quan; thuật toán được mô tả bằng tiếng Anh và bằng mã giả (pseudocode) mà ai lập trình chút ít cũng đọc được; sách có 244 hình, 957 bài tập (exercises) và 158 bài toán (problems); vì coi hiệu quả là tiêu chí thiết kế, mọi thuật toán đều có phân tích thời gian chạy cẩn thận.
+
+Sách tổ chức theo kiểu "lai" (hybrid): vừa có chương theo kỹ thuật (chia để trị, quy hoạch động, tham lam, phân tích khấu hao, NP-đầy đủ, xấp xỉ), vừa có phần theo lĩnh vực bài toán (sắp xếp, cấu trúc dữ liệu cho tập động, đồ thị), vì theo tác giả "bài toán hiếm khi tự báo cho bạn kỹ thuật nào hợp để giải nó".
+
+Ấn bản thứ ba thêm hai chương mới (cây van Emde Boas, thuật toán đa luồng) và một phụ lục mới (ma trận), bỏ hai chương ít được dạy (đống nhị thức, mạng sắp xếp), viết lại chương truy hồi thành chương chia để trị, viết lại phần mở đầu quy hoạch động (bài toán cắt thanh) và tham lam, đổi cách xoá nút trong cây tìm kiếm nhị phân, định nghĩa luồng hoàn toàn trên cạnh, đổi cú pháp mã giả cho gần C/Java/Python (`=` là gán, `==` là so sánh bằng, `//` là chú thích, `x.key` là thuộc tính), và thêm 100 bài tập, 28 bài toán.
 
 ## Sơ đồ
 
@@ -467,7 +465,11 @@ Trang web http://mitpress.mit.edu/algorithms/ dùng để lấy thông tin bổ 
 
 Như ấn bản hai, ấn bản ba được dàn trang bằng LaTeX 2ε, phông Times, công thức toán dùng phông MathTime Pro 2. Tác giả cảm ơn Michael Spivak (Publish or Perish, Inc.), Lance Carnes (Personal TeX, Inc.) và Tim Tregubov (Dartmouth College) đã hỗ trợ kỹ thuật. Như hai ấn bản trước, chỉ mục được tạo bằng Windex, một chương trình C do tác giả tự viết; thư mục được tạo bằng BibTeX. File PDF của sách được tạo trên một máy MacBook chạy OS 10.5.
 
-Hình minh hoạ được vẽ bằng MacDraw Pro, một số biểu thức toán trong hình được chèn bằng gói psfrag của LaTeX 2ε. MacDraw Pro là phần mềm cũ, đã ngừng bán hơn mười năm; tác giả vẫn còn vài máy Macintosh chạy được môi trường Classic dưới OS 10.4 nên chạy được MacDraw Pro, "hầu như ổn". Họ thấy MacDraw Pro dễ dùng hơn mọi phần mềm vẽ khác cho loại hình minh hoạ trong sách khoa học máy tính, và cho kết quả đẹp. Chú thích cuối trang kể rằng họ đã thử nhiều phần mềm vẽ chạy trên Mac OS X nhưng phần mềm nào cũng có khiếm khuyết đáng kể; khi thử vẽ hình cho sách bằng một phần mềm vẽ nổi tiếng khác, mỗi hình mất ít nhất gấp năm lần thời gian và hình không đẹp bằng, nên họ quay lại MacDraw Pro trên máy cũ. Đoạn này kết bằng lời đùa: không biết các máy Mac đời trước Intel còn chạy được bao lâu, nên nếu ai ở Apple đang nghe thì xin hãy làm một phiên bản MacDraw Pro chạy trên OS X.
+Hình minh hoạ được vẽ bằng MacDraw Pro, một số biểu thức toán trong hình được chèn bằng gói psfrag của LaTeX 2ε. MacDraw Pro là phần mềm cũ, đã ngừng bán hơn mười năm; tác giả vẫn còn vài máy Macintosh chạy được môi trường Classic dưới OS 10.4 nên chạy được MacDraw Pro, "hầu như ổn".
+
+Họ thấy MacDraw Pro dễ dùng hơn mọi phần mềm vẽ khác cho loại hình minh hoạ trong sách khoa học máy tính, và cho kết quả đẹp. Chú thích cuối trang kể rằng họ đã thử nhiều phần mềm vẽ chạy trên Mac OS X nhưng phần mềm nào cũng có khiếm khuyết đáng kể; khi thử vẽ hình cho sách bằng một phần mềm vẽ nổi tiếng khác, mỗi hình mất ít nhất gấp năm lần thời gian và hình không đẹp bằng, nên họ quay lại MacDraw Pro trên máy cũ.
+
+Đoạn này kết bằng lời đùa: không biết các máy Mac đời trước Intel còn chạy được bao lâu, nên nếu ai ở Apple đang nghe thì xin hãy làm một phiên bản MacDraw Pro chạy trên OS X.
 
 ### 9. Lời cảm ơn cho ấn bản thứ ba (Acknowledgments for the third edition, trang xviii–xix)
 
@@ -892,3 +894,155 @@ Theo hiểu biết của người tổng hợp, không tra cứu: ấn bản b�
 - **Tự học:** đọc Phần I trước (Chương 1–4 là ngôn ngữ chung của cả sách), tra Phụ lục A–D khi gặp phép tính lạ, sau đó chọn phần theo nhu cầu.
 - **Phỏng vấn và lập trình thi đấu:** các chương hay dùng nhất là 2, 4, 6–8, 10–13, 15–16, 22–24; mục ★ hiếm khi cần, trừ thuật toán KMP (32.4) vốn hay gặp trong lập trình thi đấu.
 - **Kỹ thuật phần mềm:** dùng sách như sổ tay để hiểu bảo đảm độ phức tạp của cấu trúc dữ liệu trong thư viện chuẩn (bảng băm, cây cân bằng, hàng đợi ưu tiên), đúng như Lời nói đầu gợi ý cho "người làm nghề".
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời nói đầu (Preface, trang xiii–xix) và Mục lục (trang v–xi) trên một trang: bảy nhánh đi theo thứ tự các tiểu mục của bản gốc — đoạn mở đầu, gửi giảng viên, gửi sinh viên và người làm nghề, gửi đồng nghiệp, thay đổi của ấn bản ba, trang web và cách làm sách, mục lục tám phần — mỗi nhánh ghi lời hứa, quy ước hoặc con số cụ thể; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời nói đầu: thuật toán nằm ở trung tâm của tính toán, và sách dạy nhiều thuật toán ở độ sâu đáng kể mà vẫn dễ tiếp cận, chặt chẽ toán học`"]
+  n1["`Đoạn mở đầu (trang xiii) — mục tiêu và cách trình bày`"]
+  n0 --- n1
+  n2["`Câu mở đầu: trước khi có máy tính đã có thuật toán, có máy tính thì thuật toán càng nhiều hơn`"]
+  n1 --- n2
+  n3["`Lời hứa: giải thích ở mức sơ cấp nhưng không hy sinh độ sâu hay tính chặt chẽ toán học`"]
+  n1 --- n3
+  n4["`Mỗi chương là một thuật toán, một kỹ thuật thiết kế, một lĩnh vực ứng dụng hoặc một chủ đề liên quan`"]
+  n1 --- n4
+  n5["`Thuật toán mô tả bằng lời và bằng mã giả mà ai lập trình chút ít cũng đọc được, kèm 244 hình`"]
+  n1 --- n5
+  n6["`Vì hiệu quả là tiêu chí thiết kế, mọi thuật toán đều có phân tích thời gian chạy cẩn thận`"]
+  n1 --- n6
+  n7["`Đối tượng: môn thuật toán và cấu trúc dữ liệu bậc đại học, sau đại học, và người làm nghề tự học`"]
+  n1 --- n7
+  n8["`Gửi giảng viên (trang xiii–xiv) — sách là bàn tiệc tự chọn`"]
+  n0 --- n8
+  n9["`Nội dung nhiều hơn một học kỳ, giảng viên chọn phần hợp môn mình (buffet, smorgasbord)`"]
+  n8 --- n9
+  n10["`Chương tương đối độc lập, trong chương dễ trước khó sau, ranh giới mục là chỗ dừng tự nhiên`"]
+  n8 --- n10
+  n11["`Môn đại học dạy các mục đầu, môn sau đại học dạy cả chương`"]
+  n8 --- n11
+  n12["`957 bài tập cuối mục kiểm tra mức nắm cơ bản, 158 bài toán cuối chương đưa vào nội dung mới`"]
+  n8 --- n12
+  n13["`Lần đầu công bố lời giải một số bài trên web, giảng viên nên kiểm tra trước mỗi lần giao bài`"]
+  n8 --- n13
+  n14["`Dấu ★ đánh dấu 13 mục hợp sau đại học: không nhất thiết khó hơn nhưng có thể cần toán nâng cao`"]
+  n8 --- n14
+  n15["`Gửi sinh viên và người làm nghề (trang xiv–xv) — điều kiện đọc và cách dùng mã giả`"]
+  n0 --- n15
+  n16["`Thuật toán lạ hoặc khó được mô tả từng bước, phần toán cho phân tích được giải thích cẩn thận`"]
+  n15 --- n16
+  n17["`Sách dùng được cả sau này như tài liệu tra cứu toán học và sổ tay kỹ thuật`"]
+  n15 --- n17
+  n18["`Điều kiện tiên quyết: hiểu thủ tục đệ quy, mảng, danh sách liên kết và chứng minh quy nạp`"]
+  n15 --- n18
+  n19["`Phần I và Phần VIII dạy mọi kỹ thuật toán học còn lại, vài chỗ cần giải tích sơ cấp`"]
+  n15 --- n19
+  n20["`Mã giả cố ý bỏ xử lý lỗi và chi tiết kỹ nghệ phần mềm để không che bản chất thuật toán`"]
+  n15 --- n20
+  n21["`Thuật toán chủ yếu có ý nghĩa lý thuyết thường đi kèm phương án thay thế thực tế hơn`"]
+  n15 --- n21
+  n22["`Gửi đồng nghiệp (trang xv–xvi) — ghi chú chương và chính sách nguồn bài tập`"]
+  n0 --- n22
+  n23["`Mỗi chương kết bằng ghi chú chương nêu lịch sử và tài liệu tham khảo, kèm thư mục dày`"]
+  n22 --- n23
+  n24["`Ghi chú chương không đầy đủ cho cả lĩnh vực, giới hạn số trang buộc bỏ nhiều thuật toán thú vị`"]
+  n22 --- n24
+  n25["`Cố ý không ghi nguồn cho bài tập và bài toán để sinh viên tự giải thay vì tra lời giải`"]
+  n22 --- n25
+  n26["`Thay đổi trong ấn bản thứ ba (trang xvi–xvii) — giữ tổ chức lai, bỏ hai chương, thêm ba chương`"]
+  n0 --- n26
+  n27["`Tổ chức lai: chương theo kỹ thuật cộng phần theo lĩnh vực bài toán`"]
+  n26 --- n27
+  n28["`Kỹ thuật: chia để trị, quy hoạch động, tham lam, phân tích khấu hao, NP-đầy đủ, xấp xỉ`"]
+  n27 --- n28
+  n29["`Lĩnh vực: sắp xếp, cấu trúc dữ liệu cho tập động, thuật toán đồ thị`"]
+  n27 --- n29
+  n30["`Lý do: bài toán hiếm khi tự báo kỹ thuật nào hợp để giải nó`"]
+  n27 --- n30
+  n31["`Thêm cây van Emde Boas (Chương 20, thao tác O(lg lg u)), thuật toán đa luồng (Chương 27), Phụ lục D ma trận`"]
+  n26 --- n31
+  n32["`Bỏ đống nhị thức và mạng sắp xếp, nguyên lý 0-1 còn lại trong Bài toán 8-7`"]
+  n26 --- n32
+  n33["`Chương truy hồi thành Chương 4 Chia để trị, có mảng con tổng lớn nhất và Strassen Θ(n^lg 7)`"]
+  n26 --- n33
+  n34["`Quy hoạch động mở đầu bằng cắt thanh, nhấn mạnh ghi nhớ (memoization) và đồ thị bài toán con`"]
+  n26 --- n34
+  n35["`Xoá nút trong cây tìm kiếm nhị phân nay xoá đúng nút được chỉ định, tránh con trỏ cũ`"]
+  n26 --- n35
+  n36["`Luồng định nghĩa hoàn toàn trên cạnh thay cho luồng ròng f(u, v) = −f(v, u)`"]
+  n26 --- n36
+  n37["`Mã giả gần C, Java, Python: = là gán, == là so sánh, // là chú thích, ký hiệu chấm cho thuộc tính`"]
+  n26 --- n37
+  n38["`Thêm 100 bài tập và 28 bài toán, sửa trình bày KMP, viết lại văn phong chủ động hơn`"]
+  n26 --- n38
+  n39["`Trang web, cách làm sách, lời cảm ơn (trang xviii–xix)`"]
+  n0 --- n39
+  n40["`Trang web của MIT Press dẫn tới errata, lời giải chọn lọc và danh sách giải thích câu đùa kiểu giáo sư`"]
+  n39 --- n40
+  n41["`Dàn trang bằng LaTeX 2ε, chỉ mục bằng Windex do tác giả tự viết, thư mục bằng BibTeX`"]
+  n39 --- n41
+  n42["`Hình vẽ bằng MacDraw Pro trên máy Mac cũ, vì phần mềm khác tốn gấp năm lần thời gian mỗi hình`"]
+  n39 --- n42
+  n43["`Julie Sussman biên tập kỹ thuật, lỗi còn lại thuộc tác giả “và có lẽ được thêm vào sau khi Julie đọc”`"]
+  n39 --- n43
+  n44["`Chương đa luồng dựa trên dự án Cilk ở MIT, cây van Emde Boas dựa trên bài giảng của Erik Demaine`"]
+  n39 --- n44
+  n45["`Mục lục (trang v–xi) — tám phần, 35 chương và 4 phụ lục, 156 mục`"]
+  n0 --- n45
+  n46["`Phần I Nền tảng (Chương 1–5): vai trò thuật toán, sắp xếp chèn và trộn, ký hiệu tiệm cận, chia để trị, xác suất`"]
+  n45 --- n46
+  n47["`Phần II–III (Chương 6–14): sắp xếp, thống kê thứ tự, cấu trúc dữ liệu cơ bản`"]
+  n45 --- n47
+  n48["`Phần IV (Chương 15–17): quy hoạch động, tham lam, phân tích khấu hao`"]
+  n45 --- n48
+  n49["`Phần V (Chương 18–21): cây B, đống Fibonacci, cây van Emde Boas, tập rời nhau`"]
+  n45 --- n49
+  n50["`Phần VI (Chương 22–26): duyệt đồ thị, cây khung nhỏ nhất, đường đi ngắn nhất, luồng cực đại`"]
+  n45 --- n50
+  n51["`Phần VII (Chương 27–35) dài nhất, khoảng 370 trang, từ đa luồng tới NP-đầy đủ và xấp xỉ`"]
+  n45 --- n51
+  n52["`Phần VIII Phụ lục A–D: tổng, tập hợp và đồ thị, đếm và xác suất, ma trận`"]
+  n45 --- n52
+  n53["`Thông điệp xuyên suốt`"]
+  n0 --- n53
+  n54["`Mỗi thuật toán đi kèm mô tả, chứng minh đúng và phân tích thời gian chạy`"]
+  n53 --- n54
+  n55["`Chương độc lập nên sách vừa là giáo trình vừa là sổ tay tra theo nhu cầu`"]
+  n53 --- n55
+  n56["`Mục ★ có thể bỏ qua ở lần đọc đầu mà không mất mạch`"]
+  n53 --- n56
+  class n0 root
+  class n1,n8,n15,n22,n26,n39,n45,n53 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), mục lục "Contents" (trang v–xi) và "Preface" (trang xiii–xix; trang xx để trắng). Lời nói đầu ký ngày tháng 2 năm 2009.
+
+## Tác giả
+
+Thomas H. Cormen (Dartmouth College, Lebanon, New Hampshire), Charles E. Leiserson và Ronald L. Rivest (MIT, Cambridge, Massachusetts), Clifford Stein (Columbia University, New York); bốn tác giả thường được gọi tắt theo chữ cái đầu là "CLRS".
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Lời nói đầu đứng trước mọi chương. Nó không dạy thuật toán nào, mà nêu cuốn sách định làm gì (giới thiệu đầy đủ việc nghiên cứu thuật toán hiện đại, vừa sâu vừa dễ tiếp cận), dành cho ai (giảng viên, sinh viên, người làm nghề, đồng nghiệp nghiên cứu), dùng ra sao (chọn chương như chọn món, mục có dấu ★ dành cho sau đại học), và ấn bản thứ ba khác ấn bản thứ hai ở đâu.
+
+Mục lục chép ở cuối file cho thấy tám phần của sách: Phần I "Nền tảng" (Chương 1–5, bắt đầu bằng [Chương 1 — Vai trò của thuật toán trong tính toán](C01-vai-tro-cua-thuat-toan.md)) dạy ngôn ngữ phân tích; Phần II–III (Chương 6–14) là sắp xếp và cấu trúc dữ liệu cơ bản; Phần IV (Chương 15–17) là ba kỹ thuật thiết kế và phân tích nâng cao; Phần V (Chương 18–21) là cấu trúc dữ liệu nâng cao; Phần VI (Chương 22–26) là thuật toán đồ thị; Phần VII (Chương 27–35) là các chủ đề chọn lọc; Phần VIII (Phụ lục A–D, bắt đầu bằng [Phụ lục A — Tổng](PA-tong.md)) là nền toán học.
+
+## Lưu ý
+
+- **Dấu sao.** Trong sách in, mục khó được đánh dấu bằng ngôi sao đặc (★) ở lề trái mục lục và ở tiêu đề mục. Lớp chữ trích từ PDF hiển thị ký hiệu này thành dấu "?"; bản tổng hợp dùng ★. Mục lục có **13 mục ★**: 4.6, 5.4, 11.5, 12.4, 16.4, 16.5, 21.4, 26.4, 26.5, 31.8, 31.9, 32.4 và C.5. Theo Lời nói đầu, ★ nghĩa là "hợp với sinh viên sau đại học hơn là đại học", không nhất thiết khó hơn, nhưng có thể cần toán nâng cao hơn; bài tập có ★ có thể cần nền tảng nâng cao hoặc sáng tạo hơn mức trung bình.
+- **Lớp chữ PDF làm hỏng ký hiệu trong đoạn về cú pháp mã giả** (trang xvii): dấu gán "=" bị trích thành "D", ký hiệu chú thích "//" bị trích thành "/ /". Bản tổng hợp đọc lại từ ảnh trang. Tên "LaTeX 2ε" và "BibTeX" (trang xviii) cũng bị trích sai thành "L ATEX2 "" và "B IBTEX". Tên chương 6 trong mục lục bị trích thành "6H eapsort".
+- **Mục lục chỉ ghi trang bắt đầu.** Mục lục không liệt kê phần "Problems" (bài toán cuối chương) và "Chapter notes" (ghi chú chương) của từng chương; trang kết thúc của mỗi chương trong bảng file ở cuối là ước lượng (trang trước chương hoặc phần kế tiếp). Mỗi phần có một trang tiêu đề phần không đánh số trong mục lục, đứng ngay trước trang "Introduction" (ví dụ Phần II: trang tiêu đề 146, "Introduction" 147; trang 145 vẫn là ghi chú của Chương 5).
+- **Đoạn "một chương và một mục bị bỏ, hai mục mới".** Lời nói đầu nói ấn bản ba "bỏ hai chương và một mục, thêm ba chương mới và hai mục mới ngoài các chương mới", nhưng chỉ nêu tên hai chương bị bỏ (đống nhị thức, mạng sắp xếp), không nêu tên mục bị bỏ và hai mục mới. Theo hiểu biết của người tổng hợp, không tra cứu: mục bị bỏ là "Assembly-line scheduling" (lập lịch dây chuyền lắp ráp, mục 15.1 của ấn bản hai), được thay bằng 15.1 "Rod cutting"; trong số mục mới có 4.1 "The maximum-subarray problem". "Ba chương mới" gồm Chương 20 (van Emde Boas), Chương 27 (đa luồng) và Phụ lục D (ma trận) — Lời nói đầu tự gọi phụ lục này là "appendix chapter".
+- **Trang web và lời giải.** Địa chỉ http://mitpress.mit.edu/algorithms/ là địa chỉ năm 2009. Theo hiểu biết của người tổng hợp, không tra cứu: trang này về sau đã đổi cấu trúc; danh sách lỗi (errata) của ấn bản ba được các tác giả duy trì trên trang riêng, và lời giải chính thức chỉ có cho một phần bài tập.
+- **Điều đã thay đổi sau 2009.** Theo hiểu biết của người tổng hợp, không tra cứu: ấn bản thứ tư (MIT Press, 2022) in hình màu, thêm các chương mới về ghép cặp trong đồ thị hai phía (matchings in bipartite graphs), thuật toán trực tuyến (online algorithms) và thuật toán học máy (machine-learning algorithms), đổi chương đa luồng thành "Parallel Algorithms", và chuyển một số chương của ấn bản ba ra khỏi sách in (đưa lên mạng), trong đó có đống Fibonacci, cây van Emde Boas và hình học tính toán. Đánh số chương của ấn bản bốn vì thế khác ấn bản ba; mọi số chương, số mục, số trang trong repo này theo ấn bản ba.
+- Lời nói đầu có một chú thích cuối trang (footnote 1, trang xviii) về phần mềm vẽ hình; nội dung được đưa vào mục "How we produced this book" bên dưới.

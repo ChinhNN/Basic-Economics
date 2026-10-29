@@ -1,17 +1,20 @@
 # Chương 6 — Sắp xếp vun đống (Heapsort)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009). Gồm hai phần: Phần II "Sorting and Order Statistics" — trang tên phần (trang 146, không in số) và lời giới thiệu Phần II (Introduction, trang 147–150); Chương 6 "Heapsort", trang 151–169.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I ([C01-vai-tro-cua-thuat-toan.md](C01-vai-tro-cua-thuat-toan.md) tới [C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) xây công cụ: Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) giới thiệu bài toán sắp xếp, sắp xếp chèn (tại chỗ, Θ(n²)), sắp xếp trộn (Θ(n lg n), không tại chỗ) và kỹ thuật bất biến vòng lặp; Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) cho ký hiệu Θ, O, Ω; Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cho định lý thợ, được dùng ngay ở Mục 6.2. Lời giới thiệu Phần II đặt bài toán sắp xếp làm trung tâm, phân biệt khoá với dữ liệu vệ tinh, nêu năm lý do sắp xếp là bài toán nền tảng, tóm tắt bảng thời gian chạy của bảy thuật toán sắp xếp trong Chương 2 và 6–8, và giới thiệu bài toán thống kê thứ tự. Chương 6 là chương đầu của Phần II: thuật toán heapsort đạt cùng lúc hai ưu điểm mà sắp xếp chèn và sắp xếp trộn chỉ có riêng từng cái (O(n lg n) trong trường hợp xấu nhất và sắp xếp tại chỗ), đồng thời giới thiệu cấu trúc dữ liệu đầu tiên của sách — **đống nhị phân** (binary heap) — và ứng dụng của nó làm **hàng đợi ưu tiên** (priority queue). Chương 7 ([C07-quicksort.md](C07-quicksort.md)) trình bày quicksort, thường nhanh hơn heapsort trong thực tế nhưng xấu nhất Θ(n²). Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) chứng minh mọi thuật toán sắp xếp bằng so sánh cần Ω(n lg n) phép so sánh, nên heapsort tối ưu tiệm cận. Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) giải bài toán thống kê thứ tự nêu ở lời giới thiệu Phần II. Hàng đợi ưu tiên dựng bằng đống được dùng lại ở Chương 16 ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md), mã Huffman), Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md), thuật toán Prim) và Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md), thuật toán Dijkstra); Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) và Chương 20 ([C20-cay-van-emde-boas.md](C20-cay-van-emde-boas.md)) cho các cài đặt hàng đợi ưu tiên nhanh hơn ở một số phép toán; Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) mở Phần III với khái niệm tập động, tổng quát hoá cách nhìn "cấu trúc dữ liệu hỗ trợ một nhóm phép toán" đã xuất hiện lần đầu ở Mục 6.5.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **một mảng bình thường, nếu nhìn như một cây nhị phân gần đầy đủ và giữ tính chất "cha không nhỏ hơn con" (tính chất đống max), sẽ cho phép lấy phần tử lớn nhất trong O(1) và khôi phục cấu trúc trong O(lg n); từ đó có thuật toán sắp xếp tại chỗ O(n lg n) trong trường hợp xấu nhất (heapsort) và một hàng đợi ưu tiên mà mọi phép toán đều O(lg n).** Lời giới thiệu Phần II định nghĩa bài toán sắp xếp (đầu vào n số, đầu ra một hoán vị không giảm), bản ghi gồm khoá và dữ liệu vệ tinh, năm lý do sắp xếp là bài toán cơ bản nhất, bảng thời gian chạy của sắp xếp chèn, trộn, vun đống, nhanh, đếm, cơ số, phân cụm, và bài toán thống kê thứ tự thứ i. Mục 6.1 định nghĩa đống nhị phân: mảng A với thuộc tính A.heap-size, gốc A[1], cha của i là ⌊i/2⌋, con trái 2i, con phải 2i + 1; tính chất đống max A[PARENT(i)] ≥ A[i] và đống min A[PARENT(i)] ≤ A[i]; chiều cao của đống n phần tử là ⌊lg n⌋. Mục 6.2 trình bày MAX-HEAPIFY: khi hai cây con của nút i đã là đống max, cho A[i] "chìm xuống" bằng cách đổi với con lớn hơn, lặp lại; thời gian O(lg n), hay O(h) với h là chiều cao nút. Mục 6.3 trình bày BUILD-MAX-HEAP: gọi MAX-HEAPIFY từ nút ⌊n/2⌋ lùi về 1; chứng minh đúng bằng bất biến vòng lặp; cận đơn giản O(n lg n) không chặt, cận chặt O(n) vì có nhiều nhất ⌈n/2^(h+1)⌉ nút ở chiều cao h và Σ h/2^h = 2. Mục 6.4 trình bày HEAPSORT: dựng đống max, rồi n − 1 lần đổi gốc (phần tử lớn nhất) xuống cuối vùng đống, thu nhỏ đống, gọi MAX-HEAPIFY(A, 1); tổng O(n lg n). Mục 6.5 dùng đống max cài hàng đợi ưu tiên max với HEAP-MAXIMUM (Θ(1)), HEAP-EXTRACT-MAX, HEAP-INCREASE-KEY ("nổi lên" về phía gốc) và MAX-HEAP-INSERT (thêm lá −∞ rồi tăng khoá), cùng O(lg n), và nói về "tay cầm" (handle) nối phần tử đống với đối tượng ứng dụng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong chương này.** Chỉ có một bài tập có dấu sao: Exercise 6.4-5 (chứng minh thời gian tốt nhất của HEAPSORT là Ω(n lg n) khi các phần tử khác nhau). Ba bài toán cuối chương (6-1, 6-2, 6-3) không có dấu sao.
-> - **Số trang Phần II:** trang 146 là trang tên "II Sorting and Order Statistics" (không in số, chỉ có tiêu đề), lời giới thiệu Phần II là trang 147–150 (trang 147 không in số). Chương 6 bắt đầu ở trang 151 và kết thúc ở trang 169 (Ghi chú chương tràn sang trang 169); trang 170 đã là Chương 7. File này dùng các số trang sau khi kiểm tra ảnh trang.
-> - **Lớp chữ PDF hỏng nhiều ký hiệu, đã đọc lại từ ảnh trang:** dấu ngoặc vuông thành `Œ` (`AŒi` là A[i]); dấu ≤, ≥ mất hẳn (`AŒPARENT .i / AŒi` là A[PARENT(i)] ≥ A[i] ở trang 152 và ≤ ở trang 153; `l A:heap-size` ở dòng 3 MAX-HEAPIFY là l ≤ A.heap-size); dấu ≠ ở dòng 8 MAX-HEAPIFY mất; dấu trừ và vô cực thành `/NUL` (`/NUL1` là −∞ ở MAX-HEAP-INSERT và Exercise 6.5-4); dấu ⌈ ⌉ thành `˙` (cận ⌈n/2^(h+1)⌉ ở trang 157, 159); tổng và phân số của chặn BUILD-MAX-HEAP ở trang 159 vỡ thành nhiều dòng; căn bậc hai và ε mất ở Ghi chú chương (`O.p lg n/` là O(√lg n), `lg1=3C C` là lg^(1/3+ε) C); Θ thành `‚`, Ω mất. Toàn bộ pseudocode, công thức, Hình 6.1–6.5 và bảng thời gian chạy ở trang 150 được đối chiếu với ảnh trang 147–169.
-> - **Chỗ sách sai chính tả hoặc chưa chặt (nhận xét của người tổng hợp):** (1) trang 159 viết "We evalaute" — lỗi chính tả của "evaluate". (2) Trang 153 viết "a heap of n elements is based on a complete binary tree", trong khi Mục 6.1 vừa định nghĩa đống là cây nhị phân *gần* đầy đủ (nearly complete); chữ "complete" ở đây nên hiểu là "nearly complete". (3) Trang 164 mô tả HEAP-INCREASE-KEY "dừng nếu khoá của phần tử nhỏ hơn" khoá cha, nhưng pseudocode dừng khi khoá *không lớn hơn* (bằng nhau cũng dừng) — pseudocode đúng, lời văn chưa chặt. (4) MAX-HEAP-INSERT tăng A.heap-size mà không kiểm tra A.heap-size < A.length (tràn mảng); HEAP-INCREASE-KEY không kiểm tra 1 ≤ i ≤ A.heap-size. Đây là đơn giản hoá có chủ ý của sách. Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
-> - **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** MAX-HEAPIFY(A, 2) trên ⟨16, 4, 10, 14, 7, 9, 3, 2, 8, 1⟩ cho ⟨16, 14, 10, 8, 7, 9, 3, 2, 4, 1⟩; BUILD-MAX-HEAP trên ⟨4, 1, 3, 2, 16, 9, 10, 14, 8, 7⟩ cho cùng đống đó qua năm lần gọi MAX-HEAPIFY (7 lần đổi chỗ); HEAPSORT trên đống đó cho ⟨1, 2, 3, 4, 7, 8, 9, 10, 14, 16⟩, mọi trạng thái trung gian (b)–(j) khớp; HEAP-INCREASE-KEY tăng A[9] từ 4 lên 15 cho ⟨16, 15, 10, 14, 7, 9, 3, 2, 8, 1⟩. Cận "cây con của một con có nhiều nhất 2n/3 nút" cũng đã kiểm tra: khi tầng đáy đầy đúng một nửa, cây con trái có (2n − 1)/3 < 2n/3 nút.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Chương 6 vẫn là "Heapsort" với cùng năm mục. Thuộc tính A.length bị bỏ; các thủ tục nhận thêm tham số n (ví dụ BUILD-MAX-HEAP(A, n), HEAPSORT(A, n)). Mục 6.5 được viết lại để hàng đợi ưu tiên lưu *đối tượng* có khoá và nói rõ hơn việc ánh xạ giữa đối tượng ứng dụng và chỉ số mảng (MAX-HEAP-INSERT nhận một đối tượng x thay vì một khoá). Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **một mảng bình thường, nếu nhìn như một cây nhị phân gần đầy đủ và giữ tính chất "cha không nhỏ hơn con" (tính chất đống max), sẽ cho phép lấy phần tử lớn nhất trong O(1) và khôi phục cấu trúc trong O(lg n); từ đó có thuật toán sắp xếp tại chỗ O(n lg n) trong trường hợp xấu nhất (heapsort) và một hàng đợi ưu tiên mà mọi phép toán đều O(lg n).**
+
+Lời giới thiệu Phần II định nghĩa bài toán sắp xếp (đầu vào n số, đầu ra một hoán vị không giảm), bản ghi gồm khoá và dữ liệu vệ tinh, năm lý do sắp xếp là bài toán cơ bản nhất, bảng thời gian chạy của sắp xếp chèn, trộn, vun đống, nhanh, đếm, cơ số, phân cụm, và bài toán thống kê thứ tự thứ i.
+
+Mục 6.1 định nghĩa đống nhị phân: mảng A với thuộc tính A.heap-size, gốc A[1], cha của i là ⌊i/2⌋, con trái 2i, con phải 2i + 1; tính chất đống max A[PARENT(i)] ≥ A[i] và đống min A[PARENT(i)] ≤ A[i]; chiều cao của đống n phần tử là ⌊lg n⌋.
+
+Mục 6.2 trình bày MAX-HEAPIFY: khi hai cây con của nút i đã là đống max, cho A[i] "chìm xuống" bằng cách đổi với con lớn hơn, lặp lại; thời gian O(lg n), hay O(h) với h là chiều cao nút.
+
+Mục 6.3 trình bày BUILD-MAX-HEAP: gọi MAX-HEAPIFY từ nút ⌊n/2⌋ lùi về 1; chứng minh đúng bằng bất biến vòng lặp; cận đơn giản O(n lg n) không chặt, cận chặt O(n) vì có nhiều nhất ⌈n/2^(h+1)⌉ nút ở chiều cao h và Σ h/2^h = 2.
+
+Mục 6.4 trình bày HEAPSORT: dựng đống max, rồi n − 1 lần đổi gốc (phần tử lớn nhất) xuống cuối vùng đống, thu nhỏ đống, gọi MAX-HEAPIFY(A, 1); tổng O(n lg n).
+
+Mục 6.5 dùng đống max cài hàng đợi ưu tiên max với HEAP-MAXIMUM (Θ(1)), HEAP-EXTRACT-MAX, HEAP-INCREASE-KEY ("nổi lên" về phía gốc) và MAX-HEAP-INSERT (thêm lá −∞ rồi tăng khoá), cùng O(lg n), và nói về "tay cầm" (handle) nối phần tử đống với đối tượng ứng dụng.
 
 ## Sơ đồ
 
@@ -400,7 +403,9 @@ Quicksort, ở Chương 7, cũng sắp xếp n số tại chỗ, nhưng thời g
 
 Sắp xếp chèn, sắp xếp trộn, heapsort và quicksort đều là **sắp xếp bằng so sánh** (comparison sorts): chúng xác định thứ tự của mảng đầu vào bằng cách so sánh các phần tử. Chương 8 mở đầu bằng mô hình cây quyết định để nghiên cứu giới hạn hiệu năng của sắp xếp bằng so sánh. Dùng mô hình này, sách chứng minh cận dưới Ω(n lg n) cho thời gian xấu nhất của mọi thuật toán sắp xếp bằng so sánh trên n đầu vào, qua đó cho thấy heapsort và sắp xếp trộn là các thuật toán sắp xếp bằng so sánh tối ưu tiệm cận.
 
-Chương 8 sau đó chỉ ra rằng ta có thể vượt cận dưới Ω(n lg n) nếu thu được thông tin về thứ tự của đầu vào bằng cách khác ngoài so sánh. Chẳng hạn, thuật toán **sắp xếp đếm** (counting sort) giả định các số đầu vào thuộc tập {0, 1, …, k}. Dùng việc đánh chỉ số mảng làm công cụ xác định thứ tự tương đối, sắp xếp đếm sắp n số trong Θ(k + n). Vì vậy khi k = O(n), sắp xếp đếm chạy trong thời gian tuyến tính theo kích thước mảng đầu vào. Một thuật toán liên quan, **sắp xếp cơ số** (radix sort), mở rộng phạm vi của sắp xếp đếm: nếu có n số nguyên cần sắp, mỗi số có d chữ số, mỗi chữ số nhận tối đa k giá trị, thì sắp xếp cơ số chạy trong Θ(d(n + k)). Khi d là hằng số và k là O(n), sắp xếp cơ số chạy tuyến tính. Thuật toán thứ ba, **sắp xếp phân cụm** (bucket sort), cần biết phân phối xác suất của các số đầu vào; nó sắp n số thực phân phối đều trên nửa khoảng [0, 1) trong thời gian trung bình O(n).
+Chương 8 sau đó chỉ ra rằng ta có thể vượt cận dưới Ω(n lg n) nếu thu được thông tin về thứ tự của đầu vào bằng cách khác ngoài so sánh. Chẳng hạn, thuật toán **sắp xếp đếm** (counting sort) giả định các số đầu vào thuộc tập {0, 1, …, k}. Dùng việc đánh chỉ số mảng làm công cụ xác định thứ tự tương đối, sắp xếp đếm sắp n số trong Θ(k + n). Vì vậy khi k = O(n), sắp xếp đếm chạy trong thời gian tuyến tính theo kích thước mảng đầu vào.
+
+Một thuật toán liên quan, **sắp xếp cơ số** (radix sort), mở rộng phạm vi của sắp xếp đếm: nếu có n số nguyên cần sắp, mỗi số có d chữ số, mỗi chữ số nhận tối đa k giá trị, thì sắp xếp cơ số chạy trong Θ(d(n + k)). Khi d là hằng số và k là O(n), sắp xếp cơ số chạy tuyến tính. Thuật toán thứ ba, **sắp xếp phân cụm** (bucket sort), cần biết phân phối xác suất của các số đầu vào; nó sắp n số thực phân phối đều trên nửa khoảng [0, 1) trong thời gian trung bình O(n).
 
 Bảng sau tóm tắt thời gian chạy của các thuật toán sắp xếp ở Chương 2 và 6–8. Như thường lệ, n là số phần tử cần sắp. Với sắp xếp đếm, các phần tử là số nguyên thuộc {0, 1, …, k}. Với sắp xếp cơ số, mỗi phần tử là số có d chữ số, mỗi chữ số nhận k giá trị. Với sắp xếp phân cụm, các khoá là số thực phân phối đều trên [0, 1). Cột phải ghi thời gian trung bình hoặc kỳ vọng, có chú thích loại nào khi nó khác thời gian xấu nhất. Sách bỏ trống thời gian trung bình của heapsort vì không phân tích nó.
 
@@ -827,13 +832,17 @@ Heapsort là thuật toán xuất sắc, nhưng một cài đặt quicksort tố
 
 Trong các ứng dụng, có thể dùng hàng đợi ưu tiên max để lập lịch công việc trên một máy tính dùng chung. Hàng đợi ưu tiên max theo dõi các công việc cần thực hiện và độ ưu tiên tương đối của chúng. Khi một công việc xong hoặc bị ngắt, bộ lập lịch chọn công việc ưu tiên cao nhất trong số công việc đang chờ bằng cách gọi EXTRACT-MAX. Bộ lập lịch có thể thêm công việc mới vào hàng đợi bất cứ lúc nào bằng cách gọi INSERT.
 
-Ngược lại, **hàng đợi ưu tiên min** (min-priority queue) hỗ trợ các phép toán INSERT, MINIMUM, EXTRACT-MIN và DECREASE-KEY. Có thể dùng hàng đợi ưu tiên min trong một bộ mô phỏng hướng sự kiện (event-driven simulator). Các phần tử trong hàng đợi là các sự kiện cần mô phỏng, mỗi sự kiện gắn với thời điểm xảy ra làm khoá. Các sự kiện phải được mô phỏng theo thứ tự thời điểm xảy ra, vì việc mô phỏng một sự kiện có thể sinh ra các sự kiện khác cần mô phỏng trong tương lai. Chương trình mô phỏng gọi EXTRACT-MIN ở mỗi bước để chọn sự kiện kế tiếp cần mô phỏng. Khi có sự kiện mới được sinh ra, bộ mô phỏng chèn chúng vào hàng đợi ưu tiên min bằng INSERT. Sách sẽ gặp các ứng dụng khác của hàng đợi ưu tiên min, nhấn mạnh phép toán DECREASE-KEY, ở Chương 23 và 24.
+Ngược lại, **hàng đợi ưu tiên min** (min-priority queue) hỗ trợ các phép toán INSERT, MINIMUM, EXTRACT-MIN và DECREASE-KEY.
+
+Có thể dùng hàng đợi ưu tiên min trong một bộ mô phỏng hướng sự kiện (event-driven simulator). Các phần tử trong hàng đợi là các sự kiện cần mô phỏng, mỗi sự kiện gắn với thời điểm xảy ra làm khoá. Các sự kiện phải được mô phỏng theo thứ tự thời điểm xảy ra, vì việc mô phỏng một sự kiện có thể sinh ra các sự kiện khác cần mô phỏng trong tương lai. Chương trình mô phỏng gọi EXTRACT-MIN ở mỗi bước để chọn sự kiện kế tiếp cần mô phỏng. Khi có sự kiện mới được sinh ra, bộ mô phỏng chèn chúng vào hàng đợi ưu tiên min bằng INSERT. Sách sẽ gặp các ứng dụng khác của hàng đợi ưu tiên min, nhấn mạnh phép toán DECREASE-KEY, ở Chương 23 và 24.
 
 Ví dụ của người tổng hợp về mô phỏng: hàng đợi có sự kiện "khách A đến lúc 3", "khách B đến lúc 7". EXTRACT-MIN lấy sự kiện lúc 3; mô phỏng nó sinh ra sự kiện "khách A rời quầy lúc 5", được INSERT; EXTRACT-MIN kế tiếp lấy sự kiện lúc 5 chứ không phải lúc 7 — đúng thứ tự thời gian dù sự kiện lúc 5 được tạo ra sau.
 
 #### Tay cầm (handle)
 
-Không có gì ngạc nhiên khi dùng đống để cài hàng đợi ưu tiên. Trong một ứng dụng cụ thể, như lập lịch công việc hay mô phỏng hướng sự kiện, các phần tử của hàng đợi ưu tiên ứng với các đối tượng trong ứng dụng. Ta thường cần xác định đối tượng ứng dụng nào ứng với một phần tử hàng đợi cho trước, và ngược lại. Vì vậy, khi dùng đống để cài hàng đợi ưu tiên, ta thường cần lưu trong mỗi phần tử đống một **tay cầm** (handle) tới đối tượng ứng dụng tương ứng. Thành phần cụ thể của tay cầm (con trỏ hay số nguyên chẳng hạn) tuỳ ứng dụng. Tương tự, ta cần lưu trong mỗi đối tượng ứng dụng một tay cầm tới phần tử đống tương ứng; ở đây tay cầm thường là một chỉ số mảng. Vì các phần tử đống đổi vị trí trong mảng khi thực hiện các phép toán trên đống, một cài đặt thực tế, khi di chuyển một phần tử đống, cũng phải cập nhật chỉ số mảng trong đối tượng ứng dụng tương ứng. Vì chi tiết truy cập đối tượng ứng dụng phụ thuộc nhiều vào ứng dụng và cách cài đặt, sách không đi sâu, chỉ lưu ý rằng trong thực tế các tay cầm này phải được duy trì đúng.
+Không có gì ngạc nhiên khi dùng đống để cài hàng đợi ưu tiên. Trong một ứng dụng cụ thể, như lập lịch công việc hay mô phỏng hướng sự kiện, các phần tử của hàng đợi ưu tiên ứng với các đối tượng trong ứng dụng. Ta thường cần xác định đối tượng ứng dụng nào ứng với một phần tử hàng đợi cho trước, và ngược lại. Vì vậy, khi dùng đống để cài hàng đợi ưu tiên, ta thường cần lưu trong mỗi phần tử đống một **tay cầm** (handle) tới đối tượng ứng dụng tương ứng. Thành phần cụ thể của tay cầm (con trỏ hay số nguyên chẳng hạn) tuỳ ứng dụng.
+
+Tương tự, ta cần lưu trong mỗi đối tượng ứng dụng một tay cầm tới phần tử đống tương ứng; ở đây tay cầm thường là một chỉ số mảng. Vì các phần tử đống đổi vị trí trong mảng khi thực hiện các phép toán trên đống, một cài đặt thực tế, khi di chuyển một phần tử đống, cũng phải cập nhật chỉ số mảng trong đối tượng ứng dụng tương ứng. Vì chi tiết truy cập đối tượng ứng dụng phụ thuộc nhiều vào ứng dụng và cách cài đặt, sách không đi sâu, chỉ lưu ý rằng trong thực tế các tay cầm này phải được duy trì đúng.
 
 #### HEAP-MAXIMUM
 
@@ -865,7 +874,9 @@ Thời gian chạy của HEAP-EXTRACT-MAX là O(lg n), vì nó chỉ làm thêm 
 
 #### HEAP-INCREASE-KEY
 
-Thủ tục HEAP-INCREASE-KEY cài đặt phép toán INCREASE-KEY. Một chỉ số i của mảng xác định phần tử hàng đợi có khoá cần tăng. Thủ tục trước hết cập nhật khoá của A[i] thành giá trị mới. Vì tăng khoá của A[i] có thể vi phạm tính chất đống max, thủ tục sau đó — theo cách gợi nhớ vòng lặp chèn (dòng 5–7) của INSERTION-SORT ở Mục 2.1 — đi theo một đường đơn từ nút này về phía gốc để tìm chỗ thích hợp cho khoá vừa tăng. Trên đường đi, nó lặp lại việc so sánh một phần tử với cha, đổi khoá của chúng và tiếp tục nếu khoá của phần tử lớn hơn, và dừng nếu khoá của phần tử không lớn hơn khoá cha (sách viết "nhỏ hơn"), vì lúc đó tính chất đống max đã được thoả. (Exercise 6.5-5 cho bất biến vòng lặp chính xác.)
+Thủ tục HEAP-INCREASE-KEY cài đặt phép toán INCREASE-KEY. Một chỉ số i của mảng xác định phần tử hàng đợi có khoá cần tăng. Thủ tục trước hết cập nhật khoá của A[i] thành giá trị mới.
+
+Vì tăng khoá của A[i] có thể vi phạm tính chất đống max, thủ tục sau đó — theo cách gợi nhớ vòng lặp chèn (dòng 5–7) của INSERTION-SORT ở Mục 2.1 — đi theo một đường đơn từ nút này về phía gốc để tìm chỗ thích hợp cho khoá vừa tăng. Trên đường đi, nó lặp lại việc so sánh một phần tử với cha, đổi khoá của chúng và tiếp tục nếu khoá của phần tử lớn hơn, và dừng nếu khoá của phần tử không lớn hơn khoá cha (sách viết "nhỏ hơn"), vì lúc đó tính chất đống max đã được thoả. (Exercise 6.5-5 cho bất biến vòng lặp chính xác.)
 
 ```text
 HEAP-INCREASE-KEY(A, i, key)
@@ -1282,7 +1293,7 @@ Chương cho thấy cấu trúc dữ liệu là công cụ thiết kế thuật 
 - **Không nói về tính cục bộ bộ nhớ.** Lý do thực tế lớn nhất khiến heapsort chậm trên máy hiện đại là truy cập A[i] rồi A[2i], A[4i]… nhảy xa trong bộ nhớ, làm hỏng bộ nhớ đệm khi n lớn. Lời giới thiệu Phần II có nhắc "phân cấp bộ nhớ" là vấn đề kỹ thuật quan trọng, nhưng Chương 6 không áp dụng nhận xét đó cho chính heapsort.
 - **Không nhắc biến thể giảm số phép so sánh**, như heapsort "từ dưới lên" (bottom-up heapsort: cho phần tử chìm thẳng tới lá theo con lớn hơn rồi nổi ngược lên, gần n lg n phép so sánh) — theo hiểu biết của người tổng hợp.
 - **Thủ tục hàng đợi ưu tiên làm việc trên chỉ số và khoá trần**, còn việc giữ tay cầm được nói bằng lời. Đây là nguồn lỗi chính khi tự cài Dijkstra với DECREASE-KEY. Ấn bản 4 đã viết lại phần này theo hướng đối tượng (theo hiểu biết của người tổng hợp).
-- **Một số chỗ lời văn chưa chặt** (đã nêu ở Lưu ý): "complete binary tree" thay cho "nearly complete", "dừng nếu nhỏ hơn" thay cho "không lớn hơn", không kiểm tra tràn mảng ở MAX-HEAP-INSERT.
+- **Một số chỗ lời văn chưa chặt** (đã nêu ở mục Lưu ý cuối chương): "complete binary tree" thay cho "nearly complete", "dừng nếu nhỏ hơn" thay cho "không lớn hơn", không kiểm tra tràn mảng ở MAX-HEAP-INSERT.
 - **Heapsort không ổn định** nhưng chương không nói; tính chất này chỉ được định nghĩa ở Chương 8.
 
 ### So với cách làm thực tế
@@ -1307,3 +1318,152 @@ Theo hiểu biết của người tổng hợp: heapsort hiếm khi là thuật 
 - **Phỏng vấn:** câu hỏi kinh điển "tìm k phần tử lớn nhất trong luồng dữ liệu" (giữ đống min k phần tử, O(n lg k)), "trộn k danh sách đã sắp xếp" (Exercise 6.5-9), "trung vị của luồng dữ liệu" (hai đống: đống max cho nửa dưới, đống min cho nửa trên), "vì sao dựng đống là O(n) chứ không phải O(n lg n)", và viết MAX-HEAPIFY không lỗi ở ranh giới (so với heap-size, chọn con lớn hơn khi chỉ có một con).
 - **Lập trình thi đấu:** dùng hàng đợi ưu tiên của thư viện cho Dijkstra theo kiểu "chèn bản sao, bỏ qua bản cũ khi trích ra" thay vì DECREASE-KEY (O(m lg m) = O(m lg n)); tìm kiếm trên bảng Young (Problem 6-3(f)) là bài "tìm trong ma trận có hàng và cột đã sắp xếp" quen thuộc.
 - **Kỹ thuật phần mềm:** hàng đợi ưu tiên cho bộ hẹn giờ, lập lịch tác vụ, giới hạn tốc độ, cache loại bỏ theo ưu tiên; khi cần đổi độ ưu tiên của một đối tượng đang ở trong đống, phải lưu chỉ số của nó và cập nhật mỗi khi đổi chỗ (tay cầm của Mục 6.5), hoặc dùng cấu trúc "indexed priority queue". Khi cần sắp xếp với bảo đảm thời gian và không cấp phát bộ nhớ (hệ nhúng, nhân hệ điều hành), heapsort là lựa chọn hợp lý.
+
+## Bản đồ tư duy
+
+Toàn cảnh lời giới thiệu Phần II và Chương 6 trên một trang: sáu nhánh theo thứ tự bản gốc (lời giới thiệu Phần II, phần mở đầu chương cùng Mục 6.1, Mục 6.2–6.3, Mục 6.4, Mục 6.5, bài toán và ghi chú cuối chương), mỗi nhánh ghi định nghĩa, thủ tục, thời gian chạy và ví dụ chạy tay của tác giả; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: nhìn mảng như cây nhị phân gần đầy đủ có tính chất đống max thì lấy max trong O(1), sửa cấu trúc trong O(lg n), từ đó có heapsort tại chỗ O(n lg n) và hàng đợi ưu tiên O(lg n)`"]
+  n1["`Lời giới thiệu Phần II (trang 146–150) — sắp xếp là bài toán nền tảng`"]
+  n0 --- n1
+  n2["`Bài toán sắp xếp: đầu vào n số, đầu ra một hoán vị không giảm của chúng`"]
+  n1 --- n2
+  n3["`Mỗi số là khoá của một bản ghi, dữ liệu vệ tinh phải đi theo khoá`"]
+  n1 --- n3
+  n4["`Bản ghi lớn thì sắp xếp mảng con trỏ thay vì chép bản ghi`"]
+  n3 --- n4
+  n5["`Năm lý do sắp xếp cơ bản nhất, trong đó có cận dưới Ω(n lg n) chứng minh được ở Chương 8`"]
+  n1 --- n5
+  n6["`Bảng bảy thuật toán: chèn Θ(n²), trộn Θ(n lg n), heapsort O(n lg n), quicksort xấu nhất Θ(n²)`"]
+  n1 --- n6
+  n7["`Đếm Θ(k + n), cơ số Θ(d(n + k)), phân cụm O(n) trung bình vượt được cận so sánh`"]
+  n6 --- n7
+  n8["`Thống kê thứ tự thứ i là số nhỏ thứ i, Chương 9 tìm trong O(n)`"]
+  n1 --- n8
+  n9["`Phần mở đầu chương và Mục 6.1 — đống nhị phân`"]
+  n0 --- n9
+  n10["`Heapsort kết hợp O(n lg n) của sắp xếp trộn với tính tại chỗ của sắp xếp chèn`"]
+  n9 --- n10
+  n11["`Kỹ thuật thiết kế mới: dùng cấu trúc dữ liệu đống để quản lý thông tin`"]
+  n9 --- n11
+  n12["`Heap ở đây là cấu trúc dữ liệu, không phải vùng nhớ thu gom rác của Java, Lisp`"]
+  n11 --- n12
+  n13["`Đống là mảng A với A.heap-size ≤ A.length, chỉ A[1] tới A[heap-size] thuộc đống`"]
+  n9 --- n13
+  n14["`PARENT(i) = ⌊i/2⌋, LEFT(i) = 2i, RIGHT(i) = 2i + 1, tính bằng dịch bit`"]
+  n9 --- n14
+  n15["`Tính chất đống max: cha ≥ con nên max ở gốc, đống min ngược lại`"]
+  n9 --- n15
+  n16["`Chiều cao đống n phần tử là ⌊lg n⌋, nên phép toán cơ bản chạy O(lg n)`"]
+  n9 --- n16
+  n17["`Ví dụ 16 14 10 8 7 9 3 2 4 1 là đống max cao 3`"]
+  n16 --- n17
+  n18["`Mục 6.2–6.3 — MAX-HEAPIFY và BUILD-MAX-HEAP`"]
+  n0 --- n18
+  n19["`MAX-HEAPIFY cho A[i] chìm xuống bằng cách đổi với con lớn hơn, khi hai cây con đã là đống max`"]
+  n18 --- n19
+  n20["`Ví dụ MAX-HEAPIFY(A, 2): giá trị 4 đổi với 14 rồi với 8`"]
+  n19 --- n20
+  n21["`Cây con của một con có tối đa 2n/3 nút, nên T(n) ≤ T(2n/3) + Θ(1) = O(lg n)`"]
+  n18 --- n21
+  n22["`Tương đương O(h) trên nút có chiều cao h`"]
+  n21 --- n22
+  n23["`BUILD-MAX-HEAP gọi MAX-HEAPIFY từ nút ⌊n/2⌋ lùi về 1, vì các nút sau đều là lá`"]
+  n18 --- n23
+  n24["`Bất biến vòng lặp: mỗi nút i + 1 tới n là gốc một đống max`"]
+  n18 --- n24
+  n25["`Cận thô O(n lg n) đúng nhưng không chặt`"]
+  n18 --- n25
+  n26["`Cận chặt O(n): có tối đa ⌈n/2^(h+1)⌉ nút cao h và Σ h/2^h = 2`"]
+  n18 --- n26
+  n27["`Ví dụ 4 1 3 2 16 9 10 14 8 7 thành đống max sau 7 lần đổi chỗ`"]
+  n26 --- n27
+  n28["`Mục 6.4 — thuật toán heapsort`"]
+  n0 --- n28
+  n29["`Dựng đống max O(n), rồi n − 1 lần đổi A[1] với cuối vùng đống`"]
+  n28 --- n29
+  n30["`Giảm heap-size rồi gọi MAX-HEAPIFY(A, 1), mỗi lần O(lg n)`"]
+  n28 --- n30
+  n31["`Vùng đống bên trái và vùng đã sắp xếp bên phải dùng chung một mảng`"]
+  n28 --- n31
+  n32["`Tổng O(n lg n), tại chỗ, ví dụ cho 1 2 3 4 7 8 9 10 14 16 sau 9 lần lặp`"]
+  n28 --- n32
+  n33["`Ngay trường hợp tốt nhất với phần tử khác nhau cũng Ω(n lg n), Exercise 6.4-5`"]
+  n28 --- n33
+  n34["`Mục 6.5 — hàng đợi ưu tiên`"]
+  n0 --- n34
+  n35["`Quicksort tốt thường thắng heapsort, nhưng đống có ứng dụng riêng là hàng đợi ưu tiên`"]
+  n34 --- n35
+  n36["`Hàng đợi max có INSERT, MAXIMUM, EXTRACT-MAX, INCREASE-KEY, dùng lập lịch công việc`"]
+  n34 --- n36
+  n37["`Hàng đợi min có DECREASE-KEY, dùng mô phỏng hướng sự kiện và Chương 23, 24`"]
+  n34 --- n37
+  n38["`Tay cầm nối phần tử đống với đối tượng ứng dụng, phải cập nhật chỉ số khi đổi chỗ`"]
+  n34 --- n38
+  n39["`HEAP-MAXIMUM Θ(1), HEAP-EXTRACT-MAX đưa phần tử cuối lên gốc rồi cho chìm O(lg n)`"]
+  n34 --- n39
+  n40["`HEAP-INCREASE-KEY cho khoá nổi lên bằng cách đổi với cha, O(lg n)`"]
+  n34 --- n40
+  n41["`Ví dụ tăng A[9] từ 4 lên 15, nổi qua nút 4 và nút 2, dừng dưới 16`"]
+  n40 --- n41
+  n42["`MAX-HEAP-INSERT thêm lá khoá −∞ rồi tăng khoá, O(lg n)`"]
+  n34 --- n42
+  n43["`Bài toán 6-1 tới 6-3 và Ghi chú chương`"]
+  n0 --- n43
+  n44["`6-1: dựng đống bằng chèn liên tiếp tốn Θ(n lg n) xấu nhất và có thể ra đống khác`"]
+  n43 --- n44
+  n45["`6-2: đống d-phân cao Θ(log cơ số d của n), EXTRACT-MAX chậm hơn, INSERT nhanh hơn`"]
+  n43 --- n45
+  n46["`6-3: bảng Young m × n hỗ trợ EXTRACT-MIN, INSERT, tìm kiếm trong O(m + n)`"]
+  n43 --- n46
+  n47["`Williams phát minh heapsort, Floyd đề xuất BUILD-MAX-HEAP`"]
+  n43 --- n47
+  n48["`Hàng đợi nhanh hơn: đống Fibonacci Chương 19, van Emde Boas Chương 20, đống cơ số cho khoá nguyên`"]
+  n43 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Thứ tự cục bộ cha ≥ con đủ để biết max mà rẻ hơn sắp xếp hoàn toàn`"]
+  n49 --- n50
+  n51["`Một cấu trúc dữ liệu cho cả thuật toán sắp xếp tối ưu lẫn hàng đợi ưu tiên dùng suốt Phần VI`"]
+  n49 --- n51
+  n52["`Đếm chi phí theo chiều cao nút thay vì nhân số lần gọi với chi phí lớn nhất cho cận chặt`"]
+  n49 --- n52
+  n53["`Heapsort bảo đảm xấu nhất O(n lg n), quicksort thường nhanh hơn ở trường hợp trung bình`"]
+  n49 --- n53
+  class n0 root
+  class n1,n9,n18,n28,n34,n43,n49 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009). Gồm hai phần: Phần II "Sorting and Order Statistics" — trang tên phần (trang 146, không in số) và lời giới thiệu Phần II (Introduction, trang 147–150); Chương 6 "Heapsort", trang 151–169.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I ([C01-vai-tro-cua-thuat-toan.md](C01-vai-tro-cua-thuat-toan.md) tới [C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) xây công cụ: Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) giới thiệu bài toán sắp xếp, sắp xếp chèn (tại chỗ, Θ(n²)), sắp xếp trộn (Θ(n lg n), không tại chỗ) và kỹ thuật bất biến vòng lặp; Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) cho ký hiệu Θ, O, Ω; Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cho định lý thợ, được dùng ngay ở Mục 6.2.
+
+Lời giới thiệu Phần II đặt bài toán sắp xếp làm trung tâm, phân biệt khoá với dữ liệu vệ tinh, nêu năm lý do sắp xếp là bài toán nền tảng, tóm tắt bảng thời gian chạy của bảy thuật toán sắp xếp trong Chương 2 và 6–8, và giới thiệu bài toán thống kê thứ tự. Chương 6 là chương đầu của Phần II: thuật toán heapsort đạt cùng lúc hai ưu điểm mà sắp xếp chèn và sắp xếp trộn chỉ có riêng từng cái (O(n lg n) trong trường hợp xấu nhất và sắp xếp tại chỗ), đồng thời giới thiệu cấu trúc dữ liệu đầu tiên của sách — **đống nhị phân** (binary heap) — và ứng dụng của nó làm **hàng đợi ưu tiên** (priority queue).
+
+Chương 7 ([C07-quicksort.md](C07-quicksort.md)) trình bày quicksort, thường nhanh hơn heapsort trong thực tế nhưng xấu nhất Θ(n²). Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) chứng minh mọi thuật toán sắp xếp bằng so sánh cần Ω(n lg n) phép so sánh, nên heapsort tối ưu tiệm cận. Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) giải bài toán thống kê thứ tự nêu ở lời giới thiệu Phần II.
+
+Hàng đợi ưu tiên dựng bằng đống được dùng lại ở Chương 16 ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md), mã Huffman), Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md), thuật toán Prim) và Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md), thuật toán Dijkstra); Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) và Chương 20 ([C20-cay-van-emde-boas.md](C20-cay-van-emde-boas.md)) cho các cài đặt hàng đợi ưu tiên nhanh hơn ở một số phép toán; Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)) mở Phần III với khái niệm tập động, tổng quát hoá cách nhìn "cấu trúc dữ liệu hỗ trợ một nhóm phép toán" đã xuất hiện lần đầu ở Mục 6.5.
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong chương này.** Chỉ có một bài tập có dấu sao: Exercise 6.4-5 (chứng minh thời gian tốt nhất của HEAPSORT là Ω(n lg n) khi các phần tử khác nhau). Ba bài toán cuối chương (6-1, 6-2, 6-3) không có dấu sao.
+- **Số trang Phần II:** trang 146 là trang tên "II Sorting and Order Statistics" (không in số, chỉ có tiêu đề), lời giới thiệu Phần II là trang 147–150 (trang 147 không in số). Chương 6 bắt đầu ở trang 151 và kết thúc ở trang 169 (Ghi chú chương tràn sang trang 169); trang 170 đã là Chương 7. File này dùng các số trang sau khi kiểm tra ảnh trang.
+- **Lớp chữ PDF hỏng nhiều ký hiệu, đã đọc lại từ ảnh trang:** dấu ngoặc vuông thành `Œ` (`AŒi` là A[i]); dấu ≤, ≥ mất hẳn (`AŒPARENT .i / AŒi` là A[PARENT(i)] ≥ A[i] ở trang 152 và ≤ ở trang 153; `l A:heap-size` ở dòng 3 MAX-HEAPIFY là l ≤ A.heap-size); dấu ≠ ở dòng 8 MAX-HEAPIFY mất; dấu trừ và vô cực thành `/NUL` (`/NUL1` là −∞ ở MAX-HEAP-INSERT và Exercise 6.5-4); dấu ⌈ ⌉ thành `˙` (cận ⌈n/2^(h+1)⌉ ở trang 157, 159); tổng và phân số của chặn BUILD-MAX-HEAP ở trang 159 vỡ thành nhiều dòng; căn bậc hai và ε mất ở Ghi chú chương (`O.p lg n/` là O(√lg n), `lg1=3C C` là lg^(1/3+ε) C); Θ thành `‚`, Ω mất. Toàn bộ pseudocode, công thức, Hình 6.1–6.5 và bảng thời gian chạy ở trang 150 được đối chiếu với ảnh trang 147–169.
+- **Chỗ sách sai chính tả hoặc chưa chặt (nhận xét của người tổng hợp):** (1) trang 159 viết "We evalaute" — lỗi chính tả của "evaluate". (2) Trang 153 viết "a heap of n elements is based on a complete binary tree", trong khi Mục 6.1 vừa định nghĩa đống là cây nhị phân *gần* đầy đủ (nearly complete); chữ "complete" ở đây nên hiểu là "nearly complete". (3) Trang 164 mô tả HEAP-INCREASE-KEY "dừng nếu khoá của phần tử nhỏ hơn" khoá cha, nhưng pseudocode dừng khi khoá *không lớn hơn* (bằng nhau cũng dừng) — pseudocode đúng, lời văn chưa chặt. (4) MAX-HEAP-INSERT tăng A.heap-size mà không kiểm tra A.heap-size < A.length (tràn mảng); HEAP-INCREASE-KEY không kiểm tra 1 ≤ i ≤ A.heap-size. Đây là đơn giản hoá có chủ ý của sách. Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** MAX-HEAPIFY(A, 2) trên ⟨16, 4, 10, 14, 7, 9, 3, 2, 8, 1⟩ cho ⟨16, 14, 10, 8, 7, 9, 3, 2, 4, 1⟩; BUILD-MAX-HEAP trên ⟨4, 1, 3, 2, 16, 9, 10, 14, 8, 7⟩ cho cùng đống đó qua năm lần gọi MAX-HEAPIFY (7 lần đổi chỗ); HEAPSORT trên đống đó cho ⟨1, 2, 3, 4, 7, 8, 9, 10, 14, 16⟩, mọi trạng thái trung gian (b)–(j) khớp; HEAP-INCREASE-KEY tăng A[9] từ 4 lên 15 cho ⟨16, 15, 10, 14, 7, 9, 3, 2, 8, 1⟩. Cận "cây con của một con có nhiều nhất 2n/3 nút" cũng đã kiểm tra: khi tầng đáy đầy đúng một nửa, cây con trái có (2n − 1)/3 < 2n/3 nút.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Chương 6 vẫn là "Heapsort" với cùng năm mục. Thuộc tính A.length bị bỏ; các thủ tục nhận thêm tham số n (ví dụ BUILD-MAX-HEAP(A, n), HEAPSORT(A, n)). Mục 6.5 được viết lại để hàng đợi ưu tiên lưu *đối tượng* có khoá và nói rõ hơn việc ánh xạ giữa đối tượng ứng dụng và chỉ số mảng (MAX-HEAP-INSERT nhận một đối tượng x thay vì một khoá). Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.

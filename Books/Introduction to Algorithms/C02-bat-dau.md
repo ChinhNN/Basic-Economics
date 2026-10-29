@@ -1,17 +1,14 @@
 # Chương 2 — Bắt đầu (Getting Started)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần I "Foundations", Chương 2 "Getting Started", trang 16–42.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu gắn với MIT, Stein ở Columbia), tác giả của giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là "CLRS".
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-vai-tro-cua-thuat-toan.md](C01-vai-tro-cua-thuat-toan.md)) định nghĩa thuật toán là một thủ tục tính toán biến đầu vào thành đầu ra, giới thiệu bài toán sắp xếp làm ví dụ, và lập luận rằng thuật toán là một công nghệ: chọn thuật toán tốt quan trọng ngang với chọn phần cứng nhanh. Chương 2 đặt toàn bộ "khung làm việc" mà cuốn sách dùng về sau: cách viết thuật toán bằng pseudocode, cách chứng minh thuật toán đúng bằng bất biến vòng lặp, cách phân tích thời gian chạy trên mô hình máy RAM, ý niệm trường hợp xấu nhất và bậc tăng trưởng, và phương pháp thiết kế chia để trị với phân tích bằng phương trình truy hồi. Hai thuật toán mẫu là sắp xếp chèn và sắp xếp trộn. Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) định nghĩa chính xác ký hiệu Θ (mà Chương 2 chỉ dùng một cách không hình thức) cùng O, Ω, o, ω; Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) đào sâu chia để trị và đưa ra các phương pháp giải truy hồi (phương pháp thay thế, cây đệ quy, định lý thợ) để chứng minh chặt rằng sắp xếp trộn chạy trong Θ(n lg n); Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) phát triển phân tích trường hợp trung bình và thuật toán ngẫu nhiên mà Chương 2 chỉ nhắc tới. Phần II về sắp xếp (heapsort ở [C06-heapsort.md](C06-heapsort.md), quicksort ở [C07-quicksort.md](C07-quicksort.md), sắp xếp thời gian tuyến tính ở [C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) sẽ so sánh liên tục với hai thuật toán của chương này. Các tổng xuất hiện trong phân tích được giải ở Phụ lục A ([PA-tong.md](PA-tong.md)).
-**Ý chính:** Các tác giả muốn người đọc nắm ba kỹ năng nền tảng, minh hoạ trên bài toán sắp xếp: **(1) mô tả** một thuật toán rõ ràng bằng pseudocode; **(2) chứng minh nó đúng** bằng bất biến vòng lặp với ba bước khởi tạo – duy trì – kết thúc (tương tự quy nạp toán học nhưng dừng khi vòng lặp dừng); **(3) phân tích thời gian chạy** trên mô hình máy truy cập ngẫu nhiên (RAM) — mỗi dòng pseudocode tốn một hằng số thời gian, cộng chi phí × số lần thực hiện, rồi chỉ giữ số hạng bậc cao nhất và bỏ hệ số để ra bậc tăng trưởng. Sắp xếp chèn (insertion sort) là thuật toán tăng dần (incremental): chèn từng phần tử A[j] vào đoạn A[1 .. j − 1] đã sắp; nó sắp xếp tại chỗ, chạy trong thời gian tuyến tính an + b (tức Θ(n)) khi mảng đã sắp sẵn, và bậc hai an² + bn + c (tức Θ(n²)) trong trường hợp xấu nhất (mảng sắp ngược) cũng như trung bình. Sắp xếp trộn (merge sort) dùng chia để trị: chia mảng làm đôi, sắp xếp đệ quy hai nửa, rồi trộn hai nửa đã sắp bằng thủ tục MERGE chạy Θ(n); thời gian chạy thoả truy hồi T(n) = 2T(n/2) + Θ(n), và cây đệ quy cho thấy có lg n + 1 tầng, mỗi tầng tốn cn, tổng cn lg n + cn = Θ(n lg n). Vì lg n tăng chậm hơn mọi hàm tuyến tính, với đầu vào đủ lớn sắp xếp trộn thắng sắp xếp chèn trong trường hợp xấu nhất — dù với đầu vào nhỏ, sắp xếp chèn có thể nhanh hơn nhờ hằng số nhỏ (ý được khai thác trong Bài toán 2-1).
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục và bài có dấu sao (★):** chương này không có mục nào đánh dấu sao. Chỉ có Bài tập 2.3-7 (tìm hai phần tử có tổng bằng x trong thời gian Θ(n lg n)) mang dấu sao, nghĩa là khó hơn mức trung bình.
-> - **Lớp chữ PDF hỏng:** toàn bộ pseudocode (INSERTION-SORT, MERGE, MERGE-SORT, BUBBLESORT, đoạn mã quy tắc Horner), bảng chi phí/số lần thực hiện của sắp xếp chèn, các công thức T(n) trường hợp tốt nhất và xấu nhất, truy hồi (2.1), (2.2), các hình 2.2–2.5 và bất biến vòng lặp trong Bài toán 2-3 đều được đọc lại từ ảnh trang, không từ lớp chữ (ví dụ lớp chữ ghi "AŒj" cho A[j], "/NUL" cho dấu trừ, "D" cho dấu bằng, "‚" cho Θ, "1" cho ∞ ở dòng 8–9 của MERGE).
-> - **Lỗi đã biết (errata):** người tổng hợp đã tự kiểm tra lại mọi ví dụ số của chương (các bước của Hình 2.2, Hình 2.3, Hình 2.4, các công thức tổng và công thức T(n)) và không thấy sai sót. Theo hiểu biết của người tổng hợp, không tra cứu, chương này không có lỗi nội dung đáng kể trong danh sách errata của ấn bản 3.
-> - **Một điểm dễ hiểu nhầm trong sách:** lập luận tính đúng của sắp xếp chèn chỉ chứng minh không hình thức bước "duy trì" (sách nói rõ là không muốn sa vào hình thức, lẽ ra cần một bất biến riêng cho vòng **while** ở dòng 5–7). Phần "Nội dung chi tiết" bên dưới bổ sung bất biến đó, ghi rõ là của người tổng hợp.
-> - **Thay đổi ở ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu:** chương 2 vẫn giữ sắp xếp chèn và sắp xếp trộn, nhưng quy ước pseudocode đổi: số phần tử n được truyền làm tham số (INSERTION-SORT(A, n)) thay cho thuộc tính A.length, đoạn mảng viết A[1 : n] thay cho A[1 .. n], và thủ tục MERGE được viết lại **không dùng phần tử canh (sentinel) ∞** — tức là đúng phương án mà Bài tập 2.3-2 của ấn bản 3 yêu cầu người đọc tự viết. Ấn bản 4 cũng in màu và đánh số lại một số hình, bài tập.
-> - **Ký hiệu:** bản tổng hợp dùng ký hiệu Unicode (Θ, ≤, ∞, ⌊ ⌋, ⌈ ⌉, Σ, lg) trong toàn bộ văn bản. lg n nghĩa là log₂ n. A[p .. q] là đoạn mảng gồm các phần tử A[p], A[p + 1], …, A[q].
+Các tác giả muốn người đọc nắm ba kỹ năng nền tảng, minh hoạ trên bài toán sắp xếp: **(1) mô tả** một thuật toán rõ ràng bằng pseudocode; **(2) chứng minh nó đúng** bằng bất biến vòng lặp với ba bước khởi tạo – duy trì – kết thúc (tương tự quy nạp toán học nhưng dừng khi vòng lặp dừng); **(3) phân tích thời gian chạy** trên mô hình máy truy cập ngẫu nhiên (RAM) — mỗi dòng pseudocode tốn một hằng số thời gian, cộng chi phí × số lần thực hiện, rồi chỉ giữ số hạng bậc cao nhất và bỏ hệ số để ra bậc tăng trưởng.
+
+Sắp xếp chèn (insertion sort) là thuật toán tăng dần (incremental): chèn từng phần tử A[j] vào đoạn A[1 .. j − 1] đã sắp; nó sắp xếp tại chỗ, chạy trong thời gian tuyến tính an + b (tức Θ(n)) khi mảng đã sắp sẵn, và bậc hai an² + bn + c (tức Θ(n²)) trong trường hợp xấu nhất (mảng sắp ngược) cũng như trung bình.
+
+Sắp xếp trộn (merge sort) dùng chia để trị: chia mảng làm đôi, sắp xếp đệ quy hai nửa, rồi trộn hai nửa đã sắp bằng thủ tục MERGE chạy Θ(n); thời gian chạy thoả truy hồi T(n) = 2T(n/2) + Θ(n), và cây đệ quy cho thấy có lg n + 1 tầng, mỗi tầng tốn cn, tổng cn lg n + cn = Θ(n lg n).
+
+Vì lg n tăng chậm hơn mọi hàm tuyến tính, với đầu vào đủ lớn sắp xếp trộn thắng sắp xếp chèn trong trường hợp xấu nhất — dù với đầu vào nhỏ, sắp xếp chèn có thể nhanh hơn nhờ hằng số nhỏ (ý được khai thác trong Bài toán 2-1).
 
 ## Sơ đồ
 
@@ -426,7 +423,9 @@
 
 ### 1. Mở đầu chương (Getting Started, trang 16)
 
-Chương này làm quen người đọc với khung tư duy dùng suốt cuốn sách để thiết kế và phân tích thuật toán. Chương tự chứa, nhưng có nhắc tới nội dung của Chương 3 (ký hiệu tiệm cận) và Chương 4 (truy hồi), và có một số tổng mà Phụ lục A hướng dẫn cách tính. Lộ trình: bắt đầu với thuật toán sắp xếp chèn cho bài toán sắp xếp đã nêu ở Chương 1; định nghĩa một thứ "pseudocode" quen thuộc với ai đã lập trình và dùng nó để đặc tả thuật toán; lập luận rằng sắp xếp chèn sắp đúng và phân tích thời gian chạy — phân tích này giới thiệu một ký hiệu tập trung vào việc thời gian tăng thế nào theo số phần tử. Sau đó chương giới thiệu cách thiết kế chia để trị, dùng nó để xây dựng sắp xếp trộn và kết thúc bằng phân tích thời gian chạy của sắp xếp trộn.
+Chương này làm quen người đọc với khung tư duy dùng suốt cuốn sách để thiết kế và phân tích thuật toán. Chương tự chứa, nhưng có nhắc tới nội dung của Chương 3 (ký hiệu tiệm cận) và Chương 4 (truy hồi), và có một số tổng mà Phụ lục A hướng dẫn cách tính.
+
+Lộ trình: bắt đầu với thuật toán sắp xếp chèn cho bài toán sắp xếp đã nêu ở Chương 1; định nghĩa một thứ "pseudocode" quen thuộc với ai đã lập trình và dùng nó để đặc tả thuật toán; lập luận rằng sắp xếp chèn sắp đúng và phân tích thời gian chạy — phân tích này giới thiệu một ký hiệu tập trung vào việc thời gian tăng thế nào theo số phần tử. Sau đó chương giới thiệu cách thiết kế chia để trị, dùng nó để xây dựng sắp xếp trộn và kết thúc bằng phân tích thời gian chạy của sắp xếp trộn.
 
 ### 2. Sắp xếp chèn (2.1 Insertion sort, trang 16–23)
 
@@ -503,7 +502,9 @@ Khi hai tính chất đầu đúng, bất biến đúng trước mọi lần l�
 - **Duy trì:** một cách không hình thức, thân vòng for dịch A[j − 1], A[j − 2], A[j − 3], … sang phải một ô cho tới khi tìm được chỗ đúng cho A[j] (dòng 4–7), rồi chèn giá trị A[j] vào đó (dòng 8). Khi ấy A[1 .. j] gồm các phần tử ban đầu của A[1 .. j], đã sắp. Tăng j cho lần lặp kế giữ nguyên bất biến. Sách nói rằng một cách làm hình thức hơn sẽ cần phát biểu và chứng minh một bất biến cho vòng while ở dòng 5–7, nhưng chọn không sa vào hình thức.
 - **Kết thúc:** vòng for dừng khi j > A.length = n. Vì mỗi lần lặp tăng j thêm 1, lúc đó j = n + 1. Thay n + 1 vào bất biến: A[1 .. n] gồm các phần tử ban đầu của A[1 .. n], đã sắp. Mà A[1 .. n] là cả mảng, nên cả mảng đã sắp: thuật toán đúng.
 
-**Bổ sung của người tổng hợp — bất biến cho vòng while (dòng 5–7):** ở đầu mỗi lần kiểm tra dòng 5, (i) các phần tử A[1 .. i] cùng với A[i + 2 .. j] là đúng các phần tử ban đầu của A[1 .. j − 1] theo thứ tự đã sắp (ô A[i + 1] là "lỗ trống" có thể ghi đè); (ii) mọi phần tử trong A[i + 2 .. j] đều lớn hơn key. Khởi tạo: i = j − 1, A[i + 2 .. j] rỗng, (i) là bất biến vòng for. Duy trì: nếu A[i] > key, dòng 6 chép A[i] sang ô trống A[i + 1] và dòng 7 giảm i, nên lỗ trống lùi sang trái một ô và (ii) vẫn đúng. Kết thúc: i = 0 hoặc A[i] ≤ key; khi đó mọi phần tử bên trái lỗ ≤ key (vì đã sắp và A[i] ≤ key), mọi phần tử bên phải > key, nên đặt key vào A[i + 1] cho A[1 .. j] đã sắp — chính là bước duy trì của vòng for.
+**Bổ sung của người tổng hợp — bất biến cho vòng while (dòng 5–7):** ở đầu mỗi lần kiểm tra dòng 5, (i) các phần tử A[1 .. i] cùng với A[i + 2 .. j] là đúng các phần tử ban đầu của A[1 .. j − 1] theo thứ tự đã sắp (ô A[i + 1] là "lỗ trống" có thể ghi đè); (ii) mọi phần tử trong A[i + 2 .. j] đều lớn hơn key.
+
+Khởi tạo: i = j − 1, A[i + 2 .. j] rỗng, (i) là bất biến vòng for. Duy trì: nếu A[i] > key, dòng 6 chép A[i] sang ô trống A[i + 1] và dòng 7 giảm i, nên lỗ trống lùi sang trái một ô và (ii) vẫn đúng. Kết thúc: i = 0 hoặc A[i] ≤ key; khi đó mọi phần tử bên trái lỗ ≤ key (vì đã sắp và A[i] ≤ key), mọi phần tử bên phải > key, nên đặt key vào A[i + 1] cho A[1 .. j] đã sắp — chính là bước duy trì của vòng for.
 
 Sách sẽ dùng phương pháp bất biến vòng lặp này để chứng minh tính đúng ở phần sau của chương và ở các chương khác.
 
@@ -528,7 +529,11 @@ Các quy ước dùng trong toàn sách:
 
 #### Ví dụ hôm nay
 
-Sắp xếp chèn vẫn sống rất khoẻ trong thực tế, nhưng ở vai "đoạn ngắn": các thư viện sắp xếp chuẩn (ví dụ introsort trong nhiều cài đặt std::sort của C++, Timsort trong Python và Java cho đối tượng) chuyển sang sắp xếp chèn khi đoạn cần sắp chỉ còn khoảng vài chục phần tử, vì vòng lặp của nó đơn giản, truy cập bộ nhớ tuần tự và ít rẽ nhánh khó đoán. Nó cũng là lựa chọn tự nhiên khi dữ liệu "gần như đã sắp" (ví dụ thêm vài bản ghi mới vào danh sách đã sắp, hoặc duy trì bảng xếp hạng thay đổi chút ít), vì thời gian tỉ lệ với số nghịch thế. Bất biến vòng lặp là công cụ hằng ngày của người viết mã cẩn thận: các câu lệnh assert trong vòng lặp, và các công cụ kiểm chứng hình thức (như Dafny, Why3, Frama-C) yêu cầu người lập trình khai báo bất biến vòng lặp theo đúng ba bước khởi tạo – duy trì – kết thúc (theo hiểu biết của người tổng hợp).
+Sắp xếp chèn vẫn sống rất khoẻ trong thực tế, nhưng ở vai "đoạn ngắn": các thư viện sắp xếp chuẩn (ví dụ introsort trong nhiều cài đặt std::sort của C++, Timsort trong Python và Java cho đối tượng) chuyển sang sắp xếp chèn khi đoạn cần sắp chỉ còn khoảng vài chục phần tử, vì vòng lặp của nó đơn giản, truy cập bộ nhớ tuần tự và ít rẽ nhánh khó đoán.
+
+Nó cũng là lựa chọn tự nhiên khi dữ liệu "gần như đã sắp" (ví dụ thêm vài bản ghi mới vào danh sách đã sắp, hoặc duy trì bảng xếp hạng thay đổi chút ít), vì thời gian tỉ lệ với số nghịch thế.
+
+Bất biến vòng lặp là công cụ hằng ngày của người viết mã cẩn thận: các câu lệnh assert trong vòng lặp, và các công cụ kiểm chứng hình thức (như Dafny, Why3, Frama-C) yêu cầu người lập trình khai báo bất biến vòng lặp theo đúng ba bước khởi tạo – duy trì – kết thúc (theo hiểu biết của người tổng hợp).
 
 ### 3. Phân tích thuật toán (2.2 Analyzing algorithms, trang 23–29)
 
@@ -546,9 +551,13 @@ Nói chặt chẽ, ta phải định nghĩa chính xác tập lệnh của mô h
 
 Mỗi lệnh như vậy tốn một lượng thời gian hằng.
 
-Kiểu dữ liệu trong RAM là số nguyên và số thực dấu phẩy động. Sách thường không bận tâm tới độ chính xác số thực, dù ở vài ứng dụng nó rất quan trọng. Sách cũng giả định giới hạn kích thước mỗi **từ (word)** dữ liệu: với đầu vào cỡ n, số nguyên thường biểu diễn bằng c lg n bit với hằng c ≥ 1. Cần c ≥ 1 để mỗi từ chứa được giá trị n, nhờ đó đánh chỉ số được từng phần tử đầu vào; và c phải là hằng để kích thước từ không tăng tuỳ ý — nếu không, ta có thể nhét lượng dữ liệu khổng lồ vào một từ và xử lý tất cả trong thời gian hằng, một kịch bản phi thực tế. Ví dụ: với n = 1.000.000 ≈ 2²⁰, một từ cần ít nhất lg n ≈ 20 bit; máy 64 bit ứng với c ≈ 3.
+Kiểu dữ liệu trong RAM là số nguyên và số thực dấu phẩy động. Sách thường không bận tâm tới độ chính xác số thực, dù ở vài ứng dụng nó rất quan trọng.
 
-Máy thật có những lệnh không nằm trong danh sách trên, và chúng là **vùng xám** của mô hình RAM. Lũy thừa có phải lệnh hằng không? Nói chung không: tính xʸ với x, y thực cần nhiều lệnh. Trong trường hợp hạn chế thì có: nhiều máy có lệnh "dịch trái" (shift left) dịch các bit của một số nguyên đi k vị trí trong thời gian hằng; dịch trái một vị trí tương đương nhân 2, nên dịch trái k vị trí tương đương nhân 2ᵏ. Vì vậy máy có thể tính 2ᵏ bằng một lệnh hằng — dịch số 1 sang trái k vị trí — miễn k không vượt số bit của một từ. Sách cố tránh các vùng xám này, nhưng sẽ coi việc tính 2ᵏ là thao tác hằng khi k là số nguyên dương đủ nhỏ. (Ví dụ: 1 dịch trái 5 bit là nhị phân 100000 = 32 = 2⁵.)
+Sách cũng giả định giới hạn kích thước mỗi **từ (word)** dữ liệu: với đầu vào cỡ n, số nguyên thường biểu diễn bằng c lg n bit với hằng c ≥ 1. Cần c ≥ 1 để mỗi từ chứa được giá trị n, nhờ đó đánh chỉ số được từng phần tử đầu vào; và c phải là hằng để kích thước từ không tăng tuỳ ý — nếu không, ta có thể nhét lượng dữ liệu khổng lồ vào một từ và xử lý tất cả trong thời gian hằng, một kịch bản phi thực tế. Ví dụ: với n = 1.000.000 ≈ 2²⁰, một từ cần ít nhất lg n ≈ 20 bit; máy 64 bit ứng với c ≈ 3.
+
+Máy thật có những lệnh không nằm trong danh sách trên, và chúng là **vùng xám** của mô hình RAM. Lũy thừa có phải lệnh hằng không? Nói chung không: tính xʸ với x, y thực cần nhiều lệnh. Trong trường hợp hạn chế thì có: nhiều máy có lệnh "dịch trái" (shift left) dịch các bit của một số nguyên đi k vị trí trong thời gian hằng; dịch trái một vị trí tương đương nhân 2, nên dịch trái k vị trí tương đương nhân 2ᵏ. Vì vậy máy có thể tính 2ᵏ bằng một lệnh hằng — dịch số 1 sang trái k vị trí — miễn k không vượt số bit của một từ.
+
+Sách cố tránh các vùng xám này, nhưng sẽ coi việc tính 2ᵏ là thao tác hằng khi k là số nguyên dương đủ nhỏ. (Ví dụ: 1 dịch trái 5 bit là nhị phân 100000 = 32 = 2⁵.)
 
 Mô hình RAM **không mô tả phân cấp bộ nhớ** phổ biến trong máy tính hiện đại: không mô hình hoá bộ nhớ đệm (cache) hay bộ nhớ ảo. Có những mô hình tính toán cố gắng phản ánh hiệu ứng phân cấp bộ nhớ, đôi khi đáng kể với chương trình thật trên máy thật; một vài bài toán trong sách xét hiệu ứng này, nhưng phần lớn phân tích thì không. Mô hình có phân cấp bộ nhớ phức tạp hơn RAM khá nhiều nên khó dùng; hơn nữa, phân tích trên RAM thường dự báo rất tốt hiệu năng trên máy thật.
 
@@ -658,7 +667,11 @@ Ví dụ minh hoạ của người tổng hợp: thuật toán X tốn 100n² b�
 
 #### Ví dụ hôm nay
 
-Mô hình RAM và tư duy "trường hợp xấu nhất, bậc tăng trưởng" là ngôn ngữ chung khi phỏng vấn kỹ thuật, khi đọc tài liệu thư viện (tài liệu C++ ghi độ phức tạp cho từng hàm của thư viện chuẩn) và khi thiết kế dịch vụ cần cam kết độ trễ: một thuật toán Θ(n²) có thể chạy tốt trên dữ liệu thử vài nghìn bản ghi rồi sụp khi lên vài triệu. Phân tích trường hợp xấu nhất còn quan trọng về an ninh: các cuộc tấn công từ chối dịch vụ bằng "đầu vào độc hại" (ví dụ chuỗi khiến bảng băm suy biến hoặc biểu thức chính quy quay lui bùng nổ) nhắm đúng vào khoảng cách giữa trường hợp trung bình và trường hợp xấu nhất. Đồng thời, những gì mô hình RAM bỏ qua — bộ nhớ đệm, dự đoán rẽ nhánh, xử lý song song — lại là lý do các thư viện thực tế đo đạc kỹ hằng số và đôi khi chọn thuật toán có bậc cao hơn cho đầu vào nhỏ (theo hiểu biết của người tổng hợp).
+Mô hình RAM và tư duy "trường hợp xấu nhất, bậc tăng trưởng" là ngôn ngữ chung khi phỏng vấn kỹ thuật, khi đọc tài liệu thư viện (tài liệu C++ ghi độ phức tạp cho từng hàm của thư viện chuẩn) và khi thiết kế dịch vụ cần cam kết độ trễ: một thuật toán Θ(n²) có thể chạy tốt trên dữ liệu thử vài nghìn bản ghi rồi sụp khi lên vài triệu.
+
+Phân tích trường hợp xấu nhất còn quan trọng về an ninh: các cuộc tấn công từ chối dịch vụ bằng "đầu vào độc hại" (ví dụ chuỗi khiến bảng băm suy biến hoặc biểu thức chính quy quay lui bùng nổ) nhắm đúng vào khoảng cách giữa trường hợp trung bình và trường hợp xấu nhất.
+
+Đồng thời, những gì mô hình RAM bỏ qua — bộ nhớ đệm, dự đoán rẽ nhánh, xử lý song song — lại là lý do các thư viện thực tế đo đạc kỹ hằng số và đôi khi chọn thuật toán có bậc cao hơn cho đầu vào nhỏ (theo hiểu biết của người tổng hợp).
 
 ### 4. Thiết kế thuật toán (2.3 Designing algorithms, trang 29–39)
 
@@ -870,7 +883,11 @@ Kiểm tra bằng số (của người tổng hợp): n = 8 có lg 8 + 1 = 4 t�
 
 #### Ví dụ hôm nay
 
-Sắp xếp trộn là nền của gần như mọi thuật toán sắp xếp ổn định trong thư viện chuẩn: Timsort (Python, sắp xếp đối tượng trong Java, Android) là sắp xếp trộn thích nghi kết hợp sắp xếp chèn cho các "đoạn chạy" ngắn; std::stable_sort trong C++ thường là sắp xếp trộn. Ý tưởng trộn còn là cốt lõi của **sắp xếp ngoài** (external sort) khi dữ liệu lớn hơn bộ nhớ: cơ sở dữ liệu sắp từng khối vừa bộ nhớ rồi trộn nhiều đường các khối đã sắp trên đĩa; các hệ xử lý dữ liệu lớn (MapReduce, Spark) dùng trộn ở pha "shuffle"; các cơ sở dữ liệu dạng LSM-tree (như RocksDB, Cassandra) liên tục trộn các tệp đã sắp trong quá trình "compaction"; phép nối bảng sort-merge join trong SQL cũng là thủ tục MERGE. Phương pháp cây đệ quy là cách nhanh nhất để ước lượng độ phức tạp của mã đệ quy khi phỏng vấn hay viết mã (theo hiểu biết của người tổng hợp).
+Sắp xếp trộn là nền của gần như mọi thuật toán sắp xếp ổn định trong thư viện chuẩn: Timsort (Python, sắp xếp đối tượng trong Java, Android) là sắp xếp trộn thích nghi kết hợp sắp xếp chèn cho các "đoạn chạy" ngắn; std::stable_sort trong C++ thường là sắp xếp trộn.
+
+Ý tưởng trộn còn là cốt lõi của **sắp xếp ngoài** (external sort) khi dữ liệu lớn hơn bộ nhớ: cơ sở dữ liệu sắp từng khối vừa bộ nhớ rồi trộn nhiều đường các khối đã sắp trên đĩa; các hệ xử lý dữ liệu lớn (MapReduce, Spark) dùng trộn ở pha "shuffle"; các cơ sở dữ liệu dạng LSM-tree (như RocksDB, Cassandra) liên tục trộn các tệp đã sắp trong quá trình "compaction"; phép nối bảng sort-merge join trong SQL cũng là thủ tục MERGE.
+
+Phương pháp cây đệ quy là cách nhanh nhất để ước lượng độ phức tạp của mã đệ quy khi phỏng vấn hay viết mã (theo hiểu biết của người tổng hợp).
 
 ### 5. Các bài toán cuối chương (Problems, trang 39–42)
 
@@ -923,7 +940,9 @@ Dù sắp xếp trộn chạy Θ(n lg n) trong trường hợp xấu nhất còn
 - **c.** Biết thuật toán cải biên chạy trong thời gian xấu nhất Θ(nk + n lg(n/k)), giá trị lớn nhất của k (là hàm của n) để thuật toán cải biên có cùng thời gian chạy với sắp xếp trộn chuẩn, theo ký hiệu Θ, là bao nhiêu?
 - **d.** Trong thực tế nên chọn k thế nào?
 
-*Lời giải của người tổng hợp.* (a) Mỗi danh sách tốn Θ(k²) trong trường hợp xấu nhất; n/k danh sách tốn (n/k) · Θ(k²) = Θ(nk). (b) Trộn từng cặp danh sách theo tầng như cây đệ quy: có n/k danh sách ở đáy, mỗi tầng trộn tổng cộng n phần tử tốn Θ(n), và có lg(n/k) tầng, tổng Θ(n lg(n/k)). (c) Cần nk + n lg(n/k) = Θ(n lg n). Nếu k = Θ(lg n): nk = Θ(n lg n) và n lg(n/k) = n lg n − n lg k = Θ(n lg n), được Θ(n lg n). Nếu k tăng nhanh hơn lg n thì số hạng nk vượt n lg n. Vậy k lớn nhất là Θ(lg n). (d) Chọn bằng thực nghiệm: k là kích thước lớn nhất mà sắp xếp chèn còn nhanh hơn sắp xếp trộn trên máy cụ thể; trong thực tế các thư viện thường dùng ngưỡng cỡ 16–64 phần tử (theo hiểu biết của người tổng hợp).
+*Lời giải của người tổng hợp.* (a) Mỗi danh sách tốn Θ(k²) trong trường hợp xấu nhất; n/k danh sách tốn (n/k) · Θ(k²) = Θ(nk). (b) Trộn từng cặp danh sách theo tầng như cây đệ quy: có n/k danh sách ở đáy, mỗi tầng trộn tổng cộng n phần tử tốn Θ(n), và có lg(n/k) tầng, tổng Θ(n lg(n/k)).
+
+(c) Cần nk + n lg(n/k) = Θ(n lg n). Nếu k = Θ(lg n): nk = Θ(n lg n) và n lg(n/k) = n lg n − n lg k = Θ(n lg n), được Θ(n lg n). Nếu k tăng nhanh hơn lg n thì số hạng nk vượt n lg n. Vậy k lớn nhất là Θ(lg n). (d) Chọn bằng thực nghiệm: k là kích thước lớn nhất mà sắp xếp chèn còn nhanh hơn sắp xếp trộn trên máy cụ thể; trong thực tế các thư viện thường dùng ngưỡng cỡ 16–64 phần tử (theo hiểu biết của người tổng hợp).
 
 ### Bài toán 2-2: Tính đúng của sắp xếp nổi bọt (Correctness of bubblesort, trang 40–41)
 
@@ -944,7 +963,11 @@ BUBBLESORT(A)
 - **c.** Dùng điều kiện kết thúc của bất biến ở ý (b), phát biểu bất biến cho vòng for ở dòng 1–4 cho phép chứng minh (2.3), theo cấu trúc chứng minh bất biến của chương.
 - **d.** Thời gian chạy xấu nhất của sắp xếp nổi bọt là bao nhiêu? So với sắp xếp chèn thế nào?
 
-*Lời giải của người tổng hợp.* (a) Cần chứng minh A' là một **hoán vị** của A (gồm đúng các phần tử ban đầu) — điều này đúng vì thuật toán chỉ đổi chỗ phần tử. (b) Bất biến vòng trong: ở đầu mỗi lần lặp, A[j] là phần tử nhỏ nhất của A[j .. n], và A[j .. n] là hoán vị của các phần tử ban đầu trong A[j .. n] (trước khi vòng trong bắt đầu). Khởi tạo: j = n, A[n .. n] một phần tử. Duy trì: dòng 3–4 đưa min(A[j − 1], A[j]) về A[j − 1], nên A[j − 1] là nhỏ nhất của A[j − 1 .. n]. Kết thúc: j = i, nên A[i] là phần tử nhỏ nhất của A[i .. n]. (c) Bất biến vòng ngoài: ở đầu mỗi lần lặp, A[1 .. i − 1] chứa i − 1 phần tử nhỏ nhất của A, theo thứ tự đã sắp, và A[i .. n] chứa các phần tử còn lại. Duy trì: theo (b), lần lặp đưa phần tử nhỏ nhất của A[i .. n] về A[i]. Kết thúc: i = n, A[1 .. n − 1] chứa n − 1 phần tử nhỏ nhất đã sắp, nên A[n] là lớn nhất và cả mảng đã sắp. (d) Dòng 3 luôn chạy Σᵢ₌₁ⁿ⁻¹ (n − i) = n(n − 1)/2 lần, nên thời gian Θ(n²) cả trong trường hợp xấu nhất lẫn tốt nhất. Sắp xếp chèn cũng Θ(n²) trường hợp xấu nhất nhưng Θ(n) khi mảng đã sắp; số lần đổi chỗ của nổi bọt bằng số nghịch thế, đúng bằng số lần dịch của sắp xếp chèn, nhưng mỗi lần đổi chỗ tốn ba phép gán, nên trong thực tế nổi bọt thường chậm hơn.
+*Lời giải của người tổng hợp.* (a) Cần chứng minh A' là một **hoán vị** của A (gồm đúng các phần tử ban đầu) — điều này đúng vì thuật toán chỉ đổi chỗ phần tử. (b) Bất biến vòng trong: ở đầu mỗi lần lặp, A[j] là phần tử nhỏ nhất của A[j .. n], và A[j .. n] là hoán vị của các phần tử ban đầu trong A[j .. n] (trước khi vòng trong bắt đầu). Khởi tạo: j = n, A[n .. n] một phần tử. Duy trì: dòng 3–4 đưa min(A[j − 1], A[j]) về A[j − 1], nên A[j − 1] là nhỏ nhất của A[j − 1 .. n]. Kết thúc: j = i, nên A[i] là phần tử nhỏ nhất của A[i .. n].
+
+(c) Bất biến vòng ngoài: ở đầu mỗi lần lặp, A[1 .. i − 1] chứa i − 1 phần tử nhỏ nhất của A, theo thứ tự đã sắp, và A[i .. n] chứa các phần tử còn lại. Duy trì: theo (b), lần lặp đưa phần tử nhỏ nhất của A[i .. n] về A[i]. Kết thúc: i = n, A[1 .. n − 1] chứa n − 1 phần tử nhỏ nhất đã sắp, nên A[n] là lớn nhất và cả mảng đã sắp.
+
+(d) Dòng 3 luôn chạy Σᵢ₌₁ⁿ⁻¹ (n − i) = n(n − 1)/2 lần, nên thời gian Θ(n²) cả trong trường hợp xấu nhất lẫn tốt nhất. Sắp xếp chèn cũng Θ(n²) trường hợp xấu nhất nhưng Θ(n) khi mảng đã sắp; số lần đổi chỗ của nổi bọt bằng số nghịch thế, đúng bằng số lần dịch của sắp xếp chèn, nhưng mỗi lần đổi chỗ tốn ba phép gán, nên trong thực tế nổi bọt thường chậm hơn.
 
 ### Bài toán 2-3: Tính đúng của quy tắc Horner (Correctness of Horner's rule, trang 41)
 
@@ -970,7 +993,9 @@ khi cho các hệ số a₀, a₁, …, aₙ và một giá trị x:
   Coi tổng không có số hạng nào bằng 0. Theo cấu trúc chứng minh bất biến của chương, dùng bất biến này chứng minh rằng khi kết thúc, y = Σₖ₌₀ⁿ aₖxᵏ.
 - **d.** Kết luận bằng lập luận rằng đoạn mã đã cho tính đúng giá trị của đa thức đặc trưng bởi các hệ số a₀, a₁, …, aₙ.
 
-*Lời giải của người tổng hợp.* (a) Vòng lặp chạy n + 1 lần, mỗi lần hằng: Θ(n). (b) Cách ngây thơ: với mỗi k, tính xᵏ bằng k − 1 phép nhân từ đầu rồi nhân aₖ và cộng dồn; tổng số phép nhân Σₖ k = Θ(n²), chậm hơn Horner một bậc. (c) Khởi tạo: i = n, tổng từ k = 0 tới n − (n + 1) = −1 rỗng, y = 0 ✓. Duy trì: sau dòng 3, y mới = aᵢ + x · Σₖ₌₀ⁿ⁻⁽ⁱ⁺¹⁾ aₖ₊ᵢ₊₁xᵏ = aᵢ + Σₖ₌₀ⁿ⁻⁽ⁱ⁺¹⁾ aₖ₊ᵢ₊₁xᵏ⁺¹ = Σₖ₌₀ⁿ⁻ⁱ aₖ₊ᵢxᵏ, chính là bất biến với i thay bằng i − 1. Kết thúc: vòng dừng khi i = −1, thay vào: y = Σₖ₌₀ⁿ aₖxᵏ. (d) Đó đúng là P(x). Ví dụ kiểm tra: P(x) = 1 + 2x + 3x², x = 2: y = 0 → 3 → 2 + 2·3 = 8 → 1 + 2·8 = 17, và 1 + 4 + 12 = 17 ✓.
+*Lời giải của người tổng hợp.* (a) Vòng lặp chạy n + 1 lần, mỗi lần hằng: Θ(n). (b) Cách ngây thơ: với mỗi k, tính xᵏ bằng k − 1 phép nhân từ đầu rồi nhân aₖ và cộng dồn; tổng số phép nhân Σₖ k = Θ(n²), chậm hơn Horner một bậc.
+
+(c) Khởi tạo: i = n, tổng từ k = 0 tới n − (n + 1) = −1 rỗng, y = 0 ✓. Duy trì: sau dòng 3, y mới = aᵢ + x · Σₖ₌₀ⁿ⁻⁽ⁱ⁺¹⁾ aₖ₊ᵢ₊₁xᵏ = aᵢ + Σₖ₌₀ⁿ⁻⁽ⁱ⁺¹⁾ aₖ₊ᵢ₊₁xᵏ⁺¹ = Σₖ₌₀ⁿ⁻ⁱ aₖ₊ᵢxᵏ, chính là bất biến với i thay bằng i − 1. Kết thúc: vòng dừng khi i = −1, thay vào: y = Σₖ₌₀ⁿ aₖxᵏ. (d) Đó đúng là P(x). Ví dụ kiểm tra: P(x) = 1 + 2x + 3x², x = 2: y = 0 → 3 → 2 + 2·3 = 8 → 1 + 2·8 = 17, và 1 + 4 + 12 = 17 ✓.
 
 ### Bài toán 2-4: Nghịch thế (Inversions, trang 41–42)
 
@@ -981,7 +1006,11 @@ Cho A[1 .. n] là mảng n số phân biệt. Nếu i < j và A[i] > A[j], cặp
 - **c.** Quan hệ giữa thời gian chạy của sắp xếp chèn và số nghịch thế của mảng đầu vào là gì? Giải thích.
 - **d.** Cho thuật toán xác định số nghịch thế trong một hoán vị bất kỳ của n phần tử trong thời gian xấu nhất Θ(n lg n). (Gợi ý: sửa sắp xếp trộn.)
 
-*Lời giải của người tổng hợp.* (a) Theo chỉ số: (1, 5) vì 2 > 1; (2, 5) vì 3 > 1; (3, 4) vì 8 > 6; (3, 5) vì 8 > 1; (4, 5) vì 6 > 1. (b) Mảng giảm dần ⟨n, n − 1, …, 1⟩: mọi cặp đều là nghịch thế, tổng C(n, 2) = n(n − 1)/2. (c) Mỗi lần thực hiện dòng 6 (dịch A[i] sang phải qua key) xoá đúng một nghịch thế (cặp gồm A[i] và key), và không tạo nghịch thế mới; nên tổng số lần dịch Σ(tⱼ − 1) bằng đúng số nghịch thế I, và thời gian chạy là Θ(n + I). Ví dụ ⟨5, 2, 4, 6, 1, 3⟩ có 9 nghịch thế và sắp xếp chèn dịch đúng 9 lần. (d) Trong MERGE, mỗi khi chép R[j] về A trước các phần tử còn lại của L (tức L[i] > R[j]), phần tử R[j] tạo nghịch thế với mọi phần tử L[i .. n₁] còn lại, nên cộng thêm n₁ − i + 1 vào bộ đếm. Tổng số nghịch thế = số nghịch thế trong nửa trái + trong nửa phải + giữa hai nửa (đếm lúc trộn); thời gian vẫn là T(n) = 2T(n/2) + Θ(n) = Θ(n lg n). Ví dụ trộn L = ⟨2, 3, 8⟩ và R = ⟨1, 6⟩ (hai nửa của ⟨2, 3, 8, 6, 1⟩ sau khi đã sắp; nửa phải ⟨6, 1⟩ có 1 nghịch thế): chép 1 trước 2, 3, 8 cộng 3; chép 6 trước 8 cộng 1; tổng 0 + 1 + 4 = 5 ✓.
+*Lời giải của người tổng hợp.* (a) Theo chỉ số: (1, 5) vì 2 > 1; (2, 5) vì 3 > 1; (3, 4) vì 8 > 6; (3, 5) vì 8 > 1; (4, 5) vì 6 > 1. (b) Mảng giảm dần ⟨n, n − 1, …, 1⟩: mọi cặp đều là nghịch thế, tổng C(n, 2) = n(n − 1)/2.
+
+(c) Mỗi lần thực hiện dòng 6 (dịch A[i] sang phải qua key) xoá đúng một nghịch thế (cặp gồm A[i] và key), và không tạo nghịch thế mới; nên tổng số lần dịch Σ(tⱼ − 1) bằng đúng số nghịch thế I, và thời gian chạy là Θ(n + I). Ví dụ ⟨5, 2, 4, 6, 1, 3⟩ có 9 nghịch thế và sắp xếp chèn dịch đúng 9 lần.
+
+(d) Trong MERGE, mỗi khi chép R[j] về A trước các phần tử còn lại của L (tức L[i] > R[j]), phần tử R[j] tạo nghịch thế với mọi phần tử L[i .. n₁] còn lại, nên cộng thêm n₁ − i + 1 vào bộ đếm. Tổng số nghịch thế = số nghịch thế trong nửa trái + trong nửa phải + giữa hai nửa (đếm lúc trộn); thời gian vẫn là T(n) = 2T(n/2) + Θ(n) = Θ(n lg n). Ví dụ trộn L = ⟨2, 3, 8⟩ và R = ⟨1, 6⟩ (hai nửa của ⟨2, 3, 8, 6, 1⟩ sau khi đã sắp; nửa phải ⟨6, 1⟩ có 1 nghịch thế): chép 1 trước 2, 3, 8 cộng 3; chép 6 trước 8 cộng 1; tổng 0 + 1 + 4 = 5 ✓.
 
 ### Ghi chú chương (Chapter notes)
 
@@ -1156,7 +1185,9 @@ Hai thuật toán của chương đều quen thuộc; giá trị thật nằm �
 
 ### So với thực tế phần cứng hiện đại
 
-Mô hình RAM coi mọi truy cập bộ nhớ như nhau, nhưng trên máy hiện đại, truy cập trúng bộ nhớ đệm nhanh hơn truy cập RAM chính hàng chục tới hàng trăm lần (theo hiểu biết của người tổng hợp). Cả sắp xếp chèn lẫn sắp xếp trộn đều truy cập bộ nhớ gần như tuần tự, nên thân thiện với bộ nhớ đệm — một phần lý do chúng còn sống tốt trong thư viện chuẩn. Ngược lại, khẳng định "phân tích RAM thường dự báo rất tốt" đúng về bậc tăng trưởng nhưng có thể sai lệch lớn về hằng số; đó là lý do ngưỡng k trong Bài toán 2-1 phải chọn bằng đo đạc. Các mô hình phân cấp bộ nhớ (mô hình bộ nhớ ngoài, thuật toán không phụ thuộc cache) được nhắc ở vài bài toán sau trong sách, như cây B ở [C18-cay-b.md](C18-cay-b.md).
+Mô hình RAM coi mọi truy cập bộ nhớ như nhau, nhưng trên máy hiện đại, truy cập trúng bộ nhớ đệm nhanh hơn truy cập RAM chính hàng chục tới hàng trăm lần (theo hiểu biết của người tổng hợp). Cả sắp xếp chèn lẫn sắp xếp trộn đều truy cập bộ nhớ gần như tuần tự, nên thân thiện với bộ nhớ đệm — một phần lý do chúng còn sống tốt trong thư viện chuẩn.
+
+Ngược lại, khẳng định "phân tích RAM thường dự báo rất tốt" đúng về bậc tăng trưởng nhưng có thể sai lệch lớn về hằng số; đó là lý do ngưỡng k trong Bài toán 2-1 phải chọn bằng đo đạc. Các mô hình phân cấp bộ nhớ (mô hình bộ nhớ ngoài, thuật toán không phụ thuộc cache) được nhắc ở vài bài toán sau trong sách, như cây B ở [C18-cay-b.md](C18-cay-b.md).
 
 ### Liên hệ các chương khác
 
@@ -1172,3 +1203,148 @@ Mô hình RAM coi mọi truy cập bộ nhớ như nhau, nhưng trên máy hiệ
 - **Phỏng vấn kỹ thuật:** bài đếm nghịch thế (Bài toán 2-4d), tìm hai số có tổng x (Bài tập 2.3-7), tìm kiếm nhị phân (2.3-5) và trộn hai mảng đã sắp là các câu hỏi kinh điển; khả năng phát biểu bất biến vòng lặp cho tìm kiếm nhị phân thường phân biệt ứng viên viết mã đúng ngay lần đầu.
 - **Lập trình thi đấu:** sắp xếp trộn có đếm nghịch thế là kỹ thuật chuẩn; cây đệ quy là cách ước lượng nhanh độ phức tạp của mọi lời giải đệ quy.
 - **Kỹ thuật phần mềm:** dùng hàm sắp xếp của thư viện thay vì tự viết, nhưng biết nó ổn định hay không (sort so với stable_sort trong C++), Θ(n lg n) có bảo đảm hay chỉ trung bình, và khi nào dữ liệu gần sắp khiến các thuật toán thích nghi (như Timsort) chạy gần tuyến tính. Khi viết vòng lặp phức tạp, ghi bất biến thành chú thích hoặc assert.
+
+## Bản đồ tư duy
+
+Toàn bộ Chương 2 trên một trang: năm nhánh theo các mục của bản gốc (Mục 2.1 sắp xếp chèn và bất biến vòng lặp, Mục 2.2 phân tích trên mô hình RAM, Mục 2.3 chia để trị và sắp xếp trộn, Mục 2.3.2 truy hồi và cây đệ quy, phần Problems), mỗi nhánh ghi thuật toán, kết quả thời gian chạy và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: mô tả thuật toán bằng pseudocode, chứng minh đúng bằng bất biến vòng lặp, phân tích trên mô hình RAM — sắp xếp trộn Θ(n lg n) thắng sắp xếp chèn Θ(n²) khi n lớn`"]
+  n1["`Mục 2.1 — Sắp xếp chèn và cách chứng minh thuật toán đúng`"]
+  n0 --- n1
+  n2["`Bài toán sắp xếp: cho dãy n số, tìm hoán vị không giảm, các số cần sắp gọi là khoá`"]
+  n1 --- n2
+  n3["`Sắp xếp chèn giống sắp một tay bài: lấy từng lá, so từ phải sang trái, chèn vào đúng chỗ`"]
+  n1 --- n3
+  n4["`Với j từ 2 tới n, dịch các phần tử lớn hơn key = A[j] sang phải một ô rồi đặt key vào ô trống`"]
+  n3 --- n4
+  n5["`Ví dụ ⟨5, 2, 4, 6, 1, 3⟩ thành ⟨1, 2, 3, 4, 5, 6⟩ sau năm lần lặp, tổng 9 lần dịch`"]
+  n3 --- n5
+  n6["`Sắp xếp tại chỗ và ổn định, chỉ thêm các biến key, i, j`"]
+  n3 --- n6
+  n7["`Bất biến vòng lặp: mệnh đề đúng ở đầu mỗi lần lặp, chứng minh qua ba bước`"]
+  n1 --- n7
+  n8["`Khởi tạo giống bước cơ sở, duy trì giống bước quy nạp của quy nạp toán học`"]
+  n7 --- n8
+  n9["`Kết thúc khác quy nạp: dừng khi vòng lặp dừng, kết hợp bất biến với điều kiện dừng`"]
+  n7 --- n9
+  n10["`Với sắp xếp chèn: đoạn đầu j − 1 phần tử đã sắp, dừng ở j = n + 1 nên cả mảng đã sắp`"]
+  n7 --- n10
+  n11["`Quy ước pseudocode: thụt lề là khối, biến đếm giữ giá trị vượt cận, and và or đánh giá ngắn mạch`"]
+  n1 --- n11
+  n12["`Mảng và đối tượng truyền bằng con trỏ, nên đổi thuộc tính trong thủ tục thì bên gọi nhìn thấy`"]
+  n1 --- n12
+  n13["`Mục 2.2 — Phân tích thuật toán trên mô hình RAM`"]
+  n0 --- n13
+  n14["`Mô hình RAM: một bộ xử lý, lệnh chạy tuần tự, mỗi lệnh số học, di chuyển dữ liệu, điều khiển tốn thời gian hằng`"]
+  n13 --- n14
+  n15["`Không được có lệnh “sắp xếp”: kim chỉ nam là cách máy tính thật được thiết kế`"]
+  n14 --- n15
+  n16["`Từ máy dài c lg n bit với c ≥ 1 hằng, mô hình bỏ qua bộ nhớ đệm và bộ nhớ ảo`"]
+  n14 --- n16
+  n17["`Thời gian chạy là số bước cơ bản, mỗi lần thực hiện dòng i tốn hằng cᵢ, cộng chi phí nhân số lần`"]
+  n13 --- n17
+  n18["`Sắp xếp chèn: mảng đã sắp cho tⱼ = 1, thời gian tuyến tính an + b`"]
+  n13 --- n18
+  n19["`Mảng sắp ngược cho tⱼ = j, thời gian bậc hai an² + bn + c`"]
+  n13 --- n19
+  n20["`Kiểm tra với mọi cᵢ = 1 và n = 6: tốt nhất 26 bước, xấu nhất 71 bước`"]
+  n19 --- n20
+  n21["`Sách chọn trường hợp xấu nhất vì ba lý do`"]
+  n13 --- n21
+  n22["`Là cận trên cho mọi đầu vào: một bảo đảm, không phải phỏng đoán`"]
+  n21 --- n22
+  n23["`Xảy ra thường xuyên, ví dụ tìm một thông tin không có trong cơ sở dữ liệu`"]
+  n21 --- n23
+  n24["`Trung bình tⱼ ≈ j/2 nên vẫn bậc hai, tệ gần bằng trường hợp xấu nhất`"]
+  n21 --- n24
+  n25["`Bậc tăng trưởng: giữ số hạng bậc cao nhất, bỏ hệ số, nên sắp xếp chèn xấu nhất là Θ(n²)`"]
+  n13 --- n25
+  n26["`Với n nhỏ, thuật toán bậc cao hơn có thể nhanh hơn do hằng số, với n đủ lớn, Θ(n²) luôn thắng Θ(n³)`"]
+  n13 --- n26
+  n27["`Mục 2.3.1 — Chia để trị và sắp xếp trộn`"]
+  n0 --- n27
+  n28["`Sắp xếp chèn theo cách tăng dần, chia để trị là cách thiết kế khác, đào sâu ở Chương 4`"]
+  n27 --- n28
+  n29["`Ba bước mỗi tầng đệ quy: chia thành bài toán con, trị bằng đệ quy, kết hợp lời giải`"]
+  n27 --- n29
+  n30["`MERGE trộn hai đoạn đã sắp trong Θ(n), như lấy lá nhỏ hơn trong hai chồng bài ngửa`"]
+  n27 --- n30
+  n31["`Phần tử canh ∞ ở cuối L và R giúp khỏi kiểm tra mảng nào đã hết, dừng sau đúng r − p + 1 bước`"]
+  n30 --- n31
+  n32["`Bất biến: đoạn đã ghi chứa k − p phần tử nhỏ nhất của L và R theo thứ tự đã sắp`"]
+  n30 --- n32
+  n33["`Ví dụ trộn ⟨2, 4, 5, 7⟩ với ⟨1, 2, 3, 6⟩ qua tám bước thành ⟨1, 2, 2, 3, 4, 5, 6, 7⟩`"]
+  n30 --- n33
+  n34["`MERGE-SORT chia tại q = ⌊(p + r)/2⌋, sắp đệ quy hai nửa rồi gọi MERGE, dừng khi đoạn có một phần tử`"]
+  n27 --- n34
+  n35["`Ví dụ ⟨5, 2, 4, 7, 1, 3, 2, 6⟩: trộn từ dưới lên thành cặp, bộ bốn, rồi cả dãy`"]
+  n34 --- n35
+  n36["`Không tại chỗ: cần mảng phụ L và R tổng cộng n + 2 ô`"]
+  n34 --- n36
+  n37["`Mục 2.3.2 — Truy hồi và cây đệ quy cho thuật toán chia để trị`"]
+  n0 --- n37
+  n38["`Truy hồi tổng quát: T(n) = aT(n/b) + D(n) + C(n), và T(n) = Θ(1) khi n ≤ c`"]
+  n37 --- n38
+  n39["`Sắp xếp trộn: chia Θ(1), trị 2T(n/2), kết hợp Θ(n), nên T(n) = 2T(n/2) + Θ(n)`"]
+  n37 --- n39
+  n40["`Cây đệ quy cho T(n) = 2T(n/2) + cn: tầng i có 2ⁱ nút, mỗi nút c(n/2ⁱ), mỗi tầng tốn cn`"]
+  n37 --- n40
+  n41["`Có lg n + 1 tầng, chứng minh bằng quy nạp theo số lá`"]
+  n40 --- n41
+  n42["`Tổng cn lg n + cn = Θ(n lg n), với n = 8 có 4 tầng, tổng 32c`"]
+  n40 --- n42
+  n43["`Vì lg n tăng chậm hơn mọi hàm tuyến tính, sắp xếp trộn thắng sắp xếp chèn khi n đủ lớn, Chương 4 chứng minh chặt bằng định lý thợ`"]
+  n37 --- n43
+  n44["`Phần Problems — bốn bài toán cuối chương`"]
+  n0 --- n44
+  n45["`Bài toán 2-1: dùng sắp xếp chèn cho đoạn dài k bên trong sắp xếp trộn, tốn Θ(nk + n lg(n/k)), k lớn nhất là Θ(lg n)`"]
+  n44 --- n45
+  n46["`Bài toán 2-2: sắp xếp nổi bọt đúng nhờ hai bất biến lồng nhau, luôn tốn Θ(n²)`"]
+  n44 --- n46
+  n47["`Bài toán 2-3: quy tắc Horner tính đa thức trong Θ(n), cách ngây thơ tốn Θ(n²)`"]
+  n44 --- n47
+  n48["`Bài toán 2-4: thời gian sắp xếp chèn là Θ(n + số nghịch thế), đếm nghịch thế trong Θ(n lg n) bằng sắp xếp trộn sửa đổi`"]
+  n44 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Chương dạy phương pháp nhiều hơn thuật toán: pseudocode, bất biến, đếm bước, bậc tăng trưởng, truy hồi được dùng lại ở các chương sau`"]
+  n49 --- n50
+  n51["`Đổi Θ(n²) sang Θ(n lg n) lợi hơn mọi tối ưu hằng số khi n lớn, nhưng với n nhỏ hằng số vẫn quan trọng`"]
+  n49 --- n51
+  n52["`Phân tích RAM dự báo tốt bậc tăng trưởng nhưng có thể lệch về hằng số, nên ngưỡng k phải chọn bằng đo đạc`"]
+  n49 --- n52
+  class n0 root
+  class n1,n13,n27,n37,n44,n49 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần I "Foundations", Chương 2 "Getting Started", trang 16–42.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu gắn với MIT, Stein ở Columbia), tác giả của giáo trình thuật toán được dùng rộng rãi nhất thế giới, thường gọi tắt là "CLRS".
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-vai-tro-cua-thuat-toan.md](C01-vai-tro-cua-thuat-toan.md)) định nghĩa thuật toán là một thủ tục tính toán biến đầu vào thành đầu ra, giới thiệu bài toán sắp xếp làm ví dụ, và lập luận rằng thuật toán là một công nghệ: chọn thuật toán tốt quan trọng ngang với chọn phần cứng nhanh. Chương 2 đặt toàn bộ "khung làm việc" mà cuốn sách dùng về sau: cách viết thuật toán bằng pseudocode, cách chứng minh thuật toán đúng bằng bất biến vòng lặp, cách phân tích thời gian chạy trên mô hình máy RAM, ý niệm trường hợp xấu nhất và bậc tăng trưởng, và phương pháp thiết kế chia để trị với phân tích bằng phương trình truy hồi. Hai thuật toán mẫu là sắp xếp chèn và sắp xếp trộn.
+
+Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) định nghĩa chính xác ký hiệu Θ (mà Chương 2 chỉ dùng một cách không hình thức) cùng O, Ω, o, ω; Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) đào sâu chia để trị và đưa ra các phương pháp giải truy hồi (phương pháp thay thế, cây đệ quy, định lý thợ) để chứng minh chặt rằng sắp xếp trộn chạy trong Θ(n lg n); Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) phát triển phân tích trường hợp trung bình và thuật toán ngẫu nhiên mà Chương 2 chỉ nhắc tới.
+
+Phần II về sắp xếp (heapsort ở [C06-heapsort.md](C06-heapsort.md), quicksort ở [C07-quicksort.md](C07-quicksort.md), sắp xếp thời gian tuyến tính ở [C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) sẽ so sánh liên tục với hai thuật toán của chương này. Các tổng xuất hiện trong phân tích được giải ở Phụ lục A ([PA-tong.md](PA-tong.md)).
+
+## Lưu ý
+
+- **Mục và bài có dấu sao (★):** chương này không có mục nào đánh dấu sao. Chỉ có Bài tập 2.3-7 (tìm hai phần tử có tổng bằng x trong thời gian Θ(n lg n)) mang dấu sao, nghĩa là khó hơn mức trung bình.
+- **Lớp chữ PDF hỏng:** toàn bộ pseudocode (INSERTION-SORT, MERGE, MERGE-SORT, BUBBLESORT, đoạn mã quy tắc Horner), bảng chi phí/số lần thực hiện của sắp xếp chèn, các công thức T(n) trường hợp tốt nhất và xấu nhất, truy hồi (2.1), (2.2), các hình 2.2–2.5 và bất biến vòng lặp trong Bài toán 2-3 đều được đọc lại từ ảnh trang, không từ lớp chữ (ví dụ lớp chữ ghi "AŒj" cho A[j], "/NUL" cho dấu trừ, "D" cho dấu bằng, "‚" cho Θ, "1" cho ∞ ở dòng 8–9 của MERGE).
+- **Lỗi đã biết (errata):** người tổng hợp đã tự kiểm tra lại mọi ví dụ số của chương (các bước của Hình 2.2, Hình 2.3, Hình 2.4, các công thức tổng và công thức T(n)) và không thấy sai sót. Theo hiểu biết của người tổng hợp, không tra cứu, chương này không có lỗi nội dung đáng kể trong danh sách errata của ấn bản 3.
+- **Một điểm dễ hiểu nhầm trong sách:** lập luận tính đúng của sắp xếp chèn chỉ chứng minh không hình thức bước "duy trì" (sách nói rõ là không muốn sa vào hình thức, lẽ ra cần một bất biến riêng cho vòng **while** ở dòng 5–7). Phần "Nội dung chi tiết" bên dưới bổ sung bất biến đó, ghi rõ là của người tổng hợp.
+- **Thay đổi ở ấn bản 4 (2022), theo hiểu biết của người tổng hợp, không tra cứu:** chương 2 vẫn giữ sắp xếp chèn và sắp xếp trộn, nhưng quy ước pseudocode đổi: số phần tử n được truyền làm tham số (INSERTION-SORT(A, n)) thay cho thuộc tính A.length, đoạn mảng viết A[1 : n] thay cho A[1 .. n], và thủ tục MERGE được viết lại **không dùng phần tử canh (sentinel) ∞** — tức là đúng phương án mà Bài tập 2.3-2 của ấn bản 3 yêu cầu người đọc tự viết. Ấn bản 4 cũng in màu và đánh số lại một số hình, bài tập.
+- **Ký hiệu:** bản tổng hợp dùng ký hiệu Unicode (Θ, ≤, ∞, ⌊ ⌋, ⌈ ⌉, Σ, lg) trong toàn bộ văn bản. lg n nghĩa là log₂ n. A[p .. q] là đoạn mảng gồm các phần tử A[p], A[p + 1], …, A[q].
