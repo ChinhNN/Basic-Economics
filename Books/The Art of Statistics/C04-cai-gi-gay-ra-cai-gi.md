@@ -1,19 +1,16 @@
 # Chương 4 — Cái gì gây ra cái gì? (What Causes What?)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 4 "What Causes What?", trang PDF 80–91 (ebook không có số trang in).
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) giới thiệu hệ số tương quan Pearson và cho thấy các bệnh viện phẫu thuật tim trẻ em làm nhiều ca hơn có tỷ lệ sống sót cao hơn. Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) hỏi dữ liệu cho ta biết gì về tổng thể, và nêu lấy mẫu ngẫu nhiên là cách tránh thiên lệch khi đi từ mẫu tới tổng thể. Chương 4 chuyển sang câu hỏi khó hơn và quan trọng hơn: một mối liên hệ quan sát được có phải là quan hệ **nhân quả** không. Chương định nghĩa nhân quả theo nghĩa thống kê (can thiệp làm thay đổi xác suất của kết cục), trình bày thử nghiệm ngẫu nhiên có đối chứng như khuôn khổ tốt nhất, rồi bàn những gì có thể làm với dữ liệu quan sát: biến gây nhiễu, điều chỉnh và nghịch lý Simpson, quan hệ nhân quả ngược, yếu tố ẩn, các tiêu chí Bradford Hill, dịch tễ học pháp y và ngẫu nhiên hoá Mendel. Chương kết thúc bằng lời hẹn: các phương pháp điều chỉnh yếu tố gây nhiễu chủ yếu dựa trên **hồi quy**, chủ đề của Chương 5 ([C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md)). Khả năng mối liên hệ chỉ do may rủi được hẹn lại ở Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)).
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **tương quan không chứng minh nhân quả; theo nghĩa thống kê, "X gây ra Y" chỉ có nghĩa là nếu ta can thiệp để X xảy ra thì Y có xu hướng xảy ra thường hơn — không bao giờ nói được X đã gây ra Y trong một trường hợp cụ thể. Vì vậy cách đáng tin nhất để xác lập nhân quả là can thiệp nhiều lần trong một thử nghiệm ngẫu nhiên có đối chứng được thiết kế đúng; với dữ liệu quan sát, phải tìm mọi lời giải thích khác (biến gây nhiễu, nhân quả ngược, yếu tố ẩn, thiên lệch chọn) và dùng phán đoán có hệ thống trước khi kết luận.** Phần mở đầu kể một nghiên cứu trên hơn 4 triệu người Thuỵ Điển về địa vị kinh tế xã hội và u não bị biến thành tít báo "Vì sao học đại học làm tăng nguy cơ u não", trong khi chính tác giả nghiên cứu nghĩ tới thiên lệch phát hiện. Mục "Correlation Does Not Imply Causation" nhắc câu thần chú có từ năm 1900 và ví dụ tương quan 0,96 giữa tiêu thụ phô mai mozzarella và số tiến sĩ xây dựng dân dụng ở Mỹ. Mục "What Is 'Causation' Anyway?" đưa ra định nghĩa xác suất của nhân quả qua ví dụ hút thuốc và ung thư phổi, rồi trình bày chín nguyên tắc của một thử nghiệm lâm sàng tốt bằng Nghiên cứu Bảo vệ Tim (HPS) với 20.536 người: nhóm dùng statin giảm nguy cơ đau tim từ 11,8% xuống 8,7% trong 5 năm (khoảng 30 người dùng thuốc 5 năm để ngăn một ca); tiếp theo là lịch sử thử nghiệm ngẫu nhiên (streptomycin 1948, phân khối của Fisher), ứng dụng trong chính sách (nhắn tin hỗ trợ học sinh thi lại tăng tỷ lệ đỗ 27%), thử nghiệm cầu nguyện STEP và kiểm định A/B. Mục "What Do We Do When We Can't Randomize?" dùng câu hỏi "vì sao đàn ông già có tai to" để giới thiệu nghiên cứu cắt ngang, đoàn hệ tiến cứu, đoàn hệ hồi cứu và bệnh–chứng. Mục "What Can We Do When We Observe an Association?" giải thích biến gây nhiễu, điều chỉnh (phân tầng), nghịch lý Simpson qua số liệu tuyển sinh Cambridge 1996 (tổng thể nam đỗ 24%, nữ 23%, nhưng nữ đỗ cao hơn hoặc bằng ở từng ngành), nhân quả ngược (Waitrose "làm tăng giá nhà 36.000 bảng", người không uống rượu chết nhiều hơn), yếu tố ẩn và các ví dụ vắc-xin và tự kỷ, người thuận tay trái, tuổi thọ giáo hoàng. Mục "Can We Ever Conclude Causation from Observational Data?" trình bày bảy tiêu chí Bradford Hill (theo phiên bản của Howick), lập luận "nguy cơ tương đối lớn hơn 2" trong toà án, và ngẫu nhiên hoá Mendel.
+## Ý chính
 
-> **Lưu ý:**
-> - **Sách nói nhầm chương (trang PDF 80):** câu "We saw in the last chapter how Pearson's correlation coefficient measures..." — hệ số tương quan Pearson và biểu đồ phân tán số ca phẫu thuật tim theo tỷ lệ sống sót được trình bày ở Chương 2, không phải chương ngay trước (Chương 3 không bàn tương quan). Nhận xét của người tổng hợp.
-> - **Bảng tuyển sinh Cambridge (Table 4.2) không hoàn toàn khớp với lời khẳng định "ở mỗi ngành, tỷ lệ đỗ của nữ đều cao hơn":** ở ngành Y, nữ đỗ 99/416 = 23,80%, nam đỗ 140/578 = 24,22%; cả hai được làm tròn thành 24% nên bảng trông như bằng nhau, nhưng thực ra nam cao hơn một chút. Nữ cao hơn rõ ở bốn ngành còn lại. Nghịch lý Simpson vẫn đúng về bản chất (tổng thể nam cao hơn, trong khi từng ngành nữ cao hơn hoặc gần bằng). Nhận xét của người tổng hợp. Các tổng còn lại khớp: nữ 1.184 người nộp, 274 đỗ (23,1%); nam 2.470 nộp, 584 đỗ (23,6%, làm tròn thành 24%). Chênh lệch tổng thể chỉ 0,5 điểm phần trăm.
-> - **Mức giảm nguy cơ tương đối trong Table 4.1 (HPS) tính lại từ các phần trăm đã làm tròn hơi khác:** đau tim (11,8 − 8,7) / 11,8 = 26,3% (sách 27%); đột quỵ (5,7 − 4,3) / 5,7 = 24,6% (sách 25%); tử vong do mọi nguyên nhân (14,7 − 12,9) / 14,7 = 12,2% (sách 13%). Chênh lệch có thể do sách tính từ số liệu chưa làm tròn hoặc theo tỷ số tỷ suất của bài báo gốc; không ảnh hưởng kết luận. Các con số khác đã kiểm tra: 10.267 + 10.269 = 20.536 người; mức giảm tuyệt đối 3,1 điểm phần trăm, tức 31 ca trên 1.000 người; 1.000 / 31 = 32 người dùng statin 5 năm để ngăn một ca đau tim ("khoảng 30", sách).
-> - **Hai con số khác nhau về hiệu quả statin:** lời văn dẫn phân tích gộp năm 2012 (27 thử nghiệm, hơn 170.000 người nguy cơ thấp): giảm 21% biến cố mạch máu lớn cho mỗi 1 mmol/L LDL giảm đi. Chú thích dấu sao của tác giả về bản thân lại dùng 25% cho "người có nguy cơ nền như tôi và chưa từng mắc bệnh". Sách không giải thích sự khác biệt (có thể là ước tính cho phân nhóm). Phép tính trong chú thích: 0,75 × 0,75 = 0,5625, giảm khoảng 44%; 13% × 0,56 ≈ 7,3%, sách ghi 7%, đúng. Nếu dùng 21%: 0,79 × 0,79 = 0,62, giảm khoảng 38%, nguy cơ 10 năm từ 13% xuống khoảng 8%.
-> - **Ví dụ amiăng:** sách nói "nếu amiăng làm nguy cơ tăng hơn gấp đôi" rồi lấy con số 25 trên 1.000 (so với 10), tức nguy cơ tương đối 2,5. Người tổng hợp kiểm tra: trong số người phơi nhiễm bị ung thư, tỷ lệ do amiăng là (25 − 10) / 25 = 60%, lớn hơn một nửa; tổng quát, tỷ lệ này bằng (RR − 1) / RR và vượt 50% đúng khi RR > 2.
-> - **Bảng là ảnh:** Table 4.1 và Table 4.2 không có trong lớp chữ; nội dung trong bản tổng hợp được chép từ ảnh trang PDF 84 và 87.
-> - **Footnote:** danh sách footnote cuối file bundle bị lệch (năm mục trong đó thuộc Chương 5). Đối chiếu danh sách footnote toàn sách, chương này có ba footnote: tính toán cá nhân về statin (trang PDF 84), nhận xét về những người tham gia thử nghiệm vì bệnh nhân tương lai (trang PDF 84), và nhận xét về kinh phí cho nghiên cứu tai (trang PDF 86). Dấu sao in ngay dưới Table 4.1 và Table 4.2 không có footnote tương ứng (có lẽ là dấu liên kết nguồn của bảng). Cả ba footnote và nội dung quan trọng của 13 chú thích cuối chương được đưa vào phần Nội dung chi tiết.
-> - **Bố cục:** các khung tình huống ("Do statins reduce heart attacks and strokes?", "Is prayer effective?", "Why do old men have big ears?", "Does having a nearby Waitrose…?") là tiêu đề phụ nằm trong các mục lớn; nội dung dưới khung "Is prayer effective?" phần lớn nói về lịch sử thử nghiệm ngẫu nhiên, chỉ một đoạn nói về cầu nguyện. Bản tổng hợp giữ nguyên vị trí các khung trong mục lớn tương ứng.
+Spiegelhalter muốn người đọc hiểu rằng **tương quan không chứng minh nhân quả; theo nghĩa thống kê, "X gây ra Y" chỉ có nghĩa là nếu ta can thiệp để X xảy ra thì Y có xu hướng xảy ra thường hơn — không bao giờ nói được X đã gây ra Y trong một trường hợp cụ thể. Vì vậy cách đáng tin nhất để xác lập nhân quả là can thiệp nhiều lần trong một thử nghiệm ngẫu nhiên có đối chứng được thiết kế đúng; với dữ liệu quan sát, phải tìm mọi lời giải thích khác (biến gây nhiễu, nhân quả ngược, yếu tố ẩn, thiên lệch chọn) và dùng phán đoán có hệ thống trước khi kết luận.**
+
+Phần mở đầu kể một nghiên cứu trên hơn 4 triệu người Thuỵ Điển về địa vị kinh tế xã hội và u não bị biến thành tít báo "Vì sao học đại học làm tăng nguy cơ u não", trong khi chính tác giả nghiên cứu nghĩ tới thiên lệch phát hiện. Mục "Correlation Does Not Imply Causation" nhắc câu thần chú có từ năm 1900 và ví dụ tương quan 0,96 giữa tiêu thụ phô mai mozzarella và số tiến sĩ xây dựng dân dụng ở Mỹ.
+
+Mục "What Is 'Causation' Anyway?" đưa ra định nghĩa xác suất của nhân quả qua ví dụ hút thuốc và ung thư phổi, rồi trình bày chín nguyên tắc của một thử nghiệm lâm sàng tốt bằng Nghiên cứu Bảo vệ Tim (HPS) với 20.536 người: nhóm dùng statin giảm nguy cơ đau tim từ 11,8% xuống 8,7% trong 5 năm (khoảng 30 người dùng thuốc 5 năm để ngăn một ca); tiếp theo là lịch sử thử nghiệm ngẫu nhiên (streptomycin 1948, phân khối của Fisher), ứng dụng trong chính sách (nhắn tin hỗ trợ học sinh thi lại tăng tỷ lệ đỗ 27%), thử nghiệm cầu nguyện STEP và kiểm định A/B.
+
+Mục "What Do We Do When We Can't Randomize?" dùng câu hỏi "vì sao đàn ông già có tai to" để giới thiệu nghiên cứu cắt ngang, đoàn hệ tiến cứu, đoàn hệ hồi cứu và bệnh–chứng. Mục "What Can We Do When We Observe an Association?" giải thích biến gây nhiễu, điều chỉnh (phân tầng), nghịch lý Simpson qua số liệu tuyển sinh Cambridge 1996 (tổng thể nam đỗ 24%, nữ 23%, nhưng nữ đỗ cao hơn hoặc bằng ở từng ngành), nhân quả ngược (Waitrose "làm tăng giá nhà 36.000 bảng", người không uống rượu chết nhiều hơn), yếu tố ẩn và các ví dụ vắc-xin và tự kỷ, người thuận tay trái, tuổi thọ giáo hoàng.
+
+Mục "Can We Ever Conclude Causation from Observational Data?" trình bày bảy tiêu chí Bradford Hill (theo phiên bản của Howick), lập luận "nguy cơ tương đối lớn hơn 2" trong toà án, và ngẫu nhiên hoá Mendel.
 
 ## Sơ đồ
 
@@ -349,9 +346,13 @@
 
 **Dịch tễ học** (epidemiology) là ngành nghiên cứu bệnh xảy ra như thế nào và vì sao trong tổng thể, và các nước Bắc Âu là "giấc mơ của nhà dịch tễ học". Lý do: mọi người dân ở đó có một mã định danh cá nhân dùng khi đăng ký y tế, giáo dục, thuế, v.v., nên nhà nghiên cứu nối được mọi khía cạnh đời sống của một người theo cách không thể làm (và có lẽ gây tranh cãi chính trị) ở các nước khác.
 
-Một nghiên cứu tham vọng điển hình đã làm trên hơn 4 triệu người Thuỵ Điển, nam và nữ, có hồ sơ thuế và y tế được nối với nhau trong 18 năm. Nhờ vậy nhóm nghiên cứu báo cáo rằng nam giới có **địa vị kinh tế xã hội** cao hơn có tỷ lệ được chẩn đoán u não hơi cao hơn. (Theo chú thích cuối chương: bài gốc của A. R. Khanolkar và cộng sự, "Socioeconomic Position and the Risk of Brain Tumour: A Swedish National Population-Based Cohort Study", *Journal of Epidemiology and Community Health*, 2016.) Đây là loại nghiên cứu nghiêm túc nhưng khá nhàm chán, thường không thu hút mấy chú ý, nên một cán bộ truyền thông của trường đại học nghĩ sẽ thú vị hơn nếu viết trong thông cáo báo chí rằng "Trình độ học vấn cao có liên quan tới nguy cơ u não cao hơn", dù nghiên cứu nói về địa vị kinh tế xã hội chứ không phải học vấn. Và khi tới tay công chúng, một biên tập viên báo đã đặt cái tít kinh điển: "Vì sao học đại học làm tăng nguy cơ bị u não" (*Mirror Online*, 20/6/2016).
+Một nghiên cứu tham vọng điển hình đã làm trên hơn 4 triệu người Thuỵ Điển, nam và nữ, có hồ sơ thuế và y tế được nối với nhau trong 18 năm. Nhờ vậy nhóm nghiên cứu báo cáo rằng nam giới có **địa vị kinh tế xã hội** cao hơn có tỷ lệ được chẩn đoán u não hơi cao hơn. (Theo chú thích cuối chương: bài gốc của A. R. Khanolkar và cộng sự, "Socioeconomic Position and the Risk of Brain Tumour: A Swedish National Population-Based Cohort Study", *Journal of Epidemiology and Community Health*, 2016.)
 
-Với ai đã mất nhiều năm tích luỹ bằng cấp, tít báo này có thể đáng sợ. Nhưng có nên lo không? Đây là một nghiên cứu khổng lồ dựa trên sổ đăng ký của toàn bộ tổng thể đủ điều kiện — không phải một mẫu — nên có thể tự tin kết luận rằng đúng là đã phát hiện nhiều u não hơn một chút ở người có học vấn cao hơn. Nhưng có phải bao nhiêu giờ đổ mồ hôi trong thư viện đã làm não quá nóng và gây ra những đột biến tế bào lạ lùng? Bất chấp tít báo, Spiegelhalter nghi ngờ điều đó. Và công bằng mà nói, chính các tác giả bài báo cũng nghi ngờ, khi viết thêm: "Độ đầy đủ của việc đăng ký ung thư và thiên lệch phát hiện là những lời giải thích tiềm năng cho kết quả." Nói cách khác, người giàu có học vấn cao dễ được chẩn đoán và có khối u được ghi vào sổ đăng ký hơn — một ví dụ của cái mà dịch tễ học gọi là **thiên lệch phát hiện** (ascertainment bias).
+Đây là loại nghiên cứu nghiêm túc nhưng khá nhàm chán, thường không thu hút mấy chú ý, nên một cán bộ truyền thông của trường đại học nghĩ sẽ thú vị hơn nếu viết trong thông cáo báo chí rằng "Trình độ học vấn cao có liên quan tới nguy cơ u não cao hơn", dù nghiên cứu nói về địa vị kinh tế xã hội chứ không phải học vấn. Và khi tới tay công chúng, một biên tập viên báo đã đặt cái tít kinh điển: "Vì sao học đại học làm tăng nguy cơ bị u não" (*Mirror Online*, 20/6/2016).
+
+Với ai đã mất nhiều năm tích luỹ bằng cấp, tít báo này có thể đáng sợ. Nhưng có nên lo không? Đây là một nghiên cứu khổng lồ dựa trên sổ đăng ký của toàn bộ tổng thể đủ điều kiện — không phải một mẫu — nên có thể tự tin kết luận rằng đúng là đã phát hiện nhiều u não hơn một chút ở người có học vấn cao hơn.
+
+Nhưng có phải bao nhiêu giờ đổ mồ hôi trong thư viện đã làm não quá nóng và gây ra những đột biến tế bào lạ lùng? Bất chấp tít báo, Spiegelhalter nghi ngờ điều đó. Và công bằng mà nói, chính các tác giả bài báo cũng nghi ngờ, khi viết thêm: "Độ đầy đủ của việc đăng ký ung thư và thiên lệch phát hiện là những lời giải thích tiềm năng cho kết quả." Nói cách khác, người giàu có học vấn cao dễ được chẩn đoán và có khối u được ghi vào sổ đăng ký hơn — một ví dụ của cái mà dịch tễ học gọi là **thiên lệch phát hiện** (ascertainment bias).
 
 ### 2. Tương quan không có nghĩa là nhân quả ('Correlation Does Not Imply Causation', trang PDF 80–81)
 
@@ -405,7 +406,9 @@ Kết quả như sau:
 | Đột quỵ | 5,7% | 4,3% | 25% |
 | Tử vong do mọi nguyên nhân | 14,7% | 12,9% | 13% |
 
-Chú thích của bảng giải thích: mức giảm tuyệt đối của nguy cơ đau tim là 11,8 − 8,7 = 3,1 điểm phần trăm. Vậy trong 1.000 người dùng statin, khoảng 31 ca đau tim được ngăn ngừa — nghĩa là khoảng 30 người phải dùng statin 5 năm để ngăn một ca đau tim. (Người tổng hợp tính lại: 1 / 0,031 = 32,3 người. Giảm tương đối tính từ các phần trăm đã làm tròn: đau tim 3,1 / 11,8 = 26%, đột quỵ 1,4 / 5,7 = 25%, tử vong 1,8 / 14,7 = 12% — hơi khác 27% và 13% của sách, có lẽ do sách tính từ số chưa làm tròn.) Như vậy, đối với tử vong do mọi nguyên nhân, mức giảm tuyệt đối là 1,8 điểm phần trăm, tức khoảng 18 ca tử vong ít hơn trên mỗi 1.000 người được kê statin trong 5 năm.
+Chú thích của bảng giải thích: mức giảm tuyệt đối của nguy cơ đau tim là 11,8 − 8,7 = 3,1 điểm phần trăm. Vậy trong 1.000 người dùng statin, khoảng 31 ca đau tim được ngăn ngừa — nghĩa là khoảng 30 người phải dùng statin 5 năm để ngăn một ca đau tim.
+
+(Người tổng hợp tính lại: 1 / 0,031 = 32,3 người. Giảm tương đối tính từ các phần trăm đã làm tròn: đau tim 3,1 / 11,8 = 26%, đột quỵ 1,4 / 5,7 = 25%, tử vong 1,8 / 14,7 = 12% — hơi khác 27% và 13% của sách, có lẽ do sách tính từ số chưa làm tròn.) Như vậy, đối với tử vong do mọi nguyên nhân, mức giảm tuyệt đối là 1,8 điểm phần trăm, tức khoảng 18 ca tử vong ít hơn trên mỗi 1.000 người được kê statin trong 5 năm.
 
 Những người được phân vào nhóm statin rõ ràng có kết cục sức khoẻ trung bình tốt hơn, và vì bệnh nhân được ngẫu nhiên hoá và ngoài ra được đối xử y hệt nhau, có thể coi đây là một hiệu ứng nhân quả của việc được kê statin. Nhưng như đã thấy, nhiều người không thực sự tuân thủ điều trị được phân bổ, làm khác biệt giữa hai nhóm bị pha loãng: các nhà nghiên cứu HPS ước tính tác dụng thật của việc thực sự uống statin cao hơn khoảng 50% so với con số trong bảng (ví dụ, theo cách hiểu của người tổng hợp, mức giảm tương đối nguy cơ đau tim 27% sẽ thành khoảng 40%).
 
@@ -414,21 +417,33 @@ Hai điểm then chốt cuối cùng:
 8. **Đừng dựa vào một nghiên cứu duy nhất.** Một thử nghiệm statin có thể cho biết thuốc có tác dụng ở một nhóm cụ thể tại một nơi cụ thể, nhưng kết luận vững chắc cần nhiều nghiên cứu.
 9. **Tổng quan bằng chứng một cách hệ thống.** Khi xem xét nhiều thử nghiệm, phải bảo đảm đưa vào mọi nghiên cứu đã được làm, tạo thành cái gọi là **tổng quan hệ thống** (systematic review). Kết quả sau đó có thể được kết hợp chính thức trong một **phân tích gộp** (meta-analysis).
 
-Ví dụ, một tổng quan hệ thống gần đây (của nhóm Cholesterol Treatment Trialists, *The Lancet*, 2012) đã tập hợp bằng chứng từ 27 thử nghiệm ngẫu nhiên về statin, gồm hơn 170.000 người có nguy cơ bệnh tim mạch thấp hơn. Nhưng thay vì tập trung vào khác biệt giữa nhóm được phân bổ statin và nhóm đối chứng, họ ước lượng tác dụng của việc giảm LDL. Về cơ bản, họ giả định tác dụng của statin đạt được qua việc thay đổi mỡ máu, và tính toán dựa trên mức giảm LDL trung bình thấy ở mỗi thử nghiệm — cách này tự động tính đến việc không tuân thủ điều trị được phân bổ. Với giả định bổ sung về cơ chế statin có lợi cho sức khoẻ, họ ước lượng được tác dụng của việc thực sự uống statin: giảm 21% biến cố mạch máu lớn cho mỗi 1 mmol/L (milimol trên lít) LDL cholesterol giảm đi. Với Spiegelhalter, như vậy là đủ để tiếp tục uống thuốc.
+Ví dụ, một tổng quan hệ thống gần đây (của nhóm Cholesterol Treatment Trialists, *The Lancet*, 2012) đã tập hợp bằng chứng từ 27 thử nghiệm ngẫu nhiên về statin, gồm hơn 170.000 người có nguy cơ bệnh tim mạch thấp hơn. Nhưng thay vì tập trung vào khác biệt giữa nhóm được phân bổ statin và nhóm đối chứng, họ ước lượng tác dụng của việc giảm LDL.
 
-Chú thích dấu sao của tác giả trình bày phép tính cho chính ông: với người có nguy cơ nền như ông và chưa từng mắc bệnh, họ ước tính nguy cơ biến cố mạch máu nghiêm trọng giảm 25% cho mỗi 1 mmol/L LDL giảm. LDL của ông giảm 2 mmol/L sau khi bắt đầu dùng statin, nên viên thuốc hằng ngày sẽ nhân nguy cơ đau tim hay đột quỵ hằng năm của ông với khoảng 0,75 × 0,75 = 0,56, tức giảm 44%. Vì ông có khoảng 13% khả năng bị đau tim hay đột quỵ trong 10 năm, dùng statin sẽ hạ con số này xuống khoảng 7% (13% × 0,56 = 7,3%). Nghĩa là việc ông được kê statin là đáng — và còn tốt hơn nếu ông thực sự uống. (Người tổng hợp lưu ý: con số 25% ở chú thích khác con số 21% trong lời văn; sách không giải thích. Nếu dùng 21%, hệ số sẽ là 0,79 × 0,79 = 0,62 và nguy cơ 10 năm còn khoảng 8%.)
+Về cơ bản, họ giả định tác dụng của statin đạt được qua việc thay đổi mỡ máu, và tính toán dựa trên mức giảm LDL trung bình thấy ở mỗi thử nghiệm — cách này tự động tính đến việc không tuân thủ điều trị được phân bổ. Với giả định bổ sung về cơ chế statin có lợi cho sức khoẻ, họ ước lượng được tác dụng của việc thực sự uống statin: giảm 21% biến cố mạch máu lớn cho mỗi 1 mmol/L (milimol trên lít) LDL cholesterol giảm đi. Với Spiegelhalter, như vậy là đủ để tiếp tục uống thuốc.
+
+Chú thích dấu sao của tác giả trình bày phép tính cho chính ông: với người có nguy cơ nền như ông và chưa từng mắc bệnh, họ ước tính nguy cơ biến cố mạch máu nghiêm trọng giảm 25% cho mỗi 1 mmol/L LDL giảm. LDL của ông giảm 2 mmol/L sau khi bắt đầu dùng statin, nên viên thuốc hằng ngày sẽ nhân nguy cơ đau tim hay đột quỵ hằng năm của ông với khoảng 0,75 × 0,75 = 0,56, tức giảm 44%.
+
+Vì ông có khoảng 13% khả năng bị đau tim hay đột quỵ trong 10 năm, dùng statin sẽ hạ con số này xuống khoảng 7% (13% × 0,56 = 7,3%). Nghĩa là việc ông được kê statin là đáng — và còn tốt hơn nếu ông thực sự uống. (Người tổng hợp lưu ý: con số 25% ở chú thích khác con số 21% trong lời văn; sách không giải thích. Nếu dùng 21%, hệ số sẽ là 0,79 × 0,79 = 0,62 và nguy cơ 10 năm còn khoảng 8%.)
 
 Phần trên đã bỏ qua khả năng mối quan hệ quan sát được hoàn toàn không phải nhân quả mà chỉ là kết quả của may rủi. Phần lớn thuốc trên thị trường chỉ có tác dụng vừa phải và chỉ giúp được một thiểu số người dùng, và lợi ích chung của chúng chỉ phát hiện được một cách đáng tin bằng các thử nghiệm ngẫu nhiên lớn, tỉ mỉ. Thử nghiệm statin rất lớn, nhất là khi gộp lại trong phân tích gộp, nên kết quả nêu ở đây không thể quy cho biến động may rủi. (Cách kiểm tra điều này được trình bày ở Chương 10.)
 
 #### Khung tình huống: cầu nguyện có hiệu quả không? (Is prayer effective?)
 
-Danh sách nguyên tắc của RCT không mới: gần như tất cả đã được đưa ra năm 1948 trong cái thường được coi là thử nghiệm lâm sàng đúng nghĩa đầu tiên. Đó là thử nghiệm streptomycin, một thuốc chữa lao. Thật táo bạo khi phân bổ ngẫu nhiên bệnh nhân nhận hay không nhận một điều trị có thể cứu mạng, nhưng quyết định được thuận lợi vì lúc đó ở Anh không đủ thuốc cho mọi người, nên phân bổ ngẫu nhiên có vẻ là cách công bằng và hợp đạo đức để quyết định ai được nhận. Thế nhưng sau ngần ấy thời gian và hàng nghìn RCT, công chúng vẫn có thể ngạc nhiên khi biết rằng những quyết định y khoa về điều trị được khuyến nghị cho một cá nhân, kể cả những quyết định hệ trọng như cắt bỏ toàn bộ vú hay chỉ cắt khối u trong ung thư vú, về cơ bản đã được quyết định bằng tung đồng xu (dù đó là đồng xu ẩn dụ, nằm trong bộ sinh số ngẫu nhiên của máy tính). Chú thích dấu sao của tác giả nói thêm: có lẽ còn đáng ngạc nhiên hơn, và đáng khích lệ, khi biết rằng rất nhiều người đã đồng ý tham gia thử nghiệm hoàn toàn vì lợi ích của những bệnh nhân trong tương lai.
+Danh sách nguyên tắc của RCT không mới: gần như tất cả đã được đưa ra năm 1948 trong cái thường được coi là thử nghiệm lâm sàng đúng nghĩa đầu tiên. Đó là thử nghiệm streptomycin, một thuốc chữa lao. Thật táo bạo khi phân bổ ngẫu nhiên bệnh nhân nhận hay không nhận một điều trị có thể cứu mạng, nhưng quyết định được thuận lợi vì lúc đó ở Anh không đủ thuốc cho mọi người, nên phân bổ ngẫu nhiên có vẻ là cách công bằng và hợp đạo đức để quyết định ai được nhận.
 
-**Phân khối.** Trên thực tế, việc phân bổ điều trị trong thử nghiệm thường phức tạp hơn ngẫu nhiên hoá đơn giản từng ca, vì ta muốn mọi loại người đều có mặt như nhau trong các nhóm nhận điều trị khác nhau. Chẳng hạn, có thể muốn số người cao tuổi nguy cơ cao dùng statin và dùng giả dược gần bằng nhau. Ý tưởng này đến từ thí nghiệm nông nghiệp, nơi khởi nguồn nhiều ý tưởng của thử nghiệm ngẫu nhiên, phần lớn nhờ công của Ronald Fisher (sẽ nói nhiều hơn ở các chương sau). Ví dụ, một cánh đồng lớn được chia thành các ô riêng, rồi mỗi ô được phân ngẫu nhiên cho một loại phân bón, giống như người được phân ngẫu nhiên một điều trị y khoa. Nhưng các phần của cánh đồng có thể khác nhau có hệ thống do thoát nước, bóng râm, v.v., nên trước hết cánh đồng được chia thành các "khối" (blocks) gồm những ô gần giống nhau. Việc ngẫu nhiên hoá sau đó được tổ chức sao cho mỗi khối có số ô bằng nhau cho mỗi loại phân bón, chẳng hạn để các loại phân bón cân bằng trong những vùng đất lầy.
+Thế nhưng sau ngần ấy thời gian và hàng nghìn RCT, công chúng vẫn có thể ngạc nhiên khi biết rằng những quyết định y khoa về điều trị được khuyến nghị cho một cá nhân, kể cả những quyết định hệ trọng như cắt bỏ toàn bộ vú hay chỉ cắt khối u trong ung thư vú, về cơ bản đã được quyết định bằng tung đồng xu (dù đó là đồng xu ẩn dụ, nằm trong bộ sinh số ngẫu nhiên của máy tính). Chú thích dấu sao của tác giả nói thêm: có lẽ còn đáng ngạc nhiên hơn, và đáng khích lệ, khi biết rằng rất nhiều người đã đồng ý tham gia thử nghiệm hoàn toàn vì lợi ích của những bệnh nhân trong tương lai.
 
-Spiegelhalter kể một ví dụ của chính ông: ông từng làm việc trong một thử nghiệm ngẫu nhiên so sánh các cách mổ thoát vị — mổ "mở" thông thường và mổ nội soi ("lỗ khoá"). Người ta nghi rằng tay nghề của kíp mổ có thể tăng lên trong quá trình thử nghiệm, nên điều cốt yếu là hai cách mổ phải luôn cân bằng khi thử nghiệm tiến triển. Vì vậy ông chia chuỗi bệnh nhân thành các khối 4 và 6 người, và bảo đảm trong mỗi khối số bệnh nhân được phân vào mỗi cách mổ là bằng nhau. Thời đó các điều trị được in trên những mẩu giấy nhỏ, ông gấp lại và cho vào những phong bì nâu không nhìn xuyên được, có đánh số. Ông nhớ cảnh nhìn bệnh nhân nằm trên xe đẩy trước mổ, không biết mình sẽ được mổ cách nào, trong khi bác sĩ gây mê mở phong bì để biết điều sẽ xảy ra với họ — nhất là họ sẽ về nhà với một vết sẹo lớn hay vài lỗ nhỏ.
+**Phân khối.** Trên thực tế, việc phân bổ điều trị trong thử nghiệm thường phức tạp hơn ngẫu nhiên hoá đơn giản từng ca, vì ta muốn mọi loại người đều có mặt như nhau trong các nhóm nhận điều trị khác nhau. Chẳng hạn, có thể muốn số người cao tuổi nguy cơ cao dùng statin và dùng giả dược gần bằng nhau. Ý tưởng này đến từ thí nghiệm nông nghiệp, nơi khởi nguồn nhiều ý tưởng của thử nghiệm ngẫu nhiên, phần lớn nhờ công của Ronald Fisher (sẽ nói nhiều hơn ở các chương sau).
 
-**RCT ngoài y khoa.** Thử nghiệm ngẫu nhiên đã trở thành tiêu chuẩn vàng để kiểm tra điều trị y khoa mới, và nay ngày càng được dùng để ước lượng tác động của chính sách mới trong giáo dục và hoạt động cảnh sát. Ví dụ, Nhóm Thấu hiểu Hành vi của Anh (UK Behavioural Insights Team) đã phân ngẫu nhiên một nửa số học sinh thi lại môn Toán hoặc tiếng Anh của kỳ thi GCSE được chỉ định một người sẽ nhận tin nhắn định kỳ khuyến khích họ hỗ trợ việc học của học sinh — học sinh có "người hỗ trợ học tập" có tỷ lệ đỗ cao hơn 27%. Cũng nhóm này quan sát thấy nhiều tác động tích cực trong một thử nghiệm ngẫu nhiên về camera gắn trên người cảnh sát, chẳng hạn ít người bị dừng và khám xét không cần thiết hơn.
+Ví dụ, một cánh đồng lớn được chia thành các ô riêng, rồi mỗi ô được phân ngẫu nhiên cho một loại phân bón, giống như người được phân ngẫu nhiên một điều trị y khoa. Nhưng các phần của cánh đồng có thể khác nhau có hệ thống do thoát nước, bóng râm, v.v., nên trước hết cánh đồng được chia thành các "khối" (blocks) gồm những ô gần giống nhau. Việc ngẫu nhiên hoá sau đó được tổ chức sao cho mỗi khối có số ô bằng nhau cho mỗi loại phân bón, chẳng hạn để các loại phân bón cân bằng trong những vùng đất lầy.
+
+Spiegelhalter kể một ví dụ của chính ông: ông từng làm việc trong một thử nghiệm ngẫu nhiên so sánh các cách mổ thoát vị — mổ "mở" thông thường và mổ nội soi ("lỗ khoá"). Người ta nghi rằng tay nghề của kíp mổ có thể tăng lên trong quá trình thử nghiệm, nên điều cốt yếu là hai cách mổ phải luôn cân bằng khi thử nghiệm tiến triển.
+
+Vì vậy ông chia chuỗi bệnh nhân thành các khối 4 và 6 người, và bảo đảm trong mỗi khối số bệnh nhân được phân vào mỗi cách mổ là bằng nhau. Thời đó các điều trị được in trên những mẩu giấy nhỏ, ông gấp lại và cho vào những phong bì nâu không nhìn xuyên được, có đánh số. Ông nhớ cảnh nhìn bệnh nhân nằm trên xe đẩy trước mổ, không biết mình sẽ được mổ cách nào, trong khi bác sĩ gây mê mở phong bì để biết điều sẽ xảy ra với họ — nhất là họ sẽ về nhà với một vết sẹo lớn hay vài lỗ nhỏ.
+
+**RCT ngoài y khoa.** Thử nghiệm ngẫu nhiên đã trở thành tiêu chuẩn vàng để kiểm tra điều trị y khoa mới, và nay ngày càng được dùng để ước lượng tác động của chính sách mới trong giáo dục và hoạt động cảnh sát.
+
+Ví dụ, Nhóm Thấu hiểu Hành vi của Anh (UK Behavioural Insights Team) đã phân ngẫu nhiên một nửa số học sinh thi lại môn Toán hoặc tiếng Anh của kỳ thi GCSE được chỉ định một người sẽ nhận tin nhắn định kỳ khuyến khích họ hỗ trợ việc học của học sinh — học sinh có "người hỗ trợ học tập" có tỷ lệ đỗ cao hơn 27%. Cũng nhóm này quan sát thấy nhiều tác động tích cực trong một thử nghiệm ngẫu nhiên về camera gắn trên người cảnh sát, chẳng hạn ít người bị dừng và khám xét không cần thiết hơn.
 
 **Cầu nguyện.** Thậm chí đã có nghiên cứu xác định hiệu quả của cầu nguyện. Ví dụ, Nghiên cứu về Tác dụng Điều trị của Cầu nguyện Thay (Study of the Therapeutic Effects of Intercessory Prayer, STEP) phân ngẫu nhiên hơn 1.800 bệnh nhân phẫu thuật bắc cầu mạch vành vào ba nhóm:
 
@@ -444,7 +459,9 @@ Tác động duy nhất thấy được là biến chứng *tăng* nhẹ ở nh�
 
 ### 4. Làm gì khi không thể ngẫu nhiên hoá? (What Do We Do When We Can't Randomize?, trang PDF 85–86)
 
-Nhà nghiên cứu dễ ngẫu nhiên hoá nếu họ chỉ cần thay đổi một trang web: không tốn công tuyển người tham gia vì họ thậm chí không biết mình là đối tượng thí nghiệm, và không cần xin phép hội đồng đạo đức để dùng họ làm "chuột lang". Nhưng ngẫu nhiên hoá thường khó và đôi khi không thể: không thể kiểm tra tác động của thói quen bằng cách phân ngẫu nhiên người ta hút thuốc hay ăn uống không lành mạnh (dù các thí nghiệm như vậy được làm trên động vật). Khi dữ liệu không phát sinh từ thí nghiệm, nó được gọi là **dữ liệu quan sát** (observational). Vì vậy thường ta phải cố hết sức tách tương quan khỏi nhân quả bằng thiết kế tốt và các nguyên tắc thống kê áp dụng cho dữ liệu quan sát, kèm một liều hoài nghi lành mạnh.
+Nhà nghiên cứu dễ ngẫu nhiên hoá nếu họ chỉ cần thay đổi một trang web: không tốn công tuyển người tham gia vì họ thậm chí không biết mình là đối tượng thí nghiệm, và không cần xin phép hội đồng đạo đức để dùng họ làm "chuột lang". Nhưng ngẫu nhiên hoá thường khó và đôi khi không thể: không thể kiểm tra tác động của thói quen bằng cách phân ngẫu nhiên người ta hút thuốc hay ăn uống không lành mạnh (dù các thí nghiệm như vậy được làm trên động vật).
+
+Khi dữ liệu không phát sinh từ thí nghiệm, nó được gọi là **dữ liệu quan sát** (observational). Vì vậy thường ta phải cố hết sức tách tương quan khỏi nhân quả bằng thiết kế tốt và các nguyên tắc thống kê áp dụng cho dữ liệu quan sát, kèm một liều hoài nghi lành mạnh.
 
 #### Khung tình huống: vì sao đàn ông già có tai to? (Why do old men have big ears?)
 
@@ -476,7 +493,9 @@ Chú thích dấu sao của tác giả: đáng tiếc là khó có đề xuất 
 
 #### Biến gây nhiễu và điều chỉnh
 
-Đây là lúc cần đến trí tưởng tượng thống kê, và đoán lý do khiến một tương quan quan sát được có thể là giả có thể là một bài tập thú vị. Một số khá dễ: tương quan chặt giữa tiêu thụ mozzarella và số kỹ sư xây dựng dân dụng có lẽ là vì cả hai thước đo đều tăng theo thời gian. Tương tự, bất kỳ tương quan nào giữa doanh số kem và số vụ chết đuối đều do cả hai cùng chịu ảnh hưởng của thời tiết. Khi một mối liên hệ bề ngoài giữa hai kết cục có thể được giải thích bằng một yếu tố chung *quan sát được* ảnh hưởng tới cả hai, nguyên nhân chung đó được gọi là **biến gây nhiễu** (confounder): cả năm và thời tiết đều là biến gây nhiễu tiềm năng vì có thể ghi lại và đưa vào phân tích.
+Đây là lúc cần đến trí tưởng tượng thống kê, và đoán lý do khiến một tương quan quan sát được có thể là giả có thể là một bài tập thú vị. Một số khá dễ: tương quan chặt giữa tiêu thụ mozzarella và số kỹ sư xây dựng dân dụng có lẽ là vì cả hai thước đo đều tăng theo thời gian. Tương tự, bất kỳ tương quan nào giữa doanh số kem và số vụ chết đuối đều do cả hai cùng chịu ảnh hưởng của thời tiết.
+
+Khi một mối liên hệ bề ngoài giữa hai kết cục có thể được giải thích bằng một yếu tố chung *quan sát được* ảnh hưởng tới cả hai, nguyên nhân chung đó được gọi là **biến gây nhiễu** (confounder): cả năm và thời tiết đều là biến gây nhiễu tiềm năng vì có thể ghi lại và đưa vào phân tích.
 
 Kỹ thuật đơn giản nhất để xử lý biến gây nhiễu là xem xét mối quan hệ bề ngoài trong từng mức của biến gây nhiễu. Cách này gọi là **điều chỉnh** (adjustment), hay **phân tầng** (stratification). Ví dụ, có thể xem quan hệ giữa chết đuối và doanh số kem trong những ngày có nhiệt độ gần như nhau.
 
@@ -507,9 +526,13 @@ Năm 2017, báo chí Anh đưa tin một cách cả tin rằng có một siêu t
 
 Tương quan này gần như chắc chắn phản ánh chính sách của Waitrose là mở cửa hàng ở những nơi giàu có hơn, và vì vậy là một ví dụ tuyệt vời về trường hợp chuỗi nhân quả thật hoàn toàn ngược với điều được tuyên bố. Hiện tượng này, chẳng có gì ngạc nhiên, được gọi là **nhân quả ngược** (reverse causation).
 
-**Rượu và tử vong.** Những ví dụ nghiêm túc hơn xuất hiện trong các nghiên cứu về quan hệ giữa uống rượu và sức khoẻ, thường thấy người không uống rượu có tỷ lệ tử vong cao hơn đáng kể so với người uống vừa phải. Điều này sao có thể hợp lý, khi ta biết tác hại của rượu lên gan chẳng hạn? Mối quan hệ này một phần được quy cho nhân quả ngược: những người dễ chết hơn thì không uống vì họ đã ốm sẵn (có thể do uống quá nhiều trong quá khứ). Các phân tích cẩn thận hơn hiện nay loại những người từng uống rượu, và bỏ qua các biến cố sức khoẻ xấu trong vài năm đầu nghiên cứu, vì chúng có thể do bệnh có từ trước. Ngay cả với những loại trừ này, vẫn còn thấy một chút lợi ích sức khoẻ chung từ việc uống vừa phải, dù điều này còn bị tranh cãi sâu sắc.
+**Rượu và tử vong.** Những ví dụ nghiêm túc hơn xuất hiện trong các nghiên cứu về quan hệ giữa uống rượu và sức khoẻ, thường thấy người không uống rượu có tỷ lệ tử vong cao hơn đáng kể so với người uống vừa phải. Điều này sao có thể hợp lý, khi ta biết tác hại của rượu lên gan chẳng hạn? Mối quan hệ này một phần được quy cho nhân quả ngược: những người dễ chết hơn thì không uống vì họ đã ốm sẵn (có thể do uống quá nhiều trong quá khứ).
 
-**Bài tập bịa câu chuyện nhân quả ngược.** Một bài tập vui khác là thử bịa một câu chuyện nhân quả ngược cho bất kỳ tuyên bố thống kê nào chỉ dựa trên tương quan. Ví dụ ưa thích của tác giả là một nghiên cứu thấy tương quan giữa việc thiếu niên Mỹ uống nước ngọt có ga và xu hướng bạo lực: trong khi một tờ báo đưa tin "Nước ngọt có ga làm thiếu niên bạo lực" (*Daily Telegraph*, 11/10/2011), có lẽ cũng hợp lý không kém khi cho rằng bạo lực làm người ta khát? Hoặc hợp lý hơn, có thể nghĩ tới một số yếu tố chung ảnh hưởng tới cả hai, như việc thuộc một nhóm bạn bè nhất định. Những nguyên nhân chung tiềm năng mà ta không đo được gọi là **yếu tố ẩn** (lurking factors), vì chúng nằm ở hậu cảnh, không được đưa vào bất kỳ phép điều chỉnh nào, và chờ sẵn để đánh bẫy những kết luận ngây thơ từ dữ liệu quan sát.
+Các phân tích cẩn thận hơn hiện nay loại những người từng uống rượu, và bỏ qua các biến cố sức khoẻ xấu trong vài năm đầu nghiên cứu, vì chúng có thể do bệnh có từ trước. Ngay cả với những loại trừ này, vẫn còn thấy một chút lợi ích sức khoẻ chung từ việc uống vừa phải, dù điều này còn bị tranh cãi sâu sắc.
+
+**Bài tập bịa câu chuyện nhân quả ngược.** Một bài tập vui khác là thử bịa một câu chuyện nhân quả ngược cho bất kỳ tuyên bố thống kê nào chỉ dựa trên tương quan. Ví dụ ưa thích của tác giả là một nghiên cứu thấy tương quan giữa việc thiếu niên Mỹ uống nước ngọt có ga và xu hướng bạo lực: trong khi một tờ báo đưa tin "Nước ngọt có ga làm thiếu niên bạo lực" (*Daily Telegraph*, 11/10/2011), có lẽ cũng hợp lý không kém khi cho rằng bạo lực làm người ta khát?
+
+Hoặc hợp lý hơn, có thể nghĩ tới một số yếu tố chung ảnh hưởng tới cả hai, như việc thuộc một nhóm bạn bè nhất định. Những nguyên nhân chung tiềm năng mà ta không đo được gọi là **yếu tố ẩn** (lurking factors), vì chúng nằm ở hậu cảnh, không được đưa vào bất kỳ phép điều chỉnh nào, và chờ sẵn để đánh bẫy những kết luận ngây thơ từ dữ liệu quan sát.
 
 **Thêm ví dụ về việc dễ tin vào liên hệ nhân quả khi có yếu tố khác chi phối:**
 
@@ -553,7 +576,9 @@ Năm trên bảy tiêu chí được thoả, hai tiêu chí còn lại chưa đ�
 
 #### Nhân quả cho một cá nhân: toà án và "nguy cơ tương đối lớn hơn 2"
 
-Các tiêu chí Bradford Hill áp dụng cho kết luận khoa học chung về tổng thể. Nhưng ta cũng có thể quan tâm tới từng trường hợp cá nhân, chẳng hạn trong tố tụng dân sự, khi toà phải quyết định một phơi nhiễm cụ thể (ví dụ amiăng gặp phải trong công việc) có gây ra một kết cục xấu ở một người cụ thể (ví dụ ung thư phổi của John Smith) hay không. Không bao giờ xác lập được với độ chắc chắn tuyệt đối rằng amiăng là nguyên nhân của ung thư, vì không thể chứng minh ung thư đã không xảy ra nếu không có phơi nhiễm. Nhưng một số toà đã chấp nhận rằng, theo chuẩn "cân bằng xác suất" (balance of probabilities), một liên hệ nhân quả trực tiếp được xác lập nếu **nguy cơ tương đối** (relative risk) gắn với phơi nhiễm lớn hơn 2. Nhưng vì sao lại là 2?
+Các tiêu chí Bradford Hill áp dụng cho kết luận khoa học chung về tổng thể. Nhưng ta cũng có thể quan tâm tới từng trường hợp cá nhân, chẳng hạn trong tố tụng dân sự, khi toà phải quyết định một phơi nhiễm cụ thể (ví dụ amiăng gặp phải trong công việc) có gây ra một kết cục xấu ở một người cụ thể (ví dụ ung thư phổi của John Smith) hay không.
+
+Không bao giờ xác lập được với độ chắc chắn tuyệt đối rằng amiăng là nguyên nhân của ung thư, vì không thể chứng minh ung thư đã không xảy ra nếu không có phơi nhiễm. Nhưng một số toà đã chấp nhận rằng, theo chuẩn "cân bằng xác suất" (balance of probabilities), một liên hệ nhân quả trực tiếp được xác lập nếu **nguy cơ tương đối** (relative risk) gắn với phơi nhiễm lớn hơn 2. Nhưng vì sao lại là 2?
 
 Lập luận đằng sau có lẽ như sau:
 
@@ -570,7 +595,9 @@ Kiểu lập luận này đã dẫn tới một lĩnh vực nghiên cứu mới 
 
 Việc xử lý nhân quả cho đúng vẫn còn bị tranh cãi trong ngành thống kê, dù là về dược phẩm hay về tai to, và không có ngẫu nhiên hoá thì hiếm khi rút ra được kết luận chắc chắn. Một cách tiếp cận giàu tưởng tượng tận dụng việc nhiều gen phân bố về cơ bản ngẫu nhiên trong tổng thể, như thể mỗi người đã được ngẫu nhiên hoá vào phiên bản gen cụ thể của mình ngay từ lúc thụ thai. Cách này gọi là **ngẫu nhiên hoá Mendel** (Mendelian randomization), theo tên Gregor Mendel, người phát triển ý niệm di truyền học hiện đại.
 
-Chú thích cuối chương cho một ví dụ: ngẫu nhiên hoá Mendel đã được dùng để xem xét câu hỏi còn tranh cãi là uống rượu vừa phải có lợi cho sức khoẻ hay không. Người chưa bao giờ uống rượu có xu hướng có tỷ lệ tử vong cao hơn người uống một chút, nhưng có bất đồng về việc điều này là do rượu hay do người kiêng rượu kém khoẻ hơn vì lý do khác. Một phiên bản của một gen gắn với khả năng dung nạp rượu kém, nên những người thừa hưởng nó có xu hướng uống ít hơn. Người có và không có phiên bản gen đó lẽ ra cân bằng ở mọi yếu tố khác, nên mọi khác biệt có hệ thống về sức khoẻ giữa họ có thể quy cho gen, giống như trong một thử nghiệm ngẫu nhiên. Các nhà nghiên cứu thấy người mang gen làm giảm dung nạp rượu có xu hướng khoẻ hơn, và kết luận điều này nghĩa là rượu không tốt cho sức khoẻ. Nhưng cần thêm giả định để đi tới kết luận này, và cuộc tranh luận chưa ngã ngũ. (Y. Cho và cộng sự, *Scientific Reports*, 21/12/2015.)
+Chú thích cuối chương cho một ví dụ: ngẫu nhiên hoá Mendel đã được dùng để xem xét câu hỏi còn tranh cãi là uống rượu vừa phải có lợi cho sức khoẻ hay không. Người chưa bao giờ uống rượu có xu hướng có tỷ lệ tử vong cao hơn người uống một chút, nhưng có bất đồng về việc điều này là do rượu hay do người kiêng rượu kém khoẻ hơn vì lý do khác. Một phiên bản của một gen gắn với khả năng dung nạp rượu kém, nên những người thừa hưởng nó có xu hướng uống ít hơn.
+
+Người có và không có phiên bản gen đó lẽ ra cân bằng ở mọi yếu tố khác, nên mọi khác biệt có hệ thống về sức khoẻ giữa họ có thể quy cho gen, giống như trong một thử nghiệm ngẫu nhiên. Các nhà nghiên cứu thấy người mang gen làm giảm dung nạp rượu có xu hướng khoẻ hơn, và kết luận điều này nghĩa là rượu không tốt cho sức khoẻ. Nhưng cần thêm giả định để đi tới kết luận này, và cuộc tranh luận chưa ngã ngũ. (Y. Cho và cộng sự, *Scientific Reports*, 21/12/2015.)
 
 Các phương pháp thống kê nâng cao khác đã được phát triển để cố điều chỉnh các yếu tố gây nhiễu tiềm năng và nhờ đó tiến gần hơn tới ước lượng tác động thật của phơi nhiễm, và chúng phần lớn dựa trên ý tưởng quan trọng của **phân tích hồi quy** (regression analysis). Và để nói về nó, lại phải ghi nhận trí tưởng tượng phong phú của Francis Galton — chủ đề của Chương 5.
 
@@ -633,7 +660,9 @@ Một mối liên hệ quan sát được giữa hai đại lượng không đ�
 
 ### Trong ngôn ngữ thống kê
 
-Chương trình bày cách hiểu nhân quả theo can thiệp và phản thực tế (gần với khung "kết cục tiềm năng" của Neyman–Rubin và toán tử can thiệp do(X) của Pearl, theo hiểu biết của người tổng hợp; sách không dùng các thuật ngữ này): hiệu ứng nhân quả trung bình là P(Y | do(X = 1)) − P(Y | do(X = 0)), và ngẫu nhiên hoá làm cho đại lượng này bằng chênh lệch quan sát được P(Y | X = 1) − P(Y | X = 0). Phân tích theo ý định điều trị ước lượng hiệu ứng của việc được phân bổ; ngẫu nhiên hoá Mendel là một dạng biến công cụ (instrumental variable). Biến gây nhiễu là nguyên nhân chung của X và Y; điều chỉnh bằng phân tầng hay hồi quy chỉ xử lý được biến gây nhiễu đo được. Nghịch lý Simpson minh hoạ rằng quan hệ biên và quan hệ có điều kiện có thể ngược chiều. Ngưỡng RR > 2 tương ứng với "tỷ lệ quy thuộc trong nhóm phơi nhiễm" (attributable fraction among the exposed) (RR − 1)/RR > 0,5, dưới giả định không có gây nhiễu và hiệu ứng đồng nhất.
+Chương trình bày cách hiểu nhân quả theo can thiệp và phản thực tế (gần với khung "kết cục tiềm năng" của Neyman–Rubin và toán tử can thiệp do(X) của Pearl, theo hiểu biết của người tổng hợp; sách không dùng các thuật ngữ này): hiệu ứng nhân quả trung bình là P(Y | do(X = 1)) − P(Y | do(X = 0)), và ngẫu nhiên hoá làm cho đại lượng này bằng chênh lệch quan sát được P(Y | X = 1) − P(Y | X = 0).
+
+Phân tích theo ý định điều trị ước lượng hiệu ứng của việc được phân bổ; ngẫu nhiên hoá Mendel là một dạng biến công cụ (instrumental variable). Biến gây nhiễu là nguyên nhân chung của X và Y; điều chỉnh bằng phân tầng hay hồi quy chỉ xử lý được biến gây nhiễu đo được. Nghịch lý Simpson minh hoạ rằng quan hệ biên và quan hệ có điều kiện có thể ngược chiều. Ngưỡng RR > 2 tương ứng với "tỷ lệ quy thuộc trong nhóm phơi nhiễm" (attributable fraction among the exposed) (RR − 1)/RR > 0,5, dưới giả định không có gây nhiễu và hiệu ứng đồng nhất.
 
 ## Thuật ngữ
 
@@ -749,3 +778,122 @@ Thiên lệch phát hiện (u não), biến gây nhiễu (kem và chết đuối
 - **Người đọc báo:** khi thấy tít "X làm tăng nguy cơ Y", tìm nghiên cứu gốc và hỏi ba câu: đây là thử nghiệm hay quan sát? Có biến gây nhiễu hay nhân quả ngược hiển nhiên nào không (người giàu, người ốm, người già)? Mức tăng tuyệt đối là bao nhiêu? Thử tự bịa một câu chuyện nhân quả ngược như tác giả gợi ý; nếu dễ bịa, hãy hoài nghi.
 - **Nhà phân tích:** khi so sánh tỷ lệ giữa các nhóm (khách hàng, chi nhánh, sản phẩm), luôn tách theo các yếu tố cơ cấu chính để kiểm tra nghịch lý Simpson; khi có thể, đề xuất thử nghiệm A/B thay vì suy diễn từ dữ liệu lịch sử; báo cáo cả hiệu ứng theo ý định điều trị.
 - **Người làm chính sách:** dùng thử nghiệm ngẫu nhiên (có thể phân khối theo vùng hay thời gian) để đánh giá chính sách mới trước khi mở rộng, như ví dụ tin nhắn hỗ trợ học sinh hay camera cảnh sát; khi chỉ có dữ liệu quan sát, dùng các tiêu chí Bradford Hill như một danh sách kiểm tra có hệ thống và nói rõ mức tin cậy của kết luận.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn đi theo trình tự các mục của bản gốc (u não ở Thụy Điển và “Correlation Does Not Imply Causation”, “What Is Causation Anyway?” cùng hai khung statin và cầu nguyện, “What Do We Do When We Can't Randomize?”, “What Can We Do When We Observe an Association?”, “Can We Ever Conclude Causation from Observational Data?”), mỗi nhánh ghi định nghĩa, nguyên tắc, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: tương quan không chứng minh nhân quả, thử nghiệm ngẫu nhiên có đối chứng là cách đáng tin nhất để xác lập nó`"]
+  n1["`Phần mở đầu và mục “Correlation Does Not Imply Causation” (trang PDF 80–81) — một liên hệ bị nâng cấp thành tít báo`"]
+  n0 --- n1
+  n2["`Hơn 4 triệu người Thụy Điển: địa vị kinh tế xã hội cao đi kèm tỷ lệ chẩn đoán u não hơi cao`"]
+  n1 --- n2
+  n3["`Tít báo thành “học đại học làm tăng nguy cơ u não”, tác giả nghiên cứu lại nghĩ tới thiên lệch phát hiện`"]
+  n1 --- n3
+  n4["`Câu thần chú tương quan không phải nhân quả có từ năm 1900`"]
+  n1 --- n4
+  n5["`Mozzarella và số tiến sĩ xây dựng dân dụng ở Mỹ tương quan 0,96`"]
+  n1 --- n5
+  n6["`Mục “What Is Causation Anyway?” (trang PDF 81–85) — nhân quả theo can thiệp và chín nguyên tắc thử nghiệm`"]
+  n0 --- n6
+  n7["`X gây ra Y nghĩa là can thiệp để X xảy ra thì Y có xu hướng xảy ra thường hơn`"]
+  n6 --- n7
+  n8["`Hút thuốc gây ung thư phổi dù phần lớn người hút không mắc`"]
+  n6 --- n8
+  n9["`Không bao giờ nói được X đã gây ra Y cho một người cụ thể, vì phản thực tế không quan sát được`"]
+  n6 --- n9
+  n10["`Chín nguyên tắc: đối chứng, ngẫu nhiên hóa, ý định điều trị, làm mù, đối xử như nhau, đo mọi người, nhiều nghiên cứu, tổng quan hệ thống`"]
+  n6 --- n10
+  n11["`Nghiên cứu Bảo vệ Tim, 20.536 người: statin giảm đau tim 5 năm từ 11,8% xuống 8,7%`"]
+  n6 --- n11
+  n12["`Khoảng 30 người dùng statin 5 năm để ngăn một ca đau tim`"]
+  n11 --- n12
+  n13["`Phân tích gộp 27 thử nghiệm, hơn 170.000 người: giảm 21% biến cố mạch máu lớn mỗi 1 mmol/L LDL`"]
+  n11 --- n13
+  n14["`Streptomycin 1948, phân khối của Fisher, tin nhắn hỗ trợ học sinh thi lại tăng tỷ lệ đỗ 27%`"]
+  n6 --- n14
+  n15["`STEP hơn 1.800 bệnh nhân: cầu nguyện thay không có tác dụng`"]
+  n6 --- n15
+  n16["`Kiểm định A/B trong thiết kế web là thí nghiệm ngẫu nhiên trên người dùng không hề biết`"]
+  n6 --- n16
+  n17["`Mục “What Do We Do When We Can't Randomize?” (trang PDF 85–86) — các thiết kế nghiên cứu quan sát`"]
+  n0 --- n17
+  n18["`Vì sao đàn ông già có tai to: nghiên cứu cắt ngang ở Anh và Nhật thấy tương quan dương giữa tuổi và chiều dài tai`"]
+  n17 --- n18
+  n19["`Ba giải thích: tai dài thêm theo tuổi, hiệu ứng thế hệ, hay đàn ông tai nhỏ chết sớm hơn`"]
+  n17 --- n19
+  n20["`Đoàn hệ tiến cứu theo dõi người về sau, đoàn hệ hồi cứu dùng hồ sơ quá khứ`"]
+  n17 --- n20
+  n21["`Nghiên cứu bệnh–chứng so người có bệnh với người không có bệnh`"]
+  n17 --- n21
+  n22["`Mục “What Can We Do When We Observe an Association?” (trang PDF 86–88) — các lời giải thích khác ngoài nhân quả`"]
+  n0 --- n22
+  n23["`Biến gây nhiễu là nguyên nhân chung của X và Y, điều chỉnh bằng phân tầng hay hồi quy`"]
+  n22 --- n23
+  n24["`Nghịch lý Simpson, tuyển sinh Cambridge 1996: tổng thể nam đỗ 24%, nữ 23%, nhưng nữ đỗ cao hơn ở bốn trong năm ngành`"]
+  n22 --- n24
+  n25["`Nhân quả ngược: Waitrose mở ở nơi giàu chứ không làm giá nhà tăng 36.000 bảng`"]
+  n22 --- n25
+  n26["`Người không uống rượu chết nhiều hơn có thể vì người ốm đã bỏ rượu`"]
+  n22 --- n26
+  n27["`Yếu tố ẩn không đo được thì không điều chỉnh được`"]
+  n22 --- n27
+  n28["`Trùng hợp thời gian: tự kỷ chẩn đoán sau tiêm chủng vì xảy ra cùng độ tuổi`"]
+  n22 --- n28
+  n29["`Thiên lệch chọn: giáo hoàng sống lâu vì được chọn từ người chưa chết trẻ`"]
+  n22 --- n29
+  n30["`Mục “Can We Ever Conclude Causation from Observational Data?” (trang PDF 88–90) — phán đoán có hệ thống`"]
+  n0 --- n30
+  n31["`Tiêu chí Bradford Hill: độ lớn hiệu ứng, thời gian, đáp ứng liều, cơ chế, phù hợp, lặp lại`"]
+  n30 --- n31
+  n32["`Aspirin gây loét miệng đạt năm trên bảy tiêu chí`"]
+  n30 --- n32
+  n33["`Tòa án dùng ngưỡng nguy cơ tương đối lớn hơn 2: amiăng 10 thành 25 ca trên 1.000, tức 60% số ca do amiăng`"]
+  n30 --- n33
+  n34["`Ngẫu nhiên hóa Mendel dùng gen làm giảm dung nạp rượu như một phân bổ ngẫu nhiên tự nhiên`"]
+  n30 --- n34
+  n35["`Thông điệp xuyên suốt`"]
+  n0 --- n35
+  n36["`Thấy X liên quan tới Y, hỏi trước tiên dữ liệu đến từ thí nghiệm hay quan sát`"]
+  n35 --- n36
+  n37["`Đọc cả giảm nguy cơ tuyệt đối và số người cần điều trị, không chỉ giảm tương đối`"]
+  n35 --- n37
+  n38["`Tác dụng trung bình trên nhóm không cho biết điều trị có giúp bạn hay không`"]
+  n35 --- n38
+  n39["`Không phương pháp nào thay được phán đoán về mức tin cậy khi khẳng định nhân quả`"]
+  n35 --- n39
+  class n0 root
+  class n1,n6,n17,n22,n30,n35 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n36,n37,n38,n39 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 4 "What Causes What?", trang PDF 80–91 (ebook không có số trang in).
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) giới thiệu hệ số tương quan Pearson và cho thấy các bệnh viện phẫu thuật tim trẻ em làm nhiều ca hơn có tỷ lệ sống sót cao hơn. Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) hỏi dữ liệu cho ta biết gì về tổng thể, và nêu lấy mẫu ngẫu nhiên là cách tránh thiên lệch khi đi từ mẫu tới tổng thể. Chương 4 chuyển sang câu hỏi khó hơn và quan trọng hơn: một mối liên hệ quan sát được có phải là quan hệ **nhân quả** không.
+
+Chương định nghĩa nhân quả theo nghĩa thống kê (can thiệp làm thay đổi xác suất của kết cục), trình bày thử nghiệm ngẫu nhiên có đối chứng như khuôn khổ tốt nhất, rồi bàn những gì có thể làm với dữ liệu quan sát: biến gây nhiễu, điều chỉnh và nghịch lý Simpson, quan hệ nhân quả ngược, yếu tố ẩn, các tiêu chí Bradford Hill, dịch tễ học pháp y và ngẫu nhiên hoá Mendel. Chương kết thúc bằng lời hẹn: các phương pháp điều chỉnh yếu tố gây nhiễu chủ yếu dựa trên **hồi quy**, chủ đề của Chương 5 ([C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md)). Khả năng mối liên hệ chỉ do may rủi được hẹn lại ở Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)).
+
+## Lưu ý
+
+- **Sách nói nhầm chương (trang PDF 80):** câu "We saw in the last chapter how Pearson's correlation coefficient measures..." — hệ số tương quan Pearson và biểu đồ phân tán số ca phẫu thuật tim theo tỷ lệ sống sót được trình bày ở Chương 2, không phải chương ngay trước (Chương 3 không bàn tương quan). Nhận xét của người tổng hợp.
+- **Bảng tuyển sinh Cambridge (Table 4.2) không hoàn toàn khớp với lời khẳng định "ở mỗi ngành, tỷ lệ đỗ của nữ đều cao hơn":** ở ngành Y, nữ đỗ 99/416 = 23,80%, nam đỗ 140/578 = 24,22%; cả hai được làm tròn thành 24% nên bảng trông như bằng nhau, nhưng thực ra nam cao hơn một chút. Nữ cao hơn rõ ở bốn ngành còn lại. Nghịch lý Simpson vẫn đúng về bản chất (tổng thể nam cao hơn, trong khi từng ngành nữ cao hơn hoặc gần bằng). Nhận xét của người tổng hợp. Các tổng còn lại khớp: nữ 1.184 người nộp, 274 đỗ (23,1%); nam 2.470 nộp, 584 đỗ (23,6%, làm tròn thành 24%). Chênh lệch tổng thể chỉ 0,5 điểm phần trăm.
+- **Mức giảm nguy cơ tương đối trong Table 4.1 (HPS) tính lại từ các phần trăm đã làm tròn hơi khác:** đau tim (11,8 − 8,7) / 11,8 = 26,3% (sách 27%); đột quỵ (5,7 − 4,3) / 5,7 = 24,6% (sách 25%); tử vong do mọi nguyên nhân (14,7 − 12,9) / 14,7 = 12,2% (sách 13%). Chênh lệch có thể do sách tính từ số liệu chưa làm tròn hoặc theo tỷ số tỷ suất của bài báo gốc; không ảnh hưởng kết luận. Các con số khác đã kiểm tra: 10.267 + 10.269 = 20.536 người; mức giảm tuyệt đối 3,1 điểm phần trăm, tức 31 ca trên 1.000 người; 1.000 / 31 = 32 người dùng statin 5 năm để ngăn một ca đau tim ("khoảng 30", sách).
+- **Hai con số khác nhau về hiệu quả statin:** lời văn dẫn phân tích gộp năm 2012 (27 thử nghiệm, hơn 170.000 người nguy cơ thấp): giảm 21% biến cố mạch máu lớn cho mỗi 1 mmol/L LDL giảm đi. Chú thích dấu sao của tác giả về bản thân lại dùng 25% cho "người có nguy cơ nền như tôi và chưa từng mắc bệnh". Sách không giải thích sự khác biệt (có thể là ước tính cho phân nhóm). Phép tính trong chú thích: 0,75 × 0,75 = 0,5625, giảm khoảng 44%; 13% × 0,56 ≈ 7,3%, sách ghi 7%, đúng. Nếu dùng 21%: 0,79 × 0,79 = 0,62, giảm khoảng 38%, nguy cơ 10 năm từ 13% xuống khoảng 8%.
+- **Ví dụ amiăng:** sách nói "nếu amiăng làm nguy cơ tăng hơn gấp đôi" rồi lấy con số 25 trên 1.000 (so với 10), tức nguy cơ tương đối 2,5. Người tổng hợp kiểm tra: trong số người phơi nhiễm bị ung thư, tỷ lệ do amiăng là (25 − 10) / 25 = 60%, lớn hơn một nửa; tổng quát, tỷ lệ này bằng (RR − 1) / RR và vượt 50% đúng khi RR > 2.
+- **Bảng là ảnh:** Table 4.1 và Table 4.2 không có trong lớp chữ; nội dung trong bản tổng hợp được chép từ ảnh trang PDF 84 và 87.
+- **Footnote:** danh sách footnote cuối file bundle bị lệch (năm mục trong đó thuộc Chương 5). Đối chiếu danh sách footnote toàn sách, chương này có ba footnote: tính toán cá nhân về statin (trang PDF 84), nhận xét về những người tham gia thử nghiệm vì bệnh nhân tương lai (trang PDF 84), và nhận xét về kinh phí cho nghiên cứu tai (trang PDF 86). Dấu sao in ngay dưới Table 4.1 và Table 4.2 không có footnote tương ứng (có lẽ là dấu liên kết nguồn của bảng). Cả ba footnote và nội dung quan trọng của 13 chú thích cuối chương được đưa vào phần Nội dung chi tiết.
+- **Bố cục:** các khung tình huống ("Do statins reduce heart attacks and strokes?", "Is prayer effective?", "Why do old men have big ears?", "Does having a nearby Waitrose…?") là tiêu đề phụ nằm trong các mục lớn; nội dung dưới khung "Is prayer effective?" phần lớn nói về lịch sử thử nghiệm ngẫu nhiên, chỉ một đoạn nói về cầu nguyện. Bản tổng hợp giữ nguyên vị trí các khung trong mục lớn tương ứng.

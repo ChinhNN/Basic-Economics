@@ -1,19 +1,16 @@
 # Giới thiệu — Vì sao chúng ta cần thống kê (Introduction)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican, Anh, 3/2019), phần "Introduction" (tiêu đề phụ "Why We Need Statistics"), trang PDF 13–25; tham khảo thêm phần "Acknowledgements" ở trang PDF 12. Ebook không có số trang in, nên vị trí được ghi bằng chỉ số trang PDF.
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê. Ông từng là một trong các nhà thống kê ra làm chứng tại cuộc điều tra công khai về vụ bác sĩ Harold Shipman — ví dụ mở đầu của phần này.
-**Vị trí trong lập luận của cả cuốn sách:** Phần Giới thiệu đặt mục tiêu và khung cho cả cuốn sách: thống kê được dạy qua các câu hỏi thật, không qua công thức, và mọi cuộc điều tra bằng dữ liệu được nhìn như một vòng **chu trình PPDAC** — Vấn đề (Problem), Kế hoạch (Plan), Dữ liệu (Data), Phân tích (Analysis), Kết luận và truyền đạt (Conclusion). Sau phần này, sách đi theo một trình tự có chủ ý: **sáu chương đầu làm việc với dữ liệu mà chưa cần lý thuyết xác suất.** Chương 1 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md)) bàn về dữ liệu có/không, tỷ lệ phần trăm, rủi ro tương đối và rủi ro tuyệt đối (ca phẫu thuật tim trẻ em ở Bristol, nguy cơ ung thư từ bánh mì kẹp thịt xông khói). Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) bàn về tóm tắt và vẽ đồ thị cho dữ liệu số (đoán số kẹo trong lọ, số bạn tình người Anh khai báo, bệnh viện đông bệnh nhân hơn có tỷ lệ sống cao hơn không). Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) nêu con đường suy luận quy nạp từ dữ liệu tới mẫu, tới tổng thể nghiên cứu, tới tổng thể mục tiêu. Chương 4 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md)) bàn về quan hệ nhân quả, thử nghiệm ngẫu nhiên có đối chứng và yếu tố gây nhiễu (statin, vì sao ông già có tai to). Chương 5 ([C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md)) trình bày hồi quy và hiện tượng hồi quy về giá trị trung bình (chiều cao cha con của Galton). Chương 6 ([C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)) trình bày thuật toán phân loại và dự báo (hành khách sống sót trên tàu *Titanic*, lợi ích của điều trị bổ trợ sau phẫu thuật ung thư vú). Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) đưa độ bất định vào ước lượng bằng phương pháp bootstrap (số người thất nghiệp ở Anh). **Chương 8–11 mới dựng nền xác suất và suy luận chính thức:** Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) về xác suất, bắt đầu từ Pascal và Fermat những năm 1650 mà phần Giới thiệu nhắc tới; Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) về định lý giới hạn trung tâm và khoảng tin cậy; Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) về kiểm định giả thuyết và giá trị P, trong đó có câu hỏi "lẽ ra có bắt được Shipman sớm hơn không" và hạt Higgs; Chương 11 ([C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) về suy luận Bayes (bộ xương ở bãi đỗ xe Leicester có phải của vua Richard III không). **Hai chương cuối quay về câu hỏi niềm tin vào con số:** Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) về khủng hoảng tái lập, thực hành nghiên cứu đáng ngờ và cách truyền thông thổi phồng (có ví dụ về ngoại cảm, ESP); Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) về việc người tạo ra, người truyền đạt và người nghe có thể làm gì để thống kê được dùng tốt hơn (sàng lọc ung thư buồng trứng). Chương 14 ([C14-ket-luan.md](C14-ket-luan.md)) khép sách bằng mười quy tắc thực hành thống kê hiệu quả. Bảng thuật ngữ cuối sách được tổng hợp ở [PL-bang-thuat-ngu.md](PL-bang-thuat-ngu.md). Phần Giới thiệu còn gieo trước nhiều chủ đề sẽ quay lại: định nghĩa thất nghiệp (Chương 7), đào bới dữ liệu và khủng hoảng tái lập (Chương 10, 12), thuật toán dựa trên dữ liệu lớn (Chương 6).
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **thống kê là khoa học học hỏi về thế giới từ dữ liệu, không phải một túi công cụ toán học; dữ liệu luôn được "dựng" từ những lựa chọn về định nghĩa và đo lường, luôn đo không trọn vẹn điều ta quan tâm và luôn lẫn sự biến thiên ngẫu nhiên — vì vậy, trong thời đại dữ liệu lớn và khủng hoảng tái lập, người ta cần *nhiều* năng lực đọc hiểu dữ liệu hơn chứ không ít đi, và cách dạy thống kê phải chuyển sang giải quyết vấn đề theo cả chu trình PPDAC.** Phần mở đầu kể vụ bác sĩ gia đình Harold Shipman, người đã giết ít nhất 215 bệnh nhân, phần lớn là người già, trong giai đoạn 1975–1998. Chỉ bằng hai đồ thị đơn giản — biểu đồ phân tán tuổi nạn nhân theo năm chết và đường biểu diễn giờ chết trong ngày — có thể thấy nạn nhân chủ yếu là phụ nữ 70–90 tuổi, các vụ giết tăng tốc sau khi Shipman mở phòng khám riêng khoảng năm 1992, và bệnh nhân của ông chết dồn vào đầu giờ chiều, đúng lúc ông đi khám tại nhà; tác giả gọi kiểu khảo sát lặp đi lặp lại, chỉ tìm mẫu hình này là thống kê "điều tra". Mục "Turning the World Into Data" cho thấy biến trải nghiệm thành dữ liệu đòi hỏi định nghĩa chặt (thế nào là một cái cây: đường kính thân ở ngang ngực ít nhất 10 cm; ước tính 3,04 nghìn tỷ cây trên Trái Đất), và nhiều khái niệm còn khó định nghĩa hơn (định nghĩa thất nghiệp ở Anh đổi ít nhất 31 lần trong 1979–1996; GDP của Anh tính cả ma tuý và mại dâm từ 2014; điểm hạnh phúc trung bình 7,5/10; định nghĩa cái chết khác nhau giữa các bang của Mỹ). Dữ liệu có hai giới hạn: đo không trọn điều ta quan tâm, và biến thiên theo nơi, người, thời điểm. Thống kê đã phát triển từ những năm 1650, nhưng quan niệm "túi công cụ" của thế kỷ 20 nay bị thách thức bởi khoa học dữ liệu và bởi khủng hoảng tái lập; dữ liệu nhiều hơn đòi hỏi biết rõ hơn bằng chứng thực sự đáng giá bao nhiêu. Mục "Teaching Statistics" giới thiệu chu trình PPDAC làm khung cho cả sách. Mục "This Book" nêu cách tiếp cận: bắt đầu từ vấn đề thật, chú trọng khái niệm hơn kỹ thuật, gần như không có công thức, không dạy phần mềm, dành cho cả sinh viên lẫn người đọc phổ thông, với mục tiêu giúp mọi người dám đặt câu hỏi về những con số họ gặp.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phần này không có bảng; cả ba hình đều là ảnh, và hai đồ thị không ghi số trên cột hay trên điểm.** Số liệu đọc từ Figure 0.1 (biểu đồ phân tán Shipman) và Figure 0.2 (giờ chết trong ngày) trong bản tổng hợp đều là **ước lượng của người tổng hợp** theo vạch chia trục. Riêng biểu đồ cột theo năm ở cạnh trên Figure 0.1 không có trục tung; người tổng hợp quy đổi chiều cao cột ra số nạn nhân bằng cách giả định tổng các cột bằng 215, nên các con số theo năm chỉ là gần đúng (sai số có thể vài ca mỗi năm). Biểu đồ cột tuổi ở cạnh phải Figure 0.1 có các cột không khớp gọn với vạch chia trục tuổi, nên bản tổng hợp chỉ mô tả hình dạng, không gán số cho từng khoảng tuổi.
-> - **"Khoảng trống quanh năm 1992" (nhận xét của người tổng hợp):** lời văn nói biểu đồ cột phía trên cho thấy một khoảng trống "quanh năm 1992" không có vụ giết nào. Đọc hình, năm duy nhất không có cột là khoảng 1991; năm 1990 và 1992 mỗi năm chỉ có một cột rất thấp (khoảng 1 ca). Cách nói "quanh năm 1992" vì vậy vẫn chấp nhận được nhưng không chính xác tới từng năm. Ngoài ra không có cột cho khoảng 1976–1977.
-> - **"Ban đầu họ đều là người già" (nhận xét của người tổng hợp):** lời văn nói ban đầu nạn nhân đều cao tuổi, những ca trẻ hơn chỉ "len vào" theo thời gian. Hình cho thấy đúng như vậy về xu hướng, nhưng đã có một nữ nạn nhân khoảng 51 tuổi năm 1984 và một nam nạn nhân khoảng 41 tuổi năm 1985; phần lớn các ca dưới 60 tuổi dồn vào 1993–1998.
-> - **"Trước đây có gấp đôi số cây" so với chú thích "mất 46%":** lời văn nói các nhà nghiên cứu cho rằng trước kia Trái Đất có gấp đôi 3,04 nghìn tỷ cây; chú thích dấu sao lại nói hành tinh đã mất 46% số cây từ khi bắt đầu nền văn minh. Người tổng hợp kiểm tra: nếu mất 46% thì số cây ban đầu là 3,04 / (1 − 0,46) = 3,04 / 0,54 ≈ 5,63 nghìn tỷ, tức khoảng **1,85 lần** hiện nay — "gấp đôi" là cách làm tròn khá rộng tay. Các phép tính khác trong phần đã được kiểm tra và khớp: khoảng sai số ±0,1 nghìn tỷ cho 2,94–3,14 nghìn tỷ; 5 inch = 12,7 cm; 10 cm ≈ 3,94 inch (sách ghi "4 inches", làm tròn); 15 tỷ cây bị chặt mỗi năm tương đương khoảng 15 / 3.040 ≈ 0,49% số cây hiện có mỗi năm (người tổng hợp tự tính); từ 1951 và 1954 (hai cuốn sách Pelican cũ) tới 2019 là 68 và 65 năm, khớp với "sáu mươi lăm năm" nếu tính từ cuốn của Huff.
-> - **Chú thích về nguồn gốc PPDAC (theo hiểu biết của người tổng hợp, không tra cứu):** Notes số 9 ghi chu trình PPDAC "được phát triển" trong bài của MacKay và Oldford năm 2000, đồng thời dẫn bài của Wild và Pfannkuch năm 1999 — tức bài trích dẫn ra đời trước bài được coi là nguồn gốc. Theo hiểu biết của người tổng hợp, MacKay và Oldford đã dùng PPDAC trong tài liệu giảng dạy ở Đại học Waterloo từ những năm 1990, trước khi xuất bản năm 2000; Wild và Pfannkuch dẫn lại từ đó. Đây không phải lỗi nội dung, chỉ là cách ghi nguồn chưa chặt. Hình PPDAC (Figure 0.3) được chuyển thể từ hình của Chris Wild, theo lời cảm ơn ở đầu sách.
-> - **Về cái chết của Shipman:** sách viết ông tự sát trong tù "vừa kịp lúc để vợ ông nhận lương hưu". Theo hiểu biết của người tổng hợp, Shipman tự sát tháng 1/2004, một ngày trước sinh nhật 58 tuổi; nếu chết sau tuổi 60 thì vợ ông sẽ mất quyền hưởng một phần lương hưu. Sách không giải thích chi tiết này.
-> - **Lớp chữ ebook:** lời văn tốt; chỉ có vài chỗ vỡ dòng ở chữ in nghiêng và các số chú thích nằm lẫn vào câu. Không có chỗ mất chữ ảnh hưởng tới nội dung.
-> - **Số liệu nay đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** điểm hạnh phúc 7,5 là của năm kết thúc tháng 9/2017; các năm sau, đặc biệt trong đại dịch COVID-19 (2020–2021), Văn phòng Thống kê Quốc gia Anh ghi nhận điểm hạnh phúc giảm rồi hồi phục. Chính cụm "big data" được bảng thuật ngữ của sách gọi là "ngày càng lỗi thời"; từ sau 2022 trọng tâm tranh luận chuyển sang trí tuệ nhân tạo tạo sinh và mô hình ngôn ngữ lớn — điều càng làm luận điểm "dữ liệu nhiều hơn đòi hỏi năng lực phê phán nhiều hơn" thêm đúng.
+Spiegelhalter muốn người đọc hiểu rằng **thống kê là khoa học học hỏi về thế giới từ dữ liệu, không phải một túi công cụ toán học; dữ liệu luôn được "dựng" từ những lựa chọn về định nghĩa và đo lường, luôn đo không trọn vẹn điều ta quan tâm và luôn lẫn sự biến thiên ngẫu nhiên — vì vậy, trong thời đại dữ liệu lớn và khủng hoảng tái lập, người ta cần *nhiều* năng lực đọc hiểu dữ liệu hơn chứ không ít đi, và cách dạy thống kê phải chuyển sang giải quyết vấn đề theo cả chu trình PPDAC.**
+
+Phần mở đầu kể vụ bác sĩ gia đình Harold Shipman, người đã giết ít nhất 215 bệnh nhân, phần lớn là người già, trong giai đoạn 1975–1998. Chỉ bằng hai đồ thị đơn giản — biểu đồ phân tán tuổi nạn nhân theo năm chết và đường biểu diễn giờ chết trong ngày — có thể thấy nạn nhân chủ yếu là phụ nữ 70–90 tuổi, các vụ giết tăng tốc sau khi Shipman mở phòng khám riêng khoảng năm 1992, và bệnh nhân của ông chết dồn vào đầu giờ chiều, đúng lúc ông đi khám tại nhà; tác giả gọi kiểu khảo sát lặp đi lặp lại, chỉ tìm mẫu hình này là thống kê "điều tra".
+
+Mục "Turning the World Into Data" cho thấy biến trải nghiệm thành dữ liệu đòi hỏi định nghĩa chặt (thế nào là một cái cây: đường kính thân ở ngang ngực ít nhất 10 cm; ước tính 3,04 nghìn tỷ cây trên Trái Đất), và nhiều khái niệm còn khó định nghĩa hơn (định nghĩa thất nghiệp ở Anh đổi ít nhất 31 lần trong 1979–1996; GDP của Anh tính cả ma tuý và mại dâm từ 2014; điểm hạnh phúc trung bình 7,5/10; định nghĩa cái chết khác nhau giữa các bang của Mỹ).
+
+Dữ liệu có hai giới hạn: đo không trọn điều ta quan tâm, và biến thiên theo nơi, người, thời điểm. Thống kê đã phát triển từ những năm 1650, nhưng quan niệm "túi công cụ" của thế kỷ 20 nay bị thách thức bởi khoa học dữ liệu và bởi khủng hoảng tái lập; dữ liệu nhiều hơn đòi hỏi biết rõ hơn bằng chứng thực sự đáng giá bao nhiêu.
+
+Mục "Teaching Statistics" giới thiệu chu trình PPDAC làm khung cho cả sách. Mục "This Book" nêu cách tiếp cận: bắt đầu từ vấn đề thật, chú trọng khái niệm hơn kỹ thuật, gần như không có công thức, không dạy phần mềm, dành cho cả sinh viên lẫn người đọc phổ thông, với mục tiêu giúp mọi người dám đặt câu hỏi về những con số họ gặp.
 
 ## Sơ đồ
 
@@ -286,9 +283,13 @@ Phần Giới thiệu mở bằng một câu của Nate Silver trong cuốn *The
 
 #### Vụ án
 
-Harold Shipman là kẻ sát nhân bị kết án có nhiều nạn nhân nhất nước Anh, dù ông không giống hình mẫu kẻ giết người hàng loạt. Ông là một bác sĩ gia đình hiền lành ở một khu ngoại ô Manchester. Từ 1975 đến 1998, ông tiêm cho ít nhất 215 bệnh nhân, phần lớn là người cao tuổi, một liều thuốc phiện cực lớn. Cuối cùng ông phạm sai lầm: giả mạo di chúc của một nạn nhân để bà để lại cho ông một khoản tiền. Con gái nạn nhân là luật sư, nghi ngờ nảy sinh, và phân tích pháp y máy tính của ông cho thấy ông đã sửa hồ sơ bệnh án về sau để nạn nhân trông ốm nặng hơn thực tế. Shipman nổi tiếng là người nhiệt tình dùng công nghệ mới, nhưng không đủ hiểu công nghệ để biết rằng mọi lần sửa đều được ghi dấu thời gian — tác giả nhận xét đây tình cờ cũng là một ví dụ tốt về việc dữ liệu tiết lộ ý nghĩa ẩn giấu.
+Harold Shipman là kẻ sát nhân bị kết án có nhiều nạn nhân nhất nước Anh, dù ông không giống hình mẫu kẻ giết người hàng loạt. Ông là một bác sĩ gia đình hiền lành ở một khu ngoại ô Manchester. Từ 1975 đến 1998, ông tiêm cho ít nhất 215 bệnh nhân, phần lớn là người cao tuổi, một liều thuốc phiện cực lớn. Cuối cùng ông phạm sai lầm: giả mạo di chúc của một nạn nhân để bà để lại cho ông một khoản tiền.
 
-Trong số bệnh nhân không bị hoả táng, mười lăm người được khai quật, và trong cơ thể họ có lượng diamorphine (dạng heroin dùng trong y tế) gây chết người. Năm 1999 Shipman bị xử về mười lăm tội giết người; ông không tự bào chữa và không nói một lời nào tại phiên toà. Ông bị kết tội và lĩnh án tù chung thân. Sau đó một cuộc điều tra công khai được lập để xác định ông có thể đã phạm những tội nào khác ngoài các tội đã bị xử, và liệu có thể bắt ông sớm hơn không. Spiegelhalter là một trong số các nhà thống kê được mời ra làm chứng. Cuộc điều tra kết luận Shipman chắc chắn đã giết 215 bệnh nhân, và có thể thêm 45 người nữa. (Theo chú thích, dữ liệu vụ Shipman được bàn chi tiết hơn trong bài "Shipman's Statistical Legacy" của Spiegelhalter và Nicky Best, tạp chí *Significance*, 2004; toàn bộ hồ sơ cuộc điều tra được lưu trữ trực tuyến tại Lưu trữ Quốc gia Anh.)
+Con gái nạn nhân là luật sư, nghi ngờ nảy sinh, và phân tích pháp y máy tính của ông cho thấy ông đã sửa hồ sơ bệnh án về sau để nạn nhân trông ốm nặng hơn thực tế. Shipman nổi tiếng là người nhiệt tình dùng công nghệ mới, nhưng không đủ hiểu công nghệ để biết rằng mọi lần sửa đều được ghi dấu thời gian — tác giả nhận xét đây tình cờ cũng là một ví dụ tốt về việc dữ liệu tiết lộ ý nghĩa ẩn giấu.
+
+Trong số bệnh nhân không bị hoả táng, mười lăm người được khai quật, và trong cơ thể họ có lượng diamorphine (dạng heroin dùng trong y tế) gây chết người. Năm 1999 Shipman bị xử về mười lăm tội giết người; ông không tự bào chữa và không nói một lời nào tại phiên toà. Ông bị kết tội và lĩnh án tù chung thân. Sau đó một cuộc điều tra công khai được lập để xác định ông có thể đã phạm những tội nào khác ngoài các tội đã bị xử, và liệu có thể bắt ông sớm hơn không.
+
+Spiegelhalter là một trong số các nhà thống kê được mời ra làm chứng. Cuộc điều tra kết luận Shipman chắc chắn đã giết 215 bệnh nhân, và có thể thêm 45 người nữa. (Theo chú thích, dữ liệu vụ Shipman được bàn chi tiết hơn trong bài "Shipman's Statistical Legacy" của Spiegelhalter và Nicky Best, tạp chí *Significance*, 2004; toàn bộ hồ sơ cuộc điều tra được lưu trữ trực tuyến tại Lưu trữ Quốc gia Anh.)
 
 Sách sẽ dùng khoa học thống kê để trả lời những câu hỏi nảy sinh khi ta muốn hiểu thế giới tốt hơn, và một số câu hỏi như vậy được đóng khung. (Chú thích của tác giả: các thuật ngữ in đậm có trong Bảng thuật ngữ cuối sách, với cả định nghĩa cơ bản lẫn định nghĩa kỹ thuật.) Để hiểu hành vi của Shipman, câu hỏi tự nhiên đầu tiên là: **Harold Shipman đã giết những người như thế nào, và họ chết khi nào?**
 
@@ -343,13 +344,17 @@ Phân tích này lại gợi thêm câu hỏi về cách ông gây án. Một b�
 
 Cộng bốn giờ từ khoảng 13 đến 17 giờ: Shipman khoảng 9 + 14 + 13 + 9 = 45% số ca; nhóm so sánh khoảng 4 + 2 + 3 + 6,5 ≈ 16%, xấp xỉ mức 4/24 ≈ 17% nếu cái chết rải đều trong ngày.
 
-Mẫu hình không cần phân tích tinh vi: kết luận đôi khi được gọi đùa là "inter-ocular" vì nó "đập vào giữa hai mắt". Bệnh nhân của Shipman chết áp đảo vào đầu giờ chiều. Dữ liệu không thể cho biết *vì sao* họ chết vào giờ đó, nhưng điều tra thêm cho thấy ông đi khám tại nhà sau bữa trưa, khi thường ở một mình với bệnh nhân già. Ông mời họ tiêm một mũi mà ông nói là để họ dễ chịu hơn, nhưng thực ra là liều diamorphine chết người; sau khi bệnh nhân chết êm ả trước mặt ông, ông sửa hồ sơ để cái chết trông như một cái chết tự nhiên đã được dự liệu. Bà Dame Janet Smith, chủ tịch cuộc điều tra công khai, sau này nói bà vẫn thấy thật kinh khủng không tả nổi khi ông ngày này qua ngày khác giả làm một bác sĩ tận tâm tuyệt vời, mang trong túi thứ vũ khí chết người và lấy nó ra một cách hết sức bình thản.
+Mẫu hình không cần phân tích tinh vi: kết luận đôi khi được gọi đùa là "inter-ocular" vì nó "đập vào giữa hai mắt". Bệnh nhân của Shipman chết áp đảo vào đầu giờ chiều. Dữ liệu không thể cho biết *vì sao* họ chết vào giờ đó, nhưng điều tra thêm cho thấy ông đi khám tại nhà sau bữa trưa, khi thường ở một mình với bệnh nhân già.
+
+Ông mời họ tiêm một mũi mà ông nói là để họ dễ chịu hơn, nhưng thực ra là liều diamorphine chết người; sau khi bệnh nhân chết êm ả trước mặt ông, ông sửa hồ sơ để cái chết trông như một cái chết tự nhiên đã được dự liệu. Bà Dame Janet Smith, chủ tịch cuộc điều tra công khai, sau này nói bà vẫn thấy thật kinh khủng không tả nổi khi ông ngày này qua ngày khác giả làm một bác sĩ tận tâm tuyệt vời, mang trong túi thứ vũ khí chết người và lấy nó ra một cách hết sức bình thản.
 
 Ông chấp nhận một rủi ro, vì chỉ một lần khám nghiệm tử thi là đủ lật tẩy ông; nhưng với tuổi tác của bệnh nhân và nguyên nhân chết trông tự nhiên, không ca nào được khám nghiệm. Động cơ của ông chưa bao giờ được giải thích: ông không khai gì tại toà, không bao giờ nói về tội ác với ai, kể cả gia đình, và tự sát trong tù — "thật tiện", vừa kịp lúc để vợ ông nhận lương hưu của ông.
 
 #### Thống kê "điều tra"
 
-Tác giả gọi kiểu làm việc lặp đi lặp lại, khám phá này là thống kê "điều tra" (forensic), và trong vụ này chữ "forensic" (pháp y) đúng theo nghĩa đen. Không có toán, không có lý thuyết, chỉ là tìm mẫu hình có thể dẫn tới những câu hỏi thú vị hơn. Chi tiết tội ác của Shipman được xác định bằng bằng chứng riêng của từng ca, nhưng phân tích dữ liệu này hỗ trợ một hiểu biết chung về cách ông gây án. Ở Chương 10, sách sẽ xem phân tích thống kê chính thức liệu có giúp bắt Shipman sớm hơn không (chú thích của tác giả, kiểu "báo trước kết cục": gần như chắc chắn là có). Trong lúc chờ, câu chuyện Shipman đã cho thấy rõ tiềm năng lớn của việc dùng dữ liệu để hiểu thế giới và phán đoán tốt hơn — và đó chính là điều khoa học thống kê hướng tới.
+Tác giả gọi kiểu làm việc lặp đi lặp lại, khám phá này là thống kê "điều tra" (forensic), và trong vụ này chữ "forensic" (pháp y) đúng theo nghĩa đen. Không có toán, không có lý thuyết, chỉ là tìm mẫu hình có thể dẫn tới những câu hỏi thú vị hơn. Chi tiết tội ác của Shipman được xác định bằng bằng chứng riêng của từng ca, nhưng phân tích dữ liệu này hỗ trợ một hiểu biết chung về cách ông gây án.
+
+Ở Chương 10, sách sẽ xem phân tích thống kê chính thức liệu có giúp bắt Shipman sớm hơn không (chú thích của tác giả, kiểu "báo trước kết cục": gần như chắc chắn là có). Trong lúc chờ, câu chuyện Shipman đã cho thấy rõ tiềm năng lớn của việc dùng dữ liệu để hiểu thế giới và phán đoán tốt hơn — và đó chính là điều khoa học thống kê hướng tới.
 
 ### 2. Biến thế giới thành dữ liệu (Turning the World Into Data, trang PDF 18–20)
 
@@ -407,7 +412,9 @@ Quan niệm phổ biến coi thống kê là một túi công cụ cơ bản nay
 
 Thứ nhất, ta đang ở thời đại **khoa học dữ liệu**: các bộ dữ liệu lớn và phức tạp được thu thập từ nguồn thường nhật như thiết bị giám sát giao thông, bài đăng mạng xã hội, giao dịch mua hàng trên mạng, rồi được dùng làm nền cho các đổi mới công nghệ như tối ưu lộ trình, quảng cáo nhắm đúng đối tượng hay hệ thống gợi ý mua hàng (Chương 6 sẽ bàn các thuật toán dựa trên "dữ liệu lớn"). Đào tạo thống kê ngày càng được coi chỉ là một thành phần cần thiết của nhà khoa học dữ liệu, cùng với kỹ năng quản lý dữ liệu, lập trình, phát triển thuật toán và hiểu biết thực sự về lĩnh vực chuyên môn.
 
-Thứ hai là sự gia tăng khổng lồ về số lượng nghiên cứu khoa học, nhất là trong y sinh và khoa học xã hội, cộng với áp lực đăng bài trên các tạp chí hàng đầu. Điều này dẫn tới nghi ngờ về độ tin cậy của một phần tài liệu khoa học, với những lời cáo buộc rằng nhiều "phát hiện" không được các nhà nghiên cứu khác tái lập. Ví dụ: tranh cãi chưa dứt về việc đứng theo một tư thế quả quyết, thường gọi là "tư thế quyền lực" (power pose), có gây thay đổi nội tiết tố và các thay đổi khác hay không. (Chú thích dẫn cả hai phía: bài của Simmons và Simonsohn năm 2017 phân tích "đường cong P" và cho rằng bằng chứng yếu, và bài phản bác của Cuddy, Schultz và Fosse năm 2018.) Việc dùng không đúng các phương pháp thống kê chuẩn bị quy một phần không nhỏ trách nhiệm cho cái nay được gọi là khủng hoảng tái lập trong khoa học.
+Thứ hai là sự gia tăng khổng lồ về số lượng nghiên cứu khoa học, nhất là trong y sinh và khoa học xã hội, cộng với áp lực đăng bài trên các tạp chí hàng đầu. Điều này dẫn tới nghi ngờ về độ tin cậy của một phần tài liệu khoa học, với những lời cáo buộc rằng nhiều "phát hiện" không được các nhà nghiên cứu khác tái lập.
+
+Ví dụ: tranh cãi chưa dứt về việc đứng theo một tư thế quả quyết, thường gọi là "tư thế quyền lực" (power pose), có gây thay đổi nội tiết tố và các thay đổi khác hay không. (Chú thích dẫn cả hai phía: bài của Simmons và Simonsohn năm 2017 phân tích "đường cong P" và cho rằng bằng chứng yếu, và bài phản bác của Cuddy, Schultz và Fosse năm 2018.) Việc dùng không đúng các phương pháp thống kê chuẩn bị quy một phần không nhỏ trách nhiệm cho cái nay được gọi là khủng hoảng tái lập trong khoa học.
 
 #### Dữ liệu nhiều hơn đòi hỏi kỹ năng nhiều hơn
 
@@ -421,7 +428,9 @@ Mọi nhận thức này có thể gom dưới khái niệm **năng lực đọc
 
 Nhiều thế hệ sinh viên đã phải chịu đựng những khoá thống kê khô khan, dựa trên việc học một bộ kỹ thuật để áp vào các tình huống khác nhau, chú ý tới lý thuyết toán nhiều hơn là tới việc hiểu vì sao dùng công thức và những khó khăn nảy sinh khi dùng dữ liệu để trả lời câu hỏi.
 
-May thay điều đó đang thay đổi. Nhu cầu của khoa học dữ liệu và của năng lực đọc hiểu dữ liệu đòi hỏi một cách tiếp cận dẫn dắt bởi vấn đề, trong đó việc áp dụng một công cụ thống kê cụ thể chỉ là một thành phần của cả một chu trình điều tra. Cấu trúc **PPDAC** đã được đề xuất để biểu diễn chu trình giải quyết vấn đề, và sách áp dụng nó xuyên suốt. (Chú thích: một khuyến nghị chính của Hội Thống kê Hoa Kỳ là "dạy thống kê như một quá trình điều tra để giải quyết vấn đề và ra quyết định"; chu trình PPDAC được phát triển trong bài của R. J. MacKay và R. W. Oldford, "Scientific Method, Statistical Method and the Speed of Light", *Statistical Science*, 2000; nó được hệ thống trường học New Zealand cổ vũ mạnh, nơi giáo dục thống kê rất phát triển — xem C. J. Wild và M. Pfannkuch, "Statistical Thinking in Empirical Enquiry", 1999, và khoá học trực tuyến *Data to Insight*.) Hình chu trình trong sách dựa trên một ví dụ từ New Zealand, nước dẫn đầu thế giới về giáo dục thống kê ở trường phổ thông.
+May thay điều đó đang thay đổi. Nhu cầu của khoa học dữ liệu và của năng lực đọc hiểu dữ liệu đòi hỏi một cách tiếp cận dẫn dắt bởi vấn đề, trong đó việc áp dụng một công cụ thống kê cụ thể chỉ là một thành phần của cả một chu trình điều tra. Cấu trúc **PPDAC** đã được đề xuất để biểu diễn chu trình giải quyết vấn đề, và sách áp dụng nó xuyên suốt.
+
+(Chú thích: một khuyến nghị chính của Hội Thống kê Hoa Kỳ là "dạy thống kê như một quá trình điều tra để giải quyết vấn đề và ra quyết định"; chu trình PPDAC được phát triển trong bài của R. J. MacKay và R. W. Oldford, "Scientific Method, Statistical Method and the Speed of Light", *Statistical Science*, 2000; nó được hệ thống trường học New Zealand cổ vũ mạnh, nơi giáo dục thống kê rất phát triển — xem C. J. Wild và M. Pfannkuch, "Statistical Thinking in Empirical Enquiry", 1999, và khoá học trực tuyến *Data to Insight*.) Hình chu trình trong sách dựa trên một ví dụ từ New Zealand, nước dẫn đầu thế giới về giáo dục thống kê ở trường phổ thông.
 
 #### Hình: chu trình giải quyết vấn đề PPDAC (Figure 0.3 trong sách)
 
@@ -453,7 +462,9 @@ Trong thực tế, chu trình PPDAC có thể không được theo đúng từng
 
 ### 4. Cuốn sách này (This Book, trang PDF 23–24)
 
-Khi Spiegelhalter là sinh viên ở Anh những năm 1970, chỉ có ba kênh truyền hình, máy tính to bằng một tủ quần áo đôi, và thứ gần với Wikipedia nhất là thiết bị cầm tay tưởng tượng trong cuốn *Hitchhiker's Guide to the Galaxy* (rất tiên tri) của Douglas Adams. Để tự học, sinh viên tìm tới sách Pelican, và gáy sách màu xanh mang tính biểu tượng của chúng là thứ quen thuộc trên giá sách của mọi sinh viên. Vì học thống kê, bộ sưu tập Pelican của ông có *Facts from Figures* của M. J. Moroney (1951) và *How to Lie with Statistics* của Darrell Huff (1954). Những cuốn sách đáng kính này bán hàng trăm nghìn bản, phản ánh cả mức quan tâm tới thống kê lẫn sự nghèo nàn lựa chọn thời đó. Chúng đứng vững đáng kể qua sáu mươi lăm năm, nhưng thời đại hiện nay đòi hỏi một cách dạy thống kê khác, dựa trên các nguyên tắc vừa nêu. (Cuốn *The Art of Statistics* cũng được xuất bản ở Anh trong tủ sách Pelican.)
+Khi Spiegelhalter là sinh viên ở Anh những năm 1970, chỉ có ba kênh truyền hình, máy tính to bằng một tủ quần áo đôi, và thứ gần với Wikipedia nhất là thiết bị cầm tay tưởng tượng trong cuốn *Hitchhiker's Guide to the Galaxy* (rất tiên tri) của Douglas Adams. Để tự học, sinh viên tìm tới sách Pelican, và gáy sách màu xanh mang tính biểu tượng của chúng là thứ quen thuộc trên giá sách của mọi sinh viên.
+
+Vì học thống kê, bộ sưu tập Pelican của ông có *Facts from Figures* của M. J. Moroney (1951) và *How to Lie with Statistics* của Darrell Huff (1954). Những cuốn sách đáng kính này bán hàng trăm nghìn bản, phản ánh cả mức quan tâm tới thống kê lẫn sự nghèo nàn lựa chọn thời đó. Chúng đứng vững đáng kể qua sáu mươi lăm năm, nhưng thời đại hiện nay đòi hỏi một cách dạy thống kê khác, dựa trên các nguyên tắc vừa nêu. (Cuốn *The Art of Statistics* cũng được xuất bản ở Anh trong tủ sách Pelican.)
 
 Vì vậy sách lấy việc giải quyết vấn đề thực tế làm điểm xuất phát để giới thiệu các ý tưởng thống kê. Có ý có vẻ hiển nhiên, có ý tinh tế hơn và cần nỗ lực trí óc, nhưng không cần kỹ năng toán. So với sách giáo khoa truyền thống, sách tập trung vào vấn đề khái niệm hơn là chi tiết kỹ thuật, và chỉ có vài phương trình khá vô hại, được hỗ trợ bằng một Bảng thuật ngữ. Phần mềm là phần sống còn của mọi công việc khoa học dữ liệu và thống kê nhưng không phải trọng tâm của sách; hướng dẫn cho các môi trường miễn phí như R và Python có sẵn ở nhiều nơi.
 
@@ -483,7 +494,9 @@ Phần Giới thiệu kết bằng sáu ý:
 
 ### 6. Lời cảm ơn và mã nguồn (Acknowledgements, trang PDF 12)
 
-Phần lời cảm ơn đứng trước Giới thiệu, nhưng cho thấy vài điều hữu ích về cách cuốn sách được làm. Tác giả kể tên những đồng nghiệp ông "học lỏm" nhiều nhất — Nicky Best, Sheila Bird, David Cox, Philip Dawid, Stephen Evans, Andrew Gelman, Tim Harford, Kevin McConway, Wayne Oldford (đồng tác giả của chu trình PPDAC), Sylvia Richardson, Hetan Shah, Adrian Smith và Chris Wild. Ông thừa nhận cuốn sách mất rất lâu mới xong "hoàn toàn do thói trì hoãn kinh niên" của ông, và cảm ơn biên tập viên Laura Stickney của Penguin đã giữ bình tĩnh qua nhiều tháng, nhiều năm, kể cả khi sách đã xong mà hai bên vẫn chưa thống nhất được tựa đề. Các hình được chuyển thể có phép từ Chris Wild (hình chu trình PPDAC), James Grime, Cath Mercer của khảo sát Natsal, Văn phòng Thống kê Quốc gia Anh, Public Health England, Paul Barden và BBC. Ông tự nhận không phải người lập trình R giỏi; Matthew Pearce và Maria Skoularidou giúp làm phân tích và đồ hoạ. Ông cũng cảm ơn David và Claudia Harding vì hỗ trợ tài chính (theo hiểu biết của người tổng hợp, gia đình Harding là nhà tài trợ của Trung tâm Winton). Ông nhận toàn bộ trách nhiệm về những thiếu sót còn lại của sách.
+Phần lời cảm ơn đứng trước Giới thiệu, nhưng cho thấy vài điều hữu ích về cách cuốn sách được làm. Tác giả kể tên những đồng nghiệp ông "học lỏm" nhiều nhất — Nicky Best, Sheila Bird, David Cox, Philip Dawid, Stephen Evans, Andrew Gelman, Tim Harford, Kevin McConway, Wayne Oldford (đồng tác giả của chu trình PPDAC), Sylvia Richardson, Hetan Shah, Adrian Smith và Chris Wild. Ông thừa nhận cuốn sách mất rất lâu mới xong "hoàn toàn do thói trì hoãn kinh niên" của ông, và cảm ơn biên tập viên Laura Stickney của Penguin đã giữ bình tĩnh qua nhiều tháng, nhiều năm, kể cả khi sách đã xong mà hai bên vẫn chưa thống nhất được tựa đề.
+
+Các hình được chuyển thể có phép từ Chris Wild (hình chu trình PPDAC), James Grime, Cath Mercer của khảo sát Natsal, Văn phòng Thống kê Quốc gia Anh, Public Health England, Paul Barden và BBC. Ông tự nhận không phải người lập trình R giỏi; Matthew Pearce và Maria Skoularidou giúp làm phân tích và đồ hoạ. Ông cũng cảm ơn David và Claudia Harding vì hỗ trợ tài chính (theo hiểu biết của người tổng hợp, gia đình Harding là nhà tài trợ của Trung tâm Winton). Ông nhận toàn bộ trách nhiệm về những thiếu sót còn lại của sách.
 
 Quan trọng hơn với người đọc: **mã R và dữ liệu để tái lập phần lớn các phân tích và hình vẽ trong sách được công bố tại https://github.com/dspiegel29/ArtofStatistics.** Đây là việc tác giả tự thực hành quy tắc cuối cùng mà Chương 14 nêu: phân tích phải tái lập được, người khác phải truy cập được dữ liệu và mã.
 
@@ -532,7 +545,11 @@ Thống kê là khoa học học hỏi về thế giới từ dữ liệu, chứ
 
 ### Trong ngôn ngữ thống kê
 
-Phần Giới thiệu đặt khung phương pháp luận cho cả sách: phân tích dữ liệu khám phá (exploratory data analysis) theo tinh thần của John Tukey — trực quan hoá biến số đơn lẻ và phân phối biên (biểu đồ phân tán kèm biểu đồ cột biên), so sánh phân phối giữa nhóm phơi nhiễm và nhóm đối chứng (giờ chết của bệnh nhân Shipman so với bệnh nhân bác sĩ khác) — trước khi có bất kỳ suy luận chính thức nào. Nó nêu vấn đề đo lường và tính hợp lệ của cấu trúc (construct validity: điểm hạnh phúc đo được bao nhiêu phần "sức khoẻ tinh thần"), độ tin cậy của định nghĩa vận hành (operational definition: DBH, định nghĩa thất nghiệp), ước lượng tổng thể qua lấy mẫu phân tầng theo quần xã kết hợp mô hình, và sai số không lấy mẫu chưa được tính vào khoảng sai số. Về phía suy luận, nó báo trước vấn đề so sánh bội (multiple comparisons) và báo cáo chọn lọc trong "đào bới dữ liệu", vấn đề tái lập (reproducibility) và lặp lại độc lập (replication), và vị trí của thống kê trong khoa học dữ liệu (kết hợp với quản lý dữ liệu, lập trình, kiến thức chuyên môn). Chu trình PPDAC của MacKay và Oldford là một dạng cụ thể của chu trình điều tra thực nghiệm trong mô hình tư duy thống kê của Wild và Pfannkuch.
+Phần Giới thiệu đặt khung phương pháp luận cho cả sách: phân tích dữ liệu khám phá (exploratory data analysis) theo tinh thần của John Tukey — trực quan hoá biến số đơn lẻ và phân phối biên (biểu đồ phân tán kèm biểu đồ cột biên), so sánh phân phối giữa nhóm phơi nhiễm và nhóm đối chứng (giờ chết của bệnh nhân Shipman so với bệnh nhân bác sĩ khác) — trước khi có bất kỳ suy luận chính thức nào.
+
+Nó nêu vấn đề đo lường và tính hợp lệ của cấu trúc (construct validity: điểm hạnh phúc đo được bao nhiêu phần "sức khoẻ tinh thần"), độ tin cậy của định nghĩa vận hành (operational definition: DBH, định nghĩa thất nghiệp), ước lượng tổng thể qua lấy mẫu phân tầng theo quần xã kết hợp mô hình, và sai số không lấy mẫu chưa được tính vào khoảng sai số.
+
+Về phía suy luận, nó báo trước vấn đề so sánh bội (multiple comparisons) và báo cáo chọn lọc trong "đào bới dữ liệu", vấn đề tái lập (reproducibility) và lặp lại độc lập (replication), và vị trí của thống kê trong khoa học dữ liệu (kết hợp với quản lý dữ liệu, lập trình, kiến thức chuyên môn). Chu trình PPDAC của MacKay và Oldford là một dạng cụ thể của chu trình điều tra thực nghiệm trong mô hình tư duy thống kê của Wild và Pfannkuch.
 
 ## Thuật ngữ
 
@@ -617,7 +634,7 @@ Các ví dụ cây, thất nghiệp, GDP, hạnh phúc, cái chết được ch�
 - Phân tích giờ chết so sánh phân phối nhưng không nêu cỡ mẫu của nhóm so sánh hay cách chọn mẫu bệnh nhân của các bác sĩ khác; với mục đích minh hoạ thì đủ, nhưng người đọc không đánh giá được độ dao động ngẫu nhiên của đường so sánh.
 - Kết luận "phần lớn nạn nhân ở tuổi 70 và 80" phản ánh đúng dân số bệnh nhân của một bác sĩ gia đình chăm nhiều người già; sách không so phân phối tuổi nạn nhân với phân phối tuổi của toàn bộ bệnh nhân của Shipman, nên chưa cho biết ông có "chọn" người già hơn mức tự nhiên hay không. Chương 10 xử lý vấn đề này bằng cách so số ca chết thực tế với số ca kỳ vọng theo cơ cấu tuổi.
 - Lịch sử thống kê được kể rất nhanh và lấy mốc xác suất (1650s) làm điểm khởi đầu; theo hiểu biết của người tổng hợp, chỉ ít năm sau đó John Graunt công bố phân tích bảng tử vong London (1662), thường được coi là khởi đầu của thống kê dân số — chi tiết sách không nhắc ở phần này.
-- "Gấp đôi số cây" và "mất 46%" không khớp nhau hoàn toàn (khoảng 1,85 lần), như đã ghi ở khối Lưu ý.
+- "Gấp đôi số cây" và "mất 46%" không khớp nhau hoàn toàn (khoảng 1,85 lần), như đã ghi ở mục Lưu ý cuối bài.
 
 ### Những gì đã thay đổi từ 2019 (theo hiểu biết của người tổng hợp, không tra cứu)
 
@@ -641,3 +658,140 @@ Các ví dụ cây, thất nghiệp, GDP, hạnh phúc, cái chết được ch�
 - **Cho người đọc báo:** khi gặp một con số về thất nghiệp, tăng trưởng, hạnh phúc hay tử vong, hãy hỏi nó được định nghĩa thế nào và định nghĩa đó có thay đổi theo thời gian không; khi gặp tin "nghiên cứu mới cho thấy...", hãy hỏi đó có phải một nghiên cứu đơn lẻ không và đã được lặp lại chưa.
 - **Cho nhà phân tích:** đầu tư thời gian cho khâu Vấn đề và Kế hoạch trước khi lấy dữ liệu; luôn vẽ dữ liệu trước khi lập mô hình; với dữ liệu nhặt được từ hệ thống vận hành, ghi rõ các thay đổi trong cách thu thập theo thời gian; ghi lại mọi phân tích đã thử, không chỉ phân tích cho kết quả đẹp; công bố mã và dữ liệu khi có thể, như tác giả đã làm cho chính cuốn sách.
 - **Cho người làm chính sách:** những thay đổi định nghĩa trong số liệu chính thức (như 31 lần đổi định nghĩa thất nghiệp) phải được công bố minh bạch kèm chuỗi số so sánh được; giám sát dựa trên dữ liệu (như theo dõi tỷ lệ tử vong của bác sĩ) có giá trị, nhưng phải thiết kế để không chìm trong báo động giả — một bài học Chương 10 rút ra từ chính vụ Shipman.
+
+## Bản đồ tư duy
+
+Toàn cảnh phần Giới thiệu trên một trang: năm nhánh lớn đi theo trình tự các mục của bản gốc (vụ Harold Shipman ở phần mở đầu, “Turning the World Into Data”, “Teaching Statistics”, “This Book” cùng lời cảm ơn, “Summary”), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt, nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Giới thiệu: thống kê là khoa học học hỏi về thế giới từ dữ liệu, không phải một túi công cụ toán học`"]
+  n1["`Phần mở đầu (trang PDF 13–18) — vụ Harold Shipman: hai đồ thị đơn giản đủ lộ mẫu hình tội ác`"]
+  n0 --- n1
+  n2["`Lời đề từ của Nate Silver: các con số không tự nói, chúng ta nói thay và gán ý nghĩa cho chúng`"]
+  n1 --- n2
+  n3["`Bác sĩ gia đình Shipman giết ít nhất 215 bệnh nhân trong 1975–1998 bằng liều thuốc phiện cực lớn`"]
+  n1 --- n3
+  n4["`Biểu đồ phân tán tuổi theo năm chết: nạn nhân chủ yếu là phụ nữ 70–90 tuổi`"]
+  n1 --- n4
+  n5["`Số vụ tăng tốc sau khi mở phòng khám riêng năm 1992: khoảng 5 lên khoảng 18 ca mỗi năm (ước lượng từ hình)`"]
+  n1 --- n5
+  n6["`Giờ chết: khoảng 45% số ca trong 13–17 giờ, so với khoảng 16% ở bệnh nhân bác sĩ khác`"]
+  n1 --- n6
+  n7["`Dữ liệu không nói vì sao, điều tra thêm cho thấy ông đi khám tại nhà sau bữa trưa`"]
+  n6 --- n7
+  n8["`Kết luận “inter-ocular”: mẫu hình đập vào giữa hai mắt, không cần phân tích tinh vi`"]
+  n6 --- n8
+  n9["`Tác giả gọi kiểu khảo sát lặp lại, chỉ tìm mẫu hình này là thống kê “điều tra” (forensic)`"]
+  n1 --- n9
+  n10["`Mục “Turning the World Into Data” (trang PDF 18–20) — dữ liệu được dựng từ phán đoán về định nghĩa và đo lường`"]
+  n0 --- n10
+  n11["`Thế nào là một cái cây: đường kính thân ngang ngực ít nhất 10 cm`"]
+  n10 --- n11
+  n12["`Crowther và cộng sự (Nature, 2015) đếm cây theo quần xã, nhân diện tích từ ảnh vệ tinh`"]
+  n11 --- n12
+  n13["`Kết quả 3,04 nghìn tỷ cây (2,94–3,14), 15 tỷ cây bị chặt mỗi năm`"]
+  n11 --- n13
+  n14["`Định nghĩa thất nghiệp ở Anh đổi ít nhất 31 lần trong 1979–1996`"]
+  n10 --- n14
+  n15["`GDP của Anh tính cả ma túy và mại dâm từ năm 2014`"]
+  n10 --- n15
+  n16["`Khảo sát 150.000 người Anh: điểm hạnh phúc trung bình 7,5/10`"]
+  n10 --- n16
+  n17["`Định nghĩa pháp lý về cái chết khác nhau giữa các bang của Mỹ`"]
+  n10 --- n17
+  n18["`Hai giới hạn của dữ liệu: đo không trọn điều ta quan tâm, và biến thiên theo nơi, người, thời điểm`"]
+  n10 --- n18
+  n19["`Thống kê bắt đầu từ Pascal và Fermat những năm 1650, thế kỷ 20 thành “túi công cụ” toán học`"]
+  n10 --- n19
+  n20["`Khoa học dữ liệu và khủng hoảng tái lập thách thức quan niệm túi công cụ`"]
+  n10 --- n20
+  n21["`Dữ liệu nhiều hơn làm tăng phát hiện sai do thiên lệch nguồn và đào bới dữ liệu, nên cần nhiều kỹ năng hơn`"]
+  n10 --- n21
+  n22["`Mục “Teaching Statistics” (trang PDF 20–23) — chu trình PPDAC làm khung cho mọi cuộc điều tra`"]
+  n0 --- n22
+  n23["`Dạy thống kê chuyển từ học kỹ thuật toán sang giải quyết vấn đề thật`"]
+  n22 --- n23
+  n24["`Vấn đề: điều tra luôn bắt đầu bằng một câu hỏi, như mẫu hình án mạng của Shipman`"]
+  n22 --- n24
+  n25["`Kế hoạch: người đếm cây chú ý tỉ mỉ tới định nghĩa và cách đo`"]
+  n22 --- n25
+  n26["`Dữ liệu: cần kỹ năng tổ chức, lập trình và làm sạch dữ liệu thường nhật`"]
+  n22 --- n26
+  n27["`Phân tích: đôi khi chỉ cần một hình trực quan hữu ích`"]
+  n22 --- n27
+  n28["`Kết luận: rút kết luận kèm giới hạn của bằng chứng, truyền đạt rõ, rồi nảy câu hỏi mới`"]
+  n22 --- n28
+  n29["`Mục “This Book” và lời cảm ơn (trang PDF 12, 23–24) — cách tiếp cận của cuốn sách`"]
+  n0 --- n29
+  n30["`Bắt đầu từ câu hỏi thật, chú trọng khái niệm hơn kỹ thuật, gần như không có công thức`"]
+  n29 --- n30
+  n31["`Không dạy phần mềm, dành cho cả sinh viên thống kê lẫn người đọc phổ thông`"]
+  n29 --- n31
+  n32["`Mục tiêu: giúp mọi người dám đặt câu hỏi về những con số họ gặp`"]
+  n29 --- n32
+  n33["`Sáu chương đầu làm việc với dữ liệu chưa cần xác suất, Chương 8–11 mới dựng nền suy luận`"]
+  n29 --- n33
+  n34["`Mã R và dữ liệu để tái lập phần lớn phân tích được công bố trên GitHub`"]
+  n29 --- n34
+  n35["`Mục “Summary” (trang PDF 25) — sáu ý khép phần Giới thiệu`"]
+  n0 --- n35
+  n36["`Biến trải nghiệm thành dữ liệu không đơn giản, dữ liệu tất yếu bị giới hạn`"]
+  n35 --- n36
+  n37["`Thống kê có lịch sử dài, nay thay đổi trước sự gia tăng dữ liệu sẵn có`"]
+  n35 --- n37
+  n38["`Phương pháp thống kê là phần quan trọng của nghề khoa học dữ liệu`"]
+  n35 --- n38
+  n39["`PPDAC: Vấn đề — Kế hoạch — Dữ liệu — Phân tích — Kết luận và truyền đạt`"]
+  n35 --- n39
+  n40["`Năng lực đọc hiểu dữ liệu là kỹ năng then chốt của thế giới hiện đại`"]
+  n35 --- n40
+  n41["`Thông điệp xuyên suốt`"]
+  n0 --- n41
+  n42["`Trước khi tin một con số, hỏi nó được định nghĩa và đo như thế nào`"]
+  n41 --- n42
+  n43["`Nhìn dữ liệu bằng đồ thị trước khi chạy mô hình`"]
+  n41 --- n43
+  n44["`Dữ liệu cho biết cái gì và khi nào tốt hơn nhiều so với vì sao`"]
+  n41 --- n44
+  n45["`Một nghiên cứu đơn lẻ không nên được diễn giải quá mức, hỏi đã có ai lặp lại chưa`"]
+  n41 --- n45
+  class n0 root
+  class n1,n10,n22,n29,n35,n41 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n42,n43,n44,n45 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican, Anh, 3/2019), phần "Introduction" (tiêu đề phụ "Why We Need Statistics"), trang PDF 13–25; tham khảo thêm phần "Acknowledgements" ở trang PDF 12. Ebook không có số trang in, nên vị trí được ghi bằng chỉ số trang PDF.
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê. Ông từng là một trong các nhà thống kê ra làm chứng tại cuộc điều tra công khai về vụ bác sĩ Harold Shipman — ví dụ mở đầu của phần này.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần Giới thiệu đặt mục tiêu và khung cho cả cuốn sách: thống kê được dạy qua các câu hỏi thật, không qua công thức, và mọi cuộc điều tra bằng dữ liệu được nhìn như một vòng **chu trình PPDAC** — Vấn đề (Problem), Kế hoạch (Plan), Dữ liệu (Data), Phân tích (Analysis), Kết luận và truyền đạt (Conclusion). Sau phần này, sách đi theo một trình tự có chủ ý: **sáu chương đầu làm việc với dữ liệu mà chưa cần lý thuyết xác suất.** Chương 1 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md)) bàn về dữ liệu có/không, tỷ lệ phần trăm, rủi ro tương đối và rủi ro tuyệt đối (ca phẫu thuật tim trẻ em ở Bristol, nguy cơ ung thư từ bánh mì kẹp thịt xông khói).
+
+Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) bàn về tóm tắt và vẽ đồ thị cho dữ liệu số (đoán số kẹo trong lọ, số bạn tình người Anh khai báo, bệnh viện đông bệnh nhân hơn có tỷ lệ sống cao hơn không). Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) nêu con đường suy luận quy nạp từ dữ liệu tới mẫu, tới tổng thể nghiên cứu, tới tổng thể mục tiêu. Chương 4 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md)) bàn về quan hệ nhân quả, thử nghiệm ngẫu nhiên có đối chứng và yếu tố gây nhiễu (statin, vì sao ông già có tai to).
+
+Chương 5 ([C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md)) trình bày hồi quy và hiện tượng hồi quy về giá trị trung bình (chiều cao cha con của Galton). Chương 6 ([C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)) trình bày thuật toán phân loại và dự báo (hành khách sống sót trên tàu *Titanic*, lợi ích của điều trị bổ trợ sau phẫu thuật ung thư vú). Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) đưa độ bất định vào ước lượng bằng phương pháp bootstrap (số người thất nghiệp ở Anh).
+
+**Chương 8–11 mới dựng nền xác suất và suy luận chính thức:** Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) về xác suất, bắt đầu từ Pascal và Fermat những năm 1650 mà phần Giới thiệu nhắc tới; Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) về định lý giới hạn trung tâm và khoảng tin cậy; Chương 10 ([C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md)) về kiểm định giả thuyết và giá trị P, trong đó có câu hỏi "lẽ ra có bắt được Shipman sớm hơn không" và hạt Higgs; Chương 11 ([C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md](C11-hoc-tu-kinh-nghiem-theo-cach-bayes.md)) về suy luận Bayes (bộ xương ở bãi đỗ xe Leicester có phải của vua Richard III không).
+
+**Hai chương cuối quay về câu hỏi niềm tin vào con số:** Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)) về khủng hoảng tái lập, thực hành nghiên cứu đáng ngờ và cách truyền thông thổi phồng (có ví dụ về ngoại cảm, ESP); Chương 13 ([C13-lam-thong-ke-tot-hon.md](C13-lam-thong-ke-tot-hon.md)) về việc người tạo ra, người truyền đạt và người nghe có thể làm gì để thống kê được dùng tốt hơn (sàng lọc ung thư buồng trứng). Chương 14 ([C14-ket-luan.md](C14-ket-luan.md)) khép sách bằng mười quy tắc thực hành thống kê hiệu quả. Bảng thuật ngữ cuối sách được tổng hợp ở [PL-bang-thuat-ngu.md](PL-bang-thuat-ngu.md). Phần Giới thiệu còn gieo trước nhiều chủ đề sẽ quay lại: định nghĩa thất nghiệp (Chương 7), đào bới dữ liệu và khủng hoảng tái lập (Chương 10, 12), thuật toán dựa trên dữ liệu lớn (Chương 6).
+
+## Lưu ý
+
+- **Phần này không có bảng; cả ba hình đều là ảnh, và hai đồ thị không ghi số trên cột hay trên điểm.** Số liệu đọc từ Figure 0.1 (biểu đồ phân tán Shipman) và Figure 0.2 (giờ chết trong ngày) trong bản tổng hợp đều là **ước lượng của người tổng hợp** theo vạch chia trục. Riêng biểu đồ cột theo năm ở cạnh trên Figure 0.1 không có trục tung; người tổng hợp quy đổi chiều cao cột ra số nạn nhân bằng cách giả định tổng các cột bằng 215, nên các con số theo năm chỉ là gần đúng (sai số có thể vài ca mỗi năm). Biểu đồ cột tuổi ở cạnh phải Figure 0.1 có các cột không khớp gọn với vạch chia trục tuổi, nên bản tổng hợp chỉ mô tả hình dạng, không gán số cho từng khoảng tuổi.
+- **"Khoảng trống quanh năm 1992" (nhận xét của người tổng hợp):** lời văn nói biểu đồ cột phía trên cho thấy một khoảng trống "quanh năm 1992" không có vụ giết nào. Đọc hình, năm duy nhất không có cột là khoảng 1991; năm 1990 và 1992 mỗi năm chỉ có một cột rất thấp (khoảng 1 ca). Cách nói "quanh năm 1992" vì vậy vẫn chấp nhận được nhưng không chính xác tới từng năm. Ngoài ra không có cột cho khoảng 1976–1977.
+- **"Ban đầu họ đều là người già" (nhận xét của người tổng hợp):** lời văn nói ban đầu nạn nhân đều cao tuổi, những ca trẻ hơn chỉ "len vào" theo thời gian. Hình cho thấy đúng như vậy về xu hướng, nhưng đã có một nữ nạn nhân khoảng 51 tuổi năm 1984 và một nam nạn nhân khoảng 41 tuổi năm 1985; phần lớn các ca dưới 60 tuổi dồn vào 1993–1998.
+- **"Trước đây có gấp đôi số cây" so với chú thích "mất 46%":** lời văn nói các nhà nghiên cứu cho rằng trước kia Trái Đất có gấp đôi 3,04 nghìn tỷ cây; chú thích dấu sao lại nói hành tinh đã mất 46% số cây từ khi bắt đầu nền văn minh. Người tổng hợp kiểm tra: nếu mất 46% thì số cây ban đầu là 3,04 / (1 − 0,46) = 3,04 / 0,54 ≈ 5,63 nghìn tỷ, tức khoảng **1,85 lần** hiện nay — "gấp đôi" là cách làm tròn khá rộng tay. Các phép tính khác trong phần đã được kiểm tra và khớp: khoảng sai số ±0,1 nghìn tỷ cho 2,94–3,14 nghìn tỷ; 5 inch = 12,7 cm; 10 cm ≈ 3,94 inch (sách ghi "4 inches", làm tròn); 15 tỷ cây bị chặt mỗi năm tương đương khoảng 15 / 3.040 ≈ 0,49% số cây hiện có mỗi năm (người tổng hợp tự tính); từ 1951 và 1954 (hai cuốn sách Pelican cũ) tới 2019 là 68 và 65 năm, khớp với "sáu mươi lăm năm" nếu tính từ cuốn của Huff.
+- **Chú thích về nguồn gốc PPDAC (theo hiểu biết của người tổng hợp, không tra cứu):** Notes số 9 ghi chu trình PPDAC "được phát triển" trong bài của MacKay và Oldford năm 2000, đồng thời dẫn bài của Wild và Pfannkuch năm 1999 — tức bài trích dẫn ra đời trước bài được coi là nguồn gốc. Theo hiểu biết của người tổng hợp, MacKay và Oldford đã dùng PPDAC trong tài liệu giảng dạy ở Đại học Waterloo từ những năm 1990, trước khi xuất bản năm 2000; Wild và Pfannkuch dẫn lại từ đó. Đây không phải lỗi nội dung, chỉ là cách ghi nguồn chưa chặt. Hình PPDAC (Figure 0.3) được chuyển thể từ hình của Chris Wild, theo lời cảm ơn ở đầu sách.
+- **Về cái chết của Shipman:** sách viết ông tự sát trong tù "vừa kịp lúc để vợ ông nhận lương hưu". Theo hiểu biết của người tổng hợp, Shipman tự sát tháng 1/2004, một ngày trước sinh nhật 58 tuổi; nếu chết sau tuổi 60 thì vợ ông sẽ mất quyền hưởng một phần lương hưu. Sách không giải thích chi tiết này.
+- **Lớp chữ ebook:** lời văn tốt; chỉ có vài chỗ vỡ dòng ở chữ in nghiêng và các số chú thích nằm lẫn vào câu. Không có chỗ mất chữ ảnh hưởng tới nội dung.
+- **Số liệu nay đã cũ (theo hiểu biết của người tổng hợp, không tra cứu):** điểm hạnh phúc 7,5 là của năm kết thúc tháng 9/2017; các năm sau, đặc biệt trong đại dịch COVID-19 (2020–2021), Văn phòng Thống kê Quốc gia Anh ghi nhận điểm hạnh phúc giảm rồi hồi phục. Chính cụm "big data" được bảng thuật ngữ của sách gọi là "ngày càng lỗi thời"; từ sau 2022 trọng tâm tranh luận chuyển sang trí tuệ nhân tạo tạo sinh và mô hình ngôn ngữ lớn — điều càng làm luận điểm "dữ liệu nhiều hơn đòi hỏi năng lực phê phán nhiều hơn" thêm đúng.

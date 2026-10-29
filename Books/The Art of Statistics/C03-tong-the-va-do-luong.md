@@ -1,19 +1,18 @@
 # Chương 3 — Rốt cuộc ta nhìn vào dữ liệu để làm gì? Tổng thể và đo lường (Why Are We Looking at Data Anyway? Populations and Measurement)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 3 "Why Are We Looking at Data Anyway? Populations and Measurement", trang PDF 65–79 (ebook không có số trang in).
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society).
-**Vị trí trong lập luận của cả cuốn sách:** Phần giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đặt ra "chu trình giải quyết vấn đề" PPDAC (vấn đề, kế hoạch, dữ liệu, phân tích, kết luận) làm khung cho cả cuốn sách. Chương 1 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md)) dùng số liệu phẫu thuật tim trẻ em ở các bệnh viện Anh để bàn cách trình bày tỷ lệ và phần trăm. Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) dạy cách tóm tắt và vẽ một tập dữ liệu (trung bình, trung vị, độ lệch chuẩn, khoảng tứ phân vị), với các ví dụ đoán số kẹo trong lọ và số bạn tình trong khảo sát Natsal. Cả hai chương đó chỉ **mô tả** dữ liệu đang có. Chương 3 là bước ngoặt: nó hỏi dữ liệu ấy cho ta biết gì về **thế giới bên ngoài** — tức chuyển từ mô tả sang **suy luận quy nạp** (inductive inference). Chương này đưa ra sơ đồ bốn bậc (dữ liệu, mẫu, tổng thể nghiên cứu, tổng thể mục tiêu), khái niệm phân phối tổng thể và phân phối chuẩn, và ý tưởng "tổng thể ẩn dụ" khi ta đã có toàn bộ dữ liệu. Chương 4 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md)) tiếp tục với câu hỏi khó hơn: từ dữ liệu, làm sao biết cái gì gây ra cái gì. Hai khái niệm "tổng thể" và "phân phối xác suất của một quan sát ngẫu nhiên" ở chương này là nền cho Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) về ước lượng và khoảng, Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) và Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) về xác suất; danh sách các loại thiên lệch được hẹn lại ở Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)).
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **người ta hiếm khi thu thập dữ liệu chỉ để biết về chính những người đã trả lời; dữ liệu là phương tiện để nói điều gì đó về một tổng thể lớn hơn, và con đường từ dữ liệu tới tổng thể đó đi qua bốn bậc — dữ liệu thô, mẫu, tổng thể nghiên cứu, tổng thể mục tiêu — mà ở bậc nào cũng có thể xảy ra sai lệch. Đi từ cái riêng tới cái chung là suy luận quy nạp, vốn luôn bất định; nhiệm vụ của khoa học thống kê là giúp đi qua các bậc đó một cách có kỷ luật và nói rõ, với sự khiêm tốn cần thiết, điều gì học được và điều gì không.** Phần mở đầu lấy khảo sát Natsal về số bạn tình ở Anh làm ví dụ cho chuỗi bốn bậc. Mục "Learning from Data" phân biệt suy diễn (chắc chắn về logic) với quy nạp (bất định), rồi đi qua từng bước: từ dữ liệu tới mẫu là vấn đề **đo lường**, đòi hỏi số đo vừa **tin cậy** (lặp lại cho kết quả gần nhau) vừa **hợp lệ** (đo đúng thứ cần đo, không thiên lệch có hệ thống) — các ví dụ là khảo sát hài lòng của Ryanair chỉ cho phép câu trả lời tích cực (92% hài lòng), câu hỏi về quyền bầu cử ở tuổi 16 đảo chiều theo cách diễn đạt (52% ủng hộ so với 37% ủng hộ), và hiệu ứng mồi làm tỷ lệ thanh niên cô đơn tăng từ khoảng 10% lên 42%; từ mẫu tới tổng thể nghiên cứu là vấn đề **giá trị nội tại của nghiên cứu**, và cách tốt nhất để tránh thiên lệch là **lấy mẫu ngẫu nhiên** — ví dụ nồi súp của Gallup, xổ số quân dịch Việt Nam 1969 bị trộn không đều (26/31 ngày sinh tháng Mười Hai bị gọi, so với 14 ngày tháng Giêng), và các hãng thăm dò thất bại ở bầu cử Anh 2015 dù hỏi hàng nghìn người; từ tổng thể nghiên cứu tới tổng thể mục tiêu là vấn đề **giá trị bên ngoài** (thí nghiệm trên chuột, thử thuốc chỉ trên nam giới). Mục "When We Have All the Data" cho thấy có toàn bộ dữ liệu hành chính không giải quyết hết vấn đề: số tội phạm do cảnh sát ghi nhận tăng 13% trong khi khảo sát tội phạm ước tính giảm 9% (2016–2017), và số tội phạm tình dục ghi nhận gần tăng gấp đôi (64.000 lên 121.000) chỉ vì thay đổi cách ghi. Mục "The 'Bell-Shaped Curve'" giới thiệu **phân phối tổng thể** qua cân nặng sơ sinh của hơn một triệu trẻ ở Mỹ năm 2013, xấp xỉ bằng **phân phối chuẩn** với trung bình 3.480 g và độ lệch chuẩn 462 g: một bé nặng 2.910 g có **điểm Z** khoảng −1,2 và nằm ở **bách phân vị** thứ 11; điểm then chốt là một diện tích dưới đường cong vừa là **tỷ lệ** trong tổng thể vừa là **xác suất** cho một cá thể chọn ngẫu nhiên. Mục "What Is the Population?" phân biệt ba loại tổng thể — **thực** (literal), **ảo** (virtual, mọi phép đo có thể lặp lại bằng một thiết bị) và **ẩn dụ** (metaphorical, khi đã có toàn bộ dữ liệu, ta coi những gì xảy ra là một lần rút từ không gian các khả năng có thể đã xảy ra).
+## Ý chính
 
-> **Lưu ý:**
-> - **Lỗi đánh máy về cân nặng của bé (trang PDF 74):** lời văn viết cân nặng của bé "được đánh dấu bằng một đường ở 2,190 grams", nhưng chính đề bài (6 lb 7 oz, 2,91 kg), chú thích của Figure 3.2 ("A baby weighing 2,910g") và mọi phép tính sau đó đều dùng **2.910 g**. Con số 2.190 là lỗi đảo chữ số; bản tổng hợp dùng 2.910 g.
-> - **"99,8% trong khoảng ± ba độ lệch chuẩn" chưa chính xác (trang PDF 76):** với phân phối chuẩn, tỷ lệ nằm trong khoảng trung bình ± 3 độ lệch chuẩn là 99,73%, thường làm tròn thành 99,7% (nhận xét của người tổng hợp). Con số "khoảng 95%" cho ± 2 độ lệch chuẩn thì đúng (chính xác là 95,45%).
-> - **"Khớp sát" giữa dự đoán 1,7% và thực tế 1,3% chỉ đúng theo nghĩa tuyệt đối (nhận xét của người tổng hợp):** đường cong chuẩn dự đoán 1,7% trẻ nhẹ cân, tức khoảng 0,017 × 1.096.277 ≈ 18.600 bé, trong khi thực tế là 14.170 bé (1,29%). Chênh lệch chỉ 0,4 điểm phần trăm, nhưng tính tương đối thì đường cong chuẩn dự đoán thừa khoảng 30%. Đuôi trái của phân phối cân nặng thật mỏng hơn đuôi của đường cong chuẩn; điều này đáng nhớ khi dùng phân phối chuẩn để ước tính những biến cố hiếm ở đuôi.
-> - **Các phép tính đã tự kiểm tra lại:** điểm Z = (2.910 − 3.480) / 462 = −570 / 462 = −1,23 (sách: "khoảng −1,2"); tỷ lệ dưới 2.910 g theo đường cong chuẩn = 10,9% (sách: bách phân vị thứ 11); tứ phân vị = 3.480 ± 0,6745 × 462 = 3.480 ± 312, tức 3.168 g và 3.792 g (sách: 3.167 g và 3.791 g, khoảng tứ phân vị 624 g; người tổng hợp tính ra 623 g — chênh do làm tròn); tỷ lệ dưới 2.500 g: Z = (2.500 − 3.480) / 462 = −2,12, tỷ lệ 1,7%, đúng; 14.170 / 1.096.277 = 1,29%, đúng với "1,3%"; số tội phạm tình dục 121.000 / 64.000 = 1,89 lần, đúng với "gần gấp đôi"; 3.480 g = 7,67 lb ≈ 7 lb 11 oz và 462 g ≈ 1,02 lb, đúng; 2,91 kg ≈ 6 lb 6,6 oz ≈ 6 lb 7 oz, đúng.
-> - **Hình không ghi số:** Figure 3.2(a) là biểu đồ cột (histogram) không ghi số trên cột; tỷ lệ của từng nhóm 500 g trong bản tổng hợp là **ước lượng của người tổng hợp** đọc từ chiều cao cột, đối chiếu với tỷ lệ tính theo đường cong chuẩn. Các vị trí bách phân vị 1%, 5%, 95%, 99% trong Figure 3.2(c) không được sách ghi bằng gam; con số gam trong bản tổng hợp do người tổng hợp tính từ trung bình 3.480 g và độ lệch chuẩn 462 g.
-> - **Lớp chữ và footnote:** trang PDF 68 trống; Figure 3.1 (sơ đồ bốn ô) là ảnh ở trang PDF 69, chú thích hình ở trang PDF 70. Danh sách footnote cuối file bundle bị lệch: chỉ hai footnote đầu (Gauss; cách theo dõi bách phân vị) thuộc chương này, bốn footnote sau (statin, thử nghiệm, kinh phí, Galton) thuộc Chương 4–5. Đối chiếu với danh sách footnote toàn sách, chương này có sáu footnote dấu sao: thí nghiệm máy phát hiện nói dối (trang PDF 66), câu trả lời của Ryanair (trang PDF 71), phân biệt "sortition" với "sortilege" và câu Kinh Thánh Luca 23:34 (trang PDF 71), cách Gauss suy ra phân phối chuẩn (trang PDF 74), và cách theo dõi bách phân vị cân nặng (trang PDF 76). Cả sáu đều được đưa vào phần Nội dung chi tiết.
-> - **Vài lỗi chữ nhỏ trong bản gốc:** "recording weights" trong chú thích Figure 3.2 (đúng ra "recorded weights"); "whether it the will of a god" (thiếu "is"); "from the all the possible things" (thừa "the"). Không ảnh hưởng nội dung.
-> - **Xổ số quân dịch 1969:** sách chỉ nêu 26/31 ngày tháng Mười Hai và 14/31 ngày tháng Giêng "bị gọi" mà không nói ngưỡng gọi. Theo hiểu biết của người tổng hợp (không tra cứu), lần xổ số đó gọi tới số thứ tự 195 trên 366; nếu trộn đều, mỗi tháng 31 ngày kỳ vọng có khoảng 31 × 195 / 366 ≈ 16,5 ngày bị gọi, nên 14 của tháng Giêng gần mức kỳ vọng còn 26 của tháng Mười Hai cao hơn hẳn.
+Spiegelhalter muốn người đọc hiểu rằng **người ta hiếm khi thu thập dữ liệu chỉ để biết về chính những người đã trả lời; dữ liệu là phương tiện để nói điều gì đó về một tổng thể lớn hơn, và con đường từ dữ liệu tới tổng thể đó đi qua bốn bậc — dữ liệu thô, mẫu, tổng thể nghiên cứu, tổng thể mục tiêu — mà ở bậc nào cũng có thể xảy ra sai lệch. Đi từ cái riêng tới cái chung là suy luận quy nạp, vốn luôn bất định; nhiệm vụ của khoa học thống kê là giúp đi qua các bậc đó một cách có kỷ luật và nói rõ, với sự khiêm tốn cần thiết, điều gì học được và điều gì không.**
+
+Phần mở đầu lấy khảo sát Natsal về số bạn tình ở Anh làm ví dụ cho chuỗi bốn bậc.
+
+Mục "Learning from Data" phân biệt suy diễn (chắc chắn về logic) với quy nạp (bất định), rồi đi qua từng bước: từ dữ liệu tới mẫu là vấn đề **đo lường**, đòi hỏi số đo vừa **tin cậy** (lặp lại cho kết quả gần nhau) vừa **hợp lệ** (đo đúng thứ cần đo, không thiên lệch có hệ thống) — các ví dụ là khảo sát hài lòng của Ryanair chỉ cho phép câu trả lời tích cực (92% hài lòng), câu hỏi về quyền bầu cử ở tuổi 16 đảo chiều theo cách diễn đạt (52% ủng hộ so với 37% ủng hộ), và hiệu ứng mồi làm tỷ lệ thanh niên cô đơn tăng từ khoảng 10% lên 42%; từ mẫu tới tổng thể nghiên cứu là vấn đề **giá trị nội tại của nghiên cứu**, và cách tốt nhất để tránh thiên lệch là **lấy mẫu ngẫu nhiên** — ví dụ nồi súp của Gallup, xổ số quân dịch Việt Nam 1969 bị trộn không đều (26/31 ngày sinh tháng Mười Hai bị gọi, so với 14 ngày tháng Giêng), và các hãng thăm dò thất bại ở bầu cử Anh 2015 dù hỏi hàng nghìn người; từ tổng thể nghiên cứu tới tổng thể mục tiêu là vấn đề **giá trị bên ngoài** (thí nghiệm trên chuột, thử thuốc chỉ trên nam giới).
+
+Mục "When We Have All the Data" cho thấy có toàn bộ dữ liệu hành chính không giải quyết hết vấn đề: số tội phạm do cảnh sát ghi nhận tăng 13% trong khi khảo sát tội phạm ước tính giảm 9% (2016–2017), và số tội phạm tình dục ghi nhận gần tăng gấp đôi (64.000 lên 121.000) chỉ vì thay đổi cách ghi.
+
+Mục "The 'Bell-Shaped Curve'" giới thiệu **phân phối tổng thể** qua cân nặng sơ sinh của hơn một triệu trẻ ở Mỹ năm 2013, xấp xỉ bằng **phân phối chuẩn** với trung bình 3.480 g và độ lệch chuẩn 462 g: một bé nặng 2.910 g có **điểm Z** khoảng −1,2 và nằm ở **bách phân vị** thứ 11; điểm then chốt là một diện tích dưới đường cong vừa là **tỷ lệ** trong tổng thể vừa là **xác suất** cho một cá thể chọn ngẫu nhiên.
+
+Mục "What Is the Population?" phân biệt ba loại tổng thể — **thực** (literal), **ảo** (virtual, mọi phép đo có thể lặp lại bằng một thiết bị) và **ẩn dụ** (metaphorical, khi đã có toàn bộ dữ liệu, ta coi những gì xảy ra là một lần rút từ không gian các khả năng có thể đã xảy ra).
 
 ## Sơ đồ
 
@@ -277,7 +276,9 @@
 
 ### 1. Người Anh thực sự có bao nhiêu bạn tình? (phần mở đầu chương, trang PDF 65–66)
 
-Chương trước đã cho thấy những kết quả đáng chú ý của một khảo sát gần đây ở Anh — Khảo sát Quốc gia về Thái độ và Lối sống Tình dục (Natsal) — trong đó người tham gia khai số bạn tình trong đời. Vẽ các câu trả lời ra thì thấy nhiều đặc điểm: một cái đuôi (rất) dài, xu hướng dùng số tròn như 10 và 20, và nam giới khai nhiều bạn tình hơn nữ giới. Nhưng các nhà nghiên cứu đã chi hàng triệu bảng Anh để thu thập dữ liệu này không thực sự quan tâm đến điều những người trả lời cụ thể ấy nói — dù sao thì họ cũng được bảo đảm ẩn danh tuyệt đối. Câu trả lời của họ là phương tiện để đạt mục đích: nói điều gì đó về khuôn mẫu chung của quan hệ tình dục ở Anh, tức về hàng triệu người *không* được hỏi.
+Chương trước đã cho thấy những kết quả đáng chú ý của một khảo sát gần đây ở Anh — Khảo sát Quốc gia về Thái độ và Lối sống Tình dục (Natsal) — trong đó người tham gia khai số bạn tình trong đời. Vẽ các câu trả lời ra thì thấy nhiều đặc điểm: một cái đuôi (rất) dài, xu hướng dùng số tròn như 10 và 20, và nam giới khai nhiều bạn tình hơn nữ giới.
+
+Nhưng các nhà nghiên cứu đã chi hàng triệu bảng Anh để thu thập dữ liệu này không thực sự quan tâm đến điều những người trả lời cụ thể ấy nói — dù sao thì họ cũng được bảo đảm ẩn danh tuyệt đối. Câu trả lời của họ là phương tiện để đạt mục đích: nói điều gì đó về khuôn mẫu chung của quan hệ tình dục ở Anh, tức về hàng triệu người *không* được hỏi.
 
 Đi từ những câu trả lời thực tế thu được trong khảo sát tới kết luận về cả nước Anh không phải chuyện đơn giản. Spiegelhalter tự sửa ngay: thật ra thì rất dễ — chỉ cần tuyên bố rằng điều những người trả lời nói phản ánh chính xác điều đang diễn ra trong cả nước. Các "khảo sát" về tình dục của báo chí, nơi người ta tự nguyện điền vào biểu mẫu trên mạng về điều họ *nói* là mình làm sau cánh cửa đóng, vẫn làm như vậy suốt.
 
@@ -290,7 +291,9 @@ Quá trình đi từ câu trả lời thô tới tuyên bố về hành vi của
 
 Mắt xích yếu nhất của chuỗi lập luận này ở đâu?
 
-**Từ dữ liệu thô (bậc 1) tới sự thật về mẫu (bậc 2)** đòi hỏi những giả định mạnh về độ chính xác của người trả lời khi họ khai số bạn tình, và có nhiều lý do để nghi ngờ. Đã thấy xu hướng nam giới khai thừa và nữ giới khai thiếu, có thể vì phụ nữ không tính những mối quan hệ họ muốn quên, vì xu hướng làm tròn lên hoặc làm tròn xuống khác nhau, vì trí nhớ kém, và vì thiên lệch đơn giản do muốn được xã hội chấp nhận. Chú thích của tác giả nêu một bằng chứng cho thiên lệch này: trong một thí nghiệm ngẫu nhiên trên sinh viên Mỹ, những nữ sinh viên được nối với máy phát hiện nói dối có xu hướng thừa nhận nhiều bạn tình hơn những người được bảo đảm ẩn danh, còn ở nam giới không thấy hiệu ứng đó. Người tham gia không được cho biết máy phát hiện nói dối là đồ giả.
+**Từ dữ liệu thô (bậc 1) tới sự thật về mẫu (bậc 2)** đòi hỏi những giả định mạnh về độ chính xác của người trả lời khi họ khai số bạn tình, và có nhiều lý do để nghi ngờ. Đã thấy xu hướng nam giới khai thừa và nữ giới khai thiếu, có thể vì phụ nữ không tính những mối quan hệ họ muốn quên, vì xu hướng làm tròn lên hoặc làm tròn xuống khác nhau, vì trí nhớ kém, và vì thiên lệch đơn giản do muốn được xã hội chấp nhận.
+
+Chú thích của tác giả nêu một bằng chứng cho thiên lệch này: trong một thí nghiệm ngẫu nhiên trên sinh viên Mỹ, những nữ sinh viên được nối với máy phát hiện nói dối có xu hướng thừa nhận nhiều bạn tình hơn những người được bảo đảm ẩn danh, còn ở nam giới không thấy hiệu ứng đó. Người tham gia không được cho biết máy phát hiện nói dối là đồ giả.
 
 **Từ mẫu (bậc 2) tới tổng thể nghiên cứu (bậc 3)** có lẽ là bước khó nhất. Trước hết cần tin rằng những người được mời tham gia là một mẫu ngẫu nhiên từ những người đủ điều kiện; với một nghiên cứu tổ chức tốt như Natsal thì điều này ổn. Nhưng còn phải giả định rằng những người thực sự *đồng ý* tham gia là đại diện, và điều đó khó hơn. Các đợt khảo sát có tỷ lệ trả lời khoảng 66%, rất tốt so với tính chất của câu hỏi. Tuy vậy, có bằng chứng cho thấy tỷ lệ tham gia hơi thấp hơn ở những người ít hoạt động tình dục, có thể được bù lại phần nào bởi việc khó phỏng vấn được những thành viên khác thường hơn của xã hội.
 
@@ -308,7 +311,9 @@ Nhưng câu hỏi thường vượt ra ngoài việc mô tả: ta muốn học �
 
 #### Suy diễn và quy nạp
 
-Nhiều người có ý niệm mơ hồ về **suy diễn** nhờ Sherlock Holmes, khi ông bình thản tuyên bố một nghi phạm hẳn đã gây án. Trong đời thực, suy diễn là quá trình dùng các quy tắc logic lạnh lùng để đi từ tiền đề chung tới kết luận riêng. Nếu luật của một nước quy định xe phải chạy bên phải, ta suy ra rằng trong bất kỳ lần lái cụ thể nào cũng nên chạy bên phải. **Quy nạp** đi theo chiều ngược lại: lấy các trường hợp riêng và cố tìm ra kết luận chung. Ví dụ, giả sử ta không biết phong tục của một cộng đồng về việc hôn má bạn nữ, và phải tự tìm hiểu bằng cách quan sát người ta hôn một lần, hai lần, ba lần hay không hôn. Khác biệt then chốt là suy diễn chắc chắn về mặt logic, còn quy nạp nói chung là bất định.
+Nhiều người có ý niệm mơ hồ về **suy diễn** nhờ Sherlock Holmes, khi ông bình thản tuyên bố một nghi phạm hẳn đã gây án. Trong đời thực, suy diễn là quá trình dùng các quy tắc logic lạnh lùng để đi từ tiền đề chung tới kết luận riêng. Nếu luật của một nước quy định xe phải chạy bên phải, ta suy ra rằng trong bất kỳ lần lái cụ thể nào cũng nên chạy bên phải. **Quy nạp** đi theo chiều ngược lại: lấy các trường hợp riêng và cố tìm ra kết luận chung.
+
+Ví dụ, giả sử ta không biết phong tục của một cộng đồng về việc hôn má bạn nữ, và phải tự tìm hiểu bằng cách quan sát người ta hôn một lần, hai lần, ba lần hay không hôn. Khác biệt then chốt là suy diễn chắc chắn về mặt logic, còn quy nạp nói chung là bất định.
 
 #### Sơ đồ bốn bậc của suy luận quy nạp
 
@@ -340,7 +345,9 @@ Lý tưởng nhất là đi thẳng từ dữ liệu thô tới tuyên bố chun
 
 Ví dụ, độ tin cậy của khảo sát tình dục phụ thuộc vào việc người ta trả lời giống hoặc gần giống nhau cho cùng một câu hỏi mỗi lần được hỏi, và điều này không được phụ thuộc vào phong cách người phỏng vấn hay tâm trạng, trí nhớ thất thường của người trả lời. Có thể kiểm tra phần nào bằng cách hỏi một số câu ở cả đầu và cuối buổi phỏng vấn. Chất lượng khảo sát còn đòi hỏi người được hỏi trung thực khi khai hoạt động tình dục, không phóng đại hay giảm nhẹ một cách có hệ thống. Đây đều là những đòi hỏi khá cao.
 
-**Câu hỏi thiên về một đáp án.** Khảo sát sẽ không hợp lệ nếu câu hỏi thiên về một câu trả lời nhất định. Năm 2017, hãng hàng không giá rẻ Ryanair công bố 92% hành khách hài lòng với chuyến bay. Hoá ra khảo sát hài lòng của họ chỉ cho phép các đáp án "Xuất sắc, rất tốt, tốt, khá, tạm được" (Excellent, very good, good, fair, OK) — không có lựa chọn nào tiêu cực. Chú thích của tác giả kể tiếp: sau khi một người của Hội Thống kê Hoàng gia phê phán phương pháp khảo sát, người phát ngôn của ông chủ Ryanair Michael O'Leary đáp: "Chín mươi lăm phần trăm khách của Ryanair chưa từng nghe tới Hội Thống kê Hoàng gia, 97 phần trăm không quan tâm họ nói gì và 100 phần trăm nói rằng có vẻ người của hội cần đặt một kỳ nghỉ giá rẻ với Ryanair." Trong một khảo sát khác cùng thời, Ryanair bị xếp cuối trong 20 hãng hàng không châu Âu — nhưng khảo sát này cũng có vấn đề về độ tin cậy, vì được thực hiện đúng lúc Ryanair vừa huỷ rất nhiều chuyến bay.
+**Câu hỏi thiên về một đáp án.** Khảo sát sẽ không hợp lệ nếu câu hỏi thiên về một câu trả lời nhất định. Năm 2017, hãng hàng không giá rẻ Ryanair công bố 92% hành khách hài lòng với chuyến bay. Hoá ra khảo sát hài lòng của họ chỉ cho phép các đáp án "Xuất sắc, rất tốt, tốt, khá, tạm được" (Excellent, very good, good, fair, OK) — không có lựa chọn nào tiêu cực.
+
+Chú thích của tác giả kể tiếp: sau khi một người của Hội Thống kê Hoàng gia phê phán phương pháp khảo sát, người phát ngôn của ông chủ Ryanair Michael O'Leary đáp: "Chín mươi lăm phần trăm khách của Ryanair chưa từng nghe tới Hội Thống kê Hoàng gia, 97 phần trăm không quan tâm họ nói gì và 100 phần trăm nói rằng có vẻ người của hội cần đặt một kỳ nghỉ giá rẻ với Ryanair." Trong một khảo sát khác cùng thời, Ryanair bị xếp cuối trong 20 hãng hàng không châu Âu — nhưng khảo sát này cũng có vấn đề về độ tin cậy, vì được thực hiện đúng lúc Ryanair vừa huỷ rất nhiều chuyến bay.
 
 **Cách đặt vấn đề của câu hỏi.** Chương 1 đã cho thấy cách trình bày con số theo hướng tích cực hay tiêu cực ảnh hưởng tới ấn tượng của người đọc; tương tự, cách đặt câu hỏi ảnh hưởng tới câu trả lời. Một khảo sát ở Anh năm 2015 (của Ipsos MORI) hỏi người dân ủng hộ hay phản đối việc "trao cho người 16 và 17 tuổi quyền bầu cử" trong cuộc trưng cầu dân ý về việc rời Liên minh châu Âu:
 
@@ -351,17 +358,23 @@ Ví dụ, độ tin cậy của khảo sát tình dục phụ thuộc vào việ
 
 Hai câu hỏi tương đương về logic. Khi được diễn đạt bằng ngôn ngữ công nhận quyền và trao quyền cho người trẻ, đa số ủng hộ; khi được diễn đạt như một sự nới lỏng có rủi ro, đa số phản đối — dư luận đảo chiều chỉ vì đổi cách viết câu hỏi.
 
-**Hiệu ứng mồi.** Câu trả lời còn có thể bị ảnh hưởng bởi những gì đã được hỏi trước đó, gọi là hiệu ứng mồi (priming). Các khảo sát chính thức về phúc lợi ước tính khoảng 10% người trẻ ở Anh tự thấy mình cô đơn, nhưng một bảng hỏi trực tuyến của BBC lại cho tỷ lệ cao hơn nhiều, 42%, trong số những người chọn trả lời. Con số này có thể bị thổi phồng bởi hai yếu tố: "khảo sát" mang tính tự nguyện và tự khai; và câu hỏi về cô đơn được đặt sau một loạt dài câu hỏi xem người trả lời nói chung có thấy thiếu bạn bè, bị cô lập, bị bỏ rơi, v.v. hay không — tất cả đều có thể "mồi" họ trả lời "có" cho câu hỏi then chốt về cảm giác cô đơn. (Theo chú thích của tác giả, ví dụ này được chương trình *More or Less* của BBC đưa tin ngày 5/10/2018. Minh hoạ kinh điển của hiệu ứng mồi là cảnh trong phim hài Anh *Yes, Prime Minister*, khi viên chức cấp cao Sir Humphrey Appleby chỉ ra rằng một chuỗi câu hỏi dẫn dắt phù hợp có thể cho ra bất kỳ câu trả lời nào mong muốn; đoạn phim này nay được dùng để dạy phương pháp nghiên cứu.)
+**Hiệu ứng mồi.** Câu trả lời còn có thể bị ảnh hưởng bởi những gì đã được hỏi trước đó, gọi là hiệu ứng mồi (priming). Các khảo sát chính thức về phúc lợi ước tính khoảng 10% người trẻ ở Anh tự thấy mình cô đơn, nhưng một bảng hỏi trực tuyến của BBC lại cho tỷ lệ cao hơn nhiều, 42%, trong số những người chọn trả lời. Con số này có thể bị thổi phồng bởi hai yếu tố: "khảo sát" mang tính tự nguyện và tự khai; và câu hỏi về cô đơn được đặt sau một loạt dài câu hỏi xem người trả lời nói chung có thấy thiếu bạn bè, bị cô lập, bị bỏ rơi, v.v. hay không — tất cả đều có thể "mồi" họ trả lời "có" cho câu hỏi then chốt về cảm giác cô đơn.
+
+(Theo chú thích của tác giả, ví dụ này được chương trình *More or Less* của BBC đưa tin ngày 5/10/2018. Minh hoạ kinh điển của hiệu ứng mồi là cảnh trong phim hài Anh *Yes, Prime Minister*, khi viên chức cấp cao Sir Humphrey Appleby chỉ ra rằng một chuỗi câu hỏi dẫn dắt phù hợp có thể cho ra bất kỳ câu trả lời nào mong muốn; đoạn phim này nay được dùng để dạy phương pháp nghiên cứu.)
 
 #### Từ mẫu (bậc 2) tới tổng thể nghiên cứu (bậc 3): giá trị nội tại và lấy mẫu ngẫu nhiên
 
 Bước này phụ thuộc vào chất lượng căn bản của nghiên cứu, còn gọi là **giá trị nội tại** (internal validity): mẫu quan sát được có phản ánh chính xác điều đang diễn ra trong nhóm ta thực sự nghiên cứu không? Đây là nơi xuất hiện cách then chốt để **tránh thiên lệch: lấy mẫu ngẫu nhiên**.
 
-Ngay cả trẻ con cũng hiểu chọn ngẫu nhiên là gì: nhắm mắt thò tay vào túi kẹo lẫn lộn xem ra kẹo màu gì, hay rút một con số từ cái mũ xem ai được (hay không được) giải. Chọn ngẫu nhiên đã được dùng hàng nghìn năm để bảo đảm công bằng và công lý, khi đó nó được gọi là **bốc thăm** (sortition). Chú thích của tác giả lưu ý không nhầm với *sortilege* — một hình thức bói toán dùng các hiện tượng tưởng như ngẫu nhiên để xác định ý thần linh hay vận mệnh, còn gọi là *cleromancy*; có ví dụ ở nhiều nền văn hoá, như bói bằng lá trà hay ruột gà, việc bốc thăm trong Kinh Thánh để biết ý Chúa, và bói theo Kinh Dịch. Bốc thăm đã được dùng để chia phần thưởng (chú thích dẫn Kinh Thánh, Luca 23:34: "Bấy giờ Đức Giêsu nói: Lạy Cha, xin tha cho họ, vì họ không biết việc họ làm. Rồi họ bắt thăm chia nhau áo của Người"), tổ chức xổ số, bổ nhiệm người có quyền như quan chức và bồi thẩm. Nó cũng gắn với những việc nặng nề hơn, như chọn thanh niên nào phải ra trận, hay chọn ai bị ăn thịt trên chiếc xuồng cứu sinh lạc giữa biển.
+Ngay cả trẻ con cũng hiểu chọn ngẫu nhiên là gì: nhắm mắt thò tay vào túi kẹo lẫn lộn xem ra kẹo màu gì, hay rút một con số từ cái mũ xem ai được (hay không được) giải. Chọn ngẫu nhiên đã được dùng hàng nghìn năm để bảo đảm công bằng và công lý, khi đó nó được gọi là **bốc thăm** (sortition). Chú thích của tác giả lưu ý không nhầm với *sortilege* — một hình thức bói toán dùng các hiện tượng tưởng như ngẫu nhiên để xác định ý thần linh hay vận mệnh, còn gọi là *cleromancy*; có ví dụ ở nhiều nền văn hoá, như bói bằng lá trà hay ruột gà, việc bốc thăm trong Kinh Thánh để biết ý Chúa, và bói theo Kinh Dịch.
+
+Bốc thăm đã được dùng để chia phần thưởng (chú thích dẫn Kinh Thánh, Luca 23:34: "Bấy giờ Đức Giêsu nói: Lạy Cha, xin tha cho họ, vì họ không biết việc họ làm. Rồi họ bắt thăm chia nhau áo của Người"), tổ chức xổ số, bổ nhiệm người có quyền như quan chức và bồi thẩm. Nó cũng gắn với những việc nặng nề hơn, như chọn thanh niên nào phải ra trận, hay chọn ai bị ăn thịt trên chiếc xuồng cứu sinh lạc giữa biển.
 
 George Gallup, người về cơ bản đã sáng tạo ra thăm dò dư luận vào thập niên 1930, đưa ra một so sánh hay về giá trị của lấy mẫu ngẫu nhiên: nếu bạn nấu một nồi súp lớn, bạn không cần ăn hết để biết có cần nêm thêm không. Chỉ cần nếm một thìa, *miễn là đã khuấy đều*.
 
-**Xổ số quân dịch Việt Nam năm 1969** là minh chứng theo đúng nghĩa đen cho ý này. Cuộc xổ số phải tạo ra một danh sách có thứ tự các ngày sinh; những người đàn ông có ngày sinh đứng đầu danh sách sẽ bị gọi nhập ngũ sang Việt Nam trước, rồi lần lượt xuống dưới. Để công khai bảo đảm công bằng, người ta chuẩn bị 366 viên nang, mỗi viên chứa một ngày sinh khác nhau, định bốc ngẫu nhiên từ một cái hộp. Nhưng các viên nang được bỏ vào hộp theo thứ tự tháng sinh và không được trộn kỹ. Lẽ ra chuyện này chưa chắc đã gây hậu quả nếu người bốc thò tay sâu xuống đáy hộp, nhưng như một đoạn video đáng chú ý cho thấy, họ có xu hướng bốc từ trên xuống. Kết quả là sinh vào cuối năm thì xui: 26 trong 31 ngày sinh của tháng Mười Hai rơi vào diện bị gọi, so với chỉ 14 ngày của tháng Giêng. (Ước tính của người tổng hợp, dựa trên hiểu biết riêng rằng lần đó gọi tới số thứ tự 195 trên 366: nếu trộn đều, mỗi tháng 31 ngày kỳ vọng có khoảng 31 × 195 / 366 ≈ 16,5 ngày bị gọi.)
+**Xổ số quân dịch Việt Nam năm 1969** là minh chứng theo đúng nghĩa đen cho ý này. Cuộc xổ số phải tạo ra một danh sách có thứ tự các ngày sinh; những người đàn ông có ngày sinh đứng đầu danh sách sẽ bị gọi nhập ngũ sang Việt Nam trước, rồi lần lượt xuống dưới. Để công khai bảo đảm công bằng, người ta chuẩn bị 366 viên nang, mỗi viên chứa một ngày sinh khác nhau, định bốc ngẫu nhiên từ một cái hộp.
+
+Nhưng các viên nang được bỏ vào hộp theo thứ tự tháng sinh và không được trộn kỹ. Lẽ ra chuyện này chưa chắc đã gây hậu quả nếu người bốc thò tay sâu xuống đáy hộp, nhưng như một đoạn video đáng chú ý cho thấy, họ có xu hướng bốc từ trên xuống. Kết quả là sinh vào cuối năm thì xui: 26 trong 31 ngày sinh của tháng Mười Hai rơi vào diện bị gọi, so với chỉ 14 ngày của tháng Giêng. (Ước tính của người tổng hợp, dựa trên hiểu biết riêng rằng lần đó gọi tới số thứ tự 195 trên 366: nếu trộn đều, mỗi tháng 31 ngày kỳ vọng có khoảng 31 × 195 / 366 ≈ 16,5 ngày bị gọi.)
 
 Ý tưởng "khuấy đều" là then chốt: muốn khái quát hoá từ mẫu sang tổng thể, phải bảo đảm mẫu là **đại diện**. Chỉ có thật nhiều dữ liệu không đảm bảo có một mẫu tốt, thậm chí còn có thể tạo cảm giác yên tâm giả. Ví dụ, các công ty thăm dò dư luận đã thất bại thảm hại trong cuộc tổng tuyển cử Anh năm 2015, dù đã hỏi hàng nghìn cử tri tiềm năng. Một cuộc điều tra sau đó quy lỗi cho việc lấy mẫu không đại diện, đặc biệt là thăm dò qua điện thoại: không chỉ phần lớn số được gọi là điện thoại cố định, mà dưới 10% số người được gọi thực sự trả lời. Khó mà coi đó là một mẫu đại diện.
 
@@ -377,9 +390,13 @@ Dù các ý tưởng học từ dữ liệu được minh hoạ gọn gàng qua 
 
 **Ví dụ: tội phạm ở Anh nhiều đến đâu, và đang tăng hay giảm?** Đây là câu hỏi nhạy cảm về chính trị, với hai nguồn dữ liệu chính, một dựa trên khảo sát và một dựa trên số liệu hành chính.
 
-*Nguồn thứ nhất: Khảo sát Tội phạm Anh và xứ Wales (Crime Survey for England and Wales).* Đây là một cuộc lấy mẫu kinh điển, hỏi khoảng 38.000 người mỗi năm về trải nghiệm của họ với tội phạm. Giống khảo sát Natsal, có thể nảy sinh vấn đề khi dùng lời khai (bậc 1) để kết luận về trải nghiệm thật (bậc 2), vì người trả lời có thể không nói thật — chẳng hạn về các tội liên quan tới ma tuý mà chính họ tham gia. Sau đó phải giả định mẫu đại diện cho tổng thể đủ điều kiện và tính tới cỡ mẫu có hạn (bậc 2 sang bậc 3), và cuối cùng thừa nhận thiết kế nghiên cứu không với tới một phần của tổng thể mục tiêu, như việc không ai dưới 16 tuổi hay sống ở nơi ở tập thể được hỏi (bậc 3 sang bậc 4). Tuy vậy, với các lưu ý phù hợp, khảo sát này là một "thống kê quốc gia được chỉ định" (designated national statistic) và được dùng để theo dõi xu hướng dài hạn.
+*Nguồn thứ nhất: Khảo sát Tội phạm Anh và xứ Wales (Crime Survey for England and Wales).* Đây là một cuộc lấy mẫu kinh điển, hỏi khoảng 38.000 người mỗi năm về trải nghiệm của họ với tội phạm. Giống khảo sát Natsal, có thể nảy sinh vấn đề khi dùng lời khai (bậc 1) để kết luận về trải nghiệm thật (bậc 2), vì người trả lời có thể không nói thật — chẳng hạn về các tội liên quan tới ma tuý mà chính họ tham gia.
 
-*Nguồn thứ hai: tội phạm do cảnh sát ghi nhận.* Việc ghi nhận nhằm mục đích hành chính và không phải một mẫu: vì mọi tội phạm được ghi nhận trong cả nước đều có thể đếm, "tổng thể nghiên cứu" trùng với mẫu. Tất nhiên vẫn phải giả định rằng dữ liệu ghi lại phản ánh đúng điều đã xảy ra với những nạn nhân đi trình báo (bậc 1 sang bậc 2), nhưng vấn đề lớn nằm ở chỗ muốn khẳng định rằng dữ liệu về tổng thể nghiên cứu — những người trình báo tội phạm — đại diện cho tổng thể mục tiêu là mọi tội phạm xảy ra ở Anh và xứ Wales. Đáng tiếc là số liệu của cảnh sát bỏ sót một cách có hệ thống những vụ cảnh sát không ghi là tội phạm hoặc nạn nhân không trình báo: dùng ma tuý trái phép chẳng hạn, hay những người chọn không trình báo trộm cắp và phá hoại vì sợ giá nhà trong khu vực bị giảm. Một ví dụ cực đoan: sau khi một báo cáo tháng 11/2014 phê phán cách ghi nhận của cảnh sát, số tội phạm tình dục được ghi nhận tăng từ 64.000 năm 2014 lên 121.000 năm 2017 — gần gấp đôi trong ba năm (121.000 / 64.000 = 1,89 lần).
+Sau đó phải giả định mẫu đại diện cho tổng thể đủ điều kiện và tính tới cỡ mẫu có hạn (bậc 2 sang bậc 3), và cuối cùng thừa nhận thiết kế nghiên cứu không với tới một phần của tổng thể mục tiêu, như việc không ai dưới 16 tuổi hay sống ở nơi ở tập thể được hỏi (bậc 3 sang bậc 4). Tuy vậy, với các lưu ý phù hợp, khảo sát này là một "thống kê quốc gia được chỉ định" (designated national statistic) và được dùng để theo dõi xu hướng dài hạn.
+
+*Nguồn thứ hai: tội phạm do cảnh sát ghi nhận.* Việc ghi nhận nhằm mục đích hành chính và không phải một mẫu: vì mọi tội phạm được ghi nhận trong cả nước đều có thể đếm, "tổng thể nghiên cứu" trùng với mẫu. Tất nhiên vẫn phải giả định rằng dữ liệu ghi lại phản ánh đúng điều đã xảy ra với những nạn nhân đi trình báo (bậc 1 sang bậc 2), nhưng vấn đề lớn nằm ở chỗ muốn khẳng định rằng dữ liệu về tổng thể nghiên cứu — những người trình báo tội phạm — đại diện cho tổng thể mục tiêu là mọi tội phạm xảy ra ở Anh và xứ Wales.
+
+Đáng tiếc là số liệu của cảnh sát bỏ sót một cách có hệ thống những vụ cảnh sát không ghi là tội phạm hoặc nạn nhân không trình báo: dùng ma tuý trái phép chẳng hạn, hay những người chọn không trình báo trộm cắp và phá hoại vì sợ giá nhà trong khu vực bị giảm. Một ví dụ cực đoan: sau khi một báo cáo tháng 11/2014 phê phán cách ghi nhận của cảnh sát, số tội phạm tình dục được ghi nhận tăng từ 64.000 năm 2014 lên 121.000 năm 2017 — gần gấp đôi trong ba năm (121.000 / 64.000 = 1,89 lần).
 
 Không có gì lạ khi hai nguồn dữ liệu này có thể cho ra những kết luận khá khác nhau về xu hướng:
 
@@ -390,7 +407,9 @@ Không có gì lạ khi hai nguồn dữ liệu này có thể cho ra những k�
 
 Nên tin nguồn nào? Các nhà thống kê tin khảo sát hơn; những lo ngại về độ tin cậy của số liệu tội phạm do cảnh sát ghi nhận đã khiến nó mất danh hiệu thống kê quốc gia năm 2014.
 
-Khi có toàn bộ dữ liệu, việc tạo ra các con số mô tả điều đã đo được là đơn giản. Nhưng khi muốn dùng dữ liệu để rút kết luận rộng hơn về những gì diễn ra quanh ta, chất lượng dữ liệu trở nên tối quan trọng, và cần cảnh giác với các loại thiên lệch hệ thống có thể làm hỏng độ tin cậy của mọi tuyên bố. Có cả những trang web chuyên liệt kê các thiên lệch có thể gặp trong khoa học thống kê, từ thiên lệch phân bổ (allocation bias — khác biệt có hệ thống giữa những người nhận mỗi phương pháp điều trị trong hai phương pháp được so sánh) tới thiên lệch tình nguyện (volunteer bias — người tình nguyện tham gia nghiên cứu khác một cách có hệ thống so với dân số nói chung). Nhiều thiên lệch trong số đó khá hiển nhiên; Chương 12 sẽ bàn những cách tinh vi hơn khiến thống kê bị làm sai. Nhưng trước hết, cần cách mô tả mục tiêu cuối cùng của ta — tổng thể mục tiêu.
+Khi có toàn bộ dữ liệu, việc tạo ra các con số mô tả điều đã đo được là đơn giản. Nhưng khi muốn dùng dữ liệu để rút kết luận rộng hơn về những gì diễn ra quanh ta, chất lượng dữ liệu trở nên tối quan trọng, và cần cảnh giác với các loại thiên lệch hệ thống có thể làm hỏng độ tin cậy của mọi tuyên bố.
+
+Có cả những trang web chuyên liệt kê các thiên lệch có thể gặp trong khoa học thống kê, từ thiên lệch phân bổ (allocation bias — khác biệt có hệ thống giữa những người nhận mỗi phương pháp điều trị trong hai phương pháp được so sánh) tới thiên lệch tình nguyện (volunteer bias — người tình nguyện tham gia nghiên cứu khác một cách có hệ thống so với dân số nói chung). Nhiều thiên lệch trong số đó khá hiển nhiên; Chương 12 sẽ bàn những cách tinh vi hơn khiến thống kê bị làm sai. Nhưng trước hết, cần cách mô tả mục tiêu cuối cùng của ta — tổng thể mục tiêu.
 
 ### 4. Đường cong hình chuông (The 'Bell-Shaped Curve', trang PDF 73–77)
 
@@ -400,11 +419,15 @@ Khi có toàn bộ dữ liệu, việc tạo ra các con số mô tả điều �
 
 Chương 2 đã bàn khái niệm phân phối dữ liệu — hình dạng mà dữ liệu tạo ra, đôi khi gọi là phân phối thực nghiệm (empirical distribution) hay phân phối mẫu (sample distribution). Giờ phải xét khái niệm **phân phối tổng thể** (population distribution) — hình dạng trong toàn bộ nhóm ta quan tâm.
 
-Xét người phụ nữ Mỹ vừa sinh con. Có thể coi bé như được rút ra, như một mẫu chỉ có một người, từ toàn bộ tổng thể các bé mới sinh gần đây của phụ nữ da trắng không gốc Tây Ban Nha (non-Hispanic white) ở Mỹ — chủng tộc của người mẹ quan trọng vì cân nặng sơ sinh được báo cáo riêng theo chủng tộc. Phân phối tổng thể là hình dạng tạo bởi cân nặng của tất cả các bé này, lấy từ báo cáo của Hệ thống Thống kê Sinh tử Quốc gia Mỹ (US National Vital Statistics System) về cân nặng của hơn một triệu bé sinh đủ tháng ở Mỹ năm 2013 từ các bà mẹ da trắng không gốc Tây Ban Nha. Đây chưa phải toàn bộ các ca sinh cùng thời, nhưng là một mẫu lớn tới mức có thể coi như tổng thể. Cân nặng chỉ được báo cáo theo số bé trong từng nhóm rộng 500 g.
+Xét người phụ nữ Mỹ vừa sinh con. Có thể coi bé như được rút ra, như một mẫu chỉ có một người, từ toàn bộ tổng thể các bé mới sinh gần đây của phụ nữ da trắng không gốc Tây Ban Nha (non-Hispanic white) ở Mỹ — chủng tộc của người mẹ quan trọng vì cân nặng sơ sinh được báo cáo riêng theo chủng tộc.
+
+Phân phối tổng thể là hình dạng tạo bởi cân nặng của tất cả các bé này, lấy từ báo cáo của Hệ thống Thống kê Sinh tử Quốc gia Mỹ (US National Vital Statistics System) về cân nặng của hơn một triệu bé sinh đủ tháng ở Mỹ năm 2013 từ các bà mẹ da trắng không gốc Tây Ban Nha. Đây chưa phải toàn bộ các ca sinh cùng thời, nhưng là một mẫu lớn tới mức có thể coi như tổng thể. Cân nặng chỉ được báo cáo theo số bé trong từng nhóm rộng 500 g.
 
 #### Phân phối chuẩn
 
-Hình dạng của phân phối này quan trọng. Các phép đo như cân nặng, thu nhập, chiều cao... ít nhất về nguyên tắc có thể mịn tuỳ ý, nên có thể coi là đại lượng "liên tục" có phân phối tổng thể trơn. Ví dụ kinh điển là "đường cong hình chuông", hay **phân phối chuẩn** (normal distribution), được Carl Friedrich Gauss khảo sát chi tiết lần đầu năm 1809 trong bối cảnh sai số đo trong thiên văn và trắc địa. (Chú thích của tác giả: Gauss không suy ra phân phối này từ quan sát thực nghiệm; đó là một dạng lý thuyết của sai số đo để biện minh cho các phương pháp thống kê của ông.) Lý thuyết cho thấy có thể kỳ vọng phân phối chuẩn xuất hiện ở những hiện tượng do rất nhiều ảnh hưởng nhỏ chi phối, ví dụ một đặc điểm thể chất phức tạp không chỉ do vài gen quyết định. Cân nặng sơ sinh, khi xét trong một nhóm chủng tộc và một độ dài thai kỳ, có thể coi là một đặc điểm như vậy. Các đặc điểm phức tạp khác như chiều cao và năng lực nhận thức cũng có phân phối tổng thể xấp xỉ chuẩn. Những hiện tượng "ít tự nhiên" hơn có thể có phân phối rõ ràng không chuẩn, thường có đuôi phải dài; thu nhập là ví dụ kinh điển.
+Hình dạng của phân phối này quan trọng. Các phép đo như cân nặng, thu nhập, chiều cao... ít nhất về nguyên tắc có thể mịn tuỳ ý, nên có thể coi là đại lượng "liên tục" có phân phối tổng thể trơn. Ví dụ kinh điển là "đường cong hình chuông", hay **phân phối chuẩn** (normal distribution), được Carl Friedrich Gauss khảo sát chi tiết lần đầu năm 1809 trong bối cảnh sai số đo trong thiên văn và trắc địa. (Chú thích của tác giả: Gauss không suy ra phân phối này từ quan sát thực nghiệm; đó là một dạng lý thuyết của sai số đo để biện minh cho các phương pháp thống kê của ông.)
+
+Lý thuyết cho thấy có thể kỳ vọng phân phối chuẩn xuất hiện ở những hiện tượng do rất nhiều ảnh hưởng nhỏ chi phối, ví dụ một đặc điểm thể chất phức tạp không chỉ do vài gen quyết định. Cân nặng sơ sinh, khi xét trong một nhóm chủng tộc và một độ dài thai kỳ, có thể coi là một đặc điểm như vậy. Các đặc điểm phức tạp khác như chiều cao và năng lực nhận thức cũng có phân phối tổng thể xấp xỉ chuẩn. Những hiện tượng "ít tự nhiên" hơn có thể có phân phối rõ ràng không chuẩn, thường có đuôi phải dài; thu nhập là ví dụ kinh điển.
 
 **Hình: Cân nặng sơ sinh của trẻ đủ tháng ở Mỹ năm 2013 (Figure 3.2 trong sách)** — bốn ô, cùng trục hoành "cân nặng sơ sinh (gam)" từ 2.000 đến 5.000; bé 2.910 g được đánh dấu bằng đường đứt nét.
 
@@ -461,13 +484,17 @@ Lợi thế lớn của việc giả định một phân phối có dạng chu�
 
 Bé của người bạn thấp hơn trung bình khoảng 1,2 độ lệch chuẩn — con số này gọi là **điểm Z** (Z-score) của bé, đơn giản là số độ lệch chuẩn mà một điểm dữ liệu cách trung bình. Tính từng bước: 2.910 − 3.480 = −570 g; −570 / 462 = −1,23.
 
-Trung bình và độ lệch chuẩn có thể dùng làm mô tả tóm tắt cho (hầu hết) các phân phối khác, nhưng các thước đo khác cũng hữu ích. **Bách phân vị** (percentile) tính từ đường cong chuẩn là một ví dụ: bách phân vị thứ 50 là trung vị, điểm chia tổng thể làm đôi, có thể coi là cân nặng của một bé "trung bình" — với phân phối đối xứng như đường cong chuẩn, nó trùng với trung bình. Bách phân vị thứ 25 (3.167 g) là cân nặng mà 25% số bé nhẹ hơn; bách phân vị thứ 25 và 75 (3.791 g) được gọi là các **tứ phân vị** (quartiles), và khoảng cách giữa chúng (624 g), gọi là **khoảng tứ phân vị** (inter-quartile range), là một thước đo độ trải rộng của phân phối. Đây đúng là các đại lượng tóm tắt đã dùng ở Chương 2, chỉ khác là giờ áp dụng cho tổng thể thay vì cho mẫu. (Kiểm tra: với phân phối chuẩn, các tứ phân vị nằm ở trung bình ± 0,6745 độ lệch chuẩn: 3.480 ± 0,6745 × 462 = 3.480 ± 312, tức 3.168 g và 3.792 g; khớp với số của sách sai khác 1 g do làm tròn.)
+Trung bình và độ lệch chuẩn có thể dùng làm mô tả tóm tắt cho (hầu hết) các phân phối khác, nhưng các thước đo khác cũng hữu ích. **Bách phân vị** (percentile) tính từ đường cong chuẩn là một ví dụ: bách phân vị thứ 50 là trung vị, điểm chia tổng thể làm đôi, có thể coi là cân nặng của một bé "trung bình" — với phân phối đối xứng như đường cong chuẩn, nó trùng với trung bình.
+
+Bách phân vị thứ 25 (3.167 g) là cân nặng mà 25% số bé nhẹ hơn; bách phân vị thứ 25 và 75 (3.791 g) được gọi là các **tứ phân vị** (quartiles), và khoảng cách giữa chúng (624 g), gọi là **khoảng tứ phân vị** (inter-quartile range), là một thước đo độ trải rộng của phân phối. Đây đúng là các đại lượng tóm tắt đã dùng ở Chương 2, chỉ khác là giờ áp dụng cho tổng thể thay vì cho mẫu. (Kiểm tra: với phân phối chuẩn, các tứ phân vị nằm ở trung bình ± 0,6745 độ lệch chuẩn: 3.480 ± 0,6745 × 462 = 3.480 ± 312, tức 3.168 g và 3.792 g; khớp với số của sách sai khác 1 g do làm tròn.)
 
 Bé của người bạn nằm ở **bách phân vị thứ 11**, nghĩa là 11% số bé sinh đủ tháng của phụ nữ da trắng không gốc Tây Ban Nha sẽ nhẹ hơn bé. Bách phân vị cân nặng sơ sinh có ý nghĩa thực tế: cân nặng của bé sẽ được theo dõi so với mức tăng trưởng kỳ vọng của các bé ở bách phân vị thứ 11 (chú thích của tác giả: các phân phối thực sự dùng để theo dõi phức tạp hơn phân phối chuẩn một chút), và nếu bách phân vị của bé tụt xuống thì có thể là dấu hiệu đáng lo. Vậy câu trả lời cho người bạn: 2.910 g dưới trung bình nhưng không bất thường — khoảng một trong chín bé cùng nhóm còn nhẹ hơn.
 
 #### Nhẹ cân: tỷ lệ và xác suất
 
-Vì lý do y khoa chứ không phải thống kê, trẻ dưới 2.500 g được coi là "nhẹ cân" (low birth weight), dưới 1.500 g là "rất nhẹ cân" (very low birth weight). Theo đường cong chuẩn, ta kỳ vọng 1,7% số bé trong nhóm này nhẹ cân (điểm Z của 2.500 g là (2.500 − 3.480) / 462 = −2,12; tỷ lệ dưới mức đó là 1,7%). Thực tế có 14.170 bé (1,3%; 14.170 / 1.096.277 = 1,29%), mà sách gọi là "khớp sát" với dự đoán. (Người tổng hợp lưu ý: 1,7% tương ứng khoảng 18.600 bé, nên tính tương đối đường cong chuẩn dự đoán thừa khoảng 30% ở đuôi trái.) Nhóm sinh đủ tháng của các bà mẹ da trắng không gốc Tây Ban Nha này có tỷ lệ nhẹ cân rất thấp: tỷ lệ chung cho mọi ca sinh ở Mỹ năm 2013 là 8%, ở phụ nữ da đen là 13% — một khác biệt đáng kể giữa các chủng tộc. (Hai con số 8% và 13% tính trên mọi ca sinh, kể cả sinh non, nên không so trực tiếp được với 1,3% của nhóm sinh đủ tháng.)
+Vì lý do y khoa chứ không phải thống kê, trẻ dưới 2.500 g được coi là "nhẹ cân" (low birth weight), dưới 1.500 g là "rất nhẹ cân" (very low birth weight). Theo đường cong chuẩn, ta kỳ vọng 1,7% số bé trong nhóm này nhẹ cân (điểm Z của 2.500 g là (2.500 − 3.480) / 462 = −2,12; tỷ lệ dưới mức đó là 1,7%). Thực tế có 14.170 bé (1,3%; 14.170 / 1.096.277 = 1,29%), mà sách gọi là "khớp sát" với dự đoán.
+
+(Người tổng hợp lưu ý: 1,7% tương ứng khoảng 18.600 bé, nên tính tương đối đường cong chuẩn dự đoán thừa khoảng 30% ở đuôi trái.) Nhóm sinh đủ tháng của các bà mẹ da trắng không gốc Tây Ban Nha này có tỷ lệ nhẹ cân rất thấp: tỷ lệ chung cho mọi ca sinh ở Mỹ năm 2013 là 8%, ở phụ nữ da đen là 13% — một khác biệt đáng kể giữa các chủng tộc. (Hai con số 8% và 13% tính trên mọi ca sinh, kể cả sinh non, nên không so trực tiếp được với 1,3% của nhóm sinh đủ tháng.)
 
 Có lẽ bài học quan trọng nhất của ví dụ này là vùng tô sẫm dưới 2.500 g đóng **hai vai**:
 
@@ -490,7 +517,9 @@ Có ba loại tổng thể mà một mẫu có thể được rút ra, dù dữ 
 - **Tổng thể ảo (virtual population).** Ta thường đo bằng một thiết bị, như đo huyết áp một người hay đo ô nhiễm không khí. Ta biết luôn có thể đo thêm và được một kết quả hơi khác — ai từng đo huyết áp nhiều lần liên tiếp đều biết. Các lần đo gần nhau đến đâu tuỳ vào độ chính xác của thiết bị và độ ổn định của hoàn cảnh; có thể coi đó là rút quan sát từ một tổng thể ảo gồm mọi phép đo có thể thực hiện nếu có đủ thời gian.
 - **Tổng thể ẩn dụ (metaphorical population)**, khi hoàn toàn không có tổng thể nào lớn hơn. Đây là một khái niệm lạ. Ta hành động *như thể* điểm dữ liệu được rút ngẫu nhiên từ một tổng thể nào đó, dù rõ ràng không phải vậy — như với trẻ em phẫu thuật tim: ta không lấy mẫu, ta có toàn bộ dữ liệu, và không còn gì để thu thêm. Hãy nghĩ tới số vụ giết người xảy ra mỗi năm, kết quả thi của một lớp cụ thể, hay dữ liệu về mọi quốc gia trên thế giới — không cái nào có thể coi là mẫu từ một tổng thể có thật.
 
-Ý tưởng tổng thể ẩn dụ khó nắm, và có lẽ tốt nhất là coi điều ta quan sát được như đã được rút từ một không gian tưởng tượng các khả năng. Chẳng hạn, lịch sử thế giới là như nó đã là, nhưng ta có thể hình dung lịch sử đã diễn ra khác đi, và ta chỉ tình cờ rơi vào một trong các trạng thái có thể có của thế giới. Tập hợp mọi lịch sử thay thế đó có thể coi là một tổng thể ẩn dụ. Cụ thể hơn, khi xét phẫu thuật tim trẻ em ở Anh giai đoạn 2012–2015, ta có toàn bộ dữ liệu phẫu thuật trong những năm đó và biết có bao nhiêu ca tử vong, bao nhiêu ca sống sót. Nhưng ta có thể hình dung những lịch sử phản thực tế (counterfactual) trong đó những đứa trẻ khác đã có thể sống sót, do những hoàn cảnh không lường trước mà ta thường gọi là "may rủi".
+Ý tưởng tổng thể ẩn dụ khó nắm, và có lẽ tốt nhất là coi điều ta quan sát được như đã được rút từ một không gian tưởng tượng các khả năng. Chẳng hạn, lịch sử thế giới là như nó đã là, nhưng ta có thể hình dung lịch sử đã diễn ra khác đi, và ta chỉ tình cờ rơi vào một trong các trạng thái có thể có của thế giới. Tập hợp mọi lịch sử thay thế đó có thể coi là một tổng thể ẩn dụ.
+
+Cụ thể hơn, khi xét phẫu thuật tim trẻ em ở Anh giai đoạn 2012–2015, ta có toàn bộ dữ liệu phẫu thuật trong những năm đó và biết có bao nhiêu ca tử vong, bao nhiêu ca sống sót. Nhưng ta có thể hình dung những lịch sử phản thực tế (counterfactual) trong đó những đứa trẻ khác đã có thể sống sót, do những hoàn cảnh không lường trước mà ta thường gọi là "may rủi".
 
 Rõ ràng là rất ít ứng dụng của khoa học thống kê thực sự lấy mẫu ngẫu nhiên theo đúng nghĩa đen, và việc có toàn bộ dữ liệu có thể có ngày càng phổ biến. Dù vậy, vẫn rất có giá trị khi giữ ý tưởng về một tổng thể tưởng tượng mà "mẫu" của ta được rút ra từ đó, vì khi ấy ta dùng được mọi kỹ thuật toán học đã phát triển cho việc lấy mẫu từ tổng thể có thật.
 
@@ -551,7 +580,9 @@ Dữ liệu hiếm khi là mục đích tự thân; ta thu thập nó để họ
 
 ### Trong ngôn ngữ thống kê
 
-Chương này đặt nền cho suy luận thống kê bằng cách phân biệt thống kê mẫu (statistic) với tham số tổng thể (parameter) và giới thiệu mô hình xác suất cho dữ liệu: mỗi quan sát được coi là một biến ngẫu nhiên có phân phối bằng phân phối tổng thể, ví dụ X ~ N(μ, σ²) với μ = 3.480 g, σ = 462 g; điểm Z = (x − μ)/σ và P(X < 2.500) = Φ(−2,12) ≈ 0,017. Chuỗi bốn bậc tương ứng với các nguồn sai số trong lý thuyết khảo sát: sai số đo (measurement error), sai số do không trả lời và sai số chọn mẫu (non-response và selection bias, đe doạ giá trị nội tại), và sai số khung mẫu hay độ phủ (coverage error, đe doạ giá trị bên ngoài). Tổng thể ảo tương ứng với mô hình "giá trị thật cộng sai số đo"; tổng thể ẩn dụ tương ứng với cách tiếp cận dựa trên mô hình (model-based inference), trong đó tính ngẫu nhiên nằm ở quá trình sinh dữ liệu chứ không ở việc chọn mẫu.
+Chương này đặt nền cho suy luận thống kê bằng cách phân biệt thống kê mẫu (statistic) với tham số tổng thể (parameter) và giới thiệu mô hình xác suất cho dữ liệu: mỗi quan sát được coi là một biến ngẫu nhiên có phân phối bằng phân phối tổng thể, ví dụ X ~ N(μ, σ²) với μ = 3.480 g, σ = 462 g; điểm Z = (x − μ)/σ và P(X < 2.500) = Φ(−2,12) ≈ 0,017.
+
+Chuỗi bốn bậc tương ứng với các nguồn sai số trong lý thuyết khảo sát: sai số đo (measurement error), sai số do không trả lời và sai số chọn mẫu (non-response và selection bias, đe doạ giá trị nội tại), và sai số khung mẫu hay độ phủ (coverage error, đe doạ giá trị bên ngoài). Tổng thể ảo tương ứng với mô hình "giá trị thật cộng sai số đo"; tổng thể ẩn dụ tương ứng với cách tiếp cận dựa trên mô hình (model-based inference), trong đó tính ngẫu nhiên nằm ở quá trình sinh dữ liệu chứ không ở việc chọn mẫu.
 
 ## Thuật ngữ
 
@@ -658,3 +689,114 @@ Các ví dụ của chương đều có chung một đặc điểm: sai lệch h
 - **Người đọc báo:** khi gặp "X% người dân nghĩ rằng...", tìm câu hỏi gốc, cách chọn người trả lời (ngẫu nhiên hay tự nguyện) và tỷ lệ trả lời. Một "khảo sát" trực tuyến tự chọn nói về những người thích trả lời, không nói về dân số.
 - **Nhà phân tích:** trước khi phân tích, viết ra bốn bậc cho dữ liệu của mình và ghi giả định ở mỗi bậc; với dữ liệu hành chính, kiểm tra lịch sử thay đổi định nghĩa và quy trình ghi chép trước khi đọc xu hướng. Khi dùng phân phối chuẩn cho rủi ro ở đuôi, so dự đoán với tần suất thật ở đuôi.
 - **Người làm chính sách:** khi hai nguồn số liệu mâu thuẫn (khảo sát và số liệu hành chính), đừng chọn nguồn hợp ý mình; hỏi nguồn nào bị ảnh hưởng bởi thay đổi hành vi trình báo hay cách ghi nhận. Đầu tư vào khảo sát ngẫu nhiên chất lượng cao là cách để có một thước đo không phụ thuộc vào cách hệ thống hành chính vận hành.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: năm nhánh lớn đi theo trình tự các mục của bản gốc (khảo sát Natsal ở phần mở đầu và “Learning from Data”, “When We Have All the Data”, “The Bell-Shaped Curve”, “What Is the Population?”), mỗi nhánh ghi khái niệm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: dữ liệu là phương tiện để học về một tổng thể lớn hơn, qua bốn bậc suy luận quy nạp mà bậc nào cũng có thể sai`"]
+  n1["`Phần mở đầu và mục “Learning from Data” (trang PDF 65–72) — bốn bậc từ dữ liệu tới tổng thể mục tiêu`"]
+  n0 --- n1
+  n2["`Suy diễn chắc chắn về logic, quy nạp đi từ cái riêng tới cái chung nên luôn bất định`"]
+  n1 --- n2
+  n3["`Bốn bậc: dữ liệu thô → mẫu → tổng thể nghiên cứu → tổng thể mục tiêu`"]
+  n1 --- n3
+  n4["`Natsal: tỷ lệ trả lời khoảng 66%, không gồm người ở nhà tù, quân đội, tu viện`"]
+  n1 --- n4
+  n5["`Bậc 1 sang 2 là vấn đề đo lường: số đo phải tin cậy và hợp lệ`"]
+  n1 --- n5
+  n6["`Ryanair 2017 báo 92% hài lòng với thang đáp án không có lựa chọn tiêu cực`"]
+  n5 --- n6
+  n7["`Quyền bầu cử tuổi 16: 52% ủng hộ thành 37% ủng hộ chỉ vì đổi cách diễn đạt`"]
+  n5 --- n7
+  n8["`Hiệu ứng mồi: tỷ lệ thanh niên cô đơn khoảng 10% thành 42% trong bảng hỏi tự nguyện của BBC`"]
+  n5 --- n8
+  n9["`Bậc 2 sang 3 là giá trị nội tại: cách tốt nhất là lấy mẫu ngẫu nhiên được khuấy đều`"]
+  n1 --- n9
+  n10["`Nồi súp của Gallup: khuấy đều thì một thìa đủ biết vị cả nồi`"]
+  n9 --- n10
+  n11["`Xổ số quân dịch 1969 trộn không đều: 26/31 ngày tháng Mười Hai bị gọi, tháng Giêng 14`"]
+  n9 --- n11
+  n12["`Thăm dò bầu cử Anh 2015 sai dù hỏi hàng nghìn người, vì dưới 10% trả lời`"]
+  n9 --- n12
+  n13["`Bậc 3 sang 4 là giá trị bên ngoài: thí nghiệm trên chuột, thử thuốc chỉ trên nam giới`"]
+  n1 --- n13
+  n14["`Mục “When We Have All the Data” (trang PDF 72–73) — dữ liệu hành chính đầy đủ vẫn có thể sai ở bậc cuối`"]
+  n0 --- n14
+  n15["`Khảo sát khoảng 38.000 người mỗi năm cho thấy tội phạm giảm 9% (2016–2017)`"]
+  n14 --- n15
+  n16["`Cùng giai đoạn, số tội phạm cảnh sát ghi nhận tăng 13%`"]
+  n14 --- n16
+  n17["`Tội phạm tình dục ghi nhận từ 64.000 lên 121.000 (2014–2017) sau khi đổi cách ghi`"]
+  n14 --- n17
+  n18["`Một thay đổi quy trình ghi chép có thể tự tạo ra một xu hướng lớn`"]
+  n14 --- n18
+  n19["`Mục “The Bell-Shaped Curve” (trang PDF 73–77) — tổng thể như một phân phối xác suất`"]
+  n0 --- n19
+  n20["`Cân nặng sơ sinh đủ tháng ở Mỹ 2013: 1.096.277 bé, trung bình 3.480 g, độ lệch chuẩn 462 g`"]
+  n19 --- n20
+  n21["`Đại lượng do nhiều ảnh hưởng nhỏ cộng lại xấp xỉ phân phối chuẩn, hai tham số đủ mô tả`"]
+  n19 --- n21
+  n22["`Thống kê tóm tắt mẫu, tham số tóm tắt tổng thể`"]
+  n19 --- n22
+  n23["`Bé 2.910 g có điểm Z khoảng −1,2, ở bách phân vị thứ 11`"]
+  n19 --- n23
+  n24["`1,7% diện tích dưới 2.500 g vừa là tỷ lệ trẻ nhẹ cân vừa là xác suất một bé ngẫu nhiên nhẹ cân`"]
+  n19 --- n24
+  n25["`Dự đoán 1,7% so với thực tế 1,3% (14.170 bé), đuôi thật có thể khác đuôi chuẩn`"]
+  n19 --- n25
+  n26["`Mục “What Is the Population?” (trang PDF 77–78) — ba loại tổng thể`"]
+  n0 --- n26
+  n27["`Tổng thể thực: một nhóm xác định được, như khi chọn ngẫu nhiên người để thăm dò`"]
+  n26 --- n27
+  n28["`Tổng thể ảo: mọi lần đo có thể có bằng thiết bị, như đo huyết áp`"]
+  n26 --- n28
+  n29["`Tổng thể ẩn dụ: hành động như thể dữ liệu được rút ngẫu nhiên từ mọi điều có thể đã xảy ra`"]
+  n26 --- n29
+  n30["`Mổ tim trẻ em ở Anh 2012–2015 có toàn bộ dữ liệu nhưng vẫn cần tổng thể ẩn dụ để suy luận`"]
+  n26 --- n30
+  n31["`Thông điệp xuyên suốt`"]
+  n0 --- n31
+  n32["`Trước mọi con số, hỏi nó về ai và được dùng để nói về ai`"]
+  n31 --- n32
+  n33["`Đọc kỹ câu hỏi gốc và các lựa chọn trả lời, vì cách hỏi có thể tự tạo ra kết quả`"]
+  n31 --- n33
+  n34["`Cỡ mẫu lớn không bù được mẫu không đại diện`"]
+  n31 --- n34
+  n35["`Một giá trị dưới trung bình chưa chắc bất thường, hãy xem bách phân vị hoặc điểm Z`"]
+  n31 --- n35
+  class n0 root
+  class n1,n14,n19,n26,n31 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n32,n33,n34,n35 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 3 "Why Are We Looking at Data Anyway? Populations and Measurement", trang PDF 65–79 (ebook không có số trang in).
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đặt ra "chu trình giải quyết vấn đề" PPDAC (vấn đề, kế hoạch, dữ liệu, phân tích, kết luận) làm khung cho cả cuốn sách. Chương 1 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md)) dùng số liệu phẫu thuật tim trẻ em ở các bệnh viện Anh để bàn cách trình bày tỷ lệ và phần trăm. Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) dạy cách tóm tắt và vẽ một tập dữ liệu (trung bình, trung vị, độ lệch chuẩn, khoảng tứ phân vị), với các ví dụ đoán số kẹo trong lọ và số bạn tình trong khảo sát Natsal. Cả hai chương đó chỉ **mô tả** dữ liệu đang có. Chương 3 là bước ngoặt: nó hỏi dữ liệu ấy cho ta biết gì về **thế giới bên ngoài** — tức chuyển từ mô tả sang **suy luận quy nạp** (inductive inference).
+
+Chương này đưa ra sơ đồ bốn bậc (dữ liệu, mẫu, tổng thể nghiên cứu, tổng thể mục tiêu), khái niệm phân phối tổng thể và phân phối chuẩn, và ý tưởng "tổng thể ẩn dụ" khi ta đã có toàn bộ dữ liệu. Chương 4 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md)) tiếp tục với câu hỏi khó hơn: từ dữ liệu, làm sao biết cái gì gây ra cái gì. Hai khái niệm "tổng thể" và "phân phối xác suất của một quan sát ngẫu nhiên" ở chương này là nền cho Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) về ước lượng và khoảng, Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) và Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) về xác suất; danh sách các loại thiên lệch được hẹn lại ở Chương 12 ([C12-nhung-dieu-co-the-sai.md](C12-nhung-dieu-co-the-sai.md)).
+
+## Lưu ý
+
+- **Lỗi đánh máy về cân nặng của bé (trang PDF 74):** lời văn viết cân nặng của bé "được đánh dấu bằng một đường ở 2,190 grams", nhưng chính đề bài (6 lb 7 oz, 2,91 kg), chú thích của Figure 3.2 ("A baby weighing 2,910g") và mọi phép tính sau đó đều dùng **2.910 g**. Con số 2.190 là lỗi đảo chữ số; bản tổng hợp dùng 2.910 g.
+- **"99,8% trong khoảng ± ba độ lệch chuẩn" chưa chính xác (trang PDF 76):** với phân phối chuẩn, tỷ lệ nằm trong khoảng trung bình ± 3 độ lệch chuẩn là 99,73%, thường làm tròn thành 99,7% (nhận xét của người tổng hợp). Con số "khoảng 95%" cho ± 2 độ lệch chuẩn thì đúng (chính xác là 95,45%).
+- **"Khớp sát" giữa dự đoán 1,7% và thực tế 1,3% chỉ đúng theo nghĩa tuyệt đối (nhận xét của người tổng hợp):** đường cong chuẩn dự đoán 1,7% trẻ nhẹ cân, tức khoảng 0,017 × 1.096.277 ≈ 18.600 bé, trong khi thực tế là 14.170 bé (1,29%). Chênh lệch chỉ 0,4 điểm phần trăm, nhưng tính tương đối thì đường cong chuẩn dự đoán thừa khoảng 30%. Đuôi trái của phân phối cân nặng thật mỏng hơn đuôi của đường cong chuẩn; điều này đáng nhớ khi dùng phân phối chuẩn để ước tính những biến cố hiếm ở đuôi.
+- **Các phép tính đã tự kiểm tra lại:** điểm Z = (2.910 − 3.480) / 462 = −570 / 462 = −1,23 (sách: "khoảng −1,2"); tỷ lệ dưới 2.910 g theo đường cong chuẩn = 10,9% (sách: bách phân vị thứ 11); tứ phân vị = 3.480 ± 0,6745 × 462 = 3.480 ± 312, tức 3.168 g và 3.792 g (sách: 3.167 g và 3.791 g, khoảng tứ phân vị 624 g; người tổng hợp tính ra 623 g — chênh do làm tròn); tỷ lệ dưới 2.500 g: Z = (2.500 − 3.480) / 462 = −2,12, tỷ lệ 1,7%, đúng; 14.170 / 1.096.277 = 1,29%, đúng với "1,3%"; số tội phạm tình dục 121.000 / 64.000 = 1,89 lần, đúng với "gần gấp đôi"; 3.480 g = 7,67 lb ≈ 7 lb 11 oz và 462 g ≈ 1,02 lb, đúng; 2,91 kg ≈ 6 lb 6,6 oz ≈ 6 lb 7 oz, đúng.
+- **Hình không ghi số:** Figure 3.2(a) là biểu đồ cột (histogram) không ghi số trên cột; tỷ lệ của từng nhóm 500 g trong bản tổng hợp là **ước lượng của người tổng hợp** đọc từ chiều cao cột, đối chiếu với tỷ lệ tính theo đường cong chuẩn. Các vị trí bách phân vị 1%, 5%, 95%, 99% trong Figure 3.2(c) không được sách ghi bằng gam; con số gam trong bản tổng hợp do người tổng hợp tính từ trung bình 3.480 g và độ lệch chuẩn 462 g.
+- **Lớp chữ và footnote:** trang PDF 68 trống; Figure 3.1 (sơ đồ bốn ô) là ảnh ở trang PDF 69, chú thích hình ở trang PDF 70. Danh sách footnote cuối file bundle bị lệch: chỉ hai footnote đầu (Gauss; cách theo dõi bách phân vị) thuộc chương này, bốn footnote sau (statin, thử nghiệm, kinh phí, Galton) thuộc Chương 4–5. Đối chiếu với danh sách footnote toàn sách, chương này có sáu footnote dấu sao: thí nghiệm máy phát hiện nói dối (trang PDF 66), câu trả lời của Ryanair (trang PDF 71), phân biệt "sortition" với "sortilege" và câu Kinh Thánh Luca 23:34 (trang PDF 71), cách Gauss suy ra phân phối chuẩn (trang PDF 74), và cách theo dõi bách phân vị cân nặng (trang PDF 76). Cả sáu đều được đưa vào phần Nội dung chi tiết.
+- **Vài lỗi chữ nhỏ trong bản gốc:** "recording weights" trong chú thích Figure 3.2 (đúng ra "recorded weights"); "whether it the will of a god" (thiếu "is"); "from the all the possible things" (thừa "the"). Không ảnh hưởng nội dung.
+- **Xổ số quân dịch 1969:** sách chỉ nêu 26/31 ngày tháng Mười Hai và 14/31 ngày tháng Giêng "bị gọi" mà không nói ngưỡng gọi. Theo hiểu biết của người tổng hợp (không tra cứu), lần xổ số đó gọi tới số thứ tự 195 trên 366; nếu trộn đều, mỗi tháng 31 ngày kỳ vọng có khoảng 31 × 195 / 366 ≈ 16,5 ngày bị gọi, nên 14 của tháng Giêng gần mức kỳ vọng còn 26 của tháng Mười Hai cao hơn hẳn.

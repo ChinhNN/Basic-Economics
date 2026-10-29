@@ -1,23 +1,16 @@
 # Chương 5 — Mô hình hoá quan hệ bằng hồi quy (Modelling Relationships Using Regression)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 5 "Modelling Relationships Using Regression", trang PDF 92–103 (cộng chú thích cuối chương và chú thích dấu sao của chương).
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) dạy cách tóm tắt một dãy số và đo mức liên hệ giữa hai biến bằng hệ số tương quan Pearson, với ví dụ phẫu thuật tim trẻ em ở các bệnh viện Anh và điểm ngoại lai Bristol. Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) bàn về việc đi từ dữ liệu tới tổng thể. Chương 4 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md)) cảnh báo rằng tương quan không phải nhân quả, giới thiệu thử nghiệm ngẫu nhiên, biến gây nhiễu và các tiêu chí Bradford Hill, kèm ví dụ nghiên cứu Thuỵ Điển về học vấn và u não. Chương 5 đưa ra công cụ đầu tiên để mô tả quan hệ giữa một biến cần giải thích và một hay nhiều biến giải thích: **mô hình thống kê (statistical model)**, cụ thể là hồi quy. Chương này cũng giải thích hiện tượng hồi quy về giá trị trung bình, cách "hiệu chỉnh" cho biến gây nhiễu, và vì sao mọi mô hình đều sai. Chương 6 ([C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)) chuyển sang các thuật toán dự báo của học máy, trong đó hồi quy logistic là một đối thủ. Từ Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) trở đi, sách bàn về độ bất định của các con số ước lượng — kể cả các hệ số hồi quy của chương này.
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **một mô hình thống kê là cách biểu diễn có chủ ý, đơn giản hoá, quan hệ giữa các biến, theo công thức "quan sát = mô hình tất định + sai số phần dư"; hệ số hồi quy chỉ cho biết biến phụ thuộc thay đổi bao nhiêu khi ta *quan sát* biến giải thích khác đi một đơn vị, không cho biết điều gì xảy ra nếu ta *can thiệp*; và vì một phần của mọi giá trị cực đoan là do may rủi, những giá trị cực đoan có xu hướng quay về gần mức trung bình — hiện tượng làm cho rất nhiều "tác động" của các can thiệp trở nên ảo.** Phần mở đầu kể chuyện Francis Galton năm 1886 thu thập chiều cao của 197 cặp cha mẹ và con trưởng thành; đường thẳng bình phương nhỏ nhất dự báo chiều cao con trai từ chiều cao cha có độ dốc 0,45 chứ không phải 1, nên cha cao có con trai hơi thấp hơn mình, cha thấp có con trai hơi cao hơn mình — "hồi quy về mức tầm thường" theo cách gọi của Galton, nay gọi là hồi quy về giá trị trung bình, và đó là gốc của chữ "hồi quy". Mục "Regression Lines Are Models" định nghĩa mô hình gồm hai phần: phần tất định và sai số phần dư, tức tín hiệu và nhiễu. Hộp "Do speed cameras reduce accidents?" chỉ ra rằng camera bắn tốc độ thường được đặt ở nơi vừa xảy ra nhiều tai nạn, nên số tai nạn giảm sau đó phần lớn là hồi quy về giá trị trung bình (khoảng hai phần ba lợi ích bề ngoài); cùng cơ chế ấy giải thích "lời nguyền bìa tạp chí *Sports Illustrated*", sự đổi hạng trong bảng xếp hạng PISA (tương quan −0,60, gần mức −0,71 nếu chỉ có may rủi) và một phần "hiệu ứng giả dược". Mục "Dealing With More Than One Explanatory Variable" giới thiệu hồi quy tuyến tính bội: khi đưa cả chiều cao cha và mẹ vào, hệ số của mẹ với con gái giảm từ 0,33 xuống 0,30 và của cha với con trai từ 0,45 xuống 0,41 — minh hoạ cho việc hiệu chỉnh biến gây nhiễu, vốn không bao giờ hoàn hảo trong nghiên cứu quan sát. Mục "Different Types of Response Variables" giới thiệu hồi quy logistic cho tỷ lệ, với ví dụ phẫu thuật tim trẻ dưới 1 tuổi: mỗi 100 ca mổ thêm gắn với tỷ lệ tử vong thấp hơn tương đối khoảng 10%. Mục "Beyond Basic Regression Modelling" phân biệt bốn trường phái mô hình hoá và kết bằng câu của George Box "mọi mô hình đều sai, một số có ích", cùng bài học khủng hoảng tài chính 2007–2008: các mô hình rủi ro thế chấp giả định tương quan vỡ nợ thấp và thất bại khi mọi khoản vay cùng vỡ một lúc.
+## Ý chính
 
-> **Lưu ý:**
-> - **Độ dốc trong Table 5.2 không khớp với độ lệch chuẩn trong Table 5.1 (nhận xét của người tổng hợp):** sách viết rằng độ dốc hồi quy bằng hệ số tương quan nhân với tỷ số độ lệch chuẩn của biến phụ thuộc và biến độc lập, và "nếu hai độ lệch chuẩn bằng nhau thì độ dốc chính là hệ số tương quan, điều này giải thích sự gần nhau" trong Table 5.2. Nhưng theo Table 5.1, cha và con trai có cùng độ lệch chuẩn 2,6 inch, mẹ và con gái cùng 2,4 inch, nên công thức cho độ dốc 0,39 và 0,31, không phải 0,45 và 0,33 như bảng ghi. Muốn ra 0,45 thì tỷ số độ lệch chuẩn phải khoảng 0,45 / 0,39 = 1,15; muốn ra 0,33 thì tỷ số phải khoảng 1,06. Một cách giải thích khả dĩ (người tổng hợp suy đoán, không kiểm chứng được từ sách): Table 5.1 tính độ lệch chuẩn trên 197 người cha, mỗi người một lần, còn hồi quy dùng 465 cặp cha–con trai, trong đó một người cha có nhiều con trai bị đếm nhiều lần, nên độ lệch chuẩn của chiều cao cha trong 465 cặp có thể nhỏ hơn 2,6. Dù lý do là gì, câu "giải thích sự gần nhau" chỉ đúng một cách lỏng lẻo.
-> - **Chú thích dấu sao về hồi quy logistic dùng đơn vị khác lời văn:** lời văn nói hệ số 0,001 nghĩa là tử vong thấp hơn khoảng 10% với mỗi 100 ca mổ thêm "trong giai đoạn bốn năm"; chú thích dấu sao lại nói log của odds tử vong giảm 0,001 "cho mỗi bệnh nhân thêm mỗi năm". Hai cách nói này không tương đương (100 ca thêm mỗi năm là 400 ca thêm trong bốn năm). Người tổng hợp đọc xấp xỉ đường cong trên đồ thị (Figure 5.2): tỷ lệ sống khoảng 84,8% ở 0 ca và khoảng 90,6% ở 640 ca, tức log odds tử vong giảm khoảng 0,085 cho mỗi 100 ca trên trục hoành — trục hoành là tổng số ca của cả giai đoạn. Vậy cách nói của lời văn ("mỗi 100 ca trong giai đoạn bốn năm") khớp với đồ thị; chữ "mỗi năm" trong chú thích có lẽ là lỡ lời. Các số đọc từ đồ thị chỉ là ước lượng.
-> - **"Khoảng 10% thấp hơn" là xấp xỉ cho odds, không đúng hẳn cho rủi ro:** log odds giảm 0,1 tương ứng odds nhân với e^(−0,1) = 0,905, tức odds giảm khoảng 9,5%. Với tỷ lệ tử vong quanh 10–15% như trong dữ liệu, rủi ro tử vong giảm tương đối khoảng 8–9% (ví dụ người tổng hợp tự tính: rủi ro 15% có odds 0,176; nhân 0,905 được 0,160, tức rủi ro 13,8%, giảm tương đối 8,2%). Chữ "around 10%" của sách vì vậy chấp nhận được như một con số tròn.
-> - **Mâu thuẫn nhỏ với Chương 4 về nghiên cứu u não Thuỵ Điển:** Chương 4 nhấn mạnh nghiên cứu này thực ra nói về vị thế kinh tế – xã hội chứ không phải học vấn, và chính thông cáo báo chí đã đổi thành "học vấn". Chương 5 lại mô tả phân tích hồi quy có "học vấn" là biến giải thích chính, và thu nhập là một biến gây nhiễu được hiệu chỉnh. Theo hiểu biết của người tổng hợp, nghiên cứu gốc dùng nhiều thước đo vị thế kinh tế – xã hội, trong đó có học vấn và thu nhập, nên cả hai cách nói đều có phần đúng, nhưng sách không nói rõ điều này.
-> - **Ví dụ camera bắn tốc độ viết chưa chặt:** câu "khi những nghiên cứu như vậy đã được tiến hành" đọc như thể đã có thử nghiệm phân bổ camera ngẫu nhiên. Nguồn sách dẫn là bài của L. Mountain trên tạp chí *Significance* (2006). Theo hiểu biết của người tổng hợp, các ước tính "khoảng hai phần ba lợi ích bề ngoài là do hồi quy về giá trị trung bình" ở Anh chủ yếu đến từ phân tích thống kê dữ liệu trước–sau có hiệu chỉnh cho hồi quy về giá trị trung bình, chứ không phải từ thử nghiệm ngẫu nhiên đúng nghĩa. Người đọc nên coi lời kêu gọi "phân bổ camera ngẫu nhiên" là khuyến nghị về thiết kế, và con số hai phần ba là ước tính từ mô hình.
-> - **Câu của George Box được trích hai kiểu:** trong lời văn là "All models are wrong, some are useful", trong phần Summary là "All models are wrong, but some are useful". Dạng có "but" là dạng quen thuộc (theo hiểu biết của người tổng hợp, Box viết như vậy năm 1987, và ý tương tự từ năm 1976).
-> - **Legendre và Gauss "cuối thế kỷ mười tám":** theo hiểu biết của người tổng hợp, Legendre công bố phương pháp bình phương nhỏ nhất năm 1805, Gauss công bố năm 1809 và nói mình đã dùng từ khoảng 1795; nói "cuối thế kỷ mười tám" chỉ đúng với lời tự nhận của Gauss.
-> - **Chú thích dấu sao về Table 5.3 dùng chữ "standardized" chưa chuẩn:** chú thích nói các biến giải thích đã được "chuẩn hoá bằng cách trừ đi giá trị trung bình trong mẫu". Trừ trung bình thường gọi là *định tâm* (centring); "chuẩn hoá" thường còn chia cho độ lệch chuẩn. Ở đây chỉ có định tâm, nên hệ số vẫn tính theo đơn vị inch.
-> - **Lỗi đánh máy:** trang PDF 98 ghi "response variables that not continuous variables" (thiếu chữ "are").
-> - **Hình là đồ thị không ghi số:** Figure 5.1 (đám điểm chiều cao cha–con trai) và Figure 5.2 (tỷ lệ sống sau phẫu thuật tim theo số ca mổ) không ghi số trên điểm; mọi tọa độ trong bản tổng hợp này đọc từ trục là ước lượng. Các con số trong Table 5.1, 5.2, 5.3 có trong lớp chữ và đã đối chiếu với ảnh trang.
-> - **Lớp chữ hỏng:** công thức trong chú thích cuối chương số 4 (tương quan bằng −1/√2) và công thức bình phương nhỏ nhất trong bảng thuật ngữ là ảnh, bị mất trong lớp chữ; người tổng hợp viết lại dựa trên kết quả −0,71 mà sách nêu và công thức chuẩn. Danh sách chú thích dấu sao trong tệp chữ của chương bị lệch (chứa các chú thích của Chương 6); bản tổng hợp dùng đúng bảy chú thích của Chương 5 lấy từ danh sách chú thích toàn sách.
-> - **Các phép tính đã tự kiểm tra:** 64 inch = 1,626 m, 69 inch = 1,753 m (khớp với 1,63 và 1,75 m của sách); đường hồi quy 69,2 + 0,45 × (chiều cao cha − 69,3) cho 71,8 inch khi cha cao 75 inch và 65,9 inch khi cha cao 62 inch, khớp với đường vẽ trong Figure 5.1; tương quan giữa hiệu Y − X và X khi X, Y độc lập cùng phân phối bằng −1/√2 = −0,707, khớp với −0,71.
+Spiegelhalter muốn người đọc hiểu rằng **một mô hình thống kê là cách biểu diễn có chủ ý, đơn giản hoá, quan hệ giữa các biến, theo công thức "quan sát = mô hình tất định + sai số phần dư"; hệ số hồi quy chỉ cho biết biến phụ thuộc thay đổi bao nhiêu khi ta *quan sát* biến giải thích khác đi một đơn vị, không cho biết điều gì xảy ra nếu ta *can thiệp*; và vì một phần của mọi giá trị cực đoan là do may rủi, những giá trị cực đoan có xu hướng quay về gần mức trung bình — hiện tượng làm cho rất nhiều "tác động" của các can thiệp trở nên ảo.**
+
+Phần mở đầu kể chuyện Francis Galton năm 1886 thu thập chiều cao của 197 cặp cha mẹ và con trưởng thành; đường thẳng bình phương nhỏ nhất dự báo chiều cao con trai từ chiều cao cha có độ dốc 0,45 chứ không phải 1, nên cha cao có con trai hơi thấp hơn mình, cha thấp có con trai hơi cao hơn mình — "hồi quy về mức tầm thường" theo cách gọi của Galton, nay gọi là hồi quy về giá trị trung bình, và đó là gốc của chữ "hồi quy". Mục "Regression Lines Are Models" định nghĩa mô hình gồm hai phần: phần tất định và sai số phần dư, tức tín hiệu và nhiễu.
+
+Hộp "Do speed cameras reduce accidents?" chỉ ra rằng camera bắn tốc độ thường được đặt ở nơi vừa xảy ra nhiều tai nạn, nên số tai nạn giảm sau đó phần lớn là hồi quy về giá trị trung bình (khoảng hai phần ba lợi ích bề ngoài); cùng cơ chế ấy giải thích "lời nguyền bìa tạp chí *Sports Illustrated*", sự đổi hạng trong bảng xếp hạng PISA (tương quan −0,60, gần mức −0,71 nếu chỉ có may rủi) và một phần "hiệu ứng giả dược".
+
+Mục "Dealing With More Than One Explanatory Variable" giới thiệu hồi quy tuyến tính bội: khi đưa cả chiều cao cha và mẹ vào, hệ số của mẹ với con gái giảm từ 0,33 xuống 0,30 và của cha với con trai từ 0,45 xuống 0,41 — minh hoạ cho việc hiệu chỉnh biến gây nhiễu, vốn không bao giờ hoàn hảo trong nghiên cứu quan sát. Mục "Different Types of Response Variables" giới thiệu hồi quy logistic cho tỷ lệ, với ví dụ phẫu thuật tim trẻ dưới 1 tuổi: mỗi 100 ca mổ thêm gắn với tỷ lệ tử vong thấp hơn tương đối khoảng 10%.
+
+Mục "Beyond Basic Regression Modelling" phân biệt bốn trường phái mô hình hoá và kết bằng câu của George Box "mọi mô hình đều sai, một số có ích", cùng bài học khủng hoảng tài chính 2007–2008: các mô hình rủi ro thế chấp giả định tương quan vỡ nợ thấp và thất bại khi mọi khoản vay cùng vỡ một lúc.
 
 ## Sơ đồ
 
@@ -269,7 +262,9 @@ Các chương trước giúp ta trực quan hoá và tóm tắt một dãy số,
 
 #### Câu hỏi của Galton
 
-Câu chuyện quay lại với Francis Galton. Ông có niềm đam mê thu thập dữ liệu kiểu nhà khoa học quý ông thời Victoria; việc hỏi "trí tuệ đám đông" về cân nặng một con bò (ở chương trước) chỉ là một ví dụ. Ông dùng quan sát của mình để dự báo thời tiết, đánh giá hiệu quả của việc cầu nguyện, và thậm chí so sánh vẻ đẹp của phụ nữ trẻ ở các vùng khác nhau trong nước (chú thích của tác giả trích Galton: "Tôi thấy London xếp cao nhất về vẻ đẹp, Aberdeen thấp nhất"). Ông cũng chia sẻ nỗi ám ảnh của người anh họ Charles Darwin về di truyền, và bắt tay tìm hiểu các đặc điểm cá nhân thay đổi thế nào qua các thế hệ. Ông đặc biệt quan tâm câu hỏi: **dùng chiều cao của cha mẹ, làm sao dự báo chiều cao của đứa con khi trưởng thành?**
+Câu chuyện quay lại với Francis Galton. Ông có niềm đam mê thu thập dữ liệu kiểu nhà khoa học quý ông thời Victoria; việc hỏi "trí tuệ đám đông" về cân nặng một con bò (ở chương trước) chỉ là một ví dụ. Ông dùng quan sát của mình để dự báo thời tiết, đánh giá hiệu quả của việc cầu nguyện, và thậm chí so sánh vẻ đẹp của phụ nữ trẻ ở các vùng khác nhau trong nước (chú thích của tác giả trích Galton: "Tôi thấy London xếp cao nhất về vẻ đẹp, Aberdeen thấp nhất").
+
+Ông cũng chia sẻ nỗi ám ảnh của người anh họ Charles Darwin về di truyền, và bắt tay tìm hiểu các đặc điểm cá nhân thay đổi thế nào qua các thế hệ. Ông đặc biệt quan tâm câu hỏi: **dùng chiều cao của cha mẹ, làm sao dự báo chiều cao của đứa con khi trưởng thành?**
 
 Năm 1886, Galton công bố chiều cao của một nhóm lớn cha mẹ và con trưởng thành của họ. Thống kê tóm tắt cho phần lớn dữ liệu như sau (nguồn dữ liệu: gói phần mềm HistData của M. Friendly và cộng sự, 2018).
 
@@ -295,7 +290,9 @@ Năm 1886, Galton công bố chiều cao của một nhóm lớn cha mẹ và co
 
 Chiều cao cha và con trai rõ ràng tương quan với nhau, với hệ số tương quan Pearson 0,39. Nếu muốn dự báo chiều cao con trai từ chiều cao cha, ta có thể bắt đầu bằng một đường thẳng, vì với một đường thẳng, ứng với bất kỳ chiều cao nào của cha ta đều tính được một dự báo cho con. Trực giác đầu tiên có thể là dùng đường chéo "bằng nhau", tức dự báo con trai cao đúng bằng cha. Nhưng có thể làm tốt hơn.
 
-Với bất kỳ đường thẳng nào ta chọn, mỗi điểm dữ liệu sinh ra một **phần dư**: khoảng cách dọc từ điểm đến đường, tức độ lớn của sai số nếu ta dùng đường đó để dự báo chiều cao con trai từ chiều cao cha. Ta muốn một đường làm các phần dư này nhỏ, và kỹ thuật chuẩn là chọn đường **bình phương nhỏ nhất**: đường mà tổng bình phương các phần dư nhỏ nhất. (Chú thích của tác giả: cũng có thể khớp đường làm nhỏ nhất tổng giá trị tuyệt đối của phần dư thay vì tổng bình phương, nhưng làm vậy gần như bất khả thi nếu không có máy tính hiện đại.) Công thức của đường này khá đơn giản và được nhà toán học Pháp Adrien-Marie Legendre và Carl Friedrich Gauss phát triển vào cuối thế kỷ mười tám. Đường này thường được gọi là dự báo "khớp tốt nhất" về chiều cao con trai khi biết chiều cao cha.
+Với bất kỳ đường thẳng nào ta chọn, mỗi điểm dữ liệu sinh ra một **phần dư**: khoảng cách dọc từ điểm đến đường, tức độ lớn của sai số nếu ta dùng đường đó để dự báo chiều cao con trai từ chiều cao cha. Ta muốn một đường làm các phần dư này nhỏ, và kỹ thuật chuẩn là chọn đường **bình phương nhỏ nhất**: đường mà tổng bình phương các phần dư nhỏ nhất.
+
+(Chú thích của tác giả: cũng có thể khớp đường làm nhỏ nhất tổng giá trị tuyệt đối của phần dư thay vì tổng bình phương, nhưng làm vậy gần như bất khả thi nếu không có máy tính hiện đại.) Công thức của đường này khá đơn giản và được nhà toán học Pháp Adrien-Marie Legendre và Carl Friedrich Gauss phát triển vào cuối thế kỷ mười tám. Đường này thường được gọi là dự báo "khớp tốt nhất" về chiều cao con trai khi biết chiều cao cha.
 
 Công thức (từ bảng thuật ngữ cuối sách): với n cặp số (x₁, y₁), …, (xₙ, yₙ), gọi x̄, s_x là trung bình và độ lệch chuẩn của các x, ȳ, s_y là trung bình và độ lệch chuẩn của các y, r là hệ số tương quan Pearson. Đường bình phương nhỏ nhất là
 
@@ -305,7 +302,9 @@ trong đó ŷ là giá trị dự báo của biến phụ thuộc y ứng với 
 
 #### Hồi quy về giá trị trung bình
 
-Đường dự báo bình phương nhỏ nhất đi qua giữa đám điểm, tại điểm ứng với chiều cao trung bình của cha và con trai, nhưng không đi theo đường chéo "bằng nhau". Với những người cha cao hơn trung bình, đường này nằm thấp hơn rõ rệt so với đường bằng nhau; với những người cha thấp hơn trung bình, nó nằm cao hơn. Nghĩa là cha cao thường có con trai hơi thấp hơn mình, còn cha thấp thường có con trai hơi cao hơn mình. Galton gọi hiện tượng này là "hồi quy về mức tầm thường" (regression to mediocrity); ngày nay nó được gọi là **hồi quy về giá trị trung bình** (regression to the mean). Hiện tượng này cũng đúng với mẹ và con gái: mẹ cao thường có con gái thấp hơn mình, mẹ thấp thường có con gái cao hơn mình. Đây chính là nguồn gốc của chữ trong tên chương: dần dần, mọi quá trình khớp đường thẳng hay đường cong với dữ liệu đều được gọi là "hồi quy".
+Đường dự báo bình phương nhỏ nhất đi qua giữa đám điểm, tại điểm ứng với chiều cao trung bình của cha và con trai, nhưng không đi theo đường chéo "bằng nhau". Với những người cha cao hơn trung bình, đường này nằm thấp hơn rõ rệt so với đường bằng nhau; với những người cha thấp hơn trung bình, nó nằm cao hơn. Nghĩa là cha cao thường có con trai hơi thấp hơn mình, còn cha thấp thường có con trai hơi cao hơn mình.
+
+Galton gọi hiện tượng này là "hồi quy về mức tầm thường" (regression to mediocrity); ngày nay nó được gọi là **hồi quy về giá trị trung bình** (regression to the mean). Hiện tượng này cũng đúng với mẹ và con gái: mẹ cao thường có con gái thấp hơn mình, mẹ thấp thường có con gái cao hơn mình. Đây chính là nguồn gốc của chữ trong tên chương: dần dần, mọi quá trình khớp đường thẳng hay đường cong với dữ liệu đều được gọi là "hồi quy".
 
 Người tổng hợp minh hoạ bằng số từ công thức trên: chiều cao con trai dự báo = 69,2 + 0,45 × (chiều cao cha − 69,3).
 
@@ -328,7 +327,7 @@ Trong phân tích hồi quy cơ bản, **biến phụ thuộc** là đại lư�
 | Mẹ và con gái | 0,31 | 0,33 |
 | Cha và con trai | 0,39 | 0,45 |
 
-Có một quan hệ đơn giản giữa độ dốc, hệ số tương quan Pearson và độ lệch chuẩn của các biến: độ dốc bằng tương quan nhân với tỷ số độ lệch chuẩn của biến phụ thuộc trên biến độc lập (đó là công thức b = r × s_y / s_x ở trên). Nếu hai độ lệch chuẩn bằng nhau thì độ dốc chính là hệ số tương quan; tác giả nói điều này giải thích vì sao hai cột trong bảng gần nhau. (Như đã ghi ở khối Lưu ý, với độ lệch chuẩn trong bảng thống kê tóm tắt thì công thức cho 0,39 và 0,31 chứ không phải 0,45 và 0,33; hai cột chỉ "gần nhau" theo nghĩa rộng.)
+Có một quan hệ đơn giản giữa độ dốc, hệ số tương quan Pearson và độ lệch chuẩn của các biến: độ dốc bằng tương quan nhân với tỷ số độ lệch chuẩn của biến phụ thuộc trên biến độc lập (đó là công thức b = r × s_y / s_x ở trên). Nếu hai độ lệch chuẩn bằng nhau thì độ dốc chính là hệ số tương quan; tác giả nói điều này giải thích vì sao hai cột trong bảng gần nhau. (Như đã ghi ở mục Lưu ý cuối chương, với độ lệch chuẩn trong bảng thống kê tóm tắt thì công thức cho 0,39 và 0,31 chứ không phải 0,45 và 0,33; hai cột chỉ "gần nhau" theo nghĩa rộng.)
 
 Chú thích của tác giả cho công thức dự báo chiều cao con gái từ chiều cao mẹ: chiều cao con gái dự báo = trung bình chiều cao mọi con gái + 0,33 × (chiều cao mẹ − trung bình chiều cao mọi bà mẹ), tức 64,1 + 0,33 × (chiều cao mẹ − 64,0). Ví dụ người tổng hợp tự tính: mẹ cao 67 inch thì con gái dự báo cao 64,1 + 0,33 × 3 = 65,1 inch.
 
@@ -360,7 +359,9 @@ Công thức này có thể hiểu là: trong thế giới thống kê, điều 
 
 #### Bài học đơn giản
 
-Hộp này chứa một bài học đơn giản: chỉ vì ta hành động và có điều gì đó thay đổi, không có nghĩa ta là nguyên nhân của kết quả. Con người dường như thấy sự thật đơn giản này khó nắm bắt: ta luôn muốn dựng một câu chuyện giải thích, và càng muốn hơn nếu bản thân ở trung tâm câu chuyện. Tất nhiên đôi khi cách hiểu này đúng: bật công tắc và đèn sáng thì thường đúng là do ta. Nhưng đôi khi hành động của ta rõ ràng không chịu trách nhiệm cho kết quả: không mang ô và trời mưa thì không phải lỗi của ta (dù có thể cảm thấy vậy). Hệ quả của nhiều hành động khác thì không rõ ràng như thế. Giả sử bạn đau đầu, uống một viên aspirin và hết đau. Làm sao biết được cơn đau đã không tự hết nếu bạn không uống thuốc?
+Hộp này chứa một bài học đơn giản: chỉ vì ta hành động và có điều gì đó thay đổi, không có nghĩa ta là nguyên nhân của kết quả. Con người dường như thấy sự thật đơn giản này khó nắm bắt: ta luôn muốn dựng một câu chuyện giải thích, và càng muốn hơn nếu bản thân ở trung tâm câu chuyện. Tất nhiên đôi khi cách hiểu này đúng: bật công tắc và đèn sáng thì thường đúng là do ta.
+
+Nhưng đôi khi hành động của ta rõ ràng không chịu trách nhiệm cho kết quả: không mang ô và trời mưa thì không phải lỗi của ta (dù có thể cảm thấy vậy). Hệ quả của nhiều hành động khác thì không rõ ràng như thế. Giả sử bạn đau đầu, uống một viên aspirin và hết đau. Làm sao biết được cơn đau đã không tự hết nếu bạn không uống thuốc?
 
 Chúng ta có xu hướng tâm lý mạnh mẽ là gán sự thay đổi cho can thiệp, và điều này làm cho các so sánh trước–sau trở nên nguy hiểm. Ví dụ kinh điển là camera bắn tốc độ: chúng thường được đặt ở những nơi vừa xảy ra nhiều tai nạn. Khi tỷ lệ tai nạn sau đó giảm, sự giảm này được gán cho sự có mặt của camera. Nhưng liệu tỷ lệ tai nạn có giảm đằng nào cũng giảm không?
 
@@ -378,9 +379,13 @@ May rủi đóng vai trò đáng kể trong vị trí của các đội trên b�
 
 #### Bảng xếp hạng giáo dục PISA
 
-Không chỉ các đội thể thao được xếp hạng. Bảng xếp hạng giáo dục toàn cầu PISA so sánh hệ thống trường học của các nước về môn toán. Sự thay đổi vị trí xếp hạng giữa năm 2003 và 2012 tương quan âm mạnh với vị trí ban đầu: các nước ở đầu bảng có xu hướng tụt xuống, các nước ở cuối bảng có xu hướng đi lên. Hệ số tương quan là −0,60. Một chút lý thuyết cho thấy nếu thứ hạng hoàn toàn là may rủi và chỉ có hồi quy về giá trị trung bình tác động, tương quan kỳ vọng là −0,71, không khác nhiều so với con số quan sát. Điều này gợi ý rằng khác biệt giữa các nước nhỏ hơn nhiều so với người ta tuyên bố, và sự thay đổi thứ hạng ít liên quan tới thay đổi triết lý giảng dạy.
+Không chỉ các đội thể thao được xếp hạng. Bảng xếp hạng giáo dục toàn cầu PISA so sánh hệ thống trường học của các nước về môn toán. Sự thay đổi vị trí xếp hạng giữa năm 2003 và 2012 tương quan âm mạnh với vị trí ban đầu: các nước ở đầu bảng có xu hướng tụt xuống, các nước ở cuối bảng có xu hướng đi lên. Hệ số tương quan là −0,60.
 
-Chú thích cuối chương giải thích con số −0,71. Về cơ bản, sự thay đổi sẽ tương quan với giá trị ban đầu ngay cả khi quá trình bên dưới thực ra không đổi gì. Lấy ngẫu nhiên một quan sát X từ một phân phối tổng thể, rồi lấy một quan sát Y khác, độc lập, từ cùng phân phối đó, và xét hiệu Y − X. Một sự thật khá đáng chú ý là tương quan giữa hiệu Y − X và lần đo đầu X bằng −1/√2 ≈ −0,71, bất kể phân phối tổng thể có dạng gì. Người tổng hợp kiểm tra: gọi phương sai chung là σ²; hiệp phương sai của (Y − X) và X là −σ²; phương sai của Y − X là 2σ²; tương quan = −σ² / (σ × √2 σ) = −1/√2 = −0,707. Ví dụ của tác giả: một phụ nữ sinh con, rồi bạn cô ấy cũng sinh con, và họ xem em bé của người bạn nặng hơn bao nhiêu bằng cách lấy cân nặng em bé thứ hai trừ cân nặng em bé thứ nhất. Hiệu này tương quan −0,71 với cân nặng em bé thứ nhất: nếu em bé thứ nhất nhẹ, ta kỳ vọng em bé thứ hai nặng hơn chỉ do may rủi, nên hiệu dương; nếu em bé thứ nhất nặng, ta kỳ vọng hiệu âm.
+Một chút lý thuyết cho thấy nếu thứ hạng hoàn toàn là may rủi và chỉ có hồi quy về giá trị trung bình tác động, tương quan kỳ vọng là −0,71, không khác nhiều so với con số quan sát. Điều này gợi ý rằng khác biệt giữa các nước nhỏ hơn nhiều so với người ta tuyên bố, và sự thay đổi thứ hạng ít liên quan tới thay đổi triết lý giảng dạy.
+
+Chú thích cuối chương giải thích con số −0,71. Về cơ bản, sự thay đổi sẽ tương quan với giá trị ban đầu ngay cả khi quá trình bên dưới thực ra không đổi gì. Lấy ngẫu nhiên một quan sát X từ một phân phối tổng thể, rồi lấy một quan sát Y khác, độc lập, từ cùng phân phối đó, và xét hiệu Y − X. Một sự thật khá đáng chú ý là tương quan giữa hiệu Y − X và lần đo đầu X bằng −1/√2 ≈ −0,71, bất kể phân phối tổng thể có dạng gì.
+
+Người tổng hợp kiểm tra: gọi phương sai chung là σ²; hiệp phương sai của (Y − X) và X là −σ²; phương sai của Y − X là 2σ²; tương quan = −σ² / (σ × √2 σ) = −1/√2 = −0,707. Ví dụ của tác giả: một phụ nữ sinh con, rồi bạn cô ấy cũng sinh con, và họ xem em bé của người bạn nặng hơn bao nhiêu bằng cách lấy cân nặng em bé thứ hai trừ cân nặng em bé thứ nhất. Hiệu này tương quan −0,71 với cân nặng em bé thứ nhất: nếu em bé thứ nhất nhẹ, ta kỳ vọng em bé thứ hai nặng hơn chỉ do may rủi, nên hiệu dương; nếu em bé thứ nhất nặng, ta kỳ vọng hiệu âm.
 
 #### Hiệu ứng giả dược và thử nghiệm lâm sàng
 
@@ -403,7 +408,9 @@ Từ công trình ban đầu của Galton, ý tưởng cơ bản của hồi quy
 
 #### Hồi quy tuyến tính bội với chiều cao cả cha và mẹ
 
-Để minh hoạ việc có nhiều hơn một biến giải thích, ta có thể xem chiều cao của con trai hay con gái liên quan thế nào với chiều cao của cha *và* mẹ. Đám điểm bây giờ nằm trong không gian ba chiều và khó vẽ trên trang giấy hơn nhiều, nhưng vẫn có thể dùng ý tưởng bình phương nhỏ nhất để tìm công thức dự báo tốt nhất chiều cao của con. Cách này gọi là **hồi quy tuyến tính bội**. (Chú thích của tác giả: chữ "tuyến tính" nói rằng phương trình là một tổng có trọng số của các biến giải thích, với trọng số là các hệ số hồi quy; kiểu này gọi là mô hình tuyến tính.) Khi chỉ có một biến giải thích, quan hệ với biến phản hồi được tóm bằng một độ dốc, cũng có thể hiểu là một hệ số trong phương trình hồi quy; ý tưởng này mở rộng được cho nhiều biến giải thích.
+Để minh hoạ việc có nhiều hơn một biến giải thích, ta có thể xem chiều cao của con trai hay con gái liên quan thế nào với chiều cao của cha *và* mẹ. Đám điểm bây giờ nằm trong không gian ba chiều và khó vẽ trên trang giấy hơn nhiều, nhưng vẫn có thể dùng ý tưởng bình phương nhỏ nhất để tìm công thức dự báo tốt nhất chiều cao của con. Cách này gọi là **hồi quy tuyến tính bội**.
+
+(Chú thích của tác giả: chữ "tuyến tính" nói rằng phương trình là một tổng có trọng số của các biến giải thích, với trọng số là các hệ số hồi quy; kiểu này gọi là mô hình tuyến tính.) Khi chỉ có một biến giải thích, quan hệ với biến phản hồi được tóm bằng một độ dốc, cũng có thể hiểu là một hệ số trong phương trình hồi quy; ý tưởng này mở rộng được cho nhiều biến giải thích.
 
 Bảng thuật ngữ cuối sách cho dạng tổng quát: với mỗi giá trị phản hồi yᵢ có p biến dự báo xᵢ₁, xᵢ₂, …, xᵢₚ, hồi quy tuyến tính bội theo bình phương nhỏ nhất có dạng ŷᵢ = b₀ + b₁xᵢ₁ + … + bₚxᵢₚ, trong đó các hệ số b₀, b₁, …, bₚ được chọn để tổng bình phương phần dư nhỏ nhất.
 
@@ -423,13 +430,17 @@ Diễn giải các hệ số này thế nào? **Thứ nhất**, chúng là một
 | Mẹ 66, cha 72 | 69,2 + 0,33 × 2 + 0,41 × 2,7 = 69,2 + 0,66 + 1,11 = 70,97 | 64,1 + 0,30 × 2 + 0,40 × 2,7 = 64,1 + 0,60 + 1,08 = 65,78 |
 | Mẹ 62, cha 66 | 69,2 − 0,66 − 1,35 = 67,19 | 64,1 − 0,60 − 1,32 = 62,18 |
 
-**Thứ hai**, các hệ số minh hoạ ý tưởng **hiệu chỉnh** một liên hệ bề ngoài bằng cách tính đến một yếu tố thứ ba có thể gây nhiễu. Ví dụ, độ dốc khi hồi quy chiều cao con gái theo chiều cao mẹ là 0,33 (độ dốc của đường khớp đám điểm chỉ là tên gọi khác của hệ số hồi quy). Khi tính thêm ảnh hưởng của chiều cao cha, hệ số này giảm xuống 0,30. Khi dự báo chiều cao con trai, hệ số của cha cũng giảm tương tự, từ 0,45 xuống 0,41 khi tính đến chiều cao mẹ. Vậy chiều cao của một bên cha mẹ có liên hệ hơi yếu hơn với chiều cao con trưởng thành khi đã tính đến ảnh hưởng của bên kia. Lý do có thể là phụ nữ cao thường lấy đàn ông cao, nên chiều cao của mỗi bên không phải là yếu tố hoàn toàn độc lập. Nhìn chung, dữ liệu gợi ý rằng 1 inch chênh lệch ở chiều cao cha gắn với chênh lệch ở chiều cao con lớn hơn so với 1 inch chênh lệch ở chiều cao mẹ (0,40 so với 0,30 với con gái; 0,41 so với 0,33 với con trai).
+**Thứ hai**, các hệ số minh hoạ ý tưởng **hiệu chỉnh** một liên hệ bề ngoài bằng cách tính đến một yếu tố thứ ba có thể gây nhiễu. Ví dụ, độ dốc khi hồi quy chiều cao con gái theo chiều cao mẹ là 0,33 (độ dốc của đường khớp đám điểm chỉ là tên gọi khác của hệ số hồi quy). Khi tính thêm ảnh hưởng của chiều cao cha, hệ số này giảm xuống 0,30. Khi dự báo chiều cao con trai, hệ số của cha cũng giảm tương tự, từ 0,45 xuống 0,41 khi tính đến chiều cao mẹ.
+
+Vậy chiều cao của một bên cha mẹ có liên hệ hơi yếu hơn với chiều cao con trưởng thành khi đã tính đến ảnh hưởng của bên kia. Lý do có thể là phụ nữ cao thường lấy đàn ông cao, nên chiều cao của mỗi bên không phải là yếu tố hoàn toàn độc lập. Nhìn chung, dữ liệu gợi ý rằng 1 inch chênh lệch ở chiều cao cha gắn với chênh lệch ở chiều cao con lớn hơn so với 1 inch chênh lệch ở chiều cao mẹ (0,40 so với 0,30 với con gái; 0,41 so với 0,33 với con trai).
 
 Hồi quy bội thường được dùng khi nhà nghiên cứu quan tâm đến một biến giải thích cụ thể, còn các biến khác cần được "hiệu chỉnh" để bù cho sự mất cân bằng.
 
 #### Hiệu chỉnh biến gây nhiễu không bao giờ hoàn hảo: nghiên cứu u não Thuỵ Điển
 
-Tác giả quay lại nghiên cứu Thuỵ Điển về u não ở Chương 4 — ví dụ về việc truyền thông diễn giải sai quan hệ nhân quả. (Nhắc lại từ Chương 4: nghiên cứu theo dõi hơn 4 triệu người Thuỵ Điển trong mười tám năm bằng cách liên kết hồ sơ thuế và y tế, thấy người có vị thế kinh tế – xã hội cao hơn có tỷ lệ được chẩn đoán u não cao hơn một chút; một tờ báo giật tít "Vì sao học đại học làm tăng nguy cơ u não".) Phân tích hồi quy trong nghiên cứu đó lấy tỷ lệ u não làm biến phụ thuộc (biến phản hồi) và học vấn làm biến độc lập (biến giải thích) được quan tâm. Các yếu tố khác được đưa vào hồi quy gồm tuổi lúc chẩn đoán, năm dương lịch, vùng của Thuỵ Điển, tình trạng hôn nhân và thu nhập — tất cả đều được coi là biến có thể gây nhiễu. Việc hiệu chỉnh này là một nỗ lực tách ra quan hệ "thuần" hơn giữa học vấn và u não, nhưng không bao giờ hoàn toàn đầy đủ. Luôn còn mối nghi rằng một quá trình ẩn nào khác đang tác động, chẳng hạn người học vấn cao tìm đến dịch vụ y tế tốt hơn và vì thế được chẩn đoán nhiều hơn.
+Tác giả quay lại nghiên cứu Thuỵ Điển về u não ở Chương 4 — ví dụ về việc truyền thông diễn giải sai quan hệ nhân quả. (Nhắc lại từ Chương 4: nghiên cứu theo dõi hơn 4 triệu người Thuỵ Điển trong mười tám năm bằng cách liên kết hồ sơ thuế và y tế, thấy người có vị thế kinh tế – xã hội cao hơn có tỷ lệ được chẩn đoán u não cao hơn một chút; một tờ báo giật tít "Vì sao học đại học làm tăng nguy cơ u não".) Phân tích hồi quy trong nghiên cứu đó lấy tỷ lệ u não làm biến phụ thuộc (biến phản hồi) và học vấn làm biến độc lập (biến giải thích) được quan tâm.
+
+Các yếu tố khác được đưa vào hồi quy gồm tuổi lúc chẩn đoán, năm dương lịch, vùng của Thuỵ Điển, tình trạng hôn nhân và thu nhập — tất cả đều được coi là biến có thể gây nhiễu. Việc hiệu chỉnh này là một nỗ lực tách ra quan hệ "thuần" hơn giữa học vấn và u não, nhưng không bao giờ hoàn toàn đầy đủ. Luôn còn mối nghi rằng một quá trình ẩn nào khác đang tác động, chẳng hạn người học vấn cao tìm đến dịch vụ y tế tốt hơn và vì thế được chẩn đoán nhiều hơn.
 
 Trong một thử nghiệm ngẫu nhiên, lẽ ra không cần hiệu chỉnh cho biến gây nhiễu, vì việc phân bổ ngẫu nhiên phải bảo đảm mọi yếu tố ngoài phương pháp điều trị chính đều cân bằng giữa các nhóm. Nhưng các nhà nghiên cứu thường vẫn chạy phân tích hồi quy, phòng khi có chút mất cân bằng lọt vào.
 
@@ -471,7 +482,7 @@ Tác giả xét lại dữ liệu phẫu thuật tim trẻ em ở Chương 2: t�
 
 Ta có thể khớp một đường hồi quy tuyến tính qua các điểm này, nhưng ngoại suy ngây thơ sẽ gợi ý rằng nếu một bệnh viện điều trị cực nhiều ca thì tỷ lệ sống dự báo vượt 100% — điều vô lý. Vì vậy người ta phát triển một dạng hồi quy cho tỷ lệ, gọi là **hồi quy logistic**, bảo đảm một đường cong không bao giờ vượt 100% hay xuống dưới 0%.
 
-Ngay cả khi không tính Bristol, bệnh viện có nhiều bệnh nhân hơn có tỷ lệ sống tốt hơn, và hệ số hồi quy logistic (0,001) có nghĩa là tỷ lệ tử vong được kỳ vọng thấp hơn (tương đối) khoảng 10% với mỗi 100 ca mổ thêm mà bệnh viện thực hiện cho trẻ dưới 1 tuổi trong giai đoạn bốn năm. Chú thích của tác giả giải thích: hệ số hồi quy logistic nghĩa là logarit của odds tử vong được ước lượng giảm 0,001 cho mỗi bệnh nhân thêm, nên giảm 0,1 cho mỗi 100 bệnh nhân thêm, tương ứng rủi ro thấp hơn khoảng 10%. (Chú thích ghi "mỗi bệnh nhân thêm mỗi năm"; như khối Lưu ý đã nêu, đơn vị khớp với đồ thị là "mỗi ca trong cả giai đoạn".)
+Ngay cả khi không tính Bristol, bệnh viện có nhiều bệnh nhân hơn có tỷ lệ sống tốt hơn, và hệ số hồi quy logistic (0,001) có nghĩa là tỷ lệ tử vong được kỳ vọng thấp hơn (tương đối) khoảng 10% với mỗi 100 ca mổ thêm mà bệnh viện thực hiện cho trẻ dưới 1 tuổi trong giai đoạn bốn năm. Chú thích của tác giả giải thích: hệ số hồi quy logistic nghĩa là logarit của odds tử vong được ước lượng giảm 0,001 cho mỗi bệnh nhân thêm, nên giảm 0,1 cho mỗi 100 bệnh nhân thêm, tương ứng rủi ro thấp hơn khoảng 10%. (Chú thích ghi "mỗi bệnh nhân thêm mỗi năm"; như mục Lưu ý cuối chương đã nêu, đơn vị khớp với đồ thị là "mỗi ca trong cả giai đoạn".)
 
 Người tổng hợp trình bày từng bước phép đổi:
 
@@ -503,7 +514,9 @@ Một phép so sánh tốt: mô hình giống tấm bản đồ chứ không ph�
 
 #### Khi mô hình thành lời sấm: khủng hoảng tài chính 2007–2008
 
-Những lời cảnh báo này dễ bị quên. Khi một mô hình đã được chấp nhận, nhất là khi nó rời khỏi tay những người tạo ra nó và hiểu các giới hạn của nó, nó có thể bắt đầu đóng vai một kiểu lời sấm. Khủng hoảng tài chính 2007–2008 phần lớn bị quy cho niềm tin thái quá vào các mô hình tài chính phức tạp dùng để xác định rủi ro của, chẳng hạn, các gói khoản vay thế chấp. Những mô hình này giả định chỉ có tương quan vừa phải giữa việc các khoản vay thế chấp vỡ nợ, và chạy tốt khi thị trường bất động sản bùng nổ. Nhưng khi điều kiện thay đổi và các khoản vay bắt đầu vỡ nợ, chúng có xu hướng vỡ nợ hàng loạt: mô hình đánh giá thấp rủi ro một cách nghiêm trọng vì tương quan hoá ra cao hơn nhiều so với giả định. Các nhà quản lý cấp cao đơn giản là không nhận ra nền tảng mong manh mà các mô hình này dựa vào, quên mất rằng mô hình là sự đơn giản hoá thế giới thực — chúng là tấm bản đồ chứ không phải vùng đất. Kết quả là một trong những cuộc khủng hoảng kinh tế toàn cầu tồi tệ nhất lịch sử.
+Những lời cảnh báo này dễ bị quên. Khi một mô hình đã được chấp nhận, nhất là khi nó rời khỏi tay những người tạo ra nó và hiểu các giới hạn của nó, nó có thể bắt đầu đóng vai một kiểu lời sấm. Khủng hoảng tài chính 2007–2008 phần lớn bị quy cho niềm tin thái quá vào các mô hình tài chính phức tạp dùng để xác định rủi ro của, chẳng hạn, các gói khoản vay thế chấp. Những mô hình này giả định chỉ có tương quan vừa phải giữa việc các khoản vay thế chấp vỡ nợ, và chạy tốt khi thị trường bất động sản bùng nổ.
+
+Nhưng khi điều kiện thay đổi và các khoản vay bắt đầu vỡ nợ, chúng có xu hướng vỡ nợ hàng loạt: mô hình đánh giá thấp rủi ro một cách nghiêm trọng vì tương quan hoá ra cao hơn nhiều so với giả định. Các nhà quản lý cấp cao đơn giản là không nhận ra nền tảng mong manh mà các mô hình này dựa vào, quên mất rằng mô hình là sự đơn giản hoá thế giới thực — chúng là tấm bản đồ chứ không phải vùng đất. Kết quả là một trong những cuộc khủng hoảng kinh tế toàn cầu tồi tệ nhất lịch sử.
 
 ### 7. Tóm tắt (Summary, trang PDF 103)
 
@@ -558,7 +571,9 @@ Một mô hình hồi quy biểu diễn dữ liệu thành tổng của một ph
 
 ### Trong ngôn ngữ thống kê
 
-Chương trình bày hồi quy tuyến tính đơn theo bình phương nhỏ nhất (ŷ = ȳ + r(s_y/s_x)(x − x̄)), hồi quy tuyến tính bội ŷ = b₀ + Σ bⱼxⱼ, và họ mô hình tuyến tính tổng quát (logistic, Poisson) cùng hồi quy Cox. Mô hình được viết dưới dạng y = f(x) + ε. Hồi quy về giá trị trung bình là hệ quả của |r| < 1: kỳ vọng có điều kiện của y được chuẩn hoá luôn gần 0 hơn giá trị x được chuẩn hoá; với hai lần đo độc lập cùng phân phối, corr(Y − X, X) = −1/√2. Phân biệt hệ số quan sát (E[Y | X = x+1] − E[Y | X = x]) với hệ số nhân quả (tác động của can thiệp, theo ký hiệu của Pearl là E[Y | do(X = x+1)] − E[Y | do(X = x)]) — ký hiệu do() là theo hiểu biết của người tổng hợp, sách không dùng.
+Chương trình bày hồi quy tuyến tính đơn theo bình phương nhỏ nhất (ŷ = ȳ + r(s_y/s_x)(x − x̄)), hồi quy tuyến tính bội ŷ = b₀ + Σ bⱼxⱼ, và họ mô hình tuyến tính tổng quát (logistic, Poisson) cùng hồi quy Cox. Mô hình được viết dưới dạng y = f(x) + ε. Hồi quy về giá trị trung bình là hệ quả của |r| < 1: kỳ vọng có điều kiện của y được chuẩn hoá luôn gần 0 hơn giá trị x được chuẩn hoá; với hai lần đo độc lập cùng phân phối, corr(Y − X, X) = −1/√2.
+
+Phân biệt hệ số quan sát (E[Y | X = x+1] − E[Y | X = x]) với hệ số nhân quả (tác động của can thiệp, theo ký hiệu của Pearl là E[Y | do(X = x+1)] − E[Y | do(X = x)]) — ký hiệu do() là theo hiểu biết của người tổng hợp, sách không dùng.
 
 ## Thuật ngữ
 
@@ -630,7 +645,9 @@ Chương trình bày hồi quy tuyến tính đơn theo bình phương nhỏ nh�
 
 ### Sức mạnh của chương: giải thích hồi quy qua chính câu chuyện đã đặt tên cho nó
 
-Thay vì bắt đầu bằng công thức, Spiegelhalter bắt đầu bằng câu hỏi của Galton và cho người đọc thấy vì sao phương pháp lại mang cái tên kỳ lạ "hồi quy": đường bình phương nhỏ nhất thoải hơn đường chéo, nên con của cha mẹ cực đoan được dự báo gần trung bình hơn. Cách dẫn này gắn một kỹ thuật (khớp đường) với một hiện tượng (hồi quy về giá trị trung bình), rồi dùng hiện tượng đó để giải thích một loạt ảo tưởng đời thường: camera bắn tốc độ, HLV bị sa thải, quỹ đầu tư "nóng", lời nguyền bìa tạp chí, hiệu ứng giả dược. Đây là phần có ích nhất của chương với người đọc không chuyên, vì hồi quy về giá trị trung bình là một trong những lỗi suy luận phổ biến và ít được nhận ra nhất. Con số PISA (−0,60 quan sát so với −0,71 nếu chỉ có may rủi) là ví dụ đẹp vì nó cho người đọc một chuẩn so sánh định lượng thay vì chỉ một lời cảnh báo.
+Thay vì bắt đầu bằng công thức, Spiegelhalter bắt đầu bằng câu hỏi của Galton và cho người đọc thấy vì sao phương pháp lại mang cái tên kỳ lạ "hồi quy": đường bình phương nhỏ nhất thoải hơn đường chéo, nên con của cha mẹ cực đoan được dự báo gần trung bình hơn. Cách dẫn này gắn một kỹ thuật (khớp đường) với một hiện tượng (hồi quy về giá trị trung bình), rồi dùng hiện tượng đó để giải thích một loạt ảo tưởng đời thường: camera bắn tốc độ, HLV bị sa thải, quỹ đầu tư "nóng", lời nguyền bìa tạp chí, hiệu ứng giả dược.
+
+Đây là phần có ích nhất của chương với người đọc không chuyên, vì hồi quy về giá trị trung bình là một trong những lỗi suy luận phổ biến và ít được nhận ra nhất. Con số PISA (−0,60 quan sát so với −0,71 nếu chỉ có may rủi) là ví dụ đẹp vì nó cho người đọc một chuẩn so sánh định lượng thay vì chỉ một lời cảnh báo.
 
 ### Phân biệt "quan sát" và "can thiệp" khi đọc hệ số
 
@@ -639,7 +656,7 @@ Câu Alice–Betty (con gái Alice được dự báo cao hơn 0,33 inch, nhưng
 ### Những chỗ đơn giản hoá
 
 - Chương chưa nói gì về độ bất định của hệ số: 0,45 hay 0,33 được trình bày như con số chắc chắn, chưa có khoảng tin cậy hay sai số chuẩn. Điều này có chủ ý, vì sách để dành cho Chương 7 trở đi, nhưng người đọc cần biết rằng chênh lệch 0,33 và 0,30 có thể nằm trong phạm vi may rủi (chính Chương 7 sẽ tính bằng bootstrap rằng khoảng 95% của độ dốc mẹ–con gái 0,33 là 0,22–0,44, tức sai số chuẩn khoảng 0,06; vậy chênh lệch 0,33 so với 0,30 nhỏ hơn nhiều so với độ bất định của từng hệ số).
-- Không bàn về các giả định của hồi quy tuyến tính (quan hệ tuyến tính, sai số có phương sai đều, các quan sát độc lập). Riêng dữ liệu Galton có nhiều con trai cùng một cha, nên các quan sát không độc lập — đây có thể cũng là nguồn gốc của chỗ lệch giữa độ dốc và độ lệch chuẩn đã nêu ở khối Lưu ý.
+- Không bàn về các giả định của hồi quy tuyến tính (quan hệ tuyến tính, sai số có phương sai đều, các quan sát độc lập). Riêng dữ liệu Galton có nhiều con trai cùng một cha, nên các quan sát không độc lập — đây có thể cũng là nguồn gốc của chỗ lệch giữa độ dốc và độ lệch chuẩn đã nêu ở mục Lưu ý cuối chương.
 - Chương nói hồi quy về giá trị trung bình như một hiện tượng thống kê thuần tuý, nhưng chưa nói rõ rằng nó chỉ xảy ra khi tương quan giữa hai lần đo nhỏ hơn 1, và càng mạnh khi tương quan càng thấp (tức khi may rủi chiếm phần lớn). Với tương quan cha–con 0,39, mức "quay về" lớn; với một đại lượng đo rất ổn định, mức quay về nhỏ.
 - Bốn trường phái mô hình hoá được mô tả rất khái quát, như chính tác giả thừa nhận.
 - Câu chuyện khủng hoảng 2008 nêu đúng điểm chính (tương quan vỡ nợ bị đánh giá thấp) nhưng không nêu tên mô hình. Theo hiểu biết của người tổng hợp, mô hình hay bị nhắc tới nhất là "Gaussian copula" dùng định giá các chứng khoán gắn với gói nợ (CDO).
@@ -664,3 +681,116 @@ Câu Alice–Betty (con gái Alice được dự báo cao hơn 0,33 inch, nhưng
 - **Người đọc báo:** khi một bài báo viết "sau khi áp dụng biện pháp X, tình hình cải thiện rõ", hãy hỏi biện pháp được áp dụng lúc nào. Nếu nó được áp dụng đúng lúc tình hình xấu bất thường (tai nạn tăng vọt, doanh số tụt mạnh, điểm thi thấp kỷ lục), phần lớn cải thiện có thể chỉ là hồi quy về giá trị trung bình. Cũng vậy với bảng xếp hạng: đơn vị "tụt hạng mạnh nhất" và "tiến bộ nhất" thường chỉ là những đơn vị năm trước may hoặc xui nhất.
 - **Nhà phân tích:** khi báo cáo hệ số hồi quy, hãy nói rõ nó là liên hệ quan sát hay tác động nhân quả, biến nào đã được hiệu chỉnh và biến nào có thể còn thiếu, và hệ số nằm trên thang nào (độ dốc hay log tỷ số odds). Với biến phản hồi là tỷ lệ, đừng dùng đường thẳng khi có nguy cơ ngoại suy vượt 0% hoặc 100%. Khi đánh giá hiệu quả một chương trình, dùng nhóm đối chứng — tốt nhất là ngẫu nhiên — thay vì so sánh trước–sau.
 - **Người làm chính sách:** muốn biết tác dụng thật của một biện pháp nhắm vào "điểm nóng" (camera, thanh tra, hỗ trợ trường yếu), hãy cân nhắc phân bổ ngẫu nhiên giữa các điểm nóng đủ điều kiện, như tác giả đề xuất cho camera. Khi dựa vào một mô hình để ra quyết định lớn, hãy đòi biết những giả định đơn giản hoá của nó, và đặc biệt là điều gì xảy ra nếu các giả định ấy (như mức tương quan giữa các rủi ro) sai trong một hoàn cảnh khác.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn đi theo trình tự các mục của bản gốc (Galton ở phần mở đầu và “Regression Lines Are Models”, hộp camera bắn tốc độ, “Dealing With More Than One Explanatory Variable”, “Different Types of Response Variables”, “Beyond Basic Regression Modelling”), mỗi nhánh ghi kỹ thuật, ý nghĩa hệ số, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: hồi quy là mô hình đơn giản hóa, hệ số mô tả liên hệ quan sát chứ chưa phải tác động, và giá trị cực đoan có xu hướng quay về trung bình`"]
+  n1["`Phần mở đầu và mục “Regression Lines Are Models” (trang PDF 92–96) — Galton và gốc của chữ hồi quy`"]
+  n0 --- n1
+  n2["`Galton 1886: 197 cặp cha mẹ, 465 con trai, 433 con gái`"]
+  n1 --- n2
+  n3["`Đường bình phương nhỏ nhất: chiều cao con trai = 69,2 + 0,45 × (chiều cao cha − 69,3) inch`"]
+  n1 --- n3
+  n4["`Độ dốc 0,45 chứ không phải 1: cha cao có con trai hơi thấp hơn mình, cha thấp có con trai hơi cao hơn`"]
+  n1 --- n4
+  n5["`Galton gọi là hồi quy về mức tầm thường, nay gọi là hồi quy về giá trị trung bình`"]
+  n1 --- n5
+  n6["`Độ dốc bằng hệ số tương quan nhân tỷ số hai độ lệch chuẩn, tương quan cha–con trai 0,39`"]
+  n1 --- n6
+  n7["`Hệ số hồi quy cho biết thay đổi khi quan sát biến giải thích khác đi, không cho biết khi can thiệp`"]
+  n1 --- n7
+  n8["`Mô hình: quan sát = mô hình tất định + sai số phần dư, tức tín hiệu cộng nhiễu`"]
+  n1 --- n8
+  n9["`Hộp “Do speed cameras reduce accidents?” (trang PDF 96–97) — hồi quy về giá trị trung bình tạo ra tác động ảo`"]
+  n0 --- n9
+  n10["`Một phần mọi giá trị cực đoan là may rủi, mà may rủi không lặp lại đúng như cũ`"]
+  n9 --- n10
+  n11["`Camera đặt ở nơi vừa có nhiều tai nạn: khoảng hai phần ba lợi ích bề ngoài là hồi quy về trung bình`"]
+  n9 --- n11
+  n12["`HLV bị sa thải sau chuỗi thua, quỹ đầu tư được giới thiệu rồi sa sút, lời nguyền bìa Sports Illustrated`"]
+  n9 --- n12
+  n13["`PISA 2003–2012: tương quan thay đổi thứ hạng với thứ hạng ban đầu −0,60, gần mức −0,71 nếu chỉ do may rủi`"]
+  n9 --- n13
+  n14["`Một phần hiệu ứng giả dược là bệnh nhân tự quay về mức thường`"]
+  n9 --- n14
+  n15["`Cách chữa: so với nhóm đối chứng được chọn ngẫu nhiên`"]
+  n9 --- n15
+  n16["`Mục “Dealing With More Than One Explanatory Variable” (trang PDF 97–99) — hồi quy tuyến tính bội và hiệu chỉnh`"]
+  n0 --- n16
+  n17["`Hồi quy mở rộng cho nhiều biến giải thích, biến phân loại, quan hệ cong, biến phản hồi không liên tục`"]
+  n16 --- n17
+  n18["`Con trai = 69,2 + 0,33 × mẹ + 0,41 × cha, con gái = 64,1 + 0,30 × mẹ + 0,40 × cha`"]
+  n16 --- n18
+  n19["`Hiệu chỉnh: hệ số cha–con trai giảm từ 0,45 xuống 0,41, mẹ–con gái từ 0,33 xuống 0,30`"]
+  n16 --- n19
+  n20["`U não Thụy Điển: đã hiệu chỉnh tuổi, vùng, thu nhập nhưng vẫn nghi thiên lệch chẩn đoán, hiệu chỉnh không bao giờ hoàn hảo`"]
+  n16 --- n20
+  n21["`Mục “Different Types of Response Variables” (trang PDF 99–101) — mỗi loại biến phản hồi một dạng hồi quy`"]
+  n0 --- n21
+  n22["`Tỷ lệ dùng hồi quy logistic, hệ số là log tỷ số odds, đường cong không vượt 100%`"]
+  n21 --- n22
+  n23["`Số đếm dùng hồi quy Poisson, hệ số là log tỷ số tỷ suất`"]
+  n21 --- n23
+  n24["`Thời gian sống còn dùng hồi quy Cox, hệ số là log tỷ số nguy cơ`"]
+  n21 --- n24
+  n25["`Mổ tim trẻ dưới 1 tuổi 1991–1995, bỏ Bristol: hệ số 0,001, mỗi 100 ca thêm thì odds tử vong giảm khoảng 10%`"]
+  n21 --- n25
+  n26["`Mục “Beyond Basic Regression Modelling” (trang PDF 101–102) — mô hình là bản đồ, không phải vùng đất`"]
+  n0 --- n26
+  n27["`Bốn chiến lược: công thức đơn giản, mô hình tất định khoa học, thuật toán từ dữ liệu lớn, hồi quy nhân quả của kinh tế học`"]
+  n26 --- n27
+  n28["`George Box: mọi mô hình đều sai, một số có ích`"]
+  n26 --- n28
+  n29["`Khủng hoảng 2007–2008: mô hình rủi ro thế chấp đánh giá thấp tương quan vỡ nợ`"]
+  n26 --- n29
+  n30["`Thông điệp xuyên suốt`"]
+  n0 --- n30
+  n31["`Đọc X tăng 1 thì Y tăng b, hỏi đây là liên hệ quan sát hay tác động của can thiệp`"]
+  n30 --- n31
+  n32["`Chính sách áp dụng đúng lúc tình hình xấu nhất, hãy nghi hồi quy về trung bình trước khi khen`"]
+  n30 --- n32
+  n33["`Nghiên cứu nói đã hiệu chỉnh yếu tố gây nhiễu, hỏi còn yếu tố nào chưa đo`"]
+  n30 --- n33
+  n34["`Mô hình nguy hiểm khi người dùng quên các giả định đơn giản hóa của nó`"]
+  n30 --- n34
+  class n0 root
+  class n1,n9,n16,n21,n26,n30 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n22,n23,n24,n25,n27,n28,n29,n31,n32,n33,n34 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 5 "Modelling Relationships Using Regression", trang PDF 92–103 (cộng chú thích cuối chương và chú thích dấu sao của chương).
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) dạy cách tóm tắt một dãy số và đo mức liên hệ giữa hai biến bằng hệ số tương quan Pearson, với ví dụ phẫu thuật tim trẻ em ở các bệnh viện Anh và điểm ngoại lai Bristol. Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) bàn về việc đi từ dữ liệu tới tổng thể. Chương 4 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md)) cảnh báo rằng tương quan không phải nhân quả, giới thiệu thử nghiệm ngẫu nhiên, biến gây nhiễu và các tiêu chí Bradford Hill, kèm ví dụ nghiên cứu Thuỵ Điển về học vấn và u não.
+
+Chương 5 đưa ra công cụ đầu tiên để mô tả quan hệ giữa một biến cần giải thích và một hay nhiều biến giải thích: **mô hình thống kê (statistical model)**, cụ thể là hồi quy. Chương này cũng giải thích hiện tượng hồi quy về giá trị trung bình, cách "hiệu chỉnh" cho biến gây nhiễu, và vì sao mọi mô hình đều sai. Chương 6 ([C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)) chuyển sang các thuật toán dự báo của học máy, trong đó hồi quy logistic là một đối thủ. Từ Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) trở đi, sách bàn về độ bất định của các con số ước lượng — kể cả các hệ số hồi quy của chương này.
+
+## Lưu ý
+
+- **Độ dốc trong Table 5.2 không khớp với độ lệch chuẩn trong Table 5.1 (nhận xét của người tổng hợp):** sách viết rằng độ dốc hồi quy bằng hệ số tương quan nhân với tỷ số độ lệch chuẩn của biến phụ thuộc và biến độc lập, và "nếu hai độ lệch chuẩn bằng nhau thì độ dốc chính là hệ số tương quan, điều này giải thích sự gần nhau" trong Table 5.2. Nhưng theo Table 5.1, cha và con trai có cùng độ lệch chuẩn 2,6 inch, mẹ và con gái cùng 2,4 inch, nên công thức cho độ dốc 0,39 và 0,31, không phải 0,45 và 0,33 như bảng ghi. Muốn ra 0,45 thì tỷ số độ lệch chuẩn phải khoảng 0,45 / 0,39 = 1,15; muốn ra 0,33 thì tỷ số phải khoảng 1,06. Một cách giải thích khả dĩ (người tổng hợp suy đoán, không kiểm chứng được từ sách): Table 5.1 tính độ lệch chuẩn trên 197 người cha, mỗi người một lần, còn hồi quy dùng 465 cặp cha–con trai, trong đó một người cha có nhiều con trai bị đếm nhiều lần, nên độ lệch chuẩn của chiều cao cha trong 465 cặp có thể nhỏ hơn 2,6. Dù lý do là gì, câu "giải thích sự gần nhau" chỉ đúng một cách lỏng lẻo.
+- **Chú thích dấu sao về hồi quy logistic dùng đơn vị khác lời văn:** lời văn nói hệ số 0,001 nghĩa là tử vong thấp hơn khoảng 10% với mỗi 100 ca mổ thêm "trong giai đoạn bốn năm"; chú thích dấu sao lại nói log của odds tử vong giảm 0,001 "cho mỗi bệnh nhân thêm mỗi năm". Hai cách nói này không tương đương (100 ca thêm mỗi năm là 400 ca thêm trong bốn năm). Người tổng hợp đọc xấp xỉ đường cong trên đồ thị (Figure 5.2): tỷ lệ sống khoảng 84,8% ở 0 ca và khoảng 90,6% ở 640 ca, tức log odds tử vong giảm khoảng 0,085 cho mỗi 100 ca trên trục hoành — trục hoành là tổng số ca của cả giai đoạn. Vậy cách nói của lời văn ("mỗi 100 ca trong giai đoạn bốn năm") khớp với đồ thị; chữ "mỗi năm" trong chú thích có lẽ là lỡ lời. Các số đọc từ đồ thị chỉ là ước lượng.
+- **"Khoảng 10% thấp hơn" là xấp xỉ cho odds, không đúng hẳn cho rủi ro:** log odds giảm 0,1 tương ứng odds nhân với e^(−0,1) = 0,905, tức odds giảm khoảng 9,5%. Với tỷ lệ tử vong quanh 10–15% như trong dữ liệu, rủi ro tử vong giảm tương đối khoảng 8–9% (ví dụ người tổng hợp tự tính: rủi ro 15% có odds 0,176; nhân 0,905 được 0,160, tức rủi ro 13,8%, giảm tương đối 8,2%). Chữ "around 10%" của sách vì vậy chấp nhận được như một con số tròn.
+- **Mâu thuẫn nhỏ với Chương 4 về nghiên cứu u não Thuỵ Điển:** Chương 4 nhấn mạnh nghiên cứu này thực ra nói về vị thế kinh tế – xã hội chứ không phải học vấn, và chính thông cáo báo chí đã đổi thành "học vấn". Chương 5 lại mô tả phân tích hồi quy có "học vấn" là biến giải thích chính, và thu nhập là một biến gây nhiễu được hiệu chỉnh. Theo hiểu biết của người tổng hợp, nghiên cứu gốc dùng nhiều thước đo vị thế kinh tế – xã hội, trong đó có học vấn và thu nhập, nên cả hai cách nói đều có phần đúng, nhưng sách không nói rõ điều này.
+- **Ví dụ camera bắn tốc độ viết chưa chặt:** câu "khi những nghiên cứu như vậy đã được tiến hành" đọc như thể đã có thử nghiệm phân bổ camera ngẫu nhiên. Nguồn sách dẫn là bài của L. Mountain trên tạp chí *Significance* (2006). Theo hiểu biết của người tổng hợp, các ước tính "khoảng hai phần ba lợi ích bề ngoài là do hồi quy về giá trị trung bình" ở Anh chủ yếu đến từ phân tích thống kê dữ liệu trước–sau có hiệu chỉnh cho hồi quy về giá trị trung bình, chứ không phải từ thử nghiệm ngẫu nhiên đúng nghĩa. Người đọc nên coi lời kêu gọi "phân bổ camera ngẫu nhiên" là khuyến nghị về thiết kế, và con số hai phần ba là ước tính từ mô hình.
+- **Câu của George Box được trích hai kiểu:** trong lời văn là "All models are wrong, some are useful", trong phần Summary là "All models are wrong, but some are useful". Dạng có "but" là dạng quen thuộc (theo hiểu biết của người tổng hợp, Box viết như vậy năm 1987, và ý tương tự từ năm 1976).
+- **Legendre và Gauss "cuối thế kỷ mười tám":** theo hiểu biết của người tổng hợp, Legendre công bố phương pháp bình phương nhỏ nhất năm 1805, Gauss công bố năm 1809 và nói mình đã dùng từ khoảng 1795; nói "cuối thế kỷ mười tám" chỉ đúng với lời tự nhận của Gauss.
+- **Chú thích dấu sao về Table 5.3 dùng chữ "standardized" chưa chuẩn:** chú thích nói các biến giải thích đã được "chuẩn hoá bằng cách trừ đi giá trị trung bình trong mẫu". Trừ trung bình thường gọi là *định tâm* (centring); "chuẩn hoá" thường còn chia cho độ lệch chuẩn. Ở đây chỉ có định tâm, nên hệ số vẫn tính theo đơn vị inch.
+- **Lỗi đánh máy:** trang PDF 98 ghi "response variables that not continuous variables" (thiếu chữ "are").
+- **Hình là đồ thị không ghi số:** Figure 5.1 (đám điểm chiều cao cha–con trai) và Figure 5.2 (tỷ lệ sống sau phẫu thuật tim theo số ca mổ) không ghi số trên điểm; mọi tọa độ trong bản tổng hợp này đọc từ trục là ước lượng. Các con số trong Table 5.1, 5.2, 5.3 có trong lớp chữ và đã đối chiếu với ảnh trang.
+- **Lớp chữ hỏng:** công thức trong chú thích cuối chương số 4 (tương quan bằng −1/√2) và công thức bình phương nhỏ nhất trong bảng thuật ngữ là ảnh, bị mất trong lớp chữ; người tổng hợp viết lại dựa trên kết quả −0,71 mà sách nêu và công thức chuẩn. Danh sách chú thích dấu sao trong tệp chữ của chương bị lệch (chứa các chú thích của Chương 6); bản tổng hợp dùng đúng bảy chú thích của Chương 5 lấy từ danh sách chú thích toàn sách.
+- **Các phép tính đã tự kiểm tra:** 64 inch = 1,626 m, 69 inch = 1,753 m (khớp với 1,63 và 1,75 m của sách); đường hồi quy 69,2 + 0,45 × (chiều cao cha − 69,3) cho 71,8 inch khi cha cao 75 inch và 65,9 inch khi cha cao 62 inch, khớp với đường vẽ trong Figure 5.1; tương quan giữa hiệu Y − X và X khi X, Y độc lập cùng phân phối bằng −1/√2 = −0,707, khớp với −0,71.

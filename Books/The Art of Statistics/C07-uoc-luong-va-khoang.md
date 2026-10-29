@@ -1,22 +1,16 @@
 # Chương 7 — Ta có thể chắc đến đâu về điều đang diễn ra? Ước lượng và khoảng (How Sure Can We Be About What Is Going On? Estimates and Intervals)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 7 "How Sure Can We Be About What Is Going On? Estimates and Intervals", trang PDF 133–143 (cộng chú thích cuối chương và chú thích dấu sao của chương).
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) giới thiệu khảo sát Natsal về số bạn tình trong đời và các thống kê tóm tắt (trung bình, trung vị). Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) phân biệt mẫu với tổng thể, thống kê (statistic) của mẫu với tham số (parameter) của tổng thể, qua dữ liệu cân nặng sơ sinh. Chương 5 ([C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md)) khớp đường hồi quy cho chiều cao mẹ–con gái với độ dốc 0,33. Chương 6 ([C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)) bàn về thuật toán dự báo. Chương 7 đặt câu hỏi then chốt của suy luận thống kê: **một con số tính từ mẫu có thể sai lệch bao nhiêu so với giá trị thật của tổng thể?**, và trả lời bằng phương pháp bootstrap — lấy mẫu lại từ chính mẫu, không cần lý thuyết xác suất. Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) mới giới thiệu lý thuyết xác suất, và Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) dùng nó để tính khoảng tin cậy bằng công thức, rồi so lại với kết quả bootstrap của chương này.
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **mọi con số tính từ một mẫu chỉ là ước lượng, và một ước lượng không đi kèm khoảng bất định là thông tin không đầy đủ; có thể đo độ bất định đó bằng cách hình dung việc lấy mẫu lặp lại nhiều lần, và bootstrap — lấy mẫu lại có hoàn lại từ chính dữ liệu — cho phép làm việc này chỉ bằng máy tính, không cần giả định về hình dạng của tổng thể và không cần lý thuyết xác suất.** Hộp mở đầu kể rằng tháng 1/2018 BBC đưa tin thất nghiệp ở Anh "giảm 3.000 xuống 1,44 triệu", trong khi biên sai số là ±77.000, tức thay đổi thật có thể từ giảm 80.000 tới tăng 74.000; ở Mỹ, mức tăng 108.000 người thất nghiệp có biên sai số ±300.000. Phần tiếp theo nhắc lại phân biệt thống kê của mẫu (ký hiệu chữ La-tinh, m, s) với tham số của tổng thể (chữ Hy Lạp, μ, σ), và chỉ ra rằng cỡ mẫu phải ảnh hưởng tới mức ta tin vào ước lượng: 7 trên 100 người thất nghiệp khác hẳn 7.000 trên 100.000. Mục "Numbers of Sexual Partners" dùng 796 đàn ông 35–44 tuổi trong khảo sát Natsal-3: các mẫu con 10, 50, 200 người có trung bình số bạn tình 21,1; 18,8; 15,4, tiến dần tới 14,9 của cả 796 người. Để biết ước lượng chính xác đến đâu, ta cần biết nó sẽ dao động bao nhiêu nếu lấy mẫu lại — nhưng muốn biết điều đó lại phải biết tổng thể. Có hai cách thoát vòng luẩn quẩn: giả định hình dạng tổng thể và dùng lý thuyết xác suất (cách truyền thống, Chương 9), hoặc giả định tổng thể trông giống mẫu và lấy mẫu lại từ mẫu (bootstrap). Lặp lại 1.000 lần cho ra phân phối lấy mẫu của trung bình; các phân phối này gần như đối xứng dù dữ liệu gốc lệch mạnh (dấu hiệu đầu tiên của Định lý Giới hạn Trung tâm), và hẹp dần khi cỡ mẫu tăng. Khoảng chứa 95% các trung bình bootstrap là khoảng bất định 95%: từ 10,4–34,6 (10 người) thu hẹp xuống 13,4–16,6 (796 người). Cùng cách đó áp dụng cho độ dốc hồi quy mẹ–con gái của Galton: khoảng 95% là 0,22–0,44. Bootstrap trực quan và mạnh, nhưng quá cồng kềnh cho các khảo sát 100.000 người, nơi đã có lý thuyết cho công thức sẵn.
+## Ý chính
 
-> **Lưu ý:**
-> - **Biên sai số ±77.000 gắn với "tổng" hay với "thay đổi" (nhận xét của người tổng hợp):** sách viết "biên sai số *trên tổng số này* là ±77.000", rồi áp con số đó vào *mức thay đổi* (giảm 3.000, nên thay đổi thật từ giảm 80.000 tới tăng 74.000). Cách áp dụng cho thấy ±77.000 là biên sai số của mức thay đổi theo quý, không phải của mức 1,44 triệu. Phép tính đúng: −3.000 − 77.000 = −80.000 và −3.000 + 77.000 = +74.000. Tương tự cho Mỹ: 108.000 ± 300.000 cho khoảng từ giảm 192.000 tới tăng 408.000 (sách không ghi khoảng này; người tổng hợp tự tính).
-> - **Tên cơ quan:** sách viết "UK Office of National Statistics"; tên chính thức là Office *for* National Statistics (ONS) (theo hiểu biết của người tổng hợp).
-> - **Chú thích dấu sao về dữ liệu bảng lương ở Mỹ viết chưa chặt:** chú thích nói "thay đổi thất nghiệp tính từ dữ liệu bảng lương" chính xác hơn, biên sai số khoảng ±100.000. Theo hiểu biết của người tổng hợp, khảo sát bảng lương của doanh nghiệp (khảo sát CES) đo thay đổi số *việc làm*, không đo số người thất nghiệp; số người thất nghiệp đến từ khảo sát hộ gia đình (khoảng 60.000 hộ) mà lời văn nhắc tới.
-> - **"Table 2–2":** lời văn trang PDF 134 viết "Table 2–2" (dấu gạch) thay vì "Table 2.2" như cách đánh số ở các chương khác — lỗi đánh máy nhỏ.
-> - **"Khoảng bất định gần như đối xứng" chỉ đúng tương đối:** sách nói tính đối xứng của phân phối bootstrap làm cho khoảng bất định gần đối xứng quanh ước lượng gốc. Người tổng hợp tính từ bảng khoảng bất định: với mẫu 10 người, khoảng 10,4–34,6 nằm dưới ước lượng 21,1 là 10,7 và trên 13,5; với 50 người: 6,6 và 8,4; với 200 người: 2,7 và 3,2; với 796 người: 1,5 và 1,7. Phía trên luôn dài hơn, phản ánh dữ liệu lệch phải; sự lệch giảm dần khi cỡ mẫu tăng. Tương tự, câu "hình dạng phân phối của thống kê không phụ thuộc vào hình dạng phân phối gốc" là cách nói mạnh: Định lý Giới hạn Trung tâm chỉ nói hình dạng *tiến dần* tới phân phối chuẩn khi cỡ mẫu tăng; với 10 người, phân phối bootstrap vẫn còn đuôi phải (đọc từ đồ thị: kéo dài tới khoảng 40 trong khi phía trái dừng ở khoảng 8).
-> - **"Khoảng bất định" và "biên sai số" được dùng như một:** sách gọi khoảng 95% là "uncertainty interval" và nói nó "cũng có thể gọi là margins of error". Trong cách dùng thông thường (và chính bảng thuật ngữ cuối sách), biên sai số thường chỉ *nửa độ rộng* (ví dụ ±77.000), còn khoảng là toàn bộ đoạn (ước lượng ± biên sai số). Bản tổng hợp giữ hai từ tách bạch.
-> - **"Ít biến động" của độ dốc là tương đối:** sách nói các đường hồi quy bootstrap của dữ liệu mẹ–con gái "biến động tương đối ít" vì mẫu lớn, nhưng khoảng 95% của độ dốc là 0,22–0,44, tức cận trên gấp đôi cận dưới. Ít biến động ở đây là so với độ tản rất lớn của dữ liệu, không phải là độ dốc đã được xác định chính xác.
-> - **Mẫu con lồng nhau:** các mẫu 10, 50, 200 được lấy *nối tiếp* ("tạm dừng khi đạt 10, 50 và 200"), nên mẫu 50 chứa mẫu 10, mẫu 200 chứa mẫu 50 (chú thích bảng khoảng bất định gọi là "nested random samples"). Vì vậy bốn ước lượng không độc lập với nhau.
-> - **Đồ thị không ghi số:** bốn hình của chương (phân phối số bạn tình theo cỡ mẫu; mẫu 50 và ba mẫu bootstrap; phân phối trung bình của 1.000 mẫu bootstrap; 20 đường hồi quy bootstrap trên dữ liệu mẹ–con gái) đều không ghi số trên cột hay điểm; mọi tọa độ bản tổng hợp nêu là ước lượng đọc từ trục. Các hình chỉ vẽ tới 50 bạn tình ("giá trị trên 50 không được vẽ"). Người tổng hợp kiểm tra chéo mẫu 10 người: chín giá trị đọc được trên đồ thị (khoảng 4, 6, 7, 11, 12, 12, 20, 29, 40) có tổng 141; trung bình 21,1 của 10 người đòi tổng 211, nên giá trị thứ mười (không vẽ vì trên 50) khoảng 70; trung vị của mười giá trị là (12 + 12) / 2 = 12, khớp với bảng.
-> - **Lớp chữ hỏng:** trong lớp chữ của bảng thống kê tóm tắt (Table 7.1), dòng mẫu 200 người ghi nhầm nhãn "Median number of partners: 15.4" thay cho "Mean"; ảnh trang cho thấy đúng là trung bình 15,4, trung vị 8. Danh sách chú thích dấu sao trong tệp chữ của chương bị lệch; hai chú thích thực sự của Chương 7 (về nhà báo và về dữ liệu bảng lương) được lấy từ danh sách chú thích toàn sách và đối chiếu với vị trí dấu sao trên ảnh trang.
-> - **Bảng so sánh khoảng chính xác và khoảng bootstrap của độ dốc (0,23–0,42 so với 0,22–0,44) nằm ở Chương 9**, không thuộc chương này; bản tổng hợp chỉ nhắc ở phần liên hệ.
+Spiegelhalter muốn người đọc hiểu rằng **mọi con số tính từ một mẫu chỉ là ước lượng, và một ước lượng không đi kèm khoảng bất định là thông tin không đầy đủ; có thể đo độ bất định đó bằng cách hình dung việc lấy mẫu lặp lại nhiều lần, và bootstrap — lấy mẫu lại có hoàn lại từ chính dữ liệu — cho phép làm việc này chỉ bằng máy tính, không cần giả định về hình dạng của tổng thể và không cần lý thuyết xác suất.**
+
+Hộp mở đầu kể rằng tháng 1/2018 BBC đưa tin thất nghiệp ở Anh "giảm 3.000 xuống 1,44 triệu", trong khi biên sai số là ±77.000, tức thay đổi thật có thể từ giảm 80.000 tới tăng 74.000; ở Mỹ, mức tăng 108.000 người thất nghiệp có biên sai số ±300.000.
+
+Phần tiếp theo nhắc lại phân biệt thống kê của mẫu (ký hiệu chữ La-tinh, m, s) với tham số của tổng thể (chữ Hy Lạp, μ, σ), và chỉ ra rằng cỡ mẫu phải ảnh hưởng tới mức ta tin vào ước lượng: 7 trên 100 người thất nghiệp khác hẳn 7.000 trên 100.000.
+
+Mục "Numbers of Sexual Partners" dùng 796 đàn ông 35–44 tuổi trong khảo sát Natsal-3: các mẫu con 10, 50, 200 người có trung bình số bạn tình 21,1; 18,8; 15,4, tiến dần tới 14,9 của cả 796 người. Để biết ước lượng chính xác đến đâu, ta cần biết nó sẽ dao động bao nhiêu nếu lấy mẫu lại — nhưng muốn biết điều đó lại phải biết tổng thể. Có hai cách thoát vòng luẩn quẩn: giả định hình dạng tổng thể và dùng lý thuyết xác suất (cách truyền thống, Chương 9), hoặc giả định tổng thể trông giống mẫu và lấy mẫu lại từ mẫu (bootstrap).
+
+Lặp lại 1.000 lần cho ra phân phối lấy mẫu của trung bình; các phân phối này gần như đối xứng dù dữ liệu gốc lệch mạnh (dấu hiệu đầu tiên của Định lý Giới hạn Trung tâm), và hẹp dần khi cỡ mẫu tăng. Khoảng chứa 95% các trung bình bootstrap là khoảng bất định 95%: từ 10,4–34,6 (10 người) thu hẹp xuống 13,4–16,6 (796 người). Cùng cách đó áp dụng cho độ dốc hồi quy mẹ–con gái của Galton: khoảng 95% là 0,22–0,44. Bootstrap trực quan và mạnh, nhưng quá cồng kềnh cho các khảo sát 100.000 người, nơi đã có lý thuyết cho công thức sẵn.
 
 ## Sơ đồ
 
@@ -220,7 +214,9 @@
 
 ### 1. Ở Anh có bao nhiêu người thất nghiệp? (How many people are unemployed in the UK?, hộp mở đầu chương, trang PDF 133)
 
-Tháng 1/2018, trang tin BBC News thông báo rằng trong ba tháng tính tới tháng 11 năm trước, "thất nghiệp ở Anh giảm 3.000, xuống 1,44 triệu". Nguyên nhân của sự giảm này được tranh luận, nhưng không ai hỏi liệu con số có thực sự chính xác. Xem kỹ trang web của Cơ quan Thống kê Quốc gia Anh thì thấy **biên sai số** (margin of error) của con số này là ±77.000 — nói cách khác, thay đổi thật có thể là bất cứ đâu từ giảm 80.000 tới tăng 74.000. Vậy dù nhà báo và chính trị gia có vẻ tin rằng mức giảm 3.000 là một phép đếm cố định, bất biến của cả nước, thực ra đó là một ước lượng thiếu chính xác dựa trên khảo sát khoảng 100.000 người. (Chú thích của tác giả: có lần ông gợi ý với một nhóm nhà báo rằng điều này nên được nói rõ trong bài viết của họ, và nhận lại những ánh mắt hoàn toàn không hiểu.)
+Tháng 1/2018, trang tin BBC News thông báo rằng trong ba tháng tính tới tháng 11 năm trước, "thất nghiệp ở Anh giảm 3.000, xuống 1,44 triệu". Nguyên nhân của sự giảm này được tranh luận, nhưng không ai hỏi liệu con số có thực sự chính xác. Xem kỹ trang web của Cơ quan Thống kê Quốc gia Anh thì thấy **biên sai số** (margin of error) của con số này là ±77.000 — nói cách khác, thay đổi thật có thể là bất cứ đâu từ giảm 80.000 tới tăng 74.000.
+
+Vậy dù nhà báo và chính trị gia có vẻ tin rằng mức giảm 3.000 là một phép đếm cố định, bất biến của cả nước, thực ra đó là một ước lượng thiếu chính xác dựa trên khảo sát khoảng 100.000 người. (Chú thích của tác giả: có lần ông gợi ý với một nhóm nhà báo rằng điều này nên được nói rõ trong bài viết của họ, và nhận lại những ánh mắt hoàn toàn không hiểu.)
 
 Tương tự, khi Cục Thống kê Lao động Mỹ báo cáo số người thất nghiệp dân sự tăng 108.000 (đã điều chỉnh mùa vụ) từ tháng 12/2017 tới tháng 1/2018, con số này dựa trên mẫu khoảng 60.000 hộ gia đình và có biên sai số (một lần nữa, khá khó tìm) là ±300.000. Người tổng hợp tính: thay đổi thật có thể từ giảm 192.000 tới tăng 408.000. (Chú thích của tác giả: thay đổi tính từ dữ liệu bảng lương, dựa trên báo cáo của người sử dụng lao động, chính xác hơn một chút, với biên sai số khoảng ±100.000. Nguồn: thống kê thị trường lao động Anh tháng 1/2018 của ONS và ghi chú kỹ thuật "Employment Situation" 2018 của Cục Thống kê Lao động Mỹ.)
 
@@ -245,7 +241,9 @@ Giả sử ta đã thu thập được dữ liệu chính xác, chẳng hạn b�
 
 Thường chỉ có thống kê tóm tắt được công bố, và trong vài hoàn cảnh như vậy là đủ. Chẳng hạn, như đã thấy, phần lớn mọi người không biết rằng số liệu thất nghiệp ở Anh và Mỹ không dựa trên việc đếm đủ những người đăng ký thất nghiệp chính thức, mà dựa trên các khảo sát lớn. Nếu một khảo sát thấy 7% người trong mẫu thất nghiệp, các cơ quan quốc gia và báo chí thường trình bày con số này như một sự thật đơn giản rằng 7% toàn bộ dân số thất nghiệp, thay vì thừa nhận 7% chỉ là ước lượng. Nói chính xác hơn, họ nhầm trung bình mẫu với trung bình tổng thể.
 
-Điều này có thể không quan trọng nếu ta chỉ muốn một bức tranh khái quát về tình hình đất nước và khảo sát rất lớn, đáng tin. Nhưng giả sử, lấy một ví dụ cực đoan, bạn nghe rằng chỉ có 100 người được hỏi họ có thất nghiệp không, và 7 người nói có. Ước lượng sẽ là 7%, nhưng có lẽ bạn sẽ không cho là đáng tin, và sẽ không vui khi con số này được coi như mô tả cả tổng thể. Nếu khảo sát có 1.000 người thì sao? 100.000 người? Với một khảo sát đủ lớn, bạn có thể bắt đầu thấy yên tâm hơn rằng ước lượng từ mẫu là một tóm tắt đủ tốt. Cỡ mẫu phải ảnh hưởng tới mức bạn tin vào ước lượng, và biết chính xác nó tạo ra khác biệt bao nhiêu là điều kiện cơ bản cho suy luận thống kê đúng đắn.
+Điều này có thể không quan trọng nếu ta chỉ muốn một bức tranh khái quát về tình hình đất nước và khảo sát rất lớn, đáng tin. Nhưng giả sử, lấy một ví dụ cực đoan, bạn nghe rằng chỉ có 100 người được hỏi họ có thất nghiệp không, và 7 người nói có. Ước lượng sẽ là 7%, nhưng có lẽ bạn sẽ không cho là đáng tin, và sẽ không vui khi con số này được coi như mô tả cả tổng thể.
+
+Nếu khảo sát có 1.000 người thì sao? 100.000 người? Với một khảo sát đủ lớn, bạn có thể bắt đầu thấy yên tâm hơn rằng ước lượng từ mẫu là một tóm tắt đủ tốt. Cỡ mẫu phải ảnh hưởng tới mức bạn tin vào ước lượng, và biết chính xác nó tạo ra khác biệt bao nhiêu là điều kiện cơ bản cho suy luận thống kê đúng đắn.
 
 Minh hoạ của người tổng hợp (dùng công thức gần đúng cho tỷ lệ mà Chương 9 sẽ trình bày, theo hiểu biết của người tổng hợp: biên sai số 95% xấp xỉ ±2 × √(p(1 − p)/n)):
 
@@ -272,7 +270,7 @@ Hình đầu tiên của chương gồm bốn đồ thị cột chồng nhau, tr
 - **Cả 796 người (đồ thị dưới cùng):** phân phối lệch phải mạnh. Cột cao nhất ở 1 bạn tình (khoảng 0,105); các giá trị 2–8 mỗi giá trị khoảng 0,03–0,08; có những "đỉnh nhỏ" ở các số tròn 10, 15, 20 (khoảng 0,055) và 30 (khoảng 0,047) — dấu hiệu người trả lời làm tròn; đuôi dài kéo tới 50 với các cột nhỏ ở 35, 40, 45, 50; rất ít người trả lời 0.
 - **200 người:** hình dạng tương tự nhưng gồ ghề hơn: khoảng 0,11 ở 1, khoảng 0,095 ở 4 và ở 20, khoảng 0,06 ở 30.
 - **50 người:** gồ ghề rõ: cột cao nhất khoảng 0,20 ở 12; khoảng 0,10 ở 4 và ở 11; rải rác các giá trị tới 40 và 45.
-- **10 người:** chỉ có vài cột rời: khoảng 4, 6, 7, 11, 12 (hai người), 20, 29 và 40 — chín giá trị. Như khối Lưu ý đã tính, giá trị thứ mười (trên 50, không được vẽ) phải vào khoảng 70 để trung bình là 21,1.
+- **10 người:** chỉ có vài cột rời: khoảng 4, 6, 7, 11, 12 (hai người), 20, 29 và 40 — chín giá trị. Như mục Lưu ý cuối chương đã tính, giá trị thứ mười (trên 50, không được vẽ) phải vào khoảng 70 để trung bình là 21,1.
 
 Rõ ràng mẫu nhỏ "lổn nhổn" hơn, vì chúng nhạy với từng điểm dữ liệu riêng lẻ, nhưng hình dạng phân phối dần tiến tới hình dạng của cả nhóm 796 người.
 
@@ -337,7 +335,7 @@ Người tổng hợp mô tả hình thứ ba của chương (trục hoành: s�
 
 Hình này cho thấy hai đặc điểm rõ ràng.
 
-**Thứ nhất**, và có lẽ đáng chú ý nhất, gần như mọi dấu vết về độ lệch của các mẫu gốc đã biến mất: phân phối của các ước lượng tính từ dữ liệu lấy lại gần như đối xứng quanh trung bình của dữ liệu gốc. Đây là cái nhìn thoáng qua đầu tiên về **Định lý Giới hạn Trung tâm**: phân phối của trung bình mẫu có xu hướng tiến về dạng phân phối chuẩn khi cỡ mẫu tăng, *gần như bất kể hình dạng phân phối dữ liệu gốc*. Đây là một kết quả phi thường, sẽ được tìm hiểu thêm ở Chương 9. (Như khối Lưu ý đã nêu, với mẫu 10 người phân phối vẫn còn đuôi phải rõ.)
+**Thứ nhất**, và có lẽ đáng chú ý nhất, gần như mọi dấu vết về độ lệch của các mẫu gốc đã biến mất: phân phối của các ước lượng tính từ dữ liệu lấy lại gần như đối xứng quanh trung bình của dữ liệu gốc. Đây là cái nhìn thoáng qua đầu tiên về **Định lý Giới hạn Trung tâm**: phân phối của trung bình mẫu có xu hướng tiến về dạng phân phối chuẩn khi cỡ mẫu tăng, *gần như bất kể hình dạng phân phối dữ liệu gốc*. Đây là một kết quả phi thường, sẽ được tìm hiểu thêm ở Chương 9. (Như mục Lưu ý cuối chương đã nêu, với mẫu 10 người phân phối vẫn còn đuôi phải rõ.)
 
 **Thứ hai**, phân phối bootstrap hẹp dần khi cỡ mẫu tăng, thể hiện qua các khoảng bất định 95% ngày càng hẹp.
 
@@ -521,3 +519,115 @@ Ví dụ thất nghiệp mở đầu là cái móc tốt: một con số đượ
 - **Người đọc báo:** khi đọc "thất nghiệp giảm", "tỷ lệ ủng hộ tăng 2 điểm", "giá nhà tăng 0,3%", hãy hỏi: con số đến từ khảo sát hay phép đếm đầy đủ, cỡ mẫu bao nhiêu, biên sai số bao nhiêu? Nếu biên sai số lớn hơn mức thay đổi, câu đúng là "không thấy thay đổi rõ ràng", không phải "giảm". Với khảo sát khoảng 1.000 người, một tỷ lệ quanh 50% có biên sai số khoảng ±3 điểm phần trăm (theo công thức gần đúng của người tổng hợp: 2 × √(0,5 × 0,5 / 1.000) ≈ 0,032).
 - **Nhà phân tích:** luôn công bố ước lượng kèm khoảng; với thống kê không có công thức sẵn (trung vị, tỷ số, độ dốc, chênh lệch giữa hai trung vị), bootstrap là cách nhanh để có khoảng. Nhớ kiểm tra giả định của bootstrap: quan sát độc lập (nếu dữ liệu theo cụm thì lấy mẫu lại theo cụm), và mẫu không quá nhỏ. Khi dữ liệu lệch mạnh, báo cáo cả trung vị lẫn trung bình, và chú ý rằng khoảng của trung bình có thể không đối xứng.
 - **Người làm chính sách:** đừng điều chỉnh chính sách theo những thay đổi nằm trong biên sai số; hãy yêu cầu cơ quan thống kê công bố biên sai số rõ ràng, ngay cạnh con số chính, cho cả mức và mức thay đổi. Khi thiết kế khảo sát, nhớ rằng muốn giảm biên sai số một nửa phải tăng cỡ mẫu khoảng bốn lần, và rằng không cỡ mẫu nào sửa được thiên lệch do thiếu phản hồi hay câu hỏi tồi.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: năm nhánh lớn đi theo trình tự của bản gốc (hộp thất nghiệp ở Anh và phần tiếp theo về thống kê và tham số, ba phần của mục “Numbers of Sexual Partners” gồm mẫu con lớn dần, bootstrap trung bình, bootstrap đường hồi quy và giới hạn), mỗi nhánh ghi khái niệm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: mọi con số từ mẫu chỉ là ước lượng và phải đi kèm khoảng bất định, bootstrap đo được độ bất định đó chỉ bằng máy tính`"]
+  n1["`Hộp mở đầu và phần tiếp theo (trang PDF 133–134) — một ước lượng không kèm biên sai số là thông tin không đầy đủ`"]
+  n0 --- n1
+  n2["`BBC tháng 1/2018: thất nghiệp ở Anh giảm 3.000 xuống 1,44 triệu, nhưng biên sai số ±77.000`"]
+  n1 --- n2
+  n3["`Thay đổi thật có thể từ giảm 80.000 tới tăng 74.000, nên dữ liệu không cho biết tăng hay giảm`"]
+  n1 --- n3
+  n4["`Ở Mỹ, mức tăng 108.000 người thất nghiệp có biên sai số ±300.000`"]
+  n1 --- n4
+  n5["`Theo sách, thay đổi tính từ dữ liệu bảng lương ở Mỹ chính xác hơn, biên sai số khoảng ±100.000`"]
+  n1 --- n5
+  n6["`Thống kê của mẫu ký hiệu chữ La-tinh (m, s), tham số của tổng thể ký hiệu chữ Hy Lạp (μ, σ)`"]
+  n1 --- n6
+  n7["`Cỡ mẫu quyết định mức tin: 7 trên 100 người khác hẳn 7.000 trên 100.000`"]
+  n1 --- n7
+  n8["`Báo chí và cơ quan công quyền thường nhầm trung bình mẫu với trung bình tổng thể`"]
+  n1 --- n8
+  n9["`Mục “Numbers of Sexual Partners” phần 1 (trang PDF 134–136) — mẫu con lớn dần và vòng luẩn quẩn`"]
+  n0 --- n9
+  n10["`Natsal-3, 796 đàn ông 35–44 tuổi tạm coi là tổng thể, phân phối số bạn tình lệch phải mạnh`"]
+  n9 --- n10
+  n11["`Mẫu con 10, 50, 200 người có trung bình 21,1, 18,8, 15,4, tiến dần tới 14,9 của cả 796 người`"]
+  n9 --- n11
+  n12["`Trung vị của các mẫu con ổn định hơn: 12, 9, 8, 8`"]
+  n9 --- n12
+  n13["`Muốn biết ước lượng dao động bao nhiêu khi lấy mẫu lại thì lại phải biết tổng thể`"]
+  n9 --- n13
+  n14["`Cách truyền thống giả định hình dạng tổng thể và dùng lý thuyết xác suất (Chương 9)`"]
+  n9 --- n14
+  n15["`Cách thay thế giả định tổng thể trông giống mẫu và lấy mẫu lại từ chính mẫu`"]
+  n9 --- n15
+  n16["`Mục “Numbers of Sexual Partners” phần 2 (trang PDF 136–140) — bootstrap trung bình`"]
+  n0 --- n16
+  n17["`Bootstrap: rút có hoàn lại một mẫu cùng cỡ từ dữ liệu, tính lại thống kê, lặp 1.000 lần`"]
+  n16 --- n17
+  n18["`Ba mẫu bootstrap của mẫu 50 người cho trung bình 14,5, 26,5, 22,5`"]
+  n16 --- n18
+  n19["`Phân phối bootstrap hẹp dần khi cỡ mẫu tăng`"]
+  n16 --- n19
+  n20["`Phân phối 1.000 trung bình gần đối xứng dù dữ liệu gốc lệch mạnh, dấu hiệu của Định lý Giới hạn Trung tâm`"]
+  n16 --- n20
+  n21["`Khoảng chứa 95% trung bình bootstrap là khoảng bất định 95%`"]
+  n16 --- n21
+  n22["`Từ 10,4–34,6 với 10 người thu hẹp xuống 13,4–16,6 với 796 người`"]
+  n21 --- n22
+  n23["`Mọi khoảng đều chứa 14,9, độ rộng giảm gần theo căn bậc hai cỡ mẫu`"]
+  n21 --- n23
+  n24["`Mục “Numbers of Sexual Partners” phần 3 (trang PDF 140–142) — bootstrap đường hồi quy và giới hạn`"]
+  n0 --- n24
+  n25["`Độ dốc hồi quy chiều cao mẹ–con gái của Galton là 0,33, từ 433 cặp`"]
+  n24 --- n25
+  n26["`1.000 mẫu bootstrap cho khoảng 95% của độ dốc là 0,22–0,44`"]
+  n24 --- n26
+  n27["`Bootstrap trực quan, dựa sức máy tính, không cần giả định dạng tổng thể hay lý thuyết xác suất`"]
+  n24 --- n27
+  n28["`Thống kê từ mẫu bootstrap có xu hướng theo phân phối chuẩn khi dữ liệu lớn hơn, bất kể dạng phân phối gốc`"]
+  n24 --- n28
+  n29["`Bootstrap cồng kềnh với dữ liệu rất lớn, nơi lý thuyết xác suất cho công thức sẵn (Chương 8–9)`"]
+  n24 --- n29
+  n30["`Thông điệp xuyên suốt`"]
+  n0 --- n30
+  n31["`Thấy con số từ khảo sát, tìm biên sai số trước khi tin vào hướng thay đổi`"]
+  n30 --- n31
+  n32["`Đừng đồng nhất x% người trong mẫu với x% dân số`"]
+  n30 --- n32
+  n33["`Tăng cỡ mẫu 4 lần chỉ làm khoảng hẹp đi khoảng 2 lần`"]
+  n30 --- n33
+  n34["`Khoảng bất định chỉ đo may rủi khi chọn mẫu, không sửa được thiên lệch`"]
+  n30 --- n34
+  class n0 root
+  class n1,n9,n16,n24,n30 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n31,n32,n33,n34 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books 2019 (bản Mỹ đầu tiên; bản gốc Pelican, Anh, 3/2019), Chương 7 "How Sure Can We Be About What Is Going On? Estimates and Intervals", trang PDF 133–143 (cộng chú thích cuối chương và chú thích dấu sao của chương).
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 ([C02-tom-tat-va-truyen-dat-con-so.md](C02-tom-tat-va-truyen-dat-con-so.md)) giới thiệu khảo sát Natsal về số bạn tình trong đời và các thống kê tóm tắt (trung bình, trung vị). Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) phân biệt mẫu với tổng thể, thống kê (statistic) của mẫu với tham số (parameter) của tổng thể, qua dữ liệu cân nặng sơ sinh. Chương 5 ([C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md)) khớp đường hồi quy cho chiều cao mẹ–con gái với độ dốc 0,33. Chương 6 ([C06-thuat-toan-phan-tich-va-du-bao.md](C06-thuat-toan-phan-tich-va-du-bao.md)) bàn về thuật toán dự báo.
+
+Chương 7 đặt câu hỏi then chốt của suy luận thống kê: **một con số tính từ mẫu có thể sai lệch bao nhiêu so với giá trị thật của tổng thể?**, và trả lời bằng phương pháp bootstrap — lấy mẫu lại từ chính mẫu, không cần lý thuyết xác suất. Chương 8 ([C08-xac-suat-ngon-ngu-cua-bat-dinh.md](C08-xac-suat-ngon-ngu-cua-bat-dinh.md)) mới giới thiệu lý thuyết xác suất, và Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) dùng nó để tính khoảng tin cậy bằng công thức, rồi so lại với kết quả bootstrap của chương này.
+
+## Lưu ý
+
+- **Biên sai số ±77.000 gắn với "tổng" hay với "thay đổi" (nhận xét của người tổng hợp):** sách viết "biên sai số *trên tổng số này* là ±77.000", rồi áp con số đó vào *mức thay đổi* (giảm 3.000, nên thay đổi thật từ giảm 80.000 tới tăng 74.000). Cách áp dụng cho thấy ±77.000 là biên sai số của mức thay đổi theo quý, không phải của mức 1,44 triệu. Phép tính đúng: −3.000 − 77.000 = −80.000 và −3.000 + 77.000 = +74.000. Tương tự cho Mỹ: 108.000 ± 300.000 cho khoảng từ giảm 192.000 tới tăng 408.000 (sách không ghi khoảng này; người tổng hợp tự tính).
+- **Tên cơ quan:** sách viết "UK Office of National Statistics"; tên chính thức là Office *for* National Statistics (ONS) (theo hiểu biết của người tổng hợp).
+- **Chú thích dấu sao về dữ liệu bảng lương ở Mỹ viết chưa chặt:** chú thích nói "thay đổi thất nghiệp tính từ dữ liệu bảng lương" chính xác hơn, biên sai số khoảng ±100.000. Theo hiểu biết của người tổng hợp, khảo sát bảng lương của doanh nghiệp (khảo sát CES) đo thay đổi số *việc làm*, không đo số người thất nghiệp; số người thất nghiệp đến từ khảo sát hộ gia đình (khoảng 60.000 hộ) mà lời văn nhắc tới.
+- **"Table 2–2":** lời văn trang PDF 134 viết "Table 2–2" (dấu gạch) thay vì "Table 2.2" như cách đánh số ở các chương khác — lỗi đánh máy nhỏ.
+- **"Khoảng bất định gần như đối xứng" chỉ đúng tương đối:** sách nói tính đối xứng của phân phối bootstrap làm cho khoảng bất định gần đối xứng quanh ước lượng gốc. Người tổng hợp tính từ bảng khoảng bất định: với mẫu 10 người, khoảng 10,4–34,6 nằm dưới ước lượng 21,1 là 10,7 và trên 13,5; với 50 người: 6,6 và 8,4; với 200 người: 2,7 và 3,2; với 796 người: 1,5 và 1,7. Phía trên luôn dài hơn, phản ánh dữ liệu lệch phải; sự lệch giảm dần khi cỡ mẫu tăng. Tương tự, câu "hình dạng phân phối của thống kê không phụ thuộc vào hình dạng phân phối gốc" là cách nói mạnh: Định lý Giới hạn Trung tâm chỉ nói hình dạng *tiến dần* tới phân phối chuẩn khi cỡ mẫu tăng; với 10 người, phân phối bootstrap vẫn còn đuôi phải (đọc từ đồ thị: kéo dài tới khoảng 40 trong khi phía trái dừng ở khoảng 8).
+- **"Khoảng bất định" và "biên sai số" được dùng như một:** sách gọi khoảng 95% là "uncertainty interval" và nói nó "cũng có thể gọi là margins of error". Trong cách dùng thông thường (và chính bảng thuật ngữ cuối sách), biên sai số thường chỉ *nửa độ rộng* (ví dụ ±77.000), còn khoảng là toàn bộ đoạn (ước lượng ± biên sai số). Bản tổng hợp giữ hai từ tách bạch.
+- **"Ít biến động" của độ dốc là tương đối:** sách nói các đường hồi quy bootstrap của dữ liệu mẹ–con gái "biến động tương đối ít" vì mẫu lớn, nhưng khoảng 95% của độ dốc là 0,22–0,44, tức cận trên gấp đôi cận dưới. Ít biến động ở đây là so với độ tản rất lớn của dữ liệu, không phải là độ dốc đã được xác định chính xác.
+- **Mẫu con lồng nhau:** các mẫu 10, 50, 200 được lấy *nối tiếp* ("tạm dừng khi đạt 10, 50 và 200"), nên mẫu 50 chứa mẫu 10, mẫu 200 chứa mẫu 50 (chú thích bảng khoảng bất định gọi là "nested random samples"). Vì vậy bốn ước lượng không độc lập với nhau.
+- **Đồ thị không ghi số:** bốn hình của chương (phân phối số bạn tình theo cỡ mẫu; mẫu 50 và ba mẫu bootstrap; phân phối trung bình của 1.000 mẫu bootstrap; 20 đường hồi quy bootstrap trên dữ liệu mẹ–con gái) đều không ghi số trên cột hay điểm; mọi tọa độ bản tổng hợp nêu là ước lượng đọc từ trục. Các hình chỉ vẽ tới 50 bạn tình ("giá trị trên 50 không được vẽ"). Người tổng hợp kiểm tra chéo mẫu 10 người: chín giá trị đọc được trên đồ thị (khoảng 4, 6, 7, 11, 12, 12, 20, 29, 40) có tổng 141; trung bình 21,1 của 10 người đòi tổng 211, nên giá trị thứ mười (không vẽ vì trên 50) khoảng 70; trung vị của mười giá trị là (12 + 12) / 2 = 12, khớp với bảng.
+- **Lớp chữ hỏng:** trong lớp chữ của bảng thống kê tóm tắt (Table 7.1), dòng mẫu 200 người ghi nhầm nhãn "Median number of partners: 15.4" thay cho "Mean"; ảnh trang cho thấy đúng là trung bình 15,4, trung vị 8. Danh sách chú thích dấu sao trong tệp chữ của chương bị lệch; hai chú thích thực sự của Chương 7 (về nhà báo và về dữ liệu bảng lương) được lấy từ danh sách chú thích toàn sách và đối chiếu với vị trí dấu sao trên ảnh trang.
+- **Bảng so sánh khoảng chính xác và khoảng bootstrap của độ dốc (0,23–0,42 so với 0,22–0,44) nằm ở Chương 9**, không thuộc chương này; bản tổng hợp chỉ nhắc ở phần liên hệ.

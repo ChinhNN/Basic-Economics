@@ -1,22 +1,16 @@
 # Chương 2 — Tóm tắt và truyền đạt con số. Rất nhiều con số (Summarizing and Communicating Numbers. Lots of Numbers)
 
-**Nguồn:** David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican/Penguin, Anh, 2019), Chương 2 "Summarizing and Communicating Numbers. Lots of Numbers", trang PDF 39–64 (ebook không có số trang in; vị trí ghi theo chỉ số trang của file PDF và theo tên tiểu mục).
-**Tác giả:** Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
-**Vị trí trong lập luận của cả cuốn sách:** Phần giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đặt khung cho cả cuốn sách: thống kê là khoa học học hỏi từ dữ liệu, đi theo chu trình giải quyết vấn đề PPDAC (Vấn đề — Kế hoạch — Dữ liệu — Phân tích — Kết luận). Chương 1 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md)) xử lý loại dữ liệu đơn giản nhất — dữ liệu phân loại có/không, tóm tắt bằng tỷ lệ phần trăm — qua vụ phẫu thuật tim trẻ em ở Bristol và bảng tỷ lệ sống sót của 13 bệnh viện giai đoạn 2012–2015, và bàn cách trình bày tỷ lệ (khung tích cực hay tiêu cực, rủi ro tương đối hay tuyệt đối). Chương 2 bước sang dữ liệu dạng số (biến đếm và biến liên tục): cách vẽ một tập số, cách tóm tắt nó bằng thước đo vị trí (trung bình cộng, trung vị, yếu vị) và thước đo độ phân tán (khoảng biến thiên, khoảng tứ phân vị, độ lệch chuẩn), cách so sánh nhóm, cách mô tả quan hệ giữa hai biến bằng biểu đồ phân tán và hệ số tương quan, cách mô tả xu hướng theo thời gian, và cuối cùng là cách truyền đạt — từ trực quan hoá dữ liệu để hiểu sang đồ hoạ thông tin để kể chuyện. Chương 2 vẫn dừng ở mức *mô tả* dữ liệu đang có. Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) hỏi câu tiếp theo: dữ liệu này đại diện cho tổng thể nào, và lấy chính ví dụ số bạn tình tự khai trong khảo sát Natsal để bàn về sai lệch trong đo lường. Chương 4 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md)) trả lời câu mà Chương 2 cố ý bỏ ngỏ: tương quan giữa số ca mổ và tỷ lệ sống sót có nói gì về nguyên nhân hay không. Chương 5 ([C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md)) quay lại đúng dữ liệu phẫu thuật tim 1991–1995 của chương này và khớp một mô hình hồi quy logistic. Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) và Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) dùng lại dữ liệu số bạn tình Natsal và dữ liệu bệnh viện để chuyển từ mô tả sang suy luận có độ bất định.
-**Ý chính:** Spiegelhalter muốn người đọc hiểu rằng **một khối số liệu lớn có thể và cần được tóm tắt bằng vài con số về vị trí, độ phân tán, xu hướng và tương quan, nhưng mọi con số tóm tắt đều che bớt chi tiết, nhiều thước đo quen thuộc (trung bình cộng, độ lệch chuẩn, hệ số tương quan Pearson) rất nhạy với vài giá trị cực đoan, và vì vậy không gì thay thế được việc nhìn tận mắt dữ liệu bằng biểu đồ thích hợp; khi truyền đạt, người làm thống kê phải cố gắng trung thực, biết rõ khán giả và mục đích, và hiểu rằng con số không tự nói lên điều gì.** Phần mở đầu kể chuyện Francis Galton năm 1907 lấy trung vị của 787 phiếu đoán trọng lượng thịt một con bò (1.207 pound) và thấy nó rất gần con số thật (1.198 pound) — "trí tuệ đám đông". Spiegelhalter lặp lại thí nghiệm với 915 người đoán số kẹo dẻo trong một hũ: các lần đoán trải từ 219 đến 31.337, phân phối lệch phải rất mạnh; vẽ trên thang logarit thì hình dạng gần đối xứng. Trung bình cộng 2.408 là bản tóm tắt kém, yếu vị 10.000 chỉ phản ánh thói quen chọn số tròn; trung vị 1.775 gần đúng số thật 1.616 (lệch khoảng 10%) và gần hơn 90% số người đoán. Mục về độ phân tán so sánh khoảng biến thiên, khoảng tứ phân vị (1.109 đến 2.599) và độ lệch chuẩn (2.422), và giới thiệu khái niệm thước đo vững — trung vị và khoảng tứ phân vị không bị vài giá trị kỳ quặc kéo lệch. Mục so sánh nhóm dùng khảo sát Natsal-3: nam 35–44 tuổi khai trung bình 14,3 bạn tình, nữ 8,5; trung vị 8 và 5 — một khác biệt mà về mặt toán học lẽ ra gần như không thể có trong một tổng thể khép kín, gợi ý sai lệch trong cách khai báo; biểu đồ dữ liệu thô còn cho thấy thói quen khai số tròn từ 10 trở lên. Mục quan hệ giữa hai biến dùng tỷ lệ sống sót sau phẫu thuật tim trẻ em: giai đoạn 1991–1995 tương quan Pearson 0,59 và tương quan hạng Spearman 0,85; giai đoạn 2012–2015 lần lượt 0,17 và −0,03; tương quan không chứng minh quan hệ nhân quả. Mục xu hướng dùng dân số thế giới 1951–2015 (tăng khoảng ba lần lên gần 7,5 tỷ người), cho thấy thang logarit và việc chia nhóm theo châu lục làm lộ ra mẫu hình; nêu bốn đặc điểm của một hình trực quan tốt theo Alberto Cairo và minh hoạ sức mạnh của đồ thị tương tác bằng độ phổ biến của tên David. Hai mục cuối bàn về truyền đạt: hai quy tắc (lắng nghe khán giả, biết mình muốn đạt điều gì), sự chuyển tiếp từ trực quan hoá dữ liệu sang đồ hoạ thông tin kể chuyện, và đồ thị động của Hans Rosling.
+## Ý chính
 
-> **Lưu ý:**
-> - **Con số độ lệch chuẩn sau khi bỏ giá trị 31.337 không thể đúng (nhận xét của người tổng hợp):** sách nói bỏ riêng một giá trị 31.337 thì độ lệch chuẩn giảm từ 2.422 xuống 1.398. Người tổng hợp tính lại từ chính các số của sách (915 lần đoán, trung bình cộng 2.408, độ lệch chuẩn 2.422): tổng bình phương độ lệch khoảng 2.422² × 914 ≈ 5.362 triệu; riêng giá trị 31.337 đóng góp khoảng (31.337 − 2.408)² × 915/914 ≈ 838 triệu; phần còn lại khoảng 4.524 triệu chia cho 913 rồi lấy căn bậc hai được khoảng **2.226**, không phải 1.398. Bỏ một điểm duy nhất không thể làm độ lệch chuẩn giảm tới mức 1.398. Có lẽ con số 1.398 là độ lệch chuẩn sau khi bỏ nhiều giá trị cao (ví dụ 33 lần đoán từ 9.999 trở lên mà chú thích cuối chương nhắc tới), nhưng sách không nói vậy — đây là phỏng đoán.
-> - **Ngưỡng loại bỏ giá trị cao không thống nhất:** lời văn nói khi phân tích lần đầu tác giả "khá tuỳ tiện loại mọi giá trị trên 9.000"; chú thích cuối chương số 2 nói đã loại "33 lần đoán cao nhất, từ 9.999 trở lên". Hai ngưỡng khác nhau, dù vì không có ai đoán giữa 9.000 và 9.999 nên có thể chúng cho cùng kết quả — sách không cho đủ dữ liệu để kiểm tra.
-> - **"Khoảng 60% cho cả trung bình cộng lẫn trung vị" là viết chưa chặt:** với dữ liệu Natsal-3, trung vị của nam cao hơn nữ 8/5 − 1 = **60%**, nhưng trung bình cộng cao hơn 14,3/8,5 − 1 = **68%**. Chênh lệch tuyệt đối 14,3 − 8,5 = 5,8 (sách làm tròn thành 6) và 8 − 5 = 3 thì đúng.
-> - **Khoảng biến thiên của nữ không khớp giữa bảng và chú thích hình:** Table 2.2 ghi khoảng biến thiên của nữ là 0 đến 550, nhưng chú thích Figure 2.4 nói "tổng số lên tới 500 cho cả nam lẫn nữ".
-> - **Nhãn sai trong Figure 2.7:** đồ thị dân số ghi một đường là "Latin America and Canada". Theo cách phân vùng của Phòng Dân số Liên Hợp Quốc mà sách dùng (theo hiểu biết của người tổng hợp), vùng này là "Mỹ Latinh và Caribe" (Latin America and the Caribbean); Canada thuộc "Bắc Mỹ" (Northern America), đường có nhãn riêng trên cùng hình. Lời văn chương nói chuỗi số "từ 1951", còn chú thích hình và trục hoành bắt đầu từ 1950.
-> - **Figure 2.6 (Datasaurus) — chi tiết cần biết thêm (theo hiểu biết của người tổng hợp, không tra cứu):** hình "con khủng long" do Alberto Cairo tạo; bộ "Datasaurus Dozen" (13 tập dữ liệu cùng số tóm tắt) do Justin Matejka và George Fitzmaurice (Autodesk) phát triển năm 2017 từ hình của Cairo, nên gọi là "Datasaurus Dozen của Alberto Cairo" chưa thật chính xác. Hệ số tương quan Pearson của các tập này xấp xỉ −0,06 chứ không đúng bằng 0; điều đó không ảnh hưởng tới luận điểm.
-> - **Tham chiếu chương trong chú thích:** chú thích về tỷ lệ sống sót có mẫu số khác nhau nói "tôi sẽ chỉ cách làm ở Chương 6", nhưng mô hình hồi quy logistic cho chính dữ liệu phẫu thuật tim 1991–1995 nằm ở Chương 5 (Figure 5.2); cách xử lý tỷ lệ có mẫu số khác nhau bằng biểu đồ phễu (funnel plot) nằm ở Chương 9. "Chương 6" có lẽ là nhầm.
-> - **Các phép tính đã kiểm tra lại và đúng:** 1.207 pound ≈ 547 kg, 1.198 pound ≈ 543 kg; ví dụ thu nhập (£1.500/3 = £500; £11.500/5 = £2.300; trung vị mới £600); trung vị đoán kẹo vượt số thật 1.775 − 1.616 = 159, tức 159/1.616 = 9,8% ("khoảng 10%"); dân số thế giới tăng từ khoảng 2,55 lên khoảng 7,35 tỷ, gấp khoảng 2,9 lần ("khoảng ba lần"). Với dữ liệu 13 bệnh viện giai đoạn 2012–2015 chép từ Chương 1 (số ca và số sống sót), người tổng hợp tính được tương quan Pearson ≈ 0,17, tương quan hạng Spearman ≈ −0,03 (dùng tỷ lệ sống sót chưa làm tròn), và bỏ bệnh viện nhỏ nhất (London Harley Street) thì Pearson ≈ 0,42 — khớp hoàn toàn với sách. Với dữ liệu 1991–1995, sách không in bảng số; tương quan hạng tính từ các điểm đọc trên đồ thị được khoảng 0,85, khớp với sách; hệ số Pearson 0,59 và 0,67 (bỏ Bristol) không tự kiểm tra được vì không có số chính xác.
-> - **Một chỗ lệch trong bảng 13 bệnh viện mượn từ Chương 1:** Glasgow có 733 trẻ sống trên 760 ca, tức 96,4% (tử vong 27/760 = 3,6%), nhưng bảng ghi 96,3% và 3,7%. Lỗi nhỏ, không ảnh hưởng tới các hệ số tương quan.
-> - **Hình là đồ thị không ghi số:** Figure 2.2, 2.3 (phân phối số lần đoán kẹo), 2.4 (phân phối số bạn tình), 2.5(a) (bệnh viện 1991–1995), 2.7, 2.8 (dân số), 2.9 (thứ hạng tên David và Oliver) và 2.10 (tuổi trung vị trong Natsal-3) đều không in số liệu; mọi con số đọc từ trục trong bản tổng hợp này là **ước lượng** của người tổng hợp và được ghi "khoảng". Figure 2.1 chỉ là ảnh chụp hũ kẹo. Figure 2.6 là hai đám điểm hư cấu, không có trục số.
-> - **Lớp chữ của ebook:** chữ tốt; vài chỗ dấu sao chú thích bị đặt lệch (ví dụ dấu sao dưới hai bảng 2.1 và 2.2), và chú thích về thí nghiệm máy phát hiện nói dối (thuộc phần số bạn tình) bị liệt kê sau chú thích về Hans Rosling trong danh sách chú thích. Bản tổng hợp đặt mỗi chú thích về đúng đoạn văn có liên quan.
+Spiegelhalter muốn người đọc hiểu rằng **một khối số liệu lớn có thể và cần được tóm tắt bằng vài con số về vị trí, độ phân tán, xu hướng và tương quan, nhưng mọi con số tóm tắt đều che bớt chi tiết, nhiều thước đo quen thuộc (trung bình cộng, độ lệch chuẩn, hệ số tương quan Pearson) rất nhạy với vài giá trị cực đoan, và vì vậy không gì thay thế được việc nhìn tận mắt dữ liệu bằng biểu đồ thích hợp; khi truyền đạt, người làm thống kê phải cố gắng trung thực, biết rõ khán giả và mục đích, và hiểu rằng con số không tự nói lên điều gì.**
+
+Phần mở đầu kể chuyện Francis Galton năm 1907 lấy trung vị của 787 phiếu đoán trọng lượng thịt một con bò (1.207 pound) và thấy nó rất gần con số thật (1.198 pound) — "trí tuệ đám đông". Spiegelhalter lặp lại thí nghiệm với 915 người đoán số kẹo dẻo trong một hũ: các lần đoán trải từ 219 đến 31.337, phân phối lệch phải rất mạnh; vẽ trên thang logarit thì hình dạng gần đối xứng. Trung bình cộng 2.408 là bản tóm tắt kém, yếu vị 10.000 chỉ phản ánh thói quen chọn số tròn; trung vị 1.775 gần đúng số thật 1.616 (lệch khoảng 10%) và gần hơn 90% số người đoán.
+
+Mục về độ phân tán so sánh khoảng biến thiên, khoảng tứ phân vị (1.109 đến 2.599) và độ lệch chuẩn (2.422), và giới thiệu khái niệm thước đo vững — trung vị và khoảng tứ phân vị không bị vài giá trị kỳ quặc kéo lệch.
+
+Mục so sánh nhóm dùng khảo sát Natsal-3: nam 35–44 tuổi khai trung bình 14,3 bạn tình, nữ 8,5; trung vị 8 và 5 — một khác biệt mà về mặt toán học lẽ ra gần như không thể có trong một tổng thể khép kín, gợi ý sai lệch trong cách khai báo; biểu đồ dữ liệu thô còn cho thấy thói quen khai số tròn từ 10 trở lên. Mục quan hệ giữa hai biến dùng tỷ lệ sống sót sau phẫu thuật tim trẻ em: giai đoạn 1991–1995 tương quan Pearson 0,59 và tương quan hạng Spearman 0,85; giai đoạn 2012–2015 lần lượt 0,17 và −0,03; tương quan không chứng minh quan hệ nhân quả.
+
+Mục xu hướng dùng dân số thế giới 1951–2015 (tăng khoảng ba lần lên gần 7,5 tỷ người), cho thấy thang logarit và việc chia nhóm theo châu lục làm lộ ra mẫu hình; nêu bốn đặc điểm của một hình trực quan tốt theo Alberto Cairo và minh hoạ sức mạnh của đồ thị tương tác bằng độ phổ biến của tên David. Hai mục cuối bàn về truyền đạt: hai quy tắc (lắng nghe khán giả, biết mình muốn đạt điều gì), sự chuyển tiếp từ trực quan hoá dữ liệu sang đồ hoạ thông tin kể chuyện, và đồ thị động của Hans Rosling.
 
 ## Sơ đồ
 
@@ -414,7 +408,9 @@ Chương mở bằng câu hỏi "Có thể tin trí tuệ đám đông không?" 
 
 Chú thích của tác giả về thuyết ưu sinh: đó là ý tưởng cho rằng loài người có thể được cải thiện bằng chọn lọc giống, hoặc bằng cách khuyến khích những người "khoẻ mạnh, phù hợp" sinh nhiều con hơn (ví dụ qua khuyến khích tài chính), hoặc bằng cách ngăn những người bị coi là "không phù hợp" sinh sản (ví dụ khuyến khích triệt sản). Nhiều người đi tiên phong trong các kỹ thuật thống kê là những người nhiệt tình ủng hộ thuyết ưu sinh. Những gì xảy ra ở nước Đức Quốc xã đã chấm dứt phong trào này, dù tạp chí học thuật *Annals of Eugenics* mãi tới năm 1955 mới đổi tên thành *Annals of Genetics* (theo lời sách).
 
-Galton thu được 787 phiếu đã điền, và chọn giá trị ở giữa — 1.207 pound (547 kg) — làm "lựa chọn dân chủ", vì "mọi con số ước tính khác đều bị đa số người bỏ phiếu coi là quá cao hoặc quá thấp". Trọng lượng thật hoá ra là 1.198 pound (543 kg), rất sát con số Galton chọn từ 787 phiếu (lệch 9 pound, khoảng 0,75%). Galton đặt tên bức thư là "Vox Populi" (tiếng nói của dân chúng); ngày nay quá trình ra quyết định này thường được gọi là **trí tuệ đám đông**. Theo một chú thích của tác giả, năm 1907 đã có người viết thư cho *Nature* phản bác việc Galton chọn trung vị và cho rằng trung bình cộng lẽ ra cho kết quả gần hơn. (Theo hiểu biết của người tổng hợp, trung bình cộng của các phiếu khi đó được tính là khoảng 1.197 pound, đúng là sát hơn nữa; sách không nêu con số này.)
+Galton thu được 787 phiếu đã điền, và chọn giá trị ở giữa — 1.207 pound (547 kg) — làm "lựa chọn dân chủ", vì "mọi con số ước tính khác đều bị đa số người bỏ phiếu coi là quá cao hoặc quá thấp". Trọng lượng thật hoá ra là 1.198 pound (543 kg), rất sát con số Galton chọn từ 787 phiếu (lệch 9 pound, khoảng 0,75%).
+
+Galton đặt tên bức thư là "Vox Populi" (tiếng nói của dân chúng); ngày nay quá trình ra quyết định này thường được gọi là **trí tuệ đám đông**. Theo một chú thích của tác giả, năm 1907 đã có người viết thư cho *Nature* phản bác việc Galton chọn trung vị và cho rằng trung bình cộng lẽ ra cho kết quả gần hơn. (Theo hiểu biết của người tổng hợp, trung bình cộng của các phiếu khi đó được tính là khoảng 1.197 pound, đúng là sát hơn nữa; sách không nêu con số này.)
 
 Spiegelhalter nhận xét việc Galton làm là thứ mà ngày nay ta gọi là **tóm tắt dữ liệu**: ông lấy một khối số viết trên phiếu và rút gọn thành một con số ước tính duy nhất, 1.207 pound. Chương này trình bày các kỹ thuật được phát triển trong thế kỷ tiếp theo để tóm tắt và truyền đạt những đống dữ liệu ngày càng nhiều. Các bản tóm tắt bằng số về vị trí, độ phân tán, xu hướng và tương quan gắn chặt với cách dữ liệu được vẽ trên giấy hay trên màn hình. Chương cũng bàn về sự chuyển tiếp nhẹ nhàng giữa việc chỉ mô tả dữ liệu và việc tìm cách kể một câu chuyện bằng đồ hoạ thông tin.
 
@@ -473,9 +469,13 @@ Hiểu "trung bình" là trung bình cộng sinh ra những câu đùa cũ: gầ
 
 Chú thích của tác giả minh hoạ bằng số: ba người trong một phòng có thu nhập tuần £400, £500 và £600, nên trung bình cộng là £1.500/3 = £500, trùng với trung vị. Rồi hai người kiếm £5.000 mỗi tuần bước vào: trung bình cộng vọt lên £11.500/5 = £2.300, trong khi trung vị hầu như không nhúc nhích, chỉ lên £600 (người tổng hợp kiểm tra: tổng 400 + 500 + 600 + 5.000 + 5.000 = 11.500; dãy xếp thứ tự 400, 500, 600, 5.000, 5.000 có giá trị giữa là 600 — đúng).
 
-Trung bình cộng có thể gây hiểu lầm nghiêm trọng khi dữ liệu thô không xếp đối xứng quanh một giá trị trung tâm mà lệch về một phía như số kẹo đoán — thường là một nhóm lớn các trường hợp "bình thường" kèm một cái đuôi gồm vài giá trị hoặc rất cao (ví dụ thu nhập) hoặc rất thấp (ví dụ số chân). Tác giả "gần như dám bảo đảm" rằng so với những người cùng tuổi và cùng giới, rủi ro tử vong trong năm tới của bạn thấp hơn nhiều so với mức trung bình cộng. Ví dụ, bảng sống của Anh cho biết 1% đàn ông 63 tuổi chết trước sinh nhật thứ 64; nhưng nhiều người trong số sẽ chết đó vốn đã ốm nặng, nên tuyệt đại đa số những người khá khoẻ mạnh có rủi ro thấp hơn con số trung bình này.
+Trung bình cộng có thể gây hiểu lầm nghiêm trọng khi dữ liệu thô không xếp đối xứng quanh một giá trị trung tâm mà lệch về một phía như số kẹo đoán — thường là một nhóm lớn các trường hợp "bình thường" kèm một cái đuôi gồm vài giá trị hoặc rất cao (ví dụ thu nhập) hoặc rất thấp (ví dụ số chân).
 
-Khổ nỗi, khi báo chí đưa tin về một "số trung bình", thường không rõ nên hiểu là trung bình cộng hay trung vị. Ví dụ, Văn phòng Thống kê Quốc gia Anh (Office for National Statistics, ONS) tính "Thu nhập tuần trung bình" (Average Weekly Earnings) là một trung bình cộng, đồng thời công bố thu nhập tuần *trung vị* theo từng chính quyền địa phương. Trong trường hợp này, có thể phân biệt "thu nhập trung bình" (trung bình cộng) với "thu nhập của người trung bình" (trung vị). Giá nhà có phân phối rất lệch, với đuôi phải dài gồm những bất động sản cao cấp, nên các chỉ số giá nhà chính thức dùng trung vị. Nhưng chúng thường được đưa tin là "giá nhà trung bình" — một cụm từ rất mơ hồ. Đó là giá của "căn nhà trung bình" (average-house price, tức trung vị) hay "giá nhà" tính trung bình (average house-price, tức trung bình cộng)? Tác giả viết: một dấu gạch nối có thể tạo khác biệt lớn.
+Tác giả "gần như dám bảo đảm" rằng so với những người cùng tuổi và cùng giới, rủi ro tử vong trong năm tới của bạn thấp hơn nhiều so với mức trung bình cộng. Ví dụ, bảng sống của Anh cho biết 1% đàn ông 63 tuổi chết trước sinh nhật thứ 64; nhưng nhiều người trong số sẽ chết đó vốn đã ốm nặng, nên tuyệt đại đa số những người khá khoẻ mạnh có rủi ro thấp hơn con số trung bình này.
+
+Khổ nỗi, khi báo chí đưa tin về một "số trung bình", thường không rõ nên hiểu là trung bình cộng hay trung vị. Ví dụ, Văn phòng Thống kê Quốc gia Anh (Office for National Statistics, ONS) tính "Thu nhập tuần trung bình" (Average Weekly Earnings) là một trung bình cộng, đồng thời công bố thu nhập tuần *trung vị* theo từng chính quyền địa phương. Trong trường hợp này, có thể phân biệt "thu nhập trung bình" (trung bình cộng) với "thu nhập của người trung bình" (trung vị).
+
+Giá nhà có phân phối rất lệch, với đuôi phải dài gồm những bất động sản cao cấp, nên các chỉ số giá nhà chính thức dùng trung vị. Nhưng chúng thường được đưa tin là "giá nhà trung bình" — một cụm từ rất mơ hồ. Đó là giá của "căn nhà trung bình" (average-house price, tức trung vị) hay "giá nhà" tính trung bình (average house-price, tức trung bình cộng)? Tác giả viết: một dấu gạch nối có thể tạo khác biệt lớn.
 
 **Kết quả thí nghiệm hũ kẹo.** Tác giả công bố kết quả — không hấp dẫn bằng trọng lượng một con bò, nhưng có nhiều phiếu hơn Galton một chút. Vì phân phối có đuôi phải dài, trung bình cộng 2.408 là bản tóm tắt kém, còn yếu vị 10.000 dường như phản ánh việc vài người chọn số tròn cực đoan. Vậy có lẽ nên làm theo Galton, lấy trung vị làm lời đoán của cả nhóm: **1.775** hạt. Số thật là… **1.616**.
 
@@ -483,7 +483,11 @@ Khổ nỗi, khi báo chí đưa tin về một "số trung bình", thường kh
 - Trung vị, tức phân vị thứ 50, đoán cao hơn giá trị thật 1.775 − 1.616 = 159 hạt; so với đáp án thật, đó là đoán cao khoảng 10% (chính xác: 159/1.616 = 9,8%).
 - Chỉ khoảng 1 trên 10 người đoán gần được như vậy. Nghĩa là trí tuệ đám đông khá tốt: gần sự thật hơn 90% số cá nhân.
 
-Chú thích cuối chương số 2 kể thêm: trong video về thí nghiệm, tác giả "khá tuỳ tiện" bỏ 33 lần đoán cao nhất (từ 9.999 trở lên), lấy logarit để có một phân phối đối xứng "dễ chịu", tính trung bình cộng của phân phối đã biến đổi, rồi biến đổi ngược để có ước tính trên thang ban đầu. Kết quả là 1.680 — hoá ra là ước tính gần giá trị thật 1.616 nhất trong mọi cách (lệch 64 hạt, khoảng 4%). Quy trình "lấy logarit, tính trung bình cộng, đổi ngược kết quả" cho ra cái gọi là **trung bình nhân** (geometric mean), tương đương với việc nhân tất cả n con số với nhau rồi lấy căn bậc n. Trung bình nhân được dùng trong một số chỉ số kinh tế, nhất là chỉ số dựa trên tỷ số, vì nó có ưu điểm là không phụ thuộc vào chiều của tỷ số: giá cam có thể đo bằng "pound mỗi quả cam" hay "số quả cam mỗi pound" mà vẫn cho cùng một trung bình nhân, trong khi lựa chọn tuỳ ý ấy có thể làm trung bình cộng khác nhau rất nhiều. (Người tổng hợp minh hoạ: hai giá 1 và 4 pound mỗi quả có trung bình cộng 2,5 pound mỗi quả; đổi sang 1 và 0,25 quả mỗi pound thì trung bình cộng là 0,625 quả mỗi pound, tức 1,6 pound mỗi quả — hai kết quả khác nhau. Trung bình nhân là √(1 × 4) = 2 pound mỗi quả và √(1 × 0,25) = 0,5 quả mỗi pound, tức vẫn 2 pound mỗi quả — nhất quán.)
+Chú thích cuối chương số 2 kể thêm: trong video về thí nghiệm, tác giả "khá tuỳ tiện" bỏ 33 lần đoán cao nhất (từ 9.999 trở lên), lấy logarit để có một phân phối đối xứng "dễ chịu", tính trung bình cộng của phân phối đã biến đổi, rồi biến đổi ngược để có ước tính trên thang ban đầu. Kết quả là 1.680 — hoá ra là ước tính gần giá trị thật 1.616 nhất trong mọi cách (lệch 64 hạt, khoảng 4%).
+
+Quy trình "lấy logarit, tính trung bình cộng, đổi ngược kết quả" cho ra cái gọi là **trung bình nhân** (geometric mean), tương đương với việc nhân tất cả n con số với nhau rồi lấy căn bậc n. Trung bình nhân được dùng trong một số chỉ số kinh tế, nhất là chỉ số dựa trên tỷ số, vì nó có ưu điểm là không phụ thuộc vào chiều của tỷ số: giá cam có thể đo bằng "pound mỗi quả cam" hay "số quả cam mỗi pound" mà vẫn cho cùng một trung bình nhân, trong khi lựa chọn tuỳ ý ấy có thể làm trung bình cộng khác nhau rất nhiều.
+
+(Người tổng hợp minh hoạ: hai giá 1 và 4 pound mỗi quả có trung bình cộng 2,5 pound mỗi quả; đổi sang 1 và 0,25 quả mỗi pound thì trung bình cộng là 0,625 quả mỗi pound, tức 1,6 pound mỗi quả — hai kết quả khác nhau. Trung bình nhân là √(1 × 4) = 2 pound mỗi quả và √(1 × 0,25) = 0,5 quả mỗi pound, tức vẫn 2 pound mỗi quả — nhất quán.)
 
 ### 5. Mô tả độ phân tán của phân phối dữ liệu (Describing the Spread of a Data Distribution, trang PDF 46–47)
 
@@ -535,9 +539,13 @@ Tác giả gợi ý một bài tập tốt: chỉ dùng các con số tóm tắt
 
 Có thể so sánh câu trả lời của nam và nữ theo nhiều cách: nam khai trung bình cộng nhiều hơn nữ 6 bạn tình (chính xác 14,3 − 8,5 = 5,8); hoặc "người đàn ông ở giữa" (trung vị) khai nhiều hơn "người phụ nữ ở giữa" 3 bạn tình (8 − 5); hoặc, theo tỷ lệ, nam khai nhiều hơn nữ khoảng 60% cho cả trung bình cộng lẫn trung vị. (Người tổng hợp kiểm tra: với trung vị, 8/5 = 1,6, tức nhiều hơn đúng 60%; với trung bình cộng, 14,3/8,5 = 1,68, tức nhiều hơn khoảng 68% — "khoảng 60%" là làm tròn khá rộng.)
 
-Khác biệt này đáng khiến ta nghi ngờ dữ liệu. Trong một **tổng thể** khép kín có số nam và nữ bằng nhau và cơ cấu tuổi tương tự, về mặt toán học trung bình cộng số bạn tình khác giới của nam và của nữ phải gần như bằng nhau. Chú thích của tác giả giải thích: tập hợp mọi đàn ông và tập hợp mọi phụ nữ có cùng tổng số mối quan hệ, vì mỗi mối quan hệ gồm một nam và một nữ; nên nếu hai nhóm có cùng số người, trung bình cộng phải bằng nhau. Khi nói chuyện này ở trường học, tác giả dùng hình ảnh bạn nhảy hay những cái bắt tay. (Người tổng hợp minh hoạ: 3 nam và 3 nữ có tổng cộng 9 cặp quan hệ khác giới thì cả hai nhóm đều có trung bình cộng 9/3 = 3 bạn tình, dù cách phân bố trong từng nhóm có thể rất khác — điều này chỉ ràng buộc trung bình cộng, không ràng buộc trung vị.)
+Khác biệt này đáng khiến ta nghi ngờ dữ liệu. Trong một **tổng thể** khép kín có số nam và nữ bằng nhau và cơ cấu tuổi tương tự, về mặt toán học trung bình cộng số bạn tình khác giới của nam và của nữ phải gần như bằng nhau. Chú thích của tác giả giải thích: tập hợp mọi đàn ông và tập hợp mọi phụ nữ có cùng tổng số mối quan hệ, vì mỗi mối quan hệ gồm một nam và một nữ; nên nếu hai nhóm có cùng số người, trung bình cộng phải bằng nhau.
 
-Vậy vì sao nam 35–44 tuổi khai nhiều bạn tình hơn nữ đến thế? Một phần có thể vì đàn ông có bạn tình trẻ hơn mình (nên bạn tình của họ không nằm trong cùng nhóm tuổi), nhưng cũng có vẻ có khác biệt hệ thống trong cách nam và nữ đếm và khai lịch sử tình dục. Ta có thể ngờ rằng nam có xu hướng phóng đại, nữ có xu hướng khai bớt, hoặc cả hai. Chú thích của tác giả nêu bằng chứng cho một sai lệch như vậy từ một thí nghiệm ngẫu nhiên với sinh viên Mỹ: những phụ nữ được nối với một máy phát hiện nói dối có xu hướng thừa nhận nhiều bạn tình hơn những phụ nữ được bảo đảm ẩn danh, còn ở nam không thấy hiệu ứng này; người tham gia không được cho biết máy phát hiện nói dối là đồ giả.
+Khi nói chuyện này ở trường học, tác giả dùng hình ảnh bạn nhảy hay những cái bắt tay. (Người tổng hợp minh hoạ: 3 nam và 3 nữ có tổng cộng 9 cặp quan hệ khác giới thì cả hai nhóm đều có trung bình cộng 9/3 = 3 bạn tình, dù cách phân bố trong từng nhóm có thể rất khác — điều này chỉ ràng buộc trung bình cộng, không ràng buộc trung vị.)
+
+Vậy vì sao nam 35–44 tuổi khai nhiều bạn tình hơn nữ đến thế? Một phần có thể vì đàn ông có bạn tình trẻ hơn mình (nên bạn tình của họ không nằm trong cùng nhóm tuổi), nhưng cũng có vẻ có khác biệt hệ thống trong cách nam và nữ đếm và khai lịch sử tình dục. Ta có thể ngờ rằng nam có xu hướng phóng đại, nữ có xu hướng khai bớt, hoặc cả hai.
+
+Chú thích của tác giả nêu bằng chứng cho một sai lệch như vậy từ một thí nghiệm ngẫu nhiên với sinh viên Mỹ: những phụ nữ được nối với một máy phát hiện nói dối có xu hướng thừa nhận nhiều bạn tình hơn những phụ nữ được bảo đảm ẩn danh, còn ở nam không thấy hiệu ứng này; người tham gia không được cho biết máy phát hiện nói dối là đồ giả.
 
 **Hình: Phân phối số bạn tình khác giới trong đời, nam và nữ 35–44 tuổi, Natsal-3, 2010–2012 (Figure 2.4 trong sách)** — biểu đồ cột đôi; trục hoành là số bạn tình khai từ 0 đến 50 (chuỗi bị cắt ở 50 cho gọn; tổng số thật lên tới 500), trục tung là phần trăm số người, từ 0 tới 18%. Cột xám là nữ, cột đen là nam. Người tổng hợp đọc xấp xỉ theo vạch chia (mọi con số là ước lượng):
 
@@ -565,7 +573,9 @@ Vậy vì sao nam 35–44 tuổi khai nhiều bạn tình hơn nữ đến thế
 | 45 | gần 0 | khoảng 0,4 |
 | 50 | khoảng 0,6 | khoảng 1,3 |
 
-Các giá trị không tròn từ 13 trở lên (13, 14, 16–19, 21–24…) đều chỉ khoảng 0–1%. Hình ủng hộ ấn tượng mà số tóm tắt tạo ra về một đuôi phải cực dài. Nhưng chỉ khi nhìn dữ liệu thô mới thấy thêm những chi tiết quan trọng: cả nam lẫn nữ đều có xu hướng rõ rệt khai số tròn khi đã có từ 10 bạn tình trở lên — các cột nhô cao ở 10, 15, 20, 30, 40, 50 giữa những giá trị gần 0 — trừ một người đàn ông "khá câu nệ, có lẽ là nhà thống kê" đã khai chính xác "bốn mươi bảy". Hình cũng cho thấy nữ dồn nhiều hơn ở các giá trị thấp (1 và 3), còn nam nhiều hơn ở các giá trị cao (20, 30, 40). Người đọc tất nhiên có thể băn khoăn về độ tin cậy của những con số tự khai này; các sai lệch tiềm ẩn trong dữ liệu được bàn ở chương sau.
+Các giá trị không tròn từ 13 trở lên (13, 14, 16–19, 21–24…) đều chỉ khoảng 0–1%. Hình ủng hộ ấn tượng mà số tóm tắt tạo ra về một đuôi phải cực dài. Nhưng chỉ khi nhìn dữ liệu thô mới thấy thêm những chi tiết quan trọng: cả nam lẫn nữ đều có xu hướng rõ rệt khai số tròn khi đã có từ 10 bạn tình trở lên — các cột nhô cao ở 10, 15, 20, 30, 40, 50 giữa những giá trị gần 0 — trừ một người đàn ông "khá câu nệ, có lẽ là nhà thống kê" đã khai chính xác "bốn mươi bảy".
+
+Hình cũng cho thấy nữ dồn nhiều hơn ở các giá trị thấp (1 và 3), còn nam nhiều hơn ở các giá trị cao (20, 30, 40). Người đọc tất nhiên có thể băn khoăn về độ tin cậy của những con số tự khai này; các sai lệch tiềm ẩn trong dữ liệu được bàn ở chương sau.
 
 Các khối dữ liệu số lớn thường được tóm tắt và truyền đạt bằng vài thống kê về vị trí và độ phân tán, và ví dụ số bạn tình cho thấy chúng giúp nắm mẫu hình tổng thể khá tốt. Tuy nhiên, không gì thay thế được việc nhìn dữ liệu một cách đúng đắn, và ví dụ tiếp theo cho thấy một hình trực quan tốt đặc biệt có giá trị khi cần nắm mẫu hình trong một tập số lớn và phức tạp.
 
@@ -599,15 +609,21 @@ Chú thích của tác giả: tỷ lệ sống sót chung ở hai biểu đồ k
 
 Dữ liệu 1991–1995 có một ngoại lai rõ: một bệnh viện nhỏ hơn chỉ có 71% sống sót. Đó là Bristol, nơi tỷ lệ sống sót thấp dẫn tới cuộc điều tra công khai được kể ở Chương 1. Nhưng ngay cả khi bỏ Bristol (tác giả gợi ý: lấy ngón tay che điểm ngoại lai), mẫu hình dữ liệu 1991–1995 vẫn gợi ý rằng bệnh viện mổ nhiều hơn có tỷ lệ sống sót cao hơn: các điểm leo nhanh từ khoảng 81% ở khoảng 125 ca lên khoảng 90% ở khoảng 240 ca, rồi đi ngang quanh 89–92% tới khoảng 580 ca.
 
-**Hệ số tương quan Pearson.** Để tóm tắt bằng một con số một quan hệ tăng dần hay giảm dần đều đặn giữa các cặp số trên biểu đồ phân tán, người ta thường dùng **hệ số tương quan Pearson** — ý tưởng ban đầu của Francis Galton nhưng được Karl Pearson, một trong những người sáng lập thống kê hiện đại, công bố chính thức năm 1895. (Chú thích của tác giả: Karl Pearson là người cực kỳ say mê mọi thứ thuộc về nước Đức, thậm chí đổi cách viết tên mình từ Carl thành Karl, dù điều đó không ngăn ông áp dụng thống kê vào đạn đạo học trong Chiến tranh thế giới thứ nhất; năm 1911 ông lập Khoa Thống kê đầu tiên trên thế giới ở University College London và giữ ghế Giáo sư Galton về Ưu sinh học, do di chúc của Galton tài trợ.)
+**Hệ số tương quan Pearson.** Để tóm tắt bằng một con số một quan hệ tăng dần hay giảm dần đều đặn giữa các cặp số trên biểu đồ phân tán, người ta thường dùng **hệ số tương quan Pearson** — ý tưởng ban đầu của Francis Galton nhưng được Karl Pearson, một trong những người sáng lập thống kê hiện đại, công bố chính thức năm 1895.
+
+(Chú thích của tác giả: Karl Pearson là người cực kỳ say mê mọi thứ thuộc về nước Đức, thậm chí đổi cách viết tên mình từ Carl thành Karl, dù điều đó không ngăn ông áp dụng thống kê vào đạn đạo học trong Chiến tranh thế giới thứ nhất; năm 1911 ông lập Khoa Thống kê đầu tiên trên thế giới ở University College London và giữ ghế Giáo sư Galton về Ưu sinh học, do di chúc của Galton tài trợ.)
 
 Hệ số Pearson chạy từ −1 tới 1 và cho biết các điểm dữ liệu nằm gần một đường thẳng đến đâu. Hệ số bằng 1 khi mọi điểm nằm trên một đường thẳng đi lên; bằng −1 khi mọi điểm nằm trên một đường thẳng đi xuống. Hệ số gần 0 có thể đến từ một đám điểm tản mát ngẫu nhiên, hoặc từ bất kỳ mẫu hình nào khác không có xu hướng hệ thống đi lên hay đi xuống.
 
-**Hình: Hai tập điểm hư cấu cùng có hệ số tương quan Pearson bằng 0 (Figure 2.6 trong sách, lấy từ "Datasaurus Dozen")** — hai khung vuông không có trục số. Khung trên gồm khoảng 140 điểm xếp thành năm dải xiên song song, mỗi dải đi từ trên trái xuống dưới phải, các dải lệch nhau theo chiều chéo. Khung dưới gồm khoảng 140 điểm vẽ thành hình đầu và cổ một con khủng long bạo chúa: đường viền đầu, mắt, hàm há, hai chi trước nhỏ. Hai hình này rõ ràng không có nghĩa là hai biến không có quan hệ gì; hệ số bằng 0 chỉ có nghĩa là không có xu hướng *đường thẳng* đi lên hay đi xuống. (Theo hiểu biết của người tổng hợp, các tập trong bộ Datasaurus Dozen thực ra có hệ số Pearson xấp xỉ −0,06, cùng trung bình cộng và độ lệch chuẩn của mỗi trục; điểm cốt lõi — số tóm tắt giống nhau, hình hoàn toàn khác nhau — không đổi.)
+**Hình: Hai tập điểm hư cấu cùng có hệ số tương quan Pearson bằng 0 (Figure 2.6 trong sách, lấy từ "Datasaurus Dozen")** — hai khung vuông không có trục số. Khung trên gồm khoảng 140 điểm xếp thành năm dải xiên song song, mỗi dải đi từ trên trái xuống dưới phải, các dải lệch nhau theo chiều chéo. Khung dưới gồm khoảng 140 điểm vẽ thành hình đầu và cổ một con khủng long bạo chúa: đường viền đầu, mắt, hàm há, hai chi trước nhỏ.
+
+Hai hình này rõ ràng không có nghĩa là hai biến không có quan hệ gì; hệ số bằng 0 chỉ có nghĩa là không có xu hướng *đường thẳng* đi lên hay đi xuống. (Theo hiểu biết của người tổng hợp, các tập trong bộ Datasaurus Dozen thực ra có hệ số Pearson xấp xỉ −0,06, cùng trung bình cộng và độ lệch chuẩn của mỗi trục; điểm cốt lõi — số tóm tắt giống nhau, hình hoàn toàn khác nhau — không đổi.)
 
 Với dữ liệu 1991–1995, hệ số Pearson là 0,59, gợi ý một liên kết giữa khối lượng tăng và tỷ lệ sống sót tăng. Bỏ Bristol, hệ số tăng lên 0,67, vì các điểm còn lại nằm gần một đường thẳng hơn.
 
-**Tương quan hạng Spearman.** Một thước đo thay thế mang tên nhà tâm lý học người Anh Charles Spearman (người phát triển ý tưởng về một trí thông minh tổng quát nằm bên dưới các năng lực), chỉ phụ thuộc vào *thứ hạng* của dữ liệu chứ không vào giá trị cụ thể. Vì vậy nó có thể gần 1 hoặc −1 nếu các điểm nằm gần một đường tăng đều hoặc giảm đều, kể cả khi đường đó không thẳng. Với dữ liệu 1991–1995, tương quan hạng Spearman là 0,85, cao hơn đáng kể hệ số Pearson, vì các điểm gần một đường cong đi lên hơn là gần một đường thẳng. (Người tổng hợp kiểm tra bằng các điểm đọc từ đồ thị: xếp 12 bệnh viện theo số ca và theo tỷ lệ sống sót, tổng bình phương chênh lệch thứ hạng khoảng 44, cho hệ số Spearman khoảng 1 − 6 × 44/(12 × 143) ≈ 0,85 — khớp với sách.)
+**Tương quan hạng Spearman.** Một thước đo thay thế mang tên nhà tâm lý học người Anh Charles Spearman (người phát triển ý tưởng về một trí thông minh tổng quát nằm bên dưới các năng lực), chỉ phụ thuộc vào *thứ hạng* của dữ liệu chứ không vào giá trị cụ thể. Vì vậy nó có thể gần 1 hoặc −1 nếu các điểm nằm gần một đường tăng đều hoặc giảm đều, kể cả khi đường đó không thẳng.
+
+Với dữ liệu 1991–1995, tương quan hạng Spearman là 0,85, cao hơn đáng kể hệ số Pearson, vì các điểm gần một đường cong đi lên hơn là gần một đường thẳng. (Người tổng hợp kiểm tra bằng các điểm đọc từ đồ thị: xếp 12 bệnh viện theo số ca và theo tỷ lệ sống sót, tổng bình phương chênh lệch thứ hạng khoảng 44, cho hệ số Spearman khoảng 1 − 6 × 44/(12 × 143) ≈ 0,85 — khớp với sách.)
 
 **Hình (b): Tỷ lệ sống sót 30 ngày theo số ca mổ, mọi trẻ dưới 16 tuổi, 2012–2015 (Figure 2.5(b) trong sách)** — trục x từ 0 tới 2.000 ca, trục y từ 95% tới 100%. Vì đây là dữ liệu đã in thành bảng ở Chương 1, người tổng hợp chép lại số chính xác (13 bệnh viện; Southampton và Bristol gần như trùng điểm trên hình):
 
@@ -628,11 +644,15 @@ Với dữ liệu 1991–1995, hệ số Pearson là 0,59, gợi ý một liên 
 | London, Great Ormond Street | 1.892 | 1.873 | 99,0 |
 | Tổng | 12.933 | 12.670 | 98,0 |
 
-Với dữ liệu này, hệ số Pearson là 0,17 và tương quan hạng Spearman là −0,03, gợi ý rằng không còn quan hệ rõ ràng nào giữa số ca và tỷ lệ sống sót: các điểm tản mát trong dải hẹp 96,3–99,0%, cả bệnh viện nhỏ nhất (418 ca) lẫn lớn nhất (1.892 ca) đều có tỷ lệ sống sót cao nhất. Tuy nhiên, với rất ít bệnh viện, hệ số tương quan có thể rất nhạy với từng điểm: bỏ bệnh viện nhỏ nhất — có tỷ lệ sống sót cao — thì hệ số Pearson nhảy lên 0,42. (Người tổng hợp tính lại từ bảng trên, dùng tỷ lệ sống chưa làm tròn: trung bình cộng số ca 994,8, trung bình cộng tỷ lệ sống 97,92%; hệ số Pearson ≈ 0,17; tương quan hạng Spearman ≈ −0,03; bỏ London Harley Street thì Pearson ≈ 0,42. Cả ba con số khớp với sách.)
+Với dữ liệu này, hệ số Pearson là 0,17 và tương quan hạng Spearman là −0,03, gợi ý rằng không còn quan hệ rõ ràng nào giữa số ca và tỷ lệ sống sót: các điểm tản mát trong dải hẹp 96,3–99,0%, cả bệnh viện nhỏ nhất (418 ca) lẫn lớn nhất (1.892 ca) đều có tỷ lệ sống sót cao nhất.
+
+Tuy nhiên, với rất ít bệnh viện, hệ số tương quan có thể rất nhạy với từng điểm: bỏ bệnh viện nhỏ nhất — có tỷ lệ sống sót cao — thì hệ số Pearson nhảy lên 0,42. (Người tổng hợp tính lại từ bảng trên, dùng tỷ lệ sống chưa làm tròn: trung bình cộng số ca 994,8, trung bình cộng tỷ lệ sống 97,92%; hệ số Pearson ≈ 0,17; tương quan hạng Spearman ≈ −0,03; bỏ London Harley Street thì Pearson ≈ 0,42. Cả ba con số khớp với sách.)
 
 Chú thích của tác giả nhắc một điểm kỹ thuật: tỷ lệ sống sót dựa trên số ca khác nhau nên chịu mức biến thiên ngẫu nhiên khác nhau. Vì vậy, dù hệ số tương quan vẫn tính được như một mô tả của tập dữ liệu, mọi suy luận chính thức phải tính tới việc dữ liệu là các tỷ lệ; tác giả hẹn trình bày ở chương sau (sách ghi "Chương 6"; hồi quy logistic cho chính dữ liệu 1991–1995 thực ra nằm ở Chương 5).
 
-**Tương quan không phải nhân quả.** Hệ số tương quan chỉ là bản tóm tắt mức liên kết, không thể dùng để kết luận rằng chắc chắn có một quan hệ thật giữa khối lượng và tỷ lệ sống sót, càng không thể nói *vì sao* có quan hệ đó. Trong nhiều ứng dụng, trục x biểu diễn một đại lượng gọi là **biến độc lập**, và người ta quan tâm ảnh hưởng của nó tới **biến phụ thuộc** vẽ trên trục y. Nhưng — như Chương 4 về nhân quả sẽ bàn kỹ — cách gọi đó đã giả định trước chiều của ảnh hưởng. Ngay cả với dữ liệu 1991–1995, ta không thể kết luận rằng tỷ lệ sống sót cao hơn theo bất kỳ nghĩa nào là *do* số ca nhiều hơn gây ra; thực tế có thể ngược lại: bệnh viện tốt hơn đơn giản là thu hút nhiều bệnh nhân hơn.
+**Tương quan không phải nhân quả.** Hệ số tương quan chỉ là bản tóm tắt mức liên kết, không thể dùng để kết luận rằng chắc chắn có một quan hệ thật giữa khối lượng và tỷ lệ sống sót, càng không thể nói *vì sao* có quan hệ đó. Trong nhiều ứng dụng, trục x biểu diễn một đại lượng gọi là **biến độc lập**, và người ta quan tâm ảnh hưởng của nó tới **biến phụ thuộc** vẽ trên trục y.
+
+Nhưng — như Chương 4 về nhân quả sẽ bàn kỹ — cách gọi đó đã giả định trước chiều của ảnh hưởng. Ngay cả với dữ liệu 1991–1995, ta không thể kết luận rằng tỷ lệ sống sót cao hơn theo bất kỳ nghĩa nào là *do* số ca nhiều hơn gây ra; thực tế có thể ngược lại: bệnh viện tốt hơn đơn giản là thu hút nhiều bệnh nhân hơn.
 
 ### 8. Mô tả xu hướng (Describing Trends, trang PDF 55–59)
 
@@ -683,7 +703,9 @@ Có rất nhiều cách khảo sát một tập dữ liệu phức tạp như s�
 
 ### 9. Tên tôi phổ biến tới đâu theo thời gian? (How popular has my name been over time?, trang PDF 59–60)
 
-Có những đồ thị phức tạp tới mức khó nhận ra mẫu hình thú vị bằng mắt thường. Sách đưa một ảnh chụp màn hình đồ thị tương tác của Văn phòng Thống kê Quốc gia Anh: mỗi đường thể hiện thứ hạng độ phổ biến của một tên gọi đặt cho bé trai sinh ở Anh và xứ Wales từ 1905 đến 2016 (trục tung là thứ hạng từ 1 — phổ biến nhất — ở trên cùng xuống 100 ở dưới cùng). Đó là cả một lịch sử xã hội phi thường, nhưng tự nó chỉ truyền đạt được rằng mốt đặt tên thay đổi nhanh; các đường dày đặc hơn ở giai đoạn sau gợi ý tên gọi đa dạng hơn từ giữa thập niên 1990. (Người tổng hợp quan sát: trước khoảng 1995 các điểm chỉ có mười năm một lần, nên các đường xám là những đường cong mượt nối các mốc thập kỷ; từ khoảng 1996 có số liệu hằng năm nên phần bên phải đồ thị dày đặc hẳn.)
+Có những đồ thị phức tạp tới mức khó nhận ra mẫu hình thú vị bằng mắt thường. Sách đưa một ảnh chụp màn hình đồ thị tương tác của Văn phòng Thống kê Quốc gia Anh: mỗi đường thể hiện thứ hạng độ phổ biến của một tên gọi đặt cho bé trai sinh ở Anh và xứ Wales từ 1905 đến 2016 (trục tung là thứ hạng từ 1 — phổ biến nhất — ở trên cùng xuống 100 ở dưới cùng).
+
+Đó là cả một lịch sử xã hội phi thường, nhưng tự nó chỉ truyền đạt được rằng mốt đặt tên thay đổi nhanh; các đường dày đặc hơn ở giai đoạn sau gợi ý tên gọi đa dạng hơn từ giữa thập niên 1990. (Người tổng hợp quan sát: trước khoảng 1995 các điểm chỉ có mười năm một lần, nên các đường xám là những đường cong mượt nối các mốc thập kỷ; từ khoảng 1996 có số liệu hằng năm nên phần bên phải đồ thị dày đặc hẳn.)
 
 Chỉ khi cho phép tương tác mới có thể chọn riêng những đường mình quan tâm. Tác giả chọn tên của mình, David, và tên Oliver. Người tổng hợp đọc thứ hạng trên đồ thị (ước lượng):
 
@@ -707,7 +729,9 @@ Tác giả thấy thú vị với xu hướng của tên David: tên này trở 
 
 Chương này tập trung vào việc tóm tắt và truyền đạt dữ liệu một cách cởi mở và không thao túng: ta không muốn tác động lên cảm xúc và thái độ của khán giả, hay thuyết phục họ theo một quan điểm. Ta chỉ muốn nói sự việc như nó là, hoặc ít nhất như nó có vẻ là; và dù không bao giờ có thể tuyên bố nói được sự thật tuyệt đối, ta ít nhất có thể cố gắng trung thực nhất có thể.
 
-Tất nhiên, nỗ lực khách quan khoa học này nói thì dễ, làm thì khó. Khi Hội Thống kê London (sau này là Hội Thống kê Hoàng gia) được Charles Babbage, Thomas Malthus và những người khác thành lập năm 1834, họ trịnh trọng tuyên bố: "Hội Thống kê sẽ coi quy tắc đầu tiên và thiết yếu nhất trong hoạt động của mình là cẩn thận loại bỏ mọi ý kiến khỏi các kỷ yếu và ấn phẩm — giới hạn sự chú ý một cách nghiêm ngặt vào các dữ kiện — và, trong chừng mực có thể, vào những dữ kiện có thể phát biểu bằng con số và sắp xếp trong bảng." Ngay từ đầu họ đã hoàn toàn phớt lờ quy định này, và lập tức chen vào ý kiến của mình về ý nghĩa của các dữ liệu về tội phạm, sức khoẻ và kinh tế, và về những gì nên làm để đáp lại. Có lẽ điều tốt nhất ta làm được hôm nay là nhận ra cám dỗ đó và cố hết sức giữ ý kiến cho riêng mình.
+Tất nhiên, nỗ lực khách quan khoa học này nói thì dễ, làm thì khó. Khi Hội Thống kê London (sau này là Hội Thống kê Hoàng gia) được Charles Babbage, Thomas Malthus và những người khác thành lập năm 1834, họ trịnh trọng tuyên bố: "Hội Thống kê sẽ coi quy tắc đầu tiên và thiết yếu nhất trong hoạt động của mình là cẩn thận loại bỏ mọi ý kiến khỏi các kỷ yếu và ấn phẩm — giới hạn sự chú ý một cách nghiêm ngặt vào các dữ kiện — và, trong chừng mực có thể, vào những dữ kiện có thể phát biểu bằng con số và sắp xếp trong bảng."
+
+Ngay từ đầu họ đã hoàn toàn phớt lờ quy định này, và lập tức chen vào ý kiến của mình về ý nghĩa của các dữ liệu về tội phạm, sức khoẻ và kinh tế, và về những gì nên làm để đáp lại. Có lẽ điều tốt nhất ta làm được hôm nay là nhận ra cám dỗ đó và cố hết sức giữ ý kiến cho riêng mình.
 
 **Quy tắc thứ nhất của truyền đạt** là im lặng và lắng nghe, để hiểu khán giả của mình — dù là chính khách, người làm chuyên môn hay công chúng. Ta phải hiểu những giới hạn không tránh khỏi và mọi hiểu lầm của họ, và cưỡng lại cám dỗ tỏ ra quá tinh vi, quá thông minh, hay đưa vào quá nhiều chi tiết.
 
@@ -719,7 +743,9 @@ Chương này đã giới thiệu khái niệm **trực quan hoá dữ liệu**,
 
 Đồ hoạ thông tin tinh vi xuất hiện thường xuyên trên báo chí; sách đưa một ví dụ khá đơn giản nhưng kể một câu chuyện mạnh mẽ về xu hướng xã hội bằng cách gộp câu trả lời cho ba câu hỏi trong Natsal-3 (2010): phụ nữ và nam giới lần đầu quan hệ tình dục, lần đầu sống chung với bạn đời, và có con đầu lòng ở tuổi nào?
 
-**Hình: Đồ hoạ thông tin từ Natsal-3 — tuổi trung vị lần đầu quan hệ tình dục, lần đầu sống chung và sinh con đầu lòng, theo năm sinh (Figure 2.10 trong sách).** Phần chữ trên đầu đồ hoạ viết: "Trong 60 năm qua, khoảng cách giữa tuổi bắt đầu quan hệ tình dục, tuổi lần đầu sống chung với bạn đời và tuổi có con đầu lòng đã giãn rộng — nên giờ đây có một giai đoạn dài hơn trong đời người phụ nữ cần nỗ lực phòng tránh mang thai ngoài ý muốn." Trục hoành là nhóm năm sinh (1935–39 tới 1990–96), trục tung là tuổi từ 15 tới 35. Với mỗi nhóm có hai vạch đứng: vạch xám cho nam, vạch đen đậm cho nữ; trên mỗi vạch, ô vuông ở đáy là tuổi lần đầu quan hệ, hình thoi ở giữa là tuổi lần đầu sống chung, chấm tròn ở đỉnh là tuổi sinh con đầu lòng. Dấu sao đánh dấu chỗ không hiển thị số liệu vì chưa tới 50% nhóm tuổi đó đã trải qua sự kiện. Người tổng hợp đọc (tuổi, ước lượng):
+**Hình: Đồ hoạ thông tin từ Natsal-3 — tuổi trung vị lần đầu quan hệ tình dục, lần đầu sống chung và sinh con đầu lòng, theo năm sinh (Figure 2.10 trong sách).** Phần chữ trên đầu đồ hoạ viết: "Trong 60 năm qua, khoảng cách giữa tuổi bắt đầu quan hệ tình dục, tuổi lần đầu sống chung với bạn đời và tuổi có con đầu lòng đã giãn rộng — nên giờ đây có một giai đoạn dài hơn trong đời người phụ nữ cần nỗ lực phòng tránh mang thai ngoài ý muốn."
+
+Trục hoành là nhóm năm sinh (1935–39 tới 1990–96), trục tung là tuổi từ 15 tới 35. Với mỗi nhóm có hai vạch đứng: vạch xám cho nam, vạch đen đậm cho nữ; trên mỗi vạch, ô vuông ở đáy là tuổi lần đầu quan hệ, hình thoi ở giữa là tuổi lần đầu sống chung, chấm tròn ở đỉnh là tuổi sinh con đầu lòng. Dấu sao đánh dấu chỗ không hiển thị số liệu vì chưa tới 50% nhóm tuổi đó đã trải qua sự kiện. Người tổng hợp đọc (tuổi, ước lượng):
 
 | Năm sinh | Nữ: quan hệ lần đầu | Nữ: sống chung lần đầu | Nữ: con đầu lòng | Nam: quan hệ lần đầu | Nam: sống chung lần đầu | Nam: con đầu lòng |
 |---|---:|---:|---:|---:|---:|---:|
@@ -738,7 +764,11 @@ Chương này đã giới thiệu khái niệm **trực quan hoá dữ liệu**,
 
 Các tuổi trung vị của ba sự kiện được vẽ theo năm sinh và ba điểm được nối bằng một vạch đứng đậm. Vạch này dài ra đều đặn từ những phụ nữ sinh thập niên 1930 tới những người sinh thập niên 1970 (theo số đọc được: từ khoảng 20 tới 24 tuổi, tức khoảng 4 năm, lên khoảng 17 tới 29 tuổi, tức khoảng 12 năm), thể hiện quãng đời ngày càng dài cần có biện pháp tránh thai hiệu quả. Chú thích hình nói bài học từ dữ liệu được chỉ ra bằng cả hình lẫn lời.
 
-**Đồ thị động.** Cao cấp hơn nữa là đồ thị động, nơi chuyển động được dùng để lộ ra mẫu hình thay đổi theo thời gian. Bậc thầy của kỹ thuật này là Hans Rosling, người có các bài nói TED và video đã đặt ra chuẩn mực mới cho việc kể chuyện bằng thống kê — ví dụ cho thấy quan hệ giữa sự giàu có và sức khoẻ thay đổi qua chuyển động của những bong bóng đại diện cho tiến trình của từng nước từ năm 1800 tới nay. Rosling dùng đồ hoạ để sửa những ngộ nhận về sự phân chia nước "phát triển" và "chưa phát triển": các đồ thị động cho thấy theo thời gian gần như mọi nước đều tiến đều đặn trên một con đường chung tới sức khoẻ và thịnh vượng hơn. Chú thích của tác giả: một cuốn sách tĩnh in thang xám không phải phương tiện phù hợp để thể hiện tác phẩm của Rosling, nên tác giả chỉ có thể khuyến khích người đọc xem trang gapminder.org. Có lần Rosling tranh luận trên truyền hình với một nhà báo Đan Mạch đang lặp lại những ngộ nhận về thế giới mà ông dành cả đời để chống lại; ông chỉ đáp: "Những dữ kiện này không phải để bàn cãi. Tôi đúng, còn anh sai" — mà với thống kê, tác giả nhận xét, đó là cách nói thẳng hiếm thấy.
+**Đồ thị động.** Cao cấp hơn nữa là đồ thị động, nơi chuyển động được dùng để lộ ra mẫu hình thay đổi theo thời gian. Bậc thầy của kỹ thuật này là Hans Rosling, người có các bài nói TED và video đã đặt ra chuẩn mực mới cho việc kể chuyện bằng thống kê — ví dụ cho thấy quan hệ giữa sự giàu có và sức khoẻ thay đổi qua chuyển động của những bong bóng đại diện cho tiến trình của từng nước từ năm 1800 tới nay.
+
+Rosling dùng đồ hoạ để sửa những ngộ nhận về sự phân chia nước "phát triển" và "chưa phát triển": các đồ thị động cho thấy theo thời gian gần như mọi nước đều tiến đều đặn trên một con đường chung tới sức khoẻ và thịnh vượng hơn.
+
+Chú thích của tác giả: một cuốn sách tĩnh in thang xám không phải phương tiện phù hợp để thể hiện tác phẩm của Rosling, nên tác giả chỉ có thể khuyến khích người đọc xem trang gapminder.org. Có lần Rosling tranh luận trên truyền hình với một nhà báo Đan Mạch đang lặp lại những ngộ nhận về thế giới mà ông dành cả đời để chống lại; ông chỉ đáp: "Những dữ kiện này không phải để bàn cãi. Tôi đúng, còn anh sai" — mà với thống kê, tác giả nhận xét, đó là cách nói thẳng hiếm thấy.
 
 **Lời kết chương.** Chương này đã cho thấy một dải liên tục, từ mô tả đơn giản và biểu đồ dữ liệu thô tới các ví dụ phức tạp về kể chuyện bằng thống kê. Máy tính hiện đại làm việc trực quan hoá dữ liệu ngày càng dễ và linh hoạt; và vì các thống kê tóm tắt có thể che giấu cũng như soi sáng, các hình đồ hoạ phù hợp là thiết yếu. Tuy vậy, tóm tắt và truyền đạt các con số thô mới chỉ là giai đoạn đầu của quá trình học từ dữ liệu. Để đi xa hơn, ta cần giải quyết ý tưởng nền tảng: rốt cuộc ta đang cố đạt được điều gì — câu hỏi mở ra Chương 3.
 
@@ -807,7 +837,9 @@ Một khối dữ liệu số lớn có thể được hiểu qua vài con số 
 
 ### Trong ngôn ngữ thống kê
 
-Chương này là phần **thống kê mô tả** và **phân tích dữ liệu khám phá** (exploratory data analysis) của chu trình PPDAC, thuộc bước Phân tích (Analysis): mô tả phân phối thực nghiệm bằng thống kê thứ tự (trung vị, tứ phân vị, phân vị) và thống kê mô-men (trung bình cộng, phương sai, độ lệch chuẩn); nhấn mạnh tính vững (robustness) của thống kê thứ tự trước ngoại lai và phân phối lệch; dùng biến đổi logarit để ổn định hình dạng (trung bình của log ứng với trung bình nhân trên thang gốc); mô tả quan hệ hai biến bằng hệ số tương quan tích-mô-men Pearson r = Σ(xᵢ − x̄)(yᵢ − ȳ) / √[Σ(xᵢ − x̄)² Σ(yᵢ − ȳ)²] và hệ số Spearman (Pearson áp lên thứ hạng). Mọi kết quả ở đây chỉ mô tả mẫu đang có; việc khái quát lên tổng thể, tính tới sai lệch đo lường và biến thiên ngẫu nhiên (ví dụ tỷ lệ có mẫu số khác nhau) để dành cho các chương về tổng thể, suy luận và mô hình.
+Chương này là phần **thống kê mô tả** và **phân tích dữ liệu khám phá** (exploratory data analysis) của chu trình PPDAC, thuộc bước Phân tích (Analysis): mô tả phân phối thực nghiệm bằng thống kê thứ tự (trung vị, tứ phân vị, phân vị) và thống kê mô-men (trung bình cộng, phương sai, độ lệch chuẩn); nhấn mạnh tính vững (robustness) của thống kê thứ tự trước ngoại lai và phân phối lệch; dùng biến đổi logarit để ổn định hình dạng (trung bình của log ứng với trung bình nhân trên thang gốc); mô tả quan hệ hai biến bằng hệ số tương quan tích-mô-men Pearson r = Σ(xᵢ − x̄)(yᵢ − ȳ) / √[Σ(xᵢ − x̄)² Σ(yᵢ − ȳ)²] và hệ số Spearman (Pearson áp lên thứ hạng).
+
+Mọi kết quả ở đây chỉ mô tả mẫu đang có; việc khái quát lên tổng thể, tính tới sai lệch đo lường và biến thiên ngẫu nhiên (ví dụ tỷ lệ có mẫu số khác nhau) để dành cho các chương về tổng thể, suy luận và mô hình.
 
 ## Thuật ngữ
 
@@ -909,7 +941,7 @@ Nhận xét rằng trung bình cộng số bạn tình khác giới của nam v�
 
 ### Một số chỗ sách viết chưa chặt hoặc có lỗi
 
-- Con số độ lệch chuẩn 1.398 sau khi "bỏ riêng một giá trị 31.337" là không thể đúng; tính lại từ chính số của sách ra khoảng 2.226 (chi tiết ở khối Lưu ý). Đây là lỗi đáng tiếc vì nó phóng đại đúng điểm mà tác giả muốn minh hoạ — dù kết luận "độ lệch chuẩn nhạy với ngoại lai" vẫn đúng (bỏ một điểm trong 915 điểm làm nó giảm khoảng 8%).
+- Con số độ lệch chuẩn 1.398 sau khi "bỏ riêng một giá trị 31.337" là không thể đúng; tính lại từ chính số của sách ra khoảng 2.226 (chi tiết ở mục Lưu ý cuối chương). Đây là lỗi đáng tiếc vì nó phóng đại đúng điểm mà tác giả muốn minh hoạ — dù kết luận "độ lệch chuẩn nhạy với ngoại lai" vẫn đúng (bỏ một điểm trong 915 điểm làm nó giảm khoảng 8%).
 - "Khoảng 60% cho cả trung bình cộng lẫn trung vị" thực ra là 68% và 60%.
 - Nhãn "Latin America and Canada" trên đồ thị dân số là sai; khoảng biến thiên 0–550 của nữ mâu thuẫn với chú thích hình "lên tới 500"; chú thích hẹn "Chương 6" có lẽ phải là Chương 5.
 - Bảng 13 bệnh viện chép từ Chương 1 có một chỗ không khớp: Glasgow 733 sống trên 760 ca là 96,4%, bảng ghi 96,3% (và tỷ lệ tử vong 27/760 = 3,6%, bảng ghi 3,7%) — lỗi thuộc bảng của Chương 1, không ảnh hưởng tới các hệ số tương quan của Chương 2.
@@ -946,3 +978,127 @@ Nhận xét rằng trung bình cộng số bạn tình khác giới của nam v�
 - **Cho người đọc báo:** khi gặp "thu nhập trung bình", "giá nhà trung bình", "số lần trung bình", hãy hỏi đó là trung bình cộng hay trung vị và dữ liệu có lệch không; khi gặp "A tương quan với B", hãy hỏi có bao nhiêu điểm dữ liệu, có điểm nào chi phối, và chiều nhân quả có thể ngược lại không.
 - **Cho nhà phân tích:** luôn vẽ dữ liệu trước khi tính; với dữ liệu lệch dùng trung vị và khoảng tứ phân vị hoặc biến đổi logarit; báo cáo cả hệ số Pearson lẫn Spearman và kiểm tra độ nhạy bằng cách bỏ từng điểm ảnh hưởng lớn; chia dữ liệu theo yếu tố giải thích được biến thiên; kiểm tra các ràng buộc logic để phát hiện sai lệch đo lường; tự tính lại các con số tóm tắt quan trọng (như người tổng hợp đã làm với độ lệch chuẩn 1.398).
 - **Cho người làm chính sách:** yêu cầu số liệu được trình bày kèm thước đo độ phân tán, không chỉ một "con số trung bình"; với chỉ tiêu xếp hạng bệnh viện, trường học hay địa phương, nhớ rằng đơn vị nhỏ có tỷ lệ biến động mạnh hơn do ngẫu nhiên và một tương quan trên vài chục đơn vị rất mong manh; khi truyền đạt với công chúng, xác định trước khán giả và mục đích, và cân nhắc phản ứng mà cách trình bày có thể gây ra.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn đi theo trình tự các mục của bản gốc (con bò của Galton và hũ kẹo trong “Can we trust the wisdom of crowds?”, độ phân tán, khác biệt giữa các nhóm, quan hệ giữa hai biến, xu hướng, truyền đạt và kể chuyện), mỗi nhánh ghi thước đo, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: tóm tắt dữ liệu bằng vài con số nhưng vẫn phải nhìn biểu đồ, và truyền đạt trung thực`"]
+  n1["`Mục “Can we trust the wisdom of crowds?” (trang PDF 39–46) — vẽ một tập số và chọn số trung bình`"]
+  n0 --- n1
+  n2["`Galton 1907: trung vị 787 phiếu đoán thịt bò là 1.207 pound, thật là 1.198 pound`"]
+  n1 --- n2
+  n3["`Thí nghiệm hũ kẹo: 915 lần đoán từ 219 tới 31.337, phân phối lệch phải rất mạnh`"]
+  n1 --- n3
+  n4["`Ba cách vẽ: biểu đồ dải điểm, biểu đồ hộp và râu, histogram`"]
+  n1 --- n4
+  n5["`Thang logarit làm phân phối số kẹo đoán gần đối xứng`"]
+  n1 --- n5
+  n6["`Biến đếm nhận số nguyên, biến liên tục đo với độ chính xác tùy ý`"]
+  n1 --- n6
+  n7["`Trung bình cộng 2.408 kém, yếu vị 10.000 chỉ phản ánh thói quen chọn số tròn`"]
+  n1 --- n7
+  n8["`Trung vị 1.775 lệch số thật 1.616 khoảng 10%, gần đúng hơn 90% số người đoán`"]
+  n1 --- n8
+  n9["`Mục “Describing the Spread of a Data Distribution” (trang PDF 46–47) — đo độ phân tán`"]
+  n0 --- n9
+  n10["`Khoảng biến thiên rất nhạy với lần đoán kỳ quặc 31.337`"]
+  n9 --- n10
+  n11["`Khoảng tứ phân vị 1.109 đến 2.599 chứa nửa giữa dữ liệu, không bị cực trị ảnh hưởng`"]
+  n9 --- n11
+  n12["`Độ lệch chuẩn 2.422 chỉ thật sự hợp với dữ liệu đối xứng`"]
+  n9 --- n12
+  n13["`Thước đo vững như trung vị và khoảng tứ phân vị chịu được dữ liệu bẩn mà không cần loại điểm`"]
+  n9 --- n13
+  n14["`Mục “Describing Differences between Groups of Numbers” (trang PDF 47–49) — so sánh nhóm và kiểm tra tính hợp lý`"]
+  n0 --- n14
+  n15["`Natsal-3, 35–44 tuổi: nam khai trung bình 14,3 bạn tình, nữ 8,5, trung vị 8 và 5`"]
+  n14 --- n15
+  n16["`Trong tổng thể khép kín, tổng số quan hệ của nam và nữ phải bằng nhau, nên khác biệt gợi ý khai báo sai lệch`"]
+  n14 --- n16
+  n17["`Biểu đồ dữ liệu thô lộ thói quen khai số tròn từ 10 trở lên`"]
+  n14 --- n17
+  n18["`Mục “Describing Relationships Between Variables” (trang PDF 50–55) — biểu đồ phân tán và hệ số tương quan`"]
+  n0 --- n18
+  n19["`Pearson đo mức gần một đường thẳng, Spearman chỉ dùng thứ hạng`"]
+  n18 --- n19
+  n20["`Mổ tim trẻ dưới 1 tuổi 1991–1995: Pearson 0,59, Spearman 0,85 giữa số ca mổ và tỷ lệ sống`"]
+  n18 --- n20
+  n21["`2012–2015: Pearson 0,17, Spearman −0,03, bỏ bệnh viện nhỏ nhất thì Pearson lên 0,42`"]
+  n18 --- n21
+  n22["`Datasaurus: hình khủng long và dải xiên đều có Pearson khoảng 0 dù có cấu trúc rõ`"]
+  n18 --- n22
+  n23["`Tương quan chỉ tóm tắt mức liên kết, không chứng minh nhân quả`"]
+  n18 --- n23
+  n24["`Mục “Describing Trends” và tên David (trang PDF 55–60) — đồ thị đường và thang logarit`"]
+  n0 --- n24
+  n25["`Dân số thế giới 1951–2015 tăng khoảng 3 lần, lên gần 7,5 tỷ`"]
+  n24 --- n25
+  n26["`Thang logarit và chia theo châu lục làm lộ châu Phi tăng nhanh, châu Âu phẳng`"]
+  n24 --- n26
+  n27["`Rút mỗi nước thành một con số tăng tương đối: Ả Rập Xê Út gần 10 lần`"]
+  n24 --- n27
+  n28["`Tên David hạng 1 năm 1953, năm 2016 chỉ 1.461 bé, Oliver đi lên ngược chiều`"]
+  n24 --- n28
+  n29["`Mục “Communication” và “Storytelling with Statistics” (trang PDF 61–63) — truyền đạt có chủ đích`"]
+  n0 --- n29
+  n30["`Quy tắc thứ nhất: im lặng và lắng nghe để hiểu khán giả`"]
+  n29 --- n30
+  n31["`Quy tắc thứ hai: biết mình muốn đạt điều gì, cố không chen ý kiến cá nhân`"]
+  n29 --- n31
+  n32["`Hội Thống kê London 1834 tuyên bố loại bỏ ý kiến nhưng vi phạm ngay từ đầu`"]
+  n29 --- n32
+  n33["`Đồ họa Natsal-3: khoảng cách tuổi quan hệ lần đầu và sinh con đầu tăng từ khoảng 4 lên khoảng 12 năm`"]
+  n29 --- n33
+  n34["`Hans Rosling dùng đồ thị động bong bóng giàu có và sức khỏe các nước từ 1800`"]
+  n29 --- n34
+  n35["`Thông điệp xuyên suốt`"]
+  n0 --- n35
+  n36["`Gặp chữ trung bình, hỏi đó là trung bình cộng hay trung vị`"]
+  n35 --- n36
+  n37["`Đừng loại ngoại lai chỉ vì bất tiện, hãy dùng thước đo vững hoặc biến đổi dữ liệu`"]
+  n35 --- n37
+  n38["`Luôn đòi xem biểu đồ dữ liệu thô, vì số tóm tắt luôn che bớt chi tiết`"]
+  n35 --- n38
+  n39["`Con số không tự nói, cách trình bày luôn là một lựa chọn kể chuyện`"]
+  n35 --- n39
+  class n0 root
+  class n1,n9,n14,n18,n24,n29,n35 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n15,n16,n17,n19,n20,n21,n22,n23,n25,n26,n27,n28,n30,n31,n32,n33,n34,n36,n37,n38,n39 leaf
+```
+
+## Nguồn
+
+David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Books (Hachette), 2019 (bản gốc Pelican/Penguin, Anh, 2019), Chương 2 "Summarizing and Communicating Numbers. Lots of Numbers", trang PDF 39–64 (ebook không có số trang in; vị trí ghi theo chỉ số trang của file PDF và theo tên tiểu mục).
+
+## Tác giả
+
+Sir David Spiegelhalter, nhà thống kê, chủ tịch Trung tâm Winton về Truyền đạt Rủi ro và Bằng chứng (Winton Centre for Risk and Evidence Communication), Phòng Thí nghiệm Thống kê, Đại học Cambridge; nguyên chủ tịch Hội Thống kê Hoàng gia Anh (Royal Statistical Society); được phong tước hiệp sĩ vì đóng góp cho thống kê.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần giới thiệu ([00-gioi-thieu.md](00-gioi-thieu.md)) đặt khung cho cả cuốn sách: thống kê là khoa học học hỏi từ dữ liệu, đi theo chu trình giải quyết vấn đề PPDAC (Vấn đề — Kế hoạch — Dữ liệu — Phân tích — Kết luận). Chương 1 ([C01-ty-le-du-lieu-phan-loai-va-phan-tram.md](C01-ty-le-du-lieu-phan-loai-va-phan-tram.md)) xử lý loại dữ liệu đơn giản nhất — dữ liệu phân loại có/không, tóm tắt bằng tỷ lệ phần trăm — qua vụ phẫu thuật tim trẻ em ở Bristol và bảng tỷ lệ sống sót của 13 bệnh viện giai đoạn 2012–2015, và bàn cách trình bày tỷ lệ (khung tích cực hay tiêu cực, rủi ro tương đối hay tuyệt đối).
+
+Chương 2 bước sang dữ liệu dạng số (biến đếm và biến liên tục): cách vẽ một tập số, cách tóm tắt nó bằng thước đo vị trí (trung bình cộng, trung vị, yếu vị) và thước đo độ phân tán (khoảng biến thiên, khoảng tứ phân vị, độ lệch chuẩn), cách so sánh nhóm, cách mô tả quan hệ giữa hai biến bằng biểu đồ phân tán và hệ số tương quan, cách mô tả xu hướng theo thời gian, và cuối cùng là cách truyền đạt — từ trực quan hoá dữ liệu để hiểu sang đồ hoạ thông tin để kể chuyện. Chương 2 vẫn dừng ở mức *mô tả* dữ liệu đang có.
+
+Chương 3 ([C03-tong-the-va-do-luong.md](C03-tong-the-va-do-luong.md)) hỏi câu tiếp theo: dữ liệu này đại diện cho tổng thể nào, và lấy chính ví dụ số bạn tình tự khai trong khảo sát Natsal để bàn về sai lệch trong đo lường. Chương 4 ([C04-cai-gi-gay-ra-cai-gi.md](C04-cai-gi-gay-ra-cai-gi.md)) trả lời câu mà Chương 2 cố ý bỏ ngỏ: tương quan giữa số ca mổ và tỷ lệ sống sót có nói gì về nguyên nhân hay không. Chương 5 ([C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md](C05-mo-hinh-hoa-quan-he-bang-hoi-quy.md)) quay lại đúng dữ liệu phẫu thuật tim 1991–1995 của chương này và khớp một mô hình hồi quy logistic. Chương 7 ([C07-uoc-luong-va-khoang.md](C07-uoc-luong-va-khoang.md)) và Chương 9 ([C09-ket-hop-xac-suat-va-thong-ke.md](C09-ket-hop-xac-suat-va-thong-ke.md)) dùng lại dữ liệu số bạn tình Natsal và dữ liệu bệnh viện để chuyển từ mô tả sang suy luận có độ bất định.
+
+## Lưu ý
+
+- **Con số độ lệch chuẩn sau khi bỏ giá trị 31.337 không thể đúng (nhận xét của người tổng hợp):** sách nói bỏ riêng một giá trị 31.337 thì độ lệch chuẩn giảm từ 2.422 xuống 1.398. Người tổng hợp tính lại từ chính các số của sách (915 lần đoán, trung bình cộng 2.408, độ lệch chuẩn 2.422): tổng bình phương độ lệch khoảng 2.422² × 914 ≈ 5.362 triệu; riêng giá trị 31.337 đóng góp khoảng (31.337 − 2.408)² × 915/914 ≈ 838 triệu; phần còn lại khoảng 4.524 triệu chia cho 913 rồi lấy căn bậc hai được khoảng **2.226**, không phải 1.398. Bỏ một điểm duy nhất không thể làm độ lệch chuẩn giảm tới mức 1.398. Có lẽ con số 1.398 là độ lệch chuẩn sau khi bỏ nhiều giá trị cao (ví dụ 33 lần đoán từ 9.999 trở lên mà chú thích cuối chương nhắc tới), nhưng sách không nói vậy — đây là phỏng đoán.
+- **Ngưỡng loại bỏ giá trị cao không thống nhất:** lời văn nói khi phân tích lần đầu tác giả "khá tuỳ tiện loại mọi giá trị trên 9.000"; chú thích cuối chương số 2 nói đã loại "33 lần đoán cao nhất, từ 9.999 trở lên". Hai ngưỡng khác nhau, dù vì không có ai đoán giữa 9.000 và 9.999 nên có thể chúng cho cùng kết quả — sách không cho đủ dữ liệu để kiểm tra.
+- **"Khoảng 60% cho cả trung bình cộng lẫn trung vị" là viết chưa chặt:** với dữ liệu Natsal-3, trung vị của nam cao hơn nữ 8/5 − 1 = **60%**, nhưng trung bình cộng cao hơn 14,3/8,5 − 1 = **68%**. Chênh lệch tuyệt đối 14,3 − 8,5 = 5,8 (sách làm tròn thành 6) và 8 − 5 = 3 thì đúng.
+- **Khoảng biến thiên của nữ không khớp giữa bảng và chú thích hình:** Table 2.2 ghi khoảng biến thiên của nữ là 0 đến 550, nhưng chú thích Figure 2.4 nói "tổng số lên tới 500 cho cả nam lẫn nữ".
+- **Nhãn sai trong Figure 2.7:** đồ thị dân số ghi một đường là "Latin America and Canada". Theo cách phân vùng của Phòng Dân số Liên Hợp Quốc mà sách dùng (theo hiểu biết của người tổng hợp), vùng này là "Mỹ Latinh và Caribe" (Latin America and the Caribbean); Canada thuộc "Bắc Mỹ" (Northern America), đường có nhãn riêng trên cùng hình. Lời văn chương nói chuỗi số "từ 1951", còn chú thích hình và trục hoành bắt đầu từ 1950.
+- **Figure 2.6 (Datasaurus) — chi tiết cần biết thêm (theo hiểu biết của người tổng hợp, không tra cứu):** hình "con khủng long" do Alberto Cairo tạo; bộ "Datasaurus Dozen" (13 tập dữ liệu cùng số tóm tắt) do Justin Matejka và George Fitzmaurice (Autodesk) phát triển năm 2017 từ hình của Cairo, nên gọi là "Datasaurus Dozen của Alberto Cairo" chưa thật chính xác. Hệ số tương quan Pearson của các tập này xấp xỉ −0,06 chứ không đúng bằng 0; điều đó không ảnh hưởng tới luận điểm.
+- **Tham chiếu chương trong chú thích:** chú thích về tỷ lệ sống sót có mẫu số khác nhau nói "tôi sẽ chỉ cách làm ở Chương 6", nhưng mô hình hồi quy logistic cho chính dữ liệu phẫu thuật tim 1991–1995 nằm ở Chương 5 (Figure 5.2); cách xử lý tỷ lệ có mẫu số khác nhau bằng biểu đồ phễu (funnel plot) nằm ở Chương 9. "Chương 6" có lẽ là nhầm.
+- **Các phép tính đã kiểm tra lại và đúng:** 1.207 pound ≈ 547 kg, 1.198 pound ≈ 543 kg; ví dụ thu nhập (£1.500/3 = £500; £11.500/5 = £2.300; trung vị mới £600); trung vị đoán kẹo vượt số thật 1.775 − 1.616 = 159, tức 159/1.616 = 9,8% ("khoảng 10%"); dân số thế giới tăng từ khoảng 2,55 lên khoảng 7,35 tỷ, gấp khoảng 2,9 lần ("khoảng ba lần"). Với dữ liệu 13 bệnh viện giai đoạn 2012–2015 chép từ Chương 1 (số ca và số sống sót), người tổng hợp tính được tương quan Pearson ≈ 0,17, tương quan hạng Spearman ≈ −0,03 (dùng tỷ lệ sống sót chưa làm tròn), và bỏ bệnh viện nhỏ nhất (London Harley Street) thì Pearson ≈ 0,42 — khớp hoàn toàn với sách. Với dữ liệu 1991–1995, sách không in bảng số; tương quan hạng tính từ các điểm đọc trên đồ thị được khoảng 0,85, khớp với sách; hệ số Pearson 0,59 và 0,67 (bỏ Bristol) không tự kiểm tra được vì không có số chính xác.
+- **Một chỗ lệch trong bảng 13 bệnh viện mượn từ Chương 1:** Glasgow có 733 trẻ sống trên 760 ca, tức 96,4% (tử vong 27/760 = 3,6%), nhưng bảng ghi 96,3% và 3,7%. Lỗi nhỏ, không ảnh hưởng tới các hệ số tương quan.
+- **Hình là đồ thị không ghi số:** Figure 2.2, 2.3 (phân phối số lần đoán kẹo), 2.4 (phân phối số bạn tình), 2.5(a) (bệnh viện 1991–1995), 2.7, 2.8 (dân số), 2.9 (thứ hạng tên David và Oliver) và 2.10 (tuổi trung vị trong Natsal-3) đều không in số liệu; mọi con số đọc từ trục trong bản tổng hợp này là **ước lượng** của người tổng hợp và được ghi "khoảng". Figure 2.1 chỉ là ảnh chụp hũ kẹo. Figure 2.6 là hai đám điểm hư cấu, không có trục số.
+- **Lớp chữ của ebook:** chữ tốt; vài chỗ dấu sao chú thích bị đặt lệch (ví dụ dấu sao dưới hai bảng 2.1 và 2.2), và chú thích về thí nghiệm máy phát hiện nói dối (thuộc phần số bạn tình) bị liệt kê sau chú thích về Hans Rosling trong danh sách chú thích. Bản tổng hợp đặt mỗi chú thích về đúng đoạn văn có liên quan.
