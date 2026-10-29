@@ -1169,109 +1169,135 @@ flowchart LR
   n0["`Chương 6: thuật toán học từ dữ liệu là công nghệ cho một nhiệm vụ hẹp, phải được đánh giá trên dữ liệu chưa thấy, và phức tạp hơn chưa chắc tốt hơn`"]
   n1["`Phần mở đầu và mục “Finding Patterns” (trang PDF 104–106) — từ khoa học sang công nghệ`"]
   n0 --- n1
-  n2["`Phân loại (học có giám sát) nói ta đang ở tình huống nào, dự báo nói điều gì sẽ xảy ra`"]
+  n2["`Thuật toán là công thức máy móc tự trả lời mỗi ca mới từ dữ liệu quá khứ: công nghệ chứ không phải khoa học`"]
   n1 --- n2
-  n3["`Thuật toán thuộc trí tuệ nhân tạo hẹp, chỉ làm tốt một nhiệm vụ cụ thể`"]
+  n3["`Phân loại (học có giám sát) nói ta đang ở tình huống nào, dự báo nói điều gì sẽ xảy ra`"]
   n1 --- n3
-  n4["`Từ Edmund Halley thập niên 1690, thống kê luôn tạo thuật toán giúp ra quyết định`"]
+  n4["`AI hẹp làm tốt một việc quy định chặt nhờ học máy trên kho ví dụ lịch sử#59; AI tổng quát còn ngoài tầm máy`"]
   n1 --- n4
-  n5["`DeepMind tự học trò chơi, đánh bại vô địch cờ vua và cờ vây`"]
+  n5["`Từ Edmund Halley thập niên 1690, thống kê luôn tạo thuật toán giúp ra quyết định#59; cái mới là quy mô dữ liệu`"]
   n1 --- n5
-  n6["`Dữ liệu lớn theo hai chiều: số ca n và số đặc trưng p (hệ gen học có p rất lớn)`"]
+  n6["`Dữ liệu lớn theo số ca n và số đặc trưng p: hệ gen là n nhỏ p lớn, Facebook là n lớn p lớn`"]
   n1 --- n6
-  n7["`Phân cụm là học không giám sát, giảm chiều dữ liệu là kỹ thuật đặc trưng, học sâu có thể bỏ qua bước giảm chiều`"]
+  n7["`Phân cụm (học không giám sát) tìm các nhóm đồng nhất không được báo trước là tồn tại`"]
   n1 --- n7
-  n8["`Mục “Classification and Prediction” và “Classification Trees” (trang PDF 106–114) — ví dụ Titanic`"]
-  n0 --- n8
-  n9["`Đêm 14 rạng 15/4/1912 chỉ khoảng 700 trong hơn 2.200 người sống sót`"]
-  n8 --- n9
-  n10["`1.309 hành khách, chia ngẫu nhiên 897 vào tập huấn luyện và 412 vào tập kiểm tra để riêng, như cuộc thi trên Kaggle`"]
-  n8 --- n10
-  n11["`Tiền xử lý: điền giá vé thiếu bằng trung vị hạng vé, gộp quy mô gia đình, gộp danh xưng hiếm`"]
-  n8 --- n11
-  n12["`Mốc ngây thơ: “không ai sống” đúng 61%, “phụ nữ sống, đàn ông chết” đúng 78%`"]
-  n8 --- n12
-  n13["`Cây phân loại là chuỗi câu hỏi có hoặc không, mỗi câu trả lời quyết định câu hỏi tiếp theo`"]
-  n8 --- n13
-  n14["`Cây bốn câu hỏi cho Francis Somerton, người cùng quê Ilfracombe với tác giả, danh xưng Mr, 16% cơ hội sống`"]
-  n8 --- n14
-  n15["`Hai nhóm hơn 50% sống: phụ nữ và trẻ em hạng nhất, hạng hai (93%), phụ nữ và trẻ em hạng ba gia đình dưới 5 người (60%)`"]
-  n8 --- n15
-  n16["`Hai mục đánh giá hiệu năng và điểm Brier (trang PDF 114–121) — đo trên tập kiểm tra bằng nhiều thước đo`"]
-  n0 --- n16
-  n17["`Ma trận sai số: cây đơn giản đúng 82% trên tập huấn luyện, 81% trên tập kiểm tra`"]
-  n16 --- n17
-  n18["`Độ nhạy là tỷ lệ người sống được nhận đúng, độ đặc hiệu là tỷ lệ người chết được nhận đúng`"]
-  n16 --- n18
-  n19["`Đường cong ROC xét mọi ngưỡng, diện tích dưới đường cong 0,84 huấn luyện và 0,82 kiểm tra đo khả năng phân biệt`"]
-  n16 --- n19
-  n20["`Ngưỡng 70%: độ đặc hiệu 0,98 nhưng độ nhạy chỉ 0,50`"]
+  n8["`Kỹ thuật đặc trưng rút p về số chiều xử lý được#59; học sâu gợi ý có thể đưa thẳng dữ liệu thô vào`"]
+  n1 --- n8
+  n9["`Mục “Classification and Prediction” và “Classification Trees” (trang PDF 106–114) — ví dụ Titanic`"]
+  n0 --- n9
+  n10["`Đêm 14 rạng 15/4/1912 chỉ khoảng 700 trong hơn 2.200 người sống sót, cơ hội phụ thuộc mạnh vào hạng vé`"]
+  n9 --- n10
+  n11["`1.309 hành khách chia ngẫu nhiên 897 huấn luyện, 412 kiểm tra#59; nhìn tập kiểm tra trước là gian lận nghiêm trọng`"]
+  n9 --- n11
+  n12["`Tiền xử lý: 18 giá vé thiếu điền trung vị của hạng, gộp quy mô gia đình, gộp danh xưng hiếm`"]
+  n9 --- n12
+  n13["`Tỷ lệ sống trong tập huấn luyện: nữ khoảng 73%, nam 20%#59; hạng nhất 62%, hạng ba 27%`"]
+  n9 --- n13
+  n14["`Mốc ngây thơ: “không ai sống” đúng 61%, “phụ nữ sống, đàn ông chết” đúng 78%`"]
+  n9 --- n14
+  n15["`Cây phân loại: chuỗi câu hỏi có/không, mỗi lá dự đoán sống nếu trên 50% người giống vậy đã sống`"]
+  n9 --- n15
+  n16["`Danh xưng Mr: lá chứa 58% tập huấn luyện, 16% sống, nên Francis Somerton có 16% cơ hội`"]
+  n15 --- n16
+  n17["`Không phải Mr và không hạng ba, không danh xưng hiếm: 93% sống#59; danh xưng hiếm: 37%`"]
+  n15 --- n17
+  n18["`Phụ nữ, trẻ em hạng ba: gia đình dưới 5 người 60% sống, từ 5 người trở lên chỉ 3%`"]
+  n15 --- n18
+  n19["`Mục “Assessing the Performance of an Algorithm” và “A Combined Measure of ‘Accuracy’ for Probabilities” (trang PDF 114–121)`"]
+  n0 --- n19
+  n20["`Độ chính xác của cây đơn giản: 82% trên tập huấn luyện, 81% trên tập kiểm tra`"]
   n19 --- n20
-  n21["`Hiệu chuẩn lấy từ dự báo thời tiết: trong các ngày báo 70% mưa thì khoảng 70% có mưa`"]
-  n16 --- n21
-  n22["`Điểm Brier là sai số bình phương trung bình của xác suất, gộp phân biệt và hiệu chuẩn`"]
-  n16 --- n22
-  n23["`Cây đơn giản Brier 0,139, giảm 40% so với mốc ai cũng có 39% cơ hội (0,232)`"]
-  n22 --- n23
-  n24["`Dự báo mưa hư cấu Brier 0,11 so với khí hậu 0,28, điểm kỹ năng 0,61, dự báo thật khoảng 0,4 cho ngày mai`"]
-  n22 --- n24
-  n25["`Phải dùng bình phương vì sai số tuyệt đối không phải quy tắc chấm điểm thích đáng`"]
-  n22 --- n25
-  n26["`Mục “Over-fitting”, “Regression Models” và “More Complex Techniques” (trang PDF 121–127) — khớp vào nhiễu và so sánh mười phương pháp`"]
-  n0 --- n26
-  n27["`Cây rậm đúng 83% trên tập huấn luyện nhưng Brier kiểm tra xấu đi thành 0,150`"]
+  n21["`Ma trận sai số: độ nhạy (người sống nhận đúng) 78%, độ đặc hiệu (người chết nhận đúng) 84%, tập huấn luyện`"]
+  n19 --- n21
+  n22["`Độ chính xác bỏ qua mức tự tin, nên gán xác suất bằng tỷ lệ ở lá thay vì nhãn sống/chết`"]
+  n19 --- n22
+  n23["`Đường cong ROC xét mọi ngưỡng: diện tích 0,5 là vô dụng, 1 là hoàn hảo#59; cây đạt 0,84 và 0,82`"]
+  n19 --- n23
+  n24["`Ngưỡng 50%: đặc hiệu 0,84, nhạy 0,78#59; ngưỡng 70%: đặc hiệu 0,98 nhưng nhạy chỉ 0,50`"]
+  n23 --- n24
+  n25["`Diện tích 0,82: chọn ngẫu nhiên một người sống, một người chết, 82% khả năng người sống được xác suất cao hơn`"]
+  n23 --- n25
+  n26["`Hiệu chuẩn, lấy từ dự báo thời tiết: trong các ngày báo 70% mưa thì khoảng 70% số ngày có mưa`"]
+  n19 --- n26
+  n27["`Dự báo xác suất mưa: chạy ensemble 50 mô hình, mưa ở 5 kịch bản thì báo 10%`"]
   n26 --- n27
-  n28["`Các quy luật bầu cử Mỹ quá tinh chỉnh bị phá lần lượt: Eisenhower 1952, Kennedy 1960, Reagan 1980`"]
+  n28["`Đồ thị hiệu chuẩn của cây: thanh 95% của cả năm nhóm đều cắt đường chéo, nên hiệu chuẩn tốt`"]
   n26 --- n28
-  n29["`Đánh đổi độ chệch và phương sai: khớp quá sát hoàn cảnh cục bộ thì ước lượng dao động mạnh`"]
-  n26 --- n29
-  n30["`Chống quá khớp bằng điều chuẩn và kiểm định chéo mười phần để chọn độ phức tạp`"]
-  n26 --- n30
-  n31["`Hồi quy logistic huấn luyện bằng boosting, có tương tác: Somerton tổng điểm −1,91, xác suất p = 1 / (1 + e^(−S)) khoảng 13%`"]
-  n26 --- n31
-  n32["`Rừng ngẫu nhiên, máy vectơ hỗ trợ, mạng nơ-ron, K láng giềng gần nhất`"]
-  n26 --- n32
-  n33["`Không có người thắng rõ ràng: rừng ngẫu nhiên có ROC cao nhất 0,850, cây đơn giản có Brier tốt nhất 0,139`"]
-  n26 --- n33
-  n34["`Quy tắc theo giới tính đạt 0,786, vượt máy vectơ hỗ trợ và theo sát hồi quy logistic`"]
-  n26 --- n34
-  n35["`Hộp đen: Netflix không dùng bài thắng giải 1 triệu USD vì quá phức tạp để triển khai`"]
-  n26 --- n35
-  n36["`Người sống sót bất ngờ nhất là Karl Dahl, thợ mộc 45 tuổi hạng ba`"]
-  n26 --- n36
-  n37["`Mục “Challenges of Algorithms” và “Artificial Intelligence” (trang PDF 127–131) — bốn mối lo khi dùng trong xã hội`"]
-  n0 --- n37
-  n38["`Thiếu độ vững: Google Flu Trends dự báo cúm quá cao từ năm 2013`"]
-  n37 --- n38
-  n39["`Bỏ qua biến thiên: ở Virginia một phần tư giáo viên dao động hơn 40 điểm trên thang 100 giữa hai năm`"]
-  n37 --- n39
-  n40["`Thiên lệch ngầm: thuật toán husky nhận ra tuyết, mã bưu chính làm đại diện cho chủng tộc`"]
-  n37 --- n40
-  n41["`Thiếu minh bạch: COMPAS chấm điểm rủi ro tái phạm dùng trong tuyên án nhưng không công khai trọng số`"]
-  n37 --- n41
-  n42["`Có thể dò thuật toán kín bằng cách đổi đầu vào, như thử báo giá bảo hiểm trực tuyến`"]
-  n37 --- n42
-  n43["`Predict 2.1 cho ung thư vú là mẫu tích cực: xây trên 5.700 ca, kiểm định trên 27.000 ca, mã nguồn mở`"]
-  n37 --- n43
-  n44["`Phụ nữ 65 tuổi còn sống sau 10 năm: 64% nếu chỉ phẫu thuật, 79% nếu thêm ba liệu pháp bổ trợ`"]
-  n43 --- n44
-  n45["`Hiệu quả điều trị lấy từ thử nghiệm lâm sàng, vì thuật toán dựa trên liên hệ không trả lời câu hỏi can thiệp`"]
-  n43 --- n45
-  n46["`Judea Pearl: AI cần mô hình nhân quả, thuật toán chỉ mô hình hóa liên hệ`"]
-  n37 --- n46
-  n47["`Thông điệp xuyên suốt`"]
-  n0 --- n47
-  n48["`Thuật toán khoe chính xác 90%, hỏi đo trên tập nào và so với mốc ngây thơ nào`"]
-  n47 --- n48
-  n49["`Với dự báo xác suất, đòi cả khả năng phân biệt lẫn hiệu chuẩn`"]
-  n47 --- n49
-  n50["`Chênh lệch nhỏ giữa các thuật toán có thể chỉ là may rủi khi chia dữ liệu`"]
-  n47 --- n50
-  n51["`Với thuật toán ảnh hưởng đời sống, cần giải thích được, kiểm soát được, khiếu nại được, nên ưu tiên sự đơn giản`"]
-  n47 --- n51
+  n29["`Điểm Brier (Glenn Brier, 1950): sai số bình phương trung bình khi coi xảy ra là 1, không xảy ra là 0#59; thấp là tốt`"]
+  n19 --- n29
+  n30["`Tuần mưa hư cấu: Brier 0,11, khí hậu 0,28, điểm kỹ năng (BC − B) / BC = 0,61`"]
+  n29 --- n30
+  n31["`Dự báo mưa thật có điểm kỹ năng khoảng 0,4 cho ngày mai, 0,2 cho một tuần tới`"]
+  n29 --- n31
+  n32["`Sai số tuyệt đối khiến người dự báo nói 0% dù tin là 10%, nên phải dùng bình phương`"]
+  n29 --- n32
+  n33["`Titanic: cây Brier 0,139, giảm 40% so với mốc ai cũng 39% cơ hội (0,232)`"]
+  n29 --- n33
+  n34["`Mục “Over-fitting”, “Regression Models” và “More Complex Techniques” (trang PDF 121–127)`"]
+  n0 --- n34
+  n35["`Quá khớp: cây rậm đúng 83% trên tập huấn luyện, nhưng tập kiểm tra chỉ 81% và Brier xấu đi thành 0,150`"]
+  n34 --- n35
+  n36["`Quy luật bầu cử Mỹ quá tinh chỉnh của xkcd bị phá lần lượt: Eisenhower 1952, Kennedy 1960, Reagan 1980`"]
+  n35 --- n36
+  n37["`Đánh đổi độ chệch và phương sai: 8.000 trong 10.000 người giống bạn cho 80% chắc nhưng chệch#59; khớp còn 2 người cho 50% bấp bênh`"]
+  n35 --- n37
+  n38["`Chống quá khớp: điều chuẩn kéo hệ số về 0#59; kiểm định chéo mười phần bỏ 10%, xây trên 90%, lặp 10 lần`"]
+  n34 --- n38
+  n39["`Cây: dựng thật sâu rồi tỉa, mức tỉa do tham số độ phức tạp chọn bằng kiểm định chéo`"]
+  n38 --- n39
+  n40["`Hồi quy logistic huấn luyện bằng boosting: ca phân loại sai được tăng trọng số ở vòng sau`"]
+  n34 --- n40
+  n41["`Somerton: 3,20 − 2,30 − 3,86 + 1,43 − 0,38 = −1,91, p = 1 / (1 + e^1,91) khoảng 13%`"]
+  n40 --- n41
+  n42["`Tương tác nam và hạng ba +1,43 bù hai điểm trừ lớn#59; LASSO chọn biến bằng cách ép hệ số về 0`"]
+  n40 --- n42
+  n43["`Rừng ngẫu nhiên bỏ phiếu nhiều cây, máy vectơ hỗ trợ, mạng nơ-ron nhiều lớp, K láng giềng gần nhất`"]
+  n34 --- n43
+  n44["`Không có người thắng rõ ràng: rừng ngẫu nhiên ROC cao nhất 0,850, cây đơn giản Brier tốt nhất 0,139`"]
+  n34 --- n44
+  n45["`Quy tắc theo giới tính đạt độ chính xác 0,786, ngang thuật toán phức tạp, nên độ chính xác thô không đủ`"]
+  n44 --- n45
+  n46["`Chênh lệch nhỏ có thể chỉ do may rủi khi chia dữ liệu, được kiểm tra ở Chương 10`"]
+  n44 --- n46
+  n47["`Hộp đen khó triển khai, không biết nên tin đến đâu, không soi được thiên lệch#59; Netflix bỏ bài thắng 1 triệu USD`"]
+  n34 --- n47
+  n48["`Karl Dahl, thợ mộc 45 tuổi hạng ba, được hai thuật toán cho 0% mà vẫn sống`"]
+  n34 --- n48
+  n49["`Mục “Challenges of Algorithms” và “Artificial Intelligence” (trang PDF 127–131) — bốn mối lo khi dùng trong xã hội`"]
+  n0 --- n49
+  n50["`Thiếu độ vững: Google Flu Trends dự báo cúm quá cao từ năm 2013`"]
+  n49 --- n50
+  n51["`Bỏ qua biến thiên: ở Virginia một phần tư giáo viên dao động hơn 40 điểm trên thang 100 giữa hai năm`"]
+  n49 --- n51
+  n52["`Thiên lệch ngầm: thuật toán husky nhận ra tuyết, mã bưu chính làm đại diện cho chủng tộc`"]
+  n49 --- n52
+  n53["`Thiếu minh bạch: COMPAS chấm điểm rủi ro tái phạm dùng trong tuyên án nhưng không công khai trọng số`"]
+  n49 --- n53
+  n54["`Có thể dịch ngược thuật toán kín bằng cách khai sai có hệ thống, như thử báo giá bảo hiểm trực tuyến`"]
+  n49 --- n54
+  n55["`Predict 2.1 cho ung thư vú là mẫu tích cực: xây trên 5.700 ca, kiểm định trên 27.000 ca, mã nguồn mở`"]
+  n49 --- n55
+  n56["`Phụ nữ 65 tuổi sống 10 năm: phẫu thuật 64%, thêm hormone 70%, hoá trị 76%, trastuzumab 79%#59; không ung thư 87%`"]
+  n55 --- n56
+  n57["`Hiệu quả điều trị ép bằng số từ thử nghiệm lâm sàng, vì dữ liệu quan sát bị nhiễu bởi lý do chọn điều trị`"]
+  n55 --- n57
+  n58["`Judea Pearl: thuật toán chỉ học liên hệ, AI tổng quát cần mô hình nhân quả để trả lời câu hỏi can thiệp và phản thực tế`"]
+  n49 --- n58
+  n59["`Dữ liệu lớn giảm lo về cỡ mẫu nhưng làm chệch và khó tổng quát hoá nặng thêm, nên cần khiêm tốn`"]
+  n49 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Thuật toán khoe chính xác 90%, hỏi đo trên tập nào và so với mốc ngây thơ nào`"]
+  n60 --- n61
+  n62["`Với dự báo xác suất, đòi cả khả năng phân biệt lẫn hiệu chuẩn`"]
+  n60 --- n62
+  n63["`Khớp càng sát dữ liệu cũ chưa chắc dự báo càng tốt`"]
+  n60 --- n63
+  n64["`Với thuật toán ảnh hưởng đời sống, cần giải thích được, kiểm soát được, khiếu nại được, nên ưu tiên sự đơn giản`"]
+  n60 --- n64
   class n0 root
-  class n1,n8,n16,n26,n37,n47 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
+  class n1,n9,n19,n34,n49,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64 leaf
 ```
 
 ## Nguồn
