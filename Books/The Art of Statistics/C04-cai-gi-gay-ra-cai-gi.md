@@ -800,99 +800,131 @@ flowchart LR
   n1 --- n2
   n3["`Hơn 4 triệu người Thụy Điển theo dõi 18 năm: địa vị kinh tế xã hội cao đi kèm tỷ lệ chẩn đoán u não hơi cao`"]
   n1 --- n3
-  n4["`Tít báo thành “học đại học làm tăng nguy cơ u não”, tác giả nghiên cứu lại nghĩ tới thiên lệch phát hiện`"]
+  n4["`Bài báo nói địa vị kinh tế xã hội, thông cáo nói học vấn, tít báo thành “học đại học làm tăng nguy cơ u não”`"]
   n1 --- n4
-  n5["`Câu thần chú tương quan không phải nhân quả có từ năm 1900`"]
+  n5["`Chính tác giả nghiên cứu nghĩ tới thiên lệch phát hiện: người giàu, học cao dễ được chẩn đoán và ghi nhận hơn`"]
   n1 --- n5
-  n6["`Mozzarella và số tiến sĩ xây dựng dân dụng ở Mỹ tương quan 0,96, con người có nhu cầu dựng câu chuyện nhân quả`"]
+  n6["`Bệnh viện tim trẻ em lớn hơn liên quan tới tử vong thấp hơn, nhưng không thể kết luận nó gây ra tử vong thấp`"]
   n1 --- n6
-  n7["`Mục “What Is Causation Anyway?” (trang PDF 81–85) — nhân quả theo can thiệp và chín nguyên tắc thử nghiệm`"]
-  n0 --- n7
-  n8["`X gây ra Y nghĩa là can thiệp để X xảy ra thì Y có xu hướng xảy ra thường hơn`"]
-  n7 --- n8
-  n9["`Hút thuốc gây ung thư phổi dù phần lớn người hút không mắc`"]
-  n7 --- n9
-  n10["`Không bao giờ nói được X đã gây ra Y cho một người cụ thể, vì phản thực tế không quan sát được`"]
-  n7 --- n10
-  n11["`Tác giả uống statin mỗi ngày nhưng không bao giờ biết nó có giúp chính ông, chỉ biết nguy cơ 10 năm khoảng 13% xuống khoảng 7%`"]
+  n7["`Câu thần chú tương quan không phải nhân quả có từ năm 1900, khi tương quan Pearson được bàn trên Nature`"]
+  n1 --- n7
+  n8["`Mozzarella và số tiến sĩ xây dựng dân dụng ở Mỹ 2000–2009 tương quan 0,96`"]
+  n1 --- n8
+  n9["`Apophenia: xu hướng dựng lý do nhân quả cho liên hệ giữa những sự kiện không liên quan`"]
+  n1 --- n9
+  n10["`Mục “What Is Causation Anyway?” (trang PDF 81–85) — nhân quả theo can thiệp và chín nguyên tắc thử nghiệm`"]
+  n0 --- n10
+  n11["`Phản thực tế (không kẹp tay vào cửa thì tay không đau) luôn là giả định, vì phải viết lại lịch sử`"]
   n10 --- n11
-  n12["`Chín nguyên tắc: đối chứng, ngẫu nhiên hóa, ý định điều trị, làm mù, đối xử như nhau, đo mọi người, nhiều nghiên cứu, tổng quan hệ thống`"]
-  n7 --- n12
-  n13["`Nghiên cứu Bảo vệ Tim, 20.536 người: statin giảm đau tim 5 năm từ 11,8% xuống 8,7%`"]
-  n7 --- n13
-  n14["`Khoảng 30 người dùng statin 5 năm để ngăn một ca đau tim`"]
-  n13 --- n14
-  n15["`Ý định điều trị: 18% nhóm statin bỏ thuốc, 32% nhóm giả dược tự dùng statin, vẫn tính theo nhóm được phân bổ, theo dõi 99,6%`"]
-  n13 --- n15
-  n16["`Phân tích gộp 27 thử nghiệm, hơn 170.000 người: giảm 21% biến cố mạch máu lớn mỗi 1 mmol/L LDL`"]
-  n13 --- n16
-  n17["`Thử nghiệm streptomycin chữa lao năm 1948 là thử nghiệm lâm sàng đúng nghĩa đầu tiên`"]
-  n7 --- n17
-  n18["`Phân khối của Fisher trên cánh đồng, tác giả chia bệnh nhân mổ thoát vị thành khối 4 và 6 người`"]
-  n7 --- n18
-  n19["`Tin nhắn cho người hỗ trợ học sinh thi lại GCSE tăng tỷ lệ đỗ 27%`"]
-  n7 --- n19
-  n20["`STEP hơn 1.800 bệnh nhân bắc cầu mạch vành: cầu nguyện thay không có tác dụng, nhóm biết được cầu nguyện biến chứng nhiều hơn chút`"]
-  n7 --- n20
-  n21["`Kiểm định A/B trong thiết kế web là thí nghiệm ngẫu nhiên trên người dùng không hề biết`"]
-  n7 --- n21
-  n22["`Mục “What Do We Do When We Can't Randomize?” (trang PDF 85–86) — các thiết kế nghiên cứu quan sát`"]
-  n0 --- n22
-  n23["`Vì sao đàn ông già có tai to: nghiên cứu cắt ngang ở Anh và Nhật thấy tương quan dương giữa tuổi và chiều dài tai`"]
-  n22 --- n23
-  n24["`Ba giải thích: tai dài thêm theo tuổi, hiệu ứng thế hệ, hay đàn ông tai nhỏ chết sớm hơn`"]
-  n22 --- n24
-  n25["`Đoàn hệ tiến cứu theo dõi người về sau, đoàn hệ hồi cứu dùng hồ sơ quá khứ`"]
-  n22 --- n25
-  n26["`Nghiên cứu bệnh–chứng so người có bệnh với người không có bệnh`"]
-  n22 --- n26
-  n27["`Mục “What Can We Do When We Observe an Association?” (trang PDF 86–88) — các lời giải thích khác ngoài nhân quả`"]
-  n0 --- n27
-  n28["`Biến gây nhiễu là nguyên nhân chung quan sát được của X và Y, như thời tiết với kem và chết đuối, điều chỉnh bằng phân tầng`"]
-  n27 --- n28
-  n29["`Nữ nộp nhiều vào ngành cạnh tranh như y, thú y nên tỷ lệ đỗ chung thấp hơn`"]
-  n27 --- n29
-  n30["`Nghịch lý Simpson, tuyển sinh Cambridge 1996: tổng thể nam đỗ 24%, nữ 23%, nhưng nữ đỗ cao hơn ở bốn trong năm ngành`"]
-  n27 --- n30
-  n31["`Nhân quả ngược: Waitrose mở ở nơi giàu chứ không làm giá nhà tăng 36.000 bảng`"]
-  n27 --- n31
-  n32["`Người không uống rượu chết nhiều hơn có thể vì người ốm đã bỏ rượu`"]
-  n27 --- n32
-  n33["`Yếu tố ẩn không đo được thì không điều chỉnh được, như nhóm bạn bè với nước ngọt và bạo lực ở thiếu niên`"]
-  n27 --- n33
-  n34["`Trùng hợp thời gian: tự kỷ chẩn đoán sau tiêm chủng vì xảy ra cùng độ tuổi`"]
-  n27 --- n34
-  n35["`Thiên lệch chọn: giáo hoàng sống lâu vì được chọn từ người chưa chết trẻ`"]
-  n27 --- n35
-  n36["`Hiệu ứng thế hệ: ít người thuận tay trái trong số người chết vì thế hệ trước bị ép đổi tay`"]
-  n27 --- n36
-  n37["`Mục “Can We Ever Conclude Causation from Observational Data?” (trang PDF 88–90) — phán đoán có hệ thống`"]
-  n0 --- n37
-  n38["`Bradford Hill thiết kế thử nghiệm streptomycin và cùng Richard Doll chứng minh hút thuốc gây ung thư phổi`"]
-  n37 --- n38
-  n39["`Tiêu chí Bradford Hill: độ lớn hiệu ứng, thời gian, đáp ứng liều, cơ chế, phù hợp, lặp lại`"]
-  n37 --- n39
-  n40["`Aspirin gây loét miệng đạt năm trên bảy tiêu chí`"]
-  n37 --- n40
-  n41["`Tòa án dùng ngưỡng nguy cơ tương đối lớn hơn 2: amiăng 10 thành 25 ca trên 1.000, tức 60% số ca do amiăng`"]
-  n37 --- n41
-  n42["`Tỷ lệ số ca do phơi nhiễm là (RR − 1) / RR, vượt 50% khi RR #gt; 2, mở ra dịch tễ học pháp y`"]
-  n41 --- n42
-  n43["`Ngẫu nhiên hóa Mendel dùng gen làm giảm dung nạp rượu như một phân bổ ngẫu nhiên tự nhiên`"]
-  n37 --- n43
-  n44["`Thông điệp xuyên suốt`"]
-  n0 --- n44
-  n45["`Thấy X liên quan tới Y, hỏi trước tiên dữ liệu đến từ thí nghiệm hay quan sát`"]
-  n44 --- n45
-  n46["`Đọc cả giảm nguy cơ tuyệt đối và số người cần điều trị, không chỉ giảm tương đối`"]
-  n44 --- n46
-  n47["`Tác dụng trung bình trên nhóm không cho biết điều trị có giúp bạn hay không`"]
-  n44 --- n47
-  n48["`Không phương pháp nào thay được phán đoán về mức tin cậy khi khẳng định nhân quả`"]
-  n44 --- n48
+  n12["`X gây ra Y nghĩa là can thiệp để X xảy ra thì Y có xu hướng xảy ra thường hơn`"]
+  n10 --- n12
+  n13["`Hút thuốc gây ung thư phổi dù phần lớn người hút không mắc và một số người không hút lại mắc`"]
+  n12 --- n13
+  n14["`Không bao giờ nói được X đã gây ra Y cho một người cụ thể, chỉ nói X làm tăng tỷ lệ Y`"]
+  n12 --- n14
+  n15["`Hai hệ quả: muốn suy ra nhân quả phải can thiệp, và phải can thiệp nhiều lần vì thế giới ngẫu nhiên`"]
+  n10 --- n15
+  n16["`Statin làm LDL của tác giả giảm gần như tất định, nhưng tránh đau tim thì chỉ biết lợi ích trung bình cho nhóm`"]
+  n10 --- n16
+  n17["`Chú thích tác giả: LDL giảm 2 mmol/L, nguy cơ nhân 0,75 × 0,75 = 0,56, nguy cơ 10 năm từ 13% xuống khoảng 7%`"]
+  n16 --- n17
+  n18["`Chín nguyên tắc phép thử công bằng: có nhóm đối chứng dùng giả dược và phân bổ ngẫu nhiên`"]
+  n10 --- n18
+  n19["`Ngẫu nhiên hóa đủ nhiều người làm hai nhóm giống nhau cả ở những yếu tố ta không biết`"]
+  n18 --- n19
+  n20["`Ý định điều trị: tính theo nhóm được phân bổ, nên đo tác dụng của việc được kê thuốc`"]
+  n18 --- n20
+  n21["`Làm mù người tham gia, nhân viên theo dõi và người đánh giá kết cục, đối xử với hai nhóm như nhau`"]
+  n18 --- n21
+  n22["`Theo dõi đủ mọi người, không dựa vào một nghiên cứu, tổng quan hệ thống rồi phân tích gộp`"]
+  n18 --- n22
+  n23["`Nghiên cứu Bảo vệ Tim: 20.536 người nguy cơ cao, ngẫu nhiên dùng simvastatin 40 mg/ngày hoặc giả dược`"]
+  n10 --- n23
+  n24["`Sau 5 năm: đau tim 11,8% xuống 8,7% (giảm 27%), đột quỵ 5,7% xuống 4,3%, tử vong 14,7% xuống 12,9%`"]
+  n23 --- n24
+  n25["`Giảm tuyệt đối 3,1 điểm phần trăm: khoảng 30 người dùng statin 5 năm để ngăn một ca đau tim`"]
+  n23 --- n25
+  n26["`18% nhóm statin bỏ thuốc, 32% nhóm giả dược tự dùng statin, nên hiệu quả thực sự uống cao hơn khoảng 50%`"]
+  n23 --- n26
+  n27["`Phân tích gộp 27 thử nghiệm, hơn 170.000 người: giảm 21% biến cố mạch máu lớn mỗi 1 mmol/L LDL`"]
+  n23 --- n27
+  n28["`Thử nghiệm streptomycin chữa lao năm 1948: thiếu thuốc nên phân bổ ngẫu nhiên là cách công bằng`"]
+  n10 --- n28
+  n29["`Phân khối theo Fisher: ngẫu nhiên hóa trong khối đồng nhất, như khối 4 và 6 bệnh nhân mổ thoát vị`"]
+  n10 --- n29
+  n30["`RCT trong chính sách: tin nhắn cho người hỗ trợ học sinh thi lại GCSE tăng tỷ lệ đỗ 27%`"]
+  n10 --- n30
+  n31["`STEP hơn 1.800 bệnh nhân bắc cầu mạch vành: cầu nguyện không có tác dụng, nhóm biết được cầu nguyện biến chứng nhiều hơn chút`"]
+  n10 --- n31
+  n32["`Kiểm định A/B trên web: mẫu khổng lồ phát hiện cả hiệu ứng nhỏ, nhưng phải coi chừng so sánh bội`"]
+  n10 --- n32
+  n33["`Mục “What Do We Do When We Can't Randomize?” (trang PDF 85–86) — các thiết kế nghiên cứu quan sát`"]
+  n0 --- n33
+  n34["`Không thể bắt người ta hút thuốc, nên phải dùng dữ liệu quan sát, tức dữ liệu không đến từ thí nghiệm`"]
+  n33 --- n34
+  n35["`Vì sao đàn ông già có tai to: nghiên cứu cắt ngang ở Anh và Nhật thấy tương quan dương giữa tuổi và chiều dài tai`"]
+  n33 --- n35
+  n36["`Ba giải thích: tai dài thêm theo tuổi, thế hệ già vốn tai to hơn, hay đàn ông tai nhỏ chết sớm hơn`"]
+  n35 --- n36
+  n37["`Đoàn hệ tiến cứu theo dõi thanh niên suốt đời để đo tai, trả lời trực tiếp nhưng rất lâu`"]
+  n33 --- n37
+  n38["`Đoàn hệ hồi cứu lấy người già hiện nay và dựng lại quá khứ, như xem ảnh cũ`"]
+  n33 --- n38
+  n39["`Bệnh–chứng so người đã chết với người còn sống tương đồng về tuổi, xem người sống có tai to hơn không`"]
+  n33 --- n39
+  n40["`Mục “What Can We Do When We Observe an Association?” (trang PDF 86–88) — các lời giải thích khác ngoài nhân quả`"]
+  n0 --- n40
+  n41["`Biến gây nhiễu là nguyên nhân chung quan sát được của X và Y, như thời tiết với kem và chết đuối`"]
+  n40 --- n41
+  n42["`Điều chỉnh hay phân tầng: xét liên hệ trong từng mức của biến gây nhiễu, như những ngày cùng nhiệt độ`"]
+  n40 --- n42
+  n43["`Nghịch lý Simpson, tuyển sinh Cambridge 1996: tổng thể nam đỗ 24%, nữ 23%, nhưng nữ đỗ cao hơn ở bốn trong năm ngành`"]
+  n40 --- n43
+  n44["`Nữ nộp nhiều vào Y, Thú y khó đỗ, ít vào Kỹ thuật dễ đỗ, nên không có bằng chứng phân biệt đối xử`"]
+  n43 --- n44
+  n45["`Nhân quả ngược: Waitrose mở ở nơi giàu chứ không làm giá nhà tăng 36.000 bảng`"]
+  n40 --- n45
+  n46["`Người không uống rượu chết nhiều hơn một phần vì người ốm đã bỏ rượu, lợi ích còn lại vẫn tranh cãi`"]
+  n40 --- n46
+  n47["`Yếu tố ẩn không đo được thì không điều chỉnh được, như nhóm bạn bè với nước ngọt và bạo lực ở thiếu niên`"]
+  n40 --- n47
+  n48["`Trùng hợp thời gian: tự kỷ chẩn đoán sau tiêm chủng vì hai việc xảy ra cùng độ tuổi`"]
+  n40 --- n48
+  n49["`Hiệu ứng thế hệ: ít người thuận tay trái trong số người chết vì thế hệ trước bị ép đổi tay`"]
+  n40 --- n49
+  n50["`Thiên lệch chọn: giáo hoàng sống lâu vì được chọn từ người chưa chết trẻ`"]
+  n40 --- n50
+  n51["`Mục “Can We Ever Conclude Causation from Observational Data?” (trang PDF 88–90) — phán đoán có hệ thống`"]
+  n0 --- n51
+  n52["`Bradford Hill thiết kế thử nghiệm streptomycin, cùng Richard Doll xác lập hút thuốc gây ung thư phổi, đưa tiêu chí năm 1965`"]
+  n51 --- n52
+  n53["`Bản của Howick, bằng chứng trực tiếp: hiệu ứng lớn không giải thích bằng gây nhiễu, gần về thời gian/không gian, đáp ứng liều`"]
+  n52 --- n53
+  n54["`Bằng chứng cơ chế: cơ chế tác động hợp lý; bằng chứng song song: phù hợp điều đã biết, lặp lại, nghiên cứu tương tự`"]
+  n52 --- n54
+  n55["`Aspirin xoa trong miệng gây loét đạt năm trên bảy tiêu chí, hai tiêu chí còn lại chưa kiểm tra`"]
+  n51 --- n55
+  n56["`Tòa án dùng ngưỡng nguy cơ tương đối lớn hơn 2: amiăng 10 thành 25 ca trên 1.000, tức 60% số ca do amiăng`"]
+  n51 --- n56
+  n57["`Tỷ lệ số ca do phơi nhiễm là (RR − 1) / RR, vượt 50% khi RR #gt; 2, mở ra dịch tễ học pháp y`"]
+  n56 --- n57
+  n58["`Ngẫu nhiên hóa Mendel dùng gen làm giảm dung nạp rượu như một phân bổ ngẫu nhiên tự nhiên, kết luận còn tranh cãi`"]
+  n51 --- n58
+  n59["`Các phương pháp điều chỉnh gây nhiễu nâng cao dựa trên hồi quy của Galton, chủ đề Chương 5`"]
+  n51 --- n59
+  n60["`Mục “Summary” (trang PDF 91) và thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Thấy X liên quan tới Y, hỏi trước tiên dữ liệu đến từ thí nghiệm hay quan sát`"]
+  n60 --- n61
+  n62["`Đọc cả giảm nguy cơ tuyệt đối và số người cần điều trị, không chỉ giảm tương đối`"]
+  n60 --- n62
+  n63["`Làm mù và ý định điều trị giúp thử nghiệm lớn phát hiện hiệu ứng vừa phải nhưng quan trọng`"]
+  n60 --- n63
+  n64["`Không phương pháp nào thay được phán đoán về mức tin cậy khi khẳng định nhân quả`"]
+  n60 --- n64
   class n0 root
-  class n1,n7,n22,n27,n37,n44 branch
-  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48 leaf
+  class n1,n10,n33,n40,n51,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64 leaf
 ```
 
 ## Nguồn

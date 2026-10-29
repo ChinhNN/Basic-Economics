@@ -684,7 +684,7 @@ Câu Alice–Betty (con gái Alice được dự báo cao hơn 0,33 inch, nhưng
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn đi theo trình tự các mục của bản gốc (Galton ở phần mở đầu và “Regression Lines Are Models”, hộp camera bắn tốc độ, “Dealing With More Than One Explanatory Variable”, “Different Types of Response Variables”, “Beyond Basic Regression Modelling”), mỗi nhánh ghi kỹ thuật, ý nghĩa hệ số, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 5 trên một trang: bảy nhánh lớn đi theo trình tự các mục của bản gốc (Galton ở phần mở đầu, “Regression Lines Are Models”, hộp camera bắn tốc độ, “Dealing With More Than One Explanatory Variable”, “Different Types of Response Variables”, “Beyond Basic Regression Modelling”), mỗi nhánh ghi kỹ thuật, ý nghĩa hệ số, ví dụ và con số then chốt; nhánh cuối là phần “Summary” và thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -693,91 +693,127 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 5: hồi quy là mô hình đơn giản hóa, hệ số mô tả liên hệ quan sát chứ chưa phải tác động, và giá trị cực đoan có xu hướng quay về trung bình`"]
-  n1["`Phần mở đầu và mục “Regression Lines Are Models” (trang PDF 92–96) — Galton và gốc của chữ hồi quy`"]
+  n1["`Phần mở đầu chương (trang PDF 92–96) — Galton, chiều cao cha mẹ và con, gốc của chữ hồi quy`"]
   n0 --- n1
-  n2["`Galton, anh họ Darwin, hỏi: dùng chiều cao cha mẹ dự báo chiều cao con thế nào`"]
+  n2["`Galton, cùng người anh họ Darwin say mê di truyền, hỏi: dùng chiều cao cha mẹ dự báo chiều cao con thế nào`"]
   n1 --- n2
-  n3["`Galton 1886: 197 cặp cha mẹ, 465 con trai, 433 con gái`"]
+  n3["`Galton 1886: 197 cặp cha mẹ, 465 con trai, 433 con gái, trung bình mẹ 64,0, cha 69,3, con gái 64,1, con trai 69,2 inch`"]
   n1 --- n3
-  n4["`Đường bình phương nhỏ nhất: chiều cao con trai = 69,2 + 0,45 × (chiều cao cha − 69,3) inch`"]
+  n4["`Tương quan Pearson cha–con trai 0,39, mẹ–con gái 0,31`"]
   n1 --- n4
-  n5["`Độ dốc 0,45 chứ không phải 1: cha cao có con trai hơi thấp hơn mình, cha thấp có con trai hơi cao hơn`"]
+  n5["`Phần dư là khoảng cách dọc từ điểm tới đường, đường bình phương nhỏ nhất (Legendre, Gauss) làm tổng bình phương phần dư nhỏ nhất`"]
   n1 --- n5
-  n6["`Galton gọi là hồi quy về mức tầm thường, nay gọi là hồi quy về giá trị trung bình`"]
-  n1 --- n6
-  n7["`Cha cao hơn trung bình 6 inch có con trai dự báo chỉ cao hơn trung bình 2,7 inch`"]
-  n6 --- n7
-  n8["`Đường bình phương nhỏ nhất: ŷ − ȳ = b × (x − x̄) với b = r × s#95;y / s#95;x, tương quan cha–con trai 0,39`"]
+  n6["`Công thức: ŷ − ȳ = b × (x − x̄) với độ dốc b = r × s#95;y / s#95;x`"]
+  n5 --- n6
+  n7["`Con trai dự báo = 69,2 + 0,45 × (cha − 69,3), con gái dự báo = 64,1 + 0,33 × (mẹ − 64,0)`"]
+  n1 --- n7
+  n8["`Độ dốc 0,45 chứ không phải 1: cha cao có con trai hơi thấp hơn mình, cha thấp có con trai hơi cao hơn`"]
   n1 --- n8
-  n9["`Phần dư là khoảng cách dọc từ điểm tới đường, đường tốt nhất làm tổng bình phương phần dư nhỏ nhất`"]
-  n1 --- n9
-  n10["`Hệ số hồi quy cho biết thay đổi khi quan sát biến giải thích khác đi, không cho biết khi can thiệp`"]
+  n9["`Cha cao hơn trung bình 6 inch có con trai dự báo chỉ cao hơn trung bình 2,7 inch`"]
+  n8 --- n9
+  n10["`Galton gọi là hồi quy về mức tầm thường, nay là hồi quy về giá trị trung bình, từ đó mọi phép khớp đường đều gọi là hồi quy`"]
   n1 --- n10
-  n11["`Alice cao hơn Betty 1 inch thì con gái Alice dự báo cao hơn 0,33 inch, nhưng không ai làm mẹ cao thêm được`"]
-  n10 --- n11
-  n12["`Mô hình: quan sát = mô hình tất định + sai số phần dư, tức tín hiệu cộng nhiễu`"]
+  n11["`Biến phụ thuộc (phản hồi) đặt trục tung, biến độc lập (giải thích) đặt trục hoành, độ dốc là hệ số hồi quy`"]
+  n1 --- n11
+  n12["`Với dữ liệu quan sát, hệ số cho biết y khác bao nhiêu khi thấy x khác 1 đơn vị, không cho biết khi can thiệp`"]
   n1 --- n12
-  n13["`Hộp “Do speed cameras reduce accidents?” (trang PDF 96–97) — hồi quy về giá trị trung bình tạo ra tác động ảo`"]
-  n0 --- n13
-  n14["`Một phần mọi giá trị cực đoan là may rủi, mà may rủi không lặp lại đúng như cũ`"]
-  n13 --- n14
-  n15["`Camera đặt ở nơi vừa có nhiều tai nạn: khoảng hai phần ba lợi ích bề ngoài là hồi quy về trung bình`"]
-  n13 --- n15
-  n16["`HLV bị sa thải sau chuỗi thua, quỹ đầu tư được giới thiệu rồi sa sút, lời nguyền bìa Sports Illustrated`"]
-  n13 --- n16
-  n17["`PISA 2003–2012: tương quan thay đổi thứ hạng với thứ hạng ban đầu −0,60, gần mức −0,71 nếu chỉ do may rủi`"]
-  n13 --- n17
-  n18["`Một phần hiệu ứng giả dược là bệnh nhân tự quay về mức thường`"]
-  n13 --- n18
-  n19["`Thay đổi so với giá trị ban đầu tương quan −1/√2 = −0,71 ngay cả khi quá trình không đổi gì`"]
-  n13 --- n19
-  n20["`Cách chữa: phân bổ camera ngẫu nhiên như đánh giá thuốc, so với nhóm đối chứng`"]
-  n13 --- n20
-  n21["`Mục “Dealing With More Than One Explanatory Variable” (trang PDF 97–99) — hồi quy tuyến tính bội và hiệu chỉnh`"]
-  n0 --- n21
-  n22["`Hồi quy mở rộng cho nhiều biến giải thích, biến phân loại, quan hệ cong, biến phản hồi không liên tục`"]
-  n21 --- n22
-  n23["`Con trai = 69,2 + 0,33 × mẹ + 0,41 × cha, con gái = 64,1 + 0,30 × mẹ + 0,40 × cha`"]
-  n21 --- n23
-  n24["`Hiệu chỉnh: hệ số cha–con trai giảm từ 0,45 xuống 0,41, mẹ–con gái từ 0,33 xuống 0,30`"]
-  n21 --- n24
-  n25["`U não Thụy Điển: đã hiệu chỉnh tuổi, vùng, thu nhập nhưng vẫn nghi thiên lệch chẩn đoán, hiệu chỉnh không bao giờ hoàn hảo`"]
-  n21 --- n25
-  n26["`Mục “Different Types of Response Variables” (trang PDF 99–101) — mỗi loại biến phản hồi một dạng hồi quy`"]
-  n0 --- n26
-  n27["`Tỷ lệ dùng hồi quy logistic, hệ số là log tỷ số odds, đường cong không vượt 100%`"]
+  n13["`Alice cao hơn Betty 1 inch thì con gái Alice dự báo cao hơn 0,33 inch, nhưng không thể can thiệp vào chiều cao`"]
+  n12 --- n13
+  n14["`Nhà thống kê ngại nói nhân quả khi chưa có thí nghiệm, Judea Pearl đang xây nguyên tắc cho hồi quy nhân quả`"]
+  n12 --- n14
+  n15["`Mục “Regression Lines Are Models” (trang PDF 96) — quan sát bằng tín hiệu cộng nhiễu`"]
+  n0 --- n15
+  n16["`Cục Dự trữ Liên bang Mỹ: mô hình là biểu diễn một khía cạnh của thế giới dựa trên giả định đơn giản hóa`"]
+  n15 --- n16
+  n17["`Mô hình thống kê có hai phần: công thức tất định dự báo được và sai số phần dư`"]
+  n15 --- n17
+  n18["`Sai số không phải lỗi, mà là việc mô hình tất yếu không khớp hoàn toàn với điều quan sát được`"]
+  n15 --- n18
+  n19["`Quan sát = mô hình tất định + sai số phần dư, tức ý tưởng kinh điển tín hiệu và nhiễu`"]
+  n15 --- n19
+  n20["`Hộp “Do speed cameras reduce accidents?” (trang PDF 96–97) — hồi quy về giá trị trung bình tạo ra tác động ảo`"]
+  n0 --- n20
+  n21["`Ta hành động rồi có gì đó thay đổi chưa chắc ta là nguyên nhân: uống aspirin rồi hết đau đầu, có thể đằng nào cũng hết`"]
+  n20 --- n21
+  n22["`Camera đặt ở nơi vừa có nhiều tai nạn, nên so sánh trước–sau gán nhầm sự giảm tai nạn cho camera`"]
+  n20 --- n22
+  n23["`Một phần mọi giá trị cực đoan là may rủi, chuỗi may hay xui không kéo dài mãi`"]
+  n20 --- n23
+  n24["`HLV bị sa thải sau chuỗi thua, quỹ đầu tư được giới thiệu rồi sa sút, lời nguyền bìa Sports Illustrated`"]
+  n20 --- n24
+  n25["`Bảng xếp hạng giải đấu: đội tốt năm nay thường tụt năm sau, nhất là khi các đội ngang tài`"]
+  n20 --- n25
+  n26["`PISA 2003–2012: tương quan thay đổi thứ hạng với thứ hạng ban đầu −0,60, gần mức −0,71 nếu chỉ do may rủi`"]
+  n20 --- n26
+  n27["`Hai lần đo độc lập cùng phân phối: hiệu Y − X tương quan −1/√2 ≈ −0,71 với X, bất kể phân phối`"]
   n26 --- n27
-  n28["`Số đếm dùng hồi quy Poisson, hệ số là log tỷ số tỷ suất`"]
-  n26 --- n28
-  n29["`Thời gian sống còn dùng hồi quy Cox, hệ số là log tỷ số nguy cơ`"]
-  n26 --- n29
-  n30["`Mổ tim trẻ dưới 1 tuổi 1991–1995, bỏ Bristol: hệ số 0,001, mỗi 100 ca thêm thì tử vong thấp hơn khoảng 10%`"]
-  n26 --- n30
-  n31["`Log odds giảm 0,1 nên odds nhân e^(−0,1) = 0,905, Bristol khoảng 71% so với khoảng 87% đường khớp dự báo`"]
+  n28["`Phần lớn hiệu ứng giả dược có thể là hồi quy về trung bình, vì bệnh nhân vào thử nghiệm lúc đang có triệu chứng`"]
+  n20 --- n28
+  n29["`Cách chữa là phân bổ camera ngẫu nhiên như đánh giá thuốc: khoảng hai phần ba lợi ích bề ngoài là hồi quy về trung bình`"]
+  n20 --- n29
+  n30["`Mục “Dealing With More Than One Explanatory Variable” (trang PDF 97–99) — hồi quy tuyến tính bội và hiệu chỉnh`"]
+  n0 --- n30
+  n31["`Hồi quy mở rộng cho nhiều biến giải thích, biến phân loại, quan hệ cong, biến phản hồi không liên tục`"]
   n30 --- n31
-  n32["`Mục “Beyond Basic Regression Modelling” (trang PDF 101–102) — mô hình là bản đồ, không phải vùng đất`"]
-  n0 --- n32
-  n33["`Bốn chiến lược: công thức đơn giản, mô hình tất định khoa học, thuật toán từ dữ liệu lớn, hồi quy nhân quả của kinh tế học`"]
+  n32["`Hồi quy tuyến tính bội vẫn khớp bằng bình phương nhỏ nhất, tuyến tính nghĩa là tổng có trọng số các biến giải thích`"]
+  n30 --- n32
+  n33["`Con trai dự báo = 69,2 + 0,33 × (mẹ − 64,0) + 0,41 × (cha − 69,3)`"]
   n32 --- n33
-  n34["`Mô hình là bản đồ, không phải vùng đất: bản đồ đơn giản đủ đi giữa các thành phố, đi bộ cần bản đồ chi tiết`"]
+  n34["`Con gái dự báo = 64,1 + 0,30 × (mẹ − 64,0) + 0,40 × (cha − 69,3)`"]
   n32 --- n34
-  n35["`George Box: mọi mô hình đều sai, nhưng một số có ích`"]
-  n32 --- n35
-  n36["`Khủng hoảng 2007–2008: mô hình thành lời sấm, đánh giá thấp tương quan vỡ nợ thế chấp nên rủi ro bị đánh giá thấp nghiêm trọng`"]
-  n32 --- n36
-  n37["`Thông điệp xuyên suốt`"]
-  n0 --- n37
-  n38["`Đọc X tăng 1 thì Y tăng b, hỏi đây là liên hệ quan sát hay tác động của can thiệp`"]
-  n37 --- n38
-  n39["`Chính sách áp dụng đúng lúc tình hình xấu nhất, hãy nghi hồi quy về trung bình trước khi khen`"]
-  n37 --- n39
-  n40["`Nghiên cứu nói đã hiệu chỉnh yếu tố gây nhiễu, hỏi còn yếu tố nào chưa đo`"]
-  n37 --- n40
-  n41["`Mô hình nguy hiểm khi người dùng quên các giả định đơn giản hóa của nó`"]
-  n37 --- n41
+  n35["`Hiệu chỉnh: hệ số cha–con trai giảm từ 0,45 xuống 0,41, mẹ–con gái từ 0,33 xuống 0,30`"]
+  n30 --- n35
+  n36["`Lý do có thể: phụ nữ cao thường lấy đàn ông cao, nên chiều cao cha và mẹ không độc lập`"]
+  n35 --- n36
+  n37["`1 inch chênh ở chiều cao cha gắn với chênh lệch ở con lớn hơn 1 inch chênh ở mẹ`"]
+  n35 --- n37
+  n38["`U não Thụy Điển: đã hiệu chỉnh tuổi, năm, vùng, hôn nhân, thu nhập nhưng vẫn nghi người học cao được chẩn đoán nhiều hơn`"]
+  n30 --- n38
+  n39["`Thử nghiệm ngẫu nhiên lẽ ra không cần hiệu chỉnh, nhưng người ta vẫn chạy hồi quy phòng khi có mất cân bằng`"]
+  n30 --- n39
+  n40["`Mục “Different Types of Response Variables” (trang PDF 99–101) — mỗi loại biến phản hồi một dạng hồi quy`"]
+  n0 --- n40
+  n41["`Biến liên tục dùng hồi quy tuyến tính bội, hệ số là độ dốc`"]
+  n40 --- n41
+  n42["`Sự kiện hay tỷ lệ dùng hồi quy logistic, hệ số là log tỷ số odds, đường cong nằm giữa 0% và 100%`"]
+  n40 --- n42
+  n43["`Số đếm dùng hồi quy Poisson, hệ số là log tỷ số tỷ suất`"]
+  n40 --- n43
+  n44["`Thời gian sống còn dùng hồi quy Cox, hệ số là log tỷ số nguy cơ`"]
+  n40 --- n44
+  n45["`Mổ tim trẻ dưới 1 tuổi ở Anh 1991–1995: đường thẳng ngoại suy sẽ cho tỷ lệ sống vượt 100%, nên dùng logistic`"]
+  n40 --- n45
+  n46["`Khớp không dùng Bristol (khoảng 71% sống): hệ số 0,001, mỗi 100 ca thêm thì tử vong thấp hơn tương đối khoảng 10%`"]
+  n45 --- n46
+  n47["`Log odds tử vong giảm 0,1 mỗi 100 ca, tức odds nhân khoảng 0,905`"]
+  n45 --- n47
+  n48["`Tương quan không phải nhân quả: có thể nhân quả ngược, bệnh viện có tiếng tốt thu hút nhiều bệnh nhân hơn`"]
+  n45 --- n48
+  n49["`Mục “Beyond Basic Regression Modelling” (trang PDF 101–102) — mô hình là bản đồ, không phải vùng đất`"]
+  n0 --- n49
+  n50["`Chiến lược của nhà thống kê là công thức đơn giản, của nhà toán ứng dụng là mô hình tất định như dự báo thời tiết`"]
+  n49 --- n50
+  n51["`Học máy dùng thuật toán hộp đen học từ rất nhiều ví dụ, nhà kinh tế dùng hồi quy để kết luận nhân quả`"]
+  n49 --- n51
+  n52["`Bản đồ đơn giản đủ lái xe giữa các thành phố, đi bộ đồng quê cần bản đồ chi tiết hơn`"]
+  n49 --- n52
+  n53["`George Box: mọi mô hình đều sai, nhưng một số có ích`"]
+  n49 --- n53
+  n54["`Khủng hoảng 2007–2008: mô hình thành lời sấm, giả định tương quan vỡ nợ thế chấp vừa phải nên đánh giá thấp rủi ro nghiêm trọng`"]
+  n49 --- n54
+  n55["`Mục “Summary” (trang PDF 103) và thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Đọc X tăng 1 thì Y tăng b, hỏi đây là liên hệ quan sát hay tác động của can thiệp`"]
+  n55 --- n56
+  n57["`Chính sách áp dụng đúng lúc tình hình xấu nhất, hãy nghi hồi quy về trung bình trước khi khen`"]
+  n55 --- n57
+  n58["`Nghiên cứu nói đã hiệu chỉnh yếu tố gây nhiễu, hỏi còn yếu tố nào chưa đo`"]
+  n55 --- n58
+  n59["`Mô hình nguy hiểm khi người dùng quên các giả định đơn giản hóa của nó`"]
+  n55 --- n59
   class n0 root
-  class n1,n13,n21,n26,n32,n37 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n36,n38,n39,n40,n41 leaf
+  class n1,n15,n20,n30,n40,n49,n55 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n56,n57,n58,n59 leaf
 ```
 
 ## Nguồn
