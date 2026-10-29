@@ -1077,7 +1077,7 @@ Chặn khấu hao nói về tổng, không nói về từng thao tác. Một l�
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 17 trên một trang: sáu nhánh lớn theo phần mở đầu, ba mục phương pháp 17.1–17.3, mục bảng động 17.4 và phần bài toán cuối chương của bản gốc, mỗi nhánh ghi phương pháp, hàm chi phí hoặc thế năng, kết quả trên ngăn xếp, bộ đếm và bảng động; nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 17 trên một trang: tám nhánh lớn theo phần mở đầu, ba mục phương pháp 17.1–17.3, mục bảng động 17.4 (tách 17.4.1 và 17.4.2), bài tập cuối các mục, các bài toán 17-1 đến 17-5 kèm ghi chú chương của bản gốc; mỗi nhánh ghi phương pháp, công thức chi phí hoặc thế năng và kết quả trên ngăn xếp, bộ đếm, bảng động; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1086,97 +1086,147 @@ flowchart LR
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
   n0["`Chương 17: thao tác đắt hiếm và được thao tác rẻ chuẩn bị trước nên mọi dãy n thao tác chỉ tốn O(n), tức khấu hao O(1) mỗi thao tác`"]
-  n1["`Phần mở đầu chương — phân tích khấu hao là gì`"]
+  n1["`Phần mở đầu Chương 17 — phân tích khấu hao là gì`"]
   n0 --- n1
   n2["`Lấy trung bình chi phí trên cả dãy thao tác, nhưng là bảo đảm trường hợp xấu nhất, không dùng xác suất như phân tích trung bình`"]
   n1 --- n2
   n3["`Chi phí khấu hao chỉ để phân tích, không cần và không nên xuất hiện trong mã`"]
   n1 --- n3
-  n4["`Hai ví dụ chạy suốt ba mục: ngăn xếp có MULTIPOP và bộ đếm nhị phân k bit`"]
+  n4["`Ba kỹ thuật: phân tích gộp (17.1), kế toán (17.2), thế năng (17.3)#59; Mục 17.4 dùng thế năng để thiết kế bảng động`"]
   n1 --- n4
-  n5["`Mục 17.1 — Phân tích gộp`"]
-  n0 --- n5
-  n6["`Chặn tổng chi phí T(n) của n thao tác rồi gán mỗi thao tác T(n)/n`"]
-  n5 --- n6
-  n7["`Ngăn xếp: phân tích thô cho O(n²), nhưng số lần POP kể cả trong MULTIPOP không vượt số PUSH nên tổng O(n)`"]
-  n5 --- n7
-  n8["`Bộ đếm: A[i] lật ⌊n/2^i⌋ lần, tổng dưới 2n dù một INCREMENT có thể lật k bit`"]
-  n5 --- n8
-  n9["`Hình 17.2: bộ đếm 8 bit qua 16 lần tăng lật tổng cộng 31 #lt; 32 bit`"]
-  n5 --- n9
-  n10["`Mục 17.2 — Phương pháp kế toán`"]
-  n0 --- n10
-  n11["`Mỗi loại thao tác có chi phí khấu hao riêng, phần dư cất thành tín dụng trên từng đối tượng`"]
-  n10 --- n11
-  n12["`Điều kiện (17.1): Σĉᵢ ≥ Σcᵢ với mọi dãy, tức tổng tín dụng không bao giờ âm`"]
-  n10 --- n12
-  n13["`Ngăn xếp: PUSH trả 2 đô la, 1 đô la nằm trên đĩa trả cho lần lấy ra sau, POP và MULTIPOP trả 0`"]
-  n10 --- n13
-  n14["`Bộ đếm: đặt một bit thành 1 trả 2, 1 đô la trên bit đó trả cho lần về 0`"]
-  n10 --- n14
-  n15["`Mục 17.3 — Phương pháp thế năng`"]
-  n0 --- n15
-  n16["`ĉᵢ = cᵢ + Φ(Dᵢ) − Φ(Dᵢ₋₁), tổng lồng nhau cho Σĉᵢ = Σcᵢ + Φ(Dₙ) − Φ(D₀)`"]
-  n15 --- n16
-  n17["`Nếu Φ(Dₙ) ≥ Φ(D₀) thì tổng chi phí khấu hao chặn trên tổng chi phí thực`"]
-  n15 --- n17
-  n18["`Ngăn xếp: Φ = số phần tử, PUSH khấu hao 2, POP và MULTIPOP khấu hao 0`"]
-  n15 --- n18
-  n19["`Bộ đếm: Φ = số bit 1, INCREMENT khấu hao ≤ 2, bắt đầu với b₀ bit 1 thì tổng ≤ 2n − bₙ + b₀`"]
-  n15 --- n19
-  n20["`Mục 17.4 — Bảng động`"]
-  n0 --- n20
-  n21["`Mục 17.4.1 — Mở rộng bảng`"]
-  n20 --- n21
-  n22["`Nhân đôi kích thước khi bảng đầy, hệ số tải luôn ≥ 1/2`"]
+  n5["`Hai ví dụ chạy suốt ba mục: ngăn xếp có MULTIPOP và bộ đếm nhị phân k bit`"]
+  n1 --- n5
+  n6["`Mục 17.1 — Phân tích gộp`"]
+  n0 --- n6
+  n7["`Chặn tổng chi phí T(n) của n thao tác rồi gán T(n)/n cho mọi loại thao tác như nhau`"]
+  n6 --- n7
+  n8["`MULTIPOP(S, k) lấy ra min(s, k) phần tử trên cùng của ngăn xếp s phần tử nên tốn min(s, k)`"]
+  n6 --- n8
+  n9["`Ngăn xếp: phân tích thô cho O(n²), đúng nhưng không chặt vì cộng trường hợp xấu nhất của từng thao tác`"]
+  n6 --- n9
+  n10["`Mỗi phần tử bị lấy ra tối đa một lần cho mỗi lần được đẩy vào, nên n thao tác ngăn xếp tốn O(n)`"]
+  n6 --- n10
+  n11["`Bộ đếm: một INCREMENT có thể lật cả k bit, phân tích thô cho O(nk)`"]
+  n6 --- n11
+  n12["`Bit A[i] lật ⌊n/2^i⌋ lần, tổng Σ⌊n/2^i⌋ #lt; 2n nên INCREMENT khấu hao O(1)`"]
+  n6 --- n12
+  n13["`Hình 17.2: bộ đếm 8 bit qua 16 lần tăng lật tổng cộng 31 #lt; 32 bit`"]
+  n6 --- n13
+  n14["`Mục 17.2 — Phương pháp kế toán`"]
+  n0 --- n14
+  n15["`Mỗi loại thao tác có chi phí khấu hao riêng, có thể khác nhau cả về bậc tiệm cận`"]
+  n14 --- n15
+  n16["`Phần thu dư ĉᵢ − cᵢ thành tín dụng trên đối tượng cụ thể, trả cho thao tác bị thu thiếu sau đó`"]
+  n14 --- n16
+  n17["`Điều kiện (17.1): Σĉᵢ ≥ Σcᵢ với mọi dãy, tức tổng tín dụng không bao giờ âm`"]
+  n14 --- n17
+  n18["`Ngăn xếp: PUSH thu 2, POP và MULTIPOP thu 0#59; mỗi đĩa giữ 1 đô la trả cho lần bị lấy ra`"]
+  n14 --- n18
+  n19["`Bộ đếm: đặt một bit thành 1 thu 2, đặt về 0 thu 0#59; mỗi bit 1 giữ 1 đô la`"]
+  n14 --- n19
+  n20["`INCREMENT đặt nhiều nhất một bit thành 1 nên khấu hao ≤ 2, n lần tăng tốn O(n)`"]
+  n14 --- n20
+  n21["`Mục 17.3 — Phương pháp thế năng`"]
+  n0 --- n21
+  n22["`Công việc trả trước lưu thành thế năng Φ của cả cấu trúc, không gắn với đối tượng riêng nào`"]
   n21 --- n22
-  n23["`Tổng n lần TABLE-INSERT dưới 3n, mỗi lần chèn khấu hao 3`"]
+  n23["`Công thức (17.2): ĉᵢ = cᵢ + Φ(Dᵢ) − Φ(Dᵢ₋₁)`"]
   n21 --- n23
-  n24["`Kế toán: 3 đô la trả cho chèn chính nó, chép nó, và chép một phần tử cũ`"]
+  n24["`Công thức (17.3): tổng lồng nhau triệt tiêu cho Σĉᵢ = Σcᵢ + Φ(Dₙ) − Φ(D₀)`"]
   n21 --- n24
-  n25["`Φ = 2·num − size, bằng 0 ngay sau mở rộng và bằng num ngay trước mở rộng`"]
+  n25["`Đặt Φ(D₀) = 0 và chứng minh Φ(Dᵢ) ≥ 0 thì Σĉᵢ luôn chặn trên Σcᵢ`"]
   n21 --- n25
-  n26["`Mục 17.4.2 — Mở rộng và thu nhỏ bảng`"]
-  n20 --- n26
-  n27["`Thu nhỏ khi α #lt; 1/2 thì dãy chèn, xoá, xoá, chèn, chèn quanh ngưỡng tốn Θ(n²)`"]
-  n26 --- n27
-  n28["`Đúng: nhân đôi khi đầy, chia đôi khi α #lt; 1/4, nên hệ số tải luôn ≥ 1/4`"]
-  n26 --- n28
-  n29["`Φ = 2·num − size khi α ≥ 1/2 và size/2 − num khi α #lt; 1/2, bằng 0 tại α = 1/2`"]
-  n26 --- n29
-  n30["`Chèn khấu hao ≤ 3, xoá khấu hao ≤ 2, mọi dãy n thao tác tốn O(n)`"]
-  n26 --- n30
-  n31["`Bài tập, bài toán và ghi chú cuối chương`"]
-  n0 --- n31
-  n32["`17.3-6 Hàng đợi bằng hai ngăn xếp có ENQUEUE và DEQUEUE khấu hao O(1)`"]
-  n31 --- n32
-  n33["`17-1 Bộ đếm đảo bit làm hoán vị đảo bit của FFT trong O(n) thay vì O(nk)`"]
-  n31 --- n33
-  n34["`17-2 Tìm kiếm nhị phân động: các mảng sắp xếp dài 1, 2, 4 theo biểu diễn nhị phân của n, chèn giống INCREMENT`"]
-  n31 --- n34
-  n35["`17-3 Cây cân bằng theo trọng số: dựng lại cây con mất cân bằng, chèn và xoá O(lg n) khấu hao`"]
-  n31 --- n35
-  n36["`17-4 Cây đỏ-đen: m lần RB-INSERT, RB-DELETE chỉ gây O(m) thay đổi cấu trúc`"]
-  n31 --- n36
-  n37["`17-5 Move-to-front: C#95;MTF(σ) ≤ 4·C#95;H(σ) với mọi quy tắc H, kể cả quy tắc biết trước dãy truy cập`"]
-  n31 --- n37
-  n38["`Ghi chú: Tarjan tổng quan phương pháp kế toán và thế năng, hàm thế năng còn dùng để chứng minh chặn dưới`"]
-  n31 --- n38
-  n39["`Thông điệp xuyên suốt`"]
-  n0 --- n39
-  n40["`Ba phương pháp là ba cách ghi sổ cho cùng một sự thật: thao tác đắt phải được chuẩn bị bởi thao tác rẻ`"]
-  n39 --- n40
-  n41["`Hàm thế năng thường chính là tổng tín dụng của phương pháp kế toán, viết thành hàm của trạng thái`"]
-  n39 --- n41
-  n42["`Mảng động phải nhân theo hệ số cố định, cộng thêm c ô mỗi lần sẽ tốn Θ(n²/c)`"]
-  n39 --- n42
-  n43["`Chặn khấu hao không chặn từng thao tác, hệ thống cần độ trễ ổn định phải tái cấu trúc tăng dần`"]
-  n39 --- n43
-  n44["`Phần V dùng phương pháp thế năng cho đống Fibonacci và rừng tập rời nhau`"]
-  n39 --- n44
+  n26["`ΔΦ #gt; 0 là thu dư, ΔΦ #lt; 0 là thế năng giảm để trả bù#59; Φ tốt nhất tuỳ chặn muốn đạt`"]
+  n21 --- n26
+  n27["`Ngăn xếp: Φ = số phần tử, PUSH khấu hao 2, POP và MULTIPOP khấu hao 0`"]
+  n21 --- n27
+  n28["`Bộ đếm: Φ = số bit 1#59; đặt tᵢ bit về 0 thì cᵢ ≤ tᵢ + 1, ΔΦ ≤ 1 − tᵢ, nên ĉᵢ ≤ 2`"]
+  n21 --- n28
+  n29["`Công thức (17.4): bắt đầu với b₀ bit 1 thì Σcᵢ ≤ 2n − bₙ + b₀, là O(n) khi n = Ω(k)`"]
+  n21 --- n29
+  n30["`Mục 17.4 — Bảng động`"]
+  n0 --- n30
+  n31["`Hệ số tải α = num/size, bảng rỗng có α = 1#59; α bị chặn dưới thì bộ nhớ bỏ trống bị giới hạn`"]
+  n30 --- n31
+  n32["`Chi phí đo bằng số lần chèn và xoá sơ cấp#59; cấp phát và giải phóng bị lấn át bởi việc chép`"]
+  n30 --- n32
+  n33["`Mục 17.4.1 — Mở rộng bảng`"]
+  n30 --- n33
+  n34["`Chèn vào bảng đầy thì cấp bảng gấp đôi và chép hết sang, nên α luôn ≥ 1/2`"]
+  n33 --- n34
+  n35["`Lần chèn thứ i tốn i nếu i − 1 là lũy thừa đúng của 2, ngược lại tốn 1`"]
+  n33 --- n35
+  n36["`Phân tích gộp: Σcᵢ ≤ n + Σ2^j #lt; 3n, nên mỗi lần chèn khấu hao ≤ 3`"]
+  n33 --- n36
+  n37["`Kế toán: 3 đô la trả việc chèn chính nó, chép nó, và chép một phần tử cũ chưa có tiền`"]
+  n33 --- n37
+  n38["`Thế năng (17.5): Φ = 2·num − size, bằng 0 sau mở rộng và bằng num ngay trước mở rộng`"]
+  n33 --- n38
+  n39["`Chèn thứ 9 vào bảng 8 ô đầy: c = 9, Φ từ 8 xuống 2, nên ĉ = 3`"]
+  n33 --- n39
+  n40["`Mục 17.4.2 — Mở rộng và thu nhỏ bảng`"]
+  n30 --- n40
+  n41["`Thu nhỏ khi α #lt; 1/2 thì dãy chèn, xoá, xoá, chèn, chèn quanh ngưỡng tốn Θ(n²)`"]
+  n40 --- n41
+  n42["`Lý do: sau mở rộng chưa xoá đủ để trả thu nhỏ, sau thu nhỏ chưa chèn đủ để trả mở rộng`"]
+  n40 --- n42
+  n43["`Chiến lược đúng: gấp đôi khi đầy, chia đôi khi α #lt; 1/4, nên α luôn ≥ 1/4`"]
+  n40 --- n43
+  n44["`Thế năng (17.6): Φ = 2·num − size khi α ≥ 1/2, Φ = size/2 − num khi α #lt; 1/2`"]
+  n40 --- n44
+  n45["`Φ = 0 tại α = 1/2 và Φ = num tại α = 1 hoặc α = 1/4, vừa đủ trả việc chép`"]
+  n40 --- n45
+  n46["`TABLE-INSERT khấu hao ≤ 3#59; TABLE-DELETE khấu hao 2 nếu không thu nhỏ, 1 nếu thu nhỏ`"]
+  n40 --- n46
+  n47["`Mọi thao tác khấu hao O(1), nên mọi dãy n thao tác trên bảng động tốn O(n)`"]
+  n40 --- n47
+  n48["`Bài tập cuối các mục 17.1–17.4`"]
+  n0 --- n48
+  n49["`17.1-1 Thêm MULTIPUSH đẩy k phần tử thì n thao tác tốn Θ(nk), mất chặn O(1)`"]
+  n48 --- n49
+  n50["`17.1-2 Thêm DECREMENT, xen kẽ tăng và giảm quanh 2^(k−1) làm n thao tác tốn Θ(nk)`"]
+  n48 --- n50
+  n51["`17.3-1 Đặt Φ'(D) = Φ(D) − Φ(D₀) đưa thế năng ban đầu về 0, giữ nguyên chi phí khấu hao`"]
+  n48 --- n51
+  n52["`17.3-6 Hàng đợi bằng hai ngăn xếp, Φ = 2 × số phần tử ngăn xếp nhập, ENQUEUE và DEQUEUE khấu hao O(1)`"]
+  n48 --- n52
+  n53["`17.4-3 Nhân kích thước với 2/3 khi α #lt; 1/3, thế năng là trị tuyệt đối của 2·num − size, xoá vẫn khấu hao O(1)`"]
+  n48 --- n53
+  n54["`Bài toán 17-1 đến 17-5 và ghi chú cuối Chương 17`"]
+  n0 --- n54
+  n55["`17-1 Bộ đếm đảo bit làm hoán vị đảo bit của FFT trong O(n) thay vì O(nk)`"]
+  n54 --- n55
+  n56["`17-2 Tìm kiếm nhị phân động: mảng sắp xếp dài 1, 2, 4 theo bit của n, SEARCH O(lg² n), INSERT khấu hao O(lg n)`"]
+  n54 --- n56
+  n57["`17-3 Cây α-cân bằng dựng lại cây con mất cân bằng cao nhất, Φ = c·ΣΔ(x), chèn và xoá khấu hao O(lg n)`"]
+  n54 --- n57
+  n58["`17-4 Cây đỏ-đen: một lần chèn có thể đổi màu Ω(lg n) lần, nhưng m lần chèn và xoá chỉ gây O(m) thay đổi cấu trúc`"]
+  n54 --- n58
+  n59["`17-5 Move-to-front: truy cập phần tử hạng r tốn 2r − 1, thế năng Φ = 2 × số nghịch thế so với danh sách của H`"]
+  n54 --- n59
+  n60["`17-5 Kết luận C#95;MTF(σ) ≤ 4·C#95;H(σ) với mọi quy tắc H, kể cả quy tắc biết trước dãy truy cập`"]
+  n54 --- n60
+  n61["`Ghi chú: nếu cắt và nối phần tử lên đầu trong thời gian hằng thì move-to-front không quá 2 lần mọi quy tắc`"]
+  n54 --- n61
+  n62["`Ghi chú: hàm thế năng còn chứng minh chặn dưới, số bước ít nhất bằng độ chênh thế năng đầu–cuối chia mức đổi tối đa mỗi bước`"]
+  n54 --- n62
+  n63["`Ghi chú: Tarjan tổng quan phương pháp kế toán và thế năng#59; thuật ngữ amortized do Sleator và Tarjan đặt`"]
+  n54 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Ba phương pháp là ba cách ghi sổ cho cùng một sự thật: thao tác đắt phải được chuẩn bị bởi thao tác rẻ`"]
+  n64 --- n65
+  n66["`Hàm thế năng thường chính là tổng tín dụng của phương pháp kế toán, viết thành hàm của trạng thái`"]
+  n64 --- n66
+  n67["`Mảng động phải nhân theo hệ số cố định, cộng thêm c ô mỗi lần sẽ tốn Θ(n²/c)`"]
+  n64 --- n67
+  n68["`Chặn khấu hao không chặn từng thao tác, hệ thống cần độ trễ ổn định phải tái cấu trúc tăng dần`"]
+  n64 --- n68
+  n69["`Phần V dùng phương pháp thế năng cho đống Fibonacci (Chương 19) và rừng tập rời nhau (Chương 21)`"]
+  n64 --- n69
   class n0 root
-  class n1,n5,n10,n15,n20,n31,n39 branch
-  class n2,n3,n4,n6,n7,n8,n9,n11,n12,n13,n14,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44 leaf
+  class n1,n6,n14,n21,n30,n48,n54,n64 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68,n69 leaf
 ```
 
 ## Nguồn
