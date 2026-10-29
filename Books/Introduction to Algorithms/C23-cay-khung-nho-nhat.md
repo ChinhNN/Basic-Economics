@@ -1,16 +1,18 @@
 # Chương 23 — Cây khung nhỏ nhất (Minimum Spanning Trees)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VI "Graph Algorithms", Chương 23 "Minimum Spanning Trees", trang 624–642 (phần mở đầu chương trang 624–625, Mục 23.1 trang 625–630, Mục 23.2 trang 631–638, Bài toán cuối chương trang 638–641, Ghi chú chương trang 641–642).
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) mở Phần VI bằng cách biểu diễn đồ thị (danh sách kề, ma trận kề) và hai phép duyệt BFS, DFS — đồ thị ở đó chưa có trọng số. Chương 23 là chương đầu tiên của Phần VI làm việc với **đồ thị có trọng số**: tìm tập cạnh nối mọi đỉnh với tổng trọng số nhỏ nhất. Chương dựa trực tiếp vào ba chương trước đó: Chương 16 ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) cho khái niệm thuật toán tham lam và matroid — lý do sâu xa vì sao tham lam đúng với bài toán này; Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) cho cấu trúc tập rời nhau (MAKE-SET, FIND-SET, UNION) mà thuật toán Kruskal dùng; Chương 6 ([C06-heapsort.md](C06-heapsort.md)) và Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) cho hàng đợi ưu tiên bằng đống nhị phân và đống Fibonacci mà thuật toán Prim dùng. Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)) cho định nghĩa cây tự do và định lý "cây n đỉnh có n − 1 cạnh". Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)) dùng lại gần như nguyên khuôn của thuật toán Prim cho thuật toán Dijkstra; Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) dùng cây khung nhỏ nhất làm bước đầu của thuật toán xấp xỉ cho bài toán người du lịch có bất đẳng thức tam giác.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **bài toán cây khung nhỏ nhất là một trong số ít bài toán mà chiến lược tham lam "lấy cạnh nhẹ nhất có thể ở mỗi bước" luôn cho lời giải tối ưu, và lý do nằm ở một quy tắc duy nhất: nếu tập cạnh A đang nằm trong một cây khung nhỏ nhất nào đó, thì cạnh nhẹ nhất đi qua bất kỳ lát cắt nào tôn trọng A là cạnh an toàn — thêm nó vào A vẫn giữ được tính chất "nằm trong một cây khung nhỏ nhất" (Định lý 23.1). Kruskal và Prim chỉ là hai cách chọn lát cắt khác nhau, chạy O(E lg V) với đống nhị phân, và Prim chạy O(E + V lg V) với đống Fibonacci.** Phần mở đầu chương nêu bài toán đi dây điện nối n chân linh kiện, mô hình hoá thành đồ thị vô hướng liên thông có trọng số, và định nghĩa cây khung (spanning tree) cùng bài toán cây khung nhỏ nhất. Mục 23.1 trình bày phương pháp tổng quát GENERIC-MST: giữ tập cạnh A với bất biến "A là tập con của một cây khung nhỏ nhất", mỗi bước thêm một cạnh an toàn; định nghĩa lát cắt (cut), cạnh đi qua lát cắt, lát cắt tôn trọng A, cạnh nhẹ (light edge); chứng minh Định lý 23.1 bằng kỹ thuật cắt và dán (đổi một cạnh trên đường đi trong cây lấy cạnh nhẹ); rút ra Hệ quả 23.2: cạnh nhẹ nối một thành phần liên thông của rừng (V, A) với thành phần khác là an toàn. Mục 23.2 trình bày hai thuật toán cụ thể. Kruskal giữ A là một rừng, sắp xếp cạnh tăng dần theo trọng số, lần lượt thêm cạnh nối hai cây khác nhau, kiểm tra bằng FIND-SET và gộp bằng UNION; thời gian O(E lg E) = O(E lg V), bị chi phối bởi bước sắp xếp. Prim giữ A là một cây duy nhất mọc từ gốc r; mọi đỉnh chưa vào cây nằm trong hàng đợi ưu tiên min Q theo khoá *key* (trọng số cạnh nhẹ nhất nối đỉnh đó với cây); mỗi bước EXTRACT-MIN lấy đỉnh gần cây nhất rồi cập nhật khoá các đỉnh kề; thời gian O(E lg V) với đống nhị phân, O(E + V lg V) với đống Fibonacci. Các bài toán cuối chương bàn về cây khung nhỏ thứ hai, bước tiền xử lý co cạnh (MST-REDUCE, chính là một vòng của thuật toán Borůvka) để tăng tốc trên đồ thị thưa, cây khung nút cổ chai, và ba "thuật toán có thể đúng" để người đọc tự phân xử. Ghi chú chương kể lịch sử (Borůvka 1926, Jarník 1930, Kruskal 1956, Prim) và các thuật toán nhanh hơn: O(E lg* V), O(E lg lg* V), O(E α̂(E, V)) của Chazelle, thuật toán ngẫu nhiên O(V + E) kỳ vọng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong chương.** Dấu sao chỉ xuất hiện ở ba bài tập: Exercise 23.1-11, Exercise 23.2-6 và Exercise 23.2-7.
-> - **Lớp chữ PDF hỏng nhiều ký hiệu toán; mọi pseudocode, công thức và hình trong bản tổng hợp được đọc lại từ ảnh trang 624–642.** Cụ thể: chữ v (đỉnh) bị mất hoàn toàn, `.u; /` là (u, v), `: key` là v.key, `: D u` là v.π = u (ký hiệu π cũng mất); dấu ≠, ≤, ≥, ∞, ∅ mất (ví dụ `jEjjVj/NUL 1` là |E| ≥ |V| − 1, `u:keyD1` là u.key = ∞, `Q¤;` là Q ≠ ∅); `˛.V /` là α(V). Chỗ hỏng nặng nhất ở Ghi chú chương trang 642: lớp chữ in "O(E lg V)" và "O(E lg lg V)" cho thuật toán của Fredman–Tarjan và của Gabow–Galil–Spencer–Tarjan, nhưng ảnh trang cho thấy đúng là **O(E lg\* V)** và **O(E lg lg\* V)** (có dấu sao của hàm logarit lặp); "Ey˛.E; V /" là O(E α̂(E, V)); ".V lg V/" là |E| = Ω(V lg V). Ba hình nhiều bước — Hình 23.4 (14 bước của Kruskal, trang 632–633), Hình 23.5 (9 bước của Prim, trang 635) và Hình 23.2 (lát cắt, trang 627) — không đọc được từ lớp chữ; người tổng hợp đọc từ ảnh và tái hiện thành bảng.
-> - **Thủ tục MST-REDUCE của Problem 23-2 không loại khuyên (self-loop) — nhận xét của người tổng hợp.** Ở dòng 12–21, một cạnh (x, y) mà hai đầu mút đã được gộp vào cùng một tập (FIND-SET(x) = FIND-SET(y) = u) sẽ được thêm vào G′.E dưới dạng cạnh (u, u). Đồ thị co lại theo đúng nghĩa ở Mục B.4 không có khuyên. Cần thêm điều kiện "nếu u ≠ v" trước dòng 15. Khuyên không làm Prim sai (một khuyên không bao giờ được chọn vì đầu kia đã ở trong cây), nhưng làm sai định nghĩa và tốn thời gian. Người tổng hợp không chắc chỗ này có trong danh sách lỗi chính thức (errata) hay không.
-> - **Ví dụ chạy tay đã tự kiểm tra lại và đúng:** cây khung nhỏ nhất của đồ thị 9 đỉnh, 14 cạnh có tổng trọng số 37; Kruskal (Hình 23.4) thêm lần lượt các cạnh trọng số 1, 2, 2, 4, 4, 7, 8, 9 (tổng 37) và loại các cạnh 6, 7, 8, 10, 11, 14; Prim từ gốc a (Hình 23.5) thêm các đỉnh theo thứ tự a, b, c, i, f, g, h, d, e, tổng 37. **Một điểm dễ bỏ sót:** cây mà Kruskal trả về trong Hình 23.4 chứa cạnh (a, h) chứ không chứa (b, c), tức là khác với cây tô đậm trong Hình 23.1 và khác cây của Prim trong Hình 23.5 — cả ba đều nặng 37, khớp với chú thích của Hình 23.1 rằng cây khung nhỏ nhất của đồ thị này không duy nhất.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương này trở thành Chương 21 (vì hai chương đống Fibonacci và cây van Emde Boas bị bỏ khỏi bản in, các chương sau được đánh số lại). Nội dung cốt lõi (GENERIC-MST, Định lý 23.1, Kruskal, Prim) giữ nguyên. Tôi nhớ (không chắc chắn) rằng pseudocode Prim ở ấn bản 4 viết tường minh lời gọi INSERT vào Q và DECREASE-KEY thay vì gán khoá ngầm. Các khác biệt nhỏ hơn về bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **bài toán cây khung nhỏ nhất là một trong số ít bài toán mà chiến lược tham lam "lấy cạnh nhẹ nhất có thể ở mỗi bước" luôn cho lời giải tối ưu, và lý do nằm ở một quy tắc duy nhất: nếu tập cạnh A đang nằm trong một cây khung nhỏ nhất nào đó, thì cạnh nhẹ nhất đi qua bất kỳ lát cắt nào tôn trọng A là cạnh an toàn — thêm nó vào A vẫn giữ được tính chất "nằm trong một cây khung nhỏ nhất" (Định lý 23.1). Kruskal và Prim chỉ là hai cách chọn lát cắt khác nhau, chạy O(E lg V) với đống nhị phân, và Prim chạy O(E + V lg V) với đống Fibonacci.**
+
+Phần mở đầu chương nêu bài toán đi dây điện nối n chân linh kiện, mô hình hoá thành đồ thị vô hướng liên thông có trọng số, và định nghĩa cây khung (spanning tree) cùng bài toán cây khung nhỏ nhất.
+
+Mục 23.1 trình bày phương pháp tổng quát GENERIC-MST: giữ tập cạnh A với bất biến "A là tập con của một cây khung nhỏ nhất", mỗi bước thêm một cạnh an toàn; định nghĩa lát cắt (cut), cạnh đi qua lát cắt, lát cắt tôn trọng A, cạnh nhẹ (light edge); chứng minh Định lý 23.1 bằng kỹ thuật cắt và dán (đổi một cạnh trên đường đi trong cây lấy cạnh nhẹ); rút ra Hệ quả 23.2: cạnh nhẹ nối một thành phần liên thông của rừng (V, A) với thành phần khác là an toàn.
+
+Mục 23.2 trình bày hai thuật toán cụ thể. Kruskal giữ A là một rừng, sắp xếp cạnh tăng dần theo trọng số, lần lượt thêm cạnh nối hai cây khác nhau, kiểm tra bằng FIND-SET và gộp bằng UNION; thời gian O(E lg E) = O(E lg V), bị chi phối bởi bước sắp xếp.
+
+Prim giữ A là một cây duy nhất mọc từ gốc r; mọi đỉnh chưa vào cây nằm trong hàng đợi ưu tiên min Q theo khoá *key* (trọng số cạnh nhẹ nhất nối đỉnh đó với cây); mỗi bước EXTRACT-MIN lấy đỉnh gần cây nhất rồi cập nhật khoá các đỉnh kề; thời gian O(E lg V) với đống nhị phân, O(E + V lg V) với đống Fibonacci.
+
+Các bài toán cuối chương bàn về cây khung nhỏ thứ hai, bước tiền xử lý co cạnh (MST-REDUCE, chính là một vòng của thuật toán Borůvka) để tăng tốc trên đồ thị thưa, cây khung nút cổ chai, và ba "thuật toán có thể đúng" để người đọc tự phân xử. Ghi chú chương kể lịch sử (Borůvka 1926, Jarník 1930, Kruskal 1956, Prim) và các thuật toán nhanh hơn: O(E lg* V), O(E lg lg* V), O(E α̂(E, V)) của Chazelle, thuật toán ngẫu nhiên O(V + E) kỳ vọng.
 
 ## Sơ đồ
 
@@ -521,7 +523,9 @@ Kiểm tra số (người tổng hợp): đồ thị ví dụ có |E| = 14, lg 1
 
 #### 3.2 Thuật toán Prim (Prim's algorithm)
 
-Giống Kruskal, thuật toán Prim là một trường hợp riêng của phương pháp tổng quát ở Mục 23.1. Prim hoạt động rất giống thuật toán Dijkstra tìm đường đi ngắn nhất (Mục 24.3). Tính chất của Prim là các cạnh trong A luôn tạo thành **một cây duy nhất**. Cây bắt đầu từ một đỉnh gốc r tuỳ ý và lớn dần cho tới khi phủ mọi đỉnh của V. Mỗi bước thêm vào cây A một cạnh nhẹ nối A với một **đỉnh cô lập** (isolated vertex) — đỉnh mà chưa cạnh nào của A chạm vào. Theo Hệ quả 23.2 (áp dụng với C là cây đang mọc), quy tắc này chỉ thêm các cạnh an toàn với A; vì vậy khi thuật toán kết thúc, các cạnh trong A tạo thành một cây khung nhỏ nhất. Chiến lược này là tham lam vì ở mỗi bước nó thêm vào cây một cạnh làm tăng trọng số của cây ít nhất có thể.
+Giống Kruskal, thuật toán Prim là một trường hợp riêng của phương pháp tổng quát ở Mục 23.1. Prim hoạt động rất giống thuật toán Dijkstra tìm đường đi ngắn nhất (Mục 24.3). Tính chất của Prim là các cạnh trong A luôn tạo thành **một cây duy nhất**. Cây bắt đầu từ một đỉnh gốc r tuỳ ý và lớn dần cho tới khi phủ mọi đỉnh của V. Mỗi bước thêm vào cây A một cạnh nhẹ nối A với một **đỉnh cô lập** (isolated vertex) — đỉnh mà chưa cạnh nào của A chạm vào.
+
+Theo Hệ quả 23.2 (áp dụng với C là cây đang mọc), quy tắc này chỉ thêm các cạnh an toàn với A; vì vậy khi thuật toán kết thúc, các cạnh trong A tạo thành một cây khung nhỏ nhất. Chiến lược này là tham lam vì ở mỗi bước nó thêm vào cây một cạnh làm tăng trọng số của cây ít nhất có thể.
 
 Để cài đặt Prim hiệu quả, cần một cách nhanh để chọn cạnh mới thêm vào cây tạo bởi các cạnh trong A. Trong pseudocode dưới đây, đồ thị liên thông G và gốc r của cây khung nhỏ nhất cần mọc là đầu vào. Trong khi chạy, mọi đỉnh **chưa** ở trong cây nằm trong một hàng đợi ưu tiên min Q dựa trên thuộc tính *key*. Với mỗi đỉnh v, thuộc tính v.key là trọng số nhỏ nhất của một cạnh nối v với một đỉnh trong cây; theo quy ước, v.key = ∞ nếu không có cạnh như vậy. Thuộc tính v.π là cha của v trong cây. Thuật toán ngầm duy trì tập A của GENERIC-MST dưới dạng
 
@@ -657,7 +661,9 @@ Cho G = (V, E) vô hướng liên thông, hàm trọng số w : E → ℝ, giả
 
 ### Problem 23-2: Cây khung nhỏ nhất trên đồ thị thưa (Minimum spanning tree in sparse graphs)
 
-Với đồ thị liên thông rất thưa G = (V, E), có thể cải thiện thêm thời gian O(E + V lg V) của Prim với đống Fibonacci bằng cách tiền xử lý G để giảm số đỉnh trước khi chạy Prim. Cụ thể: với mỗi đỉnh u, chọn cạnh (u, v) có trọng số nhỏ nhất chạm u, và đưa (u, v) vào cây khung nhỏ nhất đang dựng. Sau đó co tất cả các cạnh đã chọn (Mục B.4). Thay vì co từng cạnh một, trước hết xác định các tập đỉnh sẽ được gộp thành cùng một đỉnh mới. Rồi tạo ra đồ thị lẽ ra thu được khi co từng cạnh, nhưng làm bằng cách "đổi tên" các cạnh theo tập chứa đầu mút của chúng. Nhiều cạnh của đồ thị gốc có thể được đổi thành cùng một tên; khi đó chỉ giữ một cạnh, trọng số bằng nhỏ nhất trong các cạnh gốc tương ứng.
+Với đồ thị liên thông rất thưa G = (V, E), có thể cải thiện thêm thời gian O(E + V lg V) của Prim với đống Fibonacci bằng cách tiền xử lý G để giảm số đỉnh trước khi chạy Prim. Cụ thể: với mỗi đỉnh u, chọn cạnh (u, v) có trọng số nhỏ nhất chạm u, và đưa (u, v) vào cây khung nhỏ nhất đang dựng. Sau đó co tất cả các cạnh đã chọn (Mục B.4).
+
+Thay vì co từng cạnh một, trước hết xác định các tập đỉnh sẽ được gộp thành cùng một đỉnh mới. Rồi tạo ra đồ thị lẽ ra thu được khi co từng cạnh, nhưng làm bằng cách "đổi tên" các cạnh theo tập chứa đầu mút của chúng. Nhiều cạnh của đồ thị gốc có thể được đổi thành cùng một tên; khi đó chỉ giữ một cạnh, trọng số bằng nhỏ nhất trong các cạnh gốc tương ứng.
 
 Ban đầu, đặt cây T đang dựng là rỗng, và với mỗi cạnh (u, v) ∈ E, khởi tạo thuộc tính (u, v).orig = (u, v) và (u, v).c = w(u, v). Thuộc tính *orig* trỏ tới cạnh của đồ thị ban đầu ứng với một cạnh trong đồ thị đã co. Thuộc tính *c* giữ trọng số của cạnh, được cập nhật khi co theo quy tắc trên. Thủ tục MST-REDUCE nhận G và T, trả về đồ thị đã co G′ với các thuộc tính cập nhật *orig′* và *c′*, đồng thời tích luỹ các cạnh của G vào cây T.
 
@@ -690,7 +696,11 @@ MST-REDUCE(G, T)
 
 Giải thích: dòng 1–3 đánh dấu mọi đỉnh "chưa xử lý" và tạo tập một phần tử. Dòng 4–9: với mỗi đỉnh chưa được đánh dấu, chọn cạnh nhẹ nhất chạm nó, gộp hai đầu, đưa cạnh gốc vào T, đánh dấu cả hai đầu. Dòng 10: tập đỉnh mới là tập các đại diện. Dòng 12–21: đổi tên từng cạnh theo đại diện hai đầu; nếu cạnh mới chưa có thì thêm, nếu đã có thì giữ bản nhẹ hơn. (Nhận xét của người tổng hợp, đã nêu ở Lưu ý: cần bỏ qua cạnh có u = v, nếu không G′ chứa khuyên.)
 
-Ví dụ (người tổng hợp) trên đồ thị ví dụ, duyệt đỉnh theo thứ tự a, b, …, i: a chọn ab 4 (đánh dấu a, b); b đã đánh dấu; c chọn ci 2 (c, i); d chọn cd 7 (d); e chọn de 9 (e); f chọn fg 2 (f, g); g đã đánh dấu nên bỏ qua; h chưa đánh dấu, chọn gh 1 (đánh dấu h); i đã đánh dấu. (Lưu ý: d chưa bị đánh dấu khi xét tới vì c chọn ci chứ không chọn cd.) T = {ab, ci, cd, de, fg, gh}, nặng 4 + 2 + 7 + 9 + 2 + 1 = 25, mọi cạnh đều thuộc cây nặng 37. Các tập: {a, b}, {c, d, e, i}, {f, g, h} — 9 đỉnh còn 3 (≤ 9/2). Cạnh của G′ (bỏ các cạnh có hai đầu cùng tập): {a,b}–{f,g,h} giữ ah 8 (bỏ bh 11); {a,b}–{c,d,e,i} là bc 8; {c,d,e,i}–{f,g,h} giữ cf 4 (bỏ df 14, ef 10, gi 6, hi 7). Prim trên G′ chọn cf 4 và một trong hai cạnh nặng 8, ví dụ bc. Kết quả T ∪ {cf, bc} = {ab, ci, cd, de, fg, gh, cf, bc}, nặng 25 + 4 + 8 = 37 — đúng là cây khung nhỏ nhất.
+Ví dụ (người tổng hợp) trên đồ thị ví dụ, duyệt đỉnh theo thứ tự a, b, …, i: a chọn ab 4 (đánh dấu a, b); b đã đánh dấu; c chọn ci 2 (c, i); d chọn cd 7 (d); e chọn de 9 (e); f chọn fg 2 (f, g); g đã đánh dấu nên bỏ qua; h chưa đánh dấu, chọn gh 1 (đánh dấu h); i đã đánh dấu. (Lưu ý: d chưa bị đánh dấu khi xét tới vì c chọn ci chứ không chọn cd.)
+
+T = {ab, ci, cd, de, fg, gh}, nặng 4 + 2 + 7 + 9 + 2 + 1 = 25, mọi cạnh đều thuộc cây nặng 37. Các tập: {a, b}, {c, d, e, i}, {f, g, h} — 9 đỉnh còn 3 (≤ 9/2).
+
+Cạnh của G′ (bỏ các cạnh có hai đầu cùng tập): {a,b}–{f,g,h} giữ ah 8 (bỏ bh 11); {a,b}–{c,d,e,i} là bc 8; {c,d,e,i}–{f,g,h} giữ cf 4 (bỏ df 14, ef 10, gi 6, hi 7). Prim trên G′ chọn cf 4 và một trong hai cạnh nặng 8, ví dụ bc. Kết quả T ∪ {cf, bc} = {ab, ci, cd, de, fg, gh, cf, bc}, nặng 25 + 4 + 8 = 37 — đúng là cây khung nhỏ nhất.
 
 - **(a)** Gọi T là tập cạnh MST-REDUCE trả về, A là cây khung nhỏ nhất của G′ do MST-PRIM(G′, c′, r) tạo ra (r là đỉnh bất kỳ của G′). Chứng minh T ∪ {(x, y).orig′ : (x, y) ∈ A} là cây khung nhỏ nhất của G. *Ý:* mỗi cạnh chọn ở dòng 6 là cạnh nhẹ của lát cắt tách tập (khi đó còn một đỉnh) chứa u — an toàn theo Hệ quả 23.2; sau đó cây khung nhỏ nhất của G chứa T tương ứng một-một với cây khung nhỏ nhất của đồ thị co.
 - **(b)** Lập luận |G′.V| ≤ |V|/2. *Ý:* mỗi đỉnh hoặc được xử lý ở dòng 6, hoặc bị đánh dấu nhờ cạnh của đỉnh khác; mọi tập sau dòng 4–9 có ít nhất 2 đỉnh.
@@ -895,3 +905,111 @@ Theo hiểu biết của người tổng hợp: thư viện đồ thị (Boost G
 - **Phỏng vấn:** viết Kruskal với tập rời nhau (nén đường đi + hợp theo hạng); giải thích tính chất lát cắt và tính chất chu trình; phân biệt Prim với Dijkstra; các biến thể "chi phí nhỏ nhất nối mọi thành phố", "có sẵn vài con đường miễn phí" (đưa cạnh trọng số 0 vào trước).
 - **Lập trình thi đấu:** cây khung nhỏ thứ hai (Problem 23-1, thường dùng nâng nhị phân để truy vấn cạnh nặng nhất trên đường đi trong O(lg V)); cây khung nút cổ chai và truy vấn "cạnh nặng nhất nhỏ nhất trên đường đi giữa u và v" (trả lời trên cây khung nhỏ nhất); Kruskal dừng sớm để phân cụm k nhóm; đồ thị đầy đủ trên điểm thì dùng Prim O(V²).
 - **Kỹ thuật phần mềm:** thiết kế mạng, phân cụm liên kết đơn, xấp xỉ bài toán Steiner và người du lịch, phân đoạn ảnh dựa trên đồ thị (phương pháp Felzenszwalb–Huttenlocher dùng tư tưởng Kruskal — theo hiểu biết của người tổng hợp).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 23 trên một trang: năm nhánh lớn đi theo trình tự của chương gốc (phần mở đầu với bài toán đi dây và đồ thị ví dụ, Mục 23.1 phương pháp tổng quát và định lý cạnh an toàn, Mục 23.2 hai thuật toán Kruskal và Prim, các bài toán cuối chương, ghi chú chương), mỗi nhánh ghi định nghĩa, định lý, thuật toán và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 23: tham lam luôn tối ưu cho cây khung nhỏ nhất vì cạnh nhẹ đi qua mọi lát cắt tôn trọng A là cạnh an toàn, Kruskal và Prim chạy O(E lg V)`"]
+  n1["`Phần mở đầu chương — Bài toán và đồ thị ví dụ`"]
+  n0 --- n1
+  n2["`Nối n chân linh kiện bằng n − 1 sợi dây với tổng chiều dài nhỏ nhất`"]
+  n1 --- n2
+  n3["`Mô hình đồ thị vô hướng liên thông có trọng số, cần tập cạnh không chu trình nối mọi đỉnh`"]
+  n1 --- n3
+  n4["`Cây khung nhỏ nhất là cây khung có tổng trọng số nhỏ nhất, mọi cây khung đều có |V| − 1 cạnh`"]
+  n1 --- n4
+  n5["`Đồ thị ví dụ 9 đỉnh, 14 cạnh có cây khung nhỏ nhất nặng 37, không duy nhất`"]
+  n1 --- n5
+  n6["`Mục 23.1 — Mọc dần một cây khung nhỏ nhất`"]
+  n0 --- n6
+  n7["`GENERIC-MST giữ bất biến: A là tập con của một cây khung nhỏ nhất nào đó`"]
+  n6 --- n7
+  n8["`Mỗi bước thêm một cạnh an toàn, vòng lặp chạy đúng |V| − 1 lần`"]
+  n6 --- n8
+  n9["`Lát cắt (S, V − S) tôn trọng A khi không cạnh nào của A đi qua nó`"]
+  n6 --- n9
+  n10["`Ví dụ S = {a, b, d, e}: cạnh nhẹ duy nhất đi qua lát cắt là (d, c) trọng số 7`"]
+  n6 --- n10
+  n11["`Định lý 23.1: cạnh nhẹ đi qua lát cắt tôn trọng A là cạnh an toàn`"]
+  n6 --- n11
+  n12["`Chứng minh cắt và dán: đổi cạnh (x, y) trên đường u–v trong cây lấy cạnh nhẹ (u, v), trọng số không tăng`"]
+  n6 --- n12
+  n13["`Hệ quả 23.2: cạnh nhẹ nối một cây của rừng (V, A) với thành phần khác là an toàn`"]
+  n6 --- n13
+  n14["`Mục 23.2 — Thuật toán Kruskal và Prim`"]
+  n0 --- n14
+  n15["`Kruskal giữ A là một rừng, duyệt cạnh tăng dần, thêm cạnh nối hai cây khác nhau`"]
+  n14 --- n15
+  n16["`Kruskal dùng MAKE-SET, FIND-SET, UNION của Chương 21, thời gian O(E lg V) do bước sắp xếp chi phối`"]
+  n14 --- n16
+  n17["`Prim giữ A là một cây mọc từ gốc r, hàng đợi ưu tiên min Q theo khoá v.key`"]
+  n14 --- n17
+  n18["`Prim mỗi vòng EXTRACT-MIN lấy đỉnh gần cây nhất rồi giảm khoá các đỉnh kề`"]
+  n14 --- n18
+  n19["`Prim chạy O(E lg V) với đống nhị phân, O(E + V lg V) với đống Fibonacci`"]
+  n14 --- n19
+  n20["`Cả hai đúng nhờ Hệ quả 23.2, với Prim lát cắt là (V − Q, Q)`"]
+  n14 --- n20
+  n21["`Trên ví dụ Kruskal chọn (a, h), Prim từ gốc a chọn (b, c), cả hai cây đều nặng 37`"]
+  n14 --- n21
+  n22["`Bài toán 23-1 đến 23-4 và ghi chú chương`"]
+  n0 --- n22
+  n23["`Problem 23-1: luôn có cây nhỏ thứ hai khác cây nhỏ nhất đúng một cạnh, tìm được trong O(V²)`"]
+  n22 --- n23
+  n24["`Problem 23-2: MST-REDUCE co cạnh nhẹ nhất mỗi đỉnh, số đỉnh giảm ít nhất một nửa, cho O(E lg lg V)`"]
+  n22 --- n24
+  n25["`Problem 23-3: mọi cây khung nhỏ nhất là cây khung nút cổ chai, tìm được trong thời gian tuyến tính`"]
+  n22 --- n25
+  n26["`Problem 23-4: xoá cạnh nặng nhất khi vẫn liên thông là đúng, thêm cạnh theo thứ tự tuỳ ý là sai`"]
+  n22 --- n26
+  n27["`Lịch sử: Borůvka 1926, Jarník 1930 tìm ra thuật toán Prim trước Prim, Kruskal 1956`"]
+  n22 --- n27
+  n28["`Thuật toán nhanh hơn: Fredman–Tarjan O(E lg∗ V), Chazelle O(E α̂(E, V)), Karger–Klein–Tarjan ngẫu nhiên kỳ vọng O(V + E)`"]
+  n22 --- n28
+  n29["`Thông điệp xuyên suốt`"]
+  n0 --- n29
+  n30["`Một định lý, hai thuật toán: tính đúng của cả Kruskal và Prim gói trong Hệ quả 23.2`"]
+  n29 --- n30
+  n31["`Tách cái gì đúng (bất biến, cạnh an toàn) khỏi làm sao nhanh (tập rời nhau, hàng đợi ưu tiên)`"]
+  n29 --- n31
+  n32["`Chứng minh dùng ≤ nên đúng cả khi trọng số bằng nhau hoặc âm`"]
+  n29 --- n32
+  n33["`Lý do sâu xa tham lam đúng: các rừng của đồ thị tạo thành matroid đồ thị của Mục 16.4`"]
+  n29 --- n33
+  n34["`Prim là khuôn của Dijkstra ở Chương 24, cây khung nhỏ nhất là bước đầu của thuật toán xấp xỉ người du lịch ở Chương 35`"]
+  n29 --- n34
+  class n0 root
+  class n1,n6,n14,n22,n29 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VI "Graph Algorithms", Chương 23 "Minimum Spanning Trees", trang 624–642 (phần mở đầu chương trang 624–625, Mục 23.1 trang 625–630, Mục 23.2 trang 631–638, Bài toán cuối chương trang 638–641, Ghi chú chương trang 641–642).
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) mở Phần VI bằng cách biểu diễn đồ thị (danh sách kề, ma trận kề) và hai phép duyệt BFS, DFS — đồ thị ở đó chưa có trọng số. Chương 23 là chương đầu tiên của Phần VI làm việc với **đồ thị có trọng số**: tìm tập cạnh nối mọi đỉnh với tổng trọng số nhỏ nhất.
+
+Chương dựa trực tiếp vào ba chương trước đó: Chương 16 ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) cho khái niệm thuật toán tham lam và matroid — lý do sâu xa vì sao tham lam đúng với bài toán này; Chương 21 ([C21-cau-truc-du-lieu-cho-tap-roi-nhau.md](C21-cau-truc-du-lieu-cho-tap-roi-nhau.md)) cho cấu trúc tập rời nhau (MAKE-SET, FIND-SET, UNION) mà thuật toán Kruskal dùng; Chương 6 ([C06-heapsort.md](C06-heapsort.md)) và Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) cho hàng đợi ưu tiên bằng đống nhị phân và đống Fibonacci mà thuật toán Prim dùng. Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)) cho định nghĩa cây tự do và định lý "cây n đỉnh có n − 1 cạnh".
+
+Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)) dùng lại gần như nguyên khuôn của thuật toán Prim cho thuật toán Dijkstra; Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) dùng cây khung nhỏ nhất làm bước đầu của thuật toán xấp xỉ cho bài toán người du lịch có bất đẳng thức tam giác.
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong chương.** Dấu sao chỉ xuất hiện ở ba bài tập: Exercise 23.1-11, Exercise 23.2-6 và Exercise 23.2-7.
+- **Lớp chữ PDF hỏng nhiều ký hiệu toán; mọi pseudocode, công thức và hình trong bản tổng hợp được đọc lại từ ảnh trang 624–642.** Cụ thể: chữ v (đỉnh) bị mất hoàn toàn, `.u; /` là (u, v), `: key` là v.key, `: D u` là v.π = u (ký hiệu π cũng mất); dấu ≠, ≤, ≥, ∞, ∅ mất (ví dụ `jEjjVj/NUL 1` là |E| ≥ |V| − 1, `u:keyD1` là u.key = ∞, `Q¤;` là Q ≠ ∅); `˛.V /` là α(V). Chỗ hỏng nặng nhất ở Ghi chú chương trang 642: lớp chữ in "O(E lg V)" và "O(E lg lg V)" cho thuật toán của Fredman–Tarjan và của Gabow–Galil–Spencer–Tarjan, nhưng ảnh trang cho thấy đúng là **O(E lg\* V)** và **O(E lg lg\* V)** (có dấu sao của hàm logarit lặp); "Ey˛.E; V /" là O(E α̂(E, V)); ".V lg V/" là |E| = Ω(V lg V). Ba hình nhiều bước — Hình 23.4 (14 bước của Kruskal, trang 632–633), Hình 23.5 (9 bước của Prim, trang 635) và Hình 23.2 (lát cắt, trang 627) — không đọc được từ lớp chữ; người tổng hợp đọc từ ảnh và tái hiện thành bảng.
+- **Thủ tục MST-REDUCE của Problem 23-2 không loại khuyên (self-loop) — nhận xét của người tổng hợp.** Ở dòng 12–21, một cạnh (x, y) mà hai đầu mút đã được gộp vào cùng một tập (FIND-SET(x) = FIND-SET(y) = u) sẽ được thêm vào G′.E dưới dạng cạnh (u, u). Đồ thị co lại theo đúng nghĩa ở Mục B.4 không có khuyên. Cần thêm điều kiện "nếu u ≠ v" trước dòng 15. Khuyên không làm Prim sai (một khuyên không bao giờ được chọn vì đầu kia đã ở trong cây), nhưng làm sai định nghĩa và tốn thời gian. Người tổng hợp không chắc chỗ này có trong danh sách lỗi chính thức (errata) hay không.
+- **Ví dụ chạy tay đã tự kiểm tra lại và đúng:** cây khung nhỏ nhất của đồ thị 9 đỉnh, 14 cạnh có tổng trọng số 37; Kruskal (Hình 23.4) thêm lần lượt các cạnh trọng số 1, 2, 2, 4, 4, 7, 8, 9 (tổng 37) và loại các cạnh 6, 7, 8, 10, 11, 14; Prim từ gốc a (Hình 23.5) thêm các đỉnh theo thứ tự a, b, c, i, f, g, h, d, e, tổng 37. **Một điểm dễ bỏ sót:** cây mà Kruskal trả về trong Hình 23.4 chứa cạnh (a, h) chứ không chứa (b, c), tức là khác với cây tô đậm trong Hình 23.1 và khác cây của Prim trong Hình 23.5 — cả ba đều nặng 37, khớp với chú thích của Hình 23.1 rằng cây khung nhỏ nhất của đồ thị này không duy nhất.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương này trở thành Chương 21 (vì hai chương đống Fibonacci và cây van Emde Boas bị bỏ khỏi bản in, các chương sau được đánh số lại). Nội dung cốt lõi (GENERIC-MST, Định lý 23.1, Kruskal, Prim) giữ nguyên. Tôi nhớ (không chắc chắn) rằng pseudocode Prim ở ấn bản 4 viết tường minh lời gọi INSERT vào Q và DECREASE-KEY thay vì gán khoá ngầm. Các khác biệt nhỏ hơn về bài tập, người tổng hợp không nhớ chắc nên không liệt kê.

@@ -1,17 +1,16 @@
 # Chương 25 — Đường đi ngắn nhất giữa mọi cặp đỉnh (All-Pairs Shortest Paths)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VI "Graph Algorithms", Chương 25 "All-Pairs Shortest Paths", trang 684–707.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) cho phương pháp quy hoạch động bốn bước (mô tả cấu trúc lời giải tối ưu, định nghĩa đệ quy giá trị tối ưu, tính từ dưới lên, dựng lại lời giải) — chương này áp dụng đúng phương pháp đó hai lần, với hai cách chia bài toán con khác nhau. Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cho thủ tục nhân ma trận vuông SQUARE-MATRIX-MULTIPLY mà Mục 25.1 bắt chước. Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) cho đống Fibonacci, cấu trúc làm Dijkstra chạy O(V lg V + E). Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) cho cách biểu diễn đồ thị bằng danh sách kề và ma trận kề, thủ tục PRINT-PATH, tìm kiếm theo chiều rộng/sâu và thành phần liên thông mạnh. Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)) giải bài toán đường đi ngắn nhất từ một nguồn: tính chất "đường con của đường ngắn nhất là đường ngắn nhất" (Bổ đề 24.1), bất đẳng thức tam giác (Bổ đề 24.10), thuật toán Bellman-Ford (cạnh âm được, phát hiện chu trình âm) và Dijkstra (chỉ cạnh không âm). Chương 25 mở rộng sang bài toán cho MỌI cặp đỉnh: ba thuật toán (nhân ma trận lặp, Floyd-Warshall, Johnson) đều tốt hơn chạy Bellman-Ford |V| lần. Chương 26 ([C26-luong-cuc-dai.md](C26-luong-cuc-dai.md)) chuyển sang bài toán luồng cực đại, chương đồ thị cuối của Phần VI. Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) và phần ghi chú về nhân ma trận nhanh liên quan tới các thuật toán mọi-cặp-đỉnh dùng phép nhân ma trận dưới bậc ba.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **bài toán đường đi ngắn nhất giữa mọi cặp đỉnh có thể giải tốt hơn việc chạy thuật toán một nguồn |V| lần: với đồ thị dày dùng quy hoạch động trên ma trận kề — Floyd-Warshall chạy Θ(V³) với hằng số rất nhỏ, chấp nhận cạnh âm; với đồ thị thưa dùng thuật toán Johnson — đổi trọng số (reweighting) bằng một hàm thế h(v) = δ(s, v) do Bellman-Ford tính một lần, khiến mọi cạnh không âm mà không đổi đường ngắn nhất, rồi chạy Dijkstra từ mọi đỉnh, tổng O(V² lg V + VE); ngoài ra, phép tính đường đi ngắn nhất có cùng cấu trúc đại số với phép nhân ma trận khi thay (+, ·) bằng (min, +).** Phần mở đầu đặt bài toán: đầu vào là ma trận trọng số W = (wᵢⱼ) với wᵢᵢ = 0, wᵢⱼ = ∞ khi không có cạnh; đầu ra là ma trận khoảng cách D = (dᵢⱼ) và ma trận tiền bối Π = (πᵢⱼ); cho thủ tục PRINT-ALL-PAIRS-SHORTEST-PATH. Mục 25.1 định nghĩa l⁽ᵐ⁾ᵢⱼ là trọng số nhỏ nhất của đường đi từ i tới j có không quá m cạnh, được truy hồi l⁽ᵐ⁾ᵢⱼ = min over k của (l⁽ᵐ⁻¹⁾ᵢₖ + wₖⱼ); mỗi bước là một "phép nhân ma trận" kiểu (min, +) EXTEND-SHORTEST-PATHS tốn Θ(n³); làm n − 2 lần ra SLOW-ALL-PAIRS-SHORTEST-PATHS Θ(n⁴); vì phép "nhân" này có tính kết hợp, bình phương lặp (repeated squaring) chỉ cần ⌈lg(n − 1)⌉ lần, ra FASTER-ALL-PAIRS-SHORTEST-PATHS Θ(n³ lg n). Mục 25.2 đổi cách chia bài toán con: d⁽ᵏ⁾ᵢⱼ là trọng số đường ngắn nhất từ i tới j mà mọi đỉnh trung gian thuộc {1, …, k}; hoặc đường không qua k, hoặc đi i ⇝ k ⇝ j, nên d⁽ᵏ⁾ᵢⱼ = min(d⁽ᵏ⁻¹⁾ᵢⱼ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ) — thuật toán FLOYD-WARSHALL ba vòng lặp lồng nhau, Θ(n³); ma trận tiền bối được tính kèm theo (25.6)–(25.7); cùng khung đó với phép (∨, ∧) cho bao đóng bắc cầu TRANSITIVE-CLOSURE. Mục 25.3 trình bày thuật toán Johnson: Bổ đề 25.1 chứng minh đổi trọng số ŵ(u, v) = w(u, v) + h(u) − h(v) với h tuỳ ý giữ nguyên đường ngắn nhất và giữ nguyên dấu của chu trình (vì tổng "lồng kính" chỉ còn h(v₀) − h(vₖ)); thêm đỉnh nguồn mới s nối tới mọi đỉnh bằng cạnh trọng số 0, lấy h(v) = δ(s, v) thì bất đẳng thức tam giác cho ŵ ≥ 0; JOHNSON gồm một lần Bellman-Ford O(VE) và |V| lần Dijkstra.
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong chương này, và không có bài tập hay bài toán nào được đánh dấu sao.**
-> - **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương:** chỉ số trên có ngoặc vỡ thành dạng `l .m/NUL1/ij` (là l⁽ᵐ⁻¹⁾ᵢⱼ), `‚.V 3 lg V/` là Θ(V³ lg V), `1` là ∞, `/NUL` là dấu trừ, `yw` là ŵ, `yı` là δ̂, `¤` là ≠, mất hết dấu ≤ ≥ (ví dụ "for m 1" là m ≥ 1, "n/NUL 1 2m < 2n/NUL 2" là n − 1 ≤ 2m < 2n − 2). Các ma trận ở Hình 25.1, 25.4, 25.5 bị dồn số thành chuỗi không tách được ("03 8 1/NUL 4"); chú thích Hình 25.6 bị xáo thứ tự dòng. Toàn bộ pseudocode, công thức (25.1)–(25.10), các ma trận và hình trong bản tổng hợp được đọc lại từ ảnh trang 685, 687–692, 694–699, 701–704, 706–707; đồ thị Hình 25.2 và Hình 25.6 được phóng to riêng để đọc đúng chiều mũi tên và trọng số.
-> - **Chỗ sách in thiếu (nhận xét của người tổng hợp):** (1) trang 702 viết "the usual |V| × |V| matrix D = dᵢⱼ" — thiếu ngoặc, đúng ra D = (dᵢⱼ) như mọi chỗ khác; (2) Ghi chú chương trang 707 viết các thuật toán của Galil–Margalit và Seidel chạy "in (V^ω p(V)) time" — thiếu chữ O, đúng ra O(V^ω p(V)); (3) trang 693 viết trong ngoặc "(Path p is simple.)" về đường trọng số nhỏ nhất p — khi đồ thị có chu trình trọng số 0, đường nhỏ nhất có thể không đơn; chính xác hơn là "có thể chọn p đơn". Chính đồ thị ví dụ của sách (Hình 25.1) có chu trình 4 → 3 → 2 → 4 trọng số −5 + 4 + 1 = 0. (4) Thủ tục FLOYD-WARSHALL dựa vào điều kiện d⁽ᵏ⁻¹⁾ₖₖ = 0, đúng khi không có chu trình âm; sách nêu giả định này ở đầu mục nhưng không nhắc lại khi dùng. Người tổng hợp không chắc các chỗ này có trong danh sách lỗi chính thức (errata) hay không — theo hiểu biết của người tổng hợp, không tra cứu.
-> - **Exercise 25.2-5 (nhận xét của người tổng hợp):** đề hỏi một cách xử lý dấu bằng khác cho (25.7) "có đúng không". Theo tính toán của người tổng hợp câu trả lời là KHÔNG (hai phản ví dụ ở phần Bài tập), dù một số lời giải lưu hành trên mạng trả lời "đúng" — người tổng hợp không tra cứu, chỉ tự kiểm tra.
-> - **Mọi ví dụ chạy tay trong sách đã được tự tính lại và đều đúng:** bốn ma trận L⁽¹⁾…L⁽⁴⁾ của Hình 25.1 (và L⁽⁵⁾ = L⁽⁴⁾ như chú thích hình gợi ý); sáu cặp ma trận D⁽ᵏ⁾, Π⁽ᵏ⁾ của Hình 25.4; năm ma trận T⁽ᵏ⁾ của Hình 25.5; các giá trị h, trọng số mới ŵ và mười cặp δ̂/δ ở Hình 25.6. Người tổng hợp cũng tự tính lời giải cho Exercise 25.1-1, 25.2-1, 25.3-1 trên đồ thị Hình 25.2.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương này thành Chương 23 (do Phần VI được đánh số lại); ba thuật toán (nhân ma trận lặp, Floyd-Warshall kèm bao đóng bắc cầu, Johnson) vẫn giữ nguyên. Ấn bản 4 bỏ thuộc tính `A.rows`, truyền kích thước n như một tham số của thủ tục. Các thay đổi chi tiết hơn về ký hiệu và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **bài toán đường đi ngắn nhất giữa mọi cặp đỉnh có thể giải tốt hơn việc chạy thuật toán một nguồn |V| lần: với đồ thị dày dùng quy hoạch động trên ma trận kề — Floyd-Warshall chạy Θ(V³) với hằng số rất nhỏ, chấp nhận cạnh âm; với đồ thị thưa dùng thuật toán Johnson — đổi trọng số (reweighting) bằng một hàm thế h(v) = δ(s, v) do Bellman-Ford tính một lần, khiến mọi cạnh không âm mà không đổi đường ngắn nhất, rồi chạy Dijkstra từ mọi đỉnh, tổng O(V² lg V + VE); ngoài ra, phép tính đường đi ngắn nhất có cùng cấu trúc đại số với phép nhân ma trận khi thay (+, ·) bằng (min, +).**
+
+Phần mở đầu đặt bài toán: đầu vào là ma trận trọng số W = (wᵢⱼ) với wᵢᵢ = 0, wᵢⱼ = ∞ khi không có cạnh; đầu ra là ma trận khoảng cách D = (dᵢⱼ) và ma trận tiền bối Π = (πᵢⱼ); cho thủ tục PRINT-ALL-PAIRS-SHORTEST-PATH.
+
+Mục 25.1 định nghĩa l⁽ᵐ⁾ᵢⱼ là trọng số nhỏ nhất của đường đi từ i tới j có không quá m cạnh, được truy hồi l⁽ᵐ⁾ᵢⱼ = min over k của (l⁽ᵐ⁻¹⁾ᵢₖ + wₖⱼ); mỗi bước là một "phép nhân ma trận" kiểu (min, +) EXTEND-SHORTEST-PATHS tốn Θ(n³); làm n − 2 lần ra SLOW-ALL-PAIRS-SHORTEST-PATHS Θ(n⁴); vì phép "nhân" này có tính kết hợp, bình phương lặp (repeated squaring) chỉ cần ⌈lg(n − 1)⌉ lần, ra FASTER-ALL-PAIRS-SHORTEST-PATHS Θ(n³ lg n).
+
+Mục 25.2 đổi cách chia bài toán con: d⁽ᵏ⁾ᵢⱼ là trọng số đường ngắn nhất từ i tới j mà mọi đỉnh trung gian thuộc {1, …, k}; hoặc đường không qua k, hoặc đi i ⇝ k ⇝ j, nên d⁽ᵏ⁾ᵢⱼ = min(d⁽ᵏ⁻¹⁾ᵢⱼ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ) — thuật toán FLOYD-WARSHALL ba vòng lặp lồng nhau, Θ(n³); ma trận tiền bối được tính kèm theo (25.6)–(25.7); cùng khung đó với phép (∨, ∧) cho bao đóng bắc cầu TRANSITIVE-CLOSURE.
+
+Mục 25.3 trình bày thuật toán Johnson: Bổ đề 25.1 chứng minh đổi trọng số ŵ(u, v) = w(u, v) + h(u) − h(v) với h tuỳ ý giữ nguyên đường ngắn nhất và giữ nguyên dấu của chu trình (vì tổng "lồng kính" chỉ còn h(v₀) − h(vₖ)); thêm đỉnh nguồn mới s nối tới mọi đỉnh bằng cạnh trọng số 0, lấy h(v) = δ(s, v) thì bất đẳng thức tam giác cho ŵ ≥ 0; JOHNSON gồm một lần Bellman-Ford O(VE) và |V| lần Dijkstra.
 
 ## Sơ đồ
 
@@ -1093,7 +1092,13 @@ G = (V, E) là **ε-dày** nếu |E| = Θ(V^(1+ε)) với hằng ε, 0 < ε ≤ 
 
 ### Trong ngôn ngữ khoa học máy tính
 
-Bài toán APSP: cho G = (V, E), w: E → ℝ không chu trình âm, tính D = (δ(i, j)). Mục 25.1: L⁽ᵐ⁾ = L⁽ᵐ⁻¹⁾ ⊗ W trong nửa vành (ℝ ∪ {∞}, min, +), D = W^⊗(n−1); SLOW Θ(n⁴), FASTER Θ(n³ lg n) bằng bình phương lặp; bộ nhớ Θ(n²) nếu chỉ giữ hai ma trận. Mục 25.2: d⁽ᵏ⁾ᵢⱼ = min(d⁽ᵏ⁻¹⁾ᵢⱼ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ), Θ(n³) thời gian, Θ(n²) bộ nhớ; bao đóng bắc cầu Θ(n³) phép toán bit, hoặc O(VE) bằng |V| lần BFS. Mục 25.3: ŵ(u, v) = w(u, v) + h(u) − h(v), ŵ(p) = w(p) + h(v₀) − h(vₖ), h = δ(s, ·) trên G′ = (V ∪ {s}, E ∪ {s} × V); Johnson O(VE + V(V lg V + E)) = O(V² lg V + VE) với đống Fibonacci, O(VE lg V) với đống nhị phân. Cận dưới hiển nhiên: Ω(V²) vì đầu ra có V² ô. Thuật toán tốt nhất biết đến trong sách (ghi chú) chỉ nhỉnh hơn Θ(V³) một thừa số dưới lôgarit cho đồ thị tổng quát có trọng số thực.
+Bài toán APSP: cho G = (V, E), w: E → ℝ không chu trình âm, tính D = (δ(i, j)). Mục 25.1: L⁽ᵐ⁾ = L⁽ᵐ⁻¹⁾ ⊗ W trong nửa vành (ℝ ∪ {∞}, min, +), D = W^⊗(n−1); SLOW Θ(n⁴), FASTER Θ(n³ lg n) bằng bình phương lặp; bộ nhớ Θ(n²) nếu chỉ giữ hai ma trận.
+
+Mục 25.2: d⁽ᵏ⁾ᵢⱼ = min(d⁽ᵏ⁻¹⁾ᵢⱼ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ), Θ(n³) thời gian, Θ(n²) bộ nhớ; bao đóng bắc cầu Θ(n³) phép toán bit, hoặc O(VE) bằng |V| lần BFS.
+
+Mục 25.3: ŵ(u, v) = w(u, v) + h(u) − h(v), ŵ(p) = w(p) + h(v₀) − h(vₖ), h = δ(s, ·) trên G′ = (V ∪ {s}, E ∪ {s} × V); Johnson O(VE + V(V lg V + E)) = O(V² lg V + VE) với đống Fibonacci, O(VE lg V) với đống nhị phân.
+
+Cận dưới hiển nhiên: Ω(V²) vì đầu ra có V² ô. Thuật toán tốt nhất biết đến trong sách (ghi chú) chỉ nhỉnh hơn Θ(V³) một thừa số dưới lôgarit cho đồ thị tổng quát có trọng số thực.
 
 ## Thuật ngữ
 
@@ -1179,7 +1184,11 @@ Phép đối chiếu (min, +) với (+, ·) không chỉ là chuyện thú vị:
 
 ### So với thực tế
 
-Theo hiểu biết của người tổng hợp: Floyd-Warshall vẫn là cách thông dụng nhất cho đồ thị dày cỡ vài nghìn đỉnh (định tuyến trong mạng nhỏ, tiền xử lý bảng khoảng cách trong trò chơi, tính độ trung tâm). Với đồ thị lớn và thưa (mạng đường bộ, mạng xã hội), không ai tính bảng V × V đầy đủ vì bộ nhớ; người ta dùng Dijkstra theo yêu cầu cộng tiền xử lý (contraction hierarchies, nhãn khoảng cách), hoặc BFS song song cho đồ thị không trọng số. Johnson ít xuất hiện nguyên dạng nhưng ý tưởng hàm thế của nó là nền tảng của thuật toán luồng chi phí nhỏ nhất và A*. Phép nhân ma trận (min, +) là đối tượng nghiên cứu lý thuyết lớn: giả thuyết APSP (không có thuật toán O(n^(3−ε)) cho APSP trọng số thực) là một giả thuyết trung tâm của "độ phức tạp chi tiết" (fine-grained complexity), và R. Williams (2014) đạt n³ / 2^(Ω(√lg n)) — tốt hơn mọi thuật toán trong ghi chú chương, nhưng vẫn không phải O(n^(3−ε)).
+Theo hiểu biết của người tổng hợp: Floyd-Warshall vẫn là cách thông dụng nhất cho đồ thị dày cỡ vài nghìn đỉnh (định tuyến trong mạng nhỏ, tiền xử lý bảng khoảng cách trong trò chơi, tính độ trung tâm). Với đồ thị lớn và thưa (mạng đường bộ, mạng xã hội), không ai tính bảng V × V đầy đủ vì bộ nhớ; người ta dùng Dijkstra theo yêu cầu cộng tiền xử lý (contraction hierarchies, nhãn khoảng cách), hoặc BFS song song cho đồ thị không trọng số.
+
+Johnson ít xuất hiện nguyên dạng nhưng ý tưởng hàm thế của nó là nền tảng của thuật toán luồng chi phí nhỏ nhất và A*.
+
+Phép nhân ma trận (min, +) là đối tượng nghiên cứu lý thuyết lớn: giả thuyết APSP (không có thuật toán O(n^(3−ε)) cho APSP trọng số thực) là một giả thuyết trung tâm của "độ phức tạp chi tiết" (fine-grained complexity), và R. Williams (2014) đạt n³ / 2^(Ω(√lg n)) — tốt hơn mọi thuật toán trong ghi chú chương, nhưng vẫn không phải O(n^(3−ε)).
 
 ### Liên hệ các chương khác
 
@@ -1197,3 +1206,116 @@ Theo hiểu biết của người tổng hợp: Floyd-Warshall vẫn là cách t
 - **Phỏng vấn:** viết Floyd-Warshall đúng thứ tự vòng lặp (k ngoài cùng) và giải thích vì sao; "tìm thành phố có ít hàng xóm nhất trong ngưỡng khoảng cách" (LeetCode 1334) và "kiểm tra điều kiện tiên quyết gián tiếp" (LeetCode 1462, bao đóng bắc cầu) là hai bài quen thuộc; giải thích vì sao không dịch trọng số bằng hằng số để dùng Dijkstra (Exercise 25.3-4).
 - **Lập trình thi đấu:** Floyd-Warshall cho n ≤ ~500; bao đóng bắc cầu bằng `bitset` (n ≤ ~2000); lũy thừa ma trận (min, +) cho "đường đi đúng/không quá K cạnh" với K lớn; Johnson / hàm thế cho min-cost flow với cạnh âm; phát hiện chu trình âm qua dᵢᵢ < 0; cẩn thận tràn số khi cộng hai giá trị "∞" (dùng ∞ khoảng 10¹⁸/4 hoặc kiểm tra trước khi cộng).
 - **Kỹ thuật phần mềm:** chọn thuật toán theo mật độ đồ thị và cỡ bộ nhớ; với đồ thị lớn, tính theo yêu cầu thay vì bảng đầy đủ; dùng thư viện (NetworkX, SciPy csgraph, Boost Graph Library có `floyd_warshall_all_pairs_shortest_paths` và `johnson_all_pairs_shortest_paths` — theo hiểu biết của người tổng hợp) thay vì tự cài; bao đóng bắc cầu cho phân tích phụ thuộc và phân quyền.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 25 trên một trang: sáu nhánh lớn đi theo trình tự của chương gốc (phần mở đầu với bài toán và cách giải ngây thơ, Mục 25.1 nhân ma trận, Mục 25.2 Floyd-Warshall và bao đóng bắc cầu, Mục 25.3 Johnson, các bài toán cuối chương và ghi chú chương), mỗi nhánh ghi công thức truy hồi, thủ tục, bổ đề và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 25: đường đi ngắn nhất mọi cặp đỉnh giải tốt hơn chạy |V| lần một nguồn, Floyd-Warshall Θ(V³) cho đồ thị dày, Johnson O(V² lg V + VE) cho đồ thị thưa`"]
+  n1["`Phần mở đầu chương — Bài toán và cách giải ngây thơ`"]
+  n0 --- n1
+  n2["`Đầu ra là bảng khoảng cách D = (dᵢⱼ) và ma trận tiền bối Π, hàng i của Π là cây đường đi ngắn nhất gốc i`"]
+  n1 --- n2
+  n3["`Chạy Dijkstra |V| lần tốn O(V³) với mảng hoặc O(V² lg V + VE) với đống Fibonacci, chỉ khi cạnh không âm`"]
+  n1 --- n3
+  n4["`Chạy Bellman-Ford |V| lần tốn O(V²E), tức O(V⁴) với đồ thị dày`"]
+  n1 --- n4
+  n5["`Đầu vào ma trận trọng số W với wᵢᵢ = 0 và ∞ khi không có cạnh, cho phép cạnh âm nhưng không chu trình âm`"]
+  n1 --- n5
+  n6["`Mục 25.1 — Đường đi ngắn nhất và phép nhân ma trận`"]
+  n0 --- n6
+  n7["`l⁽ᵐ⁾ᵢⱼ là trọng số nhỏ nhất của đường từ i tới j có không quá m cạnh`"]
+  n6 --- n7
+  n8["`Truy hồi l⁽ᵐ⁾ᵢⱼ = min theo k của l⁽ᵐ⁻¹⁾ᵢₖ + wₖⱼ, đáp số là L⁽ⁿ⁻¹⁾ vì đường ngắn nhất đơn có tối đa n − 1 cạnh`"]
+  n6 --- n8
+  n9["`EXTEND-SHORTEST-PATHS chính là nhân ma trận khi thay (+, ·) bằng (min, +), tốn Θ(n³)`"]
+  n6 --- n9
+  n10["`SLOW-ALL-PAIRS-SHORTEST-PATHS làm n − 2 phép tích, chạy Θ(n⁴)`"]
+  n6 --- n10
+  n11["`Phép tích (min, +) có tính kết hợp nên bình phương lặp chỉ cần ⌈lg(n − 1)⌉ phép tích, chạy Θ(n³ lg n)`"]
+  n6 --- n11
+  n12["`Mục 25.2 — Thuật toán Floyd-Warshall`"]
+  n0 --- n12
+  n13["`d⁽ᵏ⁾ᵢⱼ là đường ngắn nhất từ i tới j chỉ dùng đỉnh trung gian trong {1, …, k}`"]
+  n12 --- n13
+  n14["`Đường hoặc không qua k, hoặc đi i tới k rồi k tới j: d⁽ᵏ⁾ᵢⱼ = min(d⁽ᵏ⁻¹⁾ᵢⱼ, d⁽ᵏ⁻¹⁾ᵢₖ + d⁽ᵏ⁻¹⁾ₖⱼ)`"]
+  n12 --- n14
+  n15["`FLOYD-WARSHALL ba vòng lặp lồng nhau với k ngoài cùng, Θ(n³), hằng số nhỏ`"]
+  n12 --- n15
+  n16["`Ma trận tiền bối Π⁽ᵏ⁾ tính song song với D⁽ᵏ⁾ theo công thức (25.6)–(25.7)`"]
+  n12 --- n16
+  n17["`Bao đóng bắc cầu TRANSITIVE-CLOSURE thay (min, +) bằng (∨, ∧), vẫn Θ(n³) nhưng phép toán bit nhanh và ít bộ nhớ`"]
+  n12 --- n17
+  n18["`Mục 25.3 — Thuật toán Johnson cho đồ thị thưa`"]
+  n0 --- n18
+  n19["`Đổi trọng số ŵ(u, v) = w(u, v) + h(u) − h(v) để mọi cạnh không âm rồi chạy Dijkstra`"]
+  n18 --- n19
+  n20["`Bổ đề 25.1: tổng lồng kính chỉ còn h(v₀) − h(vₖ) nên giữ nguyên đường ngắn nhất và dấu của chu trình`"]
+  n18 --- n20
+  n21["`Thêm đỉnh nguồn mới s nối tới mọi đỉnh bằng cạnh trọng số 0, lấy h(v) = δ(s, v)`"]
+  n18 --- n21
+  n22["`Bất đẳng thức tam giác cho h(v) ≤ h(u) + w(u, v) nên ŵ ≥ 0`"]
+  n18 --- n22
+  n23["`JOHNSON gồm một lần Bellman-Ford O(VE) để tính h hoặc báo chu trình âm, rồi |V| lần Dijkstra`"]
+  n18 --- n23
+  n24["`Đáp số dᵤᵥ = δ̂(u, v) + h(v) − h(u), tổng O(V² lg V + VE) với đống Fibonacci`"]
+  n18 --- n24
+  n25["`Bài toán 25-1, 25-2 và ghi chú chương`"]
+  n0 --- n25
+  n26["`Problem 25-1: bao đóng bắc cầu của đồ thị chỉ thêm cạnh, cập nhật O(V²) mỗi cạnh, tổng O(V³)`"]
+  n25 --- n26
+  n27["`Problem 25-2: đồ thị ε-dày dùng đống d-phân với d = V^ε, mọi cặp chạy O(VE)`"]
+  n25 --- n27
+  n28["`Floyd-Warshall dựa trên định lý của Warshall về bao đóng bắc cầu của ma trận Boole`"]
+  n25 --- n28
+  n29["`Nhân ma trận nhanh O(n^ω) cho thuật toán Galil–Margalit, Seidel trên đồ thị vô hướng không trọng số`"]
+  n25 --- n29
+  n30["`Aho–Hopcroft–Ullman: nửa vành đóng là khung chung, Floyd-Warshall và bao đóng bắc cầu là hai trường hợp riêng`"]
+  n25 --- n30
+  n31["`Thông điệp xuyên suốt`"]
+  n0 --- n31
+  n32["`Cùng một bài toán, hai cách chia bài toán con theo số cạnh và theo đỉnh trung gian cho hai độ phức tạp khác nhau`"]
+  n31 --- n32
+  n33["`Chọn biến trạng thái quyết định độ phức tạp, đúng tinh thần quy hoạch động của Chương 15`"]
+  n31 --- n33
+  n34["`Góc nhìn đại số (min, +) giải thích bình phương lặp và nối Floyd-Warshall với Warshall`"]
+  n31 --- n34
+  n35["`Ý tưởng hàm thế của Johnson dùng lại trong luồng chi phí nhỏ nhất và A∗`"]
+  n31 --- n35
+  n36["`Đồ thị dày dùng Floyd-Warshall, đồ thị thưa có cạnh âm dùng Johnson`"]
+  n31 --- n36
+  class n0 root
+  class n1,n6,n12,n18,n25,n31 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VI "Graph Algorithms", Chương 25 "All-Pairs Shortest Paths", trang 684–707.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) cho phương pháp quy hoạch động bốn bước (mô tả cấu trúc lời giải tối ưu, định nghĩa đệ quy giá trị tối ưu, tính từ dưới lên, dựng lại lời giải) — chương này áp dụng đúng phương pháp đó hai lần, với hai cách chia bài toán con khác nhau. Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cho thủ tục nhân ma trận vuông SQUARE-MATRIX-MULTIPLY mà Mục 25.1 bắt chước. Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) cho đống Fibonacci, cấu trúc làm Dijkstra chạy O(V lg V + E).
+
+Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) cho cách biểu diễn đồ thị bằng danh sách kề và ma trận kề, thủ tục PRINT-PATH, tìm kiếm theo chiều rộng/sâu và thành phần liên thông mạnh. Chương 24 ([C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)) giải bài toán đường đi ngắn nhất từ một nguồn: tính chất "đường con của đường ngắn nhất là đường ngắn nhất" (Bổ đề 24.1), bất đẳng thức tam giác (Bổ đề 24.10), thuật toán Bellman-Ford (cạnh âm được, phát hiện chu trình âm) và Dijkstra (chỉ cạnh không âm).
+
+Chương 25 mở rộng sang bài toán cho MỌI cặp đỉnh: ba thuật toán (nhân ma trận lặp, Floyd-Warshall, Johnson) đều tốt hơn chạy Bellman-Ford |V| lần. Chương 26 ([C26-luong-cuc-dai.md](C26-luong-cuc-dai.md)) chuyển sang bài toán luồng cực đại, chương đồ thị cuối của Phần VI. Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) và phần ghi chú về nhân ma trận nhanh liên quan tới các thuật toán mọi-cặp-đỉnh dùng phép nhân ma trận dưới bậc ba.
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong chương này, và không có bài tập hay bài toán nào được đánh dấu sao.**
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương:** chỉ số trên có ngoặc vỡ thành dạng `l .m/NUL1/ij` (là l⁽ᵐ⁻¹⁾ᵢⱼ), `‚.V 3 lg V/` là Θ(V³ lg V), `1` là ∞, `/NUL` là dấu trừ, `yw` là ŵ, `yı` là δ̂, `¤` là ≠, mất hết dấu ≤ ≥ (ví dụ "for m 1" là m ≥ 1, "n/NUL 1 2m < 2n/NUL 2" là n − 1 ≤ 2m < 2n − 2). Các ma trận ở Hình 25.1, 25.4, 25.5 bị dồn số thành chuỗi không tách được ("03 8 1/NUL 4"); chú thích Hình 25.6 bị xáo thứ tự dòng. Toàn bộ pseudocode, công thức (25.1)–(25.10), các ma trận và hình trong bản tổng hợp được đọc lại từ ảnh trang 685, 687–692, 694–699, 701–704, 706–707; đồ thị Hình 25.2 và Hình 25.6 được phóng to riêng để đọc đúng chiều mũi tên và trọng số.
+- **Chỗ sách in thiếu (nhận xét của người tổng hợp):** (1) trang 702 viết "the usual |V| × |V| matrix D = dᵢⱼ" — thiếu ngoặc, đúng ra D = (dᵢⱼ) như mọi chỗ khác; (2) Ghi chú chương trang 707 viết các thuật toán của Galil–Margalit và Seidel chạy "in (V^ω p(V)) time" — thiếu chữ O, đúng ra O(V^ω p(V)); (3) trang 693 viết trong ngoặc "(Path p is simple.)" về đường trọng số nhỏ nhất p — khi đồ thị có chu trình trọng số 0, đường nhỏ nhất có thể không đơn; chính xác hơn là "có thể chọn p đơn". Chính đồ thị ví dụ của sách (Hình 25.1) có chu trình 4 → 3 → 2 → 4 trọng số −5 + 4 + 1 = 0. (4) Thủ tục FLOYD-WARSHALL dựa vào điều kiện d⁽ᵏ⁻¹⁾ₖₖ = 0, đúng khi không có chu trình âm; sách nêu giả định này ở đầu mục nhưng không nhắc lại khi dùng. Người tổng hợp không chắc các chỗ này có trong danh sách lỗi chính thức (errata) hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Exercise 25.2-5 (nhận xét của người tổng hợp):** đề hỏi một cách xử lý dấu bằng khác cho (25.7) "có đúng không". Theo tính toán của người tổng hợp câu trả lời là KHÔNG (hai phản ví dụ ở phần Bài tập), dù một số lời giải lưu hành trên mạng trả lời "đúng" — người tổng hợp không tra cứu, chỉ tự kiểm tra.
+- **Mọi ví dụ chạy tay trong sách đã được tự tính lại và đều đúng:** bốn ma trận L⁽¹⁾…L⁽⁴⁾ của Hình 25.1 (và L⁽⁵⁾ = L⁽⁴⁾ như chú thích hình gợi ý); sáu cặp ma trận D⁽ᵏ⁾, Π⁽ᵏ⁾ của Hình 25.4; năm ma trận T⁽ᵏ⁾ của Hình 25.5; các giá trị h, trọng số mới ŵ và mười cặp δ̂/δ ở Hình 25.6. Người tổng hợp cũng tự tính lời giải cho Exercise 25.1-1, 25.2-1, 25.3-1 trên đồ thị Hình 25.2.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương này thành Chương 23 (do Phần VI được đánh số lại); ba thuật toán (nhân ma trận lặp, Floyd-Warshall kèm bao đóng bắc cầu, Johnson) vẫn giữ nguyên. Ấn bản 4 bỏ thuộc tính `A.rows`, truyền kích thước n như một tham số của thủ tục. Các thay đổi chi tiết hơn về ký hiệu và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.

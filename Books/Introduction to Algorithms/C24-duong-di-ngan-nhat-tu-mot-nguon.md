@@ -1,16 +1,16 @@
 # Chương 24 — Đường đi ngắn nhất từ một nguồn (Single-Source Shortest Paths)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VI "Graph Algorithms", Chương 24 "Single-Source Shortest Paths", trang 643–683.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) cho cách biểu diễn đồ thị bằng danh sách kề, tìm kiếm theo chiều rộng (BFS — chính là thuật toán đường đi ngắn nhất khi mọi cạnh có trọng số 1, kèm cây BFS và thủ tục PRINT-PATH) và sắp xếp tô-pô. Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md)) cho thuật toán Prim, thuật toán có cấu trúc gần như trùng với Dijkstra. Chương 6 ([C06-heapsort.md](C06-heapsort.md)) cho hàng đợi ưu tiên bằng đống nhị phân, Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) cho đống Fibonacci với DECREASE-KEY khấu hao O(1) — hai cấu trúc quyết định thời gian chạy của Dijkstra. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) và Chương 16 ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) cho khái niệm cấu trúc con tối ưu mà chương này dựa vào. Chương 24 giải bài toán đường đi ngắn nhất từ một nguồn trên đồ thị có hướng có trọng số bằng một kỹ thuật chung — **nới lỏng cạnh** — và ba thứ tự nới lỏng khác nhau (Bellman-Ford, theo thứ tự tô-pô cho đồ thị không chu trình, Dijkstra), rồi dùng Bellman-Ford giải một lớp quy hoạch tuyến tính đặc biệt. Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)) mở rộng sang mọi cặp đỉnh, dùng lại Bellman-Ford và Dijkstra trong thuật toán Johnson. Chương 26 ([C26-luong-cuc-dai.md](C26-luong-cuc-dai.md)) dùng đường đi ngắn nhất (theo số cạnh) trong thuật toán Edmonds-Karp. Chương 29 ([C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)) trình bày quy hoạch tuyến tính tổng quát, mà hệ ràng buộc hiệu ở Mục 24.4 là một trường hợp riêng.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **mọi thuật toán đường đi ngắn nhất từ một nguồn trong chương đều chỉ làm một việc — khởi tạo ước lượng v.d = ∞ (nguồn bằng 0) rồi lặp lại phép nới lỏng cạnh RELAX(u, v, w): "nếu đi qua u tới v rẻ hơn thì cập nhật v.d và v.π" — và chúng chỉ khác nhau ở số lần và thứ tự nới lỏng; sáu tính chất của phép nới lỏng (bất đẳng thức tam giác, cận trên, không có đường, hội tụ, nới lỏng theo đường, đồ thị con liền trước) đủ để chứng minh đúng cả ba thuật toán.** Phần mở đầu định nghĩa trọng số đường đi w(p), trọng số đường đi ngắn nhất δ(u, v) (bằng ∞ nếu không có đường, bằng −∞ nếu có chu trình âm chen vào giữa), các biến thể của bài toán, cấu trúc con tối ưu (Bổ đề 24.1), vì sao có thể giả định đường đi ngắn nhất là đường đơn (tối đa |V| − 1 cạnh), cây đường đi ngắn nhất và thủ tục RELAX. Mục 24.1 trình bày Bellman-Ford: |V| − 1 lượt, mỗi lượt nới lỏng mọi cạnh, rồi một lượt kiểm tra phát hiện chu trình âm; thời gian O(VE). Mục 24.2: với đồ thị có hướng không chu trình (dag), nới lỏng cạnh theo thứ tự tô-pô một lần là đủ, thời gian Θ(V + E); ứng dụng tìm đường găng trong sơ đồ PERT. Mục 24.3 trình bày Dijkstra cho trọng số không âm: tham lam lấy đỉnh có ước lượng nhỏ nhất bằng hàng đợi ưu tiên; thời gian O(V²) với mảng, O((V + E) lg V) với đống nhị phân, O(V lg V + E) với đống Fibonacci. Mục 24.4 chỉ ra hệ m ràng buộc hiệu xⱼ − xᵢ ≤ bₖ trên n ẩn có nghiệm khi và chỉ khi đồ thị ràng buộc không có chu trình âm, và nghiệm là xᵢ = δ(v₀, vᵢ); giải bằng Bellman-Ford trong O(n² + nm). Mục 24.5 chứng minh hình thức sáu tính chất của phép nới lỏng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chương không có mục có dấu sao (★).** Các bài tập có dấu sao: Exercise 24.1-5, 24.1-6, 24.4-8, 24.4-9, 24.4-12. Không Problem nào có dấu sao.
-> - **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương:** chữ v (đỉnh) và π (đỉnh liền trước) bị mất hẳn (ví dụ `: dD u:dC w.u; /` là `v.d = u.d + w(u, v)`, `: D NIL` là `v.π = NIL`), δ thành `ı`, ∞ thành `1`, dấu trừ thành `/NUL`, ≤ và ≥ mất hẳn (ví dụ `: d ı.s; /` không cho biết là ≥ hay ≤), ma trận A và vectơ b ở Mục 24.4 vỡ thành các cột số rời, tổng Σ ở (24.1) và (24.12) vỡ nhiều dòng; ở Exercise 24.4-8 điều kiện "xᵢ ≤ 0" mất dấu. Các hình 24.1–24.9 trong lớp chữ chỉ còn các con số rời rạc không có hướng cạnh. Mọi pseudocode, công thức, đề bài tập và mọi hình trong bản tổng hợp này đã được đọc lại từ ảnh của toàn bộ 41 trang 643–683; riêng các Hình 24.2, 24.4, 24.5, 24.6 được phóng to từ ảnh trang 648, 652, 656, 659 để xác định hướng và trọng số từng cạnh.
-> - **Chỗ chứng minh chưa chặt (nhận xét của người tổng hợp):** (1) Ở chứng minh Định lý 24.4 (phần đồ thị CÓ chu trình âm), sách viện dẫn Hệ quả 24.3 để nói các vᵢ.d trên chu trình là hữu hạn; nhưng Hệ quả 24.3 lại giả thiết đồ thị KHÔNG có chu trình âm đi tới được. Kết luận vẫn đúng — mọi đỉnh đi tới được từ s có một đường đơn ≤ |V| − 1 cạnh, và sau |V| − 1 lượt thì v.d không vượt quá trọng số đường đó nên hữu hạn — nhưng lời viện dẫn không khớp giả thiết. (2) Problem 24-4(d) viết "với mọi u, v ∈ V" trong khi ŵᵢ(u, v) chỉ được định nghĩa cho cạnh (u, v) ∈ E. (3) Problem 24-6 cho phép dãy "bitonic theo nghĩa dịch vòng", khiến số lượt quét cần thiết tăng (xem phần Bài tập); đề không nói rõ điều này ảnh hưởng tới lời giải ra sao. Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
-> - **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** δ trên đồ thị Hình 24.1 (3, −1, 5, 11, −∞, −∞, −∞, ∞, ∞, ∞); hai cây đường đi ngắn nhất ở Hình 24.2 (d = 0, 3, 9, 5, 11); bốn lượt Bellman-Ford ở Hình 24.4 (kết quả t = 2, x = 4, y = 7, z = −2, trả về TRUE); sáu bước DAG-SHORTEST-PATHS ở Hình 24.5 (kết quả s = 0, t = 2, x = 6, y = 5, z = 3, r = ∞); năm bước Dijkstra ở Hình 24.6 (kết quả t = 8, x = 9, y = 5, z = 7); nghiệm (−5, −3, 0, −1, −4) của hệ (24.3)–(24.10); phép tính 49 × 2 × 0,0107 = 1,0486 ở Problem 24-3; w₃ = 6 và w₃ = 1 ở Problem 24-4. Lời giải của các Exercise 24.1-1, 24.2-1, 24.3-1, 24.4-1, 24.4-2, 24.5-1 trong phần Bài tập do người tổng hợp tự chạy tay.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** nội dung này trở thành Chương 22 (vì ấn bản 4 bỏ một số chương cấu trúc dữ liệu ở Phần V), Chương 25 cũ (mọi cặp đỉnh) thành Chương 23. Pseudocode DIJKSTRA ở ấn bản 4 viết tường minh việc chèn từng đỉnh vào hàng đợi (INSERT) và gọi DECREASE-KEY khi RELAX làm giảm v.d, thay vì để các thao tác này "ngầm" như ấn bản 3. Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **mọi thuật toán đường đi ngắn nhất từ một nguồn trong chương đều chỉ làm một việc — khởi tạo ước lượng v.d = ∞ (nguồn bằng 0) rồi lặp lại phép nới lỏng cạnh RELAX(u, v, w): "nếu đi qua u tới v rẻ hơn thì cập nhật v.d và v.π" — và chúng chỉ khác nhau ở số lần và thứ tự nới lỏng; sáu tính chất của phép nới lỏng (bất đẳng thức tam giác, cận trên, không có đường, hội tụ, nới lỏng theo đường, đồ thị con liền trước) đủ để chứng minh đúng cả ba thuật toán.**
+
+Phần mở đầu định nghĩa trọng số đường đi w(p), trọng số đường đi ngắn nhất δ(u, v) (bằng ∞ nếu không có đường, bằng −∞ nếu có chu trình âm chen vào giữa), các biến thể của bài toán, cấu trúc con tối ưu (Bổ đề 24.1), vì sao có thể giả định đường đi ngắn nhất là đường đơn (tối đa |V| − 1 cạnh), cây đường đi ngắn nhất và thủ tục RELAX.
+
+Mục 24.1 trình bày Bellman-Ford: |V| − 1 lượt, mỗi lượt nới lỏng mọi cạnh, rồi một lượt kiểm tra phát hiện chu trình âm; thời gian O(VE). Mục 24.2: với đồ thị có hướng không chu trình (dag), nới lỏng cạnh theo thứ tự tô-pô một lần là đủ, thời gian Θ(V + E); ứng dụng tìm đường găng trong sơ đồ PERT.
+
+Mục 24.3 trình bày Dijkstra cho trọng số không âm: tham lam lấy đỉnh có ước lượng nhỏ nhất bằng hàng đợi ưu tiên; thời gian O(V²) với mảng, O((V + E) lg V) với đống nhị phân, O(V lg V + E) với đống Fibonacci.
+
+Mục 24.4 chỉ ra hệ m ràng buộc hiệu xⱼ − xᵢ ≤ bₖ trên n ẩn có nghiệm khi và chỉ khi đồ thị ràng buộc không có chu trình âm, và nghiệm là xᵢ = δ(v₀, vᵢ); giải bằng Bellman-Ford trong O(n² + nm). Mục 24.5 chứng minh hình thức sáu tính chất của phép nới lỏng.
 
 ## Sơ đồ
 
@@ -637,7 +637,7 @@ Giả sử phản chứng thuật toán trả về TRUE. Khi đó vᵢ.d ≤ v�
            = Σᵢ₌₁ᵏ vᵢ₋₁.d + Σᵢ₌₁ᵏ w(vᵢ₋₁, vᵢ)
 ```
 
-Vì v₀ = v_k, mỗi đỉnh của c xuất hiện đúng một lần trong mỗi tổng Σ vᵢ.d và Σ vᵢ₋₁.d, nên hai tổng bằng nhau. Hơn nữa, theo Hệ quả 24.3 (sách viện dẫn như vậy — xem khối Lưu ý), các vᵢ.d hữu hạn, nên có thể trừ hai vế:
+Vì v₀ = v_k, mỗi đỉnh của c xuất hiện đúng một lần trong mỗi tổng Σ vᵢ.d và Σ vᵢ₋₁.d, nên hai tổng bằng nhau. Hơn nữa, theo Hệ quả 24.3 (sách viện dẫn như vậy — xem mục Lưu ý cuối chương), các vᵢ.d hữu hạn, nên có thể trừ hai vế:
 
 ```text
 0 ≤ Σᵢ₌₁ᵏ w(vᵢ₋₁, vᵢ)
@@ -729,7 +729,9 @@ DIJKSTRA(G, w, s)
 8          RELAX(u, v, w)
 ```
 
-Dòng 1 khởi tạo d và π như thường lệ; dòng 2 khởi tạo S rỗng. Thuật toán duy trì bất biến Q = V − S ở đầu mỗi vòng while dòng 4–8. Dòng 3 khởi tạo Q chứa mọi đỉnh của V; vì lúc đó S = ∅, bất biến đúng sau dòng 3. Mỗi vòng while, dòng 5 lấy ra một đỉnh u từ Q = V − S và dòng 6 thêm nó vào S, giữ nguyên bất biến. (Vòng đầu tiên, u = s.) Vì vậy u có ước lượng nhỏ nhất trong V − S. Dòng 7–8 nới lỏng mọi cạnh (u, v) đi ra từ u, cập nhật v.d và v.π nếu đi qua u làm đường tới v ngắn hơn. Thuật toán không bao giờ chèn đỉnh vào Q sau dòng 3, và mỗi đỉnh được lấy ra khỏi Q và thêm vào S đúng một lần, nên vòng while chạy đúng |V| lần.
+Dòng 1 khởi tạo d và π như thường lệ; dòng 2 khởi tạo S rỗng. Thuật toán duy trì bất biến Q = V − S ở đầu mỗi vòng while dòng 4–8. Dòng 3 khởi tạo Q chứa mọi đỉnh của V; vì lúc đó S = ∅, bất biến đúng sau dòng 3.
+
+Mỗi vòng while, dòng 5 lấy ra một đỉnh u từ Q = V − S và dòng 6 thêm nó vào S, giữ nguyên bất biến. (Vòng đầu tiên, u = s.) Vì vậy u có ước lượng nhỏ nhất trong V − S. Dòng 7–8 nới lỏng mọi cạnh (u, v) đi ra từ u, cập nhật v.d và v.π nếu đi qua u làm đường tới v ngắn hơn. Thuật toán không bao giờ chèn đỉnh vào Q sau dòng 3, và mỗi đỉnh được lấy ra khỏi Q và thêm vào S đúng một lần, nên vòng while chạy đúng |V| lần.
 
 Vì Dijkstra luôn chọn đỉnh "nhẹ nhất" hay "gần nhất" trong V − S để thêm vào S, ta nói nó dùng **chiến lược tham lam**. Chương 16 giải thích chiến lược tham lam chi tiết, nhưng không cần đọc chương đó để hiểu Dijkstra. Nói chung tham lam không luôn cho kết quả tối ưu, nhưng định lý và hệ quả sau cho thấy Dijkstra thật sự tính đúng đường ngắn nhất. Mấu chốt là chứng minh mỗi khi thêm u vào S thì u.d = δ(s, u).
 
@@ -885,7 +887,9 @@ Một nghiệm là x = (−5, −3, 0, −1, −4), có thể kiểm tra trực 
 
 *Chứng minh.* Với mọi xᵢ và xⱼ, (xⱼ + d) − (xᵢ + d) = xⱼ − xᵢ. Vậy nếu x thoả Ax ≤ b thì x + d cũng thoả. ∎
 
-Hệ ràng buộc hiệu xuất hiện trong nhiều ứng dụng. Ví dụ, ẩn xᵢ có thể là thời điểm xảy ra các sự kiện; mỗi ràng buộc nói rằng giữa hai sự kiện phải cách nhau ít nhất hoặc nhiều nhất một khoảng thời gian. Có thể các sự kiện là công việc khi lắp ráp một sản phẩm. Nếu bôi một loại keo cần 2 giờ để khô vào thời điểm x₁, và phải chờ keo khô mới lắp một bộ phận vào thời điểm x₂, ta có ràng buộc x₂ ≥ x₁ + 2, tương đương x₁ − x₂ ≤ −2. Hoặc ta có thể yêu cầu bộ phận được lắp sau khi bôi keo nhưng không muộn hơn lúc keo khô được một nửa; khi đó có cặp ràng buộc x₂ ≥ x₁ và x₂ ≤ x₁ + 1, tương đương x₁ − x₂ ≤ 0 và x₂ − x₁ ≤ 1.
+Hệ ràng buộc hiệu xuất hiện trong nhiều ứng dụng. Ví dụ, ẩn xᵢ có thể là thời điểm xảy ra các sự kiện; mỗi ràng buộc nói rằng giữa hai sự kiện phải cách nhau ít nhất hoặc nhiều nhất một khoảng thời gian.
+
+Có thể các sự kiện là công việc khi lắp ráp một sản phẩm. Nếu bôi một loại keo cần 2 giờ để khô vào thời điểm x₁, và phải chờ keo khô mới lắp một bộ phận vào thời điểm x₂, ta có ràng buộc x₂ ≥ x₁ + 2, tương đương x₁ − x₂ ≤ −2. Hoặc ta có thể yêu cầu bộ phận được lắp sau khi bôi keo nhưng không muộn hơn lúc keo khô được một nửa; khi đó có cặp ràng buộc x₂ ≥ x₁ và x₂ ≤ x₁ + 1, tương đương x₁ − x₂ ≤ 0 và x₂ − x₁ ≤ 1.
 
 #### Đồ thị ràng buộc (Constraint graphs)
 
@@ -1231,7 +1235,11 @@ Cho n đồng tiền c₁, …, cₙ và bảng tỷ giá R cỡ n × n: một �
 
 Một **thuật toán co giãn** (scaling) giải bài toán bằng cách ban đầu chỉ xét bit cao nhất của mỗi giá trị đầu vào (như trọng số cạnh), rồi tinh chỉnh lời giải bằng hai bit cao nhất, và cứ thế xét thêm bit, tinh chỉnh mỗi lần, cho tới khi đã xét mọi bit và có lời giải đúng.
 
-Cho G = (V, E) có hướng với trọng số nguyên không âm w, W = max_{(u,v) ∈ E} w(u, v). Mục tiêu: thuật toán O(E lg W). Giả sử mọi đỉnh đi tới được từ nguồn. Gọi k = ⌈lg(W + 1)⌉ là số bit biểu diễn W, và với i = 1, …, k, đặt wᵢ(u, v) = ⌊w(u, v)/2^{k−i}⌋ — phiên bản "thu nhỏ" của w gồm i bit cao nhất (nên w_k = w). Ví dụ k = 5, w(u, v) = 25 = ⟨11001⟩ thì w₃(u, v) = ⟨110⟩ = 6; với k = 5, w(u, v) = ⟨00100⟩ = 4 thì w₃(u, v) = ⟨001⟩ = 1. (Người tổng hợp kiểm tra: ⌊25/4⌋ = 6, ⌊4/4⌋ = 1.) Gọi δᵢ(u, v) là trọng số đường đi ngắn nhất theo wᵢ; δ_k = δ. Thuật toán tính δ₁(s, ·), rồi δ₂(s, ·), …, tới δ_k(s, ·). Giả sử |E| ≥ |V| − 1; tính δᵢ từ δᵢ₋₁ tốn O(E), nên cả thuật toán O(kE) = O(E lg W).
+Cho G = (V, E) có hướng với trọng số nguyên không âm w, W = max_{(u,v) ∈ E} w(u, v). Mục tiêu: thuật toán O(E lg W). Giả sử mọi đỉnh đi tới được từ nguồn.
+
+Gọi k = ⌈lg(W + 1)⌉ là số bit biểu diễn W, và với i = 1, …, k, đặt wᵢ(u, v) = ⌊w(u, v)/2^{k−i}⌋ — phiên bản "thu nhỏ" của w gồm i bit cao nhất (nên w_k = w). Ví dụ k = 5, w(u, v) = 25 = ⟨11001⟩ thì w₃(u, v) = ⟨110⟩ = 6; với k = 5, w(u, v) = ⟨00100⟩ = 4 thì w₃(u, v) = ⟨001⟩ = 1. (Người tổng hợp kiểm tra: ⌊25/4⌋ = 6, ⌊4/4⌋ = 1.)
+
+Gọi δᵢ(u, v) là trọng số đường đi ngắn nhất theo wᵢ; δ_k = δ. Thuật toán tính δ₁(s, ·), rồi δ₂(s, ·), …, tới δ_k(s, ·). Giả sử |E| ≥ |V| − 1; tính δᵢ từ δᵢ₋₁ tốn O(E), nên cả thuật toán O(kE) = O(E lg W).
 
 - **(a)** Giả sử δ(s, v) ≤ |E| với mọi v. Chứng minh tính được mọi δ(s, v) trong O(E). (*Người tổng hợp:* Dijkstra với mảng thùng 0..|E| như Exercise 24.3-8: O(V + E) = O(E).)
 - **(b)** Chứng minh tính được δ₁(s, v) trong O(E). (*Người tổng hợp:* w₁ ∈ {0, 1}, nên δ₁ ≤ |V| − 1 ≤ |E|; áp dụng (a).)
@@ -1324,7 +1332,11 @@ Bài toán đường đi ngắn nhất từ một nguồn trên đồ thị có 
 
 ### Trong ngôn ngữ khoa học máy tính
 
-Cho G = (V, E), w: E → ℝ, nguồn s. δ(s, v) = min{w(p) : s ⇝ v} hoặc ∞; δ = −∞ khi có chu trình âm trên đường. RELAX duy trì bất biến v.d ≥ δ(s, v). Bellman-Ford: O(VE), trả về FALSE khi và chỉ khi có chu trình âm đi tới được từ s. DAG-SHORTEST-PATHS: Θ(V + E). Dijkstra (w ≥ 0): O(V²) với mảng, O((V + E) lg V) với đống nhị phân, O(V lg V + E) với đống Fibonacci; |V| EXTRACT-MIN, ≤ |E| DECREASE-KEY. Hệ m ràng buộc hiệu trên n ẩn ⇔ đồ thị n + 1 đỉnh, n + m cạnh; khả thi ⇔ không có chu trình âm; nghiệm xᵢ = δ(v₀, vᵢ); thời gian O(n² + nm), cải tiến được O(nm). Cận lý thuyết tốt hơn trong ghi chú: O(E lg lg V) (Thorup, trọng số nguyên), O(V + E) (Thorup, vô hướng, trọng số nguyên), O(√V E lg W) (Goldberg, có trọng số âm).
+Cho G = (V, E), w: E → ℝ, nguồn s. δ(s, v) = min{w(p) : s ⇝ v} hoặc ∞; δ = −∞ khi có chu trình âm trên đường. RELAX duy trì bất biến v.d ≥ δ(s, v).
+
+Bellman-Ford: O(VE), trả về FALSE khi và chỉ khi có chu trình âm đi tới được từ s. DAG-SHORTEST-PATHS: Θ(V + E). Dijkstra (w ≥ 0): O(V²) với mảng, O((V + E) lg V) với đống nhị phân, O(V lg V + E) với đống Fibonacci; |V| EXTRACT-MIN, ≤ |E| DECREASE-KEY.
+
+Hệ m ràng buộc hiệu trên n ẩn ⇔ đồ thị n + 1 đỉnh, n + m cạnh; khả thi ⇔ không có chu trình âm; nghiệm xᵢ = δ(v₀, vᵢ); thời gian O(n² + nm), cải tiến được O(nm). Cận lý thuyết tốt hơn trong ghi chú: O(E lg lg V) (Thorup, trọng số nguyên), O(V + E) (Thorup, vô hướng, trọng số nguyên), O(√V E lg W) (Goldberg, có trọng số âm).
 
 ## Thuật ngữ
 
@@ -1428,7 +1440,7 @@ Mục 24.4 là một ví dụ đẹp về quy dẫn: một bài toán quy hoạc
 
 ### Điểm yếu và chỗ đơn giản hoá
 
-- **Lời viện dẫn chưa khớp giả thiết trong chứng minh Định lý 24.4** (xem khối Lưu ý): phần có chu trình âm dùng Hệ quả 24.3, vốn giả thiết không có chu trình âm. Người đọc kỹ sẽ vấp ở đây.
+- **Lời viện dẫn chưa khớp giả thiết trong chứng minh Định lý 24.4** (xem mục Lưu ý cuối chương): phần có chu trình âm dùng Hệ quả 24.3, vốn giả thiết không có chu trình âm. Người đọc kỹ sẽ vấp ở đây.
 - **Chứng minh tính chất hội tụ và Dijkstra dựa ngầm vào việc các δ hữu hạn.** Sách xử lý bằng quy ước số học ±∞, nhưng không nói rõ chỗ nào cần "không có chu trình âm" (ví dụ ở cơ sở quy nạp của Bổ đề 24.15).
 - **Phân tích Dijkstra bằng đống Fibonacci chỉ có ý nghĩa lý thuyết.** Sách nói đúng về tiệm cận nhưng không cảnh báo rằng, theo hiểu biết của người tổng hợp, đống Fibonacci có hằng số lớn và hầu như không được dùng trong thực tế; đống nhị phân (thậm chí không có DECREASE-KEY, chèn trùng rồi bỏ qua) hoặc đống bậc d thường nhanh hơn.
 - **Mô hình chỉ đồ thị có hướng.** Đồ thị vô hướng được xử lý bằng cách thay mỗi cạnh bằng hai cạnh ngược chiều, nhưng sách không nói; và với cạnh vô hướng trọng số âm, cách này tạo ngay chu trình âm hai cạnh — đường ngắn nhất vô hướng có cạnh âm là bài toán khác hẳn (theo hiểu biết của người tổng hợp, cần kỹ thuật ghép cặp), sách không nhắc.
@@ -1456,3 +1468,123 @@ Theo hiểu biết của người tổng hợp: thư viện đồ thị phổ bi
 - **Phỏng vấn:** viết Dijkstra với `priority_queue` và kiểm tra "đỉnh đã lấy ra rồi thì bỏ qua"; giải thích vì sao Dijkstra sai với cạnh âm (ví dụ ba đỉnh); phát hiện chu trình âm bằng Bellman-Ford; bài "chuyến bay rẻ nhất với tối đa K điểm dừng" (Bellman-Ford giới hạn K + 1 lượt, mỗi lượt dùng bản sao d của lượt trước); bài "mạng trễ" (thời gian lớn nhất trong các δ); bài kinh doanh chênh lệch tỷ giá với −log.
 - **Lập trình thi đấu:** 0-1 BFS (deque) khi trọng số chỉ 0 và 1; Dijkstra trên đồ thị trạng thái mở rộng (đỉnh × số lần dùng ưu đãi); hệ ràng buộc hiệu là dạng bài quen thuộc ("hệ bất đẳng thức hiệu", kiểm tra chu trình âm bằng Bellman-Ford hoặc SPFA); đường dài nhất / đếm đường trên dag bằng quy hoạch động theo thứ tự tô-pô (Exercise 24.2-4); cẩn thận tràn số khi cộng với ∞ — dùng hằng số lớn nhưng không gần giới hạn kiểu.
 - **Kỹ thuật phần mềm:** hệ thống build và lập lịch tác vụ (đường găng trên dag phụ thuộc); định tuyến mạng và hậu cần; bộ giải ràng buộc thời gian; phân tích chương trình (bộ giải logic hiệu trong SMT). Chọn cấu trúc dữ liệu theo mật độ đồ thị: đồ thị dày dùng Dijkstra mảng O(V²), đồ thị thưa dùng đống nhị phân.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 24 trên một trang: bảy nhánh lớn đi theo trình tự của chương gốc (phần mở đầu với định nghĩa, nới lỏng và sáu tính chất, Mục 24.1 Bellman-Ford, Mục 24.2 đồ thị không chu trình, Mục 24.3 Dijkstra, Mục 24.4 ràng buộc hiệu, Mục 24.5 chứng minh các tính chất, các bài toán và ghi chú chương), mỗi nhánh ghi thủ tục, định lý, ví dụ và thời gian chạy then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 24: mọi thuật toán đường đi ngắn nhất từ một nguồn chỉ là khởi tạo rồi nới lỏng cạnh, khác nhau ở số lần và thứ tự nới lỏng`"]
+  n1["`Phần mở đầu chương — Định nghĩa, nới lỏng và sáu tính chất`"]
+  n0 --- n1
+  n2["`δ(u, v) là trọng số nhỏ nhất của đường từ u tới v, bằng ∞ nếu không có đường`"]
+  n1 --- n2
+  n3["`Bốn biến thể: một nguồn, một đích, một cặp, mọi cặp, bài toán một cặp chưa có cách nhanh hơn một nguồn`"]
+  n1 --- n3
+  n4["`Bổ đề 24.1: mọi đoạn con của đường đi ngắn nhất cũng là đường đi ngắn nhất`"]
+  n1 --- n4
+  n5["`Chu trình âm đi tới được làm δ(s, v) = −∞, nếu không có thì đường ngắn nhất là đường đơn tối đa |V| − 1 cạnh`"]
+  n1 --- n5
+  n6["`RELAX(u, v, w): nếu đi qua u tới v rẻ hơn thì cập nhật v.d và v.π`"]
+  n1 --- n6
+  n7["`Sáu tính chất: tam giác, cận trên, không có đường, hội tụ, nới lỏng theo đường, đồ thị con liền trước`"]
+  n1 --- n7
+  n8["`Mục 24.1 — Thuật toán Bellman-Ford`"]
+  n0 --- n8
+  n9["`Chấp nhận trọng số âm: |V| − 1 lượt, mỗi lượt nới lỏng mọi cạnh theo thứ tự bất kỳ`"]
+  n8 --- n9
+  n10["`Lượt kiểm tra cuối còn cạnh nới lỏng được thì trả về FALSE vì có chu trình âm`"]
+  n8 --- n10
+  n11["`Bổ đề 24.2: lượt thứ i nới lỏng cạnh thứ i của đường ngắn nhất nên đủ |V| − 1 lượt`"]
+  n8 --- n11
+  n12["`Thời gian O(VE), ví dụ 5 đỉnh ra t = 2, x = 4, y = 7, z = −2 và trả về TRUE`"]
+  n8 --- n12
+  n13["`Mục 24.2 — Đồ thị có hướng không chu trình`"]
+  n0 --- n13
+  n14["`Dag không có chu trình âm nên δ luôn xác định kể cả khi có cạnh âm`"]
+  n13 --- n14
+  n15["`DAG-SHORTEST-PATHS sắp xếp tô-pô rồi nới lỏng cạnh ra của từng đỉnh, chạy Θ(V + E)`"]
+  n13 --- n15
+  n16["`Định lý 24.5: thứ tự tô-pô tự nới lỏng cạnh của mọi đường ngắn nhất theo đúng thứ tự`"]
+  n13 --- n16
+  n17["`Ứng dụng tìm đường găng, tức đường dài nhất, trong sơ đồ PERT bằng cách đổi dấu trọng số`"]
+  n13 --- n17
+  n18["`Mục 24.3 — Thuật toán Dijkstra`"]
+  n0 --- n18
+  n19["`Yêu cầu mọi trọng số không âm, tham lam lấy đỉnh có d nhỏ nhất ngoài S bằng hàng đợi ưu tiên`"]
+  n18 --- n19
+  n20["`Định lý 24.6: xét đỉnh đầu tiên vào S với d sai và đỉnh y đầu tiên ngoài S trên đường ngắn nhất, mọi dấu ≤ thành dấu bằng`"]
+  n18 --- n20
+  n21["`Thời gian O(V²) với mảng, O((V + E) lg V) với đống nhị phân, O(V lg V + E) với đống Fibonacci`"]
+  n18 --- n21
+  n22["`Dijkstra giống BFS với S là tập đỉnh đen, giống Prim ở cách lấy đỉnh nhẹ nhất rồi cập nhật khoá`"]
+  n18 --- n22
+  n23["`Ví dụ 5 đỉnh lấy ra theo thứ tự s, y, z, t, x, kết quả t = 8, x = 9, y = 5, z = 7`"]
+  n18 --- n23
+  n24["`Mục 24.4 — Ràng buộc hiệu và đường đi ngắn nhất`"]
+  n0 --- n24
+  n25["`Hệ m ràng buộc xⱼ − xᵢ ≤ bₖ trên n ẩn là trường hợp riêng của quy hoạch tuyến tính`"]
+  n24 --- n25
+  n26["`Đồ thị ràng buộc: cạnh (vᵢ, vⱼ) trọng số bₖ, thêm đỉnh v₀ nối tới mọi đỉnh với trọng số 0`"]
+  n24 --- n26
+  n27["`Định lý 24.9: không có chu trình âm thì xᵢ = δ(v₀, vᵢ) là nghiệm, có chu trình âm thì vô nghiệm`"]
+  n24 --- n27
+  n28["`Giải bằng Bellman-Ford từ v₀ trong O(n² + nm), ví dụ 8 ràng buộc 5 ẩn có nghiệm (−5, −3, 0, −1, −4)`"]
+  n24 --- n28
+  n29["`Mục 24.5, bài toán 24-1 đến 24-6 và ghi chú chương`"]
+  n0 --- n29
+  n30["`Mục 24.5 chứng minh sáu tính chất, Bổ đề 24.16: không có chu trình âm thì Gπ luôn là cây gốc s`"]
+  n29 --- n30
+  n31["`Problem 24-3: chênh lệch tỷ giá dùng trọng số −ln R[i, j], tích tỷ giá lớn hơn 1 tương ứng chu trình âm`"]
+  n29 --- n31
+  n32["`Problem 24-1: cải tiến của Yen chỉ cần ⌈|V|/2⌉ lượt, Problem 24-4: Gabow co giãn theo bit cho O(E lg W)`"]
+  n29 --- n32
+  n33["`Problem 24-5: Karp tìm chu trình trọng số trung bình nhỏ nhất trong O(VE)`"]
+  n29 --- n33
+  n34["`Dijkstra công bố năm 1959, Thorup cho O(V + E) trên đồ thị vô hướng trọng số nguyên`"]
+  n29 --- n34
+  n35["`Thông điệp xuyên suốt`"]
+  n0 --- n35
+  n36["`Một khung chứng minh dùng chung bằng sáu tính chất của phép nới lỏng cho cả ba thuật toán`"]
+  n35 --- n36
+  n37["`Chọn thuật toán theo cấu trúc đồ thị: dag dùng thứ tự tô-pô, trọng số không âm dùng Dijkstra, có cạnh âm dùng Bellman-Ford`"]
+  n35 --- n37
+  n38["`Định nghĩa δ chặt chẽ với ±∞ xử lý trọn trường hợp không có đường và chu trình âm`"]
+  n35 --- n38
+  n39["`Ràng buộc hiệu là cầu nối từ đường đi ngắn nhất sang quy hoạch tuyến tính của Chương 29`"]
+  n35 --- n39
+  n40["`Người tổng hợp chỉ ra chứng minh Định lý 24.4 viện dẫn Hệ quả 24.3 chưa khớp giả thiết, kết luận vẫn đúng`"]
+  n35 --- n40
+  class n0 root
+  class n1,n8,n13,n18,n24,n29,n35 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n14,n15,n16,n17,n19,n20,n21,n22,n23,n25,n26,n27,n28,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VI "Graph Algorithms", Chương 24 "Single-Source Shortest Paths", trang 643–683.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 22 ([C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)) cho cách biểu diễn đồ thị bằng danh sách kề, tìm kiếm theo chiều rộng (BFS — chính là thuật toán đường đi ngắn nhất khi mọi cạnh có trọng số 1, kèm cây BFS và thủ tục PRINT-PATH) và sắp xếp tô-pô. Chương 23 ([C23-cay-khung-nho-nhat.md](C23-cay-khung-nho-nhat.md)) cho thuật toán Prim, thuật toán có cấu trúc gần như trùng với Dijkstra. Chương 6 ([C06-heapsort.md](C06-heapsort.md)) cho hàng đợi ưu tiên bằng đống nhị phân, Chương 19 ([C19-dong-fibonacci.md](C19-dong-fibonacci.md)) cho đống Fibonacci với DECREASE-KEY khấu hao O(1) — hai cấu trúc quyết định thời gian chạy của Dijkstra. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) và Chương 16 ([C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) cho khái niệm cấu trúc con tối ưu mà chương này dựa vào.
+
+Chương 24 giải bài toán đường đi ngắn nhất từ một nguồn trên đồ thị có hướng có trọng số bằng một kỹ thuật chung — **nới lỏng cạnh** — và ba thứ tự nới lỏng khác nhau (Bellman-Ford, theo thứ tự tô-pô cho đồ thị không chu trình, Dijkstra), rồi dùng Bellman-Ford giải một lớp quy hoạch tuyến tính đặc biệt.
+
+Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)) mở rộng sang mọi cặp đỉnh, dùng lại Bellman-Ford và Dijkstra trong thuật toán Johnson. Chương 26 ([C26-luong-cuc-dai.md](C26-luong-cuc-dai.md)) dùng đường đi ngắn nhất (theo số cạnh) trong thuật toán Edmonds-Karp. Chương 29 ([C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)) trình bày quy hoạch tuyến tính tổng quát, mà hệ ràng buộc hiệu ở Mục 24.4 là một trường hợp riêng.
+
+## Lưu ý
+
+- **Chương không có mục có dấu sao (★).** Các bài tập có dấu sao: Exercise 24.1-5, 24.1-6, 24.4-8, 24.4-9, 24.4-12. Không Problem nào có dấu sao.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương:** chữ v (đỉnh) và π (đỉnh liền trước) bị mất hẳn (ví dụ `: dD u:dC w.u; /` là `v.d = u.d + w(u, v)`, `: D NIL` là `v.π = NIL`), δ thành `ı`, ∞ thành `1`, dấu trừ thành `/NUL`, ≤ và ≥ mất hẳn (ví dụ `: d ı.s; /` không cho biết là ≥ hay ≤), ma trận A và vectơ b ở Mục 24.4 vỡ thành các cột số rời, tổng Σ ở (24.1) và (24.12) vỡ nhiều dòng; ở Exercise 24.4-8 điều kiện "xᵢ ≤ 0" mất dấu. Các hình 24.1–24.9 trong lớp chữ chỉ còn các con số rời rạc không có hướng cạnh. Mọi pseudocode, công thức, đề bài tập và mọi hình trong bản tổng hợp này đã được đọc lại từ ảnh của toàn bộ 41 trang 643–683; riêng các Hình 24.2, 24.4, 24.5, 24.6 được phóng to từ ảnh trang 648, 652, 656, 659 để xác định hướng và trọng số từng cạnh.
+- **Chỗ chứng minh chưa chặt (nhận xét của người tổng hợp):** (1) Ở chứng minh Định lý 24.4 (phần đồ thị CÓ chu trình âm), sách viện dẫn Hệ quả 24.3 để nói các vᵢ.d trên chu trình là hữu hạn; nhưng Hệ quả 24.3 lại giả thiết đồ thị KHÔNG có chu trình âm đi tới được. Kết luận vẫn đúng — mọi đỉnh đi tới được từ s có một đường đơn ≤ |V| − 1 cạnh, và sau |V| − 1 lượt thì v.d không vượt quá trọng số đường đó nên hữu hạn — nhưng lời viện dẫn không khớp giả thiết. (2) Problem 24-4(d) viết "với mọi u, v ∈ V" trong khi ŵᵢ(u, v) chỉ được định nghĩa cho cạnh (u, v) ∈ E. (3) Problem 24-6 cho phép dãy "bitonic theo nghĩa dịch vòng", khiến số lượt quét cần thiết tăng (xem phần Bài tập); đề không nói rõ điều này ảnh hưởng tới lời giải ra sao. Người tổng hợp không chắc những chỗ này có trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** δ trên đồ thị Hình 24.1 (3, −1, 5, 11, −∞, −∞, −∞, ∞, ∞, ∞); hai cây đường đi ngắn nhất ở Hình 24.2 (d = 0, 3, 9, 5, 11); bốn lượt Bellman-Ford ở Hình 24.4 (kết quả t = 2, x = 4, y = 7, z = −2, trả về TRUE); sáu bước DAG-SHORTEST-PATHS ở Hình 24.5 (kết quả s = 0, t = 2, x = 6, y = 5, z = 3, r = ∞); năm bước Dijkstra ở Hình 24.6 (kết quả t = 8, x = 9, y = 5, z = 7); nghiệm (−5, −3, 0, −1, −4) của hệ (24.3)–(24.10); phép tính 49 × 2 × 0,0107 = 1,0486 ở Problem 24-3; w₃ = 6 và w₃ = 1 ở Problem 24-4. Lời giải của các Exercise 24.1-1, 24.2-1, 24.3-1, 24.4-1, 24.4-2, 24.5-1 trong phần Bài tập do người tổng hợp tự chạy tay.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** nội dung này trở thành Chương 22 (vì ấn bản 4 bỏ một số chương cấu trúc dữ liệu ở Phần V), Chương 25 cũ (mọi cặp đỉnh) thành Chương 23. Pseudocode DIJKSTRA ở ấn bản 4 viết tường minh việc chèn từng đỉnh vào hàng đợi (INSERT) và gọi DECREASE-KEY khi RELAX làm giảm v.d, thay vì để các thao tác này "ngầm" như ấn bản 3. Các khác biệt nhỏ hơn về lời văn và bài tập, người tổng hợp không nhớ chắc nên không liệt kê.
