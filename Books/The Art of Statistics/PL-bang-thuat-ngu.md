@@ -809,7 +809,9 @@ Khi đó E(X) = μ và V(X) = μ.
 
 **Định nghĩa cơ bản:** một thước đo mức chênh lệch giữa dữ liệu và một giả thuyết không.
 
-**Định nghĩa kỹ thuật:** với giả thuyết không H₀, gọi T là một thống kê mà giá trị lớn của nó cho thấy dữ liệu không nhất quán với H₀. Giả sử ta quan sát được giá trị t. Khi đó giá trị P (một phía) là xác suất quan sát được một giá trị cực đoan như vậy nếu H₀ đúng, tức là P(T ≥ t | H₀). Nếu cả giá trị nhỏ lẫn giá trị lớn của T đều cho thấy không nhất quán với H₀, thì giá trị P hai phía là xác suất quan sát được một giá trị lớn như vậy theo bất kỳ chiều nào. Giá trị P hai phía thường được lấy đơn giản bằng gấp đôi giá trị P một phía, còn phần mềm R thì dùng tổng xác suất của những kết quả có xác suất xảy ra thấp hơn kết quả thực sự quan sát được.
+**Định nghĩa kỹ thuật:** với giả thuyết không H₀, gọi T là một thống kê mà giá trị lớn của nó cho thấy dữ liệu không nhất quán với H₀. Giả sử ta quan sát được giá trị t. Khi đó giá trị P (một phía) là xác suất quan sát được một giá trị cực đoan như vậy nếu H₀ đúng, tức là P(T ≥ t | H₀).
+
+Nếu cả giá trị nhỏ lẫn giá trị lớn của T đều cho thấy không nhất quán với H₀, thì giá trị P hai phía là xác suất quan sát được một giá trị lớn như vậy theo bất kỳ chiều nào. Giá trị P hai phía thường được lấy đơn giản bằng gấp đôi giá trị P một phía, còn phần mềm R thì dùng tổng xác suất của những kết quả có xác suất xảy ra thấp hơn kết quả thực sự quan sát được.
 
 *Xuất hiện ở:* [Chương 10](C10-tra-loi-cau-hoi-va-tuyen-bo-phat-hien.md).
 
@@ -1265,7 +1267,7 @@ flowchart LR
   n1 --- n3
   n4["`Trung bình, trung vị, yếu vị: số con 3, 2, 1, 0, 1 cho trung bình mẫu 7 ÷ 5 = 1,4`"]
   n1 --- n4
-  n5["`Phương sai s² = tổng (xᵢ − x̄)² chia n − 1, độ lệch chuẩn là căn bậc hai của phương sai`"]
+  n5["`Phương sai s² = [1/(n − 1)] · Σ (xᵢ − x̄)², độ lệch chuẩn là căn bậc hai của phương sai`"]
   n1 --- n5
   n6["`Điểm Z = (x − trung bình) ÷ độ lệch chuẩn, điểm Z bằng 3 là ngoại lai khá cực đoan`"]
   n1 --- n6
@@ -1297,15 +1299,15 @@ flowchart LR
   n0 --- n19
   n20["`Xác suất: biểu đạt toán học của bất định, nằm giữa 0 (không thể) và 1 (chắc chắn)`"]
   n19 --- n20
-  n21["`Quy tắc nhân: P(A và B) = P(A khi biết B) × P(B), A và B độc lập khi P(A khi biết B) = P(A)`"]
+  n21["`Quy tắc nhân: P(A AND B) = P(A | B) · P(B), A và B độc lập khi P(A | B) = P(A)`"]
   n19 --- n21
   n22["`Bất định ngẫu nhiên và bất định nhận thức: may rủi tương lai và sự thiếu hiểu biết`"]
   n19 --- n22
-  n23["`Kỳ vọng E(X) = tổng x × p(x), gieo một xúc xắc cân đối có E(X) = 21 ÷ 6 = 3,5`"]
+  n23["`Kỳ vọng E(X) = Σ x · p(x), gieo một xúc xắc cân đối có E(X) = 21 ÷ 6 = 3,5`"]
   n19 --- n23
   n24["`Phân phối nhị thức: số thành công trong n phép thử độc lập, trung bình np`"]
   n19 --- n24
-  n25["`Phân phối Poisson cho biến đếm: P(X = x) = e mũ −μ × μ mũ x ÷ x!, trung bình và phương sai đều bằng μ`"]
+  n25["`Phân phối Poisson cho biến đếm: P(X = x | μ) = e^(−μ) · μˣ ÷ x!, trung bình và phương sai đều bằng μ`"]
   n19 --- n25
   n26["`Phân phối chuẩn: hình chuông, khoảng 95% trong trung bình ± 2 độ lệch chuẩn, Φ(−1) = 0,16`"]
   n19 --- n26
@@ -1319,7 +1321,7 @@ flowchart LR
   n29 --- n30
   n31["`Mô hình thống kê: biểu diễn toán học có tham số chưa biết cho phân phối của dữ liệu`"]
   n30 --- n31
-  n32["`Bình phương nhỏ nhất: cực tiểu tổng bình phương phần dư, đường đi qua (x̄, ȳ), độ dốc b₁ = r × (độ lệch chuẩn của y ÷ độ lệch chuẩn của x)`"]
+  n32["`Bình phương nhỏ nhất: cực tiểu tổng bình phương phần dư, đường đi qua (x̄, ȳ), độ dốc b₁ = r · s#95;y ÷ sₓ`"]
   n30 --- n32
   n33["`Hồi quy logistic, Poisson, Cox: hệ số là log của tỷ số odds, tỷ số tỷ suất, tỷ số nguy cơ`"]
   n30 --- n33
@@ -1335,7 +1337,7 @@ flowchart LR
   n34 --- n38
   n39["`Kiểm định giả thuyết`"]
   n29 --- n39
-  n40["`Giá trị P một phía = P(T ≥ t khi H₀ đúng), giá trị P hai phía thường lấy gấp đôi`"]
+  n40["`Giá trị P một phía = P(T ≥ t | H₀), giá trị P hai phía thường lấy gấp đôi`"]
   n39 --- n40
   n41["`Ý nghĩa thống kê: giá trị P nhỏ hơn mức định trước như 0,05 hay 0,001`"]
   n39 --- n41
@@ -1353,11 +1355,11 @@ flowchart LR
   n39 --- n47
   n48["`Bayes`"]
   n0 --- n48
-  n49["`Định lý Bayes: p(B khi biết A) = p(A khi biết B) × p(B) ÷ p(A)`"]
+  n49["`Định lý Bayes: p(B | A) = p(A | B) × p(B) ÷ p(A)`"]
   n48 --- n49
-  n50["`Hàm khả năng tỷ lệ với p(x khi biết θ), tỷ số khả năng so mức ủng hộ của dữ liệu cho hai giả thuyết`"]
+  n50["`Hàm khả năng tỷ lệ với p(x | θ), tỷ số khả năng so mức ủng hộ của dữ liệu cho hai giả thuyết`"]
   n48 --- n50
-  n51["`Nhân tố Bayes: tỷ số khả năng cho giả thuyết khoa học, sách viết p(x khi H₀) ÷ p(x khi H₁)`"]
+  n51["`Nhân tố Bayes: tỷ số khả năng cho giả thuyết khoa học, sách viết p(x | H₀) ÷ p(x | H₁)`"]
   n48 --- n51
   n52["`Phân phối tiên nghiệm và hậu nghiệm: niềm tin trước và sau khi xét dữ liệu qua định lý Bayes`"]
   n48 --- n52
@@ -1383,7 +1385,7 @@ flowchart LR
   n56 --- n62
   n63["`Đường cong ROC: độ nhạy theo 1 trừ độ đặc hiệu khi đổi ngưỡng điểm`"]
   n56 --- n63
-  n64["`Sai số bình phương trung bình MSE = trung bình của (xᵢ − tᵢ)², điểm Brier là MSE của dự báo xác suất`"]
+  n64["`Sai số bình phương trung bình MSE = (1/n) Σ (xᵢ − tᵢ)², điểm Brier là MSE của dự báo xác suất`"]
   n56 --- n64
   n65["`Hiệu chuẩn: biến cố được gán xác suất 0,7 phải xảy ra khoảng 70% số lần`"]
   n56 --- n65
@@ -1414,7 +1416,9 @@ David Spiegelhalter, *The Art of Statistics: How to Learn from Data*, Basic Book
 - **Mục least-squares in "b₀ = y"** thay vì b₀ = ȳ (thiếu dấu gạch trên). Vì đường thẳng được viết dưới dạng ŷ = b₀ + b₁(x − x̄), tung độ gốc b₀ phải là trung bình mẫu ȳ; chính sách cũng viết đúng là b₀ = ȳ ở mục multiple linear regression.
 - **Mục probability distribution in "−Г < x < Г"**: chữ Г (gamma hoa) là lỗi phông chữ, đúng ra là −∞ < x < ∞.
 - Ở mục Central Limit Theorem và standard error, ký hiệu căn trong ảnh nhỏ trông giống "Σn"; theo ngữ cảnh đó là √n (σ/√n và s/√n). Lớp chữ của mục standard error ghi "variance σ 2/n", đúng là σ²/n.
-- **Bayes factor và likelihood ratio** (nhận xét của người tổng hợp). Bảng thuật ngữ cho hai mục này cùng một công thức p(x | H₀) / p(x | H₁), tức là đặt giả thuyết không ở tử số (đo mức dữ liệu ủng hộ H₀ so với H₁). Trong Chương 11, tác giả lại dùng chiều ngược lại: tỷ số khả năng là "xác suất của bằng chứng nếu giả thuyết A đúng chia cho xác suất của bằng chứng nếu giả thuyết B đúng", với A là bị cáo có tội (ví dụ doping: 0,95/0,05 = 19), và nhân tố Bayes khoảng 80.000 được nói là "ủng hộ hạt Higgs", tức ủng hộ giả thuyết đối. Người đọc cần để ý chiều của tỷ số trước khi diễn giải. Ngoài ra, Chương 11 nói rõ nhân tố Bayes khác tỷ số khả năng ở chỗ các giả thuyết khoa học thường chứa tham số chưa biết, và nhân tố Bayes chỉ tính được bằng cách lấy trung bình theo phân phối tiên nghiệm của các tham số đó; bảng thuật ngữ bỏ qua khác biệt này.
+- **Bayes factor và likelihood ratio** (nhận xét của người tổng hợp). Bảng thuật ngữ cho hai mục này cùng một công thức p(x | H₀) / p(x | H₁), tức là đặt giả thuyết không ở tử số (đo mức dữ liệu ủng hộ H₀ so với H₁). Trong Chương 11, tác giả lại dùng chiều ngược lại: tỷ số khả năng là "xác suất của bằng chứng nếu giả thuyết A đúng chia cho xác suất của bằng chứng nếu giả thuyết B đúng", với A là bị cáo có tội (ví dụ doping: 0,95/0,05 = 19), và nhân tố Bayes khoảng 80.000 được nói là "ủng hộ hạt Higgs", tức ủng hộ giả thuyết đối. Người đọc cần để ý chiều của tỷ số trước khi diễn giải.
+
+  Ngoài ra, Chương 11 nói rõ nhân tố Bayes khác tỷ số khả năng ở chỗ các giả thuyết khoa học thường chứa tham số chưa biết, và nhân tố Bayes chỉ tính được bằng cách lấy trung bình theo phân phối tiên nghiệm của các tham số đó; bảng thuật ngữ bỏ qua khác biệt này.
 - **Mục Central Limit Theorem dùng sai từ "sampling distribution"** (nhận xét của người tổng hợp). Sách viết định lý đúng "bất kể hình dạng của phân phối lấy mẫu nền (underlying sampling distribution) của biến ngẫu nhiên". Theo chính bảng thuật ngữ, phân phối lấy mẫu là phân phối của một thống kê; điều định lý nói là trung bình mẫu có phân phối gần chuẩn bất kể hình dạng phân phối của **từng quan sát** (phân phối tổng thể).
 - **Mục case-control study** nói thiết kế này "chỉ ước lượng được rủi ro tương đối". Theo hiểu biết của người tổng hợp, nói chính xác thì nghiên cứu bệnh–chứng ước lượng tỷ số odds, và tỷ số này xấp xỉ rủi ro tương đối khi bệnh hiếm; nghiên cứu bệnh–chứng không ước lượng được rủi ro tuyệt đối.
 - **Mục one-sided and two-sided tests** lấy ví dụ giả thuyết không "tác dụng của thuốc là âm". Nói chặt hơn, giả thuyết không của kiểm định một phía ở đây là "tác dụng nhỏ hơn hoặc bằng 0".

@@ -495,7 +495,9 @@ Xét theo chu trình PPDAC:
 - **Phân tích (Analysis):** dùng một loạt kỹ thuật, dễ thấy nhất qua các bước suy luận đã trình bày ở Chương 3 (từ dữ liệu tới mẫu, từ mẫu tới tổng thể nghiên cứu, từ tổng thể nghiên cứu tới tổng thể mục tiêu):
   - *Từ dữ liệu tới mẫu:* vì đây là thăm dò sau bỏ phiếu và người trả lời nói điều họ đã làm, không phải điều họ định làm, kinh nghiệm cho thấy câu trả lời phải là thước đo khá chính xác của việc người ta thực sự đã bầu ở lần này và lần trước.
   - *Từ mẫu tới tổng thể nghiên cứu:* một mẫu đại diện được lấy trong số những người thực sự đã đi bầu ở mỗi điểm bỏ phiếu, nên kết quả của mẫu có thể dùng để ước lượng gần đúng mức thay đổi phiếu, hay "dịch chuyển phiếu" (swing), trong khu vực nhỏ đó.
-  - *Từ tổng thể nghiên cứu tới tổng thể mục tiêu:* dùng hiểu biết về đặc điểm dân cư của mỗi điểm bỏ phiếu, người ta dựng một mô hình hồi quy nhằm giải thích tỷ lệ người đổi phiếu giữa hai lần bầu cử phụ thuộc thế nào vào đặc điểm của cử tri ở khu vực đó. Bằng cách này, không phải giả định dịch chuyển phiếu như nhau trên cả nước, mà cho phép nó thay đổi theo vùng — chẳng hạn tuỳ dân cư nông thôn hay thành thị. Sau đó, dùng mô hình hồi quy đã ước lượng, hiểu biết về đặc điểm dân cư của từng khu vực trong "khoảng 600" khu vực bầu cử (thực tế là 650), và số phiếu ở lần bầu cử trước, người ta dự báo được số phiếu ở lần bầu cử này cho từng khu vực bầu cử riêng lẻ — dù phần lớn các khu vực không hề có cử tri nào được phỏng vấn. Về cơ bản đây là thủ tục hồi quy đa mức và hậu phân tầng (MRP) đã nêu ở Chương 11.
+  - *Từ tổng thể nghiên cứu tới tổng thể mục tiêu:* dùng hiểu biết về đặc điểm dân cư của mỗi điểm bỏ phiếu, người ta dựng một mô hình hồi quy nhằm giải thích tỷ lệ người đổi phiếu giữa hai lần bầu cử phụ thuộc thế nào vào đặc điểm của cử tri ở khu vực đó. Bằng cách này, không phải giả định dịch chuyển phiếu như nhau trên cả nước, mà cho phép nó thay đổi theo vùng — chẳng hạn tuỳ dân cư nông thôn hay thành thị.
+
+    Sau đó, dùng mô hình hồi quy đã ước lượng, hiểu biết về đặc điểm dân cư của từng khu vực trong "khoảng 600" khu vực bầu cử (thực tế là 650), và số phiếu ở lần bầu cử trước, người ta dự báo được số phiếu ở lần bầu cử này cho từng khu vực bầu cử riêng lẻ — dù phần lớn các khu vực không hề có cử tri nào được phỏng vấn. Về cơ bản đây là thủ tục hồi quy đa mức và hậu phân tầng (MRP) đã nêu ở Chương 11.
 
 Mẫu có hạn nên có độ bất định về các hệ số trong mô hình hồi quy. Khi nhân rộng ra toàn bộ cử tri, độ bất định này tạo ra các phân phối xác suất về việc người ta đã bầu thế nào, và từ đó ra xác suất để mỗi ứng cử viên nhận nhiều phiếu nhất trong khu vực của mình. Cộng các xác suất này trên mọi khu vực bầu cử cho ra số ghế kỳ vọng của mỗi đảng, mỗi con số đi kèm độ bất định (dù khoảng sai số không được công bố trong đêm bầu cử). (Chú thích cuối chương: phương pháp được David Firth giải thích trên trang web của Khoa Thống kê, Đại học Warwick.)
 
@@ -585,7 +587,19 @@ Việc dùng thống kê trong xã hội chỉ được cải thiện khi cả b
 
 ### Trong ngôn ngữ thống kê
 
-Chương bàn về: đăng ký trước đề cương và kế hoạch phân tích thống kê (statistical analysis plan) để kiểm soát tỷ lệ sai lầm loại I; đánh đổi giữa định trước và linh hoạt (phân tích độ nhạy, phân tích hậu định — post hoc — được báo cáo minh bạch); vi phạm giả định tỷ lệ nguy cơ không đổi (proportional hazards) trong mô hình sống sót khi hiệu ứng điều trị thay đổi theo thời gian (tác dụng muộn của sàng lọc); pha loãng hiệu ứng do đưa vào các ca hiện mắc; lực thấp và sai lầm về độ lớn khi hiệu ứng thật nhỏ (ví dụ tỷ lệ giới tính khi sinh); thiên lệch công bố và phương pháp đường cong P dựa trên phân phối đều của giá trị P dưới giả thuyết không (P-curve, liên quan tới các công cụ như biểu đồ phễu trong phân tích gộp); tiêu chí chất lượng bằng chứng và truyền đạt rủi ro; đạo đức dữ liệu; và trong ví dụ thăm dò sau bỏ phiếu, thiết kế mẫu bảng (panel) ở cấp điểm bỏ phiếu, mô hình hồi quy cho dịch chuyển phiếu với hiệu ứng theo đặc điểm dân cư, hậu phân tầng (MRP) để ước lượng cho khu vực nhỏ không có mẫu, và lan truyền độ bất định tham số thành phân phối dự báo số ghế. (Các thuật ngữ "statistical analysis plan", "proportional hazards", "panel" không có trong chương; người tổng hợp thêm vào để nối với ngôn ngữ chuyên môn.)
+Chương bàn về:
+
+- đăng ký trước đề cương và kế hoạch phân tích thống kê (statistical analysis plan) để kiểm soát tỷ lệ sai lầm loại I
+- đánh đổi giữa định trước và linh hoạt (phân tích độ nhạy, phân tích hậu định — post hoc — được báo cáo minh bạch)
+- vi phạm giả định tỷ lệ nguy cơ không đổi (proportional hazards) trong mô hình sống sót khi hiệu ứng điều trị thay đổi theo thời gian (tác dụng muộn của sàng lọc)
+- pha loãng hiệu ứng do đưa vào các ca hiện mắc
+- lực thấp và sai lầm về độ lớn khi hiệu ứng thật nhỏ (ví dụ tỷ lệ giới tính khi sinh)
+- thiên lệch công bố và phương pháp đường cong P dựa trên phân phối đều của giá trị P dưới giả thuyết không (P-curve, liên quan tới các công cụ như biểu đồ phễu trong phân tích gộp)
+- tiêu chí chất lượng bằng chứng và truyền đạt rủi ro
+- đạo đức dữ liệu
+- và trong ví dụ thăm dò sau bỏ phiếu, thiết kế mẫu bảng (panel) ở cấp điểm bỏ phiếu, mô hình hồi quy cho dịch chuyển phiếu với hiệu ứng theo đặc điểm dân cư, hậu phân tầng (MRP) để ước lượng cho khu vực nhỏ không có mẫu, và lan truyền độ bất định tham số thành phân phối dự báo số ghế.
+
+(Các thuật ngữ "statistical analysis plan", "proportional hazards", "panel" không có trong chương; người tổng hợp thêm vào để nối với ngôn ngữ chuyên môn.)
 
 ## Thuật ngữ
 
@@ -723,7 +737,7 @@ flowchart LR
   n0["`Chương 13: người tạo ra, người truyền đạt và người nghe đều phải hành động để thống kê được dùng tốt hơn`"]
   n1["`Phần mở đầu chương — thử nghiệm sàng lọc ung thư buồng trứng UKCTOCS`"]
   n0 --- n1
-  n2["`Hơn 200 000 phụ nữ phân ngẫu nhiên, tính lực cẩn thận, đề cương định trước`"]
+  n2["`Hơn 200.000 phụ nữ phân ngẫu nhiên, tính lực cẩn thận, đề cương định trước`"]
   n1 --- n2
   n3["`Sau trung bình 11 năm, phân tích chính không có ý nghĩa thống kê và được báo cáo trung thực`"]
   n1 --- n3

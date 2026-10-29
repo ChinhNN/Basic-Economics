@@ -338,7 +338,9 @@ Chương khép lại với Bem: ông điều chỉnh thiết kế theo dữ li�
 - **Thiên lệch ngăn kéo hồ sơ (file-drawer bias):** nghiên cứu không được gửi đăng vì kết quả "không thú vị" hoặc bất lợi cho tổ chức tài trợ nằm lại trong ngăn kéo, làm tài liệu đã đăng nghiêng về kết quả dương. Ví dụ: các hãng dược từng bị cáo buộc giấu nghiên cứu có kết quả bất lợi. Quan trọng vì "ta không biết những gì ta không được kể".
 - **Đóng khung (framing):** theo bảng thuật ngữ, là cách chọn diễn đạt con số, từ đó ảnh hưởng tới ấn tượng của người nghe. Ví dụ: "10% số người mang gen bảo vệ khỏi cao huyết áp" được đổi thành "9 trên 10 người mang gen làm tăng nguy cơ cao huyết áp" và lên báo quốc tế. Quan trọng vì đó là một trong mười một thực hành truyền đạt đáng ngờ.
 - **Thực hành diễn giải và truyền đạt đáng ngờ (questionable interpretation and communication practices):** cách làm "sự thật" về mặt kỹ thuật đúng nhưng bị bóp méo khi diễn giải và đưa tin. Ví dụ: chỉ nêu rủi ro tương đối 2,5 mà không nêu tỷ lệ tuyệt đối 13 ca trên 158.000 người-năm. Quan trọng vì đây là cơ chế chính khiến công chúng nhận được tuyên bố thiếu cơ sở.
-- **Rủi ro tương đối, tỷ số tỷ suất, tỷ số nguy cơ (relative risk, rate ratio, hazard ratio):** rủi ro tương đối là p / q, với p và q là rủi ro tuyệt đối ở nhóm phơi nhiễm và không phơi nhiễm; tỷ số tỷ suất là mức tăng tương đối của số sự kiện kỳ vọng trong một khoảng thời gian (hệ số của hồi quy Poisson là log của nó); tỷ số nguy cơ là rủi ro tương đối của việc gặp sự kiện trong một khoảng thời gian cố định khi phân tích thời gian sống (hệ số của hồi quy Cox là log của nó). Ví dụ: rủi ro tương đối 2,5 trong nghiên cứu xem TV. Quan trọng vì đây là đầu ra chuẩn của hầu hết nghiên cứu y sinh, nên báo chí luôn có sẵn con số "tăng nguy cơ" để giật tít.
+- **Rủi ro tương đối, tỷ số tỷ suất, tỷ số nguy cơ (relative risk, rate ratio, hazard ratio):** rủi ro tương đối là p / q, với p và q là rủi ro tuyệt đối ở nhóm phơi nhiễm và không phơi nhiễm; tỷ số tỷ suất là mức tăng tương đối của số sự kiện kỳ vọng trong một khoảng thời gian (hệ số của hồi quy Poisson là log của nó); tỷ số nguy cơ là rủi ro tương đối của việc gặp sự kiện trong một khoảng thời gian cố định khi phân tích thời gian sống (hệ số của hồi quy Cox là log của nó).
+
+  Ví dụ: rủi ro tương đối 2,5 trong nghiên cứu xem TV. Quan trọng vì đây là đầu ra chuẩn của hầu hết nghiên cứu y sinh, nên báo chí luôn có sẵn con số "tăng nguy cơ" để giật tít.
 - **Rủi ro tuyệt đối (absolute risk):** tỷ lệ người trong một nhóm xác định gặp sự kiện trong một khoảng thời gian xác định. Ví dụ: 13 ca thuyên tắc phổi tử vong trên 158.000 người-năm ở nhóm xem TV nhiều, tức khoảng 8,2 ca trên 100.000 người mỗi năm. Quan trọng vì đây là con số giúp người đọc thấy rủi ro thật nhỏ đến đâu.
 
 ## Nội dung chi tiết
@@ -414,7 +416,9 @@ Phép tính có thể đúng về mặt tính toán nhưng dùng phương pháp 
 
 - Làm một thử nghiệm ngẫu nhiên theo cụm, trong đó cả nhóm người — chẳng hạn mọi bệnh nhân của một phòng khám đa khoa — được phân ngẫu nhiên cùng lúc vào một can thiệp, nhưng lại phân tích dữ liệu như thể từng người được phân ngẫu nhiên riêng.
 - Đo hai nhóm lúc ban đầu và sau một can thiệp, rồi nói hai nhóm khác nhau nếu một nhóm thay đổi có ý nghĩa so với ban đầu còn nhóm kia thì không. Thủ tục đúng là làm một kiểm định thống kê chính thức xem hai nhóm có khác nhau không — gọi là kiểm định tương tác. (Minh hoạ của người tổng hợp: nếu nhóm A giảm 5 đơn vị với P = 0,03 và nhóm B giảm 4 đơn vị với P = 0,08, hai mức giảm gần như bằng nhau; câu hỏi đúng là chênh lệch 1 đơn vị giữa hai nhóm có ý nghĩa không, và với cùng độ chính xác thì gần như chắc chắn là không.)
-- Diễn giải "không có ý nghĩa" thành "không có hiệu ứng". Ví dụ, trong nghiên cứu về rượu và tử vong đã nhắc ở Chương 10 (Knott và cộng sự, *British Medical Journal*, 2015, gộp số liệu từ tới 10 nhóm thuần tập), nam giới 50–64 tuổi uống 15–20 đơn vị rượu mỗi tuần có nguy cơ tử vong giảm có ý nghĩa, trong khi mức giảm ở nam giới uống ít hơn hoặc nhiều hơn một chút không khác 0 một cách có ý nghĩa. Bài báo coi đây là một khác biệt quan trọng, nhưng các khoảng tin cậy cho thấy khác biệt giữa các nhóm này là không đáng kể. (Ở Chương 10, cùng nghiên cứu này được kể với kết luận "chỉ phụ nữ lớn tuổi có thể được lợi", trong khi các nhóm khác cũng có lợi ích ước lượng nhưng khoảng tin cậy rộng, chứa 0, vẫn tương thích với mức giảm tử vong 10% tới 20% từng được đề xuất.) Một lần nữa, chênh lệch giữa có ý nghĩa và không có ý nghĩa không nhất thiết có ý nghĩa.
+- Diễn giải "không có ý nghĩa" thành "không có hiệu ứng". Ví dụ, trong nghiên cứu về rượu và tử vong đã nhắc ở Chương 10 (Knott và cộng sự, *British Medical Journal*, 2015, gộp số liệu từ tới 10 nhóm thuần tập), nam giới 50–64 tuổi uống 15–20 đơn vị rượu mỗi tuần có nguy cơ tử vong giảm có ý nghĩa, trong khi mức giảm ở nam giới uống ít hơn hoặc nhiều hơn một chút không khác 0 một cách có ý nghĩa. Bài báo coi đây là một khác biệt quan trọng, nhưng các khoảng tin cậy cho thấy khác biệt giữa các nhóm này là không đáng kể.
+
+  (Ở Chương 10, cùng nghiên cứu này được kể với kết luận "chỉ phụ nữ lớn tuổi có thể được lợi", trong khi các nhóm khác cũng có lợi ích ước lượng nhưng khoảng tin cậy rộng, chứa 0, vẫn tương thích với mức giảm tử vong 10% tới 20% từng được đề xuất.) Một lần nữa, chênh lệch giữa có ý nghĩa và không có ý nghĩa không nhất thiết có ý nghĩa.
 
 #### Kết luận (Conclusion): báo cáo chọn lọc
 
@@ -594,17 +598,19 @@ Từng bước:
 2. Số năm kỳ vọng cho tới một ca: 158.000 / 13 = 12.154 năm, sách làm tròn "12.000 năm".
 3. *Minh hoạ thêm của người tổng hợp (gần đúng, vì 2,5 là rủi ro tương đối đã hiệu chỉnh):* nếu nhóm xem ít có tỷ lệ bằng 8,2 / 2,5 ≈ 3,3 trên 100.000 người-năm, thì chênh lệch tuyệt đối khoảng 8,2 − 3,3 = 4,9 ca trên 100.000 người mỗi năm, tức khoảng 1 ca tăng thêm trên mỗi 20.000 người-năm xem TV nhiều.
 
-Tít này được viết để thu hút sự chú ý và lượt nhấp, và đã thành công — chính tác giả thú nhận ông thấy nó không thể cưỡng lại. Khi tất cả chúng ta đều tìm kiếm sự mới lạ và kích thích tức thì, không ngạc nhiên khi truyền thông "thêm gia vị" cho tin về các nghiên cứu và ưu ái những tuyên bố khác thường (và có lẽ bị phóng đại) hơn là bằng chứng thống kê vững chắc.
+Tít này được viết để thu hút sự chú ý và lượt nhấp, và đã thành công — chính tác giả thú nhận ông thấy nó không thể cưỡng lại.
 
-(Chú thích của tác giả: ông đôi khi theo cái có thể gọi là "nguyên tắc Groucho", theo câu nói nghịch lý của Groucho Marx rằng ông sẽ không bao giờ tham gia một câu lạc bộ chịu nhận ông làm thành viên. Vì các câu chuyện đã đi qua quá nhiều bộ lọc khuyến khích bóp méo và chọn lọc, chính việc ông đang nghe thấy một tuyên bố dựa trên thống kê đã là lý do để không tin nó.) Chương sau sẽ bàn cách cải thiện, nhưng trước hết tác giả quay lại tuyên bố đáng chú ý của Daryl Bem về khả năng tiên tri.
+Khi tất cả chúng ta đều tìm kiếm sự mới lạ và kích thích tức thì, không ngạc nhiên khi truyền thông "thêm gia vị" cho tin về các nghiên cứu và ưu ái những tuyên bố khác thường (và có lẽ bị phóng đại) hơn là bằng chứng thống kê vững chắc. (Chú thích của tác giả: ông đôi khi theo cái có thể gọi là "nguyên tắc Groucho", theo câu nói nghịch lý của Groucho Marx rằng ông sẽ không bao giờ tham gia một câu lạc bộ chịu nhận ông làm thành viên. Vì các câu chuyện đã đi qua quá nhiều bộ lọc khuyến khích bóp méo và chọn lọc, chính việc ông đang nghe thấy một tuyên bố dựa trên thống kê đã là lý do để không tin nó.)
+
+Chương sau sẽ bàn cách cải thiện, nhưng trước hết tác giả quay lại tuyên bố đáng chú ý của Daryl Bem về khả năng tiên tri.
 
 ### 7. Bem đã đi tới kết quả bằng cách nào (phần kết khung câu hỏi về ngoại cảm, không có tiêu đề riêng, trang PDF 232–233)
 
 Daryl Bem biết ông đang công bố những tuyên bố phi thường, và — điều rất đáng ghi nhận — ông tích cực khuyến khích người khác lặp lại và cung cấp vật liệu để làm việc đó. Tuy nhiên, khi các nhà nghiên cứu khác nhận lời thách thức, thử lặp lại (và thất bại), tạp chí đã đăng nghiên cứu gốc của Bem lại từ chối đăng các nghiên cứu lặp lại thất bại — đúng bộ lọc "ngại đăng nghiên cứu lặp lại" của mục trước.
 
-Vậy Bem đi tới kết quả bằng cách nào? Có nhiều điểm ông điều chỉnh thiết kế theo dữ liệu và chọn nhấn mạnh những nhóm cụ thể — ví dụ báo cáo khả năng tiên tri dương khi cho xem ảnh khiêu dâm, mà không báo cáo kết quả âm với ảnh không khiêu dâm. Chính Bem thừa nhận: "Tôi bắt đầu một [thí nghiệm], và nếu nó chẳng đi tới đâu, tôi bỏ nó và bắt đầu lại với một vài thay đổi" (*Slate*, 17/5/2017). Một số thay đổi được báo cáo trong bài báo; số khác thì không.
+Vậy Bem đi tới kết quả bằng cách nào? Có nhiều điểm ông điều chỉnh thiết kế theo dữ liệu và chọn nhấn mạnh những nhóm cụ thể — ví dụ báo cáo khả năng tiên tri dương khi cho xem ảnh khiêu dâm, mà không báo cáo kết quả âm với ảnh không khiêu dâm. Chính Bem thừa nhận: "Tôi bắt đầu một [thí nghiệm], và nếu nó chẳng đi tới đâu, tôi bỏ nó và bắt đầu lại với một vài thay đổi" (*Slate*, 17/5/2017).
 
-(Chú thích của tác giả dẫn một bài trực tuyến, trong đó Bem nói: "Tôi hoàn toàn ủng hộ sự chặt chẽ… nhưng tôi thích để người khác làm việc đó. Tôi thấy tầm quan trọng của nó — với một số người thì vui — nhưng tôi không đủ kiên nhẫn… Nếu bạn xem mọi thí nghiệm trước đây của tôi, chúng luôn là công cụ tu từ. Tôi thu dữ liệu để cho thấy luận điểm của mình sẽ được chứng minh thế nào. Tôi dùng dữ liệu như một phương tiện thuyết phục, và chưa bao giờ thật sự lo lắng 'Cái này có lặp lại được không?'")
+Một số thay đổi được báo cáo trong bài báo; số khác thì không. (Chú thích của tác giả dẫn một bài trực tuyến, trong đó Bem nói: "Tôi hoàn toàn ủng hộ sự chặt chẽ… nhưng tôi thích để người khác làm việc đó. Tôi thấy tầm quan trọng của nó — với một số người thì vui — nhưng tôi không đủ kiên nhẫn… Nếu bạn xem mọi thí nghiệm trước đây của tôi, chúng luôn là công cụ tu từ. Tôi thu dữ liệu để cho thấy luận điểm của mình sẽ được chứng minh thế nào. Tôi dùng dữ liệu như một phương tiện thuyết phục, và chưa bao giờ thật sự lo lắng 'Cái này có lặp lại được không?'")
 
 Andrew Gelman nhận xét rằng kết luận của Bem dựa trên giá trị P, tức những phát biểu về việc các thống kê tóm tắt của dữ liệu sẽ trông thế nào *nếu dữ liệu ra khác đi*; nhưng Bem không đưa ra bằng chứng nào cho thấy, nếu dữ liệu ra khác đi, phân tích của ông vẫn sẽ như cũ. Thật vậy, chín nghiên cứu trong bài báo dùng đủ loại phân tích dữ liệu khác nhau. (Chú thích của tác giả: tóm tắt ngắn gọn của Gelman là "nghiên cứu của Bem là rác".)
 
@@ -663,7 +669,18 @@ Một phần đáng kể của "khủng hoảng tái lập" trong khoa học đ�
 
 ### Trong ngôn ngữ thống kê
 
-Chương này bàn về sai lệch giữa tỷ lệ sai lầm loại I danh nghĩa và thực tế khi có so sánh bội và phân tích phụ thuộc dữ liệu (data-dependent analysis); về tỷ lệ phát hiện sai (false discovery rate) phụ thuộc vào xác suất tiên nghiệm của giả thuyết và lực kiểm định; về "lời nguyền người thắng" (winner's curse) hay sai lầm loại M (magnitude, theo Gelman và Carlin) khi chọn lọc theo ý nghĩa thống kê ở nghiên cứu lực thấp, làm ước lượng hiệu ứng đã công bố bị chệch lên; về thiên lệch công bố (publication bias) và thiên lệch báo cáo kết quả (outcome reporting bias); về sai lầm khi suy luận khác biệt giữa các nhóm từ ý nghĩa thống kê riêng của từng nhóm thay vì kiểm định số hạng tương tác; về phân tích sai đơn vị ngẫu nhiên hoá trong thử nghiệm theo cụm (bỏ qua tương quan trong cụm, làm sai số chuẩn bị đánh giá thấp); về phát hiện gian lận bằng kiểm tra tính hợp lý của biến thiên mẫu; và về truyền đạt rủi ro với rủi ro tương đối so với rủi ro tuyệt đối. (Các thuật ngữ "winner's curse" và "sai lầm loại M" không có trong sách; người tổng hợp thêm vào để nối với ngôn ngữ chuyên môn.)
+Chương này bàn về:
+
+- sai lệch giữa tỷ lệ sai lầm loại I danh nghĩa và thực tế khi có so sánh bội và phân tích phụ thuộc dữ liệu (data-dependent analysis)
+- về tỷ lệ phát hiện sai (false discovery rate) phụ thuộc vào xác suất tiên nghiệm của giả thuyết và lực kiểm định
+- về "lời nguyền người thắng" (winner's curse) hay sai lầm loại M (magnitude, theo Gelman và Carlin) khi chọn lọc theo ý nghĩa thống kê ở nghiên cứu lực thấp, làm ước lượng hiệu ứng đã công bố bị chệch lên
+- về thiên lệch công bố (publication bias) và thiên lệch báo cáo kết quả (outcome reporting bias)
+- về sai lầm khi suy luận khác biệt giữa các nhóm từ ý nghĩa thống kê riêng của từng nhóm thay vì kiểm định số hạng tương tác
+- về phân tích sai đơn vị ngẫu nhiên hoá trong thử nghiệm theo cụm (bỏ qua tương quan trong cụm, làm sai số chuẩn bị đánh giá thấp)
+- về phát hiện gian lận bằng kiểm tra tính hợp lý của biến thiên mẫu
+- và về truyền đạt rủi ro với rủi ro tương đối so với rủi ro tuyệt đối.
+
+(Các thuật ngữ "winner's curse" và "sai lầm loại M" không có trong sách; người tổng hợp thêm vào để nối với ngôn ngữ chuyên môn.)
 
 ## Thuật ngữ
 

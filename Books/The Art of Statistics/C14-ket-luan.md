@@ -236,7 +236,18 @@ Thực hành thống kê hiệu quả dựa chủ yếu vào những nguyên t�
 
 ### Trong ngôn ngữ thống kê
 
-Mười quy tắc tương ứng với các nguyên lý quen thuộc của phương pháp luận thống kê: định hướng câu hỏi nghiên cứu và ước lượng mục tiêu (estimand) trước khi chọn phương pháp; mô hình hoá thống kê như sự trừu tượng của quá trình sinh dữ liệu; đăng ký trước đề cương và kế hoạch phân tích thống kê để kiểm soát "khu vườn những lối rẽ" và so sánh bội; đánh giá chất lượng và nguồn gốc dữ liệu; hiểu tính chất của thủ tục suy luận thay vì áp dụng máy móc; ưu tiên mô hình tiết kiệm (parsimony) và truyền đạt dễ hiểu; định lượng độ bất định, bao gồm cả bất định cấu trúc và sai số không lấy mẫu; chẩn đoán mô hình và phân tích độ nhạy; lặp lại độc lập (replication) để kiểm chứng tính tổng quát; và tái lập tính toán (computational reproducibility) thông qua chia sẻ dữ liệu và mã.
+Mười quy tắc tương ứng với các nguyên lý quen thuộc của phương pháp luận thống kê:
+
+- định hướng câu hỏi nghiên cứu và ước lượng mục tiêu (estimand) trước khi chọn phương pháp
+- mô hình hoá thống kê như sự trừu tượng của quá trình sinh dữ liệu
+- đăng ký trước đề cương và kế hoạch phân tích thống kê để kiểm soát "khu vườn những lối rẽ" và so sánh bội
+- đánh giá chất lượng và nguồn gốc dữ liệu
+- hiểu tính chất của thủ tục suy luận thay vì áp dụng máy móc
+- ưu tiên mô hình tiết kiệm (parsimony) và truyền đạt dễ hiểu
+- định lượng độ bất định, bao gồm cả bất định cấu trúc và sai số không lấy mẫu
+- chẩn đoán mô hình và phân tích độ nhạy
+- lặp lại độc lập (replication) để kiểm chứng tính tổng quát
+- và tái lập tính toán (computational reproducibility) thông qua chia sẻ dữ liệu và mã.
 
 ## Thuật ngữ
 

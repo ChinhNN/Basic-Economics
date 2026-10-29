@@ -256,7 +256,9 @@ Mục cuối dựng khoảng tin cậy Poisson cho số vụ giết người ở
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Một thống kê tính từ mẫu biến thiên thế nào nếu ta lấy mẫu lại?** Nó là một biến ngẫu nhiên có phân phối riêng (phân phối mẫu). Với tỷ lệ, đó là phân phối nhị thức: trong tổng thể có 20% người thuận tay trái, tỷ lệ quan sát trong mẫu luôn có trung bình 0,2, và độ lệch chuẩn (gọi là sai số chuẩn) √(0,2 × 0,8 / n) giảm từ 0,4 với n = 1 xuống 0,04 với n = 100 và 0,013 với n = 1.000. Theo định lý giới hạn trung tâm, với mẫu lớn, trung bình mẫu gần như luôn có phân phối chuẩn, bất kể hình dạng phân phối gốc. Hệ quả thực tế: đơn vị nhỏ (quận ít dân) sẽ có kết quả cực đoan hơn chỉ vì may rủi — chênh lệch "gấp ba lần" tử vong do ung thư ruột giữa các quận ở Anh là điều dự kiến dù rủi ro như nhau.
+1. **Một thống kê tính từ mẫu biến thiên thế nào nếu ta lấy mẫu lại?** Nó là một biến ngẫu nhiên có phân phối riêng (phân phối mẫu). Với tỷ lệ, đó là phân phối nhị thức: trong tổng thể có 20% người thuận tay trái, tỷ lệ quan sát trong mẫu luôn có trung bình 0,2, và độ lệch chuẩn (gọi là sai số chuẩn) √(0,2 × 0,8 / n) giảm từ 0,4 với n = 1 xuống 0,04 với n = 100 và 0,013 với n = 1.000. Theo định lý giới hạn trung tâm, với mẫu lớn, trung bình mẫu gần như luôn có phân phối chuẩn, bất kể hình dạng phân phối gốc.
+
+   Hệ quả thực tế: đơn vị nhỏ (quận ít dân) sẽ có kết quả cực đoan hơn chỉ vì may rủi — chênh lệch "gấp ba lần" tử vong do ung thư ruột giữa các quận ở Anh là điều dự kiến dù rủi ro như nhau.
 2. **Từ một mẫu duy nhất, làm sao nói được tham số tổng thể nằm trong khoảng nào?** Bằng cách đảo chiều: với mỗi giá trị tham số có thể, xác suất cho một khoảng dự báo 95% của thống kê; khoảng tin cậy 95% là tập các giá trị tham số mà khoảng dự báo của chúng chứa thống kê quan sát được. Trên thực tế, khoảng này xấp xỉ ước lượng ± 2 (chính xác là 1,96) sai số chuẩn. Với điều tra tỷ lệ phần trăm, biên sai số tối đa là ±100/√n điểm phần trăm, khoảng ±3% với 1.000 người. "95%" là tính chất của quy trình: lặp lại nhiều lần thì 95% các khoảng chứa giá trị thật.
 3. **Khi nào nên nghi ngờ biên sai số, và khoảng tin cậy có nghĩa gì khi ta đã có toàn bộ dữ liệu?** Biên sai số chỉ đo sai số ngẫu nhiên do chọn mẫu (sai số loại A), không đo sai số hệ thống (loại B) như tỷ lệ trả lời thấp hay mẫu lệch; các thăm dò bầu cử Anh 2017 dao động vượt xa ±3%, nên tác giả khuyên nhân đôi biên sai số công bố. Khi đã đếm đủ mọi vụ giết người, khoảng tin cậy không nói về số vụ thật (đã biết) mà về "rủi ro nền" của xã hội, tức tham số của một tổng thể ẩn dụ: 497 vụ cho khoảng 453–541; mức tăng 60 vụ năm sau có khoảng −4 đến +124, nên chưa thể kết luận chắc chắn rủi ro đã tăng.
 
@@ -332,7 +334,9 @@ Chênh lệch gấp ba nghe rất kịch tính. Khi đọc bài báo, blogger Pa
 
 Nhưng ông chưa dừng lại. Ông vẽ tỷ lệ tử vong theo dân số của từng quận, và thấy các điểm (trừ trường hợp cực đoan Glasgow City) tạo thành một dạng phễu: dân số càng nhỏ, chênh lệch giữa các quận càng lớn. Sau đó ông thêm các **giới hạn kiểm soát**, cho biết các điểm dự kiến rơi vào đâu nếu khác biệt giữa các tỷ lệ quan sát chỉ do biến thiên tự nhiên, không tránh được trong số người chết vì ung thư ruột mỗi năm, chứ không do khác biệt có hệ thống về rủi ro nền giữa các quận.
 
-Giới hạn kiểm soát có được bằng cách giả định số ca tử vong do ung thư ruột ở mỗi vùng là một quan sát từ phân phối nhị thức, với cỡ mẫu bằng dân số trưởng thành của vùng và xác suất 0,000176 để một người bất kỳ chết vì ung thư ruột mỗi năm — rủi ro cá nhân trung bình của cả nước (tức 17,6 ca trên 100.000 người). Hai cặp giới hạn được đặt để chứa 95% và 99,8% phân phối xác suất. Loại đồ thị này gọi là **biểu đồ phễu**; nó được dùng rộng rãi khi xem xét nhiều cơ quan y tế hay tổ chức, vì cho phép nhận diện đơn vị bất thường mà không tạo ra những bảng xếp hạng giả tạo. (Theo bảng thuật ngữ cuối sách: khi phân phối xấp xỉ chuẩn, giới hạn 95% và 99,8% về bản chất là trung bình ± 2 và ± 3 sai số chuẩn.)
+Giới hạn kiểm soát có được bằng cách giả định số ca tử vong do ung thư ruột ở mỗi vùng là một quan sát từ phân phối nhị thức, với cỡ mẫu bằng dân số trưởng thành của vùng và xác suất 0,000176 để một người bất kỳ chết vì ung thư ruột mỗi năm — rủi ro cá nhân trung bình của cả nước (tức 17,6 ca trên 100.000 người).
+
+Hai cặp giới hạn được đặt để chứa 95% và 99,8% phân phối xác suất. Loại đồ thị này gọi là **biểu đồ phễu**; nó được dùng rộng rãi khi xem xét nhiều cơ quan y tế hay tổ chức, vì cho phép nhận diện đơn vị bất thường mà không tạo ra những bảng xếp hạng giả tạo. (Theo bảng thuật ngữ cuối sách: khi phân phối xấp xỉ chuẩn, giới hạn 95% và 99,8% về bản chất là trung bình ± 2 và ± 3 sai số chuẩn.)
 
 **Hình: Tỷ lệ tử vong do ung thư ruột hằng năm trên 100.000 dân ở 380 quận của Anh, theo dân số quận (Figure 9.2 trong sách).** Trục hoành là dân số tính bằng trăm nghìn người (0 đến 12), trục tung là tỷ lệ tử vong trên 100.000 dân (0 đến khoảng 32). Hình không ghi số; mô tả dưới đây là ước lượng đọc từ trục, còn giới hạn kiểm soát do người tổng hợp tính lại bằng xấp xỉ chuẩn và khớp với các đường trên hình.
 
@@ -368,9 +372,9 @@ Tất nhiên, ở đầu chuỗi, tỷ lệ có thể còn xa 50:50, chẳng h�
 
 **Định lý giới hạn trung tâm.** Chương 3 đã giới thiệu "đường cong hình chuông" kinh điển, còn gọi là phân phối chuẩn hay phân phối Gauss, và cho thấy nó mô tả tốt phân phối cân nặng sơ sinh ở Mỹ, với lập luận rằng cân nặng sơ sinh phụ thuộc vào vô số yếu tố, mỗi yếu tố có ảnh hưởng nhỏ — cộng tất cả các tác động nhỏ đó lại ta được một phân phối chuẩn. Đó là lập luận nằm sau cái gọi là **định lý giới hạn trung tâm**, được nhà toán học Pháp Abraham de Moivre chứng minh lần đầu năm 1733 cho trường hợp riêng của phân phối nhị thức.
 
-Nhưng không chỉ phân phối nhị thức tiến tới đường cong chuẩn khi cỡ mẫu tăng: một sự thật đáng chú ý là gần như *bất kể* hình dạng phân phối tổng thể mà các phép đo ban đầu được rút từ đó, với cỡ mẫu lớn, trung bình của chúng có thể coi như rút từ một đường cong chuẩn. (Chú thích của tác giả: có những ngoại lệ quan trọng — một số phân phối có đuôi dài, "nặng" đến mức kỳ vọng và độ lệch chuẩn của chúng không tồn tại, nên trung bình chẳng có gì để hội tụ tới. Theo hiểu biết của người tổng hợp, ví dụ kinh điển là phân phối Cauchy.) Phân phối chuẩn này có trung bình bằng trung bình của phân phối gốc, và độ lệch chuẩn có quan hệ đơn giản với độ lệch chuẩn của phân phối tổng thể gốc, thường được gọi là sai số chuẩn.
+Nhưng không chỉ phân phối nhị thức tiến tới đường cong chuẩn khi cỡ mẫu tăng: một sự thật đáng chú ý là gần như *bất kể* hình dạng phân phối tổng thể mà các phép đo ban đầu được rút từ đó, với cỡ mẫu lớn, trung bình của chúng có thể coi như rút từ một đường cong chuẩn. (Chú thích của tác giả: có những ngoại lệ quan trọng — một số phân phối có đuôi dài, "nặng" đến mức kỳ vọng và độ lệch chuẩn của chúng không tồn tại, nên trung bình chẳng có gì để hội tụ tới. Theo hiểu biết của người tổng hợp, ví dụ kinh điển là phân phối Cauchy.)
 
-(Chú thích của tác giả: nếu có thể giả định mọi quan sát độc lập và đến từ cùng một phân phối tổng thể, sai số chuẩn của trung bình chúng đúng bằng độ lệch chuẩn của phân phối tổng thể chia cho căn bậc hai của cỡ mẫu. Theo bảng thuật ngữ: n quan sát độc lập, mỗi quan sát có trung bình μ và phương sai σ², thì trung bình mẫu có phân phối xấp xỉ chuẩn với trung bình μ, phương sai σ²/n và độ lệch chuẩn σ/√n.)
+Phân phối chuẩn này có trung bình bằng trung bình của phân phối gốc, và độ lệch chuẩn có quan hệ đơn giản với độ lệch chuẩn của phân phối tổng thể gốc, thường được gọi là sai số chuẩn. (Chú thích của tác giả: nếu có thể giả định mọi quan sát độc lập và đến từ cùng một phân phối tổng thể, sai số chuẩn của trung bình chúng đúng bằng độ lệch chuẩn của phân phối tổng thể chia cho căn bậc hai của cỡ mẫu. Theo bảng thuật ngữ: n quan sát độc lập, mỗi quan sát có trung bình μ và phương sai σ², thì trung bình mẫu có phân phối xấp xỉ chuẩn với trung bình μ, phương sai σ²/n và độ lệch chuẩn σ/√n.)
 
 Ngoài công trình về trí tuệ đám đông, tương quan, hồi quy và gần như mọi thứ khác, Francis Galton còn coi việc phân phối chuẩn — khi đó gọi là **Luật Tần suất Sai số** (Law of Frequency of Error) — xuất hiện một cách trật tự từ sự hỗn loạn bề ngoài là một điều kỳ diệu thực sự. Ông viết (dịch):
 
@@ -386,7 +390,9 @@ Toàn bộ lý thuyết trên dùng tốt để chứng minh các điều về p
 
 Bài tập đơn giản này cho thấy một phân biệt lớn giữa hai loại bất định: **bất định ngẫu nhiên** (aleatory uncertainty) *trước khi* tung đồng xu — "cơ hội" của một biến cố không đoán trước được — và **bất định nhận thức** (epistemic uncertainty) *sau khi* tung — sự diễn đạt cho việc ta không biết về một biến cố đã cố định nhưng chưa biết. Cũng như khác biệt giữa vé số (kết quả phụ thuộc may rủi) và thẻ cào (kết quả đã định sẵn, chỉ là bạn chưa biết).
 
-Thống kê được dùng khi ta có bất định nhận thức về một đại lượng nào đó của thế giới. Ví dụ, ta làm điều tra khi không biết tỷ lệ thật những người trong tổng thể tự coi mình theo đạo, hay làm thử nghiệm dược phẩm khi không biết tác dụng trung bình thật của một loại thuốc. Những đại lượng cố định nhưng chưa biết này gọi là **tham số** và thường được ký hiệu bằng chữ cái Hy Lạp. (Chú thích của tác giả: những người theo thống kê Bayes sẵn lòng dùng xác suất cho bất định nhận thức về tham số — chú thích ghi sẽ bàn ở Chương 12, nhưng thực ra là Chương 11.) Giống như trò đồng xu, *trước khi* làm các thí nghiệm này, ta có bất định ngẫu nhiên về kết quả, do việc chọn mẫu ngẫu nhiên các cá nhân hay phân bổ ngẫu nhiên bệnh nhân vào nhóm dùng thuốc hoặc viên giả dược.
+Thống kê được dùng khi ta có bất định nhận thức về một đại lượng nào đó của thế giới. Ví dụ, ta làm điều tra khi không biết tỷ lệ thật những người trong tổng thể tự coi mình theo đạo, hay làm thử nghiệm dược phẩm khi không biết tác dụng trung bình thật của một loại thuốc. Những đại lượng cố định nhưng chưa biết này gọi là **tham số** và thường được ký hiệu bằng chữ cái Hy Lạp. (Chú thích của tác giả: những người theo thống kê Bayes sẵn lòng dùng xác suất cho bất định nhận thức về tham số — chú thích ghi sẽ bàn ở Chương 12, nhưng thực ra là Chương 11.)
+
+Giống như trò đồng xu, *trước khi* làm các thí nghiệm này, ta có bất định ngẫu nhiên về kết quả, do việc chọn mẫu ngẫu nhiên các cá nhân hay phân bổ ngẫu nhiên bệnh nhân vào nhóm dùng thuốc hoặc viên giả dược.
 
 Rồi *sau khi* làm nghiên cứu và có dữ liệu, ta dùng chính mô hình xác suất đó để nắm bắt bất định nhận thức hiện tại, giống như cuối cùng bạn sẵn lòng nói "50:50" về đồng xu bị che. Vậy lý thuyết xác suất, vốn cho biết điều gì dự kiến xảy ra trong tương lai, được dùng để cho biết ta học được gì từ những điều đã quan sát trong quá khứ. Đây là nền tảng (khá đáng chú ý) của suy luận thống kê.
 
@@ -690,13 +696,13 @@ flowchart LR
   n3 --- n4
   n5["`Công thức xác suất cho hiểu biết, luôn cùng đáp án — nhưng dựa trên giả định`"]
   n3 --- n5
-  n6["`Tổng thể 20% thuận tay trái, mẫu 1, 2, 5, 10, 100, 1000 người`"]
+  n6["`Tổng thể 20% thuận tay trái, mẫu 1, 2, 5, 10, 100, 1.000 người`"]
   n1 --- n6
   n7["`Mẫu 2 người: tỷ lệ 0, 0,5, 1 với xác suất 0,64, 0,32, 0,04`"]
   n6 --- n7
   n8["`Tỷ lệ quan sát có phân phối nhị thức, kỳ vọng luôn 0,2`"]
   n6 --- n8
-  n9["`Sai số chuẩn √(0,2 × 0,8 / n) giảm từ 0,40 (n = 1) xuống 0,013 (n = 1000)`"]
+  n9["`Sai số chuẩn √(0,2 × 0,8 / n) giảm từ 0,40 (n = 1) xuống 0,013 (n = 1.000)`"]
   n6 --- n9
   n10["`Mẫu lớn dần: phân phối hẹp lại và thành hình chuông`"]
   n6 --- n10
@@ -704,7 +710,7 @@ flowchart LR
   n1 --- n11
   n12["`Phần mở đầu chương, tiếp — chênh lệch gấp ba tử vong do ung thư ruột`"]
   n0 --- n12
-  n13["`BBC 2011: Rossendale 9, Glasgow City 31 ca trên 100 000 dân mỗi năm`"]
+  n13["`BBC 2011: Rossendale 9, Glasgow City 31 ca trên 100.000 dân mỗi năm`"]
   n12 --- n13
   n14["`Blogger Paul Barden vẽ 380 quận theo dân số và thấy hình phễu`"]
   n12 --- n14
@@ -762,7 +768,7 @@ flowchart LR
   n0 --- n40
   n41["`Quy tắc nhanh: biên sai số tối đa ± 100/√n điểm phần trăm`"]
   n40 --- n41
-  n42["`1000 người cho ± 3% — 400 trên 1000 thích cà phê thành 37% đến 43%`"]
+  n42["`1.000 người cho ± 3% — 400 trên 1.000 thích cà phê thành 37% đến 43%`"]
   n41 --- n42
   n43["`Chỉ đúng nếu mẫu ngẫu nhiên, ai cũng trả lời, có ý kiến và nói thật`"]
   n41 --- n43

@@ -2,7 +2,9 @@
 
 ## Ý chính
 
-Spiegelhalter muốn người đọc hiểu rằng **kiểm định giả thuyết là một cơ chế để tự bảo vệ trước những "phát hiện" giả: ta giữ một giả thuyết không (null hypothesis) — giả định mặc định rằng không có gì xảy ra — cho tới khi dữ liệu đủ bất ngờ dưới giả định đó; giá trị P đo mức bất ngờ ấy, tức xác suất có được kết quả cực đoan ít nhất như đã quan sát nếu giả thuyết không (và mọi giả định khác của mô hình) đúng. Giá trị P không phải xác suất giả thuyết không đúng, không đo độ lớn hay tầm quan trọng của hiệu ứng, và "không có ý nghĩa thống kê" không có nghĩa là "không có hiệu ứng"; khi làm nhiều kiểm định, cắt dữ liệu thành nhiều nhóm hay kiểm định lặp lại trên dữ liệu tích luỹ, ngưỡng phải được điều chỉnh, nếu không phát hiện giả là điều chắc chắn xảy ra.**
+Spiegelhalter muốn người đọc hiểu rằng **kiểm định giả thuyết là một cơ chế để tự bảo vệ trước những "phát hiện" giả: ta giữ một giả thuyết không (null hypothesis) — giả định mặc định rằng không có gì xảy ra — cho tới khi dữ liệu đủ bất ngờ dưới giả định đó; giá trị P đo mức bất ngờ ấy, tức xác suất có được kết quả cực đoan ít nhất như đã quan sát nếu giả thuyết không (và mọi giả định khác của mô hình) đúng.**
+
+**Giá trị P không phải xác suất giả thuyết không đúng, không đo độ lớn hay tầm quan trọng của hiệu ứng, và "không có ý nghĩa thống kê" không có nghĩa là "không có hiệu ứng"; khi làm nhiều kiểm định, cắt dữ liệu thành nhiều nhóm hay kiểm định lặp lại trên dữ liệu tích luỹ, ngưỡng phải được điều chỉnh, nếu không phát hiện giả là điều chắc chắn xảy ra.**
 
 Chương mở đầu bằng John Arbuthnot (1710): 82 năm liền ở London số bé trai được rửa tội đều nhiều hơn bé gái, xác suất điều đó xảy ra nếu bé trai và bé gái là "năm ăn năm thua" là 1/2^82 — kiểm định ý nghĩa thống kê đầu tiên trong lịch sử. Mục "What Is a 'Hypothesis'?" định nghĩa giả thuyết là một giả định tạm thời về một thành phần của mô hình thống kê.
 
@@ -360,8 +362,13 @@ Phần "What could go wrong with P-values?" dùng cây tần số 1.000 nghiên 
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao biết một khác biệt quan sát được là "thật" hay chỉ do ngẫu nhiên?** Đặt một giả thuyết không — giả định rằng không có khác biệt, không có tác dụng — rồi hỏi: nếu giả thuyết đó đúng, khả năng thấy một kết quả cực đoan ít nhất như đã thấy là bao nhiêu? Con số đó là giá trị P. Phân phối của thống kê dưới giả thuyết không có thể tạo bằng mô phỏng (kiểm định hoán vị) hoặc bằng lý thuyết xác suất (phân phối siêu bội, kiểm định khi bình phương, thống kê t). Arbuthnot: 82 năm liền bé trai nhiều hơn, P = 1/2⁸² — bác bỏ giả thuyết "50:50". Khoanh tay: nữ 64% so với nam 57%, P hai phía 0,89 — không có bằng chứng. Statin: giảm 27% nhồi máu cơ tim, khoảng tin cậy 21%–33%, P < 0,0001 — bằng chứng rất mạnh. Khoảng tin cậy và giá trị P là hai mặt của cùng một phép tính: khoảng 95% không chứa 0 khi và chỉ khi P hai phía nhỏ hơn 0,05.
-2. **Khi nào một "phát hiện có ý nghĩa thống kê" vẫn có thể là sai?** Khi làm nhiều kiểm định rồi chọn kết quả nổi bật nhất (10 kiểm định với thuốc vô dụng: 40% khả năng có ít nhất một kết quả "có ý nghĩa"; con cá hồi chết có 16 trên 8.064 vùng não "phản ứng"); khi kiểm định lặp lại trên dữ liệu tích luỹ (theo luật lôgarit lặp, sớm muộn gì cũng bác bỏ giả thuyết không đúng); và khi phần lớn giả thuyết được kiểm định vốn đúng (với α = 5%, lực 80% và chỉ 10% giả thuyết không sai, 45 trên 125 "phát hiện", tức 36%, là sai). Cách chữa: hiệu chỉnh Bonferroni (ngưỡng 0,05/n), kiểm soát tỷ lệ phát hiện sai, đòi hỏi lặp lại (FDA: hai thử nghiệm, xác suất duyệt nhầm thuốc vô dụng 1/400), kiểm định tuần tự (SPRT), ngưỡng chặt hơn (năm sigma của hạt Higgs; đề xuất P < 0,005).
+1. **Làm sao biết một khác biệt quan sát được là "thật" hay chỉ do ngẫu nhiên?** Đặt một giả thuyết không — giả định rằng không có khác biệt, không có tác dụng — rồi hỏi: nếu giả thuyết đó đúng, khả năng thấy một kết quả cực đoan ít nhất như đã thấy là bao nhiêu? Con số đó là giá trị P. Phân phối của thống kê dưới giả thuyết không có thể tạo bằng mô phỏng (kiểm định hoán vị) hoặc bằng lý thuyết xác suất (phân phối siêu bội, kiểm định khi bình phương, thống kê t).
+
+   Arbuthnot: 82 năm liền bé trai nhiều hơn, P = 1/2⁸² — bác bỏ giả thuyết "50:50". Khoanh tay: nữ 64% so với nam 57%, P hai phía 0,89 — không có bằng chứng. Statin: giảm 27% nhồi máu cơ tim, khoảng tin cậy 21%–33%, P < 0,0001 — bằng chứng rất mạnh. Khoảng tin cậy và giá trị P là hai mặt của cùng một phép tính: khoảng 95% không chứa 0 khi và chỉ khi P hai phía nhỏ hơn 0,05.
+
+2. **Khi nào một "phát hiện có ý nghĩa thống kê" vẫn có thể là sai?** Khi làm nhiều kiểm định rồi chọn kết quả nổi bật nhất (10 kiểm định với thuốc vô dụng: 40% khả năng có ít nhất một kết quả "có ý nghĩa"; con cá hồi chết có 16 trên 8.064 vùng não "phản ứng"); khi kiểm định lặp lại trên dữ liệu tích luỹ (theo luật lôgarit lặp, sớm muộn gì cũng bác bỏ giả thuyết không đúng); và khi phần lớn giả thuyết được kiểm định vốn đúng (với α = 5%, lực 80% và chỉ 10% giả thuyết không sai, 45 trên 125 "phát hiện", tức 36%, là sai).
+
+   Cách chữa: hiệu chỉnh Bonferroni (ngưỡng 0,05/n), kiểm soát tỷ lệ phát hiện sai, đòi hỏi lặp lại (FDA: hai thử nghiệm, xác suất duyệt nhầm thuốc vô dụng 1/400), kiểm định tuần tự (SPRT), ngưỡng chặt hơn (năm sigma của hạt Higgs; đề xuất P < 0,005).
 3. **Giá trị P KHÔNG nói gì?** Nó không phải xác suất giả thuyết không đúng, cũng không phải xác suất kết quả "chỉ do may rủi" (báo chí viết sai về hạt Higgs); "không có ý nghĩa" không có nghĩa "không có hiệu ứng" (rượu: khoảng tin cậy rộng vẫn tương thích với mức giảm tử vong 10%–20%); "có ý nghĩa" không có nghĩa "quan trọng" (học đại học tăng nguy cơ u não 19%, tức 6 so với 5 ca trên 3.000 nam giới, chỉ phát hiện được vì có hơn 2 triệu người); và riêng một giá trị P gần 0,05 chỉ là bằng chứng yếu. Cũng vì vậy, thống kê phát hiện được điểm bất thường (Shipman) nhưng không giải thích được nguyên nhân (vị bác sĩ ở thị trấn nhiều nhà dưỡng lão).
 
 ## Khái niệm cần biết
@@ -478,7 +485,9 @@ Hãy tưởng tượng 54 sinh viên đứng thành hàng, 14 người đầu l�
 
 Dù vé đã được chia ngẫu nhiên, tỷ lệ "tay phải" ở nữ và nam sẽ không đúng bằng nhau, chỉ do may rủi, và ta tính được chênh lệch tỷ lệ cho lần chia lại này. Lặp lại việc chia ngẫu nhiên, chẳng hạn 1.000 lần, sẽ cho một phân phối các chênh lệch. Cách khác, nếu có rất nhiều thời gian, là duyệt có hệ thống mọi hoán vị có thể của các vé, thay vì chỉ mô phỏng 1.000 lần; phân phối thu được sẽ trơn hơn. Tiếc là số hoán vị khổng lồ: kể cả tính một triệu hoán vị mỗi giây, số năm cần để duyệt hết có 57 chữ số 0 theo sau.
 
-(Chú thích cuối chương của tác giả: có 54 × 53 × 52 × … × 2 × 1 hoán vị, gọi là "54 giai thừa", ký hiệu 54!, xấp xỉ 2 với 71 chữ số 0 theo sau. Người tổng hợp kiểm tra: 54! ≈ 2,3 × 10⁷¹; chia cho 10⁶ hoán vị/giây và khoảng 3,16 × 10⁷ giây/năm được khoảng 7 × 10⁵⁷ năm, khớp. Tác giả thêm: số cách chia một bộ bài 52 lá là 52! ≈ 8 × 10⁶⁷, nên kể cả chia một nghìn tỷ ván mỗi giây, số năm cần để duyệt hết có 48 chữ số 0 theo sau — người tổng hợp tính được khoảng 2,6 × 10⁴⁸ năm — trong khi tuổi vũ trụ chỉ khoảng 14 tỷ năm. Vì thế có thể khá chắc rằng trong toàn bộ lịch sử chơi bài, chưa từng có hai bộ bài đã xáo nào có thứ tự giống hệt nhau.)
+(Chú thích cuối chương của tác giả: có 54 × 53 × 52 × … × 2 × 1 hoán vị, gọi là "54 giai thừa", ký hiệu 54!, xấp xỉ 2 với 71 chữ số 0 theo sau. Người tổng hợp kiểm tra: 54! ≈ 2,3 × 10⁷¹. Chia cho 10⁶ hoán vị/giây và khoảng 3,16 × 10⁷ giây/năm được khoảng 7 × 10⁵⁷ năm, khớp.)
+
+(Tác giả thêm: số cách chia một bộ bài 52 lá là 52! ≈ 8 × 10⁶⁷, nên kể cả chia một nghìn tỷ ván mỗi giây, số năm cần để duyệt hết có 48 chữ số 0 theo sau — người tổng hợp tính được khoảng 2,6 × 10⁴⁸ năm — trong khi tuổi vũ trụ chỉ khoảng 14 tỷ năm. Vì thế có thể khá chắc rằng trong toàn bộ lịch sử chơi bài, chưa từng có hai bộ bài đã xáo nào có thứ tự giống hệt nhau.)
 
 May là không cần làm vậy, vì phân phối của chênh lệch tỷ lệ dưới giả thuyết không có thể tính bằng lý thuyết, dựa trên **phân phối siêu bội** — phân phối cho xác suất một ô cụ thể của bảng nhận từng giá trị có thể dưới các hoán vị ngẫu nhiên. (Theo bảng thuật ngữ của sách: xác suất có k phần tử mang đặc điểm khi rút n lần không hoàn lại từ tổng thể N phần tử có đúng K phần tử mang đặc điểm, bằng C(K, k) × C(N − K, n − k) / C(N, n). Ở đây N = 54, K = 32 người tay phải, n = 14 nữ.)
 
@@ -646,9 +655,9 @@ Các nhà nghiên cứu dành cả đời soi những kết quả máy tính nh�
 
 Các ngưỡng chuẩn để tuyên bố "có ý nghĩa", P < 0,05 và P < 0,01, là lựa chọn khá tuỳ tiện của Fisher cho các bảng tra của ông, vào thời chưa thể tính giá trị P chính xác bằng máy tính cơ và điện. Điều gì xảy ra khi làm nhiều kiểm định, mỗi lần xem giá trị P có nhỏ hơn 0,05 không?
 
-Giả sử một loại thuốc thật sự không có tác dụng, tức giả thuyết không đúng. Nếu làm một thử nghiệm lâm sàng, ta sẽ tuyên bố kết quả có ý nghĩa nếu P < 0,05, và vì thuốc vô dụng, khả năng này là 0,05 hay 5% — đó chính là định nghĩa của giá trị P. Kết quả như vậy là **dương tính giả**, vì ta tin sai rằng thuốc có hiệu quả. Nếu làm hai thử nghiệm và nhìn vào kết quả cực đoan nhất, khả năng có ít nhất một kết quả có ý nghĩa — tức dương tính giả — gần 0,10 hay 10%.
+Giả sử một loại thuốc thật sự không có tác dụng, tức giả thuyết không đúng. Nếu làm một thử nghiệm lâm sàng, ta sẽ tuyên bố kết quả có ý nghĩa nếu P < 0,05, và vì thuốc vô dụng, khả năng này là 0,05 hay 5% — đó chính là định nghĩa của giá trị P. Kết quả như vậy là **dương tính giả**, vì ta tin sai rằng thuốc có hiệu quả. Nếu làm hai thử nghiệm và nhìn vào kết quả cực đoan nhất, khả năng có ít nhất một kết quả có ý nghĩa — tức dương tính giả — gần 0,10 hay 10%. (Chú thích của tác giả: chính xác là 1 − xác suất cả hai đều không có ý nghĩa = 1 − 0,95 × 0,95 = 0,0975, làm tròn thành 0,10.)
 
-(Chú thích của tác giả: chính xác là 1 − xác suất cả hai đều không có ý nghĩa = 1 − 0,95 × 0,95 = 0,0975, làm tròn thành 0,10.) Khả năng có ít nhất một dương tính giả tăng nhanh khi làm thêm thử nghiệm; với mười thử nghiệm thuốc vô dụng, khả năng có ít nhất một kết quả có ý nghĩa ở P < 0,05 lên tới 40% (1 − 0,95¹⁰ = 1 − 0,599 = 0,401). Đây là vấn đề **kiểm định nhiều lần**, xảy ra mỗi khi làm nhiều kiểm định ý nghĩa rồi báo cáo kết quả có ý nghĩa nhất.
+Khả năng có ít nhất một dương tính giả tăng nhanh khi làm thêm thử nghiệm; với mười thử nghiệm thuốc vô dụng, khả năng có ít nhất một kết quả có ý nghĩa ở P < 0,05 lên tới 40% (1 − 0,95¹⁰ = 1 − 0,599 = 0,401). Đây là vấn đề **kiểm định nhiều lần**, xảy ra mỗi khi làm nhiều kiểm định ý nghĩa rồi báo cáo kết quả có ý nghĩa nhất.
 
 #### Con cá hồi chết
 
@@ -771,15 +780,19 @@ Một cách khác là áp dụng Bonferroni và đòi giá trị P 0,05/25.000, 
 
 May là có các phương pháp thống kê để xử lý vấn đề **kiểm định tuần tự** này, phát triển lần đầu trong Thế chiến II bởi các nhóm nhà thống kê chẳng liên quan gì tới y tế, mà làm kiểm soát chất lượng công nghiệp cho vũ khí và vật tư chiến tranh. Các sản phẩm ra khỏi dây chuyền được kiểm tra xem có đạt chuẩn không, và toàn bộ quy trình được giám sát bằng cách cộng dồn đều đặn tổng độ lệch so với chuẩn, giống như theo dõi tử vong vượt.
 
-Các nhà khoa học này nhận ra luật lôgarit lặp có nghĩa là kiểm định ý nghĩa lặp lại sớm muộn sẽ luôn báo động rằng quy trình công nghiệp đã mất kiểm soát, kể cả khi thật ra mọi thứ vẫn vận hành tốt. Các nhà thống kê ở Mỹ và Anh, làm việc độc lập, đã phát triển cái về sau được gọi là **Kiểm định tỷ số xác suất tuần tự (SPRT)**: một thống kê theo dõi bằng chứng tích luỹ về độ lệch và có thể so bất cứ lúc nào với các ngưỡng đơn giản — ngay khi một ngưỡng bị vượt, báo động được phát ra và dây chuyền được kiểm tra.
+Các nhà khoa học này nhận ra luật lôgarit lặp có nghĩa là kiểm định ý nghĩa lặp lại sớm muộn sẽ luôn báo động rằng quy trình công nghiệp đã mất kiểm soát, kể cả khi thật ra mọi thứ vẫn vận hành tốt.
 
-(Chú thích của tác giả: nhóm ở Mỹ do Abraham Wald dẫn dắt, ở Anh do George Barnard. Barnard là một người dễ mến, trước chiến tranh là nhà toán học thuần tuý (và đảng viên cộng sản), như nhiều người khác đã chuyển kỹ năng sang công việc thống kê thời chiến; về sau ông xây dựng tiêu chuẩn chính thức của Anh cho bao cao su, BS 3704.) Các kỹ thuật này làm quy trình công nghiệp hiệu quả hơn, và về sau được điều chỉnh để dùng trong các thử nghiệm lâm sàng tuần tự, nơi kết quả tích luỹ được theo dõi lặp lại để xem đã vượt ngưỡng cho thấy phương pháp điều trị có lợi hay chưa.
+Các nhà thống kê ở Mỹ và Anh, làm việc độc lập, đã phát triển cái về sau được gọi là **Kiểm định tỷ số xác suất tuần tự (SPRT)**: một thống kê theo dõi bằng chứng tích luỹ về độ lệch và có thể so bất cứ lúc nào với các ngưỡng đơn giản — ngay khi một ngưỡng bị vượt, báo động được phát ra và dây chuyền được kiểm tra. (Chú thích của tác giả: nhóm ở Mỹ do Abraham Wald dẫn dắt, ở Anh do George Barnard. Barnard là một người dễ mến, trước chiến tranh là nhà toán học thuần tuý (và đảng viên cộng sản), như nhiều người khác đã chuyển kỹ năng sang công việc thống kê thời chiến; về sau ông xây dựng tiêu chuẩn chính thức của Anh cho bao cao su, BS 3704.)
+
+Các kỹ thuật này làm quy trình công nghiệp hiệu quả hơn, và về sau được điều chỉnh để dùng trong các thử nghiệm lâm sàng tuần tự, nơi kết quả tích luỹ được theo dõi lặp lại để xem đã vượt ngưỡng cho thấy phương pháp điều trị có lợi hay chưa.
 
 Spiegelhalter là thành viên nhóm phát triển một phiên bản SPRT áp dụng được cho dữ liệu Shipman, với giả thuyết đối rằng Shipman có tỷ lệ tử vong gấp đôi đồng nghiệp. Theo chú thích cuối chương, thống kê kiểm định có dạng đơn giản:
 
 SPRT = 0,69 × số tử vong quan sát cộng dồn − số tử vong kỳ vọng cộng dồn
 
-và các ngưỡng bằng log((1 − β)/α) (lôgarit tự nhiên). (Người tổng hợp giải thích: 0,69 ≈ ln 2. Với số đếm Poisson, lôgarit tỷ số khả năng giữa giả thuyết "tỷ lệ gấp đôi" và giả thuyết "tỷ lệ bình thường" là O × ln 2 − (2E − E) = 0,69 × O − E, với O là số quan sát và E là số kỳ vọng cộng dồn.) Các ngưỡng được chọn để kiểm soát xác suất sai lầm loại I (α) và loại II (β) ở các giá trị 1 trên 100, 1 trên 10.000 và 1 trên 1.000.000: sai lầm loại I là xác suất tổng thể thống kê vượt ngưỡng vào lúc nào đó, khi Shipman có tỷ lệ tử vong như kỳ vọng; sai lầm loại II là xác suất tổng thể thống kê không bao giờ vượt ngưỡng, khi Shipman có tỷ lệ tử vong gấp đôi kỳ vọng.
+và các ngưỡng bằng log((1 − β)/α) (lôgarit tự nhiên). (Người tổng hợp giải thích: 0,69 ≈ ln 2. Với số đếm Poisson, lôgarit tỷ số khả năng giữa giả thuyết "tỷ lệ gấp đôi" và giả thuyết "tỷ lệ bình thường" là O × ln 2 − (2E − E) = 0,69 × O − E, với O là số quan sát và E là số kỳ vọng cộng dồn.)
+
+Các ngưỡng được chọn để kiểm soát xác suất sai lầm loại I (α) và loại II (β) ở các giá trị 1 trên 100, 1 trên 10.000 và 1 trên 1.000.000: sai lầm loại I là xác suất tổng thể thống kê vượt ngưỡng vào lúc nào đó, khi Shipman có tỷ lệ tử vong như kỳ vọng; sai lầm loại II là xác suất tổng thể thống kê không bao giờ vượt ngưỡng, khi Shipman có tỷ lệ tử vong gấp đôi kỳ vọng.
 
 **Hình: Thống kê SPRT để phát hiện nguy cơ tử vong tăng gấp đôi, bệnh nhân trên 64 tuổi chết tại nhà hoặc phòng khám (Figure 10.4 trong sách; đồ thị không ghi số, các giá trị là ước lượng của người tổng hợp đọc từ trục).** Các đường ngang là ngưỡng "báo động", cho tỷ lệ sai lầm loại I và loại II tổng thể như ghi, với giả định α = β. Người tổng hợp tính các ngưỡng: α = β = 0,01 cho ln(0,99/0,01) ≈ 4,6; α = β = 0,0001 cho ln(0,9999/0,0001) ≈ 9,2; α = β = 0,000001 cho ln(0,999999/0,000001) ≈ 13,8 — khớp vị trí ba vạch ngang trên hình.
 
@@ -1093,7 +1106,7 @@ flowchart LR
   n0 --- n1
   n2["`Arbuthnot (1710): 82 năm liền ở London bé trai rửa tội nhiều hơn bé gái`"]
   n1 --- n2
-  n3["`Nếu 50:50 thì xác suất là 1/2 mũ 82 ≈ 2 × 10 mũ −25 — kiểm định ý nghĩa đầu tiên`"]
+  n3["`Nếu 50:50 thì xác suất là 1/2⁸² ≈ 2 × 10⁻²⁵ — kiểm định ý nghĩa đầu tiên`"]
   n2 --- n3
   n4["`Tỷ số giới tính tự nhiên ngày nay khoảng 105 bé trai trên 100 bé gái`"]
   n2 --- n4
@@ -1234,6 +1247,30 @@ Chương 10 chuyển từ câu hỏi "con số này là bao nhiêu và chắc đ
 - **Bảng 10.4 (HPS):** lớp chữ của ebook ghi "P > 0.0001", ảnh trang ghi đúng là "P < 0.0001". Khoảng tin cậy chỉ "xấp xỉ" ước lượng ± 2 sai số chuẩn: với nhồi máu cơ tim, 27% ± 2 × 4% là 19%–35%, còn bảng ghi 21%–33% (sách giải thích do HPS làm tròn). Câu "giá trị P cho mức giảm 27% nhồi máu cơ tim vào khoảng 1 trên 3 triệu" khó khớp với chính số liệu của bảng: 27/4 ≈ 6,75 sai số chuẩn ứng với P cỡ 10⁻¹¹; tính từ số ca (8,7% của 10.269 người và 11,8% của 10.267 người) người tổng hợp được khoảng 7,5 sai số chuẩn. Một trên 3 triệu tương ứng khoảng 5 sai số chuẩn. Người tổng hợp không đối chiếu được nguồn gốc con số này; kết luận "P rất nhỏ" không đổi.
 - **Chú thích Hình 10.1 viết sai loại đường:** chú thích nói "đường liền biểu diễn số bé trai và bé gái bằng nhau", nhưng trên hình, đường biểu diễn tỷ số 100 là **đường nét đứt** nằm ngang; đường liền trơn là đường cong làm khớp với dữ liệu, còn đường gấp khúc màu xám là số liệu từng năm.
 - **Làm tròn nhỏ:** hiệu chỉnh Bonferroni cho con cá hồi dùng 8.000 thay vì 8.064 điểm (0,05/8.064 ≈ 1 trên 161.000, so với 1 trên 160.000 của sách); 25.000 bác sĩ đa khoa × 5% = 1.250, sách làm tròn thành "khoảng 1.300"; 3.715 ca u não trên 2.000.000 nam giới là 1 trên 538, sách ghi "khoảng 1 trên 600" vì số nam giới là "hơn 2 triệu".
-- **Các phép tính đã tự kiểm tra và khớp:** 1/2⁸² ≈ 2,1 × 10⁻²⁵ (24 số 0 sau dấu phẩy); 1/2⁸¹ ≈ 4,1 × 10⁻²⁵; 21/20 = 105 bé trai trên 100 bé gái; 9/14 = 64%, 23/40 = 57%, 32/54 = 59%; kỳ vọng 14 × 22/54 = 5,70; 54! ≈ 2,3 × 10⁷¹ và thời gian duyệt hết với tốc độ một triệu hoán vị mỗi giây ≈ 7 × 10⁵⁷ năm; 52! ≈ 8 × 10⁶⁷ và với một nghìn tỷ ván mỗi giây ≈ 2,6 × 10⁴⁸ năm; nếm trà: C(8,4) = 70; t = 0,33355/0,04600 = 7,25; 0,41175/0,04668 = 8,82; 69,22882/0,10664 = 649,2; Titanic: 0,1028/√412 = 0,0050, t = −0,0027/0,0050 = −0,54, P hai phía ≈ 0,59; 1 − 0,95² = 0,0975; 1 − 0,95¹⁰ = 0,40; 8.064 × 0,001 ≈ 8; 0,05/1.000.000 = 1 trên 20 triệu; 0,05 × 0,05 = 1/400; 0,05/25.000 = 1 trên 500.000; 105 − 59,2 = 45,8 ≈ 46; ngưỡng SPRT ln(0,99/0,01) ≈ 4,6, ln(0,9999/0,0001) ≈ 9,2, ln(0,999999/0,000001) ≈ 13,8 (khớp các vạch trên Hình 10.4); 0,69 = ln 2; cây tần số: 45/125 = 36%, 4,5/84,5 = 5,3%; u não: 3.000/600 = 5, 5 × 1,19 = 5,95 ≈ 6; 10.267 + 10.269 = 20.536 người trong HPS.
+- **Các phép tính đã tự kiểm tra và khớp:**
+  - 1/2⁸² ≈ 2,1 × 10⁻²⁵ (24 số 0 sau dấu phẩy)
+  - 1/2⁸¹ ≈ 4,1 × 10⁻²⁵
+  - 21/20 = 105 bé trai trên 100 bé gái
+  - 9/14 = 64%, 23/40 = 57%, 32/54 = 59%
+  - kỳ vọng 14 × 22/54 = 5,70
+  - 54! ≈ 2,3 × 10⁷¹ và thời gian duyệt hết với tốc độ một triệu hoán vị mỗi giây ≈ 7 × 10⁵⁷ năm
+  - 52! ≈ 8 × 10⁶⁷ và với một nghìn tỷ ván mỗi giây ≈ 2,6 × 10⁴⁸ năm
+  - nếm trà: C(8,4) = 70
+  - t = 0,33355/0,04600 = 7,25
+  - 0,41175/0,04668 = 8,82
+  - 69,22882/0,10664 = 649,2
+  - Titanic: 0,1028/√412 = 0,0050, t = −0,0027/0,0050 = −0,54, P hai phía ≈ 0,59
+  - 1 − 0,95² = 0,0975
+  - 1 − 0,95¹⁰ = 0,40
+  - 8.064 × 0,001 ≈ 8
+  - 0,05/1.000.000 = 1 trên 20 triệu
+  - 0,05 × 0,05 = 1/400
+  - 0,05/25.000 = 1 trên 500.000
+  - 105 − 59,2 = 45,8 ≈ 46
+  - ngưỡng SPRT ln(0,99/0,01) ≈ 4,6, ln(0,9999/0,0001) ≈ 9,2, ln(0,999999/0,000001) ≈ 13,8 (khớp các vạch trên Hình 10.4)
+  - 0,69 = ln 2
+  - cây tần số: 45/125 = 36%, 4,5/84,5 = 5,3%
+  - u não: 3.000/600 = 5, 5 × 1,19 = 5,95 ≈ 6
+  - 10.267 + 10.269 = 20.536 người trong HPS.
 - **Hình là đồ thị không ghi số:** Hình 10.1 (tỷ số giới tính theo năm), Hình 10.2 (hai biểu đồ cột phân phối hoán vị), Hình 10.3 (số tử vong vượt kỳ vọng cộng dồn của Shipman) và Hình 10.4 (thống kê SPRT) không ghi số; mọi con số đọc từ trục trong bản tổng hợp là **ước lượng** của người tổng hợp. Riêng Hình 10.2(b), người tổng hợp kiểm tra số đọc được với phân phối siêu bội tính tay và thấy khớp (ví dụ cột tại −3% khoảng 243 trên 1.000, tính ra 242). Hình 10.5 (cây tần số) có ghi số.
 - **Lớp chữ và chú thích:** các công thức dạng ảnh bị mất trong lớp chữ (công thức sai số chuẩn trong chú thích về Titanic, công thức khi bình phương và công thức phân phối siêu bội trong bảng thuật ngữ); bản tổng hợp viết lại theo dạng chuẩn. Danh sách chú thích dấu sao đi kèm bundle của chương này bị lệch (là chú thích của các chương khác); người tổng hợp đã đối chiếu `footnotes-all.txt` và xác định 9 chú thích chữ (về thuận tay, tỷ số odds, chữ "chi", kiểm định t ghép cặp, 1 − 0,95², việc "chấp nhận" giả thuyết không, giá trị P của Shipman, Wald và Barnard, sáu nguyên tắc ASA) cùng 6 bảng (Bảng 10.1–10.6) là của chương này.
