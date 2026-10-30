@@ -1,11 +1,22 @@
 # Chương 4 — Các nền kinh tế ngoài phương Tây trước khi phương Tây bành trướng (Non-Western Economies on the Eve of Western Expansion)
 
-**Nguồn:** Rondo Cameron và Larry Neal, *A Concise Economic History of the World: From Paleolithic Times to the Present*, ấn bản thứ tư (Oxford University Press, 2003), Chương 4, trang sách 77–93.
-**Tác giả:** Rondo Cameron (1925–2001), nhà sử học kinh tế Mỹ, giáo sư Đại học Emory, tác giả ba ấn bản đầu (1989, 1993, 1997); Larry Neal (sinh 1941), giáo sư kinh tế danh dự Đại học Illinois tại Urbana-Champaign, người cập nhật ấn bản thứ tư sau khi Cameron qua đời.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 đặt khung phân tích: phát triển kinh tế do bốn yếu tố quyết định (dân số, tài nguyên, công nghệ, thể chế) và dân số châu Âu tăng theo các "đường logistic" (logistic, đường cong hình chữ S: một giai đoạn tăng tốc, rồi chậm lại và chững hẳn). Chương 2 đi qua các nền kinh tế cổ đại, Chương 3 kể "đường logistic thứ nhất" của châu Âu trung cổ (dân số tăng từ thế kỷ 9–10, chững lại ở thế kỷ 13 và bị Đại dịch hạch năm 1348 cắt đứt). Chương 4 tạm rời châu Âu để quay sang những vùng còn lại của thế giới vào lúc ngay trước khi người châu Âu tới: thế giới Hồi giáo, Đế chế Ottoman, Đông Á, Nam Á và Đông Nam Á, châu Phi, châu Mỹ. Đây là "vạch xuất phát" để Chương 5 (đường logistic thứ hai của châu Âu, thời đại khám phá) và Chương 6 (chủ nghĩa dân tộc kinh tế và chủ nghĩa đế quốc) kể chuyện châu Âu tiếp xúc, buôn bán và chinh phục các vùng ấy. Chương này không nhắc lại tên bốn yếu tố, nhưng dùng chúng ngầm ở mọi vùng: tài nguyên và địa lý (đất khô cằn của Ả Rập, ruồi tsetse ở châu Phi, sông nhiều thác ghềnh), công nghệ (la bàn, giấy, lúa hai vụ, việc thiếu sắt và súc vật kéo ở châu Mỹ), thể chế (địa vị của thương nhân trong Hồi giáo và trong Nho giáo, hệ thống thuế của Ottoman, chế độ đẳng cấp ở Ấn Độ) và dân số (dân số Trung Quốc tăng gấp đôi trong 600 năm, mật độ dân số châu Mỹ đi theo năng suất). Ý tưởng đường logistic xuất hiện trực tiếp một lần: tác giả cho rằng thế giới Hồi giáo thế kỷ 8–10 có lẽ đã trải qua một đợt tăng dân số và tăng trưởng kinh tế giống đường logistic thứ nhất của châu Âu.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng trước thế kỷ 16 châu Âu chỉ là một trong nhiều vùng tương đối tách biệt, và ở nhiều mặt chưa phải là vùng tiên tiến nhất. Thế giới Hồi giáo, sinh ra từ một nhà tiên tri từng là thương nhân, coi trọng nghề buôn, phát minh ra thư tín dụng và hối phiếu, làm trung gian buôn bán giữa châu Âu và châu Á suốt hàng trăm năm, truyền sang châu Âu la bàn, nghề làm giấy, lúa gạo, mía, bông, cam chanh, và giữ gìn học thuật Hy Lạp cổ. Trung Quốc đi trước phương Tây về khoa học và kỹ thuật (giấy, in, sứ, lụa, la bàn, tiền giấy, luyện sắt), có dân số khoảng 50 triệu vào năm 600 và vượt 100 triệu vào khoảng năm 1450, và đầu thế kỷ 15 đã đưa những hạm đội lớn của đô đốc Trịnh Hòa (sách viết Cheng-ho) tới tận bờ Đông Phi. Câu hỏi trung tâm mà chương đặt ra, và trả lời cho từng vùng, là vì sao những nền văn minh ấy không bước sang thời đại công nghiệp. Câu trả lời của tác giả nhấn mạnh phía cầu và thể chế: hàng thủ công tinh xảo chỉ phục vụ triều đình, quan lại và một lớp quý tộc mỏng; nông dân quá nghèo để làm thành thị trường; thương nhân bị Nho giáo xếp ở địa vị thấp nên hễ giàu là mua đất để thành địa chủ; chế độ đẳng cấp ở Ấn Độ cản trở dịch chuyển xã hội và phân bổ nguồn lực; nhà nước Minh năm 1433 tự cấm đi biển và cho phá tàu viễn dương. Ở châu Phi và châu Mỹ, giới hạn chủ yếu đến từ tài nguyên và công nghệ: ruồi tsetse giết súc vật kéo, sông nhiều thác ghềnh, người châu Mỹ không có sắt và không có súc vật kéo nên chỉ canh tác bằng cuốc. Dù vậy, ở đâu tác giả cũng tìm thấy chợ, thương nhân và một thứ tiền (vỏ ốc tiền ở Đông Phi, hạt ca cao ở Mexico). Chi tiết đáng nhớ nhất là câu hỏi tác giả để ngỏ: nếu người Trung Quốc vẫn còn ở Ấn Độ Dương khi người Bồ Đào Nha tới vào cuối thế kỷ 15, lịch sử thế giới có thể đã khác thế nào.
+## Ý chính
 
-> **Lưu ý:** Chương này thuộc phần Cameron viết cho các ấn bản trước; Neal gần như không cập nhật, nên nội dung phản ánh hiểu biết sử học đến khoảng cuối thập niên 1980 – thập niên 1990. Chương không có bảng số liệu và không có chú thích chân trang nào của tác giả. Chương có sáu hình, đều không chứa số liệu: bốn bản đồ (Hình 4-1 "Thế giới Hồi giáo khoảng năm 1200"; Hình 4-2 "Sự mở rộng của Đế chế Ottoman, 1307–1683"; Hình 4-3 "Đế chế Mông Cổ và các nước láng giềng, khoảng năm 1300"; Hình 4-4 "Ấn Độ khoảng năm 1600") và hai ảnh (Hình 4-5 lăng Taj Mahal; Hình 4-6 một đền thờ của người Maya). Văn bản OCR của các trang bản đồ hoàn toàn không đọc được, nên nội dung bốn bản đồ đã được đọc trực tiếp trên PDF và mô tả bằng lời trong phần Sơ đồ và Nội dung chi tiết; chú thích ảnh của hai hình 4-5, 4-6 cũng đã đưa vào. Sách có một chỗ trỏ sang trang 136 (việc vua Ferdinand và nữ hoàng Isabella trục xuất người Do Thái khỏi Tây Ban Nha năm 1492), trang đó thuộc Chương 6. Một số chỗ sách có vẻ nhầm hoặc giản lược: (1) sách gọi Hốt Tất Liệt (Kublai Khan) là "cháu nội và người kế vị thứ năm" của Thành Cát Tư Hãn; Hốt Tất Liệt thường được tính là Đại Hãn thứ năm nếu tính cả Thành Cát Tư Hãn, tức người kế vị thứ tư (sau Oa Khoát Đài, Quý Do, Mông Kha), trừ khi tính cả các giai đoạn nhiếp chính; (2) sách viết sa mạc phía nam châu Phi là "Kalihari", tên thông dụng là Kalahari; (3) sách ghi năm sinh, năm mất của Osman là 1259–1326, nhiều tài liệu khác ghi khoảng 1258 và 1323/1324; (4) sách nói "đại số là phát minh của người Ả Rập" và toán học hiện đại dựa trên "hệ ký số Ả Rập": hệ chữ số này gốc ở Ấn Độ và được người Ả Rập truyền sang châu Âu, còn al-Khwarizmi, người viết cuốn sách đặt tên cho môn đại số, là người gốc Ba Tư viết bằng tiếng Ả Rập; (5) sách xếp hồ tiêu chung với các gia vị chủ yếu đến từ quần đảo Indonesia, nhưng hồ tiêu đen trồng nhiều nhất ở bờ biển Malabar (tây nam Ấn Độ); nhục đậu khấu và đinh hương mới là đặc sản của quần đảo Moluccas; (6) sách nói Abyssinia bị cắt khỏi thế giới Kitô giáo "do cuộc chinh phục Nubia của Hồi giáo", nhưng các vương quốc Kitô giáo ở Nubia đã chặn được quân Ả Rập ở thế kỷ 7 và tồn tại tới khoảng thế kỷ 14–15; (7) sách nói Trung Quốc "đã dùng tiền giấy khi Charlemagne đúc những đồng xu bạc đầu tiên" (cuối thế kỷ 8): thời nhà Đường (đầu thế kỷ 9) mới có "phi tiền", một loại giấy chuyển tiền, còn tiền giấy theo đúng nghĩa do nhà nước phát hành xuất hiện ở thời Tống, thế kỷ 11. Những điểm còn tranh luận về nội dung (chuyến đi của Trịnh Hòa, nguyên nhân suy tàn của văn minh Maya, niên đại người tới châu Mỹ) được bàn ở phần Đánh giá. Tên riêng được giữ theo cách viết của sách (ví dụ Mohammed, Cheng-ho, Babar, Ayudhya, Yangtse), kèm tên tiếng Việt hoặc tên thông dụng khi có. Các câu trích là bản dịch của người tổng hợp.
+Tác giả muốn người đọc hiểu rằng trước thế kỷ 16 châu Âu chỉ là một trong nhiều vùng tương đối tách biệt, và ở nhiều mặt chưa phải là vùng tiên tiến nhất.
+
+Thế giới Hồi giáo, sinh ra từ một nhà tiên tri từng là thương nhân, coi trọng nghề buôn, phát minh ra thư tín dụng và hối phiếu, làm trung gian buôn bán giữa châu Âu và châu Á suốt hàng trăm năm, truyền sang châu Âu la bàn, nghề làm giấy, lúa gạo, mía, bông, cam chanh, và giữ gìn học thuật Hy Lạp cổ.
+
+Trung Quốc đi trước phương Tây về khoa học và kỹ thuật (giấy, in, sứ, lụa, la bàn, tiền giấy, luyện sắt), có dân số khoảng 50 triệu vào năm 600 và vượt 100 triệu vào khoảng năm 1450, và đầu thế kỷ 15 đã đưa những hạm đội lớn của đô đốc Trịnh Hòa (sách viết Cheng-ho) tới tận bờ Đông Phi.
+
+Câu hỏi trung tâm mà chương đặt ra, và trả lời cho từng vùng, là vì sao những nền văn minh ấy không bước sang thời đại công nghiệp.
+
+Câu trả lời của tác giả nhấn mạnh phía cầu và thể chế: hàng thủ công tinh xảo chỉ phục vụ triều đình, quan lại và một lớp quý tộc mỏng; nông dân quá nghèo để làm thành thị trường; thương nhân bị Nho giáo xếp ở địa vị thấp nên hễ giàu là mua đất để thành địa chủ; chế độ đẳng cấp ở Ấn Độ cản trở dịch chuyển xã hội và phân bổ nguồn lực; nhà nước Minh năm 1433 tự cấm đi biển và cho phá tàu viễn dương.
+
+Ở châu Phi và châu Mỹ, giới hạn chủ yếu đến từ tài nguyên và công nghệ: ruồi tsetse giết súc vật kéo, sông nhiều thác ghềnh, người châu Mỹ không có sắt và không có súc vật kéo nên chỉ canh tác bằng cuốc.
+
+Dù vậy, ở đâu tác giả cũng tìm thấy chợ, thương nhân và một thứ tiền (vỏ ốc tiền ở Đông Phi, hạt ca cao ở Mexico).
+
+Chi tiết đáng nhớ nhất là câu hỏi tác giả để ngỏ: nếu người Trung Quốc vẫn còn ở Ấn Độ Dương khi người Bồ Đào Nha tới vào cuối thế kỷ 15, lịch sử thế giới có thể đã khác thế nào.
 
 ## Sơ đồ
 
@@ -798,13 +809,21 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Trước khi người châu Âu tới, các vùng khác của thế giới đã phát triển tới đâu?** Nhiều vùng ngang hoặc hơn châu Âu. Thế giới Hồi giáo có nông nghiệp tưới tiêu năng suất cao ở Lưỡng Hà và miền nam Tây Ban Nha, có những thành phố lớn, có thư tín dụng và hối phiếu, làm trung gian buôn bán Á–Âu, và cùng Trung Quốc dẫn đầu thế giới về khoa học, triết học thời Trung cổ châu Âu. Trung Quốc có giấy, in, sứ, lụa, la bàn, tiền giấy, lúa hai vụ từ khoảng năm 1000, Đại Vận Hà, dân số vượt 100 triệu vào khoảng năm 1450, và những hạm đội vượt Ấn Độ Dương tới Đông Phi. Ấn Độ có thợ thủ công làm nên những công trình như Taj Mahal; Đông Nam Á đóng góp lúa gạo và gia vị cho thế giới. Ở châu Phi và châu Mỹ, trình độ rất không đều: từ săn bắt hái lượm tới các đế chế Ghana, Aztec, Inca, kim tự tháp Maya và khu Cahokia lớn ngang một thành phố châu Âu trung cổ.
-2. **Vì sao những nền văn minh tiên tiến đó không bước sang thời đại công nghiệp?** Tác giả nhấn mạnh phía cầu và thể chế. Ở Trung Quốc và Ấn Độ, hàng thủ công tinh xảo chỉ phục vụ triều đình và một lớp giàu có mỏng, còn nông dân quá nghèo, không có tầng lớp trung lưu, nên không có thị trường đại chúng để kỹ thuật được ứng dụng rộng (sắt ở Trung Quốc chỉ dùng làm vũ khí và đồ trang trí, không làm công cụ). Nho giáo xếp thương nhân ở địa vị thấp, nên ai giàu lên thì mua đất làm địa chủ thay vì tiếp tục kinh doanh. Chế độ đẳng cấp ở Ấn Độ cản trở dịch chuyển xã hội và phân bổ nguồn lực. Nhà nước có thể tự đóng cửa: nhà Minh năm 1433 và Mạc phủ Tokugawa đầu thế kỷ 17 cấm dân ra nước ngoài và cấm đóng tàu đi biển xa. Đế chế Ottoman rộng nhưng chi phí vận tải cao nên không thành một thị trường chung. Ở châu Phi và châu Mỹ, giới hạn chủ yếu là tài nguyên và công nghệ: ruồi tsetse giết súc vật kéo, sông nhiều thác ghềnh, không có sắt, không có súc vật kéo.
-3. **Các vùng ngoài châu Âu đã đóng góp gì cho châu Âu, và vì sao châu Âu tìm đường vòng qua họ?** Qua người Ả Rập, châu Âu nhận la bàn, nghề làm giấy, hệ chữ số, học thuật Hy Lạp, công cụ tín dụng và các cây trồng mới (lúa gạo, mía, bông, cam chanh, dưa hấu). Gia vị từ quần đảo Indonesia và Ceylon đi qua tay thương nhân Hồi giáo tới Ấn Độ, rồi người Ả Rập chở tới Alexandria bán cho thương nhân Venice. Các nước châu Âu khác coi chuỗi buôn bán này là một thứ "độc quyền" và muốn đi vòng qua nó; đó là một trong những động cơ chính của các chuyến thám hiểm Bồ Đào Nha và việc tìm ra đường biển quanh châu Phi. Khi người Bồ Đào Nha tới Ấn Độ Dương cuối thế kỷ 15, hạm đội Trung Quốc đã rút đi từ năm 1433, và sự thù địch giữa các vương quốc Hồi giáo và Hindu ở nam Ấn Độ giúp họ lập căn cứ.
+1. **Trước khi người châu Âu tới, các vùng khác của thế giới đã phát triển tới đâu?** Nhiều vùng ngang hoặc hơn châu Âu. Thế giới Hồi giáo có nông nghiệp tưới tiêu năng suất cao ở Lưỡng Hà và miền nam Tây Ban Nha, có những thành phố lớn, có thư tín dụng và hối phiếu, làm trung gian buôn bán Á–Âu, và cùng Trung Quốc dẫn đầu thế giới về khoa học, triết học thời Trung cổ châu Âu.
+
+   Trung Quốc có giấy, in, sứ, lụa, la bàn, tiền giấy, lúa hai vụ từ khoảng năm 1000, Đại Vận Hà, dân số vượt 100 triệu vào khoảng năm 1450, và những hạm đội vượt Ấn Độ Dương tới Đông Phi. Ấn Độ có thợ thủ công làm nên những công trình như Taj Mahal; Đông Nam Á đóng góp lúa gạo và gia vị cho thế giới. Ở châu Phi và châu Mỹ, trình độ rất không đều: từ săn bắt hái lượm tới các đế chế Ghana, Aztec, Inca, kim tự tháp Maya và khu Cahokia lớn ngang một thành phố châu Âu trung cổ.
+2. **Vì sao những nền văn minh tiên tiến đó không bước sang thời đại công nghiệp?** Tác giả nhấn mạnh phía cầu và thể chế. Ở Trung Quốc và Ấn Độ, hàng thủ công tinh xảo chỉ phục vụ triều đình và một lớp giàu có mỏng, còn nông dân quá nghèo, không có tầng lớp trung lưu, nên không có thị trường đại chúng để kỹ thuật được ứng dụng rộng (sắt ở Trung Quốc chỉ dùng làm vũ khí và đồ trang trí, không làm công cụ).
+
+   Nho giáo xếp thương nhân ở địa vị thấp, nên ai giàu lên thì mua đất làm địa chủ thay vì tiếp tục kinh doanh. Chế độ đẳng cấp ở Ấn Độ cản trở dịch chuyển xã hội và phân bổ nguồn lực. Nhà nước có thể tự đóng cửa: nhà Minh năm 1433 và Mạc phủ Tokugawa đầu thế kỷ 17 cấm dân ra nước ngoài và cấm đóng tàu đi biển xa. Đế chế Ottoman rộng nhưng chi phí vận tải cao nên không thành một thị trường chung. Ở châu Phi và châu Mỹ, giới hạn chủ yếu là tài nguyên và công nghệ: ruồi tsetse giết súc vật kéo, sông nhiều thác ghềnh, không có sắt, không có súc vật kéo.
+3. **Các vùng ngoài châu Âu đã đóng góp gì cho châu Âu, và vì sao châu Âu tìm đường vòng qua họ?** Qua người Ả Rập, châu Âu nhận la bàn, nghề làm giấy, hệ chữ số, học thuật Hy Lạp, công cụ tín dụng và các cây trồng mới (lúa gạo, mía, bông, cam chanh, dưa hấu). Gia vị từ quần đảo Indonesia và Ceylon đi qua tay thương nhân Hồi giáo tới Ấn Độ, rồi người Ả Rập chở tới Alexandria bán cho thương nhân Venice.
+
+   Các nước châu Âu khác coi chuỗi buôn bán này là một thứ "độc quyền" và muốn đi vòng qua nó; đó là một trong những động cơ chính của các chuyến thám hiểm Bồ Đào Nha và việc tìm ra đường biển quanh châu Phi. Khi người Bồ Đào Nha tới Ấn Độ Dương cuối thế kỷ 15, hạm đội Trung Quốc đã rút đi từ năm 1433, và sự thù địch giữa các vương quốc Hồi giáo và Hindu ở nam Ấn Độ giúp họ lập căn cứ.
 
 ## Khái niệm cần biết
 
-**Đường logistic (logistic) và "đường logistic thứ nhất" (first logistic).** Đường logistic là đường cong hình chữ S: một đại lượng (ở đây là dân số và sản lượng) tăng tốc trong một thời gian, rồi chậm dần và chững lại. Sách dùng nó để mô tả những đợt tăng dân số dài hàng thế kỷ của châu Âu; đợt thứ nhất bắt đầu thế kỷ 9–10, chậm lại ở thế kỷ 13 và bị Đại dịch hạch năm 1348 cắt đứt. Trong chương này, tác giả cho rằng thế giới Hồi giáo thế kỷ 8–10 có lẽ cũng trải qua một đợt tăng như vậy, và số liệu về Trung Quốc có dáng tương tự: khoảng 50 triệu người năm 600, gấp đôi vào khoảng năm 1200, giảm cuối thời Mông Cổ vì lũ lụt, hạn hán, chiến tranh, rồi vượt 100 triệu vào khoảng năm 1450. Khái niệm này quan trọng vì nó nối chương với khung chung của cả cuốn sách: tăng trưởng thời tiền công nghiệp đi theo từng đợt rồi chạm trần, chưa thành tăng trưởng liên tục.
+**Đường logistic (logistic) và "đường logistic thứ nhất" (first logistic).** Đường logistic là đường cong hình chữ S: một đại lượng (ở đây là dân số và sản lượng) tăng tốc trong một thời gian, rồi chậm dần và chững lại. Sách dùng nó để mô tả những đợt tăng dân số dài hàng thế kỷ của châu Âu; đợt thứ nhất bắt đầu thế kỷ 9–10, chậm lại ở thế kỷ 13 và bị Đại dịch hạch năm 1348 cắt đứt.
+
+Trong chương này, tác giả cho rằng thế giới Hồi giáo thế kỷ 8–10 có lẽ cũng trải qua một đợt tăng như vậy, và số liệu về Trung Quốc có dáng tương tự: khoảng 50 triệu người năm 600, gấp đôi vào khoảng năm 1200, giảm cuối thời Mông Cổ vì lũ lụt, hạn hán, chiến tranh, rồi vượt 100 triệu vào khoảng năm 1450. Khái niệm này quan trọng vì nó nối chương với khung chung của cả cuốn sách: tăng trưởng thời tiền công nghiệp đi theo từng đợt rồi chạm trần, chưa thành tăng trưởng liên tục.
 
 **Trung gian thương mại (intermediaries).** Người đứng giữa mua hàng ở một vùng và bán ở vùng khác, ăn chênh lệch. Ví dụ trong chương: suốt hàng trăm năm, người Ả Rập và người Hồi giáo là trung gian chính trong buôn bán Á–Âu; gia vị đi từ Moluccas qua tay thương nhân Hồi giáo tới Ấn Độ, rồi người Ả Rập chở tới Alexandria bán cho người Venice. Khái niệm này quan trọng vì vị trí trung gian vừa đem lại của cải và lan toả công nghệ (la bàn, giấy), vừa tạo ra cái mà các nước châu Âu khác gọi là "độc quyền" và tìm cách đi vòng, mở đầu thời đại khám phá.
 
@@ -842,7 +861,9 @@ Từ thế kỷ 16 tới thế kỷ 20, châu Âu, nhất là Tây Âu, là vùn
 
 ### 2. Thế giới Hồi giáo (The World of Islam)
 
-**Sự ra đời và bành trướng.** Hồi giáo, tôn giáo lớn ra đời muộn nhất trong các tôn giáo lớn của thế giới, xuất hiện ở bán đảo Ả Rập vào thế kỷ 7 sau Công nguyên. Người sáng lập, nhà tiên tri Mohammed (Muhammad), từng là thương nhân trước khi trở thành lãnh tụ tôn giáo và chính trị. Khi ông mất năm 632, gần như toàn bộ bán đảo Ả Rập đã thống nhất dưới quyền ông. Ngay sau đó, các tín đồ của ông chinh phục với tốc độ của một cơn lốc sa mạc: trong vòng một trăm năm họ lập nên một đế chế lớn, gọi là Caliphate, trải từ Trung Á qua Trung Đông và Bắc Phi tới Tây Ban Nha. Sau vài thế kỷ tương đối yên lặng, khi Caliphate vỡ thành nhiều nước kế tục, người Hồi giáo lại bành trướng từ thế kỷ 12 trở đi, đưa tôn giáo và phong tục tới Trung Á, Ấn Độ, Ceylon, Indonesia, Anatolia và châu Phi hạ Sahara. Lúc này người Ả Rập chỉ còn là một thiểu số nhỏ trong hàng triệu tín đồ, nhưng tiếng Ả Rập, ngôn ngữ của kinh Koran, là ngôn ngữ chung của văn minh Hồi giáo, bên cạnh tiếng Ba Tư và tiếng Thổ.
+**Sự ra đời và bành trướng.** Hồi giáo, tôn giáo lớn ra đời muộn nhất trong các tôn giáo lớn của thế giới, xuất hiện ở bán đảo Ả Rập vào thế kỷ 7 sau Công nguyên. Người sáng lập, nhà tiên tri Mohammed (Muhammad), từng là thương nhân trước khi trở thành lãnh tụ tôn giáo và chính trị. Khi ông mất năm 632, gần như toàn bộ bán đảo Ả Rập đã thống nhất dưới quyền ông. Ngay sau đó, các tín đồ của ông chinh phục với tốc độ của một cơn lốc sa mạc: trong vòng một trăm năm họ lập nên một đế chế lớn, gọi là Caliphate, trải từ Trung Á qua Trung Đông và Bắc Phi tới Tây Ban Nha.
+
+Sau vài thế kỷ tương đối yên lặng, khi Caliphate vỡ thành nhiều nước kế tục, người Hồi giáo lại bành trướng từ thế kỷ 12 trở đi, đưa tôn giáo và phong tục tới Trung Á, Ấn Độ, Ceylon, Indonesia, Anatolia và châu Phi hạ Sahara. Lúc này người Ả Rập chỉ còn là một thiểu số nhỏ trong hàng triệu tín đồ, nhưng tiếng Ả Rập, ngôn ngữ của kinh Koran, là ngôn ngữ chung của văn minh Hồi giáo, bên cạnh tiếng Ba Tư và tiếng Thổ.
 
 Bản đồ thế giới Hồi giáo khoảng năm 1200 trong sách cho thấy quy mô của vùng này:
 
@@ -858,17 +879,27 @@ Bản đồ thế giới Hồi giáo khoảng năm 1200 trong sách cho thấy q
 
 Các vùng không thuộc thế giới Hồi giáo trên bản đồ gồm vương quốc Castile (Toledo) ở bắc Tây Ban Nha, Pháp, Đế chế Byzantine (Constantinople, Trebizond), Georgia, Armenia, Sicily, Crete, Cyprus.
 
-**Đất đai, đô thị và chăn nuôi.** Người Ả Rập ban đầu chủ yếu sống du mục, dù có người làm nông ở ốc đảo và có vài đô thị như Mecca. Đất họ chinh phục nhìn chung chỉ bớt khô hạn hơn bán đảo Ả Rập một chút, nhưng có hai cái nôi văn minh lớn là lưu vực sông Tigris-Euphrates và lưu vực sông Nile. Ở đó và ở những nơi khác, người Hồi giáo làm nông nghiệp tưới tiêu, và tại một số vùng như miền nam Tây Ban Nha và Lưỡng Hà, nông nghiệp này đạt trình độ và năng suất cao. Cuộc chinh phục còn đem lại cho họ những thành phố lớn: Alexandria, Cairo, và cuối cùng là Constantinople, được đổi tên thành Istanbul. Rốt cuộc Hồi giáo phát triển thành một nền văn minh chủ yếu đô thị, dù nhiều người Hồi giáo, Ả Rập hay không, vẫn sống du mục, chăn cừu, dê, ngựa, lạc đà; ít khi nuôi bò và không nuôi lợn, vì Mohammed cấm ăn thịt lợn.
+**Đất đai, đô thị và chăn nuôi.** Người Ả Rập ban đầu chủ yếu sống du mục, dù có người làm nông ở ốc đảo và có vài đô thị như Mecca. Đất họ chinh phục nhìn chung chỉ bớt khô hạn hơn bán đảo Ả Rập một chút, nhưng có hai cái nôi văn minh lớn là lưu vực sông Tigris-Euphrates và lưu vực sông Nile. Ở đó và ở những nơi khác, người Hồi giáo làm nông nghiệp tưới tiêu, và tại một số vùng như miền nam Tây Ban Nha và Lưỡng Hà, nông nghiệp này đạt trình độ và năng suất cao.
 
-**Vị trí thương mại và địa vị thương nhân.** Tiềm năng nông nghiệp của lãnh thổ có hạn, nhưng vị trí địa lý mở ra những khả năng thương mại lớn. Vùng lõi nằm giữa vịnh Ba Tư và Địa Trung Hải, đồng thời mở ra Ấn Độ Dương, và có các tuyến đường lạc đà lớn nối Địa Trung Hải với Trung Quốc. Vì chính Mohammed từng là thương nhân, Hồi giáo không coi buôn bán là nghề thấp kém; ngược lại, thương nhân được kính trọng. Cho vay lấy lãi bị cấm, nhưng thương nhân Hồi giáo nghĩ ra nhiều công cụ tín dụng phức tạp, gồm thư tín dụng và hối phiếu, để thuận tiện cho buôn bán. Suốt hàng trăm năm, người Ả Rập và những người cùng đạo là trung gian chính trong buôn bán giữa châu Âu và châu Á, và qua đó họ giúp công nghệ lan toả rất nhiều. Nhiều yếu tố của công nghệ Trung Quốc, gồm la bàn từ tính và nghề làm giấy, tới được châu Âu nhờ người Ả Rập.
+Cuộc chinh phục còn đem lại cho họ những thành phố lớn: Alexandria, Cairo, và cuối cùng là Constantinople, được đổi tên thành Istanbul. Rốt cuộc Hồi giáo phát triển thành một nền văn minh chủ yếu đô thị, dù nhiều người Hồi giáo, Ả Rập hay không, vẫn sống du mục, chăn cừu, dê, ngựa, lạc đà; ít khi nuôi bò và không nuôi lợn, vì Mohammed cấm ăn thịt lợn.
+
+**Vị trí thương mại và địa vị thương nhân.** Tiềm năng nông nghiệp của lãnh thổ có hạn, nhưng vị trí địa lý mở ra những khả năng thương mại lớn. Vùng lõi nằm giữa vịnh Ba Tư và Địa Trung Hải, đồng thời mở ra Ấn Độ Dương, và có các tuyến đường lạc đà lớn nối Địa Trung Hải với Trung Quốc.
+
+Vì chính Mohammed từng là thương nhân, Hồi giáo không coi buôn bán là nghề thấp kém; ngược lại, thương nhân được kính trọng. Cho vay lấy lãi bị cấm, nhưng thương nhân Hồi giáo nghĩ ra nhiều công cụ tín dụng phức tạp, gồm thư tín dụng và hối phiếu, để thuận tiện cho buôn bán. Suốt hàng trăm năm, người Ả Rập và những người cùng đạo là trung gian chính trong buôn bán giữa châu Âu và châu Á, và qua đó họ giúp công nghệ lan toả rất nhiều. Nhiều yếu tố của công nghệ Trung Quốc, gồm la bàn từ tính và nghề làm giấy, tới được châu Âu nhờ người Ả Rập.
 
 **Cây trồng mới.** Người Ả Rập cũng đưa vào những cây trồng mới: lúa gạo, mía, bông, cây có múi, dưa hấu và các loại rau quả khác. Có loại họ lấy từ Ấn Độ hay nơi khác ở châu Á hoặc châu Phi, rồi truyền sang châu Âu. Một học giả gọi thành tựu nông nghiệp của người Ả Rập là "cuộc cách mạng xanh thời trung cổ". Tác giả cho rằng có lẽ từ thế kỷ 8 tới thế kỷ 10, thế giới Hồi giáo đã trải qua một đợt tăng dân số và tăng trưởng kinh tế tương tự đường logistic thứ nhất của châu Âu trung cổ.
 
-**Vận tải.** Người Ả Rập đi lại và buôn bán cả trên bộ lẫn trên biển. Biển Ả Rập, phần phía bắc của Ấn Độ Dương nằm giữa bán đảo Ả Rập và tiểu lục địa Ấn Độ, mang tên rất đúng, vì nó do thương nhân và thuỷ thủ Ả Rập làm chủ, như nhân vật huyền thoại Sindbad. Có người đi tới tận Trung Quốc, nơi các cảng có những cộng đồng thương nhân Hồi giáo. Người Hồi giáo dùng sông để vận chuyển khi có thể, và ở Lưỡng Hà bổ sung bằng một mạng kênh đào dày đặc. Trên bộ, lạc đà, "con tàu của sa mạc", được ưa dùng cho đường dài; ngựa, la, lừa cho quãng ngắn. Xe có bánh biến mất khỏi Trung Đông và chỉ xuất hiện trở lại vào thế kỷ 19. Những đoàn lạc đà hàng trăm, thậm chí hàng nghìn con không phải chuyện hiếm.
+**Vận tải.** Người Ả Rập đi lại và buôn bán cả trên bộ lẫn trên biển. Biển Ả Rập, phần phía bắc của Ấn Độ Dương nằm giữa bán đảo Ả Rập và tiểu lục địa Ấn Độ, mang tên rất đúng, vì nó do thương nhân và thuỷ thủ Ả Rập làm chủ, như nhân vật huyền thoại Sindbad. Có người đi tới tận Trung Quốc, nơi các cảng có những cộng đồng thương nhân Hồi giáo. Người Hồi giáo dùng sông để vận chuyển khi có thể, và ở Lưỡng Hà bổ sung bằng một mạng kênh đào dày đặc.
 
-**Chính sách tôn giáo và người Do Thái.** Một trong các nguyên tắc của Hồi giáo là jihad, cuộc chiến thần thánh chống người ngoại đạo. Nó giải thích một phần vì sao người Hồi giáo thu nhận tín đồ rất thành công: kẻ thù bại trận phải chọn giữa cải đạo và cái chết. Với người Do Thái và Kitô hữu thì khác: vì họ cũng thờ một Thượng đế duy nhất, người Hồi giáo khoan dung với họ, và đánh thuế họ; tác giả cho rằng khoản thuế này có lẽ là một lý do nữa khiến nhiều người trong các cộng đồng đó cải đạo. Người Do Thái đặc biệt được hưởng nhiều tự do dưới chế độ Hồi giáo. Thương nhân Do Thái có người nhà hoặc đại lý rải khắp thế giới Hồi giáo, từ Tây Ban Nha tới Indonesia. Phần lớn hiểu biết ngày nay về Hồi giáo trung cổ thực ra đến từ kho tư liệu Genizah ở Cairo, nơi cất mọi mảnh giấy có ghi tên Thượng đế (Allah hay Jahweh); thư từ, kể cả thư buôn bán giữa các thương nhân Do Thái, thường mở đầu bằng lời cầu Thượng đế ban phước, nên cũng được cất vào đó.
+Trên bộ, lạc đà, "con tàu của sa mạc", được ưa dùng cho đường dài; ngựa, la, lừa cho quãng ngắn. Xe có bánh biến mất khỏi Trung Đông và chỉ xuất hiện trở lại vào thế kỷ 19. Những đoàn lạc đà hàng trăm, thậm chí hàng nghìn con không phải chuyện hiếm.
 
-**Học thuật và quan hệ với châu Âu.** Nhờ chinh phục phần nói tiếng Hy Lạp của Đế chế Đông La Mã, người Ả Rập tiếp nhận phần lớn học thuật Hy Lạp cổ điển. Trong thời Trung cổ châu Âu, họ cùng người Trung Quốc dẫn đầu thế giới về tư tưởng khoa học và triết học. Nhiều tác giả Hy Lạp cổ đại ngày nay chỉ còn được biết qua bản dịch tiếng Ả Rập. Theo sách, toán học hiện đại dựa trên hệ ký số Ả Rập, và đại số là phát minh của người Ả Rập. Trong thời phục hưng trí tuệ của Tây Âu ở thế kỷ 11 và 12, nhiều học giả Kitô giáo tới Cordoba và các trung tâm trí thức Hồi giáo khác để học triết học và khoa học cổ điển. Cùng lúc đó, thương nhân Kitô giáo học tập quán và kỹ thuật buôn bán của người Hồi giáo. Giáo hoàng chính thức cấm buôn bán với người Hồi giáo, nhưng thương nhân Kitô giáo, nhất là người Venice, gần như không để ý tới lệnh cấm.
+**Chính sách tôn giáo và người Do Thái.** Một trong các nguyên tắc của Hồi giáo là jihad, cuộc chiến thần thánh chống người ngoại đạo. Nó giải thích một phần vì sao người Hồi giáo thu nhận tín đồ rất thành công: kẻ thù bại trận phải chọn giữa cải đạo và cái chết. Với người Do Thái và Kitô hữu thì khác: vì họ cũng thờ một Thượng đế duy nhất, người Hồi giáo khoan dung với họ, và đánh thuế họ; tác giả cho rằng khoản thuế này có lẽ là một lý do nữa khiến nhiều người trong các cộng đồng đó cải đạo.
+
+Người Do Thái đặc biệt được hưởng nhiều tự do dưới chế độ Hồi giáo. Thương nhân Do Thái có người nhà hoặc đại lý rải khắp thế giới Hồi giáo, từ Tây Ban Nha tới Indonesia. Phần lớn hiểu biết ngày nay về Hồi giáo trung cổ thực ra đến từ kho tư liệu Genizah ở Cairo, nơi cất mọi mảnh giấy có ghi tên Thượng đế (Allah hay Jahweh); thư từ, kể cả thư buôn bán giữa các thương nhân Do Thái, thường mở đầu bằng lời cầu Thượng đế ban phước, nên cũng được cất vào đó.
+
+**Học thuật và quan hệ với châu Âu.** Nhờ chinh phục phần nói tiếng Hy Lạp của Đế chế Đông La Mã, người Ả Rập tiếp nhận phần lớn học thuật Hy Lạp cổ điển. Trong thời Trung cổ châu Âu, họ cùng người Trung Quốc dẫn đầu thế giới về tư tưởng khoa học và triết học. Nhiều tác giả Hy Lạp cổ đại ngày nay chỉ còn được biết qua bản dịch tiếng Ả Rập. Theo sách, toán học hiện đại dựa trên hệ ký số Ả Rập, và đại số là phát minh của người Ả Rập.
+
+Trong thời phục hưng trí tuệ của Tây Âu ở thế kỷ 11 và 12, nhiều học giả Kitô giáo tới Cordoba và các trung tâm trí thức Hồi giáo khác để học triết học và khoa học cổ điển. Cùng lúc đó, thương nhân Kitô giáo học tập quán và kỹ thuật buôn bán của người Hồi giáo. Giáo hoàng chính thức cấm buôn bán với người Hồi giáo, nhưng thương nhân Kitô giáo, nhất là người Venice, gần như không để ý tới lệnh cấm.
 
 ### 3. Đế chế Ottoman (The Ottoman Empire)
 
@@ -894,11 +925,15 @@ Bản đồ sự mở rộng của Đế chế Ottoman 1307–1683 tô ba lớp:
 
 ### 4. Đông Á (East Asia)
 
-**Một nền văn minh khép kín.** Văn minh Trung Hoa, có từ khoảng đầu thiên niên kỷ 2 trước Công nguyên, là một trong những nền văn minh phát triển khép kín nhất. Ảnh hưởng nước ngoài, mà người Trung Hoa gọi là "man di", hiếm khi xâm nhập, và khi có thì thường nhanh chóng bị hấp thụ, hoà vào truyền thống Trung Hoa. Các triều đại nổi lên rồi sụp đổ, đôi khi cách nhau bằng những thời kỳ hỗn loạn và "chiến quốc", nhưng văn minh Trung Hoa vẫn tiếp tục phát triển theo những hướng gần như đã định sẵn. Nho giáo (theo tác giả là một triết học chứ không phải tôn giáo) đã hoàn chỉnh từ thế kỷ 5 trước Công nguyên. Các triết học, tôn giáo khác như Đạo giáo và Phật giáo cũng phát triển nhưng không thay được Nho giáo làm nền tảng triết học của văn minh Trung Hoa. Truyền thống cai trị bằng bộ máy quan lại (mandarin) thấm nhuần triết học Nho giáo cũng hình thành rất sớm. Về lý thuyết hoàng đế có toàn quyền, và có hoàng đế dùng hết quyền ấy; nhưng phần lớn ý muốn của hoàng đế do quan lại thực hiện, và thường do chính họ định hình.
+**Một nền văn minh khép kín.** Văn minh Trung Hoa, có từ khoảng đầu thiên niên kỷ 2 trước Công nguyên, là một trong những nền văn minh phát triển khép kín nhất. Ảnh hưởng nước ngoài, mà người Trung Hoa gọi là "man di", hiếm khi xâm nhập, và khi có thì thường nhanh chóng bị hấp thụ, hoà vào truyền thống Trung Hoa. Các triều đại nổi lên rồi sụp đổ, đôi khi cách nhau bằng những thời kỳ hỗn loạn và "chiến quốc", nhưng văn minh Trung Hoa vẫn tiếp tục phát triển theo những hướng gần như đã định sẵn.
+
+Nho giáo (theo tác giả là một triết học chứ không phải tôn giáo) đã hoàn chỉnh từ thế kỷ 5 trước Công nguyên. Các triết học, tôn giáo khác như Đạo giáo và Phật giáo cũng phát triển nhưng không thay được Nho giáo làm nền tảng triết học của văn minh Trung Hoa. Truyền thống cai trị bằng bộ máy quan lại (mandarin) thấm nhuần triết học Nho giáo cũng hình thành rất sớm. Về lý thuyết hoàng đế có toàn quyền, và có hoàng đế dùng hết quyền ấy; nhưng phần lớn ý muốn của hoàng đế do quan lại thực hiện, và thường do chính họ định hình.
 
 **Nông nghiệp.** Cái nôi ban đầu của văn minh Trung Hoa là khúc giữa lưu vực Hoàng Hà, nơi đất hoàng thổ màu mỡ do gió từ Trung Á thổi tới bồi lên giúp canh tác dễ dàng. Cơ sở vật chất đầu tiên là kê, một loại hạt bản địa; về sau có thêm lúa mì và lúa mạch từ Trung Đông, muộn hơn nữa là lúa gạo từ Đông Nam Á. Nông nghiệp Trung Quốc xưa nay luôn rất thâm dụng lao động, gần như "kiểu làm vườn", dùng nhiều tưới tiêu. Súc vật kéo được đưa vào rất muộn. Khoảng năm 1000, một giống lúa tốt hơn được đưa vào, cho phép cấy hai vụ một năm trên cùng một mảnh đất, làm năng suất tăng mạnh.
 
-**Thủ công và phát minh.** Trên nền nông nghiệp năng suất ấy, đô thị có phát triển phần nào và nhiều nghề thủ công lành nghề ra đời. Nghề đúc đồng đạt trình độ rất cao. Nghề dệt lụa bắt nguồn ở Trung Quốc từ rất sớm; người La Mã cổ đại mua lụa qua tuyến đường đoàn buôn xuyên Trung Á, Con đường Tơ lụa, và gọi Trung Quốc là Sina hay Serica (xứ lụa). Sứ (tiếng Anh gọi là "chinaware") cũng là phát minh của Trung Quốc, cũng như giấy và nghề in. Tác giả chen một nhận xét: Trung Quốc đã dùng tiền giấy khi Charlemagne đúc những đồng xu bạc đầu tiên, và kết quả, như bất cứ nhà kinh tế nào cũng đoán được, là phát hành quá mức và lạm phát; người Trung Quốc đã trải qua nhiều chu kỳ lạm phát và sụp đổ tiền tệ trước khi phương Tây biết tới tiền giấy. La bàn từ tính do người Trung Quốc tìm ra và có lẽ tới phương Tây qua người Ả Rập. Nói chung, Trung Quốc đạt trình độ khoa học và kỹ thuật khá cao từ rất lâu trước phương Tây.
+**Thủ công và phát minh.** Trên nền nông nghiệp năng suất ấy, đô thị có phát triển phần nào và nhiều nghề thủ công lành nghề ra đời. Nghề đúc đồng đạt trình độ rất cao. Nghề dệt lụa bắt nguồn ở Trung Quốc từ rất sớm; người La Mã cổ đại mua lụa qua tuyến đường đoàn buôn xuyên Trung Á, Con đường Tơ lụa, và gọi Trung Quốc là Sina hay Serica (xứ lụa). Sứ (tiếng Anh gọi là "chinaware") cũng là phát minh của Trung Quốc, cũng như giấy và nghề in.
+
+Tác giả chen một nhận xét: Trung Quốc đã dùng tiền giấy khi Charlemagne đúc những đồng xu bạc đầu tiên, và kết quả, như bất cứ nhà kinh tế nào cũng đoán được, là phát hành quá mức và lạm phát; người Trung Quốc đã trải qua nhiều chu kỳ lạm phát và sụp đổ tiền tệ trước khi phương Tây biết tới tiền giấy. La bàn từ tính do người Trung Quốc tìm ra và có lẽ tới phương Tây qua người Ả Rập. Nói chung, Trung Quốc đạt trình độ khoa học và kỹ thuật khá cao từ rất lâu trước phương Tây.
 
 **Vì sao không có bước đột phá công nghiệp.** Dù đi trước về công nghệ và khoa học, Trung Quốc không có bước đột phá sang thời đại công nghiệp. Tác giả đưa ra các lý do sau:
 
@@ -940,17 +975,25 @@ Marco Polo, trong chuyến đi nổi tiếng của mình, đã gặp Hốt Tất
 
 **Nhà Minh.** Nhà Minh (1368–1644) khôi phục phong tục Trung Hoa truyền thống, nhất là Nho giáo và chế độ quan lại. Nửa đầu thời Minh cũng chứng kiến tăng trưởng kinh tế và dân số đáng kể. Trong những năm cuối thời Mông Cổ và trong cuộc nổi dậy chống họ, đường sá và kênh đào đã hư hỏng, và dân số đã giảm vì lũ lụt, hạn hán, chiến tranh. Chính quyền Minh tích cực khôi phục các tuyến giao thông, và nhờ tương đối hoà bình, dân số tăng trở lại, vượt 100 triệu vào khoảng năm 1450. Năm 1421, nhà Minh dời kinh đô từ Nam Kinh (sách viết Nanking) lên Bắc Kinh (Peking) ở tận phía bắc, qua đó kích thích buôn bán bắc–nam. Việc trồng bông và dệt vải bông được đưa vào. Chuyên môn hoá theo vùng rõ rệt hơn.
 
-**Các chuyến đi biển và lệnh cấm năm 1433.** Đáng chú ý nhất, người Trung Quốc bắt đầu buôn bán qua biển. Trước đó họ để ngoại thương cho thương nhân nước ngoài, nhưng trong những năm đầu thời Minh, tàu và thương nhân Trung Quốc buôn bán với Nhật Bản, Philippines (tên gọi về sau của quần đảo này), Đông Nam Á, bán đảo Mã Lai và Indonesia. Trong một phần tư đầu thế kỷ 15, đô đốc Trịnh Hòa (sách viết Cheng-ho) dẫn những hạm đội lớn vào Ấn Độ Dương. Các hạm đội để lại những cộng đồng người Hoa định cư ở các cảng tại Ceylon, Ấn Độ, vịnh Ba Tư, Biển Đỏ và bờ đông châu Phi. Rồi đột ngột, năm 1433, hoàng đế cấm các chuyến đi tiếp theo, ra lệnh phá huỷ tàu đi biển xa và cấm thần dân ra nước ngoài. Các cộng đồng ở nước ngoài bị bỏ mặc cho tàn lụi. Tác giả để ngỏ câu hỏi: lịch sử thế giới sẽ khác thế nào nếu người Trung Quốc vẫn còn ở Ấn Độ Dương khi người Bồ Đào Nha tới đó vào cuối thế kỷ ấy.
+**Các chuyến đi biển và lệnh cấm năm 1433.** Đáng chú ý nhất, người Trung Quốc bắt đầu buôn bán qua biển. Trước đó họ để ngoại thương cho thương nhân nước ngoài, nhưng trong những năm đầu thời Minh, tàu và thương nhân Trung Quốc buôn bán với Nhật Bản, Philippines (tên gọi về sau của quần đảo này), Đông Nam Á, bán đảo Mã Lai và Indonesia.
 
-**Triều Tiên và Nhật Bản.** Triều Tiên và Nhật Bản phát triển theo sau văn minh Trung Hoa, và phần lớn bắt chước nó. Nhật Bản đặc biệt là một nước giỏi bắt chước công nghệ Trung Quốc; tuy vậy, cũng như trong thời gần đây, khi công nghệ ngoại nhập được đặt vào khung thể chế của Nhật Bản, nó cho ra những kết quả mới. Triều Tiên có những lúc là chư hầu chính trị của Trung Quốc. Hốt Tất Liệt từng định đánh Nhật Bản từ Triều Tiên, nhưng hạm đội của ông bị một cơn bão tiêu diệt, mà người Nhật gọi là kamikaze ("gió thần"). Ở thế kỷ 15 và 16, cướp biển Nhật Bản tàn phá bờ biển Trung Quốc. Nhưng đầu thế kỷ 17, sau khi Mạc phủ Tokugawa củng cố quyền cai trị, tướng quân (shogun), bắt chước hoàng đế nhà Minh, đã cấm người Nhật ra nước ngoài (ai ra đi mà trở về sẽ bị xử tử) và cấm đóng tàu đi biển xa.
+Trong một phần tư đầu thế kỷ 15, đô đốc Trịnh Hòa (sách viết Cheng-ho) dẫn những hạm đội lớn vào Ấn Độ Dương. Các hạm đội để lại những cộng đồng người Hoa định cư ở các cảng tại Ceylon, Ấn Độ, vịnh Ba Tư, Biển Đỏ và bờ đông châu Phi. Rồi đột ngột, năm 1433, hoàng đế cấm các chuyến đi tiếp theo, ra lệnh phá huỷ tàu đi biển xa và cấm thần dân ra nước ngoài. Các cộng đồng ở nước ngoài bị bỏ mặc cho tàn lụi. Tác giả để ngỏ câu hỏi: lịch sử thế giới sẽ khác thế nào nếu người Trung Quốc vẫn còn ở Ấn Độ Dương khi người Bồ Đào Nha tới đó vào cuối thế kỷ ấy.
+
+**Triều Tiên và Nhật Bản.** Triều Tiên và Nhật Bản phát triển theo sau văn minh Trung Hoa, và phần lớn bắt chước nó. Nhật Bản đặc biệt là một nước giỏi bắt chước công nghệ Trung Quốc; tuy vậy, cũng như trong thời gần đây, khi công nghệ ngoại nhập được đặt vào khung thể chế của Nhật Bản, nó cho ra những kết quả mới. Triều Tiên có những lúc là chư hầu chính trị của Trung Quốc.
+
+Hốt Tất Liệt từng định đánh Nhật Bản từ Triều Tiên, nhưng hạm đội của ông bị một cơn bão tiêu diệt, mà người Nhật gọi là kamikaze ("gió thần"). Ở thế kỷ 15 và 16, cướp biển Nhật Bản tàn phá bờ biển Trung Quốc. Nhưng đầu thế kỷ 17, sau khi Mạc phủ Tokugawa củng cố quyền cai trị, tướng quân (shogun), bắt chước hoàng đế nhà Minh, đã cấm người Nhật ra nước ngoài (ai ra đi mà trở về sẽ bị xử tử) và cấm đóng tàu đi biển xa.
 
 ### 5. Nam Á (South Asia)
 
-**Tiểu lục địa Ấn Độ.** Tiểu lục địa Ấn Độ, gồm cả Pakistan, Bangladesh và Sri Lanka ngày nay, có diện tích xấp xỉ châu Âu phía tây Liên Xô cũ. Dân cư còn đa dạng hơn châu Âu về nguồn gốc tộc người và ngôn ngữ. Địa hình và khí hậu cũng đa dạng như vậy, từ rừng nhiệt đới gió mùa tới sa mạc nóng bỏng và núi băng. Suốt lịch sử, từ nền văn minh đầu tiên bên sông Indus ở thiên niên kỷ 3 trước Công nguyên tới nay, vô số tiểu quốc, vương quốc và đế chế nổi lên rồi sụp đổ, nhiều tới mức gây rối trí. Phần lớn sự thay đổi chính quyền này ít có ý nghĩa với người dân thường, những nông dân mà sức lao động nuôi tầng lớp cai trị; khác biệt chỉ là có chính quyền tàn nhẫn và hiệu quả hơn trong việc vắt thặng dư qua cống nạp và thuế.
+**Tiểu lục địa Ấn Độ.** Tiểu lục địa Ấn Độ, gồm cả Pakistan, Bangladesh và Sri Lanka ngày nay, có diện tích xấp xỉ châu Âu phía tây Liên Xô cũ. Dân cư còn đa dạng hơn châu Âu về nguồn gốc tộc người và ngôn ngữ. Địa hình và khí hậu cũng đa dạng như vậy, từ rừng nhiệt đới gió mùa tới sa mạc nóng bỏng và núi băng.
+
+Suốt lịch sử, từ nền văn minh đầu tiên bên sông Indus ở thiên niên kỷ 3 trước Công nguyên tới nay, vô số tiểu quốc, vương quốc và đế chế nổi lên rồi sụp đổ, nhiều tới mức gây rối trí. Phần lớn sự thay đổi chính quyền này ít có ý nghĩa với người dân thường, những nông dân mà sức lao động nuôi tầng lớp cai trị; khác biệt chỉ là có chính quyền tàn nhẫn và hiệu quả hơn trong việc vắt thặng dư qua cống nạp và thuế.
 
 **Các làn sóng dân cư.** Dân bản địa đầu tiên của tiểu lục địa có thể có họ hàng với dân bản địa Úc. Qua nhiều thế kỷ và thiên niên kỷ, họ được bổ sung, hoặc bị lấn át, bởi các làn sóng di dân và xâm lược. Phần lớn những người mới đến (người Hy Lạp xứ Bactria, người Scythia, người Parthia, người Mông Cổ và nhiều dân khác) tới từ phía tây bắc qua Ba Tư hoặc Afghanistan; một số tới từ phía đông bắc qua Tây Tạng và Miến Điện. Rốt cuộc, trừ một ngoại lệ lớn là người Hồi giáo, họ đều theo lối sống và văn hoá bản địa, kể cả tôn giáo.
 
-**Tôn giáo và Đế chế Mughal.** Tôn giáo ảnh hưởng tới kinh tế nhiều hơn chính quyền, nhưng theo tác giả chủ đề này quá phức tạp để giải thích ngắn gọn. Tôn giáo nguyên thuỷ là Hindu giáo, phát triển với nhiều biến thể và giáo phái dị biệt, kể cả đạo Jain và đạo Sikh còn hoạt động ngày nay. Phật giáo, ra đời gần cùng thời với Nho giáo ở Trung Quốc, là một biến thể như vậy; nhưng nó thành công nhất ở Trung Quốc, Triều Tiên và Nhật Bản, và gần như biến mất khỏi Ấn Độ trước thời hiện đại. Hồi giáo thì không như vậy: nó vào tiểu lục địa đầu thế kỷ 8, rồi trở lại mạnh mẽ từ thế kỷ 13. Đầu thế kỷ 16, Babar (Babur), người tự nhận là hậu duệ Thành Cát Tư Hãn, lập Đế chế Mughal (còn gọi là Mogul) ở bắc Ấn Độ; cháu nội ông là Akbar mở rộng đế chế rất nhiều.
+**Tôn giáo và Đế chế Mughal.** Tôn giáo ảnh hưởng tới kinh tế nhiều hơn chính quyền, nhưng theo tác giả chủ đề này quá phức tạp để giải thích ngắn gọn. Tôn giáo nguyên thuỷ là Hindu giáo, phát triển với nhiều biến thể và giáo phái dị biệt, kể cả đạo Jain và đạo Sikh còn hoạt động ngày nay. Phật giáo, ra đời gần cùng thời với Nho giáo ở Trung Quốc, là một biến thể như vậy; nhưng nó thành công nhất ở Trung Quốc, Triều Tiên và Nhật Bản, và gần như biến mất khỏi Ấn Độ trước thời hiện đại.
+
+Hồi giáo thì không như vậy: nó vào tiểu lục địa đầu thế kỷ 8, rồi trở lại mạnh mẽ từ thế kỷ 13. Đầu thế kỷ 16, Babar (Babur), người tự nhận là hậu duệ Thành Cát Tư Hãn, lập Đế chế Mughal (còn gọi là Mogul) ở bắc Ấn Độ; cháu nội ông là Akbar mở rộng đế chế rất nhiều.
 
 Bản đồ Ấn Độ khoảng năm 1600 cho thấy:
 
@@ -963,7 +1006,11 @@ Bản đồ Ấn Độ khoảng năm 1600 cho thấy:
 
 Ngày nay biên giới chính trị giữa Ấn Độ và các nước láng giềng không phản ánh ranh giới tôn giáo rõ ràng, và xưa kia các tôn giáo còn đan xen hơn. Sự thù địch giữa các vương quốc Hồi giáo ở Deccan (nam Ấn Độ) và đế chế Hindu Vijayanagar đã giúp người Bồ Đào Nha lập căn cứ vào đầu thế kỷ 16.
 
-**Chế độ đẳng cấp.** Một cách tôn giáo tác động tới kinh tế là chế độ đẳng cấp của người Hindu. Đẳng cấp được xác định chủ yếu theo nghề nghiệp, nhưng ban đầu có lẽ còn có yếu tố tộc người. Lúc đầu chỉ có bốn varna, tức bậc đẳng cấp: Bà-la-môn (tăng lữ); bậc võ sĩ và người cai trị; bậc nông dân, thợ thủ công và thương nhân; và bậc thấp kém của người hầu. Theo thời gian, số đẳng cấp nhân lên tới mức mỗi loại nghề có một (hoặc nhiều hơn) đẳng cấp. Tính thứ bậc rất mạnh, với những quy định nghiêm ngặt về giao tiếp xã hội và cả tiếp xúc thân thể. Gần như ai cũng chỉ lấy vợ, lấy chồng trong cùng đẳng cấp. Nói chung, nguyên tắc quyết định địa vị là khái niệm ô uế, cả nghĩa đen lẫn nghĩa bóng: nghề càng ô uế thì địa vị càng thấp; có những người "không được chạm vào", thậm chí "không được nhìn thấy" (ví dụ người giặt quần áo cho người không được chạm vào phải làm việc ban đêm để không ai nhìn thấy họ). Tác giả cho rằng chế độ đẳng cấp có lẽ không cứng nhắc như người ta đôi khi mô tả, nhưng chắc hẳn nó đã cản trở cả dịch chuyển xã hội lẫn phân bổ nguồn lực hiệu quả. Một yếu tố khác của Hindu giáo có hại cho tăng trưởng kinh tế là việc tôn thờ bò: những con "bò thiêng" đi lại tự do khắp đồng quê và không được giết hay ăn.
+**Chế độ đẳng cấp.** Một cách tôn giáo tác động tới kinh tế là chế độ đẳng cấp của người Hindu. Đẳng cấp được xác định chủ yếu theo nghề nghiệp, nhưng ban đầu có lẽ còn có yếu tố tộc người. Lúc đầu chỉ có bốn varna, tức bậc đẳng cấp: Bà-la-môn (tăng lữ); bậc võ sĩ và người cai trị; bậc nông dân, thợ thủ công và thương nhân; và bậc thấp kém của người hầu. Theo thời gian, số đẳng cấp nhân lên tới mức mỗi loại nghề có một (hoặc nhiều hơn) đẳng cấp.
+
+Tính thứ bậc rất mạnh, với những quy định nghiêm ngặt về giao tiếp xã hội và cả tiếp xúc thân thể. Gần như ai cũng chỉ lấy vợ, lấy chồng trong cùng đẳng cấp. Nói chung, nguyên tắc quyết định địa vị là khái niệm ô uế, cả nghĩa đen lẫn nghĩa bóng: nghề càng ô uế thì địa vị càng thấp; có những người "không được chạm vào", thậm chí "không được nhìn thấy" (ví dụ người giặt quần áo cho người không được chạm vào phải làm việc ban đêm để không ai nhìn thấy họ).
+
+Tác giả cho rằng chế độ đẳng cấp có lẽ không cứng nhắc như người ta đôi khi mô tả, nhưng chắc hẳn nó đã cản trở cả dịch chuyển xã hội lẫn phân bổ nguồn lực hiệu quả. Một yếu tố khác của Hindu giáo có hại cho tăng trưởng kinh tế là việc tôn thờ bò: những con "bò thiêng" đi lại tự do khắp đồng quê và không được giết hay ăn.
 
 **Nông nghiệp.** Qua mọi thời đại, và cả ngày nay, đại đa số dân tiểu lục địa sống ở làng và chủ yếu làm nông nghiệp năng suất thấp, gần mức tự cung tự cấp. Ở vùng rừng rậm, họ dùng cách phát rừng đốt nương, kéo dài tới cả thời gian khá gần đây, giống như ở Bắc Âu trước khi có các cộng đồng định cư. Ở nơi khác, kỹ thuật và cây trồng tuỳ theo đất và khí hậu:
 
@@ -973,7 +1020,9 @@ Ngày nay biên giới chính trị giữa Ấn Độ và các nước láng gi�
 | Vùng khô hơn | Lúa mì hoặc lúa mạch (từ Trung Đông), hoặc kê (từ Trung Quốc, có thể từ Tây Á) |
 | Cây bản địa thật sự của Ấn Độ | Bông, được nhắc tới trong kinh Rig Veda, sách thánh của Hindu giáo |
 
-**Thủ công và thương mại.** Dù đa số dân dành thời gian và sức lực cho nông nghiệp, Ấn Độ không thiếu thợ thủ công giỏi. Bằng chứng là những tác phẩm nghệ thuật tinh xảo, tượng và kiến trúc đồ sộ, sánh được với nghệ thuật Hy Lạp và La Mã đẹp nhất, như lăng Taj Mahal. Chú thích ảnh trong sách cho biết lăng Taj Mahal, được nhiều người coi là công trình đẹp nhất thế giới, do một hoàng đế Mughal thế kỷ 17 cho xây làm lăng mộ cho vợ, và hàng nghìn thợ thủ công cùng lao động đã làm hơn mười năm để xây nó. Tuy vậy, những người thợ này làm cho người giàu và quyền thế; dân chúng không có sức mua, và không có tầng lớp trung lưu nào đáng kể. Chút thương mại ít ỏi nằm trong tay người nước ngoài, chủ yếu là người Ả Rập.
+**Thủ công và thương mại.** Dù đa số dân dành thời gian và sức lực cho nông nghiệp, Ấn Độ không thiếu thợ thủ công giỏi. Bằng chứng là những tác phẩm nghệ thuật tinh xảo, tượng và kiến trúc đồ sộ, sánh được với nghệ thuật Hy Lạp và La Mã đẹp nhất, như lăng Taj Mahal. Chú thích ảnh trong sách cho biết lăng Taj Mahal, được nhiều người coi là công trình đẹp nhất thế giới, do một hoàng đế Mughal thế kỷ 17 cho xây làm lăng mộ cho vợ, và hàng nghìn thợ thủ công cùng lao động đã làm hơn mười năm để xây nó.
+
+Tuy vậy, những người thợ này làm cho người giàu và quyền thế; dân chúng không có sức mua, và không có tầng lớp trung lưu nào đáng kể. Chút thương mại ít ỏi nằm trong tay người nước ngoài, chủ yếu là người Ả Rập.
 
 **Đông Nam Á.** Đông Nam Á, từ Miến Điện ở tây bắc tới Việt Nam ở phía đông và bán đảo Mã Lai ở phía nam, còn gọi là Đông Dương (Indochina), vì văn hoá ở đây là sự pha trộn truyền thống Trung Hoa và Ấn Độ. Vùng này lấy nhiều yếu tố kỹ thuật và kinh tế từ Trung Quốc, nhưng, có lẽ trừ Việt Nam, ảnh hưởng văn hoá Ấn Độ lớn hơn. Indonesia, như tên gọi cho thấy, cũng chịu ảnh hưởng mạnh của Ấn Độ, trước tiên là văn hoá Hindu và Phật giáo, sau đó là Hồi giáo. Trong số những người truyền bá, các tăng sĩ Phật giáo lập tu viện ở vùng hoang vu, đóng vai trò không khác dòng tu Xitô (Cistercians) ở Bắc Âu: truyền bá cả kỹ thuật tiên tiến lẫn văn hoá tôn giáo.
 
@@ -990,13 +1039,17 @@ Lịch sử thành văn của Đông Nam Á tương đối ngắn, chỉ khoản
 | Thời Trung cổ châu Âu | Hình thành các nhà nước dân tộc sơ khai, như vương quốc Pagan (Miến Điện ngày nay) và vương quốc Ayudhya (Thái Lan ngày nay) |
 | Thế kỷ 17 | Ayudhya tiếp sứ thần của vua Louis XIV nước Pháp |
 
-Phần lớn dân cư sống ở các thung lũng phù sa lớn của những con sông như Irrawaddy, Mekong, sông Hồng và các sông khác, nơi trồng lúa nước có tưới đủ để sống; và trên đất núi lửa màu mỡ của các đảo như Java và Bali. Cá sông và cá biển là món ăn quan trọng khác, và được đổi lấy gạo trong buôn bán địa phương. Hồ tiêu và những gia vị quý hơn từ quần đảo Moluccas, "quần đảo Gia vị" huyền thoại, từ lâu đã có thị trường ở Ấn Độ, Trung Quốc, Trung Đông và cả châu Âu. Người Hồi giáo (Ả Rập và các dân khác) là trung gian chính giữa Indonesia và Ấn Độ, đồng thời là người chủ yếu đưa đạo Hồi vào Indonesia (trừ đảo Bali, vẫn giữ phong tục Hindu). Từ Ấn Độ, người Ả Rập chở hàng tới Alexandria và các thương cảng khác ở Đông Địa Trung Hải, bán cho thương nhân Ý, chủ yếu là người Venice, và người Venice phân phối hàng đi khắp châu Âu. Các nước châu Âu khác coi đây là một thứ "độc quyền", và mong muốn đi vòng qua nó là một trong những động cơ chính của các chuyến thám hiểm Bồ Đào Nha, dẫn tới việc tìm ra đường biển vòng quanh châu Phi.
+Phần lớn dân cư sống ở các thung lũng phù sa lớn của những con sông như Irrawaddy, Mekong, sông Hồng và các sông khác, nơi trồng lúa nước có tưới đủ để sống; và trên đất núi lửa màu mỡ của các đảo như Java và Bali. Cá sông và cá biển là món ăn quan trọng khác, và được đổi lấy gạo trong buôn bán địa phương. Hồ tiêu và những gia vị quý hơn từ quần đảo Moluccas, "quần đảo Gia vị" huyền thoại, từ lâu đã có thị trường ở Ấn Độ, Trung Quốc, Trung Đông và cả châu Âu.
+
+Người Hồi giáo (Ả Rập và các dân khác) là trung gian chính giữa Indonesia và Ấn Độ, đồng thời là người chủ yếu đưa đạo Hồi vào Indonesia (trừ đảo Bali, vẫn giữ phong tục Hindu). Từ Ấn Độ, người Ả Rập chở hàng tới Alexandria và các thương cảng khác ở Đông Địa Trung Hải, bán cho thương nhân Ý, chủ yếu là người Venice, và người Venice phân phối hàng đi khắp châu Âu. Các nước châu Âu khác coi đây là một thứ "độc quyền", và mong muốn đi vòng qua nó là một trong những động cơ chính của các chuyến thám hiểm Bồ Đào Nha, dẫn tới việc tìm ra đường biển vòng quanh châu Phi.
 
 ### 6. Châu Phi (Africa)
 
 **Hai châu Phi.** Lịch sử Bắc Phi gắn chặt với lịch sử châu Âu, nhất là châu Âu Địa Trung Hải, từ thời xa xưa nhất tới nay. Ngược lại, châu Phi hạ Sahara (châu Phi da đen) hiếm khi ảnh hưởng tới các sự kiện của châu Âu hay thế giới trước thế kỷ 16, thậm chí trước thế kỷ 19. Vì gần như không có ghi chép thành văn trước khi người châu Âu tới, lịch sử của vùng này khó dựng lại. Theo tác giả, điều đó không có nghĩa châu Phi hạ Sahara không có lịch sử hay lịch sử của nó không quan trọng; nghiên cứu gần đây dùng bằng chứng khảo cổ và truyền khẩu đã tìm ra rất nhiều thông tin hữu ích về cái gọi là "lục địa đen".
 
-**Bắc Phi.** Lịch sử thành văn của châu Phi bắt đầu với Ai Cập cổ đại, đã nhắc qua ở Chương 2. Người Phoenicia đi thuyền dọc bờ Bắc Phi, và thuộc địa Carthage của họ từng tranh giành quyền kiểm soát Địa Trung Hải với La Mã. Cuộc tấn công bất ngờ của Hồi giáo đầu thời Trung cổ suýt biến Địa Trung Hải thành "hồ của người Hồi giáo" trong một thời gian ngắn. Bắc Phi bị tách khỏi châu Âu vừa bởi tôn giáo vừa bởi biển; tác giả nhận xét tôn giáo cản trở giao tiếp và buôn bán, còn biển lại tạo thuận lợi cho chúng. Dù vậy, Bắc Phi vẫn đóng vai trò trong lịch sử châu Âu cũng như lịch sử Hồi giáo và châu Phi. Thực ra, chính nhờ việc dân ở rìa phía bắc của châu Phi da đen cải sang đạo Hồi mà vùng này lần đầu tiếp xúc với nền kinh tế châu Âu. Sách chua thêm: Kitô giáo đã vào Nubia và Abyssinia (Ethiopia) trước khi Hồi giáo nổi lên; nhưng sau đó, với cuộc chinh phục Nubia của Hồi giáo, Abyssinia gần như bị cắt khỏi phần còn lại của thế giới Kitô giáo.
+**Bắc Phi.** Lịch sử thành văn của châu Phi bắt đầu với Ai Cập cổ đại, đã nhắc qua ở Chương 2. Người Phoenicia đi thuyền dọc bờ Bắc Phi, và thuộc địa Carthage của họ từng tranh giành quyền kiểm soát Địa Trung Hải với La Mã. Cuộc tấn công bất ngờ của Hồi giáo đầu thời Trung cổ suýt biến Địa Trung Hải thành "hồ của người Hồi giáo" trong một thời gian ngắn.
+
+Bắc Phi bị tách khỏi châu Âu vừa bởi tôn giáo vừa bởi biển; tác giả nhận xét tôn giáo cản trở giao tiếp và buôn bán, còn biển lại tạo thuận lợi cho chúng. Dù vậy, Bắc Phi vẫn đóng vai trò trong lịch sử châu Âu cũng như lịch sử Hồi giáo và châu Phi. Thực ra, chính nhờ việc dân ở rìa phía bắc của châu Phi da đen cải sang đạo Hồi mà vùng này lần đầu tiếp xúc với nền kinh tế châu Âu. Sách chua thêm: Kitô giáo đã vào Nubia và Abyssinia (Ethiopia) trước khi Hồi giáo nổi lên; nhưng sau đó, với cuộc chinh phục Nubia của Hồi giáo, Abyssinia gần như bị cắt khỏi phần còn lại của thế giới Kitô giáo.
 
 Kinh tế Bắc Phi giống kinh tế châu Âu Địa Trung Hải. Trồng ngũ cốc chiếm ưu thế ở nơi đủ mưa (đôi khi có thêm tưới tiêu), còn những nơi khác là chăn nuôi du mục. Buôn bán sôi động, nhưng công nghiệp chỉ ở quy mô hộ gia đình.
 
@@ -1006,7 +1059,9 @@ Kinh tế Bắc Phi giống kinh tế châu Âu Địa Trung Hải. Trồng ngũ
 
 **Dân cư và chính thể.** Dân cư còn đa dạng hơn cảnh quan. Tuy mọi cư dân gốc đều có da sẫm màu, hay da đen, họ khác nhau rất nhiều về tộc người, chủng tộc và ngôn ngữ. Nhưng ở đâu bộ lạc cũng là nhóm xã hội cơ bản phía trên gia đình. Đôi khi các chính thể lớn hơn (liên minh, vương quốc, thậm chí đế chế) xuất hiện, có cái tồn tại lâu một cách đáng ngạc nhiên như đế chế Ghana cổ; nhưng vì thiếu chữ viết, thứ mà một nhà nước quan liêu không thể thiếu, phần lớn chúng chỉ tồn tại ngắn.
 
-**Kinh tế.** Kinh tế cũng đa dạng, từ săn bắt hái lượm nguyên thuỷ nhất tới trồng trọt trên đồng ruộng và chăn nuôi khá phát triển ở xavan và các vùng trống trải khác. Cây trồng và vật nuôi thuần hoá có thể đã được đưa vào từ Ai Cập hoặc nơi khác ở Địa Trung Hải ngay từ thiên niên kỷ 2 trước Công nguyên. Vì khác biệt về khí hậu và lượng mưa, lúa mì và lúa mạch, lương thực chính của nông nghiệp Địa Trung Hải và Trung Đông, không phát triển tốt ở châu Phi hạ Sahara. Vì ruồi tsetse, loài mang bệnh làm chết gia súc lớn, phổ biến khắp Trung Phi, người trồng trọt không có súc vật kéo, nên phải dựa vào canh tác bằng cuốc, dùng cuốc gỗ hoặc cuốc sắt. Ở vùng rừng rậm, họ dùng cách phát rừng đốt nương, vài năm lại chuyển ruộng; họ trồng cây lấy củ và chuối (chuối được đưa tới từ Đông Nam Á, rồi về sau truyền sang châu Mỹ) và ăn thêm cá sông. Trình độ kỹ thuật nói chung thấp, nhưng điều đó không ngăn sự xuất hiện của một đẳng cấp thợ rèn chuyên nghiệp, hay của những thương nhân chuyên nghiệp.
+**Kinh tế.** Kinh tế cũng đa dạng, từ săn bắt hái lượm nguyên thuỷ nhất tới trồng trọt trên đồng ruộng và chăn nuôi khá phát triển ở xavan và các vùng trống trải khác. Cây trồng và vật nuôi thuần hoá có thể đã được đưa vào từ Ai Cập hoặc nơi khác ở Địa Trung Hải ngay từ thiên niên kỷ 2 trước Công nguyên. Vì khác biệt về khí hậu và lượng mưa, lúa mì và lúa mạch, lương thực chính của nông nghiệp Địa Trung Hải và Trung Đông, không phát triển tốt ở châu Phi hạ Sahara.
+
+Vì ruồi tsetse, loài mang bệnh làm chết gia súc lớn, phổ biến khắp Trung Phi, người trồng trọt không có súc vật kéo, nên phải dựa vào canh tác bằng cuốc, dùng cuốc gỗ hoặc cuốc sắt. Ở vùng rừng rậm, họ dùng cách phát rừng đốt nương, vài năm lại chuyển ruộng; họ trồng cây lấy củ và chuối (chuối được đưa tới từ Đông Nam Á, rồi về sau truyền sang châu Mỹ) và ăn thêm cá sông. Trình độ kỹ thuật nói chung thấp, nhưng điều đó không ngăn sự xuất hiện của một đẳng cấp thợ rèn chuyên nghiệp, hay của những thương nhân chuyên nghiệp.
 
 **Buôn bán và tiền.** Buôn bán có mặt gần như ở khắp nơi, kể cả giữa những người săn bắt hái lượm, trong chừng mực họ tiếp xúc với các nhóm xã hội khác:
 
@@ -1019,7 +1074,9 @@ Kinh tế Bắc Phi giống kinh tế châu Âu Địa Trung Hải. Trồng ngũ
 
 ### 7. Châu Mỹ (The Americas)
 
-**Nguồn gốc người da đỏ châu Mỹ.** Giới học giả nhìn chung đồng ý rằng người da đỏ bản địa châu Mỹ (Amerindians) là hậu duệ của một dân tộc Mongoloid (hoặc tiền Mongoloid) đã đi qua một dải đất nối liền, ở chỗ nay là eo biển Bering, vào một thời điểm xa xưa. Thời điểm ấy thì ít đồng thuận hơn: các ước tính trải từ vài nghìn năm tới hơn 30.000 năm trước, và các phát hiện khảo cổ gần đây ở cả Bắc Mỹ và Nam Mỹ nghiêng về giả thuyết niên đại xa hơn. Hơn nữa, khó có chuyện chỉ có một đợt di cư; nhiều khả năng các cuộc di cư diễn ra thành nhiều đợt trong hàng nghìn năm. Đã có những giả thuyết khéo léo, thậm chí được thử nghiệm, nhằm chứng minh cư dân gốc có thể tới bằng đường biển qua Đại Tây Dương hoặc Thái Bình Dương; nhưng theo tác giả, kể cả khi một hay vài chuyến đi như vậy thành công, khó có chuyện toàn bộ dân cư châu Mỹ trước Columbus, sống rải rác và nói nhiều thứ tiếng khác nhau, lại là hậu duệ của những người sống sót sau các chuyến đi đó.
+**Nguồn gốc người da đỏ châu Mỹ.** Giới học giả nhìn chung đồng ý rằng người da đỏ bản địa châu Mỹ (Amerindians) là hậu duệ của một dân tộc Mongoloid (hoặc tiền Mongoloid) đã đi qua một dải đất nối liền, ở chỗ nay là eo biển Bering, vào một thời điểm xa xưa. Thời điểm ấy thì ít đồng thuận hơn: các ước tính trải từ vài nghìn năm tới hơn 30.000 năm trước, và các phát hiện khảo cổ gần đây ở cả Bắc Mỹ và Nam Mỹ nghiêng về giả thuyết niên đại xa hơn.
+
+Hơn nữa, khó có chuyện chỉ có một đợt di cư; nhiều khả năng các cuộc di cư diễn ra thành nhiều đợt trong hàng nghìn năm. Đã có những giả thuyết khéo léo, thậm chí được thử nghiệm, nhằm chứng minh cư dân gốc có thể tới bằng đường biển qua Đại Tây Dương hoặc Thái Bình Dương; nhưng theo tác giả, kể cả khi một hay vài chuyến đi như vậy thành công, khó có chuyện toàn bộ dân cư châu Mỹ trước Columbus, sống rải rác và nói nhiều thứ tiếng khác nhau, lại là hậu duệ của những người sống sót sau các chuyến đi đó.
 
 **Mật độ dân số và năng suất.** Từ lâu trước khi Công nguyên bắt đầu ở Cựu Thế giới, Tân Thế giới đã có người ở, từ Canada và Alaska ngày nay ở phía bắc tới Patagonia và Tierra del Fuego ở phía nam. Tuy vậy mật độ dân số và trình độ văn hoá khác nhau rất nhiều, từ những đồng bằng lớn thưa dân ở Bắc Mỹ và rừng Amazon tới những thành phố đông đúc ở Trung Mỹ. Mật độ dân số tỉ lệ thuận với năng suất của nền kinh tế: cao nhất ở những vùng làm nông định cư, thấp nhất ở nơi cư dân vẫn sống bằng săn bắt hái lượm.
 
@@ -1037,11 +1094,17 @@ Dù kỹ thuật có vẻ thô sơ, người da đỏ châu Mỹ vẫn làm ra n
 
 **Chợ, buôn bán và văn hoá Olmec.** Chợ và buôn bán cũng có từ sớm. Bằng chứng khảo cổ về buôn bán đường xa có từ giữa thiên niên kỷ 2 trước Công nguyên. Từ thế kỷ 8 tới thế kỷ 4 trước Công nguyên, văn hoá Olmec ở bờ vịnh Mexico buôn bán với vùng cao nguyên trung tâm Mexico. Hàng buôn gồm tượng nhỏ chạm khắc tinh xảo và đồ nghệ thuật khác bằng ngọc bích, đá vỏ chai rất được ưa chuộng, và hạt ca cao, thứ vừa được dùng làm một dạng tiền vừa để tiêu dùng.
 
-**Văn minh Maya.** Văn minh Maya ở vùng nay là Guatemala và Yucatan xuất hiện vào khoảng cùng thời hoặc muộn hơn một chút. Đặc điểm nổi bật nhất của nó là những kim tự tháp lớn, không khác kim tự tháp Ai Cập mấy, với đền thờ xây trên đỉnh. Người Maya cũng có lịch và một dạng chữ viết mà mãi gần đây mới được giải mã. Người ta biết ít về tổ chức xã hội và kinh tế Maya, nhưng, như ở nơi khác, ngô là lương thực chính và chợ rất phổ biến. Tác giả suy luận rằng xã hội ắt phải được tổ chức theo thứ bậc mới xây được những công trình đồ sộ, và thặng dư lương thực ắt phải lớn mới giải phóng được một lực lượng thợ xây và thợ lành nghề. Văn minh Maya ở đỉnh cao trong khoảng thế kỷ 4 tới thế kỷ 9 Công nguyên. Sau đó, dân chúng có vẻ đã nổi dậy chống tầng lớp tăng lữ cai trị, có thể được những kẻ xâm lược từ phương bắc giúp sức. Các đền thờ, bị tín đồ bỏ rơi, đổ nát và bị rừng xung quanh phủ kín. Chú thích ảnh một đền thờ Maya trong sách nói rõ cách đọc của tác giả: công trình uy nghi này là bằng chứng về sự giàu có và quyền lực của người cai trị Maya, cũng như tay nghề của thợ; nhưng ách cai trị nặng nề, và thần dân cuối cùng đã nổi dậy rồi quay về nông nghiệp tự cung tự cấp.
+**Văn minh Maya.** Văn minh Maya ở vùng nay là Guatemala và Yucatan xuất hiện vào khoảng cùng thời hoặc muộn hơn một chút. Đặc điểm nổi bật nhất của nó là những kim tự tháp lớn, không khác kim tự tháp Ai Cập mấy, với đền thờ xây trên đỉnh. Người Maya cũng có lịch và một dạng chữ viết mà mãi gần đây mới được giải mã. Người ta biết ít về tổ chức xã hội và kinh tế Maya, nhưng, như ở nơi khác, ngô là lương thực chính và chợ rất phổ biến.
+
+Tác giả suy luận rằng xã hội ắt phải được tổ chức theo thứ bậc mới xây được những công trình đồ sộ, và thặng dư lương thực ắt phải lớn mới giải phóng được một lực lượng thợ xây và thợ lành nghề. Văn minh Maya ở đỉnh cao trong khoảng thế kỷ 4 tới thế kỷ 9 Công nguyên. Sau đó, dân chúng có vẻ đã nổi dậy chống tầng lớp tăng lữ cai trị, có thể được những kẻ xâm lược từ phương bắc giúp sức. Các đền thờ, bị tín đồ bỏ rơi, đổ nát và bị rừng xung quanh phủ kín.
+
+Chú thích ảnh một đền thờ Maya trong sách nói rõ cách đọc của tác giả: công trình uy nghi này là bằng chứng về sự giàu có và quyền lực của người cai trị Maya, cũng như tay nghề của thợ; nhưng ách cai trị nặng nề, và thần dân cuối cùng đã nổi dậy rồi quay về nông nghiệp tự cung tự cấp.
 
 **Các nền văn hoá cao nguyên Mexico và người Aztec.** Sau người Maya, nhiều nền văn hoá khác ở cao nguyên Mexico đạt trình độ phát triển khá cao, trong đó có người Toltec, Chichimec và Mixtec. Khoảng giữa thế kỷ 14, người Aztec, một bộ tộc dữ tợn, hiếu chiến, có kinh đô là Tenochtitlan (nay là Mexico City), bắt đầu chinh phục và bóc lột các láng giềng. Vì người Aztec hiến tế người và chọn nạn nhân trong số dân bị trị, theo tác giả không có gì lạ khi người Tây Ban Nha do Cortez chỉ huy tìm được những đồng minh sẵn lòng khi họ tấn công Tenochtitlan năm 1519.
 
-**Peru và người Inca.** Khi văn minh Maya ở đỉnh cao, dân ven biển Peru ngày nay đã làm nông nghiệp tưới tiêu bằng nước từ dãy Andes. Rõ ràng nền nông nghiệp này có năng suất tương đối cao, vì nó nuôi được những cộng đồng đô thị đông đúc buôn bán với nhau. Sau khoảng năm 1200, người Inca, một bộ tộc vùng cao có kinh đô ở Cuzco, bắt đầu chinh phục toàn bộ vùng cao nguyên và ven biển từ Ecuador ở phía bắc tới Chile ở phía nam. Người Inca không có chữ viết, nhưng họ vẫn ghi chép được và thậm chí truyền tin đi rất xa bằng những sợi dây thắt nút. Họ áp đặt lên dân bị trị một bộ máy nhà nước quan liêu rất tập trung, gồm cả những kho nhà nước để trữ và phân phối ngũ cốc; nhưng chợ tư nhân vẫn tồn tại song song với hệ thống phân phối của nhà nước.
+**Peru và người Inca.** Khi văn minh Maya ở đỉnh cao, dân ven biển Peru ngày nay đã làm nông nghiệp tưới tiêu bằng nước từ dãy Andes. Rõ ràng nền nông nghiệp này có năng suất tương đối cao, vì nó nuôi được những cộng đồng đô thị đông đúc buôn bán với nhau.
+
+Sau khoảng năm 1200, người Inca, một bộ tộc vùng cao có kinh đô ở Cuzco, bắt đầu chinh phục toàn bộ vùng cao nguyên và ven biển từ Ecuador ở phía bắc tới Chile ở phía nam. Người Inca không có chữ viết, nhưng họ vẫn ghi chép được và thậm chí truyền tin đi rất xa bằng những sợi dây thắt nút. Họ áp đặt lên dân bị trị một bộ máy nhà nước quan liêu rất tập trung, gồm cả những kho nhà nước để trữ và phân phối ngũ cốc; nhưng chợ tư nhân vẫn tồn tại song song với hệ thống phân phối của nhà nước.
 
 **Bắc Mỹ.** Các nhóm ở Bắc Mỹ được tác giả điểm qua như sau:
 
@@ -1061,7 +1124,9 @@ Theo truyền thuyết, người da đỏ đã dạy người Thanh giáo ở Ne
 
 ### Mệnh đề
 
-Trước thế kỷ 16, nhiều vùng ngoài châu Âu đã đạt trình độ kỹ thuật, đô thị hoá và thương mại ngang hoặc hơn châu Âu, và châu Âu nhận từ họ nhiều công nghệ, cây trồng, kỹ thuật tài chính. Nhưng không vùng nào trong số đó bước sang tăng trưởng công nghiệp, vì kỹ thuật tiên tiến chỉ phục vụ một tầng lớp nhỏ, đại đa số dân là nông dân nghèo không có sức mua, thể chế (địa vị thấp của thương nhân trong Nho giáo, chế độ đẳng cấp, nhà nước tự đóng cửa) không khuyến khích tích luỹ trong kinh doanh, và ở một số vùng tài nguyên và công nghệ (không có súc vật kéo, không có sắt, chi phí vận tải cao) giới hạn chặt năng suất. Những đặc điểm đó quyết định các vùng này sẽ tham gia nền kinh tế thế giới do châu Âu tạo ra theo cách nào và vào lúc nào.
+Trước thế kỷ 16, nhiều vùng ngoài châu Âu đã đạt trình độ kỹ thuật, đô thị hoá và thương mại ngang hoặc hơn châu Âu, và châu Âu nhận từ họ nhiều công nghệ, cây trồng, kỹ thuật tài chính.
+
+Nhưng không vùng nào trong số đó bước sang tăng trưởng công nghiệp, vì kỹ thuật tiên tiến chỉ phục vụ một tầng lớp nhỏ, đại đa số dân là nông dân nghèo không có sức mua, thể chế (địa vị thấp của thương nhân trong Nho giáo, chế độ đẳng cấp, nhà nước tự đóng cửa) không khuyến khích tích luỹ trong kinh doanh, và ở một số vùng tài nguyên và công nghệ (không có súc vật kéo, không có sắt, chi phí vận tải cao) giới hạn chặt năng suất. Những đặc điểm đó quyết định các vùng này sẽ tham gia nền kinh tế thế giới do châu Âu tạo ra theo cách nào và vào lúc nào.
 
 ### Giả định
 
@@ -1205,27 +1270,41 @@ Trước thế kỷ 16, nhiều vùng ngoài châu Âu đã đạt trình độ 
 
 ### Chương này là một bản đồ so sánh gọn, và lời giải thích dựa vào cầu thị trường là điểm mạnh nhất
 
-Trong 17 trang, tác giả đi qua sáu vùng, và ở mỗi vùng đều hỏi cùng một nhóm câu hỏi: nông nghiệp dựa trên cây gì, năng suất ra sao, ai buôn bán, dùng gì làm tiền, nhà nước thu thặng dư thế nào, và vì sao kỹ thuật không lan ra sản xuất. Nhờ vậy chương vừa là một tổng quan địa lý, vừa là phép thử của khung bốn yếu tố ở Chương 1. Lời giải thích nổi bật nhất là phía cầu: hàng thủ công Trung Quốc và Ấn Độ chỉ có thị trường ở triều đình và một lớp quý tộc mỏng, nông dân không có sức mua, không có tầng lớp trung lưu. Đây là một lập luận kinh tế rõ ràng, có thể kiểm chứng, và về sau trở thành trung tâm của nhiều tranh luận về nguồn gốc Cách mạng Công nghiệp. Các chi tiết nhỏ (tiền giấy Trung Quốc gây lạm phát, xe có bánh biến mất khỏi Trung Đông, nô lệ "tự đi được" qua Sahara, chợ tư nhân tồn tại song song với kho nhà nước của người Inca) cho thấy tác giả luôn tìm logic kinh tế phía sau một sự kiện lịch sử.
+Trong 17 trang, tác giả đi qua sáu vùng, và ở mỗi vùng đều hỏi cùng một nhóm câu hỏi: nông nghiệp dựa trên cây gì, năng suất ra sao, ai buôn bán, dùng gì làm tiền, nhà nước thu thặng dư thế nào, và vì sao kỹ thuật không lan ra sản xuất. Nhờ vậy chương vừa là một tổng quan địa lý, vừa là phép thử của khung bốn yếu tố ở Chương 1.
+
+Lời giải thích nổi bật nhất là phía cầu: hàng thủ công Trung Quốc và Ấn Độ chỉ có thị trường ở triều đình và một lớp quý tộc mỏng, nông dân không có sức mua, không có tầng lớp trung lưu. Đây là một lập luận kinh tế rõ ràng, có thể kiểm chứng, và về sau trở thành trung tâm của nhiều tranh luận về nguồn gốc Cách mạng Công nghiệp. Các chi tiết nhỏ (tiền giấy Trung Quốc gây lạm phát, xe có bánh biến mất khỏi Trung Đông, nô lệ "tự đi được" qua Sahara, chợ tư nhân tồn tại song song với kho nhà nước của người Inca) cho thấy tác giả luôn tìm logic kinh tế phía sau một sự kiện lịch sử.
 
 ### Bức tranh Trung Quốc "trì trệ" bị thách thức mạnh bởi trường phái "Đại phân kỳ"
 
-Cameron giải thích sự khác biệt giữa Trung Quốc và châu Âu bằng những đặc điểm lâu đời (Nho giáo coi thường thương nhân, nông dân nghèo, tính khép kín) và ngầm coi Trung Quốc đã tụt lại từ khoảng thế kỷ 15. Kenneth Pomeranz, trong *The Great Divergence* (2000), lập luận rằng tới khoảng năm 1750–1800, vùng phát triển nhất của Trung Quốc (đồng bằng sông Dương Tử) có mức sống, mức thương mại hoá và thị trường tương đương vùng phát triển nhất của châu Âu (nước Anh), và sự phân kỳ chỉ thật sự diễn ra muộn, nhờ than đá dễ khai thác và tài nguyên từ châu Mỹ của châu Âu. Các nghiên cứu sau đó về tiền lương thật (như của Robert Allen và cộng sự) phần nào ủng hộ, phần nào bác bỏ Pomeranz, và nhiều người cho rằng khoảng cách đã có trước 1800 nhưng không lớn như hình dung cũ. Điểm chung của cuộc tranh luận này là nó đặt lại câu hỏi mà Cameron trả lời khá nhanh: Trung Quốc thời Minh – Thanh có thật sự thiếu thị trường và thương nhân năng động không. Chính sách của nhà Thanh và hoạt động thương mại sôi động của vùng Giang Nam là những điểm mà sử học hiện nay nhấn mạnh hơn chương này.
+Cameron giải thích sự khác biệt giữa Trung Quốc và châu Âu bằng những đặc điểm lâu đời (Nho giáo coi thường thương nhân, nông dân nghèo, tính khép kín) và ngầm coi Trung Quốc đã tụt lại từ khoảng thế kỷ 15. Kenneth Pomeranz, trong *The Great Divergence* (2000), lập luận rằng tới khoảng năm 1750–1800, vùng phát triển nhất của Trung Quốc (đồng bằng sông Dương Tử) có mức sống, mức thương mại hoá và thị trường tương đương vùng phát triển nhất của châu Âu (nước Anh), và sự phân kỳ chỉ thật sự diễn ra muộn, nhờ than đá dễ khai thác và tài nguyên từ châu Mỹ của châu Âu.
+
+Các nghiên cứu sau đó về tiền lương thật (như của Robert Allen và cộng sự) phần nào ủng hộ, phần nào bác bỏ Pomeranz, và nhiều người cho rằng khoảng cách đã có trước 1800 nhưng không lớn như hình dung cũ. Điểm chung của cuộc tranh luận này là nó đặt lại câu hỏi mà Cameron trả lời khá nhanh: Trung Quốc thời Minh – Thanh có thật sự thiếu thị trường và thương nhân năng động không. Chính sách của nhà Thanh và hoạt động thương mại sôi động của vùng Giang Nam là những điểm mà sử học hiện nay nhấn mạnh hơn chương này.
 
 ### Một số khẳng định về các chuyến đi của Trịnh Hòa và lệnh cấm năm 1433 nay được trình bày thận trọng hơn
 
-Sách nói các hạm đội của Trịnh Hòa để lại "những cộng đồng người Hoa định cư" ở Ceylon, Ấn Độ, vịnh Ba Tư, Biển Đỏ, Đông Phi, và rằng năm 1433 hoàng đế đột ngột cấm đi biển, ra lệnh phá tàu. Sử học hiện nay thường mô tả các chuyến đi (bảy chuyến, khoảng 1405–1433) chủ yếu là sứ mệnh ngoại giao, phô trương uy thế và thu cống, không phải thương mại hay khai thác thuộc địa; bằng chứng về các khu định cư lâu dài do hạm đội để lại ở Đông Phi và Trung Đông là mỏng. Lệnh cấm buôn bán đường biển tư nhân (hải cấm) đã có từ đầu thời Minh, trước cả các chuyến đi; việc ngừng các hạm đội là kết quả của tranh chấp trong triều đình, áp lực tài chính và mối đe doạ từ phía bắc, và hồ sơ về các chuyến đi bị huỷ hay thất lạc. Câu hỏi "nếu người Trung Quốc vẫn ở Ấn Độ Dương" vẫn hấp dẫn, nhưng cần nhớ rằng mục đích các chuyến đi khác hẳn mục đích của người Bồ Đào Nha.
+Sách nói các hạm đội của Trịnh Hòa để lại "những cộng đồng người Hoa định cư" ở Ceylon, Ấn Độ, vịnh Ba Tư, Biển Đỏ, Đông Phi, và rằng năm 1433 hoàng đế đột ngột cấm đi biển, ra lệnh phá tàu.
+
+Sử học hiện nay thường mô tả các chuyến đi (bảy chuyến, khoảng 1405–1433) chủ yếu là sứ mệnh ngoại giao, phô trương uy thế và thu cống, không phải thương mại hay khai thác thuộc địa; bằng chứng về các khu định cư lâu dài do hạm đội để lại ở Đông Phi và Trung Đông là mỏng. Lệnh cấm buôn bán đường biển tư nhân (hải cấm) đã có từ đầu thời Minh, trước cả các chuyến đi; việc ngừng các hạm đội là kết quả của tranh chấp trong triều đình, áp lực tài chính và mối đe doạ từ phía bắc, và hồ sơ về các chuyến đi bị huỷ hay thất lạc. Câu hỏi "nếu người Trung Quốc vẫn ở Ấn Độ Dương" vẫn hấp dẫn, nhưng cần nhớ rằng mục đích các chuyến đi khác hẳn mục đích của người Bồ Đào Nha.
 
 ### Ngôn ngữ và một số nhận định mang dấu ấn thời viết
 
-Chương dùng nhiều cụm từ mà sử học hiện nay tránh hoặc dùng rất thận trọng: "man di" (tác giả đặt trong ngoặc kép), "lục địa đen" (cũng trong ngoặc kép), "nguyên thuỷ", "những cư dân không mặc quần áo ở Tierra del Fuego", "tôn giáo nguyên thuỷ" để chỉ Hindu giáo, và hình ảnh so sánh cuộc chinh phục của người Ả Rập với cơn lốc sa mạc. Nhận định rằng các chính thể châu Phi "phần lớn chỉ tồn tại ngắn" vì thiếu chữ viết cũng chưa tính tới những nhà nước tồn tại lâu như Mali, Songhai, Đại Zimbabwe, Kongo hay Ethiopia, và việc nhiều vùng Tây Phi có chữ viết Ả Rập từ thời trung cổ (Timbuktu). Về văn minh Maya, giới nghiên cứu hiện nay thường giải thích sự suy tàn của các thành phố miền nam (thế kỷ 9) bằng một tổ hợp nguyên nhân: hạn hán kéo dài, suy thoái môi trường, chiến tranh giữa các thành bang và khủng hoảng chính trị, chứ không chủ yếu bằng cuộc nổi dậy của dân chúng như tác giả suy luận. Về niên đại người tới châu Mỹ, nhận định của tác giả rằng chứng cứ nghiêng về niên đại xa đã được củng cố: các di chỉ như Monte Verde (Chile) đã được chấp nhận rộng rãi là có trước 14.000 năm, và một số phát hiện sau 2003 còn đẩy niên đại lùi xa hơn, dù vẫn đang tranh luận.
+Chương dùng nhiều cụm từ mà sử học hiện nay tránh hoặc dùng rất thận trọng: "man di" (tác giả đặt trong ngoặc kép), "lục địa đen" (cũng trong ngoặc kép), "nguyên thuỷ", "những cư dân không mặc quần áo ở Tierra del Fuego", "tôn giáo nguyên thuỷ" để chỉ Hindu giáo, và hình ảnh so sánh cuộc chinh phục của người Ả Rập với cơn lốc sa mạc.
+
+Nhận định rằng các chính thể châu Phi "phần lớn chỉ tồn tại ngắn" vì thiếu chữ viết cũng chưa tính tới những nhà nước tồn tại lâu như Mali, Songhai, Đại Zimbabwe, Kongo hay Ethiopia, và việc nhiều vùng Tây Phi có chữ viết Ả Rập từ thời trung cổ (Timbuktu).
+
+Về văn minh Maya, giới nghiên cứu hiện nay thường giải thích sự suy tàn của các thành phố miền nam (thế kỷ 9) bằng một tổ hợp nguyên nhân: hạn hán kéo dài, suy thoái môi trường, chiến tranh giữa các thành bang và khủng hoảng chính trị, chứ không chủ yếu bằng cuộc nổi dậy của dân chúng như tác giả suy luận. Về niên đại người tới châu Mỹ, nhận định của tác giả rằng chứng cứ nghiêng về niên đại xa đã được củng cố: các di chỉ như Monte Verde (Chile) đã được chấp nhận rộng rãi là có trước 14.000 năm, và một số phát hiện sau 2003 còn đẩy niên đại lùi xa hơn, dù vẫn đang tranh luận.
 
 ### Ý tưởng "đảo ngược vận may" giúp đọc lại chương này từ góc nhìn thể chế
 
-Acemoglu, Johnson và Robinson (bài "Reversal of Fortune", 2002) chỉ ra rằng những vùng thuộc địa giàu có và đông dân nhất vào khoảng năm 1500 (đế chế Aztec, Inca, Mughal) về sau lại thành những vùng tương đối nghèo, còn những vùng thưa dân (Bắc Mỹ, Úc) thành giàu. Giải thích của họ là thể chế: ở nơi đông dân và giàu, người châu Âu lập thể chế khai thác để chiếm thặng dư sẵn có; ở nơi thưa dân, họ định cư và lập thể chế bảo vệ quyền tài sản cho số đông. Chương 4 cung cấp đúng bức tranh "trước đảo ngược": thung lũng Mexico và Andes đông đúc, có thặng dư lớn và nhà nước tập trung; đồng bằng Bắc Mỹ thưa dân. Đặt cạnh nhau, chương này và lập luận của Acemoglu–Robinson cho thấy câu hỏi "ai giàu năm 1500" khác hẳn câu hỏi "ai giàu năm 1900".
+Acemoglu, Johnson và Robinson (bài "Reversal of Fortune", 2002) chỉ ra rằng những vùng thuộc địa giàu có và đông dân nhất vào khoảng năm 1500 (đế chế Aztec, Inca, Mughal) về sau lại thành những vùng tương đối nghèo, còn những vùng thưa dân (Bắc Mỹ, Úc) thành giàu. Giải thích của họ là thể chế: ở nơi đông dân và giàu, người châu Âu lập thể chế khai thác để chiếm thặng dư sẵn có; ở nơi thưa dân, họ định cư và lập thể chế bảo vệ quyền tài sản cho số đông.
+
+Chương 4 cung cấp đúng bức tranh "trước đảo ngược": thung lũng Mexico và Andes đông đúc, có thặng dư lớn và nhà nước tập trung; đồng bằng Bắc Mỹ thưa dân. Đặt cạnh nhau, chương này và lập luận của Acemoglu–Robinson cho thấy câu hỏi "ai giàu năm 1500" khác hẳn câu hỏi "ai giàu năm 1900".
 
 ### Lập luận về địa lý của chương gần với cách nhìn của Jared Diamond
 
-Những nhận xét của tác giả về ruồi tsetse, việc không có súc vật kéo và sắt ở châu Mỹ, lúa mì và lúa mạch không mọc được ở châu Phi hạ Sahara, và các sông châu Phi nhiều thác ghềnh, rất gần với lập luận của Jared Diamond trong *Guns, Germs, and Steel* (1997): khác biệt về động thực vật thuần hoá được và về hướng trục lục địa (Á–Âu trải theo chiều đông–tây nên cây trồng dễ lan; châu Mỹ, châu Phi trải theo chiều bắc–nam nên khó lan) giải thích phần lớn khoảng cách công nghệ khi người châu Âu tới. Cameron không đi xa tới mức coi địa lý là yếu tố quyết định, nhưng chương này cho thấy ông dành vai trò lớn cho tài nguyên và công nghệ ở châu Phi và châu Mỹ, trong khi ở châu Á ông nhấn mạnh thể chế và thị trường. Sự phân vai đó chính là một chỗ để người đọc đặt câu hỏi: vì sao cùng một khung bốn yếu tố lại dẫn tới những lời giải thích khác nhau cho từng vùng.
+Những nhận xét của tác giả về ruồi tsetse, việc không có súc vật kéo và sắt ở châu Mỹ, lúa mì và lúa mạch không mọc được ở châu Phi hạ Sahara, và các sông châu Phi nhiều thác ghềnh, rất gần với lập luận của Jared Diamond trong *Guns, Germs, and Steel* (1997): khác biệt về động thực vật thuần hoá được và về hướng trục lục địa (Á–Âu trải theo chiều đông–tây nên cây trồng dễ lan; châu Mỹ, châu Phi trải theo chiều bắc–nam nên khó lan) giải thích phần lớn khoảng cách công nghệ khi người châu Âu tới.
+
+Cameron không đi xa tới mức coi địa lý là yếu tố quyết định, nhưng chương này cho thấy ông dành vai trò lớn cho tài nguyên và công nghệ ở châu Phi và châu Mỹ, trong khi ở châu Á ông nhấn mạnh thể chế và thị trường. Sự phân vai đó chính là một chỗ để người đọc đặt câu hỏi: vì sao cùng một khung bốn yếu tố lại dẫn tới những lời giải thích khác nhau cho từng vùng.
 
 ### Vận dụng: khi đánh giá triển vọng tăng trưởng của một nền kinh tế, hãy hỏi công nghệ có tới được số đông không và ai được giữ lại thành quả
 
@@ -1234,3 +1313,189 @@ Những nhận xét của tác giả về ruồi tsetse, việc không có súc 
 - **Khi bàn chính sách mở cửa.** Lệnh cấm năm 1433 và lệnh cấm của Tokugawa là ví dụ cổ điển về việc một nước có lợi thế công nghệ tự rút khỏi thương mại quốc tế và nhường chỗ cho người khác. Khi đánh giá chính sách bảo hộ hay hạn chế giao thương, cần hỏi khoảng trống để lại sẽ do ai lấp.
 - **Khi nghĩ về hạ tầng.** Đại Vận Hà được xây để thu thuế nhưng tạo ra chuyên môn hoá theo vùng; Đế chế Ottoman rộng mà không thành thị trường chung vì vận tải đắt. Giá trị kinh tế của hạ tầng giao thông nằm ở việc nó hạ chi phí vận chuyển đủ để các vùng chuyên môn hoá và trao đổi hàng thông thường, không chỉ hàng xa xỉ.
 - **Khi học lịch sử kinh tế.** Đọc chương này cùng với Pomeranz, Acemoglu–Robinson và Diamond giúp thấy câu hỏi "vì sao phương Tây giàu lên trước" có ít nhất ba kiểu câu trả lời: thể chế và văn hoá (Cameron nhấn mạnh với châu Á), tài nguyên và địa lý (Cameron nhấn mạnh với châu Phi, châu Mỹ), và những yếu tố ngẫu nhiên, muộn như than đá và thuộc địa (Pomeranz). Mỗi kiểu dẫn tới hàm ý chính sách khác nhau cho các nước đang phát triển ngày nay.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (thế giới Hồi giáo, Đế chế Ottoman, Đông Á, Nam Á và Đông Nam Á, châu Phi và châu Mỹ), mỗi nhánh ghi luận điểm của tác giả, nhân tố dân số, công nghệ, tài nguyên, thể chế, các mốc thời gian và số liệu then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: trước thế kỷ 16 châu Âu chỉ là một trong nhiều vùng, có vùng tiên tiến hơn nhưng không vùng nào bước sang thời đại công nghiệp`"]
+  n1["`Mục 1–2 — Thế giới Hồi giáo: thương nhân được kính trọng, làm trung gian buôn bán Á–Âu`"]
+  n0 --- n1
+  n2["`Mohammed từng là thương nhân, mất năm 632, trong khoảng 100 năm Caliphate trải từ Trung Á tới Tây Ban Nha`"]
+  n1 --- n2
+  n3["`Đất chỉ bớt khô hạn hơn bán đảo Ả Rập, nhưng tưới tiêu đạt năng suất cao ở nam Tây Ban Nha và Lưỡng Hà`"]
+  n1 --- n3
+  n4["`Cho vay lấy lãi bị cấm nhưng thương nhân nghĩ ra thư tín dụng và hối phiếu`"]
+  n1 --- n4
+  n5["`La bàn và nghề làm giấy của Trung Quốc tới châu Âu qua người Ả Rập`"]
+  n1 --- n5
+  n6["`Cách mạng xanh thời trung cổ: lúa gạo, mía, bông, cây có múi, dưa hấu truyền sang châu Âu`"]
+  n1 --- n6
+  n7["`Thế kỷ 8–10 có lẽ có một đợt tăng dân số giống đường logistic thứ nhất của châu Âu`"]
+  n1 --- n7
+  n8["`Lạc đà đi đường dài, đoàn hàng nghìn con, xe có bánh biến mất khỏi Trung Đông tới thế kỷ 19`"]
+  n1 --- n8
+  n9["`Khoan dung nhưng đánh thuế người Do Thái và Kitô hữu, thuế có lẽ khiến nhiều người cải đạo`"]
+  n1 --- n9
+  n10["`Giữ học thuật Hy Lạp, học giả Kitô giáo thế kỷ 11–12 tới Cordoba học triết học, khoa học`"]
+  n1 --- n10
+  n11["`Giáo hoàng cấm buôn bán với người Hồi giáo nhưng thương nhân Venice gần như không để ý`"]
+  n1 --- n11
+  n12["`Mục 3 — Đế chế Ottoman: rộng lớn nhưng không phải một thị trường chung`"]
+  n0 --- n12
+  n13["`Mốc mở rộng: 1354 vào châu Âu, 1453 chiếm Constantinople, 1683 bị đẩy lùi ở Vienna`"]
+  n12 --- n13
+  n14["`Chi phí vận tải cao nên các tỉnh ít chuyên môn hoá, vẫn làm như trước khi bị chinh phục`"]
+  n12 --- n14
+  n15["`Đế chế bền nhờ hệ thống thuế đều đặn, tương đối công bằng, nuôi bộ máy và quân đội`"]
+  n12 --- n15
+  n16["`Quan chức tỉnh hưởng địa tô từ đất được chỉ định, phần nào giống phong kiến châu Âu`"]
+  n12 --- n16
+  n17["`Tác giả cho tiếng tàn bạo là phóng đại: đối xử ôn hoà miễn thuế thu đều, ít ép cải đạo trừ lính janissary`"]
+  n12 --- n17
+  n18["`Năm 1492 nhiều người Do Thái bị Tây Ban Nha trục xuất sang phục vụ sultan`"]
+  n12 --- n18
+  n19["`Mục 4 — Đông Á: Trung Quốc đi trước về khoa học, kỹ thuật nhưng không đột phá sang công nghiệp`"]
+  n0 --- n19
+  n20["`Văn minh khép kín, Nho giáo hoàn chỉnh từ thế kỷ 5 trước Công nguyên, quan lại thực thi và định hình ý hoàng đế`"]
+  n19 --- n20
+  n21["`Khoảng năm 1000 giống lúa tốt hơn cho cấy hai vụ một năm, năng suất tăng mạnh`"]
+  n19 --- n21
+  n22["`Phát minh: đúc đồng, lụa, sứ, giấy, in, la bàn, tiền giấy`"]
+  n19 --- n22
+  n23["`Tiền giấy dẫn tới phát hành quá mức, lạm phát và nhiều lần sụp đổ tiền tệ`"]
+  n22 --- n23
+  n24["`Dân số khoảng 50 triệu năm 600, xấp xỉ gấp đôi vào khoảng 1200, vượt 100 triệu khoảng 1450`"]
+  n19 --- n24
+  n25["`Thế kỷ 7 ba phần tư dân sống ở miền bắc, đầu thế kỷ 13 hơn 60% ở miền trung và nam`"]
+  n24 --- n25
+  n26["`Đại Vận Hà xây để thu thuế, giữ trật tự nhưng tạo ra chuyên môn hoá theo vùng sơ khai`"]
+  n19 --- n26
+  n27["`Tác giả nêu ba lý do không có bước đột phá công nghiệp`"]
+  n19 --- n27
+  n28["`Hàng thủ công chỉ cho triều đình và quý tộc mỏng, nông dân quá nghèo để làm thị trường`"]
+  n27 --- n28
+  n29["`Sắt luyện giỏi nhưng chỉ làm vũ khí, đồ trang trí, không làm công cụ`"]
+  n27 --- n29
+  n30["`Nho giáo xếp thương nhân rất thấp, thương nhân giàu mua đất làm địa chủ`"]
+  n27 --- n30
+  n31["`Mông Cổ lập đế chế lục địa lớn nhất, phá Baghdad năm 1258, nhà Nguyên 1260–1368`"]
+  n19 --- n31
+  n32["`Thời Hốt Tất Liệt buôn bán Địa Trung Hải–Trung Quốc thịnh nhất cho tới thế kỷ 19`"]
+  n31 --- n32
+  n33["`Nhà Minh dời đô lên Bắc Kinh năm 1421, đưa vào trồng bông, dệt vải bông, chuyên môn hoá rõ hơn`"]
+  n19 --- n33
+  n34["`Đầu thế kỷ 15 hạm đội Trịnh Hòa tới Ceylon, Ấn Độ, vịnh Ba Tư, Biển Đỏ, Đông Phi`"]
+  n19 --- n34
+  n35["`Năm 1433 hoàng đế cấm đi biển, phá tàu viễn dương, cấm dân ra nước ngoài`"]
+  n34 --- n35
+  n36["`Nhật Bản giỏi bắt chước, Tokugawa đầu thế kỷ 17 cấm ra nước ngoài và cấm đóng tàu viễn dương`"]
+  n19 --- n36
+  n37["`Mục 5 — Nam Á và Đông Nam Á: tôn giáo ảnh hưởng kinh tế mạnh hơn chính quyền`"]
+  n0 --- n37
+  n38["`Đổi chính quyền ít tác động tới nông dân, chỉ khác mức tàn nhẫn khi vắt thặng dư qua cống nạp, thuế`"]
+  n37 --- n38
+  n39["`Babar lập Đế chế Mughal đầu thế kỷ 16, cháu nội Akbar mở rộng tới năm 1605`"]
+  n37 --- n39
+  n40["`Chế độ đẳng cấp: bốn varna gốc, xếp bậc theo mức ô uế của nghề, chỉ lấy vợ chồng cùng đẳng cấp`"]
+  n37 --- n40
+  n41["`Có lẽ không cứng nhắc như hay tả nhưng cản trở dịch chuyển xã hội và phân bổ nguồn lực`"]
+  n40 --- n41
+  n42["`Bò thiêng không được giết hay ăn là yếu tố Hindu giáo có hại cho tăng trưởng`"]
+  n37 --- n42
+  n43["`Thợ giỏi xây Taj Mahal hơn mười năm nhưng dân không có sức mua, không có tầng lớp trung lưu`"]
+  n37 --- n43
+  n44["`Thù địch giữa vương quốc Hồi giáo ở Deccan và Vijayanagar giúp Bồ Đào Nha lập căn cứ`"]
+  n37 --- n44
+  n45["`Đông Nam Á góp lúa gạo, thuần hoá từ thiên niên kỷ 2 trước Công nguyên, và gia vị`"]
+  n37 --- n45
+  n46["`Gia vị đi Moluccas – Ấn Độ – Alexandria – Venice, các nước châu Âu muốn đi vòng thứ độc quyền này`"]
+  n37 --- n46
+  n47["`Mục 6–7 — Châu Phi và châu Mỹ: tài nguyên và công nghệ giới hạn năng suất`"]
+  n0 --- n47
+  n48["`Lạc đà vào thế kỷ 2–3 mới làm buôn bán xuyên Sahara phổ biến`"]
+  n47 --- n48
+  n49["`Chỉ buôn hàng giá trị cao, khối lượng nhỏ: vàng, ngà voi, nô lệ tự đi được`"]
+  n48 --- n49
+  n50["`Trái ấn tượng phổ biến, rừng mưa chỉ phủ một phần, chủ yếu lưu vực Congo, giữa rừng và sa mạc là xavan`"]
+  n47 --- n50
+  n51["`Ruồi tsetse giết gia súc lớn nên không có súc vật kéo, phải canh tác bằng cuốc`"]
+  n47 --- n51
+  n52["`Sông Nile, Niger, Zambezi nhiều thác ghềnh nên ít thúc đẩy buôn bán`"]
+  n47 --- n52
+  n53["`Thiếu chữ viết nên phần lớn nhà nước tồn tại ngắn, trừ những nước như đế chế Ghana cổ`"]
+  n47 --- n53
+  n54["`Đông Phi dùng vỏ ốc tiền để khỏi phải đổi hàng lấy hàng`"]
+  n47 --- n54
+  n55["`Người châu Mỹ qua eo Bering, ước tính từ vài nghìn tới hơn 30.000 năm trước`"]
+  n47 --- n55
+  n56["`Mật độ dân số tỉ lệ thuận với năng suất: cao nhất nơi nông nghiệp định cư`"]
+  n47 --- n56
+  n57["`Tự phát minh nông nghiệp với ngô, khoai tây, nhưng không có sắt, không có súc vật kéo`"]
+  n47 --- n57
+  n58["`Olmec buôn hạt ca cao, vừa để tiêu dùng vừa làm một dạng tiền`"]
+  n47 --- n58
+  n59["`Maya đỉnh cao thế kỷ 4–9, theo tác giả dân nổi dậy chống tăng lữ, đền bị bỏ hoang`"]
+  n47 --- n59
+  n60["`Aztec hiến tế người trong dân bị trị nên Cortez dễ tìm đồng minh năm 1519`"]
+  n47 --- n60
+  n61["`Inca ghi chép bằng dây thắt nút, kho nhà nước tồn tại song song chợ tư nhân`"]
+  n47 --- n61
+  n62["`Cahokia gần St. Louis có thể lớn ngang một thành phố châu Âu trung cổ`"]
+  n47 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Kỹ thuật cao chưa đủ, cần thị trường rộng gồm số đông có sức mua`"]
+  n63 --- n64
+  n65["`Thể chế quyết định vốn ở lại trong kinh doanh hay bị rút sang mua đất và địa vị`"]
+  n63 --- n65
+  n66["`Tự đóng cửa như nhà Minh năm 1433 để lại khoảng trống cho người Bồ Đào Nha`"]
+  n63 --- n66
+  n67["`Câu hỏi để ngỏ: lịch sử sẽ khác nếu Trung Quốc còn ở Ấn Độ Dương khi Bồ Đào Nha tới`"]
+  n63 --- n67
+  n68["`Ở đâu tác giả cũng thấy chợ, thương nhân và một thứ tiền`"]
+  n63 --- n68
+  class n0 root
+  class n1,n12,n19,n37,n47,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Rondo Cameron và Larry Neal, *A Concise Economic History of the World: From Paleolithic Times to the Present*, ấn bản thứ tư (Oxford University Press, 2003), Chương 4, trang sách 77–93.
+
+## Tác giả
+
+Rondo Cameron (1925–2001), nhà sử học kinh tế Mỹ, giáo sư Đại học Emory, tác giả ba ấn bản đầu (1989, 1993, 1997); Larry Neal (sinh 1941), giáo sư kinh tế danh dự Đại học Illinois tại Urbana-Champaign, người cập nhật ấn bản thứ tư sau khi Cameron qua đời.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 đặt khung phân tích: phát triển kinh tế do bốn yếu tố quyết định (dân số, tài nguyên, công nghệ, thể chế) và dân số châu Âu tăng theo các "đường logistic" (logistic, đường cong hình chữ S: một giai đoạn tăng tốc, rồi chậm lại và chững hẳn). Chương 2 đi qua các nền kinh tế cổ đại, Chương 3 kể "đường logistic thứ nhất" của châu Âu trung cổ (dân số tăng từ thế kỷ 9–10, chững lại ở thế kỷ 13 và bị Đại dịch hạch năm 1348 cắt đứt).
+
+Chương 4 tạm rời châu Âu để quay sang những vùng còn lại của thế giới vào lúc ngay trước khi người châu Âu tới: thế giới Hồi giáo, Đế chế Ottoman, Đông Á, Nam Á và Đông Nam Á, châu Phi, châu Mỹ. Đây là "vạch xuất phát" để Chương 5 (đường logistic thứ hai của châu Âu, thời đại khám phá) và Chương 6 (chủ nghĩa dân tộc kinh tế và chủ nghĩa đế quốc) kể chuyện châu Âu tiếp xúc, buôn bán và chinh phục các vùng ấy.
+
+Chương này không nhắc lại tên bốn yếu tố, nhưng dùng chúng ngầm ở mọi vùng: tài nguyên và địa lý (đất khô cằn của Ả Rập, ruồi tsetse ở châu Phi, sông nhiều thác ghềnh), công nghệ (la bàn, giấy, lúa hai vụ, việc thiếu sắt và súc vật kéo ở châu Mỹ), thể chế (địa vị của thương nhân trong Hồi giáo và trong Nho giáo, hệ thống thuế của Ottoman, chế độ đẳng cấp ở Ấn Độ) và dân số (dân số Trung Quốc tăng gấp đôi trong 600 năm, mật độ dân số châu Mỹ đi theo năng suất). Ý tưởng đường logistic xuất hiện trực tiếp một lần: tác giả cho rằng thế giới Hồi giáo thế kỷ 8–10 có lẽ đã trải qua một đợt tăng dân số và tăng trưởng kinh tế giống đường logistic thứ nhất của châu Âu.
+
+## Lưu ý
+
+- Chương này thuộc phần Cameron viết cho các ấn bản trước; Neal gần như không cập nhật, nên nội dung phản ánh hiểu biết sử học đến khoảng cuối thập niên 1980 – thập niên 1990.
+- Chương không có bảng số liệu và không có chú thích chân trang nào của tác giả.
+- Chương có sáu hình, đều không chứa số liệu: bốn bản đồ (Hình 4-1 "Thế giới Hồi giáo khoảng năm 1200"; Hình 4-2 "Sự mở rộng của Đế chế Ottoman, 1307–1683"; Hình 4-3 "Đế chế Mông Cổ và các nước láng giềng, khoảng năm 1300"; Hình 4-4 "Ấn Độ khoảng năm 1600") và hai ảnh (Hình 4-5 lăng Taj Mahal; Hình 4-6 một đền thờ của người Maya). Văn bản OCR của các trang bản đồ hoàn toàn không đọc được, nên nội dung bốn bản đồ đã được đọc trực tiếp trên PDF và mô tả bằng lời trong phần Sơ đồ và Nội dung chi tiết; chú thích ảnh của hai hình 4-5, 4-6 cũng đã đưa vào.
+- Sách có một chỗ trỏ sang trang 136 (việc vua Ferdinand và nữ hoàng Isabella trục xuất người Do Thái khỏi Tây Ban Nha năm 1492), trang đó thuộc Chương 6.
+- Một số chỗ sách có vẻ nhầm hoặc giản lược:
+  - sách gọi Hốt Tất Liệt (Kublai Khan) là "cháu nội và người kế vị thứ năm" của Thành Cát Tư Hãn; Hốt Tất Liệt thường được tính là Đại Hãn thứ năm nếu tính cả Thành Cát Tư Hãn, tức người kế vị thứ tư (sau Oa Khoát Đài, Quý Do, Mông Kha), trừ khi tính cả các giai đoạn nhiếp chính
+  - sách viết sa mạc phía nam châu Phi là "Kalihari", tên thông dụng là Kalahari
+  - sách ghi năm sinh, năm mất của Osman là 1259–1326, nhiều tài liệu khác ghi khoảng 1258 và 1323/1324
+  - sách nói "đại số là phát minh của người Ả Rập" và toán học hiện đại dựa trên "hệ ký số Ả Rập": hệ chữ số này gốc ở Ấn Độ và được người Ả Rập truyền sang châu Âu, còn al-Khwarizmi, người viết cuốn sách đặt tên cho môn đại số, là người gốc Ba Tư viết bằng tiếng Ả Rập
+  - sách xếp hồ tiêu chung với các gia vị chủ yếu đến từ quần đảo Indonesia, nhưng hồ tiêu đen trồng nhiều nhất ở bờ biển Malabar (tây nam Ấn Độ); nhục đậu khấu và đinh hương mới là đặc sản của quần đảo Moluccas
+  - sách nói Abyssinia bị cắt khỏi thế giới Kitô giáo "do cuộc chinh phục Nubia của Hồi giáo", nhưng các vương quốc Kitô giáo ở Nubia đã chặn được quân Ả Rập ở thế kỷ 7 và tồn tại tới khoảng thế kỷ 14–15
+  - sách nói Trung Quốc "đã dùng tiền giấy khi Charlemagne đúc những đồng xu bạc đầu tiên" (cuối thế kỷ 8): thời nhà Đường (đầu thế kỷ 9) mới có "phi tiền", một loại giấy chuyển tiền, còn tiền giấy theo đúng nghĩa do nhà nước phát hành xuất hiện ở thời Tống, thế kỷ 11.
+- Những điểm còn tranh luận về nội dung (chuyến đi của Trịnh Hòa, nguyên nhân suy tàn của văn minh Maya, niên đại người tới châu Mỹ) được bàn ở phần Đánh giá.
+- Tên riêng được giữ theo cách viết của sách (ví dụ Mohammed, Cheng-ho, Babar, Ayudhya, Yangtse), kèm tên tiếng Việt hoặc tên thông dụng khi có.
+- Các câu trích là bản dịch của người tổng hợp.

@@ -1,11 +1,21 @@
 # Lời nói đầu (Preface)
 
-**Nguồn:** Rondo Cameron và Larry Neal, *A Concise Economic History of the World: From Paleolithic Times to the Present*, ấn bản thứ tư (Oxford University Press, 2003), Lời nói đầu (Preface), trang XV–XVI (đánh số La Mã ở đầu sách), do Larry Neal viết và ký tại Urbana, Illinois.
-**Tác giả:** Lời nói đầu do Larry Neal (sinh 1941), giáo sư kinh tế danh dự Đại học Illinois tại Urbana-Champaign, viết. Cuốn sách là của Rondo Cameron (1925–2001), nhà sử học kinh tế Mỹ, giáo sư Đại học Emory, tác giả ba ấn bản đầu (1989, 1993, 1997); Neal cập nhật ấn bản thứ tư sau khi Cameron qua đời.
-**Vị trí trong lập luận của cả cuốn sách:** Lời nói đầu không trình bày khái niệm kinh tế nào. Nó cho người đọc biết ba điều trước khi vào nội dung: ấn bản thứ tư ra đời thế nào (Cameron muốn cập nhật sách khi thiên niên kỷ mới tới gần nhưng sức khoẻ không cho phép, nên Neal làm thay); Cameron là ai và cuốn sách được viết theo tinh thần nào (cái nhìn cân bằng về vai trò của công nghệ, dân số, tài nguyên và thể chế, cùng niềm tin vào tính liên tục của tiến bộ lịch sử); và vì sao Cameron học kinh tế (hiểu kinh tế và phát triển kinh tế tốt hơn để tránh chiến tranh). Ngay sau đó, Chương 1 (*Introduction: Economic History and Economic Development*) biến "cái nhìn cân bằng" mà Neal nhắc tới thành một khung phân tích chính thức: bốn yếu tố quyết định của phát triển kinh tế là dân số, tài nguyên, công nghệ và thể chế xã hội.
-**Ý chính:** Neal muốn người đọc hiểu rằng đây vẫn là cuốn sách của Cameron. Cameron qua đời ngày 1 tháng 1 năm 2001, chưa kịp xem những sửa đổi mà Neal hoàn tất vào tháng 12 năm 2000. Neal giới thiệu Cameron như một trong những nhà sử học kinh tế Mỹ có tầm quốc tế nhất: giáo sư thỉnh giảng ở Anh, Pháp, Đức, Brazil và Nhật; phó chủ tịch Hiệp hội Lịch sử Kinh tế Quốc tế; người hướng dẫn luận án của nhiều nhà sử học kinh tế hàng đầu châu Âu; nổi tiếng vì công trình tiên phong về vai trò của các định chế tài chính trong lan toả công nghiệp hoá. Trong cuốn giáo trình cho sinh viên mới học và người đọc phổ thông, Cameron giữ cái nhìn cân bằng về vai trò của công nghệ, tăng dân số, tài nguyên thiên nhiên và thể chế. Neal cố giữ lối viết sắc gọn và tính khách quan đó, và thừa nhận việc sửa một cuốn sách đã được dịch ra mười ba thứ tiếng và dùng trên khắp thế giới là việc khó. Lời nói đầu khép lại bằng mục đích lớn mà Cameron đặt cho cuốn sách: sau khi làm phi công hải quân trong Thế chiến II, ông học kinh tế với hy vọng rằng hiểu kinh tế và phát triển kinh tế tốt hơn sẽ giúp nhân loại tránh được chiến tranh.
+## Ý chính
 
-> **Lưu ý:** Lời nói đầu được viết khoảng cuối năm 2000 hoặc đầu năm 2001 (Neal nói các sửa đổi của ông hoàn tất vào tháng 12 năm 2000, và nhắc tới việc Cameron qua đời ngày 1 tháng 1 năm 2001); sách in năm 2003. Lời nói đầu không có chú thích chân trang, bảng hay hình. Lời nói đầu không nói rõ Neal đã sửa những chương nào; theo thông tin chung về ấn bản này, Neal chủ yếu cập nhật các chương cuối (13–16) về thế kỷ 20 và đầu thế kỷ 21, còn các chương khác phần lớn giữ từ ấn bản của Cameron. Sách viết Cameron mất "ở năm thứ bảy mươi lăm của đời ông" (in his seventy-fifth year); nếu Cameron sinh năm 1925 thì vào ngày 1 tháng 1 năm 2001 ông đã 75 tuổi, tức theo nghĩa chặt là đang ở năm thứ bảy mươi sáu, nên cụm từ này có lẽ được dùng theo nghĩa thông thường "ở tuổi 75". Bản văn bản trích tự động của Lời nói đầu khá sạch; tên riêng đã được giữ đúng như sách. Hai trang tiếp theo trong tệp PDF chỉ là trang tên sách, không có nội dung. Các câu trích là bản dịch của người tổng hợp.
+Neal muốn người đọc hiểu rằng đây vẫn là cuốn sách của Cameron.
+
+Cameron qua đời ngày 1 tháng 1 năm 2001, chưa kịp xem những sửa đổi mà Neal hoàn tất vào tháng 12 năm 2000.
+
+Neal giới thiệu Cameron như một trong những nhà sử học kinh tế Mỹ có tầm quốc tế nhất:
+
+- giáo sư thỉnh giảng ở Anh, Pháp, Đức, Brazil và Nhật
+- phó chủ tịch Hiệp hội Lịch sử Kinh tế Quốc tế
+- người hướng dẫn luận án của nhiều nhà sử học kinh tế hàng đầu châu Âu
+- nổi tiếng vì công trình tiên phong về vai trò của các định chế tài chính trong lan toả công nghiệp hoá.
+
+Trong cuốn giáo trình cho sinh viên mới học và người đọc phổ thông, Cameron giữ cái nhìn cân bằng về vai trò của công nghệ, tăng dân số, tài nguyên thiên nhiên và thể chế. Neal cố giữ lối viết sắc gọn và tính khách quan đó, và thừa nhận việc sửa một cuốn sách đã được dịch ra mười ba thứ tiếng và dùng trên khắp thế giới là việc khó.
+
+Lời nói đầu khép lại bằng mục đích lớn mà Cameron đặt cho cuốn sách: sau khi làm phi công hải quân trong Thế chiến II, ông học kinh tế với hy vọng rằng hiểu kinh tế và phát triển kinh tế tốt hơn sẽ giúp nhân loại tránh được chiến tranh.
 
 ## Sơ đồ
 
@@ -127,7 +137,9 @@ Trong giới sử học kinh tế, Cameron được biết tới vì công trìn
 
 ### 3. Sự tận tuỵ của Cameron và mục đích của cuốn sách (Preface, đoạn thứ ba)
 
-Suốt sự nghiệp, Cameron tận tuỵ phục vụ người khác, không chỉ trong công việc của một nhà sử học kinh tế (ông là biên tập viên tạp chí *Journal of Economic History*, rồi chủ tịch Hiệp hội Lịch sử Kinh tế), mà cả trong việc ủng hộ Quỹ Albert Schweitzer, nhất là Chương trình Học giả Lambaréné của quỹ. (Lambaréné là thị trấn ở Gabon, nơi bác sĩ Albert Schweitzer lập bệnh viện; giải thích này là của người tổng hợp.) Sau khi làm phi công hải quân trong Thế chiến II, Cameron có động lực học kinh tế với mục tiêu rằng, nhờ hiểu kinh tế và phát triển kinh tế tốt hơn, con người có thể tránh được chiến tranh trong tương lai. Theo Neal, cuốn sách được hình thành và dành cho mục đích lớn đó, và Neal coi việc tiếp nối nó sang thiên niên kỷ mới là một vinh dự.
+Suốt sự nghiệp, Cameron tận tuỵ phục vụ người khác, không chỉ trong công việc của một nhà sử học kinh tế (ông là biên tập viên tạp chí *Journal of Economic History*, rồi chủ tịch Hiệp hội Lịch sử Kinh tế), mà cả trong việc ủng hộ Quỹ Albert Schweitzer, nhất là Chương trình Học giả Lambaréné của quỹ. (Lambaréné là thị trấn ở Gabon, nơi bác sĩ Albert Schweitzer lập bệnh viện; giải thích này là của người tổng hợp.)
+
+Sau khi làm phi công hải quân trong Thế chiến II, Cameron có động lực học kinh tế với mục tiêu rằng, nhờ hiểu kinh tế và phát triển kinh tế tốt hơn, con người có thể tránh được chiến tranh trong tương lai. Theo Neal, cuốn sách được hình thành và dành cho mục đích lớn đó, và Neal coi việc tiếp nối nó sang thiên niên kỷ mới là một vinh dự.
 
 ### 4. Lời cảm ơn (Preface, đoạn cuối)
 
@@ -223,3 +235,130 @@ Lời nói đầu chỉ nói Neal đã làm "phần việc cần thiết" và c�
 - **Khi đọc các chương sau.** Với mỗi giai đoạn lịch sử, hỏi vai trò của công nghệ, dân số, tài nguyên và thể chế là gì, đúng như "cái nhìn cân bằng" mà Neal nói Cameron giữ.
 - **Khi gặp số liệu.** Nhớ rằng sách hoàn tất cuối năm 2000 và in năm 2003; số liệu ở các chương đầu có thể còn cũ hơn.
 - **Khi đọc về tài chính.** Đây là chuyên môn sâu nhất của Cameron, nên các phần về ngân hàng và tài chính trong công nghiệp hoá là phần đáng đọc kỹ nhất.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời nói đầu trên một trang: bảy nhánh lớn, bốn nhánh đầu đi theo các mục 1–4 của phần Nội dung chi tiết (ấn bản thứ tư ra đời thế nào, Cameron là ai và sách viết theo tinh thần nào, sự tận tuỵ và mục đích của cuốn sách, lời cảm ơn), hai nhánh tiếp theo ghi tiền đề, cơ chế và giả định từ Luận điểm kinh tế cốt lõi cùng những điều người đọc cần giữ trong đầu từ phần Đánh giá, mỗi nhánh ghi mốc thời gian, con người và quan điểm then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời nói đầu: ấn bản thứ tư do Neal cập nhật vẫn là cuốn sách của Cameron, với cái nhìn cân bằng và mục đích tránh chiến tranh`"]
+  n1["`Mục 1 — Ấn bản thứ tư ra đời khi Cameron không còn sức tự làm`"]
+  n0 --- n1
+  n2["`Thiên niên kỷ mới tới gần, Cameron muốn cập nhật cuốn lịch sử kinh tế thế giới ngắn gọn nhưng toàn diện`"]
+  n1 --- n2
+  n3["`Mùa hè năm 2000 sức khoẻ Cameron suy sụp nhanh, ông không thể tự hoàn thành việc cập nhật`"]
+  n1 --- n3
+  n4["`Cameron từng ghi công cho Neal ở ấn bản thứ ba nhiều hơn mức Neal thấy xứng đáng, nên Neal được đề nghị làm thay`"]
+  n1 --- n4
+  n5["`Neal hoàn tất sửa đổi tháng 12/2000, Cameron mất ngày 1/1/2001 ở tuổi khoảng 75, chưa kịp xem`"]
+  n1 --- n5
+  n6["`Ba ấn bản đầu của Cameron năm 1989, 1993, 1997, ấn bản thứ tư in năm 2003`"]
+  n1 --- n6
+  n7["`Cameron (1925–2001) dạy ở Đại học Emory, Neal (sinh 1941) là giáo sư Đại học Illinois tại Urbana-Champaign`"]
+  n1 --- n7
+  n8["`Mục 2 — Cameron có tầm quốc tế và viết với cái nhìn cân bằng`"]
+  n0 --- n8
+  n9["`Giáo sư thỉnh giảng ở Anh, Pháp, Đức, Brazil, Nhật, phó chủ tịch Hiệp hội Lịch sử Kinh tế Quốc tế`"]
+  n8 --- n9
+  n10["`Hướng dẫn luận án Gabriel Tortella (Tây Ban Nha), Richard Tilly (Đức), Franklin Mendels (Thuỵ Sĩ)`"]
+  n8 --- n10
+  n11["`Công trình tiên phong: định chế tài chính thúc đẩy công nghiệp hoá lan rộng từ Anh sang các nước khác`"]
+  n8 --- n11
+  n12["`Chương 11 có tiểu mục Finance and Banking, từ ngân hàng cổ phần thương mại ở Nga tới ngân hàng Mỹ nhiều biến động`"]
+  n11 --- n12
+  n13["`Luôn nhấn mạnh tính liên tục cơ bản của tiến bộ lịch sử, thay đổi nối tiếp chứ không đứt gãy đột ngột`"]
+  n8 --- n13
+  n14["`Chương 1: công nghiệp hoá Tây Âu kéo dài từ cuối Trung cổ tới giữa thế kỷ 20, không bắt đầu đột ngột cuối thế kỷ 18`"]
+  n13 --- n14
+  n15["`Giáo trình cho sinh viên mới học và người đọc phổ thông giữ cái nhìn cân bằng về công nghệ, tăng dân số, tài nguyên thiên nhiên, thể chế`"]
+  n8 --- n15
+  n16["`Neal cố giữ lối viết sắc gọn, khách quan, nhưng sửa sách đã dịch ra 13 thứ tiếng là việc khiến người sửa e ngại`"]
+  n8 --- n16
+  n17["`Mục 3 — Cameron tận tuỵ phục vụ người khác và học kinh tế để tránh chiến tranh`"]
+  n0 --- n17
+  n18["`Biên tập viên Journal of Economic History, rồi chủ tịch Hiệp hội Lịch sử Kinh tế`"]
+  n17 --- n18
+  n19["`Ngoài nghề ủng hộ Quỹ Albert Schweitzer, nhất là Chương trình Học giả Lambaréné`"]
+  n17 --- n19
+  n20["`Phi công hải quân trong Thế chiến II, sau đó học kinh tế để nhờ hiểu phát triển kinh tế mà tránh được chiến tranh`"]
+  n17 --- n20
+  n21["`Cuốn sách được hình thành và dành cho mục đích lớn đó, Neal coi việc tiếp nối nó là một vinh dự`"]
+  n17 --- n21
+  n22["`Mục 4 — Lời cảm ơn của Neal`"]
+  n0 --- n22
+  n23["`Cảm ơn Cameron vì tinh thần đồng nghiệp và sự cởi mở tiếp thu phê bình xây dựng`"]
+  n22 --- n23
+  n24["`Ken McLeod, biên tập viên đầu tiên tại Oxford University Press, chăm chút liên tục cho tác phẩm`"]
+  n22 --- n24
+  n25["`Hai người thẩm định giấu tên giúp trình bày sắc nét hơn các phần cập nhật, sửa đổi`"]
+  n22 --- n25
+  n26["`Paul Donnelly, biên tập viên kinh tế học của Oxford, bảo đảm ấn bản thứ tư ra đúng thời hạn`"]
+  n22 --- n26
+  n27["`Luận điểm — Hai tiền đề của cả cuốn sách`"]
+  n0 --- n27
+  n28["`Phát triển kinh tế phải hiểu qua vai trò cân bằng của công nghệ, dân số, tài nguyên và thể chế`"]
+  n27 --- n28
+  n29["`Chương 1 biến điều này thành khung bốn yếu tố quyết định: dân số, tài nguyên, công nghệ, thể chế xã hội`"]
+  n28 --- n29
+  n30["`Chương 1 phê phán thuyết Marxist và thuyết thể chế chính vì chúng không cân bằng`"]
+  n28 --- n30
+  n31["`Hiểu kinh tế và phát triển kinh tế tốt hơn có giá trị thực tế, kể cả cho mục tiêu tránh chiến tranh`"]
+  n27 --- n31
+  n32["`Cơ chế: hiểu vì sao kinh tế phát triển hay trì trệ → thấy nguồn gốc chênh lệch giàu nghèo, gắn với bất ổn và chiến tranh`"]
+  n31 --- n32
+  n33["`Giả định: lịch sử kinh tế có tính liên tục, nên hiểu quá khứ giúp hiểu hiện tại`"]
+  n27 --- n33
+  n34["`Giả định: giáo trình nhập môn có thể vừa ngắn gọn vừa bao quát toàn bộ lịch sử kinh tế thế giới`"]
+  n27 --- n34
+  n35["`Đánh giá — Điều người đọc cần giữ trong đầu`"]
+  n0 --- n35
+  n36["`Câu Neal mô tả Cameron trùng gần như từng chữ với bốn yếu tố của Chương 1, xác nhận khung đó là của Cameron`"]
+  n35 --- n36
+  n37["`Lời nói đầu không nói chương nào do Neal viết lại, chương đầu mang số liệu Cameron, chương cuối phản ánh Neal`"]
+  n35 --- n37
+  n38["`Sách hoàn tất cuối năm 2000 và in năm 2003, số liệu ở các chương đầu có thể còn cũ hơn`"]
+  n35 --- n38
+  n39["`Tránh chiến tranh là niềm tin của tác giả, chính Chương 1 thận trọng nói quan hệ trì trệ và chiến tranh có thể là ngẫu nhiên`"]
+  n35 --- n39
+  n40["`Phần ngân hàng và tài chính trong công nghiệp hoá là chuyên môn sâu nhất của Cameron, đáng đọc kỹ nhất`"]
+  n35 --- n40
+  n41["`Thông điệp xuyên suốt`"]
+  n0 --- n41
+  n42["`Đọc sách như một tổng quan cân bằng, không như lời bảo vệ một lý thuyết đơn nhân`"]
+  n41 --- n42
+  n43["`Phần cập nhật của Neal giữ tinh thần và lối viết của Cameron, cả cuốn là một khối thống nhất`"]
+  n41 --- n43
+  n44["`Lịch sử kinh tế được kể như phương tiện hiểu vấn đề sống còn: chênh lệch phát triển, chiến tranh và hoà bình`"]
+  n41 --- n44
+  class n0 root
+  class n1,n8,n17,n22,n27,n35,n41 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n42,n43,n44 leaf
+```
+
+## Nguồn
+
+Rondo Cameron và Larry Neal, *A Concise Economic History of the World: From Paleolithic Times to the Present*, ấn bản thứ tư (Oxford University Press, 2003), Lời nói đầu (Preface), trang XV–XVI (đánh số La Mã ở đầu sách), do Larry Neal viết và ký tại Urbana, Illinois.
+
+## Tác giả
+
+Lời nói đầu do Larry Neal (sinh 1941), giáo sư kinh tế danh dự Đại học Illinois tại Urbana-Champaign, viết. Cuốn sách là của Rondo Cameron (1925–2001), nhà sử học kinh tế Mỹ, giáo sư Đại học Emory, tác giả ba ấn bản đầu (1989, 1993, 1997); Neal cập nhật ấn bản thứ tư sau khi Cameron qua đời.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Lời nói đầu không trình bày khái niệm kinh tế nào. Nó cho người đọc biết ba điều trước khi vào nội dung: ấn bản thứ tư ra đời thế nào (Cameron muốn cập nhật sách khi thiên niên kỷ mới tới gần nhưng sức khoẻ không cho phép, nên Neal làm thay); Cameron là ai và cuốn sách được viết theo tinh thần nào (cái nhìn cân bằng về vai trò của công nghệ, dân số, tài nguyên và thể chế, cùng niềm tin vào tính liên tục của tiến bộ lịch sử); và vì sao Cameron học kinh tế (hiểu kinh tế và phát triển kinh tế tốt hơn để tránh chiến tranh).
+
+Ngay sau đó, Chương 1 (*Introduction: Economic History and Economic Development*) biến "cái nhìn cân bằng" mà Neal nhắc tới thành một khung phân tích chính thức: bốn yếu tố quyết định của phát triển kinh tế là dân số, tài nguyên, công nghệ và thể chế xã hội.
+
+## Lưu ý
+
+- Lời nói đầu được viết khoảng cuối năm 2000 hoặc đầu năm 2001 (Neal nói các sửa đổi của ông hoàn tất vào tháng 12 năm 2000, và nhắc tới việc Cameron qua đời ngày 1 tháng 1 năm 2001); sách in năm 2003.
+- Lời nói đầu không có chú thích chân trang, bảng hay hình.
+- Lời nói đầu không nói rõ Neal đã sửa những chương nào; theo thông tin chung về ấn bản này, Neal chủ yếu cập nhật các chương cuối (13–16) về thế kỷ 20 và đầu thế kỷ 21, còn các chương khác phần lớn giữ từ ấn bản của Cameron.
+- Sách viết Cameron mất "ở năm thứ bảy mươi lăm của đời ông" (in his seventy-fifth year); nếu Cameron sinh năm 1925 thì vào ngày 1 tháng 1 năm 2001 ông đã 75 tuổi, tức theo nghĩa chặt là đang ở năm thứ bảy mươi sáu, nên cụm từ này có lẽ được dùng theo nghĩa thông thường "ở tuổi 75".
+- Bản văn bản trích tự động của Lời nói đầu khá sạch; tên riêng đã được giữ đúng như sách. Hai trang tiếp theo trong tệp PDF chỉ là trang tên sách, không có nội dung.
+- Các câu trích là bản dịch của người tổng hợp.
