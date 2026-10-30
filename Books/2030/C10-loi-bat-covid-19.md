@@ -1,20 +1,18 @@
 # Lời bạt — Sự kiện chấn động COVID-19 tác động như thế nào đến các xu hướng trong cuốn 2030
 
-**Nguồn:** Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020), bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai* (dịch giả Vũ Kiều Linh, NXB Thế Giới & Phương Nam Book, 2022), "Lời bạt: Sự kiện chấn động COVID-19 tác động như thế nào đến các xu hướng trong cuốn 2030", trang PDF 344–348; kèm "Lời cảm ơn", trang PDF 349–350.
-**Thời điểm viết:** tháng 3 năm 2020, tức khi Tổ chức Y tế Thế giới vừa tuyên bố đại dịch và khoảng năm tháng trước khi bản gốc phát hành (tháng 8/2020). Phần còn lại của cuốn sách được viết trước đại dịch (các mục nguồn tham khảo của tác giả ghi ngày truy cập web cuối cùng trong năm 2019, ví dụ 22/9/2019 cho Phần giới thiệu).
-**Vị trí trong lập luận của cả cuốn sách:** Phần giới thiệu ([00-phan-gioi-thieu-thoi-gian-dang-can-dan.md](00-phan-gioi-thieu-thoi-gian-dang-can-dan.md)) đã báo trước rằng mọi xu hướng sẽ diễn ra nhanh hơn khi có một sự kiện lịch sử như COVID-19, và hẹn bàn chi tiết ở Lời bạt. Lời bạt đi qua sáu trong tám chương: tỷ lệ sinh ([C01](C01-tre-em-cho-ta-biet-dieu-gi.md)), quan hệ giữa các thế hệ và già hóa ([C02](C02-cong-dan-dau-bac-the-he-xanh-moi.md)), tầng lớp trung lưu châu Âu ([C03](C03-theo-kip-nha-singh-va-nha-wang.md)), đô thị đông dân ([C05](C05-cai-chet-cua-do-thi.md)), công nghệ ([C06](C06-dien-thoai-nhieu-hon-nha-ve-sinh.md)) và nền kinh tế chia sẻ ([C07](C07-mot-the-gioi-khong-tu-huu.md)). Hai chương không được nhắc là phụ nữ ([C04](C04-nguoi-phu-nu-moi.md)) và tiền tệ ([C08](C08-nhieu-loai-tien-hon-so-quoc-gia.md)). Lời bạt đứng sau Phần kết với bảy nguyên tắc ([C09-phan-ket-bi-quyet-de-ton-tai-nam-2030.md](C09-phan-ket-bi-quyet-de-ton-tai-nam-2030.md)), và có thể đọc như một phép thử đầu tiên cho các nguyên tắc ấy.
-**Ý chính:** **Guillén cho rằng trái với suy nghĩ thông thường, đại dịch COVID-19 sẽ không cắt các xu hướng thành "trước" và "sau" mà sẽ làm chúng diễn ra nhanh và mạnh hơn.** Ông nêu ba lý do khiến tỷ lệ sinh giảm nhanh hơn (người ta hoãn quyết định lớn khi bất trắc; suy thoái làm khó chuẩn bị tài chính cho con, như sau Đại Suy thoái thập niên 1930 và khủng hoảng 2008; cú sốc làm đổi ưu tiên sống). Virus nguy hiểm nhất với người trên 60 tuổi và người có bệnh nền, nên khác biệt giữa các thế hệ sâu thêm, và tỷ trọng dân số thế giới dịch về châu Phi, Nam Á nhanh hơn. Người nghèo, người vô gia cư chịu hậu quả nặng hơn nên bất bình đẳng tăng. Châu Âu, nhất là Ý và Tây Ban Nha, bị đánh vào lúc chưa hồi phục hẳn sau năm 2008 và thiếu vốn công; các nước bất ổn như Iran chịu áp lực chính trị lớn. Theo Tổ chức Y tế Thế giới có 1.307 đợt bùng phát dịch trong các năm 2011–2017, và cứ 40–70 năm thế giới lại gặp một đại dịch (1855, 1918–1919, đầu thập niên 1980, 2020), nên cần quy trình dự phòng như với động đất. Giãn cách xã hội ở các đô thị đông dân sẽ đẩy nhanh mua sắm trực tuyến (Amazon tuyển thêm người), giao tiếp trực tuyến (Zoom, WhatsApp), giải trí số, nền kinh tế chia sẻ và công nghệ như in 3D (máy thở, mặt nạ). Câu hỏi khép lại: những cú sốc như thế sẽ giúp ta chuẩn bị tốt hơn, hay làm ta không thấy những thay đổi đa chiều sắp đạt đỉnh trong thập niên tới?
+## Ý chính
 
-> **Lưu ý:**
-> - **"Tỉnh Vũ Hán" là lỗi dịch.** Vũ Hán là thành phố, thủ phủ tỉnh Hồ Bắc, Trung Quốc.
-> - **Ngày 17/11/2019 là con số không chính thức.** Theo hiểu biết của người tổng hợp, mốc này đến từ một bài báo (South China Morning Post, tháng 3/2020) dẫn tài liệu chính phủ Trung Quốc chưa công bố; báo cáo chính thức với Tổ chức Y tế Thế giới ghi ca khởi phát triệu chứng sớm nhất vào đầu tháng 12/2019. Bệnh do virus SARS-CoV-2 gây ra.
-> - **Bản dịch gộp hai tuyên bố của Tổ chức Y tế Thế giới.** "Tuyên bố đây là tình huống khẩn cấp về đại dịch toàn cầu" (trang PDF 344) theo hiểu biết của người tổng hợp gồm hai bước: ngày 30/1/2020 tổ chức này tuyên bố "tình trạng khẩn cấp về y tế công cộng gây quan ngại quốc tế", và ngày 11/3/2020 mới gọi COVID-19 là đại dịch.
-> - **"1.307 đợt bùng phát đại dịch" (trang PDF 346) là dịch sai thuật ngữ.** Con số này chỉ các đợt bùng phát dịch bệnh (epidemic events) nói chung, không phải đại dịch toàn cầu (pandemic). Chính đoạn văn ngay sau đó nói đại dịch toàn cầu chỉ xảy ra mỗi 40–70 năm, nên không thể có 1.307 đại dịch trong bảy năm.
-> - **Danh sách đại dịch bỏ sót.** Theo hiểu biết của người tổng hợp, giữa các mốc Guillén nêu còn có đại dịch cúm châu Á (1957–1958), cúm Hồng Kông (1968–1969) và cúm H1N1 (2009); vì thế chu kỳ "40 đến 70 năm" chỉ đúng với những đại dịch nặng nhất.
-> - **Câu "sẽ khó khăn hơn khi sự pha trộn thế hệ ngày nay quá phổ biến" (trang PDF 345) khó hiểu.** Theo mạch văn, ý có lẽ là: khi nhiều thế hệ sống chung nhà hoặc tiếp xúc thường xuyên, người trẻ ít triệu chứng dễ lây cho người già, nên việc bảo vệ người già khó hơn (suy đoán của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Ý về dân số châu Phi và Nam Á (trang PDF 345)** nói rằng vì virus giết người già nhiều hơn, mà châu Âu và Đông Á già hơn, nên tỷ trọng dân số thế giới sẽ dịch sang châu Phi và Nam Á nhanh hơn nếu tỷ lệ tử vong giữ mức đang thấy lúc đó. Bản dịch viết "tỷ lệ dân số thế giới di chuyển sang các quốc gia" dễ bị hiểu thành di cư.
-> - **Lỗi chữ của ebook ở Lời cảm ơn:** "St. Martins Press" (đúng là St. Martin's Press); "Geo￾rey Garrett" ở bản chữ trích là Geoffrey Garrett (lỗi chữ ghép "ff" khi trích xuất).
-> - **Mọi nhận định trong Lời bạt được viết ở thời điểm rất sớm của đại dịch.** Phần Đánh giá bên dưới so từng nhận định với diễn biến thực tế tới năm 2026, theo hiểu biết của người tổng hợp (không tra cứu lại nguồn khi viết; các con số là xấp xỉ).
+**Guillén cho rằng trái với suy nghĩ thông thường, đại dịch COVID-19 sẽ không cắt các xu hướng thành "trước" và "sau" mà sẽ làm chúng diễn ra nhanh và mạnh hơn.**
+
+Ông nêu ba lý do khiến tỷ lệ sinh giảm nhanh hơn (người ta hoãn quyết định lớn khi bất trắc; suy thoái làm khó chuẩn bị tài chính cho con, như sau Đại Suy thoái thập niên 1930 và khủng hoảng 2008; cú sốc làm đổi ưu tiên sống). Virus nguy hiểm nhất với người trên 60 tuổi và người có bệnh nền, nên khác biệt giữa các thế hệ sâu thêm, và tỷ trọng dân số thế giới dịch về châu Phi, Nam Á nhanh hơn.
+
+Người nghèo, người vô gia cư chịu hậu quả nặng hơn nên bất bình đẳng tăng. Châu Âu, nhất là Ý và Tây Ban Nha, bị đánh vào lúc chưa hồi phục hẳn sau năm 2008 và thiếu vốn công; các nước bất ổn như Iran chịu áp lực chính trị lớn.
+
+Theo Tổ chức Y tế Thế giới có 1.307 đợt bùng phát dịch trong các năm 2011–2017, và cứ 40–70 năm thế giới lại gặp một đại dịch (1855, 1918–1919, đầu thập niên 1980, 2020), nên cần quy trình dự phòng như với động đất.
+
+Giãn cách xã hội ở các đô thị đông dân sẽ đẩy nhanh mua sắm trực tuyến (Amazon tuyển thêm người), giao tiếp trực tuyến (Zoom, WhatsApp), giải trí số, nền kinh tế chia sẻ và công nghệ như in 3D (máy thở, mặt nạ).
+
+Câu hỏi khép lại: những cú sốc như thế sẽ giúp ta chuẩn bị tốt hơn, hay làm ta không thấy những thay đổi đa chiều sắp đạt đỉnh trong thập niên tới?
 
 ## Sơ đồ
 
@@ -184,7 +182,9 @@ Lời bạt không có tên mục con; các tiêu đề đánh số dưới đâ
 
 ### 1. Bối cảnh lúc viết (trang PDF 344)
 
-Guillén mở Lời bạt bằng niên biểu: theo ông, ngày 17 tháng 11 năm 2019 trường hợp COVID-19 đầu tiên, một bệnh truyền nhiễm do một chủng coronavirus mới gây ra, được phát hiện ở Vũ Hán, Trung Quốc (bản dịch ghi nhầm "tỉnh Vũ Hán"). Tới giữa tháng 3/2020, mầm bệnh đã lan ra hơn 100 quốc gia và Tổ chức Y tế Thế giới tuyên bố đại dịch toàn cầu. Lúc ông viết, tháng 3 năm 2020, phạm vi đại dịch còn chưa rõ, nhưng ông chắc rằng nó sẽ lây cho hàng trăm nghìn, nếu không nói là hàng triệu người. Tác động lên thị trường tài chính và dân số đã buộc các chính phủ điều chỉnh mạnh chính sách tài khóa và tiền tệ. Ông dự đoán rằng khi sách phát hành lần đầu vào tháng 8/2020, có thể đã có một cuộc suy thoái kéo dài và thất nghiệp tăng mạnh trên toàn cầu.
+Guillén mở Lời bạt bằng niên biểu: theo ông, ngày 17 tháng 11 năm 2019 trường hợp COVID-19 đầu tiên, một bệnh truyền nhiễm do một chủng coronavirus mới gây ra, được phát hiện ở Vũ Hán, Trung Quốc (bản dịch ghi nhầm "tỉnh Vũ Hán"). Tới giữa tháng 3/2020, mầm bệnh đã lan ra hơn 100 quốc gia và Tổ chức Y tế Thế giới tuyên bố đại dịch toàn cầu. Lúc ông viết, tháng 3 năm 2020, phạm vi đại dịch còn chưa rõ, nhưng ông chắc rằng nó sẽ lây cho hàng trăm nghìn, nếu không nói là hàng triệu người.
+
+Tác động lên thị trường tài chính và dân số đã buộc các chính phủ điều chỉnh mạnh chính sách tài khóa và tiền tệ. Ông dự đoán rằng khi sách phát hành lần đầu vào tháng 8/2020, có thể đã có một cuộc suy thoái kéo dài và thất nghiệp tăng mạnh trên toàn cầu.
 
 Guillén nhắc lại điều đã nói ở Phần giới thiệu: không ai biết tương lai ra sao. Nhưng cuộc khủng hoảng cho ông dịp xem một cú sốc toàn cầu tác động thế nào tới các luận điểm của cuốn sách.
 
@@ -218,7 +218,7 @@ Guillén nhấn mạnh phải tính tới hậu quả kinh tế nghiêm trọng.
 
 ### 7. Chuẩn bị cho đại dịch như chuẩn bị cho động đất (trang PDF 346–347)
 
-Xã hội thường được chuẩn bị cho thiên tai quen thuộc như động đất hay bão, với hướng dẫn cho người dân và công ty, và hạ tầng (tòa nhà thương mại, nhà ở) được xây để chống chịu. Guillén hỏi: ta có được trang bị tương tự cho đại dịch không? Tổ chức Y tế Thế giới đã ghi nhận 1.307 đợt bùng phát dịch ở các khu vực trong giai đoạn 2011–2017 (bản dịch gọi là "đợt bùng phát đại dịch", xem Lưu ý). Nhìn chung, cứ 40 đến 70 năm thế giới lại gặp một đại dịch toàn cầu:
+Xã hội thường được chuẩn bị cho thiên tai quen thuộc như động đất hay bão, với hướng dẫn cho người dân và công ty, và hạ tầng (tòa nhà thương mại, nhà ở) được xây để chống chịu. Guillén hỏi: ta có được trang bị tương tự cho đại dịch không? Tổ chức Y tế Thế giới đã ghi nhận 1.307 đợt bùng phát dịch ở các khu vực trong giai đoạn 2011–2017 (bản dịch gọi là "đợt bùng phát đại dịch", xem mục Lưu ý cuối chương). Nhìn chung, cứ 40 đến 70 năm thế giới lại gặp một đại dịch toàn cầu:
 
 | Đại dịch | Thời điểm |
 |---|---|
@@ -346,4 +346,162 @@ Lời bạt là phép thử sớm cho bảy nguyên tắc ở [C09](C09-phan-ket
 
 ## Lời cảm ơn (trang PDF 349–350)
 
-Guillén nói không tác giả nào làm việc một mình, và cuốn sách là kết quả của bảy năm nghiên cứu trong môi trường học thuật của Trường Wharton và Đại học Pennsylvania. Ông cảm ơn những người làm sách: người đại diện Jane von Mehren (Aevitas Creative Management), người đã mở cho ông một thế giới xuất bản mới; ở nhà xuất bản St. Martin's Press có biên tập viên Pronoy Sarkar (ông gọi là biên tập viên giỏi nhất của mình), biên tập viên sản xuất Alan Bradshaw, biên tập viên bản in Sue Warga, cùng Michelle Cashman, Gabi Gantz, Laura Clark, Paul Hochman, Ervin Serrano; Barbara Monteiro (Monteiro & Company); nhóm quảng bá tại FINN Partners gồm Paul Sliker, Louisa Baxley, Stacy Topalian; và Francis Hoch (Chartwell Speakers Bureau). Ông cảm ơn hàng nghìn sinh viên, giám đốc điều hành, nhà hoạch định chính sách đã đặt câu hỏi khó khi nghe ông trình bày ý tưởng, và hàng chục nghìn học viên các lớp trực tuyến của ông trên Coursera và Wharton. Những người góp ý chuyên môn gồm Benito Cachinero, José Manuel Campa, Carlos de la Cruz, Álvaro Cuervo, Mohamed El-Erian, Julio García Cobos, Geoffrey Garrett, Victoria Johnson, Emilio Ontiveros, Sandra Suárez và Joseph Westphal. Cuối cùng, ông dành tặng cuốn sách cho vợ, Sandra, và hai con gái, Daniela và Andrea, những người đã tạo điều kiện để ông chuyên tâm viết và đi xa tìm tài liệu.
+Guillén nói không tác giả nào làm việc một mình, và cuốn sách là kết quả của bảy năm nghiên cứu trong môi trường học thuật của Trường Wharton và Đại học Pennsylvania. Ông cảm ơn những người làm sách: người đại diện Jane von Mehren (Aevitas Creative Management), người đã mở cho ông một thế giới xuất bản mới; ở nhà xuất bản St. Martin's Press có biên tập viên Pronoy Sarkar (ông gọi là biên tập viên giỏi nhất của mình), biên tập viên sản xuất Alan Bradshaw, biên tập viên bản in Sue Warga, cùng Michelle Cashman, Gabi Gantz, Laura Clark, Paul Hochman, Ervin Serrano; Barbara Monteiro (Monteiro & Company); nhóm quảng bá tại FINN Partners gồm Paul Sliker, Louisa Baxley, Stacy Topalian; và Francis Hoch (Chartwell Speakers Bureau).
+
+Ông cảm ơn hàng nghìn sinh viên, giám đốc điều hành, nhà hoạch định chính sách đã đặt câu hỏi khó khi nghe ông trình bày ý tưởng, và hàng chục nghìn học viên các lớp trực tuyến của ông trên Coursera và Wharton.
+
+Những người góp ý chuyên môn gồm Benito Cachinero, José Manuel Campa, Carlos de la Cruz, Álvaro Cuervo, Mohamed El-Erian, Julio García Cobos, Geoffrey Garrett, Victoria Johnson, Emilio Ontiveros, Sandra Suárez và Joseph Westphal. Cuối cùng, ông dành tặng cuốn sách cho vợ, Sandra, và hai con gái, Daniela và Andrea, những người đã tạo điều kiện để ông chuyên tâm viết và đi xa tìm tài liệu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời bạt trên một trang: bảy nhánh, sáu nhánh đầu đi theo các mục 1–9 trong phần Nội dung chi tiết và phần Đánh giá (bối cảnh tháng 3/2020 và luận điểm tăng tốc, tỷ lệ sinh và các thế hệ, bất bình đẳng và hậu quả kinh tế ở châu Âu, chuẩn bị cho đại dịch như cho động đất, giãn cách xã hội và các xu hướng được đẩy nhanh, đối chiếu với diễn biến tới năm 2026), mỗi nhánh ghi cơ chế, dự báo, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt và hàm ý cho cá nhân, doanh nghiệp.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời bạt: COVID-19 không cắt các xu hướng thành trước và sau mà đẩy chúng nhanh và mạnh hơn`"]
+  n1["`Mục 1–2 — Bối cảnh tháng 3/2020 và luận điểm tăng tốc`"]
+  n0 --- n1
+  n2["`Theo sách, ca COVID-19 đầu tiên ở Vũ Hán ngày 17/11/2019 (mốc không chính thức)`"]
+  n1 --- n2
+  n3["`Giữa tháng 3/2020 hơn 100 quốc gia có ca bệnh, Tổ chức Y tế Thế giới tuyên bố đại dịch`"]
+  n1 --- n3
+  n4["`Guillén đoán hàng trăm nghìn, có thể hàng triệu người nhiễm`"]
+  n1 --- n4
+  n5["`Chính phủ điều chỉnh mạnh tài khóa và tiền tệ#59; dự đoán suy thoái kéo dài, thất nghiệp tăng mạnh`"]
+  n1 --- n5
+  n6["`Quan niệm thông thường: khủng hoảng lớn chia xu hướng thành #quot;trước#quot; và #quot;sau#quot;`"]
+  n1 --- n6
+  n7["`Guillén: đại dịch đẩy các xu hướng với cường độ và tốc độ cao hơn, không phá vỡ chúng`"]
+  n1 --- n7
+  n8["`Mục 3–4 — Tỷ lệ sinh giảm nhanh hơn, khác biệt thế hệ sâu thêm`"]
+  n0 --- n8
+  n9["`Lý do 1: khi bất trắc, người ta hoãn quyết định quan trọng như sinh con`"]
+  n8 --- n9
+  n10["`Lý do 2: sinh con cần chuẩn bị tài chính, nguy cơ suy thoái khiến người ta lùi thời điểm`"]
+  n8 --- n10
+  n11["`Đã thấy trong Đại Suy thoái thập niên 1930 và sau khủng hoảng tài chính 2008`"]
+  n10 --- n11
+  n12["`Lý do 3: chiến tranh, thiên tai, dịch bệnh làm đổi thói quen và ưu tiên sống`"]
+  n8 --- n12
+  n13["`Virus gây tử vong cao ở người trên 60 tuổi và người có bệnh nền (Chương 2)`"]
+  n8 --- n13
+  n14["`Bảo vệ người già khó hơn khi các thế hệ sống đan xen`"]
+  n8 --- n14
+  n15["`Châu Âu, Đông Á già hơn, châu Phi và Nam Á đang bùng nổ trẻ em`"]
+  n8 --- n15
+  n16["`Tỷ trọng dân số thế giới dịch sang châu Phi, Nam Á nhanh hơn nếu tỷ lệ tử vong giữ mức đó`"]
+  n15 --- n16
+  n17["`Mục 5–6 — Bất bình đẳng tăng, châu Âu và nước bất ổn chịu nặng`"]
+  n0 --- n17
+  n18["`Lao động nghèo, người vô gia cư khó tiếp cận y tế tốt, miễn dịch yếu vì sống thiếu thốn`"]
+  n17 --- n18
+  n19["`Virus không phân biệt thu nhập hay bảo hiểm, nhưng người ở đáy kim tự tháp chịu nặng hơn`"]
+  n17 --- n19
+  n20["`Đại dịch đến khi nhiều nước châu Âu chưa hồi phục hẳn sau khủng hoảng 2008`"]
+  n17 --- n20
+  n21["`Ý, Tây Ban Nha bị nặng nhất, khu vực công thiếu vốn nên #quot;sẽ không thể làm gì nhiều#quot;`"]
+  n17 --- n21
+  n22["`Trung lưu châu Âu vốn trì trệ hơn trung lưu thị trường mới nổi (Chương 3), sẽ trì trệ thêm`"]
+  n17 --- n22
+  n23["`Nước bất ổn như Iran: lãnh đạo chịu áp lực lớn từ công chúng bất an`"]
+  n17 --- n23
+  n24["`Mục 7 — Chuẩn bị cho đại dịch như chuẩn bị cho động đất`"]
+  n0 --- n24
+  n25["`Tổ chức Y tế Thế giới ghi nhận 1.307 đợt bùng phát dịch trong 2011–2017`"]
+  n24 --- n25
+  n26["`Đại dịch toàn cầu cứ khoảng 40–70 năm một lần`"]
+  n24 --- n26
+  n27["`Dịch hạch lần thứ ba 1855, cúm 1918–1919, AIDS đầu thập niên 1980, COVID-19 2020`"]
+  n26 --- n27
+  n28["`Vùng Vịnh San Francisco có động đất lớn năm 1906 và 1989, khung thời gian tương tự`"]
+  n26 --- n28
+  n29["`Đề xuất: quy trình xử lý soạn sẵn cho cả nhà nước và tư nhân để công chúng bớt hoảng loạn`"]
+  n24 --- n29
+  n30["`Hệ thống y tế đủ nhân viên, đủ thiết bị, mở rộng được khi cần`"]
+  n24 --- n30
+  n31["`Mục 8–9 — Giãn cách xã hội đẩy nhanh số hóa và kinh tế chia sẻ`"]
+  n0 --- n31
+  n32["`Giãn cách và #quot;ở yên tại chỗ#quot; là trách nhiệm cá nhân, nhất là ở đô thị đông dân (Chương 5)`"]
+  n31 --- n32
+  n33["`Mua sắm trực tuyến: Amazon liên tục tuyển người, tăng lương làm thêm giờ cho nhân viên kho`"]
+  n31 --- n33
+  n34["`Giao tiếp trực tuyến: làm việc từ xa, giữ kết nối xã hội qua Zoom, WhatsApp`"]
+  n31 --- n34
+  n35["`Giải trí số: phim, sách, nhạc phải nhắm tới khách trực tuyến thay vì cửa hàng bán lẻ`"]
+  n31 --- n35
+  n36["`Kinh tế chia sẻ (Chương 7) #quot;sẽ còn phát triển nhanh hơn#quot;: vận tải chịu thiệt, ứng dụng số bùng nổ`"]
+  n31 --- n36
+  n37["`Bùng nổ kỷ Cambri (Chương 6): máy in 3D sản xuất máy thở, mặt nạ thở`"]
+  n31 --- n37
+  n38["`Câu hỏi mở: cú sốc giúp ta chuẩn bị tốt hơn, hay che khuất các thay đổi đa chiều sắp đạt đỉnh?`"]
+  n31 --- n38
+  n39["`Đánh giá — Đối chiếu với diễn biến tới năm 2026 (người tổng hợp)`"]
+  n0 --- n39
+  n40["`Quy mô lớn hơn nhiều: khoảng 770 triệu ca, 7 triệu tử vong báo cáo, khoảng 15 triệu tử vong vượt mức`"]
+  n39 --- n40
+  n41["`GDP thế giới 2020 giảm khoảng 3% rồi tăng khoảng 6% năm 2021, Guillén không lường tới lạm phát`"]
+  n39 --- n41
+  n42["`Sinh giảm rõ ở Đông Á: Trung Quốc từ 14,7 triệu (2019) còn khoảng 9 triệu trẻ (2023)`"]
+  n39 --- n42
+  n43["`Bất bình đẳng đúng: nghèo cùng cực tăng khoảng 70 triệu người năm 2020, phục hồi hình chữ K`"]
+  n39 --- n43
+  n44["`Sai về châu Âu: quỹ NextGenerationEU khoảng 750 tỷ euro, Ý và Tây Ban Nha nhận nhiều nhất`"]
+  n39 --- n44
+  n45["`Kinh tế chia sẻ sai lúc đầu: chuyến Uber giảm 75–80% (4/2020), WeWork phá sản 2023`"]
+  n39 --- n45
+  n46["`In 3D là ví dụ sai, công nghệ thật sự ra tuyến đầu là vắc-xin mRNA và y tế từ xa`"]
+  n39 --- n46
+  n47["`Thiếu phân loại: xu hướng ngược chiều giãn cách (đô thị, kinh tế chia sẻ) không tăng tốc`"]
+  n39 --- n47
+  n48["`Bỏ sót phụ nữ (she-cession), tiền kỹ thuật số, chuỗi cung ứng, nợ công và lạm phát`"]
+  n39 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Khủng hoảng là chất xúc tác, không phải bước ngoặt: đẩy nhanh những gì đã có đà`"]
+  n49 --- n50
+  n51["`Đại dịch phóng đại bất bình đẳng sẵn có: người già, người nghèo, nước tài khóa yếu chịu nặng`"]
+  n49 --- n51
+  n52["`Đại dịch là rủi ro định kỳ biết trước, không phải #quot;thiên nga đen#quot;`"]
+  n49 --- n52
+  n53["`Bảy nguyên tắc ở Phần kết thiếu một nguyên tắc dự phòng cho biến cố hiếm mà nặng`"]
+  n49 --- n53
+  n54["`Cá nhân: quỹ dự phòng vài tháng chi tiêu, bảo hiểm sức khỏe, kế hoạch chăm người cao tuổi khi có dịch`"]
+  n49 --- n54
+  n55["`Doanh nghiệp: có sẵn kịch bản vận hành khi văn phòng, nhà máy, nhà cung cấp gián đoạn vài tháng`"]
+  n49 --- n55
+  class n0 root
+  class n1,n8,n17,n24,n31,n39,n49 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55 leaf
+```
+
+## Nguồn
+
+Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020), bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai* (dịch giả Vũ Kiều Linh, NXB Thế Giới & Phương Nam Book, 2022), "Lời bạt: Sự kiện chấn động COVID-19 tác động như thế nào đến các xu hướng trong cuốn 2030", trang PDF 344–348; kèm "Lời cảm ơn", trang PDF 349–350.
+
+## Thời điểm viết
+
+Tháng 3 năm 2020, tức khi Tổ chức Y tế Thế giới vừa tuyên bố đại dịch và khoảng năm tháng trước khi bản gốc phát hành (tháng 8/2020). Phần còn lại của cuốn sách được viết trước đại dịch (các mục nguồn tham khảo của tác giả ghi ngày truy cập web cuối cùng trong năm 2019, ví dụ 22/9/2019 cho Phần giới thiệu).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần giới thiệu ([00-phan-gioi-thieu-thoi-gian-dang-can-dan.md](00-phan-gioi-thieu-thoi-gian-dang-can-dan.md)) đã báo trước rằng mọi xu hướng sẽ diễn ra nhanh hơn khi có một sự kiện lịch sử như COVID-19, và hẹn bàn chi tiết ở Lời bạt.
+
+Lời bạt đi qua sáu trong tám chương: tỷ lệ sinh ([C01](C01-tre-em-cho-ta-biet-dieu-gi.md)), quan hệ giữa các thế hệ và già hóa ([C02](C02-cong-dan-dau-bac-the-he-xanh-moi.md)), tầng lớp trung lưu châu Âu ([C03](C03-theo-kip-nha-singh-va-nha-wang.md)), đô thị đông dân ([C05](C05-cai-chet-cua-do-thi.md)), công nghệ ([C06](C06-dien-thoai-nhieu-hon-nha-ve-sinh.md)) và nền kinh tế chia sẻ ([C07](C07-mot-the-gioi-khong-tu-huu.md)). Hai chương không được nhắc là phụ nữ ([C04](C04-nguoi-phu-nu-moi.md)) và tiền tệ ([C08](C08-nhieu-loai-tien-hon-so-quoc-gia.md)).
+
+Lời bạt đứng sau Phần kết với bảy nguyên tắc ([C09-phan-ket-bi-quyet-de-ton-tai-nam-2030.md](C09-phan-ket-bi-quyet-de-ton-tai-nam-2030.md)), và có thể đọc như một phép thử đầu tiên cho các nguyên tắc ấy.
+
+## Lưu ý
+
+- **"Tỉnh Vũ Hán" là lỗi dịch.** Vũ Hán là thành phố, thủ phủ tỉnh Hồ Bắc, Trung Quốc.
+- **Ngày 17/11/2019 là con số không chính thức.** Theo hiểu biết của người tổng hợp, mốc này đến từ một bài báo (South China Morning Post, tháng 3/2020) dẫn tài liệu chính phủ Trung Quốc chưa công bố; báo cáo chính thức với Tổ chức Y tế Thế giới ghi ca khởi phát triệu chứng sớm nhất vào đầu tháng 12/2019. Bệnh do virus SARS-CoV-2 gây ra.
+- **Bản dịch gộp hai tuyên bố của Tổ chức Y tế Thế giới.** "Tuyên bố đây là tình huống khẩn cấp về đại dịch toàn cầu" (trang PDF 344) theo hiểu biết của người tổng hợp gồm hai bước: ngày 30/1/2020 tổ chức này tuyên bố "tình trạng khẩn cấp về y tế công cộng gây quan ngại quốc tế", và ngày 11/3/2020 mới gọi COVID-19 là đại dịch.
+- **"1.307 đợt bùng phát đại dịch" (trang PDF 346) là dịch sai thuật ngữ.** Con số này chỉ các đợt bùng phát dịch bệnh (epidemic events) nói chung, không phải đại dịch toàn cầu (pandemic). Chính đoạn văn ngay sau đó nói đại dịch toàn cầu chỉ xảy ra mỗi 40–70 năm, nên không thể có 1.307 đại dịch trong bảy năm.
+- **Danh sách đại dịch bỏ sót.** Theo hiểu biết của người tổng hợp, giữa các mốc Guillén nêu còn có đại dịch cúm châu Á (1957–1958), cúm Hồng Kông (1968–1969) và cúm H1N1 (2009); vì thế chu kỳ "40 đến 70 năm" chỉ đúng với những đại dịch nặng nhất.
+- **Câu "sẽ khó khăn hơn khi sự pha trộn thế hệ ngày nay quá phổ biến" (trang PDF 345) khó hiểu.** Theo mạch văn, ý có lẽ là: khi nhiều thế hệ sống chung nhà hoặc tiếp xúc thường xuyên, người trẻ ít triệu chứng dễ lây cho người già, nên việc bảo vệ người già khó hơn (suy đoán của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Ý về dân số châu Phi và Nam Á (trang PDF 345)** nói rằng vì virus giết người già nhiều hơn, mà châu Âu và Đông Á già hơn, nên tỷ trọng dân số thế giới sẽ dịch sang châu Phi và Nam Á nhanh hơn nếu tỷ lệ tử vong giữ mức đang thấy lúc đó. Bản dịch viết "tỷ lệ dân số thế giới di chuyển sang các quốc gia" dễ bị hiểu thành di cư.
+- **Lỗi chữ của ebook ở Lời cảm ơn:** "St. Martins Press" (đúng là St. Martin's Press); "Geo￾rey Garrett" ở bản chữ trích là Geoffrey Garrett (lỗi chữ ghép "ff" khi trích xuất).
+- **Mọi nhận định trong Lời bạt được viết ở thời điểm rất sớm của đại dịch.** Phần Đánh giá bên trên so từng nhận định với diễn biến thực tế tới năm 2026, theo hiểu biết của người tổng hợp (không tra cứu lại nguồn khi viết; các con số là xấp xỉ).

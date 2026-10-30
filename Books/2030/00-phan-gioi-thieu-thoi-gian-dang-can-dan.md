@@ -1,26 +1,18 @@
 # Phần giới thiệu — Thời gian đang cạn dần
 
-**Nguồn:** Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 8/2020); bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai*, dịch giả Vũ Kiều Linh, NXB Thế Giới và Phương Nam Book, 02/2022 (ebook PDF 404 trang, không có số trang in). Phần này gồm: trang thông tin sách và giới thiệu bìa sau (trang PDF 2–3), giới thiệu tác giả trên tay gập (trang PDF 4), lời giới thiệu của Richard Florida (trang PDF 5), "Một vài dữ kiện và con số" (trang PDF 6–7) và "Phần giới thiệu: Thời gian đang cạn dần" (trang PDF 8–21).
-**Tác giả:** Mauro F. Guillén, sinh ngày 30/9/1964, chuyên gia về xu hướng thị trường toàn cầu; khi viết sách là giáo sư Zandman về quản lý quốc tế ở Trường Wharton (Đại học Pennsylvania); theo tay gập của bản dịch, lúc bản dịch ra đời ông là Giám đốc và Hiệu trưởng Trường Kinh doanh Cambridge Judge (Đại học Cambridge).
-**Vị trí trong cả cuốn sách:** Phần giới thiệu đặt khung cho toàn bộ cuốn sách. Nó nêu tám xu hướng mà tám chương sau lần lượt phân tích: số trẻ sơ sinh giảm ([C01-tre-em-cho-ta-biet-dieu-gi.md](C01-tre-em-cho-ta-biet-dieu-gi.md)), các thế hệ dân số mới và "thị trường đầu bạc" ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)), tầng lớp trung lưu mới ở các thị trường mới nổi ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)), phụ nữ giàu có hơn ([C04-nguoi-phu-nu-moi.md](C04-nguoi-phu-nu-moi.md)), phong cách sống thành thị ([C05-cai-chet-cua-do-thi.md](C05-cai-chet-cua-do-thi.md)), công nghệ đột phá ([C06-dien-thoai-nhieu-hon-nha-ve-sinh.md](C06-dien-thoai-nhieu-hon-nha-ve-sinh.md)), nền kinh tế chia sẻ ([C07-mot-the-gioi-khong-tu-huu.md](C07-mot-the-gioi-khong-tu-huu.md)) và đồng tiền điện tử ([C08-nhieu-loai-tien-hon-so-quoc-gia.md](C08-nhieu-loai-tien-hon-so-quoc-gia.md)). Phần giới thiệu cũng hứa hẹn Phần kết ([C09-phan-ket-bi-quyet-de-ton-tai-nam-2030.md](C09-phan-ket-bi-quyet-de-ton-tai-nam-2030.md)) sẽ đưa ra các nguyên tắc để thích ứng, và Lời bạt ([C10-loi-bat-covid-19.md](C10-loi-bat-covid-19.md)) sẽ bàn về việc đại dịch COVID-19 đẩy nhanh các xu hướng.
+## Ý chính
 
-**Ý chính:** **Guillén cho rằng thế giới quen thuộc của thế kỷ 20 sẽ không còn vào năm 2030, vì tám xu hướng lớn đang tích lũy từng chút một rồi cùng lúc đạt đỉnh và tác động lẫn nhau; muốn nắm bắt cơ hội, ta phải bỏ lối nghĩ tuyến tính, tách bạch từng vấn đề, và chuyển sang tư duy đa chiều.** Ông mở đầu bằng hai cảnh tưởng tượng năm 2030 (một phụ nữ Kenya ngạc nhiên vì nước Anh còn dùng tiền mặt; một sinh viên Philippines đọc báo Mỹ viết rằng lần đầu tiên số ông bà nhiều hơn số cháu) và bằng chuyện Ấn Độ đưa tàu thăm dò vào quỹ đạo sao Hỏa năm 2014 ngay lần đầu, với ngân sách chỉ 74 triệu USD, ít hơn chi phí làm phim *Interstellar* (165 triệu USD) và *The Martian* (108 triệu USD). Ông dự báo thế giới năm 2030 sẽ có nhiều người già hơn người trẻ ở hầu hết các nước, thị trường trung lưu châu Á lớn hơn Mỹ và châu Âu cộng lại, phụ nữ sở hữu nhiều tài sản hơn nam giới, nhiều robot hơn công nhân và nhiều loại tiền hơn (bản dịch viết "nhiều loại tiền hơn trong một quốc gia"; tên Chương 8 là "Nhiều loại tiền hơn số quốc gia"). Các thành phố chỉ chiếm 1% diện tích đất nhưng chứa 55% dân số và tiêu thụ 80% năng lượng; dân số đô thị tăng 1,5 triệu người mỗi tuần; người trên 60 tuổi đang sở hữu 80% tài sản nước Mỹ. Hai hình minh họa tóm tắt cách đọc cả cuốn: Hình 1 xếp tám xu hướng thành một chuỗi nối tiếp (cách trình bày theo thứ tự chương), còn Hình 2 xếp chúng thành vòng tròn trong đó mỗi xu hướng tương tác với bảy xu hướng còn lại. Ví dụ Airbnb (người già thiếu tiền hưu cho thuê phòng trống thay vì thế chấp nhà) và Kodak (phá sản năm 2012 vì không thấy tín hiệu yếu của ảnh kỹ thuật số) minh họa lợi ích của tư duy đa chiều và cái giá của việc không có nó.
+**Guillén cho rằng thế giới quen thuộc của thế kỷ 20 sẽ không còn vào năm 2030, vì tám xu hướng lớn đang tích lũy từng chút một rồi cùng lúc đạt đỉnh và tác động lẫn nhau; muốn nắm bắt cơ hội, ta phải bỏ lối nghĩ tuyến tính, tách bạch từng vấn đề, và chuyển sang tư duy đa chiều.**
 
-> **Lưu ý:**
-> - **Phần giới thiệu không có tên mục con.** Bản dịch chỉ chia đoạn bằng dấu ■ (sau đoạn mở đầu "Năm 2030." và sau đoạn "Năm 2020"). Các tiêu đề ### trong file này do người tổng hợp đặt theo chính câu chữ của bản dịch ở đầu mỗi đoạn, kèm trang PDF.
-> - **"Tư duy đa chiều" là chữ bản dịch dùng cho khái niệm *lateral thinking* của Edward de Bono** (mục nguồn tham khảo ở trang PDF 352 ghi bài "How to Apply Lateral Thinking to Your Creative Work" làm nguồn của câu trích de Bono). Nhiều bản dịch sách khác gọi khái niệm này là "tư duy theo chiều ngang" (theo hiểu biết của người tổng hợp); bản dịch này không dùng chữ đó. Bản dịch dùng "tư duy đa chiều" thống nhất ở Phần giới thiệu và ở các chương sau, nên file này giữ chữ "tư duy đa chiều". Tương tự, "tư duy một chiều" trong bản dịch là lối nghĩ tuyến tính (*linear thinking*).
-> - **"Sự sụt giảm công nghệ"** trong lời giới thiệu của Dambisa Moyo (trang PDF 3) gần như chắc là dịch sai cụm *technological disruption* (sự đột phá, xáo trộn do công nghệ) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác). Sách không hề nói công nghệ sụt giảm.
-> - **Ấn Độ tìm thấy nước trên Mặt trăng:** sách viết "năm 2009, ngay lần đầu phóng tàu lên Mặt trăng". Theo hiểu biết của người tổng hợp, tàu Chandrayaan-1 được phóng tháng 10/2008; năm 2009 là năm công bố phát hiện nước. Thiết bị phát hiện nước trên tàu (Moon Mineralogy Mapper) là thiết bị của NASA gửi theo tàu Ấn Độ; vì vậy câu "NASA phải mất 10 năm mới xác nhận" cần hiểu là việc xác nhận lại bằng dữ liệu phân tích sau này (bài trên Forbes năm 2018 mà Guillén dẫn).
-> - **Kodak:** sách nói đầu những năm 1990 các kỹ sư Kodak "bắt đầu ý thức" về ảnh kỹ thuật số. Theo hiểu biết của người tổng hợp, chính kỹ sư Kodak Steven Sasson đã chế ra máy ảnh kỹ thuật số đầu tiên năm 1975, nên Kodak biết về công nghệ này sớm hơn nhiều; điều đó càng củng cố luận điểm của Guillén về việc ban lãnh đạo bỏ qua tín hiệu ở vùng ngoại vi.
-> - **Số liệu đô thị không khớp nhau giữa hai trang.** "Một vài dữ kiện và con số" ghi năm 2030 diện tích thành thị chiếm 1,1% đất đai thế giới, thành phố chứa 60% dân số và phát thải 87% lượng carbon; còn Phần giới thiệu ghi thành phố chiếm 1% diện tích, chứa 55% dân số và tiêu thụ 80% năng lượng "(và khí thải carbon)". Hai bộ số có lẽ ứng với hai thời điểm (hiện tại và năm 2030), nhưng sách không nói rõ, và câu ở Phần giới thiệu gộp tỷ lệ năng lượng với tỷ lệ phát thải thành một con số.
-> - **Dòng "Tỷ lệ dân số đô thị sống gần khu vực mực nước biển dâng cao năm 2030: 80%"** (trang PDF 6) diễn đạt mơ hồ: không rõ "gần" là bao xa và "khu vực mực nước biển dâng cao" là vùng nào. Nên đọc cùng Chương 5 ([C05-cai-chet-cua-do-thi.md](C05-cai-chet-cua-do-thi.md)), nơi Guillén bàn chi tiết về thành phố và biến đổi khí hậu.
-> - **Số người thiếu ăn năm 2030: 200 triệu** là dự báo rất lạc quan. Theo hiểu biết của người tổng hợp, các báo cáo gần đây của FAO và Liên Hợp Quốc dự báo khoảng 500–600 triệu người vẫn thiếu ăn kinh niên vào năm 2030, sau khi số người đói tăng trở lại từ năm 2019 (do COVID-19, xung đột và giá lương thực). Con số 821 triệu cho năm 2017 thì khớp với báo cáo của FAO thời điểm đó.
-> - **Tỷ lệ tài sản phụ nữ sở hữu: 15% năm 2000 lên 55% năm 2030.** Guillén lấy từ Báo cáo Tài sản Thế giới 2014 của Capgemini và RBC Wealth Management. Theo hiểu biết của người tổng hợp, các ước tính phổ biến khác (ví dụ của BCG) cho rằng phụ nữ kiểm soát khoảng một phần ba tài sản tài chính thế giới vào đầu thập niên 2020, nên mức 55% vào năm 2030 cần xem là kịch bản cao.
-> - **"Lehman Sisters":** câu "nếu là Lehman Sisters thì khủng hoảng đã không xảy ra" vốn là câu nói nổi tiếng của bà Christine Lagarde (khi đó là Bộ trưởng Tài chính Pháp, sau là Tổng Giám đốc IMF) (theo hiểu biết của người tổng hợp). Sách không ghi người nói.
-> - **"Người trên 60 tuổi đang sở hữu 80% tài sản nước Mỹ"** (trang PDF 14): theo hiểu biết của người tổng hợp, số liệu của Cục Dự trữ Liên bang Mỹ cho thấy các hộ có chủ hộ từ 55 tuổi trở lên nắm khoảng 70% tài sản ròng hộ gia đình; con số 80% cho nhóm trên 60 tuổi có vẻ cao, có thể là cách làm tròn hoặc dùng định nghĩa tài sản khác. Chương 2 ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)) bàn chi tiết hơn.
-> - **Chú thích của dịch giả** ở phần này đều đúng và hữu ích: (1) Tom Wolfe là tác giả cuốn *The Right Stuff* ("Đúng chất"), từ đó có cụm "đúng chất"; theo hiểu biết của người tổng hợp, cuốn sách viết về các phi hành gia đầu tiên của Mỹ, nên phép so sánh với chương trình vũ trụ Ấn Độ rất khéo. (2) Wharton là trường kinh doanh thuộc Đại học Pennsylvania. (3) Millennials là thế hệ sinh khoảng 1980–2000, còn gọi là thế hệ Y. (4) "Ngôi sao", "bò sữa", "chó", "dấu hỏi" là các ô của ma trận BCG. (5) Thế chấp ngược là hình thức vay và trừ dần vào giá trị căn nhà. Chú thích (1) in tên sách là "Right stuff" thiếu mạo từ *The*.
-> - **Lỗi chữ ở mục nguồn tham khảo của Phần giới thiệu** (trang PDF 352): "Why India's Mars Mission Is số Cheap" (đúng là "So Cheap"), "science-enosystem" (đúng là "science-environment") và "Remembrance of Things Pasty" (đúng là "Past").
-> - **Số trang:** trang thông tin ghi sách in 360 trang; ebook PDF dùng để tổng hợp có 404 trang. File này ghi vị trí theo trang PDF.
+Ông mở đầu bằng hai cảnh tưởng tượng năm 2030 (một phụ nữ Kenya ngạc nhiên vì nước Anh còn dùng tiền mặt; một sinh viên Philippines đọc báo Mỹ viết rằng lần đầu tiên số ông bà nhiều hơn số cháu) và bằng chuyện Ấn Độ đưa tàu thăm dò vào quỹ đạo sao Hỏa năm 2014 ngay lần đầu, với ngân sách chỉ 74 triệu USD, ít hơn chi phí làm phim *Interstellar* (165 triệu USD) và *The Martian* (108 triệu USD).
+
+Ông dự báo thế giới năm 2030 sẽ có nhiều người già hơn người trẻ ở hầu hết các nước, thị trường trung lưu châu Á lớn hơn Mỹ và châu Âu cộng lại, phụ nữ sở hữu nhiều tài sản hơn nam giới, nhiều robot hơn công nhân và nhiều loại tiền hơn (bản dịch viết "nhiều loại tiền hơn trong một quốc gia"; tên Chương 8 là "Nhiều loại tiền hơn số quốc gia").
+
+Các thành phố chỉ chiếm 1% diện tích đất nhưng chứa 55% dân số và tiêu thụ 80% năng lượng; dân số đô thị tăng 1,5 triệu người mỗi tuần; người trên 60 tuổi đang sở hữu 80% tài sản nước Mỹ.
+
+Hai hình minh họa tóm tắt cách đọc cả cuốn: Hình 1 xếp tám xu hướng thành một chuỗi nối tiếp (cách trình bày theo thứ tự chương), còn Hình 2 xếp chúng thành vòng tròn trong đó mỗi xu hướng tương tác với bảy xu hướng còn lại.
+
+Ví dụ Airbnb (người già thiếu tiền hưu cho thuê phòng trống thay vì thế chấp nhà) và Kodak (phá sản năm 2012 vì không thấy tín hiệu yếu của ảnh kỹ thuật số) minh họa lợi ích của tư duy đa chiều và cái giá của việc không có nó.
 
 ## Sơ đồ
 
@@ -388,7 +380,9 @@
 
 ## Ba câu hỏi phần này trả lời
 
-1. **Thế giới năm 2030 sẽ khác thế giới quen thuộc ở những điểm nào?** Theo Guillén, thế giới cũ có nhiều trẻ em, nhiều người lao động hơn người hưu trí, ranh giới rõ giữa nước giàu và nước nghèo, các công ty chỉ cần nhìn Mỹ và châu Âu, và tiền giấy do nhà nước phát hành. Năm 2030 sẽ có nhiều người già hơn người trẻ ở hầu hết các nước, thị trường trung lưu châu Á lớn hơn Mỹ và châu Âu cộng lại, phụ nữ sở hữu nhiều tài sản hơn nam giới, nhiều robot hơn công nhân, nhiều cảm biến hơn mắt người và nhiều loại tiền hơn. Phần "Một vài dữ kiện và con số" bổ sung: Trung Quốc sẽ là thị trường trung lưu lớn nhất, thêm 1 tỷ người gia nhập tầng lớp trung lưu ở các thị trường mới nổi, trong khi tầng lớp trung lưu Mỹ giảm từ 223 xuống 209 triệu người.
+1. **Thế giới năm 2030 sẽ khác thế giới quen thuộc ở những điểm nào?** Theo Guillén, thế giới cũ có nhiều trẻ em, nhiều người lao động hơn người hưu trí, ranh giới rõ giữa nước giàu và nước nghèo, các công ty chỉ cần nhìn Mỹ và châu Âu, và tiền giấy do nhà nước phát hành.
+
+   Năm 2030 sẽ có nhiều người già hơn người trẻ ở hầu hết các nước, thị trường trung lưu châu Á lớn hơn Mỹ và châu Âu cộng lại, phụ nữ sở hữu nhiều tài sản hơn nam giới, nhiều robot hơn công nhân, nhiều cảm biến hơn mắt người và nhiều loại tiền hơn. Phần "Một vài dữ kiện và con số" bổ sung: Trung Quốc sẽ là thị trường trung lưu lớn nhất, thêm 1 tỷ người gia nhập tầng lớp trung lưu ở các thị trường mới nổi, trong khi tầng lớp trung lưu Mỹ giảm từ 223 xuống 209 triệu người.
 2. **Vì sao các xu hướng ấy khó nhận ra và khó ứng phó?** Vì mỗi xu hướng tích lũy từng chút một như những giọt nước nhỏ vào bình, đến lúc tràn thì mọi việc đột nhiên khác đi. Thêm vào đó, con người và tổ chức có thói quen tách mọi việc thành các phạm trù riêng (cơ chế phân tách tâm trí) để khỏi bị choáng ngợp. Xét riêng lẻ thì mỗi thay đổi đều có vẻ xử lý được, nên ta không thấy tác động cộng hưởng khi tám xu hướng cùng đạt đỉnh và tác động lẫn nhau vào khoảng năm 2030.
 3. **Nên đọc cuốn sách và nhìn thế giới theo cách nào?** Tám chương được xếp theo một chuỗi tuyến tính (Hình 1) chỉ để tiện trình bày. Guillén đề nghị dùng tư duy đa chiều (Edward de Bono) và tầm nhìn ngoại vi (George Day, Paul Schoemaker): xem mỗi xu hướng tương tác với bảy xu hướng còn lại (Hình 2), chú ý tín hiệu yếu ngoài vùng mình đang tập trung, và tìm cơ hội ở chỗ các xu hướng hội tụ, như Airbnb đã làm. Kodak là ví dụ ngược lại: thấy công nghệ mới nhưng chỉ nhìn điều mình muốn thấy, nên phá sản.
 
@@ -475,7 +469,9 @@ Trước Phần giới thiệu, Guillén đặt một trang liệt kê các dữ
 | 19 | Số người thuộc tầng lớp trung lưu Mỹ hiện nay | 223 triệu người |
 | 20 | Số người thuộc tầng lớp trung lưu Mỹ năm 2030 | 209 triệu người |
 
-Cách đọc các dòng này: dòng 1–3 nói châu Phi Hạ Sahara có một diện tích đất nông nghiệp màu mỡ chưa khai thác bằng cả diện tích nước Mexico (500 triệu mẫu Anh, khoảng 200 triệu hécta, phép đổi đơn vị của người tổng hợp). Dòng 4–6 nói phụ nữ sẽ tăng tỷ phần tài sản từ 15% lên 55% trong ba mươi năm, kèm câu đùa rằng nếu ngân hàng Lehman là "chị em" thay vì "anh em" thì đã không có khủng hoảng tài chính 2008. Dòng 7–11 cho thấy hai chiều ngược nhau: số người thiếu ăn được dự báo giảm từ 821 xuống 200 triệu, còn số người béo phì gần gấp đôi, từ 650 triệu lên 1,1 tỷ, và một nửa người Mỹ sẽ béo phì. Dòng 12–15 nói thành phố chỉ chiếm khoảng 1% đất nhưng chứa 60% dân số, phát thải 87% carbon, và phần lớn dân đô thị sống ở vùng dễ bị nước biển dâng. Dòng 16–20 nói trọng tâm của tầng lớp trung lưu dịch chuyển: Trung Quốc thay Mỹ và Tây Âu làm thị trường trung lưu lớn nhất, thêm 1 tỷ người trung lưu ở các nước mới nổi, trong khi tầng lớp trung lưu Mỹ co lại 14 triệu người.
+Cách đọc các dòng này: dòng 1–3 nói châu Phi Hạ Sahara có một diện tích đất nông nghiệp màu mỡ chưa khai thác bằng cả diện tích nước Mexico (500 triệu mẫu Anh, khoảng 200 triệu hécta, phép đổi đơn vị của người tổng hợp). Dòng 4–6 nói phụ nữ sẽ tăng tỷ phần tài sản từ 15% lên 55% trong ba mươi năm, kèm câu đùa rằng nếu ngân hàng Lehman là "chị em" thay vì "anh em" thì đã không có khủng hoảng tài chính 2008.
+
+Dòng 7–11 cho thấy hai chiều ngược nhau: số người thiếu ăn được dự báo giảm từ 821 xuống 200 triệu, còn số người béo phì gần gấp đôi, từ 650 triệu lên 1,1 tỷ, và một nửa người Mỹ sẽ béo phì. Dòng 12–15 nói thành phố chỉ chiếm khoảng 1% đất nhưng chứa 60% dân số, phát thải 87% carbon, và phần lớn dân đô thị sống ở vùng dễ bị nước biển dâng. Dòng 16–20 nói trọng tâm của tầng lớp trung lưu dịch chuyển: Trung Quốc thay Mỹ và Tây Âu làm thị trường trung lưu lớn nhất, thêm 1 tỷ người trung lưu ở các nước mới nổi, trong khi tầng lớp trung lưu Mỹ co lại 14 triệu người.
 
 Theo mục nguồn tham khảo, số liệu về nông nghiệp châu Phi lấy từ Ngân hàng Phát triển châu Phi; dự báo về tài sản của phụ nữ lấy từ Báo cáo Tài sản Thế giới 2014 của Capgemini và RBC Wealth Management; dự báo về nạn đói và béo phì lấy từ các tài liệu của Liên Hợp Quốc (mục tiêu "Xóa đói"), của Tổ chức Y tế Thế giới và từ nghiên cứu của T. Kelly và cộng sự trên *Tạp chí Quốc tế về Béo phì* (2008); số liệu thành phố lấy từ Chương 5 và số liệu tầng lớp trung lưu lấy từ Chương 3.
 
@@ -485,7 +481,9 @@ Phần giới thiệu mở bằng đề từ lấy từ lời thẩm phán Taylo
 
 Tiếp đó là hai cảnh tưởng tượng đặt vào năm 2030. Từ Paris đến Berlin, Tây Âu nóng lên bất thường, báo chí quốc tế liên tục báo động. Rehema, một phụ nữ Kenya, vừa bay từ London về Nairobi sau hai tuần thăm họ hàng xa. Cô ngẫm về sự khác biệt giữa quê mình và nước Anh, một quốc gia mà chưa đầy một thế kỷ trước còn là đế quốc thực dân đứng đầu hành tinh. Cô sửng sốt vì người Anh vẫn dùng tiền mặt, trong khi ở Kenya thanh toán trực tuyến đã phổ biến từ lâu và điện thoại đã thay luôn chiếc ví. Trên taxi về nhà, cô kể với tài xế rằng người Anh ngạc nhiên khi nghe cô nói mình đã "theo học" trường trực tuyến từ năm sáu tuổi, giống hầu hết bạn bè hàng xóm.
 
-Cùng lúc ấy, ở sân bay JFK (New York), Angel, một phụ nữ Philippines, đang chờ làm thủ tục hải quan để bắt đầu chương trình Thạc sĩ Khoa học hai năm ở Đại học New York. Cô đọc tờ *New York Times*: bài mở đầu nói lần đầu tiên trong lịch sử nước Mỹ, thế hệ ông bà đông hơn thế hệ con cháu, trái ngược hẳn với Philippines. Bài báo kể hàng chục ngàn người Mỹ lớn tuổi dùng robot chăm sóc và cho thuê phòng trống trong nhà để trang trải cuộc sống, vì lương hưu không còn bảo đảm tài chính như họ từng mong. Một bài khác của một phóng viên độc lập phê phán gay gắt việc phụ nữ đang vượt nam giới về sở hữu tài sản, và tác giả bài viết lo ngại cho tương lai kinh tế Mỹ. Hàng người nước ngoài dài và chậm, trong khi hàng dành cho công dân và thường trú nhân đi nhanh. Angel nghe họ nói rằng người Mỹ có thể làm thủ tục hộ chiếu bằng công nghệ blockchain (chuỗi khối), với nhiều tiện ích như tính thuế hàng mua ở nước ngoài hay đặt sẵn một chiếc xe tự lái chờ ngay sau khi lấy hành lý.
+Cùng lúc ấy, ở sân bay JFK (New York), Angel, một phụ nữ Philippines, đang chờ làm thủ tục hải quan để bắt đầu chương trình Thạc sĩ Khoa học hai năm ở Đại học New York. Cô đọc tờ *New York Times*: bài mở đầu nói lần đầu tiên trong lịch sử nước Mỹ, thế hệ ông bà đông hơn thế hệ con cháu, trái ngược hẳn với Philippines. Bài báo kể hàng chục ngàn người Mỹ lớn tuổi dùng robot chăm sóc và cho thuê phòng trống trong nhà để trang trải cuộc sống, vì lương hưu không còn bảo đảm tài chính như họ từng mong.
+
+Một bài khác của một phóng viên độc lập phê phán gay gắt việc phụ nữ đang vượt nam giới về sở hữu tài sản, và tác giả bài viết lo ngại cho tương lai kinh tế Mỹ. Hàng người nước ngoài dài và chậm, trong khi hàng dành cho công dân và thường trú nhân đi nhanh. Angel nghe họ nói rằng người Mỹ có thể làm thủ tục hộ chiếu bằng công nghệ blockchain (chuỗi khối), với nhiều tiện ích như tính thuế hàng mua ở nước ngoài hay đặt sẵn một chiếc xe tự lái chờ ngay sau khi lấy hành lý.
 
 Theo nhận xét của người tổng hợp, hai cảnh này gói sẵn gần như mọi xu hướng của cuốn sách: biến đổi khí hậu và thành phố, thanh toán qua điện thoại và tiền mới, giáo dục trực tuyến, dân số già, robot chăm sóc, cho thuê phòng (nền kinh tế chia sẻ), phụ nữ giàu hơn, blockchain và xe tự lái. Đáng chú ý, người đi trước về công nghệ trong cảnh này là người Kenya, không phải người Anh.
 
@@ -522,7 +520,9 @@ Guillén kể rằng vài năm gần đây ông nghiên cứu triển vọng c�
 - có thể tính với độ chính xác hợp lý số người sống tới 80, 90 tuổi;
 - có thể dự đoán khá tin cậy tỷ lệ người cao niên cần người chăm sóc, dù đó là con người hay robot. Về robot, ông mời người đọc hình dung những cỗ máy nói được nhiều thứ tiếng với nhiều giọng, không cứng đầu, không xin nghỉ và không lợi dụng người bệnh về tài chính hay bất cứ điều gì khác.
 
-"Chúng ta không còn nhiều thời gian": năm 2030 không còn là thời điểm xa xôi mà đang đến rất gần, và thế giới ta biết hôm nay sẽ không còn vào năm 2030. Với nhiều người, các xu hướng này vừa khó lường vừa rất bất ổn; câu hỏi đặt ra là đó là dấu hiệu suy tàn hay một sự bùng nổ. Guillén nói cuốn sách sẽ giúp nắm ý nghĩa của các chuyển biến, đưa ra thông điệp lạc quan dù còn những lo lắng hiện tại, giúp vượt qua biến động lịch sử, và chỉ ra nên làm gì, nên tránh gì. Theo ông, mỗi kết cục đều mở ra một chân trời mới đầy cơ hội, nếu ta dám suy nghĩ sâu để dự đoán xu hướng, chủ động ứng biến thay vì trốn tránh, và học cách ra quyết định tốt cho bản thân, con cái, vợ chồng, gia đình tương lai, công ty, vì ai cũng sẽ bị ảnh hưởng.
+"Chúng ta không còn nhiều thời gian": năm 2030 không còn là thời điểm xa xôi mà đang đến rất gần, và thế giới ta biết hôm nay sẽ không còn vào năm 2030. Với nhiều người, các xu hướng này vừa khó lường vừa rất bất ổn; câu hỏi đặt ra là đó là dấu hiệu suy tàn hay một sự bùng nổ. Guillén nói cuốn sách sẽ giúp nắm ý nghĩa của các chuyển biến, đưa ra thông điệp lạc quan dù còn những lo lắng hiện tại, giúp vượt qua biến động lịch sử, và chỉ ra nên làm gì, nên tránh gì.
+
+Theo ông, mỗi kết cục đều mở ra một chân trời mới đầy cơ hội, nếu ta dám suy nghĩ sâu để dự đoán xu hướng, chủ động ứng biến thay vì trốn tránh, và học cách ra quyết định tốt cho bản thân, con cái, vợ chồng, gia đình tương lai, công ty, vì ai cũng sẽ bị ảnh hưởng.
 
 ### 7. Quá trình thẩm thấu từ từ: các xu hướng đan xen (trang PDF 12–14)
 
@@ -558,7 +558,9 @@ Hình 1 (trang PDF 15) là một cột dọc gồm tám mũi tên cong, mỗi m�
 
 Guillén nói nếu đứng riêng, không thay đổi nào trong chuỗi thực sự gây biến động toàn cầu, và ta hoàn toàn đối phó được với từng thay đổi nếu tách riêng chúng. Con người rất giỏi phân tách tâm trí, một cơ chế phòng vệ tâm lý vô thức: ta dùng cơ chế nhận thức phân ly này để tự bảo vệ khỏi sự khó chịu, lo lắng trước quá nhiều xu hướng, sự kiện, nhận thức hay xung đột cảm xúc. Mấu chốt của cơ chế này là tách mọi việc ra để khỏi bị choáng ngợp trước tác động cộng hưởng.
 
-Sau đó ông đọc chuỗi Hình 1 thành một câu chuyện liền mạch. Dân số già đi đang phổ biến ở Mỹ và Tây Âu, trong khi thế hệ trẻ hơn chiếm phần lớn tầng lớp trung lưu ở các thị trường mới nổi; họ là lực lượng tiêu dùng rất khác thế hệ trước, chẳng hạn có nhiều khát vọng hơn. Cùng với sự lớn lên của tầng lớp trung lưu, ngày càng nhiều phụ nữ tích lũy được nhiều của cải hơn nam giới, dù cả hai đều sống theo lối đô thị và đến từ làn sóng di cư lên thành phố diễn ra khắp thế giới. Đô thị cũng là nơi sinh ra hàng loạt nhà phát minh và doanh nhân có ý tưởng làm đảo lộn thế giới bằng cải tiến và công nghệ. Công nghệ thay đổi thói quen và lối sống, hình thành cách nghĩ mới, chạm tới mọi thứ từ nhà cửa, văn phòng đến xe cộ và đồ dùng cá nhân. Từ đó xuất hiện khái niệm về một loại tiền mới, có thể phân phối rộng hơn, phi tập trung hơn và dễ dùng hơn.
+Sau đó ông đọc chuỗi Hình 1 thành một câu chuyện liền mạch. Dân số già đi đang phổ biến ở Mỹ và Tây Âu, trong khi thế hệ trẻ hơn chiếm phần lớn tầng lớp trung lưu ở các thị trường mới nổi; họ là lực lượng tiêu dùng rất khác thế hệ trước, chẳng hạn có nhiều khát vọng hơn. Cùng với sự lớn lên của tầng lớp trung lưu, ngày càng nhiều phụ nữ tích lũy được nhiều của cải hơn nam giới, dù cả hai đều sống theo lối đô thị và đến từ làn sóng di cư lên thành phố diễn ra khắp thế giới.
+
+Đô thị cũng là nơi sinh ra hàng loạt nhà phát minh và doanh nhân có ý tưởng làm đảo lộn thế giới bằng cải tiến và công nghệ. Công nghệ thay đổi thói quen và lối sống, hình thành cách nghĩ mới, chạm tới mọi thứ từ nhà cửa, văn phòng đến xe cộ và đồ dùng cá nhân. Từ đó xuất hiện khái niệm về một loại tiền mới, có thể phân phối rộng hơn, phi tập trung hơn và dễ dùng hơn.
 
 Một số xu hướng tuy đã lộ diện nhưng chỉ đạt đỉnh vào khoảng năm 2030. Tất cả sẽ diễn ra nhanh hơn khi có một sự kiện lịch sử như đại dịch COVID-19, mà Guillén bàn chi tiết ở Lời bạt. Ông nhấn mạnh rằng cách trình bày các thay đổi theo chuỗi tuyến tính như vậy chỉ để tiện sắp thứ tự các chương; đó không phải cách thế giới thực sự vận hành.
 
@@ -570,7 +572,9 @@ Các công ty và tổ chức cũng làm vậy. Họ chia khách hàng thành c�
 
 Ví dụ của ông là khái niệm nghỉ hưu. Cuối thế kỷ 19, bên cạnh đèn điện, điện thoại và xe hơi, một phát minh lớn là khái niệm nghỉ hưu: một khoảng thời gian dành riêng cho sở thích và gia đình, cũng là dịp ngẫm lại những gì đã đạt được. Từ thế kỷ ấy, ta thừa hưởng ý niệm đời người chia thành các giai đoạn riêng biệt (lớn lên, đi làm, rồi nghỉ hưu) mà ta mong được tận hưởng.
 
-Với số trẻ sơ sinh giảm và động lực mới giữa các thế hệ, xã hội tương lai có thể phải nghĩ lại cách sống truyền thống này. Người cao tuổi cũng là người tiêu dùng với lối sống riêng, và họ có thể thích nghi với công nghệ nhanh như Millennials, nếu không nói là nhanh hơn. Thực tế ảo, trí tuệ nhân tạo và robot sẽ tác động lớn tới phần cuối đời của chúng ta. Trật tự cũ có thể không còn: khác trước đây, ta có thể quay lại trường học nhiều kỹ năng mới trước khi qua đời. Guillén dẫn một tiêu đề của *New York Times* năm 2019: "Thiếu trẻ em, một ngôi trường ở Hàn Quốc nhận dạy cả những người già mù chữ". Theo cách đọc của người tổng hợp, ví dụ này cho thấy hai xu hướng (ít trẻ em, nhiều người già) gặp nhau và phá vỡ một phạm trù tưởng như cố định (trường học dành cho trẻ em).
+Với số trẻ sơ sinh giảm và động lực mới giữa các thế hệ, xã hội tương lai có thể phải nghĩ lại cách sống truyền thống này. Người cao tuổi cũng là người tiêu dùng với lối sống riêng, và họ có thể thích nghi với công nghệ nhanh như Millennials, nếu không nói là nhanh hơn.
+
+Thực tế ảo, trí tuệ nhân tạo và robot sẽ tác động lớn tới phần cuối đời của chúng ta. Trật tự cũ có thể không còn: khác trước đây, ta có thể quay lại trường học nhiều kỹ năng mới trước khi qua đời. Guillén dẫn một tiêu đề của *New York Times* năm 2019: "Thiếu trẻ em, một ngôi trường ở Hàn Quốc nhận dạy cả những người già mù chữ". Theo cách đọc của người tổng hợp, ví dụ này cho thấy hai xu hướng (ít trẻ em, nhiều người già) gặp nhau và phá vỡ một phạm trù tưởng như cố định (trường học dành cho trẻ em).
 
 ### 10. Tư duy đa chiều, tầm nhìn ngoại vi và bài học Kodak (trang PDF 17–18)
 
@@ -588,7 +592,9 @@ Ví dụ là Kodak. Thành lập năm 1888, Kodak thu lợi nhuận khổng lồ
 
 Hình 2 (trang PDF 19) trình bày cùng tám xu hướng theo một cách khác. Tám vòng tròn đen được xếp thành một vòng lớn. Đi theo chiều kim đồng hồ từ trên cùng: Số trẻ sơ sinh giảm (đỉnh), Các thế hệ dân số mới (trên bên phải), Tầng lớp trung lưu mới (bên phải), Nhiều phụ nữ giàu có hơn (dưới bên phải), Phong cách sống thành thị (đáy), Công nghệ đột phá (dưới bên trái), Nền kinh tế chia sẻ (bên trái), Đồng tiền điện tử (trên bên trái). Giữa hai vòng tròn kề nhau có một mũi tên lớn chỉ theo chiều kim đồng hồ ở mép ngoài. Ngoài ra, mọi cặp vòng tròn đều được nối với nhau bằng các mũi tên mảnh hai đầu, cắt chéo dày đặc qua lòng hình.
 
-Guillén giải thích: các mũi tên lớn chạy theo chiều kim đồng hồ quanh mép biểu đồ thể hiện chiều tuyến tính của chuỗi xu hướng, về cơ bản giống Hình 1 nhưng xếp theo vòng tròn. Sẽ là sai lầm nếu chỉ tập trung vào các liên kết tuyến tính trên vòng tròn ấy. Mỗi xu hướng trong tám vòng tròn nhỏ đều tương tác với bảy xu hướng còn lại. Như phép tính minh họa của người tổng hợp, tám xu hướng tạo thành 28 cặp quan hệ, trong đó chỉ 8 cặp nằm trên vòng ngoài (chuỗi của Hình 1, kể cả cặp nối "Đồng tiền điện tử" quay về "Số trẻ sơ sinh giảm"), còn 20 cặp kia là những liên hệ chéo mà lối nghĩ tuyến tính bỏ qua. Ông hứa các chương sau sẽ giải thích chi tiết từng tương tác đa chiều, giới thiệu các xu hướng đan xen và quá trình chúng diễn ra trên toàn cầu, nhất là khi chúng hội tụ vào năm 2030.
+Guillén giải thích: các mũi tên lớn chạy theo chiều kim đồng hồ quanh mép biểu đồ thể hiện chiều tuyến tính của chuỗi xu hướng, về cơ bản giống Hình 1 nhưng xếp theo vòng tròn. Sẽ là sai lầm nếu chỉ tập trung vào các liên kết tuyến tính trên vòng tròn ấy. Mỗi xu hướng trong tám vòng tròn nhỏ đều tương tác với bảy xu hướng còn lại.
+
+Như phép tính minh họa của người tổng hợp, tám xu hướng tạo thành 28 cặp quan hệ, trong đó chỉ 8 cặp nằm trên vòng ngoài (chuỗi của Hình 1, kể cả cặp nối "Đồng tiền điện tử" quay về "Số trẻ sơ sinh giảm"), còn 20 cặp kia là những liên hệ chéo mà lối nghĩ tuyến tính bỏ qua. Ông hứa các chương sau sẽ giải thích chi tiết từng tương tác đa chiều, giới thiệu các xu hướng đan xen và quá trình chúng diễn ra trên toàn cầu, nhất là khi chúng hội tụ vào năm 2030.
 
 ### 12. Ví dụ Airbnb và cách tiếp cận thế giới mới (trang PDF 20–21)
 
@@ -737,3 +743,168 @@ Hình 1 và Hình 2 dùng cùng tám xu hướng nhưng nói hai điều khác n
 - **Công việc và kinh doanh:** lấy tám xu hướng của Hình 2 làm danh sách kiểm tra. Với sản phẩm hoặc ngành của mình, hỏi lần lượt: xu hướng nào tác động trực tiếp, và quan trọng hơn, cặp xu hướng nào gặp nhau tạo ra khách hàng hoặc đối thủ mới (như Airbnb lấy khách của ngân hàng). Đặt riêng một người hoặc một buổi định kỳ để theo dõi tín hiệu yếu ở vùng ngoại vi, vì bài học Kodak là lãnh đạo thường gạt đi những gì kỹ sư đã thấy.
 - **Đầu tư:** các xu hướng nhân khẩu học (dân số già, trung lưu châu Á và châu Phi) là phần đáng tin nhất của sách, nên phù hợp làm luận điểm dài hạn hơn các dự báo công nghệ. Tuy nhiên, biết một xu hướng là đúng không có nghĩa giá cổ phiếu liên quan chưa phản ánh nó; và như bảng đối chiếu ở trên cho thấy, nhiều con số năm 2030 trong sách (nạn đói, robot, tiền điện tử) đã lệch so với thực tế (nhận xét của người tổng hợp).
 - **Đời sống cá nhân:** ý tưởng "nghỉ hưu là phát minh của thế kỷ 19" gợi ý không nên mặc định đời mình theo ba giai đoạn học, làm, nghỉ. Nên kế hoạch tài chính cho tuổi thọ dài hơn, sẵn sàng học lại kỹ năng ở tuổi trung niên, và cân nhắc những cách dùng tài sản (như căn nhà) linh hoạt hơn khi về già.
+
+## Bản đồ tư duy
+
+Toàn cảnh Phần giới thiệu trên một trang: năm nhánh lớn đi theo các mục 1–12 của phần Nội dung chi tiết (bìa sau và một vài dữ kiện, con số; năm 2030 tưởng tượng, Ấn Độ và thế giới quen thuộc biến mất; quá trình thẩm thấu từ từ và chuỗi tám xu hướng; phân tách, tư duy đa chiều và Kodak; tám xu hướng tương tác và ví dụ Airbnb), mỗi nhánh ghi dự báo, số liệu, cơ chế và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phần giới thiệu: tám xu hướng tích lũy từng chút sẽ cùng đạt đỉnh và tác động lẫn nhau vào năm 2030, cần bỏ tư duy tuyến tính`"]
+  n1["`Mục 1–3 — Bìa sau và một vài dữ kiện, con số`"]
+  n0 --- n1
+  n2["`Năm 2030 ông bà nhiều hơn cháu chắt, nhiều robot hơn người lao động`"]
+  n1 --- n2
+  n3["`Lần đầu tiên kinh tế toàn cầu do nhu cầu của các nước ngoài phương Tây dẫn dắt`"]
+  n1 --- n3
+  n4["`Châu Phi Hạ Sahara có 500 triệu mẫu Anh đất nông nghiệp chưa khai thác, bằng diện tích Mexico`"]
+  n1 --- n4
+  n5["`Tỷ lệ tài sản thế giới do phụ nữ sở hữu: 15% năm 2000 lên 55% năm 2030`"]
+  n1 --- n5
+  n6["`Thiếu ăn giảm từ 821 triệu (2017) xuống 200 triệu, béo phì tăng từ 650 triệu lên 1,1 tỷ người`"]
+  n1 --- n6
+  n7["`Thành phố năm 2030: 1,1% diện tích đất, 60% dân số, 87% lượng phát thải carbon`"]
+  n1 --- n7
+  n8["`Trung Quốc thành thị trường trung lưu lớn nhất, thêm 1 tỷ người trung lưu ở thị trường mới nổi`"]
+  n1 --- n8
+  n9["`Tầng lớp trung lưu Mỹ co từ 223 triệu xuống 209 triệu người`"]
+  n1 --- n9
+  n10["`Mục 4–6 — Năm 2030 tưởng tượng, Ấn Độ và thế giới quen thuộc biến mất`"]
+  n0 --- n10
+  n11["`Rehema người Kenya ngạc nhiên vì nước Anh còn dùng tiền mặt, ở Kenya điện thoại đã thay ví`"]
+  n10 --- n11
+  n12["`Angel đọc New York Times: lần đầu ở Mỹ thế hệ ông bà đông hơn con cháu`"]
+  n10 --- n12
+  n13["`Người già Mỹ dùng robot chăm sóc, cho thuê phòng trống vì lương hưu không đủ`"]
+  n12 --- n13
+  n14["`Ấn Độ đưa tàu vào quỹ đạo sao Hỏa năm 2014 ngay lần đầu, chỉ tốn 74 triệu USD`"]
+  n10 --- n14
+  n15["`Rẻ hơn làm phim The Martian (108 triệu) và Interstellar (165 triệu), phi vụ thường tới 450 triệu USD`"]
+  n14 --- n15
+  n16["`Năm 2009, lần đầu lên Mặt trăng, Ấn Độ đưa ra bằng chứng đầu tiên về nước ở các cực`"]
+  n14 --- n16
+  n17["`Câu #quot;Trung Quốc sẽ dẫn đầu mọi lĩnh vực#quot; có phần đúng nhưng không phải bức tranh toàn cảnh`"]
+  n10 --- n17
+  n18["`Thế giới cũ: nhiều trẻ em, lao động nhiều hơn hưu trí, công ty chỉ nhìn Mỹ và châu Âu, tiền giấy pháp định`"]
+  n10 --- n18
+  n19["`Năm 2030: trung lưu châu Á lớn hơn Mỹ và châu Âu cộng lại, nhiều cảm biến hơn mắt người, nhiều loại tiền hơn`"]
+  n10 --- n19
+  n20["`Giả định khá chắc chắn: phần lớn các thế hệ chịu tác động đã được sinh ra`"]
+  n10 --- n20
+  n21["`Tính được số người sống tới 80, 90 tuổi và tỷ lệ người già cần chăm sóc, bởi người hay robot`"]
+  n20 --- n21
+  n22["`Người nghe Guillén lần nào cũng hoang mang, lo sợ, nhưng mỗi kết cục mở ra chân trời mới`"]
+  n10 --- n22
+  n23["`Mục 7–8 — Thẩm thấu từ từ và chuỗi tám xu hướng nối tiếp`"]
+  n0 --- n23
+  n24["`Từng giọt thay đổi tích lũy như nước nhỏ vào bình, đến lúc tràn thì mọi việc đột nhiên khác đi`"]
+  n23 --- n24
+  n25["`Năm 2030 Nam Á và châu Phi Hạ Sahara tranh ngôi đông dân nhất, cuối thế kỷ 20 là Đông Á`"]
+  n23 --- n25
+  n26["`Số dân nhân với số tiền họ có kéo trọng tâm tiêu thụ toàn cầu về châu Á, kể cả không tính Nhật Bản`"]
+  n25 --- n26
+  n27["`Phụ nữ học cao, theo đuổi sự nghiệp nên muốn ít con, sắp có nhiều nữ triệu phú hơn nam`"]
+  n23 --- n27
+  n28["`Dân số thành phố tăng 1,5 triệu người mỗi tuần, thành phố chiếm 1% đất, 55% dân số, 80% năng lượng`"]
+  n23 --- n28
+  n29["`Người trên 60 tuổi sở hữu 80% tài sản nước Mỹ, tạo thành thị trường đầu bạc, lực lượng tiêu dùng lớn nhất`"]
+  n23 --- n29
+  n30["`Millennials đi đầu nền kinh tế chia sẻ nhưng được chú ý quá mức cần thiết`"]
+  n29 --- n30
+  n31["`Tám mắt xích: trẻ sơ sinh giảm, thế hệ mới, trung lưu mới, phụ nữ giàu hơn, sống thành thị, công nghệ đột phá, kinh tế chia sẻ, tiền điện tử`"]
+  n23 --- n31
+  n32["`Đứng riêng thì không thay đổi nào gây biến động toàn cầu, ta đối phó được từng cái`"]
+  n31 --- n32
+  n33["`Một số xu hướng đạt đỉnh khoảng năm 2030, COVID-19 làm tất cả diễn ra nhanh hơn`"]
+  n23 --- n33
+  n34["`Chuỗi tuyến tính chỉ để sắp thứ tự chương, thế giới thật không vận hành như vậy`"]
+  n23 --- n34
+  n35["`Mục 9–10 — Phân tách che mất cơ hội, tư duy đa chiều và bài học Kodak`"]
+  n0 --- n35
+  n36["`Cơ chế phân tách tâm trí: tách mọi việc thành ngăn riêng để khỏi choáng ngợp trước tác động cộng hưởng`"]
+  n35 --- n36
+  n37["`Công ty chia khách hàng #quot;tiên phong#quot;, #quot;lạc hậu#quot;, sản phẩm theo ma trận BCG, nhân viên #quot;tham vọng#quot;`"]
+  n36 --- n37
+  n38["`Phân tách khiến ta không thấy những khả năng mới`"]
+  n36 --- n38
+  n39["`Nghỉ hưu là phát minh cuối thế kỷ 19, chia đời người thành lớn lên, đi làm, nghỉ hưu`"]
+  n35 --- n39
+  n40["`Người cao tuổi thích nghi công nghệ nhanh như Millennials và có thể quay lại trường học kỹ năng mới`"]
+  n39 --- n40
+  n41["`Thiếu trẻ em, một trường ở Hàn Quốc nhận dạy người già mù chữ (New York Times 2019)`"]
+  n39 --- n41
+  n42["`Tư duy đa chiều của de Bono: không xử lý mảnh ghép hiện hữu mà thay đổi chính các mảnh ghép`"]
+  n35 --- n42
+  n43["`Picasso và Braque bỏ quy tắc phối cảnh, Le Corbusier bỏ tường để tạo không gian mở`"]
+  n42 --- n43
+  n44["`Tầm nhìn ngoại vi (Day và Schoemaker): hành động theo tín hiệu yếu ngoài vùng đang tập trung`"]
+  n35 --- n44
+  n45["`Kodak: kỹ sư thấy ảnh kỹ thuật số từ đầu thập niên 1990, lãnh đạo tin khách vẫn thích ảnh giấy, phá sản 2012`"]
+  n44 --- n45
+  n46["`Người ta thường chỉ thấy những gì họ muốn thấy (thẩm phán Taylor, Giết con chim nhại)`"]
+  n45 --- n46
+  n47["`Mục 11–12 — Tám xu hướng tương tác với nhau và ví dụ Airbnb`"]
+  n0 --- n47
+  n48["`Xếp tám xu hướng thành vòng tròn, mỗi xu hướng tương tác với bảy xu hướng còn lại`"]
+  n47 --- n48
+  n49["`28 cặp quan hệ, chỉ 8 cặp nằm trên vòng ngoài, 20 liên hệ chéo bị lối nghĩ tuyến tính bỏ qua`"]
+  n48 --- n49
+  n50["`Airbnb cạnh tranh với khách sạn nhưng còn làm ngân hàng mất khách`"]
+  n47 --- n50
+  n51["`Thế chấp nhà vay ngân hàng: mang nợ, chịu áp lực trả nợ hàng tháng`"]
+  n50 --- n51
+  n52["`Thế chấp ngược: trừ dần vào giá trị nhà, con cháu không còn nhà để thừa kế`"]
+  n50 --- n52
+  n53["`Cho du khách thuê phòng dư qua Airbnb: vừa có tiền vừa giữ được nhà`"]
+  n50 --- n53
+  n54["`Airbnb thành công nhờ hội tụ: tỷ lệ sinh giảm, tuổi thọ dài, lo lương hưu, điện thoại thông minh, thích chia sẻ hơn sở hữu`"]
+  n47 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Thời gian đang cạn dần: năm 2030 đã rất gần, thế giới quen thuộc sẽ không còn`"]
+  n55 --- n56
+  n57["`Cơ hội nằm ở chỗ các xu hướng hội tụ, không ở từng xu hướng riêng lẻ`"]
+  n55 --- n57
+  n58["`Nhân khẩu học là phần dự báo đáng tin nhất vì phần lớn người chịu tác động đã ra đời`"]
+  n55 --- n58
+  n59["`Cá nhân và công ty cần dự đoán xu hướng, chủ động ứng biến, chuyển một phần trọng tâm sang người cao tuổi`"]
+  n55 --- n59
+  class n0 root
+  class n1,n10,n23,n35,n47,n55 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 8/2020); bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai*, dịch giả Vũ Kiều Linh, NXB Thế Giới và Phương Nam Book, 02/2022 (ebook PDF 404 trang, không có số trang in). Phần này gồm: trang thông tin sách và giới thiệu bìa sau (trang PDF 2–3), giới thiệu tác giả trên tay gập (trang PDF 4), lời giới thiệu của Richard Florida (trang PDF 5), "Một vài dữ kiện và con số" (trang PDF 6–7) và "Phần giới thiệu: Thời gian đang cạn dần" (trang PDF 8–21).
+
+## Tác giả
+
+Mauro F. Guillén, sinh ngày 30/9/1964, chuyên gia về xu hướng thị trường toàn cầu; khi viết sách là giáo sư Zandman về quản lý quốc tế ở Trường Wharton (Đại học Pennsylvania); theo tay gập của bản dịch, lúc bản dịch ra đời ông là Giám đốc và Hiệu trưởng Trường Kinh doanh Cambridge Judge (Đại học Cambridge).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần giới thiệu đặt khung cho toàn bộ cuốn sách. Nó nêu tám xu hướng mà tám chương sau lần lượt phân tích: số trẻ sơ sinh giảm ([C01-tre-em-cho-ta-biet-dieu-gi.md](C01-tre-em-cho-ta-biet-dieu-gi.md)), các thế hệ dân số mới và "thị trường đầu bạc" ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)), tầng lớp trung lưu mới ở các thị trường mới nổi ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)), phụ nữ giàu có hơn ([C04-nguoi-phu-nu-moi.md](C04-nguoi-phu-nu-moi.md)), phong cách sống thành thị ([C05-cai-chet-cua-do-thi.md](C05-cai-chet-cua-do-thi.md)), công nghệ đột phá ([C06-dien-thoai-nhieu-hon-nha-ve-sinh.md](C06-dien-thoai-nhieu-hon-nha-ve-sinh.md)), nền kinh tế chia sẻ ([C07-mot-the-gioi-khong-tu-huu.md](C07-mot-the-gioi-khong-tu-huu.md)) và đồng tiền điện tử ([C08-nhieu-loai-tien-hon-so-quoc-gia.md](C08-nhieu-loai-tien-hon-so-quoc-gia.md)).
+
+Phần giới thiệu cũng hứa hẹn Phần kết ([C09-phan-ket-bi-quyet-de-ton-tai-nam-2030.md](C09-phan-ket-bi-quyet-de-ton-tai-nam-2030.md)) sẽ đưa ra các nguyên tắc để thích ứng, và Lời bạt ([C10-loi-bat-covid-19.md](C10-loi-bat-covid-19.md)) sẽ bàn về việc đại dịch COVID-19 đẩy nhanh các xu hướng.
+
+## Lưu ý
+
+- **Phần giới thiệu không có tên mục con.** Bản dịch chỉ chia đoạn bằng dấu ■ (sau đoạn mở đầu "Năm 2030." và sau đoạn "Năm 2020"). Các tiêu đề ### trong file này do người tổng hợp đặt theo chính câu chữ của bản dịch ở đầu mỗi đoạn, kèm trang PDF.
+- **"Tư duy đa chiều" là chữ bản dịch dùng cho khái niệm *lateral thinking* của Edward de Bono** (mục nguồn tham khảo ở trang PDF 352 ghi bài "How to Apply Lateral Thinking to Your Creative Work" làm nguồn của câu trích de Bono). Nhiều bản dịch sách khác gọi khái niệm này là "tư duy theo chiều ngang" (theo hiểu biết của người tổng hợp); bản dịch này không dùng chữ đó. Bản dịch dùng "tư duy đa chiều" thống nhất ở Phần giới thiệu và ở các chương sau, nên file này giữ chữ "tư duy đa chiều". Tương tự, "tư duy một chiều" trong bản dịch là lối nghĩ tuyến tính (*linear thinking*).
+- **"Sự sụt giảm công nghệ"** trong lời giới thiệu của Dambisa Moyo (trang PDF 3) gần như chắc là dịch sai cụm *technological disruption* (sự đột phá, xáo trộn do công nghệ) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác). Sách không hề nói công nghệ sụt giảm.
+- **Ấn Độ tìm thấy nước trên Mặt trăng:** sách viết "năm 2009, ngay lần đầu phóng tàu lên Mặt trăng". Theo hiểu biết của người tổng hợp, tàu Chandrayaan-1 được phóng tháng 10/2008; năm 2009 là năm công bố phát hiện nước. Thiết bị phát hiện nước trên tàu (Moon Mineralogy Mapper) là thiết bị của NASA gửi theo tàu Ấn Độ; vì vậy câu "NASA phải mất 10 năm mới xác nhận" cần hiểu là việc xác nhận lại bằng dữ liệu phân tích sau này (bài trên Forbes năm 2018 mà Guillén dẫn).
+- **Kodak:** sách nói đầu những năm 1990 các kỹ sư Kodak "bắt đầu ý thức" về ảnh kỹ thuật số. Theo hiểu biết của người tổng hợp, chính kỹ sư Kodak Steven Sasson đã chế ra máy ảnh kỹ thuật số đầu tiên năm 1975, nên Kodak biết về công nghệ này sớm hơn nhiều; điều đó càng củng cố luận điểm của Guillén về việc ban lãnh đạo bỏ qua tín hiệu ở vùng ngoại vi.
+- **Số liệu đô thị không khớp nhau giữa hai trang.** "Một vài dữ kiện và con số" ghi năm 2030 diện tích thành thị chiếm 1,1% đất đai thế giới, thành phố chứa 60% dân số và phát thải 87% lượng carbon; còn Phần giới thiệu ghi thành phố chiếm 1% diện tích, chứa 55% dân số và tiêu thụ 80% năng lượng "(và khí thải carbon)". Hai bộ số có lẽ ứng với hai thời điểm (hiện tại và năm 2030), nhưng sách không nói rõ, và câu ở Phần giới thiệu gộp tỷ lệ năng lượng với tỷ lệ phát thải thành một con số.
+- **Dòng "Tỷ lệ dân số đô thị sống gần khu vực mực nước biển dâng cao năm 2030: 80%"** (trang PDF 6) diễn đạt mơ hồ: không rõ "gần" là bao xa và "khu vực mực nước biển dâng cao" là vùng nào. Nên đọc cùng Chương 5 ([C05-cai-chet-cua-do-thi.md](C05-cai-chet-cua-do-thi.md)), nơi Guillén bàn chi tiết về thành phố và biến đổi khí hậu.
+- **Số người thiếu ăn năm 2030: 200 triệu** là dự báo rất lạc quan. Theo hiểu biết của người tổng hợp, các báo cáo gần đây của FAO và Liên Hợp Quốc dự báo khoảng 500–600 triệu người vẫn thiếu ăn kinh niên vào năm 2030, sau khi số người đói tăng trở lại từ năm 2019 (do COVID-19, xung đột và giá lương thực). Con số 821 triệu cho năm 2017 thì khớp với báo cáo của FAO thời điểm đó.
+- **Tỷ lệ tài sản phụ nữ sở hữu: 15% năm 2000 lên 55% năm 2030.** Guillén lấy từ Báo cáo Tài sản Thế giới 2014 của Capgemini và RBC Wealth Management. Theo hiểu biết của người tổng hợp, các ước tính phổ biến khác (ví dụ của BCG) cho rằng phụ nữ kiểm soát khoảng một phần ba tài sản tài chính thế giới vào đầu thập niên 2020, nên mức 55% vào năm 2030 cần xem là kịch bản cao.
+- **"Lehman Sisters":** câu "nếu là Lehman Sisters thì khủng hoảng đã không xảy ra" vốn là câu nói nổi tiếng của bà Christine Lagarde (khi đó là Bộ trưởng Tài chính Pháp, sau là Tổng Giám đốc IMF) (theo hiểu biết của người tổng hợp). Sách không ghi người nói.
+- **"Người trên 60 tuổi đang sở hữu 80% tài sản nước Mỹ"** (trang PDF 14): theo hiểu biết của người tổng hợp, số liệu của Cục Dự trữ Liên bang Mỹ cho thấy các hộ có chủ hộ từ 55 tuổi trở lên nắm khoảng 70% tài sản ròng hộ gia đình; con số 80% cho nhóm trên 60 tuổi có vẻ cao, có thể là cách làm tròn hoặc dùng định nghĩa tài sản khác. Chương 2 ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)) bàn chi tiết hơn.
+- **Chú thích của dịch giả** ở phần này đều đúng và hữu ích: (1) Tom Wolfe là tác giả cuốn *The Right Stuff* ("Đúng chất"), từ đó có cụm "đúng chất"; theo hiểu biết của người tổng hợp, cuốn sách viết về các phi hành gia đầu tiên của Mỹ, nên phép so sánh với chương trình vũ trụ Ấn Độ rất khéo. (2) Wharton là trường kinh doanh thuộc Đại học Pennsylvania. (3) Millennials là thế hệ sinh khoảng 1980–2000, còn gọi là thế hệ Y. (4) "Ngôi sao", "bò sữa", "chó", "dấu hỏi" là các ô của ma trận BCG. (5) Thế chấp ngược là hình thức vay và trừ dần vào giá trị căn nhà. Chú thích (1) in tên sách là "Right stuff" thiếu mạo từ *The*.
+- **Lỗi chữ ở mục nguồn tham khảo của Phần giới thiệu** (trang PDF 352): "Why India's Mars Mission Is số Cheap" (đúng là "So Cheap"), "science-enosystem" (đúng là "science-environment") và "Remembrance of Things Pasty" (đúng là "Past").
+- **Số trang:** trang thông tin ghi sách in 360 trang; ebook PDF dùng để tổng hợp có 404 trang. File này ghi vị trí theo trang PDF.

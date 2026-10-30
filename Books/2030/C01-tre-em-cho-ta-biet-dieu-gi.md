@@ -1,32 +1,18 @@
 # Chương 1 — Trẻ em cho ta biết điều gì? (Follow the Babies)
 
-**Nguồn:** Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020); bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai*, Vũ Kiều Linh dịch (NXB Thế Giới & Phương Nam Book, 2022). Chương 1 "Trẻ em cho ta biết điều gì?", tiêu đề phụ "Dân số giảm, bùng nổ trẻ em châu Phi, và cuộc cách mạng công nghiệp tiếp theo", trang PDF 22–62.
-**Tác giả:** Mauro F. Guillén, giáo sư quản trị quốc tế tại Trường Wharton (Đại học Pennsylvania), chuyên nghiên cứu các xu hướng kinh tế và nhân khẩu học toàn cầu.
-**Vị trí trong lập luận của cả cuốn sách:** Phần giới thiệu ([00-phan-gioi-thieu-thoi-gian-dang-can-dan.md](00-phan-gioi-thieu-thoi-gian-dang-can-dan.md)) nói rằng đến khoảng năm 2030 nhiều xu hướng sẽ cùng lúc chạm ngưỡng và đan vào nhau. Chương 1 mở đầu bằng xu hướng nền tảng nhất: số trẻ em được sinh ra, và việc chúng được sinh ra ở đâu. Chương 2 ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)) là mặt bên kia của cùng một xu hướng: dân số già đi. Chương 3 ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)) nói về tầng lớp trung lưu mới ở châu Á và châu Phi, nơi phần lớn trẻ em đang được sinh ra. Chương 4 ([C04-nguoi-phu-nu-moi.md](C04-nguoi-phu-nu-moi.md)) đào sâu vai trò mới của phụ nữ, mà Chương 1 coi là nguyên nhân quan trọng nhất của hiện tượng giảm sinh. Chương 6 ([C06-dien-thoai-nhieu-hon-nha-ve-sinh.md](C06-dien-thoai-nhieu-hon-nha-ve-sinh.md)) bàn về tự động hóa, thứ mà Chương 1 coi là nguyên nhân thật của mất việc chứ không phải người nhập cư.
+## Ý chính
 
-**Ý chính:** **Guillén cho rằng điều đáng lo trước năm 2030 không phải là bùng nổ dân số mà là thế giới ngày càng ít trẻ em, và những trẻ em ít ỏi ấy chủ yếu được sinh ra ở châu Phi và Nam Á chứ không ở các nước giàu.** Dân số thế giới tăng từ 1 tỷ (1820) lên 7 tỷ (2010), nhưng trong vài thập niên tới tốc độ tăng chỉ còn chưa tới một nửa so với giai đoạn 1960–1990; hiện cứ một trẻ sinh ra ở Mỹ thì có 4,4 trẻ ở Trung Quốc, 6,5 ở Ấn Độ và 10,2 ở châu Phi. Đến năm 2030, Nam Á vẫn đông dân nhất, châu Phi vượt Đông Á để đứng thứ hai, còn châu Âu tụt xuống thứ sáu. Nguyên nhân chính của giảm sinh là vai trò mới của phụ nữ (học lâu hơn, đi làm, kết hôn và sinh con muộn); các yếu tố cộng thêm là giải trí hiện đại làm giảm sinh hoạt tình dục, chi phí nuôi con cao (233.610 USD tới 17 tuổi ở Mỹ năm 2015), và phép đánh đổi giữa số lượng và chất lượng con cái của Gary Becker. Chính phủ hầu như không xoay được xu hướng này: chuyến nghỉ Bali của Singapore thất bại, và chính sách một con của Trung Quốc ra đời khi tỷ lệ sinh đã tự giảm từ trước, nhưng lại để lại tình trạng thừa khoảng 20% nam giới, đẩy tỷ lệ tiết kiệm của các hộ gia đình lên cao và gián tiếp làm lãi suất vay mua nhà ở Mỹ thấp đi. Châu Phi, với dân số Tiểu vùng Sahara dự kiến lên 2 tỷ năm 2038, có cơ hội làm cuộc cách mạng nông nghiệp – công nghiệp (nông nghiệp đáng giá 1.000 tỷ USD năm 2030, khoai mì, thanh toán di động ở Kenya). Phần cuối chương lập luận rằng di cư không đủ lớn để đảo ngược xu hướng dân số, nhưng người nhập cư không cướp việc của người bản xứ, đóng thuế nhiều hơn phúc lợi nhận về, sáng lập nhiều công ty (44 trên 87 "kỳ lân" Mỹ năm 2016), và nhờ "luân chuyển chất xám" thì cả nước đi lẫn nước đến đều có lợi; nỗi sợ người nhập cư phần lớn đến từ tâm lý "ác cảm với mất mát".
+**Guillén cho rằng điều đáng lo trước năm 2030 không phải là bùng nổ dân số mà là thế giới ngày càng ít trẻ em, và những trẻ em ít ỏi ấy chủ yếu được sinh ra ở châu Phi và Nam Á chứ không ở các nước giàu.**
 
-> **Lưu ý:**
-> - **Tên nguyên tác của chương** là "Follow the Babies" (nghĩa đen "Hãy đi theo những đứa trẻ"), theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác). Bản dịch đổi thành câu hỏi "Trẻ em cho ta biết điều gì?".
-> - **"Tiểu vùng Sahara châu Phi"** là cách bản dịch gọi *sub-Saharan Africa* (châu Phi phía nam sa mạc Sahara, còn gọi là "châu Phi hạ Sahara"). Chữ "tiểu vùng" dễ làm người đọc hiểu nhầm là một vùng nhỏ; thực ra đây là phần lớn nhất của lục địa. Bản dịch định nghĩa vùng này là "50 quốc gia châu Phi không giáp với biển Địa Trung Hải" (trang PDF 25).
-> - **Con số 1,3 tỷ dùng cho hai vùng khác nhau.** Trang PDF 38 nói dân số Tiểu vùng Sahara châu Phi "1,3 tỷ hiện nay"; trang PDF 40 nói cả lục địa châu Phi "hiện có 1,3 tỷ người". Hai con số không thể cùng đúng. Theo hiểu biết của người tổng hợp, khoảng năm 2019 cả châu Phi có khoảng 1,3 tỷ người, còn châu Phi hạ Sahara khoảng 1,1 tỷ.
-> - **"Ít hơn khoảng chín lần"** (trang PDF 29): theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), nghiên cứu của Twenge, Sherman và Wells (2017) cho thấy người Mỹ trưởng thành quan hệ tình dục ít hơn khoảng chín lần **mỗi năm** vào đầu thập niên 2010 so với cuối thập niên 1990. Bản dịch bỏ chữ "mỗi năm", nên câu có thể bị hiểu nhầm thành "giảm chín lần" (chỉ còn một phần chín).
-> - **Phép tính lãi suất vay mua nhà** (trang PDF 36): sách nói nếu lãi suất khoản vay cố định 30 năm là 6% thay vì 5% thì khoản thanh toán hàng tháng tăng khoảng 25%. Theo phép tính minh hoạ của người tổng hợp, khoản trả góp hàng tháng chỉ tăng khoảng 12% (từ khoảng 5,37 lên khoảng 6,00 USD cho mỗi 1.000 USD vay); con số khoảng 24–25% là mức tăng của **tổng tiền lãi** trả trong 30 năm (từ khoảng 933 lên khoảng 1.158 USD cho mỗi 1.000 USD vay). Không rõ lỗi nằm ở nguyên tác hay ở bản dịch.
-> - **"Giá nhà ở San Francisco chắc chắn có liên quan đến giá trà ở Trung Quốc"** (trang PDF 36) là một cách chơi chữ: tiếng Anh có thành ngữ "what does that have to do with the price of tea in China?" (chuyện đó thì liên quan gì), dùng để chê một ý không ăn nhập. Guillén lật ngược thành ngữ để nói hai thứ tưởng không liên quan thật ra có liên quan (nhận xét của người tổng hợp).
-> - **"Tỷ lệ mất cân bằng giới tính của Trung Quốc cao gấp bảy lần so với tỷ lệ của Nga vì dân số Trung Quốc lớn hơn rất nhiều"** (trang PDF 37): một tỷ lệ không thể cao hơn chỉ vì dân số đông hơn. Nhiều khả năng ý gốc là **quy mô** mất cân bằng (số người "thừa" ra) của Trung Quốc lớn gấp bảy lần của Nga (suy luận của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Số liệu ứng dụng hẹn hò** (trang PDF 36): bản dịch viết "ở Trung Quốc chỉ có 2% người sử dụng các ứng dụng hẹn hò để tìm bạn tình", "21% người chi cho các ứng dụng" ở châu Âu và Mỹ, và dịch vụ mai mối "chiếm đến 85% so với chỉ 40%". Cách các con số đi thành cặp cho thấy chúng có thể là **tỷ trọng doanh thu của từng loại dịch vụ** trong thị trường hẹn hò trực tuyến (theo báo cáo eServices của Statista mà sách dẫn), không phải tỷ lệ người dùng (suy luận của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **"Đức Cha Thomas Robert Malthus"** (trang PDF 28): Malthus là mục sư Anh giáo (tiếng Anh "Reverend"), không phải giám mục; chữ "Đức Cha" trong tiếng Việt thường dành cho giám mục Công giáo (theo hiểu biết của người tổng hợp).
-> - **"Pastor Felix Afolabi"** (trang PDF 44): "Pastor" là chức danh (mục sư), không phải tên riêng; bản dịch để nguyên.
-> - **"Theo ông Saxenian"** (trang PDF 59): AnnaLee Saxenian là nữ giáo sư (theo hiểu biết của người tổng hợp); trang PDF 58 của bản dịch đã gọi đúng tên đầy đủ nhưng trang sau lại dùng "ông".
-> - **"500 triệu mẫu đất – tương đương với diện tích Mexico"** (trang PDF 42): "mẫu" ở đây là mẫu Anh (acre, khoảng 4.047 m²), không phải mẫu Việt Nam (3.600 m² ở Bắc Bộ). 500 triệu acre là khoảng 2 triệu km², gần đúng diện tích Mexico (phép tính minh hoạ của người tổng hợp).
-> - **Chú thích (7) của dịch giả** ghi Thế hệ bùng nổ dân số (baby boomers) sinh "trong khoảng những năm từ 1944–1964". Mốc thường dùng ở Mỹ là 1946–1964 (theo hiểu biết của người tổng hợp).
-> - **Chú thích (6), (8), (9) của dịch giả** dùng được: (6) Anheuser-Busch là một công ty bia Mỹ; (8) thuế quỹ lương là thuế đánh vào quỹ lương do doanh nghiệp chi trả; (9) Nasdaq là sàn giao dịch chứng khoán điện tử của Mỹ. Ý của các chú thích này đã được đưa vào lời văn ở phần Nội dung chi tiết.
-> - **"Tổ chức từ thiện Alien"** (trang PDF 46): bản dịch ghi tên tổ chức trả trợ cấp hàng tháng cho chị Naomi Nganga là "Alien". Người tổng hợp không xác định được tên đúng và giữ nguyên chữ của bản dịch.
-> - **"Tư duy đa chiều", "cái nhìn đa chiều", "góc nhìn đa chiều"** (trang PDF 33, 35, 42): "tư duy đa chiều" là chữ bản dịch dùng cho *lateral thinking* của Edward de Bono, khái niệm Guillén giới thiệu ở Phần giới thiệu (trang PDF 17–18); nhiều bản dịch sách khác gọi khái niệm này là "tư duy theo chiều ngang" (theo hiểu biết của người tổng hợp). Bản dịch này dùng "tư duy đa chiều" thống nhất, và file này cũng vậy.
-> - **Một vài mốc dân số ở trang PDF 22 hơi lệch** so với ước tính phổ biến của Liên Hợp Quốc: thế giới đạt 2 tỷ người vào khoảng năm 1927 (sách nói "một thế kỷ sau [năm 1820], đã có hơn 2 tỷ"), 6 tỷ vào khoảng năm 1999 và 7 tỷ vào khoảng năm 2011 (theo hiểu biết của người tổng hợp). Các lệch này không ảnh hưởng tới lập luận.
-> - **Số liệu đã lỗi thời so với năm 2026** (theo hiểu biết của người tổng hợp): dân số thế giới đã vượt 8 tỷ vào cuối năm 2022 (sách dùng 7,5 tỷ); Ấn Độ vượt Trung Quốc thành nước đông dân nhất vào năm 2023; dân số Trung Quốc bắt đầu giảm từ năm 2022; tỷ lệ sinh của Trung Quốc đã xuống quanh mức 1,0 (sách ghi 1,6) và của Hàn Quốc xuống khoảng 0,7 (sách ghi "trên dưới 1,1"). Năm 2015 Trung Quốc thay chính sách một con bằng chính sách hai con (hiệu lực từ năm 2016), rồi cho phép ba con năm 2021; câu "năm 2015, Trung Quốc chấm dứt hoàn toàn chính sách này" chỉ đúng với nghĩa bỏ giới hạn một con, chưa phải bỏ mọi giới hạn.
-> - **Lỗi chữ do trích xuất ebook**, không phải lỗi của bản in: "Kau￾man" là Quỹ Kauffman, "Ho￾man" là Reid Hoffman, "First A￾air" là First Affair, "Linkedln" là LinkedIn. Ảnh trang cho thấy bản dịch in đúng Kauffman, Hoffman và First Affair; riêng LinkedIn có vẻ được in thành "Linkedln" (chữ "l" thường thay cho chữ "I" hoa).
-> - **Hình 3 và Hình 4** là số thứ tự hình của cả cuốn sách (Hình 1 và Hình 2 nằm ở Phần giới thiệu). Hình 3 chỉ có các đường vẽ, không ghi số liệu; các con số ở bản tổng hợp này là đọc ước lượng từ trục tung.
+Dân số thế giới tăng từ 1 tỷ (1820) lên 7 tỷ (2010), nhưng trong vài thập niên tới tốc độ tăng chỉ còn chưa tới một nửa so với giai đoạn 1960–1990; hiện cứ một trẻ sinh ra ở Mỹ thì có 4,4 trẻ ở Trung Quốc, 6,5 ở Ấn Độ và 10,2 ở châu Phi. Đến năm 2030, Nam Á vẫn đông dân nhất, châu Phi vượt Đông Á để đứng thứ hai, còn châu Âu tụt xuống thứ sáu.
+
+Nguyên nhân chính của giảm sinh là vai trò mới của phụ nữ (học lâu hơn, đi làm, kết hôn và sinh con muộn). Các yếu tố cộng thêm là giải trí hiện đại làm giảm sinh hoạt tình dục, chi phí nuôi con cao (233.610 USD tới 17 tuổi ở Mỹ năm 2015), và phép đánh đổi giữa số lượng và chất lượng con cái của Gary Becker.
+
+Chính phủ hầu như không xoay được xu hướng này: chuyến nghỉ Bali của Singapore thất bại, và chính sách một con của Trung Quốc ra đời khi tỷ lệ sinh đã tự giảm từ trước, nhưng lại để lại tình trạng thừa khoảng 20% nam giới, đẩy tỷ lệ tiết kiệm của các hộ gia đình lên cao và gián tiếp làm lãi suất vay mua nhà ở Mỹ thấp đi.
+
+Châu Phi, với dân số Tiểu vùng Sahara dự kiến lên 2 tỷ năm 2038, có cơ hội làm cuộc cách mạng nông nghiệp – công nghiệp (nông nghiệp đáng giá 1.000 tỷ USD năm 2030, khoai mì, thanh toán di động ở Kenya).
+
+Phần cuối chương lập luận rằng di cư không đủ lớn để đảo ngược xu hướng dân số, nhưng người nhập cư không cướp việc của người bản xứ, đóng thuế nhiều hơn phúc lợi nhận về, sáng lập nhiều công ty (44 trên 87 "kỳ lân" Mỹ năm 2016), và nhờ "luân chuyển chất xám" thì cả nước đi lẫn nước đến đều có lợi. Nỗi sợ người nhập cư phần lớn đến từ tâm lý "ác cảm với mất mát".
 
 ## Sơ đồ
 
@@ -781,7 +767,9 @@ Thêm vào đó, dinh dưỡng và y tế ở các nước nghèo nhất ngày c
 
 Nhìn vào năm 2030, Guillén đọc ra thứ hạng: Nam Á (gồm cả Ấn Độ) vẫn đông dân nhất; châu Phi thành khu vực đông dân thứ hai; Đông Á (gồm cả Trung Quốc) tụt xuống thứ ba. Châu Âu, vốn đứng thứ hai trong thập niên 1950, sẽ tụt xuống thứ sáu, sau cả Đông Nam Á (gồm Campuchia, Indonesia, Philippines, Thái Lan và một số nước khác) và châu Mỹ Latinh.
 
-**Di cư không xoay được xu hướng.** Di cư quốc tế có thể làm dịu bớt biến động này, vì nước nhiều trẻ em sẽ bù cho nơi thiếu. Chuyện này đã xảy ra nhiều lần, chẳng hạn trong thập niên 1950–1960 rất nhiều người Nam Âu sang Bắc Âu làm việc. Nhưng ngày nay dòng di cư không đủ lớn để thay đổi xu hướng dân số. Guillén nhấn mạnh điều này vì nhiều chính phủ đang muốn xây tường biên giới, bằng gạch vữa hay bằng laser, máy dò, hoặc cả hai. Ông cho rằng kể cả không có tường, di cư cũng không thay đổi được bao nhiêu. Với mức di cư và tăng dân số hiện tại, Tiểu vùng Sahara châu Phi (50 nước châu Phi không giáp Địa Trung Hải) sẽ thành khu vực đông dân thứ hai thế giới vào năm 2030. Giả sử số người di cư tăng gấp đôi trong 20 năm tới thì mốc này cũng chỉ lùi tới năm 2033, tức chậm ba năm, còn xu hướng chính không đổi.
+**Di cư không xoay được xu hướng.** Di cư quốc tế có thể làm dịu bớt biến động này, vì nước nhiều trẻ em sẽ bù cho nơi thiếu. Chuyện này đã xảy ra nhiều lần, chẳng hạn trong thập niên 1950–1960 rất nhiều người Nam Âu sang Bắc Âu làm việc. Nhưng ngày nay dòng di cư không đủ lớn để thay đổi xu hướng dân số.
+
+Guillén nhấn mạnh điều này vì nhiều chính phủ đang muốn xây tường biên giới, bằng gạch vữa hay bằng laser, máy dò, hoặc cả hai. Ông cho rằng kể cả không có tường, di cư cũng không thay đổi được bao nhiêu. Với mức di cư và tăng dân số hiện tại, Tiểu vùng Sahara châu Phi (50 nước châu Phi không giáp Địa Trung Hải) sẽ thành khu vực đông dân thứ hai thế giới vào năm 2030. Giả sử số người di cư tăng gấp đôi trong 20 năm tới thì mốc này cũng chỉ lùi tới năm 2033, tức chậm ba năm, còn xu hướng chính không đổi.
 
 ### 2. Phụ nữ và trẻ em điều khiển thế giới (trang PDF 26–27)
 
@@ -802,27 +790,41 @@ Phần lớn sự thay đổi này đến từ việc thời gian đi học dài
 
 ### 3. Tình trạng suy giảm ham muốn tình dục (trang PDF 28–29)
 
-Trong nhiều thiên niên kỷ, dân số bị chi phối bởi lương thực, chiến tranh, bệnh tật và thiên tai. Các nhà triết học, thần học và khoa học đã mất hàng thế kỷ để trả lời câu hỏi Trái đất nuôi được bao nhiêu người. Năm 1798, nhà kinh tế học và nhân khẩu học người Anh Thomas Robert Malthus (bản dịch gọi là "Đức Cha"; ông là một mục sư) cảnh báo về hiện tượng sau này gọi là **"bẫy Malthus"**: con người sinh sản tràn lan sẽ làm cạn kiệt nguồn sống của chính mình. Thời ấy thế giới chưa tới 1 tỷ người (so với 7,5 tỷ hiện nay). Malthus cho rằng con người là kẻ thù tệ nhất của chính mình vì sinh hoạt tình dục bừa bãi; dân số tăng vọt sẽ dẫn tới đói và bệnh vì lương thực không theo kịp, và nhân loại sẽ phải "chết yểu" theo cách này hay cách khác. Ông và nhiều người cùng thời lo loài người tuyệt chủng vì sinh sản tràn lan.
+Trong nhiều thiên niên kỷ, dân số bị chi phối bởi lương thực, chiến tranh, bệnh tật và thiên tai. Các nhà triết học, thần học và khoa học đã mất hàng thế kỷ để trả lời câu hỏi Trái đất nuôi được bao nhiêu người. Năm 1798, nhà kinh tế học và nhân khẩu học người Anh Thomas Robert Malthus (bản dịch gọi là "Đức Cha"; ông là một mục sư) cảnh báo về hiện tượng sau này gọi là **"bẫy Malthus"**: con người sinh sản tràn lan sẽ làm cạn kiệt nguồn sống của chính mình. Thời ấy thế giới chưa tới 1 tỷ người (so với 7,5 tỷ hiện nay).
+
+Malthus cho rằng con người là kẻ thù tệ nhất của chính mình vì sinh hoạt tình dục bừa bãi; dân số tăng vọt sẽ dẫn tới đói và bệnh vì lương thực không theo kịp, và nhân loại sẽ phải "chết yểu" theo cách này hay cách khác. Ông và nhiều người cùng thời lo loài người tuyệt chủng vì sinh sản tràn lan.
 
 Nhìn lại, Guillén cho rằng Malthus đã đánh giá thấp vai trò phi thường của các phát minh làm tăng sản lượng nông nghiệp, và không thấy hết tiềm năng mở rộng nguồn lương thực nhờ thương mại quốc tế bằng đường biển nhanh và rẻ. Tuy vậy, ông đúng khi coi dân số và thực phẩm là hai mặt của một vấn đề. Điều Malthus hoàn toàn bỏ qua là công nghệ hiện đại có thể làm giảm ham muốn tình dục. Lý do đơn giản: càng có nhiều hình thức giải trí, người ta càng ít sinh hoạt tình dục. Xã hội hiện đại cho ta đủ loại giải trí, từ phát thanh, truyền hình tới trò chơi điện tử và mạng xã hội.
 
-Ở một số nước phát triển, kể cả Mỹ, tần suất sinh hoạt tình dục đã giảm trong vài thập niên qua. Một nghiên cứu toàn diện trên tạp chí *Archives of Sexual Behavior* (của Twenge, Sherman và Wells, theo nguồn của tác giả) cho thấy người Mỹ trưởng thành quan hệ tình dục ít hơn khoảng chín lần (mỗi năm) vào đầu thập niên 2010 so với cuối thập niên 1990, và sự sụt giảm chủ yếu xảy ra ở các cặp vợ chồng hoặc cặp đôi đã sống chung lâu. Theo thế hệ, những người sinh trong thập niên 1930 (Thế hệ Im lặng) có tần suất cao nhất, còn những người sinh trong thập niên 1990 (thế hệ Millennials và iGen) có tần suất thấp nhất. Nghiên cứu kết luận rằng người Mỹ giảm sinh hoạt tình dục vì số người độc thân hoặc không có bạn tình tăng lên, đi cùng với tần suất giảm ở các cặp gắn bó lâu dài.
+Ở một số nước phát triển, kể cả Mỹ, tần suất sinh hoạt tình dục đã giảm trong vài thập niên qua. Một nghiên cứu toàn diện trên tạp chí *Archives of Sexual Behavior* (của Twenge, Sherman và Wells, theo nguồn của tác giả) cho thấy người Mỹ trưởng thành quan hệ tình dục ít hơn khoảng chín lần (mỗi năm) vào đầu thập niên 2010 so với cuối thập niên 1990, và sự sụt giảm chủ yếu xảy ra ở các cặp vợ chồng hoặc cặp đôi đã sống chung lâu.
+
+Theo thế hệ, những người sinh trong thập niên 1930 (Thế hệ Im lặng) có tần suất cao nhất, còn những người sinh trong thập niên 1990 (thế hệ Millennials và iGen) có tần suất thấp nhất. Nghiên cứu kết luận rằng người Mỹ giảm sinh hoạt tình dục vì số người độc thân hoặc không có bạn tình tăng lên, đi cùng với tần suất giảm ở các cặp gắn bó lâu dài.
 
 Một ví dụ thú vị về tác động của giải trí là vụ mất điện ở đảo Zanzibar, ngoài khơi Đông Phi, năm 2008. Vụ mất điện kéo dài cả tháng nhưng chỉ ảnh hưởng tới các hộ dùng điện lưới; những hộ còn lại vẫn dùng máy phát điện. Đây là cơ hội hiếm để làm một "thử nghiệm" về sinh sản: "nhóm thử nghiệm" là các hộ mất điện, "nhóm đối chứng" là các hộ có máy phát. Chín tháng sau, tỷ lệ sinh của nhóm thử nghiệm tăng khoảng 20%, còn của nhóm đối chứng không đổi. (Theo nguồn của tác giả, nghiên cứu này của A. Burlando, đăng trên tạp chí *Demography* năm 2014.)
 
 ### 4. Đồng tiền xoay vòng thế giới (trang PDF 30–31)
 
-Tiền cũng đóng vai trò lớn trong quyết định sinh con. Năm 2018, báo *New York Times* khảo sát vì sao người Mỹ ngày càng ít con hoặc không có con; bốn trong năm lý do hàng đầu liên quan tới tiền. Anh David Carlson, 29 tuổi, có vợ cũng đi làm, nói rằng tiền lương không theo kịp chi phí sinh hoạt, cộng thêm nợ vay sinh viên, nên rất khó ổn định tài chính, dù có bằng đại học, có việc làm và hai nguồn thu nhập. Thanh niên từ các gia đình thu nhập thấp cũng ngại có con, vì phải chọn giữa lập gia đình và để dành tiền cho những thứ khác có giá trị. Brittany Butler, quê ở Baton Rouge, bang Louisiana, là người đầu tiên trong gia đình tốt nghiệp đại học. Ở tuổi 22, cô ưu tiên học thạc sĩ công tác xã hội, trả nợ vay sinh viên và ổn định cuộc sống ở một nơi an toàn; chuyện con cái tính sau.
+Tiền cũng đóng vai trò lớn trong quyết định sinh con. Năm 2018, báo *New York Times* khảo sát vì sao người Mỹ ngày càng ít con hoặc không có con; bốn trong năm lý do hàng đầu liên quan tới tiền. Anh David Carlson, 29 tuổi, có vợ cũng đi làm, nói rằng tiền lương không theo kịp chi phí sinh hoạt, cộng thêm nợ vay sinh viên, nên rất khó ổn định tài chính, dù có bằng đại học, có việc làm và hai nguồn thu nhập.
 
-Từ thập niên 1960, nhà kinh tế học Gary Becker của Đại học Chicago đã đưa ra một luận điểm quan trọng: cha mẹ quyết định sinh con bằng cách **cân nhắc giữa số lượng và chất lượng** con cái. Khi thu nhập tăng, người ta có thể mua thêm một hai chiếc xe, nhưng không mua hàng chục chiếc dù giàu đến đâu; cũng không ai mua hàng chục tủ lạnh hay máy giặt. Becker lập luận rằng thu nhập càng cao, người ta càng chú trọng chất lượng thay vì số lượng: thay chiếc xe cũ tàn tạ bằng một chiếc sedan hay SUV mới hơn, lớn hơn, sang hơn. Với con cái, điều đó nghĩa là dành nhiều quan tâm và tiền bạc hơn cho ít con hơn. Ông viết rằng sự cân nhắc này là lý do quan trọng nhất khiến cha mẹ đầu tư nhiều hơn cho mỗi con khi thu nhập tăng, để con có nhiều cơ hội tốt hơn.
+Thanh niên từ các gia đình thu nhập thấp cũng ngại có con, vì phải chọn giữa lập gia đình và để dành tiền cho những thứ khác có giá trị. Brittany Butler, quê ở Baton Rouge, bang Louisiana, là người đầu tiên trong gia đình tốt nghiệp đại học. Ở tuổi 22, cô ưu tiên học thạc sĩ công tác xã hội, trả nợ vay sinh viên và ổn định cuộc sống ở một nơi an toàn; chuyện con cái tính sau.
 
-Luận điểm về hành vi con người của Becker đem lại cho ông giải Nobel Kinh tế năm 1992. Guillén nhận xét rằng với một vấn đề phức tạp như tỷ lệ sinh, ý tưởng của Becker bỏ sót vai trò của sở thích, chuẩn mực văn hóa và giá trị, nhưng nó đã nắm được một xu hướng xã hội quan trọng. Ngày nay nhiều phụ huynh dồn thời gian và tiền bạc cho ít con hơn để con có cơ hội thành công cao nhất, từ học phí đại học tới các hoạt động ngoại khóa. Nhà xã hội học Philip Cohen của Đại học Maryland giải thích rằng chúng ta muốn đầu tư nhiều hơn cho con để chúng có cơ hội tốt nhất trong một môi trường ngày càng bất bình đẳng. Theo nghĩa đó, con cái được xem như một dự án đầu tư, có giá trị hiện tại ròng (NPV) và tỷ suất hoàn vốn (ROI).
+Từ thập niên 1960, nhà kinh tế học Gary Becker của Đại học Chicago đã đưa ra một luận điểm quan trọng: cha mẹ quyết định sinh con bằng cách **cân nhắc giữa số lượng và chất lượng** con cái. Khi thu nhập tăng, người ta có thể mua thêm một hai chiếc xe, nhưng không mua hàng chục chiếc dù giàu đến đâu; cũng không ai mua hàng chục tủ lạnh hay máy giặt.
 
-Để thấy các cặp vợ chồng tính toán thế nào, hãy xem chi phí cho mỗi đứa trẻ. Năm 2015, chính phủ liên bang Mỹ ước tính một gia đình trung bình phải chi **233.610 USD** để nuôi một đứa trẻ tới 17 tuổi; tính cả học phí đại học thì con số gấp đôi. Guillén kể rằng trên máy tính xách tay của mình, ông có một bảng tính mọi thu nhập và chi phí gia đình mỗi năm. Ông sửng sốt khi thấy một gia đình trung bình ở Mỹ có thể phải chi hơn nửa triệu USD cho mỗi đứa con, nhất là khi con học một trường đại học đắt tiền. Ông làm một bảng tính khác với cùng các hạng mục nhưng bỏ hết chi phí liên quan tới con cái; kết quả là số tiền tiết kiệm được đủ để mua một chiếc xe hơi sang hoặc một ngôi nhà nghỉ bên bờ biển.
+Becker lập luận rằng thu nhập càng cao, người ta càng chú trọng chất lượng thay vì số lượng: thay chiếc xe cũ tàn tạ bằng một chiếc sedan hay SUV mới hơn, lớn hơn, sang hơn. Với con cái, điều đó nghĩa là dành nhiều quan tâm và tiền bạc hơn cho ít con hơn. Ông viết rằng sự cân nhắc này là lý do quan trọng nhất khiến cha mẹ đầu tư nhiều hơn cho mỗi con khi thu nhập tăng, để con có nhiều cơ hội tốt hơn.
+
+Luận điểm về hành vi con người của Becker đem lại cho ông giải Nobel Kinh tế năm 1992. Guillén nhận xét rằng với một vấn đề phức tạp như tỷ lệ sinh, ý tưởng của Becker bỏ sót vai trò của sở thích, chuẩn mực văn hóa và giá trị, nhưng nó đã nắm được một xu hướng xã hội quan trọng.
+
+Ngày nay nhiều phụ huynh dồn thời gian và tiền bạc cho ít con hơn để con có cơ hội thành công cao nhất, từ học phí đại học tới các hoạt động ngoại khóa. Nhà xã hội học Philip Cohen của Đại học Maryland giải thích rằng chúng ta muốn đầu tư nhiều hơn cho con để chúng có cơ hội tốt nhất trong một môi trường ngày càng bất bình đẳng. Theo nghĩa đó, con cái được xem như một dự án đầu tư, có giá trị hiện tại ròng (NPV) và tỷ suất hoàn vốn (ROI).
+
+Để thấy các cặp vợ chồng tính toán thế nào, hãy xem chi phí cho mỗi đứa trẻ. Năm 2015, chính phủ liên bang Mỹ ước tính một gia đình trung bình phải chi **233.610 USD** để nuôi một đứa trẻ tới 17 tuổi; tính cả học phí đại học thì con số gấp đôi.
+
+Guillén kể rằng trên máy tính xách tay của mình, ông có một bảng tính mọi thu nhập và chi phí gia đình mỗi năm. Ông sửng sốt khi thấy một gia đình trung bình ở Mỹ có thể phải chi hơn nửa triệu USD cho mỗi đứa con, nhất là khi con học một trường đại học đắt tiền. Ông làm một bảng tính khác với cùng các hạng mục nhưng bỏ hết chi phí liên quan tới con cái; kết quả là số tiền tiết kiệm được đủ để mua một chiếc xe hơi sang hoặc một ngôi nhà nghỉ bên bờ biển.
 
 ### 5. "Đại ca" chính phủ có thể tác động đến quyết định sinh con của chúng ta? (trang PDF 32–34)
 
-**Singapore và chuyến đi Bali.** Vài năm trước, chính phủ Singapore làm một thử nghiệm để xử lý một vấn đề đáng lo: các cặp vợ chồng ở quốc đảo nhỏ, giàu có này (khoảng ba phần tư dân số là người Hoa) đang hoãn sinh con để theo đuổi "5C": *cash, car, credit card, condominium, country club* (tiền mặt, xe hơi, thẻ tín dụng, căn hộ, và tư cách hội viên các câu lạc bộ danh tiếng). Nhà chức trách viết thư cho một nhóm các cặp chưa có con, giải thích rằng đất nước cần dân số trẻ để duy trì tăng trưởng kinh tế, và kèm một phần thưởng hấp dẫn: kỳ nghỉ miễn phí ở Bali để tạo "điều kiện" cho họ. Các cặp vợ chồng hăng hái nhận lời và đi nghỉ, nhưng không thực hiện phần sau của giao dịch: số em bé ra đời không đủ để làm yên lòng các quan chức. Chương trình thí điểm dừng lại sau chín tháng.
+**Singapore và chuyến đi Bali.** Vài năm trước, chính phủ Singapore làm một thử nghiệm để xử lý một vấn đề đáng lo: các cặp vợ chồng ở quốc đảo nhỏ, giàu có này (khoảng ba phần tư dân số là người Hoa) đang hoãn sinh con để theo đuổi "5C": *cash, car, credit card, condominium, country club* (tiền mặt, xe hơi, thẻ tín dụng, căn hộ, và tư cách hội viên các câu lạc bộ danh tiếng).
+
+Nhà chức trách viết thư cho một nhóm các cặp chưa có con, giải thích rằng đất nước cần dân số trẻ để duy trì tăng trưởng kinh tế, và kèm một phần thưởng hấp dẫn: kỳ nghỉ miễn phí ở Bali để tạo "điều kiện" cho họ. Các cặp vợ chồng hăng hái nhận lời và đi nghỉ, nhưng không thực hiện phần sau của giao dịch: số em bé ra đời không đủ để làm yên lòng các quan chức. Chương trình thí điểm dừng lại sau chín tháng.
 
 **Trung Quốc và chính sách một con.** Cộng hòa Nhân dân Trung Hoa cũng từng cố thay đổi xu hướng dân số bằng chính sách một con khắc nghiệt. Cuối thập niên 1970, trước một nền kinh tế tập thể lạc hậu, các nhà cải cách do Đặng Tiểu Bình đứng đầu kết luận rằng dân số tăng nhanh chỉ dẫn tới nghèo đói triền miên. Họ nghiên cứu lịch sử Trung Quốc và thấy:
 
@@ -850,9 +852,13 @@ Tác động lớn nhất của chính sách một con đang lộ ra ở thế h
 
 Báo chí thường đưa tin về thâm hụt thương mại, đánh cắp công nghệ hay gián điệp Trung Quốc đội lốt doanh nhân; một tiêu đề trên tạp chí *Fortune* năm 2019 viết rằng cứ năm công ty thì có một công ty nói Trung Quốc đã ăn cắp tài sản trí tuệ của mình. Dường như ai cũng nghĩ Trung Quốc đang tìm mọi cách vượt lên thành người khổng lồ toàn cầu.
 
-Rất ít chính trị gia hay nhà báo nhận ra rằng chính sách một con lại mang tới may mắn hiếm có cho **người tiêu dùng Mỹ**. Các nhà kinh tế có cách nghĩ đa chiều đã thấy mối liên hệ giữa tỷ lệ sinh và tiết kiệm. Chính sách một con, cộng với quan niệm thích con trai, dẫn tới mất cân bằng giới tính: nam nhiều hơn nữ khoảng 20%. Tạp chí *Economist* năm 2017 đặt tiêu đề rằng mất cân bằng giới tính ảnh hưởng nghiêm trọng tới hôn nhân ở Trung Quốc; *New York Times* viết về hàng triệu chàng trai cô đơn trong ngày Lễ Tình nhân. Các bậc cha mẹ nhảy vào cuộc. Sau khi phân tích kỹ số liệu tài sản, hai nhà kinh tế Shang-Jin Wei và Xiaobo Zhang kết luận rằng vì "thị trường cô dâu" cạnh tranh căng thẳng, các gia đình có con trai phải tiết kiệm nhiều hơn với hy vọng con dễ lấy vợ hơn; tỷ lệ nam giới tăng trong giai đoạn 1990–2007 giải thích tới 60% mức tăng tiết kiệm cùng kỳ. Hiện tượng này phổ biến tới mức ngoài hàng hóa, Trung Quốc còn xuất khẩu cả tiết kiệm thặng dư.
+Rất ít chính trị gia hay nhà báo nhận ra rằng chính sách một con lại mang tới may mắn hiếm có cho **người tiêu dùng Mỹ**. Các nhà kinh tế có cách nghĩ đa chiều đã thấy mối liên hệ giữa tỷ lệ sinh và tiết kiệm. Chính sách một con, cộng với quan niệm thích con trai, dẫn tới mất cân bằng giới tính: nam nhiều hơn nữ khoảng 20%. Tạp chí *Economist* năm 2017 đặt tiêu đề rằng mất cân bằng giới tính ảnh hưởng nghiêm trọng tới hôn nhân ở Trung Quốc; *New York Times* viết về hàng triệu chàng trai cô đơn trong ngày Lễ Tình nhân.
 
-Sức tiêu dùng mạnh của người Mỹ dựa vào nguồn tiết kiệm của các hộ gia đình. Theo Guillén, nếu không có mất cân bằng giới tính ở Trung Quốc làm tiết kiệm tăng cao, người Mỹ có lẽ đã phải trả lãi suất vay thế chấp và vay tiêu dùng cao hơn trong hai thập niên qua. Ông lấy ví dụ: nếu lãi suất trung bình của khoản vay mua nhà cố định 30 năm trong 20 năm qua là 6% thay vì 5%, khoản thanh toán hàng tháng sẽ tăng "khoảng 25%" và người ta còn ít tiền để mua sắm. (Theo phép tính minh hoạ của người tổng hợp, khoản trả hàng tháng tăng khoảng 12%; mức 24–25% là mức tăng của tổng tiền lãi cả kỳ hạn.) Ông chốt bằng một câu chơi chữ: giá nhà ở San Francisco chắc chắn có liên quan tới giá trà ở Trung Quốc.
+Các bậc cha mẹ nhảy vào cuộc. Sau khi phân tích kỹ số liệu tài sản, hai nhà kinh tế Shang-Jin Wei và Xiaobo Zhang kết luận rằng vì "thị trường cô dâu" cạnh tranh căng thẳng, các gia đình có con trai phải tiết kiệm nhiều hơn với hy vọng con dễ lấy vợ hơn; tỷ lệ nam giới tăng trong giai đoạn 1990–2007 giải thích tới 60% mức tăng tiết kiệm cùng kỳ. Hiện tượng này phổ biến tới mức ngoài hàng hóa, Trung Quốc còn xuất khẩu cả tiết kiệm thặng dư.
+
+Sức tiêu dùng mạnh của người Mỹ dựa vào nguồn tiết kiệm của các hộ gia đình. Theo Guillén, nếu không có mất cân bằng giới tính ở Trung Quốc làm tiết kiệm tăng cao, người Mỹ có lẽ đã phải trả lãi suất vay thế chấp và vay tiêu dùng cao hơn trong hai thập niên qua.
+
+Ông lấy ví dụ: nếu lãi suất trung bình của khoản vay mua nhà cố định 30 năm trong 20 năm qua là 6% thay vì 5%, khoản thanh toán hàng tháng sẽ tăng "khoảng 25%" và người ta còn ít tiền để mua sắm. (Theo phép tính minh hoạ của người tổng hợp, khoản trả hàng tháng tăng khoảng 12%; mức 24–25% là mức tăng của tổng tiền lãi cả kỳ hạn.) Ông chốt bằng một câu chơi chữ: giá nhà ở San Francisco chắc chắn có liên quan tới giá trà ở Trung Quốc.
 
 Mất cân bằng giới tính ở Trung Quốc còn ảnh hưởng tới chi tiêu trong nền kinh tế số, cụ thể là dịch vụ hẹn hò trực tuyến. Thị trường này có hàng trăm triệu khách hàng trên thế giới, doanh số khoảng 5 tỷ USD mỗi năm; người ta dùng nó để tìm người bạn đời, một mối quan hệ lãng mạn hay tình một đêm. Nhưng thói quen chi tiêu khác nhau rất xa giữa các nước:
 
@@ -865,7 +871,9 @@ Mất cân bằng giới tính ở Trung Quốc còn ảnh hưởng tới chi ti
 
 Sự chênh lệch dễ hiểu: đàn ông Trung Quốc chú trọng tìm vợ lâu dài thay vì tình một đêm, vì mất cân bằng giới tính tạo ra cuộc cạnh tranh gay gắt trên cả nước. Phụ nữ Trung Quốc cũng trở nên kén chọn hơn. Một nhóm nghiên cứu (David Ong và Jue Wang, theo nguồn của tác giả) tạo hồ sơ giả của nam và nữ trên trang hẹn hò lớn nhất Trung Quốc. Họ thấy đàn ông ở các mức thu nhập khác nhau xem hồ sơ phụ nữ ở mọi mức thu nhập với tỷ lệ tương đương; ngược lại, phụ nữ ở mọi mức thu nhập đều xem hồ sơ nam giới thu nhập cao với tỷ lệ rất cao, và hồ sơ nam thu nhập cao nhất được xem nhiều gấp 10 lần hồ sơ nam thu nhập thấp nhất.
 
-Ở các nước khác, mất cân bằng giới tính lại theo chiều ngược lại. Ở Nga, số nam thanh niên giảm vì nhiều người chết sớm, chủ yếu do uống rượu bia quá mức. Một số vùng Siberia thiếu trầm trọng đàn ông trong tuổi kết hôn, tới mức phụ nữ ở đó vận động chính phủ hợp pháp hóa chế độ đa thê. Theo nhà nhân chủng học Caroline Humphrey của Đại học Cambridge, phụ nữ Siberia ngày càng tin rằng "thà có [đàn ông] còn hơn không", vì hợp thức hóa đa thê sẽ giúp họ có một người đàn ông hỗ trợ sức lực và tài chính, con cái được thừa nhận hợp pháp, cùng các quyền lợi từ nhà nước. Guillén đùa rằng giải pháp lý tưởng là đổi đàn ông Trung Quốc lấy phụ nữ Nga; nhưng tiếc là mức mất cân bằng của Trung Quốc lớn gấp bảy lần của Nga vì dân số Trung Quốc lớn hơn rất nhiều, nên mới cần đến ứng dụng mai mối.
+Ở các nước khác, mất cân bằng giới tính lại theo chiều ngược lại. Ở Nga, số nam thanh niên giảm vì nhiều người chết sớm, chủ yếu do uống rượu bia quá mức. Một số vùng Siberia thiếu trầm trọng đàn ông trong tuổi kết hôn, tới mức phụ nữ ở đó vận động chính phủ hợp pháp hóa chế độ đa thê.
+
+Theo nhà nhân chủng học Caroline Humphrey của Đại học Cambridge, phụ nữ Siberia ngày càng tin rằng "thà có [đàn ông] còn hơn không", vì hợp thức hóa đa thê sẽ giúp họ có một người đàn ông hỗ trợ sức lực và tài chính, con cái được thừa nhận hợp pháp, cùng các quyền lợi từ nhà nước. Guillén đùa rằng giải pháp lý tưởng là đổi đàn ông Trung Quốc lấy phụ nữ Nga; nhưng tiếc là mức mất cân bằng của Trung Quốc lớn gấp bảy lần của Nga vì dân số Trung Quốc lớn hơn rất nhiều, nên mới cần đến ứng dụng mai mối.
 
 ### 7. Gương mặt mới: bùng nổ trẻ em châu Phi (trang PDF 38–41)
 
@@ -873,7 +881,9 @@ Trong khi dân số châu Âu, châu Mỹ và Đông Á đang giảm (lời củ
 
 Có người cho rằng chiến tranh hoặc dịch bệnh có thể làm thay đổi hướng đi này. Guillén chỉ ra rằng cuộc xung đột gây nhiều cái chết nhất lịch sử, Thế chiến thứ II, cướp đi 50–80 triệu mạng người nhưng chẳng ảnh hưởng bao nhiêu tới châu Phi. Đại dịch AIDS tới nay làm 36 triệu người chết trên toàn cầu, hai phần ba ở châu Phi, nặng nhất ở Nam Phi, Nigeria, Tanzania, Ethiopia, Kenya, Mozambique, Uganda và Zimbabwe. Vậy mà trên Hình 3, đường dân số châu Phi hầu như không đổi hướng ngay cả ở đỉnh dịch trong thập niên 1980–1990. Chỉ một cuộc chiến tranh lớn hay một đại dịch cướp đi hàng trăm triệu mạng người mới ảnh hưởng đáng kể tới tăng trưởng dân số của lục địa này so với phần còn lại của thế giới.
 
-**Châu Phi có đủ chỗ không?** Guillén cho rằng có. Bản đồ thế giới trong sách giáo khoa không cho thấy đúng kích thước, mà phóng to Bắc bán cầu. Ông đưa ra Hình 4: một bản đồ châu Phi, bên trong đường viền của lục địa được xếp vừa các nước Mỹ, Trung Quốc (chia hai phần), Ấn Độ (chia hai phần), Tây Ban Nha, Bồ Đào Nha, Pháp, Bỉ, Hà Lan, Đức, Thụy Sỹ, Ý, khối Đông Âu, Vương quốc Anh và Nhật Bản. Tức là diện tích châu Phi tương đương tổng diện tích của Trung Quốc, Ấn Độ, Tây và Đông Âu, Mỹ và Nhật Bản cộng lại. Đó là chưa kể châu Phi có những vùng sa mạc rộng không người ở, nhưng các nước kia (trừ Nhật Bản) cũng có sa mạc; ngay châu Âu cũng có, và bộ phim *Lawrence xứ Ả Rập* được quay chủ yếu ở miền nam Tây Ban Nha chứ không phải ở bán đảo Ả Rập. Ngoài sa mạc, châu Phi còn có diện tích đất nông nghiệp màu mỡ nhất hành tinh, dù chưa được khai thác. Các nước xếp trong bản đồ có tổng dân số hơn 3,5 tỷ, còn châu Phi hiện có 1,3 tỷ người; mật độ dân số tính trên mỗi dặm vuông ở châu Á cao gấp ba và ở châu Âu cao gấp bốn châu Phi.
+**Châu Phi có đủ chỗ không?** Guillén cho rằng có. Bản đồ thế giới trong sách giáo khoa không cho thấy đúng kích thước, mà phóng to Bắc bán cầu. Ông đưa ra Hình 4: một bản đồ châu Phi, bên trong đường viền của lục địa được xếp vừa các nước Mỹ, Trung Quốc (chia hai phần), Ấn Độ (chia hai phần), Tây Ban Nha, Bồ Đào Nha, Pháp, Bỉ, Hà Lan, Đức, Thụy Sỹ, Ý, khối Đông Âu, Vương quốc Anh và Nhật Bản. Tức là diện tích châu Phi tương đương tổng diện tích của Trung Quốc, Ấn Độ, Tây và Đông Âu, Mỹ và Nhật Bản cộng lại.
+
+Đó là chưa kể châu Phi có những vùng sa mạc rộng không người ở, nhưng các nước kia (trừ Nhật Bản) cũng có sa mạc; ngay châu Âu cũng có, và bộ phim *Lawrence xứ Ả Rập* được quay chủ yếu ở miền nam Tây Ban Nha chứ không phải ở bán đảo Ả Rập. Ngoài sa mạc, châu Phi còn có diện tích đất nông nghiệp màu mỡ nhất hành tinh, dù chưa được khai thác. Các nước xếp trong bản đồ có tổng dân số hơn 3,5 tỷ, còn châu Phi hiện có 1,3 tỷ người; mật độ dân số tính trên mỗi dặm vuông ở châu Á cao gấp ba và ở châu Âu cao gấp bốn châu Phi.
 
 **Những vấn đề hóc búa.** Dân số tăng cũng đặt ra những vấn đề khó. Châu Phi là điểm nóng xung đột tôn giáo và sắc tộc. Nhiều thập niên nội chiến trong thời Chiến tranh Lạnh đã phá hủy hạ tầng; các thể chế chính trị và xã hội, từ bộ máy nhà nước tới luật dân sự, bị tổn hại nặng hoặc không có điều kiện phát triển, khiến nhà nước thất bại. Khoảng một nửa trong 54 quốc gia có chủ quyền ở châu Phi đang chìm trong hỗn loạn chính trị, vô chính phủ và vô luật pháp. Nhiều người ở nông thôn chạy trốn xung đột và bạo lực lên thành phố hoặc ra nước ngoài, chủ yếu sang châu Âu, vừa nguy hiểm cho chính họ vừa kìm hãm phát triển kinh tế.
 
@@ -881,11 +891,17 @@ Dù vậy, Guillén cho rằng tiềm năng từ dân số đang tăng của ch�
 
 ### 8. Lương thực cho dân số châu Phi - Một cơ hội lớn (trang PDF 42–45)
 
-Nhiều người nghĩ cơ hội kinh doanh lớn nhất nằm ở các nền tảng và ứng dụng công nghệ. Guillén đề nghị nhìn sự tăng dân số châu Phi từ một góc khác. Theo Ngân hàng Thế giới, nông nghiệp châu Phi sẽ trở thành một lĩnh vực trị giá **1.000 tỷ USD vào năm 2030**, một mỏ vàng có thể làm thay đổi cả nền kinh tế thế giới. Tương lai của trẻ em châu Phi, phần lớn sinh ra ở nông thôn, gắn với quá trình chuyển đổi này. Dù có diện tích rất lớn và nguồn nước dồi dào, châu Phi hiện vẫn nhập siêu lương thực. Lâu nay kinh tế các nước châu Phi dựa vào các ngành khai thác như ca cao, dầu mỏ và khoáng sản; nhưng trong tương lai gần, châu Phi sẽ phát triển chủ yếu nhờ nông nghiệp, các ngành sản xuất liên quan và dịch vụ cung cấp thực phẩm cho dân số ngày càng đông. Nông nghiệp châu Phi có hai thách thức: đưa vào canh tác 500 triệu mẫu Anh đất (khoảng bằng diện tích Mexico), và nâng năng suất trên diện rộng.
+Nhiều người nghĩ cơ hội kinh doanh lớn nhất nằm ở các nền tảng và ứng dụng công nghệ. Guillén đề nghị nhìn sự tăng dân số châu Phi từ một góc khác. Theo Ngân hàng Thế giới, nông nghiệp châu Phi sẽ trở thành một lĩnh vực trị giá **1.000 tỷ USD vào năm 2030**, một mỏ vàng có thể làm thay đổi cả nền kinh tế thế giới. Tương lai của trẻ em châu Phi, phần lớn sinh ra ở nông thôn, gắn với quá trình chuyển đổi này.
 
-Guillén cho rằng châu Phi sắp trải qua một **cuộc cách mạng kép về nông nghiệp và công nghiệp**, như châu Âu, châu Mỹ và Đông Á đã trải qua ở các thế kỷ trước. Chuỗi lợi ích diễn ra như sau: nông dân cần đầu vào tốt hơn như hạt giống và phân bón để tăng năng suất và sống khá hơn; từ đó xuất hiện các việc làm hỗ trợ ở nông thôn như sửa máy kéo và thiết bị; khi sản lượng vượt mức đủ ăn, phần thặng dư được chuyển tới các thành phố đang lớn lên, giúp giảm nhập khẩu thực phẩm; việc chuyển từ thực phẩm thô sang thực phẩm chế biến như bánh ngọt hay trái cây đóng hộp sẽ tạo việc làm cho hàng chục triệu người, kéo theo ngành chế biến và các dịch vụ phân phối, buôn bán cho dân thành thị.
+Dù có diện tích rất lớn và nguồn nước dồi dào, châu Phi hiện vẫn nhập siêu lương thực. Lâu nay kinh tế các nước châu Phi dựa vào các ngành khai thác như ca cao, dầu mỏ và khoáng sản; nhưng trong tương lai gần, châu Phi sẽ phát triển chủ yếu nhờ nông nghiệp, các ngành sản xuất liên quan và dịch vụ cung cấp thực phẩm cho dân số ngày càng đông. Nông nghiệp châu Phi có hai thách thức: đưa vào canh tác 500 triệu mẫu Anh đất (khoảng bằng diện tích Mexico), và nâng năng suất trên diện rộng.
 
-Nhiều tổ chức và công ty đang đưa sáng kiến mới vào nông nghiệp châu Phi. Quỹ Công nghệ Nông nghiệp châu Phi hướng dẫn nông dân cách kiểm tra chất lượng đất và chọn hạt giống. Một nhân viên thực địa của Quỹ kể rằng một số nông dân coi thường lời khuyên chuẩn bị đất tốt, dùng giống phù hợp và bón phân để có thể thu hoạch gấp mười lần, vì đó là chuyện họ chưa nghe bao giờ. Nhưng hãy xem trường hợp Samuel Owiti Awino. Trang trại của ông ở vùng hồ Victoria, Kenya, luôn chịu mưa thất thường và cỏ dại. Ông tuyệt vọng thử mọi cách để thu hoạch đủ nuôi gia đình và bán được chút ít ra chợ. Ông ví mình như người bị bệnh mà không biết bệnh gì, đành "vái tứ phương" mong may ra có thuốc, và đã trồng trọt như thế một thời gian dài. Vì vậy Awino rất sửng sốt khi ruộng ngô thử nghiệm cho năng suất gấp đôi ruộng ngô tốt nhất của ông.
+Guillén cho rằng châu Phi sắp trải qua một **cuộc cách mạng kép về nông nghiệp và công nghiệp**, như châu Âu, châu Mỹ và Đông Á đã trải qua ở các thế kỷ trước.
+
+Chuỗi lợi ích diễn ra như sau: nông dân cần đầu vào tốt hơn như hạt giống và phân bón để tăng năng suất và sống khá hơn; từ đó xuất hiện các việc làm hỗ trợ ở nông thôn như sửa máy kéo và thiết bị; khi sản lượng vượt mức đủ ăn, phần thặng dư được chuyển tới các thành phố đang lớn lên, giúp giảm nhập khẩu thực phẩm; việc chuyển từ thực phẩm thô sang thực phẩm chế biến như bánh ngọt hay trái cây đóng hộp sẽ tạo việc làm cho hàng chục triệu người, kéo theo ngành chế biến và các dịch vụ phân phối, buôn bán cho dân thành thị.
+
+Nhiều tổ chức và công ty đang đưa sáng kiến mới vào nông nghiệp châu Phi. Quỹ Công nghệ Nông nghiệp châu Phi hướng dẫn nông dân cách kiểm tra chất lượng đất và chọn hạt giống. Một nhân viên thực địa của Quỹ kể rằng một số nông dân coi thường lời khuyên chuẩn bị đất tốt, dùng giống phù hợp và bón phân để có thể thu hoạch gấp mười lần, vì đó là chuyện họ chưa nghe bao giờ.
+
+Nhưng hãy xem trường hợp Samuel Owiti Awino. Trang trại của ông ở vùng hồ Victoria, Kenya, luôn chịu mưa thất thường và cỏ dại. Ông tuyệt vọng thử mọi cách để thu hoạch đủ nuôi gia đình và bán được chút ít ra chợ. Ông ví mình như người bị bệnh mà không biết bệnh gì, đành "vái tứ phương" mong may ra có thuốc, và đã trồng trọt như thế một thời gian dài. Vì vậy Awino rất sửng sốt khi ruộng ngô thử nghiệm cho năng suất gấp đôi ruộng ngô tốt nhất của ông.
 
 Trái với những lời chê về "bùng nổ dân số", dân số tăng có thể là động lực phát triển nông nghiệp châu Phi, tạo việc làm và thúc đẩy các hoạt động kinh tế liên quan, không chỉ ở châu Phi mà ở nơi khác. Cải tiến trong xử lý đất, thủy lợi và phân phối có thể đem lại lợi ích lớn. Con đường tương lai của châu Phi phụ thuộc vào việc biến những nông dân chỉ canh tác đủ sống như Awino thành những nhà nông giỏi.
 
@@ -900,13 +916,17 @@ Trái với những lời chê về "bùng nổ dân số", dân số tăng có 
 
 Để hiện thực hóa tiềm năng này cần chuyên môn và thiết bị. Ở miền trung Zambia, chị Celestina Mumba dành nhiều thời gian dạy nông dân trồng khoai mì cách tăng năng suất bằng những kỹ thuật đơn giản như chọn giống và chia luống; chị đã thành chuyên gia và nay dành gần hết thời gian giúp các nông dân khác áp dụng những phương pháp tốt nhất. Cách đó hơn 2.000 km, ở Nigeria, mục sư Felix Afolabi lập công ty Afolabi Agro Divine Ventures để hướng dẫn nông dân trẻ trồng khoai mì, đồng thời mua dụng cụ cày bừa, máy tưới, máy trồng, máy đào gốc, máy kéo và máy ủi để trang bị cho nông nghiệp Nigeria. Guillén gọi những doanh nhân – nông dân như Mumba và Afolabi là người tiên phong của cuộc cách mạng nông nghiệp – công nghiệp châu Phi.
 
-Bên cạnh nguồn nhân lực, công nghệ và tài chính trong nước, các công ty nước ngoài và tổ chức phi lợi nhuận cũng góp phần. Khoai mì chứa nhiều nước nên phải được xử lý trong vòng 24–48 giờ sau khi thu hoạch, vì vậy thiết bị chế biến phải ở gần nơi trồng. Công ty Thương mại và Phát triển Nông nghiệp Hà Lan (DADTCO), một doanh nghiệp xã hội nhắm tới hỗ trợ hộ nghèo, cung cấp cho các trang trại nhỏ những chiếc xe tải chở máy chế biến, máy lọc và máy sấy, đi từ làng này sang làng khác; chỉ cần đặt thiết bị di động này xuống là có thể bắt đầu thu hoạch. Chẳng bao lâu, nông dân và doanh nhân địa phương đã tự dùng các nguồn lực này để chế biến thực phẩm. Trong tương lai gần, việc mở rộng sản xuất khoai mì có thể tạo việc làm cho số trẻ em nông thôn hôm nay.
+Bên cạnh nguồn nhân lực, công nghệ và tài chính trong nước, các công ty nước ngoài và tổ chức phi lợi nhuận cũng góp phần. Khoai mì chứa nhiều nước nên phải được xử lý trong vòng 24–48 giờ sau khi thu hoạch, vì vậy thiết bị chế biến phải ở gần nơi trồng.
+
+Công ty Thương mại và Phát triển Nông nghiệp Hà Lan (DADTCO), một doanh nghiệp xã hội nhắm tới hỗ trợ hộ nghèo, cung cấp cho các trang trại nhỏ những chiếc xe tải chở máy chế biến, máy lọc và máy sấy, đi từ làng này sang làng khác; chỉ cần đặt thiết bị di động này xuống là có thể bắt đầu thu hoạch. Chẳng bao lâu, nông dân và doanh nhân địa phương đã tự dùng các nguồn lực này để chế biến thực phẩm. Trong tương lai gần, việc mở rộng sản xuất khoai mì có thể tạo việc làm cho số trẻ em nông thôn hôm nay.
 
 Guillén còn hình dung châu Phi thành một thế lực trong ngành bia toàn cầu. Một số công ty lớn nhất thế giới như SABMiller và Diageo đang tìm nguồn khoai mì để nấu bia, vừa giảm chi phí sản xuất vừa giúp châu Phi bớt phụ thuộc vào nguyên liệu nhập khẩu đắt đỏ. Nếu bia từ khoai mì tỏ ra rẻ và thân thiện với môi trường, bia châu Phi sẽ sớm xuất hiện ở các quán với giá khó bỏ qua. Ông đùa: "Hãy cẩn thận đấy, Anheuser-Busch!" (Anheuser-Busch là một công ty bia lớn của Mỹ, theo chú thích của dịch giả.)
 
 ### 9. Trảng cỏ Silicon (trang PDF 46–47)
 
-Bên cạnh cuộc cách mạng nông nghiệp – công nghiệp sắp tới, châu Phi đã nhảy vọt trong thế kỷ 21 về công nghệ di động viễn thông, nhanh hơn bất kỳ ai, và điều đó đã thay đổi đời sống trên khắp lục địa. Báo *Irish Times* kể chuyện chị Naomi Wanjiru Nganga, sống ở khu ổ chuột Korogocho của Nairobi. Chị mới 34 tuổi nhưng sức khỏe đã yếu, nuôi bốn con bằng nghề nhặt ve chai đem bán. Món đồ công nghệ duy nhất của chị là một chiếc điện thoại di động đơn giản, dùng để liên lạc và để chuyển, nhận tiền, kể cả khoản trợ cấp hàng tháng từ một tổ chức từ thiện (bản dịch ghi tên là "Alien"). Mạng di động đem lại cho chị rất nhiều lợi ích. Một thập niên trước, Kenya đã làm thế giới ngạc nhiên khi đi đầu về thanh toán di động, với ba phần tư dân số dùng thường xuyên. Không lạ khi Nairobi nay được gọi là "Trảng cỏ Silicon" (Silicon Savannah). Guillén nói đó là lý do ông cho rằng muốn nhìn thấy thế giới năm 2030 thì phải tới châu Phi.
+Bên cạnh cuộc cách mạng nông nghiệp – công nghiệp sắp tới, châu Phi đã nhảy vọt trong thế kỷ 21 về công nghệ di động viễn thông, nhanh hơn bất kỳ ai, và điều đó đã thay đổi đời sống trên khắp lục địa. Báo *Irish Times* kể chuyện chị Naomi Wanjiru Nganga, sống ở khu ổ chuột Korogocho của Nairobi. Chị mới 34 tuổi nhưng sức khỏe đã yếu, nuôi bốn con bằng nghề nhặt ve chai đem bán. Món đồ công nghệ duy nhất của chị là một chiếc điện thoại di động đơn giản, dùng để liên lạc và để chuyển, nhận tiền, kể cả khoản trợ cấp hàng tháng từ một tổ chức từ thiện (bản dịch ghi tên là "Alien"). Mạng di động đem lại cho chị rất nhiều lợi ích.
+
+Một thập niên trước, Kenya đã làm thế giới ngạc nhiên khi đi đầu về thanh toán di động, với ba phần tư dân số dùng thường xuyên. Không lạ khi Nairobi nay được gọi là "Trảng cỏ Silicon" (Silicon Savannah). Guillén nói đó là lý do ông cho rằng muốn nhìn thấy thế giới năm 2030 thì phải tới châu Phi.
 
 Công nghệ di động đặc biệt hữu ích trong y tế. Ở Kenya, đa số người nông thôn phải đi xe buýt ít nhất một giờ mới tới được phòng khám hay cơ sở y tế. Để rút ngắn khoảng cách, nhiều dịch vụ di động đã được triển khai: đường dây nóng y tế, công cụ chẩn đoán sớm, truyền thông sức khỏe, nhắc uống thuốc và theo dõi bệnh nhân. Nay 90% dân số Kenya có điện thoại di động. Hồ sơ thuê bao điện thoại ở Kenya thực tế còn đầy đủ hơn dữ liệu điều tra dân số, và các cơ quan chính phủ đã dùng dữ liệu điện thoại di động, thay vì danh sách nhân viên hay học sinh, để lập kế hoạch và xác định phạm vi chính sách y tế.
 
@@ -914,9 +934,13 @@ Như nhiều nước giàu và nghèo khác, Kenya thiếu nhân lực y tế gi
 
 ### 10. Lo lắng và bức xúc về vấn đề di cư (trang PDF 48–51)
 
-Đến năm 2030, dân số thế giới sẽ phân bố rất khác hiện nay, tập trung nhiều hơn ở châu Phi và Nam Á. Số người di cư giữa các nước có thể lên xuống, nhưng lý do thì không đổi: người ta di cư khi số trẻ em chênh lệch quá lớn giữa các vùng, hoặc khi có khủng hoảng như nội chiến, bất ổn chính trị, nạn đói, kinh tế khẩn cấp hay thiên tai. Gần đây, di cư quốc tế bị coi như một "cơn lũ" cần ngăn lại: các nhà lãnh đạo kêu gọi xây tường biên giới; các nước rút khỏi các hiệp định thương mại và các tổ chức kinh tế, chính trị như Liên minh châu Âu; người dân xuống đường với khẩu hiệu bài nhập cư. Guillén đặt câu hỏi: nếu nỗi sợ người nhập cư cướp việc làm và tiêu tốn ngân sách là sai lầm và thiển cận thì sao?
+Đến năm 2030, dân số thế giới sẽ phân bố rất khác hiện nay, tập trung nhiều hơn ở châu Phi và Nam Á. Số người di cư giữa các nước có thể lên xuống, nhưng lý do thì không đổi: người ta di cư khi số trẻ em chênh lệch quá lớn giữa các vùng, hoặc khi có khủng hoảng như nội chiến, bất ổn chính trị, nạn đói, kinh tế khẩn cấp hay thiên tai.
 
-**Người nhập cư có cướp việc không?** Nhiều người nghĩ người nhập cư chiếm mất việc tốt của công nhân nhà máy. Nhưng theo kết luận của Viện Hàn lâm Khoa học, Kỹ thuật và Y học Quốc gia Mỹ trong một số báo cáo quan trọng, đa số người nhập cư không cạnh tranh việc làm với người bản xứ. Lý do là phần lớn người di cư có kỹ năng rất cao hoặc rất thấp, nên khó tìm việc tốt ở quê. Ngược lại, đồng hương của họ có kỹ năng bậc trung, như thợ máy hay công nhân lành nghề, có nhiều cơ hội ở quê nên ít muốn đi. Ở các nước phát triển như Mỹ, Nhật Bản và châu Âu vẫn còn rất nhiều việc kỹ năng thấp, nhất là trong nông nghiệp và dịch vụ phục vụ người lao động có tay nghề cao. Trong khi đó, phần lớn các vụ mất việc rơi vào công nhân kỹ năng bậc trung trong ngành sản xuất, vì công việc của họ tương đối đơn giản và tự động hóa rẻ hơn: chi phí tự động hóa thấp hơn tiền lương và máy móc làm được các việc tương đối dễ (Chương 6 sẽ bàn). Vì vậy, theo Guillén, nỗi lo và cơn giận vì mất việc nên nhắm vào đổi mới công nghệ, không phải vào người nhập cư.
+Gần đây, di cư quốc tế bị coi như một "cơn lũ" cần ngăn lại: các nhà lãnh đạo kêu gọi xây tường biên giới; các nước rút khỏi các hiệp định thương mại và các tổ chức kinh tế, chính trị như Liên minh châu Âu; người dân xuống đường với khẩu hiệu bài nhập cư. Guillén đặt câu hỏi: nếu nỗi sợ người nhập cư cướp việc làm và tiêu tốn ngân sách là sai lầm và thiển cận thì sao?
+
+**Người nhập cư có cướp việc không?** Nhiều người nghĩ người nhập cư chiếm mất việc tốt của công nhân nhà máy. Nhưng theo kết luận của Viện Hàn lâm Khoa học, Kỹ thuật và Y học Quốc gia Mỹ trong một số báo cáo quan trọng, đa số người nhập cư không cạnh tranh việc làm với người bản xứ. Lý do là phần lớn người di cư có kỹ năng rất cao hoặc rất thấp, nên khó tìm việc tốt ở quê. Ngược lại, đồng hương của họ có kỹ năng bậc trung, như thợ máy hay công nhân lành nghề, có nhiều cơ hội ở quê nên ít muốn đi.
+
+Ở các nước phát triển như Mỹ, Nhật Bản và châu Âu vẫn còn rất nhiều việc kỹ năng thấp, nhất là trong nông nghiệp và dịch vụ phục vụ người lao động có tay nghề cao. Trong khi đó, phần lớn các vụ mất việc rơi vào công nhân kỹ năng bậc trung trong ngành sản xuất, vì công việc của họ tương đối đơn giản và tự động hóa rẻ hơn: chi phí tự động hóa thấp hơn tiền lương và máy móc làm được các việc tương đối dễ (Chương 6 sẽ bàn). Vì vậy, theo Guillén, nỗi lo và cơn giận vì mất việc nên nhắm vào đổi mới công nghệ, không phải vào người nhập cư.
 
 Britta Glennon, đồng nghiệp của Guillén ở Trường Wharton, phát hiện rằng hạn chế thị thực cho các nhà khoa học và kỹ sư lại gây hại cho việc làm ở Mỹ, vì các công ty phải chuyển phòng nghiên cứu và phát triển (R&D) ra nước ngoài để tiếp cận nhân tài. Bên hưởng lợi lớn nhất từ chính sách siết nhập cư là Trung Quốc, Ấn Độ và Canada, nơi các hoạt động R&D chuyển tới.
 
@@ -934,7 +958,9 @@ Trong khi đó, Cục Điều tra Dân số Mỹ cho biết số việc quản l
 
 **Di cư thay thế.** Dòng người nhập cư sẽ giúp khắc phục những vấn đề của dân số già; Liên Hợp Quốc gọi đó là "di cư thay thế". Dữ liệu của Cục Thống kê Lao động Mỹ cho thấy khi Thế hệ bùng nổ dân số (chú thích của dịch giả ghi là những người sinh trong khoảng 1944–1964; mốc thường dùng ở Mỹ là 1946–1964, theo hiểu biết của người tổng hợp) nghỉ hưu, kinh tế Mỹ sẽ cần thêm người nhập cư cho hàng chục nghề, từ trợ lý y tá, chăm sóc y tế tại nhà, tới công nhân xây dựng, đầu bếp và nhân viên phát triển phần mềm. Đến năm 2030, hơn một nửa số việc này và một số việc khác ở Mỹ sẽ do lao động sinh ra ở nước ngoài đảm nhiệm.
 
-**Tiền lương.** Một cách khác để kiểm tra là xem thu nhập: nếu người nhập cư cạnh tranh cùng loại việc thì lương của người bản xứ phải giảm. Sau khi phân tích kỹ bằng chứng, Viện Hàn lâm Khoa học, Kỹ thuật và Y học Quốc gia Mỹ kết luận rằng tác động của nhập cư lên lương nói chung của người bản xứ "rất nhỏ và gần như bằng không". Quan trọng hơn, đa số nghiên cứu cho thấy tác động tiêu cực đối với các nhóm thiệt thòi (như người dân tộc thiểu số) và đối với những người nhập cư đến trước lớn hơn so với người bản xứ nói chung. Điều này có thể giải thích một nghịch lý: một tỷ lệ đáng kể người mới nhập cư vào châu Âu và Mỹ lại bỏ phiếu cho các ứng viên chống nhập cư. Nhóm người bản xứ chịu tác động lớn nhất là những người bỏ học trung học, nên họ thường ủng hộ kiểm soát nhập cư chặt hơn, một vấn đề lớn trong các cuộc bầu cử hiện nay.
+**Tiền lương.** Một cách khác để kiểm tra là xem thu nhập: nếu người nhập cư cạnh tranh cùng loại việc thì lương của người bản xứ phải giảm. Sau khi phân tích kỹ bằng chứng, Viện Hàn lâm Khoa học, Kỹ thuật và Y học Quốc gia Mỹ kết luận rằng tác động của nhập cư lên lương nói chung của người bản xứ "rất nhỏ và gần như bằng không".
+
+Quan trọng hơn, đa số nghiên cứu cho thấy tác động tiêu cực đối với các nhóm thiệt thòi (như người dân tộc thiểu số) và đối với những người nhập cư đến trước lớn hơn so với người bản xứ nói chung. Điều này có thể giải thích một nghịch lý: một tỷ lệ đáng kể người mới nhập cư vào châu Âu và Mỹ lại bỏ phiếu cho các ứng viên chống nhập cư. Nhóm người bản xứ chịu tác động lớn nhất là những người bỏ học trung học, nên họ thường ủng hộ kiểm soát nhập cư chặt hơn, một vấn đề lớn trong các cuộc bầu cử hiện nay.
 
 **Người nhập cư có tốn ngân sách không?** Dù không cạnh tranh việc làm, người nhập cư vẫn có thể gây thiệt hại cho nước tiếp nhận nếu họ hưởng dịch vụ phúc lợi nhiều không tương xứng. Thực tế, ở châu Âu và Mỹ, người nhập cư bị ác cảm chủ yếu vì bị coi là gánh nặng tài chính. Bằng chứng một lần nữa cho thấy điều ngược lại:
 
@@ -947,7 +973,9 @@ Trong khi đó, Cục Điều tra Dân số Mỹ cho biết số việc quản l
 
 ### 11. Người nhập cư không giành mất việc mà *tạo ra* công việc (trang PDF 52–54)
 
-Google, Intel, eBay, Facebook, LinkedIn và Tesla có hai điểm chung: đều là các công ty làm thay đổi kinh tế Mỹ, và đều do người nhập cư sáng lập hoặc đồng sáng lập. Theo Quỹ Kauffman và Viện Kinh tế Hội đồng Vùng Vịnh, khoảng 23% công ty công nghệ cao ở Mỹ do người nhập cư thành lập; tỷ lệ này cao hơn nhiều ở một số bang: 40% ở California, 42% ở Massachusetts và 45% ở New Jersey. Theo Quỹ Chính sách Quốc gia Mỹ (một tổ chức nghiên cứu độc lập), tính đến năm 2016 người nhập cư đã sáng lập 44 trong số 87 "kỳ lân" của Mỹ, tức các công ty tư nhân trị giá từ 1 tỷ USD trở lên. 23 trong số 44 nhà sáng lập ấy ban đầu tới Mỹ để học đại học hoặc sau đại học, chủ yếu từ Ấn Độ, Canada, Vương quốc Anh, Đức và Israel.
+Google, Intel, eBay, Facebook, LinkedIn và Tesla có hai điểm chung: đều là các công ty làm thay đổi kinh tế Mỹ, và đều do người nhập cư sáng lập hoặc đồng sáng lập. Theo Quỹ Kauffman và Viện Kinh tế Hội đồng Vùng Vịnh, khoảng 23% công ty công nghệ cao ở Mỹ do người nhập cư thành lập; tỷ lệ này cao hơn nhiều ở một số bang: 40% ở California, 42% ở Massachusetts và 45% ở New Jersey.
+
+Theo Quỹ Chính sách Quốc gia Mỹ (một tổ chức nghiên cứu độc lập), tính đến năm 2016 người nhập cư đã sáng lập 44 trong số 87 "kỳ lân" của Mỹ, tức các công ty tư nhân trị giá từ 1 tỷ USD trở lên. 23 trong số 44 nhà sáng lập ấy ban đầu tới Mỹ để học đại học hoặc sau đại học, chủ yếu từ Ấn Độ, Canada, Vương quốc Anh, Đức và Israel.
 
 David Hindawi là một ví dụ. Ông sinh ở Baghdad năm 1944 trong một gia đình Do Thái gốc Iraq. Năm 1951 cha mẹ đưa ông tới Israel, nơi ông phục vụ trong không quân. Năm 1970 ông sang Mỹ học tiến sĩ ở Đại học California tại Berkeley. Năm 2007, ông cùng con trai Orion sáng lập Tanium, một công ty an ninh mạng sau này phát triển mạnh, với 500 nhân viên.
 
@@ -966,25 +994,41 @@ Lý do chính là nhiều người nhập cư đã được đào tạo về y t
 
 Một thước đo khác là giải Nobel khoa học. Trong 85 công dân Mỹ đoạt giải hóa học, vật lý, sinh lý học và y học từ năm 2000, có 33 người sinh ra ở nước ngoài, gần 40%. Nếu Mỹ muốn giữ vị thế quốc gia đổi mới nhất thế giới trong một nền kinh tế tri thức không ngừng phát triển, nước này cần ghi nhận vai trò của người nhập cư.
 
-Trong báo cáo năm 1997, Viện Hàn lâm Quốc gia kết luận rằng nhìn chung tác động của người nhập cư lên kinh tế Mỹ là tích cực. Báo cáo năm 2017 viết rằng nếu không có người nhập cư, GDP của Mỹ rõ ràng sẽ thấp hơn nhiều, và có lẽ GDP bình quân đầu người cũng vậy, phần lớn vì Mỹ sẽ có dân số già hơn với tỷ lệ người trong tuổi lao động thấp hơn đáng kể. Nhờ người nhập cư, giá các dịch vụ chăm sóc trẻ, chế biến thức ăn, dọn dẹp, sửa chữa và xây nhà có xu hướng giảm. Báo cáo cũng nhắc tới nhu cầu nhà ở của người nhập cư và con cháu họ, trong khi thị trường bất động sản rất quan trọng với kinh tế Mỹ. Guillén nói khó hình dung các gia đình trung lưu Mỹ có cả bố lẫn mẹ đi làm sẽ xoay xở ra sao nếu không có người nhập cư giúp trông con. Đến năm 2030, kinh tế Mỹ sẽ còn được thúc đẩy nhiều hơn bởi sự năng động của người nhập cư, nếu "những kẻ xây biên giới" không can thiệp.
+Trong báo cáo năm 1997, Viện Hàn lâm Quốc gia kết luận rằng nhìn chung tác động của người nhập cư lên kinh tế Mỹ là tích cực. Báo cáo năm 2017 viết rằng nếu không có người nhập cư, GDP của Mỹ rõ ràng sẽ thấp hơn nhiều, và có lẽ GDP bình quân đầu người cũng vậy, phần lớn vì Mỹ sẽ có dân số già hơn với tỷ lệ người trong tuổi lao động thấp hơn đáng kể.
+
+Nhờ người nhập cư, giá các dịch vụ chăm sóc trẻ, chế biến thức ăn, dọn dẹp, sửa chữa và xây nhà có xu hướng giảm. Báo cáo cũng nhắc tới nhu cầu nhà ở của người nhập cư và con cháu họ, trong khi thị trường bất động sản rất quan trọng với kinh tế Mỹ. Guillén nói khó hình dung các gia đình trung lưu Mỹ có cả bố lẫn mẹ đi làm sẽ xoay xở ra sao nếu không có người nhập cư giúp trông con. Đến năm 2030, kinh tế Mỹ sẽ còn được thúc đẩy nhiều hơn bởi sự năng động của người nhập cư, nếu "những kẻ xây biên giới" không can thiệp.
 
 ### 12. Thiên kiến về người nhập cư (trang PDF 55–57)
 
 Vấn đề nhập cư luôn gây tranh cãi vì ta thường chú ý tới mặt xấu hơn mặt tốt. Hai nhà tâm lý học Amos Tversky và Daniel Kahneman cho rằng con người ra quyết định sai trong nhiều mặt đời sống vì bị **tâm lý ác cảm với mất mát** chi phối. Qua nhiều thí nghiệm, họ kết luận người ta cố tránh thiệt hại hơn là cố đạt lợi ích: hầu hết mọi người quan tâm tới việc không mất 10 USD hơn là việc có thêm 10 USD.
 
-Trong luận văn thạc sĩ ở Đại học Bergen, nhà kinh tế học hành vi người Na Uy Thea Wiig làm một thí nghiệm: cho người tham gia xem số liệu về việc làm của người nhập cư (cho thấy lợi ích xã hội tiềm năng) và về tác động của nhập cư lên các chương trình phúc lợi (cho thấy thiệt hại tiềm ẩn). Cô thấy "phần tổn thất lấn át phần lợi ích" trong đầu mọi người, dẫn tới thái độ tiêu cực với người nhập cư; mọi người rất dễ có ác cảm khi chi phí của nhập cư được nhấn mạnh. Chẳng hạn, khi biết tỷ lệ có việc làm của người nhập cư ở Na Uy là 60%, một số người cổ xúy siết chặt chính sách nhập cư. Nghiên cứu cho thấy thiên kiến về người nhập cư, và kéo theo là chính sách, có thể bị thay đổi, thậm chí bị điều khiển, khi ta biết rằng mọi người thường bỏ qua lợi ích của nhập cư mà chỉ chú ý tới thiệt hại. Guillén cho rằng tiến tới năm 2030, cần nhận thức rõ sức mạnh của suy nghĩ tiêu cực về nhập cư và mức độ nó lấn át phe ủng hộ nhập cư. Trên tờ *The New Yorker*, nhà báo James Surowiecki cho rằng luận điệu "chúng ta đang mất nước" có sức thuyết phục cao vì đánh đúng vào tâm lý sợ mất của công chúng, nên tạo lợi thế cho các ứng viên chống nhập cư.
+Trong luận văn thạc sĩ ở Đại học Bergen, nhà kinh tế học hành vi người Na Uy Thea Wiig làm một thí nghiệm: cho người tham gia xem số liệu về việc làm của người nhập cư (cho thấy lợi ích xã hội tiềm năng) và về tác động của nhập cư lên các chương trình phúc lợi (cho thấy thiệt hại tiềm ẩn). Cô thấy "phần tổn thất lấn át phần lợi ích" trong đầu mọi người, dẫn tới thái độ tiêu cực với người nhập cư; mọi người rất dễ có ác cảm khi chi phí của nhập cư được nhấn mạnh.
 
-Tâm lý sợ mất mát cũng giúp giải thích hành vi của **chính người di cư**. Một nghiên cứu so sánh ba nhóm (người bản xứ, người nước ngoài đã di cư, và người nước ngoài ở lại quê) cho thấy người di cư chấp nhận rủi ro cao nhất, điều có thể giải thích vì sao nhiều người nhập cư thành doanh nhân. Tuy vậy, cũng như người khác, người di cư phản ứng với tin xấu về kinh tế mạnh hơn với tin tốt. Theo một nghiên cứu khác của giáo sư Mathias Czaika, điều kiện kinh tế khó khăn ở quê chi phối quyết định di cư mạnh hơn cơ hội ở nước mới. Nghĩa là hầu hết người nhập cư không đơn thuần muốn sống khá hơn, mà chủ yếu muốn thoát khỏi cảnh kinh tế khắc nghiệt và tuyệt vọng ở quê. Nhà ở (hoặc không có nhà) cũng là yếu tố quan trọng vì nó ảnh hưởng tới thái độ với rủi ro. Trong một nghiên cứu đăng trên *Kỷ yếu Viện Hàn lâm Khoa học Quốc gia* (Mỹ), William Clark và William Lisowski thấy người di cư cân nhắc kỹ được và mất khi quyết định chuyển nước; những người có nhà hoặc bất động sản khác thường không muốn đi. Vì vậy, Guillén cho rằng phân bổ lại đất đai ở các nước nghèo sẽ làm giảm di cư hiệu quả hơn tường biên giới.
+Chẳng hạn, khi biết tỷ lệ có việc làm của người nhập cư ở Na Uy là 60%, một số người cổ xúy siết chặt chính sách nhập cư. Nghiên cứu cho thấy thiên kiến về người nhập cư, và kéo theo là chính sách, có thể bị thay đổi, thậm chí bị điều khiển, khi ta biết rằng mọi người thường bỏ qua lợi ích của nhập cư mà chỉ chú ý tới thiệt hại.
+
+Guillén cho rằng tiến tới năm 2030, cần nhận thức rõ sức mạnh của suy nghĩ tiêu cực về nhập cư và mức độ nó lấn át phe ủng hộ nhập cư. Trên tờ *The New Yorker*, nhà báo James Surowiecki cho rằng luận điệu "chúng ta đang mất nước" có sức thuyết phục cao vì đánh đúng vào tâm lý sợ mất của công chúng, nên tạo lợi thế cho các ứng viên chống nhập cư.
+
+Tâm lý sợ mất mát cũng giúp giải thích hành vi của **chính người di cư**. Một nghiên cứu so sánh ba nhóm (người bản xứ, người nước ngoài đã di cư, và người nước ngoài ở lại quê) cho thấy người di cư chấp nhận rủi ro cao nhất, điều có thể giải thích vì sao nhiều người nhập cư thành doanh nhân. Tuy vậy, cũng như người khác, người di cư phản ứng với tin xấu về kinh tế mạnh hơn với tin tốt.
+
+Theo một nghiên cứu khác của giáo sư Mathias Czaika, điều kiện kinh tế khó khăn ở quê chi phối quyết định di cư mạnh hơn cơ hội ở nước mới. Nghĩa là hầu hết người nhập cư không đơn thuần muốn sống khá hơn, mà chủ yếu muốn thoát khỏi cảnh kinh tế khắc nghiệt và tuyệt vọng ở quê.
+
+Nhà ở (hoặc không có nhà) cũng là yếu tố quan trọng vì nó ảnh hưởng tới thái độ với rủi ro. Trong một nghiên cứu đăng trên *Kỷ yếu Viện Hàn lâm Khoa học Quốc gia* (Mỹ), William Clark và William Lisowski thấy người di cư cân nhắc kỹ được và mất khi quyết định chuyển nước; những người có nhà hoặc bất động sản khác thường không muốn đi. Vì vậy, Guillén cho rằng phân bổ lại đất đai ở các nước nghèo sẽ làm giảm di cư hiệu quả hơn tường biên giới.
 
 **An sinh xã hội.** Có nhiều lý do để chú ý hơn tới lợi ích của người nhập cư. Báo cáo năm 2018 của các ủy viên quản lý quỹ An sinh Xã hội Mỹ cảnh báo rằng đến năm 2030 họ không thể bảo đảm mức "tài chính ngắn hạn" tối thiểu trong quỹ ủy thác, vì quỹ đang phải dùng để chi trả phúc lợi thay vì để giữ hệ thống bền vững. Báo *USA Today* đặt tiêu đề rằng an sinh xã hội và chăm sóc y tế đang chết dần mà chẳng ai ở Washington động một ngón tay.
 
-Theo Guillén, người nhập cư không phải mối đe dọa mà là cơ hội để giữ hệ thống lương hưu tồn tại. Người nhập cư trả hàng tỷ USD thuế quỹ lương (thuế đánh trên quỹ lương do doanh nghiệp chi trả, theo chú thích của dịch giả) mỗi năm cho an sinh xã hội, kể cả khi họ không có giấy tờ hợp pháp hoặc dùng số an sinh xã hội giả. Tổ chức nghiên cứu New American Economy (bản dịch: "Nền Kinh Tế Mỹ Mới") ước tính 8 triệu lao động bất hợp pháp đã đóng khoảng 13 tỷ USD thuế quỹ lương năm 2016, nhưng nhìn chung họ không thể nhận phúc lợi an sinh xã hội. Chính những người nhập cư lương thấp lại đóng góp nhiều nhất (tính theo tỷ lệ thu nhập), vì thuế An sinh Xã hội 6,2% chỉ áp lên 128.400 USD thu nhập đầu tiên. Monique Morrissey, nhà kinh tế của Viện Chính sách Kinh tế, nói việc trục xuất người nhập cư bất hợp pháp sẽ có tác động tiêu cực cả ngắn và dài hạn tới quỹ An sinh Xã hội, vốn phụ thuộc trực tiếp vào tăng dân số. Chính các ủy viên quỹ giải thích trong báo cáo rằng thâm hụt sẽ giảm khi nhập cư tăng, vì đa số người di cư ở độ tuổi tương đối trẻ, nên số người lao động đóng góp tăng nhanh hơn số người hưởng phúc lợi.
+Theo Guillén, người nhập cư không phải mối đe dọa mà là cơ hội để giữ hệ thống lương hưu tồn tại. Người nhập cư trả hàng tỷ USD thuế quỹ lương (thuế đánh trên quỹ lương do doanh nghiệp chi trả, theo chú thích của dịch giả) mỗi năm cho an sinh xã hội, kể cả khi họ không có giấy tờ hợp pháp hoặc dùng số an sinh xã hội giả.
+
+Tổ chức nghiên cứu New American Economy (bản dịch: "Nền Kinh Tế Mỹ Mới") ước tính 8 triệu lao động bất hợp pháp đã đóng khoảng 13 tỷ USD thuế quỹ lương năm 2016, nhưng nhìn chung họ không thể nhận phúc lợi an sinh xã hội. Chính những người nhập cư lương thấp lại đóng góp nhiều nhất (tính theo tỷ lệ thu nhập), vì thuế An sinh Xã hội 6,2% chỉ áp lên 128.400 USD thu nhập đầu tiên.
+
+Monique Morrissey, nhà kinh tế của Viện Chính sách Kinh tế, nói việc trục xuất người nhập cư bất hợp pháp sẽ có tác động tiêu cực cả ngắn và dài hạn tới quỹ An sinh Xã hội, vốn phụ thuộc trực tiếp vào tăng dân số. Chính các ủy viên quỹ giải thích trong báo cáo rằng thâm hụt sẽ giảm khi nhập cư tăng, vì đa số người di cư ở độ tuổi tương đối trẻ, nên số người lao động đóng góp tăng nhanh hơn số người hưởng phúc lợi.
 
 Guillén kết đoạn: vấn đề mấu chốt nằm ở cách tư duy. Nếu biết suy nghĩ sáng tạo, ta có thể biến khó khăn thành cơ hội lớn; càng tập trung vào cơ hội, ta càng thích ứng tốt hơn với thách thức của năm 2030.
 
 ### 13. Sẽ không còn chảy máu chất xám? (trang PDF 58–61)
 
-Ngay cả người phản đối nhập cư gay gắt nhất cũng phải đồng ý rằng kinh tế Mỹ cần nhân tài nước ngoài để bù thiếu hụt. Nhưng như vậy có phải nước giàu đang lợi dụng nước nghèo, lấy đi những người giỏi nhất của họ? Trong thập niên 1950, người Anh đặt ra thuật ngữ **"chảy máu chất xám"** để chỉ việc mất nhân lực sang Mỹ và Canada, nơi bác sĩ, kỹ sư và những người trình độ cao khác kiếm được lương cao hơn ở quê. Trong ba bốn thập niên qua, dòng nhân tài di cư cũng lấy đi nguồn nhân lực quý nhất của các nước đang phát triển như Bangladesh, Nigeria và Philippines. Theo AnnaLee Saxenian, nhà khoa học về địa lý và chính trị tại Đại học California ở Berkeley, chảy máu chất xám có thể trở thành **"luân chuyển chất xám"**, có lợi cho cả hai đầu.
+Ngay cả người phản đối nhập cư gay gắt nhất cũng phải đồng ý rằng kinh tế Mỹ cần nhân tài nước ngoài để bù thiếu hụt. Nhưng như vậy có phải nước giàu đang lợi dụng nước nghèo, lấy đi những người giỏi nhất của họ?
+
+Trong thập niên 1950, người Anh đặt ra thuật ngữ **"chảy máu chất xám"** để chỉ việc mất nhân lực sang Mỹ và Canada, nơi bác sĩ, kỹ sư và những người trình độ cao khác kiếm được lương cao hơn ở quê. Trong ba bốn thập niên qua, dòng nhân tài di cư cũng lấy đi nguồn nhân lực quý nhất của các nước đang phát triển như Bangladesh, Nigeria và Philippines. Theo AnnaLee Saxenian, nhà khoa học về địa lý và chính trị tại Đại học California ở Berkeley, chảy máu chất xám có thể trở thành **"luân chuyển chất xám"**, có lợi cho cả hai đầu.
 
 **Miin Wu.** Ông rời Đài Loan sang Mỹ học tiến sĩ kỹ thuật điện ở Đại học Stanford. Tốt nghiệp năm 1976, ông làm cho các công ty huyền thoại Siliconix và Intel. Mười năm sau, ông đồng sáng lập công ty VLSI Technology ở Thung lũng Silicon, chuyên thiết kế và sản xuất vi mạch tích hợp. Cuối thập niên 1980, khi Đài Loan trở thành điểm đến hấp dẫn của ngành sản xuất chip, ông dùng các mối quan hệ ở Mỹ để lập Macronix, một trong những công ty bán dẫn đầu tiên của Đài Loan và là công ty Đài Loan đầu tiên niêm yết trên sàn Nasdaq (sàn giao dịch chứng khoán điện tử của Mỹ). Nay ông đều đặn đi lại qua Thái Bình Dương, và công việc kinh doanh của ông có lợi cho cả quê hương lẫn nơi đã cưu mang ông.
 
@@ -996,7 +1040,11 @@ Theo Saxenian, luân chuyển chất xám có nhiều lợi ích. Nó thu hút n
 
 Ngân hàng Thế giới đã nghiên cứu quy mô hợp tác quốc tế dựa trên mạng lưới các doanh nhân và kỹ sư từng sang Mỹ học. Tùy nước, từ một nửa tới ba phần tư doanh nhân trong cộng đồng này về nước lập công ty khởi nghiệp; trong số người ở lại Mỹ, một nửa về quê công tác ít nhất mỗi năm một lần. Lợi ích của mạng lưới người di cư trình độ cao thể hiện rõ nhất ở Israel, Đài Loan và Ấn Độ. Công nghệ thông tin là lĩnh vực phù hợp nhất với kiểu phát triển xuyên quốc gia này, có lẽ vì chỉ cần vốn đầu tư thấp.
 
-Guillén thừa nhận cơ hội từ nhập cư rất lớn nhưng cũng có rủi ro nếu người bản xứ thấy mình bị thiệt. Cần thảo luận thấu đáo để tìm chính sách tốt nhất về số lượng, thời điểm và thành phần người nhập cư, nhằm tối đa hóa cơ hội cho cả nước đi lẫn nước đến, mà không bỏ quên hàng triệu người mất việc và những cộng đồng bị thu hẹp trong quá trình toàn cầu hóa. Nghiên cứu cho thấy hệ thống hạn ngạch có lẽ không phải cách tốt nhất; các hệ thống dựa trên nhu cầu lao động và trình độ có khả năng thành công cao hơn. Canada có lẽ là ví dụ điển hình: nước này thu hút thành công người nhập cư trình độ cao bằng cách cho sinh viên nước ngoài thị thực làm việc sau khi tốt nghiệp. Năm 2018, Conference Board of Canada (bản dịch: "Ủy ban Hội nghị Canada", hiệp hội của người sử dụng lao động) ước tính rằng nếu cắt giảm nhập cư, tăng trưởng kinh tế của Canada trong hai thập niên tới sẽ chậm đi một phần ba; nếu không cho nhập cư, lực lượng lao động sẽ co lại, tăng trưởng yếu đi, và việc chu cấp các dịch vụ xã hội như y tế sẽ gặp thách thức lớn. Guillén kết luận rằng năm 2030, những nền kinh tế sôi động nhất sẽ là những nền kinh tế biết tận dụng đóng góp năng động của người nhập cư, đồng thời vẫn quan tâm tới những người chịu thiệt trong quá trình chuyển đổi không ngừng của đất nước.
+Guillén thừa nhận cơ hội từ nhập cư rất lớn nhưng cũng có rủi ro nếu người bản xứ thấy mình bị thiệt. Cần thảo luận thấu đáo để tìm chính sách tốt nhất về số lượng, thời điểm và thành phần người nhập cư, nhằm tối đa hóa cơ hội cho cả nước đi lẫn nước đến, mà không bỏ quên hàng triệu người mất việc và những cộng đồng bị thu hẹp trong quá trình toàn cầu hóa.
+
+Nghiên cứu cho thấy hệ thống hạn ngạch có lẽ không phải cách tốt nhất; các hệ thống dựa trên nhu cầu lao động và trình độ có khả năng thành công cao hơn. Canada có lẽ là ví dụ điển hình: nước này thu hút thành công người nhập cư trình độ cao bằng cách cho sinh viên nước ngoài thị thực làm việc sau khi tốt nghiệp.
+
+Năm 2018, Conference Board of Canada (bản dịch: "Ủy ban Hội nghị Canada", hiệp hội của người sử dụng lao động) ước tính rằng nếu cắt giảm nhập cư, tăng trưởng kinh tế của Canada trong hai thập niên tới sẽ chậm đi một phần ba; nếu không cho nhập cư, lực lượng lao động sẽ co lại, tăng trưởng yếu đi, và việc chu cấp các dịch vụ xã hội như y tế sẽ gặp thách thức lớn. Guillén kết luận rằng năm 2030, những nền kinh tế sôi động nhất sẽ là những nền kinh tế biết tận dụng đóng góp năng động của người nhập cư, đồng thời vẫn quan tâm tới những người chịu thiệt trong quá trình chuyển đổi không ngừng của đất nước.
 
 ### 14. Trẻ em, dòng di cư và cơ hội (trang PDF 62)
 
@@ -1137,7 +1185,9 @@ Việc Trung Quốc chuyển sang chính sách hai con (2016) rồi ba con (2021
 
 ### Chuỗi "chính sách một con, tiết kiệm, lãi suất Mỹ" là phần hấp dẫn nhất nhưng cũng mong manh nhất
 
-Đây là đoạn thể hiện rõ nhất cách tư duy mà cả cuốn sách muốn dạy: nối hai sự kiện xa nhau bằng một chuỗi nhân quả. Nhưng chuỗi này có nhiều mắt xích, và Guillén trình bày như thể mỗi mắt xích là chắc chắn. Nghiên cứu của Wei và Zhang là một nghiên cứu có ảnh hưởng nhưng không phải kết luận duy nhất về tiết kiệm của Trung Quốc; còn lãi suất thấp ở Mỹ trong hai thập niên trước 2020 có nhiều nguyên nhân khác như chính sách tiền tệ, lạm phát thấp, dân số già ở nhiều nước giàu (nhận xét của người tổng hợp). Ví dụ con số "trả góp tăng khoảng 25%" cũng có vẻ nhầm giữa khoản trả hàng tháng và tổng tiền lãi (xem Lưu ý). Người đọc nên dùng đoạn này như một ví dụ về cách đặt câu hỏi, không như một phép đo.
+Đây là đoạn thể hiện rõ nhất cách tư duy mà cả cuốn sách muốn dạy: nối hai sự kiện xa nhau bằng một chuỗi nhân quả. Nhưng chuỗi này có nhiều mắt xích, và Guillén trình bày như thể mỗi mắt xích là chắc chắn. Nghiên cứu của Wei và Zhang là một nghiên cứu có ảnh hưởng nhưng không phải kết luận duy nhất về tiết kiệm của Trung Quốc; còn lãi suất thấp ở Mỹ trong hai thập niên trước 2020 có nhiều nguyên nhân khác như chính sách tiền tệ, lạm phát thấp, dân số già ở nhiều nước giàu (nhận xét của người tổng hợp).
+
+Ví dụ con số "trả góp tăng khoảng 25%" cũng có vẻ nhầm giữa khoản trả hàng tháng và tổng tiền lãi (xem Lưu ý). Người đọc nên dùng đoạn này như một ví dụ về cách đặt câu hỏi, không như một phép đo.
 
 ### Lập luận về nhập cư mạnh ở phần dữ liệu Mỹ, yếu ở phần khái quát
 
@@ -1174,3 +1224,190 @@ Chương làm tốt việc đưa những con số khô khan về tỷ lệ sinh 
 - **Đời sống và gia đình:**
   - Bảng tính chi phí nuôi con của Guillén là một bài tập hữu ích cho các cặp vợ chồng trẻ: lập kế hoạch tài chính cho con theo từng giai đoạn (tới 17 tuổi, và đại học) để quyết định có bao nhiêu con dựa trên số liệu chứ không chỉ cảm tính.
   - Hiểu tâm lý ác cảm với mất mát giúp tự kiểm tra phản ứng của mình trước tin tức về người nhập cư (hay bất kỳ thay đổi nào): khi thấy mình chỉ để ý phần thiệt, hãy cố liệt kê cả phần lợi trước khi kết luận.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: sáu nhánh lớn đi theo các mục 1–14 trong phần Nội dung chi tiết (dân số tăng chậm và dịch về châu Phi, Nam Á; nguyên nhân giảm sinh; chính phủ và hệ quả của chính sách một con; châu Phi và cơ hội nông nghiệp – công nghiệp; nhập cư và thiên kiến; luân chuyển chất xám), mỗi nhánh ghi xu hướng, cơ chế, số liệu và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: đến năm 2030 thế giới thiếu trẻ em chứ không thừa người, và trẻ em chủ yếu sinh ra ở châu Phi, Nam Á`"]
+  n1["`Mục 1 — Dân số tăng chậm lại, trọng tâm dịch sang châu Phi và Nam Á`"]
+  n0 --- n1
+  n2["`Dân số thế giới từ 1 tỷ (1820) lên 7 tỷ (2010) từng gây nỗi sợ The Population Bomb (1968)`"]
+  n1 --- n2
+  n3["`Vài thập niên tới dân số tăng chưa tới một nửa tốc độ giai đoạn 1960–1990`"]
+  n1 --- n3
+  n4["`Phụ nữ Mỹ có dưới 2 con từ đầu thập niên 1970, không đủ thay thế thế hệ trước`"]
+  n1 --- n4
+  n5["`Cứ 1 trẻ sinh ở Mỹ thì có 4,4 trẻ ở Trung Quốc, 6,5 ở Ấn Độ, 10,2 ở châu Phi`"]
+  n1 --- n5
+  n6["`Tử vong 1950–2015 giảm 3% ở châu Âu, 65% ở châu Phi, chênh tuổi thọ từ 30 năm còn 17 năm`"]
+  n1 --- n6
+  n7["`Năm 2030: Nam Á đông dân nhất, châu Phi thứ hai, Đông Á thứ ba, châu Âu tụt xuống thứ sáu`"]
+  n1 --- n7
+  n8["`Tỷ trọng châu Phi trong dân số thế giới khoảng 9% (1950), 20% (2030), 40% (2100)`"]
+  n7 --- n8
+  n9["`Di cư tăng gấp đôi trong 20 năm chỉ lùi mốc châu Phi đứng thứ hai từ 2030 tới 2033`"]
+  n1 --- n9
+  n10["`Có hay không có tường biên giới, di cư cũng không đổi được xu hướng chính`"]
+  n9 --- n10
+  n11["`Mục 2–4 — Vì sao sinh giảm: vai trò phụ nữ, giải trí, chi phí nuôi con`"]
+  n0 --- n11
+  n12["`Vai trò mới của phụ nữ (học lâu hơn, đi làm, có con muộn) là yếu tố quan trọng nhất`"]
+  n11 --- n12
+  n13["`Mỹ: tuổi kết hôn của nữ từ 20 lên 27, nữ 25–29 tuổi có bằng đại học từ khoảng 7% lên gần 40%`"]
+  n12 --- n13
+  n14["`Bà cụ kỵ của Guillén ở Tây Ban Nha sinh 19 con, nay mỗi phụ nữ chỉ 1–2 con`"]
+  n12 --- n14
+  n15["`Malthus (1798) sai vì không thấy phát minh nông nghiệp, thương mại đường biển và giải trí làm giảm tình dục`"]
+  n11 --- n15
+  n16["`Người Mỹ quan hệ tình dục ít hơn khoảng 9 lần mỗi năm đầu thập niên 2010 so với cuối thập niên 1990`"]
+  n11 --- n16
+  n17["`Thí nghiệm tự nhiên Zanzibar 2008: hộ mất điện cả tháng có tỷ lệ sinh tăng khoảng 20% sau 9 tháng`"]
+  n11 --- n17
+  n18["`New York Times 2018: 4 trong 5 lý do hàng đầu khiến người Mỹ ít con liên quan tới tiền`"]
+  n11 --- n18
+  n19["`Becker: thu nhập tăng thì cha mẹ đánh đổi số lượng lấy chất lượng, dồn tiền cho ít con hơn`"]
+  n11 --- n19
+  n20["`Nuôi một trẻ ở Mỹ tới 17 tuổi tốn 233.610 USD (2015), tính cả đại học hơn nửa triệu USD`"]
+  n19 --- n20
+  n21["`Philip Cohen: cha mẹ đầu tư nhiều cho con để cạnh tranh trong xã hội ngày càng bất bình đẳng`"]
+  n19 --- n21
+  n22["`Mục 5–6 — Chính phủ khó đổi tỷ lệ sinh, nhưng chính sách một con gây hệ quả lan toàn cầu`"]
+  n0 --- n22
+  n23["`Singapore tặng kỳ nghỉ Bali cho các cặp chưa con, số em bé không đủ, dừng sau 9 tháng`"]
+  n22 --- n23
+  n24["`Trung Quốc ban hành chính sách một con cưỡng chế năm 1979, chấm dứt năm 2015`"]
+  n22 --- n24
+  n25["`Tỷ lệ sinh đô thị Trung Quốc đã tự giảm từ khoảng 6 (1965) xuống khoảng 1,3 (1979)`"]
+  n24 --- n25
+  n26["`Đài Loan, Hàn Quốc không ép buộc mà tỷ lệ sinh chỉ khoảng 1,1, thấp hơn mức 1,6 của Trung Quốc`"]
+  n24 --- n26
+  n27["`Đến 2030 Trung Quốc ít hơn 90 triệu người 15–35 tuổi, thêm 150 triệu người trên 60 tuổi`"]
+  n24 --- n27
+  n28["`Chính sách một con cộng thói thích con trai làm nam nhiều hơn nữ khoảng 20%`"]
+  n22 --- n28
+  n29["`Nhà có con trai tiết kiệm để cạnh tranh trên thị trường cô dâu, giải thích 60% mức tăng tiết kiệm 1990–2007`"]
+  n28 --- n29
+  n30["`Trung Quốc xuất khẩu tiết kiệm thặng dư, giúp lãi suất vay mua nhà ở Mỹ thấp hơn suốt 20 năm`"]
+  n28 --- n30
+  n31["`Hẹn hò ở Trung Quốc nghiêng về mai mối (85%) hơn ứng dụng quan hệ ngắn (2%)`"]
+  n28 --- n31
+  n32["`Nga thì ngược lại, thiếu đàn ông vì rượu, phụ nữ Siberia vận động hợp pháp hóa đa thê`"]
+  n28 --- n32
+  n33["`Mục 7–9 — Bùng nổ trẻ em châu Phi là cơ hội cho cách mạng nông nghiệp – công nghiệp`"]
+  n0 --- n33
+  n34["`Tiểu vùng Sahara châu Phi từ 1,3 tỷ lên 2 tỷ (2038) và 3 tỷ (2061)`"]
+  n33 --- n34
+  n35["`Thế chiến II và AIDS (36 triệu người chết, 2/3 ở châu Phi) không làm đường dân số châu Phi đổi hướng`"]
+  n33 --- n35
+  n36["`Châu Phi đủ chỗ: rộng bằng Mỹ, Trung Quốc, Ấn Độ, châu Âu, Nhật Bản cộng lại, mật độ bằng 1/3 châu Á`"]
+  n33 --- n36
+  n37["`Điều kiện: khoảng một nửa trong 54 nước đang hỗn loạn, dân số không phải định mệnh`"]
+  n33 --- n37
+  n38["`Ngân hàng Thế giới: nông nghiệp châu Phi đáng giá 1.000 tỷ USD vào năm 2030`"]
+  n33 --- n38
+  n39["`Châu Phi vẫn nhập siêu lương thực, cần canh tác 500 triệu mẫu Anh đất cỡ diện tích Mexico`"]
+  n38 --- n39
+  n40["`Cách mạng kép: năng suất tăng, việc làm phụ trợ ở nông thôn, thặng dư lên thành phố, ngành chế biến`"]
+  n38 --- n40
+  n41["`Khoai mì chịu hạn, ít nhất 300 triệu người ăn hằng ngày, làm được bia, tá dược, nhiên liệu sinh học`"]
+  n38 --- n41
+  n42["`DADTCO chở máy chế biến tới từng làng vì sắn phải xử lý trong 24–48 giờ`"]
+  n38 --- n42
+  n43["`Kenya đi đầu thanh toán di động (3/4 dân số dùng), Nairobi được gọi là Trảng cỏ Silicon`"]
+  n33 --- n43
+  n44["`90% dân Kenya có điện thoại, y tế qua di động là mô hình cả Mỹ nên học`"]
+  n43 --- n44
+  n45["`Mục 10–12 — Người nhập cư không cướp việc, không tốn ngân sách mà tạo việc làm`"]
+  n0 --- n45
+  n46["`Người nhập cư ở hai đầu thang học vấn: 42% lao động bỏ học trung học, 29% tiến sĩ ở Mỹ`"]
+  n45 --- n46
+  n47["`Việc bậc trung mất chủ yếu do tự động hóa, nên cơn giận nên nhắm vào công nghệ`"]
+  n45 --- n47
+  n48["`Tác động lên lương người bản xứ gần như bằng không, thiệt hơn là người bỏ học trung học`"]
+  n45 --- n48
+  n49["`OECD: từ 1990 người nhập cư là 47% lao động tăng thêm ở Mỹ, 70% ở châu Âu, đóng thuế nhiều hơn nhận`"]
+  n45 --- n49
+  n50["`Người nhập cư lập 44 trên 87 kỳ lân Mỹ (2016) và khoảng 23% công ty công nghệ cao`"]
+  n45 --- n50
+  n51["`Họ chiếm 28% bác sĩ Mỹ và 33 trên 85 người Mỹ đoạt Nobel khoa học từ năm 2000`"]
+  n45 --- n51
+  n52["`8 triệu lao động bất hợp pháp đóng khoảng 13 tỷ USD thuế quỹ lương năm 2016, nuôi quỹ an sinh`"]
+  n45 --- n52
+  n53["`Ác cảm với mất mát: sợ mất 10 USD hơn muốn được 10 USD, nên phần thiệt lấn át phần lợi`"]
+  n45 --- n53
+  n54["`Khó khăn ở quê đẩy người di cư đi, nên chia lại đất ở nước nghèo giảm di cư hơn tường biên giới`"]
+  n53 --- n54
+  n55["`Mục 13–14 — Chảy máu chất xám có thể thành luân chuyển chất xám`"]
+  n0 --- n55
+  n56["`Saxenian: người tài đi lại giữa hai nước, nối hai nền kinh tế, cả hai cùng có lợi`"]
+  n55 --- n56
+  n57["`Miin Wu học Stanford, làm Intel, về lập Macronix, công ty Đài Loan đầu tiên niêm yết Nasdaq`"]
+  n55 --- n57
+  n58["`James Kim lập Amkor (America ghép Korea), năm 2018 doanh thu 4,2 tỷ USD, gần 30.000 nhân viên`"]
+  n55 --- n58
+  n59["`Chọn người nhập cư theo nhu cầu lao động và trình độ như Canada tốt hơn hạn ngạch`"]
+  n55 --- n59
+  n60["`Conference Board of Canada: cắt nhập cư thì tăng trưởng 20 năm tới chậm đi 1/3`"]
+  n59 --- n60
+  n61["`Thông điệp xuyên suốt`"]
+  n0 --- n61
+  n62["`Phát triển kinh tế là biện pháp tránh thai tốt nhất, chính phủ khó đảo ngược giảm sinh`"]
+  n61 --- n62
+  n63["`Các xu hướng va nhau: giá nhà ở San Francisco liên quan tới giá trà ở Trung Quốc`"]
+  n61 --- n63
+  n64["`Người tiêu dùng trẻ của năm 2030 đã được sinh ra, chủ yếu ở châu Phi và Nam Á`"]
+  n61 --- n64
+  n65["`Cùng một thay đổi, thế hệ này thấy được, thế hệ kia thấy mất, cần cân bằng nhu cầu các thế hệ`"]
+  n61 --- n65
+  n66["`Nền kinh tế sôi động nhất năm 2030 tận dụng người nhập cư mà vẫn lo cho người bị thiệt`"]
+  n61 --- n66
+  class n0 root
+  class n1,n11,n22,n33,n45,n55,n61 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59,n60,n62,n63,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020); bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai*, Vũ Kiều Linh dịch (NXB Thế Giới & Phương Nam Book, 2022). Chương 1 "Trẻ em cho ta biết điều gì?", tiêu đề phụ "Dân số giảm, bùng nổ trẻ em châu Phi, và cuộc cách mạng công nghiệp tiếp theo", trang PDF 22–62.
+
+## Tác giả
+
+Mauro F. Guillén, giáo sư quản trị quốc tế tại Trường Wharton (Đại học Pennsylvania), chuyên nghiên cứu các xu hướng kinh tế và nhân khẩu học toàn cầu.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần giới thiệu ([00-phan-gioi-thieu-thoi-gian-dang-can-dan.md](00-phan-gioi-thieu-thoi-gian-dang-can-dan.md)) nói rằng đến khoảng năm 2030 nhiều xu hướng sẽ cùng lúc chạm ngưỡng và đan vào nhau. Chương 1 mở đầu bằng xu hướng nền tảng nhất: số trẻ em được sinh ra, và việc chúng được sinh ra ở đâu.
+
+Chương 2 ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)) là mặt bên kia của cùng một xu hướng: dân số già đi. Chương 3 ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)) nói về tầng lớp trung lưu mới ở châu Á và châu Phi, nơi phần lớn trẻ em đang được sinh ra.
+
+Chương 4 ([C04-nguoi-phu-nu-moi.md](C04-nguoi-phu-nu-moi.md)) đào sâu vai trò mới của phụ nữ, mà Chương 1 coi là nguyên nhân quan trọng nhất của hiện tượng giảm sinh. Chương 6 ([C06-dien-thoai-nhieu-hon-nha-ve-sinh.md](C06-dien-thoai-nhieu-hon-nha-ve-sinh.md)) bàn về tự động hóa, thứ mà Chương 1 coi là nguyên nhân thật của mất việc chứ không phải người nhập cư.
+
+## Lưu ý
+
+- **Tên nguyên tác của chương** là "Follow the Babies" (nghĩa đen "Hãy đi theo những đứa trẻ"), theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác). Bản dịch đổi thành câu hỏi "Trẻ em cho ta biết điều gì?".
+- **"Tiểu vùng Sahara châu Phi"** là cách bản dịch gọi *sub-Saharan Africa* (châu Phi phía nam sa mạc Sahara, còn gọi là "châu Phi hạ Sahara"). Chữ "tiểu vùng" dễ làm người đọc hiểu nhầm là một vùng nhỏ; thực ra đây là phần lớn nhất của lục địa. Bản dịch định nghĩa vùng này là "50 quốc gia châu Phi không giáp với biển Địa Trung Hải" (trang PDF 25).
+- **Con số 1,3 tỷ dùng cho hai vùng khác nhau.** Trang PDF 38 nói dân số Tiểu vùng Sahara châu Phi "1,3 tỷ hiện nay"; trang PDF 40 nói cả lục địa châu Phi "hiện có 1,3 tỷ người". Hai con số không thể cùng đúng. Theo hiểu biết của người tổng hợp, khoảng năm 2019 cả châu Phi có khoảng 1,3 tỷ người, còn châu Phi hạ Sahara khoảng 1,1 tỷ.
+- **"Ít hơn khoảng chín lần"** (trang PDF 29): theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), nghiên cứu của Twenge, Sherman và Wells (2017) cho thấy người Mỹ trưởng thành quan hệ tình dục ít hơn khoảng chín lần **mỗi năm** vào đầu thập niên 2010 so với cuối thập niên 1990. Bản dịch bỏ chữ "mỗi năm", nên câu có thể bị hiểu nhầm thành "giảm chín lần" (chỉ còn một phần chín).
+- **Phép tính lãi suất vay mua nhà** (trang PDF 36): sách nói nếu lãi suất khoản vay cố định 30 năm là 6% thay vì 5% thì khoản thanh toán hàng tháng tăng khoảng 25%. Theo phép tính minh hoạ của người tổng hợp, khoản trả góp hàng tháng chỉ tăng khoảng 12% (từ khoảng 5,37 lên khoảng 6,00 USD cho mỗi 1.000 USD vay); con số khoảng 24–25% là mức tăng của **tổng tiền lãi** trả trong 30 năm (từ khoảng 933 lên khoảng 1.158 USD cho mỗi 1.000 USD vay). Không rõ lỗi nằm ở nguyên tác hay ở bản dịch.
+- **"Giá nhà ở San Francisco chắc chắn có liên quan đến giá trà ở Trung Quốc"** (trang PDF 36) là một cách chơi chữ: tiếng Anh có thành ngữ "what does that have to do with the price of tea in China?" (chuyện đó thì liên quan gì), dùng để chê một ý không ăn nhập. Guillén lật ngược thành ngữ để nói hai thứ tưởng không liên quan thật ra có liên quan (nhận xét của người tổng hợp).
+- **"Tỷ lệ mất cân bằng giới tính của Trung Quốc cao gấp bảy lần so với tỷ lệ của Nga vì dân số Trung Quốc lớn hơn rất nhiều"** (trang PDF 37): một tỷ lệ không thể cao hơn chỉ vì dân số đông hơn. Nhiều khả năng ý gốc là **quy mô** mất cân bằng (số người "thừa" ra) của Trung Quốc lớn gấp bảy lần của Nga (suy luận của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Số liệu ứng dụng hẹn hò** (trang PDF 36): bản dịch viết "ở Trung Quốc chỉ có 2% người sử dụng các ứng dụng hẹn hò để tìm bạn tình", "21% người chi cho các ứng dụng" ở châu Âu và Mỹ, và dịch vụ mai mối "chiếm đến 85% so với chỉ 40%". Cách các con số đi thành cặp cho thấy chúng có thể là **tỷ trọng doanh thu của từng loại dịch vụ** trong thị trường hẹn hò trực tuyến (theo báo cáo eServices của Statista mà sách dẫn), không phải tỷ lệ người dùng (suy luận của người tổng hợp, chưa đối chiếu nguyên tác).
+- **"Đức Cha Thomas Robert Malthus"** (trang PDF 28): Malthus là mục sư Anh giáo (tiếng Anh "Reverend"), không phải giám mục; chữ "Đức Cha" trong tiếng Việt thường dành cho giám mục Công giáo (theo hiểu biết của người tổng hợp).
+- **"Pastor Felix Afolabi"** (trang PDF 44): "Pastor" là chức danh (mục sư), không phải tên riêng; bản dịch để nguyên.
+- **"Theo ông Saxenian"** (trang PDF 59): AnnaLee Saxenian là nữ giáo sư (theo hiểu biết của người tổng hợp); trang PDF 58 của bản dịch đã gọi đúng tên đầy đủ nhưng trang sau lại dùng "ông".
+- **"500 triệu mẫu đất – tương đương với diện tích Mexico"** (trang PDF 42): "mẫu" ở đây là mẫu Anh (acre, khoảng 4.047 m²), không phải mẫu Việt Nam (3.600 m² ở Bắc Bộ). 500 triệu acre là khoảng 2 triệu km², gần đúng diện tích Mexico (phép tính minh hoạ của người tổng hợp).
+- **Chú thích (7) của dịch giả** ghi Thế hệ bùng nổ dân số (baby boomers) sinh "trong khoảng những năm từ 1944–1964". Mốc thường dùng ở Mỹ là 1946–1964 (theo hiểu biết của người tổng hợp).
+- **Chú thích (6), (8), (9) của dịch giả** dùng được: (6) Anheuser-Busch là một công ty bia Mỹ; (8) thuế quỹ lương là thuế đánh vào quỹ lương do doanh nghiệp chi trả; (9) Nasdaq là sàn giao dịch chứng khoán điện tử của Mỹ. Ý của các chú thích này đã được đưa vào lời văn ở phần Nội dung chi tiết.
+- **"Tổ chức từ thiện Alien"** (trang PDF 46): bản dịch ghi tên tổ chức trả trợ cấp hàng tháng cho chị Naomi Nganga là "Alien". Người tổng hợp không xác định được tên đúng và giữ nguyên chữ của bản dịch.
+- **"Tư duy đa chiều", "cái nhìn đa chiều", "góc nhìn đa chiều"** (trang PDF 33, 35, 42): "tư duy đa chiều" là chữ bản dịch dùng cho *lateral thinking* của Edward de Bono, khái niệm Guillén giới thiệu ở Phần giới thiệu (trang PDF 17–18); nhiều bản dịch sách khác gọi khái niệm này là "tư duy theo chiều ngang" (theo hiểu biết của người tổng hợp). Bản dịch này dùng "tư duy đa chiều" thống nhất, và file này cũng vậy.
+- **Một vài mốc dân số ở trang PDF 22 hơi lệch** so với ước tính phổ biến của Liên Hợp Quốc: thế giới đạt 2 tỷ người vào khoảng năm 1927 (sách nói "một thế kỷ sau [năm 1820], đã có hơn 2 tỷ"), 6 tỷ vào khoảng năm 1999 và 7 tỷ vào khoảng năm 2011 (theo hiểu biết của người tổng hợp). Các lệch này không ảnh hưởng tới lập luận.
+- **Số liệu đã lỗi thời so với năm 2026** (theo hiểu biết của người tổng hợp): dân số thế giới đã vượt 8 tỷ vào cuối năm 2022 (sách dùng 7,5 tỷ); Ấn Độ vượt Trung Quốc thành nước đông dân nhất vào năm 2023; dân số Trung Quốc bắt đầu giảm từ năm 2022; tỷ lệ sinh của Trung Quốc đã xuống quanh mức 1,0 (sách ghi 1,6) và của Hàn Quốc xuống khoảng 0,7 (sách ghi "trên dưới 1,1"). Năm 2015 Trung Quốc thay chính sách một con bằng chính sách hai con (hiệu lực từ năm 2016), rồi cho phép ba con năm 2021; câu "năm 2015, Trung Quốc chấm dứt hoàn toàn chính sách này" chỉ đúng với nghĩa bỏ giới hạn một con, chưa phải bỏ mọi giới hạn.
+- **Lỗi chữ do trích xuất ebook**, không phải lỗi của bản in: "Kau￾man" là Quỹ Kauffman, "Ho￾man" là Reid Hoffman, "First A￾air" là First Affair, "Linkedln" là LinkedIn. Ảnh trang cho thấy bản dịch in đúng Kauffman, Hoffman và First Affair; riêng LinkedIn có vẻ được in thành "Linkedln" (chữ "l" thường thay cho chữ "I" hoa).
+- **Hình 3 và Hình 4** là số thứ tự hình của cả cuốn sách (Hình 1 và Hình 2 nằm ở Phần giới thiệu). Hình 3 chỉ có các đường vẽ, không ghi số liệu; các con số ở bản tổng hợp này là đọc ước lượng từ trục tung.

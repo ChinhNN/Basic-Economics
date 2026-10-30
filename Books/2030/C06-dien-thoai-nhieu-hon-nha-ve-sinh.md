@@ -1,30 +1,18 @@
 # Chương 6 — Điện thoại còn nhiều hơn nhà vệ sinh (More Mobile Phones Than Toilets)
 
-**Nguồn:** Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020), bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai* (Vũ Kiều Linh dịch, NXB Thế Giới & Phương Nam Book, 2022), Chương 6 "Điện thoại còn nhiều hơn nhà vệ sinh", tiêu đề phụ "Cải biến bánh xe, sự bùng nổ kỷ Cambri mới và tương lai công nghệ", trang PDF 214–252.
-**Tác giả:** Mauro F. Guillén, giáo sư quản trị quốc tế tại Trường Wharton (Đại học Pennsylvania); sách viết năm 2019, xuất bản tháng 8/2020.
-**Vị trí trong lập luận của cả cuốn sách:** Năm chương đầu bàn về các xu hướng dân số và xã hội: tỷ lệ sinh giảm ([C01-tre-em-cho-ta-biet-dieu-gi.md](C01-tre-em-cho-ta-biet-dieu-gi.md)), người cao tuổi ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)), tầng lớp trung lưu mới ở các thị trường mới nổi ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)), phụ nữ giàu lên ([C04-nguoi-phu-nu-moi.md](C04-nguoi-phu-nu-moi.md)) và đô thị cùng biến đổi khí hậu ([C05-cai-chet-cua-do-thi.md](C05-cai-chet-cua-do-thi.md)). Chương 6 chuyển sang công nghệ, nhưng mục đích không phải là liệt kê công nghệ nào mạnh nhất mà là hỏi công nghệ nào sẽ thật sự lan rộng khi gặp các xu hướng dân số và kinh tế ấy. Câu kết của chương dẫn sang Chương 7 về nền kinh tế chia sẻ ([C07-mot-the-gioi-khong-tu-huu.md](C07-mot-the-gioi-khong-tu-huu.md)); Chương 8 ([C08-nhieu-loai-tien-hon-so-quoc-gia.md](C08-nhieu-loai-tien-hon-so-quoc-gia.md)) tiếp tục chủ đề thanh toán di động được nhắc ở đầu chương này.
+## Ý chính
 
-**Ý chính:** **Guillén cho rằng điều đáng quan tâm nhất về công nghệ mới không phải là nó tiến xa đến đâu, mà là nó tác động thế nào tới các xu hướng dân số và xã hội, và một công nghệ chỉ thắng thế khi nó "cưỡi" được những con sóng dân số và kinh tế lớn.** Chương mở bằng nghịch lý: 1,5 tỷ người có điện thoại di động nhưng không có nhà vệ sinh; trong 20% hộ nghèo nhất Ấn Độ, số hộ có điện thoại gấp ba số hộ có nhà vệ sinh; ở châu Phi hạ Sahara dưới 10% dân số có tài khoản ngân hàng nhưng thanh toán di động phổ biến hơn mọi khu vực khác. Lịch sử đồng hồ đeo tay (Thụy Sĩ, Timex, Bulova, Seiko, Swatch, điện thoại, đồng hồ thông minh) minh họa quy luật "phá vỡ sáng tạo" của Schumpeter. Đến năm 2030, lần đầu tiên sẽ có nhiều máy tính hơn trí óc con người, nhiều cảm biến hơn mắt người và nhiều cánh tay robot hơn công nhân; Guillén gọi đó là một "sự bùng nổ kỷ Cambri" mới. Chương lần lượt xét trí thông minh nhân tạo và việc làm (1,5–2,2 triệu tài xế xe tải Mỹ có nguy cơ mất việc), bài toán đạo đức của xe tự lái (thí nghiệm Máy đo Đạo đức với gần 40 triệu quyết định), in 3D, Internet Vạn vật (200 tỷ thiết bị năm 2030), thực tế ảo, công nghệ nano, rồi giải thích vì sao sách điện tử và bán rượu trực tuyến chỉ thành công ở một số nơi (châu Phi "nhảy cóc"; Trung Quốc, Úc, Anh mua rượu theo thương hiệu). Chương kết bằng danh sách ưu tiên của tác giả (nhà vệ sinh không dùng nước, sách điện tử cho người thiếu điều kiện, liệu pháp thực tế ảo) và ví dụ bánh đà: một công nghệ cũ được "cải biến" để tích trữ điện.
+**Guillén cho rằng điều đáng quan tâm nhất về công nghệ mới không phải là nó tiến xa đến đâu, mà là nó tác động thế nào tới các xu hướng dân số và xã hội, và một công nghệ chỉ thắng thế khi nó "cưỡi" được những con sóng dân số và kinh tế lớn.**
 
-> **Lưu ý:**
-> - **Tên nguyên tác của chương** ghi theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác): "More Mobile Phones Than Toilets", tiêu đề phụ "Reinventing the Wheel, the New Cambrian Explosion, and the Future of Technology".
-> - **"Trật tự đơn cực ('singularity')"** (trang PDF 226) là chữ dịch sai nghĩa. "Singularity" trong ngữ cảnh AI là "điểm kỳ dị công nghệ": thời điểm AI vượt trí tuệ con người và tự cải tiến ngoài tầm kiểm soát. "Đơn cực" là thuật ngữ quan hệ quốc tế (một siêu cường), không liên quan (theo hiểu biết của người tổng hợp). Bản tổng hợp này viết "điểm kỳ dị (singularity)" và ghi kèm chữ của bản dịch.
-> - **"Những người lái xe tải đã xây dựng hiệp hội nghề lớn nhất ở 29 trong số 50 tiểu bang"** (trang PDF 227) nhiều khả năng là dịch sai. Câu tiếp theo liệt kê các bang ngoại lệ, nơi nghề phổ biến nhất là lập trình viên, giáo viên tiểu học, nông dân, thư ký… Vì vậy ý đúng là: lái xe tải là **nghề có nhiều người làm nhất** ở 29 trong 50 bang (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **"Ông Barbara Wege"** (trang PDF 232): Barbara Wege, phụ trách mảng xe tự hành của Audi, là phụ nữ, nên phải là "bà" (theo hiểu biết của người tổng hợp).
-> - **Câu "AI mở ra rất nhiều cơ hội mới và đó là nguyên nhân chủ yếu dẫn đến kết cục của thế giới hiện nay"** (trang PDF 225) tối nghĩa. Theo mạch văn (đoạn trước dẫn các ý kiến coi thường AI), ý của tác giả có lẽ là: AI mở ra nhiều khả năng mới và chính vì vậy nó sẽ chấm dứt thế giới như ta đang biết (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Kỷ Cambri** (trang PDF 222): bản dịch viết "các loài động vật đa bào xuất hiện trên đất liền cùng với hệ sinh thái biển phát triển" và "cua có đầu, xương sống, ngực, chân và hai cặp râu". Theo hiểu biết của người tổng hợp, sự bùng nổ kỷ Cambri diễn ra chủ yếu ở biển (động vật lên cạn muộn hơn nhiều), và loài giống cua thời đó là động vật chân khớp, không có xương sống; "xương sống" có lẽ là dịch nhầm một bộ phận khác (có thể là phần lưng/giáp). "Loài ăn thịt có năm mắt" là Opabinia (theo hiểu biết của người tổng hợp; sách không nêu tên).
-> - **Kích thước hạt nano** (trang PDF 243): bản dịch viết "nhỏ bằng một phần tỷ centimet". Một nanomet là một phần tỷ **mét**, tức một phần mười triệu centimet (theo hiểu biết của người tổng hợp; không rõ lỗi ở nguyên tác hay bản dịch).
-> - **Câu "công nghệ nano sẽ làm giảm đáng kể sự phụ thuộc của chúng ta vào sợi tổng hợp làm từ nguyên liệu tự nhiên"** (trang PDF 243) tự mâu thuẫn: sợi tổng hợp như polyester làm từ dầu mỏ, không phải nguyên liệu tự nhiên. Ý có lẽ là giảm phụ thuộc vào sợi tổng hợp (làm từ nhiên liệu hóa thạch) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Bánh đà ở Stephentown** (trang PDF 251–252): theo hiểu biết của người tổng hợp, nhà máy 20 megawatt của Beacon Power đáp ứng khoảng 10% nhu cầu **điều tần** (giữ ổn định tần số lưới điện) của bang New York, không phải "1/10 lượng điện tiêu thụ hàng ngày của tiểu bang". Ngoài ra "megawatt" là đơn vị công suất, không phải lượng điện "tích trữ" (lượng điện tích trữ đo bằng megawatt giờ). Bản dịch cũng gõ nhầm "hệ thống bánh đã" thay cho "bánh đà" (trang PDF 252).
-> - **Đồng hồ thạch anh** (trang PDF 220): sách nói "một kỹ sư Thụy Sĩ phát hiện ra nếu dòng điện chạy qua thạch anh thì tinh thể này sẽ dao động". Theo hiểu biết của người tổng hợp, hiệu ứng áp điện của thạch anh do anh em Curie (Pháp) phát hiện năm 1880 và đồng hồ thạch anh đầu tiên do Bell Labs (Mỹ) chế tạo năm 1927; người Thụy Sĩ có làm ra mẫu đồng hồ đeo tay thạch anh rất sớm (Beta 21, 1967) nhưng Seiko Astron (1969) là đồng hồ đeo tay thạch anh thương mại đầu tiên. **Swatch** ra mắt năm 1983, tức đầu chứ không phải "cuối thập niên 1980" như bản dịch viết (theo hiểu biết của người tổng hợp). Riêng phát minh âm thoa (Bulova Accutron) đúng là của kỹ sư Thụy Sĩ Max Hetzel.
-> - **Titan Watches** (trang PDF 218–219): câu bản dịch vừa nói "vô tình" vừa nói công ty "được đặt tên để tôn vinh Huygens", tự mâu thuẫn. Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), tên Titan thường được giải thích là ghép từ Tata và TIDCO (hai bên lập công ty); ý của Guillén có lẽ chỉ là sự trùng tên ngẫu nhiên với mặt trăng Titan mà Huygens phát hiện.
-> - **"Đại học Stanford với bằng văn học đa quốc gia"** (trang PDF 214): ngành này thường gọi là "văn học so sánh" (comparative literature) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Tên riêng viết sai hoặc không thống nhất trong bản dịch:** "Eleonore Rartjarasoaniony" (trang PDF 215) sau đó viết "Elconore" cùng trang; ban nhạc "The Buggies" (trang PDF 246) đúng là **The Buggles**; "Gary Kasparov" thường viết **Garry Kasparov**; "Millenials" đúng là **Millennials**; phim "Sophies Choice" đúng là **Sophie's Choice**; tác giả "Julie Bower" trong lời văn (trang PDF 250) nhưng là "Julia Bower" trong danh mục nguồn; công ty "Branch Technologies" trong một số nguồn được viết "Branch Technology".
-> - **SAP** (trang PDF 236) được bản dịch gọi là "công ty tư vấn công nghệ của Đức"; SAP là công ty phần mềm doanh nghiệp (theo hiểu biết của người tổng hợp). **Robot STAR** (trang PDF 228): "Viện Kỹ sư Điện và Điện tử đưa ra báo cáo" thực ra là bài trên tạp chí *IEEE Spectrum* của viện này (theo danh mục nguồn của sách).
-> - **Trung Quốc "thị trường lớn nhất thế giới về số lượng"** (trang PDF 249): không rõ "thị trường" ở đây là thị trường gì. Nếu hiểu là thị trường rượu vang thì không đúng (Mỹ tiêu thụ rượu vang nhiều hơn Trung Quốc, theo hiểu biết của người tổng hợp); có thể nguyên tác nói về thương mại điện tử. Cũng không rõ các tỷ lệ bán rượu trực tuyến (1,8% ở Mỹ…) được tính trên tổng doanh số bán lẻ hay trên doanh số "ở các quán bar và nhà hàng" như bản dịch viết; cách viết của bản dịch khó đúng vì quán bar và nhà hàng không bán trực tuyến.
-> - **Chú thích dịch giả trong chương:** (37) "bậc thầy của vũ trụ" lấy từ tiểu thuyết *The Bonfire of the Vanities* của Tom Wolfe (đúng); (38) Big Brother là nhân vật trong xã hội mà mọi công dân bị chính quyền giám sát qua màn hình; (39) Blockbuster là công ty cho thuê băng video; (40) Gutenberg là "người phát minh ra ngành in ấn" (nói quá rộng: Gutenberg phát minh máy in chữ rời ở châu Âu khoảng năm 1440; in ấn đã có ở Trung Quốc từ trước, theo hiểu biết của người tổng hợp); (41) icon là biểu tượng ứng dụng; (42) terroir là đặc tính riêng của từng vùng trồng nho dựa trên khí hậu, đất, địa hình và truyền thống làm rượu.
-> - **Tuổi thọ công ty trong chỉ số S&P 500** "giảm từ 60 năm xuống 10 năm": theo hiểu biết của người tổng hợp, các ước tính hay được trích (Richard Foster, Innosight) cho mức khoảng 60 năm vào thập niên 1950 xuống còn khoảng 18–24 năm vào thập niên 2010; con số 10 năm thấp hơn các ước tính này. Sách không nêu nguồn cho con số.
-> - **Chương này không có hình hay bảng số liệu**; mọi số liệu nằm trong lời văn và đã được chép vào bảng ở phần Nội dung chi tiết.
+Chương mở bằng nghịch lý: 1,5 tỷ người có điện thoại di động nhưng không có nhà vệ sinh; trong 20% hộ nghèo nhất Ấn Độ, số hộ có điện thoại gấp ba số hộ có nhà vệ sinh; ở châu Phi hạ Sahara dưới 10% dân số có tài khoản ngân hàng nhưng thanh toán di động phổ biến hơn mọi khu vực khác.
+
+Lịch sử đồng hồ đeo tay (Thụy Sĩ, Timex, Bulova, Seiko, Swatch, điện thoại, đồng hồ thông minh) minh họa quy luật "phá vỡ sáng tạo" của Schumpeter.
+
+Đến năm 2030, lần đầu tiên sẽ có nhiều máy tính hơn trí óc con người, nhiều cảm biến hơn mắt người và nhiều cánh tay robot hơn công nhân; Guillén gọi đó là một "sự bùng nổ kỷ Cambri" mới.
+
+Chương lần lượt xét trí thông minh nhân tạo và việc làm (1,5–2,2 triệu tài xế xe tải Mỹ có nguy cơ mất việc), bài toán đạo đức của xe tự lái (thí nghiệm Máy đo Đạo đức với gần 40 triệu quyết định), in 3D, Internet Vạn vật (200 tỷ thiết bị năm 2030), thực tế ảo, công nghệ nano, rồi giải thích vì sao sách điện tử và bán rượu trực tuyến chỉ thành công ở một số nơi (châu Phi "nhảy cóc"; Trung Quốc, Úc, Anh mua rượu theo thương hiệu).
+
+Chương kết bằng danh sách ưu tiên của tác giả (nhà vệ sinh không dùng nước, sách điện tử cho người thiếu điều kiện, liệu pháp thực tế ảo) và ví dụ bánh đà: một công nghệ cũ được "cải biến" để tích trữ điện.
 
 ## Sơ đồ
 
@@ -481,7 +469,9 @@
 ## Ba câu hỏi chương này trả lời
 
 1. **Vì sao ở nhiều nước đang phát triển, điện thoại di động lại phổ biến hơn nhà vệ sinh, và điều đó nói gì về công nghệ?** Vì dựng tháp viễn thông nhanh và rẻ hơn rất nhiều so với xây đường dây cố định hay hệ thống cống, nhất là khi 60% dân số châu Phi hạ Sahara sống ở nông thôn; và vì điện thoại giải quyết ngay một nhu cầu lớn (dưới 10% dân có tài khoản ngân hàng, nên điện thoại thành công cụ chuyển tiền). Kết quả là 1,5 tỷ người có điện thoại nhưng không có nhà vệ sinh. Bài học Guillén rút ra: công nghệ lan rộng không theo thứ tự "cơ bản trước, hiện đại sau", mà theo chỗ nó gặp được nhu cầu, chi phí và điều kiện dân số; vì thế các nước đi sau có thể "nhảy cóc".
-2. **Làn sóng công nghệ hiện nay (AI, robot, in 3D, Internet Vạn vật, thực tế ảo, công nghệ nano) sẽ thay đổi việc làm và xã hội thế nào đến năm 2030?** Theo quy luật phá vỡ sáng tạo của Schumpeter, mỗi làn sóng vừa xóa việc làm vừa tạo việc làm mới, làm các quốc gia sản xuất lên rồi xuống và đổi cách tiêu dùng, như lịch sử đồng hồ đeo tay cho thấy. Đến 2030 sẽ có nhiều máy tính hơn trí óc con người và nhiều robot hơn công nhân; hàng triệu tài xế xe tải và công nhân làm việc lặp lại có nguy cơ mất việc, còn việc trí óc không thường xuyên (giáo viên, lập trình viên, y tế) tăng mạnh. Đồng thời xuất hiện các câu hỏi đạo đức mới (xe tự lái chọn cứu ai), các cách định giá mới (bảo hiểm theo hành vi) và các giải pháp cho khí hậu (in 3D, công nghệ nano).
+2. **Làn sóng công nghệ hiện nay (AI, robot, in 3D, Internet Vạn vật, thực tế ảo, công nghệ nano) sẽ thay đổi việc làm và xã hội thế nào đến năm 2030?** Theo quy luật phá vỡ sáng tạo của Schumpeter, mỗi làn sóng vừa xóa việc làm vừa tạo việc làm mới, làm các quốc gia sản xuất lên rồi xuống và đổi cách tiêu dùng, như lịch sử đồng hồ đeo tay cho thấy.
+
+   Đến 2030 sẽ có nhiều máy tính hơn trí óc con người và nhiều robot hơn công nhân; hàng triệu tài xế xe tải và công nhân làm việc lặp lại có nguy cơ mất việc, còn việc trí óc không thường xuyên (giáo viên, lập trình viên, y tế) tăng mạnh. Đồng thời xuất hiện các câu hỏi đạo đức mới (xe tự lái chọn cứu ai), các cách định giá mới (bảo hiểm theo hành vi) và các giải pháp cho khí hậu (in 3D, công nghệ nano).
 3. **Điều gì quyết định một công nghệ mới có được áp dụng rộng rãi hay không?** Không phải mức tiện lợi hay giá rẻ của bản thân công nghệ, mà là việc nó có cộng hưởng với bối cảnh xã hội, kinh tế và hệ sinh thái xung quanh hay không. Sách điện tử thất bại ở nước giàu (sức ì, thói quen, giao diện kém) nhưng có thể thành công ở châu Phi; rượu bán trực tuyến chỉ phát triển ở Trung Quốc, Úc, Anh, nơi người ta mua rượu theo thương hiệu. Công nghệ phải "cưỡi" những con sóng dân số và kinh tế lớn mới chuyển hóa được thế giới; đôi khi công nghệ cũ dùng theo cách mới (bánh đà) lại hữu ích hơn công nghệ hoàn toàn mới.
 
 ## Khái niệm cần biết
@@ -492,7 +482,9 @@
 
 **Sự bùng nổ kỷ Cambri mới.** Là hình ảnh Guillén dùng để nói rằng nhiều công nghệ mới (AI, in 3D, thực tế ảo, công nghệ nano, robot, cảm biến) đang xuất hiện và đa dạng hóa cùng lúc, giống như kỷ Cambri (khoảng 541 triệu năm trước, kéo dài 13–25 triệu năm), khi sự sống chuyển từ đa số đơn bào sang nhiều loài phức tạp. Ví dụ có số: đến năm 2030 sẽ có nhiều máy tính hơn trí óc con người, nhiều cảm biến hơn mắt người, nhiều cánh tay robot hơn công nhân. Khái niệm này quan trọng vì nó đặt quy mô cho chương: đây không phải một cải tiến đơn lẻ mà là nhiều làn sóng chồng lên nhau.
 
-**Trí thông minh nhân tạo (AI) và điểm kỳ dị (bản dịch: "trật tự đơn cực", "singularity").** AI là các hệ thống máy tính làm những việc trước đây cần trí óc con người: nhận dạng giọng nói, nhận thức hình ảnh, ra quyết định. Điểm kỳ dị là thời điểm giả định khi AI đủ thông minh để tiếp quản mọi việc, máy tự lập trình và điều khiển máy, khiến con người trở nên thừa. Ví dụ của sách: năm 1997 máy Deep Blue của IBM thắng nhà vô địch cờ vua Kasparov; năm 1965 Irving Good gọi AI là "phát minh cuối cùng mà con người cần tạo ra". Khái niệm này quan trọng vì Guillén dùng nó để chia các bước thay thế việc làm: trước là việc lặp lại, sau là việc trí óc thường xuyên, cuối cùng (nếu điểm kỳ dị xảy ra) là việc không thường xuyên.
+**Trí thông minh nhân tạo (AI) và điểm kỳ dị (bản dịch: "trật tự đơn cực", "singularity").** AI là các hệ thống máy tính làm những việc trước đây cần trí óc con người: nhận dạng giọng nói, nhận thức hình ảnh, ra quyết định. Điểm kỳ dị là thời điểm giả định khi AI đủ thông minh để tiếp quản mọi việc, máy tự lập trình và điều khiển máy, khiến con người trở nên thừa.
+
+Ví dụ của sách: năm 1997 máy Deep Blue của IBM thắng nhà vô địch cờ vua Kasparov; năm 1965 Irving Good gọi AI là "phát minh cuối cùng mà con người cần tạo ra". Khái niệm này quan trọng vì Guillén dùng nó để chia các bước thay thế việc làm: trước là việc lặp lại, sau là việc trí óc thường xuyên, cuối cùng (nếu điểm kỳ dị xảy ra) là việc không thường xuyên.
 
 **Việc làm thường xuyên và không thường xuyên, tay chân và trí óc.** Là cách chia việc làm thành bốn nhóm theo hai trục: việc có lặp lại theo quy trình hay không, và dùng tay chân hay trí óc. Ví dụ có số (Mỹ, 1983 đến 2015): việc tay chân thường xuyên gần như đứng yên (28 lên 30 triệu), việc trí óc không thường xuyên tăng gấp đôi (28 lên 57 triệu). Khái niệm này quan trọng vì nó cho thấy tự động hóa đánh vào việc lặp lại trước, và nhóm việc nào còn an toàn trong hiện tại.
 
@@ -537,7 +529,9 @@ Sau đó, thiết kế nhà vệ sinh gần như không đổi qua các thế k�
 
 **Eleonore ở Antananarivo.** Nhưng nhiều nơi không có cống. Eleonore Rartjarasoaniony, 47 tuổi, có một cửa hàng nhỏ ở Antananarivo, thủ đô Madagascar. Nhà cô không có đường ống thoát nước nên không dùng được bồn cầu xả nước. Vài tháng trước, cô thay nhà xí hố bằng một loại nhà vệ sinh hoàn toàn mới không dùng nước: một màng phân hủy sinh học niêm phong chất thải và giữ nó bên dưới, không có mùi hôi; đơn vị sản xuất đến thu gom chất thải mỗi tuần một lần. Gia đình bốn người của cô và ba người thuê nhà cùng dùng, vì chi phí đã tính trong tiền thuê; cô nói ngay cả con trai cô cũng dùng được. Như nhiều bà mẹ ở châu Phi và các nước đang phát triển khác, cô từng sống trong nỗi sợ con mình chết ngạt trong hố phân.
 
-**Loowatt.** Đơn vị sản xuất loại nhà vệ sinh ấy là Loowatt, công ty có trụ sở ở London, do chính Virginia Gardiner sáng lập. Sau thời gian ngắn làm phóng viên, cô học thạc sĩ ở Đại học Nghệ thuật Hoàng gia London, viết luận án về nhà vệ sinh không dùng nước, rồi lập công ty năm 2010. Năm 2011 cô nhận tài trợ từ Cuộc thi Sáng tạo Nhà vệ sinh Mới của Quỹ Bill & Melinda Gates, cuộc thi nhằm thúc đẩy đổi mới cho vệ sinh bền vững. Một người Canada sống ở Madagascar biết đến công ty và trở thành nhà đầu tư đầu tiên. Trong vòng một năm, Gardiner chạy chương trình thí điểm và xây một cơ sở xử lý nhỏ, biến chất thải thành khí sinh học để phát điện, và điện ấy dùng để sạc điện thoại di động. Một phụ nữ Madagascar khác, Gloria Razafindeamiza, thấy thêm một lợi ích: trước đây cô phải dùng chung nhà xí với hàng xóm, nay cô thấy an toàn và yên tâm.
+**Loowatt.** Đơn vị sản xuất loại nhà vệ sinh ấy là Loowatt, công ty có trụ sở ở London, do chính Virginia Gardiner sáng lập. Sau thời gian ngắn làm phóng viên, cô học thạc sĩ ở Đại học Nghệ thuật Hoàng gia London, viết luận án về nhà vệ sinh không dùng nước, rồi lập công ty năm 2010. Năm 2011 cô nhận tài trợ từ Cuộc thi Sáng tạo Nhà vệ sinh Mới của Quỹ Bill & Melinda Gates, cuộc thi nhằm thúc đẩy đổi mới cho vệ sinh bền vững.
+
+Một người Canada sống ở Madagascar biết đến công ty và trở thành nhà đầu tư đầu tiên. Trong vòng một năm, Gardiner chạy chương trình thí điểm và xây một cơ sở xử lý nhỏ, biến chất thải thành khí sinh học để phát điện, và điện ấy dùng để sạc điện thoại di động. Một phụ nữ Madagascar khác, Gloria Razafindeamiza, thấy thêm một lợi ích: trước đây cô phải dùng chung nhà xí với hàng xóm, nay cô thấy an toàn và yên tâm.
 
 **Điện thoại có trước nhà vệ sinh.** Winnie V. Mitullah, Giám đốc Viện Nghiên cứu Phát triển của Đại học Nairobi, nói rằng ở nhiều nơi tại châu Phi, người ta gọi điện thoại được nhưng không bật được đèn, không mở được vòi nước, càng không xả được nhà vệ sinh, thậm chí còn bị đói; nhiều người vẫn sống trong điều kiện của thế kỷ 19 về nước, cống, điện, đường. Bà nhấn mạnh đây không chỉ là sự bất tiện: trẻ em mắc bệnh và chết vì thiếu nước sạch và thiếu cách xử lý nước thải an toàn; không có đèn để học buổi tối và không có cách kết nối với bên ngoài, trừ điện thoại di động, thì cơ hội học hành bị hạn chế nhiều.
 
@@ -559,7 +553,9 @@ Guillén rút ra rằng đổi mới công nghệ đã lan đến mọi nền ki
 
 Điện thoại di động phổ biến, nhưng đồng hồ còn phổ biến hơn: trên thế giới, số người có đồng hồ nhiều hơn số người có điện thoại di động. Lịch sử đồng hồ đeo tay, từ Rolex đến Apple Watch, cho thấy các làn sóng công nghệ liên tục đổi cách làm ra, cách bán và cách dùng một sản phẩm. Hai thứ này còn có liên hệ trực tiếp: Martin Cooper, người tiên phong về truyền thông không dây, làm ra chiếc điện thoại di động đầu tiên khi làm cho Motorola vào thập niên 1970, lấy cảm hứng từ chiếc đồng hồ vô tuyến hai chiều đeo tay của thám tử Dick Tracy trong truyện tranh cùng tên năm 1946. Cũng năm đó, tập "The Talking Cat" của chương trình radio Superman có một thiết bị tương tự.
 
-**Khởi đầu ở Anh.** Trước khi cụm "Swiss made" gắn với đồng hồ, nước Anh là nơi có ngành đồng hồ tiên tiến nhất. Đồng hồ cầm tay xuất hiện lần đầu vào thập niên 1400; đồng hồ bỏ túi phổ biến từ những năm 1600. Đột phá công nghệ lớn đầu tiên có lẽ là năm 1657, khi Robert Hooke hoặc Christiaan Huygens nghĩ ra việc thêm lò xo vào bánh xe cân bằng, làm độ chính xác tăng đáng kể; đến nay vẫn tranh cãi ai là người nghĩ ra. Hooke là nhà triết học tự nhiên, kiến trúc sư, học giả người Anh. Huygens là nhà vật lý, toán học, thiên văn học người Hà Lan, người phát hiện Titan, mặt trăng lớn nhất của Sao Thổ, người phát minh đồng hồ quả lắc và được nhiều người coi là cha đẻ của vật lý toán học. Guillén nhắc thêm rằng Titan Watches Limited, công ty Ấn Độ hoạt động từ năm 1984 và nay là một trong những công ty đồng hồ lớn nhất thế giới, có cùng tên với mặt trăng ấy (bản dịch viết công ty được đặt tên để tôn vinh Huygens).
+**Khởi đầu ở Anh.** Trước khi cụm "Swiss made" gắn với đồng hồ, nước Anh là nơi có ngành đồng hồ tiên tiến nhất. Đồng hồ cầm tay xuất hiện lần đầu vào thập niên 1400; đồng hồ bỏ túi phổ biến từ những năm 1600. Đột phá công nghệ lớn đầu tiên có lẽ là năm 1657, khi Robert Hooke hoặc Christiaan Huygens nghĩ ra việc thêm lò xo vào bánh xe cân bằng, làm độ chính xác tăng đáng kể; đến nay vẫn tranh cãi ai là người nghĩ ra.
+
+Hooke là nhà triết học tự nhiên, kiến trúc sư, học giả người Anh. Huygens là nhà vật lý, toán học, thiên văn học người Hà Lan, người phát hiện Titan, mặt trăng lớn nhất của Sao Thổ, người phát minh đồng hồ quả lắc và được nhiều người coi là cha đẻ của vật lý toán học. Guillén nhắc thêm rằng Titan Watches Limited, công ty Ấn Độ hoạt động từ năm 1984 và nay là một trong những công ty đồng hồ lớn nhất thế giới, có cùng tên với mặt trăng ấy (bản dịch viết công ty được đặt tên để tôn vinh Huygens).
 
 Chuyện còn rắc rối hơn vì người Brazil cho rằng chuyên gia hàng không Alberto Santos-Dumont đã nghĩ ra việc đeo đồng hồ quanh cổ tay. Nhưng phần lớn sử sách về đồng hồ đeo tay ghi công người Thụy Sĩ, vì quân đội của họ cần một dụng cụ chiến thuật cho địa hình núi Alps hiểm trở.
 
@@ -587,9 +583,15 @@ Guillén so sánh giai đoạn này với sự bùng nổ kỷ Cambri, diễn ra
 
 Công nghệ mới được hứa hẹn sẽ giải quyết mọi vấn đề nan giải, từ nghèo đói, bệnh tật đến suy thoái môi trường, biến đổi khí hậu và cô lập xã hội. Từ đó xuất hiện một tầng lớp mới, phần lớn là doanh nhân trẻ ở tuổi hai mươi, tự coi mình là "bậc thầy của vũ trụ", chữ Guillén mượn của nhà văn Tom Wolfe (theo chú thích dịch giả, cụm từ này lấy từ tiểu thuyết *The Bonfire of the Vanities*).
 
-Nhưng mỗi làn sóng đổi mới đều kéo theo ảo tưởng rằng công nghệ giải quyết được mọi vấn đề, trong khi thực tế nó đem lại cả thuận lợi lẫn khó khăn. Tự động hóa giải phóng con người khỏi sự nhàm chán và những tổn hại thể chất, tinh thần của việc lặp đi lặp lại, điều mà Charlie Chaplin minh họa rõ nhất trong phim *Modern Times* (Thời đại tân kỳ). Nhưng nó cũng lấy đi những việc làm từng giúp người lao động lên tầng lớp trung lưu trong các thập niên trước. Người lao động không linh hoạt hoặc không có nguồn lực để chuyển việc sẽ bị thay thế mà không có phương án dự phòng; người lớn tuổi hoặc khó di chuyển càng khó khăn. Khi một lĩnh vực từng dựa vào sức lao động, sự giám sát và chuyên môn của con người có phát minh mới, cả nhóm việc làm liên quan và cộng đồng quanh nó có thể bị đào thải.
+Nhưng mỗi làn sóng đổi mới đều kéo theo ảo tưởng rằng công nghệ giải quyết được mọi vấn đề, trong khi thực tế nó đem lại cả thuận lợi lẫn khó khăn. Tự động hóa giải phóng con người khỏi sự nhàm chán và những tổn hại thể chất, tinh thần của việc lặp đi lặp lại, điều mà Charlie Chaplin minh họa rõ nhất trong phim *Modern Times* (Thời đại tân kỳ). Nhưng nó cũng lấy đi những việc làm từng giúp người lao động lên tầng lớp trung lưu trong các thập niên trước.
 
-Nhà kinh tế học và khoa học chính trị người Áo Joseph Schumpeter đặt tên cho hiện tượng này bằng một ẩn dụ nổi tiếng: "sự phá vỡ sáng tạo". Theo ông, sự kết hợp giữa kinh tế thị trường và các công nghệ hữu ích mới thay cho công nghệ cũ kém hiệu quả có cả mặt tích cực lẫn tiêu cực. Năm 1942, ông viết rằng động lực nền tảng xây dựng và duy trì bộ máy tư bản đến từ hàng tiêu dùng mới, cách sản xuất hoặc vận chuyển mới, thị trường mới và hình thức tổ chức công nghiệp mới mà doanh nghiệp tư bản tạo ra; ông mô tả đây là quá trình liên tục cách mạng hóa cơ cấu kinh tế từ bên trong, và kết luận rằng quá trình phá vỡ sáng tạo là thực tế cốt lõi của chủ nghĩa tư bản. Schumpeter nhắc rằng quá trình này bình thường và phổ biến, đã thay đổi đời sống con người từ cuộc cách mạng nông nghiệp khoảng 12.000 năm trước. Guillén thêm rằng nó không mới, nhưng dường như đang xảy ra thường xuyên hơn và nhanh hơn, và tác động đến cả kinh tế, chính trị lẫn quan hệ giữa các cá nhân.
+Người lao động không linh hoạt hoặc không có nguồn lực để chuyển việc sẽ bị thay thế mà không có phương án dự phòng; người lớn tuổi hoặc khó di chuyển càng khó khăn. Khi một lĩnh vực từng dựa vào sức lao động, sự giám sát và chuyên môn của con người có phát minh mới, cả nhóm việc làm liên quan và cộng đồng quanh nó có thể bị đào thải.
+
+Nhà kinh tế học và khoa học chính trị người Áo Joseph Schumpeter đặt tên cho hiện tượng này bằng một ẩn dụ nổi tiếng: "sự phá vỡ sáng tạo". Theo ông, sự kết hợp giữa kinh tế thị trường và các công nghệ hữu ích mới thay cho công nghệ cũ kém hiệu quả có cả mặt tích cực lẫn tiêu cực.
+
+Năm 1942, ông viết rằng động lực nền tảng xây dựng và duy trì bộ máy tư bản đến từ hàng tiêu dùng mới, cách sản xuất hoặc vận chuyển mới, thị trường mới và hình thức tổ chức công nghiệp mới mà doanh nghiệp tư bản tạo ra; ông mô tả đây là quá trình liên tục cách mạng hóa cơ cấu kinh tế từ bên trong, và kết luận rằng quá trình phá vỡ sáng tạo là thực tế cốt lõi của chủ nghĩa tư bản.
+
+Schumpeter nhắc rằng quá trình này bình thường và phổ biến, đã thay đổi đời sống con người từ cuộc cách mạng nông nghiệp khoảng 12.000 năm trước. Guillén thêm rằng nó không mới, nhưng dường như đang xảy ra thường xuyên hơn và nhanh hơn, và tác động đến cả kinh tế, chính trị lẫn quan hệ giữa các cá nhân.
 
 ### 4. "Máy tính thật vô dụng - Chúng chỉ biết trả lời mà thôi." (trang PDF 225–229)
 
@@ -597,7 +599,7 @@ Mỗi làn sóng công nghệ, như trường hợp đồng hồ, đều để l
 
 **Những người coi nhẹ AI.** Năm 1992, tạp chí *Economist* đăng bài "Trí ngu si nhân tạo", cho rằng chẳng có lý do gì để tạo ra máy thông minh giống trí tuệ con người vì con người thì dồi dào, và nếu thiếu thì đã có những cách phổ biến, hiệu quả để làm ra thêm người. Guillén bình rằng câu ấy giả định ai cũng muốn có con, điều mà nay ta biết chỉ là mơ tưởng của thập niên 1990 (liên hệ Chương 1 về tỷ lệ sinh giảm). Gần đây Elon Musk viết trên Twitter rằng tự động hóa quá mức ở Tesla là một sai lầm và con người đã bị đánh giá thấp. Họa sĩ Pablo Picasso từng nói máy tính vô dụng vì chúng chỉ biết đưa ra câu trả lời.
 
-**AI tiến nhanh.** Guillén cho rằng trên thực tế AI mở ra rất nhiều khả năng mới (xem Lưu ý về câu dịch tối nghĩa ở đoạn này). Các ứng dụng AI đi vào những việc trước đây cần trí óc con người: nhận dạng giọng nói, nhận thức hình ảnh, ra quyết định; chúng được dùng cho ô tô và xe tải tự lái, hạ tầng thân thiện với người dùng, hệ thống y tế và nhà ở thông minh. Các mốc trong một đời người:
+**AI tiến nhanh.** Guillén cho rằng trên thực tế AI mở ra rất nhiều khả năng mới (xem mục Lưu ý cuối chương về câu dịch tối nghĩa ở đoạn này). Các ứng dụng AI đi vào những việc trước đây cần trí óc con người: nhận dạng giọng nói, nhận thức hình ảnh, ra quyết định; chúng được dùng cho ô tô và xe tải tự lái, hạ tầng thân thiện với người dùng, hệ thống y tế và nhà ở thông minh. Các mốc trong một đời người:
 
 | Năm | Sự kiện |
 |---|---|
@@ -609,9 +611,11 @@ Mỗi làn sóng công nghệ, như trường hợp đồng hồ, đều để l
 
 Chương trình Sharp Eyes gợi đến nhân vật Big Brother (bản dịch: "Đại ca") trong tiểu thuyết *1984* của George Orwell, tức một xã hội mà mọi công dân bị chính quyền giám sát liên tục qua màn hình (theo chú thích dịch giả).
 
-**Những người coi AI là tận thế.** Một số người dự đoán thế giới sẽ kết thúc theo nghĩa đen khi điểm kỳ dị (bản dịch: "trật tự đơn cực", singularity) đến, tức khi AI đủ tinh vi để tiếp quản mọi việc và khiến con người nói chung thành vô dụng; khi đó máy sẽ lập trình và điều khiển máy. Năm 1965, nhà khoa học Irving Good nói AI sẽ là "phát minh cuối cùng" mà con người cần tạo ra. Đồng nghiệp của ông, Alan Turing (người giải mã Enigma của Đức trong Thế chiến II và tiên phong về máy tính), tuyên bố năm 1951 rằng AI sẽ vượt xa năng lực yếu ớt của con người và nắm quyền kiểm soát. Nhà vật lý Stephen Hawking cũng nói AI có thể đánh dấu hồi kết của loài người. Ngoài các kịch bản tận thế, Guillén nhấn mạnh vai trò chuyển hóa của AI là không thể phủ nhận: ngay lúc này có hàng trăm nghìn lập trình viên đang xây dựng các chương trình học máy và ứng dụng đi kèm.
+**Những người coi AI là tận thế.** Một số người dự đoán thế giới sẽ kết thúc theo nghĩa đen khi điểm kỳ dị (bản dịch: "trật tự đơn cực", singularity) đến, tức khi AI đủ tinh vi để tiếp quản mọi việc và khiến con người nói chung thành vô dụng; khi đó máy sẽ lập trình và điều khiển máy.
 
-**Tài xế xe tải.** Guillén chuyển sang những tài xế xe đầu kéo nghỉ ở các trạm dừng trên đường cao tốc Mỹ. Họ chở hàng hóa đi khắp nước, làm nhiều giờ với lương thấp, nhất là người làm tự do, và khó ổn định chỗ ở vì chạy đường dài. Lái xe tải là nghề nhiều người làm nhất ở 29 trong 50 bang (xem Lưu ý về câu dịch); ngoại lệ chủ yếu là New England, vùng Trung Đại Tây Dương, California và Texas, nơi các nghề đông người nhất là lập trình viên, giáo viên tiểu học, nông dân, thư ký, trợ lý điều dưỡng, nhân viên bán lẻ, nhân viên chăm sóc khách hàng hoặc luật sư.
+Năm 1965, nhà khoa học Irving Good nói AI sẽ là "phát minh cuối cùng" mà con người cần tạo ra. Đồng nghiệp của ông, Alan Turing (người giải mã Enigma của Đức trong Thế chiến II và tiên phong về máy tính), tuyên bố năm 1951 rằng AI sẽ vượt xa năng lực yếu ớt của con người và nắm quyền kiểm soát. Nhà vật lý Stephen Hawking cũng nói AI có thể đánh dấu hồi kết của loài người. Ngoài các kịch bản tận thế, Guillén nhấn mạnh vai trò chuyển hóa của AI là không thể phủ nhận: ngay lúc này có hàng trăm nghìn lập trình viên đang xây dựng các chương trình học máy và ứng dụng đi kèm.
+
+**Tài xế xe tải.** Guillén chuyển sang những tài xế xe đầu kéo nghỉ ở các trạm dừng trên đường cao tốc Mỹ. Họ chở hàng hóa đi khắp nước, làm nhiều giờ với lương thấp, nhất là người làm tự do, và khó ổn định chỗ ở vì chạy đường dài. Lái xe tải là nghề nhiều người làm nhất ở 29 trong 50 bang (xem mục Lưu ý cuối chương về câu dịch); ngoại lệ chủ yếu là New England, vùng Trung Đại Tây Dương, California và Texas, nơi các nghề đông người nhất là lập trình viên, giáo viên tiểu học, nông dân, thư ký, trợ lý điều dưỡng, nhân viên bán lẻ, nhân viên chăm sóc khách hàng hoặc luật sư.
 
 | Nhóm | Số người có nguy cơ mất việc vì xe tự lái | Nguồn sách dẫn |
 |---|---|---|
@@ -633,9 +637,13 @@ Trong cùng thời gian, 300.000 robot được lắp đặt và làm công vi�
 
 Nhưng không lâu nữa, các việc trí óc thường xuyên như văn phòng và hành chính sẽ bị AI ảnh hưởng quy mô lớn. Bác sĩ phẫu thuật làm ca mổ thông thường, luật sư trẻ xử lý hồ sơ, giáo viên dạy lớp nhập môn có thể bị máy tính thông minh thay thế. Bước tiếp theo, có lẽ là bước cuối, là loại bỏ cả việc không thường xuyên, nhất là nếu điểm kỳ dị thật sự xảy ra.
 
-**Robot phẫu thuật STAR.** Phẫu thuật là một trong những việc phức tạp nhất thế giới, cần gần 10 năm học và đào tạo. Năm 2016, tạp chí *IEEE Spectrum* của Viện Kỹ sư Điện và Điện tử đưa tin một robot đã tự khâu ruột non của một con lợn bằng khả năng quan sát, dụng cụ và trí thông minh của chính nó, và robot phẫu thuật mô mềm tự động STAR làm tốt hơn bác sĩ: vết khâu của bác sĩ kém bền và dễ rò rỉ hơn. Peter Kim, bác sĩ phẫu thuật nhi tham gia nghiên cứu, nói rằng dù các bác sĩ tự hào về tay nghề, một chiếc máy giúp tăng hiệu quả và an toàn sẽ là lợi ích lớn. Ông cho rằng ban đầu robot chỉ hỗ trợ bác sĩ, giống như ô tô tự lái ban đầu chỉ là hỗ trợ đỗ xe rồi cảnh báo lệch làn. Như vậy robot không nhất thiết thay người lao động mà có thể giúp họ làm tốt hơn.
+**Robot phẫu thuật STAR.** Phẫu thuật là một trong những việc phức tạp nhất thế giới, cần gần 10 năm học và đào tạo. Năm 2016, tạp chí *IEEE Spectrum* của Viện Kỹ sư Điện và Điện tử đưa tin một robot đã tự khâu ruột non của một con lợn bằng khả năng quan sát, dụng cụ và trí thông minh của chính nó, và robot phẫu thuật mô mềm tự động STAR làm tốt hơn bác sĩ: vết khâu của bác sĩ kém bền và dễ rò rỉ hơn.
 
-**Robot không phán xét.** Một đặc điểm thú vị khác của robot là chúng không phán xét, ít nhất là chưa. Nhà báo Laura Sydell nhận xét rằng ta đã nói chuyện rất nhiều với Alexa và Siri, và hỏi điều gì sẽ xảy ra nếu những "nhân cách nhân tạo" ấy được đặt vào một con robot dễ thương. Alexander Reben, nhà nghiên cứu ở MIT, làm một robot bằng bìa cứng tên Boxie; một hôm ông thấy một người đàn ông kể lể chuyện riêng với Boxie như nói với người thật. Reben hợp tác với nghệ sĩ, nhà làm phim Brent Hoff để thiết kế một robot dễ thương khuyến khích người ta cởi mở; Hoff nói nó có nụ cười hoàn hảo, cởi mở, quan tâm, không phán xét và thân thiện nhất có thể. Kết quả ban đầu cho thấy cách này hiệu quả. Sherry Turkle, chuyên gia MIT về tương tác người và máy, nói con người rất dễ mở lòng với robot: "Chúng ta thuộc dạng dễ dãi".
+Peter Kim, bác sĩ phẫu thuật nhi tham gia nghiên cứu, nói rằng dù các bác sĩ tự hào về tay nghề, một chiếc máy giúp tăng hiệu quả và an toàn sẽ là lợi ích lớn. Ông cho rằng ban đầu robot chỉ hỗ trợ bác sĩ, giống như ô tô tự lái ban đầu chỉ là hỗ trợ đỗ xe rồi cảnh báo lệch làn. Như vậy robot không nhất thiết thay người lao động mà có thể giúp họ làm tốt hơn.
+
+**Robot không phán xét.** Một đặc điểm thú vị khác của robot là chúng không phán xét, ít nhất là chưa. Nhà báo Laura Sydell nhận xét rằng ta đã nói chuyện rất nhiều với Alexa và Siri, và hỏi điều gì sẽ xảy ra nếu những "nhân cách nhân tạo" ấy được đặt vào một con robot dễ thương. Alexander Reben, nhà nghiên cứu ở MIT, làm một robot bằng bìa cứng tên Boxie; một hôm ông thấy một người đàn ông kể lể chuyện riêng với Boxie như nói với người thật.
+
+Reben hợp tác với nghệ sĩ, nhà làm phim Brent Hoff để thiết kế một robot dễ thương khuyến khích người ta cởi mở; Hoff nói nó có nụ cười hoàn hảo, cởi mở, quan tâm, không phán xét và thân thiện nhất có thể. Kết quả ban đầu cho thấy cách này hiệu quả. Sherry Turkle, chuyên gia MIT về tương tác người và máy, nói con người rất dễ mở lòng với robot: "Chúng ta thuộc dạng dễ dãi".
 
 ### 5. "Bài toán xe điện" trong thời đại máy thông minh (trang PDF 230–234)
 
@@ -671,7 +679,9 @@ Ngoài ba xu hướng chung, các câu trả lời khác nhau theo nhiều chi�
 
 Iyad Rahwan, một tác giả của nghiên cứu, nói điều đáng lo là đa số tin rằng có thể xây dựng một bộ quy tắc đạo đức hoàn hảo cho máy, nhưng dữ liệu cho thấy không có quy tắc chung nào. Đồng tác giả Edmond Awad thấy hứa hẹn ở chỗ người ta đã bắt đầu nhận ra AI có thể tác động đạo đức khác nhau đến các nhóm người khác nhau. Barbara Wege, phụ trách mảng xe tự hành của Audi (Đức), đề nghị xã hội cần thống nhất những dạng rủi ro có thể chấp nhận.
 
-**Đạo đức nào cho AI.** Bài toán xe điện không phải mối lo duy nhất. Guillén và Srikar Reddy, CEO của Sonata Software, viết trên blog của Diễn đàn Kinh tế Thế giới rằng cần phân biệt đạo đức dựa trên nghĩa vụ (chú trọng ý định và phương tiện) với đạo đức dựa trên mục đích (chú trọng mục đích và kết quả), và cách nào tốt hơn tùy công nghệ và bối cảnh. Với xe tự hành, để có hệ thống giao thông không lỗi, hiệu quả và thân thiện môi trường, có thể chấp nhận thu thập dữ liệu lái xe quy mô lớn trong nhiều điều kiện và thử nghiệm ứng dụng AI. Ngược lại, khó lấy mục đích tốt để biện minh cho thí nghiệm y học dựa trên dữ liệu lớn, vì lịch sử đã có những thí nghiệm y khoa khủng khiếp trên con người; ở đây cách dựa vào ý định và phương tiện phù hợp hơn.
+**Đạo đức nào cho AI.** Bài toán xe điện không phải mối lo duy nhất. Guillén và Srikar Reddy, CEO của Sonata Software, viết trên blog của Diễn đàn Kinh tế Thế giới rằng cần phân biệt đạo đức dựa trên nghĩa vụ (chú trọng ý định và phương tiện) với đạo đức dựa trên mục đích (chú trọng mục đích và kết quả), và cách nào tốt hơn tùy công nghệ và bối cảnh.
+
+Với xe tự hành, để có hệ thống giao thông không lỗi, hiệu quả và thân thiện môi trường, có thể chấp nhận thu thập dữ liệu lái xe quy mô lớn trong nhiều điều kiện và thử nghiệm ứng dụng AI. Ngược lại, khó lấy mục đích tốt để biện minh cho thí nghiệm y học dựa trên dữ liệu lớn, vì lịch sử đã có những thí nghiệm y khoa khủng khiếp trên con người; ở đây cách dựa vào ý định và phương tiện phù hợp hơn.
 
 Nhóm Máy đo Đạo đức kết luận rằng chưa bao giờ trong lịch sử loài người, ta cho phép một cỗ máy tự quyết định ai sống ai chết trong tích tắc mà không có con người giám sát trực tiếp, nhưng thời điểm đó có thể đến bất cứ lúc nào; Guillén cho rằng đó sẽ là khoảng năm 2030. Nhóm nghiên cứu đề nghị trước khi để xe tự ra quyết định đạo đức, người dân khắp thế giới cần bày tỏ thiên hướng của mình để công ty thiết kế thuật toán và nhà hoạch định chính sách điều chỉnh các công ty. Guillén kết đoạn: vấn đề là đạo đức và lương tâm không thể lập trình thành quy tắc tự động hay thuật toán.
 
@@ -679,7 +689,9 @@ Nhóm Máy đo Đạo đức kết luận rằng chưa bao giờ trong lịch s�
 
 Câu hỏi khiêu khích ở tiêu đề là của Richard A. D'Aveni, giáo sư Trường Kinh doanh Tuck thuộc Đại học Dartmouth. Máy in 3D tạo vật thể ba chiều bằng cách in các lớp rất mỏng theo trình tự rồi chồng lên nhau; thuật ngữ kỹ thuật là "sản xuất đắp lớp". Kỹ thuật này giảm vật liệu thừa vì chỉ dùng đúng lượng cần để làm mọi thứ, từ chi tiết nhựa, thiết bị nha khoa đến mô thay thế cho người. Nó cũng cần năng lượng như sản xuất truyền thống nhưng thải ít khói và khí độc hại hơn. Lợi ích lớn nhất là đưa xưởng in, nhà máy nhỏ lại gần khách hàng, tiết kiệm chi phí vận chuyển.
 
-D'Aveni nhắc rằng ta quen nghĩ sản xuất số lượng lớn làm giảm giá thành, nhưng từ thập niên 1980 nhà máy nhỏ và sản xuất linh hoạt đã thành xu thế, và in 3D sẽ đẩy xu thế này đi xa hơn, có lợi lớn cho môi trường. Ông hy vọng ta sẽ rời bỏ văn hóa vứt bỏ của thế kỷ 20: mọi người mua ít hơn và hài lòng hơn với cái mình có, đúng lời khuyên của các nhà môi trường; làm ít hàng hóa hơn với ít nguyên liệu hơn thì lượng carbon thải ra giảm. Guillén diễn giải: in 3D chỉ phát triển nếu nhà quản lý và khách hàng bỏ lối nghĩ cũ, đổi thói quen, nhìn từ nhiều góc. Thay vì làm thêm hàng để sẵn trong kho, công ty nên học cách làm đúng theo nhu cầu thật; khách hàng cũng nên học cách chờ đến khi thật cần. D'Aveni lưu ý rằng khí thải từ vận chuyển hàng hóa chiếm khoảng một phần tư tổng khí thải ở các nước giàu.
+D'Aveni nhắc rằng ta quen nghĩ sản xuất số lượng lớn làm giảm giá thành, nhưng từ thập niên 1980 nhà máy nhỏ và sản xuất linh hoạt đã thành xu thế, và in 3D sẽ đẩy xu thế này đi xa hơn, có lợi lớn cho môi trường. Ông hy vọng ta sẽ rời bỏ văn hóa vứt bỏ của thế kỷ 20: mọi người mua ít hơn và hài lòng hơn với cái mình có, đúng lời khuyên của các nhà môi trường; làm ít hàng hóa hơn với ít nguyên liệu hơn thì lượng carbon thải ra giảm.
+
+Guillén diễn giải: in 3D chỉ phát triển nếu nhà quản lý và khách hàng bỏ lối nghĩ cũ, đổi thói quen, nhìn từ nhiều góc. Thay vì làm thêm hàng để sẵn trong kho, công ty nên học cách làm đúng theo nhu cầu thật; khách hàng cũng nên học cách chờ đến khi thật cần. D'Aveni lưu ý rằng khí thải từ vận chuyển hàng hóa chiếm khoảng một phần tư tổng khí thải ở các nước giàu.
 
 **Các ví dụ ứng dụng:**
 
@@ -701,7 +713,9 @@ Các công ty bảo hiểm luôn tính sẵn một biên an toàn cho sai sót: 
 
 Trong tương lai, dữ liệu thời gian thực sẽ cho phép tính phí theo hành vi lái xe thật thay vì theo định kiến về nhóm. Người lái ẩu hoặc rủi ro cao sẽ trả phí cao hơn, bất kể nam hay nữ, già hay trẻ. Ý tưởng bị theo dõi kiểu Big Brother đáng lo, nhưng Guillén cho rằng nhiều người có thể chấp nhận bị giám sát hành vi lái xe nếu nhờ vậy họ trả phí thấp hơn.
 
-Nhóm công nghệ làm việc này khả thi là **Internet Vạn vật**: mạng kết nối cảm biến và thiết bị phục vụ vận hành nhà máy, khu mỏ, hệ thống năng lượng, giao thông, cửa hàng bán lẻ, xe cộ, nhà ở, văn phòng và cả con người. Nó có tiềm năng cách mạng hóa không chỉ ngành bảo hiểm mà cả nền kinh tế và xã hội. Đến năm 2030 sẽ có khoảng 200 tỷ thiết bị và cảm biến kết nối, phát triển nhanh trong nhà máy, thành phố, y tế, bán lẻ và giao thông. Triển khai đầy đủ cần một hệ sinh thái rất lớn gồm thiết bị, truyền dữ liệu, lưu trữ, phân tích và vòng phản hồi, nên sẽ cần nhiều người xây dựng hạ tầng này. Guillén kết luận làn sóng phá vỡ sáng tạo này sẽ xóa một số việc làm nhưng cũng hứa hẹn tạo ra nhiều việc làm khác.
+Nhóm công nghệ làm việc này khả thi là **Internet Vạn vật**: mạng kết nối cảm biến và thiết bị phục vụ vận hành nhà máy, khu mỏ, hệ thống năng lượng, giao thông, cửa hàng bán lẻ, xe cộ, nhà ở, văn phòng và cả con người. Nó có tiềm năng cách mạng hóa không chỉ ngành bảo hiểm mà cả nền kinh tế và xã hội.
+
+Đến năm 2030 sẽ có khoảng 200 tỷ thiết bị và cảm biến kết nối, phát triển nhanh trong nhà máy, thành phố, y tế, bán lẻ và giao thông. Triển khai đầy đủ cần một hệ sinh thái rất lớn gồm thiết bị, truyền dữ liệu, lưu trữ, phân tích và vòng phản hồi, nên sẽ cần nhiều người xây dựng hạ tầng này. Guillén kết luận làn sóng phá vỡ sáng tạo này sẽ xóa một số việc làm nhưng cũng hứa hẹn tạo ra nhiều việc làm khác.
 
 ### 8. Giúp rèn luyện não bộ để hạnh phúc và mạnh khỏe hơn (trang PDF 241–242)
 
@@ -716,7 +730,9 @@ Guillén dự báo đến 2030, công nghệ này cùng kinh nghiệm tích lũy
 
 ### 9. Ngăn chặn biến đổi khí hậu bằng công nghệ nano (trang PDF 243–245)
 
-**Vấn đề của ngành may mặc.** Ngành may mặc là một trong những nguồn gây biến đổi khí hậu lớn nhất: khoảng 8% tổng khí thải carbon, nhiều hơn hàng không và vận tải biển cộng lại. Sản xuất một áo phông polyester thải carbon nhiều hơn gấp đôi áo cotton. Trào lưu "thời trang nhanh", với mẫu mới vài tuần một lần, làm vấn đề nặng hơn. Một bài trên tạp chí thuộc nhóm *Nature* năm 2018 (*Nature Climate Change*, theo danh mục nguồn) cho biết mỗi người mua 20 bộ quần áo mới mỗi năm, nhiều hơn 60% so với năm 2000; quần áo bị bỏ đi khi chưa mặc bao lâu, vòng đời ngắn lại nên phát thải tăng, và xu thế sẽ tiếp tục vì tầng lớp trung lưu mở rộng. Thêm nữa, người ta còn ngại mua quần áo cũ, trong khi người am hiểu ô tô lại thích mua xe đã qua sử dụng.
+**Vấn đề của ngành may mặc.** Ngành may mặc là một trong những nguồn gây biến đổi khí hậu lớn nhất: khoảng 8% tổng khí thải carbon, nhiều hơn hàng không và vận tải biển cộng lại. Sản xuất một áo phông polyester thải carbon nhiều hơn gấp đôi áo cotton. Trào lưu "thời trang nhanh", với mẫu mới vài tuần một lần, làm vấn đề nặng hơn.
+
+Một bài trên tạp chí thuộc nhóm *Nature* năm 2018 (*Nature Climate Change*, theo danh mục nguồn) cho biết mỗi người mua 20 bộ quần áo mới mỗi năm, nhiều hơn 60% so với năm 2000; quần áo bị bỏ đi khi chưa mặc bao lâu, vòng đời ngắn lại nên phát thải tăng, và xu thế sẽ tiếp tục vì tầng lớp trung lưu mở rộng. Thêm nữa, người ta còn ngại mua quần áo cũ, trong khi người am hiểu ô tô lại thích mua xe đã qua sử dụng.
 
 | Chỉ tiêu | Số liệu |
 |---|---|
@@ -725,7 +741,7 @@ Guillén dự báo đến 2030, công nghệ này cùng kinh nghiệm tích lũy
 | Quần áo mới mỗi người mỗi năm | 20 bộ |
 | Lượng mua so với năm 2000 | Nhiều hơn 60% |
 
-**Công nghệ nano.** Đây là các công nghệ biến đổi vật chất ở mức nguyên tử, phân tử hoặc siêu phân tử, thiết kế các hạt cực nhỏ (bản dịch ghi "một phần tỷ centimet", xem Lưu ý) để tạo vật liệu bền hơn, rẻ hơn hoặc thân thiện môi trường hơn. Ứng dụng phổ biến nhất có lẽ là **vật chất lập trình được**: vật liệu đổi được hình dạng, mật độ, độ dẫn điện hay tính chất quang học khi nhận tín hiệu từ cảm biến.
+**Công nghệ nano.** Đây là các công nghệ biến đổi vật chất ở mức nguyên tử, phân tử hoặc siêu phân tử, thiết kế các hạt cực nhỏ (bản dịch ghi "một phần tỷ centimet", xem mục Lưu ý cuối chương) để tạo vật liệu bền hơn, rẻ hơn hoặc thân thiện môi trường hơn. Ứng dụng phổ biến nhất có lẽ là **vật chất lập trình được**: vật liệu đổi được hình dạng, mật độ, độ dẫn điện hay tính chất quang học khi nhận tín hiệu từ cảm biến.
 
 - **Quần áo mọi mùa:** đến 2030, ta có thể không phải mua quần áo theo mùa; cùng một bộ có thể giữ ấm mùa đông, mát mùa hè, thậm chí đổi màu theo nhiệt độ ngoài trời. Phòng thí nghiệm Tự lắp ráp của MIT nói quần áo mặc được trong mọi thời tiết không còn là viễn tưởng; họ đã tạo ra một vật liệu thông minh hoạt động như lỗ chân lông trên da, co lại khi lạnh để cách nhiệt và giãn ra khi nóng để thông khí.
 - **Tiết kiệm năng lượng:** vật liệu tổng hợp bền hơn đã có trong máy bay, ô tô, ván trượt, vợt tennis, giúp giảm năng lượng sản xuất. Ngành xây dựng sẽ dùng vật liệu bền và tiết kiệm năng lượng hơn; một nghiên cứu gần đây (Jelena Bozic, 2015, theo danh mục nguồn) nói công nghệ nano hứa hẹn cách nhiệt tốt hơn, giảm phụ thuộc vào tài nguyên không tái tạo, là chiến lược quan trọng cho công trình xanh; dùng vật liệu cách nhiệt nano để làm tường mỏng hơn là một trong những cách tiết kiệm năng lượng tiềm năng nhất cho cả nhà mới lẫn công trình di sản.
@@ -749,7 +765,9 @@ Guillén cho rằng các ứng dụng này chắc chắn sẽ góp phần làm c
 | Thiếu hệ sinh thái | Công nghệ thay đổi nhờ hệ sinh thái chứ không đứng riêng; giao diện và phần mềm sách điện tử ít đổi mới nên chức năng còn hạn chế |
 | Trải nghiệm đọc | Nghiên cứu cho thấy đọc sách in dễ tiếp nhận thông tin hơn; Abigail Sellen (Microsoft Research Cambridge, Anh) nói cảm giác hiện hữu của sách giấy quan trọng hơn ta tưởng và nhà sản xuất sách điện tử đã bỏ qua nó; *Scientific American* viết màn hình và phần mềm đọc sách làm mất sự tình cờ và cảm giác kiểm soát, ví dụ người đọc thích lật lại phần trước khi gặp một câu gợi nhớ |
 
-Sách điện tử cũng không có giao diện hấp dẫn như tạp chí số. Năm 2011, video "Tạp chí là chiếc iPad không hoạt động" lan truyền trên YouTube: một bé gái một tuổi lướt ngón tay trên iPad, chơi với các biểu tượng ứng dụng, rồi vuốt, quẹt, chọc vào trang tạp chí giấy và thất vọng vì không có gì xảy ra; người cha nói với con mình, tạp chí là một chiếc iPad hỏng, và ấn tượng ấy sẽ theo con suốt đời. Guillén cho rằng thế hệ "sinh ra trong thời kỹ thuật số" (đã nhắc ở Chương 2) không mấy thích sách điện tử vì chúng chẳng hơn bản số của sách in là bao. Sách điện tử có thể hấp dẫn hơn nếu cách tạo ra văn bản cũng đổi mới; theo *Scientific American*, một số tác giả đang làm việc với lập trình viên để tạo ra tác phẩm hư cấu và phi hư cấu có tính tương tác cao, người đọc tự chọn đọc, nghe hay xem gì tiếp theo.
+Sách điện tử cũng không có giao diện hấp dẫn như tạp chí số. Năm 2011, video "Tạp chí là chiếc iPad không hoạt động" lan truyền trên YouTube: một bé gái một tuổi lướt ngón tay trên iPad, chơi với các biểu tượng ứng dụng, rồi vuốt, quẹt, chọc vào trang tạp chí giấy và thất vọng vì không có gì xảy ra; người cha nói với con mình, tạp chí là một chiếc iPad hỏng, và ấn tượng ấy sẽ theo con suốt đời.
+
+Guillén cho rằng thế hệ "sinh ra trong thời kỹ thuật số" (đã nhắc ở Chương 2) không mấy thích sách điện tử vì chúng chẳng hơn bản số của sách in là bao. Sách điện tử có thể hấp dẫn hơn nếu cách tạo ra văn bản cũng đổi mới; theo *Scientific American*, một số tác giả đang làm việc với lập trình viên để tạo ra tác phẩm hư cấu và phi hư cấu có tính tương tác cao, người đọc tự chọn đọc, nghe hay xem gì tiếp theo.
 
 **Sách điện tử ở châu Phi.** Trong khi sách điện tử khó tìm chỗ đứng ở nước giàu, ở các nước đang phát triển nó là món quà quý nếu ta nghĩ sáng tạo. Một thách thức lớn của châu Phi là giáo dục cho dân số tăng nhanh: như Chương 1 đã nêu, từ 2020 đến 2030 châu Phi sẽ có thêm khoảng 450 triệu trẻ em, chiếm một phần ba số trẻ sinh ra trên thế giới.
 
@@ -774,7 +792,9 @@ Guillén cho rằng nhiều khả năng châu Phi sẽ dẫn đầu thế giới
 
 Để so sánh, quần áo và giày dép bán qua Internet chiếm hơn 50% ở nhiều nước, điều lạ vì quần áo là thứ cần thử ở cửa hàng, còn ở cửa hàng rượu người ta chỉ được nếm hạn chế. Các lý do có thể: người mua không rành rượu vang nên muốn nhân viên tư vấn; sợ vỡ khi vận chuyển; đang thèm và muốn có ngay; và thuyết phục hơn cả, đa số mua rượu vào phút cuối, trước một dịp đặc biệt hay một bữa tiệc. Những yếu tố này kìm doanh số trực tuyến nhưng không giải thích được vì sao Trung Quốc, Úc và Anh là ngoại lệ.
 
-Ở Trung Quốc, như Chương 3 đã nói, không dễ mở đủ cửa hàng rượu vang thật nhanh cho tầng lớp khá giả đang tăng. Với Úc và Anh, câu trả lời nằm ở cách bán: một số rượu vang được bán theo "nhãn" (rượu terroir, tinh tế và đắt hơn), một số theo thương hiệu (rẻ hơn). Pháp có tới 27.000 nơi sản xuất rượu vang và chừng ấy nhãn, mỗi nhãn một đặc điểm và hương vị riêng, nên rượu terroir khó mua trên mạng như rượu chuẩn hóa theo thương hiệu. Một trong những thương hiệu nổi tiếng nhất là Yellow Tail của Úc. Ở Úc, Anh và Trung Quốc, người tiêu dùng chủ yếu mua theo thương hiệu vì thị trường đại chúng hình thành muộn, khoảng thập niên 1980, và thế hệ người mua mới chưa có thời gian làm quen với sự phức tạp của rượu terroir. Học giả Julie Bower (danh mục nguồn ghi Julia Bower) viết trên tạp chí *Beverages* rằng Vương quốc Anh hiện là một trong những thị trường rượu vang lớn nhất thế giới chủ yếu nhờ các thương hiệu lâu đời, cùng các thương hiệu Úc đến sau vào thập niên 1990, thay rượu Pháp và chiếm phần lớn thị trường đại chúng.
+Ở Trung Quốc, như Chương 3 đã nói, không dễ mở đủ cửa hàng rượu vang thật nhanh cho tầng lớp khá giả đang tăng. Với Úc và Anh, câu trả lời nằm ở cách bán: một số rượu vang được bán theo "nhãn" (rượu terroir, tinh tế và đắt hơn), một số theo thương hiệu (rẻ hơn). Pháp có tới 27.000 nơi sản xuất rượu vang và chừng ấy nhãn, mỗi nhãn một đặc điểm và hương vị riêng, nên rượu terroir khó mua trên mạng như rượu chuẩn hóa theo thương hiệu. Một trong những thương hiệu nổi tiếng nhất là Yellow Tail của Úc.
+
+Ở Úc, Anh và Trung Quốc, người tiêu dùng chủ yếu mua theo thương hiệu vì thị trường đại chúng hình thành muộn, khoảng thập niên 1980, và thế hệ người mua mới chưa có thời gian làm quen với sự phức tạp của rượu terroir. Học giả Julie Bower (danh mục nguồn ghi Julia Bower) viết trên tạp chí *Beverages* rằng Vương quốc Anh hiện là một trong những thị trường rượu vang lớn nhất thế giới chủ yếu nhờ các thương hiệu lâu đời, cùng các thương hiệu Úc đến sau vào thập niên 1990, thay rượu Pháp và chiếm phần lớn thị trường đại chúng.
 
 Guillén kết luận rằng, giống sách điện tử, hình thức trực tuyến chỉ nắm được thị hiếu trong một số bối cảnh cụ thể; ngoài các bối cảnh ấy, công nghệ dù tiện nhất hay rẻ nhất cũng không thành công.
 
@@ -790,7 +810,9 @@ Nhưng mỗi công nghệ đều có thể gây bi kịch nếu nó xóa việc 
 
 **Cải biến bánh xe: bánh đà.** Ta cũng có thể dùng công nghệ cũ theo cách mới và sáng tạo hơn. Ví dụ nổi bật là bánh đà. Hàng nghìn năm nó là bàn xoay trong nghề gốm, giúp chuyển động quay đều để làm ra đồ gốm đẹp và mịn; rất có thể người Sumer cổ đại ở vùng nay là Iraq phát minh ra nó. Thập niên 1770, James Watt tìm ra công dụng khác: gắn một bánh đà hình đĩa vào trục động cơ hơi nước để trục quay đều dù lực đẩy lên xuống của piston không đều.
 
-Thập niên 2010, một công ty ở Massachusetts phát triển bánh đà để tích trữ điện thừa (vốn sẽ bị lãng phí) và làm ổn định dòng điện giúp nhà máy điện chạy hiệu quả hơn. Cơ sở đầu tiên ở Stephentown, New York, có 200 bánh đà với công suất 20 megawatt; bản dịch nói con số này đủ đáp ứng 1/10 lượng điện tiêu thụ hằng ngày của bang (xem Lưu ý). Bánh đà loại này không làm bằng đá hay thép mà bằng sợi carbon nhẹ, treo trong buồng chân không bằng lực từ của nam châm để giảm ma sát, nên quay nhanh hơn động cơ phản lực và giữ được năng lượng dưới dạng động lượng. Khi hãm bánh đà, động năng được đổi thành điện năng bất cứ lúc nào. Công nghệ này cũng hứa hẹn bù cho điện mặt trời vào ngày nhiều mây và điện gió khi gió yếu hoặc lặng. Như vậy, bánh đà tìm được ứng dụng mới trong thời năng lượng khan hiếm và ý thức môi trường cao: cái cũ được cải biến để đáp ứng xu hướng mới.
+Thập niên 2010, một công ty ở Massachusetts phát triển bánh đà để tích trữ điện thừa (vốn sẽ bị lãng phí) và làm ổn định dòng điện giúp nhà máy điện chạy hiệu quả hơn. Cơ sở đầu tiên ở Stephentown, New York, có 200 bánh đà với công suất 20 megawatt; bản dịch nói con số này đủ đáp ứng 1/10 lượng điện tiêu thụ hằng ngày của bang (xem mục Lưu ý cuối chương).
+
+Bánh đà loại này không làm bằng đá hay thép mà bằng sợi carbon nhẹ, treo trong buồng chân không bằng lực từ của nam châm để giảm ma sát, nên quay nhanh hơn động cơ phản lực và giữ được năng lượng dưới dạng động lượng. Khi hãm bánh đà, động năng được đổi thành điện năng bất cứ lúc nào. Công nghệ này cũng hứa hẹn bù cho điện mặt trời vào ngày nhiều mây và điện gió khi gió yếu hoặc lặng. Như vậy, bánh đà tìm được ứng dụng mới trong thời năng lượng khan hiếm và ý thức môi trường cao: cái cũ được cải biến để đáp ứng xu hướng mới.
 
 **Kết luận của chương.** Công nghệ chỉ được áp dụng rộng rãi nếu nó cộng hưởng với những gì đang phát triển trong xã hội và kinh tế. Công nghệ mới thắng thế khi nó đem lại tiến bộ cho những người tiếp cận được nó, như điện thoại di động và sách điện tử ở châu Phi, hay bán rượu trực tuyến ở Trung Quốc và Anh. Để thật sự thay đổi thế giới, đổi mới công nghệ phải cưỡi những con sóng lớn về dân số và kinh tế, điều mà Chương 7 sẽ cho thấy.
 
@@ -958,7 +980,7 @@ Theo hiểu biết của người tổng hợp, đến giữa thập niên 2020 
 - **Giả định rằng thị trường và bối cảnh quyết định, công nghệ đứng sau.** Đây là cách nhìn của một nhà xã hội học tổ chức. Nó giải thích tốt các trường hợp thất bại (sách điện tử, rượu trực tuyến) nhưng có nguy cơ giải thích "sau khi đã biết kết quả": các lý do cho trường hợp rượu (thương hiệu so với terroir) là hợp lý nhưng chưa được kiểm định; Guillén cũng nêu nhiều lý do song song mà không cân xem lý do nào mạnh nhất.
 - **Chương rộng nhưng nông.** Chương đi qua AI, robot, xe tự lái, đạo đức, in 3D, Internet Vạn vật, VR, nano, sách điện tử, rượu và bánh đà; mỗi mục là một vài ví dụ và trích dẫn, ít phân tích định lượng. Nhiều trích dẫn lấy từ báo chí và blog công nghệ; vài số liệu không có nguồn rõ (tuổi thọ công ty S&P 500, tỷ lệ quần áo bán trực tuyến trên 50%).
 - **Mặt trái được nêu nhưng ít được phân tích.** Guillén liệt kê rủi ro (mất việc, quyền riêng tư, súng in 3D, thông tin sai lệch, giám sát kiểu Sharp Eyes) nhưng không đề xuất chính sách cụ thể ngoài lời kêu gọi thảo luận công khai về đạo đức máy.
-- **Một số lỗi thực tế** (đồng hồ thạch anh, kỷ Cambri, kích thước nano, bánh đà) đã ghi ở khối Lưu ý; chúng không làm hỏng luận điểm chính nhưng nhắc người đọc đối chiếu khi trích lại.
+- **Một số lỗi thực tế** (đồng hồ thạch anh, kỷ Cambri, kích thước nano, bánh đà) đã ghi ở mục Lưu ý cuối chương; chúng không làm hỏng luận điểm chính nhưng nhắc người đọc đối chiếu khi trích lại.
 
 ### Liên hệ với các chương khác
 
@@ -971,5 +993,196 @@ Theo hiểu biết của người tổng hợp, đến giữa thập niên 2020 
 ### Vận dụng
 
 - **Công việc:** dùng bảng bốn loại việc làm của chương để tự kiểm tra: phần nào trong công việc của mình là lặp lại theo quy trình (dễ bị tự động hóa), phần nào đòi hỏi xử lý tình huống mới, giao tiếp, phán đoán (khó thay hơn)? Lời Peter Kim gợi một chiến lược thực tế: học cách làm việc cùng công cụ tự động (dùng nó như trợ lý) thay vì cạnh tranh với nó. Với người quản lý, bài học Thụy Sĩ là cảnh báo về sức ì: một công nghệ do chính đội mình làm ra mà bị gạt đi vì "không hợp truyền thống" có thể là thứ đối thủ dùng để vượt mặt.
-- **Đầu tư:** phá vỡ sáng tạo nghĩa là công ty dẫn đầu hôm nay không chắc còn dẫn đầu sau mười năm (tuổi thọ công ty trong chỉ số ngắn lại), nên đặt cược dài hạn vào một doanh nghiệp đơn lẻ rủi ro hơn nắm giữ cả chỉ số vốn tự thay mới thành phần (nhận xét của người tổng hợp). Khi đánh giá một câu chuyện công nghệ, hỏi câu Guillén hỏi: nó có khớp với nhu cầu, hạ tầng và thói quen của người dùng không, hay chỉ "tiện nhất, rẻ nhất" trên giấy? Ví dụ sách điện tử và rượu trực tuyến cho thấy công nghệ tốt vẫn có thể không có thị trường; còn các dự báo quá đà như 200 tỷ thiết bị Internet Vạn vật nhắc phải chiết khấu những con số tròn và lớn. Thị trường "nhảy cóc" (thanh toán di động ở châu Phi) là nơi tăng trưởng có thể đến từ chỗ không ai ngờ.
+- **Đầu tư:** phá vỡ sáng tạo nghĩa là công ty dẫn đầu hôm nay không chắc còn dẫn đầu sau mười năm (tuổi thọ công ty trong chỉ số ngắn lại), nên đặt cược dài hạn vào một doanh nghiệp đơn lẻ rủi ro hơn nắm giữ cả chỉ số vốn tự thay mới thành phần (nhận xét của người tổng hợp).
+
+  Khi đánh giá một câu chuyện công nghệ, hỏi câu Guillén hỏi: nó có khớp với nhu cầu, hạ tầng và thói quen của người dùng không, hay chỉ "tiện nhất, rẻ nhất" trên giấy? Ví dụ sách điện tử và rượu trực tuyến cho thấy công nghệ tốt vẫn có thể không có thị trường; còn các dự báo quá đà như 200 tỷ thiết bị Internet Vạn vật nhắc phải chiết khấu những con số tròn và lớn. Thị trường "nhảy cóc" (thanh toán di động ở châu Phi) là nơi tăng trưởng có thể đến từ chỗ không ai ngờ.
 - **Đời sống:** bảo hiểm theo hành vi là một lựa chọn đánh đổi giữa phí thấp hơn và việc bị theo dõi; nên biết rõ dữ liệu nào được thu và dùng vào đâu trước khi đồng ý. Số liệu ngành may mặc (20 bộ quần áo mỗi người mỗi năm, gấp 1,6 lần năm 2000; áo polyester thải carbon gấp đôi áo cotton) là lý do cụ thể để mua ít hơn và dùng lâu hơn, đúng lời D'Aveni. Với con nhỏ, câu chuyện "tạp chí là chiếc iPad hỏng" và nghiên cứu về trải nghiệm đọc sách giấy gợi ý giữ sách in trong nhà song song với thiết bị số.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết (điện thoại đến trước nhà vệ sinh, đồng hồ đeo tay và phá vỡ sáng tạo, AI cùng việc làm và đạo đức xe tự lái, in 3D cùng Internet Vạn vật, thực tế ảo và công nghệ nano, sách điện tử và rượu trực tuyến, danh sách ưu tiên và bánh đà), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: công nghệ chỉ thắng thế khi nó tác động tới và cưỡi được các con sóng dân số, kinh tế lớn`"]
+  n1["`Mục 1 — Điện thoại đến trước nhà vệ sinh`"]
+  n0 --- n1
+  n2["`1,5 tỷ người có điện thoại nhưng phải đi vệ sinh ngoài trời hoặc ở nhà vệ sinh công cộng`"]
+  n1 --- n2
+  n3["`Ở 20% hộ nghèo nhất Ấn Độ, số hộ có điện thoại gấp 3 số hộ có nhà vệ sinh`"]
+  n1 --- n3
+  n4["`1,5 triệu trẻ em chết mỗi năm vì nước ô nhiễm và vệ sinh kém (Zafar Adeel)`"]
+  n1 --- n4
+  n5["`Châu Phi hạ Sahara có 60% dân ở nông thôn: dựng tháp viễn thông rẻ và nhanh hơn kéo dây cố định, xây cống`"]
+  n1 --- n5
+  n6["`Dưới 10% dân có tài khoản ngân hàng nên điện thoại thành công cụ chuyển và nhận tiền`"]
+  n1 --- n6
+  n7["`Thanh toán di động ở đây phổ biến hơn Đông Á, Nam Á, châu Âu, châu Mỹ`"]
+  n6 --- n7
+  n8["`Loowatt của Virginia Gardiner (2010): nhà vệ sinh không dùng nước, màng phân hủy sinh học niêm phong chất thải`"]
+  n1 --- n8
+  n9["`Chất thải thành khí sinh học phát điện để sạc điện thoại di động`"]
+  n8 --- n9
+  n10["`Năm 2011 nhận tài trợ từ cuộc thi nhà vệ sinh của Quỹ Bill #amp; Melinda Gates`"]
+  n8 --- n10
+  n11["`Câu hỏi đúng: công nghệ tác động thế nào tới xu hướng dân số và xã hội, không phải tiến xa đến đâu`"]
+  n1 --- n11
+  n12["`Mục 2–3 — Đồng hồ đeo tay, phá vỡ sáng tạo và kỷ Cambri mới`"]
+  n0 --- n12
+  n13["`Thụy Sĩ thống trị nhờ thợ thủ công giỏi, Rolex chuyển từ London sang Thụy Sĩ năm 1919`"]
+  n12 --- n13
+  n14["`Sau Thế chiến II Timex sản xuất hàng loạt: giá quan trọng hơn chất lượng và độ bền`"]
+  n12 --- n14
+  n15["`Thập niên 1960 âm thoa do kỹ sư Thụy Sĩ phát minh nhưng Bulova (Mỹ) khai thác`"]
+  n12 --- n15
+  n16["`Thập niên 1970 thạch anh: Seiko, Citizen, Casio vượt Timex và Bulova`"]
+  n12 --- n16
+  n17["`Swatch cứu ngành đồng hồ Thụy Sĩ bằng đồng hồ như món thời trang, đồ sưu tập`"]
+  n12 --- n17
+  n18["`Điện thoại biến đồng hồ thành đồ xa xỉ, Apple, Samsung, Xiaomi chuyển sang bán đồng hồ thông minh`"]
+  n12 --- n18
+  n19["`Schumpeter (1942): phá vỡ sáng tạo là thực tế cốt lõi của chủ nghĩa tư bản`"]
+  n12 --- n19
+  n20["`Mỗi lần thay công nghệ có việc làm mất và việc làm mới, nước sản xuất lên rồi xuống`"]
+  n19 --- n20
+  n21["`Tự động hóa giải phóng khỏi việc lặp lại nhưng xóa những việc từng đưa người lao động lên trung lưu`"]
+  n19 --- n21
+  n22["`Tuổi thọ trung bình của công ty trong S#amp;P 500 giảm từ 60 năm xuống 10 năm trong nửa thế kỷ`"]
+  n12 --- n22
+  n23["`Đến 2030 có nhiều máy tính hơn trí óc, nhiều cảm biến hơn mắt người, nhiều cánh tay robot hơn công nhân`"]
+  n12 --- n23
+  n24["`Như bùng nổ kỷ Cambri 541 triệu năm trước: AI, in 3D, thực tế ảo, công nghệ nano bùng nổ cùng lúc`"]
+  n23 --- n24
+  n25["`Mục 4–5 — AI, việc làm và đạo đức của xe tự lái`"]
+  n0 --- n25
+  n26["`Phe coi nhẹ AI (Economist 1992, Musk, Picasso) đối lập phe tận thế (Good, Turing, Hawking, điểm kỳ dị)`"]
+  n25 --- n26
+  n27["`Deep Blue thắng Kasparov 1997, ASIMO 2000, Siri 2011, Sharp Eyes chấm điểm công dân Trung Quốc`"]
+  n25 --- n27
+  n28["`1,5–2,2 triệu tài xế xe tải Mỹ (60–90% số tài xế năm 2015) có nguy cơ mất việc vì xe tự lái`"]
+  n25 --- n28
+  n29["`Một robot thay 5–6 công nhân, 300.000 robot làm việc của gần 2 triệu công nhân`"]
+  n25 --- n29
+  n30["`Mỹ 1983–2015: việc tay chân thường xuyên 28 lên 30 triệu, trí óc không thường xuyên 28 lên 57 triệu`"]
+  n25 --- n30
+  n31["`AI sẽ chạm tới việc trí óc thường xuyên, cuối cùng là việc không thường xuyên nếu điểm kỳ dị xảy ra`"]
+  n30 --- n31
+  n32["`Robot có thể hỗ trợ thay vì thay thế: robot STAR khâu ruột non lợn bền hơn bác sĩ (2016)`"]
+  n25 --- n32
+  n33["`Máy đo Đạo đức (MIT): gần 40 triệu quyết định, hơn 2 triệu người, hơn 200 quốc gia và vùng lãnh thổ`"]
+  n25 --- n33
+  n34["`Ba thiên hướng chung: cứu người hơn vật, cứu nhiều hơn ít, cứu trẻ em hơn người lớn`"]
+  n33 --- n34
+  n35["`Không có quy tắc chung: cụm phía Đông ít ưu tiên người trẻ, nước bất bình đẳng cứu người vị thế cao`"]
+  n33 --- n35
+  n36["`Guillén và Reddy: đạo đức theo mục đích cho xe tự hành, theo nghĩa vụ cho thí nghiệm y học dữ liệu lớn`"]
+  n25 --- n36
+  n37["`Khoảng 2030 máy lần đầu quyết định ai sống ai chết không có người giám sát, nhưng đạo đức không lập trình được`"]
+  n25 --- n37
+  n38["`Mục 6–9 — In 3D, Internet Vạn vật, thực tế ảo, công nghệ nano`"]
+  n0 --- n38
+  n39["`In 3D dùng đúng lượng vật liệu, đặt xưởng gần khách hàng, trong khi vận chuyển chiếm 1/4 khí thải ở nước giàu`"]
+  n38 --- n39
+  n40["`UPS lắp 100 máy in 3D ở Louisville, năm 2017 cùng SAP in phụ tùng theo yêu cầu`"]
+  n39 --- n40
+  n41["`Volvo in tường chắn sóng ở Sydney, Branch Technologies giữ kỷ lục vật in 3D lớn nhất (cổng vòm ở Nashville), Senvol thiết kế linh kiện bằng AI`"]
+  n39 --- n41
+  n42["`Mặt trái in 3D: mất việc lương cao trong chuỗi cung ứng, in được súng đơn giản`"]
+  n39 --- n42
+  n43["`Bảo hiểm tính phí theo hành vi lái xe thật thay vì định kiến về nhóm, đổi lại bị giám sát`"]
+  n38 --- n43
+  n44["`Internet Vạn vật khoảng 200 tỷ thiết bị năm 2030, hệ sinh thái lớn của nó tạo việc làm mới`"]
+  n43 --- n44
+  n45["`Thực tế ảo chữa sợ độ cao, lo âu, hoang tưởng bị ngược đãi (Oxford, tiến bộ sau một buổi), giúp trẻ tự kỷ`"]
+  n38 --- n45
+  n46["`May mặc thải khoảng 8% carbon, mỗi người mua 20 bộ quần áo mới mỗi năm, nhiều hơn 60% so với năm 2000`"]
+  n38 --- n46
+  n47["`Vật chất lập trình được: quần áo mọi mùa như lỗ chân lông (MIT), thùng hạt tự thành cờ lê rồi búa (DARPA)`"]
+  n46 --- n47
+  n48["`Y học nano: robot nano chở thuốc tới khối u, phát hiện ung thư buồng trứng khi mới khoảng 100 tế bào`"]
+  n38 --- n48
+  n49["`Mục 10 — Sách điện tử, rượu trực tuyến và nhảy cóc`"]
+  n0 --- n49
+  n50["`Ở nước giàu sách điện tử chưa thay sách giấy dù Millennials đọc nhiều sách nhất (Pew)`"]
+  n49 --- n50
+  n51["`Lý do: sức ì nhà xuất bản, sách in là quà tặng, hoài cổ, giao diện ít đổi mới, thiếu hệ sinh thái`"]
+  n50 --- n51
+  n52["`Châu Phi thêm khoảng 450 triệu trẻ em 2020–2030, Snapplify phục vụ 170.000 học sinh, Worldreader kèm pin mặt trời`"]
+  n49 --- n52
+  n53["`Nhảy cóc: châu Phi có thể dẫn đầu sách điện tử như từng dẫn đầu thanh toán di động`"]
+  n52 --- n53
+  n54["`Tỷ lệ rượu bán trực tuyến: Mỹ 1,8%, Pháp 4,3%, Anh 10,3%, Úc 11,3%, Trung Quốc 19,3%`"]
+  n49 --- n54
+  n55["`Rượu terroir (Pháp có 27.000 nơi sản xuất) khó bán trực tuyến, rượu theo thương hiệu như Yellow Tail thì dễ`"]
+  n54 --- n55
+  n56["`Anh, Úc, Trung Quốc có thị trường đại chúng muộn (khoảng thập niên 1980) nên mua theo thương hiệu`"]
+  n54 --- n56
+  n57["`Tiện nhất, rẻ nhất chưa đủ: hình thức trực tuyến chỉ thắng trong bối cảnh phù hợp`"]
+  n49 --- n57
+  n58["`Mục 11 — Ưu tiên công nghệ và cải biến bánh xe`"]
+  n0 --- n58
+  n59["`Đứng đầu danh sách của Guillén: nhà vệ sinh không dùng nước và sách điện tử cho người thiếu điều kiện`"]
+  n58 --- n59
+  n60["`Kế đến liệu pháp thực tế ảo cho bệnh tâm lý, rồi công nghệ nano bỏ vật liệu độc hại, in 3D bớt lãng phí`"]
+  n58 --- n60
+  n61["`Mọi công nghệ có thể gây bi kịch nếu xóa việc làm, giảm quyền riêng tư, tiếp tay thông tin sai lệch`"]
+  n58 --- n61
+  n62["`Bánh đà: bàn xoay gốm của người Sumer, động cơ hơi nước của James Watt (thập niên 1770), rồi tích trữ điện`"]
+  n58 --- n62
+  n63["`Stephentown, New York: 200 bánh đà sợi carbon treo bằng nam châm, 20 megawatt, bù cho điện mặt trời và điện gió`"]
+  n62 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Công nghệ chỉ lan rộng khi cộng hưởng với hạ tầng, thu nhập và thói quen của xã hội`"]
+  n64 --- n65
+  n66["`Người phát minh không chắc là người hưởng lợi: sức ì của người dẫn đầu là rủi ro lớn nhất`"]
+  n64 --- n66
+  n67["`Nước đi sau không bị trói buộc bởi hạ tầng cũ nên có thể nhảy cóc và nhìn tương lai rõ hơn`"]
+  n64 --- n67
+  n68["`Đổi mới công nghệ phải cưỡi những con sóng lớn dân số và kinh tế (dẫn sang Chương 7)`"]
+  n64 --- n68
+  class n0 root
+  class n1,n12,n25,n38,n49,n58,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020), bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai* (Vũ Kiều Linh dịch, NXB Thế Giới & Phương Nam Book, 2022), Chương 6 "Điện thoại còn nhiều hơn nhà vệ sinh", tiêu đề phụ "Cải biến bánh xe, sự bùng nổ kỷ Cambri mới và tương lai công nghệ", trang PDF 214–252.
+
+## Tác giả
+
+Mauro F. Guillén, giáo sư quản trị quốc tế tại Trường Wharton (Đại học Pennsylvania); sách viết năm 2019, xuất bản tháng 8/2020.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Năm chương đầu bàn về các xu hướng dân số và xã hội: tỷ lệ sinh giảm ([C01-tre-em-cho-ta-biet-dieu-gi.md](C01-tre-em-cho-ta-biet-dieu-gi.md)), người cao tuổi ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)), tầng lớp trung lưu mới ở các thị trường mới nổi ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)), phụ nữ giàu lên ([C04-nguoi-phu-nu-moi.md](C04-nguoi-phu-nu-moi.md)) và đô thị cùng biến đổi khí hậu ([C05-cai-chet-cua-do-thi.md](C05-cai-chet-cua-do-thi.md)).
+
+Chương 6 chuyển sang công nghệ, nhưng mục đích không phải là liệt kê công nghệ nào mạnh nhất mà là hỏi công nghệ nào sẽ thật sự lan rộng khi gặp các xu hướng dân số và kinh tế ấy.
+
+Câu kết của chương dẫn sang Chương 7 về nền kinh tế chia sẻ ([C07-mot-the-gioi-khong-tu-huu.md](C07-mot-the-gioi-khong-tu-huu.md)); Chương 8 ([C08-nhieu-loai-tien-hon-so-quoc-gia.md](C08-nhieu-loai-tien-hon-so-quoc-gia.md)) tiếp tục chủ đề thanh toán di động được nhắc ở đầu chương này.
+
+## Lưu ý
+
+- **Tên nguyên tác của chương** ghi theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác): "More Mobile Phones Than Toilets", tiêu đề phụ "Reinventing the Wheel, the New Cambrian Explosion, and the Future of Technology".
+- **"Trật tự đơn cực ('singularity')"** (trang PDF 226) là chữ dịch sai nghĩa. "Singularity" trong ngữ cảnh AI là "điểm kỳ dị công nghệ": thời điểm AI vượt trí tuệ con người và tự cải tiến ngoài tầm kiểm soát. "Đơn cực" là thuật ngữ quan hệ quốc tế (một siêu cường), không liên quan (theo hiểu biết của người tổng hợp). Bản tổng hợp này viết "điểm kỳ dị (singularity)" và ghi kèm chữ của bản dịch.
+- **"Những người lái xe tải đã xây dựng hiệp hội nghề lớn nhất ở 29 trong số 50 tiểu bang"** (trang PDF 227) nhiều khả năng là dịch sai. Câu tiếp theo liệt kê các bang ngoại lệ, nơi nghề phổ biến nhất là lập trình viên, giáo viên tiểu học, nông dân, thư ký… Vì vậy ý đúng là: lái xe tải là **nghề có nhiều người làm nhất** ở 29 trong 50 bang (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
+- **"Ông Barbara Wege"** (trang PDF 232): Barbara Wege, phụ trách mảng xe tự hành của Audi, là phụ nữ, nên phải là "bà" (theo hiểu biết của người tổng hợp).
+- **Câu "AI mở ra rất nhiều cơ hội mới và đó là nguyên nhân chủ yếu dẫn đến kết cục của thế giới hiện nay"** (trang PDF 225) tối nghĩa. Theo mạch văn (đoạn trước dẫn các ý kiến coi thường AI), ý của tác giả có lẽ là: AI mở ra nhiều khả năng mới và chính vì vậy nó sẽ chấm dứt thế giới như ta đang biết (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Kỷ Cambri** (trang PDF 222): bản dịch viết "các loài động vật đa bào xuất hiện trên đất liền cùng với hệ sinh thái biển phát triển" và "cua có đầu, xương sống, ngực, chân và hai cặp râu". Theo hiểu biết của người tổng hợp, sự bùng nổ kỷ Cambri diễn ra chủ yếu ở biển (động vật lên cạn muộn hơn nhiều), và loài giống cua thời đó là động vật chân khớp, không có xương sống; "xương sống" có lẽ là dịch nhầm một bộ phận khác (có thể là phần lưng/giáp). "Loài ăn thịt có năm mắt" là Opabinia (theo hiểu biết của người tổng hợp; sách không nêu tên).
+- **Kích thước hạt nano** (trang PDF 243): bản dịch viết "nhỏ bằng một phần tỷ centimet". Một nanomet là một phần tỷ **mét**, tức một phần mười triệu centimet (theo hiểu biết của người tổng hợp; không rõ lỗi ở nguyên tác hay bản dịch).
+- **Câu "công nghệ nano sẽ làm giảm đáng kể sự phụ thuộc của chúng ta vào sợi tổng hợp làm từ nguyên liệu tự nhiên"** (trang PDF 243) tự mâu thuẫn: sợi tổng hợp như polyester làm từ dầu mỏ, không phải nguyên liệu tự nhiên. Ý có lẽ là giảm phụ thuộc vào sợi tổng hợp (làm từ nhiên liệu hóa thạch) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Bánh đà ở Stephentown** (trang PDF 251–252): theo hiểu biết của người tổng hợp, nhà máy 20 megawatt của Beacon Power đáp ứng khoảng 10% nhu cầu **điều tần** (giữ ổn định tần số lưới điện) của bang New York, không phải "1/10 lượng điện tiêu thụ hàng ngày của tiểu bang". Ngoài ra "megawatt" là đơn vị công suất, không phải lượng điện "tích trữ" (lượng điện tích trữ đo bằng megawatt giờ). Bản dịch cũng gõ nhầm "hệ thống bánh đã" thay cho "bánh đà" (trang PDF 252).
+- **Đồng hồ thạch anh** (trang PDF 220): sách nói "một kỹ sư Thụy Sĩ phát hiện ra nếu dòng điện chạy qua thạch anh thì tinh thể này sẽ dao động". Theo hiểu biết của người tổng hợp, hiệu ứng áp điện của thạch anh do anh em Curie (Pháp) phát hiện năm 1880 và đồng hồ thạch anh đầu tiên do Bell Labs (Mỹ) chế tạo năm 1927; người Thụy Sĩ có làm ra mẫu đồng hồ đeo tay thạch anh rất sớm (Beta 21, 1967) nhưng Seiko Astron (1969) là đồng hồ đeo tay thạch anh thương mại đầu tiên. **Swatch** ra mắt năm 1983, tức đầu chứ không phải "cuối thập niên 1980" như bản dịch viết (theo hiểu biết của người tổng hợp). Riêng phát minh âm thoa (Bulova Accutron) đúng là của kỹ sư Thụy Sĩ Max Hetzel.
+- **Titan Watches** (trang PDF 218–219): câu bản dịch vừa nói "vô tình" vừa nói công ty "được đặt tên để tôn vinh Huygens", tự mâu thuẫn. Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), tên Titan thường được giải thích là ghép từ Tata và TIDCO (hai bên lập công ty); ý của Guillén có lẽ chỉ là sự trùng tên ngẫu nhiên với mặt trăng Titan mà Huygens phát hiện.
+- **"Đại học Stanford với bằng văn học đa quốc gia"** (trang PDF 214): ngành này thường gọi là "văn học so sánh" (comparative literature) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Tên riêng viết sai hoặc không thống nhất trong bản dịch:** "Eleonore Rartjarasoaniony" (trang PDF 215) sau đó viết "Elconore" cùng trang; ban nhạc "The Buggies" (trang PDF 246) đúng là **The Buggles**; "Gary Kasparov" thường viết **Garry Kasparov**; "Millenials" đúng là **Millennials**; phim "Sophies Choice" đúng là **Sophie's Choice**; tác giả "Julie Bower" trong lời văn (trang PDF 250) nhưng là "Julia Bower" trong danh mục nguồn; công ty "Branch Technologies" trong một số nguồn được viết "Branch Technology".
+- **SAP** (trang PDF 236) được bản dịch gọi là "công ty tư vấn công nghệ của Đức"; SAP là công ty phần mềm doanh nghiệp (theo hiểu biết của người tổng hợp). **Robot STAR** (trang PDF 228): "Viện Kỹ sư Điện và Điện tử đưa ra báo cáo" thực ra là bài trên tạp chí *IEEE Spectrum* của viện này (theo danh mục nguồn của sách).
+- **Trung Quốc "thị trường lớn nhất thế giới về số lượng"** (trang PDF 249): không rõ "thị trường" ở đây là thị trường gì. Nếu hiểu là thị trường rượu vang thì không đúng (Mỹ tiêu thụ rượu vang nhiều hơn Trung Quốc, theo hiểu biết của người tổng hợp); có thể nguyên tác nói về thương mại điện tử. Cũng không rõ các tỷ lệ bán rượu trực tuyến (1,8% ở Mỹ…) được tính trên tổng doanh số bán lẻ hay trên doanh số "ở các quán bar và nhà hàng" như bản dịch viết; cách viết của bản dịch khó đúng vì quán bar và nhà hàng không bán trực tuyến.
+- **Chú thích dịch giả trong chương:** (37) "bậc thầy của vũ trụ" lấy từ tiểu thuyết *The Bonfire of the Vanities* của Tom Wolfe (đúng); (38) Big Brother là nhân vật trong xã hội mà mọi công dân bị chính quyền giám sát qua màn hình; (39) Blockbuster là công ty cho thuê băng video; (40) Gutenberg là "người phát minh ra ngành in ấn" (nói quá rộng: Gutenberg phát minh máy in chữ rời ở châu Âu khoảng năm 1440; in ấn đã có ở Trung Quốc từ trước, theo hiểu biết của người tổng hợp); (41) icon là biểu tượng ứng dụng; (42) terroir là đặc tính riêng của từng vùng trồng nho dựa trên khí hậu, đất, địa hình và truyền thống làm rượu.
+- **Tuổi thọ công ty trong chỉ số S&P 500** "giảm từ 60 năm xuống 10 năm": theo hiểu biết của người tổng hợp, các ước tính hay được trích (Richard Foster, Innosight) cho mức khoảng 60 năm vào thập niên 1950 xuống còn khoảng 18–24 năm vào thập niên 2010; con số 10 năm thấp hơn các ước tính này. Sách không nêu nguồn cho con số.
+- **Chương này không có hình hay bảng số liệu**; mọi số liệu nằm trong lời văn và đã được chép vào bảng ở phần Nội dung chi tiết.

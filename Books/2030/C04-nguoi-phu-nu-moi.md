@@ -1,26 +1,18 @@
 # Chương 4 — Người phụ nữ mới
 
-**Nguồn:** Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020), bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai* (dịch giả Vũ Kiều Linh, NXB Thế Giới và Phương Nam Book, 2022), Chương 4 "Người phụ nữ mới", tiêu đề phụ "Giới triệu phú, doanh nhân và lãnh đạo mới của tương lai", trang PDF 141–175.
-**Tác giả:** Mauro F. Guillén, giáo sư quản trị tại Trường Wharton (Đại học Pennsylvania). Trong chương này ông kể rằng năm 1989 ông từng là trợ lý nghiên cứu cho nhà xã hội học Neil Bennett trong dự án về tỷ lệ kết hôn, và nhiều câu chuyện nữ doanh nhân ở các nước đang phát triển được lấy từ cuốn sách trước của ông, *Women Entrepreneurs: Inspiring Stories from Emerging Economies and Developing Countries* (2013).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-tre-em-cho-ta-biet-dieu-gi.md](C01-tre-em-cho-ta-biet-dieu-gi.md)) cho thấy tỷ lệ sinh giảm vì phụ nữ học nhiều hơn, đi làm nhiều hơn và sinh ít con hơn; Chương 2 ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)) nói về dân số già; Chương 3 ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)) nói về tầng lớp trung lưu mới ở châu Á và sự trì trệ của tầng lớp trung lưu ở châu Âu và Mỹ. Chương 4 lấy chính những thay đổi dân số ấy làm gốc để giải thích vì sao phụ nữ sẽ nắm phần lớn tài sản thế giới, trở thành một nửa lực lượng khởi nghiệp và dần bước vào vị trí lãnh đạo. Chương kết bằng việc chuyển sang chủ đề thành phố và biến đổi khí hậu của Chương 5 ([C05-cai-chet-cua-do-thi.md](C05-cai-chet-cua-do-thi.md)).
-**Ý chính:** **Guillén cho rằng nhờ học vấn cao hơn, đi làm nhiều hơn, sinh ít con hơn, sống lâu hơn và hay thừa kế tài sản của chồng, phụ nữ đang tích lũy của cải nhanh hơn nam giới và tới năm 2030 có thể sở hữu hơn một nửa tài sản thế giới; điều này sẽ đổi hướng tiêu dùng (sang giáo dục, y tế, bảo hiểm, vốn chiếm khoảng 30% nền kinh tế Mỹ) và đầu tư (thận trọng hơn, ít giao dịch hơn).** Nhưng ông nhấn mạnh rằng phụ nữ không phải một khối đồng nhất: mẹ đơn thân, phụ nữ ly hôn, mẹ tuổi vị thành niên và phụ nữ ở các nước nghèo (1/5 bé gái lấy chồng trước 18 tuổi, ít nhất 200 triệu phụ nữ bị cắt bộ phận sinh dục) vẫn bị bỏ lại; ở Mỹ 16% phụ nữ sống dưới mức nghèo, và với phụ nữ tự nuôi con thì tỷ lệ là 27%. Tới năm 2030, gần một nửa doanh nghiệp mới trên thế giới sẽ do phụ nữ lập, nhưng phần lớn họ khởi nghiệp vì buộc phải kiếm sống, và vướng phân biệt đối xử về pháp lý ở 128 quốc gia. Khi phụ nữ đi làm và chịu áp lực kép, lợi thế tuổi thọ của họ thu hẹp (ở Mỹ từ 7,7 năm đầu thập niên 1970 xuống khoảng 5 năm năm 2019, dự báo 4,3 năm vào 2030), và ở một số nhóm phụ nữ da trắng học vấn thấp tuổi thọ còn giảm. Ở đỉnh quyền lực phụ nữ vẫn ít (dưới 5% CEO trong Fortune 500), nhưng thái độ đang đổi nhanh: năm 2017 lần đầu đa số người Mỹ (55%) không quan tâm sếp là nam hay nữ. Tới 2030 phụ nữ sẽ giàu hơn và có ảnh hưởng hơn, nhưng bình đẳng giới đúng nghĩa có lẽ vẫn chưa đến.
+## Ý chính
 
-> **Lưu ý:**
-> - **Con số lợi thế tuổi thọ "trung bình" không khớp với Hình 7 của chính chương (trang PDF 163).** Lời văn nói năm 1995 phụ nữ sống lâu hơn nam giới trung bình 7,8 năm, năm 2018 còn 6,8 năm, năm 2030 còn 6,3 năm. Nhưng đường "Thế giới" trong Hình 7 chỉ dao động quanh 4,6–4,9 năm trong suốt giai đoạn 1990–2030. Con số 7,8 gần với đỉnh của đường "Các nước phát triển" (khoảng 7,7–7,8 năm vào 1990–1995), nhưng đường này ở 2015–2020 chỉ còn khoảng 6,2 năm và ở 2025–2030 khoảng 5,8 năm, cũng không khớp 6,8 và 6,3. Người đọc nên coi bộ ba 7,8 / 6,8 / 6,3 là số của một nhóm nước mà sách không nói rõ (nhận xét của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Ngày tháng của vụ "Nghiên cứu Harvard-Yale" bị lệch.** Lời văn nói bài trên tờ *Advocate* ra năm 1986 và "tháng 6 năm sau" *Newsweek* đăng bài bìa. Theo chính phần nguồn tham khảo của sách, bài *Advocate* ra ngày 14/2/1986 và số *Newsweek* ra ngày 02/6/1986, tức cùng năm. Ngoài ra, theo hiểu biết của người tổng hợp, năm 2006 *Newsweek* đã đăng bài thừa nhận dự báo "khủng bố giết còn dễ hơn" là sai; phần nguồn của sách cũng dẫn bài phê bình của Andrew Cherlin (1990) về "sự nghiệp kỳ lạ" của nghiên cứu này.
-> - **Câu về Gallup 2017 bị dịch sai logic (trang PDF 172).** Bản dịch viết "trong số những người không quan tâm năm 2017, chỉ có 44% là phụ nữ so với 68% là nam giới", nhưng 44% cộng 68% vượt 100%. Cách hiểu hợp lý (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác) là: 44% phụ nữ được hỏi và 68% nam giới được hỏi trả lời không quan tâm giới tính của sếp; con số chung 55% nằm giữa hai mức này.
-> - **"Thế hệ trẻ ngày nay khó đạt được lứa tuổi trưởng thành như trong thời kỳ Đại suy thoái" (trang PDF 165–166)** là câu dịch khó hiểu. Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), ý của nhóm Irma Elo là: thế hệ bước vào tuổi trưởng thành trong thời kỳ Đại suy thoái (2007–2009) trưởng thành chậm hơn, ít kết hôn hơn, sống với cha mẹ nhiều hơn.
-> - **"Số cặp đôi không kết hôn nhưng sống chung và nuôi dạy con cái còn nhiều hơn số cặp vợ chồng chính thống" (trang PDF 144)** trái với số liệu phổ biến: theo hiểu biết của người tổng hợp, ở Mỹ số cặp vợ chồng có con vẫn nhiều hơn hẳn số cặp sống chung không kết hôn có con. Có thể bản dịch đã hiểu sai một so sánh hẹp hơn trong nguyên tác (chưa đối chiếu).
-> - **Giải thích về tình trạng không con của nam giới khó hiểu (trang PDF 151).** Sách nói ở tuổi 40, 16% phụ nữ và 24% nam giới không có con, "nguyên nhân chủ yếu là do một số bà mẹ không tái hôn". Câu này không giải thích được vì sao nam giới không con nhiều hơn; có thể bản dịch rút gọn sai một lập luận dài hơn (nhận xét của người tổng hợp).
-> - **Chênh lệch tiền lương 30% "ngay cả ở" Áo, Anh, Hàn Quốc và New Zealand (trang PDF 168–169)**: theo hiểu biết của người tổng hợp, các số liệu thường dẫn của OECD cho thấy Hàn Quốc có chênh lệch trên 30%, nhưng Áo và Anh ở khoảng 15–20%, New Zealand thấp hơn nữa. Có thể nguyên tác nói "lên tới 30%" (chưa đối chiếu).
-> - **Danh sách nước "giàu thuộc OECD"** có cả Ấn Độ, Nam Phi và Trung Quốc, ba nước không phải thành viên OECD (theo hiểu biết của người tổng hợp); số liệu có lẽ lấy từ cổng dữ liệu giới của OECD vốn bao gồm cả các nước đối tác. Câu "chỉ ở Trung Quốc là có tỷ lệ lớn hơn 5 là 5,6%" nên hiểu là "chỉ Trung Quốc có tỷ lệ nữ CEO trên 5%, cụ thể là 5,6%".
-> - **Nguồn của biệt danh "Người đàn bà thép Kem mềm"**: lời văn ghi tạp chí *Atlantic*, nhưng phần nguồn tham khảo của sách dẫn bài của Daniel Fromson trên *New Yorker* (9/4/2013), và tên bài là "The Margaret Thatcher Soft-Serve Myth", tức chính bài nguồn coi chuyện Thatcher góp phần tạo ra kem mềm là một huyền thoại. Sách kể lại chuyện này như sự thật.
-> - **Lời Paul Dolan "nếu là phụ nữ thì đừng bận tâm (kết hôn)"**: theo hiểu biết của người tổng hợp, sau khi báo chí đưa tin năm 2019, người ta chỉ ra rằng Dolan đã đọc sai một biến trong dữ liệu khảo sát (người được hỏi "vợ/chồng không có mặt trong phòng" lúc phỏng vấn), và *Guardian* đã đính chính. Sách dẫn lời ông như một kết luận vững.
-> - **Tên riêng viết sai trong bản dịch:** "Anu Ancharya" đúng là Anu Acharya (người sáng lập Ocimum Biosolutions, theo hiểu biết của người tổng hợp); "Cheryl Sandberg" đúng là Sheryl Sandberg (chính phần nguồn của sách viết "Sheryl"); "The Picture of Dorian Grey" đúng là *The Picture of Dorian Gray*; "The Handmaids Tale" đúng là *The Handmaid's Tale*; "Womans Role in Economic Development" đúng là *Woman's Role in Economic Development*. Lỗi chữ: "nghệ thuận sajiao" (trang PDF 173, đúng là "nghệ thuật").
-> - **Chú thích của dịch giả:** (23) Venmo là ví điện tử của PayPal: đúng. (24) G.I. Bill là chương trình hỗ trợ giáo dục cho cựu chiến binh sau Thế chiến II: đúng. (25) gọi Virginia Slims là "công ty thuốc lá": theo hiểu biết của người tổng hợp, đó là một nhãn thuốc lá dành cho phụ nữ của Philip Morris, nổi tiếng với khẩu hiệu quảng cáo thập niên 1970 "You've come a long way, baby", chứ không phải một công ty. (26) gọi Standard and Poor's là "công ty chuyên đánh giá xếp hạng tín dụng": đúng, nhưng "1.500 công ty lớn nhất theo Standard and Poor" ở đây là chỉ số chứng khoán S&P Composite 1500. (27) Caligula là hoàng đế La Mã thứ ba: đúng. (28) Harvey Weinstein, (29) phong trào Me-Too: đúng.
-> - **Thuật ngữ của Kanter:** bản dịch gọi bốn hình thái là "thú cưng, kẻ dụ dỗ, rìu chiến và người mẹ". Theo hiểu biết của người tổng hợp, trong bài gốc của Kanter (1977) hình thái thứ ba là "iron maiden" (trinh nữ sắt); chữ "battleaxe" (rìu chiến) là cách gọi của Judith Baxter trong bài báo năm 2013 mà sách dẫn.
-> - **Câu "nhiều người thích mua cổ phiếu đã niêm yết, thay vì đầu tư vào các khoản với khả năng biến động cao" (trang PDF 147)** có lẽ là cách dịch một ý về xu hướng đầu tư thận trọng hơn (ví dụ quỹ chỉ số) trong nguyên tác; bản thân cổ phiếu niêm yết không phải là lựa chọn ít biến động (nhận xét của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Số liệu đã cũ so với năm 2026:** phần lớn số liệu về CEO nữ, nghị sĩ nữ, chênh lệch lương là của giai đoạn 2015–2019. Theo hiểu biết của người tổng hợp, tỷ lệ nữ CEO trong Fortune 500 đã vượt 10% vào giữa thập niên 2020 và tỷ lệ nữ nghị sĩ thế giới khoảng 26–27%; các xu hướng Guillén nêu đi đúng hướng nhưng các con số trong sách nay đã thấp hơn thực tế.
+**Guillén cho rằng nhờ học vấn cao hơn, đi làm nhiều hơn, sinh ít con hơn, sống lâu hơn và hay thừa kế tài sản của chồng, phụ nữ đang tích lũy của cải nhanh hơn nam giới và tới năm 2030 có thể sở hữu hơn một nửa tài sản thế giới; điều này sẽ đổi hướng tiêu dùng (sang giáo dục, y tế, bảo hiểm, vốn chiếm khoảng 30% nền kinh tế Mỹ) và đầu tư (thận trọng hơn, ít giao dịch hơn).**
+
+Nhưng ông nhấn mạnh rằng phụ nữ không phải một khối đồng nhất: mẹ đơn thân, phụ nữ ly hôn, mẹ tuổi vị thành niên và phụ nữ ở các nước nghèo (1/5 bé gái lấy chồng trước 18 tuổi, ít nhất 200 triệu phụ nữ bị cắt bộ phận sinh dục) vẫn bị bỏ lại. Ở Mỹ 16% phụ nữ sống dưới mức nghèo, và với phụ nữ tự nuôi con thì tỷ lệ là 27%.
+
+Tới năm 2030, gần một nửa doanh nghiệp mới trên thế giới sẽ do phụ nữ lập, nhưng phần lớn họ khởi nghiệp vì buộc phải kiếm sống, và vướng phân biệt đối xử về pháp lý ở 128 quốc gia.
+
+Khi phụ nữ đi làm và chịu áp lực kép, lợi thế tuổi thọ của họ thu hẹp (ở Mỹ từ 7,7 năm đầu thập niên 1970 xuống khoảng 5 năm năm 2019, dự báo 4,3 năm vào 2030), và ở một số nhóm phụ nữ da trắng học vấn thấp tuổi thọ còn giảm.
+
+Ở đỉnh quyền lực phụ nữ vẫn ít (dưới 5% CEO trong Fortune 500), nhưng thái độ đang đổi nhanh: năm 2017 lần đầu đa số người Mỹ (55%) không quan tâm sếp là nam hay nữ.
+
+Tới 2030 phụ nữ sẽ giàu hơn và có ảnh hưởng hơn, nhưng bình đẳng giới đúng nghĩa có lẽ vẫn chưa đến.
 
 ## Sơ đồ
 
@@ -419,7 +411,13 @@
 
 ### 1. Mở đầu chương: thời điểm tốt nhất và tệ nhất đối với phụ nữ (tên do người tổng hợp đặt) (trang PDF 141–144)
 
-Chương mở bằng câu đề từ của Candace Bushnell, tác giả *Sex and the City*: phụ nữ có tiền và phụ nữ có quyền là hai khái niệm không mấy dễ chịu trong xã hội chúng ta. Tiếp đó Guillén tóm tắt cốt truyện *The Handmaid's Tale* (*Câu chuyện người hầu gái*), tiểu thuyết năm 1985 của Margaret Atwood, sau này được Hulu dựng thành phim truyền hình: một chế độ tàn nhẫn kiểm soát nước Mỹ giữa khủng hoảng kép về môi trường và tỷ lệ sinh; trường học trống vì thiếu trẻ em; trò Scrabble và các trò "vô bổ" bị cấm; "Compubank" thay tiền giấy; phụ nữ không được có việc làm ăn lương hay tài sản riêng; mỹ phẩm, trang sức, tạp chí bị coi là tầm thường; phụ nữ lớn tuổi biến mất bí ẩn; các tộc trưởng và những người vợ không con của họ thống trị phụ nữ đẳng cấp thấp hơn; người còn sinh được thì làm "máy đẻ", người vô sinh thì phải dọn chất thải hóa học và phóng xạ; vi phạm tình dục nhỏ nhất có thể bị chặt tay chân. Năm 2018 Atwood nhận xét rằng đây là thời điểm vừa tốt nhất vừa tệ nhất đối với phụ nữ: có người phải đấu tranh giành những quyền chưa bao giờ có, có người phải chống lại nguy cơ bị tước những quyền đã có.
+Chương mở bằng câu đề từ của Candace Bushnell, tác giả *Sex and the City*: phụ nữ có tiền và phụ nữ có quyền là hai khái niệm không mấy dễ chịu trong xã hội chúng ta.
+
+Tiếp đó Guillén tóm tắt cốt truyện *The Handmaid's Tale* (*Câu chuyện người hầu gái*), tiểu thuyết năm 1985 của Margaret Atwood, sau này được Hulu dựng thành phim truyền hình: một chế độ tàn nhẫn kiểm soát nước Mỹ giữa khủng hoảng kép về môi trường và tỷ lệ sinh; trường học trống vì thiếu trẻ em; trò Scrabble và các trò "vô bổ" bị cấm; "Compubank" thay tiền giấy; phụ nữ không được có việc làm ăn lương hay tài sản riêng; mỹ phẩm, trang sức, tạp chí bị coi là tầm thường.
+
+Phụ nữ lớn tuổi biến mất bí ẩn; các tộc trưởng và những người vợ không con của họ thống trị phụ nữ đẳng cấp thấp hơn; người còn sinh được thì làm "máy đẻ", người vô sinh thì phải dọn chất thải hóa học và phóng xạ; vi phạm tình dục nhỏ nhất có thể bị chặt tay chân.
+
+Năm 2018 Atwood nhận xét rằng đây là thời điểm vừa tốt nhất vừa tệ nhất đối với phụ nữ: có người phải đấu tranh giành những quyền chưa bao giờ có, có người phải chống lại nguy cơ bị tước những quyền đã có.
 
 **Dấu hiệu của "thời điểm tốt nhất"** có ở khắp nơi. Phần lớn phụ nữ Mỹ có bằng đại học và sau đại học; hơn 40% phụ nữ đã kết hôn kiếm nhiều tiền hơn chồng; phụ nữ tích lũy tài sản nhanh hơn nam giới, và với tốc độ này tới năm 2030 họ sẽ sở hữu hơn một nửa tài sản thế giới.
 
@@ -427,13 +425,19 @@ Chương mở bằng câu đề từ của Candace Bushnell, tác giả *Sex and
 
 Guillén cho rằng xu hướng này tác động lớn không chỉ tới xã hội mà còn tới thị trường vốn (vì phụ nữ đầu tư khác nam giới), tới các công ty (vì phụ nữ nhìn nơi làm việc khác) và tới đổi mới (vì ngày càng nhiều phụ nữ khởi nghiệp). Phụ nữ chưa hoàn toàn bình đẳng với nam giới, nhưng vai trò mới của họ chắc chắn sẽ tạo ra những chuyển biến lớn.
 
-**Câu chuyện "Nghiên cứu Harvard-Yale".** Hollywood đã thể hiện nỗi lo về phụ nữ độc thân từ sớm. Trong phim *Sleepless in Seattle* (*Trắng đêm ở Seattle*, 1993), một đồng nghiệp nói với Annie (Meg Ryan) rằng ở tuổi trên 40, bị khủng bố giết còn dễ hơn tìm được chồng; Annie hoảng hốt cãi rằng không phải vậy, và Becky (Rosie O'Donnell) đáp rằng đúng là không phải vậy, nhưng cảm giác thì y như thật. Cảnh phim dựa trên một câu chuyện có thật. Giữa thập niên 1980, ba nhà nhân khẩu học Neil Bennett (nhà xã hội học ở Yale), David Bloom (nhà kinh tế học ở Harvard) và Patricia Craig (nghiên cứu sinh của Bennett) nghiên cứu khác biệt về tỷ lệ kết hôn giữa người Mỹ da trắng và da đen; năm 1989 chính Guillén là trợ lý nghiên cứu của Bennett trong dự án này.
+**Câu chuyện "Nghiên cứu Harvard-Yale".** Hollywood đã thể hiện nỗi lo về phụ nữ độc thân từ sớm. Trong phim *Sleepless in Seattle* (*Trắng đêm ở Seattle*, 1993), một đồng nghiệp nói với Annie (Meg Ryan) rằng ở tuổi trên 40, bị khủng bố giết còn dễ hơn tìm được chồng; Annie hoảng hốt cãi rằng không phải vậy, và Becky (Rosie O'Donnell) đáp rằng đúng là không phải vậy, nhưng cảm giác thì y như thật.
 
-Năm 1986, một phóng viên tờ *Advocate*, một tờ báo nhỏ ở Stamford, Connecticut, tìm đề tài cho ngày lễ Tình nhân và gọi điện cho Bennett. Trong cuộc trò chuyện, Bennett nhắc tới ước tính rằng phụ nữ tốt nghiệp đại học ở tuổi 30 có xác suất kết hôn 20%, còn ở tuổi 40 thì chỉ còn một chữ số. Bài báo lên trang nhất, được Hiệp hội Báo chí phát cho các báo thành viên với tiêu đề "Phụ nữ còn chần chừ là khỏi kết hôn". Tháng 6 (sách ghi "năm sau", nhưng phần nguồn ghi cùng năm 1986), *Newsweek* làm bài bìa "Thời điểm vàng trong hôn nhân: Nếu vẫn độc thân, hãy mau kết hôn", bìa vẽ đường xác suất kết hôn tụt nhanh theo tuổi, bên trong là bài "Quá muộn để chờ Hoàng tử Bạch mã?" với chi tiết gây chấn động: phụ nữ 40 tuổi dễ bị khủng bố giết hơn là kết hôn, vì xác suất kết hôn chỉ 2,6%. Candace Bushnell viết trên *New York Observer* rằng trang bìa *Newsweek* đã khiến phụ nữ độc thân khắp nơi lo sợ. Tin tức về nghiên cứu này, thường không trung thực với kết luận của nó, tác động mạnh tới những phụ nữ có học đang cố cân bằng sự nghiệp và đời tư.
+Cảnh phim dựa trên một câu chuyện có thật. Giữa thập niên 1980, ba nhà nhân khẩu học Neil Bennett (nhà xã hội học ở Yale), David Bloom (nhà kinh tế học ở Harvard) và Patricia Craig (nghiên cứu sinh của Bennett) nghiên cứu khác biệt về tỷ lệ kết hôn giữa người Mỹ da trắng và da đen; năm 1989 chính Guillén là trợ lý nghiên cứu của Bennett trong dự án này.
 
-Thực tế khác hẳn: chưa tới 10% phụ nữ Mỹ ở tuổi 50 và 60 chưa từng kết hôn. Sách còn viết rằng ở Mỹ hiện nay số cặp sống chung không kết hôn nuôi con nhiều hơn số cặp vợ chồng chính thức, và số cặp đồng giới tăng lên (về câu thứ nhất, xem khối Lưu ý).
+Năm 1986, một phóng viên tờ *Advocate*, một tờ báo nhỏ ở Stamford, Connecticut, tìm đề tài cho ngày lễ Tình nhân và gọi điện cho Bennett. Trong cuộc trò chuyện, Bennett nhắc tới ước tính rằng phụ nữ tốt nghiệp đại học ở tuổi 30 có xác suất kết hôn 20%, còn ở tuổi 40 thì chỉ còn một chữ số. Bài báo lên trang nhất, được Hiệp hội Báo chí phát cho các báo thành viên với tiêu đề "Phụ nữ còn chần chừ là khỏi kết hôn".
 
-**Vì sao phụ nữ giàu lên.** Như Chương 1 đã cho thấy, các thay đổi này đến từ nhiều yếu tố đan xen: ngày càng nhiều phụ nữ theo đuổi học vấn, đi làm bên ngoài và sinh ít con hơn. Thêm vào đó, phụ nữ sống lâu hơn nam giới, ít nhất là hiện nay: trung bình từ bốn đến bảy năm tùy nơi trên thế giới. Tuổi thọ dài hơn kéo dài số năm làm việc và tích lũy, và phụ nữ có khả năng thừa kế của cải của chồng hoặc bạn đời cao hơn chiều ngược lại. Nói gọn, phụ nữ sẽ giàu lên trước năm 2030; chính xác hơn, xác suất phụ nữ ngày nay giàu có và sống sung túc cao hơn rất nhiều so với thế hệ bà và mẹ họ. Guillén nói đùa rằng đây là tin xấu cho nam giới, kể cả ông: đàn ông không chỉ tích lũy chậm hơn mà trung bình còn chết sớm hơn phụ nữ cùng tuổi, và khi họ ra đi thì người thừa kế tài sản là ai, ai cũng đoán được.
+Tháng 6 (sách ghi "năm sau", nhưng phần nguồn ghi cùng năm 1986), *Newsweek* làm bài bìa "Thời điểm vàng trong hôn nhân: Nếu vẫn độc thân, hãy mau kết hôn", bìa vẽ đường xác suất kết hôn tụt nhanh theo tuổi, bên trong là bài "Quá muộn để chờ Hoàng tử Bạch mã?" với chi tiết gây chấn động: phụ nữ 40 tuổi dễ bị khủng bố giết hơn là kết hôn, vì xác suất kết hôn chỉ 2,6%. Candace Bushnell viết trên *New York Observer* rằng trang bìa *Newsweek* đã khiến phụ nữ độc thân khắp nơi lo sợ. Tin tức về nghiên cứu này, thường không trung thực với kết luận của nó, tác động mạnh tới những phụ nữ có học đang cố cân bằng sự nghiệp và đời tư.
+
+Thực tế khác hẳn: chưa tới 10% phụ nữ Mỹ ở tuổi 50 và 60 chưa từng kết hôn. Sách còn viết rằng ở Mỹ hiện nay số cặp sống chung không kết hôn nuôi con nhiều hơn số cặp vợ chồng chính thức, và số cặp đồng giới tăng lên (về câu thứ nhất, xem mục Lưu ý cuối chương).
+
+**Vì sao phụ nữ giàu lên.** Như Chương 1 đã cho thấy, các thay đổi này đến từ nhiều yếu tố đan xen: ngày càng nhiều phụ nữ theo đuổi học vấn, đi làm bên ngoài và sinh ít con hơn. Thêm vào đó, phụ nữ sống lâu hơn nam giới, ít nhất là hiện nay: trung bình từ bốn đến bảy năm tùy nơi trên thế giới. Tuổi thọ dài hơn kéo dài số năm làm việc và tích lũy, và phụ nữ có khả năng thừa kế của cải của chồng hoặc bạn đời cao hơn chiều ngược lại.
+
+Nói gọn, phụ nữ sẽ giàu lên trước năm 2030; chính xác hơn, xác suất phụ nữ ngày nay giàu có và sống sung túc cao hơn rất nhiều so với thế hệ bà và mẹ họ. Guillén nói đùa rằng đây là tin xấu cho nam giới, kể cả ông: đàn ông không chỉ tích lũy chậm hơn mà trung bình còn chết sớm hơn phụ nữ cùng tuổi, và khi họ ra đi thì người thừa kế tài sản là ai, ai cũng đoán được.
 
 ### 2. "Phụ nữ nắm vận may; đàn ông ham mạo hiểm" (trang PDF 145–147)
 
@@ -462,13 +466,17 @@ Nhìn chung, phụ nữ đặc biệt đề cao sự an toàn. Vì chi tiêu cho
 
 Guillén nhắc câu của nhà văn nữ quyền Gloria Steinem: ta biết giá trị của mình khi nhìn vào cuống séc; với thế hệ Millennials, ông nói, đó là lịch sử giao dịch trên Venmo (ví điện tử của PayPal).
 
-**Đầu tư.** Ở đây hai giới khác nhau rõ nhất. Nghiên cứu xác nhận quan niệm phổ biến rằng phụ nữ bảo thủ và sợ rủi ro hơn khi đầu tư. Guillén dẫn câu của Lord Henry trong *Chân dung Dorian Gray* của Oscar Wilde: "Phụ nữ nắm vận may; đàn ông ham mạo hiểm". Thái độ với rủi ro định hình hầu hết các quyết định trong đời, kể cả tiêu dùng, tiết kiệm và chọn loại đầu tư. Ông viết rằng không quá lời nếu nói: giá như đó là Lehman Sisters (Chị em) thay vì Lehman Brothers (Anh em), cuộc khủng hoảng 2008 có thể đã không xảy ra. Câu này có cơ sở: một nghiên cứu chưa công bố so sánh nam và nữ cùng học vấn, cùng kinh nghiệm làm giao dịch tại một ngân hàng đầu tư ở New York cho thấy nam giới giao dịch thường xuyên hơn và chấp nhận rủi ro cao hơn, còn phụ nữ thu lợi nhuận tốt hơn một chút về dài hạn.
+**Đầu tư.** Ở đây hai giới khác nhau rõ nhất. Nghiên cứu xác nhận quan niệm phổ biến rằng phụ nữ bảo thủ và sợ rủi ro hơn khi đầu tư. Guillén dẫn câu của Lord Henry trong *Chân dung Dorian Gray* của Oscar Wilde: "Phụ nữ nắm vận may; đàn ông ham mạo hiểm".
+
+Thái độ với rủi ro định hình hầu hết các quyết định trong đời, kể cả tiêu dùng, tiết kiệm và chọn loại đầu tư. Ông viết rằng không quá lời nếu nói: giá như đó là Lehman Sisters (Chị em) thay vì Lehman Brothers (Anh em), cuộc khủng hoảng 2008 có thể đã không xảy ra. Câu này có cơ sở: một nghiên cứu chưa công bố so sánh nam và nữ cùng học vấn, cùng kinh nghiệm làm giao dịch tại một ngân hàng đầu tư ở New York cho thấy nam giới giao dịch thường xuyên hơn và chấp nhận rủi ro cao hơn, còn phụ nữ thu lợi nhuận tốt hơn một chút về dài hạn.
 
 Thời đại mà phần lớn tài sản do đàn ông tạo ra, sở hữu và quản lý đã gần kết thúc. Guillén cho rằng việc nhiều người nay chọn cách đầu tư ít biến động hơn (bản dịch viết: "thích mua cổ phiếu đã niêm yết, thay vì đầu tư vào các khoản với khả năng biến động cao") là vì giới đầu tư có ngày càng nhiều phụ nữ. Các công ty sẽ không thể thành công nếu không hiểu sở thích và cách ra quyết định của phụ nữ khi họ nắm phần lớn tài sản toàn cầu.
 
 ### 3. Không phải tất cả phụ nữ (hay đàn ông) đều giống nhau (trang PDF 148–153)
 
-**Hai phụ nữ Mỹ, hai thế giới.** Sadie Marie Groff ở Missoula, Montana sinh đứa đầu trong ba đứa con khi 20 tuổi, không có bằng đại học, chưa từng ra nước ngoài; ban ngày trông con, ban đêm làm phụ tá điều dưỡng, mơ có bằng về công nghệ X quang. Ellen Scanlon ở San Francisco có đứa con đầu và duy nhất khi vừa bước sang tuổi 40, nhờ thụ tinh trong ống nghiệm; cô học đại học, rồi trường kinh doanh, làm tài chính và lập công ty tư vấn chiến lược; vợ chồng cô cưới được 10 năm mới sinh con vì "đã có khoảng thời gian rất thoải mái". Sai lầm phổ biến là nghĩ rằng người cùng một nhóm xã hội sẽ phản ứng giống nhau trước các chuyển biến lịch sử. Phụ nữ đang thay đổi, nhưng phân cực mạnh giữa những người sống rất khác thế hệ cha mẹ và những người vẫn theo khuôn mẫu truyền thống. Guillén cho rằng điều này giải thích vì sao tài sản và hành vi chính trị của phụ nữ và nam giới ở các vùng khác nhau, nhất là ở châu Âu và Mỹ, khác nhau đến vậy: cơ hội của các nhóm thay đổi khác nhau theo thời gian, nên quan điểm chính trị của họ cũng khác nhau.
+**Hai phụ nữ Mỹ, hai thế giới.** Sadie Marie Groff ở Missoula, Montana sinh đứa đầu trong ba đứa con khi 20 tuổi, không có bằng đại học, chưa từng ra nước ngoài; ban ngày trông con, ban đêm làm phụ tá điều dưỡng, mơ có bằng về công nghệ X quang. Ellen Scanlon ở San Francisco có đứa con đầu và duy nhất khi vừa bước sang tuổi 40, nhờ thụ tinh trong ống nghiệm; cô học đại học, rồi trường kinh doanh, làm tài chính và lập công ty tư vấn chiến lược; vợ chồng cô cưới được 10 năm mới sinh con vì "đã có khoảng thời gian rất thoải mái".
+
+Sai lầm phổ biến là nghĩ rằng người cùng một nhóm xã hội sẽ phản ứng giống nhau trước các chuyển biến lịch sử. Phụ nữ đang thay đổi, nhưng phân cực mạnh giữa những người sống rất khác thế hệ cha mẹ và những người vẫn theo khuôn mẫu truyền thống. Guillén cho rằng điều này giải thích vì sao tài sản và hành vi chính trị của phụ nữ và nam giới ở các vùng khác nhau, nhất là ở châu Âu và Mỹ, khác nhau đến vậy: cơ hội của các nhóm thay đổi khác nhau theo thời gian, nên quan điểm chính trị của họ cũng khác nhau.
 
 Trung bình phụ nữ sẽ giàu hơn nam giới vào 2030, nhưng có hai nhóm đặc biệt dễ tổn thương: mẹ đơn thân và phụ nữ ly hôn, và trong nhiều trường hợp hai nhóm này trùng nhau.
 
@@ -486,7 +494,9 @@ Minh họa của người tổng hợp: lương 40.000 USD/năm tương đương
 
 Báo chí hay đưa tin những vụ ly hôn mà người vợ được chia hàng tỷ USD: Jeff và MacKenzie Bezos, Alec và Jocelyn Wildenstein, Rupert Murdoch và Anna Torv, Bernie Ecclestone và Slavica Radic, Steve và Elaine Wynn. Nhưng đa số phụ nữ ly hôn gặp khó khăn tài chính. Một nghiên cứu toàn diện cho thấy tình hình tài chính của phụ nữ luôn tốt hơn khi đang kết hôn; dù đi làm lại, họ không lấy lại được mức sống cũ, thậm chí còn tệ hơn sau khi tái hôn. Đàn ông không bị sa sút như vậy. Tỷ lệ ly hôn cao ở các cặp có con là một nguyên nhân lớn của sự trì trệ của tầng lớp trung lưu châu Âu và Mỹ đã nói ở Chương 3.
 
-**Mẹ tuổi vị thành niên.** Làm mẹ đơn thân ở tuổi vị thành niên thường hạn chế cơ hội cả đời. Ở Mỹ mỗi năm có gần 1/4 triệu trẻ được sinh ra từ những người mẹ 15–19 tuổi. Tỷ lệ làm mẹ tuổi teen ở người da đen, người gốc Tây Ban Nha và người Mỹ bản địa cao hơn gấp đôi người da trắng và gấp bốn lần người Mỹ gốc Á. Tỷ lệ mang thai tuổi vị thành niên giảm 6–7% mỗi năm, nhưng mẹ tuổi teen vẫn chủ yếu là phụ nữ thu nhập và học vấn thấp. Có con sớm khiến người mẹ và cha mẹ cô tốn kém, người mẹ trẻ bỏ học và rơi vào nghèo đói. Guillén cho rằng yếu tố hữu ích nhất để cải thiện kinh tế của phụ nữ tới 2030 có lẽ là giữ họ ở lại trường, nhất là không để họ bỏ học vì mang thai.
+**Mẹ tuổi vị thành niên.** Làm mẹ đơn thân ở tuổi vị thành niên thường hạn chế cơ hội cả đời. Ở Mỹ mỗi năm có gần 1/4 triệu trẻ được sinh ra từ những người mẹ 15–19 tuổi. Tỷ lệ làm mẹ tuổi teen ở người da đen, người gốc Tây Ban Nha và người Mỹ bản địa cao hơn gấp đôi người da trắng và gấp bốn lần người Mỹ gốc Á. Tỷ lệ mang thai tuổi vị thành niên giảm 6–7% mỗi năm, nhưng mẹ tuổi teen vẫn chủ yếu là phụ nữ thu nhập và học vấn thấp.
+
+Có con sớm khiến người mẹ và cha mẹ cô tốn kém, người mẹ trẻ bỏ học và rơi vào nghèo đói. Guillén cho rằng yếu tố hữu ích nhất để cải thiện kinh tế của phụ nữ tới 2030 có lẽ là giữ họ ở lại trường, nhất là không để họ bỏ học vì mang thai.
 
 - **Jamie Rush** mang thai ở tuổi 15, khi vào lớp 10; quan hệ với bố đứa trẻ gần như chấm dứt khi cô báo tin. Cha mẹ cô giúp nuôi cháu, nhưng trường hợp này không phổ biến: hơn 60% mẹ trẻ chưa kết hôn ở Mỹ sống nghèo, và nghèo lại làm tăng nguy cơ mang thai tuổi teen.
 - **Lauren** mất mẹ vì ung thư năm 12 tuổi, cha luôn vắng mặt; cô mang thai ngay trước khi tốt nghiệp trung học ở Đông Nam Massachusetts và nay là người vô gia cư.
@@ -500,11 +510,15 @@ Phân biệt đối xử ở nơi làm việc, ly hôn và mang thai tuổi teen
 | Nam giới | 14% |
 | Phụ nữ tự mình nuôi con | 27% |
 
-**Người không có con.** Hiện tượng phụ nữ (và đàn ông) không con đang tăng. Giữa thập niên 1970, khoảng 10% phụ nữ Mỹ 35–39 tuổi chưa sinh con; năm 2016 tỷ lệ này gần gấp đôi. Ở tuổi 40, 16% phụ nữ và 24% nam giới không có con. Vì tỷ lệ sinh tiếp tục giảm, tình trạng không con sẽ phổ biến hơn khắp thế giới; tới 2030, 1/3 đàn ông và phụ nữ Mỹ sẽ nghỉ hưu mà không có con. Hầu hết phụ nữ Mỹ chọn không sinh con hài lòng với quyết định đó. Một phụ nữ 66 tuổi đã nghỉ hưu kể bà học đại học nhờ chương trình G.I. Bill (hỗ trợ giáo dục cho cựu chiến binh sau Thế chiến II), luôn làm công việc trí thức, và từ 20 tới 40 tuổi luôn bị coi là khác thường. Một người 62 tuổi nói đã qua bao đau khổ và hài lòng vì chưa bao giờ có con. Người khác bực bội nói thật thiếu hiểu biết khi cho rằng phụ nữ không con phải cô đơn, vì nhiều người già có con mà con cái chẳng quan tâm hoặc chỉ liên lạc khi cần xin gì đó; có người cho rằng hoàn toàn có thể sống hạnh phúc, viên mãn mà không cần con, thậm chí không cần chồng.
+**Người không có con.** Hiện tượng phụ nữ (và đàn ông) không con đang tăng. Giữa thập niên 1970, khoảng 10% phụ nữ Mỹ 35–39 tuổi chưa sinh con; năm 2016 tỷ lệ này gần gấp đôi. Ở tuổi 40, 16% phụ nữ và 24% nam giới không có con. Vì tỷ lệ sinh tiếp tục giảm, tình trạng không con sẽ phổ biến hơn khắp thế giới; tới 2030, 1/3 đàn ông và phụ nữ Mỹ sẽ nghỉ hưu mà không có con.
 
-Paul Dolan, giáo sư Trường Kinh tế London, dựa trên dữ liệu về hạnh phúc của người Mỹ, nói rằng nếu là đàn ông thì nên kết hôn, còn nếu là phụ nữ thì đừng bận tâm: đàn ông kết hôn ít gặp rủi ro hơn, kiếm nhiều tiền hơn và sống lâu hơn một chút, còn phụ nữ kết hôn thì chịu đựng và chết sớm hơn những người chưa từng kết hôn; theo ông, nhóm khỏe mạnh và hạnh phúc nhất là phụ nữ chưa từng kết hôn hoặc sinh con (về độ tin cậy của kết luận này, xem khối Lưu ý).
+Hầu hết phụ nữ Mỹ chọn không sinh con hài lòng với quyết định đó. Một phụ nữ 66 tuổi đã nghỉ hưu kể bà học đại học nhờ chương trình G.I. Bill (hỗ trợ giáo dục cho cựu chiến binh sau Thế chiến II), luôn làm công việc trí thức, và từ 20 tới 40 tuổi luôn bị coi là khác thường. Một người 62 tuổi nói đã qua bao đau khổ và hài lòng vì chưa bao giờ có con. Người khác bực bội nói thật thiếu hiểu biết khi cho rằng phụ nữ không con phải cô đơn, vì nhiều người già có con mà con cái chẳng quan tâm hoặc chỉ liên lạc khi cần xin gì đó; có người cho rằng hoàn toàn có thể sống hạnh phúc, viên mãn mà không cần con, thậm chí không cần chồng.
 
-Khoảng cách hạnh phúc giữa cha mẹ có con và cặp không con ở Mỹ lớn hơn ở bất kỳ nước phát triển nào khác. Nhà xã hội học Jennifer Glass nhấn mạnh rằng con cái tạo thêm nhiều áp lực, nhưng chính sách gia đình tốt hơn, nhất là nghỉ phép có lương và trợ cấp chăm sóc con, sẽ thu hẹp khoảng cách. Ở Pháp, Phần Lan, Thụy Điển, Na Uy, Tây Ban Nha, Bồ Đào Nha, Hungary và Nga, cha mẹ thực sự hạnh phúc hơn người không con, có lẽ nhờ chế độ nghỉ phép và chăm sóc con thoải mái hơn. Các chương trình hỗ trợ gia đình làm tăng hạnh phúc của các ông bố (không tính đàn ông không con) và của mọi phụ nữ, dù có con hay không; vì vậy chính trị gia nào đề xuất các chương trình như vậy sẽ được phụ nữ ủng hộ nhiều hơn nam giới.
+Paul Dolan, giáo sư Trường Kinh tế London, dựa trên dữ liệu về hạnh phúc của người Mỹ, nói rằng nếu là đàn ông thì nên kết hôn, còn nếu là phụ nữ thì đừng bận tâm: đàn ông kết hôn ít gặp rủi ro hơn, kiếm nhiều tiền hơn và sống lâu hơn một chút, còn phụ nữ kết hôn thì chịu đựng và chết sớm hơn những người chưa từng kết hôn; theo ông, nhóm khỏe mạnh và hạnh phúc nhất là phụ nữ chưa từng kết hôn hoặc sinh con (về độ tin cậy của kết luận này, xem mục Lưu ý cuối chương).
+
+Khoảng cách hạnh phúc giữa cha mẹ có con và cặp không con ở Mỹ lớn hơn ở bất kỳ nước phát triển nào khác. Nhà xã hội học Jennifer Glass nhấn mạnh rằng con cái tạo thêm nhiều áp lực, nhưng chính sách gia đình tốt hơn, nhất là nghỉ phép có lương và trợ cấp chăm sóc con, sẽ thu hẹp khoảng cách. Ở Pháp, Phần Lan, Thụy Điển, Na Uy, Tây Ban Nha, Bồ Đào Nha, Hungary và Nga, cha mẹ thực sự hạnh phúc hơn người không con, có lẽ nhờ chế độ nghỉ phép và chăm sóc con thoải mái hơn.
+
+Các chương trình hỗ trợ gia đình làm tăng hạnh phúc của các ông bố (không tính đàn ông không con) và của mọi phụ nữ, dù có con hay không; vì vậy chính trị gia nào đề xuất các chương trình như vậy sẽ được phụ nữ ủng hộ nhiều hơn nam giới.
 
 Tới năm 2030, giáo dục tốt hơn và tỷ lệ sinh thấp hơn sẽ làm rõ thêm sự khác biệt giữa bốn nhóm phụ nữ: không con, mẹ đơn thân, đã kết hôn và đã ly hôn; trong mỗi nhóm, có người khá giả và có người vất vả.
 
@@ -533,11 +547,17 @@ Helen, một phụ nữ Nam Sudan, bị ép lấy một người đàn ông 50 t
 
 Bình đẳng pháp lý sẽ giúp phụ nữ lập và quản lý nhiều doanh nghiệp hơn.
 
-**Chính sách phát triển.** Các nhà hoạch định chính sách đã bỏ quên nữ doanh nhân trong thời gian dài. Mãi tới năm 1970, nhà kinh tế Đan Mạch làm việc cho Liên Hợp Quốc Ester Boserup mới xuất bản cuốn *Woman's Role in Economic Development* (*Vai trò người phụ nữ trong phát triển kinh tế*), phân tích chi tiết đóng góp của phụ nữ vào phát triển, cả trong và ngoài gia đình, và tác động của phát triển kinh tế lên họ. Cuốn sách truyền cảm hứng cho Thập niên Liên Hợp Quốc về Phụ nữ (1975–1985) và đặt nền cho làn sóng chương trình đưa phụ nữ vào phát triển kinh tế, nhằm thúc đẩy bình đẳng giới thực chất và tìm những hoạt động mà phụ nữ có thể góp vào tăng trưởng. Cuối cùng các nhà hoạch định nhận ra rằng thiếu nữ doanh nhân thì quốc gia lãng phí một nửa nguồn lực. Năm 2009, Helen Clark, người đứng đầu Chương trình Phát triển Liên Hợp Quốc (UNDP), nói rằng nếu giải phóng được tiềm năng của nữ doanh nhân và gỡ những khó khăn họ gặp (xin tín dụng, không được thừa kế, không đứng tên đất, không bình đẳng trong phân bổ ngân sách) thì có thể giảm bất bình đẳng và kích thích tăng trưởng. Sibongile Sambo, người sáng lập hãng hàng không SRS Aviation ở Nam Phi, nói phụ nữ Nam Phi, nhất là phụ nữ da đen, trong lịch sử không có cơ hội lập doanh nghiệp; công ty bà đang dùng tự do chính trị mới để tạo tự do kinh tế, cơ hội mà mẹ và dì bà không có.
+**Chính sách phát triển.** Các nhà hoạch định chính sách đã bỏ quên nữ doanh nhân trong thời gian dài. Mãi tới năm 1970, nhà kinh tế Đan Mạch làm việc cho Liên Hợp Quốc Ester Boserup mới xuất bản cuốn *Woman's Role in Economic Development* (*Vai trò người phụ nữ trong phát triển kinh tế*), phân tích chi tiết đóng góp của phụ nữ vào phát triển, cả trong và ngoài gia đình, và tác động của phát triển kinh tế lên họ. Cuốn sách truyền cảm hứng cho Thập niên Liên Hợp Quốc về Phụ nữ (1975–1985) và đặt nền cho làn sóng chương trình đưa phụ nữ vào phát triển kinh tế, nhằm thúc đẩy bình đẳng giới thực chất và tìm những hoạt động mà phụ nữ có thể góp vào tăng trưởng.
+
+Cuối cùng các nhà hoạch định nhận ra rằng thiếu nữ doanh nhân thì quốc gia lãng phí một nửa nguồn lực. Năm 2009, Helen Clark, người đứng đầu Chương trình Phát triển Liên Hợp Quốc (UNDP), nói rằng nếu giải phóng được tiềm năng của nữ doanh nhân và gỡ những khó khăn họ gặp (xin tín dụng, không được thừa kế, không đứng tên đất, không bình đẳng trong phân bổ ngân sách) thì có thể giảm bất bình đẳng và kích thích tăng trưởng.
+
+Sibongile Sambo, người sáng lập hãng hàng không SRS Aviation ở Nam Phi, nói phụ nữ Nam Phi, nhất là phụ nữ da đen, trong lịch sử không có cơ hội lập doanh nghiệp; công ty bà đang dùng tự do chính trị mới để tạo tự do kinh tế, cơ hội mà mẹ và dì bà không có.
 
 **Những rào cản chỉ vì là phụ nữ.** Azza Fahmy, người sáng lập công ty trang sức nổi tiếng của Ai Cập với 165 nhân viên, nói trường hợp của bà rất khác thường với phụ nữ trẻ Ai Cập trong xã hội truyền thống, nhưng bà quyết tâm làm tiếp. Wu Huanshu, chủ một công ty sản xuất phụ kiện may mặc và được coi là nữ doanh nhân đầu tiên của Trung Quốc, nhớ lại một quan chức văn phòng huyện Đông Thành bảo bà phải có giấy phép thì doanh nghiệp mới hợp pháp. Cả hai đều vượt qua vô số trở ngại.
 
-**Con đường kinh doanh của nữ khác nam ở đâu.** Phụ nữ thường kinh doanh trong lĩnh vực gắn với các hoạt động quen thuộc của họ: dịch vụ, bán lẻ, thủ công mỹ nghệ, ngành truyền thống. Công ty do phụ nữ lập, sở hữu hoặc quản lý thường tăng trưởng chậm, chủ yếu vì các hạn chế về cơ cấu, trong đó có thiếu kiến thức và kinh nghiệm kinh doanh: Aissa Dionne, nhà thiết kế nội thất người Senegal, kể rằng ban đầu bà không biết lập hóa đơn và phải nhờ bạn chỉ. Tuy nhiên, các nhà nghiên cứu không tìm thấy bằng chứng vững chắc về khác biệt giới trong động lực khởi nghiệp, thái độ với kinh doanh, đặc điểm xã hội hay tâm lý của doanh nhân, quá trình khởi nghiệp, phong cách quản lý hay lãnh đạo, kể cả cách tiếp cận tài chính, dù phụ nữ bị phân biệt khi xin vốn. Isabel Roa, doanh nhân Chile, bắt đầu ở một công ty dệt ở Santiago, rồi tự đan và bán tận nhà; vấn đề lớn nhất của bà là thiếu vốn, và bà giải quyết bằng tiết kiệm và đi vay.
+**Con đường kinh doanh của nữ khác nam ở đâu.** Phụ nữ thường kinh doanh trong lĩnh vực gắn với các hoạt động quen thuộc của họ: dịch vụ, bán lẻ, thủ công mỹ nghệ, ngành truyền thống. Công ty do phụ nữ lập, sở hữu hoặc quản lý thường tăng trưởng chậm, chủ yếu vì các hạn chế về cơ cấu, trong đó có thiếu kiến thức và kinh nghiệm kinh doanh: Aissa Dionne, nhà thiết kế nội thất người Senegal, kể rằng ban đầu bà không biết lập hóa đơn và phải nhờ bạn chỉ.
+
+Tuy nhiên, các nhà nghiên cứu không tìm thấy bằng chứng vững chắc về khác biệt giới trong động lực khởi nghiệp, thái độ với kinh doanh, đặc điểm xã hội hay tâm lý của doanh nhân, quá trình khởi nghiệp, phong cách quản lý hay lãnh đạo, kể cả cách tiếp cận tài chính, dù phụ nữ bị phân biệt khi xin vốn. Isabel Roa, doanh nhân Chile, bắt đầu ở một công ty dệt ở Santiago, rồi tự đan và bán tận nhà; vấn đề lớn nhất của bà là thiếu vốn, và bà giải quyết bằng tiết kiệm và đi vay.
 
 Một lý do quan trọng khiến phụ nữ khó khởi nghiệp và phát triển doanh nghiệp là họ thường trở thành doanh nhân trong tình thế cấp bách hơn nam giới. Nasreen Kasuri lập một trường học ở Pakistan vì thấy số trường không thay đổi từ thời bà đi học và các con bà không có nền giáo dục tốt như bà từng có. Global Entrepreneurship Monitor, tổ chức khảo sát khởi nghiệp toàn cầu hằng năm, ghi nhận hầu hết phụ nữ trở thành doanh nhân vì buộc phải kiếm sống.
 
@@ -547,7 +567,9 @@ Tới 2030 vẫn chưa ngã ngũ liệu nữ doanh nhân có cách hình dung, t
 
 Tới năm 2030, gần một nửa doanh nghiệp mới trên thế giới sẽ thuộc về phụ nữ.
 
-**Anu Acharya và Ocimum Biosolutions** (bản dịch viết "Anu Ancharya"). Học xong ở Mỹ, Anu về Ấn Độ theo mô hình "luân chuyển chất xám" đã nói ở Chương 1 và lập Ocimum Biosolutions, công ty nhận làm thuê ngoài về hệ gen. Sau 15 năm và ba thương vụ mua công ty ở châu Âu và Mỹ, Ocimum thành một trong những doanh nghiệp hàng đầu ngành y sinh toàn cầu. Là mẹ hai con gái nhỏ, Anu phải chọn lựa khó khăn; cô nói các con đã quen việc mẹ ít ở nhà; gia đình sống cùng nhà chồng, và ông bà giúp nuôi cháu. Công ty cho nhân viên nghỉ thai sản ba tháng nguyên lương. Jaishree Ravi, trợ lý phó chủ tịch phụ trách hệ thống chất lượng và là một trong những nhân viên đầu tiên, nói đây là nơi làm việc rất tốt cho phụ nữ nhờ giờ làm linh hoạt: cô có thể đi họp phụ huynh rồi quay lại làm, miễn đủ chín giờ mỗi ngày.
+**Anu Acharya và Ocimum Biosolutions** (bản dịch viết "Anu Ancharya"). Học xong ở Mỹ, Anu về Ấn Độ theo mô hình "luân chuyển chất xám" đã nói ở Chương 1 và lập Ocimum Biosolutions, công ty nhận làm thuê ngoài về hệ gen. Sau 15 năm và ba thương vụ mua công ty ở châu Âu và Mỹ, Ocimum thành một trong những doanh nghiệp hàng đầu ngành y sinh toàn cầu.
+
+Là mẹ hai con gái nhỏ, Anu phải chọn lựa khó khăn; cô nói các con đã quen việc mẹ ít ở nhà; gia đình sống cùng nhà chồng, và ông bà giúp nuôi cháu. Công ty cho nhân viên nghỉ thai sản ba tháng nguyên lương. Jaishree Ravi, trợ lý phó chủ tịch phụ trách hệ thống chất lượng và là một trong những nhân viên đầu tiên, nói đây là nơi làm việc rất tốt cho phụ nữ nhờ giờ làm linh hoạt: cô có thể đi họp phụ huynh rồi quay lại làm, miễn đủ chín giờ mỗi ngày.
 
 **Melissa**, gần 50 tuổi, trải qua một cuộc ly hôn khó khăn và bất ngờ năm 2007; bà có một con trai học đại học và hai con gái sinh đôi tuổi teen. Bà tạm nghỉ dạy học tới khi con đi học, rồi làm bán thời gian để ở bên con nhiều nhất; bà nhận ra mình không thể hy sinh việc đưa con tới trường mỗi sáng. Như nhiều phụ nữ có học cùng thế hệ, bà phải đánh đổi những điều mà đàn ông không phải đối mặt.
 
@@ -560,7 +582,9 @@ Tới năm 2030, gần một nửa doanh nghiệp mới trên thế giới sẽ 
 
 **Cái giá của gián đoạn sự nghiệp.** Nghiên cứu về người tốt nghiệp MBA của Đại học Chicago cho thấy phụ nữ nghỉ làm từ ba năm trở lên có lương thấp hơn khoảng 40% so với nam giới cùng điều kiện. Một số cố vấn và tác giả như Joanne Cleaver khuyên rằng rời hẳn sự nghiệp là tự sát, đừng làm.
 
-**Dân số già mở lại cửa cho các bà mẹ.** Điều bất ngờ là tỷ lệ sinh giảm lại cho các bà mẹ cơ hội quay lại làm việc, vì khi dân số già đi, nguồn lao động có trình độ thu hẹp. Trong nhiều thập niên, hàng triệu phụ nữ Nhật học vấn cao nghỉ việc sau khi cưới; nay họ quay lại đông đảo vì các công ty thiếu người trầm trọng. Năm 2018, tỷ lệ phụ nữ Nhật đi làm cao hơn phụ nữ Mỹ ở mọi nhóm tuổi trừ nhóm dưới 24. Khoảng 71% phụ nữ Nhật tuổi lao động có việc làm, mức cao nhất trong nhiều thập niên và thuộc hàng cao nhất thế giới; theo đà này, tới 2030 tỷ lệ có thể gần bằng nam giới, khoảng 86%. Nhưng phân biệt lương vẫn phổ biến, và các bà mẹ vẫn gánh phần lớn việc nhà và chăm con; một nhà thiết kế đồ họa có hai con than rằng ý thức của đàn ông còn kém, chồng cô không có khái niệm gì về bình đẳng giới.
+**Dân số già mở lại cửa cho các bà mẹ.** Điều bất ngờ là tỷ lệ sinh giảm lại cho các bà mẹ cơ hội quay lại làm việc, vì khi dân số già đi, nguồn lao động có trình độ thu hẹp. Trong nhiều thập niên, hàng triệu phụ nữ Nhật học vấn cao nghỉ việc sau khi cưới; nay họ quay lại đông đảo vì các công ty thiếu người trầm trọng.
+
+Năm 2018, tỷ lệ phụ nữ Nhật đi làm cao hơn phụ nữ Mỹ ở mọi nhóm tuổi trừ nhóm dưới 24. Khoảng 71% phụ nữ Nhật tuổi lao động có việc làm, mức cao nhất trong nhiều thập niên và thuộc hàng cao nhất thế giới; theo đà này, tới 2030 tỷ lệ có thể gần bằng nam giới, khoảng 86%. Nhưng phân biệt lương vẫn phổ biến, và các bà mẹ vẫn gánh phần lớn việc nhà và chăm con; một nhà thiết kế đồ họa có hai con than rằng ý thức của đàn ông còn kém, chồng cô không có khái niệm gì về bình đẳng giới.
 
 **Chính sách của các chính phủ.** Cân bằng công việc–gia đình được nhiều nước quan tâm, nhất là các nước lo dân số già và khả năng duy trì phúc lợi. Theo Liên Hợp Quốc:
 
@@ -580,7 +604,7 @@ Tới năm 2030, gần một nửa doanh nghiệp mới trên thế giới sẽ 
 
 ### 6. Phụ nữ có chết sớm hơn khi phải làm việc? (trang PDF 163–166)
 
-Khi phụ nữ tận dụng cơ hội sự nghiệp và phải đánh đổi giữa công việc với gia đình, chênh lệch tuổi thọ giữa họ và nam giới thu hẹp dần. Sách viết: năm 1995 phụ nữ sống lâu hơn nam giới trung bình khoảng 7,8 năm, năm 2018 còn 6,8 năm, và Liên Hợp Quốc ước tính còn 6,3 năm vào 2030 (về độ khớp của các số này với hình, xem khối Lưu ý). Theo Guillén, hiện tượng thu hẹp chỉ xảy ra ở các nước phát triển nhất, bắt đầu từ cuối thập niên 1990, đúng lúc số phụ nữ theo đuổi sự nghiệp tăng lên.
+Khi phụ nữ tận dụng cơ hội sự nghiệp và phải đánh đổi giữa công việc với gia đình, chênh lệch tuổi thọ giữa họ và nam giới thu hẹp dần. Sách viết: năm 1995 phụ nữ sống lâu hơn nam giới trung bình khoảng 7,8 năm, năm 2018 còn 6,8 năm, và Liên Hợp Quốc ước tính còn 6,3 năm vào 2030 (về độ khớp của các số này với hình, xem mục Lưu ý cuối chương). Theo Guillén, hiện tượng thu hẹp chỉ xảy ra ở các nước phát triển nhất, bắt đầu từ cuối thập niên 1990, đúng lúc số phụ nữ theo đuổi sự nghiệp tăng lên.
 
 Biểu đồ duy nhất của chương, "Lợi thế tuổi thọ của phụ nữ" (nguồn: Liên Hợp Quốc, *Triển vọng dân số thế giới*, bản cập nhật 2019), vẽ số năm phụ nữ sống lâu hơn nam giới theo từng giai đoạn 5 năm từ 1950–1955 tới 2095–2100 cho bốn nhóm. Số đọc từ hình (ước lượng bằng mắt, sai số khoảng 0,1–0,2 năm):
 
@@ -610,7 +634,9 @@ Biểu đồ duy nhất của chương, "Lợi thế tuổi thọ của phụ n�
 
 **Những nhóm phụ nữ bị nặng nhất.** Tuổi thọ phụ nữ Mỹ khác nhau theo học vấn và nơi sống; người ở đô thị khá hơn hẳn. Nhóm nhà nhân khẩu học do Irma Elo (Đại học Pennsylvania) dẫn đầu phân tích 40 khu vực ở Mỹ và thấy rằng từ 2009 tới 2016 tuổi thọ của đàn ông da trắng tăng nhanh hơn của phụ nữ da trắng (không gốc Tây Ban Nha). Ở 8 trong 40 khu vực, tất cả là vùng ngoài đô thị ở Alabama, Arkansas, Kentucky, Louisiana, Missouri, Oklahoma, Tennessee và Texas, tuổi thọ phụ nữ không chỉ mất lợi thế mà còn giảm gần một năm trong giai đoạn 1990–2016. Thủ phạm là hút thuốc, rối loạn tâm thần và thần kinh, và quá liều ma túy.
 
-Arun Hendi (Đại học Duke) thấy rằng từ năm 1990 tuổi thọ tăng hoặc giữ nguyên ở mọi nhóm học vấn–chủng tộc–giới tính, trừ nhóm phụ nữ da trắng không gốc Tây Ban Nha học dưới trung học: nhóm này mất 2,5 năm tuổi thọ trong hai thập niên. Crystal Wilson, sống ở khu chủ yếu người da trắng tại Cave City, Arkansas, qua đời ở tuổi 38; cô ở nhà nội trợ, béo phì và tiểu đường, và theo nhà báo Monica Potts trên *American Prospect*, cô bỏ học năm lớp 10 sau khi kết hôn, "mọi việc thường diễn ra như vậy". Julie Johnson, điều phối viên công nghệ của phòng quản lý trường học địa phương, nói phụ nữ kém học thức hầu như không có cơ hội nào: kết hôn, có con, ở nhà, một vòng luẩn quẩn; hỏi điều gì đang giết họ, bà đáp: sự tuyệt vọng của thời đại.
+Arun Hendi (Đại học Duke) thấy rằng từ năm 1990 tuổi thọ tăng hoặc giữ nguyên ở mọi nhóm học vấn–chủng tộc–giới tính, trừ nhóm phụ nữ da trắng không gốc Tây Ban Nha học dưới trung học: nhóm này mất 2,5 năm tuổi thọ trong hai thập niên.
+
+Crystal Wilson, sống ở khu chủ yếu người da trắng tại Cave City, Arkansas, qua đời ở tuổi 38; cô ở nhà nội trợ, béo phì và tiểu đường, và theo nhà báo Monica Potts trên *American Prospect*, cô bỏ học năm lớp 10 sau khi kết hôn, "mọi việc thường diễn ra như vậy". Julie Johnson, điều phối viên công nghệ của phòng quản lý trường học địa phương, nói phụ nữ kém học thức hầu như không có cơ hội nào: kết hôn, có con, ở nhà, một vòng luẩn quẩn; hỏi điều gì đang giết họ, bà đáp: sự tuyệt vọng của thời đại.
 
 Nhìn chung tỷ lệ tử vong đang tăng nhanh ở người Mỹ 25–44 tuổi. Elo và cộng sự nhận thấy thế hệ trưởng thành trong thời kỳ Đại suy thoái trưởng thành chậm hơn, ít kết hôn hơn và sống với cha mẹ nhiều hơn; nhóm tuổi này lạm dụng ma túy và rượu bia nhiều hơn, kéo theo bệnh tật và tử vong trong các thập niên tới. Theo Guillén, đó là tương lai đang chờ một số phụ nữ và đàn ông thế hệ Millennials không được hưởng các lợi thế đã nói trong chương.
 
@@ -663,7 +689,9 @@ Tới 2030 sẽ có nhiều nữ quản lý hơn nhưng vẫn là thiểu số: 
 
 ### 8. Phụ nữ lãnh đạo có "hách dịch"? (trang PDF 170–174)
 
-**Thatcher và Merkel.** Thủ tướng Anh Margaret Thatcher và Thủ tướng Đức Angela Merkel cùng lãnh đạo đảng bảo thủ thắng cử, cùng lên vị trí quyền lực cao nhất nước và cùng học hóa học. Sau khi tốt nghiệp Oxford, Thatcher làm một thời gian ngắn cho tập đoàn thực phẩm J. Lyons & Company, được kể là thành viên nhóm phát triển kem mềm (kiểu kem tươi), nên bị gọi là "Người đàn bà thép Kem mềm", biến thể của biệt danh nổi tiếng "Người đàn bà thép". Bà còn có các biệt danh "Con gái người bán tạp hóa", "Kẻ cướp sữa", "Cô gà Attila"; cố Tổng thống Pháp François Mitterrand nói bà có "đôi mắt của Caligula (hoàng đế La Mã thứ ba) và đôi môi của Marilyn Monroe". Merkel có bằng tiến sĩ hóa học lượng tử, làm nghiên cứu vài năm, bước vào chính trị khi Bức tường Berlin sụp đổ và chỉ trong một năm được bầu vào Quốc hội Liên bang. Bà được gọi là "Người phụ nữ quyền lực nhất thế giới", "Mutti" (người mẹ, vì cách làm chính trị ôn hòa) và "Frau Nein" (Bà "Không", vì kiên định với thắt lưng buộc bụng trong khủng hoảng khu vực đồng euro).
+**Thatcher và Merkel.** Thủ tướng Anh Margaret Thatcher và Thủ tướng Đức Angela Merkel cùng lãnh đạo đảng bảo thủ thắng cử, cùng lên vị trí quyền lực cao nhất nước và cùng học hóa học. Sau khi tốt nghiệp Oxford, Thatcher làm một thời gian ngắn cho tập đoàn thực phẩm J. Lyons & Company, được kể là thành viên nhóm phát triển kem mềm (kiểu kem tươi), nên bị gọi là "Người đàn bà thép Kem mềm", biến thể của biệt danh nổi tiếng "Người đàn bà thép". Bà còn có các biệt danh "Con gái người bán tạp hóa", "Kẻ cướp sữa", "Cô gà Attila"; cố Tổng thống Pháp François Mitterrand nói bà có "đôi mắt của Caligula (hoàng đế La Mã thứ ba) và đôi môi của Marilyn Monroe".
+
+Merkel có bằng tiến sĩ hóa học lượng tử, làm nghiên cứu vài năm, bước vào chính trị khi Bức tường Berlin sụp đổ và chỉ trong một năm được bầu vào Quốc hội Liên bang. Bà được gọi là "Người phụ nữ quyền lực nhất thế giới", "Mutti" (người mẹ, vì cách làm chính trị ôn hòa) và "Frau Nein" (Bà "Không", vì kiên định với thắt lưng buộc bụng trong khủng hoảng khu vực đồng euro).
 
 Điểm chung chủ yếu của hai bà là đều là phụ nữ nắm quyền, và phản ứng đầu tiên của mọi người là nhìn họ như phụ nữ, thậm chí phụ nữ "hách dịch" (bossy). Trang web Ban Bossy chỉ ra rằng cậu bé cương quyết được gọi là "nhà lãnh đạo", còn cô bé cương quyết bị gắn nhãn "bossy"; nhãn này ngầm bảo các bé gái đừng lên tiếng, khiến bé gái ở trường ít thích chỉ huy hơn bé trai và xu hướng ấy kéo dài tới tuổi trưởng thành. Sheryl Sandberg, giám đốc vận hành (COO) của Facebook và tác giả sách bán chạy, nói cô bé đó không "bossy" mà có kỹ năng lãnh đạo.
 
@@ -683,11 +711,17 @@ Tới 2030 sẽ có nhiều nữ quản lý hơn nhưng vẫn là thiểu số: 
 | 1953 | 66% | 5% | 25% |
 | 2017 | 23% | 21% | 55% |
 
-Năm 2017, chênh lệch giữa 23% và 21% nằm trong biên sai số khoảng ±4%. Sách còn nêu rằng tỷ lệ "không quan tâm" khác nhau rõ giữa phụ nữ (44%) và nam giới (68%) (cách đọc này theo khối Lưu ý), cho thấy chính phụ nữ cũng phân nhánh mạnh về thái độ theo tuổi, học vấn và nơi sống. Cuộc thăm dò diễn ra một tháng sau khi vụ bê bối Harvey Weinstein (nhà sản xuất phim bị tố lạm dụng tình dục) bị phanh phui, giữa lúc phong trào Me-Too (chống lạm dụng và xâm hại tình dục) lan mạnh, nhưng Guillén cho rằng có lý do để tin phụ nữ đã bắt đầu thoát khỏi "lời nguyền" của nhóm thiểu số tượng trưng. Khi nhiều phụ nữ đi làm và lên cao hơn, vai trò của họ sẽ đổi nhanh; tới 2030 họ sẽ chiếm tỷ lệ đáng kể trong lãnh đạo chính trị, xã hội, kinh doanh và có thể phá vỡ phân biệt đối xử.
+Năm 2017, chênh lệch giữa 23% và 21% nằm trong biên sai số khoảng ±4%. Sách còn nêu rằng tỷ lệ "không quan tâm" khác nhau rõ giữa phụ nữ (44%) và nam giới (68%) (cách đọc này theo mục Lưu ý cuối chương), cho thấy chính phụ nữ cũng phân nhánh mạnh về thái độ theo tuổi, học vấn và nơi sống.
 
-**Lý thuyết của Kanter và chuyện hôn nhân.** Thập niên 1940, xã hội Mỹ không cho phụ nữ tham vọng sự nghiệp; một cuốn sách phát triển bản thân khuyên đừng tỏ ra thông minh hơn chồng: thông minh gần bằng đàn ông thì được, nhưng không được bằng hoặc hơn. Đó là lời khuyên phổ biến khi Mỹ thiếu đàn ông vì nhiều người chết trận, và từ đó hình thành ý rằng nên tránh phụ nữ tỏ ra thông minh, nên chọn người "nữ tính" theo chuẩn thời đó. Ở chiều ngược lại, Trung Quốc ngày nay thiếu phụ nữ, vậy mà nữ tiến sĩ vẫn bị gọi là *di san xing* ("giới tính thứ ba"), ám chỉ ít đàn ông muốn cưới họ. Tạp chí Trung Quốc khuyên phụ nữ thành đạt dùng *sajiao* (nghệ thuật tỏ ra nhút nhát, dễ thương, đáng yêu) để không có vẻ quá độc lập, tự chủ trước bạn trai, thể hiện sự mềm mại thay vì cứng cỏi, và tâng bốc cái tôi của người đàn ông để anh ta thấy mình là đàn ông.
+Cuộc thăm dò diễn ra một tháng sau khi vụ bê bối Harvey Weinstein (nhà sản xuất phim bị tố lạm dụng tình dục) bị phanh phui, giữa lúc phong trào Me-Too (chống lạm dụng và xâm hại tình dục) lan mạnh, nhưng Guillén cho rằng có lý do để tin phụ nữ đã bắt đầu thoát khỏi "lời nguyền" của nhóm thiểu số tượng trưng. Khi nhiều phụ nữ đi làm và lên cao hơn, vai trò của họ sẽ đổi nhanh; tới 2030 họ sẽ chiếm tỷ lệ đáng kể trong lãnh đạo chính trị, xã hội, kinh doanh và có thể phá vỡ phân biệt đối xử.
 
-**Phụ nữ Ả Rập Saudi và những chiếc xe mạnh.** Năm 2018, phụ nữ Ả Rập Saudi lần đầu được lái xe, và lựa chọn của họ làm mọi người bất ngờ. Theo *Wall Street Journal*, các showroom nhập những chiếc SUV cỡ nhỏ màu sáng vì nghĩ phụ nữ sẽ thích, nhưng họ lại chọn xe ồn và nhanh; một nhân viên bán hàng Audi nói họ tưởng phụ nữ mới lái sẽ chọn xe nhỏ, động cơ yếu. Sahar Nasief, 64 tuổi, đã có cháu ngoại tuổi teen, một nhà hoạt động cho quyền lái xe của phụ nữ, chọn chiếc Ford Mustang mui trần và gọi đó là chiếc xe trong mơ; biết chuyện, Ford tặng bà một chiếc, và bà chọn màu vàng đen theo màu đội bóng yêu thích, nói bà thích chiếc xe vì tiếng gầm của nó. Guillén cho rằng lý thuyết của Kanter giải thích được hành vi này: khi còn rất ít phụ nữ lái xe trên phố, những người tiên phong cố phá định kiến giới để đứng ngang hàng nam giới.
+**Lý thuyết của Kanter và chuyện hôn nhân.** Thập niên 1940, xã hội Mỹ không cho phụ nữ tham vọng sự nghiệp; một cuốn sách phát triển bản thân khuyên đừng tỏ ra thông minh hơn chồng: thông minh gần bằng đàn ông thì được, nhưng không được bằng hoặc hơn. Đó là lời khuyên phổ biến khi Mỹ thiếu đàn ông vì nhiều người chết trận, và từ đó hình thành ý rằng nên tránh phụ nữ tỏ ra thông minh, nên chọn người "nữ tính" theo chuẩn thời đó.
+
+Ở chiều ngược lại, Trung Quốc ngày nay thiếu phụ nữ, vậy mà nữ tiến sĩ vẫn bị gọi là *di san xing* ("giới tính thứ ba"), ám chỉ ít đàn ông muốn cưới họ. Tạp chí Trung Quốc khuyên phụ nữ thành đạt dùng *sajiao* (nghệ thuật tỏ ra nhút nhát, dễ thương, đáng yêu) để không có vẻ quá độc lập, tự chủ trước bạn trai, thể hiện sự mềm mại thay vì cứng cỏi, và tâng bốc cái tôi của người đàn ông để anh ta thấy mình là đàn ông.
+
+**Phụ nữ Ả Rập Saudi và những chiếc xe mạnh.** Năm 2018, phụ nữ Ả Rập Saudi lần đầu được lái xe, và lựa chọn của họ làm mọi người bất ngờ. Theo *Wall Street Journal*, các showroom nhập những chiếc SUV cỡ nhỏ màu sáng vì nghĩ phụ nữ sẽ thích, nhưng họ lại chọn xe ồn và nhanh; một nhân viên bán hàng Audi nói họ tưởng phụ nữ mới lái sẽ chọn xe nhỏ, động cơ yếu.
+
+Sahar Nasief, 64 tuổi, đã có cháu ngoại tuổi teen, một nhà hoạt động cho quyền lái xe của phụ nữ, chọn chiếc Ford Mustang mui trần và gọi đó là chiếc xe trong mơ; biết chuyện, Ford tặng bà một chiếc, và bà chọn màu vàng đen theo màu đội bóng yêu thích, nói bà thích chiếc xe vì tiếng gầm của nó. Guillén cho rằng lý thuyết của Kanter giải thích được hành vi này: khi còn rất ít phụ nữ lái xe trên phố, những người tiên phong cố phá định kiến giới để đứng ngang hàng nam giới.
 
 ### 9. Phụ nữ sẽ thống trị thế giới năm 2030? (trang PDF 175)
 
@@ -781,7 +815,7 @@ Tiêu đề mục về phụ nữ ở các nước đang phát triển; một c�
 
 > "nếu là đàn ông, bạn nên kết hôn; nếu là phụ nữ, thì đừng bận tâm" — Paul Dolan
 
-Kết luận gây tranh cãi về hôn nhân và hạnh phúc (xem khối Lưu ý về độ tin cậy).
+Kết luận gây tranh cãi về hôn nhân và hạnh phúc (xem mục Lưu ý cuối chương về độ tin cậy).
 
 > "bước chân hoàn toàn ra khỏi con đường sự nghiệp là tự sát. Đừng làm điều đó" — Joanne Cleaver
 
@@ -815,7 +849,9 @@ Theo hiểu biết của người tổng hợp: tỷ lệ nữ CEO trong Fortune
 
 ### Lợi thế tuổi thọ: dữ liệu sau năm 2019 phức tạp hơn lập luận của sách
 
-Theo hiểu biết của người tổng hợp, đại dịch COVID-19 giết nam giới nhiều hơn nữ giới, nên lợi thế tuổi thọ của phụ nữ Mỹ tăng trở lại khoảng 5,5–6 năm trong 2020–2021, ngược với dự báo 4,3 năm của sách cho 2030. Điều này củng cố phản bác ở Luận điểm 6: lợi thế tuổi thọ phụ thuộc nhiều vào những gì xảy ra với nam giới (dịch bệnh, quá liều ma túy, tai nạn), không chỉ vào việc phụ nữ đi làm. Guillén trình bày mối liên hệ giữa đi làm và tuổi thọ như nhân quả, nhưng chỉ đưa ra trùng hợp về thời điểm và vài trích dẫn; dữ liệu mạnh nhất của chính chương (Elo, Hendi) lại cho thấy nhóm suy giảm là phụ nữ học vấn thấp ở vùng ngoài đô thị, và ví dụ Crystal Wilson là người ở nhà nội trợ.
+Theo hiểu biết của người tổng hợp, đại dịch COVID-19 giết nam giới nhiều hơn nữ giới, nên lợi thế tuổi thọ của phụ nữ Mỹ tăng trở lại khoảng 5,5–6 năm trong 2020–2021, ngược với dự báo 4,3 năm của sách cho 2030. Điều này củng cố phản bác ở Luận điểm 6: lợi thế tuổi thọ phụ thuộc nhiều vào những gì xảy ra với nam giới (dịch bệnh, quá liều ma túy, tai nạn), không chỉ vào việc phụ nữ đi làm.
+
+Guillén trình bày mối liên hệ giữa đi làm và tuổi thọ như nhân quả, nhưng chỉ đưa ra trùng hợp về thời điểm và vài trích dẫn; dữ liệu mạnh nhất của chính chương (Elo, Hendi) lại cho thấy nhóm suy giảm là phụ nữ học vấn thấp ở vùng ngoài đô thị, và ví dụ Crystal Wilson là người ở nhà nội trợ.
 
 ### Điểm mạnh: kể chuyện bằng con người cụ thể và giữ được hai mặt của xu hướng
 
@@ -824,7 +860,7 @@ Chương có rất nhiều chân dung (Sadie và Ellen, bà mẹ ly hôn trên B
 ### Điểm yếu: nguồn không đều và vài kết luận dựa trên bằng chứng mỏng
 
 - Kết luận "Lehman Sisters" dựa trên một nghiên cứu *chưa công bố* về giao dịch viên ở một ngân hàng; khác biệt lợi nhuận chỉ là "tốt hơn một chút".
-- Câu nói của Paul Dolan đã bị chỉ ra là đọc sai dữ liệu (theo hiểu biết của người tổng hợp, xem Lưu ý).
+- Câu nói của Paul Dolan đã bị chỉ ra là đọc sai dữ liệu (theo hiểu biết của người tổng hợp, xem mục Lưu ý cuối chương).
 - Chuyện Thatcher và kem mềm được kể như sự thật dù bài nguồn gọi nó là huyền thoại.
 - Số liệu lợi thế tuổi thọ trong lời văn không khớp với hình đi kèm.
 - Phần lớn ví dụ là của Mỹ; khi khái quát ra "thế giới", sách dựa chủ yếu vào các câu chuyện nữ doanh nhân từ cuốn sách trước của chính tác giả.
@@ -840,3 +876,185 @@ Chương có rất nhiều chân dung (Sadie và Ellen, bà mẹ ly hôn trên B
 - **Đầu tư và kinh doanh:** các ngành giáo dục, y tế, bảo hiểm và dịch vụ thay thế việc nhà (trông trẻ, chăm sóc người già, giao đồ ăn) hưởng lợi khi phụ nữ giàu lên và đi làm nhiều hơn. Sản phẩm tài chính cho khách hàng nữ nên tính tới việc họ sống lâu hơn (cần quỹ hưu dài hơn), hay thừa kế muộn, và ưa an toàn. Ví dụ Ả Rập Saudi là lời nhắc đừng thiết kế sản phẩm "cho phụ nữ" theo định kiến (SUV nhỏ màu sáng) mà phải hỏi chính khách hàng.
 - **Tài chính gia đình:** ví dụ bà mẹ ly hôn trên Billfold chỉ ra những rủi ro cụ thể: rút quỹ hưu trí khi ly hôn, gộp nợ của chồng vào khoản vay đứng tên mình. Mỗi người trong hôn nhân nên có tài sản và quỹ hưu riêng, và hiểu rằng ly hôn khi có con thường làm người mẹ sa sút tài chính lâu dài.
 - **Đời sống và chính sách công:** dữ liệu của Glass cho thấy chính sách nghỉ phép có lương và trợ cấp trông con thu hẹp khoảng cách hạnh phúc giữa người có con và không con; với các nước có tỷ lệ sinh giảm, đó là đòn bẩy rõ ràng hơn các lời kêu gọi sinh con. Giữ trẻ em gái ở lại trường, tránh mang thai sớm, là yếu tố mà Guillén cho là hữu ích nhất để cải thiện kinh tế của phụ nữ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (vì sao phụ nữ giàu lên và cách họ dùng tiền, các nhóm phụ nữ bị bỏ lại ở Mỹ, phụ nữ và nữ doanh nhân ở các nước đang phát triển, cân bằng công việc–gia đình cùng cái giá về tuổi thọ, trần kính và định kiến với phụ nữ lãnh đạo), mỗi nhánh ghi luận điểm, số liệu và ví dụ then chốt của Guillén; nhánh cuối là thông điệp xuyên suốt của Mục 9 kèm hàm ý cho doanh nghiệp và cá nhân.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: phụ nữ giàu lên nhanh hơn nam giới, có thể sở hữu hơn nửa tài sản thế giới năm 2030, nhưng phân cực mạnh`"]
+  n1["`Mục 1–2 — Vì sao phụ nữ giàu lên và họ dùng tiền khác nam giới`"]
+  n0 --- n1
+  n2["`Đa số phụ nữ Mỹ có bằng đại học, sau đại học, hơn 40% phụ nữ đã kết hôn kiếm nhiều hơn chồng`"]
+  n1 --- n2
+  n3["`Phụ nữ giàu lên vì học nhiều hơn, đi làm nhiều hơn, sinh ít con hơn, sống lâu hơn nam 4–7 năm và thừa kế của chồng`"]
+  n1 --- n3
+  n4["`Mặt tệ nhất: gần 40% phụ nữ và trẻ em gái thế giới, khoảng 1,5 tỷ người, sống ở nước không có bình đẳng giới`"]
+  n1 --- n4
+  n5["`Nghiên cứu Harvard-Yale bị thổi phồng: Newsweek 1986 viết phụ nữ 40 tuổi dễ bị khủng bố giết hơn kết hôn (2,6%)`"]
+  n1 --- n5
+  n6["`Thực tế chưa tới 10% phụ nữ Mỹ 50–60 tuổi chưa từng kết hôn`"]
+  n5 --- n6
+  n7["`Phụ nữ chi nhiều hơn cho giáo dục, y tế, bảo hiểm thương tật và tử vong, ba ngành chiếm khoảng 30% kinh tế Mỹ`"]
+  n1 --- n7
+  n8["`Tiết kiệm tùy giai đoạn đời: độc thân thì nữ tiết kiệm hơn, đã có con thì nam tiết kiệm hơn`"]
+  n1 --- n8
+  n9["`Ngân hàng đầu tư New York: nam giao dịch nhiều, rủi ro hơn, nữ lãi dài hạn tốt hơn một chút`"]
+  n1 --- n9
+  n10["`Giá như là Lehman Sisters thì khủng hoảng 2008 có thể đã không xảy ra`"]
+  n9 --- n10
+  n11["`Công ty nào không hiểu cách phụ nữ tiêu dùng, tiết kiệm, đầu tư sẽ khó thành công`"]
+  n1 --- n11
+  n12["`Mục 3 — Không phải mọi phụ nữ đều giống nhau: những nhóm bị bỏ lại ở Mỹ`"]
+  n0 --- n12
+  n13["`Sadie Groff có con lúc 20 tuổi, làm phụ tá điều dưỡng, Ellen Scanlon có con lúc 40, lập công ty tư vấn`"]
+  n12 --- n13
+  n14["`Phân cực giải thích khác biệt về tài sản và quan điểm chính trị giữa các nhóm và các vùng`"]
+  n13 --- n14
+  n15["`Phụ nữ ly hôn sa sút tài chính, kể cả sau khi tái hôn, còn đàn ông thì không`"]
+  n12 --- n15
+  n16["`Bà mẹ ly hôn ba con lương 40.000 USD/năm, thuê nhà 1.480 và trông trẻ 1.386 USD/tháng, gánh nợ sinh viên của chồng cũ`"]
+  n15 --- n16
+  n17["`Mỹ: gần 1/4 triệu trẻ mỗi năm sinh từ mẹ 15–19 tuổi, hơn 60% mẹ trẻ chưa kết hôn sống nghèo`"]
+  n12 --- n17
+  n18["`Giữ bé gái ở lại trường, không bỏ học vì mang thai, là yếu tố hữu ích nhất tới 2030`"]
+  n17 --- n18
+  n19["`Tỷ lệ sống dưới mức nghèo ở Mỹ: phụ nữ 16%, nam giới 14%, phụ nữ tự nuôi con 27%`"]
+  n12 --- n19
+  n20["`Tới 2030, 1/3 người Mỹ nghỉ hưu không có con, ở tuổi 40 có 16% nữ và 24% nam không con`"]
+  n12 --- n20
+  n21["`Glass: nghỉ phép có lương và trợ cấp trông con thu hẹp khoảng cách hạnh phúc giữa người có con và không con`"]
+  n12 --- n21
+  n22["`Mục 4 — Chồng đã nuôi tôi từ nhỏ: phụ nữ và nữ doanh nhân ở nước đang phát triển`"]
+  n0 --- n22
+  n23["`Nghèo đói đeo bám hơn nửa phụ nữ ở châu Phi hạ Sahara, Mỹ Latinh, Nam Á, Đông Nam Á, Trung Đông`"]
+  n22 --- n23
+  n24["`Ít nhất 200 triệu phụ nữ bị cắt bộ phận sinh dục, 1/5 bé gái lấy chồng trước 18 tuổi`"]
+  n22 --- n24
+  n25["`Bé gái 15 tuổi có nguy cơ chết khi sinh cao gấp 5 lần phụ nữ 20 tuổi`"]
+  n22 --- n25
+  n26["`128 nước có phân biệt pháp lý: 45 hạn chế năng lực giao dịch, 49 cấm một số ngành, 32 không thừa kế bình đẳng`"]
+  n22 --- n26
+  n27["`Victoria Kisyombe lập SELFINA, công ty cho thuê lớn nhất Tanzania, hơn 22.000 hợp đồng`"]
+  n22 --- n27
+  n28["`Boserup (1970) dẫn tới Thập niên LHQ về Phụ nữ: thiếu nữ doanh nhân là lãng phí một nửa nguồn lực`"]
+  n22 --- n28
+  n29["`Không có bằng chứng vững về khác biệt giới trong động lực, thái độ, phong cách quản lý của doanh nhân`"]
+  n22 --- n29
+  n30["`Doanh nghiệp của nữ tăng chậm vì rào cản cơ cấu: thiếu vốn, thiếu kinh nghiệm kinh doanh`"]
+  n29 --- n30
+  n31["`Global Entrepreneurship Monitor: hầu hết phụ nữ khởi nghiệp vì buộc phải kiếm sống`"]
+  n22 --- n31
+  n32["`Mục 5–6 — Cân bằng công việc và gia đình, và cái giá về tuổi thọ`"]
+  n0 --- n32
+  n33["`Tới 2030, gần một nửa doanh nghiệp mới trên thế giới thuộc về phụ nữ`"]
+  n32 --- n33
+  n34["`Khoảng 70% bà mẹ Mỹ đi làm, hơn một nửa trong số đó vì bắt buộc`"]
+  n32 --- n34
+  n35["`MBA Chicago: phụ nữ nghỉ làm từ 3 năm trở lên có lương thấp hơn nam khoảng 40%`"]
+  n32 --- n35
+  n36["`Dân số già làm thiếu lao động: 71% phụ nữ Nhật tuổi lao động có việc (2018), 2030 có thể gần mức 86% của nam`"]
+  n32 --- n36
+  n37["`Nước sinh thấp có chính sách xử lý tăng từ 35% (1996) lên 59% (2015), việc nhà: nữ 4 giờ, nam 1,7 giờ/ngày`"]
+  n32 --- n37
+  n38["`Rothbard: người muốn tách công việc khỏi gia đình thích giờ làm linh hoạt hơn nhà trẻ tại công ty`"]
+  n32 --- n38
+  n39["`Esping-Andersen: phụ nữ đi làm tạo thị trường dịch vụ, giúp châu Phi, Trung Đông, Nam Á tăng trưởng nhanh hơn`"]
+  n32 --- n39
+  n40["`Lợi thế tuổi thọ của phụ nữ Mỹ: 7,7 năm đầu thập niên 1970, khoảng 5 năm 2019, dự báo 4,3 năm 2030`"]
+  n32 --- n40
+  n41["`Phụ nữ nay cũng hút thuốc, uống rượu, làm việc nguy hiểm và chịu áp lực kép công việc–gia đình`"]
+  n40 --- n41
+  n42["`Epel: căng thẳng kinh niên làm suy yếu telomere và khiến bệnh mãn tính đến sớm`"]
+  n40 --- n42
+  n43["`Elo: ở 8 vùng ngoài đô thị miền Nam Mỹ, tuổi thọ phụ nữ da trắng giảm gần 1 năm (1990–2016)`"]
+  n32 --- n43
+  n44["`Hendi: phụ nữ da trắng không gốc Tây Ban Nha học dưới trung học mất 2,5 năm tuổi thọ trong hai thập niên`"]
+  n32 --- n44
+  n45["`Mục 7–8 — Trần kính và định kiến với phụ nữ lãnh đạo`"]
+  n0 --- n45
+  n46["`S#amp;P 1500: cứ 1 nữ CEO có 4 nam CEO tên John, Robert, William hoặc James`"]
+  n45 --- n46
+  n47["`Fortune 500 dưới 5% CEO nữ, Pháp và Đức 0%, Trung Quốc 5,6%, HĐQT Na Uy khoảng 42% nữ`"]
+  n45 --- n47
+  n48["`Nữ nghị sĩ thế giới từ 10% (1990) lên 21% (2017): Rwanda 64%, Mỹ 19%, Ả Rập Saudi 20%`"]
+  n45 --- n48
+  n49["`Công vụ tuyển bằng thi cạnh tranh nên nữ không kém, 2030 nắm hầu hết vị trí cao trong công chức`"]
+  n45 --- n49
+  n50["`Chênh lệch lương ở Mỹ: 22% mọi ngành, 19% quản lý, 33% điều hành cao nhất, gần như không đổi hai, ba thập niên`"]
+  n45 --- n50
+  n51["`Kanter: phụ nữ là thiểu số tượng trưng nên bị soi xét, đánh giá khắt khe hơn, nhiều người bỏ cuộc`"]
+  n45 --- n51
+  n52["`Bốn hình thái gán cho họ: thú cưng, kẻ dụ dỗ, rìu chiến (Thatcher), người mẹ (Merkel)`"]
+  n51 --- n52
+  n53["`Bé trai cương quyết được gọi là lãnh đạo, bé gái cương quyết bị gọi là hách dịch (bossy)`"]
+  n45 --- n53
+  n54["`Gallup: không quan tâm sếp nam hay nữ từ 25% (1953) lên 55% (2017), lần đầu là đa số`"]
+  n45 --- n54
+  n55["`Phụ nữ Ả Rập Saudi được lái xe năm 2018 chọn xe mạnh, ồn: người tiên phong cố phá định kiến giới`"]
+  n45 --- n55
+  n56["`Trung Quốc thiếu phụ nữ mà nữ tiến sĩ vẫn bị gọi là giới tính thứ ba`"]
+  n45 --- n56
+  n57["`Mục 9 — Thông điệp xuyên suốt: phụ nữ sẽ thống trị thế giới năm 2030?`"]
+  n0 --- n57
+  n58["`Phụ nữ nắm quyền có thể làm cơ cấu quyền lực ít bê bối, ít tham nhũng, ít bạo lực hơn`"]
+  n57 --- n58
+  n59["`Phân nhánh giữa nhóm phụ nữ hưởng lợi và nhóm bị đẩy ra rìa có thể làm tăng xung đột xã hội`"]
+  n57 --- n59
+  n60["`Phụ nữ giàu hơn sẽ chi nhiều hơn cho giáo dục, y tế trong một thế giới sinh ít và già đi`"]
+  n57 --- n60
+  n61["`Năm 2030 có lẽ vẫn quá sớm cho bình đẳng giới đúng nghĩa`"]
+  n57 --- n61
+  n62["`Biến đổi khí hậu gây hại nhiều nhất cho phụ nữ và trẻ em, chủ đề chuyển sang Chương 5`"]
+  n57 --- n62
+  n63["`Hàm ý cho doanh nghiệp và cá nhân`"]
+  n57 --- n63
+  n64["`Doanh nghiệp thiếu người có trình độ nên tuyển lại phụ nữ có học đã nghỉ nuôi con, như Nhật Bản`"]
+  n63 --- n64
+  n65["`Cá nhân nên giữ một chân trong nghề thay vì rời hẳn, vì mức phạt khoảng 40% thu nhập`"]
+  n63 --- n65
+  n66["`Sản phẩm cho khách hàng nữ phải hỏi chính khách hàng, đừng theo định kiến như SUV nhỏ màu sáng`"]
+  n63 --- n66
+  class n0 root
+  class n1,n12,n22,n32,n45,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020), bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai* (dịch giả Vũ Kiều Linh, NXB Thế Giới và Phương Nam Book, 2022), Chương 4 "Người phụ nữ mới", tiêu đề phụ "Giới triệu phú, doanh nhân và lãnh đạo mới của tương lai", trang PDF 141–175.
+
+## Tác giả
+
+Mauro F. Guillén, giáo sư quản trị tại Trường Wharton (Đại học Pennsylvania). Trong chương này ông kể rằng năm 1989 ông từng là trợ lý nghiên cứu cho nhà xã hội học Neil Bennett trong dự án về tỷ lệ kết hôn, và nhiều câu chuyện nữ doanh nhân ở các nước đang phát triển được lấy từ cuốn sách trước của ông, *Women Entrepreneurs: Inspiring Stories from Emerging Economies and Developing Countries* (2013).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-tre-em-cho-ta-biet-dieu-gi.md](C01-tre-em-cho-ta-biet-dieu-gi.md)) cho thấy tỷ lệ sinh giảm vì phụ nữ học nhiều hơn, đi làm nhiều hơn và sinh ít con hơn; Chương 2 ([C02-cong-dan-dau-bac-the-he-xanh-moi.md](C02-cong-dan-dau-bac-the-he-xanh-moi.md)) nói về dân số già; Chương 3 ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)) nói về tầng lớp trung lưu mới ở châu Á và sự trì trệ của tầng lớp trung lưu ở châu Âu và Mỹ.
+
+Chương 4 lấy chính những thay đổi dân số ấy làm gốc để giải thích vì sao phụ nữ sẽ nắm phần lớn tài sản thế giới, trở thành một nửa lực lượng khởi nghiệp và dần bước vào vị trí lãnh đạo. Chương kết bằng việc chuyển sang chủ đề thành phố và biến đổi khí hậu của Chương 5 ([C05-cai-chet-cua-do-thi.md](C05-cai-chet-cua-do-thi.md)).
+
+## Lưu ý
+
+- **Con số lợi thế tuổi thọ "trung bình" không khớp với Hình 7 của chính chương (trang PDF 163).** Lời văn nói năm 1995 phụ nữ sống lâu hơn nam giới trung bình 7,8 năm, năm 2018 còn 6,8 năm, năm 2030 còn 6,3 năm. Nhưng đường "Thế giới" trong Hình 7 chỉ dao động quanh 4,6–4,9 năm trong suốt giai đoạn 1990–2030.
+
+  Con số 7,8 gần với đỉnh của đường "Các nước phát triển" (khoảng 7,7–7,8 năm vào 1990–1995), nhưng đường này ở 2015–2020 chỉ còn khoảng 6,2 năm và ở 2025–2030 khoảng 5,8 năm, cũng không khớp 6,8 và 6,3. Người đọc nên coi bộ ba 7,8 / 6,8 / 6,3 là số của một nhóm nước mà sách không nói rõ (nhận xét của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Ngày tháng của vụ "Nghiên cứu Harvard-Yale" bị lệch.** Lời văn nói bài trên tờ *Advocate* ra năm 1986 và "tháng 6 năm sau" *Newsweek* đăng bài bìa. Theo chính phần nguồn tham khảo của sách, bài *Advocate* ra ngày 14/2/1986 và số *Newsweek* ra ngày 02/6/1986, tức cùng năm. Ngoài ra, theo hiểu biết của người tổng hợp, năm 2006 *Newsweek* đã đăng bài thừa nhận dự báo "khủng bố giết còn dễ hơn" là sai; phần nguồn của sách cũng dẫn bài phê bình của Andrew Cherlin (1990) về "sự nghiệp kỳ lạ" của nghiên cứu này.
+- **Câu về Gallup 2017 bị dịch sai logic (trang PDF 172).** Bản dịch viết "trong số những người không quan tâm năm 2017, chỉ có 44% là phụ nữ so với 68% là nam giới", nhưng 44% cộng 68% vượt 100%. Cách hiểu hợp lý (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác) là: 44% phụ nữ được hỏi và 68% nam giới được hỏi trả lời không quan tâm giới tính của sếp; con số chung 55% nằm giữa hai mức này.
+- **"Thế hệ trẻ ngày nay khó đạt được lứa tuổi trưởng thành như trong thời kỳ Đại suy thoái" (trang PDF 165–166)** là câu dịch khó hiểu. Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), ý của nhóm Irma Elo là: thế hệ bước vào tuổi trưởng thành trong thời kỳ Đại suy thoái (2007–2009) trưởng thành chậm hơn, ít kết hôn hơn, sống với cha mẹ nhiều hơn.
+- **"Số cặp đôi không kết hôn nhưng sống chung và nuôi dạy con cái còn nhiều hơn số cặp vợ chồng chính thống" (trang PDF 144)** trái với số liệu phổ biến: theo hiểu biết của người tổng hợp, ở Mỹ số cặp vợ chồng có con vẫn nhiều hơn hẳn số cặp sống chung không kết hôn có con. Có thể bản dịch đã hiểu sai một so sánh hẹp hơn trong nguyên tác (chưa đối chiếu).
+- **Giải thích về tình trạng không con của nam giới khó hiểu (trang PDF 151).** Sách nói ở tuổi 40, 16% phụ nữ và 24% nam giới không có con, "nguyên nhân chủ yếu là do một số bà mẹ không tái hôn". Câu này không giải thích được vì sao nam giới không con nhiều hơn; có thể bản dịch rút gọn sai một lập luận dài hơn (nhận xét của người tổng hợp).
+- **Chênh lệch tiền lương 30% "ngay cả ở" Áo, Anh, Hàn Quốc và New Zealand (trang PDF 168–169)**: theo hiểu biết của người tổng hợp, các số liệu thường dẫn của OECD cho thấy Hàn Quốc có chênh lệch trên 30%, nhưng Áo và Anh ở khoảng 15–20%, New Zealand thấp hơn nữa. Có thể nguyên tác nói "lên tới 30%" (chưa đối chiếu).
+- **Danh sách nước "giàu thuộc OECD"** có cả Ấn Độ, Nam Phi và Trung Quốc, ba nước không phải thành viên OECD (theo hiểu biết của người tổng hợp); số liệu có lẽ lấy từ cổng dữ liệu giới của OECD vốn bao gồm cả các nước đối tác. Câu "chỉ ở Trung Quốc là có tỷ lệ lớn hơn 5 là 5,6%" nên hiểu là "chỉ Trung Quốc có tỷ lệ nữ CEO trên 5%, cụ thể là 5,6%".
+- **Nguồn của biệt danh "Người đàn bà thép Kem mềm"**: lời văn ghi tạp chí *Atlantic*, nhưng phần nguồn tham khảo của sách dẫn bài của Daniel Fromson trên *New Yorker* (9/4/2013), và tên bài là "The Margaret Thatcher Soft-Serve Myth", tức chính bài nguồn coi chuyện Thatcher góp phần tạo ra kem mềm là một huyền thoại. Sách kể lại chuyện này như sự thật.
+- **Lời Paul Dolan "nếu là phụ nữ thì đừng bận tâm (kết hôn)"**: theo hiểu biết của người tổng hợp, sau khi báo chí đưa tin năm 2019, người ta chỉ ra rằng Dolan đã đọc sai một biến trong dữ liệu khảo sát (người được hỏi "vợ/chồng không có mặt trong phòng" lúc phỏng vấn), và *Guardian* đã đính chính. Sách dẫn lời ông như một kết luận vững.
+- **Tên riêng viết sai trong bản dịch:** "Anu Ancharya" đúng là Anu Acharya (người sáng lập Ocimum Biosolutions, theo hiểu biết của người tổng hợp); "Cheryl Sandberg" đúng là Sheryl Sandberg (chính phần nguồn của sách viết "Sheryl"); "The Picture of Dorian Grey" đúng là *The Picture of Dorian Gray*; "The Handmaids Tale" đúng là *The Handmaid's Tale*; "Womans Role in Economic Development" đúng là *Woman's Role in Economic Development*. Lỗi chữ: "nghệ thuận sajiao" (trang PDF 173, đúng là "nghệ thuật").
+- **Chú thích của dịch giả:** (23) Venmo là ví điện tử của PayPal: đúng. (24) G.I. Bill là chương trình hỗ trợ giáo dục cho cựu chiến binh sau Thế chiến II: đúng. (25) gọi Virginia Slims là "công ty thuốc lá": theo hiểu biết của người tổng hợp, đó là một nhãn thuốc lá dành cho phụ nữ của Philip Morris, nổi tiếng với khẩu hiệu quảng cáo thập niên 1970 "You've come a long way, baby", chứ không phải một công ty. (26) gọi Standard and Poor's là "công ty chuyên đánh giá xếp hạng tín dụng": đúng, nhưng "1.500 công ty lớn nhất theo Standard and Poor" ở đây là chỉ số chứng khoán S&P Composite 1500. (27) Caligula là hoàng đế La Mã thứ ba: đúng. (28) Harvey Weinstein, (29) phong trào Me-Too: đúng.
+- **Thuật ngữ của Kanter:** bản dịch gọi bốn hình thái là "thú cưng, kẻ dụ dỗ, rìu chiến và người mẹ". Theo hiểu biết của người tổng hợp, trong bài gốc của Kanter (1977) hình thái thứ ba là "iron maiden" (trinh nữ sắt); chữ "battleaxe" (rìu chiến) là cách gọi của Judith Baxter trong bài báo năm 2013 mà sách dẫn.
+- **Câu "nhiều người thích mua cổ phiếu đã niêm yết, thay vì đầu tư vào các khoản với khả năng biến động cao" (trang PDF 147)** có lẽ là cách dịch một ý về xu hướng đầu tư thận trọng hơn (ví dụ quỹ chỉ số) trong nguyên tác; bản thân cổ phiếu niêm yết không phải là lựa chọn ít biến động (nhận xét của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Số liệu đã cũ so với năm 2026:** phần lớn số liệu về CEO nữ, nghị sĩ nữ, chênh lệch lương là của giai đoạn 2015–2019. Theo hiểu biết của người tổng hợp, tỷ lệ nữ CEO trong Fortune 500 đã vượt 10% vào giữa thập niên 2020 và tỷ lệ nữ nghị sĩ thế giới khoảng 26–27%; các xu hướng Guillén nêu đi đúng hướng nhưng các con số trong sách nay đã thấp hơn thực tế.

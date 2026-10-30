@@ -1,28 +1,18 @@
 # Chương 7 — Một thế giới không tư hữu (Imagine No Possessions)
 
-**Nguồn:** Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020); bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai*, dịch giả Vũ Kiều Linh (NXB Thế Giới và Phương Nam Book, 2022), Chương 7 "Một thế giới không tư hữu", tiêu đề phụ "Cưỡi sóng, hiệu ứng mạng lưới và sức mạnh kết nối của 8,5 tỷ người", trang PDF 253–289.
-**Tác giả:** Mauro F. Guillén, giáo sư quản trị quốc tế tại Trường Wharton (Đại học Pennsylvania).
-**Vị trí trong lập luận của cả cuốn sách:** Các chương trước mô tả từng xu hướng riêng lẻ: tỷ lệ sinh và dòng người di cư ([C01](C01-tre-em-cho-ta-biet-dieu-gi.md)), các thế hệ và người cao tuổi ([C02](C02-cong-dan-dau-bac-the-he-xanh-moi.md)), tầng lớp trung lưu mới nổi ở châu Á ([C03](C03-theo-kip-nha-singh-va-nha-wang.md)), phụ nữ giàu lên ([C04](C04-nguoi-phu-nu-moi.md)), đô thị và biến đổi khí hậu ([C05](C05-cai-chet-cua-do-thi.md)), công nghệ số ([C06](C06-dien-thoai-nhieu-hon-nha-ve-sinh.md)). Chương 7 cho thấy các xu hướng ấy gặp nhau và tạo ra một hiện tượng mới: nền kinh tế chia sẻ, trong đó người ta dùng chung nhà, xe, chỗ làm và bán sức lao động theo từng việc qua ứng dụng điện thoại. Chương 8 ([C08](C08-nhieu-loai-tien-hon-so-quoc-gia.md)) tiếp tục câu hỏi cuối của chương này: điều gì sẽ xảy ra với tiền.
-**Ý chính:** **Guillén cho rằng đến năm 2030, việc dùng chung và đi thuê sẽ lấn át việc sở hữu, vì sự gặp nhau của ba xu hướng: điện thoại thông minh và ứng dụng hai chiều, thế hệ Millennials coi trọng trải nghiệm hơn tài sản, và người cao tuổi có nhà, xe, thời gian rảnh để cho thuê.** Ông dẫn ước tính rằng nền kinh tế chia sẻ sẽ chiếm khoảng 30% công việc và tiêu dùng, thậm chí gần một nửa chi tiêu, vào năm 2030; sách kể rằng ở Mỹ có hơn 40 triệu người làm việc tự do, con số nhiều khả năng lấy từ một kịch bản tưởng tượng về năm 2030 của tờ *Economist*. Nền tảng của mô hình này là hiệu ứng mạng lưới hai chiều, và hiệu ứng ấy phần lớn mang tính địa phương hoặc khu vực chứ không toàn cầu. Chương cân nhắc hai mặt: người phê phán (Reich, Standing, Hill, Schor) thấy công việc bấp bênh và bất bình đẳng tăng; người ủng hộ (Sundararajan, Mulcahy) thấy sự linh hoạt và lợi ích cho người thu nhập thấp. Guillén bàn hệ quả chính trị (người không sở hữu ít đi bầu hơn, người làm tự do nghỉ hưu muộn), chiến thuật "quá lớn để có thể cấm" của Uber, và câu hỏi môi trường: Uber có thể là một "bi kịch cộng đồng", nhưng theo Elinor Ostrom, cộng đồng tự tổ chức có thể tránh được bi kịch ấy. Kết luận: ngoài dịch vụ gọi xe, nền kinh tế chia sẻ nhiều khả năng giúp bảo tồn tài nguyên.
+## Ý chính
 
-> **Lưu ý:**
-> - **Nhân vật Linsey Howard và câu "kể từ năm 2026, LinkedIn…" có thể thuộc một kịch bản giả tưởng.** Danh mục nguồn của chương ghi bài của tờ *Economist* ngày 07/7/2018 có tựa "Run, TaskRabbit, Run: July 2030", tức một bài viết tưởng tượng về tháng 7 năm 2030. Điều này giải thích vì sao bản dịch viết Howard là một trong "hơn 40 triệu người làm việc tự do" ở Mỹ, "gấp đôi con số 20 triệu người vào năm 2018", và vì sao một bài xã luận năm 2018 lại nói về "năm 2026" ở thì quá khứ. Bản dịch trình bày như chuyện hiện tại, nên người đọc dễ hiểu nhầm con số 40 triệu là số liệu đã có (nhận xét của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Các con số dự báo cho năm 2030 không thống nhất trong cùng chương:** nền kinh tế cộng tác chiếm "tới 30% trong tổng lượng công việc và tiêu dùng" (trang PDF 254); "gần một nửa chi tiêu của chúng ta" (trang PDF 256); và giả định "hơn một nửa lực lượng lao động ở châu Âu, Mỹ" là người làm hợp đồng tự do (trang PDF 274, nêu dưới dạng "nếu"). Ba con số đo ba thứ khác nhau và không đi kèm phương pháp tính.
-> - **Ngày nhậm chức của Obama:** bản dịch ghi "ngày 19 tháng 1 năm 2009"; theo hiểu biết của người tổng hợp, lễ nhậm chức diễn ra ngày 20/01/2009. Cũng theo hiểu biết của người tổng hợp, Airbnb đón khách đầu tiên từ tháng 10/2007 (chính cuốn sách cũng ghi như vậy), nên lễ nhậm chức chỉ là một trong những dịp đầu tiên Airbnb tận dụng, không phải lúc công ty ra đời; đoạn văn của sách dễ khiến người đọc hiểu ngược thứ tự thời gian.
-> - **Lỗi chữ và tên riêng của bản dịch:** "National Mali" (đúng là National Mall); "Barrack Obama" (đúng là Barack); "Linkedln" (LinkedIn); "We-Work" (WeWork); "Canim Lake Bad" (đúng là Canim Lake Band, tức "bộ tộc hồ Canim"); "Quỹ Kau￾man" (Quỹ Kauffman); "Scienti￾c American" (Scientific American); "giá thuế tăng cao" ở trang PDF 282 nhiều khả năng là "giá thuê tăng cao"; "nghiên cứu về chất này" ở trang PDF 267 có lẽ là "nghiên cứu định tính này". "Ủy ban Công cộng California" là California Public Utilities Commission, thường dịch là Ủy ban Tiện ích Công cộng California (theo hiểu biết của người tổng hợp).
-> - **Tựa sách của Steven Hill:** bản dịch tạm dịch "Runaway Capitalism" là "sự trốn tránh của chủ nghĩa tư bản"; theo hiểu biết của người tổng hợp, "runaway" ở đây nghĩa là "mất kiểm soát, chạy vô độ", nên đúng hơn là "chủ nghĩa tư bản mất kiểm soát".
-> - **Bernard Marr được nhắc là "ông Marr" ở trang PDF 257** trước khi được giới thiệu đầy đủ là "tác giả sách bán chạy Bernard Marr" ở trang PDF 260.
-> - **"Tư duy đa chiều"** (trang PDF 255, 279, 281) là chữ bản dịch dùng thống nhất cho *lateral thinking* của Edward de Bono, phương pháp Guillén giới thiệu ở Phần giới thiệu (trang PDF 17–18) và dùng xuyên suốt cuốn sách: nhìn các xu hướng cùng lúc thay vì từng cái một. Nhiều bản dịch sách khác gọi khái niệm này là "tư duy theo chiều ngang" (theo hiểu biết của người tổng hợp). Bản tổng hợp này dùng "tư duy đa chiều" như bản dịch.
-> - **"Giai cấp chia sẻ" (trang PDF 259) và "tầng lớp chia sẻ" (tiêu đề trang PDF 271)** là cùng một khái niệm (sharing class). Bản tổng hợp dùng thống nhất "tầng lớp chia sẻ".
-> - **Bằng lái xe:** bản dịch viết năm 2015 "chỉ có 77% người Mỹ trong độ tuổi từ 20 đến 24 muốn thi lấy giấy phép lái xe, so với 92% của năm 1983". Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), số liệu gốc (của Viện Nghiên cứu Giao thông Đại học Michigan) là tỷ lệ người **có** bằng lái, không phải tỷ lệ người "muốn thi".
-> - **WhatsApp có 1,5 tỷ người dùng khi bị Facebook mua năm 2014** là không đúng thời điểm: theo hiểu biết của người tổng hợp, lúc mua WhatsApp có khoảng 450 triệu người dùng mỗi tháng; mốc 1,5 tỷ đạt được khoảng năm 2018.
-> - **Chiến dịch Obama 2008:** sách nêu cả "800 triệu USD từ 4 triệu nhà tài trợ" lẫn "3,1 triệu cá nhân đóng góp" (hai nghiên cứu khác nhau, hai con số khác nhau). Theo hiểu biết của người tổng hợp, tổng số tiền chiến dịch huy động được là khoảng 750 triệu USD.
-> - **Nghiên cứu của Steve Levitt về Uber:** bản dịch viết người dùng được hưởng giá trị "lớn hơn khoảng 1,6 lần so với chi phí tự lái xe". Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), kết luận của nghiên cứu (Cohen và cộng sự, NBER 2016) là mỗi 1 USD người dùng trả cho UberX đem lại khoảng 1,6 USD thặng dư tiêu dùng; nghiên cứu không so với "chi phí tự lái xe". Có thể đây là lỗi dịch.
-> - **"1% những người giàu nhất sở hữu nhiều tài sản hơn tất cả 99% còn lại"** (trang PDF 271) được nêu trong đoạn nói về châu Âu và Mỹ. Theo hiểu biết của người tổng hợp, phép so sánh này (do Oxfam phổ biến từ năm 2016) đúng ở quy mô toàn thế giới; trong nội bộ nước Mỹ, 1% giàu nhất nắm khoảng một phần ba tổng tài sản, chưa vượt 99% còn lại.
-> - **Câu "sau dầu mỏ, đây là hai ngành [thực phẩm và quần áo] chiếm tỷ trọng tác động lớn nhất đến biến đổi khí hậu"** (trang PDF 285): theo hiểu biết của người tổng hợp, nhận định "thời trang là ngành gây ô nhiễm thứ hai sau dầu mỏ" được lan truyền rộng nhưng không có nguồn số liệu vững; nông nghiệp và lương thực đúng là nguồn phát thải lớn, còn ngành điện, giao thông, công nghiệp nặng đều lớn hơn ngành may mặc.
-> - **"Ít nhất ⅔ dân số cùng nhóm tuổi"** (trang PDF 258, nói về con cái thế hệ nhập cư trong nhóm người tiêu dùng trẻ ở Mỹ và châu Âu) có vẻ cao so với hiểu biết phổ biến; người tổng hợp chưa đối chiếu nguyên tác nên chỉ nêu để người đọc thận trọng.
-> - **Chú thích dịch giả số (43)** giải thích "Mechanical Turks" là "thị trường cho thuê nguồn nhân lực từ xa". Theo hiểu biết của người tổng hợp, Amazon Mechanical Turk là sàn của Amazon chia việc thành những nhiệm vụ rất nhỏ trả công theo từng việc; tên gọi lấy từ "Người Thổ máy", cỗ máy chơi cờ thế kỷ 18 thực ra có người giấu bên trong. Robert Reich dùng chữ này để nói người làm việc qua ứng dụng là sức người giấu sau giao diện máy.
-> - **Số liệu đã lỗi thời so với năm 2026 (theo hiểu biết của người tổng hợp):** Airbnb "được định giá gần 40 tỷ USD" là mức trước khi niêm yết; công ty niêm yết tháng 12/2020 và có giá trị thị trường cao hơn nhiều. Câu chuyện Uber bị London cấm năm 2017 đã kết thúc bằng việc Uber được cấp lại giấy phép (có thời hạn) sau các vụ kiện. Nghiên cứu của Katz và Krueger (10% lên gần 16%) về sau được chính các tác giả điều chỉnh giảm do sai lệch trong cách đo.
+**Guillén cho rằng đến năm 2030, việc dùng chung và đi thuê sẽ lấn át việc sở hữu, vì sự gặp nhau của ba xu hướng: điện thoại thông minh và ứng dụng hai chiều, thế hệ Millennials coi trọng trải nghiệm hơn tài sản, và người cao tuổi có nhà, xe, thời gian rảnh để cho thuê.**
+
+Ông dẫn ước tính rằng nền kinh tế chia sẻ sẽ chiếm khoảng 30% công việc và tiêu dùng, thậm chí gần một nửa chi tiêu, vào năm 2030; sách kể rằng ở Mỹ có hơn 40 triệu người làm việc tự do, con số nhiều khả năng lấy từ một kịch bản tưởng tượng về năm 2030 của tờ *Economist*.
+
+Nền tảng của mô hình này là hiệu ứng mạng lưới hai chiều, và hiệu ứng ấy phần lớn mang tính địa phương hoặc khu vực chứ không toàn cầu.
+
+Chương cân nhắc hai mặt: người phê phán (Reich, Standing, Hill, Schor) thấy công việc bấp bênh và bất bình đẳng tăng; người ủng hộ (Sundararajan, Mulcahy) thấy sự linh hoạt và lợi ích cho người thu nhập thấp.
+
+Guillén bàn hệ quả chính trị (người không sở hữu ít đi bầu hơn, người làm tự do nghỉ hưu muộn), chiến thuật "quá lớn để có thể cấm" của Uber, và câu hỏi môi trường: Uber có thể là một "bi kịch cộng đồng", nhưng theo Elinor Ostrom, cộng đồng tự tổ chức có thể tránh được bi kịch ấy.
+
+Kết luận: ngoài dịch vụ gọi xe, nền kinh tế chia sẻ nhiều khả năng giúp bảo tồn tài nguyên.
 
 ## Sơ đồ
 
@@ -381,7 +371,9 @@
 
 **Nền kinh tế chia sẻ (sharing economy).** Là cách tiêu dùng trong đó người ta trả phí để dùng tài sản của người khác (nhà, xe, đồ dùng) trong một thời gian, thay vì tự mua và sở hữu. Ví dụ của sách: Airbnb có hơn 4 triệu tin đăng chỗ ở tại 65.000 thành phố, thị trấn, làng mạc của 191 nước. Khái niệm này quan trọng vì nó là đối tượng chính của chương, và Guillén dự báo gần một nửa chi tiêu năm 2030 sẽ ở dạng này.
 
-**Nền kinh tế cộng tác, nền kinh tế hợp đồng tự do (collaborative economy, gig economy).** Là khái niệm rộng hơn nền kinh tế chia sẻ: ngoài dùng chung tài sản còn có cho vay trực tuyến, huy động vốn cộng đồng, nguồn cung ứng cộng đồng, mua đi bán lại, làm việc chung và nhận việc tự do theo từng hợp đồng. Điểm chung là tất cả dựa trên chợ trực tuyến và thanh toán qua ứng dụng (theo Nathan Heller). Ví dụ của sách: Linsey Howard nhận việc kỹ thuật trên TaskRabbit; theo ngoại suy, nền kinh tế này có thể chiếm 30% công việc và tiêu dùng năm 2030. Khái niệm này quan trọng vì nó thay đổi cả thị trường lao động chứ không chỉ cách tiêu dùng. Bản dịch dùng lẫn "nền kinh tế chia sẻ", "nền kinh tế cộng tác" và "nền kinh tế hợp đồng tự do" cho những hiện tượng gần nhau.
+**Nền kinh tế cộng tác, nền kinh tế hợp đồng tự do (collaborative economy, gig economy).** Là khái niệm rộng hơn nền kinh tế chia sẻ: ngoài dùng chung tài sản còn có cho vay trực tuyến, huy động vốn cộng đồng, nguồn cung ứng cộng đồng, mua đi bán lại, làm việc chung và nhận việc tự do theo từng hợp đồng. Điểm chung là tất cả dựa trên chợ trực tuyến và thanh toán qua ứng dụng (theo Nathan Heller).
+
+Ví dụ của sách: Linsey Howard nhận việc kỹ thuật trên TaskRabbit; theo ngoại suy, nền kinh tế này có thể chiếm 30% công việc và tiêu dùng năm 2030. Khái niệm này quan trọng vì nó thay đổi cả thị trường lao động chứ không chỉ cách tiêu dùng. Bản dịch dùng lẫn "nền kinh tế chia sẻ", "nền kinh tế cộng tác" và "nền kinh tế hợp đồng tự do" cho những hiện tượng gần nhau.
 
 **Hiệu ứng mạng lưới (network effect).** Là hiện tượng giá trị mà mỗi người tham gia nhận được tăng lên khi số người tham gia tăng. Hiệu ứng **một chiều**: mọi người dùng cùng một vai, như điện thoại, càng nhiều người có điện thoại thì máy của tôi gọi được càng nhiều người. Hiệu ứng **hai chiều**: có hai nhóm khác nhau, nhóm này đông lên thì nhóm kia được lợi, như càng nhiều chủ nhà đăng tin trên Airbnb thì càng nhiều khách tìm đến, và ngược lại. Ví dụ có số: Facebook trả 19 tỷ USD cho WhatsApp, một công ty chưa tới 60 nhân viên, vì cơ sở người dùng rất lớn. Khái niệm này quan trọng vì theo Guillén "toàn bộ nền kinh tế chia sẻ phụ thuộc vào đó".
 
@@ -407,9 +399,13 @@
 
 **Lời đề từ.** Chương mở bằng mấy câu trong bài hát *Imagine* của John Lennon: hãy tưởng tượng một thế giới không có tư hữu, không còn tham lam và đói khát, chỉ còn tình anh em, mọi người cùng sẻ chia thế giới. Tên chương lấy từ chính lời bài hát này, và Guillén sẽ quay lại bài hát hai lần nữa trong chương.
 
-**Linsey Howard.** Guillén mở đầu bằng một người phụ nữ tên Linsey Howard. Cô không làm theo giờ hành chính từ 9 giờ sáng đến 5 giờ chiều và không có xe riêng. Cô sẵn sàng làm việc vào bất cứ giờ nào và nhận việc ngay khi có cơ hội. Đó không phải vì cô chưa tìm được việc xứng đáng hay vì cô là nhân viên bán thời gian lương thấp: cô được đào tạo làm kỹ sư, nhưng cuộc sống của cô xoay quanh các nền tảng cộng tác kỹ thuật số như TaskRabbit. Trên các nền tảng này, cô xem và chọn những công việc do các công ty khắp thế giới đăng lên; mạng lưới ấy được gọi là "gigwork". Nếu làm nhanh và chính xác, cô được trả cao. Xong việc, cô đi chợ như bao người khác, nhưng cách đi lại thì khác: cô dùng dịch vụ xe đạp chung để đến cửa hàng và gọi một chiếc ô tô để chở đồ về.
+**Linsey Howard.** Guillén mở đầu bằng một người phụ nữ tên Linsey Howard. Cô không làm theo giờ hành chính từ 9 giờ sáng đến 5 giờ chiều và không có xe riêng. Cô sẵn sàng làm việc vào bất cứ giờ nào và nhận việc ngay khi có cơ hội. Đó không phải vì cô chưa tìm được việc xứng đáng hay vì cô là nhân viên bán thời gian lương thấp: cô được đào tạo làm kỹ sư, nhưng cuộc sống của cô xoay quanh các nền tảng cộng tác kỹ thuật số như TaskRabbit.
 
-Theo sách, Howard là một trong hơn 40 triệu người làm việc tự do chỉ riêng ở Mỹ, gấp đôi con số 20 triệu người năm 2018. Một số người làm việc tay chân như phát tờ rơi hay chạy việc vặt; những người khác, như Howard, làm việc trí óc. Guillén dẫn một bài xã luận năm 2018 của tờ *Economist* nhìn về tương lai: "kể từ năm 2026", mạng việc làm LinkedIn cam kết tìm được nhân viên phù hợp cho bất kỳ công việc nào trong vòng sáu giờ, và đã ký hợp đồng với Uber để đưa người đó đến chỗ làm trong vòng một ngày. (Danh mục nguồn cho thấy bài *Economist* này mang tựa "Run, TaskRabbit, Run: July 2030", tức một kịch bản tưởng tượng về năm 2030; xem phần Lưu ý.) Guillén kết luận rằng đến năm 2030, những thứ có thể dùng chung, gồm nhà, xe và công việc, sẽ là vô cùng tận.
+Trên các nền tảng này, cô xem và chọn những công việc do các công ty khắp thế giới đăng lên; mạng lưới ấy được gọi là "gigwork". Nếu làm nhanh và chính xác, cô được trả cao. Xong việc, cô đi chợ như bao người khác, nhưng cách đi lại thì khác: cô dùng dịch vụ xe đạp chung để đến cửa hàng và gọi một chiếc ô tô để chở đồ về.
+
+Theo sách, Howard là một trong hơn 40 triệu người làm việc tự do chỉ riêng ở Mỹ, gấp đôi con số 20 triệu người năm 2018. Một số người làm việc tay chân như phát tờ rơi hay chạy việc vặt; những người khác, như Howard, làm việc trí óc.
+
+Guillén dẫn một bài xã luận năm 2018 của tờ *Economist* nhìn về tương lai: "kể từ năm 2026", mạng việc làm LinkedIn cam kết tìm được nhân viên phù hợp cho bất kỳ công việc nào trong vòng sáu giờ, và đã ký hợp đồng với Uber để đưa người đó đến chỗ làm trong vòng một ngày. (Danh mục nguồn cho thấy bài *Economist* này mang tựa "Run, TaskRabbit, Run: July 2030", tức một kịch bản tưởng tượng về năm 2030; xem mục Lưu ý cuối chương.) Guillén kết luận rằng đến năm 2030, những thứ có thể dùng chung, gồm nhà, xe và công việc, sẽ là vô cùng tận.
 
 **Dự báo quy mô.** Có nhiều dự đoán khác nhau về quy mô của nền kinh tế cộng tác trong tương lai gần:
 
@@ -419,7 +415,9 @@ Theo sách, Howard là một trong hơn 40 triệu người làm việc tự do 
 | Công ty tư vấn PwC | Tăng nhanh nhất ở: huy động vốn cộng đồng, nhân sự trực tuyến, cho thuê chỗ ở (như Airbnb), dịch vụ xe (như Uber), âm nhạc và video trực tuyến |
 | Ngoại suy tuyến tính từ các xu hướng trên (Guillén) | Đến năm 2030, nền kinh tế cộng tác chiếm tới 30% tổng lượng công việc và tiêu dùng |
 
-**Airbnb ra đời như thế nào.** Uber và Airbnb là hai trong số những doanh nghiệp đầu tiên tận dụng được sức mạnh của ứng dụng kỹ thuật số. Guillén kể rằng trong tháng 1 năm 2009, gần 2 triệu người đổ về National Mall ở Washington, DC, để dự lễ nhậm chức của Tổng thống Barack Obama (bản dịch viết "National Mali" và "Barrack"). Khách sạn quanh đó không đủ chỗ cho đám đông từ nơi khác đột ngột kéo đến. Ba người bạn mới khởi nghiệp, Brian Chesky, Joe Gebbia và Nathan Blecharczyk, thấy ở đây một cơ hội cho trang web Airbnb của họ: chủ nhà có thể cho khách du lịch thuê phòng còn trống, và ba người sẽ làm cầu nối giữa người sắp là khách trọ và người sắp là chủ nhà. Các công cụ cần thiết đã có sẵn: iPhone ra mắt năm 2007; App Store ra đời một năm sau với 500 ứng dụng; Google giúp mọi người tìm đường bằng Bản đồ (Maps). Chỉ cần một ý tưởng sáng tạo để ghép tất cả vào một giao diện.
+**Airbnb ra đời như thế nào.** Uber và Airbnb là hai trong số những doanh nghiệp đầu tiên tận dụng được sức mạnh của ứng dụng kỹ thuật số. Guillén kể rằng trong tháng 1 năm 2009, gần 2 triệu người đổ về National Mall ở Washington, DC, để dự lễ nhậm chức của Tổng thống Barack Obama (bản dịch viết "National Mali" và "Barrack"). Khách sạn quanh đó không đủ chỗ cho đám đông từ nơi khác đột ngột kéo đến.
+
+Ba người bạn mới khởi nghiệp, Brian Chesky, Joe Gebbia và Nathan Blecharczyk, thấy ở đây một cơ hội cho trang web Airbnb của họ: chủ nhà có thể cho khách du lịch thuê phòng còn trống, và ba người sẽ làm cầu nối giữa người sắp là khách trọ và người sắp là chủ nhà. Các công cụ cần thiết đã có sẵn: iPhone ra mắt năm 2007; App Store ra đời một năm sau với 500 ứng dụng; Google giúp mọi người tìm đường bằng Bản đồ (Maps). Chỉ cần một ý tưởng sáng tạo để ghép tất cả vào một giao diện.
 
 Airbnb thực ra bắt đầu từ tháng 10 năm 2007, khi có vị khách đầu tiên ở một dãy nhà thuộc quận South of Market, San Francisco. Đến thời điểm sách viết, công ty có hơn 4 triệu tin đăng chỗ ở tại 65.000 thành phố, thị trấn và làng mạc của 191 quốc gia, và được định giá gần 40 tỷ USD.
 
@@ -429,7 +427,9 @@ Giá trị mà Airbnb đem lại nằm ở trải nghiệm gần gũi. Đồng s
 
 ### 2. Cộng tác chia sẻ - Chỉ là quay lại "nếp cũ" (trang PDF 256–261)
 
-**Một ý tưởng rất cũ.** Tiêu dùng cộng tác và dùng chung tài sản không phải ý tưởng mới. Guillén viết rằng trong khoảng 90% lịch sử, loài người không chỉ tồn tại mà còn phát triển mạnh mà không cần tài sản tư hữu, nhất là tư hữu đất đai. Dựa trên hồ sơ khảo cổ về các cộng đồng trước cách mạng nông nghiệp và các nghiên cứu nhân chủng học về những nhóm săn bắn hái lượm còn tồn tại ở châu Phi, các nhà nghiên cứu cho rằng người không sở hữu tài sản thường hạnh phúc hơn người có. Yuval Noah Harari, tác giả *Sapiens: Lược sử loài người*, viết rằng nông nghiệp làm sức mạnh tập thể của loài người tăng lên nhiều lần nhưng không cải thiện đời sống của nhiều cá nhân: nông dân ăn uống còn kém hơn người săn bắn hái lượm, và sức mạnh tăng nhanh hơn hạnh phúc. Một số cộng đồng nông nghiệp định cư cũng không coi trọng tư hữu mà duy trì bãi chăn thả chung. Guillén dự báo đến năm 2030, tiêu dùng cộng tác sẽ một lần nữa lấn át hình thức tư hữu.
+**Một ý tưởng rất cũ.** Tiêu dùng cộng tác và dùng chung tài sản không phải ý tưởng mới. Guillén viết rằng trong khoảng 90% lịch sử, loài người không chỉ tồn tại mà còn phát triển mạnh mà không cần tài sản tư hữu, nhất là tư hữu đất đai. Dựa trên hồ sơ khảo cổ về các cộng đồng trước cách mạng nông nghiệp và các nghiên cứu nhân chủng học về những nhóm săn bắn hái lượm còn tồn tại ở châu Phi, các nhà nghiên cứu cho rằng người không sở hữu tài sản thường hạnh phúc hơn người có.
+
+Yuval Noah Harari, tác giả *Sapiens: Lược sử loài người*, viết rằng nông nghiệp làm sức mạnh tập thể của loài người tăng lên nhiều lần nhưng không cải thiện đời sống của nhiều cá nhân: nông dân ăn uống còn kém hơn người săn bắn hái lượm, và sức mạnh tăng nhanh hơn hạnh phúc. Một số cộng đồng nông nghiệp định cư cũng không coi trọng tư hữu mà duy trì bãi chăn thả chung. Guillén dự báo đến năm 2030, tiêu dùng cộng tác sẽ một lần nữa lấn át hình thức tư hữu.
 
 **Giới trẻ thích dùng đồ của người khác.** Giới trẻ ngày nay không cần sở hữu; họ thích dùng đồ của người khác và trả một khoản phí, trên cơ sở hai bên cùng có lợi. Các nhóm tuổi khác cũng bắt đầu thích thuê hơn mua. Ngay trong phim hoạt hình *Gia đình Simpson*, tấm gương phản chiếu văn hóa Mỹ, bà Marge Simpson cũng thành tài xế Uber (và ông Burns gọi một chiếc Uber). Guillén cho rằng tác động của nền kinh tế chia sẻ mới chỉ bắt đầu: đến năm 2030, gần một nửa chi tiêu của chúng ta sẽ ở dạng tiêu dùng "cộng tác" hay "chia sẻ", dù là ô tô, nhà, văn phòng, tiện ích hay đồ dùng cá nhân. Sở hữu sẽ hết thời; chia sẻ sẽ lên ngôi.
 
@@ -443,7 +443,7 @@ Giá trị mà Airbnb đem lại nằm ở trải nghiệm gần gũi. Đồng s
 | Tạp chí *Forbes* | Gọi hiện tượng này là "NOwnership" (không sở hữu) |
 | Bernard Marr | Trước đây "gia đình có hai xe" (hay ba, bốn xe) là dấu hiệu vị thế; với Millennials, gia đình có vị thế chỉ cần một xe hoặc không xe nào, dùng Uber, Lyft, CarGo |
 
-**Ít người trẻ lái xe hơn.** Millennials Mỹ còn gây ngạc nhiên vì không mặn mà với việc mua xe hay lấy bằng lái. Năm 2015 chỉ 77% người Mỹ 20–24 tuổi muốn thi lấy bằng lái (theo cách viết của bản dịch; xem Lưu ý), so với 92% năm 1983.
+**Ít người trẻ lái xe hơn.** Millennials Mỹ còn gây ngạc nhiên vì không mặn mà với việc mua xe hay lấy bằng lái. Năm 2015 chỉ 77% người Mỹ 20–24 tuổi muốn thi lấy bằng lái (theo cách viết của bản dịch; xem mục Lưu ý cuối chương), so với 92% năm 1983.
 
 **Ẩn số: con cái người nhập cư.** Guillén tự đặt một giới hạn cho dự báo của mình. Nhóm dân số 15–35 tuổi ở Mỹ ngày càng đa dạng về chủng tộc và ngôn ngữ, đơn giản vì người mới nhập cư thường sinh nhiều con hơn. Người nhập cư và con cháu họ lại có xu hướng muốn kết hôn, mua nhà, mua xe. Vì vậy chưa thể biết nhóm người tiêu dùng trẻ ở Mỹ và châu Âu sẽ ra sao vào năm 2030; tất cả tùy vào hành vi của con cái thế hệ nhập cư, vì theo sách họ sẽ chiếm ít nhất ⅔ dân số cùng nhóm tuổi.
 
@@ -453,11 +453,19 @@ Giá trị mà Airbnb đem lại nằm ở trải nghiệm gần gũi. Đồng s
 
 **Khác biệt giữa các vùng.** Ở châu Á Thái Bình Dương, Trung Đông và châu Phi, tỷ lệ Millennials dùng hàng hóa và dịch vụ trên cơ sở chia sẻ cao hơn mức trung bình toàn cầu; ở Mỹ Latinh, Mỹ và châu Âu thì thấp hơn đáng kể. Khác biệt theo vùng này không xuất hiện ở các thế hệ khác (Thế hệ im lặng, Thế hệ bùng nổ dân số, Thế hệ X, Thế hệ Z). Guillén nhận xét Millennials rất khác, ít nhất cho đến lúc này.
 
-**Một xã hội xây trên tư hữu.** Guillén đặt câu hỏi: "lối sống Mỹ" sẽ thay đổi ra sao nếu không ai muốn sở hữu gì nữa? Người Mỹ trên 40 tuổi lớn lên khi tài sản là mục tiêu đương nhiên, ít nhất ở "thế giới tự do". Cả nền kinh tế phục vụ việc sở hữu, duy trì và hưởng lợi từ tài sản; phần lớn luật pháp là để bảo vệ tài sản. Nhiều nhà tư tưởng và nhà cách mạng, như Karl Marx, kêu gọi bãi bỏ tư hữu để giải quyết các vấn đề xã hội. Tư hữu từ lâu vừa là trụ cột của trật tự xã hội, vừa là nguồn gốc lớn nhất của bất bình đẳng, vừa là động cơ của nhiều loại tội phạm và nhất là chiến tranh; đồng thời nó là nền của kinh tế thị trường và trao đổi. Thế chấp nhà là nét đặc trưng của người Mỹ như món bánh táo. Nếu Napoléon từng gọi nước Anh là "quốc gia của chủ cửa hàng" (a nation of shopkeepers), thì Mỹ là quốc gia của chủ nhà. Nhà xã hội học Andrew Walder (Đại học Stanford) viết rằng quyền tài sản là nơi kết tinh vai trò của nhà nước, chính trị, luật pháp và văn hóa, và là yếu tố trung tâm định hình quy luật kinh tế và bất bình đẳng xã hội.
+**Một xã hội xây trên tư hữu.** Guillén đặt câu hỏi: "lối sống Mỹ" sẽ thay đổi ra sao nếu không ai muốn sở hữu gì nữa? Người Mỹ trên 40 tuổi lớn lên khi tài sản là mục tiêu đương nhiên, ít nhất ở "thế giới tự do". Cả nền kinh tế phục vụ việc sở hữu, duy trì và hưởng lợi từ tài sản; phần lớn luật pháp là để bảo vệ tài sản. Nhiều nhà tư tưởng và nhà cách mạng, như Karl Marx, kêu gọi bãi bỏ tư hữu để giải quyết các vấn đề xã hội.
+
+Tư hữu từ lâu vừa là trụ cột của trật tự xã hội, vừa là nguồn gốc lớn nhất của bất bình đẳng, vừa là động cơ của nhiều loại tội phạm và nhất là chiến tranh; đồng thời nó là nền của kinh tế thị trường và trao đổi.
+
+Thế chấp nhà là nét đặc trưng của người Mỹ như món bánh táo. Nếu Napoléon từng gọi nước Anh là "quốc gia của chủ cửa hàng" (a nation of shopkeepers), thì Mỹ là quốc gia của chủ nhà. Nhà xã hội học Andrew Walder (Đại học Stanford) viết rằng quyền tài sản là nơi kết tinh vai trò của nhà nước, chính trị, luật pháp và văn hóa, và là yếu tố trung tâm định hình quy luật kinh tế và bất bình đẳng xã hội.
 
 **Tầng lớp chia sẻ và chữ "uberize".** Xưa nay ta xác định giai cấp, mức thành công và hạnh phúc bằng tài sản người ta có hay không có: quý tộc có đất, chủ cửa hàng, tư sản thương mại và công nghiệp, trung lưu làm chủ, vô sản, nông dân lĩnh canh. Công nghệ mở ra một phạm trù mới, "giai cấp chia sẻ" (về sau sách gọi là "tầng lớp chia sẻ"), được xác định bằng lối sống chứ không bằng tài sản. Ngoại động từ "uberize" đã thành từ mới, được Từ điển tiếng Anh Collins ghi nhận với nghĩa: một mô hình kinh doanh trong đó khách hàng và người cung cấp liên hệ trực tiếp, thường qua công nghệ di động, để thực hiện dịch vụ theo yêu cầu.
 
-**Từ chia sẻ đến cộng tác.** Nếu chỉ có chia sẻ nhà và xe thì tác động chưa lớn đến thế. Nền kinh tế dùng chung tài sản chỉ là một phần của "nền kinh tế cộng tác" rộng hơn, gồm cho vay trực tuyến, huy động vốn cộng đồng, nguồn cung ứng cộng đồng, mua đi bán lại, làm việc chung, hợp đồng việc tự do và nhiều hình thức cộng tác trực tuyến khác. Theo Nathan Heller (*The New Yorker*), tất cả có thể gộp thành nền kinh tế cộng tác hay nền kinh tế hợp đồng tự do (gig economy) vì đều dựa vào chợ trực tuyến và hệ thống thanh toán qua ứng dụng; nhờ đó người lao động kiếm tiền theo lịch riêng thay vì làm công việc truyền thống, và các chợ này len được vào cả những ngành vốn kém linh hoạt. Bernard Marr nhận xét rằng chia sẻ và cộng tác đã có từ nhiều thế kỷ; điều mới là các công ty này dùng nền tảng số để cung cấp dịch vụ cho bất kỳ ai, bất kỳ lúc nào, bất kỳ nơi đâu. Không có ứng dụng và thuật toán xử lý dữ liệu thì Uber hay Lyft không thể thành công.
+**Từ chia sẻ đến cộng tác.** Nếu chỉ có chia sẻ nhà và xe thì tác động chưa lớn đến thế. Nền kinh tế dùng chung tài sản chỉ là một phần của "nền kinh tế cộng tác" rộng hơn, gồm cho vay trực tuyến, huy động vốn cộng đồng, nguồn cung ứng cộng đồng, mua đi bán lại, làm việc chung, hợp đồng việc tự do và nhiều hình thức cộng tác trực tuyến khác.
+
+Theo Nathan Heller (*The New Yorker*), tất cả có thể gộp thành nền kinh tế cộng tác hay nền kinh tế hợp đồng tự do (gig economy) vì đều dựa vào chợ trực tuyến và hệ thống thanh toán qua ứng dụng; nhờ đó người lao động kiếm tiền theo lịch riêng thay vì làm công việc truyền thống, và các chợ này len được vào cả những ngành vốn kém linh hoạt.
+
+Bernard Marr nhận xét rằng chia sẻ và cộng tác đã có từ nhiều thế kỷ; điều mới là các công ty này dùng nền tảng số để cung cấp dịch vụ cho bất kỳ ai, bất kỳ lúc nào, bất kỳ nơi đâu. Không có ứng dụng và thuật toán xử lý dữ liệu thì Uber hay Lyft không thể thành công.
 
 Guillén lưu ý rằng chính các công ty kinh tế chia sẻ, dù không tự sản xuất hay cung cấp công nghệ, lại là lực đẩy mạnh nhất: ứng dụng của họ giảm chi phí giao dịch và tăng sự tiện lợi với giá hợp lý cho các bên. Doanh nhân Caitlin Connors cho rằng ta đang bước vào làn sóng phát triển tiếp theo của văn minh, nơi con người giao dịch trực tiếp với nhau, chia sẻ ý tưởng và kinh doanh cộng tác mà không cần trung gian.
 
@@ -465,9 +473,13 @@ Mục này kết thúc bằng ba câu hỏi lớn cho năm 2030, cũng là dàn 
 
 ### 3. "Và thế giới sẽ là một" (trang PDF 262–264)
 
-**WhatsApp.** Năm 2014, Facebook trả 19 tỷ USD để mua WhatsApp, một ứng dụng nhắn tin của công ty gần như không có tài sản hữu hình và chưa tới 60 nhân viên. Thứ làm công ty hấp dẫn là cơ sở người dùng rất lớn, theo sách lên tới 1,5 tỷ người (xem Lưu ý về thời điểm). WhatsApp do hai cựu kỹ sư Yahoo là Brian Acton và Jan Koum lập năm 2009. Koum từ Ukraine sang Mỹ, thêm một "người nhập cư" vào danh sách các nhà sáng lập nhập cư đã nêu ở Chương 1; Acton sinh ở Michigan. Acton nói họ không muốn làm ứng dụng mà người lạ có thể nhảy vào trò chuyện, mà hướng tới các mối quan hệ gần gũi. Koum tham vọng hơn: họ sẽ không dừng lại cho đến khi ai cũng có thể yên tâm liên lạc với bạn bè, người thân với chi phí hợp lý. Mark Zuckerberg thì đưa ra lời giải thích gây tranh cãi rằng mọi người thích được kết nối vì nó làm họ vui hơn và đời sống phong phú hơn.
+**WhatsApp.** Năm 2014, Facebook trả 19 tỷ USD để mua WhatsApp, một ứng dụng nhắn tin của công ty gần như không có tài sản hữu hình và chưa tới 60 nhân viên. Thứ làm công ty hấp dẫn là cơ sở người dùng rất lớn, theo sách lên tới 1,5 tỷ người (xem mục Lưu ý cuối chương về thời điểm).
 
-**Hiệu ứng mạng lưới.** Nhiều mô hình kinh doanh hưởng lợi từ hiệu ứng mạng lưới, và toàn bộ nền kinh tế chia sẻ phụ thuộc vào nó. Hiệu ứng mạng lưới có lợi khi giá trị mỗi người nhận được tỷ lệ thuận với số người tham gia. Điện thoại là ví dụ điển hình: càng nhiều người dùng điện thoại thì máy của tôi càng hữu ích vì tôi gọi được nhiều người hơn. Điện thoại là mạng lưới một chiều, theo nghĩa mọi người dùng đều vừa gọi vừa nhận cuộc gọi. Hiệu ứng mạng lưới hai chiều là khi số lượng của nhóm này tăng thì giá trị tham gia của nhóm kia tăng. Nền kinh tế cộng tác dựa trên hiệu ứng hai chiều: càng nhiều người đăng cho thuê phòng, căn hộ, nhà trên Airbnb thì càng nhiều khách vào tìm, và ngược lại. Guillén mượn lời bài *Imagine*: "Và thế giới sẽ là một".
+WhatsApp do hai cựu kỹ sư Yahoo là Brian Acton và Jan Koum lập năm 2009. Koum từ Ukraine sang Mỹ, thêm một "người nhập cư" vào danh sách các nhà sáng lập nhập cư đã nêu ở Chương 1; Acton sinh ở Michigan. Acton nói họ không muốn làm ứng dụng mà người lạ có thể nhảy vào trò chuyện, mà hướng tới các mối quan hệ gần gũi. Koum tham vọng hơn: họ sẽ không dừng lại cho đến khi ai cũng có thể yên tâm liên lạc với bạn bè, người thân với chi phí hợp lý. Mark Zuckerberg thì đưa ra lời giải thích gây tranh cãi rằng mọi người thích được kết nối vì nó làm họ vui hơn và đời sống phong phú hơn.
+
+**Hiệu ứng mạng lưới.** Nhiều mô hình kinh doanh hưởng lợi từ hiệu ứng mạng lưới, và toàn bộ nền kinh tế chia sẻ phụ thuộc vào nó. Hiệu ứng mạng lưới có lợi khi giá trị mỗi người nhận được tỷ lệ thuận với số người tham gia. Điện thoại là ví dụ điển hình: càng nhiều người dùng điện thoại thì máy của tôi càng hữu ích vì tôi gọi được nhiều người hơn. Điện thoại là mạng lưới một chiều, theo nghĩa mọi người dùng đều vừa gọi vừa nhận cuộc gọi.
+
+Hiệu ứng mạng lưới hai chiều là khi số lượng của nhóm này tăng thì giá trị tham gia của nhóm kia tăng. Nền kinh tế cộng tác dựa trên hiệu ứng hai chiều: càng nhiều người đăng cho thuê phòng, căn hộ, nhà trên Airbnb thì càng nhiều khách vào tìm, và ngược lại. Guillén mượn lời bài *Imagine*: "Và thế giới sẽ là một".
 
 **Phạm vi của hiệu ứng.** Đến năm 2030, câu hỏi không còn là hiệu ứng mạng lưới có thống trị nền kinh tế hay không, mà là loại hiệu ứng nào chiếm ưu thế và nó hoạt động ở phạm vi nào: địa phương, quốc gia, khu vực hay toàn cầu. Đa số người ta nghĩ hiệu ứng mạng lưới mang tính toàn cầu, nhưng thực tế rất ít như vậy:
 
@@ -480,13 +492,19 @@ Mục này kết thúc bằng ba câu hỏi lớn cho năm 2030, cũng là dàn 
 
 Hệ quả là Uber phải xây một lực lượng tài xế và người gọi xe đủ lớn ở từng địa phương, còn Airbnb phải đạt ngưỡng tối thiểu ở từng khu vực.
 
-**Châu Á.** Guillén nhận xét người Mỹ có thành kiến coi các công ty như Airbnb, Uber, Lyft, WeWork, eBay là hình mẫu vì họ thống trị thị trường Mỹ, và các công ty Mỹ nên nhìn rộng hơn. Ở Trung Quốc, các công ty nội địa chiếm ưu thế tuyệt đối, lớn hơn các công ty Mỹ cùng ngành và mở rộng ra nước ngoài khá nhanh: Didi (gọi xe, cho thuê xe đạp), WeChat (mạng xã hội), Tujia (cho thuê chỗ ở) và UCommune (không gian làm việc chung). Tính đến năm 2017, châu Á đã có nhiều "kỳ lân" (công ty trị giá từ 1 tỷ USD trở lên) của nền kinh tế chia sẻ hơn Mỹ (theo CB Insights). Như Chương 3 đã nêu, đến năm 2030 lợi thế có thể còn nghiêng hơn về châu Á, chủ yếu nhờ tầng lớp trung lưu tăng nhanh. Tuy vậy, nền kinh tế chia sẻ đang tác động khác nhau lên người tiêu dùng và người lao động, đó là chủ đề của mục tiếp theo.
+**Châu Á.** Guillén nhận xét người Mỹ có thành kiến coi các công ty như Airbnb, Uber, Lyft, WeWork, eBay là hình mẫu vì họ thống trị thị trường Mỹ, và các công ty Mỹ nên nhìn rộng hơn. Ở Trung Quốc, các công ty nội địa chiếm ưu thế tuyệt đối, lớn hơn các công ty Mỹ cùng ngành và mở rộng ra nước ngoài khá nhanh: Didi (gọi xe, cho thuê xe đạp), WeChat (mạng xã hội), Tujia (cho thuê chỗ ở) và UCommune (không gian làm việc chung).
+
+Tính đến năm 2017, châu Á đã có nhiều "kỳ lân" (công ty trị giá từ 1 tỷ USD trở lên) của nền kinh tế chia sẻ hơn Mỹ (theo CB Insights). Như Chương 3 đã nêu, đến năm 2030 lợi thế có thể còn nghiêng hơn về châu Á, chủ yếu nhờ tầng lớp trung lưu tăng nhanh. Tuy vậy, nền kinh tế chia sẻ đang tác động khác nhau lên người tiêu dùng và người lao động, đó là chủ đề của mục tiếp theo.
 
 ### 4. Giới vô sản, hãy quẹt [điện thoại] nào! (trang PDF 265–270)
 
 Tiêu đề mục nhại lời kêu gọi của Karl Marx và Friedrich Engels (người đồng tác giả, cũng là người hậu thuẫn tài chính cho Marx) rằng giai cấp công nhân hãy đoàn kết để lật đổ trật tự cũ. Guillén hỏi: so với công việc truyền thống, làm việc tự do tốt hơn hay xấu hơn? Tầng lớp chia sẻ lớn lên sẽ làm bất bình đẳng giảm hay tăng?
 
-**Phía phê phán.** Robert Reich, cựu Bộ trưởng Lao động thời Clinton, liệt kê người làm hợp đồng tự do: tài xế Uber, người đi chợ hộ của Instacart, người cho thuê nhà Airbnb, người làm việc vặt trên TaskRabbit, luật sư theo yêu cầu của Upcounsel, bác sĩ trực tuyến của Healthtap. Ông gọi họ đều là "Mechanical Turks", tức những người cho thuê sức lao động từ xa qua mạng (theo chú thích của dịch giả), lúc nào cũng quẹt ngón tay trên màn hình điện thoại, máy tính để tìm việc. Reich cho rằng những "công việc" này đang bị hạ giá và trả công không đúng mức: cách nói dễ nghe là nền kinh tế "chia sẻ", còn chữ chính xác là nền kinh tế "chia sẻ tạp nham" (chia nhau phần thừa). Theo ông, nền kinh tế chia sẻ chủ yếu phục vụ các công ty muốn cắt nhân viên toàn thời gian để chuyển sang lao động tạm thời, lao động thuê qua đại lý, nhân viên thời vụ theo yêu cầu, nhà thầu độc lập và người làm nghề tự do. Các nhà kinh tế Lawrence Katz và Alan Krueger (cựu Chủ tịch Hội đồng Cố vấn Kinh tế của Tổng thống Obama) ước tính tỷ lệ người lao động trong các hình thức này ở Mỹ tăng từ 10% năm 2005 lên gần 16% năm 2015.
+**Phía phê phán.** Robert Reich, cựu Bộ trưởng Lao động thời Clinton, liệt kê người làm hợp đồng tự do: tài xế Uber, người đi chợ hộ của Instacart, người cho thuê nhà Airbnb, người làm việc vặt trên TaskRabbit, luật sư theo yêu cầu của Upcounsel, bác sĩ trực tuyến của Healthtap. Ông gọi họ đều là "Mechanical Turks", tức những người cho thuê sức lao động từ xa qua mạng (theo chú thích của dịch giả), lúc nào cũng quẹt ngón tay trên màn hình điện thoại, máy tính để tìm việc.
+
+Reich cho rằng những "công việc" này đang bị hạ giá và trả công không đúng mức: cách nói dễ nghe là nền kinh tế "chia sẻ", còn chữ chính xác là nền kinh tế "chia sẻ tạp nham" (chia nhau phần thừa). Theo ông, nền kinh tế chia sẻ chủ yếu phục vụ các công ty muốn cắt nhân viên toàn thời gian để chuyển sang lao động tạm thời, lao động thuê qua đại lý, nhân viên thời vụ theo yêu cầu, nhà thầu độc lập và người làm nghề tự do.
+
+Các nhà kinh tế Lawrence Katz và Alan Krueger (cựu Chủ tịch Hội đồng Cố vấn Kinh tế của Tổng thống Obama) ước tính tỷ lệ người lao động trong các hình thức này ở Mỹ tăng từ 10% năm 2005 lên gần 16% năm 2015.
 
 Những người khác cùng quan điểm:
 
@@ -500,13 +518,21 @@ Những người khác cùng quan điểm:
 
 **Nghiên cứu của Juliet Schor: ai thực sự hưởng lợi.** Tuy nhiên, có bằng chứng rằng với hầu hết mọi người, tiền từ hợp đồng tự do chỉ là thu nhập phụ. Juliet Schor, nhà xã hội học ở Đại học Boston, nghiên cứu ai hưởng lợi từ Airbnb, RelayRides và TaskRabbit. Bà thấy những người cung cấp dịch vụ thường có học vấn cao, nhiều người có việc lương cao, và dùng các nền tảng để kiếm thêm. Bà gặp luật sư, chuyên viên chính trị, tư vấn quản lý, chuyên gia công nghệ, nhà nghiên cứu y tế, giáo viên, kế toán, giảng viên đại học và đại diện bán hàng làm ở phía cung.
 
-Schor nói về một "hiệu ứng lấn át": nhiều người học cao chấp nhận làm việc chân tay như dọn dẹp, chuyển đồ, vốn là việc của người trình độ thấp. Chủ nhà Airbnb kiêm luôn việc của lễ tân và người dọn phòng khi khách trả phòng. Trên TaskRabbit (ứng dụng thuê người dọn dẹp, lái xe, lắp ráp đồ đạc, sắp xếp phòng, sửa đồ, đi chợ hộ), bà thấy nhiều người có vị trí cao như luật sư, nhà khoa học công nghệ sinh học, kế toán vẫn làm việc chân tay. Valeria, một sinh viên dọn nhà cho khách TaskRabbit, kể lúc đầu cô làm rất tệ, khách phàn nàn liên tục, vì ở nhà cô chưa bao giờ tự dọn giường, đã có người làm hộ. Schor kết luận bất bình đẳng thu nhập sẽ tăng, vì người học cao có thêm thu nhập, còn người không có kỹ năng bị ứng dụng lấy mất việc truyền thống.
+Schor nói về một "hiệu ứng lấn át": nhiều người học cao chấp nhận làm việc chân tay như dọn dẹp, chuyển đồ, vốn là việc của người trình độ thấp. Chủ nhà Airbnb kiêm luôn việc của lễ tân và người dọn phòng khi khách trả phòng. Trên TaskRabbit (ứng dụng thuê người dọn dẹp, lái xe, lắp ráp đồ đạc, sắp xếp phòng, sửa đồ, đi chợ hộ), bà thấy nhiều người có vị trí cao như luật sư, nhà khoa học công nghệ sinh học, kế toán vẫn làm việc chân tay.
+
+Valeria, một sinh viên dọn nhà cho khách TaskRabbit, kể lúc đầu cô làm rất tệ, khách phàn nàn liên tục, vì ở nhà cô chưa bao giờ tự dọn giường, đã có người làm hộ. Schor kết luận bất bình đẳng thu nhập sẽ tăng, vì người học cao có thêm thu nhập, còn người không có kỹ năng bị ứng dụng lấy mất việc truyền thống.
 
 Một nguồn bất bình đẳng khác: cho thuê chỗ ở trên Airbnb có thể thành nguồn thu nhập chính, nhưng chỉ với người đã có tiền mua nhà từ trước. Kiran, một người cho thuê nhà trên Airbnb, nói với Schor: "Tiền đẻ ra tiền". Shira, một phụ nữ trẻ độc thân, kiếm 30.000 USD mỗi năm nhờ cho thuê căn hộ, số tiền cô gọi là "quá hời". Schor thấy đa số chủ nhà Airbnb trong nghiên cứu của bà kiếm từ việc cho thuê nhiều hơn từ công việc chính.
 
-**Lý do sâu hơn và cảm nhận của người làm.** Muốn có thêm thu nhập thường có nguyên nhân sâu hơn: nhiều người trẻ làm hợp đồng tự do để trả nợ. Một cặp vợ chồng kiếm 11.000 USD trên Airbnb và dùng số tiền đó trả khoản vay học đại học của người chồng. Phát hiện nổi bật nhất của Schor là nhiều người cảm thấy công việc của mình gắn với "công nghệ tiên tiến, mới mẻ, thú vị"; họ nghĩ mình đang làm điều mới mẻ, tạo kết nối xã hội, giúp người khác hoặc thúc đẩy trao đổi văn hóa. Một chủ nhà khác nói với Nathan Heller rằng Airbnb giúp anh quay lại trường học mà vẫn làm thêm nghề nhiếp ảnh. Sundararajan tóm lại: các dịch vụ này thành công vì giúp người ta dùng thời gian hiệu quả hơn, tức là kiếm tiền từ "thời gian chết" của mình.
+**Lý do sâu hơn và cảm nhận của người làm.** Muốn có thêm thu nhập thường có nguyên nhân sâu hơn: nhiều người trẻ làm hợp đồng tự do để trả nợ. Một cặp vợ chồng kiếm 11.000 USD trên Airbnb và dùng số tiền đó trả khoản vay học đại học của người chồng.
 
-**Tự do lựa chọn.** Nhiều người làm tự do vì không muốn bị gò bó trong văn phòng như các nhân vật truyện tranh *Dilbert*. Kara Oh, nữ tài xế Uber 67 tuổi ở Santa Barbara, California, viết sách buổi sáng và lái xe buổi chiều, buổi tối; bà nói Uber cho phép bà sáng tác. Travis Kalanick, đồng sáng lập và CEO đầu tiên của Uber, nhấn mạnh tài xế thích được tự lựa chọn: tự bật ứng dụng thay vì bấm thẻ chấm công, dùng cả Uber lẫn Lyft cùng lúc, lái cả tuần hay chỉ vài giờ. Diane Mulcahy, thành viên cao cấp của Quỹ Kauffman và giảng viên Đại học Babson, viết trong cuốn *The Gig Economy* rằng việc toàn thời gian truyền thống không còn an toàn, ngày càng hiếm và đầy những người bất mãn chỉ mong làm việc khác; các ứng dụng số có thể đem lại lựa chọn hấp dẫn, linh hoạt, sinh lời và an toàn. Theo bà, người ta nay coi trọng thời gian và trải nghiệm hơn của cải, và trọng tâm của Giấc mơ Mỹ mới là chất lượng sống chứ không phải số lượng của cải.
+Phát hiện nổi bật nhất của Schor là nhiều người cảm thấy công việc của mình gắn với "công nghệ tiên tiến, mới mẻ, thú vị"; họ nghĩ mình đang làm điều mới mẻ, tạo kết nối xã hội, giúp người khác hoặc thúc đẩy trao đổi văn hóa. Một chủ nhà khác nói với Nathan Heller rằng Airbnb giúp anh quay lại trường học mà vẫn làm thêm nghề nhiếp ảnh. Sundararajan tóm lại: các dịch vụ này thành công vì giúp người ta dùng thời gian hiệu quả hơn, tức là kiếm tiền từ "thời gian chết" của mình.
+
+**Tự do lựa chọn.** Nhiều người làm tự do vì không muốn bị gò bó trong văn phòng như các nhân vật truyện tranh *Dilbert*. Kara Oh, nữ tài xế Uber 67 tuổi ở Santa Barbara, California, viết sách buổi sáng và lái xe buổi chiều, buổi tối; bà nói Uber cho phép bà sáng tác.
+
+Travis Kalanick, đồng sáng lập và CEO đầu tiên của Uber, nhấn mạnh tài xế thích được tự lựa chọn: tự bật ứng dụng thay vì bấm thẻ chấm công, dùng cả Uber lẫn Lyft cùng lúc, lái cả tuần hay chỉ vài giờ.
+
+Diane Mulcahy, thành viên cao cấp của Quỹ Kauffman và giảng viên Đại học Babson, viết trong cuốn *The Gig Economy* rằng việc toàn thời gian truyền thống không còn an toàn, ngày càng hiếm và đầy những người bất mãn chỉ mong làm việc khác; các ứng dụng số có thể đem lại lựa chọn hấp dẫn, linh hoạt, sinh lời và an toàn. Theo bà, người ta nay coi trọng thời gian và trải nghiệm hơn của cải, và trọng tâm của Giấc mơ Mỹ mới là chất lượng sống chứ không phải số lượng của cải.
 
 **Mặc cảm.** Cũng có người thấy xấu hổ. Katy, tốt nghiệp trường luật mà không tìm được việc tương xứng, nói làm việc trên TaskRabbit "rất, rất xấu hổ": khi thấy bằng cấp trong hồ sơ của cô, khách nói những lời thương hại vì cô học luật mà phải dọn nhà cho họ, và cô ghét điều đó. Veronica, một thạc sĩ khoa học, từ chối một yêu cầu đi mua hộ ly cà phê Starbucks với phí 8 USD: "Tôi không phải là người hầu".
 
@@ -518,7 +544,7 @@ Một nguồn bất bình đẳng khác: cho thuê chỗ ở trên Airbnb có th
 
 Như hầu hết mọi người trên thế giới, người Mỹ qua nhiều năm ngày càng coi trọng quyền sở hữu. NoiseCat nói tài sản đã sinh ra một ước vọng không tưởng gọi là Giấc mơ Mỹ, trong đó làm việc chăm chỉ, có đất có nhà là nền tảng cho vô số cơ hội, hay ít nhất là để thoát khỏi sự thống trị của tư bản. Như Chương 3 đã nêu, sở hữu nhà và xe là tiêu chuẩn xác định tầng lớp trung lưu Mỹ; các cuộc bầu cử và chính sách thường bị chi phối bởi lợi ích của người có (hoặc muốn có) tài sản.
 
-**Khủng hoảng của trung lưu và lối thoát mới.** Sự trì trệ của tầng lớp trung lưu cũ ở châu Âu và Mỹ, cùng bất bình đẳng tài sản tăng (theo sách, 1% người giàu nhất sở hữu nhiều tài sản hơn 99% còn lại; xem Lưu ý), làm dấy lên nghi ngờ về việc quyền sở hữu, nhất là trong chuyện thuế, nên được bảo vệ đến đâu. NoiseCat cho rằng các thế hệ trước đối phó với khủng hoảng tương tự bằng cách theo chủ nghĩa cộng sản, nhưng nay lý tưởng của Marx, Lenin, Mao không còn đủ sức quật ngã chủ nghĩa tư bản. Thay vào đó, người ta tham gia nền kinh tế chia sẻ, vừa vì không đủ tiền mua tài sản, vừa vì thích cách dùng chung nhà, xe.
+**Khủng hoảng của trung lưu và lối thoát mới.** Sự trì trệ của tầng lớp trung lưu cũ ở châu Âu và Mỹ, cùng bất bình đẳng tài sản tăng (theo sách, 1% người giàu nhất sở hữu nhiều tài sản hơn 99% còn lại; xem mục Lưu ý cuối chương), làm dấy lên nghi ngờ về việc quyền sở hữu, nhất là trong chuyện thuế, nên được bảo vệ đến đâu. NoiseCat cho rằng các thế hệ trước đối phó với khủng hoảng tương tự bằng cách theo chủ nghĩa cộng sản, nhưng nay lý tưởng của Marx, Lenin, Mao không còn đủ sức quật ngã chủ nghĩa tư bản. Thay vào đó, người ta tham gia nền kinh tế chia sẻ, vừa vì không đủ tiền mua tài sản, vừa vì thích cách dùng chung nhà, xe.
 
 **Đi bầu.** Sở hữu nhà và tài sản đắt tiền từ lâu đã ảnh hưởng đến hành vi chính trị, dù chưa xác định được nó có làm người ta ủng hộ chính sách bảo thủ hay không. Nghiên cứu cho thấy người có nhà thường đi bầu và tham gia chính trị nhiều hơn. Nếu đến năm 2030 đa số tài sản được dùng chung thay vì sở hữu, có thể dự đoán nhiều người sẽ thờ ơ hơn với chính trị và bầu cử. Vì người dùng dịch vụ chia sẻ chủ yếu là người trẻ, nhóm tuổi này sẽ càng ít tham gia chính trị.
 
@@ -537,9 +563,13 @@ Như hầu hết mọi người trên thế giới, người Mỹ qua nhiều n�
 
 Một nghiên cứu viết: với John F. Kennedy đó là truyền hình, với Barack Obama đó là mạng xã hội. Chiến dịch đã dùng các công cụ này để thuyết phục công chúng, gây quỹ, kéo người dân tham gia chính trị và tăng số phiếu. Nhưng đến cuộc bầu cử năm 2016, mạng xã hội bị thao túng tràn lan và đầy "tin tức giả".
 
-**Không nghỉ hưu.** Guillén thấy thêm một thay đổi mang tính thời đại: nhiều người sẽ không nghỉ hưu, hoặc không nghỉ hẳn. Người về hưu là nhóm đi bầu nhiều hơn các nhóm tuổi khác. Nhiều người lo rằng người làm tự do tăng lên sẽ làm vấn đề thiếu lương hưu trầm trọng hơn, nhưng họ quên rằng nhiều người vẫn làm việc sau tuổi hưu vì thích, nhất là trong các nghề linh hoạt. Vì vậy, người làm tự do trong tầng lớp chia sẻ có thể nghỉ hưu muộn hoặc nghỉ bán phần với tỷ lệ cao hơn người làm toàn thời gian. Nhiều người cao tuổi cho thuê nhà trên Airbnb vì thích gặp người mới. Khi tuổi thọ tiếp tục tăng mà hệ thống lương hưu của nhà nước và chủ lao động chưa chắc đáp ứng nổi, nền kinh tế hợp đồng tự do có thể là giải pháp hỗ trợ; các nhà phân tích gọi nó là "kế hoạch nghỉ hưu dự phòng". Người làm công sở truyền thống cũng có thể làm thêm để bù vào khoản tiết kiệm hưu trí còn thiếu.
+**Không nghỉ hưu.** Guillén thấy thêm một thay đổi mang tính thời đại: nhiều người sẽ không nghỉ hưu, hoặc không nghỉ hẳn. Người về hưu là nhóm đi bầu nhiều hơn các nhóm tuổi khác. Nhiều người lo rằng người làm tự do tăng lên sẽ làm vấn đề thiếu lương hưu trầm trọng hơn, nhưng họ quên rằng nhiều người vẫn làm việc sau tuổi hưu vì thích, nhất là trong các nghề linh hoạt.
 
-**Quan điểm chính trị của tầng lớp chia sẻ.** Tầng lớp chia sẻ, gồm cả người tiêu dùng và người lao động, thường có quan điểm riêng về các vấn đề lớn như phân biệt đối xử, trả lương công bằng, lương hưu, mạng lưới an sinh. Nhờ giờ làm linh hoạt, họ có thể đi bầu dễ hơn nhân viên toàn thời gian. Tư duy tự lực, không phụ thuộc của họ có thể hợp với cả giá trị tự do về kinh tế lẫn giá trị bảo thủ hơn về xã hội. Bối cảnh chính trị sẽ rất khác nếu đến năm 2030 hơn một nửa lực lượng lao động ở châu Âu, Mỹ và nơi khác là người làm hợp đồng tự do. Mục khép lại bằng câu hỏi: nếu nắm vị thế độc quyền, các nền tảng số có bóc lột người lao động và người tiêu dùng không?
+Vì vậy, người làm tự do trong tầng lớp chia sẻ có thể nghỉ hưu muộn hoặc nghỉ bán phần với tỷ lệ cao hơn người làm toàn thời gian. Nhiều người cao tuổi cho thuê nhà trên Airbnb vì thích gặp người mới. Khi tuổi thọ tiếp tục tăng mà hệ thống lương hưu của nhà nước và chủ lao động chưa chắc đáp ứng nổi, nền kinh tế hợp đồng tự do có thể là giải pháp hỗ trợ; các nhà phân tích gọi nó là "kế hoạch nghỉ hưu dự phòng". Người làm công sở truyền thống cũng có thể làm thêm để bù vào khoản tiết kiệm hưu trí còn thiếu.
+
+**Quan điểm chính trị của tầng lớp chia sẻ.** Tầng lớp chia sẻ, gồm cả người tiêu dùng và người lao động, thường có quan điểm riêng về các vấn đề lớn như phân biệt đối xử, trả lương công bằng, lương hưu, mạng lưới an sinh. Nhờ giờ làm linh hoạt, họ có thể đi bầu dễ hơn nhân viên toàn thời gian.
+
+Tư duy tự lực, không phụ thuộc của họ có thể hợp với cả giá trị tự do về kinh tế lẫn giá trị bảo thủ hơn về xã hội. Bối cảnh chính trị sẽ rất khác nếu đến năm 2030 hơn một nửa lực lượng lao động ở châu Âu, Mỹ và nơi khác là người làm hợp đồng tự do. Mục khép lại bằng câu hỏi: nếu nắm vị thế độc quyền, các nền tảng số có bóc lột người lao động và người tiêu dùng không?
 
 ### 6. Chiến thuật "quá lớn để có thể cấm" (trang PDF 276–279)
 
@@ -547,7 +577,9 @@ Một nghiên cứu viết: với John F. Kennedy đó là truyền hình, với
 
 Theo Guillén, nền kinh tế chia sẻ gây tranh cãi vì gần như không kiểm soát được: nó quá mới, quá sáng tạo đến mức quy tắc hiện hành không áp dụng được. Đó là một trong những lý do quan trọng nhất khiến thế giới quen thuộc của chúng ta không thể tồn tại nữa.
 
-**Uber.** Uber (thành lập năm 2009) là ứng dụng hai chiều nối chủ xe kiêm tài xế với người gọi xe trên cơ sở hai bên cùng có lợi. Dịch vụ có mặt ở gần 900 thành phố và vùng đô thị của 73 nước. Dù vậy, thế giới có 4.500 thành phố trên 100.000 dân, nên Uber mới hoạt động ở khoảng ⅕ số đó. Công ty tìm cách xây lực lượng tài xế đông ở từng nơi bằng lời hứa có thật nhiều cuốc xe; người đi xe thích sự tiện lợi của ứng dụng, nhiều xe để chọn, giá cả và cách tính phí minh bạch. Khó khăn duy nhất là hầu hết các thành phố có hệ thống cấp phép vận tải nghiêm ngặt, và tài xế, chủ xe taxi là những người phản đối gọi xe quyết liệt nhất. Lúc đầu Uber cứ phớt lờ yêu cầu giấy phép. Một số thành phố cho qua vì Uber hứa dịch vụ rẻ, tiện, giảm ùn tắc và tăng thu thuế; nhiều thành phố khác không chấp nhận dưới áp lực của giới taxi, và Uber phải điều chỉnh, thu hẹp, có nơi rút hẳn.
+**Uber.** Uber (thành lập năm 2009) là ứng dụng hai chiều nối chủ xe kiêm tài xế với người gọi xe trên cơ sở hai bên cùng có lợi. Dịch vụ có mặt ở gần 900 thành phố và vùng đô thị của 73 nước. Dù vậy, thế giới có 4.500 thành phố trên 100.000 dân, nên Uber mới hoạt động ở khoảng ⅕ số đó. Công ty tìm cách xây lực lượng tài xế đông ở từng nơi bằng lời hứa có thật nhiều cuốc xe; người đi xe thích sự tiện lợi của ứng dụng, nhiều xe để chọn, giá cả và cách tính phí minh bạch.
+
+Khó khăn duy nhất là hầu hết các thành phố có hệ thống cấp phép vận tải nghiêm ngặt, và tài xế, chủ xe taxi là những người phản đối gọi xe quyết liệt nhất. Lúc đầu Uber cứ phớt lờ yêu cầu giấy phép. Một số thành phố cho qua vì Uber hứa dịch vụ rẻ, tiện, giảm ùn tắc và tăng thu thuế; nhiều thành phố khác không chấp nhận dưới áp lực của giới taxi, và Uber phải điều chỉnh, thu hẹp, có nơi rút hẳn.
 
 **So sánh với Amazon.** Nhà báo Marcus Wohlsen ví Uber với Amazon (một phép so sánh bỏ qua khác biệt rõ ràng giữa hai công ty): cả hai là công ty khởi nghiệp do CEO tài giỏi, có sức ảnh hưởng dẫn dắt, giáng đòn bất ngờ vào một ngành cũ đang suy yếu, lớn nhanh đến mức tên thương hiệu thành biểu tượng của dịch vụ đột phá. Cả hai vẫn lớn lên dù gặp phản ứng dữ dội từ đối thủ và cơ quan quản lý.
 
@@ -562,26 +594,40 @@ Theo Guillén, nền kinh tế chia sẻ gây tranh cãi vì gần như không k
 | Thời điểm sách viết | 40.000 tài xế hoạt động, 3,5 triệu khách đi thường xuyên |
 | 2017 | London quyết định cấm Uber; vài ngày sau gần 800.000 người ký kiến nghị ủng hộ; chính quyền phải để Uber hoạt động cho đến khi vụ kiện được giải quyết |
 
-**Hiệu ứng mạng lưới địa phương là nền của chiến thuật.** Trong một thành phố, càng nhiều tài xế và người gọi xe dùng Uber càng tốt, nên Uber tìm cách mở rộng cơ sở người dùng càng nhanh càng tốt. Tờ *Guardian* mô tả "định lý" của Uber: xây số lượng lớn người gọi xe và tài xế trong một thị trường, tức tăng "tính thanh khoản", nhờ đó giá rẻ hơn mà tài xế vẫn kiếm được nhiều hơn. Wohlsen viết rằng khi Uber càng có nhiều khách quen bấm nút gọi xe thì chính trị gia càng khó chống lại Uber; bằng cách giảm giá mạnh, Uber không chỉ có thêm khách mà còn nuôi được cả một lực lượng ủng hộ, và nếu vượt qua được các trận chiến chính trị thì sẽ thành doanh nghiệp toàn cầu khổng lồ, đáng đồng tiền của nhà đầu tư. Guillén gọi đây là cách tư duy đa chiều giúp Uber phát triển vượt bậc: họ tin tài xế và khách sẽ cứu công ty nếu bị cấm, và họ đã trở nên quá lớn để có thể bị cấm.
+**Hiệu ứng mạng lưới địa phương là nền của chiến thuật.** Trong một thành phố, càng nhiều tài xế và người gọi xe dùng Uber càng tốt, nên Uber tìm cách mở rộng cơ sở người dùng càng nhanh càng tốt. Tờ *Guardian* mô tả "định lý" của Uber: xây số lượng lớn người gọi xe và tài xế trong một thị trường, tức tăng "tính thanh khoản", nhờ đó giá rẻ hơn mà tài xế vẫn kiếm được nhiều hơn.
 
-**Thay đổi vai trò kinh tế xã hội.** Guillén cho rằng nền kinh tế chia sẻ mang ý nghĩa cách mạng khi nó thay đổi các vai trò và quan hệ kinh tế xã hội. Uber hứa thu nhập phụ cho người lương thấp và người hưu trí, việc làm cho người thất nghiệp. Tài xế thích sự linh hoạt và minh bạch, chỉ phụ thuộc vào ứng dụng chứ không vào người điều phối. Khách có nhiều lựa chọn hơn, nhất là ở ngoại ô hay khu nội thành ít xe. Uber cũng tuyên bố tỷ lệ lái xe khi say giảm nhờ có mình; tổ chức Mothers Against Drunk Driving (Những bà mẹ chống lái xe khi say) đã hợp tác với Uber để tặng chuyến đi miễn phí vào những ngày như tiệc khiêu vũ trung học, khi bọn trẻ dễ liều lái xe lúc không tỉnh táo. Theo Guillén, Uber đã nắm bắt và kết hợp được nhiều xu hướng xã hội nổi trội. Mục kết bằng câu hỏi chuyển tiếp: theo cách ấy, các nền tảng số có thể giúp khắc phục biến đổi khí hậu không?
+Wohlsen viết rằng khi Uber càng có nhiều khách quen bấm nút gọi xe thì chính trị gia càng khó chống lại Uber; bằng cách giảm giá mạnh, Uber không chỉ có thêm khách mà còn nuôi được cả một lực lượng ủng hộ, và nếu vượt qua được các trận chiến chính trị thì sẽ thành doanh nghiệp toàn cầu khổng lồ, đáng đồng tiền của nhà đầu tư. Guillén gọi đây là cách tư duy đa chiều giúp Uber phát triển vượt bậc: họ tin tài xế và khách sẽ cứu công ty nếu bị cấm, và họ đã trở nên quá lớn để có thể bị cấm.
+
+**Thay đổi vai trò kinh tế xã hội.** Guillén cho rằng nền kinh tế chia sẻ mang ý nghĩa cách mạng khi nó thay đổi các vai trò và quan hệ kinh tế xã hội. Uber hứa thu nhập phụ cho người lương thấp và người hưu trí, việc làm cho người thất nghiệp. Tài xế thích sự linh hoạt và minh bạch, chỉ phụ thuộc vào ứng dụng chứ không vào người điều phối. Khách có nhiều lựa chọn hơn, nhất là ở ngoại ô hay khu nội thành ít xe.
+
+Uber cũng tuyên bố tỷ lệ lái xe khi say giảm nhờ có mình; tổ chức Mothers Against Drunk Driving (Những bà mẹ chống lái xe khi say) đã hợp tác với Uber để tặng chuyến đi miễn phí vào những ngày như tiệc khiêu vũ trung học, khi bọn trẻ dễ liều lái xe lúc không tỉnh táo. Theo Guillén, Uber đã nắm bắt và kết hợp được nhiều xu hướng xã hội nổi trội. Mục kết bằng câu hỏi chuyển tiếp: theo cách ấy, các nền tảng số có thể giúp khắc phục biến đổi khí hậu không?
 
 ### 7. Giết chết hay cứu vớt hành tinh? Bi kịch kỹ thuật số của cộng đồng (trang PDF 280–284)
 
-**Lời buộc tội.** Năm 2017, một độc giả viết thư cho tờ *Financial Times* rằng Uber là ví dụ điển hình của bi kịch cộng đồng. Anh ta lấy San Francisco làm ví dụ: khách du lịch và doanh nhân cần đi lại thuận tiện, nhưng năng lực giao thông có hạn, cả trên phố nội đô lẫn trên những cây cầu dẫn vào thành phố. Kết quả là đường phố hỗn loạn với hậu quả có thể thấy trước: lương tài xế thấp, dịch vụ kém do tài xế thiếu kinh nghiệm, tắc đường và ô nhiễm không khí. Nhà báo Arwa Mahdawi (*Guardian*) mỉa mai rằng nếu nghe Airbnb thì cho thuê nhà ngắn hạn là cách tuyệt vời để hỗ trợ cộng đồng, hồi sinh khu dân cư, giúp người bình thường kiếm sống và mang lại hòa bình thế giới; nhưng Airbnb cũng làm giá nhà và giá thuê vượt khả năng của người muốn mua hay thuê, và hàng xóm còn phàn nàn về tiếng ồn, xáo trộn sinh hoạt. Bà kết luận "nền kinh tế chia sẻ" đúng hơn là "nền kinh tế kiếm-tiền-từ-mọi-thứ-có-thể": sở hữu nhà không còn là dấu hiệu của vị thế trung lưu mà thành cơ hội kiếm tiền. Guillén thừa nhận tính hai mặt này diễn ra khắp nơi, từ khu dân cư Barcelona đến đường phố New York, nên phải thừa nhận biến động này gây ra mặt trái mang tính hệ thống.
+**Lời buộc tội.** Năm 2017, một độc giả viết thư cho tờ *Financial Times* rằng Uber là ví dụ điển hình của bi kịch cộng đồng. Anh ta lấy San Francisco làm ví dụ: khách du lịch và doanh nhân cần đi lại thuận tiện, nhưng năng lực giao thông có hạn, cả trên phố nội đô lẫn trên những cây cầu dẫn vào thành phố. Kết quả là đường phố hỗn loạn với hậu quả có thể thấy trước: lương tài xế thấp, dịch vụ kém do tài xế thiếu kinh nghiệm, tắc đường và ô nhiễm không khí.
+
+Nhà báo Arwa Mahdawi (*Guardian*) mỉa mai rằng nếu nghe Airbnb thì cho thuê nhà ngắn hạn là cách tuyệt vời để hỗ trợ cộng đồng, hồi sinh khu dân cư, giúp người bình thường kiếm sống và mang lại hòa bình thế giới; nhưng Airbnb cũng làm giá nhà và giá thuê vượt khả năng của người muốn mua hay thuê, và hàng xóm còn phàn nàn về tiếng ồn, xáo trộn sinh hoạt. Bà kết luận "nền kinh tế chia sẻ" đúng hơn là "nền kinh tế kiếm-tiền-từ-mọi-thứ-có-thể": sở hữu nhà không còn là dấu hiệu của vị thế trung lưu mà thành cơ hội kiếm tiền.
+
+Guillén thừa nhận tính hai mặt này diễn ra khắp nơi, từ khu dân cư Barcelona đến đường phố New York, nên phải thừa nhận biến động này gây ra mặt trái mang tính hệ thống.
 
 **Hai ngoại lệ của "bàn tay vô hình".** Để giải thích, Guillén quay về Adam Smith, cha đẻ kinh tế học hiện đại người Scotland: "Chúng ta có bữa tối không phải nhờ lòng nhân từ của người bán thịt, người nấu bia hay thợ làm bánh mà họ đang làm vì lợi ích của bản thân". Nghĩa là "bàn tay vô hình" của thị trường tự do sẽ sắp xếp thỏa thuận tốt nhất giữa người mua và người bán: người mua chọn thứ mình cần với giá tốt nhất, người bán có lợi nhuận nhờ đáp ứng nhu cầu ấy. Điều này đúng trong nhiều trường hợp, nhưng có ít nhất hai ngoại lệ nổi tiếng.
 
 - **Ngoại lệ thứ nhất, John Nash.** Nhà toán học được kể lại trong phim *A Beautiful Mind* (*Một tâm hồn đẹp*) chỉ ra rằng không thể dự đoán kết quả lựa chọn của nhiều người nếu phân tích từng quyết định riêng lẻ. Trong phim, ý tưởng này nảy ra ở một quán bar: vài nam sinh cùng tán tỉnh một phụ nữ, cô không chọn ai; điều đó khiến những phụ nữ khác trong quán cũng từ chối họ, vì không ai muốn làm lựa chọn dự phòng. Kết quả chẳng hay cho ai cả. Theo Guillén, từ đây Nash thấy lỗ hổng trong lý thuyết của Smith rằng cạnh tranh trên thị trường tự do mang lại lợi ích cho tất cả.
-- **Ngoại lệ thứ hai, tài nguyên chung.** Thị trường vận hành theo tư lợi không phải lúc nào cũng tốt khi một số người có thể khai thác một tài nguyên chung và làm cạn nó cho tất cả. Nhà kinh tế học người Anh thế kỷ 19 William Forster Lloyd phát hiện vấn đề này khi viết về hiểm họa của việc thả gia súc tràn lan trên đất công. Các nhà triết học, sinh thái học, nhân chủng học và khoa học chính trị về sau dùng ý tưởng ấy để nghiên cứu mọi thứ, từ ô nhiễm không khí, lưu vực sông, nguồn cá cạn kiệt đến băng tan ở Greenland. Nhà sinh thái học Garrett Hardin đặt tên "bi kịch cộng đồng" trong bài luận nổi tiếng trên tạp chí *Science* năm 1968, với câu tóm tắt: vấn đề dân số không thể giải bằng giải pháp kỹ thuật mà cần mở rộng nền tảng đạo đức. Hardin chủ yếu lo về dân số tăng và hậu quả với tài nguyên có hạn của Trái đất (Guillén nhắc rằng người ta từng nghĩ tỷ lệ sinh cao sẽ làm thế giới suy thoái, như Chương 1 đã bàn); với ông, điều đáng lo là thiếu tư tưởng và thể chế tốt.
+- **Ngoại lệ thứ hai, tài nguyên chung.** Thị trường vận hành theo tư lợi không phải lúc nào cũng tốt khi một số người có thể khai thác một tài nguyên chung và làm cạn nó cho tất cả. Nhà kinh tế học người Anh thế kỷ 19 William Forster Lloyd phát hiện vấn đề này khi viết về hiểm họa của việc thả gia súc tràn lan trên đất công. Các nhà triết học, sinh thái học, nhân chủng học và khoa học chính trị về sau dùng ý tưởng ấy để nghiên cứu mọi thứ, từ ô nhiễm không khí, lưu vực sông, nguồn cá cạn kiệt đến băng tan ở Greenland.
 
-**Nỗi lo cụ thể về Uber và Airbnb.** Một số người phản ứng quyết liệt, thậm chí bạo lực, với Uber và Airbnb vì thấy một bi kịch cộng đồng đang hình thành. Họ sợ dịch vụ gọi xe hỗn loạn làm tắc đường nặng hơn; tài xế Uber gây tai nạn nhiều hơn tài xế taxi; một số tài xế không chuyên lợi dụng hành khách; giao thông công cộng bị bỏ quên và xuống cấp vì không cạnh tranh nổi. Ở New York, Uber lấy bớt khách taxi ở trung tâm Manhattan nhưng làm lượng khách ở những nơi khác trong thành phố tăng 40% so với trước khi có Uber, khiến giao thông căng thẳng hơn và làm giảm đầu tư vào giao thông công cộng. Airbnb cũng bị cho là kéo quá nhiều du khách đến, làm khu dân cư xuống cấp và giá thuê vượt khả năng của dân thành phố.
+  Nhà sinh thái học Garrett Hardin đặt tên "bi kịch cộng đồng" trong bài luận nổi tiếng trên tạp chí *Science* năm 1968, với câu tóm tắt: vấn đề dân số không thể giải bằng giải pháp kỹ thuật mà cần mở rộng nền tảng đạo đức. Hardin chủ yếu lo về dân số tăng và hậu quả với tài nguyên có hạn của Trái đất (Guillén nhắc rằng người ta từng nghĩ tỷ lệ sinh cao sẽ làm thế giới suy thoái, như Chương 1 đã bàn); với ông, điều đáng lo là thiếu tư tưởng và thể chế tốt.
+
+**Nỗi lo cụ thể về Uber và Airbnb.** Một số người phản ứng quyết liệt, thậm chí bạo lực, với Uber và Airbnb vì thấy một bi kịch cộng đồng đang hình thành. Họ sợ dịch vụ gọi xe hỗn loạn làm tắc đường nặng hơn; tài xế Uber gây tai nạn nhiều hơn tài xế taxi; một số tài xế không chuyên lợi dụng hành khách; giao thông công cộng bị bỏ quên và xuống cấp vì không cạnh tranh nổi.
+
+Ở New York, Uber lấy bớt khách taxi ở trung tâm Manhattan nhưng làm lượng khách ở những nơi khác trong thành phố tăng 40% so với trước khi có Uber, khiến giao thông căng thẳng hơn và làm giảm đầu tư vào giao thông công cộng. Airbnb cũng bị cho là kéo quá nhiều du khách đến, làm khu dân cư xuống cấp và giá thuê vượt khả năng của dân thành phố.
 
 **Ba luận điểm ủng hộ của Guillén.**
 
 1. **Giảm áp lực tài nguyên.** Hệ thống chia sẻ có thể giảm nhu cầu xe cá nhân. Trung bình người Mỹ chỉ dùng ô tô của mình 6–7% thời gian trong tuần, nên dùng chung xe là cách dùng tốt hơn nguồn lực sẵn có.
-2. **Người dùng thực sự được lợi.** Mọi người sẵn lòng trả tiền cho hàng hóa và dịch vụ chia sẻ vì chúng làm đời sống của họ tốt hơn. Dùng dữ liệu của 48 triệu chuyến UberX ở bốn thành phố lớn nhất nước Mỹ, Steve Levitt (đồng tác giả *Freakonomics*, bản dịch tên *Kinh tế học hài hước*) và đồng nghiệp ước tính người dùng nhận được giá trị lớn hơn khoảng 1,6 lần chi phí bỏ ra (bản dịch viết "so với chi phí tự lái xe"; xem Lưu ý), tương đương khoảng 18 triệu USD mỗi ngày chỉ ở bốn thành phố đó. Theo nhóm nghiên cứu, nếu Uber đột nhiên biến mất một ngày, đó là số tiền người tiêu dùng sẽ mất.
-3. **Bi kịch không tất yếu (luận điểm quan trọng nhất).** Elinor Ostrom, nhà khoa học chính trị và là người phụ nữ đầu tiên đoạt giải Nobel Kinh tế, từng cùng mẹ trồng "khu vườn chiến thắng" (một hình thức nông nghiệp đô thị thời chiến) trong Thế chiến thứ II. Trải nghiệm ấy làm bà nảy ra suy nghĩ rằng trong những điều kiện nhất định, con người sẽ hợp tác vì lợi ích chung. Bà dành cả đời nghiên cứu các trường hợp dùng tài nguyên chung: trật tự cộng đồng, nghề nuôi tôm hùm, rừng, hệ thống tưới tiêu và tất nhiên là bãi chăn thả chung. Bà cho rằng có thể tránh bi kịch cộng đồng nếu tổ chức từ dưới lên để không làm cạn tài nguyên và sụp đổ hệ sinh thái, với các điều kiện: quy tắc chia sẻ rõ ràng; cơ chế giải quyết xung đột; chế tài đích đáng với người vi phạm; và tinh thần tự nguyện cam kết của cộng đồng dựa trên tin tưởng lẫn nhau.
+2. **Người dùng thực sự được lợi.** Mọi người sẵn lòng trả tiền cho hàng hóa và dịch vụ chia sẻ vì chúng làm đời sống của họ tốt hơn. Dùng dữ liệu của 48 triệu chuyến UberX ở bốn thành phố lớn nhất nước Mỹ, Steve Levitt (đồng tác giả *Freakonomics*, bản dịch tên *Kinh tế học hài hước*) và đồng nghiệp ước tính người dùng nhận được giá trị lớn hơn khoảng 1,6 lần chi phí bỏ ra (bản dịch viết "so với chi phí tự lái xe"; xem mục Lưu ý cuối chương), tương đương khoảng 18 triệu USD mỗi ngày chỉ ở bốn thành phố đó. Theo nhóm nghiên cứu, nếu Uber đột nhiên biến mất một ngày, đó là số tiền người tiêu dùng sẽ mất.
+3. **Bi kịch không tất yếu (luận điểm quan trọng nhất).** Elinor Ostrom, nhà khoa học chính trị và là người phụ nữ đầu tiên đoạt giải Nobel Kinh tế, từng cùng mẹ trồng "khu vườn chiến thắng" (một hình thức nông nghiệp đô thị thời chiến) trong Thế chiến thứ II. Trải nghiệm ấy làm bà nảy ra suy nghĩ rằng trong những điều kiện nhất định, con người sẽ hợp tác vì lợi ích chung.
+
+   Bà dành cả đời nghiên cứu các trường hợp dùng tài nguyên chung: trật tự cộng đồng, nghề nuôi tôm hùm, rừng, hệ thống tưới tiêu và tất nhiên là bãi chăn thả chung. Bà cho rằng có thể tránh bi kịch cộng đồng nếu tổ chức từ dưới lên để không làm cạn tài nguyên và sụp đổ hệ sinh thái, với các điều kiện: quy tắc chia sẻ rõ ràng; cơ chế giải quyết xung đột; chế tài đích đáng với người vi phạm; và tinh thần tự nguyện cam kết của cộng đồng dựa trên tin tưởng lẫn nhau.
 
 Theo Guillén, Ostrom kêu gọi người dùng tự tổ chức và quản lý tài nguyên chung mà không chờ chính phủ can thiệp. "Quy luật Ostrom" nói rằng một cách sắp xếp tài nguyên đã chạy được trong thực tế thì cũng chạy được trong lý thuyết, nghĩa là sáng kiến của người dân có thể phục vụ lợi ích chung. Guillén cho rằng có lẽ đó là cách tốt nhất để nền kinh tế chia sẻ đem lại lợi ích cho tất cả, cả người tham gia lẫn người chịu tác động.
 
@@ -589,7 +635,9 @@ Theo Guillén, Ostrom kêu gọi người dùng tự tổ chức và quản lý 
 
 **Thực phẩm.** Nhà báo Martin J. Smith viết rằng khoảng ⅓ tổng lượng thực phẩm sản xuất trên thế giới bị lãng phí. Ứng dụng OLIO cho phép hàng xóm và doanh nghiệp địa phương chia sẻ thực phẩm để khỏi bỏ phí. OLIO ra mắt năm 2015, có 2 triệu người dùng ở 49 nước, với phương châm "Chia sẻ nhiều hơn. Lãng phí ít hơn". Chẳng hạn, cửa hàng bán lẻ có thể chia sẻ hàng sắp hết hạn, nhất là rau quả. Ngoài các ngân hàng thực phẩm nhận hàng tồn của cửa hàng, ứng dụng số còn giúp giảm rác thải và lượng khí carbon đi kèm.
 
-**Quần áo.** Công ty khởi nghiệp Mỹ Rent the Runway góp phần làm ngành thời trang bền vững hơn bằng cách cho thuê quần áo thay vì bán. Công ty nói mỗi lần thuê là tiết kiệm nước, điện và khí thải dùng để may một bộ đồ mới, và trung bình một phụ nữ vứt đi 40 kg quần áo mỗi năm. Theo sách, tránh lãng phí thực phẩm và quần áo có thể cắt tới 10% lượng phát thải carbon toàn cầu, và sau dầu mỏ đây là hai ngành tác động lớn nhất đến biến đổi khí hậu (xem Lưu ý). Tạp chí trực tuyến *Shareable* viết rằng trong một thế giới chia sẻ, việc dùng chung xe, đổi quần áo, chia nhau trông trẻ, góp đồ làm tiệc và ở chung sẽ làm cuộc sống vui hơn, xanh hơn và tiết kiệm hơn; tạp chí *Scientific American* cũng kêu gọi "sẻ chia là yêu thương" (Sharing is caring).
+**Quần áo.** Công ty khởi nghiệp Mỹ Rent the Runway góp phần làm ngành thời trang bền vững hơn bằng cách cho thuê quần áo thay vì bán. Công ty nói mỗi lần thuê là tiết kiệm nước, điện và khí thải dùng để may một bộ đồ mới, và trung bình một phụ nữ vứt đi 40 kg quần áo mỗi năm.
+
+Theo sách, tránh lãng phí thực phẩm và quần áo có thể cắt tới 10% lượng phát thải carbon toàn cầu, và sau dầu mỏ đây là hai ngành tác động lớn nhất đến biến đổi khí hậu (xem mục Lưu ý cuối chương). Tạp chí trực tuyến *Shareable* viết rằng trong một thế giới chia sẻ, việc dùng chung xe, đổi quần áo, chia nhau trông trẻ, góp đồ làm tiệc và ở chung sẽ làm cuộc sống vui hơn, xanh hơn và tiết kiệm hơn; tạp chí *Scientific American* cũng kêu gọi "sẻ chia là yêu thương" (Sharing is caring).
 
 **Bằng chứng tích cực.** Kết quả nghiên cứu về lợi ích môi trường không nhất quán. Một số kết quả tích cực:
 
@@ -620,7 +668,9 @@ Cộng trừ qua lại, tác động chung có vẻ là âm; theo nhóm nghiên 
 
 Airbnb còn nói hơn 80% chủ nhà Bắc Mỹ có ít nhất một thiết bị tiết kiệm năng lượng, và khách Airbnb đi phương tiện công cộng, đi bộ hoặc đạp xe nhiều hơn khách khách sạn 10–15%, dù khách Airbnb cũng trẻ hơn nhiều. Guillén lưu ý chưa có đơn vị độc lập nào kiểm chứng các số liệu này.
 
-**Dùng hết công suất tài sản có tốt cho xã hội không?** Đúng là nhiều ô tô nằm yên hơn 90% thời gian. Nhưng nếu chủ xe dùng xe để chạy Uber hay Lyft thì xe chạy nhiều hơn, mòn nhanh hơn và phải thay sớm hơn. Guillén hỏi: dùng một chiếc ô tô 5% thời gian trong 10 năm, hay 50% thời gian trong một giai đoạn ngắn hơn, thì tốt hơn? Câu trả lời không đơn giản, vì ô tô mất giá theo thời gian dù có dùng hay không, một phần vì lỗi thời khi mẫu mới ra đời. Nếu đến năm 2030 phần lớn xe tư nhân được dùng để chạy dịch vụ thì chưa chắc đã tốt cho xã hội: xe hao mòn nhanh thì phải tái chế hoặc thải bỏ một số lượng lớn, nhất là khi xe mới tràn ngập đường phố; dịch vụ gọi xe phát triển còn làm giảm nhu cầu giao thông công cộng. Vì vậy dịch vụ gọi xe có những tác động tiêu cực nhất định đến môi trường.
+**Dùng hết công suất tài sản có tốt cho xã hội không?** Đúng là nhiều ô tô nằm yên hơn 90% thời gian. Nhưng nếu chủ xe dùng xe để chạy Uber hay Lyft thì xe chạy nhiều hơn, mòn nhanh hơn và phải thay sớm hơn. Guillén hỏi: dùng một chiếc ô tô 5% thời gian trong 10 năm, hay 50% thời gian trong một giai đoạn ngắn hơn, thì tốt hơn?
+
+Câu trả lời không đơn giản, vì ô tô mất giá theo thời gian dù có dùng hay không, một phần vì lỗi thời khi mẫu mới ra đời. Nếu đến năm 2030 phần lớn xe tư nhân được dùng để chạy dịch vụ thì chưa chắc đã tốt cho xã hội: xe hao mòn nhanh thì phải tái chế hoặc thải bỏ một số lượng lớn, nhất là khi xe mới tràn ngập đường phố; dịch vụ gọi xe phát triển còn làm giảm nhu cầu giao thông công cộng. Vì vậy dịch vụ gọi xe có những tác động tiêu cực nhất định đến môi trường.
 
 **Cho thuê chỗ ở thì khác.** Dịch vụ cho thuê chỗ ở vừa giống vừa khác gọi xe. Nhiều người đi nghỉ hoặc đi công tác nên có phòng trống; về kinh tế, kiếm tiền từ tài sản lúc mình không dùng là hợp lý. Nhà không khấu hao nhanh như ô tô, và tác động môi trường không xấu hơn phương thức truyền thống là khách sạn.
 
@@ -758,7 +808,9 @@ Lời phê phán Airbnb biến nhà ở thành cơ hội kiếm tiền.
 
 ### Dự báo nào đã đúng, dự báo nào chưa đúng tới năm 2026 (theo hiểu biết của người tổng hợp)
 
-- **Đã đúng hoặc đúng một phần:** các nền tảng chia sẻ và hợp đồng tự do vẫn tồn tại và lớn lên; Airbnb và Uber đều niêm yết (2019–2020) và đến giữa thập niên 2020 đều có lãi. Gọi xe, giao đồ ăn, thuê chỗ ở ngắn hạn đã thành dịch vụ bình thường ở hầu hết các thành phố lớn. Các công ty châu Á (Didi, Grab, Meituan…) đúng là thống trị sân nhà như Guillén nói. Tranh luận về tư cách pháp lý của tài xế công nghệ (nhân viên hay nhà thầu độc lập) trở thành vấn đề chính sách lớn ở Mỹ, Anh và Liên minh châu Âu, đúng như phần "Giới vô sản, hãy quẹt [điện thoại] nào!" dự đoán. Các thành phố như Barcelona, New York, Amsterdam đã siết cho thuê ngắn hạn vì giá nhà, đúng mối lo về bi kịch cộng đồng.
+- **Đã đúng hoặc đúng một phần:** các nền tảng chia sẻ và hợp đồng tự do vẫn tồn tại và lớn lên; Airbnb và Uber đều niêm yết (2019–2020) và đến giữa thập niên 2020 đều có lãi. Gọi xe, giao đồ ăn, thuê chỗ ở ngắn hạn đã thành dịch vụ bình thường ở hầu hết các thành phố lớn.
+
+  Các công ty châu Á (Didi, Grab, Meituan…) đúng là thống trị sân nhà như Guillén nói. Tranh luận về tư cách pháp lý của tài xế công nghệ (nhân viên hay nhà thầu độc lập) trở thành vấn đề chính sách lớn ở Mỹ, Anh và Liên minh châu Âu, đúng như phần "Giới vô sản, hãy quẹt [điện thoại] nào!" dự đoán. Các thành phố như Barcelona, New York, Amsterdam đã siết cho thuê ngắn hạn vì giá nhà, đúng mối lo về bi kịch cộng đồng.
 - **Chưa đúng hoặc khó xảy ra đúng hạn:** con số "gần một nửa chi tiêu ở dạng chia sẻ" hay "30% công việc và tiêu dùng" vào năm 2030 rất khó đạt. Các thống kê chính thức của Mỹ cho thấy tỷ lệ người làm việc qua nền tảng số là chính vẫn nhỏ (vài phần trăm lực lượng lao động), và chính Katz và Krueger về sau đã điều chỉnh giảm con số 16%. Nhiều mô hình "chia sẻ" thất bại hoặc thu hẹp (WeWork phá sản năm 2023; xe đạp chung ở Trung Quốc từng bùng rồi xẹp; Zipcar không thay thế được xe riêng trên diện rộng). Sở hữu nhà vẫn là mục tiêu lớn của người trẻ ở hầu hết các nước; người trẻ thuê nhà nhiều hơn chủ yếu vì giá nhà cao chứ không hẳn vì đổi giá trị.
 - **Bất ngờ ngoài dự báo:** đại dịch COVID-19 (2020) làm gọi xe và thuê chỗ ở sụt mạnh rồi phục hồi, trong khi làm việc từ xa và giao hàng bùng nổ (xem [C10](C10-loi-bat-covid-19.md)). Trí tuệ nhân tạo tạo sinh từ 2023 mở ra một kiểu "chia nhỏ công việc" mới mà sách chưa bàn.
 
@@ -771,7 +823,7 @@ Lời phê phán Airbnb biến nhà ở thành cơ hội kiếm tiền.
 ### Điểm mạnh và điểm yếu của lập luận
 
 - **Mạnh:** chương trình bày cân bằng, dẫn cả phía ủng hộ lẫn phía phê phán bằng tên người và nghiên cứu cụ thể. Phân tích phạm vi của hiệu ứng mạng lưới (địa phương, quốc gia, khu vực) là một ý sắc, giải thích được vì sao Uber phải rút khỏi Trung Quốc và Đông Nam Á còn Airbnb đi ra quốc tế dễ hơn (nhận xét của người tổng hợp). Phần môi trường đặt câu hỏi khó về khấu hao xe thay vì chỉ lặp lại lời quảng cáo của các công ty.
-- **Yếu:** nhiều số liệu lấy từ báo chí, từ chính các công ty (Airbnb, Rent the Runway) hoặc từ một kịch bản giả tưởng (bài *Economist* "July 2030"), và một số con số mâu thuẫn nhau (xem Lưu ý). Việc so sánh nền kinh tế chia sẻ với 90% lịch sử loài người không có tư hữu đất đai là hình ảnh đẹp nhưng không cùng bản chất: người dùng Airbnb vẫn trả tiền cho một chủ sở hữu tư nhân; đó là thuê, không phải sở hữu chung (nhận xét của người tổng hợp). Diễn giải cảnh quán bar trong phim *Một tâm hồn đẹp* là cách kể phổ thông; theo hiểu biết của người tổng hợp, nhiều nhà kinh tế cho rằng cảnh phim không mô tả đúng khái niệm cân bằng Nash.
+- **Yếu:** nhiều số liệu lấy từ báo chí, từ chính các công ty (Airbnb, Rent the Runway) hoặc từ một kịch bản giả tưởng (bài *Economist* "July 2030"), và một số con số mâu thuẫn nhau (xem mục Lưu ý cuối chương). Việc so sánh nền kinh tế chia sẻ với 90% lịch sử loài người không có tư hữu đất đai là hình ảnh đẹp nhưng không cùng bản chất: người dùng Airbnb vẫn trả tiền cho một chủ sở hữu tư nhân; đó là thuê, không phải sở hữu chung (nhận xét của người tổng hợp). Diễn giải cảnh quán bar trong phim *Một tâm hồn đẹp* là cách kể phổ thông; theo hiểu biết của người tổng hợp, nhiều nhà kinh tế cho rằng cảnh phim không mô tả đúng khái niệm cân bằng Nash.
 
 ### Liên hệ với các chương khác
 
@@ -786,3 +838,212 @@ Lời phê phán Airbnb biến nhà ở thành cơ hội kiếm tiền.
 - **Công việc:** coi nền tảng hợp đồng tự do là nguồn thu nhập bổ sung và kênh thử nghề, đúng như phát hiện của Schor rằng phần lớn người tham gia dùng nó để kiếm thêm. Nếu làm tự do toàn thời gian, tự lo phần mà chủ lao động từng lo: bảo hiểm, tiết kiệm hưu trí, quỹ dự phòng, vì theo Hacker rủi ro đã chuyển sang vai cá nhân. Với nhà quản lý: có thể chia nhỏ một số đầu việc để thuê ngoài theo nhiệm vụ, nhưng cần tính đến rủi ro pháp lý về tư cách người lao động.
 - **Đầu tư:** khi đánh giá một công ty nền tảng, hỏi hiệu ứng mạng lưới của nó ở phạm vi nào. Hiệu ứng địa phương (gọi xe, giao đồ ăn) nghĩa là phải thắng từng thành phố một và dễ bị đối thủ địa phương tấn công; hiệu ứng khu vực hoặc toàn cầu cho lợi thế bền hơn. Cũng cần đặt rủi ro pháp lý (cấm, siết giấy phép, phân loại lại tài xế thành nhân viên) vào định giá, vì chiến thuật "quá lớn để có thể cấm" không phải lúc nào cũng thắng. Với bất động sản cho thuê ngắn hạn, lưu ý lời cảnh báo về bi kịch cộng đồng: lợi nhuận cao dễ kéo theo quy định siết lại.
 - **Đời sống:** trước khi mua một tài sản ít dùng (xe, đồ nghề, đồ dự tiệc), so chi phí sở hữu với chi phí thuê theo nhu cầu; chiếc xe chỉ chạy 6–7% thời gian là ví dụ trong sách. Nhưng nhớ ý của Guillén rằng tiện lợi hơn có thể khiến ta dùng nhiều hơn (gọi xe thay cho xe buýt), nên lợi về tiền chưa chắc đi kèm lợi về môi trường. Khi cho thuê tài sản của mình, như Schor chỉ ra, người đã có tài sản là người hưởng lợi nhiều nhất; khoản thu này nên được tính như thu nhập kinh doanh có rủi ro, không như thu nhập chắc chắn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (Linsey Howard, dự báo quy mô và Airbnb cùng lối sống không sở hữu; hiệu ứng mạng lưới và phạm vi của nó; tác động lên người lao động và tầng lớp chia sẻ; chiến thuật "quá lớn để có thể cấm" của Uber; bi kịch cộng đồng và tác động môi trường), mỗi nhánh ghi xu hướng, cơ chế, con số và ví dụ công ty then chốt; nhánh cuối là Mục 9 và thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: đến năm 2030 dùng chung và đi thuê sẽ lấn át sở hữu, nhờ điện thoại thông minh, Millennials và người cao tuổi gặp nhau`"]
+  n1["`Mục 1–2 — Dùng chung đang thay sở hữu`"]
+  n0 --- n1
+  n2["`Mục 1 — Linsey Howard, dự báo quy mô, Airbnb`"]
+  n1 --- n2
+  n3["`Linsey Howard: kỹ sư sống bằng nhận việc trên TaskRabbit, không có xe, đi chợ bằng xe đạp chung`"]
+  n2 --- n3
+  n4["`Hơn 40 triệu người làm tự do ở Mỹ, gấp đôi 20 triệu năm 2018 (nhiều khả năng từ kịch bản giả tưởng của Economist)`"]
+  n2 --- n4
+  n5["`Brookings: kinh tế chia sẻ lớn gấp 20 lần vào năm 2025`"]
+  n2 --- n5
+  n6["`Ngoại suy tuyến tính: kinh tế cộng tác chiếm tới 30% công việc và tiêu dùng năm 2030`"]
+  n2 --- n6
+  n7["`Airbnb tận dụng lễ nhậm chức của Obama 01/2009: gần 2 triệu người, khách sạn không đủ chỗ`"]
+  n2 --- n7
+  n8["`Công cụ có sẵn: iPhone 2007, App Store 2008 với 500 ứng dụng, Google Maps`"]
+  n2 --- n8
+  n9["`Airbnb: hơn 4 triệu tin đăng ở 191 nước, định giá gần 40 tỷ USD`"]
+  n2 --- n9
+  n10["`Brad Stone: làn sóng lớn là chỗ công nghệ di động giao với quan niệm mới của các thế hệ về du lịch`"]
+  n2 --- n10
+  n11["`Mục 2 — Chia sẻ là quay lại nếp cũ`"]
+  n1 --- n11
+  n12["`Khoảng 90% lịch sử loài người sống không có tư hữu đất đai`"]
+  n11 --- n12
+  n13["`Harari: nông nghiệp tăng sức mạnh tập thể nhưng nông dân ăn kém hơn người săn bắn hái lượm`"]
+  n11 --- n13
+  n14["`Dự báo: gần một nửa chi tiêu năm 2030 ở dạng chia sẻ, sở hữu sẽ hết thời`"]
+  n11 --- n14
+  n15["`Botsman: từ văn hóa tôi sang văn hóa chúng ta, Forbes gọi là NOwnership`"]
+  n11 --- n15
+  n16["`Người Mỹ 20–24 tuổi muốn thi bằng lái: 92% năm 1983 xuống 77% năm 2015`"]
+  n11 --- n16
+  n17["`Ít nhất ⅔ người lớn sẵn sàng đăng nhà, xe lên ứng dụng, cao hơn ở thị trường mới nổi`"]
+  n11 --- n17
+  n18["`Tin đăng Airbnb của người trên 60 tuổi tăng nhanh nhất: nền tảng nối Millennials với người cao niên`"]
+  n11 --- n18
+  n19["`Ẩn số: con cái người nhập cư vẫn muốn kết hôn, mua nhà, mua xe`"]
+  n11 --- n19
+  n20["`Tầng lớp chia sẻ xác định bằng lối sống, không bằng tài sản, Collins ghi nhận động từ uberize`"]
+  n11 --- n20
+  n21["`Kinh tế cộng tác gồm cho vay trực tuyến, huy động vốn cộng đồng, việc tự do, cùng dựa vào chợ trực tuyến và thanh toán qua ứng dụng`"]
+  n11 --- n21
+  n22["`Mục 3 — Hiệu ứng mạng lưới quyết định ai thắng, nhưng ít khi toàn cầu`"]
+  n0 --- n22
+  n23["`Facebook trả 19 tỷ USD mua WhatsApp, chưa tới 60 nhân viên, vì cơ sở người dùng rất lớn`"]
+  n22 --- n23
+  n24["`Một chiều: càng nhiều người dùng điện thoại, máy của tôi càng có ích`"]
+  n22 --- n24
+  n25["`Hai chiều: càng nhiều chủ nhà trên Airbnb càng nhiều khách, và ngược lại`"]
+  n22 --- n25
+  n26["`Phạm vi: gọi xe và hẹn hò là địa phương, mai mối là quốc gia, Airbnb là khu vực`"]
+  n22 --- n26
+  n27["`Uber phải đủ tài xế và khách ở từng thành phố, Airbnb phải đạt ngưỡng tối thiểu ở từng khu vực`"]
+  n22 --- n27
+  n28["`Didi, WeChat, Tujia, UCommune thống trị Trung Quốc, năm 2017 châu Á có nhiều kỳ lân kinh tế chia sẻ hơn Mỹ`"]
+  n22 --- n28
+  n29["`Đến 2030 lợi thế còn nghiêng về châu Á nhờ tầng lớp trung lưu tăng nhanh`"]
+  n22 --- n29
+  n30["`Mục 4–5 — Người lao động và tầng lớp chia sẻ: lợi ích dồn về người đã có học vấn và tài sản`"]
+  n0 --- n30
+  n31["`Mục 4 — Phía phê phán`"]
+  n30 --- n31
+  n32["`Reich: kinh tế chia sẻ tạp nham, công ty cắt nhân viên toàn thời gian để thuê lao động tạm thời`"]
+  n31 --- n32
+  n33["`Katz và Krueger: lao động phi chuẩn ở Mỹ từ 10% năm 2005 lên gần 16% năm 2015`"]
+  n31 --- n33
+  n34["`Standing gọi họ là giới lao động bấp bênh (precariat)`"]
+  n31 --- n34
+  n35["`Schor: người cung cấp thường học cao, làm thêm, lấn chỗ người kỹ năng thấp nên bất bình đẳng tăng`"]
+  n31 --- n35
+  n36["`Cho thuê nhà chỉ lợi cho người đã có nhà: Shira kiếm 30.000 USD mỗi năm, tiền đẻ ra tiền`"]
+  n31 --- n36
+  n37["`Mục 4 — Phía ủng hộ`"]
+  n30 --- n37
+  n38["`Fraiberger và Sundararajan (dữ liệu Getaround): người thu nhập thấp được lợi nhiều nhất`"]
+  n37 --- n38
+  n39["`Sundararajan: người ta kiếm tiền từ thời gian chết của mình`"]
+  n37 --- n39
+  n40["`Mulcahy: Giấc mơ Mỹ mới là chất lượng sống, không phải số lượng của cải`"]
+  n37 --- n40
+  n41["`Kara Oh, 67 tuổi, viết sách buổi sáng và lái Uber buổi chiều tối`"]
+  n37 --- n41
+  n42["`Hill: cần một mạng lưới an sinh di động cho mọi người lao động`"]
+  n31 --- n42
+  n43["`Mục 5 — Hệ quả chính trị`"]
+  n30 --- n43
+  n44["`Người có nhà đi bầu nhiều hơn, nên người trẻ không sở hữu có thể thờ ơ với chính trị`"]
+  n43 --- n44
+  n45["`Hacker: rủi ro chuyển từ nhà nước và công ty sang vai cá nhân`"]
+  n43 --- n45
+  n46["`Obama 2008: kỷ lục 800 triệu USD từ 4 triệu nhà tài trợ, hơn 5 triệu tình nguyện viên`"]
+  n43 --- n46
+  n47["`Người làm tự do nghỉ hưu muộn hoặc bán phần: kinh tế hợp đồng tự do là kế hoạch nghỉ hưu dự phòng`"]
+  n43 --- n47
+  n48["`Tầng lớp chia sẻ có thể vừa tự do về kinh tế vừa bảo thủ về xã hội`"]
+  n43 --- n48
+  n49["`Mục 6 — Uber: quá lớn để có thể cấm`"]
+  n0 --- n49
+  n50["`Trước lệnh ngừng ở San Francisco, Kalanick làm trước rồi xin tha thứ sau`"]
+  n49 --- n50
+  n51["`Uber có mặt ở gần 900 thành phố, 73 nước, mới khoảng ⅕ trong 4.500 thành phố trên 100.000 dân`"]
+  n49 --- n51
+  n52["`Lớn nhanh và giảm giá mạnh để khách và tài xế đứng ra bảo vệ công ty trước chính quyền`"]
+  n49 --- n52
+  n53["`Tính thanh khoản: nhiều xe và nhiều khách giúp giá rẻ hơn mà tài xế vẫn kiếm nhiều hơn`"]
+  n49 --- n53
+  n54["`London 06/2014: taxi đen biểu tình làm tắc Westminster, lượt tải Uber tăng 850%`"]
+  n49 --- n54
+  n55["`London cấm Uber năm 2017, gần 800.000 người ký kiến nghị, Uber hoạt động trong lúc chờ xử kiện`"]
+  n49 --- n55
+  n56["`Đổi vai trò kinh tế xã hội: thu nhập phụ cho người lương thấp và hưu trí, giảm lái xe khi say`"]
+  n49 --- n56
+  n57["`Mục 7–8 — Môi trường: chia sẻ tốt khi có quy tắc, trừ gọi xe`"]
+  n0 --- n57
+  n58["`Mục 7 — Bi kịch cộng đồng`"]
+  n57 --- n58
+  n59["`Độc giả Financial Times: Uber ở San Francisco là bi kịch cộng đồng vì đường và cầu có hạn`"]
+  n58 --- n59
+  n60["`Ở New York, Uber làm khách ngoài trung tâm Manhattan tăng 40%, giảm đầu tư giao thông công cộng`"]
+  n58 --- n60
+  n61["`Hai ngoại lệ của bàn tay vô hình: Nash và tài nguyên chung bị khai thác cạn (Lloyd, Hardin 1968)`"]
+  n58 --- n61
+  n62["`Người Mỹ chỉ dùng ô tô 6–7% thời gian trong tuần, nên dùng chung đỡ áp lực tài nguyên`"]
+  n58 --- n62
+  n63["`Levitt: 48 triệu chuyến UberX, người dùng được giá trị gấp khoảng 1,6 lần, khoảng 18 triệu USD mỗi ngày`"]
+  n58 --- n63
+  n64["`Ostrom: tránh được bi kịch nếu có quy tắc rõ, giải quyết xung đột, chế tài và cam kết dựa trên tin tưởng`"]
+  n58 --- n64
+  n65["`Mục 8 — Bằng chứng hai chiều`"]
+  n57 --- n65
+  n66["`Khoảng ⅓ thực phẩm thế giới bị lãng phí, OLIO có 2 triệu người dùng ở 49 nước`"]
+  n65 --- n66
+  n67["`Tránh lãng phí thực phẩm và quần áo có thể giảm tới 10% phát thải carbon toàn cầu`"]
+  n65 --- n67
+  n68["`Mỗi xe dùng chung kiểu Zipcar thay ít nhất 5 xe riêng, nghiên cứu khác nói 13`"]
+  n65 --- n68
+  n69["`Clewlow: gọi xe làm xe buýt giảm 6%, tàu điện giảm 3%, nhiều xe, chuyến và kilomet hơn`"]
+  n65 --- n69
+  n70["`Xe chạy dịch vụ mòn nhanh, phải thay sớm: dùng 5% thời gian trong 10 năm hay 50% trong thời gian ngắn hơn?`"]
+  n65 --- n70
+  n71["`Airbnb (Cleantech Group, chưa kiểm chứng độc lập): Bắc Mỹ tiết kiệm nước bằng 270 bể bơi Olympic mỗi năm`"]
+  n65 --- n71
+  n72["`Kết luận: trừ dịch vụ gọi xe, kinh tế chia sẻ hứa hẹn bảo tồn tài nguyên`"]
+  n65 --- n72
+  n73["`Mục 9 và thông điệp xuyên suốt`"]
+  n0 --- n73
+  n74["`Ranh giới giữa công việc và văn phòng, giữa sở hữu và sử dụng bị xóa nhòa`"]
+  n73 --- n74
+  n75["`Văn hóa chuyển từ sở hữu sang tận hưởng và trải nghiệm`"]
+  n73 --- n75
+  n76["`Cơ hội nằm ở chỗ các xu hướng giao nhau, nên phải nhìn chúng cùng lúc bằng tư duy đa chiều`"]
+  n73 --- n76
+  n77["`Các nền tảng lớn nhanh hơn luật, câu hỏi mở là nền tảng độc quyền có bóc lột không`"]
+  n73 --- n77
+  n78["`Câu hỏi chuyển sang Chương 8: điều gì sẽ xảy ra với tiền`"]
+  n73 --- n78
+  class n0 root
+  class n1,n22,n30,n49,n57,n73 branch
+  class n2,n11,n31,n37,n43,n58,n65 branch
+  class n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29 leaf
+  class n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56 leaf
+  class n59,n60,n61,n62,n63,n64,n66,n67,n68,n69,n70,n71,n72,n74,n75,n76,n77,n78 leaf
+```
+
+## Nguồn
+
+Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020); bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai*, dịch giả Vũ Kiều Linh (NXB Thế Giới và Phương Nam Book, 2022), Chương 7 "Một thế giới không tư hữu", tiêu đề phụ "Cưỡi sóng, hiệu ứng mạng lưới và sức mạnh kết nối của 8,5 tỷ người", trang PDF 253–289.
+
+## Tác giả
+
+Mauro F. Guillén, giáo sư quản trị quốc tế tại Trường Wharton (Đại học Pennsylvania).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương trước mô tả từng xu hướng riêng lẻ: tỷ lệ sinh và dòng người di cư ([C01](C01-tre-em-cho-ta-biet-dieu-gi.md)), các thế hệ và người cao tuổi ([C02](C02-cong-dan-dau-bac-the-he-xanh-moi.md)), tầng lớp trung lưu mới nổi ở châu Á ([C03](C03-theo-kip-nha-singh-va-nha-wang.md)), phụ nữ giàu lên ([C04](C04-nguoi-phu-nu-moi.md)), đô thị và biến đổi khí hậu ([C05](C05-cai-chet-cua-do-thi.md)), công nghệ số ([C06](C06-dien-thoai-nhieu-hon-nha-ve-sinh.md)).
+
+Chương 7 cho thấy các xu hướng ấy gặp nhau và tạo ra một hiện tượng mới: nền kinh tế chia sẻ, trong đó người ta dùng chung nhà, xe, chỗ làm và bán sức lao động theo từng việc qua ứng dụng điện thoại. Chương 8 ([C08](C08-nhieu-loai-tien-hon-so-quoc-gia.md)) tiếp tục câu hỏi cuối của chương này: điều gì sẽ xảy ra với tiền.
+
+## Lưu ý
+
+- **Nhân vật Linsey Howard và câu "kể từ năm 2026, LinkedIn…" có thể thuộc một kịch bản giả tưởng.** Danh mục nguồn của chương ghi bài của tờ *Economist* ngày 07/7/2018 có tựa "Run, TaskRabbit, Run: July 2030", tức một bài viết tưởng tượng về tháng 7 năm 2030. Điều này giải thích vì sao bản dịch viết Howard là một trong "hơn 40 triệu người làm việc tự do" ở Mỹ, "gấp đôi con số 20 triệu người vào năm 2018", và vì sao một bài xã luận năm 2018 lại nói về "năm 2026" ở thì quá khứ. Bản dịch trình bày như chuyện hiện tại, nên người đọc dễ hiểu nhầm con số 40 triệu là số liệu đã có (nhận xét của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Các con số dự báo cho năm 2030 không thống nhất trong cùng chương:** nền kinh tế cộng tác chiếm "tới 30% trong tổng lượng công việc và tiêu dùng" (trang PDF 254); "gần một nửa chi tiêu của chúng ta" (trang PDF 256); và giả định "hơn một nửa lực lượng lao động ở châu Âu, Mỹ" là người làm hợp đồng tự do (trang PDF 274, nêu dưới dạng "nếu"). Ba con số đo ba thứ khác nhau và không đi kèm phương pháp tính.
+- **Ngày nhậm chức của Obama:** bản dịch ghi "ngày 19 tháng 1 năm 2009"; theo hiểu biết của người tổng hợp, lễ nhậm chức diễn ra ngày 20/01/2009. Cũng theo hiểu biết của người tổng hợp, Airbnb đón khách đầu tiên từ tháng 10/2007 (chính cuốn sách cũng ghi như vậy), nên lễ nhậm chức chỉ là một trong những dịp đầu tiên Airbnb tận dụng, không phải lúc công ty ra đời; đoạn văn của sách dễ khiến người đọc hiểu ngược thứ tự thời gian.
+- **Lỗi chữ và tên riêng của bản dịch:** "National Mali" (đúng là National Mall); "Barrack Obama" (đúng là Barack); "Linkedln" (LinkedIn); "We-Work" (WeWork); "Canim Lake Bad" (đúng là Canim Lake Band, tức "bộ tộc hồ Canim"); "Quỹ Kau￾man" (Quỹ Kauffman); "Scienti￾c American" (Scientific American); "giá thuế tăng cao" ở trang PDF 282 nhiều khả năng là "giá thuê tăng cao"; "nghiên cứu về chất này" ở trang PDF 267 có lẽ là "nghiên cứu định tính này". "Ủy ban Công cộng California" là California Public Utilities Commission, thường dịch là Ủy ban Tiện ích Công cộng California (theo hiểu biết của người tổng hợp).
+- **Tựa sách của Steven Hill:** bản dịch tạm dịch "Runaway Capitalism" là "sự trốn tránh của chủ nghĩa tư bản"; theo hiểu biết của người tổng hợp, "runaway" ở đây nghĩa là "mất kiểm soát, chạy vô độ", nên đúng hơn là "chủ nghĩa tư bản mất kiểm soát".
+- **Bernard Marr được nhắc là "ông Marr" ở trang PDF 257** trước khi được giới thiệu đầy đủ là "tác giả sách bán chạy Bernard Marr" ở trang PDF 260.
+- **"Tư duy đa chiều"** (trang PDF 255, 279, 281) là chữ bản dịch dùng thống nhất cho *lateral thinking* của Edward de Bono, phương pháp Guillén giới thiệu ở Phần giới thiệu (trang PDF 17–18) và dùng xuyên suốt cuốn sách: nhìn các xu hướng cùng lúc thay vì từng cái một. Nhiều bản dịch sách khác gọi khái niệm này là "tư duy theo chiều ngang" (theo hiểu biết của người tổng hợp). Bản tổng hợp này dùng "tư duy đa chiều" như bản dịch.
+- **"Giai cấp chia sẻ" (trang PDF 259) và "tầng lớp chia sẻ" (tiêu đề trang PDF 271)** là cùng một khái niệm (sharing class). Bản tổng hợp dùng thống nhất "tầng lớp chia sẻ".
+- **Bằng lái xe:** bản dịch viết năm 2015 "chỉ có 77% người Mỹ trong độ tuổi từ 20 đến 24 muốn thi lấy giấy phép lái xe, so với 92% của năm 1983". Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), số liệu gốc (của Viện Nghiên cứu Giao thông Đại học Michigan) là tỷ lệ người **có** bằng lái, không phải tỷ lệ người "muốn thi".
+- **WhatsApp có 1,5 tỷ người dùng khi bị Facebook mua năm 2014** là không đúng thời điểm: theo hiểu biết của người tổng hợp, lúc mua WhatsApp có khoảng 450 triệu người dùng mỗi tháng; mốc 1,5 tỷ đạt được khoảng năm 2018.
+- **Chiến dịch Obama 2008:** sách nêu cả "800 triệu USD từ 4 triệu nhà tài trợ" lẫn "3,1 triệu cá nhân đóng góp" (hai nghiên cứu khác nhau, hai con số khác nhau). Theo hiểu biết của người tổng hợp, tổng số tiền chiến dịch huy động được là khoảng 750 triệu USD.
+- **Nghiên cứu của Steve Levitt về Uber:** bản dịch viết người dùng được hưởng giá trị "lớn hơn khoảng 1,6 lần so với chi phí tự lái xe". Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), kết luận của nghiên cứu (Cohen và cộng sự, NBER 2016) là mỗi 1 USD người dùng trả cho UberX đem lại khoảng 1,6 USD thặng dư tiêu dùng; nghiên cứu không so với "chi phí tự lái xe". Có thể đây là lỗi dịch.
+- **"1% những người giàu nhất sở hữu nhiều tài sản hơn tất cả 99% còn lại"** (trang PDF 271) được nêu trong đoạn nói về châu Âu và Mỹ. Theo hiểu biết của người tổng hợp, phép so sánh này (do Oxfam phổ biến từ năm 2016) đúng ở quy mô toàn thế giới; trong nội bộ nước Mỹ, 1% giàu nhất nắm khoảng một phần ba tổng tài sản, chưa vượt 99% còn lại.
+- **Câu "sau dầu mỏ, đây là hai ngành [thực phẩm và quần áo] chiếm tỷ trọng tác động lớn nhất đến biến đổi khí hậu"** (trang PDF 285): theo hiểu biết của người tổng hợp, nhận định "thời trang là ngành gây ô nhiễm thứ hai sau dầu mỏ" được lan truyền rộng nhưng không có nguồn số liệu vững; nông nghiệp và lương thực đúng là nguồn phát thải lớn, còn ngành điện, giao thông, công nghiệp nặng đều lớn hơn ngành may mặc.
+- **"Ít nhất ⅔ dân số cùng nhóm tuổi"** (trang PDF 258, nói về con cái thế hệ nhập cư trong nhóm người tiêu dùng trẻ ở Mỹ và châu Âu) có vẻ cao so với hiểu biết phổ biến; người tổng hợp chưa đối chiếu nguyên tác nên chỉ nêu để người đọc thận trọng.
+- **Chú thích dịch giả số (43)** giải thích "Mechanical Turks" là "thị trường cho thuê nguồn nhân lực từ xa". Theo hiểu biết của người tổng hợp, Amazon Mechanical Turk là sàn của Amazon chia việc thành những nhiệm vụ rất nhỏ trả công theo từng việc; tên gọi lấy từ "Người Thổ máy", cỗ máy chơi cờ thế kỷ 18 thực ra có người giấu bên trong. Robert Reich dùng chữ này để nói người làm việc qua ứng dụng là sức người giấu sau giao diện máy.
+- **Số liệu đã lỗi thời so với năm 2026 (theo hiểu biết của người tổng hợp):** Airbnb "được định giá gần 40 tỷ USD" là mức trước khi niêm yết; công ty niêm yết tháng 12/2020 và có giá trị thị trường cao hơn nhiều. Câu chuyện Uber bị London cấm năm 2017 đã kết thúc bằng việc Uber được cấp lại giấy phép (có thời hạn) sau các vụ kiện. Nghiên cứu của Katz và Krueger (10% lên gần 16%) về sau được chính các tác giả điều chỉnh giảm do sai lệch trong cách đo.

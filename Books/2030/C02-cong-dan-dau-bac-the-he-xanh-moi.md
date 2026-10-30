@@ -1,33 +1,18 @@
 # Chương 2 — Công dân "đầu bạc" sẽ là thế hệ "xanh" mới (Gray Is the New Green)
 
-**Nguồn:** Mauro F. Guillén, *2030: Những xu hướng lớn sẽ định hình thế giới tương lai* (bản dịch của Vũ Kiều Linh, NXB Thế Giới & Phương Nam Book, 2022; nguyên tác *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything*, St. Martin's Press, 2020), Chương 2 "Công dân 'đầu bạc' sẽ là thế hệ 'xanh' mới", phụ đề "Người cao niên sành công nghệ, đẩy lùi tuổi nghỉ hưu, và định nghĩa lại 'già' – 'trẻ'", trang PDF 63–106.
-**Tác giả:** Mauro F. Guillén, giáo sư quản trị quốc tế tại Trường Wharton (Đại học Pennsylvania), nghiên cứu về toàn cầu hóa, nhân khẩu học và chiến lược doanh nghiệp.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-tre-em-cho-ta-biet-dieu-gi.md](C01-tre-em-cho-ta-biet-dieu-gi.md)) cho thấy mức sinh giảm ở các nước giàu và ở Trung Quốc, còn trẻ em sẽ sinh ra chủ yếu ở Nam Á và châu Phi. Chương 2 nhìn vào đầu kia của tháp dân số: nhóm người trên 60 tuổi tăng nhanh nhất, giàu nhất và bị doanh nghiệp bỏ quên nhiều nhất, đồng thời đặt câu hỏi thế hệ Millennials sẽ ra sao khi chính họ già đi. Chương 3 ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)) chuyển sang tầng lớp trung lưu mới ở các nước mới nổi và sự phân hóa tài sản mà cuối Chương 2 đã báo trước. Chương 7 ([C07-mot-the-gioi-khong-tu-huu.md](C07-mot-the-gioi-khong-tu-huu.md)) được Guillén hẹn sẽ bàn tiếp việc người cao tuổi kiếm thêm thu nhập qua Airbnb, Uber và việc Millennials ít mua nhà, mua xe.
-**Ý chính:** **Guillén cho rằng các công ty và chính trị gia đang dồn sự chú ý vào thế hệ Millennials, trong khi phân khúc tăng nhanh nhất và giàu nhất lại là người trên 60 tuổi, và đến năm 2030 những định nghĩa quen thuộc về "trẻ" và "già" sẽ lỗi thời.** Đến năm 2030 thế giới sẽ có thêm khoảng 400 triệu người trên 60 tuổi (từ khoảng 1 tỷ lên 1,4 tỷ), chủ yếu ở châu Âu, Bắc Mỹ và Trung Quốc; nhóm này nắm ít nhất một nửa tài sản ròng toàn cầu, khoảng 80% tài sản của nước Mỹ, có sức chi tiêu ước 15 nghìn tỷ USD mỗi năm hiện nay và khoảng 20 nghìn tỷ USD vào năm 2030. Mỗi ngày trên thế giới có khoảng 210.000 người tròn 60 tuổi. Thế nhưng 96% người Anh trên 50 tuổi thấy mình bị nhà quảng cáo phớt lờ, và theo Tập đoàn Tư vấn Boston chỉ một trong bảy công ty đã chuẩn bị cho "thị trường 'đầu bạc'". Chương đi qua các cơ hội ở thiết kế sản phẩm, bán lẻ, thể dục, du lịch, robot chăm sóc (Paro, eXo-Muscle, ElliQ), tài chính (fintech chống lừa đảo người già), thị trường lao động (người cao tuổi đi làm lại, khởi nghiệp) và câu chuyện Philips chuyển sang thiết bị y tế. Nửa sau chương cho thấy thế hệ Millennials không đồng nhất, tiết kiệm ít, và sẽ già đi theo cách khác cha mẹ họ; thế hệ Z mang tư tưởng "công dân toàn cầu" nhưng sẽ gánh khủng hoảng lương hưu; Trung Quốc già hóa nhanh nhất với "những người già bị bỏ lại" ở nông thôn. Thông điệp kết: điều cần hiểu không phải là thế hệ nào đang được xem xét, mà là quan niệm về tuổi già đang thay đổi.
+## Ý chính
 
-> **Lưu ý:**
-> - **Tên chương và chữ "xanh".** Tên nguyên tác là *Gray Is the New Green* (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác). Trong tiếng Anh Mỹ, "green" thường chỉ tiền (màu của tờ đô la), nên ý tên chương là "tóc bạc là nguồn tiền mới". Bản dịch "thế hệ 'xanh' mới" dễ bị hiểu là "thế hệ trẻ mới". Chính cuốn sách cũng ủng hộ nghĩa "tiền": ở trang PDF 91, cụm "thế hệ 'xanh' mới" xuất hiện ngay trong câu nói về sức chi tiêu tùy ý của người cao tuổi.
-> - **Thế hệ Im lặng và "Thế hệ vĩ đại nhất".** Sách (trang PDF 64) viết rằng Tom Brokaw gọi Thế hệ Im lặng là "Thế hệ vĩ đại nhất". Theo hiểu biết của người tổng hợp, Brokaw dùng tên này cho thế hệ sinh khoảng 1901–1927, những người trưởng thành trong Đại suy thoái và trực tiếp chiến đấu trong Thế chiến II; Thế hệ Im lặng (sinh khoảng 1928–1945) là thế hệ kế tiếp. Không rõ sự gộp này có từ nguyên tác hay do bản dịch.
-> - **Mốc năm sinh các thế hệ trong sách:** Thế hệ bùng nổ dân số 1944–1964 (trang PDF 70 và chú thích dịch giả số 7); Thế hệ X 1965–1980 (chú thích số 12); Millennials 1980–2000 (trang PDF 63, chú thích số 3); Thế hệ Z sinh sau năm 2000 (chú thích số 17). Theo hiểu biết của người tổng hợp, mốc phổ biến hơn là Thế hệ bùng nổ dân số 1946–1964, Millennials 1981–1996 và Thế hệ Z 1997–2012 (theo cách chia của Pew Research Center). Các mốc khác nhau tùy nguồn, nên đây không phải lỗi mà là một cách chia.
-> - **"Ông Catherine Collinson"** (trang PDF 90): Catherine Collinson là phụ nữ, nên phải là "bà" (theo hiểu biết của người tổng hợp).
-> - **"McGann"** (trang PDF 71): công ty quảng cáo toàn cầu nơi Nadia Tuma làm việc là McCann (McCann Worldgroup) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
-> - **Tên nhà nghiên cứu Internet và trầm cảm:** lời văn ghi "Sheila Cotten", danh mục nguồn của sách ghi "Shelia R. Cotton". Theo hiểu biết của người tổng hợp, tên đúng là Shelia R. Cotten (Đại học bang Michigan).
-> - **Philips** (trang PDF 77): "đóng sáng lập" là lỗi chữ của "đồng sáng lập". Theo hiểu biết của người tổng hợp, Anton Philips (sinh 1874) là **em trai** của Gerard Philips (sinh 1858), không phải "anh trai" như bản dịch viết. Danh sách phát minh của Philips cũng nên đọc dè dặt: theo hiểu biết của người tổng hợp, đĩa CD và DVD do Philips phát triển chung với các công ty khác (Sony và một số hãng Nhật), còn chuẩn GSM là kết quả hợp tác của nhiều bên ở châu Âu chứ không phải phát minh riêng của Philips.
-> - **James Watt và mã lực** (trang PDF 101): câu "khái niệm về mã lực, một dạng đơn vị khác mà chúng ta biết đến ngày nay dưới tên gọi là watt" dễ gây hiểu nhầm. Mã lực và watt là hai đơn vị khác nhau; Watt đưa ra đơn vị mã lực, và về sau đơn vị công suất watt được đặt theo tên ông (theo hiểu biết của người tổng hợp). Sách gọi động cơ của Thomas Newcomen (1712) là "động cơ hơi nước đầu tiên"; theo hiểu biết của người tổng hợp, đó là động cơ hơi nước thực dụng đầu tiên được dùng rộng rãi, còn trước đó đã có máy bơm hơi nước của Thomas Savery (1698).
-> - **Robot Nao** (trang PDF 82): sách đặt Nao trong đoạn "Người Nhật cũng phát triển nhiều ứng dụng công nghệ robot". Theo hiểu biết của người tổng hợp, Nao do công ty Pháp Aldebaran Robotics phát triển; công ty này về sau thuộc tập đoàn Nhật SoftBank.
-> - **"Khoảng 90% nhân viên chăm sóc người già là người nhập cư"** ở hầu hết các nước, kể cả Mỹ (trang PDF 80–81): theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), ở Mỹ người nhập cư chiếm khoảng một phần tư lực lượng chăm sóc trực tiếp, nên con số 90% cho Mỹ có thể bị dịch sai hoặc phóng đại.
-> - **Brooke Astor là "nhà từ thiện-nhà xã hội"** (trang PDF 87): chữ "socialite" ở đây nghĩa là người nổi tiếng trong giới thượng lưu, không phải "nhà xã hội" (nhận xét của người tổng hợp).
-> - **Tên sách của Jean Twenge** (trang PDF 92): "Asseertive" là lỗi chữ của "Assertive"; chữ "Entitled" (cho rằng mình đương nhiên xứng đáng được hưởng) bị dịch thành "tự do hơn", làm mất ý phê phán của tựa sách (nhận xét của người tổng hợp).
-> - **Hạt Sumter, Florida "nơi có lượng dân số trung niên cao nhất"** (trang PDF 74): theo hiểu biết của người tổng hợp, ý gốc là hạt có tuổi trung vị cao nhất nước Mỹ (nơi có khu hưu trí The Villages), tức dân số già nhất, không phải "trung niên".
-> - **Millennials Mỹ "vẫn sống chung với bố mẹ đến khi 20 tuổi, hoặc thậm chí… đến 30 tuổi"** (trang PDF 94): nhiều khả năng ý gốc là "đến tận tuổi hai mươi mấy, có người đến ba mươi mấy" (nhận xét của người tổng hợp).
-> - **"Tỷ lệ chi tiêu thứ yếu cao hơn tới 12% so với Mỹ"** ở châu Âu, Canada và Nhật Bản (trang PDF 75): sách không nói rõ là 12 điểm phần trăm hay cao hơn 12% (tương đối).
-> - **"Năm 1980, Mỹ có khoảng 78% người da trắng không thuộc gốc Tây Ban Nha trong độ tuổi từ 15 đến 34, nhưng đến năm 2030 sẽ chỉ còn một nửa"** (trang PDF 98): theo ngữ cảnh, "một nửa" là tỷ lệ khoảng 50% trong nhóm tuổi này, không phải một nửa của 78%.
-> - **"Người gốc Tây Ban Nha"** là cách bản dịch chuyển chữ *Hispanic*, chỉ người Mỹ có gốc từ các nước nói tiếng Tây Ban Nha, phần lớn là Mỹ Latinh (Mexico, Puerto Rico, Cuba…), không phải người từ nước Tây Ban Nha.
-> - **Hai con số sức chi tiêu không mâu thuẫn:** 15 nghìn tỷ USD mỗi năm (trang PDF 67) là ước tính hiện tại; 20.000 tỷ USD (trang PDF 70) là ước tính cho năm 2030. Số người trên 60 tuổi tăng thêm ở Trung Quốc được ghi 113 triệu (trang PDF 69) và "gần 114 triệu" (trang PDF 101), chênh lệch do làm tròn.
-> - **"Thế hệ Im lặng nắm giữ lượng tài sản nhiều gấp 1,3 lần so với Thế hệ bùng nổ dân số"** (trang PDF 64): vì Thế hệ bùng nổ dân số đông hơn nhiều, phép so sánh này nhiều khả năng tính theo bình quân mỗi hộ, không phải tổng tài sản (suy luận của người tổng hợp; sách không nói rõ).
-> - **Lỗi chữ và trích dẫn của ebook:** câu trích Morgan Stanley (trang PDF 63) thiếu dấu ngoặc kép đóng; "từ 25 đến và 34" (trang PDF 96) thừa chữ "và"; "phải thậm chi" (trang PDF 84) là chữ lạ, theo ngữ cảnh nghĩa là phải tiêu dần tiền đã tiết kiệm thay vì để dành thêm; "Milennial" (trang PDF 71) thiếu một chữ "l". Câu "Thật thú vị khi dự đoán rằng: 'Thế hệ Millennials sẽ rất khác…'" (trang PDF 105) không ghi ai là người dự đoán; danh mục nguồn của chương có nhắc bài "What Millennials Already Know About Growing Old" của Laura Carstensen (danh mục ghi "Cartensen"), người đứng đầu Trung tâm Tuổi thọ Stanford, nên đoạn trích nhiều khả năng lấy từ đó (suy luận của người tổng hợp).
-> - **Chú thích của dịch giả:** chú thích số 14 gọi Pefin là "công ty phần mềm (AI) tư vấn tài chính đầu tiên trên thế giới"; đó là cách công ty tự giới thiệu, không phải một sự thật đã được kiểm chứng (theo hiểu biết của người tổng hợp). Chú thích số 19 ("Ở Mỹ, người giàu không sống trong khu vực nội đô chật chội") giải thích vì sao "vùng ven đô" (suburbs) gắn với tầng lớp khá giả ở Mỹ; chú thích này hữu ích cho người đọc Việt Nam, nơi quan hệ giữa nội đô và giàu có thường ngược lại.
-> - **Số liệu đã cũ so với năm 2026:** sách viết năm 2019 dựa trên *World Population Prospects 2019* của Liên Hợp Quốc. Các con số dự báo cho năm 2030 vẫn còn hướng đúng, nhưng các mức cụ thể (tỷ lệ tiết kiệm, nợ sinh viên, số robot Paro…) là số của năm 2014–2019.
+**Guillén cho rằng các công ty và chính trị gia đang dồn sự chú ý vào thế hệ Millennials, trong khi phân khúc tăng nhanh nhất và giàu nhất lại là người trên 60 tuổi, và đến năm 2030 những định nghĩa quen thuộc về "trẻ" và "già" sẽ lỗi thời.**
+
+Đến năm 2030 thế giới sẽ có thêm khoảng 400 triệu người trên 60 tuổi (từ khoảng 1 tỷ lên 1,4 tỷ), chủ yếu ở châu Âu, Bắc Mỹ và Trung Quốc. Nhóm này nắm ít nhất một nửa tài sản ròng toàn cầu, khoảng 80% tài sản của nước Mỹ, có sức chi tiêu ước 15 nghìn tỷ USD mỗi năm hiện nay và khoảng 20 nghìn tỷ USD vào năm 2030. Mỗi ngày trên thế giới có khoảng 210.000 người tròn 60 tuổi.
+
+Thế nhưng 96% người Anh trên 50 tuổi thấy mình bị nhà quảng cáo phớt lờ, và theo Tập đoàn Tư vấn Boston chỉ một trong bảy công ty đã chuẩn bị cho "thị trường 'đầu bạc'".
+
+Chương đi qua các cơ hội ở thiết kế sản phẩm, bán lẻ, thể dục, du lịch, robot chăm sóc (Paro, eXo-Muscle, ElliQ), tài chính (fintech chống lừa đảo người già), thị trường lao động (người cao tuổi đi làm lại, khởi nghiệp) và câu chuyện Philips chuyển sang thiết bị y tế.
+
+Nửa sau chương cho thấy thế hệ Millennials không đồng nhất, tiết kiệm ít, và sẽ già đi theo cách khác cha mẹ họ. Thế hệ Z mang tư tưởng "công dân toàn cầu" nhưng sẽ gánh khủng hoảng lương hưu. Trung Quốc già hóa nhanh nhất với "những người già bị bỏ lại" ở nông thôn.
+
+Thông điệp kết: điều cần hiểu không phải là thế hệ nào đang được xem xét, mà là quan niệm về tuổi già đang thay đổi.
 
 ## Sơ đồ
 
@@ -552,7 +537,9 @@ Guillén bắt đầu bằng thế hệ đang được chú ý nhất: khoảng 
 
 Guillén nói thẳng: đây là quan niệm sai lầm. Lý do thứ nhất là Millennials không đồng nhất, giống mọi thế hệ trước: có người học vấn cao, có người thấp; có người giàu, có người vật lộn kiếm sống; có người thích tiêu dùng, có người ghét thương mại. Truyền thông lại hay khái quát họ bằng những tít giật gân, chẳng hạn: Millennials đang giết dần thói quen hẹn hò ăn tối; đã chính thức bỏ bữa sáng muộn; đang giết chết ngành bia bằng nỗi ám ảnh rượu rosé (một loại rượu vang hồng); đang giết chết ngành khăn ăn; đang giết chết ngành điện ảnh; liệu họ có từ bỏ việc sở hữu nhà; vì sao họ không quan hệ tình dục.
 
-Lý do thứ hai, nền tảng hơn: trái với hiểu biết thông thường, Millennials không phải phân khúc thị trường tăng nhanh nhất thế giới. Phân khúc tăng nhanh nhất là nhóm thường bị các công ty bỏ qua nhưng được các chính trị gia chiều chuộng (vì họ đi bầu nhiều hơn), và nắm ít nhất một nửa tài sản ròng toàn cầu, khoảng 80% tài sản ở Mỹ: những người trên 60 tuổi. Đến năm 2030 thế giới sẽ có thêm 400 triệu người trên 60 tuổi, chủ yếu ở châu Âu, Bắc Mỹ và Trung Quốc. Ở Mỹ, nhóm này gồm Thế hệ bùng nổ dân số và Thế hệ Im lặng; sách mô tả Thế hệ Im lặng là những người lớn lên trong Đại suy thoái, sống sót hoặc chiến đấu trong Thế chiến II, và ghi rằng nhà báo Tom Brokaw gọi họ là "Thế hệ vĩ đại nhất".
+Lý do thứ hai, nền tảng hơn: trái với hiểu biết thông thường, Millennials không phải phân khúc thị trường tăng nhanh nhất thế giới. Phân khúc tăng nhanh nhất là nhóm thường bị các công ty bỏ qua nhưng được các chính trị gia chiều chuộng (vì họ đi bầu nhiều hơn), và nắm ít nhất một nửa tài sản ròng toàn cầu, khoảng 80% tài sản ở Mỹ: những người trên 60 tuổi.
+
+Đến năm 2030 thế giới sẽ có thêm 400 triệu người trên 60 tuổi, chủ yếu ở châu Âu, Bắc Mỹ và Trung Quốc. Ở Mỹ, nhóm này gồm Thế hệ bùng nổ dân số và Thế hệ Im lặng; sách mô tả Thế hệ Im lặng là những người lớn lên trong Đại suy thoái, sống sót hoặc chiến đấu trong Thế chiến II, và ghi rằng nhà báo Tom Brokaw gọi họ là "Thế hệ vĩ đại nhất".
 
 Nhà sử học Mỹ Neil Howe, người đặt ra chính chữ "Millennials", viết trên *Forbes* rằng sự sung túc của người cao tuổi ngày nay chưa từng có trong lịch sử. Ông dẫn dữ liệu của Cục Dự trữ Liên bang Mỹ:
 
@@ -568,11 +555,15 @@ Theo Howe, các nhà tiếp thị đã bắt đầu chú ý tới sức chi tiê
 
 Guillén cho rằng ta đang ở một thời điểm chưa từng có: nhiều thế hệ với quy mô tương đối bằng nhau cùng tồn tại và tranh giành ảnh hưởng. Cần phân biệt các thế hệ vì mỗi thế hệ hành xử theo hoàn cảnh hiện tại của họ và theo hoàn cảnh lúc họ trưởng thành. Ông dẫn tiểu thuyết gia John Dos Passos: xây dựng thế giới quan là công việc của cả một thế hệ, nhưng mỗi người, dù tốt hay xấu, đều góp phần.
 
-Doanh nghiệp đối mặt với hai tầng vấn đề: họ bối rối trước hành vi của người tiêu dùng trẻ, và chưa tìm ra cách tiếp cận người già, những người sống và chi tiêu lâu hơn mọi thế hệ trước (mốc nghỉ hưu quen thuộc 65 tuổi có thể không còn phù hợp). Vấn đề càng phức tạp vì không rõ các thế hệ có điểm chung nào. Linda Bernstein viết trên *Forbes* năm 2016 rằng đang có phong trào đả kích Thế hệ bùng nổ dân số: nhiều người trẻ đổ lỗi cho họ về mọi thứ, từ khủng hoảng tài chính, biến đổi khí hậu đến kinh tế bất ổn. Còn có bất hòa chính trị: người trẻ tiến bộ nghĩ rất khác cha mẹ, ông bà, những người nhiệt tình ủng hộ chính trị gia dân túy, các hình thức chủ nghĩa dân tộc mới và các bức tường ngăn người nhập cư. Khủng hoảng tài chính 2008 còn khiến người ta xem lại niềm tin rằng thế hệ sau luôn khá giả hơn cha mẹ. Các thế hệ chỉ trích nhau là tư lợi và ái kỷ.
+Doanh nghiệp đối mặt với hai tầng vấn đề: họ bối rối trước hành vi của người tiêu dùng trẻ, và chưa tìm ra cách tiếp cận người già, những người sống và chi tiêu lâu hơn mọi thế hệ trước (mốc nghỉ hưu quen thuộc 65 tuổi có thể không còn phù hợp). Vấn đề càng phức tạp vì không rõ các thế hệ có điểm chung nào. Linda Bernstein viết trên *Forbes* năm 2016 rằng đang có phong trào đả kích Thế hệ bùng nổ dân số: nhiều người trẻ đổ lỗi cho họ về mọi thứ, từ khủng hoảng tài chính, biến đổi khí hậu đến kinh tế bất ổn.
+
+Còn có bất hòa chính trị: người trẻ tiến bộ nghĩ rất khác cha mẹ, ông bà, những người nhiệt tình ủng hộ chính trị gia dân túy, các hình thức chủ nghĩa dân tộc mới và các bức tường ngăn người nhập cư. Khủng hoảng tài chính 2008 còn khiến người ta xem lại niềm tin rằng thế hệ sau luôn khá giả hơn cha mẹ. Các thế hệ chỉ trích nhau là tư lợi và ái kỷ.
 
 Đến năm 2030, theo Guillén, quan hệ giữa các thế hệ sẽ mang đặc tính mới và định nghĩa thông thường về "trẻ" và "già" sẽ lỗi thời: không thể gán năng động cho tuổi trẻ và tàn lụi cho tuổi già nữa. Công nghệ sẽ thay đổi hoàn toàn cách xử lý hưu trí và chăm sóc lão khoa. Ông mời người đọc hình dung một thế giới trong đó cha mẹ, ông bà là những người năng động và hiệu quả nhất; Millennials lớn lên trong công nghệ cao làm kinh doanh để phục vụ người trên 60 tuổi; một người 70 tuổi được tuyển dụng là chuyện bình thường. Sức chi tiêu của nhóm trên 60 tuổi, ước khoảng 15 nghìn tỷ USD mỗi năm, sẽ được hiện thực hóa thế nào? Các công dân "đầu bạc" có phải là thế hệ "xanh" mới không?
 
-Để trả lời, Guillén nhắc hai cách hiểu về thế hệ. Nhà xã hội học Đức **Karl Mannheim**, người đầu tiên chỉ ra tầm quan trọng của vấn đề thế hệ (bài luận "Vấn đề các thế hệ", khoảng một thế kỷ trước), định nghĩa thế hệ là nhóm người chung thời gian và không gian, hành xử theo cách riêng suốt đời, tạo nên một đặc trưng tập thể gắn với những trải nghiệm như Đại suy thoái, Thế chiến II, phong trào dân quyền, Internet hay mạng xã hội. Điều này khác với "nhóm tuổi", vốn chỉ là những người sinh trong một khoảng thời gian, ví dụ một thập niên, mà không có đặc điểm chung nào. Thành viên của một thế hệ phát triển cùng một kiểu ý thức nhưng vẫn khác nhau về địa vị kinh tế xã hội hay giá trị văn hóa; Mannheim gọi các nhóm con này là "đơn vị thế hệ". Ví dụ, trong "Thế hệ dân quyền" ở Mỹ có những đơn vị thế hệ khác nhau về quan điểm xã hội, độ gắn bó với chính nghĩa và mức tham gia chính trị.
+Để trả lời, Guillén nhắc hai cách hiểu về thế hệ. Nhà xã hội học Đức **Karl Mannheim**, người đầu tiên chỉ ra tầm quan trọng của vấn đề thế hệ (bài luận "Vấn đề các thế hệ", khoảng một thế kỷ trước), định nghĩa thế hệ là nhóm người chung thời gian và không gian, hành xử theo cách riêng suốt đời, tạo nên một đặc trưng tập thể gắn với những trải nghiệm như Đại suy thoái, Thế chiến II, phong trào dân quyền, Internet hay mạng xã hội. Điều này khác với "nhóm tuổi", vốn chỉ là những người sinh trong một khoảng thời gian, ví dụ một thập niên, mà không có đặc điểm chung nào.
+
+Thành viên của một thế hệ phát triển cùng một kiểu ý thức nhưng vẫn khác nhau về địa vị kinh tế xã hội hay giá trị văn hóa; Mannheim gọi các nhóm con này là "đơn vị thế hệ". Ví dụ, trong "Thế hệ dân quyền" ở Mỹ có những đơn vị thế hệ khác nhau về quan điểm xã hội, độ gắn bó với chính nghĩa và mức tham gia chính trị.
 
 Nhà nhân học, xã hội học Pháp **Pierre Bourdieu** (thập niên 1970) thì không xác định thế hệ theo sự kiện lịch sử mà theo "thiên hướng". Theo ông, mỗi thế hệ có những hành động hoặc nguyện vọng mà họ thấy tự nhiên, hợp lý, nhưng thế hệ khác thấy khó hiểu và bất thường. Nói cách khác, những hành vi làm đều đặn (ông gọi là "thói quen") cộng với quá trình xã hội hóa khiến mỗi thế hệ khác biệt.
 
@@ -615,11 +606,17 @@ Theo Guillén, con số quan trọng nhất với người phân tích tác đ�
 
 (Minh họa của người tổng hợp: 210.000 người mỗi ngày tương đương khoảng 77 triệu người tròn 60 tuổi mỗi năm.)
 
-Hệ thống lương hưu và y tế có chịu nổi không? Guillén thừa nhận lo lắng này hợp lý, nhưng đề nghị nhìn các con số qua lăng kính cơ hội. Năm 2018, *Forbes* gọi dân số già là "điều may mắn cho các doanh nghiệp"; *The Economist* cho rằng người tiêu dùng lớn tuổi sẽ định hình lại bối cảnh kinh doanh. Ta đang ở thời kỳ khởi sắc của "thị trường 'đầu bạc'", nhất là ở các nền kinh tế mới nổi. Thế nhưng Tập đoàn Tư vấn Boston ước chỉ một trong bảy công ty đã chuẩn bị. Điều này dễ hiểu vì bộ phận công nghệ, tiếp thị và bán hàng ở cả công ty lâu đời lẫn công ty khởi nghiệp đều toàn người trẻ, khó đồng cảm để nhìn ra cơ hội. Guillén gọi đó là một sai lầm: thị trường "đầu bạc" ngày nay lớn hơn các thế hệ trước và được ước có sức chi tiêu khoảng 20.000 tỷ USD vào năm 2030.
+Hệ thống lương hưu và y tế có chịu nổi không? Guillén thừa nhận lo lắng này hợp lý, nhưng đề nghị nhìn các con số qua lăng kính cơ hội. Năm 2018, *Forbes* gọi dân số già là "điều may mắn cho các doanh nghiệp"; *The Economist* cho rằng người tiêu dùng lớn tuổi sẽ định hình lại bối cảnh kinh doanh. Ta đang ở thời kỳ khởi sắc của "thị trường 'đầu bạc'", nhất là ở các nền kinh tế mới nổi.
+
+Thế nhưng Tập đoàn Tư vấn Boston ước chỉ một trong bảy công ty đã chuẩn bị. Điều này dễ hiểu vì bộ phận công nghệ, tiếp thị và bán hàng ở cả công ty lâu đời lẫn công ty khởi nghiệp đều toàn người trẻ, khó đồng cảm để nhìn ra cơ hội. Guillén gọi đó là một sai lầm: thị trường "đầu bạc" ngày nay lớn hơn các thế hệ trước và được ước có sức chi tiêu khoảng 20.000 tỷ USD vào năm 2030.
 
 Phục vụ người tiêu dùng "đầu bạc" không dễ. Maria Henke, Phó chủ nhiệm Phân hiệu Lão khoa của Đại học Nam California, nói người cao tuổi là nhóm "khó nhằn": khoác lác chỉ phí thời gian vì họ đã xem quá nhiều quảng cáo. Một người thuộc Thế hệ bùng nổ dân số (sinh 1944–1964) đã chứng kiến mọi cuộc cách mạng quảng cáo, từ tiếng nhạc hiệu trên radio đến chiến dịch lan truyền trên mạng; phản ứng tự nhiên của họ là dửng dưng: "Cái này có thực sự cần không?"
 
-Thách thức còn lớn hơn chuyện chọn cách quảng cáo. Người này già nhanh hơn người kia; nhu cầu và sở thích thay đổi khác nhau; và không phải ai cũng cảm thấy hay suy nghĩ như một người "già". Hatfield nhận xét phần lớn ngành quảng cáo và truyền thông chưa nhận ra rằng tuổi 50 ngày nay không còn là tuổi 50 của cha mẹ chúng ta. Lỗi nằm ở giả định rằng người cùng tuổi nhìn cuộc sống giống nhau. Guillén dẫn câu của Coco Chanel: 40 tuổi có thể không còn trẻ nhưng ta vẫn có thể hấp dẫn ở bất kỳ tuổi nào. Vậy mà, theo Jeff Beer (biên tập viên *Fast Company*), quảng cáo dành cho người lớn tuổi thường hạ thấp họ, thậm chí gây khó chịu. Sarah Rabia, Giám đốc toàn cầu về chiến lược văn hóa của công ty quảng cáo TBWA, đề xuất: hoặc tiếp cận rộng, không theo tuổi mà theo giá trị và điểm chung của khán giả (vì Thế hệ bùng nổ dân số và Millennials có nhiều điểm chung), hoặc tiếp cận thẳng nhóm người già nhưng với giọng lạc quan, hiện đại, tiến bộ. Nadia Tuma, Phó chủ tịch phụ trách nghiên cứu của công ty quảng cáo toàn cầu McCann (bản dịch ghi "McGann"), ghi nhận trong một nghiên cứu rằng đa số mọi người thấy cái đẹp của tuổi già nằm ở thời gian dành cho người xung quanh, một cơ hội kết nối các thế hệ. Bà kết luận rằng những đặc điểm nhân khẩu học quen thuộc lại là rào cản ngăn ta hiểu con người ở tầng sâu hơn.
+Thách thức còn lớn hơn chuyện chọn cách quảng cáo. Người này già nhanh hơn người kia; nhu cầu và sở thích thay đổi khác nhau; và không phải ai cũng cảm thấy hay suy nghĩ như một người "già". Hatfield nhận xét phần lớn ngành quảng cáo và truyền thông chưa nhận ra rằng tuổi 50 ngày nay không còn là tuổi 50 của cha mẹ chúng ta. Lỗi nằm ở giả định rằng người cùng tuổi nhìn cuộc sống giống nhau.
+
+Guillén dẫn câu của Coco Chanel: 40 tuổi có thể không còn trẻ nhưng ta vẫn có thể hấp dẫn ở bất kỳ tuổi nào. Vậy mà, theo Jeff Beer (biên tập viên *Fast Company*), quảng cáo dành cho người lớn tuổi thường hạ thấp họ, thậm chí gây khó chịu.
+
+Sarah Rabia, Giám đốc toàn cầu về chiến lược văn hóa của công ty quảng cáo TBWA, đề xuất: hoặc tiếp cận rộng, không theo tuổi mà theo giá trị và điểm chung của khán giả (vì Thế hệ bùng nổ dân số và Millennials có nhiều điểm chung), hoặc tiếp cận thẳng nhóm người già nhưng với giọng lạc quan, hiện đại, tiến bộ. Nadia Tuma, Phó chủ tịch phụ trách nghiên cứu của công ty quảng cáo toàn cầu McCann (bản dịch ghi "McGann"), ghi nhận trong một nghiên cứu rằng đa số mọi người thấy cái đẹp của tuổi già nằm ở thời gian dành cho người xung quanh, một cơ hội kết nối các thế hệ. Bà kết luận rằng những đặc điểm nhân khẩu học quen thuộc lại là rào cản ngăn ta hiểu con người ở tầng sâu hơn.
 
 Một ví dụ khác về độ khó: **sản phẩm dùng lâu năm** như thiết bị gia dụng, dụng cụ, ô tô được thiết kế để dùng 5, 10, thậm chí 20 năm. Trong thời gian đó người dùng già đi, nhu cầu và khả năng thay đổi, nên chính sản phẩm trở nên lỗi thời với họ. Người già lại không thích thay đồ thường xuyên như người trẻ, nhất là khi phải dành tiền cho lúc nghỉ hưu. Guillén lấy ví dụ máy giặt:
 
@@ -633,7 +630,9 @@ Guillén đưa ra hai cách để sản phẩm theo kịp người dùng già đ
 
 ### 4. Thế hệ "đầu bạc" quan tâm những gì? (trang PDF 73–76)
 
-Cơ hội cho sản phẩm và dịch vụ mới là rất lớn, nhưng phải hiểu người già tiêu tiền thế nào. Ưu tiên số một là **chất lượng cuộc sống**. Theo khảo sát của AARP, đa số người lớn tuổi lạc quan về chất lượng sống tổng thể, gồm tài chính, sức khỏe tinh thần và thể chất, thời gian giải trí, đời sống gia đình; gần 3/4 kỳ vọng chất lượng sống được cải thiện hoặc giữ nguyên (sự lạc quan giảm sau tuổi 70). Quan trọng hơn nữa là khả năng **độc lập, tự chủ, di chuyển và kết nối**. Vấn đề không chỉ là xử lý hậu quả của suy giảm thể chất và nhận thức, mà là chống lại nỗi cô đơn và tiếp tục vui sống. Guillén nhắc bộ phim *Dâu dại* (*Wild Strawberries*, 1957) của đạo diễn Thụy Điển Ingmar Bergman: một bác sĩ 78 tuổi khó tính lái xe hơn 600 km để nhận giải thưởng sự nghiệp, gặp nhiều người trên đường, nhớ lại những chuyện rắc rối, có người đồng hành giúp ông nhìn lại bản thân; chuyến đi phơi bày hết nỗi cô đơn của ông.
+Cơ hội cho sản phẩm và dịch vụ mới là rất lớn, nhưng phải hiểu người già tiêu tiền thế nào. Ưu tiên số một là **chất lượng cuộc sống**. Theo khảo sát của AARP, đa số người lớn tuổi lạc quan về chất lượng sống tổng thể, gồm tài chính, sức khỏe tinh thần và thể chất, thời gian giải trí, đời sống gia đình; gần 3/4 kỳ vọng chất lượng sống được cải thiện hoặc giữ nguyên (sự lạc quan giảm sau tuổi 70). Quan trọng hơn nữa là khả năng **độc lập, tự chủ, di chuyển và kết nối**. Vấn đề không chỉ là xử lý hậu quả của suy giảm thể chất và nhận thức, mà là chống lại nỗi cô đơn và tiếp tục vui sống.
+
+Guillén nhắc bộ phim *Dâu dại* (*Wild Strawberries*, 1957) của đạo diễn Thụy Điển Ingmar Bergman: một bác sĩ 78 tuổi khó tính lái xe hơn 600 km để nhận giải thưởng sự nghiệp, gặp nhiều người trên đường, nhớ lại những chuyện rắc rối, có người đồng hành giúp ông nhìn lại bản thân; chuyến đi phơi bày hết nỗi cô đơn của ông.
 
 Khi thị trường "đầu bạc" lớn lên, y tế, chăm sóc tại nhà, hỗ trợ sinh hoạt và các ngành tương tự sẽ phát triển mạnh vào năm 2030; thư giãn và giải trí cũng có cơ hội lớn. Nhưng theo Guillén, cơ hội hấp dẫn nhất có lẽ là **không gian sống chất lượng cao**, nhờ các giải pháp sáng tạo.
 
@@ -650,7 +649,9 @@ Khi thị trường "đầu bạc" lớn lên, y tế, chăm sóc tại nhà, h�
 
 Guillén kết luận đã đến lúc mở thêm phòng tập ở nơi người cao tuổi sống hoặc muốn sống.
 
-**Mua sắm trực tuyến.** Người ta tranh cãi liệu người già có chuyển sang thương mại điện tử, nhất là khi họ khó đi lại. Theo eMarketer, người Mỹ từ 60 tuổi trở lên chỉ kém các nhóm tuổi khác vài điểm phần trăm về tỷ lệ dùng Amazon Prime để tìm hiểu sản phẩm trước khi mua ở cửa hàng hoặc trên mạng. Tuy nhiên họ không thích mua bằng điện thoại thông minh hay nghe tư vấn sản phẩm qua mạng xã hội. Guillén nói đó không phải vì tụt hậu kỹ thuật số, mà vì họ thích mua ở nơi gần gũi, như cửa hàng nhỏ quanh nhà, nơi được chăm sóc tận tình. Dữ liệu của Nielsen cho thấy người cao tuổi đi cửa hàng, nhất là tạp hóa, thường xuyên hơn hẳn các nhóm tuổi khác. Điều đó không loại trừ kênh khác: thương mại điện tử và cửa hàng truyền thống bổ sung cho nhau, và phần lớn người già nhạy cảm về giá vì phải chi tiêu khoản tiết kiệm một cách khôn ngoan.
+**Mua sắm trực tuyến.** Người ta tranh cãi liệu người già có chuyển sang thương mại điện tử, nhất là khi họ khó đi lại. Theo eMarketer, người Mỹ từ 60 tuổi trở lên chỉ kém các nhóm tuổi khác vài điểm phần trăm về tỷ lệ dùng Amazon Prime để tìm hiểu sản phẩm trước khi mua ở cửa hàng hoặc trên mạng. Tuy nhiên họ không thích mua bằng điện thoại thông minh hay nghe tư vấn sản phẩm qua mạng xã hội.
+
+Guillén nói đó không phải vì tụt hậu kỹ thuật số, mà vì họ thích mua ở nơi gần gũi, như cửa hàng nhỏ quanh nhà, nơi được chăm sóc tận tình. Dữ liệu của Nielsen cho thấy người cao tuổi đi cửa hàng, nhất là tạp hóa, thường xuyên hơn hẳn các nhóm tuổi khác. Điều đó không loại trừ kênh khác: thương mại điện tử và cửa hàng truyền thống bổ sung cho nhau, và phần lớn người già nhạy cảm về giá vì phải chi tiêu khoản tiết kiệm một cách khôn ngoan.
 
 **Chi tiêu tùy ý.** Đây là khoản chi ngoài nhu cầu thiết yếu (nhà ở, thực phẩm, tiện ích, y tế, đi lại, giáo dục). Số liệu (theo báo cáo *The Silver Wave* của Fung Global Retail and Technology, 2016):
 
@@ -665,7 +666,9 @@ Guillén kết luận đã đến lúc mở thêm phòng tập ở nơi người
 
 Nói cách khác, mức bảo hiểm y tế quyết định chi tiêu không thiết yếu.
 
-**Giải trí và du lịch.** Người ta hay nghĩ người già chi cho giải trí nhiều hơn vì rảnh hơn. Thực tế chưa chắc: càng khỏe họ càng tham gia các hoạt động như đi làm (ít nhất bán thời gian), nhận việc trong nền kinh tế làm việc tự do theo hợp đồng, hay làm tình nguyện. "Giải trí" lại quá đa dạng nên khó thấy xu hướng. Người cao tuổi dành nhiều thời gian xem TV, đọc sách, thư giãn hay suy ngẫm hơn người 40–50 tuổi. Với giải trí có trả phí, người già ngày nay sẵn lòng chi cho du lịch hơn thế hệ trước vì khỏe hơn. Chi tiêu du lịch của người cao tuổi ở châu Âu, Trung Quốc và Nhật Bản cao hơn ở Mỹ, nghĩa là thị trường Mỹ còn nhiều tiềm năng nếu chi phí y tế không đổi. Và vì nhiều người già thích đi quãng ngắn, nhu cầu của họ chủ yếu tạo việc làm trong nước.
+**Giải trí và du lịch.** Người ta hay nghĩ người già chi cho giải trí nhiều hơn vì rảnh hơn. Thực tế chưa chắc: càng khỏe họ càng tham gia các hoạt động như đi làm (ít nhất bán thời gian), nhận việc trong nền kinh tế làm việc tự do theo hợp đồng, hay làm tình nguyện. "Giải trí" lại quá đa dạng nên khó thấy xu hướng. Người cao tuổi dành nhiều thời gian xem TV, đọc sách, thư giãn hay suy ngẫm hơn người 40–50 tuổi.
+
+Với giải trí có trả phí, người già ngày nay sẵn lòng chi cho du lịch hơn thế hệ trước vì khỏe hơn. Chi tiêu du lịch của người cao tuổi ở châu Âu, Trung Quốc và Nhật Bản cao hơn ở Mỹ, nghĩa là thị trường Mỹ còn nhiều tiềm năng nếu chi phí y tế không đổi. Và vì nhiều người già thích đi quãng ngắn, nhu cầu của họ chủ yếu tạo việc làm trong nước.
 
 ### 5. Vận may ở đỉnh tháp dân số (trang PDF 77–78)
 
@@ -691,11 +694,15 @@ Jennifer Jolly, cộng tác viên *USA Today*, kể mẹ cô mới nghỉ hưu �
 
 Câu "công nghệ thay đổi mọi thứ" chắc chắn đúng khi ta già đi. Đột phá trong y học, dinh dưỡng, công nghệ sinh học giúp ngày càng nhiều người sống lâu hơn. Guillén dự báo: **đến năm 2030, người 70 tuổi trung bình sẽ sống như người 50 tuổi trung bình hiện nay.** Thực tế ảo, trí tuệ nhân tạo, công nghệ nano thường được cho là phục vụ người trẻ, nhưng nhiều phát minh đột phá và hữu ích nhất hiện nay lại dựa trên nhu cầu của người trên 60 tuổi.
 
-**Rendever** là công ty khởi nghiệp làm ứng dụng thực tế ảo (VR) giúp người già bớt cô đơn. Đồng sáng lập kiêm CEO Kyle Rand nói công ty làm sản phẩm VR cho cư dân cao tuổi không còn tự đi khám phá thế giới được: chỉ cần đeo kính là có thể tới bất cứ đâu, đang chơi bingo hay làm thủ công thì bỗng đứng trên đỉnh tháp Eiffel. Cô đơn làm suy giảm nhận thức nhanh hơn, tăng huyết áp và ảnh hưởng các bệnh khác. Để chống lại, Rendever tạo trải nghiệm mang tính xã hội: trong một cộng đồng người cao tuổi, sáu cư dân cùng đeo kính và cùng trải nghiệm một cảnh, mạng kết nối cho họ cảm giác đang trải nghiệm cùng nhau. Công ty cũng dùng "liệu pháp hồi tưởng": đưa người già trở lại những nơi gắn với sự kiện ý nghĩa thời trẻ, có tác dụng xoa dịu rất cao.
+**Rendever** là công ty khởi nghiệp làm ứng dụng thực tế ảo (VR) giúp người già bớt cô đơn. Đồng sáng lập kiêm CEO Kyle Rand nói công ty làm sản phẩm VR cho cư dân cao tuổi không còn tự đi khám phá thế giới được: chỉ cần đeo kính là có thể tới bất cứ đâu, đang chơi bingo hay làm thủ công thì bỗng đứng trên đỉnh tháp Eiffel.
+
+Cô đơn làm suy giảm nhận thức nhanh hơn, tăng huyết áp và ảnh hưởng các bệnh khác. Để chống lại, Rendever tạo trải nghiệm mang tính xã hội: trong một cộng đồng người cao tuổi, sáu cư dân cùng đeo kính và cùng trải nghiệm một cảnh, mạng kết nối cho họ cảm giác đang trải nghiệm cùng nhau. Công ty cũng dùng "liệu pháp hồi tưởng": đưa người già trở lại những nơi gắn với sự kiện ý nghĩa thời trẻ, có tác dụng xoa dịu rất cao.
 
 **Khung xương trợ lực** (exoskeleton; sách ví như "Người Sắt nhưng dành cho ông bà") giúp leo cầu thang, nâng túi đồ, dọn giường, hay phục hồi sau mổ hông. Người già quan tâm chất lượng sống và muốn tự chủ chứ không phụ thuộc. Công ty khởi nghiệp Nhật **Innophys** đã bán cả nghìn bộ **eXo-Muscle**, thiết bị đỡ lưng giúp nâng vật nặng như túi đồ hay vali, giá từ khoảng 6.000 USD. CEO Takashi Fujimoto nói phần cốt lõi của khung xương trợ lực là hệ thống điều khiển: thiết bị phải biết khi nào bắt đầu chuyển động. Một số công ty đang làm cảm biến đọc tín hiệu thần kinh để theo dõi chuyển động cơ bắp.
 
-**Robot chăm sóc ở Nhật Bản.** Nhật dẫn đầu thế giới về robot cho người già vì là một trong những thị trường "đầu bạc" lớn nhất cả về số tuyệt đối lẫn tỷ lệ, người chăm sóc giá hợp lý khó tìm, và nước này thiếu lao động nhập cư. Sách viết rằng ở hầu hết các nước, kể cả Mỹ, khoảng 90% nhân viên chăm sóc người già là người nhập cư (xem khối Lưu ý). Đến năm 2025, Nhật sẽ cần thêm 1.000.000 y tá mà hiện đang thiếu. Liệu robot có lấp được khoảng trống? Toyota đang làm các mẫu "robot hỗ trợ con người" để lấy thuốc, mang nước, kéo rèm theo lệnh giọng nói. **Robot hải cẩu Paro** giúp bệnh nhân nằm liệt giường dễ chịu hơn, giảm lo âu và trầm cảm, và hạn chế người mất trí nhớ đi lang thang ra khỏi khu vực theo dõi; Paro được dùng ở 30 nước và có mặt ở 80% viện dưỡng lão Đan Mạch. Vì sao lại là hải cẩu mà không phải chó, mèo? Nhà phát minh, tiến sĩ Takanori Shibata, giải thích: bệnh nhân sẽ so robot chó, mèo với con vật thật và kỳ vọng quá cao; người thích chó không thích robot mèo và ngược lại; còn với hải cẩu, đa số người không có gì để so sánh.
+**Robot chăm sóc ở Nhật Bản.** Nhật dẫn đầu thế giới về robot cho người già vì là một trong những thị trường "đầu bạc" lớn nhất cả về số tuyệt đối lẫn tỷ lệ, người chăm sóc giá hợp lý khó tìm, và nước này thiếu lao động nhập cư. Sách viết rằng ở hầu hết các nước, kể cả Mỹ, khoảng 90% nhân viên chăm sóc người già là người nhập cư (xem mục Lưu ý cuối chương). Đến năm 2025, Nhật sẽ cần thêm 1.000.000 y tá mà hiện đang thiếu. Liệu robot có lấp được khoảng trống? Toyota đang làm các mẫu "robot hỗ trợ con người" để lấy thuốc, mang nước, kéo rèm theo lệnh giọng nói.
+
+**Robot hải cẩu Paro** giúp bệnh nhân nằm liệt giường dễ chịu hơn, giảm lo âu và trầm cảm, và hạn chế người mất trí nhớ đi lang thang ra khỏi khu vực theo dõi; Paro được dùng ở 30 nước và có mặt ở 80% viện dưỡng lão Đan Mạch. Vì sao lại là hải cẩu mà không phải chó, mèo? Nhà phát minh, tiến sĩ Takanori Shibata, giải thích: bệnh nhân sẽ so robot chó, mèo với con vật thật và kỳ vọng quá cao; người thích chó không thích robot mèo và ngược lại; còn với hải cẩu, đa số người không có gì để so sánh.
 
 **Ở Mỹ**, tuy chậm hơn Nhật về robot cho người già, cũng có nhiều nỗ lực. **Brookdale Senior Living**, mạng lưới cộng đồng người cao tuổi lớn nhất với hơn 100.000 cư dân, dùng trợ lý kỹ thuật số điều khiển bằng giọng nói, đặc biệt hữu ích cho người bị viêm khớp hay thoái hóa điểm vàng. Robot **ElliQ** khuyến khích người già chơi trò chơi trực tuyến, gọi video, xem TED Talk và tham gia hoạt động xã hội; người tương tác nhiều với robot có vẻ ít trầm cảm và hoạt bát hơn. Brookdale gọi sáng kiến này là "robot với cánh tay rộng mở".
 
@@ -719,15 +726,21 @@ Bên cạnh y tế, bán lẻ và robot, tài chính là một trong những ph�
 
 Thói quen tiêu dùng cũng đổi: người già không đổi xe, đồ gia dụng, thậm chí không muốn mua nhà, nếu có thì chuyển sang nhà nhỏ hơn. Vì vậy không bất ngờ khi thị trường chứng khoán phản ánh thay đổi nhân khẩu học. Guillén dự báo đến năm 2030, khi dân số thế giới già đi, giá cổ phiếu so với lợi nhuận nhiều khả năng sẽ không cao như trước. Nhưng nếu ta thay đổi cách nghĩ về lão hóa và tận dụng các lợi thế đi kèm, mối liên hệ này có thể trở nên có lợi.
 
-**Ngân hàng.** Ảnh hưởng của già hóa lên ngân hàng khá lớn. Nhu cầu vay thế chấp và tín dụng tiêu dùng có thể giảm; người già muốn sản phẩm ít rủi ro mà vẫn làm tăng tiền tiết kiệm. Họ cũng muốn có thêm thu nhập từ căn nhà, ví dụ qua Airbnb (Chương 7 bàn tiếp). Ở nhiều nơi, ngân hàng cung cấp **"thế chấp ngược"**: chủ nhà cho ngân hàng quyền sở hữu căn nhà sau khi họ qua đời, đổi lại nhận một khoản tiền lớn lúc bắt đầu hoặc chia thành các khoản hàng tháng, trong khi vẫn được ở trong nhà. Ngân hàng truyền thống đang chịu áp lực lấy lại niềm tin, kết hợp công nghệ và đưa ra sản phẩm sáng tạo. Già hóa còn đặt thêm một thách thức: tỷ lệ tiết kiệm giảm vì đến một độ tuổi người ta phải tiêu dần tiền tiết kiệm thay vì để dành thêm, trong khi tiền gửi của khách là nguồn vốn rẻ nhất của ngân hàng truyền thống. Kết quả là người đi vay có thể phải trả lãi cao hơn.
+**Ngân hàng.** Ảnh hưởng của già hóa lên ngân hàng khá lớn. Nhu cầu vay thế chấp và tín dụng tiêu dùng có thể giảm; người già muốn sản phẩm ít rủi ro mà vẫn làm tăng tiền tiết kiệm. Họ cũng muốn có thêm thu nhập từ căn nhà, ví dụ qua Airbnb (Chương 7 bàn tiếp). Ở nhiều nơi, ngân hàng cung cấp **"thế chấp ngược"**: chủ nhà cho ngân hàng quyền sở hữu căn nhà sau khi họ qua đời, đổi lại nhận một khoản tiền lớn lúc bắt đầu hoặc chia thành các khoản hàng tháng, trong khi vẫn được ở trong nhà.
+
+Ngân hàng truyền thống đang chịu áp lực lấy lại niềm tin, kết hợp công nghệ và đưa ra sản phẩm sáng tạo. Già hóa còn đặt thêm một thách thức: tỷ lệ tiết kiệm giảm vì đến một độ tuổi người ta phải tiêu dần tiền tiết kiệm thay vì để dành thêm, trong khi tiền gửi của khách là nguồn vốn rẻ nhất của ngân hàng truyền thống. Kết quả là người đi vay có thể phải trả lãi cao hơn.
 
 Mặt tích cực: dân số già cần nhiều dịch vụ tư vấn, quản lý tài sản, sản phẩm trả góp và các sản phẩm khác. Nhưng ngân hàng không độc quyền những sản phẩm sinh lời cao này; nhiều công ty môi giới và công ty khởi nghiệp **fintech** đang cạnh tranh để phục vụ thị trường "đầu bạc". Theodora Lau, người sáng lập Unconventional Ventures, từng là giám đốc đổi mới thị trường của AARP, cho rằng fintech cần làm giải pháp công nghệ không chỉ cho người 18–35 tuổi mà cho mọi lứa tuổi, và trọng tâm chiến lược là xây một hệ sinh thái hỗ trợ người già và người chăm sóc họ.
 
 Ba công ty fintech minh họa (theo bài "6 Fintechs Targeting Seniors and Their Families" trên *American Banker*, 2018):
 
-**Onist.** Fintech giúp giải quyết chuyện khi người nắm tài chính trong gia đình mất khả năng hoặc qua đời. *American Banker* hỏi: 40 triệu phụ nữ Mỹ góa chồng, không biết gì về tài chính, sẽ làm thế nào khi người chồng không còn để quản lý tiền? Brad Kotansky gặp đúng chuyện này khi cha mất: ông mất ba năm để sắp xếp lại một đống giấy tờ tích lũy hơn 80 năm, và bước đầu tiên là nói chuyện với mẹ, người chưa từng can dự vào tài chính gia đình. Năm 2017, ông lập Onist, ứng dụng giúp các thành viên gia đình và các bên liên quan chia sẻ thông tin và tài liệu tài chính như di chúc, giấy ủy quyền luật sư, danh sách bất động sản, để giải quyết việc tài chính sau khi người thân qua đời. Phần mềm được bán cho ngân hàng và tổ chức tài chính.
+**Onist.** Fintech giúp giải quyết chuyện khi người nắm tài chính trong gia đình mất khả năng hoặc qua đời. *American Banker* hỏi: 40 triệu phụ nữ Mỹ góa chồng, không biết gì về tài chính, sẽ làm thế nào khi người chồng không còn để quản lý tiền? Brad Kotansky gặp đúng chuyện này khi cha mất: ông mất ba năm để sắp xếp lại một đống giấy tờ tích lũy hơn 80 năm, và bước đầu tiên là nói chuyện với mẹ, người chưa từng can dự vào tài chính gia đình.
 
-**Pefin.** Một tình huống phổ biến khác: nhân viên lớn tuổi mất việc khi chưa chuẩn bị tài chính cho nghỉ hưu. Thủ tục nhận an sinh xã hội và bảo hiểm y tế nhọc nhằn, khó lập kế hoạch tài chính trong thế bị ép, và lòng tự trọng sụt giảm vì mất việc. Ramya Joseph lập Pefin khi cha cô mất việc (dịch giả chú thích Pefin là "công ty phần mềm (AI) tư vấn tài chính đầu tiên trên thế giới"). Dựa trên dữ liệu lớn, trí tuệ nhân tạo tự động lập kế hoạch, tư vấn tài chính và lựa chọn đầu tư cho từng người trong 5.000 khách hàng. CEO Catherine Flax nói người ta có tiền nhưng vẫn cần lời khuyên để dùng tiền đạt điều quan trọng nhất đời, ví dụ: kiếm được tiền thì nên gửi tiết kiệm, trả nợ hay bỏ vào quỹ hưu 401(k) (tài khoản hưu trí do chủ lao động tài trợ ở Mỹ)? Công ty cũng bán phần mềm cho các quỹ hưu lớn.
+Năm 2017, ông lập Onist, ứng dụng giúp các thành viên gia đình và các bên liên quan chia sẻ thông tin và tài liệu tài chính như di chúc, giấy ủy quyền luật sư, danh sách bất động sản, để giải quyết việc tài chính sau khi người thân qua đời. Phần mềm được bán cho ngân hàng và tổ chức tài chính.
+
+**Pefin.** Một tình huống phổ biến khác: nhân viên lớn tuổi mất việc khi chưa chuẩn bị tài chính cho nghỉ hưu. Thủ tục nhận an sinh xã hội và bảo hiểm y tế nhọc nhằn, khó lập kế hoạch tài chính trong thế bị ép, và lòng tự trọng sụt giảm vì mất việc. Ramya Joseph lập Pefin khi cha cô mất việc (dịch giả chú thích Pefin là "công ty phần mềm (AI) tư vấn tài chính đầu tiên trên thế giới"). Dựa trên dữ liệu lớn, trí tuệ nhân tạo tự động lập kế hoạch, tư vấn tài chính và lựa chọn đầu tư cho từng người trong 5.000 khách hàng.
+
+CEO Catherine Flax nói người ta có tiền nhưng vẫn cần lời khuyên để dùng tiền đạt điều quan trọng nhất đời, ví dụ: kiếm được tiền thì nên gửi tiết kiệm, trả nợ hay bỏ vào quỹ hưu 401(k) (tài khoản hưu trí do chủ lao động tài trợ ở Mỹ)? Công ty cũng bán phần mềm cho các quỹ hưu lớn.
 
 **Tội phạm tài chính với người già.** Guillén cho đây có lẽ là một trong những vấn đề quan trọng nhất cho tương lai. Đáng báo động là thủ phạm thường chính là người thân, bạn bè, hàng xóm, người chăm sóc, luật sư, nhân viên ngân hàng hay lãnh đạo cộng đồng tôn giáo; cho vay nặng lãi và đánh cắp danh tính cũng lan tràn. Số liệu ở Mỹ:
 
@@ -739,19 +752,29 @@ Ba công ty fintech minh họa (theo bài "6 Fintechs Targeting Seniors and Thei
 
 Công nghệ có thể giúp mọi lứa tuổi theo dõi thu nhập, chi tiêu, tiết kiệm và tài sản, nhưng cũng có thể làm vấn đề tệ hơn vì tội phạm tài chính trên mạng khó kiểm soát; cần một giải pháp toàn diện, chẳng hạn một robot được lập trình để chăm sóc mà không bao giờ ăn cắp của người nó chăm sóc.
 
-**EverSafe.** Howard Tischler, đồng sáng lập kiêm CEO EverSafe (theo chú thích của dịch giả, một công ty phần mềm về an toàn tài chính), kể mẹ ông là kế toán nên không phải không rành tài chính, nhưng bà không biết luật: bà thuê một người trả hóa đơn hộ, và người này hàng tuần tự viết séc rút tiền cho mình, đến khi bà mất sạch tiền tiết kiệm cả đời. Ông chỉ biết mẹ bị lợi dụng khi bà được chẩn đoán mắc bệnh Alzheimer. Đồng sáng lập còn lại, Liz Loewy, từng phụ trách bộ phận chống lừa đảo người cao tuổi của Văn phòng Công tố quận Manhattan. Một vụ nổi bật bà truy tố là Anthony D. Marshall, con trai duy nhất của nhà từ thiện, nhân vật giới thượng lưu Brooke Astor. Ông này đi tù hai tháng vì ăn cắp hàng triệu USD của mẹ; động cơ là ông biết phần thừa kế sẽ bị cắt một nửa, chỉ còn 14,5 triệu USD, quá nhỏ so với tài sản 100 triệu USD của bà. Bà Astor không thể tự bảo vệ vì bệnh Alzheimer đã lấy mất trí nhớ. EverSafe dùng máy học để phát hiện thay đổi bất thường trong hành vi tài chính có thể do bên thứ ba lạm dụng. Theo Tischler, ý tưởng là cảnh báo người dùng, người thân hoặc chuyên gia về hoạt động đáng ngờ trước khi mọi việc xấu đi; công ty kết hợp các quy luật mà Loewy rút ra khi truy tố tội phạm tài chính với quan sát của thuật toán, và gửi cảnh báo khi, ví dụ, tiền an sinh xã hội hay lương hưu bị gián đoạn, chi tiêu thay đổi, có hoạt động đầu tư bất thường hay tài khoản bị mở trái phép.
+**EverSafe.** Howard Tischler, đồng sáng lập kiêm CEO EverSafe (theo chú thích của dịch giả, một công ty phần mềm về an toàn tài chính), kể mẹ ông là kế toán nên không phải không rành tài chính, nhưng bà không biết luật: bà thuê một người trả hóa đơn hộ, và người này hàng tuần tự viết séc rút tiền cho mình, đến khi bà mất sạch tiền tiết kiệm cả đời. Ông chỉ biết mẹ bị lợi dụng khi bà được chẩn đoán mắc bệnh Alzheimer.
+
+Đồng sáng lập còn lại, Liz Loewy, từng phụ trách bộ phận chống lừa đảo người cao tuổi của Văn phòng Công tố quận Manhattan. Một vụ nổi bật bà truy tố là Anthony D. Marshall, con trai duy nhất của nhà từ thiện, nhân vật giới thượng lưu Brooke Astor. Ông này đi tù hai tháng vì ăn cắp hàng triệu USD của mẹ; động cơ là ông biết phần thừa kế sẽ bị cắt một nửa, chỉ còn 14,5 triệu USD, quá nhỏ so với tài sản 100 triệu USD của bà. Bà Astor không thể tự bảo vệ vì bệnh Alzheimer đã lấy mất trí nhớ.
+
+EverSafe dùng máy học để phát hiện thay đổi bất thường trong hành vi tài chính có thể do bên thứ ba lạm dụng. Theo Tischler, ý tưởng là cảnh báo người dùng, người thân hoặc chuyên gia về hoạt động đáng ngờ trước khi mọi việc xấu đi; công ty kết hợp các quy luật mà Loewy rút ra khi truy tố tội phạm tài chính với quan sát của thuật toán, và gửi cảnh báo khi, ví dụ, tiền an sinh xã hội hay lương hưu bị gián đoạn, chi tiêu thay đổi, có hoạt động đầu tư bất thường hay tài khoản bị mở trái phép.
 
 ### 8. Thị trường lao động "đầu bạc" (trang PDF 89–91)
 
 Trong phim *Bố già học việc* (*The Intern*, 2015), Ben Whittaker (Robert De Niro), 70 tuổi, góa vợ, hỏi mình sẽ sống những ngày còn lại thế nào: chơi golf, đọc sách, xem phim, chơi bài pinochle; đã thử yoga, học nấu ăn, trồng cây, học tiếng Quan thoại; nói thật là đã thử mọi thứ. Cuối cùng ông vào làm ở một công ty khởi nghiệp thời trang trực tuyến ở Brooklyn qua chương trình tuyển thực tập sinh lớn tuổi của người sáng lập kiêm CEO Jules Ostin (Anne Hathaway), và sau nhiều biến cố trở thành người cố vấn, bạn tâm giao thân nhất của cô.
 
-Guillén hỏi: ta lãng phí bao nhiêu tài năng nếu không dùng kinh nghiệm của thế hệ "đầu bạc" khi họ ngày càng đông? Ông kể lại nguồn gốc của nghỉ hưu: khi chính khách Phổ **Otto von Bismarck** lập chương trình bảo hiểm xã hội đầu tiên cho người già, ông muốn "thuần hóa" tầng lớp lao động bằng cách cho họ một điều để mong đợi. Đó là một trong những phát minh lớn cuối thế kỷ 19, cùng điện thoại, động cơ đốt trong và sợi nhân tạo, góp phần cách mạng hóa xã hội hiện đại. Cùng với giáo dục phổ cập (một đổi mới khác của thế kỷ 19), chế độ hưu trí chia đời người thành ba giai đoạn: học tập, làm việc và nghỉ ngơi. Đó không còn là lựa chọn cá nhân: chính phủ quy định bạn làm gì ở tuổi nào, và chuẩn mực xã hội củng cố cách chia đó. Chính phủ, pháp luật và văn hóa chủ đạo khiến ta tin rằng sau một độ tuổi, ta không còn đóng góp được nhiều; người trên 65 tuổi (hoặc một mốc khác) bị coi là dân số "thụ động", không phải "người cho" cũng chẳng phải "người nhận".
+Guillén hỏi: ta lãng phí bao nhiêu tài năng nếu không dùng kinh nghiệm của thế hệ "đầu bạc" khi họ ngày càng đông? Ông kể lại nguồn gốc của nghỉ hưu: khi chính khách Phổ **Otto von Bismarck** lập chương trình bảo hiểm xã hội đầu tiên cho người già, ông muốn "thuần hóa" tầng lớp lao động bằng cách cho họ một điều để mong đợi. Đó là một trong những phát minh lớn cuối thế kỷ 19, cùng điện thoại, động cơ đốt trong và sợi nhân tạo, góp phần cách mạng hóa xã hội hiện đại.
 
-Nhưng tuổi thọ tăng: đến năm 2030, người 60 tuổi trung bình có thể sống thêm 22 năm, ở các nước phát triển là 25 năm. Đã đến lúc xem lại điều từng coi là hiển nhiên. Catherine Collinson, CEO Trung tâm Nghiên cứu Hưu trí Transamerica, nói mong muốn đi làm một phần do nhu cầu tài chính, nhưng trên hết là muốn tiếp tục hòa nhập với thế giới. Các công ty cũng nhận ra mất mát khi nhân viên có kinh nghiệm nghỉ hưu: Susan Weinstock, Phó chủ tịch AARP, nói khi Thế hệ bùng nổ dân số về hưu, kiến thức nội bộ (theo chú thích của dịch giả: kinh nghiệm, chuyên môn, dữ liệu, quy trình, thông tin và giá trị mà nhân viên tích lũy khi làm cho công ty) cũng ra đi, trong khi người lao động kỳ cựu mang lại giá trị lớn cho chủ. Boeing, Michelin và UPS đã mời người vừa nghỉ hưu quay lại làm trong mùa cao điểm.
+Cùng với giáo dục phổ cập (một đổi mới khác của thế kỷ 19), chế độ hưu trí chia đời người thành ba giai đoạn: học tập, làm việc và nghỉ ngơi. Đó không còn là lựa chọn cá nhân: chính phủ quy định bạn làm gì ở tuổi nào, và chuẩn mực xã hội củng cố cách chia đó. Chính phủ, pháp luật và văn hóa chủ đạo khiến ta tin rằng sau một độ tuổi, ta không còn đóng góp được nhiều; người trên 65 tuổi (hoặc một mốc khác) bị coi là dân số "thụ động", không phải "người cho" cũng chẳng phải "người nhận".
+
+Nhưng tuổi thọ tăng: đến năm 2030, người 60 tuổi trung bình có thể sống thêm 22 năm, ở các nước phát triển là 25 năm. Đã đến lúc xem lại điều từng coi là hiển nhiên. Catherine Collinson, CEO Trung tâm Nghiên cứu Hưu trí Transamerica, nói mong muốn đi làm một phần do nhu cầu tài chính, nhưng trên hết là muốn tiếp tục hòa nhập với thế giới.
+
+Các công ty cũng nhận ra mất mát khi nhân viên có kinh nghiệm nghỉ hưu: Susan Weinstock, Phó chủ tịch AARP, nói khi Thế hệ bùng nổ dân số về hưu, kiến thức nội bộ (theo chú thích của dịch giả: kinh nghiệm, chuyên môn, dữ liệu, quy trình, thông tin và giá trị mà nhân viên tích lũy khi làm cho công ty) cũng ra đi, trong khi người lao động kỳ cựu mang lại giá trị lớn cho chủ. Boeing, Michelin và UPS đã mời người vừa nghỉ hưu quay lại làm trong mùa cao điểm.
 
 Còn những lợi ích tiềm năng khác. Nghiên cứu cho thấy đa dạng giới tính hay sắc tộc có thể làm giảm sự gắn kết và hiệu suất nhóm nhưng tăng sáng tạo và khả năng giải quyết vấn đề không theo lối mòn. Tác động của đa dạng tuổi tác chưa rõ, nhưng một số báo cáo cho thấy nhóm nhiều lứa tuổi sáng tạo hơn: hãng ô tô Đức **BMW** thấy nhóm nhiều thế hệ làm tốt hơn trong việc tạo ý tưởng và giải quyết vấn đề. Chuyên gia Helen Dennis giải thích nhóm đa thế hệ có cái nhìn đa chiều; càng nhiều ý tưởng càng dễ đạt mục tiêu. *The Intern* minh họa sự hợp tác đó, kèm những tiếng cười.
 
-Nhưng Guillén cũng chỉ ra **hậu quả ngoài ý muốn**. Việc người già tiếp tục đi làm có thể khiến chính phủ ở châu Âu và Mỹ càng miễn cưỡng chăm lo an sinh cho người ở một độ tuổi nhất định. Câu chuyện về sức chi tiêu tùy ý của thế hệ "đầu bạc", "thế hệ 'xanh' mới", đã khiến các chính trị gia nghĩ người cao tuổi có thể sống tốt mà không cần nhà nước. Cụ thể, khó khăn ngân sách, hệ tư tưởng tự lực và sức chi tiêu của một bộ phận lớn người già đã làm nảy sinh ý nghĩ rằng lương hưu nhà nước không thể và không nên là nguồn sống duy nhất. Nhiều chính trị gia cho rằng người già nên tự chịu trách nhiệm về đời mình hơn các thập niên trước, bằng cách tạo thu nhập thêm như cho thuê phòng trống hay lái Uber (Chương 7 bàn tiếp). Khi số người trên 60 tuổi tăng, đây chắc chắn sẽ là chủ đề tranh luận nóng, nhất là khi những nhóm người nộp thuế trẻ hơn và ít hơn, Millennials và thế hệ Z (theo chú thích của dịch giả, những người sinh sau năm 2000), can thiệp bằng lá phiếu.
+Nhưng Guillén cũng chỉ ra **hậu quả ngoài ý muốn**. Việc người già tiếp tục đi làm có thể khiến chính phủ ở châu Âu và Mỹ càng miễn cưỡng chăm lo an sinh cho người ở một độ tuổi nhất định. Câu chuyện về sức chi tiêu tùy ý của thế hệ "đầu bạc", "thế hệ 'xanh' mới", đã khiến các chính trị gia nghĩ người cao tuổi có thể sống tốt mà không cần nhà nước. Cụ thể, khó khăn ngân sách, hệ tư tưởng tự lực và sức chi tiêu của một bộ phận lớn người già đã làm nảy sinh ý nghĩ rằng lương hưu nhà nước không thể và không nên là nguồn sống duy nhất.
+
+Nhiều chính trị gia cho rằng người già nên tự chịu trách nhiệm về đời mình hơn các thập niên trước, bằng cách tạo thu nhập thêm như cho thuê phòng trống hay lái Uber (Chương 7 bàn tiếp). Khi số người trên 60 tuổi tăng, đây chắc chắn sẽ là chủ đề tranh luận nóng, nhất là khi những nhóm người nộp thuế trẻ hơn và ít hơn, Millennials và thế hệ Z (theo chú thích của dịch giả, những người sinh sau năm 2000), can thiệp bằng lá phiếu.
 
 ### 9. Và thế hệ Millennials cũng sẽ già đi (trang PDF 92–97)
 
@@ -769,7 +792,9 @@ Hầu như không Millennials nào mua đĩa CD, chưa nói băng cassette hay �
 | William Strauss và Neil Howe (tác giả phân tích đầu tiên về Millennials) | Thế hệ này quan tâm người khác như Thế hệ Im lặng; đặc trưng: được bao bọc, tự tin, thích làm nhóm, theo khuôn phép, chịu áp lực, chú trọng thành quả |
 | David Burstein | Millennials theo "chủ nghĩa thực dụng": dùng công cụ thực tế để làm thế giới tốt hơn, không cần giải pháp cấp tiến hay cách mạng; điều này có lẽ giải thích vì sao phong trào Occupy Wall Street (theo chú thích của dịch giả, nổ ra ở Phố Wall, New York, tháng 9/2011, phản đối bất công kinh tế và xã hội) chỉ ngắn và nhỏ |
 
-Guillén cho rằng các nhận định này, khen hay chê, đều phiến diện vì chỉ đúng với nhóm mà nhà báo Eric Hoover mô tả là thiếu niên và thanh niên "da trắng, giàu có", lớn lên ở vùng ven đô (dịch giả chú thích: ở Mỹ, người giàu không sống trong khu nội đô chật chội), phải lo nộp đơn vào các trường đại học siêu khó và làm nhiều việc một lúc vì bị cha mẹ kiểm soát gắt gao. Millennials có nền tảng kinh tế xã hội kém may mắn hơn chắc chắn có thái độ và hành vi rất khác. Jia Tolentino viết trên *The New Yorker* rằng Millennials Mỹ là thế hệ đầu tiên chỉ có cơ hội 50-50 giàu hơn cha mẹ. Tương lai của họ không được đảm bảo trong một kinh tế toàn cầu cạnh tranh; việc tâng bốc bản ngã của họ như nhiều nhà tiếp thị đã làm còn gây hại cho triển vọng kinh tế của họ.
+Guillén cho rằng các nhận định này, khen hay chê, đều phiến diện vì chỉ đúng với nhóm mà nhà báo Eric Hoover mô tả là thiếu niên và thanh niên "da trắng, giàu có", lớn lên ở vùng ven đô (dịch giả chú thích: ở Mỹ, người giàu không sống trong khu nội đô chật chội), phải lo nộp đơn vào các trường đại học siêu khó và làm nhiều việc một lúc vì bị cha mẹ kiểm soát gắt gao.
+
+Millennials có nền tảng kinh tế xã hội kém may mắn hơn chắc chắn có thái độ và hành vi rất khác. Jia Tolentino viết trên *The New Yorker* rằng Millennials Mỹ là thế hệ đầu tiên chỉ có cơ hội 50-50 giàu hơn cha mẹ. Tương lai của họ không được đảm bảo trong một kinh tế toàn cầu cạnh tranh; việc tâng bốc bản ngã của họ như nhiều nhà tiếp thị đã làm còn gây hại cho triển vọng kinh tế của họ.
 
 Theo số liệu của Hội đồng Cố vấn Kinh tế Nhà Trắng thời Tổng thống Obama (báo cáo *15 Economic Facts About Millennials*, 2014), Millennials Mỹ ít quan tâm mua nhà, mua xe, sống với cha mẹ đến tuổi hai mươi, có người đến ba mươi, và không vội lập gia đình; 1/4 trong số họ không quan tâm lấy bằng lái xe (Chương 7 bàn sâu). Nhận định rằng Millennials Mỹ thích nhảy việc là hoàn toàn sai: họ làm một chỗ lâu hơn Thế hệ X, dù thích việc có ý nghĩa hơn con đường danh vọng. Một số nghiên cứu cho rằng sở thích làm việc nhóm của họ đến từ việc dùng nhiều mạng xã hội, khiến họ muốn tương tác nhiều hơn với cấp trên và cần cân bằng giữa công việc và vui chơi.
 
@@ -798,9 +823,13 @@ Guillén chia sẻ một số liệu ông thích: số người 15–34 tuổi s
 
 Lý do là nhập cư. Năm 1980, khoảng 78% người Mỹ 15–34 tuổi là người da trắng không gốc Tây Ban Nha (Hispanic); đến năm 2030 tỷ lệ này chỉ còn khoảng một nửa. Giới trẻ Mỹ và châu Âu sẽ đa dạng về sắc tộc và ngôn ngữ. Vì gia đình nhập cư trung bình sinh nhiều con hơn, thành phần người trẻ đổi nhanh hơn nhiều so với tổng dân số; những nhóm hôm nay gọi là "thiểu số" sẽ thành đa số trong giới trẻ trong mười năm tới.
 
-Xu hướng này tạo thay đổi về hành vi. Con cháu người nhập cư khao khát lập gia đình, mua nhà, mua xe hơn bạn đồng lứa bản địa, vì đó là bản chất của giấc mơ Mỹ; vì vậy họ là một phân nhóm thế hệ riêng. Nếu Millennials có cha mẹ nhập cư không hòa nhập vào dòng chính nhanh hơn các thế hệ nhập cư trước, người Mỹ trẻ năm 2030 sẽ hành xử rất khác giới trẻ hiện nay. Khảo sát cho thấy người Mỹ gốc Hispanic, gốc Phi và gốc Á dùng ứng dụng đi chung xe và chia sẻ chỗ ở nhiều hơn những người Mỹ khác (bản dịch ghi "người Mỹ bản địa"; theo hiểu biết của người tổng hợp, nhiều khả năng ý là người Mỹ da trắng), tạo khác biệt về sức mua trong nền kinh tế chia sẻ. Về kinh doanh, người Mỹ gốc Hispanic có khả năng tự làm chủ hoặc sở hữu doanh nghiệp cao hơn mọi nhóm khác; doanh nhân gốc Hispanic giỏi hoặc thích dùng tiếng Anh hơn người gốc Hispanic nói chung; tỷ lệ doanh nghiệp công nghệ cao của họ còn thấp nhưng có thể thay đổi khi ngày càng nhiều người học đại học trở lên.
+Xu hướng này tạo thay đổi về hành vi. Con cháu người nhập cư khao khát lập gia đình, mua nhà, mua xe hơn bạn đồng lứa bản địa, vì đó là bản chất của giấc mơ Mỹ; vì vậy họ là một phân nhóm thế hệ riêng. Nếu Millennials có cha mẹ nhập cư không hòa nhập vào dòng chính nhanh hơn các thế hệ nhập cư trước, người Mỹ trẻ năm 2030 sẽ hành xử rất khác giới trẻ hiện nay.
 
-**Thế hệ Z.** Đếm số lượng và sự đa dạng của thế hệ Z không khó; khó là hiểu đặc trưng và hành vi. Quỹ Varkey (trụ sở ở London) cho rằng thế hệ này hình thành trong bất bình đẳng mọi mặt: cơ hội học hành, giới tính, chủng tộc, di cư và khoảng cách giàu nghèo ngày càng lớn. Họ cũng sẽ gánh khủng hoảng lương hưu: nhiều khả năng phải đóng thuế nhiều hơn để cha mẹ, ông bà nhận được những quyền lợi đã hứa. Và họ là thế hệ đầu tiên sinh ra hoàn toàn trong thời kỹ thuật số. Báo cáo của Quỹ Varkey viết rằng thế hệ Z lớn lên với vô vàn cơ hội từ máy tính và mạng, có điều kiện đi nước ngoài, kết bạn bên kia thế giới, quen người khác tôn giáo, văn hóa nhiều hơn cha mẹ, ông bà; trong thời của họ, quan điểm và luật pháp về hôn nhân đồng giới, quyền chuyển giới có thể đổi rất nhanh, trong khi giới tính và chủng tộc vẫn gây chia rẽ hơn bao giờ hết.
+Khảo sát cho thấy người Mỹ gốc Hispanic, gốc Phi và gốc Á dùng ứng dụng đi chung xe và chia sẻ chỗ ở nhiều hơn những người Mỹ khác (bản dịch ghi "người Mỹ bản địa"; theo hiểu biết của người tổng hợp, nhiều khả năng ý là người Mỹ da trắng), tạo khác biệt về sức mua trong nền kinh tế chia sẻ. Về kinh doanh, người Mỹ gốc Hispanic có khả năng tự làm chủ hoặc sở hữu doanh nghiệp cao hơn mọi nhóm khác; doanh nhân gốc Hispanic giỏi hoặc thích dùng tiếng Anh hơn người gốc Hispanic nói chung; tỷ lệ doanh nghiệp công nghệ cao của họ còn thấp nhưng có thể thay đổi khi ngày càng nhiều người học đại học trở lên.
+
+**Thế hệ Z.** Đếm số lượng và sự đa dạng của thế hệ Z không khó; khó là hiểu đặc trưng và hành vi. Quỹ Varkey (trụ sở ở London) cho rằng thế hệ này hình thành trong bất bình đẳng mọi mặt: cơ hội học hành, giới tính, chủng tộc, di cư và khoảng cách giàu nghèo ngày càng lớn. Họ cũng sẽ gánh khủng hoảng lương hưu: nhiều khả năng phải đóng thuế nhiều hơn để cha mẹ, ông bà nhận được những quyền lợi đã hứa. Và họ là thế hệ đầu tiên sinh ra hoàn toàn trong thời kỹ thuật số.
+
+Báo cáo của Quỹ Varkey viết rằng thế hệ Z lớn lên với vô vàn cơ hội từ máy tính và mạng, có điều kiện đi nước ngoài, kết bạn bên kia thế giới, quen người khác tôn giáo, văn hóa nhiều hơn cha mẹ, ông bà; trong thời của họ, quan điểm và luật pháp về hôn nhân đồng giới, quyền chuyển giới có thể đổi rất nhanh, trong khi giới tính và chủng tộc vẫn gây chia rẽ hơn bao giờ hết.
 
 Năm 2016, Quỹ Varkey khảo sát 20.000 người 15–21 tuổi ở 20 nước. Guillén lưu ý khảo sát làm trực tuyến nên người trả lời chủ yếu là thanh niên đô thị có học vấn tương đối cao. Kết quả: dù đến từ nước phát triển hay không, họ đánh giá cao các giá trị toàn cầu hơn chủ nghĩa địa phương; thoải mái với các vấn đề gây tranh cãi như nhập cư, hôn nhân đồng giới; có quan điểm tiến bộ về bất bình đẳng, biến đổi khí hậu và tự do ngôn luận. Nghiên cứu kết luận thế hệ này có lẽ chịu ảnh hưởng của tư tưởng "công dân toàn cầu", trái với tinh thần dân tộc chủ nghĩa và bài ngoại đang lan rộng.
 
@@ -810,9 +839,13 @@ Theo Guillén, không nơi nào quan hệ giữa các thế hệ phức tạp nh
 
 Hệ quả là, so với năm 2020, đến năm 2030 Trung Quốc sẽ có ít hơn khoảng 60 triệu người 15–35 tuổi và nhiều hơn gần 114 triệu người trên 60 tuổi. Nhà nhân khẩu học Yuan Xin (Đại học Nankai, Thiên Tân) nói: nếu các nước phương Tây đang tiến dần tới già hóa thì Trung Quốc đang chạy tới đó.
 
-Người già Trung Quốc đối mặt với tương lai khó hơn người già Mỹ, không chỉ vì già hóa nhanh mà vì rất nhiều người trẻ đã rời nông thôn. Vợ chồng Zhang Fumin và Liu Xiuying, 70 tuổi, sống ở làng Longwangtou, cách Bắc Kinh 1.200 km về phía nam; hai con trai đã lên thủ đô sau khi tốt nghiệp đại học. Các nhà nhân khẩu học gọi những cha mẹ như họ là **"những người già bị bỏ lại"**. Năm 2017, khi cháu đầu tiên ra đời, họ lên ở với con để giúp trông cháu, nhưng vài tuần sau lại muốn về làng. Trong 215 triệu người trên 60 tuổi ở Trung Quốc năm 2015, chính phủ ước khoảng 50 triệu người sống xa con cái; đến năm 2030 con số có thể gấp đôi. Nhà dân tộc học Jieyu Liu viết rằng dòng di cư lớn của lao động trẻ từ nông thôn ra thành thị khiến con cái trưởng thành sống xa cha mẹ già, nên gia đình không thể hỗ trợ nhau theo cách truyền thống; vấn đề càng khó vì người già nông thôn không có lương hưu và phúc lợi như ở thành thị.
+Người già Trung Quốc đối mặt với tương lai khó hơn người già Mỹ, không chỉ vì già hóa nhanh mà vì rất nhiều người trẻ đã rời nông thôn. Vợ chồng Zhang Fumin và Liu Xiuying, 70 tuổi, sống ở làng Longwangtou, cách Bắc Kinh 1.200 km về phía nam; hai con trai đã lên thủ đô sau khi tốt nghiệp đại học. Các nhà nhân khẩu học gọi những cha mẹ như họ là **"những người già bị bỏ lại"**. Năm 2017, khi cháu đầu tiên ra đời, họ lên ở với con để giúp trông cháu, nhưng vài tuần sau lại muốn về làng.
 
-Di cư lên thành phố cũng định hình triển vọng của Millennials Trung Quốc xuất thân nông thôn. Ở Mỹ, Millennials phân nhóm chủ yếu theo kinh tế xã hội; ở Trung Quốc, theo **thành thị và nông thôn**: đa số thanh niên đô thị thuộc tầng lớp trung lưu hoặc rất giàu, còn phần lớn thanh niên nông thôn rất nghèo. Millennials thành thị Trung Quốc vượt Millennials Mỹ về hoạt động trên mạng, kể cả sức mua: dùng kết nối số nhiệt tình, mua sắm trực tuyến không mệt mỏi, trả mọi thứ bằng ví điện tử, và có vẻ ít lo thông tin cá nhân bị sử dụng. Dữ liệu chính thống về giá trị của họ còn ít, nhưng có thể nói họ cho phép mình nuông chiều bản thân (không quá khắt khe với xã hội, hài lòng với cuộc sống, bộc lộ công khai, khát khao tự do) và không coi hiện đại hóa, giàu có, tư tưởng tiến bộ là thứ "phương Tây". Họ tiết kiệm gấp ba lần người Mỹ cùng tuổi (các nhóm tuổi khác ở Trung Quốc cũng vậy); Guillén cho đó là điều rất tốt vì tháp tuổi tương lai sẽ lệch, với 25% dân số trên 60 tuổi vào năm 2030.
+Trong 215 triệu người trên 60 tuổi ở Trung Quốc năm 2015, chính phủ ước khoảng 50 triệu người sống xa con cái; đến năm 2030 con số có thể gấp đôi. Nhà dân tộc học Jieyu Liu viết rằng dòng di cư lớn của lao động trẻ từ nông thôn ra thành thị khiến con cái trưởng thành sống xa cha mẹ già, nên gia đình không thể hỗ trợ nhau theo cách truyền thống; vấn đề càng khó vì người già nông thôn không có lương hưu và phúc lợi như ở thành thị.
+
+Di cư lên thành phố cũng định hình triển vọng của Millennials Trung Quốc xuất thân nông thôn. Ở Mỹ, Millennials phân nhóm chủ yếu theo kinh tế xã hội; ở Trung Quốc, theo **thành thị và nông thôn**: đa số thanh niên đô thị thuộc tầng lớp trung lưu hoặc rất giàu, còn phần lớn thanh niên nông thôn rất nghèo. Millennials thành thị Trung Quốc vượt Millennials Mỹ về hoạt động trên mạng, kể cả sức mua: dùng kết nối số nhiệt tình, mua sắm trực tuyến không mệt mỏi, trả mọi thứ bằng ví điện tử, và có vẻ ít lo thông tin cá nhân bị sử dụng.
+
+Dữ liệu chính thống về giá trị của họ còn ít, nhưng có thể nói họ cho phép mình nuông chiều bản thân (không quá khắt khe với xã hội, hài lòng với cuộc sống, bộc lộ công khai, khát khao tự do) và không coi hiện đại hóa, giàu có, tư tưởng tiến bộ là thứ "phương Tây". Họ tiết kiệm gấp ba lần người Mỹ cùng tuổi (các nhóm tuổi khác ở Trung Quốc cũng vậy); Guillén cho đó là điều rất tốt vì tháp tuổi tương lai sẽ lệch, với 25% dân số trên 60 tuổi vào năm 2030.
 
 ### 12. Tương lai của "người già" và "người trẻ" (trang PDF 104–106)
 
@@ -822,7 +855,9 @@ Guillén nhắc phải thận trọng khi phân tích thế hệ, dù để gi�
 
 Thông điệp lớn của chương: hiểu Millennials hôm nay không có nghĩa là hiểu họ trong tương lai, vì hành vi của họ chắc chắn sẽ thay đổi khi đi qua các giai đoạn đời. Người trên 60 tuổi hôm nay sẽ khác, có khi rất khác, người trên 60 tuổi trong tương lai. Vấn đề không nằm ở việc ta đang xem xét thế hệ nào, mà ở ý nghĩa của sự thay đổi trong quan niệm về tuổi già.
 
-Tạp chí *Wired* và Pfizer, một trong những công ty dược lớn nhất thế giới, đã cùng xây dựng một tầm nhìn về lão hóa trong tương lai. Giám đốc chiến lược y tế của Pfizer, Pol Vandenbroucke, nói còn nhiều điều chưa biết về lão hóa, nhưng nhiều người nên bắt đầu thay đổi ngay để tuổi già không chỉ là sống lâu mà là sống khỏe. Y học và công nghệ hỗ trợ, nhưng hành vi của chính ta là chìa khóa giữ sự minh mẫn về thể chất và tinh thần. Một dự đoán được sách trích: Millennials sẽ già đi rất khác Thế hệ bùng nổ dân số và Thế hệ X; ngoài đặc trưng riêng, họ là thế hệ đầu tiên tiếp xúc Internet từ thơ ấu, và thói quen kết nối liên tục, truy cập thông tin tức thì sẽ giúp họ có tuổi già tốt đẹp. Millennials có thể là thế hệ hiểu rõ rằng muốn sống lâu thì phải giữ sức khỏe và năng động cả đời, và xu hướng kết nối có thể giúp họ vượt qua nỗi cô đơn tuổi già. Stephen Ewell, Giám đốc điều hành Quỹ Hiệp hội Công nghệ Tiêu dùng, nói Millennials thật sự quan tâm chuẩn bị cho cuộc sống dài lâu, và tổ chức của ông áp dụng ý tưởng của họ để họ thành một phần của hệ sinh thái cộng đồng mạnh hơn.
+Tạp chí *Wired* và Pfizer, một trong những công ty dược lớn nhất thế giới, đã cùng xây dựng một tầm nhìn về lão hóa trong tương lai. Giám đốc chiến lược y tế của Pfizer, Pol Vandenbroucke, nói còn nhiều điều chưa biết về lão hóa, nhưng nhiều người nên bắt đầu thay đổi ngay để tuổi già không chỉ là sống lâu mà là sống khỏe. Y học và công nghệ hỗ trợ, nhưng hành vi của chính ta là chìa khóa giữ sự minh mẫn về thể chất và tinh thần.
+
+Một dự đoán được sách trích: Millennials sẽ già đi rất khác Thế hệ bùng nổ dân số và Thế hệ X; ngoài đặc trưng riêng, họ là thế hệ đầu tiên tiếp xúc Internet từ thơ ấu, và thói quen kết nối liên tục, truy cập thông tin tức thì sẽ giúp họ có tuổi già tốt đẹp. Millennials có thể là thế hệ hiểu rõ rằng muốn sống lâu thì phải giữ sức khỏe và năng động cả đời, và xu hướng kết nối có thể giúp họ vượt qua nỗi cô đơn tuổi già. Stephen Ewell, Giám đốc điều hành Quỹ Hiệp hội Công nghệ Tiêu dùng, nói Millennials thật sự quan tâm chuẩn bị cho cuộc sống dài lâu, và tổ chức của ông áp dụng ý tưởng của họ để họ thành một phần của hệ sinh thái cộng đồng mạnh hơn.
 
 Millennials sẽ sống lâu hơn các thế hệ trước, nên đời sống tuổi "đầu bạc" được chú trọng hơn. Theo Dự án Sightlines của Trung tâm Tuổi thọ Đại học Stanford:
 
@@ -979,7 +1014,7 @@ Thông điệp kết của chương.
 ### Điểm mạnh và điểm yếu của lập luận
 
 - **Mạnh:** chương có nhiều số liệu cụ thể, nhiều ví dụ doanh nghiệp (Philips, Innophys, Rendever, EverSafe) và đặt câu hỏi kinh doanh rõ ràng: ai đang bị bỏ quên? Phần phê phán việc khái quát hóa Millennials (truyền thông giật tít, nhận định chỉ đúng với người da trắng giàu ở ven đô) là thuyết phục.
-- **Yếu:** cấu trúc chương khá tản mạn; nửa sau chuyển từ người già sang Millennials, thế hệ Z và Trung Quốc mà liên kết với tên chương chưa chặt. Một số số liệu được dùng mà không nói rõ cách tính (tài sản "gấp 1,3 lần", "cao hơn tới 12%"). Một vài chi tiết lịch sử có vấn đề (Thế hệ vĩ đại nhất, Anton Philips, mã lực và watt; xem khối Lưu ý). Con số "một nửa doanh nhân sẽ 55–64 tuổi vào 2030" là phép ngoại suy mạnh từ mức 24% năm 2016.
+- **Yếu:** cấu trúc chương khá tản mạn; nửa sau chuyển từ người già sang Millennials, thế hệ Z và Trung Quốc mà liên kết với tên chương chưa chặt. Một số số liệu được dùng mà không nói rõ cách tính (tài sản "gấp 1,3 lần", "cao hơn tới 12%"). Một vài chi tiết lịch sử có vấn đề (Thế hệ vĩ đại nhất, Anton Philips, mã lực và watt; xem mục Lưu ý cuối chương). Con số "một nửa doanh nhân sẽ 55–64 tuổi vào 2030" là phép ngoại suy mạnh từ mức 24% năm 2016.
 
 ### Liên hệ với các chương khác
 
@@ -1004,3 +1039,196 @@ Thông điệp kết của chương.
   - Theo dõi tài khoản của cha mẹ già (cảnh báo giao dịch bất thường, giới hạn chuyển khoản), vì thủ phạm lừa đảo người già thường là người quen; dấu hiệu suy giảm trí nhớ là lúc rủi ro tăng mạnh.
   - Chuẩn bị cho một tuổi già dài 20–25 năm: sức khỏe (bỏ thuốc lá, tập thể dục), học vấn và các mối quan hệ là những yếu tố mà chương nêu là dự báo tốt cho tuổi già năng động; tiết kiệm đều từ sớm vì số liệu cho thấy nhiều người trẻ đang có tiết kiệm âm.
   - Giúp cha mẹ, ông bà dùng công nghệ để giữ kết nối: nghiên cứu được dẫn cho thấy người già dùng Internet ít trầm cảm hơn, và cô đơn đẩy nhanh suy giảm nhận thức.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn đi theo các mục 1–12 trong phần Nội dung chi tiết (Millennials bị đánh giá quá cao và hai cách hiểu thế hệ, quy mô và nhu cầu của thị trường "đầu bạc", Philips cùng công nghệ và robot chăm sóc, tài chính và việc làm của người cao tuổi, Millennials và thế hệ Z, Trung Quốc và tương lai của "già" và "trẻ"), mỗi nhánh ghi xu hướng, dự báo, số liệu, ví dụ công ty và hàm ý then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: người trên 60 tuổi, không phải Millennials, là phân khúc tăng nhanh và giàu nhất, và định nghĩa #quot;già#quot;, #quot;trẻ#quot; sẽ lỗi thời vào 2030`"]
+  n1["`Mục 1–2 — Millennials bị đánh giá quá cao, khái niệm thế hệ cần hiểu đúng`"]
+  n0 --- n1
+  n2["`Công ty và chính trị gia nhắm 2,3 tỷ Millennials (sinh 1980–2000), Morgan Stanley gọi là lứa tuổi quan trọng nhất`"]
+  n1 --- n2
+  n3["`Sai lầm thứ nhất: Millennials không đồng nhất về học vấn, thu nhập, thái độ tiêu dùng`"]
+  n1 --- n3
+  n4["`Sai lầm thứ hai: phân khúc tăng nhanh nhất là người trên 60, thêm 400 triệu người đến 2030`"]
+  n1 --- n4
+  n5["`Người trên 60 nắm ít nhất một nửa tài sản ròng toàn cầu, khoảng 80% tài sản ở Mỹ`"]
+  n1 --- n5
+  n6["`Dữ liệu Fed qua Neil Howe: Thế hệ Im lặng có tài sản gấp 1,3 lần Bùng nổ dân số, 23 lần Millennials`"]
+  n5 --- n6
+  n7["`Từ 2002, chi tiêu y tế ở Mỹ chủ yếu dành cho nhóm 18–64 tuổi, không phải người già`"]
+  n1 --- n7
+  n8["`Mannheim: thế hệ chung trải nghiệm lớn, khác nhóm tuổi, bên trong có các đơn vị thế hệ`"]
+  n1 --- n8
+  n9["`Bourdieu: thế hệ phân biệt bởi thiên hướng và thói quen, chi phối tiết kiệm và tiêu dùng`"]
+  n1 --- n9
+  n10["`Căng thẳng thế hệ: người trẻ đổ lỗi cho Bùng nổ dân số, người lớn tuổi ủng hộ dân túy, tường ngăn nhập cư`"]
+  n1 --- n10
+  n11["`Mục 3–4 — Thị trường #quot;đầu bạc#quot; lớn nhưng khó chinh phục`"]
+  n0 --- n11
+  n12["`Mỗi ngày 210.000 người tròn 60 tuổi, Trung Quốc 54.000, Mỹ 12.000`"]
+  n11 --- n12
+  n13["`Người trên 60: khoảng 1 tỷ lên 1,4 tỷ năm 2030, Trung Quốc thêm 113 triệu, Ấn Độ 50 triệu`"]
+  n11 --- n13
+  n14["`Tỷ lệ trên 60 tuổi năm 2030: Nhật 38%, Đức 34%, Anh 28%, Mỹ 26%, Trung Quốc 25%`"]
+  n11 --- n14
+  n15["`Sức chi tiêu khoảng 20.000 tỷ USD năm 2030, nhưng Tập đoàn Tư vấn Boston ước chỉ 1/7 công ty đã chuẩn bị`"]
+  n11 --- n15
+  n16["`Công ty bỏ lỡ vì bộ phận công nghệ, tiếp thị, bán hàng toàn người trẻ`"]
+  n15 --- n16
+  n17["`96% người Anh trên 50 thấy bị nhà quảng cáo phớt lờ, khoác lác vô ích với người đã xem vô số quảng cáo`"]
+  n11 --- n17
+  n18["`Nhắm theo giá trị chứ không theo tuổi, quảng cáo không được hạ thấp người già`"]
+  n17 --- n18
+  n19["`Sản phẩm dùng 5–20 năm: cho thuê thay vì bán, hoặc thiết kế theo dự đoán suy giảm`"]
+  n11 --- n19
+  n20["`Máy giặt cửa trước hợp tuổi 60, cửa trên tiện hơn ở tuổi 70–80, mép nắp dễ cầm, chữ to`"]
+  n19 --- n20
+  n21["`Ưu tiên số một là chất lượng sống, rồi độc lập, di chuyển, kết nối và chống cô đơn`"]
+  n11 --- n21
+  n22["`Cơ hội: giày giảm đau gối, phòng tập gần nơi người già sống (Sumter có 7 phòng cho 125.000 dân), cửa hàng mở sớm`"]
+  n21 --- n22
+  n23["`Bảo hiểm y tế quyết định chi tiêu tùy ý: người trên 65 ở Mỹ chi 14% cho y tế, ở Anh dưới 3%`"]
+  n11 --- n23
+  n24["`Vì vậy người cao tuổi Anh chi gấp đôi cho quần áo, nhà hàng, du lịch`"]
+  n23 --- n24
+  n25["`Mục 5–6 — Philips, công nghệ và robot định nghĩa lại tuổi già`"]
+  n0 --- n25
+  n26["`Philips bị đối thủ Nhật, Hàn, Trung Quốc ép giá thập niên 1980–1990, thay 6 CEO trong 30 năm`"]
+  n25 --- n26
+  n27["`Frans van Houten (CEO từ 2011) cưỡi sóng dân số già, chuyển sang thiết bị y tế, nay hơn 2/3 doanh thu`"]
+  n26 --- n27
+  n28["`Đến 2030 người 70 tuổi trung bình sẽ sống như người 50 tuổi hiện nay`"]
+  n25 --- n28
+  n29["`Người Mỹ cao tuổi dùng Internet ít trầm cảm hơn (nghiên cứu của Shelia Cotten)`"]
+  n28 --- n29
+  n30["`Rendever: thực tế ảo cho sáu cư dân cùng trải nghiệm, liệu pháp hồi tưởng chống cô đơn`"]
+  n25 --- n30
+  n31["`Innophys bán hàng nghìn bộ khung xương trợ lực eXo-Muscle, giá từ khoảng 6.000 USD`"]
+  n25 --- n31
+  n32["`Nhật dẫn đầu robot chăm sóc vì thiếu người chăm sóc, ít nhập cư, cần thêm 1.000.000 y tá đến 2025`"]
+  n25 --- n32
+  n33["`Robot hải cẩu Paro dùng ở 30 nước, có mặt ở 80% viện dưỡng lão Đan Mạch`"]
+  n32 --- n33
+  n34["`ElliQ và trợ lý giọng nói ở Brookdale (hơn 100.000 cư dân) giúp người già bớt trầm cảm`"]
+  n32 --- n34
+  n35["`Guillén: robot là tất yếu vì sinh ít và chính phủ chặn nhập cư, nguồn nhân lực chăm sóc`"]
+  n32 --- n35
+  n36["`Doanh nhân 55–64 tuổi tăng từ 15% (1997) lên 24% (2016), có thể chiếm một nửa vào 2030`"]
+  n25 --- n36
+  n37["`Mục 7–8 — Ví tiền và việc làm của người cao tuổi`"]
+  n0 --- n37
+  n38["`P/E trung bình cổ phiếu Mỹ từ 1950 đến đầu 2010 giảm khi dân số già đi, tăng khi trẻ ra`"]
+  n37 --- n38
+  n39["`Trẻ mua cổ phiếu, 50–60 tuổi chuyển sang trái phiếu, nghỉ hưu rút tiền, nên P/E 2030 khó cao như trước`"]
+  n38 --- n39
+  n40["`Ngân hàng mất nguồn tiền gửi rẻ khi người già tiêu dần tiết kiệm, nên lãi vay có thể tăng`"]
+  n37 --- n40
+  n41["`Thế chấp ngược: chủ nhà nhận tiền, vẫn ở trong nhà, ngân hàng nhận nhà khi họ qua đời`"]
+  n40 --- n41
+  n42["`Fintech cạnh tranh ngân hàng: Onist chia sẻ di chúc, giấy ủy quyền, Pefin dùng AI tư vấn cho 5.000 khách`"]
+  n37 --- n42
+  n43["`Lợi dụng tài chính người già ở Mỹ: thiệt hại 3–36 tỷ USD/năm, mỗi nạn nhân mất trung bình 120.000 USD`"]
+  n37 --- n43
+  n44["`Thủ phạm thường là người thân, bạn bè, người chăm sóc, chỉ 1/44 vụ được báo cáo`"]
+  n43 --- n44
+  n45["`EverSafe dùng máy học phát hiện giao dịch bất thường và cảnh báo trước khi mọi việc xấu đi`"]
+  n43 --- n45
+  n46["`Bismarck và giáo dục phổ cập chia đời người thành học, làm, nghỉ, người trên 65 bị coi là thụ động`"]
+  n37 --- n46
+  n47["`Năm 2030 người 60 tuổi còn sống thêm trung bình 22 năm, ở nước phát triển 25 năm`"]
+  n46 --- n47
+  n48["`Người già đi làm vì tiền nhưng trên hết để hòa nhập, công ty giữ kiến thức nội bộ (Boeing, Michelin, UPS)`"]
+  n37 --- n48
+  n49["`Hệ quả ngoài ý muốn: chính trị gia viện hình ảnh người già có tiền để giảm vai trò lương hưu nhà nước`"]
+  n37 --- n49
+  n50["`Mục 9–10 — Millennials và thế hệ Z rồi cũng sẽ già đi`"]
+  n0 --- n50
+  n51["`Millennials lớn lên chứ không sinh ra trong thời kỹ thuật số, lứa đầu nghỉ hưu năm 2040`"]
+  n50 --- n51
+  n52["`Nhận định ái kỷ hay thực dụng chỉ đúng với người trẻ da trắng, giàu, sống ở ven đô`"]
+  n50 --- n52
+  n53["`Millennials Mỹ chỉ có cơ hội 50-50 giàu hơn cha mẹ và không nhảy việc nhiều hơn Thế hệ X`"]
+  n52 --- n53
+  n54["`Hai thực tế: thu nhập trung lưu nước giàu đứng yên 20–30 năm, nước mới nổi có nhiều cơ hội hơn cha mẹ`"]
+  n50 --- n54
+  n55["`Người Mỹ dưới 35 tiết kiệm -1,8% (2014), tài sản ròng trung bình giảm từ 15.000 xuống 10.400 USD`"]
+  n50 --- n55
+  n56["`Mỹ có 90,4 triệu người 15–34 tuổi (2017) và 89,5 triệu (2030), nhưng tỷ lệ da trắng không gốc Hispanic từ 78% còn khoảng một nửa`"]
+  n50 --- n56
+  n57["`Thế hệ Z (Quỹ Varkey, 20.000 người ở 20 nước) mang tư tưởng công dân toàn cầu nhưng sẽ gánh khủng hoảng lương hưu`"]
+  n50 --- n57
+  n58["`Mục 11–12 — Trung Quốc già hóa nhanh nhất và tương lai của #quot;già#quot;, #quot;trẻ#quot;`"]
+  n0 --- n58
+  n59["`Trung Quốc làm trong 30 năm điều châu Âu, Mỹ làm trong 2–3 thế kỷ`"]
+  n58 --- n59
+  n60["`2020–2030: người 15–35 tuổi giảm khoảng 60 triệu, người trên 60 tăng gần 114 triệu`"]
+  n58 --- n60
+  n61["`Người già bị bỏ lại: khoảng 50 triệu trong 215 triệu người trên 60 (2015) sống xa con, có thể gấp đôi vào 2030`"]
+  n60 --- n61
+  n62["`Millennials Trung Quốc chia theo thành thị, nông thôn, tiết kiệm gấp 3 lần người Mỹ cùng tuổi`"]
+  n58 --- n62
+  n63["`Ký túc xá dưỡng lão ở Hà Lan: sinh viên ở miễn phí, đổi lại giúp người già bớt cô đơn`"]
+  n58 --- n63
+  n64["`Millennials khi già: kết nối, ít hút thuốc, nhiều bằng đại học, nhưng phân hóa tài chính mạnh`"]
+  n58 --- n64
+  n65["`Thông điệp xuyên suốt`"]
+  n0 --- n65
+  n66["`Hành vi đổi theo giai đoạn đời, người trên 60 tương lai sẽ khác người trên 60 hôm nay`"]
+  n65 --- n66
+  n67["`Điều cần hiểu không phải là thế hệ nào mà là quan niệm về tuổi già đang thay đổi`"]
+  n65 --- n67
+  n68["`Doanh nghiệp nên coi dân số già là cơ hội, cưỡi sóng như Philips thay vì bơi ngược dòng`"]
+  n65 --- n68
+  n69["`Thận trọng với khái quát: mỗi thế hệ gồm nhiều phân nhóm theo học vấn, thu nhập, sắc tộc, vùng`"]
+  n65 --- n69
+  class n0 root
+  class n1,n11,n25,n37,n50,n58,n65 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n64,n66,n67,n68,n69 leaf
+```
+
+## Nguồn
+
+Mauro F. Guillén, *2030: Những xu hướng lớn sẽ định hình thế giới tương lai* (bản dịch của Vũ Kiều Linh, NXB Thế Giới & Phương Nam Book, 2022; nguyên tác *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything*, St. Martin's Press, 2020), Chương 2 "Công dân 'đầu bạc' sẽ là thế hệ 'xanh' mới", phụ đề "Người cao niên sành công nghệ, đẩy lùi tuổi nghỉ hưu, và định nghĩa lại 'già' – 'trẻ'", trang PDF 63–106.
+
+## Tác giả
+
+Mauro F. Guillén, giáo sư quản trị quốc tế tại Trường Wharton (Đại học Pennsylvania), nghiên cứu về toàn cầu hóa, nhân khẩu học và chiến lược doanh nghiệp.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-tre-em-cho-ta-biet-dieu-gi.md](C01-tre-em-cho-ta-biet-dieu-gi.md)) cho thấy mức sinh giảm ở các nước giàu và ở Trung Quốc, còn trẻ em sẽ sinh ra chủ yếu ở Nam Á và châu Phi. Chương 2 nhìn vào đầu kia của tháp dân số: nhóm người trên 60 tuổi tăng nhanh nhất, giàu nhất và bị doanh nghiệp bỏ quên nhiều nhất, đồng thời đặt câu hỏi thế hệ Millennials sẽ ra sao khi chính họ già đi.
+
+Chương 3 ([C03-theo-kip-nha-singh-va-nha-wang.md](C03-theo-kip-nha-singh-va-nha-wang.md)) chuyển sang tầng lớp trung lưu mới ở các nước mới nổi và sự phân hóa tài sản mà cuối Chương 2 đã báo trước. Chương 7 ([C07-mot-the-gioi-khong-tu-huu.md](C07-mot-the-gioi-khong-tu-huu.md)) được Guillén hẹn sẽ bàn tiếp việc người cao tuổi kiếm thêm thu nhập qua Airbnb, Uber và việc Millennials ít mua nhà, mua xe.
+
+## Lưu ý
+
+- **Tên chương và chữ "xanh".** Tên nguyên tác là *Gray Is the New Green* (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác). Trong tiếng Anh Mỹ, "green" thường chỉ tiền (màu của tờ đô la), nên ý tên chương là "tóc bạc là nguồn tiền mới". Bản dịch "thế hệ 'xanh' mới" dễ bị hiểu là "thế hệ trẻ mới". Chính cuốn sách cũng ủng hộ nghĩa "tiền": ở trang PDF 91, cụm "thế hệ 'xanh' mới" xuất hiện ngay trong câu nói về sức chi tiêu tùy ý của người cao tuổi.
+- **Thế hệ Im lặng và "Thế hệ vĩ đại nhất".** Sách (trang PDF 64) viết rằng Tom Brokaw gọi Thế hệ Im lặng là "Thế hệ vĩ đại nhất". Theo hiểu biết của người tổng hợp, Brokaw dùng tên này cho thế hệ sinh khoảng 1901–1927, những người trưởng thành trong Đại suy thoái và trực tiếp chiến đấu trong Thế chiến II; Thế hệ Im lặng (sinh khoảng 1928–1945) là thế hệ kế tiếp. Không rõ sự gộp này có từ nguyên tác hay do bản dịch.
+- **Mốc năm sinh các thế hệ trong sách:** Thế hệ bùng nổ dân số 1944–1964 (trang PDF 70 và chú thích dịch giả số 7); Thế hệ X 1965–1980 (chú thích số 12); Millennials 1980–2000 (trang PDF 63, chú thích số 3); Thế hệ Z sinh sau năm 2000 (chú thích số 17). Theo hiểu biết của người tổng hợp, mốc phổ biến hơn là Thế hệ bùng nổ dân số 1946–1964, Millennials 1981–1996 và Thế hệ Z 1997–2012 (theo cách chia của Pew Research Center). Các mốc khác nhau tùy nguồn, nên đây không phải lỗi mà là một cách chia.
+- **"Ông Catherine Collinson"** (trang PDF 90): Catherine Collinson là phụ nữ, nên phải là "bà" (theo hiểu biết của người tổng hợp).
+- **"McGann"** (trang PDF 71): công ty quảng cáo toàn cầu nơi Nadia Tuma làm việc là McCann (McCann Worldgroup) (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).
+- **Tên nhà nghiên cứu Internet và trầm cảm:** lời văn ghi "Sheila Cotten", danh mục nguồn của sách ghi "Shelia R. Cotton". Theo hiểu biết của người tổng hợp, tên đúng là Shelia R. Cotten (Đại học bang Michigan).
+- **Philips** (trang PDF 77): "đóng sáng lập" là lỗi chữ của "đồng sáng lập". Theo hiểu biết của người tổng hợp, Anton Philips (sinh 1874) là **em trai** của Gerard Philips (sinh 1858), không phải "anh trai" như bản dịch viết. Danh sách phát minh của Philips cũng nên đọc dè dặt: theo hiểu biết của người tổng hợp, đĩa CD và DVD do Philips phát triển chung với các công ty khác (Sony và một số hãng Nhật), còn chuẩn GSM là kết quả hợp tác của nhiều bên ở châu Âu chứ không phải phát minh riêng của Philips.
+- **James Watt và mã lực** (trang PDF 101): câu "khái niệm về mã lực, một dạng đơn vị khác mà chúng ta biết đến ngày nay dưới tên gọi là watt" dễ gây hiểu nhầm. Mã lực và watt là hai đơn vị khác nhau; Watt đưa ra đơn vị mã lực, và về sau đơn vị công suất watt được đặt theo tên ông (theo hiểu biết của người tổng hợp). Sách gọi động cơ của Thomas Newcomen (1712) là "động cơ hơi nước đầu tiên"; theo hiểu biết của người tổng hợp, đó là động cơ hơi nước thực dụng đầu tiên được dùng rộng rãi, còn trước đó đã có máy bơm hơi nước của Thomas Savery (1698).
+- **Robot Nao** (trang PDF 82): sách đặt Nao trong đoạn "Người Nhật cũng phát triển nhiều ứng dụng công nghệ robot". Theo hiểu biết của người tổng hợp, Nao do công ty Pháp Aldebaran Robotics phát triển; công ty này về sau thuộc tập đoàn Nhật SoftBank.
+- **"Khoảng 90% nhân viên chăm sóc người già là người nhập cư"** ở hầu hết các nước, kể cả Mỹ (trang PDF 80–81): theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác), ở Mỹ người nhập cư chiếm khoảng một phần tư lực lượng chăm sóc trực tiếp, nên con số 90% cho Mỹ có thể bị dịch sai hoặc phóng đại.
+- **Brooke Astor là "nhà từ thiện-nhà xã hội"** (trang PDF 87): chữ "socialite" ở đây nghĩa là người nổi tiếng trong giới thượng lưu, không phải "nhà xã hội" (nhận xét của người tổng hợp).
+- **Tên sách của Jean Twenge** (trang PDF 92): "Asseertive" là lỗi chữ của "Assertive"; chữ "Entitled" (cho rằng mình đương nhiên xứng đáng được hưởng) bị dịch thành "tự do hơn", làm mất ý phê phán của tựa sách (nhận xét của người tổng hợp).
+- **Hạt Sumter, Florida "nơi có lượng dân số trung niên cao nhất"** (trang PDF 74): theo hiểu biết của người tổng hợp, ý gốc là hạt có tuổi trung vị cao nhất nước Mỹ (nơi có khu hưu trí The Villages), tức dân số già nhất, không phải "trung niên".
+- **Millennials Mỹ "vẫn sống chung với bố mẹ đến khi 20 tuổi, hoặc thậm chí… đến 30 tuổi"** (trang PDF 94): nhiều khả năng ý gốc là "đến tận tuổi hai mươi mấy, có người đến ba mươi mấy" (nhận xét của người tổng hợp).
+- **"Tỷ lệ chi tiêu thứ yếu cao hơn tới 12% so với Mỹ"** ở châu Âu, Canada và Nhật Bản (trang PDF 75): sách không nói rõ là 12 điểm phần trăm hay cao hơn 12% (tương đối).
+- **"Năm 1980, Mỹ có khoảng 78% người da trắng không thuộc gốc Tây Ban Nha trong độ tuổi từ 15 đến 34, nhưng đến năm 2030 sẽ chỉ còn một nửa"** (trang PDF 98): theo ngữ cảnh, "một nửa" là tỷ lệ khoảng 50% trong nhóm tuổi này, không phải một nửa của 78%.
+- **"Người gốc Tây Ban Nha"** là cách bản dịch chuyển chữ *Hispanic*, chỉ người Mỹ có gốc từ các nước nói tiếng Tây Ban Nha, phần lớn là Mỹ Latinh (Mexico, Puerto Rico, Cuba…), không phải người từ nước Tây Ban Nha.
+- **Hai con số sức chi tiêu không mâu thuẫn:** 15 nghìn tỷ USD mỗi năm (trang PDF 67) là ước tính hiện tại; 20.000 tỷ USD (trang PDF 70) là ước tính cho năm 2030. Số người trên 60 tuổi tăng thêm ở Trung Quốc được ghi 113 triệu (trang PDF 69) và "gần 114 triệu" (trang PDF 101), chênh lệch do làm tròn.
+- **"Thế hệ Im lặng nắm giữ lượng tài sản nhiều gấp 1,3 lần so với Thế hệ bùng nổ dân số"** (trang PDF 64): vì Thế hệ bùng nổ dân số đông hơn nhiều, phép so sánh này nhiều khả năng tính theo bình quân mỗi hộ, không phải tổng tài sản (suy luận của người tổng hợp; sách không nói rõ).
+- **Lỗi chữ và trích dẫn của ebook:** câu trích Morgan Stanley (trang PDF 63) thiếu dấu ngoặc kép đóng; "từ 25 đến và 34" (trang PDF 96) thừa chữ "và"; "phải thậm chi" (trang PDF 84) là chữ lạ, theo ngữ cảnh nghĩa là phải tiêu dần tiền đã tiết kiệm thay vì để dành thêm; "Milennial" (trang PDF 71) thiếu một chữ "l". Câu "Thật thú vị khi dự đoán rằng: 'Thế hệ Millennials sẽ rất khác…'" (trang PDF 105) không ghi ai là người dự đoán; danh mục nguồn của chương có nhắc bài "What Millennials Already Know About Growing Old" của Laura Carstensen (danh mục ghi "Cartensen"), người đứng đầu Trung tâm Tuổi thọ Stanford, nên đoạn trích nhiều khả năng lấy từ đó (suy luận của người tổng hợp).
+- **Chú thích của dịch giả:** chú thích số 14 gọi Pefin là "công ty phần mềm (AI) tư vấn tài chính đầu tiên trên thế giới"; đó là cách công ty tự giới thiệu, không phải một sự thật đã được kiểm chứng (theo hiểu biết của người tổng hợp). Chú thích số 19 ("Ở Mỹ, người giàu không sống trong khu vực nội đô chật chội") giải thích vì sao "vùng ven đô" (suburbs) gắn với tầng lớp khá giả ở Mỹ; chú thích này hữu ích cho người đọc Việt Nam, nơi quan hệ giữa nội đô và giàu có thường ngược lại.
+- **Số liệu đã cũ so với năm 2026:** sách viết năm 2019 dựa trên *World Population Prospects 2019* của Liên Hợp Quốc. Các con số dự báo cho năm 2030 vẫn còn hướng đúng, nhưng các mức cụ thể (tỷ lệ tiết kiệm, nợ sinh viên, số robot Paro…) là số của năm 2014–2019.
