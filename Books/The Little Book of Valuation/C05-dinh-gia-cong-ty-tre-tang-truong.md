@@ -1,21 +1,18 @@
 # Chương 5 — Định giá công ty trẻ đang tăng trưởng (Valuing young growth companies and businesses)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 2 "Valuing across the life cycle", Chương 5 "Valuing young growth companies and businesses", trang 88–111 (trang 87 là trang tên Phần 2).
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** Phần 1 (Chương 2–4) đã dựng bộ công cụ: giá trị thời gian của tiền, cách đo rủi ro và suất chiết khấu ([Chương 2](C02-cong-cu-cua-nghe-dinh-gia.md)); mô hình định giá nội tại với bốn mảnh ghép là dòng tiền từ tài sản hiện có, tăng trưởng kỳ vọng, suất chiết khấu và thời điểm công ty bước vào tăng trưởng ổn định ([Chương 3](C03-gia-tri-noi-tai.md)); và định giá tương đối bằng bội số cùng công ty so sánh ([Chương 4](C04-dinh-gia-tuong-doi.md)). Chương 5 mở đầu Phần 2 "Định giá theo vòng đời doanh nghiệp": tác giả lần lượt áp các công cụ đó vào từng giai đoạn của vòng đời, bắt đầu từ giai đoạn khó nhất là công ty mới ra đời, chưa có lịch sử, đang lỗ và có xác suất phá sản cao. Chương này đặt khung mà các chương 6–11 dùng lại: định nghĩa loại công ty, đặc điểm, vấn đề khi định giá, giải pháp (có ví dụ một công ty thật), cách tận dụng cơ hội định giá và kết luận. Các ý tưởng ở đây — dự báo từ quy mô thị trường xuống doanh thu, biên lợi nhuận mục tiêu, chi phí vốn thay đổi theo thời gian, điều chỉnh cho khả năng sống sót — được dùng tiếp ở [Chương 6](C06-dinh-gia-cong-ty-tang-truong.md) cho công ty tăng trưởng đã niêm yết và ở [Chương 8](C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md) cho công ty kiệt quệ tài chính.
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **công ty trẻ khó định giá nhất nhưng vẫn định giá được một cách có hệ thống, và cách làm đúng là đối diện thẳng với sự bất định thay vì né nó bằng bội số tương lai cộng với một suất chiết khấu cao tuỳ tiện**. Ông đi từ đặc điểm của công ty trẻ (không có lịch sử, doanh thu nhỏ, lỗ hoạt động, phụ thuộc vốn tư nhân, phần lớn không sống sót, cổ phần kém thanh khoản) tới những khó khăn mà các đặc điểm đó gây ra cho cả định giá chiết khấu dòng tiền (DCF) lẫn định giá tương đối. Giải pháp là dự báo dòng tiền "từ trên xuống": ước quy mô thị trường, thị phần, biên lợi nhuận mục tiêu và con đường đi tới đó, lượng tái đầu tư cần thiết; dùng chi phí vốn của ngành điều chỉnh cho rủi ro cao hơn rồi cho giảm dần; định giá với giả định công ty sống sót rồi điều chỉnh cho xác suất thất bại; xét tới chiết khấu khi mất người chủ chốt và khác biệt quyền giữa các loại cổ phần. Ví dụ trung tâm là Evergreen Solar đầu năm 2009 (doanh thu 12 tháng gần nhất 90 triệu USD, lỗ hoạt động trước thuế 50 triệu USD): mô hình DCF mười năm cho giá trị tài sản hoạt động 192 triệu USD, cộng tiền mặt 285 triệu USD, trừ nợ 374 triệu USD, còn giá trị vốn chủ sở hữu 103 triệu USD, tức **0,63 USD mỗi cổ phiếu so với giá thị trường 2,70 USD**, và đó là trước khi trừ rủi ro công ty không sống sót. Định giá tương đối cho kết quả cao hơn nhiều: 285,3 triệu USD giá trị doanh nghiệp (EV) nếu nhân doanh thu hiện tại với bội số EV/doanh thu trung bình 3,17 của bốn công ty năng lượng thay thế cùng cỡ, và 457 triệu USD nếu nhân doanh thu dự báo năm thứ 5 (483 triệu USD) với bội số 1,55 của các công ty lớn trong ngành rồi chiết khấu về hiện tại. Cuối chương, tác giả nhận rằng thành công ban đầu có thể mở đường cho sản phẩm và thị trường mới (một "quyền chọn thực"), nhưng chỉ nên cộng thêm phần giá trị này cho những công ty có lợi thế độc quyền (công nghệ riêng, bằng sáng chế).
+## Ý chính
 
-> **Lưu ý:**
-> - **Phép tính giá trị cuối kỳ của Evergreen Solar trong Exhibit 5.1 không khớp với chính công thức ghi kèm.** Ô chú thích ghi: 134 × (1 − 0,40) × (1 − 0,3112) / (0,0723 − 0,0225) = 1.255 triệu USD. Tính lại: 134 × 0,6 = 80,4; × 0,6888 = 55,38; / 0,0498 = **1.112 triệu USD**, không phải 1.255. Con số 1.255 khớp với dòng "Beyond" trong bảng (lợi nhuận hoạt động sau thuế 80, tái đầu tư 18, dòng tiền 62; 62 / (0,072 − 0,0225) ≈ 1.252), nhưng tái đầu tư 18 trên 80 (22,5%) ngầm giả định tỷ suất lợi nhuận trên vốn đầu tư (ROC) vĩnh viễn là 2,25% / 22,5% = 10%, trái với lời ô chú thích rằng ROC sau năm 10 bằng chi phí vốn 7,23%. Nếu dùng đúng giả định ROC bằng chi phí vốn: giá trị hiện tại của giá trị cuối kỳ là 1.112 / 2,4092 ≈ 461,6 (thay vì 521); giá trị tài sản hoạt động ≈ −329,3 + 461,6 = 132,3 triệu USD; giá trị vốn chủ sở hữu ≈ 132,3 + 285 − 374 = 43,3 triệu USD; giá trị mỗi cổ phiếu ≈ **0,26 USD** (dùng số cổ phiếu suy ra từ bảng, khoảng 163,5 triệu cổ phiếu = 103 / 0,63; sách không ghi số cổ phiếu). Kết luận "giá trị thấp hơn nhiều so với giá 2,70 USD" càng mạnh hơn.
-> - Chi phí vốn giai đoạn ổn định ghi 7,20% trong bảng nhưng 7,23% trong ô chú thích.
-> - Chú thích 19 minh hoạ "chi phí vốn cộng dồn năm 7 = (1,1037)^5 × (1,0984) × (1,0937) = 1,9672", nhưng bảng Exhibit 5.1 dùng chi phí vốn 10,21% cho năm 1–5, 9,70% năm 6 và 9,01% năm 7; theo bảng, hệ số cộng dồn năm 7 là 1,9444. Các con số 10,37%/9,84%/9,37% có lẽ thuộc một phiên bản tính toán khác. (Tích ghi trong chú thích tính lại là 1,9675, xấp xỉ 1,9672.) Phần định giá tương đối cũng chiết khấu ở 10,37% (ra 457 triệu USD); nếu dùng 10,21% như bảng thì được khoảng 461 triệu USD.
-> - Phần định giá tương đối dẫn "illustration 10.5", "table 10.6", "table 10.8" — số hiệu của một tài liệu khác (có lẽ sách khác của Damodaran), không tồn tại trong bản thảo này. Con số "lợi nhuận hoạt động trước thuế năm 5 là 27,75 triệu USD" cũng không khớp với Exhibit 5.1 (năm 5: 483 × 6,77% ≈ 33 triệu USD). Chương chỉ có một bảng, nhưng được đánh số "Table 5.4" (không có 5.2, 5.3).
-> - Đoạn văn mô tả Evergreen Solar là "small battery manufacturer" (nhà sản xuất pin/ắc quy nhỏ), trong khi Exhibit 5.1 nói đúng là nhà sản xuất tế bào quang điện (solar power cells). Đoạn định giá tương đối viết "doanh thu 90 triệu USD năm 2007", nhưng Exhibit ghi doanh thu năm 2007 là 70 triệu USD; 90 triệu USD là doanh thu 12 tháng gần nhất trước thời điểm định giá (đầu 2009).
-> - Một số chi tiết trong bảng Exhibit 5.1 lệch nhẹ nhau: ô chú thích nói lỗ luỹ kế được chuyển sang "che" thu nhập khỏi thuế đến năm 9, nhưng bảng đã có thuế từ năm 7 (lợi nhuận 79 nhưng sau thuế 73) và năm 8 (102 nhưng sau thuế 61). Vài dòng dòng tiền và giá trị hiện tại lệch 1 đơn vị do làm tròn (ví dụ năm 1: −36 − 29 = −65 nhưng bảng ghi −64; −64 / 1,1021 = −58,1 nhưng bảng ghi −59). Tổng giá trị hiện tại vẫn ra 192 triệu USD.
-> - Ví dụ xác suất thất bại: bản thảo nói với công ty phần mềm đã tồn tại một năm, xác suất thất bại trong 5 năm tới là 38%, là "hiệu" giữa xác suất sống qua 2 năm (64,85%) và qua 7 năm (24,78%). Hiệu số đó thực ra là 40,07 điểm phần trăm, không phải 38%. Cách tính đúng hơn là xác suất có điều kiện: xác suất sống thêm 5 năm khi đã sống qua 2 năm là 24,78 / 64,85 ≈ 38,2%, nên xác suất thất bại là khoảng 61,8%. Có vẻ tác giả đã lẫn con số 38% (xác suất sống sót có điều kiện) thành xác suất thất bại.
-> - Mục "Value Plays", ý (c) nói sẽ xét "ba chỉ báo" về khả năng tiếp cận vốn nhưng chỉ nêu hai; ý (d) về sự phụ thuộc vào cá nhân chủ chốt bị bỏ dở giữa câu ("...nurture talent to succeed them (and are"). Phần định giá tương đối nói "ở mục trước về định giá nội tại, chúng tôi đã trình bày các cách ước chiết khấu kém thanh khoản", nhưng chương không có nội dung đó. Câu về nghiên cứu "28 companies In with voting and non-voting shares" bị rơi chữ (thiếu tên nước hoặc thị trường). Hình 5.1 có lỗi chính tả "Starrt-up ccmpanies".
-> - Số liệu thị trường: chương không nêu lãi suất phi rủi ro hay phần bù rủi ro vốn cổ phần dùng cho Evergreen; chỉ nêu hệ số beta 1,60 và chi phí vốn 10,21% giảm dần về 7,20%. Theo hiểu biết của người tổng hợp, không tra cứu: đầu 2009 là giữa khủng hoảng tài chính, lãi suất trái phiếu chính phủ Mỹ thấp và phần bù rủi ro cao bất thường; sau đó lãi suất ở quanh mức rất thấp trong nhiều năm rồi tăng mạnh trở lại từ 2022, nên chi phí vốn của một công ty trẻ hiện nay sẽ khác.
-> - Số phận công ty ví dụ (theo hiểu biết của người tổng hợp, không tra cứu): Evergreen Solar nộp đơn xin bảo hộ phá sản theo Chương 11 tại Mỹ vào năm 2011, sau khi cạnh tranh giá từ các nhà sản xuất tấm pin mặt trời Trung Quốc làm sụp biên lợi nhuận. Kết cục này ủng hộ đánh giá thận trọng của tác giả (giá trị thấp hơn nhiều so với giá thị trường, chưa kể rủi ro không sống sót).
+Damodaran muốn người đọc hiểu rằng **công ty trẻ khó định giá nhất nhưng vẫn định giá được một cách có hệ thống, và cách làm đúng là đối diện thẳng với sự bất định thay vì né nó bằng bội số tương lai cộng với một suất chiết khấu cao tuỳ tiện**.
+
+Ông đi từ đặc điểm của công ty trẻ (không có lịch sử, doanh thu nhỏ, lỗ hoạt động, phụ thuộc vốn tư nhân, phần lớn không sống sót, cổ phần kém thanh khoản) tới những khó khăn mà các đặc điểm đó gây ra cho cả định giá chiết khấu dòng tiền (DCF) lẫn định giá tương đối.
+
+Giải pháp là dự báo dòng tiền "từ trên xuống": ước quy mô thị trường, thị phần, biên lợi nhuận mục tiêu và con đường đi tới đó, lượng tái đầu tư cần thiết; dùng chi phí vốn của ngành điều chỉnh cho rủi ro cao hơn rồi cho giảm dần; định giá với giả định công ty sống sót rồi điều chỉnh cho xác suất thất bại; xét tới chiết khấu khi mất người chủ chốt và khác biệt quyền giữa các loại cổ phần.
+
+Ví dụ trung tâm là Evergreen Solar đầu năm 2009 (doanh thu 12 tháng gần nhất 90 triệu USD, lỗ hoạt động trước thuế 50 triệu USD): mô hình DCF mười năm cho giá trị tài sản hoạt động 192 triệu USD, cộng tiền mặt 285 triệu USD, trừ nợ 374 triệu USD, còn giá trị vốn chủ sở hữu 103 triệu USD, tức **0,63 USD mỗi cổ phiếu so với giá thị trường 2,70 USD**, và đó là trước khi trừ rủi ro công ty không sống sót.
+
+Định giá tương đối cho kết quả cao hơn nhiều: 285,3 triệu USD giá trị doanh nghiệp (EV) nếu nhân doanh thu hiện tại với bội số EV/doanh thu trung bình 3,17 của bốn công ty năng lượng thay thế cùng cỡ, và 457 triệu USD nếu nhân doanh thu dự báo năm thứ 5 (483 triệu USD) với bội số 1,55 của các công ty lớn trong ngành rồi chiết khấu về hiện tại.
+
+Cuối chương, tác giả nhận rằng thành công ban đầu có thể mở đường cho sản phẩm và thị trường mới (một "quyền chọn thực"), nhưng chỉ nên cộng thêm phần giá trị này cho những công ty có lợi thế độc quyền (công nghệ riêng, bằng sáng chế).
 
 ## Sơ đồ
 
@@ -310,7 +307,9 @@
 
 1. **Vì sao công ty trẻ khó định giá hơn mọi loại công ty khác?** Vì công ty trẻ có lịch sử rất ngắn, doanh thu nhỏ hoặc chưa có, đang lỗ, phụ thuộc vốn tư nhân, phần lớn không sống sót (chỉ 31% doanh nghiệp lập năm 1998 ở Mỹ còn tồn tại sau 7 năm, ngành thông tin chỉ 25%) và cổ phần kém thanh khoản. Các đặc điểm này làm khó cả bốn mảnh ghép của DCF (dòng tiền tài sản hiện có, tăng trưởng, suất chiết khấu, giá trị cuối kỳ — thường chiếm 90% đến hơn 100% giá trị) lẫn định giá tương đối (không có biến chia hợp lý, không có công ty so sánh, không đo được rủi ro, khó điều chỉnh cho sống sót và khác biệt quyền giữa các loại cổ phần).
 
-2. **Định giá một công ty trẻ một cách có hệ thống thì làm thế nào?** Ước dòng tiền từ quy mô thị trường xuống: thị trường tiềm năng, thị phần, biên lợi nhuận mục tiêu và lộ trình đạt tới, tái đầu tư cần thiết. Lấy chi phí vốn trung bình ngành cộng thêm cho rủi ro và sự thiếu đa dạng hoá của chủ sở hữu, rồi cho giảm dần về mức của công ty trưởng thành. Tính giá trị cuối kỳ theo nguyên tắc tăng trưởng ổn định. Định giá với giả định công ty sống sót, sau đó lấy trung bình có trọng số với giá trị bán tháo theo xác suất thất bại. Xét chiết khấu mất người chủ chốt và khác biệt quyền giữa các loại cổ phần. Với Evergreen Solar, quy trình này cho 0,63 USD mỗi cổ phiếu so với giá 2,70 USD (và chỉ khoảng 0,26 USD nếu sửa lỗi tính giá trị cuối kỳ).
+2. **Định giá một công ty trẻ một cách có hệ thống thì làm thế nào?** Ước dòng tiền từ quy mô thị trường xuống: thị trường tiềm năng, thị phần, biên lợi nhuận mục tiêu và lộ trình đạt tới, tái đầu tư cần thiết. Lấy chi phí vốn trung bình ngành cộng thêm cho rủi ro và sự thiếu đa dạng hoá của chủ sở hữu, rồi cho giảm dần về mức của công ty trưởng thành.
+
+   Tính giá trị cuối kỳ theo nguyên tắc tăng trưởng ổn định. Định giá với giả định công ty sống sót, sau đó lấy trung bình có trọng số với giá trị bán tháo theo xác suất thất bại. Xét chiết khấu mất người chủ chốt và khác biệt quyền giữa các loại cổ phần. Với Evergreen Solar, quy trình này cho 0,63 USD mỗi cổ phiếu so với giá 2,70 USD (và chỉ khoảng 0,26 USD nếu sửa lỗi tính giá trị cuối kỳ).
 
 3. **Nhà đầu tư nên chọn công ty trẻ nào và cẩn thận điều gì?** Chọn công ty nhắm vào thị trường lớn, có công nghệ riêng hoặc bằng sáng chế, có ban lãnh đạo kiểm soát chi phí và có đủ khả năng huy động vốn (đo bằng tiền mặt chia cho tốc độ đốt tiền, độ rộng cổ phiếu tự do chuyển nhượng, sự hiện diện của nhà đầu tư tổ chức). Luôn so giá hiện tại với doanh thu và biên lợi nhuận dự kiến ở cuối giai đoạn tăng trưởng ban đầu: công ty trẻ tốt nhất mua ở giá sai vẫn là khoản đầu tư tồi. Khi dùng bội số, dùng số liệu tương lai, bội số phù hợp với công ty ở thời điểm tương lai đó, và điều chỉnh cho xác suất sống sót cùng tính kém thanh khoản.
 
@@ -385,7 +384,9 @@ Lịch sử ngắn và khả năng thất bại cao làm công ty trẻ khó đ�
 
 Tóm lại, rất khó ước tăng trưởng doanh thu và biên lợi nhuận của công ty trẻ, và càng khó đưa ra giả định tái đầu tư nhất quán với các ước tính tăng trưởng đó.
 
-**Suất chiết khấu (Discount Rates).** Cách tiêu chuẩn để đánh giá rủi ro và tính suất chiết khấu dựa vào giá thị trường của chứng khoán do công ty phát hành: hệ số beta tính bằng hồi quy lợi suất cổ phiếu theo lợi suất chỉ số thị trường; chi phí nợ vay lấy từ giá thị trường của trái phiếu đang lưu hành. Với công ty trẻ, các giả định này đều có vấn đề. Thứ nhất, phần lớn công ty trẻ chưa niêm yết và không có trái phiếu giao dịch, nên không thể hồi quy để lấy beta hay dùng lãi suất thị trường của nợ. Thứ hai, phần lớn vốn chủ sở hữu thường do những nhà đầu tư dồn hết tiền vào công ty (người sáng lập) hoặc chỉ đa dạng hoá một phần (quỹ mạo hiểm) nắm giữ. Họ khó chấp nhận ý tưởng rằng chỉ rủi ro không đa dạng hoá được mới đáng kể, và sẽ đòi được bù cho ít nhất một phần rủi ro riêng của công ty.
+**Suất chiết khấu (Discount Rates).** Cách tiêu chuẩn để đánh giá rủi ro và tính suất chiết khấu dựa vào giá thị trường của chứng khoán do công ty phát hành: hệ số beta tính bằng hồi quy lợi suất cổ phiếu theo lợi suất chỉ số thị trường; chi phí nợ vay lấy từ giá thị trường của trái phiếu đang lưu hành.
+
+Với công ty trẻ, các giả định này đều có vấn đề. Thứ nhất, phần lớn công ty trẻ chưa niêm yết và không có trái phiếu giao dịch, nên không thể hồi quy để lấy beta hay dùng lãi suất thị trường của nợ. Thứ hai, phần lớn vốn chủ sở hữu thường do những nhà đầu tư dồn hết tiền vào công ty (người sáng lập) hoặc chỉ đa dạng hoá một phần (quỹ mạo hiểm) nắm giữ. Họ khó chấp nhận ý tưởng rằng chỉ rủi ro không đa dạng hoá được mới đáng kể, và sẽ đòi được bù cho ít nhất một phần rủi ro riêng của công ty.
 
 **Giá trị cuối kỳ (Terminal Value).** Nếu giá trị cuối kỳ đã chiếm phần lớn giá trị của một công ty bình thường, thì với công ty trẻ nó còn lớn hơn: không hiếm khi chiếm 90%, 100% hoặc hơn 100% giá trị hiện tại. Vì vậy, giả định về thời điểm công ty đạt tăng trưởng ổn định (điều kiện để tính giá trị cuối kỳ) và đặc điểm của công ty khi đó tác động mạnh tới giá trị. Có ba câu hỏi khó trả lời:
 - a. **Công ty có sống tới giai đoạn tăng trưởng ổn định không?** Tỷ lệ thất bại của công ty trẻ cao; những công ty thất bại sẽ không bao giờ tới giai đoạn ổn định, và giá trị cuối kỳ sẽ không mang lại khoản giá trị lớn như với một công ty hoạt động liên tục. Ước xác suất sống sót của công ty ở đầu vòng đời vì thế là thành phần then chốt của giá trị, nhưng không dễ ước.
@@ -420,7 +421,9 @@ Cách làm là ước tổng thị trường cho sản phẩm/dịch vụ, rồi
   - c. *Thị trường thay đổi theo thời gian.* Vì phải dự báo doanh thu nhiều năm, cần biết tổng thị trường dự kiến tăng hay thay đổi ra sao; thông tin này thường có từ cùng các nguồn trên.
 - **Thị phần (Market Share).** Khi đã biết quy mô thị trường và diễn biến của nó, phải ước thị phần công ty giành được, cả trong dài hạn lẫn trong các năm trước khi ổn định. Cần xét thêm hai biến: (1) năng lực của ban lãnh đạo trong việc thực hiện lời hứa — nhiều doanh nhân có ý tưởng xuất sắc nhưng thiếu kỹ năng quản lý và kinh doanh để thương mại hoá, một phần vì vậy quỹ mạo hiểm tìm người từng thành công; (2) nguồn lực công ty có để đạt thị phần mong muốn — dự báo thị phần lạc quan phải đi kèm đầu tư lớn vào công suất và tiếp thị, vì sản phẩm không tự sản xuất và tự bán.
 - **Chi phí hoạt động / biên lợi nhuận (Operating expenses/margins).** Doanh thu là dòng đầu, nhưng công ty chỉ có giá trị nếu cuối cùng tạo ra lợi nhuận. Việc ước chia làm hai phần: trước hết ước biên lợi nhuận hoạt động ở trạng thái ổn định, chủ yếu bằng cách xem các công ty lâu năm cùng ngành; sau khi có biên mục tiêu, ước biên sẽ thay đổi thế nào theo thời gian. "Con đường tới có lãi" này có thể gập ghềnh hơn ở một số công ty, với chi phí cố định và cạnh tranh đóng vai trò lớn.
-- **Đầu tư cho tăng trưởng (Investments for growth).** Khi được hỏi về dự báo doanh thu và lợi nhuận, chủ doanh nghiệp tự nhiên chọn số lạc quan: doanh thu tăng theo cấp số nhân, biên lợi nhuận nhanh chóng đạt mục tiêu. Nhưng trong bất kỳ ngành cạnh tranh nào, tăng trưởng doanh thu hay cải thiện biên đều không miễn phí, nên phải ước công ty cần tái đầu tư bao nhiêu để tạo tăng trưởng đã dự báo. Với công ty sản xuất, đó là đầu tư thêm công suất; với công ty công nghệ, đó là đầu tư vào R&D, bằng sáng chế mới và cả vốn con người (thuê lập trình viên, nhà nghiên cứu). Bước này quan trọng vì hai lẽ: (1) các khoản đầu tư là dòng tiền ra, ảnh hưởng tới dòng tiền cuối cùng dành cho nhà đầu tư; (2) nhất là ở công ty trẻ, tái đầu tư thường làm dòng tiền âm, phải bù bằng vốn mới, nên cổ đông hiện hữu hoặc bị giảm tỷ lệ sở hữu (khi nhà đầu tư mới vào) hoặc phải góp thêm tiền để duy trì hoạt động.
+- **Đầu tư cho tăng trưởng (Investments for growth).** Khi được hỏi về dự báo doanh thu và lợi nhuận, chủ doanh nghiệp tự nhiên chọn số lạc quan: doanh thu tăng theo cấp số nhân, biên lợi nhuận nhanh chóng đạt mục tiêu. Nhưng trong bất kỳ ngành cạnh tranh nào, tăng trưởng doanh thu hay cải thiện biên đều không miễn phí, nên phải ước công ty cần tái đầu tư bao nhiêu để tạo tăng trưởng đã dự báo.
+
+  Với công ty sản xuất, đó là đầu tư thêm công suất; với công ty công nghệ, đó là đầu tư vào R&D, bằng sáng chế mới và cả vốn con người (thuê lập trình viên, nhà nghiên cứu). Bước này quan trọng vì hai lẽ: (1) các khoản đầu tư là dòng tiền ra, ảnh hưởng tới dòng tiền cuối cùng dành cho nhà đầu tư; (2) nhất là ở công ty trẻ, tái đầu tư thường làm dòng tiền âm, phải bù bằng vốn mới, nên cổ đông hiện hữu hoặc bị giảm tỷ lệ sở hữu (khi nhà đầu tư mới vào) hoặc phải góp thêm tiền để duy trì hoạt động.
 
 #### Bước 2. Ước suất chiết khấu (Estimating Discount Rates, trang 98–99)
 
@@ -436,11 +439,17 @@ Chương 2 đã trình bày các đầu vào của suất chiết khấu: chi ph
 
 Dòng tiền và suất chiết khấu là nền để tính giá trị doanh nghiệp và vốn chủ sở hữu hôm nay, nhưng còn ba thành phần cần xử lý: điều gì xảy ra ở cuối giai đoạn dự báo (giá trị cuối kỳ); khả năng công ty không sống sót, đặc biệt quan trọng với công ty trẻ vì nhiều công ty thất bại sớm; và, với doanh nghiệp dựa vào một hay vài người then chốt, ảnh hưởng của việc mất họ.
 
-**Giá trị cuối kỳ (Terminal Value).** Giá trị cuối kỳ là phần lớn giá trị của mọi doanh nghiệp, nhưng còn lớn hơn ở công ty trẻ có dòng tiền nhỏ hoặc âm trong những năm gần, chiếm 80%, 90% hay hơn 100% giá trị hiện tại. (Chú thích của tác giả: "hơn 100%" nghe như vô lý, nhưng ở công ty trẻ có dòng tiền âm lớn trong những năm đầu, giá trị cuối kỳ có thể lớn hơn tổng giá trị; nói cách khác, muốn kiếm tiền từ khoản đầu tư, nhà đầu tư phải sống sót qua nhiều lần bị pha loãng khi công ty phát hành cổ phần mới.) Các nguyên tắc cơ bản không đổi: tốc độ tăng trưởng dùng phải thấp hơn tốc độ tăng trưởng của nền kinh tế; chi phí vốn phải hội tụ về mức của công ty trưởng thành; và phải có đủ tái đầu tư để duy trì tăng trưởng "ổn định". Với công ty mà thành công nghĩa là niêm yết lần đầu (IPO) hoặc bán cho một công ty niêm yết, mô hình tăng trưởng vĩnh viễn là hợp lý nhất. Với công ty nhỏ, ít tham vọng hơn — thành công nghĩa là sống qua giai đoạn dự báo và tiếp tục tạo dòng tiền — giả định dòng tiền có vòng đời hữu hạn và ước một giá trị thanh lý ở cuối sẽ cho giá trị hợp lý nhất.
+**Giá trị cuối kỳ (Terminal Value).** Giá trị cuối kỳ là phần lớn giá trị của mọi doanh nghiệp, nhưng còn lớn hơn ở công ty trẻ có dòng tiền nhỏ hoặc âm trong những năm gần, chiếm 80%, 90% hay hơn 100% giá trị hiện tại. (Chú thích của tác giả: "hơn 100%" nghe như vô lý, nhưng ở công ty trẻ có dòng tiền âm lớn trong những năm đầu, giá trị cuối kỳ có thể lớn hơn tổng giá trị; nói cách khác, muốn kiếm tiền từ khoản đầu tư, nhà đầu tư phải sống sót qua nhiều lần bị pha loãng khi công ty phát hành cổ phần mới.)
+
+Các nguyên tắc cơ bản không đổi: tốc độ tăng trưởng dùng phải thấp hơn tốc độ tăng trưởng của nền kinh tế; chi phí vốn phải hội tụ về mức của công ty trưởng thành; và phải có đủ tái đầu tư để duy trì tăng trưởng "ổn định".
+
+Với công ty mà thành công nghĩa là niêm yết lần đầu (IPO) hoặc bán cho một công ty niêm yết, mô hình tăng trưởng vĩnh viễn là hợp lý nhất. Với công ty nhỏ, ít tham vọng hơn — thành công nghĩa là sống qua giai đoạn dự báo và tiếp tục tạo dòng tiền — giả định dòng tiền có vòng đời hữu hạn và ước một giá trị thanh lý ở cuối sẽ cho giá trị hợp lý nhất.
 
 **Điều chỉnh cho khả năng sống sót (Adjust for Survival).** Nhiều công ty trẻ gục trước áp lực cạnh tranh. Thay vì cố điều chỉnh suất chiết khấu cho khả năng này (việc khó làm), tác giả đề xuất hai bước:
 1. Định giá công ty với giả định nó sống sót và trở nên khoẻ mạnh về tài chính. Đây thực chất là điều đã ngầm giả định khi tính giá trị cuối kỳ và chiết khấu dòng tiền về hiện tại bằng suất chiết khấu đã điều chỉnh rủi ro.
-2. Đưa vào xác suất công ty không sống sót. Cách đơn giản nhất là dùng trung bình ngành, ví dụ từ nghiên cứu của Cục Thống kê Lao động Mỹ về xác suất sống sót theo ngành giai đoạn 1998–2005. Bản thảo minh hoạ: với một công ty phần mềm đã tồn tại một năm, xác suất sống qua 2 năm là 64,85% và qua 7 năm là 24,78%; tác giả kết luận xác suất thất bại trong 5 năm tới là 38%. *(Người tổng hợp kiểm tra: hiệu 64,85% − 24,78% = 40,07 điểm phần trăm; còn cách tính có điều kiện cho xác suất sống thêm 5 năm là 24,78 / 64,85 ≈ 38,2%, tức xác suất thất bại khoảng 61,8%. Con số 38% của bản thảo khớp với xác suất sống sót có điều kiện chứ không phải xác suất thất bại.)* Trung bình ngành sau đó được điều chỉnh theo đặc thù công ty: chất lượng ban lãnh đạo, khả năng tiếp cận vốn, lượng tiền mặt.
+2. Đưa vào xác suất công ty không sống sót. Cách đơn giản nhất là dùng trung bình ngành, ví dụ từ nghiên cứu của Cục Thống kê Lao động Mỹ về xác suất sống sót theo ngành giai đoạn 1998–2005.
+
+   Bản thảo minh hoạ: với một công ty phần mềm đã tồn tại một năm, xác suất sống qua 2 năm là 64,85% và qua 7 năm là 24,78%; tác giả kết luận xác suất thất bại trong 5 năm tới là 38%. *(Người tổng hợp kiểm tra: hiệu 64,85% − 24,78% = 40,07 điểm phần trăm; còn cách tính có điều kiện cho xác suất sống thêm 5 năm là 24,78 / 64,85 ≈ 38,2%, tức xác suất thất bại khoảng 61,8%. Con số 38% của bản thảo khớp với xác suất sống sót có điều kiện chứ không phải xác suất thất bại.)* Trung bình ngành sau đó được điều chỉnh theo đặc thù công ty: chất lượng ban lãnh đạo, khả năng tiếp cận vốn, lượng tiền mặt.
 
 Khi đã có xác suất thất bại p, giá trị công ty là giá trị kỳ vọng của hai kịch bản:
 
@@ -448,14 +457,18 @@ Giá trị = (1 − p) × Giá trị nội tại theo DCF (kịch bản hoạt �
 
 *(Minh hoạ của người tổng hợp, không có trong sách: nếu giá trị DCF của một cổ phiếu là 0,63 USD, xác suất thất bại 40% và giá trị bán tháo dành cho cổ đông bằng 0, thì giá trị điều chỉnh là 0,6 × 0,63 ≈ 0,38 USD.)*
 
-**Chiết khấu người chủ chốt (Key Person Discounts).** Công ty trẻ, nhất là trong ngành dịch vụ, thường phụ thuộc vào chủ sở hữu hoặc vài người then chốt; giá trị có thể thay đổi nhiều nếu một hay nhiều người trong số đó rời công ty. Cách đánh giá: định giá công ty lần thứ nhất với hiện trạng (những người chủ chốt vẫn ở lại), rồi định giá lần hai với việc mất họ được đưa vào doanh thu, lợi nhuận và dòng tiền kỳ vọng. Nếu lợi nhuận và dòng tiền giảm khi họ ra đi, giá trị lần hai thấp hơn, và chênh lệch đó là "chiết khấu người chủ chốt". Không có công thức đơn giản nào cho biết dòng tiền mất bao nhiêu, vì nó thay đổi theo doanh nghiệp và theo từng người. Một cách là khảo sát khách hàng hiện tại xem họ phản ứng thế nào nếu người chủ chốt ra đi, rồi đưa tác động đó vào dự báo hoạt động.
+**Chiết khấu người chủ chốt (Key Person Discounts).** Công ty trẻ, nhất là trong ngành dịch vụ, thường phụ thuộc vào chủ sở hữu hoặc vài người then chốt; giá trị có thể thay đổi nhiều nếu một hay nhiều người trong số đó rời công ty.
+
+Cách đánh giá: định giá công ty lần thứ nhất với hiện trạng (những người chủ chốt vẫn ở lại), rồi định giá lần hai với việc mất họ được đưa vào doanh thu, lợi nhuận và dòng tiền kỳ vọng. Nếu lợi nhuận và dòng tiền giảm khi họ ra đi, giá trị lần hai thấp hơn, và chênh lệch đó là "chiết khấu người chủ chốt". Không có công thức đơn giản nào cho biết dòng tiền mất bao nhiêu, vì nó thay đổi theo doanh nghiệp và theo từng người. Một cách là khảo sát khách hàng hiện tại xem họ phản ứng thế nào nếu người chủ chốt ra đi, rồi đưa tác động đó vào dự báo hoạt động.
 
 #### Bước 4. Định giá các quyền trên vốn chủ sở hữu (Valuing Equity Claims in the business, trang 101–102)
 
 Ở công ty niêm yết, giá trị mỗi cổ phiếu bằng giá trị vốn chủ sở hữu chia cho số cổ phiếu đang lưu hành. Cách này chỉ đúng khi mọi cổ đông có cùng quyền nhận dòng tiền và quyền biểu quyết tương đương. Ở công ty trẻ, hai loại quyền này có thể khác nhau giữa các cổ phần:
 
 - **Quyền nhận dòng tiền (Cash flow claims).** Có hai loại quyền ưu tiên: (1) một số nhà đầu tư, thường nắm cổ phiếu ưu đãi, được nhận một phần dòng tiền hoạt động, thường dưới dạng cổ tức ưu đãi, trước những người khác; (2) cổ đông ưu đãi được ưu tiên nhận dòng tiền khi công ty thanh lý. Các yếu tố khác như nhau, cổ phiếu thường của công ty có cổ phiếu ưu đãi lưu hành có giá trị thấp hơn của công ty không có.
-- **Quyền kiểm soát (Control claims).** Ở một số công ty trẻ niêm yết, quyền biểu quyết nằm hoàn toàn hoặc phần lớn trong tay người sáng lập và cổ đông nội bộ, còn nhà đầu tư bên ngoài nắm cổ phiếu ít quyền biểu quyết hơn. Các yếu tố khác như nhau, cổ phiếu có quyền biểu quyết phải có giá cao hơn cổ phiếu không biểu quyết, và mức chênh phản ánh giá trị của quyền kiểm soát. Bằng chứng: các nghiên cứu đầu tiên về công ty Mỹ có nhiều loại cổ phiếu (Lease, McConnell và Mikkelson, 1983, *Journal of Financial Economics*) thấy cổ phiếu có quyền biểu quyết đắt hơn trung bình 5–10%, tức một mức chênh khá nhỏ. Một nghiên cứu mới hơn (Reilly, 2005, *American Bankruptcy Institute Journal*) trên 28 công ty có cả cổ phiếu biểu quyết và không biểu quyết trong các năm 1994 và 1999 thấy mức chênh trung vị tăng từ 2% năm 1994 lên 2,8% năm 1999.
+- **Quyền kiểm soát (Control claims).** Ở một số công ty trẻ niêm yết, quyền biểu quyết nằm hoàn toàn hoặc phần lớn trong tay người sáng lập và cổ đông nội bộ, còn nhà đầu tư bên ngoài nắm cổ phiếu ít quyền biểu quyết hơn. Các yếu tố khác như nhau, cổ phiếu có quyền biểu quyết phải có giá cao hơn cổ phiếu không biểu quyết, và mức chênh phản ánh giá trị của quyền kiểm soát.
+
+  Bằng chứng: các nghiên cứu đầu tiên về công ty Mỹ có nhiều loại cổ phiếu (Lease, McConnell và Mikkelson, 1983, *Journal of Financial Economics*) thấy cổ phiếu có quyền biểu quyết đắt hơn trung bình 5–10%, tức một mức chênh khá nhỏ. Một nghiên cứu mới hơn (Reilly, 2005, *American Bankruptcy Institute Journal*) trên 28 công ty có cả cổ phiếu biểu quyết và không biểu quyết trong các năm 1994 và 1999 thấy mức chênh trung vị tăng từ 2% năm 1994 lên 2,8% năm 1999.
 
 Có những cách định giá quyền nhận dòng tiền và quyền kiểm soát chính xác hơn, nhưng cần nhiều thông tin và kỹ thuật. Dù không định giá tường minh, chỉ cần biết chúng tồn tại đã là bước đi đúng hướng.
 
@@ -509,7 +522,7 @@ Có những cách định giá quyền nhận dòng tiền và quyền kiểm so
 10. *Giá trị mỗi cổ phiếu* = 103 / số cổ phiếu = 0,63 USD. Sách không ghi số cổ phiếu; suy ra khoảng 103 / 0,63 ≈ 163,5 triệu cổ phiếu.
 11. *Nếu sửa giá trị cuối kỳ thành 1.112:* hiện giá 1.112 / 2,4092 = 461,6; tài sản hoạt động = −329,3 + 461,6 = 132,3; vốn chủ sở hữu = 132,3 + 285 − 374 = 43,3; mỗi cổ phiếu ≈ 43,3 / 163,5 ≈ 0,26 USD.
 
-**Kết luận của tác giả về ví dụ.** Giá trị ước được, 0,63 USD mỗi cổ phiếu, thấp hơn đáng kể so với giá thị trường 2,70 USD. Giá trị này chưa điều chỉnh cho rủi ro công ty không sống tới năm 10; nếu điều chỉnh, giá trị mỗi cổ phiếu còn thấp hơn. Chú thích 19 giải thích cách chiết khấu bằng chi phí vốn cộng dồn: "chi phí vốn cộng dồn năm 7 = (1,1037)^5 × (1,0984) × (1,0937) = 1,9672" — các tỷ lệ trong chú thích này không khớp với bảng (bảng cho 1,9444), xem khối Lưu ý.
+**Kết luận của tác giả về ví dụ.** Giá trị ước được, 0,63 USD mỗi cổ phiếu, thấp hơn đáng kể so với giá thị trường 2,70 USD. Giá trị này chưa điều chỉnh cho rủi ro công ty không sống tới năm 10; nếu điều chỉnh, giá trị mỗi cổ phiếu còn thấp hơn. Chú thích 19 giải thích cách chiết khấu bằng chi phí vốn cộng dồn: "chi phí vốn cộng dồn năm 7 = (1,1037)^5 × (1,0984) × (1,0937) = 1,9672" — các tỷ lệ trong chú thích này không khớp với bảng (bảng cho 1,9444), xem mục Lưu ý cuối chương.
 
 ### 7. Giải pháp định giá: định giá tương đối (Valuation Solutions — Relative Valuation, trang 103–105)
 
@@ -564,7 +577,9 @@ Trong cả DCF lẫn định giá tương đối, người định giá đã đ�
 - a. **Sản phẩm mới (New products).** Thành công của sản phẩm hiện có có thể mở đường cho sản phẩm mới. Ví dụ kinh điển: Microsoft dựa trên hệ điều hành (MS-DOS, Windows) cho máy tính cá nhân để làm ra Microsoft Office, một sản phẩm cực kỳ sinh lời. Apple tung iPhone để tận dụng nhóm khách hàng đã xây dựng bằng iPod. Không ai dự đoán được MS Office hay iPhone khi sản phẩm ban đầu ra đời, nhưng thành công của sản phẩm ban đầu rõ ràng là bệ phóng cho chúng.
 - b. **Thị trường mới (New markets).** Công ty thành công với một sản phẩm ở một thị trường có thể mở rộng sang thị trường khác với thành công tương tự. Ví dụ hiển nhiên nhất là mở rộng ra nước ngoài sau khi thành công trong nước, như Coca-Cola, McDonald's và nhiều công ty bán lẻ. Ví dụ tinh tế hơn là sản phẩm nhắm một thị trường nhưng tình cờ tìm được thị trường mới, như một thuốc trị loét dạ dày hoá ra lại giảm được cholesterol.
 
-Vì sao không đưa kỳ vọng về sản phẩm, thị trường mới vào dòng tiền? Có thể thử, nhưng có hai vấn đề. Thứ nhất, lúc định giá ban đầu, dự báo về các sản phẩm và thị trường mở rộng đó rất mù mờ, và dòng tiền sẽ phản ánh sự mù mờ ấy: cả Microsoft lẫn Apple đều không thể hình dung thị trường của Microsoft Office hay iPhone khi giới thiệu MS-DOS hay iPod. Thứ hai, chính thông tin thu được và bài học rút ra trong quá trình tung sản phẩm đầu tiên và phát triển sau đó mới giúp công ty tận dụng trọn vẹn các sản phẩm tiếp theo. Khả năng học hỏi và thích nghi này tạo ra phần giá trị cộng thêm vào giá trị nội tại đã ước. Tác giả không định giá tường minh "quyền chọn thực" này, nhưng cho rằng ít nhất nên cân nhắc định tính phần giá trị tăng thêm có thể có.
+Vì sao không đưa kỳ vọng về sản phẩm, thị trường mới vào dòng tiền? Có thể thử, nhưng có hai vấn đề. Thứ nhất, lúc định giá ban đầu, dự báo về các sản phẩm và thị trường mở rộng đó rất mù mờ, và dòng tiền sẽ phản ánh sự mù mờ ấy: cả Microsoft lẫn Apple đều không thể hình dung thị trường của Microsoft Office hay iPhone khi giới thiệu MS-DOS hay iPod.
+
+Thứ hai, chính thông tin thu được và bài học rút ra trong quá trình tung sản phẩm đầu tiên và phát triển sau đó mới giúp công ty tận dụng trọn vẹn các sản phẩm tiếp theo. Khả năng học hỏi và thích nghi này tạo ra phần giá trị cộng thêm vào giá trị nội tại đã ước. Tác giả không định giá tường minh "quyền chọn thực" này, nhưng cho rằng ít nhất nên cân nhắc định tính phần giá trị tăng thêm có thể có.
 
 ### 10. Cách tận dụng cơ hội định giá (Value Plays, trang 108–110)
 
@@ -591,7 +606,9 @@ Tóm lại, nên đầu tư vào công ty trẻ đang bước vào thị trườ
 
 ### 11. Kết luận (Conclusion, trang 110–111)
 
-Không thể phủ nhận rằng công ty trẻ là thách thức ước lượng khó nhất trong định giá. Lịch sử ngắn và ít thông tin, lỗ hoạt động và xác suất thất bại cao cùng dẫn tới những cách định giá né tránh bất định bằng cách kết hợp bội số tương lai với suất chiết khấu cao một cách tuỳ tiện. Chương đã trình bày quy trình để áp dụng các mô hình định giá thông thường cho công ty trẻ. Quy trình này đòi hỏi ước những đầu vào khó xác định, nhưng vẫn hữu ích vì buộc người định giá đối diện các nguồn bất định, tìm hiểu chúng và đưa ra ước tính tốt nhất. Có thể muốn cộng thêm phần giá trị cho các cơ hội tương lai, nhưng chỉ nên cộng phần bù quyền chọn thực cho những công ty có một mức độ độc quyền trong việc khai thác các cơ hội đó.
+Không thể phủ nhận rằng công ty trẻ là thách thức ước lượng khó nhất trong định giá. Lịch sử ngắn và ít thông tin, lỗ hoạt động và xác suất thất bại cao cùng dẫn tới những cách định giá né tránh bất định bằng cách kết hợp bội số tương lai với suất chiết khấu cao một cách tuỳ tiện.
+
+Chương đã trình bày quy trình để áp dụng các mô hình định giá thông thường cho công ty trẻ. Quy trình này đòi hỏi ước những đầu vào khó xác định, nhưng vẫn hữu ích vì buộc người định giá đối diện các nguồn bất định, tìm hiểu chúng và đưa ra ước tính tốt nhất. Có thể muốn cộng thêm phần giá trị cho các cơ hội tương lai, nhưng chỉ nên cộng phần bù quyền chọn thực cho những công ty có một mức độ độc quyền trong việc khai thác các cơ hội đó.
 
 ## Luận điểm cốt lõi
 
@@ -609,7 +626,11 @@ Công ty trẻ có thể và nên được định giá bằng cùng các nguyê
 
 ### Cơ chế
 
-Giá trị công ty trẻ gần như hoàn toàn nằm ở tài sản tăng trưởng và giá trị cuối kỳ. Do dòng tiền những năm đầu âm (công ty lỗ và phải tái đầu tư nhiều), giá trị hiện tại của giai đoạn dự báo là số âm (Evergreen: khoảng −329 triệu USD), và toàn bộ giá trị dương đến từ giá trị cuối kỳ (521 triệu USD hiện giá). Vì thế các giả định về thời điểm và trạng thái ổn định (tăng trưởng 2,25%, biên 12%, chi phí vốn 7,2%, ROC ở giai đoạn ổn định) quyết định kết quả; một chênh lệch nhỏ về giả định ROC ổn định đủ đổi giá trị mỗi cổ phiếu Evergreen từ 0,63 USD xuống khoảng 0,26 USD. Dòng tiền âm phải bù bằng vốn mới, nên giá trị của cổ đông hiện hữu bị pha loãng; và khả năng không sống sót làm giá trị kỳ vọng thấp hơn giá trị DCF. Định giá tương đối không thoát được cơ chế này: bội số của công ty niêm yết phản ánh công ty lớn hơn, ổn định hơn, thanh khoản hơn, nên phải dùng số liệu tương lai, bội số phù hợp với thời điểm tương lai và điều chỉnh cho sống sót, thanh khoản.
+Giá trị công ty trẻ gần như hoàn toàn nằm ở tài sản tăng trưởng và giá trị cuối kỳ. Do dòng tiền những năm đầu âm (công ty lỗ và phải tái đầu tư nhiều), giá trị hiện tại của giai đoạn dự báo là số âm (Evergreen: khoảng −329 triệu USD), và toàn bộ giá trị dương đến từ giá trị cuối kỳ (521 triệu USD hiện giá).
+
+Vì thế các giả định về thời điểm và trạng thái ổn định (tăng trưởng 2,25%, biên 12%, chi phí vốn 7,2%, ROC ở giai đoạn ổn định) quyết định kết quả; một chênh lệch nhỏ về giả định ROC ổn định đủ đổi giá trị mỗi cổ phiếu Evergreen từ 0,63 USD xuống khoảng 0,26 USD.
+
+Dòng tiền âm phải bù bằng vốn mới, nên giá trị của cổ đông hiện hữu bị pha loãng; và khả năng không sống sót làm giá trị kỳ vọng thấp hơn giá trị DCF. Định giá tương đối không thoát được cơ chế này: bội số của công ty niêm yết phản ánh công ty lớn hơn, ổn định hơn, thanh khoản hơn, nên phải dùng số liệu tương lai, bội số phù hợp với thời điểm tương lai và điều chỉnh cho sống sót, thanh khoản.
 
 ### Bằng chứng và ví dụ Damodaran đưa ra
 
@@ -629,7 +650,11 @@ Giá trị công ty trẻ gần như hoàn toàn nằm ở tài sản tăng trư
 
 ### Trong ngôn ngữ tài chính doanh nghiệp
 
-Giá trị doanh nghiệp = Σ FCFF_t / Π(1 + WACC_k) (với k từ 1 tới t) + Giá trị cuối kỳ / Π(1 + WACC_k) (k từ 1 tới N); FCFF_t = EBIT_t × (1 − thuế suất hiệu dụng sau khi trừ lỗ luỹ kế) − ΔDoanh thu_t / (Tỷ lệ doanh thu trên vốn); Giá trị cuối kỳ = EBIT_(N+1) × (1 − t) × (1 − g / ROC_ổn định) / (WACC_ổn định − g). Giá trị vốn chủ sở hữu = Giá trị doanh nghiệp + Tiền mặt − Nợ vay, sau đó điều chỉnh: Giá trị kỳ vọng = (1 − p_thất bại) × Giá trị hoạt động liên tục + p_thất bại × Giá trị bán tháo; trừ chiết khấu người chủ chốt và chiết khấu kém thanh khoản; phân bổ cho các loại cổ phần theo quyền nhận dòng tiền và quyền kiểm soát. Trong định giá tương đối: EV hôm nay = (Bội số EV/doanh thu phù hợp năm N × Doanh thu năm N) / Π(1 + WACC), rồi điều chỉnh cho sống sót và thanh khoản.
+Giá trị doanh nghiệp = Σ FCFF_t / Π(1 + WACC_k) (với k từ 1 tới t) + Giá trị cuối kỳ / Π(1 + WACC_k) (k từ 1 tới N); FCFF_t = EBIT_t × (1 − thuế suất hiệu dụng sau khi trừ lỗ luỹ kế) − ΔDoanh thu_t / (Tỷ lệ doanh thu trên vốn); Giá trị cuối kỳ = EBIT_(N+1) × (1 − t) × (1 − g / ROC_ổn định) / (WACC_ổn định − g).
+
+Giá trị vốn chủ sở hữu = Giá trị doanh nghiệp + Tiền mặt − Nợ vay, sau đó điều chỉnh: Giá trị kỳ vọng = (1 − p_thất bại) × Giá trị hoạt động liên tục + p_thất bại × Giá trị bán tháo; trừ chiết khấu người chủ chốt và chiết khấu kém thanh khoản; phân bổ cho các loại cổ phần theo quyền nhận dòng tiền và quyền kiểm soát.
+
+Trong định giá tương đối: EV hôm nay = (Bội số EV/doanh thu phù hợp năm N × Doanh thu năm N) / Π(1 + WACC), rồi điều chỉnh cho sống sót và thanh khoản.
 
 ## Thuật ngữ
 
@@ -707,7 +732,11 @@ Tác giả nói rõ giá trị 0,63 USD chưa điều chỉnh cho khả năng th
 
 ### Bối cảnh từ 2010 đến nay làm bài học rõ hơn chứ không làm nó lỗi thời
 
-Theo hiểu biết của người tổng hợp (không tra cứu): Evergreen Solar phá sản năm 2011 khi giá tấm pin mặt trời giảm mạnh do cạnh tranh từ Trung Quốc — đúng kịch bản (d) trong "Value Plays": đối thủ ùa vào ép biên lợi nhuận, cộng với kịch bản (c) về khả năng huy động vốn của một công ty nhiều nợ. Sau 2010, lãi suất thấp kéo dài và dòng vốn mạo hiểm dồi dào khiến nhiều công ty trẻ ở lại tư nhân lâu hơn và được định giá bằng các vòng gọi vốn hơn là bằng DCF; khi lãi suất tăng mạnh từ 2022, nhiều mức định giá đó sụt giảm, cho thấy tác động của chi phí vốn lên giá trị cuối kỳ của công ty trẻ. Thị trường cũng phát triển các cấu trúc vốn phức tạp hơn (cổ phiếu ưu đãi nhiều tầng có quyền ưu tiên thanh lý, cổ phiếu nhiều quyền biểu quyết của nhà sáng lập), làm phần "Valuing Equity Claims" vốn ngắn trong chương trở nên quan trọng hơn. Mức chênh 2–10% cho quyền biểu quyết mà chương dẫn là số liệu cũ của thị trường Mỹ.
+Theo hiểu biết của người tổng hợp (không tra cứu): Evergreen Solar phá sản năm 2011 khi giá tấm pin mặt trời giảm mạnh do cạnh tranh từ Trung Quốc — đúng kịch bản (d) trong "Value Plays": đối thủ ùa vào ép biên lợi nhuận, cộng với kịch bản (c) về khả năng huy động vốn của một công ty nhiều nợ.
+
+Sau 2010, lãi suất thấp kéo dài và dòng vốn mạo hiểm dồi dào khiến nhiều công ty trẻ ở lại tư nhân lâu hơn và được định giá bằng các vòng gọi vốn hơn là bằng DCF; khi lãi suất tăng mạnh từ 2022, nhiều mức định giá đó sụt giảm, cho thấy tác động của chi phí vốn lên giá trị cuối kỳ của công ty trẻ.
+
+Thị trường cũng phát triển các cấu trúc vốn phức tạp hơn (cổ phiếu ưu đãi nhiều tầng có quyền ưu tiên thanh lý, cổ phiếu nhiều quyền biểu quyết của nhà sáng lập), làm phần "Valuing Equity Claims" vốn ngắn trong chương trở nên quan trọng hơn. Mức chênh 2–10% cho quyền biểu quyết mà chương dẫn là số liệu cũ của thị trường Mỹ.
 
 ### Có những quan điểm trái chiều về cách xử lý rủi ro của công ty trẻ
 
@@ -715,4 +744,187 @@ Giới đầu tư mạo hiểm thường dùng "phương pháp VC": ước giá 
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích
 
-Với nhà đầu tư cá nhân, phần hữu ích nhất có lẽ là danh sách "Value Plays": kiểm tra tiền mặt so với tốc độ đốt tiền (bao nhiêu tháng trước khi phải gọi vốn và bị pha loãng), xem ai nắm cổ phiếu và mức độ giao dịch, và luôn hỏi "doanh thu và biên lợi nhuận ở năm thứ 5 phải là bao nhiêu để biện minh cho giá hôm nay". Với nhà phân tích, bảng Exhibit 5.1 là một khuôn mẫu gọn: doanh thu theo tốc độ giảm dần, biên hội tụ về biên ngành, tái đầu tư theo tỷ lệ doanh thu trên vốn, chi phí vốn giảm dần, giá trị cuối kỳ nhất quán giữa tăng trưởng và ROC — và bài học từ chính lỗi của bản thảo là phải kiểm tra rằng tái đầu tư ở giai đoạn ổn định khớp với giả định ROC. Với người đọc Việt Nam, cùng khung tư duy áp dụng được (ở mức định tính) cho các công ty khởi nghiệp công nghệ gọi vốn tư nhân hoặc niêm yết sớm: xác định thị trường có thực sự lớn như câu chuyện gọi vốn nói không, công ty có đủ tiền đi tới điểm có lãi không, và cổ phần mình mua có quyền gì so với cổ phần ưu đãi của nhà đầu tư trước.
+Với nhà đầu tư cá nhân, phần hữu ích nhất có lẽ là danh sách "Value Plays": kiểm tra tiền mặt so với tốc độ đốt tiền (bao nhiêu tháng trước khi phải gọi vốn và bị pha loãng), xem ai nắm cổ phiếu và mức độ giao dịch, và luôn hỏi "doanh thu và biên lợi nhuận ở năm thứ 5 phải là bao nhiêu để biện minh cho giá hôm nay".
+
+Với nhà phân tích, bảng Exhibit 5.1 là một khuôn mẫu gọn: doanh thu theo tốc độ giảm dần, biên hội tụ về biên ngành, tái đầu tư theo tỷ lệ doanh thu trên vốn, chi phí vốn giảm dần, giá trị cuối kỳ nhất quán giữa tăng trưởng và ROC — và bài học từ chính lỗi của bản thảo là phải kiểm tra rằng tái đầu tư ở giai đoạn ổn định khớp với giả định ROC.
+
+Với người đọc Việt Nam, cùng khung tư duy áp dụng được (ở mức định tính) cho các công ty khởi nghiệp công nghệ gọi vốn tư nhân hoặc niêm yết sớm: xác định thị trường có thực sự lớn như câu chuyện gọi vốn nói không, công ty có đủ tiền đi tới điểm có lãi không, và cổ phần mình mua có quyền gì so với cổ phần ưu đãi của nhà đầu tư trước.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết (công ty trẻ và năm đặc điểm, vấn đề khi định giá nội tại và tương đối, giải pháp DCF bốn bước, ví dụ DCF Evergreen Solar, định giá tương đối Evergreen, quyền chọn thực và cách tận dụng cơ hội định giá), mỗi nhánh ghi khái niệm, công thức, quy tắc và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: công ty trẻ khó định giá nhất nhưng vẫn định giá có hệ thống được, bằng cách đối diện từng nguồn bất định`"]
+  n1["`Mục 1–3 — Công ty trẻ: ba nấc đầu vòng đời và năm đặc điểm gây khó định giá`"]
+  n0 --- n1
+  n2["`Ba nấc: công ty ý tưởng chưa có doanh thu, khởi nghiệp lỗ lớn dần, giai đoạn hai tiến tới có lãi`"]
+  n1 --- n2
+  n3["`Không có lịch sử: chỉ một, hai năm số liệu, có khi chưa trọn năm`"]
+  n1 --- n3
+  n4["`Doanh thu nhỏ hoặc bằng 0, chi phí chủ yếu để dựng doanh nghiệp nên lỗ hoạt động`"]
+  n1 --- n4
+  n5["`Vốn từ người sáng lập rồi quỹ mạo hiểm đổi lấy cổ phần, chỉ đa dạng hoá một phần`"]
+  n1 --- n5
+  n6["`Phần lớn không sống sót: doanh nghiệp Mỹ lập năm 1998, 44% sống 4 năm, chỉ 31% sống đủ 7 năm`"]
+  n1 --- n6
+  n7["`Ngành thông tin chỉ 25% sống đủ 7 năm, dịch vụ y tế gần 44%`"]
+  n6 --- n7
+  n8["`Cổ phần tư nhân, không chuẩn hoá nên kém thanh khoản hơn nhiều cổ phần niêm yết`"]
+  n1 --- n8
+  n9["`Mục 4–5 — Vấn đề: cả bốn mảnh ghép DCF lẫn bội số đều gặp khó`"]
+  n0 --- n9
+  n10["`Tài sản hiện có chỉ là phần nhỏ giá trị, chi phí bán hàng và quản lý có thể gấp 3–4 lần doanh thu`"]
+  n9 --- n10
+  n11["`Không có lịch sử doanh thu, lợi nhuận, ROC hiện tại âm nên khó ước tăng trưởng và chất lượng tăng trưởng`"]
+  n9 --- n11
+  n12["`Không có giá cổ phiếu để hồi quy beta, chủ sở hữu thiếu đa dạng hoá đòi bù cả rủi ro riêng`"]
+  n9 --- n12
+  n13["`Giá trị cuối kỳ chiếm 90%, 100% hoặc hơn 100% giá trị hiện tại`"]
+  n9 --- n13
+  n14["`Ba câu hỏi khó: có sống tới giai đoạn ổn định không, khi nào ổn định, khi đó còn lợi nhuận vượt chi phí vốn không`"]
+  n13 --- n14
+  n15["`Các loại cổ phần khác nhau về quyền nhận dòng tiền và quyền kiểm soát, cổ phần tư nhân phải trừ kém thanh khoản`"]
+  n9 --- n15
+  n16["`Bội số: lỗ nên không tính được P/E hay EV/EBITDA, giá trị sổ sách quá nhỏ, doanh thu bằng 0 hoặc rất nhỏ`"]
+  n9 --- n16
+  n17["`Công ty trẻ so sánh chưa niêm yết, công ty niêm yết cùng ngành có rủi ro và tăng trưởng khác hẳn`"]
+  n9 --- n17
+  n18["`Mọi vấn đề của định giá nội tại vẫn còn nguyên khi định giá tương đối`"]
+  n9 --- n18
+  n19["`Mục 6 — Giải pháp DCF bốn bước cho công ty trẻ`"]
+  n0 --- n19
+  n20["`Bước 1: ước dòng tiền từ trên xuống, từ thị trường tiềm năng tới thị phần, biên mục tiêu, tái đầu tư`"]
+  n19 --- n20
+  n21["`Định nghĩa sản phẩm quyết định thị trường: Amazon 1998 là nhà bán sách thì thị trường dưới 10 tỷ USD`"]
+  n20 --- n21
+  n22["`Thị phần lạc quan phải đi kèm đầu tư lớn vào công suất và tiếp thị`"]
+  n20 --- n22
+  n23["`Biên lợi nhuận mục tiêu lấy theo công ty lâu năm cùng ngành, rồi ước con đường từ lỗ tới đó`"]
+  n20 --- n23
+  n24["`Tăng trưởng không miễn phí: dòng tiền âm phải bù bằng vốn mới, cổ đông hiện hữu bị pha loãng`"]
+  n20 --- n24
+  n25["`Bước 2: chi phí vốn trung bình ngành cộng thêm cho rủi ro và thiếu đa dạng hoá, rồi giảm dần về mức ngành`"]
+  n19 --- n25
+  n26["`Nợ vay ngân hàng có thể đắt hơn mức suy từ xếp hạng tín nhiệm tổng hợp`"]
+  n25 --- n26
+  n27["`Bước 3: giá trị cuối kỳ với tăng trưởng không vượt nền kinh tế, chi phí vốn về mức công ty trưởng thành`"]
+  n19 --- n27
+  n28["`Hướng tới IPO hoặc bán cho công ty niêm yết thì dùng tăng trưởng vĩnh viễn, công ty nhỏ dùng vòng đời hữu hạn và giá trị thanh lý`"]
+  n27 --- n28
+  n29["`Sống sót: không cộng vào suất chiết khấu, định giá như thể sống sót rồi điều chỉnh theo xác suất`"]
+  n19 --- n29
+  n30["`Giá trị = (1 − p) × Giá trị DCF hoạt động liên tục + p × Giá trị bán tháo`"]
+  n29 --- n30
+  n31["`Xác suất thất bại lấy trung bình ngành, chỉnh theo ban lãnh đạo, khả năng tiếp cận vốn, tiền mặt`"]
+  n29 --- n31
+  n32["`Chiết khấu người chủ chốt = giá trị khi họ ở lại trừ giá trị khi mất họ, có thể khảo sát khách hàng`"]
+  n19 --- n32
+  n33["`Bước 4: cổ phiếu ưu đãi nhận cổ tức và tiền thanh lý trước, cổ phiếu biểu quyết đắt hơn 5–10% ở Mỹ`"]
+  n19 --- n33
+  n34["`Nghiên cứu trên 28 công ty: mức chênh trung vị tăng từ 2% (1994) lên 2,8% (1999)`"]
+  n33 --- n34
+  n35["`Mục 6, ví dụ Evergreen Solar đầu 2009 — DCF cho 0,63 USD mỗi cổ phiếu so với giá 2,70 USD`"]
+  n0 --- n35
+  n36["`Sản xuất tế bào quang điện, 12 tháng gần nhất doanh thu 90, lỗ hoạt động trước thuế 50 triệu USD`"]
+  n35 --- n36
+  n37["`Doanh thu tăng 40%/năm trong năm 1–5 rồi chậm dần, sau năm 10 tăng 2,25% mãi mãi`"]
+  n35 --- n37
+  n38["`Biên đi từ −55,31% hiện tại, −28,39% năm 1 lên 12% của công ty trưởng thành`"]
+  n35 --- n38
+  n39["`Tái đầu tư = doanh thu tăng thêm / 1,25, FCFF âm suốt năm 1–9`"]
+  n35 --- n39
+  n40["`Chi phí vốn 10,21% (beta 1,60) năm 1–5, giảm dần về 7,20%, chiết khấu bằng chi phí vốn cộng dồn`"]
+  n35 --- n40
+  n41["`Hiện giá dòng tiền 10 năm ≈ −329, hiện giá giá trị cuối kỳ 521, tài sản hoạt động 192 triệu USD`"]
+  n35 --- n41
+  n42["`Vốn chủ sở hữu = 192 + tiền mặt 285 − nợ 374 = 103 triệu USD, chưa trừ rủi ro không sống sót`"]
+  n35 --- n42
+  n43["`Người tổng hợp: công thức cho giá trị cuối kỳ 1.112 chứ không phải 1.255, mỗi cổ phiếu chỉ ≈ 0,26 USD`"]
+  n35 --- n43
+  n44["`Mục 7–8 — Định giá tương đối: dùng số liệu tương lai và điều chỉnh, Evergreen ra EV 285–457 triệu USD`"]
+  n0 --- n44
+  n45["`Bội số công ty niêm yết làm cao giá trị: công ty lớn hơn, dễ sống sót hơn, thanh khoản hơn`"]
+  n44 --- n45
+  n46["`Dùng doanh thu, lợi nhuận năm 5 với bội số hợp với công ty lúc đó: tăng 10% chứ không phải 50%`"]
+  n44 --- n46
+  n47["`Vẫn phải điều chỉnh cho xác suất không sống sót và trừ chiết khấu kém thanh khoản`"]
+  n44 --- n47
+  n48["`Công ty tương tự: bốn công ty năng lượng thay thế, EV/doanh thu trung bình 3,17 (1,23 đến 5,51)`"]
+  n44 --- n48
+  n49["`EV = 3,17 × 90 = 285,3 triệu USD, nhưng bội số chênh lớn nên trung bình kém tin cậy`"]
+  n48 --- n49
+  n50["`Giá trị tương lai: 483 × 1,55 = 749 ở năm 5, chiết khấu 10,37% còn 457 triệu USD`"]
+  n44 --- n50
+  n51["`Tiền đề: sống tới năm 5, dự báo năm 5 hợp lý, khi đó giống công ty lớn trong ngành`"]
+  n50 --- n51
+  n52["`Người tổng hợp quy đổi: khoảng 0,63, 1,20 và 2,25 USD mỗi cổ phiếu, đều dưới giá 2,70 USD`"]
+  n44 --- n52
+  n53["`Mục 9–11 — Quyền chọn thực, cách tận dụng cơ hội định giá và kết luận`"]
+  n0 --- n53
+  n54["`Thành công ban đầu mở đường: MS-DOS, Windows sang Office, iPod sang iPhone, Coca-Cola ra nước ngoài`"]
+  n53 --- n54
+  n55["`Không định giá tường minh quyền chọn thực, chỉ cân nhắc định tính phần giá trị tăng thêm`"]
+  n54 --- n55
+  n56["`Năm điều có thể hỏng: doanh thu, biên mục tiêu, không huy động được vốn, đối thủ ùa vào, mất người chủ chốt`"]
+  n53 --- n56
+  n57["`Chọn công ty có thị trường lớn, kiểm soát chi phí, công nghệ riêng hoặc bằng sáng chế`"]
+  n53 --- n57
+  n58["`Tiếp cận vốn: 100 triệu USD tiền mặt, đốt 10 triệu USD/tháng thì đủ 10 tháng, float cao, có nhà đầu tư tổ chức`"]
+  n53 --- n58
+  n59["`Đặt mục tiêu cải thiện biên lợi nhuận, không đạt thì bán`"]
+  n53 --- n59
+  n60["`Công ty trẻ tốt nhất vẫn là khoản đầu tư tồi nếu mua sai giá: so giá với doanh thu, biên tương lai`"]
+  n53 --- n60
+  n61["`Thông điệp xuyên suốt`"]
+  n0 --- n61
+  n62["`Đừng né bất định bằng bội số tương lai cộng suất chiết khấu cao tuỳ tiện`"]
+  n61 --- n62
+  n63["`Viết ra từng giả định: thị trường, thị phần, biên, tái đầu tư, rủi ro, sống sót`"]
+  n61 --- n63
+  n64["`Giá trị cuối kỳ quyết định kết quả, phải kiểm tra tái đầu tư ổn định khớp giả định ROC`"]
+  n61 --- n64
+  n65["`Chỉ cộng phần bù quyền chọn thực cho công ty có lợi thế độc quyền khai thác cơ hội`"]
+  n61 --- n65
+  class n0 root
+  class n1,n9,n19,n35,n44,n53,n61 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n60,n62,n63,n64,n65 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 2 "Valuing across the life cycle", Chương 5 "Valuing young growth companies and businesses", trang 88–111 (trang 87 là trang tên Phần 2).
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần 1 (Chương 2–4) đã dựng bộ công cụ: giá trị thời gian của tiền, cách đo rủi ro và suất chiết khấu ([Chương 2](C02-cong-cu-cua-nghe-dinh-gia.md)); mô hình định giá nội tại với bốn mảnh ghép là dòng tiền từ tài sản hiện có, tăng trưởng kỳ vọng, suất chiết khấu và thời điểm công ty bước vào tăng trưởng ổn định ([Chương 3](C03-gia-tri-noi-tai.md)); và định giá tương đối bằng bội số cùng công ty so sánh ([Chương 4](C04-dinh-gia-tuong-doi.md)).
+
+Chương 5 mở đầu Phần 2 "Định giá theo vòng đời doanh nghiệp": tác giả lần lượt áp các công cụ đó vào từng giai đoạn của vòng đời, bắt đầu từ giai đoạn khó nhất là công ty mới ra đời, chưa có lịch sử, đang lỗ và có xác suất phá sản cao.
+
+Chương này đặt khung mà các chương 6–11 dùng lại: định nghĩa loại công ty, đặc điểm, vấn đề khi định giá, giải pháp (có ví dụ một công ty thật), cách tận dụng cơ hội định giá và kết luận. Các ý tưởng ở đây — dự báo từ quy mô thị trường xuống doanh thu, biên lợi nhuận mục tiêu, chi phí vốn thay đổi theo thời gian, điều chỉnh cho khả năng sống sót — được dùng tiếp ở [Chương 6](C06-dinh-gia-cong-ty-tang-truong.md) cho công ty tăng trưởng đã niêm yết và ở [Chương 8](C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md) cho công ty kiệt quệ tài chính.
+
+## Lưu ý
+
+- **Phép tính giá trị cuối kỳ của Evergreen Solar trong Exhibit 5.1 không khớp với chính công thức ghi kèm.** Ô chú thích ghi: 134 × (1 − 0,40) × (1 − 0,3112) / (0,0723 − 0,0225) = 1.255 triệu USD. Tính lại: 134 × 0,6 = 80,4; × 0,6888 = 55,38; / 0,0498 = **1.112 triệu USD**, không phải 1.255.
+
+  Con số 1.255 khớp với dòng "Beyond" trong bảng (lợi nhuận hoạt động sau thuế 80, tái đầu tư 18, dòng tiền 62; 62 / (0,072 − 0,0225) ≈ 1.252), nhưng tái đầu tư 18 trên 80 (22,5%) ngầm giả định tỷ suất lợi nhuận trên vốn đầu tư (ROC) vĩnh viễn là 2,25% / 22,5% = 10%, trái với lời ô chú thích rằng ROC sau năm 10 bằng chi phí vốn 7,23%.
+
+  Nếu dùng đúng giả định ROC bằng chi phí vốn: giá trị hiện tại của giá trị cuối kỳ là 1.112 / 2,4092 ≈ 461,6 (thay vì 521); giá trị tài sản hoạt động ≈ −329,3 + 461,6 = 132,3 triệu USD; giá trị vốn chủ sở hữu ≈ 132,3 + 285 − 374 = 43,3 triệu USD; giá trị mỗi cổ phiếu ≈ **0,26 USD** (dùng số cổ phiếu suy ra từ bảng, khoảng 163,5 triệu cổ phiếu = 103 / 0,63; sách không ghi số cổ phiếu). Kết luận "giá trị thấp hơn nhiều so với giá 2,70 USD" càng mạnh hơn.
+- Chi phí vốn giai đoạn ổn định ghi 7,20% trong bảng nhưng 7,23% trong ô chú thích.
+- Chú thích 19 minh hoạ "chi phí vốn cộng dồn năm 7 = (1,1037)^5 × (1,0984) × (1,0937) = 1,9672", nhưng bảng Exhibit 5.1 dùng chi phí vốn 10,21% cho năm 1–5, 9,70% năm 6 và 9,01% năm 7; theo bảng, hệ số cộng dồn năm 7 là 1,9444. Các con số 10,37%/9,84%/9,37% có lẽ thuộc một phiên bản tính toán khác. (Tích ghi trong chú thích tính lại là 1,9675, xấp xỉ 1,9672.) Phần định giá tương đối cũng chiết khấu ở 10,37% (ra 457 triệu USD); nếu dùng 10,21% như bảng thì được khoảng 461 triệu USD.
+- Phần định giá tương đối dẫn "illustration 10.5", "table 10.6", "table 10.8" — số hiệu của một tài liệu khác (có lẽ sách khác của Damodaran), không tồn tại trong bản thảo này. Con số "lợi nhuận hoạt động trước thuế năm 5 là 27,75 triệu USD" cũng không khớp với Exhibit 5.1 (năm 5: 483 × 6,77% ≈ 33 triệu USD). Chương chỉ có một bảng, nhưng được đánh số "Table 5.4" (không có 5.2, 5.3).
+- Đoạn văn mô tả Evergreen Solar là "small battery manufacturer" (nhà sản xuất pin/ắc quy nhỏ), trong khi Exhibit 5.1 nói đúng là nhà sản xuất tế bào quang điện (solar power cells). Đoạn định giá tương đối viết "doanh thu 90 triệu USD năm 2007", nhưng Exhibit ghi doanh thu năm 2007 là 70 triệu USD; 90 triệu USD là doanh thu 12 tháng gần nhất trước thời điểm định giá (đầu 2009).
+- Một số chi tiết trong bảng Exhibit 5.1 lệch nhẹ nhau: ô chú thích nói lỗ luỹ kế được chuyển sang "che" thu nhập khỏi thuế đến năm 9, nhưng bảng đã có thuế từ năm 7 (lợi nhuận 79 nhưng sau thuế 73) và năm 8 (102 nhưng sau thuế 61). Vài dòng dòng tiền và giá trị hiện tại lệch 1 đơn vị do làm tròn (ví dụ năm 1: −36 − 29 = −65 nhưng bảng ghi −64; −64 / 1,1021 = −58,1 nhưng bảng ghi −59). Tổng giá trị hiện tại vẫn ra 192 triệu USD.
+- Ví dụ xác suất thất bại: bản thảo nói với công ty phần mềm đã tồn tại một năm, xác suất thất bại trong 5 năm tới là 38%, là "hiệu" giữa xác suất sống qua 2 năm (64,85%) và qua 7 năm (24,78%). Hiệu số đó thực ra là 40,07 điểm phần trăm, không phải 38%. Cách tính đúng hơn là xác suất có điều kiện: xác suất sống thêm 5 năm khi đã sống qua 2 năm là 24,78 / 64,85 ≈ 38,2%, nên xác suất thất bại là khoảng 61,8%. Có vẻ tác giả đã lẫn con số 38% (xác suất sống sót có điều kiện) thành xác suất thất bại.
+- Mục "Value Plays", ý (c) nói sẽ xét "ba chỉ báo" về khả năng tiếp cận vốn nhưng chỉ nêu hai; ý (d) về sự phụ thuộc vào cá nhân chủ chốt bị bỏ dở giữa câu ("...nurture talent to succeed them (and are"). Phần định giá tương đối nói "ở mục trước về định giá nội tại, chúng tôi đã trình bày các cách ước chiết khấu kém thanh khoản", nhưng chương không có nội dung đó. Câu về nghiên cứu "28 companies In with voting and non-voting shares" bị rơi chữ (thiếu tên nước hoặc thị trường). Hình 5.1 có lỗi chính tả "Starrt-up ccmpanies".
+- Số liệu thị trường: chương không nêu lãi suất phi rủi ro hay phần bù rủi ro vốn cổ phần dùng cho Evergreen; chỉ nêu hệ số beta 1,60 và chi phí vốn 10,21% giảm dần về 7,20%. Theo hiểu biết của người tổng hợp, không tra cứu: đầu 2009 là giữa khủng hoảng tài chính, lãi suất trái phiếu chính phủ Mỹ thấp và phần bù rủi ro cao bất thường; sau đó lãi suất ở quanh mức rất thấp trong nhiều năm rồi tăng mạnh trở lại từ 2022, nên chi phí vốn của một công ty trẻ hiện nay sẽ khác.
+- Số phận công ty ví dụ (theo hiểu biết của người tổng hợp, không tra cứu): Evergreen Solar nộp đơn xin bảo hộ phá sản theo Chương 11 tại Mỹ vào năm 2011, sau khi cạnh tranh giá từ các nhà sản xuất tấm pin mặt trời Trung Quốc làm sụp biên lợi nhuận. Kết cục này ủng hộ đánh giá thận trọng của tác giả (giá trị thấp hơn nhiều so với giá thị trường, chưa kể rủi ro không sống sót).

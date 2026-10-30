@@ -1,20 +1,16 @@
 # Lời nói đầu và mục lục (Preface, Table of Contents)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), trang bìa (trang 1), "Preface" (trang 2) và "Table of Contents" (trang 3–5).
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là phần đứng trước mọi chương. Lời nói đầu chỉ dài một trang nhưng nêu lời hứa của cả cuốn sách: định giá về cốt lõi là việc đơn giản, ai chịu bỏ thời gian thu thập và phân tích thông tin cũng làm được. Mục lục cho thấy cách Damodaran thực hiện lời hứa đó: Chương 1 ([Giới thiệu về giá trị](C01-gioi-thieu-ve-gia-tri.md)) giải thích giá trị là gì và vì sao mọi loại nhà đầu tư cần biết định giá; Phần 1 (Chương 2–4) trao bộ công cụ (giá trị thời gian của tiền, đo lường rủi ro, dữ liệu kế toán, thống kê), rồi trình bày hai cách định giá: định giá nội tại bằng chiết khấu dòng tiền và định giá tương đối bằng bội số; Phần 2 (Chương 5–8) áp dụng hai cách đó cho doanh nghiệp ở từng giai đoạn của vòng đời: khởi nghiệp tăng trưởng, tăng trưởng, trưởng thành, suy thoái và kiệt quệ; Phần 3 (Chương 9–11) xử lý ba nhóm doanh nghiệp đặc biệt: công ty dịch vụ tài chính, công ty có tính chu kỳ và công ty hàng hoá cơ bản, công ty có nhiều tài sản vô hình; Phần 4 (Chương 12) gom lại các bài học về định giá.
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **biết giá trị của một tài sản không bảo đảm đầu tư thành công, nhưng giúp ra quyết định có hiểu biết hơn; và việc định giá không khó tới mức phải giao hẳn cho chuyên gia hay bỏ qua hoàn toàn**. Theo ông, đa số nhà đầu tư thấy định giá quá phức tạp so với khả năng của mình nên hoặc dựa vào người mà họ coi là chuyên gia (nhà phân tích cổ phiếu, chuyên viên thẩm định giá), hoặc đầu tư mà không nghĩ gì đến giá trị. Cuốn sách muốn làm hai việc: chứng minh rằng ai chịu thu thập và phân tích thông tin cũng định giá được, và gỡ bỏ vẻ bí ẩn của nghề định giá để người đọc tự xét được nhận định của các nhà phân tích có hợp lý hay không. Lập luận then chốt là một lời "thú nhận": mô hình định giá đầy đủ có rất nhiều chi tiết, nhưng các chi tiết không quan trọng như nhau; phần lớn các bản định giá dựa chủ yếu vào một hoặc hai yếu tố quyết định giá trị (value drivers), và các yếu tố này khác nhau giữa các công ty. Ai nhận ra và ước lượng được các yếu tố đó ở mức tương đối thì định giá được công ty. Mục lục 12 chương, chia bốn phần, cho thấy cuốn sách đi từ nguyên lý chung (Chương 1–4) sang việc tìm các yếu tố quyết định giá trị cho từng loại công ty (Chương 5–11), mỗi chương loại công ty đều theo một khung giống nhau.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lỗi đánh số "Chapter 12" xuất hiện hai lần.** Ở trang 5 của mục lục, chương về công ty có tài sản vô hình (bắt đầu trang 265) được ghi là "Chapter 12: Valuing companies with intangible assets: Technology, Brand name and Patents", và chương cuối (trang 300) cũng ghi "Chapter 12: Valuation Lessons". Không có "Chapter 11" nào trong mục lục. Theo thứ tự, chương về tài sản vô hình là Chương 11; repo này đặt tên file là `C11-dinh-gia-cong-ty-co-tai-san-vo-hinh.md` và gọi nó là Chương 11.
-> - **Hai dòng đầu mục lục là thông tin bìa, không phải mục nội dung.** Mục lục tự động của bản thảo đưa cả tên sách "The Little Book of Valuation" và dòng "First draft: October 14, 2010" vào như hai mục, cùng ở trang 1.
-> - **Mục lục Chương 1 không nhất quán.** Mục lục chỉ liệt kê "The Accountant" (trang 10) như một mục ngang hàng với "Why should we care?", trong khi năm tiểu mục cùng loại ngay trước đó (The Market timer, The fundamentalist, The chartist, The information trader, The corporate manager) không xuất hiện. Xem trên ảnh trang 8 và 10, tiêu đề "The Accountant" được định dạng cỡ chữ lớn như tiêu đề mục chính, còn năm tiêu đề kia cỡ nhỏ hơn; về nội dung, "The Accountant" là đối tượng thứ sáu trong danh sách những người cần biết định giá. Đây là lỗi định dạng của bản thảo.
-> - **Mục lục các chương 2–4 và 12 chỉ ghi mục lớn.** Chương 3 chỉ có hai mục, trong đó "Discounted Cash flow (DCF) Valuation" trải từ trang 41 đến 63; Chương 12 chỉ có "Enlightening Propositions" (trang 300) và "Conclusion" (trang 311). Các tiểu mục bên trong chỉ thấy khi đọc chương.
-> - **Chương 8 có thêm một mục "Relative Valuation" (trang 185)** chen giữa "Valuation Issues" (181) và "Valuation Solutions" (186); các chương 5, 6, 7, 9, 10, 11 không có mục này. Có thể đây là một tiêu đề cấp dưới bị định dạng nhầm thành cấp mục, tương tự trường hợp "The Accountant".
-> - **Cách viết hoa không thống nhất** giữa các tên chương ("The Tools of the trade", "Valuing young growth companies and businesses" so với "Valuing Mature Companies"). Repo giữ đúng cách viết của bản thảo trong tiêu đề.
-> - **Câu "most valuations rest on one of two key drivers".** Nguyên văn là "one of two" (một trong hai), nhưng ngữ cảnh ("these drivers may vary from company to company", "if you can identify these value drivers") cho thấy ý tác giả là "one or two" (một hoặc hai yếu tố). Bản tổng hợp hiểu theo nghĩa "một hoặc hai".
-> - **Bìa bản thảo không có phụ đề.** Trang 1 chỉ ghi "The Little Book of Valuation", tên, địa chỉ Trường Stern (44 West Fourth Street, 9-96, New York, NY 10012), email, điện thoại của tác giả và ngày "First draft: October 14, 2010". Phụ đề "How to Value a Company, Pick a Stock and Profit" là của bản in Wiley 2011. Theo hiểu biết của người tổng hợp, không tra cứu: bản in có thể đã đổi tên chương, gộp hoặc tách chương so với bản thảo này, nên số chương và số trang ở đây chỉ đúng cho bản thảo.
-> - Lời nói đầu không ký tên, không ghi ngày. Lớp chữ trích từ PDF có chỗ tách chữ cái ("f o r p r a c t i t i o n e r s", "mystiqu e"); đó là lỗi trích, không phải lỗi sách.
+Damodaran muốn người đọc hiểu rằng **biết giá trị của một tài sản không bảo đảm đầu tư thành công, nhưng giúp ra quyết định có hiểu biết hơn; và việc định giá không khó tới mức phải giao hẳn cho chuyên gia hay bỏ qua hoàn toàn**.
+
+Theo ông, đa số nhà đầu tư thấy định giá quá phức tạp so với khả năng của mình nên hoặc dựa vào người mà họ coi là chuyên gia (nhà phân tích cổ phiếu, chuyên viên thẩm định giá), hoặc đầu tư mà không nghĩ gì đến giá trị.
+
+Cuốn sách muốn làm hai việc: chứng minh rằng ai chịu thu thập và phân tích thông tin cũng định giá được, và gỡ bỏ vẻ bí ẩn của nghề định giá để người đọc tự xét được nhận định của các nhà phân tích có hợp lý hay không.
+
+Lập luận then chốt là một lời "thú nhận": mô hình định giá đầy đủ có rất nhiều chi tiết, nhưng các chi tiết không quan trọng như nhau; phần lớn các bản định giá dựa chủ yếu vào một hoặc hai yếu tố quyết định giá trị (value drivers), và các yếu tố này khác nhau giữa các công ty. Ai nhận ra và ước lượng được các yếu tố đó ở mức tương đối thì định giá được công ty.
+
+Mục lục 12 chương, chia bốn phần, cho thấy cuốn sách đi từ nguyên lý chung (Chương 1–4) sang việc tìm các yếu tố quyết định giá trị cho từng loại công ty (Chương 5–11), mỗi chương loại công ty đều theo một khung giống nhau.
 
 ## Sơ đồ
 
@@ -131,7 +127,9 @@ Lời nói đầu có ba đoạn.
 
 **Đoạn 2 — Hai mục tiêu của cuốn sách.** Thứ nhất, tác giả muốn chứng minh rằng định giá, xét ở cốt lõi, là việc đơn giản, và bất kỳ ai sẵn lòng bỏ thời gian thu thập và phân tích thông tin đều có thể định giá một tài sản. Thứ hai, ông muốn gỡ bỏ vẻ bí ẩn (mystique) bao quanh nghề định giá, đồng thời cung cấp cách nhìn để người đọc xem xét các nhận định định giá của nhà phân tích và chuyên viên thẩm định và tự quyết định chúng có hợp lý hay không.
 
-**Đoạn 3 — Lời thú nhận và phương pháp.** Damodaran thừa nhận rằng mô hình định giá ở dạng đầy đủ chứa đầy chi tiết; chính ông đã viết những cuốn sách khác, dành cho người làm nghề định giá, đi sâu vào các chi tiết đó. Nhưng ông đưa ra một "lời thú nhận": không phải mọi chi tiết trong một bản định giá đều quan trọng như nhau, có chi tiết quan trọng hơn hẳn các chi tiết khác. Trên thực tế, phần lớn các bản định giá dựa vào một hoặc hai yếu tố then chốt (key drivers), và các yếu tố này thay đổi từ công ty này sang công ty khác. Nếu người đọc nhận ra được những yếu tố quyết định giá trị đó và ước lượng chúng ở mức tương đối thành công, người đọc định giá được công ty. Đó là điều tác giả muốn làm trong cuốn sách, và ông để người đọc tự đánh giá ông có thành công hay không.
+**Đoạn 3 — Lời thú nhận và phương pháp.** Damodaran thừa nhận rằng mô hình định giá ở dạng đầy đủ chứa đầy chi tiết; chính ông đã viết những cuốn sách khác, dành cho người làm nghề định giá, đi sâu vào các chi tiết đó. Nhưng ông đưa ra một "lời thú nhận": không phải mọi chi tiết trong một bản định giá đều quan trọng như nhau, có chi tiết quan trọng hơn hẳn các chi tiết khác.
+
+Trên thực tế, phần lớn các bản định giá dựa vào một hoặc hai yếu tố then chốt (key drivers), và các yếu tố này thay đổi từ công ty này sang công ty khác. Nếu người đọc nhận ra được những yếu tố quyết định giá trị đó và ước lượng chúng ở mức tương đối thành công, người đọc định giá được công ty. Đó là điều tác giả muốn làm trong cuốn sách, và ông để người đọc tự đánh giá ông có thành công hay không.
 
 ### 3. Mục lục (Table of Contents, trang 3–5)
 
@@ -401,3 +399,151 @@ Lỗi đánh số "Chapter 12" hai lần, mục lục Chương 1 lẫn tiêu đ�
 ### Vận dụng cho người đọc
 
 Với nhà đầu tư cá nhân và nhà phân tích, bài học đầu tiên là thói quen hỏi "giá trị của công ty này phụ thuộc chủ yếu vào điều gì" trước khi mở bất kỳ bảng tính nào. Với người đọc ở Việt Nam, nơi nhiều nhà đầu tư cá nhân dựa vào khuyến nghị của công ty chứng khoán hoặc của các nhóm tư vấn, lời nói đầu là lời nhắc rằng có thể tự kiểm tra một khuyến nghị bằng cách tìm ra giả định then chốt đằng sau giá mục tiêu và tự xét giả định đó có hợp lý không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời nói đầu và mục lục trên một trang: sáu nhánh lớn đi theo Nội dung chi tiết (ba đoạn của Lời nói đầu ở mục 2, Mục lục và khung sáu mục của các chương ứng dụng ở mục 3, các lỗi của bản thảo), mỗi nhánh ghi luận điểm, cấu trúc và số trang then chốt, cộng một nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời nói đầu và mục lục: định giá đơn giản ở cốt lõi nếu tìm đúng một hoặc hai yếu tố quyết định giá trị`"]
+  n1["`Mục 2, đoạn 1 — Vì sao nhà đầu tư né việc định giá`"]
+  n0 --- n1
+  n2["`Biết giá trị không phải điều kiện tiên quyết, không bảo đảm thành công, nhưng giúp nhận định có hiểu biết hơn`"]
+  n1 --- n2
+  n3["`Đa số nhà đầu tư thấy định giá quá phức tạp so với kỹ năng của mình`"]
+  n1 --- n3
+  n4["`Cách né thứ nhất: dựa vào nhà phân tích cổ phiếu hoặc chuyên viên thẩm định giá để có con số`"]
+  n1 --- n4
+  n5["`Cách né thứ hai: đầu tư mà bỏ qua giá trị hoàn toàn`"]
+  n1 --- n5
+  n6["`Mục 2, đoạn 2 — Hai mục tiêu của cuốn sách`"]
+  n0 --- n6
+  n7["`Định giá ở cốt lõi đơn giản: ai chịu thu thập và phân tích thông tin đều định giá được tài sản`"]
+  n6 --- n7
+  n8["`Gỡ vẻ bí ẩn của nghề định giá để người đọc tự xét nhận định của nhà phân tích và chuyên viên thẩm định`"]
+  n6 --- n8
+  n9["`Damodaran mời người đọc tự phán xét ông có làm được lời hứa hay không`"]
+  n6 --- n9
+  n10["`Lời hứa thứ hai hữu ích cho nhà đầu tư cá nhân chỉ thấy giá mục tiêu mà không biết giả định đằng sau`"]
+  n6 --- n10
+  n11["`Mục 2, đoạn 3 — Lời thú nhận: một hoặc hai yếu tố quyết định giá trị`"]
+  n0 --- n11
+  n12["`Mô hình định giá đầy đủ chứa đầy chi tiết, ông đã viết sách đi sâu vào chúng cho người làm nghề`"]
+  n11 --- n12
+  n13["`Các chi tiết không quan trọng như nhau, có chi tiết quan trọng hơn hẳn`"]
+  n11 --- n13
+  n14["`Phần lớn bản định giá dựa vào một hoặc hai yếu tố then chốt (value drivers), khác nhau giữa các công ty`"]
+  n11 --- n14
+  n15["`Nhận ra và ước lượng tương đối thành công các yếu tố đó là định giá được công ty`"]
+  n11 --- n15
+  n16["`Nguyên văn #quot;one of two#quot;, nhưng ngữ cảnh cho thấy ý tác giả là #quot;one or two#quot; (một hoặc hai)`"]
+  n11 --- n16
+  n17["`Hàm ý phân tích độ nhạy: dồn công sức vào vài đầu vào như tăng trưởng doanh thu, biên lợi nhuận, chi phí vốn`"]
+  n11 --- n17
+  n18["`Công ty trẻ: yếu tố chính là tăng trưởng doanh thu và khả năng sống sót`"]
+  n17 --- n18
+  n19["`Công ty trưởng thành: hiệu quả sử dụng tài sản hiện có. Công ty suy thoái: rủi ro phá sản`"]
+  n17 --- n19
+  n20["`Mục 3 — Mục lục: 12 chương chia bốn phần, trang 1–311`"]
+  n0 --- n20
+  n21["`Chương 1 (trang 6–16) đứng ngoài các phần: giá trị là gì, nội tại và tương đối, ai cần định giá, ba sự thật`"]
+  n20 --- n21
+  n22["`Phần 1 Đặt nền móng (Chương 2–4): bộ công cụ và hai cách định giá`"]
+  n20 --- n22
+  n23["`Chương 2 (18–40): giá trị thời gian của tiền, đo lường rủi ro, dữ liệu kế toán, thống kê`"]
+  n22 --- n23
+  n24["`Chương 3 (41–65): giá trị nội tại, định giá chiết khấu dòng tiền (DCF)`"]
+  n22 --- n24
+  n25["`Chương 4 (66–86): định giá tương đối bằng bội số, dung hoà với định giá nội tại`"]
+  n22 --- n25
+  n26["`Phần 2 Định giá theo vòng đời doanh nghiệp (Chương 5–8)`"]
+  n20 --- n26
+  n27["`Chương 5 công ty trẻ đang tăng trưởng (88–111), Chương 6 công ty tăng trưởng (112–141)`"]
+  n26 --- n27
+  n28["`Chương 7 công ty trưởng thành (142–178), Chương 8 suy thoái và kiệt quệ tài chính (179–212)`"]
+  n26 --- n28
+  n29["`Phần 3 Các trường hợp đặc biệt (Chương 9–11)`"]
+  n20 --- n29
+  n30["`Chương 9 dịch vụ tài chính (214–240), Chương 10 chu kỳ và hàng hoá cơ bản (241–264)`"]
+  n29 --- n30
+  n31["`Chương 11 tài sản vô hình: công nghệ, thương hiệu, bằng sáng chế (265–298)`"]
+  n29 --- n31
+  n32["`Phần 4 Thu dọn, tổng kết: Chương 12 các bài học về định giá (300–311)`"]
+  n20 --- n32
+  n33["`Mục 3 — Khung sáu mục chung của bảy chương ứng dụng 5–11`"]
+  n0 --- n33
+  n34["`Sáu mục: loại công ty là gì, đặc điểm, vấn đề khi định giá, giải pháp, cách tận dụng cơ hội, kết luận`"]
+  n33 --- n34
+  n35["`Valuation Issues: những chỗ mô hình định giá chuẩn gặp khó với loại công ty đó`"]
+  n33 --- n35
+  n36["`Valuation Solutions: phần nặng nhất, định giá một công ty thật bằng con số cụ thể`"]
+  n33 --- n36
+  n37["`Chương 7 mục này dài trang 151–176, Chương 11 dài trang 269–296`"]
+  n36 --- n37
+  n38["`Value Plays: nhà đầu tư nên tìm gì ở loại công ty này`"]
+  n33 --- n38
+  n39["`Bảy chương ứng dụng chiếm khoảng 210 trang, tức hai phần ba cuốn sách`"]
+  n33 --- n39
+  n40["`Chia theo loại công ty thay vì theo kỹ thuật, vì yếu tố quyết định giá trị khác nhau theo loại công ty`"]
+  n33 --- n40
+  n41["`Bản thảo 14/10/2010 — các lỗi cần biết`"]
+  n0 --- n41
+  n42["`Ghi #quot;Chapter 12#quot; hai lần, không có #quot;Chapter 11#quot;: chương tài sản vô hình thực chất là Chương 11`"]
+  n41 --- n42
+  n43["`#quot;The Accountant#quot; lọt vào mục lục Chương 1 do bị định dạng nhầm thành tiêu đề cấp mục`"]
+  n41 --- n43
+  n44["`Chương 8 có thêm mục #quot;Relative Valuation#quot; (trang 185), có thể cũng bị định dạng nhầm`"]
+  n41 --- n44
+  n45["`Bìa không có phụ đề, #quot;How to Value a Company, Pick a Stock and Profit#quot; là của bản in Wiley 2011`"]
+  n41 --- n45
+  n46["`Bản thảo còn thô nhưng bốn phần và khung sáu mục đã thống nhất`"]
+  n41 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Đừng phó mặc định giá cho chuyên gia, cũng đừng đầu tư mà bỏ qua giá trị`"]
+  n47 --- n48
+  n49["`Trước khi mở bảng tính, hỏi: giá trị công ty này phụ thuộc chủ yếu vào điều gì`"]
+  n47 --- n49
+  n50["`Đọc bản định giá: tìm yếu tố chính và xét giả định về nó, đừng choáng vì độ dài mô hình`"]
+  n47 --- n50
+  n51["`Hiểu #quot;đơn giản#quot; là không cần mô hình phức tạp, chứ không phải không cần suy nghĩ kỹ`"]
+  n47 --- n51
+  n52["`Ở Việt Nam: tự kiểm tra khuyến nghị của công ty chứng khoán bằng giả định then chốt sau giá mục tiêu`"]
+  n47 --- n52
+  class n0 root
+  class n1,n6,n11,n20,n33,n41,n47 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), trang bìa (trang 1), "Preface" (trang 2) và "Table of Contents" (trang 3–5).
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là phần đứng trước mọi chương. Lời nói đầu chỉ dài một trang nhưng nêu lời hứa của cả cuốn sách: định giá về cốt lõi là việc đơn giản, ai chịu bỏ thời gian thu thập và phân tích thông tin cũng làm được.
+
+Mục lục cho thấy cách Damodaran thực hiện lời hứa đó: Chương 1 ([Giới thiệu về giá trị](C01-gioi-thieu-ve-gia-tri.md)) giải thích giá trị là gì và vì sao mọi loại nhà đầu tư cần biết định giá. Phần 1 (Chương 2–4) trao bộ công cụ (giá trị thời gian của tiền, đo lường rủi ro, dữ liệu kế toán, thống kê), rồi trình bày hai cách định giá: định giá nội tại bằng chiết khấu dòng tiền và định giá tương đối bằng bội số.
+
+Phần 2 (Chương 5–8) áp dụng hai cách đó cho doanh nghiệp ở từng giai đoạn của vòng đời: khởi nghiệp tăng trưởng, tăng trưởng, trưởng thành, suy thoái và kiệt quệ. Phần 3 (Chương 9–11) xử lý ba nhóm doanh nghiệp đặc biệt: công ty dịch vụ tài chính, công ty có tính chu kỳ và công ty hàng hoá cơ bản, công ty có nhiều tài sản vô hình. Phần 4 (Chương 12) gom lại các bài học về định giá.
+
+## Lưu ý
+
+- **Lỗi đánh số "Chapter 12" xuất hiện hai lần.** Ở trang 5 của mục lục, chương về công ty có tài sản vô hình (bắt đầu trang 265) được ghi là "Chapter 12: Valuing companies with intangible assets: Technology, Brand name and Patents", và chương cuối (trang 300) cũng ghi "Chapter 12: Valuation Lessons". Không có "Chapter 11" nào trong mục lục. Theo thứ tự, chương về tài sản vô hình là Chương 11; repo này đặt tên file là `C11-dinh-gia-cong-ty-co-tai-san-vo-hinh.md` và gọi nó là Chương 11.
+- **Hai dòng đầu mục lục là thông tin bìa, không phải mục nội dung.** Mục lục tự động của bản thảo đưa cả tên sách "The Little Book of Valuation" và dòng "First draft: October 14, 2010" vào như hai mục, cùng ở trang 1.
+- **Mục lục Chương 1 không nhất quán.** Mục lục chỉ liệt kê "The Accountant" (trang 10) như một mục ngang hàng với "Why should we care?", trong khi năm tiểu mục cùng loại ngay trước đó (The Market timer, The fundamentalist, The chartist, The information trader, The corporate manager) không xuất hiện. Xem trên ảnh trang 8 và 10, tiêu đề "The Accountant" được định dạng cỡ chữ lớn như tiêu đề mục chính, còn năm tiêu đề kia cỡ nhỏ hơn; về nội dung, "The Accountant" là đối tượng thứ sáu trong danh sách những người cần biết định giá. Đây là lỗi định dạng của bản thảo.
+- **Mục lục các chương 2–4 và 12 chỉ ghi mục lớn.** Chương 3 chỉ có hai mục, trong đó "Discounted Cash flow (DCF) Valuation" trải từ trang 41 đến 63; Chương 12 chỉ có "Enlightening Propositions" (trang 300) và "Conclusion" (trang 311). Các tiểu mục bên trong chỉ thấy khi đọc chương.
+- **Chương 8 có thêm một mục "Relative Valuation" (trang 185)** chen giữa "Valuation Issues" (181) và "Valuation Solutions" (186); các chương 5, 6, 7, 9, 10, 11 không có mục này. Có thể đây là một tiêu đề cấp dưới bị định dạng nhầm thành cấp mục, tương tự trường hợp "The Accountant".
+- **Cách viết hoa không thống nhất** giữa các tên chương ("The Tools of the trade", "Valuing young growth companies and businesses" so với "Valuing Mature Companies"). Repo giữ đúng cách viết của bản thảo trong tiêu đề.
+- **Câu "most valuations rest on one of two key drivers".** Nguyên văn là "one of two" (một trong hai), nhưng ngữ cảnh ("these drivers may vary from company to company", "if you can identify these value drivers") cho thấy ý tác giả là "one or two" (một hoặc hai yếu tố). Bản tổng hợp hiểu theo nghĩa "một hoặc hai".
+- **Bìa bản thảo không có phụ đề.** Trang 1 chỉ ghi "The Little Book of Valuation", tên, địa chỉ Trường Stern (44 West Fourth Street, 9-96, New York, NY 10012), email, điện thoại của tác giả và ngày "First draft: October 14, 2010". Phụ đề "How to Value a Company, Pick a Stock and Profit" là của bản in Wiley 2011. Theo hiểu biết của người tổng hợp, không tra cứu: bản in có thể đã đổi tên chương, gộp hoặc tách chương so với bản thảo này, nên số chương và số trang ở đây chỉ đúng cho bản thảo.
+- Lời nói đầu không ký tên, không ghi ngày. Lớp chữ trích từ PDF có chỗ tách chữ cái ("f o r p r a c t i t i o n e r s", "mystiqu e"); đó là lỗi trích, không phải lỗi sách.

@@ -1,19 +1,16 @@
 # Chương 3 — Giá trị nội tại (Intrinsic Value)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 1 "Laying the groundwork", Chương 3 "Intrinsic Value", trang 41–65.
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-gioi-thieu-ve-gia-tri.md](C01-gioi-thieu-ve-gia-tri.md)) phân biệt hai cách nhìn giá trị: giá trị nội tại dựa trên dòng tiền và rủi ro, và định giá theo giá thị trường của tài sản tương tự. Chương 2 ([C02-cong-cu-cua-nghe-dinh-gia.md](C02-cong-cu-cua-nghe-dinh-gia.md)) đưa ra bộ công cụ: giá trị thời gian của tiền, các mô hình rủi ro và lợi suất (lãi suất phi rủi ro, phần bù rủi ro vốn cổ phần, hệ số beta), cách đọc báo cáo tài chính và "bảng cân đối tài chính" chia tài sản thành tài sản hiện có và tài sản tăng trưởng. Chương 3 ghép các công cụ đó thành một quy trình định giá chiết khấu dòng tiền (DCF) hoàn chỉnh với bốn đầu vào — dòng tiền, rủi ro (suất chiết khấu), tăng trưởng và giá trị cuối kỳ — rồi cộng trừ các khoản "đầu mối còn lại" để ra giá trị mỗi cổ phiếu, minh hoạ xuyên suốt bằng tập đoàn 3M. Chương 4 ([C04-dinh-gia-tuong-doi.md](C04-dinh-gia-tuong-doi.md)) trình bày cách còn lại: định giá tương đối bằng bội số. Từ Chương 5 đến Chương 11, khung DCF của chương này được áp dụng cho từng giai đoạn vòng đời doanh nghiệp và từng loại công ty đặc biệt, mỗi chương chỉ ra đầu vào nào khó ước tính và cách xử lý.
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **giá trị nội tại của một tài sản là giá trị hiện tại của dòng tiền kỳ vọng mà tài sản đó tạo ra, chiết khấu ở suất chiết khấu phản ánh rủi ro của dòng tiền; mọi con số trong mô hình — dòng tiền, suất chiết khấu, tăng trưởng, giá trị cuối kỳ — phải nhất quán với nhau và tăng trưởng phải "được trả giá" bằng tái đầu tư.** Có hai cách tiếp cận: định giá cả doanh nghiệp (dòng tiền tự do của doanh nghiệp, FCFF, chiết khấu ở chi phí vốn) hoặc định giá riêng vốn chủ sở hữu (cổ tức hoặc dòng tiền tự do của vốn chủ sở hữu, FCFE, chiết khấu ở chi phí vốn chủ sở hữu). Tăng trưởng cơ bản bằng tỷ lệ tái đầu tư nhân với tỷ suất lợi nhuận trên vốn; trong giai đoạn tăng trưởng ổn định, tốc độ tăng trưởng không được vượt tăng trưởng của nền kinh tế (quy tắc nhanh: không vượt lãi suất phi rủi ro), và điều quyết định giá trị cuối kỳ không phải tốc độ tăng trưởng mà là lợi nhuận vượt chi phí vốn đi kèm. Ví dụ trung tâm là 3M: năm 2007 lợi nhuận hoạt động sau thuế 3.586 triệu USD, FCFF 2.454 triệu USD; tháng 9/2008 chi phí vốn 8,63% (lãi suất phi rủi ro 3,72%, beta 1,36, phần bù rủi ro 4%); giả định 5 năm tăng trưởng 7,5% (tái đầu tư 30% với ROC 25%), sau đó tăng trưởng 3% mãi mãi với chi phí vốn 6,76% và ROC bằng chi phí vốn; giá trị tài sản hoạt động khoảng 64 tỷ USD, cộng tiền mặt 3.253, trừ nợ 5.297 và quyền chọn của ban lãnh đạo 1.216, ra giá trị vốn chủ sở hữu 60.776 triệu USD, tức 86,95 USD mỗi cổ phiếu.
+## Ý chính
 
-> **Lưu ý:**
-> - **Sai số học trong Exhibit 3.1 (dòng tiền 3M năm 2007):** (1) cổ tức ghi "$1.380 million" là lỗi đánh máy của 1.380 triệu USD; (2) cổ tức tăng cường ghi 4.609 triệu USD, nhưng 1.380 + 3.239 = **4.619** triệu USD; (3) tỷ lệ tái đầu tư vốn chủ sở hữu ghi −90/4.010 = −2,27%, đúng ra là **−2,24%**; (4) trong ô FCFF, nhãn ghi "Equity Reinvestment Rate" (đúng ra là tỷ lệ tái đầu tư của doanh nghiệp) và phép tính ghi 1.132/3.474 = 36,37%, nhưng 1.132/3.474 = 32,58%, còn mẫu số đúng phải là lợi nhuận hoạt động sau thuế 3.586, cho **31,57%** — chính con số mà Exhibit 3.4 dùng ở dòng "Current". Con số 36,37% sai này được dùng tiếp trong Exhibit 3.3 để ra tăng trưởng cơ bản 9,21%; với 31,57%, tăng trưởng sẽ là 31,57% × 25,31% = **7,99%**.
-> - **Dấu trong công thức FCFE (trang 45) bị sai:** bản thảo viết "Net Income + (Capital Expenditures − Depreciation + Change in non-cash working capital) − (Principal Repayments + New Debt Issues)". Đúng ra (và đúng như dòng đầu của công thức và cách tính trong Exhibit 3.1) là: FCFE = Lợi nhuận ròng − (Chi đầu tư vốn − Khấu hao) − Thay đổi vốn lưu động không gồm tiền mặt − (Nợ gốc trả − Nợ mới phát hành). Bản tổng hợp dùng dạng đúng.
-> - **Cột giá trị hiện tại trong Exhibit 3.4 (định giá 3M) bị lặp số:** cả năm năm đều ghi 2.484 triệu USD. Chỉ năm 1 đúng; giá trị hiện tại đúng của năm 1–5 là 2.484, 2.458, 2.433, 2.407, 2.382 (tổng 12.164). Dòng "giá trị tài sản hoạt động" ghi 64.291 (= 5 × 2.484 + 51.872), đúng ra là **12.164 + 51.872 = 64.036** triệu USD. Tuy vậy, giá trị vốn chủ sở hữu 60.776 và giá trị mỗi cổ phiếu 86,95 USD trong bảng lại khớp với con số đúng 64.036 (64.036 + 3.253 − 5.297 − 1.216 = 60.776), còn nếu lấy 64.291 thì sẽ ra 61.031. Vậy lỗi chỉ nằm ở phần hiển thị, kết quả cuối cùng của bản thảo đúng. Ngoài ra, ở dòng "Beyond", con số 78.464 đặt dưới cột FCFF thực ra là **giá trị cuối kỳ** (cuối năm 5); FCFF của năm 6 chỉ khoảng 2.948 triệu USD.
-> - **Đánh số hình, bảng lộn xộn:** "Figure 3.3" được dùng cho cả hình rủi ro doanh nghiệp so với rủi ro vốn chủ sở hữu và (trong lời văn) cho bảng ước tính tăng trưởng, trong khi hình thật ghi "Exhibit 3.3"; lời văn nói "Figure 3.4" nhưng hình ghi "Exhibit 3.4". Chương có Table 3.3, 3.5, 3.6, 3.7 nhưng không có Table 3.1, 3.2, 3.4. Phần tăng trưởng không có tiêu đề lớn "Growth" như ba đầu vào kia. Bảng cân đối tài chính lúc thì nói "giới thiệu ở chương 2" (trang 41), lúc thì "chương 1" (trang 48). Tiêu đề Exhibit 3.2 và 3.3 có lỗi "iin Setpember". Câu cuối trang 42 bị cụt ("... value of equity in the firm. T").
-> - **Mâu thuẫn nhỏ về số liệu:** lời văn (trang 51) nói chênh lệch vỡ nợ của trái phiếu hạng BBB tháng 9/2008 là 2%, nhưng bảng xếp hạng tổng hợp trong Exhibit 3.2 ghi BBB là 2,50%; trong cùng bảng, hạng D ghi "< 0,65" chồng lên khoảng 0,50–0,80 của hạng C (hợp lý ra là "< 0,50"). Tỷ lệ nợ của 3M là 8,50% trong Exhibit 3.2 nhưng 8,48% trong Table 3.6 (chênh lệch do làm tròn). Hệ số khả năng trả lãi 5.361/227 = 23,62 (bản thảo ghi 23,63). Damodaran khuyên dùng thuế suất biên (ở Mỹ năm 2008 gần 40%) để tính chi phí nợ sau thuế, nhưng ví dụ 3M lại dùng 35% (thuế suất liên bang).
-> - **Thời điểm số liệu:** dòng tiền là của năm tài chính 2007, chi phí vốn và tăng trưởng ước tính tháng 9/2008 — đúng tuần lễ khủng hoảng tài chính toàn cầu bùng nổ (Lehman Brothers phá sản ngày 15/9/2008, theo hiểu biết của người tổng hợp). Bản thảo không so giá trị 86,95 USD với giá thị trường; người tổng hợp suy ra từ giá trị thị trường vốn chủ sở hữu 57.041 triệu USD và khoảng 699 triệu cổ phiếu (= 60.776 / 86,95) rằng giá dùng trong bảng chi phí vốn khoảng 81,6 USD/cổ phiếu, tức giá trị ước tính cao hơn giá khoảng 6–7%.
-> - **Số liệu thị trường nay đã khác (theo hiểu biết của người tổng hợp, không tra cứu):** lãi suất trái phiếu chính phủ Mỹ 10 năm 3,72% (9/2008) sau đó giảm sâu, có lúc dưới 1% vào 2020–2021, rồi tăng lại lên vùng 4–5% từ 2022–2023; thuế suất thu nhập doanh nghiệp liên bang của Mỹ giảm từ 35% xuống 21% từ năm 2018, nên thuế suất 35% và "gần 40%" trong chương không còn đúng; phần bù rủi ro vốn cổ phần ngụ ý mà Damodaran công bố tăng vọt trong khủng hoảng 2008–2009 và sau đó dao động quanh khoảng 4–6%, cao hơn mức 4% dùng ở đây.
-> - **Số phận của 3M (theo hiểu biết của người tổng hợp, không tra cứu):** những năm sau, 3M chịu các vụ kiện lớn về hoá chất PFAS và về nút bịt tai quân dụng, dẫn tới các khoản dàn xếp hàng tỷ USD vào năm 2023 — một minh hoạ thực tế cho khoản "nợ tiềm tàng do kiện tụng" mà chương nói phải trừ khỏi giá trị vốn chủ sở hữu; năm 2024 3M tách mảng chăm sóc sức khoẻ (mảng chiếm khoảng 24% giá trị trong bảng beta theo ngành của chương) thành công ty riêng.
+Damodaran muốn người đọc hiểu rằng **giá trị nội tại của một tài sản là giá trị hiện tại của dòng tiền kỳ vọng mà tài sản đó tạo ra, chiết khấu ở suất chiết khấu phản ánh rủi ro của dòng tiền; mọi con số trong mô hình — dòng tiền, suất chiết khấu, tăng trưởng, giá trị cuối kỳ — phải nhất quán với nhau và tăng trưởng phải "được trả giá" bằng tái đầu tư.**
+
+Có hai cách tiếp cận: định giá cả doanh nghiệp (dòng tiền tự do của doanh nghiệp, FCFF, chiết khấu ở chi phí vốn) hoặc định giá riêng vốn chủ sở hữu (cổ tức hoặc dòng tiền tự do của vốn chủ sở hữu, FCFE, chiết khấu ở chi phí vốn chủ sở hữu).
+
+Tăng trưởng cơ bản bằng tỷ lệ tái đầu tư nhân với tỷ suất lợi nhuận trên vốn. Trong giai đoạn tăng trưởng ổn định, tốc độ tăng trưởng không được vượt tăng trưởng của nền kinh tế (quy tắc nhanh: không vượt lãi suất phi rủi ro), và điều quyết định giá trị cuối kỳ không phải tốc độ tăng trưởng mà là lợi nhuận vượt chi phí vốn đi kèm. Ví dụ trung tâm là 3M: năm 2007 lợi nhuận hoạt động sau thuế 3.586 triệu USD, FCFF 2.454 triệu USD. Tháng 9/2008 chi phí vốn 8,63% (lãi suất phi rủi ro 3,72%, beta 1,36, phần bù rủi ro 4%).
+
+Giả định 5 năm tăng trưởng 7,5% (tái đầu tư 30% với ROC 25%), sau đó tăng trưởng 3% mãi mãi với chi phí vốn 6,76% và ROC bằng chi phí vốn.
+
+Giá trị tài sản hoạt động khoảng 64 tỷ USD, cộng tiền mặt 3.253, trừ nợ 5.297 và quyền chọn của ban lãnh đạo 1.216, ra giá trị vốn chủ sở hữu 60.776 triệu USD, tức 86,95 USD mỗi cổ phiếu.
 
 ## Sơ đồ
 
@@ -465,7 +462,11 @@ Xét từng phần:
 
 - **Lợi nhuận ròng** là điểm xuất phát vì đó là lợi nhuận tạo ra cho cổ đông, đã sau chi phí lãi vay và thuế.
 - **Tái đầu tư vào tài sản dài hạn** đo bằng chi đầu tư vốn (số tiền đầu tư vào tài sản dài hạn trong kỳ) trừ khấu hao (chi phí kế toán sinh ra từ các khoản chi đầu tư vốn của các kỳ trước). Khấu hao được trừ ra vì không phải khoản chi bằng tiền, nên có thể cộng ngược vào lợi nhuận ròng.
-- **Tái đầu tư vào tài sản ngắn hạn** đo bằng thay đổi vốn lưu động không gồm tiền mặt. Tăng hàng tồn kho và phải thu là tiền bị giữ chặt trong những tài sản không sinh lời — "tài sản lãng phí". Tiền mặt không được tính vì giả định rằng công ty có nhiều tiền thường đầu tư vào chứng khoán ít rủi ro, dễ bán như thương phiếu và tín phiếu kho bạc; các khoản này có lợi suất thấp nhưng hợp lý nên không phải tài sản lãng phí. (Chú thích của tác giả: ông không phân biệt tiền mặt hoạt động và phi hoạt động như một số nhà phân tích — những người đưa tiền mặt hoạt động vào vốn lưu động; ông phân biệt tiền mặt "lãng phí" (tiền giấy, hoặc tiền có lợi suất dưới mức thị trường) với tiền mặt không lãng phí, và giả định loại thứ nhất rất nhỏ ở công ty niêm yết.) Phần tăng hàng tồn kho và phải thu được bù trừ một phần bởi tín dụng nhà cung cấp và phải trả người bán. Tổng thay đổi vốn lưu động không gồm tiền mặt vì thế là khoản đầu tư vào tài sản ngắn hạn.
+- **Tái đầu tư vào tài sản ngắn hạn** đo bằng thay đổi vốn lưu động không gồm tiền mặt. Tăng hàng tồn kho và phải thu là tiền bị giữ chặt trong những tài sản không sinh lời — "tài sản lãng phí".
+
+  Tiền mặt không được tính vì giả định rằng công ty có nhiều tiền thường đầu tư vào chứng khoán ít rủi ro, dễ bán như thương phiếu và tín phiếu kho bạc; các khoản này có lợi suất thấp nhưng hợp lý nên không phải tài sản lãng phí. (Chú thích của tác giả: ông không phân biệt tiền mặt hoạt động và phi hoạt động như một số nhà phân tích — những người đưa tiền mặt hoạt động vào vốn lưu động; ông phân biệt tiền mặt "lãng phí" (tiền giấy, hoặc tiền có lợi suất dưới mức thị trường) với tiền mặt không lãng phí, và giả định loại thứ nhất rất nhỏ ở công ty niêm yết.)
+
+  Phần tăng hàng tồn kho và phải thu được bù trừ một phần bởi tín dụng nhà cung cấp và phải trả người bán. Tổng thay đổi vốn lưu động không gồm tiền mặt vì thế là khoản đầu tư vào tài sản ngắn hạn.
 - Tái đầu tư làm giảm dòng tiền cho cổ đông nhưng đem lại tăng trưởng tương lai; tác động ròng là dương hay âm sẽ được bàn ở phần tăng trưởng.
 - **Dòng tiền nợ:** trả nợ gốc cũ là dòng tiền âm, vay nợ mới là dòng tiền dương cho cổ đông. Nếu nợ cũ được thay bằng nợ mới đúng bằng số đó, khoản này bằng 0; vay mới nhiều hơn trả gốc thì dòng tiền dương, ngược lại thì âm.
 
@@ -478,7 +479,11 @@ Dòng tiền của doanh nghiệp là phần tiền còn lại sau thuế và sa
 FCFF = Lợi nhuận hoạt động sau thuế − Tái đầu tư
 = Lợi nhuận hoạt động sau thuế − (Chi đầu tư vốn − Khấu hao + Thay đổi vốn lưu động không gồm tiền mặt)
 
-So với FCFE: (1) xuất phát từ lợi nhuận hoạt động sau thuế thay vì lợi nhuận ròng — lợi nhuận hoạt động là trước chi phí lãi vay, lợi nhuận ròng là sau; (2) thuế được tính như thể toàn bộ lợi nhuận hoạt động chịu thuế, trong khi lợi nhuận ròng đã là số sau thuế. Chú thích của tác giả giải thích: khi tính thuế trên lợi nhuận hoạt động, ta làm như doanh nghiệp không có chi phí lãi vay và không hưởng lợi ích thuế từ lãi vay, vì lợi ích thuế của nợ đã được tính trong chi phí vốn (qua chi phí nợ sau thuế); nếu dùng thuế thực nộp hoặc đưa lợi ích thuế của lãi vay vào dòng tiền thì sẽ tính hai lần; (3) vẫn trừ tái đầu tư như FCFE nhưng không trừ dòng tiền nợ, vì đây là dòng tiền cho toàn bộ vốn chứ không riêng vốn chủ sở hữu.
+So với FCFE:
+
+1. Xuất phát từ lợi nhuận hoạt động sau thuế thay vì lợi nhuận ròng — lợi nhuận hoạt động là trước chi phí lãi vay, lợi nhuận ròng là sau.
+2. Thuế được tính như thể toàn bộ lợi nhuận hoạt động chịu thuế, trong khi lợi nhuận ròng đã là số sau thuế. Chú thích của tác giả giải thích: khi tính thuế trên lợi nhuận hoạt động, ta làm như doanh nghiệp không có chi phí lãi vay và không hưởng lợi ích thuế từ lãi vay, vì lợi ích thuế của nợ đã được tính trong chi phí vốn (qua chi phí nợ sau thuế); nếu dùng thuế thực nộp hoặc đưa lợi ích thuế của lãi vay vào dòng tiền thì sẽ tính hai lần.
+3. Vẫn trừ tái đầu tư như FCFE nhưng không trừ dòng tiền nợ, vì đây là dòng tiền cho toàn bộ vốn chứ không riêng vốn chủ sở hữu.
 
 Có thể gộp chi đầu tư vốn ròng và thay đổi vốn lưu động thành một con số và biểu diễn nó dưới dạng phần trăm của lợi nhuận hoạt động sau thuế, gọi là tỷ lệ tái đầu tư:
 
@@ -637,9 +642,13 @@ Kiểm tra: 57.041 + 5.297 = 62.338; 57.041 / 62.338 = 91,50%; chi phí vốn = 
 
 ### 5. Tăng trưởng quá khứ và tăng trưởng dự báo (Historical and Forecasted Growth Rates, trang 53–54)
 
-Khi phải ước tính tăng trưởng, nhà phân tích thường nhìn về quá khứ: lấy tăng trưởng doanh thu hay lợi nhuận gần đây làm dự báo. Nhưng ngay cả tăng trưởng quá khứ của cùng một công ty cũng cho nhiều con số khác nhau, tuỳ lựa chọn tính toán: lùi lại bao nhiêu năm, dùng thước đo lợi nhuận nào (lợi nhuận ròng, EPS, lợi nhuận hoạt động), lấy bình quân cộng hay bình quân nhân. Tranh luận cách tính nào tốt nhất chỉ có ý nghĩa nếu tăng trưởng quá khứ dự báo tốt tăng trưởng tương lai. Tiếc là các nghiên cứu nhìn chung kết luận: (a) quan hệ giữa tăng trưởng quá khứ và tương lai rất yếu; (b) quy mô có tác động — công ty càng lớn tăng trưởng càng giảm mạnh; (c) doanh nghiệp và ngành đi qua các chu kỳ tăng trưởng, giai đoạn tăng nhanh thường tiếp nối bởi giai đoạn tăng chậm.
+Khi phải ước tính tăng trưởng, nhà phân tích thường nhìn về quá khứ: lấy tăng trưởng doanh thu hay lợi nhuận gần đây làm dự báo. Nhưng ngay cả tăng trưởng quá khứ của cùng một công ty cũng cho nhiều con số khác nhau, tuỳ lựa chọn tính toán: lùi lại bao nhiêu năm, dùng thước đo lợi nhuận nào (lợi nhuận ròng, EPS, lợi nhuận hoạt động), lấy bình quân cộng hay bình quân nhân.
 
-Nếu quá khứ không giúp được, có thể dựa vào những người hiểu công ty hơn ta: nhà phân tích nghiên cứu cổ phiếu đã theo dõi công ty nhiều năm, hoặc chính ban lãnh đạo. Điểm cộng: dự báo của họ dựa trên thông tin tốt hơn — ban lãnh đạo biết rõ hơn họ sẽ tái đầu tư bao nhiêu và lợi suất tiềm năng của các khoản đầu tư, nhà phân tích có kinh nghiệm ngành và nguồn tin. Điểm trừ: cả hai đều không khách quan về tương lai — ban lãnh đạo dễ đánh giá quá cao khả năng tạo tăng trưởng của mình, nhà phân tích có thiên lệch riêng — và cả hai dễ bị cuốn theo tâm lý thời điểm, đánh giá quá cao tăng trưởng lúc thị trường hưng phấn và quá thấp lúc ảm đạm. Cũng như tăng trưởng quá khứ, các nghiên cứu cho thấy cả dự báo của nhà phân tích lẫn của ban lãnh đạo đều không dự báo tốt tăng trưởng tương lai.
+Tranh luận cách tính nào tốt nhất chỉ có ý nghĩa nếu tăng trưởng quá khứ dự báo tốt tăng trưởng tương lai. Tiếc là các nghiên cứu nhìn chung kết luận: (a) quan hệ giữa tăng trưởng quá khứ và tương lai rất yếu; (b) quy mô có tác động — công ty càng lớn tăng trưởng càng giảm mạnh; (c) doanh nghiệp và ngành đi qua các chu kỳ tăng trưởng, giai đoạn tăng nhanh thường tiếp nối bởi giai đoạn tăng chậm.
+
+Nếu quá khứ không giúp được, có thể dựa vào những người hiểu công ty hơn ta: nhà phân tích nghiên cứu cổ phiếu đã theo dõi công ty nhiều năm, hoặc chính ban lãnh đạo. Điểm cộng: dự báo của họ dựa trên thông tin tốt hơn — ban lãnh đạo biết rõ hơn họ sẽ tái đầu tư bao nhiêu và lợi suất tiềm năng của các khoản đầu tư, nhà phân tích có kinh nghiệm ngành và nguồn tin.
+
+Điểm trừ: cả hai đều không khách quan về tương lai — ban lãnh đạo dễ đánh giá quá cao khả năng tạo tăng trưởng của mình, nhà phân tích có thiên lệch riêng — và cả hai dễ bị cuốn theo tâm lý thời điểm, đánh giá quá cao tăng trưởng lúc thị trường hưng phấn và quá thấp lúc ảm đạm. Cũng như tăng trưởng quá khứ, các nghiên cứu cho thấy cả dự báo của nhà phân tích lẫn của ban lãnh đạo đều không dự báo tốt tăng trưởng tương lai.
 
 ### 6. Tăng trưởng cơ bản (Fundamental Growth Rates, trang 54–57)
 
@@ -720,7 +729,11 @@ Giá trị cuối kỳ năm n = Dòng tiền năm n + 1 / (Suất chiết khấu
 
 Định nghĩa dòng tiền và tốc độ tăng trưởng phải nhất quán với việc định giá cổ tức, dòng tiền vốn chủ sở hữu hay dòng tiền doanh nghiệp; suất chiết khấu là chi phí vốn chủ sở hữu cho hai trường hợp đầu và chi phí vốn cho trường hợp cuối. Mô hình mạnh nhưng dễ bị lạm dụng: nhà phân tích thường dùng nó như "con heo đất", tìm đến mỗi khi thấy giá trị mình tính ra quá thấp hay quá cao, vì thay đổi nhỏ ở đầu vào có thể làm giá trị cuối kỳ thay đổi rất lớn. Do đó cần ba ràng buộc:
 
-**a. Giới hạn tốc độ tăng trưởng.** Thay đổi nhỏ ở tốc độ tăng trưởng ổn định có thể làm giá trị cuối kỳ thay đổi đáng kể, và tác động càng lớn khi tốc độ tăng trưởng càng gần suất chiết khấu. Nhưng chính việc tốc độ này không đổi mãi mãi đặt giới hạn chặt cho nó: không doanh nghiệp nào tăng trưởng mãi mãi nhanh hơn nền kinh tế nơi nó hoạt động, nên tốc độ tăng trưởng không đổi không thể lớn hơn tốc độ tăng trưởng chung của nền kinh tế. Đặt tốc độ tăng trưởng ổn định nhỏ hơn hoặc bằng tăng trưởng kinh tế không chỉ nhất quán mà còn bảo đảm tốc độ tăng trưởng nhỏ hơn suất chiết khấu. Quy tắc nhanh: tốc độ tăng trưởng ổn định không nên vượt lãi suất phi rủi ro dùng trong phép định giá. Lý do (chú thích của tác giả): lãi suất phi rủi ro danh nghĩa = lãi suất phi rủi ro thực + lạm phát kỳ vọng; về dài hạn, lãi suất phi rủi ro thực hội tụ về tốc độ tăng trưởng thực của nền kinh tế, nên lãi suất phi rủi ro danh nghĩa tiến gần tốc độ tăng trưởng danh nghĩa của nền kinh tế.
+**a. Giới hạn tốc độ tăng trưởng.** Thay đổi nhỏ ở tốc độ tăng trưởng ổn định có thể làm giá trị cuối kỳ thay đổi đáng kể, và tác động càng lớn khi tốc độ tăng trưởng càng gần suất chiết khấu.
+
+Nhưng chính việc tốc độ này không đổi mãi mãi đặt giới hạn chặt cho nó: không doanh nghiệp nào tăng trưởng mãi mãi nhanh hơn nền kinh tế nơi nó hoạt động, nên tốc độ tăng trưởng không đổi không thể lớn hơn tốc độ tăng trưởng chung của nền kinh tế. Đặt tốc độ tăng trưởng ổn định nhỏ hơn hoặc bằng tăng trưởng kinh tế không chỉ nhất quán mà còn bảo đảm tốc độ tăng trưởng nhỏ hơn suất chiết khấu.
+
+Quy tắc nhanh: tốc độ tăng trưởng ổn định không nên vượt lãi suất phi rủi ro dùng trong phép định giá. Lý do (chú thích của tác giả): lãi suất phi rủi ro danh nghĩa = lãi suất phi rủi ro thực + lạm phát kỳ vọng; về dài hạn, lãi suất phi rủi ro thực hội tụ về tốc độ tăng trưởng thực của nền kinh tế, nên lãi suất phi rủi ro danh nghĩa tiến gần tốc độ tăng trưởng danh nghĩa của nền kinh tế.
 
 **b. Dùng đặc điểm rủi ro của công ty trưởng thành.** Khi doanh nghiệp chuyển từ tăng trưởng cao sang tăng trưởng ổn định, cần gán cho nó đặc điểm của doanh nghiệp tăng trưởng ổn định, vốn khác chính nó lúc tăng trưởng cao ở nhiều mặt. Nói chung, doanh nghiệp tăng trưởng ổn định ít rủi ro hơn và dùng nhiều nợ hơn. Trên thực tế, nên kéo beta của cả những doanh nghiệp rủi ro cao về gần 1 trong giai đoạn ổn định và cho chúng tỷ lệ nợ phù hợp hơn với dòng tiền lớn hơn, ổn định hơn.
 
@@ -738,9 +751,15 @@ Gắn tỷ lệ tái đầu tư (và tỷ lệ lợi nhuận giữ lại) với 
 
 Giá trị cuối kỳ = EBIT năm n+1 × (1 − t) × (1 − Tỷ lệ tái đầu tư) / (Chi phí vốn năm n − Tốc độ tăng trưởng ổn định)
 
-Phần lợi từ tăng tốc độ tăng trưởng sẽ bị bù trừ một phần hoặc toàn bộ bởi phần dòng tiền mất đi do tỷ lệ tái đầu tư cao hơn. Giá trị tăng hay giảm khi tăng trưởng ổn định tăng hoàn toàn phụ thuộc vào giả định về lợi nhuận vượt chi phí vốn. Nếu ROC cao hơn chi phí vốn trong giai đoạn ổn định, tăng tốc độ tăng trưởng làm tăng giá trị. Nếu ROC bằng chi phí vốn của giai đoạn ổn định, tăng tốc độ tăng trưởng không ảnh hưởng gì đến giá trị. (Người tổng hợp minh hoạ lý do: thay tỷ lệ tái đầu tư = g / ROC vào công thức, giá trị cuối kỳ = EBIT(1 − t) × (1 − g/ROC) / (WACC − g); khi ROC = WACC, biểu thức rút gọn thành EBIT(1 − t) / WACC, không còn g.) Có thể chứng minh các mệnh đề tương tự với lợi nhuận và dòng tiền vốn chủ sở hữu: giá trị cuối kỳ của vốn chủ sở hữu phụ thuộc vào chênh lệch giữa ROE và chi phí vốn chủ sở hữu.
+Phần lợi từ tăng tốc độ tăng trưởng sẽ bị bù trừ một phần hoặc toàn bộ bởi phần dòng tiền mất đi do tỷ lệ tái đầu tư cao hơn.
 
-Kết lại, giả định then chốt trong giá trị cuối kỳ không phải tốc độ tăng trưởng mà là lợi nhuận vượt chi phí vốn đi kèm tốc độ đó. Nếu giả định không có lợi nhuận vượt, tốc độ tăng trưởng trở nên không quan trọng. Một số chuyên gia định giá cho rằng đây là giả định bền vững duy nhất, vì không doanh nghiệp nào giữ được lợi thế cạnh tranh mãi mãi. Thực tế có thể có chút "khoảng trống", vì doanh nghiệp có thể chuyển sang tăng trưởng ổn định trước khi lợi nhuận vượt về 0. Nếu vậy và lợi thế cạnh tranh mạnh, bền (dù không vĩnh viễn), có thể cho doanh nghiệp một mức lợi nhuận vượt vĩnh viễn. Quy tắc nhanh: mức lợi nhuận vượt vĩnh viễn này nên khiêm tốn (dưới 4–5%), và nó sẽ ảnh hưởng tới giá trị cuối kỳ.
+Giá trị tăng hay giảm khi tăng trưởng ổn định tăng hoàn toàn phụ thuộc vào giả định về lợi nhuận vượt chi phí vốn. Nếu ROC cao hơn chi phí vốn trong giai đoạn ổn định, tăng tốc độ tăng trưởng làm tăng giá trị. Nếu ROC bằng chi phí vốn của giai đoạn ổn định, tăng tốc độ tăng trưởng không ảnh hưởng gì đến giá trị. (Người tổng hợp minh hoạ lý do: thay tỷ lệ tái đầu tư = g / ROC vào công thức, giá trị cuối kỳ = EBIT(1 − t) × (1 − g/ROC) / (WACC − g); khi ROC = WACC, biểu thức rút gọn thành EBIT(1 − t) / WACC, không còn g.)
+
+Có thể chứng minh các mệnh đề tương tự với lợi nhuận và dòng tiền vốn chủ sở hữu: giá trị cuối kỳ của vốn chủ sở hữu phụ thuộc vào chênh lệch giữa ROE và chi phí vốn chủ sở hữu.
+
+Kết lại, giả định then chốt trong giá trị cuối kỳ không phải tốc độ tăng trưởng mà là lợi nhuận vượt chi phí vốn đi kèm tốc độ đó. Nếu giả định không có lợi nhuận vượt, tốc độ tăng trưởng trở nên không quan trọng. Một số chuyên gia định giá cho rằng đây là giả định bền vững duy nhất, vì không doanh nghiệp nào giữ được lợi thế cạnh tranh mãi mãi.
+
+Thực tế có thể có chút "khoảng trống", vì doanh nghiệp có thể chuyển sang tăng trưởng ổn định trước khi lợi nhuận vượt về 0. Nếu vậy và lợi thế cạnh tranh mạnh, bền (dù không vĩnh viễn), có thể cho doanh nghiệp một mức lợi nhuận vượt vĩnh viễn. Quy tắc nhanh: mức lợi nhuận vượt vĩnh viễn này nên khiêm tốn (dưới 4–5%), và nó sẽ ảnh hưởng tới giá trị cuối kỳ.
 
 #### Ví dụ: 3M chuyển từ tăng trưởng cao sang tăng trưởng ổn định
 
@@ -850,7 +869,12 @@ Ngay cả trong trường hợp cuối — ta đúng, thị trường sai — c�
 
 ### 10. Kết luận (Conclusion, trang 65)
 
-Giá trị nội tại của một công ty phản ánh các yếu tố cơ bản của nó, và công cụ chính để ước tính là mô hình chiết khấu dòng tiền. Bốn thành phần đi vào phép ước tính: thứ nhất, dòng tiền từ tài sản hiện có, trước các khoản trả nợ (cho doanh nghiệp) hoặc sau các khoản trả nợ (cho vốn chủ sở hữu); thứ hai, suất chiết khấu — chi phí vốn chủ sở hữu cho dòng tiền vốn chủ sở hữu và chi phí vốn cho dòng tiền doanh nghiệp; thứ ba, tăng trưởng kỳ vọng, do việc doanh nghiệp tái đầu tư bao nhiêu và tốt đến đâu quyết định; cuối cùng, mô hình được khép lại bằng giả định dòng tiền sẽ đi vào tăng trưởng ổn định ở một thời điểm trong tương lai, kèm các ràng buộc về mức tăng trưởng đó và về đặc điểm của công ty tăng trưởng ổn định.
+Giá trị nội tại của một công ty phản ánh các yếu tố cơ bản của nó, và công cụ chính để ước tính là mô hình chiết khấu dòng tiền. Bốn thành phần đi vào phép ước tính:
+
+- thứ nhất, dòng tiền từ tài sản hiện có, trước các khoản trả nợ (cho doanh nghiệp) hoặc sau các khoản trả nợ (cho vốn chủ sở hữu).
+- thứ hai, suất chiết khấu — chi phí vốn chủ sở hữu cho dòng tiền vốn chủ sở hữu và chi phí vốn cho dòng tiền doanh nghiệp.
+- thứ ba, tăng trưởng kỳ vọng, do việc doanh nghiệp tái đầu tư bao nhiêu và tốt đến đâu quyết định.
+- cuối cùng, mô hình được khép lại bằng giả định dòng tiền sẽ đi vào tăng trưởng ổn định ở một thời điểm trong tương lai, kèm các ràng buộc về mức tăng trưởng đó và về đặc điểm của công ty tăng trưởng ổn định.
 
 ## Luận điểm cốt lõi
 
@@ -987,15 +1011,23 @@ Chương này trình bày mô hình DCF hai giai đoạn chuẩn theo tiếp c�
 
 ### Sức mạnh của chương là một ví dụ thật xuyên suốt, nối mọi đầu vào thành một phép định giá hoàn chỉnh
 
-Thay vì minh hoạ từng công thức bằng ví dụ rời rạc, Damodaran dùng một công ty duy nhất — 3M — cho cả bốn đầu vào: dòng tiền năm 2007, chi phí vốn tháng 9/2008, tăng trưởng từ ba nguồn, chuyển sang giai đoạn ổn định, rồi các khoản cộng trừ để ra 86,95 USD mỗi cổ phiếu. Người đọc thấy rõ mỗi con số đi vào đâu: 3.586 triệu USD lợi nhuận hoạt động sau thuế ở Exhibit 3.1 thành dòng "Current" ở Exhibit 3.4; nợ 5.297 dùng để tính tỷ trọng chi phí vốn cũng là khoản trừ cuối cùng; ROC 25% và tỷ lệ tái đầu tư 30% vừa tạo tăng trưởng 7,5% vừa quyết định FCFF bằng 70% lợi nhuận. Đây là cách dạy tính nhất quán hiệu quả nhất: mọi giả định đều xuất hiện hai lần, một lần trong tăng trưởng và một lần trong dòng tiền.
+Thay vì minh hoạ từng công thức bằng ví dụ rời rạc, Damodaran dùng một công ty duy nhất — 3M — cho cả bốn đầu vào: dòng tiền năm 2007, chi phí vốn tháng 9/2008, tăng trưởng từ ba nguồn, chuyển sang giai đoạn ổn định, rồi các khoản cộng trừ để ra 86,95 USD mỗi cổ phiếu.
+
+Người đọc thấy rõ mỗi con số đi vào đâu: 3.586 triệu USD lợi nhuận hoạt động sau thuế ở Exhibit 3.1 thành dòng "Current" ở Exhibit 3.4; nợ 5.297 dùng để tính tỷ trọng chi phí vốn cũng là khoản trừ cuối cùng; ROC 25% và tỷ lệ tái đầu tư 30% vừa tạo tăng trưởng 7,5% vừa quyết định FCFF bằng 70% lợi nhuận. Đây là cách dạy tính nhất quán hiệu quả nhất: mọi giả định đều xuất hiện hai lần, một lần trong tăng trưởng và một lần trong dòng tiền.
 
 ### Quan điểm "tăng trưởng phải được trả giá" và "lợi nhuận vượt mới quyết định giá trị cuối kỳ" là đóng góp sắc nhất của chương
 
-Hai ràng buộc g = tỷ lệ tái đầu tư × ROC và tỷ lệ tái đầu tư ổn định = g / ROC chặn đứng lỗi phổ biến nhất trong DCF: tăng tốc độ tăng trưởng mà không tăng tái đầu tư. Với 3M, ROC giai đoạn ổn định được đặt bằng chi phí vốn 6,76%, nên giá trị cuối kỳ rút gọn thành EBIT(1 − t) năm 6 / chi phí vốn = 5.303 / 0,0676 ≈ 78.400 triệu USD; g là 2% hay 3% chỉ còn tác động rất nhỏ qua lợi nhuận năm 6. Đây là giả định thận trọng: 3M đang có ROC 25%, một thương hiệu và danh mục bằng sáng chế mạnh; nếu cho 3M lợi nhuận vượt vĩnh viễn ở mức khiêm tốn như chính tác giả cho phép (ví dụ ROC ổn định 10%), giá trị sẽ cao hơn rõ rệt. Người đọc nên hiểu con số 86,95 USD là cận dưới tương đối của một công ty có lợi thế cạnh tranh bền.
+Hai ràng buộc g = tỷ lệ tái đầu tư × ROC và tỷ lệ tái đầu tư ổn định = g / ROC chặn đứng lỗi phổ biến nhất trong DCF: tăng tốc độ tăng trưởng mà không tăng tái đầu tư. Với 3M, ROC giai đoạn ổn định được đặt bằng chi phí vốn 6,76%, nên giá trị cuối kỳ rút gọn thành EBIT(1 − t) năm 6 / chi phí vốn = 5.303 / 0,0676 ≈ 78.400 triệu USD; g là 2% hay 3% chỉ còn tác động rất nhỏ qua lợi nhuận năm 6.
+
+Đây là giả định thận trọng: 3M đang có ROC 25%, một thương hiệu và danh mục bằng sáng chế mạnh; nếu cho 3M lợi nhuận vượt vĩnh viễn ở mức khiêm tốn như chính tác giả cho phép (ví dụ ROC ổn định 10%), giá trị sẽ cao hơn rõ rệt. Người đọc nên hiểu con số 86,95 USD là cận dưới tương đối của một công ty có lợi thế cạnh tranh bền.
 
 ### Bản thảo có nhiều lỗi số học và đánh số, nhưng không lỗi nào làm sai kết quả cuối cùng
 
-Các lỗi đã ghi ở khối Lưu ý — cổ tức tăng cường 4.609 thay vì 4.619, tỷ lệ tái đầu tư 36,37% thay vì 31,57%, cột giá trị hiện tại lặp 2.484, tổng 64.291 thay vì 64.036, dấu sai trong công thức FCFE, hình bảng đánh số lộn — là dấu vết của một bản thảo chưa biên tập. Điều thú vị là giá trị vốn chủ sở hữu 60.776 và 86,95 USD khớp với phép tính đúng, chứng tỏ bảng tính gốc đúng và lỗi chỉ phát sinh khi dán bảng vào văn bản. Tuy vậy, tỷ lệ tái đầu tư sai 36,37% có ảnh hưởng tới lập luận: nó làm tăng trưởng cơ bản năm 2007 hiện ra là 9,21%, cao hơn hẳn mức 7,5% được chọn; với con số đúng (7,99%), lựa chọn 7,5% trông gần như là ngoại suy trực tiếp từ năm 2007. Người dùng sách nên tự tính lại mọi bảng, đúng như tinh thần của chính chương này.
+Các lỗi đã ghi ở mục Lưu ý cuối chương — cổ tức tăng cường 4.609 thay vì 4.619, tỷ lệ tái đầu tư 36,37% thay vì 31,57%, cột giá trị hiện tại lặp 2.484, tổng 64.291 thay vì 64.036, dấu sai trong công thức FCFE, hình bảng đánh số lộn — là dấu vết của một bản thảo chưa biên tập.
+
+Điều thú vị là giá trị vốn chủ sở hữu 60.776 và 86,95 USD khớp với phép tính đúng, chứng tỏ bảng tính gốc đúng và lỗi chỉ phát sinh khi dán bảng vào văn bản.
+
+Tuy vậy, tỷ lệ tái đầu tư sai 36,37% có ảnh hưởng tới lập luận: nó làm tăng trưởng cơ bản năm 2007 hiện ra là 9,21%, cao hơn hẳn mức 7,5% được chọn; với con số đúng (7,99%), lựa chọn 7,5% trông gần như là ngoại suy trực tiếp từ năm 2007. Người dùng sách nên tự tính lại mọi bảng, đúng như tinh thần của chính chương này.
 
 ### Một số chỗ đơn giản hoá và tự mâu thuẫn nhỏ cần biết khi áp dụng
 
@@ -1006,7 +1038,11 @@ Các lỗi đã ghi ở khối Lưu ý — cổ tức tăng cường 4.609 thay 
 
 ### Những gì đã thay đổi từ 2010 (theo hiểu biết của người tổng hợp)
 
-Ba thông số thị trường của chương đã thay đổi lớn. Lãi suất phi rủi ro 3,72% giảm xuống mức rất thấp trong hơn một thập kỷ (có lúc dưới 1% năm 2020) rồi tăng trở lại từ 2022; quy tắc "tăng trưởng ổn định không vượt lãi suất phi rủi ro" từng gây khó khi lãi suất gần 0, vì nó ép tăng trưởng vĩnh viễn xuống rất thấp, và nhiều người làm nghề khi đó dùng lãi suất phi rủi ro chuẩn hoá. Thuế suất doanh nghiệp liên bang Mỹ giảm còn 21% từ 2018, làm lợi ích thuế của nợ nhỏ đi và chi phí nợ sau thuế tăng. Chuẩn mực kế toán thuê tài sản mới (IFRS 16, ASC 842, hiệu lực từ 2019) đưa thuê hoạt động lên bảng cân đối, ảnh hưởng cả đến "nợ" phải trừ lẫn cách tính lợi nhuận hoạt động và ROC. Riêng với 3M, các vụ kiện về hoá chất PFAS và nút bịt tai quân dụng dẫn tới các khoản dàn xếp hàng tỷ USD, và công ty đã tách mảng chăm sóc sức khoẻ năm 2024 — đúng loại "nợ tiềm tàng do kiện tụng" và thay đổi cơ cấu kinh doanh mà Table 3.7 và bảng beta theo ngành nhắc tới, nhưng không mô hình năm 2008 nào lường được quy mô.
+Ba thông số thị trường của chương đã thay đổi lớn. Lãi suất phi rủi ro 3,72% giảm xuống mức rất thấp trong hơn một thập kỷ (có lúc dưới 1% năm 2020) rồi tăng trở lại từ 2022; quy tắc "tăng trưởng ổn định không vượt lãi suất phi rủi ro" từng gây khó khi lãi suất gần 0, vì nó ép tăng trưởng vĩnh viễn xuống rất thấp, và nhiều người làm nghề khi đó dùng lãi suất phi rủi ro chuẩn hoá.
+
+Thuế suất doanh nghiệp liên bang Mỹ giảm còn 21% từ 2018, làm lợi ích thuế của nợ nhỏ đi và chi phí nợ sau thuế tăng. Chuẩn mực kế toán thuê tài sản mới (IFRS 16, ASC 842, hiệu lực từ 2019) đưa thuê hoạt động lên bảng cân đối, ảnh hưởng cả đến "nợ" phải trừ lẫn cách tính lợi nhuận hoạt động và ROC.
+
+Riêng với 3M, các vụ kiện về hoá chất PFAS và nút bịt tai quân dụng dẫn tới các khoản dàn xếp hàng tỷ USD, và công ty đã tách mảng chăm sóc sức khoẻ năm 2024 — đúng loại "nợ tiềm tàng do kiện tụng" và thay đổi cơ cấu kinh doanh mà Table 3.7 và bảng beta theo ngành nhắc tới, nhưng không mô hình năm 2008 nào lường được quy mô.
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích
 
@@ -1014,3 +1050,180 @@ Ba thông số thị trường của chương đã thay đổi lớn. Lãi suấ
 - Tự kiểm tra tăng trưởng mà nhà phân tích hay ban lãnh đạo đưa ra bằng phép nhân tỷ lệ tái đầu tư × ROC từ báo cáo tài chính; nếu tăng trưởng dự báo cao hơn nhiều mà không có lý do hiệu quả rõ ràng và có thời hạn, giả định đang "cho không" tăng trưởng.
 - Với doanh nghiệp có nhiều tiền mặt, cổ phần ở công ty khác hay quyền chọn cho nhân viên, hãy kiểm tra các khoản này được cộng trừ có đúng mô hình không (Table 3.7); tính hai lần tiền mặt hoặc bỏ sót quyền chọn là lỗi phổ biến.
 - Với người đọc Việt Nam, khung này áp dụng được nguyên vẹn về mặt logic; khó khăn thực tế thường nằm ở việc chọn lãi suất phi rủi ro bằng đồng nội tệ, ước tính phần bù rủi ro cho thị trường mới nổi (theo hiểu biết của người tổng hợp, trong các công trình khác Damodaran thường cộng thêm phần bù rủi ro quốc gia vào phần bù của thị trường trưởng thành), và thiếu hạng tín nhiệm doanh nghiệp — nơi cách xếp hạng tổng hợp theo hệ số trả lãi của chương tỏ ra hữu ích. Giả định cổ tức tăng cường cũng cần điều chỉnh ở những thị trường mà mua lại cổ phiếu ít phổ biến và cổ tức bằng cổ phiếu khá thường gặp, vì cổ tức bằng cổ phiếu không phải dòng tiền.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: sáu nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (DCF và hai cách tiếp cận, bốn thước đo dòng tiền, rủi ro và chi phí vốn, tăng trưởng quá khứ và tăng trưởng cơ bản, giá trị cuối kỳ, các đầu mối còn lại cùng phép định giá 3M và ý nghĩa của giá trị nội tại), mỗi nhánh ghi công thức, quy tắc và con số then chốt của ví dụ 3M; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: giá trị nội tại là giá trị hiện tại của dòng tiền kỳ vọng chiết khấu theo rủi ro, mọi đầu vào phải nhất quán`"]
+  n1["`Mục 1–2 — DCF: giá trị là hàm của dòng tiền kỳ vọng, không phải cảm nhận`"]
+  n0 --- n1
+  n2["`Giá trị nội tại là giá trị một nhà phân tích biết hết thông tin, có mô hình hoàn hảo, sẽ gán cho tài sản`"]
+  n1 --- n2
+  n3["`Rủi ro đưa vào qua suất chiết khấu: tài sản rủi ro hơn chiết khấu ở suất cao hơn`"]
+  n1 --- n3
+  n4["`Định giá doanh nghiệp: FCFF (sau tái đầu tư, trước trả nợ) chiết khấu ở chi phí vốn`"]
+  n1 --- n4
+  n5["`Định giá vốn chủ sở hữu: cổ tức hoặc FCFE (sau trả nợ) chiết khấu ở chi phí vốn chủ sở hữu`"]
+  n1 --- n5
+  n6["`Làm đúng thì giá trị doanh nghiệp trừ mọi quyền đòi không phải vốn chủ sở hữu ra cùng giá trị vốn chủ sở hữu`"]
+  n1 --- n6
+  n7["`Bốn đầu vào: dòng tiền, tăng trưởng, suất chiết khấu, giá trị cuối kỳ`"]
+  n1 --- n7
+  n8["`Mục 3 — Dòng tiền: bốn thước đo từ hẹp tới rộng`"]
+  n0 --- n8
+  n9["`Cổ tức: cổ phiếu đáng giá bằng giá trị hiện tại của cổ tức kỳ vọng, có thể bằng 0, không bao giờ âm`"]
+  n8 --- n9
+  n10["`Cổ tức tăng cường = cổ tức + mua lại cổ phiếu, lấy bình quân khoảng 5 năm vì mua lại thất thường`"]
+  n8 --- n10
+  n11["`Năm 2007 doanh nghiệp Mỹ trả cho cổ đông qua mua lại cổ phiếu gấp đôi qua cổ tức`"]
+  n8 --- n11
+  n12["`FCFE = lợi nhuận ròng − (chi đầu tư vốn − khấu hao) − thay đổi vốn lưu động + (nợ mới − nợ gốc trả)`"]
+  n8 --- n12
+  n13["`FCFE có thể âm, khi đó phải phát hành cổ phiếu mới và cổ đông hiện hữu bị pha loãng`"]
+  n8 --- n13
+  n14["`FCFF = EBIT(1 − t) × (1 − tỷ lệ tái đầu tư), thuế tính như không có lãi vay để tránh tính hai lần`"]
+  n8 --- n14
+  n15["`3M năm 2007 (triệu USD): cổ tức 1.380, cổ tức tăng cường 4.619, FCFE 4.100, FCFF 2.454`"]
+  n8 --- n15
+  n16["`Tái đầu tư 889 + 243 = 1.132, tỷ lệ tái đầu tư 1.132 / 3.586 = 31,57%`"]
+  n15 --- n16
+  n17["`FCFE cao hơn FCFF vì 3M vay ròng 1.222 triệu USD trong năm`"]
+  n15 --- n17
+  n18["`Mục 4 — Rủi ro: chi phí vốn chủ sở hữu, chi phí nợ, chi phí vốn`"]
+  n0 --- n18
+  n19["`Rủi ro kinh doanh đo bằng chi phí vốn, rủi ro vốn chủ sở hữu còn tùy mức vay nợ`"]
+  n18 --- n19
+  n20["`Chi phí vốn chủ sở hữu = lãi suất phi rủi ro + beta × phần bù rủi ro`"]
+  n18 --- n20
+  n21["`Thay beta hồi quy (nhìn về quá khứ, nhiều sai số) bằng beta bình quân ngành`"]
+  n18 --- n21
+  n22["`Chi phí nợ sau thuế = (lãi suất phi rủi ro + chênh lệch vỡ nợ) × (1 − thuế suất biên)`"]
+  n18 --- n22
+  n23["`Không được xếp hạng thì dùng hạng tổng hợp suy từ hệ số trả lãi EBIT / chi phí lãi vay`"]
+  n18 --- n23
+  n24["`Dùng thuế suất biên (Mỹ 2008 gần 40%), không dùng thuế suất hiệu dụng (bình quân 28%)`"]
+  n18 --- n24
+  n25["`Chi phí vốn: bình quân gia quyền theo giá trị thị trường, không theo giá trị sổ sách`"]
+  n18 --- n25
+  n26["`3M 9/2008: beta sáu mảng 1,36, chi phí vốn chủ sở hữu 3,72% + 1,36 × 4% = 9,16%`"]
+  n18 --- n26
+  n27["`Hệ số trả lãi 5.361 / 227 ≈ 23,6 lần, hạng AAA, chênh lệch 0,75%, chi phí nợ sau thuế 2,91%`"]
+  n26 --- n27
+  n28["`Chi phí vốn = 91,5% × 9,16% + 8,5% × 2,91% = 8,63%`"]
+  n26 --- n28
+  n29["`Mục 5–6 — Tăng trưởng phải #quot;kiếm được#quot; từ tái đầu tư hoặc hiệu quả`"]
+  n0 --- n29
+  n30["`Tăng trưởng quá khứ dự báo tương lai rất kém, công ty càng lớn tăng trưởng càng giảm`"]
+  n29 --- n30
+  n31["`Dự báo của nhà phân tích và ban lãnh đạo thiếu khách quan và cũng dự báo không tốt`"]
+  n29 --- n31
+  n32["`Tăng trưởng cơ bản = tỷ lệ tái đầu tư × ROC (EPS: tỷ lệ lợi nhuận giữ lại × ROE)`"]
+  n29 --- n32
+  n33["`Tăng trưởng từ hiệu quả: ROC 5% lên 7% làm lợi nhuận tăng 40% mà không tốn thêm đầu tư`"]
+  n29 --- n33
+  n34["`Dễ hơn ở công ty kém hiệu quả (5% lên 6% cho 20%, 25% lên 26% chỉ 4%) và chỉ kéo dài hữu hạn`"]
+  n33 --- n34
+  n35["`3M: quá khứ khoảng 9–18%, nhà phân tích 8–9%, chọn cơ bản 30% × 25% = 7,5% cho 5 năm`"]
+  n29 --- n35
+  n36["`Không tính tăng trưởng hiệu quả vì ROC của 3M đã cao và ổn định`"]
+  n35 --- n36
+  n37["`Bản thảo tính năm 2007 ra 9,21% do sai tỷ lệ tái đầu tư, đúng ra 31,57% × 25,31% = 7,99%`"]
+  n35 --- n37
+  n38["`Mục 7 — Giá trị cuối kỳ: lợi nhuận vượt chi phí vốn mới là giả định then chốt`"]
+  n0 --- n38
+  n39["`Dùng bội số tính giá trị cuối kỳ biến mô hình thành định giá tương đối`"]
+  n38 --- n39
+  n40["`Giá trị thanh lý hợp với doanh nghiệp tuổi đời hữu hạn, tài sản dễ bán như bất động sản`"]
+  n38 --- n40
+  n41["`Giá trị cuối kỳ năm n = dòng tiền năm n+1 / (suất chiết khấu − tăng trưởng vĩnh viễn)`"]
+  n38 --- n41
+  n42["`Tăng trưởng ổn định ≤ tăng trưởng nền kinh tế, quy tắc nhanh: không vượt lãi suất phi rủi ro`"]
+  n38 --- n42
+  n43["`Giai đoạn ổn định mang đặc điểm công ty trưởng thành: beta về gần 1, tỷ lệ nợ cao hơn`"]
+  n38 --- n43
+  n44["`Tỷ lệ tái đầu tư ổn định = tăng trưởng ổn định / ROC ổn định`"]
+  n38 --- n44
+  n45["`ROC bằng chi phí vốn thì tốc độ tăng trưởng không ảnh hưởng giá trị, lợi nhuận vượt vĩnh viễn nếu có chỉ dưới 4–5%`"]
+  n38 --- n45
+  n46["`3M sau năm 5: tăng trưởng 3%, beta 1,36 về 1, nợ 8,48% lên 20%, chi phí vốn 8,63% xuống 6,76%`"]
+  n38 --- n46
+  n47["`ROC 25% giảm về 6,76% bằng chi phí vốn, tỷ lệ tái đầu tư 3% / 6,76% = 44,4%`"]
+  n46 --- n47
+  n48["`Mục 8–10 — Từ giá trị hiện tại tới giá mỗi cổ phiếu và so với giá thị trường`"]
+  n0 --- n48
+  n49["`Dùng FCFF thì cộng tiền mặt và cổ phần thiểu số nắm giữ, trừ lợi ích cổ đông thiểu số`"]
+  n48 --- n49
+  n50["`Trừ nợ tiềm tàng: thiếu hụt quỹ hưu trí, nghĩa vụ chăm sóc y tế, chi phí kiện tụng dự kiến`"]
+  n48 --- n50
+  n51["`Quyền chọn của nhân viên: định giá bằng mô hình quyền chọn, trừ ra, rồi chia cho số cổ phiếu thực tế`"]
+  n48 --- n51
+  n52["`3M: FCFF năm 1–5 từ 2.698 tới 3.604, giá trị hiện tại cộng lại 12.164 triệu USD`"]
+  n48 --- n52
+  n53["`Giá trị cuối kỳ 2.948 / (6,76% − 3%) ≈ 78.464, chiết khấu 5 năm ở 8,63% còn 51.872`"]
+  n52 --- n53
+  n54["`64.036 + tiền mặt 3.253 − nợ 5.297 − quyền chọn 1.216 = 60.776 triệu USD, tức 86,95 USD mỗi cổ phiếu`"]
+  n52 --- n54
+  n55["`Giá trị cuối kỳ chiếm 81% giá trị tài sản hoạt động, năm năm tăng trưởng cao chỉ 19%`"]
+  n52 --- n55
+  n56["`Giá trị lệch giá thị trường: giả định sai, phần bù rủi ro thị trường sai, hoặc thị trường sai`"]
+  n48 --- n56
+  n57["`Thị trường sai cũng chỉ có lời khi nó tự sửa, nên cần cho thị trường 3–5 năm`"]
+  n48 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Không ai có quyền ban cho công ty tăng trưởng cao hơn chỉ vì quý ban lãnh đạo`"]
+  n58 --- n59
+  n60["`Tăng trưởng chỉ tạo giá trị khi ROC vượt chi phí vốn`"]
+  n58 --- n60
+  n61["`Dòng tiền doanh nghiệp đi với chi phí vốn, dòng tiền vốn chủ sở hữu đi với chi phí vốn chủ sở hữu`"]
+  n58 --- n61
+  n62["`Bản thảo có nhiều lỗi số hiển thị nhưng kết quả 86,95 USD đúng, nên tự tính lại mọi bảng`"]
+  n58 --- n62
+  class n0 root
+  class n1,n8,n18,n29,n38,n48,n58 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 1 "Laying the groundwork", Chương 3 "Intrinsic Value", trang 41–65.
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-gioi-thieu-ve-gia-tri.md](C01-gioi-thieu-ve-gia-tri.md)) phân biệt hai cách nhìn giá trị: giá trị nội tại dựa trên dòng tiền và rủi ro, và định giá theo giá thị trường của tài sản tương tự. Chương 2 ([C02-cong-cu-cua-nghe-dinh-gia.md](C02-cong-cu-cua-nghe-dinh-gia.md)) đưa ra bộ công cụ: giá trị thời gian của tiền, các mô hình rủi ro và lợi suất (lãi suất phi rủi ro, phần bù rủi ro vốn cổ phần, hệ số beta), cách đọc báo cáo tài chính và "bảng cân đối tài chính" chia tài sản thành tài sản hiện có và tài sản tăng trưởng.
+
+Chương 3 ghép các công cụ đó thành một quy trình định giá chiết khấu dòng tiền (DCF) hoàn chỉnh với bốn đầu vào — dòng tiền, rủi ro (suất chiết khấu), tăng trưởng và giá trị cuối kỳ — rồi cộng trừ các khoản "đầu mối còn lại" để ra giá trị mỗi cổ phiếu, minh hoạ xuyên suốt bằng tập đoàn 3M.
+
+Chương 4 ([C04-dinh-gia-tuong-doi.md](C04-dinh-gia-tuong-doi.md)) trình bày cách còn lại: định giá tương đối bằng bội số. Từ Chương 5 đến Chương 11, khung DCF của chương này được áp dụng cho từng giai đoạn vòng đời doanh nghiệp và từng loại công ty đặc biệt, mỗi chương chỉ ra đầu vào nào khó ước tính và cách xử lý.
+
+## Lưu ý
+
+- **Sai số học trong Exhibit 3.1 (dòng tiền 3M năm 2007):**
+  - cổ tức ghi "$1.380 million" là lỗi đánh máy của 1.380 triệu USD
+  - cổ tức tăng cường ghi 4.609 triệu USD, nhưng 1.380 + 3.239 = **4.619** triệu USD
+  - tỷ lệ tái đầu tư vốn chủ sở hữu ghi −90/4.010 = −2,27%, đúng ra là **−2,24%**
+  - trong ô FCFF, nhãn ghi "Equity Reinvestment Rate" (đúng ra là tỷ lệ tái đầu tư của doanh nghiệp) và phép tính ghi 1.132/3.474 = 36,37%, nhưng 1.132/3.474 = 32,58%, còn mẫu số đúng phải là lợi nhuận hoạt động sau thuế 3.586, cho **31,57%** — chính con số mà Exhibit 3.4 dùng ở dòng "Current".
+
+  Con số 36,37% sai này được dùng tiếp trong Exhibit 3.3 để ra tăng trưởng cơ bản 9,21%; với 31,57%, tăng trưởng sẽ là 31,57% × 25,31% = **7,99%**.
+- **Dấu trong công thức FCFE (trang 45) bị sai:** bản thảo viết "Net Income + (Capital Expenditures − Depreciation + Change in non-cash working capital) − (Principal Repayments + New Debt Issues)". Đúng ra (và đúng như dòng đầu của công thức và cách tính trong Exhibit 3.1) là: FCFE = Lợi nhuận ròng − (Chi đầu tư vốn − Khấu hao) − Thay đổi vốn lưu động không gồm tiền mặt − (Nợ gốc trả − Nợ mới phát hành). Bản tổng hợp dùng dạng đúng.
+- **Cột giá trị hiện tại trong Exhibit 3.4 (định giá 3M) bị lặp số:** cả năm năm đều ghi 2.484 triệu USD. Chỉ năm 1 đúng; giá trị hiện tại đúng của năm 1–5 là 2.484, 2.458, 2.433, 2.407, 2.382 (tổng 12.164). Dòng "giá trị tài sản hoạt động" ghi 64.291 (= 5 × 2.484 + 51.872), đúng ra là **12.164 + 51.872 = 64.036** triệu USD.
+
+  Tuy vậy, giá trị vốn chủ sở hữu 60.776 và giá trị mỗi cổ phiếu 86,95 USD trong bảng lại khớp với con số đúng 64.036 (64.036 + 3.253 − 5.297 − 1.216 = 60.776), còn nếu lấy 64.291 thì sẽ ra 61.031. Vậy lỗi chỉ nằm ở phần hiển thị, kết quả cuối cùng của bản thảo đúng.
+
+  Ngoài ra, ở dòng "Beyond", con số 78.464 đặt dưới cột FCFF thực ra là **giá trị cuối kỳ** (cuối năm 5); FCFF của năm 6 chỉ khoảng 2.948 triệu USD.
+- **Đánh số hình, bảng lộn xộn:** "Figure 3.3" được dùng cho cả hình rủi ro doanh nghiệp so với rủi ro vốn chủ sở hữu và (trong lời văn) cho bảng ước tính tăng trưởng, trong khi hình thật ghi "Exhibit 3.3"; lời văn nói "Figure 3.4" nhưng hình ghi "Exhibit 3.4". Chương có Table 3.3, 3.5, 3.6, 3.7 nhưng không có Table 3.1, 3.2, 3.4. Phần tăng trưởng không có tiêu đề lớn "Growth" như ba đầu vào kia. Bảng cân đối tài chính lúc thì nói "giới thiệu ở chương 2" (trang 41), lúc thì "chương 1" (trang 48). Tiêu đề Exhibit 3.2 và 3.3 có lỗi "iin Setpember". Câu cuối trang 42 bị cụt ("... value of equity in the firm. T").
+- **Mâu thuẫn nhỏ về số liệu:** lời văn (trang 51) nói chênh lệch vỡ nợ của trái phiếu hạng BBB tháng 9/2008 là 2%, nhưng bảng xếp hạng tổng hợp trong Exhibit 3.2 ghi BBB là 2,50%; trong cùng bảng, hạng D ghi "< 0,65" chồng lên khoảng 0,50–0,80 của hạng C (hợp lý ra là "< 0,50"). Tỷ lệ nợ của 3M là 8,50% trong Exhibit 3.2 nhưng 8,48% trong Table 3.6 (chênh lệch do làm tròn). Hệ số khả năng trả lãi 5.361/227 = 23,62 (bản thảo ghi 23,63). Damodaran khuyên dùng thuế suất biên (ở Mỹ năm 2008 gần 40%) để tính chi phí nợ sau thuế, nhưng ví dụ 3M lại dùng 35% (thuế suất liên bang).
+- **Thời điểm số liệu:** dòng tiền là của năm tài chính 2007, chi phí vốn và tăng trưởng ước tính tháng 9/2008 — đúng tuần lễ khủng hoảng tài chính toàn cầu bùng nổ (Lehman Brothers phá sản ngày 15/9/2008, theo hiểu biết của người tổng hợp). Bản thảo không so giá trị 86,95 USD với giá thị trường; người tổng hợp suy ra từ giá trị thị trường vốn chủ sở hữu 57.041 triệu USD và khoảng 699 triệu cổ phiếu (= 60.776 / 86,95) rằng giá dùng trong bảng chi phí vốn khoảng 81,6 USD/cổ phiếu, tức giá trị ước tính cao hơn giá khoảng 6–7%.
+- **Số liệu thị trường nay đã khác (theo hiểu biết của người tổng hợp, không tra cứu):** lãi suất trái phiếu chính phủ Mỹ 10 năm 3,72% (9/2008) sau đó giảm sâu, có lúc dưới 1% vào 2020–2021, rồi tăng lại lên vùng 4–5% từ 2022–2023; thuế suất thu nhập doanh nghiệp liên bang của Mỹ giảm từ 35% xuống 21% từ năm 2018, nên thuế suất 35% và "gần 40%" trong chương không còn đúng; phần bù rủi ro vốn cổ phần ngụ ý mà Damodaran công bố tăng vọt trong khủng hoảng 2008–2009 và sau đó dao động quanh khoảng 4–6%, cao hơn mức 4% dùng ở đây.
+- **Số phận của 3M (theo hiểu biết của người tổng hợp, không tra cứu):** những năm sau, 3M chịu các vụ kiện lớn về hoá chất PFAS và về nút bịt tai quân dụng, dẫn tới các khoản dàn xếp hàng tỷ USD vào năm 2023 — một minh hoạ thực tế cho khoản "nợ tiềm tàng do kiện tụng" mà chương nói phải trừ khỏi giá trị vốn chủ sở hữu; năm 2024 3M tách mảng chăm sóc sức khoẻ (mảng chiếm khoảng 24% giá trị trong bảng beta theo ngành của chương) thành công ty riêng.

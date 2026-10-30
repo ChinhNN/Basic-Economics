@@ -1,25 +1,17 @@
 # Chương 8 — Định giá công ty suy thoái và kiệt quệ tài chính (Valuing Declining and Distressed Companies)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 2 "Valuing across the life cycle", Chương 8 "Valuing Declining and Distressed Companies", trang 179–212.
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** Phần 2 đi lần lượt qua các giai đoạn của vòng đời doanh nghiệp. [Chương 5](C05-dinh-gia-cong-ty-tre-tang-truong.md) xử lý công ty khởi nghiệp tăng trưởng, nơi câu hỏi lớn là công ty có sống sót để thành doanh nghiệp lành mạnh hay không. [Chương 6](C06-dinh-gia-cong-ty-tang-truong.md) xử lý công ty tăng trưởng, nơi khó nhất là ước tính tốc độ tăng trưởng khi công ty lớn lên và đối thủ nhảy vào. [Chương 7](C07-dinh-gia-cong-ty-truong-thanh.md) xử lý công ty trưởng thành, với hai đề tài là thâu tóm và thay đổi ban điều hành (giá trị của quyền kiểm soát: định giá công ty theo cách điều hành hiện tại, định giá lại theo cách điều hành tốt nhất, rồi lấy bình quân theo xác suất ban điều hành bị thay). Chương 8 khép lại vòng đời bằng giai đoạn cuối, suy thoái, và gắn nó với kiệt quệ tài chính (distress), vì công ty suy thoái mà nợ nhiều thì rất dễ không trả được nợ. Chương này dùng lại cách định giá quyền kiểm soát của Chương 7 cho trường hợp suy thoái có thể đảo ngược, và thêm hai công cụ mới: giá trị thanh lý có trật tự (orderly liquidation) và cách tách riêng xác suất phá sản ra khỏi định giá chiết khấu dòng tiền (DCF). Phần 3 sẽ áp dụng các ý tưởng này cho các tình huống đặc biệt; riêng [Chương 10](C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md) về công ty có tính chu kỳ được nhắc lại ở đây như ví dụ về suy thoái có thể hồi phục. Chương 1 và [Chương 12](C12-bai-hoc-ve-dinh-gia.md) đều nhấn mạnh rằng doanh nghiệp không bất tử; chương này là nơi ý đó được đưa vào phép tính.
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **các công cụ định giá thông thường, cả nội tại lẫn tương đối, được dựng cho doanh nghiệp khoẻ mạnh, hoạt động liên tục, có tăng trưởng dương; với công ty suy thoái thì phải chấp nhận tăng trưởng âm, tỷ lệ tái đầu tư âm (bán bớt tài sản), so sánh giá trị hoạt động liên tục với giá trị thanh lý, và với công ty kiệt quệ thì phải đưa xác suất phá sản vào giá trị một cách tường minh**. Ông dựng một khung bốn ô theo hai câu hỏi: suy thoái có đảo ngược được không, và rủi ro kiệt quệ cao hay thấp. Hai ví dụ trung tâm: (1) Sears tháng 9/2008, suy thoái không đảo ngược, nợ không đáng lo: doanh thu giảm 5% mỗi năm trong 5 năm (50.703 xuống 39.233 triệu USD), bán bớt cửa hàng thu về khoảng 54–67% giá trị sổ sách vốn đầu tư, giá trị tài sản hoạt động 16.918 triệu USD, giá trị mỗi cổ phiếu 81,91 USD so với giá thị trường 76,25 USD; (2) Las Vegas Sands đầu năm 2009, kiệt quệ cao: định giá như doanh nghiệp hoạt động liên tục cho 8,21 USD mỗi cổ phiếu, nhân với xác suất sống sót 71,75% (xác suất phá sản 28,25% theo xếp hạng B+) ra 5,89 USD, so với giá 4,25 USD; còn định giá tương đối bằng bội số EV/EBITDA kỳ hạn của công ty khoẻ, điều chỉnh theo xác suất phá sản, cho chỉ 2,73 USD mỗi cổ phiếu.
+## Ý chính
 
-> **Lưu ý:**
-> - **Dẫn chiếu sai số chương, số bảng.** Bản thảo được ghép từ sách *Investment Valuation* và *Damodaran on Valuation* của chính tác giả nên còn nhiều số tham chiếu cũ: "framework we developed in chapter 11 for valuing control" và "techniques that we described in chapter 11" (trang 187, 195) thực ra là khung định giá quyền kiểm soát ở Chương 7 của cuốn này; bảng xác suất vỡ nợ được đánh số "Table 12.5" thay vì 8.x; "cost of capital 7.43% (from table 12.9)", "forecasts ... made in table 12.7" và "computed earlier in illustration 12.6" (trang 202, 208) thực ra là Bảng 8.5, Bảng 8.6 và Minh hoạ 8.2 của chương này. Chú thích 42 (nguồn Altman) bị dính liền với chú thích 43 và còn dấu sửa bản "Deleted"; chú thích 45 (trang 202) được gọi trong bài nhưng không có nội dung.
-> - **Minh hoạ 8.2 (Las Vegas Sands) có nhiều chỗ không khớp:**
->   - Văn bản nói vốn đầu tư đầu năm là 9.832 triệu USD, công thức lại chia cho 8.975 và Bảng 8.4 ghi 8.974. Theo tính toán của người tổng hợp, 209 × (1 − 0,26) / 8.975 = 1,72% (đúng như công thức), còn con số 1,44% mà văn bản và Bảng 8.4 ghi là kết quả khi dùng thuế suất 38%: 209 × 0,62 / 8.974 = 1,44%. Toàn bộ cột ROC của Bảng 8.4 đều tính với thuế suất 38% (ví dụ 2004: 233 × 0,62 / 1.575 = 9,17%), không phải 26% như văn bản nói.
->   - Tiêu đề Bảng 8.4 ghi "2003–2008" nhưng bảng chỉ có các năm 2004–2008.
->   - Công thức giá trị cuối kỳ ghi "After-tax Operating Income₅" (chép từ ví dụ Sears) nhưng thực ra dùng lợi nhuận năm 10 (1.051 triệu USD). Theo tính toán của người tổng hợp, 1.051 × 1,03 × 0,70 / (0,0743 − 0,03) = 17.105 triệu USD, sách ghi 17.129 (lệch khoảng 0,1%, có lẽ do dùng số chưa làm tròn và làm tròn suất chiết khấu).
->   - Chú thích 46 viết hệ số chiết khấu cộng dồn năm 7 = 1,0988⁵ × 1,979 × 1,0950; số đúng phải là 1,0988⁵ × 1,0979 × 1,0950 = 1,9261.
->   - Công thức giá trị kỳ vọng mỗi cổ phiếu viết "$8.21 (1 − .7175) + $0.00 (.2825)"; đúng phải là 8,21 × (1 − 0,2825), tức 8,21 × 0,7175 = 5,89 USD (con số 5,89 đúng, chỉ cách viết sai). Sách nói 5,89 USD "cao hơn khoảng 35%" so với giá 4,25 USD; theo tính toán của người tổng hợp là cao hơn khoảng 38,6%.
-> - **Bảng xác suất vỡ nợ (Altman) có điểm lạ.** Bảng không có hạng BBB−, nhưng sách gán cho Delta Airlines (BBB−) xác suất 13,58%; theo tính toán của người tổng hợp, đây là trung bình cộng xác suất 10 năm của BBB (7,54%) và BB (19,63%). Bảng cũng không tăng đều theo hạng: A (0,20% sau 5 năm) thấp hơn A+ (0,47%), còn A− (3,00%) cao vọt so với A. Các số này được chép đúng như bản thảo. Ngoài ra, theo hiểu biết của người tổng hợp (không tra cứu), đầu năm 2009 Delta thường được xếp hạng thấp hơn mức đầu tư (khoảng B), nên hạng "BBB−" trong sách có thể không chính xác.
-> - **Bảng 8.7 (casino kiệt quệ):** với Las Vegas Sands, theo tính toán của người tổng hợp, EV = 2.729 + 10.470 − 1.276 = 11.923 triệu USD và EV/EBITDA = 14,67, không phải 11.628,9 và 14,31 như bảng ghi; trung bình cả 7 công ty khi đó là 7,75 thay vì 7,70 (trung bình không tính LVS vẫn là 6,60). Sách nói dùng giá trị thị trường của nợ 7,57 tỷ USD thì bội số của LVS giảm còn "khoảng 10 lần"; theo tính toán của người tổng hợp, (2.729 + 7.565 − 1.276) / 812,5 ≈ 11,1 lần.
-> - **Minh hoạ 8.4:** chú thích 47 nói khấu hao năm nay 509 triệu USD được nâng lên theo tỷ lệ tăng vốn sổ sách "khoảng 25%"; 509 × 1,25 = 636, không phải 572 triệu USD như sách dùng (572 chỉ cao hơn 509 khoảng 12%). Giá trị bán tháo 2.769 triệu USD xuất hiện lần đầu ở đây, không được ước tính ở đâu trước đó (Minh hoạ 8.2 chỉ nói giá trị bán tháo thấp hơn nợ). Nợ được ghi "$ 7.565 million" là lỗi đánh máy của 7.565 triệu USD; vốn chủ sở hữu tính ra 1.752 (sách ghi 1.751) triệu USD.
-> - **Minh hoạ 8.1 (Sears):** các phép tính khớp với sai số làm tròn (giá trị cuối kỳ 14.187 triệu USD khớp khi dùng tỷ lệ tái đầu tư chưa làm tròn 26,667%; nếu dùng 0,267 như công thức ghi thì ra 14.181). Câu "cost of capital after year drops to 7.13%" thiếu chữ "5" (sau năm 5). Số tiền mặt 1.622 triệu USD trùng đúng với dòng tiền tự do năm 5 trong Bảng 8.3; người tổng hợp không kiểm chứng được đây là trùng hợp hay lỗi chép.
-> - **Nội dung hứa mà không làm.** Phần mở đầu mục "III. Distress" hứa sẽ bàn tần suất kiệt quệ, chi phí của kiệt quệ và vì sao giới định giá xưa nay bỏ qua kiệt quệ, nhưng chỉ có một phần. Phần kết luận nói có ba cách xử lý kiệt quệ, trong đó có mô phỏng (simulation) và điều chỉnh dòng tiền và suất chiết khấu theo xác suất kiệt quệ, nhưng chương chỉ minh hoạ cách thứ ba (định giá hoạt động liên tục rồi điều chỉnh riêng). Mục "Equity as an Option" chỉ nêu ý, không có ví dụ số. Tình huống "suy thoái đảo ngược được, ít kiệt quệ" (mục II) không có minh hoạ số.
-> - **Số liệu thị trường 2008–2009 nay đã khác.** Ví dụ dùng lãi suất phi rủi ro khoảng 3% làm trần tăng trưởng ổn định; theo hiểu biết của người tổng hợp (không tra cứu), lãi suất Mỹ sau đó ở gần 0 kéo dài suốt thập niên 2010 rồi tăng mạnh trở lại từ 2022, nên trần tăng trưởng và chi phí vốn của một định giá làm hôm nay sẽ khác. Chi phí vốn chủ sở hữu 21,82% của LVS phản ánh giai đoạn khủng hoảng tài chính 2008–2009.
-> - **Số phận các công ty ví dụ (theo hiểu biết của người tổng hợp, không tra cứu).** Sears Holdings tiếp tục co lại suốt thập niên 2010 và nộp đơn phá sản theo Chương 11 vào tháng 10/2018, tức là kịch bản "co lại có trật tự rồi ổn định" trong ví dụ đã không thành hiện thực. Las Vegas Sands vượt qua khủng hoảng (cổ phiếu xuống dưới 2 USD đầu 2009 rồi tăng gấp nhiều lần sau khi khu Marina Bay Sands ở Singapore mở cửa năm 2010 và Macau bùng nổ), nghĩa là cổ đông mua ở giá 4,25 USD được trả công rất hậu. GM và Chrysler đều nộp đơn phá sản năm 2009, khớp với nhận định của sách rằng hai hãng này ở tình trạng tệ hơn Ford. MGM Mirage đổi tên thành MGM Resorts International năm 2010.
+Damodaran muốn người đọc hiểu rằng **các công cụ định giá thông thường, cả nội tại lẫn tương đối, được dựng cho doanh nghiệp khoẻ mạnh, hoạt động liên tục, có tăng trưởng dương; với công ty suy thoái thì phải chấp nhận tăng trưởng âm, tỷ lệ tái đầu tư âm (bán bớt tài sản), so sánh giá trị hoạt động liên tục với giá trị thanh lý, và với công ty kiệt quệ thì phải đưa xác suất phá sản vào giá trị một cách tường minh**.
+
+Ông dựng một khung bốn ô theo hai câu hỏi: suy thoái có đảo ngược được không, và rủi ro kiệt quệ cao hay thấp.
+
+Hai ví dụ trung tâm:
+
+- Sears tháng 9/2008, suy thoái không đảo ngược, nợ không đáng lo: doanh thu giảm 5% mỗi năm trong 5 năm (50.703 xuống 39.233 triệu USD), bán bớt cửa hàng thu về khoảng 54–67% giá trị sổ sách vốn đầu tư, giá trị tài sản hoạt động 16.918 triệu USD, giá trị mỗi cổ phiếu 81,91 USD so với giá thị trường 76,25 USD.
+- Las Vegas Sands đầu năm 2009, kiệt quệ cao: định giá như doanh nghiệp hoạt động liên tục cho 8,21 USD mỗi cổ phiếu, nhân với xác suất sống sót 71,75% (xác suất phá sản 28,25% theo xếp hạng B+) ra 5,89 USD, so với giá 4,25 USD.
+
+  Còn định giá tương đối bằng bội số EV/EBITDA kỳ hạn của công ty khoẻ, điều chỉnh theo xác suất phá sản, cho chỉ 2,73 USD mỗi cổ phiếu.
 
 ## Sơ đồ
 
@@ -350,7 +342,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Công ty suy thoái khác công ty trưởng thành ở đâu, và vì sao các công cụ định giá thông thường dễ hỏng với chúng?** Công ty suy thoái lấy gần như toàn bộ giá trị từ tài sản hiện có, tài sản tăng trưởng không có giá trị hoặc giá trị âm; một số tài sản hiện có có thể đáng giá hơn khi bán đi; và nợ vay (thường vay từ thời còn khoẻ) dễ đẩy công ty vào kiệt quệ. Vì vậy trong DCF phải chấp nhận tăng trưởng âm, tái đầu tư âm, lợi suất dưới chi phí vốn kéo dài, khả năng công ty không sống tới giai đoạn ổn định; còn trong định giá tương đối thì lợi nhuận và giá trị sổ sách âm làm hỏng mẫu số, và công ty dễ phá sản hơn có bội số thấp hơn một cách chính đáng.
+1. **Công ty suy thoái khác công ty trưởng thành ở đâu, và vì sao các công cụ định giá thông thường dễ hỏng với chúng?** Công ty suy thoái lấy gần như toàn bộ giá trị từ tài sản hiện có, tài sản tăng trưởng không có giá trị hoặc giá trị âm; một số tài sản hiện có có thể đáng giá hơn khi bán đi; và nợ vay (thường vay từ thời còn khoẻ) dễ đẩy công ty vào kiệt quệ.
+
+   Vì vậy trong DCF phải chấp nhận tăng trưởng âm, tái đầu tư âm, lợi suất dưới chi phí vốn kéo dài, khả năng công ty không sống tới giai đoạn ổn định; còn trong định giá tương đối thì lợi nhuận và giá trị sổ sách âm làm hỏng mẫu số, và công ty dễ phá sản hơn có bội số thấp hơn một cách chính đáng.
 2. **Nên định giá một công ty suy thoái như thế nào?** Tuỳ vào hai câu hỏi: suy thoái có đảo ngược được không, và rủi ro kiệt quệ cao hay thấp. Không đảo ngược và ít nợ: lấy số lớn hơn giữa giá trị hoạt động liên tục và giá trị thanh lý có trật tự (Sears: 81,91 USD mỗi cổ phiếu). Đảo ngược được và ít nợ: bình quân giá trị hiện trạng và giá trị tối ưu theo xác suất thay ban điều hành. Kiệt quệ cao: điều chỉnh giá trị theo xác suất kiệt quệ và tiền bán tháo.
 3. **Làm sao đưa kiệt quệ vào giá trị một cách tường minh?** Định giá công ty như doanh nghiệp hoạt động liên tục, ước xác suất kiệt quệ cộng dồn (theo thống kê hoặc theo xếp hạng trái phiếu), ước tiền bán tháo, rồi lấy bình quân gia quyền: Giá trị = Giá trị hoạt động liên tục × (1 − π) + Giá trị bán tháo × π. Las Vegas Sands: 8,21 USD × 71,75% + 0 × 28,25% = 5,89 USD mỗi cổ phiếu theo DCF; theo bội số kỳ hạn có điều chỉnh kiệt quệ thì 2,73 USD. Thêm vào đó, khi công ty nợ nhiều, vốn chủ sở hữu mang tính quyền chọn mua nên vẫn có giá trị ngay cả khi giá trị công ty thấp hơn nợ.
 
@@ -373,7 +367,9 @@
 
 ### 1. Mở đầu chương (trang 179)
 
-Damodaran nhắc lại hành trình qua vòng đời doanh nghiệp. Ở Chương 5, ông xét các công ty ở giai đoạn sớm nhất và phải tìm cách đưa vào định giá thực tế rằng phần lớn công ty trẻ, mới chỉ có ý tưởng, không sống sót để thành doanh nghiệp lành mạnh. Ở Chương 6, với công ty tăng trưởng, thách thức lớn nhất là ước tính tốc độ tăng trưởng khi công ty lớn lên và đối thủ tham gia ngành. Ở Chương 7, với công ty trưởng thành (nhóm mà công ty tăng trưởng nào cũng muốn tránh nhưng rốt cuộc vẫn gia nhập), ông xét hệ quả về giá trị của thâu tóm và thay đổi ban điều hành. Chương này chuyển sang giai đoạn cuối của vòng đời là suy thoái, và xét các câu hỏi then chốt quyết định giá trị của công ty bước vào giai đoạn này.
+Damodaran nhắc lại hành trình qua vòng đời doanh nghiệp. Ở Chương 5, ông xét các công ty ở giai đoạn sớm nhất và phải tìm cách đưa vào định giá thực tế rằng phần lớn công ty trẻ, mới chỉ có ý tưởng, không sống sót để thành doanh nghiệp lành mạnh. Ở Chương 6, với công ty tăng trưởng, thách thức lớn nhất là ước tính tốc độ tăng trưởng khi công ty lớn lên và đối thủ tham gia ngành.
+
+Ở Chương 7, với công ty trưởng thành (nhóm mà công ty tăng trưởng nào cũng muốn tránh nhưng rốt cuộc vẫn gia nhập), ông xét hệ quả về giá trị của thâu tóm và thay đổi ban điều hành. Chương này chuyển sang giai đoạn cuối của vòng đời là suy thoái, và xét các câu hỏi then chốt quyết định giá trị của công ty bước vào giai đoạn này.
 
 ### 2. Công ty suy thoái là gì (What is a declining company?, trang 179–180)
 
@@ -391,7 +387,9 @@ Công ty tăng trưởng không muốn thành công ty trưởng thành, công t
 | Nợ vay | Nếu công ty nợ nhiều thì có khả năng rơi vào kiệt quệ |
 | Vốn chủ sở hữu | (không có ghi chú) |
 
-Có hai điểm khác biệt chính. Thứ nhất, ở bên tài sản: công ty trưởng thành lấy phần lớn giá trị từ tài sản hiện có và phần nhỏ hơn từ tài sản tăng trưởng, còn công ty suy thoái không lấy được gì (hoặc gần như không) từ tài sản tăng trưởng. Thực tế, công ty suy thoái thường còn mất giá trị vì các khoản đầu tư tăng trưởng, nhất là khi tái đầu tư với lợi suất thấp hơn nhiều so với chi phí vốn. Tài sản hiện có không chỉ chiếm toàn bộ giá trị của công ty suy thoái mà một số công ty còn có thể thu được nhiều hơn khi thanh lý hoặc bán bớt tài sản so với khi tiếp tục hoạt động. Thứ hai, ở bên nguồn vốn: vay quá nhiều gây hậu quả nặng nề hơn nhiều cho công ty suy thoái, vì công ty không thể trông vào lợi nhuận cao hơn trong tương lai để trả nợ. Nói cách khác, suy thoái và kiệt quệ thường đi đôi với nhau.
+Có hai điểm khác biệt chính. Thứ nhất, ở bên tài sản: công ty trưởng thành lấy phần lớn giá trị từ tài sản hiện có và phần nhỏ hơn từ tài sản tăng trưởng, còn công ty suy thoái không lấy được gì (hoặc gần như không) từ tài sản tăng trưởng. Thực tế, công ty suy thoái thường còn mất giá trị vì các khoản đầu tư tăng trưởng, nhất là khi tái đầu tư với lợi suất thấp hơn nhiều so với chi phí vốn. Tài sản hiện có không chỉ chiếm toàn bộ giá trị của công ty suy thoái mà một số công ty còn có thể thu được nhiều hơn khi thanh lý hoặc bán bớt tài sản so với khi tiếp tục hoạt động.
+
+Thứ hai, ở bên nguồn vốn: vay quá nhiều gây hậu quả nặng nề hơn nhiều cho công ty suy thoái, vì công ty không thể trông vào lợi nhuận cao hơn trong tương lai để trả nợ. Nói cách khác, suy thoái và kiệt quệ thường đi đôi với nhau.
 
 ### 3. Đặc điểm của công ty suy thoái (Characteristics of Declining Companies, trang 180–181)
 
@@ -413,11 +411,15 @@ Giá trị nội tại của công ty là giá trị hiện tại của các dò
 
 **Tài sản hiện có (Existing Assets).** Định giá tài sản hiện có là ước tính dòng tiền kỳ vọng từ chúng và chiết khấu bằng suất chiết khấu đã điều chỉnh rủi ro. Có hai đặc điểm của công ty suy thoái làm quá trình này trục trặc:
 - *Lợi suất thấp hơn chi phí vốn:* ở nhiều công ty suy thoái, tài sản hiện có, dù có lãi, vẫn sinh lời thấp hơn chi phí vốn. Hệ quả tự nhiên là chiết khấu dòng tiền bằng chi phí vốn cho ra giá trị thấp hơn số vốn đã đầu tư vào công ty. Điều này không có gì lạ: tài sản sinh lời dưới mức yêu cầu có thể phá huỷ giá trị.
-- *Ảnh hưởng của việc bán tài sản:* nếu tài sản hiện có sinh lời dưới chi phí vốn, phản ứng hợp lý là bán chúng đi và hy vọng người mua tốt nhất trả giá cao. Nhưng bán tài sản tạo ra những chỗ đứt gãy trong số liệu quá khứ và làm dự báo khó hơn. Ví dụ, một công ty bán một phần lớn tài sản vào giữa năm ngoái: mọi con số hoạt động năm ngoái (doanh thu, biên lợi nhuận, tái đầu tư) đều bị ảnh hưởng, vì chúng vẫn chứa kết quả của phần tài sản đó trong nửa năm trước khi bán. Tương tự, các tham số rủi ro tính từ giá hay lợi suất quá khứ, như hệ số beta, có thể bị méo khi tài sản bị bán giữa kỳ. Về dự báo, thử ước doanh thu và lợi nhuận của một công ty sẽ bán phần lớn tài sản trong vài năm tới: phải xác định tài sản nào sẽ bị bán, ảnh hưởng tới doanh thu và lợi nhuận hoạt động, và cả tiền thu về. Nói cách khác, bản thân việc bán tài sản không làm thay đổi giá trị, mà số tiền ta kỳ vọng nhận được so với tài sản bị bán mới làm thay đổi giá trị.
+- *Ảnh hưởng của việc bán tài sản:* nếu tài sản hiện có sinh lời dưới chi phí vốn, phản ứng hợp lý là bán chúng đi và hy vọng người mua tốt nhất trả giá cao. Nhưng bán tài sản tạo ra những chỗ đứt gãy trong số liệu quá khứ và làm dự báo khó hơn. Ví dụ, một công ty bán một phần lớn tài sản vào giữa năm ngoái: mọi con số hoạt động năm ngoái (doanh thu, biên lợi nhuận, tái đầu tư) đều bị ảnh hưởng, vì chúng vẫn chứa kết quả của phần tài sản đó trong nửa năm trước khi bán. Tương tự, các tham số rủi ro tính từ giá hay lợi suất quá khứ, như hệ số beta, có thể bị méo khi tài sản bị bán giữa kỳ.
+
+  Về dự báo, thử ước doanh thu và lợi nhuận của một công ty sẽ bán phần lớn tài sản trong vài năm tới: phải xác định tài sản nào sẽ bị bán, ảnh hưởng tới doanh thu và lợi nhuận hoạt động, và cả tiền thu về. Nói cách khác, bản thân việc bán tài sản không làm thay đổi giá trị, mà số tiền ta kỳ vọng nhận được so với tài sản bị bán mới làm thay đổi giá trị.
 
 Tóm lại, cái khó khi định giá tài sản hiện có của công ty suy thoái là giá trị tính từ dòng tiền của chúng có thể thấp hơn giá trị thu được khi bán chúng đi.
 
-**Tài sản tăng trưởng (Growth Assets).** Công ty suy thoái gần như không lấy giá trị từ tài sản tăng trưởng, nên việc định giá chúng không ảnh hưởng nhiều tới giá trị. Điều này đúng nói chung, nhưng phải tính khả năng một số công ty suy thoái không chịu thừa nhận tình trạng của mình và tiếp tục đầu tư vào tài sản mới như thể còn tiềm năng tăng trưởng. Nếu các tài sản này sinh lời dưới chi phí vốn, việc thêm tài sản mới có giá trị âm và tái đầu tư làm giảm giá trị công ty. Có thể đi xa hơn: nếu coi bán tài sản là giảm vốn đầu tư, tỷ lệ tái đầu tư của công ty suy thoái có thể âm trong những năm tới, dẫn tới tốc độ tăng trưởng âm, ít nhất trong tương lai gần. Nhà phân tích học định giá ở các công ty khoẻ thường không quen với tốc độ tăng trưởng lợi nhuận âm và dòng tiền lớn hơn lợi nhuận, nhưng tổ hợp đó là đặc trưng của nhiều công ty suy thoái.
+**Tài sản tăng trưởng (Growth Assets).** Công ty suy thoái gần như không lấy giá trị từ tài sản tăng trưởng, nên việc định giá chúng không ảnh hưởng nhiều tới giá trị. Điều này đúng nói chung, nhưng phải tính khả năng một số công ty suy thoái không chịu thừa nhận tình trạng của mình và tiếp tục đầu tư vào tài sản mới như thể còn tiềm năng tăng trưởng. Nếu các tài sản này sinh lời dưới chi phí vốn, việc thêm tài sản mới có giá trị âm và tái đầu tư làm giảm giá trị công ty.
+
+Có thể đi xa hơn: nếu coi bán tài sản là giảm vốn đầu tư, tỷ lệ tái đầu tư của công ty suy thoái có thể âm trong những năm tới, dẫn tới tốc độ tăng trưởng âm, ít nhất trong tương lai gần. Nhà phân tích học định giá ở các công ty khoẻ thường không quen với tốc độ tăng trưởng lợi nhuận âm và dòng tiền lớn hơn lợi nhuận, nhưng tổ hợp đó là đặc trưng của nhiều công ty suy thoái.
 
 **Suất chiết khấu (Discount Rates).** Chi phí vốn là bình quân gia quyền của chi phí nợ vay và chi phí vốn chủ sở hữu. Có hai điều làm việc ước tính khó ở công ty suy thoái:
 - Cổ tức lớn và mua lại cổ phiếu ảnh hưởng tới giá trị vốn chủ và tỷ lệ nợ dùng trong công thức. Trả nhiều tiền cho cổ đông làm giảm giá trị thị trường của vốn chủ, qua giá cổ phiếu (khi trả cổ tức) và qua số cổ phiếu (khi mua lại). Nếu nợ không được trả bớt tương ứng, tỷ lệ nợ tăng, kéo theo thay đổi của chi phí nợ, chi phí vốn chủ và chi phí vốn.
@@ -468,11 +470,15 @@ Cách định giá khác nhau theo bốn tổ hợp:
 
 ### 6. Suy thoái không đảo ngược được, ít kiệt quệ (I. Irreversible Decline, Low distress, trang 189–193)
 
-Ở một số công ty, các triệu chứng suy thoái (doanh thu đi ngang, biên lợi nhuận giảm) có gốc rễ sâu, khó sửa, vì ba lý do: thị trường chung cho sản phẩm và dịch vụ của công ty đang thu hẹp và sẽ còn thu hẹp; mọi công ty trong ngành đều có một số hoặc nhiều triệu chứng giống công ty đang định giá; và không có yếu tố kinh tế vĩ mô nào để chỉ ra làm nguyên nhân (như suy thoái kinh tế với công ty chu kỳ, hay chu kỳ giá với công ty hàng hoá cơ bản). Ví dụ điển hình là ngành hàng không ở phần lớn các nước phát triển kể từ khi bỏ điều tiết: công ty khoẻ là ngoại lệ chứ không phải quy luật, và phần lớn công ty dường như luôn chênh vênh bên bờ phá sản, kể cả khi kinh tế tốt.
+Ở một số công ty, các triệu chứng suy thoái (doanh thu đi ngang, biên lợi nhuận giảm) có gốc rễ sâu, khó sửa, vì ba lý do: thị trường chung cho sản phẩm và dịch vụ của công ty đang thu hẹp và sẽ còn thu hẹp; mọi công ty trong ngành đều có một số hoặc nhiều triệu chứng giống công ty đang định giá; và không có yếu tố kinh tế vĩ mô nào để chỉ ra làm nguyên nhân (như suy thoái kinh tế với công ty chu kỳ, hay chu kỳ giá với công ty hàng hoá cơ bản).
+
+Ví dụ điển hình là ngành hàng không ở phần lớn các nước phát triển kể từ khi bỏ điều tiết: công ty khoẻ là ngoại lệ chứ không phải quy luật, và phần lớn công ty dường như luôn chênh vênh bên bờ phá sản, kể cả khi kinh tế tốt.
 
 **Bước 1:** ước giá trị của công ty như doanh nghiệp hoạt động liên tục, dù tài sản, như đang đầu tư, có thể sinh lời dưới chi phí vốn. Thực chất là định giá với giả định công ty tiếp tục hoạt động trong khi phá huỷ giá trị của nhà đầu tư hiện tại. Giá trị hiện trạng này có thể thấp hơn nhiều so với giá trị sổ sách, điều không đáng ngạc nhiên khi ta dự báo lợi suất vượt trội âm trên tài sản hiện có. Giá trị còn thấp hơn nữa nếu ban điều hành nhất quyết mở rộng tài sản bằng các khoản đầu tư mới vào cùng ngành.
 
-**Bước 2:** xét lựa chọn thay thế hợp lý cho việc tiếp tục kinh doanh. Nếu tài sản có thể được dùng ở chỗ khác (ngành khác, công ty khác) để sinh lời cao hơn, có thể bán chúng và thanh lý dần doanh nghiệp. Vì không lo kiệt quệ, công ty có thể chờ đúng lúc và đúng người mua để thu tối đa giá trị; vì vậy gọi là thanh lý có trật tự, có thể kéo dài nhiều năm. Tiền thu từ bán tài sản khác nhau theo ngành và loại tài sản, nhưng có vài mệnh đề chung: (a) tiền thu kỳ vọng phải cao hơn giá trị hiện tại của dòng tiền tài sản tạo ra nếu giữ lại dùng như hiện nay, nếu không thì bán không có lý; ví dụ tài sản tạo 50 triệu USD mỗi năm vĩnh viễn với suất chiết khấu đã điều chỉnh rủi ro 10% (giá trị hiện tại = 50 / 0,10 = 500 triệu USD) thì tiền bán phải hơn 500 triệu USD; (b) gần như không áp chiết khấu kém thanh khoản vào giá trị bán, vì không có gì gấp gáp.
+**Bước 2:** xét lựa chọn thay thế hợp lý cho việc tiếp tục kinh doanh. Nếu tài sản có thể được dùng ở chỗ khác (ngành khác, công ty khác) để sinh lời cao hơn, có thể bán chúng và thanh lý dần doanh nghiệp. Vì không lo kiệt quệ, công ty có thể chờ đúng lúc và đúng người mua để thu tối đa giá trị; vì vậy gọi là thanh lý có trật tự, có thể kéo dài nhiều năm.
+
+Tiền thu từ bán tài sản khác nhau theo ngành và loại tài sản, nhưng có vài mệnh đề chung: (a) tiền thu kỳ vọng phải cao hơn giá trị hiện tại của dòng tiền tài sản tạo ra nếu giữ lại dùng như hiện nay, nếu không thì bán không có lý; ví dụ tài sản tạo 50 triệu USD mỗi năm vĩnh viễn với suất chiết khấu đã điều chỉnh rủi ro 10% (giá trị hiện tại = 50 / 0,10 = 500 triệu USD) thì tiền bán phải hơn 500 triệu USD; (b) gần như không áp chiết khấu kém thanh khoản vào giá trị bán, vì không có gì gấp gáp.
 
 **Bước 3:** khi đã có cả hai giá trị (hoạt động liên tục và thanh lý có trật tự theo thời gian), công ty nên giao dịch ở mức cao hơn trong hai giá trị. Còn có lời giải trung gian: thanh lý một phần công ty gồm những tài sản đáng giá hơn với người khác, phần còn lại tiếp tục hoạt động.
 
@@ -642,7 +648,7 @@ Nhiều vấn đề khi ước tiền bán tháo (phải bán dưới giá trị
 
 ROC = 209 × (1 − 0,26) / 8.975 = 1,72%
 
-(Văn bản cũng ghi "vốn đầu tư đầu năm 9.832" và "ROC 1,44%"; như ghi ở Lưu ý, 1,44% là kết quả khi dùng thuế suất 38%: 209 × 0,62 / 8.974 = 1,44%.)
+(Văn bản cũng ghi "vốn đầu tư đầu năm 9.832" và "ROC 1,44%"; như ghi ở mục Lưu ý cuối chương, 1,44% là kết quả khi dùng thuế suất 38%: 209 × 0,62 / 8.974 = 1,44%.)
 
 **Bước 2. Mức sinh lời mục tiêu khi hồi phục.** Damodaran xem biên lợi nhuận và ROC của LVS trong 5 năm qua:
 
@@ -692,7 +698,7 @@ Kiểm tra của người tổng hợp: chuỗi doanh thu, biên lợi nhuận, 
 Tỷ lệ tái đầu tư = g / ROC = 3% / 10% = 30%
 
 Giá trị cuối kỳ = Lợi nhuận hoạt động sau thuế năm 10 × (1 + g) × (1 − Tỷ lệ tái đầu tư) / (Chi phí vốn ổn định − g)
-= 1.051 × 1,03 × (1 − 0,30) / (0,0743 − 0,03) = 757,8 / 0,0443 = 17.129 theo sách (người tổng hợp tính được 17.105; xem Lưu ý).
+= 1.051 × 1,03 × (1 − 0,30) / (0,0743 − 0,03) = 757,8 / 0,0443 = 17.129 theo sách (người tổng hợp tính được 17.105; xem mục Lưu ý cuối chương).
 
 **Bước 5. Giá trị tài sản hoạt động.** Vì chi phí vốn thay đổi theo năm, phải dùng hệ số chiết khấu cộng dồn: nhân dồn (1 + chi phí vốn) của từng năm. Ví dụ năm 7 = 1,0988⁵ × 1,0979 × 1,0950 = 1,9261 (chú thích 46).
 
@@ -946,24 +952,209 @@ Thay vì một công thức chung cho "công ty có vấn đề", Damodaran tác
 
 ### Ví dụ Sears cho thấy tái đầu tư âm có thể làm cổ phiếu suy thoái đáng giá hơn giá thị trường, nhưng kết quả nhạy với giả định lạc quan
 
-Phát hiện đáng chú ý là một công ty co lại 5% mỗi năm vẫn có dòng tiền gần gấp đôi lợi nhuận nhờ bán tài sản, và giá trị cao hơn giá thị trường khoảng 7%. Nhưng định giá dựa trên hai giả định thuận lợi: biên lợi nhuận tăng từ 3,05% lên 4% trong khi doanh thu giảm, và Sears dừng co lại sau 5 năm để tăng trưởng 2% mãi mãi. Khoảng cách 7% nhỏ hơn nhiều so với độ bất định của các giả định này. Theo hiểu biết của người tổng hợp, Sears thực tế tiếp tục co lại suốt thập niên 2010 và phá sản năm 2018; kịch bản "thu nhỏ rồi ổn định" không xảy ra, và giả định ban điều hành hành xử hợp lý (chú thích 40) hoá ra là mắt xích yếu nhất. Bài học: với công ty suy thoái, phần lớn giá trị nằm trong giá trị cuối kỳ (ở đây khoảng 58% của 16.918 triệu USD là giá trị hiện tại của giá trị cuối kỳ), nên giả định "dừng suy thoái" cần được thử nghiệm độ nhạy.
+Phát hiện đáng chú ý là một công ty co lại 5% mỗi năm vẫn có dòng tiền gần gấp đôi lợi nhuận nhờ bán tài sản, và giá trị cao hơn giá thị trường khoảng 7%.
+
+Nhưng định giá dựa trên hai giả định thuận lợi: biên lợi nhuận tăng từ 3,05% lên 4% trong khi doanh thu giảm, và Sears dừng co lại sau 5 năm để tăng trưởng 2% mãi mãi. Khoảng cách 7% nhỏ hơn nhiều so với độ bất định của các giả định này.
+
+Theo hiểu biết của người tổng hợp, Sears thực tế tiếp tục co lại suốt thập niên 2010 và phá sản năm 2018; kịch bản "thu nhỏ rồi ổn định" không xảy ra, và giả định ban điều hành hành xử hợp lý (chú thích 40) hoá ra là mắt xích yếu nhất. Bài học: với công ty suy thoái, phần lớn giá trị nằm trong giá trị cuối kỳ (ở đây khoảng 58% của 16.918 triệu USD là giá trị hiện tại của giá trị cuối kỳ), nên giả định "dừng suy thoái" cần được thử nghiệm độ nhạy.
 
 ### Phương pháp tách riêng kiệt quệ đơn giản và minh bạch, nhưng các đầu vào chủ quan và bản thảo dùng chúng thiếu nhất quán
 
-Công thức Giá trị = Giá trị hoạt động liên tục × (1 − π) + Giá trị bán tháo × π rất dễ dùng và làm lộ rõ hai giả định quan trọng nhất. Tuy nhiên, minh hoạ LVS cho thấy độ nhạy cao: cùng một công ty, DCF có điều chỉnh cho 5,89 USD còn bội số kỳ hạn có điều chỉnh cho 2,73 USD, và giá thị trường 4,25 USD nằm giữa. Các đầu vào cũng có điểm yếu: xác suất lấy từ bảng vỡ nợ theo hạng trái phiếu (bảng có chỗ không tăng đều theo hạng, và không có hạng BBB− dùng cho Delta); giá trị bán tháo 2.769 triệu USD xuất hiện không có nguồn; khấu hao 572 không khớp với cách tính đã mô tả. Một điểm tinh tế hơn: dùng giá trị thị trường của nợ (7.565 thay vì mệnh giá 10.470) trong kịch bản hoạt động liên tục làm tăng giá trị vốn chủ, trong khi giá thị trường của nợ thấp chính vì thị trường đã tính khả năng vỡ nợ; Damodaran tự thừa nhận điều này cần biện minh ("consistent with our assumption that LVS will make it").
+Công thức Giá trị = Giá trị hoạt động liên tục × (1 − π) + Giá trị bán tháo × π rất dễ dùng và làm lộ rõ hai giả định quan trọng nhất.
+
+Tuy nhiên, minh hoạ LVS cho thấy độ nhạy cao: cùng một công ty, DCF có điều chỉnh cho 5,89 USD còn bội số kỳ hạn có điều chỉnh cho 2,73 USD, và giá thị trường 4,25 USD nằm giữa. Các đầu vào cũng có điểm yếu: xác suất lấy từ bảng vỡ nợ theo hạng trái phiếu (bảng có chỗ không tăng đều theo hạng, và không có hạng BBB− dùng cho Delta); giá trị bán tháo 2.769 triệu USD xuất hiện không có nguồn; khấu hao 572 không khớp với cách tính đã mô tả.
+
+Một điểm tinh tế hơn: dùng giá trị thị trường của nợ (7.565 thay vì mệnh giá 10.470) trong kịch bản hoạt động liên tục làm tăng giá trị vốn chủ, trong khi giá thị trường của nợ thấp chính vì thị trường đã tính khả năng vỡ nợ; Damodaran tự thừa nhận điều này cần biện minh ("consistent with our assumption that LVS will make it").
 
 ### Kết quả thực tế của LVS ủng hộ lập luận "vốn chủ như quyền chọn" hơn là con số định giá cụ thể
 
-Theo hiểu biết của người tổng hợp (không tra cứu), LVS vượt qua khủng hoảng, và cổ phiếu tăng gấp nhiều lần trong những năm sau khi các dự án ở Singapore và Macau đi vào hoạt động. Đây đúng là kịch bản mà mục "Equity as an Option" mô tả: cổ đông có ít thứ để mất, nhiều thứ để được, và biến động lớn có lợi cho họ. Cả hai con số định giá (5,89 và 2,73 USD) đều thấp xa so với kết quả thực tế, vì chúng chỉ tính một kịch bản sống sót trung bình. Chương nêu ý quyền chọn nhưng không định lượng; người đọc muốn áp dụng sẽ cần mô hình định giá quyền chọn (ví dụ Black–Scholes áp cho giá trị công ty với giá thực hiện là mệnh giá nợ), vốn được Damodaran trình bày ở các sách dày hơn.
+Theo hiểu biết của người tổng hợp (không tra cứu), LVS vượt qua khủng hoảng, và cổ phiếu tăng gấp nhiều lần trong những năm sau khi các dự án ở Singapore và Macau đi vào hoạt động. Đây đúng là kịch bản mà mục "Equity as an Option" mô tả: cổ đông có ít thứ để mất, nhiều thứ để được, và biến động lớn có lợi cho họ.
+
+Cả hai con số định giá (5,89 và 2,73 USD) đều thấp xa so với kết quả thực tế, vì chúng chỉ tính một kịch bản sống sót trung bình. Chương nêu ý quyền chọn nhưng không định lượng; người đọc muốn áp dụng sẽ cần mô hình định giá quyền chọn (ví dụ Black–Scholes áp cho giá trị công ty với giá thực hiện là mệnh giá nợ), vốn được Damodaran trình bày ở các sách dày hơn.
 
 ### Nhiều điều đã thay đổi từ 2010 làm giảm hoặc thay đổi tính trực tiếp của các con số
 
-Theo hiểu biết của người tổng hợp: lãi suất phi rủi ro ở gần 0 kéo dài suốt thập niên 2010 rồi tăng mạnh trở lại từ 2022, nên trần tăng trưởng 2–3% và chi phí vốn 7–10% trong ví dụ cần được ước lại theo thời điểm. Chuẩn mực kế toán thuê tài sản mới (IFRS 16, ASC 842, có hiệu lực từ 2019) đưa nghĩa vụ thuê lên bảng cân đối, làm nợ của các nhà bán lẻ như Sears và các hãng hàng không lớn hơn đáng kể so với cách đọc năm 2008; với công ty suy thoái phải thuê nhiều cửa hàng, đây là phần quan trọng của gánh nặng cố định. Thị trường trái phiếu lợi suất cao và tín dụng tư nhân phát triển mạnh, cho công ty kiệt quệ thêm đường đảo nợ, nhưng các làn sóng phá sản bán lẻ ("retail apocalypse") cuối thập niên 2010 và năm 2020 cho thấy suy thoái không đảo ngược cộng nợ thuê lớn vẫn là tổ hợp độc hại như chương mô tả.
+Theo hiểu biết của người tổng hợp: lãi suất phi rủi ro ở gần 0 kéo dài suốt thập niên 2010 rồi tăng mạnh trở lại từ 2022, nên trần tăng trưởng 2–3% và chi phí vốn 7–10% trong ví dụ cần được ước lại theo thời điểm.
+
+Chuẩn mực kế toán thuê tài sản mới (IFRS 16, ASC 842, có hiệu lực từ 2019) đưa nghĩa vụ thuê lên bảng cân đối, làm nợ của các nhà bán lẻ như Sears và các hãng hàng không lớn hơn đáng kể so với cách đọc năm 2008; với công ty suy thoái phải thuê nhiều cửa hàng, đây là phần quan trọng của gánh nặng cố định.
+
+Thị trường trái phiếu lợi suất cao và tín dụng tư nhân phát triển mạnh, cho công ty kiệt quệ thêm đường đảo nợ, nhưng các làn sóng phá sản bán lẻ ("retail apocalypse") cuối thập niên 2010 và năm 2020 cho thấy suy thoái không đảo ngược cộng nợ thuê lớn vẫn là tổ hợp độc hại như chương mô tả.
 
 ### Có quan điểm trái chiều về việc dùng tỷ lệ vỡ nợ lịch sử và về giá trị của chiến lược "kền kền"
 
-Một số nhà nghiên cứu cho rằng xác suất vỡ nợ nên lấy từ giá thị trường (chênh lệch lợi suất trái phiếu, giá hợp đồng hoán đổi rủi ro tín dụng) thay vì tỷ lệ lịch sử, vì giá thị trường phản ánh thông tin hiện tại và điều kiện kinh tế; nhưng xác suất suy ra từ giá thị trường là xác suất "trung tính rủi ro", thường cao hơn xác suất thực. Damodaran chọn tỷ lệ lịch sử vì đơn giản. Về chiến lược đầu tư, các nghiên cứu học thuật (theo hiểu biết của người tổng hợp) cho thấy cổ phiếu có rủi ro phá sản cao trung bình có lợi suất thấp chứ không cao ("distress puzzle"), nên chiến lược "kền kền" trên cổ phiếu khó thắng nếu không có lợi thế phân tích thật sự; điều này khớp với cảnh báo của Damodaran rằng nhiều công ty sẽ mất trắng.
+Một số nhà nghiên cứu cho rằng xác suất vỡ nợ nên lấy từ giá thị trường (chênh lệch lợi suất trái phiếu, giá hợp đồng hoán đổi rủi ro tín dụng) thay vì tỷ lệ lịch sử, vì giá thị trường phản ánh thông tin hiện tại và điều kiện kinh tế; nhưng xác suất suy ra từ giá thị trường là xác suất "trung tính rủi ro", thường cao hơn xác suất thực. Damodaran chọn tỷ lệ lịch sử vì đơn giản.
+
+Về chiến lược đầu tư, các nghiên cứu học thuật (theo hiểu biết của người tổng hợp) cho thấy cổ phiếu có rủi ro phá sản cao trung bình có lợi suất thấp chứ không cao ("distress puzzle"), nên chiến lược "kền kền" trên cổ phiếu khó thắng nếu không có lợi thế phân tích thật sự; điều này khớp với cảnh báo của Damodaran rằng nhiều công ty sẽ mất trắng.
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích
 
-Với nhà phân tích: trước khi định giá một công ty đang sa sút, hãy trả lời hai câu hỏi của khung bốn ô; tách riêng kịch bản sống sót và kịch bản phá sản thay vì nhét rủi ro vào suất chiết khấu; kiểm tra tiền bán tài sản so với giá trị sổ sách; và đặc biệt thử độ nhạy của giá trị cuối kỳ khi giả định suy thoái dừng lại. Với nhà đầu tư cá nhân: một cổ phiếu có P/E hay P/B rất thấp ở công ty nợ nhiều thường rẻ vì lý do chính đáng; khi so bội số, hãy so với công ty có mức nợ tương tự. Ở thị trường Việt Nam, logic này áp dụng được cho các doanh nghiệp trong ngành đang thu hẹp hoặc vay nợ lớn (ví dụ một số doanh nghiệp bất động sản hay sản xuất có nợ trái phiếu lớn): câu hỏi trước tiên là doanh nghiệp có trả được nợ đến hạn không, tài sản bán gấp thì được bao nhiêu so với sổ sách, và giá trái phiếu hay các thông tin về đàm phán nợ có phát tín hiệu khác với giá cổ phiếu không. Điều chỉnh định tính này nên đi kèm một phép tính đơn giản theo công thức bình quân gia quyền của chương, thay vì một mức chiết khấu cảm tính.
+Với nhà phân tích: trước khi định giá một công ty đang sa sút, hãy trả lời hai câu hỏi của khung bốn ô; tách riêng kịch bản sống sót và kịch bản phá sản thay vì nhét rủi ro vào suất chiết khấu; kiểm tra tiền bán tài sản so với giá trị sổ sách; và đặc biệt thử độ nhạy của giá trị cuối kỳ khi giả định suy thoái dừng lại.
+
+Với nhà đầu tư cá nhân: một cổ phiếu có P/E hay P/B rất thấp ở công ty nợ nhiều thường rẻ vì lý do chính đáng; khi so bội số, hãy so với công ty có mức nợ tương tự.
+
+Ở thị trường Việt Nam, logic này áp dụng được cho các doanh nghiệp trong ngành đang thu hẹp hoặc vay nợ lớn (ví dụ một số doanh nghiệp bất động sản hay sản xuất có nợ trái phiếu lớn): câu hỏi trước tiên là doanh nghiệp có trả được nợ đến hạn không, tài sản bán gấp thì được bao nhiêu so với sổ sách, và giá trái phiếu hay các thông tin về đàm phán nợ có phát tín hiệu khác với giá cổ phiếu không. Điều chỉnh định tính này nên đi kèm một phép tính đơn giản theo công thức bình quân gia quyền của chương, thay vì một mức chiết khấu cảm tính.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: sáu nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết (công ty suy thoái là gì và vì sao công cụ thông thường hỏng, khung bốn ô, suy thoái ít kiệt quệ với ví dụ Sears và Harley Davidson, kiệt quệ trong DCF với ví dụ Las Vegas Sands, kiệt quệ trong định giá tương đối, cơ hội đầu tư và kết luận), mỗi nhánh ghi khái niệm, công thức, giả định và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: công ty suy thoái cần chấp nhận tăng trưởng âm, so với giá trị thanh lý và tính tường minh xác suất phá sản`"]
+  n1["`Mục 1–4 — Công ty suy thoái là gì và vì sao công cụ thông thường hỏng`"]
+  n0 --- n1
+  n2["`Toàn bộ giá trị đến từ tài sản hiện có, tài sản tăng trưởng gần như bằng 0 hoặc âm`"]
+  n1 --- n2
+  n3["`Không thể trông vào lợi nhuận tương lai để trả nợ, nên suy thoái và kiệt quệ thường đi đôi`"]
+  n1 --- n3
+  n4["`Đặc điểm: doanh thu đứng yên kéo dài, biên co lại, bán bớt tài sản, chi trả lớn, nợ quá sức`"]
+  n1 --- n4
+  n5["`Tài sản hiện có sinh lời dưới chi phí vốn nên giá trị DCF thấp hơn vốn đã bỏ ra`"]
+  n1 --- n5
+  n6["`Bán tài sản tự nó không đổi giá trị, số tiền thu về so với tài sản bị bán mới đổi giá trị`"]
+  n1 --- n6
+  n7["`Tái đầu tư âm kéo theo tăng trưởng âm và dòng tiền lớn hơn lợi nhuận`"]
+  n1 --- n7
+  n8["`Beta hồi quy tụt hậu, có thể cho chi phí vốn chủ thấp hơn chi phí nợ trước thuế`"]
+  n1 --- n8
+  n9["`Giá trị cuối kỳ: công ty có thể không sống tới giai đoạn ổn định, tăng trưởng vĩnh viễn có thể âm`"]
+  n1 --- n9
+  n10["`Bội số doanh thu ngầm giả định công ty có lãi trở lại, vấn đề làm lệch định giá nội tại cũng làm lệch định giá tương đối`"]
+  n1 --- n10
+  n11["`Mục 5 — Khung bốn ô: suy thoái đảo ngược được không, kiệt quệ cao hay thấp`"]
+  n0 --- n11
+  n12["`Đảo ngược được khi công ty kém giữa ngành khoẻ hoặc từng hồi phục qua chu kỳ`"]
+  n11 --- n12
+  n13["`Kiệt quệ cao khi nợ lớn và hạng tín nhiệm dưới mức đầu tư`"]
+  n11 --- n13
+  n14["`Không đảo ngược, ít kiệt quệ: Giá trị = Lớn nhất (hoạt động liên tục, thanh lý có trật tự)`"]
+  n11 --- n14
+  n15["`Đảo ngược, ít kiệt quệ: Hiện trạng × (1 − p) + Tối ưu × p, p là xác suất thay ban điều hành`"]
+  n11 --- n15
+  n16["`Kiệt quệ cao: bắt đầu từ giá trị không kiệt quệ rồi điều chỉnh theo xác suất kiệt quệ và tiền bán tháo`"]
+  n11 --- n16
+  n17["`Không đảo ngược cộng kiệt quệ cao là tổ hợp độc hại: tiền bán tháo thấp, quyền chọn thanh lý ít giá trị`"]
+  n11 --- n17
+  n18["`Mục 6–7 — Suy thoái ít kiệt quệ: Sears và Harley Davidson`"]
+  n0 --- n18
+  n19["`Thanh lý có trật tự: tài sản tạo 50 triệu USD mỗi năm, chiết khấu 10%, phải bán được hơn 500 triệu USD`"]
+  n18 --- n19
+  n20["`Sears 2008: doanh thu 50.703 triệu USD, ROC 4,99% so với chi phí vốn 7,50%`"]
+  n18 --- n20
+  n21["`Giả định doanh thu giảm 5% mỗi năm trong 5 năm xuống 39.233, biên tăng từ 3,05% lên 4%`"]
+  n18 --- n21
+  n22["`Tiền bán tài sản bằng 54–67% phần vốn sổ sách giảm đi`"]
+  n18 --- n22
+  n23["`FCFF năm 1 = 968 lợi nhuận sau thuế + 880 tiền bán = 1.849 triệu USD`"]
+  n22 --- n23
+  n24["`Sau năm 5 tăng 2%, ROC 7,5%, chi phí vốn 7,13%: giá trị cuối kỳ 14.187 triệu USD`"]
+  n18 --- n24
+  n25["`Giá trị tài sản hoạt động 16.918 triệu USD, mỗi cổ phiếu 81,91 USD so với giá 76,25 USD`"]
+  n18 --- n25
+  n26["`Harley Davidson 1982 bán 32.400 xe, lỗ khoảng 30 triệu USD, ban điều hành mới vực dậy`"]
+  n18 --- n26
+  n27["`Phần lớn công ty gặp khó không bao giờ xoay chuyển được, phải thực tế`"]
+  n18 --- n27
+  n28["`Mục 8 — Kiệt quệ trong DCF: tách riêng xác suất phá sản, ví dụ Las Vegas Sands`"]
+  n0 --- n28
+  n29["`DCF ngầm giả định công ty sống mãi nên thổi phồng giá trị công ty kiệt quệ`"]
+  n28 --- n29
+  n30["`Giá trị = Giá trị hoạt động liên tục × (1 − π) + Giá trị bán tháo × π`"]
+  n28 --- n30
+  n31["`π theo hạng trái phiếu (Altman 1971–2007): BB 19,63%, B+ 28,25% trong 10 năm`"]
+  n28 --- n31
+  n32["`Tiền bán tháo thực tế nhất là một tỷ lệ giá trị sổ sách tài sản`"]
+  n28 --- n32
+  n33["`LVS 2008: doanh thu 4.390, EBIT 209, biên 4,76%, mục tiêu biên 17% và ROC 10%`"]
+  n28 --- n33
+  n34["`Chi phí vốn 9,88% (nợ 73,5%) giảm dần về 7,43% (nợ 50%)`"]
+  n33 --- n34
+  n35["`Giá trị tài sản hoạt động 9.793 triệu USD, hoạt động liên tục 8,21 USD mỗi cổ phiếu`"]
+  n28 --- n35
+  n36["`Có kiệt quệ: 8,21 × 0,7175 + 0 × 0,2825 = 5,89 USD, so với giá 4,25 USD`"]
+  n28 --- n36
+  n37["`Vốn chủ như quyền chọn mua: vẫn có giá trị khi công ty đáng giá thấp hơn nợ, rủi ro cao có lợi cho cổ đông`"]
+  n28 --- n37
+  n38["`Mục 9 — Kiệt quệ trong định giá tương đối`"]
+  n0 --- n38
+  n39["`P/E, P/B không tính được nên dùng bội số doanh thu và EV/EBITDA`"]
+  n38 --- n39
+  n40["`Điều chỉnh cảm tính thường chỉ để biện minh cho định kiến có sẵn`"]
+  n38 --- n40
+  n41["`Cách 1: so với công ty kiệt quệ khác, chỉ dùng được khi nhiều công ty cùng gặp khó`"]
+  n38 --- n41
+  n42["`7 casino nợ trên 60%: EV/EBITDA trung bình không tính LVS 6,60, LVS 14,31`"]
+  n41 --- n42
+  n43["`Dùng nợ sổ sách làm phồng EV, dùng nợ thị trường thì LVS còn khoảng 10 lần`"]
+  n41 --- n43
+  n44["`Cách 2: so với công ty khoẻ rồi điều chỉnh tường minh theo xác suất kiệt quệ`"]
+  n38 --- n44
+  n45["`EBITDA năm 10 2.268 × 8,25 = 18.711, chiết khấu về hôm nay 7.658`"]
+  n44 --- n45
+  n46["`7.658 × 0,7175 + 2.769 × 0,2825 = 6.277, vốn chủ 1.751, mỗi cổ phiếu 2,73 USD`"]
+  n44 --- n46
+  n47["`Mục 10–11 — Cơ hội đầu tư và kết luận`"]
+  n0 --- n47
+  n48["`Ít nợ: tìm giá thấp, ban điều hành chịu thu nhỏ, có người mua tài sản, trả nhiều tiền cho cổ đông`"]
+  n47 --- n48
+  n49["`Danh mục đó cho lợi suất tiền mặt cao và giá tăng ít`"]
+  n47 --- n49
+  n50["`Nợ nhiều, kiểu kền kền: chọn cổ phiếu sụp vì sợ vỡ nợ mà giá trái phiếu vẫn vững`"]
+  n47 --- n50
+  n51["`Dấu hiệu khác: nhà nước có thể hậu thuẫn công ty lớn, nhiều lao động`"]
+  n47 --- n51
+  n52["`Chấp nhận nhiều công ty mất trắng, trông vào công ty hồi phục để bù lỗ`"]
+  n47 --- n52
+  n53["`Hai đầu vòng đời khó định giá nhất vì cùng câu hỏi: công ty có sống sót không`"]
+  n47 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Bội số thấp của công ty dễ phá sản không có nghĩa là rẻ`"]
+  n54 --- n55
+  n56["`Tách riêng kịch bản sống sót và kịch bản phá sản thay vì nhét rủi ro vào suất chiết khấu`"]
+  n54 --- n56
+  n57["`Doanh nghiệp không bất tử, khả năng thất bại phải được đưa vào phép tính`"]
+  n54 --- n57
+  class n0 root
+  class n1,n11,n18,n28,n38,n47,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 2 "Valuing across the life cycle", Chương 8 "Valuing Declining and Distressed Companies", trang 179–212.
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần 2 đi lần lượt qua các giai đoạn của vòng đời doanh nghiệp. [Chương 5](C05-dinh-gia-cong-ty-tre-tang-truong.md) xử lý công ty khởi nghiệp tăng trưởng, nơi câu hỏi lớn là công ty có sống sót để thành doanh nghiệp lành mạnh hay không. [Chương 6](C06-dinh-gia-cong-ty-tang-truong.md) xử lý công ty tăng trưởng, nơi khó nhất là ước tính tốc độ tăng trưởng khi công ty lớn lên và đối thủ nhảy vào. [Chương 7](C07-dinh-gia-cong-ty-truong-thanh.md) xử lý công ty trưởng thành, với hai đề tài là thâu tóm và thay đổi ban điều hành (giá trị của quyền kiểm soát: định giá công ty theo cách điều hành hiện tại, định giá lại theo cách điều hành tốt nhất, rồi lấy bình quân theo xác suất ban điều hành bị thay).
+
+Chương 8 khép lại vòng đời bằng giai đoạn cuối, suy thoái, và gắn nó với kiệt quệ tài chính (distress), vì công ty suy thoái mà nợ nhiều thì rất dễ không trả được nợ. Chương này dùng lại cách định giá quyền kiểm soát của Chương 7 cho trường hợp suy thoái có thể đảo ngược, và thêm hai công cụ mới: giá trị thanh lý có trật tự (orderly liquidation) và cách tách riêng xác suất phá sản ra khỏi định giá chiết khấu dòng tiền (DCF).
+
+Phần 3 sẽ áp dụng các ý tưởng này cho các tình huống đặc biệt; riêng [Chương 10](C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md) về công ty có tính chu kỳ được nhắc lại ở đây như ví dụ về suy thoái có thể hồi phục. Chương 1 và [Chương 12](C12-bai-hoc-ve-dinh-gia.md) đều nhấn mạnh rằng doanh nghiệp không bất tử; chương này là nơi ý đó được đưa vào phép tính.
+
+## Lưu ý
+
+- **Dẫn chiếu sai số chương, số bảng.** Bản thảo được ghép từ sách *Investment Valuation* và *Damodaran on Valuation* của chính tác giả nên còn nhiều số tham chiếu cũ: "framework we developed in chapter 11 for valuing control" và "techniques that we described in chapter 11" (trang 187, 195) thực ra là khung định giá quyền kiểm soát ở Chương 7 của cuốn này; bảng xác suất vỡ nợ được đánh số "Table 12.5" thay vì 8.x; "cost of capital 7.43% (from table 12.9)", "forecasts ... made in table 12.7" và "computed earlier in illustration 12.6" (trang 202, 208) thực ra là Bảng 8.5, Bảng 8.6 và Minh hoạ 8.2 của chương này.
+
+  Chú thích 42 (nguồn Altman) bị dính liền với chú thích 43 và còn dấu sửa bản "Deleted"; chú thích 45 (trang 202) được gọi trong bài nhưng không có nội dung.
+- **Minh hoạ 8.2 (Las Vegas Sands) có nhiều chỗ không khớp:**
+  - Văn bản nói vốn đầu tư đầu năm là 9.832 triệu USD, công thức lại chia cho 8.975 và Bảng 8.4 ghi 8.974. Theo tính toán của người tổng hợp, 209 × (1 − 0,26) / 8.975 = 1,72% (đúng như công thức), còn con số 1,44% mà văn bản và Bảng 8.4 ghi là kết quả khi dùng thuế suất 38%: 209 × 0,62 / 8.974 = 1,44%. Toàn bộ cột ROC của Bảng 8.4 đều tính với thuế suất 38% (ví dụ 2004: 233 × 0,62 / 1.575 = 9,17%), không phải 26% như văn bản nói.
+  - Tiêu đề Bảng 8.4 ghi "2003–2008" nhưng bảng chỉ có các năm 2004–2008.
+  - Công thức giá trị cuối kỳ ghi "After-tax Operating Income₅" (chép từ ví dụ Sears) nhưng thực ra dùng lợi nhuận năm 10 (1.051 triệu USD). Theo tính toán của người tổng hợp, 1.051 × 1,03 × 0,70 / (0,0743 − 0,03) = 17.105 triệu USD, sách ghi 17.129 (lệch khoảng 0,1%, có lẽ do dùng số chưa làm tròn và làm tròn suất chiết khấu).
+  - Chú thích 46 viết hệ số chiết khấu cộng dồn năm 7 = 1,0988⁵ × 1,979 × 1,0950; số đúng phải là 1,0988⁵ × 1,0979 × 1,0950 = 1,9261.
+  - Công thức giá trị kỳ vọng mỗi cổ phiếu viết "$8.21 (1 − .7175) + $0.00 (.2825)"; đúng phải là 8,21 × (1 − 0,2825), tức 8,21 × 0,7175 = 5,89 USD (con số 5,89 đúng, chỉ cách viết sai). Sách nói 5,89 USD "cao hơn khoảng 35%" so với giá 4,25 USD; theo tính toán của người tổng hợp là cao hơn khoảng 38,6%.
+- **Bảng xác suất vỡ nợ (Altman) có điểm lạ.** Bảng không có hạng BBB−, nhưng sách gán cho Delta Airlines (BBB−) xác suất 13,58%; theo tính toán của người tổng hợp, đây là trung bình cộng xác suất 10 năm của BBB (7,54%) và BB (19,63%). Bảng cũng không tăng đều theo hạng: A (0,20% sau 5 năm) thấp hơn A+ (0,47%), còn A− (3,00%) cao vọt so với A. Các số này được chép đúng như bản thảo. Ngoài ra, theo hiểu biết của người tổng hợp (không tra cứu), đầu năm 2009 Delta thường được xếp hạng thấp hơn mức đầu tư (khoảng B), nên hạng "BBB−" trong sách có thể không chính xác.
+- **Bảng 8.7 (casino kiệt quệ):** với Las Vegas Sands, theo tính toán của người tổng hợp, EV = 2.729 + 10.470 − 1.276 = 11.923 triệu USD và EV/EBITDA = 14,67, không phải 11.628,9 và 14,31 như bảng ghi; trung bình cả 7 công ty khi đó là 7,75 thay vì 7,70 (trung bình không tính LVS vẫn là 6,60). Sách nói dùng giá trị thị trường của nợ 7,57 tỷ USD thì bội số của LVS giảm còn "khoảng 10 lần"; theo tính toán của người tổng hợp, (2.729 + 7.565 − 1.276) / 812,5 ≈ 11,1 lần.
+- **Minh hoạ 8.4:** chú thích 47 nói khấu hao năm nay 509 triệu USD được nâng lên theo tỷ lệ tăng vốn sổ sách "khoảng 25%"; 509 × 1,25 = 636, không phải 572 triệu USD như sách dùng (572 chỉ cao hơn 509 khoảng 12%). Giá trị bán tháo 2.769 triệu USD xuất hiện lần đầu ở đây, không được ước tính ở đâu trước đó (Minh hoạ 8.2 chỉ nói giá trị bán tháo thấp hơn nợ). Nợ được ghi "$ 7.565 million" là lỗi đánh máy của 7.565 triệu USD; vốn chủ sở hữu tính ra 1.752 (sách ghi 1.751) triệu USD.
+- **Minh hoạ 8.1 (Sears):** các phép tính khớp với sai số làm tròn (giá trị cuối kỳ 14.187 triệu USD khớp khi dùng tỷ lệ tái đầu tư chưa làm tròn 26,667%; nếu dùng 0,267 như công thức ghi thì ra 14.181). Câu "cost of capital after year drops to 7.13%" thiếu chữ "5" (sau năm 5). Số tiền mặt 1.622 triệu USD trùng đúng với dòng tiền tự do năm 5 trong Bảng 8.3; người tổng hợp không kiểm chứng được đây là trùng hợp hay lỗi chép.
+- **Nội dung hứa mà không làm.** Phần mở đầu mục "III. Distress" hứa sẽ bàn tần suất kiệt quệ, chi phí của kiệt quệ và vì sao giới định giá xưa nay bỏ qua kiệt quệ, nhưng chỉ có một phần. Phần kết luận nói có ba cách xử lý kiệt quệ, trong đó có mô phỏng (simulation) và điều chỉnh dòng tiền và suất chiết khấu theo xác suất kiệt quệ, nhưng chương chỉ minh hoạ cách thứ ba (định giá hoạt động liên tục rồi điều chỉnh riêng). Mục "Equity as an Option" chỉ nêu ý, không có ví dụ số. Tình huống "suy thoái đảo ngược được, ít kiệt quệ" (mục II) không có minh hoạ số.
+- **Số liệu thị trường 2008–2009 nay đã khác.** Ví dụ dùng lãi suất phi rủi ro khoảng 3% làm trần tăng trưởng ổn định; theo hiểu biết của người tổng hợp (không tra cứu), lãi suất Mỹ sau đó ở gần 0 kéo dài suốt thập niên 2010 rồi tăng mạnh trở lại từ 2022, nên trần tăng trưởng và chi phí vốn của một định giá làm hôm nay sẽ khác. Chi phí vốn chủ sở hữu 21,82% của LVS phản ánh giai đoạn khủng hoảng tài chính 2008–2009.
+- **Số phận các công ty ví dụ (theo hiểu biết của người tổng hợp, không tra cứu).** Sears Holdings tiếp tục co lại suốt thập niên 2010 và nộp đơn phá sản theo Chương 11 vào tháng 10/2018, tức là kịch bản "co lại có trật tự rồi ổn định" trong ví dụ đã không thành hiện thực. Las Vegas Sands vượt qua khủng hoảng (cổ phiếu xuống dưới 2 USD đầu 2009 rồi tăng gấp nhiều lần sau khi khu Marina Bay Sands ở Singapore mở cửa năm 2010 và Macau bùng nổ), nghĩa là cổ đông mua ở giá 4,25 USD được trả công rất hậu. GM và Chrysler đều nộp đơn phá sản năm 2009, khớp với nhận định của sách rằng hai hãng này ở tình trạng tệ hơn Ford. MGM Mirage đổi tên thành MGM Resorts International năm 2010.

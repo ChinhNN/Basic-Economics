@@ -1,19 +1,19 @@
 # Chương 2 — Công cụ của nghề định giá (The Tools of the trade)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 1 "Laying the groundwork", Chương 2 "The Tools of the trade", trang 18–40 (trang 17 là trang tên Phần 1).
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** [Chương 1](C01-gioi-thieu-ve-gia-tri.md) đã đặt nền triết lý: nhà đầu tư không được trả cho một tài sản nhiều hơn giá trị của nó, giá trị phải gắn với dòng tiền mà tài sản tạo ra, và có hai cách ước tính giá trị là định giá nội tại (intrinsic valuation) và định giá tương đối (relative valuation); chương đó cũng khuyên dùng mô hình đơn giản nhất có thể. Chương 2 mở đầu Phần 1 "Đặt nền móng" (Laying the groundwork) và trang bị bốn công cụ mà mọi phép định giá về sau đều dùng: giá trị thời gian của tiền, đo lường rủi ro và lợi nhuận kỳ vọng, đọc số liệu kế toán, và thống kê cơ bản. Các công cụ này được dùng ngay ở [Chương 3](C03-gia-tri-noi-tai.md): công thức giá trị hiện tại và dòng tiền tăng trưởng vĩnh viễn trở thành khung của định giá chiết khấu dòng tiền (DCF) và giá trị cuối kỳ; mô hình rủi ro (CAPM, hệ số beta) cho ra chi phí vốn chủ sở hữu và chi phí vốn; bảng cân đối tài chính (assets in place và growth assets) được Chương 3 dùng lại để phân biệt định giá doanh nghiệp với định giá vốn chủ sở hữu; tỷ suất lợi nhuận trên vốn (ROC) trở thành đầu vào của tăng trưởng. Phần thống kê (phân phối, tương quan, hồi quy) chuẩn bị cho [Chương 4](C04-dinh-gia-tuong-doi.md), nơi Damodaran dùng hồi quy để so sánh bội số giữa các công ty.
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **định giá không cần toán phức tạp mà cần nắm chắc bốn công cụ có nền tảng thường thức: một đồng hôm nay có giá trị hơn một đồng trong tương lai; dòng tiền càng rủi ro thì càng ít giá trị, nhưng chỉ rủi ro không đa dạng hoá được mới đáng kể; báo cáo tài chính là điểm xuất phát của mọi dự báo nhưng nhìn về quá khứ; và thống kê giúp nén khối dữ liệu quá lớn thành vài con số có ý nghĩa**. Ví dụ trung tâm của chương là phép định giá cổ phiếu Southwestern Bell năm 1992 bằng mô hình tăng trưởng vĩnh viễn: cổ tức mỗi cổ phiếu 2,73 USD, tăng 6% một năm mãi mãi, lợi nhuận yêu cầu 12,23%, nên giá trị = 2,73 × 1,06 / (0,1223 − 0,06) = 46,45 USD, trong khi cổ phiếu thực tế giao dịch ở 70 USD; muốn biện minh cho giá 70 USD, nhà đầu tư phải ngầm giả định tốc độ tăng trưởng khoảng 8% (tốc độ tăng trưởng ngầm định, implied growth rate). Các ví dụ khác đều có số: 1.000 USD nhận sau 10 năm với suất chiết khấu 8% chỉ đáng 463,19 USD hôm nay; trả góp 3.000 USD/năm trong 5 năm với suất chiết khấu 12% có giá trị hiện tại 10.814 USD, đắt hơn trả ngay 10.000 USD; mỏ vàng khai thác 5.000 ounce/năm trong 20 năm, giá vàng 300 USD/ounce tăng 3%/năm, suất chiết khấu 10%, có giá trị hiện tại 16,146 triệu USD; trái phiếu vĩnh cửu lãi 60 USD/năm với lãi suất 9% đáng 667 USD. Cuối cùng, Damodaran thừa nhận các mô hình rủi ro đều có khuyết điểm nhưng đòi hỏi mọi lợi nhuận yêu cầu phải phản ánh ba điều: rủi ro có ý nghĩa, không phải khoản đầu tư nào cũng rủi ro như nhau, và giá của rủi ro thay đổi theo thời gian.
+## Ý chính
 
-> **Lưu ý:**
-> - **Kiểm tra phép tính:** người tổng hợp đã tính lại cả năm ví dụ trong chương và tất cả đều đúng: 1.000/1,08^10 = 463,19 USD; trả góp 3.000 USD × [1 − 1/1,12^5]/0,12 = 10.814,33 USD; mỏ vàng 300 × 5.000 × 1,03 × [1 − (1,03/1,10)^20]/(0,10 − 0,03) = 16.145.980 USD; trái phiếu vĩnh cửu 60/0,09 = 666,67 USD (sách làm tròn 667 USD); Southwestern Bell 2,73 × 1,06/(0,1223 − 0,06) = 46,45 USD. Tốc độ tăng trưởng ngầm định để ra giá 70 USD, giải phương trình 70 = 2,73 × (1 + g)/(0,1223 − g), là g ≈ 8,02%, khớp với "khoảng 8%" của sách.
-> - **Lỗi đảo biến trong phần hồi quy (trang 39), ảnh hưởng tới nghĩa:** bản thảo viết "với mỗi đơn vị tăng thêm của biến phụ thuộc (X), biến độc lập sẽ thay đổi b" — hai tên biến bị đảo; đúng phải là: X là biến độc lập, mỗi đơn vị tăng thêm của X làm Y (biến phụ thuộc) thay đổi b. Ngay sau đó bản thảo viết "với bất kỳ Y nào, ta có thể ước tính X phải bằng bao nhiêu: X = a + b(Y)" — cũng bị đảo; đúng phải là: với giá trị cho trước của X, giá trị dự báo của Y là Y = a + bX. Bản tổng hợp trình bày theo cách đúng.
-> - **Thiếu công thức R² hiệu chỉnh (trang 39):** bản thảo viết "R² hiệu chỉnh được tính như sau:" rồi bỏ trống, không có công thức. Công thức chuẩn trong thống kê (người tổng hợp bổ sung, theo hiểu biết của người tổng hợp, không tra cứu): R² hiệu chỉnh = 1 − (1 − R²) × (n − 1)/(n − k − 1), với n là số quan sát và k là số biến độc lập.
-> - **Dấu vết của tài liệu gốc khác:** phần "Statistics" (trang 35) tự gọi mình là "phụ lục này" (this appendix), và câu "phương trình hồi quy mô tả ở mục trước" — cho thấy phần này được chép từ một phụ lục trong sách khác của Damodaran. Phần Kết luận (trang 40) nhắc tới "các yêu cầu của FASB về thuê tài sản (leases)" và "định giá công ty ở các thị trường khác nhau", hai chủ đề mà chương không hề bàn (thuê tài sản chỉ được nêu tên một lần trong danh sách nợ dài hạn khác). Chú thích chân trang của chương đánh số 4, 5, 6 (tiếp nối số của Chương 1).
-> - **Các lỗi đánh máy nhỏ không đổi nghĩa:** "casfflow" trong Hình 2.1; "we will value reduce the value" (trang 19); "is come combination" (trang 23); "Charles Mackey" (đúng là Charles Mackay, sách *Extraordinary Popular Delusions and the Madness of Crowds*, 1841 — năm xuất bản theo hiểu biết của người tổng hợp); "Markowtiz"; "supremely diversified composed of all traded assets" (thiếu chữ "portfolios"); "console bond" (thuật ngữ thường viết là "consol bond"); "Figure .2.5"; "Liabilties"; "Toi make", "substnatilaly" ở chú thích 5; "uncertainty cash flows" (đúng là "uncertain"). Trong Hình 2.3, các tài sản được gọi là "Assets" và toàn bộ vế phải gọi là "Liabilities" dù vế phải gồm cả vốn chủ sở hữu.
-> - **Diễn đạt chưa chính xác về hợp nhất (trang 30):** bản thảo nói phải hợp nhất khi phần nắm giữ "chiếm hơn 50% giá trị của công ty con"; theo hiểu biết của người tổng hợp, tiêu chí kế toán là nắm hơn 50% quyền biểu quyết hoặc có quyền kiểm soát, không phải 50% "giá trị".
-> - **Ví dụ cũ:** ví dụ Southwestern Bell dùng số liệu năm 1992 (lợi nhuận yêu cầu 12,23%), và giá vàng 300 USD/ounce là mức của đầu thập niên 1990. Theo hiểu biết của người tổng hợp, không tra cứu: Southwestern Bell đổi tên thành SBC Communications năm 1995, mua lại AT&T Corp. năm 2005 và lấy tên AT&T Inc.; giá vàng đã lên trên 1.000 USD/ounce từ năm 2008 và cao hơn nhiều sau đó. Các con số này chỉ minh hoạ công thức nên không làm sai lập luận.
-> - **Chuẩn mực kế toán đã thay đổi sau 2010 (theo hiểu biết của người tổng hợp, không tra cứu):** FASB bỏ khái niệm "khoản mục bất thường" (extraordinary items) khỏi báo cáo kết quả kinh doanh từ năm 2015 (IFRS đã cấm trình bày khoản mục này từ trước), nên dòng "Lợi nhuận ròng trước khoản mục bất thường" trong Hình 2.4 không còn trên báo cáo Mỹ hiện nay; chuẩn mực thuê tài sản mới (IFRS 16 và ASC 842, hiệu lực từ 2019) đưa phần lớn hợp đồng thuê hoạt động lên bảng cân đối thành nợ.
+Damodaran muốn người đọc hiểu rằng **định giá không cần toán phức tạp mà cần nắm chắc bốn công cụ có nền tảng thường thức: một đồng hôm nay có giá trị hơn một đồng trong tương lai; dòng tiền càng rủi ro thì càng ít giá trị, nhưng chỉ rủi ro không đa dạng hoá được mới đáng kể; báo cáo tài chính là điểm xuất phát của mọi dự báo nhưng nhìn về quá khứ; và thống kê giúp nén khối dữ liệu quá lớn thành vài con số có ý nghĩa**.
+
+Ví dụ trung tâm của chương là phép định giá cổ phiếu Southwestern Bell năm 1992 bằng mô hình tăng trưởng vĩnh viễn: cổ tức mỗi cổ phiếu 2,73 USD, tăng 6% một năm mãi mãi, lợi nhuận yêu cầu 12,23%, nên giá trị = 2,73 × 1,06 / (0,1223 − 0,06) = 46,45 USD, trong khi cổ phiếu thực tế giao dịch ở 70 USD. Muốn biện minh cho giá 70 USD, nhà đầu tư phải ngầm giả định tốc độ tăng trưởng khoảng 8% (tốc độ tăng trưởng ngầm định, implied growth rate).
+
+Các ví dụ khác đều có số:
+
+- 1.000 USD nhận sau 10 năm với suất chiết khấu 8% chỉ đáng 463,19 USD hôm nay.
+- Trả góp 3.000 USD/năm trong 5 năm với suất chiết khấu 12% có giá trị hiện tại 10.814 USD, đắt hơn trả ngay 10.000 USD.
+- Mỏ vàng khai thác 5.000 ounce/năm trong 20 năm, giá vàng 300 USD/ounce tăng 3%/năm, suất chiết khấu 10%, có giá trị hiện tại 16,146 triệu USD.
+- Trái phiếu vĩnh cửu lãi 60 USD/năm với lãi suất 9% đáng 667 USD.
+
+Cuối cùng, Damodaran thừa nhận các mô hình rủi ro đều có khuyết điểm nhưng đòi hỏi mọi lợi nhuận yêu cầu phải phản ánh ba điều: rủi ro có ý nghĩa, không phải khoản đầu tư nào cũng rủi ro như nhau, và giá của rủi ro thay đổi theo thời gian.
 
 ## Sơ đồ
 
@@ -408,7 +408,11 @@ Gần như mọi khoản đầu tư cần định giá đều là một tổ h�
 
 ### 4. Đo lường rủi ro (Risk Measurement, trang 23–27)
 
-Khi cổ phiếu bắt đầu được giao dịch ở thế kỷ 16 và 17, nhà đầu tư có rất ít thông tin và ít cách xử lý chút thông tin ít ỏi đó. Chỉ người rất giàu mới đầu tư cổ phiếu, và ngay cả họ cũng bị dắt mũi. Các vụ lừa đảo và bê bối thời đó được Charles Mackay mô tả trong cuốn sách về bong bóng *Extraordinary Popular Delusions and the Madness of Crowds* (Những ảo tưởng phổ biến phi thường và sự điên rồ của đám đông). Khi các nhà đầu tư mới tham gia thị trường tài chính đầu thế kỷ 20, nhu cầu về thước đo rủi ro tăng mạnh. Đáp lại, các dịch vụ bắt đầu thu thập dữ liệu giá và lợi nhuận của từng chứng khoán và tính các thống kê cơ bản như lợi nhuận kỳ vọng và độ lệch chuẩn của lợi nhuận. Đến năm 1915, các dịch vụ như Standard Statistics Bureau (tiền thân của Standard and Poor's), Fitch và Moody's đã xử lý thông tin kế toán để xếp hạng trái phiếu, làm thước đo rủi ro tín dụng của công ty. Đồng thời, có những dịch vụ khác đánh giá rủi ro cổ phiếu bằng cách kết hợp số liệu kế toán, số liệu thị trường (độ biến động giá) và thông tin định tính về công ty (sản phẩm, ban lãnh đạo...).
+Khi cổ phiếu bắt đầu được giao dịch ở thế kỷ 16 và 17, nhà đầu tư có rất ít thông tin và ít cách xử lý chút thông tin ít ỏi đó. Chỉ người rất giàu mới đầu tư cổ phiếu, và ngay cả họ cũng bị dắt mũi. Các vụ lừa đảo và bê bối thời đó được Charles Mackay mô tả trong cuốn sách về bong bóng *Extraordinary Popular Delusions and the Madness of Crowds* (Những ảo tưởng phổ biến phi thường và sự điên rồ của đám đông).
+
+Khi các nhà đầu tư mới tham gia thị trường tài chính đầu thế kỷ 20, nhu cầu về thước đo rủi ro tăng mạnh. Đáp lại, các dịch vụ bắt đầu thu thập dữ liệu giá và lợi nhuận của từng chứng khoán và tính các thống kê cơ bản như lợi nhuận kỳ vọng và độ lệch chuẩn của lợi nhuận.
+
+Đến năm 1915, các dịch vụ như Standard Statistics Bureau (tiền thân của Standard and Poor's), Fitch và Moody's đã xử lý thông tin kế toán để xếp hạng trái phiếu, làm thước đo rủi ro tín dụng của công ty. Đồng thời, có những dịch vụ khác đánh giá rủi ro cổ phiếu bằng cách kết hợp số liệu kế toán, số liệu thị trường (độ biến động giá) và thông tin định tính về công ty (sản phẩm, ban lãnh đạo...).
 
 #### 4.1. Cuộc cách mạng Markowitz: đa dạng hoá và rủi ro (The Markowitz Revolution: Diversification and Risk, trang 24–25)
 
@@ -443,7 +447,9 @@ Markowitz lập luận rằng nhà đầu tư phải đa dạng hoá vì họ qu
 
 Nếu chấp nhận mệnh đề của Markowitz rằng rủi ro duy nhất đáng quan tâm là rủi ro không đa dạng hoá được, câu hỏi tiếp theo là đo nó thế nào. Ở đây các mô hình rẽ theo các hướng khác nhau.
 
-**Mô hình định giá tài sản vốn (capital asset pricing model, CAPM)** là mô hình được dùng nhiều nhất và bị phê phán nhiều nhất trong thực tế. Mô hình giả định nhà đầu tư không chịu chi phí giao dịch và không có cách nào phân biệt khoản đầu tư tốt với khoản đầu tư xấu. Vì vậy, họ đều nắm giữ danh mục đa dạng hoá tối đa gồm mọi tài sản được giao dịch (gọi là danh mục thị trường, market portfolio). Rủi ro của một tài sản khi đó là phần rủi ro nó thêm vào danh mục thị trường, và đó chính là thứ **hệ số beta** đo. Beta có tính chất hữu ích là được chuẩn hoá quanh 1: cổ phiếu có beta trên 1 có rủi ro trên trung bình, beta dưới 1 có rủi ro dưới trung bình. Lợi nhuận kỳ vọng của khoản đầu tư là:
+**Mô hình định giá tài sản vốn (capital asset pricing model, CAPM)** là mô hình được dùng nhiều nhất và bị phê phán nhiều nhất trong thực tế. Mô hình giả định nhà đầu tư không chịu chi phí giao dịch và không có cách nào phân biệt khoản đầu tư tốt với khoản đầu tư xấu. Vì vậy, họ đều nắm giữ danh mục đa dạng hoá tối đa gồm mọi tài sản được giao dịch (gọi là danh mục thị trường, market portfolio).
+
+Rủi ro của một tài sản khi đó là phần rủi ro nó thêm vào danh mục thị trường, và đó chính là thứ **hệ số beta** đo. Beta có tính chất hữu ích là được chuẩn hoá quanh 1: cổ phiếu có beta trên 1 có rủi ro trên trung bình, beta dưới 1 có rủi ro dưới trung bình. Lợi nhuận kỳ vọng của khoản đầu tư là:
 
 Lợi nhuận kỳ vọng = Lãi suất phi rủi ro + Beta × (Phần bù rủi ro của một khoản đầu tư có rủi ro trung bình).
 
@@ -525,8 +531,12 @@ Cách nhìn của kế toán về giá trị tài sản dựa phần lớn vào 
 
 - **Tài sản cố định** (fixed assets) gồm tài sản dài hạn như nhà máy, thiết bị, đất đai, nhà cửa. Nguyên tắc kế toán được chấp nhận chung (GAAP) ở Mỹ yêu cầu ghi tài sản cố định theo giá gốc, điều chỉnh cho phần tăng giá trị do cải tạo và phần giảm giá trị do hao mòn. Về lý thuyết, điều chỉnh hao mòn phải phản ánh sự suy giảm khả năng tạo lợi nhuận của tài sản khi nó cũ đi; trong thực tế, điều chỉnh này chủ yếu là sản phẩm của quy tắc và quy ước kế toán, và được gọi là **khấu hao** (depreciation).
 - **Tài sản ngắn hạn** gồm hàng tồn kho (nguyên vật liệu, sản phẩm dở dang, thành phẩm), khoản phải thu (tiền người khác nợ công ty) và tiền mặt; nhóm này gọi là tài sản lưu động (current assets). Đây là nhóm mà kế toán dễ chấp nhận dùng giá thị trường nhất.
-- **Đầu tư và chứng khoán khả mại** gồm các khoản công ty đầu tư vào chứng khoán hoặc tài sản của công ty khác và các chứng khoán khả mại khác. Cách ghi giá trị tuỳ thuộc vào phân loại và mục đích đầu tư. Nếu là khoản đầu tư kinh doanh (như các khoản đầu tư tài chính), giá trị được ghi theo giá thị trường (marked to market). Nếu là khoản đầu tư chiến lược dài hạn, thường ghi theo giá đã trả ban đầu, có điều chỉnh. Trường hợp đặc biệt là khi phần nắm giữ vượt 50% công ty con (bản thảo ghi "hơn 50% giá trị"): công ty mẹ phải hợp nhất, tức ghi toàn bộ tài sản và nợ của công ty con lên bảng cân đối của mình, kèm một khoản "lợi ích cổ đông thiểu số" (minority interest) thể hiện phần công ty con không thuộc về công ty mẹ.
-- **Tài sản vô hình** (intangible assets), một nhóm được phân loại khá lỏng lẻo. Ta thường nghĩ tới thương hiệu, lòng trung thành của khách hàng và đội ngũ nhân viên được đào tạo tốt, nhưng tài sản vô hình hay gặp nhất trong kế toán là **lợi thế thương mại** (goodwill). Khi một công ty mua công ty khác, giá mua trước hết được phân bổ cho các tài sản hiện có của công ty bị mua; phần trả thêm vượt quá trở thành lợi thế thương mại và được ghi là tài sản. Lợi thế thương mại phải bị xoá sổ nếu kế toán coi nó đã suy giảm giá trị (impaired), tức xác định rằng giá trị công ty bị mua đã giảm kể từ thương vụ. Chú thích của tác giả: để đưa ra phán đoán này, kế toán phải định giá công ty bị mua định kỳ và so với giá đã trả; nếu giá trị thấp hơn đáng kể so với giá đã trả, công ty phải xoá sổ một phần lợi thế thương mại tương ứng.
+- **Đầu tư và chứng khoán khả mại** gồm các khoản công ty đầu tư vào chứng khoán hoặc tài sản của công ty khác và các chứng khoán khả mại khác. Cách ghi giá trị tuỳ thuộc vào phân loại và mục đích đầu tư. Nếu là khoản đầu tư kinh doanh (như các khoản đầu tư tài chính), giá trị được ghi theo giá thị trường (marked to market). Nếu là khoản đầu tư chiến lược dài hạn, thường ghi theo giá đã trả ban đầu, có điều chỉnh.
+
+  Trường hợp đặc biệt là khi phần nắm giữ vượt 50% công ty con (bản thảo ghi "hơn 50% giá trị"): công ty mẹ phải hợp nhất, tức ghi toàn bộ tài sản và nợ của công ty con lên bảng cân đối của mình, kèm một khoản "lợi ích cổ đông thiểu số" (minority interest) thể hiện phần công ty con không thuộc về công ty mẹ.
+- **Tài sản vô hình** (intangible assets), một nhóm được phân loại khá lỏng lẻo. Ta thường nghĩ tới thương hiệu, lòng trung thành của khách hàng và đội ngũ nhân viên được đào tạo tốt, nhưng tài sản vô hình hay gặp nhất trong kế toán là **lợi thế thương mại** (goodwill).
+
+  Khi một công ty mua công ty khác, giá mua trước hết được phân bổ cho các tài sản hiện có của công ty bị mua; phần trả thêm vượt quá trở thành lợi thế thương mại và được ghi là tài sản. Lợi thế thương mại phải bị xoá sổ nếu kế toán coi nó đã suy giảm giá trị (impaired), tức xác định rằng giá trị công ty bị mua đã giảm kể từ thương vụ. Chú thích của tác giả: để đưa ra phán đoán này, kế toán phải định giá công ty bị mua định kỳ và so với giá đã trả; nếu giá trị thấp hơn đáng kể so với giá đã trả, công ty phải xoá sổ một phần lợi thế thương mại tương ứng.
 
 #### 5.3. Vốn huy động: các thước đo cơ cấu nguồn vốn (Funds Raised: Measures of Financing Mix, trang 30–32)
 
@@ -550,7 +560,9 @@ Bảng cân đối kế toán hữu ích vì cho biết lịch sử đầu tư v
 | Tài sản hiện hữu (Assets in Place) | Các khoản đầu tư đã thực hiện, đang tạo ra dòng tiền hôm nay; gồm cả tài sản dài hạn (cố định) và tài sản ngắn hạn (vốn lưu động) | Nợ (Debt) | Quyền cố định đối với dòng tiền; ít hoặc không có vai trò trong quản lý; có kỳ hạn cố định; lãi vay được trừ khi tính thuế |
 | Tài sản tăng trưởng (Growth Assets) | Giá trị kỳ vọng sẽ được tạo ra bởi các khoản đầu tư trong tương lai | Vốn chủ sở hữu (Equity) | Quyền còn lại (phần dư) đối với dòng tiền; vai trò đáng kể trong quản lý; tồn tại vô thời hạn |
 
-Bảng cân đối tài chính bề ngoài giống bảng cân đối kế toán nhưng khác ở hai điểm quan trọng. Thứ nhất là cách phân loại tài sản: thay vì phân theo thời hạn sử dụng hay tính hữu hình, nó chia tài sản thành khoản đầu tư công ty đã thực hiện (tài sản hiện hữu) và khoản đầu tư công ty được kỳ vọng sẽ thực hiện (tài sản tăng trưởng). Thứ hai, giá trị ghi trên đó không phản ánh số tiền đã đầu tư vào tài sản mà phản ánh giá trị hiện tại của chúng, dựa trên kỳ vọng về tương lai. Thực ra, toàn bộ giá trị của tài sản tăng trưởng dựa vào nhận thức và kỳ vọng. Vì tài sản được ghi theo giá trị hiện tại, giá trị nợ và vốn chủ sở hữu cũng vậy. Do đó, giá trị vốn chủ sở hữu trên bảng cân đối tài chính là ước tính giá trị vốn chủ sở hữu hôm nay và có thể so trực tiếp với giá trị thị trường.
+Bảng cân đối tài chính bề ngoài giống bảng cân đối kế toán nhưng khác ở hai điểm quan trọng. Thứ nhất là cách phân loại tài sản: thay vì phân theo thời hạn sử dụng hay tính hữu hình, nó chia tài sản thành khoản đầu tư công ty đã thực hiện (tài sản hiện hữu) và khoản đầu tư công ty được kỳ vọng sẽ thực hiện (tài sản tăng trưởng).
+
+Thứ hai, giá trị ghi trên đó không phản ánh số tiền đã đầu tư vào tài sản mà phản ánh giá trị hiện tại của chúng, dựa trên kỳ vọng về tương lai. Thực ra, toàn bộ giá trị của tài sản tăng trưởng dựa vào nhận thức và kỳ vọng. Vì tài sản được ghi theo giá trị hiện tại, giá trị nợ và vốn chủ sở hữu cũng vậy. Do đó, giá trị vốn chủ sở hữu trên bảng cân đối tài chính là ước tính giá trị vốn chủ sở hữu hôm nay và có thể so trực tiếp với giá trị thị trường.
 
 Damodaran lưu ý rằng chuẩn mực kế toán Mỹ và quốc tế đang tiến về kế toán "giá trị hợp lý" (fair value): nói đơn giản, mọi tài sản sẽ được đánh giá lại mỗi năm và ghi theo giá trị đó thay vì theo giá gốc. Điều này sẽ đẩy bảng cân đối kế toán lại gần bảng cân đối tài chính, nhưng hai bảng sẽ không trùng nhau, vì khó có khả năng tài sản tăng trưởng được ghi nhận đúng chỗ trên bảng cân đối kế toán, kể cả theo giá trị hợp lý.
 
@@ -626,7 +638,9 @@ Trong hồi quy, ta tìm một đường thẳng khớp nhất với các điể
 
 Y = a + bX.
 
-Độ dốc b đo cả chiều lẫn độ lớn của quan hệ giữa biến phụ thuộc Y và biến độc lập X. Khi hai biến tương quan dương, độ dốc dương; khi tương quan âm, độ dốc âm. Độ lớn của độ dốc được đọc như sau: mỗi khi biến độc lập X tăng một đơn vị, biến phụ thuộc Y thay đổi b đơn vị (bản thảo viết đảo tên hai biến ở câu này). Hồi quy, giống hệ số tương quan và hiệp phương sai, cho thấy độ mạnh của quan hệ giữa hai biến, nhưng còn có một công dụng khác: phương trình hồi quy dùng để ước tính giá trị dự báo của biến phụ thuộc dựa trên giá trị giả định hoặc thực tế của biến độc lập. Tức là với một giá trị X cho trước, ta ước tính Y phải bằng bao nhiêu theo Y = a + bX (bản thảo viết đảo thành "với Y cho trước, ước tính X: X = a + b(Y)").
+Độ dốc b đo cả chiều lẫn độ lớn của quan hệ giữa biến phụ thuộc Y và biến độc lập X. Khi hai biến tương quan dương, độ dốc dương; khi tương quan âm, độ dốc âm. Độ lớn của độ dốc được đọc như sau: mỗi khi biến độc lập X tăng một đơn vị, biến phụ thuộc Y thay đổi b đơn vị (bản thảo viết đảo tên hai biến ở câu này).
+
+Hồi quy, giống hệ số tương quan và hiệp phương sai, cho thấy độ mạnh của quan hệ giữa hai biến, nhưng còn có một công dụng khác: phương trình hồi quy dùng để ước tính giá trị dự báo của biến phụ thuộc dựa trên giá trị giả định hoặc thực tế của biến độc lập. Tức là với một giá trị X cho trước, ta ước tính Y phải bằng bao nhiêu theo Y = a + bX (bản thảo viết đảo thành "với Y cho trước, ước tính X: X = a + b(Y)").
 
 Dự báo tốt đến đâu hoàn toàn phụ thuộc vào độ mạnh của quan hệ mà hồi quy đo được. Khi biến độc lập giải thích được tỷ lệ lớn biến động của biến phụ thuộc (R² cao), dự báo sẽ chính xác. Khi R² thấp, dự báo sẽ dao động trong khoảng rộng hơn nhiều.
 
@@ -636,7 +650,9 @@ Mọi hồi quy bội đều có những giả định thống kê ngầm mà b�
 
 ### 7. Kết luận (Conclusion, trang 40)
 
-Các công cụ trong chương là trợ thủ không thể thiếu của quá trình định giá. Khái niệm giá trị thời gian cho phép dịch chuyển dòng tiền của một khoản đầu tư qua các thời điểm để ra giá trị. Các thước đo trong các mô hình "rủi ro và lợi nhuận" dùng để tính chi phí vốn chủ sở hữu và chi phí vốn, và từ đó định giá công ty ở các thị trường khác nhau. Phần lớn số liệu lợi nhuận và dòng tiền lấy từ báo cáo tài chính, nên cần theo dõi các yêu cầu của FASB (Hội đồng Chuẩn mực Kế toán Tài chính Mỹ), chẳng hạn về thuê tài sản. Cuối cùng, với lượng và chất thông tin phải xử lý, các công cụ thống kê giúp nén dữ liệu và cho thấy quan hệ giữa các biến, nhờ đó người dùng trở thành nhà đầu tư tốt hơn.
+Các công cụ trong chương là trợ thủ không thể thiếu của quá trình định giá. Khái niệm giá trị thời gian cho phép dịch chuyển dòng tiền của một khoản đầu tư qua các thời điểm để ra giá trị. Các thước đo trong các mô hình "rủi ro và lợi nhuận" dùng để tính chi phí vốn chủ sở hữu và chi phí vốn, và từ đó định giá công ty ở các thị trường khác nhau.
+
+Phần lớn số liệu lợi nhuận và dòng tiền lấy từ báo cáo tài chính, nên cần theo dõi các yêu cầu của FASB (Hội đồng Chuẩn mực Kế toán Tài chính Mỹ), chẳng hạn về thuê tài sản. Cuối cùng, với lượng và chất thông tin phải xử lý, các công cụ thống kê giúp nén dữ liệu và cho thấy quan hệ giữa các biến, nhờ đó người dùng trở thành nhà đầu tư tốt hơn.
 
 ## Luận điểm cốt lõi
 
@@ -771,7 +787,9 @@ Damodaran nêu nhanh rằng tốc độ tăng trưởng vĩnh viễn không ch�
 
 ### Phần rủi ro trung thực về khuyết điểm của CAPM nhưng vẫn giữ một lập trường thực dụng
 
-Thay vì bảo vệ CAPM, Damodaran thừa nhận mọi mô hình rủi ro đều có khuyết điểm và rút về ba mệnh đề mà ai cũng phải chấp nhận. Đây là cách tiếp cận cân bằng: nhà đầu tư có thể không dùng beta, nhưng không được bỏ qua rủi ro. Tuy vậy, chương đơn giản hoá đáng kể: không nói cách ước tính beta (hồi quy lợi nhuận cổ phiếu theo chỉ số thị trường — một ứng dụng trực tiếp của phần thống kê cuối chương), không nói cách ước tính phần bù rủi ro vốn cổ phần, và không nêu tên các nhân tố trong mô hình đa nhân tố. Những nội dung này để lại cho Chương 3. Quan điểm trái chiều đáng biết (theo hiểu biết của người tổng hợp): một số nhà đầu tư giá trị theo trường phái Buffett cho rằng biến động giá không phải là rủi ro, rủi ro thật là mất vốn vĩnh viễn; Damodaran chừa chỗ cho quan điểm này khi nói thước đo rủi ro tương đối "thậm chí có thể chủ quan".
+Thay vì bảo vệ CAPM, Damodaran thừa nhận mọi mô hình rủi ro đều có khuyết điểm và rút về ba mệnh đề mà ai cũng phải chấp nhận. Đây là cách tiếp cận cân bằng: nhà đầu tư có thể không dùng beta, nhưng không được bỏ qua rủi ro.
+
+Tuy vậy, chương đơn giản hoá đáng kể: không nói cách ước tính beta (hồi quy lợi nhuận cổ phiếu theo chỉ số thị trường — một ứng dụng trực tiếp của phần thống kê cuối chương), không nói cách ước tính phần bù rủi ro vốn cổ phần, và không nêu tên các nhân tố trong mô hình đa nhân tố. Những nội dung này để lại cho Chương 3. Quan điểm trái chiều đáng biết (theo hiểu biết của người tổng hợp): một số nhà đầu tư giá trị theo trường phái Buffett cho rằng biến động giá không phải là rủi ro, rủi ro thật là mất vốn vĩnh viễn; Damodaran chừa chỗ cho quan điểm này khi nói thước đo rủi ro tương đối "thậm chí có thể chủ quan".
 
 ### Bảng cân đối tài chính là khái niệm then chốt mà người đọc dễ lướt qua
 
@@ -779,12 +797,195 @@ Chỉ chiếm hơn một trang, bảng cân đối tài chính là khung tư duy
 
 ### Một số chi tiết kế toán đã thay đổi kể từ 2010
 
-Theo hiểu biết của người tổng hợp, không tra cứu: (1) khoản mục bất thường (extraordinary items) — một dòng riêng trong Hình 2.4 — đã bị FASB loại bỏ từ năm 2015, IFRS cấm từ trước, nên báo cáo kết quả kinh doanh hiện nay không còn dòng này; tuy vậy, nhu cầu tách lợi nhuận thường xuyên khỏi khoản bất thường mà Damodaran nhấn mạnh vẫn còn nguyên, nay người phân tích phải tự làm qua thuyết minh. (2) Chuẩn mực thuê tài sản mới (IFRS 16, ASC 842, hiệu lực 2019) đưa hầu hết hợp đồng thuê hoạt động lên bảng cân đối thành nợ — đúng điều Damodaran nhắc ở phần Kết luận khi bảo người đọc theo dõi yêu cầu của FASB về thuê tài sản, và đúng hướng ông đã chủ trương từ lâu (coi thuê hoạt động là nợ). (3) Lợi thế thương mại vẫn chỉ bị ghi giảm khi suy giảm giá trị chứ không phân bổ dần ở cả Mỹ và IFRS cho công ty niêm yết, khớp với mô tả trong chương.
+Theo hiểu biết của người tổng hợp, không tra cứu: (1) khoản mục bất thường (extraordinary items) — một dòng riêng trong Hình 2.4 — đã bị FASB loại bỏ từ năm 2015, IFRS cấm từ trước, nên báo cáo kết quả kinh doanh hiện nay không còn dòng này; tuy vậy, nhu cầu tách lợi nhuận thường xuyên khỏi khoản bất thường mà Damodaran nhấn mạnh vẫn còn nguyên, nay người phân tích phải tự làm qua thuyết minh.
+
+(2) Chuẩn mực thuê tài sản mới (IFRS 16, ASC 842, hiệu lực 2019) đưa hầu hết hợp đồng thuê hoạt động lên bảng cân đối thành nợ — đúng điều Damodaran nhắc ở phần Kết luận khi bảo người đọc theo dõi yêu cầu của FASB về thuê tài sản, và đúng hướng ông đã chủ trương từ lâu (coi thuê hoạt động là nợ).
+
+(3) Lợi thế thương mại vẫn chỉ bị ghi giảm khi suy giảm giá trị chứ không phân bổ dần ở cả Mỹ và IFRS cho công ty niêm yết, khớp với mô tả trong chương.
 
 ### Phần thống kê là phần yếu nhất: chép từ phụ lục, có lỗi đảo biến và thiếu công thức
 
-Phần "Statistics" tự gọi là "phụ lục này", có hai câu đảo ngược vai trò biến phụ thuộc và biến độc lập, và để trống công thức R² hiệu chỉnh. Hình 2.7–2.9 chỉ là hình minh hoạ không có số. Người đọc nên đọc phần này như danh sách khái niệm cần ôn, không phải bài giảng. Điều đáng tiếc là chương không nối phần thống kê với định giá: hai ứng dụng rõ nhất — ước tính beta bằng hồi quy, và hồi quy bội số (ví dụ P/E theo tăng trưởng và rủi ro) để so sánh công ty — chỉ xuất hiện ở các chương sau. Riêng hình phân phối lệch có hàm ý quan trọng mà chương không nói ra: lợi nhuận cổ phiếu riêng lẻ, nhất là công ty trẻ, thường lệch dương (ít khả năng thắng lớn, nhiều khả năng thua nhỏ hoặc mất trắng), nên trung bình có thể cao hơn nhiều so với kết quả điển hình (trung vị).
+Phần "Statistics" tự gọi là "phụ lục này", có hai câu đảo ngược vai trò biến phụ thuộc và biến độc lập, và để trống công thức R² hiệu chỉnh. Hình 2.7–2.9 chỉ là hình minh hoạ không có số. Người đọc nên đọc phần này như danh sách khái niệm cần ôn, không phải bài giảng.
+
+Điều đáng tiếc là chương không nối phần thống kê với định giá: hai ứng dụng rõ nhất — ước tính beta bằng hồi quy, và hồi quy bội số (ví dụ P/E theo tăng trưởng và rủi ro) để so sánh công ty — chỉ xuất hiện ở các chương sau. Riêng hình phân phối lệch có hàm ý quan trọng mà chương không nói ra: lợi nhuận cổ phiếu riêng lẻ, nhất là công ty trẻ, thường lệch dương (ít khả năng thắng lớn, nhiều khả năng thua nhỏ hoặc mất trắng), nên trung bình có thể cao hơn nhiều so với kết quả điển hình (trung vị).
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích
 
-Với nhà đầu tư cá nhân, bài học thực dụng nhất là ba thói quen: luôn chiết khấu trước khi so sánh hai phương án thanh toán hay hai khoản đầu tư ở các thời điểm khác nhau (ví dụ mua xe); với một cổ phiếu ổn định, dùng công thức cổ tức năm sau / (lợi nhuận yêu cầu − g) để kiểm tra nhanh, rồi tính ngược g mà giá hiện tại đòi hỏi và hỏi xem g đó có hợp lý so với tăng trưởng kinh tế không; và đa dạng hoá để không phải chịu rủi ro riêng của công ty mà thị trường không trả công. Với nhà phân tích, chương nhắc rằng số liệu kế toán là điểm xuất phát nhưng cần điều chỉnh: trừ tiền mặt khỏi vốn đầu tư khi tính ROC, dùng lợi nhuận sau cổ tức ưu đãi khi tính ROE, tách khoản bất thường trước khi dự báo. Với người đọc Việt Nam, các công cụ này áp dụng nguyên vẹn; điểm cần lưu ý ở mức định tính là ở thị trường có lạm phát và lãi suất cao hơn, suất chiết khấu cao hơn làm giá trị hiện tại của dòng tiền xa giảm mạnh hơn, và giới hạn tăng trưởng vĩnh viễn cần gắn với tăng trưởng danh nghĩa của đúng đồng tiền dùng để định giá (VND hay USD).
+Với nhà đầu tư cá nhân, bài học thực dụng nhất là ba thói quen: luôn chiết khấu trước khi so sánh hai phương án thanh toán hay hai khoản đầu tư ở các thời điểm khác nhau (ví dụ mua xe); với một cổ phiếu ổn định, dùng công thức cổ tức năm sau / (lợi nhuận yêu cầu − g) để kiểm tra nhanh, rồi tính ngược g mà giá hiện tại đòi hỏi và hỏi xem g đó có hợp lý so với tăng trưởng kinh tế không; và đa dạng hoá để không phải chịu rủi ro riêng của công ty mà thị trường không trả công.
+
+Với nhà phân tích, chương nhắc rằng số liệu kế toán là điểm xuất phát nhưng cần điều chỉnh: trừ tiền mặt khỏi vốn đầu tư khi tính ROC, dùng lợi nhuận sau cổ tức ưu đãi khi tính ROE, tách khoản bất thường trước khi dự báo.
+
+Với người đọc Việt Nam, các công cụ này áp dụng nguyên vẹn; điểm cần lưu ý ở mức định tính là ở thị trường có lạm phát và lãi suất cao hơn, suất chiết khấu cao hơn làm giá trị hiện tại của dòng tiền xa giảm mạnh hơn, và giới hạn tăng trưởng vĩnh viễn cần gắn với tăng trưởng danh nghĩa của đúng đồng tiền dùng để định giá (VND hay USD).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: năm nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (giá trị thời gian của tiền với năm loại dòng tiền, đo lường rủi ro từ Markowitz tới CAPM, số liệu kế toán về tài sản và nguồn vốn, bảng cân đối tài chính và các thước đo sinh lời, thống kê), mỗi nhánh ghi công thức, ví dụ số và quy tắc then chốt; nhánh cuối là thông điệp xuyên suốt, gồm cả phần Kết luận (mục 7).
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: định giá cần nắm chắc bốn công cụ thường thức, không cần toán phức tạp`"]
+  n1["`Mục 1–3 — Giá trị thời gian của tiền: một đồng hôm nay đáng giá hơn một đồng tương lai`"]
+  n0 --- n1
+  n2["`Ba lý do: thích tiêu dùng ngay, lạm phát làm mất sức mua, dòng tiền hứa có thể không được trả`"]
+  n1 --- n2
+  n3["`Suất chiết khấu gộp lợi nhuận thực kỳ vọng, lạm phát kỳ vọng và phần bù cho sự bất định`"]
+  n1 --- n3
+  n4["`Dòng tiền đơn: GTHT = CF#95;t / (1 + r)^t`"]
+  n1 --- n4
+  n5["`1.000 USD sau 10 năm, r = 8%, chỉ đáng 463,19 USD hôm nay`"]
+  n4 --- n5
+  n6["`r càng cao và dòng tiền càng xa thì giá trị hiện tại càng nhỏ`"]
+  n4 --- n6
+  n7["`Niên kim: GTHT = A × [1 − 1/(1 + r)^n] / r`"]
+  n1 --- n7
+  n8["`Mua xe: trả góp 3.000 USD/năm × 5 năm ở 12% có GTHT 10.814 USD, nên trả ngay 10.000 USD`"]
+  n7 --- n8
+  n9["`Niên kim tăng trưởng: GTHT = A(1+g) × [1 − (1+g)^n/(1+r)^n] / (r − g)`"]
+  n1 --- n9
+  n10["`Mỏ vàng 5.000 ounce/năm × 20 năm, giá 300 USD tăng 3%, r = 10%: 16,146 triệu USD`"]
+  n9 --- n10
+  n11["`Khi g = r, giá trị hiện tại bằng tổng danh nghĩa các dòng tiền`"]
+  n9 --- n11
+  n12["`Vĩnh viễn: GTHT = A / r, trái phiếu vĩnh cửu lãi 60 USD ở lãi suất 9% đáng 667 USD`"]
+  n1 --- n12
+  n13["`Tăng trưởng vĩnh viễn: GTHT = Dòng tiền năm sau / (r − g)`"]
+  n1 --- n13
+  n14["`g phải nhỏ hơn r và không vượt tăng trưởng danh nghĩa của nền kinh tế`"]
+  n13 --- n14
+  n15["`Southwestern Bell 1992: 2,73 × 1,06 / (0,1223 − 0,06) = 46,45 USD`"]
+  n13 --- n15
+  n16["`Giá thị trường 70 USD hàm ý tốc độ tăng trưởng ngầm định khoảng 8% (8,02%)`"]
+  n13 --- n16
+  n17["`Mọi tài sản là tổ hợp năm loại dòng tiền`"]
+  n1 --- n17
+  n18["`Trái phiếu = niên kim (lãi coupon) + dòng tiền đơn (mệnh giá)`"]
+  n17 --- n18
+  n19["`Công ty tăng trưởng cao = niên kim tăng trưởng + dòng tiền tăng trưởng vĩnh viễn`"]
+  n17 --- n19
+  n20["`Mục 4 — Đo lường rủi ro: chỉ rủi ro không đa dạng hoá được mới được đền bù`"]
+  n0 --- n20
+  n21["`Từ năm 1915 Standard Statistics Bureau, Fitch, Moody's đã xếp hạng tín nhiệm trái phiếu`"]
+  n20 --- n21
+  n22["`Markowitz đầu thập niên 1950: phương sai danh mục phụ thuộc cả tương quan giữa các chứng khoán`"]
+  n20 --- n22
+  n23["`Rủi ro riêng (dự án, cạnh tranh) bị bù trừ trong danh mục đa dạng`"]
+  n20 --- n23
+  n24["`Rủi ro thị trường (lãi suất, lạm phát, tỷ giá, chính trị) không đa dạng hoá được`"]
+  n20 --- n24
+  n25["`CAPM: Lợi nhuận kỳ vọng = Lãi suất phi rủi ro + Beta × Phần bù rủi ro trung bình`"]
+  n20 --- n25
+  n26["`Beta đo rủi ro thêm vào danh mục thị trường, chuẩn hoá quanh 1`"]
+  n25 --- n26
+  n27["`Mô hình đa beta (APM, đa nhân tố) dùng nhiều beta cho nhiều loại rủi ro thị trường`"]
+  n20 --- n27
+  n28["`Mô hình đại diện: vốn hoá nhỏ và giá thấp so với giá trị sổ sách từng sinh lời cao hơn`"]
+  n20 --- n28
+  n29["`Mô hình nào cũng có khuyết điểm, nhưng lợi nhuận yêu cầu phải phản ánh ba mệnh đề`"]
+  n20 --- n29
+  n30["`Rủi ro có ý nghĩa: khoản đầu tư rủi ro hơn phải sinh lời cao hơn`"]
+  n29 --- n30
+  n31["`Cần thước đo rủi ro tương đối: beta, độ biến động lợi nhuận, hoặc chủ quan`"]
+  n29 --- n31
+  n32["`Giá của rủi ro giảm trong thời kỳ tốt và tăng trong thời kỳ xấu`"]
+  n29 --- n32
+  n33["`Mục 5.1–5.3 — Số liệu kế toán: tài sản, nguồn vốn theo giá gốc`"]
+  n0 --- n33
+  n34["`Ba câu hỏi: tài sản đáng bao nhiêu, tài trợ bằng nợ hay vốn chủ, sinh lời bao nhiêu`"]
+  n33 --- n34
+  n35["`Ba báo cáo: bảng cân đối, kết quả kinh doanh, lưu chuyển tiền tệ (kinh doanh + đầu tư + tài chính)`"]
+  n33 --- n35
+  n36["`Giá trị sổ sách là giá gốc, khấu hao là quy ước kế toán chứ không đo mức giảm khả năng sinh lời`"]
+  n33 --- n36
+  n37["`Tài sản lưu động gần giá thị trường nhất, đầu tư kinh doanh ghi theo giá thị trường`"]
+  n33 --- n37
+  n38["`Nắm trên 50% công ty con thì hợp nhất, kèm lợi ích cổ đông thiểu số`"]
+  n33 --- n38
+  n39["`Lợi thế thương mại là phần trả thêm khi mua công ty, bị ghi giảm khi suy giảm giá trị`"]
+  n33 --- n39
+  n40["`Nợ dài hạn khác gồm thuê tài sản, quỹ hưu trí và y tế thiếu, thuế hoãn lại`"]
+  n33 --- n40
+  n41["`Vốn chủ sở hữu sổ sách = tiền phát hành + lợi nhuận giữ lại, có thể âm nếu lỗ kéo dài`"]
+  n33 --- n41
+  n42["`Mục 5.4–5.6 — Bảng cân đối tài chính và khả năng sinh lời`"]
+  n0 --- n42
+  n43["`Bảng cân đối tài chính: tài sản hiện hữu + tài sản tăng trưởng = nợ + vốn chủ sở hữu, theo giá trị hiện tại`"]
+  n42 --- n43
+  n44["`Toàn bộ giá trị của tài sản tăng trưởng nằm ở nhận thức và kỳ vọng`"]
+  n43 --- n44
+  n45["`Kế toán giá trị hợp lý kéo hai bảng lại gần nhưng không bao giờ trùng`"]
+  n43 --- n45
+  n46["`Kế toán dồn tích ghi doanh thu khi bán, chi phí khớp với doanh thu`"]
+  n42 --- n46
+  n47["`Chi phí hoạt động lợi ích một kỳ, chi phí tài chính là lãi vay, chi đầu tư vốn lợi ích nhiều kỳ`"]
+  n42 --- n47
+  n48["`ROC sau thuế = EBIT × (1 − thuế suất) / (Nợ sổ sách + Vốn chủ sổ sách − Tiền mặt)`"]
+  n42 --- n48
+  n49["`ROC trước thuế = Biên lợi nhuận hoạt động × Vòng quay vốn, khác nhau nhiều giữa các ngành`"]
+  n48 --- n49
+  n50["`ROE = Lợi nhuận ròng sau cổ tức ưu đãi / Giá trị sổ sách vốn cổ phần phổ thông`"]
+  n42 --- n50
+  n51["`Dự báo phải bắt đầu từ lợi nhuận hiện tại, tách khoản bất thường khỏi hoạt động thường xuyên`"]
+  n42 --- n51
+  n52["`Mục 6 — Thống kê: nén khối dữ liệu quá lớn và tìm quan hệ`"]
+  n0 --- n52
+  n53["`Phân phối tần suất rời rạc (số bàn thắng) hoặc liên tục (thu nhập, vốn hoá)`"]
+  n52 --- n53
+  n54["`Phân phối chuẩn đối xứng, đuôi không dày, phân phối lệch dương hoặc lệch âm`"]
+  n52 --- n54
+  n55["`Trung bình, trung vị, phương sai, độ lệch chuẩn là căn bậc hai của phương sai`"]
+  n52 --- n55
+  n56["`Tương quan từ −1 đến +1, gần 0 là không liên quan, hiệp phương sai không chuẩn hoá`"]
+  n52 --- n56
+  n57["`Hồi quy OLS Y = a + bX: X tăng một đơn vị thì Y thay đổi b`"]
+  n52 --- n57
+  n58["`R² cao thì dự báo chính xác, R² thấp thì dự báo dao động rộng`"]
+  n57 --- n58
+  n59["`Hồi quy bội dùng R² hiệu chỉnh, đa cộng tuyến làm hệ số mang dấu bất ngờ`"]
+  n52 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Công cụ đơn giản nhất trong tài chính thường mạnh nhất`"]
+  n60 --- n61
+  n62["`Giá trị thời gian cho khung DCF, mô hình rủi ro cho chi phí vốn chủ sở hữu và chi phí vốn`"]
+  n60 --- n62
+  n63["`Luôn chiết khấu trước khi so sánh, một khoản trả góp rẻ có thể đắt hơn trả ngay`"]
+  n60 --- n63
+  n64["`Nâng g từ 6% lên khoảng 8% đẩy Southwestern Bell từ 46,45 lên 70 USD: giá trị cuối kỳ rất nhạy với g`"]
+  n60 --- n64
+  n65["`Giá trị do kỳ vọng tương lai quyết định, nhưng báo cáo kế toán là nền tảng cho dự báo`"]
+  n60 --- n65
+  class n0 root
+  class n1,n20,n33,n42,n52,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64,n65 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 1 "Laying the groundwork", Chương 2 "The Tools of the trade", trang 18–40 (trang 17 là trang tên Phần 1).
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+[Chương 1](C01-gioi-thieu-ve-gia-tri.md) đã đặt nền triết lý: nhà đầu tư không được trả cho một tài sản nhiều hơn giá trị của nó, giá trị phải gắn với dòng tiền mà tài sản tạo ra, và có hai cách ước tính giá trị là định giá nội tại (intrinsic valuation) và định giá tương đối (relative valuation); chương đó cũng khuyên dùng mô hình đơn giản nhất có thể.
+
+Chương 2 mở đầu Phần 1 "Đặt nền móng" (Laying the groundwork) và trang bị bốn công cụ mà mọi phép định giá về sau đều dùng: giá trị thời gian của tiền, đo lường rủi ro và lợi nhuận kỳ vọng, đọc số liệu kế toán, và thống kê cơ bản.
+
+Các công cụ này được dùng ngay ở [Chương 3](C03-gia-tri-noi-tai.md): công thức giá trị hiện tại và dòng tiền tăng trưởng vĩnh viễn trở thành khung của định giá chiết khấu dòng tiền (DCF) và giá trị cuối kỳ; mô hình rủi ro (CAPM, hệ số beta) cho ra chi phí vốn chủ sở hữu và chi phí vốn; bảng cân đối tài chính (assets in place và growth assets) được Chương 3 dùng lại để phân biệt định giá doanh nghiệp với định giá vốn chủ sở hữu; tỷ suất lợi nhuận trên vốn (ROC) trở thành đầu vào của tăng trưởng. Phần thống kê (phân phối, tương quan, hồi quy) chuẩn bị cho [Chương 4](C04-dinh-gia-tuong-doi.md), nơi Damodaran dùng hồi quy để so sánh bội số giữa các công ty.
+
+## Lưu ý
+
+- **Kiểm tra phép tính:** người tổng hợp đã tính lại cả năm ví dụ trong chương và tất cả đều đúng: 1.000/1,08^10 = 463,19 USD; trả góp 3.000 USD × [1 − 1/1,12^5]/0,12 = 10.814,33 USD; mỏ vàng 300 × 5.000 × 1,03 × [1 − (1,03/1,10)^20]/(0,10 − 0,03) = 16.145.980 USD; trái phiếu vĩnh cửu 60/0,09 = 666,67 USD (sách làm tròn 667 USD); Southwestern Bell 2,73 × 1,06/(0,1223 − 0,06) = 46,45 USD. Tốc độ tăng trưởng ngầm định để ra giá 70 USD, giải phương trình 70 = 2,73 × (1 + g)/(0,1223 − g), là g ≈ 8,02%, khớp với "khoảng 8%" của sách.
+- **Lỗi đảo biến trong phần hồi quy (trang 39), ảnh hưởng tới nghĩa:** bản thảo viết "với mỗi đơn vị tăng thêm của biến phụ thuộc (X), biến độc lập sẽ thay đổi b" — hai tên biến bị đảo; đúng phải là: X là biến độc lập, mỗi đơn vị tăng thêm của X làm Y (biến phụ thuộc) thay đổi b. Ngay sau đó bản thảo viết "với bất kỳ Y nào, ta có thể ước tính X phải bằng bao nhiêu: X = a + b(Y)" — cũng bị đảo; đúng phải là: với giá trị cho trước của X, giá trị dự báo của Y là Y = a + bX. Bản tổng hợp trình bày theo cách đúng.
+- **Thiếu công thức R² hiệu chỉnh (trang 39):** bản thảo viết "R² hiệu chỉnh được tính như sau:" rồi bỏ trống, không có công thức. Công thức chuẩn trong thống kê (người tổng hợp bổ sung, theo hiểu biết của người tổng hợp, không tra cứu): R² hiệu chỉnh = 1 − (1 − R²) × (n − 1)/(n − k − 1), với n là số quan sát và k là số biến độc lập.
+- **Dấu vết của tài liệu gốc khác:** phần "Statistics" (trang 35) tự gọi mình là "phụ lục này" (this appendix), và câu "phương trình hồi quy mô tả ở mục trước" — cho thấy phần này được chép từ một phụ lục trong sách khác của Damodaran. Phần Kết luận (trang 40) nhắc tới "các yêu cầu của FASB về thuê tài sản (leases)" và "định giá công ty ở các thị trường khác nhau", hai chủ đề mà chương không hề bàn (thuê tài sản chỉ được nêu tên một lần trong danh sách nợ dài hạn khác). Chú thích chân trang của chương đánh số 4, 5, 6 (tiếp nối số của Chương 1).
+- **Các lỗi đánh máy nhỏ không đổi nghĩa:** "casfflow" trong Hình 2.1; "we will value reduce the value" (trang 19); "is come combination" (trang 23); "Charles Mackey" (đúng là Charles Mackay, sách *Extraordinary Popular Delusions and the Madness of Crowds*, 1841 — năm xuất bản theo hiểu biết của người tổng hợp); "Markowtiz"; "supremely diversified composed of all traded assets" (thiếu chữ "portfolios"); "console bond" (thuật ngữ thường viết là "consol bond"); "Figure .2.5"; "Liabilties"; "Toi make", "substnatilaly" ở chú thích 5; "uncertainty cash flows" (đúng là "uncertain"). Trong Hình 2.3, các tài sản được gọi là "Assets" và toàn bộ vế phải gọi là "Liabilities" dù vế phải gồm cả vốn chủ sở hữu.
+- **Diễn đạt chưa chính xác về hợp nhất (trang 30):** bản thảo nói phải hợp nhất khi phần nắm giữ "chiếm hơn 50% giá trị của công ty con"; theo hiểu biết của người tổng hợp, tiêu chí kế toán là nắm hơn 50% quyền biểu quyết hoặc có quyền kiểm soát, không phải 50% "giá trị".
+- **Ví dụ cũ:** ví dụ Southwestern Bell dùng số liệu năm 1992 (lợi nhuận yêu cầu 12,23%), và giá vàng 300 USD/ounce là mức của đầu thập niên 1990. Theo hiểu biết của người tổng hợp, không tra cứu: Southwestern Bell đổi tên thành SBC Communications năm 1995, mua lại AT&T Corp. năm 2005 và lấy tên AT&T Inc.; giá vàng đã lên trên 1.000 USD/ounce từ năm 2008 và cao hơn nhiều sau đó. Các con số này chỉ minh hoạ công thức nên không làm sai lập luận.
+- **Chuẩn mực kế toán đã thay đổi sau 2010 (theo hiểu biết của người tổng hợp, không tra cứu):** FASB bỏ khái niệm "khoản mục bất thường" (extraordinary items) khỏi báo cáo kết quả kinh doanh từ năm 2015 (IFRS đã cấm trình bày khoản mục này từ trước), nên dòng "Lợi nhuận ròng trước khoản mục bất thường" trong Hình 2.4 không còn trên báo cáo Mỹ hiện nay; chuẩn mực thuê tài sản mới (IFRS 16 và ASC 842, hiệu lực từ 2019) đưa phần lớn hợp đồng thuê hoạt động lên bảng cân đối thành nợ.

@@ -1,28 +1,18 @@
 # Chương 9 — Định giá công ty dịch vụ tài chính (Valuing Financial Service Companies)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 3 "Special Situations in Valuation", Chương 9 "Valuing Financial Service Companies", trang 214–240 (trang 213 là trang tên Phần 3).
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** Phần 1 (Chương 2–4: [C02](C02-cong-cu-cua-nghe-dinh-gia.md), [C03](C03-gia-tri-noi-tai.md), [C04](C04-dinh-gia-tuong-doi.md)) dựng bộ công cụ: giá trị thời gian của tiền, suất chiết khấu, dòng tiền tự do, định giá nội tại bằng chiết khấu dòng tiền (DCF) và định giá tương đối bằng bội số. Phần 2 (Chương 5–8: [C05](C05-dinh-gia-cong-ty-tre-tang-truong.md), [C06](C06-dinh-gia-cong-ty-tang-truong.md), [C07](C07-dinh-gia-cong-ty-truong-thanh.md), [C08](C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md)) áp bộ công cụ đó cho doanh nghiệp ở từng giai đoạn của vòng đời. Chương 9 mở đầu Phần 3 "Các tình huống đặc biệt trong định giá": ở đây vấn đề không nằm ở giai đoạn vòng đời mà ở bản chất ngành. Ngân hàng, công ty bảo hiểm, ngân hàng đầu tư dùng nợ làm "nguyên liệu" chứ không phải nguồn vốn, và không có chi đầu tư vốn hay vốn lưu động đo được, nên hai viên gạch nền của các chương trước (phân biệt nợ với vốn chủ sở hữu, và tính dòng tiền tự do sau tái đầu tư) đều lung lay. Chương này chỉ cách chuyển sang định giá thẳng vốn chủ sở hữu: mô hình chiết khấu cổ tức, dòng tiền vốn chủ sở hữu với tái đầu tư là vốn theo quy định, và mô hình lợi nhuận vượt mức; trong định giá tương đối thì chỉ dùng bội số vốn chủ sở hữu (P/E, P/B). Chương 10 ([C10](C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md)) tiếp tục Phần 3 với công ty chu kỳ và hàng hoá cơ bản, nơi ý tưởng "lợi nhuận chuẩn hoá" mà chương này dùng cho Wells Fargo được phát triển đầy đủ hơn; Chương 11 ([C11](C11-dinh-gia-cong-ty-co-tai-san-vo-hinh.md)) bàn tài sản vô hình, cũng là loại đầu tư mà công ty dịch vụ tài chính ghi vào chi phí hoạt động.
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **nguyên lý định giá không đổi khi chuyển sang ngân hàng và công ty bảo hiểm, nhưng vì nợ của các công ty này là nguyên liệu kinh doanh và tái đầu tư của họ không hiện ra dưới dạng chi đầu tư vốn hay vốn lưu động, người định giá phải bỏ cách định giá cả doanh nghiệp để định giá thẳng vốn chủ sở hữu; và con số quan trọng nhất không phải cổ tức hay tốc độ tăng trưởng mà là tỷ suất lợi nhuận trên vốn chủ sở hữu (ROE) dài hạn, vì ROE cùng với tỷ lệ chi trả cổ tức quyết định tăng trưởng, còn ROE so với chi phí vốn chủ sở hữu quyết định công ty có tạo ra giá trị hay không.** Ba ví dụ trung tâm, đều ở tháng 2/2009 giữa khủng hoảng tài chính: (1) Wells Fargo được định giá bằng mô hình chiết khấu cổ tức ổn định trên nền giá trị sổ sách vốn chủ sở hữu 47.628 triệu USD: nếu ROE nhanh chóng trở lại mức trung bình 2001–2007 là 18,91% thì lợi nhuận ròng chuẩn hoá là 9.006 triệu USD, tỷ lệ chi trả để tăng trưởng 3% mãi mãi là 84,14%, và với chi phí vốn chủ sở hữu 9% thì vốn chủ sở hữu đáng 126.294 triệu USD; nếu ROE 15% và chi phí vốn 10% thì đáng 81.648 triệu USD; nếu ROE 12% và chi phí vốn 11% thì chỉ đáng 53.582 triệu USD, so với giá trị thị trường 66.643 triệu USD. (2) Goldman Sachs được định giá bằng mô hình lợi nhuận vượt mức: giá trị sổ sách 66.012 triệu USD, ROE giả định 9% trong 5 năm, thấp hơn chi phí vốn chủ sở hữu 12%, nên giá trị hiện tại của phần lợi nhuận vượt mức âm 8.154 triệu USD; sau năm 5 ROE bằng đúng chi phí vốn 10,2% nên không tạo thêm giá trị; vốn chủ sở hữu đáng 57.859 triệu USD, tức 125,29 USD mỗi cổ phiếu, so với giá 96,45 USD. (3) Trong định giá tương đối, hồi quy P/E của 23 công ty bảo hiểm theo tăng trưởng và hệ số beta, và hồi quy P/B của ngân hàng theo ROE, cho thấy ngay giữa cơn hoảng loạn, giá cổ phiếu ngân hàng vẫn bám chặt vào ROE (hệ số tương quan trên 0,70).
+## Ý chính
 
-> **Lưu ý:**
-> - **Dẫn chiếu sót lại từ sách khác.** Minh hoạ 9.1 mở đầu bằng "trong minh hoạ 14.1, chúng ta đã xem xét…" và câu trước đó nhắc "phần nói về mặt tối" (the section on the dark side). Trong bản thảo này không có minh hoạ 14.1 hay phần nào như vậy. Theo hiểu biết của người tổng hợp (không tra cứu), đoạn này có lẽ được chuyển từ sách *The Dark Side of Valuation* của cùng tác giả. Nội dung được dẫn, theo chính đoạn văn, là: nếu lấy cổ tức năm 2008 của Wells Fargo (1,30 USD/cổ phiếu) làm gốc và cho tăng 4%/năm theo lịch sử thì sẽ định giá quá cao, vì cổ tức 2008 bị thổi phồng và tăng trưởng 4% không khớp với tỷ lệ chi trả 76%. Câu "chi phí vốn chủ sở hữu 9% mà chúng ta đã ước tính trước đây" cũng không có chỗ nào trước đó trong chương; nguồn duy nhất là chú thích 50 (beta 1, phần bù rủi ro 6%, lãi suất phi rủi ro 3%).
-> - **Lỗi đánh máy trong công thức Wells Fargo:** "16..67%" (thừa dấu chấm). Đúng là 4% / (1 − 0,76) = 16,67%. Nếu dùng tỷ lệ chi trả chính xác 1,30 / 1,71 = 76,02% thì ROE ngầm định là 16,68%.
-> - **Hai con số giá trị thị trường của Wells Fargo:** phần chữ ghi 66.640 triệu USD, Bảng 9.2 ghi 66.643 triệu USD. Chênh lệch không đáng kể.
-> - **Giá trị Wells Fargo kịch bản lạc quan:** 9.006 × 0,8414 / 0,06 bằng 126.300 triệu USD nếu dùng đúng các số đã làm tròn trong công thức; con số 126.293,58 của sách dùng tỷ lệ chi trả chưa làm tròn (0,841354). Người tổng hợp đã tính lại cả ba kịch bản của Bảng 9.2: đều khớp.
-> - **Goldman Sachs — các con số đầu vào không khớp nhau:**
->   - Phần chữ nói giá trị sổ sách vốn chủ sở hữu là 60,6 tỷ USD, nhưng bảng tính và kết quả lại dùng 66.012 triệu USD. Sách không giải thích chênh lệch (có thể một con số gồm cổ phiếu ưu đãi, con số kia thì không; đây là suy đoán của người tổng hợp).
->   - Vốn hoá thị trường được nêu là 48,7 tỷ USD, nhưng giá 96,45 USD × 461,874 triệu cổ phiếu chỉ cho khoảng 44,55 tỷ USD.
->   - Tỷ lệ chi trả 17,05% được nói là "dựa trên cổ tức hiện tại và lợi nhuận chuẩn hoá", nhưng cổ tức 2008 là 850 triệu USD chia lợi nhuận năm 1 (5.941,08) chỉ được 14,3%; người tổng hợp không tái tạo được con số 17,05%.
->   - Giá trị sổ sách đầu năm 6 được tính là 88.043 × 1,03 = 90.684,47. Theo đúng logic của Bảng 9.3 (giá trị sổ sách tăng thêm phần lợi nhuận giữ lại), giá trị sổ sách đầu năm 6 phải là 88.043,17 + 6.572,67 = 94.615,84 triệu USD, và lợi nhuận ròng năm 6 là 94.615,84 × 10,2% ≈ 9.651 triệu USD chứ không phải 9.249,82. Sai lệch này **không ảnh hưởng tới kết quả**, vì sau năm 5 ROE bằng đúng chi phí vốn chủ sở hữu nên lợi nhuận vượt mức bằng 0 bất kể giá trị sổ sách là bao nhiêu.
->   - Tổng giá trị hiện tại của lợi nhuận vượt mức 5 năm, tính lại: −8.153,4 triệu USD (sách ghi −8.154). Giá trị vốn chủ sở hữu 66.012 − 8.153,4 = 57.858,6 triệu USD; chia 461,874 triệu cổ phiếu được 125,27 USD, sách ghi 125,29 USD. Chênh lệch nhỏ do làm tròn.
-> - **Minh hoạ 9.3 (bảo hiểm) có ba chỗ lệch:** (a) câu dẫn nói so sánh "các công ty bảo hiểm nhân thọ", nhưng danh sách gồm cả bảo hiểm phi nhân thọ (Chubb, Travelers), tái bảo hiểm (Odyssey Re, Transatlantic, Reinsurance Group of America) và môi giới bảo hiểm (Aon, Brown & Brown, Arthur J. Gallagher); tiêu đề Bảng 9.4 ghi đúng hơn là "Insurance Companies"; (b) sách viết P/E thấp nhất 4,11 thuộc về "Nationwide Financial", nhưng trong bảng 4,11 là của Torchmark, và Nationwide không có trong bảng; (c) sách nói hồi quy P/E "theo tốc độ tăng trưởng kỳ vọng và độ lệch chuẩn", nhưng phương trình thực tế dùng hệ số beta. Người tổng hợp đã tính lại toàn bộ 23 dòng của Bảng 9.5 từ phương trình hồi quy: mọi P/E dự đoán và tỷ lệ % đều khớp; tỷ lệ % được tính bằng P/E thực tế / P/E dự đoán − 1.
-> - **Tompkins Financial "định giá cao khoảng 30%":** P/B thực tế 2,75 so với P/B dự đoán 1,95 thì cao hơn 41% (2,75 / 1,95 − 1). Con số "khoảng 30%" tương ứng với cách tính khác: giá phải giảm 29% để về mức dự đoán ((2,75 − 1,95) / 2,75). Cách tính thứ nhất mới nhất quán với Bảng 9.5.
-> - **Hồi quy P/B của ngân hàng nhỏ:** thống kê t của biến độ lệch chuẩn ghi (2,36), mang dấu dương, trong khi hệ số là −2,63; theo quy ước của các bảng khác lẽ ra phải ghi (−2,36). Sách cũng viết mối quan hệ ở mẫu này "yếu hơn so với các ngân hàng thương mại", trong khi cả hai mẫu đều là ngân hàng thương mại; ý đúng là "yếu hơn so với mẫu ngân hàng lớn ở Hình 9.1".
-> - **Câu bị cụt:** đoạn đầu mục Value Plays dừng ở "…ngay cả khi đầu tư vào ngân hàng lớn, ngân hàng đầu tư" (investment), thiếu phần cuối câu.
-> - **Lỗi trình bày nhỏ:** trong mục quy tắc kế toán, hai tiểu mục cùng đánh "a." và cụm "The second is" xuất hiện hai lần; các lỗi chính tả như "we fact two problems", "actual of estimated", "payout out" không làm đổi nghĩa.
-> - **Số liệu thị trường 2009.** Các ví dụ dùng lãi suất phi rủi ro 3% và phần bù rủi ro vốn cổ phần 6%, phản ánh giai đoạn khủng hoảng. Theo hiểu biết của người tổng hợp (không tra cứu), sau đó lãi suất trái phiếu chính phủ Mỹ còn xuống thấp hơn nhiều (dưới 1% năm 2020) rồi tăng trở lại trên 4% từ 2022–2023; phần bù rủi ro mà chính Damodaran ước tính thường nằm quanh 4–6% trong thập niên 2010–2020. Bảng beta 9.1 là số liệu tháng 2/2009.
-> - **Số phận các công ty ví dụ (theo hiểu biết của người tổng hợp, không tra cứu).** Wells Fargo đã mua lại Wachovia (ký hiệu WB trong Hình 9.1) vào cuối 2008; Wells Fargo vượt qua khủng hoảng và giá cổ phiếu phục hồi mạnh, nhưng từ 2016 dính bê bối mở tài khoản giả và bị Cục Dự trữ Liên bang Mỹ áp trần tổng tài sản từ 2018. Goldman Sachs chuyển thành công ty mẹ ngân hàng (bank holding company) cuối 2008, nhận vốn từ chương trình cứu trợ TARP và hoàn trả năm 2009; giá cổ phiếu vượt xa mức 96,45 USD trong những năm sau. UCBH Holdings (dòng cuối Bảng 9.6, có độ lệch chuẩn giá cổ phiếu cao nhất 77,25%) đã bị cơ quan quản lý đóng cửa ngân hàng con United Commercial Bank vào cuối 2009.
+Damodaran muốn người đọc hiểu rằng **nguyên lý định giá không đổi khi chuyển sang ngân hàng và công ty bảo hiểm, nhưng vì nợ của các công ty này là nguyên liệu kinh doanh và tái đầu tư của họ không hiện ra dưới dạng chi đầu tư vốn hay vốn lưu động, người định giá phải bỏ cách định giá cả doanh nghiệp để định giá thẳng vốn chủ sở hữu; và con số quan trọng nhất không phải cổ tức hay tốc độ tăng trưởng mà là tỷ suất lợi nhuận trên vốn chủ sở hữu (ROE) dài hạn, vì ROE cùng với tỷ lệ chi trả cổ tức quyết định tăng trưởng, còn ROE so với chi phí vốn chủ sở hữu quyết định công ty có tạo ra giá trị hay không.**
+
+Ba ví dụ trung tâm, đều ở tháng 2/2009 giữa khủng hoảng tài chính: (1) Wells Fargo được định giá bằng mô hình chiết khấu cổ tức ổn định trên nền giá trị sổ sách vốn chủ sở hữu 47.628 triệu USD.
+
+Nếu ROE nhanh chóng trở lại mức trung bình 2001–2007 là 18,91% thì lợi nhuận ròng chuẩn hoá là 9.006 triệu USD, tỷ lệ chi trả để tăng trưởng 3% mãi mãi là 84,14%, và với chi phí vốn chủ sở hữu 9% thì vốn chủ sở hữu đáng 126.294 triệu USD. Nếu ROE 15% và chi phí vốn 10% thì đáng 81.648 triệu USD. Nếu ROE 12% và chi phí vốn 11% thì chỉ đáng 53.582 triệu USD, so với giá trị thị trường 66.643 triệu USD.
+
+(2) Goldman Sachs được định giá bằng mô hình lợi nhuận vượt mức: giá trị sổ sách 66.012 triệu USD, ROE giả định 9% trong 5 năm, thấp hơn chi phí vốn chủ sở hữu 12%, nên giá trị hiện tại của phần lợi nhuận vượt mức âm 8.154 triệu USD.
+
+Sau năm 5 ROE bằng đúng chi phí vốn 10,2% nên không tạo thêm giá trị. Vốn chủ sở hữu đáng 57.859 triệu USD, tức 125,29 USD mỗi cổ phiếu, so với giá 96,45 USD.
+
+(3) Trong định giá tương đối, hồi quy P/E của 23 công ty bảo hiểm theo tăng trưởng và hệ số beta, và hồi quy P/B của ngân hàng theo ROE, cho thấy ngay giữa cơn hoảng loạn, giá cổ phiếu ngân hàng vẫn bám chặt vào ROE (hệ số tương quan trên 0,70).
 
 ## Sơ đồ
 
@@ -307,7 +297,11 @@ Quy tắc kế toán dùng để đo lợi nhuận và ghi giá trị sổ sách
 - So sánh các chỉ số dựa trên giá trị sổ sách giữa công ty tài chính và phi tài chính trở nên khó, cả các tỷ số thị trường như giá trên giá trị sổ sách (P/B) lẫn các tỷ số kế toán như ROE.
 - Diễn giải các chỉ số này cũng khác: ROE của công ty phi tài chính có thể coi là lợi nhuận trên vốn chủ sở hữu ban đầu đã bỏ vào tài sản; ROE của công ty tài chính thì không, vì giá trị sổ sách vốn chủ sở hữu ở đây không phản ánh số tiền đã bỏ vào ban đầu mà là một giá trị thị trường đã được cập nhật.
 
-**Dự phòng rủi ro tín dụng và làm phẳng lợi nhuận (Loss Provisions and smoothing out earnings).** Lý do thứ hai là bản chất hoạt động của công ty tài chính: những giai đoạn dài có lãi xen kẽ những giai đoạn ngắn lỗ lớn; chuẩn mực kế toán được xây dựng để chống lại xu hướng này và tạo ra lợi nhuận phẳng hơn. Hãy xét một ngân hàng làm ăn theo kiểu truyền thống: nhận tiền gửi rồi cho cá nhân và doanh nghiệp vay với lãi suất cao hơn. Rủi ro của ngân hàng là người vay vỡ nợ, và tỷ lệ vỡ nợ dao động mạnh theo thời gian: thấp trong thời kỳ kinh tế tốt, cao trong suy thoái. Thay vì xoá sổ nợ xấu khi nó phát sinh, ngân hàng thường lập dự phòng tổn thất để chia đều khoản lỗ qua các năm và trừ khoản này vào lợi nhuận hằng năm. Cách làm này hợp lý nhưng có một điểm vướng: chính ngân hàng là bên đánh giá mức tổn thất cho vay. Với cùng một danh mục cho vay, ngân hàng thận trọng sẽ trích dự phòng nhiều hơn ngân hàng mạnh tay, và ngân hàng mạnh tay sẽ báo lợi nhuận cao hơn trong thời kỳ tốt.
+**Dự phòng rủi ro tín dụng và làm phẳng lợi nhuận (Loss Provisions and smoothing out earnings).** Lý do thứ hai là bản chất hoạt động của công ty tài chính: những giai đoạn dài có lãi xen kẽ những giai đoạn ngắn lỗ lớn; chuẩn mực kế toán được xây dựng để chống lại xu hướng này và tạo ra lợi nhuận phẳng hơn.
+
+Hãy xét một ngân hàng làm ăn theo kiểu truyền thống: nhận tiền gửi rồi cho cá nhân và doanh nghiệp vay với lãi suất cao hơn. Rủi ro của ngân hàng là người vay vỡ nợ, và tỷ lệ vỡ nợ dao động mạnh theo thời gian: thấp trong thời kỳ kinh tế tốt, cao trong suy thoái.
+
+Thay vì xoá sổ nợ xấu khi nó phát sinh, ngân hàng thường lập dự phòng tổn thất để chia đều khoản lỗ qua các năm và trừ khoản này vào lợi nhuận hằng năm. Cách làm này hợp lý nhưng có một điểm vướng: chính ngân hàng là bên đánh giá mức tổn thất cho vay. Với cùng một danh mục cho vay, ngân hàng thận trọng sẽ trích dự phòng nhiều hơn ngân hàng mạnh tay, và ngân hàng mạnh tay sẽ báo lợi nhuận cao hơn trong thời kỳ tốt.
 
 ### 3. Các vấn đề khi định giá (Valuation Issues, trang 217–219)
 
@@ -317,7 +311,9 @@ Có hai thách thức chính làm suy yếu mọi bản định giá công ty t�
 
 Trong bảng cân đối tài chính mà sách dùng để mô tả doanh nghiệp, chỉ có hai cách huy động tiền: nợ và vốn chủ sở hữu. Điều này đúng với mọi công ty, nhưng công ty tài chính khác công ty phi tài chính ở ba điểm:
 
-**a. Nợ là nguyên liệu chứ không phải vốn.** Với công ty phi tài chính, "vốn" gồm cả nợ và vốn chủ sở hữu: công ty huy động tiền từ cổ đông và trái chủ (và ngân hàng) rồi dùng để đầu tư; khi định giá, ta định giá toàn bộ tài sản của công ty chứ không chỉ vốn chủ sở hữu. Với công ty tài chính, phần lớn coi nợ là nguyên liệu: nợ với ngân hàng giống như thép với nhà máy sản xuất, là thứ được nhào nặn thành sản phẩm khác để bán với giá cao hơn và kiếm lời. Do đó, vốn của công ty tài chính thường được hiểu hẹp là chỉ gồm vốn chủ sở hữu, và định nghĩa này còn được cơ quan quản lý củng cố khi họ giám sát tỷ lệ vốn chủ sở hữu của ngân hàng và công ty bảo hiểm.
+**a. Nợ là nguyên liệu chứ không phải vốn.** Với công ty phi tài chính, "vốn" gồm cả nợ và vốn chủ sở hữu: công ty huy động tiền từ cổ đông và trái chủ (và ngân hàng) rồi dùng để đầu tư; khi định giá, ta định giá toàn bộ tài sản của công ty chứ không chỉ vốn chủ sở hữu.
+
+Với công ty tài chính, phần lớn coi nợ là nguyên liệu: nợ với ngân hàng giống như thép với nhà máy sản xuất, là thứ được nhào nặn thành sản phẩm khác để bán với giá cao hơn và kiếm lời. Do đó, vốn của công ty tài chính thường được hiểu hẹp là chỉ gồm vốn chủ sở hữu, và định nghĩa này còn được cơ quan quản lý củng cố khi họ giám sát tỷ lệ vốn chủ sở hữu của ngân hàng và công ty bảo hiểm.
 
 **b. Định nghĩa nợ.** Ở công ty tài chính, ranh giới của "nợ" mờ hơn. Chẳng hạn, tiền khách hàng gửi vào tài khoản thanh toán có nên coi là nợ của ngân hàng không? Nhất là với tài khoản thanh toán có trả lãi, khoản tiền gửi gần như không khác gì nợ do ngân hàng phát hành. Nhưng nếu coi tiền gửi là nợ, thì lợi nhuận hoạt động của ngân hàng phải đo trước khi trừ lãi trả cho người gửi, mà lãi trả người gửi thường là khoản chi lớn nhất của ngân hàng, nên cách làm đó gây rắc rối.
 
@@ -494,7 +490,11 @@ Giá trị vốn chủ sở hữu = Vốn chủ sở hữu đang đầu tư + Gi
 
 **Đầu vào của mô hình (Inputs to Model).** Cần hai đầu vào: vốn chủ sở hữu đang đầu tư, và (khó hơn) lợi nhuận vượt mức kỳ vọng cho cổ đông trong tương lai.
 
-Vốn chủ sở hữu đang đầu tư thường đo bằng giá trị sổ sách vốn chủ sở hữu. Dù là số kế toán và chịu ảnh hưởng của các quyết định kế toán, giá trị sổ sách là thước đo đáng tin cậy hơn ở công ty tài chính so với công ty sản xuất, vì hai lẽ: tài sản của công ty tài chính thường là tài sản tài chính được đánh giá lại theo giá thị trường, trong khi tài sản của công ty sản xuất là tài sản thực và chênh lệch giữa giá trị sổ sách và giá trị thị trường lớn hơn nhiều; và khấu hao, yếu tố có thể ảnh hưởng mạnh tới giá trị sổ sách của công ty sản xuất, thường không đáng kể ở công ty tài chính. Tuy vậy, giá trị sổ sách có thể bị ảnh hưởng bởi việc mua lại cổ phiếu và các khoản chi bất thường hay một lần; công ty tài chính có những khoản này thì giá trị sổ sách có thể đánh giá thấp vốn chủ sở hữu thực sự đã đầu tư.
+Vốn chủ sở hữu đang đầu tư thường đo bằng giá trị sổ sách vốn chủ sở hữu.
+
+Dù là số kế toán và chịu ảnh hưởng của các quyết định kế toán, giá trị sổ sách là thước đo đáng tin cậy hơn ở công ty tài chính so với công ty sản xuất, vì hai lẽ: tài sản của công ty tài chính thường là tài sản tài chính được đánh giá lại theo giá thị trường, trong khi tài sản của công ty sản xuất là tài sản thực và chênh lệch giữa giá trị sổ sách và giá trị thị trường lớn hơn nhiều; và khấu hao, yếu tố có thể ảnh hưởng mạnh tới giá trị sổ sách của công ty sản xuất, thường không đáng kể ở công ty tài chính.
+
+Tuy vậy, giá trị sổ sách có thể bị ảnh hưởng bởi việc mua lại cổ phiếu và các khoản chi bất thường hay một lần; công ty tài chính có những khoản này thì giá trị sổ sách có thể đánh giá thấp vốn chủ sở hữu thực sự đã đầu tư.
 
 Lợi nhuận vượt mức tính theo vốn chủ sở hữu:
 
@@ -542,7 +542,7 @@ Chi phí vốn chủ sở hữu giai đoạn ổn định = 3% + 1,2 × 6% = 10,
 
 Lợi nhuận ròng năm 6 = Giá trị sổ sách đầu năm 6 × ROE ổn định = (88.043 × 1,03) × 0,102 = 9.249,82 triệu USD
 
-Lợi nhuận ròng năm 6 cao hơn hẳn năm 5 vì ROE bật lên từ 9% lên 10,2%. (Như đã ghi ở Lưu ý, theo logic của bảng thì giá trị sổ sách đầu năm 6 phải là 88.043,17 + 6.572,67 = 94.615,84; nhưng điều này không làm thay đổi kết quả dưới đây.)
+Lợi nhuận ròng năm 6 cao hơn hẳn năm 5 vì ROE bật lên từ 9% lên 10,2%. (Như đã ghi ở mục Lưu ý cuối chương, theo logic của bảng thì giá trị sổ sách đầu năm 6 phải là 88.043,17 + 6.572,67 = 94.615,84; nhưng điều này không làm thay đổi kết quả dưới đây.)
 
 **Bước 5 — Giá trị cuối kỳ của lợi nhuận vượt mức.**
 
@@ -678,7 +678,9 @@ Quan hệ giữa P/B và ROE thậm chí phải chặt hơn ở công ty tài ch
 | P/B quanh 0,5–0,9 | SUSQ (khoảng 5%; khoảng 0,75); FCNCA, SNV, MTB (khoảng 8–13%; khoảng 0,8–0,9); BKEAY (nhãn chồng lên nhau, khoảng 13%; khoảng 0,7); STI, ZION, KEY (khoảng 9–13%; khoảng 0,6–0,65); RF (khoảng 7%; khoảng 0,5); BAC (khoảng 11%; khoảng 0,45) |
 | ROE và/hoặc P/B thấp nhất | BPOP — Banco Popular (khoảng −2%; khoảng 0,4); WB — Wachovia (khoảng 8%; khoảng 0,2) |
 
-Nhận xét của tác giả: các số liệu này được lấy giữa cuộc khủng hoảng ngân hàng lớn nhất kể từ Đại suy thoái, khi phần lớn nhà phân tích kết luận rằng nhà đầu tư đang hoảng loạn và giá cổ phiếu ngân hàng phản ánh sự phi lý. Vậy mà mối liên hệ giữa P/B tháng 2/2009 và ROE (theo lợi nhuận 12 tháng gần nhất) lại chặt đến kinh ngạc. Ngân hàng có P/B cao như Valley National (VLY) và WestAmerica Bancorp (WABC) thường có ROE cao; ngân hàng có ROE thấp như Banco Popular (BPOP) và Wachovia (WB) giao dịch ở P/B thấp. Hệ số tương quan giữa P/B và ROE trên 0,70 (người tổng hợp kiểm tra: căn bậc hai của R² 0,519 là 0,72, khớp). Nói cách khác, dường như vẫn có một trật tự cơ bản giữa sự hỗn loạn của ngành ngân hàng.
+Nhận xét của tác giả: các số liệu này được lấy giữa cuộc khủng hoảng ngân hàng lớn nhất kể từ Đại suy thoái, khi phần lớn nhà phân tích kết luận rằng nhà đầu tư đang hoảng loạn và giá cổ phiếu ngân hàng phản ánh sự phi lý. Vậy mà mối liên hệ giữa P/B tháng 2/2009 và ROE (theo lợi nhuận 12 tháng gần nhất) lại chặt đến kinh ngạc.
+
+Ngân hàng có P/B cao như Valley National (VLY) và WestAmerica Bancorp (WABC) thường có ROE cao; ngân hàng có ROE thấp như Banco Popular (BPOP) và Wachovia (WB) giao dịch ở P/B thấp. Hệ số tương quan giữa P/B và ROE trên 0,70 (người tổng hợp kiểm tra: căn bậc hai của R² 0,519 là 0,72, khớp). Nói cách khác, dường như vẫn có một trật tự cơ bản giữa sự hỗn loạn của ngành ngân hàng.
 
 Dù nhấn mạnh ROE, không nên bỏ qua các yếu tố cơ bản khác. Ngân hàng khác nhau về rủi ro, và ở cùng một ROE, ngân hàng rủi ro hơn phải có P/B thấp hơn. Tương tự, ngân hàng có tiềm năng tăng trưởng lớn hơn nhiều phải có P/B cao hơn khi các yếu tố khác như nhau. Vào tháng 2/2009, một yếu tố đáng tính là mức độ mỗi ngân hàng nắm giữ chứng khoán "độc hại" (trái phiếu đảm bảo bằng thế chấp và nghĩa vụ nợ có đảm bảo, CDO) trên bảng cân đối.
 
@@ -783,7 +785,9 @@ Công ty dịch vụ tài chính phải được định giá ở cấp vốn ch
 
 ### Trong ngôn ngữ tài chính doanh nghiệp
 
-Chương này áp dụng mô hình chiết khấu cổ tức hai giai đoạn và mô hình thu nhập thặng dư (residual income model) ở cấp vốn chủ sở hữu, với ràng buộc tăng trưởng bền vững g = ROE × b (b là tỷ lệ giữ lại). Trong trạng thái ổn định, mô hình Gordon có thể viết lại thành P/B = (ROE − g) / (ke − g), cho thấy P/B lớn hơn 1 khi và chỉ khi ROE lớn hơn ke; đây là nền lý thuyết cho cả kết luận về Goldman Sachs lẫn mối quan hệ P/B–ROE trong Hình 9.1 (công thức P/B này là cách người tổng hợp diễn đạt, suy ra trực tiếp từ các công thức trong chương). Chi phí vốn chủ sở hữu được ước tính bằng CAPM với beta từ dưới lên không điều chỉnh đòn bẩy, và beta hội tụ về 1 trong giai đoạn ổn định.
+Chương này áp dụng mô hình chiết khấu cổ tức hai giai đoạn và mô hình thu nhập thặng dư (residual income model) ở cấp vốn chủ sở hữu, với ràng buộc tăng trưởng bền vững g = ROE × b (b là tỷ lệ giữ lại). Trong trạng thái ổn định, mô hình Gordon có thể viết lại thành P/B = (ROE − g) / (ke − g), cho thấy P/B lớn hơn 1 khi và chỉ khi ROE lớn hơn ke; đây là nền lý thuyết cho cả kết luận về Goldman Sachs lẫn mối quan hệ P/B–ROE trong Hình 9.1 (công thức P/B này là cách người tổng hợp diễn đạt, suy ra trực tiếp từ các công thức trong chương).
+
+Chi phí vốn chủ sở hữu được ước tính bằng CAPM với beta từ dưới lên không điều chỉnh đòn bẩy, và beta hội tụ về 1 trong giai đoạn ổn định.
 
 ## Thuật ngữ
 
@@ -859,20 +863,233 @@ Thay vì đưa ra một bộ công thức riêng cho ngân hàng, Damodaran cho 
 
 ### Các ví dụ được đơn giản hoá đáng kể và có vài con số không khớp nhau
 
-Ví dụ Wells Fargo bỏ qua hoàn toàn giai đoạn chuyển tiếp: giả định ROE trở về mức chuẩn hoá ngay năm tới và công ty đi thẳng vào tăng trưởng ổn định, trong khi kịch bản "hồi phục nhanh" lẽ ra cần vài năm. Wells Fargo cũng vừa mua Wachovia cuối 2008, khiến giá trị sổ sách và ROE quá khứ khó so sánh, điều chương không bàn (theo hiểu biết của người tổng hợp). Ví dụ Goldman Sachs có giá trị sổ sách 60,6 hay 66.012, vốn hoá 48,7 tỷ USD không khớp với giá nhân số cổ phiếu, tỷ lệ chi trả 17,05% không giải thích được, và giá trị sổ sách năm 6 tính sai (dù không ảnh hưởng kết quả). Mô hình FCFE theo vốn theo quy định chỉ được minh hoạ bằng một ví dụ số nhỏ, không có ví dụ định giá thật. Phần định giá tương đối dùng hồi quy trên mẫu nhỏ (18 ngân hàng, R² 31%) mà chính tác giả thừa nhận là chạm giới hạn thống kê, và hồi quy theo ROE quá khứ 12 tháng trong khi lập luận của chương nhấn mạnh ROE kỳ vọng.
+Ví dụ Wells Fargo bỏ qua hoàn toàn giai đoạn chuyển tiếp: giả định ROE trở về mức chuẩn hoá ngay năm tới và công ty đi thẳng vào tăng trưởng ổn định, trong khi kịch bản "hồi phục nhanh" lẽ ra cần vài năm. Wells Fargo cũng vừa mua Wachovia cuối 2008, khiến giá trị sổ sách và ROE quá khứ khó so sánh, điều chương không bàn (theo hiểu biết của người tổng hợp).
+
+Ví dụ Goldman Sachs có giá trị sổ sách 60,6 hay 66.012, vốn hoá 48,7 tỷ USD không khớp với giá nhân số cổ phiếu, tỷ lệ chi trả 17,05% không giải thích được, và giá trị sổ sách năm 6 tính sai (dù không ảnh hưởng kết quả).
+
+Mô hình FCFE theo vốn theo quy định chỉ được minh hoạ bằng một ví dụ số nhỏ, không có ví dụ định giá thật. Phần định giá tương đối dùng hồi quy trên mẫu nhỏ (18 ngân hàng, R² 31%) mà chính tác giả thừa nhận là chạm giới hạn thống kê, và hồi quy theo ROE quá khứ 12 tháng trong khi lập luận của chương nhấn mạnh ROE kỳ vọng.
 
 ### Giả định "giá trị sổ sách của ngân hàng bám sát giá trị thị trường" đã bị thử thách sau 2010
 
-Damodaran dựa vào lập luận rằng tài sản ngân hàng được đánh giá theo giá thị trường nên giá trị sổ sách đáng tin. Theo hiểu biết của người tổng hợp (không tra cứu), đây chỉ đúng một phần: phần lớn khoản cho vay và các trái phiếu xếp vào nhóm "giữ đến đáo hạn" vẫn ghi theo giá gốc phân bổ. Khi lãi suất tăng nhanh từ 2022, nhiều ngân hàng Mỹ mang khoản lỗ chưa ghi nhận lớn trên danh mục trái phiếu; sự sụp đổ của Silicon Valley Bank và vài ngân hàng vùng miền năm 2023 cho thấy giá trị sổ sách có thể lệch xa giá trị kinh tế. Về dự phòng, chuẩn mực đã chuyển từ mô hình "tổn thất đã phát sinh" sang "tổn thất tín dụng kỳ vọng" (IFRS 9 từ 2018, CECL ở Mỹ từ 2020), làm thay đổi đúng vấn đề làm phẳng lợi nhuận mà chương mô tả; bảo hiểm cũng có chuẩn mực mới IFRS 17 (2023). Bài học của chương về việc đọc kỹ chất lượng tài sản và vùng đệm vốn vì thế càng đúng hơn.
+Damodaran dựa vào lập luận rằng tài sản ngân hàng được đánh giá theo giá thị trường nên giá trị sổ sách đáng tin. Theo hiểu biết của người tổng hợp (không tra cứu), đây chỉ đúng một phần: phần lớn khoản cho vay và các trái phiếu xếp vào nhóm "giữ đến đáo hạn" vẫn ghi theo giá gốc phân bổ.
+
+Khi lãi suất tăng nhanh từ 2022, nhiều ngân hàng Mỹ mang khoản lỗ chưa ghi nhận lớn trên danh mục trái phiếu; sự sụp đổ của Silicon Valley Bank và vài ngân hàng vùng miền năm 2023 cho thấy giá trị sổ sách có thể lệch xa giá trị kinh tế.
+
+Về dự phòng, chuẩn mực đã chuyển từ mô hình "tổn thất đã phát sinh" sang "tổn thất tín dụng kỳ vọng" (IFRS 9 từ 2018, CECL ở Mỹ từ 2020), làm thay đổi đúng vấn đề làm phẳng lợi nhuận mà chương mô tả; bảo hiểm cũng có chuẩn mực mới IFRS 17 (2023). Bài học của chương về việc đọc kỹ chất lượng tài sản và vùng đệm vốn vì thế càng đúng hơn.
 
 ### Dự đoán của Damodaran về quy định và beta sau 2008 phần lớn đã thành hiện thực
 
-Chương dự đoán khủng hoảng 2008 sẽ khiến quy định ngân hàng bị siết toàn cầu. Theo hiểu biết của người tổng hợp, sau đó có khung Basel III (yêu cầu vốn cấp 1 cao hơn, thêm vùng đệm bảo toàn vốn và vùng đệm chống chu kỳ, yêu cầu thanh khoản), luật Dodd-Frank ở Mỹ và các bài kiểm tra sức chịu đựng hằng năm. Yêu cầu vốn cao hơn nghĩa là đòn bẩy thấp hơn và, theo đúng công thức của chương, ROE bền vững thấp hơn mức 16–20% trước khủng hoảng: kịch bản "lãi thấp hơn, rủi ro cao hơn" cho Wells Fargo (ROE 12%) gần với thực tế của các ngân hàng lớn trong thập niên 2010 hơn kịch bản "hồi phục nhanh" (18,91%). Đồng thời lãi suất gần 0 kéo dài (2009–2015 và 2020–2021) đã ép biên lãi ròng, một yếu tố chương không đề cập.
+Chương dự đoán khủng hoảng 2008 sẽ khiến quy định ngân hàng bị siết toàn cầu. Theo hiểu biết của người tổng hợp, sau đó có khung Basel III (yêu cầu vốn cấp 1 cao hơn, thêm vùng đệm bảo toàn vốn và vùng đệm chống chu kỳ, yêu cầu thanh khoản), luật Dodd-Frank ở Mỹ và các bài kiểm tra sức chịu đựng hằng năm.
+
+Yêu cầu vốn cao hơn nghĩa là đòn bẩy thấp hơn và, theo đúng công thức của chương, ROE bền vững thấp hơn mức 16–20% trước khủng hoảng: kịch bản "lãi thấp hơn, rủi ro cao hơn" cho Wells Fargo (ROE 12%) gần với thực tế của các ngân hàng lớn trong thập niên 2010 hơn kịch bản "hồi phục nhanh" (18,91%). Đồng thời lãi suất gần 0 kéo dài (2009–2015 và 2020–2021) đã ép biên lãi ròng, một yếu tố chương không đề cập.
 
 ### Có những quan điểm trái chiều về cách tiếp cận của chương
 
-Một số nhà phân tích ngành ngân hàng cho rằng có thể định giá ngân hàng theo DCF ở cấp vốn chủ sở hữu bằng cách mô hình hoá trực tiếp bảng cân đối (tăng trưởng tiền gửi, cho vay, biên lãi ròng, chi phí tín dụng), thay vì chỉ dựa vào cổ tức hay ROE tổng hợp; cách này phức tạp hơn nhưng cho thấy nguồn gốc ROE. Ngoài ra, việc không điều chỉnh đòn bẩy cho beta giả định đòn bẩy đồng nhất, trong khi khủng hoảng 2008 cho thấy chênh lệch đòn bẩy (ví dụ giữa ngân hàng đầu tư và ngân hàng thương mại) lại chính là nguồn rủi ro lớn nhất. Cuối cùng, việc dùng hồi quy để kết luận "định giá cao/thấp" chỉ cho biết vị trí tương đối so với nhóm; nếu cả nhóm bị định giá sai (như năm 2009) thì kết luận tương đối không nói gì về giá trị tuyệt đối.
+Một số nhà phân tích ngành ngân hàng cho rằng có thể định giá ngân hàng theo DCF ở cấp vốn chủ sở hữu bằng cách mô hình hoá trực tiếp bảng cân đối (tăng trưởng tiền gửi, cho vay, biên lãi ròng, chi phí tín dụng), thay vì chỉ dựa vào cổ tức hay ROE tổng hợp; cách này phức tạp hơn nhưng cho thấy nguồn gốc ROE.
+
+Ngoài ra, việc không điều chỉnh đòn bẩy cho beta giả định đòn bẩy đồng nhất, trong khi khủng hoảng 2008 cho thấy chênh lệch đòn bẩy (ví dụ giữa ngân hàng đầu tư và ngân hàng thương mại) lại chính là nguồn rủi ro lớn nhất. Cuối cùng, việc dùng hồi quy để kết luận "định giá cao/thấp" chỉ cho biết vị trí tương đối so với nhóm; nếu cả nhóm bị định giá sai (như năm 2009) thì kết luận tương đối không nói gì về giá trị tuyệt đối.
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích
 
-Khi xem một cổ phiếu ngân hàng hay bảo hiểm, câu hỏi đầu tiên nên là: ROE bền vững của công ty này là bao nhiêu, và nó cao hay thấp hơn chi phí vốn chủ sở hữu? Nếu cao hơn, P/B trên 1 là hợp lý; nếu thấp hơn, kể cả P/B dưới 1 cũng chưa chắc rẻ. Tiếp theo, kiểm tra tính nhất quán: tốc độ tăng trưởng mà thị trường hay công ty kỳ vọng có tương thích với ROE và tỷ lệ giữ lại không. Sau đó mới tới các yếu tố định tính mà chương liệt kê: vùng đệm vốn so với mức tối thiểu, mức tập trung vào khách hàng rủi ro, mức độ minh bạch của báo cáo, và rào cản gia nhập. Với người đọc ở Việt Nam, khung này áp dụng trực tiếp được cho cổ phiếu ngân hàng và bảo hiểm niêm yết, nơi P/B là bội số được dùng phổ biến nhất: so P/B giữa các ngân hàng mà không đặt cạnh ROE, chất lượng tài sản và tỷ lệ an toàn vốn sẽ dễ dẫn tới kết luận sai; và ở một thị trường mà việc cấp phép ngân hàng mới bị kiểm soát chặt, điểm thứ tư của Damodaran về rào cản gia nhập giải thích một phần vì sao ROE của ngân hàng có thể cao hơn ở các thị trường cạnh tranh hơn.
+Khi xem một cổ phiếu ngân hàng hay bảo hiểm, câu hỏi đầu tiên nên là: ROE bền vững của công ty này là bao nhiêu, và nó cao hay thấp hơn chi phí vốn chủ sở hữu? Nếu cao hơn, P/B trên 1 là hợp lý; nếu thấp hơn, kể cả P/B dưới 1 cũng chưa chắc rẻ.
+
+Tiếp theo, kiểm tra tính nhất quán: tốc độ tăng trưởng mà thị trường hay công ty kỳ vọng có tương thích với ROE và tỷ lệ giữ lại không. Sau đó mới tới các yếu tố định tính mà chương liệt kê: vùng đệm vốn so với mức tối thiểu, mức tập trung vào khách hàng rủi ro, mức độ minh bạch của báo cáo, và rào cản gia nhập.
+
+Với người đọc ở Việt Nam, khung này áp dụng trực tiếp được cho cổ phiếu ngân hàng và bảo hiểm niêm yết, nơi P/B là bội số được dùng phổ biến nhất: so P/B giữa các ngân hàng mà không đặt cạnh ROE, chất lượng tài sản và tỷ lệ an toàn vốn sẽ dễ dẫn tới kết luận sai; và ở một thị trường mà việc cấp phép ngân hàng mới bị kiểm soát chặt, điểm thứ tư của Damodaran về rào cản gia nhập giải thích một phần vì sao ROE của ngân hàng có thể cao hơn ở các thị trường cạnh tranh hơn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (vì sao quy định, kế toán và nợ làm hỏng cách định giá thông thường; mô hình chiết khấu cổ tức nhất quán; Wells Fargo và dòng tiền vốn chủ sở hữu; lợi nhuận vượt mức và Goldman Sachs; định giá tương đối bằng P/E và P/B; cách tìm cơ hội và kết luận), mỗi nhánh ghi công thức, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: định giá thẳng vốn chủ sở hữu ngân hàng và bảo hiểm, ROE dài hạn so với chi phí vốn quyết định giá trị`"]
+  n1["`Mục 1–3 — Quy định, kế toán và nợ làm hỏng cách định giá thông thường`"]
+  n0 --- n1
+  n2["`Bốn nhóm theo cách kiếm tiền: ngân hàng, công ty bảo hiểm, ngân hàng đầu tư, công ty đầu tư`"]
+  n1 --- n2
+  n3["`Ngân hàng kiếm chênh lệch lãi cho vay và lãi trả người gửi, cộng phí dịch vụ`"]
+  n2 --- n3
+  n4["`Công ty bảo hiểm thu phí bảo hiểm và thu nhập từ danh mục đầu tư giữ để bồi thường`"]
+  n2 --- n4
+  n5["`Citigroup, từ vụ sáp nhập Travelers và Citicorp, có mặt ở cả bốn mảng`"]
+  n2 --- n5
+  n6["`Quy định: tỷ lệ vốn tối thiểu trên giá trị sổ sách, giới hạn nơi đầu tư, kiểm soát gia nhập và sáp nhập`"]
+  n1 --- n6
+  n7["`Luật Glass-Steagall cấm ngân hàng thương mại làm ngân hàng đầu tư tới khoảng 1999`"]
+  n6 --- n7
+  n8["`Giả định tăng trưởng và tái đầu tư phải vượt qua được ràng buộc của quy định`"]
+  n6 --- n8
+  n9["`Đánh giá theo giá thị trường: ROE ngân hàng đo lợi nhuận trên giá trị đã cập nhật, không phải vốn gốc`"]
+  n1 --- n9
+  n10["`Ngân hàng tự quyết mức dự phòng rủi ro tín dụng: ngân hàng mạnh tay trích ít, báo lãi cao hơn thời kỳ tốt`"]
+  n1 --- n10
+  n11["`Nợ là nguyên liệu: nợ với ngân hàng như thép với nhà máy, nên vốn chỉ là vốn chủ sở hữu`"]
+  n1 --- n11
+  n12["`Coi tiền gửi là nợ thì lợi nhuận hoạt động phải tính trước lãi trả người gửi, khoản chi lớn nhất`"]
+  n11 --- n12
+  n13["`Vốn chủ sở hữu là lát mỏng, tài sản đổi giá chút ít cũng làm vốn chủ sở hữu dao động mạnh`"]
+  n11 --- n13
+  n14["`Không đo được tái đầu tư nên không tính được dòng tiền tự do và tăng trưởng`"]
+  n1 --- n14
+  n15["`Chi đầu tư vốn gần bằng 0 vì đầu tư vào thương hiệu, con người được ghi vào chi phí hoạt động`"]
+  n14 --- n15
+  n16["`Vốn lưu động lớn, thất thường, không liên quan tới tăng trưởng`"]
+  n14 --- n16
+  n17["`Mục 4.1–4.3 — Định giá vốn chủ sở hữu bằng mô hình cổ tức nhất quán`"]
+  n0 --- n17
+  n18["`Bỏ WACC và giá trị doanh nghiệp, chiết khấu dòng tiền vốn chủ sở hữu theo chi phí vốn chủ sở hữu`"]
+  n17 --- n18
+  n19["`Ba lựa chọn: dùng cổ tức, định nghĩa lại FCFE theo vốn quy định, hoặc mô hình lợi nhuận vượt mức`"]
+  n17 --- n19
+  n20["`Mô hình Gordon: Giá trị mỗi cổ phiếu = DPS1 / (ke − g)`"]
+  n17 --- n20
+  n21["`Beta từ dưới lên của nhóm định nghĩa hẹp, không điều chỉnh đòn bẩy vì đòn bẩy tương tự nhau do quy định`"]
+  n17 --- n21
+  n22["`Beta Mỹ 2/2009: ngân hàng lớn 0,71, ngân hàng nhỏ 0,91, ngân hàng đầu tư 1,50`"]
+  n21 --- n22
+  n23["`Mảng rủi ro hơn (chứng khoán hoá, tự doanh) có beta cao hơn, beta tiến về 1 khi trưởng thành`"]
+  n21 --- n23
+  n24["`Tăng trưởng = ROE × (1 − Tỷ lệ chi trả): ROE 12%, chi trả 60% cho tăng trưởng 4,8%`"]
+  n17 --- n24
+  n25["`ROE tăng từ 10% lên 12% cho thêm 20% tăng trưởng nhờ hiệu quả, nhưng chỉ tạm thời`"]
+  n24 --- n25
+  n26["`Giai đoạn ổn định: Tỷ lệ chi trả = 1 − g / ROE ổn định`"]
+  n24 --- n26
+  n27["`Cộng mua lại cổ phiếu vào cổ tức thành tỷ lệ chi trả tổng hợp, xem qua nhiều năm`"]
+  n24 --- n27
+  n28["`Con số then chốt khi định giá ngân hàng là ROE dài hạn, không phải cổ tức, lợi nhuận hay tăng trưởng`"]
+  n17 --- n28
+  n29["`Mục 4.4–4.5 — Wells Fargo 2/2009 và dòng tiền vốn chủ sở hữu`"]
+  n0 --- n29
+  n30["`Cổ tức 2008 1,30 USD, EPS 1,71 USD, chi trả 76%: tăng 4% mãi mãi đòi ROE 16,67%`"]
+  n29 --- n30
+  n31["`Lợi nhuận chuẩn hoá = 47.628 × 18,91% = 9.006 triệu USD, chi trả 84,14% cho tăng trưởng 3%`"]
+  n29 --- n31
+  n32["`Chi phí vốn 9% = 3% + 1 × 6%, giá trị vốn chủ sở hữu 126.294 triệu USD`"]
+  n29 --- n32
+  n33["`ROE 15%, ke 10% cho 81.648#59; ROE 12%, ke 11% chỉ còn 53.582 triệu USD`"]
+  n29 --- n33
+  n34["`So vốn hoá 66.643: rẻ nếu trở lại bình thường, không rẻ nếu ngân hàng rủi ro hơn và kém sinh lời hơn`"]
+  n29 --- n34
+  n35["`FCFE = Lợi nhuận ròng − Tái đầu tư vào vốn theo quy định`"]
+  n29 --- n35
+  n36["`Tỷ lệ vốn 5%: lãi 15, cổ tức 5, giữ lại 10 triệu USD cho phép cho vay thêm 200 triệu USD`"]
+  n35 --- n36
+  n37["`Sinh lời 0,5% trên 200 triệu USD cho vay thêm mang lại 1 triệu USD lợi nhuận ròng`"]
+  n35 --- n37
+  n38["`Mục 4.6–4.7 — Lợi nhuận vượt mức và Goldman Sachs`"]
+  n0 --- n38
+  n39["`Giá trị vốn chủ sở hữu = Giá trị sổ sách + giá trị hiện tại của (ROE − ke) × vốn chủ sở hữu`"]
+  n38 --- n39
+  n40["`ROE đúng bằng chi phí vốn thì giá trị hội tụ về đúng giá trị sổ sách`"]
+  n39 --- n40
+  n41["`Giá trị sổ sách đáng tin hơn ở công ty tài chính: tài sản theo giá thị trường, khấu hao không đáng kể`"]
+  n39 --- n41
+  n42["`Goldman lãi 2.322 triệu USD năm 2008, so với 11.599 triệu USD năm trước`"]
+  n38 --- n42
+  n43["`ke = 3% + 1,5 × 6% = 12%, ROE 9% trong 5 năm: lợi nhuận vượt mức âm từ −1.980 tới −2.641`"]
+  n38 --- n43
+  n44["`Giá trị hiện tại 5 năm −8.154, từ năm 6 beta 1,2, ke = ROE = 10,2% nên giá trị cuối kỳ bằng 0`"]
+  n38 --- n44
+  n45["`66.012 − 8.154 = 57.859 triệu USD, tức 125,29 USD mỗi cổ phiếu, so với giá 96,45 USD`"]
+  n38 --- n45
+  n46["`Mục 5 — Định giá tương đối chỉ dùng P/E và P/B`"]
+  n0 --- n46
+  n47["`Loại EV/EBITDA, EV/EBIT và P/doanh thu vì không đo được EV, lợi nhuận hoạt động, doanh thu`"]
+  n46 --- n47
+  n48["`P/E cao hơn khi tăng trưởng cao, chi trả cao, chi phí vốn thấp`"]
+  n46 --- n48
+  n49["`Ngân hàng trích dự phòng thận trọng báo lãi thấp hơn nên P/E cao hơn`"]
+  n48 --- n49
+  n50["`Công ty nhiều mảng: tách lợi nhuận từng mảng và định giá riêng`"]
+  n48 --- n50
+  n51["`23 công ty bảo hiểm: P/E = 12,41 + 109,95 × Tăng trưởng − 6,60 × Beta, R² 59%`"]
+  n48 --- n51
+  n52["`Manulife P/E 5,4 so với dự đoán 2,22 nên đắt 143% vì beta 2,41, American Financial rẻ 41%`"]
+  n48 --- n52
+  n53["`P/B có biến đi kèm quan trọng nhất là ROE`"]
+  n46 --- n53
+  n54["`Ngân hàng Mỹ vốn hoá trên 1 tỷ USD: R² 0,519, tương quan trên 0,70 ngay giữa khủng hoảng`"]
+  n53 --- n54
+  n55["`18 ngân hàng nhỏ: P/B = 1,527 + 8,63 × ROE − 2,63 × Độ lệch chuẩn, R² 31%`"]
+  n53 --- n55
+  n56["`Tompkins P/B 2,75 so với dự đoán 1,95 nên có vẻ đắt`"]
+  n53 --- n56
+  n57["`Mục 6–7 — Cách tìm cơ hội và kết luận`"]
+  n0 --- n57
+  n58["`Khủng hoảng 2008 xoá ảo tưởng rằng cơ quan quản lý giữ ngân hàng khỏi rủi ro quá mức`"]
+  n57 --- n58
+  n59["`Vùng đệm vốn: tỷ lệ vốn 12% an toàn hơn tỷ lệ 8%`"]
+  n57 --- n59
+  n60["`Rủi ro tài sản: cho vay người tín dụng xấu, bảo hiểm người rủi ro cao thì rủi ro hơn`"]
+  n57 --- n60
+  n61["`Minh bạch: thông tin bị giữ lại thường là tin xấu, nên chọn công ty công bố nhiều`"]
+  n57 --- n61
+  n62["`Rào cản gia nhập: hạn chế ngân hàng nước ngoài giúp ngân hàng thị trường mới nổi lãi cao hơn`"]
+  n57 --- n62
+  n63["`Quy định có thể tạo lợi nhuận vượt mức (hạn chế cạnh tranh) hoặc chặn nó (cấm vào một mảng)`"]
+  n57 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Đừng lấy cổ tức hiện tại nhân tăng trưởng lịch sử, hãy kiểm tra cổ tức và tăng trưởng có khớp ROE dài hạn`"]
+  n64 --- n65
+  n66["`Giá dưới giá trị sổ sách chưa chắc rẻ: ROE dưới chi phí vốn thì giá trị nội tại cũng dưới giá trị sổ sách`"]
+  n64 --- n66
+  n67["`P/B = (ROE − g) / (ke − g): P/B lớn hơn 1 khi và chỉ khi ROE lớn hơn ke`"]
+  n64 --- n67
+  n68["`Trong khủng hoảng, định giá theo nhiều kịch bản ROE và chi phí vốn vì kết luận rẻ hay đắt có thể đảo ngược`"]
+  n64 --- n68
+  class n0 root
+  class n1,n17,n29,n38,n46,n57,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 3 "Special Situations in Valuation", Chương 9 "Valuing Financial Service Companies", trang 214–240 (trang 213 là trang tên Phần 3).
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần 1 (Chương 2–4: [C02](C02-cong-cu-cua-nghe-dinh-gia.md), [C03](C03-gia-tri-noi-tai.md), [C04](C04-dinh-gia-tuong-doi.md)) dựng bộ công cụ: giá trị thời gian của tiền, suất chiết khấu, dòng tiền tự do, định giá nội tại bằng chiết khấu dòng tiền (DCF) và định giá tương đối bằng bội số. Phần 2 (Chương 5–8: [C05](C05-dinh-gia-cong-ty-tre-tang-truong.md), [C06](C06-dinh-gia-cong-ty-tang-truong.md), [C07](C07-dinh-gia-cong-ty-truong-thanh.md), [C08](C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md)) áp bộ công cụ đó cho doanh nghiệp ở từng giai đoạn của vòng đời.
+
+Chương 9 mở đầu Phần 3 "Các tình huống đặc biệt trong định giá": ở đây vấn đề không nằm ở giai đoạn vòng đời mà ở bản chất ngành. Ngân hàng, công ty bảo hiểm, ngân hàng đầu tư dùng nợ làm "nguyên liệu" chứ không phải nguồn vốn, và không có chi đầu tư vốn hay vốn lưu động đo được, nên hai viên gạch nền của các chương trước (phân biệt nợ với vốn chủ sở hữu, và tính dòng tiền tự do sau tái đầu tư) đều lung lay.
+
+Chương này chỉ cách chuyển sang định giá thẳng vốn chủ sở hữu: mô hình chiết khấu cổ tức, dòng tiền vốn chủ sở hữu với tái đầu tư là vốn theo quy định, và mô hình lợi nhuận vượt mức; trong định giá tương đối thì chỉ dùng bội số vốn chủ sở hữu (P/E, P/B). Chương 10 ([C10](C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md)) tiếp tục Phần 3 với công ty chu kỳ và hàng hoá cơ bản, nơi ý tưởng "lợi nhuận chuẩn hoá" mà chương này dùng cho Wells Fargo được phát triển đầy đủ hơn; Chương 11 ([C11](C11-dinh-gia-cong-ty-co-tai-san-vo-hinh.md)) bàn tài sản vô hình, cũng là loại đầu tư mà công ty dịch vụ tài chính ghi vào chi phí hoạt động.
+
+## Lưu ý
+
+- **Dẫn chiếu sót lại từ sách khác.** Minh hoạ 9.1 mở đầu bằng "trong minh hoạ 14.1, chúng ta đã xem xét…" và câu trước đó nhắc "phần nói về mặt tối" (the section on the dark side). Trong bản thảo này không có minh hoạ 14.1 hay phần nào như vậy.
+
+  Theo hiểu biết của người tổng hợp (không tra cứu), đoạn này có lẽ được chuyển từ sách *The Dark Side of Valuation* của cùng tác giả. Nội dung được dẫn, theo chính đoạn văn, là: nếu lấy cổ tức năm 2008 của Wells Fargo (1,30 USD/cổ phiếu) làm gốc và cho tăng 4%/năm theo lịch sử thì sẽ định giá quá cao, vì cổ tức 2008 bị thổi phồng và tăng trưởng 4% không khớp với tỷ lệ chi trả 76%.
+
+  Câu "chi phí vốn chủ sở hữu 9% mà chúng ta đã ước tính trước đây" cũng không có chỗ nào trước đó trong chương; nguồn duy nhất là chú thích 50 (beta 1, phần bù rủi ro 6%, lãi suất phi rủi ro 3%).
+- **Lỗi đánh máy trong công thức Wells Fargo:** "16..67%" (thừa dấu chấm). Đúng là 4% / (1 − 0,76) = 16,67%. Nếu dùng tỷ lệ chi trả chính xác 1,30 / 1,71 = 76,02% thì ROE ngầm định là 16,68%.
+- **Hai con số giá trị thị trường của Wells Fargo:** phần chữ ghi 66.640 triệu USD, Bảng 9.2 ghi 66.643 triệu USD. Chênh lệch không đáng kể.
+- **Giá trị Wells Fargo kịch bản lạc quan:** 9.006 × 0,8414 / 0,06 bằng 126.300 triệu USD nếu dùng đúng các số đã làm tròn trong công thức; con số 126.293,58 của sách dùng tỷ lệ chi trả chưa làm tròn (0,841354). Người tổng hợp đã tính lại cả ba kịch bản của Bảng 9.2: đều khớp.
+- **Goldman Sachs — các con số đầu vào không khớp nhau:**
+  - Phần chữ nói giá trị sổ sách vốn chủ sở hữu là 60,6 tỷ USD, nhưng bảng tính và kết quả lại dùng 66.012 triệu USD. Sách không giải thích chênh lệch (có thể một con số gồm cổ phiếu ưu đãi, con số kia thì không; đây là suy đoán của người tổng hợp).
+  - Vốn hoá thị trường được nêu là 48,7 tỷ USD, nhưng giá 96,45 USD × 461,874 triệu cổ phiếu chỉ cho khoảng 44,55 tỷ USD.
+  - Tỷ lệ chi trả 17,05% được nói là "dựa trên cổ tức hiện tại và lợi nhuận chuẩn hoá", nhưng cổ tức 2008 là 850 triệu USD chia lợi nhuận năm 1 (5.941,08) chỉ được 14,3%; người tổng hợp không tái tạo được con số 17,05%.
+  - Giá trị sổ sách đầu năm 6 được tính là 88.043 × 1,03 = 90.684,47. Theo đúng logic của Bảng 9.3 (giá trị sổ sách tăng thêm phần lợi nhuận giữ lại), giá trị sổ sách đầu năm 6 phải là 88.043,17 + 6.572,67 = 94.615,84 triệu USD, và lợi nhuận ròng năm 6 là 94.615,84 × 10,2% ≈ 9.651 triệu USD chứ không phải 9.249,82. Sai lệch này **không ảnh hưởng tới kết quả**, vì sau năm 5 ROE bằng đúng chi phí vốn chủ sở hữu nên lợi nhuận vượt mức bằng 0 bất kể giá trị sổ sách là bao nhiêu.
+  - Tổng giá trị hiện tại của lợi nhuận vượt mức 5 năm, tính lại: −8.153,4 triệu USD (sách ghi −8.154). Giá trị vốn chủ sở hữu 66.012 − 8.153,4 = 57.858,6 triệu USD; chia 461,874 triệu cổ phiếu được 125,27 USD, sách ghi 125,29 USD. Chênh lệch nhỏ do làm tròn.
+- **Minh hoạ 9.3 (bảo hiểm) có ba chỗ lệch:**
+  - câu dẫn nói so sánh "các công ty bảo hiểm nhân thọ", nhưng danh sách gồm cả bảo hiểm phi nhân thọ (Chubb, Travelers), tái bảo hiểm (Odyssey Re, Transatlantic, Reinsurance Group of America) và môi giới bảo hiểm (Aon, Brown & Brown, Arthur J. Gallagher); tiêu đề Bảng 9.4 ghi đúng hơn là "Insurance Companies"
+  - sách viết P/E thấp nhất 4,11 thuộc về "Nationwide Financial", nhưng trong bảng 4,11 là của Torchmark, và Nationwide không có trong bảng
+  - sách nói hồi quy P/E "theo tốc độ tăng trưởng kỳ vọng và độ lệch chuẩn", nhưng phương trình thực tế dùng hệ số beta
+
+  Người tổng hợp đã tính lại toàn bộ 23 dòng của Bảng 9.5 từ phương trình hồi quy: mọi P/E dự đoán và tỷ lệ % đều khớp; tỷ lệ % được tính bằng P/E thực tế / P/E dự đoán − 1.
+- **Tompkins Financial "định giá cao khoảng 30%":** P/B thực tế 2,75 so với P/B dự đoán 1,95 thì cao hơn 41% (2,75 / 1,95 − 1). Con số "khoảng 30%" tương ứng với cách tính khác: giá phải giảm 29% để về mức dự đoán ((2,75 − 1,95) / 2,75). Cách tính thứ nhất mới nhất quán với Bảng 9.5.
+- **Hồi quy P/B của ngân hàng nhỏ:** thống kê t của biến độ lệch chuẩn ghi (2,36), mang dấu dương, trong khi hệ số là −2,63; theo quy ước của các bảng khác lẽ ra phải ghi (−2,36). Sách cũng viết mối quan hệ ở mẫu này "yếu hơn so với các ngân hàng thương mại", trong khi cả hai mẫu đều là ngân hàng thương mại; ý đúng là "yếu hơn so với mẫu ngân hàng lớn ở Hình 9.1".
+- **Câu bị cụt:** đoạn đầu mục Value Plays dừng ở "…ngay cả khi đầu tư vào ngân hàng lớn, ngân hàng đầu tư" (investment), thiếu phần cuối câu.
+- **Lỗi trình bày nhỏ:** trong mục quy tắc kế toán, hai tiểu mục cùng đánh "a." và cụm "The second is" xuất hiện hai lần; các lỗi chính tả như "we fact two problems", "actual of estimated", "payout out" không làm đổi nghĩa.
+- **Số liệu thị trường 2009.** Các ví dụ dùng lãi suất phi rủi ro 3% và phần bù rủi ro vốn cổ phần 6%, phản ánh giai đoạn khủng hoảng. Theo hiểu biết của người tổng hợp (không tra cứu), sau đó lãi suất trái phiếu chính phủ Mỹ còn xuống thấp hơn nhiều (dưới 1% năm 2020) rồi tăng trở lại trên 4% từ 2022–2023; phần bù rủi ro mà chính Damodaran ước tính thường nằm quanh 4–6% trong thập niên 2010–2020. Bảng beta 9.1 là số liệu tháng 2/2009.
+- **Số phận các công ty ví dụ (theo hiểu biết của người tổng hợp, không tra cứu).** Wells Fargo đã mua lại Wachovia (ký hiệu WB trong Hình 9.1) vào cuối 2008; Wells Fargo vượt qua khủng hoảng và giá cổ phiếu phục hồi mạnh, nhưng từ 2016 dính bê bối mở tài khoản giả và bị Cục Dự trữ Liên bang Mỹ áp trần tổng tài sản từ 2018. Goldman Sachs chuyển thành công ty mẹ ngân hàng (bank holding company) cuối 2008, nhận vốn từ chương trình cứu trợ TARP và hoàn trả năm 2009; giá cổ phiếu vượt xa mức 96,45 USD trong những năm sau. UCBH Holdings (dòng cuối Bảng 9.6, có độ lệch chuẩn giá cổ phiếu cao nhất 77,25%) đã bị cơ quan quản lý đóng cửa ngân hàng con United Commercial Bank vào cuối 2009.

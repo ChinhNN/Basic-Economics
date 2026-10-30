@@ -1,19 +1,17 @@
 # Chương 12 — Những bài học về định giá (Valuation Lessons)
+## Ý chính
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation: How to Value a Company, Pick a Stock and Profit*, bản thảo đầu tiên (14/10/2010; bản in John Wiley & Sons, 2011), Phần 4 "Mopping up" (trang tên phần: trang 299), Chương 12 "Valuation Lessons", trang 300–311.
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York (NYU), chuyên về định giá doanh nghiệp và tài chính doanh nghiệp.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương cuối và là chương duy nhất của Phần 4 "Mopping up" (tạm dịch: "Thu dọn lại"). Chương 1 ([C01](C01-gioi-thieu-ve-gia-tri.md)) đặt câu hỏi giá trị là gì; Phần 1 (Chương 2–4: [C02](C02-cong-cu-cua-nghe-dinh-gia.md), [C03](C03-gia-tri-noi-tai.md), [C04](C04-dinh-gia-tuong-doi.md)) xây công cụ: giá trị thời gian của tiền, rủi ro, định giá chiết khấu dòng tiền (DCF) và định giá tương đối; Phần 2 (Chương 5–8: [C05](C05-dinh-gia-cong-ty-tre-tang-truong.md), [C06](C06-dinh-gia-cong-ty-tang-truong.md), [C07](C07-dinh-gia-cong-ty-truong-thanh.md), [C08](C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md)) áp dụng công cụ cho từng giai đoạn của vòng đời doanh nghiệp; Phần 3 (Chương 9–11: [C09](C09-dinh-gia-cong-ty-dich-vu-tai-chinh.md), [C10](C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md), [C11](C11-dinh-gia-cong-ty-co-tai-san-vo-hinh.md)) xử lý các trường hợp đặc biệt: ngân hàng và công ty dịch vụ tài chính, công ty có tính chu kỳ và công ty hàng hoá cơ bản, công ty có tài sản vô hình. Mỗi chương 5–11 đều chỉ ra những "cám dỗ" sai lầm mà người định giá hay mắc với loại công ty đó (cái mà tác giả gọi là "mặt tối của định giá" — *dark side of valuation*) rồi đề xuất cách xử lý riêng. Chương 12 không đưa thêm công cụ hay ví dụ định giá mới, mà rút các cách xử lý riêng lẻ đó thành mười nguyên tắc chung (gọi là "mệnh đề" — *proposition*) áp dụng được cho mọi công ty, rồi khép lại cuốn sách bằng đúng ý mở đầu: định giá chỉ có vài nguyên lý cơ bản, phần khó nằm ở cách vận dụng linh hoạt.
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **khi đối mặt với sự bất định hay thiếu thông tin, người định giá không nên chạy theo các quy tắc kinh nghiệm lỏng lẻo hay các giả định tự mâu thuẫn, mà nên bám vào một số ít nguyên lý không bao giờ được thoả hiệp và linh hoạt trong mọi thứ còn lại.** Mười mệnh đề là: (1) nguyên lý cơ bản là thứ không được thoả hiệp, còn công cụ thì đổi được; (2) để ý tới thị trường nhưng không để thị trường quyết định giá trị thay mình — sớm quyết định những đầu vào nào lấy theo thị trường (lãi suất phi rủi ro, phần bù rủi ro vốn cổ phần, giá dầu kỳ hạn) và những đầu vào nào mình sẽ tranh luận với thị trường; (3) rủi ro luôn ảnh hưởng tới giá trị, phải nhìn rủi ro bằng mắt nhà đầu tư cận biên, gom tác động của rủi ro vào một hai biến và điều chỉnh rủi ro theo thời gian; (4) tăng trưởng không miễn phí và không phải lúc nào cũng tạo giá trị — một công ty tái đầu tư với tỷ suất lợi nhuận trên vốn đầu tư (ROC) đúng bằng chi phí vốn thì lớn lên mà không giàu thêm cho cổ đông; (5) điều tốt nào cũng kết thúc — một công ty tăng trưởng 100% mỗi năm trong 3 năm qua gần như chắc chắn sẽ tăng chậm hơn trong 3 năm tới; (6) coi chừng rủi ro công ty "không đi hết đường" (truncation risk) ở hai đầu vòng đời; (7) nhìn quá khứ nhưng nghĩ về tương lai; (8) dựa vào luật số lớn — một phần bù rủi ro vốn cổ phần 4% ước tính từ 50 năm số liệu có sai số chuẩn khoảng 3%, còn dùng 100 năm thì sai số chỉ còn khoảng 2%; (9) chấp nhận bất định và xử lý nó mà không đếm rủi ro hai lần; (10) biến câu chuyện về doanh nghiệp thành con số — ví dụ đặt ROC 15% thì phải có lợi thế cạnh tranh giải thích được con số đó, còn thương hiệu thì phải hiện ra qua biên lợi nhuận chứ không phải một khoản "cộng thêm" vào cuối.
+Damodaran muốn người đọc hiểu rằng **khi đối mặt với sự bất định hay thiếu thông tin, người định giá không nên chạy theo các quy tắc kinh nghiệm lỏng lẻo hay các giả định tự mâu thuẫn, mà nên bám vào một số ít nguyên lý không bao giờ được thoả hiệp và linh hoạt trong mọi thứ còn lại.**
 
-> **Lưu ý:**
-> - **Chương này gần như chắc chắn được chép lại từ chương kết của một cuốn sách khác của Damodaran**, *The Dark Side of Valuation* (ấn bản 2, FT Press, 2009) — theo hiểu biết của người tổng hợp, không tra cứu. Dấu hiệu nằm ngay trong văn bản: chương dùng liên tục khái niệm "dark side" như thể đã là trục của cả cuốn sách, và **mọi số chương được dẫn đều không khớp với *The Little Book of Valuation***: (a) "lãi suất phi rủi ro ở chương 6, phần bù rủi ro vốn cổ phần ở chương 7" — trong bản thảo này, hai khái niệm đó được trình bày ở Chương 2 và Chương 3, còn Chương 6, 7 bàn về công ty tăng trưởng và công ty trưởng thành; (b) "định giá một công ty dầu ở chương 14" và "công ty chu kỳ, hàng hoá cơ bản ở Chapter 13" — bản thảo chỉ có 12 chương, phần này tương ứng Chương 10 (ví dụ Exxon Mobil, Toyota); (c) "công ty trẻ tăng trưởng ở chương 9" và "beta toàn phần (total beta) cho doanh nhân và quỹ đầu tư mạo hiểm ở chương 9" — công ty trẻ tăng trưởng nằm ở Chương 5, còn Chương 9 bàn về công ty dịch vụ tài chính; hơn nữa khái niệm beta toàn phần không xuất hiện ở bất kỳ chương nào trong bản thảo này. Bản tổng hợp giữ nguyên ý của các câu dẫn đó nhưng ghi số chương tương ứng trong *The Little Book of Valuation* khi có, và nói rõ khi nội dung được dẫn không có trong cuốn sách này.
-> - Một số khái niệm được nhắc lại như thể "đã bàn" nhưng thực ra không có trong các chương trước của bản thảo: mô phỏng Monte Carlo và cây quyết định như công cụ đánh giá rủi ro (Chương 8 chỉ nhắc mô phỏng như một lựa chọn để xử lý kiệt quệ; Chương 11 dùng mô phỏng để định giá quyền chọn nhân viên), phần bù kiểm soát 20% (control premium), rủi ro quốc hữu hoá với công ty ở thị trường mới nổi, phần bù rủi ro quốc gia như một biến tách riêng (Chương 10 và 11 chỉ nhắc qua), hình ảnh "Mr. Market" của Warren Buffett, phần bù rủi ro vốn cổ phần ngầm định tính cụ thể. Bản tổng hợp giải thích ngắn các khái niệm này trong mục Khái niệm cần biết để người đọc không phải tra.
-> - Lỗi đánh máy hoặc câu chưa hoàn chỉnh ảnh hưởng tới nghĩa: "loosed‐backed rules of thumb" (có lẽ định viết "loosely based" — các quy tắc kinh nghiệm thiếu cơ sở); "where use market inputs" (thiếu chủ ngữ "we"); "focus our attention or estimating" (đúng ra là "on estimating"); "We used the latter technique the values of young, growth companies..." (thiếu động từ, ý là "dùng kỹ thuật sau để điều chỉnh giá trị của..."); "very, young growth companies" (thừa dấu phẩy); "would not survival" (đúng ra là "survive"); "these tools often required" (lẽ ra là thì hiện tại).
-> - Ở Mệnh đề 5, cặp ngoặc bị đảo: bản thảo viết đẩy "returns on capital (equity) towards the cost of equity (capital)", đọc theo cặp sẽ thành ROC tiến về chi phí vốn chủ sở hữu và ROE tiến về chi phí vốn — ngược với cách làm ở mọi chương trước. Đúng phải là ROC tiến về chi phí vốn và ROE tiến về chi phí vốn chủ sở hữu.
-> - Ở Mệnh đề 3, câu "rủi ro thể hiện trong suất chiết khấu hoặc trong dòng tiền đã điều chỉnh rủi ro (which is more than just an expected return)" khó hiểu. Theo hiểu biết của người tổng hợp, ý đúng là dòng tiền tương đương chắc chắn (certainty-equivalent cash flow) — thấp hơn dòng tiền kỳ vọng — chứ không phải "lớn hơn một lợi suất kỳ vọng".
-> - Ở Mệnh đề 9, câu mở đầu nói "phần lớn cuốn sách hướng tới các phản ứng lành mạnh hơn với bất định", nhưng chỉ liệt kê hai phản ứng (chấp nhận bất định; hỏi "nếu… thì sao" vì đúng lý do) rồi chuyển ngay sang câu tóm tắt. Đoạn tóm tắt cuối mệnh đề ("giá trị đã điều chỉnh rủi ro sẽ thay đổi khi hoàn cảnh thay đổi") cũng chỉ nói vắn tắt. Có thể bản thảo đã lược bớt so với bản gốc.
-> - Chương không có bảng, hình hay ví dụ định giá có phép tính. Các con số duy nhất là: tăng trưởng 100%/năm trong 3 năm (Mệnh đề 5); phần bù kiểm soát 20% với sai số chuẩn khoảng 5%, phần bù rủi ro vốn cổ phần lịch sử 4% với sai số chuẩn khoảng 3% (50 năm) và khoảng 2% (100 năm) (Mệnh đề 8); 40% khả năng cổ phiếu bị định giá cao (Mệnh đề 9); ROC 15% (Mệnh đề 10). Người tổng hợp đã kiểm tra con số sai số chuẩn: với độ lệch chuẩn hằng năm của chênh lệch lợi suất cổ phiếu so với trái phiếu chính phủ khoảng 20%, sai số chuẩn của giá trị trung bình là 20% / √50 ≈ 2,8% (làm tròn 3%) và 20% / √100 = 2% — khớp với số của bản thảo. Mức 20% là giả định của người tổng hợp, không có trong sách.
-> - Về số liệu thị trường (theo hiểu biết của người tổng hợp, không tra cứu): mức phần bù rủi ro vốn cổ phần lịch sử 4% được dùng làm ví dụ, trong khi ở Chương 10 bản thảo dùng 6,5% cho năm 2009; phần bù ngầm định Damodaran tự công bố hằng năm dao động khoảng 4–6% trong giai đoạn 2010–2024. Lãi suất phi rủi ro của Mỹ ở mức thấp kéo dài sau 2010, gần 0 trong 2020–2021, rồi tăng mạnh trở lại từ 2022 — đúng loại "đứt gãy cấu trúc" mà Mệnh đề 7 cảnh báo khi tin vào sự quay về mức trung bình.
+Mười mệnh đề là: (1) nguyên lý cơ bản là thứ không được thoả hiệp, còn công cụ thì đổi được. (2) Để ý tới thị trường nhưng không để thị trường quyết định giá trị thay mình — sớm quyết định những đầu vào nào lấy theo thị trường (lãi suất phi rủi ro, phần bù rủi ro vốn cổ phần, giá dầu kỳ hạn) và những đầu vào nào mình sẽ tranh luận với thị trường.
+
+(3) Rủi ro luôn ảnh hưởng tới giá trị, phải nhìn rủi ro bằng mắt nhà đầu tư cận biên, gom tác động của rủi ro vào một hai biến và điều chỉnh rủi ro theo thời gian.
+
+(4) Tăng trưởng không miễn phí và không phải lúc nào cũng tạo giá trị — một công ty tái đầu tư với tỷ suất lợi nhuận trên vốn đầu tư (ROC) đúng bằng chi phí vốn thì lớn lên mà không giàu thêm cho cổ đông. (5) Điều tốt nào cũng kết thúc — một công ty tăng trưởng 100% mỗi năm trong 3 năm qua gần như chắc chắn sẽ tăng chậm hơn trong 3 năm tới.
+
+(6) Coi chừng rủi ro công ty "không đi hết đường" (truncation risk) ở hai đầu vòng đời. (7) Nhìn quá khứ nhưng nghĩ về tương lai. (8) Dựa vào luật số lớn — một phần bù rủi ro vốn cổ phần 4% ước tính từ 50 năm số liệu có sai số chuẩn khoảng 3%, còn dùng 100 năm thì sai số chỉ còn khoảng 2%.
+
+(9) Chấp nhận bất định và xử lý nó mà không đếm rủi ro hai lần. (10) Biến câu chuyện về doanh nghiệp thành con số — ví dụ đặt ROC 15% thì phải có lợi thế cạnh tranh giải thích được con số đó, còn thương hiệu thì phải hiện ra qua biên lợi nhuận chứ không phải một khoản "cộng thêm" vào cuối.
 
 ## Sơ đồ
 
@@ -459,7 +457,9 @@
 
 ### 1. Phần mở đầu chương (trước mục "Enlightening Propositions", trang 300)
 
-Damodaran mở chương bằng việc nhắc lại rằng suốt cuốn sách, ông đã nhấn mạnh tầm quan trọng của các nguyên lý cơ bản trong định giá và cách chúng phải dẫn đường cho người định giá mỗi khi gặp câu hỏi khó. Cái mà ông gọi là "mặt tối của định giá" — những sai lầm, đường tắt, giả định thiếu nhất quán mà người định giá sa vào — mang hình dạng khác nhau ở mỗi loại công ty (công ty trẻ, công ty tăng trưởng, công ty trưởng thành, công ty suy thoái hoặc kiệt quệ, ngân hàng, công ty chu kỳ và hàng hoá cơ bản, công ty có tài sản vô hình), và các cách khắc phục mà sách đưa ra cũng khác nhau theo từng loại. Chương cuối này gom lại các ý cốt lõi giúp chống lại sức hút của mặt tối đó, và trong quá trình ấy điểm nhanh lại nền tảng của cái mà tác giả muốn gọi là "mặt sáng" — cách định giá đúng.
+Damodaran mở chương bằng việc nhắc lại rằng suốt cuốn sách, ông đã nhấn mạnh tầm quan trọng của các nguyên lý cơ bản trong định giá và cách chúng phải dẫn đường cho người định giá mỗi khi gặp câu hỏi khó.
+
+Cái mà ông gọi là "mặt tối của định giá" — những sai lầm, đường tắt, giả định thiếu nhất quán mà người định giá sa vào — mang hình dạng khác nhau ở mỗi loại công ty (công ty trẻ, công ty tăng trưởng, công ty trưởng thành, công ty suy thoái hoặc kiệt quệ, ngân hàng, công ty chu kỳ và hàng hoá cơ bản, công ty có tài sản vô hình), và các cách khắc phục mà sách đưa ra cũng khác nhau theo từng loại. Chương cuối này gom lại các ý cốt lõi giúp chống lại sức hút của mặt tối đó, và trong quá trình ấy điểm nhanh lại nền tảng của cái mà tác giả muốn gọi là "mặt sáng" — cách định giá đúng.
 
 ### 2. Những mệnh đề soi đường (Enlightening Propositions, trang 300)
 
@@ -475,7 +475,7 @@ Tóm lại, tác giả giữ ba thái độ cùng lúc: kiên định với ni�
 
 ### 4. Mệnh đề 2: Để ý tới thị trường nhưng đừng để thị trường quyết định giá trị bạn định ra (Proposition 2: Pay heed to markets but don't let markets determine your valuations, trang 301–302)
 
-Nhiều công ty mà người định giá được yêu cầu định giá đang được giao dịch trên thị trường tài chính và có giá thị trường. Không cần phán xét thị trường có hiệu quả hay không, Damodaran tin rằng cách thị trường định giá tài sản chứa thông tin có giá trị. Thực tế, ước tính lãi suất phi rủi ro và phần bù rủi ro vốn cổ phần mà sách dùng đều đến từ thị trường tài chính: lãi suất phi rủi ro lấy từ giá trái phiếu chính phủ Mỹ, còn phần bù rủi ro vốn cổ phần lấy từ mức của các chỉ số chứng khoán. (Bản thảo ghi hai khái niệm này ở "chương 6" và "chương 7"; trong cuốn sách này chúng được trình bày ở Chương 2 và Chương 3 — xem Lưu ý.)
+Nhiều công ty mà người định giá được yêu cầu định giá đang được giao dịch trên thị trường tài chính và có giá thị trường. Không cần phán xét thị trường có hiệu quả hay không, Damodaran tin rằng cách thị trường định giá tài sản chứa thông tin có giá trị. Thực tế, ước tính lãi suất phi rủi ro và phần bù rủi ro vốn cổ phần mà sách dùng đều đến từ thị trường tài chính: lãi suất phi rủi ro lấy từ giá trái phiếu chính phủ Mỹ, còn phần bù rủi ro vốn cổ phần lấy từ mức của các chỉ số chứng khoán. (Bản thảo ghi hai khái niệm này ở "chương 6" và "chương 7"; trong cuốn sách này chúng được trình bày ở Chương 2 và Chương 3 — xem mục Lưu ý cuối chương.)
 
 Vì thế, khi định giá một công ty, người định giá nên để ý tới giá thị trường vì ba lý do:
 
@@ -485,7 +485,9 @@ Vì thế, khi định giá một công ty, người định giá nên để ý 
 
 Đồng thời, để ý quá nhiều tới thị trường (và giá) có thể dẫn tới tê liệt, vì lúc nào cũng có một bộ giả định khác khiến giá thị trường hiện tại trở nên hợp lý.
 
-Khi định giá công ty, người định giá phải giữ thăng bằng: chấp nhận dữ liệu thị trường cho một số con số (lãi suất phi rủi ro, phần bù rủi ro vốn cổ phần, tỷ trọng nợ và vốn chủ sở hữu theo giá thị trường khi tính chi phí vốn), trong khi lập luận rằng thị trường sai ở những khía cạnh khác. Để giữ được sự tỉnh táo và tính ra giá trị hợp lý, người định giá phải quyết định từ sớm trong quá trình định giá: chấp nhận đầu vào thị trường ở những chỗ nào, và tranh luận với đồng thuận của thị trường ở những chỗ nào. Sách đã lập luận rằng khi định giá từng công ty riêng lẻ, nên chấp nhận đồng thuận của thị trường về lãi suất phi rủi ro và phần bù rủi ro vốn cổ phần, và dồn sự chú ý vào ước tính lợi nhuận và dòng tiền của công ty. Khi định giá một công ty dầu (bản thảo ghi "chương 14"; trong cuốn sách này tương ứng với Chương 10, nơi định giá Exxon Mobil), sách đã lập luận nên dùng giá dầu theo đồng thuận thị trường — lấy từ thị trường giao ngay hoặc thị trường kỳ hạn và tương lai — và giới hạn phần định giá của mình vào việc công ty sẽ khai thác được bao nhiêu dầu và cơ cấu chi phí của nó.
+Khi định giá công ty, người định giá phải giữ thăng bằng: chấp nhận dữ liệu thị trường cho một số con số (lãi suất phi rủi ro, phần bù rủi ro vốn cổ phần, tỷ trọng nợ và vốn chủ sở hữu theo giá thị trường khi tính chi phí vốn), trong khi lập luận rằng thị trường sai ở những khía cạnh khác. Để giữ được sự tỉnh táo và tính ra giá trị hợp lý, người định giá phải quyết định từ sớm trong quá trình định giá: chấp nhận đầu vào thị trường ở những chỗ nào, và tranh luận với đồng thuận của thị trường ở những chỗ nào.
+
+Sách đã lập luận rằng khi định giá từng công ty riêng lẻ, nên chấp nhận đồng thuận của thị trường về lãi suất phi rủi ro và phần bù rủi ro vốn cổ phần, và dồn sự chú ý vào ước tính lợi nhuận và dòng tiền của công ty. Khi định giá một công ty dầu (bản thảo ghi "chương 14"; trong cuốn sách này tương ứng với Chương 10, nơi định giá Exxon Mobil), sách đã lập luận nên dùng giá dầu theo đồng thuận thị trường — lấy từ thị trường giao ngay hoặc thị trường kỳ hạn và tương lai — và giới hạn phần định giá của mình vào việc công ty sẽ khai thác được bao nhiêu dầu và cơ cấu chi phí của nó.
 
 Như một quy tắc chung, chỗ chấp nhận sự khôn ngoan của thị trường và chỗ đi ngược lại phụ thuộc vào hai biến số:
 
@@ -496,11 +498,17 @@ Như một quy tắc chung, chỗ chấp nhận sự khôn ngoan của thị tr�
 
 Đúng là giới học thuật lẫn giới thực hành đã đầu tư rất nhiều nguồn lực để xây dựng các mô hình đánh giá rủi ro và suy ra lợi suất kỳ vọng. Cũng đúng là các mô hình này thường đặt ra giả định về thế giới thực không chịu nổi sự soi xét kỹ. Ví dụ, trong CAPM, để suy ra quan hệ giữa lợi suất kỳ vọng và beta, người ta giả định không có chi phí giao dịch và không có thông tin riêng (thông tin nội bộ). Các nhà phân tích nhìn vào những mô hình này thấy mình không đồng ý với giả định, và điều đó hoàn toàn dễ hiểu; nhưng nhảy từ sự bất đồng đó sang kết luận rằng rủi ro không quan trọng đối với giá trị thì không thể chấp nhận.
 
-Rủi ro ảnh hưởng tới giá trị, bất kể dùng cách tiếp cận nào để tính giá trị. Trong mô hình chiết khấu dòng tiền, rủi ro được thể hiện hoặc trong suất chiết khấu, hoặc trong dòng tiền đã điều chỉnh theo rủi ro (bản thảo diễn đạt chỗ này chưa rõ — xem Lưu ý). Trong định giá tương đối, những công ty rủi ro hơn phải giao dịch ở bội số lợi nhuận, doanh thu và giá trị sổ sách thấp hơn những công ty an toàn hơn.
+Rủi ro ảnh hưởng tới giá trị, bất kể dùng cách tiếp cận nào để tính giá trị. Trong mô hình chiết khấu dòng tiền, rủi ro được thể hiện hoặc trong suất chiết khấu, hoặc trong dòng tiền đã điều chỉnh theo rủi ro (bản thảo diễn đạt chỗ này chưa rõ — xem mục Lưu ý cuối chương). Trong định giá tương đối, những công ty rủi ro hơn phải giao dịch ở bội số lợi nhuận, doanh thu và giá trị sổ sách thấp hơn những công ty an toàn hơn.
 
-**Không phải mọi rủi ro đều như nhau.** Nếu có một bài học nên rút ra từ vài thập kỷ nghiên cứu về rủi ro, thì đó là: một số rủi ro chỉ ảnh hưởng tới một hoặc vài công ty, trong khi những rủi ro khác có hậu quả với một nhóm công ty rộng hơn và với cả thị trường. Vì vậy, khi đánh giá rủi ro để định giá, bắt buộc phải xác định trước ai là nhà đầu tư cận biên của công ty và nhìn rủi ro qua mắt họ. Nếu nhà đầu tư cận biên đã đa dạng hoá, chỉ những rủi ro thị trường hoặc vĩ mô không thể đa dạng hoá mới được ảnh hưởng tới giá trị. Ngược lại, nếu nhà đầu tư cận biên không đa dạng hoá hoặc chỉ đa dạng hoá một phần, phải xét một tập rủi ro rộng hơn nhiều, bao gồm cả rủi ro riêng của công ty. Bản thảo nói đây là ý được dùng (ở "chương 9") để tính beta toàn phần và chi phí vốn chủ sở hữu cho doanh nhân (những người thường không đa dạng hoá) và nhà đầu tư mạo hiểm (chỉ đa dạng hoá một phần). Trong *The Little Book of Valuation*, công ty trẻ được bàn ở Chương 5, và khái niệm beta toàn phần không được trình bày (xem Lưu ý và mục Khái niệm cần biết).
+**Không phải mọi rủi ro đều như nhau.** Nếu có một bài học nên rút ra từ vài thập kỷ nghiên cứu về rủi ro, thì đó là: một số rủi ro chỉ ảnh hưởng tới một hoặc vài công ty, trong khi những rủi ro khác có hậu quả với một nhóm công ty rộng hơn và với cả thị trường. Vì vậy, khi đánh giá rủi ro để định giá, bắt buộc phải xác định trước ai là nhà đầu tư cận biên của công ty và nhìn rủi ro qua mắt họ.
 
-**Rủi ro liên tục và rủi ro rời rạc.** Rủi ro cũng có thể phân loại thành rủi ro liên tục — rủi ro ảnh hưởng tới dòng tiền và giá trị một cách liên tục theo thời gian (ví dụ rủi ro lãi suất, rủi ro tỷ giá) — và rủi ro rời rạc hay gián đoạn — rủi ro có thể nằm im trong thời gian dài nhưng khi xảy ra thì tác động mạnh tới giá trị (ví dụ rủi ro vỡ nợ, rủi ro bị quốc hữu hoá). Damodaran lập luận rằng rủi ro liên tục được phản ánh tốt nhất trong suất chiết khấu, còn rủi ro rời rạc dễ đo hơn bằng cách đánh giá cả xác suất lẫn hậu quả của sự kiện. Sách đã dùng cách thứ hai để điều chỉnh giá trị của công ty trẻ tăng trưởng và công ty kiệt quệ cho rủi ro không sống sót, và giá trị của công ty ở thị trường mới nổi cho rủi ro bị quốc hữu hoá.
+Nếu nhà đầu tư cận biên đã đa dạng hoá, chỉ những rủi ro thị trường hoặc vĩ mô không thể đa dạng hoá mới được ảnh hưởng tới giá trị. Ngược lại, nếu nhà đầu tư cận biên không đa dạng hoá hoặc chỉ đa dạng hoá một phần, phải xét một tập rủi ro rộng hơn nhiều, bao gồm cả rủi ro riêng của công ty.
+
+Bản thảo nói đây là ý được dùng (ở "chương 9") để tính beta toàn phần và chi phí vốn chủ sở hữu cho doanh nhân (những người thường không đa dạng hoá) và nhà đầu tư mạo hiểm (chỉ đa dạng hoá một phần). Trong *The Little Book of Valuation*, công ty trẻ được bàn ở Chương 5, và khái niệm beta toàn phần không được trình bày (xem mục Lưu ý cuối chương và mục Khái niệm cần biết).
+
+**Rủi ro liên tục và rủi ro rời rạc.** Rủi ro cũng có thể phân loại thành rủi ro liên tục — rủi ro ảnh hưởng tới dòng tiền và giá trị một cách liên tục theo thời gian (ví dụ rủi ro lãi suất, rủi ro tỷ giá) — và rủi ro rời rạc hay gián đoạn — rủi ro có thể nằm im trong thời gian dài nhưng khi xảy ra thì tác động mạnh tới giá trị (ví dụ rủi ro vỡ nợ, rủi ro bị quốc hữu hoá).
+
+Damodaran lập luận rằng rủi ro liên tục được phản ánh tốt nhất trong suất chiết khấu, còn rủi ro rời rạc dễ đo hơn bằng cách đánh giá cả xác suất lẫn hậu quả của sự kiện. Sách đã dùng cách thứ hai để điều chỉnh giá trị của công ty trẻ tăng trưởng và công ty kiệt quệ cho rủi ro không sống sót, và giá trị của công ty ở thị trường mới nổi cho rủi ro bị quốc hữu hoá.
 
 **Hai thực hành khi đưa rủi ro vào mô hình định giá:**
 
@@ -509,7 +517,9 @@ Rủi ro ảnh hưởng tới giá trị, bất kể dùng cách tiếp cận n�
 
 ### 6. Mệnh đề 4: Tăng trưởng không miễn phí và không phải lúc nào cũng tạo ra giá trị (Proposition 4: Growth is not free and is not always value adding, trang 304–305)
 
-Nếu có một chủ đề xuyên suốt các thảo luận về tăng trưởng qua các chương, thì đó là: tăng trưởng không miễn phí. Rốt cuộc, tăng trưởng kỳ vọng về lợi nhuận và dòng tiền của một công ty phải đến từ đầu tư mới hoặc từ cải thiện hiệu quả. Tăng trưởng từ cải thiện hiệu quả là hữu hạn — có giới hạn cho việc một công ty có thể trở nên hiệu quả đến đâu — còn tăng trưởng từ đầu tư mới là dài hạn. Đó là lý do mọi bản định giá trong sách đều tính tăng trưởng trong giá trị cuối kỳ hoàn toàn từ đầu tư mới (theo công thức đã dùng ở các chương trước: tốc độ tăng trưởng = tỷ lệ tái đầu tư × tỷ suất lợi nhuận trên vốn đầu tư; ví dụ Exxon Mobil ở Chương 10 tăng trưởng 2% với ROC 21% nên phải tái đầu tư 2% / 21% = 9,52% lợi nhuận hoạt động sau thuế).
+Nếu có một chủ đề xuyên suốt các thảo luận về tăng trưởng qua các chương, thì đó là: tăng trưởng không miễn phí. Rốt cuộc, tăng trưởng kỳ vọng về lợi nhuận và dòng tiền của một công ty phải đến từ đầu tư mới hoặc từ cải thiện hiệu quả. Tăng trưởng từ cải thiện hiệu quả là hữu hạn — có giới hạn cho việc một công ty có thể trở nên hiệu quả đến đâu — còn tăng trưởng từ đầu tư mới là dài hạn.
+
+Đó là lý do mọi bản định giá trong sách đều tính tăng trưởng trong giá trị cuối kỳ hoàn toàn từ đầu tư mới (theo công thức đã dùng ở các chương trước: tốc độ tăng trưởng = tỷ lệ tái đầu tư × tỷ suất lợi nhuận trên vốn đầu tư; ví dụ Exxon Mobil ở Chương 10 tăng trưởng 2% với ROC 21% nên phải tái đầu tư 2% / 21% = 9,52% lợi nhuận hoạt động sau thuế).
 
 Cũng cần nhớ rằng tăng trưởng tự nó không phải lúc nào cũng là điều tốt cho công ty, vì giá trị mà tăng trưởng tạo thêm phụ thuộc vào chất lượng của các khoản đầu tư sinh ra tăng trưởng đó. Đó là lý do sách tập trung rất nhiều vào lợi nhuận vượt mức — được ước tính bằng cách so ROC với chi phí vốn, hoặc ROE với chi phí vốn chủ sở hữu — khi đánh giá tăng trưởng:
 
@@ -528,7 +538,7 @@ Ngoài việc xem xét giá trị mà tăng trưởng tạo ra hay phá huỷ, n
 - **Hiệu ứng quy mô.** Khi công ty lớn lên, ngày càng khó để nó tiếp tục mang lại lợi nhuận vượt mức và tốc độ tăng trưởng như trước. Vì vậy gần như chắc chắn một công ty đã tăng trưởng 100% mỗi năm trong 3 năm qua sẽ tăng chậm hơn trong 3 năm tới. Với công ty trẻ tăng trưởng (Chương 5; bản thảo ghi "chương 9"), sách đã phản ánh thực tế này bằng cách giảm dần tốc độ tăng trưởng kỳ vọng của doanh thu và lợi nhuận qua thời gian.
 - **Cạnh tranh.** Khi công ty thành công, chúng thu hút sự chú ý, dẫn tới bị bắt chước và cạnh tranh tăng lên. Dù công ty có thể giữ được đối thủ ở xa trong thời gian dài (bằng công cụ pháp lý và kinh doanh), cạnh tranh chắc chắn sẽ dần bào mòn khả năng sinh lời và tăng trưởng.
 
-Sách phản ánh sự giảm tốc không tránh khỏi của tăng trưởng bằng cách giả định rằng mọi công ty, dù được đánh giá cao đến đâu, cuối cùng đều trở thành công ty tăng trưởng ổn định — tại thời điểm đó tính giá trị cuối kỳ. Tác động của cạnh tranh theo thời gian được phản ánh bằng cách đẩy biên lợi nhuận của từng công ty về mức trung bình ngành và đẩy ROC về chi phí vốn, ROE về chi phí vốn chủ sở hữu (bản thảo đặt ngoặc đảo cặp — xem Lưu ý).
+Sách phản ánh sự giảm tốc không tránh khỏi của tăng trưởng bằng cách giả định rằng mọi công ty, dù được đánh giá cao đến đâu, cuối cùng đều trở thành công ty tăng trưởng ổn định — tại thời điểm đó tính giá trị cuối kỳ. Tác động của cạnh tranh theo thời gian được phản ánh bằng cách đẩy biên lợi nhuận của từng công ty về mức trung bình ngành và đẩy ROC về chi phí vốn, ROE về chi phí vốn chủ sở hữu (bản thảo đặt ngoặc đảo cặp — xem mục Lưu ý cuối chương).
 
 ### 8. Mệnh đề 6: Coi chừng rủi ro bị "cắt ngang" (Proposition 6: Watch out for truncation risk, trang 306)
 
@@ -549,20 +559,26 @@ Giá trị = Xác suất sống sót × Giá trị hoạt động liên tục + 
 
 Một nghịch lý trong định giá là gần như mọi dữ liệu có sẵn đều nói về quá khứ — phản ánh lịch sử của công ty (báo cáo tài chính quá khứ, beta), của ngành (biên lợi nhuận và ROC trung bình ngành) và của các biến kinh tế vĩ mô (lãi suất, tỷ giá, lợi suất cổ phiếu) — trong khi mọi dự báo cần làm đều về tương lai. Không thể tạo ra dữ liệu cho tương lai, nhưng có thể theo vài quy tắc đơn giản để hạn chế thiệt hại:
 
-**Dùng dữ liệu lịch sử nhưng đừng để bị nó trói buộc.** Một trong những kỹ năng then chốt để định giá tốt là nhận ra khi nào nên dùng dữ liệu quá khứ và khi nào nên tìm cách khác. Với một công ty có lãi và số liệu ít biến động từ năm này qua năm khác, xuất phát từ số liệu năm ngoái để định giá không có hại gì. Nhưng với các công ty chu kỳ và hàng hoá cơ bản (Chương 10 của cuốn sách này; bản thảo ghi "Chapter 13"), sự bám chặt vào năm gốc có thể cho ra giá trị quá cao (hoặc quá thấp) nếu năm gần nhất là đỉnh (hoặc đáy) của chu kỳ. Do đó, sách đã chuẩn hoá lợi nhuận cho các công ty này, dựa trên thông tin trong lịch sử của chính công ty cũng như trong chu kỳ giá hàng hoá. (Ví dụ Exxon Mobil ở Chương 10: lợi nhuận hoạt động trước thuế năm 2008 vượt 60 tỷ USD ứng với giá dầu bình quân 86,55 USD/thùng; khi giá dầu giảm còn 45 USD/thùng vào tháng 3/2009, hồi quy lợi nhuận hoạt động theo giá dầu giai đoạn 1985–2008 cho lợi nhuận hoạt động chuẩn hoá khoảng 34.614 triệu USD.)
+**Dùng dữ liệu lịch sử nhưng đừng để bị nó trói buộc.** Một trong những kỹ năng then chốt để định giá tốt là nhận ra khi nào nên dùng dữ liệu quá khứ và khi nào nên tìm cách khác. Với một công ty có lãi và số liệu ít biến động từ năm này qua năm khác, xuất phát từ số liệu năm ngoái để định giá không có hại gì.
+
+Nhưng với các công ty chu kỳ và hàng hoá cơ bản (Chương 10 của cuốn sách này; bản thảo ghi "Chapter 13"), sự bám chặt vào năm gốc có thể cho ra giá trị quá cao (hoặc quá thấp) nếu năm gần nhất là đỉnh (hoặc đáy) của chu kỳ. Do đó, sách đã chuẩn hoá lợi nhuận cho các công ty này, dựa trên thông tin trong lịch sử của chính công ty cũng như trong chu kỳ giá hàng hoá. (Ví dụ Exxon Mobil ở Chương 10: lợi nhuận hoạt động trước thuế năm 2008 vượt 60 tỷ USD ứng với giá dầu bình quân 86,55 USD/thùng; khi giá dầu giảm còn 45 USD/thùng vào tháng 3/2009, hồi quy lợi nhuận hoạt động theo giá dầu giai đoạn 1985–2008 cho lợi nhuận hoạt động chuẩn hoá khoảng 34.614 triệu USD.)
 
 **Tin vào sự quay về mức trung bình, nhưng coi chừng các đứt gãy và thay đổi cấu trúc.** Bất cứ khi nào dùng dữ liệu lịch sử để dự báo, người định giá đều đang giả định rằng có sự quay về mức trung bình. Nói cách khác, cả các con số vĩ mô như lạm phát và lãi suất, lẫn thông tin riêng của công ty như biên lợi nhuận và tỷ lệ tái đầu tư, đều quay về mức bình thường trong lịch sử. Sự quay về mức trung bình có hậu thuẫn thực nghiệm mạnh, nhưng giả định rằng nó sẽ xảy ra đi kèm hai nguy cơ:
 
 - Thứ nhất, lịch sử đôi khi có những đứt gãy đáng kể, khi hoàn cảnh thay đổi nhiều đến mức các con số khó quay về mức trung bình cũ trong một thời gian rất dài. Đây là trường hợp của Mỹ trong thập niên 1970, khi lạm phát tăng cao và đẩy lãi suất cùng giá hàng hoá lên trong gần một thập kỷ.
 - Thứ hai, không có đồng thuận về "mức bình thường trong lịch sử" chính xác là bao nhiêu với hầu hết các biến. Các nhà phân tích khác nhau có thể nhìn cùng một bộ dữ liệu mà đi tới những phán đoán rất khác nhau về thế nào là bình thường.
 
-**Dùng các ước tính hướng tới tương lai để thay thế hoặc để kiểm tra.** Với một vài biến số, người định giá có thể có được ước tính hướng tới tương lai, dùng trực tiếp trong định giá hoặc để kiểm tra dữ liệu lịch sử. Với phần bù rủi ro vốn cổ phần chẳng hạn, phần bù ngầm định — ước tính dựa trên mức hiện tại của chỉ số chứng khoán và dòng tiền kỳ vọng trong tương lai — là một lựa chọn thay thế cho phần bù lịch sử (Chương 3 có giới thiệu khái niệm này; bản thảo ghi "Chapter 7"). Với giá dầu, thị trường tương lai và kỳ hạn cung cấp các ước tính có thể dùng để định giá công ty thay cho dữ liệu quá khứ. Người định giá có thể thay hẳn các ước tính lịch sử bằng những con số hướng tới tương lai này, hoặc điều chỉnh ước tính lịch sử để phản ánh khác biệt.
+**Dùng các ước tính hướng tới tương lai để thay thế hoặc để kiểm tra.** Với một vài biến số, người định giá có thể có được ước tính hướng tới tương lai, dùng trực tiếp trong định giá hoặc để kiểm tra dữ liệu lịch sử. Với phần bù rủi ro vốn cổ phần chẳng hạn, phần bù ngầm định — ước tính dựa trên mức hiện tại của chỉ số chứng khoán và dòng tiền kỳ vọng trong tương lai — là một lựa chọn thay thế cho phần bù lịch sử (Chương 3 có giới thiệu khái niệm này; bản thảo ghi "Chapter 7").
+
+Với giá dầu, thị trường tương lai và kỳ hạn cung cấp các ước tính có thể dùng để định giá công ty thay cho dữ liệu quá khứ. Người định giá có thể thay hẳn các ước tính lịch sử bằng những con số hướng tới tương lai này, hoặc điều chỉnh ước tính lịch sử để phản ánh khác biệt.
 
 Khép lại mệnh đề này, Damodaran nói chúng ta nên mừng vì định giá không chỉ là việc lấy số liệu năm ngoái và đưa chúng qua một mô hình. Nếu chỉ có vậy, sẽ không cần đến con người, vì máy tính có thể làm việc đó rất dễ dàng. Vai trò của người định giá là xem xét dữ liệu quá khứ, đánh giá mức độ hữu ích của nó, rồi đưa ra dự báo tốt nhất có thể cho tương lai.
 
 ### 10. Mệnh đề 8: Dựa vào luật số lớn (Proposition 8: Draw on the Law of Large Numbers, trang 308–309)
 
-Một trong những biểu hiện của mặt tối mà sách nêu ra là việc dùng quy tắc kinh nghiệm trong định giá. Những quy tắc này trải dài từ một phần bù rủi ro vốn cổ phần cố định (lấy từ một dịch vụ cung cấp dữ liệu) tới việc cộng thêm phần bù vào giá trị cho quyền kiểm soát, cho cộng hưởng và các yếu tố "tốt" khác, và trừ đi chiết khấu cho tính kém thanh khoản và quản trị công ty yếu. Trong nhiều trường hợp, các con số dùng cho những điều chỉnh này đến từ việc nhìn vào dữ liệu quá khứ. Phần bù rủi ro vốn cổ phần lịch sử, chẳng hạn, được ước tính bằng cách lấy trung bình phần chênh lệch lợi suất mà cổ phiếu đạt được so với trái phiếu chính phủ qua những khoảng thời gian dài. Phần bù kiểm soát (20%) xấp xỉ mức mà bên mua đã trả để mua các công ty mục tiêu đang niêm yết trong một thời kỳ dài.
+Một trong những biểu hiện của mặt tối mà sách nêu ra là việc dùng quy tắc kinh nghiệm trong định giá. Những quy tắc này trải dài từ một phần bù rủi ro vốn cổ phần cố định (lấy từ một dịch vụ cung cấp dữ liệu) tới việc cộng thêm phần bù vào giá trị cho quyền kiểm soát, cho cộng hưởng và các yếu tố "tốt" khác, và trừ đi chiết khấu cho tính kém thanh khoản và quản trị công ty yếu.
+
+Trong nhiều trường hợp, các con số dùng cho những điều chỉnh này đến từ việc nhìn vào dữ liệu quá khứ. Phần bù rủi ro vốn cổ phần lịch sử, chẳng hạn, được ước tính bằng cách lấy trung bình phần chênh lệch lợi suất mà cổ phiếu đạt được so với trái phiếu chính phủ qua những khoảng thời gian dài. Phần bù kiểm soát (20%) xấp xỉ mức mà bên mua đã trả để mua các công ty mục tiêu đang niêm yết trong một thời kỳ dài.
 
 Ngay cả khi các ước tính này liên tục được cập nhật và đến từ những dịch vụ có uy tín không chê vào đâu được, chúng không thể được coi là sự thật. Chúng là ước tính dựa trên mẫu, và đi kèm sai số chuẩn đáng kể:
 
@@ -590,7 +606,9 @@ Từ đầu sách, Damodaran đã nhận xét rằng một trong những lý do 
 
 **Chấp nhận sự bất định.** Hãy chấp nhận bất định như một điều hiển nhiên, hiểu rằng dù xây mô hình cẩn thận đến đâu cũng không thể làm nó biến mất. Vì vậy, thêm chi tiết vào mô hình hay làm mô hình phức tạp hơn — hai chiến thuật các nhà phân tích hay dùng để giảm bất định — thường chẳng giúp được bao nhiêu, và có khi còn làm vấn đề tệ hơn.
 
-**Đặt câu hỏi "nếu… thì sao", nhưng vì đúng lý do.** Khi khả năng tiếp cận dữ liệu tốt lên và các công cụ tinh vi hơn để xử lý bất định (mô phỏng Monte Carlo, cây quyết định) ra đời, người ta cũng thấy mặt trái tiềm tàng của việc để các nhà phân tích đưa bản định giá của mình qua những công cụ này. Vấn đề thứ nhất là các công cụ này thường đòi hỏi đầu vào phức tạp, và chất lượng đầu ra phụ thuộc vào chất lượng đầu vào. Mô phỏng chẳng hạn đòi hỏi phải chọn phân phối xác suất cho các đầu vào và tham số cho các phân phối đó — một việc khó, xét tới dữ liệu có thể tiếp cận. Vấn đề thứ hai là một số nhà phân tích dùng chúng như công cụ để *điều chỉnh* rủi ro thay vì *đánh giá* rủi ro, và trong quá trình đó đếm rủi ro hai lần.
+**Đặt câu hỏi "nếu… thì sao", nhưng vì đúng lý do.** Khi khả năng tiếp cận dữ liệu tốt lên và các công cụ tinh vi hơn để xử lý bất định (mô phỏng Monte Carlo, cây quyết định) ra đời, người ta cũng thấy mặt trái tiềm tàng của việc để các nhà phân tích đưa bản định giá của mình qua những công cụ này.
+
+Vấn đề thứ nhất là các công cụ này thường đòi hỏi đầu vào phức tạp, và chất lượng đầu ra phụ thuộc vào chất lượng đầu vào. Mô phỏng chẳng hạn đòi hỏi phải chọn phân phối xác suất cho các đầu vào và tham số cho các phân phối đó — một việc khó, xét tới dữ liệu có thể tiếp cận. Vấn đề thứ hai là một số nhà phân tích dùng chúng như công cụ để *điều chỉnh* rủi ro thay vì *đánh giá* rủi ro, và trong quá trình đó đếm rủi ro hai lần.
 
 Ví dụ: xét một bản định giá chiết khấu dòng tiền, trong đó dòng tiền kỳ vọng được chiết khấu về hiện tại bằng một suất chiết khấu đã điều chỉnh theo rủi ro, và cho ra giá trị cao hơn giá thị trường hiện tại. Giả sử đưa mô hình này qua mô phỏng Monte Carlo, thu được một phân phối giá trị (cho thấy có 40% khả năng cổ phiếu đang bị định giá cao), và trên cơ sở đó quyết định không đầu tư vào công ty. Người định giá đã đếm rủi ro hai lần: một lần khi dùng suất chiết khấu đã điều chỉnh rủi ro, và một lần nữa khi dựa vào kết quả mô phỏng để từ chối.
 
@@ -600,9 +618,15 @@ Tóm lại, bất định và rủi ro là một phần của cuộc sống và 
 
 Một lời phê phán định giá chiết khấu dòng tiền là nó quá tập trung vào con số đến mức bỏ sót các biến định tính, như lòng trung thành của khách hàng, thương hiệu và ban lãnh đạo giỏi. Điều này có thể đúng trong một số trường hợp, khi người định giá ít đặt câu hỏi về các con số và phần lớn đầu vào được lấy từ bên ngoài (ngoại sinh), không xuất phát từ hiểu biết về công ty.
 
-Damodaran hy vọng đã trả lời trực tiếp lời phê phán này qua các bản định giá từng công ty trong sách. Mỗi con số trong một bản định giá chiết khấu dòng tiền phải có một lý lẽ kinh tế — một câu chuyện kinh tế tốt — đứng sau. Vì vậy, khi đặt ROC của một công ty ở mức 15%, cao hơn hẳn chi phí vốn của nó, người định giá phải nghĩ về lợi thế cạnh tranh của công ty (phần lớn là định tính) và cách chúng chuyển thành tỷ suất lợi nhuận trên vốn đó. Theo chiều ngược lại, mỗi câu chuyện kinh tế vững chắc phải tìm được chỗ trong các con số. Thương hiệu có ảnh hưởng tới giá trị, nhưng ảnh hưởng đó đến qua việc làm tăng biên lợi nhuận và lợi nhuận vượt mức, chứ không phải dưới dạng một khoản phần bù cộng vào ở cuối quá trình định giá.
+Damodaran hy vọng đã trả lời trực tiếp lời phê phán này qua các bản định giá từng công ty trong sách. Mỗi con số trong một bản định giá chiết khấu dòng tiền phải có một lý lẽ kinh tế — một câu chuyện kinh tế tốt — đứng sau. Vì vậy, khi đặt ROC của một công ty ở mức 15%, cao hơn hẳn chi phí vốn của nó, người định giá phải nghĩ về lợi thế cạnh tranh của công ty (phần lớn là định tính) và cách chúng chuyển thành tỷ suất lợi nhuận trên vốn đó.
 
-Trong định giá tương đối, xu hướng kể chuyện đôi khi lấn át con số. Một lý do sách dùng các công cụ thống kê (hồi quy và tương quan) trong định giá tương đối không chỉ là để đánh giá xem câu chuyện nền tảng có hợp lý không, mà còn để lượng hoá tác động trong các dự đoán. Chẳng hạn, bằng cách hồi quy P/E theo tăng trưởng kỳ vọng, người định giá có thể đo P/E tăng bao nhiêu với mỗi 1% tăng thêm của tốc độ tăng trưởng, ít nhất là theo cách thị trường đang định giá cổ phiếu trong ngành đó. (Với hồi quy ở Chương 6 cho các công ty may mặc, hệ số 32,04 cho biết mỗi 1 điểm phần trăm tăng trưởng kỳ vọng thêm vào làm P/E dự đoán tăng khoảng 0,32 lần, nếu beta không đổi; với hồi quy cho ngân hàng ở Chương 9, P/E = 12,41 + 109,95 × tăng trưởng kỳ vọng − 6,60 × beta, mỗi 1 điểm phần trăm tăng trưởng làm P/E tăng khoảng 1,1 lần.)
+Theo chiều ngược lại, mỗi câu chuyện kinh tế vững chắc phải tìm được chỗ trong các con số. Thương hiệu có ảnh hưởng tới giá trị, nhưng ảnh hưởng đó đến qua việc làm tăng biên lợi nhuận và lợi nhuận vượt mức, chứ không phải dưới dạng một khoản phần bù cộng vào ở cuối quá trình định giá.
+
+Trong định giá tương đối, xu hướng kể chuyện đôi khi lấn át con số.
+
+Một lý do sách dùng các công cụ thống kê (hồi quy và tương quan) trong định giá tương đối không chỉ là để đánh giá xem câu chuyện nền tảng có hợp lý không, mà còn để lượng hoá tác động trong các dự đoán. Chẳng hạn, bằng cách hồi quy P/E theo tăng trưởng kỳ vọng, người định giá có thể đo P/E tăng bao nhiêu với mỗi 1% tăng thêm của tốc độ tăng trưởng, ít nhất là theo cách thị trường đang định giá cổ phiếu trong ngành đó.
+
+(Với hồi quy ở Chương 6 cho các công ty may mặc, hệ số 32,04 cho biết mỗi 1 điểm phần trăm tăng trưởng kỳ vọng thêm vào làm P/E dự đoán tăng khoảng 0,32 lần, nếu beta không đổi; với hồi quy cho ngân hàng ở Chương 9, P/E = 12,41 + 109,95 × tăng trưởng kỳ vọng − 6,60 × beta, mỗi 1 điểm phần trăm tăng trưởng làm P/E tăng khoảng 1,1 lần.)
 
 ### 13. Kết luận (Conclusion, trang 311)
 
@@ -755,11 +779,13 @@ Chương 12 không có ví dụ định giá mới; bằng chứng chủ yếu l
 
 ### Mười mệnh đề là bản tóm tắt cô đọng và nhất quán của toàn bộ phương pháp Damodaran, có giá trị như một danh mục kiểm tra trước khi tin bất kỳ bản định giá nào
 
-Điểm mạnh của chương là biến các cách khắc phục rải rác qua bảy chương ứng dụng thành những câu hỏi kiểm tra cụ thể: tăng trưởng có được trả bằng tái đầu tư không; ROC có vượt chi phí vốn không và có bị kéo về chi phí vốn theo thời gian không; rủi ro có bị đếm hai lần không; công ty có thể chết giữa đường không; năm gốc có bất thường không; con số "chuẩn" lấy từ đâu và sai số bao nhiêu; câu chuyện có hiện ra trong con số không. Một người đọc chỉ nắm chương này vẫn có thể soát lỗi phần lớn báo cáo định giá của các công ty chứng khoán. Đặc biệt, Mệnh đề 4 (ROC bằng chi phí vốn thì tăng trưởng không tạo giá trị) và Mệnh đề 10 (thương hiệu phải hiện ra qua biên lợi nhuận) là hai ý thường bị bỏ qua nhất trong thực hành.
+Điểm mạnh của chương là biến các cách khắc phục rải rác qua bảy chương ứng dụng thành những câu hỏi kiểm tra cụ thể: tăng trưởng có được trả bằng tái đầu tư không; ROC có vượt chi phí vốn không và có bị kéo về chi phí vốn theo thời gian không; rủi ro có bị đếm hai lần không; công ty có thể chết giữa đường không; năm gốc có bất thường không; con số "chuẩn" lấy từ đâu và sai số bao nhiêu; câu chuyện có hiện ra trong con số không. Một người đọc chỉ nắm chương này vẫn có thể soát lỗi phần lớn báo cáo định giá của các công ty chứng khoán.
+
+Đặc biệt, Mệnh đề 4 (ROC bằng chi phí vốn thì tăng trưởng không tạo giá trị) và Mệnh đề 10 (thương hiệu phải hiện ra qua biên lợi nhuận) là hai ý thường bị bỏ qua nhất trong thực hành.
 
 ### Chương này được chuyển gần như nguyên văn từ một cuốn sách khác, nên mọi tham chiếu chương đều sai và nhiều khái niệm "đã bàn" thực ra chưa từng xuất hiện trong cuốn sách nhỏ này
 
-Như đã ghi trong Lưu ý, các dẫn chiếu "chương 6, 7, 9, 13, 14" và các khái niệm beta toàn phần, mô phỏng Monte Carlo, phần bù kiểm soát, rủi ro quốc hữu hoá cho thấy chương được lấy từ *The Dark Side of Valuation* (theo hiểu biết của người tổng hợp). Hệ quả với người đọc: một số mệnh đề (đặc biệt Mệnh đề 3 và 8) giả định một nền tảng mà *The Little Book of Valuation* không cung cấp, và giọng "mặt tối" xuất hiện đột ngột vì ở các chương trước của bản thảo này cụm từ "dark side" chỉ thỉnh thoảng được dùng. Người dùng bản thảo nên đọc các số chương được dẫn trong chương này theo phần đối chiếu ở khối Lưu ý, không theo số ghi trong bản thảo.
+Như đã ghi trong mục Lưu ý cuối chương, các dẫn chiếu "chương 6, 7, 9, 13, 14" và các khái niệm beta toàn phần, mô phỏng Monte Carlo, phần bù kiểm soát, rủi ro quốc hữu hoá cho thấy chương được lấy từ *The Dark Side of Valuation* (theo hiểu biết của người tổng hợp). Hệ quả với người đọc: một số mệnh đề (đặc biệt Mệnh đề 3 và 8) giả định một nền tảng mà *The Little Book of Valuation* không cung cấp, và giọng "mặt tối" xuất hiện đột ngột vì ở các chương trước của bản thảo này cụm từ "dark side" chỉ thỉnh thoảng được dùng. Người dùng bản thảo nên đọc các số chương được dẫn trong chương này theo phần đối chiếu ở mục Lưu ý cuối chương, không theo số ghi trong bản thảo.
 
 ### Một số mệnh đề đơn giản hoá những vấn đề còn đang tranh luận
 
@@ -770,7 +796,9 @@ Như đã ghi trong Lưu ý, các dẫn chiếu "chương 6, 7, 9, 13, 14" và c
 
 ### Những gì đã thay đổi từ 2010 càng làm nổi bật Mệnh đề 2, 7 và 8
 
-Theo hiểu biết của người tổng hợp (định tính, không tra cứu): lãi suất phi rủi ro của Mỹ ở mức thấp kéo dài sau 2010, gần 0 trong 2020–2021, rồi tăng mạnh từ 2022. Người định giá chấp nhận lãi suất thị trường như Mệnh đề 2 khuyên vẫn nhất quán, nhưng người dùng "lãi suất bình thường" lấy từ trung bình lịch sử đã gặp đúng nguy cơ đứt gãy cấu trúc của Mệnh đề 7 — theo cả hai chiều. Lạm phát tăng lại năm 2021–2022 cũng nhắc lại ví dụ thập niên 1970 của chính Damodaran. Giá dầu biến động rất mạnh (giảm sâu 2014–2016 và 2020, tăng vọt 2022), cho thấy giá trị của khuyến nghị dùng giá thị trường kỳ hạn thay vì dự báo riêng khi định giá công ty dầu. Ngoài ra, chuẩn mực kế toán về thuê tài sản (IFRS 16, ASC 842, áp dụng từ 2019) đã đưa thuê hoạt động lên bảng cân đối, làm thay đổi ROC và tỷ lệ nợ tính từ báo cáo — một ví dụ nữa cho Mệnh đề 7 về việc không thể máy móc so số liệu quá khứ với hiện tại.
+Theo hiểu biết của người tổng hợp (định tính, không tra cứu): lãi suất phi rủi ro của Mỹ ở mức thấp kéo dài sau 2010, gần 0 trong 2020–2021, rồi tăng mạnh từ 2022. Người định giá chấp nhận lãi suất thị trường như Mệnh đề 2 khuyên vẫn nhất quán, nhưng người dùng "lãi suất bình thường" lấy từ trung bình lịch sử đã gặp đúng nguy cơ đứt gãy cấu trúc của Mệnh đề 7 — theo cả hai chiều. Lạm phát tăng lại năm 2021–2022 cũng nhắc lại ví dụ thập niên 1970 của chính Damodaran.
+
+Giá dầu biến động rất mạnh (giảm sâu 2014–2016 và 2020, tăng vọt 2022), cho thấy giá trị của khuyến nghị dùng giá thị trường kỳ hạn thay vì dự báo riêng khi định giá công ty dầu. Ngoài ra, chuẩn mực kế toán về thuê tài sản (IFRS 16, ASC 842, áp dụng từ 2019) đã đưa thuê hoạt động lên bảng cân đối, làm thay đổi ROC và tỷ lệ nợ tính từ báo cáo — một ví dụ nữa cho Mệnh đề 7 về việc không thể máy móc so số liệu quá khứ với hiện tại.
 
 ### Mệnh đề 8 là lời nhắc khiêm tốn quan trọng nhất của chương: phần lớn con số "chuẩn" trong định giá có sai số lớn hơn nhiều so với người dùng tưởng
 
@@ -778,4 +806,184 @@ Con số phần bù rủi ro vốn cổ phần 4% với sai số chuẩn 3% ngh�
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích, kể cả ở thị trường như Việt Nam
 
-Ở mức định tính, các mệnh đề này đặc biệt hữu ích ở thị trường mới nổi như Việt Nam, nơi chuỗi số liệu lịch sử ngắn, số công ty niêm yết cùng ngành ít và rủi ro rời rạc (thay đổi chính sách, rủi ro pháp lý của từng doanh nghiệp) đáng kể. Mệnh đề 3 gợi ý gói rủi ro quốc gia vào một biến duy nhất (phần bù rủi ro quốc gia) thay vì vừa tăng beta, vừa tăng lãi suất phi rủi ro, vừa giảm dòng tiền. Mệnh đề 8 gợi ý dùng beta trung bình ngành của khu vực hoặc toàn cầu thay vì beta hồi quy của một cổ phiếu ít thanh khoản, và mở rộng mẫu công ty so sánh ra ngoài biên giới khi trong nước quá ít. Mệnh đề 4 và 5 là lời nhắc với những doanh nghiệp tăng trưởng nóng bằng vay nợ và mở rộng: tăng trưởng doanh thu chỉ có giá trị khi tỷ suất lợi nhuận trên vốn mới vượt chi phí vốn. Mệnh đề 10 hữu ích khi đọc các báo cáo dựa nhiều vào câu chuyện (thương hiệu, vị thế đầu ngành): hãy hỏi câu chuyện đó đã hiện ra trong biên lợi nhuận và ROC dự phóng hay chưa.
+Ở mức định tính, các mệnh đề này đặc biệt hữu ích ở thị trường mới nổi như Việt Nam, nơi chuỗi số liệu lịch sử ngắn, số công ty niêm yết cùng ngành ít và rủi ro rời rạc (thay đổi chính sách, rủi ro pháp lý của từng doanh nghiệp) đáng kể. Mệnh đề 3 gợi ý gói rủi ro quốc gia vào một biến duy nhất (phần bù rủi ro quốc gia) thay vì vừa tăng beta, vừa tăng lãi suất phi rủi ro, vừa giảm dòng tiền. Mệnh đề 8 gợi ý dùng beta trung bình ngành của khu vực hoặc toàn cầu thay vì beta hồi quy của một cổ phiếu ít thanh khoản, và mở rộng mẫu công ty so sánh ra ngoài biên giới khi trong nước quá ít.
+
+Mệnh đề 4 và 5 là lời nhắc với những doanh nghiệp tăng trưởng nóng bằng vay nợ và mở rộng: tăng trưởng doanh thu chỉ có giá trị khi tỷ suất lợi nhuận trên vốn mới vượt chi phí vốn. Mệnh đề 10 hữu ích khi đọc các báo cáo dựa nhiều vào câu chuyện (thương hiệu, vị thế đầu ngành): hãy hỏi câu chuyện đó đã hiện ra trong biên lợi nhuận và ROC dự phóng hay chưa.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: sáu nhánh lớn đi theo các mục 1–13 trong phần Nội dung chi tiết và phần Đánh giá (nguyên lý cơ bản và thị trường, rủi ro, tăng trưởng và rủi ro bị cắt ngang, dữ liệu quá khứ và luật số lớn, bất định và câu chuyện thành con số, kết luận và nhận xét), mỗi nhánh ghi quy tắc, công thức, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: giữ vững vài nguyên lý không thoả hiệp, linh hoạt về công cụ và ước tính khi gặp bất định`"]
+  n1["`Mục 1–4 — Nguyên lý cơ bản và thị trường (Mệnh đề 1–2)`"]
+  n0 --- n1
+  n2["`Mặt tối của định giá: quy tắc kinh nghiệm thiếu cơ sở và giả định tăng trưởng, rủi ro, dòng tiền không nhất quán`"]
+  n1 --- n2
+  n3["`Cho rằng công ty tăng trưởng mãi mà không tái đầu tư, hay rủi ro không ảnh hưởng giá trị, là vi phạm nguyên lý`"]
+  n1 --- n3
+  n4["`CAPM chỉ là công cụ có thể sửa, thay, thậm chí bỏ, còn beta chỉ là một ước tính`"]
+  n1 --- n4
+  n5["`Nhà đầu tư kiếm tiền khi giá thị trường dịch về giá trị nội tại, không phải từ giá trị mình tính`"]
+  n1 --- n5
+  n6["`Để ý quá mức tới giá gây tê liệt: luôn có bộ giả định khiến giá hiện tại hợp lý`"]
+  n1 --- n6
+  n7["`Lấy theo thị trường: lãi suất phi rủi ro, phần bù rủi ro vốn cổ phần, tỷ trọng nợ theo giá thị trường, giá dầu kỳ hạn`"]
+  n1 --- n7
+  n8["`Tranh luận với thị trường ở lợi nhuận, dòng tiền, sản lượng, cơ cấu chi phí của công ty`"]
+  n7 --- n8
+  n9["`Ranh giới quyết định thật sớm, tuỳ lợi thế cạnh tranh và mô tả công việc của người phân tích`"]
+  n1 --- n9
+  n10["`Mục 5 — Mệnh đề 3: rủi ro luôn ảnh hưởng tới giá trị`"]
+  n0 --- n10
+  n11["`Không đồng ý giả định của CAPM (không chi phí giao dịch, không thông tin nội bộ) không có nghĩa rủi ro vô hại`"]
+  n10 --- n11
+  n12["`DCF đưa rủi ro vào suất chiết khấu, định giá tương đối cho công ty rủi ro hơn bội số thấp hơn`"]
+  n10 --- n12
+  n13["`Nhìn rủi ro qua mắt nhà đầu tư cận biên: đã đa dạng hoá thì chỉ tính rủi ro thị trường`"]
+  n10 --- n13
+  n14["`Doanh nhân, quỹ đầu tư mạo hiểm chưa đa dạng hoá thì phải tính cả rủi ro riêng của công ty`"]
+  n13 --- n14
+  n15["`Rủi ro liên tục như lãi suất, tỷ giá đưa vào suất chiết khấu`"]
+  n10 --- n15
+  n16["`Rủi ro rời rạc như vỡ nợ, quốc hữu hoá đo bằng xác suất xảy ra và hậu quả`"]
+  n10 --- n16
+  n17["`Cô lập rủi ro vào một hai biến, ví dụ rủi ro thị trường mới nổi chỉ nằm trong phần bù rủi ro quốc gia`"]
+  n10 --- n17
+  n18["`Lợi ích: không đếm rủi ro hai ba lần, minh bạch, người dùng dễ sửa và tính lại`"]
+  n17 --- n18
+  n19["`Nhất quán theo thời gian: suất chiết khấu cao ở những năm đầu phải giảm khi tăng trưởng chậm lại`"]
+  n10 --- n19
+  n20["`Ví dụ Chương 3: sau năm 5 beta về 1, tỷ lệ nợ 20%, chi phí vốn giảm từ 8,63% xuống 6,76%`"]
+  n19 --- n20
+  n21["`Mục 6–8 — Mệnh đề 4–6: tăng trưởng có giá và có hạn`"]
+  n0 --- n21
+  n22["`Tăng trưởng đến từ cải thiện hiệu quả (có giới hạn) hoặc đầu tư mới (dài hạn)`"]
+  n21 --- n22
+  n23["`Tăng trưởng = tỷ lệ tái đầu tư × ROC`"]
+  n21 --- n23
+  n24["`Exxon Mobil tăng 2% với ROC 21% phải tái đầu tư 2% / 21% = 9,52%`"]
+  n23 --- n24
+  n25["`Lợi nhuận vượt mức = ROC − chi phí vốn quyết định tăng trưởng có tạo giá trị hay không`"]
+  n21 --- n25
+  n26["`ROC bằng chi phí vốn: lớn lên nhưng không thêm giá trị, ROC thấp hơn: mất giá trị theo thời gian`"]
+  n25 --- n26
+  n27["`Phép thử ban lãnh đạo: tái đầu tư nhiều mà vẫn giữ lợi nhuận vượt mức cao`"]
+  n21 --- n27
+  n28["`Hiệu ứng quy mô: tăng 100% mỗi năm trong 3 năm qua gần như chắc sẽ chậm hơn trong 3 năm tới`"]
+  n21 --- n28
+  n29["`Cạnh tranh kéo biên lợi nhuận về trung bình ngành, ROC về chi phí vốn, ROE về chi phí vốn chủ sở hữu`"]
+  n21 --- n29
+  n30["`Mọi công ty cuối cùng thành công ty tăng trưởng ổn định, tại đó tính giá trị cuối kỳ`"]
+  n21 --- n30
+  n31["`Rủi ro bị cắt ngang lớn nhất ở công ty rất trẻ và công ty suy thoái, kiệt quệ`"]
+  n21 --- n31
+  n32["`Giá trị = xác suất sống sót × giá trị hoạt động liên tục + xác suất thất bại × giá trị thanh lý`"]
+  n31 --- n32
+  n33["`Mục 9–10 — Mệnh đề 7–8: dữ liệu quá khứ và luật số lớn`"]
+  n0 --- n33
+  n34["`Gần như mọi dữ liệu đều là quá khứ, còn mọi dự báo đều về tương lai`"]
+  n33 --- n34
+  n35["`Công ty chu kỳ: năm gốc là đỉnh hay đáy sẽ cho giá trị quá cao hay quá thấp, nên chuẩn hoá lợi nhuận`"]
+  n33 --- n35
+  n36["`Exxon Mobil: lợi nhuận hoạt động trước thuế 2008 hơn 60 tỷ USD, chuẩn hoá ở giá dầu 45 USD còn khoảng 34.614 triệu USD`"]
+  n35 --- n36
+  n37["`Quay về mức trung bình có bằng chứng mạnh, nhưng coi chừng đứt gãy cấu trúc như lạm phát Mỹ thập niên 1970`"]
+  n33 --- n37
+  n38["`Ước tính hướng tới tương lai thay hoặc kiểm tra số lịch sử: phần bù rủi ro ngầm định, giá dầu kỳ hạn`"]
+  n33 --- n38
+  n39["`Phần bù rủi ro vốn cổ phần 4% từ 50 năm số liệu có sai số chuẩn khoảng 3%, từ 100 năm khoảng 2%`"]
+  n33 --- n39
+  n40["`Phần bù kiểm soát 20% có sai số chuẩn khoảng 5%`"]
+  n33 --- n40
+  n41["`Mẫu lớn hơn: beta từ dưới lên, biên lợi nhuận trung bình ngành, nới định nghĩa công ty so sánh`"]
+  n33 --- n41
+  n42["`Dùng P/E dự đoán từ hồi quy ngành thay cho P/E trung bình ngành`"]
+  n33 --- n42
+  n43["`Định giá sai một công ty trong một kỳ là dễ, khả năng đúng tăng khi nắm giữ nhiều kỳ và nhiều cổ phiếu`"]
+  n33 --- n43
+  n44["`Mục 11–12 — Mệnh đề 9–10: bất định và câu chuyện thành con số`"]
+  n0 --- n44
+  n45["`Chấp nhận bất định: thêm chi tiết, làm mô hình phức tạp hơn thường chẳng giúp gì`"]
+  n44 --- n45
+  n46["`Mô phỏng Monte Carlo, cây quyết định cần đầu vào phức tạp, đầu vào kém thì kết quả kém`"]
+  n44 --- n46
+  n47["`Đếm rủi ro hai lần: đã chiết khấu bằng suất điều chỉnh rủi ro, lại từ chối mua vì 40% khả năng định giá cao`"]
+  n44 --- n47
+  n48["`Dùng mô phỏng để đánh giá rủi ro, không để điều chỉnh rủi ro thêm lần nữa`"]
+  n44 --- n48
+  n49["`Mọi con số cần câu chuyện: đặt ROC 15% thì phải chỉ ra lợi thế cạnh tranh tạo ra nó`"]
+  n44 --- n49
+  n50["`Thương hiệu tăng giá trị qua biên lợi nhuận và lợi nhuận vượt mức, không phải khoản cộng thêm ở cuối`"]
+  n44 --- n50
+  n51["`Hồi quy ngành may mặc: P/E = 13,78 + 32,04 × tăng trưởng kỳ vọng − 6,60 × beta`"]
+  n44 --- n51
+  n52["`Thêm 1 điểm phần trăm tăng trưởng làm P/E tăng khoảng 0,32 lần`"]
+  n51 --- n52
+  n53["`Mục 13 và Đánh giá — Kết luận và nhận xét`"]
+  n0 --- n53
+  n54["`Định giá chỉ có vài nguyên lý, cấu trúc ít đổi, nhưng công ty ngày nay toàn cầu hoá và phức tạp hơn`"]
+  n53 --- n54
+  n55["`Quy tắc cứng nhắc không giúp được, hãy lùi lại tìm cách xử lý theo lẽ thường trong giới hạn dữ liệu`"]
+  n53 --- n55
+  n56["`Mười mệnh đề dùng được như danh mục kiểm tra trước khi tin một bản định giá`"]
+  n53 --- n56
+  n57["`Chương gần như chép từ The Dark Side of Valuation nên các số chương được dẫn đều lệch`"]
+  n53 --- n57
+  n58["`Sai số chuẩn 3% nghĩa là khoảng tin cậy của phần bù 4% kéo từ âm tới khoảng 10%`"]
+  n53 --- n58
+  n59["`Ở Việt Nam: gói rủi ro quốc gia vào một biến, dùng beta ngành khu vực, nới mẫu so sánh ra ngoài biên giới`"]
+  n53 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Kiên định về nguyên lý, linh hoạt về công cụ, nguồn dữ liệu và cách ước tính`"]
+  n60 --- n61
+  n62["`Rủi ro chỉ tính một lần, gói trong một hai biến`"]
+  n60 --- n62
+  n63["`Tăng trưởng chỉ tạo giá trị khi ROC vượt chi phí vốn, và mọi lợi thế đều phai dần`"]
+  n60 --- n63
+  n64["`Lợi thế của nhà đầu tư giá trị đến từ danh mục và thời gian, không từ một bản định giá chính xác`"]
+  n60 --- n64
+  class n0 root
+  class n1,n10,n21,n33,n44,n53,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation: How to Value a Company, Pick a Stock and Profit*, bản thảo đầu tiên (14/10/2010; bản in John Wiley & Sons, 2011), Phần 4 "Mopping up" (trang tên phần: trang 299), Chương 12 "Valuation Lessons", trang 300–311.
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York (NYU), chuyên về định giá doanh nghiệp và tài chính doanh nghiệp.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương cuối và là chương duy nhất của Phần 4 "Mopping up" (tạm dịch: "Thu dọn lại"). Chương 1 ([C01](C01-gioi-thieu-ve-gia-tri.md)) đặt câu hỏi giá trị là gì. Phần 1 (Chương 2–4: [C02](C02-cong-cu-cua-nghe-dinh-gia.md), [C03](C03-gia-tri-noi-tai.md), [C04](C04-dinh-gia-tuong-doi.md)) xây công cụ: giá trị thời gian của tiền, rủi ro, định giá chiết khấu dòng tiền (DCF) và định giá tương đối.
+
+Phần 2 (Chương 5–8: [C05](C05-dinh-gia-cong-ty-tre-tang-truong.md), [C06](C06-dinh-gia-cong-ty-tang-truong.md), [C07](C07-dinh-gia-cong-ty-truong-thanh.md), [C08](C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md)) áp dụng công cụ cho từng giai đoạn của vòng đời doanh nghiệp. Phần 3 (Chương 9–11: [C09](C09-dinh-gia-cong-ty-dich-vu-tai-chinh.md), [C10](C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md), [C11](C11-dinh-gia-cong-ty-co-tai-san-vo-hinh.md)) xử lý các trường hợp đặc biệt: ngân hàng và công ty dịch vụ tài chính, công ty có tính chu kỳ và công ty hàng hoá cơ bản, công ty có tài sản vô hình.
+
+Mỗi chương 5–11 đều chỉ ra những "cám dỗ" sai lầm mà người định giá hay mắc với loại công ty đó (cái mà tác giả gọi là "mặt tối của định giá" — *dark side of valuation*) rồi đề xuất cách xử lý riêng. Chương 12 không đưa thêm công cụ hay ví dụ định giá mới, mà rút các cách xử lý riêng lẻ đó thành mười nguyên tắc chung (gọi là "mệnh đề" — *proposition*) áp dụng được cho mọi công ty, rồi khép lại cuốn sách bằng đúng ý mở đầu: định giá chỉ có vài nguyên lý cơ bản, phần khó nằm ở cách vận dụng linh hoạt.
+
+## Lưu ý
+
+- **Chương này gần như chắc chắn được chép lại từ chương kết của một cuốn sách khác của Damodaran**, *The Dark Side of Valuation* (ấn bản 2, FT Press, 2009) — theo hiểu biết của người tổng hợp, không tra cứu. Dấu hiệu nằm ngay trong văn bản: chương dùng liên tục khái niệm "dark side" như thể đã là trục của cả cuốn sách, và **mọi số chương được dẫn đều không khớp với *The Little Book of Valuation***:
+  - (a) "lãi suất phi rủi ro ở chương 6, phần bù rủi ro vốn cổ phần ở chương 7" — trong bản thảo này, hai khái niệm đó được trình bày ở Chương 2 và Chương 3, còn Chương 6, 7 bàn về công ty tăng trưởng và công ty trưởng thành.
+  - (b) "định giá một công ty dầu ở chương 14" và "công ty chu kỳ, hàng hoá cơ bản ở Chapter 13" — bản thảo chỉ có 12 chương, phần này tương ứng Chương 10 (ví dụ Exxon Mobil, Toyota).
+  - (c) "công ty trẻ tăng trưởng ở chương 9" và "beta toàn phần (total beta) cho doanh nhân và quỹ đầu tư mạo hiểm ở chương 9" — công ty trẻ tăng trưởng nằm ở Chương 5, còn Chương 9 bàn về công ty dịch vụ tài chính; hơn nữa khái niệm beta toàn phần không xuất hiện ở bất kỳ chương nào trong bản thảo này.
+
+  Bản tổng hợp giữ nguyên ý của các câu dẫn đó nhưng ghi số chương tương ứng trong *The Little Book of Valuation* khi có, và nói rõ khi nội dung được dẫn không có trong cuốn sách này.
+- Một số khái niệm được nhắc lại như thể "đã bàn" nhưng thực ra không có trong các chương trước của bản thảo: mô phỏng Monte Carlo và cây quyết định như công cụ đánh giá rủi ro (Chương 8 chỉ nhắc mô phỏng như một lựa chọn để xử lý kiệt quệ; Chương 11 dùng mô phỏng để định giá quyền chọn nhân viên), phần bù kiểm soát 20% (control premium), rủi ro quốc hữu hoá với công ty ở thị trường mới nổi, phần bù rủi ro quốc gia như một biến tách riêng (Chương 10 và 11 chỉ nhắc qua), hình ảnh "Mr. Market" của Warren Buffett, phần bù rủi ro vốn cổ phần ngầm định tính cụ thể. Bản tổng hợp giải thích ngắn các khái niệm này trong mục Khái niệm cần biết để người đọc không phải tra.
+- Lỗi đánh máy hoặc câu chưa hoàn chỉnh ảnh hưởng tới nghĩa: "loosed‐backed rules of thumb" (có lẽ định viết "loosely based" — các quy tắc kinh nghiệm thiếu cơ sở); "where use market inputs" (thiếu chủ ngữ "we"); "focus our attention or estimating" (đúng ra là "on estimating"); "We used the latter technique the values of young, growth companies..." (thiếu động từ, ý là "dùng kỹ thuật sau để điều chỉnh giá trị của..."); "very, young growth companies" (thừa dấu phẩy); "would not survival" (đúng ra là "survive"); "these tools often required" (lẽ ra là thì hiện tại).
+- Ở Mệnh đề 5, cặp ngoặc bị đảo: bản thảo viết đẩy "returns on capital (equity) towards the cost of equity (capital)", đọc theo cặp sẽ thành ROC tiến về chi phí vốn chủ sở hữu và ROE tiến về chi phí vốn — ngược với cách làm ở mọi chương trước. Đúng phải là ROC tiến về chi phí vốn và ROE tiến về chi phí vốn chủ sở hữu.
+- Ở Mệnh đề 3, câu "rủi ro thể hiện trong suất chiết khấu hoặc trong dòng tiền đã điều chỉnh rủi ro (which is more than just an expected return)" khó hiểu. Theo hiểu biết của người tổng hợp, ý đúng là dòng tiền tương đương chắc chắn (certainty-equivalent cash flow) — thấp hơn dòng tiền kỳ vọng — chứ không phải "lớn hơn một lợi suất kỳ vọng".
+- Ở Mệnh đề 9, câu mở đầu nói "phần lớn cuốn sách hướng tới các phản ứng lành mạnh hơn với bất định", nhưng chỉ liệt kê hai phản ứng (chấp nhận bất định; hỏi "nếu… thì sao" vì đúng lý do) rồi chuyển ngay sang câu tóm tắt. Đoạn tóm tắt cuối mệnh đề ("giá trị đã điều chỉnh rủi ro sẽ thay đổi khi hoàn cảnh thay đổi") cũng chỉ nói vắn tắt. Có thể bản thảo đã lược bớt so với bản gốc.
+- Chương không có bảng, hình hay ví dụ định giá có phép tính. Các con số duy nhất là: tăng trưởng 100%/năm trong 3 năm (Mệnh đề 5); phần bù kiểm soát 20% với sai số chuẩn khoảng 5%, phần bù rủi ro vốn cổ phần lịch sử 4% với sai số chuẩn khoảng 3% (50 năm) và khoảng 2% (100 năm) (Mệnh đề 8); 40% khả năng cổ phiếu bị định giá cao (Mệnh đề 9); ROC 15% (Mệnh đề 10).
+
+  Người tổng hợp đã kiểm tra con số sai số chuẩn: với độ lệch chuẩn hằng năm của chênh lệch lợi suất cổ phiếu so với trái phiếu chính phủ khoảng 20%, sai số chuẩn của giá trị trung bình là 20% / √50 ≈ 2,8% (làm tròn 3%) và 20% / √100 = 2% — khớp với số của bản thảo. Mức 20% là giả định của người tổng hợp, không có trong sách.
+- Về số liệu thị trường (theo hiểu biết của người tổng hợp, không tra cứu): mức phần bù rủi ro vốn cổ phần lịch sử 4% được dùng làm ví dụ, trong khi ở Chương 10 bản thảo dùng 6,5% cho năm 2009; phần bù ngầm định Damodaran tự công bố hằng năm dao động khoảng 4–6% trong giai đoạn 2010–2024. Lãi suất phi rủi ro của Mỹ ở mức thấp kéo dài sau 2010, gần 0 trong 2020–2021, rồi tăng mạnh trở lại từ 2022 — đúng loại "đứt gãy cấu trúc" mà Mệnh đề 7 cảnh báo khi tin vào sự quay về mức trung bình.

@@ -1,25 +1,20 @@
 # Chương 6 — Định giá công ty tăng trưởng (Valuing growth companies)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 2 "Valuing across the life cycle", Chương 6 "Valuing growth companies", trang 112–141.
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** Phần 1 (Chương 2–4) đã dựng bộ công cụ: giá trị thời gian của tiền, rủi ro và suất chiết khấu, định giá chiết khấu dòng tiền (DCF) với bốn câu hỏi (dòng tiền từ tài sản hiện có, giá trị tăng trưởng, rủi ro, thời điểm doanh nghiệp đạt trạng thái ổn định), và định giá tương đối bằng bội số. Phần 2 áp dụng bộ công cụ đó cho từng giai đoạn trong vòng đời doanh nghiệp. Chương 5 ([C05-dinh-gia-cong-ty-tre-tang-truong.md](C05-dinh-gia-cong-ty-tre-tang-truong.md)) xử lý công ty khởi nghiệp tăng trưởng, nơi câu hỏi lớn nhất là công ty có sống sót hay không (ví dụ chính là Evergreen Solar, một công ty năng lượng mặt trời lỗ lớn đầu năm 2009, được định giá 0,63 USD/cổ phiếu trong khi giá thị trường là 2,70 USD). Chương 6 bước sang những công ty đã qua được thử thách cạnh tranh và trở thành doanh nghiệp thành công, đang ở giai đoạn tăng trưởng cao: vẫn mang nhiều vấn đề của công ty trẻ (lịch sử ngắn, tăng trưởng bất định, rủi ro thay đổi), nhưng thêm hai mối lo mới là tăng trưởng chậm lại khi quy mô lớn lên và việc tiếp cận thị trường vốn đại chúng làm thay đổi quyết định tài trợ và đầu tư. Chương 7 ([C07-dinh-gia-cong-ty-truong-thanh.md](C07-dinh-gia-cong-ty-truong-thanh.md)) đi tiếp tới công ty trưởng thành, tức điểm đến của mọi công ty tăng trưởng trong mô hình của chương này (giai đoạn tăng trưởng ổn định).
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **một công ty tăng trưởng nhận phần lớn giá trị từ những khoản đầu tư nó sẽ làm trong tương lai, nên định giá nó cho đúng không phải là chọn một tốc độ tăng trưởng thật cao, mà là giữ cho mọi giả định nhất quán với nhau theo thời gian: tốc độ tăng trưởng doanh thu phải giảm dần khi công ty lớn lên, biên lợi nhuận hướng về mức mục tiêu của ngành, tái đầu tư đủ để nuôi tăng trưởng, và chi phí vốn giảm dần khi rủi ro giảm, cho tới khi công ty được đưa vào trạng thái tăng trưởng ổn định với đặc điểm của một công ty trưởng thành.** Ví dụ trung tâm là Under Armour (hãng đồ thể thao bằng vải sợi siêu mảnh, doanh thu tăng 44%/năm giai đoạn 2004–2007) được định giá vào tháng 1/2009: doanh thu 12 tháng gần nhất 720,81 triệu USD được dự phóng tăng 35% năm đầu rồi giảm dần còn 3% vào năm 9–10; biên lợi nhuận hoạt động trước thuế đi từ 12,25% lên 12,72% (trung bình ngành); mỗi 1 USD vốn đầu tư thêm tạo ra 1,83 USD doanh thu; chi phí vốn giảm từ 9,27% xuống 7,28%. Dòng tiền tự do âm ba năm đầu, và giá trị cuối kỳ 2.729,50 triệu USD chiếm khoảng 85% giá trị tài sản hoạt động 1.384,40 triệu USD. Cộng tiền mặt, trừ nợ vay và quyền chọn của nhân viên, chia cho 49,291 triệu cổ phiếu, Damodaran được 25,73 USD/cổ phiếu (25,09 USD cho cổ phiếu loại A nếu cổ phiếu loại B của nhà sáng lập được cộng 10% giá trị). Cũng thời điểm đó, định giá tương đối bằng hồi quy P/E theo tăng trưởng và hệ số beta trên 36 công ty may mặc cho thấy P/E hợp lý của Under Armour chỉ khoảng 10,98, so với P/E thực tế 20,71, tức cổ phiếu có vẻ bị định giá cao gần 89%.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phép tính "lớn gấp 18 lần" lệch với chú thích của chính nó.** Thân bài nói công ty tăng trưởng 80%/năm trong 5 năm thì nay lớn gấp 18 lần (by a factor of 18); chú thích 20 nói 1 USD sau 5 năm thành "gần 19 USD, tăng 1800%". Theo tính toán của người tổng hợp: 1,8^5 = 18,9, tức quy mô gấp khoảng 19 lần, phần tăng thêm khoảng 1.790%. Ý của Damodaran không đổi.
-> - **Dẫn chiếu chương bị lệch số.** Bản thảo hai lần viết "chapter 9" cho nội dung về công ty trẻ (tăng trưởng doanh thu; cách theo dõi tỷ suất lợi nhuận trên vốn ngầm định), trong khi đó là Chương 5 (Chương 9 là công ty dịch vụ tài chính). Mục "Choice of Model" và "Stable growth assumptions" dẫn về "chapter 2" cho các lựa chọn mô hình DCF và tăng trưởng ổn định; nội dung này nằm chủ yếu ở Chương 3 (Intrinsic Value). Ví dụ định giá tương đối được đánh số "Illustration 10.6" (sót lại từ một bản khác), và Damodaran hứa trở lại vấn đề quyền chọn nhân viên "trong một chương sau về công ty công nghệ", nhưng bản thảo không có chương nào như vậy (gần nhất là Chương 11 về công ty có tài sản vô hình).
-> - **Dẫn tới những đoạn không có trong chương.** Bản thảo hai lần nhắc "section on the dark side" (phần mặt tối của việc định giá công ty tăng trưởng) và một lần nói "Earlier in this chapter, we noted how quickly growth firms can burn through cash balances"; chương này không có mục nào tên như vậy và không bàn chuyện đốt tiền mặt (chuyện đó ở Chương 5). Phần "mặt tối" tương ứng với mục "Valuation Issues" của chương. Đoạn mở mục "Valuation Issues" cũng liệt kê năm đặc điểm (có thêm "kết hợp vốn tư nhân và vốn đại chúng", "phụ thuộc vào tài trợ bằng vốn cổ phần") trong khi mục "Characteristics" trước đó chỉ nêu bốn đặc điểm khác.
-> - **Bảng 6.2: số 53 ở dòng "12 tháng gần nhất" nằm nhầm cột.** Trên ảnh trang, số 53 USD nằm ở cột "Tái đầu tư"; thực ra đó là lợi nhuận hoạt động sau thuế: 88,28 × (1 − 40%) = 52,97 triệu USD. Bản tổng hợp chép số này vào cột lợi nhuận hoạt động sau thuế.
-> - **Kiểm tra lại phép tính DCF Under Armour.** Người tổng hợp tính lại toàn bộ Bảng 6.2 và 6.3 từ các giả định của sách: doanh thu, lợi nhuận hoạt động, tái đầu tư (= mức tăng doanh thu / 1,83, không có độ trễ) và FCFF đều khớp trong phạm vi làm tròn (sai khác dưới 0,1 triệu USD). Ba chỗ lệch nhỏ: (1) giá trị cuối kỳ tính đúng theo công thức sách ghi là 304,79 × 0,6 × 0,75 / (0,0728 − 0,0225) = 2.726,75 triệu USD, sách ghi 2.729,50 (lệch 2,75 triệu USD, có lẽ do chi phí vốn thực dùng là khoảng 7,275% rồi làm tròn thành 7,28%); (2) hệ số chiết khấu cộng dồn năm 4–10 lệch ở chữ số thứ tư (ví dụ 1,0927^4 = 1,4256, sách ghi 1,4254); (3) tổng giá trị hiện tại theo các số đã làm tròn trong bảng là 1.384,39, sách ghi 1.384,40. Các chỗ lệch này không làm thay đổi kết luận.
-> - **Lỗi đơn vị ở giá trị vốn chủ sở hữu.** Bản thảo viết "$1,384 million + $40 million − $133 million = $1.292 million"; đúng phải là 1.292 triệu USD (khoảng 1,29 tỷ USD), không phải 1,292 triệu USD. Tính đủ số lẻ: 1.384,40 + 40,15 − 133 = 1.291,55 triệu USD.
-> - **Giá trị mỗi cổ phiếu lệch nhẹ.** Theo tính toán của người tổng hợp: (1.292 − 23) / (36,791 + 12,5) = 1.269 / 49,291 = 25,745, tức 25,75 USD (sách ghi 25,73); với cổ phiếu loại A: 1.269 / (36,791 + 1,1 × 12,5) = 1.269 / 50,541 = 25,11 USD (sách ghi 25,09), suy ra loại B là 27,62 USD (sách ghi 27,60). Nếu dùng 1.291,55 thay cho 1.292 thì được 25,74 và 25,10. Chênh lệch dưới 0,1%.
-> - **Bảng 6.4 có 36 công ty chứ không phải 34.** Văn bản và chú thích 26 nói mẫu gồm 34 công ty (trong tổng số 84 công ty may mặc, chỉ 34 có lợi nhuận dương và có dự báo tăng trưởng 5 năm), nhưng bảng liệt kê 36 dòng kể cả Under Armour. Trung bình cộng giản đơn của 36 dòng là: vốn hoá 2.338,6 triệu USD, P/E 9,66, tăng trưởng 14,45%, beta 1,18, PEG 0,71; dòng "Sector Average" của sách ghi 2.288,25; 9,70; 15,00%; 1,15; 0,70. Người tổng hợp không tái lập được dòng trung bình (có thể tính trên một mẫu khác). Mọi tỷ số PEG từng dòng thì khớp với P/E chia tăng trưởng.
-> - **Dữ liệu trong Bảng 6.4 và Hình 6.3 có vài điểm lạ.** American Apparel có beta bằng 0 (nhiều khả năng là thiếu dữ liệu, vì công ty mới niêm yết); Hình 6.3 có điểm LULU (Lululemon) không có trong Bảng 6.4; nhiều "công ty may mặc" thực ra thuộc ngành khác (Kimberly-Clark, Avon, Tupperware, Polaris, Raven Industries, Ennis, Cintas, G&K Services, UniFirst). Hình 6.3 ghi R² của đường hồi quy đơn là 0,064.
-> - **"Cả hai quan hệ đều có ý nghĩa thống kê" là nói hơi quá.** Thống kê t của hệ số beta là 1,91, thấp hơn ngưỡng khoảng 1,96 thường dùng cho mức ý nghĩa 5%; hệ số này chỉ có ý nghĩa ở mức 10%. P/E dự kiến tính lại là 13,78 + 32,04 × 0,209 − 6,60 × 1,44 = 10,97 (sách 10,98); mức định giá cao 20,71 / 10,98 − 1 = 88,6%, khớp với "gần 89%".
-> - **Công thức tỷ lệ tái đầu tư giai đoạn trưởng thành có con số không giải thích.** Ở trang 125, công thức "Tỷ lệ tái đầu tư = Tăng trưởng kỳ vọng / ROC ổn định" được minh hoạ bằng 3,00% / 6,76% = 44,40% mà không nói số liệu này của công ty nào (có lẽ chép từ một ví dụ khác). Phép chia đúng ra 44,38%.
-> - **Sách không so giá trị DCF với giá thị trường.** Damodaran dừng ở 25,73 USD/cổ phiếu mà không nói giá cổ phiếu Under Armour lúc đó. Theo tính toán của người tổng hợp từ Bảng 6.4: vốn hoá 969,1 triệu USD chia cho 49,291 triệu cổ phiếu (cả hai loại) cho khoảng 19,66 USD/cổ phiếu, còn nếu vốn hoá chỉ tính 36,791 triệu cổ phiếu loại A thì khoảng 26,34 USD. Trong trường hợp thứ nhất, DCF cho thấy cổ phiếu bị định giá thấp khoảng 30% trong khi định giá tương đối cho thấy bị định giá cao gần 89%; sách không bàn mâu thuẫn này.
-> - **Số liệu thị trường năm 2009.** Chi phí vốn giảm từ 9,27% xuống 7,28% và tăng trưởng ổn định 2,25% phản ánh lãi suất phi rủi ro và phần bù rủi ro vốn cổ phần đầu năm 2009 (sách không ghi rõ lãi suất phi rủi ro dùng trong ví dụ). Theo hiểu biết của người tổng hợp, không tra cứu: lãi suất ở Mỹ gần 0 trong phần lớn giai đoạn 2009–2015 và 2020–2021, rồi tăng mạnh từ 2022, nên chi phí vốn và tốc độ tăng trưởng ổn định hợp lý ngày nay khác với các con số của ví dụ.
-> - **Số phận về sau của Under Armour** (theo hiểu biết của người tổng hợp, không tra cứu): công ty tăng trưởng nhanh hơn nhiều so với dự phóng của Damodaran trong khoảng 2009–2015 (doanh thu vượt xa mức khoảng 2,3 tỷ USD mà sách dự phóng cho năm thứ 10), cổ phiếu tăng giá mạnh; năm 2016 công ty tạo thêm cổ phiếu loại C không có quyền biểu quyết để Kevin Plank giữ quyền kiểm soát. Từ khoảng 2016, tăng trưởng chậm hẳn lại, biên lợi nhuận giảm vì cạnh tranh và giảm giá, cổ phiếu mất phần lớn giá trị; công ty bị cơ quan quản lý chứng khoán Mỹ (SEC) điều tra về việc ghi nhận doanh thu sớm và đã dàn xếp; Kevin Plank rời ghế CEO năm 2020 rồi quay lại năm 2024. Ví dụ này minh hoạ đúng hai bài học của chương: tăng trưởng phải chậm lại khi quy mô lớn lên, và thành công thu hút cạnh tranh làm giảm biên lợi nhuận.
+Damodaran muốn người đọc hiểu rằng **một công ty tăng trưởng nhận phần lớn giá trị từ những khoản đầu tư nó sẽ làm trong tương lai, nên định giá nó cho đúng không phải là chọn một tốc độ tăng trưởng thật cao, mà là giữ cho mọi giả định nhất quán với nhau theo thời gian: tốc độ tăng trưởng doanh thu phải giảm dần khi công ty lớn lên, biên lợi nhuận hướng về mức mục tiêu của ngành, tái đầu tư đủ để nuôi tăng trưởng, và chi phí vốn giảm dần khi rủi ro giảm, cho tới khi công ty được đưa vào trạng thái tăng trưởng ổn định với đặc điểm của một công ty trưởng thành.**
+
+Ví dụ trung tâm là Under Armour (hãng đồ thể thao bằng vải sợi siêu mảnh, doanh thu tăng 44%/năm giai đoạn 2004–2007) được định giá vào tháng 1/2009:
+- doanh thu 12 tháng gần nhất 720,81 triệu USD được dự phóng tăng 35% năm đầu rồi giảm dần còn 3% vào năm 9–10
+- biên lợi nhuận hoạt động trước thuế đi từ 12,25% lên 12,72% (trung bình ngành)
+- mỗi 1 USD vốn đầu tư thêm tạo ra 1,83 USD doanh thu
+- chi phí vốn giảm từ 9,27% xuống 7,28%.
+
+Dòng tiền tự do âm ba năm đầu, và giá trị cuối kỳ 2.729,50 triệu USD chiếm khoảng 85% giá trị tài sản hoạt động 1.384,40 triệu USD.
+
+Cộng tiền mặt, trừ nợ vay và quyền chọn của nhân viên, chia cho 49,291 triệu cổ phiếu, Damodaran được 25,73 USD/cổ phiếu (25,09 USD cho cổ phiếu loại A nếu cổ phiếu loại B của nhà sáng lập được cộng 10% giá trị).
+
+Cũng thời điểm đó, định giá tương đối bằng hồi quy P/E theo tăng trưởng và hệ số beta trên 36 công ty may mặc cho thấy P/E hợp lý của Under Armour chỉ khoảng 10,98, so với P/E thực tế 20,71, tức cổ phiếu có vẻ bị định giá cao gần 89%.
 
 ## Sơ đồ
 
@@ -422,7 +417,9 @@ Nếu giá trị nội tại đến từ dòng tiền và mức rủi ro, thì c
 
 **Dòng tiền từ tài sản hiện có (Cash flows from Existing Assets).** Để định giá tài sản hiện có, ta lấy dòng tiền chúng tạo ra và chiết khấu bằng suất chiết khấu đã điều chỉnh rủi ro phù hợp. Có hai điều làm việc đo lường này phức tạp:
 
-1. *Lợi nhuận đo sai (poorly measured earnings).* Ở công ty tăng trưởng, tài sản hiện có thường chỉ là phần nhỏ của tổng giá trị, và dễ bị chìm lấp bởi những khoản chi để duy trì và nuôi dưỡng tài sản tăng trưởng. Trong DCF, ta thường giả định lợi nhuận hoạt động hiện tại là do tài sản hiện có tạo ra và dùng nó làm cơ sở định giá tài sản hiện có. Với mọi công ty, lợi nhuận (hoặc lỗ) hoạt động hiện tại đã trừ chi phí bán hàng, quảng cáo và chi phí quản lý. Ta coi các khoản chi này gắn với tài sản hiện có, nhưng giả định đó có thể không đúng ở công ty tăng trưởng: đội ngũ bán hàng có thể không mấy quan tâm đẩy sản phẩm hiện tại mà tập trung xây dựng tập khách hàng cho sản phẩm tương lai. Khi coi toàn bộ chi phí bán hàng là chi phí hoạt động, ta đánh giá thấp lợi nhuận và do đó đánh giá thấp giá trị của tài sản hiện có.
+1. *Lợi nhuận đo sai (poorly measured earnings).* Ở công ty tăng trưởng, tài sản hiện có thường chỉ là phần nhỏ của tổng giá trị, và dễ bị chìm lấp bởi những khoản chi để duy trì và nuôi dưỡng tài sản tăng trưởng. Trong DCF, ta thường giả định lợi nhuận hoạt động hiện tại là do tài sản hiện có tạo ra và dùng nó làm cơ sở định giá tài sản hiện có.
+
+   Với mọi công ty, lợi nhuận (hoặc lỗ) hoạt động hiện tại đã trừ chi phí bán hàng, quảng cáo và chi phí quản lý. Ta coi các khoản chi này gắn với tài sản hiện có, nhưng giả định đó có thể không đúng ở công ty tăng trưởng: đội ngũ bán hàng có thể không mấy quan tâm đẩy sản phẩm hiện tại mà tập trung xây dựng tập khách hàng cho sản phẩm tương lai. Khi coi toàn bộ chi phí bán hàng là chi phí hoạt động, ta đánh giá thấp lợi nhuận và do đó đánh giá thấp giá trị của tài sản hiện có.
 2. *Khả năng sinh lời thay đổi (shifting profitability).* Khả năng sinh lời tương lai là đầu vào chính của giá trị, nhưng biên lợi nhuận và tỷ suất lợi nhuận của công ty tăng trưởng thay đổi nhiều theo thời gian, khiến dự báo khó. Ở công ty trưởng thành, biên lợi nhuận thường dao động trong biên độ hẹp và tỷ suất lợi nhuận ổn định; ở công ty tăng trưởng, dùng biên lợi nhuận và tỷ suất lợi nhuận quá khứ để dự báo có thể cho kết quả không hợp lý.
 
 **Tài sản tăng trưởng (Growth Assets).** Phần lớn giá trị của công ty tăng trưởng đến từ tài sản tăng trưởng, nên định giá đúng phần này là bắt buộc. Có ba thách thức lớn:
@@ -436,7 +433,9 @@ Muốn gắn giá trị cho tài sản tăng trưởng thì phải trả lời �
 **Suất chiết khấu (Discount Rates).** Hai yếu tố quyết định suất chiết khấu là rủi ro của các khoản đầu tư cơ sở và cơ cấu nợ vay, vốn chủ sở hữu dùng để tài trợ. Ở cả hai khía cạnh, công ty tăng trưởng đều gây khó:
 
 1. *Rủi ro của tài sản hiện có so với rủi ro của tài sản tăng trưởng.* Vì công ty tăng trưởng lấy giá trị đáng kể từ cả hai loại tài sản, việc phân định rủi ro của từng loại ảnh hưởng lớn tới giá trị. Nếu tài sản tăng trưởng rủi ro hơn tài sản hiện có, ta nên dùng suất chiết khấu cao hơn cho dòng tiền kỳ vọng từ tài sản tăng trưởng và thấp hơn cho dòng tiền từ tài sản hiện có.
-2. *Rủi ro của công ty thay đổi theo thời gian.* Tính tham số rủi ro và tỷ lệ nợ hiện tại của công ty tăng trưởng đã khó; việc càng khó hơn vì cả hai sẽ thay đổi theo thời gian, khiến suất chiết khấu khác nhau giữa các năm. Cụ thể, khi công ty lớn lên (như sẽ xảy ra nếu tăng trưởng thành hiện thực), tài sản hiện có chiếm tỷ trọng ngày càng lớn trong tổng giá trị, và thước đo rủi ro thay đổi theo lợi nhuận ngày càng lớn và ổn định hơn. Đồng thời, khả năng vay nợ của công ty tăng lên; nếu công ty tận dụng khả năng đó, tỷ lệ nợ cũng thay đổi. Nói chung, suất chiết khấu dùng để định giá công ty tăng trưởng nên cao hơn ở các năm đầu và giảm dần ở các năm sau, về mức của công ty trưởng thành.
+2. *Rủi ro của công ty thay đổi theo thời gian.* Tính tham số rủi ro và tỷ lệ nợ hiện tại của công ty tăng trưởng đã khó; việc càng khó hơn vì cả hai sẽ thay đổi theo thời gian, khiến suất chiết khấu khác nhau giữa các năm.
+
+   Cụ thể, khi công ty lớn lên (như sẽ xảy ra nếu tăng trưởng thành hiện thực), tài sản hiện có chiếm tỷ trọng ngày càng lớn trong tổng giá trị, và thước đo rủi ro thay đổi theo lợi nhuận ngày càng lớn và ổn định hơn. Đồng thời, khả năng vay nợ của công ty tăng lên; nếu công ty tận dụng khả năng đó, tỷ lệ nợ cũng thay đổi. Nói chung, suất chiết khấu dùng để định giá công ty tăng trưởng nên cao hơn ở các năm đầu và giảm dần ở các năm sau, về mức của công ty trưởng thành.
 
 **Giá trị cuối kỳ (Terminal Value).** Hai câu hỏi then chốt treo trên việc định giá bất kỳ công ty nào là: khi nào công ty trở thành công ty tăng trưởng ổn định, và khi đó nó có đặc điểm gì. Câu trả lời cho câu thứ nhất quyết định độ dài giai đoạn tăng trưởng cao (giá trị cuối kỳ được tính với giả định tăng trưởng sau thời điểm đó kéo dài mãi mãi). Câu trả lời cho câu thứ hai, nhất là về rủi ro và tỷ suất lợi nhuận trên đầu tư mới, quyết định giá trị gán cho công ty ở bất kỳ mức tăng trưởng nào. Đây là vấn đề của mọi cuộc định giá, nhưng với công ty tăng trưởng thì nặng hơn vì:
 
@@ -477,7 +476,9 @@ Vì nhiều công ty tăng trưởng có rất ít hoặc không có nợ, các 
 
 Nếu chấp nhận rằng mô hình định giá doanh nghiệp tốt hơn mô hình định giá vốn chủ sở hữu khi định giá công ty tăng trưởng, bước đầu tiên là định giá tài sản hoạt động của doanh nghiệp, gồm cả tài sản hiện có và tài sản tăng trưởng.
 
-**Tốc độ tăng trưởng doanh thu (Revenue growth rates, trang 122–123).** Quá trình định giá bắt đầu bằng ước tính doanh thu tương lai. Nhiều cân nhắc đã nêu cho công ty trẻ ở Chương 5 vẫn áp dụng. Vấn đề lớn nhất, đã được nhấn mạnh nhiều lần trong chương, là quy mô: tốc độ tăng doanh thu sẽ giảm khi công ty lớn lên, và công ty tăng trưởng nào cũng sẽ lớn lên nếu dự báo tăng trưởng thành hiện thực. Để kiểm chứng tăng trưởng thay đổi thế nào khi công ty lớn lên, một nghiên cứu (Andrew Metrick, *Venture Capital and the Finance of Innovation*, 2006) xét tốc độ tăng doanh thu của các công ty tăng trưởng cao so với tốc độ tăng doanh thu của ngành, trong những năm ngay sau khi họ phát hành cổ phiếu lần đầu ra công chúng (IPO).
+**Tốc độ tăng trưởng doanh thu (Revenue growth rates, trang 122–123).** Quá trình định giá bắt đầu bằng ước tính doanh thu tương lai. Nhiều cân nhắc đã nêu cho công ty trẻ ở Chương 5 vẫn áp dụng. Vấn đề lớn nhất, đã được nhấn mạnh nhiều lần trong chương, là quy mô: tốc độ tăng doanh thu sẽ giảm khi công ty lớn lên, và công ty tăng trưởng nào cũng sẽ lớn lên nếu dự báo tăng trưởng thành hiện thực.
+
+Để kiểm chứng tăng trưởng thay đổi thế nào khi công ty lớn lên, một nghiên cứu (Andrew Metrick, *Venture Capital and the Finance of Innovation*, 2006) xét tốc độ tăng doanh thu của các công ty tăng trưởng cao so với tốc độ tăng doanh thu của ngành, trong những năm ngay sau khi họ phát hành cổ phiếu lần đầu ra công chúng (IPO).
 
 **Tăng trưởng doanh thu trong các năm sau IPO (Figure 6.2 trong sách).** Đồ thị đường, nguồn Andrew Metrick, đăng trên New York Times; tiêu đề phụ: "Thông thường, tốc độ tăng doanh thu của một công ty mới niêm yết chỉ vượt trung bình ngành trong khoảng năm năm". Trục hoành là số năm sau khi lên sàn (1 đến 6); trục tung là mức chênh (điểm phần trăm) giữa tốc độ tăng doanh thu của công ty và trung bình ngành, từ 0 đến 15%; đường thể hiện trung vị của các đợt phát hành mới từ 1965 đến 2005 ("Post-I.P.O. growth"). Các giá trị đọc từ đồ thị (năm 1, 2, 4, 5 theo lời văn của sách; năm 3 và 6 đọc trên hình):
 
@@ -651,7 +652,9 @@ Kiểm tra (người tổng hợp): ví dụ năm 6, hệ số = 1,5575 × 1,088
 
 Giá trị tài sản hoạt động của Under Armour ước tính là 1,384 tỷ USD.
 
-**Bước 6: Từ tài sản hoạt động tới vốn chủ sở hữu.** Với Under Armour, bước này ít vấn đề hơn với Evergreen Solar ở Chương 5. Số dư tiền mặt 40,15 triệu USD trong báo cáo tài chính gần nhất (tháng 9/2008) rất gần với 40,59 triệu USD báo cáo tháng 12/2007. Vì công ty đang có lãi, Damodaran giả định tiền mặt vẫn còn nguyên tại thời điểm định giá (tháng 1/2009). Về nợ, chi tiết duy nhất cần lưu ý là phần lớn nợ là cam kết thuê tài sản và cam kết tài trợ thể thao: trong tổng nợ 133 triệu USD, 95,5 triệu USD là giá trị hiện tại của các cam kết tương lai này (phần còn lại khoảng 37,5 triệu USD là nợ vay thông thường). Về định giá, ông không thấy cần tách hai loại nợ.
+**Bước 6: Từ tài sản hoạt động tới vốn chủ sở hữu.** Với Under Armour, bước này ít vấn đề hơn với Evergreen Solar ở Chương 5. Số dư tiền mặt 40,15 triệu USD trong báo cáo tài chính gần nhất (tháng 9/2008) rất gần với 40,59 triệu USD báo cáo tháng 12/2007. Vì công ty đang có lãi, Damodaran giả định tiền mặt vẫn còn nguyên tại thời điểm định giá (tháng 1/2009).
+
+Về nợ, chi tiết duy nhất cần lưu ý là phần lớn nợ là cam kết thuê tài sản và cam kết tài trợ thể thao: trong tổng nợ 133 triệu USD, 95,5 triệu USD là giá trị hiện tại của các cam kết tương lai này (phần còn lại khoảng 37,5 triệu USD là nợ vay thông thường). Về định giá, ông không thấy cần tách hai loại nợ.
 
 Giá trị vốn chủ sở hữu = Giá trị tài sản hoạt động + Tiền mặt − Nợ
 = 1.384 + 40 − 133 = 1.292 triệu USD (sách ghi nhầm đơn vị là "$1.292 million"; tính đủ số lẻ: 1.384,40 + 40,15 − 133 = 1.291,55)
@@ -694,7 +697,9 @@ Kiểm tra tổng: 36,791 × 25,09 + 12,5 × 27,60 = 923,1 + 345,0 = 1.268,1 tri
 
 Không có lý do gì để không dùng định giá tương đối cho một ước tính độc lập về giá trị vốn chủ sở hữu của công ty tăng trưởng, miễn là nhớ hai điều. Một, dùng bội số và công ty so sánh không làm giảm được sự bất định vốn có khi định giá công ty tăng trưởng. Hai, kỹ thuật định giá tương đối phải được điều chỉnh cho các hạn chế của công ty tăng trưởng: số liệu hoạt động hiện tại ít ỏi và không đáng tin, đặc điểm rủi ro và tăng trưởng thay đổi theo thời gian.
 
-**Công ty so sánh (Comparable firms, trang 134).** Lý tưởng nhất là đánh giá thị trường định giá một công ty tăng trưởng thế nào bằng cách so với các công ty tăng trưởng tương tự. Ở ngành như phần mềm, nơi có rất nhiều công ty tăng trưởng, có thể giữ cách làm truyền thống là lấy công ty so sánh trong cùng ngành. Ở ngành như bán lẻ hay phụ tùng ô tô, một công ty tăng trưởng có thể là ngoại lệ trong một ngành mà phần lớn công ty đã trưởng thành hoặc đang suy thoái. Khi đó phải bỏ cách làm truyền thống và xác định công ty so sánh theo yếu tố cơ bản thay vì theo ngành kinh doanh: một công ty bán lẻ có triển vọng tăng trưởng nên được so với cách thị trường định giá các công ty tăng trưởng ở ngành khác, không phải với các công ty bán lẻ trưởng thành. Không có lý do gì để P/E của một công ty bán lẻ tăng trưởng cao không thể so với P/E của một công ty phần mềm tăng trưởng cao.
+**Công ty so sánh (Comparable firms, trang 134).** Lý tưởng nhất là đánh giá thị trường định giá một công ty tăng trưởng thế nào bằng cách so với các công ty tăng trưởng tương tự. Ở ngành như phần mềm, nơi có rất nhiều công ty tăng trưởng, có thể giữ cách làm truyền thống là lấy công ty so sánh trong cùng ngành. Ở ngành như bán lẻ hay phụ tùng ô tô, một công ty tăng trưởng có thể là ngoại lệ trong một ngành mà phần lớn công ty đã trưởng thành hoặc đang suy thoái.
+
+Khi đó phải bỏ cách làm truyền thống và xác định công ty so sánh theo yếu tố cơ bản thay vì theo ngành kinh doanh: một công ty bán lẻ có triển vọng tăng trưởng nên được so với cách thị trường định giá các công ty tăng trưởng ở ngành khác, không phải với các công ty bán lẻ trưởng thành. Không có lý do gì để P/E của một công ty bán lẻ tăng trưởng cao không thể so với P/E của một công ty phần mềm tăng trưởng cao.
 
 **Chọn bội số và năm gốc (Choice of multiples and base year, trang 134–135).** Người định giá công ty tăng trưởng hay dùng doanh thu năm hiện tại, hoặc số liệu hoạt động ước tính của các năm tới (lợi nhuận hay doanh thu kỳ tới) để tính bội số. Mỗi cách có rủi ro riêng:
 - *Bội số doanh thu* đáng lo vì nó che đi việc công ty có thể đang lỗ nặng. Damodaran đề nghị đưa biên lợi nhuận kỳ vọng trong tương lai (dù chỉ là ước tính) vào khi bàn về bội số doanh thu hợp lý: các yếu tố khác như nhau, công ty có biên lợi nhuận kỳ vọng cao hơn (khi trưởng thành) nên giao dịch ở bội số doanh thu hiện tại cao hơn.
@@ -826,7 +831,9 @@ Giá trị của một công ty tăng trưởng nằm chủ yếu ở tài sản
 
 ### Cơ chế
 
-Doanh thu năm gốc nhân với tốc độ tăng trưởng giảm dần cho doanh thu từng năm; nhân với biên lợi nhuận đi dần về mức mục tiêu cho lợi nhuận hoạt động; trừ thuế; trừ tái đầu tư (mức tăng doanh thu chia cho tỷ lệ doanh thu trên vốn) cho FCFF. FCFF âm trong những năm tăng trưởng mạnh nhất vì tái đầu tư lớn hơn lợi nhuận. Khi công ty vào tăng trưởng ổn định, tỷ lệ tái đầu tư bằng tăng trưởng ổn định chia ROC ổn định, và giá trị cuối kỳ tính bằng FCFF năm kế tiếp chia cho chênh lệch giữa chi phí vốn ổn định và tăng trưởng ổn định. Các dòng tiền được chiết khấu bằng hệ số tích luỹ của chi phí vốn giảm dần theo từng năm. Từ giá trị tài sản hoạt động, cộng tiền mặt đã cập nhật, trừ nợ hiện có (chỉ phần nợ của trái phiếu chuyển đổi), trừ giá trị quyền chọn nhân viên, rồi chia cho số cổ phiếu, có điều chỉnh cho quyền biểu quyết, khả năng sống sót và tính thanh khoản.
+Doanh thu năm gốc nhân với tốc độ tăng trưởng giảm dần cho doanh thu từng năm; nhân với biên lợi nhuận đi dần về mức mục tiêu cho lợi nhuận hoạt động; trừ thuế; trừ tái đầu tư (mức tăng doanh thu chia cho tỷ lệ doanh thu trên vốn) cho FCFF. FCFF âm trong những năm tăng trưởng mạnh nhất vì tái đầu tư lớn hơn lợi nhuận.
+
+Khi công ty vào tăng trưởng ổn định, tỷ lệ tái đầu tư bằng tăng trưởng ổn định chia ROC ổn định, và giá trị cuối kỳ tính bằng FCFF năm kế tiếp chia cho chênh lệch giữa chi phí vốn ổn định và tăng trưởng ổn định. Các dòng tiền được chiết khấu bằng hệ số tích luỹ của chi phí vốn giảm dần theo từng năm. Từ giá trị tài sản hoạt động, cộng tiền mặt đã cập nhật, trừ nợ hiện có (chỉ phần nợ của trái phiếu chuyển đổi), trừ giá trị quyền chọn nhân viên, rồi chia cho số cổ phiếu, có điều chỉnh cho quyền biểu quyết, khả năng sống sót và tính thanh khoản.
 
 ### Bằng chứng và ví dụ Damodaran đưa ra
 
@@ -916,24 +923,220 @@ Doanh thu năm gốc nhân với tốc độ tăng trưởng giảm dần cho do
 
 ### Điểm mạnh lớn nhất của chương là biến "nhất quán nội tại" thành một quy trình cụ thể
 
-Thay vì nói chung chung rằng công ty tăng trưởng khó định giá, Damodaran đưa ra một khuôn mẫu cụ thể mà ví dụ Under Armour thể hiện đầy đủ: tăng trưởng giảm dần theo lịch rõ ràng (35% xuống 3%), biên lợi nhuận neo vào trung bình ngành, tái đầu tư gắn trực tiếp với mức tăng doanh thu qua một tỷ lệ của ngành, chi phí vốn đổi theo từng năm, và giai đoạn ổn định có ROC được nói rõ. Mỗi giả định có thể kiểm tra và tranh luận được; người tổng hợp tính lại cả hai bảng và các con số đều khớp trong phạm vi làm tròn. Đây là điểm khác biệt lớn so với kiểu dự phóng lấy chi đầu tư vốn năm gần nhất rồi cho tăng theo doanh thu mà Damodaran phê phán. Lập luận rằng giá trị cuối kỳ lớn không làm DCF vô nghĩa (vì EBIT năm 11 là kết quả của 10 năm giả định trước) cũng là câu trả lời đáng nhớ cho một lời phê phán phổ biến.
+Thay vì nói chung chung rằng công ty tăng trưởng khó định giá, Damodaran đưa ra một khuôn mẫu cụ thể mà ví dụ Under Armour thể hiện đầy đủ: tăng trưởng giảm dần theo lịch rõ ràng (35% xuống 3%), biên lợi nhuận neo vào trung bình ngành, tái đầu tư gắn trực tiếp với mức tăng doanh thu qua một tỷ lệ của ngành, chi phí vốn đổi theo từng năm, và giai đoạn ổn định có ROC được nói rõ. Mỗi giả định có thể kiểm tra và tranh luận được; người tổng hợp tính lại cả hai bảng và các con số đều khớp trong phạm vi làm tròn.
+
+Đây là điểm khác biệt lớn so với kiểu dự phóng lấy chi đầu tư vốn năm gần nhất rồi cho tăng theo doanh thu mà Damodaran phê phán. Lập luận rằng giá trị cuối kỳ lớn không làm DCF vô nghĩa (vì EBIT năm 11 là kết quả của 10 năm giả định trước) cũng là câu trả lời đáng nhớ cho một lời phê phán phổ biến.
 
 ### Hai cách định giá Under Armour cho kết luận ngược nhau, nhưng chương không đối chiếu
 
-DCF cho 25,73 USD/cổ phiếu, còn định giá tương đối cho thấy cổ phiếu đắt gần 89%. Theo tính toán của người tổng hợp, vốn hoá 969,1 triệu USD trong Bảng 6.4 tương ứng khoảng 19,66 USD/cổ phiếu nếu tính cả hai loại cổ phiếu, tức DCF cho thấy cổ phiếu rẻ khoảng 30% so với giá trị nội tại; nếu vốn hoá chỉ tính cổ phiếu loại A thì giá khoảng 26,34 USD, sát giá trị DCF. Dù cách nào, hai phương pháp đang trả lời hai câu hỏi khác nhau: DCF hỏi cổ phiếu có xứng với dòng tiền không, định giá tương đối hỏi nó có đắt so với các công ty may mặc khác không. Cuối năm 2008 – đầu năm 2009, cả ngành bị bán tháo mạnh (P/E trung bình 9,70), nên một cổ phiếu "đắt so với ngành" vẫn có thể "rẻ so với giá trị nội tại". Damodaran bàn kỹ hơn sự khác biệt này ở các chương khác, nhưng ví dụ này sẽ thuyết phục hơn nếu chương nói ra điều đó.
+DCF cho 25,73 USD/cổ phiếu, còn định giá tương đối cho thấy cổ phiếu đắt gần 89%. Theo tính toán của người tổng hợp, vốn hoá 969,1 triệu USD trong Bảng 6.4 tương ứng khoảng 19,66 USD/cổ phiếu nếu tính cả hai loại cổ phiếu, tức DCF cho thấy cổ phiếu rẻ khoảng 30% so với giá trị nội tại; nếu vốn hoá chỉ tính cổ phiếu loại A thì giá khoảng 26,34 USD, sát giá trị DCF.
+
+Dù cách nào, hai phương pháp đang trả lời hai câu hỏi khác nhau: DCF hỏi cổ phiếu có xứng với dòng tiền không, định giá tương đối hỏi nó có đắt so với các công ty may mặc khác không. Cuối năm 2008 – đầu năm 2009, cả ngành bị bán tháo mạnh (P/E trung bình 9,70), nên một cổ phiếu "đắt so với ngành" vẫn có thể "rẻ so với giá trị nội tại". Damodaran bàn kỹ hơn sự khác biệt này ở các chương khác, nhưng ví dụ này sẽ thuyết phục hơn nếu chương nói ra điều đó.
 
 ### Phần định giá tương đối có những điểm yếu về dữ liệu mà người đọc nên biết
 
-Nhóm "công ty may mặc" gồm nhiều công ty ngoài ngành (Kimberly-Clark làm giấy và tã, Avon mỹ phẩm, Tupperware đồ nhựa gia dụng, Polaris xe địa hình, Raven Industries sản phẩm công nghiệp, Ennis in ấn, Cintas, UniFirst, G&K cho thuê đồng phục), có lẽ do phân loại tự động của cơ sở dữ liệu. American Apparel có beta 0, gần như chắc chắn là thiếu dữ liệu, lại có tăng trưởng cao nhất (30%), nên có thể làm lệch hệ số beta trong hồi quy. Hồi quy gia quyền theo vốn hoá khiến Nike và Kimberly-Clark (khoảng 44 tỷ USD, hơn một nửa tổng vốn hoá mẫu) chi phối kết quả. R² 25,9% và hệ số beta chỉ có ý nghĩa ở mức 10% cho thấy P/E hợp lý 10,98 có khoảng sai số rộng; con số "đắt 89%" nên được đọc là "có vẻ đắt" chứ không phải một ước lượng chính xác. Chính Damodaran nói ở đầu mục rằng định giá tương đối không làm giảm sự bất định.
+Nhóm "công ty may mặc" gồm nhiều công ty ngoài ngành (Kimberly-Clark làm giấy và tã, Avon mỹ phẩm, Tupperware đồ nhựa gia dụng, Polaris xe địa hình, Raven Industries sản phẩm công nghiệp, Ennis in ấn, Cintas, UniFirst, G&K cho thuê đồng phục), có lẽ do phân loại tự động của cơ sở dữ liệu. American Apparel có beta 0, gần như chắc chắn là thiếu dữ liệu, lại có tăng trưởng cao nhất (30%), nên có thể làm lệch hệ số beta trong hồi quy.
+
+Hồi quy gia quyền theo vốn hoá khiến Nike và Kimberly-Clark (khoảng 44 tỷ USD, hơn một nửa tổng vốn hoá mẫu) chi phối kết quả. R² 25,9% và hệ số beta chỉ có ý nghĩa ở mức 10% cho thấy P/E hợp lý 10,98 có khoảng sai số rộng; con số "đắt 89%" nên được đọc là "có vẻ đắt" chứ không phải một ước lượng chính xác. Chính Damodaran nói ở đầu mục rằng định giá tương đối không làm giảm sự bất định.
 
 ### Under Armour về sau minh hoạ đúng cả hai mặt của bài học về quy mô và cạnh tranh
 
-Theo hiểu biết của người tổng hợp, không tra cứu: trong khoảng 2009–2015, Under Armour tăng trưởng nhanh hơn nhiều so với lịch giảm dần của Damodaran, doanh thu vượt xa mức khoảng 2,3 tỷ USD mà ông dự phóng cho năm thứ 10, và cổ phiếu tăng giá gấp nhiều lần, tức một nhà đầu tư tin vào DCF (hoặc vào câu chuyện tăng trưởng) đầu năm 2009 đã thắng lớn, bất chấp tín hiệu "đắt 89%" của định giá tương đối. Nhưng từ khoảng 2016, đúng như chương cảnh báo, quy mô lớn và cạnh tranh (Nike, Adidas, các thương hiệu đồ thể thao mới) làm tăng trưởng chậm hẳn, biên lợi nhuận giảm, cổ phiếu mất phần lớn giá trị; công ty còn bị điều tra về ghi nhận doanh thu sớm để giữ hình ảnh tăng trưởng. Việc tạo cổ phiếu loại C không có quyền biểu quyết năm 2016 cũng cho thấy vấn đề quyền kiểm soát của nhà sáng lập mà chương nêu là có thật và kéo dài. Bài học: giả định tăng trưởng giảm dần là đúng về hướng, nhưng thời điểm giảm rất khó đoán, nên định giá công ty tăng trưởng cần được cập nhật thường xuyên.
+Theo hiểu biết của người tổng hợp, không tra cứu: trong khoảng 2009–2015, Under Armour tăng trưởng nhanh hơn nhiều so với lịch giảm dần của Damodaran, doanh thu vượt xa mức khoảng 2,3 tỷ USD mà ông dự phóng cho năm thứ 10, và cổ phiếu tăng giá gấp nhiều lần, tức một nhà đầu tư tin vào DCF (hoặc vào câu chuyện tăng trưởng) đầu năm 2009 đã thắng lớn, bất chấp tín hiệu "đắt 89%" của định giá tương đối.
+
+Nhưng từ khoảng 2016, đúng như chương cảnh báo, quy mô lớn và cạnh tranh (Nike, Adidas, các thương hiệu đồ thể thao mới) làm tăng trưởng chậm hẳn, biên lợi nhuận giảm, cổ phiếu mất phần lớn giá trị; công ty còn bị điều tra về ghi nhận doanh thu sớm để giữ hình ảnh tăng trưởng. Việc tạo cổ phiếu loại C không có quyền biểu quyết năm 2016 cũng cho thấy vấn đề quyền kiểm soát của nhà sáng lập mà chương nêu là có thật và kéo dài. Bài học: giả định tăng trưởng giảm dần là đúng về hướng, nhưng thời điểm giảm rất khó đoán, nên định giá công ty tăng trưởng cần được cập nhật thường xuyên.
 
 ### Một số chỗ đơn giản hoá cần lưu ý khi áp dụng
 
-Damodaran cộng các cam kết thuê tài sản vào nợ và điều chỉnh EBIT cho thuê tài sản, một cách làm mà ông chủ trương từ lâu; theo hiểu biết của người tổng hợp, từ 2019 chuẩn mực kế toán (IFRS 16, ASC 842) đã đưa phần lớn thuê hoạt động lên bảng cân đối, nên điều chỉnh này nay phần nào được báo cáo tài chính làm sẵn. Mặt khác, các cam kết tài trợ thể thao (sponsorship) được gộp vào nợ mà không bàn liệu chúng có thật sự là nghĩa vụ cố định như nợ hay không. Chi phí vốn giảm từ 9,27% xuống 7,28% không được giải thích từ các thành phần (lãi suất phi rủi ro, beta, phần bù rủi ro vốn cổ phần, tỷ lệ nợ), nên người đọc không tự dựng lại được. Tăng trưởng ổn định 2,25% gắn với mức lãi suất đầu năm 2009; theo hiểu biết của người tổng hợp, lãi suất ở Mỹ gần 0 trong nhiều năm sau đó rồi tăng mạnh từ 2022, nên người áp dụng hôm nay phải dựng lại cả chi phí vốn lẫn tăng trưởng ổn định theo lãi suất hiện hành.
+Damodaran cộng các cam kết thuê tài sản vào nợ và điều chỉnh EBIT cho thuê tài sản, một cách làm mà ông chủ trương từ lâu; theo hiểu biết của người tổng hợp, từ 2019 chuẩn mực kế toán (IFRS 16, ASC 842) đã đưa phần lớn thuê hoạt động lên bảng cân đối, nên điều chỉnh này nay phần nào được báo cáo tài chính làm sẵn.
+
+Mặt khác, các cam kết tài trợ thể thao (sponsorship) được gộp vào nợ mà không bàn liệu chúng có thật sự là nghĩa vụ cố định như nợ hay không. Chi phí vốn giảm từ 9,27% xuống 7,28% không được giải thích từ các thành phần (lãi suất phi rủi ro, beta, phần bù rủi ro vốn cổ phần, tỷ lệ nợ), nên người đọc không tự dựng lại được. Tăng trưởng ổn định 2,25% gắn với mức lãi suất đầu năm 2009; theo hiểu biết của người tổng hợp, lãi suất ở Mỹ gần 0 trong nhiều năm sau đó rồi tăng mạnh từ 2022, nên người áp dụng hôm nay phải dựng lại cả chi phí vốn lẫn tăng trưởng ổn định theo lãi suất hiện hành.
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích
 
-Với nhà đầu tư cá nhân, chương cho một danh sách kiểm tra ngắn khi nghe một "câu chuyện tăng trưởng": doanh thu tuyệt đối sau 5–10 năm là bao nhiêu và có hợp lý so với thị trường không; công ty cần đầu tư bao nhiêu tiền để đạt mức đó (với tỷ lệ doanh thu trên vốn của ngành); biên lợi nhuận đích có cao hơn các công ty lớn nhất ngành không; và giá hiện tại ngầm định những giả định gì. Với nhà phân tích, bài học kỹ thuật là chi phí vốn thay đổi theo năm, chỉ trừ nợ hiện có, tách trái phiếu chuyển đổi, trừ quyền chọn nhân viên và xử lý các loại cổ phiếu có quyền biểu quyết khác nhau. Với người đọc Việt Nam, khung này áp dụng được định tính cho các doanh nghiệp đang tăng trưởng nhanh trên sàn: số liệu ngắn và biến động, nhà sáng lập nắm quyền kiểm soát, cổ phiếu ít thanh khoản, và thị trường hay phản ứng thái quá khi kết quả kinh doanh gây thất vọng, tức đúng loại cơ hội mà mục "Value Plays" mô tả.
+Với nhà đầu tư cá nhân, chương cho một danh sách kiểm tra ngắn khi nghe một "câu chuyện tăng trưởng": doanh thu tuyệt đối sau 5–10 năm là bao nhiêu và có hợp lý so với thị trường không; công ty cần đầu tư bao nhiêu tiền để đạt mức đó (với tỷ lệ doanh thu trên vốn của ngành); biên lợi nhuận đích có cao hơn các công ty lớn nhất ngành không; và giá hiện tại ngầm định những giả định gì.
+
+Với nhà phân tích, bài học kỹ thuật là chi phí vốn thay đổi theo năm, chỉ trừ nợ hiện có, tách trái phiếu chuyển đổi, trừ quyền chọn nhân viên và xử lý các loại cổ phiếu có quyền biểu quyết khác nhau. Với người đọc Việt Nam, khung này áp dụng được định tính cho các doanh nghiệp đang tăng trưởng nhanh trên sàn: số liệu ngắn và biến động, nhà sáng lập nắm quyền kiểm soát, cổ phiếu ít thanh khoản, và thị trường hay phản ứng thái quá khi kết quả kinh doanh gây thất vọng, tức đúng loại cơ hội mà mục "Value Plays" mô tả.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn đi theo các mục 1–7 trong phần Nội dung chi tiết (khái niệm và đặc điểm công ty tăng trưởng, các vấn đề khi định giá, các bước giải pháp DCF, ví dụ DCF Under Armour, định giá tương đối và ví dụ hồi quy P/E, cách tận dụng cơ hội và kết luận), mỗi nhánh ghi khái niệm, công thức, quy tắc và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: công ty tăng trưởng lấy phần lớn giá trị từ đầu tư tương lai, định giá đúng là giữ mọi giả định nhất quán theo thời gian`"]
+  n1["`Mục 1–3 — Công ty tăng trưởng là gì và có đặc điểm gì`"]
+  n0 --- n1
+  n2["`Chương 6 xét công ty trẻ đã vượt qua cạnh tranh, thêm hai mối lo: tăng trưởng khi lớn lên và việc lên sàn`"]
+  n1 --- n2
+  n3["`Phân loại theo ngành, theo dự báo lợi nhuận hay theo bội số (cách của Morningstar) đều chủ quan và có khuyết điểm`"]
+  n1 --- n3
+  n4["`Intel, Microsoft thuộc ngành công nghệ nhưng nay giống công ty trưởng thành hơn`"]
+  n3 --- n4
+  n5["`Bảng cân đối tài chính: tài sản hiện có (đầu tư đã làm) và tài sản tăng trưởng (đầu tư sẽ làm)`"]
+  n1 --- n5
+  n6["`Giá trị tài sản tăng trưởng phụ thuộc cả mức lẫn chất lượng tăng trưởng, đo bằng lợi nhuận vượt mức (ROC so với chi phí vốn)`"]
+  n5 --- n6
+  n7["`Bốn đặc điểm: số liệu tài chính biến động, quy mô vênh nhau, ít nợ vay, lịch sử giá ngắn`"]
+  n1 --- n7
+  n8["`Vốn hoá hàng tỷ USD nhưng doanh thu nhỏ, lỗ, vì số liệu hoạt động chỉ phản ánh tài sản hiện có`"]
+  n7 --- n8
+  n9["`Mục 4 — Vì sao định giá công ty tăng trưởng khó`"]
+  n0 --- n9
+  n10["`Lợi nhuận đo sai: chi phí bán hàng xây khách hàng cho sản phẩm tương lai bị trừ hết vào lợi nhuận hiện tại`"]
+  n9 --- n10
+  n11["`Hiệu ứng quy mô: tăng 80%/năm trong 5 năm làm quy mô gấp khoảng 19 lần (1,8^5 = 18,9)`"]
+  n9 --- n11
+  n12["`Thành công thu hút đối thủ lớn, nhiều tiền, làm giảm khả năng sinh lời và giá trị tăng trưởng`"]
+  n9 --- n12
+  n13["`Sản phẩm ngách, không thiết yếu nên khách hàng cắt mua khi suy thoái`"]
+  n9 --- n13
+  n14["`Suất chiết khấu nên cao ở các năm đầu và giảm dần về mức của công ty trưởng thành`"]
+  n9 --- n14
+  n15["`Nghịch lý: giá trị cuối kỳ là phần quan trọng nhất cần làm đúng nhưng có ít căn cứ nhất`"]
+  n9 --- n15
+  n16["`Định giá tương đối gặp lại các vấn đề: công ty so sánh, năm gốc, khác biệt tăng trưởng và rủi ro`"]
+  n9 --- n16
+  n17["`P/E rất cao hoặc không tính được vì lợi nhuận hiện tại nhỏ hay âm`"]
+  n16 --- n17
+  n18["`Định giá tương đối cho cảm giác an toàn giả vì giả định bị giấu đi, sai số không kém DCF`"]
+  n16 --- n18
+  n19["`Mục 5.1 — Giải pháp DCF: giữ các giả định nhất quán`"]
+  n0 --- n19
+  n20["`Định giá toàn doanh nghiệp bằng FCFF và chi phí vốn, vì đổi tỷ lệ nợ dễ hơn dự phóng từng khoản vay trong FCFE`"]
+  n19 --- n20
+  n21["`Tăng trưởng doanh thu giảm dần: Metrick (IPO 1965–2005) thấy mức vượt ngành 15 điểm % năm 1, khoảng 7 năm 2, 0 từ năm 5`"]
+  n19 --- n21
+  n22["`Biên lợi nhuận hiện tại thường thấp (chi phí cố định, chi phí tạo tăng trưởng, chi phí đi trước doanh thu), đi dần về mức mục tiêu của ngành`"]
+  n19 --- n22
+  n23["`Tái đầu tư = mức tăng doanh thu / tỷ lệ doanh thu trên vốn, ví dụ 250 / 2,5 = 100 triệu USD`"]
+  n19 --- n23
+  n24["`Công ty có lịch sử: tăng trưởng = tỷ lệ tái đầu tư × ROC, ví dụ 80% × 25% = 20%`"]
+  n23 --- n24
+  n25["`Kỳ nghỉ đầu tư: công ty dư công suất tăng trưởng mà gần như không cần tái đầu tư`"]
+  n23 --- n25
+  n26["`Chi phí vốn riêng cho từng năm, beta từ dưới lên thay cho hồi quy trên chuỗi giá ngắn`"]
+  n19 --- n26
+  n27["`Giai đoạn tăng trưởng cao không quá 10 năm, khi ổn định ROC chỉ cao hơn chi phí vốn dưới 4–5 điểm %`"]
+  n19 --- n27
+  n28["`Tỷ lệ tái đầu tư khi ổn định = g ổn định / ROC ổn định`"]
+  n27 --- n28
+  n29["`Tiền mặt ước lại: 100 triệu USD, EBITDA 12 tháng −80 triệu, sau một quý còn khoảng 80 triệu USD`"]
+  n19 --- n29
+  n30["`Trái phiếu chuyển đổi 50 triệu USD, coupon 4%, 5 năm: phần nợ 38,63, quyền chuyển đổi 13,37 triệu USD`"]
+  n19 --- n30
+  n31["`Chỉ trừ nợ hiện có, nợ tương lai đã nằm trong chi phí vốn các năm sau`"]
+  n19 --- n31
+  n32["`Điều chỉnh sau định giá: khả năng sống sót, thanh khoản kém, quyền biểu quyết khác nhau`"]
+  n19 --- n32
+  n33["`Mục 5.1 — Ví dụ DCF Under Armour, tháng 1/2009`"]
+  n0 --- n33
+  n34["`Doanh thu từ 205 triệu USD (2004) lên 607 triệu USD (2007), tăng 44%/năm`"]
+  n33 --- n34
+  n35["`Năm gốc 12 tháng gần nhất: doanh thu 720,81, EBIT điều chỉnh thuê tài sản 88,28 triệu USD, biên 12,25%`"]
+  n33 --- n35
+  n36["`Tăng trưởng 35%, 25%, 20%, 15%, 10% rồi giảm còn 3%, sau năm 10 là 2,25% mãi mãi`"]
+  n33 --- n36
+  n37["`Biên lợi nhuận lên 12,72% (trung bình ngành), thuế suất 40%, tỷ lệ doanh thu trên vốn 1,83`"]
+  n33 --- n37
+  n38["`Chi phí vốn 9,27% năm 1–5, giảm dần còn 7,28% ở năm 10`"]
+  n33 --- n38
+  n39["`FCFF âm ba năm đầu (−65, −41, −22 triệu USD), dương từ năm 4 khi tăng trưởng chậm lại`"]
+  n33 --- n39
+  n40["`Giá trị cuối kỳ = 304,79 × 0,6 × 0,75 / (0,0728 − 0,0225) = 2.729,50 triệu USD, với ROC ổn định 9%`"]
+  n33 --- n40
+  n41["`Giá trị tài sản hoạt động 1.384,40 triệu USD, trong đó giá trị cuối kỳ chiếm khoảng 85%`"]
+  n33 --- n41
+  n42["`Cộng tiền mặt 40, trừ nợ 133 (95,5 là cam kết thuê tài sản và tài trợ) ra vốn chủ sở hữu 1.292 triệu USD`"]
+  n41 --- n42
+  n43["`Trừ quyền chọn nhân viên 23 triệu, chia 49,291 triệu cổ phiếu: 25,73 USD/cổ phiếu`"]
+  n41 --- n43
+  n44["`Loại B của Kevin Plank (quyền biểu quyết gấp 10) cao hơn 10%: loại A 25,09, loại B 27,60 USD`"]
+  n43 --- n44
+  n45["`Mục 5.2 — Định giá tương đối và ví dụ Under Armour`"]
+  n0 --- n45
+  n46["`Chọn công ty so sánh theo yếu tố cơ bản: bán lẻ tăng trưởng cao có thể so P/E với phần mềm tăng trưởng cao`"]
+  n45 --- n46
+  n47["`Bội số doanh thu che khoản lỗ, bội số lợi nhuận kỳ tới ngầm giả định công ty sống tới năm đó`"]
+  n45 --- n47
+  n48["`Ba cách điều chỉnh: câu chuyện tăng trưởng, PEG = P/E / tăng trưởng, hồi quy bội`"]
+  n45 --- n48
+  n49["`Under Armour P/E 20,71 so với ngành 9,70, tăng trưởng 20,9% so với 15%, beta 1,44 so với 1,15`"]
+  n45 --- n49
+  n50["`PEG 20,71 / 20,90 = 0,99 so với trung bình 0,70: có vẻ đắt`"]
+  n49 --- n50
+  n51["`Hồi quy trên 36 công ty may mặc: P/E = 13,78 + 32,04 × tăng trưởng − 6,60 × beta, R² = 25,9%`"]
+  n49 --- n51
+  n52["`P/E hợp lý 10,98 so với thực tế 20,71: cổ phiếu có vẻ đắt gần 89%`"]
+  n51 --- n52
+  n53["`Mục 6–7 — Tìm cơ hội đầu tư và kết luận`"]
+  n0 --- n53
+  n54["`Phải giữ được tăng trưởng khi lớn lên: kiểm tra doanh thu tuyệt đối, lịch sử, công ty trưởng thành cùng ngành`"]
+  n53 --- n54
+  n55["`Không phải bản thân tăng trưởng tạo giá trị mà là tăng trưởng có lợi nhuận vượt mức`"]
+  n53 --- n55
+  n56["`Tăng trưởng tự thân giữ lợi nhuận vượt mức tốt hơn tăng trưởng nhờ mua lại`"]
+  n55 --- n56
+  n57["`Lợi nhuận ổn định hơn và rủi ro giảm khi đa dạng sản phẩm, khách hàng`"]
+  n53 --- n57
+  n58["`Chỉ mua ở giá đúng, PEG dùng để lọc, cơ hội đến khi công ty gây thất vọng và bị bán tháo`"]
+  n53 --- n58
+  n59["`DCF tốt khi tăng trưởng và biên lợi nhuận theo quy mô, tái đầu tư đủ, chi phí vốn giảm dần`"]
+  n53 --- n59
+  n60["`Định giá tương đối bắt buộc kiểm soát khác biệt về tăng trưởng và rủi ro`"]
+  n53 --- n60
+  n61["`Thông điệp xuyên suốt`"]
+  n0 --- n61
+  n62["`Mọi giả định (tăng trưởng, biên lợi nhuận, tái đầu tư, rủi ro) phải cùng thay đổi khi công ty lớn lên`"]
+  n61 --- n62
+  n63["`Tăng trưởng chỉ tạo giá trị khi ROC trên khoản đầu tư mới vượt chi phí vốn`"]
+  n61 --- n63
+  n64["`DCF cho 25,73 USD trong khi so với ngành có vẻ đắt 89%: hai cách trả lời hai câu hỏi khác nhau`"]
+  n61 --- n64
+  class n0 root
+  class n1,n9,n19,n33,n45,n53,n61 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n60,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 2 "Valuing across the life cycle", Chương 6 "Valuing growth companies", trang 112–141.
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần 1 (Chương 2–4) đã dựng bộ công cụ: giá trị thời gian của tiền, rủi ro và suất chiết khấu, định giá chiết khấu dòng tiền (DCF) với bốn câu hỏi (dòng tiền từ tài sản hiện có, giá trị tăng trưởng, rủi ro, thời điểm doanh nghiệp đạt trạng thái ổn định), và định giá tương đối bằng bội số. Phần 2 áp dụng bộ công cụ đó cho từng giai đoạn trong vòng đời doanh nghiệp.
+
+Chương 5 ([C05-dinh-gia-cong-ty-tre-tang-truong.md](C05-dinh-gia-cong-ty-tre-tang-truong.md)) xử lý công ty khởi nghiệp tăng trưởng, nơi câu hỏi lớn nhất là công ty có sống sót hay không (ví dụ chính là Evergreen Solar, một công ty năng lượng mặt trời lỗ lớn đầu năm 2009, được định giá 0,63 USD/cổ phiếu trong khi giá thị trường là 2,70 USD).
+
+Chương 6 bước sang những công ty đã qua được thử thách cạnh tranh và trở thành doanh nghiệp thành công, đang ở giai đoạn tăng trưởng cao: vẫn mang nhiều vấn đề của công ty trẻ (lịch sử ngắn, tăng trưởng bất định, rủi ro thay đổi), nhưng thêm hai mối lo mới là tăng trưởng chậm lại khi quy mô lớn lên và việc tiếp cận thị trường vốn đại chúng làm thay đổi quyết định tài trợ và đầu tư. Chương 7 ([C07-dinh-gia-cong-ty-truong-thanh.md](C07-dinh-gia-cong-ty-truong-thanh.md)) đi tiếp tới công ty trưởng thành, tức điểm đến của mọi công ty tăng trưởng trong mô hình của chương này (giai đoạn tăng trưởng ổn định).
+
+## Lưu ý
+
+- **Phép tính "lớn gấp 18 lần" lệch với chú thích của chính nó.** Thân bài nói công ty tăng trưởng 80%/năm trong 5 năm thì nay lớn gấp 18 lần (by a factor of 18); chú thích 20 nói 1 USD sau 5 năm thành "gần 19 USD, tăng 1800%". Theo tính toán của người tổng hợp: 1,8^5 = 18,9, tức quy mô gấp khoảng 19 lần, phần tăng thêm khoảng 1.790%. Ý của Damodaran không đổi.
+- **Dẫn chiếu chương bị lệch số.** Bản thảo hai lần viết "chapter 9" cho nội dung về công ty trẻ (tăng trưởng doanh thu; cách theo dõi tỷ suất lợi nhuận trên vốn ngầm định), trong khi đó là Chương 5 (Chương 9 là công ty dịch vụ tài chính). Mục "Choice of Model" và "Stable growth assumptions" dẫn về "chapter 2" cho các lựa chọn mô hình DCF và tăng trưởng ổn định; nội dung này nằm chủ yếu ở Chương 3 (Intrinsic Value). Ví dụ định giá tương đối được đánh số "Illustration 10.6" (sót lại từ một bản khác), và Damodaran hứa trở lại vấn đề quyền chọn nhân viên "trong một chương sau về công ty công nghệ", nhưng bản thảo không có chương nào như vậy (gần nhất là Chương 11 về công ty có tài sản vô hình).
+- **Dẫn tới những đoạn không có trong chương.** Bản thảo hai lần nhắc "section on the dark side" (phần mặt tối của việc định giá công ty tăng trưởng) và một lần nói "Earlier in this chapter, we noted how quickly growth firms can burn through cash balances"; chương này không có mục nào tên như vậy và không bàn chuyện đốt tiền mặt (chuyện đó ở Chương 5). Phần "mặt tối" tương ứng với mục "Valuation Issues" của chương. Đoạn mở mục "Valuation Issues" cũng liệt kê năm đặc điểm (có thêm "kết hợp vốn tư nhân và vốn đại chúng", "phụ thuộc vào tài trợ bằng vốn cổ phần") trong khi mục "Characteristics" trước đó chỉ nêu bốn đặc điểm khác.
+- **Bảng 6.2: số 53 ở dòng "12 tháng gần nhất" nằm nhầm cột.** Trên ảnh trang, số 53 USD nằm ở cột "Tái đầu tư"; thực ra đó là lợi nhuận hoạt động sau thuế: 88,28 × (1 − 40%) = 52,97 triệu USD. Bản tổng hợp chép số này vào cột lợi nhuận hoạt động sau thuế.
+- **Kiểm tra lại phép tính DCF Under Armour.** Người tổng hợp tính lại toàn bộ Bảng 6.2 và 6.3 từ các giả định của sách: doanh thu, lợi nhuận hoạt động, tái đầu tư (= mức tăng doanh thu / 1,83, không có độ trễ) và FCFF đều khớp trong phạm vi làm tròn (sai khác dưới 0,1 triệu USD). Ba chỗ lệch nhỏ:
+  - giá trị cuối kỳ tính đúng theo công thức sách ghi là 304,79 × 0,6 × 0,75 / (0,0728 − 0,0225) = 2.726,75 triệu USD, sách ghi 2.729,50 (lệch 2,75 triệu USD, có lẽ do chi phí vốn thực dùng là khoảng 7,275% rồi làm tròn thành 7,28%)
+  - hệ số chiết khấu cộng dồn năm 4–10 lệch ở chữ số thứ tư (ví dụ 1,0927^4 = 1,4256, sách ghi 1,4254)
+  - tổng giá trị hiện tại theo các số đã làm tròn trong bảng là 1.384,39, sách ghi 1.384,40
+
+  Các chỗ lệch này không làm thay đổi kết luận.
+- **Lỗi đơn vị ở giá trị vốn chủ sở hữu.** Bản thảo viết "$1,384 million + $40 million − $133 million = $1.292 million"; đúng phải là 1.292 triệu USD (khoảng 1,29 tỷ USD), không phải 1,292 triệu USD. Tính đủ số lẻ: 1.384,40 + 40,15 − 133 = 1.291,55 triệu USD.
+- **Giá trị mỗi cổ phiếu lệch nhẹ.** Theo tính toán của người tổng hợp: (1.292 − 23) / (36,791 + 12,5) = 1.269 / 49,291 = 25,745, tức 25,75 USD (sách ghi 25,73); với cổ phiếu loại A: 1.269 / (36,791 + 1,1 × 12,5) = 1.269 / 50,541 = 25,11 USD (sách ghi 25,09), suy ra loại B là 27,62 USD (sách ghi 27,60). Nếu dùng 1.291,55 thay cho 1.292 thì được 25,74 và 25,10. Chênh lệch dưới 0,1%.
+- **Bảng 6.4 có 36 công ty chứ không phải 34.** Văn bản và chú thích 26 nói mẫu gồm 34 công ty (trong tổng số 84 công ty may mặc, chỉ 34 có lợi nhuận dương và có dự báo tăng trưởng 5 năm), nhưng bảng liệt kê 36 dòng kể cả Under Armour. Trung bình cộng giản đơn của 36 dòng là: vốn hoá 2.338,6 triệu USD, P/E 9,66, tăng trưởng 14,45%, beta 1,18, PEG 0,71; dòng "Sector Average" của sách ghi 2.288,25; 9,70; 15,00%; 1,15; 0,70. Người tổng hợp không tái lập được dòng trung bình (có thể tính trên một mẫu khác). Mọi tỷ số PEG từng dòng thì khớp với P/E chia tăng trưởng.
+- **Dữ liệu trong Bảng 6.4 và Hình 6.3 có vài điểm lạ.** American Apparel có beta bằng 0 (nhiều khả năng là thiếu dữ liệu, vì công ty mới niêm yết); Hình 6.3 có điểm LULU (Lululemon) không có trong Bảng 6.4; nhiều "công ty may mặc" thực ra thuộc ngành khác (Kimberly-Clark, Avon, Tupperware, Polaris, Raven Industries, Ennis, Cintas, G&K Services, UniFirst). Hình 6.3 ghi R² của đường hồi quy đơn là 0,064.
+- **"Cả hai quan hệ đều có ý nghĩa thống kê" là nói hơi quá.** Thống kê t của hệ số beta là 1,91, thấp hơn ngưỡng khoảng 1,96 thường dùng cho mức ý nghĩa 5%; hệ số này chỉ có ý nghĩa ở mức 10%. P/E dự kiến tính lại là 13,78 + 32,04 × 0,209 − 6,60 × 1,44 = 10,97 (sách 10,98); mức định giá cao 20,71 / 10,98 − 1 = 88,6%, khớp với "gần 89%".
+- **Công thức tỷ lệ tái đầu tư giai đoạn trưởng thành có con số không giải thích.** Ở trang 125, công thức "Tỷ lệ tái đầu tư = Tăng trưởng kỳ vọng / ROC ổn định" được minh hoạ bằng 3,00% / 6,76% = 44,40% mà không nói số liệu này của công ty nào (có lẽ chép từ một ví dụ khác). Phép chia đúng ra 44,38%.
+- **Sách không so giá trị DCF với giá thị trường.** Damodaran dừng ở 25,73 USD/cổ phiếu mà không nói giá cổ phiếu Under Armour lúc đó. Theo tính toán của người tổng hợp từ Bảng 6.4: vốn hoá 969,1 triệu USD chia cho 49,291 triệu cổ phiếu (cả hai loại) cho khoảng 19,66 USD/cổ phiếu, còn nếu vốn hoá chỉ tính 36,791 triệu cổ phiếu loại A thì khoảng 26,34 USD. Trong trường hợp thứ nhất, DCF cho thấy cổ phiếu bị định giá thấp khoảng 30% trong khi định giá tương đối cho thấy bị định giá cao gần 89%; sách không bàn mâu thuẫn này.
+- **Số liệu thị trường năm 2009.** Chi phí vốn giảm từ 9,27% xuống 7,28% và tăng trưởng ổn định 2,25% phản ánh lãi suất phi rủi ro và phần bù rủi ro vốn cổ phần đầu năm 2009 (sách không ghi rõ lãi suất phi rủi ro dùng trong ví dụ). Theo hiểu biết của người tổng hợp, không tra cứu: lãi suất ở Mỹ gần 0 trong phần lớn giai đoạn 2009–2015 và 2020–2021, rồi tăng mạnh từ 2022, nên chi phí vốn và tốc độ tăng trưởng ổn định hợp lý ngày nay khác với các con số của ví dụ.
+- **Số phận về sau của Under Armour** (theo hiểu biết của người tổng hợp, không tra cứu): công ty tăng trưởng nhanh hơn nhiều so với dự phóng của Damodaran trong khoảng 2009–2015 (doanh thu vượt xa mức khoảng 2,3 tỷ USD mà sách dự phóng cho năm thứ 10), cổ phiếu tăng giá mạnh; năm 2016 công ty tạo thêm cổ phiếu loại C không có quyền biểu quyết để Kevin Plank giữ quyền kiểm soát.
+
+  Từ khoảng 2016, tăng trưởng chậm hẳn lại, biên lợi nhuận giảm vì cạnh tranh và giảm giá, cổ phiếu mất phần lớn giá trị; công ty bị cơ quan quản lý chứng khoán Mỹ (SEC) điều tra về việc ghi nhận doanh thu sớm và đã dàn xếp; Kevin Plank rời ghế CEO năm 2020 rồi quay lại năm 2024. Ví dụ này minh hoạ đúng hai bài học của chương: tăng trưởng phải chậm lại khi quy mô lớn lên, và thành công thu hút cạnh tranh làm giảm biên lợi nhuận.

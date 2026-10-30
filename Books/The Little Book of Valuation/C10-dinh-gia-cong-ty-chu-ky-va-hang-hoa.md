@@ -1,22 +1,16 @@
 # Chương 10 — Định giá công ty có tính chu kỳ và công ty hàng hoá cơ bản (Valuing Cyclical and Commodity Companies)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 3 "Special Situations in Valuation", Chương 10 "Valuing Cyclical and Commodity Companies", trang 241–264.
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** Phần 1 (Chương 2–4) dựng bộ công cụ: định giá chiết khấu dòng tiền (DCF) dựa trên bốn yếu tố đầu vào (dòng tiền từ tài sản hiện có, tăng trưởng trong giai đoạn gần, thời điểm công ty trưởng thành, suất chiết khấu) và định giá tương đối bằng bội số. Phần 2 (Chương 5–8) áp dụng bộ công cụ đó cho công ty ở từng giai đoạn của vòng đời doanh nghiệp. Phần 3 xử lý các "tình huống đặc biệt" mà khuôn mẫu chung phải sửa: Chương 9 ([C09](C09-dinh-gia-cong-ty-dich-vu-tai-chinh.md)) bàn về ngân hàng và công ty bảo hiểm, nơi nợ vay là nguyên liệu chứ không phải nguồn vốn. Chương 10 bàn về một vấn đề khác: công ty có thể trưởng thành, quản trị tốt, nhưng lợi nhuận và dòng tiền vẫn lên xuống theo chu kỳ kinh tế hoặc giá hàng hoá, tức là theo những yếu tố vĩ mô mà công ty không kiểm soát. Damodaran sửa lại cả DCF lẫn định giá tương đối bằng cách dùng số liệu "chuẩn hoá" hoặc cho tốc độ tăng trưởng đưa công ty dần về trạng thái bình thường. Chương 11 ([C11](C11-dinh-gia-cong-ty-co-tai-san-vo-hinh.md)) tiếp tục Phần 3 với công ty có tài sản vô hình; ý tưởng "quyền chọn thực" cuối chương này (trữ lượng chưa khai thác là một quyền chọn) cũng gắn với lập luận về quyền chọn ở Chương 5 cho công ty trẻ.
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **với công ty có tính chu kỳ và công ty hàng hoá cơ bản, con số của năm gần nhất phản ánh vị trí trong chu kỳ nhiều hơn phản ánh bản thân công ty, nên định giá dựa thẳng vào năm đó sẽ cho giá trị quá cao ở đỉnh chu kỳ và quá thấp ở đáy chu kỳ; người định giá phải nhìn xuyên qua chu kỳ, bằng cách dùng lợi nhuận chuẩn hoá (normalized earnings) hoặc cho tăng trưởng ngắn hạn đi theo chu kỳ rồi quay về mức chuẩn**. Ví dụ trung tâm là Toyota đầu năm 2009: năm tài chính 2009 (tháng 4/2008–3/2009) biên lợi nhuận hoạt động ước chỉ còn 1,18%; dùng biên lợi nhuận bình quân 1998–2009 là 7,33% nhân với doanh thu 22.661 tỷ yên, ông có lợi nhuận hoạt động chuẩn hoá 1.660,7 tỷ yên, chi phí vốn 5,09%, tăng trưởng vĩnh viễn 1,5% và giá trị 4.735 yên mỗi cổ phiếu; khi cho Toyota lỗ năm đầu rồi hồi phục dần trong ba năm, giá trị giảm còn 3.943 yên, vẫn cao hơn giá thị trường 3.060 yên. Ví dụ thứ hai là Exxon Mobil: hồi quy 24 năm cho thấy lợi nhuận hoạt động = −6.395 + 911,32 × giá dầu (R² = 90,2%); ở giá dầu 45 USD/thùng, giá trị là 69,43 USD/cổ phiếu so với giá 64,83 USD, và giá dầu chuẩn hoá hoà vốn là khoảng 42,52 USD. Chương kết thúc bằng bảng P/E của 16 công ty dầu (mỗi cách đo lợi nhuận cho một kết luận khác nhau) và lập luận rằng trữ lượng chưa khai thác là quyền chọn, nên DCF thường định giá thấp công ty tài nguyên.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phép tính bình quân lợi nhuận hoạt động của Toyota không khớp với bảng.** Văn bản nói bình quân lợi nhuận hoạt động 1998–2009 là 1.332,9 tỷ yên, nhưng dòng "Average" của Bảng 10.1 ghi 1.306.867 triệu yên (1.306,9 tỷ yên). Người tổng hợp cộng lại 12 năm trong bảng được 1.306,9 tỷ yên, đúng với dòng Average; con số 1.332,9 tỷ yên trong lời văn là sai.
-> - Văn bản nói xem kết quả "từ 1998 đến 2008", trong khi Bảng 10.1 có tiêu đề "1998–2009" và có thêm dòng FY 2009 (ước tính). Biên lợi nhuận bình quân 7,33% là bình quân giản đơn của cả 12 năm, kể cả năm 2009 (1,18%); nếu bỏ năm 2009, bình quân 11 năm là 7,89% và lợi nhuận chuẩn hoá sẽ là khoảng 1.787 tỷ yên (người tổng hợp tính). Nhãn năm trong bảng ghi "FY1 1998", "FY1 1999"..., chữ "1" thừa có lẽ là lỗi đánh máy.
-> - 7,33% × 22.661 = 1.661,1 tỷ yên; sách ghi 1.660,7 tỷ yên vì dùng biên lợi nhuận chưa làm tròn (7,328%). Chênh lệch không đáng kể.
-> - **Ghi chú 53 không khớp với Bảng 10.2.** Ghi chú nói ROC tính trên lợi nhuận chuẩn hoá và vốn đầu tư cuối 2008 là 4,98%, nhưng Bảng 10.2 cho vốn đầu tư hiện tại 14.945 tỷ yên; 1.660,7 × (1 − 0,407) / 14.945 = 6,59%, không phải 4,98%. Tương tự, ở năm cuối kỳ của Bảng 10.2 sách giả định ROC = 5,09%, nhưng lợi nhuận hoạt động sau thuế 1.011 chia vốn 15.445 cho 6,55%. Dòng "Return on Capital" của Bảng 10.2 thực ra tính bằng lợi nhuận hoạt động **trước thuế** chia vốn cuối năm (ví dụ năm 3: 916 / 15.445 = 5,93%). Các sai lệch này không làm thay đổi phép định giá vì giá trị được tính từ dòng tiền, nhưng cho thấy giả định "ROC bằng chi phí vốn" chưa nhất quán với số vốn trong bảng.
-> - Mục giải thích Ví dụ 10.3 (Toyota, tăng trưởng thích ứng) viết "In illustration 13.3, we valued Toyota" — phải là Ví dụ 10.1. Bản thảo cũng đánh số trùng: có hai "Illustration 10.3" (Toyota tăng trưởng thích ứng và P/E của các công ty dầu); ví dụ P/E đáng lẽ là 10.4.
-> - Mục Exxon Mobil: lợi nhuận hoạt động ở giá dầu 45 USD được ghi là "$34,614 billion" — đúng ra là 34.614 **triệu** USD (34,6 tỷ USD). Đoạn dưới Hình 10.2 viết vốn đầu tư giữ cố định ở "$10,629 million" — đúng ra là 101.629 triệu USD (theo ghi chú 56). Người tổng hợp tính lại theo đúng mô hình của sách và ra giá trị mỗi cổ phiếu tại giá dầu 20 USD đến 100 USD khớp với các cột của Hình 10.2 (22,29 USD đến 173,26 USD), và giá dầu hoà vốn là khoảng 42,54 USD (sách: 42,52 USD).
-> - Giá cổ phiếu Exxon trong Ví dụ 10.2 là 64,83 USD (tháng 3/2009), trong Bảng 10.3 là 65,77 USD (tháng 2/2009): hai thời điểm khác nhau, không phải lỗi.
-> - Đoạn "Normalized Valuations" dẫn "In chapter 8, we noted that economic cycles ... can range from 2–3 years to more than 10 years"; người tổng hợp không thấy nội dung này trong Chương 8 của bản thảo, nên đây có lẽ là dẫn chiếu sai. Tương tự, "In chapter 2, we noted that the discounted cash flow value ... rests on four inputs" — bốn yếu tố đầu vào này được trình bày ở Chương 3 (Intrinsic Value).
-> - Trong mục "Adaptive Growth", cụm "a commodity company when commodity companies have peaked" có lẽ phải là "when commodity prices have peaked" (khi giá hàng hoá lên đỉnh).
-> - Các con số thị trường năm 2009 nay đã khác (theo hiểu biết của người tổng hợp, không tra cứu): lợi suất trái phiếu chính phủ Nhật 10 năm (1,5% trong sách) giảm về quanh 0%, có lúc âm, trong thời kỳ Ngân hàng Trung ương Nhật kiểm soát đường cong lợi suất, rồi tăng lại từ 2023–2024; lợi suất trái phiếu Kho bạc Mỹ (2,5% trong sách) ở mức rất thấp suốt thập niên 2010 rồi tăng mạnh từ 2022. Thuế suất doanh nghiệp biên của Nhật (40,7%) đã được hạ xuống khoảng 30% trong nửa sau thập niên 2010, và thuế suất liên bang Mỹ hạ xuống 21% từ 2018, nên thuế suất 38% dùng cho Exxon không còn phù hợp. Phần bù rủi ro vốn cổ phần 6,5% là mức cao của giai đoạn khủng hoảng.
-> - Số phận về sau của các công ty ví dụ (theo hiểu biết của người tổng hợp, không tra cứu): năm tài chính kết thúc tháng 3/2009, Toyota thực tế báo **lỗ** hoạt động (lần đầu sau nhiều thập kỷ), tệ hơn ước tính lãi 267,9 tỷ yên trong Bảng 10.1 và gần với kịch bản lỗ của Ví dụ 10.3; sau đó Toyota trải qua vụ thu hồi xe 2009–2010, nhưng về lâu dài phục hồi và đạt lợi nhuận kỷ lục trong thập niên 2020. Exxon Mobil mua XTO Energy năm 2010, chịu lỗ lớn năm 2020 khi giá dầu sụp đổ, rồi lãi kỷ lục năm 2022. Nhiều công ty trong Bảng 10.3 đã đổi tên hoặc sáp nhập: Frontier Oil và Holly hợp nhất (HollyFrontier, nay là HF Sinclair); Sunoco bị Energy Transfer mua; Tesoro đổi tên thành Andeavor rồi bị Marathon Petroleum mua; Marathon Oil tách mảng lọc dầu năm 2011 và sau đó bị ConocoPhillips mua; Hess được Chevron mua lại; Royal Dutch Shell đổi tên thành Shell plc; Total đổi tên thành TotalEnergies; Repsol mất YPF khi Argentina quốc hữu hoá năm 2012; BP chịu thảm hoạ Deepwater Horizon năm 2010; Petrobras chịu bê bối tham nhũng Lava Jato từ năm 2014.
+Damodaran muốn người đọc hiểu rằng **với công ty có tính chu kỳ và công ty hàng hoá cơ bản, con số của năm gần nhất phản ánh vị trí trong chu kỳ nhiều hơn phản ánh bản thân công ty, nên định giá dựa thẳng vào năm đó sẽ cho giá trị quá cao ở đỉnh chu kỳ và quá thấp ở đáy chu kỳ; người định giá phải nhìn xuyên qua chu kỳ, bằng cách dùng lợi nhuận chuẩn hoá (normalized earnings) hoặc cho tăng trưởng ngắn hạn đi theo chu kỳ rồi quay về mức chuẩn**.
+
+Ví dụ trung tâm là Toyota đầu năm 2009: năm tài chính 2009 (tháng 4/2008–3/2009) biên lợi nhuận hoạt động ước chỉ còn 1,18%; dùng biên lợi nhuận bình quân 1998–2009 là 7,33% nhân với doanh thu 22.661 tỷ yên, ông có lợi nhuận hoạt động chuẩn hoá 1.660,7 tỷ yên, chi phí vốn 5,09%, tăng trưởng vĩnh viễn 1,5% và giá trị 4.735 yên mỗi cổ phiếu.
+
+Khi cho Toyota lỗ năm đầu rồi hồi phục dần trong ba năm, giá trị giảm còn 3.943 yên, vẫn cao hơn giá thị trường 3.060 yên.
+
+Ví dụ thứ hai là Exxon Mobil: hồi quy 24 năm cho thấy lợi nhuận hoạt động = −6.395 + 911,32 × giá dầu (R² = 90,2%); ở giá dầu 45 USD/thùng, giá trị là 69,43 USD/cổ phiếu so với giá 64,83 USD, và giá dầu chuẩn hoá hoà vốn là khoảng 42,52 USD.
+
+Chương kết thúc bằng bảng P/E của 16 công ty dầu (mỗi cách đo lợi nhuận cho một kết luận khác nhau) và lập luận rằng trữ lượng chưa khai thác là quyền chọn, nên DCF thường định giá thấp công ty tài nguyên.
 
 ## Sơ đồ
 
@@ -462,7 +456,9 @@ Chương bàn về hai nhóm công ty.
 
 Công ty hàng hoá có thể trải từ ngũ cốc tới kim loại quý, công ty chu kỳ có thể ở nhiều ngành khác nhau, nhưng chúng có chung một số yếu tố ảnh hưởng tới cách nhìn và giá trị của chúng.
 
-**Đặc điểm 1 — Chu kỳ kinh tế hoặc chu kỳ giá hàng hoá (The Economic/Commodity price cycle).** Công ty chu kỳ phụ thuộc vào chu kỳ kinh tế. Quản trị giỏi và lựa chọn chiến lược đúng có thể làm một số công ty ít bị ảnh hưởng hơn, nhưng khả năng rất cao là mọi công ty chu kỳ đều giảm doanh thu khi kinh tế suy thoái nặng. Khác với công ty ở nhiều ngành khác, công ty hàng hoá phần lớn là người chấp nhận giá: ngay cả công ty dầu lớn nhất cũng phải bán theo giá thị trường đang có. Vì vậy doanh thu của công ty hàng hoá chịu tác động rất mạnh của giá hàng hoá. Thực tế, khi công ty hàng hoá trưởng thành và sản lượng đi ngang, gần như toàn bộ biến động doanh thu có thể truy về vị trí trong chu kỳ giá hàng hoá. Khi giá đi lên, mọi công ty sản xuất hàng hoá đó đều hưởng lợi; khi giá đi xuống, ngay cả công ty tốt nhất cũng bị ảnh hưởng.
+**Đặc điểm 1 — Chu kỳ kinh tế hoặc chu kỳ giá hàng hoá (The Economic/Commodity price cycle).** Công ty chu kỳ phụ thuộc vào chu kỳ kinh tế. Quản trị giỏi và lựa chọn chiến lược đúng có thể làm một số công ty ít bị ảnh hưởng hơn, nhưng khả năng rất cao là mọi công ty chu kỳ đều giảm doanh thu khi kinh tế suy thoái nặng.
+
+Khác với công ty ở nhiều ngành khác, công ty hàng hoá phần lớn là người chấp nhận giá: ngay cả công ty dầu lớn nhất cũng phải bán theo giá thị trường đang có. Vì vậy doanh thu của công ty hàng hoá chịu tác động rất mạnh của giá hàng hoá. Thực tế, khi công ty hàng hoá trưởng thành và sản lượng đi ngang, gần như toàn bộ biến động doanh thu có thể truy về vị trí trong chu kỳ giá hàng hoá. Khi giá đi lên, mọi công ty sản xuất hàng hoá đó đều hưởng lợi; khi giá đi xuống, ngay cả công ty tốt nhất cũng bị ảnh hưởng.
 
 **Đặc điểm 2 — Tài nguyên có hạn (Finite resources).** Riêng công ty hàng hoá có thêm một đặc điểm: lượng tài nguyên trên Trái đất là có hạn. Giá dầu tăng thì có thể thăm dò thêm, nhưng không thể tạo ra dầu. Khi định giá, điều này không chỉ ảnh hưởng tới dự báo giá hàng hoá trong tương lai mà còn có thể hạn chế cách làm thông thường là giả định tăng trưởng vĩnh viễn khi tính giá trị cuối kỳ.
 
@@ -484,7 +480,9 @@ Nếu biến động lợi nhuận là chuyện tất yếu ở công ty chu k�
 
 Cách dễ nhất để định giá công ty chu kỳ và hàng hoá là nhìn qua những dao động năm này qua năm khác để tìm một con số "đã làm phẳng" nằm bên dưới.
 
-**Thế nào là con số bình thường (What are normal numbers?).** Báo cáo tài chính hiện tại trả lời câu hỏi công ty đã kiếm được bao nhiêu, tái đầu tư bao nhiêu và tạo ra bao nhiêu dòng tiền trong kỳ gần nhất. Con số chuẩn hoá trả lời một câu hỏi khác: trong một năm bình thường, công ty sẽ có bao nhiêu lợi nhuận, tái đầu tư và dòng tiền? Với công ty chu kỳ, năm bình thường là năm ở điểm giữa chu kỳ, khi số liệu không bị điều kiện kinh tế thổi phồng hay làm xẹp. Với công ty hàng hoá, năm bình thường là năm mà giá hàng hoá phản ánh giá nội tại của hàng hoá, tức phản ánh cung cầu thực. Cả hai định nghĩa đều cho thấy phần chủ quan của việc chuẩn hoá: hai nhà phân tích nhìn cùng một nền kinh tế hay một loại hàng hoá có thể đánh giá rất khác nhau về thế nào là bình thường.
+**Thế nào là con số bình thường (What are normal numbers?).** Báo cáo tài chính hiện tại trả lời câu hỏi công ty đã kiếm được bao nhiêu, tái đầu tư bao nhiêu và tạo ra bao nhiêu dòng tiền trong kỳ gần nhất. Con số chuẩn hoá trả lời một câu hỏi khác: trong một năm bình thường, công ty sẽ có bao nhiêu lợi nhuận, tái đầu tư và dòng tiền?
+
+Với công ty chu kỳ, năm bình thường là năm ở điểm giữa chu kỳ, khi số liệu không bị điều kiện kinh tế thổi phồng hay làm xẹp. Với công ty hàng hoá, năm bình thường là năm mà giá hàng hoá phản ánh giá nội tại của hàng hoá, tức phản ánh cung cầu thực. Cả hai định nghĩa đều cho thấy phần chủ quan của việc chuẩn hoá: hai nhà phân tích nhìn cùng một nền kinh tế hay một loại hàng hoá có thể đánh giá rất khác nhau về thế nào là bình thường.
 
 **Đo giá trị chuẩn hoá cho công ty chu kỳ (Measuring normalized values for cyclical companies).** Chấp nhận phần chủ quan đó, có ba kỹ thuật chuẩn hoá thông dụng:
 1. **Bình quân tuyệt đối theo thời gian (Absolute average over time).** Cách phổ biến nhất là lấy bình quân các con số qua thời gian, dù độ dài giai đoạn bình quân vẫn còn tranh cãi. Về lý thuyết, giai đoạn phải đủ dài để phủ trọn một chu kỳ; chu kỳ kinh tế, ngay cả ở nền kinh tế trưởng thành như Mỹ, có thể ngắn (2–3 năm) hoặc rất dài (hơn 10 năm). Ưu điểm là đơn giản. Nhược điểm là con số tuyệt đối qua thời gian sẽ ước sai giá trị chuẩn hoá của công ty đã thay đổi quy mô trong giai đoạn đó: dùng lợi nhuận bình quân 5 năm làm lợi nhuận chuẩn hoá cho một công ty đã tăng gấp đôi doanh thu trong 5 năm đó sẽ ước thấp lợi nhuận thực.
@@ -518,7 +516,7 @@ Cách dễ nhất để định giá công ty chu kỳ và hàng hoá là nhìn 
 (Bản thảo ghi nhãn năm là "FY1 1998"... "FY1 2008" và "FY 2009 (Est)". Người tổng hợp đã kiểm tra: mọi biên lợi nhuận trong bảng khớp với doanh thu và lợi nhuận; bình quân lợi nhuận hoạt động 12 năm đúng là 1.306.867 triệu yên; bình quân giản đơn 12 biên lợi nhuận hoạt động là 7,328%, làm tròn 7,33%.)
 
 **Bước 2 — Chọn cách chuẩn hoá lợi nhuận hoạt động.** Damodaran xem xét ba kỹ thuật:
-- *Bình quân lợi nhuận (Average income):* bình quân lợi nhuận hoạt động 1998–2009. Văn bản ghi 1.332,9 tỷ yên, nhưng theo bảng là 1.306,9 tỷ yên (xem Lưu ý). Vì doanh thu trong giai đoạn đã tăng hơn gấp đôi (11.678 tỷ yên năm 1998 lên 26.289 tỷ yên năm 2008, gấp 2,25 lần), con số này ước thấp lợi nhuận hoạt động chuẩn hoá.
+- *Bình quân lợi nhuận (Average income):* bình quân lợi nhuận hoạt động 1998–2009. Văn bản ghi 1.332,9 tỷ yên, nhưng theo bảng là 1.306,9 tỷ yên (xem mục Lưu ý cuối chương). Vì doanh thu trong giai đoạn đã tăng hơn gấp đôi (11.678 tỷ yên năm 1998 lên 26.289 tỷ yên năm 2008, gấp 2,25 lần), con số này ước thấp lợi nhuận hoạt động chuẩn hoá.
 - *Biên lợi nhuận bình quân ngành (Industry average margin):* biên lợi nhuận hoạt động trước thuế bình quân của các hãng ô tô toàn cầu giai đoạn 1998–2008 là khoảng 6%. Năm 2009 nhiều hãng còn tệ hơn Toyota nhiều và có thể báo lỗ lớn. Áp biên ngành vào doanh thu 2009 của Toyota: 6% × 22.661 = 1.360 tỷ yên. Con số này cũng ước thấp, vì không phản ánh việc Toyota thuộc nhóm lãi nhất ngành.
 - *Biên lợi nhuận lịch sử của chính Toyota (Historical margin):* bình quân biên lợi nhuận hoạt động trước thuế 1998–2009 là 7,33%. Áp vào doanh thu 2009: 7,33% × 22.661 = 1.660,7 tỷ yên (người tổng hợp tính được 1.661,1 với 7,33% làm tròn; 1.660,7 khớp với 7,328% chưa làm tròn). Con số này phản ánh cả quy mô lớn hơn hiện nay lẫn sự thành công của Toyota trong ngành. **Damodaran chọn 1.660,7 tỷ yên làm lợi nhuận hoạt động chuẩn hoá.**
 
@@ -535,7 +533,7 @@ Theo ghi chú 52, đây là phần bù rủi ro của thị trường trưởng 
 
 Damodaran đã xem chi phí vốn của Toyota qua thời gian; vì cả tỷ lệ nợ lẫn chi phí vốn đều không thay đổi nhiều, ông dùng 5,09% làm chi phí vốn chuẩn hoá.
 
-**Bước 5 — Tăng trưởng và tái đầu tư.** Toyota đã là hãng ô tô lớn nhất thế giới theo thị phần, nên Damodaran giả định công ty đã ở giai đoạn tăng trưởng ổn định, tăng 1,5% mỗi năm vĩnh viễn (giới hạn ở mức lãi suất phi rủi ro). Ông cũng giả định khoản đầu tư mới của Toyota đem lại ROC đúng bằng chi phí vốn. Lý do (ghi chú 53): Toyota là hãng ô tô vận hành hiệu quả nhất theo hầu hết các chỉ số; ông giả định công ty không tạo được lợi nhuận vượt mức nhưng hoà vốn được; ROC tính trên lợi nhuận chuẩn hoá và vốn đầu tư cuối năm 2008 là 4,98%, rất gần 5,09% (xem Lưu ý về chỗ không khớp với Bảng 10.2).
+**Bước 5 — Tăng trưởng và tái đầu tư.** Toyota đã là hãng ô tô lớn nhất thế giới theo thị phần, nên Damodaran giả định công ty đã ở giai đoạn tăng trưởng ổn định, tăng 1,5% mỗi năm vĩnh viễn (giới hạn ở mức lãi suất phi rủi ro). Ông cũng giả định khoản đầu tư mới của Toyota đem lại ROC đúng bằng chi phí vốn. Lý do (ghi chú 53): Toyota là hãng ô tô vận hành hiệu quả nhất theo hầu hết các chỉ số; ông giả định công ty không tạo được lợi nhuận vượt mức nhưng hoà vốn được; ROC tính trên lợi nhuận chuẩn hoá và vốn đầu tư cuối năm 2008 là 4,98%, rất gần 5,09% (xem mục Lưu ý cuối chương về chỗ không khớp với Bảng 10.2).
 
 Tỷ lệ tái đầu tư giai đoạn ổn định = g / ROC = 0,015 / 0,0509 = 29,46%. (Kiểm tra: 29,47%, khớp.)
 
@@ -565,7 +563,9 @@ Với công ty hàng hoá, biến số gây biến động là giá hàng hoá. 
 
 Khi đã có giá chuẩn hoá, ta tính doanh thu, lợi nhuận và dòng tiền mà công ty lẽ ra có ở mức giá đó. Với doanh thu và lợi nhuận, có thể chỉ cần nhân số đơn vị bán ra với giá chuẩn hoá và giả định hợp lý về chi phí. Với tái đầu tư và chi phí tài trợ, cần phán đoán chủ quan xem chúng sẽ thay đổi bao nhiêu (nếu có) ở mức giá chuẩn hoá.
 
-**Dự báo dựa trên thị trường (Market-based forecasts).** Dùng giá hàng hoá chuẩn hoá khiến phép định giá dễ bị phê phán là phản ánh quan điểm của người định giá về giá hàng hoá nhiều như quan điểm về công ty. Ví dụ, giá dầu hiện tại là 45 USD mà dùng giá chuẩn hoá 100 USD để định giá một công ty dầu thì nhiều khả năng sẽ thấy công ty bị định giá thấp, chỉ vì quan điểm về giá dầu. Muốn loại quan điểm về giá hàng hoá khỏi phép định giá, cách an toàn nhất là dùng giá do thị trường đưa ra: phần lớn hàng hoá có thị trường kỳ hạn và thị trường tương lai, nên có thể dùng giá ở các thị trường này để ước dòng tiền vài năm tới. Với công ty dầu, dùng giá dầu hôm nay cho dòng tiền năm nay và giá dầu kỳ vọng (từ thị trường kỳ hạn, tương lai) cho dòng tiền các năm sau.
+**Dự báo dựa trên thị trường (Market-based forecasts).** Dùng giá hàng hoá chuẩn hoá khiến phép định giá dễ bị phê phán là phản ánh quan điểm của người định giá về giá hàng hoá nhiều như quan điểm về công ty. Ví dụ, giá dầu hiện tại là 45 USD mà dùng giá chuẩn hoá 100 USD để định giá một công ty dầu thì nhiều khả năng sẽ thấy công ty bị định giá thấp, chỉ vì quan điểm về giá dầu.
+
+Muốn loại quan điểm về giá hàng hoá khỏi phép định giá, cách an toàn nhất là dùng giá do thị trường đưa ra: phần lớn hàng hoá có thị trường kỳ hạn và thị trường tương lai, nên có thể dùng giá ở các thị trường này để ước dòng tiền vài năm tới. Với công ty dầu, dùng giá dầu hôm nay cho dòng tiền năm nay và giá dầu kỳ vọng (từ thị trường kỳ hạn, tương lai) cho dòng tiền các năm sau.
 
 Ưu điểm của cách này là có sẵn cơ chế phòng ngừa rủi ro giá hàng hoá: nhà đầu tư tin công ty bị định giá thấp nhưng không chắc về giá hàng hoá có thể mua cổ phiếu công ty và bán hợp đồng tương lai dầu để tự bảo vệ trước biến động giá bất lợi.
 
@@ -730,7 +730,7 @@ Công thức dùng trong bảng: Vốn đầu tư năm t = Vốn đầu tư năm
 - *Giá trị hiện tại:* −412 / 1,0509 = −392; −88 / 1,0509² = −80; (314 + 19.856) / 1,0509³ = 17.378 (gồm 271 từ FCFF năm 3 và 17.107 từ giá trị cuối kỳ). Tổng = −392 − 80 + 17.378 = 16.906, khớp 16.907. Đúng.
 - *Vốn chủ sở hữu:* 16.907 + 9.133 − 11.862 − 583 = 13.595, trong đó 9.133 = 2.288 tiền mặt + 6.845 tài sản phi hoạt động. Mỗi cổ phiếu: 13.595 / 3,448 = 3.943 yên. Đúng.
 - *Vốn đầu tư:* 14.945 − 200 = 14.745; + 300 = 15.045; + 400 = 15.445. Đúng.
-- *ROC:* dòng này được tính bằng lợi nhuận hoạt động trước thuế chia vốn đầu tư cuối năm (268 / 14.945 = 1,79%; −612 / 14.745 = −4,15%; 212 / 15.045 = 1,41%; 916 / 15.445 = 5,93%), còn 5,09% ở năm cuối kỳ là giả định chứ không phải kết quả tính (xem Lưu ý).
+- *ROC:* dòng này được tính bằng lợi nhuận hoạt động trước thuế chia vốn đầu tư cuối năm (268 / 14.945 = 1,79%; −612 / 14.745 = −4,15%; 212 / 15.045 = 1,41%; 916 / 15.445 = 5,93%), còn 5,09% ở năm cuối kỳ là giả định chứ không phải kết quả tính (xem mục Lưu ý cuối chương).
 
 **Nhận xét của Damodaran về các dự báo.**
 1. Tăng trưởng doanh thu âm ở năm 1 nhưng bật lại mạnh ở năm 2 và 3, phản ánh quá trình trở lại bình thường.
@@ -743,9 +743,17 @@ Chi phí vốn giữ nguyên 5,09% suốt giai đoạn. Giá trị hiện tại 
 
 Hai cách đã dùng trong DCF, chuẩn hoá lợi nhuận và điều chỉnh tốc độ tăng trưởng, cũng là hai cách làm cho định giá tương đối dùng được với công ty chu kỳ và hàng hoá.
 
-**Bội số trên lợi nhuận chuẩn hoá (Normalized Earnings Multiples).** Nếu lợi nhuận chuẩn hoá phản ánh mức công ty kiếm được trong một năm bình thường, thì cách thị trường định giá các công ty so với lợi nhuận chuẩn hoá phải nhất quán. Trong trường hợp cực đoan, khi các công ty không khác nhau về tăng trưởng và rủi ro, mọi công ty phải giao dịch ở cùng một bội số của lợi nhuận chuẩn hoá: P/E tính trên EPS chuẩn hoá phải như nhau. Trong trường hợp tổng quát, khi khác biệt về tăng trưởng và rủi ro vẫn còn sau khi chuẩn hoá, bội số sẽ khác nhau: công ty có lợi nhuận rủi ro hơn giao dịch ở bội số lợi nhuận chuẩn hoá thấp hơn công ty có lợi nhuận ổn định; công ty có tiềm năng tăng trưởng cao hơn giao dịch ở bội số cao hơn. Ví dụ: Petrobras và Exxon Mobil đều là công ty dầu chịu ảnh hưởng giá dầu. Ngay cả khi đã chuẩn hoá lợi nhuận (tức đã kiểm soát yếu tố giá dầu), Petrobras vẫn nên giao dịch ở bội số khác Exxon, vì lợi nhuận của Petrobras rủi ro hơn (gần như hoàn toàn đến từ trữ lượng ở Brazil) và vì Petrobras có tiềm năng tăng trưởng cao hơn.
+**Bội số trên lợi nhuận chuẩn hoá (Normalized Earnings Multiples).** Nếu lợi nhuận chuẩn hoá phản ánh mức công ty kiếm được trong một năm bình thường, thì cách thị trường định giá các công ty so với lợi nhuận chuẩn hoá phải nhất quán. Trong trường hợp cực đoan, khi các công ty không khác nhau về tăng trưởng và rủi ro, mọi công ty phải giao dịch ở cùng một bội số của lợi nhuận chuẩn hoá: P/E tính trên EPS chuẩn hoá phải như nhau.
 
-**Yếu tố cơ bản thích ứng (Adaptive fundamentals).** Với những nhà phân tích ngại thay số liệu hoạt động hiện tại bằng số chuẩn hoá, bội số của công ty chu kỳ và hàng hoá sẽ thay đổi theo chu kỳ. Cụ thể, bội số lợi nhuận của các công ty này xuống thấp nhất ở đỉnh chu kỳ và cao nhất ở đáy chu kỳ. Điều này nghe ngược trực giác nhưng phản ánh việc thị trường phải định giá các công ty này cho dài hạn. Nếu lợi nhuận của mọi công ty trong ngành đi cùng nhịp, so sánh bội số trên lợi nhuận hiện tại không gây hậu quả nghiêm trọng: có thể kết luận một công ty thép có P/E 6 được định giá hợp lý ở đỉnh chu kỳ, khi các công ty thép cùng báo lợi nhuận cao (và P/E thấp); cũng công ty đó được định giá hợp lý ở P/E 15 tại đáy chu kỳ, khi lợi nhuận của các công ty thép khác cũng giảm. Giống như với lợi nhuận chuẩn hoá, mối lo chính là phải kiểm soát các yếu tố khác ảnh hưởng tới P/E. Khi chu kỳ thuận lợi (kinh tế mạnh, giá hàng hoá cao), mọi công ty trong ngành có thể báo lợi nhuận cao, nhưng công ty có triển vọng dài hạn tốt hơn nên giao dịch ở bội số cao hơn. Tương tự, khi giá dầu thấp mọi công ty dầu có thể báo lợi nhuận thấp, nhưng công ty có lợi nhuận dễ dự đoán hơn nên giao dịch ở bội số cao hơn.
+Trong trường hợp tổng quát, khi khác biệt về tăng trưởng và rủi ro vẫn còn sau khi chuẩn hoá, bội số sẽ khác nhau: công ty có lợi nhuận rủi ro hơn giao dịch ở bội số lợi nhuận chuẩn hoá thấp hơn công ty có lợi nhuận ổn định; công ty có tiềm năng tăng trưởng cao hơn giao dịch ở bội số cao hơn.
+
+Ví dụ: Petrobras và Exxon Mobil đều là công ty dầu chịu ảnh hưởng giá dầu. Ngay cả khi đã chuẩn hoá lợi nhuận (tức đã kiểm soát yếu tố giá dầu), Petrobras vẫn nên giao dịch ở bội số khác Exxon, vì lợi nhuận của Petrobras rủi ro hơn (gần như hoàn toàn đến từ trữ lượng ở Brazil) và vì Petrobras có tiềm năng tăng trưởng cao hơn.
+
+**Yếu tố cơ bản thích ứng (Adaptive fundamentals).** Với những nhà phân tích ngại thay số liệu hoạt động hiện tại bằng số chuẩn hoá, bội số của công ty chu kỳ và hàng hoá sẽ thay đổi theo chu kỳ. Cụ thể, bội số lợi nhuận của các công ty này xuống thấp nhất ở đỉnh chu kỳ và cao nhất ở đáy chu kỳ. Điều này nghe ngược trực giác nhưng phản ánh việc thị trường phải định giá các công ty này cho dài hạn.
+
+Nếu lợi nhuận của mọi công ty trong ngành đi cùng nhịp, so sánh bội số trên lợi nhuận hiện tại không gây hậu quả nghiêm trọng: có thể kết luận một công ty thép có P/E 6 được định giá hợp lý ở đỉnh chu kỳ, khi các công ty thép cùng báo lợi nhuận cao (và P/E thấp); cũng công ty đó được định giá hợp lý ở P/E 15 tại đáy chu kỳ, khi lợi nhuận của các công ty thép khác cũng giảm.
+
+Giống như với lợi nhuận chuẩn hoá, mối lo chính là phải kiểm soát các yếu tố khác ảnh hưởng tới P/E. Khi chu kỳ thuận lợi (kinh tế mạnh, giá hàng hoá cao), mọi công ty trong ngành có thể báo lợi nhuận cao, nhưng công ty có triển vọng dài hạn tốt hơn nên giao dịch ở bội số cao hơn. Tương tự, khi giá dầu thấp mọi công ty dầu có thể báo lợi nhuận thấp, nhưng công ty có lợi nhuận dễ dự đoán hơn nên giao dịch ở bội số cao hơn.
 
 ### 13. Ví dụ: P/E của các công ty dầu (Illustration 10.3 [đánh số trùng]: PE ratios for oil companies, trang 258–260)
 
@@ -814,7 +822,9 @@ Kết lại, nếu coi trữ lượng chưa khai thác là quyền chọn, DCF n
 
 Công ty chu kỳ và công ty hàng hoá có lợi nhuận biến động, và biến động đến từ yếu tố kinh tế vĩ mô ngoài tầm kiểm soát của công ty. Khi kinh tế yếu đi rồi mạnh lên, lợi nhuận công ty chu kỳ lên xuống theo; lợi nhuận và dòng tiền của công ty hàng hoá đi theo giá hàng hoá.
 
-Khi định giá các công ty này, nhà phân tích thường mắc một trong hai sai lầm: hoặc bỏ qua chu kỳ và giả định lợi nhuận, dòng tiền năm nay (vốn do vị trí trong chu kỳ quyết định) sẽ kéo dài mãi; hoặc tốn công sức cố dự báo chu kỳ trong dài hạn. Damodaran đưa ra hai cách định giá. Cách thứ nhất nhìn xuyên qua chu kỳ tới lợi nhuận, tăng trưởng và dòng tiền chuẩn hoá, với giả định rằng chu kỳ gây dao động lớn nhưng ta không dự báo được biến động từng năm. Cách thứ hai vẫn giả định chuẩn hoá nhưng chỉ trong dài hạn; trong ngắn hạn, doanh thu, lợi nhuận và dòng tiền được dự báo theo vị trí hiện tại trong chu kỳ. Hai cách cho kết quả gần nhau khi công ty ở giữa chu kỳ, nhưng khác xa nhau ở đỉnh hoặc đáy chu kỳ.
+Khi định giá các công ty này, nhà phân tích thường mắc một trong hai sai lầm: hoặc bỏ qua chu kỳ và giả định lợi nhuận, dòng tiền năm nay (vốn do vị trí trong chu kỳ quyết định) sẽ kéo dài mãi; hoặc tốn công sức cố dự báo chu kỳ trong dài hạn.
+
+Damodaran đưa ra hai cách định giá. Cách thứ nhất nhìn xuyên qua chu kỳ tới lợi nhuận, tăng trưởng và dòng tiền chuẩn hoá, với giả định rằng chu kỳ gây dao động lớn nhưng ta không dự báo được biến động từng năm. Cách thứ hai vẫn giả định chuẩn hoá nhưng chỉ trong dài hạn; trong ngắn hạn, doanh thu, lợi nhuận và dòng tiền được dự báo theo vị trí hiện tại trong chu kỳ. Hai cách cho kết quả gần nhau khi công ty ở giữa chu kỳ, nhưng khác xa nhau ở đỉnh hoặc đáy chu kỳ.
 
 Phần cuối chương xem xét khả năng coi trữ lượng chưa khai thác là quyền chọn, vì công ty có quyền nhưng không bắt buộc khai thác chúng. Damodaran lập luận rằng công ty hàng hoá, nhất là khi giá hàng hoá biến động mạnh, có thể giao dịch ở mức cao hơn giá trị DCF của mình.
 
@@ -859,7 +869,11 @@ Giá trị của công ty có tính chu kỳ và công ty hàng hoá cơ bản p
 
 ### Trong ngôn ngữ tài chính doanh nghiệp
 
-Chương này là bài tập về **ước lượng dòng tiền kỳ vọng** khi dòng tiền hiện tại không phải là ước lượng không chệch của dòng tiền tương lai. Lợi nhuận chuẩn hoá là cách ước "giá trị kỳ vọng" của lợi nhuận qua phân phối các trạng thái của chu kỳ; tăng trưởng thích ứng là mô hình quay về trung bình có lộ trình. Rủi ro chu kỳ là rủi ro hệ thống (gắn với nền kinh tế), nên nó đi vào giá trị qua hệ số beta và chi phí vốn, còn rủi ro kiệt quệ tài chính do chu kỳ cần được xét riêng (như Chương 8). Đòn bẩy hoạt động và đòn bẩy tài chính là hai tầng khuếch đại biến động từ doanh thu tới lợi nhuận ròng. Ràng buộc "tỷ lệ tái đầu tư = g / ROC" giữ cho giả định tăng trưởng nhất quán với lượng vốn bỏ ra; khi ROC = chi phí vốn (Toyota), tăng trưởng không thêm giá trị. Phần cuối áp dụng lý thuyết **quyền chọn thực**: trữ lượng chưa khai thác là quyền chọn mua trên giá hàng hoá, có giá trị tăng theo độ biến động, nên mô hình DCF dùng giá kỳ vọng bỏ sót phần giá trị lồi (convexity) này.
+Chương này là bài tập về **ước lượng dòng tiền kỳ vọng** khi dòng tiền hiện tại không phải là ước lượng không chệch của dòng tiền tương lai. Lợi nhuận chuẩn hoá là cách ước "giá trị kỳ vọng" của lợi nhuận qua phân phối các trạng thái của chu kỳ; tăng trưởng thích ứng là mô hình quay về trung bình có lộ trình.
+
+Rủi ro chu kỳ là rủi ro hệ thống (gắn với nền kinh tế), nên nó đi vào giá trị qua hệ số beta và chi phí vốn, còn rủi ro kiệt quệ tài chính do chu kỳ cần được xét riêng (như Chương 8). Đòn bẩy hoạt động và đòn bẩy tài chính là hai tầng khuếch đại biến động từ doanh thu tới lợi nhuận ròng. Ràng buộc "tỷ lệ tái đầu tư = g / ROC" giữ cho giả định tăng trưởng nhất quán với lượng vốn bỏ ra; khi ROC = chi phí vốn (Toyota), tăng trưởng không thêm giá trị.
+
+Phần cuối áp dụng lý thuyết **quyền chọn thực**: trữ lượng chưa khai thác là quyền chọn mua trên giá hàng hoá, có giá trị tăng theo độ biến động, nên mô hình DCF dùng giá kỳ vọng bỏ sót phần giá trị lồi (convexity) này.
 
 ## Thuật ngữ
 
@@ -925,26 +939,232 @@ Chương này là bài tập về **ước lượng dòng tiền kỳ vọng** k
 
 ### Chuẩn hoá bằng biên lợi nhuận nhân doanh thu hiện tại là cải tiến đơn giản nhưng quyết định so với bình quân lợi nhuận
 
-Điểm mạnh nhất về mặt kỹ thuật của chương là phân biệt bình quân tuyệt đối và bình quân tương đối. Với Toyota, bình quân lợi nhuận 12 năm chỉ khoảng 1.307 tỷ yên, trong khi biên bình quân nhân doanh thu hiện tại cho 1.660,7 tỷ yên, chênh khoảng 27%. Với một công ty đã tăng gấp đôi quy mô, chênh lệch đó đủ biến kết luận "định giá thấp" thành "định giá hợp lý". Tuy nhiên chuẩn hoá bằng biên lợi nhuận vẫn giả định doanh thu hiện tại là "bình thường"; với Toyota năm 2009, doanh thu cũng đã giảm 14% do suy thoái, nên ngay cả 1.660,7 tỷ yên cũng có thể là chuẩn hoá chưa trọn. Ngược lại, lựa chọn đưa năm 2009 (1,18%) vào bình quân lại kéo biên xuống. Hai tác động này ngược chiều nhau, và người đọc nên thấy rằng "lợi nhuận chuẩn hoá" là một vùng chứ không phải một điểm: chỉ riêng việc có tính năm 2009 hay không đã làm lợi nhuận chuẩn hoá chênh khoảng 7–8% (1.661 so với 1.787 tỷ yên).
+Điểm mạnh nhất về mặt kỹ thuật của chương là phân biệt bình quân tuyệt đối và bình quân tương đối. Với Toyota, bình quân lợi nhuận 12 năm chỉ khoảng 1.307 tỷ yên, trong khi biên bình quân nhân doanh thu hiện tại cho 1.660,7 tỷ yên, chênh khoảng 27%. Với một công ty đã tăng gấp đôi quy mô, chênh lệch đó đủ biến kết luận "định giá thấp" thành "định giá hợp lý".
+
+Tuy nhiên chuẩn hoá bằng biên lợi nhuận vẫn giả định doanh thu hiện tại là "bình thường"; với Toyota năm 2009, doanh thu cũng đã giảm 14% do suy thoái, nên ngay cả 1.660,7 tỷ yên cũng có thể là chuẩn hoá chưa trọn. Ngược lại, lựa chọn đưa năm 2009 (1,18%) vào bình quân lại kéo biên xuống. Hai tác động này ngược chiều nhau, và người đọc nên thấy rằng "lợi nhuận chuẩn hoá" là một vùng chứ không phải một điểm: chỉ riêng việc có tính năm 2009 hay không đã làm lợi nhuận chuẩn hoá chênh khoảng 7–8% (1.661 so với 1.787 tỷ yên).
 
 ### Ví dụ Exxon cho thấy định giá công ty hàng hoá thực chất là một phát biểu có điều kiện về giá hàng hoá
 
-Đồ thị giá trị mỗi cổ phiếu theo giá dầu chuẩn hoá (Figure 10.2 trong sách) có lẽ là bài học hữu ích nhất của chương: giá trị Exxon đi từ khoảng 22 USD (dầu 20 USD) tới khoảng 173 USD (dầu 100 USD), tức là gấp gần 8 lần chỉ vì thay giả định giá dầu. Giá trị 69,43 USD so với giá 64,83 USD là chênh lệch nhỏ hơn rất nhiều so với độ nhạy này. Cách Damodaran trình bày kết quả dưới dạng "giá dầu hoà vốn 42,52 USD" là cách trung thực: nó cho nhà đầu tư biết họ đang đặt cược vào điều gì. Có một điểm đơn giản hoá đáng chú ý: mô hình giữ vốn đầu tư cố định và cho ROC tăng theo giá dầu, nên ở giá dầu cao ROC lên rất cao và tỷ lệ tái đầu tư rất thấp; trong thực tế, giá dầu cao kéo theo chi phí thăm dò, khai thác và vốn đầu tư cao hơn, nên quan hệ giữa giá dầu và giá trị có lẽ không tuyến tính và dốc như vậy. Hồi quy cũng giả định quan hệ 1985–2008 tiếp tục đúng, trong khi Exxon sau đó đã thay đổi danh mục tài sản đáng kể (theo hiểu biết của người tổng hợp, mua XTO Energy năm 2010 và Pioneer Natural Resources năm 2024).
+Đồ thị giá trị mỗi cổ phiếu theo giá dầu chuẩn hoá (Figure 10.2 trong sách) có lẽ là bài học hữu ích nhất của chương: giá trị Exxon đi từ khoảng 22 USD (dầu 20 USD) tới khoảng 173 USD (dầu 100 USD), tức là gấp gần 8 lần chỉ vì thay giả định giá dầu. Giá trị 69,43 USD so với giá 64,83 USD là chênh lệch nhỏ hơn rất nhiều so với độ nhạy này.
+
+Cách Damodaran trình bày kết quả dưới dạng "giá dầu hoà vốn 42,52 USD" là cách trung thực: nó cho nhà đầu tư biết họ đang đặt cược vào điều gì.
+
+Có một điểm đơn giản hoá đáng chú ý: mô hình giữ vốn đầu tư cố định và cho ROC tăng theo giá dầu, nên ở giá dầu cao ROC lên rất cao và tỷ lệ tái đầu tư rất thấp; trong thực tế, giá dầu cao kéo theo chi phí thăm dò, khai thác và vốn đầu tư cao hơn, nên quan hệ giữa giá dầu và giá trị có lẽ không tuyến tính và dốc như vậy. Hồi quy cũng giả định quan hệ 1985–2008 tiếp tục đúng, trong khi Exxon sau đó đã thay đổi danh mục tài sản đáng kể (theo hiểu biết của người tổng hợp, mua XTO Energy năm 2010 và Pioneer Natural Resources năm 2024).
 
 ### Tăng trưởng thích ứng hoá ra gần thực tế hơn chuẩn hoá tức thì, ít nhất với Toyota
 
-Theo hiểu biết của người tổng hợp, không tra cứu, Toyota thực tế báo lỗ hoạt động cho năm tài chính kết thúc tháng 3/2009, trong khi Bảng 10.1 còn ước lãi 267,9 tỷ yên; năm sau đó công ty lại chịu thêm vụ thu hồi xe quy mô lớn. Kịch bản lỗ năm đầu rồi hồi phục dần trong Ví dụ 10.3 vì vậy gần với diễn biến thật hơn giả định chuẩn hoá tức thì của Ví dụ 10.1. Về dài hạn, Toyota đã vượt xa mức "biên 7,33%, ROC bằng chi phí vốn" và đạt lợi nhuận kỷ lục trong thập niên 2020, nên giả định "không tạo lợi nhuận vượt mức" của Damodaran hoá ra thận trọng. Bài học không phải là kịch bản nào "đúng", mà là: khi công ty ở đáy chu kỳ, hai cách cho kết quả cách nhau khoảng 20% (4.735 so với 3.943 yên), và cả hai đều chỉ ra cùng một hướng (giá thị trường 3.060 yên thấp hơn giá trị). Khi hai phương pháp với giả định khác nhau cùng chỉ một hướng, kết luận vững hơn.
+Theo hiểu biết của người tổng hợp, không tra cứu, Toyota thực tế báo lỗ hoạt động cho năm tài chính kết thúc tháng 3/2009, trong khi Bảng 10.1 còn ước lãi 267,9 tỷ yên; năm sau đó công ty lại chịu thêm vụ thu hồi xe quy mô lớn. Kịch bản lỗ năm đầu rồi hồi phục dần trong Ví dụ 10.3 vì vậy gần với diễn biến thật hơn giả định chuẩn hoá tức thì của Ví dụ 10.1.
+
+Về dài hạn, Toyota đã vượt xa mức "biên 7,33%, ROC bằng chi phí vốn" và đạt lợi nhuận kỷ lục trong thập niên 2020, nên giả định "không tạo lợi nhuận vượt mức" của Damodaran hoá ra thận trọng. Bài học không phải là kịch bản nào "đúng", mà là: khi công ty ở đáy chu kỳ, hai cách cho kết quả cách nhau khoảng 20% (4.735 so với 3.943 yên), và cả hai đều chỉ ra cùng một hướng (giá thị trường 3.060 yên thấp hơn giá trị). Khi hai phương pháp với giả định khác nhau cùng chỉ một hướng, kết luận vững hơn.
 
 ### Bản thảo có nhiều chỗ không nhất quán về con số, nhưng không chỗ nào làm đổi kết luận
 
-Người tổng hợp đã kiểm tra lại mọi phép tính: các phép định giá chính (19.640 tỷ yên, 4.735 yên, 16.907 tỷ yên, 3.943 yên, 320.472 triệu USD, 69,43 USD) và cả 64 giá trị P/E đều đúng. Các chỗ sai nằm ở chi tiết: bình quân lợi nhuận 1.332,9 tỷ yên (bảng cho 1.306,9), đơn vị "billion" thay vì "million", vốn "10.629" thay vì "101.629", ROC 4,98% của ghi chú 53 không khớp với vốn đầu tư 14.945 tỷ yên của Bảng 10.2, và dòng ROC của Bảng 10.2 dùng lợi nhuận trước thuế. Chỗ đáng bàn nhất là giả định ROC bằng chi phí vốn ở năm cuối kỳ: với vốn đầu tư 15.445 tỷ yên và lợi nhuận hoạt động sau thuế 1.011 tỷ yên, ROC ngụ ý là khoảng 6,5%, cao hơn chi phí vốn 5,09%. Nếu dùng ROC 6,5% để tính tái đầu tư, tỷ lệ tái đầu tư sẽ thấp hơn (khoảng 23%) và giá trị cao hơn; vậy con số 3.943 yên là ước lượng thận trọng.
+Người tổng hợp đã kiểm tra lại mọi phép tính: các phép định giá chính (19.640 tỷ yên, 4.735 yên, 16.907 tỷ yên, 3.943 yên, 320.472 triệu USD, 69,43 USD) và cả 64 giá trị P/E đều đúng. Các chỗ sai nằm ở chi tiết: bình quân lợi nhuận 1.332,9 tỷ yên (bảng cho 1.306,9), đơn vị "billion" thay vì "million", vốn "10.629" thay vì "101.629", ROC 4,98% của ghi chú 53 không khớp với vốn đầu tư 14.945 tỷ yên của Bảng 10.2, và dòng ROC của Bảng 10.2 dùng lợi nhuận trước thuế.
+
+Chỗ đáng bàn nhất là giả định ROC bằng chi phí vốn ở năm cuối kỳ: với vốn đầu tư 15.445 tỷ yên và lợi nhuận hoạt động sau thuế 1.011 tỷ yên, ROC ngụ ý là khoảng 6,5%, cao hơn chi phí vốn 5,09%. Nếu dùng ROC 6,5% để tính tái đầu tư, tỷ lệ tái đầu tư sẽ thấp hơn (khoảng 23%) và giá trị cao hơn; vậy con số 3.943 yên là ước lượng thận trọng.
 
 ### Lập luận quyền chọn thực đúng về hướng nhưng khó định lượng, và chương không định lượng nó
 
-Phần quyền chọn thực đưa ra bốn hàm ý có thể kiểm chứng (giá trị phụ thuộc biến động; công ty nhiều trữ lượng chưa khai thác hưởng lợi hơn khi biến động tăng; công ty chậm khai thác khi biến động tăng; phần giá trị quyền chọn lớn nhất khi giá thấp). Đây là phần có tính lý thuyết cao nhất của chương, nhưng Damodaran không đưa ví dụ số nào, nên người đọc không biết phụ trội quyền chọn lớn cỡ nào so với giá trị DCF. Quan điểm trái chiều: nhiều nhà phân tích cho rằng thị trường hiếm khi trả phụ trội đáng kể cho trữ lượng chưa khai thác, nhất là khi chi phí vốn cao và rủi ro chuyển dịch năng lượng làm tăng khả năng một phần trữ lượng dầu khí không bao giờ được khai thác. Ràng buộc "tài nguyên có hạn" được nêu ở đầu chương nhưng không được dùng lại trong hai ví dụ, nơi cả Toyota và Exxon đều được giả định tăng trưởng vĩnh viễn (1,5% và 2%).
+Phần quyền chọn thực đưa ra bốn hàm ý có thể kiểm chứng (giá trị phụ thuộc biến động; công ty nhiều trữ lượng chưa khai thác hưởng lợi hơn khi biến động tăng; công ty chậm khai thác khi biến động tăng; phần giá trị quyền chọn lớn nhất khi giá thấp). Đây là phần có tính lý thuyết cao nhất của chương, nhưng Damodaran không đưa ví dụ số nào, nên người đọc không biết phụ trội quyền chọn lớn cỡ nào so với giá trị DCF.
+
+Quan điểm trái chiều: nhiều nhà phân tích cho rằng thị trường hiếm khi trả phụ trội đáng kể cho trữ lượng chưa khai thác, nhất là khi chi phí vốn cao và rủi ro chuyển dịch năng lượng làm tăng khả năng một phần trữ lượng dầu khí không bao giờ được khai thác. Ràng buộc "tài nguyên có hạn" được nêu ở đầu chương nhưng không được dùng lại trong hai ví dụ, nơi cả Toyota và Exxon đều được giả định tăng trưởng vĩnh viễn (1,5% và 2%).
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích
 
-Với nhà đầu tư cá nhân, bài học thực hành rõ nhất là thận trọng với P/E thấp của cổ phiếu chu kỳ và hàng hoá ở đỉnh chu kỳ: Bảng 10.3 cho thấy cùng một công ty có thể có P/E 3,55 hoặc 8,00 tuỳ cách đo lợi nhuận (ConocoPhillips), hoặc 136 hoặc 7,9 (Hess). Trước khi so sánh, hãy chọn một cách đo nhất quán, tốt nhất là lợi nhuận chuẩn hoá qua cả chu kỳ, và tự hỏi công ty có sống qua được một đợt suy thoái dài hay không (bảng cân đối, nợ vay). Với nhà phân tích, chương gợi ý một quy trình: (1) xác định biến số vĩ mô điều khiển lợi nhuận (GDP, giá hàng hoá); (2) ước quan hệ giữa lợi nhuận và biến số đó (biên bình quân, hồi quy); (3) định giá ở mức chuẩn hoá và ở lộ trình hồi phục; (4) trình bày giá trị như một hàm của biến số vĩ mô và tìm điểm hoà vốn.
+Với nhà đầu tư cá nhân, bài học thực hành rõ nhất là thận trọng với P/E thấp của cổ phiếu chu kỳ và hàng hoá ở đỉnh chu kỳ: Bảng 10.3 cho thấy cùng một công ty có thể có P/E 3,55 hoặc 8,00 tuỳ cách đo lợi nhuận (ConocoPhillips), hoặc 136 hoặc 7,9 (Hess). Trước khi so sánh, hãy chọn một cách đo nhất quán, tốt nhất là lợi nhuận chuẩn hoá qua cả chu kỳ, và tự hỏi công ty có sống qua được một đợt suy thoái dài hay không (bảng cân đối, nợ vay).
+
+Với nhà phân tích, chương gợi ý một quy trình: (1) xác định biến số vĩ mô điều khiển lợi nhuận (GDP, giá hàng hoá); (2) ước quan hệ giữa lợi nhuận và biến số đó (biên bình quân, hồi quy); (3) định giá ở mức chuẩn hoá và ở lộ trình hồi phục; (4) trình bày giá trị như một hàm của biến số vĩ mô và tìm điểm hoà vốn.
 
 Với người đọc Việt Nam (vận dụng định tính, không dựa trên số liệu cụ thể), các ngành như thép, phân bón, cao su, dầu khí, bất động sản, vật liệu xây dựng và chứng khoán đều mang tính chu kỳ hoặc gắn với giá hàng hoá. Cách làm của chương áp dụng trực tiếp: tránh đánh giá cổ phiếu thép hay phân bón bằng P/E của năm giá đầu ra lên đỉnh; dùng biên lợi nhuận bình quân qua ít nhất một chu kỳ đầy đủ nhân với quy mô hiện tại; xem giá trị thay đổi ra sao khi giá thép, giá urê hay giá dầu thay đổi; và ưu tiên công ty có nợ vay thấp để vượt qua giai đoạn giá thấp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: sáu nhánh lớn đi theo các mục 1–16 trong phần Nội dung chi tiết (biến động đến từ bên ngoài và bị khuếch đại, chuẩn hoá và Ví dụ 10.1 Toyota, chuẩn hoá quanh giá hàng hoá và Ví dụ 10.2 Exxon Mobil, tăng trưởng thích ứng và Ví dụ 10.3, định giá tương đối và P/E 16 công ty dầu, quyền chọn thực và cách đầu tư), mỗi nhánh ghi định nghĩa, công thức, con số then chốt và quy tắc quyết định; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: con số năm gần nhất phản ánh vị trí trong chu kỳ, nên phải nhìn xuyên qua chu kỳ bằng lợi nhuận chuẩn hoá hoặc tăng trưởng thích ứng`"]
+  n1["`Mục 1–4 — Biến động đến từ bên ngoài và bị khuếch đại`"]
+  n0 --- n1
+  n2["`Công ty chu kỳ chịu nhịp kinh tế, công ty hàng hoá chịu nhịp giá hàng hoá, kể cả khi đã trưởng thành`"]
+  n1 --- n2
+  n3["`Định giá theo năm gần nhất: năm bùng nổ cho giá trị quá cao, năm suy thoái cho giá trị quá thấp`"]
+  n1 --- n3
+  n4["`Nhận diện công ty chu kỳ theo ngành (rẻ, nhưng Walmart và Abercrombie #amp; Fitch cùng bị gắn nhãn) hoặc theo lịch sử chính công ty`"]
+  n1 --- n4
+  n5["`Công ty hàng hoá có ba nhóm: bán cho doanh nghiệp (Vale, Rio Tinto, BHP), lương thực tới người tiêu dùng, dầu khí và mỏ vàng phục vụ cả hai`"]
+  n1 --- n5
+  n6["`Công ty hàng hoá là người chấp nhận giá: ngay cả công ty dầu lớn nhất cũng bán theo giá thị trường`"]
+  n1 --- n6
+  n7["`Tài nguyên có hạn: giá dầu tăng thì thăm dò thêm nhưng không tạo ra dầu, hạn chế giả định tăng trưởng vĩnh viễn`"]
+  n1 --- n7
+  n8["`Đòn bẩy hoạt động cao: doanh thu Toyota giảm khoảng 14%, lợi nhuận hoạt động giảm khoảng 88%`"]
+  n1 --- n8
+  n9["`Nợ vay nhiều do đầu tư hạ tầng lớn, nên lợi nhuận ròng dao động còn mạnh hơn lợi nhuận hoạt động`"]
+  n1 --- n9
+  n10["`Suy thoái hoặc giá hàng hoá thấp kéo dài có thể đẩy cả công ty khoẻ nhất tới kiệt quệ tài chính`"]
+  n1 --- n10
+  n11["`Mục 5–7 — Chuẩn hoá: định giá theo một năm bình thường (Ví dụ 10.1 Toyota)`"]
+  n0 --- n11
+  n12["`Hai cách sửa DCF: chuẩn hoá cả bốn đầu vào, hoặc tăng trưởng thích ứng theo vị trí trong chu kỳ`"]
+  n11 --- n12
+  n13["`Năm bình thường: công ty chu kỳ là năm giữa chu kỳ, công ty hàng hoá là năm giá hàng hoá bằng giá nội tại`"]
+  n11 --- n13
+  n14["`Định nghĩa bình thường mang tính chủ quan: hai nhà phân tích có thể phán đoán rất khác nhau`"]
+  n13 --- n14
+  n15["`Ba kỹ thuật chuẩn hoá cho công ty chu kỳ`"]
+  n11 --- n15
+  n16["`Bình quân tuyệt đối: đơn giản, phải phủ một chu kỳ (2–3 năm tới hơn 10 năm), ước thấp công ty đã lớn lên`"]
+  n15 --- n16
+  n17["`Bình quân tương đối: bình quân biên lợi nhuận nhân doanh thu năm gần nhất, giải quyết vấn đề quy mô`"]
+  n15 --- n17
+  n18["`Bình quân ngành: cho công ty ít lịch sử, ít biến động nhưng bỏ qua ưu thế hay yếu kém riêng`"]
+  n15 --- n18
+  n19["`Ví dụ 10.1: Toyota đầu 2009, biên lợi nhuận hoạt động năm tài chính 2009 chỉ 1,18% trên doanh thu 22.661 tỷ yên`"]
+  n11 --- n19
+  n20["`Bình quân lợi nhuận khoảng 1.307 tỷ yên quá thấp vì doanh thu đã tăng gấp 2,25 lần`"]
+  n19 --- n20
+  n21["`Biên ngành ô tô 6% × 22.661 = 1.360 tỷ yên quá thấp vì Toyota lãi hơn ngành`"]
+  n19 --- n21
+  n22["`Chọn biên bình quân của chính Toyota: 7,33% × 22.661 = 1.660,7 tỷ yên`"]
+  n19 --- n22
+  n23["`Chi phí vốn chủ sở hữu 1,50% + 1,10 × 6,5% = 8,65%#59; tỷ lệ nợ 52,9%#59; chi phí vốn 5,09%`"]
+  n19 --- n23
+  n24["`g = 1,5%, ROC bằng chi phí vốn, tái đầu tư = 1,5% / 5,09% = 29,46%`"]
+  n19 --- n24
+  n25["`Giá trị tài sản hoạt động 19.640 tỷ yên, giá trị 4.735 yên/cổ phiếu so với giá 3.060 yên`"]
+  n19 --- n25
+  n26["`Mục 8–9 — Công ty hàng hoá: chuẩn hoá quanh giá hàng hoá (Ví dụ 10.2 Exxon Mobil)`"]
+  n0 --- n26
+  n27["`Giá hàng hoá chuẩn hoá: bình quân lịch sử điều chỉnh lạm phát, hoặc phân tích cung cầu`"]
+  n26 --- n27
+  n28["`Phê phán: dùng giá chuẩn hoá 100 USD khi dầu 45 USD thì công ty dầu nào cũng có vẻ bị định giá thấp`"]
+  n26 --- n28
+  n29["`Dự báo dựa trên thị trường: giá giao ngay cho năm nay, giá kỳ hạn và giá tương lai cho các năm sau`"]
+  n26 --- n29
+  n30["`Tin công ty rẻ nhưng không chắc giá dầu: mua cổ phiếu và bán hợp đồng tương lai dầu`"]
+  n29 --- n30
+  n31["`Ví dụ 10.2: hồi quy 24 năm, lợi nhuận hoạt động = −6.395 + 911,32 × giá dầu, R² = 90,2%`"]
+  n26 --- n31
+  n32["`Dầu tăng 10 USD/thùng thì lợi nhuận hoạt động tăng khoảng 9,11 tỷ USD`"]
+  n31 --- n32
+  n33["`Chi phí vốn 8,18% (beta 0,90, tỷ lệ nợ 2,85%, xếp hạng AAA), g = 2%`"]
+  n31 --- n33
+  n34["`Ở dầu 45 USD: lợi nhuận hoạt động 34.614 triệu USD, ROC 21%, tái đầu tư 9,52%`"]
+  n31 --- n34
+  n35["`Giá trị 69,43 USD/cổ phiếu so với giá 64,83 USD: hơi bị định giá thấp`"]
+  n31 --- n35
+  n36["`Độ nhạy: khoảng 22 USD ở dầu 20 USD, khoảng 173 USD ở dầu 100 USD`"]
+  n31 --- n36
+  n37["`Giá dầu hoà vốn 42,52 USD/thùng: tin dầu ổn định trên mức này thì Exxon bị định giá thấp`"]
+  n31 --- n37
+  n38["`Mục 10–11 — Tăng trưởng thích ứng: theo chu kỳ trong ngắn hạn, chuẩn hoá trong dài hạn`"]
+  n0 --- n38
+  n39["`Rủi ro của chuẩn hoá: chu kỳ có thể kéo dài, sự trở lại bình thường còn lâu mới tới`"]
+  n38 --- n39
+  n40["`Ở đáy: hạ doanh thu, lợi nhuận năm đầu rồi cho tăng nhanh, biên cải thiện#59; ở đỉnh làm ngược lại`"]
+  n38 --- n40
+  n41["`Giả định: dự báo được chu kỳ trong 6 tháng tới vài năm, không dự báo được dài hạn`"]
+  n38 --- n41
+  n42["`Ví dụ 10.3: Toyota doanh thu −10%, +4%, +8% rồi 1,5%#59; biên −3%, 1%, 4% rồi 7,33%`"]
+  n38 --- n42
+  n43["`Lỗ 612 tỷ yên năm 1 tạo khoản lỗ chuyển sang, che hết thuế năm 2 và một phần năm 3`"]
+  n42 --- n43
+  n44["`FCFF −412, −88, 314, 713 tỷ yên#59; giá trị cuối kỳ cuối năm 3 là 19.856 tỷ yên`"]
+  n42 --- n44
+  n45["`Giá trị tài sản hoạt động 16.907 tỷ yên, vốn chủ sở hữu 13.595 tỷ yên`"]
+  n42 --- n45
+  n46["`3.943 yên/cổ phiếu: thấp hơn 4.735 yên nhưng vẫn cao hơn giá 3.060 yên`"]
+  n42 --- n46
+  n47["`Mục 12–13 — Định giá tương đối: đo lợi nhuận nhất quán`"]
+  n0 --- n47
+  n48["`P/E trên EPS chuẩn hoá: nếu tăng trưởng và rủi ro như nhau thì mọi công ty có cùng P/E`"]
+  n47 --- n48
+  n49["`Lợi nhuận rủi ro hơn thì P/E thấp hơn, tăng trưởng cao hơn thì P/E cao hơn (Petrobras so với Exxon)`"]
+  n48 --- n49
+  n50["`P/E trên lợi nhuận hiện tại thấp nhất ở đỉnh, cao nhất ở đáy chu kỳ, vì thị trường định giá cho dài hạn`"]
+  n47 --- n50
+  n51["`Công ty thép P/E 6 ở đỉnh và P/E 15 ở đáy có thể đều được định giá hợp lý`"]
+  n50 --- n51
+  n52["`16 công ty dầu tháng 2/2009 (dầu từ 140 xuống 45 USD): bốn loại P/E chỉ ra bốn cổ phiếu rẻ nhất khác nhau`"]
+  n47 --- n52
+  n53["`P/E hiện tại: rẻ nhất Sunoco 4,99, đắt nhất Hess 136,12, nhưng năm gần nhất lệch nhau giữa các công ty`"]
+  n52 --- n53
+  n54["`P/E 12 tháng gần nhất: rẻ nhất ConocoPhillips 3,55, nhưng chỉ tăng 4%/năm so với Petrobras 8,5%`"]
+  n52 --- n54
+  n55["`P/E dự phóng: không công ty nào dưới 6, thấp nhất Repsol 6,43`"]
+  n52 --- n55
+  n56["`P/E chuẩn hoá (EPS bình quân 5 năm): rẻ nhất Repsol 4,26, đắt nhất Hess 16,81`"]
+  n52 --- n56
+  n57["`Bài học: đo lợi nhuận nhất quán cho mọi công ty#59; dòng tiền, tăng trưởng, rủi ro vẫn quyết định bội số`"]
+  n47 --- n57
+  n58["`Mục 14–15 — Quyền chọn thực và cách tận dụng cơ hội định giá`"]
+  n0 --- n58
+  n59["`Ban quản trị nhìn giá rồi mới đầu tư, nên trữ lượng chưa khai thác là quyền chọn thực`"]
+  n58 --- n59
+  n60["`Biến động tăng: Petrobras (nhiều trữ lượng chưa khai thác) tăng giá trị so với Exxon, công ty chậm khai thác để giữ giá trị thời gian`"]
+  n59 --- n60
+  n61["`Dầu 25 lên 40 rồi về 25 USD: giá trị có thể không về mức cũ vì biến động cảm nhận đã tăng`"]
+  n59 --- n61
+  n62["`Phần giá trị quyền chọn lớn nhất khi giá hàng hoá thấp, giảm dần khi giá tăng`"]
+  n59 --- n62
+  n63["`DCF dùng giá kỳ vọng nên thường định giá thấp công ty tài nguyên, nhất là khi giá biến động mạnh`"]
+  n59 --- n63
+  n64["`Đầu tư vào công ty hàng hoá cũng là đầu tư vào hàng hoá: hoặc có quan điểm về giá, hoặc phòng ngừa bằng hợp đồng tương lai`"]
+  n58 --- n64
+  n65["`Tin giá sẽ tăng: chọn công ty nhiều trữ lượng chưa khai thác và đủ vốn sống qua giai đoạn giá thấp`"]
+  n64 --- n65
+  n66["`Công ty chu kỳ: mua công ty mạnh (ROC chuẩn hoá trên chi phí vốn, nợ thấp) hoặc P/B thấp đi kèm ROE chuẩn hoá cao`"]
+  n58 --- n66
+  n67["`Thông điệp xuyên suốt`"]
+  n0 --- n67
+  n68["`Hai sai lầm: coi lợi nhuận năm nay là kéo dài mãi, hoặc tốn công dự báo chu kỳ dài hạn`"]
+  n67 --- n68
+  n69["`Chuẩn hoá và tăng trưởng thích ứng cho kết quả gần nhau ở giữa chu kỳ, khác xa ở đỉnh hoặc đáy`"]
+  n67 --- n69
+  n70["`P/E thấp ở đỉnh chu kỳ có thể là cái bẫy, P/E cao ở đáy chu kỳ có thể là cơ hội`"]
+  n67 --- n70
+  n71["`Nói rõ giả định giá hàng hoá và tìm giá hoà vốn để biết mình thực chất đang đặt cược vào điều gì`"]
+  n67 --- n71
+  class n0 root
+  class n1,n11,n26,n38,n47,n58,n67 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n64,n65,n66,n68,n69,n70,n71 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 3 "Special Situations in Valuation", Chương 10 "Valuing Cyclical and Commodity Companies", trang 241–264.
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần 1 (Chương 2–4) dựng bộ công cụ: định giá chiết khấu dòng tiền (DCF) dựa trên bốn yếu tố đầu vào (dòng tiền từ tài sản hiện có, tăng trưởng trong giai đoạn gần, thời điểm công ty trưởng thành, suất chiết khấu) và định giá tương đối bằng bội số. Phần 2 (Chương 5–8) áp dụng bộ công cụ đó cho công ty ở từng giai đoạn của vòng đời doanh nghiệp.
+
+Phần 3 xử lý các "tình huống đặc biệt" mà khuôn mẫu chung phải sửa: Chương 9 ([C09](C09-dinh-gia-cong-ty-dich-vu-tai-chinh.md)) bàn về ngân hàng và công ty bảo hiểm, nơi nợ vay là nguyên liệu chứ không phải nguồn vốn. Chương 10 bàn về một vấn đề khác: công ty có thể trưởng thành, quản trị tốt, nhưng lợi nhuận và dòng tiền vẫn lên xuống theo chu kỳ kinh tế hoặc giá hàng hoá, tức là theo những yếu tố vĩ mô mà công ty không kiểm soát. Damodaran sửa lại cả DCF lẫn định giá tương đối bằng cách dùng số liệu "chuẩn hoá" hoặc cho tốc độ tăng trưởng đưa công ty dần về trạng thái bình thường.
+
+Chương 11 ([C11](C11-dinh-gia-cong-ty-co-tai-san-vo-hinh.md)) tiếp tục Phần 3 với công ty có tài sản vô hình; ý tưởng "quyền chọn thực" cuối chương này (trữ lượng chưa khai thác là một quyền chọn) cũng gắn với lập luận về quyền chọn ở Chương 5 cho công ty trẻ.
+
+## Lưu ý
+
+- **Phép tính bình quân lợi nhuận hoạt động của Toyota không khớp với bảng.** Văn bản nói bình quân lợi nhuận hoạt động 1998–2009 là 1.332,9 tỷ yên, nhưng dòng "Average" của Bảng 10.1 ghi 1.306.867 triệu yên (1.306,9 tỷ yên). Người tổng hợp cộng lại 12 năm trong bảng được 1.306,9 tỷ yên, đúng với dòng Average; con số 1.332,9 tỷ yên trong lời văn là sai.
+- Văn bản nói xem kết quả "từ 1998 đến 2008", trong khi Bảng 10.1 có tiêu đề "1998–2009" và có thêm dòng FY 2009 (ước tính). Biên lợi nhuận bình quân 7,33% là bình quân giản đơn của cả 12 năm, kể cả năm 2009 (1,18%); nếu bỏ năm 2009, bình quân 11 năm là 7,89% và lợi nhuận chuẩn hoá sẽ là khoảng 1.787 tỷ yên (người tổng hợp tính). Nhãn năm trong bảng ghi "FY1 1998", "FY1 1999"..., chữ "1" thừa có lẽ là lỗi đánh máy.
+- 7,33% × 22.661 = 1.661,1 tỷ yên; sách ghi 1.660,7 tỷ yên vì dùng biên lợi nhuận chưa làm tròn (7,328%). Chênh lệch không đáng kể.
+- **Ghi chú 53 không khớp với Bảng 10.2.** Ghi chú nói ROC tính trên lợi nhuận chuẩn hoá và vốn đầu tư cuối 2008 là 4,98%, nhưng Bảng 10.2 cho vốn đầu tư hiện tại 14.945 tỷ yên; 1.660,7 × (1 − 0,407) / 14.945 = 6,59%, không phải 4,98%. Tương tự, ở năm cuối kỳ của Bảng 10.2 sách giả định ROC = 5,09%, nhưng lợi nhuận hoạt động sau thuế 1.011 chia vốn 15.445 cho 6,55%.
+
+  Dòng "Return on Capital" của Bảng 10.2 thực ra tính bằng lợi nhuận hoạt động **trước thuế** chia vốn cuối năm (ví dụ năm 3: 916 / 15.445 = 5,93%). Các sai lệch này không làm thay đổi phép định giá vì giá trị được tính từ dòng tiền, nhưng cho thấy giả định "ROC bằng chi phí vốn" chưa nhất quán với số vốn trong bảng.
+- Mục giải thích Ví dụ 10.3 (Toyota, tăng trưởng thích ứng) viết "In illustration 13.3, we valued Toyota" — phải là Ví dụ 10.1. Bản thảo cũng đánh số trùng: có hai "Illustration 10.3" (Toyota tăng trưởng thích ứng và P/E của các công ty dầu); ví dụ P/E đáng lẽ là 10.4.
+- Mục Exxon Mobil: lợi nhuận hoạt động ở giá dầu 45 USD được ghi là "$34,614 billion" — đúng ra là 34.614 **triệu** USD (34,6 tỷ USD). Đoạn dưới Hình 10.2 viết vốn đầu tư giữ cố định ở "$10,629 million" — đúng ra là 101.629 triệu USD (theo ghi chú 56). Người tổng hợp tính lại theo đúng mô hình của sách và ra giá trị mỗi cổ phiếu tại giá dầu 20 USD đến 100 USD khớp với các cột của Hình 10.2 (22,29 USD đến 173,26 USD), và giá dầu hoà vốn là khoảng 42,54 USD (sách: 42,52 USD).
+- Giá cổ phiếu Exxon trong Ví dụ 10.2 là 64,83 USD (tháng 3/2009), trong Bảng 10.3 là 65,77 USD (tháng 2/2009): hai thời điểm khác nhau, không phải lỗi.
+- Đoạn "Normalized Valuations" dẫn "In chapter 8, we noted that economic cycles ... can range from 2–3 years to more than 10 years"; người tổng hợp không thấy nội dung này trong Chương 8 của bản thảo, nên đây có lẽ là dẫn chiếu sai. Tương tự, "In chapter 2, we noted that the discounted cash flow value ... rests on four inputs" — bốn yếu tố đầu vào này được trình bày ở Chương 3 (Intrinsic Value).
+- Trong mục "Adaptive Growth", cụm "a commodity company when commodity companies have peaked" có lẽ phải là "when commodity prices have peaked" (khi giá hàng hoá lên đỉnh).
+- Các con số thị trường năm 2009 nay đã khác (theo hiểu biết của người tổng hợp, không tra cứu): lợi suất trái phiếu chính phủ Nhật 10 năm (1,5% trong sách) giảm về quanh 0%, có lúc âm, trong thời kỳ Ngân hàng Trung ương Nhật kiểm soát đường cong lợi suất, rồi tăng lại từ 2023–2024; lợi suất trái phiếu Kho bạc Mỹ (2,5% trong sách) ở mức rất thấp suốt thập niên 2010 rồi tăng mạnh từ 2022. Thuế suất doanh nghiệp biên của Nhật (40,7%) đã được hạ xuống khoảng 30% trong nửa sau thập niên 2010, và thuế suất liên bang Mỹ hạ xuống 21% từ 2018, nên thuế suất 38% dùng cho Exxon không còn phù hợp. Phần bù rủi ro vốn cổ phần 6,5% là mức cao của giai đoạn khủng hoảng.
+- Số phận về sau của các công ty ví dụ (theo hiểu biết của người tổng hợp, không tra cứu): năm tài chính kết thúc tháng 3/2009, Toyota thực tế báo **lỗ** hoạt động (lần đầu sau nhiều thập kỷ), tệ hơn ước tính lãi 267,9 tỷ yên trong Bảng 10.1 và gần với kịch bản lỗ của Ví dụ 10.3; sau đó Toyota trải qua vụ thu hồi xe 2009–2010, nhưng về lâu dài phục hồi và đạt lợi nhuận kỷ lục trong thập niên 2020. Exxon Mobil mua XTO Energy năm 2010, chịu lỗ lớn năm 2020 khi giá dầu sụp đổ, rồi lãi kỷ lục năm 2022.
+
+  Nhiều công ty trong Bảng 10.3 đã đổi tên hoặc sáp nhập: Frontier Oil và Holly hợp nhất (HollyFrontier, nay là HF Sinclair); Sunoco bị Energy Transfer mua; Tesoro đổi tên thành Andeavor rồi bị Marathon Petroleum mua; Marathon Oil tách mảng lọc dầu năm 2011 và sau đó bị ConocoPhillips mua; Hess được Chevron mua lại; Royal Dutch Shell đổi tên thành Shell plc; Total đổi tên thành TotalEnergies; Repsol mất YPF khi Argentina quốc hữu hoá năm 2012; BP chịu thảm hoạ Deepwater Horizon năm 2010; Petrobras chịu bê bối tham nhũng Lava Jato từ năm 2014.

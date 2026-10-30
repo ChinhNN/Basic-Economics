@@ -1,19 +1,22 @@
 # Chương 1 — Giới thiệu về giá trị (Introduction to Value)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), chương mở đầu đứng trước Phần 1 "Laying the groundwork" (không thuộc phần nào), Chương 1 "Introduction to Value", trang 6–16.
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** [Lời nói đầu](00-loi-noi-dau.md) hứa rằng định giá đơn giản ở cốt lõi và người không chuyên cũng làm được, miễn là tập trung vào một hai yếu tố quyết định giá trị. Chương 1 đặt nền cho lời hứa đó bằng ba việc: định nghĩa giá trị (giá trả cho một tài sản tài chính phải phản ánh dòng tiền mà tài sản đó tạo ra); phân biệt hai cách ước lượng giá trị, định giá nội tại và định giá tương đối; và lập luận rằng mọi loại nhà đầu tư, nhà quản lý doanh nghiệp và kế toán viên đều cần biết định giá. Chương kết thúc bằng ba "sự thật" giúp người đọc có thái độ đúng khi định giá: mọi bản định giá đều thiên lệch, mọi bản định giá đều sai, và mô hình phức tạp hơn không chắc đã tốt hơn. Phần 1 tiếp theo sẽ trao công cụ: [Chương 2](C02-cong-cu-cua-nghe-dinh-gia.md) về giá trị thời gian của tiền, đo lường rủi ro, dữ liệu kế toán và thống kê; [Chương 3](C03-gia-tri-noi-tai.md) trình bày chi tiết định giá chiết khấu dòng tiền; [Chương 4](C04-dinh-gia-tuong-doi.md) trình bày định giá tương đối bằng bội số. Ba sự thật cuối chương được nhắc lại thành các bài học ở [Chương 12](C12-bai-hoc-ve-dinh-gia.md).
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **giá trị của một tài sản tài chính phải gắn với dòng tiền mà nó dự kiến tạo ra — với mức độ, độ bất định và tốc độ tăng trưởng của dòng tiền đó — và không thể biện minh cho một mức giá chỉ bằng lập luận rằng sẽ có người khác trả giá cao hơn**. Ông ví lối đầu tư dựa vào "kẻ ngốc hơn" với trò chơi giành ghế khi nhạc tắt, rất tốn kém, trong đó người chơi có thể trở thành kẻ ngốc nhất. Giá trị có thể ước lượng theo hai cách: định giá nội tại (tài sản có dòng tiền cao và ổn định đáng giá hơn tài sản có dòng tiền thấp và biến động; dạng phổ biến nhất là mô hình chiết khấu dòng tiền) và định giá tương đối (xem thị trường trả giá bao nhiêu cho tài sản tương tự, như khi mua nhà ta nhìn giá các căn nhà tương tự trong khu phố). Ông không chọn phe: dùng cả hai cách cho cùng một khoản đầu tư, và mua cổ phiếu bị định giá thấp theo cả hai cách thì tăng được xác suất thắng. Biết định giá có ích cho người đầu tư theo thời điểm thị trường, nhà phân tích cơ bản, người đọc biểu đồ, người giao dịch theo thông tin, nhà quản lý doanh nghiệp và kế toán viên, dù vai trò khác nhau. Cuối chương, ông nêu ba sự thật: định giá luôn bị thiên lệch (ví dụ nhà phân tích ra khoảng năm khuyến nghị mua cho mỗi khuyến nghị bán; một nhà phân tích ra giá trị 15 USD mỗi cổ phiếu khi giá thị trường là 25 USD có thể sửa giả định cho tới khi con số "đẹp" hơn); định giá luôn sai, nhưng không phải lúc nào cũng do người định giá (ba nguồn bất định: ước lượng, riêng doanh nghiệp, kinh tế vĩ mô; ví dụ các cổ phiếu công nghệ được định giá cao cuối năm 1999 rồi định giá thấp hơn nhiều đầu năm 2001); và mô hình càng chi tiết không có nghĩa là càng tốt (định giá được bằng 3 đầu vào thì đừng dùng 5, dự báo được 3 năm dòng tiền thì đừng dự báo 10 năm). Kết luận: thành công trong đầu tư không đến từ việc đúng, mà từ việc sai ít hơn những người khác.
+## Ý chính
 
-> **Lưu ý:**
-> - **Định nghĩa mô hình chiết khấu dòng tiền bị viết thiếu (trang 7).** Bản thảo viết rằng trong mô hình DCF "giá trị được đặt bằng dòng tiền kỳ vọng của tài sản" (the value is set equal to the expected cash flows on the asset). Câu đúng phải là: giá trị bằng **giá trị hiện tại** của dòng tiền kỳ vọng, chiết khấu bằng một suất chiết khấu phản ánh rủi ro của dòng tiền. Chương 3 của chính cuốn sách trình bày theo cách đúng này. Bản tổng hợp ghi theo nghĩa đúng.
-> - **Mục lục không khớp với cấu trúc chương.** Tiêu đề "The Accountant" (trang 10) được định dạng như tiêu đề mục chính (cỡ chữ lớn, giống "Why should we care?") và xuất hiện trong mục lục, trong khi năm tiêu đề cùng loại trước nó (The Market timer, The fundamentalist, The chartist, The information trader, The corporate manager) có cỡ chữ nhỏ và không có trong mục lục. Về nội dung, kế toán viên là đối tượng thứ sáu trong danh sách những người cần biết định giá của mục "Why should we care?"; bản tổng hợp xếp nó là tiểu mục của mục này.
-> - **Lỗi đánh máy và câu chưa trau chuốt** (không làm đổi nghĩa): "uour views" (đúng là "your views", trang 11); "what are the lessons you can drawn" ("draw", trang 13); "a momentum investing strategies" (trang 9); "come up a higher value" (thiếu "with", trang 13); dấu chấm đôi "market.." (trang 14); ví dụ trang 13 dùng lẫn "his" và "she" cho cùng một nhà phân tích; văn bản lẫn ngôi "we/our" và "you/your" trong cùng đoạn.
-> - **Chương này không có bảng, hình hay ví dụ định giá bằng số.** Các con số duy nhất là: tỷ lệ khoảng 5 khuyến nghị mua trên 1 khuyến nghị bán (chú thích 3), ví dụ giá trị 15 USD so với giá thị trường 25 USD, mốc cuối 1999 và đầu 2001, và lời khuyên "3 đầu vào thay vì 5", "3 năm dự báo thay vì 10".
-> - **Câu của Oscar Wilde.** Bản thảo chỉ ghi tên Oscar Wilde. Theo hiểu biết của người tổng hợp, không tra cứu: câu định nghĩa kẻ hoài nghi (cynic) là người "biết giá của mọi thứ và giá trị của chẳng thứ gì" nằm trong vở kịch *Lady Windermere's Fan* (1892).
-> - **Các dịch vụ tổng hợp ý kiến nhà phân tích đã thay đổi.** Bản thảo nêu Zacks, I/B/E/S và First Call. Theo hiểu biết của người tổng hợp, không tra cứu: I/B/E/S và First Call từ lâu đã thuộc cùng một tập đoàn dữ liệu (Thomson, sau là Refinitiv, nay thuộc LSEG) và thương hiệu First Call không còn được dùng riêng; ngày nay nhà đầu tư cá nhân còn xem được ước tính đồng thuận miễn phí trên nhiều trang tài chính.
-> - **Tỷ lệ khuyến nghị mua trên bán.** Chú thích 3 nói số khuyến nghị mua trên Phố Wall gấp khoảng năm lần số khuyến nghị bán. Theo hiểu biết của người tổng hợp, không tra cứu: sau thoả thuận dàn xếp chung giữa cơ quan quản lý Mỹ và các ngân hàng đầu tư năm 2003 (Global Settlement) về xung đột lợi ích trong phân tích cổ phiếu, tỷ lệ khuyến nghị bán có tăng lên, nhưng khuyến nghị mua vẫn chiếm áp đảo, nên lập luận của Damodaran vẫn đứng vững về định tính.
-> - **Kế toán giá trị hợp lý và suy giảm giá trị lợi thế thương mại sau 2010.** Theo hiểu biết của người tổng hợp, không tra cứu: chuẩn mực quốc tế về đo lường giá trị hợp lý (IFRS 13) được ban hành năm 2011, sau bản thảo này; lợi thế thương mại của công ty niêm yết vẫn được kiểm tra suy giảm giá trị hằng năm thay vì phân bổ dần theo cả chuẩn mực Mỹ lẫn quốc tế, dù đã có nhiều tranh luận về việc quay lại phân bổ (chuẩn mực Mỹ cho phép doanh nghiệp tư nhân phân bổ từ khoảng năm 2014). Xu hướng mà Damodaran nói tới vì thế vẫn tiếp diễn.
+Damodaran muốn người đọc hiểu rằng **giá trị của một tài sản tài chính phải gắn với dòng tiền mà nó dự kiến tạo ra — với mức độ, độ bất định và tốc độ tăng trưởng của dòng tiền đó — và không thể biện minh cho một mức giá chỉ bằng lập luận rằng sẽ có người khác trả giá cao hơn**.
+
+Ông ví lối đầu tư dựa vào "kẻ ngốc hơn" với trò chơi giành ghế khi nhạc tắt, rất tốn kém, trong đó người chơi có thể trở thành kẻ ngốc nhất.
+
+Giá trị có thể ước lượng theo hai cách: định giá nội tại (tài sản có dòng tiền cao và ổn định đáng giá hơn tài sản có dòng tiền thấp và biến động; dạng phổ biến nhất là mô hình chiết khấu dòng tiền) và định giá tương đối (xem thị trường trả giá bao nhiêu cho tài sản tương tự, như khi mua nhà ta nhìn giá các căn nhà tương tự trong khu phố). Ông không chọn phe: dùng cả hai cách cho cùng một khoản đầu tư, và mua cổ phiếu bị định giá thấp theo cả hai cách thì tăng được xác suất thắng.
+
+Biết định giá có ích cho người đầu tư theo thời điểm thị trường, nhà phân tích cơ bản, người đọc biểu đồ, người giao dịch theo thông tin, nhà quản lý doanh nghiệp và kế toán viên, dù vai trò khác nhau.
+
+Cuối chương, ông nêu ba sự thật:
+
+- định giá luôn bị thiên lệch (ví dụ nhà phân tích ra khoảng năm khuyến nghị mua cho mỗi khuyến nghị bán; một nhà phân tích ra giá trị 15 USD mỗi cổ phiếu khi giá thị trường là 25 USD có thể sửa giả định cho tới khi con số "đẹp" hơn);
+- định giá luôn sai, nhưng không phải lúc nào cũng do người định giá (ba nguồn bất định: ước lượng, riêng doanh nghiệp, kinh tế vĩ mô; ví dụ các cổ phiếu công nghệ được định giá cao cuối năm 1999 rồi định giá thấp hơn nhiều đầu năm 2001);
+- và mô hình càng chi tiết không có nghĩa là càng tốt (định giá được bằng 3 đầu vào thì đừng dùng 5, dự báo được 3 năm dòng tiền thì đừng dự báo 10 năm).
+
+Kết luận: thành công trong đầu tư không đến từ việc đúng, mà từ việc sai ít hơn những người khác.
 
 ## Sơ đồ
 
@@ -344,7 +347,7 @@
 - **Giá trị và giá (value and price):** giá là số tiền thị trường đang trả cho tài sản; giá trị là số tiền tài sản đáng giá xét theo dòng tiền nó dự kiến tạo ra. Nguyên tắc đầu tiên của chương: không trả giá cao hơn giá trị. Ví dụ trong chương: một nhà phân tích ước tính giá trị 15 USD mỗi cổ phiếu trong khi giá thị trường là 25 USD, tức theo ước tính đó cổ phiếu đang bị định giá cao 10 USD. Phân biệt hai khái niệm này là nền của toàn bộ cuốn sách.
 - **Lý thuyết kẻ ngốc hơn (greater fool):** lối mua tài sản không dựa vào giá trị mà dựa vào niềm tin sẽ bán lại được cho người trả giá cao hơn. Damodaran ví nó với trò chơi giành ghế khi nhạc tắt: khi không còn ai mua, người cầm tài sản cuối cùng chịu lỗ. Khái niệm này quan trọng vì nó giải thích các bong bóng tài sản.
 - **Giá trị nội tại / định giá nội tại (intrinsic value / intrinsic valuation):** giá trị tính từ dòng tiền kỳ vọng của chính tài sản và rủi ro của dòng tiền đó, không tham chiếu giá của tài sản khác. Tài sản có dòng tiền cao và ổn định đáng giá hơn tài sản có dòng tiền thấp và biến động. Chương 3 trình bày chi tiết.
-- **Định giá chiết khấu dòng tiền (DCF valuation):** dạng phổ biến nhất của định giá nội tại: Giá trị = tổng giá trị hiện tại của các dòng tiền kỳ vọng, chiết khấu bằng suất chiết khấu phản ánh rủi ro. Ví dụ minh hoạ của người tổng hợp: một tài sản trả 100 USD sau một năm, suất chiết khấu 10%, thì giá trị hiện tại = 100 / 1,10 ≈ 90,91 USD. (Bản thảo viết thiếu chữ "giá trị hiện tại", xem khối Lưu ý.)
+- **Định giá chiết khấu dòng tiền (DCF valuation):** dạng phổ biến nhất của định giá nội tại: Giá trị = tổng giá trị hiện tại của các dòng tiền kỳ vọng, chiết khấu bằng suất chiết khấu phản ánh rủi ro. Ví dụ minh hoạ của người tổng hợp: một tài sản trả 100 USD sau một năm, suất chiết khấu 10%, thì giá trị hiện tại = 100 / 1,10 ≈ 90,91 USD. (Bản thảo viết thiếu chữ "giá trị hiện tại", xem mục Lưu ý cuối chương.)
 - **Định giá tương đối (relative valuation):** định giá một tài sản bằng cách xem thị trường đang trả giá bao nhiêu cho tài sản tương tự, thường quy về một bội số như giá trên lợi nhuận. Ví dụ trong chương: mua nhà thì xem các căn tương tự trong khu phố bán giá bao nhiêu. Phần lớn tài sản trên thực tế được định giá theo cách này; Chương 4 trình bày chi tiết.
 - **Nhóm ngành tương đồng (peer group) / công ty so sánh (comparable firms):** tập hợp các công ty giống công ty cần định giá, dùng làm thước đo trong định giá tương đối.
 - **Đầu tư theo thời điểm thị trường (market timing):** chiến lược cố đoán điểm đảo chiều của cả thị trường để quyết định khi nào vào, khi nào ra và phân bổ bao nhiêu cho từng loại tài sản (cổ phiếu, trái phiếu, bất động sản). Định giá giúp ở hai chỗ: định giá cả thị trường để so với mức giá hiện tại, hoặc đếm xem trong một tập lớn cổ phiếu có bao nhiêu mã bị định giá cao so với số mã bị định giá thấp.
@@ -375,7 +378,9 @@ Damodaran mở chương bằng câu của Oscar Wilde, định nghĩa kẻ hoài
 
 Một nguyên tắc nền của đầu tư đúng đắn là nhà đầu tư không trả cho một tài sản nhiều hơn giá trị của nó. Câu này nghe hiển nhiên, nhưng theo Damodaran, mỗi thế hệ và mỗi thị trường lại quên nó đi rồi phát hiện lại nó.
 
-Có những người, mà ông gọi là thiếu thành thật, lập luận rằng giá trị nằm trong mắt người nhìn và mức giá nào cũng biện minh được miễn là có nhà đầu tư khác chịu trả mức giá đó. Ông cho rằng điều này hoàn toàn vô lý. Với một bức tranh hay một bức tượng, cảm nhận có thể là tất cả những gì quan trọng; nhưng phần lớn tài sản không được (và không nên được) mua vì lý do thẩm mỹ hay cảm xúc. Người ta mua tài sản tài chính vì dòng tiền mà họ kỳ vọng nhận được từ nó. Do đó cảm nhận về giá trị phải được thực tế chống đỡ, nghĩa là giá trả cho bất kỳ tài sản nào cũng phải phản ánh dòng tiền mà tài sản đó dự kiến tạo ra. Các mô hình định giá trong cuốn sách tìm cách gắn giá trị với ba đặc tính của dòng tiền: mức độ của dòng tiền, độ bất định của dòng tiền, và tốc độ tăng trưởng kỳ vọng của dòng tiền.
+Có những người, mà ông gọi là thiếu thành thật, lập luận rằng giá trị nằm trong mắt người nhìn và mức giá nào cũng biện minh được miễn là có nhà đầu tư khác chịu trả mức giá đó. Ông cho rằng điều này hoàn toàn vô lý.
+
+Với một bức tranh hay một bức tượng, cảm nhận có thể là tất cả những gì quan trọng; nhưng phần lớn tài sản không được (và không nên được) mua vì lý do thẩm mỹ hay cảm xúc. Người ta mua tài sản tài chính vì dòng tiền mà họ kỳ vọng nhận được từ nó. Do đó cảm nhận về giá trị phải được thực tế chống đỡ, nghĩa là giá trả cho bất kỳ tài sản nào cũng phải phản ánh dòng tiền mà tài sản đó dự kiến tạo ra. Các mô hình định giá trong cuốn sách tìm cách gắn giá trị với ba đặc tính của dòng tiền: mức độ của dòng tiền, độ bất định của dòng tiền, và tốc độ tăng trưởng kỳ vọng của dòng tiền.
 
 Có nhiều khía cạnh của định giá mà người ta có thể chấp nhận bất đồng, trong đó có ước tính về giá trị thật và thời gian để giá điều chỉnh về giá trị thật đó. Nhưng có một điểm không thể bất đồng: không thể biện minh cho giá tài sản chỉ bằng lập luận rằng sau này sẽ có nhà đầu tư khác trả giá cao hơn. Làm như vậy giống chơi một trò giành ghế khi nhạc tắt (musical chairs) rất tốn kém, trong đó trước khi tham gia, mỗi người phải trả lời câu hỏi "khi nhạc tắt thì tôi sẽ ở đâu?". Vấn đề của việc đầu tư với kỳ vọng rằng đến lúc cần bán sẽ có một kẻ ngốc hơn (bigger fool) để bán lại tài sản là chính mình có thể trở thành kẻ ngốc nhất.
 
@@ -407,7 +412,9 @@ Nhà phân tích cơ bản gồm cả nhà đầu tư giá trị lẫn nhà đ�
 - Định giá có thể dùng để xác định đường hỗ trợ và đường kháng cự trên biểu đồ giá. Theo chú thích 1 của bản thảo: đường hỗ trợ thường là mức dưới mà giá khó xuống thấp hơn, đường kháng cự là mức trên mà giá khó vượt lên. Các mức này thường được ước tính từ giá quá khứ, nhưng có thể dùng khoảng giá trị từ một mô hình định giá: giá trị lớn nhất trở thành mức kháng cự, giá trị nhỏ nhất trở thành đường hỗ trợ.
 - Định giá cũng có ích khi xét lúc nào bong bóng sẽ vỡ và chiến lược đầu tư theo đà chứa bao nhiêu rủi ro.
 
-**4.4. Người giao dịch theo thông tin (The information trader, trang 9–10).** Giá biến động khi có thông tin về công ty. Người giao dịch theo thông tin tìm cách giao dịch trước khi thông tin mới được công bố hoặc ngay sau khi thông tin được đưa ra thị trường. Giả định nền là những người này đoán trước được các công bố thông tin và đánh giá phản ứng của thị trường tốt hơn nhà đầu tư trung bình. Với họ, trọng tâm là quan hệ giữa thông tin và thay đổi của giá trị, chứ không phải bản thân giá trị. Vì thế người giao dịch theo thông tin có thể mua một công ty "bị định giá cao" nếu tin rằng công bố thông tin sắp tới sẽ làm giá tăng vì chứa tin tốt hơn kỳ vọng. Nếu có mối quan hệ giữa mức độ bị định giá thấp hay cao của một công ty và cách giá cổ phiếu phản ứng với thông tin mới, thì định giá có thể đóng vai trò trong việc đầu tư của người giao dịch theo thông tin.
+**4.4. Người giao dịch theo thông tin (The information trader, trang 9–10).** Giá biến động khi có thông tin về công ty. Người giao dịch theo thông tin tìm cách giao dịch trước khi thông tin mới được công bố hoặc ngay sau khi thông tin được đưa ra thị trường. Giả định nền là những người này đoán trước được các công bố thông tin và đánh giá phản ứng của thị trường tốt hơn nhà đầu tư trung bình. Với họ, trọng tâm là quan hệ giữa thông tin và thay đổi của giá trị, chứ không phải bản thân giá trị.
+
+Vì thế người giao dịch theo thông tin có thể mua một công ty "bị định giá cao" nếu tin rằng công bố thông tin sắp tới sẽ làm giá tăng vì chứa tin tốt hơn kỳ vọng. Nếu có mối quan hệ giữa mức độ bị định giá thấp hay cao của một công ty và cách giá cổ phiếu phản ứng với thông tin mới, thì định giá có thể đóng vai trò trong việc đầu tư của người giao dịch theo thông tin.
 
 **4.5. Nhà quản lý doanh nghiệp (The corporate manager, trang 10).** Định giá có vai trò ở mọi giai đoạn trong vòng đời doanh nghiệp:
 - Với doanh nghiệp tư nhân nhỏ muốn mở rộng, định giá giữ vai trò then chốt khi họ tìm vốn từ quỹ đầu tư mạo hiểm và quỹ đầu tư tư nhân. Tỷ lệ sở hữu mà nhà đầu tư mạo hiểm đòi để đổi lấy khoản vốn rót vào phụ thuộc vào giá trị mà họ ước tính cho doanh nghiệp.
@@ -416,7 +423,9 @@ Nhà phân tích cơ bản gồm cả nhà đầu tư giá trị lẫn nhà đ�
 
 Nếu mục tiêu của tài chính doanh nghiệp là tối đa hoá giá trị doanh nghiệp (chú thích 2: phần lớn lý thuyết tài chính doanh nghiệp được xây dựng trên tiền đề này), thì phải làm rõ quan hệ giữa các quyết định tài chính, chiến lược doanh nghiệp và giá trị doanh nghiệp.
 
-**4.6. Kế toán viên (The Accountant, trang 10).** Xu hướng quan trọng nhất của chuẩn mực kế toán trên toàn cầu là chuyển sang kế toán giá trị hợp lý, trong đó tài sản được ghi trên bảng cân đối kế toán theo giá trị hợp lý thay vì giá gốc. Damodaran nói ông nhìn sự chuyển dịch này với sự e ngại. Sự chuyển dịch buộc kế toán viên phải trau dồi kỹ năng định giá, vì họ phải định giá thương hiệu, danh sách khách hàng và các tài sản vô hình khác. Ngoài ra, cả chuẩn mực kế toán Mỹ lẫn quốc tế hiện yêu cầu: ngay sau một thương vụ mua lại phải đánh giá lại giá trị các tài sản của công ty bị mua; và trong các kỳ sau phải đánh giá "suy giảm giá trị" (impairment) của lợi thế thương mại. Việc thứ hai đòi hỏi công ty bị mua phải được định giá lại liên tục, và mọi khoản giảm giá trị xuống dưới giá mua ban đầu phải được ghi nhận là tổn thất suy giảm giá trị.
+**4.6. Kế toán viên (The Accountant, trang 10).** Xu hướng quan trọng nhất của chuẩn mực kế toán trên toàn cầu là chuyển sang kế toán giá trị hợp lý, trong đó tài sản được ghi trên bảng cân đối kế toán theo giá trị hợp lý thay vì giá gốc. Damodaran nói ông nhìn sự chuyển dịch này với sự e ngại. Sự chuyển dịch buộc kế toán viên phải trau dồi kỹ năng định giá, vì họ phải định giá thương hiệu, danh sách khách hàng và các tài sản vô hình khác.
+
+Ngoài ra, cả chuẩn mực kế toán Mỹ lẫn quốc tế hiện yêu cầu: ngay sau một thương vụ mua lại phải đánh giá lại giá trị các tài sản của công ty bị mua; và trong các kỳ sau phải đánh giá "suy giảm giá trị" (impairment) của lợi thế thương mại. Việc thứ hai đòi hỏi công ty bị mua phải được định giá lại liên tục, và mọi khoản giảm giá trị xuống dưới giá mua ban đầu phải được ghi nhận là tổn thất suy giảm giá trị.
 
 ### 5. Vài sự thật về định giá (Some truths about valuation, trang 11–16)
 
@@ -426,11 +435,19 @@ Trước khi đi vào chi tiết, Damodaran nêu một số sự thật chung v�
 
 Người định giá hầu như không bao giờ bắt đầu định giá một công ty từ một tờ giấy trắng. Rất thường xuyên, quan điểm về công ty đã hình thành trước khi người đó nhập số liệu vào mô hình và các thước đo mình dùng, nên không ngạc nhiên khi kết luận phản ánh định kiến. Thiên lệch đến từ nhiều nguồn:
 
-a. **Chọn công ty và thu thập thông tin.** Thiên lệch bắt đầu từ việc chọn công ty nào để định giá. Lựa chọn này hầu như không bao giờ ngẫu nhiên, và cách chọn có thể đặt nền cho thiên lệch: có thể ta đã đọc một bài báo (tốt hoặc xấu) về công ty, hoặc nghe một chuyên gia nói công ty đang bị định giá thấp hay cao, nên đã có sẵn một cảm nhận về công ty sắp định giá. Thiên lệch tăng thêm khi thu thập thông tin để định giá. Báo cáo thường niên và các báo cáo tài chính khác không chỉ chứa số liệu kế toán mà còn có phần bàn luận của ban lãnh đạo về kết quả kinh doanh, thường trình bày con số theo hướng có lợi nhất. Với nhiều công ty lớn, rất dễ biết các nhà phân tích khác đang theo dõi cổ phiếu nghĩ gì; Zacks, I/B/E/S và First Call, ba trong nhiều dịch vụ như vậy, cung cấp bản tổng hợp cho biết bao nhiêu nhà phân tích lạc quan và bao nhiêu nhà phân tích bi quan về cổ phiếu. Cuối cùng, ước tính của chính thị trường về giá trị công ty, tức giá thị trường, cũng góp vào: những bản định giá lệch quá xa con số này khiến nhà đầu tư thấy không thoải mái.
+a. **Chọn công ty và thu thập thông tin.** Thiên lệch bắt đầu từ việc chọn công ty nào để định giá. Lựa chọn này hầu như không bao giờ ngẫu nhiên, và cách chọn có thể đặt nền cho thiên lệch: có thể ta đã đọc một bài báo (tốt hoặc xấu) về công ty, hoặc nghe một chuyên gia nói công ty đang bị định giá thấp hay cao, nên đã có sẵn một cảm nhận về công ty sắp định giá.
 
-b. **Yếu tố thể chế** làm thiên lệch vốn đã lớn càng lớn thêm. Ai cũng thừa nhận rằng nhà phân tích cổ phiếu có xu hướng ra khuyến nghị mua nhiều hơn khuyến nghị bán, tức dễ thấy công ty bị định giá thấp hơn là bị định giá cao (chú thích 3: trên Phố Wall, số khuyến nghị mua của các nhà phân tích nhiều gấp khoảng năm lần số khuyến nghị bán). Một phần nguyên nhân là nhà phân tích khó được tiếp cận và khó thu thập thông tin về những công ty mà họ đã khuyến nghị bán; một phần là sức ép từ các nhà quản lý danh mục (một số người đang nắm giữ lượng lớn cổ phiếu đó) và từ bộ phận ngân hàng đầu tư trong chính công ty của nhà phân tích, vốn có những quan hệ làm ăn sinh lời khác với các công ty được phân tích.
+Thiên lệch tăng thêm khi thu thập thông tin để định giá. Báo cáo thường niên và các báo cáo tài chính khác không chỉ chứa số liệu kế toán mà còn có phần bàn luận của ban lãnh đạo về kết quả kinh doanh, thường trình bày con số theo hướng có lợi nhất. Với nhiều công ty lớn, rất dễ biết các nhà phân tích khác đang theo dõi cổ phiếu nghĩ gì; Zacks, I/B/E/S và First Call, ba trong nhiều dịch vụ như vậy, cung cấp bản tổng hợp cho biết bao nhiêu nhà phân tích lạc quan và bao nhiêu nhà phân tích bi quan về cổ phiếu.
 
-c. **Cơ chế thưởng phạt** gắn với việc kết luận công ty bị định giá thấp hay cao cũng gây thiên lệch. Một nhà phân tích có thù lao phụ thuộc vào kết luận của mình sẽ bị thiên lệch trong kết luận. Điều này giải thích vì sao định giá trong các thương vụ mua lại rất hay bị đẩy lên cao. Việc phân tích thương vụ thường do ngân hàng đầu tư của bên mua làm, mà bên này cũng chịu trách nhiệm đưa thương vụ tới thành công, nên chỉ có hai kết luận khả dĩ. Một là thấy thương vụ bị định giá quá cao và khuyên bác bỏ: khi đó nhà phân tích nhận được lòng biết ơn mãi mãi của cổ đông bên mua nhưng gần như không được gì khác. Hai là thấy thương vụ hợp lý (bất kể giá bao nhiêu) và thu khoản phí hậu hĩnh khi thương vụ hoàn tất.
+Cuối cùng, ước tính của chính thị trường về giá trị công ty, tức giá thị trường, cũng góp vào: những bản định giá lệch quá xa con số này khiến nhà đầu tư thấy không thoải mái.
+
+b. **Yếu tố thể chế** làm thiên lệch vốn đã lớn càng lớn thêm. Ai cũng thừa nhận rằng nhà phân tích cổ phiếu có xu hướng ra khuyến nghị mua nhiều hơn khuyến nghị bán, tức dễ thấy công ty bị định giá thấp hơn là bị định giá cao (chú thích 3: trên Phố Wall, số khuyến nghị mua của các nhà phân tích nhiều gấp khoảng năm lần số khuyến nghị bán).
+
+Một phần nguyên nhân là nhà phân tích khó được tiếp cận và khó thu thập thông tin về những công ty mà họ đã khuyến nghị bán; một phần là sức ép từ các nhà quản lý danh mục (một số người đang nắm giữ lượng lớn cổ phiếu đó) và từ bộ phận ngân hàng đầu tư trong chính công ty của nhà phân tích, vốn có những quan hệ làm ăn sinh lời khác với các công ty được phân tích.
+
+c. **Cơ chế thưởng phạt** gắn với việc kết luận công ty bị định giá thấp hay cao cũng gây thiên lệch. Một nhà phân tích có thù lao phụ thuộc vào kết luận của mình sẽ bị thiên lệch trong kết luận. Điều này giải thích vì sao định giá trong các thương vụ mua lại rất hay bị đẩy lên cao.
+
+Việc phân tích thương vụ thường do ngân hàng đầu tư của bên mua làm, mà bên này cũng chịu trách nhiệm đưa thương vụ tới thành công, nên chỉ có hai kết luận khả dĩ. Một là thấy thương vụ bị định giá quá cao và khuyên bác bỏ: khi đó nhà phân tích nhận được lòng biết ơn mãi mãi của cổ đông bên mua nhưng gần như không được gì khác. Hai là thấy thương vụ hợp lý (bất kể giá bao nhiêu) và thu khoản phí hậu hĩnh khi thương vụ hoàn tất.
 
 Quan điểm về công ty (và định kiến của người định giá) có thể thể hiện vào con số giá trị theo ba cách:
 
@@ -457,7 +474,9 @@ c. **Bất định kinh tế vĩ mô (macroeconomic uncertainty).** Kể cả kh
 
 Đóng góp của mỗi loại bất định vào tổng bất định của một bản định giá khác nhau giữa các công ty. Khi định giá một công ty trưởng thành có tính chu kỳ hoặc một công ty hàng hoá cơ bản, bất định vĩ mô có thể là nguyên nhân lớn nhất khiến số liệu thực tế lệch khỏi kỳ vọng. Định giá một công ty công nghệ trẻ thì người định giá phải đối mặt với bất định do ước lượng và bất định riêng của doanh nghiệp lớn hơn nhiều.
 
-Kể cả khi đã yên tâm với ước tính giá trị tại một thời điểm, bản thân giá trị đó sẽ thay đổi theo thời gian vì có thông tin mới cả về công ty lẫn về thị trường chung. Thông tin liên tục đổ vào thị trường tài chính, nên một bản định giá nhanh chóng lỗi thời và phải được cập nhật theo thông tin hiện tại. Ví dụ: các công ty công nghệ được định giá cao cuối năm 1999, với giả định rằng tốc độ tăng trưởng cao của thập niên 1990 sẽ tiếp diễn, lẽ ra phải được định giá thấp hơn nhiều vào đầu năm 2001 khi triển vọng tăng trưởng mờ đi. Nhìn lại, có thể chỉ trích các bản định giá (và khuyến nghị của nhà phân tích) năm 1999, nhưng với thông tin có ở thời điểm đó, chúng có thể vẫn hợp lý.
+Kể cả khi đã yên tâm với ước tính giá trị tại một thời điểm, bản thân giá trị đó sẽ thay đổi theo thời gian vì có thông tin mới cả về công ty lẫn về thị trường chung. Thông tin liên tục đổ vào thị trường tài chính, nên một bản định giá nhanh chóng lỗi thời và phải được cập nhật theo thông tin hiện tại.
+
+Ví dụ: các công ty công nghệ được định giá cao cuối năm 1999, với giả định rằng tốc độ tăng trưởng cao của thập niên 1990 sẽ tiếp diễn, lẽ ra phải được định giá thấp hơn nhiều vào đầu năm 2001 khi triển vọng tăng trưởng mờ đi. Nhìn lại, có thể chỉ trích các bản định giá (và khuyến nghị của nhà phân tích) năm 1999, nhưng với thông tin có ở thời điểm đó, chúng có thể vẫn hợp lý.
 
 Lợi ích của việc chia bất định thành ba loại là nó cho thấy phần nào người định giá quản lý được, phần nào kiểm soát được, và phần nào chỉ nên để đi thẳng vào giá trị. Xây mô hình tốt hơn và tiếp cận thông tin tốt hơn sẽ giảm bất định do ước lượng, nhưng gần như không giảm được mức độ chịu rủi ro riêng của doanh nghiệp hay rủi ro kinh tế vĩ mô. Ngay cả mô hình được xây dựng tốt nhất cũng chịu các bất định đó.
 
@@ -471,7 +490,9 @@ Trong khoa học tự nhiên, nguyên tắc tiết kiệm (principle of parsimon
 
 ### 6. Kết luận (Conclusion, trang 16)
 
-Khi phải quyết định có đầu tư vào một cổ phiếu, trái phiếu hay tài sản bất kỳ hay không, nhà đầu tư có hai lựa chọn: ra quyết định dựa trên hành động hay khuyến nghị của những người mình cho là hiểu biết hơn, hoặc tự đánh giá giá trị. Phần lớn nhà đầu tư không chọn cách thứ hai và đưa ra nhiều lý do: mô hình định giá quá phức tạp, không đủ thông tin, hoặc tương lai quá bất định. Các lý do này đều có phần đúng, nhưng không lý do nào nên ngăn người đọc định giá tài sản: mô hình định giá có thể đơn giản hoá; có thể dùng thông tin đang có (thay vì ước có thông tin mình muốn); và có thể đưa ra ước tính tốt nhất về một tương lai bất định. Người định giá sẽ sai chứ? Tất nhiên, nhưng mọi người khác cũng sẽ sai. Thành công trong đầu tư không đến từ việc đúng, mà đến từ việc sai ít hơn tất cả những người khác cùng tham gia cuộc chơi.
+Khi phải quyết định có đầu tư vào một cổ phiếu, trái phiếu hay tài sản bất kỳ hay không, nhà đầu tư có hai lựa chọn: ra quyết định dựa trên hành động hay khuyến nghị của những người mình cho là hiểu biết hơn, hoặc tự đánh giá giá trị. Phần lớn nhà đầu tư không chọn cách thứ hai và đưa ra nhiều lý do: mô hình định giá quá phức tạp, không đủ thông tin, hoặc tương lai quá bất định.
+
+Các lý do này đều có phần đúng, nhưng không lý do nào nên ngăn người đọc định giá tài sản: mô hình định giá có thể đơn giản hoá; có thể dùng thông tin đang có (thay vì ước có thông tin mình muốn); và có thể đưa ra ước tính tốt nhất về một tương lai bất định. Người định giá sẽ sai chứ? Tất nhiên, nhưng mọi người khác cũng sẽ sai. Thành công trong đầu tư không đến từ việc đúng, mà đến từ việc sai ít hơn tất cả những người khác cùng tham gia cuộc chơi.
 
 ## Luận điểm cốt lõi
 
@@ -488,7 +509,9 @@ Giá trị của một tài sản tài chính được quyết định bởi dò
 
 ### Cơ chế
 
-Nhà đầu tư ước lượng giá trị (bằng DCF hoặc bằng cách so với tài sản tương tự), so với giá thị trường, rồi mua khi giá thấp hơn giá trị. Mỗi loại người tham gia thị trường dùng kết quả này theo cách riêng: người theo thời điểm thị trường dùng cho cả thị trường; nhà phân tích cơ bản dùng cho từng cổ phiếu; người đọc biểu đồ dùng làm đường hỗ trợ và kháng cự; người giao dịch theo thông tin dùng để đoán phản ứng giá; nhà quản lý dùng để gọi vốn, định giá IPO và ra quyết định tài chính; kế toán viên dùng để ghi giá trị hợp lý và kiểm tra suy giảm giá trị. Để kết quả đáng tin hơn, người định giá phải chủ động kiềm chế thiên lệch (ghi định kiến ra giấy, ưu tiên nguồn thông tin), chỉ cố giảm phần bất định có thể giảm (bất định do ước lượng) và giữ mô hình gọn.
+Nhà đầu tư ước lượng giá trị (bằng DCF hoặc bằng cách so với tài sản tương tự), so với giá thị trường, rồi mua khi giá thấp hơn giá trị.
+
+Mỗi loại người tham gia thị trường dùng kết quả này theo cách riêng: người theo thời điểm thị trường dùng cho cả thị trường; nhà phân tích cơ bản dùng cho từng cổ phiếu; người đọc biểu đồ dùng làm đường hỗ trợ và kháng cự; người giao dịch theo thông tin dùng để đoán phản ứng giá; nhà quản lý dùng để gọi vốn, định giá IPO và ra quyết định tài chính; kế toán viên dùng để ghi giá trị hợp lý và kiểm tra suy giảm giá trị. Để kết quả đáng tin hơn, người định giá phải chủ động kiềm chế thiên lệch (ghi định kiến ra giấy, ưu tiên nguồn thông tin), chỉ cố giảm phần bất định có thể giảm (bất định do ước lượng) và giữ mô hình gọn.
 
 ### Bằng chứng và ví dụ Damodaran đưa ra
 
@@ -514,7 +537,9 @@ Chương này không có ví dụ định giá bằng số; đó là phần vi�
 
 ### Trong ngôn ngữ tài chính doanh nghiệp
 
-Chương này đặt hai nền cho tài chính doanh nghiệp. Thứ nhất, giá trị của một tài sản bằng giá trị hiện tại của dòng tiền kỳ vọng chiết khấu theo rủi ro; mức độ, độ bất định và tăng trưởng của dòng tiền lần lượt tương ứng với ba nhóm đầu vào sẽ gặp ở Chương 2–3: dòng tiền (từ dữ liệu kế toán), suất chiết khấu (từ đo lường rủi ro) và tốc độ tăng trưởng kỳ vọng. Thứ hai, mục tiêu tối đa hoá giá trị doanh nghiệp nối các quyết định đầu tư (đầu tư vào đâu), tài trợ (vay bao nhiêu) và cổ tức (trả lại chủ sở hữu bao nhiêu) với giá trị. Cách chia ba nguồn bất định tương ứng gần với cách phân biệt trong tài chính giữa sai số mô hình, rủi ro riêng (có thể đa dạng hoá) và rủi ro thị trường (không đa dạng hoá được), dù Damodaran ở đây dùng nó để bàn về độ chính xác của định giá chứ không phải để định suất chiết khấu.
+Chương này đặt hai nền cho tài chính doanh nghiệp. Thứ nhất, giá trị của một tài sản bằng giá trị hiện tại của dòng tiền kỳ vọng chiết khấu theo rủi ro; mức độ, độ bất định và tăng trưởng của dòng tiền lần lượt tương ứng với ba nhóm đầu vào sẽ gặp ở Chương 2–3: dòng tiền (từ dữ liệu kế toán), suất chiết khấu (từ đo lường rủi ro) và tốc độ tăng trưởng kỳ vọng. Thứ hai, mục tiêu tối đa hoá giá trị doanh nghiệp nối các quyết định đầu tư (đầu tư vào đâu), tài trợ (vay bao nhiêu) và cổ tức (trả lại chủ sở hữu bao nhiêu) với giá trị.
+
+Cách chia ba nguồn bất định tương ứng gần với cách phân biệt trong tài chính giữa sai số mô hình, rủi ro riêng (có thể đa dạng hoá) và rủi ro thị trường (không đa dạng hoá được), dù Damodaran ở đây dùng nó để bàn về độ chính xác của định giá chứ không phải để định suất chiết khấu.
 
 ## Thuật ngữ
 
@@ -597,7 +622,9 @@ Chương này đặt hai nền cho tài chính doanh nghiệp. Thứ nhất, gi�
 
 ### Damodaran đặt giá trị trên nền dòng tiền và từ chối lập luận "sẽ có người trả cao hơn"
 
-Điểm mạnh của chương là một định nghĩa rõ ràng, có thể dùng ngay: tài sản tài chính đáng giá vì dòng tiền, nên giá phải phản ánh mức độ, độ bất định và tăng trưởng của dòng tiền. Định nghĩa này giúp người đọc nhận ra những luận điểm đầu tư không dựa trên dòng tiền (chỉ dựa vào câu chuyện, đám đông hay "giá sẽ lên vì nhiều người mua"). Tuy vậy, chương có phần đơn giản hoá khi coi mọi lý do mua tài sản tài chính ngoài dòng tiền là phi lý: trên thực tế có những tài sản (vàng, tiền mã hoá ra đời sau 2010) không tạo dòng tiền mà vẫn có giá thị trường lớn. Theo hiểu biết của người tổng hợp, ở các bài viết về sau Damodaran xử lý vấn đề này bằng cách phân biệt tài sản tạo dòng tiền (cần định giá) với hàng hoá, tiền tệ và vật sưu tầm (chỉ có thể định giá theo giá thị trường), chứ không coi người mua chúng là phi lý.
+Điểm mạnh của chương là một định nghĩa rõ ràng, có thể dùng ngay: tài sản tài chính đáng giá vì dòng tiền, nên giá phải phản ánh mức độ, độ bất định và tăng trưởng của dòng tiền. Định nghĩa này giúp người đọc nhận ra những luận điểm đầu tư không dựa trên dòng tiền (chỉ dựa vào câu chuyện, đám đông hay "giá sẽ lên vì nhiều người mua").
+
+Tuy vậy, chương có phần đơn giản hoá khi coi mọi lý do mua tài sản tài chính ngoài dòng tiền là phi lý: trên thực tế có những tài sản (vàng, tiền mã hoá ra đời sau 2010) không tạo dòng tiền mà vẫn có giá thị trường lớn. Theo hiểu biết của người tổng hợp, ở các bài viết về sau Damodaran xử lý vấn đề này bằng cách phân biệt tài sản tạo dòng tiền (cần định giá) với hàng hoá, tiền tệ và vật sưu tầm (chỉ có thể định giá theo giá thị trường), chứ không coi người mua chúng là phi lý.
 
 ### Lập trường "dùng cả hai cách" thực dụng nhưng chương chưa bàn khi hai cách mâu thuẫn
 
@@ -613,8 +640,157 @@ Lời khuyên cụ thể (viết định kiến ra giấy trước, đọc báo 
 
 ### Một số bối cảnh đã thay đổi từ 2010
 
-Theo hiểu biết của người tổng hợp, không tra cứu: các dịch vụ tổng hợp ý kiến nhà phân tích mà chương nêu đã sáp nhập vào các tập đoàn dữ liệu lớn; xung đột lợi ích của nhà phân tích bị siết sau các vụ dàn xếp đầu thập niên 2000 nhưng khuyến nghị mua vẫn áp đảo; kế toán giá trị hợp lý và kiểm tra suy giảm giá trị lợi thế thương mại vẫn là thực tiễn chuẩn. Ví dụ bong bóng công nghệ 1999–2001 có thêm những trường hợp tương tự về sau: nhiều cổ phiếu tăng trưởng được định giá rất cao năm 2020–2021 khi lãi suất gần 0, rồi bị định giá lại mạnh năm 2022 khi lãi suất tăng. Trường hợp này minh hoạ đúng điều Damodaran gọi là bất định kinh tế vĩ mô: công ty có thể không thay đổi nhiều, nhưng lãi suất thay đổi làm giá trị thay đổi.
+Theo hiểu biết của người tổng hợp, không tra cứu: các dịch vụ tổng hợp ý kiến nhà phân tích mà chương nêu đã sáp nhập vào các tập đoàn dữ liệu lớn; xung đột lợi ích của nhà phân tích bị siết sau các vụ dàn xếp đầu thập niên 2000 nhưng khuyến nghị mua vẫn áp đảo; kế toán giá trị hợp lý và kiểm tra suy giảm giá trị lợi thế thương mại vẫn là thực tiễn chuẩn.
+
+Ví dụ bong bóng công nghệ 1999–2001 có thêm những trường hợp tương tự về sau: nhiều cổ phiếu tăng trưởng được định giá rất cao năm 2020–2021 khi lãi suất gần 0, rồi bị định giá lại mạnh năm 2022 khi lãi suất tăng. Trường hợp này minh hoạ đúng điều Damodaran gọi là bất định kinh tế vĩ mô: công ty có thể không thay đổi nhiều, nhưng lãi suất thay đổi làm giá trị thay đổi.
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích
 
 Với nhà đầu tư cá nhân, chương cho một danh sách kiểm tra ngắn trước khi mua: mình đang mua vì dòng tiền hay vì tin có người mua lại giá cao hơn; cổ phiếu rẻ theo cách nội tại, theo cách tương đối, hay cả hai; nguồn thông tin của mình là báo cáo tài chính hay ý kiến người khác. Với nhà phân tích, chương nhắc rằng một mô hình 10 năm với hàng trăm dòng không đáng tin hơn một mô hình gọn nếu các đầu vào chính không vững. Với người đọc Việt Nam, nơi báo cáo phân tích của công ty chứng khoán và lời khuyên trên mạng xã hội là nguồn tham khảo phổ biến, lời khuyên "ưu tiên nguồn thông tin hơn nguồn ý kiến" và "xét người định giá có lợi ích gì" đặc biệt đáng áp dụng.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương trên một trang: sáu nhánh theo các mục 1–6 của Nội dung chi tiết (giá trị gắn với dòng tiền, hai cách ước lượng giá trị, sáu đối tượng cần biết định giá, thiên lệch, sai số và độ phức tạp của mô hình, kết luận), mỗi nhánh ghi định nghĩa, quy tắc, ví dụ và con số của Damodaran; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: Giá trị của tài sản tài chính gắn với dòng tiền nó tạo ra, và mọi nhà đầu tư đều cần biết định giá`"]
+  n1["`Mục 1–2 — Giá trị là gì: giá phải phản ánh dòng tiền kỳ vọng`"]
+  n0 --- n1
+  n2["`Oscar Wilde: kẻ hoài nghi biết giá của mọi thứ, không biết giá trị của thứ gì`"]
+  n1 --- n2
+  n3["`Nguyên tắc đầu tư đúng đắn: không trả cho tài sản nhiều hơn giá trị của nó`"]
+  n1 --- n3
+  n4["`Tài sản tài chính được mua vì dòng tiền kỳ vọng, không vì thẩm mỹ hay cảm xúc`"]
+  n1 --- n4
+  n5["`Giá trị gắn với ba đặc tính dòng tiền: mức độ, độ bất định, tốc độ tăng trưởng kỳ vọng`"]
+  n1 --- n5
+  n6["`Không thể biện minh một mức giá bằng lập luận sau này sẽ có người trả cao hơn`"]
+  n1 --- n6
+  n7["`Trò giành ghế khi nhạc tắt: người trông chờ kẻ ngốc hơn có thể chính là kẻ ngốc nhất`"]
+  n6 --- n7
+  n8["`Mục 3 — Hai cách ước lượng giá trị: nội tại và tương đối`"]
+  n0 --- n8
+  n9["`Định giá nội tại: dòng tiền cao, dễ dự đoán đáng giá hơn dòng tiền thấp, biến động`"]
+  n8 --- n9
+  n10["`DCF: Giá trị = Dòng tiền năm 1 / (1 + r) + ... + Dòng tiền năm n / (1 + r)ⁿ, r là suất chiết khấu`"]
+  n9 --- n10
+  n11["`Định giá tương đối: xem thị trường đang trả bao nhiêu cho tài sản tương tự`"]
+  n8 --- n11
+  n12["`Mua nhà: xem các căn tương tự trong khu phố bán giá bao nhiêu`"]
+  n11 --- n12
+  n13["`Cổ phiếu: so giá với cổ phiếu cùng nhóm ngành (peer group)`"]
+  n11 --- n13
+  n14["`Lý thuyết chú trọng DCF, nhưng thực tế phần lớn tài sản được định giá tương đối`"]
+  n11 --- n14
+  n15["`Lập trường trung dung: dùng cả hai cách cho cùng một khoản đầu tư`"]
+  n8 --- n15
+  n16["`Mua cổ phiếu bị định giá thấp theo cả hai cách thì tăng đáng kể xác suất thắng`"]
+  n15 --- n16
+  n17["`Mục 4 — Sáu đối tượng đều dùng được định giá, dù vai trò khác nhau`"]
+  n0 --- n17
+  n18["`Người theo thời điểm thị trường: định giá cả thị trường rồi so với mức giá hiện tại`"]
+  n17 --- n18
+  n19["`Số cổ phiếu bị định giá cao tăng so với số bị định giá thấp thì thị trường có thể đang bị định giá cao`"]
+  n18 --- n19
+  n20["`Nhà phân tích cơ bản: giá lệch khỏi giá trị thật là dấu hiệu định giá thấp hoặc cao`"]
+  n17 --- n20
+  n21["`Nhà đầu tư giá trị định giá tài sản hiện có#59; nhà đầu tư tăng trưởng định giá tiềm năng tăng trưởng`"]
+  n20 --- n21
+  n22["`Người đọc biểu đồ: giá trị lớn nhất làm đường kháng cự, nhỏ nhất làm đường hỗ trợ`"]
+  n17 --- n22
+  n23["`Người giao dịch theo thông tin: quan tâm quan hệ giữa thông tin và thay đổi giá trị`"]
+  n17 --- n23
+  n24["`Nhà quản lý doanh nghiệp: định giá quyết định tỷ lệ sở hữu quỹ mạo hiểm đòi, giá IPO, quyết định đầu tư và vay`"]
+  n17 --- n24
+  n25["`Kế toán viên: kế toán giá trị hợp lý buộc định giá thương hiệu, danh sách khách hàng`"]
+  n17 --- n25
+  n26["`Giá trị công ty bị mua giảm dưới giá mua ban đầu thì ghi nhận tổn thất suy giảm lợi thế thương mại`"]
+  n25 --- n26
+  n27["`Mục 5.1 — Mọi bản định giá đều thiên lệch`"]
+  n0 --- n27
+  n28["`Ba nguồn thiên lệch: chọn công ty và thu thập thông tin, yếu tố thể chế, cơ chế thưởng phạt`"]
+  n27 --- n28
+  n29["`Nhà phân tích ra khoảng 5 khuyến nghị mua cho mỗi khuyến nghị bán`"]
+  n28 --- n29
+  n30["`Ngân hàng đầu tư bên mua hưởng phí khi thương vụ hoàn tất nên hay thấy thương vụ hợp lý`"]
+  n28 --- n30
+  n31["`Ba cách thiên lệch lộ ra: qua đầu vào, tô điểm sau định giá, gán chênh lệch cho cộng hưởng`"]
+  n27 --- n31
+  n32["`Ra 15 USD khi giá thị trường 25 USD, nhà phân tích nâng tăng trưởng, hạ rủi ro để đẩy giá trị lên`"]
+  n31 --- n32
+  n33["`Khi tự định giá: viết định kiến ra giấy, đọc báo cáo tài chính nhiều hơn báo cáo phân tích`"]
+  n27 --- n33
+  n34["`Quy trình càng nhiều thiên lệch thì càng đặt ít trọng số vào bản định giá`"]
+  n27 --- n34
+  n35["`Mục 5.2–5.3 — Mọi bản định giá đều sai, và mô hình phức tạp hơn không chắc tốt hơn`"]
+  n0 --- n35
+  n36["`Bất định do ước lượng: lỗi khi biến thông tin thô thành đầu vào và đưa vào mô hình`"]
+  n35 --- n36
+  n37["`Bất định riêng của doanh nghiệp: công ty làm tốt hơn hoặc tệ hơn nhiều so với dự kiến`"]
+  n35 --- n37
+  n38["`Bất định kinh tế vĩ mô: lãi suất và nền kinh tế biến động khó lường`"]
+  n35 --- n38
+  n39["`Bất định vĩ mô lớn nhất ở công ty chu kỳ, hàng hoá cơ bản#59; công ty công nghệ trẻ chịu bất định ước lượng và riêng`"]
+  n38 --- n39
+  n40["`Mô hình và thông tin tốt hơn chỉ giảm được bất định do ước lượng`"]
+  n35 --- n40
+  n41["`Cổ phiếu công nghệ định giá cao cuối 1999, thấp hơn nhiều đầu 2001 khi triển vọng tăng trưởng mờ đi`"]
+  n35 --- n41
+  n42["`Nguyên tắc tiết kiệm: dùng mô hình đơn giản nhất làm được việc`"]
+  n35 --- n42
+  n43["`Định giá được bằng 3 đầu vào thì không dùng 5, dự báo được 3 năm thì đừng dự báo 10`"]
+  n42 --- n43
+  n44["`Thêm chi tiết dự báo khoản mục tốt hơn nhưng cần thêm đầu vào, mỗi đầu vào đều có thể sai`"]
+  n42 --- n44
+  n45["`Mục 6 — Kết luận: tự định giá thay vì làm theo người khác`"]
+  n0 --- n45
+  n46["`Đa số né định giá vì mô hình phức tạp, thiếu thông tin, tương lai quá bất định`"]
+  n45 --- n46
+  n47["`Đáp lại: đơn giản hoá mô hình, dùng thông tin đang có, đưa ra ước tính tốt nhất`"]
+  n45 --- n47
+  n48["`Thành công không đến từ việc đúng, mà từ việc sai ít hơn những người khác cùng chơi`"]
+  n45 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Giá là số tiền thị trường đang trả, giá trị là số tiền tài sản đáng giá theo dòng tiền`"]
+  n49 --- n50
+  n51["`Thái độ đúng khi định giá: chấp nhận thiên lệch và sai số, giữ mô hình gọn, cập nhật khi có thông tin mới`"]
+  n49 --- n51
+  n52["`Chương chưa bàn khi nội tại và tương đối mâu thuẫn, câu hỏi để lại cho Chương 4`"]
+  n49 --- n52
+  class n0 root
+  class n1,n8,n17,n27,n35,n45,n49 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), chương mở đầu đứng trước Phần 1 "Laying the groundwork" (không thuộc phần nào), Chương 1 "Introduction to Value", trang 6–16.
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+[Lời nói đầu](00-loi-noi-dau.md) hứa rằng định giá đơn giản ở cốt lõi và người không chuyên cũng làm được, miễn là tập trung vào một hai yếu tố quyết định giá trị.
+
+Chương 1 đặt nền cho lời hứa đó bằng ba việc: định nghĩa giá trị (giá trả cho một tài sản tài chính phải phản ánh dòng tiền mà tài sản đó tạo ra); phân biệt hai cách ước lượng giá trị, định giá nội tại và định giá tương đối; và lập luận rằng mọi loại nhà đầu tư, nhà quản lý doanh nghiệp và kế toán viên đều cần biết định giá. Chương kết thúc bằng ba "sự thật" giúp người đọc có thái độ đúng khi định giá: mọi bản định giá đều thiên lệch, mọi bản định giá đều sai, và mô hình phức tạp hơn không chắc đã tốt hơn.
+
+Phần 1 tiếp theo sẽ trao công cụ: [Chương 2](C02-cong-cu-cua-nghe-dinh-gia.md) về giá trị thời gian của tiền, đo lường rủi ro, dữ liệu kế toán và thống kê; [Chương 3](C03-gia-tri-noi-tai.md) trình bày chi tiết định giá chiết khấu dòng tiền; [Chương 4](C04-dinh-gia-tuong-doi.md) trình bày định giá tương đối bằng bội số. Ba sự thật cuối chương được nhắc lại thành các bài học ở [Chương 12](C12-bai-hoc-ve-dinh-gia.md).
+
+## Lưu ý
+
+- **Định nghĩa mô hình chiết khấu dòng tiền bị viết thiếu (trang 7).** Bản thảo viết rằng trong mô hình DCF "giá trị được đặt bằng dòng tiền kỳ vọng của tài sản" (the value is set equal to the expected cash flows on the asset). Câu đúng phải là: giá trị bằng **giá trị hiện tại** của dòng tiền kỳ vọng, chiết khấu bằng một suất chiết khấu phản ánh rủi ro của dòng tiền. Chương 3 của chính cuốn sách trình bày theo cách đúng này. Bản tổng hợp ghi theo nghĩa đúng.
+- **Mục lục không khớp với cấu trúc chương.** Tiêu đề "The Accountant" (trang 10) được định dạng như tiêu đề mục chính (cỡ chữ lớn, giống "Why should we care?") và xuất hiện trong mục lục, trong khi năm tiêu đề cùng loại trước nó (The Market timer, The fundamentalist, The chartist, The information trader, The corporate manager) có cỡ chữ nhỏ và không có trong mục lục. Về nội dung, kế toán viên là đối tượng thứ sáu trong danh sách những người cần biết định giá của mục "Why should we care?"; bản tổng hợp xếp nó là tiểu mục của mục này.
+- **Lỗi đánh máy và câu chưa trau chuốt** (không làm đổi nghĩa): "uour views" (đúng là "your views", trang 11); "what are the lessons you can drawn" ("draw", trang 13); "a momentum investing strategies" (trang 9); "come up a higher value" (thiếu "with", trang 13); dấu chấm đôi "market.." (trang 14); ví dụ trang 13 dùng lẫn "his" và "she" cho cùng một nhà phân tích; văn bản lẫn ngôi "we/our" và "you/your" trong cùng đoạn.
+- **Chương này không có bảng, hình hay ví dụ định giá bằng số.** Các con số duy nhất là: tỷ lệ khoảng 5 khuyến nghị mua trên 1 khuyến nghị bán (chú thích 3), ví dụ giá trị 15 USD so với giá thị trường 25 USD, mốc cuối 1999 và đầu 2001, và lời khuyên "3 đầu vào thay vì 5", "3 năm dự báo thay vì 10".
+- **Câu của Oscar Wilde.** Bản thảo chỉ ghi tên Oscar Wilde. Theo hiểu biết của người tổng hợp, không tra cứu: câu định nghĩa kẻ hoài nghi (cynic) là người "biết giá của mọi thứ và giá trị của chẳng thứ gì" nằm trong vở kịch *Lady Windermere's Fan* (1892).
+- **Các dịch vụ tổng hợp ý kiến nhà phân tích đã thay đổi.** Bản thảo nêu Zacks, I/B/E/S và First Call. Theo hiểu biết của người tổng hợp, không tra cứu: I/B/E/S và First Call từ lâu đã thuộc cùng một tập đoàn dữ liệu (Thomson, sau là Refinitiv, nay thuộc LSEG) và thương hiệu First Call không còn được dùng riêng; ngày nay nhà đầu tư cá nhân còn xem được ước tính đồng thuận miễn phí trên nhiều trang tài chính.
+- **Tỷ lệ khuyến nghị mua trên bán.** Chú thích 3 nói số khuyến nghị mua trên Phố Wall gấp khoảng năm lần số khuyến nghị bán. Theo hiểu biết của người tổng hợp, không tra cứu: sau thoả thuận dàn xếp chung giữa cơ quan quản lý Mỹ và các ngân hàng đầu tư năm 2003 (Global Settlement) về xung đột lợi ích trong phân tích cổ phiếu, tỷ lệ khuyến nghị bán có tăng lên, nhưng khuyến nghị mua vẫn chiếm áp đảo, nên lập luận của Damodaran vẫn đứng vững về định tính.
+- **Kế toán giá trị hợp lý và suy giảm giá trị lợi thế thương mại sau 2010.** Theo hiểu biết của người tổng hợp, không tra cứu: chuẩn mực quốc tế về đo lường giá trị hợp lý (IFRS 13) được ban hành năm 2011, sau bản thảo này; lợi thế thương mại của công ty niêm yết vẫn được kiểm tra suy giảm giá trị hằng năm thay vì phân bổ dần theo cả chuẩn mực Mỹ lẫn quốc tế, dù đã có nhiều tranh luận về việc quay lại phân bổ (chuẩn mực Mỹ cho phép doanh nghiệp tư nhân phân bổ từ khoảng năm 2014). Xu hướng mà Damodaran nói tới vì thế vẫn tiếp diễn.

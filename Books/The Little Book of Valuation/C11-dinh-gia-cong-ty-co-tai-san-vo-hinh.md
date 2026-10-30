@@ -1,22 +1,16 @@
 # Chương 11 — Định giá công ty có tài sản vô hình: công nghệ, thương hiệu và bằng sáng chế (Valuing companies with intangible assets: Technology, Brand name and Patents)
 
-**Nguồn:** Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 3 "Special Situations in Valuation", Chương 11 (bản thảo ghi nhầm là "Chapter 12") "Valuing companies with intangible assets: Technology, Brand name and Patents", trang 265–298.
-**Tác giả:** Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
-**Vị trí trong lập luận của cả cuốn sách:** Phần 1 (Chương 2–4) dựng bộ công cụ: giá trị thời gian của tiền, báo cáo tài chính, định giá nội tại bằng chiết khấu dòng tiền và định giá tương đối bằng bội số. Phần 2 (Chương 5–8, từ [C05-dinh-gia-cong-ty-tre-tang-truong.md](C05-dinh-gia-cong-ty-tre-tang-truong.md) tới [C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md](C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md)) áp bộ công cụ đó lên từng giai đoạn của vòng đời doanh nghiệp. Phần 3 xử lý những loại công ty mà công cụ chuẩn bị "gãy" vì một đặc điểm riêng: Chương 9 ([C09-dinh-gia-cong-ty-dich-vu-tai-chinh.md](C09-dinh-gia-cong-ty-dich-vu-tai-chinh.md)) bàn công ty dịch vụ tài chính, nơi nợ vay là nguyên liệu chứ không phải nguồn vốn; Chương 10 ([C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md](C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md)) bàn công ty chu kỳ và hàng hoá cơ bản, nơi lợi nhuận năm gần nhất bị chu kỳ làm méo nên phải chuẩn hoá. Chương 11 này bàn loại công ty thứ ba: công ty mà tài sản giá trị nhất (kết quả nghiên cứu, thương hiệu, con người) không nằm trên bảng cân đối kế toán vì kế toán ghi khoản đầu tư tạo ra chúng thành chi phí hoạt động. Chương thêm hai công cụ: vốn hoá các khoản chi đầu tư bị ghi nhầm thành chi phí (R&D, quảng cáo xây dựng thương hiệu, tuyển dụng và đào tạo), và xử lý quyền chọn cổ phiếu trả cho nhân viên khi tính giá trị mỗi cổ phiếu. Chương 12 ([C12-bai-hoc-ve-dinh-gia.md](C12-bai-hoc-ve-dinh-gia.md)) khép lại cuốn sách bằng các bài học chung về định giá, trong đó có ý mà chương này minh hoạ rõ: phải sửa con số kế toán cho đúng bản chất kinh tế trước khi đưa vào mô hình.
-**Ý chính:** Damodaran muốn người đọc hiểu rằng **với công ty công nghệ, dược phẩm, hàng tiêu dùng có thương hiệu và công ty tư vấn, kế toán ghi khoản chi đầu tư lớn nhất của họ (R&D, quảng cáo xây dựng thương hiệu, tuyển dụng và đào tạo) thành chi phí hoạt động, nên lợi nhuận, giá trị sổ sách, tái đầu tư và tỷ suất lợi nhuận trên vốn đầu tư đều sai; nhà phân tích phải vốn hoá các khoản đó thành một "tài sản" có khấu hao, rồi tính lại mọi con số đầu vào, và phải trừ giá trị quyền chọn cổ phiếu của nhân viên khỏi giá trị vốn chủ sở hữu trước khi chia cho số cổ phiếu.** Ví dụ trung tâm là Amgen: lấy R&D 10 năm (từ 663 triệu USD năm thứ −10 lên 3.030 triệu USD năm 2008), khấu hao đều 10 năm, Damodaran có tài sản nghiên cứu 13.284 triệu USD và khấu hao năm nay 1.694 triệu USD; lợi nhuận hoạt động tăng từ 5.594 lên 6.930 triệu USD, lợi nhuận ròng từ 4.196 lên 5.532 triệu USD, nhưng vì vốn cũng tăng nên ROE giảm từ 23,48% xuống 18,55% và ROC trước thuế từ 25,44% xuống 20,42%. Khi đưa con số đã sửa vào định giá DCF 10 năm, tỷ lệ tái đầu tư tăng từ 19,79% lên 33,23%, tốc độ tăng trưởng từ 2,95% lên 5,78%, và giá trị mỗi cổ phiếu từ 43,63 USD lên 62,97 USD, cao hơn giá thị trường 47,47 USD ngày 5/3/2009. Với Google (giá trị vốn chủ sở hữu 102.345 triệu USD, 315,29 triệu cổ phiếu, 13,97 triệu quyền chọn), ông so sánh bốn cách xử lý quyền chọn và chọn cách định giá quyền chọn bằng mô hình Black-Scholes điều chỉnh (giá trị sau thuế 897 triệu USD), cho giá trị 321,76 USD mỗi cổ phiếu, hội tụ về 321,84 USD khi lặp. Thông điệp cho nhà đầu tư: chọn công ty có tài sản vô hình sinh lợi cao, vẫn tiếp tục chi để duy trì tài sản đó, chi hiệu quả, và có giá thấp so với lợi nhuận "thật" (lợi nhuận trước R&D).
+## Ý chính
 
-> **Lưu ý:**
-> - **Đánh số chương sai.** Bản thảo ghi tiêu đề là "Chapter 12" nhưng theo thứ tự đây là chương thứ 11 (sau Chương 10 về công ty chu kỳ, trước Chương 12 "Valuation Lessons"); các bảng, hình và ví dụ trong chương lại đánh số 11.x, khớp với chương 11. Hai hình định giá còn mang nhãn cũ bên trong ảnh: "Figure 15.1: Valuing Amgen" và "Figure 15.*: Valuing Google Equity – March 2009" (sót từ tài liệu khác của tác giả).
-> - **Hình 11.1 (định giá Amgen) có ba chỗ sai số.** (1) Ô "Current Cashflow to Firm" ghi EBIT(1−t) = 6.967 × (1 − 0,20) = 6.041, nhưng 6.967 × 0,8 = 5.574. Con số 6.041 mới là con số được dùng tiếp (năm 1: 6.041 × 1,0578 = 6.390, và EBIT năm 1 là 7.988 = 6.390 / 0,8), nên EBIT gốc ngầm định là khoảng 7.551 triệu USD chứ không phải 6.967; trong khi phần chữ của chương tính lợi nhuận hoạt động đã điều chỉnh là 6.930 triệu USD. (2) Chi đầu tư ròng ghi 1.933, nhưng các thành phần ghi kèm cộng lại chỉ được −401 + 974 + 1.336 = 1.909 triệu USD. (3) Chi phí vốn chủ sở hữu ghi 13,36%, nhưng 3% + 1,65 × 6,5% = 13,725%; và chính WACC 11,80% trong hình chỉ khớp với 13,725% (13,725% × 0,824 + 2,76% × 0,176 = 11,80%), còn nếu dùng 13,36% thì WACC chỉ là 11,49%. Vậy 13,36% là lỗi ghi, 13,73% là số đúng.
-> - **Hình 11.1 ghi sai giá trị vốn chủ sở hữu Amgen.** Hình ghi "Op. Assets 66.602 + Cash 9.552 − Debt 10.578 = Equity 87.226". Phép cộng đúng là 66.602 + 9.552 − 10.578 = **65.576** triệu USD. Giá trị mỗi cổ phiếu 62,97 USD khớp với 65.576 (trừ quyền chọn 464 còn 65.112, chia khoảng 1.034 triệu cổ phiếu), nên 87.226 là lỗi gõ, kết quả cuối cùng không sai.
-> - **Các lỗi gõ nhỏ ảnh hưởng tới con số.** Lợi nhuận hoạt động điều chỉnh của Amgen ghi "$ 6.930 million" (đúng là 6.930 triệu USD, tức sáu nghìn chín trăm ba mươi). Chú thích 59 nói muốn tính tài sản nghiên cứu cuối 2007 thì "dịch bảng xuống một dòng, 822,80 triệu USD thành R&D năm hiện tại, 663,3 triệu USD thành R&D năm −1": hai con số đó không có trong bảng; dịch đúng thì 3.266 triệu USD (năm −1) thành R&D "năm hiện tại" của 2007, 3.366 triệu USD thành năm −1 (còn 90%), v.v. Người tổng hợp tính lại theo cách đó được 11.947,7 triệu USD, khớp với con số 11.948 trong sách.
-> - **Phương pháp cổ phiếu quỹ chỉ tính quyền chọn đang có lãi cho Google bị tính sai.** Sách ghi (102.345 + 4,75 × 185) / (315,29 + 4,75) = 314,45 USD. Tính lại: (102.345 + 878,75) / 320,04 = **322,53 USD**. Kết luận định tính của sách (cách này cho giá trị thấp hơn 327,44 USD của phiên bản tính mọi quyền chọn) vẫn đúng. Ngoài ra công thức pha loãng một phần ghi mẫu số là "Fully diluted number of shares" dù thực ra chỉ cộng 4,75 triệu quyền chọn đang có lãi.
-> - **Bản thảo dở dang ở vài chỗ.** Mục "Value Plays" dừng giữa câu ở ý (e) ("To the extent that the recepient of these options are managers who now lay a c"); người tổng hợp chỉ diễn giải được ý chung (cảnh giác với quyền đòi trên vốn chủ sở hữu từ quyền chọn), không đoán phần còn thiếu. Ví dụ 11.9 (Google với quyền chọn sẽ phát hành trong tương lai) chỉ đưa bảng chi phí quyền chọn 2006–2008, không tính tác động lên giá trị. Mục "Measurement Issues" nói có "năm" vấn đề đo lường nhưng liệt kê sáu (a–f). Đoạn về quyền chọn nhắc "Brooks, Chance and Cline (cited above)" và "Earlier in this paper" dù chương không trích dẫn trước công trình đó: các đoạn này được chép từ một bài viết khác của tác giả.
-> - **Cách tính tỷ suất sinh lời không thống nhất giữa ba ví dụ vốn hoá.** Amgen dùng vốn cuối năm trước (2007) làm mẫu số; Coca Cola và Cyber Health Consulting dùng vốn và tài sản vô hình của năm hiện tại. Ví dụ Coca Cola cũng bắt đầu khấu hao khoản chi ngay trong năm chi (khoản chi năm 2008 chỉ còn 24/25), khác Amgen (khoản chi năm hiện tại còn nguyên 100%). Những khác biệt này không làm đổi kết luận nhưng làm các con số khó so sánh trực tiếp.
-> - **Kiểm tra lại các phép tính khác.** Người tổng hợp đã tính lại: Bảng 11.2 (tổng 13.283,60 và 1.694,10), Bảng 11.3 (tổng 2.150,40 và 31.910,23), Bảng 11.4, 11.5, 11.6, 11.8 (sai lệch làm tròn nhỏ ở Celgene: 18.302 / 226 = 80,98 so với 80,84 trong sách), Bảng 11.11 (Cisco: P/E pha loãng 16,23 / 1,23 = 13,20 so với 13,25 trong sách), giá trị tài sản hoạt động của Google (chiết khấu theo WACC từng năm ra khoảng 95.753 so với 95.748 trong sách) và của Amgen (khoảng 66.592 so với 66.602, với giả định của người tổng hợp là WACC giảm đều từ 11,80% về 8,67% trong năm 6–10, vì hình không ghi WACC từng năm). Giá trị quyền chọn Google trong Bảng 11.9 (103,6 USD mỗi quyền chọn) tái tạo được chính xác bằng Black-Scholes với lãi suất phi rủi ro 3%, không cổ tức, giá cổ phiếu điều chỉnh pha loãng theo công thức ở chú thích 61; vòng lặp hội tụ về 1.406 triệu USD giá trị quyền chọn và 321,84 USD mỗi cổ phiếu, đúng như sách.
-> - **Số liệu thị trường đã khác.** Các ví dụ dùng lãi suất phi rủi ro 3% (lợi suất trái phiếu Chính phủ Mỹ đầu 2009) và phần bù rủi ro vốn cổ phần 6–6,5%, trong bối cảnh ngay sau khủng hoảng 2008. Theo hiểu biết của người tổng hợp, không tra cứu: lợi suất trái phiếu Chính phủ Mỹ 10 năm xuống dưới 1% năm 2020, rồi tăng trở lại lên khoảng 4–5% từ 2022–2023; phần bù rủi ro vốn cổ phần ngầm định mà chính Damodaran công bố thường dao động quanh 4–6% trong thập niên 2010–2020.
-> - **Quy định kế toán và thuế đã đổi.** Theo hiểu biết của người tổng hợp, không tra cứu: chuẩn mực FAS 123R (Mỹ, hiệu lực 2006) mà chương nhắc tới đã buộc ghi quyền chọn thành chi phí, và từ đó các công ty công nghệ Mỹ chuyển dần từ quyền chọn sang cổ phiếu thưởng có điều kiện (restricted stock units). Về thuế, chú thích 58 dựa trên việc R&D được khấu trừ thuế toàn bộ ngay năm chi; luật thuế Mỹ 2017 buộc vốn hoá và khấu hao R&D cho mục đích thuế từ năm 2022, rồi một đạo luật năm 2025 cho khấu trừ ngay trở lại đối với R&D trong nước. Chuẩn mực quốc tế IAS 38 cho phép vốn hoá chi phí phát triển (không phải chi phí nghiên cứu) khi đạt điều kiện, nên một phần vấn đề chương nêu đã được xử lý ở các nước dùng IFRS.
-> - **Số phận các công ty ví dụ** (theo hiểu biết của người tổng hợp, không tra cứu): Google tái cấu trúc thành công ty mẹ Alphabet năm 2015 và trở thành một trong những công ty có vốn hoá lớn nhất thế giới; giá cổ phiếu sau đó vượt xa mức 321–327 USD (trước khi chia tách 20:1 năm 2022). Amgen vẫn độc lập và tiếp tục mua lại các công ty khác (như Horizon Therapeutics năm 2023). Trong Bảng 11.8: Wyeth bị Pfizer mua năm 2009, Schering-Plough sáp nhập vào Merck năm 2009, Genzyme bị Sanofi mua năm 2011, Celgene bị Bristol-Myers Squibb mua năm 2019, Allergan (sau khi nhập với Actavis) bị AbbVie mua năm 2020, Biogen Idec đổi tên thành Biogen.
+Damodaran muốn người đọc hiểu rằng **với công ty công nghệ, dược phẩm, hàng tiêu dùng có thương hiệu và công ty tư vấn, kế toán ghi khoản chi đầu tư lớn nhất của họ (R&D, quảng cáo xây dựng thương hiệu, tuyển dụng và đào tạo) thành chi phí hoạt động, nên lợi nhuận, giá trị sổ sách, tái đầu tư và tỷ suất lợi nhuận trên vốn đầu tư đều sai; nhà phân tích phải vốn hoá các khoản đó thành một "tài sản" có khấu hao, rồi tính lại mọi con số đầu vào, và phải trừ giá trị quyền chọn cổ phiếu của nhân viên khỏi giá trị vốn chủ sở hữu trước khi chia cho số cổ phiếu.**
+
+Ví dụ trung tâm là Amgen: lấy R&D 10 năm (từ 663 triệu USD năm thứ −10 lên 3.030 triệu USD năm 2008), khấu hao đều 10 năm, Damodaran có tài sản nghiên cứu 13.284 triệu USD và khấu hao năm nay 1.694 triệu USD; lợi nhuận hoạt động tăng từ 5.594 lên 6.930 triệu USD, lợi nhuận ròng từ 4.196 lên 5.532 triệu USD, nhưng vì vốn cũng tăng nên ROE giảm từ 23,48% xuống 18,55% và ROC trước thuế từ 25,44% xuống 20,42%.
+
+Khi đưa con số đã sửa vào định giá DCF 10 năm, tỷ lệ tái đầu tư tăng từ 19,79% lên 33,23%, tốc độ tăng trưởng từ 2,95% lên 5,78%, và giá trị mỗi cổ phiếu từ 43,63 USD lên 62,97 USD, cao hơn giá thị trường 47,47 USD ngày 5/3/2009.
+
+Với Google (giá trị vốn chủ sở hữu 102.345 triệu USD, 315,29 triệu cổ phiếu, 13,97 triệu quyền chọn), ông so sánh bốn cách xử lý quyền chọn và chọn cách định giá quyền chọn bằng mô hình Black-Scholes điều chỉnh (giá trị sau thuế 897 triệu USD), cho giá trị 321,76 USD mỗi cổ phiếu, hội tụ về 321,84 USD khi lặp.
+
+Thông điệp cho nhà đầu tư: chọn công ty có tài sản vô hình sinh lợi cao, vẫn tiếp tục chi để duy trì tài sản đó, chi hiệu quả, và có giá thấp so với lợi nhuận "thật" (lợi nhuận trước R&D).
 
 ## Sơ đồ
 
@@ -284,7 +278,9 @@ Theo cả ba cách, ông ước tính khoản đầu tư vào tài sản vô hì
 
 Dù đa dạng, các công ty có tài sản vô hình có ba điểm chung; phần sau của chương sẽ bàn hệ quả của chúng cho định giá.
 
-**(1) Kế toán ghi nhận đầu tư vào tài sản vô hình không nhất quán.** Nguyên tắc gốc của kế toán đưa ra một quy tắc đơn giản để tách chi đầu tư vốn khỏi chi phí hoạt động: khoản chi tạo ra lợi ích trong nhiều năm là chi đầu tư vốn, khoản chi chỉ tạo ra lợi ích trong năm hiện tại là chi phí hoạt động. Với công ty sản xuất, kế toán theo đúng quy tắc này: đầu tư vào nhà máy, thiết bị và nhà xưởng là chi đầu tư vốn; lao động và nguyên vật liệu là chi phí hoạt động. Nhưng với công ty có tài sản vô hình, kế toán bỏ qua nguyên tắc gốc. Khoản chi đầu tư vốn quan trọng nhất của công ty công nghệ và dược là R&D, của công ty hàng tiêu dùng là quảng cáo xây dựng thương hiệu, của công ty tư vấn là tuyển dụng và đào tạo nhân sự. Với lý do lợi ích tương lai quá bất định, kế toán ghi các khoản này thành chi phí hoạt động. Hệ quả là công ty có tài sản vô hình báo cáo chi đầu tư vốn rất nhỏ so với quy mô và tiềm năng tăng trưởng của mình.
+**(1) Kế toán ghi nhận đầu tư vào tài sản vô hình không nhất quán.** Nguyên tắc gốc của kế toán đưa ra một quy tắc đơn giản để tách chi đầu tư vốn khỏi chi phí hoạt động: khoản chi tạo ra lợi ích trong nhiều năm là chi đầu tư vốn, khoản chi chỉ tạo ra lợi ích trong năm hiện tại là chi phí hoạt động. Với công ty sản xuất, kế toán theo đúng quy tắc này: đầu tư vào nhà máy, thiết bị và nhà xưởng là chi đầu tư vốn; lao động và nguyên vật liệu là chi phí hoạt động.
+
+Nhưng với công ty có tài sản vô hình, kế toán bỏ qua nguyên tắc gốc. Khoản chi đầu tư vốn quan trọng nhất của công ty công nghệ và dược là R&D, của công ty hàng tiêu dùng là quảng cáo xây dựng thương hiệu, của công ty tư vấn là tuyển dụng và đào tạo nhân sự. Với lý do lợi ích tương lai quá bất định, kế toán ghi các khoản này thành chi phí hoạt động. Hệ quả là công ty có tài sản vô hình báo cáo chi đầu tư vốn rất nhỏ so với quy mô và tiềm năng tăng trưởng của mình.
 
 **(2) Thường vay ít nợ.** Đây là khái quát không đúng với mọi nhóm nhỏ, nhưng nhiều công ty có tài sản vô hình dùng nợ rất dè dặt và có tỷ lệ nợ thấp so với công ty ngành khác có lợi nhuận và dòng tiền tương đương. Một phần do ngân hàng thiên về cho vay có tài sản hữu hình bảo đảm; một phần vì công ty công nghệ và dược đang ở trong hoặc vừa ra khỏi giai đoạn tăng trưởng của vòng đời doanh nghiệp.
 
@@ -297,7 +293,9 @@ Việc phân loại sai chi đầu tư vốn, dùng nợ dè dặt và trả lư
 - **Lợi nhuận và giá trị sổ sách hiện tại không đáng tin.** Ta thường dùng lợi nhuận và giá trị sổ sách hiện tại để định giá tài sản hiện có. Với công ty công nghệ, lợi nhuận báo cáo là lợi nhuận sau khi đã trừ khoản tái đầu tư vào R&D, không phải lợi nhuận hoạt động thật; giá trị sổ sách của tài sản (và của vốn chủ sở hữu) bị ghi thiếu vì tài sản lớn nhất nằm ngoài sổ sách. Đã ghi một khoản thành chi phí thì không thể đồng thời ghi nó thành tài sản. Điều này ảnh hưởng tới DCF (những con số này là điểm xuất phát để dự báo) và tới định giá tương đối (so sánh bội số của lợi nhuận và giá trị sổ sách giữa các công ty).
 - **Không đo được tái đầu tư và chất lượng tái đầu tư.** Nếu tăng trưởng phụ thuộc vào lượng tái đầu tư và chất lượng của nó, thì cách kế toán khiến cả hai khó đo: khoản tái đầu tư bị chôn trong chi phí hoạt động thay vì hiện ra thành chi đầu tư vốn, còn việc không ghi giá trị sổ sách của tài sản vô hình làm ROE và ROC (thước đo chất lượng đầu tư thông dụng) mất độ tin cậy.
 - **Có thêm một loại rủi ro.** Ngoài các yếu tố rủi ro thông thường, người cho vay ngại cho các công ty này vay vì khó giám sát tài sản vô hình. Hơn nữa, giá trị của một số tài sản vô hình như vốn con người có thể tan biến qua một đêm nếu công ty gặp khó khăn hoặc bị bôi nhọ uy tín.
-- **Khó ước tính khi nào công ty vào giai đoạn tăng trưởng ổn định.** Mức độ khó từ dễ tới phức tạp. Trường hợp đơn giản: một công ty công nghệ sinh học có gần như toàn bộ tăng trưởng từ một loại thuốc bán chạy có bằng sáng chế hết hạn sau 7 năm; lợi thế cạnh tranh có ngày hết hạn nên dễ xác định thời điểm vào tăng trưởng ổn định. Phức tạp hơn: công ty có thương hiệu được đánh giá cao; vì thương hiệu tiêu dùng là lợi thế cạnh tranh bền, rất khó xác định khi nào đưa công ty vào tăng trưởng ổn định. Khó nhất: công ty có tài sản vô hình lớn nhất là con người, như chuyên gia tư vấn ở McKinsey hay nhà giao dịch ở một quỹ đầu tư tư nhân. Vì rất khó "khoá" được con người, các công ty này có thể mất tài sản tốt nhất qua một đêm vào tay người trả giá cao nhất. Hiểu được vì sao và bằng cách nào công ty giữ được nhân sự giỏi là phần trung tâm của việc định giá đúng.
+- **Khó ước tính khi nào công ty vào giai đoạn tăng trưởng ổn định.** Mức độ khó từ dễ tới phức tạp. Trường hợp đơn giản: một công ty công nghệ sinh học có gần như toàn bộ tăng trưởng từ một loại thuốc bán chạy có bằng sáng chế hết hạn sau 7 năm; lợi thế cạnh tranh có ngày hết hạn nên dễ xác định thời điểm vào tăng trưởng ổn định. Phức tạp hơn: công ty có thương hiệu được đánh giá cao; vì thương hiệu tiêu dùng là lợi thế cạnh tranh bền, rất khó xác định khi nào đưa công ty vào tăng trưởng ổn định.
+
+  Khó nhất: công ty có tài sản vô hình lớn nhất là con người, như chuyên gia tư vấn ở McKinsey hay nhà giao dịch ở một quỹ đầu tư tư nhân. Vì rất khó "khoá" được con người, các công ty này có thể mất tài sản tốt nhất qua một đêm vào tay người trả giá cao nhất. Hiểu được vì sao và bằng cách nào công ty giữ được nhân sự giỏi là phần trung tâm của việc định giá đúng.
 
 Một số nhà phân tích bào chữa rằng quy tắc kế toán dù sai nhưng như nhau cho mọi công ty trong ngành. Damodaran cho rằng điều đó không triệt tiêu vấn đề (lý do trình bày ở mục 6).
 
@@ -377,7 +375,9 @@ Cả hai tăng 1.336 triệu USD (= 3.030 − 1.694, phần R&D ròng).
 
 #### 5.2. Vốn hoá các chi phí hoạt động khác (Capitalizing Other Operating Expenses, trang 273–277)
 
-R&D là ví dụ nổi bật nhất, nhưng còn những chi phí hoạt động khác có thể coi là chi đầu tư vốn. Công ty hàng tiêu dùng như Gillette và Coca Cola có thể lập luận rằng một phần chi phí quảng cáo là chi đầu tư vốn vì nó nhằm tăng giá trị thương hiệu. Với công ty tư vấn như KPMG hay McKinsey, chi phí tuyển dụng và đào tạo nhân viên có thể coi là chi đầu tư vốn, vì những chuyên gia tư vấn được đào tạo ra là cốt lõi tài sản và đem lại lợi ích nhiều năm. Với nhiều công ty công nghệ mới, kể cả nhà bán lẻ trực tuyến như Amazon.com, khoản chi phí lớn nhất là chi phí bán hàng và quản lý doanh nghiệp (SG&A); họ có thể lập luận rằng một phần SG&A là chi đầu tư vốn vì nhằm tăng nhận biết thương hiệu và thu hút khách hàng mới, có lẽ gắn bó lâu dài.
+R&D là ví dụ nổi bật nhất, nhưng còn những chi phí hoạt động khác có thể coi là chi đầu tư vốn. Công ty hàng tiêu dùng như Gillette và Coca Cola có thể lập luận rằng một phần chi phí quảng cáo là chi đầu tư vốn vì nó nhằm tăng giá trị thương hiệu. Với công ty tư vấn như KPMG hay McKinsey, chi phí tuyển dụng và đào tạo nhân viên có thể coi là chi đầu tư vốn, vì những chuyên gia tư vấn được đào tạo ra là cốt lõi tài sản và đem lại lợi ích nhiều năm.
+
+Với nhiều công ty công nghệ mới, kể cả nhà bán lẻ trực tuyến như Amazon.com, khoản chi phí lớn nhất là chi phí bán hàng và quản lý doanh nghiệp (SG&A); họ có thể lập luận rằng một phần SG&A là chi đầu tư vốn vì nhằm tăng nhận biết thương hiệu và thu hút khách hàng mới, có lẽ gắn bó lâu dài.
 
 Lập luận này có lý, nhưng phải thận trọng. Muốn vốn hoá một khoản chi phí hoạt động, phải có bằng chứng vững chắc rằng lợi ích của nó kéo dài nhiều kỳ. Một khách hàng bị hấp dẫn bởi quảng cáo hay khuyến mãi để mua ở Amazon có tiếp tục là khách hàng lâu dài không? Một số nhà phân tích cho rằng có, và gán giá trị đáng kể cho mỗi khách hàng mới. Khi đó, hợp lý là vốn hoá các khoản này theo quy trình giống R&D:
 - xác định khoảng thời gian lợi ích của khoản chi (như SG&A) còn kéo dài;
@@ -505,7 +505,7 @@ Tóm lại, hai biến bị ảnh hưởng rõ nhất là ROE/ROC và tỷ lệ 
 | − Thay đổi vốn lưu động | 75 |
 | = Dòng tiền tự do của doanh nghiệp (FCFF) | 4.033 |
 
-Chi đầu tư vốn ròng gồm: chi đầu tư vốn ròng theo kế toán (−401), chi mua lại công ty (974) và R&D ròng (1.336 = 3.030 − 1.694). Hình ghi EBIT là 6.967 với "6.967 × (1 − 0,20) = 6.041", phép nhân này không khớp (xem khối Lưu ý); con số 6.041 mới là con số được dùng tiếp. Tổng ba thành phần chi đầu tư là 1.909 chứ không phải 1.933; người tổng hợp giữ 1.933 như hình vì các con số sau dựa trên nó.
+Chi đầu tư vốn ròng gồm: chi đầu tư vốn ròng theo kế toán (−401), chi mua lại công ty (974) và R&D ròng (1.336 = 3.030 − 1.694). Hình ghi EBIT là 6.967 với "6.967 × (1 − 0,20) = 6.041", phép nhân này không khớp (xem mục Lưu ý cuối chương); con số 6.041 mới là con số được dùng tiếp. Tổng ba thành phần chi đầu tư là 1.909 chứ không phải 1.933; người tổng hợp giữ 1.933 như hình vì các con số sau dựa trên nó.
 
 *Tăng trưởng giai đoạn tăng trưởng cao.*
 - Tái đầu tư = 1.933 + 75 = 2.008; Tỷ lệ tái đầu tư = 2.008 / 6.041 = 33,23%.
@@ -516,7 +516,7 @@ Chi đầu tư vốn ròng gồm: chi đầu tư vốn ròng theo kế toán (�
 *Chi phí vốn giai đoạn tăng trưởng cao.*
 - Lãi suất phi rủi ro 3%; phần bù rủi ro vốn cổ phần 6,5%.
 - Hệ số beta không vay nợ bình quân của ngành: 1,41; tỷ lệ nợ trên vốn chủ sở hữu (D/E) 21,35%; beta có vay nợ 1,65 (người tổng hợp kiểm tra: 1,41 × (1 + (1 − 0,20) × 0,2135) = 1,65, tức dùng thuế suất 20%).
-- Chi phí vốn chủ sở hữu: hình ghi 13,36%, nhưng 3% + 1,65 × 6,5% = 13,73% (xem khối Lưu ý).
+- Chi phí vốn chủ sở hữu: hình ghi 13,36%, nhưng 3% + 1,65 × 6,5% = 13,73% (xem mục Lưu ý cuối chương).
 - Chi phí nợ vay = (3% + 1,25%) × (1 − 0,35) = 2,76%.
 - Trọng số: vốn chủ sở hữu 82,4%, nợ 17,6% (D/E 21,35% tương ứng nợ / (nợ + vốn chủ) = 0,2135 / 1,2135 = 17,6%).
 - WACC = 13,36% × 0,824 + 2,76% × 0,176 = 11,80% theo hình (đúng ra 11,80% là kết quả khi dùng 13,73%).
@@ -690,7 +690,7 @@ Biến thể chỉ tính quyền chọn đang có lãi sẽ làm giá trị mỗ
 
 Giá trị mỗi cổ phiếu = (102.345 + 4,75 × 185) / (315,29 + 4,75) = (102.345 + 878,75) / 320,04
 
-Sách ghi kết quả là 314,45 USD; tính lại đúng là **322,53 USD** (xem khối Lưu ý).
+Sách ghi kết quả là 314,45 USD; tính lại đúng là **322,53 USD** (xem mục Lưu ý cuối chương).
 
 **III. Định giá quyền chọn (Valuing Options).** Cả cách pha loãng và cổ phiếu quỹ đều bỏ lỡ bản chất của quyền chọn: giá trị quyền chọn gồm không chỉ giá trị thực hiện hiện tại (cách cổ phiếu quỹ đã ghi nhận) mà cả giá trị thời gian, vì quyền chọn còn thời hạn và cổ phiếu còn biến động. Tranh luận chủ yếu xoay quanh việc mô hình định giá quyền chọn có dùng tốt cho quyền chọn nhân viên không.
 
@@ -711,7 +711,11 @@ Sách ghi kết quả là 314,45 USD; tính lại đúng là **322,53 USD** (xem
 
 Người theo chủ nghĩa thuần tuý vẫn phản đối, nhưng mô hình tỏ ra bền vững đáng kể ngay cả khi các giả định cơ bản bị vi phạm.
 
-*Mô hình nhị phân (Binomial Models).* Khả năng thực hiện sớm và không được hưởng quyền (đáng kể với quyền chọn nhân viên) khiến nhiều người làm thực tế ủng hộ mô hình cây nhị phân. Khác Black-Scholes, mô hình này mô hình hoá được thực hiện sớm và có thể điều chỉnh cho các đặc điểm riêng như thời gian chờ hưởng quyền; nó cũng linh hoạt hơn về đầu vào, cho phép độ biến động thay đổi qua từng kỳ (Black-Scholes giả định không đổi). Hạn chế: cần nhiều thông tin hơn, phải nhập giá ở mỗi nhánh; với khoảng thời gian ngắn thực tế có thể là hàng trăm mức giá. Lợi ích chính là mô hình hoá được tương tác giữa giá cổ phiếu và thực hiện sớm. Một ví dụ là mô hình Hull-White (Hull và White, 2004, "How to Value Employee Stock Options", *Financial Analysts Journal* 60(1)), đề xuất rút kỳ hạn về mức thực tế hơn: mô hình tính tỷ lệ nhân viên nghỉ việc trong thời gian chờ hưởng quyền (tức xác suất quyền chọn mất trắng) và kỳ hạn kỳ vọng sau khi được hưởng; để ước tính kỳ hạn này, mô hình giả định quyền chọn được thực hiện khi giá cổ phiếu đạt một bội số định trước của giá thực hiện, nên việc thực hiện là kết quả bên trong mô hình chứ không phải giả định bên ngoài. Giá trị thu được thường thấp hơn Black-Scholes.
+*Mô hình nhị phân (Binomial Models).* Khả năng thực hiện sớm và không được hưởng quyền (đáng kể với quyền chọn nhân viên) khiến nhiều người làm thực tế ủng hộ mô hình cây nhị phân. Khác Black-Scholes, mô hình này mô hình hoá được thực hiện sớm và có thể điều chỉnh cho các đặc điểm riêng như thời gian chờ hưởng quyền; nó cũng linh hoạt hơn về đầu vào, cho phép độ biến động thay đổi qua từng kỳ (Black-Scholes giả định không đổi).
+
+Hạn chế: cần nhiều thông tin hơn, phải nhập giá ở mỗi nhánh; với khoảng thời gian ngắn thực tế có thể là hàng trăm mức giá. Lợi ích chính là mô hình hoá được tương tác giữa giá cổ phiếu và thực hiện sớm.
+
+Một ví dụ là mô hình Hull-White (Hull và White, 2004, "How to Value Employee Stock Options", *Financial Analysts Journal* 60(1)), đề xuất rút kỳ hạn về mức thực tế hơn: mô hình tính tỷ lệ nhân viên nghỉ việc trong thời gian chờ hưởng quyền (tức xác suất quyền chọn mất trắng) và kỳ hạn kỳ vọng sau khi được hưởng; để ước tính kỳ hạn này, mô hình giả định quyền chọn được thực hiện khi giá cổ phiếu đạt một bội số định trước của giá thực hiện, nên việc thực hiện là kết quả bên trong mô hình chứ không phải giả định bên ngoài. Giá trị thu được thường thấp hơn Black-Scholes.
 
 *Mô hình mô phỏng (Simulation Models).* Mô phỏng Monte Carlo bắt đầu từ một phân phối giá cổ phiếu và một chiến lược thực hiện định trước; mô phỏng giá để có xác suất quyền chọn được thực hiện và giá trị kỳ vọng. Ưu điểm: linh hoạt nhất, đưa được tương tác giữa thời gian chờ hưởng quyền, giá cổ phiếu và thực hiện sớm vào mô phỏng thay vì giả định. Nhược điểm: cần nhiều thông tin nhất.
 
@@ -758,7 +762,9 @@ Sự không nhất quán nói ở trên hiện ra rõ: giá trị mỗi cổ phi
 
 Quyền chọn tồn đọng là nguồn pha loãng hoặc dòng tiền ra tiềm năng với cổ đông hiện hữu; quyền chọn sẽ được cấp trong tương lai cũng ảnh hưởng giá trị mỗi cổ phiếu bằng cách tăng số cổ phiếu trong tương lai. Cách đơn giản nhất là coi chúng là chi phí lương: chi phí hoạt động tăng, lợi nhuận hoạt động và dòng tiền sau thuế tương lai giảm, giá trị công ty hôm nay giảm.
 
-Hai lưu ý. Thứ nhất, điều chỉnh này cộng thêm vào điều chỉnh cho quyền chọn tồn đọng; đây không phải tính hai lần vì chúng phản ánh hai nguồn hao hụt khác nhau (quyền chọn đã cấp và quyền chọn sẽ cấp). Nhưng nếu làm vậy thì không được tăng thêm số cổ phiếu để phản ánh việc thực hiện quyền chọn tương lai, vì đó mới là tính hai lần. Thứ hai, việc ước tính đã dễ hơn rất nhiều vì quy tắc kế toán nay buộc ghi quyền chọn thành chi phí: lợi nhuận hoạt động và lợi nhuận ròng của hầu hết công ty đã là số sau chi phí quyền chọn, nên dự báo dựa trên đó đã bao gồm chi phí quyền chọn tương lai. Chỉ một điều cần cẩn trọng: khi công ty lớn lên, quyền chọn cấp ra tính theo tỷ lệ doanh thu hay giá trị thường nhỏ đi, nên càng dự báo xa càng nên đưa mức cấp quyền chọn về trung bình ngành hoặc thông lệ của công ty trưởng thành.
+Hai lưu ý. Thứ nhất, điều chỉnh này cộng thêm vào điều chỉnh cho quyền chọn tồn đọng; đây không phải tính hai lần vì chúng phản ánh hai nguồn hao hụt khác nhau (quyền chọn đã cấp và quyền chọn sẽ cấp). Nhưng nếu làm vậy thì không được tăng thêm số cổ phiếu để phản ánh việc thực hiện quyền chọn tương lai, vì đó mới là tính hai lần.
+
+Thứ hai, việc ước tính đã dễ hơn rất nhiều vì quy tắc kế toán nay buộc ghi quyền chọn thành chi phí: lợi nhuận hoạt động và lợi nhuận ròng của hầu hết công ty đã là số sau chi phí quyền chọn, nên dự báo dựa trên đó đã bao gồm chi phí quyền chọn tương lai. Chỉ một điều cần cẩn trọng: khi công ty lớn lên, quyền chọn cấp ra tính theo tỷ lệ doanh thu hay giá trị thường nhỏ đi, nên càng dự báo xa càng nên đưa mức cấp quyền chọn về trung bình ngành hoặc thông lệ của công ty trưởng thành.
 
 Chú thích 66: nếu công ty không ghi quyền chọn thành chi phí, lợi nhuận hiện tại có thể đã bao gồm chi phí của quyền chọn thực hiện trong kỳ. Nếu tác động của quyền chọn thực hiện trong kỳ lên lợi nhuận hoạt động nhỏ hơn giá trị kỳ vọng của quyền chọn mới, phải tính thêm chi phí; ngược lại, nếu kỳ trước có lượng quyền chọn thực hiện lớn bất thường thì phải giảm chi phí hoạt động.
 
@@ -826,7 +832,9 @@ Tóm lại, nên đầu tư vào công ty đầu tư tốt vào tài sản vô h
 
 ### 9. Kết luận (Conclusion, trang 298)
 
-Chương xem xét hai vấn đề then chốt khi định giá công ty có nhiều tài sản vô hình. Thứ nhất, cách kế toán xác định chi đầu tư vốn ở các công ty này không nhất quán với cách làm ở công ty sản xuất: R&D, quảng cáo thương hiệu, tuyển dụng và đào tạo nhân viên bị ghi là chi phí hoạt động thay vì chi đầu tư vốn. Vì vậy lợi nhuận và giá trị sổ sách bị lệch, dùng chúng để định giá có thể cho ước tính tồi. Chương đã trình bày cách sửa sự không nhất quán này và tác động lên giá trị: nói chung, công ty biến R&D thành sản phẩm thương mại hiệu quả và sinh lời sẽ có giá trị ước tính tăng sau khi sửa, còn công ty chi nhiều để có tài sản vô hình mà lợi nhuận không tăng tương xứng sẽ có giá trị ước tính giảm.
+Chương xem xét hai vấn đề then chốt khi định giá công ty có nhiều tài sản vô hình. Thứ nhất, cách kế toán xác định chi đầu tư vốn ở các công ty này không nhất quán với cách làm ở công ty sản xuất: R&D, quảng cáo thương hiệu, tuyển dụng và đào tạo nhân viên bị ghi là chi phí hoạt động thay vì chi đầu tư vốn. Vì vậy lợi nhuận và giá trị sổ sách bị lệch, dùng chúng để định giá có thể cho ước tính tồi.
+
+Chương đã trình bày cách sửa sự không nhất quán này và tác động lên giá trị: nói chung, công ty biến R&D thành sản phẩm thương mại hiệu quả và sinh lời sẽ có giá trị ước tính tăng sau khi sửa, còn công ty chi nhiều để có tài sản vô hình mà lợi nhuận không tăng tương xứng sẽ có giá trị ước tính giảm.
 
 Vấn đề thứ hai là dùng quyền chọn cổ phiếu để trả lương nhân viên. Chương xem xét hai cách truyền thống (pha loãng và cổ phiếu quỹ) và loại bỏ chúng; thay vào đó, Damodaran chủ trương định giá quyền chọn bằng mô hình định giá quyền chọn có điều chỉnh, và điều chỉnh giá trị cổ phiếu thường hôm nay cho cả quyền chọn đã cấp (quyền chọn tồn đọng) lẫn quyền chọn dự kiến cấp trong tương lai.
 
@@ -846,7 +854,9 @@ Giá trị của công ty có tài sản vô hình chỉ ước tính đúng đ�
 
 ### Cơ chế
 
-Vốn hoá làm hai việc cùng lúc: cộng R&D ròng (R&D trừ khấu hao) vào lợi nhuận và cộng đúng lượng đó vào tái đầu tư, nên dòng tiền tự do không đổi; đồng thời đưa một tài sản lớn vào vốn đầu tư. Kết quả là tỷ lệ tái đầu tư và ROC đổi, nên tốc độ tăng trưởng (= tỷ lệ tái đầu tư × ROC) và lợi nhuận vượt mức (= ROC − chi phí vốn) đổi theo. Với Amgen, tỷ lệ tái đầu tư tăng từ 19,79% lên 33,23% và ROC sau thuế từ 14,91% lên 17,41%, nên tăng trưởng gần gấp đôi (2,95% lên 5,78%) và giá trị mỗi cổ phiếu tăng 44% (43,63 lên 62,97 USD). Với quyền chọn, cơ chế là phân chia tổng giá trị vốn chủ sở hữu giữa hai nhóm có quyền đòi: phần của người giữ quyền chọn (đo bằng giá trị quyền chọn, gồm cả giá trị thời gian) phải được trừ ra trước khi chia cho cổ đông thường.
+Vốn hoá làm hai việc cùng lúc: cộng R&D ròng (R&D trừ khấu hao) vào lợi nhuận và cộng đúng lượng đó vào tái đầu tư, nên dòng tiền tự do không đổi; đồng thời đưa một tài sản lớn vào vốn đầu tư. Kết quả là tỷ lệ tái đầu tư và ROC đổi, nên tốc độ tăng trưởng (= tỷ lệ tái đầu tư × ROC) và lợi nhuận vượt mức (= ROC − chi phí vốn) đổi theo. Với Amgen, tỷ lệ tái đầu tư tăng từ 19,79% lên 33,23% và ROC sau thuế từ 14,91% lên 17,41%, nên tăng trưởng gần gấp đôi (2,95% lên 5,78%) và giá trị mỗi cổ phiếu tăng 44% (43,63 lên 62,97 USD).
+
+Với quyền chọn, cơ chế là phân chia tổng giá trị vốn chủ sở hữu giữa hai nhóm có quyền đòi: phần của người giữ quyền chọn (đo bằng giá trị quyền chọn, gồm cả giá trị thời gian) phải được trừ ra trước khi chia cho cổ đông thường.
 
 ### Bằng chứng và ví dụ Damodaran đưa ra
 
@@ -952,7 +962,9 @@ Hình 11.1 có ba lỗi (EBIT gốc, chi đầu tư ròng, chi phí vốn chủ 
 
 ### Môi trường kế toán và thuế đã thay đổi từ 2010, nhưng vấn đề cốt lõi vẫn còn
 
-Theo hiểu biết của người tổng hợp: chi phí trả lương bằng cổ phần nay đã được ghi vào chi phí theo FAS 123R, và các công ty công nghệ lớn chuyển sang cổ phiếu thưởng có điều kiện thay cho quyền chọn, nên vấn đề "quyền chọn tồn đọng" kiểu Google 2009 nhỏ đi, nhưng tranh luận về việc nhà phân tích hay cộng ngược chi phí trả lương bằng cổ phần (để làm đẹp lợi nhuận "điều chỉnh") lại nổi lên, và lập luận của chương (đây là chi phí thật) càng đúng. Với R&D, chuẩn mực kế toán Mỹ vẫn ghi thành chi phí; IFRS chỉ cho vốn hoá chi phí phát triển khi đạt điều kiện. Kinh tế còn dịch chuyển mạnh hơn sang tài sản vô hình (phần mềm, nền tảng, dữ liệu), nên khoảng cách giữa giá trị sổ sách và giá trị thị trường của các công ty lớn nhất còn rộng hơn năm 2010. Lãi suất phi rủi ro 3% trong các ví dụ đã từng xuống gần 0 rồi tăng lại lên khoảng 4–5% từ 2022, làm giá trị cuối kỳ (chiếm khoảng 54% giá trị Amgen và 68% giá trị Google trong ví dụ) rất nhạy với giả định này.
+Theo hiểu biết của người tổng hợp: chi phí trả lương bằng cổ phần nay đã được ghi vào chi phí theo FAS 123R, và các công ty công nghệ lớn chuyển sang cổ phiếu thưởng có điều kiện thay cho quyền chọn, nên vấn đề "quyền chọn tồn đọng" kiểu Google 2009 nhỏ đi, nhưng tranh luận về việc nhà phân tích hay cộng ngược chi phí trả lương bằng cổ phần (để làm đẹp lợi nhuận "điều chỉnh") lại nổi lên, và lập luận của chương (đây là chi phí thật) càng đúng.
+
+Với R&D, chuẩn mực kế toán Mỹ vẫn ghi thành chi phí; IFRS chỉ cho vốn hoá chi phí phát triển khi đạt điều kiện. Kinh tế còn dịch chuyển mạnh hơn sang tài sản vô hình (phần mềm, nền tảng, dữ liệu), nên khoảng cách giữa giá trị sổ sách và giá trị thị trường của các công ty lớn nhất còn rộng hơn năm 2010. Lãi suất phi rủi ro 3% trong các ví dụ đã từng xuống gần 0 rồi tăng lại lên khoảng 4–5% từ 2022, làm giá trị cuối kỳ (chiếm khoảng 54% giá trị Amgen và 68% giá trị Google trong ví dụ) rất nhạy với giả định này.
 
 ### Có quan điểm trái chiều về việc vốn hoá chi phí marketing và nhân sự
 
@@ -960,4 +972,191 @@ Damodaran tự nêu giới hạn: chỉ vốn hoá khi có bằng chứng lợi 
 
 ### Vận dụng cho nhà đầu tư cá nhân và nhà phân tích
 
-Ba thao tác thực hành rút ra được: (1) với công ty có R&D hoặc quảng cáo lớn, lập bảng chi phí 5–10 năm và tính lại lợi nhuận, vốn và ROC theo cách của Amgen; nếu ROC tăng sau vốn hoá, đó là dấu hiệu khoản đầu tư vô hình đang sinh lợi tốt; (2) khi so sánh P/E trong ngành dược hay công nghệ, so thêm bội số trên lợi nhuận trước R&D ròng, vì nó tách được công ty trưởng thành khỏi công ty tăng trưởng; (3) luôn kiểm tra số quyền chọn và cổ phiếu thưởng trong thuyết minh, trừ giá trị của chúng trước khi chia cho số cổ phiếu. Với người đọc Việt Nam, ở mức định tính: các công ty công nghệ, dược phẩm và hàng tiêu dùng có thương hiệu niêm yết trong nước cũng chịu cùng vấn đề, vì chuẩn mực kế toán thường ghi chi phí nghiên cứu và quảng cáo vào chi phí trong kỳ; các chương trình phát hành cổ phiếu ưu đãi cho người lao động (ESOP) với giá thấp hơn thị giá là một dạng trả lương bằng cổ phần, nên khi định giá cần tính phần pha loãng đó thay vì chỉ nhìn vào lợi nhuận báo cáo.
+Ba thao tác thực hành rút ra được: (1) với công ty có R&D hoặc quảng cáo lớn, lập bảng chi phí 5–10 năm và tính lại lợi nhuận, vốn và ROC theo cách của Amgen; nếu ROC tăng sau vốn hoá, đó là dấu hiệu khoản đầu tư vô hình đang sinh lợi tốt; (2) khi so sánh P/E trong ngành dược hay công nghệ, so thêm bội số trên lợi nhuận trước R&D ròng, vì nó tách được công ty trưởng thành khỏi công ty tăng trưởng; (3) luôn kiểm tra số quyền chọn và cổ phiếu thưởng trong thuyết minh, trừ giá trị của chúng trước khi chia cho số cổ phiếu.
+
+Với người đọc Việt Nam, ở mức định tính: các công ty công nghệ, dược phẩm và hàng tiêu dùng có thương hiệu niêm yết trong nước cũng chịu cùng vấn đề, vì chuẩn mực kế toán thường ghi chi phí nghiên cứu và quảng cáo vào chi phí trong kỳ; các chương trình phát hành cổ phiếu ưu đãi cho người lao động (ESOP) với giá thấp hơn thị giá là một dạng trả lương bằng cổ phần, nên khi định giá cần tính phần pha loãng đó thay vì chỉ nhìn vào lợi nhuận báo cáo.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: sáu nhánh lớn đi theo các mục 1–9 trong phần Nội dung chi tiết (vì sao số kế toán bị sai lệch, vốn hoá R&D với ví dụ Amgen, vốn hoá quảng cáo thương hiệu của Coca Cola và chi phí vốn con người của Cyber Health Consulting, hệ quả cho định giá nội tại và tương đối, xử lý quyền chọn cổ phiếu của nhân viên với ví dụ Google và Cisco, cách tận dụng cơ hội định giá và kết luận), mỗi nhánh ghi công thức, quy tắc và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: kế toán ghi đầu tư vô hình thành chi phí, phải vốn hoá lại và trừ giá trị quyền chọn nhân viên trước khi chia cho số cổ phiếu`"]
+  n1["`Mục 1–4 — Vì sao số kế toán của công ty có tài sản vô hình bị sai lệch`"]
+  n0 --- n1
+  n2["`Tài sản vô hình: bằng sáng chế, bí quyết, thương hiệu, vốn con người, không có trên bảng cân đối`"]
+  n1 --- n2
+  n3["`Công ty công nghệ vẫn chiếm 14% chỉ số S#amp;P 500 cuối 2008`"]
+  n1 --- n3
+  n4["`Nakamura: năm 2000 Mỹ đầu tư hơn 1.000 tỷ USD vào tài sản vô hình, giá trị vốn hoá vượt 6.000 tỷ USD`"]
+  n1 --- n4
+  n5["`Kế toán ghi R#amp;D, quảng cáo thương hiệu, tuyển dụng và đào tạo thành chi phí hoạt động vì lợi ích bất định`"]
+  n1 --- n5
+  n6["`Đặc điểm chung khác: vay ít nợ, trả lương nhiều bằng quyền chọn cổ phiếu`"]
+  n1 --- n6
+  n7["`Lợi nhuận báo cáo đã trừ khoản tái đầu tư, và đã ghi chi phí thì không thể ghi thành tài sản`"]
+  n1 --- n7
+  n8["`Tái đầu tư bị chôn trong chi phí hoạt động, ROE và ROC mất độ tin cậy`"]
+  n1 --- n8
+  n9["`Rủi ro thêm: vốn con người có thể mất qua một đêm vào tay người trả giá cao nhất`"]
+  n1 --- n9
+  n10["`Khó định thời điểm tăng trưởng ổn định: dễ với bằng sáng chế hết hạn sau 7 năm, khó nhất với công ty sống bằng con người`"]
+  n1 --- n10
+  n11["`Mục 5.1 — Vốn hoá R#amp;D theo ba bước`"]
+  n0 --- n11
+  n12["`Bước 1: chọn thời gian khấu hao, dài cho dược vì phê duyệt FDA lâu, ngắn cho phần mềm`"]
+  n11 --- n12
+  n13["`Bước 2: tài sản nghiên cứu = tổng R#amp;D năm t × (n + t) / n, với t từ −(n − 1) tới 0`"]
+  n11 --- n13
+  n14["`Bước 3: lợi nhuận hoạt động điều chỉnh = lợi nhuận hoạt động + R#amp;D − khấu hao tài sản nghiên cứu`"]
+  n11 --- n14
+  n15["`Giá trị sổ sách điều chỉnh = sổ sách + tài sản nghiên cứu, không cần điều chỉnh thuế vì R#amp;D được khấu trừ toàn bộ`"]
+  n11 --- n15
+  n16["`Ví dụ Amgen 2008: khấu hao 10 năm, R#amp;D tăng từ 663 lên 3.030 triệu USD`"]
+  n11 --- n16
+  n17["`Tài sản nghiên cứu 13.284 triệu USD, khấu hao năm nay 1.694 triệu USD`"]
+  n16 --- n17
+  n18["`Lợi nhuận hoạt động 5.594 lên 6.930, lợi nhuận ròng 4.196 lên 5.532 triệu USD`"]
+  n16 --- n18
+  n19["`ROE 23,48% xuống 18,55%, ROC trước thuế 25,44% xuống 20,42%`"]
+  n16 --- n19
+  n20["`Mục 5.2 — Vốn hoá quảng cáo thương hiệu và chi phí vốn con người`"]
+  n0 --- n20
+  n21["`Chỉ vốn hoá khi có bằng chứng lợi ích kéo dài nhiều kỳ, như khách hàng Amazon có gắn bó lâu dài không`"]
+  n20 --- n21
+  n22["`Coca Cola: quảng cáo thương hiệu = SG#amp;A / 3, khấu hao 25 năm (1984–2008)`"]
+  n20 --- n22
+  n23["`Tài sản thương hiệu 31.910 triệu USD, gần 40 tỷ USD nếu điều chỉnh lạm phát`"]
+  n22 --- n23
+  n24["`ROE 26,71% xuống 14,13%, ROC 27,18% xuống 16,23%`"]
+  n22 --- n24
+  n25["`Cyber Health Consulting: tuyển dụng và đào tạo 14 triệu USD, khấu hao 4 năm vì chuyên gia ở lại trung bình 4 năm`"]
+  n20 --- n25
+  n26["`Tài sản vốn con người 30,48 triệu USD, EBIT 51,5 lên 55,55 triệu USD`"]
+  n25 --- n26
+  n27["`ROE 18,40% xuống 17,40%, ROC 20,60% xuống 19,81%`"]
+  n25 --- n27
+  n28["`Cả ba ví dụ: lợi nhuận tăng nhưng vốn tăng mạnh hơn nên tỷ suất sinh lời giảm`"]
+  n20 --- n28
+  n29["`Mục 6 — Hệ quả cho định giá nội tại và định giá tương đối`"]
+  n0 --- n29
+  n30["`Lợi nhuận và tái đầu tư tăng cùng một lượng nên dòng tiền tự do không đổi`"]
+  n29 --- n30
+  n31["`Tỷ lệ tái đầu tư thường tăng, vốn đầu tư tăng càng nhiều khi thời gian khấu hao càng dài`"]
+  n29 --- n31
+  n32["`Tăng trưởng = tỷ lệ tái đầu tư × ROC, lợi nhuận vượt mức = ROC − chi phí vốn, cả hai đổi theo`"]
+  n29 --- n32
+  n33["`Định giá Amgen tháng 3/2009 với 10 năm tăng trưởng cao`"]
+  n29 --- n33
+  n34["`Tỷ lệ tái đầu tư 19,79% lên 33,23%, ROC sau thuế 14,91% lên 17,41%`"]
+  n33 --- n34
+  n35["`Tăng trưởng 2,95% lên 5,78%, giá trị mỗi cổ phiếu 43,63 lên 62,97 USD so với giá 47,47 USD`"]
+  n33 --- n35
+  n36["`WACC 11,80% giảm về 8,67% khi ổn định, g = 3%, ROC 10%, tái đầu tư 30%`"]
+  n33 --- n36
+  n37["`Vốn hoá tăng giá trị khi R#amp;D quá khứ sinh lời tốt, giảm giá trị khi chi lớn mà chưa có lợi nhuận`"]
+  n29 --- n37
+  n38["`Định giá tương đối: công ty trẻ và công ty có R#amp;D lâu sinh lợi bị ghi thiếu lợi nhuận nên trông đắt`"]
+  n29 --- n38
+  n39["`18 công ty dược tháng 2/2009: Merck rẻ nhất theo cả ba P/E (5,98, 3,70, 5,76), Celgene đắt nhất`"]
+  n29 --- n39
+  n40["`Theo P/(E + R#amp;D ròng), công ty trưởng thành có P/E thấp, công ty tăng trưởng cao có P/E cao`"]
+  n29 --- n40
+  n41["`Mục 7 — Xử lý quyền chọn cổ phiếu của nhân viên`"]
+  n0 --- n41
+  n42["`Quyền chọn là quyền đòi thứ hai trên vốn chủ sở hữu, bên cạnh cổ đông thường`"]
+  n41 --- n42
+  n43["`Google tháng 2/2009: vốn chủ sở hữu 102.345 triệu USD, 315,29 triệu cổ phiếu, 13,97 triệu quyền chọn`"]
+  n41 --- n43
+  n44["`Pha loãng toàn bộ: 102.345 / 329,26 = 310,83 USD, quá thấp vì bỏ qua tiền thực hiện và giá trị thời gian`"]
+  n41 --- n44
+  n45["`Cổ phiếu quỹ: cộng 13,97 × 391,40 vào tử số được 327,44 USD, quá cao vì bỏ qua giá trị thời gian`"]
+  n41 --- n45
+  n46["`Khuyến nghị Black-Scholes điều chỉnh: hạ giá theo pha loãng, rút ngắn kỳ hạn, nhân xác suất được hưởng quyền`"]
+  n41 --- n46
+  n47["`Google: kỳ hạn 3,5 thay vì 7 năm, độ biến động 50%, mỗi quyền chọn 103,6 USD`"]
+  n46 --- n47
+  n48["`Tổng giá trị quyền chọn 1.447 triệu USD, sau thuế 38% còn 897 triệu USD`"]
+  n46 --- n48
+  n49["`(102.345 − 897) / 315,29 = 321,76 USD mỗi cổ phiếu, lặp thì hội tụ về 321,84 USD`"]
+  n46 --- n49
+  n50["`Brooks, Chance và Cline: 92,3% quyền chọn nhân viên thực hiện sớm, kỳ hạn 10 năm thực tế còn 5,29 năm`"]
+  n41 --- n50
+  n51["`Kỳ hạn là yếu tố lớn nhất, dùng kỳ hạn kỳ vọng thì nhị phân, Black-Scholes, Hull-White cho giá trị tương tự`"]
+  n41 --- n51
+  n52["`Quyền chọn sẽ cấp: coi là chi phí lương, không cộng thêm cổ phiếu để tránh tính hai lần`"]
+  n41 --- n52
+  n53["`Google: chi phí quyền chọn bằng 4,3% doanh thu năm 2006, 5,2% năm 2007, 5,1% năm 2008`"]
+  n52 --- n53
+  n54["`P/E điều chỉnh = (vốn hoá + giá trị quyền chọn) / lợi nhuận ròng sau chi phí quyền chọn`"]
+  n41 --- n54
+  n55["`Google 24,69 so với P/E cơ bản 24,37, Cisco 12,50 so với 11,04 và P/E pha loãng 13,25`"]
+  n54 --- n55
+  n56["`Mục 8–9 — Cách tận dụng cơ hội định giá và kết luận`"]
+  n0 --- n56
+  n57["`Lợi nhuận tăng nhanh và ROC cao trên giấy có thể kém hấp dẫn khi sửa lỗi phân loại kế toán`"]
+  n56 --- n57
+  n58["`Tìm tài sản vô hình độc đáo, khó sao chép, tạo biên lợi nhuận và tỷ suất sinh lời cao`"]
+  n56 --- n58
+  n59["`Công ty tư vấn khoe chuyên gia giỏi nhất ngành: hãy hỏi làm sao giữ được họ`"]
+  n56 --- n59
+  n60["`Tìm lợi nhuận trước R#amp;D tăng nhanh và bội số trên lợi nhuận trước R#amp;D thấp`"]
+  n56 --- n60
+  n61["`Công ty vẫn tiếp tục chi R#amp;D và quảng cáo, chi hiệu quả: ra bằng sáng chế, doanh thu tăng`"]
+  n56 --- n61
+  n62["`Cảnh giác quyền chọn nhân viên rút bớt phần giá trị thuộc cổ đông`"]
+  n56 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Phải sửa con số kế toán cho đúng bản chất kinh tế trước khi đưa vào mô hình`"]
+  n63 --- n64
+  n65["`Vốn hoá không đổi dòng tiền tự do hiện tại mà đổi ước tính về lượng và chất lượng tái đầu tư`"]
+  n63 --- n65
+  n66["`Bỏ cách pha loãng và cổ phiếu quỹ, định giá quyền chọn rồi trừ khỏi giá trị vốn chủ sở hữu`"]
+  n63 --- n66
+  class n0 root
+  class n1,n11,n20,n29,n41,n56,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n62,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), Phần 3 "Special Situations in Valuation", Chương 11 (bản thảo ghi nhầm là "Chapter 12") "Valuing companies with intangible assets: Technology, Brand name and Patents", trang 265–298.
+
+## Tác giả
+
+Aswath Damodaran, giáo sư tài chính Trường Kinh doanh Stern, Đại học New York.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần 1 (Chương 2–4) dựng bộ công cụ: giá trị thời gian của tiền, báo cáo tài chính, định giá nội tại bằng chiết khấu dòng tiền và định giá tương đối bằng bội số. Phần 2 (Chương 5–8, từ [C05-dinh-gia-cong-ty-tre-tang-truong.md](C05-dinh-gia-cong-ty-tre-tang-truong.md) tới [C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md](C08-dinh-gia-cong-ty-suy-thoai-va-kiet-que.md)) áp bộ công cụ đó lên từng giai đoạn của vòng đời doanh nghiệp.
+
+Phần 3 xử lý những loại công ty mà công cụ chuẩn bị "gãy" vì một đặc điểm riêng: Chương 9 ([C09-dinh-gia-cong-ty-dich-vu-tai-chinh.md](C09-dinh-gia-cong-ty-dich-vu-tai-chinh.md)) bàn công ty dịch vụ tài chính, nơi nợ vay là nguyên liệu chứ không phải nguồn vốn; Chương 10 ([C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md](C10-dinh-gia-cong-ty-chu-ky-va-hang-hoa.md)) bàn công ty chu kỳ và hàng hoá cơ bản, nơi lợi nhuận năm gần nhất bị chu kỳ làm méo nên phải chuẩn hoá.
+
+Chương 11 này bàn loại công ty thứ ba: công ty mà tài sản giá trị nhất (kết quả nghiên cứu, thương hiệu, con người) không nằm trên bảng cân đối kế toán vì kế toán ghi khoản đầu tư tạo ra chúng thành chi phí hoạt động. Chương thêm hai công cụ: vốn hoá các khoản chi đầu tư bị ghi nhầm thành chi phí (R&D, quảng cáo xây dựng thương hiệu, tuyển dụng và đào tạo), và xử lý quyền chọn cổ phiếu trả cho nhân viên khi tính giá trị mỗi cổ phiếu. Chương 12 ([C12-bai-hoc-ve-dinh-gia.md](C12-bai-hoc-ve-dinh-gia.md)) khép lại cuốn sách bằng các bài học chung về định giá, trong đó có ý mà chương này minh hoạ rõ: phải sửa con số kế toán cho đúng bản chất kinh tế trước khi đưa vào mô hình.
+
+## Lưu ý
+
+- **Đánh số chương sai.** Bản thảo ghi tiêu đề là "Chapter 12" nhưng theo thứ tự đây là chương thứ 11 (sau Chương 10 về công ty chu kỳ, trước Chương 12 "Valuation Lessons"); các bảng, hình và ví dụ trong chương lại đánh số 11.x, khớp với chương 11. Hai hình định giá còn mang nhãn cũ bên trong ảnh: "Figure 15.1: Valuing Amgen" và "Figure 15.*: Valuing Google Equity – March 2009" (sót từ tài liệu khác của tác giả).
+- **Hình 11.1 (định giá Amgen) có ba chỗ sai số.**
+  - Ô "Current Cashflow to Firm" ghi EBIT(1−t) = 6.967 × (1 − 0,20) = 6.041, nhưng 6.967 × 0,8 = 5.574. Con số 6.041 mới là con số được dùng tiếp (năm 1: 6.041 × 1,0578 = 6.390, và EBIT năm 1 là 7.988 = 6.390 / 0,8), nên EBIT gốc ngầm định là khoảng 7.551 triệu USD chứ không phải 6.967; trong khi phần chữ của chương tính lợi nhuận hoạt động đã điều chỉnh là 6.930 triệu USD.
+  - Chi đầu tư ròng ghi 1.933, nhưng các thành phần ghi kèm cộng lại chỉ được −401 + 974 + 1.336 = 1.909 triệu USD.
+  - Chi phí vốn chủ sở hữu ghi 13,36%, nhưng 3% + 1,65 × 6,5% = 13,725%; và chính WACC 11,80% trong hình chỉ khớp với 13,725% (13,725% × 0,824 + 2,76% × 0,176 = 11,80%), còn nếu dùng 13,36% thì WACC chỉ là 11,49%. Vậy 13,36% là lỗi ghi, 13,73% là số đúng.
+- **Hình 11.1 ghi sai giá trị vốn chủ sở hữu Amgen.** Hình ghi "Op. Assets 66.602 + Cash 9.552 − Debt 10.578 = Equity 87.226". Phép cộng đúng là 66.602 + 9.552 − 10.578 = **65.576** triệu USD. Giá trị mỗi cổ phiếu 62,97 USD khớp với 65.576 (trừ quyền chọn 464 còn 65.112, chia khoảng 1.034 triệu cổ phiếu), nên 87.226 là lỗi gõ, kết quả cuối cùng không sai.
+- **Các lỗi gõ nhỏ ảnh hưởng tới con số.** Lợi nhuận hoạt động điều chỉnh của Amgen ghi "$ 6.930 million" (đúng là 6.930 triệu USD, tức sáu nghìn chín trăm ba mươi). Chú thích 59 nói muốn tính tài sản nghiên cứu cuối 2007 thì "dịch bảng xuống một dòng, 822,80 triệu USD thành R&D năm hiện tại, 663,3 triệu USD thành R&D năm −1": hai con số đó không có trong bảng; dịch đúng thì 3.266 triệu USD (năm −1) thành R&D "năm hiện tại" của 2007, 3.366 triệu USD thành năm −1 (còn 90%), v.v. Người tổng hợp tính lại theo cách đó được 11.947,7 triệu USD, khớp với con số 11.948 trong sách.
+- **Phương pháp cổ phiếu quỹ chỉ tính quyền chọn đang có lãi cho Google bị tính sai.** Sách ghi (102.345 + 4,75 × 185) / (315,29 + 4,75) = 314,45 USD. Tính lại: (102.345 + 878,75) / 320,04 = **322,53 USD**. Kết luận định tính của sách (cách này cho giá trị thấp hơn 327,44 USD của phiên bản tính mọi quyền chọn) vẫn đúng. Ngoài ra công thức pha loãng một phần ghi mẫu số là "Fully diluted number of shares" dù thực ra chỉ cộng 4,75 triệu quyền chọn đang có lãi.
+- **Bản thảo dở dang ở vài chỗ.** Mục "Value Plays" dừng giữa câu ở ý (e) ("To the extent that the recepient of these options are managers who now lay a c"); người tổng hợp chỉ diễn giải được ý chung (cảnh giác với quyền đòi trên vốn chủ sở hữu từ quyền chọn), không đoán phần còn thiếu. Ví dụ 11.9 (Google với quyền chọn sẽ phát hành trong tương lai) chỉ đưa bảng chi phí quyền chọn 2006–2008, không tính tác động lên giá trị. Mục "Measurement Issues" nói có "năm" vấn đề đo lường nhưng liệt kê sáu (a–f). Đoạn về quyền chọn nhắc "Brooks, Chance and Cline (cited above)" và "Earlier in this paper" dù chương không trích dẫn trước công trình đó: các đoạn này được chép từ một bài viết khác của tác giả.
+- **Cách tính tỷ suất sinh lời không thống nhất giữa ba ví dụ vốn hoá.** Amgen dùng vốn cuối năm trước (2007) làm mẫu số; Coca Cola và Cyber Health Consulting dùng vốn và tài sản vô hình của năm hiện tại. Ví dụ Coca Cola cũng bắt đầu khấu hao khoản chi ngay trong năm chi (khoản chi năm 2008 chỉ còn 24/25), khác Amgen (khoản chi năm hiện tại còn nguyên 100%). Những khác biệt này không làm đổi kết luận nhưng làm các con số khó so sánh trực tiếp.
+- **Kiểm tra lại các phép tính khác.** Người tổng hợp đã tính lại: Bảng 11.2 (tổng 13.283,60 và 1.694,10), Bảng 11.3 (tổng 2.150,40 và 31.910,23), Bảng 11.4, 11.5, 11.6, 11.8 (sai lệch làm tròn nhỏ ở Celgene: 18.302 / 226 = 80,98 so với 80,84 trong sách), Bảng 11.11 (Cisco: P/E pha loãng 16,23 / 1,23 = 13,20 so với 13,25 trong sách), giá trị tài sản hoạt động của Google (chiết khấu theo WACC từng năm ra khoảng 95.753 so với 95.748 trong sách) và của Amgen (khoảng 66.592 so với 66.602, với giả định của người tổng hợp là WACC giảm đều từ 11,80% về 8,67% trong năm 6–10, vì hình không ghi WACC từng năm).
+
+  Giá trị quyền chọn Google trong Bảng 11.9 (103,6 USD mỗi quyền chọn) tái tạo được chính xác bằng Black-Scholes với lãi suất phi rủi ro 3%, không cổ tức, giá cổ phiếu điều chỉnh pha loãng theo công thức ở chú thích 61; vòng lặp hội tụ về 1.406 triệu USD giá trị quyền chọn và 321,84 USD mỗi cổ phiếu, đúng như sách.
+- **Số liệu thị trường đã khác.** Các ví dụ dùng lãi suất phi rủi ro 3% (lợi suất trái phiếu Chính phủ Mỹ đầu 2009) và phần bù rủi ro vốn cổ phần 6–6,5%, trong bối cảnh ngay sau khủng hoảng 2008. Theo hiểu biết của người tổng hợp, không tra cứu: lợi suất trái phiếu Chính phủ Mỹ 10 năm xuống dưới 1% năm 2020, rồi tăng trở lại lên khoảng 4–5% từ 2022–2023; phần bù rủi ro vốn cổ phần ngầm định mà chính Damodaran công bố thường dao động quanh 4–6% trong thập niên 2010–2020.
+- **Quy định kế toán và thuế đã đổi.** Theo hiểu biết của người tổng hợp, không tra cứu: chuẩn mực FAS 123R (Mỹ, hiệu lực 2006) mà chương nhắc tới đã buộc ghi quyền chọn thành chi phí, và từ đó các công ty công nghệ Mỹ chuyển dần từ quyền chọn sang cổ phiếu thưởng có điều kiện (restricted stock units).
+
+  Về thuế, chú thích 58 dựa trên việc R&D được khấu trừ thuế toàn bộ ngay năm chi; luật thuế Mỹ 2017 buộc vốn hoá và khấu hao R&D cho mục đích thuế từ năm 2022, rồi một đạo luật năm 2025 cho khấu trừ ngay trở lại đối với R&D trong nước. Chuẩn mực quốc tế IAS 38 cho phép vốn hoá chi phí phát triển (không phải chi phí nghiên cứu) khi đạt điều kiện, nên một phần vấn đề chương nêu đã được xử lý ở các nước dùng IFRS.
+- **Số phận các công ty ví dụ** (theo hiểu biết của người tổng hợp, không tra cứu): Google tái cấu trúc thành công ty mẹ Alphabet năm 2015 và trở thành một trong những công ty có vốn hoá lớn nhất thế giới; giá cổ phiếu sau đó vượt xa mức 321–327 USD (trước khi chia tách 20:1 năm 2022). Amgen vẫn độc lập và tiếp tục mua lại các công ty khác (như Horizon Therapeutics năm 2023). Trong Bảng 11.8: Wyeth bị Pfizer mua năm 2009, Schering-Plough sáp nhập vào Merck năm 2009, Genzyme bị Sanofi mua năm 2011, Celgene bị Bristol-Myers Squibb mua năm 2019, Allergan (sau khi nhập với Actavis) bị AbbVie mua năm 2020, Biogen Idec đổi tên thành Biogen.
