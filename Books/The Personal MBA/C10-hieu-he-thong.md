@@ -1,11 +1,16 @@
 # Chương 10 — Hiểu hệ thống (Comprender los sistemas; Understanding Systems)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 10 "Comprender los sistemas" (tương ứng Chapter 9 "Understanding Systems" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2–6 mô tả năm phần của một doanh nghiệp (tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính); chương 7–9 chuyển sang con người (tâm trí con người, làm việc với chính mình, làm việc với người khác). Chương 10 mở phần thứ ba của cuốn sách, phần về **hệ thống**, gồm ba chương: hiểu hệ thống (chương này), phân tích hệ thống (chương 11) và cải thiện hệ thống (chương 12). Chương này cung cấp bộ từ vựng nền: hệ thống được tạo từ dòng chảy, lượng tồn, dư địa dự phòng, ràng buộc và vòng phản hồi; hệ thống sống trong một môi trường có phép thử chọn lọc, luôn bất định và luôn thay đổi; các bộ phận phụ thuộc lẫn nhau nên sinh ra rủi ro đối tác, hệ quả bậc hai và tai nạn thông thường. Chương 11 sẽ dùng bộ từ vựng này để đo lường và mổ xẻ một hệ thống cụ thể; chương 12 dùng nó để tối ưu, loại bỏ ràng buộc và xây dựng khả năng chống chịu (khái niệm mà chương này nhắc trước hai lần).
-**Ý chính:** Kaufman muốn người đọc nhìn doanh nghiệp như một **hệ thống phức tạp**: một tập hợp các bộ phận tương tác với nhau, tạo thành một tổng thể tự duy trì, nằm bên trong những hệ thống còn phức tạp hơn là thị trường, ngành và xã hội. Chương có ba lớp ý. Lớp thứ nhất là **cấu tạo** của mọi hệ thống: tài nguyên đi vào và đi ra (dòng chảy), dồn lại ở những điểm chứa (lượng tồn), có một lượng dự trữ để chịu cú sốc (dư địa dự phòng), luôn bị giới hạn bởi một yếu tố đầu vào then chốt (ràng buộc, theo lý thuyết của Eliyahu Goldratt với năm bước: xác định, khai thác, phục tùng, nâng cấp, đánh giá lại), và tự điều chỉnh qua vòng phản hồi cân bằng (máy điều nhiệt) hoặc vòng phản hồi tăng cường (chiến tranh giá, lãi kép), trong đó tự xúc tác là vòng tăng cường tự nuôi mình (quảng cáo truyền hình 1950–1990: 1 USD quảng cáo mang về hơn 2 USD). Lớp thứ hai là **môi trường**: hệ thống chỉ tồn tại nếu vượt qua các phép thử chọn lọc của môi trường; môi trường thì bất định (thiên nga đen) và luôn thay đổi, nên dự báo không đáng tin và sự linh hoạt quan trọng hơn. Lớp thứ ba là **sự phụ thuộc lẫn nhau**: bộ phận nào liên kết càng chặt thì một lỗi nhỏ càng dễ lan như hiệu ứng domino (đường găng của dự án, khủng hoảng ngân hàng 2008), mọi can thiệp đều sinh hệ quả bậc hai có thể ngược với ý định ban đầu (Bahrain mất nguồn nước ngầm vì lấn biển, luật kiểm soát giá thuê nhà ở New York làm nhà ở xuống cấp và đắt hơn), và một hệ thống đủ lớn, đủ phức tạp, liên kết đủ chặt thì sớm muộn sẽ gặp tai nạn (tàu con thoi Challenger 1986, Columbia 2003). Mở đầu cho tất cả là **định luật Gall**: hệ thống phức tạp vận hành được luôn phát triển từ một hệ thống đơn giản đã vận hành được, nên muốn xây hệ thống mới thì phải bắt đầu từ nguyên mẫu đơn giản rồi cải tiến dần.
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua OCR một bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman. Tên tiếng Anh của các mục ghi theo hiểu biết của người tổng hợp về bản gốc (Gall's Law, Flow, Stock, Slack, Constraint, Feedback Loop, Autocatalysis, Environment, Selection Test, Uncertainty, Change, Interdependence, Counterparty Risk, Second-Order Effects, Normal Accidents). Các chỗ bản dịch hoặc OCR có vấn đề: (1) Mục "Los períodos de poca actividad" (nghĩa đen: "những giai đoạn ít hoạt động") là cách dịch sai chữ *slack* của bản gốc; nội dung mục nói về **lượng tài nguyên dự trữ** trong một kho chứa, nên bản tổng hợp gọi là "dư địa dự phòng". Câu TBN "en períodos de poca actividad aumentan las existencias" phải hiểu ngược chiều: dư địa dự phòng là lượng dự trữ nằm trong lượng tồn, lượng tồn càng lớn thì dư địa càng lớn. (2) Bản dịch dùng một chữ "existencias" cho hai nghĩa: lượng tồn/hàng tồn kho (*stock* trong lý thuyết hệ thống) và cổ phiếu (*stock* trong tài chính). Ở mục "La incertidumbre", câu "¿las existencias de esa empresa están bien de precio?" và "los precios de las existencias" thật ra là "cổ phiếu của công ty đó có được định giá hợp lý không" và "giá cổ phiếu"; bản tổng hợp dịch theo nghĩa cổ phiếu. (3) Câu nói của Donald Rumsfeld bị dịch sai vế cuối: bản TBN viết "những thứ ta không biết mà ta không biết: những thứ ta biết là ta không biết", tự mâu thuẫn; nguyên ý là "những thứ ta không biết rằng ta không biết". Tương tự, định nghĩa "bất định" trong bản TBN được gắn với cụm "ta biết là có những thứ ta không biết", trùng với định nghĩa "rủi ro"; theo mạch lập luận (ví dụ thiên thạch), bất định ứng với "những thứ ta không biết rằng ta không biết", bản tổng hợp sửa theo nghĩa đó. (4) Câu "si se asegura de no privarse de las restricciones" (nghĩa đen: "nếu bạn bảo đảm không tước bỏ các ràng buộc") khó hiểu; theo ngữ cảnh, ý là "bảo đảm khâu ràng buộc không bao giờ bị thiếu đầu vào". Cụm "datos de información crucial" ở đầu mục ràng buộc được hiểu là "các yếu tố đầu vào then chốt" (*critical inputs*). (5) Bản TBN gọi David Hume là "triết gia thế kỷ XVII"; Hume sống ở thế kỷ XVIII (1711–1776). (6) Về Challenger, bản TBN viết vòng đệm "bị đông cứng rồi giòn, khi cất cánh thì quá nhiệt và hỏng"; theo hiểu biết chung, vòng đệm (O-ring) của tên lửa đẩy bị cứng lại vì trời lạnh nên không bịt kín được, khí nóng thoát ra. Về Columbia, bản TBN viết "các tấm chắn bằng xốp bảo vệ khỏi nhiệt bị hỏng"; theo hiểu biết chung, một mảng xốp cách nhiệt rơi ra lúc phóng đã làm hỏng lớp chống nhiệt ở cánh, nên tàu tan rã khi trở lại khí quyển. (7) Lỗi OCR đã tự sửa, không ảnh hưởng nghĩa: "Frank Herdert" (Frank Herbert), "Dume" (Dune), "JOHN MIR" (John Muir, nhà tự nhiên học Mỹ), "The Secrets of Consuling" (The Secrets of Consulting), "leónico de sistemas" (teórico de sistemas), "Firestone and Rubber Company" (tên đầy đủ là Firestone Tire and Rubber Company). Bối cảnh: sách viết năm 2010, nên các ví dụ dừng ở giá dầu năm 2005, khủng hoảng Phố Wall 2008, Facebook và YouTube lúc đó. Chương không có chú thích cuối sách nào đánh số thuộc về nó. Câu đề từ gán cho Darwin ("Kẻ sống sót không phải là loài mạnh nhất…") được sách ghi là của Darwin; theo hiểu biết chung, câu này không có trong tác phẩm của Darwin mà là một câu diễn giải về sau.
+Kaufman muốn người đọc nhìn doanh nghiệp như một **hệ thống phức tạp**: một tập hợp các bộ phận tương tác với nhau, tạo thành một tổng thể tự duy trì, nằm bên trong những hệ thống còn phức tạp hơn là thị trường, ngành và xã hội. Chương có ba lớp ý.
+
+Lớp thứ nhất là **cấu tạo** của mọi hệ thống: tài nguyên đi vào và đi ra (dòng chảy), dồn lại ở những điểm chứa (lượng tồn), có một lượng dự trữ để chịu cú sốc (dư địa dự phòng), luôn bị giới hạn bởi một yếu tố đầu vào then chốt (ràng buộc, theo lý thuyết của Eliyahu Goldratt với năm bước: xác định, khai thác, phục tùng, nâng cấp, đánh giá lại), và tự điều chỉnh qua vòng phản hồi cân bằng (máy điều nhiệt) hoặc vòng phản hồi tăng cường (chiến tranh giá, lãi kép), trong đó tự xúc tác là vòng tăng cường tự nuôi mình (quảng cáo truyền hình 1950–1990: 1 USD quảng cáo mang về hơn 2 USD).
+
+Lớp thứ hai là **môi trường**: hệ thống chỉ tồn tại nếu vượt qua các phép thử chọn lọc của môi trường. Môi trường thì bất định (thiên nga đen) và luôn thay đổi, nên dự báo không đáng tin và sự linh hoạt quan trọng hơn.
+
+Lớp thứ ba là **sự phụ thuộc lẫn nhau**: bộ phận nào liên kết càng chặt thì một lỗi nhỏ càng dễ lan như hiệu ứng domino (đường găng của dự án, khủng hoảng ngân hàng 2008), mọi can thiệp đều sinh hệ quả bậc hai có thể ngược với ý định ban đầu (Bahrain mất nguồn nước ngầm vì lấn biển, luật kiểm soát giá thuê nhà ở New York làm nhà ở xuống cấp và đắt hơn), và một hệ thống đủ lớn, đủ phức tạp, liên kết đủ chặt thì sớm muộn sẽ gặp tai nạn (tàu con thoi Challenger 1986, Columbia 2003).
+
+Mở đầu cho tất cả là **định luật Gall**: hệ thống phức tạp vận hành được luôn phát triển từ một hệ thống đơn giản đã vận hành được, nên muốn xây hệ thống mới thì phải bắt đầu từ nguyên mẫu đơn giản rồi cải tiến dần.
 
 ## Sơ đồ
 
@@ -553,9 +558,17 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Một hệ thống được cấu tạo từ những gì, và làm sao tìm chỗ cần cải thiện?** Mọi hệ thống có dòng chảy (tài nguyên đi vào và đi ra), lượng tồn (chỗ tài nguyên dồn lại chờ được dùng), dư địa dự phòng (lượng dự trữ trong lượng tồn, giúp hệ thống chịu được sự cố nhưng tốn tiền), ràng buộc (yếu tố đầu vào then chốt giới hạn cả hệ thống) và vòng phản hồi (đầu ra quay lại thành đầu vào; vòng cân bằng giữ hệ thống ổn định, vòng tăng cường khuếch đại nó, tự xúc tác là vòng tăng cường tự nuôi mình). Chỗ cần cải thiện trước hết là ràng buộc: theo Goldratt, xác định nó, khai thác hết công suất của nó, thiết kế lại các khâu khác phục vụ nó, chỉ khi cần mới chi tiền nâng cấp nó, rồi tìm ràng buộc mới. Trong ví dụ nhà máy ô tô, khi dây chuyền luôn chờ động cơ thì tăng tốc khâu khác là vô ích; sau khi gỡ xong khâu động cơ, ràng buộc có thể chuyển sang kính chắn gió.
-2. **Vì sao không thể thiết kế một hệ thống phức tạp hoàn chỉnh ngay từ đầu, và không thể dự báo chắc chắn tương lai của nó?** Vì hệ thống phức tạp có quá nhiều biến số và phụ thuộc lẫn nhau, và vì môi trường bất định và luôn thay đổi. Hệ thống thiết kế từ con số không chưa từng chịu phép thử chọn lọc của môi trường nên sẽ hỏng theo cách không ai ngờ (định luật Gall); cách đúng là bắt đầu từ nguyên mẫu đơn giản, đưa ra đề nghị tối thiểu khả thi về kinh tế để kiểm chứng với người mua thật, rồi cải tiến dần. Các mô hình tài chính như NPV hay CAPM chỉ tốt bằng dự báo đưa vào; một thiên nga đen có thể đổi phép thử chọn lọc trong chốc lát. Vì vậy Kaufman khuyên đầu tư vào sự linh hoạt và khả năng chống chịu thay vì cố đoán đúng.
-3. **Sự phụ thuộc lẫn nhau giữa các bộ phận gây ra những nguy cơ nào, và nên đối phó ra sao?** Ba nguy cơ: lỗi lan theo kiểu domino trong hệ thống liên kết chặt (một việc trễ trên đường găng làm trễ cả dự án), rủi ro đối tác (bên kia không thực hiện nghĩa vụ, như các ngân hàng năm 2008 dựa vào "bảo hiểm" của nhau rồi cùng sụp), và hệ quả bậc hai (can thiệp sinh kết quả ngược ý định, như luật kiểm soát giá thuê ở New York làm nhà ít đi và đắt hơn). Hệ thống đủ phức tạp và liên kết chặt thì sớm muộn sẽ gặp tai nạn thông thường. Cách đối phó: bỏ phụ thuộc không cần thiết (Ferriss cho nhân viên tự xử lý vấn đề dưới 400 USD), luôn có phương án dự phòng khi dựa vào người khác, can thiệp hệ thống phức tạp hết sức thận trọng, và khi có sự cố thì học từ các lần suýt xảy ra chứ không vội thêm lớp kiểm soát làm hệ thống càng chặt hơn.
+1. **Một hệ thống được cấu tạo từ những gì, và làm sao tìm chỗ cần cải thiện?** Mọi hệ thống có dòng chảy (tài nguyên đi vào và đi ra), lượng tồn (chỗ tài nguyên dồn lại chờ được dùng), dư địa dự phòng (lượng dự trữ trong lượng tồn, giúp hệ thống chịu được sự cố nhưng tốn tiền), ràng buộc (yếu tố đầu vào then chốt giới hạn cả hệ thống) và vòng phản hồi (đầu ra quay lại thành đầu vào; vòng cân bằng giữ hệ thống ổn định, vòng tăng cường khuếch đại nó, tự xúc tác là vòng tăng cường tự nuôi mình).
+
+   Chỗ cần cải thiện trước hết là ràng buộc: theo Goldratt, xác định nó, khai thác hết công suất của nó, thiết kế lại các khâu khác phục vụ nó, chỉ khi cần mới chi tiền nâng cấp nó, rồi tìm ràng buộc mới. Trong ví dụ nhà máy ô tô, khi dây chuyền luôn chờ động cơ thì tăng tốc khâu khác là vô ích; sau khi gỡ xong khâu động cơ, ràng buộc có thể chuyển sang kính chắn gió.
+
+2. **Vì sao không thể thiết kế một hệ thống phức tạp hoàn chỉnh ngay từ đầu, và không thể dự báo chắc chắn tương lai của nó?** Vì hệ thống phức tạp có quá nhiều biến số và phụ thuộc lẫn nhau, và vì môi trường bất định và luôn thay đổi.
+
+   Hệ thống thiết kế từ con số không chưa từng chịu phép thử chọn lọc của môi trường nên sẽ hỏng theo cách không ai ngờ (định luật Gall); cách đúng là bắt đầu từ nguyên mẫu đơn giản, đưa ra đề nghị tối thiểu khả thi về kinh tế để kiểm chứng với người mua thật, rồi cải tiến dần. Các mô hình tài chính như NPV hay CAPM chỉ tốt bằng dự báo đưa vào; một thiên nga đen có thể đổi phép thử chọn lọc trong chốc lát. Vì vậy Kaufman khuyên đầu tư vào sự linh hoạt và khả năng chống chịu thay vì cố đoán đúng.
+
+3. **Sự phụ thuộc lẫn nhau giữa các bộ phận gây ra những nguy cơ nào, và nên đối phó ra sao?** Ba nguy cơ: lỗi lan theo kiểu domino trong hệ thống liên kết chặt (một việc trễ trên đường găng làm trễ cả dự án), rủi ro đối tác (bên kia không thực hiện nghĩa vụ, như các ngân hàng năm 2008 dựa vào "bảo hiểm" của nhau rồi cùng sụp), và hệ quả bậc hai (can thiệp sinh kết quả ngược ý định, như luật kiểm soát giá thuê ở New York làm nhà ít đi và đắt hơn).
+
+   Hệ thống đủ phức tạp và liên kết chặt thì sớm muộn sẽ gặp tai nạn thông thường. Cách đối phó: bỏ phụ thuộc không cần thiết (Ferriss cho nhân viên tự xử lý vấn đề dưới 400 USD), luôn có phương án dự phòng khi dựa vào người khác, can thiệp hệ thống phức tạp hết sức thận trọng, và khi có sự cố thì học từ các lần suýt xảy ra chứ không vội thêm lớp kiểm soát làm hệ thống càng chặt hơn.
 
 ## Khái niệm cần biết
 
@@ -605,7 +618,9 @@ Câu trả lời của Gall cho câu hỏi vì sao khó như vậy: mọi hệ t
 
 Định luật Gall thể hiện ở chỗ phép thử chọn lọc của môi trường gặp thiết kế của hệ thống. Muốn xây một hệ thống chạy được, cách tốt nhất là xây một hệ thống đơn giản qua được các phép thử chọn lọc hiện có của môi trường, rồi cải tiến dần theo thời gian; lâu dần, người làm sẽ có một hệ thống phức tạp vận hành được.
 
-Định luật này giải thích vì sao làm nguyên mẫu và lặp lại là phương pháp tốt để tạo ra sản phẩm có giá trị. Thay vì xây hệ thống phức tạp từ đầu, làm một nguyên mẫu dễ hơn nhiều: đó là việc đơn giản nhất có thể làm để kiểm tra hệ thống có qua được các phép thử chọn lọc cơ bản không. Phát triển nguyên mẫu thành **đề nghị tối thiểu khả thi về kinh tế** (OMVE, mô hình đã giới thiệu ở chương tạo giá trị) cho phép kiểm chứng các giả định then chốt và dựng nên hệ thống đơn giản nhất bảo đảm thành công với người mua thật. Lặp lại và thêm giá trị, theo thời gian, tạo ra những hệ thống cực kỳ phức tạp vẫn vận hành hiệu quả, kể cả khi môi trường thay đổi. Ai muốn xây một hệ thống vận hành được từ con số không mà vi phạm định luật Gall thì tự chịu rủi ro.
+Định luật này giải thích vì sao làm nguyên mẫu và lặp lại là phương pháp tốt để tạo ra sản phẩm có giá trị. Thay vì xây hệ thống phức tạp từ đầu, làm một nguyên mẫu dễ hơn nhiều: đó là việc đơn giản nhất có thể làm để kiểm tra hệ thống có qua được các phép thử chọn lọc cơ bản không.
+
+Phát triển nguyên mẫu thành **đề nghị tối thiểu khả thi về kinh tế** (OMVE, mô hình đã giới thiệu ở chương tạo giá trị) cho phép kiểm chứng các giả định then chốt và dựng nên hệ thống đơn giản nhất bảo đảm thành công với người mua thật. Lặp lại và thêm giá trị, theo thời gian, tạo ra những hệ thống cực kỳ phức tạp vẫn vận hành hiệu quả, kể cả khi môi trường thay đổi. Ai muốn xây một hệ thống vận hành được từ con số không mà vi phạm định luật Gall thì tự chịu rủi ro.
 
 ### 3. Dòng chảy (El flujo)
 
@@ -672,7 +687,9 @@ Năm bước này rất giống với tốc độ lặp: chạy qua quy trình c
 
 Nguyên nhân và kết quả thì dễ hiểu, nhưng chuyện gì xảy ra khi kết quả trở thành nguyên nhân? Vòng phản hồi xuất hiện khi đầu ra của hệ thống trở thành đầu vào của vòng tiếp theo. Hệ thống học bằng cách tự phản hồi: nếu nó cảm nhận được môi trường, phản hồi giúp nó kiểm tra xem mình có đang trong tầm kiểm soát và có đáp ứng các phép thử chọn lọc cần thiết không.
 
-**Vòng cân bằng** làm dịu kết quả của mỗi vòng, đưa hệ thống về trạng thái cân bằng và tạo sức kháng cự với thay đổi. Thả một quả bóng tennis từ độ cao ngang vai: nó nảy lên rồi nảy tiếp, mỗi lần thấp hơn. Ma sát và lực cản không khí làm dịu mỗi vòng cho tới khi năng lượng của hệ thống cân bằng và quả bóng nằm yên trên sàn. Vòng cân bằng ổn định hệ thống bằng cách giảm dao động và giữ hệ thống ở một trạng thái nhất định. Các hệ thống kiểm soát nhận thức (đã trình bày ở chương về tâm trí con người) thường là vòng cân bằng. Trở lại ví dụ máy điều nhiệt: nếu nhiệt độ phòng cao hơn mức chuẩn, hệ thống làm mát bật lên để hạ nhiệt; nếu thấp hơn, lò sưởi bật lên để tăng nhiệt. Kết quả là nhiệt độ được giữ ổn định, vì đó là mục đích của hệ thống.
+**Vòng cân bằng** làm dịu kết quả của mỗi vòng, đưa hệ thống về trạng thái cân bằng và tạo sức kháng cự với thay đổi. Thả một quả bóng tennis từ độ cao ngang vai: nó nảy lên rồi nảy tiếp, mỗi lần thấp hơn. Ma sát và lực cản không khí làm dịu mỗi vòng cho tới khi năng lượng của hệ thống cân bằng và quả bóng nằm yên trên sàn.
+
+Vòng cân bằng ổn định hệ thống bằng cách giảm dao động và giữ hệ thống ở một trạng thái nhất định. Các hệ thống kiểm soát nhận thức (đã trình bày ở chương về tâm trí con người) thường là vòng cân bằng. Trở lại ví dụ máy điều nhiệt: nếu nhiệt độ phòng cao hơn mức chuẩn, hệ thống làm mát bật lên để hạ nhiệt; nếu thấp hơn, lò sưởi bật lên để tăng nhiệt. Kết quả là nhiệt độ được giữ ổn định, vì đó là mục đích của hệ thống.
 
 **Vòng tăng cường** làm đầu ra của hệ thống tăng lên sau mỗi vòng, và theo thời gian thường dẫn tới tăng trưởng hoặc sụp đổ phi mã. Giả sử hai công ty lao vào chiến tranh giá, tranh nhau có giá thấp nhất. Công ty A giảm giá, công ty B đáp trả bằng cách giảm sâu hơn. Chừng nào chuẩn so sánh của cả hai vẫn là "giá của chúng ta phải thấp hơn đối thủ", giá còn tiếp tục giảm cho tới khi cả hai mất hết biên lợi nhuận trên sản phẩm đó. Lãi kép cũng là một vòng tăng cường: mỗi kỳ trả lãi làm tăng tiền gốc của kỳ sau, sinh thêm lãi, và vòng cứ tiếp tục; theo thời gian, lãi tích luỹ có thể thành một khoản rất lớn, và đó là mục đích của hệ thống.
 
@@ -735,7 +752,9 @@ Tuy nhiên rủi ro và bất định khác nhau rất xa. Kaufman dẫn lời c
 
 Khi có bất định, không thể dựa vào các sự kiện quá khứ để dự báo tương lai một cách đáng tin. Biến cố bất ngờ hay ngẫu nhiên xảy ra đột ngột và có thể ảnh hưởng lớn tới mục tiêu và kế hoạch.
 
-Trong *Thiên nga đen: tác động của điều cực kỳ khó xảy ra*, Nassim Nicholas Taleb, cựu nhà quản lý quỹ đầu tư, mô tả các nguy hiểm của bất định: dù mọi thứ trông ổn định hay dễ đoán đến đâu, những con thiên nga đen không thể đoán trước có thể thay đổi tất cả trong chốc lát. Cụm "thiên nga đen" được dùng nhiều ở London thế kỷ XVI để chỉ điều không thể có hoặc không tồn tại, vì ai cũng biết thiên nga màu trắng. Rắc rối nảy sinh khi triết gia David Hume nêu "vấn đề quy nạp": chừng nào chưa thấy hết mọi con thiên nga đang tồn tại, không ai có thể khẳng định mệnh đề "mọi thiên nga đều trắng" là đúng. Chỉ cần một con thiên nga đen xuất hiện là giả thuyết đổ, và điều đó đã xảy ra năm 1697 ở Úc, khi thuyền trưởng hải quân Hà Lan Willem de Vlamingh chứng minh đã thấy thiên nga đen.
+Trong *Thiên nga đen: tác động của điều cực kỳ khó xảy ra*, Nassim Nicholas Taleb, cựu nhà quản lý quỹ đầu tư, mô tả các nguy hiểm của bất định: dù mọi thứ trông ổn định hay dễ đoán đến đâu, những con thiên nga đen không thể đoán trước có thể thay đổi tất cả trong chốc lát.
+
+Cụm "thiên nga đen" được dùng nhiều ở London thế kỷ XVI để chỉ điều không thể có hoặc không tồn tại, vì ai cũng biết thiên nga màu trắng. Rắc rối nảy sinh khi triết gia David Hume nêu "vấn đề quy nạp": chừng nào chưa thấy hết mọi con thiên nga đang tồn tại, không ai có thể khẳng định mệnh đề "mọi thiên nga đều trắng" là đúng. Chỉ cần một con thiên nga đen xuất hiện là giả thuyết đổ, và điều đó đã xảy ra năm 1697 ở Úc, khi thuyền trưởng hải quân Hà Lan Willem de Vlamingh chứng minh đã thấy thiên nga đen.
 
 Cho tới lúc đó, xác suất xuất hiện thiên nga đen về cơ bản bằng không. Sau khi đã thấy, xác suất xuất hiện những con khác vẫn còn gây tranh cãi: biến cố làm thay đổi môi trường mà hệ thống vận hành trong đó, đôi khi đổi phép thử chọn lọc một cách đột ngột, không báo trước. Không ai biết trước thiên nga đen có xuất hiện không, hay con nào sẽ xuất hiện; điều duy nhất có thể làm là linh hoạt, chuẩn bị sẵn sàng và có khả năng chống chịu tốt (khái niệm sẽ bàn ở chương 12) để phản ứng thích đáng nếu và khi chúng xuất hiện.
 
@@ -743,7 +762,9 @@ Ngay cả một nghiên cứu kỹ lưỡng dựa trên vô số dữ liệu l�
 
 Nhiều người kiếm tiền bằng cách bán sự chắc chắn, nhưng điều đó là không thể. Dự đoán, dự báo và các hình thức bói toán khác rất được ưa chuộng vì chúng tạo ảo tưởng rằng tương lai có thể biết được và kiểm soát được. Kaufman cho rằng các bài tập dự đoán không đáng công: nếu có một cách không thể bác bỏ để đoán giá xăng, lãi suất hay giá cổ phiếu, những người có kiến thức thần kỳ ấy đã giàu khủng khiếp và chẳng cần bán gì cho ai.
 
-Chấp nhận rằng bất định là vĩnh viễn giúp nhìn thế giới đúng như nó là, không như ta muốn nó là. Theo bản năng, ai cũng muốn biết tương lai, nhất là khi con người dễ ác cảm với thua lỗ và có phản xạ khoá chặt mọi thứ trước mối đe doạ (các mô hình đã bàn ở những chương về tâm trí và làm việc với chính mình). Không ai thích đối mặt với điều bất định, vì không biết chuyện gì sẽ xảy ra bị cảm nhận như một mối đe doạ. Thay vì ám ảnh với việc đoán các mối đe doạ vô hình hay chưa biết, hãy dồn sức nâng cao khả năng xử lý tình huống bất ngờ. Đừng tin rằng có thể đoán chính xác tương lai: mọi thứ có thể đổi bất kỳ lúc nào. Học cách linh hoạt và phản ứng trước bất định trong một kịch bản có thể xảy ra hữu ích hơn là giả làm nhà tiên tri.
+Chấp nhận rằng bất định là vĩnh viễn giúp nhìn thế giới đúng như nó là, không như ta muốn nó là. Theo bản năng, ai cũng muốn biết tương lai, nhất là khi con người dễ ác cảm với thua lỗ và có phản xạ khoá chặt mọi thứ trước mối đe doạ (các mô hình đã bàn ở những chương về tâm trí và làm việc với chính mình). Không ai thích đối mặt với điều bất định, vì không biết chuyện gì sẽ xảy ra bị cảm nhận như một mối đe doạ.
+
+Thay vì ám ảnh với việc đoán các mối đe doạ vô hình hay chưa biết, hãy dồn sức nâng cao khả năng xử lý tình huống bất ngờ. Đừng tin rằng có thể đoán chính xác tương lai: mọi thứ có thể đổi bất kỳ lúc nào. Học cách linh hoạt và phản ứng trước bất định trong một kịch bản có thể xảy ra hữu ích hơn là giả làm nhà tiên tri.
 
 ### 12. Thay đổi (El cambio)
 
@@ -805,7 +826,9 @@ Bahrain được bao quanh bởi một mạng mạch nước ngọt ngầm, ngu�
 
 Mọi hành động có hậu quả, và các hậu quả đó kéo theo hậu quả khác, mà Kaufman gọi là hệ quả bậc hai. Hãy nghĩ tới một hàng quân domino: đẩy nhẹ một cái là tạo ra một chuỗi sự kiện, và khi chuỗi đã bắt đầu thì rất khó, nếu không nói là không thể, dừng hay đảo ngược chuỗi nhân quả.
 
-Chính sách kiểm soát giá thuê nhà của New York sau Thế chiến II là một ví dụ khác về hậu quả ngoài ý muốn. Ý định ban đầu là cho các cựu binh trở về có nhà ở giá phải chăng; chính sách đặt trần giá thuê (và trần cho việc chủ nhà tăng giá) ở một số khu của thành phố. Cho cựu binh nhà ở giá phải chăng chắc chắn là một ý tưởng cao đẹp. Nhưng đã xảy ra điều mà các nhà quy hoạch không ngờ: chi phí bảo trì bất động sản ở New York tăng mỗi năm, còn chủ nhà không được tăng giá thuê để bù. Luật quy định không được động tới tiền thuê cho tới khi người thuê dọn đi hoặc toà nhà bị tuyên bố đổ nát, nên chủ nhà từ chối bảo trì vì làm thế là lỗ; về kinh tế, để toà nhà xuống cấp trong khi người thuê vẫn ở bên trong lại có lợi hơn.
+Chính sách kiểm soát giá thuê nhà của New York sau Thế chiến II là một ví dụ khác về hậu quả ngoài ý muốn. Ý định ban đầu là cho các cựu binh trở về có nhà ở giá phải chăng; chính sách đặt trần giá thuê (và trần cho việc chủ nhà tăng giá) ở một số khu của thành phố. Cho cựu binh nhà ở giá phải chăng chắc chắn là một ý tưởng cao đẹp.
+
+Nhưng đã xảy ra điều mà các nhà quy hoạch không ngờ: chi phí bảo trì bất động sản ở New York tăng mỗi năm, còn chủ nhà không được tăng giá thuê để bù. Luật quy định không được động tới tiền thuê cho tới khi người thuê dọn đi hoặc toà nhà bị tuyên bố đổ nát, nên chủ nhà từ chối bảo trì vì làm thế là lỗ; về kinh tế, để toà nhà xuống cấp trong khi người thuê vẫn ở bên trong lại có lợi hơn.
 
 Qua nhiều năm, chính sách này làm chất lượng nhà ở xuống cấp nặng, và lượng nhà sẵn có cũng giảm. Trong khi các toà nhà xuống cấp, giá nhà ở lại tăng. Một chính sách nhằm làm nhà ở rẻ hơn đã làm nguồn cung cạn đi và đẩy giá lên, đúng ngược với mục đích ban đầu.
 
@@ -1011,3 +1034,173 @@ Kaufman viết rằng "các bài tập dự đoán không đáng công". Đọc 
 - **Trong nghề nghiệp.** Một nhóm phụ thuộc vào một người phê duyệt mọi việc là hệ thống liên kết chặt; trao ngưỡng tự quyết (như mức 400 USD của Ferriss) vừa giảm rủi ro domino vừa giải phóng thời gian của người quản lý. Với kỹ năng cá nhân, coi kỹ năng yếu nhất đang chặn tiến bộ là ràng buộc của mình và tập trung vào nó.
 - **Khi khởi nghiệp, kinh doanh nhỏ.** Tuân thủ định luật Gall: bán thử một sản phẩm đơn giản cho khách thật trước khi xây hệ thống lớn. Giữ tiền mặt dự phòng vài tháng chi phí như dư địa dự phòng. Tránh phụ thuộc vào một khách hàng lớn hay một nhà cung cấp duy nhất (rủi ro đối tác). Doanh nghiệp nhỏ có lợi thế khi môi trường thay đổi, vì dễ đổi hướng hơn đối thủ lớn.
 - **Ở Việt Nam.** Nhiều doanh nghiệp nhỏ và hộ kinh doanh dựa vào một kênh bán duy nhất (một sàn thương mại điện tử, một nhà phân phối) hay một nguồn hàng duy nhất; thay đổi chính sách phí của sàn hay một đợt đóng cửa khẩu là thay đổi môi trường kiểu Kaufman mô tả, và phép thử chọn lọc đổi theo. Đa dạng hoá kênh và nguồn hàng là cách nới lỏng liên kết. Khi đọc các chính sách can thiệp giá (trần giá, giá sàn), câu hỏi của mục hệ quả bậc hai là hữu ích: người bán sẽ phản ứng thế nào, chất lượng và nguồn cung có giảm không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: năm nhánh lớn đi theo các mục 1–16 trong phần Nội dung chi tiết (định luật Gall, cấu tạo của hệ thống gồm dòng chảy, lượng tồn, dư địa dự phòng và ràng buộc, vòng phản hồi và tự xúc tác, môi trường cùng bất định và thay đổi, các hệ quả của sự phụ thuộc lẫn nhau), mỗi nhánh ghi định nghĩa mô hình, cơ chế, ví dụ và lời khuyên của Kaufman; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: doanh nghiệp là hệ thống phức tạp, các bộ phận tương tác và tự duy trì, nằm trong thị trường, ngành, xã hội`"]
+  n1["`Mục 1–2 — Định luật Gall: hệ thống phức tạp phải lớn lên từ hệ thống đơn giản`"]
+  n0 --- n1
+  n2["`Hệ thống phức tạp vận hành được luôn phát triển từ một hệ thống đơn giản đã vận hành được`"]
+  n1 --- n2
+  n3["`Thiết kế từ con số không thì không bao giờ chạy, không sửa được, phải làm lại từ hệ thống đơn giản`"]
+  n1 --- n3
+  n4["`Tự chế ô tô từ một khối kim loại: mất một năm vẫn gần như chắc chắn thất bại`"]
+  n1 --- n4
+  n5["`Lý do: quá nhiều biến số và phụ thuộc, chưa chịu phép thử chọn lọc, bất định làm hỏng theo cách không ngờ`"]
+  n1 --- n5
+  n6["`Cách làm: nguyên mẫu, rồi đề nghị tối thiểu khả thi về kinh tế (OMVE) với người mua thật, rồi lặp lại`"]
+  n1 --- n6
+  n7["`Mục 3–6 — Cấu tạo: dòng chảy, lượng tồn, dư địa dự phòng, ràng buộc`"]
+  n0 --- n7
+  n8["`Dòng chảy: tài nguyên đi vào và đi ra, như thép, kính vào dây chuyền, xe hoàn chỉnh ra`"]
+  n7 --- n8
+  n9["`Lượng tồn: điểm tài nguyên dồn lại chờ dùng, như tài khoản, hàng tồn kho, danh sách chờ`"]
+  n7 --- n9
+  n10["`Muốn tăng lượng tồn thì tăng dòng vào hoặc giảm dòng ra, muốn giảm thì làm ngược lại`"]
+  n9 --- n10
+  n11["`Dư địa dự phòng: lượng dự trữ trong lượng tồn, nên vừa đủ, không quá lớn hay quá nhỏ`"]
+  n7 --- n11
+  n12["`Trữ 500 động cơ: chịu được sự cố nhưng chôn vốn, tốn chi phí cất giữ, biên lợi nhuận giảm`"]
+  n11 --- n12
+  n13["`Trữ 2–3 động cơ: ít vốn nằm chết nhưng dễ hết khi dây chuyền nhanh lên hoặc khâu động cơ trục trặc`"]
+  n11 --- n13
+  n14["`Ràng buộc (Goldratt, The Goal): một yếu tố đầu vào then chốt giới hạn hiệu suất cả hệ thống`"]
+  n7 --- n14
+  n15["`Xác định: dây chuyền luôn chờ động cơ thì động cơ là ràng buộc`"]
+  n14 --- n15
+  n16["`Khai thác: thợ làm động cơ dành 100% sức cho động cơ, làm theo ca qua giờ nghỉ trưa`"]
+  n14 --- n16
+  n17["`Phục tùng: tổ chức lại nhà máy để khâu động cơ có sẵn vật tư bên cạnh`"]
+  n14 --- n17
+  n18["`Nâng cấp: mua thêm máy, thuê thêm thợ, hiệu quả nhưng đắt nên làm sau khai thác và phục tùng`"]
+  n14 --- n18
+  n19["`Đánh giá lại: đừng để quán tính thành ràng buộc, ràng buộc kế tiếp có thể là kính chắn gió`"]
+  n14 --- n19
+  n20["`Chạy năm bước càng nhanh, càng nhiều vòng thì hệ thống càng sớm tốt lên, giống tốc độ lặp`"]
+  n14 --- n20
+  n21["`Mục 7–8 — Vòng phản hồi và tự xúc tác`"]
+  n0 --- n21
+  n22["`Vòng phản hồi: đầu ra của hệ thống trở thành đầu vào của vòng kế tiếp, kết quả thành nguyên nhân`"]
+  n21 --- n22
+  n23["`Vòng cân bằng làm dịu mỗi vòng, giữ ổn định: bóng tennis nảy thấp dần, máy điều nhiệt`"]
+  n21 --- n23
+  n24["`Vòng tăng cường khuếch đại mỗi vòng: chiến tranh giá tới khi hết biên lợi nhuận, lãi kép`"]
+  n21 --- n24
+  n25["`Số dư tài khoản chịu nhiều vòng kéo nhiều hướng, người chủ điều chỉnh tạo ra vòng cân bằng`"]
+  n21 --- n25
+  n26["`Tự xúc tác: đầu ra vòng trước tạo đầu vào lớn hơn cho vòng sau, tăng tới khi điều kiện đổi`"]
+  n21 --- n26
+  n27["`Quảng cáo TV 1950–1990: 1 USD mang về hơn 2 USD, tái đầu tư 2 → 4 → 8 → 16 USD`"]
+  n26 --- n27
+  n28["`Nhờ đó Procter #amp; Gamble, General Electric, Kraft, Nestlé thành tập đoàn khổng lồ`"]
+  n26 --- n28
+  n29["`Năm 2010 may lắm 1,20 USD: nhiều kênh hơn, quảng cáo đắt hơn, người xem lọc bỏ quảng cáo`"]
+  n26 --- n29
+  n30["`Không chỉ là tiền: hiệu ứng mạng của Facebook, video lan truyền trên YouTube`"]
+  n26 --- n30
+  n31["`Mục 9–12 — Môi trường, phép thử chọn lọc, bất định, thay đổi`"]
+  n0 --- n31
+  n32["`Môi trường là khung bao quanh hệ thống, tác động chủ yếu vào dòng chảy và làm đầu ra thay đổi`"]
+  n31 --- n32
+  n33["`Giá dầu tăng vọt năm 2005: chi phí biến đổi tăng, doanh nghiệp không gánh nổi thì đóng cửa`"]
+  n32 --- n33
+  n34["`Phép thử chọn lọc của doanh nghiệp: giá trị đủ lớn cho khách, doanh thu đủ trang trải chi phí, đủ lợi nhuận`"]
+  n31 --- n34
+  n35["`Phép thử không chọn kẻ thích nghi nhất mà loại kẻ không thích nghi: thiếu doanh thu thì phá sản`"]
+  n34 --- n35
+  n36["`Môi trường đổi thì phép thử đổi, là đồng minh giúp doanh nghiệp nhỏ vượt đối thủ lớn đã yên vị`"]
+  n34 --- n36
+  n37["`Rủi ro là trục trặc đã biết có thể xảy ra, như chuyến bay trễ vài giờ`"]
+  n31 --- n37
+  n38["`Bất định là điều không biết rằng mình không biết, như thiên thạch phá xe trước giờ ra sân bay`"]
+  n31 --- n38
+  n39["`Thiên nga đen (Taleb): de Vlamingh thấy thiên nga đen ở Úc năm 1697, đổ giả thuyết mọi thiên nga đều trắng`"]
+  n38 --- n39
+  n40["`NPV, CAPM, báo cáo dự phóng chỉ tốt bằng dự báo đưa vào, nhiều công ty phá sản vì dự báo sai`"]
+  n38 --- n40
+  n41["`Ai bán sự chắc chắn là bán điều không thể có, hãy dồn sức nâng khả năng xử lý bất ngờ`"]
+  n38 --- n41
+  n42["`Mọi hệ thống đều thay đổi, kế hoạch không tính tới thay đổi là kế hoạch rất hạn chế`"]
+  n31 --- n42
+  n43["`Bị đánh lừa bởi ngẫu nhiên: gán thay đổi tốt do may mắn cho tài năng, thay đổi xấu cho vận rủi`"]
+  n42 --- n43
+  n44["`Không công ty nào từ tốt tới vĩ đại rồi dẫn đầu mãi, chỉ có thể linh hoạt hơn`"]
+  n42 --- n44
+  n45["`Mục 13–16 — Phụ thuộc lẫn nhau, rủi ro đối tác, hệ quả bậc hai, tai nạn thông thường`"]
+  n0 --- n45
+  n46["`Liên kết chặt: thứ tự cứng nhắc, ít dư địa, một việc trên đường găng trễ thì cả dự án trễ`"]
+  n45 --- n46
+  n47["`Liên kết lỏng: xử lý song song, nhiều cách đạt mục tiêu, vĩ cầm sai nốt mà dàn nhạc không sụp`"]
+  n45 --- n47
+  n48["`Ferriss cho nhân viên tự xử lý mọi vấn đề dưới 400 USD, công ty bớt phụ thuộc vào ông`"]
+  n47 --- n48
+  n49["`Rủi ro đối tác: bên kia hợp đồng không thực hiện nghĩa vụ, như công ty bảo hiểm, nhà cung cấp bội ước`"]
+  n45 --- n49
+  n50["`Năm 2008 các ngân hàng mua hoán đổi rủi ro tín dụng của nhau, tăng đòn bẩy, một ngân hàng ngã thì tất cả ngã theo`"]
+  n49 --- n50
+  n51["`Ngụy biện lập kế hoạch làm rủi ro đối tác tăng, luôn có phương án dự phòng`"]
+  n49 --- n51
+  n52["`Hệ quả bậc hai: Bahrain lấn biển lấy đất cho Manama, mạch nước ngọt cạn, đảo thành sa mạc`"]
+  n45 --- n52
+  n53["`Trần giá thuê ở New York sau Thế chiến II: chủ nhà ngừng bảo trì, nguồn cung giảm, giá nhà tăng`"]
+  n52 --- n53
+  n54["`Tai nạn thông thường: trong hệ thống liên kết chặt, rủi ro nhỏ cộng dồn thành tai nạn không tránh được`"]
+  n45 --- n54
+  n55["`Challenger 1986 nổ sau 73 giây vì vòng đệm hỏng, Columbia 2003 tan rã khi trở lại khí quyển`"]
+  n54 --- n55
+  n56["`Thêm kiểm soát sau sự cố làm hệ thống chặt hơn, hãy phân tích các lần suýt xảy ra`"]
+  n54 --- n56
+  n57["`Discovery hỏng tấm chắn nhiệt lúc phóng, NASA đã sẵn sàng, phi hành đoàn hạ cánh an toàn`"]
+  n54 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Bắt đầu đơn giản, dồn sức vào ràng buộc, giữ dư địa dự phòng và liên kết lỏng`"]
+  n58 --- n59
+  n60["`Đầu tư vào sự linh hoạt và khả năng chống chịu (chương 12) thay vì vào dự báo`"]
+  n58 --- n60
+  n61["`Hệ thống càng phức tạp, chạy càng lâu thì câu hỏi là khi nào hỏng chứ không phải có hỏng không`"]
+  n58 --- n61
+  class n0 root
+  class n1,n7,n21,n31,n45,n58 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 10 "Comprender los sistemas" (tương ứng Chapter 9 "Understanding Systems" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2–6 mô tả năm phần của một doanh nghiệp (tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính); chương 7–9 chuyển sang con người (tâm trí con người, làm việc với chính mình, làm việc với người khác).
+
+Chương 10 mở phần thứ ba của cuốn sách, phần về **hệ thống**, gồm ba chương: hiểu hệ thống (chương này), phân tích hệ thống (chương 11) và cải thiện hệ thống (chương 12). Chương này cung cấp bộ từ vựng nền: hệ thống được tạo từ dòng chảy, lượng tồn, dư địa dự phòng, ràng buộc và vòng phản hồi; hệ thống sống trong một môi trường có phép thử chọn lọc, luôn bất định và luôn thay đổi; các bộ phận phụ thuộc lẫn nhau nên sinh ra rủi ro đối tác, hệ quả bậc hai và tai nạn thông thường.
+
+Chương 11 sẽ dùng bộ từ vựng này để đo lường và mổ xẻ một hệ thống cụ thể; chương 12 dùng nó để tối ưu, loại bỏ ràng buộc và xây dựng khả năng chống chịu (khái niệm mà chương này nhắc trước hai lần).
+
+## Lưu ý
+
+- Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua OCR một bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman.
+- Tên tiếng Anh của các mục ghi theo hiểu biết của người tổng hợp về bản gốc (Gall's Law, Flow, Stock, Slack, Constraint, Feedback Loop, Autocatalysis, Environment, Selection Test, Uncertainty, Change, Interdependence, Counterparty Risk, Second-Order Effects, Normal Accidents).
+- Các chỗ bản dịch hoặc OCR có vấn đề:
+  - Mục "Los períodos de poca actividad" (nghĩa đen: "những giai đoạn ít hoạt động") là cách dịch sai chữ *slack* của bản gốc; nội dung mục nói về **lượng tài nguyên dự trữ** trong một kho chứa, nên bản tổng hợp gọi là "dư địa dự phòng". Câu TBN "en períodos de poca actividad aumentan las existencias" phải hiểu ngược chiều: dư địa dự phòng là lượng dự trữ nằm trong lượng tồn, lượng tồn càng lớn thì dư địa càng lớn.
+  - Bản dịch dùng một chữ "existencias" cho hai nghĩa: lượng tồn/hàng tồn kho (*stock* trong lý thuyết hệ thống) và cổ phiếu (*stock* trong tài chính). Ở mục "La incertidumbre", câu "¿las existencias de esa empresa están bien de precio?" và "los precios de las existencias" thật ra là "cổ phiếu của công ty đó có được định giá hợp lý không" và "giá cổ phiếu"; bản tổng hợp dịch theo nghĩa cổ phiếu.
+  - Câu nói của Donald Rumsfeld bị dịch sai vế cuối: bản TBN viết "những thứ ta không biết mà ta không biết: những thứ ta biết là ta không biết", tự mâu thuẫn; nguyên ý là "những thứ ta không biết rằng ta không biết". Tương tự, định nghĩa "bất định" trong bản TBN được gắn với cụm "ta biết là có những thứ ta không biết", trùng với định nghĩa "rủi ro"; theo mạch lập luận (ví dụ thiên thạch), bất định ứng với "những thứ ta không biết rằng ta không biết", bản tổng hợp sửa theo nghĩa đó.
+  - Câu "si se asegura de no privarse de las restricciones" (nghĩa đen: "nếu bạn bảo đảm không tước bỏ các ràng buộc") khó hiểu; theo ngữ cảnh, ý là "bảo đảm khâu ràng buộc không bao giờ bị thiếu đầu vào". Cụm "datos de información crucial" ở đầu mục ràng buộc được hiểu là "các yếu tố đầu vào then chốt" (*critical inputs*).
+  - Bản TBN gọi David Hume là "triết gia thế kỷ XVII"; Hume sống ở thế kỷ XVIII (1711–1776).
+  - Về Challenger, bản TBN viết vòng đệm "bị đông cứng rồi giòn, khi cất cánh thì quá nhiệt và hỏng"; theo hiểu biết chung, vòng đệm (O-ring) của tên lửa đẩy bị cứng lại vì trời lạnh nên không bịt kín được, khí nóng thoát ra. Về Columbia, bản TBN viết "các tấm chắn bằng xốp bảo vệ khỏi nhiệt bị hỏng"; theo hiểu biết chung, một mảng xốp cách nhiệt rơi ra lúc phóng đã làm hỏng lớp chống nhiệt ở cánh, nên tàu tan rã khi trở lại khí quyển.
+  - Lỗi OCR đã tự sửa, không ảnh hưởng nghĩa: "Frank Herdert" (Frank Herbert), "Dume" (Dune), "JOHN MIR" (John Muir, nhà tự nhiên học Mỹ), "The Secrets of Consuling" (The Secrets of Consulting), "leónico de sistemas" (teórico de sistemas), "Firestone and Rubber Company" (tên đầy đủ là Firestone Tire and Rubber Company).
+- Bối cảnh: sách viết năm 2010, nên các ví dụ dừng ở giá dầu năm 2005, khủng hoảng Phố Wall 2008, Facebook và YouTube lúc đó.
+- Chương không có chú thích cuối sách nào đánh số thuộc về nó.
+- Câu đề từ gán cho Darwin ("Kẻ sống sót không phải là loài mạnh nhất…") được sách ghi là của Darwin; theo hiểu biết chung, câu này không có trong tác phẩm của Darwin mà là một câu diễn giải về sau.

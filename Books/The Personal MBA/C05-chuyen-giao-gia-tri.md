@@ -1,15 +1,30 @@
 # Chương 5 — Chuyển giao giá trị (La entrega del valor; Value Delivery)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 5 "La entrega del valor" (tương ứng Chapter 4 "Value Delivery" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2–6 mô tả năm phần của mọi doanh nghiệp theo đúng thứ tự dòng chảy: tạo ra thứ có giá trị (chương 2), thu hút sự chú ý của người cần nó (chương 3, marketing), biến người quan tâm thành người trả tiền (chương 4, bán hàng), giao cho người trả tiền đúng thứ đã hứa (chương 5, chuyển giao giá trị), và thu đủ tiền để tiếp tục (chương 6, tài chính). Chương 5 bắt đầu đúng ở điểm chương 4 kết thúc: giao dịch đã chốt, giờ doanh nghiệp phải giữ lời hứa. Chương này cũng là cầu nối sang phần hệ thống ở chương 10–12: nhiều khái niệm ở đây (dòng giá trị, năng suất đầu ra, nhân bản, nhân rộng, mở rộng quy mô, tích luỹ, hệ thống hoá) là những viên gạch đầu tiên của cách nhìn doanh nghiệp như một hệ thống, và Kaufman nhiều lần hẹn sẽ bàn tiếp ở chương 8 (ngoại hoá, tải công việc), chương 9 (giao tiếp trong nhóm), chương 11 và 12 (mặt trái của tự động hoá).
-**Ý chính:** Kaufman muốn người đọc hiểu rằng **không có chuyển giao giá trị thì không có doanh nghiệp**: ai lấy tiền mà không giao thứ tương xứng thì là kẻ lừa đảo. Chuyển giao giá trị gồm mọi bước bảo đảm người trả tiền nhận được thứ họ mua: xử lý đơn hàng, quản lý tồn kho, giao hàng, phát hiện và sửa lỗi, chăm sóc khách hàng. Doanh nghiệp giỏi giao nhanh, tin cậy, đều đặn và vượt kỳ vọng; khách hài lòng sẽ mua lại, giới thiệu thêm khách và nâng uy tín. Chương có hai nửa. Nửa đầu nói về **trải nghiệm của khách**: vẽ toàn bộ **dòng giá trị** (quy trình một chai nước rửa chén Dawn đi từ nguyên liệu tới kệ hàng), chọn **kênh phân phối** (bán thẳng hay qua trung gian, ví dụ bánh quy vỡ trên xe tải của siêu thị làm hỏng uy tín nhà sản xuất), quản lý **hiệu ứng kỳ vọng** (chất lượng cảm nhận bằng kết quả thực tế trừ kỳ vọng: Zappos giao giày sớm bất ngờ; iPhone 3G tốt hơn đời đầu nhưng làm khách thất vọng) và bảo đảm **khả năng dự đoán** (tính đồng nhất, tính chuẩn hoá theo thời gian, độ tin cậy: Coca-Cola, New Coke, Windows treo máy). Nửa sau nói về **cỗ máy chuyển giao**: đo **năng suất đầu ra** (theo đô la, theo đơn vị sản phẩm, theo khách hài lòng), **nhân bản** sản phẩm (in sách thay vì chép tay), **nhân rộng** cả hệ thống kinh doanh (McDonald's, Starbucks, Walmart, nhượng quyền), **mở rộng quy mô** (thợ làm chăn thủ công so với Starbucks), **tích luỹ** và **khuếch đại** các cải tiến nhỏ (Toyota hơn một triệu cải tiến mỗi năm, lon nước ngọt mỏng đi), dựng **rào cản cạnh tranh** bằng cách giao giá trị tốt hơn thay vì bám theo đối thủ (Apple với iPhone và iPad), đầu tư vào **công cụ nhân sức** (cái búa, máy xúc; vay nợ chỉ nên dùng để mua chúng) và **hệ thống hoá** quy trình để có thể cải tiến và tự động hoá (thuật toán tìm kiếm của Google). Câu chốt của chương: hệ thống càng tốt thì doanh nghiệp càng tốt.
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua bản OCR của một bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của các mục ghi theo hiểu biết của người tổng hợp về bản gốc. Các chỗ cần lưu ý:
-> - **Lỗi OCR đã tự sửa:** tên sách của Michael LeBoeuf ở đề từ mở chương in thành "Cómo hacer cuentes y conservarios" (nghĩa là "Cách có được khách hàng và giữ họ", bản gốc *How to Win Customers and Keep Them for Life*); "Farless" là Benjamin F. **Fairless**; "colocar y olvidare" là "colocar y olvidarse" (đặt vào rồi quên đi); "Liderazgo" viết hoa giữa câu là lỗi nhận dạng; các số chú thích dính vào chữ ("mejor 129", "años) 3)", "Better Than Free, 3l", "del mundo. B2)", "buscador, 33l") là chú thích [29] đến [33].
-> - **Chú thích cuối sách:** [29] và [31] chỉ là đường dẫn web (ví dụ thực hành vẽ dòng giá trị; bài luận của Kevin Kelly) nên bỏ. [30] (các tu sĩ chép tay và trang trí Kinh Thánh, mỗi cuốn có thể mất nhiều năm) đưa vào mục Nhân bản. [32] (đợt thu hồi sản phẩm của Toyota sẽ bàn ở mục "La paradoja de la automatización") đưa vào mục Tích luỹ. [33] là nguồn của con số 550 cải tiến thuật toán Google (bài "Inside the Box", tạp chí *Wired*, tháng 3/2010), đưa vào mục Hệ thống hoá.
-> - **Chỗ bản dịch có vẻ lệch nghĩa hoặc khó hiểu:** (1) Ở mục Hiệu ứng kỳ vọng, bản TBN viết Zappos "có thể quảng cáo việc vận chuyển miễn phí nhưng không làm", trong khi đoạn trước vừa nói Zappos đã công khai miễn phí vận chuyển; theo mạch văn, thứ Zappos không quảng cáo là việc **giao nhanh qua đêm** (hàng tới ngày hôm sau), nên bản tổng hợp hiểu theo nghĩa đó. (2) Bản TBN dùng chữ "rendimiento" cho cả *throughput* (năng suất đầu ra, mục 5) lẫn *performance* (kết quả thực tế, mục 3); bản tổng hợp tách thành hai tên khác nhau. Công thức năng suất đầu ra in là "[ritmo/tiempo]" (nhịp/thời gian), khó hiểu; theo mạch văn ("kết quả càng nhiều, thời gian càng ít thì năng suất càng cao") nên hiểu là **số đơn vị kết quả chia cho thời gian**. (3) "riesgo del homólogo" ở mục Kênh phân phối là cách dịch lạ của *counterparty risk*; thuật ngữ TBN thông dụng là "riesgo de contraparte". (4) Trong dòng giá trị của chai Dawn, câu "el cliente carga los palés en un camión de reparto" dùng "khách hàng" để chỉ **nhà bán lẻ** mua sỉ từ P&G (họ nhận hàng ở trung tâm phân phối rồi chở tới cửa hàng), không phải người tiêu dùng. (5) Mục Khuếch đại nói các thay đổi nhỏ trong thiết kế lon "tiết kiệm cho ngành đồ uống hàng trăm nghìn đô la"; so với 131 tỷ lon mỗi năm trong nhiều thập kỷ, con số này nhỏ bất thường, có thể bản dịch đã làm lệch con số gốc; bản tổng hợp chép nguyên và đánh dấu. Cũng trong mục này, "arandelas" (vòng đệm) được hiểu là **khoen kéo** để mở lon; con số "khoảng hai milimét" cho thành lon cũ chép theo bản TBN. (6) Mục Nhân rộng nói Walmart bắt đầu từ một cửa hàng ở Fayetteville, Arkansas; theo hiểu biết chung, cửa hàng Wal-Mart đầu tiên mở ở Rogers, Arkansas (1962), còn Fayetteville là nơi có một cửa hàng tạp hoá đời đầu của Sam Walton; bản tổng hợp chép theo sách.
-> - **Bối cảnh:** sách viết năm 2010. Các số liệu như Apple bán hơn 50 triệu iPhone, iPad bán hơn 2 triệu chiếc trong hai tháng đầu, Toyota là hãng xe lớn nhất thế giới, sự cố ăng-ten của iPhone thế hệ thứ tư, BlackBerry Storm là đối thủ của iPhone, Google trả kết quả trong khoảng 0,2 giây, đều tính tới thời điểm đó. Câu "ít nhất là cho tới khi nghịch lý của tự động hoá ảnh hưởng tới Toyota" ám chỉ đợt thu hồi xe hàng loạt của Toyota năm 2009–2010.
+Kaufman muốn người đọc hiểu rằng **không có chuyển giao giá trị thì không có doanh nghiệp**: ai lấy tiền mà không giao thứ tương xứng thì là kẻ lừa đảo.
+
+Chuyển giao giá trị gồm mọi bước bảo đảm người trả tiền nhận được thứ họ mua: xử lý đơn hàng, quản lý tồn kho, giao hàng, phát hiện và sửa lỗi, chăm sóc khách hàng. Doanh nghiệp giỏi giao nhanh, tin cậy, đều đặn và vượt kỳ vọng; khách hài lòng sẽ mua lại, giới thiệu thêm khách và nâng uy tín.
+
+Chương có hai nửa. Nửa đầu nói về **trải nghiệm của khách**:
+
+- vẽ toàn bộ **dòng giá trị** (quy trình một chai nước rửa chén Dawn đi từ nguyên liệu tới kệ hàng)
+- chọn **kênh phân phối** (bán thẳng hay qua trung gian, ví dụ bánh quy vỡ trên xe tải của siêu thị làm hỏng uy tín nhà sản xuất)
+- quản lý **hiệu ứng kỳ vọng** (chất lượng cảm nhận bằng kết quả thực tế trừ kỳ vọng: Zappos giao giày sớm bất ngờ; iPhone 3G tốt hơn đời đầu nhưng làm khách thất vọng)
+- bảo đảm **khả năng dự đoán** (tính đồng nhất, tính chuẩn hoá theo thời gian, độ tin cậy: Coca-Cola, New Coke, Windows treo máy)
+
+Nửa sau nói về **cỗ máy chuyển giao**:
+
+- đo **năng suất đầu ra** (theo đô la, theo đơn vị sản phẩm, theo khách hài lòng)
+- **nhân bản** sản phẩm (in sách thay vì chép tay)
+- **nhân rộng** cả hệ thống kinh doanh (McDonald's, Starbucks, Walmart, nhượng quyền)
+- **mở rộng quy mô** (thợ làm chăn thủ công so với Starbucks)
+- **tích luỹ** và **khuếch đại** các cải tiến nhỏ (Toyota hơn một triệu cải tiến mỗi năm, lon nước ngọt mỏng đi)
+- dựng **rào cản cạnh tranh** bằng cách giao giá trị tốt hơn thay vì bám theo đối thủ (Apple với iPhone và iPad)
+- đầu tư vào **công cụ nhân sức** (cái búa, máy xúc; vay nợ chỉ nên dùng để mua chúng)
+- **hệ thống hoá** quy trình để có thể cải tiến và tự động hoá (thuật toán tìm kiếm của Google)
+
+Câu chốt của chương: hệ thống càng tốt thì doanh nghiệp càng tốt.
 
 ## Sơ đồ
 
@@ -645,11 +660,15 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao chuyển giao giá trị quyết định sự sống còn của doanh nghiệp, và "giao tốt" nghĩa là gì?** Vì doanh nghiệp tồn tại nhờ lời hứa với khách; lấy tiền mà không giao thứ tương xứng là lừa đảo. Giao tốt nghĩa là giao nhanh, tin cậy, đều đặn, ít nhất đạt và nếu được thì vượt kỳ vọng. Kaufman đo chất lượng mà khách cảm nhận bằng kết quả thực tế trừ kỳ vọng: iPhone 3G tốt hơn iPhone đời đầu nhưng vẫn làm khách thất vọng vì kỳ vọng bị thổi quá cao, còn Zappos tạo ấn tượng mạnh nhờ giao giày sớm mà không hứa trước. Bên cạnh vượt kỳ vọng, khách còn cần khả năng dự đoán: sản phẩm đồng nhất (lon Coca-Cola nào cũng như nhau), chuẩn hoá theo thời gian (bài học New Coke) và tin cậy (không treo máy, không trễ hẹn). Khách hài lòng mua lại, giới thiệu thêm khách và nâng uy tín.
+1. **Vì sao chuyển giao giá trị quyết định sự sống còn của doanh nghiệp, và "giao tốt" nghĩa là gì?** Vì doanh nghiệp tồn tại nhờ lời hứa với khách; lấy tiền mà không giao thứ tương xứng là lừa đảo. Giao tốt nghĩa là giao nhanh, tin cậy, đều đặn, ít nhất đạt và nếu được thì vượt kỳ vọng.
+
+   Kaufman đo chất lượng mà khách cảm nhận bằng kết quả thực tế trừ kỳ vọng: iPhone 3G tốt hơn iPhone đời đầu nhưng vẫn làm khách thất vọng vì kỳ vọng bị thổi quá cao, còn Zappos tạo ấn tượng mạnh nhờ giao giày sớm mà không hứa trước. Bên cạnh vượt kỳ vọng, khách còn cần khả năng dự đoán: sản phẩm đồng nhất (lon Coca-Cola nào cũng như nhau), chuẩn hoá theo thời gian (bài học New Coke) và tin cậy (không treo máy, không trễ hẹn). Khách hài lòng mua lại, giới thiệu thêm khách và nâng uy tín.
 
 2. **Doanh nghiệp đưa giá trị tới khách qua con đường nào, và rủi ro nằm ở đâu?** Qua dòng giá trị, tức toàn bộ chuỗi bước từ nguyên liệu tới tay khách (chai nước rửa chén Dawn đi qua 11 bước), và qua kênh phân phối, bán thẳng hoặc qua trung gian. Bán thẳng cho toàn quyền kiểm soát nhưng giới hạn số khách; qua trung gian thì bán được nhiều hơn nhưng chịu rủi ro đối tác (bánh quy vỡ trên xe tải của siêu thị làm khách đổ lỗi cho nhà sản xuất). Dòng giá trị càng dài càng dễ trục trặc, nên phải vẽ sơ đồ để cắt bước thừa, và phải giám sát trung gian thay vì đặt hàng vào rồi quên.
 
-3. **Làm sao để giao giá trị cho nhiều khách hơn, rẻ hơn, nhanh hơn, và giữ được lợi thế?** Đo năng suất đầu ra (đô la, đơn vị sản phẩm hay khách hài lòng trên một đơn vị thời gian); nhân bản sản phẩm (sách in, nội dung trên internet); nhân rộng cả hệ thống kinh doanh (McDonald's, Starbucks, Walmart, nhượng quyền); giảm công người để mở rộng quy mô được (Starbucks so với thợ làm chăn); tích luỹ cải tiến nhỏ (Toyota) và tận dụng việc hệ thống càng lớn thì cải tiến nhỏ càng được khuếch đại (lon nước ngọt, ly espresso của Starbucks); đầu tư, kể cả bằng vốn vay, vào công cụ nhân sức (máy xúc, dây chuyền); và hệ thống hoá quy trình để cải tiến và tự động hoá được (Google). Mỗi cải tiến như vậy đồng thời là một rào cản cạnh tranh: tập trung giao giá trị tốt hơn thì đối thủ tự khắc khó theo kịp, như Apple với iPhone và iPad.
+3. **Làm sao để giao giá trị cho nhiều khách hơn, rẻ hơn, nhanh hơn, và giữ được lợi thế?** Đo năng suất đầu ra (đô la, đơn vị sản phẩm hay khách hài lòng trên một đơn vị thời gian); nhân bản sản phẩm (sách in, nội dung trên internet); nhân rộng cả hệ thống kinh doanh (McDonald's, Starbucks, Walmart, nhượng quyền); giảm công người để mở rộng quy mô được (Starbucks so với thợ làm chăn); tích luỹ cải tiến nhỏ (Toyota) và tận dụng việc hệ thống càng lớn thì cải tiến nhỏ càng được khuếch đại (lon nước ngọt, ly espresso của Starbucks); đầu tư, kể cả bằng vốn vay, vào công cụ nhân sức (máy xúc, dây chuyền); và hệ thống hoá quy trình để cải tiến và tự động hoá được (Google).
+
+   Mỗi cải tiến như vậy đồng thời là một rào cản cạnh tranh: tập trung giao giá trị tốt hơn thì đối thủ tự khắc khó theo kịp, như Apple với iPhone và iPad.
 
 ## Khái niệm cần biết
 
@@ -731,7 +750,9 @@ Chốt xong việc bán thì phải giao cho khách thứ đã hứa. **Kênh ph
 
 **Bán thẳng cho người tiêu dùng** đi qua một kênh duy nhất, từ doanh nghiệp tới người tiêu dùng cuối cùng. Dịch vụ là ví dụ điển hình: khi đi cắt tóc, khách nhận giá trị trực tiếp từ doanh nghiệp, không qua trung gian. Cách này đơn giản và hiệu quả nhưng có giới hạn: doanh nghiệp kiểm soát toàn bộ quy trình, nhưng chỉ phục vụ được số khách mà thời gian và sức lực cho phép. Khi cầu vượt quá năng lực giao hàng, doanh nghiệp có nguy cơ làm khách thất vọng và tổn hại uy tín.
 
-**Phân phối qua trung gian** có nhiều kênh. Khi khách mua một sản phẩm ở cửa hàng, cửa hàng đóng vai người bán lại; trong phần lớn trường hợp cửa hàng không sản xuất mà mua sản phẩm của một công ty khác. Công ty làm ra sản phẩm có thể bán cho bao nhiêu cửa hàng tuỳ ý, quá trình gọi là "bảo đảm độ phủ phân phối". Sản phẩm được phân phối càng rộng thì công ty càng có khả năng bán được; càng nhiều cửa hàng bán thì càng nhiều cơ hội bán. Phân phối qua trung gian có thể tăng doanh số, nhưng buộc doanh nghiệp nhường bớt quyền kiểm soát quy trình chuyển giao giá trị. Tin vào một công ty khác để giao sản phẩm cho khách giúp doanh nghiệp có thêm thời gian và sức lực, nhưng cũng làm tăng **rủi ro đối tác**: nguy cơ đối tác làm hỏng việc và làm hại uy tín của mình.
+**Phân phối qua trung gian** có nhiều kênh. Khi khách mua một sản phẩm ở cửa hàng, cửa hàng đóng vai người bán lại; trong phần lớn trường hợp cửa hàng không sản xuất mà mua sản phẩm của một công ty khác. Công ty làm ra sản phẩm có thể bán cho bao nhiêu cửa hàng tuỳ ý, quá trình gọi là "bảo đảm độ phủ phân phối". Sản phẩm được phân phối càng rộng thì công ty càng có khả năng bán được; càng nhiều cửa hàng bán thì càng nhiều cơ hội bán.
+
+Phân phối qua trung gian có thể tăng doanh số, nhưng buộc doanh nghiệp nhường bớt quyền kiểm soát quy trình chuyển giao giá trị. Tin vào một công ty khác để giao sản phẩm cho khách giúp doanh nghiệp có thêm thời gian và sức lực, nhưng cũng làm tăng **rủi ro đối tác**: nguy cơ đối tác làm hỏng việc và làm hại uy tín của mình.
 
 Ví dụ: một công ty bán bánh quy qua một siêu thị địa phương. Siêu thị mua bánh, xếp lên kệ và bán cho khách của mình với một mức giá; khách mua bánh ở siêu thị chứ không mua trực tiếp từ công ty. Đó là phân phối qua trung gian kinh điển, có nhiều ưu điểm nhưng cũng có nhược điểm. Giả sử bánh bị vỡ trên chiếc xe tải của siêu thị chở tới cửa hàng: bánh vỡ vụn, hộp trưng bày bị bẹp. Khách của siêu thị sẽ không để ý chuyện đó nếu nó xảy ra một lần, nhưng nếu xảy ra thường xuyên, họ sẽ cho rằng chính nhà sản xuất chịu trách nhiệm về một sản phẩm kém, và uy tín của nhà sản xuất bị tổn hại.
 
@@ -777,7 +798,9 @@ Khi mua thứ có giá trị, khách muốn biết chính xác điều mình có
 
 Có ba yếu tố chính ảnh hưởng tới khả năng dự đoán của một sản phẩm:
 
-- **Tính đồng nhất:** lúc nào cũng đưa ra sản phẩm có cùng đặc điểm. Coca-Cola là một trong những công ty lớn đầu tiên kết hợp marketing mạnh với tính đồng nhất của sản phẩm ở quy mô lớn. Trong ngành đồ uống, đây là một kỳ công: làm, đóng chai và phân phối nước ngọt là một quá trình hậu cần phức tạp khó tin; quá nhiều đường hay hương liệu, quá nhiều không khí, hoặc sự có mặt của một con vi khuẩn có thể làm sản phẩm cuối cùng thay đổi hẳn. Không ai muốn nước ngọt yêu thích của mình mỗi lần một vị. Khi mở một lon Coca-Cola, khách chờ đúng sản phẩm đã uống lần trước, dù đang ở đâu trên trái đất. Nếu 0,1% số lon Coca-Cola ít ga hơn hoặc chua hơn, người ta sẽ thôi mua ngay lập tức.
+- **Tính đồng nhất:** lúc nào cũng đưa ra sản phẩm có cùng đặc điểm. Coca-Cola là một trong những công ty lớn đầu tiên kết hợp marketing mạnh với tính đồng nhất của sản phẩm ở quy mô lớn. Trong ngành đồ uống, đây là một kỳ công: làm, đóng chai và phân phối nước ngọt là một quá trình hậu cần phức tạp khó tin; quá nhiều đường hay hương liệu, quá nhiều không khí, hoặc sự có mặt của một con vi khuẩn có thể làm sản phẩm cuối cùng thay đổi hẳn.
+
+  Không ai muốn nước ngọt yêu thích của mình mỗi lần một vị. Khi mở một lon Coca-Cola, khách chờ đúng sản phẩm đã uống lần trước, dù đang ở đâu trên trái đất. Nếu 0,1% số lon Coca-Cola ít ga hơn hoặc chua hơn, người ta sẽ thôi mua ngay lập tức.
 - **Tính chuẩn hoá:** giao cùng một giá trị qua thời gian. Một lý do khiến New Coke thất bại vào thập niên 1980 là khách chờ đợi nước ngọt có một vị nhất định, còn công ty giao một sản phẩm hoàn toàn mới dưới cùng tên. Không giữ vị chuẩn dẫn tới doanh số giảm nhanh; doanh số hồi phục nhanh khi Coca-Cola khôi phục công thức gốc. Không đáp ứng đúng kỳ vọng của khách trung thành thì không thành công; nếu đưa ra thứ hoàn toàn khác, hãy giới thiệu nó đúng là thứ khác.
 - **Độ tin cậy:** chuyển giao giá trị không mắc lỗi, không chậm trễ. Hỏi người dùng Microsoft Windows điều gì gây phiền nhất với máy tính của họ, họ sẽ trả lời "hệ thống bị treo". Thiếu tin cậy gây rất nhiều bất mãn cho người tiêu dùng, nhất là khi không lường trước được trục trặc. Người đang xây nhà sẽ cảm thấy thế nào nếu nhà thầu không tới đúng giờ?
 
@@ -921,7 +944,9 @@ Kể cả khi làm việc tuỳ hứng, vẫn tồn tại một quy trình: ngư
 
 Lợi ích chính của việc lập hệ thống là có thể phân tích quy trình và cải tiến nó. Khi mỗi bước được làm rõ, người làm sẽ ý thức được các quy trình nền tảng chạy thế nào, chúng được cấu trúc ra sao, chúng có ảnh hưởng tới quy trình và hệ thống khác không, và về lâu dài có thể cải tiến hệ thống bằng cách nào.
 
-Google là ví dụ tuyệt vời về sức mạnh của hệ thống. Mỗi lần dùng công cụ tìm kiếm, hàng nghìn máy tính tự động khởi động để trả kết quả. Thuật toán tìm kiếm của Google (một thuật ngữ lập trình để gọi một hệ thống) quy định cách cả tập hợp máy tính này hoạt động. Nhân viên Google liên tục chỉnh lại các chi tiết để hệ thống chạy tốt. Kỹ sư Google thực hiện hơn 550 cải tiến mỗi năm cho thuật toán chính của công cụ tìm kiếm (chú thích của tác giả dẫn nguồn: bài "Inside the Box", tạp chí *Wired*, tháng 3/2010), và thuật toán ngày càng hiệu quả hơn khi phải chỉ ra thứ người dùng đang tìm. Kết quả là thuật toán của Google hiệu quả tới mức kết quả tìm kiếm được trả về trong khoảng 0,2 giây mà không có con người can thiệp, một thành tích khó tin. Nếu trong những bước đầu Google không dành phần lớn thời gian và sức lực để định nghĩa và hệ thống hoá quy trình tìm kiếm, công ty đơn giản là đã không tồn tại.
+Google là ví dụ tuyệt vời về sức mạnh của hệ thống. Mỗi lần dùng công cụ tìm kiếm, hàng nghìn máy tính tự động khởi động để trả kết quả. Thuật toán tìm kiếm của Google (một thuật ngữ lập trình để gọi một hệ thống) quy định cách cả tập hợp máy tính này hoạt động. Nhân viên Google liên tục chỉnh lại các chi tiết để hệ thống chạy tốt.
+
+Kỹ sư Google thực hiện hơn 550 cải tiến mỗi năm cho thuật toán chính của công cụ tìm kiếm (chú thích của tác giả dẫn nguồn: bài "Inside the Box", tạp chí *Wired*, tháng 3/2010), và thuật toán ngày càng hiệu quả hơn khi phải chỉ ra thứ người dùng đang tìm. Kết quả là thuật toán của Google hiệu quả tới mức kết quả tìm kiếm được trả về trong khoảng 0,2 giây mà không có con người can thiệp, một thành tích khó tin. Nếu trong những bước đầu Google không dành phần lớn thời gian và sức lực để định nghĩa và hệ thống hoá quy trình tìm kiếm, công ty đơn giản là đã không tồn tại.
 
 Hệ thống cũng giúp các nhóm người đi cùng một hướng. Ở chương 9, Kaufman sẽ bàn về tầm quan trọng của giao tiếp để người ta làm việc nhóm tốt. Càng nhiều người làm việc cùng thì càng nhiều giao tiếp. Xây dựng hệ thống và quy trình rõ ràng cho những hoạt động và nhiệm vụ nhất định giúp mọi người làm đúng phần việc của mình, giảm tối đa hiểu lầm và sai sót.
 
@@ -931,7 +956,13 @@ Phần lớn người ta ngần ngại lập hệ thống kinh doanh vì cho r�
 
 Hệ thống hoá và tự động hoá có một số nhược điểm rất quan trọng mà Kaufman sẽ phân tích chi tiết ở chương 11 và 12. Tạm thời, hãy nghĩ rằng hệ thống hiệu quả là dòng máu được bơm đi khắp doanh nghiệp, vì chúng cho phép tạo ra giá trị, đưa ra thị trường, bán và cuối cùng giao thứ doanh nghiệp có để đưa ra. Hệ thống càng tốt, doanh nghiệp càng tốt.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một tiệm bánh mì nhỏ bán 300 ổ mỗi ngày, thời gian phục vụ trung bình 90 giây mỗi khách, mỗi giờ cao điểm chỉ phục vụ được 40 khách trong khi có 60 người xếp hàng; 20 người bỏ đi (năng suất đầu ra theo sự hài lòng). Chủ tiệm vẽ dòng giá trị của một ổ bánh và thấy mỗi ổ được cắt, phết pa-tê, thêm rau theo từng khách; chỉ cần chuẩn bị sẵn khay rau và pa-tê theo định lượng (hệ thống hoá, viết thành một tờ hướng dẫn treo tường), thời gian giảm còn 60 giây, mỗi giờ cao điểm phục vụ được 60 khách. Tiệm không quảng cáo "giao nhanh" mà để khách tự ngạc nhiên vì xếp hàng ít hơn (hiệu ứng kỳ vọng); ổ bánh hôm nào cũng cùng lượng nhân, cùng độ giòn (khả năng dự đoán). Khi muốn tăng doanh số, chủ tiệm cân nhắc giao bánh qua một ứng dụng giao đồ ăn (kênh qua trung gian): thêm 100 đơn mỗi ngày nhưng phải kiểm tra bánh có bị nguội, ỉu khi tới tay khách hay không (rủi ro đối tác). Tiệm vay 50 triệu đồng mua lò nướng công suất gấp đôi (công cụ nhân sức), không dùng tiền vay để sửa sang mặt tiền sang trọng. Khi quy trình đã ổn định ở một tiệm, chủ mở tiệm thứ hai theo đúng tờ hướng dẫn (nhân rộng). Lúc đó, một thay đổi nhỏ như giảm 2 gram pa-tê mỗi ổ mà khách không nhận ra khác biệt, nhân với 600 ổ mỗi ngày ở hai tiệm, là 1,2 kg pa-tê mỗi ngày, khoảng 36 kg mỗi tháng (khuếch đại).
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một tiệm bánh mì nhỏ bán 300 ổ mỗi ngày, thời gian phục vụ trung bình 90 giây mỗi khách, mỗi giờ cao điểm chỉ phục vụ được 40 khách trong khi có 60 người xếp hàng; 20 người bỏ đi (năng suất đầu ra theo sự hài lòng).
+
+Chủ tiệm vẽ dòng giá trị của một ổ bánh và thấy mỗi ổ được cắt, phết pa-tê, thêm rau theo từng khách; chỉ cần chuẩn bị sẵn khay rau và pa-tê theo định lượng (hệ thống hoá, viết thành một tờ hướng dẫn treo tường), thời gian giảm còn 60 giây, mỗi giờ cao điểm phục vụ được 60 khách. Tiệm không quảng cáo "giao nhanh" mà để khách tự ngạc nhiên vì xếp hàng ít hơn (hiệu ứng kỳ vọng); ổ bánh hôm nào cũng cùng lượng nhân, cùng độ giòn (khả năng dự đoán).
+
+Khi muốn tăng doanh số, chủ tiệm cân nhắc giao bánh qua một ứng dụng giao đồ ăn (kênh qua trung gian): thêm 100 đơn mỗi ngày nhưng phải kiểm tra bánh có bị nguội, ỉu khi tới tay khách hay không (rủi ro đối tác). Tiệm vay 50 triệu đồng mua lò nướng công suất gấp đôi (công cụ nhân sức), không dùng tiền vay để sửa sang mặt tiền sang trọng.
+
+Khi quy trình đã ổn định ở một tiệm, chủ mở tiệm thứ hai theo đúng tờ hướng dẫn (nhân rộng). Lúc đó, một thay đổi nhỏ như giảm 2 gram pa-tê mỗi ổ mà khách không nhận ra khác biệt, nhân với 600 ổ mỗi ngày ở hai tiệm, là 1,2 kg pa-tê mỗi ngày, khoảng 36 kg mỗi tháng (khuếch đại).
 
 ## Luận điểm cốt lõi
 
@@ -1067,7 +1098,9 @@ Một doanh nghiệp chỉ tồn tại bền vững khi giao cho khách đúng t
 
 ### Chương này gom vào một chỗ những ý tưởng nền tảng của quản trị vận hành và trình bày chúng bằng ví dụ dễ nhớ
 
-Phần lớn khái niệm trong chương (dòng giá trị, kaizen, năng suất đầu ra, lợi thế quy mô, chuẩn hoá quy trình) vốn là nội dung của môn quản trị vận hành trong chương trình MBA. Điểm mạnh của Kaufman là đặt chúng theo một thứ tự hợp lý, từ trải nghiệm của khách (kỳ vọng, khả năng dự đoán) sang cỗ máy phía sau (đo, nhân bản, nhân rộng, cải tiến, hệ thống hoá), và gắn mỗi ý với một hình ảnh cụ thể: chai Dawn, hộp bánh quy vỡ, đôi giày Zappos tới sớm, chiếc chăn may tay, cái lon nước ngọt. Người chưa học quản trị có thể nhớ và dùng ngay. Cái giá là độ sâu: chương không nói gì về tồn kho tối ưu, nút thắt cổ chai, biến động nhu cầu hay chất lượng thống kê, những thứ một người vận hành thật sẽ gặp ngay.
+Phần lớn khái niệm trong chương (dòng giá trị, kaizen, năng suất đầu ra, lợi thế quy mô, chuẩn hoá quy trình) vốn là nội dung của môn quản trị vận hành trong chương trình MBA. Điểm mạnh của Kaufman là đặt chúng theo một thứ tự hợp lý, từ trải nghiệm của khách (kỳ vọng, khả năng dự đoán) sang cỗ máy phía sau (đo, nhân bản, nhân rộng, cải tiến, hệ thống hoá), và gắn mỗi ý với một hình ảnh cụ thể: chai Dawn, hộp bánh quy vỡ, đôi giày Zappos tới sớm, chiếc chăn may tay, cái lon nước ngọt. Người chưa học quản trị có thể nhớ và dùng ngay.
+
+Cái giá là độ sâu: chương không nói gì về tồn kho tối ưu, nút thắt cổ chai, biến động nhu cầu hay chất lượng thống kê, những thứ một người vận hành thật sẽ gặp ngay.
 
 ### Hiệu ứng kỳ vọng và khả năng dự đoán kéo theo hai hướng, và chương không nói rõ cách cân bằng
 
@@ -1083,7 +1116,9 @@ Con số "tiết kiệm hàng trăm nghìn đô la" cho cả ngành lon trong nh
 
 ### Từ 2010 tới nay, nhân bản số và nền tảng trung gian đã thay đổi cán cân giữa bán thẳng và qua trung gian
 
-Khi sách viết, "bán thẳng" chủ yếu nghĩa là dịch vụ tại chỗ, còn sản phẩm phải qua nhà bán lẻ. Từ đó, thương mại điện tử, mô hình bán thẳng cho người tiêu dùng (direct-to-consumer), sàn thương mại điện tử và ứng dụng giao hàng đã làm hai loại kênh trộn vào nhau: một thương hiệu nhỏ có thể bán thẳng cho khách ở xa, nhưng thường lại phụ thuộc vào một nền tảng trung gian lớn để được thấy và được giao. Rủi ro đối tác vì thế không giảm mà đổi dạng: thay vì hộp bánh vỡ trên xe tải siêu thị là thuật toán xếp hạng, chính sách phí và đánh giá sao của nền tảng. Tương tự, ý "internet là cỗ máy photocopy khổng lồ" của Kevin Kelly nay mở rộng sang phần mềm, khoá học trực tuyến và cả nội dung do AI tạo ra, khiến nhân bản rẻ tới mức khan hiếm chuyển sang sự chú ý và niềm tin, đúng chỗ mà hiệu ứng kỳ vọng và khả năng dự đoán phát huy.
+Khi sách viết, "bán thẳng" chủ yếu nghĩa là dịch vụ tại chỗ, còn sản phẩm phải qua nhà bán lẻ. Từ đó, thương mại điện tử, mô hình bán thẳng cho người tiêu dùng (direct-to-consumer), sàn thương mại điện tử và ứng dụng giao hàng đã làm hai loại kênh trộn vào nhau: một thương hiệu nhỏ có thể bán thẳng cho khách ở xa, nhưng thường lại phụ thuộc vào một nền tảng trung gian lớn để được thấy và được giao. Rủi ro đối tác vì thế không giảm mà đổi dạng: thay vì hộp bánh vỡ trên xe tải siêu thị là thuật toán xếp hạng, chính sách phí và đánh giá sao của nền tảng.
+
+Tương tự, ý "internet là cỗ máy photocopy khổng lồ" của Kevin Kelly nay mở rộng sang phần mềm, khoá học trực tuyến và cả nội dung do AI tạo ra, khiến nhân bản rẻ tới mức khan hiếm chuyển sang sự chú ý và niềm tin, đúng chỗ mà hiệu ứng kỳ vọng và khả năng dự đoán phát huy.
 
 ### Quy tắc "chỉ vay để mua công cụ nhân sức" là lời khuyên thận trọng hữu ích, nhưng hẹp
 
@@ -1094,4 +1129,198 @@ Quy tắc này bảo vệ người khởi nghiệp khỏi việc dùng nợ cho 
 - **Trong doanh nghiệp.** Chọn một sản phẩm chủ lực, vẽ trọn dòng giá trị từ nguyên liệu (hoặc từ lúc nhận yêu cầu) tới lúc khách dùng được, đánh dấu bước nào không tạo giá trị cho khách. Đặt một chỉ số năng suất đầu ra cho từng khâu (đơn hàng mỗi ngày, thời gian xử lý mỗi khiếu nại). Với mỗi trung gian phân phối, có cách kiểm tra định kỳ sản phẩm tới tay khách trong tình trạng nào. Khi ra mắt sản phẩm mới, kiểm soát kỳ vọng trong truyền thông, đừng để quảng cáo hứa nhiều hơn sản phẩm làm được.
 - **Trong nghề nghiệp.** Hiệu ứng kỳ vọng và khả năng dự đoán áp dụng trực tiếp cho người đi làm: hẹn hạn chót thực tế rồi giao sớm tốt hơn hẹn sớm rồi trễ; chất lượng đều đặn được tin cậy hơn những lần xuất sắc thất thường. Công việc lặp lại nên được viết thành quy trình (checklist, mẫu) để có thể cải tiến, giao lại cho người khác hoặc tự động hoá, giải phóng thời gian cho việc khó hơn.
 - **Khi khởi nghiệp hoặc kinh doanh nhỏ.** Ngay từ đầu, tự hỏi giá trị của mình có nhân bản được không (sản phẩm, nội dung, phần mềm) hay phụ thuộc vào giờ công của chính mình (dịch vụ). Nếu là dịch vụ, tìm phần nào có thể chuẩn hoá và bán tự động để giảm công người trên mỗi khách. Trước khi mở chi nhánh hay nhượng quyền, phải có một tiệm đầu tiên chạy được theo quy trình viết ra, không phụ thuộc vào việc chủ đứng quầy. Khi cần vay, ưu tiên khoản vay cho máy móc, công cụ tăng năng lực, và tính trước khả năng trả nợ.
-- **Ở Việt Nam (hiểu biết chung, không có số liệu cụ thể).** Nhiều doanh nghiệp nhỏ bán qua sàn thương mại điện tử và ứng dụng giao đồ ăn; đây chính là phân phối qua trung gian với rủi ro đối tác rõ rệt: hàng giao trễ, hư hỏng hay đánh giá xấu trên sàn đều bị khách quy cho người bán. Các chuỗi đồ uống và ăn nhanh nội địa phát triển nhanh là ví dụ về nhân rộng hệ thống; điểm khác biệt giữa chuỗi thành công và chuỗi đổ vỡ thường nằm ở việc quy trình và chất lượng có giữ được đồng nhất giữa các cửa hàng hay không, tức khả năng dự đoán. Trong ngành xây dựng và dịch vụ sửa chữa, nơi trễ hẹn và phát sinh chi phí là chuyện thường gặp, một nhà thầu nhỏ đúng hẹn và báo giá rõ ràng có thể tạo lợi thế giống câu chuyện Shira Sons Painting.
+- **Ở Việt Nam (hiểu biết chung, không có số liệu cụ thể).** Nhiều doanh nghiệp nhỏ bán qua sàn thương mại điện tử và ứng dụng giao đồ ăn; đây chính là phân phối qua trung gian với rủi ro đối tác rõ rệt: hàng giao trễ, hư hỏng hay đánh giá xấu trên sàn đều bị khách quy cho người bán.
+
+  Các chuỗi đồ uống và ăn nhanh nội địa phát triển nhanh là ví dụ về nhân rộng hệ thống; điểm khác biệt giữa chuỗi thành công và chuỗi đổ vỡ thường nằm ở việc quy trình và chất lượng có giữ được đồng nhất giữa các cửa hàng hay không, tức khả năng dự đoán. Trong ngành xây dựng và dịch vụ sửa chữa, nơi trễ hẹn và phát sinh chi phí là chuyện thường gặp, một nhà thầu nhỏ đúng hẹn và báo giá rõ ràng có thể tạo lợi thế giống câu chuyện Shira Sons Painting.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn đi theo các mục 1–14 trong phần Nội dung chi tiết (chuyển giao giá trị và dòng giá trị, kênh phân phối, hiệu ứng kỳ vọng và khả năng dự đoán, năng suất đầu ra cùng nhân bản, nhân rộng và mở rộng quy mô, tích luỹ, khuếch đại và rào cản cạnh tranh, công cụ nhân sức và hệ thống hoá), mỗi nhánh ghi định nghĩa của từng mô hình, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: không có chuyển giao giá trị thì không có doanh nghiệp, và hệ thống càng tốt thì doanh nghiệp càng tốt`"]
+  n1["`Mục 1–2 — Chuyển giao giá trị và dòng giá trị`"]
+  n0 --- n1
+  n2["`Chuyển giao giá trị: xử lý đơn, quản lý tồn kho, giao hàng, sửa lỗi, chăm sóc khách`"]
+  n1 --- n2
+  n3["`Lấy tiền của người khác mà không giao giá trị tương xứng là kẻ lừa đảo`"]
+  n1 --- n3
+  n4["`Khách muốn hưởng lợi ích nhanh, tin cậy, đều đặn, hài lòng thì mua lại và giới thiệu thêm khách`"]
+  n1 --- n4
+  n5["`Dòng giá trị: mọi bước từ lúc bắt đầu tạo giá trị tới lúc giao kết quả cho khách`"]
+  n1 --- n5
+  n6["`Chai nước rửa chén Dawn ở Procter #amp; Gamble đi qua 11 bước: 5 bước tạo giá trị, 6 bước chuyển giao`"]
+  n5 --- n6
+  n7["`Toyota (TPS) phân tích dòng giá trị đều đặn, kỹ sư thực hiện hơn 1 triệu cải tiến mỗi năm`"]
+  n5 --- n7
+  n8["`Vẽ sơ đồ quy trình để tìm bước thừa và chỗ chuyển tiếp bất tiện`"]
+  n5 --- n8
+  n9["`Giữ dòng giá trị ngắn: quy trình càng dài, rủi ro trục trặc càng lớn`"]
+  n5 --- n9
+  n10["`Mục 3 — Kênh phân phối: bán thẳng hay qua trung gian`"]
+  n0 --- n10
+  n11["`Kênh phân phối là đường đưa giá trị tới người tiêu dùng cuối cùng`"]
+  n10 --- n11
+  n12["`Bán thẳng, như đi cắt tóc: kiểm soát toàn bộ nhưng số khách bị giới hạn bởi thời gian và sức lực`"]
+  n10 --- n12
+  n13["`Qua trung gian: phủ phân phối rộng, bán được nhiều hơn nhưng nhường bớt quyền kiểm soát`"]
+  n10 --- n13
+  n14["`Rủi ro đối tác: đối tác làm hỏng việc và làm hại uy tín của mình`"]
+  n10 --- n14
+  n15["`Bánh quy vỡ, hộp bẹp trên xe tải siêu thị lặp lại thì khách cho rằng nhà sản xuất làm hàng kém`"]
+  n14 --- n15
+  n16["`Phải giám sát trung gian, phân phối không phải chuyện đặt hàng vào rồi quên đi`"]
+  n10 --- n16
+  n17["`Mục 4–5 — Hiệu ứng kỳ vọng và khả năng dự đoán`"]
+  n0 --- n17
+  n18["`Hiệu ứng kỳ vọng: Chất lượng cảm nhận = Kết quả thực tế − Kỳ vọng`"]
+  n17 --- n18
+  n19["`Kỳ vọng phải đủ cao để khách mua, kết quả phải vượt kỳ vọng để khách hài lòng`"]
+  n18 --- n19
+  n20["`Zappos miễn phí vận chuyển và đổi trả, giày thường tới ngay hôm sau mà không quảng cáo`"]
+  n18 --- n20
+  n21["`iPhone 3G nhanh hơn, rẻ hơn đời đầu nhưng kỳ vọng quá cao nên uy tín Apple bị tổn hại`"]
+  n18 --- n21
+  n22["`Giao nhanh nếu đã công bố trong thoả thuận sẽ mất sức hút cảm xúc của sự bất ngờ`"]
+  n18 --- n22
+  n23["`Khả năng dự đoán: khách muốn biết chính xác mình sẽ nhận được gì`"]
+  n17 --- n23
+  n24["`Tính đồng nhất: chỉ 0,1% số lon Coca-Cola ít ga hay chua hơn là khách thôi mua`"]
+  n23 --- n24
+  n25["`Tính chuẩn hoá: New Coke giao vị mới dưới tên cũ nên doanh số tụt, quay lại công thức gốc thì hồi phục`"]
+  n23 --- n25
+  n26["`Độ tin cậy: không lỗi, không trễ, người dùng Windows ghét nhất là máy bị treo`"]
+  n23 --- n26
+  n27["`Shira Sons Painting đầy đơn hàng nhờ làm tốt, đúng hạn, dễ chịu trong nghề nhà thầu thất thường`"]
+  n23 --- n27
+  n28["`Người ta thích bất ngờ dễ chịu nhưng ghét bị bất ngờ khó chịu`"]
+  n23 --- n28
+  n29["`Mục 6–9 — Năng suất đầu ra, nhân bản, nhân rộng, mở rộng quy mô`"]
+  n0 --- n29
+  n30["`Năng suất đầu ra: tốc độ hệ thống đạt mục tiêu, số đơn vị kết quả chia cho thời gian`"]
+  n29 --- n30
+  n31["`Ba cách đo: đô la lợi nhuận, đơn vị sản phẩm, khách hài lòng trên một đơn vị thời gian`"]
+  n30 --- n31
+  n32["`Chipotle phục vụ một khách vừa bước vào trong khoảng 3 phút`"]
+  n30 --- n32
+  n33["`Bước đầu tiên để tăng năng suất đầu ra là đo nó`"]
+  n30 --- n33
+  n34["`Nhân bản: tái tạo tin cậy một thứ có giá trị, một thiết kế nhiều bản sao`"]
+  n29 --- n34
+  n35["`Sách chép tay mất hàng tháng tới hàng năm mỗi cuốn, sách in thì hàng triệu bản giá rẻ`"]
+  n34 --- n35
+  n36["`Kevin Kelly: internet là cỗ máy photocopy khổng lồ, nhân bản thông tin gần như miễn phí`"]
+  n34 --- n36
+  n37["`Phải tự phục vụ từng khách thì số khách bị giới hạn, nhân bản cộng tự động hoá thì chốt nhiều đơn hơn`"]
+  n34 --- n37
+  n38["`Nhân rộng: nhân bản cả một quy trình hay hệ thống kinh doanh`"]
+  n29 --- n38
+  n39["`McDonald's từ một nhà hàng ở California, Starbucks từ một quán ở Seattle thành hàng nghìn cửa hàng`"]
+  n38 --- n39
+  n40["`Walmart nhân rộng hai hệ thống nối nhau: cửa hàng và trung tâm phân phối`"]
+  n38 --- n40
+  n41["`Nhân rộng phân biệt doanh nghiệp nhỏ với lớn, đó là lợi ích chính của nhượng quyền`"]
+  n38 --- n41
+  n42["`Mở rộng quy mô: nhân bản hoặc nhân rộng an toàn khi khối lượng cầu tăng`"]
+  n29 --- n42
+  n43["`Thợ làm chăn mỗi tuần một chiếc không thể đáp ứng 1.000 đơn trong một ngày`"]
+  n42 --- n43
+  n44["`Quán Starbucks giả định phục vụ 100 ly mỗi giờ, quá tải thì mở thêm quán bên kia đường`"]
+  n42 --- n44
+  n45["`Con người không mở rộng quy mô được nên dịch vụ rất khó mở rộng quy mô`"]
+  n42 --- n45
+  n46["`Càng ít công người để tạo và giao giá trị, doanh nghiệp càng dễ mở rộng quy mô`"]
+  n42 --- n46
+  n47["`Mục 10–12 — Tích luỹ, khuếch đại và rào cản cạnh tranh`"]
+  n0 --- n47
+  n48["`Tích luỹ: hành vi nhỏ, có lợi hay có hại, cộng dồn theo thời gian thành kết quả lớn`"]
+  n47 --- n48
+  n49["`Kaizen của Toyota: cải tiến liên tục bằng cách loại bỏ muda (lãng phí) qua vô số thay đổi rất nhỏ`"]
+  n48 --- n49
+  n50["`Một thanh kẹo không sao, chỉ ăn đồ ăn nhanh và kẹo suốt 10 năm thì có hại`"]
+  n48 --- n50
+  n51["`Khuếch đại: cải tiến nhỏ lan ra toàn hệ thống, hệ thống càng lớn kết quả càng lớn`"]
+  n47 --- n51
+  n52["`Lon nước ngọt thu hẹp cổ, thành dày khoảng 90 micromet, Mỹ làm khoảng 131 tỷ lon mỗi năm`"]
+  n51 --- n52
+  n53["`Espresso ngắn ít hạt hơn giảm mạnh lượng cà phê Starbucks phải mua, pha nhanh hơn thì thêm khách mỗi giờ`"]
+  n51 --- n53
+  n54["`Tìm cơ hội khuếch đại ở những thứ đã được nhân bản hoặc nhân rộng`"]
+  n51 --- n54
+  n55["`Rào cản cạnh tranh: mỗi cải tiến trong dòng giá trị làm đối thủ khó theo kịp hơn`"]
+  n47 --- n55
+  n56["`BlackBerry Storm sao chép iPhone nhưng ra mắt khi iPhone đã qua nhiều vòng cải tiến, hơn 50 triệu chiếc đã bán`"]
+  n55 --- n56
+  n57["`Apple né thị trường netbook, ra iPad năm 2010, bán hơn 2 triệu chiếc trong 2 tháng đầu`"]
+  n55 --- n57
+  n58["`Đừng tập trung vào cạnh tranh, hãy giao giá trị tốt hơn, đối thủ sẽ tự lo cho họ`"]
+  n55 --- n58
+  n59["`Mục 13–14 — Công cụ nhân sức và hệ thống hoá`"]
+  n0 --- n59
+  n60["`Công cụ nhân sức: nhân và dồn tác động của sức lực, suy nghĩ hay sự chú ý`"]
+  n59 --- n60
+  n61["`Búa dồn lực vào một điểm, máy xúc thay xẻng 10 USD, cưa máy thay cưa tay`"]
+  n60 --- n61
+  n62["`Dây chuyền sản xuất và hệ thống phân phối là công cụ nhân sức quy mô lớn, đắt nhưng không thay được`"]
+  n60 --- n62
+  n63["`Chỉ dùng nợ hay vốn ngoài để có công cụ nhân sức mà nếu không thì không với tới`"]
+  n60 --- n63
+  n64["`Máy móc nhà máy 10 triệu USD đáng vay, tiền thuê văn phòng sang trọng thì không`"]
+  n60 --- n64
+  n65["`Hệ thống hoá: quy trình rõ ràng, lặp lại được, viết ra hoặc vẽ thành sơ đồ`"]
+  n59 --- n65
+  n66["`Lợi ích chính: phân tích và cải tiến được quy trình, giúp nhóm người đi cùng hướng`"]
+  n65 --- n66
+  n67["`Google: hơn 550 cải tiến thuật toán chính mỗi năm, kết quả trong khoảng 0,2 giây`"]
+  n65 --- n67
+  n68["`Không hệ thống hoá được thì không tự động hoá được, như giao việc tìm kiếm cho đội thủ thư`"]
+  n65 --- n68
+  n69["`Đang quá tải thì cách tốt nhất là dành thời gian lập hệ thống tốt`"]
+  n65 --- n69
+  n70["`Thông điệp xuyên suốt`"]
+  n0 --- n70
+  n71["`Đừng hứa nhiều hơn khả năng, giao đều đặn và để phần vượt kỳ vọng thành bất ngờ`"]
+  n70 --- n71
+  n72["`Năng lực giao giá trị đến từ hệ thống được đo, nhân bản, cải tiến và tự động hoá`"]
+  n70 --- n72
+  n73["`Hệ thống càng tốt, doanh nghiệp càng tốt`"]
+  n70 --- n73
+  class n0 root
+  class n1,n10,n17,n29,n47,n59,n70 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n60,n61,n62,n63,n64,n65,n66,n67,n68,n69,n71,n72,n73 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 5 "La entrega del valor" (tương ứng Chapter 4 "Value Delivery" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2–6 mô tả năm phần của mọi doanh nghiệp theo đúng thứ tự dòng chảy: tạo ra thứ có giá trị (chương 2), thu hút sự chú ý của người cần nó (chương 3, marketing), biến người quan tâm thành người trả tiền (chương 4, bán hàng), giao cho người trả tiền đúng thứ đã hứa (chương 5, chuyển giao giá trị), và thu đủ tiền để tiếp tục (chương 6, tài chính).
+
+Chương 5 bắt đầu đúng ở điểm chương 4 kết thúc: giao dịch đã chốt, giờ doanh nghiệp phải giữ lời hứa.
+
+Chương này cũng là cầu nối sang phần hệ thống ở chương 10–12: nhiều khái niệm ở đây (dòng giá trị, năng suất đầu ra, nhân bản, nhân rộng, mở rộng quy mô, tích luỹ, hệ thống hoá) là những viên gạch đầu tiên của cách nhìn doanh nghiệp như một hệ thống, và Kaufman nhiều lần hẹn sẽ bàn tiếp ở chương 8 (ngoại hoá, tải công việc), chương 9 (giao tiếp trong nhóm), chương 11 và 12 (mặt trái của tự động hoá).
+
+## Lưu ý
+
+- Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua bản OCR của một bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của các mục ghi theo hiểu biết của người tổng hợp về bản gốc. Các chỗ cần lưu ý:
+- **Lỗi OCR đã tự sửa:** tên sách của Michael LeBoeuf ở đề từ mở chương in thành "Cómo hacer cuentes y conservarios" (nghĩa là "Cách có được khách hàng và giữ họ", bản gốc *How to Win Customers and Keep Them for Life*); "Farless" là Benjamin F. **Fairless**; "colocar y olvidare" là "colocar y olvidarse" (đặt vào rồi quên đi); "Liderazgo" viết hoa giữa câu là lỗi nhận dạng; các số chú thích dính vào chữ ("mejor 129", "años) 3)", "Better Than Free, 3l", "del mundo. B2)", "buscador, 33l") là chú thích [29] đến [33].
+- **Chú thích cuối sách:** [29] và [31] chỉ là đường dẫn web (ví dụ thực hành vẽ dòng giá trị; bài luận của Kevin Kelly) nên bỏ. [30] (các tu sĩ chép tay và trang trí Kinh Thánh, mỗi cuốn có thể mất nhiều năm) đưa vào mục Nhân bản. [32] (đợt thu hồi sản phẩm của Toyota sẽ bàn ở mục "La paradoja de la automatización") đưa vào mục Tích luỹ. [33] là nguồn của con số 550 cải tiến thuật toán Google (bài "Inside the Box", tạp chí *Wired*, tháng 3/2010), đưa vào mục Hệ thống hoá.
+- **Chỗ bản dịch có vẻ lệch nghĩa hoặc khó hiểu:**
+  - Ở mục Hiệu ứng kỳ vọng, bản TBN viết Zappos "có thể quảng cáo việc vận chuyển miễn phí nhưng không làm", trong khi đoạn trước vừa nói Zappos đã công khai miễn phí vận chuyển; theo mạch văn, thứ Zappos không quảng cáo là việc **giao nhanh qua đêm** (hàng tới ngày hôm sau), nên bản tổng hợp hiểu theo nghĩa đó.
+  - Bản TBN dùng chữ "rendimiento" cho cả *throughput* (năng suất đầu ra, mục 5) lẫn *performance* (kết quả thực tế, mục 3); bản tổng hợp tách thành hai tên khác nhau. Công thức năng suất đầu ra in là "[ritmo/tiempo]" (nhịp/thời gian), khó hiểu; theo mạch văn ("kết quả càng nhiều, thời gian càng ít thì năng suất càng cao") nên hiểu là **số đơn vị kết quả chia cho thời gian**.
+  - "riesgo del homólogo" ở mục Kênh phân phối là cách dịch lạ của *counterparty risk*; thuật ngữ TBN thông dụng là "riesgo de contraparte".
+  - Trong dòng giá trị của chai Dawn, câu "el cliente carga los palés en un camión de reparto" dùng "khách hàng" để chỉ **nhà bán lẻ** mua sỉ từ P&G (họ nhận hàng ở trung tâm phân phối rồi chở tới cửa hàng), không phải người tiêu dùng.
+  - Mục Khuếch đại nói các thay đổi nhỏ trong thiết kế lon "tiết kiệm cho ngành đồ uống hàng trăm nghìn đô la"; so với 131 tỷ lon mỗi năm trong nhiều thập kỷ, con số này nhỏ bất thường, có thể bản dịch đã làm lệch con số gốc; bản tổng hợp chép nguyên và đánh dấu. Cũng trong mục này, "arandelas" (vòng đệm) được hiểu là **khoen kéo** để mở lon; con số "khoảng hai milimét" cho thành lon cũ chép theo bản TBN.
+  - Mục Nhân rộng nói Walmart bắt đầu từ một cửa hàng ở Fayetteville, Arkansas; theo hiểu biết chung, cửa hàng Wal-Mart đầu tiên mở ở Rogers, Arkansas (1962), còn Fayetteville là nơi có một cửa hàng tạp hoá đời đầu của Sam Walton; bản tổng hợp chép theo sách.
+- **Bối cảnh:** sách viết năm 2010. Các số liệu như Apple bán hơn 50 triệu iPhone, iPad bán hơn 2 triệu chiếc trong hai tháng đầu, Toyota là hãng xe lớn nhất thế giới, sự cố ăng-ten của iPhone thế hệ thứ tư, BlackBerry Storm là đối thủ của iPhone, Google trả kết quả trong khoảng 0,2 giây, đều tính tới thời điểm đó. Câu "ít nhất là cho tới khi nghịch lý của tự động hoá ảnh hưởng tới Toyota" ám chỉ đợt thu hồi xe hàng loạt của Toyota năm 2009–2010.

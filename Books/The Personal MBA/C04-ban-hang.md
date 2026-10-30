@@ -1,11 +1,18 @@
 # Chương 4 — Bán hàng (Las ventas; Sales)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 4 "Las ventas" (tương ứng Chapter 3 "Sales" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Kaufman chia mọi doanh nghiệp thành năm phần nối tiếp nhau, trình bày ở chương 2–6: tạo giá trị → marketing → bán hàng → chuyển giao giá trị → tài chính. Chương 2 (tạo giá trị) hỏi doanh nghiệp làm ra thứ gì người khác muốn; chương 3 (marketing) hỏi làm sao thu hút sự chú ý của những người có thể mua, tức "khách hàng tiềm năng". Chương 4 là phần thứ ba: biến khách hàng tiềm năng thành khách hàng trả tiền. Đây là điểm duy nhất trong chu trình kinh doanh mà tiền chảy **vào** doanh nghiệp. Chương 5 (chuyển giao giá trị) sẽ bàn việc giao đúng cái đã bán và giữ khách hài lòng; chương 6 (tài chính) bàn việc giữ được phần tiền thu về nhiều hơn phần tiền chi ra. Nhiều mô hình của chương này dựa vào các chương khác: "đề nghị tối thiểu khả thi về kinh tế" (chương 2), cách trình bày đề nghị và chi phí thu hút khách hàng cho phép (chương 3), giá trị vòng đời khách hàng (chương 6), sự ác cảm với mất mát và chứng mù với cái vắng mặt (chương 7), quyền lực và động cơ khuyến khích (chương 9), môi trường (chương 10).
-**Ý chính:** Kaufman muốn người đọc hiểu rằng **bán hàng là giúp khách hàng tiềm năng tin rằng đề nghị của mình đáng với số tiền họ trả, chứ không phải ép họ mua**. Không có bán hàng thì không có doanh nghiệp: việc kinh doanh bắt đầu thật sự từ **giao dịch** có lời đầu tiên. Giao dịch chỉ xảy ra khi có **niềm tin** hai chiều và có **điểm chung** về lợi ích. Vì mọi mức giá đều do người bán tự đặt (**nguyên lý giá bất định**), người bán phải biện minh được giá; có **bốn phương pháp định giá** (chi phí thay thế, giá thị trường, chiết khấu dòng tiền, giá trị so sánh với một nhóm người cụ thể), trong đó cách tốt nhất là định giá theo giá trị mà đề nghị có với nhóm người mua nhắm tới, và dùng **bán hàng dựa trên giá trị** (hỏi và lắng nghe theo bốn bước của *SPIN Selling*) cùng **bán hàng bằng giáo dục khách hàng** (ví dụ tiệm váy cưới Mark Ingram bán váy 6.000 USD, gấp bốn lần mức trung bình ở Mỹ) để biện minh giá đó. Phần giữa chương là đàm phán: biết **phương án thay thế tốt nhất kế tiếp** của mình và của bên kia, trao đổi bằng **ba đồng tiền trao đổi phổ quát** (nguồn lực, thời gian, sự linh hoạt), chuẩn bị đủ **ba khía cạnh của đàm phán** (chuẩn bị và lập kế hoạch, cấu trúc đề nghị, trình bày và lập luận), và dùng **người trung gian** khi cần nhưng phải hiểu họ kiếm tiền bằng cách nào. Phần cuối là các kỹ thuật giúp khách mua: **có đi có lại** (ly cà phê ở đại lý ô tô làm khách chi thêm hàng nghìn USD), **thừa nhận khuyết điểm** (đại lý chụp cả vết sứt sơn nhỏ), vượt qua năm **rào cản mua hàng** thường gặp, **đảo ngược rủi ro** (bảo hành hoàn tiền, "mang chú chó con về nhà thử"), và **kích hoạt lại khách hàng cũ** (Netflix gửi đề nghị giảm giá cho người đã huỷ thuê bao).
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua văn bản OCR của bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman. Tên tiếng Anh của các mục được ghi theo hiểu biết của người tổng hợp về bản gốc; mục nào không chắc thì chỉ ghi tên TBN. Các lỗi OCR đã tự sửa: "Groucho Mark" là Groucho Marx; "Amalli" là Amalfi; "LUCVG ERHARD … caneller" là Ludwig Erhard, cựu thủ tướng Tây Đức; "Fal-Sale Investing" là *Fail-Safe Investing* của Harry Browne; "SIR JOHN DAVES" là Sir John Davies; "MARCEL MALSS" là Marcel Mauss; "CUNT EASTWOOD" là Clint Eastwood; "WooDy ALLEN … acior" là Woody Allen, diễn viên; "pedrusco … 27l" có số chú thích [27] dính vào. Ở mục "La confianza", diện tích căn biệt thự in là "90.000 m" (chỉ số mũ bị mất khi OCR, nên có lẽ là 90.000 m²); con số này rất lớn so với giá 100.000 USD, có thể bản dịch đã đổi đơn vị từ feet vuông của bản gốc; nó không ảnh hưởng tới lập luận vì ý của ví dụ là giá rẻ đến vô lý. Chỗ bản dịch có vẻ lệch nghĩa: (1) mục "La venta basada en las formas" theo người tổng hợp tương ứng mục *Education-Based Selling* của bản gốc; chữ "formas" không khớp với nội dung (mục này nói về việc giáo dục, cung cấp thông tin cho khách), nên bản tổng hợp gọi mục là "bán hàng bằng giáo dục khách hàng"; (2) ở mục "La venta basada en el valor del producto", câu "dịch vụ mà một công ty có thể cung cấp cho công ty khác có giá khoảng 10.000 USD" khó hiểu; người tổng hợp hiểu là đối thủ cạnh tranh bán một dịch vụ tương tự với giá 10.000 USD, vì câu trả lời ngay sau đó so sánh với "các dịch vụ khác trên thị trường"; (3) ở mục "Tres monedas de cambio universales", Kaufman gọi sự linh hoạt mà người làm công từ bỏ là "chi phí cơ hội", cách dùng này rộng hơn định nghĩa chuẩn của kinh tế học; (4) bản dịch dùng chữ "leasing" cho căn nhà ở Colorado nhưng nội dung (chủ nhà, tăng bảo hiểm cho người cho thuê, ký hợp đồng) cho thấy đó là hợp đồng thuê nhà có thể kèm quyền mua. Các tham chiếu chéo trong chương ("chương 7", "chương 9"…) phần lớn khớp với cách đánh số TBN (sự ác cảm với mất mát ở chương 7, quyền lực và động cơ khuyến khích ở chương 9, môi trường ở chương 10, giá trị vòng đời khách hàng ở chương 6); riêng "cấu trúc định hướng (estructura guía) ở chương 7" có thể giữ nguyên số chương của bản tiếng Anh. Chương có hai chú thích cuối sách: [27] (nguồn tin về viên kim cương Cullinan Heritage, một thông cáo báo chí của công ty Petra Diamonds tháng 2/2010) và [28] (chỉ chỗ tra công thức chiết khấu dòng tiền trên Wikipedia); cả hai chỉ là đường dẫn nên không đưa nội dung vào. Bối cảnh: sách viết năm 2010; ví dụ Netflix là thời Netflix còn cho thuê đĩa DVD gửi qua bưu điện kèm dịch vụ trực tuyến, kỷ lục giá kim cương thô là tính tới năm 2010, Better Business Bureau là tổ chức của Mỹ. Phép tính giá trị hiện tại của căn nhà cho thuê trong bản tổng hợp là do người tổng hợp làm; sách chỉ nêu giả định, không ra kết quả.
+Kaufman muốn người đọc hiểu rằng **bán hàng là giúp khách hàng tiềm năng tin rằng đề nghị của mình đáng với số tiền họ trả, chứ không phải ép họ mua**.
+
+Không có bán hàng thì không có doanh nghiệp: việc kinh doanh bắt đầu thật sự từ **giao dịch** có lời đầu tiên. Giao dịch chỉ xảy ra khi có **niềm tin** hai chiều và có **điểm chung** về lợi ích.
+
+Vì mọi mức giá đều do người bán tự đặt (**nguyên lý giá bất định**), người bán phải biện minh được giá; có **bốn phương pháp định giá** (chi phí thay thế, giá thị trường, chiết khấu dòng tiền, giá trị so sánh với một nhóm người cụ thể).
+
+Trong đó cách tốt nhất là định giá theo giá trị mà đề nghị có với nhóm người mua nhắm tới, và dùng **bán hàng dựa trên giá trị** (hỏi và lắng nghe theo bốn bước của *SPIN Selling*) cùng **bán hàng bằng giáo dục khách hàng** (ví dụ tiệm váy cưới Mark Ingram bán váy 6.000 USD, gấp bốn lần mức trung bình ở Mỹ) để biện minh giá đó.
+
+Phần giữa chương là đàm phán: biết **phương án thay thế tốt nhất kế tiếp** của mình và của bên kia, trao đổi bằng **ba đồng tiền trao đổi phổ quát** (nguồn lực, thời gian, sự linh hoạt), chuẩn bị đủ **ba khía cạnh của đàm phán** (chuẩn bị và lập kế hoạch, cấu trúc đề nghị, trình bày và lập luận), và dùng **người trung gian** khi cần nhưng phải hiểu họ kiếm tiền bằng cách nào.
+
+Phần cuối là các kỹ thuật giúp khách mua: **có đi có lại** (ly cà phê ở đại lý ô tô làm khách chi thêm hàng nghìn USD), **thừa nhận khuyết điểm** (đại lý chụp cả vết sứt sơn nhỏ), vượt qua năm **rào cản mua hàng** thường gặp, **đảo ngược rủi ro** (bảo hành hoàn tiền, "mang chú chó con về nhà thử"), và **kích hoạt lại khách hàng cũ** (Netflix gửi đề nghị giảm giá cho người đã huỷ thuê bao).
 
 ## Sơ đồ
 
@@ -731,11 +738,19 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Điều gì phải có để một vụ bán xảy ra?** Phải có giao dịch, tức hai bên đổi cho nhau những thứ có giá trị kinh tế và cả hai đều khá hơn sau trao đổi. Muốn vậy cần ba điều: đề nghị có giá trị thật với người mua (nên phải kiểm chứng đề nghị tối thiểu khả thi về kinh tế trước khi đầu tư lớn); niềm tin hai chiều (người mua tin người bán giao được đúng cái đã hứa, người bán tin người mua sẽ trả tiền), như ví dụ biệt thự Amalfi 100.000 USD trả trước mà không ai tỉnh táo chịu gửi tiền; và điểm chung, tức vùng mà lợi ích hai bên chồng lên nhau, như khi mức lương bạn muốn không cao hơn mức sếp sẵn sàng trả. Bán hàng không phải là thuyết phục ai đó làm điều trái với lợi ích của họ.
+1. **Điều gì phải có để một vụ bán xảy ra?** Phải có giao dịch, tức hai bên đổi cho nhau những thứ có giá trị kinh tế và cả hai đều khá hơn sau trao đổi.
 
-2. **Nên đặt giá thế nào, và làm sao để khách chấp nhận mức giá đó?** Mọi mức giá đều do người bán đặt và có thể đổi (nguyên lý giá bất định), nên vấn đề không phải "giá đúng là bao nhiêu" mà là "biện minh được mức giá nào". Có bốn cách tính: chi phí thay thế (làm lại cái giống hệt tốn bao nhiêu, cộng thêm lời), giá thị trường (thứ tương tự bán giá bao nhiêu), chiết khấu dòng tiền hay giá trị hiện tại ròng (dòng tiền tương lai, như tiền thuê nhà 2.000 USD/tháng trong 10 năm, đáng bao nhiêu hôm nay), và giá trị so sánh (thứ này có giá trị đặc biệt với nhóm người nào, như căn nhà gần trường tốt với gia đình có con, hay căn nhà từng của Elvis với người hâm mộ giàu có, giá có thể gấp 3–4 lần). Kaufman khuyên dùng ba cách đầu làm điểm xuất phát rồi định giá theo cách thứ tư. Để khách chấp nhận giá, người bán dùng bán hàng dựa trên giá trị (hỏi và lắng nghe theo bốn bước của Rackham: tình hình, vấn đề, hệ quả, nhu cầu và lợi ích, để làm rõ giá trị với khách; dịch vụ tạo thêm 100 triệu USD doanh thu thì giá 10 triệu USD là hợp lý dù chi phí cung cấp chỉ 100 USD) và bán hàng bằng giáo dục khách hàng (như Kelsey giải thích về vải, ren, cách may để cô dâu hiểu vì sao váy 6.000 USD đáng giá).
+   Muốn vậy cần ba điều: đề nghị có giá trị thật với người mua (nên phải kiểm chứng đề nghị tối thiểu khả thi về kinh tế trước khi đầu tư lớn); niềm tin hai chiều (người mua tin người bán giao được đúng cái đã hứa, người bán tin người mua sẽ trả tiền), như ví dụ biệt thự Amalfi 100.000 USD trả trước mà không ai tỉnh táo chịu gửi tiền; và điểm chung, tức vùng mà lợi ích hai bên chồng lên nhau, như khi mức lương bạn muốn không cao hơn mức sếp sẵn sàng trả. Bán hàng không phải là thuyết phục ai đó làm điều trái với lợi ích của họ.
 
-3. **Làm sao đàm phán tốt và giúp khách vượt qua do dự?** Về đàm phán: biết phương án thay thế tốt nhất kế tiếp của mình (càng nhiều phương án tốt, càng dám bỏ thoả thuận xấu, càng có sức mạnh) và của bên kia (để thiết kế đề nghị hấp dẫn hơn); dùng cả ba đồng tiền trao đổi (nguồn lực, thời gian, sự linh hoạt) để mở rộng số phương án; chuẩn bị cả ba khía cạnh (chuẩn bị và lập kế hoạch, cấu trúc đề nghị, trình bày và lập luận); dùng người trung gian khi phần được của bên này là phần mất của bên kia, nhưng phải hiểu họ được trả tiền thế nào và không giao hết quyền quyết định. Về giúp khách mua: cho trước một giá trị thật để kích hoạt tâm lý có đi có lại; chủ động thừa nhận khuyết điểm; xử lý sẵn năm phản đối thường gặp (đắt quá; không hiệu quả; không hiệu quả với tôi; tôi đợi được; khó quá với tôi); đảo ngược rủi ro bằng bảo đảm hoàn tiền và dùng thử dài; và sau cùng, liên lạc lại khách cũ mỗi 3–6 tháng với một đề nghị mới.
+2. **Nên đặt giá thế nào, và làm sao để khách chấp nhận mức giá đó?** Mọi mức giá đều do người bán đặt và có thể đổi (nguyên lý giá bất định), nên vấn đề không phải "giá đúng là bao nhiêu" mà là "biện minh được mức giá nào".
+
+   Có bốn cách tính: chi phí thay thế (làm lại cái giống hệt tốn bao nhiêu, cộng thêm lời), giá thị trường (thứ tương tự bán giá bao nhiêu), chiết khấu dòng tiền hay giá trị hiện tại ròng (dòng tiền tương lai, như tiền thuê nhà 2.000 USD/tháng trong 10 năm, đáng bao nhiêu hôm nay), và giá trị so sánh (thứ này có giá trị đặc biệt với nhóm người nào, như căn nhà gần trường tốt với gia đình có con, hay căn nhà từng của Elvis với người hâm mộ giàu có, giá có thể gấp 3–4 lần).
+
+   Kaufman khuyên dùng ba cách đầu làm điểm xuất phát rồi định giá theo cách thứ tư. Để khách chấp nhận giá, người bán dùng bán hàng dựa trên giá trị (hỏi và lắng nghe theo bốn bước của Rackham: tình hình, vấn đề, hệ quả, nhu cầu và lợi ích, để làm rõ giá trị với khách; dịch vụ tạo thêm 100 triệu USD doanh thu thì giá 10 triệu USD là hợp lý dù chi phí cung cấp chỉ 100 USD) và bán hàng bằng giáo dục khách hàng (như Kelsey giải thích về vải, ren, cách may để cô dâu hiểu vì sao váy 6.000 USD đáng giá).
+
+3. **Làm sao đàm phán tốt và giúp khách vượt qua do dự?** Về đàm phán: biết phương án thay thế tốt nhất kế tiếp của mình (càng nhiều phương án tốt, càng dám bỏ thoả thuận xấu, càng có sức mạnh) và của bên kia (để thiết kế đề nghị hấp dẫn hơn); dùng cả ba đồng tiền trao đổi (nguồn lực, thời gian, sự linh hoạt) để mở rộng số phương án; chuẩn bị cả ba khía cạnh (chuẩn bị và lập kế hoạch, cấu trúc đề nghị, trình bày và lập luận); dùng người trung gian khi phần được của bên này là phần mất của bên kia, nhưng phải hiểu họ được trả tiền thế nào và không giao hết quyền quyết định.
+
+   Về giúp khách mua: cho trước một giá trị thật để kích hoạt tâm lý có đi có lại; chủ động thừa nhận khuyết điểm; xử lý sẵn năm phản đối thường gặp (đắt quá; không hiệu quả; không hiệu quả với tôi; tôi đợi được; khó quá với tôi); đảo ngược rủi ro bằng bảo đảm hoàn tiền và dùng thử dài; và sau cùng, liên lạc lại khách cũ mỗi 3–6 tháng với một đề nghị mới.
 
 ## Khái niệm cần biết
 
@@ -835,9 +850,13 @@ Giả sử người đọc muốn bán căn nhà của mình. Theo nguyên lý g
 
 2. **Giá thị trường.** Câu hỏi: những thứ tương tự đang bán với giá bao nhiêu? Với căn nhà: gần đây các căn tương tự trong khu vực bán được bao nhiêu? Trong năm qua có lẽ đã có những căn gần giống được bán trong khu vực. Chúng không giống hệt (có thể hơn một phòng ngủ hay phòng tắm, kém vài mét vuông…), nhưng rất gần. Sau khi tính tới các khác biệt, có thể dựa vào giá bán của những căn đó để định giá căn nhà của mình. Định giá theo thị trường là cách rất phổ biến: tìm một đề nghị tương tự và đặt giá gần với giá người khác đang đòi.
 
-3. **Chiết khấu dòng tiền (DCF) / giá trị hiện tại ròng (VAN, tiếng Anh NPV).** Câu hỏi: một thứ tạo ra tiền theo thời gian thì đáng giá bao nhiêu? Với căn nhà: nếu cho thuê trong một khoảng thời gian thì mỗi tháng thu được bao nhiêu, và hôm nay dòng tiền đó đáng giá bao nhiêu nếu quy về một khoản trả một lần? Tiền thuê trả theo tháng, nên rất tiện để dùng công thức DCF/VAN quy cả chuỗi thanh toán trong một thời kỳ về một khoản duy nhất. Kaufman nêu giả định: cho thuê 2.000 USD/tháng trong 10 năm, tỷ lệ lấp đầy 95%, và có thể kiếm 7% lãi trên số tiền nếu chọn phương án tốt nhất kế tiếp; tính giá trị hiện tại ròng với các giả định này sẽ cho một ước tính sát giá trị căn nhà. Phương pháp này chỉ dùng cho những thứ tạo ra tiền liên tục, nên là tiêu chí phổ biến nhất khi định giá công ty để mua bán: công ty tạo ra càng nhiều lợi nhuận mỗi tháng, càng có giá trị với người mua.
+3. **Chiết khấu dòng tiền (DCF) / giá trị hiện tại ròng (VAN, tiếng Anh NPV).** Câu hỏi: một thứ tạo ra tiền theo thời gian thì đáng giá bao nhiêu? Với căn nhà: nếu cho thuê trong một khoảng thời gian thì mỗi tháng thu được bao nhiêu, và hôm nay dòng tiền đó đáng giá bao nhiêu nếu quy về một khoản trả một lần? Tiền thuê trả theo tháng, nên rất tiện để dùng công thức DCF/VAN quy cả chuỗi thanh toán trong một thời kỳ về một khoản duy nhất.
 
-4. **Giá trị so sánh.** Câu hỏi: thứ này có giá trị đặc biệt với ai? Với căn nhà: những đặc điểm nào của căn nhà sẽ có giá trị với một nhóm người cụ thể? Giả sử căn nhà ở một khu đẹp, an toàn, gần một trường công chất lượng cao. Những đặc điểm này làm căn nhà có giá trị hơn với các gia đình có con đang tuổi đi học, nhất là nếu họ muốn cho con vào trường đó; với những người mua này, căn nhà có giá trị hơn so với khi nó nằm ở khu có trường kém uy tín. Giả sử Elvis Presley từng sở hữu căn nhà. Với một nhóm người cụ thể, những người rất giàu và mê Elvis, căn nhà có giá trị rất lớn; mối liên hệ với Elvis có thể dễ dàng làm giá tăng gấp ba, gấp bốn so với mức có thể giữ được nếu dựa trên chi phí thay thế, giá thị trường hay chiết khấu dòng tiền. Xét các đặc điểm độc nhất của đề nghị và giá trị của chúng với những người cụ thể, người bán có thể đặt giá cao hơn nhiều.
+   Kaufman nêu giả định: cho thuê 2.000 USD/tháng trong 10 năm, tỷ lệ lấp đầy 95%, và có thể kiếm 7% lãi trên số tiền nếu chọn phương án tốt nhất kế tiếp; tính giá trị hiện tại ròng với các giả định này sẽ cho một ước tính sát giá trị căn nhà. Phương pháp này chỉ dùng cho những thứ tạo ra tiền liên tục, nên là tiêu chí phổ biến nhất khi định giá công ty để mua bán: công ty tạo ra càng nhiều lợi nhuận mỗi tháng, càng có giá trị với người mua.
+
+4. **Giá trị so sánh.** Câu hỏi: thứ này có giá trị đặc biệt với ai? Với căn nhà: những đặc điểm nào của căn nhà sẽ có giá trị với một nhóm người cụ thể? Giả sử căn nhà ở một khu đẹp, an toàn, gần một trường công chất lượng cao. Những đặc điểm này làm căn nhà có giá trị hơn với các gia đình có con đang tuổi đi học, nhất là nếu họ muốn cho con vào trường đó; với những người mua này, căn nhà có giá trị hơn so với khi nó nằm ở khu có trường kém uy tín.
+
+   Giả sử Elvis Presley từng sở hữu căn nhà. Với một nhóm người cụ thể, những người rất giàu và mê Elvis, căn nhà có giá trị rất lớn; mối liên hệ với Elvis có thể dễ dàng làm giá tăng gấp ba, gấp bốn so với mức có thể giữ được nếu dựa trên chi phí thay thế, giá thị trường hay chiết khấu dòng tiền. Xét các đặc điểm độc nhất của đề nghị và giá trị của chúng với những người cụ thể, người bán có thể đặt giá cao hơn nhiều.
 
 Phép tính minh hoạ cho phương pháp 3 (người tổng hợp tự làm từ giả định của sách; sách không đưa kết quả):
 
@@ -858,7 +877,9 @@ Kaufman kết luận: lý tưởng nhất là định giá theo giá trị so s�
 
 Đề từ của Warren Buffett: giá là cái anh trả, giá trị là cái anh nhận được.
 
-Hình dung người đọc cung cấp một dịch vụ liên tục cho một tập đoàn trong danh sách Fortune 50, giúp họ tăng doanh thu hằng năm khoảng 100 triệu USD. Dịch vụ đó có đáng 10 triệu USD mỗi năm không? Tất nhiên: công ty nào lại từ bỏ 90 triệu USD doanh thu? Việc dịch vụ giá trị này gần như không tốn tiền để cung cấp có quan trọng không? Hoàn toàn không, kể cả nếu nó chỉ tốn 100 USD mỗi năm, vì đề nghị có giá trị rất lớn và điều đó biện minh cho mức giá tương ứng. Việc một công ty khác có dịch vụ tương tự giá khoảng 10.000 USD có quan trọng không? Cũng không: người bán đang đưa ra giá trị lớn hơn nhiều so với các dịch vụ khác trên thị trường, và điều đó biện minh cho giá cao hơn.
+Hình dung người đọc cung cấp một dịch vụ liên tục cho một tập đoàn trong danh sách Fortune 50, giúp họ tăng doanh thu hằng năm khoảng 100 triệu USD. Dịch vụ đó có đáng 10 triệu USD mỗi năm không? Tất nhiên: công ty nào lại từ bỏ 90 triệu USD doanh thu? Việc dịch vụ giá trị này gần như không tốn tiền để cung cấp có quan trọng không? Hoàn toàn không, kể cả nếu nó chỉ tốn 100 USD mỗi năm, vì đề nghị có giá trị rất lớn và điều đó biện minh cho mức giá tương ứng.
+
+Việc một công ty khác có dịch vụ tương tự giá khoảng 10.000 USD có quan trọng không? Cũng không: người bán đang đưa ra giá trị lớn hơn nhiều so với các dịch vụ khác trên thị trường, và điều đó biện minh cho giá cao hơn.
 
 | Hạng mục | Số tiền mỗi năm |
 |---|---|
@@ -880,9 +901,13 @@ Khuyến khích khách nói ra nhu cầu mang lại hai lợi ích cùng lúc. T
 
 Đề từ của Kathy Sierra, tác giả và đồng biên tập bộ sách *Head First*: hãy nâng cấp người dùng thay vì nâng cấp sản phẩm; giá trị không nằm ở bản thân món đồ mà ở những gì món đồ cho phép làm; đừng làm máy ảnh tốt hơn, hãy làm ra những người chụp ảnh giỏi hơn.
 
-Trước khi hai vợ chồng chuyển tới Colorado, Kelsey, vợ Kaufman, là giám đốc bán hàng của Mark Ingram Bridal Atelier ở New York, hãng váy cưới cao cấp có uy tín quốc tế hàng đầu. Công việc của cô là giúp các cô dâu khắp thế giới tìm "chiếc váy định mệnh" cho một đám cưới trong mơ. Kaufman ví Mark Ingram như Martha Stewart của ngành cưới hỏi; con mắt định hình phong cách của ông nổi tiếng. Bộ sưu tập của tiệm gồm váy của Oscar de la Renta, Monique Lhuillier, Lela Rose và Vera Wang. Nhân viên tư vấn của Mark giàu kinh nghiệm tới mức cô dâu thường chọn một trong ba chiếc váy đầu tiên được đưa ra. Kinh nghiệm mua hàng và chăm sóc khách của hãng cũng rất tốt. Mark không giảm giá, vậy mà cô dâu vẫn thích tới đó hơn tới đối thủ, dù đắt hơn.
+Trước khi hai vợ chồng chuyển tới Colorado, Kelsey, vợ Kaufman, là giám đốc bán hàng của Mark Ingram Bridal Atelier ở New York, hãng váy cưới cao cấp có uy tín quốc tế hàng đầu. Công việc của cô là giúp các cô dâu khắp thế giới tìm "chiếc váy định mệnh" cho một đám cưới trong mơ. Kaufman ví Mark Ingram như Martha Stewart của ngành cưới hỏi; con mắt định hình phong cách của ông nổi tiếng.
 
-So với phần lớn tiệm váy cưới, Mark Ingram bán váy cao cấp: giá trung bình một chiếc váy là 6.000 USD, gấp bốn lần mức trung bình cả nước. Để bán được, nhân viên phải giúp cô dâu (và cha mẹ cô, thường là người trả tiền) hiểu vì sao chiếc váy đáng giá ấy. Tất nhiên có thể tìm được váy rẻ hơn ở tiệm khác, nhưng những chiếc váy đó đã bị cắt giảm: vải kém hơn, bớt công đoạn may, đính cườm và ren làm bằng máy. Ngoài ra váy cần được chỉnh sửa để vừa khít với cô dâu; đội thợ may làm váy cho Mark là giỏi nhất thế giới, và chỉ người mua váy ở tiệm mới được họ phục vụ. Nếu cô dâu quan tâm tới những điều đó (và đa số cô dâu theo đuổi thời trang đều quan tâm), thì dễ hiểu rằng nếu đủ khả năng, mua váy ở tiệm Mark là đáng.
+Bộ sưu tập của tiệm gồm váy của Oscar de la Renta, Monique Lhuillier, Lela Rose và Vera Wang. Nhân viên tư vấn của Mark giàu kinh nghiệm tới mức cô dâu thường chọn một trong ba chiếc váy đầu tiên được đưa ra. Kinh nghiệm mua hàng và chăm sóc khách của hãng cũng rất tốt. Mark không giảm giá, vậy mà cô dâu vẫn thích tới đó hơn tới đối thủ, dù đắt hơn.
+
+So với phần lớn tiệm váy cưới, Mark Ingram bán váy cao cấp: giá trung bình một chiếc váy là 6.000 USD, gấp bốn lần mức trung bình cả nước. Để bán được, nhân viên phải giúp cô dâu (và cha mẹ cô, thường là người trả tiền) hiểu vì sao chiếc váy đáng giá ấy.
+
+Tất nhiên có thể tìm được váy rẻ hơn ở tiệm khác, nhưng những chiếc váy đó đã bị cắt giảm: vải kém hơn, bớt công đoạn may, đính cườm và ren làm bằng máy. Ngoài ra váy cần được chỉnh sửa để vừa khít với cô dâu; đội thợ may làm váy cho Mark là giỏi nhất thế giới, và chỉ người mua váy ở tiệm mới được họ phục vụ. Nếu cô dâu quan tâm tới những điều đó (và đa số cô dâu theo đuổi thời trang đều quan tâm), thì dễ hiểu rằng nếu đủ khả năng, mua váy ở tiệm Mark là đáng.
 
 Bán hàng bằng giáo dục khách hàng là đi theo những bước giúp khách được cung cấp thông tin đầy đủ. Với tư cách tư vấn bán hàng, Kelsey làm việc với hai mục tiêu: (1) làm cô dâu thấy thoải mái, thư thái hơn; (2) giúp cô dâu hiểu một chiếc váy cưới có nghĩa là gì, bằng cách giải thích chi tiết về cách may và chỉ rõ cần tìm gì khi mua. Thay vì ép cô dâu chốt, Kelsey luôn dành thời gian giải thích cho cô dâu và gia đình mọi chi tiết về vải, ren, ngọc trai, cách may và việc chỉnh sửa. Cô đầu tư thời gian để cô dâu hiểu chuyện. Nhờ vậy cô dâu dễ mua những chiếc váy đắt tiền hơn, vì họ học được cách trân trọng chất lượng sản phẩm và Kelsey đã có được niềm tin của họ.
 
@@ -958,7 +983,9 @@ Trong mọi cuộc đàm phán, trừ những trường hợp đặc biệt, đi
 
 Người trung gian là bên thứ ba được uỷ quyền đàm phán thay mình. Người đại diện, luật sư, hoà giải viên, môi giới chứng khoán, kế toán và các chuyên gia tương tự là những người trung gian giúp hai bên đạt thoả thuận. Người trung gian có kinh nghiệm, chuyên về các loại đàm phán khác nhau, là nguồn lực quý để có hợp đồng tốt nhất. Thuê một người trung gian trung thực, có năng lực, người ta tránh phải tự tìm hiểu những lĩnh vực khó hiểu như trách nhiệm dân sự ngoài hợp đồng hay chính sách thuế.
 
-Khi một vận động viên chuyên nghiệp đàm phán hợp đồng gia nhập một đội, họ thường thuê một người đại diện và một luật sư. Việc của người đại diện là đòi mức đãi ngộ cao nhất có thể cho vận động viên, và giám đốc lẫn chủ đội đều biết điều đó. Vì vậy dù người đại diện chơi rắn, đội vẫn muốn ký với cầu thủ. Cuối cùng, dù phải trả phí cho người đại diện, tổng đãi ngộ của vận động viên vẫn cao hơn. Luật sư cũng vậy: luật sư có thể tranh luận nên thêm hay bỏ điều khoản nào trong hợp đồng, và làm việc đó quyết liệt, hiệu quả hơn nhờ hiểu biết, sự chuyên nghiệp và kinh nghiệm. Cùng với người đại diện, luật sư làm việc với chủ đội và giám đốc, bảo đảm vận động viên có hợp đồng tốt nhất mà đội chấp nhận, mà không làm tổn hại uy tín và thiện chí của chính vận động viên.
+Khi một vận động viên chuyên nghiệp đàm phán hợp đồng gia nhập một đội, họ thường thuê một người đại diện và một luật sư. Việc của người đại diện là đòi mức đãi ngộ cao nhất có thể cho vận động viên, và giám đốc lẫn chủ đội đều biết điều đó. Vì vậy dù người đại diện chơi rắn, đội vẫn muốn ký với cầu thủ. Cuối cùng, dù phải trả phí cho người đại diện, tổng đãi ngộ của vận động viên vẫn cao hơn.
+
+Luật sư cũng vậy: luật sư có thể tranh luận nên thêm hay bỏ điều khoản nào trong hợp đồng, và làm việc đó quyết liệt, hiệu quả hơn nhờ hiểu biết, sự chuyên nghiệp và kinh nghiệm. Cùng với người đại diện, luật sư làm việc với chủ đội và giám đốc, bảo đảm vận động viên có hợp đồng tốt nhất mà đội chấp nhận, mà không làm tổn hại uy tín và thiện chí của chính vận động viên.
 
 Người trung gian còn có ích vì giúp kéo dài thời gian hay giữ khoảng cách trong những cuộc đàm phán phức tạp. Nhiều khi không nắm lời quyết định cuối cùng lại tốt hơn. Nói được câu "tôi cần bàn việc này với người đại diện, kế toán hay luật sư của tôi" trước khi duyệt lần cuối là hành động khôn khéo, tránh quyết định vội vàng hay thiếu sáng suốt.
 
@@ -976,7 +1003,11 @@ Có đi có lại là mong muốn mạnh mẽ mà nhiều người cảm thấy,
 
 Là một lực xã hội, có đi có lại là một trong những xu hướng tâm lý nền tảng nằm dưới mọi sự hợp tác của con người. Phản xạ bản năng "anh gãi lưng cho tôi thì tôi gãi lưng cho anh" rất mạnh và tạo ra tình bạn, liên minh. Trong lịch sử, một trong những cách người có quyền lực (khái niệm sẽ bàn ở chương 9) giữ quyền là tặng quà. Bằng cách tổ chức những bữa tiệc linh đình hay hào phóng ban tước vị và đất đai, các nhà cai trị tăng ảnh hưởng và tích luỹ rất nhiều ơn nghĩa mà họ có thể đòi lại khi thời thế đòi hỏi.
 
-Mặt xấu là mong muốn đáp lại không nhất thiết tương xứng với lợi ích ban đầu. Trong *Influence* (bản TBN: *Influir en los demás*), Robert Cialdini kể một ví dụ về có đi có lại ở các đại lý ô tô. Người bán thường mời khách một món quà nhỏ ngay từ đầu: "Tôi mời anh chị ly cà phê nhé? Anh chị dùng nước có ga, nước lọc, bánh quy không? Cứ tự nhiên như ở nhà." Trông như một cử chỉ hiếu khách bình thường, nhưng không phải vậy. Nhận lời mời đơn giản này tạo ra nhu cầu tâm lý muốn đáp lại, và lặng lẽ nghiêng cán cân về phía người bán. Những khách nhận lời có xu hướng mua xe, mua thêm phụ kiện tuỳ chọn và chấp nhận điều khoản tài chính kém hấp dẫn hơn. Kết quả là họ chi nhiều hơn hàng nghìn USD so với những khách không nhận gì từ người bán trong lúc đàm phán. Điều này có vẻ phi lý, vì ly cà phê hay chiếc bánh quy gần như không tốn gì của người bán, nhưng có đi có lại làm tăng khả năng người mua đáp lại bằng cách nhượng bộ nhiều hơn mức nên làm.
+Mặt xấu là mong muốn đáp lại không nhất thiết tương xứng với lợi ích ban đầu. Trong *Influence* (bản TBN: *Influir en los demás*), Robert Cialdini kể một ví dụ về có đi có lại ở các đại lý ô tô. Người bán thường mời khách một món quà nhỏ ngay từ đầu: "Tôi mời anh chị ly cà phê nhé? Anh chị dùng nước có ga, nước lọc, bánh quy không? Cứ tự nhiên như ở nhà."
+
+Trông như một cử chỉ hiếu khách bình thường, nhưng không phải vậy. Nhận lời mời đơn giản này tạo ra nhu cầu tâm lý muốn đáp lại, và lặng lẽ nghiêng cán cân về phía người bán. Những khách nhận lời có xu hướng mua xe, mua thêm phụ kiện tuỳ chọn và chấp nhận điều khoản tài chính kém hấp dẫn hơn.
+
+Kết quả là họ chi nhiều hơn hàng nghìn USD so với những khách không nhận gì từ người bán trong lúc đàm phán. Điều này có vẻ phi lý, vì ly cà phê hay chiếc bánh quy gần như không tốn gì của người bán, nhưng có đi có lại làm tăng khả năng người mua đáp lại bằng cách nhượng bộ nhiều hơn mức nên làm.
 
 Bài học Kaufman rút ra cho người bán: nếu đưa trước một giá trị thật, người khác sẽ dễ đón nhận hơn khi tới lúc thuyết phục họ bằng lập luận. Đưa ra "miễn phí" một thứ có giá trị làm tăng vốn xã hội và tăng khả năng khách đáp lại, đem lại lợi nhuận khi người bán đưa ra đề nghị vào đúng lúc. Hào phóng là điều tốt nhất người bán có thể làm để cải thiện kết quả bán hàng: khi trao giá trị và giúp người khác hết mức có thể, người ta tôn trọng mình, mình tạo được danh tiếng, và khả năng họ quan tâm tới đề nghị khi mình thật sự kêu gọi hành động sẽ tăng lên.
 
@@ -1034,7 +1065,9 @@ Ví dụ là thị trường giường nệm. Nhìn quanh sẽ thấy rất nhi�
 
 Chiến lược này thường được gọi là "mang chú chó con về nhà". Nếu vào cửa hàng thú cưng, thấy một chú chó con đáng yêu nhưng không chắc mình đã sẵn sàng chăm nó, cửa hàng sẽ bảo cứ mang về nhà thử một thời gian. "Nếu không ổn, anh chị luôn có thể mang trả lại," người bán cam đoan. Dĩ nhiên chú chó con hiếm khi quay lại cửa hàng; nhưng không có bảo đảm đó, có lẽ nó đã không bao giờ về nhà khách.
 
-Áp dụng đảo ngược rủi ro thấy khó chịu là tự nhiên, vì người bán cũng ghét mất mát. Không người bán nào thích cảm giác bị lợi dụng, và điều đó hay xảy ra khi một khách tận dụng đề nghị rồi đòi lại tiền. Khác biệt là người mua mua từ một người bán, còn người bán bán cho nhiều người mua. Khách chịu rủi ro này trong mỗi lần mua, và với họ điều đó quan trọng. Ngược lại, vì người bán phục vụ nhiều khách, rủi ro trả hàng được chia đều cho tất cả. Đúng là người bán mất tiền khi có khách lợi dụng sự hào phóng, và điều đó khiến ai cũng bực. Đổi lại, nếu xoá được cảm nhận rủi ro mà mọi người mua đều có, người bán sẽ bán được nhiều hơn hẳn và có lợi xét theo tổng doanh thu và lợi nhuận.
+Áp dụng đảo ngược rủi ro thấy khó chịu là tự nhiên, vì người bán cũng ghét mất mát. Không người bán nào thích cảm giác bị lợi dụng, và điều đó hay xảy ra khi một khách tận dụng đề nghị rồi đòi lại tiền.
+
+Khác biệt là người mua mua từ một người bán, còn người bán bán cho nhiều người mua. Khách chịu rủi ro này trong mỗi lần mua, và với họ điều đó quan trọng. Ngược lại, vì người bán phục vụ nhiều khách, rủi ro trả hàng được chia đều cho tất cả. Đúng là người bán mất tiền khi có khách lợi dụng sự hào phóng, và điều đó khiến ai cũng bực. Đổi lại, nếu xoá được cảm nhận rủi ro mà mọi người mua đều có, người bán sẽ bán được nhiều hơn hẳn và có lợi xét theo tổng doanh thu và lợi nhuận.
 
 Lời khuyên của Kaufman: muốn tăng doanh số, hãy đưa ra một bảo đảm đảo ngược rủi ro thật vững và kéo dài thời gian dùng thử hết mức có thể. Nếu chưa có chính sách đảo ngược rủi ro, hãy thiết kế một chính sách và sẽ thấy doanh số tăng.
 
@@ -1054,7 +1087,13 @@ Kích hoạt lại đơn giản hơn nhiều nếu có sự cho phép của khá
 
 Phần lớn hệ thống điểm bán hàng (POS; bản TBN viết SPV) lưu dữ liệu khách và ngày mua. Vì vậy khá dễ lấy ra danh sách những khách đã lâu không mua và gửi thẳng cho họ một đề nghị kích hoạt lại qua email, điện thoại hay thư bưu điện. Kaufman cho rằng các chiến dịch kích hoạt lại chắc chắn là hoạt động marketing dễ làm và đem lại kết quả tốt nhất. Ông khuyên hãy ưu tiên liên lạc với khách cũ mỗi ba đến sáu tháng, đưa ra một đề nghị mới khuyến khích họ mua lại, và nói người đọc sẽ ngạc nhiên với kết quả.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, số liệu giả định). Một trung tâm dạy tiếng Anh nhỏ muốn bán khoá học 12 tuần giá 9 triệu đồng. Trước hết trung tâm kiểm tra điểm chung: phụ huynh muốn con đạt chứng chỉ trước kỳ tuyển sinh, trung tâm muốn có học viên ổn định. Về giá, chi phí giáo viên và phòng học mỗi học viên khoảng 5 triệu (chi phí thay thế), các trung tâm cùng khu thu 7–10 triệu (giá thị trường), nhưng với nhóm phụ huynh có con thi vào một trường chuyên cụ thể, khoá học bám sát đề thi của trường đó có giá trị cao hơn nhiều (giá trị so sánh), nên trung tâm định giá 12 triệu cho lớp luyện thi riêng. Ở buổi tư vấn, nhân viên hỏi về trình độ hiện tại, điểm yếu, hậu quả nếu trượt, và mục tiêu điểm cụ thể (bán hàng dựa trên giá trị), rồi cho phụ huynh xem cách chấm bài viết và một bài làm mẫu đã sửa (bán hàng bằng giáo dục khách hàng). Trung tâm tặng một buổi kiểm tra trình độ miễn phí có nhận xét chi tiết (có đi có lại), nói thẳng rằng lớp có bài tập về nhà nhiều và không hợp với học sinh không có thời gian (thừa nhận khuyết điểm), và cam kết hoàn 50% học phí nếu sau 4 tuần phụ huynh không hài lòng (đảo ngược rủi ro). Với phản đối "để sau Tết rồi tính", nhân viên chỉ ra số tuần còn lại trước kỳ thi (rào cản "tôi có thể đợi"). Cuối năm, trung tâm lọc từ phần mềm quản lý những học viên đã học xong mà chưa đăng ký khoá tiếp và gửi tin nhắn mời học khoá nâng cao với ưu đãi cho học viên cũ (kích hoạt lại khách hàng cũ).
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, số liệu giả định). Một trung tâm dạy tiếng Anh nhỏ muốn bán khoá học 12 tuần giá 9 triệu đồng. Trước hết trung tâm kiểm tra điểm chung: phụ huynh muốn con đạt chứng chỉ trước kỳ tuyển sinh, trung tâm muốn có học viên ổn định.
+
+Về giá, chi phí giáo viên và phòng học mỗi học viên khoảng 5 triệu (chi phí thay thế), các trung tâm cùng khu thu 7–10 triệu (giá thị trường), nhưng với nhóm phụ huynh có con thi vào một trường chuyên cụ thể, khoá học bám sát đề thi của trường đó có giá trị cao hơn nhiều (giá trị so sánh), nên trung tâm định giá 12 triệu cho lớp luyện thi riêng.
+
+Ở buổi tư vấn, nhân viên hỏi về trình độ hiện tại, điểm yếu, hậu quả nếu trượt, và mục tiêu điểm cụ thể (bán hàng dựa trên giá trị), rồi cho phụ huynh xem cách chấm bài viết và một bài làm mẫu đã sửa (bán hàng bằng giáo dục khách hàng). Trung tâm tặng một buổi kiểm tra trình độ miễn phí có nhận xét chi tiết (có đi có lại), nói thẳng rằng lớp có bài tập về nhà nhiều và không hợp với học sinh không có thời gian (thừa nhận khuyết điểm), và cam kết hoàn 50% học phí nếu sau 4 tuần phụ huynh không hài lòng (đảo ngược rủi ro).
+
+Với phản đối "để sau Tết rồi tính", nhân viên chỉ ra số tuần còn lại trước kỳ thi (rào cản "tôi có thể đợi"). Cuối năm, trung tâm lọc từ phần mềm quản lý những học viên đã học xong mà chưa đăng ký khoá tiếp và gửi tin nhắn mời học khoá nâng cao với ưu đãi cho học viên cũ (kích hoạt lại khách hàng cũ).
 
 ## Luận điểm cốt lõi
 
@@ -1202,7 +1241,9 @@ Phần lớn sách bán hàng phổ thông tập trung vào kỹ thuật chốt 
 
 ### Mục bốn phương pháp định giá hữu ích nhưng đơn giản hoá việc định giá theo giá trị
 
-Ví dụ căn nhà làm bốn phương pháp dễ hiểu, và lời khuyên "định giá theo giá trị với nhóm người mua nhắm tới" là đúng hướng. Nhưng chương bỏ qua vài điều quan trọng: giá trị so sánh chỉ giữ được khi không có đối thủ đưa ra cùng giá trị với giá thấp hơn (dịch vụ 10 triệu USD trong ví dụ Fortune 50 sẽ khó giữ giá nếu đối thủ 10.000 USD thật sự làm được việc tương tự); định giá theo phân khúc cần cách ngăn khách ở phân khúc giá cao mua với giá thấp; và chương không nói gì về độ co giãn của cầu theo giá, tức việc giá cao hơn làm mất bao nhiêu khách. Ví dụ DCF cũng chỉ nêu giả định mà không tính, và không nhắc tới giá trị còn lại của căn nhà sau 10 năm, vốn thường là phần lớn giá trị.
+Ví dụ căn nhà làm bốn phương pháp dễ hiểu, và lời khuyên "định giá theo giá trị với nhóm người mua nhắm tới" là đúng hướng. Nhưng chương bỏ qua vài điều quan trọng: giá trị so sánh chỉ giữ được khi không có đối thủ đưa ra cùng giá trị với giá thấp hơn (dịch vụ 10 triệu USD trong ví dụ Fortune 50 sẽ khó giữ giá nếu đối thủ 10.000 USD thật sự làm được việc tương tự); định giá theo phân khúc cần cách ngăn khách ở phân khúc giá cao mua với giá thấp; và chương không nói gì về độ co giãn của cầu theo giá, tức việc giá cao hơn làm mất bao nhiêu khách.
+
+Ví dụ DCF cũng chỉ nêu giả định mà không tính, và không nhắc tới giá trị còn lại của căn nhà sau 10 năm, vốn thường là phần lớn giá trị.
 
 ### Kỹ thuật có đi có lại được trình bày từ phía người bán, ít cảnh báo đạo đức
 
@@ -1214,7 +1255,9 @@ Ghi chú rằng môi giới ăn hoa hồng chỉ có lợi khi chốt, nên mu�
 
 ### Từ 2010, nhiều mô hình của chương đã thành chuẩn của ngành, và một số ví dụ đã lỗi thời
 
-Đảo ngược rủi ro (dùng thử miễn phí, hoàn tiền không hỏi lý do) và kích hoạt lại khách cũ (email tự động mời quay lại) đã trở thành mặc định của các mô hình kinh doanh thuê bao và thương mại điện tử; các công ty nệm bán trực tuyến cho ngủ thử hàng trăm đêm là phiên bản đẩy tới cực điểm của ví dụ trong sách. Bằng chứng xã hội nay chủ yếu là đánh giá và xếp hạng sao trên nền tảng, thay cho nghiên cứu tình huống in sẵn. Ví dụ Netflix gửi bưu thiếp thuộc thời kỳ Netflix còn cho thuê đĩa qua bưu điện. Đồng thời, các quy định về bảo vệ dữ liệu cá nhân ở nhiều nước đã làm điều kiện "được khách cho phép liên lạc" mà Kaufman nhắc tới trở thành bắt buộc về mặt pháp lý, không chỉ là một lời khuyên.
+Đảo ngược rủi ro (dùng thử miễn phí, hoàn tiền không hỏi lý do) và kích hoạt lại khách cũ (email tự động mời quay lại) đã trở thành mặc định của các mô hình kinh doanh thuê bao và thương mại điện tử; các công ty nệm bán trực tuyến cho ngủ thử hàng trăm đêm là phiên bản đẩy tới cực điểm của ví dụ trong sách. Bằng chứng xã hội nay chủ yếu là đánh giá và xếp hạng sao trên nền tảng, thay cho nghiên cứu tình huống in sẵn.
+
+Ví dụ Netflix gửi bưu thiếp thuộc thời kỳ Netflix còn cho thuê đĩa qua bưu điện. Đồng thời, các quy định về bảo vệ dữ liệu cá nhân ở nhiều nước đã làm điều kiện "được khách cho phép liên lạc" mà Kaufman nhắc tới trở thành bắt buộc về mặt pháp lý, không chỉ là một lời khuyên.
 
 ### Một quan điểm trái chiều: không phải giao dịch nào cũng nên tách thành từng lần đàm phán
 
@@ -1226,3 +1269,188 @@ Chương coi mỗi lần bán như một cuộc đàm phán riêng, tìm phươn
 - **Trong nghề nghiệp.** Khi đàm phán lương, hãy có ít nhất một lời mời khác (phương án thay thế), tìm hiểu ngân sách và người có quyền quyết, và nhớ có thể đổi bằng thời gian hay linh hoạt (làm việc từ xa, ngày nghỉ, quyền làm dự án riêng) khi lương đã chạm trần. Khi xin việc, thừa nhận trước một điểm yếu nhỏ và cách mình khắc phục thường làm phần còn lại của hồ sơ đáng tin hơn.
 - **Khi khởi nghiệp hoặc kinh doanh nhỏ.** Tìm cách có giao dịch có lời đầu tiên thật sớm thay vì hoàn thiện sản phẩm mãi. Dùng bán hàng bằng giáo dục khách hàng nếu sản phẩm thật sự tốt hơn nhưng đắt hơn (giải thích nguyên liệu, quy trình); đưa ra bảo đảm đổi trả rõ ràng; xin phép khách lưu số điện thoại hay tài khoản mạng xã hội để liên lạc lại.
 - **Ở Việt Nam.** Thiếu niềm tin là rào cản lớn của mua bán trực tuyến; các hình thức như thanh toán khi nhận hàng, cho kiểm hàng trước khi trả tiền, sàn thương mại điện tử giữ tiền cho tới khi người mua xác nhận đã nhận hàng, chính là các công cụ "ký quỹ" và "đảo ngược rủi ro" mà Kaufman mô tả. Khi mua nhà đất hay bảo hiểm qua môi giới hoặc tư vấn viên ăn hoa hồng, hãy nhớ lời khuyên của mục người trung gian: hỏi rõ họ được trả thế nào, và không để họ quyết thay mình. Với thói quen tặng quà, mời cà phê trong giao dịch, người mua nên ý thức rằng cảm giác "nợ" người bán có thể khiến mình nhượng bộ nhiều hơn mức hợp lý.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương trên một trang: năm nhánh lớn theo các mục 0–16 của phần Nội dung chi tiết (nền tảng của giao dịch, định giá, biện minh giá, đàm phán, kỹ thuật giúp khách mua và kích hoạt lại), mỗi nhánh ghi mô hình kèm định nghĩa, ví dụ và con số của Kaufman; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: Bán hàng là giúp khách tin đề nghị đáng với số tiền họ trả, không phải ép họ mua`"]
+  n1["`Mục 0–3 — Bán hàng cần giao dịch, niềm tin hai chiều và điểm chung`"]
+  n0 --- n1
+  n2["`Bán hàng là điểm duy nhất trong chu trình kinh doanh mà tiền chảy vào doanh nghiệp`"]
+  n1 --- n2
+  n3["`Giao dịch: trao đổi giá trị giữa hai bên, sau đó cả hai đều khá hơn`"]
+  n1 --- n3
+  n4["`Kiểm chứng đề nghị tối thiểu khả thi về kinh tế trước khi đổ tiền tiết kiệm vào sản xuất`"]
+  n3 --- n4
+  n5["`Giao dịch có lời đầu tiên biến dự án thành doanh nghiệp: đạt càng sớm càng tốt`"]
+  n3 --- n5
+  n6["`Niềm tin: biệt thự Amalfi trả trước 100.000 USD, 10 năm sau mới giao, người tỉnh táo sẽ từ chối`"]
+  n1 --- n6
+  n7["`Người bán cũng không nên khởi công trước khi chắc người mua trả được tiền`"]
+  n6 --- n7
+  n8["`Danh tiếng, Better Business Bureau, kiểm tra tín dụng, tài khoản ký quỹ giúp vượt sự thiếu tin`"]
+  n6 --- n8
+  n9["`Điểm chung: chỗ vòng tròn lựa chọn của người bán và của khách chồng lên nhau`"]
+  n1 --- n9
+  n10["`Không ai trả nhiều hơn cho thứ chỉ có giá trị với người bán`"]
+  n9 --- n10
+  n11["`Đàm phán là xem xét nhiều phương án để tìm điểm chung`"]
+  n9 --- n11
+  n12["`Mục 4–5 — Giá do người bán đặt, nên phải biện minh được`"]
+  n0 --- n12
+  n13["`Nguyên lý giá bất định: mọi mức giá đều tuỳ ý và thay đổi được`"]
+  n12 --- n13
+  n14["`Hòn sỏi có thể rao 350 triệu USD#59; kim cương Hope 45,5 carat có thể rao 1 tỷ USD`"]
+  n13 --- n14
+  n15["`Đấu giá tìm giá thật của đồ hiếm: Cullinan Heritage 507,5 carat bán 35,3 triệu USD`"]
+  n13 --- n15
+  n16["`Ngoại lệ người mua muốn trả cao: phát tín hiệu xã hội`"]
+  n13 --- n16
+  n17["`Bốn phương pháp định giá, minh hoạ bằng việc bán căn nhà`"]
+  n12 --- n17
+  n18["`Chi phí thay thế: làm lại cái giống hệt tốn bao nhiêu, cộng thêm lời`"]
+  n17 --- n18
+  n19["`Giá thị trường: các nhà tương tự trong khu năm qua, điều chỉnh theo khác biệt`"]
+  n17 --- n19
+  n20["`DCF/VAN: thuê 2.000 USD/tháng, 10 năm, lấp đầy 95%, lãi 7% → khoảng 163.600 USD (tính của người tổng hợp)`"]
+  n17 --- n20
+  n21["`Giá trị so sánh: nhà gần trường tốt, nhà từng của Elvis có thể gấp 3–4 lần`"]
+  n17 --- n21
+  n22["`Dùng ba cách đầu làm điểm xuất phát, định giá theo giá trị với nhóm người định bán`"]
+  n17 --- n22
+  n23["`Mục 6–7 — Biện minh giá bằng làm rõ giá trị và giáo dục khách`"]
+  n0 --- n23
+  n24["`Bán hàng dựa trên giá trị: làm rõ vì sao đề nghị có giá trị với người mua`"]
+  n23 --- n24
+  n25["`Dịch vụ tạo thêm 100 triệu USD/năm thì giá 10 triệu USD là hợp lý, khách còn 90 triệu`"]
+  n24 --- n25
+  n26["`Chi phí cung cấp chỉ 100 USD hay đối thủ bán 10.000 USD đều không quan trọng`"]
+  n24 --- n26
+  n27["`Là lắng nghe, không phải nói: kiểu người bán xe cũ lẻo mép làm mất niềm tin`"]
+  n24 --- n27
+  n28["`SPIN Selling (Rackham): tình hình → vấn đề → hệ quả → nhu cầu và lợi ích`"]
+  n24 --- n28
+  n29["`Bán hàng bằng giáo dục khách hàng: giúp khách biết cách đánh giá chất lượng`"]
+  n23 --- n29
+  n30["`Mark Ingram: váy trung bình 6.000 USD, gấp bốn mức trung bình Mỹ, không giảm giá`"]
+  n29 --- n30
+  n31["`Kelsey giải thích vải, ren, ngọc trai, cách may, chỉnh sửa thay vì ép chốt`"]
+  n29 --- n31
+  n32["`Phải đầu tư thời gian trước, và đề nghị phải thật sự hơn đối thủ, nếu không khách bỏ đi`"]
+  n29 --- n32
+  n33["`Mục 8–11 — Đàm phán từ vị thế có phương án thay thế`"]
+  n0 --- n33
+  n34["`Phương án thay thế tốt nhất kế tiếp: việc sẽ làm nếu không tìm được điểm chung`"]
+  n33 --- n34
+  n35["`Ba công ty A, B, C cùng muốn tuyển → đàm phán với A tự tin hơn`"]
+  n34 --- n35
+  n36["`Bên có sức mạnh là bên có khả năng và sẵn lòng rời bỏ thoả thuận xấu`"]
+  n34 --- n36
+  n37["`Biết phương án của bên kia để thiết kế đề nghị hấp dẫn hơn, gộp hoặc tách hạng mục`"]
+  n34 --- n37
+  n38["`Ba đồng tiền trao đổi phổ quát: nguồn lực, thời gian, sự linh hoạt`"]
+  n33 --- n38
+  n39["`Sự linh hoạt bị đánh giá thấp nhất: làm công là từ bỏ linh hoạt, Kaufman gọi là chi phí cơ hội`"]
+  n38 --- n39
+  n40["`Vay thế chấp 30 năm: được thời gian, mất thêm tiền lãi và rất nhiều linh hoạt`"]
+  n38 --- n40
+  n41["`Bế tắc về tiền thì đổi bằng thời gian hay linh hoạt, như làm bán thời gian`"]
+  n38 --- n41
+  n42["`Ba khía cạnh của đàm phán (Lax và Sebenius): hai phần diễn ra trước khi ngồi vào bàn`"]
+  n33 --- n42
+  n43["`Chuẩn bị và lập kế hoạch: tìm hiểu bên kia, chắc đàm phán với người có quyền quyết`"]
+  n42 --- n43
+  n44["`Cấu trúc: điều khoản, lợi ích cho bên kia, phương án rẻ hơn nếu bị chê giá`"]
+  n42 --- n44
+  n45["`Trình bày và lập luận: mỗi vòng kết thúc bằng có, chưa (phản đề nghị), hoặc không`"]
+  n42 --- n45
+  n46["`Người trung gian: bên thứ ba đàm phán thay mình ở chỗ bên này được thì bên kia mất`"]
+  n33 --- n46
+  n47["`Người đại diện và luật sư giúp vận động viên đòi nhiều hơn mà không tổn hại uy tín`"]
+  n46 --- n47
+  n48["`Câu #quot;tôi cần bàn với luật sư#quot; giúp kéo dài thời gian, tránh quyết định vội`"]
+  n46 --- n48
+  n49["`Môi giới ăn hoa hồng muốn chốt bất kỳ thoả thuận nào → nên trả phí cố định`"]
+  n46 --- n49
+  n50["`Không bao giờ trao toàn quyền tài chính: môi giới có thể mua bán quá mức để ăn phí`"]
+  n46 --- n50
+  n51["`Mục 12–16 — Gỡ do dự của khách và có lại khách cũ`"]
+  n0 --- n51
+  n52["`Có đi có lại: ly cà phê ở đại lý ô tô làm khách chi thêm hàng nghìn USD (Cialdini)`"]
+  n51 --- n52
+  n53["`Cho trước một giá trị thật, hào phóng để khách dễ đáp lại khi kêu gọi mua`"]
+  n52 --- n53
+  n54["`Thừa nhận khuyết điểm: đại lý ở Denver chụp cả vết sứt sơn nhỏ nên bán được xe qua eBay`"]
+  n51 --- n54
+  n55["`Thứ được giới thiệu là hoàn hảo làm khách nghi#59; nói trước nhược điểm làm tăng niềm tin`"]
+  n54 --- n55
+  n56["`Năm rào cản mua hàng: đắt quá, không hiệu quả, không hợp với tôi, tôi đợi được, khó quá`"]
+  n51 --- n56
+  n57["`Đắt quá → bán theo giá trị: phần mềm 1 triệu USD tiết kiệm 10 triệu/năm là #quot;miễn phí#quot;`"]
+  n56 --- n57
+  n58["`Không hiệu quả → bằng chứng xã hội#59; đợi được, khó quá → giáo dục khách hàng`"]
+  n56 --- n58
+  n59["`Vẫn không mua → có thể người đối diện thiếu thẩm quyền hay ngân sách`"]
+  n56 --- n59
+  n60["`Đảo ngược rủi ro: chuyển rủi ro từ người mua sang người bán`"]
+  n51 --- n60
+  n61["`Nệm bảo hành 1 năm hoàn tiền 100%#59; #quot;mang chú chó con về nhà thử#quot;`"]
+  n60 --- n61
+  n62["`Người mua mua từ một người bán, người bán bán cho nhiều người: rủi ro trả hàng được chia đều`"]
+  n60 --- n62
+  n63["`Kích hoạt lại khách hàng cũ: khách cũ đã biết, đã tin, chi phí thu hút rất thấp`"]
+  n51 --- n63
+  n64["`Netflix gửi đề nghị giảm giá cho người huỷ thuê bao sau 3–6 tháng`"]
+  n63 --- n64
+  n65["`Xin phép liên lạc, lọc khách lâu không mua từ hệ thống POS, gửi đề nghị mỗi 3–6 tháng`"]
+  n63 --- n65
+  n66["`Thông điệp xuyên suốt`"]
+  n0 --- n66
+  n67["`Bán hàng không phải thuyết phục ai làm điều trái với lợi ích của họ`"]
+  n66 --- n67
+  n68["`Giá phản ánh giá trị cho khách, không phản ánh chi phí: #quot;giá là cái anh trả, giá trị là cái anh nhận#quot;`"]
+  n66 --- n68
+  n69["`Mọi kỹ thuật cuối chương đều nhằm tăng niềm tin và gỡ rủi ro, lo lắng của khách`"]
+  n66 --- n69
+  class n0 root
+  class n1,n12,n23,n33,n51,n66 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n67,n68,n69 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 4 "Las ventas" (tương ứng Chapter 3 "Sales" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Kaufman chia mọi doanh nghiệp thành năm phần nối tiếp nhau, trình bày ở chương 2–6: tạo giá trị → marketing → bán hàng → chuyển giao giá trị → tài chính. Chương 2 (tạo giá trị) hỏi doanh nghiệp làm ra thứ gì người khác muốn; chương 3 (marketing) hỏi làm sao thu hút sự chú ý của những người có thể mua, tức "khách hàng tiềm năng".
+
+Chương 4 là phần thứ ba: biến khách hàng tiềm năng thành khách hàng trả tiền. Đây là điểm duy nhất trong chu trình kinh doanh mà tiền chảy **vào** doanh nghiệp. Chương 5 (chuyển giao giá trị) sẽ bàn việc giao đúng cái đã bán và giữ khách hài lòng; chương 6 (tài chính) bàn việc giữ được phần tiền thu về nhiều hơn phần tiền chi ra.
+
+Nhiều mô hình của chương này dựa vào các chương khác: "đề nghị tối thiểu khả thi về kinh tế" (chương 2), cách trình bày đề nghị và chi phí thu hút khách hàng cho phép (chương 3), giá trị vòng đời khách hàng (chương 6), sự ác cảm với mất mát và chứng mù với cái vắng mặt (chương 7), quyền lực và động cơ khuyến khích (chương 9), môi trường (chương 10).
+
+## Lưu ý
+
+- Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua văn bản OCR của bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman. Tên tiếng Anh của các mục được ghi theo hiểu biết của người tổng hợp về bản gốc; mục nào không chắc thì chỉ ghi tên TBN.
+- Các lỗi OCR đã tự sửa: "Groucho Mark" là Groucho Marx; "Amalli" là Amalfi; "LUCVG ERHARD … caneller" là Ludwig Erhard, cựu thủ tướng Tây Đức; "Fal-Sale Investing" là *Fail-Safe Investing* của Harry Browne; "SIR JOHN DAVES" là Sir John Davies; "MARCEL MALSS" là Marcel Mauss; "CUNT EASTWOOD" là Clint Eastwood; "WooDy ALLEN … acior" là Woody Allen, diễn viên; "pedrusco … 27l" có số chú thích [27] dính vào.
+- Ở mục "La confianza", diện tích căn biệt thự in là "90.000 m" (chỉ số mũ bị mất khi OCR, nên có lẽ là 90.000 m²); con số này rất lớn so với giá 100.000 USD, có thể bản dịch đã đổi đơn vị từ feet vuông của bản gốc; nó không ảnh hưởng tới lập luận vì ý của ví dụ là giá rẻ đến vô lý.
+- Chỗ bản dịch có vẻ lệch nghĩa:
+  - Mục "La venta basada en las formas" theo người tổng hợp tương ứng mục *Education-Based Selling* của bản gốc; chữ "formas" không khớp với nội dung (mục này nói về việc giáo dục, cung cấp thông tin cho khách), nên bản tổng hợp gọi mục là "bán hàng bằng giáo dục khách hàng".
+  - Ở mục "La venta basada en el valor del producto", câu "dịch vụ mà một công ty có thể cung cấp cho công ty khác có giá khoảng 10.000 USD" khó hiểu; người tổng hợp hiểu là đối thủ cạnh tranh bán một dịch vụ tương tự với giá 10.000 USD, vì câu trả lời ngay sau đó so sánh với "các dịch vụ khác trên thị trường".
+  - Ở mục "Tres monedas de cambio universales", Kaufman gọi sự linh hoạt mà người làm công từ bỏ là "chi phí cơ hội", cách dùng này rộng hơn định nghĩa chuẩn của kinh tế học.
+  - Bản dịch dùng chữ "leasing" cho căn nhà ở Colorado nhưng nội dung (chủ nhà, tăng bảo hiểm cho người cho thuê, ký hợp đồng) cho thấy đó là hợp đồng thuê nhà có thể kèm quyền mua.
+- Các tham chiếu chéo trong chương ("chương 7", "chương 9"…) phần lớn khớp với cách đánh số TBN (sự ác cảm với mất mát ở chương 7, quyền lực và động cơ khuyến khích ở chương 9, môi trường ở chương 10, giá trị vòng đời khách hàng ở chương 6); riêng "cấu trúc định hướng (estructura guía) ở chương 7" có thể giữ nguyên số chương của bản tiếng Anh.
+- Chương có hai chú thích cuối sách: [27] (nguồn tin về viên kim cương Cullinan Heritage, một thông cáo báo chí của công ty Petra Diamonds tháng 2/2010) và [28] (chỉ chỗ tra công thức chiết khấu dòng tiền trên Wikipedia); cả hai chỉ là đường dẫn nên không đưa nội dung vào.
+- Bối cảnh: sách viết năm 2010; ví dụ Netflix là thời Netflix còn cho thuê đĩa DVD gửi qua bưu điện kèm dịch vụ trực tuyến, kỷ lục giá kim cương thô là tính tới năm 2010, Better Business Bureau là tổ chức của Mỹ.
+- Phép tính giá trị hiện tại của căn nhà cho thuê trong bản tổng hợp là do người tổng hợp làm; sách chỉ nêu giả định, không ra kết quả.

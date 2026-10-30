@@ -1,11 +1,16 @@
 # Chương 3 — Marketing (El marketing; Marketing)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 3 "El marketing" (tương ứng Chapter 2 "Marketing" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Kaufman chia mọi doanh nghiệp thành năm phần nối tiếp nhau, trình bày ở chương 2–6: tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính. Chương 2 đã bàn phần thứ nhất: tạo ra thứ người khác cần hoặc muốn (các nhu cầu cơ bản của con người, mười hai dạng giá trị, cách thử nghiệm ý tưởng với chi phí thấp). Chương 3 là phần thứ hai: một sản phẩm có giá trị vẫn vô dụng về mặt kinh doanh nếu không ai biết tới nó hoặc không ai quan tâm. Marketing ở đây được hiểu hẹp và rõ: tìm ra và thu hút **khách hàng tiềm năng** (người đang thật sự quan tâm tới thứ mình bán), với tốc độ nhanh và chi phí thấp. Chương 4 (bán hàng) nhận tiếp những khách hàng tiềm năng đó và biến họ thành người trả tiền; Kaufman nhấn mạnh hai việc này khác nhau: marketing làm cho người ta biết đến mình, bán hàng chốt giao dịch. Một số mô hình của chương dựa vào các chương sau để giải thích sâu hơn: "ác cảm với mất mát" và "mô phỏng trong đầu" ở chương 7 về tâm trí con người, "hiệu ứng kỳ vọng" ở chương 5 về chuyển giao giá trị.
-**Ý chính:** Kaufman muốn người đọc hiểu rằng **sự chú ý của khách hàng là thứ khan hiếm, và marketing là nghệ thuật giành được sự chú ý của đúng người, vào đúng lúc, bằng đúng thông điệp, rồi dẫn họ tới một hành động cụ thể**. Chương đi theo trình tự ba bước. Bước một là **chọn đúng người**: người ta chỉ nghe điều họ quan tâm (tính tiếp nhận), nên cần nhắm vào "người mua có khả năng nhất" (Harley-Davidson nhắm vào đàn ông trung niên muốn cảm giác mạnh cuối tuần, Oprah nhắm vào phụ nữ trung niên thích chuyện tâm sự), chủ động loại bớt khách không phù hợp (Progressive Insurance chuyển khách lái xe rủi ro sang đối thủ), bắt gặp họ đúng thời điểm họ bắt đầu quan tâm (cha mẹ sắp có con nhận quà mẫu tã ngay khi rời bệnh viện) và ưu tiên thị trường dễ tiếp cận (người tập yoga dễ tìm, người bị bệnh vẩy nến khó tìm). Bước hai là **nói đúng điều**: bán kết quả cuối cùng chứ không bán tính năng ("người ta không mua mũi khoan 6 mm, họ mua cái lỗ 6 mm"), khơi dậy mong muốn đã có sẵn chứ không cố tạo ra mong muốn, giúp khách tự hình dung đời mình sau khi mua (lái thử xe), chọn cách đóng khung thông tin (thí nghiệm của Tversky và Kahneman: cùng một kết quả, nói "cứu 200 người" được chọn nhiều hơn hẳn nói "400 người chết"), có một câu thu hút ngắn ("1.000 bài hát trong túi bạn" của iPod), kể chuyện theo khuôn "hành trình người anh hùng". Bước ba là **dẫn tới hành động và giữ quan hệ**: cho đi miễn phí thứ có giá trị (Kaufman xây dựng doanh nghiệp tư vấn từ các bài viết miễn phí và cuộc gọi tư vấn miễn phí), xin phép để liên lạc tiếp thay vì làm phiền người lạ, luôn có một lời kêu gọi hành động rõ ràng ("ra lối 25, rẽ phải"). Cuối chương là hai công cụ dài hạn: tranh cãi có mục đích (chính dự án Personal MBA lớn lên nhờ các cựu sinh viên MBA phản đối) và danh tiếng, thứ mà Kaufman coi là "marketing tốt nhất", cũng là cái mà doanh nghiệp không trực tiếp kiểm soát được.
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua bản OCR của một bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman. Tên tiếng Anh của các mục được ghi theo hiểu biết của người tổng hợp về bản gốc (Attention, Receptivity, Remarkability, Probable Purchaser, End Result, Qualification, Point of Market Entry, Addressability, Desire, Visualization, Framing, Free, Permission, Hook, Call-to-Action, Narrative, Controversy, Reputation). Chương có 18 mục, cộng một đoạn mở đầu chương không có tiêu đề. **Những chỗ bản dịch hoặc OCR có vấn đề:** (1) Ở mục "Saber exponer los beneficios de la oferta" (Framing), bản TBN mô tả phương án B là "33% số người có khả năng được cứu và 66% không"; theo thí nghiệm gốc của Tversky và Kahneman (1981), phương án B là *xác suất 1/3 cứu được cả 600 người và xác suất 2/3 không cứu được ai*, phương án D là *xác suất 1/3 không ai chết và xác suất 2/3 cả 600 người chết*. Chỉ với cách hiểu này thì câu "về mặt toán học A và B giống nhau" mới đúng theo nghĩa giá trị kỳ vọng (cả hai đều kỳ vọng cứu 200 người); bản tổng hợp dùng cách hiểu gốc. Tên mục TBN ("biết cách trình bày lợi ích của sản phẩm") cũng rộng hơn khái niệm "framing" (đóng khung). (2) Ở mục "Calificación", người dịch chuyển tên công ty Progressive Insurance thành cụm "seguros de riesgos progresivos" (bảo hiểm rủi ro luỹ tiến), như thể đó là một loại bảo hiểm; thực ra đó chỉ là tên một hãng bảo hiểm ô tô Mỹ. Câu "như bạn còn nhớ khi ta bàn về bảo hiểm" trỏ về mô hình "bảo hiểm" trong mười hai dạng giá trị ở chương 2. (3) Ở mục "El gancho", bản TBN nói tựa sách *La semana laboral de 4 horas* là "cụm chỉ sáu chữ": đó là số chữ của tựa tiếng Tây Ban Nha; tựa tiếng Anh *The 4-Hour Workweek* ngắn hơn. (4) Ở mục "Gratuito", cụm "contaminación vírica" (lây nhiễm virus) là cách dịch của khái niệm marketing lan truyền (viral). (5) Câu đề từ của Wordsworth ở mục "Historias que vienen a cuento" chỉ còn "Una historia en todas partes" (một câu chuyện ở khắp nơi), có vẻ bị cắt cụt. (6) Lỗi OCR đã tự sửa: "aburtido" (aburrido, nhàm chán), "SETH GODiN, auror" (autor), "eninpavuna.com" (erinpavlina.com), "neceptividad" (receptividad), "contiarle" (confiarle), "HUGH MACLEDO" (Hugh MacLeod), "Igmara a todes" (*Ignora a todos*, tựa tiếng Anh *Ignore Everybody*), "New Jork Times" (New York Times), "JOSEPH FERIARA" (Joseph Ferrara), "1BM" (IBM), "HOwARD MANa" (Howard Mann), "B&" (B&H). **Bối cảnh:** sách viết năm 2010; số liệu về Vibram FiveFingers lấy từ bài báo *New York Times* ngày 30/8/2009; số liệu ngành yoga (8 tỷ USD toàn cầu) và các ví dụ về thư rác, quảng cáo truyền hình, tìm kiếm trên mạng đều phản ánh thời điểm đó. Chương này không có chú thích cuối sách nào thuộc về nó.
+Kaufman muốn người đọc hiểu rằng **sự chú ý của khách hàng là thứ khan hiếm, và marketing là nghệ thuật giành được sự chú ý của đúng người, vào đúng lúc, bằng đúng thông điệp, rồi dẫn họ tới một hành động cụ thể**.
+
+Chương đi theo trình tự ba bước. Bước một là **chọn đúng người**: người ta chỉ nghe điều họ quan tâm (tính tiếp nhận), nên cần nhắm vào "người mua có khả năng nhất" (Harley-Davidson nhắm vào đàn ông trung niên muốn cảm giác mạnh cuối tuần, Oprah nhắm vào phụ nữ trung niên thích chuyện tâm sự), chủ động loại bớt khách không phù hợp (Progressive Insurance chuyển khách lái xe rủi ro sang đối thủ), bắt gặp họ đúng thời điểm họ bắt đầu quan tâm (cha mẹ sắp có con nhận quà mẫu tã ngay khi rời bệnh viện) và ưu tiên thị trường dễ tiếp cận (người tập yoga dễ tìm, người bị bệnh vẩy nến khó tìm).
+
+Bước hai là **nói đúng điều**: bán kết quả cuối cùng chứ không bán tính năng ("người ta không mua mũi khoan 6 mm, họ mua cái lỗ 6 mm"), khơi dậy mong muốn đã có sẵn chứ không cố tạo ra mong muốn, giúp khách tự hình dung đời mình sau khi mua (lái thử xe), chọn cách đóng khung thông tin (thí nghiệm của Tversky và Kahneman: cùng một kết quả, nói "cứu 200 người" được chọn nhiều hơn hẳn nói "400 người chết"), có một câu thu hút ngắn ("1.000 bài hát trong túi bạn" của iPod), kể chuyện theo khuôn "hành trình người anh hùng".
+
+Bước ba là **dẫn tới hành động và giữ quan hệ**: cho đi miễn phí thứ có giá trị (Kaufman xây dựng doanh nghiệp tư vấn từ các bài viết miễn phí và cuộc gọi tư vấn miễn phí), xin phép để liên lạc tiếp thay vì làm phiền người lạ, luôn có một lời kêu gọi hành động rõ ràng ("ra lối 25, rẽ phải").
+
+Cuối chương là hai công cụ dài hạn: tranh cãi có mục đích (chính dự án Personal MBA lớn lên nhờ các cựu sinh viên MBA phản đối) và danh tiếng, thứ mà Kaufman coi là "marketing tốt nhất", cũng là cái mà doanh nghiệp không trực tiếp kiểm soát được.
 
 ## Sơ đồ
 
@@ -915,7 +920,7 @@ Cách hiệu quả nhất để làm người ta muốn một thứ là khuyến
 
 Đề từ là câu của hoàng đế La Mã và triết gia Marcus Aurelius: những gì ta nghe là ý kiến, không phải sự thật; những gì ta thấy là một góc nhìn, không phải chân lý.
 
-Trong một thí nghiệm nổi tiếng của hai nhà tâm lý học Amos Tversky và Daniel Kahneman, người tham gia được yêu cầu chọn phương án điều trị cho một nhóm 600 người mắc bệnh. Kết quả, theo các con số Kaufman dẫn (cách mô tả phương án rủi ro được ghi theo thí nghiệm gốc, xem khối Lưu ý):
+Trong một thí nghiệm nổi tiếng của hai nhà tâm lý học Amos Tversky và Daniel Kahneman, người tham gia được yêu cầu chọn phương án điều trị cho một nhóm 600 người mắc bệnh. Kết quả, theo các con số Kaufman dẫn (cách mô tả phương án rủi ro được ghi theo thí nghiệm gốc, xem mục Lưu ý cuối chương):
 
 | Lần hỏi | Phương án | Mô tả | Tỷ lệ người chọn |
 |---|---|---|---|
@@ -940,7 +945,9 @@ Vì đóng khung luôn có mặt trong giao tiếp, cần ý thức về nó. Ng
 
 Muốn thu hút chú ý nhanh, hãy cho đi miễn phí một thứ có giá trị. Người ta rất thích được hứa cho một thứ mà không phải đổi gì. Ai cũng từng thấy siêu thị cho nếm thử thực phẩm, hoặc được mời dùng thử một sản phẩm hay dịch vụ không ràng buộc trong một thời gian; rất có thể một trong những ưu đãi đó từng khiến người đọc mua hàng. Ưu đãi miễn phí tồn tại vì nó hiệu quả: phần cho đi được bù lại bằng doanh số tăng thêm nhờ ưu đãi.
 
-Kaufman kể chuyện của chính mình. Anh lập doanh nghiệp đào tạo và tư vấn khi bỏ dự án nghiên cứu và bắt đầu viết miễn phí trên trang web. Kết quả là hơn 100.000 người tìm thấy (hoặc được giới thiệu tới) Personal MBA, được lợi từ thông tin và dần tin anh là một nguồn thông tin hữu ích. Phần lớn trong số đó vẫn cho phép anh gửi thông tin miễn phí qua email. Thỉnh thoảng anh mời những khách tiềm năng đang cần tư vấn nói chuyện qua điện thoại miễn phí, không ràng buộc, không giấu bớt thông tin. Mỗi lần mời, anh nhận hàng trăm yêu cầu và gặp nhiều người thú vị. Một tỷ lệ lớn những người nhận "mẫu thử miễn phí" này trở thành khách trả tiền cho dịch vụ của anh, và nhờ vậy anh lập được doanh nghiệp đào tạo và tư vấn "không tốn đồng nào".
+Kaufman kể chuyện của chính mình. Anh lập doanh nghiệp đào tạo và tư vấn khi bỏ dự án nghiên cứu và bắt đầu viết miễn phí trên trang web. Kết quả là hơn 100.000 người tìm thấy (hoặc được giới thiệu tới) Personal MBA, được lợi từ thông tin và dần tin anh là một nguồn thông tin hữu ích. Phần lớn trong số đó vẫn cho phép anh gửi thông tin miễn phí qua email.
+
+Thỉnh thoảng anh mời những khách tiềm năng đang cần tư vấn nói chuyện qua điện thoại miễn phí, không ràng buộc, không giấu bớt thông tin. Mỗi lần mời, anh nhận hàng trăm yêu cầu và gặp nhiều người thú vị. Một tỷ lệ lớn những người nhận "mẫu thử miễn phí" này trở thành khách trả tiền cho dịch vụ của anh, và nhờ vậy anh lập được doanh nghiệp đào tạo và tư vấn "không tốn đồng nào".
 
 Nói chung, cho miễn phí thứ có giá trị thật là cách nhanh và hiệu quả để thu hút chú ý. Đưa trước cho khách một thứ hữu ích mà họ không phải bỏ tiền, doanh nghiệp vừa có sự chú ý của họ, vừa cho họ cơ hội thử giá trị của sản phẩm. Làm tốt, chiến lược này đem lại những đơn hàng mà nếu không có nó thì đã không có.
 
@@ -980,7 +987,9 @@ Ví dụ kinh điển là tựa sách *Tuần làm việc 4 giờ* (*The 4-Hour 
 
 Kaufman nhận xét: không tệ cho một cụm chỉ sáu chữ (đếm theo tựa tiếng Tây Ban Nha). Cộng với hình bìa một người đàn ông thư thái nằm võng trên bãi biển nhiệt đới, tựa sách thuyết phục người ta mua và đọc.
 
-Apple dùng một khẩu hiệu thu hút để ra mắt iPod: "1.000 bài hát trong túi bạn". Thời đó, ai muốn vừa đi vừa nghe nhạc phải mang cả máy nghe lẫn đĩa CD, còn quảng cáo của những máy MP3 đầu tiên dùng thứ biệt ngữ chỉ dân rành công nghệ hiểu: dung lượng đĩa tính bằng megabyte. Sức thu hút của câu của Apple nằm ở chỗ làm nổi lợi ích chính của sản phẩm: thay vì mang hàng trăm đĩa CD, người dùng có thể mang cả bộ sưu tập nhạc trong một thiết bị nhỏ và đẹp. Khẩu hiệu năm chữ đó hiệu quả rất lớn: chỉ trong chưa đầy một năm, Apple bán được 236.000 iPod thế hệ đầu, một khởi đầu đáng kinh ngạc khi đó là lần đầu công ty bước vào mảng nghe nhạc cầm tay. Khẩu hiệu thu hút sự chú ý, còn chất lượng sản phẩm tạo ra doanh số.
+Apple dùng một khẩu hiệu thu hút để ra mắt iPod: "1.000 bài hát trong túi bạn". Thời đó, ai muốn vừa đi vừa nghe nhạc phải mang cả máy nghe lẫn đĩa CD, còn quảng cáo của những máy MP3 đầu tiên dùng thứ biệt ngữ chỉ dân rành công nghệ hiểu: dung lượng đĩa tính bằng megabyte. Sức thu hút của câu của Apple nằm ở chỗ làm nổi lợi ích chính của sản phẩm: thay vì mang hàng trăm đĩa CD, người dùng có thể mang cả bộ sưu tập nhạc trong một thiết bị nhỏ và đẹp.
+
+Khẩu hiệu năm chữ đó hiệu quả rất lớn: chỉ trong chưa đầy một năm, Apple bán được 236.000 iPod thế hệ đầu, một khởi đầu đáng kinh ngạc khi đó là lần đầu công ty bước vào mảng nghe nhạc cầm tay. Khẩu hiệu thu hút sự chú ý, còn chất lượng sản phẩm tạo ra doanh số.
 
 Cách làm một câu thu hút, theo Kaufman:
 
@@ -1039,7 +1048,9 @@ Tạo tranh cãi nghĩa là công khai giữ một lập trường mà không ph
 
 Bản thân dự án Personal MBA là ví dụ về sức mạnh của tranh cãi tích cực. Personal MBA bàn về các nguyên lý nền tảng của kinh doanh, những gì cần biết về thế giới doanh nghiệp để thành công. Kaufman tin chắc rằng ai cũng có thể tự học những gì mình cần biết về kinh doanh, không cần thế chấp thu nhập tương lai bằng cách ghi danh vào một chương trình MBA truyền thống.
 
-Một số người phản đối rõ ràng lập trường này, nhất là người tốt nghiệp các trường kinh doanh thuộc nhóm Ivy League. Người đã có bằng MBA và ứng viên MBA phản đối rất gay gắt, lên án cách tiếp cận của Personal MBA trên các trang web của họ hoặc công khai trong bình luận ở trang web của Kaufman. Kaufman cho rằng điều đó chẳng có gì xấu. Cuộc tranh cãi đã giúp Personal MBA lớn lên qua nhiều năm mà không cần mua quảng cáo. Khi nói ra ý kiến của mình, những người phản đối loan tin, và thông tin tới được những người có lẽ chưa biết có lựa chọn khác ngoài các chương trình của trường kinh doanh truyền thống. Tranh cãi khiến nhiều người tìm hiểu, phân tích Personal MBA rồi tự kết luận về tính hữu ích của nó. Nhiều người trong số đó giữ liên lạc, đọc miễn phí về chủ đề, rồi quyết định mua sách, đăng ký khoá học hoặc thuê anh tư vấn. Miễn là người phản đối bất đồng một cách lịch sự, anh hoan nghênh sự bất đồng.
+Một số người phản đối rõ ràng lập trường này, nhất là người tốt nghiệp các trường kinh doanh thuộc nhóm Ivy League. Người đã có bằng MBA và ứng viên MBA phản đối rất gay gắt, lên án cách tiếp cận của Personal MBA trên các trang web của họ hoặc công khai trong bình luận ở trang web của Kaufman. Kaufman cho rằng điều đó chẳng có gì xấu.
+
+Cuộc tranh cãi đã giúp Personal MBA lớn lên qua nhiều năm mà không cần mua quảng cáo. Khi nói ra ý kiến của mình, những người phản đối loan tin, và thông tin tới được những người có lẽ chưa biết có lựa chọn khác ngoài các chương trình của trường kinh doanh truyền thống. Tranh cãi khiến nhiều người tìm hiểu, phân tích Personal MBA rồi tự kết luận về tính hữu ích của nó. Nhiều người trong số đó giữ liên lạc, đọc miễn phí về chủ đề, rồi quyết định mua sách, đăng ký khoá học hoặc thuê anh tư vấn. Miễn là người phản đối bất đồng một cách lịch sự, anh hoan nghênh sự bất đồng.
 
 Có một quan điểm rõ ràng và bảo vệ nó tới cùng là điều tốt. Xu hướng tự nhiên của con người là muốn được người khác thích, và bất đồng thường gây khó chịu. Người cố tránh bất đồng có lẽ sẽ làm mềm quan điểm tới mức không xúc phạm ai. Nhưng một lập trường làm hài lòng tất cả mọi người trở nên nhạt nhẽo tới mức không còn thu hút sự chú ý. Giữ một lập trường không được mọi người tán thành là được, bất đồng với người khác, lên tiếng phản đối một điều gì cũng được, vì tranh cãi tạo ra tranh luận, tranh luận tạo ra sự chú ý, và sự chú ý thu hút những người có thể được lợi từ việc doanh nghiệp đang làm.
 
@@ -1215,11 +1226,15 @@ Ngoài thí nghiệm của Tversky và Kahneman, các ví dụ đều là câu c
 
 ### Quan điểm "marketing không thể tạo ra mong muốn" là một lập trường có tranh cãi
 
-Kaufman khẳng định gần như không thể buộc ai muốn thứ họ không muốn, và marketing chỉ khớp sản phẩm với mong muốn sẵn có. Điều này đúng ở mức nhu cầu cơ bản: không quảng cáo nào làm người ăn chay muốn ăn thịt. Nhưng nhiều nhà phê bình và nhà kinh tế (từ John Kenneth Galbraith trở đi) cho rằng quảng cáo có thể định hình mong muốn cụ thể: không tạo ra nhu cầu được kính trọng, nhưng có thể dạy người ta rằng một thương hiệu đồng hồ là cách để có sự kính trọng. Chính các ví dụ của Kaufman về thỏi son và học phí Harvard cho thấy ranh giới giữa "khớp với mong muốn sẵn có" và "gắn sản phẩm vào mong muốn đó" khá mờ. Thêm nữa, ở mục "đóng khung", Kaufman thừa nhận cách trình bày làm đổi lựa chọn dù kết quả như nhau, tức là marketing có ảnh hưởng tới quyết định nhiều hơn là chỉ "phản ánh" mong muốn.
+Kaufman khẳng định gần như không thể buộc ai muốn thứ họ không muốn, và marketing chỉ khớp sản phẩm với mong muốn sẵn có. Điều này đúng ở mức nhu cầu cơ bản: không quảng cáo nào làm người ăn chay muốn ăn thịt. Nhưng nhiều nhà phê bình và nhà kinh tế (từ John Kenneth Galbraith trở đi) cho rằng quảng cáo có thể định hình mong muốn cụ thể: không tạo ra nhu cầu được kính trọng, nhưng có thể dạy người ta rằng một thương hiệu đồng hồ là cách để có sự kính trọng.
+
+Chính các ví dụ của Kaufman về thỏi son và học phí Harvard cho thấy ranh giới giữa "khớp với mong muốn sẵn có" và "gắn sản phẩm vào mong muốn đó" khá mờ. Thêm nữa, ở mục "đóng khung", Kaufman thừa nhận cách trình bày làm đổi lựa chọn dù kết quả như nhau, tức là marketing có ảnh hưởng tới quyết định nhiều hơn là chỉ "phản ánh" mong muốn.
 
 ### Từ 2010, môi trường chú ý đã thay đổi mạnh nhưng các nguyên lý vẫn đứng vững
 
-Các ví dụ của chương (thư rác, quảng cáo truyền hình, tối ưu công cụ tìm kiếm, blog, diễn đàn, WebMD) thuộc giai đoạn internet trước mạng xã hội di động. Từ đó, nền tảng mạng xã hội và thuật toán đề xuất đã trở thành nơi chính tranh giành sự chú ý; quảng cáo nhắm mục tiêu theo dữ liệu cá nhân làm cho "người mua có khả năng nhất" và "thời điểm bước vào thị trường" có thể được xác định gần như tự động (chẳng hạn nền tảng đoán được người dùng sắp có con). Đồng thời, các quy định về bảo vệ dữ liệu và chống thư rác ở nhiều nước đã biến "sự cho phép" từ lời khuyên đạo đức thành nghĩa vụ pháp lý. Tranh cãi cũng dễ lan nhanh và khó kiểm soát hơn, nên ranh giới Kaufman cảnh báo giữa tranh cãi xây dựng và scandal nay mỏng hơn. Nhìn chung, các nguyên lý cốt lõi (chú ý khan hiếm, nhắm đúng người, xin phép, danh tiếng) càng đúng hơn, nhưng các kênh cụ thể đã khác.
+Các ví dụ của chương (thư rác, quảng cáo truyền hình, tối ưu công cụ tìm kiếm, blog, diễn đàn, WebMD) thuộc giai đoạn internet trước mạng xã hội di động. Từ đó, nền tảng mạng xã hội và thuật toán đề xuất đã trở thành nơi chính tranh giành sự chú ý; quảng cáo nhắm mục tiêu theo dữ liệu cá nhân làm cho "người mua có khả năng nhất" và "thời điểm bước vào thị trường" có thể được xác định gần như tự động (chẳng hạn nền tảng đoán được người dùng sắp có con).
+
+Đồng thời, các quy định về bảo vệ dữ liệu và chống thư rác ở nhiều nước đã biến "sự cho phép" từ lời khuyên đạo đức thành nghĩa vụ pháp lý. Tranh cãi cũng dễ lan nhanh và khó kiểm soát hơn, nên ranh giới Kaufman cảnh báo giữa tranh cãi xây dựng và scandal nay mỏng hơn. Nhìn chung, các nguyên lý cốt lõi (chú ý khan hiếm, nhắm đúng người, xin phép, danh tiếng) càng đúng hơn, nhưng các kênh cụ thể đã khác.
 
 ### Ví dụ Progressive là bài học sâu nhất của chương nhưng được trình bày như một mẹo nhỏ
 
@@ -1230,4 +1245,164 @@ Việc một công ty chủ động gửi khách sang đối thủ nghe lạ, nh
 - **Trong doanh nghiệp.** Thay chỉ tiêu "độ phủ" và "lượt xem" bằng chỉ tiêu số khách hàng tiềm năng đủ điều kiện và chi phí cho mỗi khách. Viết lại mọi trang sản phẩm theo kết quả cuối cùng thay vì danh sách tính năng; kiểm tra xem mỗi trang, mỗi email có đúng một lời kêu gọi hành động không. Xem lại danh sách khách: nhóm nào tốn công phục vụ nhiều mà ít lãi, có nên sàng lọc trước như Progressive không.
 - **Trong nghề nghiệp.** Một người đi tìm việc hay làm tự do cũng đang làm marketing cho chính mình: xác định nhà tuyển dụng hay khách hàng có khả năng nhất, nói về kết quả mình đem lại (doanh thu tăng, chi phí giảm) thay vì liệt kê kỹ năng, chia sẻ miễn phí kiến thức hữu ích để được chú ý, và nhớ rằng danh tiếng trong nghề hình thành từ những người đã làm việc cùng mình, không phải từ hồ sơ tự viết.
 - **Khi khởi nghiệp hay kinh doanh nhỏ.** Chọn một thị trường dễ tiếp cận trước khi làm sản phẩm; tìm thời điểm khách bước vào thị trường (sắp cưới, sắp có con, vừa mua nhà, vừa mở cửa hàng) và có mặt ở nơi họ tìm thông tin đầu tiên. Xây danh sách người đã đồng ý nhận tin (email, nhóm Zalo, kênh tin nhắn) ngay từ đầu; đó là tài sản rẻ nhất để bán lần hai. Dùng mẫu thử miễn phí, nhưng tính trước bao nhiêu phần trăm người nhận phải trả tiền thì mới có lãi.
-- **Ở Việt Nam.** Nhiều doanh nghiệp nhỏ vẫn dựa vào tin nhắn quảng cáo hàng loạt và cuộc gọi chào hàng không mời (bất động sản, bảo hiểm, chứng khoán), đúng kiểu "thư rác hợp pháp" mà Kaufman phê phán; người nhận ngày càng chặn hoặc bỏ qua, và quy định về bảo vệ dữ liệu cá nhân, chống tin nhắn rác cũng ngày càng chặt. Ngược lại, mô hình bán qua livestream và cộng đồng trên mạng xã hội là ví dụ sống động của nhiều mô hình trong chương cùng lúc: khách được "hình dung" sản phẩm qua hình ảnh trực tiếp, có lời kêu gọi hành động rõ ("bình luận chốt đơn"), và người bán xây danh tiếng qua đánh giá của khách. Với dịch vụ mang tính nhạy cảm (khám chữa bệnh, tư vấn tâm lý, tài chính cá nhân), khả năng tiếp cận thấp nên các kênh tìm kiếm ẩn danh và nội dung giáo dục miễn phí thường hiệu quả hơn quảng cáo đại trà.
+- **Ở Việt Nam.** Nhiều doanh nghiệp nhỏ vẫn dựa vào tin nhắn quảng cáo hàng loạt và cuộc gọi chào hàng không mời (bất động sản, bảo hiểm, chứng khoán), đúng kiểu "thư rác hợp pháp" mà Kaufman phê phán; người nhận ngày càng chặn hoặc bỏ qua, và quy định về bảo vệ dữ liệu cá nhân, chống tin nhắn rác cũng ngày càng chặt.
+
+  Ngược lại, mô hình bán qua livestream và cộng đồng trên mạng xã hội là ví dụ sống động của nhiều mô hình trong chương cùng lúc: khách được "hình dung" sản phẩm qua hình ảnh trực tiếp, có lời kêu gọi hành động rõ ("bình luận chốt đơn"), và người bán xây danh tiếng qua đánh giá của khách. Với dịch vụ mang tính nhạy cảm (khám chữa bệnh, tư vấn tâm lý, tài chính cá nhân), khả năng tiếp cận thấp nên các kênh tìm kiếm ẩn danh và nội dung giáo dục miễn phí thường hiệu quả hơn quảng cáo đại trà.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: sáu nhánh lớn đi theo các mục 1–19 của phần Nội dung chi tiết (marketing là gì và sự chú ý; tính tiếp nhận, tính đáng chú ý, người mua có khả năng nhất; kết quả cuối cùng, sàng lọc, thời điểm bước vào thị trường, khả năng tiếp cận; mong muốn, hình dung, đóng khung; miễn phí, sự cho phép, câu thu hút, lời kêu gọi hành động; kể chuyện, tranh cãi, danh tiếng), mỗi nhánh ghi định nghĩa của từng mô hình, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: sự chú ý của khách là khan hiếm, marketing là giành chú ý của đúng người, đúng lúc, bằng đúng thông điệp rồi dẫn tới hành động`"]
+  n1["`Mục 1–2 — Marketing là gì và quy tắc số 1: sự chú ý có hạn`"]
+  n0 --- n1
+  n2["`Marketing: nghệ thuật và khoa học tìm khách hàng tiềm năng chất lượng cao, nhanh và rẻ`"]
+  n1 --- n2
+  n3["`Marketing làm người ta biết tới mình, bán hàng (chương 4) chốt giao dịch`"]
+  n1 --- n3
+  n4["`Dan Kennedy: trong marketing, nhàm chán là tội lớn nhất`"]
+  n1 --- n4
+  n5["`Ai cũng lọc sự chú ý, phải thú vị hơn hoặc hữu ích hơn mọi thứ cạnh tranh để vượt bộ lọc`"]
+  n1 --- n5
+  n6["`Mặc đồ thỏ hồng la hét gây chú ý nhưng không bán được: chỉ cần chú ý của người sẽ mua`"]
+  n1 --- n6
+  n7["`Mục tiêu là doanh số có lãi, không phải cuộc thi nổi tiếng`"]
+  n1 --- n7
+  n8["`Mục 3–5 — Tính tiếp nhận, tính đáng chú ý, người mua có khả năng nhất`"]
+  n0 --- n8
+  n9["`Tính tiếp nhận phụ thuộc sự quan tâm tới loại sản phẩm và thời điểm nhận thông tin`"]
+  n8 --- n9
+  n10["`Fan Chạng vạng tiếp nhận cao, người ăn chay không nghe về lợi ích của thịt đỏ`"]
+  n9 --- n10
+  n11["`Thư quảng cáo đại trà bị vứt khoảng 99%, phong bì viết tay được phần lớn người nhận mở`"]
+  n9 --- n11
+  n12["`Tính đáng chú ý: sản phẩm khác thường tới mức người ta tự để ý và bàn tán`"]
+  n8 --- n12
+  n13["`Vibram FiveFingers: doanh số gấp ba mỗi năm từ 2006, hơn 10 triệu USD ở Bắc Mỹ năm 2009, không quảng cáo đại trà`"]
+  n12 --- n13
+  n14["`Robert Stephens: quảng cáo là thuế phải trả vì không nổi bật, như con bò tía của Seth Godin`"]
+  n12 --- n14
+  n15["`Người mua có khả năng nhất: kiểu người hợp hoàn toàn với sản phẩm, vì phần lớn mọi người không bao giờ quan tâm`"]
+  n8 --- n15
+  n16["`Harley-Davidson nhắm chiến binh cuối tuần, Oprah nhắm phụ nữ trung niên, không bên nào tranh khách của bên kia`"]
+  n15 --- n16
+  n17["`Mục 6–9 — Kết quả cuối cùng, sàng lọc, thời điểm bước vào thị trường, khả năng tiếp cận`"]
+  n0 --- n17
+  n18["`Levitt: người ta không mua mũi khoan 6 mm, họ mua lỗ khoan 6 mm`"]
+  n17 --- n18
+  n19["`Khách mua trải nghiệm hay cảm xúc: son 20 USD để đẹp hơn, hơn 100.000 USD học phí Harvard để có vẻ quyền lực`"]
+  n18 --- n19
+  n20["`Nói lợi ích thay vì tính năng để khách nghĩ: cái này dành cho tôi`"]
+  n18 --- n20
+  n21["`Sàng lọc: đánh giá khách trước khi mua, từ chối khách tốn công hay rủi ro quá mức`"]
+  n17 --- n21
+  n22["`Progressive hỏi sáu câu, báo giá cho khách an toàn, mời khách rủi ro sang đối thủ`"]
+  n21 --- n22
+  n23["`Thời điểm bước vào thị trường: lúc một người chuyển sang chủ động tìm thông tin, như khi biết sắp có con`"]
+  n17 --- n23
+  n24["`Túi quà mẫu của P#amp;G, Johnson #amp; Johnson khi rời bệnh viện: ai đến đầu tiên thành chuẩn để khách so sánh`"]
+  n23 --- n24
+  n25["`Khả năng tiếp cận: người tập yoga (ngành 8 tỷ USD) và bác sĩ dễ tìm, người bệnh vẩy nến khó tìm`"]
+  n17 --- n25
+  n26["`Chọn thị trường dễ tiếp cận trước khi cam kết làm sản phẩm`"]
+  n25 --- n26
+  n27["`Mục 10–12 — Mong muốn, hình dung, đóng khung thông tin`"]
+  n0 --- n27
+  n28["`Gần như không thể buộc ai muốn thứ họ không muốn, cố ép là đốt ngân sách quảng cáo`"]
+  n27 --- n28
+  n29["`Tìm điều khách đã muốn rồi trình bày sản phẩm khớp với nó, giúp khách tự thuyết phục mình`"]
+  n28 --- n29
+  n30["`Sản phẩm gắn với càng nhiều nhu cầu cơ bản (chương 2), marketing càng hiệu quả`"]
+  n28 --- n30
+  n31["`Lái thử xe, cầm thử máy ảnh ở B#amp;H: khách chuyển từ so sánh lý trí sang mong muốn`"]
+  n27 --- n31
+  n32["`Cho khách nhiều thông tin giác quan để hình dung đời mình sau khi mua (mô phỏng trong đầu)`"]
+  n31 --- n32
+  n33["`Tversky và Kahneman: cứu 200 người được 72% chọn, 400 người chết chỉ được 22%, dù cùng kết quả`"]
+  n27 --- n33
+  n34["`Đóng khung: nhấn chi tiết then chốt, giảm nhẹ phần còn lại, có mặt trong mọi giao tiếp`"]
+  n33 --- n34
+  n35["`Đóng khung không phải nói dối: bóp méo hại kỳ vọng và danh tiếng, phải nói điều khách có quyền biết`"]
+  n33 --- n35
+  n36["`Mục 13–16 — Miễn phí, sự cho phép, câu thu hút, lời kêu gọi hành động`"]
+  n0 --- n36
+  n37["`Cho miễn phí thứ có giá trị: bài viết miễn phí đưa hơn 100.000 người tới Personal MBA`"]
+  n36 --- n37
+  n38["`Sự chú ý tự nó không trả được hoá đơn: cho miễn phí để thu hút người sẽ trả tiền`"]
+  n37 --- n38
+  n39["`Sự cho phép là tài sản: liên lạc người đã đồng ý rẻ hơn tìm đám đông mới, nhưng không lạm dụng`"]
+  n36 --- n39
+  n40["`Thời hai kênh, quảng cáo 30 giây giờ vàng tới 90% người xem, nay người ta lọc nên ngắt ngang mất hiệu quả`"]
+  n39 --- n40
+  n41["`Câu thu hút: một câu ngắn nói lợi ích chính, iPod 1.000 bài hát trong túi bạn bán 236.000 máy chưa đầy một năm`"]
+  n36 --- n41
+  n42["`Tuần làm việc 4 giờ gợi ba lợi ích: làm ít hơn, kiếm như hơn 40 giờ, có thời gian cho việc đáng giá`"]
+  n41 --- n42
+  n43["`Lời kêu gọi hành động: một bước duy nhất, rõ ràng, như Ra lối 25, rẽ phải thay vì Tony ngon nhất`"]
+  n36 --- n43
+  n44["`Lời kêu gọi tốt nhất là bán ngay, thứ hai là xin phép theo dõi tiếp`"]
+  n43 --- n44
+  n45["`Mục 17–19 — Kể chuyện, tranh cãi, danh tiếng`"]
+  n0 --- n45
+  n46["`Hành trình người anh hùng của Campbell: người thường bị gọi vào thử thách, vượt khó, trở về với món quà`"]
+  n45 --- n46
+  n47["`Khách muốn là người anh hùng: lời chứng thực và câu chuyện thật giúp họ nhận lời gọi phiêu lưu`"]
+  n46 --- n47
+  n48["`Tranh cãi có mục đích: Personal MBA lớn lên không mua quảng cáo nhờ giới MBA phản đối loan tin`"]
+  n45 --- n48
+  n49["`Tranh cãi tạo tranh luận, tranh luận tạo chú ý, lập trường ai cũng chịu thì nhạt, nhưng gây scandal thì vô giá trị`"]
+  n48 --- n49
+  n50["`Xây dựng thương hiệu gần như luôn có nghĩa là cải thiện danh tiếng`"]
+  n45 --- n50
+  n51["`Danh tiếng cho bán giá cao hơn (Tide, Crest), chưa ai bị sa thải vì đã mua của IBM`"]
+  n50 --- n51
+  n52["`Danh tiếng không kiểm soát trực tiếp được, chỉ cải thiện bằng làm khách hài lòng: marketing tốt nhất`"]
+  n50 --- n52
+  n53["`Thông điệp xuyên suốt`"]
+  n0 --- n53
+  n54["`Ba bước: chọn đúng người, nói đúng điều, dẫn tới hành động và giữ quan hệ`"]
+  n53 --- n54
+  n55["`Đo marketing bằng số khách tiềm năng chất lượng và chi phí mỗi khách, không bằng lượt xem`"]
+  n53 --- n55
+  n56["`Trung thực và danh tiếng đem lợi lâu dài lớn hơn lợi ích ngắn hạn của lừa dối`"]
+  n53 --- n56
+  class n0 root
+  class n1,n8,n17,n27,n36,n45,n53 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 3 "El marketing" (tương ứng Chapter 2 "Marketing" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Kaufman chia mọi doanh nghiệp thành năm phần nối tiếp nhau, trình bày ở chương 2–6: tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính. Chương 2 đã bàn phần thứ nhất: tạo ra thứ người khác cần hoặc muốn (các nhu cầu cơ bản của con người, mười hai dạng giá trị, cách thử nghiệm ý tưởng với chi phí thấp).
+
+Chương 3 là phần thứ hai: một sản phẩm có giá trị vẫn vô dụng về mặt kinh doanh nếu không ai biết tới nó hoặc không ai quan tâm. Marketing ở đây được hiểu hẹp và rõ: tìm ra và thu hút **khách hàng tiềm năng** (người đang thật sự quan tâm tới thứ mình bán), với tốc độ nhanh và chi phí thấp. Chương 4 (bán hàng) nhận tiếp những khách hàng tiềm năng đó và biến họ thành người trả tiền; Kaufman nhấn mạnh hai việc này khác nhau: marketing làm cho người ta biết đến mình, bán hàng chốt giao dịch.
+
+Một số mô hình của chương dựa vào các chương sau để giải thích sâu hơn: "ác cảm với mất mát" và "mô phỏng trong đầu" ở chương 7 về tâm trí con người, "hiệu ứng kỳ vọng" ở chương 5 về chuyển giao giá trị.
+
+## Lưu ý
+
+- Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua bản OCR của một bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman.
+- Tên tiếng Anh của các mục được ghi theo hiểu biết của người tổng hợp về bản gốc (Attention, Receptivity, Remarkability, Probable Purchaser, End Result, Qualification, Point of Market Entry, Addressability, Desire, Visualization, Framing, Free, Permission, Hook, Call-to-Action, Narrative, Controversy, Reputation). Chương có 18 mục, cộng một đoạn mở đầu chương không có tiêu đề.
+- **Những chỗ bản dịch hoặc OCR có vấn đề:**
+  - Ở mục "Saber exponer los beneficios de la oferta" (Framing), bản TBN mô tả phương án B là "33% số người có khả năng được cứu và 66% không"; theo thí nghiệm gốc của Tversky và Kahneman (1981), phương án B là *xác suất 1/3 cứu được cả 600 người và xác suất 2/3 không cứu được ai*, phương án D là *xác suất 1/3 không ai chết và xác suất 2/3 cả 600 người chết*. Chỉ với cách hiểu này thì câu "về mặt toán học A và B giống nhau" mới đúng theo nghĩa giá trị kỳ vọng (cả hai đều kỳ vọng cứu 200 người); bản tổng hợp dùng cách hiểu gốc. Tên mục TBN ("biết cách trình bày lợi ích của sản phẩm") cũng rộng hơn khái niệm "framing" (đóng khung).
+  - Ở mục "Calificación", người dịch chuyển tên công ty Progressive Insurance thành cụm "seguros de riesgos progresivos" (bảo hiểm rủi ro luỹ tiến), như thể đó là một loại bảo hiểm; thực ra đó chỉ là tên một hãng bảo hiểm ô tô Mỹ. Câu "như bạn còn nhớ khi ta bàn về bảo hiểm" trỏ về mô hình "bảo hiểm" trong mười hai dạng giá trị ở chương 2.
+  - Ở mục "El gancho", bản TBN nói tựa sách *La semana laboral de 4 horas* là "cụm chỉ sáu chữ": đó là số chữ của tựa tiếng Tây Ban Nha; tựa tiếng Anh *The 4-Hour Workweek* ngắn hơn.
+  - Ở mục "Gratuito", cụm "contaminación vírica" (lây nhiễm virus) là cách dịch của khái niệm marketing lan truyền (viral).
+  - Câu đề từ của Wordsworth ở mục "Historias que vienen a cuento" chỉ còn "Una historia en todas partes" (một câu chuyện ở khắp nơi), có vẻ bị cắt cụt.
+  - Lỗi OCR đã tự sửa: "aburtido" (aburrido, nhàm chán), "SETH GODiN, auror" (autor), "eninpavuna.com" (erinpavlina.com), "neceptividad" (receptividad), "contiarle" (confiarle), "HUGH MACLEDO" (Hugh MacLeod), "Igmara a todes" (*Ignora a todos*, tựa tiếng Anh *Ignore Everybody*), "New Jork Times" (New York Times), "JOSEPH FERIARA" (Joseph Ferrara), "1BM" (IBM), "HOwARD MANa" (Howard Mann), "B&" (B&H).
+- **Bối cảnh:** sách viết năm 2010; số liệu về Vibram FiveFingers lấy từ bài báo *New York Times* ngày 30/8/2009; số liệu ngành yoga (8 tỷ USD toàn cầu) và các ví dụ về thư rác, quảng cáo truyền hình, tìm kiếm trên mạng đều phản ánh thời điểm đó.
+- Chương này không có chú thích cuối sách nào thuộc về nó.

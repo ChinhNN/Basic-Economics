@@ -1,22 +1,14 @@
 # Phụ lục A và B — Học tiếp về quản trị kinh doanh qua sách; Bốn mươi chín câu hỏi để cải thiện kết quả (Apéndice A "Cómo seguir con sus estudios de gestión empresarial"; Apéndice B "Cuarenta y nueve preguntas para mejorar sus resultados")
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), Phụ lục A "Cómo seguir con sus estudios de gestión empresarial" và Phụ lục B "Cuarenta y nueve preguntas para mejorar sus resultados" (hai phụ lục cuối sách, đứng sau chương 12 và trước phần chú thích; tên tiếng Anh của hai phụ lục không ghi ở đây vì người tổng hợp không chắc chắn).
+## Ý chính
 
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+Kaufman muốn người đọc hiểu rằng cuốn sách chỉ là bản đồ tổng quan; muốn sâu hơn ở mảng nào thì đọc tiếp các cuốn chuyên đề, và ông chọn sẵn 99 đầu sách chia thành 25 nhóm chủ đề, khuyên người đọc bắt đầu từ bất kỳ cuốn nào trong đó.
 
-**Vị trí trong cuốn sách:** Mười hai chương của sách đi từ năm phần của một doanh nghiệp (chương 2–6: tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính), qua con người (chương 7–9: tâm trí, làm việc với chính mình, làm việc với người khác), tới hệ thống (chương 10–12: hiểu, phân tích, cải thiện hệ thống). Hai phụ lục không thêm mô hình tư duy mới mà đưa ra hai công cụ để đi tiếp sau khi gấp sách. Phụ lục A là danh sách đọc thêm, chia theo đúng các mảng sách đã đi qua, từ năng suất cá nhân, tâm trí con người, giao tiếp, đến marketing, bán hàng, tài chính, hệ thống, chiến lược và tài chính cá nhân. Đây chính là phiên bản in của danh sách đọc trên PersonalMBA.com mà chương 1 đã giới thiệu. Phụ lục B là bộ câu hỏi tự vấn mà Kaufman soạn cho bản thân, chủ yếu nối với chương 7 (tâm trí con người) và chương 8 (làm việc với chính mình): cơ thể và năng lượng, mục tiêu, nỗi sợ, sự tập trung, thói quen, điểm mạnh và định nghĩa về thành công.
+Danh sách trộn sách kinh điển (Drucker, Porter, Carnegie, Goldratt, Ries và Trout) với sách thực hành mới hơn vào thời điểm 2010 (Rework, The 4-Hour Workweek, Tribes, Web Analytics: An Hour a Day), và có cả những mảng mà chương trình MBA thường bỏ qua như tài chính cá nhân và phát triển bản thân.
 
-**Ý chính:** Kaufman muốn người đọc hiểu rằng cuốn sách chỉ là bản đồ tổng quan; muốn sâu hơn ở mảng nào thì đọc tiếp các cuốn chuyên đề, và ông chọn sẵn 99 đầu sách chia thành 25 nhóm chủ đề, khuyên người đọc bắt đầu từ bất kỳ cuốn nào trong đó. Danh sách trộn sách kinh điển (Drucker, Porter, Carnegie, Goldratt, Ries và Trout) với sách thực hành mới hơn vào thời điểm 2010 (Rework, The 4-Hour Workweek, Tribes, Web Analytics: An Hour a Day), và có cả những mảng mà chương trình MBA thường bỏ qua như tài chính cá nhân và phát triển bản thân. Phụ lục B chuyển trọng tâm từ kiến thức sang tự hiểu mình: theo Kaufman, câu hỏi đặt đúng giúp bộ não nhìn thế giới theo cách khác, và khi cân nhắc các câu trả lời có thể, người ta tìm ra những lối đi không ngờ tới. Ông kể đã soạn danh sách này nhiều năm trước, trong một giai đoạn sự nghiệp rất khó khăn, để tìm ra mình là ai và mình muốn gì. Cách dùng ông đề nghị rất cụ thể: lấy một cuốn sổ, dành ra một giờ, tự thưởng một bữa ăn ở nhà hàng yêu thích và viết trong lúc ăn; đến lúc thanh toán, người viết sẽ có vài ý mới để cải thiện cuộc sống hoặc công việc kinh doanh.
+Phụ lục B chuyển trọng tâm từ kiến thức sang tự hiểu mình: theo Kaufman, câu hỏi đặt đúng giúp bộ não nhìn thế giới theo cách khác, và khi cân nhắc các câu trả lời có thể, người ta tìm ra những lối đi không ngờ tới. Ông kể đã soạn danh sách này nhiều năm trước, trong một giai đoạn sự nghiệp rất khó khăn, để tìm ra mình là ai và mình muốn gì.
 
-> **Lưu ý:**
-> - Nguồn là bản dịch tiếng Tây Ban Nha qua OCR của bản scan; phần dịch tiếng Việt là của người tổng hợp từ bản TBN.
-> - **Số câu hỏi ở Phụ lục B:** tiêu đề nói 49 câu, nhưng văn bản OCR chỉ có **41 câu** trong 7 nhóm (5 + 5 + 4 + 6 + 8 + 6 + 7). Người tổng hợp đã đếm lại hai lần. Chỗ ngắt trang nằm giữa nhóm 4 nhưng câu trước và sau chỗ ngắt đều liền mạch, nên không có dấu hiệu OCR làm mất dòng. Có thể bản dịch TBN (hoặc bản ePub làm nguồn scan) đã lược bớt câu so với bản tiếng Anh, hoặc con số 49 trong tên phụ lục không khớp với danh sách ngay từ bản gốc. Người tổng hợp không có bản tiếng Anh để đối chiếu nên chỉ dịch đủ 41 câu có trong văn bản, không tự thêm câu.
-> - **Số đầu sách ở Phụ lục A:** 99 cuốn trong 25 nhóm (đếm từ văn bản OCR).
-> - **Lỗi OCR trong tên sách đã sửa:** "Loehr, lim" là Jim Loehr; "The Copywriter 5 Handbook" là The Copywriter's Handbook; "Rogolf, Edward" là Edward Rogoff; "Escupe from Cubicle" là Escape from Cubicle Nation (bản OCR thiếu chữ "Nation"); "Getting Everything You Can Out of All You 've Gor" là ...All You've Got; "The Uitimate Sales Machine" là The Ultimate Sales Machine; "The New Leader '$ 100-Day Action Plan" là The New Leader's 100-Day Action Plan; "Accounting Mode Simple" là Accounting Made Simple; "The Unwritten Lows of Business" là The Unwritten Laws of Business; "It's Nor About the Money" là It's Not About the Money; "/ Will Teach You to Be Rich" là I Will Teach You to Be Rich; "Stuteley" là Richard Stutely; "técnicos para el análisis de la empreso" là técnicas... de la empresa (tên bản TBN của Porter).
-> - **Lỗi OCR có thể đổi nghĩa:** "The Knock" của Brodsky và Burlingham thực ra là *The Knack*; "How to Live with Statistics" của Darrell Huff thực ra là *How to Lie with Statistics* (Nói dối bằng thống kê) — hai chữ chỉ lệch một ký tự nhưng nghĩa khác hẳn.
-> - Sách nào có bản dịch TBN thì bản TBN ghi tên TBN kèm nhà xuất bản, thành phố, năm của bản dịch đó; sách chưa có bản TBN thì giữ tên tiếng Anh. Tên tiếng Anh gốc của sách bản TBN chỉ ghi khi người tổng hợp chắc chắn; chỗ không chắc để "—".
-> - Câu đề từ của Samuel Johnson trong bản TBN ("điều tốt nhất có thể đến với ta sau khi đã biết một điều là biết phải tìm nó ở đâu") có vẻ lệch so với câu quen thuộc của Johnson ("Tri thức có hai loại: ta tự biết một chủ đề, hoặc ta biết nơi tìm thông tin về nó"). Ý chung vẫn giữ: biết tìm ở đâu cũng là một dạng hiểu biết.
-> - Bối cảnh: danh sách lập năm 2010; vài cuốn đã có ấn bản mới hoặc bản dịch sau đó. Không có chú thích cuối sách nào thuộc hai phụ lục này.
+Cách dùng ông đề nghị rất cụ thể: lấy một cuốn sổ, dành ra một giờ, tự thưởng một bữa ăn ở nhà hàng yêu thích và viết trong lúc ăn; đến lúc thanh toán, người viết sẽ có vài ý mới để cải thiện cuộc sống hoặc công việc kinh doanh.
 
 ## Sơ đồ
 
@@ -79,7 +71,7 @@
   │   định nghĩa thành công, so sánh với người khác, nhu cầu và xa xỉ,  │
   │   lòng biết ơn                                                      │
   └─────────────────────────────────────────────────────────────────────┘
-              │   văn bản OCR có 41 câu, không phải 49 (xem Lưu ý)
+              │   văn bản OCR có 41 câu, không phải 49 (xem mục Lưu ý cuối phụ lục)
               ▼
   CÁCH DÙNG: một cuốn sổ + một giờ + bữa ăn ở nhà hàng yêu thích;
   viết trong lúc ăn → khi thanh toán đã có vài ý mới để cải thiện
@@ -412,7 +404,7 @@ Các câu hỏi được đánh số liên tục để dễ đếm (bản gốc 
 
 *Liên quan: mục "Los estados del ser" ở chương 8 (định nghĩa thành công bằng các trạng thái thay vì bằng một mục tiêu). Câu 38 trong bản TBN ("¿Estoy viviendo por debajo de mis posibilidades?") có thể hiểu là "sống dưới mức khả năng chi tiêu" (tức là tiết kiệm, đúng tinh thần nhóm câu hỏi về nhu cầu và xa xỉ) hoặc "sống chưa hết tiềm năng"; đặt cạnh câu 39 và 40, nghĩa thứ nhất hợp hơn.*
 
-**Đếm lại:** 5 + 5 + 4 + 6 + 8 + 6 + 7 = **41 câu**, ít hơn con số 49 trong tên phụ lục (xem khối Lưu ý).
+**Đếm lại:** 5 + 5 + 4 + 6 + 8 + 6 + 7 = **41 câu**, ít hơn con số 49 trong tên phụ lục (xem mục Lưu ý cuối phụ lục).
 
 **Cách dùng Kaufman đề nghị.** Lấy một cuốn sổ và dành riêng một giờ để trả lời các câu hỏi. Hãy làm cho vui: tự thưởng một bữa trưa hoặc bữa tối ở nhà hàng yêu thích và viết trong lúc ăn. Đến khi người ta mang hoá đơn tới, bạn sẽ có vài ý mới để cải thiện cuộc sống hoặc công việc kinh doanh của mình.
 
@@ -465,3 +457,148 @@ Dù tên phụ lục nói "cải thiện kết quả", cả bảy nhóm câu h�
 - **Giai đoạn 4 — hệ thống, số liệu và chiến lược:** *Thinking in Systems* (Meadows), *How to Lie with Statistics* (Huff), *Competitive Strategy* (Porter), *Blue Ocean Strategy* (Kim và Mauborgne).
 - **Song song suốt lộ trình:** một cuốn tài chính cá nhân như *Your Money or Your Life* (Dominguez và Robin) hoặc *The Millionaire Next Door* (Stanley và Danko).
 - **Ở Việt Nam:** nhiều cuốn trong danh sách đã có bản dịch tiếng Việt (ví dụ các sách của Carnegie, Allen, Ries và Trout, Goldratt, Kim và Mauborgne), nên người đọc có thể tìm bản tiếng Việt trước rồi đối chiếu bản tiếng Anh ở những thuật ngữ quan trọng; các cuốn về kế hoạch kinh doanh để vay vốn và về thuế, kế toán cần được đọc kèm quy định của Việt Nam vì bối cảnh pháp lý khác Mỹ.
+
+## Bản đồ tư duy
+
+Toàn cảnh hai phụ lục trên một trang: sáu nhánh lớn đi theo phần Nội dung chi tiết (lời dẫn và cấu trúc của Phụ lục A; nhóm sách 1–7, 8–14 và 15–25; nhóm câu hỏi 1–4 rồi 5–7 kèm cách dùng của Phụ lục B), mỗi nhánh ghi các đầu sách tiêu biểu, nội dung câu hỏi và con số then chốt; nhánh cuối là thông điệp xuyên suốt rút từ phần Đánh giá và vận dụng.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phụ lục A và B: cuốn sách chỉ là bản đồ tổng quan, học tiếp bằng 99 cuốn chuyên đề và tự vấn bằng câu hỏi`"]
+  n1["`Phụ lục A, lời dẫn — 99 cuốn trong 25 nhóm, không có thứ tự bắt buộc`"]
+  n0 --- n1
+  n2["`Đề từ Richard Peck: người ta viết dựa trên tất cả những cuốn sách mình đã đọc`"]
+  n1 --- n2
+  n3["`Đề từ Samuel Johnson: biết phải đi tìm một điều ở đâu là điều tốt nhất sau khi đã biết nó`"]
+  n1 --- n3
+  n4["`Cuốn sách là cái nhìn tổng quan chắt lọc từ một khối sách kinh doanh rất rộng`"]
+  n1 --- n4
+  n5["`Muốn học tiếp thì bắt đầu từ bất kỳ cuốn nào, tức chọn mảng mình đang cần nhất`"]
+  n1 --- n5
+  n6["`Đây là phiên bản in của danh sách đọc trên PersonalMBA.com mà chương 1 giới thiệu`"]
+  n1 --- n6
+  n7["`Tác giả lặp lại: Drucker 3 cuốn, Seth Godin 3 cuốn, Scott Berkun 2, Alan Weiss 2`"]
+  n1 --- n7
+  n8["`Nhóm 1–7 — Bản thân và con người, nối với chương 7–9 (29 cuốn)`"]
+  n0 --- n8
+  n9["`Năng suất và hiệu quả, 7 cuốn: Getting Things Done, The 80/20 Principle, StrengthsFinder 2.0`"]
+  n8 --- n9
+  n10["`Tâm trí con người, 4 cuốn: Brain Rules (Medina), Deep Survival (Gonzales)`"]
+  n8 --- n10
+  n11["`Giao tiếp, 5 cuốn: Made to Stick, Presentation Zen, On Writing Well`"]
+  n8 --- n11
+  n12["`Tạo ảnh hưởng, 4 cuốn: Carnegie, Influence của Cialdini, Crucial Conversations`"]
+  n8 --- n12
+  n13["`Ra quyết định 4 cuốn (Sources of Power), sáng tạo 3 cuốn, quản lý dự án 2 cuốn`"]
+  n8 --- n13
+  n14["`Nhóm 8–14 — Khởi sự và năm phần của doanh nghiệp, nối với chương 2–6 (26 cuốn)`"]
+  n0 --- n14
+  n15["`Nhận diện cơ hội 2 cuốn: The New Business Road Test (Mullins)`"]
+  n14 --- n15
+  n16["`Tinh thần khởi nghiệp 6 cuốn: The 4-Hour Workweek, The Art of the Start, The Knack`"]
+  n14 --- n16
+  n17["`Thiết kế sản phẩm có giá trị 4 cuốn: Four Steps to the Epiphany, Rework, Emotional Design`"]
+  n14 --- n17
+  n18["`Marketing 4 cuốn: Permission Marketing, The 22 Immutable Laws of Marketing (Ries và Trout)`"]
+  n14 --- n18
+  n19["`Bán hàng 4 cuốn: SPIN Selling (Rackham), The Sales Bible, Value-Based Fees`"]
+  n14 --- n19
+  n20["`Chuyển giao giá trị 3 cuốn: The Goal (Goldratt)#59; đàm phán 3 cuốn: Bargaining for Advantage`"]
+  n14 --- n20
+  n21["`Nhóm 15–25 — Điều hành, tài chính, hệ thống và mảng ngoài chương trình MBA (44 cuốn)`"]
+  n0 --- n21
+  n22["`Quản lý 5 và lãnh đạo 5 cuốn: First, Break All the Rules, The Essential Drucker, Tribes`"]
+  n21 --- n22
+  n23["`Tài chính và kế toán 4 cuốn: How to Read a Financial Report, Accounting Made Simple`"]
+  n21 --- n23
+  n24["`Hệ thống 3 cuốn: Thinking in Systems#59; phân tích số liệu 4 cuốn: Web Analytics, Marketing Metrics`"]
+  n21 --- n24
+  n25["`Thống kê 2 cuốn: How to Lie with Statistics, bị OCR ghi nhầm thành How to Live with Statistics`"]
+  n21 --- n25
+  n26["`Chiến lược 5 cuốn: Competitive Strategy (Porter), Blue Ocean Strategy#59; tư vấn 2 cuốn`"]
+  n21 --- n26
+  n27["`Tài chính cá nhân 6 và phát triển bản thân 5 cuốn: mảng chương trình MBA thường bỏ qua`"]
+  n21 --- n27
+  n28["`Phụ lục B, nhóm 1–4 — Câu hỏi đặt đúng giúp bộ não nhìn thế giới theo cách khác`"]
+  n0 --- n28
+  n29["`Cân nhắc các câu trả lời có thể giúp vạch ra lối đi không ngờ tới để tiến về nơi mình muốn`"]
+  n28 --- n29
+  n30["`Kaufman soạn danh sách nhiều năm trước, trong giai đoạn sự nghiệp rất khó khăn, để hiểu mình là ai`"]
+  n28 --- n30
+  n31["`Nhóm 1, cơ thể (5 câu): ăn uống, ngủ đủ, điều tiết năng lượng trong ngày, tư thế, quan sát`"]
+  n28 --- n31
+  n32["`Nhóm 2, biết mình muốn gì (5 câu): mục tiêu hào hứng, trạng thái muốn sống mỗi ngày, ưu tiên`"]
+  n28 --- n32
+  n33["`Trạng thái (estados del ser, chương 8) làm tiêu chí thành công thay vì coi hạnh phúc là mục tiêu`"]
+  n32 --- n33
+  n34["`Nhóm 3, nỗi sợ (4 câu): lập danh sách nỗi sợ, hình dung cách xử lý, đẩy giới hạn ở mức vừa phải`"]
+  n28 --- n34
+  n35["`Nhóm 4, tập trung (6 câu): đưa suy nghĩ ra ngoài bằng viết hoặc ghi âm, làm một việc một lúc`"]
+  n28 --- n35
+  n36["`Phụ lục B, nhóm 5–7 và cách dùng — 41 câu viết ra giấy trong một giờ`"]
+  n0 --- n36
+  n37["`Nhóm 5, làm việc hiệu quả (8 câu): phương pháp kế hoạch, danh sách dự án cập nhật, rà cam kết`"]
+  n36 --- n37
+  n38["`Nhóm 5 còn hỏi về nghỉ giải lao, tạo thói quen tốt, bỏ thói quen hại, dám nói không`"]
+  n37 --- n38
+  n39["`Nhóm 6, điểm mạnh (6 câu): thích gì, giỏi gì, môi trường, cách học, điều gì đang kìm hãm`"]
+  n36 --- n39
+  n40["`Nhóm 7, hạnh phúc (7 câu): định nghĩa thành công, so sánh với người khác, nhu cầu và xa xỉ`"]
+  n36 --- n40
+  n41["`Câu 39: nếu chỉ được giữ một trăm món đồ thì chọn món nào#59; câu 41: biết ơn điều gì`"]
+  n40 --- n41
+  n42["`Văn bản OCR chỉ có 41 câu (5 + 5 + 4 + 6 + 8 + 6 + 7), không phải 49 như tên phụ lục`"]
+  n36 --- n42
+  n43["`Cách dùng: một cuốn sổ, một giờ, viết trong bữa ăn ở nhà hàng yêu thích`"]
+  n36 --- n43
+  n44["`Khi hoá đơn được mang tới, người viết đã có vài ý mới cải thiện cuộc sống hoặc kinh doanh`"]
+  n43 --- n44
+  n45["`Thông điệp xuyên suốt — Học tiếp theo đúng mảng mình yếu, và cải thiện bắt đầu từ chính mình`"]
+  n0 --- n45
+  n46["`Các nhóm sách gần như trùng các chương: chương nào yếu nhất thì mở nhóm sách tương ứng`"]
+  n45 --- n46
+  n47["`Danh sách phản ánh năm 2010, thiên về sách Mỹ: điểm khởi đầu, không phải danh sách khép kín`"]
+  n45 --- n47
+  n48["`Bảy nhóm câu hỏi nhìn vào người làm, không hỏi về khách hàng, sản phẩm hay dòng tiền`"]
+  n45 --- n48
+  n49["`Theo chương 7–8, hiệu quả làm việc phụ thuộc trước tiên vào việc hiểu và điều khiển được chính mình`"]
+  n45 --- n49
+  n50["`Gợi ý của người tổng hợp: rà soát đủ mỗi quý, 15 phút mỗi tuần với riêng nhóm 5`"]
+  n45 --- n50
+  n51["`Mỗi buổi chọn tối đa ba điểm cần sửa, mỗi điểm viết ra một hành động tiếp theo cụ thể`"]
+  n50 --- n51
+  class n0 root
+  class n1,n8,n14,n21,n28,n36,n45 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), Phụ lục A "Cómo seguir con sus estudios de gestión empresarial" và Phụ lục B "Cuarenta y nueve preguntas para mejorar sus resultados" (hai phụ lục cuối sách, đứng sau chương 12 và trước phần chú thích; tên tiếng Anh của hai phụ lục không ghi ở đây vì người tổng hợp không chắc chắn).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Mười hai chương của sách đi từ năm phần của một doanh nghiệp (chương 2–6: tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính), qua con người (chương 7–9: tâm trí, làm việc với chính mình, làm việc với người khác), tới hệ thống (chương 10–12: hiểu, phân tích, cải thiện hệ thống). Hai phụ lục không thêm mô hình tư duy mới mà đưa ra hai công cụ để đi tiếp sau khi gấp sách.
+
+Phụ lục A là danh sách đọc thêm, chia theo đúng các mảng sách đã đi qua, từ năng suất cá nhân, tâm trí con người, giao tiếp, đến marketing, bán hàng, tài chính, hệ thống, chiến lược và tài chính cá nhân. Đây chính là phiên bản in của danh sách đọc trên PersonalMBA.com mà chương 1 đã giới thiệu.
+
+Phụ lục B là bộ câu hỏi tự vấn mà Kaufman soạn cho bản thân, chủ yếu nối với chương 7 (tâm trí con người) và chương 8 (làm việc với chính mình): cơ thể và năng lượng, mục tiêu, nỗi sợ, sự tập trung, thói quen, điểm mạnh và định nghĩa về thành công.
+
+## Lưu ý
+
+- Nguồn là bản dịch tiếng Tây Ban Nha qua OCR của bản scan; phần dịch tiếng Việt là của người tổng hợp từ bản TBN.
+- **Số câu hỏi ở Phụ lục B:** tiêu đề nói 49 câu, nhưng văn bản OCR chỉ có **41 câu** trong 7 nhóm (5 + 5 + 4 + 6 + 8 + 6 + 7). Người tổng hợp đã đếm lại hai lần. Chỗ ngắt trang nằm giữa nhóm 4 nhưng câu trước và sau chỗ ngắt đều liền mạch, nên không có dấu hiệu OCR làm mất dòng. Có thể bản dịch TBN (hoặc bản ePub làm nguồn scan) đã lược bớt câu so với bản tiếng Anh, hoặc con số 49 trong tên phụ lục không khớp với danh sách ngay từ bản gốc. Người tổng hợp không có bản tiếng Anh để đối chiếu nên chỉ dịch đủ 41 câu có trong văn bản, không tự thêm câu.
+- **Số đầu sách ở Phụ lục A:** 99 cuốn trong 25 nhóm (đếm từ văn bản OCR).
+- **Lỗi OCR trong tên sách đã sửa:** "Loehr, lim" là Jim Loehr; "The Copywriter 5 Handbook" là The Copywriter's Handbook; "Rogolf, Edward" là Edward Rogoff; "Escupe from Cubicle" là Escape from Cubicle Nation (bản OCR thiếu chữ "Nation"); "Getting Everything You Can Out of All You 've Gor" là ...All You've Got; "The Uitimate Sales Machine" là The Ultimate Sales Machine; "The New Leader '$ 100-Day Action Plan" là The New Leader's 100-Day Action Plan; "Accounting Mode Simple" là Accounting Made Simple; "The Unwritten Lows of Business" là The Unwritten Laws of Business; "It's Nor About the Money" là It's Not About the Money; "/ Will Teach You to Be Rich" là I Will Teach You to Be Rich; "Stuteley" là Richard Stutely; "técnicos para el análisis de la empreso" là técnicas... de la empresa (tên bản TBN của Porter).
+- **Lỗi OCR có thể đổi nghĩa:** "The Knock" của Brodsky và Burlingham thực ra là *The Knack*; "How to Live with Statistics" của Darrell Huff thực ra là *How to Lie with Statistics* (Nói dối bằng thống kê) — hai chữ chỉ lệch một ký tự nhưng nghĩa khác hẳn.
+- Sách nào có bản dịch TBN thì bản TBN ghi tên TBN kèm nhà xuất bản, thành phố, năm của bản dịch đó; sách chưa có bản TBN thì giữ tên tiếng Anh. Tên tiếng Anh gốc của sách bản TBN chỉ ghi khi người tổng hợp chắc chắn; chỗ không chắc để "—".
+- Câu đề từ của Samuel Johnson trong bản TBN ("điều tốt nhất có thể đến với ta sau khi đã biết một điều là biết phải tìm nó ở đâu") có vẻ lệch so với câu quen thuộc của Johnson ("Tri thức có hai loại: ta tự biết một chủ đề, hoặc ta biết nơi tìm thông tin về nó"). Ý chung vẫn giữ: biết tìm ở đâu cũng là một dạng hiểu biết.
+- Bối cảnh: danh sách lập năm 2010; vài cuốn đã có ấn bản mới hoặc bản dịch sau đó. Không có chú thích cuối sách nào thuộc hai phụ lục này.

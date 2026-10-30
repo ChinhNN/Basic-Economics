@@ -1,15 +1,25 @@
 # Chương 7 — Tâm trí con người (La mente; The Human Mind)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 7 "La mente" (tương ứng Chapter 6 "The Human Mind" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Các chương 2 đến 6 đã trình bày năm thành phần của một doanh nghiệp: tạo ra giá trị, marketing, bán hàng, chuyển giao giá trị và tài chính (chương 6 kết thúc ở các khái niệm như "lợi nhuận đủ sống" và đòn bẩy). Chương 7 mở đầu phần thứ hai của cuốn sách, phần nói về con người: Kaufman chuyển từ câu hỏi "doanh nghiệp vận hành thế nào" sang câu hỏi "con người, tức cả khách hàng lẫn người làm kinh doanh, nhận thông tin, ra quyết định và hành động thế nào". Chương này là nền tâm lý học cho hai chương tiếp theo: chương 8 "Cómo trabajar" (làm việc với chính mình: ra quyết định, đặt mục tiêu, quản lý việc hằng ngày) dùng lại mức tham chiếu, cấu trúc dẫn dắt, ý chí và mô phỏng trong đầu; chương 9 "Trabajar en equipo" (làm việc với người khác) dùng lại kiểm soát tri giác, xung đột và giới hạn quy mô nhận thức. Nhiều mô hình trong chương cũng giải thích ngược lại các kỹ thuật marketing và bán hàng ở chương 3–4 (ví dụ sợ mất mát giải thích vì sao "đảo ngược rủi ro" khi bán hàng có hiệu quả), và báo trước các chương về hệ thống 10–12 (vòng phản hồi, ma sát, danh sách kiểm tra).
-**Ý chính:** Kaufman muốn người đọc hiểu rằng **bộ não con người được "lập trình" cho đời sống săn bắt hái lượm cách đây 100.000 năm, không phải cho văn phòng hiện đại**, và rằng **hành vi không phải là phản ứng với phần thưởng hay hình phạt mà là nỗ lực giữ cho những gì ta cảm nhận nằm trong một mức chấp nhận được**. Từ hai ý này ông rút ra ba nhóm hệ quả. Nhóm thứ nhất nói về cách tâm trí vận hành: bộ não có nhiều lớp (lớp giữ cơ thể sống, lớp nhận diện khuôn mẫu và dự đoán, lớp mỏng nhất phía trên lo suy xét có ý thức); phần lớn thời gian ta chạy theo "chế độ lái tự động"; ta hành động khi và chỉ khi một cảm nhận vượt ra ngoài **mức tham chiếu**, còn lại thì **tiết kiệm năng lượng**. Nhóm thứ hai nói về cách thay đổi hành vi: muốn đổi hành vi thì đổi mức tham chiếu hoặc đổi **cấu trúc dẫn dắt** của môi trường, vì **ý chí** là nguồn lực ít ỏi và cạn dần (ví dụ: vứt hộp kem khỏi tủ đông thay vì cố cưỡng lại nó; Ulysses tự trói mình vào cột buồm). Nhóm thứ ba nói về các thiên lệch mà người làm kinh doanh phải biết: con người **sợ mất gấp khoảng hai lần** mức thích được, dễ rơi vào **trạng thái khoá chặt vì mối đe doạ**, không cảm nhận được quy mô lớn (**con số Dunbar** khoảng 150 mối quan hệ), **liên tưởng** cả những thứ không liên quan logic (Coca-Cola gắn với hạnh phúc), **không nhìn thấy điều vắng mặt** (sản phẩm phòng bẩn của P&G thất bại vì người dùng không thấy gì thay đổi), đánh giá mọi thứ qua **tương phản** (bộ com-lê 400 USD cạnh bộ 3.000 USD), hành động ngay khi có **khan hiếm** (búp bê Tickle Me Elmo 1996) và chỉ chú ý lâu khi có **yếu tố mới lạ** (đồng hồ Mackworth: độ tập trung giảm mạnh sau 10 phút). Thông điệp chung: đừng tự trách mình hay trách người khác vì những giới hạn này; hãy thiết kế công việc, môi trường và lời chào hàng sao cho phù hợp với chúng.
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua bản OCR từ ảnh scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman. Tên tiếng Anh của 23 mục được ghi theo hiểu biết của người tổng hợp về bản gốc (Caveman Syndrome, Performance Load, Onion Brain, Perceptual Control, Reference Level, Conservation of Energy, Guiding Structure, Reorganization, Conflict, Pattern Matching, Mental Simulation, Interpretation and Reinterpretation, Motivation, Inhibition, Willpower Depletion, Loss Aversion, Threat Lockdown, Cognitive Scope Limitation, Association, Absence Blindness, Contrast, Scarcity, Novelty).
-> **Chỗ OCR hỏng đã tự sửa:** "Malcom McMahon, obespo de Notingham" là Malcolm McMahon, giám mục Nottingham; "WELIAM T. POwERs" là William T. Powers; "P. 1. Eby" là P. J. Eby; "combencelalo/rombencelalo" là rombencéfalo; "Jen Kabat-Zinn" là Jon Kabat-Zinn; "ANAIS Nav" là Anaïs Nin; "ALDOUK HuxLEy… Lin mundo feliz" là Aldous Huxley, *Un mundo feliz* (*Brave New World*); "Medida por mecida" là *Medida por medida* (*Measure for Measure*); "Bemard-Killworth" là Bernard–Killworth; "Moke Decisions" là *Make Decisions*; "des horas" là "dos horas" (hai giờ); "2no?", "2Y 40" và "210.000 dólares es mucho dinero?" là dấu hỏi mở "¿" bị đọc thành số 2, tức câu gốc là "¿10.000 dólares es mucho dinero?" (10.000 USD có phải nhiều tiền không?). Dòng đề từ của Michael Gelb bị OCR làm rối tên sách ("Pensar como Leonardo da Vince suele lecciones…"); có lẽ là bản TBN của *How to Think Like Leonardo da Vinci* (bảy bước để trở thành thiên tài), người tổng hợp không chắc tên TBN. Ở mục tiết kiệm năng lượng, quãng đường của vận động viên siêu marathon in ra là "de 00 a 160 kilómetros": chữ số đầu bị mất, chỉ chắc con số trên là 160 km.
-> **Chỗ bản dịch có vẻ lệch nghĩa:** (1) Đề từ của Yogi Berra trong bản gốc là câu chơi chữ nổi tiếng "chín mươi phần trăm trận đấu này là một nửa tâm lý"; bản TBN dịch thành "hơn kém là tâm lý", mất cái phi lý gây cười. (2) Mục "La inhibición": bản TBN viết "nói 'thiếu tự do ý chí' sẽ chính xác hơn 'tự do ý chí'"; trong tiếng Anh đây gần như chắc chắn là cách chơi chữ "free won't" (tự do *không* làm) thay cho "free will", tức vùng não trước chủ yếu có quyền *ngăn* một hành động tự động chứ không khởi phát hành động; "thiếu tự do ý chí" làm sai nghĩa. (3) Cũng mục đó, câu "khả năng kìm hãm có giới hạn, chúng ta sẽ bàn ở chương 10" có lẽ là lỗi chuyển số: giới hạn đó được bàn ngay ở mục kế tiếp "Falta de fuerza de voluntad". (4) Mục "La motivación" nói các mô phỏng, khuôn mẫu, xung đột và diễn giải "ẩn trong rombencéfalo" (não sau), trong khi chính chương xếp khuôn mẫu và dự đoán vào mesencéfalo (não giữa); có thể là lỗi dịch hoặc lỗi của bản gốc. (5) Mục "Encerrar la amenaza bajo llave": câu kết về cách làm dịu nói "dùng một biện pháp *tâm lý*" nhưng ngay sau đó liệt kê tập thể dục, ngủ và thiền để chuyển hoá hormone căng thẳng, tức biện pháp *sinh lý*; người tổng hợp hiểu theo nghĩa sinh lý. (6) Mục "El factor «escasez»": câu "khan hiếm là một trong những thứ mà xu hướng tiết kiệm năng lượng tự nhiên chiến thắng" bị đảo chủ ngữ; theo logic của đoạn, khan hiếm mới là thứ *thắng được* xu hướng tiết kiệm năng lượng. Cũng mục này, cách thứ ba "Descenso de precios: báo cho khách rằng sắp có giảm giá" đi ngược logic (báo sắp giảm giá thì khách sẽ chờ); nhiều khả năng ý gốc là một đợt giảm giá *sắp kết thúc*. (7) Mục "La aversión a la pérdida" minh hoạ bằng danh mục đầu tư "tăng 100%" và "giảm 100%"; hai con số này không cho thấy tỷ lệ "gấp đôi", người tổng hợp giữ nguyên như bản TBN. (8) Mục "La percepción por contraste" có câu "nhưng không phải ở cửa hàng này, nơi so sánh giá" bị rối; ý là: khách không đứng ở cửa hàng kia để so sánh giá, thứ hiện diện trước mặt khách là bộ com-lê 400 USD.
-> **Bối cảnh:** sách viết năm 2010; các ví dụ như Coca-Cola trên YouTube, Facebook, Twitter, ứng dụng Freedom/LeechBlock, khủng hoảng chứng khoán cuối 2008, Daniel Craig quảng cáo đồng hồ là ví dụ tính tới lúc đó. Một số kết quả khoa học Kaufman dẫn (ý chí phụ thuộc vào glucose trong máu, mô hình "não ba lớp") đã bị nghi ngờ hoặc bác bỏ sau năm 2010; xem phần Đánh giá.
-> **Chú thích cuối sách đã đưa vào:** [35] (đèn trị liệu goLITE BLU) và [36] (vitamin D3 và việc hỏi bác sĩ), ở mục 3 của Nội dung chi tiết; [37] (sách *Kluge* của Gary Marcus), ở mục 4. Các chú thích [34], [38]–[44] chỉ là đường dẫn web nên bỏ; riêng [41] trỏ tới trang về "lý thuyết chu kỳ kinh doanh của trường phái Áo", cho thấy đoạn về bong bóng kinh tế ở mục 21 của Nội dung chi tiết dựa trên lý thuyết này.
+Kaufman muốn người đọc hiểu rằng **bộ não con người được "lập trình" cho đời sống săn bắt hái lượm cách đây 100.000 năm, không phải cho văn phòng hiện đại**, và rằng **hành vi không phải là phản ứng với phần thưởng hay hình phạt mà là nỗ lực giữ cho những gì ta cảm nhận nằm trong một mức chấp nhận được**.
+
+Từ hai ý này ông rút ra ba nhóm hệ quả. Nhóm thứ nhất nói về cách tâm trí vận hành: bộ não có nhiều lớp (lớp giữ cơ thể sống, lớp nhận diện khuôn mẫu và dự đoán, lớp mỏng nhất phía trên lo suy xét có ý thức); phần lớn thời gian ta chạy theo "chế độ lái tự động"; ta hành động khi và chỉ khi một cảm nhận vượt ra ngoài **mức tham chiếu**, còn lại thì **tiết kiệm năng lượng**.
+
+Nhóm thứ hai nói về cách thay đổi hành vi: muốn đổi hành vi thì đổi mức tham chiếu hoặc đổi **cấu trúc dẫn dắt** của môi trường, vì **ý chí** là nguồn lực ít ỏi và cạn dần (ví dụ: vứt hộp kem khỏi tủ đông thay vì cố cưỡng lại nó; Ulysses tự trói mình vào cột buồm).
+
+Nhóm thứ ba nói về các thiên lệch mà người làm kinh doanh phải biết:
+
+- con người **sợ mất gấp khoảng hai lần** mức thích được
+- dễ rơi vào **trạng thái khoá chặt vì mối đe doạ**
+- không cảm nhận được quy mô lớn (**con số Dunbar** khoảng 150 mối quan hệ)
+- **liên tưởng** cả những thứ không liên quan logic (Coca-Cola gắn với hạnh phúc)
+- **không nhìn thấy điều vắng mặt** (sản phẩm phòng bẩn của P&G thất bại vì người dùng không thấy gì thay đổi)
+- đánh giá mọi thứ qua **tương phản** (bộ com-lê 400 USD cạnh bộ 3.000 USD)
+- hành động ngay khi có **khan hiếm** (búp bê Tickle Me Elmo 1996)
+- và chỉ chú ý lâu khi có **yếu tố mới lạ** (đồng hồ Mackworth: độ tập trung giảm mạnh sau 10 phút).
+
+Thông điệp chung: đừng tự trách mình hay trách người khác vì những giới hạn này; hãy thiết kế công việc, môi trường và lời chào hàng sao cho phù hợp với chúng.
 
 ## Sơ đồ
 
@@ -922,11 +932,23 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao con người thường phản ứng "không hợp lý" trong công việc và kinh doanh hiện đại?** Vì bộ não được thiết kế cho đời sống săn bắt hái lượm cách đây 100.000 năm (hội chứng người tiền sử). Phần lớn thời gian não chạy bằng lái tự động: não sau giữ cơ thể sống, não giữa nhận diện khuôn mẫu và dự đoán; chỉ lớp não trước mỏng manh mới suy xét có ý thức, và nó chỉ vào cuộc khi gặp điều bất ngờ. Bộ não ấy tiết kiệm năng lượng, không hành động khi chưa có gì vượt mức tham chiếu, sợ mất gấp khoảng hai lần thích được, rơi vào trạng thái khoá chặt khi có mối đe doạ (kể cả mối đe doạ nhẹ và kéo dài như tin đồn sa thải), không cảm nhận được quy mô lớn (con số Dunbar khoảng 150), liên tưởng cả những thứ không liên quan logic, và không nhìn thấy điều vắng mặt. Những phản ứng đó từng giúp tổ tiên sống sót; trong văn phòng chúng thành trì hoãn, ngại khởi nghiệp, quyết định vô cảm ở quy mô tập đoàn và đánh giá thấp công việc phòng ngừa. Ngoài ra tâm trí là một hệ thống vật lý: thiếu ăn, thiếu ngủ, thiếu vận động thì làm việc kém (bình nhiên liệu của cơ thể).
+1. **Vì sao con người thường phản ứng "không hợp lý" trong công việc và kinh doanh hiện đại?** Vì bộ não được thiết kế cho đời sống săn bắt hái lượm cách đây 100.000 năm (hội chứng người tiền sử). Phần lớn thời gian não chạy bằng lái tự động: não sau giữ cơ thể sống, não giữa nhận diện khuôn mẫu và dự đoán; chỉ lớp não trước mỏng manh mới suy xét có ý thức, và nó chỉ vào cuộc khi gặp điều bất ngờ.
 
-2. **Hành vi con người thật sự được điều khiển ra sao, và muốn đổi hành vi thì tác động vào đâu?** Kaufman bác thuyết hành vi kiểu Skinner (kích thích, thưởng, phạt) và dùng lý thuyết kiểm soát tri giác của William T. Powers: con người như bộ điều nhiệt, hành động khi và chỉ khi một cảm nhận lệch khỏi mức tham chiếu (điểm đặt, khoảng, hoặc sai số bằng 0). Vì thế cùng một ưu đãi cho kết quả khác nhau: trả lương làm thêm giờ khiến người này làm nhiều hơn, người kia làm như cũ, người khác làm ít hơn vì đạt mức thu nhập mình cần sớm hơn. Muốn đổi hành vi thì có ba đòn bẩy: (a) đổi mức tham chiếu (lập ngân sách, quyết không làm quá 8 giờ, tiếp xúc với người đã làm được điều mình tưởng không thể, như kỷ lục 1 dặm dưới 4 phút của Bannister); (b) đổi cấu trúc dẫn dắt của môi trường (bỏ kem khỏi tủ đông, cài Freedom chặn Internet, Ulysses tự trói vào cột buồm, quy tắc buồng lái vô trùng); (c) với xung đột, đổi cấu trúc tình huống để các bên định nghĩa thành công không còn loại trừ nhau (lịch nghỉ trước của Neil Fiore cho chứng trì hoãn). Ý chí chỉ nên dùng để đổi môi trường, vì nó cạn dần khi dùng. Khi không biết phải đổi gì, tâm trí bước vào giai đoạn tái tổ chức và thử ngẫu nhiên; đó là cách não học, không nên kháng cự. Diễn giải lại ký ức (quy trình 7 bước của Morty Lefkoe) cũng đổi được hành vi, vì mô phỏng trong đầu dựa trên kho ký ức đó.
+   Bộ não ấy tiết kiệm năng lượng, không hành động khi chưa có gì vượt mức tham chiếu, sợ mất gấp khoảng hai lần thích được, rơi vào trạng thái khoá chặt khi có mối đe doạ (kể cả mối đe doạ nhẹ và kéo dài như tin đồn sa thải), không cảm nhận được quy mô lớn (con số Dunbar khoảng 150), liên tưởng cả những thứ không liên quan logic, và không nhìn thấy điều vắng mặt.
 
-3. **Người làm kinh doanh nên dùng hiểu biết về tâm trí thế nào khi chào hàng, và giới hạn ở đâu?** Có sáu cách. Sợ mất mát: loại bỏ cảm giác rủi ro của khách bằng cam kết hoàn tiền (đảo ngược rủi ro), học theo sòng bạc đổi tiền thành phỉnh. Liên tưởng: gắn sản phẩm với cảm xúc và hình ảnh tích cực (Coca-Cola với hạnh phúc, Daniel Craig với đồng hồ). Mù trước điều vắng mặt: khi bán thứ phòng ngừa, phải nói về lợi ích cụ thể, tức thì mà khách cảm nhận được. Tương phản: đặt giá trong khung so sánh có lợi (khoá học "rẻ hơn 149.000 USD so với MBA"), bán món chính đắt trước rồi mới giới thiệu món phụ. Khan hiếm: số lượng giới hạn, giá sắp tăng, hạn chót, để khách không "để sau". Mới lạ: chia nội dung thành phần dưới 10 phút, mỗi phần có một "móc câu". Giới hạn: khan hiếm giả tạo (giới hạn số bản của hàng số) bị khách nhận ra là thao túng và làm họ mất hứng mua; quát tháo để "tạo động lực" chỉ khiến người ta muốn tránh xa mình.
+   Những phản ứng đó từng giúp tổ tiên sống sót; trong văn phòng chúng thành trì hoãn, ngại khởi nghiệp, quyết định vô cảm ở quy mô tập đoàn và đánh giá thấp công việc phòng ngừa. Ngoài ra tâm trí là một hệ thống vật lý: thiếu ăn, thiếu ngủ, thiếu vận động thì làm việc kém (bình nhiên liệu của cơ thể).
+
+2. **Hành vi con người thật sự được điều khiển ra sao, và muốn đổi hành vi thì tác động vào đâu?** Kaufman bác thuyết hành vi kiểu Skinner (kích thích, thưởng, phạt) và dùng lý thuyết kiểm soát tri giác của William T. Powers: con người như bộ điều nhiệt, hành động khi và chỉ khi một cảm nhận lệch khỏi mức tham chiếu (điểm đặt, khoảng, hoặc sai số bằng 0). Vì thế cùng một ưu đãi cho kết quả khác nhau: trả lương làm thêm giờ khiến người này làm nhiều hơn, người kia làm như cũ, người khác làm ít hơn vì đạt mức thu nhập mình cần sớm hơn.
+
+   Muốn đổi hành vi thì có ba đòn bẩy: (a) đổi mức tham chiếu (lập ngân sách, quyết không làm quá 8 giờ, tiếp xúc với người đã làm được điều mình tưởng không thể, như kỷ lục 1 dặm dưới 4 phút của Bannister); (b) đổi cấu trúc dẫn dắt của môi trường (bỏ kem khỏi tủ đông, cài Freedom chặn Internet, Ulysses tự trói vào cột buồm, quy tắc buồng lái vô trùng); (c) với xung đột, đổi cấu trúc tình huống để các bên định nghĩa thành công không còn loại trừ nhau (lịch nghỉ trước của Neil Fiore cho chứng trì hoãn).
+
+   Ý chí chỉ nên dùng để đổi môi trường, vì nó cạn dần khi dùng. Khi không biết phải đổi gì, tâm trí bước vào giai đoạn tái tổ chức và thử ngẫu nhiên; đó là cách não học, không nên kháng cự. Diễn giải lại ký ức (quy trình 7 bước của Morty Lefkoe) cũng đổi được hành vi, vì mô phỏng trong đầu dựa trên kho ký ức đó.
+
+3. **Người làm kinh doanh nên dùng hiểu biết về tâm trí thế nào khi chào hàng, và giới hạn ở đâu?** Có sáu cách. Sợ mất mát: loại bỏ cảm giác rủi ro của khách bằng cam kết hoàn tiền (đảo ngược rủi ro), học theo sòng bạc đổi tiền thành phỉnh. Liên tưởng: gắn sản phẩm với cảm xúc và hình ảnh tích cực (Coca-Cola với hạnh phúc, Daniel Craig với đồng hồ).
+
+   Mù trước điều vắng mặt: khi bán thứ phòng ngừa, phải nói về lợi ích cụ thể, tức thì mà khách cảm nhận được. Tương phản: đặt giá trong khung so sánh có lợi (khoá học "rẻ hơn 149.000 USD so với MBA"), bán món chính đắt trước rồi mới giới thiệu món phụ. Khan hiếm: số lượng giới hạn, giá sắp tăng, hạn chót, để khách không "để sau". Mới lạ: chia nội dung thành phần dưới 10 phút, mỗi phần có một "móc câu".
+
+   Giới hạn: khan hiếm giả tạo (giới hạn số bản của hàng số) bị khách nhận ra là thao túng và làm họ mất hứng mua; quát tháo để "tạo động lực" chỉ khiến người ta muốn tránh xa mình.
 
 ## Khái niệm cần biết
 
@@ -980,7 +1002,9 @@
 
 ### 1. Mở đầu chương (La mente)
 
-Chương mở bằng câu đùa của Yogi Berra, cựu cầu thủ bóng chày chuyên nghiệp nổi tiếng vì chơi chữ, rằng phần lớn trận đấu nằm ở tâm lý. Kaufman nói các chương trước đã bàn xong các nguyên lý vận hành của thế giới kinh doanh; nay ông chuyển hướng sang cách con người vận hành. Người ta lập doanh nghiệp để phục vụ người khác. Như đã nói ở phần tạo giá trị và chuyển giao giá trị, nếu con người không có nhu cầu và mong muốn thì doanh nghiệp không tồn tại; ngược lại, nếu không ai có khả năng hoặc sẵn lòng đáp ứng các nhu cầu ấy thì doanh nghiệp không vận hành được. Vì vậy, hiểu cách ta thu nhận thông tin, ra quyết định và chọn việc để làm là điều cơ bản để lập và phát triển doanh nghiệp. Hiểu tâm trí rồi, người đọc sẽ dễ tìm cách làm tốt công việc và làm việc hiệu quả với người khác.
+Chương mở bằng câu đùa của Yogi Berra, cựu cầu thủ bóng chày chuyên nghiệp nổi tiếng vì chơi chữ, rằng phần lớn trận đấu nằm ở tâm lý. Kaufman nói các chương trước đã bàn xong các nguyên lý vận hành của thế giới kinh doanh; nay ông chuyển hướng sang cách con người vận hành.
+
+Người ta lập doanh nghiệp để phục vụ người khác. Như đã nói ở phần tạo giá trị và chuyển giao giá trị, nếu con người không có nhu cầu và mong muốn thì doanh nghiệp không tồn tại; ngược lại, nếu không ai có khả năng hoặc sẵn lòng đáp ứng các nhu cầu ấy thì doanh nghiệp không vận hành được. Vì vậy, hiểu cách ta thu nhận thông tin, ra quyết định và chọn việc để làm là điều cơ bản để lập và phát triển doanh nghiệp. Hiểu tâm trí rồi, người đọc sẽ dễ tìm cách làm tốt công việc và làm việc hiệu quả với người khác.
 
 ### 2. Hội chứng người tiền sử (El síndrome del hombre de las cavernas)
 
@@ -992,13 +1016,17 @@ Bạn thấy một bụi cây nhỏ cách khoảng sáu mét, nhận ra lá và 
 
 Bạn quen tất cả mọi người, vì bộ lạc chỉ có khoảng 40 người gắn bó chặt chẽ. Họ tụ lại trước hết để tự vệ trước thú dữ và trước các bộ lạc khác thỉnh thoảng đánh úp để cướp của. Họ làm giáo và lưới đánh cá, ghè đá lửa làm dao và rìu để săn bắt và tự vệ, đan giỏ và nặn nồi đất để chứa thức ăn. Trên lửa đang nướng một con linh dương mà nhóm thợ săn đã đuổi tới khi nó gục (một kỹ thuật gọi là săn bằng sức bền). Buổi tối mọi người ngồi quanh đống lửa (để nấu ăn và đuổi thú), kể chuyện trong ngày cho tới khi ngủ. Sáng hôm sau lại bắt đầu từ đầu.
 
-Kaufman kết luận: sinh học của con người được lập trình cho điều kiện sống cách đây 100.000 năm, không phải cho thế giới ngày nay. Thức ăn nay dư thừa, thú dữ thì không. Ta không còn phải di chuyển liên tục; ngược lại, phần lớn thời gian ta ngồi làm việc trước máy tính. Vì thế những thứ đe doạ thân thể và tâm trí ta là béo phì, bệnh tim, tiểu đường, Alzheimer và mệt mỏi mãn tính. Thân thể và tâm trí được chỉnh cho việc sống sót về thể chất và về xã hội, không cho những ngày làm việc 16 giờ. Thế giới kinh doanh còn tương đối trẻ và sinh học chưa thích nghi với những đòi hỏi mới ta tự đặt ra. Ông khuyên người đọc đừng khắt khe với bản thân: không ai được tạo ra cho loại công việc mà ta đang phụ trách ngày nay, và tất cả chúng ta đều đang vội vã đòi chạy một phần mềm mới trên phần cứng cũ.
+Kaufman kết luận: sinh học của con người được lập trình cho điều kiện sống cách đây 100.000 năm, không phải cho thế giới ngày nay. Thức ăn nay dư thừa, thú dữ thì không. Ta không còn phải di chuyển liên tục; ngược lại, phần lớn thời gian ta ngồi làm việc trước máy tính. Vì thế những thứ đe doạ thân thể và tâm trí ta là béo phì, bệnh tim, tiểu đường, Alzheimer và mệt mỏi mãn tính.
+
+Thân thể và tâm trí được chỉnh cho việc sống sót về thể chất và về xã hội, không cho những ngày làm việc 16 giờ. Thế giới kinh doanh còn tương đối trẻ và sinh học chưa thích nghi với những đòi hỏi mới ta tự đặt ra. Ông khuyên người đọc đừng khắt khe với bản thân: không ai được tạo ra cho loại công việc mà ta đang phụ trách ngày nay, và tất cả chúng ta đều đang vội vã đòi chạy một phần mềm mới trên phần cứng cũ.
 
 ### 3. Bình nhiên liệu của cơ thể (El depósito de gasolina)
 
 Đề từ là một câu thơ của Robert Frost về việc không có niềm vui nào không bị nỗi đau, sự chán chường và lầm lỗi cắt ngang.
 
-Uống Red Bull liên tục và thức trắng đêm thì có giới hạn. Muốn làm việc tốt, bạn phải chăm sóc bản thân; nếu cơ thể không có những gì nó cần, bạn sẽ hết xăng trước khi tới đích. Tâm trí trước hết là một hệ thống vật lý. Những gì ta gọi là mệt mỏi tinh thần hay rối loạn cảm xúc thường chỉ là tín hiệu cơ thể báo đang thiếu thứ gì đó về thể chất: dinh dưỡng, vận động hoặc nghỉ ngơi. Kaufman đề nghị nghĩ về bản thân như một chiếc ô tô có bình xăng, không thể lúc nào cũng chạy với kim chỉ "cạn". Khi nhiều việc, người ta hay quên chăm sóc bản thân; đó là sai lầm, vì chăm sóc bản thân phải là mối quan tâm hàng đầu nếu muốn có kết quả tốt mà không kiệt sức. Ăn tốt, cộng thêm chút vận động và nghỉ ngơi, là nguyên liệu cơ thể biến thành năng lượng làm việc; nếu thiếu, năng suất tất yếu giảm cả về lượng lẫn về chất.
+Uống Red Bull liên tục và thức trắng đêm thì có giới hạn. Muốn làm việc tốt, bạn phải chăm sóc bản thân; nếu cơ thể không có những gì nó cần, bạn sẽ hết xăng trước khi tới đích. Tâm trí trước hết là một hệ thống vật lý. Những gì ta gọi là mệt mỏi tinh thần hay rối loạn cảm xúc thường chỉ là tín hiệu cơ thể báo đang thiếu thứ gì đó về thể chất: dinh dưỡng, vận động hoặc nghỉ ngơi. Kaufman đề nghị nghĩ về bản thân như một chiếc ô tô có bình xăng, không thể lúc nào cũng chạy với kim chỉ "cạn".
+
+Khi nhiều việc, người ta hay quên chăm sóc bản thân; đó là sai lầm, vì chăm sóc bản thân phải là mối quan tâm hàng đầu nếu muốn có kết quả tốt mà không kiệt sức. Ăn tốt, cộng thêm chút vận động và nghỉ ngơi, là nguyên liệu cơ thể biến thành năng lượng làm việc; nếu thiếu, năng suất tất yếu giảm cả về lượng lẫn về chất.
 
 Kaufman đưa ra năm lời khuyên cơ bản:
 
@@ -1006,7 +1034,9 @@ Kaufman đưa ra năm lời khuyên cơ bản:
 - **Vận động đều đặn.** Theo John Medina trong *Brain Rules*, chỉ chút vận động thể chất cũng tăng năng lượng, cải thiện hoạt động trí óc và khả năng tập trung. Đi dạo, chạy bộ, nhảy dây hay tập yoga giúp đầu óc thông thoáng và có thêm năng lượng cho cả ngày. Kaufman tập với một chiếc búa tạ 6 kg để tăng tuần hoàn: một cách tập tạ rẻ, hiệu quả, ít tốn chỗ (chỉ cần cẩn thận đừng đập trúng thứ gì).
 - **Ngủ ít nhất 7–8 giờ.** Giấc ngủ giúp củng cố hiệu quả của nhận diện khuôn mẫu và mô phỏng trong đầu, đồng thời bù lại sự cạn kiệt ý chí (các khái niệm được bàn ở phần sau của chương); vì vậy đừng cắt xén giờ ngủ. Kaufman đặt báo thức để nhắc mình đi ngủ và có thời gian thư giãn trước đó. Ngủ sớm để dậy sớm rất có ích cho công việc sáng tạo; ông thích viết và làm việc sáng tạo vào đầu ngày, khi không bị xao nhãng và thời gian "ra việc".
 - **Phơi nắng, nhưng thận trọng.** Vitamin D tham gia nhiều phản ứng hoá học trong cơ thể, và cơ thể chỉ tổng hợp được nó khi da tiếp xúc trực tiếp với ánh nắng không qua lớp lọc (ánh sáng qua kính không có tác dụng). Nhưng phải vừa phải: say nắng và ung thư da không phải chuyện đùa. Ánh sáng cũng giúp đồng bộ nhịp sinh học, ảnh hưởng tới giấc ngủ. Kaufman dùng một đèn trị liệu phát ánh sáng xanh dịu để chỉnh đồng hồ sinh học theo mùa, chủ yếu vào mùa đông (chú thích của tác giả: ông dùng và đặc biệt giới thiệu đèn goLITE BLU, nhỏ, sáng, dễ mang theo). Chỉ cần 10 phút nắng buổi sáng là giấc ngủ và tâm trạng đã tốt hơn.
-- **Cho não nguyên liệu nó cần.** Nếu từng thấy cáu kỉnh, buồn, thờ ơ hay lờ đờ không rõ lý do, có thể cơ thể đang thiếu nguyên liệu để tạo các chất dẫn truyền thần kinh giúp ta thấy dễ chịu. Trong *The Mood Cure*, Julia Ross giải thích rằng não cần một số hợp chất để tạo các chất dẫn truyền thần kinh chi phối tâm trạng như dopamine và serotonin; thiếu chúng, bạn sẽ thấy uể oải dù mọi chuyện đều ổn. Chế độ ăn hiện nay khiến một số chất cần được bổ sung: một loại vitamin tổng hợp tốt, dầu cá, magiê và các axit amin thiết yếu có thể giúp não có đủ thứ nó cần. Hãy chọn loại có độ hấp thu sinh học tốt, vì thuốc bổ không có tác dụng nếu cơ thể không hấp thu. (Chú thích của tác giả: có thể uống thêm vitamin D3, rất có ích nếu thiếu, và theo ông đa số người cần; một xét nghiệm máu đơn giản sẽ cho biết mức các chất dinh dưỡng thiết yếu; luôn hỏi bác sĩ trước khi thay đổi lớn chế độ ăn hoặc dùng thực phẩm bổ sung.)
+- **Cho não nguyên liệu nó cần.** Nếu từng thấy cáu kỉnh, buồn, thờ ơ hay lờ đờ không rõ lý do, có thể cơ thể đang thiếu nguyên liệu để tạo các chất dẫn truyền thần kinh giúp ta thấy dễ chịu. Trong *The Mood Cure*, Julia Ross giải thích rằng não cần một số hợp chất để tạo các chất dẫn truyền thần kinh chi phối tâm trạng như dopamine và serotonin; thiếu chúng, bạn sẽ thấy uể oải dù mọi chuyện đều ổn.
+
+  Chế độ ăn hiện nay khiến một số chất cần được bổ sung: một loại vitamin tổng hợp tốt, dầu cá, magiê và các axit amin thiết yếu có thể giúp não có đủ thứ nó cần. Hãy chọn loại có độ hấp thu sinh học tốt, vì thuốc bổ không có tác dụng nếu cơ thể không hấp thu. (Chú thích của tác giả: có thể uống thêm vitamin D3, rất có ích nếu thiếu, và theo ông đa số người cần; một xét nghiệm máu đơn giản sẽ cho biết mức các chất dinh dưỡng thiết yếu; luôn hỏi bác sĩ trước khi thay đổi lớn chế độ ăn hoặc dùng thực phẩm bổ sung.)
 
 Kaufman thích thử nhiều cách để tăng năng lượng, năng suất và cải thiện tâm trạng, và khuyên người đọc cũng thử. Một cấu trúc dẫn dắt (mục 8) có thể giúp thay đổi lối sống: đổi cấu trúc môi trường đã giúp ông thực hiện nhiều thay đổi gần như không tốn sức, trong đó có chế độ ăn thuần chay (không sản phẩm động vật) ông theo suốt ba năm. Đừng ngại thử điều mới để xem có tốt hơn không, nhưng hãy làm một cách tỉnh táo. Khi phân vân, hãy nghĩ tới cách tổ tiên đã sống và làm theo.
 
@@ -1034,15 +1064,23 @@ Thiền là một thực hành đơn giản giúp tách bản thân khỏi giọ
 
 Đề từ của William T. Powers, nhà lý thuyết về hệ thống kiểm soát, tác giả *Making Sense of Behavior: The Meaning of Control*: hành vi của một sinh vật là sản phẩm của các hệ thống kiểm soát, nhằm kiểm soát cảm nhận so với các giá trị tham chiếu mong muốn; hành vi là sự kiểm soát cảm nhận.
 
-Kaufman nói trong các diễn đàn kinh doanh danh giá và trong trường kinh doanh, B. F. Skinner là "ông vua ngầm". Skinner là một trong những người dẫn dắt trí tuệ của thuyết hành vi trong tâm lý học: ông cho rằng các hệ thống sinh học luôn phản ứng theo một cách nhất định trước những kích thích nhất định. Kiểm soát kích thích thì kiểm soát được hành vi; huấn luyện sinh vật bằng thưởng và phạt, nó sẽ học cách cư xử đúng. Tâm lý học đã thôi coi thuyết hành vi là trung tâm từ vài thập kỷ: nghiên cứu cho thấy hành vi được chi phối bởi nhiều thứ hơn củ cà rốt buộc vào cây gậy. Đáng tiếc là thực tiễn kinh doanh chưa theo kịp: các tập đoàn và lớp học trường kinh doanh khắp thế giới vẫn đi tìm "ưu đãi thần kỳ" buộc người khác làm đúng điều doanh nghiệp muốn.
+Kaufman nói trong các diễn đàn kinh doanh danh giá và trong trường kinh doanh, B. F. Skinner là "ông vua ngầm". Skinner là một trong những người dẫn dắt trí tuệ của thuyết hành vi trong tâm lý học: ông cho rằng các hệ thống sinh học luôn phản ứng theo một cách nhất định trước những kích thích nhất định. Kiểm soát kích thích thì kiểm soát được hành vi; huấn luyện sinh vật bằng thưởng và phạt, nó sẽ học cách cư xử đúng.
+
+Tâm lý học đã thôi coi thuyết hành vi là trung tâm từ vài thập kỷ: nghiên cứu cho thấy hành vi được chi phối bởi nhiều thứ hơn củ cà rốt buộc vào cây gậy. Đáng tiếc là thực tiễn kinh doanh chưa theo kịp: các tập đoàn và lớp học trường kinh doanh khắp thế giới vẫn đi tìm "ưu đãi thần kỳ" buộc người khác làm đúng điều doanh nghiệp muốn.
 
 Thực ra hành vi con người giống một bộ điều nhiệt hơn. Bộ điều nhiệt là hệ thống rất đơn giản gồm một cảm biến, một điểm đặt và một công tắc. Cảm biến đo nhiệt độ môi trường. Khi nhiệt độ xuống dưới điểm đặt, công tắc bật máy sưởi; khi vượt lên trên điểm đặt, công tắc tắt nó. Quan hệ này gọi là kiểm soát tri giác: bộ điều nhiệt kiểm soát nhiệt độ phòng bằng cách so nhiệt độ cảm nhận được với điểm đặt, và chỉ hoạt động khi và chỉ khi cảm nhận đó lệch ra ngoài; khi hành động đã đưa cảm nhận về lại, hệ thống dừng cho tới khi có lệch lần nữa.
 
 Sinh vật (kể cả con người) về bản chất là những hệ thống kiểm soát tri giác rất phức tạp: ta hành động để giữ cảm nhận của mình về thế giới trong giới hạn chấp nhận được. Ta không mặc áo khoác vì được bảo ngoài trời lạnh; ta mặc vì thấy lạnh và không muốn thấy lạnh. Nếu ánh sáng vào mắt quá chói, ta tìm bóng râm, kéo rèm hay đeo kính râm: hành động kiểm soát cảm nhận, và hành động cụ thể tuỳ vào môi trường (chương 10) lúc đó.
 
-Trong *Making Sense of Behavior*, Powers dùng ví dụ một con tàu giữa biển bão, lúc nhô lên lúc chìm xuống, bị sóng quăng tới quăng lui. Một hòn đá trên boong không phải hệ thống kiểm soát: nó không muốn gì nên không phải kiểm soát gì, nó lăn theo lực vật lý. Một người trên boong thì muốn đứng vững, nên sẽ làm nhiều việc để giữ thăng bằng: dịch trọng tâm, di chuyển, bám lan can... Nếu vấp ngã, người đó sẽ làm những gì có thể để đứng dậy. Môi trường quyết định hành động nào giúp kiểm soát cảm nhận. Kiểm soát không phải là lên kế hoạch, mà là điều chỉnh theo thay đổi của môi trường khi thay đổi xảy ra: người giữa cơn bão không thể định trước mình sẽ làm gì để đứng vững; môi trường đổi thì hành động đổi theo, tuỳ vào nguồn lực và lựa chọn đang có.
+Trong *Making Sense of Behavior*, Powers dùng ví dụ một con tàu giữa biển bão, lúc nhô lên lúc chìm xuống, bị sóng quăng tới quăng lui. Một hòn đá trên boong không phải hệ thống kiểm soát: nó không muốn gì nên không phải kiểm soát gì, nó lăn theo lực vật lý. Một người trên boong thì muốn đứng vững, nên sẽ làm nhiều việc để giữ thăng bằng: dịch trọng tâm, di chuyển, bám lan can... Nếu vấp ngã, người đó sẽ làm những gì có thể để đứng dậy.
 
-Kiểm soát tri giác giải thích vì sao cùng một kích thích thường gây ra phản ứng khác nhau. Ví dụ: ưu đãi kinh điển của chủ doanh nghiệp là trả tiền làm thêm giờ. Muốn nhân viên làm theo giờ làm nhiều hơn thì trả tiền làm thêm giờ, phải không? Không hẳn. Người phụ thuộc vào thu nhập (lương không đủ, cần thêm) có lẽ sẽ làm thêm. Nhưng người thấy thu nhập hiện tại đã đủ, hoặc có những ưu tiên quan trọng hơn công việc, sẽ làm đúng số giờ như cũ, và một số còn làm ít hơn: họ kiểm soát một mức thu nhập nhất định và dành thời gian cho những việc quan trọng hơn với họ, như gia đình hay một dự án riêng; tiền làm thêm giờ giúp họ đạt mức đó sớm hơn và ở chỗ làm ít hơn. Một ưu đãi cho ba kết quả, hai trong số đó trái ngược nhau: làm nhiều hơn và làm ít hơn. Kaufman kết luận: hãy quên thuyết hành vi. Kiểm soát tri giác là một thay đổi căn bản giúp hiểu vì sao người ta làm điều họ làm; hiểu rằng người ta hành động để kiểm soát cảm nhận của họ, bạn sẽ có công cụ tốt hơn để ảnh hưởng tới hành động của họ.
+Môi trường quyết định hành động nào giúp kiểm soát cảm nhận. Kiểm soát không phải là lên kế hoạch, mà là điều chỉnh theo thay đổi của môi trường khi thay đổi xảy ra: người giữa cơn bão không thể định trước mình sẽ làm gì để đứng vững; môi trường đổi thì hành động đổi theo, tuỳ vào nguồn lực và lựa chọn đang có.
+
+Kiểm soát tri giác giải thích vì sao cùng một kích thích thường gây ra phản ứng khác nhau. Ví dụ: ưu đãi kinh điển của chủ doanh nghiệp là trả tiền làm thêm giờ. Muốn nhân viên làm theo giờ làm nhiều hơn thì trả tiền làm thêm giờ, phải không? Không hẳn.
+
+Người phụ thuộc vào thu nhập (lương không đủ, cần thêm) có lẽ sẽ làm thêm. Nhưng người thấy thu nhập hiện tại đã đủ, hoặc có những ưu tiên quan trọng hơn công việc, sẽ làm đúng số giờ như cũ, và một số còn làm ít hơn: họ kiểm soát một mức thu nhập nhất định và dành thời gian cho những việc quan trọng hơn với họ, như gia đình hay một dự án riêng; tiền làm thêm giờ giúp họ đạt mức đó sớm hơn và ở chỗ làm ít hơn. Một ưu đãi cho ba kết quả, hai trong số đó trái ngược nhau: làm nhiều hơn và làm ít hơn.
+
+Kaufman kết luận: hãy quên thuyết hành vi. Kiểm soát tri giác là một thay đổi căn bản giúp hiểu vì sao người ta làm điều họ làm; hiểu rằng người ta hành động để kiểm soát cảm nhận của họ, bạn sẽ có công cụ tốt hơn để ảnh hưởng tới hành động của họ.
 
 ### 6. Mức tham chiếu (Marco de referencia)
 
@@ -1116,7 +1154,9 @@ Mỗi khi một cảm nhận vượt mức tham chiếu, hệ thống kích ho�
 
 Ví dụ sự hài lòng trong công việc, một thứ rất trừu tượng. Trong đầu bạn có một điểm đặt kiểu "mức hạnh phúc mà mình nên có ở chỗ làm". Cảm nhận về sự hài lòng là trung bình các trải nghiệm ở chỗ làm: chuyện dễ chịu kéo trung bình lên, chuyện khó chịu kéo xuống. Nếu cảm nhận thấp hơn mức chấp nhận được, não sẽ lên tiếng: "Mình không hạnh phúc như lẽ ra phải thế... Phải thay đổi gì đó." Vấn đề là có thể bạn không biết phải đổi gì. Có thêm trách nhiệm mới, có sếp mới, nghỉ việc hay tự làm riêng thì sẽ vui hơn? Ai mà biết. Đây là lúc "tái tổ chức" xuất hiện.
 
-Trong giai đoạn tái tổ chức, khi mức tham chiếu bị vượt và không biết cách kiểm soát lại cảm nhận, người ta làm những việc ngẫu nhiên. Cuộc khủng hoảng nhiều người trải qua ở tuổi đôi mươi hay tuổi trung niên là ví dụ hoàn hảo: không rõ phải làm gì để xua cảm giác bức bối, người ta lao vào những dự án có thể rất ngông, như bỏ việc đi bụi châu Âu, xăm hình hay mua mô tô. Bạn thấy lạc lối, chán nản, như phát điên; bình tĩnh, chuyện đó bình thường: não đang tung ra đủ loại ý tưởng điên rồ để tìm cách sửa tình hình. Kaufman kể khi kiệt sức, ông hay nghĩ tới chuyện đi làm bảo vệ, trông coi toà nhà: việc không đòi hỏi nhiều, không phải nghĩ nhiều, cuối tháng có lương. Điều đó có nghĩa là ông có ý hay không? Không; nó chỉ có nghĩa là đi tới những kết luận như vậy là hoàn toàn bình thường: não ông đang tạo ý tưởng ngẫu nhiên để đưa các hệ thống về tầm kiểm soát.
+Trong giai đoạn tái tổ chức, khi mức tham chiếu bị vượt và không biết cách kiểm soát lại cảm nhận, người ta làm những việc ngẫu nhiên. Cuộc khủng hoảng nhiều người trải qua ở tuổi đôi mươi hay tuổi trung niên là ví dụ hoàn hảo: không rõ phải làm gì để xua cảm giác bức bối, người ta lao vào những dự án có thể rất ngông, như bỏ việc đi bụi châu Âu, xăm hình hay mua mô tô. Bạn thấy lạc lối, chán nản, như phát điên; bình tĩnh, chuyện đó bình thường: não đang tung ra đủ loại ý tưởng điên rồ để tìm cách sửa tình hình.
+
+Kaufman kể khi kiệt sức, ông hay nghĩ tới chuyện đi làm bảo vệ, trông coi toà nhà: việc không đòi hỏi nhiều, không phải nghĩ nhiều, cuối tháng có lương. Điều đó có nghĩa là ông có ý hay không? Không; nó chỉ có nghĩa là đi tới những kết luận như vậy là hoàn toàn bình thường: não ông đang tạo ý tưởng ngẫu nhiên để đưa các hệ thống về tầm kiểm soát.
 
 Tái tổ chức là cơ sở thần kinh của việc học. Như sẽ nói ở mục nhận diện khuôn mẫu, tâm trí là cỗ máy học, gắn những nguyên nhân cụ thể với những kết quả cụ thể. Nếu tâm trí chưa học được phải làm gì trong một tình huống, cách tốt nhất là thử điều mới để thu dữ liệu. Đó chính là mục đích của tái tổ chức: thôi thúc cân nhắc hoặc thử điều mới xem có hiệu quả không.
 
@@ -1126,7 +1166,9 @@ Tái tổ chức là cơ sở thần kinh của việc học. Như sẽ nói ở
 
 Đề từ của Albert Einstein: không thể giải những vấn đề lớn ta gặp ở cùng tầng tư duy đã tạo ra chúng.
 
-Kaufman mời người đọc xét một tật ai cũng có: để việc tới mai. Ở mức nào đó ai cũng trì hoãn; có quá nhiều việc, tự nhiên là ta lùi việc cho tới khi sự gấp gáp buộc phải làm. Làm sao tập trung vào một việc thuộc về tương lai khi ngay lúc này còn bao việc khác đang chờ? Điều gây bực là có thời gian làm mà lại không muốn làm vào lúc đó. Một phần của ta muốn làm việc, phần kia thì không. Nếu ép mình làm, bạn sẽ dễ xao nhãng tới mức gần như chẳng làm được gì. Nếu cố nghỉ, một phần trong bạn sẽ nghĩ lẽ ra phải làm việc, và bạn cũng chẳng nghỉ được. Có thể mất nhiều ngày trước khi bạn vừa làm vui vừa nghỉ ngon, và bạn kiệt sức vì gắng sức để... không làm gì cả.
+Kaufman mời người đọc xét một tật ai cũng có: để việc tới mai. Ở mức nào đó ai cũng trì hoãn; có quá nhiều việc, tự nhiên là ta lùi việc cho tới khi sự gấp gáp buộc phải làm. Làm sao tập trung vào một việc thuộc về tương lai khi ngay lúc này còn bao việc khác đang chờ?
+
+Điều gây bực là có thời gian làm mà lại không muốn làm vào lúc đó. Một phần của ta muốn làm việc, phần kia thì không. Nếu ép mình làm, bạn sẽ dễ xao nhãng tới mức gần như chẳng làm được gì. Nếu cố nghỉ, một phần trong bạn sẽ nghĩ lẽ ra phải làm việc, và bạn cũng chẳng nghỉ được. Có thể mất nhiều ngày trước khi bạn vừa làm vui vừa nghỉ ngon, và bạn kiệt sức vì gắng sức để... không làm gì cả.
 
 Xung đột xuất hiện khi hai hệ thống kiểm soát cùng cố thay đổi một cảm nhận. Khi trì hoãn, một hệ thống phụ trong não cố kiểm soát ý "làm xong việc", trong khi hệ thống khác cố kiểm soát ý "nghỉ đủ". Vì cả hai cùng muốn kiểm soát một cảm nhận (hành động thể chất), chúng đánh nhau để kéo cảm nhận về phía mình. Giống như máy sưởi và máy lạnh cùng chỉnh nhiệt độ một căn phòng: chừng nào hai mức tham chiếu loại trừ nhau, không hệ thống nào vào tầm kiểm soát, cả hai cứ tiếp tục tốn sức kéo về hướng của mình. Dù một hệ thống tạm thời thắng, hệ thống kia sẽ sớm kéo cảm nhận ra khỏi tầm kiểm soát lần nữa.
 
@@ -1194,7 +1236,9 @@ Trong *Re-Create Your Life*, Morty Lefkoe mô tả một quy trình đơn giản
 6. Chủ động chọn bác bỏ niềm tin ban đầu là sai.
 7. Chủ động chọn chấp nhận cách diễn giải mới là đúng.
 
-Kaufman kể ông đã dùng quy trình này. Một cách diễn giải quãng làm ở bộ phận quản lý thương hiệu của P&G là: đó là một sai lầm; ông đã đi "đường nhanh" của nghề quản lý doanh nghiệp, không theo kịp và thất bại. Ít nhất ông đã tin như thế một thời gian, và niềm tin đó chẳng giúp gì. Khi ông thử khám phá con đường khác, tâm trí tự nhiên mô phỏng rằng "thất bại" ấy sẽ lan sang cả các dự án mới; chừng nào tâm trí còn dựa vào cách diễn giải này để mô phỏng tương lai, ông còn mắc kẹt trong vòng tự đánh bại. Nhưng còn một cách diễn giải khác: ở P&G ông đã trải nghiệm để hiểu tập đoàn lớn vận hành ra sao, học được rất rõ điểm mạnh của mình, những việc mình đặc biệt không thích, và cách mình muốn dùng thời gian. Làm ở P&G dạy ông nhận ra một con đường không phải của mình, nên ông thôi đi theo nó và thử những thứ hợp với sở trường, mong muốn hơn, cho tới khi tìm được điều mình yêu thích: một chiến thắng lớn và một bước cải thiện quan trọng trong đời.
+Kaufman kể ông đã dùng quy trình này. Một cách diễn giải quãng làm ở bộ phận quản lý thương hiệu của P&G là: đó là một sai lầm; ông đã đi "đường nhanh" của nghề quản lý doanh nghiệp, không theo kịp và thất bại. Ít nhất ông đã tin như thế một thời gian, và niềm tin đó chẳng giúp gì. Khi ông thử khám phá con đường khác, tâm trí tự nhiên mô phỏng rằng "thất bại" ấy sẽ lan sang cả các dự án mới; chừng nào tâm trí còn dựa vào cách diễn giải này để mô phỏng tương lai, ông còn mắc kẹt trong vòng tự đánh bại.
+
+Nhưng còn một cách diễn giải khác: ở P&G ông đã trải nghiệm để hiểu tập đoàn lớn vận hành ra sao, học được rất rõ điểm mạnh của mình, những việc mình đặc biệt không thích, và cách mình muốn dùng thời gian. Làm ở P&G dạy ông nhận ra một con đường không phải của mình, nên ông thôi đi theo nó và thử những thứ hợp với sở trường, mong muốn hơn, cho tới khi tìm được điều mình yêu thích: một chiến thắng lớn và một bước cải thiện quan trọng trong đời.
 
 Cách diễn giải nào đúng? Cả hai. Tâm trí ông không hỏng khi tạo ra cách diễn giải thứ nhất, nhưng cách đó không có lợi cho ông. Diễn giải lại và chấp nhận phiên bản thứ hai là đúng đã có ích hơn nhiều; theo Kaufman, không có nó thì có lẽ người đọc đã không cầm cuốn sách này. Diễn giải lại quá khứ, bạn sẽ tăng khả năng làm nên những điều lớn ở hiện tại.
 
@@ -1210,7 +1254,9 @@ Có thể hiểu động lực theo hai chiều: tiến tới những thứ đá
 
 Ví dụ: bạn có một cơ hội rất hấp dẫn để lập công ty. Sự hứng khởi khiến bạn muốn tiến tới. Đồng thời, nếu cơ hội đòi bạn bỏ một công việc lương rất cao và bạn thấy điều đó rủi ro, bạn có thể muốn tránh xa. Đó là lúc xung đột xảy ra. Chừng nào cảm giác rủi ro lớn hơn sự hứng khởi, bạn sẽ không hành động, kể cả khi khả năng gặp nguy nếu nhảy vào là rất thấp. Cơ chế phòng vệ này phát triển vì một lý do chính đáng, nhưng ngày nay phần lớn quyết định của ta không phải chuyện sống chết.
 
-Động lực là một cảm xúc, không bao giờ là một phản ứng logic, lý tính. Não nghĩ rằng "lẽ ra mình phải có động lực làm việc này" không có nghĩa là bạn tự động có động lực. Các mô phỏng, khuôn mẫu, xung đột và diễn giải nằm ẩn trong não thường chắn đường tới điều ta muốn làm; chừng nào còn tín hiệu bảo tránh xa, bạn sẽ khó có động lực tiến tới điều mình muốn. Tương tự, bạn không thể tạo động lực cho người khác bằng cách quát họ làm nhanh lên (kiểu trung sĩ ra lệnh chỉ khiến họ muốn tránh xa bạn). Họ sẽ nghe lời lúc đó nếu thấy bị đe doạ, nhưng có dịp là họ sẽ thôi làm việc với bạn. Hãy tránh những xung đột nội tâm buộc mình né các mối đe doạ tiềm năng, và bạn sẽ tìm ra lý do thôi thúc mình tiến tới điều mình thực sự muốn.
+Động lực là một cảm xúc, không bao giờ là một phản ứng logic, lý tính. Não nghĩ rằng "lẽ ra mình phải có động lực làm việc này" không có nghĩa là bạn tự động có động lực. Các mô phỏng, khuôn mẫu, xung đột và diễn giải nằm ẩn trong não thường chắn đường tới điều ta muốn làm; chừng nào còn tín hiệu bảo tránh xa, bạn sẽ khó có động lực tiến tới điều mình muốn.
+
+Tương tự, bạn không thể tạo động lực cho người khác bằng cách quát họ làm nhanh lên (kiểu trung sĩ ra lệnh chỉ khiến họ muốn tránh xa bạn). Họ sẽ nghe lời lúc đó nếu thấy bị đe doạ, nhưng có dịp là họ sẽ thôi làm việc với bạn. Hãy tránh những xung đột nội tâm buộc mình né các mối đe doạ tiềm năng, và bạn sẽ tìm ra lý do thôi thúc mình tiến tới điều mình thực sự muốn.
 
 ### 15. Kìm hãm phản ứng (La inhibición)
 
@@ -1222,21 +1268,29 @@ Nhưng thỉnh thoảng cần bỏ qua lái tự động và hành động khác
 
 "Kìm hãm" một việc là khả năng tạm thời tránh làm theo xu hướng tự nhiên. Nếu từng phải chịu đựng thái độ trẻ con, khó chịu của anh chị em (hay đồng nghiệp), việc kìm được phản ứng đã giúp bạn khỏi làm điều sau này có thể hối hận.
 
-Ý chí là nhiên liệu của kìm hãm. Như đã nói ở mục não củ hành, việc của não trước là giải quyết tình huống mơ hồ, ra quyết định và kìm hãm. Mỗi lần ta kìm phản ứng trước môi trường, ý chí vào cuộc. Não giữa và não sau là lái tự động, não trước là người kiểm soát. Theo nghĩa đó, Kaufman cho rằng thuật ngữ "tự do ý chí" hơi dễ gây hiểu lầm: chính xác hơn là một thứ "tự do không làm" (bản TBN dịch là "thiếu tự do ý chí"; xem Lưu ý), tức quyền năng chính của phần ý thức là chặn một hành động tự động. Kìm hãm một số quyết định hay phản ứng có thể mang lại kết quả tốt, nhưng khả năng kìm hãm của ta có giới hạn; giới hạn đó được bàn ở mục tiếp theo.
+Ý chí là nhiên liệu của kìm hãm. Như đã nói ở mục não củ hành, việc của não trước là giải quyết tình huống mơ hồ, ra quyết định và kìm hãm. Mỗi lần ta kìm phản ứng trước môi trường, ý chí vào cuộc. Não giữa và não sau là lái tự động, não trước là người kiểm soát.
+
+Theo nghĩa đó, Kaufman cho rằng thuật ngữ "tự do ý chí" hơi dễ gây hiểu lầm: chính xác hơn là một thứ "tự do không làm" (bản TBN dịch là "thiếu tự do ý chí"; xem mục Chỗ bản dịch có vẻ lệch nghĩa cuối chương), tức quyền năng chính của phần ý thức là chặn một hành động tự động. Kìm hãm một số quyết định hay phản ứng có thể mang lại kết quả tốt, nhưng khả năng kìm hãm của ta có giới hạn; giới hạn đó được bàn ở mục tiếp theo.
 
 ### 16. Cạn kiệt ý chí (Falta de fuerza de voluntad)
 
 Đề từ, một câu châm ngôn của Hội Người nghiện rượu Ẩn danh: nếu không muốn trượt chân, đừng đi trên đất trơn.
 
-Kaufman viết đùa rằng trong thập niên 1960, tiến sĩ Walter Mischel, nhà nghiên cứu (bản TBN ghi là của Đại học Columbia), "tra tấn" trẻ nhỏ một cách có hệ thống. Cách làm: ông đưa một đứa trẻ vào một phòng nhỏ chỉ có một cái bàn và một cái ghế, đặt giữa bàn một chiếc kẹo dẻo to mềm, và nói: "Nếu con chờ tôi quay lại, tôi sẽ cho con hai chiếc." Rồi ông ra ngoài. Có những đứa ăn ngay chiếc kẹo vài giây sau khi ông đi. Những đứa khác cố gắng phi thường để tự đánh lạc hướng và không chịu thua cám dỗ, ép mình nhìn sang thứ khác trong một nỗ lực căng thẳng để giành phần thưởng lớn. Mischel phát hiện có tương quan giữa "ý chí" và thành công: những đứa trẻ có khả năng trì hoãn phần thưởng tốt hơn thì học giỏi hơn ở trường và thành công hơn khi trưởng thành. Kiềm chế bản năng thường giúp ta thu được thành công lớn hơn trong tương lai (tiêu tiền thì dễ, tiết kiệm thì khó, dù về lâu dài tiết kiệm có lợi hơn).
+Kaufman viết đùa rằng trong thập niên 1960, tiến sĩ Walter Mischel, nhà nghiên cứu (bản TBN ghi là của Đại học Columbia), "tra tấn" trẻ nhỏ một cách có hệ thống. Cách làm: ông đưa một đứa trẻ vào một phòng nhỏ chỉ có một cái bàn và một cái ghế, đặt giữa bàn một chiếc kẹo dẻo to mềm, và nói: "Nếu con chờ tôi quay lại, tôi sẽ cho con hai chiếc." Rồi ông ra ngoài.
+
+Có những đứa ăn ngay chiếc kẹo vài giây sau khi ông đi. Những đứa khác cố gắng phi thường để tự đánh lạc hướng và không chịu thua cám dỗ, ép mình nhìn sang thứ khác trong một nỗ lực căng thẳng để giành phần thưởng lớn. Mischel phát hiện có tương quan giữa "ý chí" và thành công: những đứa trẻ có khả năng trì hoãn phần thưởng tốt hơn thì học giỏi hơn ở trường và thành công hơn khi trưởng thành. Kiềm chế bản năng thường giúp ta thu được thành công lớn hơn trong tương lai (tiêu tiền thì dễ, tiết kiệm thì khó, dù về lâu dài tiết kiệm có lợi hơn).
 
 Ý chí có thể xem là một dạng kiểm soát bản năng: cách ngắt các quá trình tự động để hành động theo cách khác. Mỗi khi kìm xu hướng tự nhiên là có ích, ta cần ý chí để chặn phản ứng. Vì vậy ý chí là công cụ hữu ích, nhưng có những giới hạn cố hữu.
 
 Kho ý chí của ta rất hạn chế và giảm khi dùng. Tiến sĩ Roy Baumeister, Đại học Bang Florida, phát hiện rằng khả năng dùng ý chí thành công trong các việc cần tự chủ phụ thuộc vào một nhiên liệu sinh lý: glucose trong máu. Hành động cần ý chí tiêu thụ nhiều glucose, và khi dự trữ thấp, ta rất khó dựa vào ý chí để kìm một hành vi. Vì thế buổi tối, sau bữa ăn, khi đang ăn kiêng, bạn rất khó cưỡng một bát kem: vào lúc đó trong ngày, kho ý chí đã cạn từ lâu.
 
-Cách tốt nhất để dùng kho ý chí hạn chế là dùng một cấu trúc dẫn dắt để đổi môi trường thay vì đổi hành vi. Nếu quyết bỏ ăn kem, chẳng có lý gì giữ một hộp trong tủ đông rồi trông vào ý chí để chống cám dỗ. Bạn gần như chắc chắn sẽ không kiềm được; và khi ý chí tất yếu cạn, bạn sẽ hiểu sai chuyện trượt chân đó là khuyết điểm của bản thân, tức mắc lỗi quy kết (khái niệm ở chương 9). Có ích hơn là dùng một chút ý chí để lấy kem ra khỏi tủ đông và cho ai đó, hoặc vứt đi. Khi kem không còn trong môi trường, bạn không cần dùng ý chí nữa: muốn ăn phải ra ngoài mua, mà việc đó thì ngại. Xu hướng chọn đường ít cản trở nhất giờ lại có lợi; nếu đói, bạn sẽ ăn thứ khác, chẳng hạn một quả táo.
+Cách tốt nhất để dùng kho ý chí hạn chế là dùng một cấu trúc dẫn dắt để đổi môi trường thay vì đổi hành vi. Nếu quyết bỏ ăn kem, chẳng có lý gì giữ một hộp trong tủ đông rồi trông vào ý chí để chống cám dỗ. Bạn gần như chắc chắn sẽ không kiềm được; và khi ý chí tất yếu cạn, bạn sẽ hiểu sai chuyện trượt chân đó là khuyết điểm của bản thân, tức mắc lỗi quy kết (khái niệm ở chương 9).
 
-Kaufman kể Internet là một cám dỗ rất lớn với ông. Ông thích học, và mạng có nhiều thông tin tới mức ông có thể ở trên đó cả ngày, đọc thay vì viết. Vì ông viết trên máy tính, điều này giống như giữ kem trong tủ đông: cám dỗ luôn có mặt, kéo ông khỏi ý định viết. Thay vì trông vào ý chí để viết xong cuốn sách, ông dùng ý chí để đổi môi trường: cài trên máy Mac một ứng dụng tên Freedom, ngắt kết nối Internet của laptop trong nhiều giờ. (Người dùng Windows có thể làm tương tự với chương trình LeechBlock.) Không còn cám dỗ, ông ngồi viết. Ông nói không nói dối khi khẳng định: không có Freedom thì giờ người đọc đã không đọc cuốn sách này. Kaufman kết: hãy để dành ý chí, tập trung dùng nó để đổi môi trường, và nó sẽ còn đó khi bạn thật sự cần kìm hãm điều gì.
+Có ích hơn là dùng một chút ý chí để lấy kem ra khỏi tủ đông và cho ai đó, hoặc vứt đi. Khi kem không còn trong môi trường, bạn không cần dùng ý chí nữa: muốn ăn phải ra ngoài mua, mà việc đó thì ngại. Xu hướng chọn đường ít cản trở nhất giờ lại có lợi; nếu đói, bạn sẽ ăn thứ khác, chẳng hạn một quả táo.
+
+Kaufman kể Internet là một cám dỗ rất lớn với ông. Ông thích học, và mạng có nhiều thông tin tới mức ông có thể ở trên đó cả ngày, đọc thay vì viết. Vì ông viết trên máy tính, điều này giống như giữ kem trong tủ đông: cám dỗ luôn có mặt, kéo ông khỏi ý định viết.
+
+Thay vì trông vào ý chí để viết xong cuốn sách, ông dùng ý chí để đổi môi trường: cài trên máy Mac một ứng dụng tên Freedom, ngắt kết nối Internet của laptop trong nhiều giờ. (Người dùng Windows có thể làm tương tự với chương trình LeechBlock.) Không còn cám dỗ, ông ngồi viết. Ông nói không nói dối khi khẳng định: không có Freedom thì giờ người đọc đã không đọc cuốn sách này. Kaufman kết: hãy để dành ý chí, tập trung dùng nó để đổi môi trường, và nó sẽ còn đó khi bạn thật sự cần kìm hãm điều gì.
 
 ### 17. Sợ mất mát (La aversión a la pérdida)
 
@@ -1252,7 +1306,9 @@ Sợ mất mát cũng giải thích vì sao sự bất định được trải n
 
 Sợ mất mát đặc biệt rõ trong suy thoái và khủng hoảng. Mất việc, mất nhà hay mất một phần đáng kể quỹ hưu trí không đe doạ tính mạng, nhưng rất khủng khiếp. Vì thế người ta có xu hướng bảo thủ hơn và tránh những rủi ro có thể làm mọi thứ khó hơn. Đáng tiếc, một số rủi ro đó (như lập công ty) có thể là cơ hội cải thiện cuộc sống.
 
-Cách tốt nhất để vượt qua sợ mất mát là nhìn lại rủi ro mất mát như một chuyện "không có gì to tát". Ngành sòng bạc phải vượt qua sợ mất mát mỗi ngày. Theo một nghĩa nào đó, các toà nhà phô trương trên dải Las Vegas Strip là những tượng đài khổng lồ tôn vinh sự ngốc nghếch của con người. Nếu sợ mất mát mạnh như vậy, làm sao sòng bạc khuyến khích được người ta đặt tiền vào một trò về toán học chắc chắn khiến họ thua? Sòng bạc thắng bằng cách làm cho rủi ro mất trở nên trừu tượng. Thay vì để người chơi đặt bằng tiền mặt, thứ được cảm nhận là có giá trị, sòng bạc đổi tiền thành phỉnh hay thẻ ghi nợ, những thứ trông không giá trị bằng. Trong khi người chơi thua thứ "tiền giả" này suốt đêm, sòng bạc thưởng cho họ đồ uống miễn phí, áo phông, phòng khách sạn hay những món khác làm dịu cảm giác mất. Được sắp đặt như vậy, thua có vẻ không tệ lắm, và người chơi tiếp tục chơi, tiếp tục thua, đêm này qua đêm khác.
+Cách tốt nhất để vượt qua sợ mất mát là nhìn lại rủi ro mất mát như một chuyện "không có gì to tát". Ngành sòng bạc phải vượt qua sợ mất mát mỗi ngày. Theo một nghĩa nào đó, các toà nhà phô trương trên dải Las Vegas Strip là những tượng đài khổng lồ tôn vinh sự ngốc nghếch của con người. Nếu sợ mất mát mạnh như vậy, làm sao sòng bạc khuyến khích được người ta đặt tiền vào một trò về toán học chắc chắn khiến họ thua?
+
+Sòng bạc thắng bằng cách làm cho rủi ro mất trở nên trừu tượng. Thay vì để người chơi đặt bằng tiền mặt, thứ được cảm nhận là có giá trị, sòng bạc đổi tiền thành phỉnh hay thẻ ghi nợ, những thứ trông không giá trị bằng. Trong khi người chơi thua thứ "tiền giả" này suốt đêm, sòng bạc thưởng cho họ đồ uống miễn phí, áo phông, phòng khách sạn hay những món khác làm dịu cảm giác mất. Được sắp đặt như vậy, thua có vẻ không tệ lắm, và người chơi tiếp tục chơi, tiếp tục thua, đêm này qua đêm khác.
 
 Sợ mất mát là lý do "đảo ngược rủi ro" (khái niệm ở chương 4 về bán hàng) quan trọng đến vậy khi bạn đưa ra một lời chào hàng cho khách tiềm năng. Người ta ghét mất, vì mất khiến họ thấy mình ngốc, thấy bị lừa. Vì thế họ sẽ làm mọi cách để chắc mình không mất, và cách chắc nhất để khỏi đưa ra một quyết định ngớ ngẩn là, trước hết, không mua thứ bạn chào bán. Nếu bạn làm bán hàng, bạn đã có sẵn một vấn đề. Hãy xoá cảm giác rủi ro bằng cách cho khách cam kết hoàn tiền hoặc một hình thức đền bù tương tự mà họ cảm nhận là đảo ngược rủi ro; khách sẽ thấy mình không mạo hiểm mấy khi quyết định mua, và bạn sẽ bán được nhiều hơn.
 
@@ -1266,7 +1322,9 @@ Khi tâm trí cảm nhận một mối đe doạ tiềm năng (thật hay tưở
 
 Lựa chọn vô thức giữa chiến đấu, bỏ chạy hay đứng im phụ thuộc phần lớn vào mô phỏng tự động của não về tình huống. Nếu não dự đoán đánh thì thắng, bạn đánh. Nếu dự đoán rời đi thì thắng, bạn chạy. Nếu dự đoán không thoát được, bạn đứng im, hy vọng mối đe doạ đi qua. Trạng thái này khiến não "khoá chặt" vào mối đe doạ (một tư thế phòng thủ), và bạn khó tập trung vào bất cứ gì khác.
 
-Khoá chặt vì mối đe doạ là một phản ứng có ích được thiết kế để tự vệ, nhưng như nhiều bản năng xưa, nó thường không hợp với môi trường hiện đại. Các mối đe doạ ngày nay nhẹ hơn nhiều, nhưng thường kéo dài. Thời xưa, khi mối đe doạ là thú dữ hay một tộc trưởng nổi giận, phản ứng này có ích vì nó dồn năng lượng vào mục tiêu sống sót và/hoặc ở lại bộ lạc. Dù những ý nghĩ trong đầu ta mỗi ngày chẳng mấy giống của tổ tiên, "phần cứng" chạy chúng (bộ não) về cơ bản vẫn như cũ và không ngừng tìm những mối đe doạ xưa trong môi trường hiện đại. Kết quả là ta ăn quá nhiều, vận động quá ít, và các bản năng thúc ta đánh tới chết, đứng im hay bỏ chạy chẳng giúp gì khi phải thương lượng với một ông sếp nổi giận hay với ngân hàng khi ta trả chậm tiền vay mua nhà.
+Khoá chặt vì mối đe doạ là một phản ứng có ích được thiết kế để tự vệ, nhưng như nhiều bản năng xưa, nó thường không hợp với môi trường hiện đại. Các mối đe doạ ngày nay nhẹ hơn nhiều, nhưng thường kéo dài. Thời xưa, khi mối đe doạ là thú dữ hay một tộc trưởng nổi giận, phản ứng này có ích vì nó dồn năng lượng vào mục tiêu sống sót và/hoặc ở lại bộ lạc.
+
+Dù những ý nghĩ trong đầu ta mỗi ngày chẳng mấy giống của tổ tiên, "phần cứng" chạy chúng (bộ não) về cơ bản vẫn như cũ và không ngừng tìm những mối đe doạ xưa trong môi trường hiện đại. Kết quả là ta ăn quá nhiều, vận động quá ít, và các bản năng thúc ta đánh tới chết, đứng im hay bỏ chạy chẳng giúp gì khi phải thương lượng với một ông sếp nổi giận hay với ngân hàng khi ta trả chậm tiền vay mua nhà.
 
 Biến động gần đây của thị trường chứng khoán là ví dụ rõ. Cú sụp đổ cuối năm 2008 gây ra một làn sóng hoảng loạn và tuyệt vọng, kể cả ở những người không hề có nguy cơ mất nhà hay mất việc. Chỉ khả năng có chuyện xấu thôi đã là trở ngại cho doanh nghiệp: họ tê liệt đúng lúc cần tăng năng suất để giữ sức khoẻ tài chính. Thay vì tập trung làm tốt hơn, nhân viên tốn thời gian và sức lực lo lắng về tương lai và đoán xem ai sẽ bị "chém đầu" trước, dẫn tới tổng giá trị tạo ra ít hơn và khả năng tương lai công ty xấu đi cao hơn.
 
@@ -1276,7 +1334,7 @@ Nếu cảm thấy mối đe doạ, đừng cố đè nén tín hiệu. Nhiều 
 
 Then chốt để xử lý trạng thái khoá chặt là thuyết phục bản thân rằng mối đe doạ không còn nữa, theo hai cách: (1) thuyết phục rằng mối đe doạ chưa từng tồn tại; hoặc (2) thuyết phục rằng nó đã qua. Thuyết phục rằng nó chưa từng có giống như đi kiểm tra nhà lúc nửa đêm trong bóng tối: việc tìm kiếm cho thấy không có mối đe doạ nào và bạn có thể thôi phòng thủ. Thuyết phục rằng nó đã qua cũng có tác dụng như vậy: mối đe doạ không còn và không thể làm hại bạn, bạn có thể đi tiếp không sợ hãi.
 
-Đôi khi rất khó gỡ trạng thái khoá chặt, nhất là khi đã mắc kẹt lâu. Vì bản năng tự vệ có bản chất sinh lý, tốt nhất là dùng một biện pháp làm dịu nó (bản TBN ghi "tâm lý"; xem Lưu ý): tập thể dục, ngủ và thiền giúp làm dịu tâm trí bằng cách chuyển hoá hoặc trung hoà các hormone căng thẳng đã vào máu. Khi thấy quá tải, chạy bộ một lúc hay nâng tạ có thể làm tâm trạng khá lên rõ rệt. Kaufman kết: hãy chú ý tới tín hiệu đe doạ, làm những gì có thể để chứng minh với tâm trí rằng rủi ro đã hết, và bạn sẽ thoát khỏi trạng thái khoá chặt.
+Đôi khi rất khó gỡ trạng thái khoá chặt, nhất là khi đã mắc kẹt lâu. Vì bản năng tự vệ có bản chất sinh lý, tốt nhất là dùng một biện pháp làm dịu nó (bản TBN ghi "tâm lý"; xem mục Chỗ bản dịch có vẻ lệch nghĩa cuối chương): tập thể dục, ngủ và thiền giúp làm dịu tâm trí bằng cách chuyển hoá hoặc trung hoà các hormone căng thẳng đã vào máu. Khi thấy quá tải, chạy bộ một lúc hay nâng tạ có thể làm tâm trạng khá lên rõ rệt. Kaufman kết: hãy chú ý tới tín hiệu đe doạ, làm những gì có thể để chứng minh với tâm trí rằng rủi ro đã hết, và bạn sẽ thoát khỏi trạng thái khoá chặt.
 
 ### 19. Giới hạn quy mô nhận thức (La limitación de la dimensión cognitiva)
 
@@ -1292,7 +1350,9 @@ Có tranh cãi về số mối quan hệ cụ thể mà tại đó giới hạn 
 
 Du khách ở Quảng trường Thời đại không phải người xấu, họ chỉ quá tải. Hơn 364.000 người đi qua đó mỗi ngày, và tâm trí ta không xử lý được chừng ấy thông tin cùng lúc. Một cách trừu tượng, họ vẫn biết bạn là người, nhưng có quá nhiều thứ diễn ra ở đó khiến họ khó đối xử với bạn như một người ngang hàng. Tâm trí họ quá tải và bắt đầu giản lược thực tế để bù lại.
 
-Lãnh đạo các tập đoàn lớn cũng vậy. Về lý trí, họ biết mình chịu trách nhiệm cho sự an toàn của hàng trăm nghìn nhân viên và hàng triệu cổ đông, nhưng thông minh đến đâu, não họ cũng không xử lý nổi tầm vóc của thực tế đó. Do đó họ có thể gây hại nhiều cho nhân viên mà gần như không nhận ra. Giám đốc điều hành cao nhất của một tập đoàn lớn có thể không bận tâm việc hàng nghìn công nhân tuyến đầu bị sa thải; dù sao ông ta cũng khó quen ai trong số họ. Khi thấy một lãnh đạo ra quyết định vô lý như xả chất thải độc xuống con sông hàng triệu người uống, hay cắt hàng nghìn việc làm trong khi chia hàng triệu USD tiền thưởng cho ban điều hành, có lẽ người đó không phải kẻ tham nhũng thâm căn. Dù khó tin, nhiều khả năng ông ta chưa thật sự nghĩ về vấn đề: quy mô của điều đang xử lý quá phức tạp để nắm trọn, và tâm trí ông xử lý quyết định một cách trừu tượng thay vì bằng cảm xúc.
+Lãnh đạo các tập đoàn lớn cũng vậy. Về lý trí, họ biết mình chịu trách nhiệm cho sự an toàn của hàng trăm nghìn nhân viên và hàng triệu cổ đông, nhưng thông minh đến đâu, não họ cũng không xử lý nổi tầm vóc của thực tế đó. Do đó họ có thể gây hại nhiều cho nhân viên mà gần như không nhận ra. Giám đốc điều hành cao nhất của một tập đoàn lớn có thể không bận tâm việc hàng nghìn công nhân tuyến đầu bị sa thải; dù sao ông ta cũng khó quen ai trong số họ.
+
+Khi thấy một lãnh đạo ra quyết định vô lý như xả chất thải độc xuống con sông hàng triệu người uống, hay cắt hàng nghìn việc làm trong khi chia hàng triệu USD tiền thưởng cho ban điều hành, có lẽ người đó không phải kẻ tham nhũng thâm căn. Dù khó tin, nhiều khả năng ông ta chưa thật sự nghĩ về vấn đề: quy mô của điều đang xử lý quá phức tạp để nắm trọn, và tâm trí ông xử lý quyết định một cách trừu tượng thay vì bằng cảm xúc.
 
 Cá nhân hoá vấn đề là một cách vượt qua giới hạn phổ quát này. Vì không thể nâng cấp não, ta không thể tăng lượng thông tin tâm trí xử lý được. Để lách giới hạn, rất có ích khi cá nhân hoá các quyết định và vấn đề bằng cách tưởng tượng chúng ảnh hưởng trực tiếp tới một người gần gũi. Ông lãnh đạo "đầu rỗng" kia sẽ cảm thấy rất khác nếu chính mẹ ông phải uống nước bẩn hay chính con ông sắp mất việc. Thay vì nhìn vấn đề một cách trừu tượng, cá nhân hoá giúp ông cảm nhận bằng ruột gan hậu quả của quyết định, và cũng giúp ông dễ quyết định đúng hơn.
 
@@ -1333,9 +1393,17 @@ Mù trước điều vắng mặt là một trong các lý do khiến người t
 
 Mù trước điều vắng mặt cũng khiến người ta thấy áy náy khi không làm gì lúc có chuyện xấu, kể cả khi không làm gì là phương án tốt nhất. Thường thì chọn không hành động là tốt nhất, nhưng con người khó chấp nhận điều đó về mặt cảm xúc.
 
-Chu kỳ kinh tế từ bùng nổ tới sụp đổ mà hầu hết các thị trường trải qua một phần là hệ quả của mù trước điều vắng mặt. Kaufman dẫn Ludwig von Mises trong *Human Action* (bản TBN: *La acción humana: tratado de economía*): bong bóng kinh tế hình thành khi chính phủ cố kích thích tăng trưởng bằng cách ép giảm lãi suất và tạo điều kiện cho dân vay tiền. Khi tín dụng bị đẩy ra để người ta dễ tiếp cận vốn, nhà đầu tư đầu cơ và trả giá cắt cổ cho những tài sản mà trong hoàn cảnh khác họ sẽ không mua, như hoa tulip, công ty dot-com không có doanh thu, hay chứng khoán rủi ro được bảo đảm bằng các khoản vay thế chấp nhà. Cuối cùng bong bóng vỡ khi nhà đầu tư nhận ra tài sản mình đầu cơ không đáng giá đã trả, dẫn tới giá tài sản bị định giá quá cao đó sụp đột ngột. Người ta hoảng loạn, sợ mất mát, và đòi một giải pháp ngay cho thị trường đang sụp. Giải pháp gần như luôn là hạ lãi suất thêm để kinh tế tăng trưởng lại: một vòng phản hồi tự củng cố (khái niệm ở chương 10) rốt cuộc làm vấn đề trầm trọng hơn, tạo điều kiện để trong trung hạn bong bóng còn lớn hơn. Theo Kaufman, lời giải là buộc ngừng thao túng lãi suất, thứ đã gây ra vấn đề. Đáng tiếc, mù trước điều vắng mặt khiến người quyết định không hành động thấy khó chịu về tâm lý; dù sao, làm sao ngồi yên khi thế giới đang bốc cháy? Vì thế người ta muốn chính phủ hành động, dù hành động đó rốt cuộc làm tình hình tệ hơn.
+Chu kỳ kinh tế từ bùng nổ tới sụp đổ mà hầu hết các thị trường trải qua một phần là hệ quả của mù trước điều vắng mặt. Kaufman dẫn Ludwig von Mises trong *Human Action* (bản TBN: *La acción humana: tratado de economía*): bong bóng kinh tế hình thành khi chính phủ cố kích thích tăng trưởng bằng cách ép giảm lãi suất và tạo điều kiện cho dân vay tiền.
 
-Kinh nghiệm giúp tránh mù trước điều vắng mặt. Kinh nghiệm quý trước hết vì tâm trí chuyên gia có một cơ sở dữ liệu lớn gồm những khuôn mẫu liên kết với nhau, và vì thế cũng có khả năng cao hơn nhận ra cái đang thiếu. Nếu người ta nhận ra được khi một khuôn mẫu bị phá vỡ, thì người nhiều kinh nghiệm hơn sẽ dễ "thấy có gì đó lạ" khi mọi thứ không như lẽ ra phải thế, và điều đó thường đủ để phát hiện vấn đề trước khi quá muộn. Trong *Sources of Power: How People Make Decisions*, nhà nghiên cứu Gary Klein kể chuyện một đội cứu hoả dập đám cháy ở tầng một một ngôi nhà. Khi họ phun nước vào nguồn lửa, lửa không giảm như lẽ ra phải giảm. Đội trưởng nhận ra vấn đề và ra lệnh mọi người rời toà nhà, vì ông cảm thấy có gì đó bất thường. Vài phút sau, ngôi nhà sập: đám cháy bắt đầu từ tầng hầm và đã phá huỷ móng nhà. Nếu đội còn ở trong, tất cả đã chết. Đó là sức mạnh và lợi thế của kinh nghiệm.
+Khi tín dụng bị đẩy ra để người ta dễ tiếp cận vốn, nhà đầu tư đầu cơ và trả giá cắt cổ cho những tài sản mà trong hoàn cảnh khác họ sẽ không mua, như hoa tulip, công ty dot-com không có doanh thu, hay chứng khoán rủi ro được bảo đảm bằng các khoản vay thế chấp nhà. Cuối cùng bong bóng vỡ khi nhà đầu tư nhận ra tài sản mình đầu cơ không đáng giá đã trả, dẫn tới giá tài sản bị định giá quá cao đó sụp đột ngột.
+
+Người ta hoảng loạn, sợ mất mát, và đòi một giải pháp ngay cho thị trường đang sụp. Giải pháp gần như luôn là hạ lãi suất thêm để kinh tế tăng trưởng lại: một vòng phản hồi tự củng cố (khái niệm ở chương 10) rốt cuộc làm vấn đề trầm trọng hơn, tạo điều kiện để trong trung hạn bong bóng còn lớn hơn.
+
+Theo Kaufman, lời giải là buộc ngừng thao túng lãi suất, thứ đã gây ra vấn đề. Đáng tiếc, mù trước điều vắng mặt khiến người quyết định không hành động thấy khó chịu về tâm lý; dù sao, làm sao ngồi yên khi thế giới đang bốc cháy? Vì thế người ta muốn chính phủ hành động, dù hành động đó rốt cuộc làm tình hình tệ hơn.
+
+Kinh nghiệm giúp tránh mù trước điều vắng mặt. Kinh nghiệm quý trước hết vì tâm trí chuyên gia có một cơ sở dữ liệu lớn gồm những khuôn mẫu liên kết với nhau, và vì thế cũng có khả năng cao hơn nhận ra cái đang thiếu. Nếu người ta nhận ra được khi một khuôn mẫu bị phá vỡ, thì người nhiều kinh nghiệm hơn sẽ dễ "thấy có gì đó lạ" khi mọi thứ không như lẽ ra phải thế, và điều đó thường đủ để phát hiện vấn đề trước khi quá muộn.
+
+Trong *Sources of Power: How People Make Decisions*, nhà nghiên cứu Gary Klein kể chuyện một đội cứu hoả dập đám cháy ở tầng một một ngôi nhà. Khi họ phun nước vào nguồn lửa, lửa không giảm như lẽ ra phải giảm. Đội trưởng nhận ra vấn đề và ra lệnh mọi người rời toà nhà, vì ông cảm thấy có gì đó bất thường. Vài phút sau, ngôi nhà sập: đám cháy bắt đầu từ tầng hầm và đã phá huỷ móng nhà. Nếu đội còn ở trong, tất cả đã chết. Đó là sức mạnh và lợi thế của kinh nghiệm.
 
 Cách đáng tin cậy duy nhất để vượt qua mù trước điều vắng mặt là lập danh sách kiểm tra. Để làm vậy, bạn phải nghĩ trước một thứ cụ thể nên trông ra sao và các bước cần làm để đạt được; đồng thời tạo những lời nhắc nhìn thấy được để dùng khi phải quyết định. Danh sách kiểm tra nhắc bạn chú ý tới những điều hay đặc điểm nhất định đúng vào thời điểm cần. (Kaufman sẽ bàn chi tiết cách lập danh sách kiểm tra ở chương 12.)
 
@@ -1359,7 +1427,9 @@ Nguyên tắc đó cũng chi phối thứ tự người bán giới thiệu sả
 
 (Tổng do người tổng hợp cộng: phụ kiện, từng món "có vẻ rẻ", cộng lại gần bằng giá bộ com-lê.)
 
-Jordan Smart, một khách hàng của Kaufman, viết cho ông câu chuyện sau. Ngày Black Friday năm trước, anh đi mua quần áo công sở, định mua vài chiếc sơ mi và hai áo vest. Anh phân vân có nên mua cà vạt đi kèm, nhưng rồi quyết định hai chiếc đang có trong tủ là đủ. Anh đi hai cửa hàng. Ở cửa hàng thứ nhất, anh chọn sơ mi; lúc sắp ra về, người bán hỏi có cần cà vạt đi kèm không. Anh từ chối và tự khen mình đã giữ vững quyết định. Ở cửa hàng thứ hai, anh thử vài áo vest và quyết định mua. Người bán cũng hỏi có cần cà vạt đi kèm không. Lúc đó anh nhớ rất rõ mình nghĩ tới giá mấy chiếc áo vest và tự nhủ: "Thôi, đã tiêu ngần này tiền rồi..." và mua vài chiếc cà vạt. Anh không nghĩ lại chuyện đó cho tới khi hiểu khái niệm cảm nhận qua tương phản; xem hoá đơn, anh nhận ra mình đã chi cho cà vạt nhiều hơn cho áo vest.
+Jordan Smart, một khách hàng của Kaufman, viết cho ông câu chuyện sau. Ngày Black Friday năm trước, anh đi mua quần áo công sở, định mua vài chiếc sơ mi và hai áo vest. Anh phân vân có nên mua cà vạt đi kèm, nhưng rồi quyết định hai chiếc đang có trong tủ là đủ. Anh đi hai cửa hàng. Ở cửa hàng thứ nhất, anh chọn sơ mi; lúc sắp ra về, người bán hỏi có cần cà vạt đi kèm không. Anh từ chối và tự khen mình đã giữ vững quyết định.
+
+Ở cửa hàng thứ hai, anh thử vài áo vest và quyết định mua. Người bán cũng hỏi có cần cà vạt đi kèm không. Lúc đó anh nhớ rất rõ mình nghĩ tới giá mấy chiếc áo vest và tự nhủ: "Thôi, đã tiêu ngần này tiền rồi..." và mua vài chiếc cà vạt. Anh không nghĩ lại chuyện đó cho tới khi hiểu khái niệm cảm nhận qua tương phản; xem hoá đơn, anh nhận ra mình đã chi cho cà vạt nhiều hơn cho áo vest.
 
 Thông tin ta thu từ môi trường ngay trước mặt ảnh hưởng tới cảm nhận. 10.000 USD có phải nhiều tiền không? Tuỳ hoàn cảnh. Nếu tài khoản bạn có 10 USD, đó là một khoản khổng lồ; nếu có 100 triệu USD, đó là sai số làm tròn. Khả năng tri giác của ta được tối ưu để để ý tới tương phản trong những gì ta thấy, không phải để so với những thứ ta không để ý vì chúng không có mặt (điều đã gọi là mù trước điều vắng mặt). Những gì ta để ý và các quyết định ta đưa ra dựa trên thông tin thu từ môi trường trước mặt. Khi giá được "ngụy trang", tương phản giữa một món và môi trường trước mặt giảm đi, nên khó cảm nhận khác biệt hơn.
 
@@ -1387,7 +1457,7 @@ Bốn cách thêm yếu tố khan hiếm vào lời chào hàng:
 
 - **Số lượng giới hạn:** báo cho khách tiềm năng rằng mỗi đợt bán chỉ có một số đơn vị hạn chế.
 - **Giá sắp tăng:** báo cho khách rằng giá sẽ sớm tăng.
-- **Giảm giá:** bản TBN ghi "báo cho khách rằng sắp có giảm giá"; theo logic của mục, nhiều khả năng ý gốc là một đợt giảm giá đang có và sắp kết thúc (xem Lưu ý).
+- **Giảm giá:** bản TBN ghi "báo cho khách rằng sắp có giảm giá"; theo logic của mục, nhiều khả năng ý gốc là một đợt giảm giá đang có và sắp kết thúc (xem mục Chỗ bản dịch có vẻ lệch nghĩa cuối chương).
 - **Hạn chót:** báo cho khách rằng ưu đãi chỉ có hiệu lực trong một khoảng thời gian giới hạn.
 
 Nhưng đẩy khan hiếm quá đà có thể phản tác dụng. Ví dụ, đặt giới hạn tuỳ tiện cho số bản bán ra của sách điện tử, phần mềm tải về hay tệp nhạc số là vô nghĩa: ai cũng biết tệp số có thể nhân bản vô hạn với chi phí gần như bằng 0; sự khan hiếm sẽ bị coi là thao túng và người ta mất hứng mua của bạn. Ngược lại, tăng giá sau một mốc thời gian thường cho kết quả tốt: tăng giá sau một số đơn hàng nhất định hoặc sau một thời gian là chính sách hợp lý, ít có khả năng bị khách coi là không chấp nhận được hay là thao túng. Thêm yếu tố khan hiếm vào lời chào hàng, bạn sẽ khuyến khích người khác mua ngay thay vì để sau.
@@ -1396,15 +1466,27 @@ Nhưng đẩy khan hiếm quá đà có thể phản tác dụng. Ví dụ, đ�
 
 Đề từ của Henry Ford, nhà công nghiệp Mỹ: sao mỗi lần tôi nhờ ai "giúp một tay", họ luôn mang theo cả bộ óc?
 
-Giữa Thế chiến II, Norman Mackworth rút các nhân viên vận hành radar của Không quân Hoàng gia Anh (RAF) khỏi vị trí để giao một nhiệm vụ đặc biệt: nhìn chằm chằm vào một chiếc đồng hồ suốt hai giờ liền. Mackworth là nhà tâm lý học nghiên cứu sự chú ý thị giác và thính giác, tức khả năng tập trung chú ý vào một đối tượng duy nhất trong thời gian dài. Nhân viên radar là đối tượng nghiên cứu rất phù hợp, vì việc của họ về cơ bản là ngồi hàng giờ trong phòng tối quan sát những đốm nhấp nháy trên màn hình radar. Phần lớn thời gian màn hình gần như không đổi; nhưng khi có gì bất thường xuất hiện, nó có thể cực kỳ quan trọng: máy bay địch tới ném bom. Việc của nhân viên radar là luôn tỉnh táo để phát hiện bất thường ngay, nhưng việc này cực khó: sự buồn chán thường gây ra lỗi khiến người chết.
+Giữa Thế chiến II, Norman Mackworth rút các nhân viên vận hành radar của Không quân Hoàng gia Anh (RAF) khỏi vị trí để giao một nhiệm vụ đặc biệt: nhìn chằm chằm vào một chiếc đồng hồ suốt hai giờ liền. Mackworth là nhà tâm lý học nghiên cứu sự chú ý thị giác và thính giác, tức khả năng tập trung chú ý vào một đối tượng duy nhất trong thời gian dài.
+
+Nhân viên radar là đối tượng nghiên cứu rất phù hợp, vì việc của họ về cơ bản là ngồi hàng giờ trong phòng tối quan sát những đốm nhấp nháy trên màn hình radar. Phần lớn thời gian màn hình gần như không đổi; nhưng khi có gì bất thường xuất hiện, nó có thể cực kỳ quan trọng: máy bay địch tới ném bom. Việc của nhân viên radar là luôn tỉnh táo để phát hiện bất thường ngay, nhưng việc này cực khó: sự buồn chán thường gây ra lỗi khiến người chết.
 
 Để mô phỏng môi trường đầy thử thách này, Mackworth tạo ra "đồng hồ Mackworth", một thiết bị kiểm tra con người giữ được chú ý bao lâu. Đồng hồ có kim giây chạy như đồng hồ bình thường, nhưng thêm một điểm: thỉnh thoảng kim nhảy một lúc hai vạch thay vì một. Việc của người thử là bấm nút mỗi khi thấy cú nhảy đó. Mackworth phát hiện sau mười phút nhìn đồng hồ, chất lượng chú ý của người thử giảm mạnh. Thời gian chú ý liên tục tối đa mà những nhân viên có động lực nhất (được thưởng khoản tiền đáng kể) giữ được là 30 phút; sau đó họ chắc chắn bị xao nhãng.
 
-Yếu tố mới lạ, tức sự xuất hiện của dữ liệu giác quan mới, là then chốt nếu muốn thu hút và giữ chú ý trong thời gian dài. Một lý do khiến người ta có thể tập trung vào trò chơi hay lướt Internet hàng giờ là sự mới lạ: mỗi video đăng lên mạng, mỗi blog, cập nhật Facebook, Twitter hay tin thời sự làm mới khả năng chú ý của ta. Trong *Brain Rules*, John Medina kể cách ông giữ được sự chú ý của sinh viên trong các buổi giảng dài một giờ: ông chia bài thành các phần không quá mười phút. Mỗi phần mở bằng một "móc câu", tức một câu chuyện hay giai thoại thú vị, tiếp theo là một phần giải thích ngắn về khái niệm chính. Với cách làm này, sinh viên nhớ tốt hơn và không bị xao nhãng. (Kaufman cho biết đó là lý do cuốn sách được tổ chức thành các mục ngắn, mỗi mục đọc dưới mười phút.)
+Yếu tố mới lạ, tức sự xuất hiện của dữ liệu giác quan mới, là then chốt nếu muốn thu hút và giữ chú ý trong thời gian dài. Một lý do khiến người ta có thể tập trung vào trò chơi hay lướt Internet hàng giờ là sự mới lạ: mỗi video đăng lên mạng, mỗi blog, cập nhật Facebook, Twitter hay tin thời sự làm mới khả năng chú ý của ta.
+
+Trong *Brain Rules*, John Medina kể cách ông giữ được sự chú ý của sinh viên trong các buổi giảng dài một giờ: ông chia bài thành các phần không quá mười phút. Mỗi phần mở bằng một "móc câu", tức một câu chuyện hay giai thoại thú vị, tiếp theo là một phần giải thích ngắn về khái niệm chính. Với cách làm này, sinh viên nhớ tốt hơn và không bị xao nhãng. (Kaufman cho biết đó là lý do cuốn sách được tổ chức thành các mục ngắn, mỗi mục đọc dưới mười phút.)
 
 Ngay cả chủ đề đáng chú ý nhất cũng trở nên nhàm chán theo thời gian. Sự chú ý của con người cần có cái mới để kéo dài. Nếu bạn liên tục đưa ra điều mới, người ta sẽ tiếp tục chú ý tới những gì bạn có.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số đều giả định). Một doanh nghiệp nhỏ bán máy lọc nước gia đình giá 6 triệu đồng gặp ba vấn đề, và mỗi vấn đề tương ứng một mô hình trong chương. (1) *Mù trước điều vắng mặt:* lợi ích của máy lọc là "những bệnh không xảy ra", thứ khách không nhìn thấy. Doanh nghiệp đổi cách nói sang lợi ích cụ thể, tức thì: cho khách xem cốc nước trước và sau khi lọc, và tính rằng một gia đình 4 người đang mua nước bình khoảng 300.000 đồng/tháng, tức sau khoảng 20 tháng máy tự hoàn vốn. (2) *Sợ mất mát:* khách ngại bỏ 6 triệu cho một thứ chưa chắc hiệu quả; doanh nghiệp đưa cam kết "dùng thử 30 ngày, không hài lòng hoàn tiền 100%". Giả sử tỷ lệ khách mua tăng từ 2% lên 3% số người hỏi, và 5% khách trả lại máy, thì cứ 1.000 người hỏi, số máy giữ lại tăng từ 20 lên khoảng 28,5. (3) *Tương phản và khan hiếm:* khi bán máy, nhân viên giới thiệu gói thay lõi 2 năm giá 900.000 đồng; đặt cạnh chiếc máy 6 triệu, gói này chỉ bằng 15% giá máy nên trông nhỏ. Doanh nghiệp còn báo "giá tăng lên 6,5 triệu từ ngày 1 tháng sau", một mốc có thật và không phải khan hiếm giả. Song song, để chống *cạn kiệt ý chí* của chính mình, chủ doanh nghiệp đặt một *cấu trúc dẫn dắt*: tắt thông báo mạng xã hội từ 8 tới 11 giờ sáng để chỉ làm việc với khách lớn. Ông cũng dùng *quy tắc tờ báo*: nếu báo đăng cách ông quảng cáo "lọc sạch 100% vi khuẩn", mẹ ông đọc có thấy ông trung thực không? Câu trả lời buộc ông sửa thành con số thử nghiệm thật.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số đều giả định). Một doanh nghiệp nhỏ bán máy lọc nước gia đình giá 6 triệu đồng gặp ba vấn đề, và mỗi vấn đề tương ứng một mô hình trong chương.
+
+(1) *Mù trước điều vắng mặt:* lợi ích của máy lọc là "những bệnh không xảy ra", thứ khách không nhìn thấy. Doanh nghiệp đổi cách nói sang lợi ích cụ thể, tức thì: cho khách xem cốc nước trước và sau khi lọc, và tính rằng một gia đình 4 người đang mua nước bình khoảng 300.000 đồng/tháng, tức sau khoảng 20 tháng máy tự hoàn vốn.
+
+(2) *Sợ mất mát:* khách ngại bỏ 6 triệu cho một thứ chưa chắc hiệu quả; doanh nghiệp đưa cam kết "dùng thử 30 ngày, không hài lòng hoàn tiền 100%". Giả sử tỷ lệ khách mua tăng từ 2% lên 3% số người hỏi, và 5% khách trả lại máy, thì cứ 1.000 người hỏi, số máy giữ lại tăng từ 20 lên khoảng 28,5.
+
+(3) *Tương phản và khan hiếm:* khi bán máy, nhân viên giới thiệu gói thay lõi 2 năm giá 900.000 đồng; đặt cạnh chiếc máy 6 triệu, gói này chỉ bằng 15% giá máy nên trông nhỏ. Doanh nghiệp còn báo "giá tăng lên 6,5 triệu từ ngày 1 tháng sau", một mốc có thật và không phải khan hiếm giả.
+
+Song song, để chống *cạn kiệt ý chí* của chính mình, chủ doanh nghiệp đặt một *cấu trúc dẫn dắt*: tắt thông báo mạng xã hội từ 8 tới 11 giờ sáng để chỉ làm việc với khách lớn. Ông cũng dùng *quy tắc tờ báo*: nếu báo đăng cách ông quảng cáo "lọc sạch 100% vi khuẩn", mẹ ông đọc có thấy ông trung thực không? Câu trả lời buộc ông sửa thành con số thử nghiệm thật.
 
 ## Luận điểm cốt lõi
 
@@ -1543,7 +1625,9 @@ Con người không phải cỗ máy tính toán hợp lý, cũng không phải 
 
 ### Đóng góp mạnh nhất của chương là thay mô hình "thưởng phạt" bằng mô hình "mức tham chiếu"
 
-Phần lớn sách quản trị phổ thông năm 2010 vẫn nói về động lực theo kiểu củ cà rốt và cây gậy. Kaufman chọn lý thuyết kiểm soát tri giác của William T. Powers, một lý thuyết ít người ngoài giới chuyên môn biết, và biến nó thành công cụ thực hành: hỏi "mức tham chiếu của người này là gì, và môi trường nào khiến họ hành động" thay vì hỏi "thưởng bao nhiêu thì họ làm". Ví dụ làm thêm giờ cho ba kết quả là một minh hoạ đắt giá, khớp với điều kinh tế học lao động gọi là đường cung uốn ngược. Cách nhìn này cũng giải thích vì sao các chương trình thưởng doanh số hay KPI hay bị "chơi" theo cách người thiết kế không lường trước: người ta kiểm soát *con số* mình được đo, không nhất thiết kiểm soát *kết quả* doanh nghiệp muốn. Đây là phần của chương còn giá trị lâu dài nhất.
+Phần lớn sách quản trị phổ thông năm 2010 vẫn nói về động lực theo kiểu củ cà rốt và cây gậy. Kaufman chọn lý thuyết kiểm soát tri giác của William T. Powers, một lý thuyết ít người ngoài giới chuyên môn biết, và biến nó thành công cụ thực hành: hỏi "mức tham chiếu của người này là gì, và môi trường nào khiến họ hành động" thay vì hỏi "thưởng bao nhiêu thì họ làm".
+
+Ví dụ làm thêm giờ cho ba kết quả là một minh hoạ đắt giá, khớp với điều kinh tế học lao động gọi là đường cung uốn ngược. Cách nhìn này cũng giải thích vì sao các chương trình thưởng doanh số hay KPI hay bị "chơi" theo cách người thiết kế không lường trước: người ta kiểm soát *con số* mình được đo, không nhất thiết kiểm soát *kết quả* doanh nghiệp muốn. Đây là phần của chương còn giá trị lâu dài nhất.
 
 ### Một số kết quả khoa học trong chương đã yếu đi đáng kể sau năm 2010
 
@@ -1559,11 +1643,15 @@ Mục bình nhiên liệu của cơ thể trộn những lời khuyên có cơ s
 
 ### Đoạn về bong bóng kinh tế là chỗ mang màu sắc quan điểm rõ nhất của chương
 
-Kaufman trình bày lý thuyết chu kỳ kinh doanh của trường phái Áo như một sự thật, và kết luận rằng phản ứng hạ lãi suất của chính phủ sau khủng hoảng là "không làm gì mới đúng nhưng ai cũng muốn hành động". Đây là một quan điểm có tranh luận. Phần lớn kinh tế học vĩ mô chính thống cho rằng nới lỏng tiền tệ và hỗ trợ thanh khoản năm 2008 đã ngăn một cuộc đại suy thoái kiểu 1930, dù cũng thừa nhận lãi suất thấp kéo dài có thể góp phần tạo bong bóng tài sản. Điều đáng giữ lại là ý tâm lý học (con người khó chịu đựng việc không hành động, thiên lệch thích hành động), chứ không phải kết luận chính sách. Đáng chú ý là ý "không thấy điều vắng mặt" nối thẳng với bài học "cái thấy được và cái không thấy" của Bastiat và Hazlitt.
+Kaufman trình bày lý thuyết chu kỳ kinh doanh của trường phái Áo như một sự thật, và kết luận rằng phản ứng hạ lãi suất của chính phủ sau khủng hoảng là "không làm gì mới đúng nhưng ai cũng muốn hành động". Đây là một quan điểm có tranh luận.
+
+Phần lớn kinh tế học vĩ mô chính thống cho rằng nới lỏng tiền tệ và hỗ trợ thanh khoản năm 2008 đã ngăn một cuộc đại suy thoái kiểu 1930, dù cũng thừa nhận lãi suất thấp kéo dài có thể góp phần tạo bong bóng tài sản. Điều đáng giữ lại là ý tâm lý học (con người khó chịu đựng việc không hành động, thiên lệch thích hành động), chứ không phải kết luận chính sách. Đáng chú ý là ý "không thấy điều vắng mặt" nối thẳng với bài học "cái thấy được và cái không thấy" của Bastiat và Hazlitt.
 
 ### Các công cụ thuyết phục trong chương là con dao hai lưỡi
 
-Liên tưởng, tương phản, khan hiếm và cách sòng bạc làm mờ cảm giác mất đều có thể bị dùng để thao túng. Kaufman có cảnh báo (khan hiếm giả với hàng số sẽ bị coi là thao túng), và quy tắc tờ báo ở mục giới hạn quy mô nhận thức có thể dùng làm phép thử đạo đức cho chính các kỹ thuật này. Từ sau 2010, những kỹ thuật như đồng hồ đếm ngược giả, "chỉ còn 2 phòng" giả, ẩn chi phí phụ được gọi là "dark patterns" (thiết kế lừa dối) và bị cơ quan bảo vệ người tiêu dùng ở nhiều nước để ý. Người dùng lại các mô hình này nên phân biệt khan hiếm thật (số chỗ có hạn, giá tăng theo lịch công bố trước) với khan hiếm dựng lên. Một chi tiết cần lưu ý thêm: nói Coca-Cola "tạo ra" hình ảnh ông già Noel hiện đại là phóng đại; hình ảnh ông già Noel áo đỏ, râu trắng đã có trước đó, quảng cáo Coca-Cola từ thập niên 1930 chỉ góp phần lớn vào việc phổ biến nó.
+Liên tưởng, tương phản, khan hiếm và cách sòng bạc làm mờ cảm giác mất đều có thể bị dùng để thao túng. Kaufman có cảnh báo (khan hiếm giả với hàng số sẽ bị coi là thao túng), và quy tắc tờ báo ở mục giới hạn quy mô nhận thức có thể dùng làm phép thử đạo đức cho chính các kỹ thuật này. Từ sau 2010, những kỹ thuật như đồng hồ đếm ngược giả, "chỉ còn 2 phòng" giả, ẩn chi phí phụ được gọi là "dark patterns" (thiết kế lừa dối) và bị cơ quan bảo vệ người tiêu dùng ở nhiều nước để ý.
+
+Người dùng lại các mô hình này nên phân biệt khan hiếm thật (số chỗ có hạn, giá tăng theo lịch công bố trước) với khan hiếm dựng lên. Một chi tiết cần lưu ý thêm: nói Coca-Cola "tạo ra" hình ảnh ông già Noel hiện đại là phóng đại; hình ảnh ông già Noel áo đỏ, râu trắng đã có trước đó, quảng cáo Coca-Cola từ thập niên 1930 chỉ góp phần lớn vào việc phổ biến nó.
 
 ### Cách giải thích "lãnh đạo không phải kẻ xấu, chỉ là quá tải" vừa sâu sắc vừa dễ bị dùng để bào chữa
 
@@ -1574,4 +1662,222 @@ Giới hạn quy mô nhận thức giải thích hay vì sao tổ chức lớn d
 - **Trong doanh nghiệp.** Trước khi đặt ra một chương trình thưởng, hãy hỏi nhân viên đang kiểm soát mức tham chiếu nào (thu nhập đủ sống, thời gian cho gia đình, vị thế), vì chương trình có thể làm họ làm ít đi. Giải xung đột giữa các phòng ban bằng cách đổi cấu trúc (mục tiêu chung, ngân sách chia theo dự án) thay vì kêu gọi tinh thần hợp tác. Khi cắt giảm nhân sự, làm một lần, công bố rõ, để tránh trạng thái khoá chặt kéo dài. Lập danh sách kiểm tra cho những việc "phòng ngừa" dễ bị quên, và công nhận những quản lý giữ cho mọi thứ "không có chuyện gì".
 - **Trong nghề nghiệp.** Muốn đổi thói quen làm việc thì đổi môi trường: chặn mạng xã hội trong giờ làm việc sâu, để điện thoại ở phòng khác, đặt giới hạn giờ làm như một mức tham chiếu cứng. Khi thấy chán việc và muốn "bỏ hết", hãy hiểu đó có thể là giai đoạn tái tổ chức: thử những thay đổi nhỏ, có thể đảo ngược (một dự án phụ, một khoá học) để thu dữ liệu trước khi ra quyết định lớn. Tìm tiếp xúc với người đã làm được điều mình nghĩ là không thể, vì đó là cách đổi mức tham chiếu nhanh nhất.
 - **Khi khởi nghiệp hoặc kinh doanh nhỏ.** Hiểu rằng nỗi sợ bỏ việc ổn định là sợ mất mát, không phải đánh giá rủi ro khách quan; giảm nó bằng cách thử nghiệm khi vẫn còn đi làm, hoặc tính trước mức "lợi nhuận đủ sống". Với khách hàng: đưa cam kết hoàn tiền, nói lợi ích bằng thứ khách nhìn thấy, sắp xếp giá theo tương phản (gói cao cấp làm nền cho gói phổ thông), dùng hạn chót và tăng giá theo lịch thật, và làm mới nội dung marketing thường xuyên.
-- **Ở Việt Nam.** Nhiều doanh nghiệp vừa và nhỏ vẫn quản lý nhân viên chủ yếu bằng thưởng phạt; mô hình mức tham chiếu gợi ý nên kết hợp với việc sắp đặt môi trường làm việc (quy trình, công cụ, lịch làm rõ ràng). Trong thương mại điện tử và livestream bán hàng, các kỹ thuật khan hiếm ("chỉ còn 5 suất"), tương phản (giá gạch ngang) và liên tưởng (người nổi tiếng giới thiệu sản phẩm) được dùng rất dày; người bán nên tự áp dụng quy tắc tờ báo để không trượt sang thao túng, còn người mua nên nhận ra các kỹ thuật này để tự bảo vệ. Với các sản phẩm phòng ngừa như bảo hiểm, máy lọc nước hay dịch vụ bảo trì, mù trước điều vắng mặt là trở ngại lớn; cách Kaufman gợi ý (lợi ích cụ thể, tức thì, nhìn thấy được) áp dụng trực tiếp được.
+- **Ở Việt Nam.** Nhiều doanh nghiệp vừa và nhỏ vẫn quản lý nhân viên chủ yếu bằng thưởng phạt; mô hình mức tham chiếu gợi ý nên kết hợp với việc sắp đặt môi trường làm việc (quy trình, công cụ, lịch làm rõ ràng).
+
+  Trong thương mại điện tử và livestream bán hàng, các kỹ thuật khan hiếm ("chỉ còn 5 suất"), tương phản (giá gạch ngang) và liên tưởng (người nổi tiếng giới thiệu sản phẩm) được dùng rất dày; người bán nên tự áp dụng quy tắc tờ báo để không trượt sang thao túng, còn người mua nên nhận ra các kỹ thuật này để tự bảo vệ. Với các sản phẩm phòng ngừa như bảo hiểm, máy lọc nước hay dịch vụ bảo trì, mù trước điều vắng mặt là trở ngại lớn; cách Kaufman gợi ý (lợi ích cụ thể, tức thì, nhìn thấy được) áp dụng trực tiếp được.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: sáu nhánh lớn đi theo các mục 1–24 của phần Nội dung chi tiết (bộ não tiến hoá cho đời sống săn bắt hái lượm, kiểm soát tri giác và mức tham chiếu, đổi hành vi bằng cấu trúc thay vì ý chí, khuôn mẫu, mô phỏng, động lực và ý chí, sợ mất mát, khoá chặt vì mối đe doạ và giới hạn quy mô nhận thức, các thiên lệch dùng khi chào hàng), mỗi nhánh ghi tên mô hình kèm định nghĩa ngắn, cơ chế, ví dụ và lời khuyên áp dụng; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: não được lập trình cho đời sống săn bắt hái lượm, hành vi là nỗ lực giữ cảm nhận trong mức chấp nhận được`"]
+  n1["`Mục 1–4 — Tâm trí là phần cứng cũ chạy phần mềm mới`"]
+  n0 --- n1
+  n2["`Hội chứng người tiền sử: sinh học chỉnh cho đời sống 100.000 năm trước, không cho ngày làm việc 16 giờ`"]
+  n1 --- n2
+  n3["`Người tiền sử đi 14 km mỗi ngày tìm thức ăn, sống trong bộ lạc khoảng 40 người`"]
+  n2 --- n3
+  n4["`Đừng khắt khe với bản thân: không ai được sinh ra cho công việc văn phòng hiện nay`"]
+  n2 --- n4
+  n5["`Bình nhiên liệu: mệt mỏi tinh thần thường là tín hiệu thiếu dinh dưỡng, vận động hoặc nghỉ ngơi`"]
+  n1 --- n5
+  n6["`Năm lời khuyên: ăn đồ chất lượng, vận động đều, ngủ 7–8 giờ, phơi nắng, cho não nguyên liệu`"]
+  n5 --- n6
+  n7["`Ăn nhẹ khoảng 2,5 giờ một lần, 10 phút nắng buổi sáng giúp ngủ ngon và tâm trạng tốt`"]
+  n5 --- n7
+  n8["`Não củ hành: não sau giữ cơ thể sống, não giữa dự đoán theo khuôn mẫu, não trước suy xét và kìm hãm`"]
+  n1 --- n8
+  n9["`Phần lớn thời gian chạy lái tự động, não trước chỉ vào cuộc khi gặp điều bất ngờ`"]
+  n8 --- n9
+  n10["`P. J. Eby: não là con ngựa tự đi, bạn là người cưỡi chỉ hướng và trấn an`"]
+  n8 --- n10
+  n11["`Bạn không phải giọng nói bình luận trong đầu, thiền giúp quan sát mà không đồng nhất với nó`"]
+  n8 --- n11
+  n12["`Mục 5–7 — Kiểm soát tri giác và mức tham chiếu`"]
+  n0 --- n12
+  n13["`Kiểm soát tri giác: như bộ điều nhiệt, ta hành động khi và chỉ khi cảm nhận lệch khỏi mức đặt`"]
+  n12 --- n13
+  n14["`Bác thuyết hành vi của Skinner: kiểm soát kích thích bằng thưởng phạt không quyết định hành vi`"]
+  n13 --- n14
+  n15["`Người trên tàu giữa bão của Powers: kiểm soát là điều chỉnh theo môi trường, không phải lập kế hoạch`"]
+  n13 --- n15
+  n16["`Trả lương làm thêm giờ cho ba kết quả: làm nhiều hơn, như cũ, hoặc ít hơn vì sớm đạt mức thu nhập cần`"]
+  n13 --- n16
+  n17["`Ba loại mức tham chiếu: điểm đặt, khoảng (đường huyết), sai số bằng 0 (khiếu nại của khách)`"]
+  n12 --- n17
+  n18["`Đổi mức tham chiếu thì hành vi tự đổi: lập ngân sách, đi bác sĩ, quyết không làm quá 8 giờ`"]
+  n17 --- n18
+  n19["`Tiết kiệm năng lượng: lười là đặc tính, chưa vượt mức tham chiếu thì không hành động`"]
+  n12 --- n19
+  n20["`Công việc tàm tạm không đủ khó chịu nên nhiều người ở lại công việc bế tắc hàng năm`"]
+  n19 --- n20
+  n21["`Bannister chạy 1 dặm dưới 4 phút năm 1954, tới 1957 đã có 16 người làm được`"]
+  n19 --- n21
+  n22["`Thông tin làm vỡ kỳ vọng về điều có thể làm được là thứ khởi động hành động`"]
+  n19 --- n22
+  n23["`Mục 8–10 — Đổi hành vi bằng cấu trúc, không bằng ý chí`"]
+  n0 --- n23
+  n24["`Cấu trúc dẫn dắt: muốn đổi hành vi, đổi cấu trúc môi trường gây ra hành vi đó`"]
+  n23 --- n24
+  n25["`Không muốn ăn kem thì đừng mua kem, Kaufman ăn thuần chay 3 năm gần như không tốn ý chí`"]
+  n24 --- n25
+  n26["`Ulysses bịt sáp tai thuỷ thủ và tự trói mình vào cột buồm thay vì dựa vào ý chí`"]
+  n24 --- n26
+  n27["`Quy tắc buồng lái vô trùng FAA 1981: dưới 10.000 feet chỉ nói chuyện liên quan chuyến bay`"]
+  n24 --- n27
+  n28["`Tái tổ chức: không biết cách kiểm soát lại thì thử hành động ngẫu nhiên để thu dữ liệu`"]
+  n23 --- n28
+  n29["`Khủng hoảng tuổi trung niên là ví dụ, đừng kháng cự vì đây là cơ sở thần kinh của việc học`"]
+  n28 --- n29
+  n30["`Xung đột: hai hệ thống kéo một cảm nhận về hai phía, như máy sưởi và máy lạnh cùng chỉnh một phòng`"]
+  n23 --- n30
+  n31["`Chỉ trích hay ý chí không giải được, phải đổi mức tham chiếu tức đổi cấu trúc tình huống`"]
+  n30 --- n31
+  n32["`Trì hoãn: lịch ngược của Neil Fiore xếp giờ nghỉ, giải trí trước, việc sau`"]
+  n30 --- n32
+  n33["`Mục 11–16 — Khuôn mẫu, mô phỏng, động lực và ý chí`"]
+  n0 --- n33
+  n34["`Nhận diện khuôn mẫu: não tự học quan hệ nhân quả, tối ưu tốc độ hơn độ chính xác`"]
+  n33 --- n34
+  n35["`Chó của Pavlov, người có kinh nghiệm quyết định tốt hơn nhờ kho khuôn mẫu lớn và chính xác`"]
+  n34 --- n35
+  n36["`Mô phỏng trong đầu: dự đoán kết quả trước khi làm, nhưng cần điểm B như GPS cần đích đến`"]
+  n33 --- n36
+  n37["`Diễn giải lại: mỗi lần nhớ, ký ức được lưu lại kèm thay đổi, nên sửa được cơ sở dữ liệu`"]
+  n33 --- n37
+  n38["`Quy trình 7 bước của Morty Lefkoe: nhận ra niềm tin cũ chỉ là một cách diễn giải`"]
+  n37 --- n38
+  n39["`Kaufman nhìn lại quãng làm ở P#amp;G từ thất bại thành bài học tìm ra con đường hợp mình`"]
+  n37 --- n39
+  n40["`Động lực là cảm xúc, không phải lý lẽ: tiến tới hoặc tránh xa, và tránh xa thường thắng`"]
+  n33 --- n40
+  n41["`Quát tháo người khác chỉ khiến họ muốn tránh xa bạn`"]
+  n40 --- n41
+  n42["`Kìm hãm: não trước chủ yếu có quyền ngăn hành động tự động, nhiên liệu là ý chí`"]
+  n33 --- n42
+  n43["`Cạn kiệt ý chí: ý chí ít ỏi và cạn dần, Baumeister cho rằng nó phụ thuộc glucose`"]
+  n33 --- n43
+  n44["`Thí nghiệm kẹo dẻo của Mischel: trẻ biết chờ để được hai chiếc thành công hơn khi lớn`"]
+  n43 --- n44
+  n45["`Dùng ý chí để đổi môi trường: vứt hộp kem, cài Freedom chặn Internet khi viết sách`"]
+  n43 --- n45
+  n46["`Mục 17–19 — Sợ mất mát, khoá chặt vì đe doạ, giới hạn quy mô`"]
+  n0 --- n46
+  n47["`Sợ mất mát: phản ứng với khoản mất mạnh khoảng gấp đôi với khoản được tương đương`"]
+  n46 --- n47
+  n48["`80–90% người trưởng thành muốn tự kinh doanh nhưng ít người làm vì sợ mất việc ổn định`"]
+  n47 --- n48
+  n49["`Sòng bạc đổi tiền thành phỉnh, người bán dùng đảo ngược rủi ro bằng cam kết hoàn tiền`"]
+  n47 --- n49
+  n50["`Khoá chặt vì mối đe doạ: chiến đấu, bỏ chạy hoặc đứng im, tâm trí dính chặt vào mối đe doạ`"]
+  n46 --- n50
+  n51["`Khủng hoảng chứng khoán 2008: nhân viên đoán ai bị sa thải tiếp thay vì làm việc`"]
+  n50 --- n51
+  n52["`Sa thải thì làm nhanh, minh bạch, một lần, gỡ bằng tập thể dục, ngủ, thiền`"]
+  n50 --- n52
+  n53["`Con số Dunbar: khoảng 150 mối quan hệ ổn định, ngoài vòng đó người khác thành trừu tượng`"]
+  n46 --- n53
+  n54["`Lãnh đạo tập đoàn quyết định vô cảm vì xử lý quy mô lớn trừu tượng, không phải vì tham nhũng`"]
+  n53 --- n54
+  n55["`Cá nhân hoá hậu quả: quy tắc tờ báo (ngắn hạn), quy tắc đứa cháu (30–40 năm sau)`"]
+  n53 --- n55
+  n56["`Mục 20–24 — Các thiên lệch dùng khi chào hàng`"]
+  n0 --- n56
+  n57["`Liên tưởng: Coca-Cola gắn với hạnh phúc, Daniel Craig chuyển hình ảnh James Bond sang đồng hồ`"]
+  n56 --- n57
+  n58["`Mù trước điều vắng mặt: sản phẩm giúp bề mặt ít bẩn của P#amp;G bị huỷ vì người dùng không thấy gì`"]
+  n56 --- n58
+  n59["`Quản lý giỏi trông như chẳng làm gì, bán phòng ngừa phải nói lợi ích cụ thể, tức thì`"]
+  n58 --- n59
+  n60["`Gary Klein: đội trưởng cứu hoả thấy lửa không giảm, rút người trước khi nhà sập`"]
+  n58 --- n60
+  n61["`Cách tin cậy duy nhất để thấy điều vắng mặt là danh sách kiểm tra`"]
+  n58 --- n61
+  n62["`Tương phản: bộ com-lê 3.000 USD làm bộ 400 USD trông không đắt`"]
+  n56 --- n62
+  n63["`Bảo hành 300 USD trông rẻ cạnh máy tính 2.000 USD dù làm tổng giá tăng 15%`"]
+  n62 --- n63
+  n64["`Khung so sánh: khoá học rẻ hơn 149.000 USD so với một chương trình MBA danh tiếng`"]
+  n62 --- n64
+  n65["`Khan hiếm: Tickle Me Elmo 1996, số lượng giới hạn, giá sắp tăng, hạn chót`"]
+  n56 --- n65
+  n66["`Khan hiếm giả với hàng số bị coi là thao túng, tăng giá theo mốc thì hợp lý`"]
+  n65 --- n66
+  n67["`Mới lạ: với đồng hồ Mackworth, chú ý giảm mạnh sau 10 phút, tối đa 30 phút`"]
+  n56 --- n67
+  n68["`Medina chia bài giảng thành phần không quá 10 phút, mỗi phần mở bằng một móc câu`"]
+  n67 --- n68
+  n69["`Thông điệp xuyên suốt`"]
+  n0 --- n69
+  n70["`Đừng tự trách mình vì giới hạn sinh học, hãy thiết kế công việc và môi trường hợp với chúng`"]
+  n69 --- n70
+  n71["`Đổi mức tham chiếu và cấu trúc môi trường, đừng trông vào ý chí hay ưu đãi thần kỳ`"]
+  n69 --- n71
+  n72["`Khi chào hàng: đảo ngược rủi ro, liên tưởng tích cực, khung so sánh có lợi, khan hiếm thật`"]
+  n69 --- n72
+  class n0 root
+  class n1,n12,n23,n33,n46,n56,n69 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n70,n71,n72 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 7 "La mente" (tương ứng Chapter 6 "The Human Mind" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương 2 đến 6 đã trình bày năm thành phần của một doanh nghiệp: tạo ra giá trị, marketing, bán hàng, chuyển giao giá trị và tài chính (chương 6 kết thúc ở các khái niệm như "lợi nhuận đủ sống" và đòn bẩy). Chương 7 mở đầu phần thứ hai của cuốn sách, phần nói về con người: Kaufman chuyển từ câu hỏi "doanh nghiệp vận hành thế nào" sang câu hỏi "con người, tức cả khách hàng lẫn người làm kinh doanh, nhận thông tin, ra quyết định và hành động thế nào".
+
+Chương này là nền tâm lý học cho hai chương tiếp theo: chương 8 "Cómo trabajar" (làm việc với chính mình: ra quyết định, đặt mục tiêu, quản lý việc hằng ngày) dùng lại mức tham chiếu, cấu trúc dẫn dắt, ý chí và mô phỏng trong đầu; chương 9 "Trabajar en equipo" (làm việc với người khác) dùng lại kiểm soát tri giác, xung đột và giới hạn quy mô nhận thức.
+
+Nhiều mô hình trong chương cũng giải thích ngược lại các kỹ thuật marketing và bán hàng ở chương 3–4 (ví dụ sợ mất mát giải thích vì sao "đảo ngược rủi ro" khi bán hàng có hiệu quả), và báo trước các chương về hệ thống 10–12 (vòng phản hồi, ma sát, danh sách kiểm tra).
+
+## Lưu ý
+
+- Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua bản OCR từ ảnh scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman. Tên tiếng Anh của 23 mục được ghi theo hiểu biết của người tổng hợp về bản gốc (Caveman Syndrome, Performance Load, Onion Brain, Perceptual Control, Reference Level, Conservation of Energy, Guiding Structure, Reorganization, Conflict, Pattern Matching, Mental Simulation, Interpretation and Reinterpretation, Motivation, Inhibition, Willpower Depletion, Loss Aversion, Threat Lockdown, Cognitive Scope Limitation, Association, Absence Blindness, Contrast, Scarcity, Novelty).
+
+## Chỗ OCR hỏng đã tự sửa
+
+- "Malcom McMahon, obespo de Notingham" là Malcolm McMahon, giám mục Nottingham.
+- "WELIAM T. POwERs" là William T. Powers.
+- "P. 1. Eby" là P. J. Eby.
+- "combencelalo/rombencelalo" là rombencéfalo.
+- "Jen Kabat-Zinn" là Jon Kabat-Zinn.
+- "ANAIS Nav" là Anaïs Nin.
+- "ALDOUK HuxLEy… Lin mundo feliz" là Aldous Huxley, *Un mundo feliz* (*Brave New World*).
+- "Medida por mecida" là *Medida por medida* (*Measure for Measure*).
+- "Bemard-Killworth" là Bernard–Killworth.
+- "Moke Decisions" là *Make Decisions*.
+- "des horas" là "dos horas" (hai giờ).
+- "2no?", "2Y 40" và "210.000 dólares es mucho dinero?" là dấu hỏi mở "¿" bị đọc thành số 2, tức câu gốc là "¿10.000 dólares es mucho dinero?" (10.000 USD có phải nhiều tiền không?).
+- Dòng đề từ của Michael Gelb bị OCR làm rối tên sách ("Pensar como Leonardo da Vince suele lecciones…"); có lẽ là bản TBN của *How to Think Like Leonardo da Vinci* (bảy bước để trở thành thiên tài), người tổng hợp không chắc tên TBN.
+- Ở mục tiết kiệm năng lượng, quãng đường của vận động viên siêu marathon in ra là "de 00 a 160 kilómetros": chữ số đầu bị mất, chỉ chắc con số trên là 160 km.
+
+## Chỗ bản dịch có vẻ lệch nghĩa
+
+- Đề từ của Yogi Berra trong bản gốc là câu chơi chữ nổi tiếng "chín mươi phần trăm trận đấu này là một nửa tâm lý"; bản TBN dịch thành "hơn kém là tâm lý", mất cái phi lý gây cười.
+- Mục "La inhibición": bản TBN viết "nói 'thiếu tự do ý chí' sẽ chính xác hơn 'tự do ý chí'"; trong tiếng Anh đây gần như chắc chắn là cách chơi chữ "free won't" (tự do *không* làm) thay cho "free will", tức vùng não trước chủ yếu có quyền *ngăn* một hành động tự động chứ không khởi phát hành động; "thiếu tự do ý chí" làm sai nghĩa.
+- Cũng mục đó, câu "khả năng kìm hãm có giới hạn, chúng ta sẽ bàn ở chương 10" có lẽ là lỗi chuyển số: giới hạn đó được bàn ngay ở mục kế tiếp "Falta de fuerza de voluntad".
+- Mục "La motivación" nói các mô phỏng, khuôn mẫu, xung đột và diễn giải "ẩn trong rombencéfalo" (não sau), trong khi chính chương xếp khuôn mẫu và dự đoán vào mesencéfalo (não giữa); có thể là lỗi dịch hoặc lỗi của bản gốc.
+- Mục "Encerrar la amenaza bajo llave": câu kết về cách làm dịu nói "dùng một biện pháp *tâm lý*" nhưng ngay sau đó liệt kê tập thể dục, ngủ và thiền để chuyển hoá hormone căng thẳng, tức biện pháp *sinh lý*; người tổng hợp hiểu theo nghĩa sinh lý.
+- Mục "El factor «escasez»": câu "khan hiếm là một trong những thứ mà xu hướng tiết kiệm năng lượng tự nhiên chiến thắng" bị đảo chủ ngữ; theo logic của đoạn, khan hiếm mới là thứ *thắng được* xu hướng tiết kiệm năng lượng. Cũng mục này, cách thứ ba "Descenso de precios: báo cho khách rằng sắp có giảm giá" đi ngược logic (báo sắp giảm giá thì khách sẽ chờ); nhiều khả năng ý gốc là một đợt giảm giá *sắp kết thúc*.
+- Mục "La aversión a la pérdida" minh hoạ bằng danh mục đầu tư "tăng 100%" và "giảm 100%"; hai con số này không cho thấy tỷ lệ "gấp đôi", người tổng hợp giữ nguyên như bản TBN.
+- Mục "La percepción por contraste" có câu "nhưng không phải ở cửa hàng này, nơi so sánh giá" bị rối; ý là: khách không đứng ở cửa hàng kia để so sánh giá, thứ hiện diện trước mặt khách là bộ com-lê 400 USD.
+
+## Bối cảnh
+
+- Sách viết năm 2010; các ví dụ như Coca-Cola trên YouTube, Facebook, Twitter, ứng dụng Freedom/LeechBlock, khủng hoảng chứng khoán cuối 2008, Daniel Craig quảng cáo đồng hồ là ví dụ tính tới lúc đó. Một số kết quả khoa học Kaufman dẫn (ý chí phụ thuộc vào glucose trong máu, mô hình "não ba lớp") đã bị nghi ngờ hoặc bác bỏ sau năm 2010; xem phần Đánh giá.
+
+## Chú thích cuối sách đã đưa vào
+
+- [35] (đèn trị liệu goLITE BLU) và [36] (vitamin D3 và việc hỏi bác sĩ), ở mục 3 của Nội dung chi tiết; [37] (sách *Kluge* của Gary Marcus), ở mục 4. Các chú thích [34], [38]–[44] chỉ là đường dẫn web nên bỏ; riêng [41] trỏ tới trang về "lý thuyết chu kỳ kinh doanh của trường phái Áo", cho thấy đoạn về bong bóng kinh tế ở mục 21 của Nội dung chi tiết dựa trên lý thuyết này.

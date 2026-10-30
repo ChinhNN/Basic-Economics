@@ -1,11 +1,20 @@
 # Chương 12 — Cải thiện hệ thống (El perfeccionamiento de los sistemas; Improving Systems)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 12 "El perfeccionamiento de los sistemas" (tương ứng Chapter 11 "Improving Systems" ở bản tiếng Anh). Chương này cũng chứa đoạn kết của cả cuốn sách ("No digamos «Fin»").
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Kaufman chia kinh doanh thành ba lớp. Lớp thứ nhất là năm phần của một doanh nghiệp (chương 2–6: tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính). Lớp thứ hai là con người (chương 7–9: tâm trí con người, làm việc với chính mình, làm việc với người khác). Lớp thứ ba là hệ thống (chương 10–12): chương 10 giúp hiểu một hệ thống gồm những gì và vận hành ra sao (dòng chảy, vòng phản hồi, sự phụ thuộc lẫn nhau, "tai nạn bình thường"), chương 11 dạy phân tích hệ thống (đo lường, chỉ số hiệu quả then chốt, tách nhân quả khỏi tương quan). Chương 12 là bước cuối: khi đã hiểu và đo được hệ thống thì cải thiện nó như thế nào, và làm sao để hệ thống chịu được bất định. Vì là chương cuối, nó kết thúc bằng lời khuyên rằng việc tự học kinh doanh không có điểm kết thúc.
-**Ý chính:** Kaufman muốn người đọc hiểu rằng cải thiện một hệ thống kinh doanh không phải là làm thêm thật nhiều thứ, mà là làm đúng một số việc có chủ đích và biết lúc nào nên dừng. Chương đi theo ba nhóm ý. Nhóm thứ nhất là **làm hệ thống hiệu quả hơn**: tối ưu hoá từng biến một (tăng tối đa đầu ra hoặc giảm tối thiểu đầu vào, không làm cả hai cùng lúc); tái cấu trúc quy trình để chạy nhanh hơn mà kết quả không đổi; dồn sức vào **thiểu số then chốt** (quy tắc 80/20: Tim Ferriss nhận ra 5 trên 120 khách hàng tạo 95% doanh thu); dừng khi gặp **lợi suất giảm dần** (quảng cáo truyền hình của P&G đến lúc khán giả chán thì mỗi đô la chi ra không còn thu về một đô la); giảm **ma sát** (đĩa khúc côn cầu trên cỏ cao, cỏ cắt ngắn và mặt băng). Nhóm thứ hai là **tự động hoá và chuẩn hoá**: tự động hoá giúp nhân rộng, nhưng **nghịch lý của tự động hoá** là hệ thống tự động càng hiệu quả thì vai trò của người vận hành càng quan trọng, vì một lỗi sẽ bị nhân lên rất nhanh (dây chuyền giả định mất 528.000 USD mỗi phút; Toyota mất hơn 5 tỷ USD vì lỗi bàn đạp ga năm 2009), còn **sự trớ trêu của tự động hoá** là hệ thống càng đáng tin thì người vận hành càng lơ là; quy trình vận hành chuẩn và danh sách kiểm tra giúp không quên bước quan trọng (danh sách năm bước của bác sĩ Pronovost đưa tỷ lệ nhiễm trùng đường truyền tĩnh mạch từ 11% xuống 0% và tiết kiệm hơn 2 triệu USD); và đôi khi cách cải thiện tốt nhất là **chủ động ngừng làm** (nông trại "tự nhiên" của Masanobu Fukuoka). Nhóm thứ ba là **chuẩn bị cho bất định**: xây **khả năng phục hồi** theo kiểu con rùa chứ không theo kiểu con hổ (ít nợ, chi phí cố định thấp, dự trữ tiền mặt, nhiều dòng sản phẩm, không có điểm hỏng duy nhất); lắp **hệ thống dự phòng** trước khi cần (máy phát điện của bố Kaufman, ổ cứng sao lưu, mặt nạ dưỡng khí trên máy bay); **kiểm tra sức chịu tải** bằng cách cố tình làm hệ thống quá tải (Kaufman giả lập hàng loạt người truy cập trang web của mình); **lập kịch bản** thay vì cố đoán tương lai. Chương khép lại bằng **con đường trung dung** (không quá ít, không quá nhiều), **tư duy thử nghiệm** (học bằng cách thử và mắc lỗi), và phần kết của cả cuốn sách: việc tự học không bao giờ kết thúc, và theo bài luận năm 1917 của B. C. Forbes mà Kaufman chép lại, thành công là trách nhiệm của chính mỗi người.
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua văn bản OCR của một bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman. Tên tiếng Anh của các mục chỉ ghi khi người tổng hợp chắc chắn; mục cuối "No digamos «Fin»" không ghi tên tiếng Anh. Những chỗ OCR hỏng đã được sửa khi đọc: tên người viết đề từ của chương là Jan L. A. van de Snepscheut (OCR "WIN DE SNEPSCHEUT"); Norman R. Augustine (OCR "AUGLISTING"); Đại học George Mason (OCR "Georges Mason"); Elbert Hubbard là tác giả *A Message to Garcia* (OCR "BuRDr de A Message 10 Gercía"); các số chú thích dính vào chữ như "6)", "Yorkerl®2", "automatizadale3)" là chú thích [61], [62], [63] ở cuối sách. Cả ba chú thích này chỉ là đường dẫn hoặc tên trang web (bài báo của Bainbridge, bài của Atul Gawande trên *New Yorker*, công cụ thử tải LoadImpact.com) nên không đưa vào. Một số chỗ bản dịch TBN có vẻ lệch nghĩa hoặc khó hiểu: (1) ở mục "La minoría crucial", câu TBN nói "của cải không phân bố đồng đều hay theo hình chuông; phần lớn người ta cho rằng của cải tập trung vào một nhóm nhỏ", nghĩa có vẻ bị đảo, ý hợp lý là: phần lớn người ta *cho rằng* của cải phân bố đều hoặc theo hình chuông, nhưng Pareto thấy nó tập trung vào một nhóm nhỏ; (2) câu về việc Ferriss "bảo đảm phân phối từ ba khách hàng lớn khác" không rõ nghĩa, người tổng hợp hiểu là sau khi bỏ hai khách gây phiền, Ferriss có thêm ba khách hàng lớn khác; (3) ở mục "La fricción", bản TBN viết "proceso de los rendimientos" (quy trình lợi suất), rõ ràng là dịch nhầm chữ *returns* (hàng trả lại) nên ở đây hiểu là quy trình trả hàng; (4) "redes de utilidades" là dịch sát chữ *utility networks*, tức mạng lưới điện, nước, khí đốt; (5) trong danh sách khả năng phục hồi, dòng "Ningún fallo" (không có lỗi nào) nhiều khả năng là bản dịch rút gọn của ý "không có điểm hỏng duy nhất" (*no single point of failure*), vì mục "El sistema de seguridad" ngay sau nói đúng ý đó; (6) ở mục "Ceder", câu về bong bóng giá bị dịch rối, ý được hiểu là: chính phủ can thiệp vào một số thị trường làm giảm giả tạo chi phí của một số hành động (ví dụ vay tiền), dẫn tới đầu cơ; (7) ở mục "Prever el escenario", câu "các công ty kiếm được tiền bất kể giá dầu tăng" là cách nói không chính xác về phòng ngừa rủi ro, ý đúng là công ty đã cố định trước mức giá nên tránh được khoản lỗ nếu giá dầu tăng; (8) "modo jefe" (chế độ ông chủ) và "modo demiurgo" (chế độ đấng tạo hoá) ở mục "Controlar la tensión" không rõ tương ứng với chữ gì trong bản tiếng Anh; người tổng hợp hiểu là chuyển từ góc nhìn của người xây và điều hành hệ thống sang góc nhìn của người muốn phá nó; (9) trong phần kết, câu về những người giàu nhất "trước hết vì sự tò mò không ngừng đã đưa họ tới thành công" là câu cụt, và dòng "Chỉ bạn mới có thể tiếp thu một điều về mặt tinh thần và vật chất…" trong danh sách của Forbes bị hỏng, chỉ diễn đạt lại ý chung. Chương nhắc lại nhiều khái niệm của các chương trước (chỉ số hiệu quả then chốt, nhân quả và tương quan, dây chuyền lắp ráp, nhân bản và nhân rộng, sự mới lạ, mù sự vắng mặt, lỗi quy kết, cạn kiệt ý chí, tai nạn bình thường, mô phỏng phản thực tế); bản tổng hợp giải thích ngắn từng khái niệm khi nó xuất hiện. Sách viết năm 2010: vụ thu hồi xe của Toyota (cuối 2009), bong bóng dot-com (2000) và bong bóng nhà đất (2008) là những sự kiện mới xảy ra lúc đó; các đường dẫn web trong phần kết là của thời điểm xuất bản.
+Kaufman muốn người đọc hiểu rằng cải thiện một hệ thống kinh doanh không phải là làm thêm thật nhiều thứ, mà là làm đúng một số việc có chủ đích và biết lúc nào nên dừng.
+
+Chương đi theo ba nhóm ý. Nhóm thứ nhất là **làm hệ thống hiệu quả hơn**: tối ưu hoá từng biến một (tăng tối đa đầu ra hoặc giảm tối thiểu đầu vào, không làm cả hai cùng lúc); tái cấu trúc quy trình để chạy nhanh hơn mà kết quả không đổi; dồn sức vào **thiểu số then chốt** (quy tắc 80/20: Tim Ferriss nhận ra 5 trên 120 khách hàng tạo 95% doanh thu).
+
+Dừng khi gặp **lợi suất giảm dần** (quảng cáo truyền hình của P&G đến lúc khán giả chán thì mỗi đô la chi ra không còn thu về một đô la); giảm **ma sát** (đĩa khúc côn cầu trên cỏ cao, cỏ cắt ngắn và mặt băng).
+
+Nhóm thứ hai là **tự động hoá và chuẩn hoá**: tự động hoá giúp nhân rộng, nhưng **nghịch lý của tự động hoá** là hệ thống tự động càng hiệu quả thì vai trò của người vận hành càng quan trọng, vì một lỗi sẽ bị nhân lên rất nhanh (dây chuyền giả định mất 528.000 USD mỗi phút; Toyota mất hơn 5 tỷ USD vì lỗi bàn đạp ga năm 2009), còn **sự trớ trêu của tự động hoá** là hệ thống càng đáng tin thì người vận hành càng lơ là.
+
+Quy trình vận hành chuẩn và danh sách kiểm tra giúp không quên bước quan trọng (danh sách năm bước của bác sĩ Pronovost đưa tỷ lệ nhiễm trùng đường truyền tĩnh mạch từ 11% xuống 0% và tiết kiệm hơn 2 triệu USD); và đôi khi cách cải thiện tốt nhất là **chủ động ngừng làm** (nông trại "tự nhiên" của Masanobu Fukuoka).
+
+Nhóm thứ ba là **chuẩn bị cho bất định**: xây **khả năng phục hồi** theo kiểu con rùa chứ không theo kiểu con hổ (ít nợ, chi phí cố định thấp, dự trữ tiền mặt, nhiều dòng sản phẩm, không có điểm hỏng duy nhất); lắp **hệ thống dự phòng** trước khi cần (máy phát điện của bố Kaufman, ổ cứng sao lưu, mặt nạ dưỡng khí trên máy bay); **kiểm tra sức chịu tải** bằng cách cố tình làm hệ thống quá tải (Kaufman giả lập hàng loạt người truy cập trang web của mình); **lập kịch bản** thay vì cố đoán tương lai.
+
+Chương khép lại bằng **con đường trung dung** (không quá ít, không quá nhiều), **tư duy thử nghiệm** (học bằng cách thử và mắc lỗi), và phần kết của cả cuốn sách: việc tự học không bao giờ kết thúc, và theo bài luận năm 1917 của B. C. Forbes mà Kaufman chép lại, thành công là trách nhiệm của chính mỗi người.
 
 ## Sơ đồ
 
@@ -713,9 +722,15 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Muốn cải thiện một hệ thống kinh doanh, nên bắt đầu từ đâu và dừng ở đâu?** Bắt đầu bằng việc chọn **một** biến quan trọng nhất (một chỉ số hiệu quả then chốt) và tối ưu nó, thay vì cố cải thiện mọi thứ cùng lúc, vì chỉ khi thay đổi từng thứ một mới biết thay đổi nào gây ra kết quả nào. Theo quy tắc thiểu số then chốt, một phần nhỏ đầu vào tạo phần lớn kết quả (5 trên 120 khách hàng của Tim Ferriss tạo 95% doanh thu), nên hãy dồn sức vào phần nhỏ đó và cắt bỏ phần còn lại. Có thể tái cấu trúc quy trình để nó nhanh hơn mà kết quả không đổi, và gỡ bỏ ma sát ở những chỗ năng lượng bị hao. Dừng lại khi gặp lợi suất giảm dần, tức khi mỗi đơn vị công sức hay tiền bỏ thêm không còn thu lại tương xứng (như quảng cáo P&G đến lúc khán giả chán), vì cầu toàn là cái bẫy. Đôi khi bước cải thiện tốt nhất là ngừng hẳn một việc phản tác dụng.
-2. **Tự động hoá có nghĩa là có thể bớt quan tâm tới con người không?** Không, ngược lại. Tự động hoá giúp nhân rộng quy mô, nhưng một hệ thống tự động càng hiệu quả thì một lỗi bị nhân lên càng nhanh: dây chuyền chip giả định mất 528.000 USD mỗi phút, Toyota mất hơn 5 tỷ USD. Vì vậy vai trò phát hiện lỗi của người vận hành càng quan trọng (nghịch lý của tự động hoá). Trớ trêu là hệ thống càng đáng tin thì người vận hành càng chán và càng ít chú ý, nên càng khó nhận ra lỗi nhỏ (sự trớ trêu của tự động hoá). Cách xử lý là lấy mẫu và kiểm tra liên tục, giả định trước rằng lỗi sẽ xảy ra, và dùng quy trình vận hành chuẩn cùng danh sách kiểm tra để không bỏ sót bước cơ bản (danh sách năm bước giảm nhiễm trùng từ 11% xuống 0%).
-3. **Làm sao để doanh nghiệp sống sót khi không ai đoán được tương lai?** Xây khả năng phục hồi theo kiểu con rùa: ít hoặc không nợ, chi phí cố định thấp, dự trữ tiền mặt lớn, nhiều dòng sản phẩm độc lập, nhân viên đa năng, không có điểm hỏng duy nhất, và có hệ thống dự phòng cho mọi quy trình quan trọng, được lập trước khi cần và tách khỏi hệ thống chính. Kiểm tra sức chịu tải bằng cách cố tình đẩy hệ thống tới giới hạn để sửa lỗi trước khi khách gặp. Thay vì cố đoán lãi suất hay giá dầu, hãy lập kịch bản "mình sẽ làm gì nếu…" và phòng ngừa rủi ro (ví dụ hợp đồng tương lai). Chấp nhận rằng cách làm đúng nằm đâu đó giữa quá ít và quá nhiều, và tìm ra nó bằng cách thử nghiệm liên tục.
+1. **Muốn cải thiện một hệ thống kinh doanh, nên bắt đầu từ đâu và dừng ở đâu?** Bắt đầu bằng việc chọn **một** biến quan trọng nhất (một chỉ số hiệu quả then chốt) và tối ưu nó, thay vì cố cải thiện mọi thứ cùng lúc, vì chỉ khi thay đổi từng thứ một mới biết thay đổi nào gây ra kết quả nào. Theo quy tắc thiểu số then chốt, một phần nhỏ đầu vào tạo phần lớn kết quả (5 trên 120 khách hàng của Tim Ferriss tạo 95% doanh thu), nên hãy dồn sức vào phần nhỏ đó và cắt bỏ phần còn lại.
+
+   Có thể tái cấu trúc quy trình để nó nhanh hơn mà kết quả không đổi, và gỡ bỏ ma sát ở những chỗ năng lượng bị hao. Dừng lại khi gặp lợi suất giảm dần, tức khi mỗi đơn vị công sức hay tiền bỏ thêm không còn thu lại tương xứng (như quảng cáo P&G đến lúc khán giả chán), vì cầu toàn là cái bẫy. Đôi khi bước cải thiện tốt nhất là ngừng hẳn một việc phản tác dụng.
+2. **Tự động hoá có nghĩa là có thể bớt quan tâm tới con người không?** Không, ngược lại. Tự động hoá giúp nhân rộng quy mô, nhưng một hệ thống tự động càng hiệu quả thì một lỗi bị nhân lên càng nhanh: dây chuyền chip giả định mất 528.000 USD mỗi phút, Toyota mất hơn 5 tỷ USD. Vì vậy vai trò phát hiện lỗi của người vận hành càng quan trọng (nghịch lý của tự động hoá).
+
+   Trớ trêu là hệ thống càng đáng tin thì người vận hành càng chán và càng ít chú ý, nên càng khó nhận ra lỗi nhỏ (sự trớ trêu của tự động hoá). Cách xử lý là lấy mẫu và kiểm tra liên tục, giả định trước rằng lỗi sẽ xảy ra, và dùng quy trình vận hành chuẩn cùng danh sách kiểm tra để không bỏ sót bước cơ bản (danh sách năm bước giảm nhiễm trùng từ 11% xuống 0%).
+3. **Làm sao để doanh nghiệp sống sót khi không ai đoán được tương lai?** Xây khả năng phục hồi theo kiểu con rùa: ít hoặc không nợ, chi phí cố định thấp, dự trữ tiền mặt lớn, nhiều dòng sản phẩm độc lập, nhân viên đa năng, không có điểm hỏng duy nhất, và có hệ thống dự phòng cho mọi quy trình quan trọng, được lập trước khi cần và tách khỏi hệ thống chính.
+
+   Kiểm tra sức chịu tải bằng cách cố tình đẩy hệ thống tới giới hạn để sửa lỗi trước khi khách gặp. Thay vì cố đoán lãi suất hay giá dầu, hãy lập kịch bản "mình sẽ làm gì nếu…" và phòng ngừa rủi ro (ví dụ hợp đồng tương lai). Chấp nhận rằng cách làm đúng nằm đâu đó giữa quá ít và quá nhiều, và tìm ra nó bằng cách thử nghiệm liên tục.
 
 ## Khái niệm cần biết
 
@@ -885,7 +900,9 @@ Nghe có vẻ khó tin? Cuối năm 2009, Toyota phát hiện một số mẫu x
 
 Các hệ thống tự động hiệu quả cần con người can thiệp để ngăn lỗi phình to, nghĩa là nên luôn có người vận hành được đào tạo tốt bên cạnh. Nhưng không dễ như nói: công ty không trả lương cho những nhân viên giỏi nhất để họ ngồi không trong văn phòng, mà đó là việc họ sẽ phải làm chừng nào hệ thống còn có vẻ đáng tin. Kể cả khi được trả, người vận hành cũng sẽ chán chết.
 
-Sự trớ trêu của tự động hoá là hệ thống càng đáng tin thì người vận hành càng ít việc, và càng ít chú ý khi hệ thống đang chạy. Kaufman nhắc lại thí nghiệm "đồng hồ Mackworth" và các nghiên cứu về sự cảnh giác của người trực radar Anh trong Thế chiến II, một ví dụ ông đã dùng khi bàn về sự mới lạ. (Giải thích của người tổng hợp: trong thí nghiệm này, người tham gia nhìn một kim đồng hồ chạy đều và phải báo khi kim thỉnh thoảng nhảy hai nấc; khả năng phát hiện giảm rõ chỉ sau khoảng nửa giờ.) Con người chán rất nhanh nếu mọi thứ cứ giữ nguyên, và hệ thống càng đáng tin thì càng nhiều thứ giữ nguyên. Trớ trêu là hệ thống đáng tin có xu hướng làm tê liệt khả năng quan sát của người vận hành, khiến họ khó nhận ra trục trặc đúng lúc cần chú ý nhất. Hệ quả: hệ thống càng đáng tin, khả năng người vận hành nhận ra có gì sai càng thấp, nhất là khi lỗi nhỏ.
+Sự trớ trêu của tự động hoá là hệ thống càng đáng tin thì người vận hành càng ít việc, và càng ít chú ý khi hệ thống đang chạy. Kaufman nhắc lại thí nghiệm "đồng hồ Mackworth" và các nghiên cứu về sự cảnh giác của người trực radar Anh trong Thế chiến II, một ví dụ ông đã dùng khi bàn về sự mới lạ. (Giải thích của người tổng hợp: trong thí nghiệm này, người tham gia nhìn một kim đồng hồ chạy đều và phải báo khi kim thỉnh thoảng nhảy hai nấc; khả năng phát hiện giảm rõ chỉ sau khoảng nửa giờ.)
+
+Con người chán rất nhanh nếu mọi thứ cứ giữ nguyên, và hệ thống càng đáng tin thì càng nhiều thứ giữ nguyên. Trớ trêu là hệ thống đáng tin có xu hướng làm tê liệt khả năng quan sát của người vận hành, khiến họ khó nhận ra trục trặc đúng lúc cần chú ý nhất. Hệ quả: hệ thống càng đáng tin, khả năng người vận hành nhận ra có gì sai càng thấp, nhất là khi lỗi nhỏ.
 
 Nếu tình trạng đó kéo dài, những lỗi nhỏ có thể trở thành "bình thường", và một công ty như Toyota có thể phải thu hồi sản phẩm với chi phí 5 tỷ USD. Kaufman lưu ý: đừng mắc lỗi quy kết (đổ kết quả xấu cho tính cách con người thay vì cho hoàn cảnh) mà nghĩ rằng kỹ sư Toyota ngu ngốc hay cẩu thả; chuyện đó có thể xảy ra với bất kỳ ai tin vào hệ thống tự động.
 
@@ -938,7 +955,11 @@ Danh sách kiểm tra có thể cho kết quả rất tốt trong công việc v
 
 Đôi khi cách tốt nhất để cải thiện một hệ thống là bớt làm nhiều thứ. Chủ động ngừng làm là cố ý thôi tiếp tục những hành động đã tỏ ra phản tác dụng. Vì mù sự vắng mặt (con người khó nhận ra những thứ không xảy ra, kể cả lợi ích của việc không làm), người ta cố cải thiện hệ thống bằng mọi giá, vì thấy áy náy nếu không làm gì. Kaufman nói không làm gì không phải chiến lược tồi; ngược lại, nhiều khi đó là cách hiệu quả nhất.
 
-Trong *The One-Straw Revolution* (bản TBN *La revolución de una brizna de paja*), Masanobu Fukuoka kể về các thí nghiệm của ông trên một nông trại "tự nhiên", tức nơi để tự nhiên vận hành theo cách của nó với sự can thiệp ít nhất có thể. Trong khi phần lớn nông trại đưa hoá chất và máy móc vào nông nghiệp, Fukuoka không làm gì… và đạt năng suất cao với đất ngày càng màu mỡ. Ông viết (diễn đạt lại): con người xử lý mọi việc vụng về, không sửa những gì mình đã làm hỏng, và khi kết quả xấu dồn lại thì bỏ rất nhiều công sức để khắc phục; khi biện pháp khắc phục có hiệu quả, họ coi đó là thành công lớn. Người ta cứ làm như thế hết lần này tới lần khác, giống như một kẻ dại giẫm vỡ ngói trên mái nhà mình, rồi khi trời mưa và nhà dột thì vội trèo lên vá và mừng vì đã tìm ra giải pháp kỳ diệu. Thay vì ôm đồm, Fukuoka chỉ làm những gì thật sự cần thiết, và nhờ vậy ruộng của ông luôn năng suất nhất vùng.
+Trong *The One-Straw Revolution* (bản TBN *La revolución de una brizna de paja*), Masanobu Fukuoka kể về các thí nghiệm của ông trên một nông trại "tự nhiên", tức nơi để tự nhiên vận hành theo cách của nó với sự can thiệp ít nhất có thể. Trong khi phần lớn nông trại đưa hoá chất và máy móc vào nông nghiệp, Fukuoka không làm gì… và đạt năng suất cao với đất ngày càng màu mỡ.
+
+Ông viết (diễn đạt lại): con người xử lý mọi việc vụng về, không sửa những gì mình đã làm hỏng, và khi kết quả xấu dồn lại thì bỏ rất nhiều công sức để khắc phục; khi biện pháp khắc phục có hiệu quả, họ coi đó là thành công lớn. Người ta cứ làm như thế hết lần này tới lần khác, giống như một kẻ dại giẫm vỡ ngói trên mái nhà mình, rồi khi trời mưa và nhà dột thì vội trèo lên vá và mừng vì đã tìm ra giải pháp kỳ diệu.
+
+Thay vì ôm đồm, Fukuoka chỉ làm những gì thật sự cần thiết, và nhờ vậy ruộng của ông luôn năng suất nhất vùng.
 
 Ngừng làm đòi hỏi can đảm. Đứng khoanh tay thường không được đánh giá cao, kể cả khi đó chính là giải pháp tốt nhất. Kaufman đưa ví dụ: bong bóng giá xảy ra vì chính phủ can thiệp vào một số thị trường, và tác dụng phụ là làm giảm giả tạo chi phí của một số hành động, dẫn tới đầu cơ thuần tuý. Khi thực tế lộ ra và bong bóng vỡ, như với các công ty dot-com năm 2000 và thị trường nhà đất năm 2008, các chính phủ cho rằng không can thiệp sẽ khiến họ mất uy tín, dù chính hành động của họ đã gây ra tình trạng ấy. Phần lớn trường hợp, chính phủ ra tay, và vài năm sau một bong bóng lớn hơn lại xuất hiện.
 
@@ -956,7 +977,9 @@ Thế giới về cơ bản là bất định. Chuyện bất ngờ xảy ra, c�
 
 Khả năng phục hồi không bao giờ là tối ưu nếu đánh giá một hệ thống chỉ bằng hiệu suất. Sự linh hoạt luôn có giá. Cái mai của rùa rất nặng, và chắc chắn rùa sẽ đi nhanh hơn nếu không có nó; nhưng nếu bỏ mai, rùa sẽ không có gì tự vệ khi không chạy đủ nhanh. Tương tự, để kiếm thêm vài đô la trong ngắn hạn, nhiều doanh nghiệp hy sinh khả năng phục hồi, và trả giá đắt.
 
-Các ngân hàng đầu tư lớn là ví dụ kinh điển. Giữ tiền mặt dự trữ để đối phó điều bất ngờ bị chê là quá thận trọng và kém hiệu quả. Cách làm phổ biến là dùng đòn bẩy cho công ty hết lần này tới lần khác để vắt thêm vài xu lợi nhuận trên mỗi cổ phiếu mỗi quý, và điều đó làm doanh nghiệp dễ tổn thương trước sự sụt giảm doanh thu nhỏ nhất. Điều hành một công ty không có dự trữ tiền mặt, không có bảo hiểm và nợ nhiều có thể cải thiện kết quả trong vài tháng hay vài quý, nhưng khi doanh thu giảm dù chỉ một chút, hoặc có ai đó kiện công ty, thì công ty xong đời. Đòn bẩy giống nhiên liệu tên lửa: tuỳ cách dùng, nó có thể đưa doanh nghiệp lên độ cao chóng mặt hoặc làm nổ tung cả hoạt động. Tiếc là những kỹ thuật tài chính tinh vi nhất được dạy ở trường kinh doanh ngầm đổi khả năng chịu đựng lấy những con số đẹp trên giấy, và những công ty từng phát đạt phải trả giá bằng việc đóng cửa khi tình hình trở nên khó khăn.
+Các ngân hàng đầu tư lớn là ví dụ kinh điển. Giữ tiền mặt dự trữ để đối phó điều bất ngờ bị chê là quá thận trọng và kém hiệu quả. Cách làm phổ biến là dùng đòn bẩy cho công ty hết lần này tới lần khác để vắt thêm vài xu lợi nhuận trên mỗi cổ phiếu mỗi quý, và điều đó làm doanh nghiệp dễ tổn thương trước sự sụt giảm doanh thu nhỏ nhất.
+
+Điều hành một công ty không có dự trữ tiền mặt, không có bảo hiểm và nợ nhiều có thể cải thiện kết quả trong vài tháng hay vài quý, nhưng khi doanh thu giảm dù chỉ một chút, hoặc có ai đó kiện công ty, thì công ty xong đời. Đòn bẩy giống nhiên liệu tên lửa: tuỳ cách dùng, nó có thể đưa doanh nghiệp lên độ cao chóng mặt hoặc làm nổ tung cả hoạt động. Tiếc là những kỹ thuật tài chính tinh vi nhất được dạy ở trường kinh doanh ngầm đổi khả năng chịu đựng lấy những con số đẹp trên giấy, và những công ty từng phát đạt phải trả giá bằng việc đóng cửa khi tình hình trở nên khó khăn.
 
 Chuẩn bị cho điều bất ngờ làm tăng khả năng phục hồi. Với cá nhân, mua hộp sơ cứu, bộ đồ khẩn cấp cho xe và tích trữ thực phẩm, nước uống không phải là hoang tưởng; đó là hợp đồng bảo hiểm của người khôn ngoan với chi phí rất thấp. Cùng lý lẽ áp dụng cho việc mua bảo hiểm và để dành tiền dự phòng: có thể không bao giờ phải dùng, nhưng nếu cần, sẽ mừng vì có chúng.
 
@@ -967,7 +990,7 @@ Những điều giúp một doanh nghiệp có khả năng phục hồi, theo Ka
 - Dự trữ tiền mặt đáng kể cho những chuyện bất ngờ.
 - Nhiều sản phẩm, ứng dụng và mảng kinh doanh độc lập với nhau.
 - Công nhân và nhân viên đa năng, đảm đương được nhiều trách nhiệm.
-- Không có điểm hỏng duy nhất (bản TBN chỉ ghi "không có lỗi nào"; xem khối Lưu ý).
+- Không có điểm hỏng duy nhất (bản TBN chỉ ghi "không có lỗi nào"; xem mục Lưu ý cuối chương).
 - Có hệ thống dự phòng cho mọi quy trình quan trọng.
 
 Sẵn sàng chống chịu, phục hồi và giữ cho hệ thống tiếp tục chạy là dấu hiệu của quản trị tốt. Khả năng phục hồi không hấp dẫn, chủ yếu vì lợi ích của nó bị mù sự vắng mặt che đi (người ta không thấy những tai hoạ đã không xảy ra), nhưng nhờ nó doanh nghiệp được bảo vệ trong thời khó khăn. Kaufman kết: đừng nghĩ như con hổ, hãy nghĩ như con rùa, và doanh nghiệp sẽ chịu được mọi cú đánh.
@@ -1000,7 +1023,9 @@ Khi có thể, đừng để tồn tại bất kỳ điểm hỏng duy nhất qu
 
 Giả sử đã xây được một hệ thống mà mình cho là vững và có khả năng phục hồi, nhưng muốn chắc nó hoạt động. Sao không thử nó? Kiểm tra sức chịu tải là quá trình tìm ra giới hạn của một hệ thống bằng cách giả lập những điều kiện cụ thể trong môi trường của nó. Thay vì tiếp tục nhìn hệ thống từ vị trí người điều hành, việc kiểm tra sức chịu tải buộc phải đổi cách nghĩ về nó, sang vị trí của người có toàn quyền với hệ thống và muốn xem nó vỡ ở đâu: phải làm gì, tốn bao lâu, để phá hỏng thứ mình đã xây?
 
-Kaufman kể, thời đầu làm dự án "Personal MBA", mỗi lần ông đăng một phiên bản mới của danh sách sách nên đọc, máy chủ lại sập vì quá tải: hệ thống không đáp ứng được hết số người muốn vào trang. Ông đã nâng cấp khá nhiều và lập thêm vài hệ thống, nhưng vẫn không đủ. Máy chủ tiếp tục gây rắc rối cho tới khi ông nghiêm túc kiểm tra sức chịu tải. Thay vì chờ một đợt truy cập đủ lớn làm sập trang, ông bắt đầu cố tình gây lỗi trong hệ thống để thử các cách khác nhau giúp nó chịu được điều kiện tải cực đại. Bằng một công cụ tự động, ông giả lập rất nhiều người vào trang cùng lúc. Công cụ đếm có hệ thống số yêu cầu truy cập, còn ông theo dõi thời gian trang phản hồi. Khi số yêu cầu tăng, trang chạy ngày càng kém và cuối cùng máy chủ sập. Từ thông tin của lần kiểm tra, ông thay đổi quyết định về hạ tầng và hệ thống của trang. Nay hàng nghìn người có thể vào trang cùng lúc mà nó vẫn chạy tốt.
+Kaufman kể, thời đầu làm dự án "Personal MBA", mỗi lần ông đăng một phiên bản mới của danh sách sách nên đọc, máy chủ lại sập vì quá tải: hệ thống không đáp ứng được hết số người muốn vào trang. Ông đã nâng cấp khá nhiều và lập thêm vài hệ thống, nhưng vẫn không đủ. Máy chủ tiếp tục gây rắc rối cho tới khi ông nghiêm túc kiểm tra sức chịu tải.
+
+Thay vì chờ một đợt truy cập đủ lớn làm sập trang, ông bắt đầu cố tình gây lỗi trong hệ thống để thử các cách khác nhau giúp nó chịu được điều kiện tải cực đại. Bằng một công cụ tự động, ông giả lập rất nhiều người vào trang cùng lúc. Công cụ đếm có hệ thống số yêu cầu truy cập, còn ông theo dõi thời gian trang phản hồi. Khi số yêu cầu tăng, trang chạy ngày càng kém và cuối cùng máy chủ sập. Từ thông tin của lần kiểm tra, ông thay đổi quyết định về hạ tầng và hệ thống của trang. Nay hàng nghìn người có thể vào trang cùng lúc mà nó vẫn chạy tốt.
 
 Kiểm tra sức chịu tải giúp hiểu hệ thống vận hành ra sao. Nếu làm sản xuất, có thể giả lập một đơn hàng đột xuất hàng nghìn đơn vị và xem có giữ được nhịp không. Nếu làm chăm sóc khách hàng, có thể giả lập một đợt câu hỏi hay khiếu nại ồ ạt và xem có xử lý được không. Khả năng kiểm tra chỉ bị giới hạn bởi thời gian và trí tưởng tượng: hãy thả "con thú bên trong mình" ra và giải quyết những vấn đề nghiêm trọng tìm được trước khi chúng thật sự ảnh hưởng tới khách hàng.
 
@@ -1282,7 +1307,11 @@ Kaufman đúng khi nói thay đổi nhiều thứ một lúc mà không có thi�
 
 ### Một số con số và chi tiết trong chương nên kiểm lại trước khi trích dẫn
 
-Câu "dưới 3% dân số thế giới nắm hơn 97% của cải" không có nguồn trong sách và cao hơn các ước tính phổ biến về bất bình đẳng của cải (chính xác hơn có thể là một nhóm nhỏ nắm phần lớn của cải, nhưng tỷ lệ cụ thể khác). Phép tính 528.000 USD mỗi phút cộng cả chi phí nguyên liệu và toàn bộ giá bán, trong khi giá bán đã bao gồm giá nguyên liệu, nên có phần đếm trùng; thiệt hại kinh tế hợp lý hơn là doanh thu bị mất cộng chi phí nguyên liệu bỏ đi trừ phần chi phí không phải chi. Về nghiên cứu Pronovost, theo hiểu biết chung của người tổng hợp, con số 11% xuống 0% trong bài của Gawande gắn với bệnh viện Johns Hopkins, còn chương trình áp dụng ở Michigan (trong đó có bệnh viện ở Detroit) là giai đoạn sau; sách có vẻ gộp hai giai đoạn. Không chi tiết nào làm thay đổi bài học, nhưng người dùng lại nên biết.
+Câu "dưới 3% dân số thế giới nắm hơn 97% của cải" không có nguồn trong sách và cao hơn các ước tính phổ biến về bất bình đẳng của cải (chính xác hơn có thể là một nhóm nhỏ nắm phần lớn của cải, nhưng tỷ lệ cụ thể khác).
+
+Phép tính 528.000 USD mỗi phút cộng cả chi phí nguyên liệu và toàn bộ giá bán, trong khi giá bán đã bao gồm giá nguyên liệu, nên có phần đếm trùng; thiệt hại kinh tế hợp lý hơn là doanh thu bị mất cộng chi phí nguyên liệu bỏ đi trừ phần chi phí không phải chi.
+
+Về nghiên cứu Pronovost, theo hiểu biết chung của người tổng hợp, con số 11% xuống 0% trong bài của Gawande gắn với bệnh viện Johns Hopkins, còn chương trình áp dụng ở Michigan (trong đó có bệnh viện ở Detroit) là giai đoạn sau; sách có vẻ gộp hai giai đoạn. Không chi tiết nào làm thay đổi bài học, nhưng người dùng lại nên biết.
 
 ### Mục "Ceder" chứa một lập trường kinh tế vĩ mô gây tranh cãi được trình bày như hiển nhiên
 
@@ -1290,7 +1319,11 @@ Kaufman nói bong bóng dot-com và nhà đất là do chính phủ can thiệp,
 
 ### Từ 2010 tới nay, các chủ đề tự động hoá và khả năng phục hồi càng trở nên quan trọng
 
-Nói định tính: việc dùng phần mềm, điện toán đám mây và gần đây là trí tuệ nhân tạo làm "nghịch lý" và "sự trớ trêu" của tự động hoá thành chuyện hằng ngày: lỗi một cấu hình có thể làm sập dịch vụ của hàng triệu người, và người dùng tự động hoá dễ tin máy quá mức. Thực hành kỹ thuật phần mềm đã phát triển đúng theo hướng Kaufman gợi ý: cố tình gây lỗi trong hệ thống thật để thử độ bền ("chaos engineering"), kiểm tra tải định kỳ. Đại dịch COVID-19 và các đứt gãy chuỗi cung ứng sau đó cho thấy đánh đổi giữa hiệu quả (tồn kho tối thiểu, một nhà cung cấp) và khả năng phục hồi, đúng như ví dụ rùa và hổ; nhiều doanh nghiệp chuyển từ "vừa đúng lúc" sang thêm tồn kho dự phòng và đa dạng nhà cung cấp. Các ngân hàng lớn nay phải qua stress test bắt buộc, khác với thời trước 2008 mà Kaufman phê phán.
+Nói định tính: việc dùng phần mềm, điện toán đám mây và gần đây là trí tuệ nhân tạo làm "nghịch lý" và "sự trớ trêu" của tự động hoá thành chuyện hằng ngày: lỗi một cấu hình có thể làm sập dịch vụ của hàng triệu người, và người dùng tự động hoá dễ tin máy quá mức.
+
+Thực hành kỹ thuật phần mềm đã phát triển đúng theo hướng Kaufman gợi ý: cố tình gây lỗi trong hệ thống thật để thử độ bền ("chaos engineering"), kiểm tra tải định kỳ.
+
+Đại dịch COVID-19 và các đứt gãy chuỗi cung ứng sau đó cho thấy đánh đổi giữa hiệu quả (tồn kho tối thiểu, một nhà cung cấp) và khả năng phục hồi, đúng như ví dụ rùa và hổ; nhiều doanh nghiệp chuyển từ "vừa đúng lúc" sang thêm tồn kho dự phòng và đa dạng nhà cung cấp. Các ngân hàng lớn nay phải qua stress test bắt buộc, khác với thời trước 2008 mà Kaufman phê phán.
 
 ### Phần kết khép cuốn sách bằng tinh thần tự học và tự chịu trách nhiệm, nhưng danh sách của Forbes có thể đọc như phủ nhận vai trò của hoàn cảnh
 
@@ -1302,3 +1335,191 @@ Phần kết hợp lý với toàn bộ dự án Personal MBA: kiến thức kin
 - **Trong nghề nghiệp.** Áp dụng 80/20 cho thời gian: xác định một số ít việc tạo phần lớn giá trị của mình và bảo vệ thời gian cho chúng. Dùng danh sách kiểm tra cho việc quan trọng mà ít khi làm (chuẩn bị thuyết trình, nộp hồ sơ). Xây "khả năng phục hồi cá nhân": quỹ dự phòng vài tháng chi tiêu, nhiều kỹ năng, mạng lưới quan hệ đa dạng. Coi mỗi dự án là một thử nghiệm để học, và tiếp tục tự học sau khi rời trường.
 - **Khi khởi nghiệp hoặc kinh doanh nhỏ.** Đừng tối ưu quá sớm; làm "đủ tốt" (giải pháp 85%) rồi cải thiện khi đã có khách. Tránh vay nợ lớn và chi phí cố định cao khi chưa có dòng tiền ổn định. Trước một đợt khuyến mãi lớn, thử xem trang web, kho, đội giao hàng chịu được bao nhiêu đơn. Viết sẵn kịch bản "nếu…" cho các rủi ro chính (mất nhà cung cấp, tăng phí nền tảng, nhân sự chủ chốt nghỉ).
 - **Ở Việt Nam.** Nhiều doanh nghiệp nhỏ bán hàng trực tuyến phụ thuộc vào một hoặc hai sàn thương mại điện tử hay một mạng xã hội, tức là có điểm hỏng duy nhất; đa dạng kênh bán và giữ danh sách khách hàng riêng là cách xây khả năng phục hồi. Các doanh nghiệp dùng đòn bẩy cao, nhất là trong bất động sản, là trường hợp "con hổ" mà Kaufman cảnh báo: thuận lợi thì tăng trưởng nhanh, khi tín dụng thắt lại thì khó xoay xở. Với doanh nghiệp có chi phí nhập khẩu bằng ngoại tệ hoặc phụ thuộc giá nguyên liệu, các công cụ phòng ngừa rủi ro tỷ giá và giá hàng hoá mà ngân hàng cung cấp là ứng dụng trực tiếp của mục lập kịch bản.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương 12 trên một trang: sáu nhánh lớn đi theo các mục 1–18 của phần Nội dung chi tiết (tối ưu và tái cấu trúc, thiểu số then chốt cùng lợi suất giảm dần và ma sát, tự động hoá, SOP cùng danh sách kiểm tra và ngừng làm, chuẩn bị cho bất định, trung dung cùng thử nghiệm và phần kết), mỗi nhánh ghi mô hình tư duy kèm định nghĩa, ví dụ và con số then chốt của Kaufman; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: Cải thiện hệ thống là làm đúng vài việc có chủ đích, biết lúc dừng và chuẩn bị cho bất định`"]
+  n1["`Mục 1–2 — Tối ưu hoá và tái cấu trúc: thay từng biến một, có thể giữ nguyên đầu ra`"]
+  n0 --- n1
+  n2["`Tối ưu hoá: tối đa hoá đầu ra HOẶC tối thiểu hoá đầu vào, xoay quanh KPI`"]
+  n1 --- n2
+  n3["`Tối ưu hơn một biến cùng lúc thực chất là đánh đổi biến này lấy biến kia`"]
+  n2 --- n3
+  n4["`Tập trung một biến một thời gian để tìm nhân quả, không phải tương quan`"]
+  n2 --- n4
+  n5["`Knuth: tối ưu hoá quá sớm là gốc rễ của mọi điều tệ hại`"]
+  n2 --- n5
+  n6["`Tái cấu trúc quy trình: tăng hiệu quả mà không đổi sản phẩm đầu ra`"]
+  n1 --- n6
+  n7["`Tìm khuôn mẫu: quy trình sống còn, ràng buộc, việc từng hợp lý nay vô ích`"]
+  n6 --- n7
+  n8["`Ví dụ: đặt linh kiện sát tay công nhân dây chuyền, bỏ hao phí đi lại`"]
+  n6 --- n8
+  n9["`Mục 3–5 — Dồn sức vào thiểu số then chốt, dừng khi lợi suất giảm, bỏ ma sát`"]
+  n0 --- n9
+  n10["`Thiểu số then chốt (quy tắc 80/20): phần nhỏ đầu vào tạo phần lớn kết quả`"]
+  n9 --- n10
+  n11["`Pareto: hơn 80% đất ở Ý thuộc dưới 20% dân số#59; 20% cây đậu cho 80% hạt`"]
+  n10 --- n11
+  n12["`Tim Ferriss: 5 trên 120 khách hàng tạo 95% doanh thu`"]
+  n10 --- n12
+  n13["`Tập trung vào 5 khách đó: doanh thu tháng gấp đôi, giờ làm 80 → 15 giờ/tuần`"]
+  n10 --- n13
+  n14["`Chi phí cơ hội: dồn sức vào đầu vào then chốt, cắt bỏ thẳng tay phần còn lại`"]
+  n10 --- n14
+  n15["`Lợi suất giảm dần: thứ tốt quá một mức thì thêm nữa có thể gây hại`"]
+  n9 --- n15
+  n16["`P#amp;G: khán giả chán quảng cáo thì 1 USD phát sóng không còn thu về 1 USD`"]
+  n15 --- n16
+  n17["`Giải pháp 85% (Ramit Sethi): làm vài việc đơn giản cho kết quả rồi thôi`"]
+  n15 --- n17
+  n18["`Cầu toàn là cái bẫy: tối ưu tới khi lợi suất giảm rồi chuyển việc khác`"]
+  n15 --- n18
+  n19["`Ma sát: mọi lực hay quy trình dần lấy đi năng lượng của hệ thống`"]
+  n9 --- n19
+  n20["`Đĩa khúc côn cầu đi 1,5 km: cỏ cao vài cm mỗi cú, cỏ ngắn khoảng 6 m, mặt băng nhiều mét`"]
+  n19 --- n20
+  n21["`Thêm chút ma sát có chủ đích: đòi hoá đơn hay lý do khi khách trả hàng`"]
+  n19 --- n21
+  n22["`Mục 6–8 — Tự động hoá nhân rộng giá trị nhưng cũng nhân lỗi`"]
+  n0 --- n22
+  n23["`Tự động hoá: hệ thống tự chạy không cần người, hợp việc cụ thể và lặp lại`"]
+  n22 --- n23
+  n24["`Kaufman đưa danh sách sách nên đọc lên web thay vì trả lời từng email`"]
+  n23 --- n24
+  n25["`Bill Gates: tự động hoá việc kém hiệu quả làm nó kém hiệu quả hơn`"]
+  n23 --- n25
+  n26["`Nghịch lý: hệ thống tự động càng hiệu quả, đóng góp của người vận hành càng quyết định`"]
+  n22 --- n26
+  n27["`Dây chuyền chip giả định: 2.400 chiếc/phút, mũi khoan lệch hỏng 40 chip mỗi giây`"]
+  n26 --- n27
+  n28["`Thiệt hại 48.000 USD trực tiếp + 480.000 USD chi phí cơ hội = 528.000 USD mỗi phút`"]
+  n26 --- n28
+  n29["`Toyota cuối 2009: lỗi bàn đạp ga, thu hồi tốn hơn 5 tỷ USD`"]
+  n26 --- n29
+  n30["`Sự trớ trêu: hệ thống càng đáng tin, người vận hành càng chán và ít chú ý`"]
+  n22 --- n30
+  n31["`Thí nghiệm đồng hồ Mackworth: người trực mất dần khả năng nhận ra tín hiệu hiếm`"]
+  n30 --- n31
+  n32["`Đừng mắc lỗi quy kết mà cho rằng kỹ sư Toyota ngu hay cẩu thả`"]
+  n30 --- n32
+  n33["`Cách phòng: lấy mẫu, kiểm tra liên tục, giả định mình sẽ mắc lỗi`"]
+  n30 --- n33
+  n34["`Mục 9–11 — Chuẩn hoá việc lặp lại bằng SOP, danh sách kiểm tra, và dám ngừng làm`"]
+  n0 --- n34
+  n35["`Quy trình vận hành chuẩn (SOP): cách làm định sẵn cho việc hay vấn đề thường gặp`"]
+  n34 --- n35
+  n36["`Giảm ma sát và cạn kiệt ý chí, giúp người mới bắt nhịp nhanh`"]
+  n35 --- n36
+  n37["`Rà soát 2–3 tháng một lần#59; SOP tốn công mà không tạo giá trị thì chính nó là ma sát`"]
+  n35 --- n37
+  n38["`Danh sách kiểm tra: SOP viết sẵn cho một việc cụ thể để không quên bước`"]
+  n34 --- n38
+  n39["`Phi công nhiều chục năm kinh nghiệm vẫn dùng#59; đi máy bay an toàn hơn đi ô tô`"]
+  n38 --- n39
+  n40["`Pronovost: 5 bước khi đặt đường truyền tĩnh mạch, điều dưỡng trưởng được quyền dừng bác sĩ`"]
+  n38 --- n40
+  n41["`Sau 2 năm nhiễm trùng giảm từ 11% xuống 0%, tiết kiệm hơn 2 triệu USD`"]
+  n38 --- n41
+  n42["`Chủ động ngừng làm: cố ý thôi những hành động đã tỏ ra phản tác dụng`"]
+  n34 --- n42
+  n43["`Drucker: vô ích nhất là làm thật hiệu quả việc lẽ ra không nên làm`"]
+  n42 --- n43
+  n44["`Mù sự vắng mặt khiến người ta can thiệp cho đỡ áy náy`"]
+  n42 --- n44
+  n45["`Fukuoka can thiệp ít nhất vào ruộng mà ruộng năng suất nhất vùng`"]
+  n42 --- n45
+  n46["`Mục 12–15 — Chuẩn bị cho bất định: khả năng phục hồi, dự phòng, thử tải, lập kịch bản`"]
+  n0 --- n46
+  n47["`Khả năng phục hồi: nghĩ như con rùa, không như con hổ`"]
+  n46 --- n47
+  n48["`Bỏ mai thì rùa nhanh hơn nhưng hết tự vệ#59; phục hồi không bao giờ tối ưu nếu chỉ đo hiệu suất`"]
+  n47 --- n48
+  n49["`Đòn bẩy như nhiên liệu tên lửa: đưa doanh nghiệp lên cao hoặc làm nổ tung`"]
+  n47 --- n49
+  n50["`Ít nợ, chi phí cố định thấp, dự trữ tiền mặt, nhiều mảng độc lập, nhân viên đa năng`"]
+  n47 --- n50
+  n51["`Hệ thống dự phòng: phải xây trước khi cần, tách xa hệ thống chính`"]
+  n46 --- n51
+  n52["`Máy phát propane của bố Kaufman tự chạy thử 10 phút mỗi trưa thứ Tư, đủ dùng một tuần`"]
+  n51 --- n52
+  n53["`Dự phòng phụ thuộc chặt vào hệ thống chính lại thêm rủi ro`"]
+  n51 --- n53
+  n54["`Không để điểm hỏng duy nhất: dữ liệu hay quy trình sống còn mất thì làm gì?`"]
+  n51 --- n54
+  n55["`Kiểm tra sức chịu tải: cố ý đẩy hệ thống tới giới hạn để thấy chỗ vỡ`"]
+  n46 --- n55
+  n56["`Kaufman giả lập hàng loạt người truy cập, sửa hạ tầng, nay chịu hàng nghìn người cùng lúc`"]
+  n55 --- n56
+  n57["`Giả lập đơn hàng đột xuất hay đợt khiếu nại ồ ạt trước khi khách gặp lỗi`"]
+  n55 --- n57
+  n58["`Lập kịch bản: hỏi mình sẽ làm gì nếu…, thay vì đoán lãi suất hay giá dầu`"]
+  n46 --- n58
+  n59["`Phòng ngừa rủi ro: hợp đồng tương lai cố định giá trước, tránh lỗ khi giá dầu tăng`"]
+  n58 --- n59
+  n60["`Mục 16–18 — Trung dung, thử nghiệm và tự học không có điểm kết thúc`"]
+  n0 --- n60
+  n61["`Con đường trung dung: điểm cân bằng luôn dịch chuyển giữa quá ít và quá nhiều`"]
+  n60 --- n61
+  n62["`Tư duy thử nghiệm: lỗi không chết người là thông tin#59; thử càng nhiều, học càng nhiều`"]
+  n60 --- n62
+  n63["`Julia Child: cách duy nhất học lật bánh là cứ lật`"]
+  n60 --- n63
+  n64["`Buffett muốn siêu năng lực đọc nhanh hơn#59; tự học như Đạo, không có đầu cuối`"]
+  n60 --- n64
+  n65["`B. C. Forbes (1917): thành công, hạnh phúc, tính cách là việc của chính bạn`"]
+  n60 --- n65
+  n66["`Thông điệp xuyên suốt`"]
+  n0 --- n66
+  n67["`Hiệu suất ngắn hạn và khả năng phục hồi luôn đánh đổi#59; người giỏi chọn điểm cân bằng`"]
+  n66 --- n67
+  n68["`Thay đổi có chủ đích, từng cái một, dồn vào số ít đầu vào then chốt`"]
+  n66 --- n68
+  n69["`Tự động hoá càng hiệu quả càng cần người theo dõi và kiểm tra liên tục`"]
+  n66 --- n69
+  class n0 root
+  class n1,n9,n22,n34,n46,n60,n66 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64,n65,n67,n68,n69 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 12 "El perfeccionamiento de los sistemas" (tương ứng Chapter 11 "Improving Systems" ở bản tiếng Anh). Chương này cũng chứa đoạn kết của cả cuốn sách ("No digamos «Fin»").
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Kaufman chia kinh doanh thành ba lớp. Lớp thứ nhất là năm phần của một doanh nghiệp (chương 2–6: tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính). Lớp thứ hai là con người (chương 7–9: tâm trí con người, làm việc với chính mình, làm việc với người khác).
+
+Lớp thứ ba là hệ thống (chương 10–12): chương 10 giúp hiểu một hệ thống gồm những gì và vận hành ra sao (dòng chảy, vòng phản hồi, sự phụ thuộc lẫn nhau, "tai nạn bình thường"), chương 11 dạy phân tích hệ thống (đo lường, chỉ số hiệu quả then chốt, tách nhân quả khỏi tương quan).
+
+Chương 12 là bước cuối: khi đã hiểu và đo được hệ thống thì cải thiện nó như thế nào, và làm sao để hệ thống chịu được bất định. Vì là chương cuối, nó kết thúc bằng lời khuyên rằng việc tự học kinh doanh không có điểm kết thúc.
+
+## Lưu ý
+
+- Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua văn bản OCR của một bản scan; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh của Kaufman.
+- Tên tiếng Anh của các mục chỉ ghi khi người tổng hợp chắc chắn; mục cuối "No digamos «Fin»" không ghi tên tiếng Anh.
+- Những chỗ OCR hỏng đã được sửa khi đọc: tên người viết đề từ của chương là Jan L. A. van de Snepscheut (OCR "WIN DE SNEPSCHEUT"); Norman R. Augustine (OCR "AUGLISTING"); Đại học George Mason (OCR "Georges Mason"); Elbert Hubbard là tác giả *A Message to Garcia* (OCR "BuRDr de A Message 10 Gercía"); các số chú thích dính vào chữ như "6)", "Yorkerl®2", "automatizadale3)" là chú thích [61], [62], [63] ở cuối sách. Cả ba chú thích này chỉ là đường dẫn hoặc tên trang web (bài báo của Bainbridge, bài của Atul Gawande trên *New Yorker*, công cụ thử tải LoadImpact.com) nên không đưa vào.
+- Một số chỗ bản dịch TBN có vẻ lệch nghĩa hoặc khó hiểu:
+  - Ở mục "La minoría crucial", câu TBN nói "của cải không phân bố đồng đều hay theo hình chuông; phần lớn người ta cho rằng của cải tập trung vào một nhóm nhỏ", nghĩa có vẻ bị đảo, ý hợp lý là: phần lớn người ta *cho rằng* của cải phân bố đều hoặc theo hình chuông, nhưng Pareto thấy nó tập trung vào một nhóm nhỏ.
+  - Câu về việc Ferriss "bảo đảm phân phối từ ba khách hàng lớn khác" không rõ nghĩa, người tổng hợp hiểu là sau khi bỏ hai khách gây phiền, Ferriss có thêm ba khách hàng lớn khác.
+  - Ở mục "La fricción", bản TBN viết "proceso de los rendimientos" (quy trình lợi suất), rõ ràng là dịch nhầm chữ *returns* (hàng trả lại) nên ở đây hiểu là quy trình trả hàng.
+  - "redes de utilidades" là dịch sát chữ *utility networks*, tức mạng lưới điện, nước, khí đốt.
+  - Trong danh sách khả năng phục hồi, dòng "Ningún fallo" (không có lỗi nào) nhiều khả năng là bản dịch rút gọn của ý "không có điểm hỏng duy nhất" (*no single point of failure*), vì mục "El sistema de seguridad" ngay sau nói đúng ý đó.
+  - Ở mục "Ceder", câu về bong bóng giá bị dịch rối, ý được hiểu là: chính phủ can thiệp vào một số thị trường làm giảm giả tạo chi phí của một số hành động (ví dụ vay tiền), dẫn tới đầu cơ.
+  - Ở mục "Prever el escenario", câu "các công ty kiếm được tiền bất kể giá dầu tăng" là cách nói không chính xác về phòng ngừa rủi ro, ý đúng là công ty đã cố định trước mức giá nên tránh được khoản lỗ nếu giá dầu tăng.
+  - "modo jefe" (chế độ ông chủ) và "modo demiurgo" (chế độ đấng tạo hoá) ở mục "Controlar la tensión" không rõ tương ứng với chữ gì trong bản tiếng Anh; người tổng hợp hiểu là chuyển từ góc nhìn của người xây và điều hành hệ thống sang góc nhìn của người muốn phá nó.
+  - Trong phần kết, câu về những người giàu nhất "trước hết vì sự tò mò không ngừng đã đưa họ tới thành công" là câu cụt, và dòng "Chỉ bạn mới có thể tiếp thu một điều về mặt tinh thần và vật chất…" trong danh sách của Forbes bị hỏng, chỉ diễn đạt lại ý chung.
+- Chương nhắc lại nhiều khái niệm của các chương trước (chỉ số hiệu quả then chốt, nhân quả và tương quan, dây chuyền lắp ráp, nhân bản và nhân rộng, sự mới lạ, mù sự vắng mặt, lỗi quy kết, cạn kiệt ý chí, tai nạn bình thường, mô phỏng phản thực tế); bản tổng hợp giải thích ngắn từng khái niệm khi nó xuất hiện.
+- Sách viết năm 2010: vụ thu hồi xe của Toyota (cuối 2009), bong bóng dot-com (2000) và bong bóng nhà đất (2008) là những sự kiện mới xảy ra lúc đó; các đường dẫn web trong phần kết là của thời điểm xuất bản.

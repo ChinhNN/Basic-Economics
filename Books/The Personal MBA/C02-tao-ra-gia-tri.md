@@ -1,11 +1,21 @@
 # Chương 2 — Tạo ra giá trị (La creación de un bien o producto de valor; Value Creation)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 2 "La creación de un bien o producto de valor" (tương ứng Chapter 1 "Value Creation" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 giải thích vì sao có thể tự học kinh doanh mà không cần trường MBA. Chương 2 mở đầu khối năm chương về năm phần của một doanh nghiệp (chương 2–6: tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính). Chương này vừa đặt khung cho cả khối (mục "Năm thành phần của mọi doanh nghiệp" nêu luôn năm quá trình mà các chương 2–6 sẽ lần lượt đi sâu), vừa xử lý quá trình đầu tiên: tìm ra người ta muốn gì và tạo ra thứ đó. Chương 3 (marketing) sẽ hỏi bước tiếp theo: làm sao để người ta biết tới và muốn thứ bạn đã tạo ra. Nhiều khái niệm được nhắc trước ở đây (nhân bản và nhân rộng ở chương 5, chi phí chung ở chương 6, ba "đồng tiền chung" và phương án tốt thứ hai ở chương 4, hệ thống ở chương 10–12) sẽ được giải thích ở các chương đó.
-**Ý chính:** Kaufman muốn người đọc hiểu rằng **không có giá trị thì không có doanh nghiệp**: kinh doanh không phải việc của thiên tài, mà là quá trình lặp đi lặp lại gồm tìm ra một nhu cầu chưa được đáp ứng, tạo ra thứ đáp ứng nó, và kiểm tra thật nhanh, thật rẻ xem người ta có chịu trả tiền không, trước khi dồn tiền tiết kiệm vào. Chương đi theo ba bước. Bước một là **chọn thị trường**: thị trường quyết định số phận doanh nghiệp (Segway tốn hơn 100 triệu USD phát triển, dự kiến bán 50.000 chiếc mỗi năm nhưng năm năm chỉ bán được 23.000 chiếc); con người bị chi phối bởi năm nhu cầu cơ bản (sở hữu, gắn kết, học hỏi, tự vệ, cảm giác mới); mười tiêu chí chấm điểm 0–10 giúp đánh giá nhanh một thị trường; có đối thủ cạnh tranh là tín hiệu tốt vì chứng tỏ có người mua; đừng làm chỉ vì tiền (quy tắc lính đánh thuê) và đừng làm chỉ vì đam mê một ý tưởng không có thị trường (quy tắc nhà thập tự chinh). Bước hai là **chọn hình thức giá trị**: mười hai dạng giá trị chuẩn (sản phẩm, dịch vụ, tài nguyên dùng chung, thuê bao, bán lại, cho thuê, đại lý, tập hợp khán giả, cho vay, quyền chọn, bảo hiểm, vốn góp), có thể ghép như khối LEGO, gộp gói hoặc tách gói, và càng đòi người dùng ít công sức thì giá trị cảm nhận càng cao. Bước ba là **thử và sửa**: làm nguyên mẫu, chạy chu trình lặp sáu bước càng nhanh càng tốt, lấy phản hồi từ khách thật, hiểu rằng khách luôn phải đánh đổi (tiện lợi hay chất lượng cao), đo tầm quan trọng tương đối bằng cách buộc người ta chọn, liệt kê các giả định then chốt (ví dụ câu lạc bộ yoga cần 220 hội viên trả 100 USD/tháng), kiểm tra chúng bằng thử nghiệm bán trước với một lời chào hàng tối thiểu khả thi (Fitbit nhận đặt hàng khi mới có bản mô tả và hình vẽ, một tháng sau gọi được 2 triệu USD), rồi bổ sung giá trị từng bước và tự dùng sản phẩm hằng ngày (Kifaru).
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua văn bản OCR của bản scan; mọi câu trích là bản dịch tiếng Việt của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của các mục được ghi theo hiểu biết của người tổng hợp về bản gốc; tên TBN là tên chuẩn để tra lại. Những chỗ đáng chú ý: (1) Bản dịch gọi cùng một dạng giá trị số 8 (Audience Aggregation) bằng hai tên: "aportación de público" (trong danh sách mười hai dạng và trong mục "Ofertas modulares") và "intermediario comercial" (tiêu đề mục riêng); bản tổng hợp dùng thống nhất tên "tập hợp khán giả". (2) Ở dạng "reventa", bản dịch viết "mua của nhà bán buôn rồi bán cho nhà bán lẻ (minorista)"; theo ví dụ ngay sau đó (Walmart, Tesco bán cho khách hàng), nghĩa đúng là bán lại cho người mua cuối cùng. (3) Ở dạng "leasing", bản dịch thêm "có quyền mua lại sau một thời gian"; nội dung mục chỉ nói về cho thuê rồi thu hồi tài sản, nên bản tổng hợp hiểu là cho thuê nói chung. (4) Ở dạng "préstamo", bản dịch viết tài sản bảo đảm "được chuyển sang người đi vay (prestatario)"; đúng nghĩa phải là chuyển sang người cho vay (prestamista). Bản dịch gọi việc thẩm định rủi ro khoản vay là «garantía»; tiếng Anh gốc có lẽ là *underwriting*. (5) Ở dạng "opción", bản dịch viết "phần lớn mọi người nghĩ đó chỉ là seguros financieros (bảo hiểm tài chính)"; nhiều khả năng bản gốc là *financial securities* (chứng khoán tài chính). Câu đề từ của tạp chí *Punch* ghi năm "1346" là lỗi OCR, đúng là 1846. (6) Ở "Valores económicos", bản dịch dùng "prestaciones" (tính năng) cho mục mà bản gốc nhiều khả năng là *Flexibility*; câu hỏi đi kèm là "nó làm được những gì". (7) Mục "El valor añadido" dịch tên *Incremental Augmentation*; "valor añadido" thường nghĩa là "giá trị gia tăng", nhưng nội dung mục là thêm cải tiến nhỏ từng bước, nên bản tổng hợp gọi là "bổ sung giá trị từng bước". (8) Bản dịch dùng "repetición" (lặp lại) cho *iteration*; bản tổng hợp gọi là "lặp" / "chu trình lặp". (9) Henry Fielding và William Shenstone được ghi là "thế kỷ XVII"; cả hai sống ở thế kỷ XVIII. Goethe ghi "siglo ax" là lỗi OCR của "XIX". (10) Lỗi OCR tên riêng đã sửa: "Pauigroham.com" là paulgraham.com, "Fickr.com và Huich.com" là Flickr.com và Hunch.com, "Mark TwaN" là Mark Twain, "ANITA RODOICK" là Anita Roddick, "GROUCHO MAR/MARK" là Groucho Marx, "PALL BUCHHEIT" là Paul Buchheit, "SHO CHIRO TOYOTA" là Shoichiro Toyota, "GEORGE 5. PATON" là George S. Patton, "motor Sterling" là động cơ Stirling, "Kifara" là Kifaru. Bối cảnh: sách viết năm 2010; các ví dụ (Segway, MP3, CD, Orbitz, truyền hình cáp, Fitbit mới gọi vốn) phản ánh thời điểm đó. Về Fitbit, bản dịch viết công ty "thành lập tháng 9 năm 2008"; tháng 9 năm 2008 thực ra là lúc sản phẩm được công bố. Chú thích của chương: [22] (giải thích hợp đồng bảo mật) và [23] (Louvière gọi phương pháp này là phép thử MaxDiff) đã đưa vào Nội dung chi tiết; [21], [24], [25], [26] chỉ là đường dẫn web nên bỏ.
+Kaufman muốn người đọc hiểu rằng **không có giá trị thì không có doanh nghiệp**: kinh doanh không phải việc của thiên tài, mà là quá trình lặp đi lặp lại gồm tìm ra một nhu cầu chưa được đáp ứng, tạo ra thứ đáp ứng nó, và kiểm tra thật nhanh, thật rẻ xem người ta có chịu trả tiền không, trước khi dồn tiền tiết kiệm vào. Chương đi theo ba bước.
+
+Bước một là **chọn thị trường**: thị trường quyết định số phận doanh nghiệp (Segway tốn hơn 100 triệu USD phát triển, dự kiến bán 50.000 chiếc mỗi năm nhưng năm năm chỉ bán được 23.000 chiếc). Con người bị chi phối bởi năm nhu cầu cơ bản (sở hữu, gắn kết, học hỏi, tự vệ, cảm giác mới). Mười tiêu chí chấm điểm 0–10 giúp đánh giá nhanh một thị trường.
+
+Có đối thủ cạnh tranh là tín hiệu tốt vì chứng tỏ có người mua. Đừng làm chỉ vì tiền (quy tắc lính đánh thuê) và đừng làm chỉ vì đam mê một ý tưởng không có thị trường (quy tắc nhà thập tự chinh).
+
+Bước hai là **chọn hình thức giá trị**: mười hai dạng giá trị chuẩn (sản phẩm, dịch vụ, tài nguyên dùng chung, thuê bao, bán lại, cho thuê, đại lý, tập hợp khán giả, cho vay, quyền chọn, bảo hiểm, vốn góp), có thể ghép như khối LEGO, gộp gói hoặc tách gói, và càng đòi người dùng ít công sức thì giá trị cảm nhận càng cao.
+
+Bước ba là **thử và sửa**:
+
+- làm nguyên mẫu, chạy chu trình lặp sáu bước càng nhanh càng tốt, lấy phản hồi từ khách thật
+- hiểu rằng khách luôn phải đánh đổi (tiện lợi hay chất lượng cao), đo tầm quan trọng tương đối bằng cách buộc người ta chọn
+- liệt kê các giả định then chốt (ví dụ câu lạc bộ yoga cần 220 hội viên trả 100 USD/tháng), kiểm tra chúng bằng thử nghiệm bán trước với một lời chào hàng tối thiểu khả thi (Fitbit nhận đặt hàng khi mới có bản mô tả và hình vẽ, một tháng sau gọi được 2 triệu USD)
+- rồi bổ sung giá trị từng bước và tự dùng sản phẩm hằng ngày (Kifaru).
 
 ## Sơ đồ
 
@@ -882,7 +892,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao biết một ý tưởng kinh doanh có đáng theo không, trước khi bỏ tiền?** Trước hết hãy nhìn thị trường, không nhìn sản phẩm, vì theo quy luật khắc nghiệt của thị trường, sản phẩm giỏi cũng không cứu được thị trường không tồn tại (Segway: dự kiến 50.000 chiếc mỗi năm, thực tế 23.000 chiếc sau năm năm). Kaufman đưa ba công cụ. Một là mười cách đánh giá thị trường: chấm 0–10 cho mức khẩn cấp, quy mô thị trường, tiềm năng giá, chi phí có khách, chi phí tạo và giao giá trị, độ độc đáo, tốc độ ra thị trường, vốn đầu tư ban đầu, khả năng bán thêm, tiềm năng bền lâu; dưới 50 điểm thì bỏ, 50–75 thì đủ sống nhưng vất vả, trên 75 thì dốc sức. Hai là nhìn đối thủ: có đối thủ chứng tỏ có người mua. Ba là tự hỏi động cơ: đừng làm chỉ vì tiền, cũng đừng làm chỉ vì say mê một ý tưởng không có thị trường.
+1. **Làm sao biết một ý tưởng kinh doanh có đáng theo không, trước khi bỏ tiền?** Trước hết hãy nhìn thị trường, không nhìn sản phẩm, vì theo quy luật khắc nghiệt của thị trường, sản phẩm giỏi cũng không cứu được thị trường không tồn tại (Segway: dự kiến 50.000 chiếc mỗi năm, thực tế 23.000 chiếc sau năm năm).
+
+   Kaufman đưa ba công cụ. Một là mười cách đánh giá thị trường: chấm 0–10 cho mức khẩn cấp, quy mô thị trường, tiềm năng giá, chi phí có khách, chi phí tạo và giao giá trị, độ độc đáo, tốc độ ra thị trường, vốn đầu tư ban đầu, khả năng bán thêm, tiềm năng bền lâu; dưới 50 điểm thì bỏ, 50–75 thì đủ sống nhưng vất vả, trên 75 thì dốc sức. Hai là nhìn đối thủ: có đối thủ chứng tỏ có người mua. Ba là tự hỏi động cơ: đừng làm chỉ vì tiền, cũng đừng làm chỉ vì say mê một ý tưởng không có thị trường.
 2. **Giá trị có thể được đem tới khách hàng dưới những hình thức nào?** Mười hai dạng chuẩn: sản phẩm, dịch vụ, tài nguyên dùng chung, thuê bao, bán lại, cho thuê, đại lý, tập hợp khán giả, cho vay, quyền chọn, bảo hiểm, vốn góp. Mỗi dạng có điều kiện riêng để thành công (ví dụ sản phẩm nhân bản được nên dễ mở rộng, dịch vụ bị giới hạn bởi thời gian người làm, thuê bao sống nhờ giữ khách, cho thuê phải thu hồi giá mua trước khi tài sản hỏng). Các dạng có thể ghép với nhau, gộp gói hay tách gói. Khách trả nhiều hơn khi giá trị cảm nhận cao, tức kết quả tốt mà họ ít phải tự bỏ công (làm sạch hồ bơi hằng tuần 250 USD/tháng so với bộ dụng cụ 50 USD).
 3. **Làm sao giảm rủi ro khi tạo ra một thứ mới?** Đừng giấu ý tưởng rồi làm nhiều năm. Hãy làm nguyên mẫu sớm, chạy chu trình lặp sáu bước (quan sát, đề xuất, dự đoán, chọn, hành động, phân tích) thật nhanh, lấy phản hồi từ khách tiềm năng chứ không phải người thân, và đo điều khách thật sự coi trọng bằng cách buộc họ chọn. Rồi liệt kê các giả định then chốt (câu lạc bộ yoga: 100 USD/tháng, 220 hội viên, 22.000 USD/tháng) và kiểm tra chúng bằng thử nghiệm bán trước với một lời chào hàng tối thiểu khả thi, tốn vài trăm USD thay vì tiền tiết kiệm cả đời. Bán được rồi thì bổ sung giá trị từng bước và tự dùng sản phẩm hằng ngày như Kifaru.
 
@@ -1274,7 +1286,9 @@ Vốn góp là tiền bỏ ra mua một phần quyền sở hữu doanh nghiệp
 3. đánh giá giá trị hiện tại của doanh nghiệp, giá trị nó có thể có trong tương lai, và xác suất nó thất bại khiến mình mất vốn;
 4. thương lượng phần sở hữu nhận được đổi lấy số vốn bỏ ra.
 
-Doanh nghiệp có lợi vì gom được nguồn lực cần thiết để mở rộng hay vào ngành mới; một số ngành như sản xuất hay dịch vụ tài chính cần rất nhiều vốn để cất cánh hay mở rộng, và nhận nhà đầu tư giúp chủ có đủ tiền để đi nhanh. Nhà đầu tư có lợi vì sở hữu một phần trăm công ty, được hưởng lợi từ hoạt động kinh doanh mà không phải trực tiếp tham gia. Thay vì để tiền trong tài khoản ngân hàng, họ đưa tiền vào doanh nghiệp hứa hẹn và có thể thu lời cao hơn. Nếu doanh nghiệp dồi dào tiền mặt, nhà đầu tư nhận cổ tức đều đặn. Nếu doanh nghiệp được công ty khác mua hay lên sàn chứng khoán, nhà đầu tư có thể nhận một phần giá bán bằng một khoản thanh toán một lần, hoặc bán cổ phần trên thị trường để lấy lãi.
+Doanh nghiệp có lợi vì gom được nguồn lực cần thiết để mở rộng hay vào ngành mới; một số ngành như sản xuất hay dịch vụ tài chính cần rất nhiều vốn để cất cánh hay mở rộng, và nhận nhà đầu tư giúp chủ có đủ tiền để đi nhanh.
+
+Nhà đầu tư có lợi vì sở hữu một phần trăm công ty, được hưởng lợi từ hoạt động kinh doanh mà không phải trực tiếp tham gia. Thay vì để tiền trong tài khoản ngân hàng, họ đưa tiền vào doanh nghiệp hứa hẹn và có thể thu lời cao hơn. Nếu doanh nghiệp dồi dào tiền mặt, nhà đầu tư nhận cổ tức đều đặn. Nếu doanh nghiệp được công ty khác mua hay lên sàn chứng khoán, nhà đầu tư có thể nhận một phần giá bán bằng một khoản thanh toán một lần, hoặc bán cổ phần trên thị trường để lấy lãi.
 
 ### 23. Giá trị cảm nhận (Valor percibido)
 
@@ -1324,7 +1338,9 @@ Gộp gói và tách gói tạo giá trị cho những nhóm khách khác nhau m
 
 Mô hình phát triển sản phẩm kinh điển "kiểu MBA" phủ một lớp bí mật và huyền bí: soạn lời chào hàng trong kín đáo, bắt mọi người liên quan ký hợp đồng bảo mật (chú thích [22] của sách: hợp đồng hay cam kết có ràng buộc pháp lý, buộc không chia sẻ thông tin về một doanh nghiệp hay ý tưởng kinh doanh với bên thứ ba), gom hàng triệu USD vốn mạo hiểm, mất nhiều năm hoàn thiện, rồi trình làng trước sự sửng sốt của thế giới và tiếng máy tính tiền vang rền.
 
-Tiếc là lối nghĩ này huỷ hoại sự nghiệp và rút cạn tài khoản ngân hàng. Theo Kaufman, ý tưởng tự nó gần như không có giá trị; mục tiêu của người kinh doanh là tìm hiểu xem mình có thực hiện được nó ngoài đời không. Đừng ngại cho khách tiềm năng xem việc mình đang làm. Trừ khi làm trong ngành có đối thủ hung hăng, giỏi và nhiều tiền một cách bất thường, không cần lo người khác ăn cắp ý tưởng. Ý tưởng không tốn gì; điều đáng giá là năng lực biến nó thành hiện thực, và việc đó khó hơn nhiều so với nghĩ ra ý tưởng hay. Giữ bí mật, ngược lại, ngăn bạn học hỏi và đặt bạn vào thế bất lợi ngay từ đầu. Gần như lúc nào cũng nên tập trung lấy ý kiến của khách thật càng sớm càng tốt.
+Tiếc là lối nghĩ này huỷ hoại sự nghiệp và rút cạn tài khoản ngân hàng. Theo Kaufman, ý tưởng tự nó gần như không có giá trị; mục tiêu của người kinh doanh là tìm hiểu xem mình có thực hiện được nó ngoài đời không. Đừng ngại cho khách tiềm năng xem việc mình đang làm. Trừ khi làm trong ngành có đối thủ hung hăng, giỏi và nhiều tiền một cách bất thường, không cần lo người khác ăn cắp ý tưởng.
+
+Ý tưởng không tốn gì; điều đáng giá là năng lực biến nó thành hiện thực, và việc đó khó hơn nhiều so với nghĩ ra ý tưởng hay. Giữ bí mật, ngược lại, ngăn bạn học hỏi và đặt bạn vào thế bất lợi ngay từ đầu. Gần như lúc nào cũng nên tập trung lấy ý kiến của khách thật càng sớm càng tốt.
 
 Nguyên mẫu là hình dung sớm về lời chào hàng sẽ trông thế nào. Nó có thể là mô hình vật lý, bản dựng trên máy tính, sơ đồ, lưu đồ, hay một trang mô tả lợi ích và đặc điểm chính. Nó không cần đẹp, chỉ cần thể hiện thứ được chào bán một cách cụ thể để khách tiềm năng hiểu và phản hồi đúng.
 
@@ -1568,7 +1584,11 @@ Thử nghiệm thực địa luôn gắn với việc tạo ra doanh nghiệp th
 
 Dùng hằng ngày thứ mình làm ra là cách tốt nhất để hoàn thiện chất lượng lời chào hàng. Không gì tốt cho sản phẩm hơn việc chính mình trở thành khách hàng tận tuỵ và khó tính nhất của nó.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, số giả định). Một người muốn mở dịch vụ giao bữa trưa ăn kiêng cho nhân viên văn phòng trong một toà nhà lớn. Chấm mười cách đánh giá thị trường: khẩn cấp 7 (bữa trưa ngày nào cũng cần), quy mô 7, tiềm năng giá 5, chi phí có khách 8 (khách tập trung một chỗ), chi phí giao 6, độc đáo 4, tốc độ ra thị trường 9, vốn ban đầu 8, bán thêm 7 (nước ép, đồ ăn vặt), bền lâu 8 (thuê bao theo tuần): tổng 69, đủ sống nhưng sẽ vất vả. Dạng giá trị: sản phẩm (suất ăn) ghép với thuê bao (gói 20 bữa/tháng). Giả định then chốt: (1) nhân viên chịu trả 70.000 đồng/suất; (2) có ít nhất 150 người đặt gói tháng trong hai tháng đầu; (3) chi phí nguyên liệu và giao hàng dưới 45.000 đồng/suất. Thay vì thuê bếp ngay, người này làm một trang đăng ký với thực đơn mẫu, ảnh món ăn và giá gói 1,4 triệu đồng/tháng, nhận đặt cọc 200.000 đồng có hoàn lại nếu dịch vụ không khởi động, rồi phát tờ rơi ở sảnh toà nhà trong hai tuần (tổng chi khoảng 3 triệu đồng). Nếu 150 người đặt cọc, giả định (1) và (2) được kiểm chứng; nếu chỉ có 20 người, câu hỏi "vì sao chưa đặt" sẽ cho biết rào cản là giá, độ tin cậy hay khẩu vị, trước khi bỏ ra hàng trăm triệu đồng thuê bếp.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, số giả định). Một người muốn mở dịch vụ giao bữa trưa ăn kiêng cho nhân viên văn phòng trong một toà nhà lớn. Chấm mười cách đánh giá thị trường: khẩn cấp 7 (bữa trưa ngày nào cũng cần), quy mô 7, tiềm năng giá 5, chi phí có khách 8 (khách tập trung một chỗ), chi phí giao 6, độc đáo 4, tốc độ ra thị trường 9, vốn ban đầu 8, bán thêm 7 (nước ép, đồ ăn vặt), bền lâu 8 (thuê bao theo tuần): tổng 69, đủ sống nhưng sẽ vất vả.
+
+Dạng giá trị: sản phẩm (suất ăn) ghép với thuê bao (gói 20 bữa/tháng). Giả định then chốt: (1) nhân viên chịu trả 70.000 đồng/suất; (2) có ít nhất 150 người đặt gói tháng trong hai tháng đầu; (3) chi phí nguyên liệu và giao hàng dưới 45.000 đồng/suất.
+
+Thay vì thuê bếp ngay, người này làm một trang đăng ký với thực đơn mẫu, ảnh món ăn và giá gói 1,4 triệu đồng/tháng, nhận đặt cọc 200.000 đồng có hoàn lại nếu dịch vụ không khởi động, rồi phát tờ rơi ở sảnh toà nhà trong hai tuần (tổng chi khoảng 3 triệu đồng). Nếu 150 người đặt cọc, giả định (1) và (2) được kiểm chứng; nếu chỉ có 20 người, câu hỏi "vì sao chưa đặt" sẽ cho biết rào cản là giá, độ tin cậy hay khẩu vị, trước khi bỏ ra hàng trăm triệu đồng thuê bếp.
 
 ## Luận điểm cốt lõi
 
@@ -1717,7 +1737,9 @@ Mười tiêu chí nhìn hợp lý, nhưng có trọng số bằng nhau: một t
 
 ### Các phương pháp thử nghiệm đã thành chuẩn mực sau 2010, và có giới hạn mới
 
-Nguyên mẫu, chu trình lặp, OMVE và thử nghiệm bán trước được viết cùng thời với phong trào khởi nghiệp tinh gọn (*The Lean Startup* của Eric Ries ra năm 2011). Từ đó, nhận đặt hàng trước đã trở thành phổ biến qua các nền tảng gọi vốn cộng đồng, trang đích và quảng cáo trên mạng xã hội. Đồng thời, một số điểm cần thận trọng hơn: ở nhiều nơi, thu thông tin thẻ hay nhận tiền cho sản phẩm chưa có phải tuân theo quy định bảo vệ người tiêu dùng; nhiều dự án gọi vốn cộng đồng nhận tiền rồi giao hàng rất trễ hoặc không giao, làm khách dè dặt hơn với lời chào hàng chưa tồn tại. Điều kiện Kaufman đặt ra (nói rõ sản phẩm đang phát triển, không trừ tiền tới khi có hàng, hoàn tiền nếu không làm) chính là phần quan trọng nhất và dễ bị bỏ qua nhất.
+Nguyên mẫu, chu trình lặp, OMVE và thử nghiệm bán trước được viết cùng thời với phong trào khởi nghiệp tinh gọn (*The Lean Startup* của Eric Ries ra năm 2011). Từ đó, nhận đặt hàng trước đã trở thành phổ biến qua các nền tảng gọi vốn cộng đồng, trang đích và quảng cáo trên mạng xã hội.
+
+Đồng thời, một số điểm cần thận trọng hơn: ở nhiều nơi, thu thông tin thẻ hay nhận tiền cho sản phẩm chưa có phải tuân theo quy định bảo vệ người tiêu dùng; nhiều dự án gọi vốn cộng đồng nhận tiền rồi giao hàng rất trễ hoặc không giao, làm khách dè dặt hơn với lời chào hàng chưa tồn tại. Điều kiện Kaufman đặt ra (nói rõ sản phẩm đang phát triển, không trừ tiền tới khi có hàng, hoàn tiền nếu không làm) chính là phần quan trọng nhất và dễ bị bỏ qua nhất.
 
 ### Lời khuyên "đừng sợ bị lấy cắp ý tưởng" đúng với đa số, nhưng không phải mọi trường hợp
 
@@ -1733,3 +1755,191 @@ Nhiều sách kinh doanh chỉ nói "hãy theo đam mê" hoặc chỉ nói "hãy
 - **Trong nghề nghiệp.** Rà xem kỹ năng của mình gắn với thành phần nào trong năm thành phần; kỹ năng nằm ngoài cả năm thì có giá trị cá nhân nhưng ít giá trị kinh tế. Với dịch vụ cá nhân (tư vấn, thiết kế tự do), nhớ giới hạn thời gian: đặt giá đủ bù giờ làm, và tìm cách chuyển một phần thành sản phẩm nhân bản được (khoá học, mẫu thiết kế).
 - **Khi khởi nghiệp hay kinh doanh nhỏ.** Chấm mười tiêu chí cho ý tưởng, xem đối thủ bằng cách mua hàng của họ, rồi làm một lời chào hàng tối thiểu (trang đăng ký, bài đăng nhận đặt cọc có hoàn lại) trước khi ký thuê mặt bằng hay nhập hàng. Đừng hỏi bạn bè "có hay không", hãy hỏi người lạ "có đặt cọc không". Khi đã bán được, cải tiến từng bước và tự dùng sản phẩm của mình hằng ngày.
 - **Ở Việt Nam.** Kinh doanh nhỏ qua mạng xã hội và các sàn thương mại điện tử rất phổ biến, nên thử nghiệm bán trước gần như không tốn chi phí: đăng ảnh mẫu, nhận đặt trước, đếm đơn. Nhiều người mở quán cà phê, quán ăn bằng tiền tiết kiệm mà không kiểm tra giả định về giá và lượng khách, giống hệt tình huống câu lạc bộ yoga; tính trước "cần bao nhiêu khách mỗi ngày ở mức giá nào để trả tiền mặt bằng" là phép thử đơn giản nhất. Khi nhận cọc trước, cần minh bạch về thời gian giao và chính sách hoàn tiền để giữ uy tín, vì khách đã quen với những lần đặt hàng trước bị trễ hoặc không giao.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương trên một trang: sáu nhánh theo các mục của Nội dung chi tiết (mục 1–3 doanh nghiệp là năm quá trình, mục 4–9 chọn thị trường, mục 10–22 mười hai dạng giá trị, mục 23–25 giá trị cảm nhận và ghép dạng, mục 26–33 nguyên mẫu, lặp và điều khách coi trọng, mục 34–38 kiểm chứng giả định), mỗi nhánh ghi mô hình tư duy kèm định nghĩa, ví dụ và con số của Kaufman; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: Không có giá trị thì không có doanh nghiệp — tìm nhu cầu chưa được đáp ứng, tạo thứ đáp ứng nó, thử nhanh và rẻ xem người ta có trả tiền không`"]
+
+  n1["`Mục 1–3 — Doanh nghiệp là năm quá trình lặp lại, không phải việc của thiên tài`"]
+  n0 --- n1
+  n2["`Doanh nghiệp: quá trình lặp lại tạo ra thứ người khác muốn, ở giá họ chịu trả, đủ lãi để chủ tiếp tục làm`"]
+  n1 --- n2
+  n3["`Năm quá trình nối nhau: tạo ra giá trị → marketing → bán hàng → chuyển giao giá trị → tài chính`"]
+  n1 --- n3
+  n4["`Thiếu giá trị là thú vui riêng, không giao đúng điều đã hứa là lừa đảo, thiếu tiền thì đóng cửa`"]
+  n1 --- n4
+  n5["`Không vẽ được năm quá trình cho ý tưởng của mình là chưa hiểu đủ để làm nó thành công`"]
+  n1 --- n5
+  n6["`Kỹ năng có giá trị kinh tế gắn với năm thành phần: chèo bè chỉ sinh tiền khi phục vụ người khác`"]
+  n1 --- n6
+
+  n7["`Mục 4–9 — Chọn thị trường trước khi làm sản phẩm`"]
+  n0 --- n7
+  n8["`Quy luật khắc nghiệt của thị trường: doanh nghiệp bị giới hạn bởi quy mô và chất lượng thị trường nó phục vụ`"]
+  n7 --- n8
+  n9["`Segway: hơn 100 triệu USD phát triển, giá 5.000 USD, dự kiến 50.000 chiếc/năm, 5 năm chỉ bán 23.000 chiếc`"]
+  n8 --- n9
+  n10["`Năm nhu cầu cơ bản: sở hữu, gắn kết, học hỏi, tự vệ (Lawrence và Nohria), cảm giác mới (Kaufman thêm)`"]
+  n7 --- n10
+  n11["`Lời chào hàng chạm càng nhiều nhu cầu càng hấp dẫn`"]
+  n10 --- n11
+  n12["`Mười cách đánh giá thị trường: chấm 0–10 cho mức khẩn cấp, quy mô, tiềm năng giá, vốn ban đầu, khả năng bán thêm...`"]
+  n7 --- n12
+  n13["`Tổng ≤ 50 thì bỏ, 50–75 đủ trả hoá đơn nhưng vất vả, ≥ 75 thì dốc toàn lực`"]
+  n12 --- n13
+  n14["`Lợi ích ẩn của cạnh tranh: có đối thủ chứng tỏ có khách trả tiền, tìm hiểu họ bằng cách mua hàng của họ`"]
+  n7 --- n14
+  n15["`Quy tắc lính đánh thuê: làm chỉ vì tiền thì bỏ cuộc trước khi tìm thấy viên kim cương thô`"]
+  n7 --- n15
+  n16["`Ngành bẩn như sửa ống nước, thu gom rác ít hấp dẫn nhưng rất có lãi vì nhu cầu thường xuyên, cấp bách`"]
+  n15 --- n16
+  n17["`Quy tắc nhà thập tự chinh: ý tưởng say mê mà không có thị trường thì giữ làm dự án phụ`"]
+  n7 --- n17
+
+  n18["`Mục 10–22 — Mười hai dạng giá trị chuẩn, không cần phát minh lại bánh xe`"]
+  n0 --- n18
+  n19["`Dạng 1–4: sản phẩm, dịch vụ, tài nguyên dùng chung, thuê bao`"]
+  n18 --- n19
+  n20["`Sản phẩm nhân bản được: sách viết một lần, in hàng triệu bản, nên dễ mở rộng quy mô`"]
+  n19 --- n20
+  n21["`Dịch vụ khó nhân bản: bác sĩ tim chỉ mổ vài ca 4 tiếng/ngày, phải đặt giá đủ bù thời gian`"]
+  n19 --- n21
+  n22["`Tài nguyên dùng chung (phòng tập, bảo tàng): quá ít người dùng thì lỗ, quá đông thì khách bỏ đi`"]
+  n19 --- n22
+  n23["`Thuê bao (truyền hình cáp): doanh thu dự đoán được, then chốt là giữ tỷ lệ khách rời bỏ thấp`"]
+  n19 --- n23
+  n24["`Dạng 5–8: bán lại, cho thuê, đại lý, tập hợp khán giả`"]
+  n18 --- n24
+  n25["`Bán lại (Walmart, Tesco): mua rẻ số lượng lớn, bán nhanh, giữ quan hệ chặt với nhà cung cấp`"]
+  n24 --- n25
+  n26["`Cho thuê: tiền thuê phải bù được giá mua trước khi tài sản hỏng hay mất`"]
+  n24 --- n26
+  n27["`Đại lý (đại lý văn học, môi giới nhà): hoa hồng đủ bõ công, dồn thời gian vào chốt giao dịch`"]
+  n24 --- n27
+  n28["`Tập hợp khán giả: bán quyền tiếp cận một nhóm người qua quảng cáo mà không làm họ bỏ đi`"]
+  n24 --- n28
+  n29["`Dạng 9–12: cho vay, quyền chọn, bảo hiểm, vốn góp`"]
+  n18 --- n29
+  n30["`Cho vay: lãi kép, vay mua nhà thu về gấp 2–3 lần, phải thẩm định rủi ro và đòi tài sản bảo đảm`"]
+  n29 --- n30
+  n31["`Quyền chọn: quyền không phải nghĩa vụ, trước hạn chót — vé xem phim, khoản cọc giữ căn hộ của Kaufman`"]
+  n29 --- n31
+  n32["`Bảo hiểm: chia rủi ro cho hàng nghìn người, thu phí #gt; chi bồi thường thì có lãi`"]
+  n29 --- n32
+  n33["`Vốn góp: mua phần sở hữu, nhận cổ tức hoặc một khoản khi công ty được bán hay lên sàn`"]
+  n29 --- n33
+
+  n34["`Mục 23–25 — Giá trị cảm nhận và lời chào hàng dạng mô-đun`"]
+  n0 --- n34
+  n35["`Giá trị cảm nhận quyết định giá khách chịu trả, giảm khi khách phải tự bỏ nhiều công sức`"]
+  n34 --- n35
+  n36["`Hồ bơi: bộ dụng cụ 50 USD, làm sạch hằng tuần 250 USD/tháng, 10.000 USD/tháng thì không ai mua`"]
+  n35 --- n36
+  n37["`Mười hai dạng ghép được như LEGO: Orbitz = vé máy bay + bảo hiểm huỷ chuyến + quảng cáo`"]
+  n34 --- n37
+  n38["`Tạp chí = thuê bao + tập hợp khán giả, rạp chiếu = tài nguyên dùng chung + vé (quyền chọn)`"]
+  n37 --- n38
+  n39["`Gộp gói: điện thoại + gói cước tháng, gói càng nhiều thứ thì giá trị cảm nhận càng cao`"]
+  n34 --- n39
+  n40["`Tách gói: bán từng bài MP3 thay vì cả CD 10 USD, mở ra những đơn hàng trước đó không có`"]
+  n34 --- n40
+
+  n41["`Mục 26–33 — Nguyên mẫu, chu trình lặp và điều khách thật sự coi trọng`"]
+  n0 --- n41
+  n42["`Ý tưởng tự nó gần như không có giá trị, giá trị nằm ở năng lực biến nó thành hiện thực`"]
+  n41 --- n42
+  n43["`Nguyên mẫu: thô tới mức đáng xấu hổ cũng được, chỉ cần cụ thể để khách hiểu và phản hồi`"]
+  n42 --- n43
+  n44["`Chu trình lặp sáu bước: quan sát → đề xuất → dự đoán → chọn → hành động → phân tích`"]
+  n41 --- n44
+  n45["`Tốc độ lặp: vòng nhỏ và nhanh, ý tưởng tồi biết sớm và rẻ thay vì mất cả áo`"]
+  n44 --- n45
+  n46["`Phản hồi: hỏi khách tiềm năng chứ không hỏi người thân, tệ nhất là thờ ơ, mời đặt hàng ngay`"]
+  n41 --- n46
+  n47["`Các phương án thay thế: hiểu khách đang có những phương án nào khi quyết định mua của bạn`"]
+  n41 --- n47
+  n48["`Đánh đổi: không thể làm vừa lòng mọi người, tập trung vào điều khách tốt nhất coi trọng`"]
+  n41 --- n48
+  n49["`Chín giá trị kinh tế gom thành hai trục: tiện lợi (Domino's) hay chất lượng cao (Pizzeria Uno)`"]
+  n48 --- n49
+  n50["`Gap, Inc.: Old Navy công năng giá thấp, Gap thời trang giá vừa, Banana Republic địa vị giá rất cao`"]
+  n48 --- n50
+  n51["`Kiểm định tầm quan trọng tương đối (MaxDiff): bộ 4–5 đặc điểm, hỏi cái quan trọng nhất và ít nhất`"]
+  n41 --- n51
+  n52["`Chấm 0–10 thì khách muốn tất cả, chỉ khi bị buộc chọn họ mới lộ điều thật sự coi trọng`"]
+  n51 --- n52
+
+  n53["`Mục 34–38 — Kiểm chứng giả định then chốt bằng đơn hàng thật`"]
+  n0 --- n53
+  n54["`Giả định then chốt: điều kiện phải đúng ngoài đời để doanh nghiệp thành công, sai một cái là kém hẳn`"]
+  n53 --- n54
+  n55["`Câu lạc bộ yoga: 100 USD/tháng, 220 hội viên sau 3 tháng, doanh thu trên 22.000 USD/tháng`"]
+  n54 --- n55
+  n56["`Khách chỉ chịu 75 USD thì cần khoảng 300 hội viên, đối thủ mở cùng lúc thì chỉ được nửa số cần`"]
+  n54 --- n56
+  n57["`Thử nghiệm bán trước: bán lời chào hàng trước khi nó tồn tại, nói rõ đang phát triển`"]
+  n53 --- n57
+  n58["`Fitbit: nhận đặt hàng với mô tả và hình vẽ, kiểm tra thẻ nhưng chưa trừ tiền, một tháng sau gọi 2 triệu USD`"]
+  n57 --- n58
+  n59["`OMVE: lợi ích tối thiểu đủ để có một lần mua thật — yoga thử bằng trang web giữ chỗ, vài trăm USD`"]
+  n53 --- n59
+  n60["`Bổ sung giá trị từng bước: thay đổi nhỏ, giữ cái hiệu quả, đổi hướng hẳn thì làm nguyên mẫu mới`"]
+  n53 --- n60
+  n61["`Thử nghiệm thực địa: Patrick Smith tự dùng mỗi sản phẩm Kifaru nhiều năm, ba lô mang 90 kg thoải mái`"]
+  n53 --- n61
+  n62["`Năm 1923 W. H. Murphy để đồng sự bắn vào ngực mình từ 3 m để chứng minh áo chống đạn`"]
+  n61 --- n62
+
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Hỏi có ai đủ muốn để trả tiền không trước khi hỏi làm sản phẩm thế nào cho hay`"]
+  n63 --- n64
+  n65["`Kiểm chứng bằng đơn đặt hàng, không bằng lời khen`"]
+  n63 --- n65
+  n66["`Chi nhỏ, tăng dần theo bằng chứng, để dành tiền tiết kiệm cho lúc đã biết chắc có khách`"]
+  n63 --- n66
+
+  class n0 root
+  class n1,n7,n18,n34,n41,n53,n63 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 2 "La creación de un bien o producto de valor" (tương ứng Chapter 1 "Value Creation" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 giải thích vì sao có thể tự học kinh doanh mà không cần trường MBA. Chương 2 mở đầu khối năm chương về năm phần của một doanh nghiệp (chương 2–6: tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính).
+
+Chương này vừa đặt khung cho cả khối (mục "Năm thành phần của mọi doanh nghiệp" nêu luôn năm quá trình mà các chương 2–6 sẽ lần lượt đi sâu), vừa xử lý quá trình đầu tiên: tìm ra người ta muốn gì và tạo ra thứ đó. Chương 3 (marketing) sẽ hỏi bước tiếp theo: làm sao để người ta biết tới và muốn thứ bạn đã tạo ra.
+
+Nhiều khái niệm được nhắc trước ở đây (nhân bản và nhân rộng ở chương 5, chi phí chung ở chương 6, ba "đồng tiền chung" và phương án tốt thứ hai ở chương 4, hệ thống ở chương 10–12) sẽ được giải thích ở các chương đó.
+
+## Lưu ý
+
+- Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua văn bản OCR của bản scan; mọi câu trích là bản dịch tiếng Việt của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của các mục được ghi theo hiểu biết của người tổng hợp về bản gốc; tên TBN là tên chuẩn để tra lại. Những chỗ đáng chú ý:
+  - Bản dịch gọi cùng một dạng giá trị số 8 (Audience Aggregation) bằng hai tên: "aportación de público" (trong danh sách mười hai dạng và trong mục "Ofertas modulares") và "intermediario comercial" (tiêu đề mục riêng); bản tổng hợp dùng thống nhất tên "tập hợp khán giả".
+  - Ở dạng "reventa", bản dịch viết "mua của nhà bán buôn rồi bán cho nhà bán lẻ (minorista)"; theo ví dụ ngay sau đó (Walmart, Tesco bán cho khách hàng), nghĩa đúng là bán lại cho người mua cuối cùng.
+  - Ở dạng "leasing", bản dịch thêm "có quyền mua lại sau một thời gian"; nội dung mục chỉ nói về cho thuê rồi thu hồi tài sản, nên bản tổng hợp hiểu là cho thuê nói chung.
+  - Ở dạng "préstamo", bản dịch viết tài sản bảo đảm "được chuyển sang người đi vay (prestatario)"; đúng nghĩa phải là chuyển sang người cho vay (prestamista). Bản dịch gọi việc thẩm định rủi ro khoản vay là «garantía»; tiếng Anh gốc có lẽ là *underwriting*.
+  - Ở dạng "opción", bản dịch viết "phần lớn mọi người nghĩ đó chỉ là seguros financieros (bảo hiểm tài chính)"; nhiều khả năng bản gốc là *financial securities* (chứng khoán tài chính). Câu đề từ của tạp chí *Punch* ghi năm "1346" là lỗi OCR, đúng là 1846.
+  - Ở "Valores económicos", bản dịch dùng "prestaciones" (tính năng) cho mục mà bản gốc nhiều khả năng là *Flexibility*; câu hỏi đi kèm là "nó làm được những gì".
+  - Mục "El valor añadido" dịch tên *Incremental Augmentation*; "valor añadido" thường nghĩa là "giá trị gia tăng", nhưng nội dung mục là thêm cải tiến nhỏ từng bước, nên bản tổng hợp gọi là "bổ sung giá trị từng bước".
+  - Bản dịch dùng "repetición" (lặp lại) cho *iteration*; bản tổng hợp gọi là "lặp" / "chu trình lặp".
+  - Henry Fielding và William Shenstone được ghi là "thế kỷ XVII"; cả hai sống ở thế kỷ XVIII. Goethe ghi "siglo ax" là lỗi OCR của "XIX".
+  - Lỗi OCR tên riêng đã sửa: "Pauigroham.com" là paulgraham.com, "Fickr.com và Huich.com" là Flickr.com và Hunch.com, "Mark TwaN" là Mark Twain, "ANITA RODOICK" là Anita Roddick, "GROUCHO MAR/MARK" là Groucho Marx, "PALL BUCHHEIT" là Paul Buchheit, "SHO CHIRO TOYOTA" là Shoichiro Toyota, "GEORGE 5. PATON" là George S. Patton, "motor Sterling" là động cơ Stirling, "Kifara" là Kifaru.
+- Bối cảnh: sách viết năm 2010; các ví dụ (Segway, MP3, CD, Orbitz, truyền hình cáp, Fitbit mới gọi vốn) phản ánh thời điểm đó. Về Fitbit, bản dịch viết công ty "thành lập tháng 9 năm 2008"; tháng 9 năm 2008 thực ra là lúc sản phẩm được công bố.
+- Chú thích của chương: [22] (giải thích hợp đồng bảo mật) và [23] (Louvière gọi phương pháp này là phép thử MaxDiff) đã đưa vào Nội dung chi tiết; [21], [24], [25], [26] chỉ là đường dẫn web nên bỏ.

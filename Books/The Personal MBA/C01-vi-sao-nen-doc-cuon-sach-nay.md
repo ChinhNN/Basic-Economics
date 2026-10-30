@@ -1,11 +1,26 @@
 # Chương 1 — Vì sao nên đọc cuốn sách này? (¿Por qué leer este libro?; Why Read This Book?)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 1 "¿Por qué leer este libro?" (tương ứng phần mở đầu "Why Read This Book?" ở bản tiếng Anh, phần đứng trước Chapter 1 "Value Creation").
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương mở màn, chưa dạy mô hình kinh doanh cụ thể nào. Chương làm ba việc: (1) thuyết phục người đọc rằng kinh doanh có thể học được bằng một số ít nguyên lý nền tảng, gọi là "mô hình tư duy"; (2) kể vì sao Kaufman tự học kinh doanh thay vì đi học MBA, và phê phán chương trình MBA truyền thống (đắt, dạy nhiều thứ lỗi thời, không bảo đảm thành công); (3) giới thiệu khung của cả cuốn sách. Khung đó xuất phát từ định nghĩa doanh nghiệp năm thành phần mà chương này đưa ra: năm phần của một doanh nghiệp được học ở chương 2–6 (tạo giá trị → marketing → bán hàng → chuyển giao giá trị → tài chính); con người ở chương 7–9 (tâm trí con người, làm việc với chính mình, làm việc với người khác); hệ thống ở chương 10–12 (hiểu hệ thống, phân tích hệ thống, cải thiện hệ thống). Chương 2 "Tạo giá trị" sẽ mở đầu bằng chính thành phần thứ nhất trong định nghĩa đó.
-**Ý chính:** Kaufman muốn người đọc tin rằng **không cần bằng MBA đắt tiền để hiểu và làm kinh doanh giỏi; chỉ cần nắm vững một số ít nguyên lý nền tảng (mô hình tư duy) rồi tự học và thực hành**. Ông mở đầu bằng ba nỗi sợ khiến người ta không dám làm kinh doanh (lo mình không biết gì, sợ thiếu bằng cấp, sợ bị lộ là "kẻ mạo danh") và nói rằng các nỗi sợ này tan đi khi người ta hiểu vài khái niệm đơn giản. Mô hình tư duy là hình dung của mỗi người về "sự vật vận hành thế nào", như việc đạp chân ga bên phải thì xe phải tăng tốc; nhiều mô hình tư duy phổ biến về kinh doanh là sai (khởi nghiệp là liều lĩnh, phải có kế hoạch hoàn hảo, phải gom vốn lớn, quan hệ quan trọng hơn hiểu biết). Câu chuyện cá nhân làm bằng chứng: Kaufman bỏ ý định học MBA, tự đọc hàng trăm cuốn sách trước khi vào làm trợ lý quản lý nhãn hàng tại P&G (vị trí thường dành cho người có MBA trường danh tiếng), rồi danh sách sách của ông lan rộng khắp thế giới sau khi Seth Godin giới thiệu. Charlie Munger, luật sư không học kinh doanh nhưng xây dựng "một mạng lưới mô hình tư duy" và cùng Warren Buffett làm nên Berkshire Hathaway, là hình mẫu. Từ đó Kaufman định nghĩa doanh nghiệp thành công bằng năm yếu tố (tạo ra thứ có giá trị, người khác muốn hoặc cần, ở mức giá họ sẵn lòng trả, chuyển giao đáp ứng kỳ vọng, đem lại đủ lợi nhuận), cộng thêm hai nền tảng là con người và hệ thống. Nửa sau chương dành cho người hoài nghi: MBA tốn 125.000–200.000 USD, nghiên cứu của Pfeffer và Fong không thấy bằng MBA hay điểm số liên quan tới thành công nghề nghiệp, giá trị hiện tại ròng của một chương trình MBA hàng đầu theo tính toán của Christian Schraga là âm 53.000 USD, chương trình học sinh ra cho thời công nghiệp (Taylor, Pavlov, Skinner, quảng cáo đại trà, sáp nhập, công thức tài chính), và lợi ích thật duy nhất là con đường vào phỏng vấn ở các tập đoàn lớn, ngân hàng đầu tư, hãng tư vấn. Lời khuyên của ông: bỏ qua trường kinh doanh, tự học.
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua bản OCR của một bản scan; mọi câu trích trong file là bản dịch tiếng Việt của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của từng mục nhỏ trong chương không được ghi vì người tổng hợp không chắc chắn; chỉ ghi tên TBN. Các chỗ OCR hỏng đã sửa: bảng so sánh "mô hình tư duy sai / mô hình tư duy đúng" trong mục "Modelos mentales, no métodos" bị nhận dạng gần như vô nghĩa ("Iniciar ua negacio es amic gado", "Tiese que reunir un gran capical"...), đã dựng lại theo nghĩa rõ nhất; con số "B22 años" (thời gian đọc hết sách kinh doanh nếu có nghỉ ăn ngủ) được đọc là 822 năm, vì nó phải lớn hơn 528 năm đọc liên tục 24 giờ mỗi ngày và 822 xấp xỉ 528 nhân với 1,5 (tức đọc 16 giờ/ngày); tên chương trình ở Đại học Cincinnati in là "Carl H. Linder HonorsPLUS" (tên đúng của nhà tài trợ là Lindner); "Clay Shaky" là Clay Shirky, "Louis L'Avour" là Louis L'Amour; Munger được giới thiệu là "socio miminario" của Buffett, có lẽ là "socio minoritario" (đối tác thiểu số) hoặc chỉ đơn giản là "đối tác". Các chỗ bản dịch có vẻ lệch nghĩa: (a) "una corporación que aparece en la lista ... sobre las 50 compañías más rentables" dịch cụm "Fortune 50" (50 công ty lớn nhất theo doanh thu trong bảng xếp hạng Fortune 500), không phải "50 công ty có lợi nhuận cao nhất"; (b) câu khuyên "Sáltese la escuela de negocios. Aprenda por su cuenta." được giới thiệu là "chín chữ", con số này ứng với câu tiếng Anh gốc, bản TBN không có đủ chín chữ; (c) đoạn về nhân viên ngân hàng/tư vấn "trabajar cien horas más a la semana" nghĩa đúng nhiều khả năng là "làm 100 giờ mỗi tuần" (từ hơn 80 giờ lên 100 giờ), không phải "thêm 100 giờ"; (d) bài báo của *Wired* nói tới "función gaussiana", bài đó thực ra nói về "Gaussian copula" (hàm copula Gauss dùng để định giá chứng khoán nợ thế chấp); (e) câu của Julian Huxley được dịch là "una maldita correlación tras otra", bản tiếng Anh thường dẫn là "life is just one damned relatedness after another". Về dữ kiện: theo hiểu biết chung, Buffett nắm quyền kiểm soát Berkshire Hathaway từ 1965 và Munger chính thức vào ban lãnh đạo năm 1978, còn sách ghi "hai người mua Berkshire năm 1975"; quỹ đầu tư của Munger được ghi thành lập năm 1965 (nhiều nguồn ghi 1962). Người tổng hợp giữ con số của sách trong phần Nội dung và chỉ nêu ở đây. Bối cảnh: sách viết năm 2010, nên số liệu (học phí MBA, nợ sinh viên năm 2009, xếp hạng U.S. News 2010, số blog trên Google Blog Search và Technorati, giá trị Berkshire 195 tỷ USD, các vị lãnh đạo GM Wagoner và Henderson) là số liệu của thời điểm đó; Google Blog Search và Technorati nay không còn hoạt động như trước. Chú thích cuối sách thuộc chương này là [1]–[20]; các chú thích có nội dung đã đưa vào Nội dung chi tiết, có ghi "Chú thích của tác giả": [6], [7], [8] (nguồn các câu trích của Buffett và Munger), [9] (học phí đại học tăng 7–14%/năm), [10] (Bill Gates không có bằng đại học), [13] (sách *Drive* của Daniel Pink), [14] (lý thuyết kiểm soát tri giác ở chương 7), [16] (định nghĩa đòn bẩy), [19] (nhóm gặp mặt độc giả); các chú thích chỉ là địa chỉ web đã bỏ.
+Kaufman muốn người đọc tin rằng **không cần bằng MBA đắt tiền để hiểu và làm kinh doanh giỏi; chỉ cần nắm vững một số ít nguyên lý nền tảng (mô hình tư duy) rồi tự học và thực hành**.
+
+Ông mở đầu bằng ba nỗi sợ khiến người ta không dám làm kinh doanh (lo mình không biết gì, sợ thiếu bằng cấp, sợ bị lộ là "kẻ mạo danh") và nói rằng các nỗi sợ này tan đi khi người ta hiểu vài khái niệm đơn giản.
+
+Mô hình tư duy là hình dung của mỗi người về "sự vật vận hành thế nào", như việc đạp chân ga bên phải thì xe phải tăng tốc. Nhiều mô hình tư duy phổ biến về kinh doanh là sai (khởi nghiệp là liều lĩnh, phải có kế hoạch hoàn hảo, phải gom vốn lớn, quan hệ quan trọng hơn hiểu biết).
+
+Câu chuyện cá nhân làm bằng chứng: Kaufman bỏ ý định học MBA, tự đọc hàng trăm cuốn sách trước khi vào làm trợ lý quản lý nhãn hàng tại P&G (vị trí thường dành cho người có MBA trường danh tiếng), rồi danh sách sách của ông lan rộng khắp thế giới sau khi Seth Godin giới thiệu. Charlie Munger, luật sư không học kinh doanh nhưng xây dựng "một mạng lưới mô hình tư duy" và cùng Warren Buffett làm nên Berkshire Hathaway, là hình mẫu.
+
+Từ đó Kaufman định nghĩa doanh nghiệp thành công bằng năm yếu tố (tạo ra thứ có giá trị, người khác muốn hoặc cần, ở mức giá họ sẵn lòng trả, chuyển giao đáp ứng kỳ vọng, đem lại đủ lợi nhuận), cộng thêm hai nền tảng là con người và hệ thống.
+
+Nửa sau chương dành cho người hoài nghi:
+
+- MBA tốn 125.000–200.000 USD.
+- Nghiên cứu của Pfeffer và Fong không thấy bằng MBA hay điểm số liên quan tới thành công nghề nghiệp.
+- Giá trị hiện tại ròng của một chương trình MBA hàng đầu theo tính toán của Christian Schraga là âm 53.000 USD.
+- Chương trình học sinh ra cho thời công nghiệp (Taylor, Pavlov, Skinner, quảng cáo đại trà, sáp nhập, công thức tài chính).
+- Lợi ích thật duy nhất là con đường vào phỏng vấn ở các tập đoàn lớn, ngân hàng đầu tư, hãng tư vấn.
+
+Lời khuyên của ông: bỏ qua trường kinh doanh, tự học.
 
 ## Sơ đồ
 
@@ -783,11 +798,21 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Có cần bằng MBA để hiểu và làm kinh doanh giỏi không?** Theo Kaufman thì không. Kinh doanh dựa trên một số ít nguyên lý nền tảng (mô hình tư duy) mà ai cũng tự học được qua đọc sách và thực hành. Bằng chứng ông đưa ra: chính ông tự đọc hàng trăm cuốn sách rồi làm tốt vị trí trợ lý quản lý nhãn hàng ở P&G vốn dành cho người có MBA trường danh tiếng; Andy Walter, kỹ sư điện không có MBA, thành một trong những nhà quản lý công nghệ thông tin toàn cầu giỏi nhất của P&G; Charlie Munger, luật sư không học kinh doanh, cùng Buffett xây Berkshire Hathaway; nghiên cứu của Pfeffer và Fong không thấy bằng MBA hay điểm số liên quan tới lương hay chức vụ. Ngoại lệ duy nhất: ai muốn vào ngay ngân hàng đầu tư, hãng tư vấn quản lý hay đường thăng tiến nhanh ở các tập đoàn Fortune 50 thì MBA trường hàng đầu là cách "mua quyền được phỏng vấn", với giá khoảng 150.000 USD.
+1. **Có cần bằng MBA để hiểu và làm kinh doanh giỏi không?** Theo Kaufman thì không. Kinh doanh dựa trên một số ít nguyên lý nền tảng (mô hình tư duy) mà ai cũng tự học được qua đọc sách và thực hành.
 
-2. **Một doanh nghiệp, về bản chất, là gì?** Doanh nghiệp thành công là một tổ chức (1) tạo ra hoặc cung cấp thứ có giá trị, (2) mà người khác muốn hoặc cần, (3) ở mức giá họ sẵn lòng trả, (4) theo cách đáp ứng nhu cầu và kỳ vọng của người mua, và (5) đem lại đủ doanh thu để chủ thấy đáng tiếp tục. Thiếu một yếu tố thì không còn là doanh nghiệp. Mỗi yếu tố kéo theo một chức năng: nghiên cứu thị trường, marketing, chuyển giao giá trị và vận hành, dịch vụ khách hàng, tài chính. Ngoài ra doanh nghiệp đứng trên hai nền tảng: con người (ai lập ra, ai được phục vụ, họ nghĩ và quyết định thế nào) và hệ thống (các quy trình lặp lại đáng tin cậy gắn doanh nghiệp lại). Định nghĩa này là khung của cả cuốn sách.
+   Bằng chứng ông đưa ra: chính ông tự đọc hàng trăm cuốn sách rồi làm tốt vị trí trợ lý quản lý nhãn hàng ở P&G vốn dành cho người có MBA trường danh tiếng; Andy Walter, kỹ sư điện không có MBA, thành một trong những nhà quản lý công nghệ thông tin toàn cầu giỏi nhất của P&G; Charlie Munger, luật sư không học kinh doanh, cùng Buffett xây Berkshire Hathaway; nghiên cứu của Pfeffer và Fong không thấy bằng MBA hay điểm số liên quan tới lương hay chức vụ.
 
-3. **Vì sao chương trình MBA truyền thống bị coi là khoản đầu tư tồi?** Vì ba lẽ. Một, chi phí: 15 chương trình hàng đầu năm 2010 thu 40.000–50.000 USD/năm, tổng cộng 125.000–200.000 USD kể cả sinh hoạt phí; Schraga tính NPV của MBA trường hàng đầu là khoảng −53.000 USD và cần 12 năm để hoà vốn; nợ sinh viên ở Mỹ không được xoá khi phá sản. Hai, nội dung: chương trình sinh ra từ thời Cách mạng công nghiệp, đặt nặng vận hành quy mô lớn, khuyến khích tài chính theo kiểu Pavlov–Skinner, thị phần, sáp nhập, công thức tài chính và đòn bẩy nợ, trong khi doanh nghiệp nhỏ chiếm 99,7% số doanh nghiệp có thuê lao động ở Mỹ. Ba, kết quả: trường tinh hoa chỉ nhận người vốn đã có nhiều khả năng thành công rồi nhận công; Pfeffer và Fong không thấy bằng hay điểm số liên quan tới thành công nghề nghiệp; lợi thế tiếp cận nhà tuyển dụng phai dần sau 3–5 năm.
+   Ngoại lệ duy nhất: ai muốn vào ngay ngân hàng đầu tư, hãng tư vấn quản lý hay đường thăng tiến nhanh ở các tập đoàn Fortune 50 thì MBA trường hàng đầu là cách "mua quyền được phỏng vấn", với giá khoảng 150.000 USD.
+
+2. **Một doanh nghiệp, về bản chất, là gì?** Doanh nghiệp thành công là một tổ chức (1) tạo ra hoặc cung cấp thứ có giá trị, (2) mà người khác muốn hoặc cần, (3) ở mức giá họ sẵn lòng trả, (4) theo cách đáp ứng nhu cầu và kỳ vọng của người mua, và (5) đem lại đủ doanh thu để chủ thấy đáng tiếp tục. Thiếu một yếu tố thì không còn là doanh nghiệp.
+
+   Mỗi yếu tố kéo theo một chức năng: nghiên cứu thị trường, marketing, chuyển giao giá trị và vận hành, dịch vụ khách hàng, tài chính. Ngoài ra doanh nghiệp đứng trên hai nền tảng: con người (ai lập ra, ai được phục vụ, họ nghĩ và quyết định thế nào) và hệ thống (các quy trình lặp lại đáng tin cậy gắn doanh nghiệp lại). Định nghĩa này là khung của cả cuốn sách.
+
+3. **Vì sao chương trình MBA truyền thống bị coi là khoản đầu tư tồi?** Vì ba lẽ. Một, chi phí: 15 chương trình hàng đầu năm 2010 thu 40.000–50.000 USD/năm, tổng cộng 125.000–200.000 USD kể cả sinh hoạt phí; Schraga tính NPV của MBA trường hàng đầu là khoảng −53.000 USD và cần 12 năm để hoà vốn; nợ sinh viên ở Mỹ không được xoá khi phá sản.
+
+   Hai, nội dung: chương trình sinh ra từ thời Cách mạng công nghiệp, đặt nặng vận hành quy mô lớn, khuyến khích tài chính theo kiểu Pavlov–Skinner, thị phần, sáp nhập, công thức tài chính và đòn bẩy nợ, trong khi doanh nghiệp nhỏ chiếm 99,7% số doanh nghiệp có thuê lao động ở Mỹ.
+
+   Ba, kết quả: trường tinh hoa chỉ nhận người vốn đã có nhiều khả năng thành công rồi nhận công; Pfeffer và Fong không thấy bằng hay điểm số liên quan tới thành công nghề nghiệp; lợi thế tiếp cận nhà tuyển dụng phai dần sau 3–5 năm.
 
 ## Khái niệm cần biết
 
@@ -889,7 +914,9 @@ Cuối cùng Kaufman quyết định bỏ qua trường kinh doanh nhưng không
 
 Kaufman luôn đọc ngấu nghiến, nhưng trước khi quyết tâm học kinh doanh, ông gần như chỉ đọc tiểu thuyết. Ông lớn lên ở New London, một thị trấn nông nghiệp nhỏ ở bắc Ohio, kinh tế dựa vào nông nghiệp và điện năng. Mẹ ông là thủ thư ở thư viện thiếu nhi; bố ông là giáo viên khoa học lớp 5 rồi hiệu trưởng trường tiểu học. Sách là một phần cuộc sống, kinh doanh thì không. Trước công việc nghiêm túc đầu tiên, ông không biết công ty là gì hay vận hành thế nào; ông nghĩ đó là nơi người ta đến từ thứ hai đến thứ sáu rồi nhận lương, và không hề biết có những công ty như P&G cho tới khi nộp đơn vào vị trí đưa ông vào giới doanh nghiệp.
 
-Làm việc ở P&G giống như theo học một chương trình. Quy mô và định hướng của doanh nghiệp, cùng độ phức tạp của việc điều hành một công ty cỡ đó, làm ông choáng ngợp. Trong ba năm đầu, ông tham gia quyết định ở mọi khâu: tạo sản phẩm mới, tăng sản lượng, phân bổ các chiến dịch marketing hàng triệu USD, củng cố mạng lưới phân phối với các nhà bán lẻ lớn như Walmart, Target, Kroger, Costco. Là trợ lý quản lý nhãn hàng, ông điều phối các nhóm 30–40 người gồm nhân viên, nhà thầu và nhân sự các phòng ban, những người tranh giành nhau về dự án, kế hoạch và ưu tiên. Rủi ro lớn và áp lực căng thẳng. Đến nay ông vẫn kinh ngạc trước hàng nghìn giờ công, hàng triệu USD và những quy trình cực kỳ phức tạp cần có để một chai nước rửa bát xuất hiện trên kệ siêu thị gần nhà: mọi thứ đều được tối ưu, từ hình dáng chai, mùi hương sản phẩm, đến chữ in trên thùng carton đóng hàng giao cho cửa hàng.
+Làm việc ở P&G giống như theo học một chương trình. Quy mô và định hướng của doanh nghiệp, cùng độ phức tạp của việc điều hành một công ty cỡ đó, làm ông choáng ngợp. Trong ba năm đầu, ông tham gia quyết định ở mọi khâu: tạo sản phẩm mới, tăng sản lượng, phân bổ các chiến dịch marketing hàng triệu USD, củng cố mạng lưới phân phối với các nhà bán lẻ lớn như Walmart, Target, Kroger, Costco.
+
+Là trợ lý quản lý nhãn hàng, ông điều phối các nhóm 30–40 người gồm nhân viên, nhà thầu và nhân sự các phòng ban, những người tranh giành nhau về dự án, kế hoạch và ưu tiên. Rủi ro lớn và áp lực căng thẳng. Đến nay ông vẫn kinh ngạc trước hàng nghìn giờ công, hàng triệu USD và những quy trình cực kỳ phức tạp cần có để một chai nước rửa bát xuất hiện trên kệ siêu thị gần nhà: mọi thứ đều được tối ưu, từ hình dáng chai, mùi hương sản phẩm, đến chữ in trên thùng carton đóng hàng giao cho cửa hàng.
 
 Song song với công việc, quyết định tự học kinh doanh từ một dự án phụ trở thành nỗi ám ảnh. Ông dành hàng giờ, hàng ngày đọc và tìm hiểu những mảng kiến thức mới để hiểu thế giới doanh nghiệp. Mùa hè năm tốt nghiệp, thay vì nghỉ ngơi, ông lục tung khu sách kinh doanh ở hiệu sách địa phương và đọc mọi thứ vớ được. Khi chính thức đi làm toàn thời gian ở P&G vào tháng 9/2005, ông đã đọc hàng trăm cuốn sách về các môn trường kinh doanh dạy, và cả những môn trường bỏ qua như tâm lý học, vật lý và lý thuyết hệ thống, và thấy mình đủ sức đối đầu với những người giỏi nhất.
 
@@ -929,7 +956,9 @@ Một buổi sáng, Godin bình luận một tin vừa lên báo: Harvard đã t
 
 Godin, thay vì phẫn nộ, nhìn chuyện theo góc khác (điều không lạ với ông): Harvard đã tặng quà cho các ứng viên ấy. Khi từ chối, trường trả lại cho họ 150.000 USD và hai năm cuộc đời lẽ ra dùng để lấy một tờ giấy gần như vô dụng. Godin viết rằng ông rất khó hiểu vì sao lấy MBA lại được coi là cách dùng thời gian và tiền tốt nhất, thay vì kết hợp kinh nghiệm với đọc kỹ khoảng 30–40 cuốn sách.
 
-Kaufman nghĩ: "Đó đúng là việc mình đang làm!" Ông mất hai ngày lập danh sách những cuốn sách và nguồn có ích nhất cho việc tự học, đăng lên blog kèm đường dẫn tới bài của Godin cho ai muốn thực hành đề xuất ấy, rồi gửi một email ngắn cho Godin kèm đường dẫn. Hai phút sau, blog của Godin đăng bài khuyên đọc danh sách của Kaufman, và lượng độc giả khắp thế giới đổ về website của ông. Các blog nổi tiếng về phát triển bản thân và năng suất như Lifehacker.com đưa tin, câu chuyện lên các mạng xã hội Reddit, Digg, Delicious. Tuần đầu tiên, 30.000 người ghé thăm. Hơn thế, họ bắt đầu bình luận: có người hỏi nên bắt đầu từ đâu, có người giới thiệu thêm sách hay, có người bảo dự án ngây thơ và phí thời gian. Kaufman vẫn tiếp tục đọc và xây MBA cá nhân trong thời gian rảnh, và phong trào tự học kinh doanh lớn dần như quả cầu tuyết.
+Kaufman nghĩ: "Đó đúng là việc mình đang làm!" Ông mất hai ngày lập danh sách những cuốn sách và nguồn có ích nhất cho việc tự học, đăng lên blog kèm đường dẫn tới bài của Godin cho ai muốn thực hành đề xuất ấy, rồi gửi một email ngắn cho Godin kèm đường dẫn. Hai phút sau, blog của Godin đăng bài khuyên đọc danh sách của Kaufman, và lượng độc giả khắp thế giới đổ về website của ông. Các blog nổi tiếng về phát triển bản thân và năng suất như Lifehacker.com đưa tin, câu chuyện lên các mạng xã hội Reddit, Digg, Delicious.
+
+Tuần đầu tiên, 30.000 người ghé thăm. Hơn thế, họ bắt đầu bình luận: có người hỏi nên bắt đầu từ đâu, có người giới thiệu thêm sách hay, có người bảo dự án ngây thơ và phí thời gian. Kaufman vẫn tiếp tục đọc và xây MBA cá nhân trong thời gian rảnh, và phong trào tự học kinh doanh lớn dần như quả cầu tuyết.
 
 Kết quả: rất nhiều người khắp thế giới đã đọc "Tuyên ngôn MBA cá nhân", bài luận ông viết để giới thiệu dự án cho người mới; bài có hàng trăm nghìn lượt xem và năm năm liền nằm trong top 10 tuyên ngôn được đọc nhiều nhất trên ChangeThis.com. *BusinessWeek* đã điểm danh sách sách của ông, danh sách được cập nhật hằng năm từ 2005. Mỗi ngày, hàng nghìn người tự học khắp thế giới giúp nhau học trên các diễn đàn cộng đồng MBA cá nhân. Trong thời gian ngắn, dự án cá nhân trở thành một phong trào toàn cầu; đó là lúc Kaufman rời P&G để dồn sức xây dựng MBA cá nhân và làm việc với khách hàng toàn thời gian.
 
@@ -939,7 +968,9 @@ Nhưng ông sớm nhận ra một danh sách sách là không đủ. Người ta
 
 Đề từ của Charles T. Munger (đối tác của Warren Buffett, chủ tịch Wesco Financial, phó chủ tịch Berkshire Hathaway): không thể chối cãi rằng não người làm việc bằng mô hình; mẹo là làm cho não mình làm việc tốt hơn não người khác nhờ hiểu những mô hình cốt yếu, những mô hình gánh phần lớn công việc.
 
-Kaufman lần đầu thấy tiềm năng của MBA cá nhân khi khám phá công trình của Munger. Theo sách: Munger sinh ở Omaha, Nebraska, ngay trước Đại suy thoái; thời trung học hay trốn giờ thể dục để đọc sách vì tò mò về thế giới. Việc kinh doanh đầu tiên của ông là làm ở một cửa hàng tạp hoá gia đình với 2 USD/ngày. Năm 1941 ông tốt nghiệp trung học, học toán và vật lý ở ĐH Michigan vài năm, rồi nhập ngũ Không quân và được đào tạo thành khí tượng viên. Năm 1946, rời quân ngũ, ông được nhận vào trường Luật Harvard dù không có bằng cử nhân, điều mà thời đó cũng không bắt buộc. Ông tốt nghiệp luật năm 1948 và hành nghề luật sư 17 năm. Năm 1965 ông rời văn phòng luật để lập một quỹ đầu tư, quỹ này vượt thị trường 14%/năm (tính kép) trong hơn 14 năm, một thành tích đáng kinh ngạc với người không được đào tạo về kinh doanh.
+Kaufman lần đầu thấy tiềm năng của MBA cá nhân khi khám phá công trình của Munger. Theo sách: Munger sinh ở Omaha, Nebraska, ngay trước Đại suy thoái; thời trung học hay trốn giờ thể dục để đọc sách vì tò mò về thế giới. Việc kinh doanh đầu tiên của ông là làm ở một cửa hàng tạp hoá gia đình với 2 USD/ngày. Năm 1941 ông tốt nghiệp trung học, học toán và vật lý ở ĐH Michigan vài năm, rồi nhập ngũ Không quân và được đào tạo thành khí tượng viên.
+
+Năm 1946, rời quân ngũ, ông được nhận vào trường Luật Harvard dù không có bằng cử nhân, điều mà thời đó cũng không bắt buộc. Ông tốt nghiệp luật năm 1948 và hành nghề luật sư 17 năm. Năm 1965 ông rời văn phòng luật để lập một quỹ đầu tư, quỹ này vượt thị trường 14%/năm (tính kép) trong hơn 14 năm, một thành tích đáng kinh ngạc với người không được đào tạo về kinh doanh.
 
 Tên Munger không gợi ngay tới kinh doanh, nhưng tên đối tác của ông, Warren Buffett, thì ai cũng biết. Theo sách, Buffett và Munger mua Berkshire Hathaway, một nhà máy dệt gặp khó khăn tài chính, và biến nó thành tập đoàn đầu tư, khiến cả hai thành tỷ phú. Buffett cho rằng cách tiếp cận kinh doanh dựa trên mô hình tư duy của Munger là yếu tố quyết định trong thành công của Berkshire: Munger có thể phân tích và đánh giá bất kỳ doanh nghiệp nào nhanh và chính xác hơn bất kỳ ai còn sống, thấy điểm yếu chí mạng trong 60 giây, là đối tác hoàn hảo. (Chú thích của tác giả: câu này lấy từ sách của Janet Lowe, *Damn Right: Behind the Scenes with Berkshire Hathaway Billionaire Charlie Munger*, Wiley, 2003.)
 
@@ -951,7 +982,9 @@ Bí quyết của Munger là cách hiểu có hệ thống về cách doanh nghi
 
 Dựa vào hiểu biết rộng về cách doanh nghiệp, con người và hệ thống vận hành để quyết định đầu tư, Buffett và Munger tạo ra một công ty trị giá hơn 195 tỷ USD, một kỷ lục ấn tượng với một khí tượng viên từ Omaha học luật và chưa từng học kinh doanh.
 
-Phát hiện này là cú hích lớn cho Kaufman: ông đã tìm thấy một người, vài thập kỷ trước, quyết định làm đúng việc ông đang làm, và thành công rực rỡ. Phương pháp của Munger (xác định và áp dụng các nguyên lý nền tảng) hợp lý với ông hơn phần lớn sách kinh doanh ông từng đọc, và ông quyết định học mọi thứ có thể về các mô hình tư duy Munger dùng. Tiếc là Munger chưa công bố toàn bộ các mô hình của mình; ông chỉ gợi ý trong các bài nói, bài viết, và có công bố danh sách các nguyên lý tâm lý ông thấy hữu ích nhất trong *Poor Charlie's Almanack*, nhưng không văn bản nào chứa "mọi điều cần biết để thành công trong kinh doanh". Muốn hiểu các nguyên lý đứng sau một người kinh doanh thành công, Kaufman phải tự khám phá, nghĩa là phải xây lại cách hiểu kinh doanh của mình từ đầu.
+Phát hiện này là cú hích lớn cho Kaufman: ông đã tìm thấy một người, vài thập kỷ trước, quyết định làm đúng việc ông đang làm, và thành công rực rỡ. Phương pháp của Munger (xác định và áp dụng các nguyên lý nền tảng) hợp lý với ông hơn phần lớn sách kinh doanh ông từng đọc, và ông quyết định học mọi thứ có thể về các mô hình tư duy Munger dùng.
+
+Tiếc là Munger chưa công bố toàn bộ các mô hình của mình; ông chỉ gợi ý trong các bài nói, bài viết, và có công bố danh sách các nguyên lý tâm lý ông thấy hữu ích nhất trong *Poor Charlie's Almanack*, nhưng không văn bản nào chứa "mọi điều cần biết để thành công trong kinh doanh". Muốn hiểu các nguyên lý đứng sau một người kinh doanh thành công, Kaufman phải tự khám phá, nghĩa là phải xây lại cách hiểu kinh doanh của mình từ đầu.
 
 ### 11. Nối các dấu chấm (Unir la línea de puntos)
 
@@ -975,7 +1008,9 @@ Bỏ đi bất kỳ yếu tố nào (tạo giá trị, nhu cầu của khách, g
 
 Không chức năng nào đòi hỏi thiên tài, và chức năng nào cũng cần, bất kể bạn là ai hay kinh doanh gì. Làm tốt thì doanh nghiệp phát đạt; làm kém thì không trụ lâu.
 
-Doanh nghiệp còn dựa trên hai yếu tố nữa: **con người** và **hệ thống**. Con người lập ra doanh nghiệp, và doanh nghiệp tồn tại nhờ đem lợi ích cho người khác; muốn hiểu doanh nghiệp phải hiểu sâu cách người ta nghĩ, hành xử, quyết định, hành động theo quyết định và giao tiếp với nhau. Các phát hiện mới trong tâm lý học và khoa học thần kinh cho thấy vì sao người ta hành động như vậy, và cách cải thiện hành vi của mình để làm việc hiệu quả hơn với người khác. Hệ thống là những cấu trúc vô hình gắn kết doanh nghiệp; ở tầng sâu nhất, doanh nghiệp là tập hợp các quy trình lặp lại được một cách đáng tin cậy để đạt một kết quả cụ thể. Hiểu cái căn bản về hệ thống phức tạp thì tìm ra nhiều cách cải thiện hệ thống hiện có, dù đó là một chiến dịch marketing hay một dây chuyền lắp ráp ô tô.
+Doanh nghiệp còn dựa trên hai yếu tố nữa: **con người** và **hệ thống**. Con người lập ra doanh nghiệp, và doanh nghiệp tồn tại nhờ đem lợi ích cho người khác; muốn hiểu doanh nghiệp phải hiểu sâu cách người ta nghĩ, hành xử, quyết định, hành động theo quyết định và giao tiếp với nhau. Các phát hiện mới trong tâm lý học và khoa học thần kinh cho thấy vì sao người ta hành động như vậy, và cách cải thiện hành vi của mình để làm việc hiệu quả hơn với người khác.
+
+Hệ thống là những cấu trúc vô hình gắn kết doanh nghiệp; ở tầng sâu nhất, doanh nghiệp là tập hợp các quy trình lặp lại được một cách đáng tin cậy để đạt một kết quả cụ thể. Hiểu cái căn bản về hệ thống phức tạp thì tìm ra nhiều cách cải thiện hệ thống hiện có, dù đó là một chiến dịch marketing hay một dây chuyền lắp ráp ô tô.
 
 Trước khi viết sách, Kaufman dành vài năm kiểm nghiệm các nguyên lý với khách hàng và độc giả. Hiểu và áp dụng các "mô hình tư duy kinh doanh" này đã giúp họ chuyển nghề thành công, nhận lời mời làm việc từ các tổ chức danh tiếng trong giới doanh nghiệp và học thuật, được thăng chức, mở doanh nghiệp, và trong nhiều trường hợp đi trọn quy trình phát triển sản phẩm (từ ý tưởng tới lần bán đầu tiên) trong chưa đầy bốn tuần. Theo ông, các khái niệm này quan trọng vì chúng hiệu quả.
 
@@ -1007,7 +1042,11 @@ Thay vì tiêu những khoản tiền lớn để học thứ ít hữu ích, h�
 
 Đề từ từ *Hamlet* của Shakespeare: bản chất của kẻ tham vọng chỉ là cái bóng của một giấc mơ.
 
-Dễ hiểu vì sao trường kinh doanh hấp dẫn: nó được bán như tấm vé một chiều tới cuộc đời sung túc, thoải mái mãi mãi. Giấc mơ được vẽ ra: sau hai năm làm bài vở cộng thêm vài giờ "xây dựng quan hệ", người săn nhân tài sẽ lao tới mời một vị trí danh giá, lương cực cao ở một công ty hàng đầu. Bạn sẽ thăng tiến nhanh và chắc, thành "thuyền trưởng của ngành công nghiệp", nhận thưởng hậu hĩnh, ngồi sau bàn gỗ gụ ở văn phòng góc tầng thượng của một toà tháp kính khổng lồ mà tính giá trị quyền chọn cổ phiếu; làm sếp lớn sai bảo người khác cho đến giờ đi đánh golf hay thư giãn trên du thuyền; được chiêu đãi khắp thế giới, nhân viên tôn sùng; ai cũng nghĩ bạn giàu, thông minh, quyền lực, và họ đúng. Cái giá cho lời hứa giàu sang, quyền lực, vinh quang ấy: vài nghìn USD học phí, một chữ ký nhỏ trên khoản vay ngân hàng, rồi thẳng tới đỉnh, lại thêm hai năm "nghỉ phép" không phải làm việc nghiêm túc. Kaufman giễu: một món hời ấn tượng. Tiếc là mơ giữa ban ngày khác hẳn sống trong đời thực.
+Dễ hiểu vì sao trường kinh doanh hấp dẫn: nó được bán như tấm vé một chiều tới cuộc đời sung túc, thoải mái mãi mãi. Giấc mơ được vẽ ra: sau hai năm làm bài vở cộng thêm vài giờ "xây dựng quan hệ", người săn nhân tài sẽ lao tới mời một vị trí danh giá, lương cực cao ở một công ty hàng đầu.
+
+Bạn sẽ thăng tiến nhanh và chắc, thành "thuyền trưởng của ngành công nghiệp", nhận thưởng hậu hĩnh, ngồi sau bàn gỗ gụ ở văn phòng góc tầng thượng của một toà tháp kính khổng lồ mà tính giá trị quyền chọn cổ phiếu; làm sếp lớn sai bảo người khác cho đến giờ đi đánh golf hay thư giãn trên du thuyền; được chiêu đãi khắp thế giới, nhân viên tôn sùng; ai cũng nghĩ bạn giàu, thông minh, quyền lực, và họ đúng.
+
+Cái giá cho lời hứa giàu sang, quyền lực, vinh quang ấy: vài nghìn USD học phí, một chữ ký nhỏ trên khoản vay ngân hàng, rồi thẳng tới đỉnh, lại thêm hai năm "nghỉ phép" không phải làm việc nghiêm túc. Kaufman giễu: một món hời ấn tượng. Tiếc là mơ giữa ban ngày khác hẳn sống trong đời thực.
 
 ### 16. Tiền của bạn và cuộc đời bạn (Su dinero y su vida)
 
@@ -1056,7 +1095,9 @@ Kaufman kết: lời khôn ngoan; nếu không cần tấm bằng, đừng ghi d
 
 Trong nghiên cứu "The End of Business Schools? Less Success Than Meets the Eye" đăng trên tạp chí *Academy of Management Learning & Education*, Jeffrey Pfeffer (ĐH Stanford) và Christina Fong (ĐH Washington) phân tích bốn mươi năm dữ liệu để tìm bằng chứng rằng trường kinh doanh làm nên thành công của người tốt nghiệp. Giả thuyết của họ rõ ràng: nếu giáo dục MBA có ích cho kinh doanh thì về logic, (1) có bằng MBA phải gắn với các thước đo thành công nghề nghiệp như lương, khi các yếu tố khác không đổi; và (2) nếu điều học ở trường giúp người ta chuẩn bị tốt hơn và giỏi hơn trong kinh doanh, thì thước đo mức nắm vững kiến thức, như điểm số các môn học, phải phần nào dự báo được thành công.
 
-Kết quả gây kinh ngạc và đáng lo: theo Kaufman, trường kinh doanh gần như không làm gì ngoài việc làm tiền trong túi sinh viên biến mất. Các tác giả kết luận rằng trường kinh doanh không hiệu quả lắm: cả bằng MBA lẫn điểm cao đều không liên quan gì đến thành công nghề nghiệp, điều này đặt dấu hỏi về hiệu quả chuẩn bị cho sinh viên; và không có bằng chứng rằng học ở trường kinh doanh ảnh hưởng tới thực hành quản lý, nên ý tưởng rằng đào tạo kinh doanh có giá trị nghề nghiệp cũng bị nghi ngờ. Dù bạn đứng đầu lớp, tốt nghiệp loại xuất sắc, hay đứng cuối và đỗ vớt, có MBA cũng không liên quan tới thành công nghề nghiệp dài hạn. Không chút nào. Theo nghiên cứu, không có gì cho thấy bằng MBA, nhất là bằng của các trường ngoài nhóm tinh hoa, hay điểm số trong khoá học có liên quan tới lương hay việc nắm giữ vị trí cấp cao trong tổ chức; tối thiểu, dữ liệu gợi ý rằng phần giáo dục trong đào tạo kinh doanh không đi cùng với thực tế quản lý tổ chức.
+Kết quả gây kinh ngạc và đáng lo: theo Kaufman, trường kinh doanh gần như không làm gì ngoài việc làm tiền trong túi sinh viên biến mất. Các tác giả kết luận rằng trường kinh doanh không hiệu quả lắm: cả bằng MBA lẫn điểm cao đều không liên quan gì đến thành công nghề nghiệp, điều này đặt dấu hỏi về hiệu quả chuẩn bị cho sinh viên; và không có bằng chứng rằng học ở trường kinh doanh ảnh hưởng tới thực hành quản lý, nên ý tưởng rằng đào tạo kinh doanh có giá trị nghề nghiệp cũng bị nghi ngờ.
+
+Dù bạn đứng đầu lớp, tốt nghiệp loại xuất sắc, hay đứng cuối và đỗ vớt, có MBA cũng không liên quan tới thành công nghề nghiệp dài hạn. Không chút nào. Theo nghiên cứu, không có gì cho thấy bằng MBA, nhất là bằng của các trường ngoài nhóm tinh hoa, hay điểm số trong khoá học có liên quan tới lương hay việc nắm giữ vị trí cấp cao trong tổ chức; tối thiểu, dữ liệu gợi ý rằng phần giáo dục trong đào tạo kinh doanh không đi cùng với thực tế quản lý tổ chức.
 
 Thật khó nghe khi đã chi hơn 100.000 USD cho một tấm bằng mà mục đích duy nhất là biến mình thành người thành công. Tệ hơn, MBA thậm chí không làm thay đổi tổng thu nhập trọn đời một cách đáng kể, trong khi phải làm nhiều chục năm để trả nợ. Schraga tính **giá trị hiện tại ròng** (kỹ thuật phân tích tài chính dùng để xét một khoản đầu tư có đáng không) của chương trình MBA tốt nhất trong khoảng mười năm, với các giả định sau:
 
@@ -1081,7 +1122,9 @@ Xem chương trình học của bất kỳ trường kinh doanh nào sẽ thấy
 
 Sự lệch giữa trường và doanh nghiệp dễ hiểu khi nhận ra các khái niệm, nguyên lý, kỹ thuật được dạy ở phần lớn trường kinh doanh được thiết kế cho một thế giới rất khác. Trường kinh doanh đại học nở rộ cuối thế kỷ 19, thời Cách mạng công nghiệp. Mục đích của các chương trình MBA đầu tiên là đào tạo người quản lý thành chuyên gia để vận hành các hoạt động quy mô lớn hiệu quả hơn.
 
-Frederick Winslow Taylor, người tiên phong của "quản lý khoa học", nền tảng của giáo dục quản trị hiện đại, dùng đồng hồ bấm giờ để giảm vài giây thời gian trung bình một công nhân chuyển thỏi gang lên toa tàu. Theo Kaufman, đây là ví dụ khá tiêu biểu cho lối nghĩ thống trị phần lớn chương trình quản trị ở trường kinh doanh. Quản trị doanh nghiệp được hiểu là làm sao cho người ta làm nhanh hơn và làm đúng như được yêu cầu. Những người truyền cảm hứng chính cho tâm lý học quản trị là Ivan Pavlov và sau đó B. F. Skinner; cả hai tin rằng nếu tìm ra và áp dụng đúng kích thích, con người sẽ hành xử như ta muốn. Lối nghĩ này dẫn đến việc dùng tràn lan khuyến khích kinh tế để tác động hành vi (lương, thưởng, quyền chọn cổ phiếu...) nhằm thúc người làm và nhà quản lý hành động vì lợi ích của cổ đông.
+Frederick Winslow Taylor, người tiên phong của "quản lý khoa học", nền tảng của giáo dục quản trị hiện đại, dùng đồng hồ bấm giờ để giảm vài giây thời gian trung bình một công nhân chuyển thỏi gang lên toa tàu. Theo Kaufman, đây là ví dụ khá tiêu biểu cho lối nghĩ thống trị phần lớn chương trình quản trị ở trường kinh doanh. Quản trị doanh nghiệp được hiểu là làm sao cho người ta làm nhanh hơn và làm đúng như được yêu cầu.
+
+Những người truyền cảm hứng chính cho tâm lý học quản trị là Ivan Pavlov và sau đó B. F. Skinner; cả hai tin rằng nếu tìm ra và áp dụng đúng kích thích, con người sẽ hành xử như ta muốn. Lối nghĩ này dẫn đến việc dùng tràn lan khuyến khích kinh tế để tác động hành vi (lương, thưởng, quyền chọn cổ phiếu...) nhằm thúc người làm và nhà quản lý hành động vì lợi ích của cổ đông.
 
 Ngày càng có nhiều bằng chứng cho thấy khuyến khích trực tiếp thường làm suy giảm hiệu suất, động lực và sự hài lòng với công việc trong thực tế. (Chú thích của tác giả: xem sách của Daniel Pink, *Drive*, bản TBN *La sorprendente verdad sobre qué nos motiva*, 2010.) Dù có những lý thuyết khác về hoạt động con người hữu ích hơn (Chú thích của tác giả: trong đó có lý thuyết kiểm soát tri giác, sẽ bàn ở chương 7), việc đi tìm "kích thích thần kỳ" vẫn còn trong lớp học của trường kinh doanh.
 
@@ -1089,15 +1132,21 @@ Ngày càng có nhiều bằng chứng cho thấy khuyến khích trực tiếp 
 
 Đề từ của Bruce Lee: bất kỳ kỹ thuật nào, dù tốt và đáng mong muốn đến đâu, cũng thành phản tác dụng khi ta bị ám ảnh bởi nó.
 
-Marketing ban đầu là cách để phân phối hàng hoá vật chất tốt hơn và giữ dây chuyền sản xuất công nghiệp đắt tiền chạy hết công suất. Đầu thế kỷ 20, với radio và truyền hình, có thể quảng cáo tới công chúng rộng lớn, mở đường cho các nhãn hiệu và nhà bán lẻ toàn quốc. Đầu tư vào quảng cáo làm tăng phân phối, phân phối tăng làm tăng doanh số, doanh số tăng đem lại thêm tiền cho quảng cáo, và vòng tròn khép lại. Sau vài thập kỷ, vòng tự củng cố này sinh ra vài "đế chế" thống trị các ngành. Trường kinh doanh nhanh chóng bị ám ảnh bởi việc giành thị phần và tạo ra các công ty khổng lồ bằng các vụ sáp nhập ngày càng lớn; mỗi lần mua thêm một công ty, phần vốn tài chính dính vào lại tăng.
+Marketing ban đầu là cách để phân phối hàng hoá vật chất tốt hơn và giữ dây chuyền sản xuất công nghiệp đắt tiền chạy hết công suất. Đầu thế kỷ 20, với radio và truyền hình, có thể quảng cáo tới công chúng rộng lớn, mở đường cho các nhãn hiệu và nhà bán lẻ toàn quốc. Đầu tư vào quảng cáo làm tăng phân phối, phân phối tăng làm tăng doanh số, doanh số tăng đem lại thêm tiền cho quảng cáo, và vòng tròn khép lại. Sau vài thập kỷ, vòng tự củng cố này sinh ra vài "đế chế" thống trị các ngành.
 
-Với người kinh doanh, vốn đã thành yếu tố cốt yếu của quy trình kinh doanh: không có vốn thì làm sao xây nhà máy hay nhãn hiệu toàn quốc trong vài năm? Sự xuất hiện của "kinh tế nhờ quy mô" trong sản xuất nghĩa là công ty lớn có thể đánh bại đối thủ nhỏ bằng sản phẩm tương tự với giá thấp hơn. Nhà đầu tư muốn lợi nhuận nhanh, bất chấp rủi ro, và thưởng cho những người làm kế hoạch kinh doanh có kết quả ngoạn mục trong thời gian rất ngắn. Những doanh nghiệp đang sống tốt bị mua và sáp nhập nhân danh "tập đoàn hoá" và "cộng hưởng", với sự chúc phúc của giới học thuật kinh doanh. Việc tích hợp những hệ thống kinh doanh khổng lồ và phức tạp bị bỏ qua hay né tránh, và điều đó đưa phần lớn các công ty lao vào những vụ đại sáp nhập tới đổ vỡ.
+Trường kinh doanh nhanh chóng bị ám ảnh bởi việc giành thị phần và tạo ra các công ty khổng lồ bằng các vụ sáp nhập ngày càng lớn; mỗi lần mua thêm một công ty, phần vốn tài chính dính vào lại tăng.
+
+Với người kinh doanh, vốn đã thành yếu tố cốt yếu của quy trình kinh doanh: không có vốn thì làm sao xây nhà máy hay nhãn hiệu toàn quốc trong vài năm? Sự xuất hiện của "kinh tế nhờ quy mô" trong sản xuất nghĩa là công ty lớn có thể đánh bại đối thủ nhỏ bằng sản phẩm tương tự với giá thấp hơn. Nhà đầu tư muốn lợi nhuận nhanh, bất chấp rủi ro, và thưởng cho những người làm kế hoạch kinh doanh có kết quả ngoạn mục trong thời gian rất ngắn.
+
+Những doanh nghiệp đang sống tốt bị mua và sáp nhập nhân danh "tập đoàn hoá" và "cộng hưởng", với sự chúc phúc của giới học thuật kinh doanh. Việc tích hợp những hệ thống kinh doanh khổng lồ và phức tạp bị bỏ qua hay né tránh, và điều đó đưa phần lớn các công ty lao vào những vụ đại sáp nhập tới đổ vỡ.
 
 ### 21. Đùa với lửa (Jugar con fuego)
 
 Đề từ của Warren Buffett: hãy coi chừng những thiên tài cắp công thức dưới nách.
 
-Trong khi đó, thế giới tài chính ngày càng phức tạp. Trước thế kỷ 20, kế toán và tài chính là chuyện của lẽ thường, với số học khá đơn giản. Việc áp dụng rộng rãi kế toán kép (một đổi mới từ thế kỷ 13) đem lại lợi ích lớn, tăng độ chính xác và giúp dễ phát hiện bất thường như biển thủ. Việc đưa thống kê vào thực hành tài chính đồng thời tăng năng lực phân tích, nhưng phải trả giá bằng độ trừu tượng cao hơn và nhiều cơ hội xào nấu số liệu mà không ai hay. Dần dần, các nhà quản lý và lãnh đạo dùng thống kê và phân tích để dự báo tương lai, tin vào cơ sở dữ liệu và bảng tính gần giống cách thầy bói tin vào lá trà và ruột thú vật. Thế giới ngày nay không bớt khó đoán hay bất định: như xưa, các dấu hiệu chỉ phản ánh định kiến và mong muốn của người đoán.
+Trong khi đó, thế giới tài chính ngày càng phức tạp. Trước thế kỷ 20, kế toán và tài chính là chuyện của lẽ thường, với số học khá đơn giản. Việc áp dụng rộng rãi kế toán kép (một đổi mới từ thế kỷ 13) đem lại lợi ích lớn, tăng độ chính xác và giúp dễ phát hiện bất thường như biển thủ. Việc đưa thống kê vào thực hành tài chính đồng thời tăng năng lực phân tích, nhưng phải trả giá bằng độ trừu tượng cao hơn và nhiều cơ hội xào nấu số liệu mà không ai hay.
+
+Dần dần, các nhà quản lý và lãnh đạo dùng thống kê và phân tích để dự báo tương lai, tin vào cơ sở dữ liệu và bảng tính gần giống cách thầy bói tin vào lá trà và ruột thú vật. Thế giới ngày nay không bớt khó đoán hay bất định: như xưa, các dấu hiệu chỉ phản ánh định kiến và mong muốn của người đoán.
 
 Độ phức tạp của giao dịch tài chính và các mô hình thống kê đằng sau chúng tăng mãi cho tới khi rất ít người hiểu hết cách chúng vận hành hay tôn trọng giới hạn của chúng. Theo bài "Recipe for Disaster: The Formula That Killed Wall Street" trên *Wired* tháng 2/2009, giới hạn cố hữu của một số công thức tài chính được tôn sùng (mô hình định giá quyền chọn Black-Scholes, hàm Gauss, mô hình định giá tài sản vốn CAPM) đã đóng vai trò quan trọng trong bong bóng công nghệ năm 2000 và các sai phạm trên thị trường nhà đất dẫn tới suy thoái 2008.
 
@@ -1108,7 +1157,11 @@ Học dùng công thức tài chính phức tạp không giống học điều h
 
 Kaufman nhận xét: rất dễ bỏ qua việc cải thiện quy trình kinh doanh khi mục tiêu là làm đẹp con số lợi nhuận ngắn hạn, dù cải tiến là thiết yếu cho sự sống còn dài hạn. Khi phớt lờ những yếu tố giúp doanh nghiệp vận hành hiệu quả hơn, các nhà điều hành được đào tạo quản trị kinh doanh vô tình phá huỷ những công ty đang sống tốt vì lợi nhuận trên mỗi cổ phiếu theo quý.
 
-Trong khi đó, việc dùng lượng nợ lớn làm **đòn bẩy** (Chú thích của tác giả: đòn bẩy là dùng nợ để khuếch đại tỷ suất sinh lời của một khoản đầu tư tài chính, với tác dụng phụ là khuếch đại rủi ro thiệt hại nếu doanh nghiệp không thành công; sẽ bàn chi tiết cùng tỷ suất sinh lời ở chương 6) sinh ra những công ty khổng lồ với nghĩa vụ nợ còn khổng lồ hơn, làm tăng lợi suất những năm thuận lợi nhưng cực kỳ bất ổn khi kinh tế xấu đi. Chiến lược mua lại công ty được dạy ở nhiều trường kinh doanh (mua một công ty, tài trợ mở rộng ồ ạt bằng nợ, rồi bán lại cho công ty khác kèm phần bù) đã biến những công ty tự chủ thành những con quái vật nợ phình to. Việc mua đi bán lại cùng một công ty qua nhiều tay đã đẩy thị trường tài chính vào trò chơi giành ghế. Khi phép màu tài chính và lợi nhuận ngắn hạn thắng sự thận trọng và việc tạo giá trị dài hạn, khách hàng và nhân viên gánh hậu quả. Người duy nhất được lợi là những người làm tài chính có MBA và các nhà quản lý danh mục, những người nhận hàng trăm nghìn USD phí giao dịch và lương trong khi phá huỷ những công ty đang sống tốt, hàng trăm nghìn việc làm và giá trị hàng triệu USD.
+Trong khi đó, việc dùng lượng nợ lớn làm **đòn bẩy** (Chú thích của tác giả: đòn bẩy là dùng nợ để khuếch đại tỷ suất sinh lời của một khoản đầu tư tài chính, với tác dụng phụ là khuếch đại rủi ro thiệt hại nếu doanh nghiệp không thành công; sẽ bàn chi tiết cùng tỷ suất sinh lời ở chương 6) sinh ra những công ty khổng lồ với nghĩa vụ nợ còn khổng lồ hơn, làm tăng lợi suất những năm thuận lợi nhưng cực kỳ bất ổn khi kinh tế xấu đi.
+
+Chiến lược mua lại công ty được dạy ở nhiều trường kinh doanh (mua một công ty, tài trợ mở rộng ồ ạt bằng nợ, rồi bán lại cho công ty khác kèm phần bù) đã biến những công ty tự chủ thành những con quái vật nợ phình to. Việc mua đi bán lại cùng một công ty qua nhiều tay đã đẩy thị trường tài chính vào trò chơi giành ghế.
+
+Khi phép màu tài chính và lợi nhuận ngắn hạn thắng sự thận trọng và việc tạo giá trị dài hạn, khách hàng và nhân viên gánh hậu quả. Người duy nhất được lợi là những người làm tài chính có MBA và các nhà quản lý danh mục, những người nhận hàng trăm nghìn USD phí giao dịch và lương trong khi phá huỷ những công ty đang sống tốt, hàng trăm nghìn việc làm và giá trị hàng triệu USD.
 
 Kết luận của mục: quản trị kinh doanh là tạo ra và trao giá trị cho khách hàng trả tiền, không phải dàn dựng gian lận dưới vỏ bọc hợp pháp; tiếc là trường kinh doanh đã ưu tiên dạy điều thứ hai hơn điều thứ nhất.
 
@@ -1127,7 +1180,9 @@ Thế giới thay đổi liên tục, nhưng trường kinh doanh không đổi 
 
 Nhìn chương trình học của trường kinh doanh thì không ai đoán được điều đó: theo khuôn mẫu hiện nay, phần lớn chương trình MBA truyền đạt ý rằng chỉ công ty lớn mới đáng điều hành.
 
-Những thay đổi khác: quảng cáo đại trà không còn biến xu thành đô một cách đáng tin cậy; tồn kho (nếu có) nhỏ hơn; doanh nghiệp dựa vào bên thứ ba để vận hành; thị trường thay đổi và thích nghi cực nhanh. Tốc độ, sự linh hoạt và óc sáng tạo là những đặc tính mà doanh nghiệp thành công ngày nay dựa vào, những đặc tính mà các tập đoàn khổng lồ mấy thập kỷ qua chật vật để có và giữ, còn trường kinh doanh thì cố dạy. Áp lực của thị trường chứng khoán buộc lãnh đạo chạy theo lợi nhuận ngắn hạn với cái giá là sự ổn định dài hạn, dẫn đến những đợt sa thải và cắt giảm ngân sách nặng nề khi khó khăn hay khi có biến cố. Ngày càng nhiều nhân viên muốn tự chủ, linh hoạt và an toàn hơn trong công việc, và họ tìm thấy những điều đó bên ngoài các vị trí truyền thống ở công ty. Kaufman hỏi: làm sao quản lý một người thật ra không muốn làm việc cho bạn?
+Những thay đổi khác: quảng cáo đại trà không còn biến xu thành đô một cách đáng tin cậy; tồn kho (nếu có) nhỏ hơn; doanh nghiệp dựa vào bên thứ ba để vận hành; thị trường thay đổi và thích nghi cực nhanh. Tốc độ, sự linh hoạt và óc sáng tạo là những đặc tính mà doanh nghiệp thành công ngày nay dựa vào, những đặc tính mà các tập đoàn khổng lồ mấy thập kỷ qua chật vật để có và giữ, còn trường kinh doanh thì cố dạy.
+
+Áp lực của thị trường chứng khoán buộc lãnh đạo chạy theo lợi nhuận ngắn hạn với cái giá là sự ổn định dài hạn, dẫn đến những đợt sa thải và cắt giảm ngân sách nặng nề khi khó khăn hay khi có biến cố. Ngày càng nhiều nhân viên muốn tự chủ, linh hoạt và an toàn hơn trong công việc, và họ tìm thấy những điều đó bên ngoài các vị trí truyền thống ở công ty. Kaufman hỏi: làm sao quản lý một người thật ra không muốn làm việc cho bạn?
 
 Chương trình MBA cố cầm cự, nhưng trường vẫn dạy những lý thuyết lỗi thời, lệch hướng, thậm chí sai rõ ràng. Và đừng mong thay đổi: tại sao trường phải bận tâm khi chương trình quản trị kinh doanh là biểu tượng uy tín sinh lời cao và vẫn có nhu cầu mạnh? Chừng nào sinh viên còn ghi danh, đừng mong giảng đường của trường kinh doanh đổi gió.
 
@@ -1145,7 +1200,9 @@ Bộ lọc MBA có sức nặng và khó vượt nếu đi một mình. Nếu b�
 
 Đề từ của Louis L'Amour (nhà văn và sử gia): bạn có đang ở nơi mình muốn ở nếu mọi việc không suôn sẻ?
 
-Giả sử bạn vượt qua và lấy được MBA. Nếu may, một hãng dịch vụ tài chính hay tư vấn lớn có thể tuyển bạn, nơi bạn có "đặc quyền" làm hơn 80 giờ mỗi tuần với khoảng 100.000 USD mỗi năm. Tiền tốt, nhưng cái giá là cuộc sống ngoài công việc, và áp lực rất lớn, liên tục. Dù không thích công việc, bạn cũng phải bám trụ nếu muốn trả các khoản nợ học và thu hồi khoản đầu tư. Kaufman mỉa: chúc mừng, nhờ trí thông minh của mình bạn đã tự kết án làm việc như nô lệ trong nhiều năm. Nếu làm tốt, bạn sẽ thành lãnh đạo, được tăng lương và có "đặc quyền" làm việc tới khoảng 100 giờ mỗi tuần. Tốt nhất là đừng bận tâm việc không được tận hưởng thành quả: lãnh đạo cấp cao là nhóm có tỷ lệ ly hôn và vấn đề gia đình cao nhất. Xin thì được, nhưng phải trả giá.
+Giả sử bạn vượt qua và lấy được MBA. Nếu may, một hãng dịch vụ tài chính hay tư vấn lớn có thể tuyển bạn, nơi bạn có "đặc quyền" làm hơn 80 giờ mỗi tuần với khoảng 100.000 USD mỗi năm. Tiền tốt, nhưng cái giá là cuộc sống ngoài công việc, và áp lực rất lớn, liên tục. Dù không thích công việc, bạn cũng phải bám trụ nếu muốn trả các khoản nợ học và thu hồi khoản đầu tư. Kaufman mỉa: chúc mừng, nhờ trí thông minh của mình bạn đã tự kết án làm việc như nô lệ trong nhiều năm.
+
+Nếu làm tốt, bạn sẽ thành lãnh đạo, được tăng lương và có "đặc quyền" làm việc tới khoảng 100 giờ mỗi tuần. Tốt nhất là đừng bận tâm việc không được tận hưởng thành quả: lãnh đạo cấp cao là nhóm có tỷ lệ ly hôn và vấn đề gia đình cao nhất. Xin thì được, nhưng phải trả giá.
 
 Nếu kém may hơn, bạn sẽ có một công việc trả chỉ hơn một chút so với khi không có MBA. Tệ hơn, nếu tốt nghiệp đúng lúc thị trường lao động yếu, có thể bạn phải trả 1.000 USD mỗi tháng tiền nợ mà không có việc để trả. Thị trường lao động khắc nghiệt không phải lý do để được miễn trả nợ sinh viên: ở Mỹ loại nợ này không được xoá kể cả khi tuyên bố phá sản. Dù chuyện gì xảy ra, khoản nợ vẫn ở đó nhắc bạn, và người đòi nợ sẽ bắt đầu gọi điện.
 
@@ -1155,7 +1212,9 @@ Kaufman nhắc lại điều ông không bao giờ mệt khi lặp: cách nhanh 
 
 Đề từ của Friedrich Nietzsche (tác giả *Ý chí quyền lực* và *Zarathustra đã nói như thế*): hãy giáo dục những nhà giáo dục! Nhưng trước hết họ phải tự giáo dục mình; tôi viết cho chính những người đó.
 
-May thay, người đọc có thể chọn tự học, một lựa chọn có thể đưa tới thành công dễ dàng như một người có MBA từ trường danh tiếng, mà không phải chi hơn một trăm nghìn USD. Học những điều căn bản của thực hành kinh doanh vững chắc và tự xây dựng mạng lưới quan hệ (Chú thích của tác giả: có thể kết nối với những độc giả MBA cá nhân khác ở nơi mình sống qua các nhóm gặp mặt) có thể đem lại cùng lợi ích như đào tạo quản trị kinh doanh chính quy với khoảng một phần nghìn chi phí. Thay vì phí thời gian và tiền bạc kiếm được vất vả vào những lý thuyết lỗi thời có thể không bao giờ dùng tới, tốt hơn là dành thời gian và sức lực tự học đúng thứ mình thật sự cần để thành công.
+May thay, người đọc có thể chọn tự học, một lựa chọn có thể đưa tới thành công dễ dàng như một người có MBA từ trường danh tiếng, mà không phải chi hơn một trăm nghìn USD. Học những điều căn bản của thực hành kinh doanh vững chắc và tự xây dựng mạng lưới quan hệ (Chú thích của tác giả: có thể kết nối với những độc giả MBA cá nhân khác ở nơi mình sống qua các nhóm gặp mặt) có thể đem lại cùng lợi ích như đào tạo quản trị kinh doanh chính quy với khoảng một phần nghìn chi phí.
+
+Thay vì phí thời gian và tiền bạc kiếm được vất vả vào những lý thuyết lỗi thời có thể không bao giờ dùng tới, tốt hơn là dành thời gian và sức lực tự học đúng thứ mình thật sự cần để thành công.
 
 Kaufman kết: nếu bạn là người có thể theo một chương trình MBA khắt khe và làm điều cần làm để thành công sau tốt nghiệp, thì bỏ qua trường kinh doanh, học những điều nền tảng của doanh nghiệp, đọc và nghiền ngẫm cuốn sách này có lẽ sẽ là quyết định tốt nhất đời bạn.
 
@@ -1188,7 +1247,11 @@ Bốn lời khuyên thực hành để tận dụng tối đa việc đọc:
 
 Chương kết bằng một chữ: "Bắt đầu thôi" (Adelante).
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, số giả định). Lan, 27 tuổi, làm nhân viên marketing ở một công ty hàng tiêu dùng, lương 25 triệu đồng/tháng, đang cân nhắc hai lựa chọn trong hai năm tới. Lựa chọn A: nghỉ việc học MBA toàn thời gian ở nước ngoài, học phí và sinh hoạt phí khoảng 2,5 tỷ đồng (vay 2 tỷ), cộng 600 triệu đồng thu nhập bỏ lỡ trong hai năm. Lựa chọn B: giữ việc, mỗi tuần dành 8 giờ đọc sách theo một danh sách có chọn lọc, mỗi tháng thử áp dụng một khái niệm vào công việc (ví dụ thử lại cách định giá một dòng sản phẩm), và dùng 50 triệu đồng/năm cho sách, khoá ngắn hạn và một dự án kinh doanh nhỏ bên lề. Theo lập luận của Kaufman, Lan nên hỏi: mình cần MBA để làm gì? Nếu mục tiêu là vào một hãng tư vấn chiến lược quốc tế, nơi tấm bằng là vé phỏng vấn, lựa chọn A có thể đáng (nhưng phải chấp nhận khoản nợ 2 tỷ và áp lực trả nợ nhiều năm). Nếu mục tiêu là lên trưởng nhóm marketing hay tự mở cửa hàng trực tuyến, lựa chọn B cho phép cô vừa học, vừa có thu nhập, vừa tích luỹ thành tích thật, thứ mà theo Kaufman nhà tuyển dụng sẽ nhìn vào sau 3–5 năm, với chi phí bằng khoảng một phần ba mươi.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, số giả định). Lan, 27 tuổi, làm nhân viên marketing ở một công ty hàng tiêu dùng, lương 25 triệu đồng/tháng, đang cân nhắc hai lựa chọn trong hai năm tới.
+
+Lựa chọn A: nghỉ việc học MBA toàn thời gian ở nước ngoài, học phí và sinh hoạt phí khoảng 2,5 tỷ đồng (vay 2 tỷ), cộng 600 triệu đồng thu nhập bỏ lỡ trong hai năm. Lựa chọn B: giữ việc, mỗi tuần dành 8 giờ đọc sách theo một danh sách có chọn lọc, mỗi tháng thử áp dụng một khái niệm vào công việc (ví dụ thử lại cách định giá một dòng sản phẩm), và dùng 50 triệu đồng/năm cho sách, khoá ngắn hạn và một dự án kinh doanh nhỏ bên lề.
+
+Theo lập luận của Kaufman, Lan nên hỏi: mình cần MBA để làm gì? Nếu mục tiêu là vào một hãng tư vấn chiến lược quốc tế, nơi tấm bằng là vé phỏng vấn, lựa chọn A có thể đáng (nhưng phải chấp nhận khoản nợ 2 tỷ và áp lực trả nợ nhiều năm). Nếu mục tiêu là lên trưởng nhóm marketing hay tự mở cửa hàng trực tuyến, lựa chọn B cho phép cô vừa học, vừa có thu nhập, vừa tích luỹ thành tích thật, thứ mà theo Kaufman nhà tuyển dụng sẽ nhìn vào sau 3–5 năm, với chi phí bằng khoảng một phần ba mươi.
 
 ## Luận điểm cốt lõi
 
@@ -1307,7 +1370,9 @@ Giữa một chương phần lớn là phê phán MBA, định nghĩa năm yếu
 
 ### Phê phán MBA mạnh về chi phí, yếu về bằng chứng tác động
 
-Phần chi phí (học phí, nợ, thu nhập bỏ lỡ, nợ sinh viên Mỹ không được xoá khi phá sản) thuyết phục và dễ kiểm chứng. Phần tác động thì dựa chủ yếu vào một nghiên cứu (Pfeffer và Fong, đầu những năm 2000) và một bài blog (Schraga). Nhiều nghiên cứu khác về thu nhập của người có MBA tìm thấy mức chênh lệch lương đáng kể, nhất là ở các trường hàng đầu, dù khó tách khỏi hiệu ứng chọn lọc. Chính Kaufman thừa nhận MBA mở cửa tới các nhà tuyển dụng trả lương cao nhất; như vậy "MBA không liên quan tới thành công" và "MBA là vé vào Goldman, McKinsey" khó cùng đúng hoàn toàn. Cách đọc công bằng hơn: phần lớn giá trị của MBA nằm ở tín hiệu và mạng lưới chứ không ở kiến thức trên lớp, và giá trị đó lớn hay nhỏ tuỳ vào mục tiêu nghề nghiệp của từng người.
+Phần chi phí (học phí, nợ, thu nhập bỏ lỡ, nợ sinh viên Mỹ không được xoá khi phá sản) thuyết phục và dễ kiểm chứng. Phần tác động thì dựa chủ yếu vào một nghiên cứu (Pfeffer và Fong, đầu những năm 2000) và một bài blog (Schraga). Nhiều nghiên cứu khác về thu nhập của người có MBA tìm thấy mức chênh lệch lương đáng kể, nhất là ở các trường hàng đầu, dù khó tách khỏi hiệu ứng chọn lọc.
+
+Chính Kaufman thừa nhận MBA mở cửa tới các nhà tuyển dụng trả lương cao nhất; như vậy "MBA không liên quan tới thành công" và "MBA là vé vào Goldman, McKinsey" khó cùng đúng hoàn toàn. Cách đọc công bằng hơn: phần lớn giá trị của MBA nằm ở tín hiệu và mạng lưới chứ không ở kiến thức trên lớp, và giá trị đó lớn hay nhỏ tuỳ vào mục tiêu nghề nghiệp của từng người.
 
 ### Bằng chứng tích cực cho tự học chủ yếu là giai thoại và có thiên lệch người sống sót
 
@@ -1315,15 +1380,204 @@ Kaufman, Andy Walter, Munger, Bill Gates là những người tự học thành 
 
 ### Phần lịch sử trường kinh doanh có sức gợi nhưng đơn giản hoá
 
-Việc nối Taylor, Pavlov, Skinner, quảng cáo đại trà, sáp nhập, công thức tài chính và khủng hoảng 2008 thành một câu chuyện về "trường kinh doanh dạy thứ có hại" là cách kể mạnh nhưng gộp nhiều thứ khác nhau. Khủng hoảng 2008 có nhiều nguyên nhân (chính sách tín dụng, quản lý rủi ro ngân hàng, giám sát yếu, động cơ của các tổ chức xếp hạng), không chỉ là "công thức trường dạy". Cũng không đúng hoàn toàn khi nói chương trình MBA không đổi: ngay cả trước 2010 nhiều trường đã có môn khởi nghiệp, thiết kế sản phẩm, đổi mới. Tuy vậy, điểm cốt lõi (chương trình thiên về tập đoàn lớn và phân tích định lượng, ít về tạo giá trị và vận hành ở doanh nghiệp nhỏ) vẫn là phê phán được nhiều người trong giới học thuật chia sẻ, kể cả chính Pfeffer.
+Việc nối Taylor, Pavlov, Skinner, quảng cáo đại trà, sáp nhập, công thức tài chính và khủng hoảng 2008 thành một câu chuyện về "trường kinh doanh dạy thứ có hại" là cách kể mạnh nhưng gộp nhiều thứ khác nhau. Khủng hoảng 2008 có nhiều nguyên nhân (chính sách tín dụng, quản lý rủi ro ngân hàng, giám sát yếu, động cơ của các tổ chức xếp hạng), không chỉ là "công thức trường dạy".
+
+Cũng không đúng hoàn toàn khi nói chương trình MBA không đổi: ngay cả trước 2010 nhiều trường đã có môn khởi nghiệp, thiết kế sản phẩm, đổi mới. Tuy vậy, điểm cốt lõi (chương trình thiên về tập đoàn lớn và phân tích định lượng, ít về tạo giá trị và vận hành ở doanh nghiệp nhỏ) vẫn là phê phán được nhiều người trong giới học thuật chia sẻ, kể cả chính Pfeffer.
 
 ### Từ 2010, cả hai phía của lập luận đều đã thay đổi
 
-Về phía tự học: khoá học trực tuyến mở, video bài giảng của các trường danh tiếng, podcast, cộng đồng trực tuyến và gần đây là trợ lý AI làm cho việc tự học kinh doanh rẻ và dễ hơn nhiều so với năm 2010, củng cố lập luận của Kaufman. Về phía MBA: học phí ở các trường hàng đầu tiếp tục tăng, nhưng các trường cũng mở nhiều hình thức linh hoạt (MBA trực tuyến, bán thời gian, chương trình một năm), làm giảm chi phí cơ hội mà Kaufman nhấn mạnh. Đồng thời, số đơn đăng ký MBA truyền thống hai năm ở Mỹ có xu hướng giảm ở một số giai đoạn, cho thấy nhiều người cũng đã đặt câu hỏi giống Kaufman. Các số liệu cụ thể của chương (Google Blog Search, Technorati, Digg, giá trị Berkshire) đã lỗi thời và nên được đọc như bối cảnh năm 2010.
+Về phía tự học: khoá học trực tuyến mở, video bài giảng của các trường danh tiếng, podcast, cộng đồng trực tuyến và gần đây là trợ lý AI làm cho việc tự học kinh doanh rẻ và dễ hơn nhiều so với năm 2010, củng cố lập luận của Kaufman.
+
+Về phía MBA: học phí ở các trường hàng đầu tiếp tục tăng, nhưng các trường cũng mở nhiều hình thức linh hoạt (MBA trực tuyến, bán thời gian, chương trình một năm), làm giảm chi phí cơ hội mà Kaufman nhấn mạnh. Đồng thời, số đơn đăng ký MBA truyền thống hai năm ở Mỹ có xu hướng giảm ở một số giai đoạn, cho thấy nhiều người cũng đã đặt câu hỏi giống Kaufman. Các số liệu cụ thể của chương (Google Blog Search, Technorati, Digg, giá trị Berkshire) đã lỗi thời và nên được đọc như bối cảnh năm 2010.
 
 ### Vận dụng: trước khi bỏ tiền cho một tấm bằng, hãy tách "kiến thức" khỏi "tín hiệu" và tính chi phí cơ hội
 
 - **Trong doanh nghiệp.** Khi tuyển dụng, đừng chỉ dùng bằng cấp làm bộ lọc như những nhà tuyển dụng Kaufman mô tả; hãy đánh giá thành tích, bài làm thử, khả năng giải thích một doanh nghiệp tạo giá trị ra sao. Khi đào tạo nhân viên, một chương trình đọc có chọn lọc kết hợp áp dụng vào dự án thật có thể hiệu quả hơn nhiều so với cử đi học khoá dài. Dùng định nghĩa năm yếu tố như danh sách kiểm tra khi xét một sản phẩm hay mảng kinh doanh mới.
 - **Trong nghề nghiệp.** Xác định rõ mình cần bằng để làm gì: nếu đích đến là các tổ chức coi bằng như vé phỏng vấn (tư vấn chiến lược, ngân hàng đầu tư, một số tập đoàn đa quốc gia), MBA có thể là khoản mua tín hiệu đáng giá; nếu không, tự học có kế hoạch và tích luỹ thành tích thường rẻ hơn. Luôn tính cả thu nhập bỏ lỡ, không chỉ học phí. Tránh vay quá mức cần, vì nợ làm mất tự do chọn việc.
 - **Khi khởi nghiệp hay kinh doanh nhỏ.** Không cần chờ có kế hoạch hoàn hảo hay vốn lớn; bắt đầu bằng việc kiểm tra năm yếu tố với quy mô nhỏ (có ai muốn không, họ có trả giá này không, mình có giao được không, có lãi không). Đọc có chọn lọc, mỗi lần áp dụng một khái niệm, thay vì đọc tràn lan.
-- **Ở Việt Nam.** Thị trường lao động ở Việt Nam vẫn khá coi trọng bằng cấp, nhất là ở khu vực nhà nước và một số tập đoàn, nên vai trò "tín hiệu" của MBA có thể lớn hơn so với lập luận của Kaufman cho nước Mỹ; ngược lại, nhiều chương trình MBA trong nước hay liên kết có chất lượng không đồng đều, nên phần "kiến thức" càng cần được cân nhắc kỹ. Với người làm kinh doanh hộ gia đình hay doanh nghiệp nhỏ và vừa, vốn chiếm phần lớn số doanh nghiệp, lời khuyên của Kaufman (học nguyên lý, áp dụng ngay, không vay nợ để học) có lẽ phù hợp hơn cả. Ví dụ minh hoạ: một người dự định chi vài trăm triệu đồng cho một chương trình MBA chủ yếu để "có bằng" nên so sánh với việc dùng một phần nhỏ số tiền đó cho sách, khoá ngắn hạn và thử nghiệm một dự án kinh doanh nhỏ.
+- **Ở Việt Nam.** Thị trường lao động ở Việt Nam vẫn khá coi trọng bằng cấp, nhất là ở khu vực nhà nước và một số tập đoàn, nên vai trò "tín hiệu" của MBA có thể lớn hơn so với lập luận của Kaufman cho nước Mỹ; ngược lại, nhiều chương trình MBA trong nước hay liên kết có chất lượng không đồng đều, nên phần "kiến thức" càng cần được cân nhắc kỹ.
+
+  Với người làm kinh doanh hộ gia đình hay doanh nghiệp nhỏ và vừa, vốn chiếm phần lớn số doanh nghiệp, lời khuyên của Kaufman (học nguyên lý, áp dụng ngay, không vay nợ để học) có lẽ phù hợp hơn cả. Ví dụ minh hoạ: một người dự định chi vài trăm triệu đồng cho một chương trình MBA chủ yếu để "có bằng" nên so sánh với việc dùng một phần nhỏ số tiền đó cho sách, khoá ngắn hạn và thử nghiệm một dự án kinh doanh nhỏ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: sáu nhánh lớn đi theo các mục 1–27 trong phần Nội dung chi tiết (ba nỗi sợ và mô hình tư duy, hành trình MBA cá nhân của Kaufman và mạng lưới mô hình tư duy của Munger, định nghĩa doanh nghiệp năm yếu tố, chi phí và tác động của MBA, nguồn gốc trường kinh doanh và lợi ích duy nhất của MBA, khung và cách dùng cuốn sách), mỗi nhánh ghi mô hình, lập luận, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: không cần MBA đắt tiền, chỉ cần tự học một số ít mô hình tư duy rồi thực hành`"]
+  n1["`Mục 1–5 — Ba nỗi sợ tan khi nắm vài mô hình tư duy`"]
+  n0 --- n1
+  n2["`Ba nỗi sợ: lo âu về kinh doanh, nỗi sợ bằng cấp, hội chứng kẻ mạo danh`"]
+  n1 --- n2
+  n3["`Emerson: phương pháp có cả triệu, nguyên lý thì ít, hiểu nguyên lý thì tự chọn được phương pháp`"]
+  n1 --- n3
+  n4["`5 năm đọc hàng nghìn sách, phỏng vấn hàng trăm người, gom thành 226 khái niệm đơn giản`"]
+  n1 --- n4
+  n5["`Không cần kinh nghiệm: Welch nói kinh doanh là một trong những nghề đơn giản nhất`"]
+  n1 --- n5
+  n6["`Sách không đưa thêm câu trả lời mà giúp đặt câu hỏi tốt hơn`"]
+  n1 --- n6
+  n7["`Mô hình tư duy: hình dung sự vật vận hành thế nào, như đạp ga thì xe tăng tốc`"]
+  n1 --- n7
+  n8["`Khởi nghiệp liều lĩnh → bất định quản lý và giảm thiểu được`"]
+  n7 --- n8
+  n9["`Cần kế hoạch hoàn hảo → hiểu cách doanh nghiệp vận hành quan trọng hơn`"]
+  n7 --- n9
+  n10["`Phải gom vốn lớn → chỉ huy động khi không có tiền thì không làm được, như xây nhà máy`"]
+  n7 --- n10
+  n11["`Quen ai hơn biết gì → phải có hiểu biết mới dùng quan hệ cho có lợi`"]
+  n7 --- n11
+  n12["`Mục 6–10 — MBA cá nhân của Kaufman và hình mẫu Munger`"]
+  n0 --- n12
+  n13["`Học HonorsPLUS có học bổng, 2005 làm trợ lý quản lý nhãn hàng ở P#amp;G, vị trí thường dành cho MBA`"]
+  n12 --- n13
+  n14["`Andy Walter, kỹ sư điện không MBA: dồn thời gian ấy vào làm việc và rèn kỹ năng cũng tốt như vậy`"]
+  n12 --- n14
+  n15["`Đọc hàng trăm cuốn, cả tâm lý học, vật lý, lý thuyết hệ thống, trước khi đi làm tháng 9/2005`"]
+  n12 --- n15
+  n16["`Ở công ty lớn: đi chậm, chính trị thăng tiến, thất vọng dẫn tới kiệt sức`"]
+  n12 --- n16
+  n17["`Thư viện Quốc hội Mỹ có 1.200.000 sách kinh doanh, 528 năm đọc liên tục mới hết`"]
+  n12 --- n17
+  n18["`Mỗi cuốn tốt phải lội qua gấp 10 lần sách viết vội, nên Kaufman tự làm bộ lọc`"]
+  n17 --- n18
+  n19["`Godin: Harvard từ chối 119 ứng viên là trả lại họ 150.000 USD và 2 năm, đọc 30–40 cuốn tốt hơn`"]
+  n12 --- n19
+  n20["`Godin giới thiệu danh sách sau 2 phút, tuần đầu 30.000 lượt truy cập`"]
+  n19 --- n20
+  n21["`Danh sách sách không đủ: người đọc cần ý tưởng, nhiều người bỏ cuộc sau vài cuốn`"]
+  n19 --- n21
+  n22["`Munger, luật sư không học kinh doanh, quỹ vượt thị trường 14%/năm trong hơn 14 năm`"]
+  n12 --- n22
+  n23["`Mạng lưới mô hình tư duy từ nhiều ngành, theo Buffett thấy điểm yếu chí mạng trong 60 giây`"]
+  n22 --- n23
+  n24["`Munger chưa công bố toàn bộ mô hình, Kaufman phải tự xây lại cách hiểu kinh doanh từ đầu`"]
+  n22 --- n24
+  n25["`Mục 11 — Định nghĩa doanh nghiệp năm yếu tố cộng con người và hệ thống`"]
+  n0 --- n25
+  n26["`Tạo ra thứ có giá trị, người khác muốn hoặc cần, ở giá họ sẵn lòng trả, đáp ứng kỳ vọng, đủ doanh thu`"]
+  n25 --- n26
+  n27["`Bỏ bất kỳ yếu tố nào thì không còn là doanh nghiệp`"]
+  n26 --- n27
+  n28["`Tạo giá trị phải xét người ta muốn gì → nghiên cứu thị trường`"]
+  n25 --- n28
+  n29["`Gây chú ý rồi khiến khách quan tâm → marketing`"]
+  n25 --- n29
+  n30["`Khách phải tin bạn giao được điều đã hứa → chuyển giao giá trị và vận hành`"]
+  n25 --- n30
+  n31["`Vượt kỳ vọng → dịch vụ khách hàng#59; kiếm nhiều hơn chi → tài chính`"]
+  n25 --- n31
+  n32["`Con người: hiểu cách người ta nghĩ, quyết định, hành động, giao tiếp`"]
+  n25 --- n32
+  n33["`Hệ thống: doanh nghiệp là tập hợp quy trình lặp lại đáng tin cậy để đạt một kết quả`"]
+  n25 --- n33
+  n34["`Khách hàng áp dụng các mô hình, nhiều người đi từ ý tưởng tới lần bán đầu dưới 4 tuần`"]
+  n25 --- n34
+  n35["`Mục 12–18 — MBA đắt và không chứng minh được tác động`"]
+  n0 --- n35
+  n36["`Berkun: MBA giúp chứng minh năng lực khác với MBA thật sự nâng năng lực`"]
+  n35 --- n36
+  n37["`Ba vấn đề: quá đắt, dạy nhiều thứ vô ích hay lỗi thời, không bảo đảm việc lương cao`"]
+  n35 --- n37
+  n38["`Nợ bình quân 2009: cử nhân 22.500 USD, học tiếp MBA 41.697 USD`"]
+  n35 --- n38
+  n39["`15 chương trình hàng đầu 40.000–50.000 USD/năm, tổng 125.000–200.000 USD`"]
+  n35 --- n39
+  n40["`Trường không đào tạo ra người thành công, chỉ nhận họ vào rồi nhận công`"]
+  n35 --- n40
+  n41["`Pfeffer và Fong, 40 năm dữ liệu: bằng MBA và điểm số không liên quan tới thành công nghề nghiệp`"]
+  n35 --- n41
+  n42["`Schraga: chắc chắn chi 125.000 USD, trả 1.500 USD/tháng, 10 năm không để dành được`"]
+  n35 --- n42
+  n43["`NPV: lương 85.000 → 115.000 USD, chiết khấu 7%, NPV ≈ −53.000 USD, ~12 năm hoà vốn`"]
+  n42 --- n43
+  n44["`Mục 19–25 — Chương trình sinh ra cho thời công nghiệp, lợi ích duy nhất là vé phỏng vấn`"]
+  n0 --- n44
+  n45["`Taylor bấm giờ bớt vài giây chở thỏi gang, Pavlov và Skinner dẫn tới khuyến khích tài chính`"]
+  n44 --- n45
+  n46["`Khuyến khích trực tiếp thường làm giảm hiệu suất, động lực, sự hài lòng (Pink, Drive)`"]
+  n45 --- n46
+  n47["`Quảng cáo → phân phối → doanh số → thêm tiền quảng cáo, trường ám ảnh thị phần và sáp nhập`"]
+  n44 --- n47
+  n48["`Black-Scholes, hàm Gauss, CAPM góp phần vào bong bóng 2000 và suy thoái 2008`"]
+  n44 --- n48
+  n49["`Scheiber: từ 1965 tỷ lệ vào tư vấn, tài chính tăng từ 1/3 lên 2/3, lãnh đạo GM xuất thân ngân quỹ`"]
+  n48 --- n49
+  n50["`Mua lại bằng đòn bẩy nợ biến công ty tự chủ thành quái vật nợ`"]
+  n48 --- n50
+  n51["`SBA: doanh nghiệp nhỏ là 99,7% doanh nghiệp có thuê lao động, tạo 64% việc làm ròng mới`"]
+  n44 --- n51
+  n52["`Lợi ích duy nhất: tiếp cận nhà tuyển dụng Fortune 50, tư vấn, ngân hàng đầu tư, phai sau 3–5 năm`"]
+  n44 --- n52
+  n53["`Nhà tuyển dụng dùng MBA làm bộ lọc và cớ tự bảo vệ: #quot;Cô ấy tốt nghiệp Harvard mà!#quot;`"]
+  n52 --- n53
+  n54["`Muốn làm tư vấn, tài chính quốc tế thì phải mua quyền được phỏng vấn giá ~150.000 USD`"]
+  n52 --- n54
+  n55["`May mắn: hơn 80 giờ/tuần, ~100.000 USD/năm, nợ sinh viên Mỹ không được xoá khi phá sản`"]
+  n44 --- n55
+  n56["`Tự học đem lợi ích tương đương MBA với khoảng 1/1000 chi phí`"]
+  n44 --- n56
+  n57["`Mục 26–27 — Khung cuốn sách và cách dùng`"]
+  n0 --- n57
+  n58["`Reed: mỗi lĩnh vực có 3–12 nguyên lý cốt yếu, mọi thứ khác là tổ hợp của chúng`"]
+  n57 --- n58
+  n59["`Chương 2–6 doanh nghiệp, chương 7–9 con người, chương 10–12 hệ thống`"]
+  n57 --- n59
+  n60["`Quản lý và lãnh đạo chỉ là phương tiện, không có kế toán thuần tuý và phân tích định lượng`"]
+  n57 --- n60
+  n61["`Bốn lời khuyên: đọc lướt, để sẵn sổ và bút, đọc lại thường xuyên, áp dụng vào việc thật`"]
+  n57 --- n61
+  n62["`Thông điệp xuyên suốt`"]
+  n0 --- n62
+  n63["`Bỏ qua trường kinh doanh, tự học nguyên lý trước, kỹ thuật sau, áp dụng ngay`"]
+  n62 --- n63
+  n64["`Trước khi mua bằng, tách kiến thức khỏi tín hiệu và tính cả chi phí cơ hội`"]
+  n62 --- n64
+  n65["`Cách nhanh nhất để huỷ hoại đời mình là mang nợ nhiều hơn mức cần`"]
+  n62 --- n65
+  n66["`Kinh doanh là tạo và trao giá trị cho khách hàng trả tiền`"]
+  n62 --- n66
+  class n0 root
+  class n1,n12,n25,n35,n44,n57,n62 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n63,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 1 "¿Por qué leer este libro?" (tương ứng phần mở đầu "Why Read This Book?" ở bản tiếng Anh, phần đứng trước Chapter 1 "Value Creation").
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương mở màn, chưa dạy mô hình kinh doanh cụ thể nào. Chương làm ba việc: (1) thuyết phục người đọc rằng kinh doanh có thể học được bằng một số ít nguyên lý nền tảng, gọi là "mô hình tư duy"; (2) kể vì sao Kaufman tự học kinh doanh thay vì đi học MBA, và phê phán chương trình MBA truyền thống (đắt, dạy nhiều thứ lỗi thời, không bảo đảm thành công); (3) giới thiệu khung của cả cuốn sách.
+
+Khung đó xuất phát từ định nghĩa doanh nghiệp năm thành phần mà chương này đưa ra: năm phần của một doanh nghiệp được học ở chương 2–6 (tạo giá trị → marketing → bán hàng → chuyển giao giá trị → tài chính); con người ở chương 7–9 (tâm trí con người, làm việc với chính mình, làm việc với người khác); hệ thống ở chương 10–12 (hiểu hệ thống, phân tích hệ thống, cải thiện hệ thống).
+
+Chương 2 "Tạo giá trị" sẽ mở đầu bằng chính thành phần thứ nhất trong định nghĩa đó.
+
+## Lưu ý
+
+- Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua bản OCR của một bản scan; mọi câu trích trong file là bản dịch tiếng Việt của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của từng mục nhỏ trong chương không được ghi vì người tổng hợp không chắc chắn; chỉ ghi tên TBN.
+- Các chỗ OCR hỏng đã sửa:
+  - bảng so sánh "mô hình tư duy sai / mô hình tư duy đúng" trong mục "Modelos mentales, no métodos" bị nhận dạng gần như vô nghĩa ("Iniciar ua negacio es amic gado", "Tiese que reunir un gran capical"...), đã dựng lại theo nghĩa rõ nhất
+  - con số "B22 años" (thời gian đọc hết sách kinh doanh nếu có nghỉ ăn ngủ) được đọc là 822 năm, vì nó phải lớn hơn 528 năm đọc liên tục 24 giờ mỗi ngày và 822 xấp xỉ 528 nhân với 1,5 (tức đọc 16 giờ/ngày)
+  - tên chương trình ở Đại học Cincinnati in là "Carl H. Linder HonorsPLUS" (tên đúng của nhà tài trợ là Lindner)
+  - "Clay Shaky" là Clay Shirky, "Louis L'Avour" là Louis L'Amour
+  - Munger được giới thiệu là "socio miminario" của Buffett, có lẽ là "socio minoritario" (đối tác thiểu số) hoặc chỉ đơn giản là "đối tác".
+- Các chỗ bản dịch có vẻ lệch nghĩa:
+  - "una corporación que aparece en la lista ... sobre las 50 compañías más rentables" dịch cụm "Fortune 50" (50 công ty lớn nhất theo doanh thu trong bảng xếp hạng Fortune 500), không phải "50 công ty có lợi nhuận cao nhất"
+  - câu khuyên "Sáltese la escuela de negocios. Aprenda por su cuenta." được giới thiệu là "chín chữ", con số này ứng với câu tiếng Anh gốc, bản TBN không có đủ chín chữ
+  - đoạn về nhân viên ngân hàng/tư vấn "trabajar cien horas más a la semana" nghĩa đúng nhiều khả năng là "làm 100 giờ mỗi tuần" (từ hơn 80 giờ lên 100 giờ), không phải "thêm 100 giờ"
+  - bài báo của *Wired* nói tới "función gaussiana", bài đó thực ra nói về "Gaussian copula" (hàm copula Gauss dùng để định giá chứng khoán nợ thế chấp)
+  - câu của Julian Huxley được dịch là "una maldita correlación tras otra", bản tiếng Anh thường dẫn là "life is just one damned relatedness after another".
+- Về dữ kiện: theo hiểu biết chung, Buffett nắm quyền kiểm soát Berkshire Hathaway từ 1965 và Munger chính thức vào ban lãnh đạo năm 1978, còn sách ghi "hai người mua Berkshire năm 1975"; quỹ đầu tư của Munger được ghi thành lập năm 1965 (nhiều nguồn ghi 1962). Người tổng hợp giữ con số của sách trong phần Nội dung và chỉ nêu ở đây.
+- Bối cảnh: sách viết năm 2010, nên số liệu (học phí MBA, nợ sinh viên năm 2009, xếp hạng U.S. News 2010, số blog trên Google Blog Search và Technorati, giá trị Berkshire 195 tỷ USD, các vị lãnh đạo GM Wagoner và Henderson) là số liệu của thời điểm đó; Google Blog Search và Technorati nay không còn hoạt động như trước.
+- Chú thích cuối sách thuộc chương này là [1]–[20]; các chú thích có nội dung đã đưa vào Nội dung chi tiết, có ghi "Chú thích của tác giả": [6], [7], [8] (nguồn các câu trích của Buffett và Munger), [9] (học phí đại học tăng 7–14%/năm), [10] (Bill Gates không có bằng đại học), [13] (sách *Drive* của Daniel Pink), [14] (lý thuyết kiểm soát tri giác ở chương 7), [16] (định nghĩa đòn bẩy), [19] (nhóm gặp mặt độc giả); các chú thích chỉ là địa chỉ web đã bỏ.

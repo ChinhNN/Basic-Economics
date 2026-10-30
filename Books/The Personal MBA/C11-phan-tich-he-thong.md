@@ -1,20 +1,22 @@
 # Chương 11 — Phân tích hệ thống (El análisis de los sistemas; Analyzing Systems)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 11 "El análisis de los sistemas" (tương ứng Chapter 10 "Analyzing Systems" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Các chương 2–6 mô tả năm thành phần của một doanh nghiệp (tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính); các chương 7–9 bàn về con người (tâm trí, làm việc với chính mình, làm việc với người khác). Ba chương cuối bàn về hệ thống. Chương 10 ("Comprender los sistemas") cho người đọc từ vựng để mô tả một hệ thống: dòng chảy, tồn kho, quy trình, vòng phản hồi, sự phụ thuộc lẫn nhau, định luật Gall. Chương 11 là bước tiếp theo: trước khi sửa một hệ thống phải biết nó đang chạy ra sao, nên chương này dạy cách tách hệ thống thành phần nhỏ, đo nó, chọn chỉ số nào đáng theo dõi, và đọc số liệu cho đúng (bối cảnh, mẫu, sai số, tỷ số, các loại trung bình, tương quan và nhân quả, chuẩn so sánh, đại lượng thay thế, phân khúc, gắn số liệu với con người thật). Chương 12 ("Mejorar los sistemas") sẽ dùng kết quả phân tích này để cải thiện hệ thống.
-**Ý chính:** Kaufman muốn người đọc hiểu rằng **muốn cải thiện một hệ thống thì trước hết phải đo nó, và phải đo đúng thứ, đọc số đo cho trung thực và trong bối cảnh**. Hệ thống không thể dừng lại để mổ xẻ, nên người phân tích phải quan sát nó trong khi nó vẫn chạy. Cách làm gồm ba lớp. Lớp thứ nhất là **tách nhỏ hệ thống** (deconstrucción): như hiểu chiếc ô tô bằng cách xét riêng động cơ, hộp số, bộ tản nhiệt, rồi xem chúng nối với nhau thế nào. Lớp thứ hai là **đo lường và chọn chỉ số then chốt**: "cái gì được đo thì được quản lý" (câu của Peter Drucker), nhưng đo quá nhiều thứ sẽ chết đuối trong dữ liệu, nên chỉ giữ 3–5 **chỉ số hiệu quả then chốt** (KPI) gắn với năm thành phần của doanh nghiệp; doanh thu đơn thuần không phải KPI ("lợi nhuận là sự tỉnh táo, doanh thu là sự phù phiếm", câu của Theo Paphitis), số dòng mã cũng không phải KPI của lập trình viên. Lớp thứ ba là **đọc số liệu cho đúng**: dữ liệu rác cho kết quả rác; phải trung thực với số liệu dù nó làm mình xấu mặt (câu chuyện P&G đếm cả chương trình máy của công cụ tìm kiếm thành khách truy cập và các nhóm từ chối sửa); một con số đứng riêng không nói gì nếu thiếu bối cảnh; lấy mẫu ngẫu nhiên thay vì kiểm tra toàn bộ; mẫu nhỏ cho kết luận kém tin cậy; dùng tỷ số (tỷ lệ chốt đơn, lợi suất đầu tư); phân biệt trung bình cộng, trung vị, mốt và trung điểm (ví dụ Bill Gates và Warren Buffett kéo tài sản trung bình của độc giả *Wall Street Journal* lên 1,7 triệu USD); tương quan không phải nhân quả; so với chuẩn lịch sử (bán đồ trang trí Giáng sinh thì so quý 4 năm nay với quý 4 năm trước); dùng đại lượng thay thế khi không đo trực tiếp được (vị trí con trỏ chuột thay cho sự chú ý của mắt); phân khúc dữ liệu để thấy mối liên hệ ẩn; và cuối cùng, nhớ rằng sau mỗi con số là con người (giảm thời gian chờ điện thoại từ 10 xuống 8 phút là "cải thiện 20%", nhưng khách vẫn phải chờ 8 phút).
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua OCR từ bản scan; các câu trích là bản dịch của người tổng hợp từ bản TBN. Người tổng hợp không có bản tiếng Anh để đối chiếu; tên tiếng Anh của các mục ghi theo hiểu biết chung về sách. Chương TBN có 15 mục. Một số chỗ bản dịch hoặc OCR có vấn đề:
-> - Mục "El intervalo de confianza" (bản tiếng Anh: Margin of Error, tức **biên sai số**): bản TBN định nghĩa "khoảng tin cậy là xác suất một phân tích cụ thể là đúng" và viết "càng lấy nhiều mẫu thì khoảng tin cậy càng lớn". Theo thống kê học, cỡ mẫu càng lớn thì khoảng tin cậy (và biên sai số) càng **hẹp**, tức độ tin cậy vào kết quả càng cao. Ý mà Kaufman muốn nói rõ ràng là "mẫu càng lớn thì càng tin được kết quả"; bản tổng hợp diễn đạt theo ý đó và gọi mục này là "biên sai số và độ tin cậy".
-> - "Ratio límite" trong bản TBN gần như chắc là cách dịch lệch của "closing ratio" (tỷ lệ chốt đơn: số người mua trên số khách tiềm năng được tiếp cận). Bản tổng hợp gọi là **tỷ lệ chốt đơn**.
-> - Mục "Media, mediana, modo y rango medio": bản TBN viết trung bình cộng "được tính bằng cách cộng tất cả các giá trị", thiếu bước chia cho số giá trị; bản tổng hợp ghi đủ. "Modo" là cách dịch sát chữ "mode" (tiếng TBN chuẩn là "moda"), nghĩa là **mốt** (giá trị xuất hiện nhiều nhất). Câu "giàu hơn số tiền mà 0,01% doanh nhân ưu tú nhất kiếm được" trong bản TBN không rõ nghĩa; bản tổng hợp chỉ giữ ý tài sản hàng tỷ USD.
-> - Mục "La ratio": câu định nghĩa ("chia kết quả cho dữ liệu đầu vào") bị dịch tối nghĩa; ý là tỷ số đặt hai đại lượng lên một phép chia để thấy quan hệ giữa chúng. Các tên tỷ số trong danh sách ("rendimiento neto del capital", "rentas del capital") bản dịch không chuẩn; bản tổng hợp dịch theo phần giải thích đi kèm.
-> - "Agente" là cách bản dịch gọi "proxy" (**đại lượng thay thế**); "valorar el funcionamiento del sistema" là "measurement" (**đo lường**); "la objetividad en el análisis" là "analytical honesty" (**trung thực trong phân tích**).
-> - Mục "Valorar el funcionamiento del sistema" có câu OCR/bản dịch hỏng "Medir uno en particular le permitirá comparar sistemas entre sí"; ý là đo lường cho phép so sánh các hệ thống với nhau.
-> - OCR hỏng tên người: "ERIC EvANS", "W. EDWARDS DEMINS" (Deming), "WILL RODERS, COMbOy" (Will Rogers, cao bồi), "STowE BoyD", "GEORGE SANTAVANA" (Santayana), "STEVEN BRust, autor de Moros de ciencia ficción" (gần như chắc là "autor de novelas de ciencia ficción", tác giả tiểu thuyết khoa học viễn tưởng), "The God Stalker Chronicies" (Chronicles), "WS/" (WSJ).
-> - Chương có hai dấu chú thích: (39) sau câu về lưu đồ, theo thứ tự chú thích cuối sách thực ra là chú thích [59] (OCR đọc nhầm 5 thành 3), nội dung chỉ là lời mời xem ví dụ thực hành trên trang web của sách; [60] sau trích dẫn nghiên cứu Carnegie Mellon là một đường dẫn URL. Cả hai chỉ là URL nên không đưa vào.
-> - Bối cảnh: sách viết năm 2010. Các ví dụ phân tích web (đếm khách truy cập, "programas araña" của công cụ tìm kiếm, theo dõi con trỏ chuột) phản ánh công cụ thời đó; câu chuyện ở P&G là trải nghiệm của chính tác giả trước 2008.
+Kaufman muốn người đọc hiểu rằng **muốn cải thiện một hệ thống thì trước hết phải đo nó, và phải đo đúng thứ, đọc số đo cho trung thực và trong bối cảnh**. Hệ thống không thể dừng lại để mổ xẻ, nên người phân tích phải quan sát nó trong khi nó vẫn chạy.
+
+Cách làm gồm ba lớp. Lớp thứ nhất là **tách nhỏ hệ thống** (deconstrucción): như hiểu chiếc ô tô bằng cách xét riêng động cơ, hộp số, bộ tản nhiệt, rồi xem chúng nối với nhau thế nào.
+
+Lớp thứ hai là **đo lường và chọn chỉ số then chốt**: "cái gì được đo thì được quản lý" (câu của Peter Drucker), nhưng đo quá nhiều thứ sẽ chết đuối trong dữ liệu, nên chỉ giữ 3–5 **chỉ số hiệu quả then chốt** (KPI) gắn với năm thành phần của doanh nghiệp.
+
+Doanh thu đơn thuần không phải KPI ("lợi nhuận là sự tỉnh táo, doanh thu là sự phù phiếm", câu của Theo Paphitis), số dòng mã cũng không phải KPI của lập trình viên.
+
+Lớp thứ ba là **đọc số liệu cho đúng**: dữ liệu rác cho kết quả rác. Phải trung thực với số liệu dù nó làm mình xấu mặt (câu chuyện P&G đếm cả chương trình máy của công cụ tìm kiếm thành khách truy cập và các nhóm từ chối sửa). Một con số đứng riêng không nói gì nếu thiếu bối cảnh.
+
+Lấy mẫu ngẫu nhiên thay vì kiểm tra toàn bộ; mẫu nhỏ cho kết luận kém tin cậy. Dùng tỷ số (tỷ lệ chốt đơn, lợi suất đầu tư). Phân biệt trung bình cộng, trung vị, mốt và trung điểm (ví dụ Bill Gates và Warren Buffett kéo tài sản trung bình của độc giả *Wall Street Journal* lên 1,7 triệu USD).
+
+Tương quan không phải nhân quả. So với chuẩn lịch sử (bán đồ trang trí Giáng sinh thì so quý 4 năm nay với quý 4 năm trước). Dùng đại lượng thay thế khi không đo trực tiếp được (vị trí con trỏ chuột thay cho sự chú ý của mắt). Phân khúc dữ liệu để thấy mối liên hệ ẩn.
+
+Và cuối cùng, nhớ rằng sau mỗi con số là con người (giảm thời gian chờ điện thoại từ 10 xuống 8 phút là "cải thiện 20%", nhưng khách vẫn phải chờ 8 phút).
 
 ## Sơ đồ
 
@@ -540,7 +542,9 @@ Khi đã hiểu các phần của hệ thống và cách chúng tương tác, c�
 
 Đo lường cũng cho phép so sánh các hệ thống với nhau. Ví dụ, có thể dùng nhiều loại bộ vi xử lý để lắp một máy tính. Dùng loại nào? Đo các đặc tính của từng bộ xử lý (chu kỳ xử lý, điện năng tiêu thụ, lượng nhiệt toả ra…) thì dễ chọn loại phù hợp nhất, và máy chạy tốt hơn.
 
-Đo lường còn giúp tránh **sự mù với cái vắng mặt** (mô hình đã học ở phần về tâm trí): con người rất khó thấy những thứ không ở trước mắt. Phân tích các phần của hệ thống đang chạy giúp nhận ra vấn đề trước khi nó nổ ra. Ví dụ: bệnh tiểu đường là lỗi của vòng phản hồi điều hoà lượng đường trong máu. Quá nhiều hay quá ít đường huyết đều nguy hiểm, nên khi cơ thể tiết quá nhiều hoặc quá ít insulin thì khó giữ đường huyết ổn định. Dù mức insulin là sống còn với người bệnh, chỉ quan sát bằng mắt thì không đọc được mức insulin hay đường huyết. Không có thông tin, sự mù với cái vắng mặt chiếm ưu thế, và người ta chỉ nhận ra bệnh khi người bệnh ngất hay bị sốc. Để tránh điều đó, người bị tiểu đường đo insulin và đường huyết nhiều lần trong ngày.
+Đo lường còn giúp tránh **sự mù với cái vắng mặt** (mô hình đã học ở phần về tâm trí): con người rất khó thấy những thứ không ở trước mắt. Phân tích các phần của hệ thống đang chạy giúp nhận ra vấn đề trước khi nó nổ ra.
+
+Ví dụ: bệnh tiểu đường là lỗi của vòng phản hồi điều hoà lượng đường trong máu. Quá nhiều hay quá ít đường huyết đều nguy hiểm, nên khi cơ thể tiết quá nhiều hoặc quá ít insulin thì khó giữ đường huyết ổn định. Dù mức insulin là sống còn với người bệnh, chỉ quan sát bằng mắt thì không đọc được mức insulin hay đường huyết. Không có thông tin, sự mù với cái vắng mặt chiếm ưu thế, và người ta chỉ nhận ra bệnh khi người bệnh ngất hay bị sốc. Để tránh điều đó, người bị tiểu đường đo insulin và đường huyết nhiều lần trong ngày.
 
 Đo thông tin là bước đầu tiên để cải thiện một tình huống. Peter Drucker có câu nổi tiếng: "Cái gì được đo thì được quản lý." Kaufman đồng ý: không biết công ty kiếm hay tiêu bao nhiêu tiền thì khó biết các thay đổi trong hệ thống kinh doanh có cải thiện doanh nghiệp không. Muốn giảm cân, trước hết phải biết mình nặng bao nhiêu, rồi theo dõi các thay đổi ảnh hưởng tới cân nặng ra sao. Không có dữ liệu là hành động mù; muốn cải thiện thì trước hết phải đo.
 
@@ -591,7 +595,9 @@ Trong khi soạn báo cáo, nhóm của ông phát hiện một điều đáng l
 
 Nhóm của Kaufman đề xuất nâng cấp hệ thống để thu dữ liệu khách truy cập chính xác hơn. Gần như đồng loạt, các nhóm từ chối. Họ biết dữ liệu mình đang dùng là sai, nhưng có vẻ không bận tâm. Lý do: nếu lắp hệ thống mới, số người truy cập trang (mà phần lớn các nhóm coi là chỉ số hiệu quả then chốt) sẽ giảm mạnh. Hệ thống mới chính xác hơn, nhưng lắp nó sẽ làm nhóm trông tệ đi; nên thay vì sửa vấn đề, tất cả chọn tiếp tục sống trong sự sai lệch. Hậu quả là họ tự làm hỏng nghiêm trọng khả năng cải thiện hiệu quả trang web của mình.
 
-Người trung thực trong phân tích đo và xem xét dữ liệu một cách không thiên vị. Con người là sinh vật xã hội, quan tâm tới hình ảnh của mình trong mắt người khác, nên có xu hướng tô vẽ mọi thứ tốt hơn thực tế. Nếu thật sự muốn cải thiện, xu hướng này có thể cản trở việc phân tích dữ liệu chính xác và khách quan. Để bảo đảm phân tích khách quan, hãy giao nó cho người không liên quan cá nhân tới hệ thống. Khi vị thế của một người bị đe doạ, họ dễ hành động theo động cơ khuyến khích và thiếu khách quan. Nhờ một bên thứ ba có kinh nghiệm và đứng ngoài kiểm tra các số đo và phân tích là cách tốt để tránh xu hướng đó: có thể bạn không thích điều mình nghe, nhưng ít nhất bạn biết rõ các vấn đề tiềm ẩn. Đừng nhìn dữ liệu qua lăng kính màu hồng; hãy luôn trung thực với chính mình và nghe theo điều thông tin nói.
+Người trung thực trong phân tích đo và xem xét dữ liệu một cách không thiên vị. Con người là sinh vật xã hội, quan tâm tới hình ảnh của mình trong mắt người khác, nên có xu hướng tô vẽ mọi thứ tốt hơn thực tế. Nếu thật sự muốn cải thiện, xu hướng này có thể cản trở việc phân tích dữ liệu chính xác và khách quan.
+
+Để bảo đảm phân tích khách quan, hãy giao nó cho người không liên quan cá nhân tới hệ thống. Khi vị thế của một người bị đe doạ, họ dễ hành động theo động cơ khuyến khích và thiếu khách quan. Nhờ một bên thứ ba có kinh nghiệm và đứng ngoài kiểm tra các số đo và phân tích là cách tốt để tránh xu hướng đó: có thể bạn không thích điều mình nghe, nhưng ít nhất bạn biết rõ các vấn đề tiềm ẩn. Đừng nhìn dữ liệu qua lăng kính màu hồng; hãy luôn trung thực với chính mình và nghe theo điều thông tin nói.
 
 ### 6. Bối cảnh (El contexto)
 
@@ -628,7 +634,7 @@ Mẫu có thể bị thiên lệch nếu không được chọn ngẫu nhiên ho
 
 Giả sử muốn mua một đồng xu bịp ở cửa hàng đồ ảo thuật và muốn chắc nó đã được chỉnh để ra mặt ngửa phần lớn số lần. Làm sao chắc mình không bị lừa? Đương nhiên là tung thử. Giả sử năm lần đầu ra hai ngửa, ba sấp. Có nên đòi trả tiền không?
 
-Bản dịch định nghĩa khái niệm này là xác suất một phân tích cụ thể là đúng. Tốt hơn nên chắc kết quả của mình chính xác trước khi làm hại uy tín của chủ cửa hàng. Càng lấy nhiều mẫu, kết quả đo càng đáng tin: mỗi lần tung là mẫu lớn thêm, và mẫu càng lớn thì càng tin vào độ chính xác của phép đo. (Xem khối Lưu ý về cách bản dịch diễn đạt chỗ này.)
+Bản dịch định nghĩa khái niệm này là xác suất một phân tích cụ thể là đúng. Tốt hơn nên chắc kết quả của mình chính xác trước khi làm hại uy tín của chủ cửa hàng. Càng lấy nhiều mẫu, kết quả đo càng đáng tin: mỗi lần tung là mẫu lớn thêm, và mẫu càng lớn thì càng tin vào độ chính xác của phép đo. (Xem mục Lưu ý cuối chương về cách bản dịch diễn đạt chỗ này.)
 
 | Số lần tung | Kết quả | Kết luận |
 |---|---|---|
@@ -935,3 +941,179 @@ Kaufman khen nhân vật Wendy vì giúp nhóm ra quyết định bằng trực 
 - **Trong nghề nghiệp.** Người làm phân tích, báo cáo nên luôn trình bày con số kèm bối cảnh (kỳ trước, chuẩn, cỡ mẫu) và một ví dụ khách hàng cụ thể. Khi số liệu bất lợi cho nhóm mình, báo cáo trung thực là cách xây uy tín dài hạn; câu chuyện P&G cho thấy cái giá của việc giữ con số đẹp.
 - **Khi khởi nghiệp/kinh doanh nhỏ.** Không cần hệ thống phức tạp: một bảng tính theo dõi vài tỷ số (đơn hàng trên lượt hỏi, chi phí quảng cáo trên doanh thu tăng thêm, tỷ lệ khách quay lại) đã đủ. Kiểm tra chất lượng sản phẩm bằng lấy mẫu ngẫu nhiên; nhờ một người quen đóng vai khách hàng bí mật để kiểm tra dịch vụ.
 - **Ở Việt Nam.** Khi đọc số liệu kinh doanh trên sàn thương mại điện tử hay mạng xã hội, cần cảnh giác với lượt xem, lượt thích, đánh giá ảo (rác vào, rác ra). Doanh số các ngành có mùa vụ rõ như dịp Tết nên được so cùng kỳ âm lịch năm trước chứ không so với tháng liền trước. Khi đọc các khảo sát được công bố, hãy hỏi cỡ mẫu, cách chọn mẫu (khảo sát trực tuyến ở thành phố lớn không đại diện cho cả nước), và con số là trung bình cộng hay trung vị, nhất là với số liệu thu nhập hay giá nhà, vốn phân phối rất lệch.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương trên một trang: sáu nhánh lớn theo các mục 0–15 của phần Nội dung chi tiết (tách nhỏ hệ thống; đo lường và KPI; dữ liệu sạch và trung thực; các công cụ đọc con số; nhân quả, chuẩn so sánh, đại lượng thay thế và phân khúc; gắn số liệu với con người), mỗi nhánh ghi định nghĩa, ví dụ và con số then chốt của Kaufman; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: Muốn cải thiện hệ thống thì trước hết phải đo nó, đo đúng thứ và đọc số đo trung thực, trong bối cảnh`"]
+  n1["`Mục 0–1 — Tách nhỏ hệ thống để hiểu nó trong khi nó vẫn chạy`"]
+  n0 --- n1
+  n2["`Không thể bảo thế giới dừng lại: phải phân tích hệ thống khi nó đang chạy`"]
+  n1 --- n2
+  n3["`Quá 7–8 biến số thì giới hạn phạm vi nhận thức khiến mọi thứ rối`"]
+  n1 --- n3
+  n4["`Tách nhỏ: chia thành hệ thống con nhỏ nhất, hiểu từng cái và cách chúng tương tác`"]
+  n1 --- n4
+  n5["`Tách nhỏ là chiều ngược của định luật Gall`"]
+  n1 --- n5
+  n6["`Ô tô: động cơ, hộp số, bộ tản nhiệt, với mỗi cái hỏi dòng vào, quy trình, vòng phản hồi, dòng ra`"]
+  n1 --- n6
+  n7["`Điểm kích hoạt làm hệ thống con chạy, điểm kết thúc là nơi nó dừng và nối với phần khác`"]
+  n1 --- n7
+  n8["`Điều kiện: thiếu xăng hoặc bugi không đánh lửa thì động cơ không nổ`"]
+  n1 --- n8
+  n9["`Vẽ lưu đồ để hiểu dòng chảy khi hệ thống chạy và sửa khi nó hỏng`"]
+  n1 --- n9
+  n10["`Mục 2–3 — Đo lường và chỉ giữ 3–5 chỉ số hiệu quả then chốt (KPI)`"]
+  n0 --- n10
+  n11["`Đo lường: thu thập dữ liệu khi hệ thống đang chạy để biết nó chạy tốt không`"]
+  n10 --- n11
+  n12["`Đo lường cho phép so sánh: chọn bộ vi xử lý theo chu kỳ xử lý, điện năng, nhiệt toả ra`"]
+  n10 --- n12
+  n13["`Tránh sự mù với cái vắng mặt: người bị tiểu đường tự đo đường huyết nhiều lần mỗi ngày`"]
+  n10 --- n13
+  n14["`#quot;Cái gì được đo thì được quản lý#quot; (Peter Drucker): không có dữ liệu là hành động mù`"]
+  n10 --- n14
+  n15["`KPI đo các yếu tố sống còn, số đo không giúp cải thiện hệ thống là phí thời gian`"]
+  n10 --- n15
+  n16["`Bẫy đo cái dễ đo: thu 1 triệu USD mà tiêu 2 triệu USD để có nó thì vô nghĩa`"]
+  n10 --- n16
+  n17["`#quot;Lợi nhuận là sự tỉnh táo, doanh thu là sự phù phiếm#quot; (Theo Paphitis)`"]
+  n10 --- n17
+  n18["`Thưởng theo số dòng mã thì mã sẽ dài như Chiến tranh và hoà bình`"]
+  n10 --- n18
+  n19["`KPI xoay quanh năm thành phần: tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính`"]
+  n10 --- n19
+  n20["`Chỉ 3–5 KPI mỗi hệ thống, đừng dựng bảng điều khiển chứa mọi thứ`"]
+  n10 --- n20
+  n21["`Mục 4–5 — Dữ liệu sạch và trung thực trong phân tích`"]
+  n0 --- n21
+  n22["`Rác vào, rác ra: dữ liệu kém thì phân tích vô dụng, tệ nhất là sai và gây hại`"]
+  n21 --- n22
+  n23["`Chất lượng và số lượng dữ liệu là mức trần của hiểu biết về hệ thống`"]
+  n21 --- n23
+  n24["`Muốn kết quả tốt hơn thì cải thiện chất lượng đầu vào`"]
+  n21 --- n24
+  n25["`P#amp;G: hệ thống đếm khách truy cập đếm cả chương trình máy dò trang của công cụ tìm kiếm`"]
+  n21 --- n25
+  n26["`Các nhóm từ chối sửa vì số khách truy cập, KPI của họ, sẽ giảm mạnh`"]
+  n21 --- n26
+  n27["`Trung thực trong phân tích: đo và đọc dữ liệu không thiên vị, kể cả khi bất lợi cho mình`"]
+  n21 --- n27
+  n28["`Cách chữa: giao việc kiểm tra số đo cho bên thứ ba không có lợi ích trong hệ thống`"]
+  n21 --- n28
+  n29["`Mục 6–10 — Đọc con số: bối cảnh, lấy mẫu, biên sai số, tỷ số, các loại trung bình`"]
+  n0 --- n29
+  n30["`Doanh thu 200.000 USD: tốt nếu tháng trước 100.000 USD, xấu nếu chi phí 400.000 USD`"]
+  n29 --- n30
+  n31["`Bẫy con số thần kỳ: một con số duy nhất không cho biết vì sao hay có quan trọng không`"]
+  n29 --- n31
+  n32["`Lấy mẫu: chọn ngẫu nhiên một phần nhỏ đại diện cho toàn bộ, như xét nghiệm máu`"]
+  n29 --- n32
+  n33["`Nhà máy điện thoại kiểm tra 1 trên 20 chiếc, khách hàng bí mật kiểm tra dịch vụ`"]
+  n29 --- n33
+  n34["`Mẫu thiên lệch: chủ nhà ở Manhattan cho thu nhập cao hơn nhiều so với Tây Virginia`"]
+  n29 --- n34
+  n35["`Đồng xu tung 5 lần chưa kết luận được, 1.000 lần ra 60% sấp thì khá chắc bị chỉnh`"]
+  n29 --- n35
+  n36["`Mẫu càng lớn càng tin được kết quả, luôn hỏi cỡ mẫu và cách thu`"]
+  n29 --- n36
+  n37["`Tỷ lệ chốt đơn 10/30 = 33% lên 15/30 = 50% sau khi đào tạo nhân viên`"]
+  n29 --- n37
+  n38["`ROI = tiền thu về / tiền bỏ ra − 1: chi 2 triệu USD thu 4 triệu USD là 100%`"]
+  n29 --- n38
+  n39["`Tỷ số giảm dần theo thời gian thì phải tìm nguyên nhân`"]
+  n29 --- n39
+  n40["`Tài sản trung bình của độc giả WSJ là 1,7 triệu USD vì Gates và Buffett kéo lên`"]
+  n29 --- n40
+  n41["`Trung vị là bách phân vị thứ 50, so với trung bình cộng để thấy giá trị ngoại lai kéo lệch`"]
+  n29 --- n41
+  n42["`Mốt tìm cụm dữ liệu, trung điểm = (lớn nhất + nhỏ nhất)/2 rất dễ lệch`"]
+  n29 --- n42
+  n43["`Mục 11–14 — Nhân quả, chuẩn so sánh, đại lượng thay thế, phân khúc`"]
+  n0 --- n43
+  n44["`Nhân quả là chuỗi nguyên nhân – kết quả tính được, như đường đi của bi cái trên bàn bi-a`"]
+  n43 --- n44
+  n45["`Tương quan không phải nhân quả: người đau tim cũng tắm 365 lần mỗi năm`"]
+  n43 --- n45
+  n46["`Pizza tăng 30% doanh số sau quảng cáo có thể do hội chợ, cuối năm học, khuyến mãi`"]
+  n43 --- n46
+  n47["`Hiệu chỉnh theo các biến đã biết bằng dữ liệu lịch sử để cô lập nguyên nhân`"]
+  n43 --- n47
+  n48["`Chuẩn so sánh: đồ Giáng sinh so quý 4 năm nay với quý 4 năm trước, không so quý 3`"]
+  n43 --- n48
+  n49["`Đổi phương pháp đo thì chuẩn cũ mất giá trị, như so táo với cam`"]
+  n43 --- n49
+  n50["`Đại lượng thay thế: đo thứ khác khi không đo trực tiếp được, như lá phiếu thay cho ý chí của dân`"]
+  n43 --- n50
+  n51["`Con trỏ chuột thay cho sự chú ý: 84% lần con trỏ vào một vùng thì mắt cũng nhìn theo`"]
+  n43 --- n51
+  n52["`Số dòng mã là đại lượng thay thế đánh lừa: nhiều mã có thể là năng suất thấp`"]
+  n43 --- n52
+  n53["`Phân khúc: 90% đơn mới từ phụ nữ ở Seattle hữu ích hơn con số đơn hàng tăng 87%`"]
+  n43 --- n53
+  n54["`Ba tiêu chí phân khúc khách hàng: hành vi trước đây, nhân khẩu học, tâm lý học`"]
+  n43 --- n54
+  n55["`Mục 15 — Gắn số liệu với con người thật`"]
+  n0 --- n55
+  n56["`Thời gian chờ điện thoại 10 xuống 8 phút là cải thiện 20%, nhưng khách vẫn bực suốt 8 phút`"]
+  n55 --- n56
+  n57["`Khách kể với bạn bè, đồng nghiệp làm hại uy tín hơn nhiều so với con số 20%`"]
+  n55 --- n57
+  n58["`P#amp;G dựng nhân vật hư cấu Wendy từ hai phân khúc: lau chùi kỹ và cần nhanh`"]
+  n55 --- n58
+  n59["`Nhóm tự hỏi Wendy có thích ý tưởng này không thay vì tra thống kê`"]
+  n55 --- n59
+  n60["`Đừng chỉ trình bày số, hãy kể câu chuyện giúp người khác hiểu`"]
+  n55 --- n60
+  n61["`Thông điệp xuyên suốt`"]
+  n0 --- n61
+  n62["`Không hiểu thì không thay đổi được, không đo thì không hiểu được`"]
+  n61 --- n62
+  n63["`Trước quyết định dựa trên số, hỏi so với cái gì, đo thế nào, ai đo, người thật trải qua gì`"]
+  n61 --- n63
+  n64["`Gắn tiền thưởng vào một chỉ số thì người ta tối ưu chỉ số thay vì mục tiêu`"]
+  n61 --- n64
+  n65["`Kết quả phân tích là đầu vào cho Chương 12, cải thiện hệ thống`"]
+  n61 --- n65
+  class n0 root
+  class n1,n10,n21,n29,n43,n55,n61 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59,n60,n62,n63,n64,n65 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 11 "El análisis de los sistemas" (tương ứng Chapter 10 "Analyzing Systems" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương 2–6 mô tả năm thành phần của một doanh nghiệp (tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính); các chương 7–9 bàn về con người (tâm trí, làm việc với chính mình, làm việc với người khác).
+
+Ba chương cuối bàn về hệ thống. Chương 10 ("Comprender los sistemas") cho người đọc từ vựng để mô tả một hệ thống: dòng chảy, tồn kho, quy trình, vòng phản hồi, sự phụ thuộc lẫn nhau, định luật Gall.
+
+Chương 11 là bước tiếp theo: trước khi sửa một hệ thống phải biết nó đang chạy ra sao, nên chương này dạy cách tách hệ thống thành phần nhỏ, đo nó, chọn chỉ số nào đáng theo dõi, và đọc số liệu cho đúng (bối cảnh, mẫu, sai số, tỷ số, các loại trung bình, tương quan và nhân quả, chuẩn so sánh, đại lượng thay thế, phân khúc, gắn số liệu với con người thật). Chương 12 ("Mejorar los sistemas") sẽ dùng kết quả phân tích này để cải thiện hệ thống.
+
+## Lưu ý
+
+Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, đọc qua OCR từ bản scan; các câu trích là bản dịch của người tổng hợp từ bản TBN. Người tổng hợp không có bản tiếng Anh để đối chiếu; tên tiếng Anh của các mục ghi theo hiểu biết chung về sách. Chương TBN có 15 mục. Một số chỗ bản dịch hoặc OCR có vấn đề:
+
+- Mục "El intervalo de confianza" (bản tiếng Anh: Margin of Error, tức **biên sai số**): bản TBN định nghĩa "khoảng tin cậy là xác suất một phân tích cụ thể là đúng" và viết "càng lấy nhiều mẫu thì khoảng tin cậy càng lớn". Theo thống kê học, cỡ mẫu càng lớn thì khoảng tin cậy (và biên sai số) càng **hẹp**, tức độ tin cậy vào kết quả càng cao. Ý mà Kaufman muốn nói rõ ràng là "mẫu càng lớn thì càng tin được kết quả"; bản tổng hợp diễn đạt theo ý đó và gọi mục này là "biên sai số và độ tin cậy".
+- "Ratio límite" trong bản TBN gần như chắc là cách dịch lệch của "closing ratio" (tỷ lệ chốt đơn: số người mua trên số khách tiềm năng được tiếp cận). Bản tổng hợp gọi là **tỷ lệ chốt đơn**.
+- Mục "Media, mediana, modo y rango medio": bản TBN viết trung bình cộng "được tính bằng cách cộng tất cả các giá trị", thiếu bước chia cho số giá trị; bản tổng hợp ghi đủ. "Modo" là cách dịch sát chữ "mode" (tiếng TBN chuẩn là "moda"), nghĩa là **mốt** (giá trị xuất hiện nhiều nhất). Câu "giàu hơn số tiền mà 0,01% doanh nhân ưu tú nhất kiếm được" trong bản TBN không rõ nghĩa; bản tổng hợp chỉ giữ ý tài sản hàng tỷ USD.
+- Mục "La ratio": câu định nghĩa ("chia kết quả cho dữ liệu đầu vào") bị dịch tối nghĩa; ý là tỷ số đặt hai đại lượng lên một phép chia để thấy quan hệ giữa chúng. Các tên tỷ số trong danh sách ("rendimiento neto del capital", "rentas del capital") bản dịch không chuẩn; bản tổng hợp dịch theo phần giải thích đi kèm.
+- "Agente" là cách bản dịch gọi "proxy" (**đại lượng thay thế**); "valorar el funcionamiento del sistema" là "measurement" (**đo lường**); "la objetividad en el análisis" là "analytical honesty" (**trung thực trong phân tích**).
+- Mục "Valorar el funcionamiento del sistema" có câu OCR/bản dịch hỏng "Medir uno en particular le permitirá comparar sistemas entre sí"; ý là đo lường cho phép so sánh các hệ thống với nhau.
+- OCR hỏng tên người: "ERIC EvANS", "W. EDWARDS DEMINS" (Deming), "WILL RODERS, COMbOy" (Will Rogers, cao bồi), "STowE BoyD", "GEORGE SANTAVANA" (Santayana), "STEVEN BRust, autor de Moros de ciencia ficción" (gần như chắc là "autor de novelas de ciencia ficción", tác giả tiểu thuyết khoa học viễn tưởng), "The God Stalker Chronicies" (Chronicles), "WS/" (WSJ).
+- Chương có hai dấu chú thích: (39) sau câu về lưu đồ, theo thứ tự chú thích cuối sách thực ra là chú thích [59] (OCR đọc nhầm 5 thành 3), nội dung chỉ là lời mời xem ví dụ thực hành trên trang web của sách; [60] sau trích dẫn nghiên cứu Carnegie Mellon là một đường dẫn URL. Cả hai chỉ là URL nên không đưa vào.
+- Bối cảnh: sách viết năm 2010. Các ví dụ phân tích web (đếm khách truy cập, "programas araña" của công cụ tìm kiếm, theo dõi con trỏ chuột) phản ánh công cụ thời đó; câu chuyện ở P&G là trải nghiệm của chính tác giả trước 2008.

@@ -1,19 +1,20 @@
 # Chương 9 — Làm việc với người khác (Trabajar en equipo; Working With Others)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 9 "Trabajar en equipo" (tương ứng Chapter 8 "Working With Others" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Các chương 2–6 mô tả năm phần của mọi doanh nghiệp: tạo giá trị, marketing, bán hàng, chuyển giao giá trị và tài chính. Các chương 7–9 chuyển sang con người đứng sau doanh nghiệp: chương 7 giải thích tâm trí con người vận hành thế nào (trong đó có các mô hình "kiểm soát nhận thức" và "kiềm chế" mà chương này dùng lại), chương 8 bàn cách một người tự quản lý năng suất của bản thân (năng lượng, sự tập trung, định luật Parkinson, chi phí chuyển đổi nhận thức, cấu trúc hỗ trợ). Chương 9 khép lại phần "con người": hầu như mọi việc trong kinh doanh đều phải làm cùng và thông qua người khác (khách hàng, nhân viên, nhà thầu, đối tác), nên chương này gom các mô hình về quyền lực, giao tiếp, tâm lý nhóm, ảnh hưởng xã hội và quản lý. Chương 10–12 sẽ chuyển sang hệ thống (hiểu, phân tích, cải thiện); chương này đã nhiều lần hẹn trước các khái niệm của phần đó: sự phụ thuộc lẫn nhau, khoảng dự phòng, vòng phản hồi, hệ quả ngoài ý muốn, sự bất định (chương 10), chuẩn mực nhóm và chỉ số đo lường then chốt (chương 11).
-**Ý chính:** Kaufman muốn người đọc hiểu rằng **không ai điều khiển được người khác; ta chỉ có thể hành động sao cho người khác muốn làm điều ta đề nghị**, và có những quy luật tâm lý khá ổn định quyết định khi nào người ta muốn hợp tác. Chương đi theo bốn bước. (1) Vì sao phải làm việc với người khác và cái giá của nó: **quyền lực** là khả năng ảnh hưởng tới hành động của người khác, và gây ảnh hưởng hiệu quả hơn ép buộc; **lợi thế so sánh** giải thích vì sao nên chuyên môn hoá và hợp tác; **chi phí giao tiếp** giải thích vì sao nhóm phải nhỏ (3 đến 8 người). (2) Cách giao tiếp để được hợp tác: con người cần **cảm giác được coi trọng** và **cảm giác an toàn**; **bộ ba ghi nhận, lịch sự, tôn trọng** đáp ứng cả hai; **đưa ra lý do** làm người ta dễ đồng ý hơn hẳn (thí nghiệm máy photocopy của Ellen Langer: 60% đồng ý khi không có lý do, 95% khi có lý do); **ý định của người chỉ huy** cho phép giao việc mà không phải quản lý từng chi tiết; **hiệu ứng người ngoài cuộc** đòi hỏi mỗi việc chỉ giao cho một người với một hạn chót; **ngụy biện lập kế hoạch** nhắc rằng kế hoạch luôn lạc quan quá mức. (3) Các lực tâm lý xã hội: **lời giới thiệu**, **hình thành phe nhóm** (thí nghiệm Robbers Cave), **hội tụ và phân kỳ**, **tín hiệu xã hội**, **bằng chứng xã hội**, **uy quyền** (thí nghiệm Milgram: 65% người tham gia đi tới mức 450 vôn), **cam kết và nhất quán**, **thiên lệch do động cơ khuyến khích**. (4) Các thiên lệch khi đánh giá người khác và cách xử lý: **thiên lệch cách làm của bản thân**, **hiệu ứng Pygmalion**, **lỗi quy kết**, **tập trung vào phương án**. Chương kết bằng mục **quản lý**, gom các mô hình trước thành sáu nguyên tắc: tuyển nhóm nhỏ và giỏi, truyền đạt rõ mục tiêu và trách nhiệm, đối xử tôn trọng, tạo môi trường làm việc rồi để người ta làm, không kỳ vọng kế hoạch chính xác, và đo lường để điều chỉnh.
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha qua OCR; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của các mục được ghi theo hiểu biết của người tổng hợp về bản gốc. Các điểm cần biết khi đối chiếu:
-> - **Tên chương TBN** "Trabajar en equipo" nghĩa đen là "làm việc theo nhóm", hẹp hơn tên gốc "Working With Others" (làm việc với người khác, gồm cả khách hàng, đối tác). File dùng tên gốc.
-> - **"La comunicación indirecta"** (nghĩa đen: giao tiếp gián tiếp) là cách dịch dễ gây hiểu lầm của *Communication Overhead*: ý của Kaufman là **phần thời gian phải bỏ ra để giao tiếp, phối hợp thay vì làm việc**, không phải giao tiếp qua trung gian. File gọi là "chi phí giao tiếp". Câu "cada miembro del equipo amplía más la capacidad del trabajo en red que la necesidad de comunicación" bị dịch rối; nghĩa hợp lý là trong nhóm nhỏ, mỗi thành viên thêm vào đóng góp năng lực nhiều hơn gánh nặng giao tiếp mà người đó tạo ra. Triệu chứng "El dominio de la información" trong danh sách tám triệu chứng cũng bị dịch tối nghĩa; người tổng hợp hiểu là mọi người chỉ phản ứng với thông tin đổ tới thay vì tự chủ động.
-> - **Tên mục TBN khác tên gốc:** "El triple ganador" (Golden Trifecta), "Dar explicaciones" (Reason Why), "Seguir el ejemplo de los otros" (Social Proof; trong thân bài bản dịch gọi lời chứng thực của khách hàng là "casos verídicos"), "El papel de los incentivos" (Incentive-Caused Bias), "El error de culpar a los otros" (Attribution Error), "Centrarse en las alternativas" (Option Orientation), "La gestión empresarial" (Management).
-> - **Câu tục ngữ bị thay:** trong mục về động cơ khuyến khích, bản TBN chèn tục ngữ "Cuando las barbas de tu vecino veas cortar, pon las tuyas a remojar" (thấy râu hàng xóm bị cạo thì đem râu mình đi ngâm nước, tức là hãy đề phòng), không khớp ý đoạn văn; người tổng hợp cho rằng bản gốc dùng câu quen thuộc của Warren Buffett "đừng bao giờ hỏi thợ cắt tóc xem anh có cần cắt tóc không", nhưng không có bản gốc để kiểm tra. File diễn đạt theo ý đoạn văn. Số điện thoại cấp cứu "061" trong mục hiệu ứng người ngoài cuộc là số của Tây Ban Nha do người dịch thay (bản gốc Mỹ hẳn là 911); file ghi là "số cấp cứu".
-> - **Chỗ có vẻ dịch lệch nghĩa:** (a) mục lỗi quy kết viết "khi ai đó *se pone nervioso* (trở nên bối rối, căng thẳng)", nhưng ví dụ ngay sau là nhà thầu làm trễ hạn, nên nghĩa hợp lý là "khi người khác làm hỏng việc"; file dùng nghĩa này. (b) Mục cam kết và nhất quán viết người bán thảm "luego se sirvió de la confianza" (rồi tận dụng lòng tin), nhưng mô tả ngay sau (nhân viên khiêng từng tấm thảm nặng xuống, khách thấy phải "đáp lại") là cơ chế **có qua có lại** (reciprocation); file ghi cả hai. (c) Mục động cơ khuyến khích viết trả thưởng cho nhân viên là "nói với họ rằng anh đánh giá cao công việc của họ, và thế là xoá mất động lực tự thân"; logic của đoạn là khoản tiền biến việc người đó tự nguyện làm thành một giao dịch có trả công; file diễn đạt theo logic này. (d) Mục tín hiệu xã hội liệt kê các nhu cầu cơ bản là "comprar, sentirse vinculado, aprender, defender y sentir"; "comprar" (mua) hẳn là "adquirir" (sở hữu, thu gom), tức năm động lực cốt lõi của con người ở chương 3 (sở hữu, gắn kết, học hỏi, tự vệ, cảm nhận). (e) Mục chi phí giao tiếp nói "nếu anh phụ trách một nhóm 5 đến 8 người thì ít nhất 80% công việc là giao tiếp"; con số có thể bị dịch lệch (bản gốc có thể nói về nhóm *lớn hơn* 5 đến 8 người), file giữ nguyên như bản TBN.
-> - **Lỗi OCR và lỗi chi tiết:** đoạn mở đầu chương bị OCR hỏng một dòng ("Ten rato, to ontie liste a tan alto con milar"), ý được khôi phục theo câu sau (khách hàng, nhân viên, nhà thầu, đối tác đều có động cơ riêng). "G0 %" là 60%. Eliezer Yudkowsky bị ghi "fundadora" (giống cái), ông là nam. Jean de La Bruyère bị ghi là người thế kỷ XVI, thực ra ông sống ở thế kỷ XVII (1645–1696). Tecumseh ghi "líder de la tribu shoni del siglo xvm" là thủ lĩnh người Shawnee thế kỷ XVIII. Cặp kình địch bóng bầu dục mà Kaufman nhắc được bản TBN ghi là Ohio State và Michigan State; cặp kình địch nổi tiếng nhất của Ohio State là Đại học Michigan (University of Michigan), không rõ lỗi do bản gốc hay bản dịch; file ghi "Michigan".
-> - **Bối cảnh 2010:** BlackBerry, Elance.com, oDesk.com (hai trang này sau đó sáp nhập thành Upwork), Sanka, vòng tay vàng Livestrong của Lance Armstrong (trước khi ông bị tước danh hiệu năm 2012 vì doping) đều là ví dụ của thời điểm viết sách. Kelsey là vợ của Kaufman.
-> - **Chú thích cuối sách:** ba chú thích thuộc chương này ([56] cho Michael Sutcliffe, [57] cho câu chuyện người bán thảm của Michael Masterson, [58] cho câu nói về nhân viên môi giới nhà đất) chỉ là đường dẫn web, nên đã bỏ.
+Kaufman muốn người đọc hiểu rằng **không ai điều khiển được người khác; ta chỉ có thể hành động sao cho người khác muốn làm điều ta đề nghị**, và có những quy luật tâm lý khá ổn định quyết định khi nào người ta muốn hợp tác.
+
+Chương đi theo bốn bước. (1) Vì sao phải làm việc với người khác và cái giá của nó: **quyền lực** là khả năng ảnh hưởng tới hành động của người khác, và gây ảnh hưởng hiệu quả hơn ép buộc; **lợi thế so sánh** giải thích vì sao nên chuyên môn hoá và hợp tác; **chi phí giao tiếp** giải thích vì sao nhóm phải nhỏ (3 đến 8 người).
+
+(2) Cách giao tiếp để được hợp tác: con người cần **cảm giác được coi trọng** và **cảm giác an toàn**; **bộ ba ghi nhận, lịch sự, tôn trọng** đáp ứng cả hai; **đưa ra lý do** làm người ta dễ đồng ý hơn hẳn (thí nghiệm máy photocopy của Ellen Langer: 60% đồng ý khi không có lý do, 95% khi có lý do).
+
+**Ý định của người chỉ huy** cho phép giao việc mà không phải quản lý từng chi tiết. **Hiệu ứng người ngoài cuộc** đòi hỏi mỗi việc chỉ giao cho một người với một hạn chót. **Ngụy biện lập kế hoạch** nhắc rằng kế hoạch luôn lạc quan quá mức.
+
+(3) Các lực tâm lý xã hội: **lời giới thiệu**, **hình thành phe nhóm** (thí nghiệm Robbers Cave), **hội tụ và phân kỳ**, **tín hiệu xã hội**, **bằng chứng xã hội**, **uy quyền** (thí nghiệm Milgram: 65% người tham gia đi tới mức 450 vôn), **cam kết và nhất quán**, **thiên lệch do động cơ khuyến khích**.
+
+(4) Các thiên lệch khi đánh giá người khác và cách xử lý: **thiên lệch cách làm của bản thân**, **hiệu ứng Pygmalion**, **lỗi quy kết**, **tập trung vào phương án**.
+
+Chương kết bằng mục **quản lý**, gom các mô hình trước thành sáu nguyên tắc: tuyển nhóm nhỏ và giỏi, truyền đạt rõ mục tiêu và trách nhiệm, đối xử tôn trọng, tạo môi trường làm việc rồi để người ta làm, không kỳ vọng kế hoạch chính xác, và đo lường để điều chỉnh.
 
 ## Sơ đồ
 
@@ -747,15 +748,27 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Nếu không ai điều khiển được người khác, làm thế nào để người khác làm việc cùng ta?** Bằng quyền lực theo nghĩa gây ảnh hưởng, không phải ép buộc: làm cho người kia tự muốn làm điều ta đề nghị. Các công cụ cụ thể là: làm người kia thấy được coi trọng và an toàn (chú ý, lắng nghe, không phán xét), áp dụng bộ ba ghi nhận, lịch sự, tôn trọng với mọi người, luôn đưa ra lý do khi nhờ việc (thí nghiệm Langer: tỷ lệ đồng ý tăng từ 60% lên 95%), giao việc bằng cách giải thích ý định của người chỉ huy thay vì quản lý vi mô, giao mỗi việc cho đúng một người với một hạn chót. Ngoài ra có các lực tâm lý xã hội có thể dùng: lời giới thiệu, bằng chứng xã hội, uy quyền chính đáng, cam kết nhỏ ban đầu, tín hiệu xã hội.
+1. **Nếu không ai điều khiển được người khác, làm thế nào để người khác làm việc cùng ta?** Bằng quyền lực theo nghĩa gây ảnh hưởng, không phải ép buộc: làm cho người kia tự muốn làm điều ta đề nghị.
+
+   Các công cụ cụ thể là: làm người kia thấy được coi trọng và an toàn (chú ý, lắng nghe, không phán xét), áp dụng bộ ba ghi nhận, lịch sự, tôn trọng với mọi người, luôn đưa ra lý do khi nhờ việc (thí nghiệm Langer: tỷ lệ đồng ý tăng từ 60% lên 95%), giao việc bằng cách giải thích ý định của người chỉ huy thay vì quản lý vi mô, giao mỗi việc cho đúng một người với một hạn chót. Ngoài ra có các lực tâm lý xã hội có thể dùng: lời giới thiệu, bằng chứng xã hội, uy quyền chính đáng, cam kết nhỏ ban đầu, tín hiệu xã hội.
 2. **Vì sao nên hợp tác, và vì sao nhóm phải nhỏ?** Theo lợi thế so sánh của Ricardo, mỗi người (hay mỗi nước) chuyên vào việc mình làm tương đối giỏi nhất rồi trao đổi thì tất cả đều có lợi; nhóm đa ngành có nhiều kỹ năng hơn nhóm đồng nhất. Nhưng mỗi người thêm vào làm tăng chi phí giao tiếp; quá khoảng 8 người, phần giao tiếp mà một người tạo ra lớn hơn năng lực người đó đóng góp, và tổ chức bắt đầu có các triệu chứng quan liêu (quyết định vô hình, việc dở dang, tê liệt vì phối hợp…). Vì vậy Kaufman khuyên nhóm 3 đến 8 người, càng tự chủ càng tốt.
-3. **Những sai lầm tâm lý nào làm hỏng việc làm việc với người khác, và tránh thế nào?** Hiệu ứng người ngoài cuộc (giao cho cả nhóm thì không ai làm: giao cho một người), ngụy biện lập kế hoạch (luôn ước tính thiếu thời gian: thêm khoảng dự phòng, coi kế hoạch là công cụ suy nghĩ), thiên lệch do động cơ khuyến khích (người được trả theo kết quả sẽ kéo ta về kết quả đó: chỉnh cơ chế khuyến khích cho khớp mục tiêu), thiên lệch cách làm của bản thân (tin cách của mình là tốt nhất: dùng dữ liệu, tạm gác phán xét), hình thành phe nhóm và hội tụ (bị nhóm cuốn theo: chọn nhóm có chủ đích), uy quyền (cấp dưới lọc thông tin: biết mình đang ở trong bong bóng), lỗi quy kết (đổ lỗi cho tính cách người khác: tìm hiểu hoàn cảnh trước), và tập trung vào vấn đề thay vì phương án (mang tới sếp các phương án kèm đề xuất).
+3. **Những sai lầm tâm lý nào làm hỏng việc làm việc với người khác, và tránh thế nào?**
+   - Hiệu ứng người ngoài cuộc (giao cho cả nhóm thì không ai làm: giao cho một người)
+   - Ngụy biện lập kế hoạch (luôn ước tính thiếu thời gian: thêm khoảng dự phòng, coi kế hoạch là công cụ suy nghĩ)
+   - Thiên lệch do động cơ khuyến khích (người được trả theo kết quả sẽ kéo ta về kết quả đó: chỉnh cơ chế khuyến khích cho khớp mục tiêu)
+   - Thiên lệch cách làm của bản thân (tin cách của mình là tốt nhất: dùng dữ liệu, tạm gác phán xét)
+   - Hình thành phe nhóm và hội tụ (bị nhóm cuốn theo: chọn nhóm có chủ đích)
+   - Uy quyền (cấp dưới lọc thông tin: biết mình đang ở trong bong bóng)
+   - Lỗi quy kết (đổ lỗi cho tính cách người khác: tìm hiểu hoàn cảnh trước)
+   - Tập trung vào vấn đề thay vì phương án (mang tới sếp các phương án kèm đề xuất)
 
 ## Khái niệm cần biết
 
 **Quyền lực, gây ảnh hưởng và ép buộc (power, influence, coercion).** Quyền lực là khả năng tác động tới hành động của người khác. Gây ảnh hưởng là làm người kia tự muốn làm; ép buộc là bắt người kia làm. Ví dụ trong sách: khơi lòng trung thành để nhân viên cố gắng là gây ảnh hưởng; doạ đuổi việc để bắt làm cuối tuần là ép buộc. Quan trọng vì mọi mô hình còn lại trong chương là các cách gây ảnh hưởng; ép buộc tạo ra thù hằn, trả đũa và người giỏi bỏ đi.
 
-**Lợi thế so sánh (comparative advantage).** Một bên có lợi thế so sánh ở một việc nếu chi phí cơ hội làm việc đó của bên này thấp hơn của bên kia. Ví dụ minh hoạ của người tổng hợp (theo các số kinh điển của Ricardo): để làm một đơn vị vải, Anh cần 100 công, Bồ Đào Nha cần 90; để làm một đơn vị rượu, Anh cần 120 công, Bồ Đào Nha cần 80. Bồ Đào Nha giỏi hơn ở cả hai, nhưng làm rượu thì Bồ Đào Nha chỉ tốn 80/120 ≈ 0,67 công sức của Anh, còn làm vải tốn 90/100 = 0,9; nên Bồ Đào Nha chuyên làm rượu, Anh chuyên làm vải, rồi trao đổi, thì cả hai có nhiều hàng hơn. Quan trọng vì nó cho thấy ngay cả người giỏi hơn đồng nghiệp ở mọi việc vẫn nên giao bớt việc.
+**Lợi thế so sánh (comparative advantage).** Một bên có lợi thế so sánh ở một việc nếu chi phí cơ hội làm việc đó của bên này thấp hơn của bên kia. Ví dụ minh hoạ của người tổng hợp (theo các số kinh điển của Ricardo): để làm một đơn vị vải, Anh cần 100 công, Bồ Đào Nha cần 90; để làm một đơn vị rượu, Anh cần 120 công, Bồ Đào Nha cần 80.
+
+Bồ Đào Nha giỏi hơn ở cả hai, nhưng làm rượu thì Bồ Đào Nha chỉ tốn 80/120 ≈ 0,67 công sức của Anh, còn làm vải tốn 90/100 = 0,9; nên Bồ Đào Nha chuyên làm rượu, Anh chuyên làm vải, rồi trao đổi, thì cả hai có nhiều hàng hơn. Quan trọng vì nó cho thấy ngay cả người giỏi hơn đồng nghiệp ở mọi việc vẫn nên giao bớt việc.
 
 **Chi phí giao tiếp (communication overhead).** Phần thời gian phải dùng để giao tiếp, phối hợp thay vì làm việc; tăng nhanh khi nhóm đông thêm. Ví dụ trong sách: Kaufman ở P&G dành 3 tháng, 99% thời gian chỉ để giao tiếp nhằm có một đề xuất khả thi. Minh hoạ của người tổng hợp: số kênh liên lạc từng cặp trong nhóm n người là n(n−1)/2, tức 3 kênh với 3 người, 28 kênh với 8 người, 190 kênh với 20 người. Quan trọng vì nó giải thích vì sao công ty lớn chậm và vì sao nhóm tốt nhất có 3 đến 8 người.
 
@@ -815,7 +828,9 @@ Một nhóm đông người tất yếu mang tính chính trị vì quyền lự
 
 Đề từ của nữ diễn viên, ca sĩ Mỹ Judy Garland: hãy là phiên bản hạng nhất của chính mình, đừng làm phiên bản hạng hai của người khác.
 
-Kaufman đặt câu hỏi: nếu không điều khiển được người khác và không bắt họ làm đúng điều mình muốn, thì tại sao phải làm việc với họ? Câu trả lời nằm ở **lợi thế so sánh**, một khái niệm của kinh tế học (bản dịch gọi kinh tế học là "khoa học ảm đạm"). Quy luật lợi thế so sánh của David Ricardo, trình bày trong sách *Các nguyên lý của kinh tế chính trị và thuế khoá* (1817), trả lời một câu hỏi về chính sách quốc tế: một nước tự cung tự cấp mọi hàng hoá thì tốt hơn, hay chuyên môn hoá vào vài thứ rồi trao đổi với các nước khác thì tốt hơn? Lấy ví dụ Bồ Đào Nha và Anh, Ricardo tính rằng dù cả hai nước đều làm được vải và rượu, Anh làm vải tốn ít công sức hơn còn Bồ Đào Nha nổi trội về rượu. Vì vậy, thay vì cả hai mất thời gian và tiền bạc cố làm những thứ mình không nổi trội, Ricardo cho rằng cả hai sẽ giàu hơn nếu chuyên môn hoá rồi trao đổi với nhau.
+Kaufman đặt câu hỏi: nếu không điều khiển được người khác và không bắt họ làm đúng điều mình muốn, thì tại sao phải làm việc với họ? Câu trả lời nằm ở **lợi thế so sánh**, một khái niệm của kinh tế học (bản dịch gọi kinh tế học là "khoa học ảm đạm"). Quy luật lợi thế so sánh của David Ricardo, trình bày trong sách *Các nguyên lý của kinh tế chính trị và thuế khoá* (1817), trả lời một câu hỏi về chính sách quốc tế: một nước tự cung tự cấp mọi hàng hoá thì tốt hơn, hay chuyên môn hoá vào vài thứ rồi trao đổi với các nước khác thì tốt hơn?
+
+Lấy ví dụ Bồ Đào Nha và Anh, Ricardo tính rằng dù cả hai nước đều làm được vải và rượu, Anh làm vải tốn ít công sức hơn còn Bồ Đào Nha nổi trội về rượu. Vì vậy, thay vì cả hai mất thời gian và tiền bạc cố làm những thứ mình không nổi trội, Ricardo cho rằng cả hai sẽ giàu hơn nếu chuyên môn hoá rồi trao đổi với nhau.
 
 Lợi thế so sánh nghĩa là phát huy điểm mạnh và không để điểm yếu lộ ra. Marcus Buckingham và Curt Coffman (*Trước hết, hãy phá mọi quy tắc: điều các nhà quản lý giỏi nhất làm khác đi*) và Tom Rath (*StrengthsFinder 2.0*) cùng trình bày kết quả của tổ chức Gallup từ nghiên cứu quy mô lớn về năng suất con người. Có vẻ lợi thế so sánh áp dụng cho cá nhân cũng như cho quốc gia: doanh nghiệp vận hành tốt hơn nếu người điều hành tập trung vào việc mình nổi trội và làm việc với các chuyên gia để đạt mục tiêu. "Quản lý dựa trên điểm mạnh" là một tên gọi khác của lợi thế so sánh.
 
@@ -837,7 +852,9 @@ Các kíp phẫu thuật chuyên sâu, đơn vị quân đội và đội thể 
 
 Các công ty lớn chậm vì mắc "hội chứng" chi phí giao tiếp. Theo bản dịch, nếu phụ trách làm việc với một nhóm từ 5 đến 8 người, ít nhất 80% công việc sẽ tất yếu là giao tiếp với đồng nghiệp. Mục tiêu, kế hoạch và ý tưởng đều vô dụng nếu mọi người liên quan không hiểu chúng hoàn toàn trước khi hành động.
 
-Kaufman gặp tình huống này hằng ngày khi làm ở P&G. Một trong các dự án chính của ông là xây dựng một chiến lược toàn công ty để đo lường tác động của một số chiến thuật marketing. Vì dự án mang tính toàn cầu, ông phải lấy thông tin hoặc sự phê duyệt của hàng chục người khắp công ty trước khi triển khai. Lẽ tự nhiên, mỗi người có ý tưởng riêng, đưa ra và tranh luận các quan điểm khác nhau, và muốn có phần của mình mà không phải cam kết nhiều về công sức hay chi phí. Ông mất ba tháng toàn thời gian chỉ để định hình một đề xuất khả thi. Trong thời gian đó ông không hoàn thành việc nào khác: 99% thời gian làm việc dùng để giao tiếp với các thành viên khác. Đó là chi phí giao tiếp.
+Kaufman gặp tình huống này hằng ngày khi làm ở P&G. Một trong các dự án chính của ông là xây dựng một chiến lược toàn công ty để đo lường tác động của một số chiến thuật marketing. Vì dự án mang tính toàn cầu, ông phải lấy thông tin hoặc sự phê duyệt của hàng chục người khắp công ty trước khi triển khai.
+
+Lẽ tự nhiên, mỗi người có ý tưởng riêng, đưa ra và tranh luận các quan điểm khác nhau, và muốn có phần của mình mà không phải cam kết nhiều về công sức hay chi phí. Ông mất ba tháng toàn thời gian chỉ để định hình một đề xuất khả thi. Trong thời gian đó ông không hoàn thành việc nào khác: 99% thời gian làm việc dùng để giao tiếp với các thành viên khác. Đó là chi phí giao tiếp.
 
 Michael Sutcliffe (Đại học Cambridge) nêu **tám triệu chứng của khủng hoảng quan liêu** xuất hiện ở những nhóm bị chi phí giao tiếp đè nặng:
 
@@ -985,7 +1002,9 @@ Càng nhiều người biết, tin và quý mình, mọi việc càng thuận l�
 
 Đề từ của Eliezer Yudkowsky, chuyên gia trí tuệ nhân tạo, người lập lesswrong.com: tiếng hô xung trận "Chết đi, đồ sâu bọ!" truyền cảm hứng hơn nhiều so với "Chết đi, kẻ lẽ ra có thể giống ta nếu không lớn lên trong môi trường khác!"
 
-Năm 1954, 22 cậu bé 12 tuổi được chọn tham dự một trại hè đặc biệt ở công viên Robbers Cave, bang Oklahoma. Điều đặc biệt là trại hè thật ra là một thí nghiệm tâm lý do hai tiến sĩ Muzafer và Carolyn Sherif chỉ đạo. Các cậu bé được chọn để thành một nhóm rất đồng đều: các nhà tâm lý bảo đảm mọi em có chỉ số thông minh, gia đình và trải nghiệm tuổi thơ tương tự nhau. Trước khi bắt đầu, các em được chia làm hai nhóm, mỗi nhóm ở một đầu công viên. Theo quy trình, không nhóm nào biết nhóm kia tồn tại. Kế hoạch ban đầu là để mỗi nhóm có thời gian gắn kết, rồi mới cho biết có nhóm kia để xem chuyện gì xảy ra. Người phụ trách trại là các nhà tâm lý và sinh viên tốt nghiệp được giao quan sát diễn biến từ gần.
+Năm 1954, 22 cậu bé 12 tuổi được chọn tham dự một trại hè đặc biệt ở công viên Robbers Cave, bang Oklahoma. Điều đặc biệt là trại hè thật ra là một thí nghiệm tâm lý do hai tiến sĩ Muzafer và Carolyn Sherif chỉ đạo. Các cậu bé được chọn để thành một nhóm rất đồng đều: các nhà tâm lý bảo đảm mọi em có chỉ số thông minh, gia đình và trải nghiệm tuổi thơ tương tự nhau. Trước khi bắt đầu, các em được chia làm hai nhóm, mỗi nhóm ở một đầu công viên.
+
+Theo quy trình, không nhóm nào biết nhóm kia tồn tại. Kế hoạch ban đầu là để mỗi nhóm có thời gian gắn kết, rồi mới cho biết có nhóm kia để xem chuyện gì xảy ra. Người phụ trách trại là các nhà tâm lý và sinh viên tốt nghiệp được giao quan sát diễn biến từ gần.
 
 Chuyện xảy ra là: hai nhóm tình cờ phát hiện ra nhau sớm hơn dự kiến, và thù địch nổi lên ngay. Khi biết có một nhóm khác trong trại, các cậu bé đoàn kết lại và chuẩn bị phòng thủ.
 
@@ -1041,7 +1060,9 @@ Các tín hiệu xã hội này có giá trị kinh tế thật. Kaufman khuyên
 
 Đang đứng chờ đèn để sang đường, người bên cạnh bỗng bước đi. Nhiều khả năng mình cũng bước theo, trừ khi dùng ý chí để chủ động kìm phản ứng đó lại.
 
-Trong phần lớn trường hợp, hành động của những người ở cùng hoàn cảnh được coi là dấu hiệu cho thấy hành vi đó đúng. Khi tình huống mơ hồ, ta học bằng cách quan sát người khác. Tục ngữ nói "nhập gia tuỳ tục", làm thế thì không sai. **Bằng chứng xã hội** có sức sống riêng. Các trào lưu nhất thời thường hình thành khi một người làm gì đó, người khác coi đó là tín hiệu và làm theo; như vậy tạo thành một vòng phản hồi (sẽ bàn ở chương 10). Hòn đá thú cưng (Pet Rock), vòng tay vàng của tay đua xe đạp Lance Armstrong ủng hộ phòng chống ung thư, các video lan truyền trên mạng và các bong bóng chứng khoán đều thành hiện tượng nhờ bằng chứng xã hội: nếu số đông làm vậy thì dễ kết luận rằng mình cũng nên làm.
+Trong phần lớn trường hợp, hành động của những người ở cùng hoàn cảnh được coi là dấu hiệu cho thấy hành vi đó đúng. Khi tình huống mơ hồ, ta học bằng cách quan sát người khác. Tục ngữ nói "nhập gia tuỳ tục", làm thế thì không sai. **Bằng chứng xã hội** có sức sống riêng. Các trào lưu nhất thời thường hình thành khi một người làm gì đó, người khác coi đó là tín hiệu và làm theo; như vậy tạo thành một vòng phản hồi (sẽ bàn ở chương 10).
+
+Hòn đá thú cưng (Pet Rock), vòng tay vàng của tay đua xe đạp Lance Armstrong ủng hộ phòng chống ung thư, các video lan truyền trên mạng và các bong bóng chứng khoán đều thành hiện tượng nhờ bằng chứng xã hội: nếu số đông làm vậy thì dễ kết luận rằng mình cũng nên làm.
 
 Dùng lời chứng thực thật là chiến lược phổ biến trong kinh doanh để bán được nhiều hơn. Amazon.com và các nhà bán lẻ trực tuyến khác dùng đánh giá của người mua vì câu chuyện của những người hài lòng là dấu hiệu rõ rằng mua là đúng, và điều đó làm tăng số người mua.
 
@@ -1080,7 +1101,11 @@ Vài tháng trước khi viết, Kelsey nhận cuộc gọi từ trường đạ
 
 Không ai thích bị nói là không giữ lời. Trong suốt lịch sử, **cam kết** giúp gắn kết các nhóm. Thất hứa thường gây hậu quả xấu cho địa vị xã hội và danh tiếng, nên đa số sẽ làm mọi cách để hành động **nhất quán** với các quyết định và lời hứa trước đó. Ngay cả cam kết nhỏ nhất cũng làm tăng khả năng sau này người ta hành động nhất quán với nó.
 
-Một trong những câu chuyện về cam kết Kaufman thích nhất là của Michael Masterson trong *Ready, Fire, Aim*. Trong một chuyến đi Ấn Độ, Masterson vào một cửa hàng thảm với tâm thế rất hoài nghi, không định mua, chỉ muốn trải nghiệm. Người bán thảm là một người bán hàng xuất sắc và dựa vào hai điểm mạnh. Để vượt qua sự hoài nghi của Masterson, ông kể vài giai thoại về các lần bán trước, để lấy cảm tình và tạo lòng tin trước khi bán. Sau đó (bản dịch nói ông "tận dụng lòng tin"; mô tả tiếp theo cho thấy đây là cơ chế có qua có lại): mỗi lần Masterson liếc một tấm thảm, chủ cửa hàng bắt nhân viên khiêng nó từ trên giá xuống để trưng bày tỉ mỉ. Thảm rất nặng, và rõ ràng mọi người đang cố làm khách hài lòng. Từ một cam kết tối thiểu (tỏ ra quan tâm tới một tấm thảm), Masterson đã kích hoạt cả một cơn sốt hoạt động. Càng lâu, Masterson càng khó rời đi mà không mua một tấm: làm vậy sẽ không nhất quán với sự quan tâm ông đã bày tỏ và với công sức ông đã gây ra cho nhân viên. Điều tối thiểu ông có thể làm là đáp lại, và ông không thể từ chối điều đó. Cuối cùng ông mua một tấm thảm 8.200 USD và ra về hài lòng.
+Một trong những câu chuyện về cam kết Kaufman thích nhất là của Michael Masterson trong *Ready, Fire, Aim*. Trong một chuyến đi Ấn Độ, Masterson vào một cửa hàng thảm với tâm thế rất hoài nghi, không định mua, chỉ muốn trải nghiệm. Người bán thảm là một người bán hàng xuất sắc và dựa vào hai điểm mạnh. Để vượt qua sự hoài nghi của Masterson, ông kể vài giai thoại về các lần bán trước, để lấy cảm tình và tạo lòng tin trước khi bán.
+
+Sau đó (bản dịch nói ông "tận dụng lòng tin"; mô tả tiếp theo cho thấy đây là cơ chế có qua có lại): mỗi lần Masterson liếc một tấm thảm, chủ cửa hàng bắt nhân viên khiêng nó từ trên giá xuống để trưng bày tỉ mỉ. Thảm rất nặng, và rõ ràng mọi người đang cố làm khách hài lòng. Từ một cam kết tối thiểu (tỏ ra quan tâm tới một tấm thảm), Masterson đã kích hoạt cả một cơn sốt hoạt động.
+
+Càng lâu, Masterson càng khó rời đi mà không mua một tấm: làm vậy sẽ không nhất quán với sự quan tâm ông đã bày tỏ và với công sức ông đã gây ra cho nhân viên. Điều tối thiểu ông có thể làm là đáp lại, và ông không thể từ chối điều đó. Cuối cùng ông mua một tấm thảm 8.200 USD và ra về hài lòng.
 
 Nếu khiến người ta cam kết một chút, họ sẽ có xu hướng hành động nhất quán. Người bán hàng được dạy làm mọi cách để khách nói "có" càng sớm càng tốt. Bằng cách "đặt một chân vào cửa", họ tăng khả năng khách tiềm năng hành động.
 
@@ -1094,7 +1119,7 @@ Hãy làm cho người khác cam kết một chút, và họ sẽ dễ đồng �
 
 Ai từng làm việc với một nhân viên môi giới nhà đất hay chuyên viên tư vấn vay mua nhà sẽ thấy động cơ của họ là thuyết phục mình mua nhà. Hệ quả là phần lớn họ sẽ không nói với mình rằng thuê nhà có lợi hơn, kể cả khi biết là như vậy.
 
-Thiên lệch của người được trả theo động cơ khuyến khích thể hiện rõ khi họ hành động vì một lợi ích nhất định: họ sẽ muốn kéo mình về phía của họ. Kaufman nhắc lại ý đã bàn ở mô hình về người trung gian trước đó trong sách: làm việc với một người hưởng hoa hồng thì khó mà người đó khuyên mình đừng mua, vì như thế không có lợi cho họ. (Bản dịch chèn một câu tục ngữ Tây Ban Nha ở chỗ này; xem khối Lưu ý.)
+Thiên lệch của người được trả theo động cơ khuyến khích thể hiện rõ khi họ hành động vì một lợi ích nhất định: họ sẽ muốn kéo mình về phía của họ. Kaufman nhắc lại ý đã bàn ở mô hình về người trung gian trước đó trong sách: làm việc với một người hưởng hoa hồng thì khó mà người đó khuyên mình đừng mua, vì như thế không có lợi cho họ. (Bản dịch chèn một câu tục ngữ Tây Ban Nha ở chỗ này; xem mục Lưu ý cuối chương.)
 
 Động cơ khuyến khích ảnh hưởng tới hành động của người làm trung gian vì thu nhập của họ phụ thuộc vào khoản thù lao. Vì thế, động cơ khuyến khích ảnh hưởng đáng kể tới hành vi của người làm việc trong những điều kiện đó. Giả sử mọi thứ khác không đổi, thay đổi động cơ khuyến khích sẽ làm thay đổi hành vi.
 
@@ -1189,7 +1214,16 @@ Dựa trên những gì đã học được, Kaufman nêu sáu nguyên tắc cơ
 
 Làm tốt thì nhóm sẽ rất năng suất. Làm kém thì may lắm mới có chút kết quả.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, số giả định). Một công ty phần mềm 40 người ở Hà Nội nhận dự án làm ứng dụng đặt lịch khám cho một chuỗi phòng khám, hạn 4 tháng. Giám đốc ban đầu định dồn 15 người vào dự án "cho nhanh". Áp dụng chương này: (1) Chi phí giao tiếp: với 15 người có 15×14/2 = 105 cặp liên lạc, so với 21 cặp nếu chỉ 7 người; giám đốc chọn nhóm 6 người (hai lập trình viên di động, hai lập trình viên máy chủ, một thiết kế, một kiểm thử), theo lợi thế so sánh, mỗi người làm phần mình mạnh nhất. (2) Ý định của người chỉ huy: thay vì giao danh sách 200 tính năng, trưởng nhóm nói rõ "mục tiêu là bệnh nhân đặt được lịch trong dưới 1 phút và phòng khám giảm cuộc gọi đặt lịch"; khi một tính năng tỏ ra quá tốn công, nhóm tự đề xuất cắt mà không cần họp xin phép. (3) Hiệu ứng người ngoài cuộc: mỗi đầu việc trên bảng công việc ghi đúng một tên và một ngày. (4) Ngụy biện lập kế hoạch: ước tính ban đầu là 14 tuần; trưởng nhóm cộng thêm 3 tuần dự phòng và trình khách hàng mốc 17 tuần, còn nội bộ vẫn nhắm 14 tuần. (5) Thiên lệch do động cơ khuyến khích: nhân viên kinh doanh hưởng hoa hồng theo giá trị hợp đồng đã hứa thêm tính năng thanh toán trực tuyến không có trong kế hoạch; công ty sửa quy chế để hoa hồng tính một phần theo mức độ hài lòng của khách sau nghiệm thu. (6) Tập trung vào phương án: khi phát hiện lỗi đồng bộ dữ liệu ở tuần 10, trưởng nhóm không báo "có vấn đề lớn", mà mang tới giám đốc hai phương án (sửa kiến trúc, tốn 2 tuần; vá tạm, tốn 3 ngày nhưng rủi ro lỗi lại) và đề xuất sửa kiến trúc, dùng 2 trong 3 tuần dự phòng. Dự án bàn giao ở tuần 16, sớm hơn mốc đã hứa.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, số giả định). Một công ty phần mềm 40 người ở Hà Nội nhận dự án làm ứng dụng đặt lịch khám cho một chuỗi phòng khám, hạn 4 tháng. Giám đốc ban đầu định dồn 15 người vào dự án "cho nhanh". Áp dụng chương này:
+
+1. Chi phí giao tiếp: với 15 người có 15×14/2 = 105 cặp liên lạc, so với 21 cặp nếu chỉ 7 người; giám đốc chọn nhóm 6 người (hai lập trình viên di động, hai lập trình viên máy chủ, một thiết kế, một kiểm thử), theo lợi thế so sánh, mỗi người làm phần mình mạnh nhất.
+2. Ý định của người chỉ huy: thay vì giao danh sách 200 tính năng, trưởng nhóm nói rõ "mục tiêu là bệnh nhân đặt được lịch trong dưới 1 phút và phòng khám giảm cuộc gọi đặt lịch"; khi một tính năng tỏ ra quá tốn công, nhóm tự đề xuất cắt mà không cần họp xin phép.
+3. Hiệu ứng người ngoài cuộc: mỗi đầu việc trên bảng công việc ghi đúng một tên và một ngày.
+4. Ngụy biện lập kế hoạch: ước tính ban đầu là 14 tuần; trưởng nhóm cộng thêm 3 tuần dự phòng và trình khách hàng mốc 17 tuần, còn nội bộ vẫn nhắm 14 tuần.
+5. Thiên lệch do động cơ khuyến khích: nhân viên kinh doanh hưởng hoa hồng theo giá trị hợp đồng đã hứa thêm tính năng thanh toán trực tuyến không có trong kế hoạch; công ty sửa quy chế để hoa hồng tính một phần theo mức độ hài lòng của khách sau nghiệm thu.
+6. Tập trung vào phương án: khi phát hiện lỗi đồng bộ dữ liệu ở tuần 10, trưởng nhóm không báo "có vấn đề lớn", mà mang tới giám đốc hai phương án (sửa kiến trúc, tốn 2 tuần; vá tạm, tốn 3 ngày nhưng rủi ro lỗi lại) và đề xuất sửa kiến trúc, dùng 2 trong 3 tuần dự phòng.
+
+Dự án bàn giao ở tuần 16, sớm hơn mốc đã hứa.
 
 ## Luận điểm cốt lõi
 
@@ -1349,7 +1383,9 @@ Các mô hình vẫn hữu ích như quy tắc kinh nghiệm, nhưng người đ
 
 ### Phần ảnh hưởng xã hội dạy cả cách thuyết phục lẫn cách bị thao túng, nhưng chương ít bàn ranh giới đạo đức
 
-Các mục lời giới thiệu, tín hiệu xã hội, bằng chứng xã hội, uy quyền, cam kết và nhất quán được viết chủ yếu từ góc người bán: "thêm lời chứng thực và doanh số sẽ tăng vọt", "khiến người ta cam kết một chút". Ví dụ Sanka dùng một diễn viên đóng vai bác sĩ, tức uy quyền giả, được kể như một thành công. Ví dụ quyên góp 150 USD và tấm thảm 8.200 USD cho thấy chính vợ chồng Kaufman và Masterson là người bị kỹ thuật cam kết tác động. Kaufman có nhắc quyền lực phải dùng trong giới hạn tôn trọng quyền người khác (mục quyền lực), nhưng không đặt giới hạn đó vào các mục ảnh hưởng. Từ 2010, các luật bảo vệ người tiêu dùng và quy định về quảng cáo (ví dụ yêu cầu ghi rõ nội dung được trả tiền, cấm đánh giá giả) đã siết chặt đúng những kỹ thuật này; đánh giá giả trên các sàn thương mại điện tử cũng làm giảm giá trị của bằng chứng xã hội.
+Các mục lời giới thiệu, tín hiệu xã hội, bằng chứng xã hội, uy quyền, cam kết và nhất quán được viết chủ yếu từ góc người bán: "thêm lời chứng thực và doanh số sẽ tăng vọt", "khiến người ta cam kết một chút". Ví dụ Sanka dùng một diễn viên đóng vai bác sĩ, tức uy quyền giả, được kể như một thành công. Ví dụ quyên góp 150 USD và tấm thảm 8.200 USD cho thấy chính vợ chồng Kaufman và Masterson là người bị kỹ thuật cam kết tác động.
+
+Kaufman có nhắc quyền lực phải dùng trong giới hạn tôn trọng quyền người khác (mục quyền lực), nhưng không đặt giới hạn đó vào các mục ảnh hưởng. Từ 2010, các luật bảo vệ người tiêu dùng và quy định về quảng cáo (ví dụ yêu cầu ghi rõ nội dung được trả tiền, cấm đánh giá giả) đã siết chặt đúng những kỹ thuật này; đánh giá giả trên các sàn thương mại điện tử cũng làm giảm giá trị của bằng chứng xã hội.
 
 ### Từ 2010, làm việc từ xa và công cụ cộng tác làm chi phí giao tiếp đổi dạng chứ không biến mất
 
@@ -1364,4 +1400,194 @@ Kaufman khuyên "loại người thừa khỏi nhóm" và "tuyển đội tốt 
 - **Trong doanh nghiệp.** Rà lại các nhóm dự án: nhóm nào trên 8 người, việc nào trên bảng công việc ghi "cả nhóm" hoặc tên một phòng ban thay vì tên một người, việc nào không có hạn chót. Khi giao việc, viết một câu mục đích ("việc này để làm gì, thành công trông thế nào") trước danh sách nhiệm vụ. Xem lại cơ chế hoa hồng và thưởng: nó thưởng cho điều công ty thật sự muốn (khách quay lại, đơn có lời) hay chỉ cho số lượng. Với quyết định quan trọng, yêu cầu dữ liệu trước ý kiến để tránh việc ý kiến của người lương cao nhất thắng mặc định.
 - **Trong nghề nghiệp.** Khi báo cáo sự cố lên cấp trên, luôn mang theo hai, ba phương án kèm chi phí và một đề xuất. Khi làm việc với đồng nghiệp ở phòng ban khác, đưa lý do kèm mỗi yêu cầu. Khi nhận lời khuyên từ người hưởng hoa hồng (môi giới bất động sản, tư vấn bảo hiểm, tư vấn đầu tư), hỏi họ được trả công thế nào. Chọn có chủ đích năm người mình dành nhiều thời gian nhất.
 - **Khi khởi nghiệp hoặc kinh doanh nhỏ.** Tập trung vào việc mình làm giỏi nhất, thuê ngoài kế toán, thiết kế, lập trình khi có thể, nhưng học đủ kiến thức cơ bản để đánh giá người mình thuê. Xây kênh khách hàng từ lời giới thiệu (xin khách cũ giới thiệu, ưu đãi cho người giới thiệu). Thu thập lời chứng thực thật, giọng mộc mạc, không cường điệu. Khi lập kế hoạch ra mắt, cộng thêm khoảng dự phòng và nói với nhà đầu tư hay đối tác mốc có dự phòng.
-- **Ở Việt Nam.** Trong môi trường làm việc có khoảng cách quyền lực lớn và văn hoá giữ thể diện, mục uy quyền và mục cảm giác an toàn đặc biệt đáng chú ý: cấp dưới thường ngại nói thẳng với sếp, nên người lãnh đạo dễ sống trong bong bóng thông tin; cách sửa là chủ động hỏi ý kiến trước khi nêu ý của mình, và cảm ơn người mang tin xấu. Văn hoá "quan hệ" và giới thiệu qua người quen mạnh, nên lời giới thiệu thường là kênh bán hàng và tuyển dụng hiệu quả nhất của doanh nghiệp nhỏ. Hiệu ứng người ngoài cuộc hay gặp trong các cuộc họp liên phòng ban hoặc các "tổ công tác" nhiều thành phần: kết luận cuộc họp nên ghi rõ tên một người chủ trì và một ngày hoàn thành cho mỗi việc. Văn hoá ngồi lại muộn để "tỏ ra chăm chỉ" ở một số cơ quan, công ty là ví dụ trực tiếp của hội tụ trong mục hội tụ và phân kỳ.
+- **Ở Việt Nam.** Trong môi trường làm việc có khoảng cách quyền lực lớn và văn hoá giữ thể diện, mục uy quyền và mục cảm giác an toàn đặc biệt đáng chú ý: cấp dưới thường ngại nói thẳng với sếp, nên người lãnh đạo dễ sống trong bong bóng thông tin; cách sửa là chủ động hỏi ý kiến trước khi nêu ý của mình, và cảm ơn người mang tin xấu. Văn hoá "quan hệ" và giới thiệu qua người quen mạnh, nên lời giới thiệu thường là kênh bán hàng và tuyển dụng hiệu quả nhất của doanh nghiệp nhỏ.
+
+  Hiệu ứng người ngoài cuộc hay gặp trong các cuộc họp liên phòng ban hoặc các "tổ công tác" nhiều thành phần: kết luận cuộc họp nên ghi rõ tên một người chủ trì và một ngày hoàn thành cho mỗi việc. Văn hoá ngồi lại muộn để "tỏ ra chăm chỉ" ở một số cơ quan, công ty là ví dụ trực tiếp của hội tụ trong mục hội tụ và phân kỳ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: sáu nhánh lớn đi theo 23 mục của phần Nội dung chi tiết (mục 1–3 về quyền lực, lợi thế so sánh và chi phí giao tiếp; mục 4–7 về giao tiếp để được hợp tác; mục 8–10 về giao việc và lập kế hoạch; mục 11–17 về các lực tâm lý xã hội; mục 18–22 về các thiên lệch khi đánh giá người khác; mục 23 về quản lý), mỗi nhánh ghi tên mô hình kèm định nghĩa ngắn, ví dụ, con số và lời khuyên áp dụng; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: không ai điều khiển được người khác, chỉ có thể làm họ muốn làm điều ta đề nghị`"]
+  n1["`Mục 1–3 — Hợp tác đáng giá, nhưng nhóm phải nhỏ`"]
+  n0 --- n1
+  n2["`Quyền lực là khả năng tác động tới hành động người khác, theo hai cách`"]
+  n1 --- n2
+  n3["`Gây ảnh hưởng: làm người kia tự muốn, như khơi lòng trung thành`"]
+  n2 --- n3
+  n4["`Ép buộc: doạ đuổi việc thì bị ghét, người bị ép trả đũa hoặc bỏ đi`"]
+  n2 --- n4
+  n5["`Quyền lực là công cụ trung tính, củng cố bằng ảnh hưởng và danh tiếng`"]
+  n2 --- n5
+  n6["`Lợi thế so sánh (Ricardo, 1817): Anh chuyên vải, Bồ Đào Nha chuyên rượu, trao đổi thì cả hai giàu hơn`"]
+  n1 --- n6
+  n7["`Với cá nhân là quản lý dựa trên điểm mạnh, thuê ngoài việc người khác làm giỏi hơn`"]
+  n6 --- n7
+  n8["`Nhóm đa ngành vượt nhóm đồng nhất, vì luôn có người biết phải làm gì`"]
+  n6 --- n8
+  n9["`Tự học đủ để đánh giá người mình thuê, như lập trình viên trên Elance, oDesk`"]
+  n6 --- n9
+  n10["`Chi phí giao tiếp: thời gian giao tiếp, phối hợp lấy đi từ thời gian làm ra sản phẩm`"]
+  n1 --- n10
+  n11["`Kaufman ở P#amp;G: 3 tháng, 99% thời gian giao tiếp chỉ để có một đề xuất khả thi`"]
+  n10 --- n11
+  n12["`8 triệu chứng quan liêu của Sutcliffe: quyết định vô hình, việc dở dang, tê liệt vì phối hợp...`"]
+  n10 --- n12
+  n13["`Nhóm 3–8 người#59; quá 8, mỗi người thêm vào tốn giao tiếp hơn năng lực mang lại`"]
+  n10 --- n13
+  n14["`Mục 4–7 — Giao tiếp để người khác muốn hợp tác`"]
+  n0 --- n14
+  n15["`Ai cũng cần thấy mình quan trọng: chú ý, lắng nghe, đặt câu hỏi, và quan tâm phải thật`"]
+  n14 --- n15
+  n16["`Bị coi thường hay đe doạ, người kia dựng tường và im lặng: giao tiếp cần cả hai bên thấy an toàn`"]
+  n14 --- n16
+  n17["`Crucial Conversations 5 bước: nêu sự kiện, kể góc nhìn mình, hỏi phiên bản người kia, nói kiểu thăm dò, cùng xem xét lại`"]
+  n16 --- n17
+  n18["`Bộ ba ghi nhận, lịch sự, tôn trọng (tóm Đắc nhân tâm) đáp ứng cả hai nhu cầu`"]
+  n14 --- n18
+  n19["`Ghi nhận: cảm ơn công sức trước khi góp ý, thay vì #quot;Cái này tệ, làm lại đi#quot;`"]
+  n18 --- n19
+  n20["`Lịch sự là chấp nhận vài bất tiện nhỏ vì người khác, như giữ cửa`"]
+  n18 --- n20
+  n21["`Tử tế với bạn mà thô lỗ với người phục vụ là dấu hiệu không đáng tin`"]
+  n18 --- n21
+  n22["`Đưa ra lý do: thí nghiệm photocopy của Langer, 60% đồng ý khi không có lý do, 95% khi có`"]
+  n14 --- n22
+  n23["`Lý do rỗng #quot;vì tôi cần photocopy#quot; có tác dụng ngang lý do thật`"]
+  n22 --- n23
+  n24["`Mục 8–10 — Giao việc và lập kế hoạch`"]
+  n0 --- n24
+  n25["`Ý định của người chỉ huy: giao việc kèm vì sao, thay vì quản lý vi mô từng bước`"]
+  n24 --- n25
+  n26["`Tướng giải thích vì sao ngọn đồi quan trọng thì chỉ huy hiện trường tự đổi cách đánh`"]
+  n25 --- n26
+  n27["`Hiểu mục đích, nhóm phản ứng đúng khi tình hình đổi mà không cần giám sát liên tục`"]
+  n25 --- n27
+  n28["`Hiệu ứng người ngoài cuộc: càng nhiều người có thể hành động, càng ít người thật sự hành động`"]
+  n24 --- n28
+  n29["`Hô #quot;Ai gọi cấp cứu đi!#quot; thì không ai gọi#59; chỉ đích danh một người thì người đó gọi`"]
+  n28 --- n29
+  n30["`Việc giao cho uỷ ban không bao giờ xong: mỗi việc một người chịu trách nhiệm và một hạn chót`"]
+  n28 --- n30
+  n31["`Ngụy biện lập kế hoạch: luôn ước tính thiếu thời gian vì hình dung mọi thứ suôn sẻ`"]
+  n24 --- n31
+  n32["`Cộng vài tháng khoảng dự phòng cho trễ hạn, nghỉ phép, ốm đau, sự cố`"]
+  n31 --- n32
+  n33["`Eisenhower: kế hoạch thì vô dụng, nhưng việc lập kế hoạch thì không thể thiếu`"]
+  n31 --- n33
+  n34["`Mục 11–17 — Các lực tâm lý xã hội`"]
+  n0 --- n34
+  n35["`Lời giới thiệu chuyển hiệu ứng #quot;biết và quý#quot; sang người lạ`"]
+  n34 --- n35
+  n36["`Kelsey: hơn 70% doanh số váy cưới từ 10.000 USD đến từ lời giới thiệu`"]
+  n35 --- n36
+  n37["`Hình thành phe nhóm: Robbers Cave 1954, 22 cậu bé thành Đại bàng và Rắn chuông, đánh nhau`"]
+  n34 --- n37
+  n38["`Thử thách chung (thiếu nước, đẩy xe tải hỏng) làm xung đột giảm`"]
+  n37 --- n38
+  n39["`Hội tụ: trong nhóm ngày càng giống nhau, như văn hoá nghiện việc coi về lúc 5 giờ là phản bội`"]
+  n34 --- n39
+  n40["`Phân kỳ: các nhóm đổi chuẩn mực để khác nhóm khác, như thời trang giới giàu ở New York`"]
+  n39 --- n40
+  n41["`Jim Rohn: bạn là trung bình của 5 người gần nhất, nên vòng quan hệ không ủng hộ mục tiêu thì đổi`"]
+  n39 --- n41
+  n42["`Tín hiệu xã hội: Rolex, Gucci, Porsche bán thông điệp gửi người khác, không bán công dụng`"]
+  n34 --- n42
+  n43["`The Millionaire Next Door: người có trên 1 triệu USD đi xe cũ, người muốn tỏ ra giàu mua bằng tín dụng`"]
+  n42 --- n43
+  n44["`Bằng chứng xã hội: khi tình huống mơ hồ, làm theo người cùng hoàn cảnh`"]
+  n34 --- n44
+  n45["`Lời chứng thực hiệu quả nhất không cường điệu: #quot;tôi còn nghi ngờ nhưng vẫn mua, giờ rất hài lòng#quot;`"]
+  n44 --- n45
+  n46["`Uy quyền: Milgram 1961, 80% vượt qua lúc học trò xin dừng, 65% đi tới 450 vôn`"]
+  n34 --- n46
+  n47["`Người có uy quyền sống trong bong bóng vì cấp dưới lọc thông tin`"]
+  n46 --- n47
+  n48["`Cam kết và nhất quán: một câu #quot;có#quot; khiến Kelsey gửi 150 USD dù đang eo hẹp`"]
+  n34 --- n48
+  n49["`Masterson tỏ ra quan tâm vài tấm thảm rồi mua tấm thảm 8.200 USD`"]
+  n48 --- n49
+  n50["`Mục 18–22 — Thiên lệch khi đánh giá người khác`"]
+  n0 --- n50
+  n51["`Thiên lệch do động cơ khuyến khích: môi giới nhà đất hiếm khi khuyên bạn thuê nhà`"]
+  n50 --- n51
+  n52["`Hoa hồng theo đơn thì chốt cả đơn ít lời, lương cố định cộng thưởng dài hạn thì chọn đơn có lời`"]
+  n51 --- n52
+  n53["`Quyền chọn cổ phiếu khiến lãnh đạo đẩy giá lên rồi bán, hy sinh ổn định dài hạn`"]
+  n51 --- n53
+  n54["`Thưởng tiền cho người tự nguyện làm tốt có thể xoá động lực tự thân`"]
+  n51 --- n54
+  n55["`Thiên lệch cách làm của bản thân: không có dữ liệu thì ý kiến người lương cao nhất thắng`"]
+  n50 --- n55
+  n56["`Dùng kiềm chế để tạm hoãn phán xét và thật sự xem xét góp ý`"]
+  n55 --- n56
+  n57["`Hiệu ứng Pygmalion: người ta làm việc ở mức người khác kỳ vọng, nhưng kỳ vọng phải trong khả năng`"]
+  n50 --- n57
+  n58["`Lỗi quy kết: người khác hỏng việc thì đổ cho tính cách, mình hỏng thì đổ cho hoàn cảnh`"]
+  n50 --- n58
+  n59["`Nhà thầu trễ 3 tháng thật ra đã xoay xở để không trễ 6 tháng`"]
+  n58 --- n59
+  n60["`Tập trung vào phương án: lò vi sóng gây cháy, nêu hai phương án và đề xuất thu hồi, chi phí 4 triệu USD`"]
+  n50 --- n60
+  n61["`Mục 23 — Quản lý: sáu nguyên tắc ráp từ các mô hình trên`"]
+  n0 --- n61
+  n62["`Quản lý là tổ chức, điều phối một nhóm để đạt mục tiêu trong thay đổi và bất định`"]
+  n61 --- n62
+  n63["`Tuyển nhóm nhỏ, giỏi (3–8 người) và truyền đạt rõ mục tiêu, trách nhiệm của từng người`"]
+  n61 --- n63
+  n64["`Đối xử tôn trọng, tạo môi trường làm việc rồi để người ta làm, tránh họp và thủ tục thừa`"]
+  n61 --- n64
+  n65["`Không kỳ vọng kế hoạch chính xác, đo bằng chỉ số đo lường then chốt và đổi cách khi không hiệu quả`"]
+  n61 --- n65
+  n66["`Thông điệp xuyên suốt`"]
+  n0 --- n66
+  n67["`Kết quả kinh doanh đạt được cùng và thông qua người khác`"]
+  n66 --- n67
+  n68["`Danh tiếng và uy tín chuyên môn là nguồn quyền lực bền hơn ép buộc`"]
+  n66 --- n68
+  n69["`Các lực ảnh hưởng dùng được cho mình, và phải nhận ra khi chúng bị dùng với mình`"]
+  n66 --- n69
+  class n0 root
+  class n1,n14,n24,n34,n50,n61,n66 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n62,n63,n64,n65,n67,n68,n69 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 9 "Trabajar en equipo" (tương ứng Chapter 8 "Working With Others" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương 2–6 mô tả năm phần của mọi doanh nghiệp: tạo giá trị, marketing, bán hàng, chuyển giao giá trị và tài chính.
+
+Các chương 7–9 chuyển sang con người đứng sau doanh nghiệp: chương 7 giải thích tâm trí con người vận hành thế nào (trong đó có các mô hình "kiểm soát nhận thức" và "kiềm chế" mà chương này dùng lại), chương 8 bàn cách một người tự quản lý năng suất của bản thân (năng lượng, sự tập trung, định luật Parkinson, chi phí chuyển đổi nhận thức, cấu trúc hỗ trợ). Chương 9 khép lại phần "con người": hầu như mọi việc trong kinh doanh đều phải làm cùng và thông qua người khác (khách hàng, nhân viên, nhà thầu, đối tác), nên chương này gom các mô hình về quyền lực, giao tiếp, tâm lý nhóm, ảnh hưởng xã hội và quản lý.
+
+Chương 10–12 sẽ chuyển sang hệ thống (hiểu, phân tích, cải thiện); chương này đã nhiều lần hẹn trước các khái niệm của phần đó: sự phụ thuộc lẫn nhau, khoảng dự phòng, vòng phản hồi, hệ quả ngoài ý muốn, sự bất định (chương 10), chuẩn mực nhóm và chỉ số đo lường then chốt (chương 11).
+
+## Lưu ý
+
+Nguồn duy nhất là bản dịch tiếng Tây Ban Nha qua OCR; mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của các mục được ghi theo hiểu biết của người tổng hợp về bản gốc. Các điểm cần biết khi đối chiếu:
+
+- **Tên chương TBN** "Trabajar en equipo" nghĩa đen là "làm việc theo nhóm", hẹp hơn tên gốc "Working With Others" (làm việc với người khác, gồm cả khách hàng, đối tác). File dùng tên gốc.
+- **"La comunicación indirecta"** (nghĩa đen: giao tiếp gián tiếp) là cách dịch dễ gây hiểu lầm của *Communication Overhead*: ý của Kaufman là **phần thời gian phải bỏ ra để giao tiếp, phối hợp thay vì làm việc**, không phải giao tiếp qua trung gian. File gọi là "chi phí giao tiếp". Câu "cada miembro del equipo amplía más la capacidad del trabajo en red que la necesidad de comunicación" bị dịch rối; nghĩa hợp lý là trong nhóm nhỏ, mỗi thành viên thêm vào đóng góp năng lực nhiều hơn gánh nặng giao tiếp mà người đó tạo ra. Triệu chứng "El dominio de la información" trong danh sách tám triệu chứng cũng bị dịch tối nghĩa; người tổng hợp hiểu là mọi người chỉ phản ứng với thông tin đổ tới thay vì tự chủ động.
+- **Tên mục TBN khác tên gốc:** "El triple ganador" (Golden Trifecta), "Dar explicaciones" (Reason Why), "Seguir el ejemplo de los otros" (Social Proof; trong thân bài bản dịch gọi lời chứng thực của khách hàng là "casos verídicos"), "El papel de los incentivos" (Incentive-Caused Bias), "El error de culpar a los otros" (Attribution Error), "Centrarse en las alternativas" (Option Orientation), "La gestión empresarial" (Management).
+- **Câu tục ngữ bị thay:** trong mục về động cơ khuyến khích, bản TBN chèn tục ngữ "Cuando las barbas de tu vecino veas cortar, pon las tuyas a remojar" (thấy râu hàng xóm bị cạo thì đem râu mình đi ngâm nước, tức là hãy đề phòng), không khớp ý đoạn văn; người tổng hợp cho rằng bản gốc dùng câu quen thuộc của Warren Buffett "đừng bao giờ hỏi thợ cắt tóc xem anh có cần cắt tóc không", nhưng không có bản gốc để kiểm tra. File diễn đạt theo ý đoạn văn. Số điện thoại cấp cứu "061" trong mục hiệu ứng người ngoài cuộc là số của Tây Ban Nha do người dịch thay (bản gốc Mỹ hẳn là 911); file ghi là "số cấp cứu".
+- **Chỗ có vẻ dịch lệch nghĩa:**
+  - Mục lỗi quy kết viết "khi ai đó *se pone nervioso* (trở nên bối rối, căng thẳng)", nhưng ví dụ ngay sau là nhà thầu làm trễ hạn, nên nghĩa hợp lý là "khi người khác làm hỏng việc"; file dùng nghĩa này.
+  - Mục cam kết và nhất quán viết người bán thảm "luego se sirvió de la confianza" (rồi tận dụng lòng tin), nhưng mô tả ngay sau (nhân viên khiêng từng tấm thảm nặng xuống, khách thấy phải "đáp lại") là cơ chế **có qua có lại** (reciprocation); file ghi cả hai.
+  - Mục động cơ khuyến khích viết trả thưởng cho nhân viên là "nói với họ rằng anh đánh giá cao công việc của họ, và thế là xoá mất động lực tự thân"; logic của đoạn là khoản tiền biến việc người đó tự nguyện làm thành một giao dịch có trả công; file diễn đạt theo logic này.
+  - Mục tín hiệu xã hội liệt kê các nhu cầu cơ bản là "comprar, sentirse vinculado, aprender, defender y sentir"; "comprar" (mua) hẳn là "adquirir" (sở hữu, thu gom), tức năm động lực cốt lõi của con người ở chương 3 (sở hữu, gắn kết, học hỏi, tự vệ, cảm nhận).
+  - Mục chi phí giao tiếp nói "nếu anh phụ trách một nhóm 5 đến 8 người thì ít nhất 80% công việc là giao tiếp"; con số có thể bị dịch lệch (bản gốc có thể nói về nhóm *lớn hơn* 5 đến 8 người), file giữ nguyên như bản TBN.
+- **Lỗi OCR và lỗi chi tiết:** đoạn mở đầu chương bị OCR hỏng một dòng ("Ten rato, to ontie liste a tan alto con milar"), ý được khôi phục theo câu sau (khách hàng, nhân viên, nhà thầu, đối tác đều có động cơ riêng). "G0 %" là 60%. Eliezer Yudkowsky bị ghi "fundadora" (giống cái), ông là nam. Jean de La Bruyère bị ghi là người thế kỷ XVI, thực ra ông sống ở thế kỷ XVII (1645–1696). Tecumseh ghi "líder de la tribu shoni del siglo xvm" là thủ lĩnh người Shawnee thế kỷ XVIII. Cặp kình địch bóng bầu dục mà Kaufman nhắc được bản TBN ghi là Ohio State và Michigan State; cặp kình địch nổi tiếng nhất của Ohio State là Đại học Michigan (University of Michigan), không rõ lỗi do bản gốc hay bản dịch; file ghi "Michigan".
+- **Bối cảnh 2010:** BlackBerry, Elance.com, oDesk.com (hai trang này sau đó sáp nhập thành Upwork), Sanka, vòng tay vàng Livestrong của Lance Armstrong (trước khi ông bị tước danh hiệu năm 2012 vì doping) đều là ví dụ của thời điểm viết sách. Kelsey là vợ của Kaufman.
+- **Chú thích cuối sách:** ba chú thích thuộc chương này ([56] cho Michael Sutcliffe, [57] cho câu chuyện người bán thảm của Michael Masterson, [58] cho câu nói về nhân viên môi giới nhà đất) chỉ là đường dẫn web, nên đã bỏ.

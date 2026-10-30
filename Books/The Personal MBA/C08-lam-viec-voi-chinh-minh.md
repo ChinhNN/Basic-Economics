@@ -1,19 +1,16 @@
 # Chương 8 — Làm việc với chính mình (Cómo trabajar; Working With Yourself)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 8 "Cómo trabajar" (tương ứng Chapter 7 "Working With Yourself" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Các chương 2–6 mô tả năm phần của một doanh nghiệp (tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính). Từ chương 7, Kaufman chuyển sang con người, vì mọi doanh nghiệp đều do người vận hành. Chương 7 giải thích bộ não hoạt động thế nào: hội chứng người tiền sử (não coi mọi mất mát là đe doạ sống còn), mô phỏng trong đầu (mental simulation), diễn giải lại (reinterpretation), cấu trúc dẫn dắt (môi trường định sẵn hành vi), sự cạn kiệt ý chí, ác cảm với mất mát, phản ứng khoá chặt mối đe doạ. Chương 8 dùng chính những hiểu biết đó để trả lời câu hỏi thực hành: một người nên tổ chức công việc, mục tiêu, quyết định, năng lượng và thái độ của mình thế nào để làm được nhiều việc có giá trị mà không kiệt sức. Chương 9 mở rộng sang làm việc với người khác (quyền lực, giao tiếp, lãnh đạo, ảo tưởng lập kế hoạch). Các chương 10–12 chuyển sang hệ thống; chương 8 đã báo trước vài khái niệm của phần đó (ma sát ở chương 12, vòng phản hồi ở chương 10).
-**Ý chính:** Kaufman muốn người đọc hiểu rằng **năng suất cá nhân không đến từ việc cố gắng nhiều hơn hay từ một hệ thống quản lý công việc tinh vi, mà từ việc làm việc thuận theo cách bộ não và cơ thể vận hành**. Bộ não chỉ xử lý được một việc mỗi lúc, nên cần tập trung trọn vẹn vào một việc và gom việc giống nhau thành khối để tránh cái giá chuyển đổi sự chú ý. Không phải việc nào cũng phải tự làm: có bốn cách xử lý một việc (làm, bỏ, giao, hoãn), và mỗi ngày chỉ cần chọn hai, ba việc quan trọng nhất làm trước. Bộ não lập kế hoạch tốt khi được đưa một đích rõ ràng: mục tiêu phải tích cực, cam kết ngay, kiểm chứng được và cụ thể (ví dụ "lên đỉnh Everest trước tuổi 40"), còn những mong muốn như "hạnh phúc", "thành công" nên được coi là tiêu chí ra quyết định (trạng thái trải nghiệm) chứ không phải mục tiêu. Từ đó Kaufman đưa một bộ công cụ: hỏi "tại sao" năm lần để tìm mong muốn gốc, hỏi "bằng cách nào" năm lần để nối mong muốn với hành động, chỉ lo hành động kế tiếp, viết hoặc nói suy nghĩ ra ngoài, tự đặt câu hỏi, mô phỏng giả định "nếu như" (chính công cụ này giúp ông quyết định nghỉ việc ở P&G năm 2008), định luật Parkinson, kịch bản tồi tệ nhất. Ông cũng cảnh báo các thiên kiến làm hỏng phán đoán về chính mình (đánh giá quá cao năng lực, thiên kiến xác nhận, thiên kiến nhìn lại), và nhắc rằng con người không phải máy: cần chừa khoảng trống (tải công việc), làm theo chu kỳ năng lượng, xen kẽ căng thẳng với phục hồi, liên tục thử nghiệm trên chính mình, nhìn thấu hào quang của các nghề, chỉ tập trung vào việc trong phạm vi kiểm soát, buông bỏ bám chấp, dành ít nhất 5% thu nhập cho nghiên cứu và phát triển cá nhân, và giữ tư duy phát triển.
+## Ý chính
 
-> **Lưu ý:** Nguồn là bản dịch tiếng Tây Ban Nha, được nhận dạng chữ (OCR) từ bản scan; mọi câu trích là bản dịch tiếng Việt của người tổng hợp từ bản TBN, không phải từ nguyên bản tiếng Anh. Tên tiếng Anh của các mục ghi theo hiểu biết của người tổng hợp về nguyên bản; tên TBN là tên chính xác để tra lại. Chương TBN có 29 mục.
->
-> **Lỗi OCR đã tự sửa:** "GCETHE" = Goethe; "Moster Your Workday Now!" = *Master Your Workday Now!*; "10 Days to Foster Reading" = *10 Days to Faster Reading*; "The Vegetarion Myth" = *The Vegetarian Myth*; "Slevepavina.com" = StevePavlina.com; "Comell" = Cornell; "MATED, 7:7" = Mateo (Phúc âm Mát-thêu) 7:7; "Boa HuDson" ở đề từ mục "La tendencia a sobrevalorar las propias capacidades" có lẽ là Bob Hudson (người tổng hợp không chắc); John Ruskin bị ghi "siglo ix", đúng phải là thế kỷ XIX; Horacio ghi "siglo i a.C." (thế kỷ I trước Công nguyên) là đúng. Số chú thích dính vào chữ: "45)", "[46)", "**)" (= [47]), "48l", "491" (= [49]), "50l", "51)", "52)", "53l", "Forster.**" (= [54]), "(55|".
->
-> **Chỗ bản dịch có vẻ lệch nghĩa hoặc khó hiểu:** (1) Hệ thống quản lý việc của Mark Forster được dịch là «centrarse en uno mismo» (tập trung vào bản thân); địa chỉ web ở chú thích [54] cho thấy đó là hệ thống "Autofocus". (2) «Planificador de tareas incipientes» của David Seah là Emergent Task Planner (theo chú thích [51]). (3) Paul Graham được gọi là «socio capitalista»; ông là nhà đầu tư mạo hiểm (venture capitalist). (4) Trong mục "La penalización del cambio cognitivo" có câu «la energía también puede malgastarse si usted se tortura mentalmente durante su día libre» (năng lượng cũng bị phí nếu bạn tự hành hạ mình trong đầu suốt ngày nghỉ), không khớp với ý xung quanh; người tổng hợp đoán nguyên bản nói về việc tự mình chuyển ngữ cảnh liên tục trong ngày, và chỉ chép ý chung. (5) Trong mục "Cuatro maneras de afrontar el trabajo", câu «Si no vale la pena que lo haga, o no vale la pena hacerlo bien o hacerlo con rapidez» lủng củng; ý hợp lý là "việc không đáng làm thì cũng không đáng làm cho tốt hay làm cho nhanh". (6) Cuối mục "La parcialidad", câu «siempre y cuando no exprese su opinión el tiempo suficiente para aprender de la experiencia» không rõ nghĩa; người tổng hợp hiểu là "miễn là bạn tạm gác ý kiến của mình đủ lâu để học từ trải nghiệm". (7) Mục "El estrés y la recuperación" ghi Kaufman học «veintidós horas de crédito repartidas en tres materias» (22 tín chỉ chia cho ba môn), số môn có vẻ quá ít so với 22 tín chỉ; có thể bản dịch hoặc nguyên bản chỉ kể ba môn tiêu biểu. (8) Trong phương pháp ACC (mục "Obtener información de uno mismo"), nhóm câu hỏi "Hành vi" lặp lại ba câu của nhóm "Tiền đề"; đã chép đúng như bản dịch.
->
-> **Bối cảnh:** sách viết năm 2010. Các ví dụ phản ánh thời điểm đó: dịch vụ trợ lý ảo dưới 100 USD/tháng, chương trình *American Idol*, các blog tài chính Get Rich Slowly và The Simple Dollar, việc Kaufman nghỉ việc ở P&G tháng 11/2008. Một số kết quả tâm lý học mà chương dựa vào (giới hạn ý chí mỗi ngày, nhịp 90 phút, hiệu ứng Dunning-Kruger, tư duy phát triển) đã bị tranh luận lại sau 2010; xem phần Đánh giá.
->
-> **Chú thích đã đưa vào:** chỉ chú thích [50] (công ty trợ lý ảo Kaufman dùng) có nội dung riêng, đã đưa vào mục 3 của Nội dung chi tiết. Các chú thích [45]–[49], [51], [52], [54] chỉ là địa chỉ web; [53] và [55] chỉ mời người đọc vào trang web của tác giả xem ví dụ, nên đều bỏ.
+Kaufman muốn người đọc hiểu rằng **năng suất cá nhân không đến từ việc cố gắng nhiều hơn hay từ một hệ thống quản lý công việc tinh vi, mà từ việc làm việc thuận theo cách bộ não và cơ thể vận hành**.
+
+Bộ não chỉ xử lý được một việc mỗi lúc, nên cần tập trung trọn vẹn vào một việc và gom việc giống nhau thành khối để tránh cái giá chuyển đổi sự chú ý. Không phải việc nào cũng phải tự làm: có bốn cách xử lý một việc (làm, bỏ, giao, hoãn), và mỗi ngày chỉ cần chọn hai, ba việc quan trọng nhất làm trước.
+
+Bộ não lập kế hoạch tốt khi được đưa một đích rõ ràng: mục tiêu phải tích cực, cam kết ngay, kiểm chứng được và cụ thể (ví dụ "lên đỉnh Everest trước tuổi 40"), còn những mong muốn như "hạnh phúc", "thành công" nên được coi là tiêu chí ra quyết định (trạng thái trải nghiệm) chứ không phải mục tiêu.
+
+Từ đó Kaufman đưa một bộ công cụ: hỏi "tại sao" năm lần để tìm mong muốn gốc, hỏi "bằng cách nào" năm lần để nối mong muốn với hành động, chỉ lo hành động kế tiếp, viết hoặc nói suy nghĩ ra ngoài, tự đặt câu hỏi, mô phỏng giả định "nếu như" (chính công cụ này giúp ông quyết định nghỉ việc ở P&G năm 2008), định luật Parkinson, kịch bản tồi tệ nhất.
+
+Ông cũng cảnh báo các thiên kiến làm hỏng phán đoán về chính mình (đánh giá quá cao năng lực, thiên kiến xác nhận, thiên kiến nhìn lại), và nhắc rằng con người không phải máy: cần chừa khoảng trống (tải công việc), làm theo chu kỳ năng lượng, xen kẽ căng thẳng với phục hồi, liên tục thử nghiệm trên chính mình, nhìn thấu hào quang của các nghề, chỉ tập trung vào việc trong phạm vi kiểm soát, buông bỏ bám chấp, dành ít nhất 5% thu nhập cho nghiên cứu và phát triển cá nhân, và giữ tư duy phát triển.
 
 ## Sơ đồ
 
@@ -823,9 +820,13 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao làm được nhiều việc có giá trị mà không bị ngập việc?** Bằng cách làm thuận theo giới hạn của bộ não thay vì chống lại nó. Não chỉ chú ý được một việc mỗi lúc, và mỗi lần đổi việc phải nạp lại bối cảnh, nên cần tập trung trọn vẹn vào một việc (loại xao nhãng, giải quyết xung đột nội tâm, khởi động bằng 25 phút Pomodoro) và gom việc giống nhau thành khối (sáng viết, chiều gọi điện; lịch của người làm sáng tạo tách khỏi lịch của người quản lý). Với từng việc, chọn một trong bốn cách: làm, bỏ, giao (khi người khác làm được 80% hiệu quả của mình), hoãn. Mỗi sáng chọn 2–3 việc quan trọng nhất, làm xong trước 10 giờ. Chừa khoảng trống vì quá một ngưỡng tải công việc, kết quả sẽ tệ đi, và làm theo chu kỳ năng lượng: việc khó vào giờ năng lượng cao, nghỉ khi năng lượng thấp, ngủ đủ.
+1. **Làm sao làm được nhiều việc có giá trị mà không bị ngập việc?** Bằng cách làm thuận theo giới hạn của bộ não thay vì chống lại nó. Não chỉ chú ý được một việc mỗi lúc, và mỗi lần đổi việc phải nạp lại bối cảnh, nên cần tập trung trọn vẹn vào một việc (loại xao nhãng, giải quyết xung đột nội tâm, khởi động bằng 25 phút Pomodoro) và gom việc giống nhau thành khối (sáng viết, chiều gọi điện; lịch của người làm sáng tạo tách khỏi lịch của người quản lý).
+
+   Với từng việc, chọn một trong bốn cách: làm, bỏ, giao (khi người khác làm được 80% hiệu quả của mình), hoãn. Mỗi sáng chọn 2–3 việc quan trọng nhất, làm xong trước 10 giờ. Chừa khoảng trống vì quá một ngưỡng tải công việc, kết quả sẽ tệ đi, và làm theo chu kỳ năng lượng: việc khó vào giờ năng lượng cao, nghỉ khi năng lượng thấp, ngủ đủ.
 2. **Làm sao biết mình thật sự muốn gì và biến nó thành hành động?** Hỏi "tại sao" năm lần để tìm mong muốn gốc (người muốn 1 triệu USD thực ra muốn tự do), rồi hỏi "bằng cách nào" năm lần để nối mong muốn đó với các hành động làm được ngay. Đặt mục tiêu tích cực, cam kết ngay, kiểm chứng được, cụ thể và nằm trong phạm vi kiểm soát ("tập 30 phút mỗi ngày" thay vì "giảm 9 kg"). Coi "hạnh phúc", "thành công" là trạng thái trải nghiệm dùng làm tiêu chí quyết định, và chia chúng thành các thành phần cụ thể. Với dự án lớn, chỉ cần biết hành động kế tiếp. Khi khó chọn, quyết định khi có 40–70% thông tin, hoặc chọn trải nghiệm mình thích hơn.
-3. **Những sai lệch nào trong cách ta nghĩ về chính mình làm hỏng công việc, và sửa thế nào?** Ta đánh giá quá cao năng lực (nhất là khi mới vào nghề), nên tính sai thời hạn; cách sửa là có cố vấn dám phản biện. Ta chỉ tìm thông tin ủng hộ niềm tin của mình (thiên kiến xác nhận); cách sửa là chủ động tìm bằng chứng ngược. Ta tự trách vì "lẽ ra phải biết" (thiên kiến nhìn lại); cách sửa là nhớ rằng quyết định đã dựa trên thông tin lúc đó. Ta phóng đại rủi ro (khoá chặt mối đe doạ); cách sửa là viết rõ kịch bản tồi tệ nhất. Ta bị hào quang của một nghề đánh lừa; cách sửa là hỏi thẳng người trong nghề. Ta bám chấp vào kế hoạch hoặc lo về điều ngoài tầm tay; cách sửa là chấp nhận chi phí chìm và chỉ dồn sức vào phạm vi kiểm soát. Và ta có thể nghĩ năng lực là cố định; cách sửa là tư duy phát triển.
+3. **Những sai lệch nào trong cách ta nghĩ về chính mình làm hỏng công việc, và sửa thế nào?** Ta đánh giá quá cao năng lực (nhất là khi mới vào nghề), nên tính sai thời hạn; cách sửa là có cố vấn dám phản biện. Ta chỉ tìm thông tin ủng hộ niềm tin của mình (thiên kiến xác nhận); cách sửa là chủ động tìm bằng chứng ngược. Ta tự trách vì "lẽ ra phải biết" (thiên kiến nhìn lại); cách sửa là nhớ rằng quyết định đã dựa trên thông tin lúc đó. Ta phóng đại rủi ro (khoá chặt mối đe doạ); cách sửa là viết rõ kịch bản tồi tệ nhất.
+
+   Ta bị hào quang của một nghề đánh lừa; cách sửa là hỏi thẳng người trong nghề. Ta bám chấp vào kế hoạch hoặc lo về điều ngoài tầm tay; cách sửa là chấp nhận chi phí chìm và chỉ dồn sức vào phạm vi kiểm soát. Và ta có thể nghĩ năng lực là cố định; cách sửa là tư duy phát triển.
 
 ## Khái niệm cần biết
 
@@ -882,7 +883,9 @@ P. J. Eby, cựu lập trình viên chuyên dạy cách dùng trí óc hiệu qu
 Kaufman nêu ba bước để vào trạng thái này:
 
 - **Thứ nhất, loại bỏ xao nhãng và gián đoạn có thể xảy ra.** Tuỳ mức độ suy nghĩ mà việc đòi hỏi, não cần 10–30 phút để chìm vào việc. Điện thoại, đồng nghiệp ghé qua, những việc bất ngờ khác đều cắt đứt quá trình đó, nên ưu tiên số một là bảo đảm không bị làm phiền. Kaufman dùng nút tai bằng sáp hoặc nhạc không lời để át tiếng ồn, và ngắt điện thoại. Ông tắt kết nối Internet khi viết (dẫn tới mục về sự thiếu ý chí ở chương 7); nếu không, ông sẽ không cưỡng được việc lên mạng mỗi khi việc viết trở nên khó. Dùng một "cấu trúc dẫn dắt" (sắp đặt môi trường để định sẵn hành vi, chương 7) là cách tốt để giữ chú ý.
-- **Thứ hai, loại bỏ xung đột.** Đôi khi khó bắt đầu vì trong đầu có hai hệ thống điều khiển đang chống nhau. Nếu thấy kháng cự khi bắt đầu, nên dành chút thời gian và sức tìm hiểu kỹ xung đột đó trước khi làm tiếp. Khi viết cuốn sách, Kaufman nhiều lần thấy một sự kháng cự khiến ông rất bực. Thay vì lờ nó đi hay ép mình vượt qua (điều mà với ông là chịu thua sự thiếu ý chí), ông dùng mô phỏng trong đầu và diễn giải lại (hai công cụ của chương 7) để phân tích, và phát hiện một xung đột ẩn: ông không hài lòng với kết quả, và việc cứ viết tiếp dù biết nó chưa tốt bị ông cảm nhận như một mất mát. Dành thời gian sửa lại cấu trúc cuốn sách vừa giải quyết xung đột, vừa làm sách tốt hơn, vừa xoá nguyên nhân của sự kháng cự.
+- **Thứ hai, loại bỏ xung đột.** Đôi khi khó bắt đầu vì trong đầu có hai hệ thống điều khiển đang chống nhau. Nếu thấy kháng cự khi bắt đầu, nên dành chút thời gian và sức tìm hiểu kỹ xung đột đó trước khi làm tiếp.
+
+  Khi viết cuốn sách, Kaufman nhiều lần thấy một sự kháng cự khiến ông rất bực. Thay vì lờ nó đi hay ép mình vượt qua (điều mà với ông là chịu thua sự thiếu ý chí), ông dùng mô phỏng trong đầu và diễn giải lại (hai công cụ của chương 7) để phân tích, và phát hiện một xung đột ẩn: ông không hài lòng với kết quả, và việc cứ viết tiếp dù biết nó chưa tốt bị ông cảm nhận như một mất mát. Dành thời gian sửa lại cấu trúc cuốn sách vừa giải quyết xung đột, vừa làm sách tốt hơn, vừa xoá nguyên nhân của sự kháng cự.
 - **Thứ ba, đẩy nhanh quá trình tập trung.** Vì cần 10–30 phút để vào nhịp, dành những phút đó để khởi động đúng việc cần làm sẽ giúp tập trung dễ hơn nhiều. Nếu sau khoảng đó vẫn không ra kết quả, bạn được phép chuyển sang việc khác; nhưng hiếm khi phải làm vậy, vì đã bắt đầu thì dễ đi tiếp.
 
 **Kỹ thuật Pomodoro.** Kaufman thường dùng kỹ thuật này, do Francesco Cirillo đặt tên theo loại đồng hồ hẹn giờ nhà bếp hình quả cà chua (pomodoro trong tiếng Ý). Cách làm: hẹn giờ 25 phút, trong suốt khoảng đó chỉ làm một việc, dù khó cũng làm cho tới khi chuông reo; sau đó nghỉ 5 phút còn lại cho tròn nửa giờ. Ai cũng dành được nửa giờ trong ngày cho bài tập này. Kaufman thích Pomodoro vì nó đạt hai mục đích cùng lúc: dễ bắt đầu (tự nhủ "chỉ 25 phút thôi" là cách tuyệt vời để vượt qua sự kháng cự ban đầu, kể cả khi không hứng thú với việc) và dễ bỏ qua xao nhãng (điện thoại reo thì nhớ rằng "trong một Pomodoro không nhận gián đoạn", không nghe máy và giữ được sự tập trung).
@@ -893,11 +896,15 @@ Loại bỏ xao nhãng và xung đột trước khi bắt đầu thì sẽ có v
 
 Đề từ của Horace: hãy cai quản tâm trí, nếu không nó sẽ cai quản bạn. Mỗi dự án, mỗi việc đòi một lượng chú ý, năng lượng và tập trung nhất định; câu hỏi là làm sao làm tốt nhất mọi việc phải làm.
 
-Nhiều người tin vào làm nhiều việc cùng lúc (multitasking) và nhầm nó với hiệu quả. Nhưng tập trung vào một chủ đề và làm nhiều việc cùng lúc là hai điều đối nghịch. Về mặt thần kinh, não không thể làm nhiều việc một lúc: khi tưởng làm hai việc, nó không xử lý song song mà chuyển chú ý rất nhanh qua lại; khi chú ý vào việc A, nó bỏ mặc việc B cho tới khi quay lại. Vì vậy, làm nhiều việc cùng lúc một cách năng suất là chuyện hoang đường. Theo một nghiên cứu thần kinh học gần đây, càng cố chú ý vào nhiều thứ cùng lúc thì càng khó thực hiện chúng. Đó là lý do không nên vừa lái xe vừa nói điện thoại di động: cố tập trung vào hai việc làm thời gian phản xạ giảm tới mức của người lái xe say rượu.
+Nhiều người tin vào làm nhiều việc cùng lúc (multitasking) và nhầm nó với hiệu quả. Nhưng tập trung vào một chủ đề và làm nhiều việc cùng lúc là hai điều đối nghịch.
+
+Về mặt thần kinh, não không thể làm nhiều việc một lúc: khi tưởng làm hai việc, nó không xử lý song song mà chuyển chú ý rất nhanh qua lại; khi chú ý vào việc A, nó bỏ mặc việc B cho tới khi quay lại. Vì vậy, làm nhiều việc cùng lúc một cách năng suất là chuyện hoang đường. Theo một nghiên cứu thần kinh học gần đây, càng cố chú ý vào nhiều thứ cùng lúc thì càng khó thực hiện chúng. Đó là lý do không nên vừa lái xe vừa nói điện thoại di động: cố tập trung vào hai việc làm thời gian phản xạ giảm tới mức của người lái xe say rượu.
 
 Mỗi lần chú ý nhảy từ chủ đề này sang chủ đề khác, ta chịu **cái giá của việc chuyển đổi sự chú ý**. Để hành động, não phải nạp bối cảnh của việc đang làm vào bộ nhớ làm việc. Nếu liên tục đổi trọng tâm, ta buộc não tốn thời gian và sức nạp đi nạp lại các bối cảnh khác nhau. Vì thế có thể làm cả ngày với nhiều việc mà không xong việc nào, và cuối ngày vẫn kiệt sức: năng lượng không dùng để tiến lên mà dùng để nhảy qua lại. Cái giá này là một dạng chi phí ma sát (bàn ở chương 12): càng ít đổi việc, chi phí càng nhỏ. Tập trung vào một việc mỗi lúc cho phép não nạp bối cảnh một lần, và dồn sức hoàn thành việc đang làm.
 
-Để tránh việc đổi bối cảnh vô ích, cách tốt nhất là làm theo khối. Loại bỏ xao nhãng tránh được gián đoạn không cần thiết, nhưng năng lượng vẫn có thể bị phí theo những cách khác (xem Lưu ý về một câu khó hiểu ở đây); cách tốt nhất để tránh chuyển đổi không cần thiết là **gom các việc giống nhau lại**. Kaufman khó tập trung vào việc sáng tạo (viết, dựng video bài giảng) khi khách hàng gọi liên tục, nên thay vì tung hứng hai loại việc, ông dành cho mỗi loại một phần ngày: thường viết liền vài giờ buổi sáng không gián đoạn, để cuộc gọi và cuộc hẹn sang buổi chiều. Ông làm tương tự với việc nhà, cập nhật báo cáo tài chính hay việc vặt: dành riêng vài giờ cho chúng và làm xong rất nhanh.
+Để tránh việc đổi bối cảnh vô ích, cách tốt nhất là làm theo khối. Loại bỏ xao nhãng tránh được gián đoạn không cần thiết, nhưng năng lượng vẫn có thể bị phí theo những cách khác (xem mục Chỗ bản dịch có vẻ lệch nghĩa hoặc khó hiểu cuối chương, về một câu khó hiểu ở đây); cách tốt nhất để tránh chuyển đổi không cần thiết là **gom các việc giống nhau lại**.
+
+Kaufman khó tập trung vào việc sáng tạo (viết, dựng video bài giảng) khi khách hàng gọi liên tục, nên thay vì tung hứng hai loại việc, ông dành cho mỗi loại một phần ngày: thường viết liền vài giờ buổi sáng không gián đoạn, để cuộc gọi và cuộc hẹn sang buổi chiều. Ông làm tương tự với việc nhà, cập nhật báo cáo tài chính hay việc vặt: dành riêng vài giờ cho chúng và làm xong rất nhanh.
 
 Paul Graham, nhà đầu tư mạo hiểm, lập trình viên và người viết tiểu luận, gọi cách gom việc này là phân biệt **lịch của người làm sáng tạo** và **lịch của người quản lý**. Nếu định sáng tạo, điều tệ nhất là cố xen việc sáng tạo với việc hành chính: chuyển bối cảnh sẽ làm hại năng suất. Lịch của người làm sáng tạo gồm vài khối thời gian dài không bị cắt; lịch của người quản lý chia nhỏ thành nhiều khoảng để xếp các cuộc họp. Hai loại lịch phục vụ mục đích khác nhau; đừng trộn chúng nếu muốn xong việc. Loại bỏ việc đổi bối cảnh vô ích thì kết quả tốt hơn mà ít tốn sức hơn.
 
@@ -909,7 +916,9 @@ Theo Kaufman, thực ra chỉ có bốn cách xử lý một việc:
 
 1. **Làm xong.** Đây là cách ai cũng nghĩ tới đầu tiên. Khi lập danh sách việc cần làm, ta thường coi mình có trách nhiệm tự làm hết. Điều đó không hoàn toàn đúng: tự làm là cách đúng nhất cho những việc quan trọng mà chỉ bạn làm tốt. Phần còn lại có cách khác.
 2. **Bỏ đi.** Hợp với việc không quan trọng và không cần thiết. Nếu một mục trong danh sách không quan trọng thì gạch đi, không có vấn đề gì. Việc không đáng làm thì cũng không đáng làm cho tốt hay cho nhanh; đừng ngần ngại gạt nó đi.
-3. **Giao cho người khác.** Hiệu quả nếu người kia làm được với ít nhất 80% hiệu quả của bạn. Muốn giao thì phải có người để giao: nhân viên, nhà cung cấp, cộng tác viên bên ngoài có thể giúp bạn làm được nhiều hơn và thay bạn hoàn thành việc. Khi chuẩn bị khoá học cấp tốc 12 tuần trực tuyến về Personal MBA, Kaufman và vợ (Kelsey) tự dựng video, nhưng giao việc gõ lại lời từng video cho bà của vợ ông, một người đánh máy nhanh như chớp; nhờ đó họ xong khoá học trong thời gian kỷ lục mà không bị ngập. Nếu không có ai để giao các việc thường lệ, một công ty dịch vụ trợ lý ảo có thể rất hữu ích: với dưới 100 USD mỗi tháng có một nhóm người chuyên nghiệp giúp việc. Người chưa có nhiều kinh nghiệm giao việc nên thử. (Chú thích của tác giả: Kaufman làm việc với nhóm của Timesvr.com, theo ông được đào tạo tốt, nhanh, dễ chịu và giá tốt.)
+3. **Giao cho người khác.** Hiệu quả nếu người kia làm được với ít nhất 80% hiệu quả của bạn. Muốn giao thì phải có người để giao: nhân viên, nhà cung cấp, cộng tác viên bên ngoài có thể giúp bạn làm được nhiều hơn và thay bạn hoàn thành việc.
+
+   Khi chuẩn bị khoá học cấp tốc 12 tuần trực tuyến về Personal MBA, Kaufman và vợ (Kelsey) tự dựng video, nhưng giao việc gõ lại lời từng video cho bà của vợ ông, một người đánh máy nhanh như chớp; nhờ đó họ xong khoá học trong thời gian kỷ lục mà không bị ngập. Nếu không có ai để giao các việc thường lệ, một công ty dịch vụ trợ lý ảo có thể rất hữu ích: với dưới 100 USD mỗi tháng có một nhóm người chuyên nghiệp giúp việc. Người chưa có nhiều kinh nghiệm giao việc nên thử. (Chú thích của tác giả: Kaufman làm việc với nhóm của Timesvr.com, theo ông được đào tạo tốt, nhanh, dễ chịu và giá tốt.)
 4. **Hoãn lại.** Hợp với việc không quan trọng sống còn và không gấp. Đừng áy náy khi phải hoãn: cách nhanh nhất để làm khổ mình là cố xử lý quá nhiều thứ cùng lúc. Để sau những việc không thật sự quan trọng giúp dồn chú ý và năng lượng vào điều thật sự quan trọng. Trong *Getting Things Done*, David Allen khuyên lập một danh sách việc tồn đọng, ghi mọi điều muốn làm một ngày nào đó nhưng hiện chưa thiết yếu. Scott Belsky, người nghiên cứu về sáng tạo, khuyên điều tương tự trong *Making Ideas Happen*: lập danh sách các việc phụ muốn làm về lâu dài nhưng hôm nay chưa phải ưu tiên. Thỉnh thoảng xem lại danh sách này rất có ích khi muốn tìm một hoạt động mới thú vị.
 
 Dùng bốn lựa chọn này khi lập danh sách việc, bạn sẽ làm được nhiều hơn mình từng mơ.
@@ -955,7 +964,9 @@ Một sai lầm thường gặp khi đặt mục tiêu là mặc định mọi t
 
 Tiêu chí này trả lời câu hỏi: điều tôi đang làm có hiệu quả không? Ví dụ, nếu muốn thấy vui, bạn sẽ thấy ở bên bạn thân và gia đình cho mình trải nghiệm đó, và cần dành thời gian cho những hoạt động ấy. Nếu muốn bình yên mà công việc làm bạn ngột ngạt, rõ ràng tình hình phải thay đổi vì điều bạn đang làm không hợp với bạn.
 
-Nên chia các trạng thái phức tạp thành phần nhỏ. Thay vì dùng ý niệm chung "thành công" và "hạnh phúc" làm tiêu chí, hãy nghĩ chúng thật sự nghĩa là gì với mình. Với Kaufman, "thành công" là làm những việc ông thích với những người ông thích, được tự do chọn việc, và có đủ tiền để sống không chật vật; gộp lại, các trạng thái này định nghĩa thành công một cách thực tế hơn nhiều: đạt được chúng nghĩa là ông "thành công". Tương tự, với ông "hạnh phúc" là tổ hợp của nhiều thứ: vui, dành thời gian cho người mình quý, bình tâm và thấy tự do. Khi các trạng thái này có mặt, ông hạnh phúc. Chia nhỏ như vậy giúp ông chắc rằng điều mình làm sẽ giúp sống hạnh phúc đầy đủ hơn và thường xuyên hơn. Chọn các trạng thái muốn sống, bạn sẽ có tiêu chí đủ rõ để ra quyết định một cách mới và thực tế.
+Nên chia các trạng thái phức tạp thành phần nhỏ. Thay vì dùng ý niệm chung "thành công" và "hạnh phúc" làm tiêu chí, hãy nghĩ chúng thật sự nghĩa là gì với mình. Với Kaufman, "thành công" là làm những việc ông thích với những người ông thích, được tự do chọn việc, và có đủ tiền để sống không chật vật; gộp lại, các trạng thái này định nghĩa thành công một cách thực tế hơn nhiều: đạt được chúng nghĩa là ông "thành công".
+
+Tương tự, với ông "hạnh phúc" là tổ hợp của nhiều thứ: vui, dành thời gian cho người mình quý, bình tâm và thấy tự do. Khi các trạng thái này có mặt, ông hạnh phúc. Chia nhỏ như vậy giúp ông chắc rằng điều mình làm sẽ giúp sống hạnh phúc đầy đủ hơn và thường xuyên hơn. Chọn các trạng thái muốn sống, bạn sẽ có tiêu chí đủ rõ để ra quyết định một cách mới và thực tế.
 
 ### 7. Thói quen (Los hábitos)
 
@@ -975,7 +986,11 @@ Bạn đã bao giờ thích một mẫu xe và bỗng thấy nó ở khắp nơi
 
 Nhờ **định hướng trước cho não**, bạn chủ động lập trình não báo cho mình khi một thông tin cụ thể xuất hiện. Một hệ quả thú vị của chức năng nhận dạng mẫu hình của não là ta liên tục quét môi trường để tìm thông tin liên quan; nếu nói rõ cho não biết mình đang tìm gì, nó sẽ báo mỗi khi giác quan bắt được. Định hướng trước cho phép chủ động tác động tới khả năng nhận dạng mẫu hình: dành một lúc quyết định có ý thức mình quan tâm và tìm gì, bạn lập trình được trí óc cảnh báo khi gặp điều liên quan. Có người gọi đó là "trực giác"; định hướng trước làm trực giác làm việc năng suất.
 
-**Ví dụ đọc sách.** Trong *10 Days to Faster Reading*, Abby Marks-Beale giới thiệu một kỹ thuật mà Kaufman gọi là "đặt mục đích": dành vài phút trước khi đọc để làm rõ (1) vì sao muốn đọc cuốn sách này và (2) đang tìm loại thông tin gì. Ghi chú trước khi cầm sách sẽ củng cố việc tìm kiếm. Sau đó cầm sách lướt nhanh, chú ý mục lục, tên chương và bảng tra cứu cuối sách (những nguồn cô đọng nội dung và cấu trúc cuốn sách). Ghi lại các thuật ngữ và khái niệm có vẻ đặc biệt liên quan để não nhận ra khi chúng xuất hiện sau đó. Quá trình chỉ mất vài phút nhưng tác động lớn tới tốc độ đọc: đã chuẩn bị để chú ý tới khái niệm quan trọng, bạn sẽ đọc rất nhanh, và trong khi đọc, não tự động bỏ qua phần không có ích và hướng tới phần đáng học. Kaufman cho rằng có thể rút nội dung hữu ích của hầu hết sách phi hư cấu trong dưới 20 phút; ở thư viện hay hiệu sách, kỹ thuật này cho phép ông đọc vài cuốn trong dưới một giờ. Không có phương pháp này, ông đã không lập được danh sách đọc Personal MBA như hiện nay, càng không viết được cuốn sách.
+**Ví dụ đọc sách.** Trong *10 Days to Faster Reading*, Abby Marks-Beale giới thiệu một kỹ thuật mà Kaufman gọi là "đặt mục đích": dành vài phút trước khi đọc để làm rõ (1) vì sao muốn đọc cuốn sách này và (2) đang tìm loại thông tin gì. Ghi chú trước khi cầm sách sẽ củng cố việc tìm kiếm.
+
+Sau đó cầm sách lướt nhanh, chú ý mục lục, tên chương và bảng tra cứu cuối sách (những nguồn cô đọng nội dung và cấu trúc cuốn sách). Ghi lại các thuật ngữ và khái niệm có vẻ đặc biệt liên quan để não nhận ra khi chúng xuất hiện sau đó. Quá trình chỉ mất vài phút nhưng tác động lớn tới tốc độ đọc: đã chuẩn bị để chú ý tới khái niệm quan trọng, bạn sẽ đọc rất nhanh, và trong khi đọc, não tự động bỏ qua phần không có ích và hướng tới phần đáng học.
+
+Kaufman cho rằng có thể rút nội dung hữu ích của hầu hết sách phi hư cấu trong dưới 20 phút; ở thư viện hay hiệu sách, kỹ thuật này cho phép ông đọc vài cuốn trong dưới một giờ. Không có phương pháp này, ông đã không lập được danh sách đọc Personal MBA như hiện nay, càng không viết được cuốn sách.
 
 **Ví dụ mục tiêu.** Một cách "có may mắn" khi theo đuổi mục tiêu là chuẩn bị. Một lý do đặt mục tiêu có ích là nó giúp định hướng não tìm thông tin giúp đạt điều mình muốn. Nếu mục tiêu là leo Everest, khi lướt một trang web du lịch bạn dễ để ý vé máy bay đi Nepal giảm 70%. Nếu đọc cùng thông tin đó trước khi đặt mục tiêu, có lẽ bạn đã lọc nó đi vì lúc đó chẳng có lý do để chú ý. Hãy dành thời gian chuẩn bị kỹ cho não; nó sẽ để ý điều liên quan tới bạn, và bạn sẽ tìm thấy.
 
@@ -991,7 +1006,9 @@ Quyết định, lớn hay nhỏ, không bao giờ được đưa ra với đầ
 
 Đừng nghĩ cần có đủ mọi thông tin mới quyết định được: thế giới quá phức tạp để dự đoán chính xác. Tướng về hưu Colin Powell nổi tiếng với quan điểm thu thập khoảng một nửa thông tin rồi quyết định, dù thông tin rõ ràng chưa đủ: "Đừng chờ tới khi có đủ mọi dữ liệu để chắc chắn 100%, vì lúc đó thường đã quá muộn... Khi đã có từ 40% tới 70% thông tin, hãy hành động theo trực giác." Nếu chiến lược đó thắng khi quyết định trong trận chiến sống còn, nó cũng dùng được cho đời thường: thu thập đủ thông tin để quyết, quyết, rồi hành động.
 
-Không quyết định cũng là một quyết định. Cuộc sống không dừng lại vì bạn từ chối chọn: Trái Đất vẫn quay và bạn sẽ bị buộc hành động một cách thụ động. Từ bỏ trách nhiệm tự quyết không có nghĩa là không quyết, mà là để mình thành nạn nhân của hoàn cảnh. Để có kết quả tốt, hãy quyết định dứt khoát và có ý thức. Theo quan sát của Kaufman, nhiều người khó biết mình phải làm gì vì do dự khi quyết: ác cảm với mất mát (chương 7) thúc họ giữ mọi lựa chọn mở "phòng khi". Nhưng chưa quyết thì não không thể dùng mô phỏng trong đầu để hiểu cách đi từ chỗ đang đứng tới chỗ muốn tới, và tâm trí cứ mò mẫm. Nói đơn giản "tôi quyết định làm X ngay bây giờ" làm quá trình dễ hơn: khi đã quyết, các mạch lập kế hoạch bằng mô phỏng của não khởi động, và bạn bắt đầu chuyển động.
+Không quyết định cũng là một quyết định. Cuộc sống không dừng lại vì bạn từ chối chọn: Trái Đất vẫn quay và bạn sẽ bị buộc hành động một cách thụ động. Từ bỏ trách nhiệm tự quyết không có nghĩa là không quyết, mà là để mình thành nạn nhân của hoàn cảnh. Để có kết quả tốt, hãy quyết định dứt khoát và có ý thức.
+
+Theo quan sát của Kaufman, nhiều người khó biết mình phải làm gì vì do dự khi quyết: ác cảm với mất mát (chương 7) thúc họ giữ mọi lựa chọn mở "phòng khi". Nhưng chưa quyết thì não không thể dùng mô phỏng trong đầu để hiểu cách đi từ chỗ đang đứng tới chỗ muốn tới, và tâm trí cứ mò mẫm. Nói đơn giản "tôi quyết định làm X ngay bây giờ" làm quá trình dễ hơn: khi đã quyết, các mạch lập kế hoạch bằng mô phỏng của não khởi động, và bạn bắt đầu chuyển động.
 
 Nếu khó quyết, Steve Pavlina khuyên dùng một câu hỏi phân xử: trong các phương án, tôi thích trải nghiệm nào hơn? Khó quyết thường là do não khó thấy phương án nào tốt nhất; điều đó khó chịu nhưng thật ra nghĩa là chọn gì cũng không quan trọng lắm. Khi đó, hãy chọn trải nghiệm mình thấy thú vị hơn.
 
@@ -1092,7 +1109,9 @@ Theo Kaufman, đây là một trong những khả năng mạnh nhất (và ít �
 
 Mô phỏng giả định có thể giúp phát hiện cơ hội ẩn chưa từng nghĩ là có thể. Khi làm ở P&G, Kaufman thường mơ tự làm và phát triển Personal MBA toàn thời gian, nhưng luôn mặc định phải chờ vài năm nữa. Một năm sau, ông vẫn nghĩ phải chờ thêm vài năm. Tự làm là giấc mơ đẹp, nhưng ông không coi nó là thực tế vì chưa từng phân tích kỹ khả năng. Điều đó thay đổi ngay sau khi ông biết tới mô phỏng giả định. Trong một chuyến công tác tháng 9/2008, ông mô phỏng: thật ra chuyện gì sẽ xảy ra nếu tôi nghỉ việc ở P&G trước sinh nhật (đầu tháng 11)? Ông nghĩ câu hỏi không thực tế, nhưng nó tham vọng tới mức thú vị. Ông gác phán xét lại và mô phỏng.
 
-Khi chạy mô phỏng giả định, ta coi sự kiện hay trạng thái cuối cùng đang mô phỏng là sự thật. Đưa cho trí óc một đích giả, nó tự động lấp các chỗ trống từ điểm A tới điểm B. Khi mô phỏng việc rời P&G, Kaufman coi đó là chắc chắn sẽ xảy ra, rồi hiểu ra cách làm cho nó thành hiện thực. Trong lúc mô phỏng, các câu hỏi khác tự nảy ra: cần thu nhập bao nhiêu? cần bao nhiêu khách hàng? sẽ làm những dự án nào khác và cần bao nhiêu tiền để đạt mức lợi nhuận đủ sống ("ramen", khái niệm ở chương 6)? Câu nào hiện ra ông trả lời câu đó trong khả năng, và ghi vào sổ. Mô phỏng xong, ông phát hiện mình có thể nghỉ việc ở P&G ngay thay vì chờ vài năm. Thứ Hai trở lại văn phòng, ông nộp đơn nghỉ, bốn ngày trước sinh nhật.
+Khi chạy mô phỏng giả định, ta coi sự kiện hay trạng thái cuối cùng đang mô phỏng là sự thật. Đưa cho trí óc một đích giả, nó tự động lấp các chỗ trống từ điểm A tới điểm B. Khi mô phỏng việc rời P&G, Kaufman coi đó là chắc chắn sẽ xảy ra, rồi hiểu ra cách làm cho nó thành hiện thực.
+
+Trong lúc mô phỏng, các câu hỏi khác tự nảy ra: cần thu nhập bao nhiêu? cần bao nhiêu khách hàng? sẽ làm những dự án nào khác và cần bao nhiêu tiền để đạt mức lợi nhuận đủ sống ("ramen", khái niệm ở chương 6)? Câu nào hiện ra ông trả lời câu đó trong khả năng, và ghi vào sổ. Mô phỏng xong, ông phát hiện mình có thể nghỉ việc ở P&G ngay thay vì chờ vài năm. Thứ Hai trở lại văn phòng, ông nộp đơn nghỉ, bốn ngày trước sinh nhật.
 
 Theo kinh nghiệm của Kaufman, không bao giờ phí thời gian khi phân tích mô phỏng giả định. Thay vì mặc định điều mình muốn là không thực tế hay không thể, mô phỏng giả định giúp hiểu cần gì để biến mong muốn thành hiện thực. Sau một mô phỏng, ta hiểu rõ hơn cần gì để đạt một điều cụ thể, hay cần gì để khởi động nó.
 
@@ -1116,7 +1135,9 @@ Nếu não đã rơi vào phản ứng khoá chặt mối đe doạ (chương 7)
 
 Hội chứng người tiền sử (chương 7) đánh thức bộ não cổ xưa thích bi kịch, và não kết luận mọi mối đe doạ tiềm tàng là chuyện sống còn. Lý do ta lo âu nhiều là não "diễn giải" việc mất tài nguyên, mất vị thế hay bị từ chối là đe doạ tới sự sống. Có lẽ hồi xưa đúng vậy, nhưng nay thì không: ngày nay bạn có thể mất tiền, phạm sai lầm hay gặp thái độ thù địch hàng trăm lần mỗi ngày mà vẫn sống để kể lại.
 
-Khi phân tích nghiêm túc những nỗi sợ sâu nhất, bạn sẽ thấy mọi thứ không tệ như sợ. Tưởng tượng kịch bản tồi tệ nhất giống đưa đèn pin cho đứa trẻ sợ quái vật dưới gầm giường: soi sáng nỗi sợ, nó nhận ra chẳng có gì phải sợ. Đưa ra ngoài và định nghĩa rõ những nỗi sợ sâu nhất, bạn thấy chúng như thật: phản ứng phóng đại và không thực tế. Bạn sẽ thấy mình sợ một điều thật ra không quan trọng; và kể cả khi chuyện hỏng, nó cũng không hỏng như bạn nghĩ. Khi nhận ra mình sẽ không chết, bạn được tự do hành động can đảm hơn mình tưởng. Sau khi tưởng tượng kịch bản tồi tệ nhất, có thể bắt đầu hành động để vượt qua phương án xấu nhất: nếu đang lập công ty, có thể xác định các rủi ro hiện có và lập kế hoạch giảm nhẹ. Thay vì làm nạn nhân của nỗi sợ, bạn dùng chúng một cách xây dựng, và buộc bộ não thích bi kịch làm việc cho mình.
+Khi phân tích nghiêm túc những nỗi sợ sâu nhất, bạn sẽ thấy mọi thứ không tệ như sợ. Tưởng tượng kịch bản tồi tệ nhất giống đưa đèn pin cho đứa trẻ sợ quái vật dưới gầm giường: soi sáng nỗi sợ, nó nhận ra chẳng có gì phải sợ. Đưa ra ngoài và định nghĩa rõ những nỗi sợ sâu nhất, bạn thấy chúng như thật: phản ứng phóng đại và không thực tế. Bạn sẽ thấy mình sợ một điều thật ra không quan trọng; và kể cả khi chuyện hỏng, nó cũng không hỏng như bạn nghĩ.
+
+Khi nhận ra mình sẽ không chết, bạn được tự do hành động can đảm hơn mình tưởng. Sau khi tưởng tượng kịch bản tồi tệ nhất, có thể bắt đầu hành động để vượt qua phương án xấu nhất: nếu đang lập công ty, có thể xác định các rủi ro hiện có và lập kế hoạch giảm nhẹ. Thay vì làm nạn nhân của nỗi sợ, bạn dùng chúng một cách xây dựng, và buộc bộ não thích bi kịch làm việc cho mình.
 
 ### 18. Xu hướng đánh giá quá cao năng lực bản thân (La tendencia a sobrevalorar las propias capacidades)
 
@@ -1139,7 +1160,9 @@ Người không ý thức được mình kém và không biết mình không bi�
 
 Một chút khiêm tốn là đức tính cho phép sửa sai. Tự tin thái quá có thể đưa thẳng tới thành công, nhưng đó là canh bạc rủi ro (không có định hướng đúng thì rất dễ gặp rắc rối). Giữ một liều khiêm tốn lành mạnh sẽ ngăn bạn mặc định mình đã biết hết về một chủ đề rồi đau đớn phát hiện không phải. Xu hướng này là phổ quát (cẩn thận nếu phản xạ đầu tiên là nghĩ mình miễn nhiễm), nên cần tin cậy những cố vấn không ngại chỉ ra bạn đang sai.
 
-Cách dễ nhất để gặp rắc rối vì xu hướng này là tính sai thời hạn: tự tin thái quá là một trong những nguyên nhân chính của **ảo tưởng lập kế hoạch** (planning fallacy, bàn ở chương 9). Khi nhận lời viết cuốn sách, Kaufman nghĩ sẽ mất khoảng 6 tháng; vì là lần đầu viết sách, thật ra ông không biết gì. Một số bạn bè và cố vấn có kinh nghiệm hơn bảo có lẽ sẽ mất một năm; ông mừng vì đã nghe họ, vì họ đúng. Ai cũng có xu hướng đánh giá quá cao năng lực mình. Có một đội ngũ sẵn sàng nịnh bạn là đùa với lửa: người luôn đồng ý sẽ không giúp bạn sửa sai; người ủng hộ mọi quyết định của bạn sẽ không giúp bạn tránh lỗi. Hãy vun đắp quan hệ với những người không sợ nói bạn đang vội kết luận hay đi sai đường; họ là đồng minh tốt nhất của bạn.
+Cách dễ nhất để gặp rắc rối vì xu hướng này là tính sai thời hạn: tự tin thái quá là một trong những nguyên nhân chính của **ảo tưởng lập kế hoạch** (planning fallacy, bàn ở chương 9). Khi nhận lời viết cuốn sách, Kaufman nghĩ sẽ mất khoảng 6 tháng; vì là lần đầu viết sách, thật ra ông không biết gì. Một số bạn bè và cố vấn có kinh nghiệm hơn bảo có lẽ sẽ mất một năm; ông mừng vì đã nghe họ, vì họ đúng.
+
+Ai cũng có xu hướng đánh giá quá cao năng lực mình. Có một đội ngũ sẵn sàng nịnh bạn là đùa với lửa: người luôn đồng ý sẽ không giúp bạn sửa sai; người ủng hộ mọi quyết định của bạn sẽ không giúp bạn tránh lỗi. Hãy vun đắp quan hệ với những người không sợ nói bạn đang vội kết luận hay đi sai đường; họ là đồng minh tốt nhất của bạn.
 
 ### 19. Thiên kiến xác nhận (La parcialidad)
 
@@ -1147,9 +1170,13 @@ Cách dễ nhất để gặp rắc rối vì xu hướng này là tính sai th�
 
 Lạ thay, cách tốt nhất để biết mình có đúng không là chủ động tìm thông tin chứng minh điều ngược lại. **Thiên kiến xác nhận** là xu hướng chung của mọi người chỉ chú ý tới thông tin củng cố ý mình và bỏ qua thông tin phủ nhận. Không ai thích thấy mình đã quyết định sai, nên ta có xu hướng lọc mọi thứ mình chú ý tới. Càng bảo vệ một ý kiến hay niềm tin, ta càng gạt bỏ nguồn thông tin đối lập. Vì thế hiếm thấy chính khách bảo thủ đọc báo cấp tiến và ngược lại: họ biết quan điểm của mình không khớp với những gì báo đó viết, đọc làm gì? Tiếc là thái độ này làm cả hai phía cực đoan hơn, vì không bên nào tìm thông tin thách thức niềm tin của mình.
 
-Cách tốt nhất để chống thiên kiến này là tìm nguồn thông tin thách thức giả thuyết hay niềm tin hiện tại. Khi Kaufman và Kelsey ăn thuần chay vài năm, họ dễ dàng tự thuyết phục rằng đó là quyết định đúng nhất cho sức khoẻ, cho bạn bè, cho động vật và cho hành tinh. Quan điểm rộng lớn như chính Trái Đất này ngăn họ chú ý tới bất kỳ nguồn nào trái ngược. Cuối cùng họ đổi ý vì có bằng chứng ngược lại. Đọc *The Vegetarian Myth* của Lierre Keith, họ phát hiện ăn chay không lành mạnh và không thân thiện với môi trường như họ tưởng. Michael R. Eades và Mary Dan Eades, trong *Protein Power*, chỉ cho họ cơ thể xử lý hoá sinh thức ăn thế nào và các vòng phản hồi (bàn ở chương 10) trong trao đổi chất thật ra vận hành ra sao. Rốt cuộc họ nhận ra mình đang mang những vấn đề sức khoẻ (thiếu năng lượng, tiêu hoá chậm) do chế độ ăn. Cả hai cuốn sách đưa ra quan điểm trái với ý ban đầu của họ, và vì thế họ đổi ý. Đó là một trải nghiệm lớn, cả về dinh dưỡng lẫn về việc học cách chú ý tới bằng chứng trái với giả định.
+Cách tốt nhất để chống thiên kiến này là tìm nguồn thông tin thách thức giả thuyết hay niềm tin hiện tại. Khi Kaufman và Kelsey ăn thuần chay vài năm, họ dễ dàng tự thuyết phục rằng đó là quyết định đúng nhất cho sức khoẻ, cho bạn bè, cho động vật và cho hành tinh. Quan điểm rộng lớn như chính Trái Đất này ngăn họ chú ý tới bất kỳ nguồn nào trái ngược.
 
-Chú ý tới bằng chứng loại này khó, vì nó đòi chủ động tìm lý do chứng minh mình sai, mà nói chung ta ghét sai. Tìm bằng chứng phản bác quan điểm của mình sẽ cho thấy bạn sai, hoặc cho thêm thông tin xác nhận lập trường của bạn thật ra đúng, miễn là bạn tạm gác ý kiến của mình đủ lâu để học từ trải nghiệm (xem Lưu ý về câu này). Tìm thông tin bác bỏ ý mình thì khó chịu, nhưng có ích, dù cuối cùng bạn quyết định thế nào.
+Cuối cùng họ đổi ý vì có bằng chứng ngược lại. Đọc *The Vegetarian Myth* của Lierre Keith, họ phát hiện ăn chay không lành mạnh và không thân thiện với môi trường như họ tưởng. Michael R. Eades và Mary Dan Eades, trong *Protein Power*, chỉ cho họ cơ thể xử lý hoá sinh thức ăn thế nào và các vòng phản hồi (bàn ở chương 10) trong trao đổi chất thật ra vận hành ra sao. Rốt cuộc họ nhận ra mình đang mang những vấn đề sức khoẻ (thiếu năng lượng, tiêu hoá chậm) do chế độ ăn.
+
+Cả hai cuốn sách đưa ra quan điểm trái với ý ban đầu của họ, và vì thế họ đổi ý. Đó là một trải nghiệm lớn, cả về dinh dưỡng lẫn về việc học cách chú ý tới bằng chứng trái với giả định.
+
+Chú ý tới bằng chứng loại này khó, vì nó đòi chủ động tìm lý do chứng minh mình sai, mà nói chung ta ghét sai. Tìm bằng chứng phản bác quan điểm của mình sẽ cho thấy bạn sai, hoặc cho thêm thông tin xác nhận lập trường của bạn thật ra đúng, miễn là bạn tạm gác ý kiến của mình đủ lâu để học từ trải nghiệm (xem mục Chỗ bản dịch có vẻ lệch nghĩa hoặc khó hiểu cuối chương, về câu này). Tìm thông tin bác bỏ ý mình thì khó chịu, nhưng có ích, dù cuối cùng bạn quyết định thế nào.
 
 ### 20. Thiên kiến nhìn lại (El sesgo «a posteriori»)
 
@@ -1246,7 +1273,9 @@ Thích ý tưởng trở thành hay làm một điều khác xa với thích đi
 - Có lẽ bạn thích ý tưởng làm nhà văn, nhưng không thích sự cô đơn, những hoài nghi ập tới, và hàng giờ bất tận ngồi trên ghế, tay trên bàn phím, vì nghề đòi như vậy.
 - Có lẽ bạn thích ý tưởng nổi tiếng, nhưng không thích bị soi mói, mất riêng tư và nỗi sợ thường trực rằng người ta sẽ thôi chú ý tới mình để quay sang hiện tượng kế tiếp.
 
-**Hào quang** quanh một người là bầu không khí kính trọng và ngưỡng mộ: thêm chút bí ẩn, mọi thứ trông hấp dẫn hơn thực tế. May là mọi chuyện tuỳ cách nhìn: hãy nói chuyện thẳng thắn với một người đã làm điều bạn muốn làm. Có thể nói: "Tôi rất ngưỡng mộ công việc của anh/chị, nhưng tôi đoán nó có mặt được và mặt mất. Ta nói về chuyện đó được không? Biết những gì anh/chị biết bây giờ, nó có đáng không?" Cuộc trò chuyện chỉ mất vài phút, nhưng bạn sẽ ngạc nhiên vì học được nhiều điều, cả tốt lẫn xấu. Không nghề, dự án hay vị trí nào không có bất lợi: con đường nào cũng có đánh đổi. Biết trước các đánh đổi đó là lợi thế lớn: bạn đánh giá được một lựa chọn mà không lý tưởng hoá nó, và chọn nó trước khi bắt đầu nếu đó đúng là điều mình muốn. Hiểu biết kiểu này vô giá.
+**Hào quang** quanh một người là bầu không khí kính trọng và ngưỡng mộ: thêm chút bí ẩn, mọi thứ trông hấp dẫn hơn thực tế. May là mọi chuyện tuỳ cách nhìn: hãy nói chuyện thẳng thắn với một người đã làm điều bạn muốn làm. Có thể nói: "Tôi rất ngưỡng mộ công việc của anh/chị, nhưng tôi đoán nó có mặt được và mặt mất. Ta nói về chuyện đó được không? Biết những gì anh/chị biết bây giờ, nó có đáng không?"
+
+Cuộc trò chuyện chỉ mất vài phút, nhưng bạn sẽ ngạc nhiên vì học được nhiều điều, cả tốt lẫn xấu. Không nghề, dự án hay vị trí nào không có bất lợi: con đường nào cũng có đánh đổi. Biết trước các đánh đổi đó là lợi thế lớn: bạn đánh giá được một lựa chọn mà không lý tưởng hoá nó, và chọn nó trước khi bắt đầu nếu đó đúng là điều mình muốn. Hiểu biết kiểu này vô giá.
 
 ### 26. Phạm vi kiểm soát (El ámbito de control)
 
@@ -1304,7 +1333,14 @@ Trong *Mindset* (bản TBN: *La actitud del éxito*), tiến sĩ Carol Dweck g�
 
 Cách phản ứng trước thách thức sẽ quyết định thành công. Điều quan trọng là ý thức rằng ta không có khiếm khuyết căn bản nào, không có gì ta không thể học hay làm. Sẽ tốn thời gian và công sức, nhưng cuối cùng, nếu cố gắng, bạn sẽ đạt được. Coi trí óc là một cơ bắp là cách tốt nhất giúp nó lớn lên. Chương kết thúc ở đây.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Chị Lan là trưởng nhóm marketing ở một công ty hàng tiêu dùng tại TP.HCM, mỗi ngày nhận khoảng 120 tin nhắn Zalo và email, dự 5 cuộc họp, và luôn thấy cuối ngày chưa làm xong kế hoạch ra mắt sản phẩm quý tới. Chị áp dụng chương 8 như sau. (1) *Bốn cách xử lý một việc*: rà danh sách 40 việc, chị bỏ 8 việc (báo cáo không ai đọc), giao 12 việc cho hai nhân viên (thiết kế banner, tổng hợp số liệu bán hàng; chị ước họ làm được khoảng 80% chất lượng của mình), hoãn 10 việc vào danh sách "một ngày nào đó", còn 10 việc tự làm. (2) *Việc quan trọng nhất*: mỗi sáng chị chọn 2 việc, ví dụ "viết xong phần định vị sản phẩm" và "chốt ngân sách quảng cáo", làm từ 8 giờ tới 10 giờ, tắt Zalo. (3) *Gom việc thành khối*: chị dời các cuộc họp về sau 14 giờ và rút mặc định từ 60 xuống 25 phút theo tinh thần quy tắc Ingvar. (4) *Tải công việc*: chị chừa trống khoảng 20% lịch mỗi tuần cho việc phát sinh. Bảng so sánh một tuần làm việc trước và sau:
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Chị Lan là trưởng nhóm marketing ở một công ty hàng tiêu dùng tại TP.HCM, mỗi ngày nhận khoảng 120 tin nhắn Zalo và email, dự 5 cuộc họp, và luôn thấy cuối ngày chưa làm xong kế hoạch ra mắt sản phẩm quý tới. Chị áp dụng chương 8 như sau.
+
+- (1) *Bốn cách xử lý một việc*: rà danh sách 40 việc, chị bỏ 8 việc (báo cáo không ai đọc), giao 12 việc cho hai nhân viên (thiết kế banner, tổng hợp số liệu bán hàng; chị ước họ làm được khoảng 80% chất lượng của mình), hoãn 10 việc vào danh sách "một ngày nào đó", còn 10 việc tự làm.
+- (2) *Việc quan trọng nhất*: mỗi sáng chị chọn 2 việc, ví dụ "viết xong phần định vị sản phẩm" và "chốt ngân sách quảng cáo", làm từ 8 giờ tới 10 giờ, tắt Zalo.
+- (3) *Gom việc thành khối*: chị dời các cuộc họp về sau 14 giờ và rút mặc định từ 60 xuống 25 phút theo tinh thần quy tắc Ingvar.
+- (4) *Tải công việc*: chị chừa trống khoảng 20% lịch mỗi tuần cho việc phát sinh.
+
+Bảng so sánh một tuần làm việc trước và sau:
 
 | Chỉ số mỗi tuần (giả định) | Trước | Sau |
 |---|---|---|
@@ -1450,15 +1486,21 @@ Năng suất và hiệu quả cá nhân đến từ việc tổ chức công vi�
 
 ### Chương này là một bản tổng hợp gọn các sách năng suất, giá trị nằm ở việc nối chúng với cơ chế của bộ não
 
-Phần lớn công cụ trong chương không phải của Kaufman: Pomodoro của Cirillo, hành động kế tiếp và danh sách "một ngày nào đó" của David Allen, lịch người làm sáng tạo của Paul Graham, tư duy phát triển của Dweck, R&D cá nhân tự động của Ramit Sethi. Đóng góp của Kaufman là đặt chúng cạnh nhau và giải thích mỗi công cụ bằng một cơ chế nhận thức đã trình bày ở chương 7: mục tiêu cụ thể có tác dụng vì não mô phỏng được đích; kịch bản tồi tệ nhất có tác dụng vì nó làm dịu phản ứng khoá chặt mối đe doạ; gom việc có tác dụng vì giảm số lần nạp lại bối cảnh. Với người đọc mới, đây là một bản đồ tốt; với người đã đọc các sách gốc, chương này ít điều mới, và vài chỗ tóm tắt khá sơ lược (ví dụ phương pháp ACC chỉ là danh sách câu hỏi).
+Phần lớn công cụ trong chương không phải của Kaufman: Pomodoro của Cirillo, hành động kế tiếp và danh sách "một ngày nào đó" của David Allen, lịch người làm sáng tạo của Paul Graham, tư duy phát triển của Dweck, R&D cá nhân tự động của Ramit Sethi. Đóng góp của Kaufman là đặt chúng cạnh nhau và giải thích mỗi công cụ bằng một cơ chế nhận thức đã trình bày ở chương 7: mục tiêu cụ thể có tác dụng vì não mô phỏng được đích; kịch bản tồi tệ nhất có tác dụng vì nó làm dịu phản ứng khoá chặt mối đe doạ; gom việc có tác dụng vì giảm số lần nạp lại bối cảnh.
+
+Với người đọc mới, đây là một bản đồ tốt; với người đã đọc các sách gốc, chương này ít điều mới, và vài chỗ tóm tắt khá sơ lược (ví dụ phương pháp ACC chỉ là danh sách câu hỏi).
 
 ### Nhiều lời khuyên dựa trên kinh nghiệm của một người có quyền tự chủ cao với lịch làm việc
 
-Kaufman viết như một người làm tự do: ông có thể tắt điện thoại cả buổi sáng, dời mọi cuộc gọi sang chiều, bỏ theo dõi tin tức, nghỉ việc sau một lần mô phỏng. Người làm ở vị trí phải phản hồi ngay (chăm sóc khách hàng, vận hành, quản lý cấp trung với nhiều cấp trên) khó làm như vậy, và lời khuyên "đặt giới hạn và chấp nhận mất việc" có chi phí rất khác nhau tuỳ hoàn cảnh tài chính. Câu chuyện nghỉ việc ở P&G cũng là trường hợp thành công được kể lại (thiên kiến người sống sót); những người mô phỏng giả định rồi nghỉ việc và thất bại thì không viết sách. Chương thừa nhận tự tin thái quá là nguy hiểm ở mục 18, nhưng không đặt hai mục 15 và 18 cạnh nhau để chỉ ra rằng mô phỏng giả định cũng có thể bị tự tin thái quá làm méo.
+Kaufman viết như một người làm tự do: ông có thể tắt điện thoại cả buổi sáng, dời mọi cuộc gọi sang chiều, bỏ theo dõi tin tức, nghỉ việc sau một lần mô phỏng. Người làm ở vị trí phải phản hồi ngay (chăm sóc khách hàng, vận hành, quản lý cấp trung với nhiều cấp trên) khó làm như vậy, và lời khuyên "đặt giới hạn và chấp nhận mất việc" có chi phí rất khác nhau tuỳ hoàn cảnh tài chính.
+
+Câu chuyện nghỉ việc ở P&G cũng là trường hợp thành công được kể lại (thiên kiến người sống sót); những người mô phỏng giả định rồi nghỉ việc và thất bại thì không viết sách. Chương thừa nhận tự tin thái quá là nguy hiểm ở mục 18, nhưng không đặt hai mục 15 và 18 cạnh nhau để chỉ ra rằng mô phỏng giả định cũng có thể bị tự tin thái quá làm méo.
 
 ### Một số kết quả tâm lý học mà chương dựa vào đã bị đặt lại câu hỏi sau 2010
 
-Ý "ý chí mỗi ngày có hạn và cạn nhanh khi vượt ngưỡng" (dùng trong mục thói quen) dựa trên lý thuyết cạn kiệt cái tôi (ego depletion); sau 2010, các dự án lặp lại thí nghiệm quy mô lớn không tái tạo được hiệu ứng này một cách vững chắc. Hiệu ứng Dunning-Kruger vẫn được trích nhiều, nhưng một phần mô hình kinh điển bị phê bình là có thể sinh ra từ hiện tượng thống kê (hồi quy về trung bình, hiệu ứng trần/sàn), và cách nói phổ biến "người kém tự tin hơn chuyên gia" mạnh hơn dữ liệu gốc. Các can thiệp tư duy phát triển trong nghiên cứu quy mô lớn cho tác động có thật nhưng nhỏ, tập trung ở nhóm học sinh có nguy cơ. Nhịp 90 phút ban ngày có bằng chứng yếu hơn nhịp 24 giờ. Lời khuyên thực hành của Kaufman (tập từng thói quen, có cố vấn phản biện, nghỉ khi mệt) vẫn hợp lý, nhưng người đọc không nên coi các cơ chế được dẫn là đã được khoa học khẳng định chắc chắn.
+Ý "ý chí mỗi ngày có hạn và cạn nhanh khi vượt ngưỡng" (dùng trong mục thói quen) dựa trên lý thuyết cạn kiệt cái tôi (ego depletion); sau 2010, các dự án lặp lại thí nghiệm quy mô lớn không tái tạo được hiệu ứng này một cách vững chắc. Hiệu ứng Dunning-Kruger vẫn được trích nhiều, nhưng một phần mô hình kinh điển bị phê bình là có thể sinh ra từ hiện tượng thống kê (hồi quy về trung bình, hiệu ứng trần/sàn), và cách nói phổ biến "người kém tự tin hơn chuyên gia" mạnh hơn dữ liệu gốc.
+
+Các can thiệp tư duy phát triển trong nghiên cứu quy mô lớn cho tác động có thật nhưng nhỏ, tập trung ở nhóm học sinh có nguy cơ. Nhịp 90 phút ban ngày có bằng chứng yếu hơn nhịp 24 giờ. Lời khuyên thực hành của Kaufman (tập từng thói quen, có cố vấn phản biện, nghỉ khi mệt) vẫn hợp lý, nhưng người đọc không nên coi các cơ chế được dẫn là đã được khoa học khẳng định chắc chắn.
 
 ### Mục tải công việc đúng hơn chính nó nghĩ, và đúng ở cấp tổ chức
 
@@ -1466,7 +1508,9 @@ Kaufman lập luận chừa khoảng trống bằng hình ảnh người tung h�
 
 ### Có vài khẳng định thiếu chính xác hoặc quá đơn giản
 
-Câu "Steve Wozniak chế tạo máy tính cá nhân đầu tiên trên thế giới" không đúng: trước Apple I (1976) đã có các máy tính cá nhân dạng bộ lắp ráp như Altair 8800 (1975); Wozniak đúng hơn là người thiết kế Apple I và Apple II, những máy góp phần phổ biến máy tính cá nhân. Lời khuyên "dành ngân sách R&D cá nhân quan trọng hơn tối đa hoá tiết kiệm" đúng nhất với người trẻ, thu nhập ổn định, đã có quỹ khẩn cấp; với người đang nợ lãi cao, thứ tự ưu tiên khác. Trường hợp bỏ ăn thuần chay được dùng làm ví dụ cho thiên kiến xác nhận, nhưng hai cuốn sách mà Kaufman dẫn (*The Vegetarian Myth*, *Protein Power*) cũng là sách bênh vực một quan điểm, và việc đổi ý sau khi đọc chúng cũng có thể bị chính thiên kiến xác nhận chi phối theo hướng ngược lại; ví dụ minh hoạ được nguyên tắc "tìm nguồn trái chiều", nhưng không chứng minh được kết luận dinh dưỡng.
+Câu "Steve Wozniak chế tạo máy tính cá nhân đầu tiên trên thế giới" không đúng: trước Apple I (1976) đã có các máy tính cá nhân dạng bộ lắp ráp như Altair 8800 (1975); Wozniak đúng hơn là người thiết kế Apple I và Apple II, những máy góp phần phổ biến máy tính cá nhân. Lời khuyên "dành ngân sách R&D cá nhân quan trọng hơn tối đa hoá tiết kiệm" đúng nhất với người trẻ, thu nhập ổn định, đã có quỹ khẩn cấp; với người đang nợ lãi cao, thứ tự ưu tiên khác.
+
+Trường hợp bỏ ăn thuần chay được dùng làm ví dụ cho thiên kiến xác nhận, nhưng hai cuốn sách mà Kaufman dẫn (*The Vegetarian Myth*, *Protein Power*) cũng là sách bênh vực một quan điểm, và việc đổi ý sau khi đọc chúng cũng có thể bị chính thiên kiến xác nhận chi phối theo hướng ngược lại; ví dụ minh hoạ được nguyên tắc "tìm nguồn trái chiều", nhưng không chứng minh được kết luận dinh dưỡng.
 
 ### Vận dụng: coi sự chú ý, năng lượng và kỹ năng của mình như tài nguyên khan hiếm của một doanh nghiệp
 
@@ -1474,3 +1518,222 @@ Câu "Steve Wozniak chế tạo máy tính cá nhân đầu tiên trên thế gi
 - **Trong nghề nghiệp.** Trước khi theo đuổi một vị trí hay một tấm bằng (MBA, chứng chỉ, chức danh quản lý), hỏi "tại sao" năm lần để biết mình thật sự muốn gì, và hỏi thẳng người đang ở vị trí đó "biết những gì anh/chị biết bây giờ, nó có đáng không?" để nhìn thấu hào quang. Dành một tỷ lệ cố định thu nhập cho học tập. Tìm ít nhất một cố vấn dám nói mình sai, nhất là khi ước lượng thời hạn.
 - **Khi khởi nghiệp hoặc kinh doanh nhỏ.** Dùng mô phỏng giả định để tính cụ thể mức thu nhập đủ sống, số khách hàng cần có và thời gian trụ được trước khi nghỉ việc; viết kịch bản tồi tệ nhất kèm kế hoạch giảm rủi ro. Nhưng cảnh giác với tự tin thái quá: nhân thời hạn ước tính lên theo kinh nghiệm của người đi trước. Chủ doanh nghiệp nhỏ thường làm mọi việc một mình; bốn cách xử lý một việc và dịch vụ thuê ngoài (kế toán, thiết kế, chăm sóc khách hàng) giúp giữ thời gian cho việc chỉ chủ làm được.
 - **Ở Việt Nam.** Văn hoá công sở ở nhiều nơi kỳ vọng phản hồi tin nhắn Zalo gần như tức thời, kể cả ngoài giờ, làm cái giá của việc chuyển đổi sự chú ý trở nên rất lớn; một thoả thuận nhóm đơn giản (giờ tập trung không nhắn tin, việc gấp thì gọi điện) là cách áp dụng mục 1 và mục 2. Việc nói thẳng "không" hay đặt giới hạn với cấp trên khó hơn trong môi trường coi trọng thứ bậc, nên cách khả thi hơn thường là đề xuất thứ tự ưu tiên ("anh muốn em làm việc A hay việc B trước?") thay vì từ chối. Ngân sách R&D cá nhân 5% thu nhập (ví dụ minh hoạ: 750 nghìn đồng/tháng với thu nhập 15 triệu đồng) đủ cho vài cuốn sách và một khoá học trực tuyến mỗi quý.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: sáu nhánh lớn đi theo 29 mục của phần Nội dung chi tiết (mục 1–4 tập trung và chọn việc, mục 5–8 mục tiêu và thói quen, mục 9–14 quyết định và các câu hỏi tự vấn, mục 15–17 ba kiểu mô phỏng giả định, mục 18–20 và 25 các thiên kiến khi tự đánh giá, mục 21–24 và 26–29 giữ sức bền và phát triển), mỗi nhánh ghi tên mô hình kèm định nghĩa, cơ chế, ví dụ và con số then chốt của Kaufman; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: năng suất cá nhân đến từ làm thuận theo cách bộ não và cơ thể vận hành, không phải cố gắng hơn`"]
+  n1["`Mục 1–4 — Dồn chú ý vào một việc và chỉ tự làm việc đáng làm`"]
+  n0 --- n1
+  n2["`Tập trung trọn vẹn (dòng chảy, Csikszentmihalyi): chỉ một việc chiếm suy nghĩ, không gì chen vào`"]
+  n1 --- n2
+  n3["`Ba bước: loại xao nhãng (não cần 10–30 phút để chìm vào việc), gỡ xung đột nội tâm, khởi động có chủ ý`"]
+  n2 --- n3
+  n4["`Pomodoro (Cirillo): 25 phút làm đúng một việc, 5 phút nghỉ, dễ bắt đầu và dễ từ chối gián đoạn`"]
+  n2 --- n4
+  n5["`Thiền chú ý vào hơi thở khoảng 10 phút mỗi ngày luyện khả năng giữ tập trung`"]
+  n2 --- n5
+  n6["`Cái giá chuyển đổi sự chú ý: não không làm song song, mỗi lần đổi việc phải nạp lại bối cảnh`"]
+  n1 --- n6
+  n7["`Vừa lái xe vừa nói điện thoại: phản xạ giảm tới mức người lái xe say rượu`"]
+  n6 --- n7
+  n8["`Gom việc giống nhau thành khối: Kaufman sáng viết vài giờ liền, chiều gọi điện và gặp khách`"]
+  n6 --- n8
+  n9["`Paul Graham: lịch người làm sáng tạo (khối dài) khác lịch người quản lý (chia nhỏ để họp), đừng trộn`"]
+  n6 --- n9
+  n10["`Bốn cách xử lý một việc: làm xong, bỏ đi, giao cho người khác, hoãn lại`"]
+  n1 --- n10
+  n11["`Giao khi người khác làm được ít nhất 80% hiệu quả của bạn, trợ lý ảo dưới 100 USD/tháng`"]
+  n10 --- n11
+  n12["`Việc không đáng làm thì cũng không đáng làm cho tốt hay cho nhanh`"]
+  n10 --- n12
+  n13["`Việc quan trọng nhất: đầu ngày ghi 2–3 việc trên tờ riêng, đặt hạn xong trước 10 giờ sáng`"]
+  n1 --- n13
+  n14["`Thứ không có trên danh sách đều không gấp, nên dễ từ chối gián đoạn`"]
+  n13 --- n14
+  n15["`Mục 5–8 — Cho não một đích rõ để nó tự lập kế hoạch`"]
+  n0 --- n15
+  n16["`Mục tiêu rõ giúp não mô phỏng đường đi và tạo hứng khởi, mục tiêu là cái muốn đạt, chiến lược là cách đạt`"]
+  n15 --- n16
+  n17["`Phép thử Everest: #quot;lên đỉnh Everest trước 40 tuổi#quot; thay cho #quot;tôi muốn leo núi#quot;`"]
+  n16 --- n17
+  n18["`Bốn tiêu chí: tích cực, cam kết ngay, kiểm chứng được ngoài đời, cụ thể cái gì, khi nào, ở đâu`"]
+  n16 --- n18
+  n19["`Đặt mục tiêu trong tầm kiểm soát: tập 30 phút mỗi ngày thay vì giảm 9 kg`"]
+  n16 --- n19
+  n20["`Trạng thái trải nghiệm: hạnh phúc, thành công không phải mục tiêu mà là tiêu chí ra quyết định`"]
+  n15 --- n20
+  n21["`Kaufman chia thành công thành làm việc mình thích với người mình thích, tự do chọn việc, đủ tiền sống`"]
+  n20 --- n21
+  n22["`Thói quen: hành động lặp lại nâng đỡ ta, nhờ tích luỹ cho kết quả lớn`"]
+  n15 --- n22
+  n23["`Giảm ý chí cần dùng: xếp túi đồ tập từ tối, gắn vitamin với đánh răng, tập mỗi lần một thói quen`"]
+  n22 --- n23
+  n24["`Định hướng trước cho não: nói rõ mình tìm gì để khả năng nhận dạng mẫu hình báo khi nó xuất hiện`"]
+  n15 --- n24
+  n25["`Đọc nhanh (Marks-Beale): ghi vì sao đọc và tìm gì, rút ý chính sách phi hư cấu dưới 20 phút`"]
+  n24 --- n25
+  n26["`Có mục tiêu Everest mới để ý vé máy bay đi Nepal giảm 70%`"]
+  n24 --- n26
+  n27["`Mục 9–14 — Quyết định dứt khoát và hỏi đúng câu hỏi`"]
+  n0 --- n27
+  n28["`Quyết định là cam kết một phương án, gốc Latin decidere nghĩa là cắt rời các con đường khác`"]
+  n27 --- n28
+  n29["`Colin Powell: có 40–70% thông tin thì hành động, chờ đủ 100% thường đã quá muộn`"]
+  n28 --- n29
+  n30["`Không quyết định cũng là quyết định, do dự thường do ác cảm với mất mát`"]
+  n28 --- n30
+  n31["`Câu hỏi phân xử của Pavlina: thích trải nghiệm nào hơn, vợ chồng Kaufman chọn chuyển tới New York`"]
+  n28 --- n31
+  n32["`Hỏi #quot;tại sao#quot; năm lần: 1 triệu USD → không bị tiền đè → không lo âu → an toàn → tự do`"]
+  n27 --- n32
+  n33["`Hỏi #quot;bằng cách nào#quot; năm lần: nối tự do với trả nợ, giảm giờ làm, chuyển nơi ở, tới hành động làm ngay`"]
+  n27 --- n33
+  n34["`Hành động kế tiếp: dự án lớn chỉ cần biết bước cụ thể làm được ngay bây giờ`"]
+  n27 --- n34
+  n35["`David Allen: mô tả dự án, mô tả thế nào là xong, mô tả bước tiếp, ghi vào hệ thống tin cậy`"]
+  n34 --- n35
+  n36["`Cuốn sách mất hơn một năm viết nhưng từng mục viết được dưới một giờ`"]
+  n34 --- n36
+  n37["`Đưa suy nghĩ ra ngoài: viết hoặc nói để thông tin vào não lại qua kênh khác`"]
+  n27 --- n37
+  n38["`Kể vấn đề cho bạn hay con vịt cao su thường tự tìm ra lời giải`"]
+  n37 --- n38
+  n39["`Tự vấn và phương pháp ACC (Watson, Tharp): ghi tiền đề, hành vi, hệ quả để thấy mẫu hình`"]
+  n27 --- n39
+  n40["`Mục 15–17 — Chủ động mô phỏng giả định #quot;nếu như#quot;`"]
+  n0 --- n40
+  n41["`Mô phỏng giả định: hỏi #quot;nếu... thì sao?#quot;, coi kết cục là sự thật, để não lấp chỗ trống`"]
+  n40 --- n41
+  n42["`Tháng 9/2008 Kaufman hỏi nếu nghỉ P#amp;G trước sinh nhật thì sao, rồi nộp đơn bốn ngày trước sinh nhật`"]
+  n41 --- n42
+  n43["`Định luật Parkinson: công việc giãn ra cho đầy thời gian dành cho nó`"]
+  n40 --- n43
+  n44["`Dùng như câu hỏi giả định: nếu phải xong trong hạn phi lý thì làm gì, không phải giấy phép đặt hạn vô lý`"]
+  n43 --- n44
+  n45["`Quy tắc Ingvar (Kamprad, IKEA): giả định mỗi việc nhỏ chỉ có 10 phút, họp 10 phút thay 1 giờ`"]
+  n43 --- n45
+  n46["`Kịch bản tồi tệ nhất: viết rõ điều sẽ hỏng hoàn toàn để thấy nỗi sợ bị phóng đại`"]
+  n40 --- n46
+  n47["`Hội chứng người tiền sử coi mất tiền, bị từ chối là đe doạ sống còn, nay ta mất hàng trăm lần vẫn sống`"]
+  n46 --- n47
+  n48["`Sau đó lập kế hoạch giảm nhẹ rủi ro thật, dùng nỗi sợ một cách xây dựng`"]
+  n46 --- n48
+  n49["`Mục 18–20, 25 — Các thiên kiến khi tự đánh giá mình`"]
+  n0 --- n49
+  n50["`Đánh giá quá cao năng lực, nhất là khi thiếu kinh nghiệm: giúp dám thử như Wozniak nhưng làm tính sai thời hạn`"]
+  n49 --- n50
+  n51["`Dunning-Kruger: người kém không thấy mình kém, được đào tạo mới nhận ra`"]
+  n50 --- n51
+  n52["`Kaufman tưởng viết sách 6 tháng, người có kinh nghiệm bảo 1 năm và họ đúng, cần cố vấn dám nói anh sai`"]
+  n50 --- n52
+  n53["`Thiên kiến xác nhận: chỉ để ý thông tin ủng hộ niềm tin, cách chữa là chủ động tìm bằng chứng ngược`"]
+  n49 --- n53
+  n54["`Vợ chồng Kaufman bỏ ăn thuần chay sau khi đọc The Vegetarian Myth và Protein Power`"]
+  n53 --- n54
+  n55["`Thiên kiến nhìn lại: tự trách #quot;lẽ ra phải biết#quot; là vô lý vì quyết định dựa trên thông tin lúc đó`"]
+  n49 --- n55
+  n56["`Hào quang: thích ý tưởng làm một nghề khác thích công việc thật hằng ngày của nghề đó`"]
+  n49 --- n56
+  n57["`Hỏi thẳng người trong nghề: biết những gì anh chị biết bây giờ, nó có đáng không?`"]
+  n56 --- n57
+  n58["`Mục 21–24, 26–29 — Con người không phải máy: giữ sức và phát triển`"]
+  n0 --- n58
+  n59["`Tải công việc: quá một ngưỡng thì càng nhiều việc kết quả càng tệ, như tung hứng quá 3–4 vật`"]
+  n58 --- n59
+  n60["`Chừa khoảng trống cho việc bất ngờ, giới hạn thật phải chấp nhận hậu quả, kể cả mất việc`"]
+  n59 --- n60
+  n61["`Chu kỳ năng lượng: con người sinh ra bình đẳng, các giờ thì không, nhịp 24 giờ và nhịp 90 phút`"]
+  n58 --- n61
+  n62["`Giữ 3–4 giờ năng lượng cao cho việc sáng tạo, nghỉ khi thấp (ngủ trưa 20 phút), ngủ đủ`"]
+  n61 --- n62
+  n63["`Căng thẳng và phục hồi: học kỳ 22 tín chỉ cho Kaufman biết giới hạn, nay chạy ở khoảng 90% công suất`"]
+  n58 --- n63
+  n64["`Thử nghiệm trên chính mình: quan sát, hiểu biết, giả thuyết, thử, kết quả, ghi vào sổ`"]
+  n58 --- n64
+  n65["`Phạm vi kiểm soát: chỉ dồn sức vào điều mình ảnh hưởng được, Kaufman bỏ theo dõi 99,9% tin tức`"]
+  n58 --- n65
+  n66["`Bám chấp: bão trước khi lên đỉnh Everest thì đổi kế hoạch, chấp nhận chi phí chìm`"]
+  n58 --- n66
+  n67["`R#amp;D cá nhân: tự động dành ít nhất 5% thu nhập tháng cho sách, khoá học, thiết bị, hội nghị`"]
+  n58 --- n67
+  n68["`Khả năng tiết kiệm có giới hạn, khả năng kiếm tiền thì không`"]
+  n67 --- n68
+  n69["`Tư duy phát triển (Dweck): năng lực như cơ bắp, thử thách là chướng ngại vượt được bằng nỗ lực`"]
+  n58 --- n69
+  n70["`Thông điệp xuyên suốt`"]
+  n0 --- n70
+  n71["`Quản lý sự chú ý và năng lượng của chính mình, không phải quản lý thời gian`"]
+  n70 --- n71
+  n72["`Hệ thống năng suất chỉ cung cấp thông tin, quyết định luôn là việc của bạn`"]
+  n70 --- n72
+  n73["`Hầu hết công cụ mượn từ Allen, Cirillo, Graham, Dweck, đóng góp của Kaufman là nối chúng với cơ chế bộ não`"]
+  n70 --- n73
+  class n0 root
+  class n1,n15,n27,n40,n49,n58,n70 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n69,n71,n72,n73 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 8 "Cómo trabajar" (tương ứng Chapter 7 "Working With Yourself" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương 2–6 mô tả năm phần của một doanh nghiệp (tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính). Từ chương 7, Kaufman chuyển sang con người, vì mọi doanh nghiệp đều do người vận hành.
+
+Chương 7 giải thích bộ não hoạt động thế nào: hội chứng người tiền sử (não coi mọi mất mát là đe doạ sống còn), mô phỏng trong đầu (mental simulation), diễn giải lại (reinterpretation), cấu trúc dẫn dắt (môi trường định sẵn hành vi), sự cạn kiệt ý chí, ác cảm với mất mát, phản ứng khoá chặt mối đe doạ. Chương 8 dùng chính những hiểu biết đó để trả lời câu hỏi thực hành: một người nên tổ chức công việc, mục tiêu, quyết định, năng lượng và thái độ của mình thế nào để làm được nhiều việc có giá trị mà không kiệt sức.
+
+Chương 9 mở rộng sang làm việc với người khác (quyền lực, giao tiếp, lãnh đạo, ảo tưởng lập kế hoạch). Các chương 10–12 chuyển sang hệ thống; chương 8 đã báo trước vài khái niệm của phần đó (ma sát ở chương 12, vòng phản hồi ở chương 10).
+
+## Lưu ý
+
+- Nguồn là bản dịch tiếng Tây Ban Nha, được nhận dạng chữ (OCR) từ bản scan. Mọi câu trích là bản dịch tiếng Việt của người tổng hợp từ bản TBN, không phải từ nguyên bản tiếng Anh.
+- Tên tiếng Anh của các mục ghi theo hiểu biết của người tổng hợp về nguyên bản; tên TBN là tên chính xác để tra lại.
+- Chương TBN có 29 mục.
+
+## Lỗi OCR đã tự sửa
+
+- "GCETHE" = Goethe.
+- "Moster Your Workday Now!" = *Master Your Workday Now!*
+- "10 Days to Foster Reading" = *10 Days to Faster Reading*
+- "The Vegetarion Myth" = *The Vegetarian Myth*
+- "Slevepavina.com" = StevePavlina.com.
+- "Comell" = Cornell.
+- "MATED, 7:7" = Mateo (Phúc âm Mát-thêu) 7:7.
+- "Boa HuDson" ở đề từ mục "La tendencia a sobrevalorar las propias capacidades" có lẽ là Bob Hudson (người tổng hợp không chắc).
+- John Ruskin bị ghi "siglo ix", đúng phải là thế kỷ XIX.
+- Horacio ghi "siglo i a.C." (thế kỷ I trước Công nguyên) là đúng.
+- Số chú thích dính vào chữ: "45)", "[46)", "**)" (= [47]), "48l", "491" (= [49]), "50l", "51)", "52)", "53l", "Forster.**" (= [54]), "(55|".
+
+## Chỗ bản dịch có vẻ lệch nghĩa hoặc khó hiểu
+
+- Hệ thống quản lý việc của Mark Forster được dịch là «centrarse en uno mismo» (tập trung vào bản thân); địa chỉ web ở chú thích [54] cho thấy đó là hệ thống "Autofocus".
+- «Planificador de tareas incipientes» của David Seah là Emergent Task Planner (theo chú thích [51]).
+- Paul Graham được gọi là «socio capitalista»; ông là nhà đầu tư mạo hiểm (venture capitalist).
+- Trong mục "La penalización del cambio cognitivo" có câu «la energía también puede malgastarse si usted se tortura mentalmente durante su día libre» (năng lượng cũng bị phí nếu bạn tự hành hạ mình trong đầu suốt ngày nghỉ), không khớp với ý xung quanh. Người tổng hợp đoán nguyên bản nói về việc tự mình chuyển ngữ cảnh liên tục trong ngày, và chỉ chép ý chung.
+- Trong mục "Cuatro maneras de afrontar el trabajo", câu «Si no vale la pena que lo haga, o no vale la pena hacerlo bien o hacerlo con rapidez» lủng củng; ý hợp lý là "việc không đáng làm thì cũng không đáng làm cho tốt hay làm cho nhanh".
+- Cuối mục "La parcialidad", câu «siempre y cuando no exprese su opinión el tiempo suficiente para aprender de la experiencia» không rõ nghĩa; người tổng hợp hiểu là "miễn là bạn tạm gác ý kiến của mình đủ lâu để học từ trải nghiệm".
+- Mục "El estrés y la recuperación" ghi Kaufman học «veintidós horas de crédito repartidas en tres materias» (22 tín chỉ chia cho ba môn), số môn có vẻ quá ít so với 22 tín chỉ; có thể bản dịch hoặc nguyên bản chỉ kể ba môn tiêu biểu.
+- Trong phương pháp ACC (mục "Obtener información de uno mismo"), nhóm câu hỏi "Hành vi" lặp lại ba câu của nhóm "Tiền đề"; đã chép đúng như bản dịch.
+
+## Bối cảnh
+
+- Sách viết năm 2010. Các ví dụ phản ánh thời điểm đó: dịch vụ trợ lý ảo dưới 100 USD/tháng, chương trình *American Idol*, các blog tài chính Get Rich Slowly và The Simple Dollar, việc Kaufman nghỉ việc ở P&G tháng 11/2008.
+- Một số kết quả tâm lý học mà chương dựa vào (giới hạn ý chí mỗi ngày, nhịp 90 phút, hiệu ứng Dunning-Kruger, tư duy phát triển) đã bị tranh luận lại sau 2010; xem phần Đánh giá.
+
+## Chú thích đã đưa vào
+
+- Chỉ chú thích [50] (công ty trợ lý ảo Kaufman dùng) có nội dung riêng, đã đưa vào mục 3 của Nội dung chi tiết.
+- Các chú thích [45]–[49], [51], [52], [54] chỉ là địa chỉ web; [53] và [55] chỉ mời người đọc vào trang web của tác giả xem ví dụ, nên đều bỏ.

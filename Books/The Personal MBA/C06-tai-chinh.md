@@ -1,25 +1,18 @@
 # Chương 6 — Tài chính (La financiación; Finance)
 
-**Nguồn:** Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 6 "La financiación" (tương ứng Chapter 5 "Finance" ở bản tiếng Anh).
-**Tác giả:** Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 đến chương 6 trình bày năm phần của mọi doanh nghiệp: tạo giá trị (chương 2), marketing (chương 3), bán hàng (chương 4), chuyển giao giá trị (chương 5) và tài chính (chương 6). Chương này là phần thứ năm và khép lại khối "doanh nghiệp": sau khi doanh nghiệp đã tạo ra thứ người ta muốn, thu hút sự chú ý, chốt được giao dịch và giao hàng, câu hỏi còn lại là tiền đi vào và đi ra có đủ để doanh nghiệp tiếp tục sống hay không, và có xứng với công sức của những người làm ra nó hay không. Chương dùng lại nhiều khái niệm của các chương trước (lọc khách hàng tiềm năng ở chương 3, bốn cách định giá và phương pháp chiết khấu dòng tiền ở chương 4, công cụ khuếch đại sức lao động ở chương 5) và báo trước các khái niệm của các chương sau (biểu tượng địa vị xã hội và quyền lực ở chương 9, dòng chảy và vòng phản hồi ở chương 10, lợi suất giảm dần và khả năng phục hồi ở chương 12). Chương 7 chuyển sang khối "con người", bắt đầu bằng cách tâm trí con người vận hành; một trong những thiên lệch nhận thức ở đó, "ceguera de la carencia" (không nhìn thấy cái vắng mặt), được chương này dùng để giải thích vì sao chi phí cơ hội dễ bị bỏ qua.
-**Ý chính:** Kaufman muốn người đọc thấy rằng **tài chính không phải là những bảng tính đáng sợ mà là việc dùng con số để kiểm tra xem doanh nghiệp có đang chạy đúng như ý định và kết quả có đủ hay không**. Ông định nghĩa tài chính là nghệ thuật và khoa học theo dõi dòng tiền vào và ra khỏi doanh nghiệp, quyết định phân bổ tiền ra sao, và xác định việc mình làm có tạo ra kết quả mong muốn hay không. Trục của chương là ý **"đủ"**: doanh nghiệp phải giữ lại một phần giá trị nó tạo ra để trang trải chi phí và trả công cho người làm, nhưng không cần vắt kiệt khách hàng; mục tiêu là đạt **mức lợi nhuận đủ** (như "lợi nhuận mì gói" mà Paul Graham gọi), đo bằng một con số cụ thể là doanh thu mục tiêu hằng tháng. Quanh trục đó, Kaufman xếp 22 mô hình theo ba nhóm. Nhóm thứ nhất là các mô hình về doanh thu và lợi nhuận: biên lợi nhuận, phần giá trị giữ lại (với hai triết lý tối đa hoá và tối thiểu hoá), bốn cách tăng doanh thu (thêm khách, tăng giá trị mỗi giao dịch, tăng tần suất mua, tăng giá), sức mạnh định giá, giá trị vòng đời khách hàng (quầy nước chanh 1 USD so với hợp đồng bảo hiểm 24.000 USD) và chi phí thu hút khách hàng cho phép (ví dụ tính ra 200 USD mỗi khách; Proactiv chịu lỗ ở lần bán đầu). Nhóm thứ hai là các mô hình về chi phí và tiền mặt: chi phí chung, chi phí cố định và biến đổi, suy giảm chất lượng từng chút một (chuyện sô-cô-la bị thay nguyên liệu dần), điểm hoà vốn, phân bổ chi phí đầu tư (nhà máy chó bông 100 triệu USD, phần mềm InDesign 700 USD, bài học Crocs), khả năng chi trả và chu kỳ dòng tiền (hình ảnh bồn tắm). Nhóm thứ ba là các mô hình về đầu tư và nguồn vốn: chi phí cơ hội, giá trị thời gian của tiền, lãi kép (tiết kiệm 10 USD mỗi ngày trong bốn mươi năm thành khoảng một triệu USD), đòn bẩy (lãi gấp 20 lần hoặc lỗ gấp 4 lần; ngân hàng đầu tư dùng đòn bẩy 30–40 lần trước khủng hoảng 2008–2009), thang nguồn vốn (từ tiền túi tới phát hành cổ phiếu ra công chúng: càng lên cao càng được nhiều tiền và càng mất nhiều quyền kiểm soát), tự lực xoay xở vốn, tỷ suất lợi nhuận trên vốn đầu tư và chi phí chìm (dự án chung cư của ông nội tác giả vượt ngân sách gấp ba). Thông điệp xuyên suốt: hãy tạo càng nhiều giá trị càng tốt, giữ chi phí thấp nhưng không hy sinh chất lượng, giữ tiền mặt, dè chừng nợ và vốn bên ngoài vì chúng lấy đi quyền kiểm soát, và đừng ném tiền mới theo tiền đã mất.
+## Ý chính
 
-> **Lưu ý:** Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, qua bản scan nhận dạng chữ (OCR); mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của các mục ghi theo hiểu biết của người tổng hợp về ấn bản 2010; theo hiểu biết đó (chưa đối chiếu được), các mục "Profit", "Valuation", "Cash Flow Statement", "Income Statement", "Balance Sheet", "Financial Ratios", "Cost-Benefit Analysis", "Internal Controls" có trong ấn bản tiếng Anh sau này (2012 trở đi) không có trong bản dịch này. Những chỗ OCR hoặc bản dịch có vấn đề, ảnh hưởng tới nghĩa:
-> - Tên người nói đề từ bị OCR làm sai: "2IG ZIGLAR" là Zig Ziglar; "GEORGE CLAYSON" là George S. Clason, tác giả *The Richest Man in Babylon*; "BALL GLAZER" là Bill Glazer; "BILL SAHUMAN" là Bill Sahlman (Trường Kinh doanh Harvard); "Compeg" là Compaq; "fornerbooks.com" có lẽ là foner books; "Guthy-Kenker" là Guthy-Renker; "AdobelnDesign/InDesing" là Adobe InDesign; "hormiguon" là hormigón (bê tông); "20D dólares" là 200 USD; tên toà nhà "El Baranel" giữ nguyên như bản TBN vì không đối chiếu được.
-> - Mục "El poder de poner precio": câu "Cuanto menor sea el valor que obtenga, mayor será su poder de poner precio" (giá trị thu được càng ít thì sức mạnh định giá càng lớn) không hợp lý với phần còn lại của mục; có lẽ bản dịch đã làm hỏng câu gốc, nên bản tổng hợp không dùng câu này. Bản dịch gọi khái niệm kinh tế học là "flexibilidad de precios" (độ linh hoạt giá); thuật ngữ chuẩn là độ co giãn của cầu theo giá (*price elasticity*). Cụm "mercancías sui géneris como la pasta dentífrica" có lẽ dịch từ "commodity" (hàng hoá đồng nhất, khó phân biệt giữa các hãng), nghĩa ngược với "sui géneris" (độc nhất); bản tổng hợp hiểu theo nghĩa hàng hoá đồng nhất.
-> - Mục "El coste por adquisición permitido": câu "Multiplique el resultado por 1 y réstele su margen de ganancia deseado" bị lệch; theo chính ví dụ đi kèm, phép tính đúng là nhân kết quả với (1 trừ biên lợi nhuận mong muốn), ví dụ 1,00 − 0,60 = 0,40.
-> - Mục "La rentabilidad": chữ "rentabilidad" thường nghĩa là khả năng sinh lời, nhưng nội dung mục là **điểm hoà vốn** (*Breakeven*); bản dịch cũng dùng "umbral de rentabilidad" và "umbral de beneficio" cho cùng ý. Trong ví dụ, câu "Ahora que entran 50.000 dólares al mes" phải hiểu là phần dư 50.000 USD mỗi tháng (doanh thu 100.000 trừ chi phí 50.000).
-> - Mục "La amortización": bản dịch viết Crocs "đi tới phá sản" (*ir a la bancarrota*). Crocs thực tế không phá sản; công ty chịu lỗ nặng và tồn kho lớn quanh 2008–2009. Có thể bản dịch nói quá so với bản gốc; bản tổng hợp ghi là thua lỗ nặng.
-> - Mục "El poder adquisitivo": bản dịch dùng "poder adquisitivo" (thường nghĩa là sức mua của đồng tiền) cho khái niệm *Purchasing Power* của Kaufman, tức tổng tiền mặt, hạn mức tín dụng và các nguồn tài trợ doanh nghiệp có thể dùng ngay. Bản tổng hợp gọi là **khả năng chi trả** để không nhầm với sức mua của đồng tiền trong mục sức mạnh định giá.
-> - Mục "La capitalización": các con số ví dụ tài khoản tiết kiệm lãi 5% trong bản dịch không khớp với lãi kép (bản TBN ghi năm thứ ba 1,10 USD, năm thứ tư 1,15 USD, năm thứ mười lăm 2 USD, rồi lại nói 1 triệu thành 2 triệu sau mười bốn năm). Tính đúng: 1,1025 USD sau 2 năm, 1,1576 USD sau 3 năm, 1,2155 USD sau 4 năm, gấp đôi sau khoảng 14,2 năm. Bản tổng hợp ghi số đúng và nói rõ chỗ lệch.
-> - Mục "Jerarquía financiera": bản dịch gọi phát hành cổ phiếu ra công chúng là "ofertas públicas de acciones (OPA)", trong khi ở Tây Ban Nha OPA thường chỉ chào mua công khai để thâu tóm; nghĩa trong sách là chào bán cổ phần ra công chúng, còn "OPI" là lần chào bán đầu tiên (IPO). Câu "Los ángeles y los inversores capitalistas de riesgo recurren a las ofertas públicas de acciones para adquirir una propiedad a cambio de dinero" bị rối; theo ngữ cảnh nghĩa là nhà đầu tư thiên thần và quỹ đầu tư mạo hiểm bỏ tiền để lấy cổ phần, rồi cần đợt phát hành ra công chúng để bán cổ phần đó lấy tiền. Câu về lãi suất vay tín chấp "un poco más alta que la de una tarjeta de crédito" (cao hơn thẻ tín dụng một chút) có thể lệch so với thực tế thông thường (vay tín chấp ngân hàng thường rẻ hơn thẻ tín dụng); bản tổng hợp ghi lại như bản dịch và nêu nghi vấn.
-> - Mục "La cantidad suficiente de ganancias": bản dịch gọi Paul Graham là "inversor en fusiones de empresas" (nhà đầu tư vào sáp nhập doanh nghiệp); Graham là nhà đầu tư vào công ty khởi nghiệp và đồng sáng lập Y Combinator. Chỉ tiêu "objetivo ingreso mensual (OIM)" có lẽ dịch từ *Target Monthly Revenue*.
-> - Mục "Jerarquía financiera" còn ghi Steve Jobs bị hội đồng quản trị Apple sa thải "vào thập niên 1990"; thực tế là năm 1985 (Jobs trở lại năm 1997). Không rõ lỗi nằm ở bản gốc hay bản dịch.
-> - Mục "El apalancamiento": câu đề từ của Kenneth Olsen trong bản TBN viết "Si sabemos" (nếu chúng tôi biết), đúng ra là "Sí sabemos" (chúng tôi có biết).
-> - Mục "El rendimiento de la inversión": công thức "(1.000 + 100) / 1.000 = 1,10, o 10%" ghi gộp; 1,10 là tỷ lệ giữa tổng thu về và vốn bỏ ra, còn tỷ suất lợi nhuận là 0,10 tức 10%.
->
-> Bối cảnh: sách viết năm 2010, ngay sau khủng hoảng tài chính 2008–2009; các ví dụ (giá phần mềm InDesign 700 USD, Proactiv quảng cáo với Jessica Simpson, Crocs, quy đổi đô la 1965 sang đô la 2010) tính tới lúc đó. Chương không có chú thích cuối sách nào thuộc về nó (các chú thích [1]–[63] của bản TBN không có chú thích nào gắn với chương 6), nên không có chú thích nào được đưa vào.
+Kaufman muốn người đọc thấy rằng **tài chính không phải là những bảng tính đáng sợ mà là việc dùng con số để kiểm tra xem doanh nghiệp có đang chạy đúng như ý định và kết quả có đủ hay không**.
+
+Ông định nghĩa tài chính là nghệ thuật và khoa học theo dõi dòng tiền vào và ra khỏi doanh nghiệp, quyết định phân bổ tiền ra sao, và xác định việc mình làm có tạo ra kết quả mong muốn hay không. Trục của chương là ý **"đủ"**: doanh nghiệp phải giữ lại một phần giá trị nó tạo ra để trang trải chi phí và trả công cho người làm, nhưng không cần vắt kiệt khách hàng; mục tiêu là đạt **mức lợi nhuận đủ** (như "lợi nhuận mì gói" mà Paul Graham gọi), đo bằng một con số cụ thể là doanh thu mục tiêu hằng tháng.
+
+Quanh trục đó, Kaufman xếp 22 mô hình theo ba nhóm. Nhóm thứ nhất là các mô hình về doanh thu và lợi nhuận: biên lợi nhuận, phần giá trị giữ lại (với hai triết lý tối đa hoá và tối thiểu hoá), bốn cách tăng doanh thu (thêm khách, tăng giá trị mỗi giao dịch, tăng tần suất mua, tăng giá), sức mạnh định giá, giá trị vòng đời khách hàng (quầy nước chanh 1 USD so với hợp đồng bảo hiểm 24.000 USD) và chi phí thu hút khách hàng cho phép (ví dụ tính ra 200 USD mỗi khách; Proactiv chịu lỗ ở lần bán đầu).
+
+Nhóm thứ hai là các mô hình về chi phí và tiền mặt: chi phí chung, chi phí cố định và biến đổi, suy giảm chất lượng từng chút một (chuyện sô-cô-la bị thay nguyên liệu dần), điểm hoà vốn, phân bổ chi phí đầu tư (nhà máy chó bông 100 triệu USD, phần mềm InDesign 700 USD, bài học Crocs), khả năng chi trả và chu kỳ dòng tiền (hình ảnh bồn tắm).
+
+Nhóm thứ ba là các mô hình về đầu tư và nguồn vốn: chi phí cơ hội, giá trị thời gian của tiền, lãi kép (tiết kiệm 10 USD mỗi ngày trong bốn mươi năm thành khoảng một triệu USD), đòn bẩy (lãi gấp 20 lần hoặc lỗ gấp 4 lần; ngân hàng đầu tư dùng đòn bẩy 30–40 lần trước khủng hoảng 2008–2009), thang nguồn vốn (từ tiền túi tới phát hành cổ phiếu ra công chúng: càng lên cao càng được nhiều tiền và càng mất nhiều quyền kiểm soát), tự lực xoay xở vốn, tỷ suất lợi nhuận trên vốn đầu tư và chi phí chìm (dự án chung cư của ông nội tác giả vượt ngân sách gấp ba).
+
+Thông điệp xuyên suốt: hãy tạo càng nhiều giá trị càng tốt, giữ chi phí thấp nhưng không hy sinh chất lượng, giữ tiền mặt, dè chừng nợ và vốn bên ngoài vì chúng lấy đi quyền kiểm soát, và đừng ném tiền mới theo tiền đã mất.
 
 ## Sơ đồ
 
@@ -830,9 +823,19 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Một doanh nghiệp cần bao nhiêu lợi nhuận, và nên giữ lại bao nhiêu phần giá trị nó tạo ra cho khách?** Doanh nghiệp cần đạt **mức lợi nhuận đủ**: đủ để trả chi phí, trả công xứng đáng cho người làm và chủ sở hữu, và có tấm đệm cho lúc khó khăn. Kaufman đo mức đủ bằng **doanh thu mục tiêu hằng tháng**: doanh thu vượt con số đó là đã thành công, dù lớn hay nhỏ. Mức đủ phụ thuộc vào chi phí: chi phí chung thấp thì cần ít doanh thu. Về phần giá trị giữ lại, ông bác bỏ triết lý tối đa hoá vì nó làm khách mất lý do mua (không ai bỏ 999.999 USD để kiếm 1.000.000 USD), và đề nghị triết lý tối thiểu hoá: tạo càng nhiều giá trị càng tốt rồi chỉ giữ đủ để tiếp tục, để khách thấy "hời", quay lại và giới thiệu người khác. Ngụ ngôn người đánh cá cho thấy lợi nhuận là phương tiện, không phải đích.
-2. **Doanh nghiệp tăng doanh thu và quản lý chi phí, tiền mặt ra sao để sống sót?** Về doanh thu, chỉ có bốn cách: thêm khách, tăng giá trị mỗi giao dịch, tăng tần suất mua và tăng giá; nên tập trung vào khách hàng lý tưởng, chọn thị trường có sức mạnh định giá (để chống lạm phát) và có giá trị vòng đời khách hàng cao, rồi từ giá trị vòng đời tính ra chi phí thu hút khách cho phép (ví dụ 200 USD mỗi khách). Về chi phí, giữ chi phí chung thấp và theo dõi tốc độ đốt vốn, phân biệt chi phí cố định (tiết kiệm cộng dồn theo thời gian) với biến đổi (tiết kiệm nhân theo sản lượng), nhưng không cắt vào chất lượng như các hãng sô-cô-la đã làm. Về tiền mặt, doanh nghiệp chỉ thật sự có lãi khi vượt điểm hoà vốn tích luỹ, phải luôn giữ khả năng chi trả (tiền mặt cộng tín dụng), thu tiền sớm, trả tiền muộn, coi khoản phải thu chưa phải là tiền, và coi hạn mức tín dụng là nguồn dự phòng.
-3. **Nên đánh giá các khoản đầu tư và chọn nguồn vốn thế nào?** Mọi quyết định có chi phí cơ hội (phương án tốt nhất bị bỏ qua) và tiền có giá trị thời gian (1 triệu USD sau một năm, với lãi suất thay thế 5%, chỉ đáng 952.380 USD hôm nay). Khoản đầu tư lớn được đánh giá bằng cách phân bổ chi phí lên sản lượng dự kiến (nhà máy 100 triệu USD cho 10 triệu sản phẩm là 10 USD mỗi sản phẩm) và bằng ROI, nhưng cả hai chỉ là dự đoán (Crocs). Lãi kép thưởng cho sự kiên nhẫn tái đầu tư; đòn bẩy khuếch đại cả lãi lẫn lỗ. Về nguồn vốn, Kaufman đề nghị leo thang nguồn vốn từ dưới lên (tiền túi, tín dụng cá nhân, người thân, vay tín chấp, vay thế chấp, trái phiếu, vay bằng khoản phải thu, nhà đầu tư thiên thần, quỹ mạo hiểm, phát hành cổ phiếu), dừng ở bậc thấp nhất đủ dùng, vì càng lên cao càng mất quyền kiểm soát; tốt nhất là tự lực xoay xở. Và khi dự án đội vốn, phải bỏ qua chi phí chìm, chỉ so khoản phải bỏ thêm với lợi ích kỳ vọng.
+1. **Một doanh nghiệp cần bao nhiêu lợi nhuận, và nên giữ lại bao nhiêu phần giá trị nó tạo ra cho khách?** Doanh nghiệp cần đạt **mức lợi nhuận đủ**: đủ để trả chi phí, trả công xứng đáng cho người làm và chủ sở hữu, và có tấm đệm cho lúc khó khăn. Kaufman đo mức đủ bằng **doanh thu mục tiêu hằng tháng**: doanh thu vượt con số đó là đã thành công, dù lớn hay nhỏ. Mức đủ phụ thuộc vào chi phí: chi phí chung thấp thì cần ít doanh thu.
+
+   Về phần giá trị giữ lại, ông bác bỏ triết lý tối đa hoá vì nó làm khách mất lý do mua (không ai bỏ 999.999 USD để kiếm 1.000.000 USD), và đề nghị triết lý tối thiểu hoá: tạo càng nhiều giá trị càng tốt rồi chỉ giữ đủ để tiếp tục, để khách thấy "hời", quay lại và giới thiệu người khác. Ngụ ngôn người đánh cá cho thấy lợi nhuận là phương tiện, không phải đích.
+2. **Doanh nghiệp tăng doanh thu và quản lý chi phí, tiền mặt ra sao để sống sót?** Về doanh thu, chỉ có bốn cách: thêm khách, tăng giá trị mỗi giao dịch, tăng tần suất mua và tăng giá; nên tập trung vào khách hàng lý tưởng, chọn thị trường có sức mạnh định giá (để chống lạm phát) và có giá trị vòng đời khách hàng cao, rồi từ giá trị vòng đời tính ra chi phí thu hút khách cho phép (ví dụ 200 USD mỗi khách).
+
+   Về chi phí, giữ chi phí chung thấp và theo dõi tốc độ đốt vốn, phân biệt chi phí cố định (tiết kiệm cộng dồn theo thời gian) với biến đổi (tiết kiệm nhân theo sản lượng), nhưng không cắt vào chất lượng như các hãng sô-cô-la đã làm.
+
+   Về tiền mặt, doanh nghiệp chỉ thật sự có lãi khi vượt điểm hoà vốn tích luỹ, phải luôn giữ khả năng chi trả (tiền mặt cộng tín dụng), thu tiền sớm, trả tiền muộn, coi khoản phải thu chưa phải là tiền, và coi hạn mức tín dụng là nguồn dự phòng.
+3. **Nên đánh giá các khoản đầu tư và chọn nguồn vốn thế nào?** Mọi quyết định có chi phí cơ hội (phương án tốt nhất bị bỏ qua) và tiền có giá trị thời gian (1 triệu USD sau một năm, với lãi suất thay thế 5%, chỉ đáng 952.380 USD hôm nay). Khoản đầu tư lớn được đánh giá bằng cách phân bổ chi phí lên sản lượng dự kiến (nhà máy 100 triệu USD cho 10 triệu sản phẩm là 10 USD mỗi sản phẩm) và bằng ROI, nhưng cả hai chỉ là dự đoán (Crocs).
+
+   Lãi kép thưởng cho sự kiên nhẫn tái đầu tư; đòn bẩy khuếch đại cả lãi lẫn lỗ.
+
+   Về nguồn vốn, Kaufman đề nghị leo thang nguồn vốn từ dưới lên (tiền túi, tín dụng cá nhân, người thân, vay tín chấp, vay thế chấp, trái phiếu, vay bằng khoản phải thu, nhà đầu tư thiên thần, quỹ mạo hiểm, phát hành cổ phiếu), dừng ở bậc thấp nhất đủ dùng, vì càng lên cao càng mất quyền kiểm soát; tốt nhất là tự lực xoay xở. Và khi dự án đội vốn, phải bỏ qua chi phí chìm, chỉ so khoản phải bỏ thêm với lợi ích kỳ vọng.
 
 ## Khái niệm cần biết
 
@@ -1042,7 +1045,9 @@ Từ đó có thể thử nhiều kỹ thuật marketing để xem cách nào hi
 
 Tiền thuê nhà hay khoản trả góp nhà càng lớn, mỗi tháng càng phải kiếm nhiều để trả chi phí. Kinh doanh cũng theo nguyên tắc đó. Chi phí chung là nguồn lực tối thiểu hiện tại mà mọi doanh nghiệp cần để tiếp tục hoạt động: mọi thứ cần để điều hành doanh nghiệp mỗi tháng, bất kể doanh số, gồm lương, tiền thuê, mặt bằng, sửa chữa thiết bị, v.v. Chi phí chung càng thấp, doanh nghiệp càng cần ít doanh thu để hoạt động và càng sớm đạt mức lợi nhuận đủ. Không tiêu nhiều thì không phải kiếm nhiều để bù.
 
-Chi phí chung đặc biệt quan trọng nếu xây doanh nghiệp bằng một khoản vốn cố định. Nhà đầu tư góp vốn và các hình thức đầu tư khác có thể cung cấp vốn ban đầu, một số tiền cố định để khởi sự. Tích được càng nhiều vốn và tiêu càng chậm, càng có nhiều thời gian để doanh nghiệp chạy được. Nếu phung phí vốn nhanh, sẽ cần gọi nhiều tiền hơn và phải có doanh thu sớm hơn. Nếu tiêu hết vốn ban đầu mà không gọi được thêm, cuộc chơi kết thúc. Vì vậy nhà đầu tư và doanh nhân khôn ngoan theo dõi rất sát tốc độ đốt vốn: càng ít phí vốn, càng có nhiều thời gian xây dựng một doanh nghiệp thành công. Chi phí chung càng thấp, doanh nghiệp càng linh hoạt và càng dễ tự tài trợ hoạt động mãi về sau.
+Chi phí chung đặc biệt quan trọng nếu xây doanh nghiệp bằng một khoản vốn cố định. Nhà đầu tư góp vốn và các hình thức đầu tư khác có thể cung cấp vốn ban đầu, một số tiền cố định để khởi sự. Tích được càng nhiều vốn và tiêu càng chậm, càng có nhiều thời gian để doanh nghiệp chạy được. Nếu phung phí vốn nhanh, sẽ cần gọi nhiều tiền hơn và phải có doanh thu sớm hơn. Nếu tiêu hết vốn ban đầu mà không gọi được thêm, cuộc chơi kết thúc.
+
+Vì vậy nhà đầu tư và doanh nhân khôn ngoan theo dõi rất sát tốc độ đốt vốn: càng ít phí vốn, càng có nhiều thời gian xây dựng một doanh nghiệp thành công. Chi phí chung càng thấp, doanh nghiệp càng linh hoạt và càng dễ tự tài trợ hoạt động mãi về sau.
 
 ### 10. Chi phí cố định và chi phí biến đổi (Costes fijos y variables)
 
@@ -1118,7 +1123,7 @@ Thẻ tín dụng của người thiết kế "bốc khói" lúc mua, nhưng cô
 
 Phân bổ phụ thuộc vào việc ước tính đúng thời gian sử dụng, mà đó là dự đoán. Không phân bổ được nếu không bán được thứ mình làm ra, hoặc thiết bị hỏng sớm hơn dự kiến. Dự đoán có thể sai: nếu ước tính sai khoản đầu tư tính trên mỗi đơn vị, chi phí sản xuất có thể cao hơn giả định ban đầu.
 
-Crocs làm giày nhựa trông khá lạ. Sau khi thành công ngoài dự kiến, công ty tăng sản xuất: mở nhà máy ở Trung Quốc và bắt đầu làm hàng triệu đôi, hy vọng bán hết từng đôi. Điều xảy ra là giày Crocs hoá ra chỉ là mốt nhất thời, doanh số rơi thẳng đứng, và công ty kẹt lại với năng lực sản xuất lớn, rất đắt và một lượng tồn kho khổng lồ không bán được. Phép phân bổ không cứu được công ty khỏi thua lỗ nặng (bản dịch viết là phá sản; xem khối Lưu ý). Dùng phép tính phân bổ để xem một khoản đầu tư lớn có đáng không là bước khôn ngoan; chỉ cần nhớ đó là dự đoán và hành động cho phù hợp.
+Crocs làm giày nhựa trông khá lạ. Sau khi thành công ngoài dự kiến, công ty tăng sản xuất: mở nhà máy ở Trung Quốc và bắt đầu làm hàng triệu đôi, hy vọng bán hết từng đôi. Điều xảy ra là giày Crocs hoá ra chỉ là mốt nhất thời, doanh số rơi thẳng đứng, và công ty kẹt lại với năng lực sản xuất lớn, rất đắt và một lượng tồn kho khổng lồ không bán được. Phép phân bổ không cứu được công ty khỏi thua lỗ nặng (bản dịch viết là phá sản; xem mục Lưu ý cuối chương). Dùng phép tính phân bổ để xem một khoản đầu tư lớn có đáng không là bước khôn ngoan; chỉ cần nhớ đó là dự đoán và hành động cho phù hợp.
 
 ### 14. Khả năng chi trả (El poder adquisitivo)
 
@@ -1204,7 +1209,7 @@ Kaufman đưa ra "một cách chắc chắn để thành triệu phú": tiết k
 
 Lãi kép là tích luỹ lợi nhuận theo thời gian. Chừng nào tái đầu tư được lợi nhuận, khoản đầu tư sẽ tăng theo hàm mũ trong một vòng phản hồi dương (khái niệm sẽ bàn ở chương 10).
 
-Ví dụ đơn giản là tài khoản tiết kiệm lãi 5%. Sau một năm, 1 USD trong ngân hàng thành 1,05 USD; sau hai năm khoảng 1,10 USD; sau ba năm khoảng 1,16 USD; sau bốn năm khoảng 1,22 USD; và gấp đôi thành 2 USD sau khoảng mười bốn năm. (Bản dịch ghi các mốc lệch, xem khối Lưu ý.) Nói vậy thì nghe không nhiều, nhưng quan hệ này áp dụng cho mọi quy mô: bắt đầu với 1.000.000 USD thì sau khoảng mười bốn năm có 2.000.000 USD. Không tệ.
+Ví dụ đơn giản là tài khoản tiết kiệm lãi 5%. Sau một năm, 1 USD trong ngân hàng thành 1,05 USD; sau hai năm khoảng 1,10 USD; sau ba năm khoảng 1,16 USD; sau bốn năm khoảng 1,22 USD; và gấp đôi thành 2 USD sau khoảng mười bốn năm. (Bản dịch ghi các mốc lệch, xem mục Lưu ý cuối chương.) Nói vậy thì nghe không nhiều, nhưng quan hệ này áp dụng cho mọi quy mô: bắt đầu với 1.000.000 USD thì sau khoảng mười bốn năm có 2.000.000 USD. Không tệ.
 
 Lãi kép quan trọng vì có thể đạt lợi nhuận đáng kể trong thời gian ngắn đến bất ngờ. Nếu tái đầu tư doanh thu mà doanh nghiệp tạo ra và doanh nghiệp tăng trưởng nhanh, có thể nhân khoản đầu tư ban đầu lên nhiều lần. Lãi kép là bí quyết giải thích vì sao các doanh nghiệp nhỏ tái đầu tư lợi nhuận trở thành doanh nghiệp lớn sau vài năm. Tích luỹ lợi nhuận chắc chắn cho kết quả lớn theo thời gian; mẹo là đủ kiên nhẫn để chờ phần thưởng.
 
@@ -1251,13 +1256,15 @@ Kaufman hình dung **thang nguồn vốn** như một cái thang các lựa ch�
 1. **Tiền mặt cá nhân**: chắc chắn là cách tốt nhất. Đầu tư tiền mình đã có thì nhanh, dễ, không cần ai duyệt hay giấy tờ. Phần lớn doanh nhân bắt đầu bằng tiền của chính mình nếu được.
 2. **Tín dụng cá nhân**: một cách tài trợ chi phí thấp khác. Chừng nào nhu cầu không vượt vài nghìn USD, dễ tài trợ chi tiêu bằng tín dụng cá nhân. Ngân hàng thường duyệt nhanh nếu hồ sơ tốt, và trả góp giúp cải thiện dòng tiền. Rủi ro là hỏng uy tín tín dụng nếu không trả được, nhưng với nhiều doanh nhân đó là rủi ro đáng chấp nhận. Kaufman tự tài trợ công ty bằng tiền của mình và tín dụng cá nhân; nếu nhu cầu khiêm tốn, dùng tín dụng cá nhân cho chi phí ban đầu là lựa chọn tốt, miễn kiểm soát ngân sách.
 3. **Bạn bè và gia đình** cho vay cá nhân. Nếu cần nhiều hơn số tiền mặt và tín dụng cá nhân đáp ứng được, có thể vay bạn bè, người thân. Nhưng cẩn thận: rủi ro không trả được là có thật và có thể tàn phá các mối quan hệ, nhất là những quan hệ quan trọng. Vì vậy Kaufman khuyên đừng xin cha mẹ hay ông bà đặt cược tiền tiết kiệm cả đời vào ý tưởng của mình; có nhiều cách tốt hơn nhiều.
-4. **Vay tín chấp** từ ngân hàng và tổ chức tín dụng. Điền đơn, xin một số tiền, ngân hàng đánh giá khả năng trả nợ kèm lãi trong một thời hạn. Khoản vay có thể là một lần hoặc một hạn mức tín dụng dùng lúc nào cũng được. Ngân hàng không đòi tài sản bảo đảm cho số tiền nhỏ (vài nghìn USD), nên lãi suất có lẽ cao hơn một chút so với thẻ tín dụng hoặc vay có bảo đảm (theo bản dịch; xem khối Lưu ý).
+4. **Vay tín chấp** từ ngân hàng và tổ chức tín dụng. Điền đơn, xin một số tiền, ngân hàng đánh giá khả năng trả nợ kèm lãi trong một thời hạn. Khoản vay có thể là một lần hoặc một hạn mức tín dụng dùng lúc nào cũng được. Ngân hàng không đòi tài sản bảo đảm cho số tiền nhỏ (vài nghìn USD), nên lãi suất có lẽ cao hơn một chút so với thẻ tín dụng hoặc vay có bảo đảm (theo bản dịch; xem mục Lưu ý cuối chương).
 5. **Vay có tài sản bảo đảm**: cần một tài sản làm bảo đảm. Vay thế chấp mua nhà và vay mua ô tô là ví dụ: nếu không trả, bên cho vay được quyền thu giữ tài sản bảo đảm theo luật. Vì bên cho vay có thể bán tài sản đó để thu hồi tiền, khoản vay có bảo đảm lớn hơn nhiều so với vay tín chấp: hàng nghìn hay hàng trăm nghìn USD.
 6. **Trái phiếu**: nợ vay trực tiếp từ người cho vay. Thay vì vay ngân hàng, doanh nghiệp vay tiền của cá nhân hay công ty. Người cho vay đưa tiền thẳng cho doanh nghiệp và nhận lại kèm lãi đã thoả thuận sau một thời hạn; khi tới hạn (đáo hạn), doanh nghiệp phải trả số gốc cộng lãi. Quy trình pháp lý và quản lý của thị trường chứng khoán có thể cực kỳ phức tạp, nên trái phiếu được phát hành qua một ngân hàng đầu tư.
 7. **Vay bảo đảm bằng khoản phải thu**: một loại vay có bảo đảm dành riêng cho doanh nghiệp. Cách này có thể mang lại hàng triệu USD tín dụng, nhưng có cái giá: tài sản bảo đảm là quyền kiểm soát các khoản phải thu của công ty. Vì ngân hàng nắm khoản phải thu, nó bảo đảm được khoản vay của mình được trả trước tiên, trước cả lương nhân viên và các cam kết với nhà cung cấp. Doanh nghiệp có rất nhiều vốn nhưng nhường phần lớn quyền kiểm soát cho bên cho vay.
 8. **Vốn thiên thần**: chuyển từ vay sang góp vốn. Nhà đầu tư thiên thần là một nhà đầu tư tư nhân có tiền thừa muốn đầu tư vào doanh nghiệp tư nhân, thường từ 10.000 đến 1.000.000 USD, đổi lại sở hữu 1% đến 10% công ty. Nhận một nhà đầu tư thiên thần giống như nhận một cổ đông thầm lặng: họ góp vốn đổi lấy một phần sở hữu hợp pháp. Một số thiên thần góp ý và có thể làm cố vấn, nhưng thường không có quyền ra quyết định kinh doanh.
 9. **Vốn mạo hiểm** tiếp nối khi thiên thần dừng lại. Nhà đầu tư mạo hiểm là những người rất giàu (hoặc nhóm nhà đầu tư góp quỹ chung) có lượng vốn lớn: hàng chục hay hàng trăm triệu USD cho một khoản đầu tư. Vốn mạo hiểm rót theo từng giai đoạn, bắt đầu khiêm tốn rồi tăng dần khi công ty cần thêm vốn. Các vòng sau có thể làm giảm tỷ lệ sở hữu của cổ đông hiện hữu, nên phải đàm phán. Nhà đầu tư mạo hiểm cũng đòi nhiều quyền kiểm soát để đổi lấy lượng vốn lớn, và thường có ghế trong hội đồng quản trị.
-10. **Phát hành cổ phiếu ra công chúng**: bán một phần sở hữu công ty cho nhà đầu tư trên thị trường. Việc này thường làm qua ngân hàng đầu tư, những công ty cấp cho doanh nghiệp một lượng vốn lớn để đổi lấy việc bán cổ phần của doanh nghiệp trên thị trường chứng khoán; ngân hàng đầu tư kiếm tiền bằng cách bán cổ phần cho nhà đầu tư với giá cao hơn giá họ mua. Chào bán lần đầu ra công chúng (IPO, bản dịch: OPI) đơn giản là lần đầu tiên công ty chào bán cổ phiếu ra thị trường. Nhà đầu tư mua cổ phần là chủ sở hữu hợp pháp một phần công ty, kể cả quyền tham gia các quyết định kinh doanh và bầu hội đồng quản trị. Ai nắm nhiều cổ phần nhất thì kiểm soát công ty, nên "lên sàn" đặt quyền quyết định vào rủi ro: mua được phần lớn cổ phần là nắm quyền kiểm soát.
+10. **Phát hành cổ phiếu ra công chúng**: bán một phần sở hữu công ty cho nhà đầu tư trên thị trường. Việc này thường làm qua ngân hàng đầu tư, những công ty cấp cho doanh nghiệp một lượng vốn lớn để đổi lấy việc bán cổ phần của doanh nghiệp trên thị trường chứng khoán; ngân hàng đầu tư kiếm tiền bằng cách bán cổ phần cho nhà đầu tư với giá cao hơn giá họ mua.
+
+    Chào bán lần đầu ra công chúng (IPO, bản dịch: OPI) đơn giản là lần đầu tiên công ty chào bán cổ phiếu ra thị trường. Nhà đầu tư mua cổ phần là chủ sở hữu hợp pháp một phần công ty, kể cả quyền tham gia các quyết định kinh doanh và bầu hội đồng quản trị. Ai nắm nhiều cổ phần nhất thì kiểm soát công ty, nên "lên sàn" đặt quyền quyết định vào rủi ro: mua được phần lớn cổ phần là nắm quyền kiểm soát.
 
 Nhà đầu tư thiên thần và nhà đầu tư mạo hiểm bỏ tiền để lấy quyền sở hữu. Họ thu lợi theo hai cách: cổ tức trích từ lợi nhuận của công ty, hoặc bán cổ phần cho nhà đầu tư khác. Phát hành ra công chúng cho phép họ bán cổ phần lấy tiền, nên thiên thần và nhà đầu tư mạo hiểm thường thúc các công ty thành công lên sàn hoặc bán mình cho công ty khác càng sớm càng tốt để thu hồi vốn.
 
@@ -1311,7 +1318,19 @@ Khái niệm chi phí chìm dễ hiểu nhưng rất khó áp dụng. Khi đã m
 
 Sai lầm là không tránh được; không ai hoàn hảo. Chắc chắn sẽ có những quyết định mà sau này mình ước đã không đưa ra; nếu được quay lại, mình sẽ làm khác, nhưng điều đó không thể. Sẽ luôn có những dự án khác, với điều kiện không cố bám vào một dự án rủi ro để gỡ lỗ. Bỏ tiền ra để lấy lại thứ đã mất là kinh doanh tồi. Đừng tiếp tục đổ bê tông vào một cái giếng không đáy; nếu khoản đầu tư thêm không có ích, hãy dừng. Đừng bao giờ cố lấy lại tiền theo đúng cách đã làm mất nó. Nếu kết quả không bù được khoản đầu tư đòi hỏi và rủi ro phải chịu, đừng đầu tư.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Chị Lan mở một tiệm cà phê nhỏ kiêm bán hạt rang. Vốn ban đầu 600 triệu đồng (300 triệu tiền túi, 300 triệu vay người thân). Chi phí chung mỗi tháng: thuê mặt bằng 25 triệu, lương 4 nhân viên 36 triệu, điện nước và phần mềm 9 triệu, tổng 70 triệu. Chị cần 20 triệu mỗi tháng để sống, nên doanh thu mục tiêu hằng tháng sau giá vốn là 90 triệu: đó là **mức lợi nhuận đủ** của chị. Giá vốn một ly cà phê là 12.000 đồng, bán 40.000 đồng, **biên lợi nhuận** theo cách Kaufman tính là 233% (theo cách kế toán là 70%). Chị áp **bốn cách tăng doanh thu**: chạy chương trình giới thiệu bạn bè (thêm khách), mời mua kèm bánh (tăng giá trị mỗi hoá đơn), làm thẻ tích điểm (tăng tần suất), và thử tăng giá ly lớn 10% (sức mạnh định giá) rồi theo dõi số ly bán ra. Khách mua hạt rang theo gói thuê bao 400.000 đồng/tháng, ở lại trung bình 18 tháng, có **giá trị vòng đời** 7,2 triệu đồng; sau khi trừ giá vốn hạt 3,6 triệu và phần chi phí chung phân cho mỗi khách 1,6 triệu, còn 2 triệu; muốn biên 60% thì **chi phí thu hút khách cho phép** là 800.000 đồng, nên chị dám tặng túi hạt dùng thử 150.000 đồng cho khách mới. Chị mua máy rang 240 triệu, dự kiến rang 12 tấn trong đời máy, **phân bổ** 20.000 đồng mỗi kg; nếu mốt cà phê đặc sản qua đi và chỉ rang được 3 tấn thì chi phí máy thành 80.000 đồng mỗi kg (bài học Crocs). Chị giữ **khả năng chi trả** bằng cách thu tiền gói thuê bao đầu tháng, xin nhà cung cấp sữa cho trả sau 30 ngày, và giữ một hạn mức thấu chi 100 triệu chỉ để dự phòng. Một nhà đầu tư đề nghị góp 1 tỷ đổi 40% cổ phần để mở 5 chi nhánh: theo **thang nguồn vốn**, chị cân nhắc rằng đó là bước lên bậc vốn góp, kèm ghế quyết định; chị chọn **tự lực xoay xở**, mở chi nhánh thứ hai bằng lợi nhuận tích luỹ (**lãi kép**). Năm thứ hai, chi nhánh thứ hai đã tốn 400 triệu nhưng mặt bằng bị chủ nhà đòi tăng giá gấp đôi; chị bỏ qua 400 triệu **chi phí chìm**, chỉ so khoản phải bỏ thêm với lợi nhuận kỳ vọng ở mức giá thuê mới, và quyết định chuyển địa điểm.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Chị Lan mở một tiệm cà phê nhỏ kiêm bán hạt rang. Vốn ban đầu 600 triệu đồng (300 triệu tiền túi, 300 triệu vay người thân). Chi phí chung mỗi tháng: thuê mặt bằng 25 triệu, lương 4 nhân viên 36 triệu, điện nước và phần mềm 9 triệu, tổng 70 triệu. Chị cần 20 triệu mỗi tháng để sống, nên doanh thu mục tiêu hằng tháng sau giá vốn là 90 triệu: đó là **mức lợi nhuận đủ** của chị. Giá vốn một ly cà phê là 12.000 đồng, bán 40.000 đồng, **biên lợi nhuận** theo cách Kaufman tính là 233% (theo cách kế toán là 70%).
+
+Chị áp **bốn cách tăng doanh thu**: chạy chương trình giới thiệu bạn bè (thêm khách), mời mua kèm bánh (tăng giá trị mỗi hoá đơn), làm thẻ tích điểm (tăng tần suất), và thử tăng giá ly lớn 10% (sức mạnh định giá) rồi theo dõi số ly bán ra.
+
+Khách mua hạt rang theo gói thuê bao 400.000 đồng/tháng, ở lại trung bình 18 tháng, có **giá trị vòng đời** 7,2 triệu đồng; sau khi trừ giá vốn hạt 3,6 triệu và phần chi phí chung phân cho mỗi khách 1,6 triệu, còn 2 triệu; muốn biên 60% thì **chi phí thu hút khách cho phép** là 800.000 đồng, nên chị dám tặng túi hạt dùng thử 150.000 đồng cho khách mới.
+
+Chị mua máy rang 240 triệu, dự kiến rang 12 tấn trong đời máy, **phân bổ** 20.000 đồng mỗi kg; nếu mốt cà phê đặc sản qua đi và chỉ rang được 3 tấn thì chi phí máy thành 80.000 đồng mỗi kg (bài học Crocs).
+
+Chị giữ **khả năng chi trả** bằng cách thu tiền gói thuê bao đầu tháng, xin nhà cung cấp sữa cho trả sau 30 ngày, và giữ một hạn mức thấu chi 100 triệu chỉ để dự phòng.
+
+Một nhà đầu tư đề nghị góp 1 tỷ đổi 40% cổ phần để mở 5 chi nhánh: theo **thang nguồn vốn**, chị cân nhắc rằng đó là bước lên bậc vốn góp, kèm ghế quyết định; chị chọn **tự lực xoay xở**, mở chi nhánh thứ hai bằng lợi nhuận tích luỹ (**lãi kép**).
+
+Năm thứ hai, chi nhánh thứ hai đã tốn 400 triệu nhưng mặt bằng bị chủ nhà đòi tăng giá gấp đôi; chị bỏ qua 400 triệu **chi phí chìm**, chỉ so khoản phải bỏ thêm với lợi nhuận kỳ vọng ở mức giá thuê mới, và quyết định chuyển địa điểm.
 
 ## Luận điểm cốt lõi
 
@@ -1466,27 +1485,224 @@ Một doanh nghiệp tồn tại được khi nó giữ lại đủ một phần
 
 ### Sức mạnh của chương là đặt tài chính dưới mục tiêu "đủ", không dưới mục tiêu "tối đa"
 
-Phần lớn sách tài chính doanh nghiệp mặc định mục tiêu là tối đa hoá giá trị cho cổ đông. Kaufman đổi trục: doanh thu mục tiêu hằng tháng, mức lợi nhuận đủ, triết lý giữ ít giá trị, ngụ ngôn người đánh cá, phương châm tự lực xoay xở. Cách đặt vấn đề này hợp với đối tượng của sách (người tự học, chủ doanh nghiệp nhỏ, người làm tự do) hơn là với giám đốc tài chính một công ty niêm yết. Nó cũng nhất quán: vì mục tiêu là "đủ" và tự chủ, các lời khuyên về chi phí chung thấp, tiền mặt, tránh đòn bẩy và tránh vốn ngoài đều đi theo một logic. Điểm yếu là Kaufman ít bàn trường hợp ngược lại: ở những thị trường mà người thắng chiếm gần hết (hiệu ứng mạng, quy mô lớn), tự lực xoay xở chậm có thể khiến doanh nghiệp bị đối thủ có vốn lớn vượt mất; khi đó "đủ" không đứng vững.
+Phần lớn sách tài chính doanh nghiệp mặc định mục tiêu là tối đa hoá giá trị cho cổ đông. Kaufman đổi trục: doanh thu mục tiêu hằng tháng, mức lợi nhuận đủ, triết lý giữ ít giá trị, ngụ ngôn người đánh cá, phương châm tự lực xoay xở.
+
+Cách đặt vấn đề này hợp với đối tượng của sách (người tự học, chủ doanh nghiệp nhỏ, người làm tự do) hơn là với giám đốc tài chính một công ty niêm yết. Nó cũng nhất quán: vì mục tiêu là "đủ" và tự chủ, các lời khuyên về chi phí chung thấp, tiền mặt, tránh đòn bẩy và tránh vốn ngoài đều đi theo một logic. Điểm yếu là Kaufman ít bàn trường hợp ngược lại: ở những thị trường mà người thắng chiếm gần hết (hiệu ứng mạng, quy mô lớn), tự lực xoay xở chậm có thể khiến doanh nghiệp bị đối thủ có vốn lớn vượt mất; khi đó "đủ" không đứng vững.
 
 ### Chương thiếu ba báo cáo tài chính cơ bản, và một số định nghĩa lệch chuẩn kế toán
 
-Bản 2010 (và bản dịch này) không có báo cáo kết quả kinh doanh, bảng cân đối kế toán, báo cáo lưu chuyển tiền tệ hay các tỷ số tài chính; Kaufman chỉ bổ sung chúng ở ấn bản sau. Người đọc vì vậy có được trực giác đúng (tiền mặt khác lợi nhuận, khoản phải thu chưa phải tiền) nhưng chưa có công cụ để đọc sổ sách thật. Ngoài ra, "biên lợi nhuận" theo cách tính của sách thực chất là tỷ lệ cộng thêm trên giá vốn: sản phẩm giá vốn 100, bán 150 có biên 50% theo sách nhưng chỉ 33% theo cách kế toán thông thường. Nhầm hai khái niệm này dẫn tới định giá sai; người đọc nên tách bạch khi áp dụng. "Điểm hoà vốn" trong sách cũng là hoà vốn tích luỹ (thời gian hoàn vốn), không phải điểm hoà vốn theo sản lượng mà giáo trình hay dạy.
+Bản 2010 (và bản dịch này) không có báo cáo kết quả kinh doanh, bảng cân đối kế toán, báo cáo lưu chuyển tiền tệ hay các tỷ số tài chính; Kaufman chỉ bổ sung chúng ở ấn bản sau. Người đọc vì vậy có được trực giác đúng (tiền mặt khác lợi nhuận, khoản phải thu chưa phải tiền) nhưng chưa có công cụ để đọc sổ sách thật.
+
+Ngoài ra, "biên lợi nhuận" theo cách tính của sách thực chất là tỷ lệ cộng thêm trên giá vốn: sản phẩm giá vốn 100, bán 150 có biên 50% theo sách nhưng chỉ 33% theo cách kế toán thông thường. Nhầm hai khái niệm này dẫn tới định giá sai; người đọc nên tách bạch khi áp dụng. "Điểm hoà vốn" trong sách cũng là hoà vốn tích luỹ (thời gian hoàn vốn), không phải điểm hoà vốn theo sản lượng mà giáo trình hay dạy.
 
 ### Một số ví dụ đơn giản hoá tới mức có thể gây hiểu nhầm
 
-Phép tính lãi kép trong bản dịch có các mốc sai (1,10 USD sau ba năm, 2 USD sau mười lăm năm rồi lại mười bốn năm). Phép tính chi phí thu hút khách cho phép không chiết khấu giá trị vòng đời năm năm về hiện tại, dù chính chương đã dạy giá trị thời gian của tiền. Ví dụ đòn bẩy bỏ qua tiền lãi, phí giao dịch và việc khoản lỗ 200.000 USD vượt xa 20.000 USD vốn tự có, tức người đầu tư không chỉ mất hết vốn mà còn nợ ngân hàng. Câu về Steve Jobs (bị sa thải "thập niên 1990") lệch thời gian: Jobs bị gạt khỏi Apple năm 1985 và trở lại năm 1997. Bản dịch còn viết Crocs phá sản trong khi công ty chỉ thua lỗ nặng. Những chỗ này không làm sai bài học chính nhưng cho thấy chương nên được đọc như bản đồ khái niệm, không như sổ tay tính toán.
+Phép tính lãi kép trong bản dịch có các mốc sai (1,10 USD sau ba năm, 2 USD sau mười lăm năm rồi lại mười bốn năm). Phép tính chi phí thu hút khách cho phép không chiết khấu giá trị vòng đời năm năm về hiện tại, dù chính chương đã dạy giá trị thời gian của tiền. Ví dụ đòn bẩy bỏ qua tiền lãi, phí giao dịch và việc khoản lỗ 200.000 USD vượt xa 20.000 USD vốn tự có, tức người đầu tư không chỉ mất hết vốn mà còn nợ ngân hàng.
+
+Câu về Steve Jobs (bị sa thải "thập niên 1990") lệch thời gian: Jobs bị gạt khỏi Apple năm 1985 và trở lại năm 1997. Bản dịch còn viết Crocs phá sản trong khi công ty chỉ thua lỗ nặng. Những chỗ này không làm sai bài học chính nhưng cho thấy chương nên được đọc như bản đồ khái niệm, không như sổ tay tính toán.
 
 ### Từ 2010, nhiều điều kiện tài chính đã thay đổi nhưng các nguyên tắc vẫn đứng
 
-Sau 2010 là một thập niên lãi suất rất thấp, rồi lạm phát và lãi suất tăng trở lại từ 2022. Thời lãi suất thấp, vốn mạo hiểm dồi dào khiến nhiều công ty khởi nghiệp đốt vốn rất nhanh để tăng trưởng, ngược hẳn lời khuyên của Kaufman; khi lãi suất tăng, nhiều công ty trong số đó phải cắt giảm mạnh, và các khái niệm "đủ", tốc độ đốt vốn, khả năng chi trả lại được coi trọng. Mô hình thuê bao mà Kaufman khen đã lan sang phần mềm, truyền thông, thậm chí đồ gia dụng, và tỷ lệ LTV/CAC trở thành chỉ số chuẩn của giới khởi nghiệp. Các nguồn vốn mới như gọi vốn cộng đồng, cho vay dựa trên doanh thu, nền tảng tài chính nhúng đã chen vào giữa các bậc của thang nguồn vốn, nhưng nguyên tắc "thêm tiền thì nhường thêm quyền hoặc thêm rủi ro" vẫn đúng. Lời mỉa của Kaufman về chuyện sô-cô-la giờ có tên phổ biến là "shrinkflation" và "skimpflation" (giảm khối lượng hoặc chất lượng mà giữ giá).
+Sau 2010 là một thập niên lãi suất rất thấp, rồi lạm phát và lãi suất tăng trở lại từ 2022. Thời lãi suất thấp, vốn mạo hiểm dồi dào khiến nhiều công ty khởi nghiệp đốt vốn rất nhanh để tăng trưởng, ngược hẳn lời khuyên của Kaufman; khi lãi suất tăng, nhiều công ty trong số đó phải cắt giảm mạnh, và các khái niệm "đủ", tốc độ đốt vốn, khả năng chi trả lại được coi trọng.
+
+Mô hình thuê bao mà Kaufman khen đã lan sang phần mềm, truyền thông, thậm chí đồ gia dụng, và tỷ lệ LTV/CAC trở thành chỉ số chuẩn của giới khởi nghiệp. Các nguồn vốn mới như gọi vốn cộng đồng, cho vay dựa trên doanh thu, nền tảng tài chính nhúng đã chen vào giữa các bậc của thang nguồn vốn, nhưng nguyên tắc "thêm tiền thì nhường thêm quyền hoặc thêm rủi ro" vẫn đúng. Lời mỉa của Kaufman về chuyện sô-cô-la giờ có tên phổ biến là "shrinkflation" và "skimpflation" (giảm khối lượng hoặc chất lượng mà giữ giá).
 
 ### Quan điểm trái chiều: tối thiểu hoá giá trị giữ lại và tránh nợ không phải lúc nào cũng tối ưu
 
-Các trường kinh doanh dạy tối đa hoá không hẳn vì tham lam: trong cạnh tranh, doanh nghiệp giữ được nhiều giá trị hơn có nhiều tiền hơn để tái đầu tư vào sản phẩm, con người và marketing, và có thể chính nhờ thế mà tạo ra nhiều giá trị hơn cho khách về sau. Định giá theo giá trị (thu một tỷ lệ của lợi ích khách nhận được) và phân biệt giá theo phân khúc cho phép giữ nhiều giá trị mà khách vẫn thấy đáng. Tương tự, lý thuyết tài chính chỉ ra rằng nợ ở mức vừa phải có thể làm giảm chi phí vốn (nhờ lãi vay được trừ thuế) và kỷ luật hoá ban lãnh đạo; một doanh nghiệp không vay chút nào có thể đang bỏ lỡ tăng trưởng. Kaufman không phủ nhận những điều này, nhưng ông chọn đứng về phía an toàn, vì độc giả của ông thường là người nhỏ, ít vốn, chịu rủi ro bằng tài sản cá nhân.
+Các trường kinh doanh dạy tối đa hoá không hẳn vì tham lam: trong cạnh tranh, doanh nghiệp giữ được nhiều giá trị hơn có nhiều tiền hơn để tái đầu tư vào sản phẩm, con người và marketing, và có thể chính nhờ thế mà tạo ra nhiều giá trị hơn cho khách về sau. Định giá theo giá trị (thu một tỷ lệ của lợi ích khách nhận được) và phân biệt giá theo phân khúc cho phép giữ nhiều giá trị mà khách vẫn thấy đáng.
+
+Tương tự, lý thuyết tài chính chỉ ra rằng nợ ở mức vừa phải có thể làm giảm chi phí vốn (nhờ lãi vay được trừ thuế) và kỷ luật hoá ban lãnh đạo; một doanh nghiệp không vay chút nào có thể đang bỏ lỡ tăng trưởng. Kaufman không phủ nhận những điều này, nhưng ông chọn đứng về phía an toàn, vì độc giả của ông thường là người nhỏ, ít vốn, chịu rủi ro bằng tài sản cá nhân.
 
 ### Vận dụng: trước mỗi quyết định tiền bạc, hãy hỏi con số "đủ" là bao nhiêu và tiền mặt còn bao lâu
 
 - **Trong doanh nghiệp.** Tính doanh thu mục tiêu hằng tháng cho từng đơn vị, sản phẩm; tính LTV và chi phí thu hút khách cho phép trước khi duyệt ngân sách marketing; theo dõi số ngày phải thu và phải trả hằng tháng; khi phòng mua hàng đề xuất đổi nguyên liệu rẻ hơn, hỏi khách có nhận ra không và tác động cộng dồn sau nhiều lần thay là gì; khi một dự án đội vốn, yêu cầu báo cáo chỉ so chi phí còn phải bỏ với lợi ích còn lại, không nhắc số đã chi.
 - **Trong nghề nghiệp.** Áp chi phí cơ hội và ROI theo thời gian cho chính mình: một khoá học, một tấm bằng hay một công việc mới đáng giá bao nhiêu so với phương án tốt nhất kế tiếp; giữ một quỹ dự phòng tiền mặt cá nhân như "khả năng chi trả" để có quyền từ chối việc xấu; tránh đòn bẩy cá nhân (vay để đầu tư chứng khoán, bất động sản) nếu không chịu nổi kịch bản giá giảm một nửa; nhớ lãi kép áp dụng cả cho kỹ năng.
 - **Khi khởi nghiệp hay kinh doanh nhỏ.** Bắt đầu từ bậc thấp nhất của thang nguồn vốn; tính trước số tháng vốn còn đủ (vốn chia chi phí chung mỗi tháng); thu tiền trước hoặc đặt cọc khi có thể; chọn thị trường khách quay lại nhiều lần; định giá để khách thấy hời nhưng vẫn vượt mức đủ, và thử tăng giá có kiểm soát thay vì chỉ cạnh tranh bằng giá thấp.
-- **Ở Việt Nam.** Nhiều hộ kinh doanh và doanh nghiệp nhỏ vận hành gần với tinh thần "tự lực xoay xở" (vốn gia đình, vay người thân, quay vòng hàng), nên lời cảnh báo của Kaufman về vay bạn bè, người thân rất sát thực tế: hãy ghi rõ thoả thuận để giữ quan hệ. Việc bán chịu và chậm thanh toán giữa doanh nghiệp với doanh nghiệp khá phổ biến trong nhiều ngành, nên bài học "khoản phải thu chưa phải là tiền" và "mình không phải ngân hàng" đặc biệt đáng nhớ. Với các mô hình thuê bao, gói thành viên, câu hỏi giá trị vòng đời và chi phí thu hút khách cho phép giúp tránh các chương trình khuyến mãi "đốt tiền" không thu hồi được. Cuối cùng, chuyện ông nội Kaufman nhắc người làm dự án xây dựng, bất động sản rằng địa chất và chi phí phát sinh có thể làm vỡ ngân sách, và quyết định đúng là dựa vào chi phí còn lại, không dựa vào số đã chôn xuống móng.
+- **Ở Việt Nam.** Nhiều hộ kinh doanh và doanh nghiệp nhỏ vận hành gần với tinh thần "tự lực xoay xở" (vốn gia đình, vay người thân, quay vòng hàng), nên lời cảnh báo của Kaufman về vay bạn bè, người thân rất sát thực tế: hãy ghi rõ thoả thuận để giữ quan hệ. Việc bán chịu và chậm thanh toán giữa doanh nghiệp với doanh nghiệp khá phổ biến trong nhiều ngành, nên bài học "khoản phải thu chưa phải là tiền" và "mình không phải ngân hàng" đặc biệt đáng nhớ.
+
+  Với các mô hình thuê bao, gói thành viên, câu hỏi giá trị vòng đời và chi phí thu hút khách cho phép giúp tránh các chương trình khuyến mãi "đốt tiền" không thu hồi được. Cuối cùng, chuyện ông nội Kaufman nhắc người làm dự án xây dựng, bất động sản rằng địa chất và chi phí phát sinh có thể làm vỡ ngân sách, và quyết định đúng là dựa vào chi phí còn lại, không dựa vào số đã chôn xuống móng.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương trên một trang: sáu nhánh theo các mục 1–23 của Nội dung chi tiết (lợi nhuận và mức đủ, tăng doanh thu và giá trị mỗi khách, chi phí và hoà vốn, đầu tư lớn và dòng tiền, đánh giá đầu tư, nguồn vốn và chi phí chìm), mỗi nhánh ghi định nghĩa mô hình, ví dụ và con số then chốt của Kaufman; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: Tài chính là dùng con số để kiểm tra doanh nghiệp có chạy đúng ý định và kết quả có đủ không`"]
+  n1["`Mục 1–4 — Lợi nhuận, phần giá trị giữ lại và mức lợi nhuận đủ`"]
+  n0 --- n1
+  n2["`Tài chính: theo dõi dòng tiền vào ra, quyết định phân bổ, xác định kết quả có như mong muốn`"]
+  n1 --- n2
+  n3["`Kinh doanh nằm ở số tiền giữ lại: thu 100 triệu USD mà chi 100.000.001 USD là vô nghĩa`"]
+  n1 --- n3
+  n4["`Biên lợi nhuận theo cách Kaufman tính lãi chia chi phí: giá vốn 100 USD, bán 150 USD → 50%`"]
+  n1 --- n4
+  n5["`Lãi vừa trả công chủ sở hữu vừa là tấm đệm khi chi phí bỗng tăng`"]
+  n1 --- n5
+  n6["`Phần giá trị giữ lại: giúp khách thêm 1.000.000 USD doanh thu, thu 100.000 USD → giữ 10%`"]
+  n1 --- n6
+  n7["`Tối đa hoá làm khách mất lý do mua#59; tối thiểu hoá giữ ít nhất miễn còn mức đủ`"]
+  n1 --- n7
+  n8["`Ngụ ngôn người đánh cá và vị giám đốc: lợi nhuận là phương tiện, không phải mục đích`"]
+  n1 --- n8
+  n9["`Mức lợi nhuận đủ = #quot;lợi nhuận mì gói#quot; của Paul Graham: đủ trả tiền nhà, giữ công ty chạy`"]
+  n1 --- n9
+  n10["`Đo bằng doanh thu mục tiêu hằng tháng (OIM): doanh thu vượt OIM là đã thành công`"]
+  n1 --- n10
+  n11["`Mục 5–8 — Tăng doanh thu và giá trị của mỗi khách`"]
+  n0 --- n11
+  n12["`Bốn cách tăng doanh thu: thêm khách, tăng giá trị mỗi giao dịch, tăng tần suất mua, tăng giá`"]
+  n11 --- n12
+  n13["`Khách hàng lý tưởng: mua sớm, mua thường xuyên, chi nhiều, giới thiệu người khác, chịu giá cao`"]
+  n11 --- n13
+  n14["`Sức mạnh định giá — phép thử: nhân đôi giá, mất ít hơn một nửa số khách là nước đi tốt`"]
+  n11 --- n14
+  n15["`Kem đánh răng (hàng đồng nhất) rất nhạy giá#59; túi, đồng hồ hàng hiệu có thể tăng giá gấp bốn`"]
+  n11 --- n15
+  n16["`Không cần đồ thị: thử đổi giá rồi quan sát#59; sức mạnh định giá giúp chống lạm phát`"]
+  n11 --- n16
+  n17["`Giá trị vòng đời: quầy nước chanh 1 USD so với khách bảo hiểm 200 USD/tháng × 10 năm = 24.000 USD`"]
+  n11 --- n17
+  n18["`Mô hình thuê bao sinh lời vì tối đa hoá giá trị vòng đời khách hàng`"]
+  n11 --- n18
+  n19["`CAP = (giá trị vòng đời − chi phí giao giá trị − chi phí chung mỗi khách) × (1 − biên mong muốn)`"]
+  n11 --- n19
+  n20["`Ví dụ CAP: (2.000 − 500 − 1.000) × 0,40 = 200 USD mỗi khách mới`"]
+  n11 --- n20
+  n21["`Mặt hàng chịu lỗ: Proactiv bán lần đầu 20 USD vì khách cam kết mua mỗi tháng một lọ`"]
+  n11 --- n21
+  n22["`Mục 9–12 — Chi phí và điểm hoà vốn`"]
+  n0 --- n22
+  n23["`Chi phí chung: chi tối thiểu mỗi tháng dù bán bao nhiêu#59; càng thấp càng sớm đạt mức đủ`"]
+  n22 --- n23
+  n24["`Theo dõi tốc độ đốt vốn: tiêu hết vốn mà không gọi thêm được là hết cuộc chơi`"]
+  n22 --- n24
+  n25["`Chi phí cố định: bớt 50 USD/tháng tiền điện thoại = 600 USD/năm, tiết kiệm cộng dồn theo thời gian`"]
+  n22 --- n25
+  n26["`Chi phí biến đổi: bớt 0,50 USD mỗi áo = 500 USD mỗi 1.000 áo, tiết kiệm nhân theo sản lượng`"]
+  n22 --- n26
+  n27["`Suy giảm chất lượng từng chút một: sô-cô-la thay hạt cacao rẻ, thay bơ cacao bằng dầu thực vật`"]
+  n22 --- n27
+  n28["`Cắt chi phí có giới hạn#59; chất lượng và doanh thu thì không có trần`"]
+  n22 --- n28
+  n29["`Điểm hoà vốn: tổng doanh thu tích luỹ vượt tổng chi phí tích luỹ, kể cả chi phí khởi động`"]
+  n22 --- n29
+  n30["`Ví dụ: khởi động tốn 600.000 USD, dư 50.000 USD/tháng → cần thêm 12 tháng mới hoà vốn`"]
+  n22 --- n30
+  n31["`Mục 13–15 — Đầu tư lớn, khả năng chi trả và dòng tiền`"]
+  n0 --- n31
+  n32["`Phân bổ chi phí đầu tư: nhà máy 100 triệu USD làm 10 triệu chó bông = 10 USD mỗi con`"]
+  n31 --- n32
+  n33["`InDesign 700 USD dùng cho 10 dự án 1.000 USD = 70 USD mỗi dự án, 7% doanh thu`"]
+  n31 --- n33
+  n34["`Phân bổ chỉ là dự đoán: Crocs kẹt nhà máy đắt và tồn kho khổng lồ khi mốt qua đi`"]
+  n31 --- n34
+  n35["`Tiền mặt là vua — khả năng chi trả = tiền mặt + hạn mức tín dụng + nguồn tài trợ sẵn có`"]
+  n31 --- n35
+  n36["`Mất khả năng chi trả là doanh nghiệp chết, dù có hàng triệu USD đơn hàng trên sổ`"]
+  n31 --- n36
+  n37["`Chu kỳ dòng tiền như bồn tắm: đổ thêm nước vào và chặn lỗ thoát`"]
+  n31 --- n37
+  n38["`Khoản phải thu chưa phải tiền mặt#59; nợ tốn lãi và phải trả định kỳ`"]
+  n31 --- n38
+  n39["`Cải thiện dòng tiền: thu sớm, trả muộn, bớt bán chịu — mình điều hành doanh nghiệp, không phải ngân hàng`"]
+  n31 --- n39
+  n40["`Vay thêm hay mở hạn mức tín dụng chỉ coi là nguồn dự phòng khẩn cấp`"]
+  n31 --- n40
+  n41["`Mục 16–19 và 22 — Đánh giá đầu tư: cơ hội, thời gian, đòn bẩy, ROI`"]
+  n0 --- n41
+  n42["`Chi phí cơ hội: bỏ việc 50.000 USD/năm để mở công ty thì mất cả 50.000 USD đó`"]
+  n41 --- n42
+  n43["`Chi phí cơ hội bị che khuất vì người ta khó thấy cái vắng mặt#59; nhưng đừng phân tích quá mức`"]
+  n41 --- n43
+  n44["`Giá trị thời gian của tiền: 1.000.000 USD nhận sau 1 năm, lãi thay thế 5% → chỉ đáng 952.380 USD`"]
+  n41 --- n44
+  n45["`Doanh nghiệp lãi 200.000 USD/năm, 10 năm, chiết khấu 5% → giá trị hiện tại 1.544.347 USD`"]
+  n41 --- n45
+  n46["`Lãi kép: góp 10 USD/ngày trong 40 năm (tổng 146.110 USD), lãi 8% → khoảng 1 triệu USD`"]
+  n41 --- n46
+  n47["`Tái đầu tư lợi nhuận là vòng phản hồi dương#59; mẹo duy nhất là đủ kiên nhẫn`"]
+  n41 --- n47
+  n48["`Đòn bẩy: 20.000 USD mua bốn căn nhà#59; giá gấp đôi lãi gấp 20 vốn, giá giảm 50% lỗ 200.000 USD`"]
+  n41 --- n48
+  n49["`Ngân hàng đầu tư dùng đòn bẩy 30–40 lần, góp phần gây suy thoái 2008–2009`"]
+  n41 --- n49
+  n50["`ROI: đầu tư 1.000 USD lãi 100 USD = 10%#59; ROI tương lai luôn là ước đoán`"]
+  n41 --- n50
+  n51["`ROI tính cả cho thời gian: làm 24 giờ/ngày suốt một năm để lấy 1 triệu USD là không đáng`"]
+  n41 --- n51
+  n52["`Mục 20–21 và 23 — Nguồn vốn, tự lực xoay xở và chi phí chìm`"]
+  n0 --- n52
+  n53["`Vốn ngoài như nhiên liệu tên lửa: đúng hướng thì tăng tốc, có vấn đề cấu trúc thì nổ tung`"]
+  n52 --- n53
+  n54["`Thang nguồn vốn: leo từ dưới lên#59; càng lên cao càng nhiều tiền, càng mất quyền kiểm soát`"]
+  n52 --- n54
+  n55["`Bậc dưới: tiền mặt cá nhân → tín dụng cá nhân → bạn bè, gia đình → vay tín chấp → vay có bảo đảm`"]
+  n52 --- n55
+  n56["`Bậc trên: trái phiếu → vay bằng khoản phải thu → thiên thần → quỹ mạo hiểm → phát hành cổ phiếu`"]
+  n52 --- n56
+  n57["`Nhà đầu tư thiên thần: 10.000–1.000.000 USD đổi 1–10% cổ phần`"]
+  n52 --- n57
+  n58["`Nhà đầu tư có thể sa thải cả nhà sáng lập: hội đồng quản trị Apple gạt Steve Jobs`"]
+  n52 --- n58
+  n59["`Tự lực xoay xở vốn: tiền túi, tín dụng cá nhân, doanh thu#59; giữ toàn quyền nhưng lớn chậm hơn`"]
+  n52 --- n59
+  n60["`Công ty Kaufman chạy bằng một tài khoản thanh toán, một tài khoản tiết kiệm, một thẻ tín dụng`"]
+  n52 --- n60
+  n61["`Chi phí chìm: chỉ so khoản phải đầu tư thêm với phần thưởng kỳ vọng`"]
+  n52 --- n61
+  n62["`Ông nội Kaufman: chung cư ngân sách 300.000 USD tốn khoảng 1 triệu USD, gấp ba`"]
+  n52 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Tạo càng nhiều giá trị càng tốt, rồi chỉ giữ lại đủ để tiếp tục hoạt động`"]
+  n63 --- n64
+  n65["`Giữ chi phí thấp nhưng đừng phá lý do khách mua của mình`"]
+  n63 --- n65
+  n66["`Giữ tiền mặt#59; dè chừng nợ và vốn ngoài vì chúng lấy đi quyền kiểm soát`"]
+  n63 --- n66
+  n67["`Đừng ném tiền mới theo tiền đã mất`"]
+  n63 --- n67
+  class n0 root
+  class n1,n11,n22,n31,n41,n52,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67 leaf
+```
+
+## Nguồn
+
+Josh Kaufman, *The Personal MBA* (2010), bản dịch TBN *MBA personal* (Silvia Alemany Vilalta), chương 6 "La financiación" (tương ứng Chapter 5 "Finance" ở bản tiếng Anh).
+
+## Tác giả
+
+Josh Kaufman (sinh 1980), người Mỹ, từng làm quản lý sản phẩm/marketing tại Procter & Gamble, tự học kinh doanh thay vì học MBA và lập dự án PersonalMBA.com (danh sách sách kinh doanh nên đọc).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 đến chương 6 trình bày năm phần của mọi doanh nghiệp: tạo giá trị (chương 2), marketing (chương 3), bán hàng (chương 4), chuyển giao giá trị (chương 5) và tài chính (chương 6). Chương này là phần thứ năm và khép lại khối "doanh nghiệp": sau khi doanh nghiệp đã tạo ra thứ người ta muốn, thu hút sự chú ý, chốt được giao dịch và giao hàng, câu hỏi còn lại là tiền đi vào và đi ra có đủ để doanh nghiệp tiếp tục sống hay không, và có xứng với công sức của những người làm ra nó hay không.
+
+Chương dùng lại nhiều khái niệm của các chương trước (lọc khách hàng tiềm năng ở chương 3, bốn cách định giá và phương pháp chiết khấu dòng tiền ở chương 4, công cụ khuếch đại sức lao động ở chương 5) và báo trước các khái niệm của các chương sau (biểu tượng địa vị xã hội và quyền lực ở chương 9, dòng chảy và vòng phản hồi ở chương 10, lợi suất giảm dần và khả năng phục hồi ở chương 12).
+
+Chương 7 chuyển sang khối "con người", bắt đầu bằng cách tâm trí con người vận hành; một trong những thiên lệch nhận thức ở đó, "ceguera de la carencia" (không nhìn thấy cái vắng mặt), được chương này dùng để giải thích vì sao chi phí cơ hội dễ bị bỏ qua.
+
+## Lưu ý
+
+- Nguồn duy nhất là bản dịch tiếng Tây Ban Nha, qua bản scan nhận dạng chữ (OCR); mọi câu trích là bản dịch của người tổng hợp từ bản TBN, không phải nguyên văn tiếng Anh. Tên tiếng Anh của các mục ghi theo hiểu biết của người tổng hợp về ấn bản 2010; theo hiểu biết đó (chưa đối chiếu được), các mục "Profit", "Valuation", "Cash Flow Statement", "Income Statement", "Balance Sheet", "Financial Ratios", "Cost-Benefit Analysis", "Internal Controls" có trong ấn bản tiếng Anh sau này (2012 trở đi) không có trong bản dịch này. Những chỗ OCR hoặc bản dịch có vấn đề, ảnh hưởng tới nghĩa:
+  - Tên người nói đề từ bị OCR làm sai: "2IG ZIGLAR" là Zig Ziglar; "GEORGE CLAYSON" là George S. Clason, tác giả *The Richest Man in Babylon*; "BALL GLAZER" là Bill Glazer; "BILL SAHUMAN" là Bill Sahlman (Trường Kinh doanh Harvard); "Compeg" là Compaq; "fornerbooks.com" có lẽ là foner books; "Guthy-Kenker" là Guthy-Renker; "AdobelnDesign/InDesing" là Adobe InDesign; "hormiguon" là hormigón (bê tông); "20D dólares" là 200 USD; tên toà nhà "El Baranel" giữ nguyên như bản TBN vì không đối chiếu được.
+  - Mục "El poder de poner precio": câu "Cuanto menor sea el valor que obtenga, mayor será su poder de poner precio" (giá trị thu được càng ít thì sức mạnh định giá càng lớn) không hợp lý với phần còn lại của mục; có lẽ bản dịch đã làm hỏng câu gốc, nên bản tổng hợp không dùng câu này. Bản dịch gọi khái niệm kinh tế học là "flexibilidad de precios" (độ linh hoạt giá); thuật ngữ chuẩn là độ co giãn của cầu theo giá (*price elasticity*). Cụm "mercancías sui géneris como la pasta dentífrica" có lẽ dịch từ "commodity" (hàng hoá đồng nhất, khó phân biệt giữa các hãng), nghĩa ngược với "sui géneris" (độc nhất); bản tổng hợp hiểu theo nghĩa hàng hoá đồng nhất.
+  - Mục "El coste por adquisición permitido": câu "Multiplique el resultado por 1 y réstele su margen de ganancia deseado" bị lệch; theo chính ví dụ đi kèm, phép tính đúng là nhân kết quả với (1 trừ biên lợi nhuận mong muốn), ví dụ 1,00 − 0,60 = 0,40.
+  - Mục "La rentabilidad": chữ "rentabilidad" thường nghĩa là khả năng sinh lời, nhưng nội dung mục là **điểm hoà vốn** (*Breakeven*); bản dịch cũng dùng "umbral de rentabilidad" và "umbral de beneficio" cho cùng ý. Trong ví dụ, câu "Ahora que entran 50.000 dólares al mes" phải hiểu là phần dư 50.000 USD mỗi tháng (doanh thu 100.000 trừ chi phí 50.000).
+  - Mục "La amortización": bản dịch viết Crocs "đi tới phá sản" (*ir a la bancarrota*). Crocs thực tế không phá sản; công ty chịu lỗ nặng và tồn kho lớn quanh 2008–2009. Có thể bản dịch nói quá so với bản gốc; bản tổng hợp ghi là thua lỗ nặng.
+  - Mục "El poder adquisitivo": bản dịch dùng "poder adquisitivo" (thường nghĩa là sức mua của đồng tiền) cho khái niệm *Purchasing Power* của Kaufman, tức tổng tiền mặt, hạn mức tín dụng và các nguồn tài trợ doanh nghiệp có thể dùng ngay. Bản tổng hợp gọi là **khả năng chi trả** để không nhầm với sức mua của đồng tiền trong mục sức mạnh định giá.
+  - Mục "La capitalización": các con số ví dụ tài khoản tiết kiệm lãi 5% trong bản dịch không khớp với lãi kép (bản TBN ghi năm thứ ba 1,10 USD, năm thứ tư 1,15 USD, năm thứ mười lăm 2 USD, rồi lại nói 1 triệu thành 2 triệu sau mười bốn năm). Tính đúng: 1,1025 USD sau 2 năm, 1,1576 USD sau 3 năm, 1,2155 USD sau 4 năm, gấp đôi sau khoảng 14,2 năm. Bản tổng hợp ghi số đúng và nói rõ chỗ lệch.
+  - Mục "Jerarquía financiera": bản dịch gọi phát hành cổ phiếu ra công chúng là "ofertas públicas de acciones (OPA)", trong khi ở Tây Ban Nha OPA thường chỉ chào mua công khai để thâu tóm; nghĩa trong sách là chào bán cổ phần ra công chúng, còn "OPI" là lần chào bán đầu tiên (IPO).
+
+    Câu "Los ángeles y los inversores capitalistas de riesgo recurren a las ofertas públicas de acciones para adquirir una propiedad a cambio de dinero" bị rối; theo ngữ cảnh nghĩa là nhà đầu tư thiên thần và quỹ đầu tư mạo hiểm bỏ tiền để lấy cổ phần, rồi cần đợt phát hành ra công chúng để bán cổ phần đó lấy tiền. Câu về lãi suất vay tín chấp "un poco más alta que la de una tarjeta de crédito" (cao hơn thẻ tín dụng một chút) có thể lệch so với thực tế thông thường (vay tín chấp ngân hàng thường rẻ hơn thẻ tín dụng); bản tổng hợp ghi lại như bản dịch và nêu nghi vấn.
+  - Mục "La cantidad suficiente de ganancias": bản dịch gọi Paul Graham là "inversor en fusiones de empresas" (nhà đầu tư vào sáp nhập doanh nghiệp); Graham là nhà đầu tư vào công ty khởi nghiệp và đồng sáng lập Y Combinator. Chỉ tiêu "objetivo ingreso mensual (OIM)" có lẽ dịch từ *Target Monthly Revenue*.
+  - Mục "Jerarquía financiera" còn ghi Steve Jobs bị hội đồng quản trị Apple sa thải "vào thập niên 1990"; thực tế là năm 1985 (Jobs trở lại năm 1997). Không rõ lỗi nằm ở bản gốc hay bản dịch.
+  - Mục "El apalancamiento": câu đề từ của Kenneth Olsen trong bản TBN viết "Si sabemos" (nếu chúng tôi biết), đúng ra là "Sí sabemos" (chúng tôi có biết).
+  - Mục "El rendimiento de la inversión": công thức "(1.000 + 100) / 1.000 = 1,10, o 10%" ghi gộp; 1,10 là tỷ lệ giữa tổng thu về và vốn bỏ ra, còn tỷ suất lợi nhuận là 0,10 tức 10%.
+- Bối cảnh: sách viết năm 2010, ngay sau khủng hoảng tài chính 2008–2009; các ví dụ (giá phần mềm InDesign 700 USD, Proactiv quảng cáo với Jessica Simpson, Crocs, quy đổi đô la 1965 sang đô la 2010) tính tới lúc đó. Chương không có chú thích cuối sách nào thuộc về nó (các chú thích [1]–[63] của bản TBN không có chú thích nào gắn với chương 6), nên không có chú thích nào được đưa vào.
