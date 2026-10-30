@@ -1,11 +1,19 @@
 # Chương 3 — "Phúc lành" của sự tàn phá (The Blessings of Destruction)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 3 "The Blessings of Destruction". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 trình bày ngụy biện cửa sổ vỡ ở quy mô nhỏ nhất (một tấm kính, 50 USD). Chương 3 phóng nó lên quy mô lớn nhất: chiến tranh tàn phá cả thành phố, và niềm tin rằng nhu cầu thay thế sau chiến tranh sẽ mang lại thịnh vượng. Chương này cũng giới thiệu ba công cụ sẽ dùng lại nhiều lần ở các chương sau: phân biệt nhu cầu với cầu có sức mua; ảo giác tiền tệ do lạm phát (sẽ được phân tích kỹ ở Chương 22 "The Mirage of Inflation"); và mệnh đề "cung chính là cầu" (định luật Say). Ngay sau đó, Chương 4 chuyển sang công trình công cộng.
-**Ý chính:** Hazlitt muốn chứng minh rằng **chiến tranh và tàn phá không tạo ra thịnh vượng**, kể cả qua "cầu tích tụ" (*backed-up demand*) sau chiến tranh. Ông chỉ ra bốn lỗi chồng lên nhau: (1) nhầm **nhu cầu** với **cầu**: Trung Quốc năm 1946 cần nhiều hơn Mỹ vô cùng, nhưng sức mua nhỏ hơn vô cùng; (2) nhầm **sức mua** với **tiền**: in tiền làm giá tăng, người ta tưởng mình giàu hơn dù mua được ít hơn, và phần lớn cái "tốt" của chiến tranh thực ra là do lạm phát thời chiến; (3) nhầm việc **chuyển hướng** cầu với việc **tăng** cầu: xây thêm nhà ở châu Âu nghĩa là bớt lao động và sức mua cho mọi thứ khác; (4) quên rằng **cung chính là cầu**: nông dân dùng lúa mì của mình để "cầu" ô tô, nên khi năng lực sản xuất bị phá thì tổng cầu sau chiến tranh co lại theo. Ví dụ cực đoan: nếu nước Anh bị phá huỷ hết thành phố, nhà máy, vốn liếng, tụt xuống mức sống của người Trung Quốc thì chẳng ai còn nói tới "cầu tích tụ"; lạm phát nghìn lần có thể làm "thu nhập quốc dân" tính bằng tiền tăng, nhưng ai tin vậy là giàu hơn thì "ngoài tầm lý lẽ".
+## Ý chính
 
-> **Lưu ý:** Chương viết đầu năm 1946, vài tháng sau khi Thế chiến II kết thúc. Bối cảnh: ở Mỹ, nhiều nhà kinh tế và doanh nhân tin rằng nhu cầu bị dồn nén trong chiến tranh (ô tô, tủ lạnh, radio, tất nylon không được sản xuất cho dân sự từ 1942) cộng với tiền tiết kiệm từ trái phiếu chiến tranh sẽ tạo ra một đợt bùng nổ; một nhóm khác (theo Keynes) lại lo thất nghiệp hàng loạt khi chi tiêu quân sự giảm. Ở châu Âu, Đức và Nhật, nhiều thành phố bị san phẳng. Trung Quốc năm 1946 vừa ra khỏi chiến tranh với Nhật, đang bước vào nội chiến và siêu lạm phát. Các kiểm soát giá thời chiến của Mỹ được dỡ bỏ phần lớn trong năm 1946, và lạm phát bùng lên trong 1946–1947, đúng như Hazlitt cảnh báo về ảo giác tiền tệ. Về sau, Đức và Nhật tăng trưởng rất nhanh trong thập niên 1950–1960 ("phép màu kinh tế"); điều này không bác bỏ Hazlitt (họ tăng trưởng từ một mức thấp hơn trước chiến tranh), nhưng làm phức tạp thêm câu chuyện, xem phần Đánh giá. Hazlitt dùng chữ "nhu cầu" (*need*) và "cầu" (*demand*) theo hai nghĩa khác nhau; bản tổng hợp giữ đúng sự phân biệt đó. Các câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng **chiến tranh và tàn phá không tạo ra thịnh vượng**, kể cả qua "cầu tích tụ" (*backed-up demand*) sau chiến tranh.
+
+Ông chỉ ra bốn lỗi chồng lên nhau:
+
+- nhầm **nhu cầu** với **cầu**: Trung Quốc năm 1946 cần nhiều hơn Mỹ vô cùng, nhưng sức mua nhỏ hơn vô cùng
+- nhầm **sức mua** với **tiền**: in tiền làm giá tăng, người ta tưởng mình giàu hơn dù mua được ít hơn, và phần lớn cái "tốt" của chiến tranh thực ra là do lạm phát thời chiến
+- nhầm việc **chuyển hướng** cầu với việc **tăng** cầu: xây thêm nhà ở châu Âu nghĩa là bớt lao động và sức mua cho mọi thứ khác
+- quên rằng **cung chính là cầu**: nông dân dùng lúa mì của mình để "cầu" ô tô, nên khi năng lực sản xuất bị phá thì tổng cầu sau chiến tranh co lại theo.
+
+Ví dụ cực đoan: nếu nước Anh bị phá huỷ hết thành phố, nhà máy, vốn liếng, tụt xuống mức sống của người Trung Quốc thì chẳng ai còn nói tới "cầu tích tụ".
+
+Lạm phát nghìn lần có thể làm "thu nhập quốc dân" tính bằng tiền tăng, nhưng ai tin vậy là giàu hơn thì "ngoài tầm lý lẽ".
 
 ## Sơ đồ
 
@@ -244,7 +252,9 @@
 
 **Chuyển hướng cầu (diversion of demand).** Khi người ta buộc phải chi nhiều hơn cho một thứ, họ chi ít hơn cho thứ khác; tổng không tăng, chỉ cơ cấu thay đổi. Ví dụ: người châu Âu xây nhà nhiều hơn thì còn ít lao động, máy móc và tiền hơn cho mọi thứ khác. Đây chính là lập luận "thợ kính và thợ may" của Chương 2, áp dụng cho cả nền kinh tế.
 
-**Cung chính là cầu (supply creates demand / supply is demand), thường gọi là định luật Say.** Trong một nền kinh tế có phân công lao động và trao đổi, thứ duy nhất người ta có để đổi lấy thứ mình muốn là thứ mình làm ra. Ví dụ trong chương: lúa mì của nông dân là cầu của họ về ô tô; ô tô của ngành ô tô là cầu của họ về lúa mì. Hệ quả: phá năng lực sản xuất (cung) thì cũng phá sức mua (cầu). Đây là lập luận then chốt để bác "cầu tích tụ". Hazlitt không gọi tên Say hay Keynes trong chương; theo người tổng hợp, đây là điểm ông đối lập trực tiếp với Keynes (người đã bác định luật Say trong *Lý thuyết tổng quát*), và "vài nhà kinh tế được coi là xuất sắc" mà ông nhắc tới nhiều khả năng ám chỉ Keynes và môn đệ.
+**Cung chính là cầu (supply creates demand / supply is demand), thường gọi là định luật Say.** Trong một nền kinh tế có phân công lao động và trao đổi, thứ duy nhất người ta có để đổi lấy thứ mình muốn là thứ mình làm ra. Ví dụ trong chương: lúa mì của nông dân là cầu của họ về ô tô; ô tô của ngành ô tô là cầu của họ về lúa mì. Hệ quả: phá năng lực sản xuất (cung) thì cũng phá sức mua (cầu). Đây là lập luận then chốt để bác "cầu tích tụ".
+
+Hazlitt không gọi tên Say hay Keynes trong chương; theo người tổng hợp, đây là điểm ông đối lập trực tiếp với Keynes (người đã bác định luật Say trong *Lý thuyết tổng quát*), và "vài nhà kinh tế được coi là xuất sắc" mà ông nhắc tới nhiều khả năng ám chỉ Keynes và môn đệ.
 
 **Tấm màn tiền tệ (the monetary veil).** Ý tưởng rằng tiền chỉ là lớp vỏ che phủ những trao đổi hàng hoá thật bên dưới. Hazlitt khen John Stuart Mill và các nhà cổ điển vì "nhìn xuyên qua tấm màn tiền tệ", trong khi nhiều người đương thời "bị tiền làm rối chứ không được tiền dạy". Ví dụ minh hoạ của người tổng hợp: thu nhập quốc dân tính bằng tiền tăng 50% trong khi giá tăng 60% là nghèo đi chứ không giàu lên.
 
@@ -326,7 +336,9 @@ Hazlitt đi thêm một bước: sẽ không chỉ có khác biệt trong cơ c�
 
 Tất cả điều này nằm sẵn trong phân công lao động hiện đại và trong một nền kinh tế trao đổi.
 
-Hazlitt thừa nhận sự thật cơ bản này bị che khuất với phần lớn người (kể cả vài nhà kinh tế được coi là xuất sắc) bởi những yếu tố phức tạp như việc trả lương, và việc gần như mọi trao đổi hiện đại đều diễn ra gián tiếp qua trung gian là tiền. John Stuart Mill và các tác giả cổ điển khác, dù đôi khi chưa tính đủ những hệ quả phức tạp của việc dùng tiền, ít nhất đã nhìn xuyên qua tấm màn tiền tệ tới thực chất bên dưới. Ở mức đó, họ đi trước nhiều người phê phán họ ngày nay, những người "bị tiền làm rối chứ không được tiền dạy". Lạm phát đơn thuần, tức chỉ phát hành thêm tiền với hệ quả là lương và giá cao hơn, có thể trông như tạo thêm cầu. Nhưng tính bằng sản xuất và trao đổi những thứ thật thì không. Thế nhưng sự sụt giảm của cầu sau chiến tranh có thể bị che khuất với nhiều người bởi ảo giác do lương danh nghĩa cao hơn, trong khi giá cả còn tăng nhiều hơn.
+Hazlitt thừa nhận sự thật cơ bản này bị che khuất với phần lớn người (kể cả vài nhà kinh tế được coi là xuất sắc) bởi những yếu tố phức tạp như việc trả lương, và việc gần như mọi trao đổi hiện đại đều diễn ra gián tiếp qua trung gian là tiền. John Stuart Mill và các tác giả cổ điển khác, dù đôi khi chưa tính đủ những hệ quả phức tạp của việc dùng tiền, ít nhất đã nhìn xuyên qua tấm màn tiền tệ tới thực chất bên dưới. Ở mức đó, họ đi trước nhiều người phê phán họ ngày nay, những người "bị tiền làm rối chứ không được tiền dạy".
+
+Lạm phát đơn thuần, tức chỉ phát hành thêm tiền với hệ quả là lương và giá cao hơn, có thể trông như tạo thêm cầu. Nhưng tính bằng sản xuất và trao đổi những thứ thật thì không. Thế nhưng sự sụt giảm của cầu sau chiến tranh có thể bị che khuất với nhiều người bởi ảo giác do lương danh nghĩa cao hơn, trong khi giá cả còn tăng nhiều hơn.
 
 ### 8. Đoạn 11: trường hợp cực đoan: nước Anh bị phá huỷ toàn bộ
 
@@ -348,7 +360,11 @@ Hazlitt kết bằng việc liệt kê những yếu tố có thể bù trừ:
 
 Nhưng niềm tin rằng có thể tạo ra một sự thịnh vượng thật sự nhờ "cầu thay thế" cho những thứ bị phá huỷ hoặc không làm ra được trong chiến tranh, dù vậy, vẫn là một ngụy biện rõ ràng.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một doanh nghiệp bán điều hoà thấy doanh số mùa hè tăng gấp đôi sau khi một đợt nắng nóng kỷ lục làm nhiều máy cũ hỏng. Ban giám đốc có thể đọc đó là "thị trường tăng trưởng" và mở thêm một nhà máy. Bài học của chương: đây là cầu thay thế một lần (cửa sổ vỡ), được trả bằng tiền mà các gia đình lẽ ra dùng cho thứ khác (thợ may); khi số máy hỏng đã được thay xong, doanh số sẽ trở lại mức cũ, thậm chí thấp hơn trong vài năm vì nhiều nhà vừa mua máy mới. Nhà máy mới sẽ là "ngành được ưu ái tạm thời phải co lại". Tương tự, sau một đại dịch hay một đợt phong toả, doanh số du lịch, nhà hàng có thể tăng vọt vì "cầu bị dồn nén"; doanh nghiệp nào lập kế hoạch dựa trên đỉnh đó như mức bình thường mới sẽ thừa công suất khi nó qua đi.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một doanh nghiệp bán điều hoà thấy doanh số mùa hè tăng gấp đôi sau khi một đợt nắng nóng kỷ lục làm nhiều máy cũ hỏng. Ban giám đốc có thể đọc đó là "thị trường tăng trưởng" và mở thêm một nhà máy.
+
+Bài học của chương: đây là cầu thay thế một lần (cửa sổ vỡ), được trả bằng tiền mà các gia đình lẽ ra dùng cho thứ khác (thợ may); khi số máy hỏng đã được thay xong, doanh số sẽ trở lại mức cũ, thậm chí thấp hơn trong vài năm vì nhiều nhà vừa mua máy mới. Nhà máy mới sẽ là "ngành được ưu ái tạm thời phải co lại".
+
+Tương tự, sau một đại dịch hay một đợt phong toả, doanh số du lịch, nhà hàng có thể tăng vọt vì "cầu bị dồn nén"; doanh nghiệp nào lập kế hoạch dựa trên đỉnh đó như mức bình thường mới sẽ thừa công suất khi nó qua đi.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -451,15 +467,23 @@ Câu chuyện quen thuộc là Thế chiến II đưa Mỹ ra khỏi Đại suy 
 
 ### Nhưng ở Mỹ, "cầu tích tụ" có một phần là sức mua thật mà Hazlitt chưa nói đủ
 
-Sau chiến tranh, Mỹ không bị phá năng lực sản xuất như châu Âu; ngược lại, công suất công nghiệp tăng. Trong chiến tranh, hộ gia đình bị hạn chế mua hàng nên tích luỹ một lượng lớn tiền tiết kiệm và trái phiếu chiến tranh. Năm 1946–1948, họ chi số tiền đó cho ô tô, nhà, đồ gia dụng, và kinh tế Mỹ không rơi vào suy thoái như nhiều nhà kinh tế theo Keynes dự đoán. Đây là cầu tích tụ có sức mua thật, không chỉ là ảo giác. Lập luận của Hazlitt vẫn đúng ở chỗ quan trọng nhất: khoản tiết kiệm đó là tiêu dùng người dân đã nhịn trong chiến tranh, chứ không phải của cải mà chiến tranh tạo ra; người Mỹ không giàu hơn so với khi không có chiến tranh, họ chỉ đang dùng muộn những gì đã nhịn. Nhưng khẳng định "ở hầu hết các nước tổng cầu sẽ co lại" cần được đọc là đúng với những nước bị phá huỷ (châu Âu, Nhật, Trung Quốc), không phải với Mỹ.
+Sau chiến tranh, Mỹ không bị phá năng lực sản xuất như châu Âu; ngược lại, công suất công nghiệp tăng. Trong chiến tranh, hộ gia đình bị hạn chế mua hàng nên tích luỹ một lượng lớn tiền tiết kiệm và trái phiếu chiến tranh. Năm 1946–1948, họ chi số tiền đó cho ô tô, nhà, đồ gia dụng, và kinh tế Mỹ không rơi vào suy thoái như nhiều nhà kinh tế theo Keynes dự đoán. Đây là cầu tích tụ có sức mua thật, không chỉ là ảo giác.
+
+Lập luận của Hazlitt vẫn đúng ở chỗ quan trọng nhất: khoản tiết kiệm đó là tiêu dùng người dân đã nhịn trong chiến tranh, chứ không phải của cải mà chiến tranh tạo ra; người Mỹ không giàu hơn so với khi không có chiến tranh, họ chỉ đang dùng muộn những gì đã nhịn. Nhưng khẳng định "ở hầu hết các nước tổng cầu sẽ co lại" cần được đọc là đúng với những nước bị phá huỷ (châu Âu, Nhật, Trung Quốc), không phải với Mỹ.
 
 ### "Phép màu" Đức và Nhật làm phức tạp câu chuyện, nhưng không biến tàn phá thành phúc lành
 
-Đức và Nhật, hai nước bị phá huỷ nặng nhất, lại tăng trưởng nhanh nhất trong hai thập kỷ sau. Có ba cách giải thích, và không cách nào ủng hộ ý "tàn phá là phúc lành". Một: tăng trưởng bắt kịp; nước mất vốn tăng trưởng nhanh để quay về quỹ đạo cũ (mô hình Solow), nhưng mức thu nhập vẫn thấp hơn so với khi không có chiến tranh. Hai: cải cách thể chế sau chiến tranh (cải cách tiền tệ và bỏ kiểm soát giá ở Tây Đức năm 1948, theo hướng Hazlitt ủng hộ; cải cách ruộng đất và giải thể các tập đoàn ở Nhật). Ba: Mancur Olson (*The Rise and Decline of Nations*, 1982) cho rằng chiến tranh và chiếm đóng đã phá vỡ các nhóm lợi ích đặc biệt đã bám rễ, và điều đó giải phóng tăng trưởng. Giải thích thứ ba thú vị vì nó nối với Chương 1 của Hazlitt: thứ có lợi không phải là sự tàn phá vật chất, mà là việc xoá bỏ các nhóm lợi ích, điều về nguyên tắc có thể làm được bằng cải cách chứ không cần chiến tranh.
+Đức và Nhật, hai nước bị phá huỷ nặng nhất, lại tăng trưởng nhanh nhất trong hai thập kỷ sau. Có ba cách giải thích, và không cách nào ủng hộ ý "tàn phá là phúc lành".
+
+Một: tăng trưởng bắt kịp; nước mất vốn tăng trưởng nhanh để quay về quỹ đạo cũ (mô hình Solow), nhưng mức thu nhập vẫn thấp hơn so với khi không có chiến tranh. Hai: cải cách thể chế sau chiến tranh (cải cách tiền tệ và bỏ kiểm soát giá ở Tây Đức năm 1948, theo hướng Hazlitt ủng hộ; cải cách ruộng đất và giải thể các tập đoàn ở Nhật).
+
+Ba: Mancur Olson (*The Rise and Decline of Nations*, 1982) cho rằng chiến tranh và chiếm đóng đã phá vỡ các nhóm lợi ích đặc biệt đã bám rễ, và điều đó giải phóng tăng trưởng. Giải thích thứ ba thú vị vì nó nối với Chương 1 của Hazlitt: thứ có lợi không phải là sự tàn phá vật chất, mà là việc xoá bỏ các nhóm lợi ích, điều về nguyên tắc có thể làm được bằng cải cách chứ không cần chiến tranh.
 
 ### Định luật Say là điểm Hazlitt đối đầu trực tiếp với kinh tế học Keynes, và cả hai bên đều đúng một phần
 
-"Cung chính là cầu" đúng ở cấp độ sâu nhất: một xã hội không thể tiêu dùng nhiều hơn nó sản xuất (cộng với vay nợ nước ngoài), và phá năng lực sản xuất là phá sức mua. Keynes không phủ nhận điều này về dài hạn. Điểm Keynes chỉ ra là: trong một nền kinh tế dùng tiền, người ta có thể bán hàng mà không mua lại ngay (giữ tiền), nên trong ngắn hạn có thể có tình trạng hàng làm ra không bán được và người muốn làm không có việc. Hazlitt thừa nhận tiền "che khuất" sự thật, và có ghi rằng các nhà cổ điển đôi khi chưa tính đủ những hệ quả phức tạp của việc dùng tiền, nhưng trong chương này ông không bàn khả năng tiền tạm thời phá vỡ quan hệ cung–cầu. Với mục đích của chương này (bác bỏ ý tàn phá có lợi), phiên bản của Hazlitt đủ dùng: ngay cả trong mô hình Keynes, phá năng lực sản xuất không bao giờ là cách tốt để giải quyết thiếu cầu.
+"Cung chính là cầu" đúng ở cấp độ sâu nhất: một xã hội không thể tiêu dùng nhiều hơn nó sản xuất (cộng với vay nợ nước ngoài), và phá năng lực sản xuất là phá sức mua. Keynes không phủ nhận điều này về dài hạn. Điểm Keynes chỉ ra là: trong một nền kinh tế dùng tiền, người ta có thể bán hàng mà không mua lại ngay (giữ tiền), nên trong ngắn hạn có thể có tình trạng hàng làm ra không bán được và người muốn làm không có việc.
+
+Hazlitt thừa nhận tiền "che khuất" sự thật, và có ghi rằng các nhà cổ điển đôi khi chưa tính đủ những hệ quả phức tạp của việc dùng tiền, nhưng trong chương này ông không bàn khả năng tiền tạm thời phá vỡ quan hệ cung–cầu. Với mục đích của chương này (bác bỏ ý tàn phá có lợi), phiên bản của Hazlitt đủ dùng: ngay cả trong mô hình Keynes, phá năng lực sản xuất không bao giờ là cách tốt để giải quyết thiếu cầu.
 
 ### Vận dụng: phân biệt cầu thay thế một lần với tăng trưởng thật trước khi đầu tư hay mở rộng
 
@@ -467,3 +491,157 @@ Sau chiến tranh, Mỹ không bị phá năng lực sản xuất như châu Âu
 - **Trong đầu tư.** Một công ty báo doanh thu tăng 30% trong năm lạm phát 25% thực ra chỉ tăng khoảng 4% về lượng. Đọc báo cáo tài chính trong thời kỳ giá tăng, cần trừ lạm phát trước khi nói tới tăng trưởng. Tương tự với "thu nhập quốc dân" hay "tổng mức bán lẻ" tính bằng tiền: số danh nghĩa tăng không có nghĩa là người dân mua được nhiều hơn.
 - **Trong nghề nghiệp và tài chính cá nhân.** Lương tăng 10% trong năm giá cả tăng 12% là giảm lương. Thói quen nghĩ bằng sức mua (lương này mua được bao nhiêu thứ mình cần) thay vì con số tiền là cách tránh ảo giác tiền tệ ở cấp cá nhân.
 - **Khi đọc tin chính sách.** Ở Việt Nam cũng như mọi nơi, sau một đợt thiên tai lớn hay một giai đoạn khó khăn, thường có những nhận định rằng tái thiết, đầu tư công hay "nhu cầu bị dồn nén" sẽ là động lực tăng trưởng. Bài học của chương gợi ba câu hỏi: nhu cầu đó có đi kèm sức mua không (ai trả tiền); tiền đó lấy từ việc gì khác; và tăng trưởng đo bằng con số danh nghĩa hay thực. Tái thiết là cần thiết, nhưng nó là chi phí để quay về điểm cũ, không phải nguồn của cải mới.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: bảy nhánh lớn, năm nhánh đầu đi theo các mục 1–9 của phần Nội dung chi tiết (ngụy biện cửa sổ vỡ ở quy mô chiến tranh, nhầm nhu cầu với cầu và sức mua với tiền, cầu chuyển hướng chứ không tăng, tổng cầu co lại vì cung chính là cầu, yếu tố bù trừ và kết luận), tiếp theo là phần Đánh giá, mỗi nhánh ghi lập luận, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: chiến tranh và tàn phá không tạo ra thịnh vượng, kể cả qua cầu tích tụ sau chiến tranh`"]
+  n1["`Mục 1–2 — Ngụy biện cửa sổ vỡ phóng lên quy mô chiến tranh`"]
+  n0 --- n1
+  n2["`Ngụy biện cửa sổ vỡ sơ đẳng, nhưng dưới hàng trăm lớp ngụy trang là dai dẳng nhất lịch sử kinh tế học`"]
+  n1 --- n2
+  n3["`Trùm công nghiệp, phòng thương mại, công đoàn, báo chí, nhà thống kê, giáo sư kinh tế đều ca ngợi tàn phá`"]
+  n1 --- n3
+  n4["`Người tổng hợp: Hazlitt không quy ngụy biện cho riêng một phe nào`"]
+  n3 --- n4
+  n5["`Họ tin về kinh tế mọi người khá hơn khi có chiến tranh và thấy những phép màu sản xuất`"]
+  n1 --- n5
+  n6["`Cầu tích tụ: châu Âu đếm nhà và cả thành phố bị san phẳng sẽ phải được thay thế`"]
+  n1 --- n6
+  n7["`Mỹ đếm nhà không xây được, tất nylon, ô tô và lốp mòn, radio và tủ lạnh lỗi thời`"]
+  n1 --- n7
+  n8["`Hazlitt: chỉ là người bạn cũ, ngụy biện cửa sổ vỡ mặc áo mới, béo phì đến mức không nhận ra`"]
+  n1 --- n8
+  n9["`Mục 3–4 — Nhầm nhu cầu với cầu, nhầm sức mua với tiền`"]
+  n0 --- n9
+  n10["`Chiến tranh càng phá nhiều càng làm nghèo, nên nhu cầu sau chiến tranh càng lớn`"]
+  n9 --- n10
+  n11["`Nhu cầu không phải là cầu: cầu kinh tế hữu hiệu cần cả sức mua tương ứng`"]
+  n9 --- n11
+  n12["`Trung Quốc 1946 cần nhiều hơn Mỹ không gì so sánh nổi, sức mua nhỏ hơn không gì so sánh nổi`"]
+  n11 --- n12
+  n13["`Minh hoạ: gia đình cần nhà 500 triệu đồng nhưng chỉ có 50 triệu thì cầu chỉ là 50 triệu`"]
+  n11 --- n13
+  n14["`Phe cửa sổ vỡ nghĩ về sức mua chỉ bằng tiền, mà tiền có thể chạy ra từ máy in`"]
+  n9 --- n14
+  n15["`Lúc Hazlitt viết, đo sản phẩm bằng tiền thì in tiền là ngành lớn nhất thế giới`"]
+  n14 --- n15
+  n16["`In càng nhiều tiền, mỗi đơn vị tiền càng mất giá, đo được qua giá hàng hoá tăng`"]
+  n9 --- n16
+  n17["`Ảo giác tiền tệ: thấy con số tiền tăng tưởng mình khá hơn dù mua được ít hơn`"]
+  n9 --- n17
+  n18["`Phần lớn kết quả tốt gán cho chiến tranh là do lạm phát thời chiến, lạm phát thời bình cũng tạo ra được`"]
+  n9 --- n18
+  n19["`Mục 5–6 — Nửa sự thật: cầu chuyển hướng, không tăng thêm`"]
+  n0 --- n19
+  n20["`Như thợ kính có việc, tàn phá chiến tranh thật sự tạo thêm việc cho ngành xây dựng`"]
+  n19 --- n20
+  n21["`Ô tô, radio, tủ lạnh không làm được trong chiến tranh nên cầu dồn lại cho đúng các thứ đó`"]
+  n19 --- n21
+  n22["`Tính bằng đô la đã mất sức mua thì tổng cầu có thể trông như tăng`"]
+  n19 --- n22
+  n23["`Người châu Âu buộc xây thêm nhà nên còn ít lao động, năng lực và sức mua cho mọi thứ khác`"]
+  n19 --- n23
+  n24["`Làm ăn tăng ở hướng này thì phải giảm tương ứng ở hướng khác`"]
+  n19 --- n24
+  n25["`Ngoại lệ duy nhất: thiếu thốn cấp bách khiến người ta làm việc hăng hơn`"]
+  n24 --- n25
+  n26["`Chiến tranh đổi hướng nỗ lực sản xuất, cân đối giữa các ngành và cơ cấu công nghiệp`"]
+  n19 --- n26
+  n27["`Khi cầu tích tụ đã bù xong, các ngành được ưu ái tạm thời phải co lại`"]
+  n19 --- n27
+  n28["`Mục 7–8 — Tổng cầu co lại vì cung chính là cầu`"]
+  n0 --- n28
+  n29["`Ở hầu hết các nước, tổng cầu sau chiến tranh co lại chứ không chỉ chuyển hướng`"]
+  n28 --- n29
+  n30["`Cung và cầu là hai mặt một đồng xu: cung tạo ra cầu vì về bản chất cung chính là cầu`"]
+  n28 --- n30
+  n31["`Lúa mì nông dân cung cấp là cầu của họ về ô tô, ô tô là cầu của ngành ô tô về lúa mì`"]
+  n30 --- n31
+  n32["`Việc trả lương và trao đổi qua tiền che khuất sự thật này, kể cả với vài nhà kinh tế xuất sắc`"]
+  n28 --- n32
+  n33["`Mill và các nhà cổ điển nhìn xuyên tấm màn tiền tệ, người phê phán họ bị tiền làm rối`"]
+  n32 --- n33
+  n34["`Lương danh nghĩa cao hơn che đi việc giá còn tăng nhiều hơn lương`"]
+  n32 --- n34
+  n35["`Đức và Nhật: hàng chục thành phố lớn bị san phẳng, cầu co lại tuyệt đối`"]
+  n28 --- n35
+  n36["`Thí nghiệm: nước Anh mất hết thành phố, nhà máy, vốn, tụt xuống mức sống Trung Quốc`"]
+  n28 --- n36
+  n37["`Khi đó không ai nói cầu tích tụ: sức mua bị xoá đúng bằng năng lực sản xuất bị xoá`"]
+  n36 --- n37
+  n38["`Lạm phát nghìn lần làm thu nhập quốc dân tính bằng tiền cao hơn, tin mình giàu hơn là ngoài tầm lý lẽ`"]
+  n36 --- n38
+  n39["`Người tổng hợp: phá huỷ 100% là thảm hoạ thì phá huỷ 20% không thể là phúc lành`"]
+  n36 --- n39
+  n40["`Mục 9 — Yếu tố bù trừ và kết luận`"]
+  n0 --- n40
+  n41["`Phát minh, tiến bộ kỹ thuật thời chiến có thể tăng năng suất ở chỗ này chỗ kia`"]
+  n40 --- n41
+  n42["`Tàn phá chuyển hướng cầu, một số người bị lừa mãi bởi lương và giá tăng do in tiền`"]
+  n40 --- n42
+  n43["`Thịnh vượng thật nhờ cầu thay thế cho những thứ bị phá huỷ vẫn là một ngụy biện rõ ràng`"]
+  n40 --- n43
+  n44["`Ví dụ hôm nay: doanh số điều hoà gấp đôi sau nắng nóng là cầu thay thế một lần`"]
+  n40 --- n44
+  n45["`Mở thêm nhà máy theo đỉnh đó sẽ thừa công suất khi số máy hỏng đã thay xong`"]
+  n44 --- n45
+  n46["`Đánh giá — Hazlitt đúng ở đâu, cần bổ sung ở đâu`"]
+  n0 --- n46
+  n47["`Robert Higgs (1992): mức sống thật của dân Mỹ không tăng trong Thế chiến II`"]
+  n46 --- n47
+  n48["`GDP thời chiến phần lớn là vũ khí, thất nghiệp giảm vì hàng triệu người vào quân đội`"]
+  n47 --- n48
+  n49["`Mỹ 1946–1948: tiết kiệm thời chiến là cầu tích tụ có sức mua thật, nhưng là tiêu dùng đã nhịn`"]
+  n46 --- n49
+  n50["`Tổng cầu co lại đúng với nước bị phá huỷ (châu Âu, Nhật, Trung Quốc), không với Mỹ`"]
+  n49 --- n50
+  n51["`Phép màu Đức, Nhật là tăng trưởng bắt kịp kiểu Solow, mức thu nhập vẫn thấp hơn khi không có chiến tranh`"]
+  n46 --- n51
+  n52["`Thêm cải cách tiền tệ Tây Đức 1948, cải cách ruộng đất Nhật, Olson (1982): phá vỡ nhóm lợi ích`"]
+  n51 --- n52
+  n53["`Keynes: tiền có thể bị giữ nên ngắn hạn thiếu cầu, nhưng phá năng lực sản xuất không bao giờ là cách chữa`"]
+  n46 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Tái thiết là chi phí để quay về điểm cũ, không phải nguồn của cải mới`"]
+  n54 --- n55
+  n56["`Trước khi mở rộng, hỏi doanh số tăng là cầu tích tụ hay cầu mới`"]
+  n54 --- n56
+  n57["`Doanh thu tăng 30% khi lạm phát 25% chỉ là tăng khoảng 4% về lượng`"]
+  n54 --- n57
+  n58["`Lương tăng 10% khi giá tăng 12% là giảm lương: hãy nghĩ bằng sức mua, không bằng con số tiền`"]
+  n54 --- n58
+  class n0 root
+  class n1,n9,n19,n28,n40,n46,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 3 "The Blessings of Destruction". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 trình bày ngụy biện cửa sổ vỡ ở quy mô nhỏ nhất (một tấm kính, 50 USD). Chương 3 phóng nó lên quy mô lớn nhất: chiến tranh tàn phá cả thành phố, và niềm tin rằng nhu cầu thay thế sau chiến tranh sẽ mang lại thịnh vượng.
+
+Chương này cũng giới thiệu ba công cụ sẽ dùng lại nhiều lần ở các chương sau: phân biệt nhu cầu với cầu có sức mua; ảo giác tiền tệ do lạm phát (sẽ được phân tích kỹ ở Chương 22 "The Mirage of Inflation"); và mệnh đề "cung chính là cầu" (định luật Say). Ngay sau đó, Chương 4 chuyển sang công trình công cộng.
+
+## Lưu ý
+
+- Chương viết đầu năm 1946, vài tháng sau khi Thế chiến II kết thúc. Bối cảnh: ở Mỹ, nhiều nhà kinh tế và doanh nhân tin rằng nhu cầu bị dồn nén trong chiến tranh (ô tô, tủ lạnh, radio, tất nylon không được sản xuất cho dân sự từ 1942) cộng với tiền tiết kiệm từ trái phiếu chiến tranh sẽ tạo ra một đợt bùng nổ; một nhóm khác (theo Keynes) lại lo thất nghiệp hàng loạt khi chi tiêu quân sự giảm. Ở châu Âu, Đức và Nhật, nhiều thành phố bị san phẳng. Trung Quốc năm 1946 vừa ra khỏi chiến tranh với Nhật, đang bước vào nội chiến và siêu lạm phát.
+- Các kiểm soát giá thời chiến của Mỹ được dỡ bỏ phần lớn trong năm 1946, và lạm phát bùng lên trong 1946–1947, đúng như Hazlitt cảnh báo về ảo giác tiền tệ.
+- Về sau, Đức và Nhật tăng trưởng rất nhanh trong thập niên 1950–1960 ("phép màu kinh tế"); điều này không bác bỏ Hazlitt (họ tăng trưởng từ một mức thấp hơn trước chiến tranh), nhưng làm phức tạp thêm câu chuyện, xem phần Đánh giá.
+- Hazlitt dùng chữ "nhu cầu" (*need*) và "cầu" (*demand*) theo hai nghĩa khác nhau; bản tổng hợp giữ đúng sự phân biệt đó.
+- Các câu trích là bản dịch của người tổng hợp.

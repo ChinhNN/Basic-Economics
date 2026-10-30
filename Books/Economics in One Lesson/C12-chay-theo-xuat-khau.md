@@ -1,11 +1,16 @@
 # Chương 12 — Chạy theo xuất khẩu (The Drive for Exports)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 12 "The Drive for Exports". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 11 chỉ ra rằng thuế quan, khi chặn hàng nhập, cũng lấy mất đô la mà người nước ngoài cần để mua hàng Mỹ. Chương 12 đi tiếp từ đó: nếu nhập khẩu và xuất khẩu gắn liền nhau, thì vừa sợ nhập khẩu vừa khao khát xuất khẩu là mâu thuẫn. Chương này áp dụng "bài học" (Chương 1) vào hai cách "đẩy" xuất khẩu phổ biến sau Thế chiến II: chính phủ cho nước ngoài vay những khoản khó đòi để họ mua hàng Mỹ, và trợ cấp xuất khẩu. Nó cũng nối với Chương 6 (tín dụng chính phủ làm lệch hướng sản xuất) ở chỗ cả hai chương đều hỏi ai rốt cuộc trả tiền cho khoản cho vay của chính phủ. Chương 13 chuyển sang một nhóm lợi ích đặc biệt khác: nông dân đòi giá ngang giá (parity).
-**Ý chính:** Hazlitt muốn chứng minh rằng một nước không thể giàu lên bằng cách cho đi hàng hoá. Ông lập luận theo hai bước. Bước một: trong dài hạn, xuất khẩu và nhập khẩu (tính cả khoản "vô hình" như chi tiêu du lịch, cước vận tải biển) phải bằng nhau, vì xuất khẩu được trả bằng nhập khẩu; nhà xuất khẩu Mỹ nhận bảng Anh thì số bảng Anh ấy chỉ có ích khi được dùng để mua hàng Anh, do chính ông hoặc do một nhà nhập khẩu Mỹ mua lại chúng. Bước hai: cho nước ngoài vay để họ mua hàng Mỹ mà không đòi được nợ thì thực chất là tặng hàng. Ví dụ: hãng ô tô cho một người vay 1.000 USD để mua chiếc xe giá 1.000 USD, chi phí làm xe 900 USD, người đó chỉ trả 500 USD; hãng lỗ ròng 400 USD, dù đã "bán" được xe. Ở cấp quốc gia, nhà xuất khẩu có thể được lợi, nhưng người đóng thuế trả nợ xấu, và mỗi đô la thêm cho người mua nước ngoài là một đô la bớt đi của người mua trong nước. Trợ cấp xuất khẩu cũng vậy: bán cho người nước ngoài rẻ hơn chi phí tức là cho họ không một phần.
+## Ý chính
 
-> **Lưu ý:** (1) Bối cảnh: năm 1945–1946 Mỹ đang tranh luận về các khoản cho vay lớn để tái thiết châu Âu, tiêu biểu là khoản vay cho Anh (*Anglo-American Loan*) ký cuối 1945, được Quốc hội thông qua năm 1946, cùng với việc mở rộng Ngân hàng Xuất nhập khẩu Mỹ (*Export-Import Bank*). Một lý lẽ hay được viện ra là các khoản vay này sẽ "giữ cho nhà máy Mỹ chạy" sau chiến tranh. Kế hoạch Marshall (1948) ra đời sau khi sách xuất bản; năm 1947 Hazlitt viết hẳn một cuốn sách phê phán nó (*Will Dollars Save the World?*). (2) Hệ thống tiền tệ khi đó là Bretton Woods (1944): đô la gắn với vàng, các đồng tiền khác gắn với đô la, và nhiều nước còn kiểm soát ngoại hối chặt. Đoạn Hazlitt nói về vàng phải đọc trong bối cảnh này. (3) Khẳng định "trong dài hạn xuất khẩu và nhập khẩu phải bằng nhau" chỉ đúng khi tính cả dòng vốn (cho vay, đầu tư, mua tài sản). Từ thập niên 1970 Mỹ thâm hụt thương mại gần như liên tục, vì người nước ngoài dùng đô la mua trái phiếu, cổ phiếu, bất động sản Mỹ thay vì mua hàng; Hazlitt gạt các khoản này sang một bên khi lập luận (xem phần Đánh giá). (4) Câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng một nước không thể giàu lên bằng cách cho đi hàng hoá. Ông lập luận theo hai bước.
+
+Bước một: trong dài hạn, xuất khẩu và nhập khẩu (tính cả khoản "vô hình" như chi tiêu du lịch, cước vận tải biển) phải bằng nhau, vì xuất khẩu được trả bằng nhập khẩu. Nhà xuất khẩu Mỹ nhận bảng Anh thì số bảng Anh ấy chỉ có ích khi được dùng để mua hàng Anh, do chính ông hoặc do một nhà nhập khẩu Mỹ mua lại chúng.
+
+Bước hai: cho nước ngoài vay để họ mua hàng Mỹ mà không đòi được nợ thì thực chất là tặng hàng. Ví dụ: hãng ô tô cho một người vay 1.000 USD để mua chiếc xe giá 1.000 USD, chi phí làm xe 900 USD, người đó chỉ trả 500 USD; hãng lỗ ròng 400 USD, dù đã "bán" được xe.
+
+Ở cấp quốc gia, nhà xuất khẩu có thể được lợi, nhưng người đóng thuế trả nợ xấu, và mỗi đô la thêm cho người mua nước ngoài là một đô la bớt đi của người mua trong nước.
+
+Trợ cấp xuất khẩu cũng vậy: bán cho người nước ngoài rẻ hơn chi phí tức là cho họ không một phần.
 
 ## Sơ đồ
 
@@ -244,7 +249,9 @@ Không ai nghi ngờ điều này khi áp vào một doanh nghiệp. Ví dụ c�
 
 Công ty không khá hơn vì đã "bán" được xe. Nếu không ai trả gì, nó mất đúng chi phí làm xe, 900 USD. Thương mại không bù được cái mất vì nợ xấu.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một doanh nghiệp phân phối vật liệu xây dựng muốn đạt chỉ tiêu doanh số quý, nên cho các đại lý cấp hai nhận hàng trả chậm 180 ngày. Doanh số quý tăng từ 50 tỷ đồng lên 80 tỷ đồng, báo cáo đẹp, nhân viên kinh doanh được thưởng. Giá vốn của 30 tỷ doanh số tăng thêm là 25 tỷ. Sáu tháng sau, một nửa số đại lý không trả nổi, công ty thu về 15 tỷ trong 30 tỷ. So với không bán thêm: công ty bỏ ra 25 tỷ giá vốn, thu về 15 tỷ, lỗ 10 tỷ, chưa kể chi phí vốn và tiền thưởng đã chi. Ở cấp ngành, hiện tượng này có tên gọi là "tài trợ nhà cung cấp" (*vendor financing*): khoảng năm 2000, một số hãng thiết bị viễn thông lớn ở Mỹ và Canada đã cho các công ty viễn thông mới vay để mua thiết bị của chính họ, rồi chịu lỗ nặng khi các khách hàng đó phá sản trong đợt đổ vỡ dot-com.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một doanh nghiệp phân phối vật liệu xây dựng muốn đạt chỉ tiêu doanh số quý, nên cho các đại lý cấp hai nhận hàng trả chậm 180 ngày. Doanh số quý tăng từ 50 tỷ đồng lên 80 tỷ đồng, báo cáo đẹp, nhân viên kinh doanh được thưởng. Giá vốn của 30 tỷ doanh số tăng thêm là 25 tỷ. Sáu tháng sau, một nửa số đại lý không trả nổi, công ty thu về 15 tỷ trong 30 tỷ. So với không bán thêm: công ty bỏ ra 25 tỷ giá vốn, thu về 15 tỷ, lỗ 10 tỷ, chưa kể chi phí vốn và tiền thưởng đã chi.
+
+Ở cấp ngành, hiện tượng này có tên gọi là "tài trợ nhà cung cấp" (*vendor financing*): khoảng năm 2000, một số hãng thiết bị viễn thông lớn ở Mỹ và Canada đã cho các công ty viễn thông mới vay để mua thiết bị của chính họ, rồi chịu lỗ nặng khi các khách hàng đó phá sản trong đợt đổ vỡ dot-com.
 
 ### 4. Ở cấp quốc gia: ai được lợi, ai trả tiền (đoạn 11 đến hết chương)
 
@@ -359,7 +366,9 @@ Phép tính 900 − 500 = 400 USD làm rõ một điều mà thống kê xuất 
 
 ### "Trong dài hạn xuất khẩu bằng nhập khẩu" chỉ đúng nếu tính cả dòng vốn, và "dài hạn" có thể rất dài
 
-Hazlitt gạt "cho vay, tín dụng, chuyển vàng" sang một bên ở Chương 11 và chỉ ngầm thừa nhận chúng ở đây. Nhưng chính các khoản đó quyết định thời gian cán cân thương mại lệch được bao lâu. Mỹ từ thập niên 1970 thâm hụt thương mại gần như liên tục, vì đô la là đồng tiền dự trữ: người nước ngoài sẵn lòng giữ đô la và tài sản Mỹ thay vì mua hàng Mỹ. Ngược lại, một số nền kinh tế xuất siêu kéo dài nhiều thập kỷ, tích luỹ tài sản ở nước ngoài. Đồng nhất thức của Hazlitt vẫn đúng ở dạng đầy đủ (tài khoản vãng lai bằng âm tài khoản vốn), nhưng câu "không nhập khẩu thì không xuất khẩu được" mô tả đúng bản chất hơn là mô tả đúng thời gian. Điều đáng lưu ý là chính trường hợp xuất siêu kéo dài nhờ tích tài sản nước ngoài lại rơi vào cảnh báo của Hazlitt: nếu tài sản ấy mất giá hoặc không đòi được, hàng xuất đi đã thành hàng cho không.
+Hazlitt gạt "cho vay, tín dụng, chuyển vàng" sang một bên ở Chương 11 và chỉ ngầm thừa nhận chúng ở đây. Nhưng chính các khoản đó quyết định thời gian cán cân thương mại lệch được bao lâu. Mỹ từ thập niên 1970 thâm hụt thương mại gần như liên tục, vì đô la là đồng tiền dự trữ: người nước ngoài sẵn lòng giữ đô la và tài sản Mỹ thay vì mua hàng Mỹ. Ngược lại, một số nền kinh tế xuất siêu kéo dài nhiều thập kỷ, tích luỹ tài sản ở nước ngoài.
+
+Đồng nhất thức của Hazlitt vẫn đúng ở dạng đầy đủ (tài khoản vãng lai bằng âm tài khoản vốn), nhưng câu "không nhập khẩu thì không xuất khẩu được" mô tả đúng bản chất hơn là mô tả đúng thời gian. Điều đáng lưu ý là chính trường hợp xuất siêu kéo dài nhờ tích tài sản nước ngoài lại rơi vào cảnh báo của Hazlitt: nếu tài sản ấy mất giá hoặc không đòi được, hàng xuất đi đã thành hàng cho không.
 
 ### Lập luận phụ thuộc vào giả định toàn dụng lao động, và Hazlitt không bàn trường hợp ngược lại
 
@@ -382,3 +391,144 @@ Bài học của chương áp dụng trực tiếp vào quản trị và đầu 
 - **Đàm phán với khách hàng lớn.** Khi một khách hàng hay một nhà phân phối đòi giãn kỳ thanh toán để "tăng đơn hàng", doanh nghiệp nên tính chi phí vốn và xác suất mất nợ như một ngân hàng, rồi mới so với biên lợi nhuận của đơn hàng.
 - **Đọc tin chính sách.** Khi một chương trình hỗ trợ xuất khẩu, tín dụng ưu đãi cho khách hàng nước ngoài, hay một gói vay liên chính phủ gắn với hợp đồng mua hàng được công bố, hãy hỏi ba câu: ai trả nếu khoản vay không được hoàn; doanh nghiệp bán trong nước mất gì vì thuế hay vì vốn bị kéo sang đó; và lợi ích được nêu có thật là kinh tế, hay là ngoại giao được đóng gói như kinh tế. Với các doanh nghiệp Việt Nam tham gia dự án dùng vốn vay ưu đãi của nước ngoài, cũng nên nhớ chiều ngược lại: khoản vay gắn điều kiện mua hàng của nước cho vay là cách nước đó "đẩy xuất khẩu" của họ.
 - **Xuất siêu không phải là điểm số.** Tin "xuất siêu kỷ lục" thường được đọc như thành tích. Theo Hazlitt, xuất siêu nghĩa là nước mình đang giao hàng ra mà chưa nhận hàng về, tức là đang cho nước ngoài vay hoặc tích tài sản ở nước ngoài. Đó có thể là lựa chọn hợp lý, nhưng giá trị của nó tuỳ vào việc tài sản tích được có giữ được giá trị hay không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: sáu nhánh lớn, bốn nhánh đầu đi theo các mục 1–4 của phần Nội dung chi tiết (mâu thuẫn giữa sợ nhập khẩu và khao khát xuất khẩu, ngoại hối là phép bù trừ, cho nước ngoài vay để đẩy xuất khẩu, ai được ai mất ở cấp quốc gia và trợ cấp xuất khẩu), nhánh thứ năm theo phần Đánh giá, mỗi nhánh ghi ngụy biện bị bác bỏ, lập luận, ví dụ và con số của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: một nước không thể giàu lên bằng cách cho đi hàng hoá, dù gọi là cho vay hay trợ cấp xuất khẩu`"]
+  n1["`Mục 1 — Sợ nhập khẩu mà khao khát xuất khẩu là mâu thuẫn`"]
+  n0 --- n1
+  n2["`Ngụy biện bị bác bỏ: mọi nước vừa sợ nhập khẩu bệnh hoạn vừa khao khát xuất khẩu bệnh hoạn`"]
+  n1 --- n2
+  n3["`Trong dài hạn xuất khẩu bằng nhập khẩu, tính cả khoản vô hình như chi tiêu du lịch, cước vận tải biển`"]
+  n1 --- n3
+  n4["`Xuất khẩu trả cho nhập khẩu, nên quyết định cắt nhập khẩu cũng là quyết định cắt xuất khẩu`"]
+  n1 --- n4
+  n5["`Không nhập khẩu gì thì không xuất khẩu được, vì người nước ngoài không có tiền mua hàng ta`"]
+  n1 --- n5
+  n6["`Nhà xuất khẩu Mỹ nhận bảng Anh không dùng trả lương thợ, mua áo cho vợ hay vé xem hát được`"]
+  n1 --- n6
+  n7["`Bảng Anh chỉ có ích khi ông hoặc một nhà nhập khẩu Mỹ dùng nó mua hàng Anh`"]
+  n1 --- n7
+  n8["`Mục 2 — Ngoại hối là phép bù trừ, không có gì bí ẩn`"]
+  n0 --- n8
+  n9["`Nhà nhập khẩu Anh chỉ có đô la để trả nếu một nhà xuất khẩu Anh đã bán hàng cho Mỹ`"]
+  n8 --- n9
+  n10["`Ngoại hối: nợ đô la của người nước ngoài được trừ vào khoản có bằng đô la của họ`"]
+  n8 --- n10
+  n11["`Như thương mại trong nước: phải bán sức lao động mới có sức mua, séc bù trừ qua phòng thanh toán`"]
+  n8 --- n11
+  n12["`Dưới bản vị vàng, chênh lệch có thể trả bằng vàng, cũng như bằng bông, thép, whisky, nước hoa`"]
+  n8 --- n12
+  n13["`Vàng chỉ khác ở chỗ cầu gần như vô hạn và không nước nào dựng rào cản khi nhận vàng`"]
+  n8 --- n13
+  n14["`Mục 3 — Cho nước ngoài vay để đẩy xuất khẩu là cho không hàng`"]
+  n0 --- n14
+  n15["`Người tỉnh táo khi bàn thương mại trong nước lại cảm tính, rối trí khi bàn thương mại với nước ngoài`"]
+  n14 --- n15
+  n16["`Ngụy biện: dù mất nửa hay toàn bộ số cho vay, nước ta vẫn lợi vì xuất khẩu tăng mạnh`"]
+  n14 --- n16
+  n17["`Trả lời: khoản vay để mua hàng ta không được trả tức là ta đã cho không số hàng đó`"]
+  n14 --- n17
+  n18["`Công dân được tự cho vay ra nước ngoài và tự chịu rủi ro, chính phủ không nên cản tuỳ tiện`"]
+  n14 --- n18
+  n19["`Mỹ nên cho hào phóng vì nhân đạo, nhưng đừng tưởng từ thiện là thương vụ tỉnh táo`"]
+  n14 --- n19
+  n20["`Nhầm từ thiện thành thương vụ chỉ dẫn tới hiểu lầm và quan hệ xấu về sau`"]
+  n19 --- n20
+  n21["`Hãng ô tô cho một người vay 1.000 USD để mua chiếc xe 1.000 USD tốn 900 USD làm ra`"]
+  n14 --- n21
+  n22["`Người mua chỉ trả 500 USD: hãng lỗ 900 − 500 = 400 USD dù đã bán được xe`"]
+  n21 --- n22
+  n23["`Doanh số không bù được khoản mất do nợ xấu, không ai trả gì thì mất trọn 900 USD`"]
+  n21 --- n23
+  n24["`Phiên bản doanh nghiệp (người tổng hợp): tài trợ nhà cung cấp, hãng thiết bị viễn thông lỗ nặng khi dot-com đổ vỡ`"]
+  n14 --- n24
+  n25["`Mục 4 — Ở cấp quốc gia: ai được, ai trả tiền`"]
+  n0 --- n25
+  n26["`Người thông minh vẫn rối vì phải lần theo thêm vài bước, và một nhóm được lợi thật`"]
+  n25 --- n26
+  n27["`Được: người làm hoàn toàn hoặc chủ yếu trong ngành xuất khẩu có thể lợi ròng`"]
+  n25 --- n27
+  n28["`Mất: tư nhân cho vay chịu lỗ trực tiếp, nợ chính phủ được trả bằng thuế tăng đánh vào mọi người`"]
+  n25 --- n28
+  n29["`Thêm nhiều thiệt hại gián tiếp mà các khoản lỗ trực tiếp gây cho nền kinh tế`"]
+  n28 --- n29
+  n30["`Mỗi đô la thêm cho người mua nước ngoài là một đô la bớt đi của người mua trong nước`"]
+  n25 --- n30
+  n31["`Doanh nghiệp bán trong nước bị hại đúng bằng mức doanh nghiệp xuất khẩu được giúp`"]
+  n30 --- n31
+  n32["`Hãng ô tô Mỹ trước chiến tranh bán khoảng 10% sản lượng ra nước ngoài`"]
+  n25 --- n32
+  n33["`Doanh số nước ngoài gấp đôi mà mất 20% doanh số trong nước thì hãng không được lợi`"]
+  n32 --- n33
+  n34["`Trên 100 xe: nước ngoài 10 lên 20, trong nước 90 xuống 72, tổng giảm 8`"]
+  n32 --- n34
+  n35["`Trợ cấp xuất khẩu sai cùng lý do: bán dưới chi phí là cho người nước ngoài một phần hàng`"]
+  n25 --- n35
+  n36["`Cho nước ngoài vay không dại, nhưng không thể giàu lên nhờ các khoản vay xấu`"]
+  n25 --- n36
+  n37["`Đánh giá — Giới hạn của lập luận và cách vận dụng`"]
+  n0 --- n37
+  n38["`Xuất khẩu bằng nhập khẩu chỉ đúng khi tính cả dòng vốn: Mỹ thâm hụt thương mại gần như liên tục từ thập niên 1970`"]
+  n37 --- n38
+  n39["`Dạng đầy đủ: tài khoản vãng lai bằng âm tài khoản vốn`"]
+  n38 --- n39
+  n40["`Xuất siêu để tích tài sản nước ngoài, nếu tài sản mất giá thì hàng xuất đã thành hàng cho không`"]
+  n38 --- n40
+  n41["`Cần giả định toàn dụng: trong suy thoái chi phí thật của chiếc xe cho không thấp hơn 900 USD`"]
+  n37 --- n41
+  n42["`Kế hoạch Marshall chủ yếu là viện trợ không hoàn lại, thành công nhờ được tính như khoản chi có mục đích rõ`"]
+  n37 --- n42
+  n43["`Đông Á trợ cấp xuất khẩu và tăng trưởng nhanh: câu hỏi là trợ cấp có mua được tri thức và quy mô không`"]
+  n37 --- n43
+  n44["`Doanh thu tăng mà khoản phải thu tăng nhanh hơn: hỏi xem có phải hãng ô tô cho vay để bán xe`"]
+  n37 --- n44
+  n45["`Thưởng theo tiền thu về chứ không theo doanh số, vì nợ xấu chỉ lộ ra sau vài quý`"]
+  n44 --- n45
+  n46["`Xuất siêu không phải điểm số: nước mình đang giao hàng ra mà chưa nhận hàng về`"]
+  n37 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Nợ xấu và trợ cấp xuất khẩu chỉ nhìn tác động trước mắt lên nhóm xuất khẩu`"]
+  n47 --- n48
+  n49["`Lần theo tác động dài hạn lên mọi người: người đóng thuế và người bán hàng trong nước chịu thiệt`"]
+  n47 --- n49
+  n50["`Viện trợ nhân đạo chính đáng nhưng phải gọi đúng tên, không đội lốt thương vụ có lợi`"]
+  n47 --- n50
+  n51["`Muốn tăng xuất khẩu bền vững thì phải chấp nhận tăng nhập khẩu`"]
+  n47 --- n51
+  class n0 root
+  class n1,n8,n14,n25,n37,n47 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 12 "The Drive for Exports". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 11 chỉ ra rằng thuế quan, khi chặn hàng nhập, cũng lấy mất đô la mà người nước ngoài cần để mua hàng Mỹ. Chương 12 đi tiếp từ đó: nếu nhập khẩu và xuất khẩu gắn liền nhau, thì vừa sợ nhập khẩu vừa khao khát xuất khẩu là mâu thuẫn.
+
+Chương này áp dụng "bài học" (Chương 1) vào hai cách "đẩy" xuất khẩu phổ biến sau Thế chiến II: chính phủ cho nước ngoài vay những khoản khó đòi để họ mua hàng Mỹ, và trợ cấp xuất khẩu. Nó cũng nối với Chương 6 (tín dụng chính phủ làm lệch hướng sản xuất) ở chỗ cả hai chương đều hỏi ai rốt cuộc trả tiền cho khoản cho vay của chính phủ.
+
+Chương 13 chuyển sang một nhóm lợi ích đặc biệt khác: nông dân đòi giá ngang giá (parity).
+
+## Lưu ý
+
+- Bối cảnh: năm 1945–1946 Mỹ đang tranh luận về các khoản cho vay lớn để tái thiết châu Âu, tiêu biểu là khoản vay cho Anh (*Anglo-American Loan*) ký cuối 1945, được Quốc hội thông qua năm 1946, cùng với việc mở rộng Ngân hàng Xuất nhập khẩu Mỹ (*Export-Import Bank*). Một lý lẽ hay được viện ra là các khoản vay này sẽ "giữ cho nhà máy Mỹ chạy" sau chiến tranh. Kế hoạch Marshall (1948) ra đời sau khi sách xuất bản; năm 1947 Hazlitt viết hẳn một cuốn sách phê phán nó (*Will Dollars Save the World?*).
+- Hệ thống tiền tệ khi đó là Bretton Woods (1944): đô la gắn với vàng, các đồng tiền khác gắn với đô la, và nhiều nước còn kiểm soát ngoại hối chặt. Đoạn Hazlitt nói về vàng phải đọc trong bối cảnh này.
+- Khẳng định "trong dài hạn xuất khẩu và nhập khẩu phải bằng nhau" chỉ đúng khi tính cả dòng vốn (cho vay, đầu tư, mua tài sản). Từ thập niên 1970 Mỹ thâm hụt thương mại gần như liên tục, vì người nước ngoài dùng đô la mua trái phiếu, cổ phiếu, bất động sản Mỹ thay vì mua hàng; Hazlitt gạt các khoản này sang một bên khi lập luận (xem phần Đánh giá).
+- Câu trích là bản dịch của người tổng hợp.

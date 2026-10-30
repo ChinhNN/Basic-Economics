@@ -1,11 +1,14 @@
 # Chương 7 — "Lời nguyền" của máy móc (The Curse of Machinery)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 7 "The Curse of Machinery". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** "Bài học" (the lesson) ở Chương 1 nói: phải xét tác động của một chính sách không chỉ lên một nhóm trong ngắn hạn mà lên mọi nhóm trong dài hạn. Các Chương 2–6 áp dụng bài học vào những khoản chi "tạo việc làm" (cửa sổ vỡ, tàn phá chiến tranh, công trình công cộng, thuế, tín dụng). Chương 7 mở một cụm bốn chương (7–10) xoay quanh cùng một câu hỏi: **cái gì thật sự tạo ra và phá đi việc làm**. Chương này xử lý nỗi sợ lâu đời nhất, rằng máy móc gây thất nghiệp. Chương 8 bàn các kế hoạch chia việc dựa trên cùng ngụy biện; Chương 9 áp dụng lập luận cho việc giải ngũ binh lính và cắt giảm công chức; Chương 10 kết cụm bằng luận điểm rằng mục tiêu là sản xuất, còn việc làm chỉ là phương tiện.
-**Ý chính:** Hazlitt muốn chứng minh rằng **tính trên tổng thể (on net balance), máy móc và cải tiến kỹ thuật không làm người lao động mất việc**, mà làm tăng sản lượng và lương thực tế. Ông dùng hai loại bằng chứng. Thứ nhất là lịch sử: ngành dệt bông Anh tăng từ 7.900 lên 320.000 người trong 27 năm sau máy kéo sợi của Arkwright; ngành ô tô Mỹ tăng từ 140.000 người (1910) lên 450.000 (1940). Thứ hai là suy luận qua một ví dụ: một xưởng may lắp máy làm áo khoác chỉ cần nửa số công; khoản tiết kiệm được chi lại (mua máy, đầu tư, tiêu dùng của chủ), rồi qua cạnh tranh chuyển thành giá áo rẻ hơn (từ 50 xuống 30 USD), và 20 USD người mua tiết kiệm được lại tạo việc làm ở ngành khác. Cuối chương, ông cảnh báo không được quên người thợ bị máy thay thế ("Joe Smith"), nhưng cũng không được chỉ nhìn mỗi người đó.
+## Ý chính
 
-> **Lưu ý:** (1) Năm 1946, nỗi lo "máy móc gây thất nghiệp" ở Mỹ còn rất mới: cuộc Đại Suy thoái 1929–1939 đã sinh ra phong trào **Technocracy** (Technocrats, 1932–1933) cho rằng máy móc đã làm thừa lao động vĩnh viễn, và nhiều công đoàn duy trì quy định bắt thuê người không cần thiết. Hazlitt viết khi Mỹ đang chuyển từ kinh tế thời chiến sang thời bình, nhiều người sợ thất nghiệp hàng loạt quay lại. (2) Một số chi tiết lịch sử Hazlitt nêu không chính xác. Khung dệt tất (stocking frame) do William Lee phát minh từ năm 1589, không phải một phát minh "của Cách mạng Công nghiệp"; các vụ đập phá khung dệt nổi tiếng nhất là phong trào Luddite 1811–1816 ở vùng Nottingham. Máy kéo sợi của Arkwright được cấp bằng sáng chế năm 1769, không phải 1760. Phép tính "tăng 4.400%" cũng sai: từ 7.900 lên 320.000 người là tăng khoảng 3.950% (gấp khoảng 40,5 lần). (3) Hazlitt đọc ví dụ xưởng ghim của Adam Smith như một ví dụ về **máy móc**; thật ra Smith dùng nó để minh hoạ **phân công lao động**, và người thợ "không biết dùng máy" trong ví dụ của Smith đồng thời cũng là người không được chia việc và không được huấn luyện. (4) Câu trích trong file là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng **tính trên tổng thể (on net balance), máy móc và cải tiến kỹ thuật không làm người lao động mất việc**, mà làm tăng sản lượng và lương thực tế.
+
+Ông dùng hai loại bằng chứng. Thứ nhất là lịch sử: ngành dệt bông Anh tăng từ 7.900 lên 320.000 người trong 27 năm sau máy kéo sợi của Arkwright; ngành ô tô Mỹ tăng từ 140.000 người (1910) lên 450.000 (1940).
+
+Thứ hai là suy luận qua một ví dụ: một xưởng may lắp máy làm áo khoác chỉ cần nửa số công; khoản tiết kiệm được chi lại (mua máy, đầu tư, tiêu dùng của chủ), rồi qua cạnh tranh chuyển thành giá áo rẻ hơn (từ 50 xuống 30 USD), và 20 USD người mua tiết kiệm được lại tạo việc làm ở ngành khác.
+
+Cuối chương, ông cảnh báo không được quên người thợ bị máy thay thế ("Joe Smith"), nhưng cũng không được chỉ nhìn mỗi người đó.
 
 ## Sơ đồ
 
@@ -386,7 +389,9 @@ Hazlitt kể thêm: trong ngành đường sắt, công đoàn đòi phải có 
 
 Hazlitt nói có thể chất cả núi số liệu để chứng minh người sợ công nghệ trước đây sai, nhưng vô ích nếu không hiểu rõ **vì sao** họ sai. Trong kinh tế học, số liệu và lịch sử vô dụng nếu không kèm một hiểu biết bằng suy luận (deductive understanding) về lý do các hệ quả trong quá khứ **buộc phải** xảy ra. Nếu không, người sợ công nghệ sẽ đáp: "Quá khứ thì có thể đúng, nhưng hôm nay điều kiện đã khác hẳn, và giờ ta không thể phát triển thêm máy tiết kiệm lao động nữa." Bà Eleanor Roosevelt, trong chuyên mục báo ngày 19/9/1945, viết: "Ngày nay chúng ta đã tới mức mà thiết bị tiết kiệm lao động chỉ tốt khi chúng không làm người lao động mất việc."
 
-Nếu máy móc thật sự gây thất nghiệp và khốn khổ ngày càng tăng, hệ quả sẽ mang tính cách mạng cho toàn bộ quan niệm về văn minh: không chỉ mọi tiến bộ kỹ thuật sắp tới là tai hoạ, mà mọi tiến bộ đã qua cũng đáng ghê sợ. Trong khi đó, hằng ngày ai cũng tìm cách giảm công sức cần để đạt một kết quả: chủ doanh nghiệp lớn và nhỏ tìm cách làm rẻ và hiệu quả hơn, tức là tiết kiệm lao động; người thợ thông minh tìm cách bớt công cho việc được giao; người tham vọng tìm cách làm được nhiều hơn trong cùng số giờ. Người sợ công nghệ, nếu nhất quán, phải coi tất cả những tiến bộ và sáng kiến đó không chỉ là vô ích mà còn là tai hại. Hazlitt hỏi: sao lại chở hàng từ New York tới Chicago bằng đường sắt, khi có thể thuê nhiều người hơn hẳn để cõng hàng trên lưng?
+Nếu máy móc thật sự gây thất nghiệp và khốn khổ ngày càng tăng, hệ quả sẽ mang tính cách mạng cho toàn bộ quan niệm về văn minh: không chỉ mọi tiến bộ kỹ thuật sắp tới là tai hoạ, mà mọi tiến bộ đã qua cũng đáng ghê sợ. Trong khi đó, hằng ngày ai cũng tìm cách giảm công sức cần để đạt một kết quả: chủ doanh nghiệp lớn và nhỏ tìm cách làm rẻ và hiệu quả hơn, tức là tiết kiệm lao động; người thợ thông minh tìm cách bớt công cho việc được giao; người tham vọng tìm cách làm được nhiều hơn trong cùng số giờ.
+
+Người sợ công nghệ, nếu nhất quán, phải coi tất cả những tiến bộ và sáng kiến đó không chỉ là vô ích mà còn là tai hại. Hazlitt hỏi: sao lại chở hàng từ New York tới Chicago bằng đường sắt, khi có thể thuê nhiều người hơn hẳn để cõng hàng trên lưng?
 
 Thuyết sai như vậy không bao giờ được giữ nhất quán, nhưng vẫn gây hại lớn vì người ta vẫn tin nó.
 
@@ -567,7 +572,9 @@ Nhưng chính số liệu Hazlitt dẫn cũng cho thấy giới hạn. Thợ d�
 
 ### Chuỗi "tiết kiệm được ắt được chi lại" là chỗ dễ bị tấn công nhất
 
-Cả lập luận bước 2 và bước 5 dựa trên giả định rằng mọi đồng tiết kiệm được sẽ được chi hoặc đầu tư. Hazlitt gạt trường hợp ngược lại bằng mấy chữ "trừ khi ông ta là người cất tiền không mục đích". Đây là đúng chỗ Keynes (1936) đặt vấn đề: trong suy thoái, doanh nghiệp và hộ gia đình có thể cùng giữ tiền, và tiết kiệm không tự động thành đầu tư. Hazlitt sẽ trả lời phê phán này ở các chương sau về tiết kiệm (Chương 23). Ở Chương 7, ông chỉ nói kết quả cụ thể "phụ thuộc nhiều vào chính sách tiền tệ", tức thừa nhận ngầm rằng cơ chế bù đắp cần một hệ thống tiền tệ vận hành bình thường. Đọc công bằng: lập luận đúng cho nền kinh tế gần toàn dụng, yếu hơn trong suy thoái sâu, đúng lúc nỗi sợ máy móc bùng lên.
+Cả lập luận bước 2 và bước 5 dựa trên giả định rằng mọi đồng tiết kiệm được sẽ được chi hoặc đầu tư. Hazlitt gạt trường hợp ngược lại bằng mấy chữ "trừ khi ông ta là người cất tiền không mục đích". Đây là đúng chỗ Keynes (1936) đặt vấn đề: trong suy thoái, doanh nghiệp và hộ gia đình có thể cùng giữ tiền, và tiết kiệm không tự động thành đầu tư.
+
+Hazlitt sẽ trả lời phê phán này ở các chương sau về tiết kiệm (Chương 23). Ở Chương 7, ông chỉ nói kết quả cụ thể "phụ thuộc nhiều vào chính sách tiền tệ", tức thừa nhận ngầm rằng cơ chế bù đắp cần một hệ thống tiền tệ vận hành bình thường. Đọc công bằng: lập luận đúng cho nền kinh tế gần toàn dụng, yếu hơn trong suy thoái sâu, đúng lúc nỗi sợ máy móc bùng lên.
 
 ### Hazlitt đúng khi nói chức năng của máy là tăng sản xuất chứ không phải tạo việc, và đây là ý sâu nhất chương
 
@@ -575,11 +582,13 @@ Cả lập luận bước 2 và bước 5 dựa trên giả định rằng mọi
 
 ### Các bằng chứng lịch sử của Hazlitt có sai sót và nên dùng thận trọng
 
-Như đã ghi ở phần Lưu ý: khung dệt tất có từ năm 1589; bằng sáng chế của Arkwright là năm 1769; mức tăng từ 7.900 lên 320.000 người là khoảng 3.950% chứ không phải 4.400%; con số 320.000 năm 1787 lấy từ các ước tính thế kỷ 19 khó kiểm chứng. Ví dụ xưởng ghim là của phân công lao động chứ không riêng máy móc. Những sai sót này không làm đổi hướng kết luận (ngành bông thật sự tăng vọt sau cơ giới hoá), nhưng là lời nhắc rằng Hazlitt là nhà báo viết luận chiến, dùng số liệu để minh hoạ chứ không để kiểm định. Chính ông cũng nói số liệu không thay được suy luận.
+Như đã ghi ở mục Lưu ý cuối chương: khung dệt tất có từ năm 1589; bằng sáng chế của Arkwright là năm 1769; mức tăng từ 7.900 lên 320.000 người là khoảng 3.950% chứ không phải 4.400%; con số 320.000 năm 1787 lấy từ các ước tính thế kỷ 19 khó kiểm chứng. Ví dụ xưởng ghim là của phân công lao động chứ không riêng máy móc. Những sai sót này không làm đổi hướng kết luận (ngành bông thật sự tăng vọt sau cơ giới hoá), nhưng là lời nhắc rằng Hazlitt là nhà báo viết luận chiến, dùng số liệu để minh hoạ chứ không để kiểm định. Chính ông cũng nói số liệu không thay được suy luận.
 
 ### Cuộc tranh luận về tự động hoá và trí tuệ nhân tạo hôm nay lặp lại gần đúng từng câu của Chương 7
 
-Mỗi làn sóng công nghệ (máy tính thập niên 1960, robot công nghiệp thập niên 1980, internet, trí tuệ nhân tạo) đều làm sống lại lập luận "lần này khác", đúng như Hazlitt mô tả qua câu của bà Roosevelt. Kinh tế học hiện đại đưa ra một phiên bản tinh hơn cả hai phía: tự động hoá luôn có hiệu ứng thay thế; hiệu ứng ròng phụ thuộc vào việc công nghệ có tạo ra nhiệm vụ mới cho con người, cầu có co giãn, và người lao động có chuyển đổi được kỹ năng hay không. Hazlitt đúng ở chỗ không có định luật nào nói việc làm tổng phải giảm; những người lo ngại đúng ở chỗ không có định luật nào nói việc chuyển đổi sẽ nhanh, công bằng hay không đau đớn. Nghiên cứu về các cú sốc thương mại và tự động hoá cho thấy tổn thất ở từng địa phương có thể kéo dài hàng chục năm, đúng với hình ảnh thợ dệt tất của Felkin.
+Mỗi làn sóng công nghệ (máy tính thập niên 1960, robot công nghiệp thập niên 1980, internet, trí tuệ nhân tạo) đều làm sống lại lập luận "lần này khác", đúng như Hazlitt mô tả qua câu của bà Roosevelt. Kinh tế học hiện đại đưa ra một phiên bản tinh hơn cả hai phía: tự động hoá luôn có hiệu ứng thay thế; hiệu ứng ròng phụ thuộc vào việc công nghệ có tạo ra nhiệm vụ mới cho con người, cầu có co giãn, và người lao động có chuyển đổi được kỹ năng hay không.
+
+Hazlitt đúng ở chỗ không có định luật nào nói việc làm tổng phải giảm; những người lo ngại đúng ở chỗ không có định luật nào nói việc chuyển đổi sẽ nhanh, công bằng hay không đau đớn. Nghiên cứu về các cú sốc thương mại và tự động hoá cho thấy tổn thất ở từng địa phương có thể kéo dài hàng chục năm, đúng với hình ảnh thợ dệt tất của Felkin.
 
 ### Vận dụng: khi đánh giá một khoản đầu tư công nghệ hay một nghề nghiệp, hãy hỏi tiền tiết kiệm được sẽ chảy đi đâu và kỹ năng của mình gắn với nhiệm vụ nào
 
@@ -587,3 +596,150 @@ Mỗi làn sóng công nghệ (máy tính thập niên 1960, robot công nghiệ
 - **Với người đầu tư.** Lợi ích của công nghệ thường chảy về ba nơi: nhà cung cấp máy (bước 1), người đi đầu trong ngành dùng máy (bước 2, tạm thời), và người tiêu dùng cùng các ngành hưởng lợi từ chi tiêu dư ra (bước 4–5, lâu dài). Ngành có cầu co giãn mạnh thì việc dùng công nghệ mới làm thị trường lớn hơn; ngành cầu ít co giãn thì công nghệ chủ yếu làm giá giảm và biên lợi nhuận bị bào mòn.
 - **Với nghề nghiệp.** Bài học của Joe Smith là rủi ro tập trung: một kỹ năng hẹp, chỉ có giá trị trong một quy trình cụ thể, có thể mất giá qua một đêm. Ở Việt Nam, khi các nhà máy may, điện tử, ngân hàng và dịch vụ khách hàng tự động hoá mạnh, nhóm dễ tổn thương nhất là người làm những thao tác lặp lại, dễ mô tả thành quy trình. Cách tự bảo vệ không phải là chống công nghệ, mà là học kỹ năng đi kèm công nghệ (vận hành, bảo trì, giám sát, xử lý ngoại lệ, giao tiếp với khách hàng), tức chuyển từ vị trí của Joe Smith sang vị trí của Ted Brown.
 - **Khi đọc tin chính sách.** Khi một đề xuất hạn chế công nghệ (cấm, đánh thuế, bắt giữ lại lao động) được biện hộ bằng số người sẽ mất việc, hãy hỏi phần còn lại của lập luận Hazlitt: chi phí cao hơn ai trả, giá cao hơn làm ai mất việc ở chỗ khác. Ngược lại, khi một chương trình chuyển đổi số chỉ nói tới năng suất, hãy hỏi phần của Joe Smith: ai mất kỹ năng, có trợ cấp và đào tạo lại không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (ngụy biện sống dai và bằng chứng ngành dệt Anh, Wells, Technocrats và quy định tạo việc, ví dụ xưởng áo khoác qua năm bước, chức năng thật của máy móc, Joe Smith, cùng phần Đánh giá), mỗi nhánh ghi lập luận, ví dụ và con số then chốt của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: tính trên tổng thể, máy móc không làm người lao động mất việc mà tăng sản lượng và lương thực tế`"]
+  n1["`Mục 1–2 — Ngụy biện sống dai và bằng chứng ngành dệt Anh`"]
+  n0 --- n1
+  n2["`Ngụy biện #quot;máy móc gây thất nghiệp#quot; bị đập tan một nghìn lần, lại sống dậy một nghìn lần`"]
+  n1 --- n2
+  n3["`Tin nhất quán thì mọi cải tiến đều gây thất nghiệp, kể cả người nguyên thủy bớt mồ hôi`"]
+  n1 --- n3
+  n4["`Xưởng ghim của Adam Smith: không máy chưa nổi 20 ghim mỗi ngày, có máy 4.800 ghim mỗi người`"]
+  n1 --- n4
+  n5["`Nếu máy chỉ đuổi việc thì ngành ghim thời Smith đã thất nghiệp 99,98%`"]
+  n1 --- n5
+  n6["`Thợ dệt tất đập hơn 1.000 khung dệt, quân đội dẹp, kẻ cầm đầu bị lưu đày hoặc treo cổ`"]
+  n1 --- n6
+  n7["`Họ hợp lý với bản thân: 50.000 thợ dệt tất và gia đình khổ suốt 40 năm (Felkin, 1867)`"]
+  n1 --- n7
+  n8["`Họ sai về #quot;thay người vĩnh viễn#quot;: cuối thế kỷ 19 ngành dùng ít nhất 100 người cho mỗi người đầu thế kỷ`"]
+  n1 --- n8
+  n9["`Dệt bông sau máy Arkwright: từ 7.900 lên 320.000 người năm 1787, gấp khoảng 40,5 lần`"]
+  n1 --- n9
+  n10["`Mục 3–4 — Người sợ công nghệ: Wells, Technocrats, quy định tạo việc`"]
+  n0 --- n10
+  n11["`Wells (1889): tàu buôn Anh chở thêm 22 triệu tấn mà dùng ít hơn 2.990 người`"]
+  n10 --- n11
+  n12["`Thép Bessemer giảm từ 80 USD/tấn (1873) xuống dưới 20 USD/tấn (1886), lao động còn giảm`"]
+  n10 --- n12
+  n13["`Máy hơi nước thế giới năm 1887 bằng sức 1 tỉ người, gấp 3 dân số lao động, vậy mà vẫn còn việc làm`"]
+  n10 --- n13
+  n14["`Suy thoái 1932: Technocrats lặp lại nguyên vẹn ngụy biện mà tưởng là phát hiện mới`"]
+  n10 --- n14
+  n15["`Học thuyết sống tiếp trong quy định tạo việc và lối thuê thừa người của công đoàn`"]
+  n10 --- n15
+  n16["`TNEC 1941: tháo rồi lắp lại thiết bị điện ngoài bang, cắt rồi tiện lại ren ống ở công trường`"]
+  n10 --- n16
+  n17["`Thợ điện trực cả ngày chỉ bật công tắc, thợ đốt lò trên đầu máy không cần đốt lò, nhạc công dự phòng`"]
+  n10 --- n17
+  n18["`Mục 5–6 — Suy luận: tiền tiết kiệm nhờ máy áo khoác đi đâu`"]
+  n0 --- n18
+  n19["`Số liệu vô ích nếu không hiểu bằng suy luận vì sao hệ quả buộc phải xảy ra`"]
+  n18 --- n19
+  n20["`Bà Roosevelt (1945): máy tiết kiệm lao động chỉ tốt khi không làm người lao động mất việc`"]
+  n18 --- n20
+  n21["`Nếu ngụy biện đúng, sao không thuê người cõng hàng từ New York tới Chicago thay đường sắt`"]
+  n18 --- n21
+  n22["`Xưởng may lắp máy chỉ cần nửa lượng lao động, cho nghỉ nửa số công nhân: cái thấy được`"]
+  n18 --- n22
+  n23["`Bước 1: chế tạo máy tạo việc mới, nhưng tiền công làm máy phải nhỏ hơn tiền công tiết kiệm được`"]
+  n18 --- n23
+  n24["`Bước 2: lợi nhuận thêm được chi cho mở rộng sản xuất, đầu tư ngành khác hoặc tiêu dùng của chủ`"]
+  n18 --- n24
+  n25["`Lương trực tiếp cho thợ may cũ thành lương gián tiếp cho người khác, trừ khi chủ cất tiền không tiêu`"]
+  n18 --- n25
+  n26["`Bước 3: cạnh tranh ép giá áo xuống, khoản tiết kiệm chuyển sang người mua áo`"]
+  n18 --- n26
+  n27["`Bước 4: cầu co giãn thì ngành may có thể thuê nhiều người hơn cả trước khi có máy`"]
+  n18 --- n27
+  n28["`Bước 5: cầu không co giãn, áo giảm từ 50 xuống 30 USD, người mua còn 20 USD chi cho ngành khác`"]
+  n18 --- n28
+  n29["`Mục 7–8 — Chức năng thật của máy: tăng sản xuất và lương thực tế`"]
+  n0 --- n29
+  n30["`Nhiều phát minh không tiết kiệm lao động: nâng chất lượng (nylon), làm điều sức người không làm được (máy bay), tạo thứ mới (tia X)`"]
+  n29 --- n30
+  n31["`Việc làm ngành ô tô Mỹ: 140.000 (1910), 250.000 (1920), 380.000 (1930), 450.000 (1940)`"]
+  n29 --- n31
+  n32["`Năm 1940 ngành tủ lạnh điện có 35.000 người, ngành radio có 60.000 người`"]
+  n29 --- n32
+  n33["`Dân số thế giới năm 1946 gấp ba giữa thế kỷ 18: cứ ba người thì hai người nợ máy móc cả mạng sống`"]
+  n29 --- n33
+  n34["`Coi chức năng của máy là tạo việc làm là hiểu sai, chức năng thật là tăng sản xuất và mức sống`"]
+  n29 --- n34
+  n35["`Cho mọi người có việc chẳng khó: toàn dụng #quot;dài, mệt mỏi, còng lưng#quot; là đặc điểm nước lạc hậu nhất`"]
+  n29 --- n35
+  n36["`Nơi đã toàn dụng, máy đem lại thất nghiệp tự nguyện: làm ít giờ hơn, trẻ em và người già nghỉ làm`"]
+  n29 --- n36
+  n37["`Máy tăng lương thực tế qua hàng hóa rẻ hơn hoặc lương danh nghĩa cao hơn, tùy chính sách tiền tệ`"]
+  n29 --- n37
+  n38["`Mục 9 — Nhìn Joe Smith, nhưng không chỉ nhìn Joe Smith`"]
+  n0 --- n38
+  n39["`Kinh tế học cổ điển nhìn dài hạn toàn cộng đồng nhưng hay quên tác động trước mắt lên nhóm cụ thể`"]
+  n38 --- n39
+  n40["`Cực đoan ngược lại chỉ nhìn Joe Smith, quên Tom Jones làm máy, Ted Brown vận hành máy, Daisy Miller mua áo nửa giá`"]
+  n38 --- n40
+  n41["`Joe Smith mất khoản đầu tư nhiều năm vào tay nghề, qua một đêm từ lương thợ lành nghề xuống lương phổ thông`"]
+  n38 --- n41
+  n42["`Hazlitt để ngỏ cách xử lý: tự điều chỉnh, trợ cấp thôi việc, trợ cấp thất nghiệp, đào tạo lại`"]
+  n38 --- n42
+  n43["`Nếu sai về máy móc thì #quot;ít có điều gì trong kinh tế học mà ta có thể đúng#quot;`"]
+  n38 --- n43
+  n44["`Đánh giá — Điểm mạnh và giới hạn`"]
+  n0 --- n44
+  n45["`Hai thế kỷ năng suất tăng hàng chục lần mà tỷ lệ có việc làm không giảm theo xu hướng dài hạn`"]
+  n44 --- n45
+  n46["`#quot;Khoảng lặng của Engels#quot;: nửa đầu thế kỷ 19 sản lượng mỗi lao động tăng mà lương thực tế gần như đứng yên`"]
+  n44 --- n46
+  n47["`Giả định tiết kiệm ắt được chi lại là chỗ yếu nhất: Keynes (1936) chỉ ra trong suy thoái tiền có thể bị giữ`"]
+  n44 --- n47
+  n48["`Acemoglu và Restrepo: tự động hóa có hiệu ứng thay thế, kết quả ròng tùy công nghệ có tạo nhiệm vụ mới không`"]
+  n44 --- n48
+  n49["`Số liệu lịch sử có sai sót: khung dệt tất từ năm 1589, bằng sáng chế Arkwright năm 1769`"]
+  n44 --- n49
+  n50["`Vận dụng nghề nghiệp: học kỹ năng đi kèm công nghệ, chuyển từ vị trí Joe Smith sang vị trí Ted Brown`"]
+  n44 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Cái thấy được là người bị máy thay thế, cái không thấy là việc làm nơi tiền tiết kiệm chảy tới`"]
+  n51 --- n52
+  n53["`Mục tiêu là sản xuất, việc làm chỉ là phương tiện`"]
+  n51 --- n53
+  n54["`Phải thấy cả tác động trước mắt lên nhóm đặc biệt và tác động dài hạn lên mọi nhóm`"]
+  n51 --- n54
+  class n0 root
+  class n1,n10,n18,n29,n38,n44,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n52,n53,n54 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 7 "The Curse of Machinery". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+"Bài học" (the lesson) ở Chương 1 nói: phải xét tác động của một chính sách không chỉ lên một nhóm trong ngắn hạn mà lên mọi nhóm trong dài hạn. Các Chương 2–6 áp dụng bài học vào những khoản chi "tạo việc làm" (cửa sổ vỡ, tàn phá chiến tranh, công trình công cộng, thuế, tín dụng).
+
+Chương 7 mở một cụm bốn chương (7–10) xoay quanh cùng một câu hỏi: **cái gì thật sự tạo ra và phá đi việc làm**. Chương này xử lý nỗi sợ lâu đời nhất, rằng máy móc gây thất nghiệp.
+
+Chương 8 bàn các kế hoạch chia việc dựa trên cùng ngụy biện; Chương 9 áp dụng lập luận cho việc giải ngũ binh lính và cắt giảm công chức; Chương 10 kết cụm bằng luận điểm rằng mục tiêu là sản xuất, còn việc làm chỉ là phương tiện.
+
+## Lưu ý
+
+- Năm 1946, nỗi lo "máy móc gây thất nghiệp" ở Mỹ còn rất mới: cuộc Đại Suy thoái 1929–1939 đã sinh ra phong trào **Technocracy** (Technocrats, 1932–1933) cho rằng máy móc đã làm thừa lao động vĩnh viễn, và nhiều công đoàn duy trì quy định bắt thuê người không cần thiết. Hazlitt viết khi Mỹ đang chuyển từ kinh tế thời chiến sang thời bình, nhiều người sợ thất nghiệp hàng loạt quay lại.
+- Một số chi tiết lịch sử Hazlitt nêu không chính xác. Khung dệt tất (stocking frame) do William Lee phát minh từ năm 1589, không phải một phát minh "của Cách mạng Công nghiệp"; các vụ đập phá khung dệt nổi tiếng nhất là phong trào Luddite 1811–1816 ở vùng Nottingham. Máy kéo sợi của Arkwright được cấp bằng sáng chế năm 1769, không phải 1760. Phép tính "tăng 4.400%" cũng sai: từ 7.900 lên 320.000 người là tăng khoảng 3.950% (gấp khoảng 40,5 lần).
+- Hazlitt đọc ví dụ xưởng ghim của Adam Smith như một ví dụ về **máy móc**; thật ra Smith dùng nó để minh hoạ **phân công lao động**, và người thợ "không biết dùng máy" trong ví dụ của Smith đồng thời cũng là người không được chia việc và không được huấn luyện.
+- Câu trích trong file là bản dịch của người tổng hợp.

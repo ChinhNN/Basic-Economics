@@ -1,11 +1,16 @@
 # Chương 17 — Chính phủ ấn định giá (Government Price-Fixing)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 17 "Government Price-Fixing". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 13 ("Parity" Prices), 14 (Saving the X Industry) và 16 ("Stabilizing" Commodities) xét các nỗ lực của chính phủ đẩy giá một số hàng **lên trên** mức thị trường tự do. Chương 15 (How the Price System Works) giải thích giá thị trường điều phối sản xuất ra sao. Chương 17 xét chiều ngược lại: chính phủ giữ giá **xuống dưới** mức thị trường, tức đặt **trần giá** (price ceiling). Hai chương sau áp dụng cùng logic cho giá của lao động: Chương 18 (lương tối thiểu, một giá sàn do luật đặt ra) và Chương 19 (công đoàn dùng sức ép để nâng lương). Ở cuối chương, Hazlitt nói nguyên nhân thật của tăng giá là hàng khan hiếm hoặc tiền thừa, và hẹn bàn việc xử lý tiền thừa "ở một chương sau" (theo người tổng hợp, đó là Chương 22, The Mirage of Inflation).
-**Ý chính:** Hazlitt muốn chứng minh rằng ấn định giá tối đa (maximum price-fixing) dưới mức thị trường tất yếu **làm tăng cầu và giảm cung**, nên sinh ra **thiếu hụt** đúng ở những mặt hàng thiết yếu mà chính phủ muốn dồi dào nhất. Để chữa thiếu hụt, chính phủ dùng thêm phân phối theo tem phiếu (rationing), kiểm soát chi phí, trợ cấp, ấn định giá toàn bộ; tem phiếu chỉ ép cầu mà không tăng cung, kiểm soát chi phí đẩy thiếu hụt sang các yếu tố sản xuất, trợ cấp chuyển gánh nặng sang người nộp thuế, và kết cục logic của kiểm soát giá kéo dài là một nền kinh tế bị điều khiển toàn diện. Trong thực tế châu Âu trong và sau Thế chiến II, chợ đen làm dịu bớt sai lầm nhưng gây hại cả kinh tế lẫn đạo đức. Gốc rễ của chính sách là sai lầm trung tâm của cuốn sách: chỉ nghĩ tới con người với tư cách người tiêu dùng mà quên họ cũng là người sản xuất. Ví dụ số chính: thịt bò giá thị trường 65 xu một pound, trần giá 50 xu một pound.
+## Ý chính
 
-> **Lưu ý:** (1) Bối cảnh: trong Thế chiến II, Mỹ lập Cơ quan Quản lý Giá (*Office of Price Administration*, OPA, 1941) để đặt trần giá và phát tem phiếu cho thịt, đường, xăng, lốp xe, giày… Khi Hazlitt viết sách (1946), chiến tranh đã kết thúc nhưng kiểm soát giá vẫn còn; năm 1946 có giai đoạn trần giá thịt bị bỏ rồi áp lại, và thịt biến mất khỏi quầy hàng. Phần lớn kiểm soát giá của OPA bị dỡ vào cuối năm 1946, nhưng kiểm soát tiền thuê nhà ở nhiều nơi kéo dài nhiều năm. Ở châu Âu (Anh, Pháp, Đức), tem phiếu và trần giá kéo dài tới đầu thập niên 1950. (2) Hazlitt nói rõ ông **không** bàn việc ấn định giá trong thời chiến có khôn ngoan hay không; ông nhấn mạnh rằng ở hầu hết các nước nó được duy trì rất lâu sau chiến tranh, dù ví dụ ông dùng vẫn lấy từ thời chiến. (3) Câu của Alexander Hamilton mà Hazlitt trích ("Quyền lực đối với sinh kế của một người là quyền lực đối với ý chí của người đó") nằm trong *The Federalist* số 79, nói về việc giữ lương thẩm phán ổn định để họ độc lập, không nói về kiểm soát giá; Hazlitt dùng câu đó theo nghĩa mở rộng. (4) Mọi câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng ấn định giá tối đa (maximum price-fixing) dưới mức thị trường tất yếu **làm tăng cầu và giảm cung**, nên sinh ra **thiếu hụt** đúng ở những mặt hàng thiết yếu mà chính phủ muốn dồi dào nhất.
+
+Để chữa thiếu hụt, chính phủ dùng thêm phân phối theo tem phiếu (rationing), kiểm soát chi phí, trợ cấp, ấn định giá toàn bộ; tem phiếu chỉ ép cầu mà không tăng cung, kiểm soát chi phí đẩy thiếu hụt sang các yếu tố sản xuất, trợ cấp chuyển gánh nặng sang người nộp thuế, và kết cục logic của kiểm soát giá kéo dài là một nền kinh tế bị điều khiển toàn diện.
+
+Trong thực tế châu Âu trong và sau Thế chiến II, chợ đen làm dịu bớt sai lầm nhưng gây hại cả kinh tế lẫn đạo đức.
+
+Gốc rễ của chính sách là sai lầm trung tâm của cuốn sách: chỉ nghĩ tới con người với tư cách người tiêu dùng mà quên họ cũng là người sản xuất.
+
+Ví dụ số chính: thịt bò giá thị trường 65 xu một pound, trần giá 50 xu một pound.
 
 ## Sơ đồ
 
@@ -324,7 +329,9 @@ Nếu không làm gì thêm, hệ quả của trần giá là **thiếu hụt** 
 
 Dần dần, người làm chính sách thấy một số hệ quả này và dùng thêm các biện pháp khác để tránh chúng: phân phối theo tem phiếu, kiểm soát chi phí, trợ cấp và ấn định giá toàn bộ. Hazlitt xét lần lượt.
 
-**(a) Phân phối theo tem phiếu.** Khi thiếu hụt lộ rõ, người tiêu dùng giàu bị buộc tội lấy "quá phần công bằng của mình"; nếu đó là nguyên liệu sản xuất thì các doanh nghiệp bị buộc tội "đầu cơ tích trữ". Chính phủ ban hành quy tắc ai được ưu tiên mua, phân bổ cho ai bao nhiêu, hoặc phát tem phiếu. Phát tem phiếu nghĩa là mỗi người chỉ được mua tối đa một lượng, dù sẵn lòng trả bao nhiêu để mua thêm. Nói gọn, chính phủ lập ra một hệ thống hai giá, hay hai loại tiền: ngoài tiền thường, mỗi người phải có một số tem phiếu hay "điểm". Tức là chính phủ cố dùng tem phiếu làm **một phần** việc mà thị trường tự do làm bằng giá. Chỉ một phần, vì tem phiếu chỉ giới hạn cầu, không kích thích cung như giá cao hơn sẽ làm.
+**(a) Phân phối theo tem phiếu.** Khi thiếu hụt lộ rõ, người tiêu dùng giàu bị buộc tội lấy "quá phần công bằng của mình"; nếu đó là nguyên liệu sản xuất thì các doanh nghiệp bị buộc tội "đầu cơ tích trữ". Chính phủ ban hành quy tắc ai được ưu tiên mua, phân bổ cho ai bao nhiêu, hoặc phát tem phiếu.
+
+Phát tem phiếu nghĩa là mỗi người chỉ được mua tối đa một lượng, dù sẵn lòng trả bao nhiêu để mua thêm. Nói gọn, chính phủ lập ra một hệ thống hai giá, hay hai loại tiền: ngoài tiền thường, mỗi người phải có một số tem phiếu hay "điểm". Tức là chính phủ cố dùng tem phiếu làm **một phần** việc mà thị trường tự do làm bằng giá. Chỉ một phần, vì tem phiếu chỉ giới hạn cầu, không kích thích cung như giá cao hơn sẽ làm.
 
 **(b) Kiểm soát chi phí sản xuất.** Chính phủ có thể cố bảo đảm cung bằng cách kiểm soát luôn các chi phí làm ra mặt hàng:
 
@@ -359,7 +366,9 @@ Chính phủ phải mở rộng kiểm soát theo hai hướng:
 - **Theo chiều dọc** (*vertically*): như đã thấy, nếu chính phủ khống chế giá lao động và nguyên liệu để tránh thiếu thành phẩm, thì chính việc khống chế đó lại gây thiếu lao động và nguyên liệu.
 - **Theo chiều ngang** (*horizontally*): nếu phát tem phiếu một mặt hàng mà dân vẫn không mua đủ trong khi còn thừa sức mua, họ chuyển sang hàng thay thế. Phát tem phiếu mỗi mặt hàng khi nó khan đi lại dồn sức ép lên những mặt hàng chưa bị phát tem phiếu. Nếu chính phủ ngăn được chợ đen (hoặc ít nhất không để chợ đen lớn tới mức vô hiệu hoá giá chính thức), việc tiếp tục kiểm soát giá buộc nó phát tem phiếu ngày càng nhiều mặt hàng. Tem phiếu cũng không dừng ở người tiêu dùng; trong chiến tranh, nó thực ra được áp dụng trước tiên cho việc phân bổ nguyên liệu cho nhà sản xuất.
 
-Hệ quả tự nhiên của một cuộc kiểm soát giá toàn diện, triệt để, nhằm duy trì mãi một mặt bằng giá lịch sử, cuối cùng phải là một nền kinh tế bị điều khiển hoàn toàn (*completely regimented economy*). Lương phải bị giữ cứng như giá. Lao động phải bị phân bổ gắt gao như nguyên liệu. Chính phủ sẽ không chỉ bảo mỗi người tiêu dùng được bao nhiêu mỗi thứ, mà còn bảo mỗi nhà sản xuất được bao nhiêu nguyên liệu và bao nhiêu lao động. Trả giá cạnh tranh để thuê công nhân cũng bị cấm như trả giá cạnh tranh để mua nguyên liệu. Kết quả là một nền kinh tế toàn trị đông cứng, mọi doanh nghiệp và mọi người lao động phụ thuộc vào chính phủ, và các quyền tự do truyền thống bị bỏ hẳn. Như Alexander Hamilton viết trong *The Federalist* một thế kỷ rưỡi trước: "Quyền lực đối với sinh kế của một người là quyền lực đối với ý chí của người đó."
+Hệ quả tự nhiên của một cuộc kiểm soát giá toàn diện, triệt để, nhằm duy trì mãi một mặt bằng giá lịch sử, cuối cùng phải là một nền kinh tế bị điều khiển hoàn toàn (*completely regimented economy*). Lương phải bị giữ cứng như giá. Lao động phải bị phân bổ gắt gao như nguyên liệu.
+
+Chính phủ sẽ không chỉ bảo mỗi người tiêu dùng được bao nhiêu mỗi thứ, mà còn bảo mỗi nhà sản xuất được bao nhiêu nguyên liệu và bao nhiêu lao động. Trả giá cạnh tranh để thuê công nhân cũng bị cấm như trả giá cạnh tranh để mua nguyên liệu. Kết quả là một nền kinh tế toàn trị đông cứng, mọi doanh nghiệp và mọi người lao động phụ thuộc vào chính phủ, và các quyền tự do truyền thống bị bỏ hẳn. Như Alexander Hamilton viết trong *The Federalist* một thế kỷ rưỡi trước: "Quyền lực đối với sinh kế của một người là quyền lực đối với ý chí của người đó."
 
 ### 5. (Mục 4, hai đoạn đầu) Thực tế: chợ đen và tác hại kinh tế, đạo đức
 
@@ -387,7 +396,9 @@ Nhưng không có cái gọi là tỷ suất lợi nhuận đồng đều; lợi
 
 Nhưng một sai lầm đứng sau phong trào ấn định giá chính là chủ đề chính của cuốn sách. Các kế hoạch nâng giá hàng được ưu ái xuất phát từ việc chỉ nghĩ tới lợi ích của người sản xuất trực tiếp liên quan mà quên lợi ích của người tiêu dùng; các kế hoạch ép giá bằng sắc lệnh xuất phát từ việc chỉ nghĩ tới con người với tư cách người tiêu dùng mà quên lợi ích của họ với tư cách người sản xuất. Sự ủng hộ chính trị cho các chính sách này cũng đến từ một sự lẫn lộn tương tự trong đầu công chúng. Không ai muốn trả nhiều hơn cho sữa, bơ, giày, đồ gỗ, tiền thuê nhà, vé xem hát hay kim cương. Hễ món nào lên giá hơn trước, người tiêu dùng phẫn nộ và thấy mình bị lừa.
 
-Ngoại lệ duy nhất là món hàng chính người đó làm ra: ở đây anh ta hiểu và thông cảm với lý do tăng giá. Anh ta luôn có xu hướng coi ngành của mình là ngoại lệ: "Ngành của tôi đặc biệt, công chúng không hiểu. Chi phí lao động tăng; giá nguyên liệu tăng; nguyên liệu này nọ không còn nhập được, phải làm trong nước với chi phí cao hơn. Thêm nữa, cầu với sản phẩm đã tăng, và ngành phải được phép bán ở mức giá cần thiết để khuyến khích mở rộng cung." Với tư cách người tiêu dùng, mỗi người mua hàng trăm thứ; với tư cách người sản xuất, thường chỉ làm ra một thứ. Anh ta thấy rõ sự bất công khi giá thứ đó bị ép. Mỗi nhà sản xuất muốn giá cao hơn cho sản phẩm của mình, mỗi người lao động muốn lương cao hơn. Ai cũng thấy, với tư cách người sản xuất, kiểm soát giá đang kìm sản xuất trong ngành mình. Nhưng gần như ai cũng từ chối khái quát hoá nhận xét đó, vì khái quát hoá nghĩa là phải trả nhiều hơn cho hàng của người khác.
+Ngoại lệ duy nhất là món hàng chính người đó làm ra: ở đây anh ta hiểu và thông cảm với lý do tăng giá. Anh ta luôn có xu hướng coi ngành của mình là ngoại lệ: "Ngành của tôi đặc biệt, công chúng không hiểu. Chi phí lao động tăng; giá nguyên liệu tăng; nguyên liệu này nọ không còn nhập được, phải làm trong nước với chi phí cao hơn. Thêm nữa, cầu với sản phẩm đã tăng, và ngành phải được phép bán ở mức giá cần thiết để khuyến khích mở rộng cung."
+
+Với tư cách người tiêu dùng, mỗi người mua hàng trăm thứ; với tư cách người sản xuất, thường chỉ làm ra một thứ. Anh ta thấy rõ sự bất công khi giá thứ đó bị ép. Mỗi nhà sản xuất muốn giá cao hơn cho sản phẩm của mình, mỗi người lao động muốn lương cao hơn. Ai cũng thấy, với tư cách người sản xuất, kiểm soát giá đang kìm sản xuất trong ngành mình. Nhưng gần như ai cũng từ chối khái quát hoá nhận xét đó, vì khái quát hoá nghĩa là phải trả nhiều hơn cho hàng của người khác.
 
 Nói gọn, mỗi người có một **nhân cách kinh tế đa diện**: vừa là người sản xuất, người nộp thuế, người tiêu dùng. Chính sách người đó ủng hộ tuỳ vào việc lúc ấy anh ta nghĩ về mình dưới vai nào; lúc là Dr. Jekyll, lúc là Mr. Hyde (hai nhân cách đối nghịch trong cùng một người, theo truyện của Robert Louis Stevenson).
 
@@ -501,11 +512,15 @@ Mỗi người dễ nghĩ rằng mình xoay xở được các lực chính tr�
 
 ### Phân tích cung cầu của Hazlitt về trần giá là điểm hiếm hoi mà gần như mọi trường phái kinh tế đều đồng ý
 
-Rất ít kết luận trong kinh tế học được đồng thuận rộng như kết luận rằng trần giá ràng buộc trên một thị trường cạnh tranh gây thiếu hụt. Các khảo sát ý kiến giới kinh tế học nhiều lần cho thấy đa số lớn đồng ý rằng kiểm soát giá thuê nhà làm giảm số lượng và chất lượng nhà cho thuê. Các trải nghiệm sau thời Hazlitt cũng khớp với cơ chế ông mô tả: đợt đóng băng lương và giá của Mỹ năm 1971–1974 đi kèm thiếu hàng (thịt, xăng) và hàng dài trước trạm xăng; các nền kinh tế kế hoạch hoá tập trung sống chung với xếp hàng và chợ đen kéo dài. Phần mạnh nhất của chương không phải hai hệ quả cầu tăng, cung giảm (sách giáo khoa nào cũng có), mà là **động học** của kiểm soát: mỗi biện pháp vá gây ra vấn đề mới, kéo kiểm soát lan theo chiều dọc và chiều ngang.
+Rất ít kết luận trong kinh tế học được đồng thuận rộng như kết luận rằng trần giá ràng buộc trên một thị trường cạnh tranh gây thiếu hụt. Các khảo sát ý kiến giới kinh tế học nhiều lần cho thấy đa số lớn đồng ý rằng kiểm soát giá thuê nhà làm giảm số lượng và chất lượng nhà cho thuê.
+
+Các trải nghiệm sau thời Hazlitt cũng khớp với cơ chế ông mô tả: đợt đóng băng lương và giá của Mỹ năm 1971–1974 đi kèm thiếu hàng (thịt, xăng) và hàng dài trước trạm xăng; các nền kinh tế kế hoạch hoá tập trung sống chung với xếp hàng và chợ đen kéo dài. Phần mạnh nhất của chương không phải hai hệ quả cầu tăng, cung giảm (sách giáo khoa nào cũng có), mà là **động học** của kiểm soát: mỗi biện pháp vá gây ra vấn đề mới, kéo kiểm soát lan theo chiều dọc và chiều ngang.
 
 ### Chương này lướt qua những trường hợp trần giá có thể không gây hại hoặc có ích
 
-Hazlitt giả định thị trường cạnh tranh. Khi một người bán có sức mạnh độc quyền (ví dụ một công ty điện, nước là người cung cấp duy nhất), một mức giá trần đặt khéo có thể làm tăng sản lượng; đó là cơ sở của việc điều tiết giá các ngành độc quyền tự nhiên, điều mà ngay cả nhiều nhà kinh tế ủng hộ thị trường cũng chấp nhận. Hazlitt cũng không xét các trường hợp khủng hoảng rất ngắn (thiên tai, dịch bệnh) mà ở đó lập luận công bằng và lo ngại về "tăng giá cắt cổ" có sức nặng chính trị thật; kinh tế học hiện đại vẫn tranh luận về luật chống tăng giá khi có thảm hoạ, và đa số vẫn nghiêng về phía Hazlitt (giá cao kéo hàng về vùng bị nạn), nhưng không đồng thuận tuyệt đối. Ngoài ra, ông gạt kiểm soát giá thời chiến ra ngoài mà không đánh giá, trong khi chính kinh nghiệm thời chiến là bằng chứng chủ yếu ông dùng.
+Hazlitt giả định thị trường cạnh tranh. Khi một người bán có sức mạnh độc quyền (ví dụ một công ty điện, nước là người cung cấp duy nhất), một mức giá trần đặt khéo có thể làm tăng sản lượng; đó là cơ sở của việc điều tiết giá các ngành độc quyền tự nhiên, điều mà ngay cả nhiều nhà kinh tế ủng hộ thị trường cũng chấp nhận.
+
+Hazlitt cũng không xét các trường hợp khủng hoảng rất ngắn (thiên tai, dịch bệnh) mà ở đó lập luận công bằng và lo ngại về "tăng giá cắt cổ" có sức nặng chính trị thật; kinh tế học hiện đại vẫn tranh luận về luật chống tăng giá khi có thảm hoạ, và đa số vẫn nghiêng về phía Hazlitt (giá cao kéo hàng về vùng bị nạn), nhưng không đồng thuận tuyệt đối. Ngoài ra, ông gạt kiểm soát giá thời chiến ra ngoài mà không đánh giá, trong khi chính kinh nghiệm thời chiến là bằng chứng chủ yếu ông dùng.
 
 ### Dự đoán "đi tới kinh tế chỉ huy" là điểm cuối logic, không phải điều chắc chắn xảy ra
 
@@ -526,3 +541,162 @@ Trong *The Federalist* số 79, Hamilton lập luận rằng lương thẩm phá
 - **Đầu tư.** Một ngành bị kiểm soát giá lâu dài (ví dụ giá điện, giá nước, giá thuê nhà) có xu hướng thiếu đầu tư mới; nhà đầu tư nên định giá rủi ro chính sách này, và cũng nên nhận ra cơ hội khi kiểm soát được dỡ bỏ (giá tăng nhưng cung cũng tăng trở lại).
 - **Nhận ra "giá thứ hai".** Khi giá chính thức bị ép, người mua phải trả phần còn lại bằng thứ khác: thời gian xếp hàng, quan hệ, phí "ngoài", mua kèm hàng không cần. Người làm kinh doanh hiểu điều này sẽ không nhầm giá niêm yết với chi phí thật.
 - **Soi chính mình.** Trước khi ủng hộ khống chế giá một thứ mình mua, hãy hỏi mình có chấp nhận cùng chính sách cho thứ mình làm ra không. Đó là phép thử "nhân cách kinh tế đa diện" của Hazlitt.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 17 trên một trang: tám nhánh lớn, sáu nhánh đầu đi theo các mục 1–7 của phần Nội dung chi tiết (lập luận "theo sức mua chứ không theo nhu cầu", cầu tăng và cung giảm, bốn biện pháp chữa cháy, kiểm soát lan tới kinh tế bị điều khiển toàn diện, chợ đen và ấn định giá theo sức mạnh chính trị, nhân cách kinh tế đa diện) và một nhánh cho phần Đánh giá, mỗi nhánh ghi lập luận, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 17: trần giá dưới mức thị trường làm tăng cầu, giảm cung, sinh thiếu hụt chính mặt hàng thiết yếu`"]
+  n1["`Mục 1 — Lập luận #quot;theo sức mua chứ không theo nhu cầu#quot;`"]
+  n0 --- n1
+  n2["`Hazlitt không đánh giá kiểm soát giá thời chiến, mà phê phán việc giữ nó rất lâu sau chiến tranh`"]
+  n1 --- n2
+  n3["`Chính phủ thường đặt trần giá cho hàng thiết yếu như bánh mì, sữa, thịt, để người nghèo mua được`"]
+  n1 --- n3
+  n4["`Lập luận ủng hộ: để thị trường tự do thì chỉ người giàu có thịt, theo sức mua chứ không theo nhu cầu`"]
+  n1 --- n4
+  n5["`Thịt bò 65 xu một pound hay trần giá 50 xu thì sức mua vẫn quyết định ai có thịt`"]
+  n1 --- n5
+  n6["`Lập luận chỉ hết đúng khi thịt được phát không, nên trần giá không nhất quán với chính lập luận của nó`"]
+  n1 --- n6
+  n7["`Giá ngày bắt đầu kiểm soát bị coi là #quot;bình thường#quot;, bất kể cung và cầu đã đổi bao nhiêu`"]
+  n1 --- n7
+  n8["`Mục 2 — Hai hệ quả tất yếu: cầu tăng, cung giảm`"]
+  n0 --- n8
+  n9["`Giả định: trần giá thấp hơn giá thị trường và công chúng có sức mua lớn hơn lượng hàng có sẵn`"]
+  n8 --- n9
+  n10["`Cầu tăng: hàng rẻ hơn nên người ta vừa muốn mua nhiều hơn, vừa đủ tiền mua nhiều hơn`"]
+  n8 --- n10
+  n11["`Cung giảm: biên lợi nhuận bị cắt, nhà sản xuất biên rời ngành, người hiệu quả nhất cũng có thể sản xuất lỗ`"]
+  n8 --- n11
+  n12["`OPA buộc lò mổ bán thịt dưới chi phí mua bò sống cộng công giết mổ, chế biến`"]
+  n8 --- n12
+  n13["`Kết quả là thiếu hụt đúng mặt hàng chính phủ muốn dồi dào nhất`"]
+  n8 --- n13
+  n14["`Hàng xa xỉ, nửa xa xỉ không bị khống chế nên được khuyến khích tương đối, ngược mục tiêu ban đầu`"]
+  n8 --- n14
+  n15["`Mục 3 — Bốn biện pháp chữa cháy`"]
+  n0 --- n15
+  n16["`Thiếu hụt lộ ra thì người giàu bị buộc tội lấy quá phần, doanh nghiệp bị buộc tội đầu cơ tích trữ`"]
+  n15 --- n16
+  n17["`Tem phiếu là hệ thống hai giá, hai loại tiền: phải có cả tiền lẫn tem phiếu hay #quot;điểm#quot;`"]
+  n15 --- n17
+  n18["`Tem phiếu chỉ giới hạn cầu, không kích thích cung như giá cao hơn sẽ làm`"]
+  n17 --- n18
+  n19["`Kiểm soát chi phí: bánh mì kéo theo bột mì, lợi nhuận nhà máy xay, giá lúa mì, lương thợ lò bánh`"]
+  n15 --- n19
+  n20["`Mỗi khâu bị ấn định giá lại sinh thiếu hụt riêng, kiểm soát theo vòng tròn ngày càng rộng`"]
+  n19 --- n20
+  n21["`Trợ cấp sữa, bơ: người sản xuất nhận không hơn giá thị trường, người tiêu dùng mới là người được trợ cấp`"]
+  n15 --- n21
+  n22["`Minh hoạ của người tổng hợp: bơ giá thị trường 80 xu, trần giá 60 xu, trợ cấp 20 xu`"]
+  n21 --- n22
+  n23["`Không kèm tem phiếu thì người nhiều sức mua nhất được trợ cấp nhiều nhất`"]
+  n21 --- n23
+  n24["`Con người với tư cách người nộp thuế trợ cấp cho chính mình với tư cách người tiêu dùng`"]
+  n21 --- n24
+  n25["`Kiểm soát chi phí kéo dài thì kết cục giống ấn định giá toàn bộ`"]
+  n15 --- n25
+  n26["`Mục 4 — Kiểm soát lan tới nền kinh tế bị điều khiển toàn diện`"]
+  n0 --- n26
+  n27["`Ngắn hạn có vẻ thành công nhờ lòng yêu nước thời chiến, càng kéo dài càng khó vì cầu vượt cung`"]
+  n26 --- n27
+  n28["`Lan theo chiều dọc: khống chế giá thành phẩm kéo theo khống chế lao động và nguyên liệu`"]
+  n26 --- n28
+  n29["`Lan theo chiều ngang: dân còn thừa sức mua chuyển sang hàng thay thế, phải phát tem phiếu thêm`"]
+  n26 --- n29
+  n30["`Trong chiến tranh, tem phiếu áp dụng trước tiên cho phân bổ nguyên liệu cho nhà sản xuất`"]
+  n26 --- n30
+  n31["`Điểm cuối logic: lương giữ cứng, lao động bị phân bổ như nguyên liệu, cấm trả giá cao để tranh thuê người`"]
+  n26 --- n31
+  n32["`Kinh tế toàn trị đông cứng, mọi người phụ thuộc chính phủ, quyền tự do truyền thống bị bỏ`"]
+  n26 --- n32
+  n33["`Hamilton: quyền lực đối với sinh kế của một người là quyền lực đối với ý chí của người đó`"]
+  n26 --- n33
+  n34["`Mục 5–6 — Thực tế: chợ đen và ấn định giá theo sức mạnh chính trị`"]
+  n0 --- n34
+  n35["`Châu Âu trong và sau Thế chiến II: nhiều người chỉ đủ sống nhờ chợ đen, có nước chợ đen là thị trường`"]
+  n34 --- n35
+  n36["`Chính khách vẫn giữ trần giá trên danh nghĩa để tỏ #quot;tấm lòng#quot; đặt đúng chỗ`"]
+  n34 --- n36
+  n37["`Thiệt hại kinh tế: doanh nghiệp lớn, lâu đời ngừng sản xuất, doanh nghiệp chộp giật làm hàng kém, chi phí cao`"]
+  n34 --- n37
+  n38["`Thiệt hại đạo đức: gian dối được thưởng, khách hàng thông đồng, suy đồi lan vào mọi tập quán kinh doanh`"]
+  n34 --- n38
+  n39["`#quot;Giữ nguyên mức#quot; thành ấn định giá phân biệt, có lợi nhất cho nhóm nhiều phiếu bầu: công nhân, nông dân`"]
+  n34 --- n39
+  n40["`Tăng lương mà giữ giá, nói lợi nhuận đã quá cao, nhưng lợi nhuận mỗi doanh nghiệp một khác`"]
+  n34 --- n40
+  n41["`Doanh nghiệp lãi ít nhất bị loại, dẫn tới thất nghiệp, sản xuất thu hẹp, mức sống giảm`"]
+  n34 --- n41
+  n42["`Mục 7 — Gốc rễ: quên rằng người tiêu dùng cũng là người sản xuất`"]
+  n0 --- n42
+  n43["`Nguyên nhân thật của tăng giá là hàng khan hiếm hoặc tiền thừa, trần giá không chữa được cái nào`"]
+  n42 --- n43
+  n44["`Kế hoạch nâng giá quên người tiêu dùng, kế hoạch ép giá quên con người cũng là người sản xuất`"]
+  n42 --- n44
+  n45["`Ai cũng thấy ngành mình đặc biệt: chi phí lao động, nguyên liệu tăng, cần giá cao để mở rộng cung`"]
+  n42 --- n45
+  n46["`Người tiêu dùng mua hàng trăm thứ, người sản xuất thường chỉ làm ra một thứ, nên không chịu khái quát hoá`"]
+  n42 --- n46
+  n47["`Nhân cách kinh tế đa diện: người sản xuất muốn lạm phát, người tiêu dùng muốn trần giá và trợ cấp`"]
+  n42 --- n47
+  n48["`Người nộp thuế lại không muốn trả tiền cho khoản trợ cấp đó`"]
+  n47 --- n48
+  n49["`Thao túng giá bằng chính trị gây thiệt nhiều hơn hẳn lợi, vì làm nản và rối loạn sản xuất`"]
+  n42 --- n49
+  n50["`Đánh giá — Chỗ đồng thuận và chỗ Hazlitt lướt qua`"]
+  n0 --- n50
+  n51["`Trần giá ràng buộc gây thiếu hụt là kết luận hiếm hoi gần như mọi trường phái đồng ý`"]
+  n50 --- n51
+  n52["`Đóng băng lương và giá ở Mỹ 1971–1974 đi kèm thiếu thịt, xăng và hàng dài trước trạm xăng`"]
+  n50 --- n52
+  n53["`Phần mạnh nhất là động học: mỗi biện pháp vá gây vấn đề mới, kéo kiểm soát lan dọc và ngang`"]
+  n50 --- n53
+  n54["`Với người bán độc quyền như công ty điện, nước, trần giá đặt khéo có thể làm tăng sản lượng`"]
+  n50 --- n54
+  n55["`Kinh tế chỉ huy là hướng của áp lực chứ không phải định mệnh: Tây Đức 1948 bỏ kiểm soát, hàng xuất hiện lại`"]
+  n50 --- n55
+  n56["`Câu Hamilton gốc nói về lương thẩm phán, không nói về kiểm soát giá`"]
+  n50 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Nhìn hệ quả với mọi nhóm: người tiêu dùng, người sản xuất biên, người nộp thuế, không chỉ người mua hôm nay`"]
+  n57 --- n58
+  n59["`Giá bị ép thì người mua trả #quot;giá thứ hai#quot; bằng xếp hàng, tem phiếu, quan hệ, chợ đen`"]
+  n57 --- n59
+  n60["`Trước khi ủng hộ khống chế giá thứ mình mua, hỏi có chấp nhận điều đó cho thứ mình làm ra không`"]
+  n57 --- n60
+  class n0 root
+  class n1,n8,n15,n26,n34,n42,n50,n57 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 17 "Government Price-Fixing". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 13 ("Parity" Prices), 14 (Saving the X Industry) và 16 ("Stabilizing" Commodities) xét các nỗ lực của chính phủ đẩy giá một số hàng **lên trên** mức thị trường tự do. Chương 15 (How the Price System Works) giải thích giá thị trường điều phối sản xuất ra sao. Chương 17 xét chiều ngược lại: chính phủ giữ giá **xuống dưới** mức thị trường, tức đặt **trần giá** (price ceiling).
+
+Hai chương sau áp dụng cùng logic cho giá của lao động: Chương 18 (lương tối thiểu, một giá sàn do luật đặt ra) và Chương 19 (công đoàn dùng sức ép để nâng lương).
+
+Ở cuối chương, Hazlitt nói nguyên nhân thật của tăng giá là hàng khan hiếm hoặc tiền thừa, và hẹn bàn việc xử lý tiền thừa "ở một chương sau" (theo người tổng hợp, đó là Chương 22, The Mirage of Inflation).
+
+## Lưu ý
+
+- Bối cảnh: trong Thế chiến II, Mỹ lập Cơ quan Quản lý Giá (*Office of Price Administration*, OPA, 1941) để đặt trần giá và phát tem phiếu cho thịt, đường, xăng, lốp xe, giày… Khi Hazlitt viết sách (1946), chiến tranh đã kết thúc nhưng kiểm soát giá vẫn còn; năm 1946 có giai đoạn trần giá thịt bị bỏ rồi áp lại, và thịt biến mất khỏi quầy hàng. Phần lớn kiểm soát giá của OPA bị dỡ vào cuối năm 1946, nhưng kiểm soát tiền thuê nhà ở nhiều nơi kéo dài nhiều năm. Ở châu Âu (Anh, Pháp, Đức), tem phiếu và trần giá kéo dài tới đầu thập niên 1950.
+- Hazlitt nói rõ ông **không** bàn việc ấn định giá trong thời chiến có khôn ngoan hay không; ông nhấn mạnh rằng ở hầu hết các nước nó được duy trì rất lâu sau chiến tranh, dù ví dụ ông dùng vẫn lấy từ thời chiến.
+- Câu của Alexander Hamilton mà Hazlitt trích ("Quyền lực đối với sinh kế của một người là quyền lực đối với ý chí của người đó") nằm trong *The Federalist* số 79, nói về việc giữ lương thẩm phán ổn định để họ độc lập, không nói về kiểm soát giá; Hazlitt dùng câu đó theo nghĩa mở rộng.
+- Mọi câu trích là bản dịch của người tổng hợp.

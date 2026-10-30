@@ -1,11 +1,14 @@
 # Chương 9 — Giải ngũ binh lính và cắt giảm công chức (Disbanding Troops and Bureaucrats)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 9 "Disbanding Troops and Bureaucrats". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 7 và 8 xét những việc làm được "bảo vệ" bằng cách cản trở hiệu quả (chống máy móc, chia việc). Chương 9 xét trường hợp ngược chiều: khi nhà nước **thôi trả lương** cho một nhóm người (binh lính sau chiến tranh, công chức thừa), có làm mất "sức mua" và gây suy thoái không. Hazlitt áp dụng "bài học" theo đúng mẫu của Chương 4 (công trình công cộng nghĩa là thuế) và Chương 5 (thuế làm giảm sản xuất): tiền trả cho nhóm này đến từ người nộp thuế, nên phải nhìn cả người nộp thuế. Chương 10 rút ra kết luận chung cho cả cụm 7–10: mục tiêu là sản xuất, không phải việc làm.
-**Ý chính:** Hazlitt muốn chứng minh rằng giải ngũ binh lính không còn cần cho quốc phòng, hay cắt giảm công chức không đem lại dịch vụ tương xứng với tiền lương, **không làm giảm sức mua và việc làm của cả nền kinh tế**, mà làm đất nước giàu hơn. Lý do: tiền nuôi họ đến từ thuế; khi không còn phải nuôi họ, người nộp thuế giữ lại đúng số tiền đó và chi tiêu, tạo cầu để thuê chính những người vừa rời khu vực nhà nước. Hơn nữa, người được nuôi bằng thuế mà không làm gì hữu ích trở thành người tự nuôi mình bằng cách bán hàng hoá, dịch vụ, nên tổng sản lượng tăng. Ông đẩy lập luận "giữ công chức để giữ sức mua" tới chỗ vô lý: lập luận ấy cũng biện hộ được cho tên trộm, vì sau khi lấy tiền của bạn, hắn cũng có sức mua.
+## Ý chính
 
-> **Lưu ý:** (1) Hazlitt viết năm 1945–1946, khi Mỹ đang giải ngũ hơn mười triệu quân nhân sau Thế chiến II, và nhiều nhà kinh tế theo Keynes dự báo thất nghiệp hàng loạt sẽ quay lại. Thực tế, thất nghiệp ở Mỹ những năm 1946–1948 ở mức thấp, đúng với nhận xét của Hazlitt rằng điều đáng chú ý là tốc độ tái hấp thụ nhanh chứ không phải chậm. (2) Bộ máy liên bang Mỹ phình to mạnh qua thời New Deal và chiến tranh; "Washington" trong chương là thủ đô, nơi tập trung công chức liên bang. (3) Hazlitt hẹn bàn về thâm hụt ngân sách "ở một chương sau"; vấn đề này được bàn khi ông phân tích lạm phát (Chương 22). (4) Câu trích trong file là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng giải ngũ binh lính không còn cần cho quốc phòng, hay cắt giảm công chức không đem lại dịch vụ tương xứng với tiền lương, **không làm giảm sức mua và việc làm của cả nền kinh tế**, mà làm đất nước giàu hơn.
+
+Lý do: tiền nuôi họ đến từ thuế; khi không còn phải nuôi họ, người nộp thuế giữ lại đúng số tiền đó và chi tiêu, tạo cầu để thuê chính những người vừa rời khu vực nhà nước.
+
+Hơn nữa, người được nuôi bằng thuế mà không làm gì hữu ích trở thành người tự nuôi mình bằng cách bán hàng hoá, dịch vụ, nên tổng sản lượng tăng.
+
+Ông đẩy lập luận "giữ công chức để giữ sức mua" tới chỗ vô lý: lập luận ấy cũng biện hộ được cho tên trộm, vì sau khi lấy tiền của bạn, hắn cũng có sức mua.
 
 ## Sơ đồ
 
@@ -192,7 +195,9 @@ Và một lần nữa, vấn đề không dừng ở đó. Đất nước không
 
 Hazlitt nhấn mạnh ông không nói về những công chức thật sự cần thiết. Cảnh sát, lính cứu hoả, công nhân vệ sinh đường phố, cán bộ y tế, thẩm phán, nhà lập pháp và người điều hành cần thiết làm những dịch vụ sản xuất quan trọng không kém bất kỳ ai ở khu vực tư. Họ giúp khu vực tư nhân hoạt động trong môi trường luật pháp, trật tự, tự do và hoà bình. Nhưng lý do để giữ họ nằm ở **tính hữu ích của dịch vụ** họ làm, chứ không ở "sức mua" họ có nhờ ăn lương nhà nước.
 
-Nếu xét nghiêm túc, lập luận "sức mua" là hoang đường. Nó áp dụng được y hệt cho một kẻ cướp hay một tên trộm lấy tiền của bạn. Sau khi lấy tiền của bạn, hắn có thêm sức mua. Hắn dùng nó nuôi quán bar, nhà hàng, hộp đêm, tiệm may, có khi cả công nhân ô tô. Nhưng mỗi việc làm mà chi tiêu của hắn tạo ra, chi tiêu của bạn phải tạo ra ít đi một việc, vì bạn có ít tiền hơn đúng bằng chừng đó. Người nộp thuế cũng vậy: mỗi việc làm do chi tiêu của công chức tạo ra là một việc làm người nộp thuế không tạo ra được. Khi tiền của bạn bị trộm lấy, bạn không nhận lại gì. Khi tiền của bạn bị lấy qua thuế để nuôi những công chức không cần thiết, tình trạng hoàn toàn giống vậy.
+Nếu xét nghiêm túc, lập luận "sức mua" là hoang đường. Nó áp dụng được y hệt cho một kẻ cướp hay một tên trộm lấy tiền của bạn. Sau khi lấy tiền của bạn, hắn có thêm sức mua. Hắn dùng nó nuôi quán bar, nhà hàng, hộp đêm, tiệm may, có khi cả công nhân ô tô. Nhưng mỗi việc làm mà chi tiêu của hắn tạo ra, chi tiêu của bạn phải tạo ra ít đi một việc, vì bạn có ít tiền hơn đúng bằng chừng đó.
+
+Người nộp thuế cũng vậy: mỗi việc làm do chi tiêu của công chức tạo ra là một việc làm người nộp thuế không tạo ra được. Khi tiền của bạn bị trộm lấy, bạn không nhận lại gì. Khi tiền của bạn bị lấy qua thuế để nuôi những công chức không cần thiết, tình trạng hoàn toàn giống vậy.
 
 | | Tên trộm | Công chức thừa |
 |---|---|---|
@@ -293,11 +298,17 @@ Chi tiêu của nhà nước để trả lương cho người không cung cấp 
 
 ### Dự báo về giải ngũ sau Thế chiến II là một trong những dự báo đúng nhất của cuốn sách
 
-Hazlitt viết chương này khi Mỹ đang đưa hơn mười triệu quân nhân về nhà trong vòng một hai năm và cắt chi tiêu quân sự rất mạnh. Nhiều nhà kinh tế lúc đó lo thất nghiệp kiểu thập niên 1930 sẽ quay lại. Điều đó không xảy ra: thất nghiệp ở Mỹ những năm ngay sau chiến tranh giữ ở mức thấp, và khu vực tư hấp thụ lực lượng lao động cũ của quân đội nhanh, đúng như ông nói. Nhưng cần nói đủ: sự hấp thụ ấy được hỗ trợ bởi những điều nằm ngoài lập luận của Hazlitt, như khoản tiết kiệm lớn hộ gia đình tích luỹ trong chiến tranh (khi hàng tiêu dùng bị hạn chế), cầu bị dồn nén về nhà ở và ô tô, và chương trình hỗ trợ cựu chiến binh (GI Bill) đưa nhiều người vào đại học thay vì thị trường lao động. Lập luận "tiền thuế được giữ lại" là một phần lời giải thích, không phải toàn bộ.
+Hazlitt viết chương này khi Mỹ đang đưa hơn mười triệu quân nhân về nhà trong vòng một hai năm và cắt chi tiêu quân sự rất mạnh. Nhiều nhà kinh tế lúc đó lo thất nghiệp kiểu thập niên 1930 sẽ quay lại.
+
+Điều đó không xảy ra: thất nghiệp ở Mỹ những năm ngay sau chiến tranh giữ ở mức thấp, và khu vực tư hấp thụ lực lượng lao động cũ của quân đội nhanh, đúng như ông nói.
+
+Nhưng cần nói đủ: sự hấp thụ ấy được hỗ trợ bởi những điều nằm ngoài lập luận của Hazlitt, như khoản tiết kiệm lớn hộ gia đình tích luỹ trong chiến tranh (khi hàng tiêu dùng bị hạn chế), cầu bị dồn nén về nhà ở và ô tô, và chương trình hỗ trợ cựu chiến binh (GI Bill) đưa nhiều người vào đại học thay vì thị trường lao động. Lập luận "tiền thuế được giữ lại" là một phần lời giải thích, không phải toàn bộ.
 
 ### Chữ "ít nhất bằng" là chỗ yếu nhất về lý thuyết, và là chỗ Keynes và Hazlitt chia tay
 
-Hazlitt khẳng định sức mua của người nộp thuế tăng "ít nhất bằng" mức giảm của công chức. Nếu người nộp thuế tiết kiệm một phần số tiền được giữ lại, và khoản tiết kiệm đó không được đầu tư ngay (như có thể xảy ra trong suy thoái), thì cầu tổng thể giảm trong ngắn hạn. Đây là logic của số nhân ngân sách cân bằng. Bằng chứng thực nghiệm về chương trình thắt lưng buộc bụng ở châu Âu sau năm 2010 cho thấy cắt giảm chi tiêu công trong suy thoái có thể làm sản lượng giảm nhiều hơn dự kiến trong ngắn hạn. Đọc công bằng: lập luận của Hazlitt đúng cho dài hạn và cho nền kinh tế gần toàn dụng; trong suy thoái sâu, thời điểm cắt giảm quan trọng. Lập luận "làm đất nước giàu hơn" (người không sản xuất thành người sản xuất) thì đứng vững bất kể thời điểm, vì nó nói về cung chứ không về cầu.
+Hazlitt khẳng định sức mua của người nộp thuế tăng "ít nhất bằng" mức giảm của công chức. Nếu người nộp thuế tiết kiệm một phần số tiền được giữ lại, và khoản tiết kiệm đó không được đầu tư ngay (như có thể xảy ra trong suy thoái), thì cầu tổng thể giảm trong ngắn hạn. Đây là logic của số nhân ngân sách cân bằng. Bằng chứng thực nghiệm về chương trình thắt lưng buộc bụng ở châu Âu sau năm 2010 cho thấy cắt giảm chi tiêu công trong suy thoái có thể làm sản lượng giảm nhiều hơn dự kiến trong ngắn hạn.
+
+Đọc công bằng: lập luận của Hazlitt đúng cho dài hạn và cho nền kinh tế gần toàn dụng; trong suy thoái sâu, thời điểm cắt giảm quan trọng. Lập luận "làm đất nước giàu hơn" (người không sản xuất thành người sản xuất) thì đứng vững bất kể thời điểm, vì nó nói về cung chứ không về cầu.
 
 ### Câu hỏi khó nhất là ai được coi là "thừa", và Hazlitt không trả lời
 
@@ -313,3 +324,126 @@ Ví dụ tên trộm chứng minh chặt chẽ rằng việc chi tiêu của ng�
 - **Trong doanh nghiệp.** Doanh nghiệp cũng có "công chức thừa": bộ phận, chức danh tồn tại vì lịch sử, được bảo vệ bằng lập luận "cắt đi thì ảnh hưởng tinh thần" hoặc "cắt đi thì nhà cung cấp X mất đơn". Tiêu chí của Hazlitt áp dụng thẳng: giữ một vị trí vì dịch vụ nó tạo ra cho khách hàng hay cho các bộ phận khác, không vì tiền nó chi ra. Khi lý do duy nhất còn lại là "giữ ổn định", đó là dấu hiệu nên xem xét lại.
 - **Với người đầu tư và kinh doanh địa phương.** Ví dụ Washington nhắc rằng chi tiêu công tập trung tạo ra những "nền kinh tế phụ thuộc" (cửa hàng, nhà cho thuê quanh trụ sở cơ quan, doanh trại). Khi đầu tư bất động sản hay mở cửa hàng dựa vào khách hàng là cơ quan nhà nước, cần tính tới rủi ro bộ máy được sắp xếp lại. Ngược lại, khi bộ máy dời đi hay thu gọn, cầu không biến mất mà chuyển sang nơi khác; cơ hội nằm ở chỗ người nộp thuế và người lao động mới chuyển tới.
 - **Với nghề nghiệp.** Câu "họ chỉ có việc tư nhân bằng cách cung cấp dịch vụ tương đương cho khách hàng" là thước đo tốt cho chính mình: một vị trí bền vững khi có người sẵn lòng trả tiền cho thứ nó làm ra, dù ở khu vực công hay tư.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: năm nhánh lớn đi theo các mục 1–4 của phần Nội dung chi tiết và phần Đánh giá (nỗi sợ thất nghiệp khi giải ngũ, giải ngũ làm đất nước giàu hơn, cắt công chức thừa và lời kêu giảm phát, công chức cần thiết và lập luận sức mua của tên trộm, chỗ đúng và chỗ yếu của lập luận), mỗi nhánh ghi lập luận thấy và không thấy, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: cắt quân và công chức thừa không làm giảm sức mua hay việc làm, mà làm đất nước giàu hơn`"]
+  n1["`Mục 1 — Giải ngũ: nỗi sợ thất nghiệp chỉ nhìn một phía`"]
+  n0 --- n1
+  n2["`Sau mỗi cuộc chiến lớn, đề xuất giải ngũ kéo theo nỗi sợ không đủ việc cho binh lính trở về`"]
+  n1 --- n2
+  n3["`Hàng triệu người được thả cùng lúc có thể cần thời gian, nhưng trong quá khứ tái hấp thụ diễn ra nhanh`"]
+  n1 --- n3
+  n4["`Cái thấy: binh lính đổ vào thị trường lao động, người ta hỏi sức mua đâu ra để thuê họ`"]
+  n1 --- n4
+  n5["`Cái không thấy: ngân sách cân bằng thì người nộp thuế giữ lại tiền nuôi quân và mua thêm hàng`"]
+  n1 --- n5
+  n6["`Cầu dân sự tăng, đủ để thuê chính những binh lính cũ`"]
+  n5 --- n6
+  n7["`Nếu nuôi quân bằng thâm hụt: giảm thuế đúng bằng tiền nuôi quân thì mức thâm hụt vẫn như cũ`"]
+  n1 --- n7
+  n8["`Mục 2 — Giải ngũ làm đất nước giàu hơn`"]
+  n0 --- n8
+  n9["`Binh lính không thành dân sự được dân sự khác nuôi, mà thành dân sự tự nuôi mình`"]
+  n8 --- n9
+  n10["`Giữ quân không còn cần cho quốc phòng là lãng phí thuần túy: không sản xuất, người nộp thuế không nhận lại gì`"]
+  n8 --- n10
+  n11["`Sau giải ngũ, người nộp thuế trả tiền cho họ để đổi lấy hàng hóa, dịch vụ tương đương`"]
+  n8 --- n11
+  n12["`Tổng sản lượng quốc gia, tức của cải của mọi người, cao hơn đúng phần binh lính cũ làm ra`"]
+  n8 --- n12
+  n13["`Mục 3 — Cắt công chức thừa và lời kêu giảm phát`"]
+  n0 --- n13
+  n14["`Công chức thừa: giữ quá đông, không cung cấp dịch vụ tương xứng với tiền lương`"]
+  n13 --- n14
+  n15["`Lời kêu: cắt giảm gây giảm phát, lấy mất sức mua của công chức, chủ nhà cho thuê và cửa hàng`"]
+  n13 --- n15
+  n16["`Sức mua của người nộp thuế tăng ít nhất bằng mức giảm sức mua của công chức cũ`"]
+  n13 --- n16
+  n17["`Washington kém thịnh vượng và có lẽ ít cửa hàng hơn, các thành phố khác nuôi được nhiều cửa hàng hơn`"]
+  n13 --- n17
+  n18["`Công chức cũ phải tìm việc tư hoặc lập doanh nghiệp, cung cấp dịch vụ tương đương cho khách hàng`"]
+  n13 --- n18
+  n19["`Từ kẻ ăn bám thành người sản xuất, nên đất nước khá hơn nhiều chứ không chỉ bằng như cũ`"]
+  n18 --- n19
+  n20["`Ví dụ của người tổng hợp: 1.000 vị trí trùng lặp × 150 triệu đồng là 150 tỉ đồng/năm được dùng nơi khác`"]
+  n13 --- n20
+  n21["`Mục 4 — Công chức cần thiết và lập luận sức mua của tên trộm`"]
+  n0 --- n21
+  n22["`Cảnh sát, cứu hỏa, vệ sinh đường phố, y tế, thẩm phán, nhà lập pháp làm dịch vụ sản xuất`"]
+  n21 --- n22
+  n23["`Họ tạo môi trường luật pháp, trật tự, tự do và hòa bình cho khu vực tư`"]
+  n21 --- n23
+  n24["`Lý do giữ họ là tính hữu ích của dịch vụ, không phải sức mua họ có nhờ ăn lương nhà nước`"]
+  n21 --- n24
+  n25["`Lập luận sức mua biện hộ được cả cho tên trộm: hắn chi tiền ở quán bar, nhà hàng, tiệm may`"]
+  n21 --- n25
+  n26["`Mỗi việc làm chi tiêu của hắn tạo ra là một việc làm nạn nhân không tạo ra được`"]
+  n25 --- n26
+  n27["`Tiền bị trộm hay bị thu thuế nuôi công chức thừa, bạn đều không nhận lại gì`"]
+  n25 --- n27
+  n28["`Còn tệ hơn: công chức thừa thường là nhà cải cách hăng hái làm nản lòng và phá rối sản xuất`"]
+  n21 --- n28
+  n29["`Không tìm được lý do nào hơn giữ sức mua của họ là dấu hiệu đã đến lúc cắt bỏ nhóm đó`"]
+  n21 --- n29
+  n30["`Đánh giá — Chỗ đúng và chỗ yếu của lập luận`"]
+  n0 --- n30
+  n31["`Dự báo đúng: Mỹ giải ngũ hơn mười triệu quân, thất nghiệp 1946–1948 vẫn ở mức thấp`"]
+  n30 --- n31
+  n32["`Còn nhờ tiết kiệm thời chiến, cầu dồn nén về nhà ở, ô tô và GI Bill đưa cựu binh vào đại học`"]
+  n31 --- n32
+  n33["`Chữ ít nhất bằng là chỗ yếu: người nộp thuế tiết kiệm một phần thì cầu giảm trong suy thoái`"]
+  n30 --- n33
+  n34["`Thắt lưng buộc bụng ở châu Âu sau 2010 làm sản lượng giảm nhiều hơn dự kiến trong ngắn hạn`"]
+  n33 --- n34
+  n35["`Đúng cho dài hạn và gần toàn dụng, còn lập luận người không sản xuất thành người sản xuất đứng vững mọi lúc`"]
+  n33 --- n35
+  n36["`Hazlitt không trả lời ai là thừa: thanh tra, thống kê, cấp phép, quy hoạch nằm ở vùng giữa`"]
+  n30 --- n36
+  n37["`Ví dụ tên trộm hơi bất công: công chức thừa không tự chọn vị trí và cần thời gian chuyển đổi`"]
+  n30 --- n37
+  n38["`Thông điệp xuyên suốt`"]
+  n0 --- n38
+  n39["`Tiền trả cho nhóm được nhà nước nuôi đến từ người nộp thuế, nên phải nhìn cả người nộp thuế`"]
+  n38 --- n39
+  n40["`Giữ một vị trí vì dịch vụ nó tạo ra, không vì tiền lương nó chi ra`"]
+  n38 --- n40
+  n41["`Khi bộ máy thu gọn, cầu không biến mất mà chuyển sang nơi khác`"]
+  n38 --- n41
+  n42["`Một vị trí bền vững khi có người sẵn lòng trả tiền cho thứ nó làm ra, ở khu vực công hay tư`"]
+  n38 --- n42
+  class n0 root
+  class n1,n8,n13,n21,n30,n38 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 9 "Disbanding Troops and Bureaucrats". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 7 và 8 xét những việc làm được "bảo vệ" bằng cách cản trở hiệu quả (chống máy móc, chia việc).
+
+Chương 9 xét trường hợp ngược chiều: khi nhà nước **thôi trả lương** cho một nhóm người (binh lính sau chiến tranh, công chức thừa), có làm mất "sức mua" và gây suy thoái không. Hazlitt áp dụng "bài học" theo đúng mẫu của Chương 4 (công trình công cộng nghĩa là thuế) và Chương 5 (thuế làm giảm sản xuất): tiền trả cho nhóm này đến từ người nộp thuế, nên phải nhìn cả người nộp thuế.
+
+Chương 10 rút ra kết luận chung cho cả cụm 7–10: mục tiêu là sản xuất, không phải việc làm.
+
+## Lưu ý
+
+- Hazlitt viết năm 1945–1946, khi Mỹ đang giải ngũ hơn mười triệu quân nhân sau Thế chiến II, và nhiều nhà kinh tế theo Keynes dự báo thất nghiệp hàng loạt sẽ quay lại. Thực tế, thất nghiệp ở Mỹ những năm 1946–1948 ở mức thấp, đúng với nhận xét của Hazlitt rằng điều đáng chú ý là tốc độ tái hấp thụ nhanh chứ không phải chậm.
+- Bộ máy liên bang Mỹ phình to mạnh qua thời New Deal và chiến tranh; "Washington" trong chương là thủ đô, nơi tập trung công chức liên bang.
+- Hazlitt hẹn bàn về thâm hụt ngân sách "ở một chương sau"; vấn đề này được bàn khi ông phân tích lạm phát (Chương 22).
+- Câu trích trong file là bản dịch của người tổng hợp.

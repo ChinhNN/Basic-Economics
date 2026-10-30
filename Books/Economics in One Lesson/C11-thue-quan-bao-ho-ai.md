@@ -1,11 +1,16 @@
 # Chương 11 — Thuế quan thực ra "bảo hộ" ai? (Who's "Protected" by Tariffs?)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 11 "Who's 'Protected' by Tariffs?". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 nêu "bài học" (*the lesson*): phải xét tác động của một chính sách lên mọi nhóm và trong dài hạn, không chỉ lên một nhóm và trong ngắn hạn. Các chương 2–10 áp dụng bài học vào chi tiêu công, thuế, tín dụng, máy móc, chia việc và toàn dụng lao động. Chương 11 đưa bài học ra thương mại quốc tế, lĩnh vực mà theo Hazlitt dư luận "chưa theo kịp Adam Smith". Chương này dùng lại cách lập luận của Chương 7 (về máy móc): thừa nhận có người bị thiệt thật, nhưng tính cả những người được lợi không ai nhìn thấy. Chương 12 đi tiếp từ một kết luận của chương này: nhập khẩu và xuất khẩu gắn với nhau, nên chặn nhập khẩu cũng là chặn xuất khẩu, và ráng đẩy xuất khẩu bằng cho vay xấu thì cũng vô ích. Chương 13 dùng lại chính lập luận "thuế quan" để bác hệ thống giá ngang giá (parity) cho nông sản.
-**Ý chính:** Hazlitt muốn chứng minh rằng thuế quan bảo hộ (*protective tariff*) không tạo thêm việc làm ròng, không nâng lương chung, và trong dài hạn làm **giảm lương thực tế** của cả nước. Ví dụ trung tâm là áo len: nhà sản xuất Mỹ bán 15 USD một chiếc, áo Anh cùng chất lượng bán 10 USD, nên cần thuế 5 USD để tồn tại. Bỏ thuế thì 1.000 công nhân của ông mất việc (cái thấy được), nhưng mỗi người mua áo còn dư 5 USD để chi cho các ngành khác, và người Anh có thêm đô la để mua ô tô, máy giặt Mỹ (cái không thấy). Ngược lại, dựng thuế để lập ngành áo len thì 20.000 việc làm trong ngành áo len được bù bằng 20.000 việc làm mất đi ở các ngành khác. Thuế quan chuyển lao động và vốn từ việc làm giỏi sang việc làm kém, nên làm giảm năng suất. Nó không phải mâu thuẫn giữa "người sản xuất" và "người tiêu dùng", mà là ngành được bảo hộ hưởng lợi trên lưng mọi người tiêu dùng **và** mọi người sản xuất khác, nhất là ngành xuất khẩu. Hazlitt cũng thừa nhận thẳng: bỏ thuế quan thì một số nhóm bị thiệt thật.
+## Ý chính
 
-> **Lưu ý:** (1) Bối cảnh: năm 1946 nước Mỹ vẫn còn chịu di sản của Đạo luật thuế quan Smoot–Hawley (1930), đạo luật nâng thuế nhập khẩu lên rất cao và bị các nước trả đũa, góp phần làm thương mại thế giới sụp trong Đại suy thoái. Từ 1934, Đạo luật Hiệp định Thương mại Có đi có lại (*Reciprocal Trade Agreements Act*) cho phép tổng thống thương lượng giảm thuế song phương. Hiệp định chung về Thuế quan và Thương mại (GATT, tiền thân của WTO) được ký năm 1947, tức là ngay sau khi sách ra. Vì vậy chủ đề "bỏ hay giữ thuế quan" là cuộc tranh luận đang nóng khi Hazlitt viết. (2) Các con số áo len (15 USD, 10 USD, 1.000 công nhân, 20.000 công nhân, 5 cent ở mỗi ngành trong 100 ngành) là ví dụ giả định của Hazlitt, không phải số liệu thật; ông tự nói con số "chỉ để minh hoạ một nguyên lý". (3) Khẳng định "thuế quan **luôn** làm giảm lương thực tế" mạnh hơn điều lý thuyết thương mại về sau chứng minh được: định lý Stolper–Samuelson (1941) cho thấy thuế quan có thể làm tăng lương thực tế của yếu tố sản xuất khan hiếm trong nước, và một nước lớn có thể được lợi nhờ thuế quan "tối ưu" nếu đối tác không trả đũa (xem phần Đánh giá). (4) Mọi câu trích, kể cả hai câu Hazlitt trích từ *Của cải của các dân tộc*, là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng thuế quan bảo hộ (*protective tariff*) không tạo thêm việc làm ròng, không nâng lương chung, và trong dài hạn làm **giảm lương thực tế** của cả nước.
+
+Ví dụ trung tâm là áo len: nhà sản xuất Mỹ bán 15 USD một chiếc, áo Anh cùng chất lượng bán 10 USD, nên cần thuế 5 USD để tồn tại. Bỏ thuế thì 1.000 công nhân của ông mất việc (cái thấy được), nhưng mỗi người mua áo còn dư 5 USD để chi cho các ngành khác, và người Anh có thêm đô la để mua ô tô, máy giặt Mỹ (cái không thấy).
+
+Ngược lại, dựng thuế để lập ngành áo len thì 20.000 việc làm trong ngành áo len được bù bằng 20.000 việc làm mất đi ở các ngành khác. Thuế quan chuyển lao động và vốn từ việc làm giỏi sang việc làm kém, nên làm giảm năng suất.
+
+Nó không phải mâu thuẫn giữa "người sản xuất" và "người tiêu dùng", mà là ngành được bảo hộ hưởng lợi trên lưng mọi người tiêu dùng **và** mọi người sản xuất khác, nhất là ngành xuất khẩu.
+
+Hazlitt cũng thừa nhận thẳng: bỏ thuế quan thì một số nhóm bị thiệt thật.
 
 ## Sơ đồ
 
@@ -335,7 +340,11 @@ Thuế mới trên áo len không làm tăng lương ở Mỹ. Nó chỉ cho ph�
 
 Thuế quan làm lương danh nghĩa giảm hay giá danh nghĩa tăng là tuỳ chính sách tiền tệ. Nhưng điều chắc chắn là thuế quan, dù có thể làm lương trong ngành được bảo hộ cao hơn mức lẽ ra, xét ròng trên mọi nghề phải làm giảm lương thực tế. Hazlitt cho rằng chỉ những đầu óc bị "nhiều thế hệ tuyên truyền sai lệch" làm hỏng mới thấy kết luận này nghịch lý: cố tình dùng vốn và nhân lực kém hơn mức mình biết dùng, cố tình dựng chướng ngại cho thương mại và vận tải, thì còn mong kết quả nào khác?
 
-**Bức tường thuế quan giống tường thật.** Hazlitt nhận xét phe bảo hộ quen dùng ngôn ngữ chiến tranh: họ nói "đẩy lùi cuộc xâm lăng" của hàng ngoại. Hàng rào thuế quan giống bẫy xe tăng, chiến hào, dây thép gai dựng lên để chặn quân địch. Quân địch phải dùng phương tiện đắt hơn để vượt qua (xe tăng lớn hơn, máy dò mìn, công binh cắt dây, lội suối, bắc cầu); tương tự, phải có phương tiện vận tải đắt hơn và hiệu quả hơn để vượt rào thuế. Nghịch lý: một mặt ta đầu tư vào tàu nhanh hơn, đường và cầu tốt hơn, đầu máy và xe tải tốt hơn để giảm chi phí chở hàng giữa Anh và Mỹ, giữa Canada và Mỹ; mặt khác ta dựng thuế quan làm việc chở hàng còn khó hơn trước về mặt thương mại. "Ta làm cho việc chở áo len rẻ đi 1 đô la, rồi tăng thuế 2 đô la để áo không chở sang được." Lượng hàng chở có lãi giảm thì giá trị của khoản đầu tư vào vận tải giảm theo.
+**Bức tường thuế quan giống tường thật.** Hazlitt nhận xét phe bảo hộ quen dùng ngôn ngữ chiến tranh: họ nói "đẩy lùi cuộc xâm lăng" của hàng ngoại. Hàng rào thuế quan giống bẫy xe tăng, chiến hào, dây thép gai dựng lên để chặn quân địch.
+
+Quân địch phải dùng phương tiện đắt hơn để vượt qua (xe tăng lớn hơn, máy dò mìn, công binh cắt dây, lội suối, bắc cầu); tương tự, phải có phương tiện vận tải đắt hơn và hiệu quả hơn để vượt rào thuế.
+
+Nghịch lý: một mặt ta đầu tư vào tàu nhanh hơn, đường và cầu tốt hơn, đầu máy và xe tải tốt hơn để giảm chi phí chở hàng giữa Anh và Mỹ, giữa Canada và Mỹ; mặt khác ta dựng thuế quan làm việc chở hàng còn khó hơn trước về mặt thương mại. "Ta làm cho việc chở áo len rẻ đi 1 đô la, rồi tăng thuế 2 đô la để áo không chở sang được." Lượng hàng chở có lãi giảm thì giá trị của khoản đầu tư vào vận tải giảm theo.
 
 ### 5. Cuộc xung đột thật không phải giữa người sản xuất và người tiêu dùng
 
@@ -364,13 +373,17 @@ Mọi ngụy biện chính về thuế quan đều bắt nguồn từ ngụy bi�
 
 Hazlitt trả lời trước một câu hỏi: sao không bảo hộ tất cả người sản xuất? Vì không thể giúp đều cho mọi người, và hoàn toàn không giúp được những người sản xuất trong nước vốn đã bán giỏi hơn hàng ngoại. Những người sản xuất hiệu quả này tất yếu bị hại vì sức mua bị thuế quan kéo sang nơi khác.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, các con số là giả định). Một nước đánh thuế 25% lên thép cuộn nhập khẩu. Giá thép nhập từ 600 USD/tấn lên 750 USD/tấn; nhà máy thép trong nước nâng giá theo lên khoảng 740 USD/tấn. Cái thấy được: nhà máy thép có lãi trở lại, giữ được vài nghìn công nhân, được báo chí đưa tin. Cái không thấy: mọi doanh nghiệp dùng thép (làm máy nông nghiệp, kết cấu nhà xưởng, đồ gia dụng, vỏ lon) phải trả thêm khoảng 140 USD mỗi tấn đầu vào. Một xưởng làm khung nhà thép dùng 10.000 tấn mỗi năm mất thêm khoảng 1,4 triệu USD chi phí, nên hoặc nâng giá và mất đơn hàng xuất khẩu vào tay đối thủ nước ngoài được mua thép rẻ, hoặc cắt người. Thiệt hại ấy chia ra cho hàng nghìn doanh nghiệp nên không ai đếm được. Nước xuất khẩu thép bị đánh thuế thì bán ít hơn, có ít ngoại tệ hơn để mua nông sản hay máy móc của nước đánh thuế, và có thể trả đũa bằng thuế lên chính các mặt hàng đó. Đây là câu chuyện áo len của Hazlitt, chỉ khác là "người tiêu dùng" ở đây là các doanh nghiệp khác.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, các con số là giả định). Một nước đánh thuế 25% lên thép cuộn nhập khẩu. Giá thép nhập từ 600 USD/tấn lên 750 USD/tấn; nhà máy thép trong nước nâng giá theo lên khoảng 740 USD/tấn. Cái thấy được: nhà máy thép có lãi trở lại, giữ được vài nghìn công nhân, được báo chí đưa tin. Cái không thấy: mọi doanh nghiệp dùng thép (làm máy nông nghiệp, kết cấu nhà xưởng, đồ gia dụng, vỏ lon) phải trả thêm khoảng 140 USD mỗi tấn đầu vào. Một xưởng làm khung nhà thép dùng 10.000 tấn mỗi năm mất thêm khoảng 1,4 triệu USD chi phí, nên hoặc nâng giá và mất đơn hàng xuất khẩu vào tay đối thủ nước ngoài được mua thép rẻ, hoặc cắt người.
+
+Thiệt hại ấy chia ra cho hàng nghìn doanh nghiệp nên không ai đếm được. Nước xuất khẩu thép bị đánh thuế thì bán ít hơn, có ít ngoại tệ hơn để mua nông sản hay máy móc của nước đánh thuế, và có thể trả đũa bằng thuế lên chính các mặt hàng đó. Đây là câu chuyện áo len của Hazlitt, chỉ khác là "người tiêu dùng" ở đây là các doanh nghiệp khác.
 
 ### 6. Thừa nhận người được lợi thật, và phạm vi của lập luận
 
 Hazlitt kết bằng một lưu ý giống lưu ý khi bàn về máy móc ở Chương 7: phủ nhận việc thuế quan có lợi, hoặc ít nhất có thể có lợi, cho nhóm lợi ích đặc biệt là vô ích. Nó lợi cho họ trên lưng mọi người khác, nhưng nó có lợi cho họ. Nếu chỉ một ngành được bảo hộ, trong khi chủ và thợ của ngành đó được mua mọi thứ khác theo thương mại tự do, ngành ấy được lợi, kể cả xét ròng. Khi bảo hộ được mở rộng sang nhiều ngành, chính người trong ngành được bảo hộ, cả với tư cách người sản xuất lẫn người tiêu dùng, bắt đầu chịu thiệt vì bảo hộ của người khác, và rốt cuộc có thể thiệt ròng so với khi không ai được bảo hộ.
 
-Vì vậy, theo Hazlitt, không nên phủ nhận như những người cổ vũ tự do thương mại nhiệt tình thường làm. Không nên giả vờ rằng giảm thuế giúp tất cả mọi người, không hại ai. Giảm thuế giúp cả nước xét ròng, nhưng có người bị hại: các nhóm trước đây được bảo hộ cao. Đó chính là một lý do không nên tạo ra các nhóm được bảo hộ ngay từ đầu. Sự rõ ràng và trung thực buộc ta thừa nhận rằng một số ngành nói đúng khi bảo rằng bỏ thuế sẽ làm họ phá sản và làm công nhân của họ mất việc, ít nhất là tạm thời. Nếu công nhân có tay nghề chuyên biệt, họ có thể chịu thiệt vĩnh viễn, hoặc cho đến khi học được tay nghề tương đương. Khi truy tác động của thuế quan, cũng như của máy móc, phải cố thấy mọi tác động chính, cả ngắn hạn lẫn dài hạn, lên mọi nhóm.
+Vì vậy, theo Hazlitt, không nên phủ nhận như những người cổ vũ tự do thương mại nhiệt tình thường làm. Không nên giả vờ rằng giảm thuế giúp tất cả mọi người, không hại ai. Giảm thuế giúp cả nước xét ròng, nhưng có người bị hại: các nhóm trước đây được bảo hộ cao. Đó chính là một lý do không nên tạo ra các nhóm được bảo hộ ngay từ đầu.
+
+Sự rõ ràng và trung thực buộc ta thừa nhận rằng một số ngành nói đúng khi bảo rằng bỏ thuế sẽ làm họ phá sản và làm công nhân của họ mất việc, ít nhất là tạm thời. Nếu công nhân có tay nghề chuyên biệt, họ có thể chịu thiệt vĩnh viễn, hoặc cho đến khi học được tay nghề tương đương. Khi truy tác động của thuế quan, cũng như của máy móc, phải cố thấy mọi tác động chính, cả ngắn hạn lẫn dài hạn, lên mọi nhóm.
 
 **Tái bút về phạm vi.** Hazlitt nói rõ chương này không chống mọi thuế quan, kể cả thuế thu chủ yếu để lấy ngân sách, hay để giữ những ngành cần cho chiến tranh; cũng không chống mọi lập luận cho thuế quan. Nó chỉ bác ngụy biện rằng thuế quan xét ròng "tạo việc làm", "nâng lương" hay "bảo vệ mức sống Mỹ". Thuế quan không làm điều nào trong số đó, và với lương và mức sống, nó làm điều ngược lại. Các biện pháp khác như hạn ngạch nhập khẩu (*import quotas*), kiểm soát ngoại hối (*exchange controls*), thương mại song phương (*bilateralism*) nhìn chung có tác động giống thuế quan cao hoặc cấm đoán, và thường tệ hơn; chúng phức tạp hơn nhưng phân tích được bằng cùng lối lập luận.
 
@@ -467,7 +480,9 @@ Hazlitt không đưa số liệu thực nghiệm nào; toàn bộ chương là l
 
 ### Luận điểm sắc nhất của chương là thuế quan đánh vào ngành xuất khẩu, và lý thuyết về sau xác nhận điều đó
 
-Phần lớn tranh luận công khai về thuế quan vẫn diễn ra theo khung "người sản xuất trong nước đấu với hàng ngoại". Hazlitt phá khung đó bằng cách chỉ ra rằng một khoản thuế nhập khẩu rốt cuộc là một khoản thuế lên xuất khẩu: nước ngoài bán ít hơn thì có ít ngoại tệ hơn để mua hàng của mình. Abba Lerner chứng minh chặt chẽ điều này năm 1936 (định lý đối xứng Lerner), và Hazlitt trình bày nó cho người đọc phổ thông bằng một ví dụ đếm được: thuế cấm đoán làm hại ngành bông, đồng, máy khâu, máy nông nghiệp theo đúng tỷ lệ doanh số xuất khẩu của họ. Đây cũng là phần dễ kiểm chứng nhất: các đợt trả đũa thuế quan trong lịch sử, từ sau Smoot–Hawley đến các cuộc chiến thương mại gần đây, thường nhắm thẳng vào nông sản và hàng xuất khẩu của nước khơi mào, tức là biến cơ chế gián tiếp của Hazlitt thành cơ chế trực tiếp.
+Phần lớn tranh luận công khai về thuế quan vẫn diễn ra theo khung "người sản xuất trong nước đấu với hàng ngoại". Hazlitt phá khung đó bằng cách chỉ ra rằng một khoản thuế nhập khẩu rốt cuộc là một khoản thuế lên xuất khẩu: nước ngoài bán ít hơn thì có ít ngoại tệ hơn để mua hàng của mình. Abba Lerner chứng minh chặt chẽ điều này năm 1936 (định lý đối xứng Lerner), và Hazlitt trình bày nó cho người đọc phổ thông bằng một ví dụ đếm được: thuế cấm đoán làm hại ngành bông, đồng, máy khâu, máy nông nghiệp theo đúng tỷ lệ doanh số xuất khẩu của họ.
+
+Đây cũng là phần dễ kiểm chứng nhất: các đợt trả đũa thuế quan trong lịch sử, từ sau Smoot–Hawley đến các cuộc chiến thương mại gần đây, thường nhắm thẳng vào nông sản và hàng xuất khẩu của nước khơi mào, tức là biến cơ chế gián tiếp của Hazlitt thành cơ chế trực tiếp.
 
 Các nghiên cứu về đợt tăng thuế quan của Mỹ năm 2018–2019 cũng cho thấy phần lớn thuế được chuyển vào giá mà người mua và doanh nghiệp Mỹ dùng hàng nhập khẩu phải trả, chứ không do nhà xuất khẩu nước ngoài gánh. Điều này khớp với giả định 5 USD thuế thành 5 USD giá cao hơn trong ví dụ áo len.
 
@@ -482,7 +497,9 @@ Hazlitt cũng không bàn lập luận ngành non trẻ (*infant industry*) củ
 
 ### Hazlitt trung thực về người thua cuộc, nhưng đánh giá thấp thời gian và mức độ họ chịu thiệt
 
-Điểm đáng nể của chương là Hazlitt không làm điều ông trách người cổ vũ tự do thương mại hay làm: ông thừa nhận bỏ thuế sẽ làm có người phá sản, và công nhân tay nghề chuyên biệt có thể thiệt lâu dài. Nhưng ông vẫn coi thất nghiệp do thay đổi thuế quan là "tạm thời", và tin việc làm sẽ tự chuyển sang ngành ô tô, máy giặt. Nghiên cứu về "cú sốc Trung Quốc" (Autor, Dorn và Hanson, từ 2013) cho thấy khi nhập khẩu tăng mạnh vào những vùng tập trung một ngành, thu nhập và việc làm ở vùng đó giảm và không hồi phục trong hơn một thập kỷ; người lao động không di chuyển dễ như mô hình giả định. Điều này không bác bỏ kết luận ròng của Hazlitt (cả nước vẫn được lợi), nhưng cho thấy "cái không thấy" có thể nằm ở nơi khác, cho người khác, trong khi "cái thấy được" tập trung đau đớn ở một chỗ. Đó là lý do chính trị của bảo hộ không biến mất, và là lý do các chính sách hỗ trợ điều chỉnh thương mại tồn tại.
+Điểm đáng nể của chương là Hazlitt không làm điều ông trách người cổ vũ tự do thương mại hay làm: ông thừa nhận bỏ thuế sẽ làm có người phá sản, và công nhân tay nghề chuyên biệt có thể thiệt lâu dài. Nhưng ông vẫn coi thất nghiệp do thay đổi thuế quan là "tạm thời", và tin việc làm sẽ tự chuyển sang ngành ô tô, máy giặt. Nghiên cứu về "cú sốc Trung Quốc" (Autor, Dorn và Hanson, từ 2013) cho thấy khi nhập khẩu tăng mạnh vào những vùng tập trung một ngành, thu nhập và việc làm ở vùng đó giảm và không hồi phục trong hơn một thập kỷ; người lao động không di chuyển dễ như mô hình giả định.
+
+Điều này không bác bỏ kết luận ròng của Hazlitt (cả nước vẫn được lợi), nhưng cho thấy "cái không thấy" có thể nằm ở nơi khác, cho người khác, trong khi "cái thấy được" tập trung đau đớn ở một chỗ. Đó là lý do chính trị của bảo hộ không biến mất, và là lý do các chính sách hỗ trợ điều chỉnh thương mại tồn tại.
 
 ### "Thuế quan không liên quan tới việc làm" đúng trong dài hạn, nhưng phụ thuộc vào giả định toàn dụng lao động
 
@@ -497,3 +514,148 @@ Bài học chương này có thể dùng trực tiếp trong kinh doanh và khi 
 - **Đầu tư.** Khi một ngành được tăng thuế bảo hộ, giá cổ phiếu ngành đó thường tăng ngay (cái thấy được). Nhà đầu tư nên tự hỏi biên lợi nhuận của ngành hạ nguồn sẽ bị ép thế nào, và ngành xuất khẩu nào chịu rủi ro trả đũa. Minh hoạ của người tổng hợp: một công ty làm kết cấu thép có chi phí thép chiếm 60% giá vốn, giá thép đầu vào tăng 15% thì giá vốn tăng 9%, có thể xoá sạch biên lợi nhuận gộp 8–10%.
 - **Nghề nghiệp.** Làm việc trong một ngành sống nhờ bảo hộ giống như Hazlitt nói về công nhân áo len có tay nghề chuyên biệt: an toàn chừng nào thuế còn, nhưng rủi ro thiệt lâu dài khi thuế bị bỏ. Kỹ năng chuyển được sang ngành khác là cách tự bảo hiểm.
 - **Chuỗi cung ứng.** Với doanh nghiệp xuất khẩu sang các thị trường đang tăng thuế quan, bài học về "dollar exchange" ngược lại cũng đúng: khi nước nhập khẩu dựng tường thuế, đơn hàng không biến mất hẳn mà chuyển hướng, và cạnh tranh ở thị trường thứ ba trở nên gắt hơn. Đọc tin thuế quan của nước lớn phải tính cả tác động vòng hai này.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (lập luận của Adam Smith và bỏ thuế áo len, dựng thuế để lập ngành áo len, thuế quan làm giảm lương thực tế, xung đột thật giữa ngành được bảo hộ và mọi ngành khác, người được lợi thật và phạm vi lập luận) cùng phần Đánh giá, mỗi nhánh ghi lập luận, ví dụ và con số then chốt của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: thuế quan bảo hộ không tạo việc làm ròng, không nâng lương, mà làm giảm lương thực tế của cả nước`"]
+  n1["`Mục 1–2 — Adam Smith và bỏ thuế áo len: cái thấy được và cái không thấy`"]
+  n0 --- n1
+  n2["`Chính sách thương mại năm 1946 chưa theo kịp Adam Smith, còn tệ hơn thế kỷ 17–18`"]
+  n1 --- n2
+  n3["`Smith: lợi ích của đại bộ phận dân chúng là mua từ người bán rẻ nhất`"]
+  n1 --- n3
+  n4["`Thợ may không tự đóng giày: điều khôn ngoan cho mỗi gia đình khó là điều ngu dại cho một vương quốc`"]
+  n1 --- n4
+  n5["`Ngụy biện trung tâm: chỉ xét tác động trước mắt lên một nhóm, bỏ qua tác động dài hạn lên toàn cộng đồng`"]
+  n1 --- n5
+  n6["`Áo Mỹ 15 USD, áo Anh 10 USD, cần thuế 5 USD, nhà sản xuất có 1.000 công nhân`"]
+  n1 --- n6
+  n7["`Hazlitt chấp nhận mọi dữ kiện và chọn ví dụ bất lợi nhất: bỏ một thuế đã sinh ra cả một ngành`"]
+  n1 --- n7
+  n8["`Cái thấy được: nhà máy đóng cửa, 1.000 người mất việc, cửa hàng quanh đó bị thiệt`"]
+  n1 --- n8
+  n9["`Cái không thấy: người mua dư 5 USD chi cho vô số ngành khác ở Mỹ`"]
+  n1 --- n9
+  n10["`Người Anh chỉ dùng được đô la để mua hàng Mỹ, nên nhiều người Mỹ làm ô tô, máy giặt hơn`"]
+  n1 --- n10
+  n11["`Kết quả ròng: việc làm ở Mỹ không giảm, sản lượng cả Mỹ và Anh đều tăng`"]
+  n1 --- n11
+  n12["`Mục 3 — Dựng thuế để lập ngành áo len: ngành mới không phải là không tốn gì`"]
+  n0 --- n12
+  n13["`Thuế 5 USD làm áo len ở Mỹ có lãi, nhưng người tiêu dùng trợ cấp ngành đó qua giá cao hơn`"]
+  n12 --- n13
+  n14["`Để một ngành lớn lên hay ra đời, một trăm ngành khác phải co lại`"]
+  n12 --- n14
+  n15["`20.000 người có việc trong ngành áo len thì 20.000 người mất việc ở nơi khác`"]
+  n12 --- n15
+  n16["`Ngành mới đếm được công nhân, vốn, doanh thu, còn thiệt hại chia nhỏ cho hàng trăm ngành`"]
+  n12 --- n16
+  n17["`Đa số mắc ảo giác thị giác: tưởng ngành mới không tốn của ai gì cả`"]
+  n12 --- n17
+  n18["`Mục 4 — Thuế quan làm giảm lương thực tế, như một bức tường thật`"]
+  n0 --- n18
+  n19["`Thuế chỉ cho thợ áo len nhận lương trung bình Mỹ thay vì lương Anh, không tăng việc làm, cầu hay năng suất`"]
+  n18 --- n19
+  n20["`Phía sản xuất: lao động, vốn, đất bị kéo sang việc làm kém hiệu quả hơn, năng suất bình quân giảm`"]
+  n18 --- n20
+  n21["`Phía tiêu dùng: trả đắt hơn cho hàng được bảo hộ nên sức mua của thu nhập giảm`"]
+  n18 --- n21
+  n22["`Lương danh nghĩa giảm hay giá tăng là tuỳ chính sách tiền tệ, lương thực tế chắc chắn giảm`"]
+  n18 --- n22
+  n23["`Phe bảo hộ dùng ngôn ngữ chiến tranh: hàng rào thuế như bẫy xe tăng, dây thép gai`"]
+  n18 --- n23
+  n24["`Làm phí chở áo len rẻ đi 1 USD, rồi tăng thuế 2 USD để áo không chở sang được`"]
+  n18 --- n24
+  n25["`Mục 5 — Ngành được bảo hộ đấu với mọi người sản xuất khác`"]
+  n0 --- n25
+  n26["`Thuế quan hại mọi người tiêu dùng nhưng không lợi cho mọi người sản xuất`"]
+  n25 --- n26
+  n27["`Thuế cấm đoán: áo đắt thêm 5 USD, người mua chi ít hơn 5 cent ở mỗi ngành trong 100 ngành`"]
+  n25 --- n27
+  n28["`Nước ngoài mất thị trường Mỹ nên không có đô la mua bông, đồng, máy khâu, máy nông nghiệp, máy chữ`"]
+  n25 --- n28
+  n29["`Thuế quan đổi cơ cấu sản xuất: ngành Mỹ làm kém lớn lên, ngành làm giỏi nhỏ đi`"]
+  n25 --- n29
+  n30["`Dài hạn thuế quan không liên quan tới việc làm, chỉ thay đổi đột ngột mới gây thất nghiệp tạm thời`"]
+  n25 --- n30
+  n31["`Nhưng thuế quan luôn làm giảm lương thực tế vì giảm hiệu quả, sản lượng và của cải`"]
+  n25 --- n31
+  n32["`Bảo hộ tất cả không giúp được ai và hại người sản xuất vốn đã bán giỏi hơn hàng ngoại`"]
+  n25 --- n32
+  n33["`Ví dụ hôm nay: thuế 25% lên thép làm xưởng dùng 10.000 tấn mất thêm khoảng 1,4 triệu USD`"]
+  n25 --- n33
+  n34["`Mục 6 — Thừa nhận người được lợi thật và phạm vi của lập luận`"]
+  n0 --- n34
+  n35["`Thuế quan có lợi cho nhóm được bảo hộ, dù trên lưng mọi người khác`"]
+  n34 --- n35
+  n36["`Bảo hộ lan sang nhiều ngành thì chính ngành được bảo hộ có thể thiệt ròng`"]
+  n34 --- n36
+  n37["`Giảm thuế lợi cho cả nước nhưng có người thiệt, nên đừng tạo nhóm được bảo hộ ngay từ đầu`"]
+  n34 --- n37
+  n38["`Công nhân tay nghề chuyên biệt có thể thiệt lâu dài, tới khi học được tay nghề tương đương`"]
+  n34 --- n38
+  n39["`Không bàn thuế lấy ngân sách hay giữ ngành cần cho chiến tranh, chỉ bác thuế tạo việc, nâng lương`"]
+  n34 --- n39
+  n40["`Hạn ngạch, kiểm soát ngoại hối, thương mại song phương tác động như thuế cao, thường còn tệ hơn`"]
+  n34 --- n40
+  n41["`Đánh giá — Chỗ lý thuyết về sau xác nhận và chỗ Hazlitt nói quá`"]
+  n0 --- n41
+  n42["`Định lý đối xứng Lerner 1936: thuế nhập khẩu tương đương thuế xuất khẩu`"]
+  n41 --- n42
+  n43["`Đợt tăng thuế của Mỹ 2018–2019: phần lớn thuế chuyển vào giá người mua Mỹ trả`"]
+  n41 --- n43
+  n44["`Stolper–Samuelson 1941: thuế quan có thể tăng lương thực tế của yếu tố sản xuất khan hiếm`"]
+  n41 --- n44
+  n45["`Thuế quan tối ưu: nước lớn có thể lợi ròng nếu đối tác không trả đũa, điều hiếm xảy ra`"]
+  n41 --- n45
+  n46["`Hazlitt không bàn lập luận ngành non trẻ của Hamilton và List, bằng chứng về sau lẫn lộn`"]
+  n41 --- n46
+  n47["`Cú sốc Trung Quốc: vùng tập trung một ngành mất thu nhập, việc làm hơn một thập kỷ`"]
+  n41 --- n47
+  n48["`Khi thất nghiệp lớn, thuế quan chuyển thất nghiệp sang nước khác và dẫn tới trả đũa như sau Smoot–Hawley`"]
+  n41 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Lợi ích thuế quan tập trung và thấy được, chi phí phân tán và không thấy`"]
+  n49 --- n50
+  n51["`Chặn nhập khẩu cũng là chặn xuất khẩu, cầu nối sang Chương 12`"]
+  n49 --- n51
+  n52["`Trước tin tăng thuế bảo vệ ngành X, hỏi ai dùng X làm đầu vào và ai bán hàng cho nước bị đánh thuế`"]
+  n49 --- n52
+  n53["`Phải thấy mọi tác động chính, cả ngắn hạn lẫn dài hạn, lên mọi nhóm`"]
+  n49 --- n53
+  class n0 root
+  class n1,n12,n18,n25,n34,n41,n49 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 11 "Who's 'Protected' by Tariffs?". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 nêu "bài học" (*the lesson*): phải xét tác động của một chính sách lên mọi nhóm và trong dài hạn, không chỉ lên một nhóm và trong ngắn hạn. Các chương 2–10 áp dụng bài học vào chi tiêu công, thuế, tín dụng, máy móc, chia việc và toàn dụng lao động.
+
+Chương 11 đưa bài học ra thương mại quốc tế, lĩnh vực mà theo Hazlitt dư luận "chưa theo kịp Adam Smith". Chương này dùng lại cách lập luận của Chương 7 (về máy móc): thừa nhận có người bị thiệt thật, nhưng tính cả những người được lợi không ai nhìn thấy.
+
+Chương 12 đi tiếp từ một kết luận của chương này: nhập khẩu và xuất khẩu gắn với nhau, nên chặn nhập khẩu cũng là chặn xuất khẩu, và ráng đẩy xuất khẩu bằng cho vay xấu thì cũng vô ích. Chương 13 dùng lại chính lập luận "thuế quan" để bác hệ thống giá ngang giá (parity) cho nông sản.
+
+## Lưu ý
+
+- Bối cảnh: năm 1946 nước Mỹ vẫn còn chịu di sản của Đạo luật thuế quan Smoot–Hawley (1930), đạo luật nâng thuế nhập khẩu lên rất cao và bị các nước trả đũa, góp phần làm thương mại thế giới sụp trong Đại suy thoái. Từ 1934, Đạo luật Hiệp định Thương mại Có đi có lại (*Reciprocal Trade Agreements Act*) cho phép tổng thống thương lượng giảm thuế song phương. Hiệp định chung về Thuế quan và Thương mại (GATT, tiền thân của WTO) được ký năm 1947, tức là ngay sau khi sách ra. Vì vậy chủ đề "bỏ hay giữ thuế quan" là cuộc tranh luận đang nóng khi Hazlitt viết.
+- Các con số áo len (15 USD, 10 USD, 1.000 công nhân, 20.000 công nhân, 5 cent ở mỗi ngành trong 100 ngành) là ví dụ giả định của Hazlitt, không phải số liệu thật; ông tự nói con số "chỉ để minh hoạ một nguyên lý".
+- Khẳng định "thuế quan **luôn** làm giảm lương thực tế" mạnh hơn điều lý thuyết thương mại về sau chứng minh được: định lý Stolper–Samuelson (1941) cho thấy thuế quan có thể làm tăng lương thực tế của yếu tố sản xuất khan hiếm trong nước, và một nước lớn có thể được lợi nhờ thuế quan "tối ưu" nếu đối tác không trả đũa (xem phần Đánh giá).
+- Mọi câu trích, kể cả hai câu Hazlitt trích từ *Của cải của các dân tộc*, là bản dịch của người tổng hợp.

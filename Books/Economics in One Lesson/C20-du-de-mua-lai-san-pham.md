@@ -1,11 +1,16 @@
 # Chương 20 — "Đủ để mua lại sản phẩm" ("Enough to Buy Back the Product")
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 20 "'Enough to Buy Back the Product'". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương thứ ba trong chuỗi chương về tiền lương, sau Chương 18 (luật lương tối thiểu) và Chương 19 (công đoàn có thật sự làm tăng lương không). Hai chương trước hỏi việc ép lương lên cao có lợi cho **người lao động** không; chương này đối diện một lập luận rộng hơn: ép lương lên cao là cần thiết cho **cả nền kinh tế**, vì nếu không, người lao động không đủ sức mua để "mua lại sản phẩm" họ làm ra và kinh tế sẽ sụp đổ. Hazlitt áp dụng "bài học" (C1) bằng cách nhìn mặt kia của tiền lương: thu nhập của người này là chi phí của người khác. Chương kết bằng khái niệm cân bằng và giá, lương, lợi nhuận "tốt nhất", dẫn thẳng sang Chương 21 về chức năng của lợi nhuận; còn câu hỏi tiền và tín dụng có "nới" ra để theo kịp lương hay không được mở rộng ở Chương 22 về lạm phát.
-**Ý chính:** Hazlitt muốn chứng minh rằng học thuyết "người lao động phải được trả đủ để mua lại sản phẩm" là sai, và ép lương lên trên mức cân bằng hoặc gây thất nghiệp, hoặc chỉ đẩy giá lên tương ứng. Ông chỉ ra những người ủng hộ học thuyết không hề cố trả lời rõ mức "đủ" là bao nhiêu, rồi dùng ví dụ công đoàn ngành ô tô đòi tăng lương 30% dù lương của họ đã cao hơn 20% so với lương bình quân nhà máy và gần gấp đôi lương bình quân ngành bán lẻ: theo logic đó, công nhân nhà máy cần tăng 55% và nhân viên bán lẻ cần tăng 160%. Nếu tiền và tín dụng không tăng theo, lương cao gây thất nghiệp; với độ co giãn của cầu lao động từ -3 đến -4 (Douglas và Pigou), tổng quỹ lương còn giảm. Nếu tiền và tín dụng tăng theo, vì lao động chiếm ít nhất hai phần ba chi phí sản xuất, tăng lương 30% đẩy giá lên gần 20% nếu lợi nhuận tính bằng đô la giữ nguyên, và cuối cùng lên khoảng 30%, tức người lao động không mua được thêm gì. Kết luận: giá, lương, lợi nhuận tốt nhất không phải mức cao nhất hay thấp nhất mà là mức đem lại sản lượng và việc làm lớn nhất; phải điều hành nền kinh tế vì mọi người, không vì một nhóm.
+## Ý chính
 
-> **Lưu ý:** (1) **Bối cảnh** (người tổng hợp bổ sung; Hazlitt không nêu tên công đoàn, cuộc đình công hay người phát ngôn): chương viết ngay sau cuộc đình công lớn của Công đoàn Công nhân Ô tô Mỹ (United Auto Workers, UAW) tại General Motors cuối 1945 – đầu 1946. Lãnh đạo UAW Walter Reuther đòi tăng lương 30% mà không tăng giá xe, lập luận rằng sau chiến tranh người lao động mất thu nhập làm thêm giờ, sức mua thiếu hụt sẽ đưa nước Mỹ trở lại suy thoái. Câu trích "củng cố khả năng đang teo nhanh của chúng tôi trong việc hấp thụ hàng hoá mà chúng tôi có năng lực sản xuất" là của một người phát ngôn công đoàn thời đó. (2) **"Trường phái sức mua"** (purchasing-power school) là tên Hazlitt gọi những người giải thích suy thoái bằng **thiếu cầu tiêu dùng** (underconsumption): lương thấp → người lao động không mua hết hàng → hàng ế → suy thoái. Lập luận này có mặt trong chính sách New Deal; Luật Quan hệ Lao động Quốc gia (Wagner Act, 1935) nêu trong phần mục đích rằng bất bình đẳng thương lượng làm giảm sức mua của người làm công. Hazlitt gọi họ là "môn đồ vô thức" (unconscious disciples) của những người theo Marx nhưng không giải thích vì sao; theo người tổng hợp, có lẽ vì cách giải thích khủng hoảng của Marx cũng dựa vào việc người lao động không được trả đủ để mua hết sản phẩm. (3) **Độ co giãn từ -3 đến -4** là ước lượng của Paul H. Douglas (*The Theory of Wages*, 1934) và A. C. Pigou (*The Theory of Unemployment*, 1933). Các ước lượng hiện đại cho độ co giãn của cầu lao động nhỏ hơn nhiều (xem phần Đánh giá), nên con số này nay không còn được chấp nhận. (4) Con số "tiền lương và tiền công trung bình bằng 69% thu nhập quốc dân Mỹ giai đoạn 1929–1943" là ước tính của chính phủ Mỹ Hazlitt dẫn. Chương chia bốn mục (đánh số 2, 3, 4 trong bản gốc, mục đầu không đánh số). Mọi câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng học thuyết "người lao động phải được trả đủ để mua lại sản phẩm" là sai, và ép lương lên trên mức cân bằng hoặc gây thất nghiệp, hoặc chỉ đẩy giá lên tương ứng.
+
+Ông chỉ ra những người ủng hộ học thuyết không hề cố trả lời rõ mức "đủ" là bao nhiêu, rồi dùng ví dụ công đoàn ngành ô tô đòi tăng lương 30% dù lương của họ đã cao hơn 20% so với lương bình quân nhà máy và gần gấp đôi lương bình quân ngành bán lẻ: theo logic đó, công nhân nhà máy cần tăng 55% và nhân viên bán lẻ cần tăng 160%.
+
+Nếu tiền và tín dụng không tăng theo, lương cao gây thất nghiệp; với độ co giãn của cầu lao động từ -3 đến -4 (Douglas và Pigou), tổng quỹ lương còn giảm.
+
+Nếu tiền và tín dụng tăng theo, vì lao động chiếm ít nhất hai phần ba chi phí sản xuất, tăng lương 30% đẩy giá lên gần 20% nếu lợi nhuận tính bằng đô la giữ nguyên, và cuối cùng lên khoảng 30%, tức người lao động không mua được thêm gì.
+
+Kết luận: giá, lương, lợi nhuận tốt nhất không phải mức cao nhất hay thấp nhất mà là mức đem lại sản lượng và việc làm lớn nhất; phải điều hành nền kinh tế vì mọi người, không vì một nhóm.
 
 ## Sơ đồ
 
@@ -353,7 +358,9 @@ Giờ giả định ngược lại: tăng lương đi kèm hoặc được theo 
 
 Niềm tin rằng giá sẽ tăng ít hơn nhiều dựa trên hai ngụy biện chính.
 
-**Ngụy biện thứ nhất: lấy một phần làm toàn bộ.** Người ta chỉ nhìn chi phí lao động trực tiếp của một doanh nghiệp hay một ngành và coi đó là toàn bộ chi phí lao động. Nhưng mỗi "ngành" chỉ là một lát cắt của quá trình sản xuất, cả theo chiều ngang (bên cạnh các ngành khác) lẫn theo chiều dọc (giữa các khâu trước và sau nó). Chi phí lao động trực tiếp trong các nhà máy ô tô có thể chưa tới một phần ba tổng chi phí; người thiếu thận trọng sẽ kết luận tăng lương 30% chỉ làm giá xe tăng 10% hoặc ít hơn. Kết luận đó bỏ quên chi phí lương gián tiếp nằm trong nguyên liệu và linh kiện mua ngoài, trong cước vận chuyển, trong nhà máy mới và máy công cụ mới, và trong phần cộng thêm của đại lý.
+**Ngụy biện thứ nhất: lấy một phần làm toàn bộ.** Người ta chỉ nhìn chi phí lao động trực tiếp của một doanh nghiệp hay một ngành và coi đó là toàn bộ chi phí lao động. Nhưng mỗi "ngành" chỉ là một lát cắt của quá trình sản xuất, cả theo chiều ngang (bên cạnh các ngành khác) lẫn theo chiều dọc (giữa các khâu trước và sau nó).
+
+Chi phí lao động trực tiếp trong các nhà máy ô tô có thể chưa tới một phần ba tổng chi phí; người thiếu thận trọng sẽ kết luận tăng lương 30% chỉ làm giá xe tăng 10% hoặc ít hơn. Kết luận đó bỏ quên chi phí lương gián tiếp nằm trong nguyên liệu và linh kiện mua ngoài, trong cước vận chuyển, trong nhà máy mới và máy công cụ mới, và trong phần cộng thêm của đại lý.
 
 Hazlitt tính cho cả nền kinh tế:
 
@@ -483,11 +490,15 @@ Phép tính chi phí trực tiếp và gián tiếp cũng sắc. Lỗi tính tá
 
 ### Phép tính "giá cuối cùng tăng 30%" dựa trên giả định mạnh rằng tiền tệ dung nạp hoàn toàn
 
-Hazlitt thừa nhận kết quả giá tăng bằng lương chỉ xảy ra "trong dài hạn và nếu chính sách tiền tệ và tín dụng cho phép". Điều đó có nghĩa là lạm phát không do lương tự gây ra, mà do ngân hàng trung ương in tiền dung nạp nó. Nếu ngân hàng trung ương không dung nạp, ta quay lại nhánh thất nghiệp. Ông trình bày hai nhánh rõ ràng, đây là điểm mạnh. Nhưng bước khôi phục tỷ lệ cũ (lợi nhuận thực tế giảm → đầu tư giảm → người tự làm chủ chuyển sang làm công → tỷ lệ cũ được khôi phục) chỉ được khẳng định, không được chứng minh. Tỷ trọng thu nhập của lao động trong thực tế có thay đổi qua nhiều thập kỷ, do công nghệ, thương mại, sức mạnh thị trường, nên không có gì đảm bảo nó luôn quay về một tỷ lệ "bình thường".
+Hazlitt thừa nhận kết quả giá tăng bằng lương chỉ xảy ra "trong dài hạn và nếu chính sách tiền tệ và tín dụng cho phép". Điều đó có nghĩa là lạm phát không do lương tự gây ra, mà do ngân hàng trung ương in tiền dung nạp nó. Nếu ngân hàng trung ương không dung nạp, ta quay lại nhánh thất nghiệp. Ông trình bày hai nhánh rõ ràng, đây là điểm mạnh.
+
+Nhưng bước khôi phục tỷ lệ cũ (lợi nhuận thực tế giảm → đầu tư giảm → người tự làm chủ chuyển sang làm công → tỷ lệ cũ được khôi phục) chỉ được khẳng định, không được chứng minh. Tỷ trọng thu nhập của lao động trong thực tế có thay đổi qua nhiều thập kỷ, do công nghệ, thương mại, sức mạnh thị trường, nên không có gì đảm bảo nó luôn quay về một tỷ lệ "bình thường".
 
 ### Con số độ co giãn -3 đến -4 đã bị bằng chứng hiện đại bác bỏ
 
-Đây là chỗ yếu nhất của chương. Ước lượng của Douglas dựa trên hàm sản xuất Cobb–Douglas với dữ liệu đầu thế kỷ 20; Pigou thì gần như suy diễn thuần tuý. Các nghiên cứu sau này, tổng hợp trong cuốn *Labor Demand* của Daniel Hamermesh (1993), cho độ co giãn của cầu lao động tổng thể nhỏ hơn 1 nhiều theo trị tuyệt đối, phần lớn ước lượng quanh -0,3, với mức dao động thường từ khoảng -0,15 đến -0,75. Với độ co giãn nhỏ hơn 1, tăng lương làm việc làm giảm nhưng **tổng quỹ lương tăng**, tức kết luận "tổng thu nhập người lao động giảm tương ứng" không đúng trong phần lớn trường hợp. Nghiên cứu của David Card và Alan Krueger (1994) về lương tối thiểu ở các cửa hàng thức ăn nhanh New Jersey và Pennsylvania còn không thấy việc làm giảm khi lương tối thiểu tăng vừa phải; các nghiên cứu sau tranh luận nhiều về kết quả này, nhưng đồng thuận chung là tác động lên việc làm của những mức tăng nhỏ là nhỏ.
+Đây là chỗ yếu nhất của chương. Ước lượng của Douglas dựa trên hàm sản xuất Cobb–Douglas với dữ liệu đầu thế kỷ 20; Pigou thì gần như suy diễn thuần tuý. Các nghiên cứu sau này, tổng hợp trong cuốn *Labor Demand* của Daniel Hamermesh (1993), cho độ co giãn của cầu lao động tổng thể nhỏ hơn 1 nhiều theo trị tuyệt đối, phần lớn ước lượng quanh -0,3, với mức dao động thường từ khoảng -0,15 đến -0,75.
+
+Với độ co giãn nhỏ hơn 1, tăng lương làm việc làm giảm nhưng **tổng quỹ lương tăng**, tức kết luận "tổng thu nhập người lao động giảm tương ứng" không đúng trong phần lớn trường hợp. Nghiên cứu của David Card và Alan Krueger (1994) về lương tối thiểu ở các cửa hàng thức ăn nhanh New Jersey và Pennsylvania còn không thấy việc làm giảm khi lương tối thiểu tăng vừa phải; các nghiên cứu sau tranh luận nhiều về kết quả này, nhưng đồng thuận chung là tác động lên việc làm của những mức tăng nhỏ là nhỏ.
 
 Điều này không làm sụp lập luận chính: tăng lương vẫn là tăng chi phí, và tăng lương rất lớn (như 30% hay 160% trong ví dụ) trên toàn nền kinh tế, không có năng suất đi kèm, gần như chắc chắn gây thất nghiệp hoặc lạm phát. Nhưng người đọc nên coi con số -3 đến -4 là một ví dụ lịch sử về việc nhà kinh tế có thể tự tin quá mức với một ước lượng, không phải một hằng số.
 
@@ -506,3 +517,148 @@ Với người làm kinh doanh, chương này cho ba thói quen tư duy:
 - **Đọc tin chính sách bằng câu hỏi "ai trả, tiền và tín dụng có tăng theo không".** Khi một đề xuất nói tăng lương sẽ "kích cầu", hãy hỏi: chi phí tăng ấy đi vào giá (lạm phát), vào lợi nhuận (đầu tư giảm), hay vào số việc làm? Và ngân hàng trung ương có nới tiền tệ để dung nạp không? Với nhà đầu tư, một đợt tăng lương lớn trên diện rộng thường đi kèm áp lực lợi nhuận ở doanh nghiệp thâm dụng lao động trước, rồi áp lực lạm phát sau.
 
 Ở Việt Nam, các đợt điều chỉnh lương tối thiểu vùng là dịp thực tế để áp dụng cách nghĩ này: đó không chỉ là chuyện của bộ phận nhân sự, mà là thay đổi chi phí trên cả chuỗi cung ứng. Doanh nghiệp xuất khẩu thâm dụng lao động, vốn khó chuyển chi phí sang giá bán quốc tế, chịu tác động mạnh nhất; doanh nghiệp bán trong nước có thể chuyển một phần sang giá. Cách nhìn của Hazlitt giúp phân biệt hai trường hợp này, còn con số độ co giãn của ông thì không nên dùng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 20 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (học thuyết "đủ để mua lại sản phẩm" và ví dụ công đoàn ô tô, lương vừa là sức mua vừa là chi phí, nhánh tiền và tín dụng không tăng, nhánh tiền và tín dụng tăng theo, cân bằng và mức giá, lương, lợi nhuận "tốt nhất") cùng nhánh Đánh giá, mỗi nhánh ghi lập luận, ví dụ và con số then chốt của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 20: ép lương lên trên mức cân bằng để #quot;mua lại sản phẩm#quot; chỉ gây thất nghiệp hoặc đẩy giá lên tương ứng`"]
+  n1["`Mục 1–2 — Học thuyết #quot;đủ để mua lại sản phẩm#quot; không trả lời được mức #quot;đủ#quot; là bao nhiêu`"]
+  n0 --- n1
+  n2["`Kinh tế học cổ điển thay lương #quot;công bằng#quot; thời Trung cổ bằng lương chức năng: nhiều việc làm, quỹ lương lớn nhất`"]
+  n1 --- n2
+  n3["`Trường phái sức mua bóp méo khái niệm: lương #quot;vận hành được#quot; là lương đủ để mua lại sản phẩm`"]
+  n1 --- n3
+  n4["`Họ quy mọi cuộc suy thoái cho lương thấp và lúc nào cũng thấy lương vẫn chưa đủ cao`"]
+  n1 --- n4
+  n5["`Lãnh đạo công đoàn dùng học thuyết để dọa công chúng rằng lương thấp sẽ kéo cả nền kinh tế vào suy thoái`"]
+  n1 --- n5
+  n6["`Không ai đòi thợ may áo lông chồn đủ tiền mua áo lông chồn, công nhân Cadillac đủ tiền mua Cadillac`"]
+  n1 --- n6
+  n7["`Công nhân ô tô đã hơn 20% lương nhà máy, gần gấp đôi lương bán lẻ, vẫn đòi tăng 30%`"]
+  n1 --- n7
+  n8["`Theo logic đó công nhân nhà máy cần tăng 55%, nhân viên bán lẻ cần tăng 160%`"]
+  n7 --- n8
+  n9["`Khát vọng bình đẳng là muốn bằng người ở trên, không phải cho người ở dưới bằng mình`"]
+  n7 --- n9
+  n10["`Mục 3 — Lương là sức mua nhưng cũng là chi phí`"]
+  n0 --- n10
+  n11["`Thu nhập của người bán tạp hóa, chủ nhà, chủ doanh nghiệp cũng là sức mua, kể cả để mua sức lao động`"]
+  n10 --- n11
+  n12["`Trong nền kinh tế trao đổi, thu nhập của mọi người là chi phí của người khác`"]
+  n10 --- n12
+  n13["`Lương giờ tăng mà năng suất giờ không tăng tương đương là chi phí sản xuất tăng`"]
+  n10 --- n13
+  n14["`Bị cấm tăng giá: nhà sản xuất biên mất lãi, đóng cửa, thất nghiệp tăng`"]
+  n10 --- n14
+  n15["`Được tăng giá: người mua mua ít đi, thị trường co lại, cũng dẫn tới thất nghiệp`"]
+  n10 --- n15
+  n16["`Lương tăng 30% khắp vòng, giá tăng 30%: người lao động mua được đúng bằng lúc đầu`"]
+  n10 --- n16
+  n17["`Vòng quay ngựa gỗ lại bắt đầu: lại đòi tăng lương để mua lại sản phẩm`"]
+  n16 --- n17
+  n18["`Mục 4 — Tiền và tín dụng không tăng theo: tăng lương gây thất nghiệp`"]
+  n0 --- n18
+  n19["`Giá tăng bằng lương chỉ xảy ra trong dài hạn và khi chính sách tiền tệ, tín dụng cho phép`"]
+  n18 --- n19
+  n20["`Tiền và tín dụng không co giãn thì tác động chính của ép tăng lương là thất nghiệp`"]
+  n18 --- n20
+  n21["`Tổng quỹ lương, cả bằng đô la lẫn sức mua thực tế, có lẽ thấp hơn trước`"]
+  n18 --- n21
+  n22["`Việc làm giảm do chính sách công đoàn nghĩa là ít hàng hóa hơn được sản xuất cho mọi người`"]
+  n18 --- n22
+  n23["`Douglas (thống kê) và Pigou (suy diễn) độc lập ước độ co giãn của cầu lao động từ -3 đến -4`"]
+  n18 --- n23
+  n24["`Pigou: lương thực tế giảm 1% thì tổng cầu lao động tăng không dưới 3%`"]
+  n23 --- n24
+  n25["`Douglas: lương vượt năng suất biên thì việc làm giảm gấp 3–4 lần mức tăng lương giờ`"]
+  n23 --- n25
+  n26["`Mục 5 — Tiền và tín dụng tăng theo: lương tăng 30% cuối cùng đẩy giá tăng xấp xỉ 30%`"]
+  n0 --- n26
+  n27["`Ngụy biện thứ nhất: lấy chi phí lao động trực tiếp của một ngành làm toàn bộ chi phí lao động`"]
+  n26 --- n27
+  n28["`Lương trực tiếp nhà máy ô tô dưới 1/3 chi phí nên tưởng giá xe chỉ tăng 10% hoặc ít hơn`"]
+  n27 --- n28
+  n29["`Bỏ quên lương gián tiếp trong linh kiện, cước vận chuyển, máy công cụ, phần cộng thêm của đại lý`"]
+  n27 --- n29
+  n30["`Tiền lương và tiền công bằng 69% thu nhập quốc dân Mỹ 1929–1943`"]
+  n26 --- n30
+  n31["`Chi phí lao động chiếm không dưới khoảng 2/3, có thể trên 3/4 tổng chi phí sản xuất`"]
+  n30 --- n31
+  n32["`Lương tăng 30%, lợi nhuận đô la giữ nguyên thì giá tăng gần 20% (2/3 × 30%)`"]
+  n26 --- n32
+  n33["`Ngụy biện thứ hai (cách đọc của người tổng hợp): coi mức giá tăng gần 20% là điểm dừng`"]
+  n26 --- n33
+  n34["`Sức mua của lợi nhuận còn chẳng hạn 84%, đầu tư và doanh nghiệp mới giảm tới khi tỷ lệ cũ khôi phục`"]
+  n33 --- n34
+  n35["`Người làm công chỉ lợi tương đối trong thời kỳ chuyển tiếp: miếng to hơn của một chiếc bánh nhỏ hơn`"]
+  n26 --- n35
+  n36["`Mục 6 — Cân bằng và mức giá, lương, lợi nhuận #quot;tốt nhất#quot;`"]
+  n0 --- n36
+  n37["`Ép giá lên trên cân bằng làm cầu giảm, ép xuống dưới làm lợi nhuận và cung giảm`"]
+  n36 --- n37
+  n38["`Lệch khỏi cân bằng theo bất kỳ hướng nào đều làm việc làm và sản lượng thấp hơn lẽ ra`"]
+  n36 --- n38
+  n39["`Sản phẩm quốc dân được mọi người góp phần làm ra mua: nông dân, nhà đầu tư, người bán thịt, chủ trạm xăng`"]
+  n36 --- n39
+  n40["`Giá tốt nhất không phải giá cao nhất mà là giá cho sản lượng và lượng bán lớn nhất`"]
+  n36 --- n40
+  n41["`Lương tốt nhất cho phép sản xuất đầy đủ, toàn dụng lao động và quỹ lương lớn nhất bền vững`"]
+  n36 --- n41
+  n42["`Lợi nhuận tốt nhất không phải thấp nhất mà khuyến khích nhiều người nhất làm chủ hoặc tạo việc làm`"]
+  n36 --- n42
+  n43["`Đánh giá — Lập luận chi phí đứng vững, con số co giãn thì không`"]
+  n0 --- n43
+  n44["`Lương cũng là chi phí là đóng góp bền vững nhất, áp dụng thẳng bài học của Chương 1`"]
+  n43 --- n44
+  n45["`Giá tăng bằng lương cần ngân hàng trung ương dung nạp, bước khôi phục tỷ lệ cũ chỉ được khẳng định`"]
+  n43 --- n45
+  n46["`Hamermesh (1993): độ co giãn cầu lao động phần lớn quanh -0,3 nên tăng lương làm quỹ lương tăng`"]
+  n43 --- n46
+  n47["`Card và Krueger (1994): lương tối thiểu tăng vừa phải ở New Jersey không làm việc làm giảm`"]
+  n43 --- n47
+  n48["`Hazlitt đánh vào bản thô của lập luận thiếu cầu, không đối diện lý thuyết tổng cầu của Keynes`"]
+  n43 --- n48
+  n49["`Ngày lương 5 đô la của Ford (1914) được giải thích tốt hơn bằng lương hiệu quả và năng suất`"]
+  n43 --- n49
+  n50["`Vận dụng: tính tác động tăng lương theo cả chuỗi cung ứng và hỏi tiền, tín dụng có tăng theo không`"]
+  n43 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Thấy lương là sức mua của người làm công, không thấy lương là chi phí của người thuê`"]
+  n51 --- n52
+  n53["`Tăng lương có lợi bền vững khi được bù bằng năng suất tương đương`"]
+  n51 --- n53
+  n54["`Điều hành kinh tế vì một nhóm hay một giai cấp sẽ làm hại mọi nhóm, phải điều hành vì mọi người`"]
+  n51 --- n54
+  class n0 root
+  class n1,n10,n18,n26,n36,n43,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 20 "'Enough to Buy Back the Product'". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương thứ ba trong chuỗi chương về tiền lương, sau Chương 18 (luật lương tối thiểu) và Chương 19 (công đoàn có thật sự làm tăng lương không). Hai chương trước hỏi việc ép lương lên cao có lợi cho **người lao động** không; chương này đối diện một lập luận rộng hơn: ép lương lên cao là cần thiết cho **cả nền kinh tế**, vì nếu không, người lao động không đủ sức mua để "mua lại sản phẩm" họ làm ra và kinh tế sẽ sụp đổ.
+
+Hazlitt áp dụng "bài học" (C1) bằng cách nhìn mặt kia của tiền lương: thu nhập của người này là chi phí của người khác. Chương kết bằng khái niệm cân bằng và giá, lương, lợi nhuận "tốt nhất", dẫn thẳng sang Chương 21 về chức năng của lợi nhuận; còn câu hỏi tiền và tín dụng có "nới" ra để theo kịp lương hay không được mở rộng ở Chương 22 về lạm phát.
+
+## Lưu ý
+
+- **Bối cảnh** (người tổng hợp bổ sung; Hazlitt không nêu tên công đoàn, cuộc đình công hay người phát ngôn): chương viết ngay sau cuộc đình công lớn của Công đoàn Công nhân Ô tô Mỹ (United Auto Workers, UAW) tại General Motors cuối 1945 – đầu 1946. Lãnh đạo UAW Walter Reuther đòi tăng lương 30% mà không tăng giá xe, lập luận rằng sau chiến tranh người lao động mất thu nhập làm thêm giờ, sức mua thiếu hụt sẽ đưa nước Mỹ trở lại suy thoái. Câu trích "củng cố khả năng đang teo nhanh của chúng tôi trong việc hấp thụ hàng hoá mà chúng tôi có năng lực sản xuất" là của một người phát ngôn công đoàn thời đó.
+- **"Trường phái sức mua"** (purchasing-power school) là tên Hazlitt gọi những người giải thích suy thoái bằng **thiếu cầu tiêu dùng** (underconsumption): lương thấp → người lao động không mua hết hàng → hàng ế → suy thoái. Lập luận này có mặt trong chính sách New Deal; Luật Quan hệ Lao động Quốc gia (Wagner Act, 1935) nêu trong phần mục đích rằng bất bình đẳng thương lượng làm giảm sức mua của người làm công. Hazlitt gọi họ là "môn đồ vô thức" (unconscious disciples) của những người theo Marx nhưng không giải thích vì sao; theo người tổng hợp, có lẽ vì cách giải thích khủng hoảng của Marx cũng dựa vào việc người lao động không được trả đủ để mua hết sản phẩm.
+- **Độ co giãn từ -3 đến -4** là ước lượng của Paul H. Douglas (*The Theory of Wages*, 1934) và A. C. Pigou (*The Theory of Unemployment*, 1933). Các ước lượng hiện đại cho độ co giãn của cầu lao động nhỏ hơn nhiều (xem phần Đánh giá), nên con số này nay không còn được chấp nhận.
+- Con số "tiền lương và tiền công trung bình bằng 69% thu nhập quốc dân Mỹ giai đoạn 1929–1943" là ước tính của chính phủ Mỹ Hazlitt dẫn. Chương chia bốn mục (đánh số 2, 3, 4 trong bản gốc, mục đầu không đánh số). Mọi câu trích là bản dịch của người tổng hợp.

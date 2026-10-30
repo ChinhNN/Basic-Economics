@@ -1,11 +1,19 @@
 # Chương 25 — Ghi chú về sách (A Note on Books)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Ba "The Lesson Restated", Chương 25 "A Note on Books" (theo mục lục, Phần Ba gồm Chương 24 và Chương 25). Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương ngoài lập luận chính: sau khi Chương 24 phát biểu lại bài học, Hazlitt chỉ đường đọc tiếp cho người muốn học kinh tế học bài bản. Danh sách cho thấy rõ cuốn sách đứng trong truyền thống nào: kinh tế học cổ điển và tân cổ điển, trường phái Áo (Mises, Böhm-Bawerk), và các nhà phê phán kế hoạch hoá tập trung những năm 1930–1940 (Hayek, Robbins, Röpke, Jewkes).
-**Ý chính:** Hazlitt đề xuất một lộ trình bốn bước: (1) đọc một giáo trình độ dài trung bình (Benham, Bye); (2) đọc thêm vài sách cũ dễ đọc hơn (Cannan, J. B. Clark); (3) người muốn kỹ lưỡng đọc một bộ hai tập (bộ chuyên luận sắp ra của Mises, Taussig) và nhất định không bỏ qua Wicksteed; (4) với ai muốn đọc các tác phẩm kinh điển, ông gợi ý rằng đọc **theo thứ tự ngược thời gian**, từ J. B. Clark (1899) lùi về Adam Smith (1776), có thể có lợi hơn. (Cách chia thành bốn bước là của người tổng hợp; Hazlitt viết liền mạch.) Song song, ông giới thiệu các sách cùng quan điểm phê phán kế hoạch hoá (Hayek, Robbins, Röpke, Jewkes, Mises) và Bastiat. Thông điệp cuối: kinh tế học phân nhánh ra hàng trăm lĩnh vực chuyên sâu, nhưng không ai hiểu đúng lĩnh vực nào nếu chưa nắm vững nguyên lý cơ bản và mối liên hệ giữa mọi yếu tố kinh tế.
+## Ý chính
 
-> **Lưu ý:** Danh sách này phản ánh tình hình năm 1952 chứ không phải 1946: *Ordeal by Planning* của John Jewkes ra năm 1948, *Planned Chaos* của Mises ra năm 1947, nên chương đã được cập nhật cho ấn bản FEE. "Bộ chuyên luận mới về kinh tế học của Mises, đang chuẩn bị" mà Hazlitt nhắc là *Human Action* (Hành động của con người), xuất bản năm 1949; câu này có vẻ còn sót lại từ bản 1946 chưa được sửa. Phần lớn giáo trình ông gợi ý (Benham, Bye, Taussig) nay đã lỗi thời và ít được dùng. Ấn bản sửa đổi năm 1979 của cuốn sách có danh sách sách được Hazlitt cập nhật lại. Văn bản nguồn viết "Edwin Canaan"; tên đúng là Edwin **Cannan**. Các câu trích là bản dịch của người tổng hợp.
+Hazlitt đề xuất một lộ trình bốn bước:
+
+- đọc một giáo trình độ dài trung bình (Benham, Bye);
+- đọc thêm vài sách cũ dễ đọc hơn (Cannan, J. B. Clark);
+- người muốn kỹ lưỡng đọc một bộ hai tập (bộ chuyên luận sắp ra của Mises, Taussig) và nhất định không bỏ qua Wicksteed;
+- với ai muốn đọc các tác phẩm kinh điển, ông gợi ý rằng đọc **theo thứ tự ngược thời gian**, từ J. B. Clark (1899) lùi về Adam Smith (1776), có thể có lợi hơn.
+
+(Cách chia thành bốn bước là của người tổng hợp; Hazlitt viết liền mạch.)
+
+Song song, ông giới thiệu các sách cùng quan điểm phê phán kế hoạch hoá (Hayek, Robbins, Röpke, Jewkes, Mises) và Bastiat.
+
+Thông điệp cuối: kinh tế học phân nhánh ra hàng trăm lĩnh vực chuyên sâu, nhưng không ai hiểu đúng lĩnh vực nào nếu chưa nắm vững nguyên lý cơ bản và mối liên hệ giữa mọi yếu tố kinh tế.
 
 ## Sơ đồ
 
@@ -131,3 +139,123 @@ Danh sách của Hazlitt nghiêng hẳn về một phía (trường phái Áo v�
 - **Cho người muốn đọc nguồn gốc:** Bastiat, "Cái thấy được và cái không thấy" (1850), vẫn là bài đọc ngắn tốt nhất trước hay sau cuốn sách này.
 
 Về bản tiếng Việt: người tổng hợp chỉ ghi những bản dịch đã chắc chắn tồn tại (*Của cải của các dân tộc*, *Đường về nô lệ*). Với các sách khác, người đọc nên tự kiểm tra trước khi tìm mua.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 25 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết và phần Gợi ý đọc tiếp hiện đại (giáo trình và sách cũ dễ đọc, bộ sách hai tập, kinh điển đọc theo thứ tự ngược, sách cùng quan điểm, nguyên lý cơ bản trước chuyên ngành sau, gợi ý của người tổng hợp), mỗi nhánh ghi tên sách, năm, độ dài và nhận xét then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 25: nắm vững nguyên lý kinh tế cơ bản trước, chuyên ngành sau, theo lộ trình đọc của Hazlitt`"]
+  n1["`Mục 1–2 — Bắt đầu bằng giáo trình độ dài trung bình, rồi sách cũ dễ đọc hơn`"]
+  n0 --- n1
+  n2["`Benham, Economics, 525 trang: giáo trình đại học giúp theo kịp tư tưởng kinh tế gần đây`"]
+  n1 --- n2
+  n3["`Bye, Principles of Economics, 632 trang: giáo trình đại học phổ biến cùng loại`"]
+  n1 --- n3
+  n4["`Sách cũ dễ đọc và thú vị hơn, dù có khi phải tìm ở hàng sách cũ`"]
+  n1 --- n4
+  n5["`Cannan, Wealth, cẩm nang nhỏ 274 trang, và cuốn Money vừa được in lại`"]
+  n1 --- n5
+  n6["`J. B. Clark, Essentials of Economic Theory vẫn rõ ràng và chặt chẽ đáng kể`"]
+  n1 --- n6
+  n7["`Mục 3 — Người muốn kỹ lưỡng đọc một bộ sách hai tập`"]
+  n0 --- n7
+  n8["`Bộ chuyên luận đang chuẩn bị của Mises sẽ vượt mọi công trình trước về tính thống nhất logic`"]
+  n7 --- n8
+  n9["`Người tổng hợp: bộ đó ra năm 1949 với tên Human Action, tác phẩm chính của trường phái Áo`"]
+  n8 --- n9
+  n10["`Taussig, Principles of Economics: theo lối cũ nhưng rõ, đơn giản và hợp lý`"]
+  n7 --- n10
+  n11["`Không được bỏ qua Wicksteed, The Common Sense of Political Economy: văn dễ và sáng, lập luận sâu sắc`"]
+  n7 --- n11
+  n12["`Wicksteed là một trong ba món nợ trí tuệ Hazlitt nêu ở Lời nói đầu`"]
+  n7 --- n12
+  n13["`Mục 4 — Đọc các tác phẩm kinh điển theo thứ tự ngược thời gian`"]
+  n0 --- n13
+  n14["`Đọc ngược có thể có lợi hơn, Hazlitt không nói lý do`"]
+  n13 --- n14
+  n15["`Bắt đầu: J. B. Clark 1899, Marshall 1890, Böhm-Bawerk 1888, Jevons 1871`"]
+  n13 --- n15
+  n16["`Kết thúc: J. S. Mill 1848, Ricardo 1817, Adam Smith 1776`"]
+  n13 --- n16
+  n17["`Người tổng hợp đoán: sách mới gần ngôn ngữ hiện đại, nắm bản đã tinh chỉnh thì dễ thấy sách cũ đúng sai ở đâu`"]
+  n13 --- n17
+  n18["`Marshall 1890 là giáo trình nền của kinh tế học tân cổ điển, Jevons 1871 mở đầu cách mạng cận biên`"]
+  n13 --- n18
+  n19["`Mục 5 — Sách gần đây cùng quan điểm phê phán kế hoạch hoá`"]
+  n0 --- n19
+  n20["`Hayek, The Road to Serfdom 1944: kế hoạch hoá tập trung dẫn tới mất tự do chính trị`"]
+  n19 --- n20
+  n21["`Robbins 1937, Röpke 1942, Jewkes, Ordeal by Planning 1948`"]
+  n19 --- n21
+  n22["`Mises, Socialism 1922: bản phê phán kỹ lưỡng và có sức huỷ diệt nhất về các học thuyết tập thể`"]
+  n19 --- n22
+  n23["`Mises, Planned Chaos 1947`"]
+  n19 --- n23
+  n24["`Bastiat, Economic Sophisms: kinh điển người đọc không nên bỏ qua`"]
+  n19 --- n24
+  n25["`Bastiat, Cái thấy được và cái không thấy 1850: nguồn của ví dụ cửa sổ vỡ và khung cả cuốn sách`"]
+  n19 --- n25
+  n26["`Mục 6 — Nguyên lý cơ bản trước, chuyên ngành sau`"]
+  n0 --- n26
+  n27["`Kinh tế học toả ra hàng trăm hướng: tiền tệ, ngoại thương, thuế, lương, nông nghiệp, chu kỳ kinh doanh...`"]
+  n26 --- n27
+  n28["`Không ai hiểu đúng lĩnh vực chuyên sâu nào nếu chưa nắm vững nguyên lý cơ bản và mối liên hệ giữa mọi yếu tố`"]
+  n26 --- n28
+  n29["`Đã nắm kinh tế học đại cương thì tự tìm ra đúng sách chuyên sâu mình cần`"]
+  n26 --- n29
+  n30["`Người tổng hợp: chỉ học một chuyên ngành mà bỏ mối liên hệ giữa các thị trường là mắc đúng lỗi bài học Chương 1 chỉ ra`"]
+  n26 --- n30
+  n31["`Gợi ý đọc tiếp hiện đại của người tổng hợp`"]
+  n0 --- n31
+  n32["`Danh sách của Hazlitt nghiêng hẳn về trường phái Áo và phê phán kế hoạch hoá, phần giáo trình đã lỗi thời`"]
+  n31 --- n32
+  n33["`Sowell, Basic Economics: phiên bản dài và hiện đại của cách tiếp cận Hazlitt, không phương trình hay đồ thị`"]
+  n31 --- n33
+  n34["`Friedman, Free to Choose 1980, và Read, I, Pencil 1958`"]
+  n31 --- n34
+  n35["`Hayek, The Use of Knowledge in Society 1945: giá cả truyền tải thông tin`"]
+  n31 --- n35
+  n36["`Một giáo trình nguyên lý như của Mankiw để thấy cả điều kiện lập luận của Keynes có hiệu lực`"]
+  n31 --- n36
+  n37["`Olson, The Logic of Collective Action 1965 về nhóm lợi ích`"]
+  n31 --- n37
+  n38["`Thông điệp xuyên suốt`"]
+  n0 --- n38
+  n39["`Danh sách cho thấy cuốn sách đứng trong truyền thống cổ điển, tân cổ điển, trường phái Áo và phê phán kế hoạch hoá`"]
+  n38 --- n39
+  n40["`Danh sách phản ánh năm 1952 chứ không phải 1946, vì có sách của Jewkes 1948 và Planned Chaos 1947`"]
+  n38 --- n40
+  n41["`Nắm vững nguyên lý cơ bản và mối liên hệ giữa mọi yếu tố trước khi đi vào chuyên ngành`"]
+  n38 --- n41
+  class n0 root
+  class n1,n7,n13,n19,n26,n31,n38 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n39,n40,n41 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Ba "The Lesson Restated", Chương 25 "A Note on Books" (theo mục lục, Phần Ba gồm Chương 24 và Chương 25). Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương ngoài lập luận chính: sau khi Chương 24 phát biểu lại bài học, Hazlitt chỉ đường đọc tiếp cho người muốn học kinh tế học bài bản.
+
+Danh sách cho thấy rõ cuốn sách đứng trong truyền thống nào: kinh tế học cổ điển và tân cổ điển, trường phái Áo (Mises, Böhm-Bawerk), và các nhà phê phán kế hoạch hoá tập trung những năm 1930–1940 (Hayek, Robbins, Röpke, Jewkes).
+
+## Lưu ý
+
+- Danh sách này phản ánh tình hình năm 1952 chứ không phải 1946: *Ordeal by Planning* của John Jewkes ra năm 1948, *Planned Chaos* của Mises ra năm 1947, nên chương đã được cập nhật cho ấn bản FEE.
+- "Bộ chuyên luận mới về kinh tế học của Mises, đang chuẩn bị" mà Hazlitt nhắc là *Human Action* (Hành động của con người), xuất bản năm 1949; câu này có vẻ còn sót lại từ bản 1946 chưa được sửa.
+- Phần lớn giáo trình ông gợi ý (Benham, Bye, Taussig) nay đã lỗi thời và ít được dùng. Ấn bản sửa đổi năm 1979 của cuốn sách có danh sách sách được Hazlitt cập nhật lại.
+- Văn bản nguồn viết "Edwin Canaan"; tên đúng là Edwin **Cannan**.
+- Các câu trích là bản dịch của người tổng hợp.

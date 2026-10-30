@@ -1,12 +1,14 @@
 # Lời nói đầu (Preface)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Lời nói đầu (Preface), ký "H. H., New York, ngày 25 tháng 3 năm 1946". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Lời nói đầu nói cuốn sách là gì trước khi Chương 1 phát biểu "bài học" (*the lesson*). Hazlitt nêu bốn điều: (1) đối tượng của sách là các ngụy biện kinh tế (*economic fallacies*) đang phổ biến đến mức thành "chính thống mới"; (2) phương pháp là mổ xẻ các ngụy biện đó và truy về một lỗi trung tâm; (3) sách là sách trình bày lại (*exposition*), không tự nhận là mới, và mượn khung của Bastiat, Wicksteed, Mises; (4) sách cố ý không nêu tên người bị phê phán và hầu như không dùng thống kê. Mọi chương sau đều làm đúng cách được hứa ở đây: lấy một chính sách, chỉ ra cái thấy được và cái không thấy.
-**Ý chính:** Hazlitt cho rằng cách ngắn nhất và chắc nhất để hiểu kinh tế học là mổ xẻ những sai lầm kinh tế phổ biến, đặc biệt là **một lỗi trung tâm** sinh ra tất cả các sai lầm đó (lỗi này sẽ được gọi tên ở Chương 1). Ông nói các ý tưởng "mới" đang được tung hô thực ra là sai lầm cũ được hồi sinh. Ông ghi nhận ba món nợ trí tuệ: khung trình bày lấy từ bài luận *Cái thấy được và cái không thấy* (*Ce qu'on voit et ce qu'on ne voit pas*, 1850) của Frédéric Bastiat; các chương về lương và chương tổng kết dựa nhiều vào Philip Wicksteed; phần giải thích cách lạm phát lan truyền dựa vào Ludwig von Mises. Ông không nêu tên Marx, Veblen, Major Douglas, Keynes, Alvin Hansen, vì mục tiêu là sai lầm ở dạng phổ biến mà các nhóm chính trị tin và chính phủ làm theo, không phải học thuyết chính xác của từng tác giả.
+## Ý chính
 
-> **Lưu ý:** Lời nói đầu viết tháng 3/1946, bảy tháng sau khi Thế chiến II kết thúc. Bối cảnh: chính phủ Mỹ vẫn kiểm soát giá và phân phối nhiều mặt hàng thời chiến (giá trần do Cơ quan Quản lý Giá, OPA, áp đặt); Luật Việc làm 1946 (*Employment Act*) vừa được thông qua, giao cho chính phủ liên bang trách nhiệm duy trì việc làm; nhiều nhà kinh tế theo Keynes, đứng đầu là Alvin Hansen, lo kinh tế Mỹ sẽ rơi lại vào suy thoái khi chi tiêu quân sự giảm và khuyến nghị chính phủ tiếp tục chi tiêu lớn. Theo nhận định của người tổng hợp, "chính thống mới" mà Hazlitt nói tới chủ yếu là kinh tế học Keynes và các chính sách thời New Deal. Những cái tên ông nhắc: Karl Marx (chủ nghĩa xã hội), Thorstein Veblen (kinh tế học thể chế, phê phán giới kinh doanh), "Major Douglas" (C. H. Douglas, người đề xướng thuyết "Tín dụng xã hội", cho rằng nền kinh tế luôn thiếu sức mua và nhà nước phải phát thêm tiền cho dân), Lord Keynes, Alvin Hansen (người đưa thuyết "trì trệ trường kỳ" vào Mỹ). Câu "những ai không biết quá khứ thì bị buộc phải lặp lại nó" là ý của triết gia George Santayana, Hazlitt dẫn mà không nêu tên. Các câu trích là bản dịch của người tổng hợp.
+Hazlitt cho rằng cách ngắn nhất và chắc nhất để hiểu kinh tế học là mổ xẻ những sai lầm kinh tế phổ biến, đặc biệt là **một lỗi trung tâm** sinh ra tất cả các sai lầm đó (lỗi này sẽ được gọi tên ở Chương 1).
 
+Ông nói các ý tưởng "mới" đang được tung hô thực ra là sai lầm cũ được hồi sinh.
+
+Ông ghi nhận ba món nợ trí tuệ: khung trình bày lấy từ bài luận *Cái thấy được và cái không thấy* (*Ce qu'on voit et ce qu'on ne voit pas*, 1850) của Frédéric Bastiat; các chương về lương và chương tổng kết dựa nhiều vào Philip Wicksteed; phần giải thích cách lạm phát lan truyền dựa vào Ludwig von Mises.
+
+Ông không nêu tên Marx, Veblen, Major Douglas, Keynes, Alvin Hansen, vì mục tiêu là sai lầm ở dạng phổ biến mà các nhóm chính trị tin và chính phủ làm theo, không phải học thuyết chính xác của từng tác giả.
 ## Sơ đồ
 
 ### Phần 1: đối tượng của sách — các ngụy biện đã thành "chính thống mới" (đoạn 1–2 của Lời nói đầu)
@@ -152,7 +154,9 @@
 
 ### 1. Đối tượng: những ngụy biện đã gần thành chính thống (đoạn 1–2 của Lời nói đầu)
 
-Hazlitt mở đầu: cuốn sách phân tích những ngụy biện kinh tế đã phổ biến đến mức gần như trở thành một "chính thống mới". Điều duy nhất ngăn chúng trở thành chính thống là chúng tự mâu thuẫn. Những người cùng chấp nhận các tiền đề ấy bị tản ra thành hàng trăm "trường phái" khác nhau, vì một lý do đơn giản: trong những vấn đề chạm tới đời sống thực tế, không ai có thể sai một cách nhất quán. Sự khác nhau giữa trường phái này và trường phái kia chỉ là nhóm này tỉnh ra sớm hơn nhóm kia trước cái vô lý mà tiền đề sai đang dẫn họ tới; vào lúc tỉnh ra, họ trở nên thiếu nhất quán, hoặc vì vô tình bỏ tiền đề sai, hoặc vì chọn những kết luận ít gây sốc hay ít hoang đường hơn những kết luận mà logic đòi hỏi.
+Hazlitt mở đầu: cuốn sách phân tích những ngụy biện kinh tế đã phổ biến đến mức gần như trở thành một "chính thống mới". Điều duy nhất ngăn chúng trở thành chính thống là chúng tự mâu thuẫn. Những người cùng chấp nhận các tiền đề ấy bị tản ra thành hàng trăm "trường phái" khác nhau, vì một lý do đơn giản: trong những vấn đề chạm tới đời sống thực tế, không ai có thể sai một cách nhất quán.
+
+Sự khác nhau giữa trường phái này và trường phái kia chỉ là nhóm này tỉnh ra sớm hơn nhóm kia trước cái vô lý mà tiền đề sai đang dẫn họ tới; vào lúc tỉnh ra, họ trở nên thiếu nhất quán, hoặc vì vô tình bỏ tiền đề sai, hoặc vì chọn những kết luận ít gây sốc hay ít hoang đường hơn những kết luận mà logic đòi hỏi.
 
 Nhưng, Hazlitt viết, vào thời điểm đó không có chính phủ lớn nào trên thế giới mà chính sách kinh tế không chịu ảnh hưởng, nếu không phải là gần như hoàn toàn bị quyết định, bởi một số ngụy biện này. Vì vậy ông giả định rằng con đường ngắn nhất và chắc nhất để hiểu kinh tế học là mổ xẻ những sai lầm đó, đặc biệt là sai lầm trung tâm mà từ đó chúng sinh ra. Giả định này giải thích cái tên sách mà chính ông gọi là "khá tham vọng và gây hấn": *Kinh tế học trong một bài học*.
 
@@ -160,7 +164,9 @@ Nhưng, Hazlitt viết, vào thời điểm đó không có chính phủ lớn n
 
 Sách chủ yếu là trình bày. Nó không tự nhận là độc đáo ở bất kỳ ý chính nào. Ngược lại, nó cố chỉ ra rằng nhiều ý tưởng đang được coi là đột phá và tiến bộ rực rỡ thực ra chỉ là sự hồi sinh của những sai lầm cổ xưa, và là thêm một bằng chứng cho câu nói rằng những ai không biết quá khứ thì bị buộc phải lặp lại nó.
 
-Hazlitt viết rằng ông cho là bài luận này, "không chút ngượng ngùng", mang tính "cổ điển", "truyền thống" và "chính thống"; ít nhất đó là những tính từ mà những người có lập luận bị phân tích ở đây chắc chắn sẽ dùng để gạt nó đi. Ông nói người học muốn đến gần sự thật sẽ không sợ những tính từ đó. Người ấy sẽ không mãi đòi một cuộc cách mạng hay một "khởi đầu mới" trong tư tưởng kinh tế; người ấy cởi mở với ý mới cũng như ý cũ, nhưng gạt sang bên sự cố gắng bồn chồn hay phô diễn để tỏ ra mới lạ. Ông dẫn triết gia Morris R. Cohen (chú thích của Hazlitt ghi nguồn: *Reason and Nature*, 1931, trang x): "Ý nghĩ rằng chúng ta có thể gạt bỏ quan điểm của mọi nhà tư tưởng đi trước chắc chắn không để lại cơ sở nào cho hy vọng rằng công trình của chính chúng ta sẽ có giá trị với người khác."
+Hazlitt viết rằng ông cho là bài luận này, "không chút ngượng ngùng", mang tính "cổ điển", "truyền thống" và "chính thống"; ít nhất đó là những tính từ mà những người có lập luận bị phân tích ở đây chắc chắn sẽ dùng để gạt nó đi.
+
+Ông nói người học muốn đến gần sự thật sẽ không sợ những tính từ đó. Người ấy sẽ không mãi đòi một cuộc cách mạng hay một "khởi đầu mới" trong tư tưởng kinh tế; người ấy cởi mở với ý mới cũng như ý cũ, nhưng gạt sang bên sự cố gắng bồn chồn hay phô diễn để tỏ ra mới lạ. Ông dẫn triết gia Morris R. Cohen (chú thích của Hazlitt ghi nguồn: *Reason and Nature*, 1931, trang x): "Ý nghĩ rằng chúng ta có thể gạt bỏ quan điểm của mọi nhà tư tưởng đi trước chắc chắn không để lại cơ sở nào cho hy vọng rằng công trình của chính chúng ta sẽ có giá trị với người khác."
 
 ### 3. Ba món nợ trí tuệ (đoạn 5)
 
@@ -176,7 +182,9 @@ Vì là sách trình bày, Hazlitt dùng ý của người khác một cách t�
 
 Khi phân tích ngụy biện, Hazlitt thấy càng không nên nêu tên người cụ thể. Nếu nêu tên thì phải công bằng với từng người: trích chính xác, tính đến chỗ họ nhấn mạnh, các điều kiện họ đặt ra, những chỗ mơ hồ và mâu thuẫn riêng của họ. Vì vậy người đọc sẽ không thấy những cái tên như Karl Marx, Thorstein Veblen, Major Douglas, Lord Keynes, Giáo sư Alvin Hansen.
 
-Mục tiêu của sách không phải vạch ra lỗi riêng của từng tác giả, mà là các sai lầm kinh tế ở dạng phổ biến nhất, lan rộng nhất hoặc có ảnh hưởng nhất. Hazlitt nhận xét: ngụy biện, khi đã đến tầng đại chúng, thì dù sao cũng trở thành vô danh. Những tinh tế hay tối nghĩa trong sách của các tác giả chịu trách nhiệm chính bị rửa trôi; học thuyết được đơn giản hoá; ngụy biện vốn có thể chôn trong một mạng lưới điều kiện, chỗ mơ hồ hay phương trình toán học nay hiện ra trần trụi. Ông xin đừng bị buộc tội bất công khi một học thuyết thời thượng, ở dạng ông trình bày, không đúng hệt như Keynes hay tác giả nào khác đã phát biểu. Điều sách quan tâm là niềm tin mà các nhóm có ảnh hưởng chính trị nắm giữ và chính phủ hành động theo, không phải nguồn gốc lịch sử của những niềm tin đó.
+Mục tiêu của sách không phải vạch ra lỗi riêng của từng tác giả, mà là các sai lầm kinh tế ở dạng phổ biến nhất, lan rộng nhất hoặc có ảnh hưởng nhất. Hazlitt nhận xét: ngụy biện, khi đã đến tầng đại chúng, thì dù sao cũng trở thành vô danh. Những tinh tế hay tối nghĩa trong sách của các tác giả chịu trách nhiệm chính bị rửa trôi; học thuyết được đơn giản hoá; ngụy biện vốn có thể chôn trong một mạng lưới điều kiện, chỗ mơ hồ hay phương trình toán học nay hiện ra trần trụi.
+
+Ông xin đừng bị buộc tội bất công khi một học thuyết thời thượng, ở dạng ông trình bày, không đúng hệt như Keynes hay tác giả nào khác đã phát biểu. Điều sách quan tâm là niềm tin mà các nhóm có ảnh hưởng chính trị nắm giữ và chính phủ hành động theo, không phải nguồn gốc lịch sử của những niềm tin đó.
 
 ### 5. Vì sao gần như không dùng thống kê, và viết cho ai (đoạn 7–9, ký tên)
 
@@ -257,7 +265,9 @@ Phần lớn các chính sách kinh tế sai lầm đang được áp dụng có
 
 ### Không nêu tên là một lựa chọn có lý, nhưng nó cho phép Hazlitt phê phán một phiên bản yếu hơn của đối thủ
 
-Lý do Hazlitt đưa ra là hợp lý: chính sách được làm theo dạng đại chúng của học thuyết, nên phê phán dạng đó là phê phán thứ thật sự gây hậu quả. Nhưng cái giá là người đọc không kiểm tra được ông có công bằng không. Kinh tế học Keynes ở dạng học thuật có những điều kiện mà dạng đại chúng bỏ đi (ví dụ: chi tiêu chính phủ chỉ làm tăng sản lượng khi có nguồn lực nhàn rỗi). Khi Hazlitt bác dạng đại chúng, nhiều người đọc sẽ tưởng ông đã bác cả dạng học thuật. Người đọc nên giữ hai câu hỏi tách nhau: lập luận của Hazlitt có đúng với khẩu hiệu chính trị không (thường là có), và có đúng với mô hình học thuật đầy đủ không (phải xem từng trường hợp). Chương 1 cho một ví dụ: câu "về dài hạn, tất cả chúng ta đều chết" của Keynes bị Hazlitt dùng theo nghĩa khác với ngữ cảnh gốc.
+Lý do Hazlitt đưa ra là hợp lý: chính sách được làm theo dạng đại chúng của học thuyết, nên phê phán dạng đó là phê phán thứ thật sự gây hậu quả. Nhưng cái giá là người đọc không kiểm tra được ông có công bằng không. Kinh tế học Keynes ở dạng học thuật có những điều kiện mà dạng đại chúng bỏ đi (ví dụ: chi tiêu chính phủ chỉ làm tăng sản lượng khi có nguồn lực nhàn rỗi).
+
+Khi Hazlitt bác dạng đại chúng, nhiều người đọc sẽ tưởng ông đã bác cả dạng học thuật. Người đọc nên giữ hai câu hỏi tách nhau: lập luận của Hazlitt có đúng với khẩu hiệu chính trị không (thường là có), và có đúng với mô hình học thuật đầy đủ không (phải xem từng trường hợp). Chương 1 cho một ví dụ: câu "về dài hạn, tất cả chúng ta đều chết" của Keynes bị Hazlitt dùng theo nghĩa khác với ngữ cảnh gốc.
 
 ### Quyết định bỏ thống kê làm sách sống lâu, nhưng chuyển gánh nặng kiểm chứng sang người đọc
 
@@ -269,4 +279,141 @@ Hazlitt khiêm tốn khi nói sách chỉ là bản hiện đại hoá Bastiat. 
 
 ### Vận dụng: khi đọc một đề xuất "đột phá", hãy hỏi nó có phải là ý cũ đã từng thất bại không
 
-Hazlitt nói nhiều ý "mới" là sai lầm cũ được hồi sinh. Với người làm kinh doanh và đầu tư, đây là một thói quen có ích. Khi nghe một mô hình kinh doanh "chưa từng có", hãy tìm phiên bản cũ của nó (bán hàng lỗ để chiếm thị phần, cho vay dễ để tăng trưởng nhanh, đầu cơ đất dựa trên kỳ vọng hạ tầng) và hỏi phiên bản cũ đã kết thúc ra sao. Khi đọc tin về một chính sách hỗ trợ ngành, hãy hỏi đó có phải là trợ cấp hay bảo hộ cũ dưới tên mới không. Câu hỏi này không bác bỏ cái mới; nó chỉ buộc người đề xuất chỉ ra điều gì đã khác so với lần trước. Và lời khuyên về thống kê áp dụng thẳng cho người đọc báo: nắm nguyên lý trước, rồi mới đọc con số; con số không kèm nguyên lý rất dễ được dùng để chứng minh bất cứ điều gì.
+Hazlitt nói nhiều ý "mới" là sai lầm cũ được hồi sinh. Với người làm kinh doanh và đầu tư, đây là một thói quen có ích. Khi nghe một mô hình kinh doanh "chưa từng có", hãy tìm phiên bản cũ của nó (bán hàng lỗ để chiếm thị phần, cho vay dễ để tăng trưởng nhanh, đầu cơ đất dựa trên kỳ vọng hạ tầng) và hỏi phiên bản cũ đã kết thúc ra sao. Khi đọc tin về một chính sách hỗ trợ ngành, hãy hỏi đó có phải là trợ cấp hay bảo hộ cũ dưới tên mới không. Câu hỏi này không bác bỏ cái mới; nó chỉ buộc người đề xuất chỉ ra điều gì đã khác so với lần trước.
+
+Và lời khuyên về thống kê áp dụng thẳng cho người đọc báo: nắm nguyên lý trước, rồi mới đọc con số; con số không kèm nguyên lý rất dễ được dùng để chứng minh bất cứ điều gì.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời nói đầu trên một trang: sáu nhánh lớn đi theo các mục 1–5 trong phần Nội dung chi tiết (đối tượng là các ngụy biện gần thành chính thống mới, sách trình bày lại cái cũ, ba món nợ trí tuệ với Bastiat, Wicksteed, Mises, lý do không nêu tên người bị phê phán, lý do ít thống kê và viết đơn giản) cùng phần Đánh giá, mỗi nhánh ghi lập luận, ví dụ và tên người, tác phẩm then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời nói đầu: hiểu kinh tế học nhanh nhất bằng cách mổ xẻ các ngụy biện phổ biến và lỗi trung tâm sinh ra chúng`"]
+  n1["`Mục 1 — Đối tượng: ngụy biện kinh tế đã gần thành chính thống mới`"]
+  n0 --- n1
+  n2["`Ngụy biện kinh tế: lập luận nghe hợp lý nhưng dẫn tới kết luận sai về tác động của chính sách`"]
+  n1 --- n2
+  n3["`Chúng chỉ chưa thành chính thống thật vì tự mâu thuẫn`"]
+  n1 --- n3
+  n4["`Trong việc chạm tới đời sống thực tế, không ai có thể sai một cách nhất quán`"]
+  n3 --- n4
+  n5["`Người cùng tiền đề sai tản ra hàng trăm trường phái, khác nhau ở chỗ tỉnh ra sớm hay muộn trước cái vô lý`"]
+  n3 --- n5
+  n6["`Năm 1946 không chính phủ lớn nào có chính sách kinh tế thoát ảnh hưởng của các ngụy biện này`"]
+  n1 --- n6
+  n7["`Mổ xẻ sai lầm, nhất là lỗi trung tâm, là đường ngắn và chắc nhất#59; vì thế tên sách là Một bài học`"]
+  n1 --- n7
+  n8["`Lỗi trung tâm sẽ được gọi tên ở Chương 1`"]
+  n7 --- n8
+  n9["`Mục 2 — Sách trình bày lại, không chạy theo cái mới`"]
+  n0 --- n9
+  n10["`Sách không tự nhận độc đáo ở bất kỳ ý chính nào`"]
+  n9 --- n10
+  n11["`Nhiều ý tưởng được coi là đột phá thực ra là sai lầm cổ xưa được hồi sinh`"]
+  n9 --- n11
+  n12["`Ai không biết quá khứ thì bị buộc phải lặp lại nó (ý của Santayana, Hazlitt không nêu tên)`"]
+  n11 --- n12
+  n13["`Hazlitt tự nhận sách là cổ điển, truyền thống, chính thống, những nhãn đối thủ sẽ dùng để gạt sách đi`"]
+  n9 --- n13
+  n14["`Người tìm sự thật không sợ các nhãn đó, không đòi mãi một cuộc cách mạng trong tư tưởng kinh tế`"]
+  n9 --- n14
+  n15["`Morris R. Cohen: gạt bỏ mọi nhà tư tưởng đi trước thì không còn cơ sở hy vọng công trình của ta có ích`"]
+  n14 --- n15
+  n16["`Mục 3 — Ba món nợ trí tuệ`"]
+  n0 --- n16
+  n17["`Bastiat, Cái thấy được và cái không thấy (1850): món nợ lớn nhất, khung trình bày của cả sách`"]
+  n16 --- n17
+  n18["`Sách là bản hiện đại hóa, mở rộng và khái quát hóa cách tiếp cận của Bastiat`"]
+  n17 --- n18
+  n19["`Khung: hệ quả trước mắt dễ thấy, hệ quả gián tiếp đến sau rơi vào người khác nên không ai thấy`"]
+  n17 --- n19
+  n20["`Ví dụ: cửa kính mới thấy được, bộ com-lê không bao giờ được may thì không thấy`"]
+  n19 --- n20
+  n21["`Wicksteed, The Common Sense of Political Economy (1910): các chương về lương và chương tổng kết`"]
+  n16 --- n21
+  n22["`Mises: cách lạm phát tiền tệ lan truyền qua nền kinh tế#59; Mises còn đọc bản thảo và góp ý`"]
+  n16 --- n22
+  n23["`Tiền mới đến tay người nhận trước (nhà thầu, ngân hàng) ở giá cũ, người hưởng lương cố định chịu giá đã tăng`"]
+  n22 --- n23
+  n24["`Mục 4 — Không nêu tên người bị phê phán`"]
+  n0 --- n24
+  n25["`Nêu tên thì phải công bằng: trích chính xác, tính chỗ nhấn mạnh, điều kiện, mâu thuẫn riêng của từng người`"]
+  n24 --- n25
+  n26["`Vắng mặt trong sách: Marx, Veblen, Major Douglas, Lord Keynes, Giáo sư Alvin Hansen`"]
+  n24 --- n26
+  n27["`Ngụy biện khi đến tầng đại chúng thì thành vô danh: điều kiện, chỗ mơ hồ, phương trình bị rửa trôi`"]
+  n24 --- n27
+  n28["`Ví dụ: chi tiêu chính phủ tăng sản lượng khi có nguồn lực nhàn rỗi thành chi tiêu chính phủ luôn tạo việc làm`"]
+  n27 --- n28
+  n29["`Sách nhắm vào niềm tin mà nhóm chính trị nắm giữ và chính phủ hành động theo, không vào nguồn gốc lịch sử`"]
+  n24 --- n29
+  n30["`Mục 5 — Rất ít thống kê, viết cho người chưa học kinh tế`"]
+  n0 --- n30
+  n31["`Chứng minh bằng thống kê về thuế quan, ấn định giá, lạm phát, kiểm soát than, cao su, bông sẽ làm sách phình to`"]
+  n30 --- n31
+  n32["`Là người làm báo, Hazlitt biết thống kê lỗi thời rất nhanh`"]
+  n30 --- n32
+  n33["`Muốn số liệu thì đọc thảo luận thực tế đương thời, dùng nguyên lý của sách để đọc đúng`"]
+  n30 --- n33
+  n34["`Viết đơn giản, tránh thuật ngữ trong chừng mực vẫn giữ độ chính xác hợp lý`"]
+  n30 --- n34
+  n35["`Ba chương đã đăng riêng trên The New York Times, The American Scholar, The New Leader`"]
+  n30 --- n35
+  n36["`Đánh giá — Điểm mạnh và giới hạn của cách làm`"]
+  n0 --- n36
+  n37["`Không nêu tên cho phép phê phán phiên bản yếu hơn, người đọc không kiểm tra được sự công bằng`"]
+  n36 --- n37
+  n38["`Câu về dài hạn chúng ta đều chết của Keynes bị dùng theo nghĩa khác ngữ cảnh gốc`"]
+  n37 --- n38
+  n39["`Bỏ thống kê giúp sách sống lâu, nhưng logic chỉ cho chiều tác động, không cho độ lớn`"]
+  n36 --- n39
+  n40["`Ở chủ đề như lương tối thiểu, số liệu cho kết quả phức tạp hơn logic đơn giản dự đoán`"]
+  n39 --- n40
+  n41["`Đóng góp bền nhất: áp một khung duy nhất vào hơn hai mươi chính sách cụ thể`"]
+  n36 --- n41
+  n42["`Thông điệp xuyên suốt`"]
+  n0 --- n42
+  n43["`Trước mỗi chính sách, hỏi ai trả tiền và cái gì đã không xảy ra vì khoản tiền đó`"]
+  n42 --- n43
+  n44["`Đánh giá ý tưởng theo việc đã tính hết hệ quả chưa, không theo nhãn mới hay cổ điển`"]
+  n42 --- n44
+  n45["`Nắm nguyên lý trước rồi mới đọc con số#59; con số không kèm nguyên lý chứng minh được bất cứ điều gì`"]
+  n42 --- n45
+  n46["`Trước đề xuất đột phá, tìm phiên bản cũ của nó và hỏi lần trước đã kết thúc ra sao`"]
+  n42 --- n46
+  class n0 root
+  class n1,n9,n16,n24,n30,n36,n42 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n43,n44,n45,n46 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Lời nói đầu (Preface), ký "H. H., New York, ngày 25 tháng 3 năm 1946". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Lời nói đầu nói cuốn sách là gì trước khi Chương 1 phát biểu "bài học" (*the lesson*). Hazlitt nêu bốn điều:
+
+- đối tượng của sách là các ngụy biện kinh tế (*economic fallacies*) đang phổ biến đến mức thành "chính thống mới";
+- phương pháp là mổ xẻ các ngụy biện đó và truy về một lỗi trung tâm;
+- sách là sách trình bày lại (*exposition*), không tự nhận là mới, và mượn khung của Bastiat, Wicksteed, Mises;
+- sách cố ý không nêu tên người bị phê phán và hầu như không dùng thống kê.
+
+Mọi chương sau đều làm đúng cách được hứa ở đây: lấy một chính sách, chỉ ra cái thấy được và cái không thấy.
+
+## Lưu ý
+
+- Lời nói đầu viết tháng 3/1946, bảy tháng sau khi Thế chiến II kết thúc. Bối cảnh: chính phủ Mỹ vẫn kiểm soát giá và phân phối nhiều mặt hàng thời chiến (giá trần do Cơ quan Quản lý Giá, OPA, áp đặt); Luật Việc làm 1946 (*Employment Act*) vừa được thông qua, giao cho chính phủ liên bang trách nhiệm duy trì việc làm; nhiều nhà kinh tế theo Keynes, đứng đầu là Alvin Hansen, lo kinh tế Mỹ sẽ rơi lại vào suy thoái khi chi tiêu quân sự giảm và khuyến nghị chính phủ tiếp tục chi tiêu lớn.
+- Theo nhận định của người tổng hợp, "chính thống mới" mà Hazlitt nói tới chủ yếu là kinh tế học Keynes và các chính sách thời New Deal.
+- Những cái tên ông nhắc: Karl Marx (chủ nghĩa xã hội), Thorstein Veblen (kinh tế học thể chế, phê phán giới kinh doanh), "Major Douglas" (C. H. Douglas, người đề xướng thuyết "Tín dụng xã hội", cho rằng nền kinh tế luôn thiếu sức mua và nhà nước phải phát thêm tiền cho dân), Lord Keynes, Alvin Hansen (người đưa thuyết "trì trệ trường kỳ" vào Mỹ).
+- Câu "những ai không biết quá khứ thì bị buộc phải lặp lại nó" là ý của triết gia George Santayana, Hazlitt dẫn mà không nêu tên.
+- Các câu trích là bản dịch của người tổng hợp.

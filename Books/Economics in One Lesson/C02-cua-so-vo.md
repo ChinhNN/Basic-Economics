@@ -1,11 +1,16 @@
 # Chương 2 — Cửa sổ vỡ (The Broken Window)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 2 "The Broken Window". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 phát biểu "bài học" bằng lời trừu tượng và hứa sẽ minh hoạ bằng ví dụ, đi từ đơn giản nhất đến phức tạp nhất. Chương 2 là ví dụ đầu tiên và đơn giản nhất, lấy từ Bastiat: một cửa kính bị đập vỡ. Nó cho thấy cả hai vế của bài học trong một câu chuyện ngắn: đám đông chỉ nhìn tác động trước mắt (thợ kính có việc) và chỉ nhìn hai bên trong giao dịch (chủ tiệm và thợ kính), quên mất bên thứ ba (thợ may). Chương 3 sẽ phóng to cùng ngụy biện này lên quy mô chiến tranh; các chương sau (công trình công cộng, thuế, tín dụng) đều là biến thể của nó.
-**Ý chính:** Hazlitt muốn chứng minh rằng **phá huỷ không tạo ra của cải hay việc làm ròng**: việc làm thêm cho người thợ kính chỉ là việc làm bị lấy đi của người thợ may. Một cậu bé ném gạch vỡ cửa kính tiệm bánh; đám đông lập luận rằng cửa kính mới giá 50 USD sẽ cho thợ kính 50 USD để tiêu, rồi người bán hàng nhận 50 USD đó tiêu tiếp, cứ thế lan rộng mãi, nên cậu bé là "ân nhân của xã hội". Hazlitt đáp: chủ tiệm lẽ ra dùng 50 USD đó may một bộ com-lê; nay ông chỉ có cửa kính chứ không có cả cửa kính lẫn com-lê, và cộng đồng nghèo đi đúng một bộ com-lê. Đám đông không thấy người thợ may chính vì bộ com-lê sẽ không bao giờ được may. Lỗi tư duy đó được Hazlitt gọi tên ở câu mở đầu Chương 3: **ngụy biện cửa sổ vỡ** (*the broken window fallacy*); trong Chương 2 ông chưa dùng tên này.
+## Ý chính
 
-> **Lưu ý:** Ví dụ gốc là của Frédéric Bastiat trong bài luận *Ce qu'on voit et ce qu'on ne voit pas* (Cái thấy được và cái không thấy, 1850). Ở Bastiat, cửa kính bị con trai của ông chủ tiệm (James Goodfellow) làm vỡ, khoản tiền là 6 franc, và thứ bị mất là một đôi giày hoặc một cuốn sách; Hazlitt chuyển thành tiệm bánh ở Mỹ, 50 USD và bộ com-lê. 50 USD năm 1946 tương đương vài trăm USD ngày nay (ước lượng thô của người tổng hợp), khoảng giá một bộ com-lê may đo hồi đó. Phép "lan rộng mãi" mà đám đông nói tới chính là ý tưởng về **số nhân chi tiêu** (*multiplier*) trong kinh tế học Keynes đang thịnh hành năm 1946; Hazlitt không gọi tên nó trong chương này; việc coi số nhân là mục tiêu ngầm của ví dụ là cách đọc của người tổng hợp. Lập luận của Hazlitt giả định ngầm rằng chủ tiệm chắc chắn sẽ tiêu 50 USD vào việc khác (không cất giữ), và người thợ may có việc để làm nếu được đặt hàng; phần Đánh giá bàn khi nào giả định này không đứng vững. Bản gốc có một chỗ thiếu chữ: "The glazier will be no unhappy to learn of the incident than an undertaker to learn of a death" (thiếu "more" sau "no"); nghĩa là người thợ kính nghe tin cũng chẳng buồn hơn người làm dịch vụ tang lễ nghe tin có người chết. Các câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng **phá huỷ không tạo ra của cải hay việc làm ròng**: việc làm thêm cho người thợ kính chỉ là việc làm bị lấy đi của người thợ may.
+
+Một cậu bé ném gạch vỡ cửa kính tiệm bánh. Đám đông lập luận rằng cửa kính mới giá 50 USD sẽ cho thợ kính 50 USD để tiêu, rồi người bán hàng nhận 50 USD đó tiêu tiếp, cứ thế lan rộng mãi, nên cậu bé là "ân nhân của xã hội".
+
+Hazlitt đáp: chủ tiệm lẽ ra dùng 50 USD đó may một bộ com-lê. Nay ông chỉ có cửa kính chứ không có cả cửa kính lẫn com-lê, và cộng đồng nghèo đi đúng một bộ com-lê.
+
+Đám đông không thấy người thợ may chính vì bộ com-lê sẽ không bao giờ được may.
+
+Lỗi tư duy đó được Hazlitt gọi tên ở câu mở đầu Chương 3: **ngụy biện cửa sổ vỡ** (*the broken window fallacy*). Trong Chương 2 ông chưa dùng tên này.
 
 ## Sơ đồ
 
@@ -163,7 +168,9 @@ Lỗi của đám đông là chỉ nghĩ tới hai bên của giao dịch, ông 
 
 Chương kết thúc ở đây, không có phần bàn rộng. Hazlitt để Chương 3 làm việc đó.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Sau một trận bão, một thị trấn ven biển có 1.000 mái nhà bị tốc, mỗi mái sửa hết 20 triệu đồng, tổng 20 tỷ đồng. Báo địa phương viết: "Ngành xây dựng và vật liệu ở thị trấn sôi động sau bão, thợ hồ kín lịch, cửa hàng tôn bán hết hàng." Câu đó đúng, và là cái thấy được. Cái không thấy: 1.000 gia đình lẽ ra dùng 20 tỷ đồng đó cho con đi học thêm, mua xe máy mới, sửa sang cửa hàng hay gửi tiết kiệm; những người bán những thứ ấy mất doanh thu, nhưng không ai viết bài về họ. Và thị trấn, sau khi sửa xong, chỉ có lại đúng những mái nhà nó đã có trước bão. Nếu có bảo hiểm hay cứu trợ, tiền không do các gia đình bỏ ra, nhưng vẫn do ai đó bỏ ra (người mua bảo hiểm khác, người nộp thuế, nhà hảo tâm), và những người đó cũng có những bộ com-lê không được may.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Sau một trận bão, một thị trấn ven biển có 1.000 mái nhà bị tốc, mỗi mái sửa hết 20 triệu đồng, tổng 20 tỷ đồng. Báo địa phương viết: "Ngành xây dựng và vật liệu ở thị trấn sôi động sau bão, thợ hồ kín lịch, cửa hàng tôn bán hết hàng." Câu đó đúng, và là cái thấy được.
+
+Cái không thấy: 1.000 gia đình lẽ ra dùng 20 tỷ đồng đó cho con đi học thêm, mua xe máy mới, sửa sang cửa hàng hay gửi tiết kiệm; những người bán những thứ ấy mất doanh thu, nhưng không ai viết bài về họ. Và thị trấn, sau khi sửa xong, chỉ có lại đúng những mái nhà nó đã có trước bão. Nếu có bảo hiểm hay cứu trợ, tiền không do các gia đình bỏ ra, nhưng vẫn do ai đó bỏ ra (người mua bảo hiểm khác, người nộp thuế, nhà hảo tâm), và những người đó cũng có những bộ com-lê không được may.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -242,11 +249,15 @@ Chương này chứa hai khẳng định khác nhau, và nên tách ra.
 
 Khẳng định thứ nhất, **cộng đồng nghèo đi một bộ com-lê**, đúng trong mọi điều kiện. Dù nền kinh tế đang bùng nổ hay suy thoái, việc phá một cửa kính rồi làm lại nó không tạo thêm của cải; xã hội chỉ trở lại đúng điểm cũ, sau khi đã tốn công sức. Không nhà kinh tế nghiêm túc nào phản đối điều này.
 
-Khẳng định thứ hai, **không có việc làm ròng nào được tạo ra**, dựa vào giả định rằng chủ tiệm chắc chắn sẽ tiêu 50 USD vào bộ com-lê. Nếu chủ tiệm lẽ ra cất 50 USD dưới gối vì lo ngại kinh tế, và thợ may đang ngồi không vì không có khách, thì việc buộc chủ tiệm chi tiền có thể thật sự tạo thêm thu nhập cho thợ kính mà không lấy đi của thợ may. Đây là lập luận Keynes đưa ra cho thời kỳ suy thoái. Nhưng ngay cả trong trường hợp đó, lập luận của Hazlitt vẫn có một phần đúng: nếu muốn kích cầu, chi 50 USD vào thứ gì có ích (sửa trường học) vẫn tốt hơn chi vào việc sửa thứ vừa bị phá. Chính Keynes cũng nói đào hố rồi lấp lại "tốt hơn là không làm gì", nhưng xây nhà thì "hợp lý hơn". Tức là trong suy thoái, câu hỏi đúng không phải "phá huỷ có lợi không" (không bao giờ), mà là "chi tiêu thêm có lợi không" (có thể).
+Khẳng định thứ hai, **không có việc làm ròng nào được tạo ra**, dựa vào giả định rằng chủ tiệm chắc chắn sẽ tiêu 50 USD vào bộ com-lê. Nếu chủ tiệm lẽ ra cất 50 USD dưới gối vì lo ngại kinh tế, và thợ may đang ngồi không vì không có khách, thì việc buộc chủ tiệm chi tiền có thể thật sự tạo thêm thu nhập cho thợ kính mà không lấy đi của thợ may. Đây là lập luận Keynes đưa ra cho thời kỳ suy thoái.
+
+Nhưng ngay cả trong trường hợp đó, lập luận của Hazlitt vẫn có một phần đúng: nếu muốn kích cầu, chi 50 USD vào thứ gì có ích (sửa trường học) vẫn tốt hơn chi vào việc sửa thứ vừa bị phá. Chính Keynes cũng nói đào hố rồi lấp lại "tốt hơn là không làm gì", nhưng xây nhà thì "hợp lý hơn". Tức là trong suy thoái, câu hỏi đúng không phải "phá huỷ có lợi không" (không bao giờ), mà là "chi tiêu thêm có lợi không" (có thể).
 
 ### GDP có thể tăng sau thảm hoạ, và đây là lý do không nên dùng GDP để đo thiệt hại
 
-Một hệ quả thực tế của chương: sau động đất, bão lũ hay hoả hoạn lớn, số liệu tăng trưởng GDP của vùng bị ảnh hưởng đôi khi tăng trong vài quý, vì hoạt động tái thiết được tính vào GDP còn tài sản bị phá thì không bị trừ ra. Báo chí đôi khi đọc số liệu này như "tai hoạ kích thích kinh tế". Đây là ngụy biện cửa sổ vỡ ở dạng thống kê. Các nghiên cứu về thiên tai nhìn chung thấy tác động dài hạn lên thu nhập là tiêu cực, đặc biệt với những thảm hoạ lớn; có một số tranh luận về việc tái thiết có thể thay máy móc cũ bằng máy móc mới hiện đại hơn, nhưng lợi ích đó, nếu có, đến từ việc đầu tư mới, không đến từ việc phá huỷ (doanh nghiệp có thể tự thay máy cũ mà không cần thảm hoạ).
+Một hệ quả thực tế của chương: sau động đất, bão lũ hay hoả hoạn lớn, số liệu tăng trưởng GDP của vùng bị ảnh hưởng đôi khi tăng trong vài quý, vì hoạt động tái thiết được tính vào GDP còn tài sản bị phá thì không bị trừ ra. Báo chí đôi khi đọc số liệu này như "tai hoạ kích thích kinh tế". Đây là ngụy biện cửa sổ vỡ ở dạng thống kê.
+
+Các nghiên cứu về thiên tai nhìn chung thấy tác động dài hạn lên thu nhập là tiêu cực, đặc biệt với những thảm hoạ lớn; có một số tranh luận về việc tái thiết có thể thay máy móc cũ bằng máy móc mới hiện đại hơn, nhưng lợi ích đó, nếu có, đến từ việc đầu tư mới, không đến từ việc phá huỷ (doanh nghiệp có thể tự thay máy cũ mà không cần thảm hoạ).
 
 ### Sức mạnh của ví dụ nằm ở chỗ nó làm "cái không thấy" hiện ra thành một vật cụ thể
 
@@ -262,3 +273,134 @@ Trong câu chuyện, chủ tiệm tự trả. Trong thực tế, chi phí tái t
 - **Trong đầu tư.** Khi đọc nhận định "tái thiết sau thiên tai sẽ có lợi cho cổ phiếu xây dựng, vật liệu", điều đó có thể đúng với vài ngành (thợ kính), nhưng là bằng tiền lấy từ ngành khác (thợ may: bán lẻ, du lịch, hàng tiêu dùng không thiết yếu ở cùng vùng). Một danh mục đầu tư đặt cược vào thợ kính nên hiểu rằng người thợ may cũng là một mã cổ phiếu.
 - **Trong nghề nghiệp.** Những công việc sống bằng việc sửa lỗi lặp đi lặp lại có thể rất bận, nhưng giá trị của chúng phụ thuộc vào việc lỗi tiếp tục xảy ra; một cải tiến quy trình loại bỏ lỗi là tin xấu cho người sửa nhưng tốt cho tổ chức. Người làm nghề nên tự hỏi giá trị mình tạo ra là "lắp cửa kính" hay "may bộ com-lê".
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi một dự án sửa chữa, cải tạo, thay mới (vỉa hè, biển hiệu, trụ sở) được trình bày là "tạo việc làm, kích cầu", câu hỏi đúng là: số tiền này lẽ ra làm được gì khác, và thứ được thay đã thật sự hỏng chưa. Nếu thứ cũ còn tốt, thì việc thay mới gần với cửa kính vỡ hơn là với đầu tư.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn, ba nhánh đầu đi theo các mục 1–5 của phần Nội dung chi tiết (lập luận của đám đông, người thợ may và bộ com-lê, vì sao đám đông sai), tiếp theo là khái niệm và luận điểm cốt lõi, rồi phần Đánh giá về điều kiện để kết luận của Hazlitt đứng vững, mỗi nhánh ghi lập luận, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: phá huỷ không tạo ra của cải hay việc làm ròng, việc của thợ kính là việc bị mất của thợ may`"]
+  n1["`Mục 1–2 — Lập luận của đám đông: chỉ nhìn cái thấy được`"]
+  n0 --- n1
+  n2["`Hazlitt mở Phần Hai bằng ví dụ đơn giản nhất, mượn từ Bastiat (1850): một tấm kính vỡ`"]
+  n1 --- n2
+  n3["`Ở Bastiat là 6 franc và đôi giày hoặc cuốn sách, Hazlitt đổi thành tiệm bánh, 50 USD và bộ com-lê`"]
+  n2 --- n3
+  n4["`Cậu bé côn đồ ném gạch vỡ cửa kính tiệm bánh rồi chạy mất, đám đông tụ lại xem`"]
+  n1 --- n4
+  n5["`Đám đông: chuyện xui có mặt tốt, tạo việc cho thợ kính, cửa kính mới giá 50 USD`"]
+  n1 --- n5
+  n6["`Thợ kính tiêu 50 USD với người bán hàng khác, họ lại tiêu tiếp, cứ thế mãi mãi`"]
+  n1 --- n6
+  n7["`Theo người tổng hợp, #quot;lan rộng mãi#quot; là phiên bản thô của số nhân chi tiêu Keynes`"]
+  n6 --- n7
+  n8["`Kết luận logic của đám đông: cậu bé ném gạch là ân nhân của xã hội, không phải mối nguy`"]
+  n1 --- n8
+  n9["`Mục 3–4 — Nhìn lại: người thợ may và bộ com-lê`"]
+  n0 --- n9
+  n10["`Đám đông đúng ở bước đầu: phá hoại trước hết tạo thêm việc cho thợ kính`"]
+  n9 --- n10
+  n11["`Thợ kính nghe tin chẳng buồn, như người làm dịch vụ tang lễ nghe tin có người chết`"]
+  n10 --- n11
+  n12["`Chủ tiệm mất 50 USD đang định dùng may một bộ com-lê mới, phải nhịn bộ com-lê`"]
+  n9 --- n12
+  n13["`Kính không vỡ: chủ tiệm có cửa kính và com-lê. Kính vỡ: chỉ có cửa kính`"]
+  n9 --- n13
+  n14["`Tổng chi tiêu 50 USD và một đơn hàng 50 USD như nhau ở cả hai kịch bản`"]
+  n9 --- n14
+  n15["`Vòng lan toả của đám đông áp dụng y hệt cho 50 USD thợ may lẽ ra nhận`"]
+  n14 --- n15
+  n16["`Khác biệt duy nhất là của cải: cộng đồng nghèo đi đúng một bộ com-lê`"]
+  n9 --- n16
+  n17["`Mục 5 — Vì sao đám đông sai: cái không thấy`"]
+  n0 --- n17
+  n18["`Việc làm thợ kính có thêm chỉ là việc làm thợ may bị mất, không có #quot;việc làm#quot; mới`"]
+  n17 --- n18
+  n19["`Đám đông chỉ nghĩ tới hai bên giao dịch: chủ tiệm bánh và thợ kính`"]
+  n17 --- n19
+  n20["`Họ quên bên thứ ba, người thợ may, chính vì ông sẽ không xuất hiện`"]
+  n17 --- n20
+  n21["`Cửa kính mới sẽ thấy trong một, hai ngày, bộ com-lê không bao giờ thấy vì không được may`"]
+  n17 --- n21
+  n22["`Ví dụ hôm nay: bão tốc 1.000 mái nhà, sửa hết 20 tỷ đồng, thợ hồ kín lịch, tôn bán hết`"]
+  n17 --- n22
+  n23["`20 tỷ lẽ ra cho con học thêm, mua xe máy, gửi tiết kiệm, thị trấn chỉ có lại mái nhà cũ`"]
+  n22 --- n23
+  n24["`Bảo hiểm hay cứu trợ trả thì người mua bảo hiểm, người nộp thuế mất bộ com-lê của họ`"]
+  n22 --- n24
+  n25["`Khái niệm và luận điểm kinh tế cốt lõi`"]
+  n0 --- n25
+  n26["`Chi phí cơ hội: bộ com-lê là chi phí cơ hội của cửa kính mới`"]
+  n25 --- n26
+  n27["`Của cải khác chi tiêu: đám đông đếm dòng tiền, Hazlitt đếm cửa kính và com-lê`"]
+  n25 --- n27
+  n28["`Việc làm ròng: thợ kính +50 USD, thợ may −50 USD, ròng bằng 0`"]
+  n25 --- n28
+  n29["`Giả định: chủ tiệm chắc chắn tiêu 50 USD, không cất giữ, thợ may có năng lực may`"]
+  n25 --- n29
+  n30["`Hàm ý: mọi lập luận phá huỷ tạo việc làm phải hỏi tiền này lẽ ra được tiêu vào đâu`"]
+  n25 --- n30
+  n31["`Nền cho phê phán chiến tranh (Chương 3), công trình công cộng (Chương 4), thuế (Chương 5)`"]
+  n25 --- n31
+  n32["`Đánh giá — Khi nào kết luận của Hazlitt đứng vững`"]
+  n0 --- n32
+  n33["`Cộng đồng nghèo đi một bộ com-lê là đúng trong mọi điều kiện, bùng nổ hay suy thoái`"]
+  n32 --- n33
+  n34["`Không có việc làm ròng cần giả định chủ tiệm không cất tiền và thợ may không ngồi không`"]
+  n32 --- n34
+  n35["`Trong suy thoái, phá huỷ không bao giờ có lợi, chi tiêu thêm có thể có lợi`"]
+  n34 --- n35
+  n36["`Keynes: đào hố rồi lấp tốt hơn không làm gì, nhưng xây nhà hợp lý hơn`"]
+  n34 --- n36
+  n37["`GDP có thể tăng sau thảm hoạ vì tái thiết được tính, tài sản bị phá không bị trừ`"]
+  n32 --- n37
+  n38["`Lợi ích thay máy mới sau tái thiết đến từ đầu tư mới, không đến từ phá huỷ`"]
+  n37 --- n38
+  n39["`Khi bảo hiểm, ngân sách, viện trợ trả, bên thứ ba phân tán khắp xã hội nên càng khó thấy`"]
+  n32 --- n39
+  n40["`Thông điệp xuyên suốt`"]
+  n0 --- n40
+  n41["`Luôn đi tìm cái không thấy: hệ quả với mọi nhóm, không chỉ hai bên trước mắt`"]
+  n40 --- n41
+  n42["`Đặt tên cụ thể cho cái không thấy: không phải chi phí cơ hội mà là 200 phòng học lẽ ra được sửa`"]
+  n40 --- n42
+  n43["`Doanh nghiệp tính doanh thu từ sửa lỗi do chính mình gây ra là đang tự đếm cửa kính vỡ`"]
+  n40 --- n43
+  n44["`Đầu tư: cược vào thợ kính sau thiên tai thì người thợ may cũng là một mã cổ phiếu`"]
+  n40 --- n44
+  n45["`Dự án thay vỉa hè, biển hiệu được trình bày là kích cầu: hỏi thứ cũ đã thật sự hỏng chưa`"]
+  n40 --- n45
+  class n0 root
+  class n1,n9,n17,n25,n32,n40 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 2 "The Broken Window". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 phát biểu "bài học" bằng lời trừu tượng và hứa sẽ minh hoạ bằng ví dụ, đi từ đơn giản nhất đến phức tạp nhất.
+
+Chương 2 là ví dụ đầu tiên và đơn giản nhất, lấy từ Bastiat: một cửa kính bị đập vỡ. Nó cho thấy cả hai vế của bài học trong một câu chuyện ngắn: đám đông chỉ nhìn tác động trước mắt (thợ kính có việc) và chỉ nhìn hai bên trong giao dịch (chủ tiệm và thợ kính), quên mất bên thứ ba (thợ may).
+
+Chương 3 sẽ phóng to cùng ngụy biện này lên quy mô chiến tranh; các chương sau (công trình công cộng, thuế, tín dụng) đều là biến thể của nó.
+
+## Lưu ý
+
+- Ví dụ gốc là của Frédéric Bastiat trong bài luận *Ce qu'on voit et ce qu'on ne voit pas* (Cái thấy được và cái không thấy, 1850). Ở Bastiat, cửa kính bị con trai của ông chủ tiệm (James Goodfellow) làm vỡ, khoản tiền là 6 franc, và thứ bị mất là một đôi giày hoặc một cuốn sách; Hazlitt chuyển thành tiệm bánh ở Mỹ, 50 USD và bộ com-lê.
+- 50 USD năm 1946 tương đương vài trăm USD ngày nay (ước lượng thô của người tổng hợp), khoảng giá một bộ com-lê may đo hồi đó.
+- Phép "lan rộng mãi" mà đám đông nói tới chính là ý tưởng về **số nhân chi tiêu** (*multiplier*) trong kinh tế học Keynes đang thịnh hành năm 1946; Hazlitt không gọi tên nó trong chương này; việc coi số nhân là mục tiêu ngầm của ví dụ là cách đọc của người tổng hợp.
+- Lập luận của Hazlitt giả định ngầm rằng chủ tiệm chắc chắn sẽ tiêu 50 USD vào việc khác (không cất giữ), và người thợ may có việc để làm nếu được đặt hàng; phần Đánh giá bàn khi nào giả định này không đứng vững.
+- Bản gốc có một chỗ thiếu chữ: "The glazier will be no unhappy to learn of the incident than an undertaker to learn of a death" (thiếu "more" sau "no"); nghĩa là người thợ kính nghe tin cũng chẳng buồn hơn người làm dịch vụ tang lễ nghe tin có người chết.
+- Các câu trích là bản dịch của người tổng hợp.

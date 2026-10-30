@@ -1,11 +1,16 @@
 # Chương 1 — Bài học (The Lesson)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Một "The Lesson", Chương 1 "The Lesson". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương duy nhất của Phần Một và là nền móng của cả sách. Lời nói đầu hứa sẽ truy mọi ngụy biện kinh tế về "một lỗi trung tâm"; Chương 1 gọi tên lỗi đó và phát biểu "bài học" (*the lesson*) để sửa nó. Hai mươi hai chương của Phần Hai ("The Lesson Applied", bắt đầu từ Chương 2 "Cửa sổ vỡ") đều là áp dụng bài học này vào từng chính sách: công trình công cộng, thuế, tín dụng, máy móc, thuế quan, giá ngang giá (parity), ấn định giá, lương tối thiểu, công đoàn, lạm phát, tiết kiệm. Chương 24 ("The Lesson Restated") sẽ phát biểu lại bài học sau khi đã đi hết các ví dụ.
-**Ý chính:** Hazlitt muốn chứng minh rằng toàn bộ kinh tế học có thể thu về **một bài học**, và bài học đó thu về **một câu**: *nghệ thuật kinh tế học là nhìn không chỉ vào tác động trước mắt mà cả tác động lâu dài hơn của mọi hành động hay chính sách; là lần theo hệ quả của chính sách đó không chỉ cho một nhóm mà cho mọi nhóm.* Ông giải thích vì sao kinh tế học đầy ngụy biện hơn mọi ngành khác (hai nguyên nhân: sự biện hộ của các nhóm lợi ích đặc biệt và thói quen chỉ nhìn hệ quả trước mắt), minh hoạ bằng những ví dụ đời thường (đứa trẻ ăn kẹo, người say rượu, kẻ tiêu hoang), khẳng định chín phần mười ngụy biện kinh tế xuất phát từ việc bỏ qua bài học này, thừa nhận lỗi ngược lại (chỉ nhìn dài hạn, bỏ mặc nhóm bị thiệt) nhưng cho rằng lỗi đó hiếm, và giải thích vì sao kẻ mị dân thường thắng trong tranh luận: họ nói nửa sự thật, còn nửa kia đòi một chuỗi suy luận dài và chán.
+## Ý chính
 
-> **Lưu ý:** "Kinh tế học 'mới'" (*the "new" economics*) mà Hazlitt nhắm tới là kinh tế học Keynes (*Lý thuyết tổng quát về việc làm, lãi suất và tiền tệ*, 1936) và những người theo nó ở Mỹ, như Alvin Hansen. Năm 1946 họ chủ trương chính phủ chi tiêu (kể cả vay nợ) để duy trì toàn dụng lao động, và cho rằng tiết kiệm quá nhiều có thể gây suy thoái (cái gọi là "nghịch lý tiết kiệm"). "Những người được coi là nhà kinh tế xuất sắc, coi nhẹ tiết kiệm và khuyên tiêu xài hoang phí trên quy mô quốc gia" là ám chỉ nhóm này. Câu "Về dài hạn, tất cả chúng ta đều chết" (*In the long run we are all dead*) là của Keynes, nhưng trong ngữ cảnh gốc (*A Tract on Monetary Reform*, 1923) Keynes không bàn về tiết kiệm hay chi tiêu; ông chê những nhà kinh tế chỉ nói giá cả *rồi sẽ* tự điều chỉnh về dài hạn mà không giúp gì được trong cơn bão trước mắt. Tức là Keynes đang phê phán đúng cái lỗi mà Hazlitt gọi là "lỗi ngược lại" ở mục 2 của chương này. "Chủ nghĩa trọng thương thế kỷ 17" là học thuyết coi xuất siêu và tích trữ vàng là nguồn giàu có, chủ trương bảo hộ; chính Keynes trong *Lý thuyết tổng quát* có một chương tỏ ý thông cảm với phái trọng thương. Chương gốc chia làm ba mục đánh số 1, 2, 3; bản tổng hợp giữ cách chia đó. Các câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng toàn bộ kinh tế học có thể thu về **một bài học**, và bài học đó thu về **một câu**: *nghệ thuật kinh tế học là nhìn không chỉ vào tác động trước mắt mà cả tác động lâu dài hơn của mọi hành động hay chính sách; là lần theo hệ quả của chính sách đó không chỉ cho một nhóm mà cho mọi nhóm.*
+
+Ông:
+
+- giải thích vì sao kinh tế học đầy ngụy biện hơn mọi ngành khác (hai nguyên nhân: sự biện hộ của các nhóm lợi ích đặc biệt và thói quen chỉ nhìn hệ quả trước mắt),
+- minh hoạ bằng những ví dụ đời thường (đứa trẻ ăn kẹo, người say rượu, kẻ tiêu hoang),
+- khẳng định chín phần mười ngụy biện kinh tế xuất phát từ việc bỏ qua bài học này,
+- thừa nhận lỗi ngược lại (chỉ nhìn dài hạn, bỏ mặc nhóm bị thiệt) nhưng cho rằng lỗi đó hiếm,
+- và giải thích vì sao kẻ mị dân thường thắng trong tranh luận: họ nói nửa sự thật, còn nửa kia đòi một chuỗi suy luận dài và chán.
 
 ## Sơ đồ
 
@@ -226,7 +231,9 @@
 
 Hazlitt mở đầu: kinh tế học bị ám bởi nhiều ngụy biện hơn bất kỳ ngành học nào mà con người biết. Ông nói đó không phải tình cờ. Bản thân môn học đã khó, nhưng cái khó bị nhân lên hàng nghìn lần bởi một yếu tố gần như không đáng kể trong vật lý, toán học hay y học: **sự biện hộ của các lợi ích ích kỷ**.
 
-Lập luận của ông như sau. Mỗi nhóm trong xã hội có một số lợi ích kinh tế giống với lợi ích của mọi nhóm khác, nhưng cũng có những lợi ích đối nghịch với mọi nhóm khác. Tương ứng, có những chính sách công về dài hạn có lợi cho mọi người, và có những chính sách chỉ có lợi cho một nhóm bằng cách gây thiệt cho mọi nhóm khác. Nhóm được lợi từ loại chính sách thứ hai có lợi ích trực tiếp nên sẽ biện hộ cho nó một cách thuyết phục và dai dẳng. Nhóm đó sẽ thuê "những bộ óc giỏi nhất có thể mua được" làm việc toàn thời gian để trình bày lý lẽ của mình. Cuối cùng, hoặc nó thuyết phục được công chúng rằng lý lẽ ấy đúng, hoặc làm công chúng rối trí đến mức gần như không ai còn suy nghĩ rõ ràng được về vấn đề nữa.
+Lập luận của ông như sau. Mỗi nhóm trong xã hội có một số lợi ích kinh tế giống với lợi ích của mọi nhóm khác, nhưng cũng có những lợi ích đối nghịch với mọi nhóm khác. Tương ứng, có những chính sách công về dài hạn có lợi cho mọi người, và có những chính sách chỉ có lợi cho một nhóm bằng cách gây thiệt cho mọi nhóm khác.
+
+Nhóm được lợi từ loại chính sách thứ hai có lợi ích trực tiếp nên sẽ biện hộ cho nó một cách thuyết phục và dai dẳng. Nhóm đó sẽ thuê "những bộ óc giỏi nhất có thể mua được" làm việc toàn thời gian để trình bày lý lẽ của mình. Cuối cùng, hoặc nó thuyết phục được công chúng rằng lý lẽ ấy đúng, hoặc làm công chúng rối trí đến mức gần như không ai còn suy nghĩ rõ ràng được về vấn đề nữa.
 
 Nguyên nhân thứ hai, sinh ra ngụy biện kinh tế mới mỗi ngày, là xu hướng dai dẳng của con người chỉ nhìn tác động trước mắt của một chính sách, hoặc chỉ nhìn tác động lên một nhóm đặc biệt, và không chịu hỏi tác động dài hạn của chính sách đó sẽ là gì, không chỉ với nhóm đặc biệt ấy mà với mọi nhóm. Hazlitt gọi đây là **ngụy biện bỏ qua hệ quả thứ cấp**.
 
@@ -289,7 +296,9 @@ Nhận xét của người tổng hợp: đây là một nhượng bộ đáng g
 
 Nhưng, Hazlitt viết, tương đối ít người ngày nay mắc lỗi ngược lại, và số ít đó chủ yếu là nhà kinh tế chuyên nghiệp. Ngụy biện phổ biến nhất hiện nay, xuất hiện trong gần như mọi cuộc nói chuyện chạm tới kinh tế, lỗi của hàng nghìn bài diễn văn chính trị, ngụy biện trung tâm của "kinh tế học mới", là **tập trung vào tác động ngắn hạn của chính sách lên các nhóm đặc biệt, và bỏ qua hoặc coi nhẹ tác động dài hạn lên cả cộng đồng**.
 
-Các "nhà kinh tế mới" tự hào rằng đây là một bước tiến lớn, gần như cách mạng, so với phương pháp của các nhà kinh tế "cổ điển" hay "chính thống", vì họ tính tới những tác động ngắn hạn mà phái cổ điển thường bỏ qua. Nhưng chính họ, khi bỏ qua hoặc xem nhẹ tác động dài hạn, đang mắc một lỗi nghiêm trọng hơn nhiều. Hazlitt viết họ "bỏ quên khu rừng khi xem xét tỉ mỉ và chính xác từng cái cây". Phương pháp và kết luận của họ thường "phản động sâu sắc", theo nghĩa quay về những ý tưởng cũ: đôi khi họ ngạc nhiên thấy mình đồng ý với chủ nghĩa trọng thương thế kỷ 17. Thực ra họ rơi vào mọi sai lầm cổ xưa mà ta từng hy vọng phái cổ điển đã dẹp bỏ một lần cho mãi mãi, hoặc sẽ rơi vào nếu họ không thiếu nhất quán đến thế.
+Các "nhà kinh tế mới" tự hào rằng đây là một bước tiến lớn, gần như cách mạng, so với phương pháp của các nhà kinh tế "cổ điển" hay "chính thống", vì họ tính tới những tác động ngắn hạn mà phái cổ điển thường bỏ qua. Nhưng chính họ, khi bỏ qua hoặc xem nhẹ tác động dài hạn, đang mắc một lỗi nghiêm trọng hơn nhiều.
+
+Hazlitt viết họ "bỏ quên khu rừng khi xem xét tỉ mỉ và chính xác từng cái cây". Phương pháp và kết luận của họ thường "phản động sâu sắc", theo nghĩa quay về những ý tưởng cũ: đôi khi họ ngạc nhiên thấy mình đồng ý với chủ nghĩa trọng thương thế kỷ 17. Thực ra họ rơi vào mọi sai lầm cổ xưa mà ta từng hy vọng phái cổ điển đã dẹp bỏ một lần cho mãi mãi, hoặc sẽ rơi vào nếu họ không thiếu nhất quán đến thế.
 
 Bảng so sánh ba lập trường trong mục này (do người tổng hợp lập từ lời Hazlitt):
 
@@ -408,19 +417,27 @@ Gần như mọi ngụy biện kinh tế (chín phần mười) bắt nguồn t�
 
 ### Bài học là một phương pháp, không phải một kết luận, và áp dụng đúng thì nó không phải lúc nào cũng nghiêng về phía thị trường tự do
 
-Câu bài học của Hazlitt không chứa chữ "thị trường" hay "nhà nước". Nó chỉ yêu cầu tính hết hệ quả. Đây là điểm mạnh lớn nhất: ai cũng có thể đồng ý với phương pháp này, kể cả người không đồng ý với kết luận của Hazlitt. Nhưng chính vì là phương pháp, nó có thể dẫn tới kết luận khác với kết luận Hazlitt rút ra ở các chương sau. Ví dụ: một nhà máy xả thải ra sông có lợi trước mắt cho chủ nhà máy và người mua hàng rẻ; hệ quả cho "mọi nhóm" gồm ngư dân và cư dân hạ lưu. Áp dụng đúng bài học thì có lý do để nhà nước can thiệp (thuế ô nhiễm, quy chuẩn xả thải). Hazlitt hầu như không bàn loại trường hợp này trong sách; người đọc nên nhớ rằng bài học là công cụ trung lập, và chính Hazlitt đôi khi chỉ dùng nó theo một chiều: tìm hệ quả không thấy của can thiệp, ít khi tìm hệ quả không thấy của việc không can thiệp.
+Câu bài học của Hazlitt không chứa chữ "thị trường" hay "nhà nước". Nó chỉ yêu cầu tính hết hệ quả. Đây là điểm mạnh lớn nhất: ai cũng có thể đồng ý với phương pháp này, kể cả người không đồng ý với kết luận của Hazlitt. Nhưng chính vì là phương pháp, nó có thể dẫn tới kết luận khác với kết luận Hazlitt rút ra ở các chương sau.
+
+Ví dụ: một nhà máy xả thải ra sông có lợi trước mắt cho chủ nhà máy và người mua hàng rẻ; hệ quả cho "mọi nhóm" gồm ngư dân và cư dân hạ lưu. Áp dụng đúng bài học thì có lý do để nhà nước can thiệp (thuế ô nhiễm, quy chuẩn xả thải). Hazlitt hầu như không bàn loại trường hợp này trong sách; người đọc nên nhớ rằng bài học là công cụ trung lập, và chính Hazlitt đôi khi chỉ dùng nó theo một chiều: tìm hệ quả không thấy của can thiệp, ít khi tìm hệ quả không thấy của việc không can thiệp.
 
 ### Câu "về dài hạn, tất cả chúng ta đều chết" bị dùng lệch khỏi ngữ cảnh gốc
 
-Keynes viết câu này năm 1923 để chê những nhà kinh tế chỉ nói rằng giá cả và tiền tệ "về dài hạn" sẽ trở lại cân bằng, trong khi người dân đang chịu khổ trong cơn bão trước mắt. Ông muốn nói: lý thuyết chỉ đúng ở dài hạn thì vô ích nếu cái dài hạn ấy quá xa. Tức là Keynes đang phê phán đúng điều Hazlitt gọi là "lỗi ngược lại" của phái cổ điển ở mục 2. Hazlitt trình bày câu này như lời đùa của đứa con hoang phí, điều không công bằng với Keynes. Tuy vậy, phản biện của Hazlitt vẫn có giá trị riêng: chính sách được biện minh bằng câu ấy để lại hệ quả cho thế hệ sau, và người sống hôm nay đang chịu hệ quả của những chính sách mà hôm qua người ta bảo đừng bận tâm tới tương lai. Hai người thực ra đều đúng một nửa, và bài học của chính Hazlitt (nhìn cả ngắn hạn lẫn dài hạn) đòi hỏi tính cả hai.
+Keynes viết câu này năm 1923 để chê những nhà kinh tế chỉ nói rằng giá cả và tiền tệ "về dài hạn" sẽ trở lại cân bằng, trong khi người dân đang chịu khổ trong cơn bão trước mắt. Ông muốn nói: lý thuyết chỉ đúng ở dài hạn thì vô ích nếu cái dài hạn ấy quá xa. Tức là Keynes đang phê phán đúng điều Hazlitt gọi là "lỗi ngược lại" của phái cổ điển ở mục 2.
+
+Hazlitt trình bày câu này như lời đùa của đứa con hoang phí, điều không công bằng với Keynes. Tuy vậy, phản biện của Hazlitt vẫn có giá trị riêng: chính sách được biện minh bằng câu ấy để lại hệ quả cho thế hệ sau, và người sống hôm nay đang chịu hệ quả của những chính sách mà hôm qua người ta bảo đừng bận tâm tới tương lai. Hai người thực ra đều đúng một nửa, và bài học của chính Hazlitt (nhìn cả ngắn hạn lẫn dài hạn) đòi hỏi tính cả hai.
 
 ### Ngắn hạn và dài hạn không tách rời: ngắn hạn tồi có thể làm hỏng dài hạn
 
-Hazlitt có thừa nhận "lỗi ngược lại" (chỉ nhìn dài hạn), nhưng cả chương dồn sức nặng vào dài hạn và đối xử với ngắn hạn, dài hạn như hai thứ tách rời. Kinh tế học sau này chỉ ra rằng hai cái nối với nhau. Một cuộc suy thoái sâu và kéo dài (ngắn hạn) có thể làm người lao động mất kỹ năng, doanh nghiệp ngừng đầu tư, sinh viên ra trường không có việc; những tổn thất đó kéo dài nhiều năm. Hiện tượng này được gọi là "hiệu ứng trễ" (*hysteresis*). Nếu vậy thì bỏ mặc ngắn hạn cũng là bỏ qua hệ quả dài hạn, và đó chính là vi phạm bài học. Lập luận của Hazlitt vẫn đứng vững khi chính sách ngắn hạn tạo ra chi phí dài hạn lớn hơn (ví dụ lạm phát kéo dài), nhưng không phải mọi chính sách ổn định ngắn hạn đều như vậy.
+Hazlitt có thừa nhận "lỗi ngược lại" (chỉ nhìn dài hạn), nhưng cả chương dồn sức nặng vào dài hạn và đối xử với ngắn hạn, dài hạn như hai thứ tách rời. Kinh tế học sau này chỉ ra rằng hai cái nối với nhau. Một cuộc suy thoái sâu và kéo dài (ngắn hạn) có thể làm người lao động mất kỹ năng, doanh nghiệp ngừng đầu tư, sinh viên ra trường không có việc; những tổn thất đó kéo dài nhiều năm. Hiện tượng này được gọi là "hiệu ứng trễ" (*hysteresis*).
+
+Nếu vậy thì bỏ mặc ngắn hạn cũng là bỏ qua hệ quả dài hạn, và đó chính là vi phạm bài học. Lập luận của Hazlitt vẫn đứng vững khi chính sách ngắn hạn tạo ra chi phí dài hạn lớn hơn (ví dụ lạm phát kéo dài), nhưng không phải mọi chính sách ổn định ngắn hạn đều như vậy.
 
 ### Nguyên nhân thứ nhất (nhóm lợi ích) là phát hiện có sức sống lâu nhất của chương
 
-Ý rằng nhóm được lợi tập trung sẽ thắng trong chính trị trước nhóm chịu thiệt phân tán, được Hazlitt nêu năm 1946 bằng lời thường, đã trở thành một trong những ý tưởng vững chắc nhất của kinh tế học chính trị sau này (Olson, 1965; trường phái lựa chọn công). Nó giải thích vì sao thuế quan, trợ cấp ngành, giấy phép hành nghề hạn chế cạnh tranh tồn tại dai dẳng ở hầu hết các nước, bất kể chính phủ thiên tả hay thiên hữu. Điểm Hazlitt nói chưa đủ: ông coi vấn đề là "ngụy biện", tức lỗi nhận thức, trong khi Olson cho thấy ngay cả khi công chúng hiểu đúng, họ vẫn không có động cơ tổ chức phản đối vì thiệt hại mỗi người quá nhỏ. Tức là giáo dục kinh tế (mục tiêu của cuốn sách) cần nhưng không đủ; còn cần thể chế làm chi phí phân tán hiện ra (ví dụ yêu cầu công bố đánh giá tác động chính sách).
+Ý rằng nhóm được lợi tập trung sẽ thắng trong chính trị trước nhóm chịu thiệt phân tán, được Hazlitt nêu năm 1946 bằng lời thường, đã trở thành một trong những ý tưởng vững chắc nhất của kinh tế học chính trị sau này (Olson, 1965; trường phái lựa chọn công). Nó giải thích vì sao thuế quan, trợ cấp ngành, giấy phép hành nghề hạn chế cạnh tranh tồn tại dai dẳng ở hầu hết các nước, bất kể chính phủ thiên tả hay thiên hữu.
+
+Điểm Hazlitt nói chưa đủ: ông coi vấn đề là "ngụy biện", tức lỗi nhận thức, trong khi Olson cho thấy ngay cả khi công chúng hiểu đúng, họ vẫn không có động cơ tổ chức phản đối vì thiệt hại mỗi người quá nhỏ. Tức là giáo dục kinh tế (mục tiêu của cuốn sách) cần nhưng không đủ; còn cần thể chế làm chi phí phân tán hiện ra (ví dụ yêu cầu công bố đánh giá tác động chính sách).
 
 ### Chương này không có bằng chứng thực nghiệm, và "chín phần mười" là một tu từ
 
@@ -438,3 +455,141 @@ Bài học của Hazlitt dùng được hằng ngày, không chỉ cho chính s�
 - **Trong đầu tư.** Khi một ngành được hỗ trợ (giảm thuế, bảo hộ, ưu đãi tín dụng), câu hỏi đầu tiên là ngành nào trả tiền cho sự hỗ trợ đó: ngành dùng sản phẩm của ngành được bảo hộ, người tiêu dùng, hay ngân sách tức người nộp thuế. Câu hỏi thứ hai: hỗ trợ kéo dài bao lâu, và khi nó hết thì doanh nghiệp được hưởng có tự đứng được không. Một doanh nghiệp có lợi nhuận phụ thuộc vào chính sách là doanh nghiệp có rủi ro chính sách.
 - **Trong nghề nghiệp.** Chọn công việc lương cao trước mắt nhưng không học được gì là kiểu đứa trẻ ăn kẹo; chọn công việc lương thấp hơn nhưng tích luỹ kỹ năng là nhìn dài hạn. Bài học cũng nhắc vế ngược lại: không nên hy sinh hết ngắn hạn cho một dài hạn mơ hồ.
 - **Khi đọc tin.** Một bài báo nói "chính sách X tạo ra 10.000 việc làm" là nửa sự thật cho tới khi trả lời được: tiền cho chính sách lấy từ đâu, và số tiền đó lẽ ra tạo ra bao nhiêu việc làm ở chỗ khác. Ở Việt Nam, khi nghe về một gói hỗ trợ, một quy định cấm, hay một dự án lớn, có thể tập thói quen viết ra ba cột: ai được lợi ngay, ai trả tiền, điều gì xảy ra sau ba năm. Cột thứ hai và thứ ba thường vắng trong tin tức; đó chính là phần "không thấy" mà Hazlitt muốn người đọc tự điền.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: năm nhánh lớn đi theo các mục 1–8 trong phần Nội dung chi tiết (hai nguyên nhân khiến kinh tế học đầy ngụy biện, nhà kinh tế tồi và giỏi cùng bài học trong một câu, chín phần mười ngụy biện với lỗi ngược lại và kinh tế học mới, vì sao kẻ mị dân thắng tranh luận và kế hoạch của sách) cùng phần Đánh giá, mỗi nhánh ghi ngụy biện bị bác, lập luận về cái thấy được và cái không thấy, ví dụ của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: nhìn cả tác động lâu dài của mọi chính sách và lần theo hệ quả cho mọi nhóm, không chỉ một nhóm`"]
+  n1["`Mục 1 — Vì sao kinh tế học bị ám bởi nhiều ngụy biện nhất`"]
+  n0 --- n1
+  n2["`Môn học vốn khó, cái khó bị nhân lên hàng nghìn lần bởi sự biện hộ của các lợi ích ích kỷ`"]
+  n1 --- n2
+  n3["`Yếu tố biện hộ này gần như không đáng kể trong vật lý, toán học hay y học`"]
+  n2 --- n3
+  n4["`Có chính sách lợi cho mọi người về dài hạn, có chính sách lợi cho một nhóm bằng cách gây thiệt cho mọi nhóm khác`"]
+  n1 --- n4
+  n5["`Nhóm được lợi thuê những bộ óc giỏi nhất có thể mua được để biện hộ dai dẳng`"]
+  n4 --- n5
+  n6["`Kết cục: công chúng bị thuyết phục hoặc rối trí đến mức không ai còn nghĩ rõ ràng`"]
+  n4 --- n6
+  n7["`Nguyên nhân thứ hai: thói quen chỉ nhìn tác động trước mắt, hoặc chỉ nhìn tác động lên một nhóm`"]
+  n1 --- n7
+  n8["`Hazlitt gọi đó là ngụy biện bỏ qua hệ quả thứ cấp`"]
+  n7 --- n8
+  n9["`Nhóm lợi ích không cần nói dối, chỉ cần chỉ vào lợi ích trước mắt và dựa vào thói quen của công chúng`"]
+  n7 --- n9
+  n10["`Mục 2–4 — Nhà kinh tế tồi, nhà kinh tế giỏi và bài học trong một câu`"]
+  n0 --- n10
+  n11["`Nhà kinh tế tồi chỉ thấy cái đập vào mắt, hệ quả trực tiếp, tác động lên một nhóm`"]
+  n10 --- n11
+  n12["`Nhà kinh tế giỏi thấy cả cái nằm xa hơn, hệ quả gián tiếp, tác động lên mọi nhóm`"]
+  n10 --- n12
+  n13["`Trong đời sống cá nhân ai cũng biết: trẻ ăn nhiều kẹo thì ốm, người say rượu sáng hôm sau đau đầu`"]
+  n10 --- n13
+  n14["`Người nghiện rượu hỏng gan, kẻ tiêu hoang biết mình đang đi tới nợ nần và nghèo khó`"]
+  n13 --- n14
+  n15["`Trong kinh tế công, nhà kinh tế xuất sắc lại coi nhẹ tiết kiệm, khuyên tiêu xài hoang phí ở quy mô quốc gia`"]
+  n10 --- n15
+  n16["`Họ đáp cảnh báo dài hạn bằng câu: về dài hạn, tất cả chúng ta đều chết`"]
+  n15 --- n16
+  n17["`Hôm nay đã là ngày mai mà nhà kinh tế tồi hôm qua bảo chúng ta đừng bận tâm`"]
+  n10 --- n17
+  n18["`Hệ quả dài hạn lộ ra sau vài tháng, vài năm hay vài chục năm, nằm sẵn như gà trong trứng`"]
+  n17 --- n18
+  n19["`Bài học có hai vế: chiều thời gian (điều gì xảy ra tiếp) và chiều xã hội (ai khác bị ảnh hưởng)`"]
+  n10 --- n19
+  n20["`Mọi hành động: bài học áp dụng cả cho cá nhân và doanh nghiệp, không chỉ chính sách nhà nước`"]
+  n19 --- n20
+  n21["`Mục 5–6 — Chín phần mười ngụy biện, lỗi ngược lại và kinh tế học mới`"]
+  n0 --- n21
+  n22["`Chín phần mười ngụy biện kinh tế đến từ bỏ qua bài học, khẳng định không kèm số liệu`"]
+  n21 --- n22
+  n23["`Hai ngụy biện trung tâm: chỉ nhìn hệ quả trước mắt, chỉ nhìn hệ quả cho một nhóm`"]
+  n22 --- n23
+  n24["`Lỗi ngược lại của phái cổ điển: chỉ nhìn dài hạn, lạnh lùng với nhóm bị thiệt ngay`"]
+  n21 --- n24
+  n25["`Lỗi ngược lại hiếm, chủ yếu ở nhà kinh tế chuyên nghiệp`"]
+  n24 --- n25
+  n26["`Lỗi phổ biến nhất: tập trung tác động ngắn hạn lên nhóm đặc biệt, coi nhẹ tác động dài hạn lên cả cộng đồng`"]
+  n21 --- n26
+  n27["`Đó là ngụy biện trung tâm của kinh tế học mới, tức kinh tế học Keynes năm 1946`"]
+  n26 --- n27
+  n28["`Nhà kinh tế mới xem tỉ mỉ từng cái cây mà bỏ quên khu rừng`"]
+  n21 --- n28
+  n29["`Họ quay về ý cũ, có lúc đồng ý với chủ nghĩa trọng thương thế kỷ 17`"]
+  n28 --- n29
+  n30["`Mục 7–8 — Vì sao kẻ mị dân thắng tranh luận và kế hoạch của sách`"]
+  n0 --- n30
+  n31["`Kẻ mị dân nói nửa sự thật: tác động trước mắt hoặc lên một nhóm, trong phạm vi đó có thể đúng`"]
+  n30 --- n31
+  n32["`Câu trả lời: bổ sung và sửa nửa sự thật bằng nửa kia`"]
+  n30 --- n32
+  n33["`Nửa kia đòi chuỗi suy luận dài, phức tạp và chán nên khán giả bỏ cuộc`"]
+  n32 --- n33
+  n34["`Nhà kinh tế tồi dán nhãn chủ nghĩa cổ điển, laissez faire, biện hộ cho tư bản để khỏi tranh luận`"]
+  n30 --- n34
+  n35["`Bất đối xứng: nửa đầu ngắn và thấy được (nhà máy được cứu), nửa sau nói về việc làm không được tạo ra`"]
+  n30 --- n35
+  n36["`Không có ví dụ thì bài học không thấm, nên Phần Hai đi từ ngụy biện thô thiển tới tinh vi`"]
+  n30 --- n36
+  n37["`Phần Hai bắt đầu bằng ví dụ đơn giản nhất: cửa kính vỡ`"]
+  n36 --- n37
+  n38["`Đánh giá — Sức mạnh và giới hạn của bài học`"]
+  n0 --- n38
+  n39["`Bài học là phương pháp trung lập, áp đúng có thể biện minh can thiệp, như thuế ô nhiễm khi nhà máy xả thải ra sông`"]
+  n38 --- n39
+  n40["`Keynes viết câu về dài hạn năm 1923 để chê chính lỗi ngược lại, Hazlitt dùng lệch ngữ cảnh`"]
+  n38 --- n40
+  n41["`Hiệu ứng trễ: suy thoái ngắn hạn sâu làm mất kỹ năng và đầu tư, gây tổn thất dài hạn`"]
+  n38 --- n41
+  n42["`Olson (1965): lợi ích tập trung dễ vận động, thiệt hại phân tán thì không ai đứng ra phản đối`"]
+  n38 --- n42
+  n43["`Giáo dục kinh tế cần nhưng không đủ, còn cần thể chế làm chi phí phân tán hiện ra`"]
+  n42 --- n43
+  n44["`Bài học cho biết cần tìm hệ quả nào, không cho biết hệ quả lớn đến đâu`"]
+  n38 --- n44
+  n45["`Thông điệp xuyên suốt`"]
+  n0 --- n45
+  n46["`Trước mỗi chính sách hay quyết định, hỏi rồi sau đó thì sao và ai khác bị ảnh hưởng`"]
+  n45 --- n46
+  n47["`Chính sách X tạo ra 10.000 việc làm là nửa sự thật cho tới khi biết tiền lấy từ đâu`"]
+  n45 --- n47
+  n48["`Ba cột khi đọc tin: ai được lợi ngay, ai trả tiền, điều gì xảy ra sau ba năm`"]
+  n45 --- n48
+  n49["`Áp cùng tiêu chuẩn cho cả lập luận mình ủng hộ, và không hy sinh hết ngắn hạn cho dài hạn mơ hồ`"]
+  n45 --- n49
+  class n0 root
+  class n1,n10,n21,n30,n38,n45 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Một "The Lesson", Chương 1 "The Lesson". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương duy nhất của Phần Một và là nền móng của cả sách. Lời nói đầu hứa sẽ truy mọi ngụy biện kinh tế về "một lỗi trung tâm"; Chương 1 gọi tên lỗi đó và phát biểu "bài học" (*the lesson*) để sửa nó.
+
+Hai mươi hai chương của Phần Hai ("The Lesson Applied", bắt đầu từ Chương 2 "Cửa sổ vỡ") đều là áp dụng bài học này vào từng chính sách: công trình công cộng, thuế, tín dụng, máy móc, thuế quan, giá ngang giá (parity), ấn định giá, lương tối thiểu, công đoàn, lạm phát, tiết kiệm.
+
+Chương 24 ("The Lesson Restated") sẽ phát biểu lại bài học sau khi đã đi hết các ví dụ.
+
+## Lưu ý
+
+- "Kinh tế học 'mới'" (*the "new" economics*) mà Hazlitt nhắm tới là kinh tế học Keynes (*Lý thuyết tổng quát về việc làm, lãi suất và tiền tệ*, 1936) và những người theo nó ở Mỹ, như Alvin Hansen. Năm 1946 họ chủ trương chính phủ chi tiêu (kể cả vay nợ) để duy trì toàn dụng lao động, và cho rằng tiết kiệm quá nhiều có thể gây suy thoái (cái gọi là "nghịch lý tiết kiệm"). "Những người được coi là nhà kinh tế xuất sắc, coi nhẹ tiết kiệm và khuyên tiêu xài hoang phí trên quy mô quốc gia" là ám chỉ nhóm này.
+- Câu "Về dài hạn, tất cả chúng ta đều chết" (*In the long run we are all dead*) là của Keynes, nhưng trong ngữ cảnh gốc (*A Tract on Monetary Reform*, 1923) Keynes không bàn về tiết kiệm hay chi tiêu; ông chê những nhà kinh tế chỉ nói giá cả *rồi sẽ* tự điều chỉnh về dài hạn mà không giúp gì được trong cơn bão trước mắt. Tức là Keynes đang phê phán đúng cái lỗi mà Hazlitt gọi là "lỗi ngược lại" ở mục 2 của chương này.
+- "Chủ nghĩa trọng thương thế kỷ 17" là học thuyết coi xuất siêu và tích trữ vàng là nguồn giàu có, chủ trương bảo hộ; chính Keynes trong *Lý thuyết tổng quát* có một chương tỏ ý thông cảm với phái trọng thương.
+- Chương gốc chia làm ba mục đánh số 1, 2, 3; bản tổng hợp giữ cách chia đó.
+- Các câu trích là bản dịch của người tổng hợp.

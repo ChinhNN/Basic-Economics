@@ -1,11 +1,12 @@
 # Chương 8 — Các kế hoạch chia việc (Spread-the-Work Schemes)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 8 "Spread-the-Work Schemes". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 7 bác bỏ niềm tin rằng máy móc gây thất nghiệp, và ở mục 1 của chương đó đã kể một loạt quy định tạo việc, thuê thừa người của công đoàn. Chương 8 đi tiếp từ đó: các quy định ấy và các đề xuất rút ngắn tuần làm việc đều dựa trên cùng ngụy biện với nỗi sợ máy móc, cộng thêm một ngụy biện đi liền với nó là **có một lượng việc cố định để chia**. Hazlitt áp dụng "bài học" (C1) bằng cách lần theo ai trả chi phí của mỗi kế hoạch chia việc. Chương 9 tiếp tục chủ đề "cái gì tạo ra việc làm" với trường hợp giải ngũ và cắt giảm công chức; câu cuối chương này ("giá, chi phí và lương ở quan hệ đúng") dẫn tới các chương về hệ thống giá và lương (C15, C19, C20).
-**Ý chính:** Hazlitt muốn chứng minh rằng mọi kế hoạch "chia việc" đều không làm tăng tổng việc làm và tổng sản lượng; chúng chỉ chuyển gánh nặng từ nhóm này sang nhóm khác, hoặc làm sản lượng giảm. Ông dùng ba ví dụ. (1) Phân chia nghề quá chi li: chủ nhà phải thuê cả thợ ống nước lẫn thợ lát gạch để sửa một chỗ rò trong phòng tắm, nên mất số tiền định mua một chiếc áo len; nền kinh tế "thiếu một chiếc áo len". (2) Rút tuần làm từ 40 xuống 30 giờ, giữ nguyên lương giờ: người đang có việc mất 1/4 thu nhập để trợ cấp cho người mới vào, tổng giờ công và tổng lương không đổi. (3) Rút xuống 30 giờ nhưng tăng lương giờ 33⅓% (từ 1 lên 1,33⅓ USD) để giữ 40 USD/tuần: chi phí sản xuất tăng vọt, doanh nghiệp yếu nhất phá sản, thất nghiệp tăng; nếu dùng lạm phát để cứu thì chỉ là cắt lương thực tế trá hình, quay về trường hợp (2).
+## Ý chính
 
-> **Lưu ý:** (1) "Luật Lương–Giờ Liên bang" (Federal Wage-Hour Law) Hazlitt nhắc tới là Đạo luật Tiêu chuẩn Lao động Công bằng (Fair Labor Standards Act) năm 1938, thời New Deal; luật này đặt tuần làm việc chuẩn 40 giờ (áp dụng đầy đủ từ năm 1940) và buộc trả thêm 50% lương giờ cho giờ làm thêm vượt mức đó. Đề xuất tuần làm 30 giờ có thật: dự luật Black–Connery năm 1933 từng được Thượng viện Mỹ thông qua. (2) "Đình công tranh chấp thẩm quyền" (jurisdictional strikes) giữa các công đoàn tranh nhau một loại việc là vấn đề lớn thời đó; Đạo luật Taft–Hartley năm 1947, ra đời một năm sau sách, đã cấm loại đình công này và hạn chế một phần lối thuê thừa người. (3) Ví dụ tiền tệ dùng mức lương năm 1946: 40 USD cho tuần 40 giờ, tức 1 USD/giờ. (4) Câu trích trong file là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng mọi kế hoạch "chia việc" đều không làm tăng tổng việc làm và tổng sản lượng; chúng chỉ chuyển gánh nặng từ nhóm này sang nhóm khác, hoặc làm sản lượng giảm. Ông dùng ba ví dụ.
+
+1. Phân chia nghề quá chi li: chủ nhà phải thuê cả thợ ống nước lẫn thợ lát gạch để sửa một chỗ rò trong phòng tắm, nên mất số tiền định mua một chiếc áo len; nền kinh tế "thiếu một chiếc áo len".
+2. Rút tuần làm từ 40 xuống 30 giờ, giữ nguyên lương giờ: người đang có việc mất 1/4 thu nhập để trợ cấp cho người mới vào, tổng giờ công và tổng lương không đổi.
+3. Rút xuống 30 giờ nhưng tăng lương giờ 33⅓% (từ 1 lên 1,33⅓ USD) để giữ 40 USD/tuần: chi phí sản xuất tăng vọt, doanh nghiệp yếu nhất phá sản, thất nghiệp tăng; nếu dùng lạm phát để cứu thì chỉ là cắt lương thực tế trá hình, quay về trường hợp (2).
 
 ## Sơ đồ
 
@@ -225,7 +226,9 @@ Sai lầm này đứng sau việc các công đoàn đòi **chia nghề cực nh
 | Thợ điện | Cạy một tấm ván để sửa mối nối rồi đóng lại, dù đơn giản đến đâu | Thợ mộc |
 | Thợ ống nước | Gỡ hay lắp lại một viên gạch khi sửa chỗ rò ở vòi sen | Thợ lát gạch |
 
-Các công đoàn đánh nhau bằng những cuộc **đình công tranh chấp thẩm quyền** (jurisdictional strikes) dữ dội để giành độc quyền làm những việc giáp ranh. Trong một văn bản các công ty đường sắt Mỹ soạn gửi Uỷ ban của Bộ trưởng Tư pháp về Thủ tục Hành chính, họ nêu vô số trường hợp Ban Điều chỉnh Đường sắt Quốc gia (National Railroad Adjustment Board) phán quyết rằng "mỗi thao tác riêng trên đường sắt, dù nhỏ đến đâu, như nói điện thoại hay đóng, gỡ đinh ghi chuyển hướng, là tài sản riêng của một loại nhân viên nhất định, tới mức nếu một nhân viên loại khác, trong khi làm nhiệm vụ thường ngày, làm thao tác đó, thì không chỉ người ấy phải được trả thêm một ngày lương, mà đồng thời các thành viên đang bị cho nghỉ hoặc thất nghiệp của loại nhân viên 'có quyền' làm thao tác đó cũng phải được trả một ngày lương vì đã không được gọi làm".
+Các công đoàn đánh nhau bằng những cuộc **đình công tranh chấp thẩm quyền** (jurisdictional strikes) dữ dội để giành độc quyền làm những việc giáp ranh.
+
+Trong một văn bản các công ty đường sắt Mỹ soạn gửi Uỷ ban của Bộ trưởng Tư pháp về Thủ tục Hành chính, họ nêu vô số trường hợp Ban Điều chỉnh Đường sắt Quốc gia (National Railroad Adjustment Board) phán quyết rằng "mỗi thao tác riêng trên đường sắt, dù nhỏ đến đâu, như nói điện thoại hay đóng, gỡ đinh ghi chuyển hướng, là tài sản riêng của một loại nhân viên nhất định, tới mức nếu một nhân viên loại khác, trong khi làm nhiệm vụ thường ngày, làm thao tác đó, thì không chỉ người ấy phải được trả thêm một ngày lương, mà đồng thời các thành viên đang bị cho nghỉ hoặc thất nghiệp của loại nhân viên 'có quyền' làm thao tác đó cũng phải được trả một ngày lương vì đã không được gọi làm".
 
 ### 3. (Đoạn 5) Ai trả giá: chủ nhà, chỗ rò ở phòng tắm và chiếc áo len
 
@@ -283,7 +286,9 @@ Vì vậy, lương giờ cao hơn sẽ dẫn tới **thất nghiệp nhiều hơ
 
 Nếu nhà nước theo đuổi **lạm phát tiền tệ** để giá tăng đủ cho doanh nghiệp trả nổi lương giờ cao hơn, thì đó chỉ là **cách cắt lương thực tế trá hình**: tính theo lượng hàng mua được, lương giờ sẽ quay về đúng mức cũ. Khi đó kết quả giống hệt phương án giảm giờ không tăng lương giờ, và hệ quả của phương án đó đã được phân tích ở mục 5.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một nhà máy may xuất khẩu có 1.000 công nhân làm 48 giờ/tuần. Giả sử luật giảm giờ chuẩn xuống 40 giờ và buộc giữ nguyên lương tháng, tức chi phí lao động mỗi giờ tăng 20%. Nếu biên lợi nhuận của nhà máy chỉ vài phần trăm và giá bán do người mua quốc tế quyết định, nhà máy không thể chuyển chi phí sang giá. Hệ quả theo đúng lập luận của Hazlitt: hoặc nhà máy tăng tự động hoá, hoặc chuyển đơn hàng sang nước khác, hoặc đóng cửa; cả ba đều làm tổng việc làm ít đi chứ không nhiều hơn. Trường hợp ngược lại, nhà máy có năng suất tăng nhanh và đang lãi tốt, thì có thể giảm giờ mà không giảm việc làm, nhưng khi đó, như Hazlitt nói, công nhân cũng có thể chọn giữ 48 giờ và nhận lương cao hơn.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một nhà máy may xuất khẩu có 1.000 công nhân làm 48 giờ/tuần. Giả sử luật giảm giờ chuẩn xuống 40 giờ và buộc giữ nguyên lương tháng, tức chi phí lao động mỗi giờ tăng 20%. Nếu biên lợi nhuận của nhà máy chỉ vài phần trăm và giá bán do người mua quốc tế quyết định, nhà máy không thể chuyển chi phí sang giá.
+
+Hệ quả theo đúng lập luận của Hazlitt: hoặc nhà máy tăng tự động hoá, hoặc chuyển đơn hàng sang nước khác, hoặc đóng cửa; cả ba đều làm tổng việc làm ít đi chứ không nhiều hơn. Trường hợp ngược lại, nhà máy có năng suất tăng nhanh và đang lãi tốt, thì có thể giảm giờ mà không giảm việc làm, nhưng khi đó, như Hazlitt nói, công nhân cũng có thể chọn giữ 48 giờ và nhận lương cao hơn.
 
 ### 7. (Đoạn 13–14, kết chương) Kết luận: lượng việc không có giới hạn
 
@@ -377,13 +382,17 @@ Các kế hoạch chia việc (chia nghề chi li, cấm làm việc của ngh�
 
 ### Ví dụ chiếc áo len là cách trình bày ngụy biện cửa sổ vỡ gọn và đúng nhất trong chương
 
-Đoạn chủ nhà và chiếc áo len có cấu trúc giống hệt ngụy biện cửa sổ vỡ ở Chương 2: tiền trả cho thợ lát gạch thừa giống tiền trả cho thợ lắp kính, chiếc áo len giống bộ com-lê người chủ tiệm không mua được. Điểm mạnh của ví dụ là nó không cần giả định gì về kinh tế vĩ mô: chỉ cần chủ nhà có ngân sách hữu hạn. Lập luận này đứng vững với hầu hết các trường phái; ngay cả trong suy thoái, buộc ai đó trả gấp đôi cho một việc cũng không làm xã hội giàu hơn. Chỗ cần lưu ý là Hazlitt coi hai việc tách nhau là thuần lãng phí; thực tế một số phân chia nghề có lý do an toàn hay trách nhiệm (thợ điện có chứng chỉ chịu trách nhiệm về an toàn điện). Hazlitt nhắm vào sự phân chia "tuỳ tiện", nhưng không đưa ra tiêu chí để phân biệt.
+Đoạn chủ nhà và chiếc áo len có cấu trúc giống hệt ngụy biện cửa sổ vỡ ở Chương 2: tiền trả cho thợ lát gạch thừa giống tiền trả cho thợ lắp kính, chiếc áo len giống bộ com-lê người chủ tiệm không mua được. Điểm mạnh của ví dụ là nó không cần giả định gì về kinh tế vĩ mô: chỉ cần chủ nhà có ngân sách hữu hạn. Lập luận này đứng vững với hầu hết các trường phái; ngay cả trong suy thoái, buộc ai đó trả gấp đôi cho một việc cũng không làm xã hội giàu hơn.
+
+Chỗ cần lưu ý là Hazlitt coi hai việc tách nhau là thuần lãng phí; thực tế một số phân chia nghề có lý do an toàn hay trách nhiệm (thợ điện có chứng chỉ chịu trách nhiệm về an toàn điện). Hazlitt nhắm vào sự phân chia "tuỳ tiện", nhưng không đưa ra tiêu chí để phân biệt.
 
 ### Phân tích tuần 30 giờ đúng về logic, và dữ liệu hiện đại phần lớn xác nhận: giảm giờ bằng luật hiếm khi tạo thêm việc
 
 Phép tính của Hazlitt cho phương án 1 là số học thuần tuý: nếu tổng giờ công không đổi thì người cũ trợ cấp người mới. Phương án 2 dựa trên một giả định kinh tế (lương đã ở mức tối đa năng suất cho phép), và ở đó ông đúng về hướng: tăng chi phí lao động mỗi giờ mà không tăng năng suất thì doanh nghiệp thuê ít giờ công hơn. Các đánh giá về việc Pháp giảm tuần làm xuống 35 giờ (đầu những năm 2000) phần lớn không tìm thấy hiệu ứng tạo việc làm rõ ràng như những người đề xuất kỳ vọng; một số nghiên cứu về lần giảm giờ trước đó ở Pháp còn thấy việc làm của nhóm bị ảnh hưởng giảm.
 
-Nhưng Hazlitt bỏ qua hai điều. Thứ nhất, giờ làm ngắn hơn có thể làm năng suất mỗi giờ tăng (người lao động ít mệt hơn, doanh nghiệp tổ chức lại sản xuất), chính lý do mà ông nêu là một niềm tin đứng sau luật các bang nhưng không tính vào phân tích tuần 30 giờ. Nếu năng suất giờ tăng một phần, chi phí tăng ít hơn 33⅓%. Thứ hai, ông không phân biệt giảm giờ vĩnh viễn với giảm giờ tạm thời trong khủng hoảng: chương trình giảm giờ có trợ cấp của Đức trong khủng hoảng 2008–2009 được nhiều nhà kinh tế đánh giá là đã giúp giữ việc làm, vì nó tránh cho doanh nghiệp phải sa thải rồi tuyển lại người có tay nghề. Đó không phải là "chia việc" để chữa thất nghiệp kéo dài, mà là bảo hiểm cho một cú sốc ngắn; logic của Hazlitt không bác bỏ nó.
+Nhưng Hazlitt bỏ qua hai điều. Thứ nhất, giờ làm ngắn hơn có thể làm năng suất mỗi giờ tăng (người lao động ít mệt hơn, doanh nghiệp tổ chức lại sản xuất), chính lý do mà ông nêu là một niềm tin đứng sau luật các bang nhưng không tính vào phân tích tuần 30 giờ. Nếu năng suất giờ tăng một phần, chi phí tăng ít hơn 33⅓%.
+
+Thứ hai, ông không phân biệt giảm giờ vĩnh viễn với giảm giờ tạm thời trong khủng hoảng: chương trình giảm giờ có trợ cấp của Đức trong khủng hoảng 2008–2009 được nhiều nhà kinh tế đánh giá là đã giúp giữ việc làm, vì nó tránh cho doanh nghiệp phải sa thải rồi tuyển lại người có tay nghề. Đó không phải là "chia việc" để chữa thất nghiệp kéo dài, mà là bảo hiểm cho một cú sốc ngắn; logic của Hazlitt không bác bỏ nó.
 
 ### Câu "thất nghiệp có thể là dấu hiệu lương đã quá cao" là giả định mạnh nhất, và cũng gây tranh cãi nhất
 
@@ -399,3 +408,136 @@ Hazlitt và Keynes đồng ý về cơ chế: giá tăng nhanh hơn lương danh
 - **Khi thương lượng giờ làm và lương.** Bài học của Hazlitt là không nhầm giữa giảm giờ như một **phần thưởng** của năng suất (đúng) và giảm giờ như một **công cụ tạo việc** (sai). Một doanh nghiệp có năng suất tăng có thể giảm giờ mà vẫn có lãi; một doanh nghiệp biên lợi nhuận mỏng, giá do thị trường quốc tế quyết định, thì không. Ở Việt Nam, các tranh luận về việc giảm giờ làm chuẩn hằng tuần hay giới hạn giờ làm thêm nên được đánh giá theo câu hỏi này: năng suất ngành đã cho phép chưa, chứ không theo số việc làm hứa hẹn.
 - **Khi đọc tin chính sách.** Gặp một đề xuất kiểu "buộc mỗi công trình phải thuê thêm X", "chỉ đơn vị có giấy phép loại Y mới được làm bước Z", hãy hỏi: ai trả phần chi phí tăng thêm, và họ sẽ bớt mua gì. Nếu câu trả lời là người tiêu dùng và họ bớt chi ở ngành khác, thì việc làm được "tạo" ra chỉ là việc làm được chuyển chỗ, còn xã hội thiệt một chiếc áo len.
 - **Với nghề nghiệp cá nhân.** Ngụy biện lượng việc cố định cũng xuất hiện ở cấp cá nhân: nghĩ rằng đồng nghiệp giỏi hay công cụ mới "lấy mất" phần việc của mình. Lượng việc trong một tổ chức đang tăng trưởng không cố định; người làm hiệu quả hơn thường được giao thêm việc có giá trị hơn, không phải bị bỏ rơi.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết và phần Đánh giá (hai ngụy biện gốc, chia nghề chi li và chiếc áo len, rút tuần làm với phương án giữ lương giờ, phương án tăng lương giờ 33⅓%, kết luận rằng lượng việc không có giới hạn, chỗ đúng và chỗ cần lưu ý của lập luận), mỗi nhánh ghi ví dụ, con số và lập luận then chốt của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: mọi kế hoạch chia việc không tăng tổng việc làm hay sản lượng, chỉ chuyển gánh nặng hoặc làm sản lượng giảm`"]
+  n1["`Mục 1 — Hai ngụy biện gốc`"]
+  n0 --- n1
+  n2["`Quy định tạo việc, thuê thừa người của công đoàn chung ngụy biện với nỗi sợ máy móc ở Chương 7`"]
+  n1 --- n2
+  n3["`Niềm tin: làm hiệu quả hơn phá việc làm, nên làm kém hiệu quả hơn tạo việc làm`"]
+  n1 --- n3
+  n4["`Ngụy biện đi liền: thế giới chỉ có một lượng việc cố định, nên phải chia cho càng nhiều người càng tốt`"]
+  n1 --- n4
+  n5["`Mục 2–3 — Chia nghề chi li và chiếc áo len`"]
+  n0 --- n5
+  n6["`Thợ xây gạch không được xây ống khói bằng đá, thợ điện không được cạy tấm ván của thợ mộc`"]
+  n5 --- n6
+  n7["`Thợ ống nước không chịu gỡ viên gạch khi sửa vòi sen vì đó là việc của thợ lát gạch`"]
+  n5 --- n7
+  n8["`Công đoàn mở đình công tranh chấp thẩm quyền để giành độc quyền những việc giáp ranh`"]
+  n5 --- n8
+  n9["`Đường sắt: nhân viên loại khác làm một thao tác thì phải trả hai ngày lương, cho người làm và người có quyền`"]
+  n5 --- n9
+  n10["`Vài nhóm thợ được lợi nếu chỉ riêng họ chia việc, mọi nghề cùng làm thì chi phí tăng, ít việc và ít hàng hơn`"]
+  n5 --- n10
+  n11["`Cái thấy: thợ lát gạch có thêm một ngày công`"]
+  n5 --- n11
+  n12["`Cái không thấy: chủ nhà trả gấp đôi nên bỏ mua áo len, thợ dệt áo len mất một ngày công`"]
+  n11 --- n12
+  n13["`Chủ nhà chỉ còn vòi sen đã sửa, đất nước thiếu đúng một chiếc áo len`"]
+  n11 --- n13
+  n14["`Mục 4–5 — Rút tuần làm, phương án 1: 30 giờ, giữ lương giờ`"]
+  n0 --- n14
+  n15["`Kế hoạch chia việc phổ biến nhất là rút ngắn tuần làm việc, thường bằng luật`"]
+  n14 --- n15
+  n16["`Luật các bang giới hạn khoảng 48 giờ/tuần cho phụ nữ, trẻ vị thành niên vì lý do sức khỏe và hiệu quả`"]
+  n14 --- n16
+  n17["`Luật Lương–Giờ Liên bang trả thêm 50% cho giờ vượt 40, một phần để chủ ngại cho làm thêm mà thuê thêm người`"]
+  n14 --- n17
+  n18["`Giả định thuận lợi nhất: thất nghiệp đều ở mọi ngành, người mới không kém người cũ`"]
+  n14 --- n18
+  n19["`Nhiều người có việc hơn nhưng tổng giờ công, sản lượng và tổng quỹ lương không tăng`"]
+  n14 --- n19
+  n20["`Người cũ từ 40 xuống 30 USD/tuần: người có việc trợ cấp người chưa có việc`"]
+  n14 --- n20
+  n21["`Ví dụ: 30 người × 40 giờ hay 40 người × 30 giờ đều là 1.200 giờ công và 1.200 USD lương`"]
+  n20 --- n21
+  n22["`Thời gian rảnh mua với giá cao không phải họ tự chọn, mà là hy sinh để người khác có việc`"]
+  n20 --- n22
+  n23["`Mục 6 — Phương án 2: 30 giờ, tăng lương giờ 33⅓%`"]
+  n0 --- n23
+  n24["`Công đoàn muốn vừa ăn bánh vừa giữ bánh: lương giờ từ 1 lên 1,33⅓ USD để giữ 40 USD/tuần`"]
+  n23 --- n24
+  n25["`Nếu lương cũ thấp hơn mức chi phí và giá cho phép, cứ làm 40 giờ với lương mới là được khoảng 53,33 USD`"]
+  n23 --- n25
+  n26["`Nếu lương cũ đã ở mức cao nhất, chi phí lao động tăng 33⅓% vượt sức chịu của giá và sản xuất`"]
+  n23 --- n26
+  n27["`Chính thất nghiệp có thể là dấu hiệu lương đã cao hơn mức đó`"]
+  n26 --- n27
+  n28["`Doanh nghiệp và người lao động kém hiệu quả nhất bị loại, sản xuất giảm, thất nghiệp nhiều hơn trước`"]
+  n23 --- n28
+  n29["`Chi phí cao đẩy giá lên, cầu co lại kéo giá xuống, kết quả tùy chính sách tiền tệ`"]
+  n23 --- n29
+  n30["`Dùng lạm phát cứu thì lương thực tế quay về mức cũ: cắt lương trá hình, giống hệt phương án 1`"]
+  n23 --- n30
+  n31["`Mục 7 — Kết luận: lượng việc không có giới hạn`"]
+  n0 --- n31
+  n32["`Người đề xuất chỉ nghĩ tới việc làm của một nhóm cụ thể, không xét tác động lên mọi người`"]
+  n31 --- n32
+  n33["`Giả định lượng việc cố định: không có ngụy biện nào lớn hơn`"]
+  n31 --- n33
+  n34["`Lượng việc không có giới hạn chừng nào còn nhu cầu con người chưa được thỏa mãn mà lao động có thể đáp ứng`"]
+  n31 --- n34
+  n35["`Việc làm nhiều nhất khi giá, chi phí và lương ở quan hệ đúng với nhau, bàn ở các chương sau`"]
+  n31 --- n35
+  n36["`Đánh giá — Chỗ đúng và chỗ cần lưu ý`"]
+  n0 --- n36
+  n37["`Ví dụ áo len cùng cấu trúc với cửa sổ vỡ, chỉ cần giả định chủ nhà có ngân sách hữu hạn`"]
+  n36 --- n37
+  n38["`Một số phân chia nghề có lý do an toàn, Hazlitt không nêu tiêu chí phân biệt với chia tùy tiện`"]
+  n36 --- n38
+  n39["`Pháp giảm tuần làm xuống 35 giờ phần lớn không thấy hiệu ứng tạo việc làm rõ ràng`"]
+  n36 --- n39
+  n40["`Bỏ qua năng suất giờ có thể tăng khi giờ làm ngắn hơn, nên chi phí tăng ít hơn 33⅓%`"]
+  n36 --- n40
+  n41["`Giảm giờ tạm thời có trợ cấp như Kurzarbeit của Đức 2008–2009 giúp giữ việc làm, logic Hazlitt không bác bỏ`"]
+  n36 --- n41
+  n42["`Thất nghiệp do lương quá cao là quan điểm cổ điển Keynes bác bỏ cho trường hợp thiếu cầu như Đại Suy thoái`"]
+  n36 --- n42
+  n43["`Hazlitt và Keynes cùng thấy lạm phát cắt lương thực tế, Hazlitt gọi là trá hình, Keynes coi là cách điều chỉnh thực tế`"]
+  n36 --- n43
+  n44["`Thông điệp xuyên suốt`"]
+  n0 --- n44
+  n45["`Trước một chính sách tạo việc bằng chia việc, hãy tìm chiếc áo len bị bỏ và hỏi tổng giờ công có đổi không`"]
+  n44 --- n45
+  n46["`Giảm giờ là phần thưởng của năng suất tăng, không phải công cụ chống thất nghiệp`"]
+  n44 --- n46
+  n47["`Ai trả chi phí tăng thêm và họ bớt mua gì: việc làm được tạo ra chỉ là việc làm chuyển chỗ`"]
+  n44 --- n47
+  class n0 root
+  class n1,n5,n14,n23,n31,n36,n44 branch
+  class n2,n3,n4,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 8 "Spread-the-Work Schemes". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 7 bác bỏ niềm tin rằng máy móc gây thất nghiệp, và ở mục 1 của chương đó đã kể một loạt quy định tạo việc, thuê thừa người của công đoàn. Chương 8 đi tiếp từ đó: các quy định ấy và các đề xuất rút ngắn tuần làm việc đều dựa trên cùng ngụy biện với nỗi sợ máy móc, cộng thêm một ngụy biện đi liền với nó là **có một lượng việc cố định để chia**.
+
+Hazlitt áp dụng "bài học" (C1) bằng cách lần theo ai trả chi phí của mỗi kế hoạch chia việc.
+
+Chương 9 tiếp tục chủ đề "cái gì tạo ra việc làm" với trường hợp giải ngũ và cắt giảm công chức; câu cuối chương này ("giá, chi phí và lương ở quan hệ đúng") dẫn tới các chương về hệ thống giá và lương (C15, C19, C20).
+
+## Lưu ý
+
+- "Luật Lương–Giờ Liên bang" (Federal Wage-Hour Law) Hazlitt nhắc tới là Đạo luật Tiêu chuẩn Lao động Công bằng (Fair Labor Standards Act) năm 1938, thời New Deal; luật này đặt tuần làm việc chuẩn 40 giờ (áp dụng đầy đủ từ năm 1940) và buộc trả thêm 50% lương giờ cho giờ làm thêm vượt mức đó. Đề xuất tuần làm 30 giờ có thật: dự luật Black–Connery năm 1933 từng được Thượng viện Mỹ thông qua.
+- "Đình công tranh chấp thẩm quyền" (jurisdictional strikes) giữa các công đoàn tranh nhau một loại việc là vấn đề lớn thời đó; Đạo luật Taft–Hartley năm 1947, ra đời một năm sau sách, đã cấm loại đình công này và hạn chế một phần lối thuê thừa người.
+- Ví dụ tiền tệ dùng mức lương năm 1946: 40 USD cho tuần 40 giờ, tức 1 USD/giờ.
+- Câu trích trong file là bản dịch của người tổng hợp.

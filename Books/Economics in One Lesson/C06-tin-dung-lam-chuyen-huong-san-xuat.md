@@ -1,11 +1,14 @@
 # Chương 6 — Tín dụng làm chuyển hướng sản xuất (Credit Diverts Production)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 6 "Credit Diverts Production". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 và 5 xét chi tiêu của chính phủ trả bằng thuế: nó chỉ tạo ra một thứ thay cho thứ khác, và thuế còn làm giảm sản xuất. Chương 6 xét một hình thức "giúp đỡ" tinh vi hơn: chính phủ không chi thẳng mà **cho vay** hoặc **bảo lãnh khoản vay** cho doanh nghiệp, nhất là cho nông dân. Hazlitt dùng lại cách nhìn của Chương 5 ("B được thấy, A bị quên"): người được chính phủ cho vay là cái thấy được; người lẽ ra đã được vay vốn đó và dùng nó hiệu quả hơn là cái không thấy. Chương này gác lại hai vấn đề cho sau: tín dụng lạm phát (Chương 22, ảo ảnh lạm phát) và các khoản vay để nông dân giữ hàng khỏi thị trường (Chương 16, "ổn định" giá hàng hoá).
-**Ý chính:** Hazlitt muốn chứng minh rằng tín dụng của chính phủ không làm tăng sản xuất mà làm giảm nó, vì thứ thật sự được cho vay không phải là tiền mà là **vốn thực** (một trang trại, một chiếc máy kéo) vốn có hạn: trang trại cho B vay thì A không có. Người cho vay tư nhân mạo hiểm tiền của chính mình nên chọn người vay kỹ (người nông dân A giỏi, trung thực, đã tự để dành được một phần tư giá trang trại); chính phủ cho vay chính là để cho những người tư nhân không cho vay (người B không có tiết kiệm, không có thành tích, có thể đang nhận trợ cấp), tức là mạo hiểm tiền của người nộp thuế. Kết quả là vốn rơi vào tay người kém hiệu quả hơn, nhiều khoản vay mất trắng hơn, và sản lượng của cả cộng đồng giảm. Ông mở rộng sang đề xuất để chính phủ gánh những rủi ro "quá lớn cho tư nhân", và kết bằng nhận xét: chính phủ không cho doanh nghiệp thứ gì mà không lấy của doanh nghiệp trước; cho vay và trợ cấp là đánh thuế doanh nghiệp thành công để nuôi doanh nghiệp không thành công.
+## Ý chính
 
-> **Lưu ý:** (1) Bối cảnh: từ 1916 Quốc hội Mỹ đã lập liên tiếp các tổ chức tín dụng nông nghiệp: Ngân hàng Đất đai Liên bang (Federal Land Banks, 1916, cho vay dài hạn thế chấp đất), Ngân hàng Tín dụng Trung hạn Liên bang (Federal Intermediate Credit Banks, 1923, chính là loại tín dụng "trung hạn" Hazlitt chế giễu), Cơ quan Quản lý Tín dụng Nông nghiệp (Farm Credit Administration, 1933), Tổng công ty Tín dụng Hàng hoá (Commodity Credit Corporation, 1933, cho vay "không truy đòi" để nông dân giữ hàng), và Cơ quan An sinh Nông trại (Farm Security Administration, 1937), cho tá điền và nông dân nghèo vay để mua đất, mua la, mua máy kéo. Tổng công ty Tài chính Tái thiết (Reconstruction Finance Corporation, RFC) lập năm 1932 dưới thời Hoover để cho ngân hàng, đường sắt, doanh nghiệp vay; Tổng công ty Cho vay Chủ nhà (Home Owners' Loan Corporation, HOLC) lập năm 1933 để mua lại và tái cơ cấu các khoản thế chấp nhà sắp bị tịch biên. (2) "Khoản vay không truy đòi" (non-recourse loan): nông dân vay với hàng hoá làm tài sản bảo đảm; nếu giá thị trường xuống thấp hơn khoản vay, nông dân giao hàng cho chính phủ và không phải trả gì thêm, tức người nộp thuế chịu rủi ro còn nông dân giữ phần lãi. (3) Hazlitt giả định tín dụng đang bàn **không gây lạm phát** và tổng vốn thực của nền kinh tế là cố định ở mỗi thời điểm; trong suy thoái có máy móc, đất đai bỏ không, giả định này yếu đi (xem phần Đánh giá). (4) Trong bản gốc có chỗ "tax payers' money" viết tách (ở chỗ xuống dòng, mục 2); ở đây hiểu là "taxpayers' money". (5) Trong đoạn "There is a strange idea abroad", bản gốc viết khi ngân hàng nhầm thì "values which were supposed to be produced by the lender are not produced" (giá trị lẽ ra *người cho vay* tạo ra); theo mạch văn, người làm ra giá trị là người vay, nên có lẽ đây là chỗ viết nhầm "lender" thay cho "borrower"; bản tổng hợp hiểu theo nghĩa người vay. Mọi câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng tín dụng của chính phủ không làm tăng sản xuất mà làm giảm nó, vì thứ thật sự được cho vay không phải là tiền mà là **vốn thực** (một trang trại, một chiếc máy kéo) vốn có hạn: trang trại cho B vay thì A không có.
+
+Người cho vay tư nhân mạo hiểm tiền của chính mình nên chọn người vay kỹ (người nông dân A giỏi, trung thực, đã tự để dành được một phần tư giá trang trại). Chính phủ cho vay chính là để cho những người tư nhân không cho vay (người B không có tiết kiệm, không có thành tích, có thể đang nhận trợ cấp), tức là mạo hiểm tiền của người nộp thuế.
+
+Kết quả là vốn rơi vào tay người kém hiệu quả hơn, nhiều khoản vay mất trắng hơn, và sản lượng của cả cộng đồng giảm.
+
+Ông mở rộng sang đề xuất để chính phủ gánh những rủi ro "quá lớn cho tư nhân", và kết bằng nhận xét: chính phủ không cho doanh nghiệp thứ gì mà không lấy của doanh nghiệp trước. Cho vay và trợ cấp là đánh thuế doanh nghiệp thành công để nuôi doanh nghiệp không thành công.
 
 ## Sơ đồ
 
@@ -146,7 +149,7 @@
          lỏng hơn (lời hứa trả nợ có bảo đảm)
        · khi ngân hàng nhầm, không chỉ ngân hàng thiệt mà CẢ CỘNG ĐỒNG
          thiệt: giá trị lẽ ra người vay tạo ra đã không được tạo ra, và
-         nguồn lực bị phí (bản gốc ghi "lender", xem Lưu ý)
+         nguồn lực bị phí (bản gốc ghi "lender", xem mục Lưu ý cuối chương)
                                 │
                                 ▼
        B là người mà chính phủ muốn giúp
@@ -306,7 +309,9 @@ Vấn đề tín dụng của chính phủ có thể phức tạp vì nó liên 
 
 ### 2. Mục 1, đoạn 3–5: đề xuất thêm tín dụng cho nông dân và hai sự thiển cận
 
-Đề xuất loại này thường gặp nhất ở Quốc hội là thêm tín dụng cho nông dân. Trong mắt phần lớn nghị sĩ, nông dân không bao giờ có đủ tín dụng. Tín dụng của công ty cho vay thế chấp tư nhân, công ty bảo hiểm hay ngân hàng nông thôn không bao giờ "đủ". Quốc hội luôn tìm ra những "khoảng trống" mới mà các tổ chức cho vay hiện có chưa lấp, bất kể chính Quốc hội đã lập ra bao nhiêu tổ chức như vậy. Nông dân có thể đủ tín dụng dài hạn hoặc đủ tín dụng ngắn hạn, nhưng hoá ra lại thiếu tín dụng "trung hạn"; hoặc lãi suất quá cao; hoặc lời phàn nàn là tư nhân chỉ cho nông dân giàu và vững vàng vay. Thế là cơ quan lập pháp cứ chồng thêm những tổ chức cho vay mới và những loại khoản vay nông nghiệp mới lên nhau.
+Đề xuất loại này thường gặp nhất ở Quốc hội là thêm tín dụng cho nông dân. Trong mắt phần lớn nghị sĩ, nông dân không bao giờ có đủ tín dụng. Tín dụng của công ty cho vay thế chấp tư nhân, công ty bảo hiểm hay ngân hàng nông thôn không bao giờ "đủ".
+
+Quốc hội luôn tìm ra những "khoảng trống" mới mà các tổ chức cho vay hiện có chưa lấp, bất kể chính Quốc hội đã lập ra bao nhiêu tổ chức như vậy. Nông dân có thể đủ tín dụng dài hạn hoặc đủ tín dụng ngắn hạn, nhưng hoá ra lại thiếu tín dụng "trung hạn"; hoặc lãi suất quá cao; hoặc lời phàn nàn là tư nhân chỉ cho nông dân giàu và vững vàng vay. Thế là cơ quan lập pháp cứ chồng thêm những tổ chức cho vay mới và những loại khoản vay nông nghiệp mới lên nhau.
 
 Hazlitt cho rằng niềm tin vào các chính sách này xuất phát từ **hai sự thiển cận**: một là chỉ nhìn vấn đề từ góc độ những nông dân đi vay; hai là chỉ nghĩ tới nửa đầu của giao dịch. Nửa sau là: với người vay trung thực, mọi khoản vay cuối cùng phải được trả. **Mọi tín dụng là nợ.** Vì vậy đề xuất tăng khối lượng tín dụng chỉ là tên khác của đề xuất tăng gánh nặng nợ, và chúng sẽ kém hấp dẫn đi nhiều nếu người ta quen gọi chúng bằng tên thứ hai.
 
@@ -321,7 +326,9 @@ Hazlitt không bàn các khoản vay bình thường mà nông dân nhận từ 
 
 ### 4. Mục 1, đoạn 8–9: lý lẽ ủng hộ, vay để lập nghiệp, khoản vay "tự thanh toán"
 
-Thoạt nhìn, lý lẽ cho loại vay thứ hai có vẻ mạnh. Người ta nói: đây là một gia đình nghèo không có kế sinh nhai; bắt họ nhận trợ cấp cứu tế thì tàn nhẫn và lãng phí. Hãy mua cho họ một trang trại, giúp họ lập nghiệp, biến họ thành công dân làm ra của cải và có lòng tự trọng; để họ góp vào tổng sản phẩm quốc gia và trả nợ bằng chính thứ họ làm ra. Hoặc đây là một nông dân đang chật vật với cách làm thô sơ vì không có vốn mua máy kéo. Cho anh ta vay tiền mua máy; để anh ta tăng năng suất (productivity); anh ta sẽ trả nợ bằng tiền bán phần mùa màng tăng thêm. Như vậy không chỉ làm giàu cho anh ta, giúp anh ta đứng vững, mà còn làm giàu cho cả cộng đồng bằng phần sản lượng tăng thêm. Và lý lẽ kết luận: khoản vay tốn của chính phủ và người nộp thuế "ít hơn không", vì nó "tự thanh toán".
+Thoạt nhìn, lý lẽ cho loại vay thứ hai có vẻ mạnh. Người ta nói: đây là một gia đình nghèo không có kế sinh nhai; bắt họ nhận trợ cấp cứu tế thì tàn nhẫn và lãng phí. Hãy mua cho họ một trang trại, giúp họ lập nghiệp, biến họ thành công dân làm ra của cải và có lòng tự trọng; để họ góp vào tổng sản phẩm quốc gia và trả nợ bằng chính thứ họ làm ra.
+
+Hoặc đây là một nông dân đang chật vật với cách làm thô sơ vì không có vốn mua máy kéo. Cho anh ta vay tiền mua máy; để anh ta tăng năng suất (productivity); anh ta sẽ trả nợ bằng tiền bán phần mùa màng tăng thêm. Như vậy không chỉ làm giàu cho anh ta, giúp anh ta đứng vững, mà còn làm giàu cho cả cộng đồng bằng phần sản lượng tăng thêm. Và lý lẽ kết luận: khoản vay tốn của chính phủ và người nộp thuế "ít hơn không", vì nó "tự thanh toán".
 
 Hazlitt đáp: thực ra đây chính là điều diễn ra hằng ngày dưới thể chế tín dụng tư nhân. Nếu một người muốn mua trang trại và chỉ có, giả sử, một nửa hoặc một phần ba số tiền, thì một người hàng xóm hoặc một ngân hàng tiết kiệm sẽ cho vay phần còn lại dưới dạng thế chấp trang trại. Nếu anh ta muốn mua máy kéo, chính hãng máy kéo hoặc một công ty tài chính sẽ cho mua với một phần ba giá, phần còn lại trả góp từ thu nhập mà chính chiếc máy kéo giúp tạo ra.
 
@@ -329,7 +336,9 @@ Hazlitt đáp: thực ra đây chính là điều diễn ra hằng ngày dưới
 
 Nhưng có một khác biệt quyết định giữa khoản vay của người cho vay tư nhân và khoản vay của một cơ quan chính phủ. Mỗi người cho vay tư nhân mạo hiểm tiền của chính mình. (Ngân hàng thì đúng là mạo hiểm tiền người khác gửi; nhưng nếu tiền mất, ngân hàng phải bù bằng tiền của mình hoặc bị loại khỏi ngành.) Khi người ta mạo hiểm tiền của mình, họ thường điều tra cẩn thận xem tài sản bảo đảm có đủ không, người vay có năng lực kinh doanh và trung thực không.
 
-Nếu chính phủ hoạt động theo cùng những tiêu chuẩn chặt chẽ đó, sẽ không có lý do gì để nó tham gia lĩnh vực này: tại sao lại làm đúng việc tư nhân đã làm? Nhưng chính phủ gần như luôn hoạt động theo tiêu chuẩn khác. Thật ra toàn bộ lý lẽ để chính phủ tham gia cho vay là nó sẽ cho vay những người không vay được của tư nhân. Đó chỉ là cách nói khác rằng người cho vay của chính phủ sẽ mạo hiểm tiền của người khác (người nộp thuế) theo cách mà người cho vay tư nhân không dám làm với tiền của mình. Đôi khi những người biện hộ còn thẳng thắn thừa nhận tỷ lệ mất vốn của khoản vay chính phủ sẽ cao hơn khoản vay tư nhân, nhưng cho rằng điều đó sẽ được bù dư bởi sản lượng tăng thêm của những người vay trả được nợ, và thậm chí của phần lớn những người không trả được nợ.
+Nếu chính phủ hoạt động theo cùng những tiêu chuẩn chặt chẽ đó, sẽ không có lý do gì để nó tham gia lĩnh vực này: tại sao lại làm đúng việc tư nhân đã làm? Nhưng chính phủ gần như luôn hoạt động theo tiêu chuẩn khác. Thật ra toàn bộ lý lẽ để chính phủ tham gia cho vay là nó sẽ cho vay những người không vay được của tư nhân. Đó chỉ là cách nói khác rằng người cho vay của chính phủ sẽ mạo hiểm tiền của người khác (người nộp thuế) theo cách mà người cho vay tư nhân không dám làm với tiền của mình.
+
+Đôi khi những người biện hộ còn thẳng thắn thừa nhận tỷ lệ mất vốn của khoản vay chính phủ sẽ cao hơn khoản vay tư nhân, nhưng cho rằng điều đó sẽ được bù dư bởi sản lượng tăng thêm của những người vay trả được nợ, và thậm chí của phần lớn những người không trả được nợ.
 
 ### 6. Mục 1, đoạn 12–15: thứ được cho vay là vốn thực, A hay B có trang trại
 
@@ -345,7 +354,9 @@ Lý lẽ trên chỉ nghe xuôi khi ta dồn chú ý vào những người vay c
 | Tình trạng | Được coi là "rủi ro tốt" | Có thể đang nhận trợ cấp cứu tế |
 | Nguồn vốn vay | 3/4 giá trang trại từ ngân hàng hoặc hàng xóm | Vay của chính phủ đủ mua trang trại và la hoặc máy kéo |
 
-Ở đây Hazlitt chen một nhận xét về bản chất tín dụng. Có một ý tưởng kỳ lạ, mà mọi kẻ cuồng tiền tệ (monetary cranks) đều tin, rằng tín dụng là thứ ngân hàng cho một người. Ngược lại, **tín dụng là thứ một người đã có**. Anh ta có nó có lẽ vì đã có tài sản bán được với giá trị tiền mặt lớn hơn khoản vay anh ta xin, hoặc vì phẩm chất và thành tích quá khứ đã tạo nên nó. Anh ta mang nó vào ngân hàng; vì thế ngân hàng mới cho vay. Ngân hàng không cho không thứ gì; nó tin chắc sẽ được trả. Nó chỉ đổi một dạng tài sản hay tín dụng lỏng hơn lấy một dạng kém lỏng hơn. Đôi khi ngân hàng nhầm, và khi đó không chỉ ngân hàng thiệt mà cả cộng đồng, vì những giá trị lẽ ra người vay tạo ra đã không được tạo ra và nguồn lực bị phí. (Bản gốc viết "produced by the lender", tức người cho vay; có lẽ là viết nhầm cho người vay, xem Lưu ý.)
+Ở đây Hazlitt chen một nhận xét về bản chất tín dụng. Có một ý tưởng kỳ lạ, mà mọi kẻ cuồng tiền tệ (monetary cranks) đều tin, rằng tín dụng là thứ ngân hàng cho một người. Ngược lại, **tín dụng là thứ một người đã có**. Anh ta có nó có lẽ vì đã có tài sản bán được với giá trị tiền mặt lớn hơn khoản vay anh ta xin, hoặc vì phẩm chất và thành tích quá khứ đã tạo nên nó.
+
+Anh ta mang nó vào ngân hàng; vì thế ngân hàng mới cho vay. Ngân hàng không cho không thứ gì; nó tin chắc sẽ được trả. Nó chỉ đổi một dạng tài sản hay tín dụng lỏng hơn lấy một dạng kém lỏng hơn. Đôi khi ngân hàng nhầm, và khi đó không chỉ ngân hàng thiệt mà cả cộng đồng, vì những giá trị lẽ ra người vay tạo ra đã không được tạo ra và nguồn lực bị phí. (Bản gốc viết "produced by the lender", tức người cho vay; có lẽ là viết nhầm cho người vay, xem mục Lưu ý cuối chương.)
 
 Người có tín dụng là A, và ngân hàng sẽ cho A vay. Nhưng chính phủ bước vào việc cho vay với tâm thế từ thiện, vì nó lo cho B. B không vay được thế chấp hay khoản vay nào khác của tư nhân vì B không có tín dụng với họ. Những người ủng hộ tín dụng chính phủ hỏi: sao không biến B thành thành viên hữu ích, làm ra của cải của xã hội bằng cách cho anh ta vay đủ để mua trang trại và một con la hoặc máy kéo, giúp anh ta lập nghiệp?
 
@@ -359,7 +370,9 @@ Trong một trường hợp riêng lẻ, việc đó có thể thành công. Nh�
 
 Dù theo cách nào, kết quả ròng của tín dụng chính phủ không phải là tăng lượng của cải cộng đồng làm ra mà là giảm nó, vì vốn thực sẵn có (gồm những trang trại, máy kéo cụ thể) đã được đặt vào tay những người vay kém hiệu quả thay vì những người hiệu quả và đáng tin hơn.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một xã có một khu đất 5 ha đang được rao bán với giá 5 tỷ đồng. Anh A là chủ trang trại rau trong vùng, có lịch sử trả nợ tốt, đã để dành 1,25 tỷ đồng, ngân hàng sẵn sàng cho vay 3,75 tỷ đồng; anh dự tính khu đất cho lợi nhuận khoảng 600 triệu đồng mỗi năm. Một chương trình hỗ trợ cho anh B, chưa có kinh nghiệm canh tác, vay 100% với lãi suất ưu đãi để mua cùng khu đất; anh B trả giá 5,5 tỷ đồng và mua được. Nếu năm đầu anh B chỉ làm ra lợi nhuận 200 triệu đồng, phần chênh 400 triệu đồng mỗi năm là sản lượng xã hội mất đi, cộng với rủi ro khoản vay không trả được mà người nộp thuế gánh. Báo chí đưa tin anh B "được giúp lập nghiệp" (cái thấy được); không ai đưa tin về trang trại anh A không mở rộng được (cái không thấy).
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một xã có một khu đất 5 ha đang được rao bán với giá 5 tỷ đồng. Anh A là chủ trang trại rau trong vùng, có lịch sử trả nợ tốt, đã để dành 1,25 tỷ đồng, ngân hàng sẵn sàng cho vay 3,75 tỷ đồng; anh dự tính khu đất cho lợi nhuận khoảng 600 triệu đồng mỗi năm. Một chương trình hỗ trợ cho anh B, chưa có kinh nghiệm canh tác, vay 100% với lãi suất ưu đãi để mua cùng khu đất; anh B trả giá 5,5 tỷ đồng và mua được.
+
+Nếu năm đầu anh B chỉ làm ra lợi nhuận 200 triệu đồng, phần chênh 400 triệu đồng mỗi năm là sản lượng xã hội mất đi, cộng với rủi ro khoản vay không trả được mà người nộp thuế gánh. Báo chí đưa tin anh B "được giúp lập nghiệp" (cái thấy được); không ai đưa tin về trang trại anh A không mở rộng được (cái không thấy).
 
 ### 8. Mục 2, đoạn 1–3: mở rộng, chính phủ gánh những rủi ro "quá lớn cho tư nhân"
 
@@ -390,7 +403,9 @@ Kết quả ròng: khoản vay tư sử dụng nguồn lực và vốn hiện c�
 
 ### 10. Mục 3 (cuối chương): chính phủ không cho doanh nghiệp thứ gì mà không lấy của doanh nghiệp
 
-Chương kết bằng việc quay lại câu mở đầu: "giúp đỡ" của chính phủ cho doanh nghiệp đôi khi đáng sợ ngang thù địch của chính phủ, và điều này đúng với trợ cấp cũng như cho vay. Chính phủ không bao giờ cho vay hay cho doanh nghiệp thứ gì mà nó không lấy đi từ doanh nghiệp. Người ta thường nghe những người theo New Deal và những người theo chủ nghĩa nhà nước khác khoe chính phủ đã "cứu" doanh nghiệp bằng Tổng công ty Tài chính Tái thiết (RFC), Tổng công ty Cho vay Chủ nhà (HOLC) và các cơ quan khác từ năm 1932. Nhưng chính phủ không thể giúp tài chính cho doanh nghiệp mà không lấy của doanh nghiệp trước hoặc sau đó. Mọi khoản tiền của chính phủ đều từ thuế. Ngay cả "tín dụng chính phủ" được ca ngợi cũng dựa trên giả định rằng các khoản vay của nó cuối cùng sẽ được trả bằng tiền thu thuế.
+Chương kết bằng việc quay lại câu mở đầu: "giúp đỡ" của chính phủ cho doanh nghiệp đôi khi đáng sợ ngang thù địch của chính phủ, và điều này đúng với trợ cấp cũng như cho vay. Chính phủ không bao giờ cho vay hay cho doanh nghiệp thứ gì mà nó không lấy đi từ doanh nghiệp.
+
+Người ta thường nghe những người theo New Deal và những người theo chủ nghĩa nhà nước khác khoe chính phủ đã "cứu" doanh nghiệp bằng Tổng công ty Tài chính Tái thiết (RFC), Tổng công ty Cho vay Chủ nhà (HOLC) và các cơ quan khác từ năm 1932. Nhưng chính phủ không thể giúp tài chính cho doanh nghiệp mà không lấy của doanh nghiệp trước hoặc sau đó. Mọi khoản tiền của chính phủ đều từ thuế. Ngay cả "tín dụng chính phủ" được ca ngợi cũng dựa trên giả định rằng các khoản vay của nó cuối cùng sẽ được trả bằng tiền thu thuế.
 
 Khi chính phủ cho doanh nghiệp vay hay trợ cấp, điều nó làm là **đánh thuế doanh nghiệp tư nhân thành công để nuôi doanh nghiệp tư nhân không thành công**. Hazlitt thừa nhận trong một số hoàn cảnh khẩn cấp có thể có lý lẽ nghe được cho việc này, mà ông không xét ở đây. Nhưng về dài hạn, nhìn từ góc độ cả nước, nó không giống một đề xuất có lời. Và kinh nghiệm đã cho thấy đúng là không.
 
@@ -507,19 +522,27 @@ Tín dụng do chính phủ cấp hoặc bảo lãnh không làm tăng sản xu�
 
 Giả định thứ nhất, vốn thực cố định, đúng với một trang trại cụ thể, nhưng yếu hơn với máy kéo (có thể sản xuất thêm) và đặc biệt yếu trong suy thoái, khi ngân hàng không muốn cho ai vay và vốn bị bỏ không. Năm 1933, nhiều trang trại và nhà đang bị tịch biên không phải vì người vay kém mà vì cả hệ thống tín dụng đóng băng; lúc đó tín dụng chính phủ không lấy vốn từ A nào cả.
 
-Giả định thứ hai quan trọng hơn. Joseph Stiglitz và Andrew Weiss (1981) chỉ ra rằng vì người cho vay không quan sát được chất lượng người vay, thị trường có thể từ chối cả những người vay tốt chỉ vì họ không có tài sản bảo đảm hay lịch sử tín dụng, ngay cả khi không có can thiệp. Chính câu "tín dụng là thứ một người đã có" của Hazlitt cho thấy vấn đề: nếu tín dụng gắn với tài sản và thành tích có sẵn, người nghèo nhưng giỏi bị loại khỏi thị trường không phải vì kém mà vì nghèo. Khi đó B không nhất thiết là người kém hơn A. Kinh nghiệm tín dụng vi mô (microfinance) cho thấy người nghèo không có tài sản bảo đảm vẫn có thể trả nợ với tỷ lệ cao nếu thiết kế khoản vay phù hợp; dù các thử nghiệm ngẫu nhiên sau này cho thấy tác động lên thu nhập thường khiêm tốn hơn kỳ vọng, chúng không ủng hộ ý rằng người bị ngân hàng từ chối là người "rủi ro tệ" như Hazlitt mặc định.
+Giả định thứ hai quan trọng hơn. Joseph Stiglitz và Andrew Weiss (1981) chỉ ra rằng vì người cho vay không quan sát được chất lượng người vay, thị trường có thể từ chối cả những người vay tốt chỉ vì họ không có tài sản bảo đảm hay lịch sử tín dụng, ngay cả khi không có can thiệp. Chính câu "tín dụng là thứ một người đã có" của Hazlitt cho thấy vấn đề: nếu tín dụng gắn với tài sản và thành tích có sẵn, người nghèo nhưng giỏi bị loại khỏi thị trường không phải vì kém mà vì nghèo. Khi đó B không nhất thiết là người kém hơn A.
+
+Kinh nghiệm tín dụng vi mô (microfinance) cho thấy người nghèo không có tài sản bảo đảm vẫn có thể trả nợ với tỷ lệ cao nếu thiết kế khoản vay phù hợp; dù các thử nghiệm ngẫu nhiên sau này cho thấy tác động lên thu nhập thường khiêm tốn hơn kỳ vọng, chúng không ủng hộ ý rằng người bị ngân hàng từ chối là người "rủi ro tệ" như Hazlitt mặc định.
 
 ### Ví dụ "kinh nghiệm đã cho thấy" cứu doanh nghiệp không có lời có cả bằng chứng ủng hộ lẫn phản bác
 
-Hazlitt kết bằng câu "kinh nghiệm đã cho thấy" mà không nêu dữ liệu, và chọn đúng RFC và HOLC làm đích. HOLC là một trường hợp khó cho ông: nó mua lại khoảng một triệu khoản thế chấp sắp bị tịch biên trong ba năm, và khi giải thể năm 1951 được ghi nhận gần như hoà vốn, thậm chí có lãi nhỏ, trong khi giúp nhiều gia đình giữ được nhà giữa lúc thị trường tín dụng tê liệt. Nhiều chương trình cứu trợ tài chính năm 2008–2009 ở Mỹ cũng thu hồi phần lớn hoặc toàn bộ vốn. Đây là loại "hoàn cảnh khẩn cấp" mà Hazlitt tự để ngỏ. Ngược lại, lịch sử cũng đầy ví dụ ủng hộ ông: các doanh nghiệp được bảo lãnh vay của chính phủ rồi phá sản, các ngân hàng phát triển của nhà nước chồng chất nợ xấu, và các định chế nhà ở được chính phủ bảo lãnh ngầm ở Mỹ phải được cứu năm 2008. Kết luận cân bằng: tín dụng của chính phủ như một chính sách thường xuyên để thay người chọn dự án có thành tích kém; như công cụ khẩn cấp ngắn hạn khi thị trường tín dụng tê liệt thì bằng chứng tốt hơn Hazlitt thừa nhận.
+Hazlitt kết bằng câu "kinh nghiệm đã cho thấy" mà không nêu dữ liệu, và chọn đúng RFC và HOLC làm đích. HOLC là một trường hợp khó cho ông: nó mua lại khoảng một triệu khoản thế chấp sắp bị tịch biên trong ba năm, và khi giải thể năm 1951 được ghi nhận gần như hoà vốn, thậm chí có lãi nhỏ, trong khi giúp nhiều gia đình giữ được nhà giữa lúc thị trường tín dụng tê liệt. Nhiều chương trình cứu trợ tài chính năm 2008–2009 ở Mỹ cũng thu hồi phần lớn hoặc toàn bộ vốn. Đây là loại "hoàn cảnh khẩn cấp" mà Hazlitt tự để ngỏ.
+
+Ngược lại, lịch sử cũng đầy ví dụ ủng hộ ông: các doanh nghiệp được bảo lãnh vay của chính phủ rồi phá sản, các ngân hàng phát triển của nhà nước chồng chất nợ xấu, và các định chế nhà ở được chính phủ bảo lãnh ngầm ở Mỹ phải được cứu năm 2008. Kết luận cân bằng: tín dụng của chính phủ như một chính sách thường xuyên để thay người chọn dự án có thành tích kém; như công cụ khẩn cấp ngắn hạn khi thị trường tín dụng tê liệt thì bằng chứng tốt hơn Hazlitt thừa nhận.
 
 ### Hazlitt lý tưởng hoá người cho vay tư nhân; thực tế có cùng vấn đề "tiền của người khác"
 
-Phần so sánh người cho vay tư nhân "được thị trường chọn lọc" với quan chức "biết trả lời câu hỏi giả định một cách giả định" là đoạn châm biếm sắc nhất của chương, nhưng nó bỏ qua rằng người cho vay tư nhân hiện đại phần lớn cũng là người làm thuê dùng tiền của người khác (người gửi tiền, cổ đông). Khi có bảo hiểm tiền gửi và kỳ vọng được nhà nước cứu, ngân hàng tư nhân cũng có động cơ chấp nhận rủi ro quá mức, như khủng hoảng 2008 cho thấy. Chính Hazlitt đã viết trong ngoặc rằng ngân hàng "phải tự bù hoặc bị loại khỏi ngành"; ngày nay điều kiện đó thường không còn đúng với ngân hàng lớn. Bài học của chương vì vậy rộng hơn chính ông nói: vấn đề không nằm ở "chính phủ hay tư nhân" mà ở **người quyết định có chịu hậu quả của quyết định hay không**.
+Phần so sánh người cho vay tư nhân "được thị trường chọn lọc" với quan chức "biết trả lời câu hỏi giả định một cách giả định" là đoạn châm biếm sắc nhất của chương, nhưng nó bỏ qua rằng người cho vay tư nhân hiện đại phần lớn cũng là người làm thuê dùng tiền của người khác (người gửi tiền, cổ đông).
+
+Khi có bảo hiểm tiền gửi và kỳ vọng được nhà nước cứu, ngân hàng tư nhân cũng có động cơ chấp nhận rủi ro quá mức, như khủng hoảng 2008 cho thấy. Chính Hazlitt đã viết trong ngoặc rằng ngân hàng "phải tự bù hoặc bị loại khỏi ngành"; ngày nay điều kiện đó thường không còn đúng với ngân hàng lớn. Bài học của chương vì vậy rộng hơn chính ông nói: vấn đề không nằm ở "chính phủ hay tư nhân" mà ở **người quyết định có chịu hậu quả của quyết định hay không**.
 
 ### Phần về "rủi ro quá lớn cho tư nhân" dự báo chính xác các vấn đề kinh tế chính trị
 
-Danh sách tác hại (thiên vị, hối lộ, bê bối, đổ lỗi, và áp lực "nếu nhà nước chịu rủi ro thì sao không lấy lợi nhuận") đọc như một mô tả trước về kinh tế học lựa chọn công và về "tư nhân hoá lợi nhuận, xã hội hoá thua lỗ". Câu hỏi của ông về sự công bằng (vì sao người nộp thuế chịu rủi ro mà nhà tư bản giữ lợi nhuận) cũng là câu hỏi mà các cuộc cứu trợ ngân hàng sau này gặp phải, và là lý do nhiều chương trình hiện đại đòi nhà nước nhận cổ phần hoặc chia lợi nhuận khi cứu doanh nghiệp. Ở các nền kinh tế có nhiều tín dụng chỉ định cho doanh nghiệp nhà nước, kể cả Việt Nam, những vụ đổ vỡ của các tập đoàn được ưu tiên vốn là minh hoạ định tính cho đúng chuỗi tác hại này.
+Danh sách tác hại (thiên vị, hối lộ, bê bối, đổ lỗi, và áp lực "nếu nhà nước chịu rủi ro thì sao không lấy lợi nhuận") đọc như một mô tả trước về kinh tế học lựa chọn công và về "tư nhân hoá lợi nhuận, xã hội hoá thua lỗ". Câu hỏi của ông về sự công bằng (vì sao người nộp thuế chịu rủi ro mà nhà tư bản giữ lợi nhuận) cũng là câu hỏi mà các cuộc cứu trợ ngân hàng sau này gặp phải, và là lý do nhiều chương trình hiện đại đòi nhà nước nhận cổ phần hoặc chia lợi nhuận khi cứu doanh nghiệp.
+
+Ở các nền kinh tế có nhiều tín dụng chỉ định cho doanh nghiệp nhà nước, kể cả Việt Nam, những vụ đổ vỡ của các tập đoàn được ưu tiên vốn là minh hoạ định tính cho đúng chuỗi tác hại này.
 
 ### Vận dụng: trước khi vay, cho vay hay đầu tư theo một chương trình ưu đãi, hãy hỏi vốn này lẽ ra đi đâu và ai chịu thiệt nếu thất bại
 
@@ -528,3 +551,152 @@ Danh sách tác hại (thiên vị, hối lộ, bê bối, đổ lỗi, và áp 
 - **Với nhà đầu tư.** Doanh nghiệp sống nhờ tín dụng ưu đãi hoặc bảo lãnh của nhà nước có rủi ro kép: hiệu quả thật có thể thấp hơn báo cáo, và nguồn vốn có thể dừng khi chính sách đổi. Ngược lại, một doanh nghiệp tốt trong ngành bị tín dụng ưu đãi tràn vào có thể bị đối thủ yếu nhưng được trợ vốn đẩy giá đầu vào lên, giành mất tài sản (như anh A mất khu đất). Hãy xem trong ngành có bao nhiêu "B" đang được nuôi bằng vốn rẻ.
 - **Đọc tin chính sách.** Khi một gói tín dụng được công bố ("gói X nghìn tỷ đồng cho nhà ở xã hội, cho nông nghiệp công nghệ cao, cho doanh nghiệp nhỏ"), thay vì chỉ hỏi "ai được vay", hãy hỏi thêm: tiền từ đâu, ai chọn người vay theo tiêu chuẩn nào, tỷ lệ nợ xấu dự kiến bao nhiêu và ai gánh, và những người vay nào ngoài chương trình sẽ phải trả lãi cao hơn hoặc mua tài sản đắt hơn. Ở Việt Nam, có thể phân biệt tín dụng chính sách cho hộ nghèo (khoản nhỏ, mục tiêu xã hội rõ, được công khai là trợ giúp) với tín dụng chỉ định quy mô lớn cho doanh nghiệp; chương này nói mạnh nhất về loại thứ hai.
 - **Nghề nghiệp.** Người làm thẩm định tín dụng, đầu tư hay chính sách công nên luyện thói quen của Hazlitt: luôn vẽ ra người thứ hai, người A bị quên, trước khi kết luận một chương trình "tạo ra" sản lượng hay việc làm.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (thêm tín dụng là thêm nợ, lý lẽ "tự thanh toán" và ai mạo hiểm tiền của ai, vốn thực và câu hỏi A hay B có trang trại, rủi ro "quá lớn cho tư nhân" và vì sao tư nhân ít sai hơn, chính phủ không cho doanh nghiệp gì mà không lấy của doanh nghiệp, cùng phần Đánh giá), mỗi nhánh ghi lập luận, ví dụ và con số then chốt của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: tín dụng của chính phủ không tạo thêm vốn mà chuyển vốn thực có hạn từ người vay giỏi A sang người vay kém B, nên làm giảm sản xuất`"]
+  n1["`Mục 1–3 — Thêm tín dụng cho nông dân là thêm nợ`"]
+  n0 --- n1
+  n2["`#quot;Khuyến khích#quot; của chính phủ đôi khi đáng sợ ngang sự thù địch: cấp thẳng tín dụng hoặc bảo lãnh khoản vay`"]
+  n1 --- n2
+  n3["`Giả định tín dụng không gây lạm phát, phần lạm phát để lại Chương 22`"]
+  n1 --- n3
+  n4["`Quốc hội luôn tìm #quot;khoảng trống#quot; mới: thiếu tín dụng #quot;trung hạn#quot;, lãi suất quá cao, chỉ nông dân giàu được vay`"]
+  n1 --- n4
+  n5["`Hai sự thiển cận: chỉ nhìn từ phía nông dân đi vay, chỉ nghĩ tới nửa đầu của giao dịch`"]
+  n1 --- n5
+  n6["`Mọi tín dụng là nợ: #quot;tăng tín dụng#quot; chỉ là tên khác của #quot;tăng gánh nặng nợ#quot;`"]
+  n1 --- n6
+  n7["`Hai loại vay của chính phủ: vay để giữ hàng khỏi thị trường (để lại Chương 16) và vay để cấp vốn lập nghiệp`"]
+  n1 --- n7
+  n8["`Mục 4–5 — Lý lẽ #quot;tự thanh toán#quot; và ai mạo hiểm tiền của ai`"]
+  n0 --- n8
+  n9["`Lý lẽ ủng hộ: mua trang trại cho gia đình nghèo thay vì trợ cấp cứu tế, cho nông dân vay mua máy kéo`"]
+  n8 --- n9
+  n10["`Khoản vay #quot;tự thanh toán#quot; bằng sản lượng tăng thêm nên tốn của người nộp thuế #quot;ít hơn không#quot;`"]
+  n8 --- n10
+  n11["`Tín dụng tư nhân đã làm việc này hằng ngày: chỉ có 1/2 hoặc 1/3 giá thì vay phần còn lại, thế chấp trang trại`"]
+  n8 --- n11
+  n12["`Mua máy kéo trả trước 1/3 giá, phần còn lại trả góp từ thu nhập chiếc máy kéo tạo ra`"]
+  n8 --- n12
+  n13["`Người cho vay tư nhân mạo hiểm tiền của mình nên điều tra tài sản bảo đảm, năng lực và sự trung thực`"]
+  n8 --- n13
+  n14["`Chính phủ dùng cùng tiêu chuẩn thì thừa, toàn bộ lý do tham gia là cho vay người tư nhân không cho vay`"]
+  n8 --- n14
+  n15["`Người biện hộ thừa nhận tỷ lệ mất vốn cao hơn nhưng cho rằng sản lượng tăng thêm sẽ bù dư`"]
+  n8 --- n15
+  n16["`Mục 6–7 — Thứ được cho vay là vốn thực: A hay B có trang trại`"]
+  n0 --- n16
+  n17["`Tiền chỉ là phương tiện trao đổi, thứ thật sự được cho vay là chính trang trại, chính máy kéo`"]
+  n16 --- n17
+  n18["`Số trang trại có hạn: trang trại cho A vay thì không thể cho B vay`"]
+  n16 --- n18
+  n19["`A: nông dân giỏi, trung thực, đã để dành 1/4 giá trang trại, vay 3/4 của ngân hàng hoặc hàng xóm`"]
+  n16 --- n19
+  n20["`B: không tiết kiệm, không thành tích, có thể đang nhận trợ cấp cứu tế, tư nhân không cho vay`"]
+  n16 --- n20
+  n21["`Tín dụng là thứ người vay đã có sẵn: tài sản bán được, hoặc phẩm chất và thành tích quá khứ`"]
+  n16 --- n21
+  n22["`Ngân hàng không cho không gì, chỉ đổi tài sản lỏng hơn (tiền) lấy lời hứa trả nợ có bảo đảm`"]
+  n16 --- n22
+  n23["`Người được chọn theo tiêu chuẩn chính phủ là rủi ro tệ hơn: thất bại nhiều hơn, làm phí nguồn lực hơn`"]
+  n16 --- n23
+  n24["`A bị đẩy ra theo ba cách: lãi suất tăng, giá trang trại tăng, quanh vùng hết trang trại để mua`"]
+  n16 --- n24
+  n25["`Kết quả ròng: tín dụng chính phủ làm giảm chứ không tăng lượng của cải cộng đồng làm ra`"]
+  n16 --- n25
+  n26["`Ví dụ của người tổng hợp: A làm ra 600 triệu đồng mỗi năm, B chỉ 200 triệu, xã hội mất 400 triệu mỗi năm`"]
+  n16 --- n26
+  n27["`Mục 8–9 — Rủi ro #quot;quá lớn cho tư nhân#quot; và vì sao tư nhân ít sai hơn`"]
+  n0 --- n27
+  n28["`Chính phủ gánh rủi ro #quot;quá lớn cho tư nhân#quot; là để quan chức mạo hiểm tiền thuế theo cách không ai dám với tiền mình`"]
+  n27 --- n28
+  n29["`Tác hại kèm theo: thiên vị, cho vay đổi hối lộ, bê bối, đổ lỗi lẫn nhau`"]
+  n27 --- n29
+  n30["`Tăng đòi hỏi chủ nghĩa xã hội: nhà nước chịu rủi ro thì sao không lấy luôn lợi nhuận, như vay #quot;không truy đòi#quot; cho nông dân`"]
+  n27 --- n30
+  n31["`Hệ quả chính: phí vốn và giảm sản xuất, vì vốn thực có hạn, khác tiền in ra từ máy in`"]
+  n27 --- n31
+  n32["`Tư nhân chỉ cho vay khi kỳ vọng được trả cả lãi, tức người vay làm ra thứ thị trường thực sự cần`"]
+  n27 --- n32
+  n33["`Chính phủ cho vay để #quot;tạo việc làm#quot;: việc càng kém hiệu quả lại càng được đánh giá cao`"]
+  n27 --- n33
+  n34["`Thị trường chọn lọc người cho vay: sai nặng thì hết tiền, #quot;kẻ thích nghi nhất tồn tại#quot;`"]
+  n27 --- n34
+  n35["`Quan chức cho vay là người qua kỳ thi công chức, giỏi giải thích vì sao khoản vay thất bại không phải lỗi mình`"]
+  n27 --- n35
+  n36["`Thấy B quên A: thấy dự án được cấp vốn, quên những dự án vì thế mà bị từ chối vốn`"]
+  n27 --- n36
+  n37["`Mục 10 — Chính phủ không cho doanh nghiệp gì mà không lấy của doanh nghiệp`"]
+  n0 --- n37
+  n38["`Người theo New Deal khoe đã #quot;cứu#quot; doanh nghiệp bằng RFC, HOLC và các cơ quan khác từ năm 1932`"]
+  n37 --- n38
+  n39["`Mọi khoản tiền của chính phủ đều từ thuế, #quot;tín dụng chính phủ#quot; cuối cùng cũng trả bằng tiền thuế`"]
+  n37 --- n39
+  n40["`Cho vay và trợ cấp là đánh thuế doanh nghiệp tư nhân thành công để nuôi doanh nghiệp không thành công`"]
+  n37 --- n40
+  n41["`Khẩn cấp có thể có lý lẽ, nhưng về dài hạn, nhìn cả nước, không có lời và kinh nghiệm đã cho thấy vậy`"]
+  n37 --- n41
+  n42["`Đánh giá — Điểm mạnh và giới hạn của lập luận`"]
+  n0 --- n42
+  n43["`Câu hỏi #quot;vốn có hạn nên ở trong tay ai#quot; khớp nghiên cứu phân bổ sai vốn và doanh nghiệp #quot;xác sống#quot; ở Nhật thập niên 1990`"]
+  n42 --- n43
+  n44["`Giả định vốn thực cố định yếu trong suy thoái: năm 1933 cả hệ thống tín dụng đóng băng`"]
+  n42 --- n44
+  n45["`Stiglitz–Weiss (1981): thị trường có thể từ chối người vay tốt vì thiếu tài sản bảo đảm, B không nhất thiết kém hơn A`"]
+  n42 --- n45
+  n46["`HOLC mua lại khoảng một triệu khoản thế chấp, giải thể năm 1951 gần như hòa vốn`"]
+  n42 --- n46
+  n47["`Người cho vay tư nhân hiện đại cũng dùng tiền người khác, có bảo hiểm tiền gửi và kỳ vọng được cứu như năm 2008`"]
+  n42 --- n47
+  n48["`Vận dụng: thẩm định như vay lãi suất thị trường, chỉ có lãi khi được ưu đãi là dự án của B`"]
+  n42 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Tín dụng chính phủ không tạo thêm vốn thực mà chuyển nó từ A sang B`"]
+  n49 --- n50
+  n51["`Luôn hỏi: vốn này lẽ ra vào tay ai, và người đó dùng nó tốt hơn hay kém hơn`"]
+  n49 --- n51
+  n52["`Vấn đề cốt lõi là người quyết định cho vay có chịu hậu quả của quyết định hay không`"]
+  n49 --- n52
+  n53["`Ngụy biện: thấy lợi ích trước mắt của một nhóm, quên thiệt hại ròng dài hạn của cả cộng đồng`"]
+  n49 --- n53
+  class n0 root
+  class n1,n8,n16,n27,n37,n42,n49 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 6 "Credit Diverts Production". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 và 5 xét chi tiêu của chính phủ trả bằng thuế: nó chỉ tạo ra một thứ thay cho thứ khác, và thuế còn làm giảm sản xuất.
+
+Chương 6 xét một hình thức "giúp đỡ" tinh vi hơn: chính phủ không chi thẳng mà **cho vay** hoặc **bảo lãnh khoản vay** cho doanh nghiệp, nhất là cho nông dân. Hazlitt dùng lại cách nhìn của Chương 5 ("B được thấy, A bị quên"): người được chính phủ cho vay là cái thấy được; người lẽ ra đã được vay vốn đó và dùng nó hiệu quả hơn là cái không thấy.
+
+Chương này gác lại hai vấn đề cho sau: tín dụng lạm phát (Chương 22, ảo ảnh lạm phát) và các khoản vay để nông dân giữ hàng khỏi thị trường (Chương 16, "ổn định" giá hàng hoá).
+
+## Lưu ý
+
+- Bối cảnh: từ 1916 Quốc hội Mỹ đã lập liên tiếp các tổ chức tín dụng nông nghiệp: Ngân hàng Đất đai Liên bang (Federal Land Banks, 1916, cho vay dài hạn thế chấp đất), Ngân hàng Tín dụng Trung hạn Liên bang (Federal Intermediate Credit Banks, 1923, chính là loại tín dụng "trung hạn" Hazlitt chế giễu), Cơ quan Quản lý Tín dụng Nông nghiệp (Farm Credit Administration, 1933), Tổng công ty Tín dụng Hàng hoá (Commodity Credit Corporation, 1933, cho vay "không truy đòi" để nông dân giữ hàng), và Cơ quan An sinh Nông trại (Farm Security Administration, 1937), cho tá điền và nông dân nghèo vay để mua đất, mua la, mua máy kéo.
+
+  Tổng công ty Tài chính Tái thiết (Reconstruction Finance Corporation, RFC) lập năm 1932 dưới thời Hoover để cho ngân hàng, đường sắt, doanh nghiệp vay; Tổng công ty Cho vay Chủ nhà (Home Owners' Loan Corporation, HOLC) lập năm 1933 để mua lại và tái cơ cấu các khoản thế chấp nhà sắp bị tịch biên.
+- "Khoản vay không truy đòi" (non-recourse loan): nông dân vay với hàng hoá làm tài sản bảo đảm; nếu giá thị trường xuống thấp hơn khoản vay, nông dân giao hàng cho chính phủ và không phải trả gì thêm, tức người nộp thuế chịu rủi ro còn nông dân giữ phần lãi.
+- Hazlitt giả định tín dụng đang bàn **không gây lạm phát** và tổng vốn thực của nền kinh tế là cố định ở mỗi thời điểm; trong suy thoái có máy móc, đất đai bỏ không, giả định này yếu đi (xem phần Đánh giá).
+- Trong bản gốc có chỗ "tax payers' money" viết tách (ở chỗ xuống dòng, mục 2); ở đây hiểu là "taxpayers' money".
+- Trong đoạn "There is a strange idea abroad", bản gốc viết khi ngân hàng nhầm thì "values which were supposed to be produced by the lender are not produced" (giá trị lẽ ra *người cho vay* tạo ra); theo mạch văn, người làm ra giá trị là người vay, nên có lẽ đây là chỗ viết nhầm "lender" thay cho "borrower"; bản tổng hợp hiểu theo nghĩa người vay.
+- Mọi câu trích là bản dịch của người tổng hợp.

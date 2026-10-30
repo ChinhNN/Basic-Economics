@@ -1,11 +1,16 @@
 # Chương 22 — Ảo ảnh lạm phát (The Mirage of Inflation)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 22 "The Mirage of Inflation". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Suốt các chương trước, Hazlitt nhiều lần viết "với điều kiện không có lạm phát" và hẹn bàn sau: ở Chương 4 (công trình công cộng nghĩa là thuế), Chương 6 (tín dụng làm lệch hướng sản xuất), Chương 17 (ấn định giá), và ở Chương 20, nơi ông nói tăng lương chỉ chuyển thành tăng giá "nếu chính sách tiền tệ và tín dụng cho phép". Chương 22 thực hiện lời hẹn ấy: nó bàn hậu quả chung của lạm phát, rồi quay lại vá lỗ hổng của Chương 4 (công trình công cộng tài trợ bằng thâm hụt và in tiền). "Bài học" (C1) áp dụng trọn vẹn: lạm phát có lợi trước mắt cho các nhóm nhận tiền mới trước, trả giá bằng các nhóm nhận sau, và trong dài hạn gây hại cho cả cộng đồng. Chương sau (23, "Cuộc tấn công vào tiết kiệm") tiếp tục phê phán những học thuyết tin rằng chi tiêu, chứ không phải tiết kiệm, tạo ra thịnh vượng.
-**Ý chính:** Hazlitt muốn chứng minh rằng lạm phát không tạo ra của cải mà chỉ phân phối lại nó một cách bất công và che mắt mọi người. Ông bắt đầu từ ngụy biện cổ nhất, nhầm tiền với của cải (dẫn Adam Smith), rồi đi qua ba loại người ủng hộ lạm phát: người ngây thơ muốn in tiền chia cho mọi người, người muốn in vừa đủ để lấp một "khoảng hụt" sức mua (như phong trào "tín dụng xã hội"), và người hiểu rằng lạm phát làm tăng giá và muốn chính điều đó. Ông bác cả thuyết số lượng tiền tệ máy móc, và mô tả lạm phát lan qua các nhóm A, B, C, D: khi thu nhập nhóm A đã tăng 30% thì giá chưa tăng; khi thu nhập nhóm D chưa tăng gì thì giá họ phải trả đã tăng 20%; dù cuối cùng mọi thứ cùng tăng 25%, khoản thiệt của nhóm D trong thời kỳ chuyển tiếp không bao giờ được bù. Lạm phát làm méo cơ cấu sản xuất, không thể dừng êm hay dừng đúng điểm định trước, và là cách giảm lương thực tế bằng ảo giác (như chỉnh đồng hồ sớm một giờ), điều mà các công đoàn lớn không còn bị lừa. Cuối cùng, công trình công cộng tài trợ bằng nợ hay in tiền chỉ trông như "được không mất gì": nợ phải trả bằng thuế cao hơn sau này, còn lạm phát là loại thuế tồi tệ nhất, đánh vào cả tiết kiệm và bảo hiểm nhân thọ, nặng nhất lên người nghèo, và gieo mầm cho chủ nghĩa toàn trị.
+## Ý chính
 
-> **Lưu ý:** (1) **"Tín dụng xã hội"** (Social Credit) là học thuyết của kỹ sư người Anh C. H. Douglas (thường gọi là Major Douglas, không phải Paul Douglas ở Chương 20) thập niên 1920–1930. "Định lý A + B" của ông cho rằng tổng tiền doanh nghiệp trả cho cá nhân (khoản A: lương, cổ tức) luôn nhỏ hơn giá hàng (A + B, với B là khoản trả cho doanh nghiệp khác: nguyên liệu, khấu hao), nên phải phát thêm tiền để lấp khoản B. Hazlitt chỉ ra lỗi đếm trùng: một vế phương trình đếm một khoản một lần, vế kia đếm cùng khoản ấy nhiều lần. Người tổng hợp diễn giải thêm: khoản B cũng đã từng là thu nhập của ai đó ở khâu trước. "Mặc đồng phục xanh lá" chỉ phong trào áo xanh (Green Shirts) của Đảng Tín dụng Xã hội ở Anh. Ở Canada, một đảng Tín dụng Xã hội từng cầm quyền tỉnh Alberta từ 1935. (2) **Thuyết số lượng tiền tệ** "máy móc" mà Hazlitt phê phán là cách hiểu cứng nhắc phương trình trao đổi (lượng tiền × vòng quay = giá trị hàng giao dịch) của Irving Fisher (1911). (3) **"Số nhân"** (multiplier) là khái niệm của Richard Kahn (1931) và Keynes (*Lý thuyết tổng quát*, 1936): mỗi đồng chi tiêu chính phủ làm thu nhập quốc dân tăng nhiều hơn một đồng. Đề xuất "dùng lạm phát giảm lương thực tế vì cắt lương trực tiếp là bất khả về chính trị" là lập luận gắn với Keynes. (4) **Chỉnh đồng hồ sớm một giờ**: Mỹ áp dụng "giờ chiến tranh" (War Time, một dạng giờ mùa hè cả năm) từ tháng 2/1942 đến tháng 9/1945. (5) **Đồng tiền không theo bản vị vàng lên xuống theo thắng bại**: ví dụ lịch sử quen thuộc là đồng "greenback" của Mỹ trong Nội chiến (1861–1865), giá vàng tính bằng greenback dao động theo tin chiến trường. (6) Sách ra năm 1946, đúng lúc Mỹ chuẩn bị gỡ kiểm soát giá thời chiến; trong hai năm sau đó giá tiêu dùng Mỹ tăng mạnh, nên lạm phát hậu chiến là chủ đề thời sự với người đọc ấn bản 1946 và 1952. (7) Câu "lạm phát là thuốc phiện của nhân dân" là chơi chữ câu nổi tiếng của Marx về tôn giáo. Chương chia sáu mục (đánh số 2 đến 6 trong bản gốc, mục đầu không đánh số). Mọi câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng lạm phát không tạo ra của cải mà chỉ phân phối lại nó một cách bất công và che mắt mọi người.
+
+Ông bắt đầu từ ngụy biện cổ nhất, nhầm tiền với của cải (dẫn Adam Smith), rồi đi qua ba loại người ủng hộ lạm phát: người ngây thơ muốn in tiền chia cho mọi người, người muốn in vừa đủ để lấp một "khoảng hụt" sức mua (như phong trào "tín dụng xã hội"), và người hiểu rằng lạm phát làm tăng giá và muốn chính điều đó.
+
+Ông bác cả thuyết số lượng tiền tệ máy móc, và mô tả lạm phát lan qua các nhóm A, B, C, D: khi thu nhập nhóm A đã tăng 30% thì giá chưa tăng; khi thu nhập nhóm D chưa tăng gì thì giá họ phải trả đã tăng 20%; dù cuối cùng mọi thứ cùng tăng 25%, khoản thiệt của nhóm D trong thời kỳ chuyển tiếp không bao giờ được bù.
+
+Lạm phát làm méo cơ cấu sản xuất, không thể dừng êm hay dừng đúng điểm định trước, và là cách giảm lương thực tế bằng ảo giác (như chỉnh đồng hồ sớm một giờ), điều mà các công đoàn lớn không còn bị lừa.
+
+Cuối cùng, công trình công cộng tài trợ bằng nợ hay in tiền chỉ trông như "được không mất gì": nợ phải trả bằng thuế cao hơn sau này, còn lạm phát là loại thuế tồi tệ nhất, đánh vào cả tiết kiệm và bảo hiểm nhân thọ, nặng nhất lên người nghèo, và gieo mầm cho chủ nghĩa toàn trị.
 
 ## Sơ đồ
 
@@ -472,7 +477,9 @@ Nếu lạm phát dừng sau vài năm, kết quả cuối có thể là thu nh�
 
 Ghi chú của người tổng hợp: con số 30% này lớn hơn mức giá tăng 20% trong bảng và mức 25% cuối cùng; nguyên văn ghi đúng như vậy ("though it had to pay 30 per cent more"), Hazlitt không giải thích chênh lệch, có thể hiểu là giá có lúc vượt quá mức ổn định sau cùng.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, không phải số liệu thống kê). Trong một đợt bơm tín dụng mạnh vào bất động sản, nhóm A là chủ đầu tư dự án và người vay được vốn sớm: họ mua đất khi giá còn thấp. Nhóm B là người bán vật liệu, môi giới, nhà thầu: doanh thu và giá dịch vụ tăng ngay sau. Nhóm C là người làm công trong các ngành liên quan: được tăng lương sau một vài năm. Nhóm D là người làm công ăn lương cố định ở các ngành không liên quan, người về hưu, người gửi tiết kiệm: thu nhập tiền gần như đứng yên trong khi giá nhà, giá thuê và nhiều giá khác đã tăng. Khi giá cả ổn định lại, nhóm D có thể được tăng lương bù, nhưng mấy năm họ trả giá cao với thu nhập cũ thì không ai bù.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, không phải số liệu thống kê). Trong một đợt bơm tín dụng mạnh vào bất động sản, nhóm A là chủ đầu tư dự án và người vay được vốn sớm: họ mua đất khi giá còn thấp. Nhóm B là người bán vật liệu, môi giới, nhà thầu: doanh thu và giá dịch vụ tăng ngay sau.
+
+Nhóm C là người làm công trong các ngành liên quan: được tăng lương sau một vài năm. Nhóm D là người làm công ăn lương cố định ở các ngành không liên quan, người về hưu, người gửi tiết kiệm: thu nhập tiền gần như đứng yên trong khi giá nhà, giá thuê và nhiều giá khác đã tăng. Khi giá cả ổn định lại, nhóm D có thể được tăng lương bù, nhưng mấy năm họ trả giá cao với thu nhập cũ thì không ai bù.
 
 ### 4. (Mục 3) Hậu quả dài hạn: méo cơ cấu, không dừng được, không kiểm soát được
 
@@ -480,7 +487,9 @@ Lạm phát vì thế chỉ là thêm một ví dụ của bài học trung tâm
 
 1. **Méo cơ cấu sản xuất.** Ngay cả lạm phát tương đối nhẹ cũng làm méo cơ cấu sản xuất, khiến một số ngành phình ra quá mức trên lưng các ngành khác. Đó là dùng sai và lãng phí vốn. Khi lạm phát sụp hay bị dừng, vốn đầu tư sai hướng, dù dưới dạng máy móc, nhà máy hay cao ốc văn phòng, không còn sinh lợi thoả đáng và mất phần lớn giá trị.
 2. **Không thể dừng êm, không thể dừng đúng điểm.** Không thể đưa lạm phát tới điểm dừng êm ái để tránh suy thoái sau đó. Thậm chí không thể dừng lạm phát, một khi đã bắt đầu, ở một điểm định trước hay khi giá đã đạt mức thoả thuận trước, vì cả lực chính trị lẫn lực kinh tế đều đã vượt tầm kiểm soát. Không thể đưa ra lý lẽ cho việc dùng lạm phát nâng giá 25% mà không có người cho rằng lý lẽ ấy tốt gấp đôi cho mức 50%, và người khác thêm rằng tốt gấp bốn cho mức 100%. Các nhóm gây áp lực đã hưởng lợi từ lạm phát sẽ đòi nó tiếp tục.
-3. **Không thể kiểm soát giá trị đồng tiền.** Quan hệ nhân quả không bao giờ là máy móc. Không thể nói trước tăng lượng tiền 100% thì giá trị đơn vị tiền giảm 50%. Giá trị tiền phụ thuộc đánh giá chủ quan của người giữ nó, và đánh giá ấy không chỉ phụ thuộc lượng tiền mỗi người giữ mà cả **chất lượng** của tiền. Trong chiến tranh, đồng tiền của một nước không theo bản vị vàng sẽ lên giá trên thị trường ngoại hối khi thắng và xuống giá khi thua, bất kể lượng tiền thay đổi thế nào. Đánh giá hiện tại thường phụ thuộc điều người ta kỳ vọng về lượng tiền trong tương lai. Và như với hàng hoá trên sàn đầu cơ, đánh giá của mỗi người về tiền chịu ảnh hưởng không chỉ của điều họ nghĩ giá trị của nó là bao nhiêu, mà của điều họ nghĩ người khác sẽ đánh giá nó thế nào.
+3. **Không thể kiểm soát giá trị đồng tiền.** Quan hệ nhân quả không bao giờ là máy móc. Không thể nói trước tăng lượng tiền 100% thì giá trị đơn vị tiền giảm 50%. Giá trị tiền phụ thuộc đánh giá chủ quan của người giữ nó, và đánh giá ấy không chỉ phụ thuộc lượng tiền mỗi người giữ mà cả **chất lượng** của tiền.
+
+   Trong chiến tranh, đồng tiền của một nước không theo bản vị vàng sẽ lên giá trên thị trường ngoại hối khi thắng và xuống giá khi thua, bất kể lượng tiền thay đổi thế nào. Đánh giá hiện tại thường phụ thuộc điều người ta kỳ vọng về lượng tiền trong tương lai. Và như với hàng hoá trên sàn đầu cơ, đánh giá của mỗi người về tiền chịu ảnh hưởng không chỉ của điều họ nghĩ giá trị của nó là bao nhiêu, mà của điều họ nghĩ người khác sẽ đánh giá nó thế nào.
 
 Tất cả giải thích vì sao, khi **siêu lạm phát** đã bắt đầu, giá trị đơn vị tiền rơi với tốc độ nhanh hơn nhiều tốc độ tăng lượng tiền (đang tăng hoặc có thể tăng). Đến giai đoạn đó, thảm hoạ gần như trọn vẹn và cả kế hoạch phá sản.
 
@@ -488,13 +497,17 @@ Tất cả giải thích vì sao, khi **siêu lạm phát** đã bắt đầu, g
 
 Vậy mà nhiệt tình với lạm phát không bao giờ tắt. Dường như không nước nào học được từ kinh nghiệm của nước khác và không thế hệ nào học được từ khổ đau của cha ông. Mỗi thế hệ, mỗi nước đuổi theo cùng một ảo ảnh, chộp cùng một "quả Biển Chết" (trái cây trong truyền thuyết, trông đẹp nhưng hoá tro bụi trong miệng). Bản chất của lạm phát là đẻ ra hàng nghìn ảo tưởng.
 
-Lập luận dai dẳng nhất thời Hazlitt cho lạm phát là nó sẽ "cho bánh xe công nghiệp quay", cứu ta khỏi những tổn thất không lấy lại được của đình trệ và nhàn rỗi, và đem lại "toàn dụng lao động". Ở dạng thô, lập luận này dựa trên sự nhầm lẫn cổ xưa giữa tiền và của cải thật. Nó giả định "sức mua" mới được tạo ra, và tác động của sức mua mới lan rộng thành những vòng ngày càng lớn như gợn sóng khi ném hòn đá xuống ao. Nhưng sức mua thật đối với hàng hoá chính là các hàng hoá khác. Nó không thể tăng lên thần kỳ chỉ bằng in thêm những mảnh giấy gọi là đô la. Về cơ bản, điều diễn ra trong nền kinh tế trao đổi là thứ A làm ra được đổi lấy thứ B làm ra. (Chú thích của Hazlitt dẫn John Stuart Mill, *Principles of Political Economy*, Quyển 3, Chương 14, đoạn 2; Alfred Marshall, *Principles of Economics*, Quyển VI, Chương XIII, mục 10; và bài của Benjamin M. Anderson bác bỏ việc Keynes công kích học thuyết "tổng cung tạo ra tổng cầu", in trong tuyển tập *Financing American Prosperity*.)
+Lập luận dai dẳng nhất thời Hazlitt cho lạm phát là nó sẽ "cho bánh xe công nghiệp quay", cứu ta khỏi những tổn thất không lấy lại được của đình trệ và nhàn rỗi, và đem lại "toàn dụng lao động". Ở dạng thô, lập luận này dựa trên sự nhầm lẫn cổ xưa giữa tiền và của cải thật. Nó giả định "sức mua" mới được tạo ra, và tác động của sức mua mới lan rộng thành những vòng ngày càng lớn như gợn sóng khi ném hòn đá xuống ao.
+
+Nhưng sức mua thật đối với hàng hoá chính là các hàng hoá khác. Nó không thể tăng lên thần kỳ chỉ bằng in thêm những mảnh giấy gọi là đô la. Về cơ bản, điều diễn ra trong nền kinh tế trao đổi là thứ A làm ra được đổi lấy thứ B làm ra. (Chú thích của Hazlitt dẫn John Stuart Mill, *Principles of Political Economy*, Quyển 3, Chương 14, đoạn 2; Alfred Marshall, *Principles of Economics*, Quyển VI, Chương XIII, mục 10; và bài của Benjamin M. Anderson bác bỏ việc Keynes công kích học thuyết "tổng cung tạo ra tổng cầu", in trong tuyển tập *Financing American Prosperity*.)
 
 Điều lạm phát thực sự làm là **thay đổi quan hệ giữa giá và chi phí**. Thay đổi quan trọng nhất nó nhắm tới là nâng giá hàng so với mức lương, để khôi phục lợi nhuận doanh nghiệp và khuyến khích sản xuất trở lại ở những chỗ có nguồn lực nhàn rỗi, bằng cách khôi phục một quan hệ giá–chi phí vận hành được.
 
 Hazlitt nhận xét: rõ ràng điều đó có thể làm trực tiếp và trung thực hơn bằng giảm lương. Nhưng những người ủng hộ lạm phát tinh vi hơn tin rằng việc này nay bất khả về chính trị. Đôi khi họ còn đi xa hơn và gọi mọi đề xuất, trong mọi hoàn cảnh, giảm trực tiếp một mức lương cụ thể để giảm thất nghiệp là "chống lao động". Nhưng nói thẳng ra, điều chính họ đề xuất là **lừa người lao động**: giảm lương thực tế (lương tính theo sức mua) bằng cách tăng giá.
 
-Điều họ quên là người lao động đã trở nên hiểu biết: các công đoàn lớn thuê các nhà kinh tế lao động biết về chỉ số giá, và người lao động không bị lừa. Vì vậy trong điều kiện hiện tại, chính sách này khó đạt cả mục tiêu kinh tế lẫn chính trị. Chính các công đoàn mạnh nhất, có mức lương nhiều khả năng cần điều chỉnh nhất, sẽ đòi tăng lương ít nhất bằng mức tăng của chỉ số giá sinh hoạt. Nếu họ thắng, quan hệ bất hợp lý giữa giá và các mức lương then chốt vẫn còn. Thực tế cơ cấu lương có thể còn méo hơn: khối lớn người lao động không có công đoàn, có mức lương vốn không lệch trước lạm phát (thậm chí có thể bị ép thấp quá mức vì công đoàn loại trừ người ngoài, xem Chương 19), sẽ bị phạt thêm bởi giá tăng trong thời kỳ chuyển tiếp.
+Điều họ quên là người lao động đã trở nên hiểu biết: các công đoàn lớn thuê các nhà kinh tế lao động biết về chỉ số giá, và người lao động không bị lừa. Vì vậy trong điều kiện hiện tại, chính sách này khó đạt cả mục tiêu kinh tế lẫn chính trị. Chính các công đoàn mạnh nhất, có mức lương nhiều khả năng cần điều chỉnh nhất, sẽ đòi tăng lương ít nhất bằng mức tăng của chỉ số giá sinh hoạt.
+
+Nếu họ thắng, quan hệ bất hợp lý giữa giá và các mức lương then chốt vẫn còn. Thực tế cơ cấu lương có thể còn méo hơn: khối lớn người lao động không có công đoàn, có mức lương vốn không lệch trước lạm phát (thậm chí có thể bị ép thấp quá mức vì công đoàn loại trừ người ngoài, xem Chương 19), sẽ bị phạt thêm bởi giá tăng trong thời kỳ chuyển tiếp.
 
 ### 6. (Mục 5) Lạm phát như ảo giác
 
@@ -647,7 +660,9 @@ Tăng lượng tiền không tạo ra của cải thật. Lạm phát chỉ phâ
 
 ### Mô tả đường đi của tiền mới là phần mạnh nhất và hiện đại nhất của chương
 
-Thay vì chấp nhận phương trình "gấp đôi tiền, gấp đôi giá", Hazlitt hỏi tiền mới đi vào nền kinh tế ở đâu và lan ra thế nào. Câu trả lời (nhóm A, B, C, D) cho thấy lạm phát không chỉ là chuyện mức giá chung mà là chuyện **phân phối lại**: ai đứng gần nguồn tiền mới được lợi, ai đứng xa thiệt. Ý này có từ Richard Cantillon thế kỷ 18 và được trường phái Áo phát triển, nhưng bị kinh tế học vĩ mô chính thống bỏ qua nhiều thập kỷ vì các mô hình dùng một "tác nhân đại diện". Gần đây các nghiên cứu về tác động phân phối của chính sách tiền tệ (ví dụ sau các đợt nới lỏng định lượng sau 2008, khi giá tài sản tài chính tăng mạnh trước tiền lương) đã đưa câu hỏi của Hazlitt trở lại trung tâm.
+Thay vì chấp nhận phương trình "gấp đôi tiền, gấp đôi giá", Hazlitt hỏi tiền mới đi vào nền kinh tế ở đâu và lan ra thế nào. Câu trả lời (nhóm A, B, C, D) cho thấy lạm phát không chỉ là chuyện mức giá chung mà là chuyện **phân phối lại**: ai đứng gần nguồn tiền mới được lợi, ai đứng xa thiệt.
+
+Ý này có từ Richard Cantillon thế kỷ 18 và được trường phái Áo phát triển, nhưng bị kinh tế học vĩ mô chính thống bỏ qua nhiều thập kỷ vì các mô hình dùng một "tác nhân đại diện". Gần đây các nghiên cứu về tác động phân phối của chính sách tiền tệ (ví dụ sau các đợt nới lỏng định lượng sau 2008, khi giá tài sản tài chính tăng mạnh trước tiền lương) đã đưa câu hỏi của Hazlitt trở lại trung tâm.
 
 Phê phán thuyết số lượng máy móc cũng đứng vững: các đợt siêu lạm phát lịch sử (Đức 1923, Hungary 1946, Zimbabwe 2008) đều cho thấy khi niềm tin sụp đổ, giá tăng nhanh hơn nhiều so với lượng tiền, vì người ta tiêu tiền càng nhanh càng tốt (vòng quay tăng vọt). Hazlitt nói đúng rằng kỳ vọng và "chất lượng" của tiền quyết định giá trị của nó.
 
@@ -670,3 +685,151 @@ Phần về nợ công thì đã được lịch sử ủng hộ đáng kể. C�
 - **Cảnh giác với ngành bùng nổ nhờ tiền dễ.** Hazlitt chỉ ra lạm phát và tín dụng dễ làm một số ngành phình ra quá mức, và khi dòng tiền dừng, vốn đầu tư sai hướng mất phần lớn giá trị. Với nhà đầu tư, một ngành tăng trưởng nhanh nhờ tín dụng rẻ (thay vì nhờ cầu thật) là ngành cần kiểm tra kỹ trước khi rót vốn hay mở rộng.
 - **Giữ tài sản và hợp đồng ở dạng chịu được lạm phát.** Tiết kiệm dài hạn để ở dạng tiền mặt hay tiền gửi với lãi suất thấp hơn lạm phát là chịu "thuế lạm phát". Hợp đồng thuê, hợp đồng cung ứng dài hạn nên có điều khoản điều chỉnh theo chỉ số giá, như các công đoàn Hazlitt mô tả đã làm.
 - **Đọc tin chính sách bằng câu hỏi "ai trả, khi nào".** Ở Việt Nam, cũng như nhiều nước, những gói chi tiêu công hay hỗ trợ lớn thường được giới thiệu là "kích cầu". Bài học của chương là hỏi tiếp: được tài trợ bằng thuế, bằng vay hay bằng mở rộng tiền tệ? Nếu bằng vay, sau này ai trả thuế? Nếu bằng tiền, nhóm nào nhận trước, nhóm nào chịu giá cao sau? Câu trả lời giúp dự đoán ngành nào hưởng lợi ngắn hạn và rủi ro lạm phát, lãi suất trung hạn mà doanh nghiệp cần chuẩn bị.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 22 trên một trang: năm nhánh lớn đi theo sáu mục của bản gốc và các phần 1–8 của Nội dung chi tiết (nhầm tiền với của cải và đường đi của tiền mới, bảng số các nhóm A, B, C, D, ba hậu quả dài hạn, lạm phát để giảm lương thực tế như một ảo giác, tài trợ thâm hụt và thuế lạm phát), mỗi nhánh ghi ngụy biện bị bác, lập luận và con số minh họa của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 22: lạm phát không tạo ra của cải, chỉ phân phối lại nó bất công và che mắt mọi người`"]
+  n1["`Mục 1–2 — Nhầm tiền với của cải và đường đi của tiền mới`"]
+  n0 --- n1
+  n2["`Adam Smith: chức năng kép của tiền, vừa trao đổi vừa đo giá trị, khiến người ta coi tiền là của cải`"]
+  n1 --- n2
+  n3["`Của cải thật là thứ được sản xuất và tiêu dùng: thức ăn, nhà ở, đường sắt, nhà máy, sách`"]
+  n1 --- n3
+  n4["`Người ngây thơ nhất: riêng mình gấp đôi tiền thì mua gấp đôi hàng, nên đòi in tiền chia cho mọi người`"]
+  n1 --- n4
+  n5["`Phái tín dụng xã hội đòi phát tiền bù #quot;khoản B#quot;, nhưng phương trình A và A + B đếm trùng một khoản`"]
+  n1 --- n5
+  n6["`Người hiểu biết hơn muốn chính việc giá tăng: giúp con nợ, kích xuất khẩu, chữa suy thoái`"]
+  n1 --- n6
+  n7["`Bác thuyết máy móc: lượng tiền × vòng quay = giá trị hàng, nên gấp n lần tiền thì giá gấp n lần`"]
+  n1 --- n7
+  n8["`Chính phủ in tiền trả nhà thầu quân sự, tiền lan A → B → C → D tới khi giá tăng gần khắp nước`"]
+  n1 --- n8
+  n9["`Sản xuất không tăng thì giá tăng tương ứng thu nhập tiền, quốc gia không giàu hơn trước`"]
+  n1 --- n9
+  n10["`Ấn định giá chỉ tạo lạm phát dồn nén, che hậu quả ban đầu nhưng làm hậu quả về sau nặng hơn`"]
+  n1 --- n10
+  n11["`Mục 2 (nửa sau) — Ai được, ai mất: bảng số các nhóm A, B, C, D`"]
+  n0 --- n11
+  n12["`Nhóm A: thu nhập tiền đã tăng 30% khi giá những thứ họ mua chưa tăng`"]
+  n11 --- n12
+  n13["`Nhóm B: thu nhập tăng 20% khi giá mới tăng 10% bình quân, vẫn lợi`"]
+  n11 --- n13
+  n14["`Nhóm C: thu nhập chỉ tăng 10% khi giá đã tăng 15%, thiệt`"]
+  n11 --- n14
+  n15["`Nhóm D: thu nhập chưa tăng khi giá họ trả đã tăng 20%, thiệt nặng`"]
+  n11 --- n15
+  n16["`Lợi của nhóm được tăng giá, tăng lương trước nhất thiết là thiệt của nhóm được tăng sau cùng`"]
+  n11 --- n16
+  n17["`Cuối cùng thu nhập và giá cùng tăng 25%, nhưng thiệt thời kỳ chuyển tiếp của nhóm D không bao giờ được bù`"]
+  n11 --- n17
+  n18["`Mục 3 — Hậu quả dài hạn: méo cơ cấu, không dừng được, không kiểm soát được`"]
+  n0 --- n18
+  n19["`Thêm một ví dụ của bài học: lợi ngắn hạn cho nhóm được ưu ái, thảm hại dài hạn cho cả cộng đồng`"]
+  n18 --- n19
+  n20["`Một số ngành phình quá mức, vốn đầu tư sai hướng mất phần lớn giá trị khi lạm phát dừng`"]
+  n18 --- n20
+  n21["`Không dừng êm, không dừng đúng điểm: lý lẽ cho 25% thành lý lẽ cho 50%, rồi 100%`"]
+  n18 --- n21
+  n22["`Các nhóm gây áp lực đã hưởng lợi từ lạm phát đòi nó tiếp tục`"]
+  n18 --- n22
+  n23["`Tăng lượng tiền 100% không chắc làm giá trị tiền giảm 50%, giá trị tiền tùy đánh giá chủ quan và kỳ vọng`"]
+  n18 --- n23
+  n24["`Tiền không theo bản vị vàng lên giá khi nước thắng trận, xuống giá khi thua, bất kể lượng tiền`"]
+  n18 --- n24
+  n25["`Siêu lạm phát: giá trị đơn vị tiền rơi nhanh hơn nhiều tốc độ tăng lượng tiền`"]
+  n18 --- n25
+  n26["`Mục 4–5 — Lạm phát để giảm lương thực tế là một ảo giác`"]
+  n0 --- n26
+  n27["`Mỗi thế hệ đuổi theo cùng ảo ảnh, chộp cùng một #quot;quả Biển Chết#quot;`"]
+  n26 --- n27
+  n28["`#quot;Cho bánh xe công nghiệp quay#quot; lại nhầm tiền với của cải: sức mua thật là các hàng hóa khác`"]
+  n26 --- n28
+  n29["`Điều lạm phát thật sự làm: nâng giá hàng so với lương để khôi phục lợi nhuận doanh nghiệp`"]
+  n26 --- n29
+  n30["`Việc đó làm trung thực hơn bằng giảm lương, dùng lạm phát là lừa người lao động`"]
+  n26 --- n30
+  n31["`Công đoàn lớn theo dõi chỉ số giá và đòi bù, nên mất cân đối giá–lương then chốt vẫn còn`"]
+  n26 --- n31
+  n32["`Người lao động không có công đoàn bị giá tăng phạt thêm một lần nữa`"]
+  n26 --- n32
+  n33["`Nguyên nhân thật của suy thoái là mất cân đối trong cấu trúc lương–chi phí–giá`"]
+  n26 --- n33
+  n34["`Như bắt người ta dậy sớm bằng cách làm họ tin là 8 giờ khi thật ra mới 7 giờ`"]
+  n26 --- n34
+  n35["`Người thư ký từ 25 lên 35 đô la/tuần, chi phí sinh hoạt gấp đôi, vẫn thấy mình khá hơn`"]
+  n26 --- n35
+  n36["`#quot;Lạm phát là thuốc phiện của nhân dân#quot;: thuốc mê làm không thấy đau khi bị cắt sức mua`"]
+  n26 --- n36
+  n37["`Mục 6 — Tài trợ thâm hụt và lạm phát là một loại thuế`"]
+  n0 --- n37
+  n38["`Tài trợ bằng thuế: mỗi việc làm công được tạo ra là một việc làm tư mất đi (Chương 4)`"]
+  n37 --- n38
+  n39["`Vay nợ hay in tiền: trước mắt quốc gia dường như được thứ gì đó mà không mất gì`"]
+  n37 --- n39
+  n40["`Trả nợ phải thu thuế nhiều hơn chi, phá hủy nhiều việc làm hơn tạo ra và giảm động cơ sản xuất`"]
+  n37 --- n40
+  n41["`Adam Smith 1776: nợ quốc gia lớn hầu như không bao giờ được trả sòng phẳng, luôn kết thúc bằng phá sản`"]
+  n37 --- n41
+  n42["`Chi khi suy thoái, trả nợ khi bùng nổ là hư cấu hấp dẫn: chính khách chưa bao giờ làm vậy`"]
+  n37 --- n42
+  n43["`Lạm phát là loại thuế có lẽ tồi nhất, đè nặng nhất lên người ít khả năng trả nhất`"]
+  n37 --- n43
+  n44["`Nếu tác động đều, nó như thuế bán hàng đồng loạt: bánh mì và sữa chịu thuế suất như kim cương`"]
+  n37 --- n44
+  n45["`Như thuế vốn đồng loạt đánh vào tiết kiệm và bảo hiểm nhân thọ, thuế suất ngày mai không ai biết`"]
+  n37 --- n45
+  n46["`Triệt tiêu tiết kiệm, làm đầu cơ lãi hơn sản xuất, gieo mầm phát xít, cộng sản và kiểm soát toàn trị`"]
+  n37 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Tăng lượng tiền không tạo ra của cải thật, chỉ chuyển của cải từ nhóm nhận tiền sau sang nhóm nhận trước`"]
+  n47 --- n48
+  n49["`Chữa suy thoái bằng sửa trực tiếp mất cân đối giá–lương–chi phí, không bằng in tiền`"]
+  n47 --- n49
+  n50["`Đánh giá công trình công cộng như được tài trợ bằng thuế, vì nợ sau này trả bằng thuế hoặc lạm phát`"]
+  n47 --- n50
+  n51["`Người tổng hợp: chuỗi A, B, C, D là hiệu ứng Cantillon, còn nhận định không dừng được lạm phát là quá mạnh`"]
+  n47 --- n51
+  class n0 root
+  class n1,n11,n18,n26,n37,n47 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 22 "The Mirage of Inflation". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Suốt các chương trước, Hazlitt nhiều lần viết "với điều kiện không có lạm phát" và hẹn bàn sau: ở Chương 4 (công trình công cộng nghĩa là thuế), Chương 6 (tín dụng làm lệch hướng sản xuất), Chương 17 (ấn định giá), và ở Chương 20, nơi ông nói tăng lương chỉ chuyển thành tăng giá "nếu chính sách tiền tệ và tín dụng cho phép".
+
+Chương 22 thực hiện lời hẹn ấy: nó bàn hậu quả chung của lạm phát, rồi quay lại vá lỗ hổng của Chương 4 (công trình công cộng tài trợ bằng thâm hụt và in tiền). "Bài học" (C1) áp dụng trọn vẹn: lạm phát có lợi trước mắt cho các nhóm nhận tiền mới trước, trả giá bằng các nhóm nhận sau, và trong dài hạn gây hại cho cả cộng đồng.
+
+Chương sau (23, "Cuộc tấn công vào tiết kiệm") tiếp tục phê phán những học thuyết tin rằng chi tiêu, chứ không phải tiết kiệm, tạo ra thịnh vượng.
+
+## Lưu ý
+
+- **"Tín dụng xã hội"** (Social Credit) là học thuyết của kỹ sư người Anh C. H. Douglas (thường gọi là Major Douglas, không phải Paul Douglas ở Chương 20) thập niên 1920–1930. "Định lý A + B" của ông cho rằng tổng tiền doanh nghiệp trả cho cá nhân (khoản A: lương, cổ tức) luôn nhỏ hơn giá hàng (A + B, với B là khoản trả cho doanh nghiệp khác: nguyên liệu, khấu hao), nên phải phát thêm tiền để lấp khoản B. Hazlitt chỉ ra lỗi đếm trùng: một vế phương trình đếm một khoản một lần, vế kia đếm cùng khoản ấy nhiều lần.
+
+  Người tổng hợp diễn giải thêm: khoản B cũng đã từng là thu nhập của ai đó ở khâu trước. "Mặc đồng phục xanh lá" chỉ phong trào áo xanh (Green Shirts) của Đảng Tín dụng Xã hội ở Anh. Ở Canada, một đảng Tín dụng Xã hội từng cầm quyền tỉnh Alberta từ 1935.
+- **Thuyết số lượng tiền tệ** "máy móc" mà Hazlitt phê phán là cách hiểu cứng nhắc phương trình trao đổi (lượng tiền × vòng quay = giá trị hàng giao dịch) của Irving Fisher (1911).
+- **"Số nhân"** (multiplier) là khái niệm của Richard Kahn (1931) và Keynes (*Lý thuyết tổng quát*, 1936): mỗi đồng chi tiêu chính phủ làm thu nhập quốc dân tăng nhiều hơn một đồng. Đề xuất "dùng lạm phát giảm lương thực tế vì cắt lương trực tiếp là bất khả về chính trị" là lập luận gắn với Keynes.
+- **Chỉnh đồng hồ sớm một giờ**: Mỹ áp dụng "giờ chiến tranh" (War Time, một dạng giờ mùa hè cả năm) từ tháng 2/1942 đến tháng 9/1945.
+- **Đồng tiền không theo bản vị vàng lên xuống theo thắng bại**: ví dụ lịch sử quen thuộc là đồng "greenback" của Mỹ trong Nội chiến (1861–1865), giá vàng tính bằng greenback dao động theo tin chiến trường.
+- Sách ra năm 1946, đúng lúc Mỹ chuẩn bị gỡ kiểm soát giá thời chiến; trong hai năm sau đó giá tiêu dùng Mỹ tăng mạnh, nên lạm phát hậu chiến là chủ đề thời sự với người đọc ấn bản 1946 và 1952.
+- Câu "lạm phát là thuốc phiện của nhân dân" là chơi chữ câu nổi tiếng của Marx về tôn giáo.
+- Chương chia sáu mục (đánh số 2 đến 6 trong bản gốc, mục đầu không đánh số).
+- Mọi câu trích là bản dịch của người tổng hợp.

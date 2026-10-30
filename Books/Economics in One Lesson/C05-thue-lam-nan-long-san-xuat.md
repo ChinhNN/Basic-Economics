@@ -1,11 +1,17 @@
 # Chương 5 — Thuế làm nản lòng sản xuất (Taxes Discourage Production)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 5 "Taxes Discourage Production". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 đã chỉ ra rằng mỗi đô la chính phủ chi cho công trình công cộng là một đô la thuế lấy từ người nộp thuế, nên công trình chỉ tạo ra một thứ thay cho những thứ khác. Chương 5 thêm một tầng nữa: thuế không chỉ **chuyển** tiền từ túi này sang túi kia; cách đánh thuế còn làm thay đổi hành vi của người bị đánh thuế, khiến họ đầu tư ít hơn, chấp nhận rủi ro ít hơn, mở ít doanh nghiệp hơn. Vì vậy của cải do chi tiêu công tạo ra càng khó bù được của cải mà thuế phá huỷ. Chương 6 sẽ áp dụng cùng cách nhìn "A bị quên, B được thấy" cho tín dụng của chính phủ.
-**Ý chính:** Hazlitt muốn chứng minh rằng thuế cao làm giảm sản xuất và việc làm, nên chính phủ chi tiêu bằng thuế cao tự tạo ra nạn thất nghiệp mà họ muốn chữa. Ông bác cách nói "thuế 50 tỷ USD trên thu nhập quốc dân 200 tỷ USD chỉ là chuyển 25% thu nhập từ mục đích tư sang mục đích công", vì cách nói ấy coi đất nước như một công ty có quỹ chung, quên rằng tiền lấy của người A để trả cho người B. Hai ví dụ số: một doanh nghiệp lỗ thì chịu trọn 100 xu mỗi đô la lỗ, lãi thì chỉ giữ 60 xu mỗi đô la lãi, và không được bù lỗ năm trước vào lãi năm sau; một cá nhân chịu thuế thu nhập 50, 60, 75, 90% thì làm việc 6, 8, 10 tháng mỗi năm cho chính phủ, và khi thắng chỉ giữ được 10 xu trên mỗi đô la. Kết quả: vốn để tạo việc làm mới không hình thành được, và phần vốn hình thành được thì ngại mở doanh nghiệp mới.
+## Ý chính
 
-> **Lưu ý:** (1) Bối cảnh: năm 1946 nước Mỹ vừa ra khỏi thời chiến với mức thuế cao chưa từng có. Thuế suất thuế thu nhập cá nhân cao nhất (thuế suất biên ở bậc thu nhập cao nhất) lên tới 94% năm 1944–1945 và khoảng 91% trong những năm ngay sau đó; thuế lợi nhuận doanh nghiệp quanh 40%, cộng thêm thuế lợi nhuận vượt mức (excess profits tax) thời chiến vừa bãi bỏ cuối năm 1945; quyền chuyển lỗ sang năm khác bị giới hạn trong vài năm. Các con số 60 xu, 50–90% của Hazlitt phản ánh những mức này. (2) Hazlitt dùng **thuế suất biên** (phần thuế trên đồng thu nhập cuối cùng) để tính "số tháng làm việc cho chính phủ", nhưng số tháng đúng ra phải tính bằng **thuế suất trung bình** (tổng thuế chia tổng thu nhập), vốn thấp hơn nhiều; người chịu thuế suất biên 90% không nộp 90% toàn bộ thu nhập. Lập luận về động cơ làm thêm và chấp nhận rủi ro thì đúng là phụ thuộc vào thuế suất biên. (3) Con số thu nhập quốc dân 200 tỷ USD là con số ông gán cho "phía chi tiêu" (họ "luôn hào phóng khi ước con số này"), không phải số liệu thống kê. (4) Chương không chia mục trong bản gốc. Mọi câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng thuế cao làm giảm sản xuất và việc làm, nên chính phủ chi tiêu bằng thuế cao tự tạo ra nạn thất nghiệp mà họ muốn chữa.
+
+Ông bác cách nói "thuế 50 tỷ USD trên thu nhập quốc dân 200 tỷ USD chỉ là chuyển 25% thu nhập từ mục đích tư sang mục đích công", vì cách nói ấy coi đất nước như một công ty có quỹ chung, quên rằng tiền lấy của người A để trả cho người B.
+
+Hai ví dụ số:
+
+- một doanh nghiệp lỗ thì chịu trọn 100 xu mỗi đô la lỗ, lãi thì chỉ giữ 60 xu mỗi đô la lãi, và không được bù lỗ năm trước vào lãi năm sau;
+- một cá nhân chịu thuế thu nhập 50, 60, 75, 90% thì làm việc 6, 8, 10 tháng mỗi năm cho chính phủ, và khi thắng chỉ giữ được 10 xu trên mỗi đô la.
+
+Kết quả: vốn để tạo việc làm mới không hình thành được, và phần vốn hình thành được thì ngại mở doanh nghiệp mới.
 
 ## Sơ đồ
 
@@ -198,7 +204,9 @@ Hazlitt kết bằng một nhượng bộ quan trọng. Một mức thuế nhấ
 
 Nhưng phần thu nhập quốc dân bị thuế lấy đi càng lớn thì sản xuất và việc làm tư nhân càng bị ngăn cản. Khi tổng gánh nặng thuế vượt quá mức chịu đựng được, bài toán thiết kế những loại thuế không làm nản lòng và rối loạn sản xuất trở thành không có lời giải.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một chủ xưởng cơ khí cân nhắc vay 2 tỷ đồng mua máy CNC mới. Dự tính: 60% khả năng máy giúp lãi thêm 1 tỷ đồng, 40% khả năng thị trường xấu và lỗ 1 tỷ đồng (bán lại máy mất giá). Trước thuế, kỳ vọng là 0,6 × 1 − 0,4 × 1 = +0,2 tỷ đồng, đáng làm. Nếu lãi bị đánh thuế 20% và lỗ được trừ vào lãi các năm sau, kỳ vọng sau thuế vẫn dương (khoảng +0,16 tỷ đồng), chủ xưởng vẫn mua máy. Nếu lãi bị đánh 50% mà lỗ không được trừ, kỳ vọng thành 0,6 × 0,5 − 0,4 × 1 = −0,1 tỷ đồng: chủ xưởng không mua máy, xưởng không thuê thêm thợ, khách hàng không có sản phẩm rẻ hơn. Không ai thấy chiếc máy không được mua; đó là "cái không thấy" của thuế.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một chủ xưởng cơ khí cân nhắc vay 2 tỷ đồng mua máy CNC mới. Dự tính: 60% khả năng máy giúp lãi thêm 1 tỷ đồng, 40% khả năng thị trường xấu và lỗ 1 tỷ đồng (bán lại máy mất giá). Trước thuế, kỳ vọng là 0,6 × 1 − 0,4 × 1 = +0,2 tỷ đồng, đáng làm.
+
+Nếu lãi bị đánh thuế 20% và lỗ được trừ vào lãi các năm sau, kỳ vọng sau thuế vẫn dương (khoảng +0,16 tỷ đồng), chủ xưởng vẫn mua máy. Nếu lãi bị đánh 50% mà lỗ không được trừ, kỳ vọng thành 0,6 × 0,5 − 0,4 × 1 = −0,1 tỷ đồng: chủ xưởng không mua máy, xưởng không thuê thêm thợ, khách hàng không có sản phẩm rẻ hơn. Không ai thấy chiếc máy không được mua; đó là "cái không thấy" của thuế.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -293,7 +301,9 @@ Một trong những chương ngắn nhất của cuốn sách chứa một ý m�
 
 ### Lập luận đúng nhất ở chỗ bất đối xứng lỗ–lãi, và chính ở đó kinh tế học sau này cho thấy cách sửa
 
-Ví dụ doanh nghiệp "lỗ mất 100 xu, lãi giữ 60 xu, không bù lỗ được" là điểm mạnh nhất của chương. Domar và Musgrave (1944, hai năm trước khi sách ra) đã chỉ ra rằng vấn đề nằm ở **sự bất đối xứng**, không ở bản thân thuế suất: nếu nhà nước cho bù lỗ đầy đủ, nhà nước thành một "cổ đông thầm lặng" chia cả lãi lẫn lỗ, và thuế có thể không làm giảm, thậm chí làm tăng việc chấp nhận rủi ro. Nhiều hệ thống thuế hiện đại đã nới rộng quyền chuyển lỗ sang các năm sau, và các nghiên cứu về khấu hao nhanh (cho trừ ngay chi phí mua máy móc) cho thấy đầu tư phản ứng mạnh với cách tính thuế, nhất là ở doanh nghiệp nhỏ. Tức là Hazlitt chẩn đoán đúng bệnh, nhưng kết luận "giảm thuế" chỉ là một trong hai cách chữa; cách kia là sửa cấu trúc thuế cho cân xứng.
+Ví dụ doanh nghiệp "lỗ mất 100 xu, lãi giữ 60 xu, không bù lỗ được" là điểm mạnh nhất của chương. Domar và Musgrave (1944, hai năm trước khi sách ra) đã chỉ ra rằng vấn đề nằm ở **sự bất đối xứng**, không ở bản thân thuế suất: nếu nhà nước cho bù lỗ đầy đủ, nhà nước thành một "cổ đông thầm lặng" chia cả lãi lẫn lỗ, và thuế có thể không làm giảm, thậm chí làm tăng việc chấp nhận rủi ro.
+
+Nhiều hệ thống thuế hiện đại đã nới rộng quyền chuyển lỗ sang các năm sau, và các nghiên cứu về khấu hao nhanh (cho trừ ngay chi phí mua máy móc) cho thấy đầu tư phản ứng mạnh với cách tính thuế, nhất là ở doanh nghiệp nhỏ. Tức là Hazlitt chẩn đoán đúng bệnh, nhưng kết luận "giảm thuế" chỉ là một trong hai cách chữa; cách kia là sửa cấu trúc thuế cho cân xứng.
 
 ### Phép tính "làm 10 tháng cho chính phủ" nhầm thuế suất biên với thuế suất trung bình
 
@@ -301,7 +311,9 @@ Năm 1946, thuế suất 90% chỉ áp lên phần thu nhập vượt một ngư
 
 ### Thực nghiệm sau này cho thấy phản ứng với thuế có thật nhưng thường nhỏ hơn và khác dạng so với hình dung của Hazlitt
 
-Chương không đưa bằng chứng thực nghiệm nào; nó dựa hoàn toàn vào lập luận về động cơ. Hơn bảy thập kỷ nghiên cứu sau đó cho bức tranh nhiều sắc thái hơn. Số giờ làm của người lao động chính trong gia đình phản ứng khá ít với thuế; phản ứng lớn hơn nằm ở thu nhập khai báo của nhóm thu nhập cao nhất, và phần lớn phản ứng đó là chuyển thời điểm, đổi hình thức thu nhập, lách thuế chứ không phải giảm sản xuất thật. Một số nghiên cứu về thuế tối ưu (ví dụ Diamond và Saez, 2011) còn cho rằng thuế suất biên cao nhất tối ưu cho mục tiêu thu ngân sách vẫn ở mức khá cao, quanh 70%. Mặt khác, đầu tư doanh nghiệp và việc khởi nghiệp nhạy với thuế hơn số giờ làm, đúng hướng Hazlitt nói. Và nước Mỹ những năm 1950 vẫn tăng trưởng nhanh dù thuế suất biên cao nhất trên 90%, một phần vì ít ai thực nộp ở mức đó. Kết luận cân bằng: hướng của Hazlitt đúng, độ lớn ông hàm ý thường bị phóng đại, và **cấu trúc** thuế (cái gì bị đánh, có bù lỗ không, có lỗ hổng không) quan trọng không kém **mức** thuế.
+Chương không đưa bằng chứng thực nghiệm nào; nó dựa hoàn toàn vào lập luận về động cơ. Hơn bảy thập kỷ nghiên cứu sau đó cho bức tranh nhiều sắc thái hơn. Số giờ làm của người lao động chính trong gia đình phản ứng khá ít với thuế; phản ứng lớn hơn nằm ở thu nhập khai báo của nhóm thu nhập cao nhất, và phần lớn phản ứng đó là chuyển thời điểm, đổi hình thức thu nhập, lách thuế chứ không phải giảm sản xuất thật. Một số nghiên cứu về thuế tối ưu (ví dụ Diamond và Saez, 2011) còn cho rằng thuế suất biên cao nhất tối ưu cho mục tiêu thu ngân sách vẫn ở mức khá cao, quanh 70%.
+
+Mặt khác, đầu tư doanh nghiệp và việc khởi nghiệp nhạy với thuế hơn số giờ làm, đúng hướng Hazlitt nói. Và nước Mỹ những năm 1950 vẫn tăng trưởng nhanh dù thuế suất biên cao nhất trên 90%, một phần vì ít ai thực nộp ở mức đó. Kết luận cân bằng: hướng của Hazlitt đúng, độ lớn ông hàm ý thường bị phóng đại, và **cấu trúc** thuế (cái gì bị đánh, có bù lỗ không, có lỗ hổng không) quan trọng không kém **mức** thuế.
 
 ### Hazlitt thừa nhận vai trò của thuế hợp lý nhưng không cho tiêu chí đo "mức chịu đựng được"
 
@@ -313,3 +325,126 @@ Chương không đưa bằng chứng thực nghiệm nào; nó dựa hoàn toàn
 - **Đọc tin chính sách thuế.** Khi nghe một đề xuất tăng hay giảm thuế, hỏi: thay đổi đánh vào thuế suất biên hay chỉ vào số thu trung bình? Nó đánh vào thu nhập từ lao động, từ vốn hay từ tiêu dùng? Có thay đổi gì về chuyển lỗ, khấu hao, ưu đãi không? Ở Việt Nam, các tranh luận về thuế thu nhập cá nhân (số bậc, mức giảm trừ gia cảnh) hay về ưu đãi thuế cho doanh nghiệp đều có thể đọc bằng câu hỏi "ai là A bị quên, ai là B được thấy".
 - **Nghề nghiệp và thu nhập cá nhân.** Khi so hai lời mời làm việc, hay quyết định làm thêm một việc tự do, hãy tính bằng thu nhập **biên sau thuế** (phần thực sự còn lại của đồng kiếm thêm), không phải thu nhập trung bình. Minh hoạ của người tổng hợp: nếu phần thu nhập làm thêm rơi vào bậc thuế cao hơn và mất thêm vài khoản trợ cấp theo thu nhập, đồng kiếm thêm có thể chỉ còn lại một nửa, đủ để thay đổi quyết định.
 - **Doanh nghiệp và chi phí ẩn của thuế.** Chi phí thuế không chỉ là tiền nộp: còn là thời gian kê khai, chi phí tuân thủ, các dự án bị bỏ vì không chắc cách tính thuế. Một môi trường thuế rõ ràng, ổn định, có cơ chế bù lỗ hợp lý có thể quan trọng với quyết định đầu tư không kém một mức thuế suất thấp hơn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn đi theo các mục 1–5 của phần Nội dung chi tiết (thuế không phải chuyển tiền giữa hai túi, doanh nghiệp lỗ chịu trọn và lãi giữ 60 xu, cá nhân chịu thuế 50–90%, giới hạn của thuế hợp lý) cùng phần Đánh giá, mỗi nhánh ghi ngụy biện bị bác, cơ chế thuế làm giảm động cơ và vốn, ví dụ và con số của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: thuế cao làm giảm sản xuất và việc làm, nên chi tiêu bằng thuế cao tự tạo ra thất nghiệp mà nó muốn chữa`"]
+  n1["`Mục 1 — Thuế không phải chuyển tiền từ túi phải sang túi trái`"]
+  n0 --- n1
+  n2["`Thêm một tầng sau Chương 4: thuế làm của cải do chi tiêu công càng khó bù của cải bị thuế phá huỷ`"]
+  n1 --- n2
+  n3["`Phía chi tiêu: thu nhập quốc dân 200 tỷ USD, thuế 50 tỷ USD, #quot;chỉ#quot; 25% chuyển sang mục đích công`"]
+  n1 --- n3
+  n4["`Ngụy biện: coi đất nước như một công ty khổng lồ có quỹ chung, thuế chỉ là bút toán sổ sách`"]
+  n1 --- n4
+  n5["`Thực tế: lấy tiền của A (người nộp thuế) để trả cho B (người nhận khoản chi tiêu công)`"]
+  n1 --- n5
+  n6["`B được thấy, A bị quên, kể cả thay đổi trong cách A làm việc và đầu tư`"]
+  n1 --- n6
+  n7["`Mục 2–3 — Doanh nghiệp: lỗ chịu trọn, lãi chỉ giữ 60 xu`"]
+  n0 --- n7
+  n8["`Gánh nặng thuế thu nhập dồn lên một phần nhỏ của thu nhập quốc dân, và thay đổi động cơ của người bị đánh thuế`"]
+  n7 --- n8
+  n9["`Mỗi đô la lỗ mất trọn 100 xu, mỗi đô la lãi nộp 40 xu và giữ 60 xu`"]
+  n7 --- n9
+  n10["`Không được bù lỗ năm trước vào lãi năm sau, hoặc bù không đủ`"]
+  n7 --- n10
+  n11["`Lãi 1.000 hay lỗ 800 USD (50:50): kỳ vọng +100 USD thành −100 USD khi thuế 40% chỉ đánh vào lãi`"]
+  n10 --- n11
+  n12["`Doanh nghiệp không mở rộng, hoặc chỉ mở rộng hoạt động rủi ro thấp nhất`"]
+  n7 --- n12
+  n13["`Chủ cũ không thuê thêm người, nhiều người khác quyết định không lập doanh nghiệp`"]
+  n7 --- n13
+  n14["`Máy móc cải tiến, nhà máy trang bị tốt hơn ra đời chậm hơn nhiều`"]
+  n7 --- n14
+  n15["`Dài hạn: người tiêu dùng không có hàng tốt hơn, rẻ hơn, lương thực tế bị kìm lại`"]
+  n7 --- n15
+  n16["`Mục 4 — Cá nhân chịu thuế thu nhập 50–90%`"]
+  n0 --- n16
+  n17["`Thuế 50, 60, 75, 90%: làm 6, 8, 10 tháng cho chính phủ, chỉ 6, 4, 2 tháng cho mình`"]
+  n16 --- n17
+  n18["`Tính đúng 12 × thuế suất: ở mức 90% là 10,8 tháng cho chính phủ, 1,2 tháng cho mình`"]
+  n17 --- n18
+  n19["`Thua mất trọn đô la, thắng chỉ giữ một hào (10 xu): đem vốn ra mạo hiểm là dại dột`"]
+  n16 --- n19
+  n20["`Vốn để mạo hiểm co lại rất mạnh vì bị thuế lấy trước khi kịp tích luỹ`"]
+  n16 --- n20
+  n21["`Hai tầng thiệt hại: vốn bị ngăn không cho ra đời, vốn ra đời được thì không dám lập doanh nghiệp mới`"]
+  n16 --- n21
+  n22["`Phía chi tiêu tự tạo ra chính nạn thất nghiệp mà họ tuyên bố sẽ giải quyết`"]
+  n16 --- n22
+  n23["`Mục 5 — Giới hạn: thuế hợp lý và gánh nặng vượt ngưỡng`"]
+  n0 --- n23
+  n24["`Một mức thuế là không thể thiếu để duy trì các chức năng thiết yếu của nhà nước`"]
+  n23 --- n24
+  n25["`Thuế hợp lý không nhất thiết hại nhiều, dịch vụ nhà nước (kể cả bảo vệ sản xuất) bù lại nhiều hơn`"]
+  n23 --- n25
+  n26["`Tỷ lệ thu nhập quốc dân bị thuế lấy càng lớn, sản xuất và việc làm tư càng bị ngăn cản`"]
+  n23 --- n26
+  n27["`Vượt mức chịu đựng thì thiết kế thuế không làm nản lòng sản xuất là bài toán không có lời giải`"]
+  n23 --- n27
+  n28["`Máy CNC: kỳ vọng +0,2 tỷ đồng trước thuế thành −0,1 tỷ khi lãi bị đánh 50% mà lỗ không được trừ`"]
+  n23 --- n28
+  n29["`Đánh giá — Lập luận đúng tới đâu`"]
+  n0 --- n29
+  n30["`Tổn thất vô ích: một đô la chi tiêu công tốn cho xã hội hơn một đô la`"]
+  n29 --- n30
+  n31["`Domar và Musgrave (1944): có bù lỗ đầy đủ thì thuế có thể làm tăng việc chấp nhận rủi ro`"]
+  n29 --- n31
+  n32["`Bất đối xứng lỗ–lãi là thủ phạm chính, cách chữa có thể là sửa cấu trúc thuế cho cân xứng`"]
+  n31 --- n32
+  n33["`#quot;Làm 10 tháng cho chính phủ#quot; nhầm thuế suất biên với thuế suất trung bình`"]
+  n29 --- n33
+  n34["`Nhưng quyết định làm thêm, đầu tư thêm phụ thuộc vào thuế suất biên, ở đó Hazlitt đúng`"]
+  n33 --- n34
+  n35["`Giờ làm phản ứng ít với thuế, đầu tư và khởi nghiệp nhạy hơn, đúng hướng Hazlitt nói`"]
+  n29 --- n35
+  n36["`Mỹ thập niên 1950 vẫn tăng trưởng nhanh dù thuế suất biên cao nhất trên 90%`"]
+  n35 --- n36
+  n37["`Diamond và Saez (2011): thuế suất biên cao nhất tối ưu cho thu ngân sách quanh 70%`"]
+  n35 --- n37
+  n38["`Hazlitt không cho tiêu chí đo mức chịu đựng, các nước giàu có tỷ lệ thuế rất khác nhau mà mức sống đều cao`"]
+  n29 --- n38
+  n39["`Thông điệp xuyên suốt`"]
+  n0 --- n39
+  n40["`Chi phí của chi tiêu công gồm cả sản xuất bị thuế làm giảm, không chỉ số tiền thuế`"]
+  n39 --- n40
+  n41["`Hướng của Hazlitt đúng, độ lớn thường bị phóng đại, cấu trúc thuế quan trọng không kém mức thuế`"]
+  n39 --- n41
+  n42["`Đánh giá đầu tư bằng dòng tiền sau thuế và xem khoản lỗ được xử lý ra sao`"]
+  n39 --- n42
+  n43["`Đọc mọi chính sách thuế bằng câu hỏi: ai là A bị quên, ai là B được thấy`"]
+  n39 --- n43
+  class n0 root
+  class n1,n7,n16,n23,n29,n39 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 5 "Taxes Discourage Production". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 đã chỉ ra rằng mỗi đô la chính phủ chi cho công trình công cộng là một đô la thuế lấy từ người nộp thuế, nên công trình chỉ tạo ra một thứ thay cho những thứ khác.
+
+Chương 5 thêm một tầng nữa: thuế không chỉ **chuyển** tiền từ túi này sang túi kia; cách đánh thuế còn làm thay đổi hành vi của người bị đánh thuế, khiến họ đầu tư ít hơn, chấp nhận rủi ro ít hơn, mở ít doanh nghiệp hơn. Vì vậy của cải do chi tiêu công tạo ra càng khó bù được của cải mà thuế phá huỷ. Chương 6 sẽ áp dụng cùng cách nhìn "A bị quên, B được thấy" cho tín dụng của chính phủ.
+
+## Lưu ý
+
+- Bối cảnh: năm 1946 nước Mỹ vừa ra khỏi thời chiến với mức thuế cao chưa từng có. Thuế suất thuế thu nhập cá nhân cao nhất (thuế suất biên ở bậc thu nhập cao nhất) lên tới 94% năm 1944–1945 và khoảng 91% trong những năm ngay sau đó; thuế lợi nhuận doanh nghiệp quanh 40%, cộng thêm thuế lợi nhuận vượt mức (excess profits tax) thời chiến vừa bãi bỏ cuối năm 1945; quyền chuyển lỗ sang năm khác bị giới hạn trong vài năm. Các con số 60 xu, 50–90% của Hazlitt phản ánh những mức này.
+- Hazlitt dùng **thuế suất biên** (phần thuế trên đồng thu nhập cuối cùng) để tính "số tháng làm việc cho chính phủ", nhưng số tháng đúng ra phải tính bằng **thuế suất trung bình** (tổng thuế chia tổng thu nhập), vốn thấp hơn nhiều; người chịu thuế suất biên 90% không nộp 90% toàn bộ thu nhập. Lập luận về động cơ làm thêm và chấp nhận rủi ro thì đúng là phụ thuộc vào thuế suất biên.
+- Con số thu nhập quốc dân 200 tỷ USD là con số ông gán cho "phía chi tiêu" (họ "luôn hào phóng khi ước con số này"), không phải số liệu thống kê.
+- Chương không chia mục trong bản gốc. Mọi câu trích là bản dịch của người tổng hợp.

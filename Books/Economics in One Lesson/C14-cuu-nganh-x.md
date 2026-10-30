@@ -1,11 +1,14 @@
 # Chương 14 — Cứu ngành X (Saving the X Industry)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 14 "Saving the X Industry". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 13 vừa phân tích giá ngang giá (parity) cho nông sản, tức chính sách cứu một ngành cụ thể là nông nghiệp. Chương 14 khái quát hoá: thay "nông nghiệp" bằng một ngành bất kỳ gọi là "ngành X" (X industry), và xét hai cách cứu ngành chưa được bàn ở các chương trước (Chương 11 về thuế quan, Chương 13 về giá ngang giá): chặn người mới vào ngành, và trợ cấp trực tiếp từ ngân sách. Áp dụng "bài học" của Chương 1, Hazlitt hỏi: nếu ngành X được giữ lại, các ngành còn lại của nền kinh tế (ông gọi là các ngành A, B, C) mất gì? Kết luận của chương ("ngành đang chết phải được phép chết") dẫn thẳng sang Chương 15, nơi Hazlitt giải thích cơ chế chung là hệ thống giá phân bổ lao động và vốn giữa các ngành.
-**Ý chính:** Hazlitt muốn chứng minh rằng mọi kế hoạch cứu một ngành đang thu hẹp, dù bằng thuế quan, giá sàn, chặn người mới vào hay trợ cấp, đều chỉ là chuyển của cải từ các ngành khác sang ngành X, và còn gây **thiệt hại ròng** cho cả nước vì giữ lao động và vốn ở nơi chúng được dùng kém hiệu quả hơn. Ông dẫn hai ví dụ có thật của Mỹ: chương trình "cứu bạc" làm Bộ Tài chính phải mua bạc thừa với giá cao vô lý và đẩy Trung Quốc ra khỏi chế độ bản vị bạc; và Đạo luật Guffey cứu ngành than, buộc chủ mỏ thông đồng không bán dưới giá sàn, đến mức chính phủ phải ấn định **350.000 mức giá than** khác nhau. Kết luận: một nền kinh tế tăng trưởng cần để ngành cũ thu hẹp hoặc chết để giải phóng lao động và vốn cho ngành mới, như ngành xe ngựa phải nhường chỗ cho ngành ô tô.
+## Ý chính
 
-> **Lưu ý:** (1) **Bạc:** "cứu bạc" ở đây là Đạo luật Mua bạc (Silver Purchase Act) năm 1934, do nhóm "thượng nghị sĩ bạc" (silver Senators) của các bang miền Tây có mỏ bạc vận động. Luật buộc Bộ Tài chính Mỹ mua bạc cho đến khi bạc chiếm một phần tư dự trữ tiền tệ hoặc giá bạc đạt một mức mục tiêu rất cao. Giá bạc thế giới tăng mạnh làm bạc chảy khỏi Trung Quốc (khi đó dùng tiền bạc), gây giảm phát, và Trung Quốc phải bỏ chế độ bản vị bạc vào cuối năm 1935. Lập luận "giúp phương Đông" là: bạc lên giá thì dân Trung Quốc, Ấn Độ cầm bạc sẽ giàu lên và mua nhiều hàng Mỹ hơn. (2) **Than:** "Đạo luật Guffey" là tên chung cho Đạo luật Bảo tồn Than bitum 1935 (Guffey–Snyder), bị Toà án Tối cao tuyên vi hiến năm 1936, và Đạo luật Than bitum 1937 (Guffey–Vinson) thay thế, hết hiệu lực năm 1943. Con số 350.000 mức giá lấy từ lời khai của Dan H. Wheeler, giám đốc Phòng Than bitum, trong phiên điều trần về việc gia hạn Đạo luật 1937 (chú thích của Hazlitt). (3) Hazlitt tự giới hạn phạm vi: ông **không** bàn các lý do cứu ngành vì quốc phòng, vì ngành bị đánh thuế hay chịu lương bất hợp lý so với ngành khác, hay vì ngành dịch vụ công bị ép giá thấp. Ông chỉ bác một lập luận: ngành X chết sẽ kéo cả nền kinh tế xuống, còn giữ nó sống sẽ có lợi cho mọi người. (4) Chương này ngắn và gần như không có số liệu ngoài 350.000 mức giá than. Hazlitt giả định lao động và vốn rời ngành X sẽ sớm được ngành khác dùng; ông không bàn chi phí và thời gian chuyển đổi, điều mà nghiên cứu về sau cho thấy có thể rất lớn (xem phần Đánh giá). Mọi câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng mọi kế hoạch cứu một ngành đang thu hẹp, dù bằng thuế quan, giá sàn, chặn người mới vào hay trợ cấp, đều chỉ là chuyển của cải từ các ngành khác sang ngành X, và còn gây **thiệt hại ròng** cho cả nước vì giữ lao động và vốn ở nơi chúng được dùng kém hiệu quả hơn.
+
+Ông dẫn hai ví dụ có thật của Mỹ: chương trình "cứu bạc" làm Bộ Tài chính phải mua bạc thừa với giá cao vô lý và đẩy Trung Quốc ra khỏi chế độ bản vị bạc.
+
+Và Đạo luật Guffey cứu ngành than, buộc chủ mỏ thông đồng không bán dưới giá sàn, đến mức chính phủ phải ấn định **350.000 mức giá than** khác nhau.
+
+Kết luận: một nền kinh tế tăng trưởng cần để ngành cũ thu hẹp hoặc chết để giải phóng lao động và vốn cho ngành mới, như ngành xe ngựa phải nhường chỗ cho ngành ô tô.
 
 ## Sơ đồ
 
@@ -222,7 +225,9 @@ Hazlitt nói đây chỉ là dạng tổng quát của trường hợp vừa xé
 
 ### 2. Hai ví dụ: cứu bạc và cứu than (phần còn lại của mục 1, và câu mở đầu mục 2)
 
-**Bạc.** Để "cứu bạc", Quốc hội Mỹ đã gây tác hại khổng lồ. Một lý lẽ cho kế hoạch là nó sẽ giúp "phương Đông". Một kết quả thực tế là gây giảm phát ở Trung Quốc, nước khi đó dùng bản vị bạc, và buộc Trung Quốc bỏ bản vị này. Bộ Tài chính Mỹ phải mua những đống bạc không cần thiết với giá cao vô lý, vượt xa giá thị trường, rồi cất trong kho. Theo Hazlitt, mục tiêu chính trị cốt lõi của "các thượng nghị sĩ bạc" có thể đạt được với một phần nhỏ thiệt hại và chi phí nếu trả thẳng một khoản trợ cấp cho chủ mỏ hoặc thợ mỏ. Nhưng Quốc hội và cả nước sẽ không bao giờ chấp nhận "một vụ cướp trắng trợn" (a naked steal) như thế nếu nó không đi kèm màn ngụy tạo tư tưởng về "vai trò thiết yếu của bạc trong tiền tệ quốc gia".
+**Bạc.** Để "cứu bạc", Quốc hội Mỹ đã gây tác hại khổng lồ. Một lý lẽ cho kế hoạch là nó sẽ giúp "phương Đông". Một kết quả thực tế là gây giảm phát ở Trung Quốc, nước khi đó dùng bản vị bạc, và buộc Trung Quốc bỏ bản vị này. Bộ Tài chính Mỹ phải mua những đống bạc không cần thiết với giá cao vô lý, vượt xa giá thị trường, rồi cất trong kho.
+
+Theo Hazlitt, mục tiêu chính trị cốt lõi của "các thượng nghị sĩ bạc" có thể đạt được với một phần nhỏ thiệt hại và chi phí nếu trả thẳng một khoản trợ cấp cho chủ mỏ hoặc thợ mỏ. Nhưng Quốc hội và cả nước sẽ không bao giờ chấp nhận "một vụ cướp trắng trợn" (a naked steal) như thế nếu nó không đi kèm màn ngụy tạo tư tưởng về "vai trò thiết yếu của bạc trong tiền tệ quốc gia".
 
 **Than.** Để cứu ngành than, Quốc hội thông qua Đạo luật Guffey. Theo luật này, chủ mỏ than không chỉ được phép mà bị buộc phải thông đồng với nhau để không bán dưới những mức giá tối thiểu do chính phủ ấn định. Quốc hội bắt đầu với ý định ấn định "giá" than, nhưng than có nhiều cỡ, có hàng nghìn mỏ, được chở tới hàng nghìn nơi bằng đường sắt, xe tải, tàu thuỷ và sà lan. Kết quả:
 
@@ -280,7 +285,9 @@ Hazlitt gọi ý nghĩ "nền kinh tế mở rộng nghĩa là mọi ngành ph�
 
 Ta cũng làm đúng điều đó khi ngăn một ngành chết để bảo vệ lao động đã được đào tạo hay vốn đã đầu tư vào ngành. Hazlitt viết rằng, dù nghe có vẻ nghịch lý, để ngành đang chết được chết cũng cần cho sức khoẻ của một nền kinh tế năng động như để ngành đang lớn được lớn; quá trình thứ nhất là điều kiện của quá trình thứ hai. Giữ ngành lỗi thời cũng dại như giữ phương pháp sản xuất lỗi thời; thật ra đó thường chỉ là hai cách nói về cùng một việc. Phương pháp sản xuất tốt hơn phải liên tục thay phương pháp cũ, nếu muốn cả nhu cầu cũ lẫn mong muốn mới được đáp ứng bằng hàng hoá tốt hơn và phương tiện tốt hơn.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, không phải số liệu thống kê). Ngành ảnh phim chụp và rửa ảnh từng có hàng nghìn tiệm rửa ảnh ở mỗi thành phố lớn. Khi máy ảnh số rồi điện thoại có camera xuất hiện, ngành này co lại rất nhanh. Giả sử nhà nước khi đó trợ cấp mỗi tiệm rửa ảnh để giữ nghề: tiền trợ cấp lấy từ thuế, trong đó có thuế của chính các cửa hàng điện thoại, các xưởng sửa chữa điện tử, các studio thiết kế đồ hoạ. Những người thợ rửa ảnh được giữ lại sẽ không chuyển sang học sửa điện thoại, làm hậu kỳ ảnh số hay in ấn kỹ thuật số, đúng lúc các nghề đó cần người. Cái thấy được là những tiệm rửa ảnh còn mở cửa; cái không thấy là những cửa hàng và việc làm mới không ra đời hoặc ra đời chậm hơn.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, không phải số liệu thống kê). Ngành ảnh phim chụp và rửa ảnh từng có hàng nghìn tiệm rửa ảnh ở mỗi thành phố lớn. Khi máy ảnh số rồi điện thoại có camera xuất hiện, ngành này co lại rất nhanh.
+
+Giả sử nhà nước khi đó trợ cấp mỗi tiệm rửa ảnh để giữ nghề: tiền trợ cấp lấy từ thuế, trong đó có thuế của chính các cửa hàng điện thoại, các xưởng sửa chữa điện tử, các studio thiết kế đồ hoạ. Những người thợ rửa ảnh được giữ lại sẽ không chuyển sang học sửa điện thoại, làm hậu kỳ ảnh số hay in ấn kỹ thuật số, đúng lúc các nghề đó cần người. Cái thấy được là những tiệm rửa ảnh còn mở cửa; cái không thấy là những cửa hàng và việc làm mới không ra đời hoặc ra đời chậm hơn.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -369,15 +376,25 @@ Cứu một ngành đang thu hẹp bằng thuế quan, giá sàn, rào cản gia
 
 ### Nhận xét về trợ cấp minh bạch là một nhận định sắc về kinh tế chính trị
 
-Hazlitt nói điều mà kinh tế học chính trị về sau mới hệ thống hoá: các chính sách tồi thường sống được nhờ che giấu ai trả tiền. Vụ bạc là ví dụ hoàn hảo: một khoản trợ cấp thẳng cho chủ mỏ sẽ rẻ hơn nhiều nhưng không ai dám đề xuất, nên người ta chọn một cách đắt hơn, có tác hại phụ (giảm phát ở Trung Quốc), chỉ vì nó được bọc trong lý lẽ tiền tệ. Đây là trường hợp sớm của nguyên lý "lợi ích tập trung, chi phí phân tán" mà Mancur Olson trình bày năm 1965, và của quan sát rằng phân phối lại thường chọn hình thức kém hiệu quả nhưng kín đáo. Hàm ý thực tế: khi đánh giá một chính sách hỗ trợ ngành, hãy hỏi "nếu chuyển thành một khoản trợ cấp thẳng, ghi rõ trong ngân sách, thì nó tốn bao nhiêu và có ai đồng ý không?".
+Hazlitt nói điều mà kinh tế học chính trị về sau mới hệ thống hoá: các chính sách tồi thường sống được nhờ che giấu ai trả tiền. Vụ bạc là ví dụ hoàn hảo: một khoản trợ cấp thẳng cho chủ mỏ sẽ rẻ hơn nhiều nhưng không ai dám đề xuất, nên người ta chọn một cách đắt hơn, có tác hại phụ (giảm phát ở Trung Quốc), chỉ vì nó được bọc trong lý lẽ tiền tệ.
+
+Đây là trường hợp sớm của nguyên lý "lợi ích tập trung, chi phí phân tán" mà Mancur Olson trình bày năm 1965, và của quan sát rằng phân phối lại thường chọn hình thức kém hiệu quả nhưng kín đáo. Hàm ý thực tế: khi đánh giá một chính sách hỗ trợ ngành, hãy hỏi "nếu chuyển thành một khoản trợ cấp thẳng, ghi rõ trong ngân sách, thì nó tốn bao nhiêu và có ai đồng ý không?".
 
 ### Hazlitt bỏ qua chi phí chuyển đổi, và đây là chỗ bằng chứng hiện đại phản biện mạnh nhất
 
-Toàn bộ lập luận dựa trên giả định lao động và vốn rời ngành X sẽ sớm được dùng ở nơi khác. Với vốn, nhiều tài sản (mỏ, máy chuyên dụng) không chuyển được, nên "giải phóng vốn" thực chất là bỏ đi vốn cũ và đầu tư vốn mới. Với lao động, nghiên cứu về "cú sốc Trung Quốc" đối với các vùng công nghiệp Mỹ (Autor, Dorn và Hanson, 2013 và các nghiên cứu sau) cho thấy khi một ngành tập trung ở một vùng co lại nhanh, thu nhập và việc làm của vùng đó có thể bị ảnh hưởng xấu kéo dài cả chục năm; người lao động lớn tuổi, có kỹ năng chuyên biệt thường không chuyển được sang ngành mới. Hazlitt đúng rằng giữ ngành chết không giải quyết được việc này; nhưng ông im lặng về câu hỏi "ai chịu chi phí chuyển đổi và trong bao lâu". Kinh tế học hiện đại thường tách hai việc: để ngành thu hẹp (đồng ý với Hazlitt), nhưng hỗ trợ trực tiếp **con người** (đào tạo lại, trợ cấp thất nghiệp, hỗ trợ di chuyển) thay vì hỗ trợ **ngành**. Cách tách này thật ra phù hợp với chính lý lẽ minh bạch của Hazlitt.
+Toàn bộ lập luận dựa trên giả định lao động và vốn rời ngành X sẽ sớm được dùng ở nơi khác. Với vốn, nhiều tài sản (mỏ, máy chuyên dụng) không chuyển được, nên "giải phóng vốn" thực chất là bỏ đi vốn cũ và đầu tư vốn mới.
+
+Với lao động, nghiên cứu về "cú sốc Trung Quốc" đối với các vùng công nghiệp Mỹ (Autor, Dorn và Hanson, 2013 và các nghiên cứu sau) cho thấy khi một ngành tập trung ở một vùng co lại nhanh, thu nhập và việc làm của vùng đó có thể bị ảnh hưởng xấu kéo dài cả chục năm; người lao động lớn tuổi, có kỹ năng chuyên biệt thường không chuyển được sang ngành mới.
+
+Hazlitt đúng rằng giữ ngành chết không giải quyết được việc này; nhưng ông im lặng về câu hỏi "ai chịu chi phí chuyển đổi và trong bao lâu". Kinh tế học hiện đại thường tách hai việc: để ngành thu hẹp (đồng ý với Hazlitt), nhưng hỗ trợ trực tiếp **con người** (đào tạo lại, trợ cấp thất nghiệp, hỗ trợ di chuyển) thay vì hỗ trợ **ngành**. Cách tách này thật ra phù hợp với chính lý lẽ minh bạch của Hazlitt.
 
 ### Phép so sánh xe ngựa và ô tô hợp lý cho ngành bị công nghệ thay thế, kém thuyết phục hơn với khủng hoảng tạm thời
 
-Ví dụ xe ngựa nói về một ngành mất nhu cầu vĩnh viễn. Nhưng có những ngành gặp khó vì cú sốc tạm thời, như khủng hoảng tài chính đóng băng tín dụng, hay một giai đoạn giá nguyên liệu bất thường. Khi đó, để một doanh nghiệp còn sức sống phá sản có thể làm mất vốn tổ chức, mạng lưới nhà cung cấp và tay nghề vốn khó dựng lại. Các vụ cứu trợ ngành ô tô Mỹ năm 2008–2009 là ví dụ được tranh luận: người ủng hộ cho rằng nó tránh được sự sụp đổ của cả chuỗi cung ứng; người phản đối cho rằng nó tạo tiền lệ cứu doanh nghiệp yếu. Hazlitt không phân biệt ngành "đang chết" với ngành "đang ốm". Có thể đáp thay ông (nhận định của người tổng hợp): chính người vận động nói ngành mình "đang ốm, đang chết" (đoạn mở đầu chương), và Hazlitt dựa vào đó ở mục 4 ("theo chính lời những người ủng hộ, ngành X đang thu hẹp hay đang chết"); nếu họ muốn coi khó khăn là tạm thời thì gánh nặng chứng minh thuộc về họ.
+Ví dụ xe ngựa nói về một ngành mất nhu cầu vĩnh viễn. Nhưng có những ngành gặp khó vì cú sốc tạm thời, như khủng hoảng tài chính đóng băng tín dụng, hay một giai đoạn giá nguyên liệu bất thường. Khi đó, để một doanh nghiệp còn sức sống phá sản có thể làm mất vốn tổ chức, mạng lưới nhà cung cấp và tay nghề vốn khó dựng lại.
+
+Các vụ cứu trợ ngành ô tô Mỹ năm 2008–2009 là ví dụ được tranh luận: người ủng hộ cho rằng nó tránh được sự sụp đổ của cả chuỗi cung ứng; người phản đối cho rằng nó tạo tiền lệ cứu doanh nghiệp yếu.
+
+Hazlitt không phân biệt ngành "đang chết" với ngành "đang ốm". Có thể đáp thay ông (nhận định của người tổng hợp): chính người vận động nói ngành mình "đang ốm, đang chết" (đoạn mở đầu chương), và Hazlitt dựa vào đó ở mục 4 ("theo chính lời những người ủng hộ, ngành X đang thu hẹp hay đang chết"); nếu họ muốn coi khó khăn là tạm thời thì gánh nặng chứng minh thuộc về họ.
 
 ### Ví dụ bạc là ví dụ mạnh nhất về "cái không thấy" vượt khỏi biên giới
 
@@ -390,3 +407,140 @@ Chính sách cứu bạc của Mỹ, được biện minh là để giúp "phư�
 - **Chiến lược doanh nghiệp.** Nếu ngành của bạn đang thu hẹp vì công nghệ thay thế (như rửa ảnh trước máy ảnh số), vận động bảo hộ chỉ mua được thời gian; dùng thời gian đó để chuyển vốn và người sang mảng đang lớn thường đem lại nhiều hơn. Ví dụ minh hoạ: một công ty in ấn truyền thống có thể dùng khách hàng hiện có để chuyển sang in bao bì, nhãn mác, nơi nhu cầu đang tăng, thay vì xin giữ giá in sách giáo khoa.
 - **Nghề nghiệp.** Câu "ngành đang chết phải được phép chết" áp dụng cho kỹ năng của từng người. Nếu nghề của bạn đang bị thay thế, câu hỏi đúng không phải "ai sẽ bảo vệ nghề này" mà "kỹ năng nào của tôi chuyển được sang ngành đang lớn". Lao động rời ngành cũ sớm thường chuyển đổi dễ hơn người ở lại tới khi ngành sụp.
 - **Nhìn thấy các ngành A, B, C.** Khi một khoản trợ cấp lớn được công bố cho ngành X, hãy tự hỏi những ngành nào sẽ hụt khách, hụt vốn hay hụt người vì khoản đó. Đó thường là nơi có cơ hội ít người để ý.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 14 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (lời vận động của ngành X, hai ví dụ cứu bạc và cứu than, phạm vi lập luận, chặn người mới vào ngành, trợ cấp trực tiếp, ngành đang chết phải được phép chết), mỗi nhánh ghi ngụy biện bị bác, cái thấy và cái không thấy, ví dụ và con số của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 14: cứu ngành X chỉ chuyển của cải từ các ngành A, B, C sang ngành X, cộng thêm thiệt hại ròng cho cả nước`"]
+  n1["`Mục 1 — Lời vận động của ngành X trước Quốc hội`"]
+  n0 --- n1
+  n2["`Ngành X nói mình đang ốm, đang chết, chỉ cứu được bằng thuế quan, giá cao hơn hoặc trợ cấp`"]
+  n1 --- n2
+  n3["`Để ngành chết: công nhân mất việc, chủ nhà, tiệm tạp hóa, hàng thịt, rạp chiếu bóng mất khách`"]
+  n1 --- n3
+  n4["`Cứu ngay: ngành X mua thiết bị, thuê người, thịnh vượng lan theo những vòng tròn ngày càng rộng`"]
+  n1 --- n4
+  n5["`Đây là dạng tổng quát của giá ngang giá cho nông nghiệp ở Chương 13, và ngành X thì có vô số`"]
+  n1 --- n5
+  n6["`Vòng lan tỏa ở ngành X là cái thấy, vòng co lại ở các ngành A, B, C là cái không thấy`"]
+  n1 --- n6
+  n7["`Mục 2 — Hai ví dụ có thật của Mỹ: cứu bạc và cứu than`"]
+  n0 --- n7
+  n8["`Bạc: Bộ Tài chính Mỹ bị buộc mua đống bạc không cần thiết với giá cao vô lý rồi cất trong kho`"]
+  n7 --- n8
+  n9["`Lý lẽ là giúp #quot;phương Đông#quot;, kết quả là giảm phát ở Trung Quốc và buộc nước này bỏ bản vị bạc`"]
+  n8 --- n9
+  n10["`Trợ cấp thẳng cho chủ mỏ hay thợ mỏ đạt cùng mục tiêu với một phần nhỏ thiệt hại và chi phí`"]
+  n8 --- n10
+  n11["`Nhưng không ai duyệt #quot;một vụ cướp trắng trợn#quot; nếu thiếu màn ngụy tạo về vai trò thiết yếu của bạc`"]
+  n8 --- n11
+  n12["`Than: Đạo luật Guffey buộc chủ mỏ thông đồng không bán dưới giá sàn do chính phủ ấn định`"]
+  n7 --- n12
+  n13["`Quốc hội định ấn định #quot;một#quot; giá than, rốt cuộc phải ấn định 350.000 mức giá riêng biệt`"]
+  n12 --- n13
+  n14["`Lý do: than nhiều cỡ, hàng nghìn mỏ, chở tới hàng nghìn nơi bằng đường sắt, xe tải, tàu, sà lan`"]
+  n12 --- n14
+  n15["`Giá than giữ cao đẩy người tiêu dùng chuyển nhanh hơn sang dầu, khí tự nhiên, thủy điện`"]
+  n12 --- n15
+  n16["`Mục đích chương: chỉ ra vài hậu quả tất yếu của mọi nỗ lực cứu ngành, không kể lại lịch sử`"]
+  n7 --- n16
+  n17["`Mục 3 — Phạm vi: Hazlitt chỉ bác một lý lẽ`"]
+  n0 --- n17
+  n18["`Gác lại lý do quân sự, thuế hay lương bất hợp lý, và dịch vụ công bị ép bán giá không đủ lãi`"]
+  n17 --- n18
+  n19["`Lý lẽ bị bác: để ngành X chết vì cạnh tranh tự do sẽ kéo cả nền kinh tế xuống`"]
+  n17 --- n19
+  n20["`Người của ngành gọi cạnh tranh tự do là #quot;laissez-faire, cắt cổ, chó cắn chó, luật rừng#quot;`"]
+  n17 --- n20
+  n21["`Đây là trường hợp tổng quát của lý lẽ đòi giá ngang giá cho nông sản và thuế quan bảo hộ`"]
+  n17 --- n21
+  n22["`Còn hai cách cứu ngành chưa bàn: chặn người mới vào ngành #quot;quá đông#quot; và trợ cấp trực tiếp`"]
+  n17 --- n22
+  n23["`Mục 4 — Cách thứ nhất: chặn người mới vào ngành #quot;quá đông#quot;`"]
+  n0 --- n23
+  n24["`Ngành thật sự quá đông thì không cần luật: không ai đầu tư vào nơi rủi ro lỗ cao, lợi nhuận thấp nhất`"]
+  n23 --- n24
+  n25["`Công nhân có lựa chọn tốt hơn thì không vào ngành lương thấp nhất, việc làm bấp bênh nhất`"]
+  n23 --- n25
+  n26["`Chặn bằng độc quyền, cartel, chính sách công đoàn hay luật là tước tự do lựa chọn của vốn và lao động`"]
+  n23 --- n26
+  n27["`Vốn và lao động bị đẩy tới nơi kém hơn ngành X → sản lượng giảm → mức sống bình quân giảm`"]
+  n23 --- n27
+  n28["`Mức sống giảm qua lương tiền thấp hơn, chi phí sinh hoạt cao hơn, hoặc cả hai, tùy chính sách tiền tệ`"]
+  n23 --- n28
+  n29["`Lương và lợi nhuận trong ngành X được giữ cao hơn, ở các ngành A, B, C bị ép thấp hơn`"]
+  n23 --- n29
+  n30["`Mục 5 — Cách thứ hai: trợ cấp trực tiếp từ ngân sách`"]
+  n0 --- n30
+  n31["`Trợ cấp chỉ là chuyển giao: người nộp thuế mất đúng bằng phần người trong ngành X được`"]
+  n30 --- n31
+  n32["`Ưu điểm của trợ cấp: làm sự thật rõ ràng, ít chỗ mù mờ hơn thuế quan, giá sàn, độc quyền loại trừ`"]
+  n30 --- n32
+  n33["`Cái không thấy: ngành khác nộp thuế nuôi ngành X, người tiêu dùng còn ít tiền mua thứ khác`"]
+  n30 --- n33
+  n34["`Để ngành X lớn hơn, các ngành khác tính bình quân phải nhỏ hơn`"]
+  n30 --- n34
+  n35["`Thiệt hại ròng: vốn và lao động bị kéo sang ngành dùng chúng kém hiệu quả, của cải tạo ra ít hơn`"]
+  n30 --- n35
+  n36["`Minh họa của người tổng hợp: trợ cấp 100 giữ nguồn lực làm ra 100 thay vì 130, phần 30 là thiệt hại ròng`"]
+  n30 --- n36
+  n37["`Mục 6 — Ngành đang chết phải được phép chết`"]
+  n0 --- n37
+  n38["`Chính người ủng hộ nói ngành X đang chết, vậy sao phải giữ nó bằng #quot;hô hấp nhân tạo#quot;`"]
+  n37 --- n38
+  n39["`Sai lầm sâu xa: nghĩ nền kinh tế tăng trưởng thì mọi ngành phải cùng tăng một lúc`"]
+  n37 --- n39
+  n40["`Ngành cũ thu hẹp hay chết mới giải phóng vốn và lao động để ngành mới lớn đủ nhanh`"]
+  n37 --- n40
+  n41["`Giữ nghề xe ngựa sống nhân tạo sẽ làm chậm ngành ô tô, ít của cải hơn, tiến bộ khoa học chậm lại`"]
+  n37 --- n41
+  n42["`Để ngành đang chết được chết cũng cần như để ngành đang lớn được lớn, cái trước là điều kiện của cái sau`"]
+  n37 --- n42
+  n43["`Giữ ngành lỗi thời cũng dại như giữ phương pháp sản xuất lỗi thời, thường là cùng một việc`"]
+  n37 --- n43
+  n44["`Minh họa của người tổng hợp: trợ cấp tiệm rửa ảnh làm chậm nghề sửa điện thoại, hậu kỳ ảnh số`"]
+  n37 --- n44
+  n45["`Thông điệp xuyên suốt`"]
+  n0 --- n45
+  n46["`Với mọi đề xuất cứu ngành X, hãy hỏi các ngành khác và người nộp thuế mất gì`"]
+  n45 --- n46
+  n47["`Nếu buộc phải hỗ trợ, trợ cấp thẳng và công khai ít hại hơn cách che giấu như mua bạc giá cao`"]
+  n45 --- n47
+  n48["`Giới hạn: Hazlitt bỏ qua chi phí chuyển đổi, cú sốc Trung Quốc làm hại vùng công nghiệp Mỹ cả chục năm`"]
+  n45 --- n48
+  n49["`Kinh tế học hiện đại: để ngành thu hẹp, nhưng hỗ trợ con người thay vì hỗ trợ ngành`"]
+  n45 --- n49
+  class n0 root
+  class n1,n7,n17,n23,n30,n37,n45 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 14 "Saving the X Industry". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 13 vừa phân tích giá ngang giá (parity) cho nông sản, tức chính sách cứu một ngành cụ thể là nông nghiệp. Chương 14 khái quát hoá: thay "nông nghiệp" bằng một ngành bất kỳ gọi là "ngành X" (X industry), và xét hai cách cứu ngành chưa được bàn ở các chương trước (Chương 11 về thuế quan, Chương 13 về giá ngang giá): chặn người mới vào ngành, và trợ cấp trực tiếp từ ngân sách.
+
+Áp dụng "bài học" của Chương 1, Hazlitt hỏi: nếu ngành X được giữ lại, các ngành còn lại của nền kinh tế (ông gọi là các ngành A, B, C) mất gì?
+
+Kết luận của chương ("ngành đang chết phải được phép chết") dẫn thẳng sang Chương 15, nơi Hazlitt giải thích cơ chế chung là hệ thống giá phân bổ lao động và vốn giữa các ngành.
+
+## Lưu ý
+
+- **Bạc:** "cứu bạc" ở đây là Đạo luật Mua bạc (Silver Purchase Act) năm 1934, do nhóm "thượng nghị sĩ bạc" (silver Senators) của các bang miền Tây có mỏ bạc vận động. Luật buộc Bộ Tài chính Mỹ mua bạc cho đến khi bạc chiếm một phần tư dự trữ tiền tệ hoặc giá bạc đạt một mức mục tiêu rất cao. Giá bạc thế giới tăng mạnh làm bạc chảy khỏi Trung Quốc (khi đó dùng tiền bạc), gây giảm phát, và Trung Quốc phải bỏ chế độ bản vị bạc vào cuối năm 1935. Lập luận "giúp phương Đông" là: bạc lên giá thì dân Trung Quốc, Ấn Độ cầm bạc sẽ giàu lên và mua nhiều hàng Mỹ hơn.
+- **Than:** "Đạo luật Guffey" là tên chung cho Đạo luật Bảo tồn Than bitum 1935 (Guffey–Snyder), bị Toà án Tối cao tuyên vi hiến năm 1936, và Đạo luật Than bitum 1937 (Guffey–Vinson) thay thế, hết hiệu lực năm 1943. Con số 350.000 mức giá lấy từ lời khai của Dan H. Wheeler, giám đốc Phòng Than bitum, trong phiên điều trần về việc gia hạn Đạo luật 1937 (chú thích của Hazlitt).
+- Hazlitt tự giới hạn phạm vi: ông **không** bàn các lý do cứu ngành vì quốc phòng, vì ngành bị đánh thuế hay chịu lương bất hợp lý so với ngành khác, hay vì ngành dịch vụ công bị ép giá thấp. Ông chỉ bác một lập luận: ngành X chết sẽ kéo cả nền kinh tế xuống, còn giữ nó sống sẽ có lợi cho mọi người.
+- Chương này ngắn và gần như không có số liệu ngoài 350.000 mức giá than. Hazlitt giả định lao động và vốn rời ngành X sẽ sớm được ngành khác dùng; ông không bàn chi phí và thời gian chuyển đổi, điều mà nghiên cứu về sau cho thấy có thể rất lớn (xem phần Đánh giá). Mọi câu trích là bản dịch của người tổng hợp.

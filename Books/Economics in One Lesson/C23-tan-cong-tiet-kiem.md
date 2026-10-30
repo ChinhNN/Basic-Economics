@@ -1,11 +1,19 @@
 # Chương 23 — Cuộc tấn công vào tiết kiệm (The Assault on Saving)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 23 "The Assault on Saving". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương cuối của Phần Hai "Bài học được áp dụng" (The Lesson Applied). "Bài học" (the lesson) ở Chương 1 nói rằng phải xét tác động của một chính sách lên mọi nhóm và trong dài hạn, chứ không chỉ lên một nhóm trong ngắn hạn. Chương 23 áp dụng bài học đó vào chính hành vi **tiết kiệm** (saving): cái thấy được là tiền chi tiêu cho tiêu dùng, cái không thấy là tiền tiết kiệm được chi cho hàng tư bản. Chương này nối nhiều sợi đã có trước: ngụy biện cửa sổ vỡ (Chương 2) cho rằng chi tiêu bất kỳ đều tốt; đề xuất ở mục 3 của chương này, rằng chính phủ phải tự nghĩ ra dự án để tiêu phần tiết kiệm "thừa", là biến thể của niềm tin vào chi tiêu chính phủ mà Chương 4 (công trình công cộng) đã bác; tín dụng (Chương 6) và lạm phát (Chương 22) là công cụ của chính sách "tiền rẻ"; máy móc (Chương 7) là thứ mà tiết kiệm mua về. Chương 24 sau đó tổng kết toàn bộ cuốn sách.
-**Ý chính:** Hazlitt muốn chứng minh rằng tiết kiệm không làm giảm việc làm hay gây suy thoái, mà là điều kiện để sản lượng, lương và mức sống tăng lên. Ông dùng câu chuyện hai anh em mượn từ Bastiat: Alvin tiêu sạch thu nhập 50.000 USD mỗi năm và tiêu lấn vào vốn, Benjamin chỉ tiêu 25.000 USD, cho từ thiện 5.000 USD và đầu tư 20.000 USD. Cả hai tạo ra lượng việc làm như nhau, nhưng sau 12 năm Alvin phá sản còn Benjamin giàu hơn và tạo nhiều việc làm hơn. Sau đó ông bác bốn ngụy biện: (1) đánh đồng tiết kiệm với cất trữ tiền mặt và cho rằng nó gây suy thoái; (2) cho rằng tiết kiệm là "làm bánh mãi mà không ăn", bác bằng bảng số 11 năm với tỷ lệ tiết kiệm 20%; (3) cho rằng tiết kiệm và đầu tư là hai biến độc lập nên chính phủ phải tiêu hộ phần tiết kiệm thừa, bác bằng lập luận lãi suất là giá cân bằng cung và cầu vốn, và chính sách tiền rẻ là một dạng ấn định giá; (4) cho rằng lượng vốn mà nền kinh tế hấp thụ được có giới hạn.
+## Ý chính
 
-> **Lưu ý:** (1) Theo cách đọc của người tổng hợp, chương này là lời đáp trực tiếp cho kinh tế học Keynes, dù Hazlitt không nêu tên Keynes hay Hansen (lời nói đầu của sách nói ông cố ý không nêu tên người viết cụ thể); chỉ dấu rõ nhất là hai chú thích dẫn sách *The Bogey of Economic Maturity* (1945) của George Terborgh, một cuốn bác thuyết trì trệ. Năm 1936, John Maynard Keynes xuất bản *Lý thuyết tổng quát về việc làm, lãi suất và tiền tệ* (*The General Theory*), trong đó có ý: khi mọi người cùng tăng tiết kiệm, tổng cầu giảm, sản lượng giảm và tổng tiết kiệm có thể không tăng (về sau gọi là "nghịch lý tiết kiệm", *paradox of thrift*); và trong suy thoái, chính phủ chi tiền cho việc vô ích như "đào hố rồi lấp lại" hay "xây kim tự tháp" vẫn tốt hơn không làm gì. Năm 1938, Alvin Hansen (Harvard) đưa ra thuyết **trì trệ kéo dài** (*secular stagnation*): nước Mỹ đã hết "cơ hội đầu tư" nên tiết kiệm sẽ thừa mãi. Khi Hazlitt viết về "kim tự tháp", "hố vô ích" và "giới hạn hấp thụ vốn", nhiều khả năng ông đang nhắm vào hai luận điểm này. (2) "Chính sách tiền rẻ" (*cheap money*) mà Hazlitt phê phán là chính sách thực có: từ năm 1942 đến năm 1951, Cục Dự trữ Liên bang Mỹ (Fed) cam kết giữ lãi suất trái phiếu chính phủ ở mức thấp cố định để tài trợ chiến tranh, và chỉ thôi sau thỏa thuận Bộ Tài chính – Fed năm 1951. (3) Câu chuyện hai anh em lấy từ chương "Tiết kiệm và xa xỉ" trong tiểu luận *Cái thấy được và cái không thấy* (1850) của Frédéric Bastiat, nơi hai anh em tên là Mondor và Aristus. (4) Hazlitt nói đúng rằng tiết kiệm không làm giảm tổng chi tiêu **khi** hệ thống tài chính chuyển nó thành đầu tư; nhưng các cuộc khủng hoảng sau này (Đại suy thoái thập niên 1930 theo cách đọc của Friedman và Schwartz, Nhật Bản thập niên 1990, khủng hoảng 2008) cho thấy có những giai đoạn nhu cầu giữ tiền tăng mạnh và lãi suất chạm mức sàn, khi đó tiết kiệm tăng thêm không tự chuyển thành đầu tư. Phần Đánh giá bàn kỹ chỗ này. (5) Bản gốc có một lỗi gõ: "He either deposits it in a hank" ("hank" là "bank", ngân hàng). Mọi câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng tiết kiệm không làm giảm việc làm hay gây suy thoái, mà là điều kiện để sản lượng, lương và mức sống tăng lên.
+
+Ông dùng câu chuyện hai anh em mượn từ Bastiat: Alvin tiêu sạch thu nhập 50.000 USD mỗi năm và tiêu lấn vào vốn, Benjamin chỉ tiêu 25.000 USD, cho từ thiện 5.000 USD và đầu tư 20.000 USD.
+
+Cả hai tạo ra lượng việc làm như nhau, nhưng sau 12 năm Alvin phá sản còn Benjamin giàu hơn và tạo nhiều việc làm hơn.
+
+Sau đó ông bác bốn ngụy biện:
+
+- Đánh đồng tiết kiệm với cất trữ tiền mặt và cho rằng nó gây suy thoái.
+- Cho rằng tiết kiệm là "làm bánh mãi mà không ăn", bác bằng bảng số 11 năm với tỷ lệ tiết kiệm 20%.
+- Cho rằng tiết kiệm và đầu tư là hai biến độc lập nên chính phủ phải tiêu hộ phần tiết kiệm thừa, bác bằng lập luận lãi suất là giá cân bằng cung và cầu vốn, và chính sách tiền rẻ là một dạng ấn định giá.
+- Cho rằng lượng vốn mà nền kinh tế hấp thụ được có giới hạn.
 
 ## Sơ đồ
 
@@ -372,7 +380,9 @@ Các nhà kinh tế cổ điển đã bác các ngụy biện của thời họ,
 
 Để làm rõ vấn đề, Hazlitt mượn ví dụ kinh điển của Bastiat. Hai anh em, một người hoang phí, một người cẩn trọng, mỗi người thừa kế một khoản tài sản cho thu nhập 50.000 USD mỗi năm. Hazlitt bỏ qua thuế thu nhập và câu hỏi hai người có nên đi làm hay không, vì không liên quan.
 
-**Alvin** tiêu xài không chỉ do tính cách mà theo nguyên tắc. Ông là môn đồ của Johann Karl Rodbertus, nhà kinh tế Đức giữa thế kỷ 19, người tuyên bố nhà tư bản "phải tiêu thu nhập đến xu cuối cùng vào tiện nghi và xa xỉ", vì nếu họ "quyết định tiết kiệm... hàng hóa sẽ ứ đọng, và một phần công nhân sẽ không có việc". Alvin luôn có mặt ở hộp đêm, boa hậu, giữ một cơ ngơi phô trương với nhiều người hầu, hai tài xế, không tiếc số xe hơi, nuôi chuồng ngựa đua, có du thuyền, đi du lịch, sắm cho vợ vòng kim cương và áo lông thú, tặng bạn bè quà đắt tiền mà vô dụng. Để làm được vậy ông phải tiêu lấn vào vốn. Nhưng có sao: nếu tiết kiệm là tội thì tiêu vốn phải là đức tính, và dù sao ông cũng đang bù lại cái hại do người anh em keo kiệt Benjamin gây ra.
+**Alvin** tiêu xài không chỉ do tính cách mà theo nguyên tắc. Ông là môn đồ của Johann Karl Rodbertus, nhà kinh tế Đức giữa thế kỷ 19, người tuyên bố nhà tư bản "phải tiêu thu nhập đến xu cuối cùng vào tiện nghi và xa xỉ", vì nếu họ "quyết định tiết kiệm... hàng hóa sẽ ứ đọng, và một phần công nhân sẽ không có việc".
+
+Alvin luôn có mặt ở hộp đêm, boa hậu, giữ một cơ ngơi phô trương với nhiều người hầu, hai tài xế, không tiếc số xe hơi, nuôi chuồng ngựa đua, có du thuyền, đi du lịch, sắm cho vợ vòng kim cương và áo lông thú, tặng bạn bè quà đắt tiền mà vô dụng. Để làm được vậy ông phải tiêu lấn vào vốn. Nhưng có sao: nếu tiết kiệm là tội thì tiêu vốn phải là đức tính, và dù sao ông cũng đang bù lại cái hại do người anh em keo kiệt Benjamin gây ra.
 
 Alvin được cô gái giữ mũ áo, bồi bàn, chủ nhà hàng, tiệm lông thú, tiệm kim hoàn và mọi cơ sở xa xỉ quý mến. Họ coi ông là ân nhân của xã hội. Ai cũng thấy rõ ông đang tạo việc làm và rải tiền ra.
 
@@ -397,7 +407,11 @@ Kết luận của Hazlitt: **"tiết kiệm", trong thế giới hiện đại,
 
 ### 3. Đoạn sau khoản từ thiện: lý lẽ đạo đức của Benjamin về chi tiêu xa xỉ
 
-Hazlitt dành một đoạn cho suy nghĩ của Benjamin, xuất phát từ ý vừa nêu (tiền từ thiện đẩy sản xuất sang hàng thiết yếu). Đoạn này được trình bày là quan điểm của Benjamin ("as Benjamin sees it", "he feels"), có chú thích dẫn sách *Poverty and Waste* (1914) của Hartley Withers; đoạn kế tiếp mở đầu bằng "gác lại những ý của Benjamin" (*apart from Benjamin's ideas*) để quay về phân tích chính. Lương tâm Benjamin đôi khi áy náy ngay cả về 25.000 USD ông tự tiêu. Ông cho rằng kiểu phô trương và tiêu xài liều lĩnh của Alvin không chỉ gây bất mãn và đố kỵ ở những người khó kiếm sống, mà còn thực sự làm họ khó khăn hơn. Lý do: tại một thời điểm, năng lực sản xuất thực tế của quốc gia có hạn. Năng lực ấy càng bị dồn vào làm đồ phù phiếm và xa xỉ thì càng ít còn lại để làm những thứ thiết yếu cho người cần. Ông càng rút ít khỏi kho của cải hiện có cho mình thì càng để lại nhiều cho người khác. Sự tiết chế trong tiêu dùng, theo ông, làm dịu những vấn đề do bất bình đẳng của cải và thu nhập gây ra. Ông biết sự tiết chế có thể quá đà, nhưng cho rằng ai có thu nhập cao hơn hẳn mức trung bình cũng nên có một phần.
+Hazlitt dành một đoạn cho suy nghĩ của Benjamin, xuất phát từ ý vừa nêu (tiền từ thiện đẩy sản xuất sang hàng thiết yếu). Đoạn này được trình bày là quan điểm của Benjamin ("as Benjamin sees it", "he feels"), có chú thích dẫn sách *Poverty and Waste* (1914) của Hartley Withers; đoạn kế tiếp mở đầu bằng "gác lại những ý của Benjamin" (*apart from Benjamin's ideas*) để quay về phân tích chính.
+
+Lương tâm Benjamin đôi khi áy náy ngay cả về 25.000 USD ông tự tiêu. Ông cho rằng kiểu phô trương và tiêu xài liều lĩnh của Alvin không chỉ gây bất mãn và đố kỵ ở những người khó kiếm sống, mà còn thực sự làm họ khó khăn hơn. Lý do: tại một thời điểm, năng lực sản xuất thực tế của quốc gia có hạn. Năng lực ấy càng bị dồn vào làm đồ phù phiếm và xa xỉ thì càng ít còn lại để làm những thứ thiết yếu cho người cần.
+
+Ông càng rút ít khỏi kho của cải hiện có cho mình thì càng để lại nhiều cho người khác. Sự tiết chế trong tiêu dùng, theo ông, làm dịu những vấn đề do bất bình đẳng của cải và thu nhập gây ra. Ông biết sự tiết chế có thể quá đà, nhưng cho rằng ai có thu nhập cao hơn hẳn mức trung bình cũng nên có một phần.
 
 Nhận xét của người tổng hợp: đoạn này đáng chú ý vì nó đảo ngược lập luận phổ biến rằng người giàu tiêu xài là "làm lợi cho người nghèo": trong một nền kinh tế đã dùng hết năng lực, mỗi chiếc du thuyền là một phần lao động và vật liệu không được dùng để làm nhà ở hay quần áo.
 
@@ -415,7 +429,11 @@ Gọi việc tạm thời không mua này là "tiết kiệm" là sai tên: nó 
 
 Hazlitt đưa thêm một ví dụ: khi chính phủ can thiệp tùy tiện vào kinh doanh và doanh nghiệp không biết chính phủ sẽ làm gì tiếp, sự bất định nảy sinh. Lợi nhuận không được tái đầu tư. Doanh nghiệp và cá nhân để số dư tiền mặt tích lại trong ngân hàng, giữ dự phòng lớn hơn. Việc tích trữ tiền này có thể trông như nguyên nhân của sự chậm lại sau đó, nhưng nguyên nhân thật là sự bất định do chính sách; số dư tiền mặt lớn hơn chỉ là một mắt xích trong chuỗi hậu quả. Đổ lỗi cho "tiết kiệm quá mức" giống như đổ lỗi giá táo giảm cho người không chịu trả giá cao, thay vì cho vụ táo bội thu.
 
-Hazlitt nhận xét rằng một khi người ta đã quyết chế giễu một thói quen hay một thiết chế, thì lý lẽ nào chống lại nó, dù phi logic đến đâu, cũng được coi là đủ tốt. Lập luận tiếp theo của phía chống tiết kiệm: các ngành hàng tiêu dùng được xây dựng theo kỳ vọng về một mức cầu nhất định; nếu người dân đổ xô tiết kiệm, kỳ vọng bị phụ, và suy thoái bắt đầu. Hazlitt đáp rằng lập luận này lặp lại sai lầm đã nói: quên rằng phần tiết kiệm bớt cho hàng tiêu dùng được chi cho hàng tư bản, nên "tiết kiệm" không nhất thiết làm tổng chi tiêu giảm dù một đô la. Phần đúng duy nhất là mọi thay đổi **đột ngột** đều có thể gây xáo trộn. Nhưng nếu người tiêu dùng đột ngột chuyển cầu từ hàng tiêu dùng này sang hàng tiêu dùng khác thì cũng xáo trộn như vậy; và nếu những người vốn tiết kiệm đột ngột chuyển cầu từ hàng tư bản sang hàng tiêu dùng thì còn xáo trộn hơn.
+Hazlitt nhận xét rằng một khi người ta đã quyết chế giễu một thói quen hay một thiết chế, thì lý lẽ nào chống lại nó, dù phi logic đến đâu, cũng được coi là đủ tốt.
+
+Lập luận tiếp theo của phía chống tiết kiệm: các ngành hàng tiêu dùng được xây dựng theo kỳ vọng về một mức cầu nhất định; nếu người dân đổ xô tiết kiệm, kỳ vọng bị phụ, và suy thoái bắt đầu. Hazlitt đáp rằng lập luận này lặp lại sai lầm đã nói: quên rằng phần tiết kiệm bớt cho hàng tiêu dùng được chi cho hàng tư bản, nên "tiết kiệm" không nhất thiết làm tổng chi tiêu giảm dù một đô la.
+
+Phần đúng duy nhất là mọi thay đổi **đột ngột** đều có thể gây xáo trộn. Nhưng nếu người tiêu dùng đột ngột chuyển cầu từ hàng tiêu dùng này sang hàng tiêu dùng khác thì cũng xáo trộn như vậy; và nếu những người vốn tiết kiệm đột ngột chuyển cầu từ hàng tư bản sang hàng tiêu dùng thì còn xáo trộn hơn.
 
 ### 5. Cuối mục 2 của chương: "làm bánh mà không ăn" và bảng 11 năm
 
@@ -454,7 +472,9 @@ Hazlitt mở mục này bằng câu: những kẻ thù của tiết kiệm vẫn
 
 Hazlitt chỉ ra các sai lầm chính:
 
-**(a) Tiết kiệm chỉ có thể vượt đầu tư đúng bằng phần tiền mặt thực sự bị cất trữ.** Ở một xã hội công nghiệp hiện đại như Mỹ, ít ai giấu tiền xu, tiền giấy trong tất hay dưới đệm. Phần nhỏ đó đã được phản ánh vào kế hoạch sản xuất của doanh nghiệp và vào mức giá. Nó thậm chí không lũy kế: khi những người sống cô độc lập dị qua đời, kho tiền của họ được tìm thấy và tiêu đi, bù lại cho phần cất trữ mới. Tổng tác động lên hoạt động kinh doanh có lẽ không đáng kể. Trong chú thích, Hazlitt nói rõ nhiều bất đồng giữa các nhà kinh tế về chủ đề này chỉ là khác biệt định nghĩa: có thể định nghĩa "tiết kiệm" và "đầu tư" sao cho chúng luôn bằng nhau; ở đây ông chọn định nghĩa tiết kiệm theo tiền và đầu tư theo hàng hóa, gần với cách dùng thông thường.
+**(a) Tiết kiệm chỉ có thể vượt đầu tư đúng bằng phần tiền mặt thực sự bị cất trữ.** Ở một xã hội công nghiệp hiện đại như Mỹ, ít ai giấu tiền xu, tiền giấy trong tất hay dưới đệm. Phần nhỏ đó đã được phản ánh vào kế hoạch sản xuất của doanh nghiệp và vào mức giá. Nó thậm chí không lũy kế: khi những người sống cô độc lập dị qua đời, kho tiền của họ được tìm thấy và tiêu đi, bù lại cho phần cất trữ mới. Tổng tác động lên hoạt động kinh doanh có lẽ không đáng kể.
+
+Trong chú thích, Hazlitt nói rõ nhiều bất đồng giữa các nhà kinh tế về chủ đề này chỉ là khác biệt định nghĩa: có thể định nghĩa "tiết kiệm" và "đầu tư" sao cho chúng luôn bằng nhau; ở đây ông chọn định nghĩa tiết kiệm theo tiền và đầu tư theo hàng hóa, gần với cách dùng thông thường.
 
 **(b) Tiền gửi ngân hàng không nằm im.** Ngân hàng tiết kiệm hay ngân hàng thương mại đều mong cho vay và đầu tư; họ không thể để vốn nằm không. Chỉ có hai điều khiến người dân nói chung tăng lượng tiền mặt nắm giữ, hay khiến ngân hàng để vốn nằm im và chịu mất lãi: sợ giá hàng sẽ giảm, hoặc ngân hàng sợ rủi ro mất vốn gốc quá lớn. Nhưng như thế nghĩa là dấu hiệu suy thoái đã xuất hiện và gây ra việc cất trữ, chứ không phải việc cất trữ khởi đầu suy thoái.
 
@@ -462,7 +482,9 @@ Hazlitt chỉ ra các sai lầm chính:
 
 **Phê phán chính sách tiền rẻ.** Hazlitt viết rằng chủ đề này bị làm rối tung bởi các ngụy biện phức tạp và các chính sách tai hại dựa trên chúng. Có một nỗi sợ gần như bệnh hoạn về lãi suất "quá cao": người ta nói lãi suất cao thì doanh nghiệp vay để xây nhà máy, mua máy móc sẽ không có lời. Lập luận này hiệu quả đến mức chính phủ khắp nơi trong các thập niên gần đây đều theo chính sách "tiền rẻ" nhân tạo. Nhưng nó chỉ lo tăng **cầu** vốn mà quên tác động lên **cung** vốn. Đó lại là một ví dụ của ngụy biện chỉ nhìn tác động lên một nhóm và quên nhóm khác.
 
-Nếu lãi suất bị giữ quá thấp so với rủi ro, tiền sẽ không được tiết kiệm và không được cho vay. Người chủ trương tiền rẻ tin rằng tiết kiệm diễn ra tự động bất kể lãi suất, vì người giàu đã thỏa mãn mọi nhu cầu và không biết làm gì khác với tiền. Nhưng họ không nói chính xác ở mức thu nhập nào người ta tiết kiệm một lượng tối thiểu cố định bất kể lãi suất hay rủi ro. Thực tế, lượng tiết kiệm của người rất giàu chắc chắn ít bị ảnh hưởng bởi lãi suất hơn (tính theo tỷ lệ) so với người khá giả vừa phải, nhưng tiết kiệm của hầu như ai cũng bị ảnh hưởng ở một mức nào đó. Lập luận dựa trên một trường hợp cực đoan rằng lãi suất giảm mạnh không làm giảm tiết kiệm thực giống như nói giá đường giảm mạnh không làm giảm tổng sản lượng đường vì những nhà sản xuất hiệu quả, chi phí thấp vẫn trồng như trước. Nó bỏ qua người tiết kiệm cận biên, và thực ra bỏ qua đại đa số người tiết kiệm.
+Nếu lãi suất bị giữ quá thấp so với rủi ro, tiền sẽ không được tiết kiệm và không được cho vay. Người chủ trương tiền rẻ tin rằng tiết kiệm diễn ra tự động bất kể lãi suất, vì người giàu đã thỏa mãn mọi nhu cầu và không biết làm gì khác với tiền. Nhưng họ không nói chính xác ở mức thu nhập nào người ta tiết kiệm một lượng tối thiểu cố định bất kể lãi suất hay rủi ro.
+
+Thực tế, lượng tiết kiệm của người rất giàu chắc chắn ít bị ảnh hưởng bởi lãi suất hơn (tính theo tỷ lệ) so với người khá giả vừa phải, nhưng tiết kiệm của hầu như ai cũng bị ảnh hưởng ở một mức nào đó. Lập luận dựa trên một trường hợp cực đoan rằng lãi suất giảm mạnh không làm giảm tiết kiệm thực giống như nói giá đường giảm mạnh không làm giảm tổng sản lượng đường vì những nhà sản xuất hiệu quả, chi phí thấp vẫn trồng như trước. Nó bỏ qua người tiết kiệm cận biên, và thực ra bỏ qua đại đa số người tiết kiệm.
 
 Hậu quả của việc giữ lãi suất thấp giả tạo, theo Hazlitt, giống hệt việc giữ bất kỳ giá nào dưới mức thị trường tự nhiên:
 
@@ -487,7 +509,9 @@ Vốn gồm hai phần:
 - **Hàng tiêu dùng lâu bền (consumers' durable goods):** ô tô, tủ lạnh, đồ đạc, trường học, đại học, nhà thờ, thư viện, bệnh viện, và trên hết là nhà ở. Trong lịch sử chưa bao giờ có đủ những thứ này. Sau việc xây dựng bị hoãn lại và sự tàn phá của Thế chiến II, chúng còn thiếu trầm trọng. Và dù có đủ nhà về số lượng, chất lượng vẫn có thể và nên được cải thiện không giới hạn, trừ những ngôi nhà tốt nhất.
 - **Vốn theo nghĩa hẹp (capital proper):** công cụ sản xuất, từ chiếc rìu, con dao, cái cày thô sơ nhất đến máy công cụ tinh xảo nhất, máy phát điện lớn nhất, máy gia tốc hạt (cyclotron), hay nhà máy được trang bị tối tân nhất. Ở đây cũng vậy, cả về lượng lẫn nhất là về chất, không có giới hạn cho sự mở rộng. Sẽ không có "thừa" vốn cho tới khi nước lạc hậu nhất được trang bị kỹ thuật như nước tiên tiến nhất, nhà máy kém hiệu quả nhất ở Mỹ bắt kịp nhà máy hiện đại nhất, và công cụ sản xuất hiện đại nhất đạt tới mức trí sáng tạo của con người đi vào ngõ cụt, không cải tiến thêm được. Chừng nào chưa có những điều đó, còn chỗ không giới hạn cho thêm vốn.
 
-Vậy vốn thêm được "hấp thụ", được "trả tiền" bằng cách nào? Hazlitt trả lời: nếu nó được để dành và tiết kiệm, nó tự hấp thụ và tự trả tiền. Doanh nghiệp đầu tư vào hàng tư bản mới, tức là mua công cụ mới hơn, tốt hơn, khéo hơn, vì công cụ ấy giảm chi phí sản xuất. Công cụ hoặc làm ra những thứ mà lao động tay không hoàn toàn không làm nổi (nay gồm phần lớn đồ vật quanh ta: sách, máy chữ, ô tô, đầu máy xe lửa, cầu treo); hoặc tăng rất lớn sản lượng của chúng; hoặc, nói cách khác, giảm chi phí sản xuất đơn vị. Vì không có giới hạn xác định cho mức giảm chi phí đơn vị (cho tới khi mọi thứ có thể sản xuất không tốn gì), nên không có giới hạn xác định cho lượng vốn mới được hấp thụ.
+Vậy vốn thêm được "hấp thụ", được "trả tiền" bằng cách nào? Hazlitt trả lời: nếu nó được để dành và tiết kiệm, nó tự hấp thụ và tự trả tiền. Doanh nghiệp đầu tư vào hàng tư bản mới, tức là mua công cụ mới hơn, tốt hơn, khéo hơn, vì công cụ ấy giảm chi phí sản xuất.
+
+Công cụ hoặc làm ra những thứ mà lao động tay không hoàn toàn không làm nổi (nay gồm phần lớn đồ vật quanh ta: sách, máy chữ, ô tô, đầu máy xe lửa, cầu treo); hoặc tăng rất lớn sản lượng của chúng; hoặc, nói cách khác, giảm chi phí sản xuất đơn vị. Vì không có giới hạn xác định cho mức giảm chi phí đơn vị (cho tới khi mọi thứ có thể sản xuất không tốn gì), nên không có giới hạn xác định cho lượng vốn mới được hấp thụ.
 
 Chi phí đơn vị giảm nhờ vốn mới đem lại một trong hai, hoặc cả hai kết quả:
 
@@ -599,13 +623,17 @@ Tiết kiệm không làm giảm tổng chi tiêu hay việc làm, vì phần ti
 
 ### Câu chuyện hai anh em là cách áp dụng "bài học" rõ nhất vào tiết kiệm, và nó đúng trong điều kiện bình thường
 
-Sức mạnh của chương nằm ở việc nó biến một tranh luận vĩ mô trừu tượng thành câu hỏi "tiền đi đâu". Bảng thu chi của Benjamin buộc người đọc lần theo từng đô la: 25.000 USD tiêu, 5.000 USD cho, 20.000 USD đi qua ngân hàng vào nhà máy và xe tải. Cái nhìn "người tiết kiệm không tạo việc làm" sụp đổ ngay khi ta hỏi ngân hàng làm gì với tiền gửi. Đây đúng là cấu trúc của ngụy biện cửa sổ vỡ ở Chương 2: cái thấy được (tiền boa ở hộp đêm) che mất cái không thấy (công nhân xây nhà máy). Trong điều kiện bình thường, khi hệ thống tài chính hoạt động và lãi suất có chỗ để giảm, phân tích này được kinh tế học chính thống ngày nay chấp nhận: dài hạn, tỷ lệ tiết kiệm và đầu tư cao đi cùng tích lũy vốn và thu nhập cao. Các nền kinh tế Đông Á tăng trưởng nhanh nửa sau thế kỷ 20 đều có tỷ lệ tiết kiệm rất cao.
+Sức mạnh của chương nằm ở việc nó biến một tranh luận vĩ mô trừu tượng thành câu hỏi "tiền đi đâu". Bảng thu chi của Benjamin buộc người đọc lần theo từng đô la: 25.000 USD tiêu, 5.000 USD cho, 20.000 USD đi qua ngân hàng vào nhà máy và xe tải. Cái nhìn "người tiết kiệm không tạo việc làm" sụp đổ ngay khi ta hỏi ngân hàng làm gì với tiền gửi.
+
+Đây đúng là cấu trúc của ngụy biện cửa sổ vỡ ở Chương 2: cái thấy được (tiền boa ở hộp đêm) che mất cái không thấy (công nhân xây nhà máy). Trong điều kiện bình thường, khi hệ thống tài chính hoạt động và lãi suất có chỗ để giảm, phân tích này được kinh tế học chính thống ngày nay chấp nhận: dài hạn, tỷ lệ tiết kiệm và đầu tư cao đi cùng tích lũy vốn và thu nhập cao. Các nền kinh tế Đông Á tăng trưởng nhanh nửa sau thế kỷ 20 đều có tỷ lệ tiết kiệm rất cao.
 
 Phần kết của câu chuyện (Alvin phá sản sau 12 năm) cũng chứa một ý ít được nói: chi tiêu bằng cách tiêu vốn không bền vững. Ngay cả nếu tiêu xài có "kích thích" việc làm ngắn hạn, nó chỉ kéo dài được tới khi vốn hết; còn tiết kiệm tạo ra dòng thu nhập ngày càng lớn để chi tiêu.
 
 ### Hazlitt gạt đi quá nhanh khả năng tiết kiệm không chuyển thành đầu tư
 
-Điểm yếu lớn nhất của chương là giả định rằng cất trữ tiền "cực hiếm" và "không đáng kể", và rằng lãi suất luôn giảm đủ để cân bằng tiết kiệm với đầu tư. Hazlitt thừa nhận việc người dân và ngân hàng ôm tiền "có thể làm suy thoái sâu và dài hơn", nhưng coi đó là chi tiết phụ vì nó là hậu quả chứ không phải nguyên nhân. Với người đang trong suy thoái, câu hỏi nguyên nhân gốc là gì ít quan trọng hơn câu hỏi làm sao thoát ra. Nếu nhu cầu giữ tiền tăng tự củng cố (giá giảm → chờ giá giảm thêm → càng ít mua → giá càng giảm), cơ chế lãi suất mà Hazlitt dựa vào có thể không đủ, nhất là khi lãi suất danh nghĩa đã gần 0 và không thể giảm thêm. Nhật Bản từ thập niên 1990 và các nước giàu sau năm 2008 là những trường hợp người ta tranh luận nhiều nhất về điều này: lãi suất ở mức sàn, doanh nghiệp và hộ gia đình ưu tiên trả nợ và tích tiền, đầu tư không tăng tương ứng.
+Điểm yếu lớn nhất của chương là giả định rằng cất trữ tiền "cực hiếm" và "không đáng kể", và rằng lãi suất luôn giảm đủ để cân bằng tiết kiệm với đầu tư. Hazlitt thừa nhận việc người dân và ngân hàng ôm tiền "có thể làm suy thoái sâu và dài hơn", nhưng coi đó là chi tiết phụ vì nó là hậu quả chứ không phải nguyên nhân.
+
+Với người đang trong suy thoái, câu hỏi nguyên nhân gốc là gì ít quan trọng hơn câu hỏi làm sao thoát ra. Nếu nhu cầu giữ tiền tăng tự củng cố (giá giảm → chờ giá giảm thêm → càng ít mua → giá càng giảm), cơ chế lãi suất mà Hazlitt dựa vào có thể không đủ, nhất là khi lãi suất danh nghĩa đã gần 0 và không thể giảm thêm. Nhật Bản từ thập niên 1990 và các nước giàu sau năm 2008 là những trường hợp người ta tranh luận nhiều nhất về điều này: lãi suất ở mức sàn, doanh nghiệp và hộ gia đình ưu tiên trả nợ và tích tiền, đầu tư không tăng tương ứng.
 
 Cũng đáng chú ý là Friedman và Schwartz, những nhà kinh tế không ủng hộ Keynes, cho rằng Đại suy thoái trầm trọng như vậy chủ yếu vì lượng tiền co lại khi ngân hàng đổ vỡ hàng loạt, tức là chính sự "cất trữ" của ngân hàng và người gửi tiền đã khuếch đại suy thoái. Như vậy, ngay cả khi đồng ý với Hazlitt rằng tiết kiệm bình thường không có hại, vẫn có lý do để ngân hàng trung ương can thiệp khi nhu cầu giữ tiền tăng đột ngột, điều mà chương này không bàn.
 
@@ -617,7 +645,9 @@ Tuy vậy, dù Hazlitt có phân biệt lãi suất giảm tự nhiên khi tiế
 
 ### Bảng 11 năm đúng về hướng nhưng bỏ qua lợi suất giảm dần của vốn
 
-Bảng của Hazlitt cho mỗi 20 đơn vị đầu tư thêm 2,5 điểm sản lượng mãi mãi. Nhưng nếu chỉ thêm máy móc mà không có tiến bộ kỹ thuật, mỗi máy thêm vào đem lại ít hơn máy trước (lợi suất giảm dần). Mô hình Solow chỉ ra rằng khi đó tăng trưởng nhờ tích lũy vốn chậm dần, và tồn tại một tỷ lệ tiết kiệm mà vượt qua nó thì tiêu dùng dài hạn **giảm**. Câu chế giễu "làm bánh mà không ăn" vì thế có một hạt nhân lý thuyết đúng, dù hiếm khi xảy ra ở các nước thị trường. Kinh nghiệm của các nền kinh tế kế hoạch hóa tập trung với tỷ lệ đầu tư rất cao nhưng mức sống thấp, hoặc các nước đầu tư quá mức vào hạ tầng và bất động sản mà hiệu quả thấp, cho thấy tiết kiệm nhiều chưa đủ; vốn phải được đầu tư vào đúng chỗ. Điều này lại phù hợp với Hazlitt ở chỗ khác: ông nhấn mạnh vai trò của lãi suất thị trường và lợi nhuận (Chương 21) trong việc chọn dự án.
+Bảng của Hazlitt cho mỗi 20 đơn vị đầu tư thêm 2,5 điểm sản lượng mãi mãi. Nhưng nếu chỉ thêm máy móc mà không có tiến bộ kỹ thuật, mỗi máy thêm vào đem lại ít hơn máy trước (lợi suất giảm dần). Mô hình Solow chỉ ra rằng khi đó tăng trưởng nhờ tích lũy vốn chậm dần, và tồn tại một tỷ lệ tiết kiệm mà vượt qua nó thì tiêu dùng dài hạn **giảm**. Câu chế giễu "làm bánh mà không ăn" vì thế có một hạt nhân lý thuyết đúng, dù hiếm khi xảy ra ở các nước thị trường.
+
+Kinh nghiệm của các nền kinh tế kế hoạch hóa tập trung với tỷ lệ đầu tư rất cao nhưng mức sống thấp, hoặc các nước đầu tư quá mức vào hạ tầng và bất động sản mà hiệu quả thấp, cho thấy tiết kiệm nhiều chưa đủ; vốn phải được đầu tư vào đúng chỗ. Điều này lại phù hợp với Hazlitt ở chỗ khác: ông nhấn mạnh vai trò của lãi suất thị trường và lợi nhuận (Chương 21) trong việc chọn dự án.
 
 Lập luận "không có giới hạn cho vốn được hấp thụ" vì thế đúng theo nghĩa rộng (vốn kết hợp với tiến bộ kỹ thuật thì còn chỗ mãi), nhưng không đúng nếu hiểu là bất kỳ khoản đầu tư nào cũng tự trả tiền. Ví dụ ngành ô tô Mỹ cũng cho thấy giới hạn: vài thập niên sau, các hãng Nhật với cách tổ chức sản xuất khác, không phải với nhiều vốn hơn, đã vượt các hãng Mỹ về chi phí và chất lượng.
 
@@ -634,3 +664,146 @@ Bài học của chương áp dụng trực tiếp vào cách đọc tin chính 
 - **Với tài chính cá nhân và doanh nghiệp nhỏ.** Câu chuyện Alvin và Benjamin là bài học về lãi kép: người giữ một tỷ lệ tiết kiệm đều đặn và đầu tư phần đó có thu nhập tăng dần, nên sau vài năm phần tiêu được còn lớn hơn người tiêu hết từ đầu. Với doanh nghiệp, giữ lại một phần lợi nhuận để tái đầu tư (mua thiết bị, đào tạo, phần mềm) thay vì chia hết là cách làm "bảng 11 năm" ở quy mô một công ty.
 - **Nhưng đừng bỏ qua phản biện.** Khi cả nền kinh tế đang suy giảm, người tiêu dùng và doanh nghiệp cùng thắt chặt, ngân hàng ngại cho vay, thì tiết kiệm thêm có thể không chuyển thành đầu tư ngay. Trong bối cảnh đó, cần theo dõi xem tín dụng có thực sự đến được doanh nghiệp không, thay vì mặc định rằng "tiền tiết kiệm tự động thành đầu tư".
 - **Đọc bằng câu hỏi "ai trả, ai được".** Lãi suất thấp có lợi cho người đi vay (doanh nghiệp, người mua nhà) và bất lợi cho người gửi tiết kiệm, nhất là người về hưu sống bằng lãi tiền gửi. Một chính sách được tuyên truyền là "hỗ trợ doanh nghiệp" luôn có một nhóm người trả tiền mà không ai nhắc tới; đó là nhóm mà Chương 24 sẽ gọi là "người bị lãng quên".
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 23 trên một trang: năm nhánh lớn đi theo bốn mục của bản gốc và các phần 1–7 của Nội dung chi tiết (hai anh em Alvin và Benjamin, tiết kiệm không phải cất trữ, bảng 11 năm, lãi suất và chính sách tiền rẻ, không có giới hạn hấp thụ vốn), mỗi nhánh ghi ngụy biện bị bác, lập luận cái thấy được và cái không thấy, ví dụ và con số của Hazlitt; nhánh cuối là thông điệp xuyên suốt cùng hai nhận định của phần Đánh giá.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 23: tiết kiệm không làm giảm việc làm hay gây suy thoái, mà là điều kiện để sản lượng, lương và mức sống tăng`"]
+  n1["`Mục 1 (phần 1–3) — Hai anh em Alvin và Benjamin`"]
+  n0 --- n1
+  n2["`Tục ngữ coi tiết kiệm là đức tính, nhưng năm 1946 học thuyết đề cao chi tiêu lại thịnh hành`"]
+  n1 --- n2
+  n3["`Ví dụ mượn của Bastiat: hai anh em, mỗi người có thu nhập 50.000 USD mỗi năm`"]
+  n1 --- n3
+  n4["`Alvin theo Rodbertus, tiêu #quot;đến xu cuối cùng#quot; vào xa xỉ, tiêu hết và tiêu lấn vào vốn`"]
+  n1 --- n4
+  n5["`Người chỉ thấy cái đập vào mắt tưởng Benjamin tạo chưa bằng nửa số việc làm của Alvin`"]
+  n1 --- n5
+  n6["`Benjamin tiêu 25.000 USD, cho từ thiện 5.000 USD, gửi ngân hàng hoặc đầu tư 20.000 USD`"]
+  n1 --- n6
+  n7["`20.000 USD thành nhà ở, nhà máy, tàu, xe tải, máy móc, tạo việc làm ngang bằng chi tiêu dùng`"]
+  n1 --- n7
+  n8["`Việc làm của Alvin ai có một mắt cũng thấy, việc làm của Benjamin phải nghĩ mới thấy`"]
+  n1 --- n8
+  n9["`12 năm sau Alvin phá sản và xin tiền, Benjamin thu nhập lớn hơn và tạo nhiều việc làm hơn`"]
+  n1 --- n9
+  n10["`Lý lẽ của Benjamin: năng lực sản xuất có hạn, càng làm đồ xa xỉ càng ít hàng thiết yếu cho người cần`"]
+  n1 --- n10
+  n11["`Mục 2 (phần 4) — Tiết kiệm không phải cất trữ, cất trữ là hậu quả của suy thoái`"]
+  n0 --- n11
+  n12["`Chữ tiết kiệm lúc chỉ cất trữ tiền mặt, lúc chỉ đầu tư, người dùng không phân biệt nhất quán`"]
+  n11 --- n12
+  n13["`Cất trữ tiền mặt vô cớ trên quy mô lớn thì có hại, nhưng cực hiếm`"]
+  n11 --- n13
+  n14["`Sau khi suy thoái bắt đầu, người ta ngừng mua vì sợ mất việc, chờ giá giảm tiếp, mất niềm tin vào lợi nhuận`"]
+  n11 --- n14
+  n15["`Gọi việc ngừng mua ấy là tiết kiệm là sai tên: nó làm suy thoái sâu thêm nhưng không khởi đầu suy thoái`"]
+  n11 --- n15
+  n16["`Can thiệp tùy tiện của chính phủ gây bất định, doanh nghiệp tích tiền mặt thay vì tái đầu tư`"]
+  n11 --- n16
+  n17["`Đổ lỗi cho tiết kiệm quá mức như đổ lỗi giá táo giảm cho người không chịu trả giá cao, thay vì cho vụ bội thu`"]
+  n11 --- n17
+  n18["`Phần bớt khỏi hàng tiêu dùng được chi cho hàng tư bản, tổng chi tiêu không nhất thiết giảm một đô la`"]
+  n11 --- n18
+  n19["`Chỉ thay đổi đột ngột mới gây xáo trộn, và chuyển đột ngột từ hàng tư bản sang hàng tiêu dùng còn xáo trộn hơn`"]
+  n11 --- n19
+  n20["`Mục 2 (phần 5) — #quot;Làm bánh mà không ăn#quot; và bảng 11 năm`"]
+  n0 --- n20
+  n21["`Giả định tiết kiệm 20% sản lượng, cao hơn nhiều mức tiết kiệm ròng thực tế ở Mỹ gần 12%`"]
+  n20 --- n21
+  n22["`Sản lượng tăng 2,5 điểm chỉ số mỗi năm nhờ tiết kiệm, không có tiết kiệm thì không tăng`"]
+  n20 --- n22
+  n23["`Năm 1 sản lượng 100 gồm 80 tiêu dùng và 20 tư bản, năm 11 là 125 gồm 100 tiêu dùng và 25 tư bản`"]
+  n20 --- n23
+  n24["`Tới năm 11, riêng phần tiêu dùng (100) đã bằng toàn bộ sản lượng năm 1, mỗi năm ăn chiếc bánh to hơn`"]
+  n20 --- n24
+  n25["`Ngành hàng tiêu dùng đã tính sẵn tỷ lệ tiết kiệm cũ, chỉ tăng tiết kiệm đột ngột và lớn mới để lại hàng ế`"]
+  n20 --- n25
+  n26["`Tiết kiệm giảm đột ngột không tăng việc làm, chỉ đẩy giá hàng tiêu dùng lên và hạ sản lượng dài hạn`"]
+  n20 --- n26
+  n27["`Mục 3 (phần 6) — Lãi suất cân bằng tiết kiệm và đầu tư, phê phán chính sách tiền rẻ`"]
+  n0 --- n27
+  n28["`Đối phương: tiết kiệm và đầu tư là hai biến độc lập, chính phủ phải tiêu hộ bằng đào hố, xây kim tự tháp`"]
+  n27 --- n28
+  n29["`Tiết kiệm chỉ vượt đầu tư đúng bằng tiền mặt bị cất trữ, phần này nhỏ và không lũy kế`"]
+  n27 --- n29
+  n30["`Ngân hàng muốn cho vay, chỉ để vốn nằm im khi sợ giá giảm hay sợ mất vốn gốc, tức suy thoái đã có`"]
+  n27 --- n30
+  n31["`Tiết kiệm là cung vốn mới, đầu tư là cầu vốn mới, lãi suất là giá vốn cho vay, #quot;một mức giá như mọi mức giá khác#quot;`"]
+  n27 --- n31
+  n32["`Lập luận tiền rẻ chỉ nhìn người cần vay, quên người cung cấp vốn: ngụy biện chỉ nhìn một nhóm`"]
+  n27 --- n32
+  n33["`Như giá đường giảm thì nhà sản xuất chi phí cao rút lui, lãi suất thấp làm người tiết kiệm cận biên bớt tiết kiệm`"]
+  n27 --- n33
+  n34["`Ép lãi suất dưới mức thị trường: cầu vốn tăng, cung vốn thực giảm, dự án đầu cơ mọc lên`"]
+  n27 --- n34
+  n35["`Giữ lãi suất thấp phải bơm tiền liên tục, như đổ nước vào sữa tạo ảo giác có nhiều sữa hơn`"]
+  n27 --- n35
+  n36["`Khi lạm phát dừng hay chỉ chậm lại, lãi suất tăng và khủng hoảng nổ ra`"]
+  n27 --- n36
+  n37["`Không can thiệp thì tiết kiệm tăng làm lãi suất giảm tự nhiên, tiết kiệm tự tạo ra cầu của nó`"]
+  n27 --- n37
+  n38["`Mục 4 (phần 7) — Không có giới hạn cho lượng vốn hấp thụ được`"]
+  n0 --- n38
+  n39["`Gần như mọi thứ phân biệt thế giới hiện đại với thế giới thế kỷ 17 là vốn tích lũy`"]
+  n38 --- n39
+  n40["`Hàng tiêu dùng lâu bền, nhất là nhà ở, chưa bao giờ đủ và thiếu trầm trọng sau Thế chiến II`"]
+  n38 --- n40
+  n41["`Vốn theo nghĩa hẹp, từ chiếc rìu tới cyclotron, chưa thừa chừng nào nước lạc hậu nhất chưa bằng nước tiên tiến nhất`"]
+  n38 --- n41
+  n42["`Vốn tự hấp thụ và tự trả tiền vì làm giảm chi phí đơn vị, mà mức giảm ấy không có giới hạn xác định`"]
+  n38 --- n42
+  n43["`Người tiêu dùng mua hàng rẻ hơn, công nhân có lương thực tế tăng theo hai đường`"]
+  n38 --- n43
+  n44["`Ngành ô tô Mỹ trả lương cao nhất thế giới mà vẫn bán rẻ hơn, nhờ vốn trên mỗi công nhân lớn nhất`"]
+  n38 --- n44
+  n45["`Thông điệp xuyên suốt`"]
+  n0 --- n45
+  n46["`Tiết kiệm trong thế giới hiện đại chỉ là một dạng chi tiêu khác, chi cho hàng tư bản`"]
+  n45 --- n46
+  n47["`Tiết kiệm là nguồn tích lũy vốn, tích lũy vốn là nguồn tăng sản lượng, lương thực tế và tiêu dùng dài hạn`"]
+  n45 --- n47
+  n48["`Đánh giá: Hazlitt gạt quá nhanh khả năng lãi suất chạm mức sàn và tiết kiệm không chuyển thành đầu tư`"]
+  n45 --- n48
+  n49["`Đánh giá: bảng 11 năm bỏ qua lợi suất giảm dần của vốn mà mô hình Solow chỉ ra`"]
+  n45 --- n49
+  class n0 root
+  class n1,n11,n20,n27,n38,n45 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 23 "The Assault on Saving". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương cuối của Phần Hai "Bài học được áp dụng" (The Lesson Applied). "Bài học" (the lesson) ở Chương 1 nói rằng phải xét tác động của một chính sách lên mọi nhóm và trong dài hạn, chứ không chỉ lên một nhóm trong ngắn hạn.
+
+Chương 23 áp dụng bài học đó vào chính hành vi **tiết kiệm** (saving): cái thấy được là tiền chi tiêu cho tiêu dùng, cái không thấy là tiền tiết kiệm được chi cho hàng tư bản.
+
+Chương này nối nhiều sợi đã có trước: ngụy biện cửa sổ vỡ (Chương 2) cho rằng chi tiêu bất kỳ đều tốt; đề xuất ở mục 3 của chương này, rằng chính phủ phải tự nghĩ ra dự án để tiêu phần tiết kiệm "thừa", là biến thể của niềm tin vào chi tiêu chính phủ mà Chương 4 (công trình công cộng) đã bác; tín dụng (Chương 6) và lạm phát (Chương 22) là công cụ của chính sách "tiền rẻ"; máy móc (Chương 7) là thứ mà tiết kiệm mua về. Chương 24 sau đó tổng kết toàn bộ cuốn sách.
+
+## Lưu ý
+
+- Theo cách đọc của người tổng hợp, chương này là lời đáp trực tiếp cho kinh tế học Keynes, dù Hazlitt không nêu tên Keynes hay Hansen (lời nói đầu của sách nói ông cố ý không nêu tên người viết cụ thể); chỉ dấu rõ nhất là hai chú thích dẫn sách *The Bogey of Economic Maturity* (1945) của George Terborgh, một cuốn bác thuyết trì trệ.
+
+  Năm 1936, John Maynard Keynes xuất bản *Lý thuyết tổng quát về việc làm, lãi suất và tiền tệ* (*The General Theory*), trong đó có ý: khi mọi người cùng tăng tiết kiệm, tổng cầu giảm, sản lượng giảm và tổng tiết kiệm có thể không tăng (về sau gọi là "nghịch lý tiết kiệm", *paradox of thrift*); và trong suy thoái, chính phủ chi tiền cho việc vô ích như "đào hố rồi lấp lại" hay "xây kim tự tháp" vẫn tốt hơn không làm gì.
+
+  Năm 1938, Alvin Hansen (Harvard) đưa ra thuyết **trì trệ kéo dài** (*secular stagnation*): nước Mỹ đã hết "cơ hội đầu tư" nên tiết kiệm sẽ thừa mãi. Khi Hazlitt viết về "kim tự tháp", "hố vô ích" và "giới hạn hấp thụ vốn", nhiều khả năng ông đang nhắm vào hai luận điểm này.
+- "Chính sách tiền rẻ" (*cheap money*) mà Hazlitt phê phán là chính sách thực có: từ năm 1942 đến năm 1951, Cục Dự trữ Liên bang Mỹ (Fed) cam kết giữ lãi suất trái phiếu chính phủ ở mức thấp cố định để tài trợ chiến tranh, và chỉ thôi sau thỏa thuận Bộ Tài chính – Fed năm 1951.
+- Câu chuyện hai anh em lấy từ chương "Tiết kiệm và xa xỉ" trong tiểu luận *Cái thấy được và cái không thấy* (1850) của Frédéric Bastiat, nơi hai anh em tên là Mondor và Aristus.
+- Hazlitt nói đúng rằng tiết kiệm không làm giảm tổng chi tiêu **khi** hệ thống tài chính chuyển nó thành đầu tư; nhưng các cuộc khủng hoảng sau này (Đại suy thoái thập niên 1930 theo cách đọc của Friedman và Schwartz, Nhật Bản thập niên 1990, khủng hoảng 2008) cho thấy có những giai đoạn nhu cầu giữ tiền tăng mạnh và lãi suất chạm mức sàn, khi đó tiết kiệm tăng thêm không tự chuyển thành đầu tư. Phần Đánh giá bàn kỹ chỗ này.
+- Bản gốc có một lỗi gõ: "He either deposits it in a hank" ("hank" là "bank", ngân hàng).
+- Mọi câu trích là bản dịch của người tổng hợp.

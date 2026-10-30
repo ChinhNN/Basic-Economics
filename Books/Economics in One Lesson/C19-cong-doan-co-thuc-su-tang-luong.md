@@ -1,11 +1,16 @@
 # Chương 19 — Công đoàn có thực sự làm tăng lương? (Do Unions Really Raise Wages?)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 19 "Do Unions Really Raise Wages?". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 18 xét cách nâng lương thứ nhất, bằng luật (lương tối thiểu), và kết thúc bằng mệnh đề "lương thực tế đến từ sản xuất"; Chương 18 cũng nói trường hợp người lao động bị trả thấp hơn giá trị thị trường nên được xử lý bằng công đoàn. Chương 19 xét cách nâng lương thứ hai, bằng sức ép tập thể của công đoàn, và phân biệt chức năng chính đáng của công đoàn với việc dùng cưỡng ép. Chương này cũng nhắc lại hai chương đầu Phần Hai: ngụy biện "khối lượng việc làm cố định" (Chương 8, Spread-the-Work Schemes) và việc chống máy móc (Chương 7, The Curse of Machinery). Chương 20 ("Enough to Buy Back the Product") tiếp tục với lập luận "phải tăng lương để công nhân đủ sức mua lại sản phẩm".
-**Ý chính:** Hazlitt muốn chứng minh rằng công đoàn **không** làm tăng lương thực tế trong dài hạn và cho toàn bộ người lao động; lương do **năng suất lao động** quyết định. Công đoàn có chức năng chính đáng: giúp từng người lao động, vốn yếu thế khi mặc cả, nhận đúng giá trị thị trường của mình. Nhưng khi công đoàn dùng cưỡng ép để đẩy lương lên trên giá trị thị trường, họ gây thất nghiệp, và chủ yếu lấy phần lợi từ **những người lao động khác**. Ông dùng ví dụ số sáu nhóm lao động có mức tăng lương danh nghĩa 0% đến 50% (trung bình 25%): nếu giá tăng theo, nhóm không tăng lương nghèo đi rõ rệt (theo phép tính của người tổng hợp, mất khoảng một phần năm sức mua). Ông dẫn số liệu đường sắt Mỹ: số công nhân giảm từ 1.685.000 (năm 1920, 66 xu/giờ) xuống 699.000 (năm 1938, 74 xu/giờ). Cuối chương, ông lập luận rằng các chính sách công đoàn dựa trên ngụy biện "quỹ việc làm cố định" (rút giờ làm quá mức, chống máy móc, đặt ra việc không cần) đã làm năng suất và do đó lương thực tế thấp hơn mức lẽ ra đạt được.
+## Ý chính
 
-> **Lưu ý:** (1) Bối cảnh: Đạo luật Wagner (*National Labor Relations Act*, 1935) thời New Deal bảo hộ quyền lập công đoàn và thương lượng tập thể, đặt nghĩa vụ chủ yếu lên phía chủ thuê; người tổng hợp cho rằng đây chính là loại luật Hazlitt gọi là "luật lao động một chiều" (Hazlitt không tự nối hai ý này). Năm 1945–1946, ngay sau chiến tranh, Mỹ trải qua làn sóng đình công lớn nhất trong lịch sử (thép, ô tô, than, đường sắt). Một năm sau khi sách ra, Đạo luật Taft-Hartley (1947) hạn chế một số hành vi của công đoàn (cấm "closed shop" tức chỉ được thuê đoàn viên, cấm tẩy chay thứ cấp). (2) Câu "chỉ khoảng một phần tư người lao động có thu nhập ở Mỹ là đoàn viên công đoàn" là số liệu của Hazlitt cho thời điểm đó. (3) Số liệu đường sắt mà Hazlitt dùng bao trùm thời Đại suy thoái (1929–1939) và giai đoạn xe tải, ô tô cạnh tranh mạnh với đường sắt, nên không thể quy toàn bộ việc giảm lao động cho lương tăng; chính Hazlitt cũng nói ông tạm "bỏ qua thực tế" để bàn trường hợp giả định. (4) Mọi câu trích là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng công đoàn **không** làm tăng lương thực tế trong dài hạn và cho toàn bộ người lao động; lương do **năng suất lao động** quyết định.
+
+Công đoàn có chức năng chính đáng: giúp từng người lao động, vốn yếu thế khi mặc cả, nhận đúng giá trị thị trường của mình. Nhưng khi công đoàn dùng cưỡng ép để đẩy lương lên trên giá trị thị trường, họ gây thất nghiệp, và chủ yếu lấy phần lợi từ **những người lao động khác**.
+
+Ông dùng ví dụ số sáu nhóm lao động có mức tăng lương danh nghĩa 0% đến 50% (trung bình 25%): nếu giá tăng theo, nhóm không tăng lương nghèo đi rõ rệt (theo phép tính của người tổng hợp, mất khoảng một phần năm sức mua).
+
+Ông dẫn số liệu đường sắt Mỹ: số công nhân giảm từ 1.685.000 (năm 1920, 66 xu/giờ) xuống 699.000 (năm 1938, 74 xu/giờ).
+
+Cuối chương, ông lập luận rằng các chính sách công đoàn dựa trên ngụy biện "quỹ việc làm cố định" (rút giờ làm quá mức, chống máy móc, đặt ra việc không cần) đã làm năng suất và do đó lương thực tế thấp hơn mức lẽ ra đạt được.
 
 ## Sơ đồ
 
@@ -361,14 +366,18 @@
 
 Hazlitt mở chương: sức mạnh của công đoàn trong việc nâng lương trong dài hạn và cho toàn bộ người lao động đã bị thổi phồng rất nhiều. Sự thổi phồng này chủ yếu do không nhận ra rằng lương về cơ bản được quyết định bởi năng suất lao động. Ông nêu bằng chứng: suốt nhiều thập kỷ mà "phong trào lao động" ở Anh và Đức tiến xa hơn nhiều so với Mỹ, lương ở Mỹ vẫn cao hơn hẳn lương ở Anh và Đức.
 
-Dù bằng chứng áp đảo, kết luận này thường bị các lãnh đạo công đoàn và một nhóm lớn tác giả kinh tế muốn được tiếng "cấp tiến" bằng cách lặp lại họ, quên đi hoặc chế giễu. Họ cho rằng kết luận dựa vào giả định chủ thuê đều tốt bụng, rộng lượng, muốn làm điều đúng. Hazlitt nói nó dựa vào giả định ngược lại: mỗi chủ thuê muốn tối đa hoá lợi nhuận của mình. Nếu có người chịu làm việc với lương thấp hơn giá trị thực của họ với chủ thuê, sao chủ thuê lại không tận dụng? Sao chủ thuê lại không muốn lời 1 USD một tuần từ một công nhân hơn là để chủ khác lời 2 USD từ người đó? Chừng nào tình trạng này còn, sẽ có xu hướng các chủ thuê trả giá cạnh tranh, đẩy lương người lao động lên tới đủ giá trị kinh tế của họ.
+Dù bằng chứng áp đảo, kết luận này thường bị các lãnh đạo công đoàn và một nhóm lớn tác giả kinh tế muốn được tiếng "cấp tiến" bằng cách lặp lại họ, quên đi hoặc chế giễu. Họ cho rằng kết luận dựa vào giả định chủ thuê đều tốt bụng, rộng lượng, muốn làm điều đúng. Hazlitt nói nó dựa vào giả định ngược lại: mỗi chủ thuê muốn tối đa hoá lợi nhuận của mình. Nếu có người chịu làm việc với lương thấp hơn giá trị thực của họ với chủ thuê, sao chủ thuê lại không tận dụng?
+
+Sao chủ thuê lại không muốn lời 1 USD một tuần từ một công nhân hơn là để chủ khác lời 2 USD từ người đó? Chừng nào tình trạng này còn, sẽ có xu hướng các chủ thuê trả giá cạnh tranh, đẩy lương người lao động lên tới đủ giá trị kinh tế của họ.
 
 ### 2. Chức năng chính đáng của công đoàn (mục 1, đoạn về chức năng chính đáng)
 
 Điều trên không có nghĩa công đoàn vô ích. Chức năng trung tâm chính đáng của họ là bảo đảm mọi thành viên nhận được giá trị thị trường thực sự của dịch vụ mình. Lý do: cạnh tranh giữa người lao động tìm việc và giữa chủ thuê tìm người không vận hành hoàn hảo.
 
 - **Thông tin không đầy đủ.** Cả người lao động lẫn chủ thuê đều không nắm đủ điều kiện thị trường lao động. Một người lao động riêng lẻ, không có công đoàn hay không biết "mức lương công đoàn", có thể không biết giá trị thị trường thực của mình với chủ thuê.
-- **Sức mặc cả yếu hơn, và sai lầm đắt hơn.** Nếu chủ thuê từ chối nhầm một người lẽ ra đem lại lợi nhuận, ông ta chỉ mất phần lãi ròng từ một người đó, trong khi có thể thuê một trăm hay một nghìn người. Nhưng nếu người lao động từ chối nhầm một việc vì tin sẽ dễ tìm được việc trả cao hơn, sai lầm có thể rất đắt: toàn bộ sinh kế của anh ta bị đặt cược. Anh ta không chỉ có thể không nhanh chóng tìm được việc trả cao hơn, mà có thể trong một thời gian không tìm được việc nào trả gần bằng. Và thời gian có thể là cốt lõi vấn đề, vì anh ta và gia đình phải ăn. Nên anh ta dễ chấp nhận mức lương mà anh ta biết là thấp hơn "giá trị thực" thay vì chịu các rủi ro này.
+- **Sức mặc cả yếu hơn, và sai lầm đắt hơn.** Nếu chủ thuê từ chối nhầm một người lẽ ra đem lại lợi nhuận, ông ta chỉ mất phần lãi ròng từ một người đó, trong khi có thể thuê một trăm hay một nghìn người. Nhưng nếu người lao động từ chối nhầm một việc vì tin sẽ dễ tìm được việc trả cao hơn, sai lầm có thể rất đắt: toàn bộ sinh kế của anh ta bị đặt cược.
+
+  Anh ta không chỉ có thể không nhanh chóng tìm được việc trả cao hơn, mà có thể trong một thời gian không tìm được việc nào trả gần bằng. Và thời gian có thể là cốt lõi vấn đề, vì anh ta và gia đình phải ăn. Nên anh ta dễ chấp nhận mức lương mà anh ta biết là thấp hơn "giá trị thực" thay vì chịu các rủi ro này.
 
 Khi công nhân của một chủ thuê thương lượng với ông ta như một khối và đặt một "lương chuẩn" công khai cho một loại việc, họ có thể giúp cân bằng sức mặc cả và rủi ro của sai lầm.
 
@@ -386,15 +395,21 @@ Kinh nghiệm cho thấy công đoàn dễ vượt quá chức năng chính đá
 
 **Đình công.** Trường hợp rõ nhất của việc dùng đe doạ và vũ lực để đẩy hay giữ lương của một công đoàn trên giá trị thị trường là đình công. Đình công hoà bình là có thể. Chừng nào còn hoà bình, nó là vũ khí lao động chính đáng, dù nên dùng hiếm và như biện pháp cuối cùng. Nếu công nhân cùng rút sức lao động, họ có thể buộc một chủ thuê bướng bỉnh, vốn đang trả thấp, tỉnh ra: ông ta thấy không thể thay họ bằng người giỏi ngang mà chịu nhận mức lương họ vừa từ chối.
 
-Nhưng ngay khi công nhân phải dùng đe doạ hay bạo lực để thực thi yêu sách, khi họ dùng chốt chặn (*pickets*) để ngăn công nhân cũ tiếp tục làm hoặc ngăn chủ thuê tuyển người mới lâu dài thay chỗ họ, lý lẽ của họ trở nên đáng ngờ. Vì chốt chặn thực ra không chủ yếu nhắm vào chủ thuê mà nhắm vào **người lao động khác**. Những người này sẵn sàng nhận công việc mà công nhân cũ bỏ lại, với mức lương công nhân cũ từ chối. Điều đó chứng tỏ các lựa chọn khác của người mới không tốt bằng công việc công nhân cũ đã từ chối. Vậy nếu công nhân cũ dùng vũ lực ngăn người mới thế chỗ, họ ngăn người mới chọn lựa chọn tốt nhất của mình và ép họ nhận thứ tệ hơn. Người đình công đòi một vị thế đặc quyền và dùng vũ lực giữ nó chống lại những người lao động khác.
+Nhưng ngay khi công nhân phải dùng đe doạ hay bạo lực để thực thi yêu sách, khi họ dùng chốt chặn (*pickets*) để ngăn công nhân cũ tiếp tục làm hoặc ngăn chủ thuê tuyển người mới lâu dài thay chỗ họ, lý lẽ của họ trở nên đáng ngờ.
 
-**Người phá đình công.** Nếu phân tích trên đúng, sự căm ghét không phân biệt đối với "người phá đình công" (*strikebreaker*) là không có cơ sở. Nếu người phá đình công chỉ là côn đồ chuyên nghiệp tự họ đe doạ bạo lực, hoặc thực ra không làm được việc, hoặc được trả mức cao tạm thời chỉ để giả vờ duy trì hoạt động cho tới khi công nhân cũ sợ hãi quay lại với lương cũ, thì sự căm ghét có thể có lý. Nhưng nếu họ chỉ là những người đàn ông, đàn bà tìm việc lâu dài và chịu nhận mức lương cũ, thì họ là những người lao động bị đẩy vào việc tệ hơn để người đình công được hưởng việc tốt hơn. Và vị thế ưu việt của công nhân cũ thực tế chỉ giữ được bằng mối đe doạ vũ lực thường trực.
+Vì chốt chặn thực ra không chủ yếu nhắm vào chủ thuê mà nhắm vào **người lao động khác**. Những người này sẵn sàng nhận công việc mà công nhân cũ bỏ lại, với mức lương công nhân cũ từ chối. Điều đó chứng tỏ các lựa chọn khác của người mới không tốt bằng công việc công nhân cũ đã từ chối. Vậy nếu công nhân cũ dùng vũ lực ngăn người mới thế chỗ, họ ngăn người mới chọn lựa chọn tốt nhất của mình và ép họ nhận thứ tệ hơn. Người đình công đòi một vị thế đặc quyền và dùng vũ lực giữ nó chống lại những người lao động khác.
+
+**Người phá đình công.** Nếu phân tích trên đúng, sự căm ghét không phân biệt đối với "người phá đình công" (*strikebreaker*) là không có cơ sở. Nếu người phá đình công chỉ là côn đồ chuyên nghiệp tự họ đe doạ bạo lực, hoặc thực ra không làm được việc, hoặc được trả mức cao tạm thời chỉ để giả vờ duy trì hoạt động cho tới khi công nhân cũ sợ hãi quay lại với lương cũ, thì sự căm ghét có thể có lý.
+
+Nhưng nếu họ chỉ là những người đàn ông, đàn bà tìm việc lâu dài và chịu nhận mức lương cũ, thì họ là những người lao động bị đẩy vào việc tệ hơn để người đình công được hưởng việc tốt hơn. Và vị thế ưu việt của công nhân cũ thực tế chỉ giữ được bằng mối đe doạ vũ lực thường trực.
 
 ### 4. Tăng lương cho một nhóm hại các nhóm khác: ví dụ sáu nhóm lao động (mục 2, nửa đầu)
 
 Kinh tế học cảm tính đã sinh ra những lý thuyết mà xem xét bình tĩnh không biện minh được. Một là ý tưởng lao động nói chung đang bị "trả thấp", tương tự ý nghĩ rằng trên thị trường tự do, giá cả nói chung luôn quá thấp. Một ý niệm kỳ lạ nhưng dai dẳng khác là lợi ích của mọi người lao động trong nước là một, và việc lương một công đoàn tăng bằng cách nào đó giúp mọi người lao động khác. Hazlitt nói không những ý này không đúng, mà sự thật là: nếu một công đoàn dùng cưỡng ép áp đặt được mức lương cho thành viên cao hơn hẳn giá trị thị trường thật, nó sẽ hại mọi người lao động khác như hại các thành viên khác trong cộng đồng.
 
-Để thấy rõ, ông dựng một cộng đồng giả định, đơn giản hoá về số học: sáu nhóm lao động, ban đầu bằng nhau về tổng lương và giá trị sản phẩm. Mức lương của họ, hình thành không có cưỡng ép, không nhất thiết bằng nhau, nhưng mỗi nhóm được gán chỉ số ban đầu 100. Giả sử mỗi nhóm lập một công đoàn toàn quốc và áp đặt được yêu sách không chỉ theo năng suất kinh tế mà theo sức mạnh chính trị và vị trí chiến lược của mình. Giả sử thêm giá sản phẩm của mỗi nhóm tăng đúng bằng % tăng lương của nhóm đó (Hazlitt lưu ý thực tế giá không tăng hẳn như vậy, chắc chắn không trong ngắn hạn, một lý do là lao động không phải toàn bộ chi phí; nhưng con số vẫn minh hoạ được nguyên lý). Kết quả:
+Để thấy rõ, ông dựng một cộng đồng giả định, đơn giản hoá về số học: sáu nhóm lao động, ban đầu bằng nhau về tổng lương và giá trị sản phẩm. Mức lương của họ, hình thành không có cưỡng ép, không nhất thiết bằng nhau, nhưng mỗi nhóm được gán chỉ số ban đầu 100. Giả sử mỗi nhóm lập một công đoàn toàn quốc và áp đặt được yêu sách không chỉ theo năng suất kinh tế mà theo sức mạnh chính trị và vị trí chiến lược của mình.
+
+Giả sử thêm giá sản phẩm của mỗi nhóm tăng đúng bằng % tăng lương của nhóm đó (Hazlitt lưu ý thực tế giá không tăng hẳn như vậy, chắc chắn không trong ngắn hạn, một lý do là lao động không phải toàn bộ chi phí; nhưng con số vẫn minh hoạ được nguyên lý). Kết quả:
 
 | Nhóm lao động | Chỉ số lương danh nghĩa | Lương thực tế khi giá sinh hoạt tăng 25% (100 × lương / 125) | Nhận xét của Hazlitt |
 |---|---|---|---|
@@ -414,7 +429,9 @@ Thất nghiệp, tính theo tỷ lệ, không nhất thiết nặng nhất ở c
 
 ### 5. Trợ cấp thất nghiệp và "công đoàn hoá tất cả" không giải quyết được (mục 2, nửa sau)
 
-**Trợ cấp thất nghiệp.** Không thể sửa tình hình bằng trợ cấp thất nghiệp. Thứ nhất, trợ cấp phần lớn được trả, trực tiếp hay gián tiếp, từ lương của người đang làm việc, nên làm giảm lương đó. Thứ hai, như đã thấy ở Chương 18, trợ cấp "đầy đủ" tạo ra thất nghiệp theo nhiều cách. Trước đây, khi các công đoàn mạnh tự lo cho đoàn viên thất nghiệp của mình, họ phải nghĩ kỹ trước khi đòi một mức lương gây thất nghiệp nặng. Khi có hệ thống trợ cấp buộc người nộp thuế nói chung lo cho thất nghiệp do lương quá cao gây ra, cái phanh đó với yêu sách quá đáng của công đoàn bị gỡ bỏ. Ngoài ra, trợ cấp "đầy đủ" khiến một số người không tìm việc nữa, và khiến người khác coi như được mời làm việc không phải vì mức lương đề nghị mà chỉ vì phần chênh giữa lương và trợ cấp. Thất nghiệp nặng nghĩa là ít hàng hoá được sản xuất, quốc gia nghèo đi, và mọi người có ít hơn.
+**Trợ cấp thất nghiệp.** Không thể sửa tình hình bằng trợ cấp thất nghiệp. Thứ nhất, trợ cấp phần lớn được trả, trực tiếp hay gián tiếp, từ lương của người đang làm việc, nên làm giảm lương đó. Thứ hai, như đã thấy ở Chương 18, trợ cấp "đầy đủ" tạo ra thất nghiệp theo nhiều cách.
+
+Trước đây, khi các công đoàn mạnh tự lo cho đoàn viên thất nghiệp của mình, họ phải nghĩ kỹ trước khi đòi một mức lương gây thất nghiệp nặng. Khi có hệ thống trợ cấp buộc người nộp thuế nói chung lo cho thất nghiệp do lương quá cao gây ra, cái phanh đó với yêu sách quá đáng của công đoàn bị gỡ bỏ. Ngoài ra, trợ cấp "đầy đủ" khiến một số người không tìm việc nữa, và khiến người khác coi như được mời làm việc không phải vì mức lương đề nghị mà chỉ vì phần chênh giữa lương và trợ cấp. Thất nghiệp nặng nghĩa là ít hàng hoá được sản xuất, quốc gia nghèo đi, và mọi người có ít hơn.
 
 **"Cứ công đoàn hoá tất cả."** Những người tin vào "sự cứu rỗi bằng công đoàn" đôi khi đáp: có thể đúng là đoàn viên các công đoàn mạnh hiện đang bóc lột, trong số những người khác, người lao động không công đoàn; nhưng giải pháp đơn giản: công đoàn hoá mọi người. Hazlitt cho rằng không đơn giản vậy:
 
@@ -424,7 +441,9 @@ Thất nghiệp, tính theo tỷ lệ, không nhất thiết nặng nhất ở c
 
 ### 6. Tăng lương lấy từ lợi nhuận: có thể trong ngắn hạn, không bền trong dài hạn (mục 3 của chương)
 
-Đây là cốt lõi vấn đề. Người ta thường giả định rằng tăng lương được lấy từ lợi nhuận của chủ thuê. Điều đó có thể xảy ra trong thời gian ngắn hoặc hoàn cảnh đặc biệt: nếu lương bị ép tăng ở một doanh nghiệp đang cạnh tranh tới mức không tăng giá được, phần tăng sẽ lấy từ lợi nhuận. Nhưng điều này ít xảy ra hơn nhiều nếu lương tăng ở cả một ngành. Trong phần lớn trường hợp, ngành sẽ tăng giá và chuyển phần tăng lương sang người tiêu dùng. Người tiêu dùng phần lớn là người lao động, nên lương thực tế của họ bị giảm do phải trả nhiều hơn cho một sản phẩm. Đúng là giá cao hơn có thể làm doanh số của ngành giảm, nên tổng lợi nhuận của ngành giảm; nhưng việc làm và tổng quỹ lương của ngành cũng có thể giảm tương ứng.
+Đây là cốt lõi vấn đề. Người ta thường giả định rằng tăng lương được lấy từ lợi nhuận của chủ thuê. Điều đó có thể xảy ra trong thời gian ngắn hoặc hoàn cảnh đặc biệt: nếu lương bị ép tăng ở một doanh nghiệp đang cạnh tranh tới mức không tăng giá được, phần tăng sẽ lấy từ lợi nhuận. Nhưng điều này ít xảy ra hơn nhiều nếu lương tăng ở cả một ngành.
+
+Trong phần lớn trường hợp, ngành sẽ tăng giá và chuyển phần tăng lương sang người tiêu dùng. Người tiêu dùng phần lớn là người lao động, nên lương thực tế của họ bị giảm do phải trả nhiều hơn cho một sản phẩm. Đúng là giá cao hơn có thể làm doanh số của ngành giảm, nên tổng lợi nhuận của ngành giảm; nhưng việc làm và tổng quỹ lương của ngành cũng có thể giảm tương ứng.
 
 Có thể hình dung một trường hợp lợi nhuận cả ngành giảm mà việc làm không giảm tương ứng: lương tăng nghĩa là quỹ lương tăng tương ứng, và toàn bộ chi phí lấy từ lợi nhuận mà không doanh nghiệp nào phá sản. Kết quả này không chắc xảy ra nhưng có thể hình dung được.
 
@@ -442,7 +461,9 @@ Từ 1920 đến 1938, lương bình quân mỗi giờ tăng khoảng 12%, trong
 
 **Hệ quả tất yếu.** Nếu tiền đã bỏ vào đường sắt nay sinh lời ít hơn tiền đầu tư vào ngành khác, nhà đầu tư sẽ không bỏ thêm một xu vào đường sắt. Họ có thể thay vài thứ hỏng sớm nhất để bảo vệ phần lợi tức nhỏ trên vốn còn lại; nhưng về lâu dài, họ thậm chí không thay những thứ lỗi thời hay mục nát. Nếu vốn đầu tư trong nước sinh lời ít hơn ở nước ngoài, họ đầu tư ra nước ngoài. Nếu không tìm được ở đâu lợi tức đủ bù rủi ro, họ ngừng đầu tư.
 
-Vậy việc lao động "bóc lột" vốn tốt nhất cũng chỉ tạm thời và sẽ sớm chấm dứt. Thực tế nó chấm dứt không hẳn như trong ví dụ giả định, mà qua việc các doanh nghiệp biên bị đẩy hẳn ra khỏi thị trường, thất nghiệp tăng, và lương cùng lợi nhuận bị buộc điều chỉnh lại tới điểm mà triển vọng lợi nhuận bình thường (hoặc bất thường) khiến việc làm và sản xuất trở lại. Trong lúc đó, thất nghiệp và sản xuất giảm làm mọi người nghèo đi. Dù trong một thời gian lao động có phần tương đối lớn hơn trong thu nhập quốc dân, thu nhập quốc dân giảm tuyệt đối; nên phần thắng tương đối của lao động trong những giai đoạn ngắn đó có thể là chiến thắng kiểu Pyrrhus: tổng lượng mà lao động nhận, tính theo sức mua thực tế, cũng có thể thấp hơn.
+Vậy việc lao động "bóc lột" vốn tốt nhất cũng chỉ tạm thời và sẽ sớm chấm dứt. Thực tế nó chấm dứt không hẳn như trong ví dụ giả định, mà qua việc các doanh nghiệp biên bị đẩy hẳn ra khỏi thị trường, thất nghiệp tăng, và lương cùng lợi nhuận bị buộc điều chỉnh lại tới điểm mà triển vọng lợi nhuận bình thường (hoặc bất thường) khiến việc làm và sản xuất trở lại. Trong lúc đó, thất nghiệp và sản xuất giảm làm mọi người nghèo đi.
+
+Dù trong một thời gian lao động có phần tương đối lớn hơn trong thu nhập quốc dân, thu nhập quốc dân giảm tuyệt đối; nên phần thắng tương đối của lao động trong những giai đoạn ngắn đó có thể là chiến thắng kiểu Pyrrhus: tổng lượng mà lao động nhận, tính theo sức mua thực tế, cũng có thể thấp hơn.
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một nhà máy đóng tàu đã đầu tư ụ khô và cần cẩu trị giá 1.000 tỷ đồng. Nếu chi phí lao động tăng mạnh làm lợi nhuận giảm từ 8% xuống 1% trên vốn, chủ vẫn chạy nhà máy vì ụ khô không bán được giá; công nhân giữ được lương cao. Nhưng khi cần cẩu hết đời, chủ không mua cái mới mà đưa vốn sang một ngành khác hoặc nước khác có lợi tức 8%. Mười năm sau, nhà máy thu hẹp, và người mất việc chính là lớp công nhân trẻ.
 
@@ -597,7 +618,9 @@ Phép tính đơn giản (0% đến 50%, trung bình 25%) làm rõ một điều
 
 ### Hazlitt đánh giá thấp chức năng "tiếng nói tập thể" và trường hợp chủ thuê có sức mạnh đặt lương
 
-Chính chương này thừa nhận người lao động riêng lẻ thiếu thông tin và yếu thế khi mặc cả, và công đoàn thời đầu đã nâng cả sức khoẻ lẫn lương thực tế. Nhưng ông coi phần bảo vệ sức khoẻ là chuyện thời đầu, và dành phần lớn mục cuối cho việc công đoàn "những năm gần đây" đã vượt quá mục tiêu chính đáng. Nghiên cứu hiện đại cho thấy công đoàn còn có những tác động tích cực khác: giảm tỷ lệ nghỉ việc (giảm chi phí tuyển và đào tạo), cải thiện an toàn lao động, giảm chênh lệch lương giữa các công nhân cùng doanh nghiệp. Tác động của công đoàn tới năng suất trong các nghiên cứu thực nghiệm không đồng nhất: có nơi tăng, có nơi giảm, tuỳ quan hệ lao động và mức cạnh tranh trên thị trường sản phẩm. Kết luận "tác động ròng là làm giảm năng suất" được Hazlitt nêu đầu tiên như một câu hỏi ("liệu có phải vậy không"), rồi khẳng định dựa trên danh sách các chính sách công đoàn, nhưng chương không đưa bằng chứng định lượng.
+Chính chương này thừa nhận người lao động riêng lẻ thiếu thông tin và yếu thế khi mặc cả, và công đoàn thời đầu đã nâng cả sức khoẻ lẫn lương thực tế. Nhưng ông coi phần bảo vệ sức khoẻ là chuyện thời đầu, và dành phần lớn mục cuối cho việc công đoàn "những năm gần đây" đã vượt quá mục tiêu chính đáng.
+
+Nghiên cứu hiện đại cho thấy công đoàn còn có những tác động tích cực khác: giảm tỷ lệ nghỉ việc (giảm chi phí tuyển và đào tạo), cải thiện an toàn lao động, giảm chênh lệch lương giữa các công nhân cùng doanh nghiệp. Tác động của công đoàn tới năng suất trong các nghiên cứu thực nghiệm không đồng nhất: có nơi tăng, có nơi giảm, tuỳ quan hệ lao động và mức cạnh tranh trên thị trường sản phẩm. Kết luận "tác động ròng là làm giảm năng suất" được Hazlitt nêu đầu tiên như một câu hỏi ("liệu có phải vậy không"), rồi khẳng định dựa trên danh sách các chính sách công đoàn, nhưng chương không đưa bằng chứng định lượng.
 
 ### Số liệu đường sắt không chứng minh được điều Hazlitt dùng nó để gợi ý
 
@@ -605,7 +628,9 @@ Số công nhân đường sắt hạng I giảm từ 1.685.000 (1920) xuống 6
 
 ### Phân tích đình công và người phá đình công đi trước lý thuyết người trong cuộc và người ngoài cuộc
 
-Lập luận rằng chốt chặn nhắm vào người lao động khác, rằng người sẵn lòng làm với lương cũ là người có lựa chọn tệ hơn, là phiên bản sớm của mô hình insider–outsider giải thích thất nghiệp kéo dài ở châu Âu những thập niên sau. Điểm sắc của Hazlitt là đổi khung nhìn: xung đột chính không phải giữa lao động và vốn, mà giữa người đang có việc và người đang tìm việc. Hazlitt có tính tới trường hợp chủ thuê dùng người phá đình công để ép công nhân quay lại với lương cũ (côn đồ chuyên nghiệp, hoặc người được trả cao tạm thời để giả vờ duy trì sản xuất) và cho rằng khi đó căm ghét có thể có lý. Nhận xét của người tổng hợp: ranh giới giữa trường hợp này và người tìm việc lâu dài thật khó xác định trong thực tế, và nếu chủ thuê đang trả thấp hơn giá trị thị trường (trường hợp đình công chính đáng ông vừa thừa nhận) thì người phá đình công làm suy yếu chính cơ chế giúp lương về đúng giá trị.
+Lập luận rằng chốt chặn nhắm vào người lao động khác, rằng người sẵn lòng làm với lương cũ là người có lựa chọn tệ hơn, là phiên bản sớm của mô hình insider–outsider giải thích thất nghiệp kéo dài ở châu Âu những thập niên sau. Điểm sắc của Hazlitt là đổi khung nhìn: xung đột chính không phải giữa lao động và vốn, mà giữa người đang có việc và người đang tìm việc.
+
+Hazlitt có tính tới trường hợp chủ thuê dùng người phá đình công để ép công nhân quay lại với lương cũ (côn đồ chuyên nghiệp, hoặc người được trả cao tạm thời để giả vờ duy trì sản xuất) và cho rằng khi đó căm ghét có thể có lý. Nhận xét của người tổng hợp: ranh giới giữa trường hợp này và người tìm việc lâu dài thật khó xác định trong thực tế, và nếu chủ thuê đang trả thấp hơn giá trị thị trường (trường hợp đình công chính đáng ông vừa thừa nhận) thì người phá đình công làm suy yếu chính cơ chế giúp lương về đúng giá trị.
 
 ### Ngụy biện "quỹ việc làm cố định" vẫn quay lại với mỗi làn sóng công nghệ
 
@@ -622,3 +647,146 @@ Nếu công đoàn là lực kìm lương thực tế, việc tỷ lệ đoàn v
 - **Đầu tư.** Phân tích vốn "mắc kẹt" là một công cụ thẩm định trực tiếp: ngành có tài sản chuyên dụng lớn, khó di dời (cảng, đường sắt, nhà máy nặng) dễ bị ép chia phần lợi tức bởi các bên có sức mặc cả, kể cả người lao động, nhà cung cấp độc quyền hay cơ quan quản lý giá. Nhà đầu tư nên định giá rủi ro này và quan sát tín hiệu "không thay thiết bị hỏng": khi một doanh nghiệp chỉ bảo dưỡng tối thiểu và không đầu tư mới, đó thường là dấu hiệu lợi tức kỳ vọng đã thấp hơn chi phí vốn.
 - **Nghề nghiệp.** Với người lao động, bài học là phân biệt hai nguồn tăng lương: vị thế mặc cả (có giới hạn, và có thể bị vốn rút đi né tránh) và năng suất (bền vững). Chọn làm việc ở nơi có nhiều vốn, công nghệ và người lao động được đào tạo tốt là cách nâng lương thực tế an toàn nhất.
 - **Tránh ngụy biện quỹ việc làm cố định.** Khi nghe lập luận "máy móc, AI lấy mất việc" hay "phải giảm giờ làm để chia việc", hãy tách hai câu hỏi: tổng việc làm của nền kinh tế (thường không bị cạn) và chi phí chuyển đổi của từng nhóm (có thật và cần chính sách hỗ trợ).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 19 trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (năng suất quyết định lương và chức năng chính đáng của công đoàn, hạn chế đoàn viên và đình công cưỡng ép, ví dụ sáu nhóm cùng trợ cấp thất nghiệp và "công đoàn hoá tất cả", tăng lương lấy từ lợi nhuận và vốn mắc kẹt trong đường sắt, kết luận và các chính sách làm giảm năng suất) cùng phần Đánh giá, mỗi nhánh ghi lập luận, ví dụ và con số của Hazlitt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 19: công đoàn không làm tăng lương thực tế cho toàn bộ người lao động, năng suất mới quyết định lương`"]
+  n1["`Mục 1–2 — Năng suất quyết định lương, công đoàn có chức năng chính đáng`"]
+  n0 --- n1
+  n2["`Sức mạnh nâng lương của công đoàn trong dài hạn và cho toàn bộ người lao động bị thổi phồng rất nhiều`"]
+  n1 --- n2
+  n3["`Lương Mỹ cao hơn hẳn Anh, Đức suốt nhiều thập kỷ dù phong trào lao động ở đó tiến xa hơn`"]
+  n1 --- n3
+  n4["`Không dựa vào chủ thuê tốt bụng: chủ thuê thà tự lời 1 USD/tuần hơn để chủ khác lời 2 USD từ cùng người`"]
+  n1 --- n4
+  n5["`Các chủ thuê cạnh tranh thuê người đẩy lương lên tới đủ giá trị kinh tế người lao động tạo ra`"]
+  n1 --- n5
+  n6["`Chức năng chính đáng: bảo đảm đoàn viên nhận đúng giá trị thị trường của dịch vụ lao động`"]
+  n1 --- n6
+  n7["`Người lao động riêng lẻ thiếu thông tin, không biết mức lương công đoàn cho loại việc của mình`"]
+  n6 --- n7
+  n8["`Chủ thuê từ chối nhầm chỉ mất lãi từ một người, người lao động từ chối nhầm có thể mất toàn bộ sinh kế`"]
+  n6 --- n8
+  n9["`Thương lượng tập thể với lương chuẩn công khai giúp cân bằng sức mặc cả và rủi ro sai lầm`"]
+  n6 --- n9
+  n10["`Mục 3 — Khi công đoàn vượt chức năng: hạn chế đoàn viên và đình công cưỡng ép`"]
+  n0 --- n10
+  n11["`Ấn định lương cao hơn giá trị thị trường luôn gây thất nghiệp, chỉ giữ được bằng đe doạ hay cưỡng ép`"]
+  n10 --- n11
+  n12["`Hạn chế đoàn viên: phí gia nhập quá cao, phân biệt tôn giáo, chủng tộc, giới tính, giới hạn tuyệt đối số đoàn viên`"]
+  n10 --- n12
+  n13["`Đình công hoà bình là vũ khí chính đáng, dùng hiếm, buộc chủ thuê đang trả thấp tỉnh ra`"]
+  n10 --- n13
+  n14["`Chốt chặn bạo lực thực chất nhắm vào người lao động khác, không phải chủ thuê`"]
+  n10 --- n14
+  n15["`Người mới chịu nhận mức lương bị chê chứng tỏ lựa chọn khác của họ kém hơn, ngăn họ là ép họ nhận việc tệ hơn`"]
+  n14 --- n15
+  n16["`Căm ghét không phân biệt người phá đình công là không có cơ sở, trừ khi họ là côn đồ hay người giả vờ tạm thời`"]
+  n10 --- n16
+  n17["`Mục 4–5 — Tăng lương cho một nhóm hại các nhóm khác`"]
+  n0 --- n17
+  n18["`Bác bỏ hai quan niệm: lao động nói chung bị trả thấp, và lợi ích của mọi người lao động là một`"]
+  n17 --- n18
+  n19["`Sáu nhóm tăng lương 0%, 10%, 20%, 30%, 40%, 50% theo sức mạnh chính trị, trung bình 25%`"]
+  n17 --- n19
+  n20["`Giá tăng theo lương: nông trại còn 80, bán lẻ 88, may mặc 96, mỏ than 104, xây dựng 112, đường sắt 120`"]
+  n19 --- n20
+  n21["`Không có lạm phát tiền và tín dụng tương ứng thì ép tăng lương gây thất nghiệp lan rộng`"]
+  n17 --- n21
+  n22["`Tính bình quân cả người mất việc, ngay nhóm tăng lương nhiều nhất có lẽ cũng tệ hơn trước`"]
+  n21 --- n22
+  n23["`Trợ cấp thất nghiệp trả từ lương người đang làm, và gỡ cái phanh khiến công đoàn phải tự lo đoàn viên thất nghiệp`"]
+  n17 --- n23
+  n24["`Công đoàn hoá tất cả không giải quyết được: chỉ khoảng một phần tư người lao động Mỹ là đoàn viên dù có Đạo luật Wagner`"]
+  n17 --- n24
+  n25["`Mọi người cùng ép tăng lương một tỷ lệ thì về dài hạn không ai khá hơn`"]
+  n24 --- n25
+  n26["`Mục 6 — Tăng lương lấy từ lợi nhuận chỉ tạm thời`"]
+  n0 --- n26
+  n27["`Một doanh nghiệp không tăng giá được thì lấy từ lợi nhuận, cả ngành tăng lương thì tăng giá và người tiêu dùng trả`"]
+  n26 --- n27
+  n28["`Đường sắt hạng I Mỹ: 1.685.000 người, 66 xu/giờ (1920), 959.000 người, 67 xu (1931), 699.000 người, 74 xu (1938)`"]
+  n26 --- n28
+  n29["`Lương giờ tăng khoảng 12% trong khi số công nhân giảm khoảng 58,5%`"]
+  n28 --- n29
+  n30["`Vốn mắc kẹt trong ray, đầu máy: nhà đầu tư vẫn chạy tàu dù chỉ lời 0,1% trên vốn`"]
+  n26 --- n30
+  n31["`Hệ quả: không bỏ thêm một xu, không thay thiết bị mục nát, chuyển vốn ra nước ngoài hoặc ngừng đầu tư`"]
+  n30 --- n31
+  n32["`Doanh nghiệp biên bị đẩy ra, thất nghiệp tăng, sản xuất giảm làm mọi người nghèo đi`"]
+  n26 --- n32
+  n33["`Phần của lao động trong thu nhập quốc dân tăng nhưng thu nhập quốc dân giảm: chiến thắng kiểu Pyrrhus`"]
+  n32 --- n33
+  n34["`Mục 7–8 — Kết luận: công đoàn có thể còn kìm hãm lương thực tế`"]
+  n0 --- n34
+  n35["`Công đoàn chỉ tạm thời nâng lương danh nghĩa, phần lớn lấy từ người lao động không ở trong công đoàn`"]
+  n34 --- n35
+  n36["`Ngụy biện post hoc: lương tăng 50 năm nhờ vốn và kỹ thuật nhưng bị quy cho công đoàn vì cùng lớn lên`"]
+  n34 --- n36
+  n37["`Sai lầm chính: chỉ nhìn tác động ngắn hạn với người giữ được việc`"]
+  n34 --- n37
+  n38["`Mặt tốt: nâng chuẩn tay nghề, bảo vệ sức khoẻ, rút tuần làm từ 70 xuống 60 rồi 48 giờ là có lợi`"]
+  n34 --- n38
+  n39["`Từ 44 xuống 40 giờ lợi ít hơn, sản lượng giảm rõ hơn, nay công đoàn đòi 35 rồi 30 giờ`"]
+  n38 --- n39
+  n40["`Chính sách giảm năng suất: chia việc cứng nhắc, thăng tiến theo thâm niên, làm chậm, chống máy móc, đẻ việc`"]
+  n34 --- n40
+  n41["`Gốc rễ là ngụy biện quỹ việc làm cố định, trong khi việc tạo ra việc, thứ A làm ra là cầu của thứ B`"]
+  n34 --- n41
+  n42["`Kìm lương thực tế không phải bản chất của công đoàn mà do chính sách thiển cận, vẫn còn thời gian thay đổi`"]
+  n34 --- n42
+  n43["`Đánh giá — Điểm mạnh và chỗ cần dè dặt`"]
+  n0 --- n43
+  n44["`Ví dụ sáu nhóm cho thấy cuộc đua lương danh nghĩa chuyển thu nhập từ nhóm yếu sang nhóm mạnh, như vòng xoáy lương–giá thập niên 1970`"]
+  n43 --- n44
+  n45["`Hazlitt đánh giá thấp tiếng nói tập thể: công đoàn giảm nghỉ việc, cải thiện an toàn, tác động năng suất không đồng nhất`"]
+  n43 --- n45
+  n46["`Số liệu đường sắt trùng Đại suy thoái và cạnh tranh của xe tải, ô tô, không tách được tác động của lương`"]
+  n43 --- n46
+  n47["`Phân tích chốt chặn đi trước mô hình người trong cuộc và người ngoài cuộc của Lindbeck và Snower`"]
+  n43 --- n47
+  n48["`Công đoàn Mỹ suy giảm từ thập niên 1950 nhưng lương trung vị tăng chậm hơn năng suất`"]
+  n43 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Xung đột chính không phải giữa lao động và vốn mà giữa người có việc và người tìm việc`"]
+  n49 --- n50
+  n51["`Khi một nhóm được tăng lương, hỏi ai trả: người tiêu dùng, vốn tạm thời, hay người không được thuê`"]
+  n49 --- n51
+  n52["`Năng suất, tức tích luỹ vốn và tiến bộ kỹ thuật, là trần của lương thực tế chung`"]
+  n49 --- n52
+  class n0 root
+  class n1,n10,n17,n26,n34,n43,n49 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 19 "Do Unions Really Raise Wages?". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 18 xét cách nâng lương thứ nhất, bằng luật (lương tối thiểu), và kết thúc bằng mệnh đề "lương thực tế đến từ sản xuất"; Chương 18 cũng nói trường hợp người lao động bị trả thấp hơn giá trị thị trường nên được xử lý bằng công đoàn.
+
+Chương 19 xét cách nâng lương thứ hai, bằng sức ép tập thể của công đoàn, và phân biệt chức năng chính đáng của công đoàn với việc dùng cưỡng ép.
+
+Chương này cũng nhắc lại hai chương đầu Phần Hai: ngụy biện "khối lượng việc làm cố định" (Chương 8, Spread-the-Work Schemes) và việc chống máy móc (Chương 7, The Curse of Machinery). Chương 20 ("Enough to Buy Back the Product") tiếp tục với lập luận "phải tăng lương để công nhân đủ sức mua lại sản phẩm".
+
+## Lưu ý
+
+- Bối cảnh: Đạo luật Wagner (*National Labor Relations Act*, 1935) thời New Deal bảo hộ quyền lập công đoàn và thương lượng tập thể, đặt nghĩa vụ chủ yếu lên phía chủ thuê; người tổng hợp cho rằng đây chính là loại luật Hazlitt gọi là "luật lao động một chiều" (Hazlitt không tự nối hai ý này). Năm 1945–1946, ngay sau chiến tranh, Mỹ trải qua làn sóng đình công lớn nhất trong lịch sử (thép, ô tô, than, đường sắt). Một năm sau khi sách ra, Đạo luật Taft-Hartley (1947) hạn chế một số hành vi của công đoàn (cấm "closed shop" tức chỉ được thuê đoàn viên, cấm tẩy chay thứ cấp).
+- Câu "chỉ khoảng một phần tư người lao động có thu nhập ở Mỹ là đoàn viên công đoàn" là số liệu của Hazlitt cho thời điểm đó.
+- Số liệu đường sắt mà Hazlitt dùng bao trùm thời Đại suy thoái (1929–1939) và giai đoạn xe tải, ô tô cạnh tranh mạnh với đường sắt, nên không thể quy toàn bộ việc giảm lao động cho lương tăng; chính Hazlitt cũng nói ông tạm "bỏ qua thực tế" để bàn trường hợp giả định.
+- Mọi câu trích là bản dịch của người tổng hợp.

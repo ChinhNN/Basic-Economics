@@ -1,11 +1,16 @@
 # Chương 10 — Tôn sùng toàn dụng lao động (The Fetish of Full Employment)
 
-**Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 10 "The Fetish of Full Employment". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
-**Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 10 là chương kết của cụm 7–10 về việc làm. Chương 7 chỉ ra máy móc không gây thất nghiệp ròng và chức năng của máy là tăng sản xuất; Chương 8 bác bỏ các kế hoạch chia việc dựa trên giả định lượng việc cố định; Chương 9 cho thấy giữ người không cần thiết trên bảng lương nhà nước không tạo sức mua. Chương 10 gom ba chương đó vào một nguyên lý: **mục tiêu là sản xuất, việc làm chỉ là phương tiện**. Khi biến toàn dụng lao động thành mục tiêu tự thân, người ta dung túng mọi cách làm kém hiệu quả. Từ Chương 11, Hazlitt chuyển sang thuế quan và thương mại, nơi ngụy biện "bảo vệ việc làm" xuất hiện dưới dạng mới.
-**Ý chính:** Hazlitt muốn chứng minh rằng **toàn dụng lao động không phải là mục tiêu kinh tế, mà là sản phẩm phụ của mục tiêu thật là tối đa hoá sản xuất**. Không thể có sản xuất tối đa lâu dài mà không có toàn dụng lao động, nhưng rất dễ có toàn dụng lao động mà không có sản xuất tối đa: bộ lạc nguyên thuỷ, chương trình vũ trang của Hitler, chiến tranh, lao động nô lệ, nhà tù đều có toàn dụng. Ông phê phán việc Quốc hội Mỹ bàn "dự luật Toàn dụng lao động" chứ không phải "dự luật Sản xuất tối đa", việc công chúng ủng hộ Petrillo ép đài phát thanh thuê gấp đôi số nhạc công cần, và việc chương trình WPA tự hào về những dự án dùng nhiều người nhất so với giá trị công việc. Tiến bộ văn minh, theo ông, có nghĩa là **giảm** việc làm: giàu lên thì trẻ em, người già và hàng triệu phụ nữ không cần phải đi làm. Câu hỏi thật không phải năm 1950 nước Mỹ có 50 hay 60 triệu việc làm, mà là sản xuất được bao nhiêu và mức sống ra sao.
+## Ý chính
 
-> **Lưu ý:** (1) "Dự luật Toàn dụng lao động" (Full Employment Bill) năm 1945 là dự luật của Thượng nghị sĩ James Murray, cam kết nhà nước bảo đảm việc làm cho mọi người muốn làm; sau tranh luận, nó được thông qua ở dạng yếu hơn thành Đạo luật Việc làm (Employment Act) tháng 2/1946, bỏ chữ "toàn dụng" và chỉ yêu cầu nhà nước thúc đẩy "việc làm, sản xuất và sức mua ở mức tối đa". (2) "Một Petrillo" là James C. Petrillo, chủ tịch Liên đoàn Nhạc công Mỹ, người tổ chức lệnh cấm thu âm 1942–1944 và ép các đài phát thanh thuê nhạc công "dự phòng"; năm 1946 Quốc hội thông qua Đạo luật Lea (thường gọi là "luật chống Petrillo") để hạn chế việc này. (3) WPA (Works Progress Administration, 1935–1943) là chương trình việc làm công lớn nhất của New Deal. (4) Con số "50 hay 60 triệu việc làm năm 1950" ám chỉ cuốn *Sixty Million Jobs* (1945) của Henry Wallace, Bộ trưởng Thương mại khi đó. (5) Hazlitt xếp Trung Quốc và Ấn Độ năm 1946 là những nước nghèo hơn Mỹ "không thể so sánh"; nhận định này đúng với thời ông, còn sự chuyển mình của hai nước này về sau lại là minh hoạ cho chính luận điểm của ông về vai trò của vốn và năng suất. (6) Câu trích trong file là bản dịch của người tổng hợp.
+Hazlitt muốn chứng minh rằng **toàn dụng lao động không phải là mục tiêu kinh tế, mà là sản phẩm phụ của mục tiêu thật là tối đa hoá sản xuất**.
+
+Không thể có sản xuất tối đa lâu dài mà không có toàn dụng lao động, nhưng rất dễ có toàn dụng lao động mà không có sản xuất tối đa: bộ lạc nguyên thuỷ, chương trình vũ trang của Hitler, chiến tranh, lao động nô lệ, nhà tù đều có toàn dụng.
+
+Ông phê phán việc Quốc hội Mỹ bàn "dự luật Toàn dụng lao động" chứ không phải "dự luật Sản xuất tối đa", việc công chúng ủng hộ Petrillo ép đài phát thanh thuê gấp đôi số nhạc công cần, và việc chương trình WPA tự hào về những dự án dùng nhiều người nhất so với giá trị công việc.
+
+Tiến bộ văn minh, theo ông, có nghĩa là **giảm** việc làm: giàu lên thì trẻ em, người già và hàng triệu phụ nữ không cần phải đi làm.
+
+Câu hỏi thật không phải năm 1950 nước Mỹ có 50 hay 60 triệu việc làm, mà là sản xuất được bao nhiêu và mức sống ra sao.
 
 ## Sơ đồ
 
@@ -292,15 +297,21 @@ Câu "sản xuất là mục đích, việc làm là phương tiện" ít khi b�
 
 ### Nhưng việc làm không chỉ là phương tiện, và Hazlitt bỏ qua giá trị phi tiền tệ của việc làm
 
-Nghiên cứu về hạnh phúc và sức khoẻ cho thấy thất nghiệp không tự nguyện gây tổn hại lớn hơn nhiều so với phần thu nhập bị mất: mất lòng tự trọng, mạng lưới xã hội, kỹ năng bị mai một, và hậu quả kéo dài cho cả gia đình. Nếu việc làm có giá trị tự thân với người lao động, thì cứu trợ công khai không hoàn toàn thay thế được việc làm, và lựa chọn "sản xuất tối đa + cứu trợ" của Hazlitt không tốt hơn một cách hiển nhiên. Hazlitt cũng định nghĩa toàn dụng là "không có ngồi không ngoài ý muốn", nên ông không bác bỏ việc chống thất nghiệp không tự nguyện; ông chỉ bác bỏ việc chống nó bằng cách làm kém hiệu quả. Đọc công bằng, chương này nhắm vào **phương pháp** tạo việc, không vào **mục tiêu** giảm thất nghiệp.
+Nghiên cứu về hạnh phúc và sức khoẻ cho thấy thất nghiệp không tự nguyện gây tổn hại lớn hơn nhiều so với phần thu nhập bị mất: mất lòng tự trọng, mạng lưới xã hội, kỹ năng bị mai một, và hậu quả kéo dài cho cả gia đình. Nếu việc làm có giá trị tự thân với người lao động, thì cứu trợ công khai không hoàn toàn thay thế được việc làm, và lựa chọn "sản xuất tối đa + cứu trợ" của Hazlitt không tốt hơn một cách hiển nhiên.
+
+Hazlitt cũng định nghĩa toàn dụng là "không có ngồi không ngoài ý muốn", nên ông không bác bỏ việc chống thất nghiệp không tự nguyện; ông chỉ bác bỏ việc chống nó bằng cách làm kém hiệu quả. Đọc công bằng, chương này nhắm vào **phương pháp** tạo việc, không vào **mục tiêu** giảm thất nghiệp.
 
 ### Nhận định về phụ nữ và việc làm đã bị lịch sử vượt qua, và cho thấy giới hạn trong cách Hazlitt đo phúc lợi
 
-Hazlitt coi việc "hàng triệu phụ nữ không cần đi làm" là một thành quả của giàu có. Nửa sau thế kỷ 20, ở mọi nước giàu, tỷ lệ phụ nữ đi làm lại tăng mạnh, và điều đó đi cùng với tăng trưởng chứ không phải suy thoái. Lý do: Hazlitt ngầm coi việc làm ở nhà không có giá trị sản xuất được đo và coi đi làm là gánh nặng; thực tế, khi máy móc gia dụng và dịch vụ thay thế việc nhà, nhiều phụ nữ **chọn** đi làm vì thu nhập, sự độc lập và sự nghiệp. Điều này không bác bỏ luận điểm chính (thời gian rảnh và đi học là thành quả của giàu có; giờ làm trên mỗi người thật sự đã giảm), nhưng cho thấy "ít người phải làm" không phải là thước đo tốt cho tiến bộ. Thước đo đúng, như chính Hazlitt nói ở Chương 7, là người ta được **chọn** làm hay không.
+Hazlitt coi việc "hàng triệu phụ nữ không cần đi làm" là một thành quả của giàu có. Nửa sau thế kỷ 20, ở mọi nước giàu, tỷ lệ phụ nữ đi làm lại tăng mạnh, và điều đó đi cùng với tăng trưởng chứ không phải suy thoái.
+
+Lý do: Hazlitt ngầm coi việc làm ở nhà không có giá trị sản xuất được đo và coi đi làm là gánh nặng; thực tế, khi máy móc gia dụng và dịch vụ thay thế việc nhà, nhiều phụ nữ **chọn** đi làm vì thu nhập, sự độc lập và sự nghiệp. Điều này không bác bỏ luận điểm chính (thời gian rảnh và đi học là thành quả của giàu có; giờ làm trên mỗi người thật sự đã giảm), nhưng cho thấy "ít người phải làm" không phải là thước đo tốt cho tiến bộ. Thước đo đúng, như chính Hazlitt nói ở Chương 7, là người ta được **chọn** làm hay không.
 
 ### Hazlitt đúng về chương trình việc làm công kiểu WPA ở một phần, nhưng bỏ qua bối cảnh suy thoái
 
-Phê phán việc khen những dự án dùng nhiều người nhất so với giá trị công việc là hợp lý: nếu mục tiêu là sản phẩm, dự án nên dùng cách làm rẻ nhất. Nhưng WPA ra đời khi thất nghiệp ở Mỹ ở mức rất cao trong Đại Suy thoái, và lý lẽ của những người ủng hộ là: khi nguồn lực đang bị bỏ không, chi phí cơ hội của lao động gần bằng không, nên ngay cả một dự án kém hiệu quả vẫn tạo ra thêm sản phẩm thay vì không gì cả. Đây là điểm Keynes và Hazlitt bất đồng sâu nhất, và nó phụ thuộc vào câu hỏi Hazlitt bàn ở nơi khác: thất nghiệp hàng loạt có phải chủ yếu do lương và giá sai lệch (Hazlitt) hay do thiếu cầu tổng thể (Keynes). Chương 10 không tự giải quyết được tranh luận đó; nó chỉ chỉ ra đúng rằng ngay cả khi tạo việc công, nên chọn dự án có giá trị cao nhất chứ không phải dự án dùng nhiều người nhất.
+Phê phán việc khen những dự án dùng nhiều người nhất so với giá trị công việc là hợp lý: nếu mục tiêu là sản phẩm, dự án nên dùng cách làm rẻ nhất. Nhưng WPA ra đời khi thất nghiệp ở Mỹ ở mức rất cao trong Đại Suy thoái, và lý lẽ của những người ủng hộ là: khi nguồn lực đang bị bỏ không, chi phí cơ hội của lao động gần bằng không, nên ngay cả một dự án kém hiệu quả vẫn tạo ra thêm sản phẩm thay vì không gì cả.
+
+Đây là điểm Keynes và Hazlitt bất đồng sâu nhất, và nó phụ thuộc vào câu hỏi Hazlitt bàn ở nơi khác: thất nghiệp hàng loạt có phải chủ yếu do lương và giá sai lệch (Hazlitt) hay do thiếu cầu tổng thể (Keynes). Chương 10 không tự giải quyết được tranh luận đó; nó chỉ chỉ ra đúng rằng ngay cả khi tạo việc công, nên chọn dự án có giá trị cao nhất chứ không phải dự án dùng nhiều người nhất.
 
 ### Vận dụng: đo thành công bằng giá trị tạo ra, không bằng số người hay số giờ bỏ vào
 
@@ -308,3 +319,130 @@ Phê phán việc khen những dự án dùng nhiều người nhất so với g
 - **Khi đọc tin chính sách.** Các dự án đầu tư công hay thu hút đầu tư thường được quảng bá bằng số việc làm tạo ra. Ở Việt Nam, khi đánh giá một dự án FDI, một khu công nghiệp hay một gói hỗ trợ, nên hỏi thêm câu của Hazlitt: những việc làm đó có năng suất bao nhiêu, có kéo năng suất ngành lên không, và chi phí (ưu đãi thuế, đất, ngân sách) cho mỗi việc làm là bao nhiêu so với giá trị nó tạo ra. Một dự án tạo ít việc nhưng năng suất cao có thể đáng giá hơn một dự án tạo nhiều việc thủ công.
 - **Với nghề nghiệp cá nhân.** "Bận rộn" là toàn dụng, chưa chắc là sản xuất. Người lao động tạo giá trị cao nhất không phải người làm nhiều giờ nhất, mà người dùng thời gian vào việc có giá trị nhất, rồi dùng thời gian còn lại cho học tập, sức khoẻ và gia đình. Đó chính là "giảm việc làm" theo nghĩa của Hazlitt, ở cấp một con người.
 - **Với người đầu tư.** Một nền kinh tế, một ngành hay một công ty tăng trưởng chủ yếu nhờ thêm người làm (mở rộng về lượng) sẽ chậm lại khi hết người; tăng trưởng nhờ năng suất (thêm vốn, công nghệ, tổ chức tốt hơn) thì bền hơn. Câu hỏi "tăng trưởng này đến từ thêm người hay từ mỗi người làm ra nhiều hơn" là phép thử nhanh cho chất lượng tăng trưởng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: năm nhánh lớn đi theo các mục 1–5 của phần Nội dung chi tiết (mục tiêu kinh tế, sản xuất là mục đích và việc làm là phương tiện, phương tiện bị dựng thành mục đích, cứu trợ công khai so với việc làm trá hình, tiến bộ văn minh nghĩa là giảm việc làm), một nhánh cho phần Đánh giá, mỗi nhánh ghi lập luận, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: toàn dụng lao động là sản phẩm phụ của tối đa hoá sản xuất, không phải mục tiêu tự thân`"]
+  n1["`Mục 1 — Mục tiêu kinh tế là kết quả lớn nhất với công sức nhỏ nhất`"]
+  n0 --- n1
+  n2["`Mục tiêu của mọi quốc gia, cũng như mọi cá nhân, là kết quả lớn nhất với công sức nhỏ nhất`"]
+  n1 --- n2
+  n3["`Toàn bộ tiến bộ kinh tế là làm ra nhiều hơn với cùng một lượng lao động`"]
+  n1 --- n3
+  n4["`Con la thay lưng người, rồi bánh xe, xe ngựa, đường sắt, xe tải và một trăm nghìn phát minh tiết kiệm lao động`"]
+  n1 --- n4
+  n5["`Điều sơ đẳng này bị những người đặt khẩu hiệu kinh tế mới liên tục quên`"]
+  n1 --- n5
+  n6["`Mục 2 — Sản xuất là mục đích, việc làm chỉ là phương tiện`"]
+  n0 --- n6
+  n7["`Toàn dụng nghĩa là không có tình trạng ngồi không ngoài ý muốn`"]
+  n6 --- n7
+  n8["`Quan hệ một chiều: không thể liên tục có sản xuất tối đa mà thiếu toàn dụng, nhưng rất dễ có toàn dụng mà không có sản xuất tối đa`"]
+  n6 --- n8
+  n9["`Bộ lạc nguyên thuỷ trần truồng, ăn ở khốn khổ mà không có thất nghiệp`"]
+  n6 --- n9
+  n10["`Trung Quốc, Ấn Độ 1946 nghèo vì phương pháp sản xuất lạc hậu và thiếu vốn, không phải vì thất nghiệp`"]
+  n6 --- n10
+  n11["`Đức thời Hitler toàn dụng nhờ vũ trang, chiến tranh toàn dụng mọi nước tham chiến`"]
+  n6 --- n11
+  n12["`Lao động nô lệ ở Đức, nhà tù, đội tù khổ sai: cưỡng ép bao giờ cũng tạo được toàn dụng`"]
+  n6 --- n12
+  n13["`Không gì dễ đạt hơn toàn dụng, một khi tách nó khỏi mục tiêu sản xuất tối đa`"]
+  n6 --- n13
+  n14["`Mục 3 — Phương tiện bị dựng thành mục đích`"]
+  n0 --- n14
+  n15["`Quốc hội Mỹ bàn dự luật Toàn dụng lao động, không phải dự luật Sản xuất tối đa`"]
+  n14 --- n15
+  n16["`Giới doanh nhân đề xuất Uỷ ban Tổng thống về Toàn dụng, thậm chí không về cả hai`"]
+  n14 --- n16
+  n17["`Giả định lượng việc cố định dẫn tới tin tuần 30 giờ tốt hơn tuần 40 giờ (Chương 8)`"]
+  n14 --- n17
+  n18["`Hàng trăm quy định tạo việc của công đoàn được dung túng (Chương 7)`"]
+  n14 --- n18
+  n19["`Petrillo doạ làm đài phát thanh phá sản nếu không thuê gấp đôi số nhạc công cần, công chúng vẫn ủng hộ`"]
+  n14 --- n19
+  n20["`WPA: người quản lý được khen là thiên tài khi dự án dùng nhiều người nhất so với giá trị công việc`"]
+  n14 --- n20
+  n21["`Mục 4 — Cứu trợ công khai tốt hơn việc làm trá hình`"]
+  n0 --- n21
+  n22["`Nếu buộc phải chọn: sản xuất tối đa và nuôi người không có việc bằng cứu trợ công khai`"]
+  n21 --- n22
+  n23["`Cách đó tốt hơn nhiều so với toàn dụng bằng việc làm trá hình tới mức sản xuất bị xáo trộn`"]
+  n21 --- n23
+  n24["`Cứu trợ chỉ chuyển một phần sản lượng, việc làm trá hình còn làm giảm chính sản lượng cần chia`"]
+  n21 --- n24
+  n25["`Ví dụ giả định: 100 tỉ đồng cho 2.000 lao động, đào mương bằng tay thay máy xúc làm xã hội nghèo hơn`"]
+  n21 --- n25
+  n44["`Việc làm trá hình: tạo ra để có người làm, không vì giá trị sản phẩm`"]
+  n21 --- n44
+  n26["`Mục 5 — Tiến bộ văn minh nghĩa là giảm việc làm`"]
+  n0 --- n26
+  n27["`Vì giàu lên, Mỹ gần như xoá lao động trẻ em và nhiều người già không phải đi làm`"]
+  n26 --- n27
+  n28["`Hàng triệu phụ nữ không cần đi làm, tỷ lệ dân Mỹ cần làm việc nhỏ hơn nhiều so với Trung Quốc hay Nga`"]
+  n26 --- n28
+  n29["`Câu hỏi thật không phải 50 hay 60 triệu việc làm năm 1950, mà là sản xuất bao nhiêu và mức sống ra sao`"]
+  n26 --- n29
+  n30["`Vấn đề phân phối càng dễ giải quyết khi có càng nhiều thứ để phân phối`"]
+  n26 --- n30
+  n31["`Kết chương: đặt trọng tâm vào những chính sách tối đa hoá sản xuất`"]
+  n26 --- n31
+  n43["`Xã hội giàu lên thì phần không làm việc tự nguyện tăng, đó là thành quả chứ không phải thất bại`"]
+  n26 --- n43
+  n32["`Đánh giá — Chỗ đúng và chỗ hạn chế`"]
+  n0 --- n32
+  n33["`Kinh tế học hiện đại đồng ý: đo mức sống bằng sản lượng, nước nghèo thiếu năng suất chứ không thiếu việc`"]
+  n32 --- n33
+  n34["`Trung Quốc, Ấn Độ cất cánh nhờ tích luỹ vốn và tăng năng suất, đúng chẩn đoán thiếu vốn`"]
+  n32 --- n34
+  n35["`Thất nghiệp không tự nguyện gây hại hơn phần thu nhập mất, nên cứu trợ không hoàn toàn thay được việc làm`"]
+  n32 --- n35
+  n36["`Chương nhắm vào phương pháp tạo việc, không vào mục tiêu giảm thất nghiệp không tự nguyện`"]
+  n32 --- n36
+  n37["`Tỷ lệ phụ nữ đi làm ở nước giàu lại tăng, thước đo đúng là được chọn làm hay không`"]
+  n32 --- n37
+  n38["`WPA ra đời giữa Đại Suy thoái, khi chi phí cơ hội của lao động gần bằng không: chỗ Keynes và Hazlitt bất đồng`"]
+  n32 --- n38
+  n39["`Thông điệp xuyên suốt`"]
+  n0 --- n39
+  n40["`Đánh giá chính sách theo tác động lên sản xuất và mức sống, không theo số việc làm tạo ra`"]
+  n39 --- n40
+  n41["`Tôn sùng toàn dụng là chẩn đoán chung cho các ngụy biện ở Chương 7–9`"]
+  n39 --- n41
+  n42["`Doanh nghiệp, dự án, cá nhân: đo bằng giá trị tạo ra, không bằng số người hay số giờ bỏ vào`"]
+  n39 --- n42
+  class n0 root
+  class n1,n6,n14,n21,n26,n32,n39 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44 leaf
+```
+
+## Nguồn
+
+Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 10 "The Fetish of Full Employment". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
+
+## Tác giả
+
+Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 10 là chương kết của cụm 7–10 về việc làm. Chương 7 chỉ ra máy móc không gây thất nghiệp ròng và chức năng của máy là tăng sản xuất; Chương 8 bác bỏ các kế hoạch chia việc dựa trên giả định lượng việc cố định; Chương 9 cho thấy giữ người không cần thiết trên bảng lương nhà nước không tạo sức mua.
+
+Chương 10 gom ba chương đó vào một nguyên lý: **mục tiêu là sản xuất, việc làm chỉ là phương tiện**. Khi biến toàn dụng lao động thành mục tiêu tự thân, người ta dung túng mọi cách làm kém hiệu quả. Từ Chương 11, Hazlitt chuyển sang thuế quan và thương mại, nơi ngụy biện "bảo vệ việc làm" xuất hiện dưới dạng mới.
+
+## Lưu ý
+
+- "Dự luật Toàn dụng lao động" (Full Employment Bill) năm 1945 là dự luật của Thượng nghị sĩ James Murray, cam kết nhà nước bảo đảm việc làm cho mọi người muốn làm; sau tranh luận, nó được thông qua ở dạng yếu hơn thành Đạo luật Việc làm (Employment Act) tháng 2/1946, bỏ chữ "toàn dụng" và chỉ yêu cầu nhà nước thúc đẩy "việc làm, sản xuất và sức mua ở mức tối đa".
+- "Một Petrillo" là James C. Petrillo, chủ tịch Liên đoàn Nhạc công Mỹ, người tổ chức lệnh cấm thu âm 1942–1944 và ép các đài phát thanh thuê nhạc công "dự phòng"; năm 1946 Quốc hội thông qua Đạo luật Lea (thường gọi là "luật chống Petrillo") để hạn chế việc này.
+- WPA (Works Progress Administration, 1935–1943) là chương trình việc làm công lớn nhất của New Deal.
+- Con số "50 hay 60 triệu việc làm năm 1950" ám chỉ cuốn *Sixty Million Jobs* (1945) của Henry Wallace, Bộ trưởng Thương mại khi đó.
+- Hazlitt xếp Trung Quốc và Ấn Độ năm 1946 là những nước nghèo hơn Mỹ "không thể so sánh"; nhận định này đúng với thời ông, còn sự chuyển mình của hai nước này về sau lại là minh hoạ cho chính luận điểm của ông về vai trò của vốn và năng suất.
+- Câu trích trong file là bản dịch của người tổng hợp.
